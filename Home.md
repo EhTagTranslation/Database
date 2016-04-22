@@ -1,1 +1,1 @@
-Welcome to the EhTagTranslator wiki!
+请自觉遵守规则添加翻译
