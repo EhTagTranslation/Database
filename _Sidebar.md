@@ -1,4 +1,4 @@
-请参照格式参与修改，添加数据库
+请参照格式参与修改
 * [行名](https://github.com/Mapaler/EhTagTranslator/wiki/rows)
 * [艺术家](https://github.com/Mapaler/EhTagTranslator/wiki/artist)
 * [团队](https://github.com/Mapaler/EhTagTranslator/wiki/group)
