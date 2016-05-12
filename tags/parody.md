@@ -10,7 +10,7 @@
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | |
 | toaru kagaku no railgun | 某科学的超电磁炮 | |
 | kantai collection | 舰队collection | |
-| pokemon | 精灵宝可梦 | |
+| pokemon | 精灵宝可梦 | ![萌之英语单词](http://tse1.mm.bing.net/th?&id=OIP.M00aabeffa352256858040b238495b5b1o0&w=299&h=168&c=0&pid=1.9&rs=0&p=0) |
 | higurashi no naku koro ni | 寒蝉鸣泣之时 | |
 | saki | 天才麻将少女 | |
 | puella magi madoka magica | 魔法少女小圆 | |
