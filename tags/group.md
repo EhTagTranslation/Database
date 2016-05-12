@@ -6,5 +6,6 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
+| electromagneticwave | ElectromagneticWave | ![萌单作者POP所在的社团](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 | usotsukiya | 嘘つき屋 | ![大嘘的社团名，袜控，女子高中生画家](http://exhentai.org/t/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_l.jpg) |
 | softstar | 大宇资讯 | 仙剑奇侠传系列、轩辕剑系列等作品。 |
