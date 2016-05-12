@@ -16,7 +16,7 @@
 | puella magi madoka magica | 魔法少女小圆 | |
 | lotte no omocha | 露蒂的玩具 | |
 | sword art online | 刀剑神域 | |
-| to love-ru | To LOVEる | |
+| to love-ru | To LOVEる | ![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg) |
 | ro-kyu-bu | 萝球社 | |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | |
 | hyperdimension neptunia | 超次元游戏：海王星 | |
