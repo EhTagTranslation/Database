@@ -53,8 +53,14 @@ Wiki中英文名只能填写真实Tag部分
 
 ![填写方法](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3srphp9gaj20kl05w75e.jpg)
 
-#常用翻译站点
+# 相关工具
+## 常用翻译站点
 * [谷歌翻译](http://translate.google.cn/)
 * [必应翻译](http://www.bing.com/translator/)
 * [百度翻译](http://fanyi.baidu.com/#auto/zh/)
 * [爱词霸（金山词霸）](http://www.iciba.com/)
+
+## 图床
+### 微博图床
+* [围脖图床修复计划](http://weibotuchuang.sinaapp.com/)
+* [微博相册图片地址批量获取工具](https://greasyfork.org/scripts/18036)
