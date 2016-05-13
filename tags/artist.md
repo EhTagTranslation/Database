@@ -6,9 +6,9 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | mapaler | 枫谷剑仙 | 怎么可能会有我的作品嘛 |
-| pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>萌单作者 |
+| pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>萌单作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 | oouso | 大嘘 | ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twcfldr4j204q04qwen.jpg)<br>袜控，尻控，女子高中生(误)画家。<br>![大嘘作品](http://exhentai.org/t/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_l.jpg) |
-| peko | ぺこ | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者 |
+| peko | ぺこ | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](http://exhentai.org/t/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_l.jpg) |
 | akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>貌似也是袜控，和大嘘风格不一样<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_l.jpg) |
 | ishikei | 石惠 | ![浓墨厚涂榨汁机](http://exhentai.org/t/38/39/3839a8f9171d1c67415b50c99333d553be404083-1416172-2000-2837-jpg_l.jpg) |
 | endou hiroto | 遠藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>![浓墨厚涂榨汁机2](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_l.jpg) |
