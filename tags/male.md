@@ -2,5 +2,6 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| shotacon | 正太 | 小男孩 |
-| schoolboy | 男学生 | |
+| shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
+| pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
+| stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
