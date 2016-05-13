@@ -4,7 +4,7 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| touhou project | 东方Project | ![捐一串还是两串都可以哦～](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg) |
+| touhou project | 东方Project | ![囧仙子](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～ |
 | moetan | 萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | |
 | toaru kagaku no railgun | 某科学的超电磁炮 | |
