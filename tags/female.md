@@ -9,7 +9,7 @@
 | blowjob | 口交 | ![图](http://exhentai.org/t/43/7e/437eaf25debe48e71503fc8c9f64e6b0f9d6046f-813559-2028-3043-jpg_250.jpg) |
 | footjob | 足交 | ![图](http://exhentai.org/t/74/6a/746ad8645d1bec109fc30f093b77f00260d6c582-1119218-1411-2000-jpg_l.jpg) |
 | anal | 肛交 | ![图](http://exhentai.org/t/f0/09/f0092b032d035e289baa145e8061fce8a13fcad8-296903-1060-1510-jpg_250.jpg) |
-| enema | 灌肠 | 医学的灌肠（enema）是指通过肛门引液体灌洗直肠的操作。有治疗疾病（例如便秘）、另类保健疗法、或者色情（例如性虐待）的用途。<br>使用的器具及液体必须为医用，否则很容易引发危险。除不洁器具导致的感染外，操作不当还可能引起肠穿孔、过量液体吸收而引起的心力衰竭、电解质失衡等。![开塞露](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Enema_prepared%2C_disposable.jpg/225px-Enema_prepared%2C_disposable.jpg) |
+| enema | 灌肠 | 医学的灌肠（enema）是指通过肛门引液体灌洗直肠的操作。有治疗疾病（例如便秘）、另类保健疗法、或者色情（例如性虐待）的用途。<br>使用的器具及液体必须为医用，否则很容易引发危险。除不洁器具导致的感染外，操作不当还可能引起肠穿孔、过量液体吸收而引起的心力衰竭、电解质失衡等。<br>![开塞露](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Enema_prepared%2C_disposable.jpg/225px-Enema_prepared%2C_disposable.jpg) |
 | vaginal sticker | 阴贴 | 任何在阴道口区域粘贴平面物体（如创可贴）的行为<br>![图](http://exhentai.org/t/9f/9f/9f9fa571990c865a049671cbbedbb47b7d2af8e9-5724434-2333-3300-png_l.jpg) |
 | foot licking | 舔足 | |
 | futanari | 扶她 | 具有男性生殖器的女性<br>![图](http://exhentai.org/t/93/8b/938bb3469b3c0c707eb8478e5659fce199258789-137711-595-828-jpg_250.jpg) |
