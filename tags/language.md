@@ -6,7 +6,7 @@
 | arabic | 阿拉伯语 | |
 | bengali | 孟加拉语 | |
 | catalan | 加泰罗尼亚语 | |
-| chinese | 中国语 | 刚才你问我啊，我可以说无可奉告，但是你们又不高兴怎么办？<br>![当然支持](https://tse1.mm.bing.net/th?&id=OIP.M8072d01c8e3c4f1116aa70673a75e007o0&w=300&h=222&c=0&pid=1.9&rs=0&p=0) |
+| chinese | ![青蛙王子](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tv6tk7joj200h00j084.jpg)中国语 | 刚才你问我啊，我可以说无可奉告，但是你们又不高兴怎么办？<br>![当然支持](https://tse1.mm.bing.net/th?&id=OIP.M8072d01c8e3c4f1116aa70673a75e007o0&w=300&h=222&c=0&pid=1.9&rs=0&p=0) |
 | czech | 捷克语 | |
 | danish | 丹麦语 | |
 | dutch | 荷兰语 | |
