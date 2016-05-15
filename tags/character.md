@@ -23,3 +23,34 @@
 | letty whiterock | 蕾迪·霍瓦特罗克 | |
 | chen | 橙 | |
 | | ▲东方Project 人物 | |
+| | ▼舰队Collection-KanColle 人物 | |
+| amatsukaze | 天津风 |
+| atago | 爱宕 |
+| hoppou seiki | 北方栖姬 |
+| bismarck | 俾斯麦 |
+| hamakaze | 滨风 |
+| asashio | 朝潮 |
+| harusame | 春雨 |
+| murakumo | 丛云 |
+| taihou | 大凤 |
+| shimakaze | 岛风 |
+| inazuma | 电 |
+| takao | 高雄 |
+| kongou | 金刚 |
+| ikazuchi | 雷 |
+| suzuya | 铃谷 |
+| kashima | 鹿岛 |
+| ro-500 | 吕500 |
+| nachi | 那智 |
+| prinz eugen | 欧根亲王 |
+| graf zeppelin | 齐柏林伯爵 |
+| zuihou | 瑞凤 |
+| akebono | 曙 |
+| samidare | 五月雨 |
+| hibiki | 响 |
+| verniy | 响改二 |
+| haruna | 榛名 |
+| ashigara | 足柄 |
+| z1 | Z1 |
+| z3 | Z3 |
+| | ▲舰队Collection-KanColle 人物 | |
