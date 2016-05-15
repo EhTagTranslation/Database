@@ -5,7 +5,7 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| | ▼枫谷剑仙 编辑 | 这就是爱 |
+| | ▼这就是爱 | |
 | pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>萌单作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 | oouso | 大嘘 | ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twcfldr4j204q04qwen.jpg)<br>袜控，尻控，女子高中生(误)画家。<br>![大嘘作品](http://exhentai.org/t/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_l.jpg) |
 | peko | ぺこ | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](http://exhentai.org/t/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_l.jpg) |
@@ -21,7 +21,7 @@
 | land sale | 蘭戸せる | ![蘭戸せる头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tx9au020j204q04qjrj.jpg)<br>二妹！二妹！二妹~<br>![蘭戸せる作品](http://exhentai.org/t/bd/9f/bd9fb746ba895d019aac2cd84a7a9bcde1aef500-1095269-1400-2013-jpg_l.jpg) |
 | emily | emily | ![emily头像](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3txb9wklcj204q04qmxj.jpg)<br>萝莉！萝莉！萝莉~<br>![emily作品](http://exhentai.org/t/f9/90/f9907e06268b6d62a9b9705fc5f4891af63e44ed-122897-800-600-jpg_l.jpg) |
 | chiri | ちり | ![ちり头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tz43bqjoj204q04q3yz.jpg)<br>萝莉！萝莉！萝莉~<br>![ちり作品](http://exhentai.org/t/13/bc/13bcf50600c232d434d2c39ca0d56d8889c5618d-1306943-2123-3000-jpg_l.jpg) |
-| | ▲枫谷剑仙 编辑 | 这就是爱 |
+| | ▲这就是爱 | |
 | miyahara ayumu | 宮原歩 |
 | nishikawa kou | 西川康 |
 | narusawa kei | なるさわ景 |
