@@ -10,8 +10,8 @@
 | | ▲萌单 人物 | |
 | | ▼东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)官方角色列表填写 |
 | flandre scarlet | 芙兰朵露·斯卡雷特 | ![二妹](http://exhentai.org/t/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_l.jpg) |
-| reimu hakurei | 博丽灵梦 | |
-| marisa kirisame | 雾雨魔理沙 | |
+| reimu hakurei | 博丽灵梦 | ![十万巫女](https://img.acg.moe/common/thumb/8/87/ShinkirouReimu.jpg/447px-ShinkirouReimu.jpg) |
+| marisa kirisame | 雾雨魔理沙 |  |
 | rumia | 露米娅 | |
 | cirno | 琪露诺 | |
 | daiyousei | 大妖精 | |
@@ -24,8 +24,8 @@
 | chen | 橙 | |
 | | ▲东方Project 人物 | |
 | | ▼舰队Collection-KanColle 人物 | |
-| amatsukaze | 天津风 | |
-| atago | 爱宕 | |
+| amatsukaze | 天津风 | ![天津风](https://img.acg.moe/common/thumb/d/d2/45137996_p0.jpg/250px-45137996_p0.jpg) |
+| atago | 爱宕 | ![爱宕](https://img.acg.moe/common/thumb/c/c3/53756569_p0.png/250px-53756569_p0.png) |
 | hoppou seiki | 北方栖姬 | |
 | bismarck | 俾斯麦 | |
 | hamakaze | 滨风 | |
