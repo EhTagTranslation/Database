@@ -19,10 +19,10 @@
 | ro-kyu-bu | 萝球社 | |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | |
 | hyperdimension neptunia | 超次元游戏：海王星 | |
-| love live | Love Live! | |
+| love live | LoveLive! | ![封面](https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/Love_Live%21_promotional_image.jpg/250px-Love_Live%21_promotional_image.jpg) |
 | sora no otoshimono | 天降之物 | |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | |
-| vocaloid | V家 | |
+| vocaloid | V家 | ![图](https://tse1.mm.bing.net/th?&id=OIP.M04952eac2c7de0902d382e5e8c994752H0&w=300&h=201&c=0&pid=1.9&rs=0&p=0) |
 | date a live | 约会大作战 | |
 | gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | |
 | the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
