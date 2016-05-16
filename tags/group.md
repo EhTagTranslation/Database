@@ -18,4 +18,4 @@
 | moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](http://exhentai.org/t/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_l.jpg) |
 | yuzu soft | 柚子社(Yuzu-Soft) | ![logo](https://upload.wikimedia.org/wikipedia/zh/8/82/Yuzu_logo.jpg)<br>萌萌的画风！<br>![图](http://exhentai.org/t/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_l.jpg) |
 | | ▲GAL公司 | |
-| softstar | 大宇资讯 | 仙剑奇侠传系列、轩辕剑系列等作品。 |
+| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/images/logo1.gif)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
