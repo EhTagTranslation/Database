@@ -24,6 +24,6 @@
 | | ▲这就是爱 | |
 | miyahara ayumu | 宮原歩 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7506/26777492150_d11e4fd65f.jpg) |
-| narusawa kei | なるさわ景 | ![なるさわ景作品](http://exhentai.org/t/28/57/2857178868d58eb920647e7eec619a45752c9f92-443663-1112-1584-jpg_250.jpg) |
-| akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと](https://pbs.twimg.com/profile_images/564382471442034688/gdL218VF.jpeg) |
-| kisaragi gunma | 如月群真 | ![如月群真](http://exhentai.org/t/32/aa/32aa6049ca15cb7677b2108c640d8ca0260121c9-330930-1000-1280-jpg_250.jpg) |
+| narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) |
+| akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと](https://farm8.staticflickr.com/7068/26448607233_8c742b9d0f_b.jpg ) |
+| kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |
