@@ -18,4 +18,4 @@
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
 | futanari | 扶她 | 具有男性生殖器的女性<br>![图](http://exhentai.org/t/93/8b/938bb3469b3c0c707eb8478e5659fce199258789-137711-595-828-jpg_250.jpg) |
 | double penetration | 双重插入 | 两个孔口 （口腔、 阴道或肛门） 同时被击穿。<br>![图](http://exhentai.org/t/3c/fd/3cfd520b513d60248a26235a4d68a3de33435ee3-1407380-1254-1771-jpg_l.jpg) |
-| double penetration | 三重插入 | 三个插入到一个人同时发生。往往是双重插入用剩下的口也侵入，或侵入其他后孔双阴道/双肛门。<br>![图](http://exhentai.org/t/3c/fd/3cfd520b513d60248a26235a4d68a3de33435ee3-1407380-1254-1771-jpg_l.jpg) |
+| double penetration | 三重插入 | 三个插入到一个人同时发生。往往是双重插入用剩下的口也侵入，或侵入其他后孔双阴道/双肛门。<br>![图](http://exhentai.org/t/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg) |
