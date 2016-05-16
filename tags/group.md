@@ -4,6 +4,7 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
+| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/images/logo1.gif)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
 | | ▼同人社团 | |
 | electromagneticwave | ElectromagneticWave | ![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg)<br>萌单作者POP所在的社团 |
 | usotsukiya | 嘘つき屋 | ![大嘘作品](http://exhentai.org/t/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_l.jpg)<br>大嘘的社团名，袜控，女子高中生画家 |
@@ -20,4 +21,3 @@
 | leaf | Leaf会社 | ![logo](http://h.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=76c6f3fb6659252da3171a020ca06406/ac6eddc451da81cb96e4922c5466d016082431d4.jpg)<br>![图](http://exhentai.org/t/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_l.jpg) |
 | leaf | Key会社 | ![logo](http://c.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=8e1983e3830a19d8cb0383030bc1e5b6/503d269759ee3d6d175d5d9940166d224e4adecd.jpg)<br>神作工厂<br>![图](http://exhentai.org/t/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_l.jpg) |
 | | ▲GAL公司 | |
-| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/images/logo1.gif)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
