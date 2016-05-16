@@ -23,7 +23,7 @@
 | hyperdimension neptunia | 超次元游戏：海王星 | |
 | love live | LoveLive! | ![封面](https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/Love_Live%21_promotional_image.jpg/250px-Love_Live%21_promotional_image.jpg) |
 | sora no otoshimono | 天降之物 | |
-| boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](https://img.acg.moe/common/thumb/6/69/Meat-kashiwazaki_00247023.jpg/250px-Meat-kashiwazaki_00247023.jpg) |
+| boku wa tomodachi ga sukunai | 我的朋友很少 | ![图](http://exhentai.org/t/48/d7/48d72ebf21a766d430cf8441e0bde7f94dc3a02d-921627-2497-3500-jpg_l.jpg)![图](http://exhentai.org/t/58/cd/58cdb0fe999ac9a414ad02119fd5ac54d6926637-687951-2060-2996-jpg_l.jpg)![友少](https://img.acg.moe/common/thumb/6/69/Meat-kashiwazaki_00247023.jpg/250px-Meat-kashiwazaki_00247023.jpg) |
 | vocaloid | V家 | ![图](https://tse1.mm.bing.net/th?&id=OIP.M04952eac2c7de0902d382e5e8c994752H0&w=300&h=201&c=0&pid=1.9&rs=0&p=0) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
 | gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | ![点兔](https://img.acg.moe/common/9/9a/Diantu2_KV3.jpg) |
