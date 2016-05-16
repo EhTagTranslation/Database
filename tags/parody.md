@@ -25,3 +25,4 @@
 | vocaloid | V家 | |
 | date a live | 约会大作战 | |
 | gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | |
+| the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
