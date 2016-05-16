@@ -65,6 +65,7 @@
 | ashigara | 足柄 | ![足柄](https://img.acg.moe/common/thumb/6/69/52960554_p2_master1200.jpg/250px-52960554_p2_master1200.jpg) |
 | z1 | Z1 | ![Z1](https://img.acg.moe/common/thumb/5/53/46216583_p0.jpg/250px-46216583_p0.jpg)<br>P站ID:46216583 |
 | z3 | Z3 | ![Z3](https://img.acg.moe/common/thumb/8/88/42379456.jpg/250px-42379456.jpg)<br>P站ID:42379456 |
+| nagato | 长门 | ![长门](https://img.acg.moe/common/thumb/d/d5/47537660_p0.png/250px-47537660_p0.png)<br>P站ID:47537660 |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
