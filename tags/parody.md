@@ -26,4 +26,4 @@
 | date a live | 约会大作战 | |
 | gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | |
 | the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
-| my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](https://usercontent1.hubstatic.com/12996256_f1024.jpg)
+| my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
