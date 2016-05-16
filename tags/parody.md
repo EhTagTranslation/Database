@@ -21,7 +21,7 @@
 | ro-kyu-bu | 萝球社 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | ![图](http://exhentai.org/t/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
 | hyperdimension neptunia | 超次元游戏：海王星 | ![图](https://img.acg.moe/common/thumb/9/95/Choujigen_game_neptune.jpg/250px-Choujigen_game_neptune.jpg) |
-| love live | LoveLive! | ![封面](https://upload.wikimedia.org/wikipedia/zh/thumb/b/b9/Love_Live%21_promotional_image.jpg/250px-Love_Live%21_promotional_image.jpg) |
+| love live | LoveLive! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) |
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![图](http://exhentai.org/t/48/d7/48d72ebf21a766d430cf8441e0bde7f94dc3a02d-921627-2497-3500-jpg_l.jpg)![图](http://exhentai.org/t/58/cd/58cdb0fe999ac9a414ad02119fd5ac54d6926637-687951-2060-2996-jpg_l.jpg)![友少](https://img.acg.moe/common/thumb/6/69/Meat-kashiwazaki_00247023.jpg/250px-Meat-kashiwazaki_00247023.jpg) |
 | vocaloid | V家 | ![图](https://tse1.mm.bing.net/th?&id=OIP.M04952eac2c7de0902d382e5e8c994752H0&w=300&h=201&c=0&pid=1.9&rs=0&p=0) |
