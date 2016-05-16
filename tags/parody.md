@@ -23,7 +23,7 @@
 | sora no otoshimono | 天降之物 | |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](https://img.acg.moe/common/thumb/6/69/Meat-kashiwazaki_00247023.jpg/250px-Meat-kashiwazaki_00247023.jpg) |
 | vocaloid | V家 | ![图](https://tse1.mm.bing.net/th?&id=OIP.M04952eac2c7de0902d382e5e8c994752H0&w=300&h=201&c=0&pid=1.9&rs=0&p=0) |
-| date a live | 约会大作战 | ![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
+| date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
 | gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | ![点兔](https://img.acg.moe/common/9/9a/Diantu2_KV3.jpg) |
 | the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
