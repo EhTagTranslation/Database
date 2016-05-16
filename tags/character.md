@@ -34,7 +34,7 @@
 | hanayo koizumi | 小泉花阳 | ![小泉花阳](https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) |
 | nico yazawa | 矢泽妮可 | ![矢泽妮可](https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png) |
 | | ▲Love Live 人物 | |
-| | ▼舰队Collection-KanColle 人物 | |
+| | ▼舰队Collection-KanColle 人物 | 这人物多得，迟早有一天我要死在船（chuang）上 |
 | teitoku | 提督 | 借用一下天羽剑的形象<br>![天羽剑提督](https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png) |
 | amatsukaze | 天津风 | ![天津风](https://img.acg.moe/common/thumb/d/d2/45137996_p0.jpg/250px-45137996_p0.jpg)<br>P站ID:45137996 |
 | atago | 爱宕 | ![爱宕](https://img.acg.moe/common/thumb/c/c3/53756569_p0.png/250px-53756569_p0.png)<br>P站ID:53756569 |
@@ -68,19 +68,19 @@
 | nagato | 长门 | ![长门](https://img.acg.moe/common/thumb/d/d5/47537660_p0.png/250px-47537660_p0.png)<br>P站ID:47537660 |
 | musashi | 武藏 | ![武藏](https://img.acg.moe/common/thumb/2/2c/%E6%AD%A6%E8%97%8F.jpg/250px-%E6%AD%A6%E8%97%8F.jpg) |
 | tenryuu | 天龙 | ![天龙](https://img.acg.moe/common/thumb/f/f4/40618419_p0_master1200.jpg/250px-40618419_p0_master1200.jpg)<br>P站ID:40618419 |
-| tatsuta | 龙田 | |
-| ryuujou | 龙骧 | |
-| ooyodo | 大淀 | |
-| isokaze | 矶风 | |
-| urakaze | 浦风 | |
-| shiranui | 不知火 | |
-| yuubari | 夕张 | |
-| akashi | 明石 | |
-| akagi | 赤城 | |
-| i-19 | 伊-19 | |
-| zuikaku | 瑞鹤 | |
-| shoukaku | 翔鹤 | |
-| kaga | 加贺 | |
+| tatsuta | 龙田 | ![龙田](https://img.acg.moe/common/thumb/4/4b/49748262_p0.jpg/250px-49748262_p0.jpg)<br>P站ID:49748262 |
+| ryuujou | 龙骧 | ![龙骧](https://img.acg.moe/common/thumb/a/ae/52381666_p0.jpg/250px-52381666_p0.jpg)<br>P站ID:52381666 |
+| ooyodo | 大淀 | ![大淀](https://img.acg.moe/common/thumb/a/a7/52592522_p0.jpg/250px-52592522_p0.jpg)<br>P站ID:52592522 |
+| isokaze | 矶风 | ![矶风](https://img.acg.moe/common/thumb/f/fc/52272800_p0.png/250px-52272800_p0.png)<br>P站ID:52272800 |
+| urakaze | 浦风 | ![浦风](https://img.acg.moe/common/thumb/4/4f/48203493_p0.png/250px-48203493_p0.png)<br>P站ID:48203493 |
+| shiranui | 不知火 | ![不知火](https://img.acg.moe/common/thumb/0/03/43806338_p0.png/250px-43806338_p0.png)<br>P站ID:43806338 |
+| yuubari | 夕张 | ![夕张](https://img.acg.moe/common/thumb/3/38/39886581_p0_master1200.jpg/250px-39886581_p0_master1200.jpg)<br>P站ID:39886581 |
+| akashi | 明石 | ![明石](https://img.acg.moe/common/thumb/5/5d/43112993.jpg/250px-43112993.jpg)<br>P站ID:43112993 |
+| akagi | 赤城 | ![赤城](https://img.acg.moe/common/thumb/6/61/54098826_p0_master1200.jpg/250px-54098826_p0_master1200.jpg)<br>P站ID:54098826 |
+| i-19 | 伊-19 | ![伊19](https://img.acg.moe/common/thumb/0/00/40119337.png/250px-40119337.png)<br>P站ID:40119337 |
+| zuikaku | 瑞鹤 | ![瑞鹤](https://img.acg.moe/common/thumb/f/f3/53004069_p0.jpg/250px-53004069_p0.jpg)<br>P站ID:53004069  |
+| shoukaku | 翔鹤 | ![翔鹤](https://img.acg.moe/common/thumb/4/47/%E7%BF%94%E9%B9%A4.png/250px-%E7%BF%94%E9%B9%A4.png) |
+| kaga | 加贺 | ![加贺](https://img.acg.moe/common/thumb/c/c5/39521243_p0.jpg/250px-39521243_p0.jpg)<br>P站ID:39521243 |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
