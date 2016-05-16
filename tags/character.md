@@ -81,6 +81,37 @@
 | zuikaku | 瑞鹤 | ![瑞鹤](https://img.acg.moe/common/thumb/f/f3/53004069_p0.jpg/250px-53004069_p0.jpg)<br>P站ID:53004069  |
 | shoukaku | 翔鹤 | ![翔鹤](https://img.acg.moe/common/thumb/4/47/%E7%BF%94%E9%B9%A4.png/250px-%E7%BF%94%E9%B9%A4.png) |
 | kaga | 加贺 | ![加贺](https://img.acg.moe/common/thumb/c/c5/39521243_p0.jpg/250px-39521243_p0.jpg)<br>P站ID:39521243 |
+| i-8 | 伊8 | ![伊8]()<br> |
+| i-58 | 伊58 | ![伊58]()<br> |
+| i-401 | 伊401 | ![伊401]()<br> |
+| i-168 | 伊168 | ![伊168]()<br> |
+| yuudachi | 夕立 | ![夕立]()<br> |
+| ooi | 大井 | ![大井]()<br> |
+| kitagami | 北上 | ![北上]()<br> |
+| ayanami | 绫波 | ![绫波]()<br> |
+| yukikaze | 雪风 | ![雪风]()<br> |
+| yamato | 大和 | ![大和]()<br> |
+| tone | 利根 | ![利根]()<br> |
+| shigure | 时雨 | ![时雨]()<br> |
+| noshiro | 能代 | ![能代]()<br> |
+| myoukou | 妙高 | ![妙高]()<br> |
+| mutsu | 陆奥 | ![陆奥]()<br> |
+| maruyu | まるゆ | ![まるゆ]()<br> |
+| kumano | 熊野 | ![熊野]()<br> |
+| kirishima | 雾岛 | ![雾岛]()<br> |
+| houshou | 凤翔 | ![凤翔]()<br> |
+| hiryuu | 飞龙 | ![飞龙]()<br> |
+| hiei | 比睿 | ![比睿]()<br> |
+| haguro | 羽黑 | ![羽黑]()<br> |
+| fubuki | 吹雪 | ![吹雪]()<br> |
+| chiyoda | 威奇塔 | ![威奇塔]()<br> |
+| chitose | 千岁 | ![千岁]()<br> |
+| chikuma | 筑摩 | ![筑摩]()<br> |
+| akatsuki | 晓 | ![晓]()<br> |
+| agano | 阿贺野 | ![阿贺野]()<br> |
+| shirayuki | 白雪 | ![白雪]()<br> |
+| choukai | 鸟海 | ![鸟海]()<br> |
+| aoba | 青叶 | ![青叶]()<br> |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
