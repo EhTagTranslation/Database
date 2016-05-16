@@ -65,3 +65,5 @@
 | z1 | Z1 | ![Z1](https://img.acg.moe/common/thumb/5/53/46216583_p0.jpg/250px-46216583_p0.jpg)<br>P站ID:46216583 |
 | z3 | Z3 | ![Z3](https://img.acg.moe/common/thumb/8/88/42379456.jpg/250px-42379456.jpg)<br>P站ID:42379456 |
 | | ▲舰队Collection-KanColle 人物 | |
+| | ▼偶像大师-THE IDOLM@STER 人物 | |
+| | ▲偶像大师-THE IDOLM@STER 人物 | |
