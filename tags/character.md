@@ -35,6 +35,7 @@
 | nico yazawa | 矢泽妮可 | ![矢泽妮可](https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png) |
 | | ▲Love Live 人物 | |
 | | ▼舰队Collection-KanColle 人物 | |
+| teitoku | 提督 | 借用一下天羽剑的形象<br>![天羽剑提督](https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png) |
 | amatsukaze | 天津风 | ![天津风](https://img.acg.moe/common/thumb/d/d2/45137996_p0.jpg/250px-45137996_p0.jpg)<br>P站ID:45137996 |
 | atago | 爱宕 | ![爱宕](https://img.acg.moe/common/thumb/c/c3/53756569_p0.png/250px-53756569_p0.png)<br>P站ID:53756569 |
 | hoppou seiki | 北方栖姬 | ![北方栖姬](https://img.acg.moe/common/thumb/3/39/45296786_2.jpg/250px-45296786_2.jpg) |
