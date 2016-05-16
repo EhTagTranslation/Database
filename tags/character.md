@@ -68,3 +68,7 @@
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
 | | ▲偶像大师-THE IDOLM@STER 人物 | |
+| | ▼My Little Pony 角色 | |
+| apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |
+| big macintosh | 大麦哥 | Apple Bloom 和 Applejack 的哥哥。![BM](https://31.media.tumblr.com/88874d9ab3d8c6f727743d0e5ec0e1ff/tumblr_inline_nk52r9LXS81snpgiu.png) |
+| | ▲My Little Pony 角色 | |
