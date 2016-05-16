@@ -27,3 +27,6 @@
 | gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | ![点兔](https://img.acg.moe/common/9/9a/Diantu2_KV3.jpg) |
 | the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
+| himouto umaru-chan | 干物妹！小埋 | ![图](http://exhentai.org/t/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg) |
+| bakemonogatari | 化物語 | ![图](http://exhentai.org/t/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg)![图](http://exhentai.org/t/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg)![图](http://exhentai.org/t/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg) |
+| yahari ore no seishun love come wa machigatteiru | 我的青春恋爱物语果然有问题 | ![图](http://exhentai.org/t/2b/18/2b1869be7126eda56f2a8f6750fe89143a8aac11-722028-1410-2024-jpg_l.jpg)<br>其实是个基片<br>![图](http://exhentai.org/t/a6/2b/a62b5d7d18ba70957af3876be3e359488e931ada-6021484-1600-2258-png_l.jpg) |
