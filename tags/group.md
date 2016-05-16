@@ -10,11 +10,12 @@
 | archetype | ARCHETYPE | ![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_l.jpg)<br>あかざ(Akaza)的社团名，袜控。 |
 | | ▲同人社团 | |
 | | ▼GAL公司 | |
-| softhouse-seal | softhouse-seal | 抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_l.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_l.jpg) |
-| devil-seal | Devil-seal | softhouse-seal旗下偏黑暗向<br>![图1](http://exhentai.org/t/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_l.jpg)<br>![图2](http://exhentai.org/t/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_l.jpg) |
-| softhouse-seal grandee | softhouse-seal GRANDEE | softhouse-seal旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](http://exhentai.org/t/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_l.jpg)<br>![图2](http://exhentai.org/t/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_l.jpg) |
-| moonstone | MOONSTONE | ![logo](https://upload.wikimedia.org/wikipedia/zh/7/75/Moonstone_logo.png)<br>来自于做D.C.的Circus公司<br>![图1](http://exhentai.org/t/9b/ea/9bea6e4b47f77a35d7f16f6cb68698e395fe245d-621287-1280-1790-jpg_l.jpg)<br>![图2](http://exhentai.org/t/4d/8b/4d8bac8da42026d7edf9d4e39801485f858cadbc-81278-320-445-jpg_l.jpg) |
-| moonstone cherry | MOONSTONE Cherry | MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](http://exhentai.org/t/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_l.jpg) |
-| yuzu soft | 柚子社(Yuzu-Soft) | 萌萌的画风！<br>![logo](https://upload.wikimedia.org/wikipedia/zh/8/82/Yuzu_logo.jpg)<br>![图](http://exhentai.org/t/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_l.jpg) |
+| softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_l.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_l.jpg) |
+| devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal旗下偏黑暗向<br>![图1](http://exhentai.org/t/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_l.jpg)<br>![图2](http://exhentai.org/t/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_l.jpg) |
+| softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](http://exhentai.org/t/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_l.jpg)<br>![图2](http://exhentai.org/t/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_l.jpg) |
+| reverse | Re:verse | softhouse-seal姊妹公司<br>![图1](http://exhentai.org/t/db/df/dbdf702dabd10ea331d3493561e8aa353a9a7ab3-721135-800-600-png_l.jpg) |
+| moonstone | MOONSTONE | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>来自于做D.C.的Circus公司<br>![图1](http://exhentai.org/t/9b/ea/9bea6e4b47f77a35d7f16f6cb68698e395fe245d-621287-1280-1790-jpg_l.jpg)<br>![图2](http://exhentai.org/t/4d/8b/4d8bac8da42026d7edf9d4e39801485f858cadbc-81278-320-445-jpg_l.jpg) |
+| moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](http://exhentai.org/t/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_l.jpg) |
+| yuzu soft | 柚子社(Yuzu-Soft) | ![logo](https://upload.wikimedia.org/wikipedia/zh/8/82/Yuzu_logo.jpg)<br>萌萌的画风！<br>![图](http://exhentai.org/t/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_l.jpg) |
 | | ▲GAL公司 | |
 | softstar | 大宇资讯 | 仙剑奇侠传系列、轩辕剑系列等作品。 |
