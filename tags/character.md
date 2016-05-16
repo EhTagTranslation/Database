@@ -38,7 +38,7 @@
 | teitoku | 提督 | 借用一下天羽剑的形象<br>![天羽剑提督](https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png) |
 | amatsukaze | 天津风 | ![天津风](https://img.acg.moe/common/thumb/d/d2/45137996_p0.jpg/250px-45137996_p0.jpg)<br>P站ID:45137996 |
 | atago | 爱宕 | ![爱宕](https://img.acg.moe/common/thumb/c/c3/53756569_p0.png/250px-53756569_p0.png)<br>P站ID:53756569 |
-| hoppou seiki | 北方栖姬 | ![北方栖姬](https://img.acg.moe/common/thumb/3/39/45296786_2.jpg/250px-45296786_2.jpg) |
+| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)<br>![北方栖姬](https://img.acg.moe/common/thumb/3/39/45296786_2.jpg/250px-45296786_2.jpg) |
 | bismarck | 俾斯麦 | ![俾斯麦](https://img.acg.moe/common/thumb/3/33/53859073_p0.jpg/250px-53859073_p0.jpg)<br>P站ID:53859073 |
 | hamakaze | 滨风 | ![滨风](https://img.acg.moe/common/thumb/e/ef/55265393_p0_master1200.jpg/250px-55265393_p0_master1200.jpg)<br>P站ID:55265393 |
 | asashio | 朝潮 | ![朝潮](https://img.acg.moe/common/thumb/b/bb/50714092_p0.jpg/250px-50714092_p0.jpg)<br>P站ID:50714092 |
