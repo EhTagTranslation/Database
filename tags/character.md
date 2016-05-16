@@ -66,7 +66,6 @@
 | z1 | Z1 | ![Z1](https://img.acg.moe/common/thumb/5/53/46216583_p0.jpg/250px-46216583_p0.jpg)<br>P站ID:46216583 |
 | z3 | Z3 | ![Z3](https://img.acg.moe/common/thumb/8/88/42379456.jpg/250px-42379456.jpg)<br>P站ID:42379456 |
 | nagato | 长门 | ![长门](https://img.acg.moe/common/thumb/d/d5/47537660_p0.png/250px-47537660_p0.png)<br>P站ID:47537660 |
-| nagato | 长门 | ![长门](https://img.acg.moe/common/thumb/d/d5/47537660_p0.png/250px-47537660_p0.png)<br>P站ID:47537660 |
 | musashi | 武藏 | ![武藏](https://img.acg.moe/common/thumb/2/2c/%E6%AD%A6%E8%97%8F.jpg/250px-%E6%AD%A6%E8%97%8F.jpg) |
 | tenryuu | 天龙 | ![天龙](https://img.acg.moe/common/thumb/f/f4/40618419_p0_master1200.jpg/250px-40618419_p0_master1200.jpg)<br>P站ID:40618419 |
 | tatsuta | 龙田 | |
