@@ -10,10 +10,11 @@
 | blowjob face | 口交脸 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。<br>![图](http://exhentai.org/t/89/11/8911e4dfea8b92f97b03c442eeaa0500eba4722a-423745-1269-1800-jpg_l.jpg) |
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。<br>![图](http://exhentai.org/t/18/df/18df6f27737c0a4f054c35df1ce178eb648de5cd-290389-800-600-jpg_l.jpg) |
 | ball sucking | 球吸 | 用嘴在睾丸上为乐。<br>![图](http://exhentai.org/t/86/12/8612934137864f60df05a3499b5be6b6c41a78d3-1215702-1677-2400-jpg_250.jpg) |
-| footjob | 足交 | 用脚对另一个人进行性刺激。<br>![图](http://exhentai.org/t/74/6a/746ad8645d1bec109fc30f093b77f00260d6c582-1119218-1411-2000-jpg_l.jpg) |
+| footjob | 足交 | 用脚对另一个人进行性刺激。<br>![图](http://exhentai.org/t/45/a1/45a1395b7225808b64f2344c7b52ceb2ab329fc0-904994-1409-2000-jpg_250.jpg) |
 | legjob | 腿交 | 用腿去刺激另一个人。|
 | anal | 肛交 | ![图](http://exhentai.org/t/f0/09/f0092b032d035e289baa145e8061fce8a13fcad8-296903-1060-1510-jpg_250.jpg) |
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致通货膨胀。<br>![图](http://exhentai.org/t/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg) |
 | vaginal sticker | 阴贴 | 任何在阴道口区域粘贴平面物体（如创可贴）的行为<br>![图](http://exhentai.org/t/9f/9f/9f9fa571990c865a049671cbbedbb47b7d2af8e9-5724434-2333-3300-png_l.jpg) |
-| foot licking | 舔足 | |
+| foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
 | futanari | 扶她 | 具有男性生殖器的女性<br>![图](http://exhentai.org/t/93/8b/938bb3469b3c0c707eb8478e5659fce199258789-137711-595-828-jpg_250.jpg) |
+| double penetration | 双洞插入 | 两个孔口 （口腔、 阴道或肛门） 同时被击穿。很有可能调用组标记。<br>![图](http://exhentai.org/t/3c/fd/3cfd520b513d60248a26235a4d68a3de33435ee3-1407380-1254-1771-jpg_l.jpg) |
