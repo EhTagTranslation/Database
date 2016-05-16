@@ -16,6 +16,9 @@
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致通货膨胀。<br>![图](http://exhentai.org/t/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg) |
 | vaginal sticker | 阴贴 | 任何在阴道口区域粘贴平面物体（如创可贴）的行为<br>![图](http://exhentai.org/t/9f/9f/9f9fa571990c865a049671cbbedbb47b7d2af8e9-5724434-2333-3300-png_l.jpg) |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
-| futanari | 扶她 | 具有男性生殖器的女性<br>![图](http://exhentai.org/t/93/8b/938bb3469b3c0c707eb8478e5659fce199258789-137711-595-828-jpg_250.jpg) |
+| futanari | 扶她 | 具有男性生殖器的女孩<br>![图](http://exhentai.org/t/93/8b/938bb3469b3c0c707eb8478e5659fce199258789-137711-595-828-jpg_250.jpg) |
+| shemale | 人妖 | 有男性生殖器，但没有阴道的女孩<br>![图](http://exhentai.org/t/0f/c0/0fc0a279330013a73837aeab79f5e4030e97fd18-779446-2234-2476-jpg_l.jpg) |
 | double penetration | 双重插入 | 两个孔口 （口腔、 阴道或肛门） 同时被击穿。<br>![图](http://exhentai.org/t/3c/fd/3cfd520b513d60248a26235a4d68a3de33435ee3-1407380-1254-1771-jpg_l.jpg) |
 | double penetration | 三重插入 | 三个插入到一个人同时发生。往往是双重插入用剩下的口也侵入，或侵入其他后孔双阴道/双肛门。<br>![图](http://exhentai.org/t/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg) |
+| yuri | 百合 | 至少两个女性之间的性行为。<br>![图](http://exhentai.org/t/d4/93/d493b6addbac0ef3111497b52a00ac2d4a877a42-746063-1200-1684-jpg_l.jpg) |
+| females only | 纯女性 | 在画廊中的所有性行为，迷恋，或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她不算。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg) |
