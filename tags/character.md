@@ -74,7 +74,7 @@
 | murakumo | 丛云 | No.015 丛云<br>![丛云](https://img.acg.moe/common/thumb/6/62/54703457_p0.png/250px-54703457_p0.png)<br>P站ID:54703457 |
 | ayanami | 绫波 | No.017 绫波<br>![绫波](https://img.acg.moe/common/thumb/b/b7/44375500_p0.jpg/250px-44375500_p0.jpg)<br>P站ID:44375500 |
 | ooi | 大井 | No.019 大井<br>![大井](https://img.acg.moe/common/thumb/b/b7/55414110_p0.jpg/250px-55414110_p0.jpg)<br>P站ID:55414110 |
-| kitagami | 北上 | No.020 北上<br>![北上](https://img.acg.moe/common/thumb/3/30/49963622_p0.png/250px-49963622_p0.png)<br>P站ID:49963622 |
+| kitakami | 北上 | No.020 北上<br>![北上](https://img.acg.moe/common/thumb/3/30/49963622_p0.png/250px-49963622_p0.png)<br>P站ID:49963622 |
 | kongou | 金刚 | No.021 金刚<br>![金刚](https://img.acg.moe/common/thumb/7/7b/%E9%87%91%E5%88%9A12222.jpg/250px-%E9%87%91%E5%88%9A12222.jpg)<br>P站ID:40308931 |
 | hiei | 比睿 | No.022 比睿<br>![比睿](https://img.acg.moe/common/thumb/2/2f/%E6%AF%94%E7%9D%BF1.jpg/250px-%E6%AF%94%E7%9D%BF1.jpg) |
 | haruna | 榛名 | No.023 榛名<br>![榛名](https://img.acg.moe/common/thumb/5/52/45019173_p0.jpg/250px-45019173_p0.jpg)<br>P站ID:45019173 |
