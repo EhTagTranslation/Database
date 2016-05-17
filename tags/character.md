@@ -74,6 +74,7 @@
 | haguro | 羽黑 | No.058 羽黑<br>![羽黑](https://img.acg.moe/common/thumb/2/2a/53069838_p0.jpg/250px-53069838_p0.jpg)<br>P站ID:53069838 |
 | takao | 高雄 | No.059 高雄<br>![高雄](https://img.acg.moe/common/thumb/8/87/38647660_p0.jpg/250px-38647660_p0.jpg)<br>P站ID:38647660 |
 | atago | 爱宕 | No.060 爱宕<br>![爱宕](https://img.acg.moe/common/thumb/c/c3/53756569_p0.png/250px-53756569_p0.png)<br>P站ID:53756569 |
+| maya | 摩耶 | No.061 摩耶<br>![摩耶](https://img.acg.moe/common/thumb/6/6d/%E6%91%A9%E8%80%B6%E6%94%B9%E4%BA%8C.png/250px-%E6%91%A9%E8%80%B6%E6%94%B9%E4%BA%8C.png)<br>P站ID:51466005  |
 | choukai | 鸟海 | No.062 鸟海<br>![鸟海](https://img.acg.moe/common/thumb/5/50/%E4%B9%8C%E6%A2%85.png/250px-%E4%B9%8C%E6%A2%85.png)<br>P站ID:4257425  |
 | tone | 利根 | No.063 利根<br>![利根](https://img.acg.moe/common/thumb/0/0d/%E5%88%A9%E6%A0%B9.jpg/250px-%E5%88%A9%E6%A0%B9.jpg) |
 | chikuma | 筑摩 | No.064 筑摩<br>![筑摩](https://img.acg.moe/common/thumb/3/30/Tikuma.png/250px-Tikuma.png) |
