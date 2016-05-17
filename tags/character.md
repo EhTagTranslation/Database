@@ -112,6 +112,7 @@
 | ro-500 | 吕500 | No.236 吕500<br>![吕500](https://img.acg.moe/common/thumb/0/01/%E5%90%95500.jpg/250px-%E5%90%95500.jpg)<br>P站ID:49060091 |
 | kashima | 鹿岛 | No.265 鹿岛<br>![鹿岛](https://img.acg.moe/common/thumb/a/a4/53748807.jpg/250px-53748807.jpg)<br>P站ID:53748807 |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)<br>![北方栖姬](https://img.acg.moe/common/thumb/3/39/45296786_2.jpg/250px-45296786_2.jpg) |
+| wo-class | ヲ级(wo酱) | ![空母ヲ级](https://img.acg.moe/common/thumb/1/16/47428634_wo.jpg/250px-47428634_wo.jpg)<br>P站ID:47428634 |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
