@@ -32,6 +32,6 @@
 | himouto umaru-chan | 干物妹！小埋 | ![图](http://exhentai.org/t/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg) |
 | bakemonogatari | 化物語 | ![图](http://exhentai.org/t/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg)![图](http://exhentai.org/t/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg)![图](http://exhentai.org/t/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg) |
 | yahari ore no seishun love come wa machigatteiru | 我的青春恋爱物语果然有问题 | ![图](http://exhentai.org/t/2b/18/2b1869be7126eda56f2a8f6750fe89143a8aac11-722028-1410-2024-jpg_l.jpg)<br>其实是个基片<br>![图](http://exhentai.org/t/a6/2b/a62b5d7d18ba70957af3876be3e359488e931ada-6021484-1600-2258-png_l.jpg) |
-| tengen toppa gurren lagann | 天元突破 | [图](http://exhentai.org/t/7f/57/7f57b5fe9c80fa170e1e5b1ae108df71d4c055ce-602630-1200-1600-jpg_l.jpg)![图](http://exhentai.org/t/f3/a0/f3a02ba9088f4282990213ff6a06a1733c0d476f-458325-1125-1600-jpg_l.jpg)! |
+| tengen toppa gurren lagann | 天元突破 | ![图](http://exhentai.org/t/7f/57/7f57b5fe9c80fa170e1e5b1ae108df71d4c055ce-602630-1200-1600-jpg_l.jpg)![图](http://exhentai.org/t/f3/a0/f3a02ba9088f4282990213ff6a06a1733c0d476f-458325-1125-1600-jpg_l.jpg) |
 | cardcaptor sakura | 魔卡少女樱| ![图](http://exhentai.org/t/23/68/2368eddf29ed93847a2cf6d2dbf2ff16d46c1107-142448-785-1133-jpg_l.jpg) |
 | mayoi neko overrun | 迷途猫 | ![图](http://exhentai.org/t/11/24/11244eff647229a9dfa91a226f0595b04e584616-542928-1200-1700-jpg_l.jpg) |
