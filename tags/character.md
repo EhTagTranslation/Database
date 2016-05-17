@@ -85,7 +85,7 @@
 | | ▼舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 |
 | teitoku | 提督 | 借用一下天羽剑的形象<br>![天羽剑提督](https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png) |
 | nagato | 长门 | No.001 长门<br>![长门](http://exhentai.org/t/ed/fe/edfeda7b7b1233090e49f049ef629404a9f97a85-1967290-2120-3008-jpg_250.jpg) |
-| mutsu | 陆奥 | No.002 陆奥<br>![陆奥](https://img.acg.moe/common/thumb/0/09/41339623_p0.jpg/250px-41339623_p0.jpg)<br>P站ID:41339623 |
+| mutsu | 陆奥 | No.002 陆奥<br>![陆奥](http://exhentai.org/t/e0/d7/e0d7e77be040aa02024d5576a31680106627d58c-878090-1697-2400-jpg_250.jpg) |
 | yukikaze | 雪风 | No.005 雪风<br>![雪风](https://img.acg.moe/common/thumb/a/a0/53672107_p0.jpg/250px-53672107_p0.jpg)<br>P站ID:53672107 |
 | akagi | 赤城 | No.006 赤城<br>![赤城](http://exhentai.org/t/96/78/967886ed6788f4d09f41fb47a816d38df6bc2b84-1471927-2137-3000-jpg_250.jpg) |
 | kaga | 加贺 | No.007 加贺<br>![加贺](http://exhentai.org/t/9f/60/9f60d5e8ea1f0b11204f4992841f5b4109c9ae8a-2379070-1690-2400-jpg_250.jpg) |
@@ -156,7 +156,7 @@
 | hamakaze | 滨风 | No.170 滨风<br>![滨风](http://exhentai.org/t/a7/7c/a77cee5045fcb1e20e63f0ea2551790aa8b38f44-3959169-1956-3000-jpg_250.jpg) |
 | bismarck | 俾斯麦 | No.171 俾斯麦<br>![俾斯麦](http://exhentai.org/t/23/c2/23c2504685234b66d6bf51baaeef653f6f45def4-571113-1418-2000-jpg_250.jpg) |
 | z1 | Z1 | No.174 Z1<br>![Z1](http://exhentai.org/t/fe/ab/feab279ed4035c1d61a52e012400a65ae7f44c16-8493875-2114-3000-png_250.jpg) |
-| z3 | Z3 | No.175 Z3<br>![Z3](https://img.acg.moe/common/thumb/8/88/42379456.jpg/250px-42379456.jpg)<br>P站ID:42379456 |
+| z3 | Z3 | No.175 Z3<br>![Z3](http://exhentai.org/t/07/3a/073a9faca9480dd9b49968ae138b3ef16c55c35d-1428836-1421-2000-jpg_250.jpg) |
 | prinz eugen | 欧根亲王 | No.176 欧根亲王<br>![欧根亲王](http://exhentai.org/t/1e/21/1e21b2f8f0452cab6db69cbfffff68224b2d8451-596813-1401-2000-jpg_250.jpg)= |
 | amatsukaze | 天津风 | No.181 天津风<br>![天津风](http://exhentai.org/t/37/c6/37c6538b7ec4335b963fceac0a56b47bd9e43c48-1425407-2116-3000-jpg_250.jpg) |
 | akashi | 明石 | No.182 明石<br>![明石](http://exhentai.org/t/bf/21/bf21ca8be8b575b4152685acd28af915c706d277-1539790-2149-3029-jpg_250.jpg) |
