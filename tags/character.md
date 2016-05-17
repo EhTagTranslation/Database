@@ -115,6 +115,8 @@
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
+| takane shijou | 四条贵音 | ![四条贵音](https://img.acg.moe/common/thumb/3/3a/21313245.jpg/250px-21313245.jpg) |
+| fumika sagisawa | 鹭泽文香 | ![鹭泽文香](https://img.acg.moe/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) |
 | | ▲偶像大师-THE IDOLM@STER 人物 | |
 | | ▼My Little Pony 角色 | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |
