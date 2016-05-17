@@ -77,14 +77,14 @@
 | kaga | 加贺 | No.007 加贺<br>![加贺](http://exhentai.org/t/9f/60/9f60d5e8ea1f0b11204f4992841f5b4109c9ae8a-2379070-1690-2400-jpg_250.jpg) |
 | souryuu | 苍龙 | No.008 苍龙<br>![苍龙](https://img.acg.moe/common/thumb/3/39/44996635.jpg/250px-44996635.jpg)<br>P站ID:44996635 |
 | hiryuu | 飞龙 | No.009 飞龙<br>![飞龙](https://img.acg.moe/common/thumb/0/04/44533906_p0.jpg/250px-44533906_p0.jpg)<br>P站ID:44533906 |
-| shimakaze | 岛风 | No.010 岛风<br>![岛风](https://img.acg.moe/common/thumb/0/00/KanShimakaze.jpg/250px-KanShimakaze.jpg)<br>P站ID:39813972 |
+| shimakaze | 岛风 | No.010 岛风<br>![岛风](http://exhentai.org/t/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg) |
 | fubuki | 吹雪 | No.011 吹雪<br>![吹雪](https://img.acg.moe/common/thumb/d/d5/46705108_p0_master1200.jpg/250px-46705108_p0_master1200.jpg)<br>P站ID:46705108 |
 | shirayuki | 白雪 | No.012 白雪<br>![白雪](https://img.acg.moe/common/thumb/7/73/46491633_p0_master1200.jpg/250px-46491633_p0_master1200.jpg)<br>P站ID:46491633 |
-| murakumo | 丛云 | No.015 丛云<br>![丛云](https://img.acg.moe/common/thumb/6/62/54703457_p0.png/250px-54703457_p0.png)<br>P站ID:54703457 |
+| murakumo | 丛云 | No.015 丛云<br>![丛云](http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg) |
 | ayanami | 绫波 | No.017 绫波<br>![绫波](https://img.acg.moe/common/thumb/b/b7/44375500_p0.jpg/250px-44375500_p0.jpg)<br>P站ID:44375500 |
 | ooi | 大井 | No.019 大井<br>![大井](https://img.acg.moe/common/thumb/b/b7/55414110_p0.jpg/250px-55414110_p0.jpg)<br>P站ID:55414110 |
 | kitakami | 北上 | No.020 北上<br>![北上](https://img.acg.moe/common/thumb/3/30/49963622_p0.png/250px-49963622_p0.png)<br>P站ID:49963622 |
-| kongou | 金刚 | No.021 金刚<br>![金刚](https://img.acg.moe/common/thumb/7/7b/%E9%87%91%E5%88%9A12222.jpg/250px-%E9%87%91%E5%88%9A12222.jpg)<br>P站ID:40308931 |
+| kongou | 金刚 | No.021 金刚<br>![金刚](http://exhentai.org/t/e4/5c/e45caf124d139ded1ff1b1e46335ed463ea5c41d-9356857-2400-3391-jpg_250.jpg) |
 | hiei | 比睿 | No.022 比睿<br>![比睿](https://img.acg.moe/common/thumb/2/2f/%E6%AF%94%E7%9D%BF1.jpg/250px-%E6%AF%94%E7%9D%BF1.jpg) |
 | haruna | 榛名 | No.023 榛名<br>![榛名](https://img.acg.moe/common/thumb/5/52/45019173_p0.jpg/250px-45019173_p0.jpg)<br>P站ID:45019173 |
 | kirishima | 雾岛 | No.024 雾岛<br>![雾岛](https://img.acg.moe/common/thumb/c/c1/52019513_p0.png/250px-52019513_p0.png)<br>P站ID:52019513 |
@@ -99,8 +99,8 @@
 | nachi | 那智 | No.056 那智<br>![那智](https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg)<br>P站ID:41031613 |
 | ashigara | 足柄 | No.057 足柄<br>![足柄](https://img.acg.moe/common/thumb/6/69/52960554_p2_master1200.jpg/250px-52960554_p2_master1200.jpg) |
 | haguro | 羽黑 | No.058 羽黑<br>![羽黑](https://img.acg.moe/common/thumb/2/2a/53069838_p0.jpg/250px-53069838_p0.jpg)<br>P站ID:53069838 |
-| takao | 高雄 | No.059 高雄<br>![高雄](https://img.acg.moe/common/thumb/8/87/38647660_p0.jpg/250px-38647660_p0.jpg)<br>P站ID:38647660 |
-| atago | 爱宕 | No.060 爱宕<br>![爱宕](https://img.acg.moe/common/thumb/c/c3/53756569_p0.png/250px-53756569_p0.png)<br>P站ID:53756569 |
+| takao | 高雄 | No.059 高雄<br>![高雄](http://exhentai.org/t/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg) |
+| atago | 爱宕 | No.060 爱宕<br>![爱宕](http://exhentai.org/t/21/27/21273e31c137f84ffc157a29d9f070669e7f0cf6-2570336-2439-3486-jpg_250.jpg) |
 | maya | 摩耶 | No.061 摩耶<br>![摩耶](https://img.acg.moe/common/thumb/6/6d/%E6%91%A9%E8%80%B6%E6%94%B9%E4%BA%8C.png/250px-%E6%91%A9%E8%80%B6%E6%94%B9%E4%BA%8C.png)<br>P站ID:51466005  |
 | choukai | 鸟海 | No.062 鸟海<br>![鸟海](https://img.acg.moe/common/thumb/5/50/%E4%B9%8C%E6%A2%85.png/250px-%E4%B9%8C%E6%A2%85.png)<br>P站ID:4257425  |
 | tone | 利根 | No.063 利根<br>![利根](https://img.acg.moe/common/thumb/0/0d/%E5%88%A9%E6%A0%B9.jpg/250px-%E5%88%A9%E6%A0%B9.jpg) |
@@ -109,14 +109,14 @@
 | akebono | 曙 | No.068 曙<br>![曙](https://img.acg.moe/common/thumb/5/5c/55034528_p0.jpg/250px-55034528_p0.jpg)<br>P站ID:55034528 |
 | akatsuki | 晓 | No.071 晓<br>![晓](https://img.acg.moe/common/thumb/f/f4/46852810_p0.jpg/250px-46852810_p0.jpg)<br>P站ID:46852810 |
 | hibiki | 响 | No.072 响<br>![响](https://img.acg.moe/common/thumb/7/76/48149972_p0.png/250px-48149972_p0.png)<br>P站ID:48149972 |
-| ikazuchi | 雷 | No.073 雷<br>![雷](https://img.acg.moe/common/thumb/2/23/55449201_p0.png/250px-55449201_p0.png)<br>P站ID:55449201 |
-| inazuma | 电 | No.074 电<br>![电](https://img.acg.moe/common/thumb/b/bd/51464079.jpg/250px-51464079.jpg)<br>P站ID:51464079 |
+| ikazuchi | 雷 | No.073 雷<br>![雷](http://exhentai.org/t/15/dc/15dc0a548124bf81e466339bfc55edfb8ae57d21-4153439-2122-3000-jpg_250.jpg) |
+| inazuma | 电 | No.074 电<br>![电](http://exhentai.org/t/f5/75/f575b520fdc88fa7345c81fc81129f45fb98a765-1447588-2060-3007-jpg_250.jpg) |
 | hatsuharu | 初春 | No.075 初春<br>![初春](http://exhentai.org/t/b4/85/b485b5c9d8f9cc3be14b94bfbae4a1176846699c-3489403-2867-4031-jpg_250.jpg) |
 | nenohi | 子日 | No.076 子日<br>![子日](https://img.acg.moe/common/thumb/2/21/42014691.jpg/250px-42014691.jpg) |
 | shigure | 时雨 | No.080 时雨<br>![时雨](https://img.acg.moe/common/thumb/1/1b/6e70bef2b21193138ecf681661380cd790238dbf.jpg/250px-6e70bef2b21193138ecf681661380cd790238dbf.jpg)<br>P站ID：43077121 |
 | yuudachi | 夕立 | No.082 夕立<br>![夕立](https://img.acg.moe/common/thumb/2/23/47418399_p0.jpg/250px-47418399_p0.jpg)<br>poi<br>P站ID:47418399 |
 | samidare | 五月雨 | No.083 五月雨<br>![五月雨](https://img.acg.moe/common/thumb/9/9b/55264446_p0.png/250px-55264446_p0.png)<br>P站ID:55264446 |
-| asashio | 朝潮 | No.085 朝潮<br>![朝潮](https://img.acg.moe/common/thumb/b/bb/50714092_p0.jpg/250px-50714092_p0.jpg)<br>P站ID:50714092 |
+| asashio | 朝潮 | No.085 朝潮<br>![朝潮](http://exhentai.org/t/7b/c4/7bc4069cd7c414d306f49dcca10e2f9863c96153-1048348-2114-3000-jpg_250.jpg) |
 | shiranui | 不知火 | No.092 不知火<br>![不知火](https://img.acg.moe/common/thumb/0/03/43806338_p0.png/250px-43806338_p0.png)<br>P站ID:43806338 |
 | shoukaku | 翔鹤 | No.106 翔鹤<br>![翔鹤](https://img.acg.moe/common/thumb/4/47/%E7%BF%94%E9%B9%A4.png/250px-%E7%BF%94%E9%B9%A4.png) |
 | zuikaku | 瑞鹤 | No.107 瑞鹤<br>![瑞鹤](https://img.acg.moe/common/thumb/f/f3/53004069_p0.jpg/250px-53004069_p0.jpg)<br>P站ID:53004069  |
@@ -133,25 +133,25 @@
 | noshiro | 能代 | No.138 能代<br>![能代](https://img.acg.moe/common/thumb/0/09/Noshiro.png/250px-Noshiro.png) |
 | musashi | 武藏 | No.143 武藏<br>![武藏](https://img.acg.moe/common/thumb/2/2c/%E6%AD%A6%E8%97%8F.jpg/250px-%E6%AD%A6%E8%97%8F.jpg) |
 | verniy | Верный(响改二) | No.147 Верный<br>![Верный](https://img.acg.moe/common/thumb/3/3d/40238535_p0.jpg/250px-40238535_p0.jpg)<br>P站ID:40238535 |
-| taihou | 大凤 | No.153 大凤<br>![大凤](https://img.acg.moe/common/thumb/3/31/54958301_p0_master1200.jpg/250px-54958301_p0_master1200.jpg)<br>P站ID:54958301 |
+| taihou | 大凤 | No.153 大凤<br>![大凤](http://exhentai.org/t/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg) |
 | katori | 香取 | No.154 香取<br>![香取](http://exhentai.org/t/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg) |
 | i-401 | 伊401 | No.155 伊401<br>![伊401](https://img.acg.moe/common/thumb/7/7a/44720994_p0.jpg/250px-44720994_p0.jpg)<br>P站ID:44720994 |
 | maruyu | まるゆ | No.163 まるゆ<br>![まるゆ](https://img.acg.moe/common/thumb/1/1b/40978204.png/250px-40978204.png)<br>P站ID:40978204 |
 | isokaze | 矶风 | No.167 矶风<br>![矶风](https://img.acg.moe/common/thumb/f/fc/52272800_p0.png/250px-52272800_p0.png)<br>P站ID:52272800 |
 | urakaze | 浦风 | No.168 浦风<br>![浦风](https://img.acg.moe/common/thumb/4/4f/48203493_p0.png/250px-48203493_p0.png)<br>P站ID:48203493 |
-| hamakaze | 滨风 | No.170 滨风<br>![滨风](https://img.acg.moe/common/thumb/e/ef/55265393_p0_master1200.jpg/250px-55265393_p0_master1200.jpg)<br>P站ID:55265393 |
-| bismarck | 俾斯麦 | No.171 俾斯麦<br>![俾斯麦](https://img.acg.moe/common/thumb/3/33/53859073_p0.jpg/250px-53859073_p0.jpg)<br>P站ID:53859073 |
+| hamakaze | 滨风 | No.170 滨风<br>![滨风](http://exhentai.org/t/a7/7c/a77cee5045fcb1e20e63f0ea2551790aa8b38f44-3959169-1956-3000-jpg_250.jpg) |
+| bismarck | 俾斯麦 | No.171 俾斯麦<br>![俾斯麦](http://exhentai.org/t/23/c2/23c2504685234b66d6bf51baaeef653f6f45def4-571113-1418-2000-jpg_250.jpg) |
 | z1 | Z1 | No.174 Z1<br>![Z1](https://img.acg.moe/common/thumb/5/53/46216583_p0.jpg/250px-46216583_p0.jpg)<br>P站ID:46216583 |
 | z3 | Z3 | No.175 Z3<br>![Z3](https://img.acg.moe/common/thumb/8/88/42379456.jpg/250px-42379456.jpg)<br>P站ID:42379456 |
 | prinz eugen | 欧根亲王 | No.176 欧根亲王<br>![欧根亲王](https://img.acg.moe/common/thumb/9/93/47279550_p0.png/250px-47279550_p0.png)<br>P站ID:47279550 |
 | amatsukaze | 天津风 | No.181 天津风<br>![天津风](http://exhentai.org/t/37/c6/37c6538b7ec4335b963fceac0a56b47bd9e43c48-1425407-2116-3000-jpg_250.jpg) |
 | akashi | 明石 | No.182 明石<br>![明石](https://img.acg.moe/common/thumb/5/5d/43112993.jpg/250px-43112993.jpg)<br>P站ID:43112993 |
 | ooyodo | 大淀 | No.183 大淀<br>![大淀](https://img.acg.moe/common/thumb/a/a7/52592522_p0.jpg/250px-52592522_p0.jpg)<br>P站ID:52592522 |
-| harusame | 春雨 | No.205 春雨<br>![春雨](https://img.acg.moe/common/thumb/2/2e/55265469_p0.jpg/250px-55265469_p0.jpg)<br>P站ID:55265469 |
+| harusame | 春雨 | No.205 春雨<br>![春雨](http://exhentai.org/t/5a/d9/5ad94f1967e5dece44b0b78b6d13160418905082-1879239-1724-2500-jpg_250.jpg) |
 | graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵<br>![齐柏林伯爵](https://img.acg.moe/common/thumb/6/64/54064944_p0.jpg/250px-54064944_p0.jpg)<br>P站ID:54064944 |
 | ro-500 | 吕500 | No.236 吕500<br>![吕500](https://img.acg.moe/common/thumb/0/01/%E5%90%95500.jpg/250px-%E5%90%95500.jpg)<br>P站ID:49060091 |
 | kashima | 鹿岛 | No.265 鹿岛<br>![鹿岛](https://img.acg.moe/common/thumb/a/a4/53748807.jpg/250px-53748807.jpg)<br>P站ID:53748807 |
-| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)<br>![北方栖姬](https://img.acg.moe/common/thumb/3/39/45296786_2.jpg/250px-45296786_2.jpg) |
+| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)<br>![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg) |
 | wo-class | ヲ级(wo酱) | ![空母ヲ级](https://img.acg.moe/common/thumb/1/16/47428634_wo.jpg/250px-47428634_wo.jpg)<br>P站ID:47428634 |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
