@@ -22,3 +22,4 @@
 | double penetration | 三重插入 | 三个插入到一个人同时发生。往往是双重插入用剩下的口也侵入，或侵入其他后孔双阴道/双肛门。<br>![图](http://exhentai.org/t/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg) |
 | yuri | 百合 | 至少两个女性之间的性行为。<br>![图](http://exhentai.org/t/d4/93/d493b6addbac0ef3111497b52a00ac2d4a877a42-746063-1200-1684-jpg_l.jpg) |
 | females only | 纯女性 | 在画廊中的所有性行为，迷恋，或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她不算。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg) |
+| sole female | 单女主 | 只有一个女性角色 |
