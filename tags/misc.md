@@ -12,15 +12,15 @@
 | ffm threesome | 3P（2女1男） | |
 | mmf threesome | 3P（2男1女） | |
 | incest | 乱伦 | |
-| uncensored | 无码 | 无修正，让我好好研究一下 |
-| anthology | 选集 | 或者说杂志？ |
+| uncensored | 无码 | 无修正 |
+| anthology | 选集 | 多个作者共同完成的*完整*的书（杂志） |
 | mosaic censorship | 有码 | 薄薄的一层<br>这一条纯为臆想，如果更好的解释，望修正 |
 | full censorship | 有码 | 厚厚的一层<br>这一条纯为臆想，如果更好的解释，望修正 |
 | story arc | 故事线 | 基本与单行本连用，需要75页或4话或75%以上描述同一个故事 |
 | multi-work series | 系列作品 | 如[DeepSnow]、[妹のおてつだい]、[秋子さんといっしょ]这样出了一本又一本的作品 |
 | incomplete | 不完整 | |
-| sample | 样本 | |
-| novel | 小说 | |
+| sample | 样本 | 来自日本同人网站的样本 |
+| novel | 小说 | 大部分页面为不包括图片的纯文本 |
 | | ▼ 还没正式Tag的公司 | |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg)
