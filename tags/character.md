@@ -72,7 +72,7 @@
 | mutsu | 陆奥 | No.002 陆奥<br>![陆奥](https://img.acg.moe/common/thumb/0/09/41339623_p0.jpg/250px-41339623_p0.jpg)<br>P站ID:41339623 |
 | yukikaze | 雪风 | No.005 雪风<br>![雪风](https://img.acg.moe/common/thumb/a/a0/53672107_p0.jpg/250px-53672107_p0.jpg)<br>P站ID:53672107 |
 | akagi | 赤城 | No.006 赤城<br>![赤城](http://exhentai.org/t/96/78/967886ed6788f4d09f41fb47a816d38df6bc2b84-1471927-2137-3000-jpg_250.jpg) |
-| kaga | 加贺 | No.007 加贺<br>![加贺](https://img.acg.moe/common/thumb/c/c5/39521243_p0.jpg/250px-39521243_p0.jpg)<br>P站ID:39521243 |
+| kaga | 加贺 | No.007 加贺<br>![加贺](http://exhentai.org/t/9f/60/9f60d5e8ea1f0b11204f4992841f5b4109c9ae8a-2379070-1690-2400-jpg_250.jpg) |
 | souryuu | 苍龙 | No.008 苍龙<br>![苍龙](https://img.acg.moe/common/thumb/3/39/44996635.jpg/250px-44996635.jpg)<br>P站ID:44996635 |
 | hiryuu | 飞龙 | No.009 飞龙<br>![飞龙](https://img.acg.moe/common/thumb/0/04/44533906_p0.jpg/250px-44533906_p0.jpg)<br>P站ID:44533906 |
 | shimakaze | 岛风 | No.010 岛风<br>![岛风](https://img.acg.moe/common/thumb/0/00/KanShimakaze.jpg/250px-KanShimakaze.jpg)<br>P站ID:39813972 |
