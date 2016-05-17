@@ -67,6 +67,7 @@
 | yukikaze | 雪风 | No.005 雪风<br>![雪风](https://img.acg.moe/common/thumb/a/a0/53672107_p0.jpg/250px-53672107_p0.jpg)<br>P站ID:53672107 |
 | akagi | 赤城 | No.006 赤城<br>![赤城](https://img.acg.moe/common/thumb/6/61/54098826_p0_master1200.jpg/250px-54098826_p0_master1200.jpg)<br>P站ID:54098826 |
 | kaga | 加贺 | No.007 加贺<br>![加贺](https://img.acg.moe/common/thumb/c/c5/39521243_p0.jpg/250px-39521243_p0.jpg)<br>P站ID:39521243 |
+| souryuu | 苍龙 | No.008 苍龙<br>![苍龙](https://img.acg.moe/common/thumb/3/39/44996635.jpg/250px-44996635.jpg)<br>P站ID:44996635 |
 | hiryuu | 飞龙 | No.009 飞龙<br>![飞龙](https://img.acg.moe/common/thumb/0/04/44533906_p0.jpg/250px-44533906_p0.jpg)<br>P站ID:44533906 |
 | shimakaze | 岛风 | No.010 岛风<br>![岛风](https://img.acg.moe/common/thumb/0/00/KanShimakaze.jpg/250px-KanShimakaze.jpg)<br>P站ID:39813972 |
 | fubuki | 吹雪 | No.011 吹雪<br>![吹雪](https://img.acg.moe/common/thumb/d/d5/46705108_p0_master1200.jpg/250px-46705108_p0_master1200.jpg)<br>P站ID:46705108 |
