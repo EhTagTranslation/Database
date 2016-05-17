@@ -21,6 +21,7 @@
 | land sale | 蘭戸せる | ![蘭戸せる头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tx9au020j204q04qjrj.jpg)<br>二妹！二妹！二妹~<br>![蘭戸せる作品](http://exhentai.org/t/bd/9f/bd9fb746ba895d019aac2cd84a7a9bcde1aef500-1095269-1400-2013-jpg_l.jpg) |
 | emily | emily | ![emily头像](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3txb9wklcj204q04qmxj.jpg)<br>萝莉！萝莉！萝莉~<br>![emily作品](http://exhentai.org/t/f9/90/f9907e06268b6d62a9b9705fc5f4891af63e44ed-122897-800-600-jpg_l.jpg) |
 | chiri | ちり | ![ちり头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tz43bqjoj204q04q3yz.jpg)<br>萝莉！萝莉！萝莉~<br>![ちり作品](http://exhentai.org/t/13/bc/13bcf50600c232d434d2c39ca0d56d8889c5618d-1306943-2123-3000-jpg_l.jpg) |
+| kantoku | 监督 | ![监督头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3y8bdpm2pj204q04qwf7.jpg)<br>监督（カントク，Kantoku），格子萌少女<br>![作品](http://37.48.116.168/e0/5f/e05f32806c27b7adeea062b470696d263a4dd3e2-1345066-2487-3500-jpg_l.jpg) |
 | | ▲这就是爱 | |
 | miyahara ayumu | 宮原歩 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7506/26777492150_d11e4fd65f.jpg) |
