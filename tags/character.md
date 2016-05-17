@@ -54,6 +54,7 @@
 | shinki | 神绮 | |
 | yumemi okazaki | 冈崎梦美 | |
 | mima | 魅魔 | |
+| hata no kokoro | 秦心 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | ![高坂穗乃果](https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) |
