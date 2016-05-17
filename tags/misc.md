@@ -17,6 +17,9 @@
 | mosaic censorship | 有码 | 薄薄的一层<br>这一条纯为臆想，如果更好的解释，望修正 |
 | full censorship | 有码 | 厚厚的一层<br>这一条纯为臆想，如果更好的解释，望修正 |
 | story arc | 故事线 | 基本与单行本连用，需要75页或4话或75%以上描述同一个故事 |
-| multi-work series | 系列作品 | 如[深雪](http://exhentai.org/?f_doujinshi=0&f_manga=0&f_artistcg=0&f_gamecg=0&f_western=0&f_non-h=0&f_imageset=0&f_cosplay=0&f_asianporn=0&f_misc=0&f_search=%22Deep+Snow%22+language%3Achinese%24&f_apply=Apply+Filter&advsearch=1&f_sname=on&f_stags=on&f_sh=on&f_srdd=2)、[妹のおてつだい](http://exhentai.org/?f_doujinshi=0&f_manga=0&f_artistcg=0&f_gamecg=0&f_western=0&f_non-h=0&f_imageset=0&f_cosplay=0&f_asianporn=0&f_misc=0&f_search=%22Imouto+no+Otetsudai%22+language%3Achinese%24&f_apply=Apply+Filter&advsearch=1&f_sname=on&f_stags=on&f_sh=on&f_srdd=2)、[秋子さんといっしょ](http://exhentai.org/?f_doujinshi=0&f_manga=0&f_artistcg=0&f_gamecg=0&f_western=0&f_non-h=0&f_imageset=0&f_cosplay=0&f_asianporn=0&f_misc=0&f_search=%22Akiko-san+to+Issho%22+language%3Achinese%24&f_apply=Apply+Filter&advsearch=1&f_sname=on&f_stags=on&f_sh=on&f_srdd=2)这样出了一本又一本的作品 |
+| multi-work series | 系列作品 | 如[DeepSnow]、[妹のおてつだい]、[秋子さんといっしょ]这样出了一本又一本的作品 |
+| incomplete | 不完整 | |
+| sample | 样本 | |
+| novel | 小说 | |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg)
