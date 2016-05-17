@@ -129,6 +129,7 @@
 | musashi | 武藏 | No.143 武藏<br>![武藏](https://img.acg.moe/common/thumb/2/2c/%E6%AD%A6%E8%97%8F.jpg/250px-%E6%AD%A6%E8%97%8F.jpg) |
 | verniy | Верный(响改二) | No.147 Верный<br>![Верный](https://img.acg.moe/common/thumb/3/3d/40238535_p0.jpg/250px-40238535_p0.jpg)<br>P站ID:40238535 |
 | taihou | 大凤 | No.153 大凤<br>![大凤](https://img.acg.moe/common/thumb/3/31/54958301_p0_master1200.jpg/250px-54958301_p0_master1200.jpg)<br>P站ID:54958301 |
+| katori | 香取 | No.154 香取<br>![香取](http://exhentai.org/t/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg) |
 | i-401 | 伊401 | No.155 伊401<br>![伊401](https://img.acg.moe/common/thumb/7/7a/44720994_p0.jpg/250px-44720994_p0.jpg)<br>P站ID:44720994 |
 | maruyu | まるゆ | No.163 まるゆ<br>![まるゆ](https://img.acg.moe/common/thumb/1/1b/40978204.png/250px-40978204.png)<br>P站ID:40978204 |
 | isokaze | 矶风 | No.167 矶风<br>![矶风](https://img.acg.moe/common/thumb/f/fc/52272800_p0.png/250px-52272800_p0.png)<br>P站ID:52272800 |
