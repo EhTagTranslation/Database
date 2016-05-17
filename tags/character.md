@@ -96,7 +96,7 @@
 | chiyoda | 千代田 | No.050 千代田<br>![千代田](https://img.acg.moe/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg) |
 | aoba | 青叶 | No.054 青叶<br>![青叶](https://img.acg.moe/common/thumb/f/fb/Aoba_kancolle.jpg/250px-Aoba_kancolle.jpg) |
 | myoukou | 妙高 | No.055 妙高<br>![妙高](https://img.acg.moe/common/thumb/1/19/CfcFQDVUUAAENdJ.jpg/250px-CfcFQDVUUAAENdJ.jpg) |
-| nachi | 那智 | No.056 那智<br>![那智](https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg)<br>P站ID:41031613 |
+| nachi | 那智 | No.056 那智<br>![那智](http://174.126.122.187:8880/h/974fa9c09318905728fe1b24147e8333ba8f8ced-108156-780-1115-jpg/keystamp=1463486400-bf9c759fcb/wudu_003.jpg) |
 | ashigara | 足柄 | No.057 足柄<br>![足柄](https://img.acg.moe/common/thumb/6/69/52960554_p2_master1200.jpg/250px-52960554_p2_master1200.jpg) |
 | haguro | 羽黑 | No.058 羽黑<br>![羽黑](https://img.acg.moe/common/thumb/2/2a/53069838_p0.jpg/250px-53069838_p0.jpg)<br>P站ID:53069838 |
 | takao | 高雄 | No.059 高雄<br>![高雄](http://exhentai.org/t/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg) |
@@ -123,7 +123,7 @@
 | yuubari | 夕张 | No.111 夕张<br>![夕张](https://img.acg.moe/common/thumb/3/38/39886581_p0_master1200.jpg/250px-39886581_p0_master1200.jpg)<br>P站ID:39886581 |
 | zuihou | 瑞凤 | No.112 瑞凤<br>![瑞凤](https://img.acg.moe/common/thumb/f/fd/55262350_p0.jpg/250px-55262350_p0.jpg)<br>P站ID:55262350 |
 | i-19 | 伊19 | No.123 伊19<br>![伊19](https://img.acg.moe/common/thumb/0/00/40119337.png/250px-40119337.png)<br>P站ID:40119337 |
-| suzuya | 铃谷 | No.124 铃谷<br>![铃谷](https://img.acg.moe/common/thumb/a/a0/55960461_p0_master1200.jpg/250px-55960461_p0_master1200.jpg)<br>P站ID:55960461 |
+| suzuya | 铃谷 | No.124 铃谷<br>![铃谷](http://exhentai.org/t/2e/e6/2ee646e86b9f056b6b1dd976350d7ad89231ee24-738598-1418-2000-jpg_250.jpg) |
 | kumano | 熊野 | No.125 熊野<br>![熊野](https://img.acg.moe/common/thumb/e/e2/45219562_p0.jpg/250px-45219562_p0.jpg)<br>P站ID:45219562 |
 | i-168 | 伊168 | No.126 伊168<br>![伊168](https://img.acg.moe/common/thumb/4/40/41962607_p0.png/250px-41962607_p0.png)<br>P站ID:41962607 |
 | i-58 | 伊58 | No.127 伊58<br>![伊58](https://img.acg.moe/common/thumb/c/cb/Kancolle_Gouya.jpg/250px-Kancolle_Gouya.jpg)<br>P站ID:41341676 |
@@ -149,8 +149,8 @@
 | ooyodo | 大淀 | No.183 大淀<br>![大淀](https://img.acg.moe/common/thumb/a/a7/52592522_p0.jpg/250px-52592522_p0.jpg)<br>P站ID:52592522 |
 | harusame | 春雨 | No.205 春雨<br>![春雨](http://exhentai.org/t/5a/d9/5ad94f1967e5dece44b0b78b6d13160418905082-1879239-1724-2500-jpg_250.jpg) |
 | graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵<br>![齐柏林伯爵](https://img.acg.moe/common/thumb/6/64/54064944_p0.jpg/250px-54064944_p0.jpg)<br>P站ID:54064944 |
-| ro-500 | 吕500 | No.236 吕500<br>![吕500](https://img.acg.moe/common/thumb/0/01/%E5%90%95500.jpg/250px-%E5%90%95500.jpg)<br>P站ID:49060091 |
-| kashima | 鹿岛 | No.265 鹿岛<br>![鹿岛](https://img.acg.moe/common/thumb/a/a4/53748807.jpg/250px-53748807.jpg)<br>P站ID:53748807 |
+| ro-500 | 吕500 | No.236 吕500<br>![吕500](http://exhentai.org/t/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg)<br> |
+| kashima | 鹿岛 | No.265 鹿岛<br>讲真，最近多了好多鹿岛的本子<br>![鹿岛](http://exhentai.org/t/6d/96/6d968544e64c6a58bb2ead9656c7366a4a048dc9-2170967-1410-2024-jpg_250.jpg) |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)<br>![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg) |
 | wo-class | ヲ级(wo酱) | ![空母ヲ级](https://img.acg.moe/common/thumb/1/16/47428634_wo.jpg/250px-47428634_wo.jpg)<br>P站ID:47428634 |
 | | ▲舰队Collection-KanColle 人物 | |
