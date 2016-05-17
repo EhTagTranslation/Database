@@ -90,10 +90,10 @@
 | akagi | 赤城 | No.006 赤城<br>![赤城](http://exhentai.org/t/96/78/967886ed6788f4d09f41fb47a816d38df6bc2b84-1471927-2137-3000-jpg_250.jpg) |
 | kaga | 加贺 | No.007 加贺<br>![加贺](http://exhentai.org/t/9f/60/9f60d5e8ea1f0b11204f4992841f5b4109c9ae8a-2379070-1690-2400-jpg_250.jpg) |
 | souryuu | 苍龙 | No.008 苍龙<br>![苍龙](http://exhentai.org/t/1e/4d/1e4d2387b1817ccf472ada6f5e91bb1c6f2615d5-1138315-1411-2000-jpg_250.jpg) |
-| hiryuu | 飞龙 | No.009 飞龙<br>![飞龙](https://img.acg.moe/common/thumb/0/04/44533906_p0.jpg/250px-44533906_p0.jpg)<br>P站ID:44533906 |
+| hiryuu | 飞龙 | No.009 飞龙<br>![飞龙](http://exhentai.org/t/52/a2/52a27ccf1909e92b13feaea691a7717a2db32fb9-790987-1416-2000-jpg_250.jpg) |
 | shimakaze | 岛风 | No.010 岛风<br>![岛风](http://exhentai.org/t/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg) |
-| fubuki | 吹雪 | No.011 吹雪<br>![吹雪](https://img.acg.moe/common/thumb/d/d5/46705108_p0_master1200.jpg/250px-46705108_p0_master1200.jpg)<br>P站ID:46705108 |
-| shirayuki | 白雪 | No.012 白雪<br>![白雪](https://img.acg.moe/common/thumb/7/73/46491633_p0_master1200.jpg/250px-46491633_p0_master1200.jpg)<br>P站ID:46491633 |
+| fubuki | 吹雪 | No.011 吹雪<br>![吹雪](http://exhentai.org/t/fe/d3/fed3c4b1bba573f357acb64b94bcb69e2465fe9c-580323-1000-1398-jpg_250.jpg) |
+| shirayuki | 白雪 | No.012 白雪<br>![白雪](http://exhentai.org/t/16/91/1691ed6aca37aa9a8dc8b0527f0a18e5a7cbe542-798232-2122-3000-jpg_250.jpg) |
 | murakumo | 丛云 | No.015 丛云<br>![丛云](http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg) |
 | ayanami | 绫波 | No.017 绫波<br>![绫波](https://img.acg.moe/common/thumb/b/b7/44375500_p0.jpg/250px-44375500_p0.jpg)<br>P站ID:44375500 |
 | ooi | 大井 | No.019 大井<br>![大井](https://img.acg.moe/common/thumb/b/b7/55414110_p0.jpg/250px-55414110_p0.jpg)<br>P站ID:55414110 |
