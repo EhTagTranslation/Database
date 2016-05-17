@@ -105,11 +105,14 @@
 | choukai | 鸟海 | No.062 鸟海<br>![鸟海](https://img.acg.moe/common/thumb/5/50/%E4%B9%8C%E6%A2%85.png/250px-%E4%B9%8C%E6%A2%85.png)<br>P站ID:4257425  |
 | tone | 利根 | No.063 利根<br>![利根](https://img.acg.moe/common/thumb/0/0d/%E5%88%A9%E6%A0%B9.jpg/250px-%E5%88%A9%E6%A0%B9.jpg) |
 | chikuma | 筑摩 | No.064 筑摩<br>![筑摩](https://img.acg.moe/common/thumb/3/30/Tikuma.png/250px-Tikuma.png) |
+| junyou | 隼鹰 | No.066 隼鹰![隼鹰](http://exhentai.org/t/88/ac/88acd3a846f6b264d165925d66189c36d95b973d-1526496-2137-3039-jpg_250.jpg) |
 | akebono | 曙 | No.068 曙<br>![曙](https://img.acg.moe/common/thumb/5/5c/55034528_p0.jpg/250px-55034528_p0.jpg)<br>P站ID:55034528 |
 | akatsuki | 晓 | No.071 晓<br>![晓](https://img.acg.moe/common/thumb/f/f4/46852810_p0.jpg/250px-46852810_p0.jpg)<br>P站ID:46852810 |
 | hibiki | 响 | No.072 响<br>![响](https://img.acg.moe/common/thumb/7/76/48149972_p0.png/250px-48149972_p0.png)<br>P站ID:48149972 |
 | ikazuchi | 雷 | No.073 雷<br>![雷](https://img.acg.moe/common/thumb/2/23/55449201_p0.png/250px-55449201_p0.png)<br>P站ID:55449201 |
 | inazuma | 电 | No.074 电<br>![电](https://img.acg.moe/common/thumb/b/bd/51464079.jpg/250px-51464079.jpg)<br>P站ID:51464079 |
+| hatsuharu | 初春 | No.075 初春<br>![初春](http://exhentai.org/t/b4/85/b485b5c9d8f9cc3be14b94bfbae4a1176846699c-3489403-2867-4031-jpg_250.jpg) |
+| nenohi | 子日 | No.076 子日<br>![子日](https://img.acg.moe/common/thumb/2/21/42014691.jpg/250px-42014691.jpg) |
 | shigure | 时雨 | No.080 时雨<br>![时雨](https://img.acg.moe/common/thumb/1/1b/6e70bef2b21193138ecf681661380cd790238dbf.jpg/250px-6e70bef2b21193138ecf681661380cd790238dbf.jpg)<br>P站ID：43077121 |
 | yuudachi | 夕立 | No.082 夕立<br>![夕立](https://img.acg.moe/common/thumb/2/23/47418399_p0.jpg/250px-47418399_p0.jpg)<br>poi<br>P站ID:47418399 |
 | samidare | 五月雨 | No.083 五月雨<br>![五月雨](https://img.acg.moe/common/thumb/9/9b/55264446_p0.png/250px-55264446_p0.png)<br>P站ID:55264446 |
