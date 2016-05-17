@@ -13,7 +13,7 @@
 | pokemon | 精灵宝可梦 | ![萌之英语单词](http://tse1.mm.bing.net/th?&id=OIP.M00aabeffa352256858040b238495b5b1o0&w=299&h=168&c=0&pid=1.9&rs=0&p=0) |
 | higurashi no naku koro ni | 寒蝉鸣泣之时 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://exhentai.org/t/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://exhentai.org/t/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
 | saki | 天才麻将少女 | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
-| puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](https://img.acg.moe/common/thumb/0/06/Puella_Magi_Madoka_Magica.jpg/250px-Puella_Magi_Madoka_Magica.jpg) |
+| puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](http://82.192.80.241/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](http://82.192.80.241/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) |
 | toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://exhentai.org/t/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg) |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) |
 | sword art online | 刀剑神域 | ![劳模](http://exhentai.org/t/47/c8/47c84877aab92bb5458b970b1549fef79bbfbb36-904651-1097-1600-jpg_250.jpg)![劳模](http://exhentai.org/t/82/51/8251e69ed64cf8569d6f68235681d0782883408f-1323325-2128-3021-jpg_250.jpg) |
@@ -34,7 +34,7 @@
 | tengen toppa gurren lagann | 天元突破 | ![图](http://exhentai.org/t/7f/57/7f57b5fe9c80fa170e1e5b1ae108df71d4c055ce-602630-1200-1600-jpg_l.jpg)![图](http://exhentai.org/t/f3/a0/f3a02ba9088f4282990213ff6a06a1733c0d476f-458325-1125-1600-jpg_l.jpg) |
 | cardcaptor sakura | 魔卡少女樱| ![图](http://exhentai.org/t/23/68/2368eddf29ed93847a2cf6d2dbf2ff16d46c1107-142448-785-1133-jpg_l.jpg) |
 | mayoi neko overrun | 迷途猫 | ![图](http://exhentai.org/t/11/24/11244eff647229a9dfa91a226f0595b04e584616-542928-1200-1700-jpg_l.jpg) |
-| outbreak company | 萌萌侵略者 | ![图](http://exhentai.org/t/5c/cb/5ccbeaf7707a89d2300f6da3ab13e3f890550586-2594203-2086-3007-jpg_l.jpg) |
+| outbreak company | 萌萌侵略者 | ![图](http://37.48.116.168/4b/55/4b55349b26d1f425109928d09be98bb80e5bcecf-2328939-2149-3000-jpg_l.jpg)![图](http://exhentai.org/t/c3/9c/c39cf717905c2fdb9db6343309c1e2a6ee0263fa-981328-2140-3000-jpg_l.jpg) |
 | kyoukai no kanata | 境界的彼方 | ![图](http://exhentai.org/t/63/09/6309cec6eb0ee71940f1d0b408f1198364f5efa0-926542-1417-2000-jpg_l.jpg) |
 | hataraku maou-sama | 打工吧！魔王大人 | ![图](http://exhentai.org/t/ce/25/ce2528552f9e377a1246348581d3e6cfb344750b-1250556-1481-2100-jpg_l.jpg) |
 | haiyore nyaruko-san | 潜行吧！奈亚子 | ![图](http://exhentai.org/t/1f/39/1f3920cab6a42f7ced12b547a70d665491574993-402737-765-1080-jpg_l.jpg) |
