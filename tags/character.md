@@ -22,6 +22,14 @@
 | remilia scarlet | 蕾米莉亚·斯卡雷特 | |
 | letty whiterock | 蕾迪·霍瓦特罗克 | |
 | chen | 橙 | |
+| eirin yagokoro |  八意永琳 | |
+| kanako yasaka | 八坂神奈子 | |
+| reisen udongein inaba | 铃仙·优昙华院·因幡 | |
+| rin kaenbyou | 火焰猫燐 | |
+| satori komeiji | 古明地觉 | |
+| suwako moriya | 洩矢诹访子 | |
+| youmu konpaku | 魂魄妖梦 | |
+| yuyuko saigyouji | 西行寺幽幽子 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | ![高坂穗乃果](https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) |
