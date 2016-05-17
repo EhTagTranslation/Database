@@ -56,6 +56,20 @@
 | mima | 魅魔 | |
 | hata no kokoro | 秦心 | |
 | junko | 纯狐 | |
+| kyouko kasodani | 幽谷响子 | |
+| koishi komeiji | 古明地恋 | |
+| seija kijin | 鬼人正邪 | |
+| clownpiece | 克劳恩皮丝 | |
+| benben tsukumo | 九十九弁弁 | |
+| yatsuhashi tsukumo | 九十九八桥 | |
+| kagerou imaizumi | 今泉影狼 | |
+| raiko horikawa | 堀川雷鼓 | |
+| sekibanki | 赤蛮奇 | |
+| shinmyoumaru sukuna | 少名针妙丸 | |
+| wakasagihime | 若鹭姬 | |
+| luna child | 露娜切露德 | |
+| star sapphire | 斯塔萨菲雅 | |
+| sunny milk |  桑尼米尔克 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | ![高坂穗乃果](https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) |
@@ -163,3 +177,6 @@
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |
 | big macintosh | 大麦哥 | Apple Bloom 和 Applejack 的哥哥。![BM](https://31.media.tumblr.com/88874d9ab3d8c6f727743d0e5ec0e1ff/tumblr_inline_nk52r9LXS81snpgiu.png) |
 | | ▲My Little Pony 角色 | |
+| asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://85.17.73.31/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  |
+| bell cranel | 贝尔•克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主 |
+| hestia | 赫斯缇雅 | 真·女神<br>![女神](http://82.192.80.241/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg)![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg) |
