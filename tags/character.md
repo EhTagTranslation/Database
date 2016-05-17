@@ -135,19 +135,19 @@
 | zuihou | 瑞凤 | No.112 瑞凤<br>![瑞凤](http://exhentai.org/t/66/7e/667ee733f79fd7d37ed4273efe543be0d46a0e10-466678-1420-2000-jpg_250.jpg) |
 | i-19 | 伊19 | No.123 伊19<br>![伊19](http://exhentai.org/t/51/92/51920759488992ab03fdd66d863201dedd2c6b6b-1683613-1419-2000-jpg_250.jpg) |
 | suzuya | 铃谷 | No.124 铃谷<br>![铃谷](http://exhentai.org/t/2e/e6/2ee646e86b9f056b6b1dd976350d7ad89231ee24-738598-1418-2000-jpg_250.jpg) |
-| kumano | 熊野 | No.125 熊野<br>![熊野](https://img.acg.moe/common/thumb/e/e2/45219562_p0.jpg/250px-45219562_p0.jpg)<br>P站ID:45219562 |
+| kumano | 熊野 | No.125 熊野<br>![熊野](http://exhentai.org/t/09/c0/09c0b3b579b1946da95efe8b60a2aefee5f8b593-791108-1411-2000-jpg_250.jpg) |
 | i-168 | 伊168 | No.126 伊168<br>![伊168](https://img.acg.moe/common/thumb/4/40/41962607_p0.png/250px-41962607_p0.png)<br>P站ID:41962607 |
-| i-58 | 伊58 | No.127 伊58<br>![伊58](https://img.acg.moe/common/thumb/c/cb/Kancolle_Gouya.jpg/250px-Kancolle_Gouya.jpg)<br>P站ID:41341676 |
+| i-58 | 伊58 | No.127 伊58<br>![伊58](http://exhentai.org/t/d9/ef/d9ef3c69a2738bb42cc2a3a6be2946b5f3af3703-535315-1055-1500-jpg_250.jpg) |
 | i-8 | 伊8 | No.128 伊8<br>![伊8](https://img.acg.moe/common/thumb/1/1c/%E4%BC%8A8%28%E6%96%B0%E3%82%B9%E3%82%AF%E6%B0%B4%29_-_%E3%81%BA%E3%81%93_-_42444212.jpg/250px-%E4%BC%8A8%28%E6%96%B0%E3%82%B9%E3%82%AF%E6%B0%B4%29_-_%E3%81%BA%E3%81%93_-_42444212.jpg)<br>P站ID:42444212 |
-| yamato | 大和 | No.131 大和<br>![大和](https://img.acg.moe/common/thumb/2/2a/42264178_p0.jpg/250px-42264178_p0.jpg)<br>P站ID:42264178 |
-| agano | 阿贺野 | No.137 阿贺野<br>![阿贺野](https://img.acg.moe/common/thumb/8/87/Agano_01.jpg/250px-Agano_01.jpg)<br>P站ID:44213335 |
-| noshiro | 能代 | No.138 能代<br>![能代](https://img.acg.moe/common/thumb/0/09/Noshiro.png/250px-Noshiro.png) |
+| yamato | 大和 | No.131 大和<br>![大和](http://exhentai.org/t/65/fc/65fc32dcf211f95654dfec389be9e5455bfc4d05-1200763-2138-3029-jpg_250.jpg) |
+| agano | 阿贺野 | No.137 阿贺野<br>![阿贺野](http://exhentai.org/t/d7/0c/d70cf7f81ef0e5c4632f48e60eb0ccb0710b5847-1250102-919-1300-png_250.jpg) |
+| noshiro | 能代 | No.138 能代<br>![能代](http://exhentai.org/t/f8/d8/f8d84ea1411bbe9a6dac11849ce345b7004a83bb-731702-1759-2500-jpg_250.jpg) |
 | musashi | 武藏 | No.143 武藏<br>![武藏](http://exhentai.org/t/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg) |
 | verniy | Верный(响改二) | No.147 Верный<br>![Верный](http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg) |
 | taihou | 大凤 | No.153 大凤<br>![大凤](http://exhentai.org/t/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg) |
 | katori | 香取 | No.154 香取<br>![香取](http://exhentai.org/t/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg) |
-| i-401 | 伊401 | No.155 伊401<br>![伊401](https://img.acg.moe/common/thumb/7/7a/44720994_p0.jpg/250px-44720994_p0.jpg)<br>P站ID:44720994 |
-| maruyu | まるゆ | No.163 まるゆ<br>![まるゆ](https://img.acg.moe/common/thumb/1/1b/40978204.png/250px-40978204.png)<br>P站ID:40978204 |
+| i-401 | 伊401 | No.155 伊401<br>![伊401](http://exhentai.org/t/93/e6/93e601e4d66076f9d8e2a1e8e54686f1c9acdac5-524664-1410-2024-jpg_250.jpg) |
+| maruyu | まるゆ | No.163 まるゆ<br>![まるゆ](http://exhentai.org/t/d3/64/d364b20ea83468acecc15ad9a541e263cfd74cd6-1049033-2130-3000-jpg_250.jpg) |
 | isokaze | 矶风 | No.167 矶风<br>![矶风](http://exhentai.org/t/ac/8f/ac8f3eec194a7b1437a8b2615c8041d9c7f61ca3-479418-1420-2000-jpg_250.jpg) |
 | urakaze | 浦风 | No.168 浦风<br>![浦风](http://exhentai.org/t/7b/ab/7babdcf0c628c0c909c3939325bd7aff2c0133c5-3501220-2133-3000-jpg_250.jpg) |
 | hamakaze | 滨风 | No.170 滨风<br>![滨风](http://exhentai.org/t/a7/7c/a77cee5045fcb1e20e63f0ea2551790aa8b38f44-3959169-1956-3000-jpg_250.jpg) |
@@ -163,7 +163,7 @@
 | ro-500 | 吕500 | No.236 吕500<br>![吕500](http://exhentai.org/t/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg)<br> |
 | kashima | 鹿岛 | No.265 鹿岛<br>讲真，最近多了好多鹿岛的本子<br>![鹿岛](http://exhentai.org/t/6d/96/6d968544e64c6a58bb2ead9656c7366a4a048dc9-2170967-1410-2024-jpg_250.jpg) |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)<br>![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg) |
-| wo-class | ヲ级(wo酱) | ![空母ヲ级](https://img.acg.moe/common/thumb/1/16/47428634_wo.jpg/250px-47428634_wo.jpg)<br>P站ID:47428634 |
+| wo-class | ヲ级(wo酱) | ![空母ヲ级](http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg) |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
