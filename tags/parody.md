@@ -14,10 +14,10 @@
 | higurashi no naku koro ni | 寒蝉鸣泣之时 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://exhentai.org/t/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://exhentai.org/t/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
 | saki | 天才麻将少女 | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](http://82.192.80.241/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](http://82.192.80.241/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) |
-| toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://exhentai.org/t/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg) |
+| toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://exhentai.org/t/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg)![图](http://82.192.80.241/49/e8/49e8946e3c5bc06c87dca62ad9806525bd8a6e02-345835-1121-1600-jpg_l.jpg) |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) |
 | sword art online | 刀剑神域 | ![劳模](http://exhentai.org/t/47/c8/47c84877aab92bb5458b970b1549fef79bbfbb36-904651-1097-1600-jpg_250.jpg)![劳模](http://exhentai.org/t/82/51/8251e69ed64cf8569d6f68235681d0782883408f-1323325-2128-3021-jpg_250.jpg) |
-| to love-ru | To LOVEる | ![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg) |
+| to love-ru | To LOVEる | ![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg)![图](http://85.17.73.31/4b/db/4bdb998c60aca38332bdbb28360d72d631d36c37-343520-1134-1600-jpg_l.jpg) |
 | ro-kyu-bu | 萝球社 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | ![图](http://exhentai.org/t/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
 | hyperdimension neptunia | 超次元游戏：海王星 | ![图](https://img.acg.moe/common/thumb/9/95/Choujigen_game_neptune.jpg/250px-Choujigen_game_neptune.jpg) |
