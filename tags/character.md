@@ -30,6 +30,24 @@
 | suwako moriya | 洩矢诹访子 | |
 | youmu konpaku | 魂魄妖梦 | |
 | yuyuko saigyouji | 西行寺幽幽子 | |
+| nitori kawashiro | 河城荷取 | |
+| byakuren hijiri | 圣白莲 | |
+| aya shameimaru | 射命丸文 | |
+| tenshi hinanai | 比那名居天子 | |
+| wriggle nightbug | 莉格露·奈特巴格 | |
+| yuuka kazami | 风见幽香 | |
+| nue houjuu | 封兽鵺 | |
+| komachi onozuka | 小野塚小町 | |
+| shikieiki yamaxanadu | 四季映姬·亚玛萨那度 | |
+| keine kamishirasawa | 上白泽慧音 | |
+| yukari yakumo | 八云紫 | |
+| ran yakumo | 八云蓝 | |
+| fujiwara no mokou | 藤原妹红 | |
+| kaguya houraisan | 蓬莱山辉夜 | |
+| mystia lorelei | 米斯蒂娅·萝蕾拉 | |
+| alice margatroid | 爱丽丝·玛格特洛依德 | |
+| sanae kochiya | 东风谷早苗 | |
+| hina kagiyama | 键山雏 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | ![高坂穗乃果](https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) |
