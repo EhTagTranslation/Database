@@ -144,7 +144,7 @@
 | z1 | Z1 | No.174 Z1<br>![Z1](https://img.acg.moe/common/thumb/5/53/46216583_p0.jpg/250px-46216583_p0.jpg)<br>P站ID:46216583 |
 | z3 | Z3 | No.175 Z3<br>![Z3](https://img.acg.moe/common/thumb/8/88/42379456.jpg/250px-42379456.jpg)<br>P站ID:42379456 |
 | prinz eugen | 欧根亲王 | No.176 欧根亲王<br>![欧根亲王](https://img.acg.moe/common/thumb/9/93/47279550_p0.png/250px-47279550_p0.png)<br>P站ID:47279550 |
-| amatsukaze | 天津风 | No.181 天津风<br>![天津风](https://img.acg.moe/common/thumb/d/d2/45137996_p0.jpg/250px-45137996_p0.jpg)<br>P站ID:45137996 |
+| amatsukaze | 天津风 | No.181 天津风<br>![天津风](http://exhentai.org/t/37/c6/37c6538b7ec4335b963fceac0a56b47bd9e43c48-1425407-2116-3000-jpg_250.jpg) |
 | akashi | 明石 | No.182 明石<br>![明石](https://img.acg.moe/common/thumb/5/5d/43112993.jpg/250px-43112993.jpg)<br>P站ID:43112993 |
 | ooyodo | 大淀 | No.183 大淀<br>![大淀](https://img.acg.moe/common/thumb/a/a7/52592522_p0.jpg/250px-52592522_p0.jpg)<br>P站ID:52592522 |
 | harusame | 春雨 | No.205 春雨<br>![春雨](https://img.acg.moe/common/thumb/2/2e/55265469_p0.jpg/250px-55265469_p0.jpg)<br>P站ID:55265469 |
