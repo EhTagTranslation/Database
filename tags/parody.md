@@ -16,17 +16,16 @@
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](https://img.acg.moe/common/thumb/0/06/Puella_Magi_Madoka_Magica.jpg/250px-Puella_Magi_Madoka_Magica.jpg) |
 | toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://exhentai.org/t/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg) |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) |
-| sword art online | 刀剑神域 | ![SAO](https://img.acg.moe/common/thumb/0/02/Sao.png/250px-Sao.png) |
+| sword art online | 刀剑神域 | ![劳模](http://exhentai.org/t/47/c8/47c84877aab92bb5458b970b1549fef79bbfbb36-904651-1097-1600-jpg_250.jpg)![劳模](http://exhentai.org/t/82/51/8251e69ed64cf8569d6f68235681d0782883408f-1323325-2128-3021-jpg_250.jpg) |
 | to love-ru | To LOVEる | ![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg) |
 | ro-kyu-bu | 萝球社 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | ![图](http://exhentai.org/t/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
 | hyperdimension neptunia | 超次元游戏：海王星 | ![图](https://img.acg.moe/common/thumb/9/95/Choujigen_game_neptune.jpg/250px-Choujigen_game_neptune.jpg) |
 | love live | LoveLive! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) |
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
-| boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](https://img.acg.moe/common/thumb/6/69/Meat-kashiwazaki_00247023.jpg/250px-Meat-kashiwazaki_00247023.jpg)![图](http://exhentai.org/t/48/d7/48d72ebf21a766d430cf8441e0bde7f94dc3a02d-921627-2497-3500-jpg_l.jpg)![图](http://exhentai.org/t/58/cd/58cdb0fe999ac9a414ad02119fd5ac54d6926637-687951-2060-2996-jpg_l.jpg) |
-| vocaloid | V家 | ![图](https://tse1.mm.bing.net/th?&id=OIP.M04952eac2c7de0902d382e5e8c994752H0&w=300&h=201&c=0&pid=1.9&rs=0&p=0) |
+| boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](http://exhentai.org/t/5a/53/5a53888ed5043aa5fe693f05f23e6977531baeb3-367327-588-860-jpg_l.jpg) |
+| vocaloid | V家 | ![图](http://exhentai.org/t/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
-| gochuumon wa usagi desu ka | 今天你也要来点兔子吗？ | ![点兔](https://img.acg.moe/common/9/9a/Diantu2_KV3.jpg) |
 | the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
 | himouto umaru-chan | 干物妹！小埋 | ![图](http://exhentai.org/t/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg) |
