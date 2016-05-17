@@ -45,3 +45,4 @@
 | no game no life | 游戏人生 | ![图](http://exhentai.org/t/ac/3e/ac3e54bcd913fb0f513e76d9b0b64cc42875942b-2532874-2138-3021-jpg_l.jpg)<br>官方逼死同人↓<br>![官逼人](http://exhentai.org/t/8c/43/8c43d8f851dc53eeee03260dbc6e49db93cb5f64-1068795-2141-3022-jpg_l.jpg) |
 | barakamon | 元气囝仔 | 漫画<br>![图](http://exhentai.org/t/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg) |
 | divine gate | 神圣之门 | 游戏<br>![图](http://exhentai.org/t/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg) |
+| sayonara zetsubou sensei | 再见！绝望先生 | 漫画<br>![图](http://exhentai.org/t/81/40/814081ac108eac6524b2431c7f7e2cf9eedc15d7-2120348-2845-4019-jpg_l.jpg) |
