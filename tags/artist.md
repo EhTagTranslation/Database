@@ -1,12 +1,13 @@
 本页储存TAG列表的artist（艺术家）翻译。
-请按照如下规则：
+### 请按照如下规则：
 * 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。或者使用文本介绍时写在简介中。
 * 图片也可用作者P站头像，或者为你自己喜爱的画师做一张图片简介，P站头像无法外链，建议传新浪微博等能方便外链图片的地方。
 
-推荐规则，非强制
+▼ 推荐规则，非强制
 * 建议简介书写格式为
  
  > P站或其他能找到的作者头像<换行><br>对作者的一点文字简介<换行><br>某个代表作者特色的作品。
+
  为排版好看，头像高度建议200px以内，当然头像里明显H的就不要放了。
 
 | 英文原名 | 中文名 | 简介 |
@@ -30,7 +31,7 @@
 | kantoku | 监督 | ![监督头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3y8bdpm2pj204q04qwf7.jpg)<br>监督（カントク，Kantoku），格子萌少女<br>![作品](http://37.48.116.168/e0/5f/e05f32806c27b7adeea062b470696d263a4dd3e2-1345066-2487-3500-jpg_l.jpg) |
 | | ▲这就是爱 | |
 | miyahara ayumu | 宮原歩 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
-| nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7506/26777492150_d11e4fd65f.jpg) |
+| nishikawa kou | 西川康 | [有H不合适](https://farm8.staticflickr.com/7506/26777492150_d11e4fd65f.jpg) |
 | narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) |
-| akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと](https://farm8.staticflickr.com/7068/26448607233_8c742b9d0f_b.jpg ) |
+| akatsuki myuuto | 赤月みゅうと | [有H不合适](https://farm8.staticflickr.com/7068/26448607233_8c742b9d0f_b.jpg ) |
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |
