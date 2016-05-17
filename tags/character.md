@@ -85,7 +85,7 @@
 | i-58 | 伊58 | ![伊58](https://img.acg.moe/common/thumb/c/cb/Kancolle_Gouya.jpg/250px-Kancolle_Gouya.jpg)<br>P站ID:41341676 |
 | i-401 | 伊401 | ![伊401](https://img.acg.moe/common/thumb/7/7a/44720994_p0.jpg/250px-44720994_p0.jpg)<br>P站ID:44720994 |
 | i-168 | 伊168 | ![伊168](https://img.acg.moe/common/thumb/4/40/41962607_p0.png/250px-41962607_p0.png)<br>P站ID:41962607 |
-| yuudachi | 夕立 | poi![夕立](https://img.acg.moe/common/thumb/2/23/47418399_p0.jpg/250px-47418399_p0.jpg)<br>P站ID:47418399 |
+| yuudachi | 夕立 | ![夕立](https://img.acg.moe/common/thumb/2/23/47418399_p0.jpg/250px-47418399_p0.jpg)<br>poi<br>P站ID:47418399 |
 | ooi | 大井 | ![大井](https://img.acg.moe/common/thumb/b/b7/55414110_p0.jpg/250px-55414110_p0.jpg)<br>P站ID:55414110 |
 | kitagami | 北上 | ![北上](https://img.acg.moe/common/thumb/3/30/49963622_p0.png/250px-49963622_p0.png)<br>P站ID:49963622 |
 | ayanami | 绫波 | ![绫波](https://img.acg.moe/common/thumb/b/b7/44375500_p0.jpg/250px-44375500_p0.jpg)<br>P站ID:44375500 |
