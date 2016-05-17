@@ -6,11 +6,16 @@
 | -------- | ---------------------- | ---------------------------------------- |
 | touhou project | 东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
 | moetan | 萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
+|  | ▼Key社作品 | |
+| clannad | CLANNAD | ![图](http://85.17.73.31/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://37.48.116.168/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://82.192.80.241/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
+| angel beats | Angel Beats! | 麻枝准原创动画第一部<br>![图](http://exhentai.org/t/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg)![图](http://82.192.80.241/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg)
+| charlotte | Charlotte | 麻枝准原创动画第二部<br>![图](http://exhentai.org/t/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |
+|  | ▲Key社作品 | |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | ![俺妹](https://img.acg.moe/common/thumb/7/7d/Oreimo.jpg/250px-Oreimo.jpg)![图](http://exhentai.org/t/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg) |
 | toaru majutsu no index | 魔法禁书目录 | ![图](http://exhentai.org/t/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |
 | toaru kagaku no railgun | 某科学的超电磁炮 | ![图](http://exhentai.org/t/b6/04/b604287878e7c033016e094406e97c9c17f84c78-1338105-1099-1600-jpg_l.jpg) |
 | kantai collection | 舰队collection | ![logo](https://img.acg.moe/common/thumb/6/68/%E8%88%B0%E9%98%9FCollection.png/250px-%E8%88%B0%E9%98%9FCollection.png)<br>![图](https://img.acg.moe/common/thumb/d/d4/%E8%88%B0%E9%98%9FCollection_Poster.jpg/250px-%E8%88%B0%E9%98%9FCollection_Poster.jpg) |
-| pokemon | 精灵宝可梦 | ![萌之英语单词](http://tse1.mm.bing.net/th?&id=OIP.M00aabeffa352256858040b238495b5b1o0&w=299&h=168&c=0&pid=1.9&rs=0&p=0) |
+| pokemon | 精灵宝可梦 | ![一看便知](http://tse1.mm.bing.net/th?&id=OIP.M00aabeffa352256858040b238495b5b1o0&w=299&h=168&c=0&pid=1.9&rs=0&p=0) |
 | higurashi no naku koro ni | 寒蝉鸣泣之时 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://exhentai.org/t/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://exhentai.org/t/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
 | saki | 天才麻将少女 | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](http://82.192.80.241/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](http://82.192.80.241/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) |
@@ -48,10 +53,6 @@
 | highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](http://exhentai.org/t/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg)![图](http://exhentai.org/t/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |
 | gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakk%C5%8D_Gurashi%21_logo.png/220px-Gakk%C5%8D_Gurashi%21_logo.png)<br>萝莉打僵尸<br>![图](http://exhentai.org/t/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg) |
 | a channel | A频道 | 漫画<br>![图](http://exhentai.org/t/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg) |
-|  |  | ![图]() |
-| clannad |  | ![图](http://85.17.73.31/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://37.48.116.168/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://82.192.80.241/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
-| angel beats | Angel Beats! | 麻枝准原创动画第一部<br>![图](http://exhentai.org/t/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg)![图](http://82.192.80.241/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg)
-| charlotte | Charlotte | 麻枝准原创动画第二部<br>![图](http://exhentai.org/t/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |
 | fate kaleid liner prisma illya | 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg) |
 | granblue fantasy | 宏蓝幻想 | 手游，不了解<br>![图](http://exhentai.org/t/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg)![图](http://exhentai.org/t/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg) |
 | gundam 00 | 机动战士高达 00 | ![图](http://exhentai.org/t/ce/cd/cecddb028828ba71cd011ba442ef99e8a7c5fa3a-144928-620-928-jpg_l.jpg) |
