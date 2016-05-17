@@ -9,12 +9,12 @@
 | non-nude | 无裸体 | |
 | artbook | 画师册 | 有特定标题的图像集合的出版书籍，不是非官方收集。<br>![图](http://exhentai.org/t/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_l.jpg) |
 | group | 乱交 | 两个以上的人同时从事性。<br>![图](http://exhentai.org/t/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg) |
-| ffm threesome | 3P(♀♂♀) | 2女1男 |
-| mmf threesome | 3P(♂♀♂) | 2男1女 |
+| ffm threesome | ♀♂♀ | 3P，2女1男 |
+| mmf threesome | ♂♀♂ | 3P，2男1女 |
 | incest | 乱伦 | 家人亲戚，即使是那些没有血缘关系的亲戚之间的性行为。 |
-| uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。<br>不应使用于西部类别的画廊。 |
-| mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。<br>同样水平的修正需要在整个画廊完整实施。<br>如果有审查，不应标记为无H画廊。<br>不应与完全修正Tag混淆。 |
-| full censorship | 完全修正 | 任何形式的完全检查（全白色或黑色），涵盖了几乎所有或个人所有的生殖器区域。<br>同样水平的修正需要在整个画廊完整实施。<br>如果有审查，不应标记为无H画廊。<br>不应与马赛克修正Tag混淆。 |
+| uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。<br>不应使用于西部类别的画廊。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/87/55/87551107f01266b6603481836d1ec7b3578ef3cf-8089806-2500-3000-png_250.jpg) |
+| mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。<br>同样水平的修正需要在整个画廊完整实施。<br>如果有审查，不应标记为无H画廊。<br>不应与完全修正Tag混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/2a/b5/2ab54faaea2927e27ce78edbc4f4b63270858616-577369-717-1012-jpg_l.jpg) |
+| full censorship | 完全修正 | 任何形式的完全检查（全白色或黑色），涵盖了几乎所有或个人所有的生殖器区域。<br>同样水平的修正需要在整个画廊完整实施。<br>如果有审查，不应标记为无H画廊。<br>不应与马赛克修正Tag混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/fd/40/fd40968ac02eed8bff53ffdafe6cf1d4ec3a9d66-2820329-1754-2500-jpg_l.jpg) |
 | anthology | 选集 | 多个作者共同完成的*完整*的书（杂志） |
 | story arc | 故事线 | 基本与单行本连用，需要75页或4话或75%以上描述同一个故事 |
 | multi-work series | 系列作品 | 如[DeepSnow]、[妹のおてつだい]、[秋子さんといっしょ]这样出了一本又一本的作品 |
