@@ -13,3 +13,4 @@
 | group | 群P | 两位以上角色之间的性行为。(乱交)<br>![例](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
 | muscle | 肌肉 | 肌肉发达的角色<br>![例](http://exhentai.org/t/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg) |
 | sole male | 单男主 | 只有一个男性角色 |
+| netorare | NTR | 深（喜）痛（闻）恶（乐）觉（见） |
