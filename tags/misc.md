@@ -13,6 +13,7 @@
 | mmf threesome | 3P（2男1女） | |
 | incest | 乱伦 | |
 | uncensored | 无码 | 无修正，让我好好研究一下 |
+| anthology | 选集 | 或者说杂志？ |
 | mosaic censorship | 有码 | 薄薄的一层<br>这一条纯为臆想，如果更好的解释，望修正 |
 | full censorship | 有码 | 厚厚的一层<br>这一条纯为臆想，如果更好的解释，望修正 |
 | story arc | 故事线 | 基本与单行本连用，需要75页或4话或75%以上描述同一个故事 |
