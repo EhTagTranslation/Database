@@ -24,3 +24,47 @@
 | females only | 纯女性 | 在画廊中的所有性行为，迷恋，或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她不算。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg) |
 | sole female | 单女主 | 只有一个女性角色 |
 | netorare | NTR | |
+| low lolicon | 未通过萝莉控 | |
+| hairy | 多毛的 | |
+| prostitution | 卖淫 / 援交 | |
+| age progression | 年龄进展 | |
+| infantilism | 幼稚型 | |
+| giantess | 女巨人 | |
+| slave | 奴隶 | |
+| corruption | 腐朽（堕落？） | |
+| public use | 公众使用 | |
+| eggs | 生蛋 | |
+| birth | 出产 |  |
+| psssession | 占据 | 皮类常用标签 |
+| absorb | 融合 | 皮类常用标签 |
+| skinsuit | 画皮 | 皮类常用标签  |
+| unbirth | 从B钻出来 |  |
+| inflation | 胃区膨胀 |  |
+| cheating | 出轨 |  |
+| bestiality | 兽奸 |  |
+| mind control | 精神控制 |  |
+| femdom | 女性支配 |  |
+| sweating | 出汗 |  |
+| tailjob | 尾巴性交 |  |
+| body modification | 身体改造 |  |
+| emotionless sex | 性冷淡 |  |
+| cum swap | 左右交换口交 |  |
+| gokkun | 饮精 |  |
+| big clit | 大阴蒂 |  |
+| whip | 鞭打 |  |
+| prolapse | 子宫脱垂 |  |
+| armpit licking | 腋下舔 |  |
+| milking | 挤奶 |  |
+| table masturbation | 桌角自慰 |  |
+| grandmother | 老奶奶 |  |
+| facesitting | 坐脸 |  |
+| triple penetration | 三人互插 |  |
+| assjob | 屁股交 |  |
+| pantyjob | 内裤交 |  |
+| frottage | 摩擦淫 |  |
+| double blowjob | 双人口交 |  |
+| kissing | 接吻 |  |
+| sumata | 股间性交 |  |
+| hairjob | 发丝交 |  |
+| tribadism | 交叉体位（女同） |  |
+| filming | 拍摄 |  |
