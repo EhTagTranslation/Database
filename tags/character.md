@@ -133,6 +133,7 @@
 | zuikaku | 瑞鹤 | No.107 瑞鹤<br>![瑞鹤](http://exhentai.org/t/68/51/685116e591523858d4afc57a95be5c3284012eb7-10054880-2870-4039-jpg_250.jpg)  |
 | yuubari | 夕张 | No.111 夕张<br>![夕张](http://exhentai.org/t/c0/89/c089934d3835e09ccbdc4cbdaa55c01941d3046b-1204765-1708-2400-jpg_250.jpg) |
 | zuihou | 瑞凤 | No.112 瑞凤<br>![瑞凤](http://exhentai.org/t/66/7e/667ee733f79fd7d37ed4273efe543be0d46a0e10-466678-1420-2000-jpg_250.jpg) |
+| hatsukaze | 初风 | No.118 初风<br>![初风](http://exhentai.org/t/e1/db/e1dbb9c92ab72e5060d1f76f423f93afa32d0570-1974996-2072-3040-jpg_250.jpg) |
 | i-19 | 伊19 | No.123 伊19<br>![伊19](http://exhentai.org/t/51/92/51920759488992ab03fdd66d863201dedd2c6b6b-1683613-1419-2000-jpg_250.jpg) |
 | suzuya | 铃谷 | No.124 铃谷<br>![铃谷](http://exhentai.org/t/2e/e6/2ee646e86b9f056b6b1dd976350d7ad89231ee24-738598-1418-2000-jpg_250.jpg) |
 | kumano | 熊野 | No.125 熊野<br>![熊野](http://exhentai.org/t/09/c0/09c0b3b579b1946da95efe8b60a2aefee5f8b593-791108-1411-2000-jpg_250.jpg) |
@@ -142,6 +143,7 @@
 | yamato | 大和 | No.131 大和<br>![大和](http://exhentai.org/t/65/fc/65fc32dcf211f95654dfec389be9e5455bfc4d05-1200763-2138-3029-jpg_250.jpg) |
 | agano | 阿贺野 | No.137 阿贺野<br>![阿贺野](http://exhentai.org/t/d7/0c/d70cf7f81ef0e5c4632f48e60eb0ccb0710b5847-1250102-919-1300-png_250.jpg) |
 | noshiro | 能代 | No.138 能代<br>![能代](http://exhentai.org/t/f8/d8/f8d84ea1411bbe9a6dac11849ce345b7004a83bb-731702-1759-2500-jpg_250.jpg) |
+| yahagi | 矢矧 | No.139 矢矧<br>![矢矧](http://exhentai.org/t/6b/a8/6ba8de26eec57498324b02af80d0549ca749e0a0-1102882-1423-2000-jpg_250.jpg) |
 | musashi | 武藏 | No.143 武藏<br>![武藏](http://exhentai.org/t/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg) |
 | verniy | Верный(响改二) | No.147 Верный<br>![Верный](http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg) |
 | taihou | 大凤 | No.153 大凤<br>![大凤](http://exhentai.org/t/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg) |
@@ -158,6 +160,7 @@
 | amatsukaze | 天津风 | No.181 天津风<br>![天津风](http://exhentai.org/t/37/c6/37c6538b7ec4335b963fceac0a56b47bd9e43c48-1425407-2116-3000-jpg_250.jpg) |
 | akashi | 明石 | No.182 明石<br>![明石](http://exhentai.org/t/bf/21/bf21ca8be8b575b4152685acd28af915c706d277-1539790-2149-3029-jpg_250.jpg) |
 | ooyodo | 大淀 | No.183 大淀<br>![大淀](http://exhentai.org/t/8c/ee/8ceec22cc8cd0db32c3b7ad1b74cbf9c6c0bc902-903892-1413-2000-jpg_250.jpg) |
+| tokitsukaze | 时津风 | No.186 时津风<br>![时津风](http://exhentai.org/t/3f/ff/3fffaf76b7c5680ce979ace6af23732209117bdf-1711953-2866-4047-jpg_250.jpg) |
 | harusame | 春雨 | No.205 春雨<br>![春雨](http://exhentai.org/t/5a/d9/5ad94f1967e5dece44b0b78b6d13160418905082-1879239-1724-2500-jpg_250.jpg) |
 | graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵<br>![齐柏林伯爵](http://exhentai.org/t/26/a1/26a1e8801369e6d0e4bde7b3ce72853a4ffcc036-1329616-1407-2000-jpg_250.jpg) |
 | ro-500 | 吕500 | No.236 吕500<br>![吕500](http://exhentai.org/t/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg)<br> |
