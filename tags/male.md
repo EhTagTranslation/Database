@@ -12,3 +12,4 @@
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) |
 | group | 群P | 两位以上角色之间的性行为。(乱交)<br>![例](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
 | muscle | 肌肉 | 肌肉发达的角色<br>![例](http://exhentai.org/t/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg) |
+| sole male | 单男主 | 只有一个男性角色 |
