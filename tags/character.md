@@ -48,6 +48,12 @@
 | alice margatroid | 爱丽丝·玛格特洛依德 | |
 | sanae kochiya | 东风谷早苗 | |
 | hina kagiyama | 键山雏 | |
+| shanghai | 上海(人形) | |
+| hourai | 蓬莱(人形) | |
+| medicine melancholy | 梅蒂欣·梅兰可莉 | |
+| shinki | 神绮 | |
+| yumemi okazaki | 冈崎梦美 | |
+| mima | 魅魔 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | ![高坂穗乃果](https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) |
