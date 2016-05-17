@@ -35,3 +35,11 @@
 | tengen toppa gurren lagann | 天元突破 | ![图](http://exhentai.org/t/7f/57/7f57b5fe9c80fa170e1e5b1ae108df71d4c055ce-602630-1200-1600-jpg_l.jpg)![图](http://exhentai.org/t/f3/a0/f3a02ba9088f4282990213ff6a06a1733c0d476f-458325-1125-1600-jpg_l.jpg) |
 | cardcaptor sakura | 魔卡少女樱| ![图](http://exhentai.org/t/23/68/2368eddf29ed93847a2cf6d2dbf2ff16d46c1107-142448-785-1133-jpg_l.jpg) |
 | mayoi neko overrun | 迷途猫 | ![图](http://exhentai.org/t/11/24/11244eff647229a9dfa91a226f0595b04e584616-542928-1200-1700-jpg_l.jpg) |
+| outbreak company | 萌萌侵略者 | ![图](http://exhentai.org/t/5c/cb/5ccbeaf7707a89d2300f6da3ab13e3f890550586-2594203-2086-3007-jpg_l.jpg) |
+| kyoukai no kanata | 境界的彼方 | ![图](http://exhentai.org/t/63/09/6309cec6eb0ee71940f1d0b408f1198364f5efa0-926542-1417-2000-jpg_l.jpg) |
+| hataraku maou-sama | 打工吧！魔王大人 | ![图](http://exhentai.org/t/ce/25/ce2528552f9e377a1246348581d3e6cfb344750b-1250556-1481-2100-jpg_l.jpg) |
+| haiyore nyaruko-san | 潜行吧！奈亚子 | ![图](http://exhentai.org/t/1f/39/1f3920cab6a42f7ced12b547a70d665491574993-402737-765-1080-jpg_l.jpg) |
+| hentai ouji to warawanai neko | 变态王子与不笑猫 | ![图](http://37.48.116.168/82/06/82060c2cdfdf6c01bd27b736e787820c8241ddf2-836991-2512-3600-jpg_l.jpg)![图](http://37.48.116.168/c6/56/c65648abba02d253b9053ba6897355aa80f05add-1929355-2552-3600-jpg_l.jpg) |
+|  |  | ![图]() |
+|  |  | ![图]() |
+|  |  | ![图]() |
