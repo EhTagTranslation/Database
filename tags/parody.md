@@ -40,6 +40,8 @@
 | hataraku maou-sama | 打工吧！魔王大人 | ![图](http://exhentai.org/t/ce/25/ce2528552f9e377a1246348581d3e6cfb344750b-1250556-1481-2100-jpg_l.jpg) |
 | haiyore nyaruko-san | 潜行吧！奈亚子 | ![图](http://exhentai.org/t/1f/39/1f3920cab6a42f7ced12b547a70d665491574993-402737-765-1080-jpg_l.jpg) |
 | hentai ouji to warawanai neko | 变态王子与不笑猫 | ![图](http://37.48.116.168/82/06/82060c2cdfdf6c01bd27b736e787820c8241ddf2-836991-2512-3600-jpg_l.jpg)![图](http://37.48.116.168/c6/56/c65648abba02d253b9053ba6897355aa80f05add-1929355-2552-3600-jpg_l.jpg) |
-|  |  | ![图]() |
-|  |  | ![图]() |
-|  |  | ![图]() |
+| nagi no asukara | 来自风平浪静的明天 | ![图](http://exhentai.org/t/4d/4f/4d4f77c66e253ade1cb7415485ab2f1b2aca94ef-2575112-2479-3507-jpg_l.jpg) |
+| sekai seifuku bouryaku no zvezda | 世界征服～谋略之星～ | ![图](http://exhentai.org/t/90/1f/901f92557b3009e73a5dccd3354c8776273e9537-1999681-1254-1816-jpg_l.jpg) |
+| no game no life | 游戏人生 | ![图](http://exhentai.org/t/ac/3e/ac3e54bcd913fb0f513e76d9b0b64cc42875942b-2532874-2138-3021-jpg_l.jpg)<br>官方逼死同人↓<br>![官逼人](http://exhentai.org/t/8c/43/8c43d8f851dc53eeee03260dbc6e49db93cb5f64-1068795-2141-3022-jpg_l.jpg) |
+| barakamon | 元气囝仔 | 漫画<br>![图](http://exhentai.org/t/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg) |
+| divine gate | 神圣之门 | 游戏<br>![图](http://exhentai.org/t/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg) |
