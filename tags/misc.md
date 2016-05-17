@@ -21,6 +21,6 @@
 | incomplete | 不完整 | |
 | sample | 样本 | |
 | novel | 小说 | |
-| | ▼ 一些还没正式Tag的公司 | |
+| | ▼ 还没正式Tag的公司 | |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg)
