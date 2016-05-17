@@ -46,3 +46,5 @@
 | barakamon | 元气囝仔 | 漫画<br>![图](http://exhentai.org/t/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg) |
 | divine gate | 神圣之门 | 游戏<br>![图](http://exhentai.org/t/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg) |
 | sayonara zetsubou sensei | 再见！绝望先生 | 漫画<br>![图](http://exhentai.org/t/81/40/814081ac108eac6524b2431c7f7e2cf9eedc15d7-2120348-2845-4019-jpg_l.jpg) |
+| highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](http://exhentai.org/t/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg)![图](http://exhentai.org/t/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |
+| gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakk%C5%8D_Gurashi%21_logo.png/220px-Gakk%C5%8D_Gurashi%21_logo.png)<br>萝莉打僵尸<br>![图](http://exhentai.org/t/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg) |
