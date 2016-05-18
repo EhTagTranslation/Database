@@ -24,6 +24,7 @@
 | females only | 纯女性 | 在画廊中的所有性行为，迷恋，或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她不算。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg) |
 | sole female | 单女主 | 只有一个女性角色 |
 | netorare | NTR | |
+| nakadashi |中出 | |
 | low lolicon | 未通过萝莉控 | |
 | hairy | 多毛的 | |
 | prostitution | 卖淫 / 援交 | |
