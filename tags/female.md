@@ -100,7 +100,8 @@
 | twins | 双胞胎 |  |
 | elf | 精灵 |  |
 | tomboy | 假小子 |  |
-| big penis | 巨大的阴茎 | 女性词汇下是futa |
+| big penis | 巨根 | 这里指Futa |
+| huge penis | 超巨根 | 比巨根还大，这里指Futa |
 | mother | 母亲 |  |
 | school swimsuit | 学校泳装 |  |
 | big nipples | 大乳头 |  |
@@ -129,3 +130,26 @@
 | daughter | 女儿 |  |
 | speculum | 扩张器 |  |
 | milf | 熟女 |  |
+| breast expansion | 乳房膨胀 | 药物等人体改造导致乳房变大的过程 |
+| yandere | 病娇 |  |
+| handjob | 打手枪 | 女性为男性手淫 |
+| machine | 机械奸 |  |
+| chastity belt |贞操带 |  |
+| electric shocks | 电击 |  |
+| drugs | 药物 | 毒品、春药 |
+| furry | 长有皮毛 | 一些拟人度低的人外 长有兽毛 |
+| hairy armpits | 腋毛 |  |
+| bloomers | 灯笼裤 |  |
+| inverted nipples | 乳头内陷 |  |
+| nurse | 护士 |  |
+| teacher | 教师 |  |
+| small breasts | 贫乳 |  |
+| garter belt | 吊带袜 |  |
+| kimono | 和服 |  |
+| angel | 天使 |  |
+| rimjob | 舔肛 |  |
+| shibari | 日式捆绑 |  |
+| bdsm | 捆绑SM |  |
+| granddaughter | 孙女 |  |
+| piss drinking | 饮尿 |  |
+| latex | 乳胶紧身衣 |  |
