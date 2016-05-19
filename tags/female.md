@@ -124,3 +124,8 @@
 | paizuri | 乳交 | 用乳沟性交 |
 | multiple paizuri | 多人乳交 | 多人乳交 |
 | blackmail | 绑架 |  |
+| tights | 紧身衣 |  |
+| big areolae | 大乳晕 |  |
+| daughter | 女儿 |  |
+| speculum | 扩张器 |  |
+| milf | 熟女 |  |
