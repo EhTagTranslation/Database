@@ -176,3 +176,11 @@
 | incest | 乱伦 |  |
 | dick growth | 阴茎生长 | 阴茎生长的过程 |
 | clit growth | 阴蒂生长 | 阴蒂生长的过程 |
+| nipple expansion | 乳头膨胀 |  |
+| robot | 机器人 |  |
+| ryona | 哀嚎 | ryona 意思就是藉由观看女性角色被痛击、电击、束缚、受伤挣扎、哀鸣而激起性快感 |
+| demon girl | 恶魔少女 |  |
+| tickling | 痒 |  |
+| vampire | 吸血鬼 |  |
+| humiliation | 屈辱 |  |
+
