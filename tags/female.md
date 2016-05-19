@@ -40,7 +40,7 @@
 | absorb | 融合 | 皮类常用标签 |
 | skinsuit | 画皮 | 皮类常用标签  |
 | unbirth | 从B钻出来 |  |
-| inflation | 胃区膨胀 |  |
+| inflation | 腹部膨胀 | 多指犹豫大量射精或灌肠导致腹部膨胀，特点圆滑类似怀孕 <br> 近似关键词 "stomach deformation" <br> ![inflation](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg) |
 | cheating | 出轨 |  |
 | bestiality | 兽奸 |  |
 | mind control | 精神控制 |  |
@@ -69,3 +69,49 @@
 | hairjob | 发丝交 |  |
 | tribadism | 交叉体位（女同） |  |
 | filming | 拍摄 |  |
+| urethra insertion | 尿道插入 | 将 阴茎/玩具 穿透尿道颈插入膀胱 <br> ![尿道插入](http://82.192.80.241/6e/dd/6eddf9521137d049fd57ad8826e232cda88b901c-108574-480-698-jpg_l.jpg)  |
+| large insertions | 大的插入 | 被巨型 阴茎/玩具 插入 |
+| cervix penetration | 宫颈渗透 | 将 阴茎/玩具 穿透子宫颈插入子宫 <br> ![宫颈渗透](http://exhentai.org/t/25/56/2556f01cc2037920b0d2d62e2bcc9dcd63f808b1-83562-850-463-jpg_l.jpg) |
+| nipple fuck | 乳穴性交 | 将 阴茎/玩具 透过乳头插入乳房 <br> ![胃部变型](http://exhentai.org/t/3c/6b/3c6b94cb5b1d27c3d5bd9bf68c7b79db648fe9a1-419077-768-1024-jpg_250.jpg) |
+| stomach deformation | 胃部变形 | 多指由巨型阴茎插入导致腹部隆起，不规则或能看到阴茎形状 <br> 近似关键词 "inflation" <br> ![胃部变型](http://exhentai.org/s/75c3b890cb/871592-67) |
+| navel fuck | 肚脐奸 |  |
+| sex toys | 性玩具 |  |
+| big breasts | 巨乳 |  |
+| huge breasts | 超乳 |  |
+| defloration | 破处 |  |
+| glasses | 眼镜 |  |
+| oppai loli | 巨乳萝莉 |  |
+| pregnant | 怀孕 |  |
+| lactation | 哺乳 | |
+| x-ray | X光透视 |  |
+| magical girl | 魔法少女 |  |
+| tentacles | 触手 |  |
+| schoolgirl uniform | 女学生制服 |  |
+| masturbation | 手淫 |  |
+| double vaginal | 双插阴道 | 两个阴茎同时插入阴道 |
+| triple vaginal | 三插阴道 | 三个阴茎同时插入阴道 |
+| double anal | 双插肛门 | 两个阴茎同时插入肛门 |
+| triple anal | 三插肛门 | 三个阴茎同时插入肛门 |
+| dark skin | 暗色皮肤 |  |
+| maid | 女仆 |  |
+| bukkake | 颜射 |  |
+| doll joints | 关节娃娃 |  |
+| rape | 强奸 |  |
+| twins | 双胞胎 |  |
+| elf | 精灵 |  |
+| tomboy | 假小子 |  |
+| big penis | 巨大的阴茎 | 女性词汇下是futa |
+| mother | 母亲 |  |
+| school swimsuit | 学校泳装 |  |
+| big nipples | 大乳头 |  |
+| fisting | 拳交 |  |
+| elf | 精灵 |  |
+| cunnilingus | 舔阴 |  |
+| big ass | 大屁股 |  |
+| condom | 避孕套 |  |
+| catgirl | 猫女 |  |
+| leotard | 连体衣 |  |
+| big balls | 大的睾丸 | 这里指Futa的睾丸 |
+| harpy | 鸟人 |  |
+| bikini | 比基尼 |  |
+| swimsuit | 泳装 |  |
