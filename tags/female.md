@@ -69,7 +69,7 @@
 | hairjob | 发丝交 |  |
 | tribadism | 交叉体位（女同） |  |
 | filming | 拍摄 |  |
-| urethra insertion | 尿道插入 | 将 阴茎/玩具 穿透尿道颈插入膀胱 <br> ![尿道插入](http://82.192.80.241/6e/dd/6eddf9521137d049fd57ad8826e232cda88b901c-108574-480-698-jpg_l.jpg)  |
+| urethra insertion | 尿道插入 | 将 阴茎/玩具 穿透尿道颈插入膀胱  |
 | large insertions | 大的插入 | 被巨型 阴茎/玩具 插入 |
 | cervix penetration | 宫颈渗透 | 将 阴茎/玩具 穿透子宫颈插入子宫 <br> ![宫颈渗透](http://exhentai.org/t/25/56/2556f01cc2037920b0d2d62e2bcc9dcd63f808b1-83562-850-463-jpg_l.jpg) |
 | nipple fuck | 乳穴性交 | 将 阴茎/玩具 透过乳头插入乳房 <br> ![胃部变型](http://exhentai.org/t/3c/6b/3c6b94cb5b1d27c3d5bd9bf68c7b79db648fe9a1-419077-768-1024-jpg_250.jpg) |
@@ -77,7 +77,7 @@
 | navel fuck | 肚脐奸 |  |
 | sex toys | 性玩具 |  |
 | big breasts | 巨乳 |  |
-| huge breasts | 超乳 |  |
+| huge breasts | 超乳 | 比巨乳更大 <br> ![超乳](http://exhentai.org/t/4c/49/4c49e898beb56c50c80154e6e829460559c6ea12-267233-560-420-jpg_l.jpg)  |
 | defloration | 破处 |  |
 | glasses | 眼镜 |  |
 | oppai loli | 巨乳萝莉 |  |
