@@ -115,3 +115,12 @@
 | harpy | 鸟人 |  |
 | bikini | 比基尼 |  |
 | swimsuit | 泳装 |  |
+| stretching | 扩张 |  |
+| exhibitionism | 漏阴癖 |  |
+| ahegao | 阿黑颜 | 被操失神 目光上漂 漏出舌头 |
+| urination | 放尿 |  |
+| vomit | 呕吐 |  |
+| sister | 姐妹 |  |
+| paizuri | 乳交 | 用乳沟性交 |
+| multiple paizuri | 多人乳交 | 多人乳交 |
+| blackmail | 绑架 |  |
