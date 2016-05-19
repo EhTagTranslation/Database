@@ -183,4 +183,11 @@
 | tickling | 痒 |  |
 | vampire | 吸血鬼 |  |
 | humiliation | 屈辱 |  |
+| fox girl | 狐狸少女 |  |
+| weight gain | 体重增加 |  |
+| oil | 油 |  |
+| big vagina | 大阴道 |  |
+| amputee | 截肢 |  |
+| drunk | 醉酒 |  |
+
 
