@@ -189,5 +189,12 @@
 | big vagina | 大阴道 |  |
 | amputee | 截肢 |  |
 | drunk | 醉酒 |  |
+| multiple breasts | 多对乳房 | 大于两个 |
+| monster girl | 怪物女孩 |  
+| centaur | 半人马 | |
+| insect | 昆虫 |  |
+| selfcest | 与自己性交 | selfcest 多指与另一个时间线的自己性交 |
+| spanking | 打屁股 |  |
+
 
 
