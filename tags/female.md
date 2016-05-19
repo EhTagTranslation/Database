@@ -153,3 +153,19 @@
 | granddaughter | 孙女 |  |
 | piss drinking | 饮尿 |  |
 | latex | 乳胶紧身衣 |  |
+| fundoshi | 六尺褌 | 相扑手穿的丁字裤 |
+| foot insertion | 足交 | 将脚插入阴道或肛门 |
+| bondage | 奴役 |  |
+| impregnation | 受精 |  |
+| nose hook | 鼻吊钩 |  |
+| miko | 巫女 |  |
+| bodysuit | 紧身衣裤 |  |
+| torture | 拷打 |  |
+| blood | 血液 |  |
+| guro | 老师 |  |
+| randoseru | 书包 |  |
+| sleeping | 睡觉 |  |
+| toddlercon | 幼女 | 指刚学会走路的婴儿 |
+| necrophilia | 奸尸 |  |
+| menstruation | 经血 | 大姨妈 |
+| chloroform | 氯仿(迷药) | 麻醉剂 |
