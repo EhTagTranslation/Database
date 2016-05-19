@@ -40,7 +40,7 @@
 | absorb | 融合 | 皮类常用标签 |
 | skinsuit | 画皮 | 皮类常用标签  |
 | unbirth | 从B钻出来 |  |
-| inflation | 腹部膨胀 | 多指犹豫大量射精或灌肠导致腹部膨胀，特点圆滑类似怀孕 <br> 近似关键词 stomach deformation <br> ![inflation](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg) |
+| inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。<br>常由于被填充有气体，触手，卵，液体，<br>或者一些大量射精或灌肠导致腹部膨胀，<br>特点圆滑类似怀孕 <br> ![inflation](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg) |
 | cheating | 出轨 |  |
 | bestiality | 兽奸 |  |
 | mind control | 精神控制 |  |
@@ -73,7 +73,7 @@
 | large insertions | 大的插入 | 被巨型 阴茎/玩具 插入 |
 | cervix penetration | 宫颈渗透 | 将 阴茎/玩具 穿透子宫颈插入子宫 <br> ![宫颈渗透](http://exhentai.org/t/25/56/2556f01cc2037920b0d2d62e2bcc9dcd63f808b1-83562-850-463-jpg_l.jpg) |
 | nipple fuck | 乳穴性交 | 将 阴茎/玩具 透过乳头插入乳房 <br> ![胃部变型](http://exhentai.org/t/3c/6b/3c6b94cb5b1d27c3d5bd9bf68c7b79db648fe9a1-419077-768-1024-jpg_250.jpg) |
-| stomach deformation | 胃部变形 | 多指由巨型阴茎插入导致腹部隆起，不规则或能看到阴茎形状 <br> 近似关键词 inflation <br> ![胃部变型](http://exhentai.org/s/75c3b890cb/871592-67) |
+| stomach deformation | 胃部变形 | 固体内侧向外推压，并出现一个可见突起。<br>通常是一个大的玩具或者大的阴茎。<br> ![胃部变型](http://exhentai.org/s/75c3b890cb/871592-67) |
 | navel fuck | 肚脐奸 |  |
 | sex toys | 性玩具 |  |
 | big breasts | 巨乳 |  |
