@@ -154,7 +154,7 @@
 | piss drinking | 饮尿 |  |
 | latex | 乳胶紧身衣 |  |
 | fundoshi | 六尺褌 | 相扑手穿的丁字裤 |
-| foot insertion | 足交 | 将脚插入阴道或肛门 |
+| foot insertion | 脚插入 | （足交会与一般性足交混淆） 将脚插入阴道或肛门 |
 | bondage | 奴役 |  |
 | impregnation | 受精 |  |
 | nose hook | 鼻吊钩 |  |
