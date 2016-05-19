@@ -169,3 +169,10 @@
 | necrophilia | 奸尸 |  |
 | menstruation | 经血 | 大姨妈 |
 | chloroform | 氯仿(迷药) | 麻醉剂 |
+| asphyxiation | 窒息 |  |
+| tiara | 皇冠 |  |
+| tube | 插管 | 向体内插入管子 插入肛门等 |
+| syringe | 注射器 |  |
+| incest | 乱伦 |  |
+| dick growth | 阴茎生长 | 阴茎生长的过程 |
+| clit growth | 阴蒂生长 | 阴蒂生长的过程 |
