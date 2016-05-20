@@ -3,9 +3,9 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | lolicon | 萝莉 | 小女孩<br>![图](http://exhentai.org/t/39/89/39893f67008fc1803d383f8727b5e43ee3d4630d-1184711-2138-3000-jpg_l.jpg) |
-| pantyhose | ![pantyhose](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41q26csdzg200r00d04b.gif)连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![图](http://85.17.73.31/ac/e2/ace298d891e515a54ba20f0c895bd596417612ac-944934-2070-3025-jpg_l.jpg) |
-| stockings | ![stockings](http://ww3.sinaimg.cn/large/6c84b2d6gw1f41q26q5bzg200r00d04a.gif)长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![图](http://82.192.80.241/5f/c1/5fc1c2894cf8723f008d29aa691f31e6ebfa6de5-1829332-2464-3500-jpg_l.jpg) |
-| footjob | ![icon](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41q266fgwg200r00d04f.gif)足交 | 用脚对另一个人进行性刺激。<br>![图](http://exhentai.org/t/45/a1/45a1395b7225808b64f2344c7b52ceb2ab329fc0-904994-1409-2000-jpg_250.jpg) |
+| pantyhose | ![pantyhose](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41q26csdzg200r00d04b.gif)连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![图](http://37.48.116.168/9c/69/9c69e71bb5657c49de7460e87c89aad83c0b94c8-923198-1200-1754-jpg_l.jpg)![图](http://82.192.80.241/6c/3a/6c3ac4b576a4b05ba9ba66befe7f1aa988986214-1091891-2121-3000-jpg_l.jpg) |
+| stockings | ![stockings](http://ww3.sinaimg.cn/large/6c84b2d6gw1f41q26q5bzg200r00d04a.gif)长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![图](http://82.192.80.241/5f/c1/5fc1c2894cf8723f008d29aa691f31e6ebfa6de5-1829332-2464-3500-jpg_l.jpg)![图](http://82.192.80.241/d4/9d/d49df964a79767208bef7991ea320c65d6ad09b1-449339-634-887-jpg_l.jpg) |
+| footjob | ![icon](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41q266fgwg200r00d04f.gif)足交 | 用脚对另一个人进行性刺激。<br>![图](http://exhentai.org/t/45/a1/45a1395b7225808b64f2344c7b52ceb2ab329fc0-904994-1409-2000-jpg_250.jpg)![图](http://82.192.80.241/6b/f3/6bf3e2e0f45fca75511464ae056b40ac7110a289-1616214-1786-2500-jpg_l.jpg) |
 | blowjob | 口交 | 涉及的嘴和阴茎的性。<br>![图](http://exhentai.org/t/43/7e/437eaf25debe48e71503fc8c9f64e6b0f9d6046f-813559-2028-3043-jpg_250.jpg) |
 | blowjob face | 口交脸 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。<br>![图](http://exhentai.org/t/89/11/8911e4dfea8b92f97b03c442eeaa0500eba4722a-423745-1269-1800-jpg_l.jpg) |
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。<br>![图](http://exhentai.org/t/18/df/18df6f27737c0a4f054c35df1ce178eb648de5cd-290389-800-600-jpg_l.jpg) |
