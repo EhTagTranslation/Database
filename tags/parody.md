@@ -6,7 +6,7 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| touhou project | 东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
+| touhou project | ![太极](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
 | moetan | 萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 |  | ▼Key社作品 | |
 | clannad | CLANNAD | ![图](http://85.17.73.31/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://37.48.116.168/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://82.192.80.241/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
