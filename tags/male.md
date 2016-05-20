@@ -14,3 +14,5 @@
 | muscle | 肌肉 | 肌肉发达的角色<br>![例](http://exhentai.org/t/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg) |
 | sole male | 单男主 | 只有一个男性角色 |
 | netorare | NTR | 深（喜）痛（闻）恶（乐）觉（见） |
+| demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔女孩(demon girl)或鬼(oni)标签混淆。恶魔不应该被标记为怪物(monster)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼(devil)和梦魇(incubus)是同义词。
+<br>![图](http://exhentai.org/t/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg)![图](http://exhentai.org/t/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg)![图](http://exhentai.org/t/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg) |
