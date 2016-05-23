@@ -1,4 +1,4 @@
-[回到Wiki首页](https://github.com/Mapaler/EhTagTranslator/wiki)
+﻿[回到Wiki首页](https://github.com/Mapaler/EhTagTranslator/wiki)
 
 请参照格式参与修改
 * [行名](https://github.com/Mapaler/EhTagTranslator/wiki/rows)(完成)
