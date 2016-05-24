@@ -162,7 +162,7 @@
 | harpy | 鸟人 |  |
 | stretching | 扩张 |  |
 | exhibitionism | 漏阴癖 |  |
-| ahegao | 阿黑颜 | 被操失神 目光上漂 漏出舌头 |
+| ahegao | 阿黑颜 | 被操失神 目光上漂 漏出舌头 <br> ![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png) |
 | urination | 放尿 |  |
 | vomit | 呕吐 |  |
 | sister | 姐妹 |  |
