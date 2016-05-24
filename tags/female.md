@@ -118,8 +118,7 @@
 | double blowjob | 双人口交 |  |
 | kissing | 接吻 |  |
 | hairjob | 发丝交 |  |
-| tribadism | 贝合 | 貝合わせ，磨豆腐。<br>妇女相互摩擦外阴的性行为。很有可能涉及百合(yuri)。<br>同义词：
- 作剪式移动（尤指腿）(scissoring)<br>![图](http://exhentai.org/t/f7/e8/f7e83d75f432f646aa2134dc7b89ceefa2709809-417782-1024-768-jpg_l.jpg)![图](http://exhentai.org/t/df/67/df67722915ca2d24b34b59ea8c2cf41c9be106e0-505547-640-480-gif_l.jpg)![图](http://exhentai.org/t/db/69/db69ecb7e77a2ea63812161c453e2397035e4fd2-190456-926-1080-jpg_250.jpg) |
+| tribadism | 贝合 | 貝合わせ，磨豆腐。<br>妇女相互摩擦外阴的性行为。很有可能涉及百合(yuri)。<br>同义词： 作剪式移动（尤指腿）(scissoring)<br>![图](http://exhentai.org/t/f7/e8/f7e83d75f432f646aa2134dc7b89ceefa2709809-417782-1024-768-jpg_l.jpg)![图](http://exhentai.org/t/df/67/df67722915ca2d24b34b59ea8c2cf41c9be106e0-505547-640-480-gif_l.jpg)![图](http://exhentai.org/t/db/69/db69ecb7e77a2ea63812161c453e2397035e4fd2-190456-926-1080-jpg_250.jpg) |
 | filming | 拍摄 |  |
 | urethra insertion | 尿道插入 | 将 阴茎/玩具 穿透尿道颈插入膀胱  |
 | large insertions | 大的插入 | 被巨型 阴茎/玩具 插入 |
