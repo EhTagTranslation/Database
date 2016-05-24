@@ -123,7 +123,7 @@
 | hairjob | 发丝交 |  |
 | tribadism | 贝合 | 貝合わせ，磨豆腐。<br>妇女相互摩擦外阴的性行为。很有可能涉及百合(yuri)。<br>同义词：作剪式移动（尤指腿）(scissoring)<br>![图](http://exhentai.org/t/f7/e8/f7e83d75f432f646aa2134dc7b89ceefa2709809-417782-1024-768-jpg_l.jpg)![图](http://exhentai.org/t/df/67/df67722915ca2d24b34b59ea8c2cf41c9be106e0-505547-640-480-gif_l.jpg)![图](http://exhentai.org/t/db/69/db69ecb7e77a2ea63812161c453e2397035e4fd2-190456-926-1080-jpg_250.jpg) |
 | filming | 拍摄 |  |
-| urethra insertion | 尿道插入 | 将 阴茎/玩具 穿透尿道颈插入膀胱  |
+| urethra insertion | 尿道插入 | 将 阴茎/玩具 穿透尿道插入膀胱  |
 | large insertions | 大的插入 | 被巨型 阴茎/玩具 插入 |
 | cervix penetration | 宫颈渗透 | 将 阴茎/玩具 穿透子宫颈插入子宫 <br> ![宫颈渗透](http://exhentai.org/t/25/56/2556f01cc2037920b0d2d62e2bcc9dcd63f808b1-83562-850-463-jpg_l.jpg) |
 | nipple fuck | 乳穴性交 | 将 阴茎/玩具 透过乳头插入乳房 <br> ![胃部变型](http://exhentai.org/t/3c/6b/3c6b94cb5b1d27c3d5bd9bf68c7b79db648fe9a1-419077-768-1024-jpg_250.jpg) |
@@ -248,3 +248,4 @@
 | draenei | 德莱尼 | 蓝色皮肤有蹄和发光的眼睛。 |
 | blindfold | 眼罩 |  |
 | nipple birth | 乳头出产 |  |
+| autopaizuri | 自乳交 | Futa用自己胸部给自己乳交 |
