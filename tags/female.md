@@ -247,5 +247,11 @@
 | parasite | 寄生 |  |
 | draenei | 德莱尼 | 蓝色皮肤有蹄和发光的眼睛。 |
 | blindfold | 眼罩 |  |
-| nipple birth | 乳头出产 |  |
+| nipple birth | 乳头出产 | 通过乳头分娩或产卵  |
 | autopaizuri | 自乳交 | Futa用自己胸部给自己乳交 |
+| eyepatch | 眼罩 |  |
+| human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
+| cannibalism  | 自相残杀 | 人型生物烹饪或食用其他人形生物。 |
+| coprophagia | 食粪 |  |
+| scat | 拉屎 |  |
+| bbw | BBW | 一个胖女人。必须在腹部有褶皱。 |
