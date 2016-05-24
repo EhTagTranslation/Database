@@ -237,3 +237,14 @@
 | apron | 围裙 | 做饭时为了保护常穿的服装。通常为色情目的穿带。<br>穿着围裙的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/68/a0/68a0a70c82f7f7b79b43e0f573cc9e9687218313-986897-916-1300-jpg_l.jpg)![图](http://exhentai.org/t/9a/c0/9ac0224f04f81032ebde76803e7773fd7a0c6c5a-940009-1654-2339-jpg_l.jpg)![图](http://exhentai.org/t/28/27/2827e9529ca73a6cf8728342c0e70f29987215a7-6134109-4202-6104-jpg_l.jpg) |
 | gothic lolita | 哥特萝莉 | 一种黑暗但有很多褶的风格。详细请谷歌<br>![图](http://exhentai.org/t/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg)![图](http://exhentai.org/t/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg) |
 | crossdressing | 异性装 | |
+| chinese dress | 唐装 | |
+| horse cock | 马根 | |
+| insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |
+| body writing | 身体写作 |  | 
+| pasties | 乳贴 |  |
+| bandaid | 创可贴 |  |
+| bandages | 绷带 |  |
+| parasite | 寄生 |  |
+| draenei | 德莱尼 | 蓝色皮肤有蹄和发光的眼睛。 |
+| blindfold | 眼罩 |  |
+| nipple birth | 乳头出产 |  |
