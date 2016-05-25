@@ -258,3 +258,7 @@
 | coprophagia | 食粪 |  |
 | scat | 拉屎 |  |
 | bbw | BBW | 一个胖女人。必须在腹部有褶皱。 |
+| mecha girl | 机甲少女 |  |
+| dicknipples | 阴茎乳头 | 阴茎形状的乳头 |
+| cum bath | 精液浴 |  |
+| lizard girl | 蜥蜴女孩 |  |
