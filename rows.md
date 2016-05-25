@@ -11,3 +11,7 @@
 | language | 语言 | 该作品的语言 |
 | reclass | 重新分类 | 很少见，猜测是因为作品的发布类型出错导致的 |
 | misc | 杂项 | 一般是还没有具体分类的TAG |
+
+***
+Wiki数据库结构版本，EhTagBuilder识别用，**除管理员外请勿修改**。
+<a href="ETB_wiki-version">1</a>
