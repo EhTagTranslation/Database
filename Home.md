@@ -128,7 +128,7 @@ Wiki中英文名只能填写真实Tag部分
  
  | 地址类别 | 域名/前缀 | 最终地址路径 |
  | --- | --- | --- |
- | 原始缩略图 | `http://85.17.73.31/` | `http://85.17.73.31/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
+ | 原始缩略图 | `http://IP地址/` | `http://85.17.73.31/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
  | 手机站缩略图 | `http://ul.ehgt.org/` | `http://ul.ehgt.org/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
  | 表站封面图 | `http://ehgt.org/t/` | `http://ehgt.org/t/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
  | 里站封面图 | `http://exhentai.org/t/` | `http://exhentai.org/t/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
