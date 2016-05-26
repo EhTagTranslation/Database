@@ -109,7 +109,7 @@
 | big clit | 大阴蒂 |  |
 | whip | 鞭打 |  |
 | prolapse | 脱垂 | 阴道或肛门膨胀出他们本来的孔。往往由敞口(gaping)造成<br>脱垂的人的性别决定放入女性还是男性的命名空间。<br>![病](http://exhentai.org/t/56/c0/56c0498ef197edf742eb8109fee329a6e0457969-808502-660-1055-jpg_l.jpg)![病](http://exhentai.org/t/f7/ee/f7ee0238432347df82d2d559f21287fc3b615d7b-1455177-1000-1400-png_250.jpg)![病](http://exhentai.org/t/6b/1b/6b1bf6547fdef997fbffd3bd8506b46f38d9f660-403695-1920-1080-jpg_250.jpg) |
-| gaping | 敞口 | 阴道或肛门，明显地在做爱之后伸展。往往由于大的插入(large insertions)，拳交(fisting)、 巨根(big penis)或超巨根(huge penis)造成。<br>是扩张器(speculum)的前置标签。不应与脱垂(prolapse)相混淆，但可能会导致它。<br>敞口的人的性别决定放入女性还是男性的命名空间。![图](http://exhentai.org/t/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg) |
+| gaping | 敞口 | 阴道或肛门，明显地在做爱之后伸展。往往由于大的插入(large insertions)，拳交(fisting)、 巨根(big penis)或超巨根(huge penis)造成。<br>是扩张器(speculum)的前置标签。不应与脱垂(prolapse)相混淆，但可能会导致它。<br>敞口的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg)<br>![图](http://exhentai.org/t/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg) |
 | milking | 挤奶 |  |
 | masturbation | 自慰 |  |
 | table masturbation | 桌角自慰 |  |
@@ -258,3 +258,8 @@
 | coprophagia | 食粪 |  |
 | scat | 拉屎 |  |
 | bbw | BBW | 一个胖女人。必须在腹部有褶皱。 |
+| mecha girl | 机甲少女 |  |
+| dicknipples | 阴茎乳头 | 阴茎形状的乳头 |
+| cum bath | 精液浴 |  |
+| lizard girl | 蜥蜴女孩 |  |
+| harem | 后宫 | 被至少三个女孩追捧，自愿发生性关系并所有人参与｜
