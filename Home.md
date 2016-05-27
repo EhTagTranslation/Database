@@ -138,4 +138,6 @@ Wiki中英文名只能填写真实Tag部分
 4. 于是现在有了大量的图像缩略图作为可用的图片素材，完全不用担心了。<br>
  找到了合适的图像后，如果有H，就使用里站封面图格式隐藏起来，如果没H就使用手机站缩略图或表站封面图格式显示出来。
 5. 因为手动改域名太麻烦，干脆直接写了个脚本工具。[安装脚本](https://github.com/Mapaler/EhTagTranslator/raw/master/ETTWikiHelper-Thumbnail.user.js)<br>
-因为怕麻烦，就没传Greasy Fork了，直接在项目里安装吧。
+因为怕麻烦，就没传Greasy Fork了，直接在项目里安装吧。<br>
+会自动将本来域名是ip的缩略图自动改为手机版域名，这样不用翻墙也能加载缩略图了。点击按钮自动将对应的格式复制到剪贴板。<br>
+![使用效果](http://exhentai.org/t/20/5f/205fa8c4a5c3188b43725a64c2ca0434996a19f5-1282006-1418-2000-jpg_l.jpg)
