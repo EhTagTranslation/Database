@@ -141,3 +141,4 @@ Wiki中英文名只能填写真实Tag部分
  会自动将本来域名是ip的缩略图自动改为手机版域名，这样不用翻墙也能加载缩略图了。点击按钮自动将对应的格式复制到剪贴板。<br>
  1.60开始，按住Ctrl再点击，即可直接复制得`![图](图片网址)`<br>
  ![使用效果](http://ww2.sinaimg.cn/large/6c84b2d6gw1f49x7pxka3j20ql0l90zw.jpg)
+ 注：可能有些人还不知道可以将画廊列表从文字列表模式改为缩略图模式，表站“My Home > My Settings > Front Page Settings > Thumbnail View”，里站站“Settings > Front Page Settings > Thumbnail View”。
