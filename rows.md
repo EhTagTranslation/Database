@@ -14,4 +14,5 @@
 
 ***
 Wiki数据库结构版本，EhTagBuilder识别用，**除管理员外请勿修改**。
-<a href="ETB_wiki-version">1</a>
+
+<a href="ETB_wiki-version">2</a>

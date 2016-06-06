@@ -33,6 +33,9 @@
  例如这是我做的一张Tag解释图<br>
  ![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)
 * 绅士里站域名图片无法直接外链，哪怕有H也不会显示在本页面，但是在使用脚本时可以显示。可以在里站上找代表性的作品的缩略图拿来做介绍（见本页面 相关工具 > 图床 > 里站缩略图用法）。视觉类Tag在[图片集](http://exhentai.org/imageset/)里面搜索Tag比较容易找到合适的图。
+* 如果实在是有其他会直接显示又有H的图可以用以下格式书写(ETB v2.2.0 以上)
+	1. `![替换文字](# "图片网址")`，例：`![图片](# "http://ehgt.org/c/botm5.jpg")`
+	2. 推荐上一种方法，但是如果觉得向更简单一点可以选择在图片网址扩展名后加h，例：`![图片](http://ehgt.org/c/botm5.jpgh)`、`![图片](http://www.mapaler.com/MusicList/mysign.phph?name=classic)`。需要注意动态网址需加在问号左边。此格式为暂行，可能修改。
 
 # 编辑Wiki
 ## 进入页面
@@ -140,5 +143,6 @@ Wiki中英文名只能填写真实Tag部分
 5. 因为手动改域名太麻烦，干脆直接写了个脚本工具。[安装脚本](https://github.com/Mapaler/EhTagTranslator/raw/master/ETTWikiHelper-Thumbnail.user.js)因为怕麻烦，就没传Greasy Fork了，直接在项目里安装吧。<br>
  会自动将本来域名是ip的缩略图自动改为手机版域名，这样不用翻墙也能加载缩略图了。点击按钮自动将对应的格式复制到剪贴板。<br>
  1.60开始，按住Ctrl再点击，即可直接复制得`![图](图片网址)`<br>
+ 1.70开始，按住Alt再点击，即可直接复制得`![图](# "图片网址")`<br>
  ![使用效果](http://ww2.sinaimg.cn/large/6c84b2d6gw1f49x7pxka3j20ql0l90zw.jpg)
  注：可能有些人还不知道可以将画廊列表从文字列表模式改为缩略图模式，表站“My Home > My Settings > Front Page Settings > Thumbnail View”，里站站“Settings > Front Page Settings > Thumbnail View”。
