@@ -81,18 +81,18 @@
 | nozomi toujou | 东条希 | 所属团体 μ's ![东条希](# "https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png") |
 | hanayo koizumi | 小泉花阳 | 所属团体 μ's ![小泉花阳](# "https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png") |
 | nico yazawa | 矢泽妮可 | 所属团体 μ's ![矢泽妮可](# "https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png") |
-| tsubasa kira | 绮罗翼 | 所属团体 A-RISE |
-| erena toudou | 统堂英玲奈 | 所属团体 A-RISE |
-| anju yuuki | 优木杏树 | 所属团体 A-RISE |
-| chika takami | 高海千歌 | 所属团体 Aqours |
-| riko sakurauchi | 櫻内梨子 | 所属团体 Aqours |
-| kanan matsuura | 松浦果南 | 所属团体 Aqours |
-| dia kurosawa  | 黑泽黛雅 | 所属团体 Aqours |
-| you watanabe | 渡边曜 | 所属团体 Aqours |
-| yoshiko tsushima | 津岛善子 | 所属团体 Aqours |
-| hanamaru kunikida | 国木田花丸 | 所属团体 Aqours |
-| mari ohara | 小原鞠莉 | 所属团体 Aqours |
-| ruby kurosawa | 黑泽露比 | 所属团体 Aqours |
+| tsubasa kira | 绮罗翼 | 所属团体 A-RISE ![绮罗翼](https://img.acg.moe/common/thumb/e/e0/Lovelive_Tsubasa.jpg/250px-Lovelive_Tsubasa.jpg) |
+| erena toudou | 统堂英玲奈 | 所属团体 A-RISE ![统堂英玲奈](https://img.acg.moe/common/thumb/0/08/Lovelive_Toutou_Elina.jpg/250px-Lovelive_Toutou_Elina.jpg) |
+| anju yuuki | 优木杏树 | 所属团体 A-RISE ![优木杏树](https://img.acg.moe/common/thumb/b/b6/Lovelive_Yuki_Anjyu.jpg/250px-Lovelive_Yuki_Anjyu.jpg) |
+| chika takami | 高海千歌 | 所属团体 Aqours ![高海千歌](https://img.acg.moe/common/thumb/5/5e/Takami_Chika.png/250px-Takami_Chika.png) |
+| riko sakurauchi | 櫻内梨子 | 所属团体 Aqours ![櫻内梨子](https://img.acg.moe/common/thumb/f/f2/Sakurauchi_Riko.png/250px-Sakurauchi_Riko.png) |
+| kanan matsuura | 松浦果南 | 所属团体 Aqours ![松浦果南](https://img.acg.moe/common/thumb/e/e1/Matsuura_Kanan.png/250px-Matsuura_Kanan.png) |
+| dia kurosawa  | 黑泽黛雅 | 所属团体 Aqours ![黑泽黛雅](https://img.acg.moe/common/thumb/2/24/Kurosawa_Dia.png/250px-Kurosawa_Dia.png) |
+| you watanabe | 渡边曜 | 所属团体 Aqours ![渡边曜](https://img.acg.moe/common/thumb/a/a2/Watanabe_You.png/250px-Watanabe_You.png) |
+| yoshiko tsushima | 津岛善子 | 所属团体 Aqours ![津岛善子](https://img.acg.moe/common/thumb/1/18/Tsushima_Yoshiko.png/250px-Tsushima_Yoshiko.png) |
+| hanamaru kunikida | 国木田花丸 | 所属团体 Aqours ![国木田花丸](https://img.acg.moe/common/thumb/a/ac/Kunikida_Hanamaru.png/250px-Kunikida_Hanamaru.png) |
+| mari ohara | 小原鞠莉 | 所属团体 Aqours ![小原鞠莉](https://img.acg.moe/common/thumb/8/83/Ohana_Mari.png/250px-Ohana_Mari.png) |
+| ruby kurosawa | 黑泽露比 | 所属团体 Aqours ![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) |
 | | ▲Love Live 人物 | |
 | | ▼舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png") |
