@@ -72,15 +72,27 @@
 | sunny milk |  桑尼米尔克 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
-| honoka kousaka | 高坂穗乃果 | ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
-| eri ayase | 绚濑绘里 | ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") |
-| kotori minami | 南小鸟 | ![南小鸟](# "https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png") |
-| umi sonoda | 园田海未 | ![园田海未](# "https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png") |
-| rin hoshizora | 星空凛 | ![星空凛](# "https://img.acg.moe/common/thumb/e/ee/Member05_rin_.png/250px-Member05_rin_.png") |
-| maki nishikino | 西木野真姬 | ![西木野真姬](# "https://img.acg.moe/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png") |
-| nozomi toujou | 东条希 | ![东条希](# "https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png") |
-| hanayo koizumi | 小泉花阳 | ![小泉花阳](# "https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png") |
-| nico yazawa | 矢泽妮可 | ![矢泽妮可](# "https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png") |
+| honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
+| eri ayase | 绚濑绘里 | 所属团体 μ's ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") |
+| kotori minami | 南小鸟 | 所属团体 μ's ![南小鸟](# "https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png") |
+| umi sonoda | 园田海未 | 所属团体 μ's ![园田海未](# "https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png") |
+| rin hoshizora | 星空凛 | 所属团体 μ's ![星空凛](# "https://img.acg.moe/common/thumb/e/ee/Member05_rin_.png/250px-Member05_rin_.png") |
+| maki nishikino | 西木野真姬 | 所属团体 μ's ![西木野真姬](# "https://img.acg.moe/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png") |
+| nozomi toujou | 东条希 | 所属团体 μ's ![东条希](# "https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png") |
+| hanayo koizumi | 小泉花阳 | 所属团体 μ's ![小泉花阳](# "https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png") |
+| nico yazawa | 矢泽妮可 | 所属团体 μ's ![矢泽妮可](# "https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png") |
+| tsubasa kira | 绮罗翼 | 所属团体 A-RISE |
+| erena toudou | 统堂英玲奈 | 所属团体 A-RISE |
+| anju yuuki | 优木杏树 | 所属团体 A-RISE |
+| chika takami | 高海千歌 | 所属团体 Aqours |
+| riko sakurauchi | 櫻内梨子 | 所属团体 Aqours |
+| kanan matsuura | 松浦果南 | 所属团体 Aqours |
+| dia kurosawa  | 黑泽黛雅 | 所属团体 Aqours |
+| you watanabe | 渡边曜 | 所属团体 Aqours |
+| yoshiko tsushima | 津岛善子 | 所属团体 Aqours |
+| hanamaru kunikida | 国木田花丸 | 所属团体 Aqours |
+| mari ohara | 小原鞠莉 | 所属团体 Aqours |
+| ruby kurosawa | 黑泽露比 | 所属团体 Aqours |
 | | ▲Love Live 人物 | |
 | | ▼舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png") |
