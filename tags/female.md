@@ -264,3 +264,18 @@
 | lizard girl | 蜥蜴女孩 |  |
 | harem | 后宫 | 被至少三个女孩追捧，自愿发生性关系并所有人参与<br>![](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) |
 | bunny girl | 兔女郎 | ![图](http://exhentai.org/t/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg)![图](http://exhentai.org/t/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg)![图](http://exhentai.org/t/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg)![图](http://exhentai.org/t/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg) |
+| sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |
+| niece | 侄女 |  |
+| horse girl | 马女 | |
+| diaper | 尿布 | |
+| haigure | 高叉泳装 | |
+| long tongue | 长长的舌头 | |
+| slime girl | 史莱姆女孩 | |
+| lingerie | 女用贴身内衣裤 | 轻薄或性感内衣是穿来增加性吸引力; 相对于常规的内衣更色情。此外，还包括睡衣。 |
+| human pet | 人宠 | 仿佛它们是宠物。 | 
+| breast feeding | 哺乳 |  |
+| bride | 新娘 |  |
+| collar | 项圈 | collar ? |
+| minigirl | 迷你女孩 | 缩小版的女孩 比如小精灵 |
+| brain fuck | 脑交 | 插入大脑 |
+| slime | 粘液 | 粘液触手 |
