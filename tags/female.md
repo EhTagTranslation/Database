@@ -115,7 +115,6 @@
 | table masturbation | 桌角自慰 | ![图](http://exhentai.org/t/a3/06/a306339dfe02d15df70f65d434781082c2e77198-880688-1280-720-png_l.jpg)![图](http://exhentai.org/t/ab/98/ab98dcce737dfb35bd75d6fd339a70e1f11793fc-535694-850-708-png_l.jpg) |
 | grandmother | 老奶奶 |  |
 | facesitting | 坐脸 |  |
-| triple penetration | 三人互插 |  |
 | assjob | 尻交 | 屁股沟性交，不插入<br>![图](http://exhentai.org/t/12/d5/12d548648c0e9ca572296531823ab38c1e777824-310836-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/f5/fd/f5fd37a39de4fec5161df6e381f305964673c31b-599712-1024-600-png_l.jpg)![图](http://exhentai.org/t/0c/4a/0c4ae784b128d7842fb8a315595e8ac06c623a88-602649-710-994-jpg_l.jpg) |
 | pantyjob | 内裤交 | ![图](http://exhentai.org/t/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg)![](http://exhentai.org/t/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg)![](http://exhentai.org/t/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg)![图](http://exhentai.org/t/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg) |
 | frottage | 摩擦淫 |  |
