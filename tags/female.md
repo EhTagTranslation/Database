@@ -63,7 +63,7 @@
 | vaginal sticker | 阴贴 | 任何在阴道口区域粘贴平面物体（如创可贴）的行为<br>![图](http://exhentai.org/t/9f/9f/9f9fa571990c865a049671cbbedbb47b7d2af8e9-5724434-2333-3300-png_l.jpg) |
 | layer cake | 夹心蛋糕 | 阴茎在2个阴道之间摩擦。可能涉及每个阴道之间交替插入。<br>需要乱交(group)标签<br>拥有阴茎的人的性别决定放入女性还是男性的命名空间。<br>![某人要的动图](# "http://23.83.235.111:36262/p/fileid=7e790e9f84178bb709960f06ee747df6b351c633-397236-505-330-gif;token=406899-61c8288bcc10a74c9118c6d32da9daca1cf27247;gid=383015;page=93;passkey=902da1d3e8/jjjjj.gif")![图](http://exhentai.org/t/6b/dc/6bdc2973ee102b91685e686e6605fc48c16d1621-201446-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/02/20/02200b144cb6c1b7b671198942d71764c742ba0c-509066-800-600-png_l.jpg)![图](http://exhentai.org/t/9a/25/9a2589446a813229eabb2e08617228ced475814a-161746-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ce/1d/ce1d4b2fe689efc515bb91a5721fe9054f75463b-167173-800-600-jpg_l.jpg)![图](http://exhentai.org/t/5b/cf/5bcf8845e6681cce06db4d0cf722e57a49528f5c-578254-800-600-png_l.jpg)![图](http://exhentai.org/t/71/3c/713c6269c9516e96c9541bae5fba29d329c16d94-601548-1024-600-png_l.jpg)![图](http://exhentai.org/t/c1/07/c107b406d777a9477a21cce35730160c9d7099e1-180625-800-600-jpg_l.jpg)![图](http://exhentai.org/t/14/6d/146d24b258de6266b974f31de60d077b98e426a8-132540-800-600-jpg_l.jpg)![图](http://exhentai.org/t/51/76/5176826ecf85577d5eff755575f453a62791cfd9-509481-944-708-jpg_l.jpg)![图](http://exhentai.org/t/aa/5d/aa5dec12feba976949843189cc8e3689d38f130e-1155161-1024-768-png_l.jpg) |
 | double penetration | 双重插入 | 两个孔口 （口腔、 阴道或肛门） 同时被插入。<br>![图](http://exhentai.org/t/97/91/97915c4f46a8824e6134e9d020179cc66ab4f5e7-168043-800-600-jpg_l.jpg)![图](http://exhentai.org/t/c6/f0/c6f04596e3a7ffbd7651283f3921a673f993233f-1886577-1488-2104-jpg_l.jpg)![图](http://exhentai.org/t/2e/e3/2ee3be58d97de6e8b0d108a59be3b700a8153712-441658-1260-1008-jpg_l.jpg)![图](http://exhentai.org/t/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_l.jpg) |
-| double penetration | 三重插入 | 三个插入到一个人同时发生。往往是双重插入用剩下的口也侵入，或侵入其他后孔双阴道/双肛门。<br>![图](http://exhentai.org/t/c8/5a/c85a8f685f3f0856c22ee188ac0a720d328ec84a-192869-800-600-jpg_l.jpg)![图](http://exhentai.org/t/e5/f0/e5f0423750d8c861edf0d4050e88cb7ca3e71a31-308957-991-1400-jpg_l.jpg)![图](http://exhentai.org/t/5c/3a/5c3ab16ffa342d3b5ad5131bb330e1f8bf26691c-546934-2100-1500-jpg_l.jpg)![图](http://exhentai.org/t/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg) |
+| triple penetration | 三重插入 | 三个插入到一个人同时发生。往往是双重插入用剩下的口也侵入，或侵入其他后孔双阴道/双肛门。<br>![图](http://exhentai.org/t/c8/5a/c85a8f685f3f0856c22ee188ac0a720d328ec84a-192869-800-600-jpg_l.jpg)![图](http://exhentai.org/t/e5/f0/e5f0423750d8c861edf0d4050e88cb7ca3e71a31-308957-991-1400-jpg_l.jpg)![图](http://exhentai.org/t/5c/3a/5c3ab16ffa342d3b5ad5131bb330e1f8bf26691c-546934-2100-1500-jpg_l.jpg)![图](http://exhentai.org/t/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg) |
 | all the way through | 全身插入 | 一些东西从嘴里插入后孔穿出（或反之），穿过一个人的整个身体。很有可能由一个大的插入或触手完成。<br>被穿透人的性别决定放入女性还是男性的命名空间。<br>做肠镜是非常难受的，胃镜也是非常难受的，据人民网报道：以肉食为主的西方人，如果身高1.8米，其肠子长度平均为5.4米，肠长倍数为3；而以植物为主食的亚洲人，如果身高1.7米，其肠子长度平均为8.3米，肠长倍数为5。要是真有谁被触手贯穿的话，恐怕早就痛不欲生了。<br>![图](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg)![图](http://exhentai.org/t/62/8d/628d3810de96783c54522deeadc2bddd3c95b157-937555-1353-1920-jpg_l.jpg) |
 | yuri | 百合 | 至少两个女性之间的性行为。<br>不应对扶她(futanari)/人妖()shemale女性性内容或非色情内容标记这个Tag。如果有一幕场景揭示一个角色是扶她，以前的仍然可以算作百合。混合性别乱交不符合百合标签。<br>同义词：女同性恋(dyke)、女上女(girl on girl)和蕾丝边(lesbians)<br>![图](http://exhentai.org/t/d4/93/d493b6addbac0ef3111497b52a00ac2d4a877a42-746063-1200-1684-jpg_l.jpg)![图](http://exhentai.org/t/5f/da/5fda36473f20f35f18183f10c151fa4b027dbdd1-1196044-4355-3000-jpg_l.jpg)![图](http://exhentai.org/t/4e/7b/4e7b15a24f525cc511cd7a174caeb7d3f05bb93b-1235318-2124-3000-jpg_l.jpg) |
 | females only | 纯女性 | 在画廊中的所有性行为，迷恋，或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她不算。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg)![图](http://ul.ehgt.org/96/93/969337239526475abf4de645576256bc11c14ba0-3084919-1425-2000-png_l.jpg)![图](http://ul.ehgt.org/2b/e2/2be25ce7bafbc429d3e3ab852a9f11960b22dd6a-7572892-1800-2527-png_l.jpg) |
@@ -154,7 +154,6 @@
 | huge penis | 超巨根 | 比巨根还大，这里指扶她(futanari) |
 | mother | 母亲 |  |
 | big nipples | 大乳头 |  |
-| elf | 精灵 |  |
 | big ass | 大屁股 |  |
 | condom | 避孕套 |  |
 | catgirl | 猫女 |  |
@@ -180,7 +179,6 @@
 | chastity belt |贞操带 |  |
 | electric shocks | 电击 |  |
 | drugs | 药物 | 毒品、春药 |
-| furry | 长有皮毛 | 一些拟人度低的人外 长有兽毛 |
 | inverted nipples | 乳头内陷 | ![病](http://exhentai.org/t/26/43/2643042f60900dd582525a655e056d9b65773230-494001-828-1017-png_l.jpg)![病](http://exhentai.org/t/f6/c1/f6c18b860786390ef52c4bb167920a34e59e8533-171946-836-883-jpg_l.jpg)![病](http://exhentai.org/t/02/f6/02f682442a6e88e5eba934a8494dde7242161b00-200854-495-600-jpg_l.jpg) |
 | nurse | 护士 |  |
 | teacher | 教师 |  |
@@ -220,7 +218,6 @@
 | nipple expansion | 乳头膨胀 |  |
 | robot | 机器人 |  |
 | ryona | 哀嚎 | ryona 意思就是藉由观看女性角色被痛击、电击、束缚、受伤挣扎、哀鸣而激起性快感 |
-| demon girl | 恶魔少女 |  |
 | tickling | 痒 |  |
 | vampire | 吸血鬼 |  |
 | humiliation | 屈辱 |  |
@@ -265,16 +262,12 @@
 | bunny girl | 兔女郎 | ![图](http://exhentai.org/t/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg)![图](http://exhentai.org/t/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg)![图](http://exhentai.org/t/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg)![图](http://exhentai.org/t/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg) |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |
 | niece | 侄女 |  |
-| horse girl | 马女 | |
-| diaper | 尿布 | |
 | haigure | 高叉泳装 | |
 | long tongue | 长长的舌头 | |
-| slime girl | 史莱姆女孩 | |
-| lingerie | 女用贴身内衣裤 | 轻薄或性感内衣是穿来增加性吸引力; 相对于常规的内衣更色情。此外，还包括睡衣。 |
+| lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣; 相对于常规的内衣更色情。此外，还包括睡衣。 |
 | human pet | 人宠 | 仿佛它们是宠物。 | 
 | breast feeding | 哺乳 |  |
 | bride | 新娘 |  |
-| collar | 项圈 | collar ? |
 | minigirl | 迷你女孩 | 缩小版的女孩 比如小精灵 |
 | brain fuck | 脑交 | 插入大脑 |
 | slime | 粘液 | 粘液触手 |
@@ -286,20 +279,17 @@
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 |
 | aunt | 阿姨 | |
 | tall girl | 高个女 | 至少比伙伴搞一个头。如果没有伙伴，靠环境判断。如果女性是女巨人，则不能添加该标签。如果伙伴是正太、萝莉、小人或侏儒，则不能添加该标签。 |
-| bride | 新娘 | |
 | slime girl | 史莱姆女孩 | 身体由粘性物体组成的女孩。不得与史莱姆混淆。需要怪物女孩标签 |
 | wolf girl | 狼女孩 | |
 | dog girl | 狗女孩 | |
 | horse girl | 马女孩 | |
 | orc | 兽人 | 不得与【猪男】、【猪女】混淆。 |
 | pig | 猪 | 不得给【毛皮】人物添加该标签，应该使用【猪男】或【猪女】。 |
-| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。 |
+| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。一些拟人度低的人外 长有兽毛 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
-| lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
 | business suit | 西装 | |
-| breast feeding | 哺乳 | |
 | tracksuit | 运动服 | |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要【束缚】标签。不得与【寻欢洞】、【虫洞】混淆。 |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与【卡在墙上】、【虫洞】混淆。 |
