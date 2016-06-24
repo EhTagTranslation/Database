@@ -181,7 +181,6 @@
 | electric shocks | 电击 |  |
 | drugs | 药物 | 毒品、春药 |
 | furry | 长有皮毛 | 一些拟人度低的人外 长有兽毛 |
-| bloomers | 灯笼裤 |  |
 | inverted nipples | 乳头内陷 | ![病](http://exhentai.org/t/26/43/2643042f60900dd582525a655e056d9b65773230-494001-828-1017-png_l.jpg)![病](http://exhentai.org/t/f6/c1/f6c18b860786390ef52c4bb167920a34e59e8533-171946-836-883-jpg_l.jpg)![病](http://exhentai.org/t/02/f6/02f682442a6e88e5eba934a8494dde7242161b00-200854-495-600-jpg_l.jpg) |
 | nurse | 护士 |  |
 | teacher | 教师 |  |
