@@ -234,7 +234,7 @@
 | mind break | 洗脑 |  |
 | apron | 围裙 | 做饭时为了保护常穿的服装。通常为色情目的穿带。<br>穿着围裙的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/64/17/64170ad602342eb89fbb060c3845051827219f9f-270264-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/6d/51/6d51628d3a92f64102c47cb48f2e17ff4fdc34aa-1695855-1013-1614-png_l.jpg)![图](http://exhentai.org/t/3c/60/3c60c4a41845aa41ba2a8ba0a4764b7e0fb22546-382544-800-600-png_l.jpg)![图](http://exhentai.org/t/88/cf/88cff98e2d855af7e7097fe433a4c06676c69229-177598-800-600-jpg_l.jpg)![图](http://ul.ehgt.org/28/27/2827e9529ca73a6cf8728342c0e70f29987215a7-6134109-4202-6104-jpg_l.jpg) |
 | gothic lolita | 哥特萝莉 | 一种黑暗但有很多褶的风格。详细请谷歌<br>![图](http://exhentai.org/t/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg)![图](http://exhentai.org/t/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg) |
-| crossdressing | 异性装 | ![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
+| crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | chinese dress | 唐装 | |
 | horse cock | 马根 | |
 | insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |
