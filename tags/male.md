@@ -60,5 +60,5 @@
 | masturbation | 自慰 ||
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与【异性装】同时使用 |
 | tomgirl | 伪娘 | 通常误认为是女性的男性，通常与【异性装】同时出现，不得与【扶她】混淆 |
-| 幽灵 | ghost ||
-| 透明  | invisible ||
+| ghost | 幽灵 ||
+| invisible | 透明 ||
