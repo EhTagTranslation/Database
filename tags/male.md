@@ -16,6 +16,7 @@
 | cuntboy | 猫男 | 有阴道的男性 |
 | feminization | 女性化 | |
 || ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
+| gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
 | dickgirl on male | 扶上男 | |
 || ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶他(futanari)和人妖(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶他和人妖都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
