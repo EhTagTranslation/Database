@@ -17,6 +17,7 @@
 | feminization | 女性化 | |
 || ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
 | gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
+| transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成大象](https://exhentai.org/t/57/34/573406cf1cfa64061071d63686939d0d64f16657-454536-853-1280-jpg_l.jpg) |
 | dickgirl on male | 扶上男 | |
 || ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶他(futanari)和人妖(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶他和人妖都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
@@ -26,6 +27,7 @@
 | swinging | 换妻 | 不忠(Infidelity)类<br>一对伴侣允许一方或双方与第三方发生性关系。<br>如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。<br>同义词：伴侣交换(partner swap)、换妻(wife swap)。 |
 || ▼ 暂未分类 | ================================================================ |
 | shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
+| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环![少年变成正太](https://exhentai.org/t/5c/e7/5ce798a2fb455137fd1bf08b0c63661c93b4d79f-8425786-4299-6071-jpg_l.jpg) |
 | yaoi | 男同 | 至少两位男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) |
 | males only | 纯男性 | 只限至少两位男性之间的所有性行为、拜物教或亲密互动。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) |
 | anal | 肛交 | 阴茎插入肛门，或是任何物体都可以（如性玩具、触手等）。(アナル)<br>这背后一定有肮脏的PY交易<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) |
