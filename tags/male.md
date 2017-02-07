@@ -68,3 +68,5 @@
 | ghost | 幽灵 ||
 | invisible | 透明 ||
 | condom | 避孕套 | |
+| waiter | 男侍者 ||
+| waitress | 女侍者 ||
