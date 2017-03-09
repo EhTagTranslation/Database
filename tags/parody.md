@@ -115,3 +115,9 @@
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](http://ul.ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](http://ul.ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |
 | shokugeki no soma | 食戟之灵 | ![图](http://exhentai.org/t/2d/72/2d7246f8bc6f92ea69e0304c7104ebe24969ed71-878558-1413-2000-jpg_l.jpg)![图](http://exhentai.org/t/83/e9/83e973922edfecfec49d51ab906ad6a5a3b96120-659046-1395-2000-jpg_l.jpg)![图](http://ul.ehgt.org/57/2f/572fb8515005fc277f88910be0c594605016dc3e-2692365-1240-1754-png_l.jpg) |
 | working | 迷糊餐厅 | ![图](http://exhentai.org/t/cb/19/cb19e9ef2553c967ebbe306c9219367ca5bb9c64-1717378-1080-1512-jpg_250.jpg)![图](http://ul.ehgt.org/e2/1f/e21f6f42ea9a4941571838fcc6c1de9c23e00040-3134524-2138-2997-jpg_l.jpg)![图](http://exhentai.org/t/e3/0f/e30f910af4063d83167f78d37078632ac6ebe7d2-3751936-1386-2005-png_l.jpg) |
+| kono subarashii sekai ni syukufuku o | 为美好的世界献上祝福！ | ![图](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |
+
+
+
+
+
