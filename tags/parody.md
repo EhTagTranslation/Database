@@ -29,6 +29,7 @@
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | ![图](http://ul.ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
 | hyperdimension neptunia | 超次元游戏：海王星 | ![图](https://img.acg.moe/common/thumb/9/95/Choujigen_game_neptune.jpg/250px-Choujigen_game_neptune.jpg) |
 | love live | LoveLive! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) |
+| love live sunshine | Love Live! Sunshine!! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6gy1fdgu7kswlwj209q0ec0v9.jpg) |
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](http://ul.ehgt.org/5a/53/5a53888ed5043aa5fe693f05f23e6977531baeb3-367327-588-860-jpg_l.jpg) |
 | vocaloid | V家 | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
