@@ -252,7 +252,9 @@
 | human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
 | cannibalism  | 自相残杀 | 人型生物烹饪或食用其他人形生物。 |
 | coprophagia | 食粪 |  |
-| scat | 拉屎 |  |
+| scat | 放屎 |  |
+| farting | 放屁 |  |
+| smell | 嗅闻 |  |
 | bbw | BBW | 一个胖女人。必须在腹部有褶皱。 |
 | mecha girl | 机甲少女 |  |
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头 |
