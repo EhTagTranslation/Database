@@ -98,7 +98,7 @@
 | hidamari sketch | 向阳素描 | ![图](http://ul.ehgt.org/b9/70/b970463d1bbba639509e84138d41857f8047127b-2215157-2449-3000-jpg_l.jpg)![图](http://exhentai.org/t/78/96/7896d7772fc198e1a115547c30fbf86c31dbfbd9-1471000-2104-3000-jpg_l.jpg)![图](http://ul.ehgt.org/90/aa/90aac6d23db2079890b2ff2f5f8b0798db60d1c3-1889871-2449-3000-jpg_l.jpg) |
 | mahou shoujo lyrical nanoha | 魔法少女奈叶 | ![图](http://exhentai.org/t/b5/0b/b50b1a2d8a7443f70f56441d2db45ce4c6ad7ee5-8618925-2104-3000-png_l.jpg)![图](http://exhentai.org/t/a0/b6/a0b6ef89c8aa99b60e9b9cc4d05073ecde8c3c32-303480-1161-1649-jpg_l.jpg) |
 | rosario vampire | 十字架与吸血鬼 | 漫画，不了解<br>![图](http://exhentai.org/t/97/ac/97ac8a9ab8bcf27c7a09ca6eee1c335bc81ba152-330768-607-850-jpg_l.jpg)![图](http://exhentai.org/t/eb/f5/ebf5c1def8cc83506b28dc3244b6189e4aff0519-379951-1072-1500-jpg_l.jpg) |
-|| ▼ 光美大军 ||
+| | ▼ 光美大军 | |
 | pretty cure | 光之美少女 | 光之美少女系列的统称<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
 | pretty cure splash star | 光之美少女Splash Star | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
 | yes precure 5 | Yes! 光之美少女5 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
@@ -110,7 +110,7 @@
 | happinesscharge precure | Happiness Charge 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
 | go princess precure | Go! Princess 光之美少女 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
 | maho girls precure | 魔法使 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
-|| ▲ 光美大军 ||
+| | ▲ 光美大军 | |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](http://exhentai.org/t/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg)![图](http://exhentai.org/t/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg) |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](http://ul.ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](http://ul.ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |
 | shokugeki no soma | 食戟之灵 | ![图](http://exhentai.org/t/2d/72/2d7246f8bc6f92ea69e0304c7104ebe24969ed71-878558-1413-2000-jpg_l.jpg)![图](http://exhentai.org/t/83/e9/83e973922edfecfec49d51ab906ad6a5a3b96120-659046-1395-2000-jpg_l.jpg)![图](http://ul.ehgt.org/57/2f/572fb8515005fc277f88910be0c594605016dc3e-2692365-1240-1754-png_l.jpg) |

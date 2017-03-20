@@ -4,30 +4,30 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-|| ▼ Body | 身体 |
-|| > Skin | 皮肤 | 
+| | ▼ Body | 身体 |
+| | > Skin | 皮肤 | 
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。（褐色肌）<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) |
-|| > Weight | 重量 |
+| | > Weight | 重量 |
 | bbm | 胖男人 | 胖男人。必须要有腹部褶皱。<br>![胖大叔赛高！](http://exhentai.org/t/f2/c7/f2c77d7e82dc41acec57a2d13d792698383aa38a-1711399-1307-1950-png_l.jpg) |
-|| ▼ Legs | 腿 |
+| | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
-|| ▼ Gender | 性别 |
+| | ▼ Gender | 性别 |
 | cuntboy | 猫男 | 有阴道的男性 |
 | feminization | 女性化 | |
-|| ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
+| | ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
 | gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
 | transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成大象](https://exhentai.org/t/57/34/573406cf1cfa64061071d63686939d0d64f16657-454536-853-1280-jpg_l.jpg) |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依（possession）混淆也不能标为性转换（gender bender） |
 | possession | 凭依 | 强行占有和控制一个甚至多个对象的身体，和换身不同。此tag需打在控制者原来的性别的命名空间中 |
 | dickgirl on male | 扶上男 | |
-|| ▼ Multiple Activities | 多人活动 |
+| | ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶他(futanari)和人妖(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶他和人妖都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
-|| ▼ Contextual > Infidelity | 文章内容上的 > 不忠 |
+| | ▼ Contextual > Infidelity | 文章内容上的 > 不忠 |
 | netorare | NTR | 寝取られ，绿帽子。不忠(Infidelity)类<br>另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。<br>不应与出轨(cheating)混淆。（性主角这方是被动的）<br>不忠的人的性别决定放入女性还是男性的命名空间。<br>同义词：戴绿帽(cuckold)、寝取(netori) |
 | cheating | 出轨 | 寝取り。不忠(Infidelity)类不忠(Infidelity)类<br>另一半与别人的伴侣发生性关系。<br>如果性相互作用是违背自己的意愿，不应标记(例如强奸)或属于(swinging)。<br>不应与NTR(netorare)混淆。（性主角这方是主动的）<br>出轨的人的性别决定放入女性还是男性的命名空间。 |
 | swinging | 换妻 | 不忠(Infidelity)类<br>一对伴侣允许一方或双方与第三方发生性关系。<br>如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。<br>同义词：伴侣交换(partner swap)、换妻(wife swap)。 |
-|| ▼ 暂未分类 | ================================================================ |
+| | ▼ 暂未分类 | ================================================================ |
 | shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环![少年变成正太](https://exhentai.org/t/5c/e7/5ce798a2fb455137fd1bf08b0c63661c93b4d79f-8425786-4299-6071-jpg_l.jpg) |
 | yaoi | 男同 | 至少两位男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) |
@@ -61,12 +61,12 @@
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | dilf | 中年大叔 | 看上去像30-50岁的男性，不一定是父亲。不得与【老人】混淆 |
 | old man | 老人 | 看起来在50岁以上的男性，不得与【中年大叔】混淆 |
-| glasses | 眼镜 ||
-| masturbation | 自慰 ||
+| glasses | 眼镜 | |
+| masturbation | 自慰 | |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与【异性装】同时使用 |
 | tomgirl | 伪娘 | 通常误认为是女性的男性，通常与【异性装】同时出现，不得与【扶她】混淆 |
-| ghost | 幽灵 ||
-| invisible | 透明 ||
+| ghost | 幽灵 | |
+| invisible | 透明 | |
 | condom | 避孕套 | |
-| waiter | 男侍者 ||
-| waitress | 女侍者 ||
+| waiter | 男侍者 | |
+| waitress | 女侍者 | |

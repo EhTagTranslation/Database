@@ -4,14 +4,14 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-|| ▼ 同人社团 | |
+| | ▼ 同人社团 | |
 | electromagneticwave | ElectromagneticWave | ![logo](http://www.ne.jp/asahi/magneticwave/popcan/top5_logo.gif)<br>萌单作者POP所在的社团<br>![萌单](http://www.ne.jp/asahi/magneticwave/popcan/cafe.jpg) |
 | usotsukiya | 嘘つき屋 | 大嘘的社团名，袜控，女子高中生画家<br>![大嘘作品](http://ul.ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) |
 | archetype | ARCHETYPE | あかざ(Akaza)的社团名，袜控。<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) |
 | afterschool of the 5th year | 5年目の放課後  | 监督(Kantoku)的社团名。<br>![Kantoku作品](http://ul.ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |
 | tsf no f | TSF的F |以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](https://exhentai.org/t/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg)|
-|| ▲ 同人社团 | |
-|| ▼ GAL公司 | |
+| | ▲ 同人社团 | |
+| | ▼ GAL公司 | |
 | softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg) |
 | devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal旗下偏黑暗向<br>![图1](http://exhentai.org/t/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_250.jpg) |
 | softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](http://exhentai.org/t/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg)<br>![图2](http://exhentai.org/t/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg) |
@@ -23,7 +23,7 @@
 | key | Key | Key会社<br>![logo](http://c.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=8e1983e3830a19d8cb0383030bc1e5b6/503d269759ee3d6d175d5d9940166d224e4adecd.jpg)<br>神作工厂<br>![图](http://ul.ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) |
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](http://ul.ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) |
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](http://ul.ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) |
-|| ▲ GAL公司 | |
-|| ▼ 其他游戏公司 | |
+| | ▲ GAL公司 | |
+| | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/images/logo1.gif)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
 | dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 |
