@@ -70,4 +70,4 @@
 | condom | 避孕套 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
-| schoolboy uniform | 校服 | |
+| schoolboy uniform | 男生校服 | |
