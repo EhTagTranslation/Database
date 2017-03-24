@@ -30,6 +30,8 @@
 | | ▼ 暂未分类 | ================================================================ |
 | shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环![少年变成正太](https://exhentai.org/t/5c/e7/5ce798a2fb455137fd1bf08b0c63661c93b4d79f-8425786-4299-6071-jpg_l.jpg) |
+| brother | 兄弟 | 兄弟间的性行为。 |
+| cousin | 表兄弟 | 表兄弟间的性行为。 |
 | yaoi | 男同 | 至少两位男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) |
 | males only | 纯男性 | 只限至少两位男性之间的所有性行为、拜物教或亲密互动。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) |
 | anal | 肛交 | 阴茎插入肛门，或是任何物体都可以（如性玩具、触手等）。(アナル)<br>这背后一定有肮脏的PY交易<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) |
