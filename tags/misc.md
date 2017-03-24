@@ -20,6 +20,7 @@
 | ffm threesome | 嫐 | ♀♂♀，2女1男3P |
 | mmf threesome | 嬲 | ♂♀♂，2男1女3P |
 | incest | 乱伦 | 家人亲戚（即使没有血缘关系）之间的性行为。 |
+| inseki | 姻亲 | 由婚姻关系产生的亲戚之间的性行为。 |
 | uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。<br>不应使用于西部类别的画廊。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/6c/61/6c61a80b58864ec5739121b53c5ef6f269fd2ad1-202796-849-1200-jpg_l.jpg)![图](http://exhentai.org/t/bf/7e/bf7e4d6dcea6cd70919cb86cc324b890cf28b5a1-424394-1000-1418-jpg_l.jpg)![图](http://exhentai.org/t/e4/0b/e40b7c0193e0522e24b6c926aa45c9b68e0f4e26-501329-1280-892-jpg_l.jpg)![图](http://exhentai.org/t/90/12/90126d458ff869ab6d835f436bd54a561159969e-91693-843-1200-jpg_l.jpg)![图](http://exhentai.org/t/b2/d6/b2d607fdb482ee741596c844887f5365c88d0a76-672166-825-1000-jpg_l.jpg) |
 | mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。<br>同样水平的修正需要在整个画廊完整实施。<br>如果有审查，不应标记为无H画廊。<br>不应与完全修正Tag混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/5d/75/5d752a4a9e06e1dfede0854dec687ebe66ea4966-59211-800-600-jpg_l.jpg) |
 | full censorship | 完全修正 | 任何形式的完全检查（全白色或黑色），涵盖了几乎所有或个人所有的生殖器区域。<br>同样水平的修正需要在整个画廊完整实施。<br>如果有审查，不应标记为无H画廊。<br>不应与马赛克修正Tag混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/bf/89/bf898face18f59d889970fa197e58df03710d757-867963-1350-1800-jpg_l.jpg) |
