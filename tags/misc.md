@@ -31,6 +31,8 @@
 | novel | 小说 | 大部分页面为不包括图片的纯文本 |
 | caption | 说明文字 | 在不包含文本的图片中添加了文本。常放置于图片外。 | 
 | animated | 动图 | 包含 GIF 动图的画廊 |
+| themeless | 无主题 | 没有特定主题或关注点的画廊 |
+| webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及行动装置而设的漫画。 |
 | twins | 双胞胎 |  |
 | | ▼ 还没正式Tag的公司 | |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
