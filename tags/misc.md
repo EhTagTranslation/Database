@@ -19,6 +19,7 @@
 | artbook | 画师册 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。<br>![图](http://ul.ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](http://ul.ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |
 | ffm threesome | 嫐 | ♀♂♀，2女1男3P |
 | mmf threesome | 嬲 | ♂♀♂，2男1女3P |
+| body swap | 换身 | 灵魂互换，该标签不应与凭依（possession）混淆也不能标为性转换（gender bender） |
 | incest | 乱伦 | 家人亲戚（即使没有血缘关系）之间的性行为。 |
 | inseki | 姻亲 | 由婚姻关系产生的亲戚之间的性行为。 |
 | uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。<br>不应使用于西部类别的画廊。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/6c/61/6c61a80b58864ec5739121b53c5ef6f269fd2ad1-202796-849-1200-jpg_l.jpg)![图](http://exhentai.org/t/bf/7e/bf7e4d6dcea6cd70919cb86cc324b890cf28b5a1-424394-1000-1418-jpg_l.jpg)![图](http://exhentai.org/t/e4/0b/e40b7c0193e0522e24b6c926aa45c9b68e0f4e26-501329-1280-892-jpg_l.jpg)![图](http://exhentai.org/t/90/12/90126d458ff869ab6d835f436bd54a561159969e-91693-843-1200-jpg_l.jpg)![图](http://exhentai.org/t/b2/d6/b2d607fdb482ee741596c844887f5365c88d0a76-672166-825-1000-jpg_l.jpg) |
