@@ -247,7 +247,8 @@
 | insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |
 | body writing | 身体写作 |  | 
 | pasties | 乳贴 |  |
-| blindfold | 眼罩 | 以遮住视线为目的的眼罩。 |
+| blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |
+| eyepatch | 眼罩 |  |
 | eyemask | 眼部面具 | 遮住眼部周围的面具。 |
 | masked face | 假面 | 遮住整个脸的不透明面具。 |
 | bandages | 绷带 |  |
@@ -256,7 +257,6 @@
 | draenei | 德莱尼 | 蓝色皮肤有蹄和发光的眼睛。 |
 | nipple birth | 乳头出产 | 通过乳头分娩或产卵  |
 | autopaizuri | 自乳交 | 扶她(futanari)用自己胸部给自己乳交 |
-| eyepatch | 眼罩 |  |
 | human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
 | cow | 牛 | 任何类型的雌性牛科动物，不要与【牛女孩】混淆。 |
 | cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与【巨乳】配对。 |
