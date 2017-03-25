@@ -1,4 +1,4 @@
-﻿本页储存TAG列表的character（角色）翻译。
+本页储存TAG列表的character（角色）翻译。
 请按照如下规则：
 * 优先写公认的中文翻译，不知道的也可以写日文原名。
 
@@ -193,6 +193,7 @@
 | bell cranel | 贝尔•克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) |
 | hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) |
 | emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主. <br>![爱蜜莉雅](http://7xw6zm.com1.z0.glb.clouddn.com/emilia.png) |
+| | ▼为美好的世界献上祝福 角色 |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |
 | megumin | 惠惠 | ![惠惠](https://exhentai.org/t/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg) |
 | kazuma satou | 佐藤和真 | ![佐藤和真](https://ehgt.org/t/80/8d/808d6355e2fe9a0ca7a6a64f0d6e2a0f0c5ee213-231521-1050-1492-jpg_l.jpg) |
@@ -200,3 +201,12 @@
 | yunyun | 悠悠 | ![悠悠](https://exhentai.org/t/5d/51/5d515b84cba5e1b08ff2bed2cedcec87a4e35591-1883545-1300-1800-jpg_l.jpg) |
 | wiz | 维兹 | ![维兹](https://ehgt.org/t/ab/3a/ab3aa98630db78bb1f5c1009385385da898ee2a2-494209-834-1179-jpg_l.jpg) |
 | chris | 克莉丝 | ![克莉丝](https://exhentai.org/t/af/b5/afb58cc128df5f081d6db9d41c9a64f85a198393-136583-800-1000-jpg_l.jpg) |
+| | ▼请问您今天要来点兔子吗？ 角色 |  |
+| kokoa hoto | 保登心爱 | ![保登心爱](https://exhentai.org/t/8d/65/8d6540d0b2dd2f9e48c55cb15900f228332addd7-1630906-1050-1492-png_l.jpg) |
+| chino kafuu | 香风智乃 | ![香风智乃](https://exhentai.org/t/4a/74/4a7451ef3c0faf3955386a01a369d5a7a1ac6729-895080-2119-3000-jpg_l.jpg) ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
+| rize tedeza | 天天座理世 | ![天天座理世](https://exhentai.org/t/68/57/68570a0618c9dae4d7b5183bfcb3fc0167b11f2b-795826-1051-1494-jpg_l.jpg) |
+| chiya ujimatsu | 宇治松千夜 | ![宇治松千夜](https://exhentai.org/t/7c/c7/7cc7365f5c323165d889d49b238616a81f51e241-166784-1050-1492-jpg_l.jpg) |
+| sharo kirima | 桐间纱路 | ![桐间纱路](https://exhentai.org/t/15/6d/156d9c00abfab48850e66cd45dffebd640aa6542-7546505-2128-3000-png_l.jpg) |
+| maya jouga | 条河麻耶 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
+| megumi natsu | 奈津惠 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
+| mocha hoto | 保登摩卡 | ![保登摩卡](https://exhentai.org/t/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg) |
