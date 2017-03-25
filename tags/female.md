@@ -1,4 +1,4 @@
-﻿本页储存TAG列表的female（女性）翻译。
+本页储存TAG列表的female（女性）翻译。
 目前阶段建议规则：
 * 为方便查找理解同类性癖的Tag，请尽量按[恋物Tag分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。<br>若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
 
@@ -91,6 +91,7 @@
 | hairy | 多毛的 | |
 | prostitution | 卖淫 / 援交 | |
 | age progression | 年龄进展 | |
+| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环 |
 | infantilism | 幼稚型 | |
 | giantess | 女巨人 | |
 | slave | 奴隶 | |
@@ -184,7 +185,9 @@
 | drugs | 药物 | 毒品、春药 |
 | inverted nipples | 乳头内陷 | ![病](http://exhentai.org/t/26/43/2643042f60900dd582525a655e056d9b65773230-494001-828-1017-png_l.jpg)![病](http://exhentai.org/t/f6/c1/f6c18b860786390ef52c4bb167920a34e59e8533-171946-836-883-jpg_l.jpg)![病](http://exhentai.org/t/02/f6/02f682442a6e88e5eba934a8494dde7242161b00-200854-495-600-jpg_l.jpg) |
 | nurse | 护士 |  |
-| teacher | 教师 |  |
+| teacher | 教师 | |
+| coach | 教练 | |
+| tutor | 家庭教师 | |
 | kimono | 和服 |  |
 | angel | 天使 |  |
 | rimjob | 舔肛 |  |
@@ -244,15 +247,19 @@
 | insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |
 | body writing | 身体写作 |  | 
 | pasties | 乳贴 |  |
-| bandaid | 创可贴 |  |
+| blindfold | 眼罩 | 以遮住视线为目的的眼罩。 |
+| eyemask | 眼部面具 | 遮住眼部周围的面具。 |
+| masked face | 假面 | 遮住整个脸的不透明面具。 |
 | bandages | 绷带 |  |
+| bandaid | 创可贴 |  |
 | parasite | 寄生 |  |
 | draenei | 德莱尼 | 蓝色皮肤有蹄和发光的眼睛。 |
-| blindfold | 眼罩 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩或产卵  |
 | autopaizuri | 自乳交 | 扶她(futanari)用自己胸部给自己乳交 |
 | eyepatch | 眼罩 |  |
 | human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
+| cow | 牛 | 任何类型的雌性牛科动物，不要与【牛女孩】混淆。 |
+| cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与【巨乳】配对。 |
 | cannibalism  | 自相残杀 | 人型生物烹饪或食用其他人形生物。 |
 | coprophagia | 食粪 |  |
 | scat | 放屎 |  |
@@ -263,7 +270,7 @@
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头 |
 | cum bath | 精液浴 |  |
 | lizard girl | 蜥蜴女孩 |  |
-| harem | 后宫 | 被至少三个女孩追捧，自愿发生性关系并所有人参与<br>![](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) |
+| harem | 后宫 | 被至少三个女孩追捧，自愿发生性关系并所有人参与<br>![图](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) |
 | bunny girl | 兔女郎 | ![图](http://exhentai.org/t/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg)![图](http://exhentai.org/t/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg)![图](http://exhentai.org/t/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg)![图](http://exhentai.org/t/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg) |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |
 | niece | 侄女 |  |
