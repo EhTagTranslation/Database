@@ -4,6 +4,15 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
+| | ==Age== | ==年龄== |
+| age progression | 年龄增长 | 年龄迅速增长 |
+| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与【缩小】(shrinking)混淆 |
+| dilf | 熟男 | 看上去像30-50岁的男性，不一定是【父亲】(father)。不得与【老人】(old man)混淆 |
+| infantilism | 幼稚型 | 将成年人当作小孩对待 |
+| low shotacon | 未通过正太 | 表示【正太】(shotacon)的情况没有通过存在规则(presence rule)<br>需要【正太】(shotacon)标签 |
+| old man | 老人 | 看起来在50岁以上的男性，不得与【熟男】(dilf)混淆 |
+| shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
+| toddlercon | 幼儿 | 学步的儿童 |
 | | ▼ Body | 身体 |
 | | > Skin | 皮肤 | 
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。（褐色肌）<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) |
@@ -28,9 +37,6 @@
 | cheating | 出轨 | 寝取り。不忠(Infidelity)类不忠(Infidelity)类<br>另一半与别人的伴侣发生性关系。<br>如果性相互作用是违背自己的意愿，不应标记(例如强奸)或属于(swinging)。<br>不应与NTR(netorare)混淆。（性主角这方是主动的）<br>出轨的人的性别决定放入女性还是男性的命名空间。 |
 | swinging | 换妻 | 不忠(Infidelity)类<br>一对伴侣允许一方或双方与第三方发生性关系。<br>如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。<br>同义词：伴侣交换(partner swap)、换妻(wife swap)。 |
 | | ▼ 暂未分类 | ================================================================ |
-| shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
-| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环![少年变成正太](https://exhentai.org/t/5c/e7/5ce798a2fb455137fd1bf08b0c63661c93b4d79f-8425786-4299-6071-jpg_l.jpg) |
-| age progression | 年龄进展 | |
 | brother | 兄弟 | 兄弟间的性行为。 |
 | cousin | 表兄弟 | 表兄弟间的性行为。 |
 | yaoi | 男同 | 至少两位男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) |
@@ -70,11 +76,9 @@
 | shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与【虫洞】混淆。 |
 | virginity | 丧失童贞 | 男性失去童贞，不得与女性的【破处】混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
-| dilf | 中年大叔 | 看上去像30-50岁的男性，不一定是父亲。不得与【老人】混淆 |
 | teacher | 教师 | |
 | coach | 教练 | |
 | tutor | 家庭教师 | |
-| old man | 老人 | 看起来在50岁以上的男性，不得与【中年大叔】混淆 |
 | glasses | 眼镜 | |
 | masturbation | 自慰 | |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与【异性装】同时使用 |
