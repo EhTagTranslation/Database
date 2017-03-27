@@ -297,6 +297,7 @@
 | wolf girl | 狼女孩 | |
 | dog girl | 狗女孩 | |
 | horse girl | 马女孩 | |
+| snake girl | 蛇女 | |
 | orc | 兽人 | 不得与【猪男】、【猪女】混淆。 |
 | pig | 猪 | 不得给【毛皮】人物添加该标签，应该使用【猪男】或【猪女】。 |
 | furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。一些拟人度低的人外 长有兽毛 |
@@ -316,3 +317,4 @@
 | multiple penises | 鸡鸡复鸡鸡 | ![图](http://exhentai.org/t/db/4f/db4ff92cbf0336e3582f75f8fc977a3a6b546cc0-48539-600-845-jpg_l.jpg)![图](http://exhentai.org/t/b2/70/b2705dfdf0897c9d30340cffa8cdb246ee34eac3-57806-600-852-jpg_l.jpg)![图](http://exhentai.org/t/67/10/67102fa792ec050c41f6bf07a1d4a71e32089e3f-56861-600-841-jpg_l.jpg)![图](http://exhentai.org/t/5e/e4/5ee402423f4b507ec8c3a8a24e783f4f9201df3e-115878-1200-850-jpg_l.jpg) |
 | muscle | 肌肉型 | |
 | cheerleader | 拉拉队员 | |
+| heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰的在整个画廊保持这种特点。<br>![图](http://exhentai.org/t/76/30/7630dfa09dd71f8c7050d26f172bb84319bee875-3327854-2045-3025-jpg_l.jpg)![图](http://exhentai.org/t/ad/a9/ada91cd7292b5c4aa6923db0236deb85413ca5b8-10533332-8483-12000-jpg_l.jpg) |
