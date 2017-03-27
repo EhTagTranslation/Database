@@ -1,4 +1,4 @@
-# 协议
+﻿# 协议
 **Wiki数据库内容归全体编辑者共同所有，在Wiki里发布内容即表示您允许将您编辑的内容无偿且自由的使用到EhTagTranslator中。**
 
 **允许第三方项目使用本项目Wiki数据库，但请使用的项目提交一份附上项目的简介或地址的Issues。**
@@ -66,7 +66,7 @@
 
 ![未知Tag](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3sq8m9qngj20fn0agwgb.jpg)
 
-之后在弹出的ehwiki中能看到英文解释，将这段拿去翻译来理解。
+之后在弹出的ehwiki中能看到英文解释，将图中红色选中这段拿去翻译来理解。
 
 ![ehwiki](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3sqabsm7aj20pu0amwi8.jpg)
 
