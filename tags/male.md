@@ -18,7 +18,7 @@
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
 | doll joints | 关节娃娃 | 有圆形或镶嵌的人工关节。 |
-| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于非人形的 cosplay。 |
+| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于对非人形的Cosplay(cosplaying)。 |
 | inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。 |
 | invisible | 透明 | 一个透明人参与了性行为。 |
 | multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |
