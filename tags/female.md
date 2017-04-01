@@ -19,7 +19,7 @@
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应该用于扶她(futanari)和人妖(shemale)，不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
 | doll joints | 关节娃娃 | 有圆形或镶嵌的人工关节。 |
-| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于非人形的 cosplay。 |
+| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于对非人形的Cosplay(cosplaying)。 |
 | inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。<br>常由于被填充有气体，触手(tentacles)，卵(eggs)，液体，<br>或者大量射精或灌肠导致的腹部膨胀，<br>特点圆滑类似怀孕 <br> ![膨胀](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg)![病](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_250.jpg) |
 | invisible | 透明 | 一个透明人参与了性行为。 |
 | multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |
