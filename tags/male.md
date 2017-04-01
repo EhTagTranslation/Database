@@ -6,13 +6,27 @@
 | -------- | ---------------------- | ---------------------------------------- |
 | | ==Age== | ==年龄== |
 | age progression | 年龄增长 | 年龄迅速增长 |
-| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与【缩小】(shrinking)混淆 |
-| dilf | 熟男 | 看上去像30-50岁的男性，不一定是【父亲】(father)。不得与【老人】(old man)混淆 |
+| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与缩小(shrinking)混淆 |
+| dilf | 熟男 | 看上去像30-50岁的男性，不一定是父亲(father)。不得与老人(old man)混淆 |
 | infantilism | 幼稚型 | 将成年人当作小孩对待 |
-| low shotacon | 未通过正太 | 表示【正太】(shotacon)的情况没有通过存在规则(presence rule)<br>需要【正太】(shotacon)标签 |
-| old man | 老人 | 看起来在50岁以上的男性，不得与【熟男】(dilf)混淆 |
+| low shotacon | 未通过正太 | 表示正太(shotacon)的情况没有通过存在规则(presence rule)<br>需要正太(shotacon)标签 |
+| old man | 老人 | 看起来在50岁以上的男性，不得与熟男(dilf)混淆 |
 | shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
 | toddlercon | 幼儿 | 学步的儿童 |
+| | ==Body== | ==身体== |  |
+| amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](https://exhentai.org/t/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg) |
+| body modification | 身体改造 | 以人工方式替换身体的某些部位。不应与变身(transformation)混淆。  |
+| conjoined | 连体 | 两个或更多的头分享同一个身体。 |
+| doll joints | 关节娃娃 | 有圆形或镶嵌的人工关节。 |
+| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于非人形的 cosplay。 |
+| inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。 |
+| invisible | 透明 | 一个透明人参与了性行为。 |
+| multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |
+| muscle | 肌肉 | 肌肉发达的角色<br>![例](http://exhentai.org/t/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg) |
+| muscle growth | 肌肉成长 | 肌肉产生或变大。 |
+| stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
+| tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
+| wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
 | | ▼ Body | 身体 |
 | | > Skin | 皮肤 | 
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。（褐色肌）<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) |
@@ -44,18 +58,17 @@
 | anal | 肛交 | 阴茎插入肛门，或是任何物体都可以（如性玩具、触手等）。(アナル)<br>这背后一定有肮脏的PY交易<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) |
 | double anal | 双棒入菊 | 两根阴茎插入一个肛门。(一ケツ二チン)<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) |
-| muscle | 肌肉 | 肌肉发达的角色<br>![例](http://exhentai.org/t/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg) |
 | sole male | 单男主 | 只有一个男性角色 |
 | demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔女孩(demon girl)或鬼(oni)标签混淆。恶魔不应该被标记为怪物(monster)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼(devil)和梦魇(incubus)是同义词。<br>![图](http://exhentai.org/t/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg)![图](http://exhentai.org/t/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg) |
 | layer cake | 夹心蛋糕 | 阴茎在2个阴道之间摩擦。可能涉及每个阴道之间交替插入。<br>需要乱交(group)标签<br>拥有阴茎的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) |
 | blowjob | 口交 | 涉及的嘴和阴茎的性。<br>不要与吸球(ball sucking)混淆。<br>是口交颜(blowjob face)、深喉(deepthroat)的前置标签。<br>给予口交者的性别确定将标签放置在女性或男性的命名空间中。<br>![图](http://exhentai.org/t/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg)![图](http://exhentai.org/t/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>做舔动作的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg)![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
-| pig man | 猪男 | 【猪女】的男性版本。不得与【猪】或【兽人】混淆。 |
-| orc | 兽人 | 不得与【猪男】、【猪女】混淆。 |
-| pig | 猪 | 不得给【毛皮】人物添加该标签，应该使用【猪男】或【猪女】。 |
-| bull | 牛 | 任何类型的雄性牛科动物，不要与【牛女孩】混淆，不得给【毛皮】人物添加该标签，应该使用【牛男】。 |
-| cowman | 牛男 | 【牛女孩】的男性版本，不要与【牛】混淆。 |
+| pig man | 猪男 | 猪女的男性版本。不得与猪或兽人混淆。 |
+| orc | 兽人 | 不得与猪男、猪女混淆。 |
+| pig | 猪 | 不得给毛皮人物添加该标签，应该使用猪男或猪女。 |
+| bull | 牛 | 任何类型的雄性牛科动物，不要与牛女孩混淆，不得给毛皮人物添加该标签，应该使用牛男。 |
+| cowman | 牛男 | 牛女孩的男性版本，不要与牛混淆。 |
 | furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
@@ -70,21 +83,20 @@
 | business suit | 西装 | |
 | breast feeding | 哺乳 | |
 | tracksuit | 运动服 | |
-| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要【束缚】标签。不得与【寻欢洞】、【虫洞】混淆。 |
-| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与【卡在墙上】、【虫洞】混淆。 |
-| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与【卡在墙上】、【寻欢洞】、【感官共享】混淆。 |
-| shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与【虫洞】混淆。 |
-| virginity | 丧失童贞 | 男性失去童贞，不得与女性的【破处】混淆。 |
+| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
+| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
+| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
+| shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与虫洞混淆。 |
+| virginity | 丧失童贞 | 男性失去童贞，不得与女性的破处混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | teacher | 教师 | |
 | coach | 教练 | |
 | tutor | 家庭教师 | |
 | glasses | 眼镜 | |
 | masturbation | 自慰 | |
-| schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与【异性装】同时使用 |
-| tomgirl | 伪娘 | 通常误认为是女性的男性，通常与【异性装】同时出现，不得与【扶她】混淆 |
+| schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
+| tomgirl | 伪娘 | 通常误认为是女性的男性，通常与异性装同时出现，不得与扶她混淆 |
 | ghost | 幽灵 | |
-| invisible | 透明 | |
 | condom | 避孕套 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
