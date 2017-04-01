@@ -210,3 +210,10 @@
 | maya jouga | 条河麻耶 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | megumi natsu | 奈津惠 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | mocha hoto | 保登摩卡 | ![保登摩卡](https://exhentai.org/t/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg) |
+| | ▼我的脑内恋碍选项 角色 |  |
+|  |  | ![]() |
+|  |  | ![]() |
+|  |  | ![]() |
+|  |  | ![]() |
+|  |  | ![]() |
+|  |  | ![]() |
