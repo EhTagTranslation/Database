@@ -37,3 +37,4 @@
 | narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) |
 | akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと作品](https://farm8.staticflickr.com/7741/26990957842_e6fbd157af_m.jpg) |
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |
+| ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |
