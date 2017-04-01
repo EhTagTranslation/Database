@@ -10,7 +10,7 @@
 | archetype | ARCHETYPE | あかざ(Akaza)的社团名，袜控。<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) |
 | afterschool of the 5th year | 5年目の放課後  | 监督(Kantoku)的社团名。<br>![Kantoku作品](http://ul.ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |
 | tsf no f | TSF的F |以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](https://exhentai.org/t/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg)|
-| number2 | Number2 | ![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg)
+| number2 | ![Logo](http://number2-takuji.com/favicon.ico)Number2 | ![Banner](http://number2-takuji.com/banner.gif) <br> ![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg)
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg) |
