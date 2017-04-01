@@ -211,9 +211,13 @@
 | megumi natsu | 奈津惠 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | mocha hoto | 保登摩卡 | ![保登摩卡](https://exhentai.org/t/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg) |
 | | ▼我的脑内恋碍选项 角色 |  |
-|  |  | ![]() |
-|  |  | ![]() |
-|  |  | ![]() |
-|  |  | ![]() |
-|  |  | ![]() |
-|  |  | ![]() |
+| chocolat | 裘可拉 | ![裘可拉](https://ehgt.org/t/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |
+| ayame reikadou | 丽华堂绚女 | ![丽华堂绚女](https://ehgt.org/t/e5/1f/e51ff393eb5aa6e4af0f23cc6d8ba73aeab138c8-209347-1280-1239-jpg_250.jpg) |
+| oka yuoji | 游王子讴歌 | ![游王子讴歌](https://exhentai.org/t/d4/5a/d45ab0547f03c30a4e153b3a4637db164326dc77-2031823-1058-1510-jpg_250.jpg) |
+| furano yukihira | 雪平富良野 | ![雪平富良野](https://exhentai.org/t/62/9f/629ffe5201a513686c2bac5451efe326b87f59be-297757-1000-1407-jpg_l.jpg) |
+| | ▼我女友与青梅竹马的惨烈修罗场 角色 |  |
+| chiwa harusaki | 春咲千和 | ![春咲千和](https://exhentai.org/t/55/dc/55dc0b600b35129afd6ed7a06b41c8c2caa74671-1850327-1272-1800-jpg_l.jpg) |
+| eita kidou | 季堂锐太 | ![季堂锐太](https://exhentai.org/t/f9/aa/f9aaffd09dabe9085a2bef2a2fc4c1b17b967e42-556245-1280-1024-jpg_l.jpg) |
+| masuzu natsukawa | 夏川真凉 | ![夏川真凉](https://exhentai.org/t/1d/e8/1de84c0c1350b5205b3e7408ce9a8129adf59286-1227868-1482-2100-jpg_l.jpg) |
+| himeka akishino | 秋篠姬香 | ![秋篠姬香](https://exhentai.org/t/c1/4b/c14b838eeb2e3b6c8e9b9fc1e1fd5104d6d968e7-785787-1280-1024-jpg_l.jpg) |
+| ai fuyuumi | 冬海爱衣 | ![冬海爱衣](https://exhentai.org/t/2d/23/2d2392bd2c85b3685a03a08a4461797fe36e6bd5-884316-1280-1024-jpg_l.jpg) |
