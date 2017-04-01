@@ -221,3 +221,17 @@
 | masuzu natsukawa | 夏川真凉 | ![夏川真凉](https://exhentai.org/t/1d/e8/1de84c0c1350b5205b3e7408ce9a8129adf59286-1227868-1482-2100-jpg_l.jpg) |
 | himeka akishino | 秋篠姬香 | ![秋篠姬香](https://exhentai.org/t/c1/4b/c14b838eeb2e3b6c8e9b9fc1e1fd5104d6d968e7-785787-1280-1024-jpg_l.jpg) |
 | ai fuyuumi | 冬海爱衣 | ![冬海爱衣](https://exhentai.org/t/2d/23/2d2392bd2c85b3685a03a08a4461797fe36e6bd5-884316-1280-1024-jpg_l.jpg) |
+| | ▼我的妹妹不可能那么可爱 角色 |  |
+| kyousuke kousaka | 高坂京介 | ![高坂京介](https://ehgt.org/88/3a/883a07dfca2577c54c01d0a92be2d72d5240b136-2180731-2521-3600-jpg_l.jpg) |
+| kirino kousaka | 高坂桐乃 | ![高坂桐乃](https://ehgt.org/0d/4e/0d4ed88f476242fd7657942d6eeb1ff3349b5110-2114456-2521-3600-jpg_l.jpg) |
+| ruri gokou | 五更琉璃（黑猫） | ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg) |
+| ayase aragaki | 新垣绫濑 | ![新垣绫濑](https://ehgt.org/t/0c/4e/0c4ef50e6484947d645d81fcea2470757ed2bc99-1252278-1069-1517-png_l.jpg) |
+| saori makishima | 槙岛沙织（沙织·巴吉纳） | ![槙岛沙织](https://exhentai.org/t/b8/4c/b84cdc17bb3062760056c4cbd14015f28959f278-647111-1100-1600-jpg_l.jpg) |
+| kanako kurusu | 来栖加奈子 | ![来栖加奈子](https://exhentai.org/t/d9/6a/d96a76febd0cb8e63ed523f1a69ef0f5a0192486-4053707-2130-3020-jpg_l.jpg) |
+| bridget evans | 布莉姬·伊凡斯 | ![布莉姬·伊凡斯](https://exhentai.org/t/fe/2e/fe2ec8f9f81aa3968b5632aa2b0a2a9e8f96e3ac-513792-1410-2000-jpg_250.jpg) |
+| sena akagi | 赤城濑菜 | ![赤城濑菜](https://exhentai.org/t/39/12/39122802fcd3a60fd6dfe013def14d781787e604-982749-2000-2825-jpg_l.jpg) |
+| kouhei akagi | 赤城浩平 | ![赤城浩平](https://ehgt.org/t/46/5c/465c5a6aae1ce515b8414f9f79a4212d87c60120-221608-781-1100-jpg_l.jpg) |
+| manami tamura | 田村麻奈实 | ![田村麻奈实](https://ehgt.org/32/49/324965c67555e5e98b4ac3db5359a3c0c7322929-411312-1280-720-jpg_l.jpg) |
+| daisuke kousaka | 高坂大介 | ![高坂大介](https://exhentai.org/t/b8/f6/b8f6080f5f63e9f5132d400ec08bba2079901382-730717-1200-1400-jpg_l.jpg) |
+| tamaki gokou | 五更珠希 | ![五更珠希](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |
+| hinata gokou | 五更日向 | ![五更日向](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |
