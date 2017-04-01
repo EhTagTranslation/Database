@@ -14,6 +14,21 @@
 | milf | 熟女 | 看上去像30-50岁的女性，不一定是【母亲】(mother)。不得与【老女人】(old lady)混淆 |
 | old lady | 老女人 | 看起来在50岁以上的女性，不得与【熟女】(milf)混淆 |
 | toddlercon | 幼女 | 学步的儿童 |
+| | ==Body== | ==身体== |  |
+| amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg)![恶](http://exhentai.org/t/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg)![恶](http://exhentai.org/t/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg) |
+| body modification | 身体改造 | 以人工方式替换身体的某些部位。不应该用于扶她(futanari)和人妖(shemale)，不应与变身(transformation)混淆。  |
+| conjoined | 连体 | 两个或更多的头分享同一个身体。 |
+| doll joints | 关节娃娃 | 有圆形或镶嵌的人工关节。 |
+| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于非人形的 cosplay。 |
+| inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。<br>常由于被填充有气体，触手(tentacles)，卵(eggs)，液体，<br>或者大量射精或灌肠导致的腹部膨胀，<br>特点圆滑类似怀孕 <br> ![膨胀](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg)![病](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_250.jpg) |
+| invisible | 透明 | 一个透明人参与了性行为。 |
+| multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |
+| multiple breasts | 多对乳房 |  一个人拥有两个以上的乳房。 |
+| muscle | 肌肉 | 肌肉发达的角色<br>![例](https://exhentai.org/t/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg) |
+| muscle growth | 肌肉成长 | 肌肉产生或变大。 |
+| stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
+| tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
+| wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
 | | ▼ Legs | 腿 |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
 | kneepit sex | 膝里性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。<br>不应与股间性交(sumata)混淆<br>使用膝盖的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg)![图](http://exhentai.org/t/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg)![图](http://exhentai.org/t/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg)![](http://exhentai.org/t/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg)![图](http://exhentai.org/t/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg)![图](http://exhentai.org/t/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg) |
@@ -106,13 +121,10 @@
 | psssession | 占据 | 皮类常用标签 |
 | absorb | 融合 | 皮类常用标签 |
 | unbirth | 从B钻出来 |  |
-| inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。<br>常由于被填充有气体，触手，卵，液体，<br>或者一些大量射精或灌肠导致腹部膨胀，<br>特点圆滑类似怀孕 <br> ![inflation](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg)![病](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_250.jpg) |
 | bestiality | 兽奸 |  |
 | mind control | 精神控制 |  |
 | femdom | 女性支配 |  |
 | sweating | 出汗 |  |
-| tailjob | 尾巴性交 |  |
-| body modification | 身体改造 |  |
 | emotionless sex | 性冷淡 |  |
 | big clit | 大阴蒂 |  |
 | whip | 鞭打 |  |
@@ -152,7 +164,6 @@
 | dark skin | 暗色皮肤 |  |
 | maid | 女仆 |  |
 | bukkake | 精液覆盖 | ぶっかけ(Bukkake)性主角被精液覆盖，一般不止一个人射精。不像颜射一般局限于性伴侣的脸上，而是射出精液在在身体的任何部位都可以。<br>被射精的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg)![图](http://exhentai.org/t/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg)![图](http://exhentai.org/t/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg)![图](http://exhentai.org/t/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg) |
-| doll joints | 关节娃娃 |  |
 | rape | 强奸 |  |
 | twins | 双胞胎 |  |
 | elf | 精灵 |  |
@@ -166,7 +177,6 @@
 | catgirl | 猫女 |  |
 | big balls | 大的睾丸 | 这里指扶她(futanari)的睾丸 |
 | harpy | 鸟人 |  |
-| stretching | 拉伸 | 超出正常人能做到的<br>不要用到任何应该标记为触手(tentacles)的地方 |
 | exhibitionism | 漏阴癖 |  |
 | ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。<br>如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](http://exhentai.org/t/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg)![图](http://exhentai.org/t/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg) |
 | urination | 放尿 |  |
@@ -207,7 +217,6 @@
 | blood | 血液 |  |
 | guro | 肢解 | 肢解人类或有毛皮的。温和的血液或暴力不符合本Tag。<br>不应与杀害(snuff)混淆。不需要血液(blood)标记。<br>被肢解的人的性别决定放入女性还是男性的命名空间。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。<br>![恶](http://exhentai.org/t/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg)![恶](http://exhentai.org/t/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg)![恶](http://exhentai.org/t/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg) |
 | snuff | 杀害 | 杀害人类或有毛皮的。<br>不应与肢解(guro)混淆。<br>被杀害的人的性别决定放入女性还是男性的命名空间。<br>同义词：执刑(execution)、杀害(kill)、谋杀(murder)、自杀(suicide)<br>画廊只需要包含一张这种性质的图片就需要打上此标签。<br>![恶](http://exhentai.org/t/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg)![恶](http://exhentai.org/t/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg)![恶](http://exhentai.org/t/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg) |
-| amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg)![恶](http://exhentai.org/t/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg)![恶](http://exhentai.org/t/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg) |
 | piercing | 刺穿 | 任何形式的穿孔除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>被穿孔的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg)![恶](http://exhentai.org/t/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg) |
 | eye penetration | 插入眼睛 | 在眼或眼窝性交<br>不应与眼射(cum in eye)标签混淆。<br>被插入眼睛的人的性别决定放入女性还是男性的命名空间。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。<br>![恶](http://exhentai.org/t/90/f5/90f54422ff4f0475452436960a98aadadc788386-101291-800-600-jpg_250.jpg)![恶](http://exhentai.org/t/e3/cb/e3cb554e3f7c00b4dce5e48008e2f5d57a60a115-57627-600-436-jpg_l.jpg)![恶](http://exhentai.org/t/bc/cd/bccd434adb287c0bbd7cb9ef1da47b191c5fbd60-609804-381-600-png_l.jpg) |
 | cum in eye | 眼射 | 射精到一个人的眼睛。<br>不应与插入眼睛(eye penetration)标签混淆。 |
@@ -234,7 +243,6 @@
 | oil | 油 |  |
 | big vagina | 大阴道 | ![图](http://exhentai.org/t/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg)![图](http://exhentai.org/t/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg)![图](http://exhentai.org/t/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg) |
 | drunk | 醉酒 |  |
-| multiple breasts | 多对乳房 | 大于两个 |
 | monster girl | 怪物女孩 |  
 | centaur | 半人马 | |
 | insect | 昆虫 |  |
@@ -311,10 +319,8 @@
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与【卡在墙上】、【寻欢洞】、【感官共享】混淆。 |
 | shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与【虫洞】混淆。 |
 | ghost | 幽灵 | |
-| invisible | 透明 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
 | multiple penises | 鸡鸡复鸡鸡 | ![图](http://exhentai.org/t/db/4f/db4ff92cbf0336e3582f75f8fc977a3a6b546cc0-48539-600-845-jpg_l.jpg)![图](http://exhentai.org/t/b2/70/b2705dfdf0897c9d30340cffa8cdb246ee34eac3-57806-600-852-jpg_l.jpg)![图](http://exhentai.org/t/67/10/67102fa792ec050c41f6bf07a1d4a71e32089e3f-56861-600-841-jpg_l.jpg)![图](http://exhentai.org/t/5e/e4/5ee402423f4b507ec8c3a8a24e783f4f9201df3e-115878-1200-850-jpg_l.jpg) |
-| muscle | 肌肉型 | |
 | cheerleader | 拉拉队员 | |
 | heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰的在整个画廊保持这种特点。<br>![图](http://exhentai.org/t/76/30/7630dfa09dd71f8c7050d26f172bb84319bee875-3327854-2045-3025-jpg_l.jpg)![图](http://exhentai.org/t/ad/a9/ada91cd7292b5c4aa6923db0236deb85413ca5b8-10533332-8483-12000-jpg_l.jpg) |
