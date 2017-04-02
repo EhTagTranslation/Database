@@ -248,3 +248,12 @@
 | satoshi tainaka | 田井中聪 | ![田井中聪](https://exhentai.org/t/d1/76/d17632cbec18cc492bb39f20ef3c64723c13f81e-1517181-2090-3000-jpg_l.jpg) |
 | sumire saitou | 齐藤堇 | ![齐藤堇](https://exhentai.org/t/c7/d8/c7d89fdaabf86a23aa74d61dca1a9e364171c6fc-6163201-1439-2021-png_250.jpg) |
 | megumi sokabe | 曾我部惠 | |
+| | ▼我的青春恋爱物语果然有问题 角色 |  |
+| yui yuigahama | 由比滨结衣 | ![由比滨结衣](https://ehgt.org/89/38/8938bf5cb7098806fc2a3607728e64f25b91b7c6-185458-960-544-jpg_l.jpg) |
+| hachiman hikigaya | 比企谷八幡 | ![比企谷八幡](https://ehgt.org/3c/c9/3cc9d8c6ab2160cd9929b076cb551dba0b9e5f35-113039-960-544-jpg_l.jpg) |
+| yukino yukinoshita | 雪之下雪乃 | ![雪之下雪乃](https://ehgt.org/57/c8/57c83bdddf676f8ff84d7fbd821321b0482ce71c-97454-960-544-jpg_l.jpg) |
+| iroha isshiki | 一色彩羽 | ![一色彩羽](https://ehgt.org/40/d1/40d1439e4d21088aa45ca10f9a60f3714dc56a5c-142351-960-544-jpg_l.jpg) |
+| hayato hayama | 叶山隼人 | ![叶山隼人](https://ehgt.org/t/82/ad/82ad7938b569e9034d6f62be5ea192196b31a193-687472-1920-2883-jpg_l.jpg) |
+| saika totsuka | 户冢彩加 | ![户冢彩加](https://ehgt.org/t/4d/b1/4db1072304b66f66fc8a641ecb908a7eefee63e7-854698-1920-2812-jpg_l.jpg) |
+| haruno yukinoshita | 雪之下阳乃 | ![雪之下阳乃](https://exhentai.org/t/a2/e1/a2e10e6ab8a7e258f170e06799cba4fb496013d2-4469908-2130-3000-jpg_l.jpg) |
+| shizuka hiratsuka | 平冢静 | ![平冢静](https://ehgt.org/7a/1b/7a1bf96379495bd0188b2dc4f41d9ae38fa4ff5e-104471-960-544-jpg_l.jpg) |
