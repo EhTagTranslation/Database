@@ -235,3 +235,16 @@
 | daisuke kousaka | 高坂大介 | ![高坂大介](https://exhentai.org/t/b8/f6/b8f6080f5f63e9f5132d400ec08bba2079901382-730717-1200-1400-jpg_l.jpg) |
 | tamaki gokou | 五更珠希 | ![五更珠希](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |
 | hinata gokou | 五更日向 | ![五更日向](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |
+| | ▼K-ON 角色 |  |
+| azusa nakano | 中野梓 | ![中野梓](https://ehgt.org/20/00/2000e34ee71ff2cd460511bf72243a3fb8dc76d7-631282-2452-3834-jpg_l.jpg) |
+| jun suzuki | 铃木纯 | ![铃木纯](https://ehgt.org/50/04/5004480cfb0c9c597ccf646f8cb19afbfe9080dd-1147183-1920-1200-png_l.jpg) |
+| mio akiyama | 秋山澪 | ![秋山澪](https://ehgt.org/22/e7/22e7a7e774123e6046b917fea37f1b4650ebe52d-681429-2448-3832-jpg_l.jpg) |
+| ritsu tainaka | 田井中律 | ![田井中律](https://ehgt.org/d4/27/d4272505f8de03a5f0271fec4557a2d0a322a6a3-487201-2451-3834-jpg_l.jpg) |
+| sawako yamanaka | 山中佐和子 | ![山中佐和子](https://exhentai.org/t/dc/00/dc000c4ba6ed427a35cf9d0f47f5a4a0334d96f7-163825-800-800-jpg_250.jpg) |
+| tsumugi kotobuki | 琴吹䌷 | ![琴吹䌷](https://ehgt.org/95/49/9549d30caad13bec29fba7d22caa66d44133b919-676092-2451-3829-jpg_l.jpg) |
+| ui hirasawa | 平泽忧 | ![平泽忧](https://exhentai.org/t/7e/c1/7ec14c3b1183ca351646513fafea82e4ac272a40-1083644-2144-3030-jpg_l.jpg) |
+| yui hirasawa | 平泽唯 | ![平泽唯](https://ehgt.org/52/cc/52cc718dd07fa1da0a3069bdbca1c93a3c8a496d-638009-2448-3829-jpg_l.jpg) |
+| nodoka manabe | 真锅和 | ![真锅和](https://exhentai.org/t/71/ef/71efa492c6682f11415ec00d76d472aa9ea39da2-395433-2000-2831-jpg_l.jpg) |
+| satoshi tainaka | 田井中聪 | ![田井中聪](https://exhentai.org/t/d1/76/d17632cbec18cc492bb39f20ef3c64723c13f81e-1517181-2090-3000-jpg_l.jpg) |
+| sumire saitou | 齐藤堇 | ![齐藤堇](https://exhentai.org/t/c7/d8/c7d89fdaabf86a23aa74d61dca1a9e364171c6fc-6163201-1439-2021-png_250.jpg) |
+| megumi sokabe | 曾我部惠 | |
