@@ -257,3 +257,11 @@
 | saika totsuka | 户冢彩加 | ![户冢彩加](https://ehgt.org/t/4d/b1/4db1072304b66f66fc8a641ecb908a7eefee63e7-854698-1920-2812-jpg_l.jpg) |
 | haruno yukinoshita | 雪之下阳乃 | ![雪之下阳乃](https://exhentai.org/t/a2/e1/a2e10e6ab8a7e258f170e06799cba4fb496013d2-4469908-2130-3000-jpg_l.jpg) |
 | shizuka hiratsuka | 平冢静 | ![平冢静](https://ehgt.org/7a/1b/7a1bf96379495bd0188b2dc4f41d9ae38fa4ff5e-104471-960-544-jpg_l.jpg) |
+| | ▼中二病也要谈恋爱 角色 |  |
+| yuuta togashi | 富㭴勇太 | ![富㭴勇太](https://ehgt.org/d7/5a/d75af54a2ab9d2b44a5784c8f65a00ae66e6e80f-785783-2605-1750-jpg_l.jpg) |
+| rikka takanashi | 小鸟游六花 | ![小鸟游六花](https://ehgt.org/3e/42/3e42d2de07314dfe8b623aa3c95869e2b0adab3d-613529-1252-2641-jpg_l.jpg) |
+| kumin tsuyuri | 五月七日茴香 | ![五月七日茴香](https://ehgt.org/42/1c/421ccda1d460bafaac12d69dd83eae3f20e73d4f-856502-1402-2602-jpg_l.jpg) |
+| shinka nibutani | 丹生谷森夏 | ![丹生谷森夏](https://ehgt.org/8b/bd/8bbd55775e5201f70332eb3d702a022bdda51d7c-814113-1550-2776-jpg_l.jpg)<br>![CP](https://ehgt.org/a2/33/a233f29c2eecf8d8f4c3b269959d1407705a0b90-747654-1550-2254-jpg_l.jpg) |
+| sanae dekomori | 凸守早苗 | ![凸守早苗](https://ehgt.org/ed/56/ed56fe7b2b3e4a48c814259c157519e3eef9454e-618487-1500-2524-jpg_l.jpg)<br>![CP](https://ehgt.org/a2/33/a233f29c2eecf8d8f4c3b269959d1407705a0b90-747654-1550-2254-jpg_l.jpg) |
+| satone shichimiya | 七宫智音 | ![七宫智音](https://ehgt.org/38/18/381816eac21ee8019703084e956d8fdd49a7c29f-617552-1550-2264-jpg_l.jpg) |
+| touka takanashi | 小鸟游十花 | ![小鸟游十花](https://ehgt.org/3d/f6/3df6b804f019a38a4b6c843daac9662d27cea7d2-543872-1550-2249-jpg_l.jpg) |
