@@ -265,3 +265,23 @@
 | sanae dekomori | 凸守早苗 | ![凸守早苗](https://ehgt.org/ed/56/ed56fe7b2b3e4a48c814259c157519e3eef9454e-618487-1500-2524-jpg_l.jpg)<br>![CP](https://ehgt.org/a2/33/a233f29c2eecf8d8f4c3b269959d1407705a0b90-747654-1550-2254-jpg_l.jpg) |
 | satone shichimiya | 七宫智音 | ![七宫智音](https://ehgt.org/38/18/381816eac21ee8019703084e956d8fdd49a7c29f-617552-1550-2264-jpg_l.jpg) |
 | touka takanashi | 小鸟游十花 | ![小鸟游十花](https://ehgt.org/3d/f6/3df6b804f019a38a4b6c843daac9662d27cea7d2-543872-1550-2249-jpg_l.jpg) |
+| | ▼守望先锋 角色 |  |
+| mercy | 天使 | ![](https://ehgt.org/3a/74/3a7481fa86013292b904e37f2bfc81f7d757efc2-8661127-3267-2476-jpg_l.jpg) |
+| tracer | 猎空 | ![](https://ehgt.org/6f/32/6f327b72a308ecb6b8b9f27928ea891a5c48800f-8471943-3267-2476-jpg_l.jpg) |
+| widowmaker | 黑百合 | ![](https://ehgt.org/29/a0/29a058dd6aaa0ccd49c9a9f098de0072ec6f54db-8442967-3267-2476-jpg_l.jpg) |
+| mei | 美 | ![](https://ehgt.org/96/c8/96c8cdf6bcebbc6b45d571408c2e89f73ac5837e-8171132-3267-2476-jpg_l.jpg) |
+| d.va | D.VA | ![](https://ehgt.org/49/39/4939aeb6bf4f575bca60912afdb445d96111fd72-8610156-3267-2476-jpg_l.jpg) |
+| zarya | 查莉娅 | ![](https://ehgt.org/21/c9/21c9283a320e30ecf993405a41243ecf12baae56-8783620-3267-2476-jpg_l.jpg) |
+| genjii | 源氏 | ![](https://ehgt.org/14/ce/14ce3f0478756a8eef63f26dcd6f00ae29978e7a-8056439-3267-2476-jpg_l.jpg) |
+| junkrat | 狂鼠 | ![](https://ehgt.org/99/61/996127efa4f8dd992aa36c3b41b6f83acb6cb9ba-8635523-3267-2476-jpg_l.jpg) |
+| roadhog | 路霸 | ![](https://ehgt.org/e8/64/e8647365bc3aa2f67bb90dc911f09e1055d7048c-9109991-3267-2476-jpg_l.jpg) |
+| pharah | 法老之鹰 | ![](https://ehgt.org/4a/ac/4aac8df9ae3844d3e0df72f3b2bd424fb344046b-8301539-3267-2476-jpg_l.jpg) |
+| soldier 76 | 士兵：76 | ![](https://ehgt.org/6d/c7/6dc76e6b88bcc6e6b91ccc9b37f09f839d34e154-8146761-3267-2476-jpg_l.jpg) |
+| symmetra | 秩序之光 | ![](https://ehgt.org/bb/f2/bbf294ed0b338a6904b0dc30bbb569ad746de138-8759364-3267-2476-jpg_l.jpg) |
+| winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) |
+| |  ▼光环 角色 | |
+| cortana | 科塔娜 | ![](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) |
+| |  ▼半衰期 角色 | |
+| gordon freeman | 戈登·弗里曼 | ![](https://ehgt.org/57/6c/576ce520de6f560ac2cb8caea773830ba751bbdc-2157467-1603-2222-jpg_l.jpg) |
+| |  ▼传送门 角色 | |
+| chell | 雪儿 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
