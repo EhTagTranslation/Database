@@ -118,6 +118,14 @@
 | kono subarashii sekai ni syukufuku o | 为美好的世界献上祝福！ | ![图](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |
 | ore no kanojo to osananajimi ga shuraba sugiru | 我女友与青梅竹马的惨烈修罗场 | ![俺の彼女と幼なじみが修罗场すぎる](https://ehgt.org/t/52/b4/52b4fd923618bd7ec49eb3ccbae43c979e769110-1060746-1280-1024-jpg_250.jpg) |
 | ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru | 我的脑内恋碍选项 | ![俺の脳内選択肢が、学園ラブコメを全力で邪魔している](https://ehgt.org/t/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |
+| overwatch | 守望先锋 | ![守望屁股](https://ehgt.org/t/07/96/07961652eaffd9de33eb0cdc769e1ba8842d44d4-6893424-3297-2458-jpg_250.jpg) |
+| halo | 光环 | ![halo](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) |
+| mass effect | 质量效应 | ![](https://ehgt.org/t/b5/48/b548bfc5604fcc33d3cd267dcf9906feea21a331-2512119-2292-3056-jpg_250.jpg) |
+| half-life | 半衰期 | ![](https://ehgt.org/t/6a/2e/6a2e048d7e11c70ffd8ce1beeb0796389f7d28b8-855724-1363-1778-jpg_250.jpg) |
+| portal | 传送门 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
+| the witcher | 巫师 | ![](https://ehgt.org/t/eb/bc/ebbc8f12985ac9502e7c7ac6f1d4917a31760f50-90823-647-1000-jpg_250.jpg) |
+| the elder scrolls | 上古卷轴 | 老头滚动条![](https://ehgt.org/t/e0/e0/e0e0bc963d82aa0e34be99f34193a005d0e7430a-319141-1920-1080-jpg_250.jpg) |
+| defense of the ancients | 刀塔 | DotA![](https://ehgt.org/t/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg) |
 
 
 
