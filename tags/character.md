@@ -192,7 +192,6 @@
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  |
 | bell cranel | 贝尔•克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) |
 | hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) |
-| emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主. <br>![爱蜜莉雅](http://7xw6zm.com1.z0.glb.clouddn.com/emilia.png) |
 | | ▼为美好的世界献上祝福 角色 |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |
 | megumin | 惠惠 | ![惠惠](https://exhentai.org/t/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg) |
@@ -285,3 +284,21 @@
 | gordon freeman | 戈登·弗里曼 | ![](https://ehgt.org/57/6c/576ce520de6f560ac2cb8caea773830ba751bbdc-2157467-1603-2222-jpg_l.jpg) |
 | |  ▼传送门 角色 | |
 | chell | 雪儿 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
+| |  ▼Re0 角色 | |
+| emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主. <br>![爱蜜莉雅](http://7xw6zm.com1.z0.glb.clouddn.com/emilia.png) |
+| ram | 拉姆 | ![拉姆](https://exhentai.org/t/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg) |
+| rem | 雷姆 | ![雷姆](https://exhentai.org/t/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg) |
+| subaru natsuki | 菜月昴 | ![菜月昴](https://exhentai.org/t/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg) |
+| beatrice | 碧翠丝 | ![碧翠丝](https://exhentai.org/t/16/dc/16dcaca304fe6ea989c4b30483ce48f1d908dc29-302210-850-1189-jpg_l.jpg) |
+| felix argyle | 菲利克斯·阿盖尔 | ![菲利克斯·阿盖尔](https://exhentai.org/t/87/dd/87ddb46ecaf1c433b74aa4f3028e2099c2ea45c7-363173-707-1000-jpg_l.jpg) |
+| felt | 菲鲁特 | ![菲鲁特](https://exhentai.org/t/1c/10/1c10fbf63e54bcc07c14c7891fb80cb2988ae584-1752440-1200-1920-jpg_l.jpg) |
+| roswaal l. mathers | 罗兹瓦尔·L·梅札斯 | ![罗兹瓦尔·L·梅札斯](https://img.moegirl.org/common/thumb/2/2f/%E7%BD%97%E5%85%B9%E7%93%A6%E5%B0%94%C2%B7L%C2%B7%E6%A2%85%E6%9C%AD%E6%96%AF.jpg/250px-%E7%BD%97%E5%85%B9%E7%93%A6%E5%B0%94%C2%B7L%C2%B7%E6%A2%85%E6%9C%AD%E6%96%AF.jpg) |
+| otto suewen | 奥托·苏文 | ![奥托·苏文](https://exhentai.org/t/c8/e7/c8e701fac4ff3135e5e67bf4d05efa5d3eea590a-412310-796-1200-jpg_l.jpg) |
+| julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](https://exhentai.org/t/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg) |
+| elsa granhilte | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](https://exhentai.org/t/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg) |
+| |  ▼路人女主的养成方法 角色 | |
+| megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/t/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) |
+| utaha kasumigaoka | 霞之丘诗羽 | ![霞之丘诗羽](https://ehgt.org/t/e2/f2/e2f26d14ccd531b6096b4ddf6639e83da9f1e98a-197453-650-1000-jpg_l.jpg) |
+| michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/t/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |
+| eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![泽村·斯宾塞·英梨梨](https://exhentai.org/t/de/78/de780d3cc7bae7d3fe42a2bddb7f9a101da3a8c1-1257660-2800-2007-jpg_l.jpg) |
+| izumi hashima | 波岛出海 | ![波岛出海](https://exhentai.org/t/26/b1/26b17a7462f12aa7f5c49fc088ea3d90f88060d7-599437-627-885-png_l.jpg) |
