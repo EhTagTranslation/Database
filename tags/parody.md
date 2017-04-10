@@ -9,7 +9,7 @@
 | touhou project | ![太极](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
 | moetan | 萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 |  | ▼Key社作品 | |
-| clannad | CLANNAD | ![图](http://ul.ehgt.org/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://ul.ehgt.org/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://ul.ehgt.org/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
+| clannad | CLANNAD | ![图](http://ul.ehgt.org/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://ul.ehgt.org/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://exhentai.org/t/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
 | angel beats | Angel Beats! | 麻枝准原创动画第一部<br>![图](http://exhentai.org/t/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg)![图](http://ul.ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg)
 | charlotte | Charlotte | 麻枝准原创动画第二部<br>![图](http://ul.ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |
 |  | ▲Key社作品 | |
@@ -27,14 +27,14 @@
 | to love-ru | To LOVEる | ![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg)![图](http://ul.ehgt.org/4b/db/4bdb998c60aca38332bdbb28360d72d631d36c37-343520-1134-1600-jpg_l.jpg)![图](http://exhentai.org/t/6c/83/6c83940f7cb6bc7838aaa1b88a71a899c3682463-1602431-1130-1600-jpg_l.jpg)![图](http://exhentai.org/t/ce/1e/ce1ecd136d0eb869f3d01582f2cdfd7b15802779-298206-1132-1600-jpg_l.jpg) |
 | ro-kyu-bu | 萝球社 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | ![图](http://ul.ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
-| hyperdimension neptunia | 超次元游戏：海王星 | ![图](https://img.acg.moe/common/thumb/9/95/Choujigen_game_neptune.jpg/250px-Choujigen_game_neptune.jpg) |
-| love live | LoveLive! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) |
-| love live sunshine | Love Live! Sunshine!! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6gy1fdgu7kswlwj209q0ec0v9.jpg) |
+| hyperdimension neptunia | 超次元游戏：海王星 | ![图](http://ww4.sinaimg.cn/large/6c84b2d6gy1fehag2dkwij21hc0u0tqa.jpg) |
+| love live | ![LL](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)LoveLive! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) |
+| love live sunshine | ![LL](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Sunshine!! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6gy1fdgu7kswlwj209q0ec0v9.jpg) |
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](http://ul.ehgt.org/5a/53/5a53888ed5043aa5fe693f05f23e6977531baeb3-367327-588-860-jpg_l.jpg) |
-| vocaloid | V家 | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
+| vocaloid | ![V](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)V家 | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
-| the idolmaster | 偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
+| the idolmaster | ![iM@S](http://wx4.sinaimg.cn/large/6c84b2d6gy1fehbsqrgaig200u00c03t.gif)偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
 | himouto umaru-chan | 干物妹！小埋 | ![图](http://exhentai.org/t/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg) |
 | bakemonogatari | 化物語 | ![图](http://exhentai.org/t/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg)![图](http://exhentai.org/t/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg)![图](http://exhentai.org/t/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg) |
@@ -42,7 +42,7 @@
 | tengen toppa gurren lagann | 天元突破 | ![图](http://ul.ehgt.org/7f/57/7f57b5fe9c80fa170e1e5b1ae108df71d4c055ce-602630-1200-1600-jpg_l.jpg)![图](http://ul.ehgt.org/f3/a0/f3a02ba9088f4282990213ff6a06a1733c0d476f-458325-1125-1600-jpg_l.jpg) |
 | cardcaptor sakura | 魔卡少女樱| ![图](http://ul.ehgt.org/23/68/2368eddf29ed93847a2cf6d2dbf2ff16d46c1107-142448-785-1133-jpg_l.jpg) |
 | mayoi neko overrun | 迷途猫 | ![图](http://ul.ehgt.org/11/24/11244eff647229a9dfa91a226f0595b04e584616-542928-1200-1700-jpg_l.jpg) |
-| outbreak company | 萌萌侵略者 | ![图](http://ul.ehgt.org/4b/55/4b55349b26d1f425109928d09be98bb80e5bcecf-2328939-2149-3000-jpg_l.jpg)![图](http://exhentai.org/t/c3/9c/c39cf717905c2fdb9db6343309c1e2a6ee0263fa-981328-2140-3000-jpg_l.jpg) |
+| outbreak company | 萌萌侵略者 | ![图](http://exhentai.org/t/4b/55/4b55349b26d1f425109928d09be98bb80e5bcecf-2328939-2149-3000-jpg_l.jpg)![图](http://exhentai.org/t/c3/9c/c39cf717905c2fdb9db6343309c1e2a6ee0263fa-981328-2140-3000-jpg_l.jpg) |
 | kyoukai no kanata | 境界的彼方 | ![图](http://ul.ehgt.org/63/09/6309cec6eb0ee71940f1d0b408f1198364f5efa0-926542-1417-2000-jpg_l.jpg) |
 | hataraku maou-sama | 打工吧！魔王大人 | ![图](http://exhentai.org/t/ce/25/ce2528552f9e377a1246348581d3e6cfb344750b-1250556-1481-2100-jpg_l.jpg) |
 | haiyore nyaruko-san | 潜行吧！奈亚子 | ![图](http://exhentai.org/t/1f/39/1f3920cab6a42f7ced12b547a70d665491574993-402737-765-1080-jpg_l.jpg) |
@@ -50,7 +50,7 @@
 | nagi no asukara | 来自风平浪静的明天 | ![图](http://ul.ehgt.org/4d/4f/4d4f77c66e253ade1cb7415485ab2f1b2aca94ef-2575112-2479-3507-jpg_l.jpg) |
 | sekai seifuku bouryaku no zvezda | 世界征服～谋略之星～ | ![图](http://exhentai.org/t/90/1f/901f92557b3009e73a5dccd3354c8776273e9537-1999681-1254-1816-jpg_l.jpg) |
 | no game no life | 游戏人生 | ![图](http://exhentai.org/t/ac/3e/ac3e54bcd913fb0f513e76d9b0b64cc42875942b-2532874-2138-3021-jpg_l.jpg)<br>官方逼死同人↓<br>![官逼人](http://exhentai.org/t/8c/43/8c43d8f851dc53eeee03260dbc6e49db93cb5f64-1068795-2141-3022-jpg_l.jpg) |
-| barakamon | 元气囝仔 | 漫画<br>![图](http://ul.ehgt.org/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg) |
+| barakamon | 元气囝仔 | 漫画<br>![图](http://exhentai.org/t/91/01/9101a896c63cf4ed7aec31807d55362ec1cbd79a-3065190-2463-3500-jpg_l.jpg) |
 | divine gate | 神圣之门 | 游戏<br>![图](http://exhentai.org/t/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg) |
 | sayonara zetsubou sensei | 再见！绝望先生 | 漫画<br>![图](http://ul.ehgt.org/81/40/814081ac108eac6524b2431c7f7e2cf9eedc15d7-2120348-2845-4019-jpg_l.jpg) |
 | highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](http://exhentai.org/t/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg)![图](http://ul.ehgt.org/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |
@@ -127,6 +127,6 @@
 | the elder scrolls | 上古卷轴 | 老头滚动条 ![](https://ehgt.org/t/e0/e0/e0e0bc963d82aa0e34be99f34193a005d0e7430a-319141-1920-1080-jpg_250.jpg) |
 | defense of the ancients | 刀塔 | DotA ![](https://ehgt.org/t/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg) |
 | re zero kara hajimeru isekai seikatsu | Re：从零开始的异世界生活 | ![Re0](https://exhentai.org/t/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_250.jpg) |
-| saenai heroine no sodatekata | 路人女主的养成方法 | ![路人女主的养成方法](https://ehgt.org/f0/14/f01424c09dba024ec93776a4d6560aef8c692201-914613-2054-1600-jpg_l.jpg) |
+| saenai heroine no sodatekata | 路人女主的养成方法 | ![图](http://ehgt.org/t/da/db/dadbd1c61eb9be7ee6b7a6fd5096e640d9acaf6a-978065-1027-1500-jpg_l.jpg)![路人女主的养成方法](http://ehgt.org/t/54/db/54db9289fe26805504ff938136f415edfac4f4ff-690684-1920-1080-jpg_l.jpg)![图](http://ehgt.org/t/40/2e/402ecfd52cae95bdce70f49174c3248d16aab3f3-272970-850-1269-jpg_l.jpg)![图](# "http://ehgt.org/t/3b/3b/3b3b573675250df60f675e4eb665dc90d4efbdbf-145059-800-600-jpg_l.jpg")![图](http://ehgt.org/t/fe/f5/fef55bdfacdf35ad1ac4a0d18048e99ba2d55ad4-544860-1200-675-jpg_l.jpg) |
 
 

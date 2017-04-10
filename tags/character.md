@@ -298,7 +298,7 @@
 | elsa granhilte | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](https://exhentai.org/t/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg) |
 | |  ▼路人女主的养成方法 角色 | |
 | megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/t/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) |
-| utaha kasumigaoka | 霞之丘诗羽 | ![霞之丘诗羽](https://ehgt.org/t/e2/f2/e2f26d14ccd531b6096b4ddf6639e83da9f1e98a-197453-650-1000-jpg_l.jpg) |
+| utaha kasumigaoka | 霞之丘诗羽 | ![霞之丘诗羽](https://ehgt.org/t/e2/f2/e2f26d14ccd531b6096b4ddf6639e83da9f1e98a-197453-650-1000-jpg_l.jpg)![图](http://exhentai.org/t/89/08/8908e2bdfdaafb184152eeae2c15bc6040d1301a-1235757-2000-1918-jpg_l.jpg) |
 | michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/t/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |
-| eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![泽村·斯宾塞·英梨梨](https://exhentai.org/t/de/78/de780d3cc7bae7d3fe42a2bddb7f9a101da3a8c1-1257660-2800-2007-jpg_l.jpg) |
+| eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![泽村·斯宾塞·英梨梨](http://ehgt.org/t/78/e1/78e11c97c6e09366cc83386902a5f3017606bc27-336327-385-1200-jpg_l.jpg)![图](http://ehgt.org/t/c2/69/c269e46ca319ed8d35dd834ef701b2335a1b0e00-1911197-893-1227-png_l.jpg)![图](http://exhentai.org/t/b7/e4/b7e48d2ec94ab65a4193c02fca1f943799a0f37d-1891325-1920-1080-png_l.jpg) |
 | izumi hashima | 波岛出海 | ![波岛出海](https://exhentai.org/t/26/b1/26b17a7462f12aa7f5c49fc088ea3d90f88060d7-599437-627-885-png_l.jpg) |
