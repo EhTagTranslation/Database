@@ -276,7 +276,6 @@
 | ryona | 哀嚎 | ryona 意思就是藉由观看女性角色被痛击、电击、束缚、受伤挣扎、哀鸣而激起性快感 |
 | tickling | 痒 |  |
 | humiliation | 屈辱 |  |
-| fox girl | 狐狸少女 |  |
 | weight gain | 体重增加 |  |
 | oil | 油 |  |
 | big vagina | 大阴道 | ![图](http://exhentai.org/t/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg)![图](http://exhentai.org/t/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg)![图](http://exhentai.org/t/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg) |
@@ -323,7 +322,6 @@
 | bride | 新娘 |  |
 | minigirl | 迷你女孩 | 缩小版的女孩 比如小精灵 |
 | brain fuck | 脑交 | 插入大脑 |
-| pig girl | 猪女 | 不得与猪或兽人混淆。 |
 | diaper | 尿布 | 一种用来承接大小便的内衣；往往被婴儿穿戴。经常与年龄进展、拉屎、幼稚型或放尿配对。 |
 | pole dancing | 钢管舞 | |
 | unusual pupils | 异瞳 | 瞳孔变得或是包含奇怪的形状，如心形、星形。 |
