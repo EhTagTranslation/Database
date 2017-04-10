@@ -27,6 +27,51 @@
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
+| | ===其他改变=== | |  |
+| absorption | 吸收 | 吸收某人或某物。可能由捕食(vore)或入阴(unbirth)引发。 | 
+| petrification | 石化 | 成为雕像/岩石般的形象。 | 
+| transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成大象](https://exhentai.org/t/57/34/573406cf1cfa64061071d63686939d0d64f16657-454536-853-1280-jpg_l.jpg) |
+| | ===生物=== | |  |
+| alien | 外星人 | 具有外星生物特征的男性。 |
+| angel | 天使 | 拥有天使的翅膀或光环。 |
+| bunny boy | 兔子男孩 | 兔女郎(bunny girl)的男性版本。 |
+| catboy | 猫男 | 猫女(catgirl)的男性版本。 | 
+| centaur | 半人马 | 一半是人，一半是马。 |
+| cowman | 牛男 | 牛女孩(cowgirl)的男性版本，不要与牛(bull)混淆。 | 
+| demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔女孩(demon girl)或鬼(oni)标签混淆。恶魔不应该被标记为怪物(monster)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼(devil)和梦魇(incubus)是同义词。<br>![图](http://exhentai.org/t/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg)![图](http://exhentai.org/t/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg) | 
+| dog boy | 狗男孩 | 狗女孩(dog girl)的男性版本。 | 
+| draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 | 
+| fairy | 仙子 | 有翅膀的人或其他生物，往往体型很小。 | 
+| fox boy | 狐男 | 狐女(fox girl)的男性版本。 |
+| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。 |
+| ghost | 幽灵 | 与非物质的存在性交。 | 
+| goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 | 
+| harpy | 鸟人 | 鸟与人类的混合体。 |
+| horse boy | 马男孩 | 马女孩(horse girl)的男性版本。 | 
+| human on furry | 人毛 | 人与拟人角色间的性行为。 |
+| insect boy | 昆虫男孩 | 昆虫女孩(insect girl)的男性版本。 | 
+| kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 | 
+| lizard guy | 蜥蜴男孩 | 蜥蜴女孩(lizard girl)的男性版本。 | 
+| merman | 人鱼 | 美人鱼(mermaid)的男性版本。 | 
+| minotaur | 牛头人 | 弥诺陶洛斯（古希腊语：Μῑνώταυρος，字面意思为“弥诺斯的牛”），希腊神话中一个著名的半人半牛怪物。 | 
+| monster | 怪物 | 任何不是人类、机器人(robot)、恶魔(demon)、动物毛皮(furry)的角色。 |
+| mouse boy | 鼠男孩 | 鼠女孩(mouse girl)的男性版本。 |
+| necrophilia | 奸尸 | 涉及尸体的性行为。 | 
+| oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。<br>不应与恶魔(demon)混淆。<br>![图](https://exhentai.org/t/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg) | 
+| orc | 兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。 |
+| pig man | 猪男 | 猪女(pig girl)的男性版本。 |
+| plant boy | 植物男孩 | 植物女孩(plant girl)的男性版本。需要怪物(monste
+| robot | 机器人 | 机械的人形。 | 
+| shark boy | 鲨男孩 | 鲨女孩(shark girl)的男性版本。 | 
+| sheep boy | 羊男孩 | 羊女孩(sheep girl)的男性版本。 | 
+| slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和怪物(monster)标签。 | 
+| slime boy | 史莱姆男孩 | 身体由粘性物体组成的男性。不得与史莱姆(slime)混淆。 | 
+| snake boy | 蛇男 | 蛇女(snake girl)的男性版本。 | 
+| squid boy | 乌贼男 | 乌贼女(squid girl)的男性版本。 |
+| tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上怪物(monster)标签。 |
+| vampire | 吸血鬼 | 有尖尖的牙齿，饮血为生。 | 
+| wolf boy | 狼男孩 | 狼女孩(wolf girl)的男性版本。 |
+| zombie | 僵尸 | 与僵尸性交。 | 
 | | ▼ Body | 身体 |
 | | > Skin | 皮肤 | 
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。（褐色肌）<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) |
@@ -40,7 +85,6 @@
 | feminization | 女性化 | |
 | | ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
 | gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
-| transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成大象](https://exhentai.org/t/57/34/573406cf1cfa64061071d63686939d0d64f16657-454536-853-1280-jpg_l.jpg) |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依（possession）混淆也不能标为性转换（gender bender） |
 | possession | 凭依 | 强行占有和控制一个甚至多个对象的身体，和换身不同。此tag需打在控制者原来的性别的命名空间中 |
 | dickgirl on male | 扶上男 | |
@@ -59,17 +103,12 @@
 | double anal | 双棒入菊 | 两根阴茎插入一个肛门。(一ケツ二チン)<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) |
 | sole male | 单男主 | 只有一个男性角色 |
-| demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔女孩(demon girl)或鬼(oni)标签混淆。恶魔不应该被标记为怪物(monster)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼(devil)和梦魇(incubus)是同义词。<br>![图](http://exhentai.org/t/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg)![图](http://exhentai.org/t/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg) |
 | layer cake | 夹心蛋糕 | 阴茎在2个阴道之间摩擦。可能涉及每个阴道之间交替插入。<br>需要乱交(group)标签<br>拥有阴茎的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) |
 | blowjob | 口交 | 涉及的嘴和阴茎的性。<br>不要与吸球(ball sucking)混淆。<br>是口交颜(blowjob face)、深喉(deepthroat)的前置标签。<br>给予口交者的性别确定将标签放置在女性或男性的命名空间中。<br>![图](http://exhentai.org/t/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg)![图](http://exhentai.org/t/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>做舔动作的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg)![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
-| pig man | 猪男 | 猪女的男性版本。不得与猪或兽人混淆。 |
-| orc | 兽人 | 不得与猪男、猪女混淆。 |
 | pig | 猪 | 不得给毛皮人物添加该标签，应该使用猪男或猪女。 |
 | bull | 牛 | 任何类型的雄性牛科动物，不要与牛女孩混淆，不得给毛皮人物添加该标签，应该使用牛男。 |
-| cowman | 牛男 | 牛女孩的男性版本，不要与牛混淆。 |
-| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
@@ -96,7 +135,6 @@
 | masturbation | 自慰 | |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
 | tomgirl | 伪娘 | 通常误认为是女性的男性，通常与异性装同时出现，不得与扶她混淆 |
-| ghost | 幽灵 | |
 | condom | 避孕套 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
