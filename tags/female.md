@@ -6,13 +6,13 @@
 | -------- | ---------------------- | ---------------------------------------- |
 | | ==Age== | ==年龄== |
 | age progression | 年龄增长 | 年龄迅速增长 |
-| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与【缩小】(shrinking)混淆 |
+| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与缩小(shrinking)混淆 |
 | infantilism | 幼稚型 | 将成年人当作小孩对待 |
 | | 思念峡湾(pining for the fjords)的来源：[英语吧](http://tieba.baidu.com/p/742519695) | 也就是放里站啦 |
-| lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。<br>标记时，只考虑外观。是【巨乳萝莉】(oppai loli)、【未通过萝莉】(low lolicon)的前置标签。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。<br>![图](http://ul.ehgt.org/e0/40/e04019f1726c19af6d0578102d265870f742c35b-2766744-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/fe/70/fe704e987d28d1ac751171fcbd1dfb072cf7e956-2599848-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/3e/b1/3eb1b33ab0af723090f0e310cda77af8abf26b23-2532393-2440-3500-jpg_l.jpg) |
-| low lolicon | 未通过萝莉 | 表示【萝莉】(lolicon)的情况没有通过存在规则(presence rule)<br>需要【萝莉】(lolicon)标签 |
-| milf | 熟女 | 看上去像30-50岁的女性，不一定是【母亲】(mother)。不得与【老女人】(old lady)混淆 |
-| old lady | 老女人 | 看起来在50岁以上的女性，不得与【熟女】(milf)混淆 |
+| lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。<br>标记时，只考虑外观。是巨乳萝莉(oppai loli)、未通过萝莉(low lolicon)的前置标签。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。<br>![图](http://ul.ehgt.org/e0/40/e04019f1726c19af6d0578102d265870f742c35b-2766744-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/fe/70/fe704e987d28d1ac751171fcbd1dfb072cf7e956-2599848-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/3e/b1/3eb1b33ab0af723090f0e310cda77af8abf26b23-2532393-2440-3500-jpg_l.jpg) |
+| low lolicon | 未通过萝莉 | 表示萝莉(lolicon)的情况没有通过存在规则(presence rule)<br>需要萝莉(lolicon)标签 |
+| milf | 熟女 | 看上去像30-50岁的女性，不一定是母亲(mother)。不得与老女人(old lady)混淆 |
+| old lady | 老女人 | 看起来在50岁以上的女性，不得与熟女(milf)混淆 |
 | toddlercon | 幼女 | 学步的儿童 |
 | | ==Body== | ==身体== |  |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg)![恶](http://exhentai.org/t/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg)![恶](http://exhentai.org/t/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg) |
@@ -29,6 +29,10 @@
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
+| | ===其他改变=== | |  |
+| absorption | 吸收 | 吸收某人或某物。可能由捕食(vore)或入阴(unbirth)引发。 | 
+| petrification | 石化 | 成为雕像/岩石般的形象。 |
+| transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成猫](https://exhentai.org/t/32/19/32192b5f01b4f759cc3e0b95f9d540538307dbd4-844419-1050-1492-jpg_l.jpg) |
 | | ▼ Legs | 腿 |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
 | kneepit sex | 膝里性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。<br>不应与股间性交(sumata)混淆<br>使用膝盖的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg)![图](http://exhentai.org/t/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg)![图](http://exhentai.org/t/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg)![](http://exhentai.org/t/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg)![图](http://exhentai.org/t/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg)![图](http://exhentai.org/t/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg) |
@@ -120,7 +124,7 @@
 | birth | 出产 |  |
 | psssession | 占据 | 皮类常用标签 |
 | absorb | 融合 | 皮类常用标签 |
-| unbirth | 从B钻出来 |  |
+| unbirth | 入阴 |  |
 | bestiality | 兽奸 |  |
 | mind control | 精神控制 |  |
 | femdom | 女性支配 |  |
@@ -268,8 +272,8 @@
 | nipple birth | 乳头出产 | 通过乳头分娩或产卵  |
 | autopaizuri | 自乳交 | 扶她(futanari)用自己胸部给自己乳交 |
 | human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
-| cow | 牛 | 任何类型的雌性牛科动物，不要与【牛女孩】混淆。 |
-| cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与【巨乳】配对。 |
+| cow | 牛 | 任何类型的雌性牛科动物，不要与牛女孩混淆。 |
+| cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与巨乳配对。 |
 | cannibalism  | 自相残杀 | 人型生物烹饪或食用其他人形生物。 |
 | coprophagia | 食粪 |  |
 | scat | 放屎 |  |
@@ -293,8 +297,8 @@
 | minigirl | 迷你女孩 | 缩小版的女孩 比如小精灵 |
 | brain fuck | 脑交 | 插入大脑 |
 | slime | 粘液 | 粘液触手 |
-| pig girl | 猪女 | 不得与【猪】或【兽人】混淆。 |
-| diaper | 尿布 | 一种用来承接大小便的内衣；往往被婴儿穿戴。经常与【年龄进展】、【拉屎】、【幼稚型】或【放尿】配对。 |
+| pig girl | 猪女 | 不得与猪或兽人混淆。 |
+| diaper | 尿布 | 一种用来承接大小便的内衣；往往被婴儿穿戴。经常与年龄进展、拉屎、幼稚型或放尿配对。 |
 | pole dancing | 钢管舞 | |
 | unusual pupils | 异瞳 | 瞳孔变得或是包含奇怪的形状，如心形、星形。 |
 | collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教或人宠行为时穿戴 |
@@ -306,18 +310,18 @@
 | dog girl | 狗女孩 | |
 | horse girl | 马女孩 | |
 | snake girl | 蛇女 | |
-| orc | 兽人 | 不得与【猪男】、【猪女】混淆。 |
-| pig | 猪 | 不得给【毛皮】人物添加该标签，应该使用【猪男】或【猪女】。 |
+| orc | 兽人 | 不得与猪男、猪女混淆。 |
+| pig | 猪 | 不得给毛皮人物添加该标签，应该使用猪男或猪女。 |
 | furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。一些拟人度低的人外 长有兽毛 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
 | business suit | 西装 | |
 | tracksuit | 运动服 | |
-| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要【束缚】标签。不得与【寻欢洞】、【虫洞】混淆。 |
-| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与【卡在墙上】、【虫洞】混淆。 |
-| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与【卡在墙上】、【寻欢洞】、【感官共享】混淆。 |
-| shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与【虫洞】混淆。 |
+| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
+| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
+| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
+| shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与虫洞混淆。 |
 | ghost | 幽灵 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
