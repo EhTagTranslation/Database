@@ -28,11 +28,54 @@
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
-| wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
+| wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙女(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
 | | ===其他改变=== | |  |
 | absorption | 吸收 | 吸收某人或某物。可能由捕食(vore)或入阴(unbirth)引发。 | 
 | petrification | 石化 | 成为雕像/岩石般的形象。 |
 | transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成猫](https://exhentai.org/t/32/19/32192b5f01b4f759cc3e0b95f9d540538307dbd4-844419-1050-1492-jpg_l.jpg) |
+| | ===生物=== | |  |
+| alien girl | 外星女 | 具有外星生物特征的女性。 | 
+| angel | 天使 | 拥有天使的翅膀或光环。 |
+| bee girl | 蜂女 | 具有蜜蜂特征的女性。 | 
+| bunny girl | 兔女郎 | 兔耳朵，偶尔也有一个蓬松的尾巴。<br>![图](http://exhentai.org/t/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg)![图](http://exhentai.org/t/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg)![图](http://exhentai.org/t/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg)![图](http://exhentai.org/t/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg) | 
+| catgirl | 猫女 | 有猫耳，可能有猫尾或其他猫的特征。 | 
+| centaur | 半人马 | 一半是人，一半是马。 | 
+| cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与巨乳配对。 | 
+| demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔(demon)或鬼(oni)标签混淆。恶魔女孩不应该被标记为怪物女孩(monster girl)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼女孩(devil girl)和女妖(succubus)是同义词。<br>![图](http://exhentai.org/t/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg)![图](http://exhentai.org/t/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg)![图](http://exhentai.org/t/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg)![图](http://exhentai.org/t/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg) | 
+| dog girl | 狗女孩 | 有狗耳朵或狗尾巴的女性。 | 
+| draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |
+| fairy | 仙女 | 有翅膀的人或其他生物，往往体型很小。 |
+| fox girl | 狐女 | 有狐狸耳朵和尾巴的女孩。 | 
+| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。 |
+| ghost | 幽灵 | 与非物质的存在性交。 | 
+| goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 | 
+| harpy | 鸟人 | 鸟与人类的混合体。 | 
+| horse girl | 马女孩 | 拥有马尾或其他马的特征的女性。 |
+| human on furry | 人毛 | 人与拟人角色间的性行为。 | 
+| insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 | 
+| kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 | 
+| lizard girl | 蜥蜴女孩 | 有爬行动物的鳞片和尾巴的女孩。 | 
+| mermaid | 美人鱼 | 上半身是人，下半身是鱼。 |
+| monster girl | 怪物女孩 | 怪物(monster)的女性版本。 |
+| mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 | 
+| necrophilia | 奸尸 | 涉及尸体的性行为。 | 
+| oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。<br>不应与恶魔女孩(demon girl)混淆。<br>![图](http://ul.ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](http://exhentai.org/t/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg)![图](http://exhentai.org/t/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg) | 
+| orc | 兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。 | 
+| pig girl | 猪女 | 有猪耳朵、猪鼻、猪尾或猪的其他特征。 | 
+| plant girl | 植物女孩 | 女性的植物-人类混合体。需要怪物女孩(monster girl)标签。 | 
+| raccoon girl‎ | 浣熊女孩 | 拥有耳朵、尾巴及其他浣熊的特征。 |
+| robot | 机器人 | 机械的人形。 |
+| shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。 通常也有锋利的牙齿。 | 
+| sheep girl | 羊女孩 | 有羊毛和羊角的女性。 | 
+| slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和怪物(monster)标签。 | 
+| slime girl | 史莱姆女孩 | 身体由粘性物体组成的女性。不得与史莱姆(slime)混淆。 |
+| snake girl | 蛇女 | 蛇和女性的混合体。 | 
+| spider girl | 蜘蛛女 | 拥有蜘蛛身体的女性。 |
+| squid girl | 乌贼女 | 有许多小触角和鱿鱼或章鱼的头部。 | 
+| tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上怪物(monster)标签。 | 
+| vampire | 吸血鬼 | 有尖尖的牙齿，饮血为生。 | 
+| wolf girl | 狼女孩 | 有尖耳朵、浓密的尾巴或狼的其他特征。 | 
+| zombie | 僵尸 | 与僵尸性交。 | 
 | | ▼ Legs | 腿 |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
 | kneepit sex | 膝里性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。<br>不应与股间性交(sumata)混淆<br>使用膝盖的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg)![图](http://exhentai.org/t/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg)![图](http://exhentai.org/t/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg)![](http://exhentai.org/t/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg)![图](http://exhentai.org/t/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg)![图](http://exhentai.org/t/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg) |
@@ -109,8 +152,6 @@
 | bike shorts | 自行车短裤 | 短的、有弹性的、紧身贴合腿部（但穿着更像是内衣），旨在提高骑自行车时候的舒适度。 <br>不能与热裤(hotpants)的标签混淆。<br>![](http://exhentai.org/t/82/4e/824ec565d33ed51ec89ab98a5689087e29e695e8-682260-1024-600-png_l.jpg)![图](http://exhentai.org/t/63/c3/63c39f00c8dc1b442c5618c20143c5c4ff59028a-369056-1120-1600-jpg_l.jpg)![图](http://exhentai.org/t/a8/44/a8448e102eb338cc80fc0a403d8bce0188a8723f-880865-1063-1500-jpg_l.jpg)![图](http://exhentai.org/t/4c/28/4c2824b5314fb0c0eeb9137c78c23dde02aca682-931040-2044-3020-jpg_l.jpg) |
 | hotpants | 热裤 | 短的，突出臀部和腿部。<br>不能与自行车短裤(bike shorts)，布鲁马(bloomers)，或运动短裤标签混淆。<br>![图](http://exhentai.org/t/36/82/3682e6eaf2bd56cbd040ceab913ce0f0a6fe09d8-1066447-1583-2211-jpg_l.jpg)![图](http://exhentai.org/t/d5/b0/d5b0e6b1ea48edcb602d0e941c9c85fde7a46666-6458880-2140-3000-png_l.jpg)![图](http://exhentai.org/t/42/1e/421ed5fc2646003024de98d281a16ab36e6a7e63-4741499-1600-2282-jpg_l.jpg) |
 | gymshorts | 运动短裤 | 短的运动裤子，颜色和长度可以改变。<br>不应与布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。<br>![图](http://exhentai.org/t/5d/13/5d13fffb1cb16c99d3eb77c53ff3e57985723fa5-3645640-2149-3035-jpg_l.jpg)![图](http://ul.ehgt.org/a1/2f/a12fdf19d1ebdac40a1ca5a00c88374ef6774e30-543473-1024-768-png_l.jpg)![图](http://ehgt.org/t/39/1e/391e16bc04b9bb369ab9d438172d3366eb6893fb-103453-648-865-jpg_250.jpg) |
-| demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔(demon,男性)或鬼(oni)标签混淆。恶魔女孩不应该被标记为怪物女孩(monster girl)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼女孩(devil girl)和女妖(succubus)是同义词。<br>![图](http://exhentai.org/t/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg)![图](http://exhentai.org/t/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg)![图](http://exhentai.org/t/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg)![图](http://exhentai.org/t/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg) |
-| oni | 鬼 (日本) | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。<br>不应与恶魔(demon,男性)/恶魔女孩(demon girl)混淆。<br>鬼的性别决定放入女性还是男性的命名空间。<br>![图](http://ul.ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](http://exhentai.org/t/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg)![图](http://exhentai.org/t/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg) |
 | onahole | 飞机杯 | 一个人工阴道用来对阴茎手淫。<br>不应与性玩具(sex toys)混淆。使用飞机杯的人的性别决定放入女性还是男性的命名空间。如果是女性，必须与扶她(futanari)或人妖(shemale)标签一起使用。<br>![图](http://exhentai.org/t/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg)![图](http://exhentai.org/t/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg)![图](http://exhentai.org/t/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg) |
 | sole female | 单女主 | 只有一个女性角色 |
 | nakadashi |中出 | |
@@ -159,7 +200,6 @@
 | lactation | 哺乳 | |
 | x-ray | X光透视 |  |
 | magical girl | 魔法少女 |  |
-| tentacles | 触手 |  |
 | schoolgirl uniform | 女学生制服 |  |
 | double vaginal | 双插阴道 | 两个阴茎同时插入阴道<br>![图](http://exhentai.org/t/5c/3a/5c3ab16ffa342d3b5ad5131bb330e1f8bf26691c-546934-2100-1500-jpg_l.jpg) |
 | triple vaginal | 三插阴道 | 三个阴茎同时插入阴道 |
@@ -178,9 +218,7 @@
 | big nipples | 大乳头 |  |
 | big ass | 大屁股 |  |
 | condom | 避孕套 |  |
-| catgirl | 猫女 |  |
 | big balls | 大的睾丸 | 这里指扶她(futanari)的睾丸 |
-| harpy | 鸟人 |  |
 | exhibitionism | 漏阴癖 |  |
 | ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。<br>如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](http://exhentai.org/t/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg)![图](http://exhentai.org/t/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg) |
 | urination | 放尿 |  |
@@ -206,7 +244,6 @@
 | coach | 教练 | |
 | tutor | 家庭教师 | |
 | kimono | 和服 |  |
-| angel | 天使 |  |
 | rimjob | 舔肛 |  |
 | shibari | 日式捆绑 |  |
 | bdsm | 捆绑SM |  |
@@ -226,7 +263,6 @@
 | cum in eye | 眼射 | 射精到一个人的眼睛。<br>不应与插入眼睛(eye penetration)标签混淆。 |
 | randoseru | 书包 |  |
 | sleeping | 睡觉 |  |
-| necrophilia | 奸尸 |  |
 | menstruation | 经血 | 大姨妈 |
 | chloroform | 氯仿(迷药) | 麻醉剂 |
 | asphyxiation | 窒息 |  |
@@ -237,18 +273,14 @@
 | dick growth | 阴茎生长 | 阴茎生长的过程 |
 | clit growth | 阴蒂生长 | 阴蒂生长的过程 |
 | nipple expansion | 乳头膨胀 |  |
-| robot | 机器人 |  |
 | ryona | 哀嚎 | ryona 意思就是藉由观看女性角色被痛击、电击、束缚、受伤挣扎、哀鸣而激起性快感 |
 | tickling | 痒 |  |
-| vampire | 吸血鬼 |  |
 | humiliation | 屈辱 |  |
 | fox girl | 狐狸少女 |  |
 | weight gain | 体重增加 |  |
 | oil | 油 |  |
 | big vagina | 大阴道 | ![图](http://exhentai.org/t/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg)![图](http://exhentai.org/t/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg)![图](http://exhentai.org/t/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg) |
 | drunk | 醉酒 |  |
-| monster girl | 怪物女孩 |  
-| centaur | 半人马 | |
 | insect | 昆虫 |  |
 | selfcest | 与自己性交 | selfcest 多指与另一个时间线的自己性交 |
 | spanking | 打屁股 |  |
@@ -258,7 +290,6 @@
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | chinese dress | 唐装 | |
 | horse cock | 马根 | |
-| insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |
 | body writing | 身体写作 |  | 
 | pasties | 乳贴 |  |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |
@@ -268,12 +299,10 @@
 | bandages | 绷带 |  |
 | bandaid | 创可贴 |  |
 | parasite | 寄生 |  |
-| draenei | 德莱尼 | 蓝色皮肤有蹄和发光的眼睛。 |
 | nipple birth | 乳头出产 | 通过乳头分娩或产卵  |
 | autopaizuri | 自乳交 | 扶她(futanari)用自己胸部给自己乳交 |
 | human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
 | cow | 牛 | 任何类型的雌性牛科动物，不要与牛女孩混淆。 |
-| cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与巨乳配对。 |
 | cannibalism  | 自相残杀 | 人型生物烹饪或食用其他人形生物。 |
 | coprophagia | 食粪 |  |
 | scat | 放屎 |  |
@@ -283,9 +312,7 @@
 | mecha girl | 机甲少女 |  |
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头 |
 | cum bath | 精液浴 |  |
-| lizard girl | 蜥蜴女孩 |  |
 | harem | 后宫 | 被至少三个女孩追捧，自愿发生性关系并所有人参与<br>![图](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) |
-| bunny girl | 兔女郎 | ![图](http://exhentai.org/t/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg)![图](http://exhentai.org/t/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg)![图](http://exhentai.org/t/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg)![图](http://exhentai.org/t/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg) |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |
 | niece | 侄女 |  |
 | haigure | 高叉泳装 | |
@@ -296,7 +323,6 @@
 | bride | 新娘 |  |
 | minigirl | 迷你女孩 | 缩小版的女孩 比如小精灵 |
 | brain fuck | 脑交 | 插入大脑 |
-| slime | 粘液 | 粘液触手 |
 | pig girl | 猪女 | 不得与猪或兽人混淆。 |
 | diaper | 尿布 | 一种用来承接大小便的内衣；往往被婴儿穿戴。经常与年龄进展、拉屎、幼稚型或放尿配对。 |
 | pole dancing | 钢管舞 | |
@@ -305,14 +331,7 @@
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 |
 | aunt | 阿姨 | |
 | tall girl | 高个女 | 至少比伙伴搞一个头。如果没有伙伴，靠环境判断。如果女性是女巨人，则不能添加该标签。如果伙伴是正太、萝莉、小人或侏儒，则不能添加该标签。 |
-| slime girl | 史莱姆女孩 | 身体由粘性物体组成的女孩。不得与史莱姆混淆。需要怪物女孩标签 |
-| wolf girl | 狼女孩 | |
-| dog girl | 狗女孩 | |
-| horse girl | 马女孩 | |
-| snake girl | 蛇女 | |
-| orc | 兽人 | 不得与猪男、猪女混淆。 |
 | pig | 猪 | 不得给毛皮人物添加该标签，应该使用猪男或猪女。 |
-| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。一些拟人度低的人外 长有兽毛 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
@@ -322,7 +341,6 @@
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
 | shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与虫洞混淆。 |
-| ghost | 幽灵 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
 | multiple penises | 鸡鸡复鸡鸡 | ![图](http://exhentai.org/t/db/4f/db4ff92cbf0336e3582f75f8fc977a3a6b546cc0-48539-600-845-jpg_l.jpg)![图](http://exhentai.org/t/b2/70/b2705dfdf0897c9d30340cffa8cdb246ee34eac3-57806-600-852-jpg_l.jpg)![图](http://exhentai.org/t/67/10/67102fa792ec050c41f6bf07a1d4a71e32089e3f-56861-600-841-jpg_l.jpg)![图](http://exhentai.org/t/5e/e4/5ee402423f4b507ec8c3a8a24e783f4f9201df3e-115878-1200-850-jpg_l.jpg) |
