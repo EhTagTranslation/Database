@@ -128,5 +128,4 @@
 | defense of the ancients | 刀塔 | DotA ![](https://ehgt.org/t/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg) |
 | re zero kara hajimeru isekai seikatsu | Re：从零开始的异世界生活 | ![Re0](https://exhentai.org/t/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_250.jpg) |
 | saenai heroine no sodatekata | 路人女主的养成方法 | ![图](http://ehgt.org/t/da/db/dadbd1c61eb9be7ee6b7a6fd5096e640d9acaf6a-978065-1027-1500-jpg_l.jpg)![路人女主的养成方法](http://ehgt.org/t/54/db/54db9289fe26805504ff938136f415edfac4f4ff-690684-1920-1080-jpg_l.jpg)![图](http://ehgt.org/t/40/2e/402ecfd52cae95bdce70f49174c3248d16aab3f3-272970-850-1269-jpg_l.jpg)![图](# "http://ehgt.org/t/3b/3b/3b3b573675250df60f675e4eb665dc90d4efbdbf-145059-800-600-jpg_l.jpg")![图](http://ehgt.org/t/fe/f5/fef55bdfacdf35ad1ac4a0d18048e99ba2d55ad4-544860-1200-675-jpg_l.jpg) |
-
-
+| koihime musou | 恋姬†无双 | ![](http://ehgt.org/t/ce/4f/ce4f54f0a3ad3bc41e5ef8ec37affc68abec1d81-371409-1240-680-png_l.jpg) |
