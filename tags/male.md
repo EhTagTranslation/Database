@@ -4,7 +4,7 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| | ==Age== | ==年龄== |
+| | ==年龄== | |
 | age progression | 年龄增长 | 年龄迅速增长 |
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与缩小(shrinking)混淆 |
 | dilf | 熟男 | 看上去像30-50岁的男性，不一定是父亲(father)。不得与老人(old man)混淆 |
@@ -13,7 +13,7 @@
 | old man | 老人 | 看起来在50岁以上的男性，不得与熟男(dilf)混淆 |
 | shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
 | toddlercon | 幼儿 | 学步的儿童 |
-| | ==Body== | ==身体== |
+| | ==身体== | |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](https://exhentai.org/t/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg) |
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
@@ -120,11 +120,28 @@
 | wolf | 🐺狼 | 任何灰狼种动物。 | 
 | worm | 蠕虫 | 任何有管状身体且无腿的动物。 | 
 | zebra | 斑马 | 任何有条纹的马属动物。 | 
-| | ▼ Body | 身体 |
-| | > Skin | 皮肤 | 
-| dark skin | 肤色黝黑 | 棕色或黑色的肤色。（褐色肌）<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) |
-| | > Weight | 重量 |
-| bbm | 胖男人 | 胖男人。必须要有腹部褶皱。<br>![胖大叔赛高！](http://exhentai.org/t/f2/c7/f2c77d7e82dc41acec57a2d13d792698383aa38a-1711399-1307-1950-png_l.jpg) |
+| | ===身高=== | |
+| giant | 巨人 | 女巨人(giantess)的男性版本。<br>利用环境线索来判断一个角色的体型。 |
+| growth | 巨大化 | 变高，有可能成为巨人(giant) |
+| midget | 侏儒 | 一个很矮的人。应该看起来小于其他角色的腰围高度。 | 
+| miniguy | 迷你男孩 | 迷你女孩(minigirl)的男性版本。 |
+| shrinking | 缩小 | 变矮，有可能成为迷你男孩(miniguy)。| 
+| tall man | 高个男 | 高个的男性，至少比其他角色高一个头。不应对巨人(giant)添加该标签。不在其他角色为正太(shotacon)、萝莉(lolicon)、迷你女孩(minigirl)、迷你男孩(miniguy)或侏儒(midget)时对普通体型男性使用。 | 
+| | ===皮肤=== | |
+| albino | 白化 | 红眼和颜色极浅的皮肤。 | 
+| body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“RBQ”等贬义词语。<br>不应与身体绘画(body painting)混淆。 | 
+| body painting | 身体绘画 | 在脸或身体上大面积地绘画。<br>不应与身体写作(body writing)混淆。 |
+| dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与晒痕(tanlines)混淆。<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) | 
+| freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |
+| full body tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须非常突出或很大。 | 
+| gyaru-oh‎ | 非主流 | 辣妹(gyaru)的男性版本。 |
+| scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |
+| skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。<br>不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>皮的性别决定要放入女性还是男性的命名空间。<br>![图](http://ul.ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](http://ul.ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](http://ul.ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg)  |
+| tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。 |
+| | ===体重=== | |
+| bbm | 胖男人 | 胖男人，必须要有腹部褶皱。<br>![胖大叔赛高！](http://exhentai.org/t/f2/c7/f2c77d7e82dc41acec57a2d13d792698383aa38a-1711399-1307-1950-png_l.jpg) |
+| ssbbm | 超级胖男人 | 宽比高长的男性。需要胖男人(bbm)标签。 | 
+| weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为胖男人(bbm)。不应与腹部膨胀(inflation)混淆。 | 
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
@@ -156,8 +173,6 @@
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>做舔动作的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg)![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
-| freckles | 雀斑 | |
-| tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |
 | eyepatch | 眼罩 |  |
