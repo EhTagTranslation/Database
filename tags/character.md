@@ -8,6 +8,7 @@
 | chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) <br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295|
 | murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
 | nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
+| kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](http://exhentai.org/t/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg) |
 | | ▲ 重复项合并 | |  
 | | ▼萌单 人物 | 我已经钦定了，茵可酱只能我来改 |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |
@@ -348,6 +349,7 @@
 | josui | 如水 | ![](http://ehgt.org/t/87/de/87deb92ec41935af054b86509c27f7cd95a48b2b-46099-384-480-jpg_l.jpg) |
 | kaede | 枫 | ![](http://ehgt.org/t/c9/a5/c9a5392c447c50c4bc2c137168e797538c8deb5c-45265-380-479-jpg_l.jpg) |
 | kagari | 篝 | ![](http://ehgt.org/t/70/d1/70d1f5affc739a4770934369de03102ee571ad52-48570-168-210-jpg_l.jpg) |
+|  | 神乐 | 重复项 |
 | kanon | 花音 | ![](http://ehgt.org/t/0d/12/0d1293bcd5b665915d90189dbccc601efe7fc875-44406-384-480-jpg_l.jpg) |
 | kanzaki | 神咲 | ![](http://ehgt.org/t/94/e0/94e085bb8ce30ced201b3d40d026838719884af6-45929-384-480-jpg_l.jpg) |
 | kasumi | 霞 | ![](http://ehgt.org/t/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |
@@ -367,12 +369,14 @@
 | muramasa | 村正 | ![](http://ehgt.org/t/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |
 | murasaki | 紫 | ![](http://ehgt.org/t/df/d9/dfd9507d79544bdfb8cb85e8ce1f5adacf5f0d6f-118976-206-257-png_l.jpg) |
 |   | 那智 | 重复项 |
+| naraku | 奈乐 | ![奈乐](http://exhentai.org/t/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg) |
 | rin | 凛（铃音） | ![](http://ehgt.org/t/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |
 | ryoubi | 两备 | ![](http://ehgt.org/t/d2/c8/d2c8369d149a62f4baae520d64d36ff477ee99d8-300438-386-480-png_l.jpg) |
 | ryouna | 两奈 | ![](http://ehgt.org/t/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |
 | sakyou | 左京 | ![](http://ehgt.org/t/35/7c/357c4a3fd305858c1c236470015a29d26771bc0e-43185-384-480-jpg_l.jpg) |
 | seimei | 清明 | ![](http://ehgt.org/t/3a/1e/3a1e8c88eb13212e2f06410b91db2e9ca663f754-37813-384-480-jpg_l.jpg) |
 | siki | 四季 | ![](http://ehgt.org/t/70/b0/70b03c1e46e7a700992567ca7b3c2747dee56018-38869-384-480-jpg_l.jpg) |
+| shiki | 四季 | ![](http://ehgt.org/t/70/b0/70b03c1e46e7a700992567ca7b3c2747dee56018-38869-384-480-jpg_l.jpg) |
 | souji | 总司 | ![](http://ehgt.org/t/f4/03/f40375690734bc892d85170d921da33b7eb33cf7-60656-384-480-jpg_l.jpg) |
 | suzune | 凛（铃音） | ![](http://ehgt.org/t/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |
 | syuri | 朱璃 | ![](http://ehgt.org/t/d3/65/d365fef6585d875d536424926782b2f74d7d9d26-51428-384-480-jpg_l.jpg) |
