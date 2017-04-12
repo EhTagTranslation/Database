@@ -120,12 +120,13 @@
 | ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru | 我的脑内恋碍选项 | ![俺の脳内選択肢が、学園ラブコメを全力で邪魔している](https://ehgt.org/t/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |
 | overwatch | 守望先锋 | ![守望屁股](https://ehgt.org/t/07/96/07961652eaffd9de33eb0cdc769e1ba8842d44d4-6893424-3297-2458-jpg_250.jpg) |
 | halo | 光环 | ![halo](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) |
-| mass effect | 质量效应 | ![](https://ehgt.org/t/b5/48/b548bfc5604fcc33d3cd267dcf9906feea21a331-2512119-2292-3056-jpg_250.jpg) |
-| half-life | 半衰期 | ![](https://ehgt.org/t/6a/2e/6a2e048d7e11c70ffd8ce1beeb0796389f7d28b8-855724-1363-1778-jpg_250.jpg) |
-| portal | 传送门 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
-| the witcher | 巫师 | ![](https://ehgt.org/t/eb/bc/ebbc8f12985ac9502e7c7ac6f1d4917a31760f50-90823-647-1000-jpg_250.jpg) |
-| the elder scrolls | 上古卷轴 | 老头滚动条 ![](https://ehgt.org/t/e0/e0/e0e0bc963d82aa0e34be99f34193a005d0e7430a-319141-1920-1080-jpg_250.jpg) |
-| defense of the ancients | 刀塔 | DotA ![](https://ehgt.org/t/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg) |
+| mass effect | 质量效应 | ![图](https://ehgt.org/t/b5/48/b548bfc5604fcc33d3cd267dcf9906feea21a331-2512119-2292-3056-jpg_250.jpg) |
+| half-life | 半衰期 | ![图](https://ehgt.org/t/6a/2e/6a2e048d7e11c70ffd8ce1beeb0796389f7d28b8-855724-1363-1778-jpg_250.jpg) |
+| portal | 传送门 | ![图](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
+| the witcher | 巫师 | ![图](https://ehgt.org/t/eb/bc/ebbc8f12985ac9502e7c7ac6f1d4917a31760f50-90823-647-1000-jpg_250.jpg) |
+| the elder scrolls | 上古卷轴 | 老头滚动条 ![图](https://ehgt.org/t/e0/e0/e0e0bc963d82aa0e34be99f34193a005d0e7430a-319141-1920-1080-jpg_250.jpg) |
+| defense of the ancients | 刀塔 | DotA ![图](https://ehgt.org/t/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg) |
 | re zero kara hajimeru isekai seikatsu | Re：从零开始的异世界生活 | ![Re0](https://exhentai.org/t/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_250.jpg) |
 | saenai heroine no sodatekata | 路人女主的养成方法 | ![图](http://ehgt.org/t/da/db/dadbd1c61eb9be7ee6b7a6fd5096e640d9acaf6a-978065-1027-1500-jpg_l.jpg)![路人女主的养成方法](http://ehgt.org/t/54/db/54db9289fe26805504ff938136f415edfac4f4ff-690684-1920-1080-jpg_l.jpg)![图](http://ehgt.org/t/40/2e/402ecfd52cae95bdce70f49174c3248d16aab3f3-272970-850-1269-jpg_l.jpg)![图](# "http://ehgt.org/t/3b/3b/3b3b573675250df60f675e4eb665dc90d4efbdbf-145059-800-600-jpg_l.jpg")![图](http://ehgt.org/t/fe/f5/fef55bdfacdf35ad1ac4a0d18048e99ba2d55ad4-544860-1200-675-jpg_l.jpg) |
-| koihime musou | 恋姬†无双 | ![](http://ehgt.org/t/ce/4f/ce4f54f0a3ad3bc41e5ef8ec37affc68abec1d81-371409-1240-680-png_l.jpg) |
+| koihime musou | 恋姬†无双 | ![图](http://ehgt.org/t/ce/4f/ce4f54f0a3ad3bc41e5ef8ec37affc68abec1d81-371409-1240-680-png_l.jpg) |
+| senran kagura | 闪乱神乐 | ![图](http://ehgt.org/t/b7/2e/b72eb7d2f02c10d802e4e98a54d35938dcce2e1a-666145-750-1049-jpg_l.jpg) |
