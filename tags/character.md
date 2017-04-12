@@ -6,7 +6,8 @@
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
 | chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) <br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295|
-| murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
+| murakumo | 丛 | 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
+| nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
 | | ▲ 重复项合并 | |  
 | | ▼萌单 人物 | 我已经钦定了，茵可酱只能我来改 |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |
@@ -124,7 +125,7 @@
 |   | 千岁 | 重复项 |
 | chiyoda | 千代田 | No.050 千代田![千代田](# "https://img.acg.moe/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg") |
 | myoukou | 妙高 | No.055 妙高![妙高](# "http://exhentai.org/t/bc/a9/bca9cc8efbd974a6e73a1a95f2956b48f326ee03-2898088-1410-2024-jpg_250.jpg") |
-| nachi | 那智 | No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
+|   | 那智 | 重复项 |
 | ashigara | 足柄 | No.057 足柄![足柄](# "https://img.acg.moe/common/thumb/6/69/52960554_p2_master1200.jpg/250px-52960554_p2_master1200.jpg") |
 | haguro | 羽黑 | No.058 羽黑![羽黑](# "http://exhentai.org/t/fa/1c/fa1ce113bcb7a45c26e1dec08dcc1d630a533072-212742-718-1024-jpg_250.jpg") |
 | takao | 高雄 | No.059 高雄![高雄](# "http://exhentai.org/t/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg") |
@@ -365,7 +366,7 @@
 |   | 丛 | 重复项 |
 | muramasa | 村正 | ![](http://ehgt.org/t/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |
 | murasaki | 紫 | ![](http://ehgt.org/t/df/d9/dfd9507d79544bdfb8cb85e8ce1f5adacf5f0d6f-118976-206-257-png_l.jpg) |
-| nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) |
+|   | 那智 | 重复项 |
 | rin | 凛 | ![](http://ehgt.org/t/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |
 | ryoubi | 两备 | ![](http://ehgt.org/t/d2/c8/d2c8369d149a62f4baae520d64d36ff477ee99d8-300438-386-480-png_l.jpg) |
 | ryouna | 两奈 | ![](http://ehgt.org/t/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |
