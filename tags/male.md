@@ -13,7 +13,7 @@
 | old man | 老人 | 看起来在50岁以上的男性，不得与熟男(dilf)混淆 |
 | shotacon | 正太 | 小男孩<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
 | toddlercon | 幼儿 | 学步的儿童 |
-| | ==Body== | ==身体== |  |
+| | ==Body== | ==身体== |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](https://exhentai.org/t/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg) |
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
@@ -27,11 +27,11 @@
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
-| | ===其他改变=== | |  |
+| | ===其他改变=== | |
 | absorption | 吸收 | 吸收某人或某物。可能由捕食(vore)或入阴(unbirth)引发。 | 
 | petrification | 石化 | 成为雕像/岩石般的形象。 | 
 | transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成大象](https://exhentai.org/t/57/34/573406cf1cfa64061071d63686939d0d64f16657-454536-853-1280-jpg_l.jpg) |
-| | ===生物=== | |  |
+| | ===生物=== | |
 | alien | 外星人 | 具有外星生物特征的男性。 |
 | angel | 天使 | 拥有天使的翅膀或光环。 |
 | bunny boy | 兔子男孩 | 兔女郎(bunny girl)的男性版本。 |
@@ -48,13 +48,13 @@
 | goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 | 
 | harpy | 鸟人 | 鸟与人类的混合体。 |
 | horse boy | 马男孩 | 马女孩(horse girl)的男性版本。 | 
-| human on furry | 人毛 | 人与拟人角色间的性行为。 |
+| human on furry | 人毛 | 人与毛茸茸(furry)角色间的性行为。 | 
 | insect boy | 昆虫男孩 | 昆虫女孩(insect girl)的男性版本。 | 
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 | 
 | lizard guy | 蜥蜴男孩 | 蜥蜴女孩(lizard girl)的男性版本。 | 
 | merman | 人鱼 | 美人鱼(mermaid)的男性版本。 | 
 | minotaur | 牛头人 | 弥诺陶洛斯（古希腊语：Μῑνώταυρος，字面意思为“弥诺斯的牛”），希腊神话中一个著名的半人半牛怪物。 | 
-| monster | 怪物 | 任何不是人类、机器人(robot)、恶魔(demon)、动物毛皮(furry)的角色。 |
+| monster | 怪物 | 任何不是人类、机器人(robot)、恶魔(demon)、动物或毛茸茸(furry)的角色。 |
 | mouse boy | 鼠男孩 | 鼠女孩(mouse girl)的男性版本。 |
 | necrophilia | 奸尸 | 涉及尸体的性行为。 | 
 | oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。<br>不应与恶魔(demon)混淆。<br>![图](https://exhentai.org/t/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg) | 
@@ -72,6 +72,54 @@
 | vampire | 吸血鬼 | 有尖尖的牙齿，饮血为生。 | 
 | wolf boy | 狼男孩 | 狼女孩(wolf girl)的男性版本。 |
 | zombie | 僵尸 | 与僵尸性交。 | 
+| | ====动物==== | |
+| animal on animal | 兽兽 | 动物间性交。 | 
+| animal on furry | 兽毛 | 动物与毛茸茸(furry)角色间的性行为。 | 
+| bear | 🐻熊 | 任何熊科动物。 | 
+| bestiality | 兽交 | 人与动物间的性行为。 | 
+| bull | 🐂牛 | 任何雄性牛科动物。 |
+| camel | 🐫骆驼 | 任何类型的骆驼属动物。 | 
+| cat | 🐈猫 | 任何小型猫科动物。 | 
+| crab | 🦀螃蟹 | 任何有壳的甲壳动物。 | 
+| dinosaur | 恐龙 | 任何恐龙进化枝的动物。 | 
+| dog | 🐕狗 | 任何犬属动物。 | 
+| dolphin | 🐬海豚 | 任何小型鲸目哺乳动物。 | 
+| donkey | 驴 | 任何驴亚属动物。 | 
+| dragon | 🐉龙 | 神话中的有翼爬行动物。 | 
+| eel | 鳗鱼 | 任何扁平细长的鱼类。 | 
+| elephant | 🐘象 | 拥有四条粗蹄和象牙的大型哺乳动物。 | 
+| fish | 🐟鱼 | 任何非细长的水生无肢动物。 | 
+| fox | 🦊狐狸 | 任何犬科动物。 | 
+| frog | 🐸青蛙 | 任何无尾目动物。 | 
+| goat | 🐐山羊 | 任何山羊属动物。 | 
+| gorilla | 🦍猩猩 | 任何大型灵长目动物。 | 
+| horse | 🐎马 | 任何无条纹的马属动物。 | 
+| insect | 🐜昆虫 | 任何陆生无脊椎动物。 | 
+| kangaroo | 袋鼠 | 任何有袋类动物。 | 
+| lion | 🦁狮 | 任何有蓬松鬃毛的雄性豹属动物。 | 
+| low bestiality | 未通过兽交 | 表示兽交(bestiality)的情况没有通过存在规则(presence rule)。<br>需要兽交(bestiality)标签。 | 
+| maggot | 🐛蛆 | 任何幼体（两栖类、昆虫、刺丝胞动物在变态为蛹或成体之前的状态）动物。 | 
+| monkey | 🐒猴 | 任何小型灵长目动物。 | 
+| mouse | 🐁鼠 | 任何啮齿目动物。 | 
+| octopus | 🐙章鱼 | 任何头足纲动物。 | 
+| ostrich | 鸵鸟 | 任何长颈无飞行能力的鸟纲动物。 | 
+| panther | 🐆豹 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 | 
+| pig | 🐖猪 | 任何猪属动物。 | 
+| rabbit | 🐇兔 | 任何兔科动物。 | 
+| reptile | 爬虫 | 任何爬行动物。 | 
+| rhinoceros | 🦏犀牛 | 任何有角的有蹄类动物。 | 
+| sheep | 🐑绵羊 | 任何绵羊(Ovis aries)。 | 
+| shark | 🦈鲨 | 任何有软骨骨骼的鱼类。 | 
+| slug | 蛞蝓 | 任何腹足软体动物，包括有甲壳的。 | 
+| snake | 🐍蛇 | 任何蛇亚目动物。 | 
+| spider | 🕷蜘蛛 | 任何蛛形纲动物。 | 
+| tiger | 🐅虎 | 任何虎种动物。 | 
+| turtle | 🐢龟 | 任何龟鳖目动物。 | 
+| unicorn | 🦄独角兽 | 任何有一只角的无条纹的马属动物。 | 
+| whale | 🐋鲸 | 任何鲸下目动物。 | 
+| wolf | 🐺狼 | 任何灰狼种动物。 | 
+| worm | 蠕虫 | 任何有管状身体且无腿的动物。 | 
+| zebra | 斑马 | 任何有条纹的马属动物。 | 
 | | ▼ Body | 身体 |
 | | > Skin | 皮肤 | 
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。（褐色肌）<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) |
@@ -107,8 +155,6 @@
 | blowjob | 口交 | 涉及的嘴和阴茎的性。<br>不要与吸球(ball sucking)混淆。<br>是口交颜(blowjob face)、深喉(deepthroat)的前置标签。<br>给予口交者的性别确定将标签放置在女性或男性的命名空间中。<br>![图](http://exhentai.org/t/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg)![图](http://exhentai.org/t/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>做舔动作的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg)![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
-| pig | 猪 | 不得给毛皮人物添加该标签，应该使用猪男或猪女。 |
-| bull | 牛 | 任何类型的雄性牛科动物，不要与牛女孩混淆，不得给毛皮人物添加该标签，应该使用牛男。 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
