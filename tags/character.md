@@ -4,6 +4,10 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
+| | ▼ 重复项合并 | |
+| chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) <br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295|
+| murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
+| | ▲ 重复项合并 | |  
 | | ▼萌单 人物 | 我已经钦定了，茵可酱只能我来改 |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |
 | pastel ink | 闪亮茵可 | ![闪亮茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f36134flq4j205k08674h.jpg) |
@@ -106,7 +110,7 @@
 | shimakaze | 岛风 | No.010 岛风![岛风](# "http://exhentai.org/t/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg") |
 | fubuki | 吹雪 | No.011 吹雪![吹雪](# "http://exhentai.org/t/fe/d3/fed3c4b1bba573f357acb64b94bcb69e2465fe9c-580323-1000-1398-jpg_250.jpg") |
 | shirayuki | 白雪 | No.012 白雪![白雪](# "http://exhentai.org/t/16/91/1691ed6aca37aa9a8dc8b0527f0a18e5a7cbe542-798232-2122-3000-jpg_250.jpg") |
-| murakumo | 丛云 | No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") |
+|   | 丛云 | 重复项 |
 | ooi | 大井 | No.019 大井![大井](# "http://exhentai.org/t/b4/b1/b4b181f876ca495f29d07ec92de0d1e430902e92-6212386-2124-3000-png_250.jpg") |
 | kitakami | 北上 | No.020 北上![北上](# "http://exhentai.org/t/63/e1/63e11d5f8f44196a51230be24e96b68745d1d737-904164-2122-3000-jpg_250.jpg") |
 | kongou | 金刚 | No.021 金刚![金刚](# "http://exhentai.org/t/e4/5c/e45caf124d139ded1ff1b1e46335ed463ea5c41d-9356857-2400-3391-jpg_250.jpg") |
@@ -117,7 +121,7 @@
 | tenryuu | 天龙 | No.028 天龙![天龙](# "http://exhentai.org/t/c0/d1/c0d115eaaee056ca238618b0257f3a4b6f230234-936113-2149-3035-jpg_250.jpg") |
 | tatsuta | 龙田 | No.029 龙田![龙田](# "http://exhentai.org/t/bd/a9/bda950e593f06a67d5a9fa446f17719653e205a0-2697988-1733-2442-jpg_250.jpg") |
 | ryuujou | 龙骧 | No.030 龙骧![龙骧](# "http://exhentai.org/t/29/43/294342c6fc8815bbdadfc11a4631bd06ec3ee54e-714819-1075-1505-jpg_250.jpg") |
-| chitose | 千岁 | No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |
+|   | 千岁 | 重复项 |
 | chiyoda | 千代田 | No.050 千代田![千代田](# "https://img.acg.moe/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg") |
 | myoukou | 妙高 | No.055 妙高![妙高](# "http://exhentai.org/t/bc/a9/bca9cc8efbd974a6e73a1a95f2956b48f326ee03-2898088-1410-2024-jpg_250.jpg") |
 | nachi | 那智 | No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
@@ -325,7 +329,7 @@
 | ayame | 菖蒲 | ![](http://ehgt.org/t/f6/d7/f6d7951b09c665c3dd3b98e08df89b2256db1ecd-41932-384-480-jpg_l.jpg) |
 | bashou | 芭蕉 | ![](http://ehgt.org/t/2b/c5/2bc5e96f32f6bcd1f6fb369c171e2a5309c02747-53438-288-360-jpg_l.jpg) |
 | chihaya | 千早 | ![](http://ehgt.org/t/f4/ba/f4bad3a928bb47f271f9efba5716cac8c02e56d5-45171-384-480-jpg_l.jpg) |
-| chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) |
+|   | 千岁 | 重复项 |
 | chiyo | 千代 | ![](http://ehgt.org/t/af/cc/afcc7f5743f7829d4f186d8e20803c73cbf201ff-44418-384-480-jpg_l.jpg) |
 | daidouji | 大道寺前辈 | ![](http://ehgt.org/t/4f/e3/4fe30ad9be6a6dcf9c51f8b83f63d6d7fcf798a7-40217-384-480-jpg_l.jpg) |
 | fuga | 风雅 | ![](http://ehgt.org/t/fa/ec/faec74c9ac75adae505ce4c52b5ba0bb0a83abf0-45188-384-480-jpg_l.jpg) |
@@ -358,7 +362,7 @@
 | misato | 深里 | ![](http://ehgt.org/t/b5/69/b56923c624ab02a111bb10f3672389a9e19f485c-47554-384-480-jpg_l.jpg) |
 | miyabi | 雅绯 | ![](http://ehgt.org/t/1b/a0/1ba05af02c838b1b33b1ecf598c29dcb00baf9f6-69389-288-360-jpg_l.jpg) |
 | motochika | 元亲 | ![](http://ehgt.org/t/b3/b3/b3b3ad79695ca5621fbeebf02d13cd087e7fc965-48961-320-400-jpg_l.jpg) |
-| murakumo | 丛 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg) |
+|   | 丛 | 重复项 |
 | muramasa | 村正 | ![](http://ehgt.org/t/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |
 | murasaki | 紫 | ![](http://ehgt.org/t/df/d9/dfd9507d79544bdfb8cb85e8ce1f5adacf5f0d6f-118976-206-257-png_l.jpg) |
 | nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) |
