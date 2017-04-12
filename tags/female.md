@@ -14,7 +14,7 @@
 | milf | 熟女 | 看上去像30-50岁的女性，不一定是母亲(mother)。不得与老女人(old lady)混淆 |
 | old lady | 老女人 | 看起来在50岁以上的女性，不得与熟女(milf)混淆 |
 | toddlercon | 幼女 | 学步的儿童 |
-| | ==Body== | ==身体== |  |
+| | ==Body== | ==身体== |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg)![恶](http://exhentai.org/t/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg)![恶](http://exhentai.org/t/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg) |
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应该用于扶她(futanari)和人妖(shemale)，不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
@@ -29,11 +29,11 @@
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙女(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
-| | ===其他改变=== | |  |
+| | ===其他改变=== | |
 | absorption | 吸收 | 吸收某人或某物。可能由捕食(vore)或入阴(unbirth)引发。 | 
 | petrification | 石化 | 成为雕像/岩石般的形象。 |
 | transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成猫](https://exhentai.org/t/32/19/32192b5f01b4f759cc3e0b95f9d540538307dbd4-844419-1050-1492-jpg_l.jpg) |
-| | ===生物=== | |  |
+| | ===生物=== | |
 | alien girl | 外星女 | 具有外星生物特征的女性。 | 
 | angel | 天使 | 拥有天使的翅膀或光环。 |
 | bee girl | 蜂女 | 具有蜜蜂特征的女性。 | 
@@ -46,12 +46,12 @@
 | draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |
 | fairy | 仙女 | 有翅膀的人或其他生物，往往体型很小。 |
 | fox girl | 狐女 | 有狐狸耳朵和尾巴的女孩。 | 
-| furry | 毛皮 | 拟人化的动物角色，具有人的个性与特点。 |
+| furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。 |
 | ghost | 幽灵 | 与非物质的存在性交。 | 
 | goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 | 
 | harpy | 鸟人 | 鸟与人类的混合体。 | 
 | horse girl | 马女孩 | 拥有马尾或其他马的特征的女性。 |
-| human on furry | 人毛 | 人与拟人角色间的性行为。 | 
+| human on furry | 人毛 | 人与毛茸茸(furry)角色间的性行为。 | 
 | insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 | 
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 | 
 | lizard girl | 蜥蜴女孩 | 有爬行动物的鳞片和尾巴的女孩。 | 
@@ -76,6 +76,54 @@
 | vampire | 吸血鬼 | 有尖尖的牙齿，饮血为生。 | 
 | wolf girl | 狼女孩 | 有尖耳朵、浓密的尾巴或狼的其他特征。 | 
 | zombie | 僵尸 | 与僵尸性交。 | 
+| | ====动物==== | |
+| animal on animal | 兽兽 | 动物间性交。 |
+| animal on furry | 兽毛 | 动物与毛茸茸(furry)角色间的性行为。 | 
+| bear | 🐻熊 | 任何熊科动物。 | 
+| bestiality | 兽交 | 人与动物间的性行为。 | 
+| camel | 🐫骆驼 | 任何类型的骆驼属动物。 | 
+| cat | 🐈猫 | 任何小型猫科动物。 | 
+| cow | 🐄牛 | 任何雌性牛科动物。 |
+| crab | 🦀螃蟹 | 任何有壳的甲壳动物。 | 
+| dinosaur | 恐龙 | 任何恐龙进化枝的动物。 | 
+| dog | 🐕狗 | 任何犬属动物。 | 
+| dolphin | 🐬海豚 | 任何小型鲸目哺乳动物。 | 
+| donkey | 驴 | 任何驴亚属动物。 | 
+| dragon | 🐉龙 | 神话中的有翼爬行动物。 | 
+| eel | 鳗鱼 | 任何扁平细长的鱼类。 | 
+| elephant | 🐘象 | 拥有四条粗蹄和象牙的大型哺乳动物。 | 
+| fish | 🐟鱼 | 任何非细长的水生无肢动物。 | 
+| fox | 🦊狐狸 | 任何犬科动物。 | 
+| frog | 🐸青蛙 | 任何无尾目动物。 | 
+| goat | 🐐山羊 | 任何山羊属动物。 | 
+| gorilla | 🦍猩猩 | 任何大型灵长目动物。 | 
+| horse | 🐎马 | 任何无条纹的马属动物。 | 
+| insect | 🐜昆虫 | 任何陆生无脊椎动物。 | 
+| kangaroo | 袋鼠 | 任何有袋类动物。 | 
+| lioness | 🦁狮 | 任何雌性豹属动物。 | 
+| low bestiality | 未通过兽交 | 表示兽交(bestiality)的情况没有通过存在规则(presence rule)。<br>需要兽交(bestiality)标签。 | 
+| maggot | 🐛蛆 | 任何幼体（两栖类、昆虫、刺丝胞动物在变态为蛹或成体之前的状态）动物。 | 
+| monkey | 🐒猴 | 任何小型灵长目动物。 | 
+| mouse | 🐁鼠 | 任何啮齿目动物。 | 
+| octopus | 🐙章鱼 | 任何头足纲动物。 | 
+| ostrich | 鸵鸟 | 任何长颈无飞行能力的鸟纲动物。 | 
+| panther | 🐆豹 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 | 
+| pig | 🐖猪 | 任何猪属动物。 | 
+| rabbit | 🐇兔 | 任何兔科动物。 | 
+| reptile | 爬虫 | 任何爬行动物。 | 
+| rhinoceros | 🦏犀牛 | 任何有角的有蹄类动物。 | 
+| sheep | 🐑绵羊 | 任何绵羊(Ovis aries)。 | 
+| shark | 🦈鲨 | 任何有软骨骨骼的鱼类。 | 
+| slug | 蛞蝓 | 任何腹足软体动物，包括有甲壳的。 | 
+| snake | 🐍蛇 | 任何蛇亚目动物。 | 
+| spider | 🕷蜘蛛 | 任何蛛形纲动物。 | 
+| tiger | 🐅虎 | 任何虎种动物。 | 
+| turtle | 🐢龟 | 任何龟鳖目动物。 | 
+| unicorn | 🦄独角兽 | 任何有一只角的无条纹的马属动物。 | 
+| whale | 🐋鲸 | 任何鲸下目动物。 | 
+| wolf | 🐺狼 | 任何灰狼种动物。 | 
+| worm | 蠕虫 | 任何有管状身体且无腿的动物。 | 
+| zebra | 斑马 | 任何有条纹的马属动物。 | 
 | | ▼ Legs | 腿 |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
 | kneepit sex | 膝里性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。<br>不应与股间性交(sumata)混淆<br>使用膝盖的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg)![图](http://exhentai.org/t/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg)![图](http://exhentai.org/t/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg)![](http://exhentai.org/t/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg)![图](http://exhentai.org/t/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg)![图](http://exhentai.org/t/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg) |
@@ -166,7 +214,6 @@
 | psssession | 占据 | 皮类常用标签 |
 | absorb | 融合 | 皮类常用标签 |
 | unbirth | 入阴 |  |
-| bestiality | 兽奸 |  |
 | mind control | 精神控制 |  |
 | femdom | 女性支配 |  |
 | sweating | 出汗 |  |
@@ -280,7 +327,6 @@
 | oil | 油 |  |
 | big vagina | 大阴道 | ![图](http://exhentai.org/t/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg)![图](http://exhentai.org/t/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg)![图](http://exhentai.org/t/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg) |
 | drunk | 醉酒 |  |
-| insect | 昆虫 |  |
 | selfcest | 与自己性交 | selfcest 多指与另一个时间线的自己性交 |
 | spanking | 打屁股 |  |
 | mind break | 洗脑 |  |
@@ -301,7 +347,6 @@
 | nipple birth | 乳头出产 | 通过乳头分娩或产卵  |
 | autopaizuri | 自乳交 | 扶她(futanari)用自己胸部给自己乳交 |
 | human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
-| cow | 牛 | 任何类型的雌性牛科动物，不要与牛女孩混淆。 |
 | cannibalism  | 自相残杀 | 人型生物烹饪或食用其他人形生物。 |
 | coprophagia | 食粪 |  |
 | scat | 放屎 |  |
@@ -329,7 +374,6 @@
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 |
 | aunt | 阿姨 | |
 | tall girl | 高个女 | 至少比伙伴搞一个头。如果没有伙伴，靠环境判断。如果女性是女巨人，则不能添加该标签。如果伙伴是正太、萝莉、小人或侏儒，则不能添加该标签。 |
-| pig | 猪 | 不得给毛皮人物添加该标签，应该使用猪男或猪女。 |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | freckles | 雀斑 | |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与暗色皮肤混淆 |
