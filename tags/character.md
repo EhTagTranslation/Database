@@ -367,13 +367,14 @@
 | muramasa | 村正 | ![](http://ehgt.org/t/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |
 | murasaki | 紫 | ![](http://ehgt.org/t/df/d9/dfd9507d79544bdfb8cb85e8ce1f5adacf5f0d6f-118976-206-257-png_l.jpg) |
 |   | 那智 | 重复项 |
-| rin | 凛 | ![](http://ehgt.org/t/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |
+| rin | 凛（铃音） | ![](http://ehgt.org/t/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |
 | ryoubi | 两备 | ![](http://ehgt.org/t/d2/c8/d2c8369d149a62f4baae520d64d36ff477ee99d8-300438-386-480-png_l.jpg) |
 | ryouna | 两奈 | ![](http://ehgt.org/t/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |
 | sakyou | 左京 | ![](http://ehgt.org/t/35/7c/357c4a3fd305858c1c236470015a29d26771bc0e-43185-384-480-jpg_l.jpg) |
 | seimei | 清明 | ![](http://ehgt.org/t/3a/1e/3a1e8c88eb13212e2f06410b91db2e9ca663f754-37813-384-480-jpg_l.jpg) |
 | siki | 四季 | ![](http://ehgt.org/t/70/b0/70b03c1e46e7a700992567ca7b3c2747dee56018-38869-384-480-jpg_l.jpg) |
 | souji | 总司 | ![](http://ehgt.org/t/f4/03/f40375690734bc892d85170d921da33b7eb33cf7-60656-384-480-jpg_l.jpg) |
+| suzune | 凛（铃音） | ![](http://ehgt.org/t/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |
 | syuri | 朱璃 | ![](http://ehgt.org/t/d3/65/d365fef6585d875d536424926782b2f74d7d9d26-51428-384-480-jpg_l.jpg) |
 | ukyou | 右京 | ![](http://ehgt.org/t/5e/f8/5ef80a4733e4af892a7a3bee8662ddf5f9004026-44378-384-480-jpg_l.jpg) |
 | ushimaru | 牛丸 | ![](http://ehgt.org/t/b4/c0/b4c052d94635c37e1a6ac9aeb8e495dff4f61f8f-47167-384-480-jpg_l.jpg) |
