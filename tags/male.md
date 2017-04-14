@@ -142,6 +142,43 @@
 | bbm | 胖男人 | 胖男人，必须要有腹部褶皱。<br>![胖大叔赛高！](http://exhentai.org/t/f2/c7/f2c77d7e82dc41acec57a2d13d792698383aa38a-1711399-1307-1950-png_l.jpg) |
 | ssbbm | 超级胖男人 | 宽比高长的男性。需要胖男人(bbm)标签。 | 
 | weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为胖男人(bbm)。不应与腹部膨胀(inflation)混淆。 | 
+| | ==头部== | | 
+| ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。<br>如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](http://exhentai.org/t/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg)![图](http://exhentai.org/t/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg) | 
+| brain fuck | 脑交 | 涉及大脑的性行为。 | 
+| crown | 王冠 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与宝冠(tiara)混淆。 |
+| elf | 精灵 | 通常有尖耳朵和苗条的身体。 |
+| facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。<br>有时与女性支配(femdom)或捆绑SM(bdsm)配对。 | 
+| gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 | 
+| hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) |
+| masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 |
+| | ===思维=== | |
+| body swap | 换身 | 灵魂互换，该标签不应与凭依(possession)混淆也不能标为性转换(gender bender)。 | 
+| chloroform | 迷药 | 任何物质用于在没有体力的情况下使人失去知觉。 可能导致强奸(rape)或睡觉(sleeping)。 | 
+| corruption | 堕落 | 用魔法或其他超自然力量强硬地腐化某人的头脑，抢夺他们的纯洁。 有可能导致变身(transformation)、怪物(monster)和恶魔(demon)。 | 
+| drugs | 药物 | 任何用于鼓动滥交或快感的药物。不应与迷药(chloroform)或醉酒(drunk)混淆。 | 
+| drunk | 醉酒 | 角色在性行为前或中饮酒。应该明显改变他们的心情或行为。通常会产生红色的脸颊及朦胧的眼睛，并且对性的态度更放松。 | 
+| emotionless sex | 性冷淡 | 表现出没有对性行为产生情绪。 |
+| mind break | 洗脑 | 将一个人从精神上变成性奴隶。 |
+| mind control | 精神控制 | 迫使某人自己做某事。 | 
+| moral degeneration | 道德退化 | 消除一个人的性道德上，有效地把他们变成随意的男人。 | 
+| parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作凭依(possession)。 | 
+| possession | 凭依 | 强行占有和控制一个甚至多个对象的身体。不应与精神控制(mind control)、性转换(gender bender)和换身(body swap)混淆。 | 
+| shared senses | 感官共享 | 分享感官给某物或某人。不得与虫洞(wormhole)混淆。 | 
+| sleeping | 睡觉 | 与未醒之人的性交。可能算作强奸(rape)。 | 
+| | ===眼睛=== | |
+| blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |
+| dark sclera | 深色巩膜 | 眼白是深色的。 | 
+| eye penetration | 插入眼睛 | 在眼或眼窝性交。不应与眼射(cum in eye)混淆。<br>![恶](http://exhentai.org/t/90/f5/90f54422ff4f0475452436960a98aadadc788386-101291-800-600-jpg_250.jpg)![恶](http://exhentai.org/t/e3/cb/e3cb554e3f7c00b4dce5e48008e2f5d57a60a115-57627-600-436-jpg_l.jpg)![恶](http://exhentai.org/t/bc/cd/bccd434adb287c0bbd7cb9ef1da47b191c5fbd60-609804-381-600-png_l.jpg) |
+| eyemask | 眼部面具 | 覆盖眼睛周围区域但露出其余脸部的面具。 | 
+| eyepatch | 眼罩 | 覆盖一只眼睛的布或其他材料。 |
+| glasses | 眼镜 | 用于改善双眼的视力的透明框架眼镜。需要佩戴在眼前才能添加此标签。不应与太阳镜(sunglasses)混淆。 |
+| heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰地在整个画廊保持这种特点。<br>![图](http://exhentai.org/t/5c/5c/5c5c37c1c0c5bb0f09caece9f55ee6e93367100b-74835-640-929-jpg_l.jpg)| 
+| monoeye | 独眼 | 一个单眼的人形角色。 一个双眼的人物因为任何原因失去了眼睛（除了变身(transformation)）不符合条件。需要怪物(monster)或外星人(alien)标签。 | 
+| sunglasses | 太阳镜 | 用于改善在阳光下视力的有色框架眼镜。需要佩戴在眼前才能添加此标签。不应与眼镜(glasses)混淆。 | 
+| unusual pupils | 异瞳 | 瞳孔是或包含奇怪的形状，如心形、星形。除非是意想不到的形状，否则不应该用于动物/恶魔的眼睛。 | 
+| | ===鼻子=== | |
+| nose hook | 鼻吊钩 | 用钩子把鼻孔向上拉，打开鼻孔。 经常与束缚(bondage)配对。 | 
+| smell | 气味 | 发出强烈，耸人听闻的气味的行为。 | 
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
@@ -150,8 +187,6 @@
 | feminization | 女性化 | |
 | | ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
 | gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
-| body swap | 换身 | 灵魂互换，该标签不应与凭依（possession）混淆也不能标为性转换（gender bender） |
-| possession | 凭依 | 强行占有和控制一个甚至多个对象的身体，和换身不同。此tag需打在控制者原来的性别的命名空间中 |
 | dickgirl on male | 扶上男 | |
 | | ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶他(futanari)和人妖(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶他和人妖都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
@@ -174,10 +209,6 @@
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>做舔动作的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg)![图](http://exhentai.org/t/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg) |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚 |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
-| blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |
-| eyepatch | 眼罩 |  |
-| eyemask | 眼部面具 | 遮住眼部周围的面具。 |
-| masked face | 假面 | 遮住整个脸的不透明面具。 |
 | bandages | 绷带 |  |
 | bandaid | 创可贴 |  |
 | business suit | 西装 | |
@@ -186,13 +217,11 @@
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
-| shared senses | 感官共享 | 某人分享他（们）的感官给某物或某人。不得与虫洞混淆。 |
 | virginity | 丧失童贞 | 男性失去童贞，不得与女性的破处混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | teacher | 教师 | |
 | coach | 教练 | |
 | tutor | 家庭教师 | |
-| glasses | 眼镜 | |
 | masturbation | 自慰 | |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
 | tomgirl | 伪娘 | 通常误认为是女性的男性，通常与异性装同时出现，不得与扶她混淆 |
