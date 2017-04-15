@@ -389,3 +389,17 @@
 | yugiri | 夕雾 | ![](http://ehgt.org/t/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |
 | yumi | 雪泉 | ![](http://ehgt.org/t/67/d5/67d593cf612949acb2d8f79ca70eff5bac6ac89c-70055-384-480-jpg_l.jpg) |
 | yuyaki | 夕烧 | ![](http://ehgt.org/t/8f/7b/8f7b6e8a8f461a32798d6b557a987eaf8c32105e-42862-384-480-jpg_l.jpg) |
+| |  ▼小林家的龙女仆 角色 | |
+| tohru | 托尔 | ![托尔](http://ehgt.org/t/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |
+| kanna kamui | 康娜卡姆依 | ![康娜](http://ehgt.org/t/92/45/9245438047724c190da3fb17f94bf2351dae0916-505285-2000-3000-jpg_l.jpg) |
+| quetzalcoatl | 魁札尔科亚特尔（露科亚） | ![露科亚](http://ehgt.org/t/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg) |
+| kobayashi-san | 小林 | ![小林](http://ehgt.org/t/78/c8/78c831f1bdfe841cffac1f136fb58e1d9e496dfe-1490811-2180-3060-png_l.jpg) |
+| shouta magato | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) |
+| |  ▼NEW GAME! 角色 | |
+| aoba suzukaze | 凉风青叶 | ![凉风青叶](http://ehgt.org/t/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) |
+| hifumi takimoto | 泷本日富美 | ![泷本日富美](http://ehgt.org/t/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg) |
+| kou yagami | 八神光 | ![八神光](http://ehgt.org/t/89/d4/89d4065cf866e8d9f1c8b1af62b33307a9a2afa9-899427-2722-3920-jpg_l.jpg) |
+| rin tooyama | 远山伦 | ![远山伦](http://ehgt.org/t/b6/d0/b6d08642d6e4e0f3c30a5dc0e05074b7f652978a-935759-2726-3920-jpg_l.jpg) |
+| hajime shinoda | 篠田初 | ![篠田初](http://exhentai.org/t/ee/4e/ee4e99177812131745a90b7562dc0639cd710323-827430-1075-1522-jpg_l.jpg) |
+| yun iijima | 饭岛结音 | ![饭岛结音](http://exhentai.org/t/c0/c8/c0c87235851c710194d4fd379cc32bb9301457ba-153915-1050-1492-jpg_l.jpg) |
+| shizuku hazuki | 叶月雫 | ![叶月雫](http://ehgt.org/t/ae/8c/ae8c37b359b3dc54599ab002ec4d087b375ead3e-917307-2733-3917-jpg_l.jpg) 
