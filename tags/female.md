@@ -305,8 +305,6 @@
 | public use | 公众使用 | |
 | eggs | 产卵 | |
 | birth | 出产 |  |
-| psssession | 占据 | 皮类常用标签 |
-| absorb | 融合 | 皮类常用标签 |
 | unbirth | 入阴 |  |
 | femdom | 女性支配 |  |
 | sweating | 出汗 |  |
