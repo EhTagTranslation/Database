@@ -5,34 +5,34 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ==年龄== | |
-| age progression | 年龄增长 | 年龄迅速增长 |
-| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与缩小(shrinking)混淆 |
-| infantilism | 幼稚型 | 将成年人当作小孩对待 |
+| age progression | 年龄增长 | 年龄迅速增长。 |
+| age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与缩小(shrinking)混淆。 |
+| infantilism | 幼稚型 | 将成年人当作小孩对待。 |
 | | 思念峡湾(pining for the fjords)的来源：[英语吧](http://tieba.baidu.com/p/742519695) | 也就是放里站啦 |
-| lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。<br>标记时，只考虑外观。是巨乳萝莉(oppai loli)、未通过萝莉(low lolicon)的前置标签。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。<br>![图](http://ul.ehgt.org/e0/40/e04019f1726c19af6d0578102d265870f742c35b-2766744-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/fe/70/fe704e987d28d1ac751171fcbd1dfb072cf7e956-2599848-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/3e/b1/3eb1b33ab0af723090f0e310cda77af8abf26b23-2532393-2440-3500-jpg_l.jpg) |
-| low lolicon | 未通过萝莉 | 表示萝莉(lolicon)的情况没有通过存在规则(presence rule)<br>需要萝莉(lolicon)标签 |
-| milf | 熟女 | 看上去像30-50岁的女性，不一定是母亲(mother)。不得与老女人(old lady)混淆 |
-| old lady | 老女人 | 看起来在50岁以上的女性，不得与熟女(milf)混淆 |
-| toddlercon | 幼女 | 学步的儿童 |
+| lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。标记时，只考虑外观。是巨乳萝莉(oppai loli)、未通过萝莉(low lolicon)的前置标签。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。<br>![图](http://ul.ehgt.org/e0/40/e04019f1726c19af6d0578102d265870f742c35b-2766744-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/fe/70/fe704e987d28d1ac751171fcbd1dfb072cf7e956-2599848-2440-3500-jpg_l.jpg)![图](http://ul.ehgt.org/3e/b1/3eb1b33ab0af723090f0e310cda77af8abf26b23-2532393-2440-3500-jpg_l.jpg) |
+| low lolicon | 未通过萝莉 | 表示萝莉(lolicon)的情况没有通过存在规则(presence rule)。需要萝莉(lolicon)标签。 |
+| milf | 熟女 | 看上去像30-50岁的女性，不一定是母亲(mother)。不得与老女人(old lady)混淆。 |
+| old lady | 老女人 | 看起来在50岁以上的女性。不得与熟女(milf)混淆。 |
+| toddlercon | 幼女 | 学步的儿童。 |
 | | ==身体== | |
-| amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>缺少肢体的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg)![恶](http://exhentai.org/t/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg)![恶](http://exhentai.org/t/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg) |
+| amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>![恶](http://exhentai.org/t/23/1c/231ce6e2209af9bdc6bcac5bdaa15905ad0182fd-252975-750-1200-jpg_l.jpg)![恶](http://exhentai.org/t/bf/26/bf2666ad5ceb8b1c701d70f56940efdc34ada0a0-48894-640-440-jpg_l.jpg)![恶](http://exhentai.org/t/6e/80/6e802de199979dd501a9c603fdb1ce59a5f865c9-43205-480-506-jpg_250.jpg) |
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应该用于扶她(futanari)和人妖(shemale)，不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
 | doll joints | 关节娃娃 | 有圆形或镶嵌的人工关节。 |
-| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。<br>也可用于对非人形的Cosplay(cosplaying)。 |
-| inflation | 腹部膨胀 | 腹部向外膨胀得像个气球。<br>常由于被填充有气体，触手(tentacles)，卵(eggs)，液体，<br>或者大量射精或灌肠导致的腹部膨胀，<br>特点圆滑类似怀孕 <br> ![膨胀](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg)![病](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_250.jpg) |
+| gijinka | 拟人化 | 一个不应当具有人类形态的角色具有了人/完全拟人的形态。也可用于对非人形的Cosplay(cosplaying)。 |
+| inflation | 腹部膨胀 | 腹部向外膨胀得像个气球，常由填充气体、触手(tentacles)、卵(eggs)、液体，或者由吞食(vore)和入阴(unbirth)行为导致。<br>![膨胀](http://exhentai.org/t/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg)![病](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_250.jpg) |
 | invisible | 透明 | 一个透明人参与了性行为。 |
 | multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |
 | multiple breasts | 多对乳房 |  一个人拥有两个以上的乳房。 |
-| muscle | 肌肉 | 肌肉发达的角色<br>![例](https://exhentai.org/t/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg) |
+| muscle | 肌肉 | 肌肉发达的角色。<br>![例](https://exhentai.org/t/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg) |
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |
-| stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。<br>不要用到任何应该标记为触手(tentacles)的地方 。 |
+| stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙女(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
 | | ===其他改变=== | |
-| absorption | 吸收 | 吸收某人或某物。可能由捕食(vore)或入阴(unbirth)引发。 | 
+| absorption | 吸收 | 吸收某人或某物。可能由吞食(vore)或入阴(unbirth)引发。 | 
 | petrification | 石化 | 成为雕像/岩石般的形象。 |
-| transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以加入这个tag![变成猫](https://exhentai.org/t/32/19/32192b5f01b4f759cc3e0b95f9d540538307dbd4-844419-1050-1492-jpg_l.jpg) |
+| transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以使用此标签。<br>![变成猫](https://exhentai.org/t/32/19/32192b5f01b4f759cc3e0b95f9d540538307dbd4-844419-1050-1492-jpg_l.jpg) |
 | | ===生物=== | |
 | alien girl | 外星女 | 具有外星生物特征的女性。 | 
 | angel | 天使 | 拥有天使的翅膀或光环。 |
@@ -41,7 +41,7 @@
 | catgirl | 猫女 | 有猫耳，可能有猫尾或其他猫的特征。 | 
 | centaur | 半人马 | 一半是人，一半是马。 | 
 | cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与巨乳配对。 | 
-| demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）<br>不能与恶魔(demon)或鬼(oni)标签混淆。恶魔女孩不应该被标记为怪物女孩(monster girl)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)的标签。<br>魔鬼女孩(devil girl)和女妖(succubus)是同义词。<br>![图](http://exhentai.org/t/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg)![图](http://exhentai.org/t/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg)![图](http://exhentai.org/t/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg)![图](http://exhentai.org/t/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg) | 
+| demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与恶魔(demon)或鬼(oni)标签混淆。恶魔女孩不应该被标记为怪物女孩(monster girl)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)标签。<br>![图](http://exhentai.org/t/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg)![图](http://exhentai.org/t/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg)![图](http://exhentai.org/t/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg)![图](http://exhentai.org/t/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg) | 
 | dog girl | 狗女孩 | 有狗耳朵或狗尾巴的女性。 | 
 | draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |
 | fairy | 仙女 | 有翅膀的人或其他生物，往往体型很小。 |
@@ -59,7 +59,7 @@
 | monster girl | 怪物女孩 | 怪物(monster)的女性版本。 |
 | mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 | 
 | necrophilia | 奸尸 | 涉及尸体的性行为。 | 
-| oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。<br>不应与恶魔女孩(demon girl)混淆。<br>![图](http://ul.ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](http://exhentai.org/t/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg)![图](http://exhentai.org/t/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg) | 
+| oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与恶魔女孩(demon girl)混淆。<br>![图](http://ul.ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](http://exhentai.org/t/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg)![图](http://exhentai.org/t/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg) | 
 | orc | 兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。 | 
 | pig girl | 猪女 | 有猪耳朵、猪鼻、猪尾或猪的其他特征。 | 
 | plant girl | 植物女孩 | 女性的植物-人类混合体。需要怪物女孩(monster girl)标签。 | 
@@ -125,7 +125,7 @@
 | worm | 蠕虫 | 任何有管状身体且无腿的动物。 | 
 | zebra | 斑马 | 任何有条纹的马属动物。 | 
 | | ===身高=== | |
-| giantess | 女巨人 | 远高于其他人，应该可以将一个普通体型的角色放在手中。<br>利用环境线索来判断一个角色的体型。 |
+| giantess | 女巨人 | 远高于其他人，应该可以将一个普通体型的角色放在手中。利用环境线索来判断一个角色的体型。 |
 | growth | 巨大化 | 变高，有可能成为女巨人(giantess)。 | 
 | midget | 侏儒 | 一个很矮的人。应该看起来小于其他角色的腰围高度。 | 
 | minigirl | 迷你女孩 | 手掌大小的女性。 | 
@@ -133,14 +133,14 @@
 | tall girl | 高个女 | 高个的女性，至少比其他角色高一个头。不应对女巨人(giantess)添加该标签。不在其他角色为正太(shotacon)、萝莉(lolicon)、迷你女孩(minigirl)、迷你男孩(miniguy)或侏儒(midget)时对普通体型女性使用。 | 
 | | ===皮肤=== | |
 | albino | 白化 | 红眼和颜色极浅的皮肤。 | 
-| body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“RBQ”等贬义词语。<br>不应与身体绘画(body painting)混淆。 | 
-| body painting | 身体绘画 | 在脸或身体上大面积地绘画。<br>不应与身体写作(body writing)混淆。 | 
+| body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“RBQ”等贬义词语。不应与身体绘画(body painting)混淆。 | 
+| body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与身体写作(body writing)混淆。 | 
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与晒痕(tanlines)混淆。<br>![图](http://exhentai.org/t/92/76/927631cd39fcd83a4009307daedf7f6f11ac6570-4933769-2450-3510-jpg_l.jpg) | 
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 | 
 | full body tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须非常突出或很大。 |
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 | 
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |
-| skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。<br>不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>皮的性别决定要放入女性还是男性的命名空间。<br>![图](http://ul.ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](http://ul.ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](http://ul.ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg)  |
+| skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>![图](http://ul.ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](http://ul.ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](http://ul.ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg)  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。 |
 | | ===体重=== | |
 | anorexic | 瘦骨嶙峋 | 体重过轻，以至于皮肤凹陷、骨骼结构可见。 |
@@ -148,13 +148,13 @@
 | ssbbw | 超级胖女人 | 宽比高长的女性。需要胖女人(bbw)标签。 | 
 | weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为胖女人(bbw)。不应与腹部膨胀(inflation)混淆。 | 
 | | ==头部== | | 
-| ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。<br>如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](http://exhentai.org/t/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg)![图](http://exhentai.org/t/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg) | 
+| ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](http://exhentai.org/t/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg)![图](http://exhentai.org/t/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg) | 
 | brain fuck | 脑交 | 涉及大脑的性行为。 | 
 | cockslapping | 屌掴 | 用阴茎打人（通常是脸）。 |
 | crown | 王冠 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与宝冠(tiara)混淆。 | 
 | ear fuck | 耳交 | 插入耳朵的性交。 | 
 | elf | 精灵 | 通常有尖耳朵和苗条的身体。 | 
-| facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。<br>有时与女性支配(femdom)或捆绑SM(bdsm)配对。 | 
+| facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性支配(femdom)或调教(bdsm)配对。 | 
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 | 
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) |
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 |
@@ -192,12 +192,12 @@
 | | ===嘴=== | |
 | big lips | 大嘴唇 | 异常大的嘴唇。嘴唇的高度必须超过人眼的高度才能符合条件。 | 
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与吸球(ball sucking)混淆。是口交颜(blowjob face)、深喉(deepthroat)的前置标签。<br>![图](http://exhentai.org/t/43/7e/437eaf25debe48e71503fc8c9f64e6b0f9d6046f-813559-2028-3043-jpg_250.jpg)![图](http://exhentai.org/t/e5/33/e5337053a85a81f44e0c1214b3243ca81e789093-306887-850-1200-jpg_250.jpg)![图](http://exhentai.org/t/f5/0c/f50c601c09e207c46939e3babe1f1ff245b11858-527111-786-1100-jpg_l.jpg)![图](http://exhentai.org/t/5b/b0/5bb001a93e05d23efae65caf19b81cb63f85f330-209282-976-1400-jpg_l.jpg)![图](http://exhentai.org/t/f9/c7/f9c7af53e0d76bcb6c40591d9f77d7b46e9073c1-208311-800-600-jpg_l.jpg)![图](http://exhentai.org/t/8b/cf/8bcf277cfb47318d8c040a33aa6667eeb3023446-220428-800-600-jpg_l.jpg)![图](http://exhentai.org/t/30/a7/30a73e6367b52d99f7f145b64823e53fc263aac2-245241-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ec/ba/ecbad217ad5531b07b5c147960f513a6d112871b-72114-800-600-jpg_l.jpg)![图](http://exhentai.org/t/28/bf/28bf66d9d43f7db4c34007e6f97830d25f37bad4-1130064-1280-720-png_l.jpg)![图](http://exhentai.org/t/58/ff/58ff7354a33376479943d6b9748d1c72c1b1b639-224979-800-600-jpg_l.jpg)![图](http://exhentai.org/t/12/99/1299dc57e5b1df4710908cbdb90a31fad74fd4c8-207472-800-600-jpg_l.jpg)![图](http://exhentai.org/t/db/b4/dbb463c00813947a7bb60774c144dbc335c513e4-187401-800-600-jpg_l.jpg)![图](http://exhentai.org/t/f2/87/f287b1ee2ab895b39e4a7efea7bfbffa659f5abe-145811-800-600-jpg_l.jpg)![图](http://exhentai.org/t/aa/3a/aa3a3cb8359a374659dcd87e7d6f4499a9aeac48-242842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ea/7c/ea7c8d01871a81e4584881dee9597d1dabf28e96-1148322-1280-720-png_l.jpg)![图](http://exhentai.org/t/e9/9c/e99c154710ef83be4bc6bd0b7a70a24068654c7d-610498-800-600-png_l.jpg)![图](http://exhentai.org/t/59/58/59581c46e0b1866327c8432b72a57d58ba998cec-1216852-1280-720-png_l.jpg)![图](http://exhentai.org/t/10/85/108511b4d3dc421b901d22c59ac80d434df43b18-1225072-1280-720-png_l.jpg)![图](http://exhentai.org/t/39/3b/393bfe911790c69b0373aeb2d309fb9028559904-169767-1200-1200-jpg_l.jpg)![图](http://exhentai.org/t/f7/fa/f7faed81a104db73f0067a3ed0212d99d9c38fb6-268341-750-1054-jpg_l.jpg)![图](http://exhentai.org/t/97/51/97513a00230ceb7688c58114c91893ab163dc2a6-112060-640-480-jpg_l.jpg)![图](http://exhentai.org/t/66/02/66026aaf8175d7a3dde2ca491a71b6f9a3f2e10e-155375-706-1000-jpg_l.jpg) | 
-| blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要口交(blowjob)标签<br>![图](http://exhentai.org/t/89/11/8911e4dfea8b92f97b03c442eeaa0500eba4722a-423745-1269-1800-jpg_l.jpg)![图](http://exhentai.org/t/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg)![图](http://exhentai.org/t/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg) |
+| blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要口交(blowjob)标签。<br>![图](http://exhentai.org/t/89/11/8911e4dfea8b92f97b03c442eeaa0500eba4722a-423745-1269-1800-jpg_l.jpg)![图](http://exhentai.org/t/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg)![图](http://exhentai.org/t/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg) |
 | braces | 牙套 | 用于对齐和矫直牙齿的装置。 | 
 | burping | 打嗝 | 可见的打嗝行为。 |
 | coprophagia | 食粪 | 需要排便(scat)标签。 | 
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。需要口交(blowjob)标签。<br>![图](http://exhentai.org/t/57/32/5732064b65ee3c68a7b524c901801755908d0a50-567371-780-1160-png_l.jpg)![图](http://exhentai.org/t/d9/87/d9878adb411c79d0549edb4685072eff3ab9b49d-393304-650-813-jpg_l.jpg)![图](http://exhentai.org/t/ca/06/ca06a26578ac989da5ecd8fb0738f457aa5b4b5d-215971-800-800-jpg_l.jpg)![图](http://exhentai.org/t/19/54/19542827f68c3314f258d3fec801f49446ddef30-150623-713-950-jpg_l.jpg)![图](http://exhentai.org/t/c5/52/c552e918349cedf7c5b2e5c546c88bdbc2daf8ab-288013-853-1200-jpg_l.jpg)![图](http://exhentai.org/t/40/f7/40f7f04dbf721463abbd71f4d6143d807dfe8fd7-526879-850-1345-jpg_l.jpg)![图](http://exhentai.org/t/53/00/53009d7b59c5ff0ce1424816dfe1a7c1dbae9776-93407-800-600-jpg_l.jpg)![图](http://exhentai.org/t/64/2f/642f2917482c3230cf4de5ad51516e338792a2fe-213174-991-1400-jpg_l.jpg)![图](http://exhentai.org/t/f9/58/f9582be1e6d826cd467cf35cd9451c02e5391489-60482-640-480-jpg_l.jpg)![图](http://exhentai.org/t/40/48/40488cb4d2d3dc088139b0286e3e43daae040eff-256892-800-600-jpg_l.jpg)![图](http://exhentai.org/t/6b/49/6b4948123fb483772357cab413d7f34e34258920-111582-640-640-jpg_l.jpg)![图](http://exhentai.org/t/2c/87/2c878c405e26b4ca60f9d966b808f0b6c71db26b-173580-800-600-jpg_l.jpg)![图](http://exhentai.org/t/e5/01/e501aa4e1a7d262a18c3e6ca4f53ce1ac71b3a7c-80266-640-480-jpg_l.jpg)![图](http://exhentai.org/t/fd/da/fdda3df5c607f8d6dd8923cf6d39f53c7d4404f1-185891-800-600-jpg_l.jpg)![图](http://exhentai.org/t/9a/49/9a49ee030caaf132b5879d33dc7dfc74d0da98c8-66893-800-600-jpg_l.jpg)![图](http://exhentai.org/t/89/48/8948d38186bbc3a7d973dc7aa84b3806ee35df7e-89513-800-600-jpg_l.jpg)![图](http://exhentai.org/t/86/1e/861eef484e7d56ef812e960b9fd5c2d6f38a571b-299189-800-600-jpg_l.jpg)![图](http://exhentai.org/t/72/03/72032778af6157d8fc3a89ce89642637bf7f6587-218539-1055-1500-jpg_l.jpg)![图](http://exhentai.org/t/5b/7e/5b7e7f0f8a95f84ecde832447531959b97c5cfba-625407-990-1400-jpg_l.jpg)![图](http://exhentai.org/t/04/a8/04a88acc53b423f1fc8265c6c32c1c5e1692f86a-361239-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ea/8c/ea8c0b3c1c47fb9f0aea4305827f26169e825209-303128-800-600-jpg_l.jpg)![图](http://exhentai.org/t/b0/ad/b0adfb8bdf6e798aa27bfc9c50f4840d909677fa-2012308-2085-3027-jpg_l.jpg)![图](http://exhentai.org/t/4d/7f/4d7f279e858410080fea9761ec0ae3a992582a01-30960-688-492-jpg_l.jpg)![图](http://exhentai.org/t/2b/0b/2b0b66d7f5de48848af2d6754469df0e938cbc1a-277260-600-750-jpg_l.jpg)![图](http://exhentai.org/t/e4/e7/e4e7e9b884c964dba63fbc77ec6017962357466c-63918-800-600-jpg_l.jpg)![图](http://exhentai.org/t/d3/67/d367f062370a4881d9fb51ae7cae00ee3d86624f-736544-1024-768-png_l.jpg)![图](http://exhentai.org/t/13/a6/13a645d890a57488b5644f72b6ca3e04cddfa597-568271-1280-960-jpg_l.jpg)![图](http://exhentai.org/t/fe/f7/fef729763cc435349bfaa262f98e2298a4445d88-106507-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ab/84/ab8434613bcba957fd1c39c6b1ef136e46ecd2f0-1923761-800-600-png_l.jpg)![图](http://exhentai.org/t/e3/a4/e3a4de272b459e63ea995f313ff64db353af91d8-1923761-800-600-png_l.jpg)![图](http://exhentai.org/t/67/2d/672d9ac613f46dec67a704a227b47f136517ea3e-152387-800-600-jpg_l.jpg)![图](http://exhentai.org/t/02/48/02486c18273cc6024305cc5b052c9cc9596d370f-161730-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ac/a8/aca8f1b0ebd4d9461f3fe1f1803987d15b977fd3-208090-800-600-jpg_l.jpg)![图](http://exhentai.org/t/85/4b/854b4e89ab1ffdf8dd957cf7d1d407f48c21b979-76946-800-600-jpg_l.jpg)![图](http://exhentai.org/t/c6/90/c6901ec9c98dcbfa11651b16d414ee968cd3d990-554581-1280-1280-jpg_l.jpg)![图](http://exhentai.org/t/1c/e6/1ce6e268b79af84d5709ad91e92b6be8257b5c10-101519-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a7/40/a740682ea5027ca30bde702ad82606ef207bae42-98179-800-600-jpg_l.jpg)![图](http://exhentai.org/t/f2/dc/f2dc2f5733e220a0a5f29641f478694056738056-86438-850-638-jpg_l.jpg)![图](http://exhentai.org/t/d7/03/d703ed94f56c9cf08dc725344cedca166ab866ff-150264-1024-768-jpg_l.jpg)![图](http://exhentai.org/t/e5/d0/e5d0668713ef6c9d6681eeb7d5bf97295dc62d20-967454-1024-768-png_l.jpg)![图](http://exhentai.org/t/5b/40/5b407332dfbbb1511a85dd5698f8d3ee90172501-254206-800-600-jpg_l.jpg)![图](http://exhentai.org/t/3f/b3/3fb3bd18caaa709fd72c138c0db5ed7c38fbeb8a-366807-800-600-jpg_l.jpg)![图](http://exhentai.org/t/94/79/9479f109d018bd3493c5da8572700932d18ebf74-154242-800-600-jpg_l.jpg)![图](http://exhentai.org/t/4d/47/4d475948848305325cdd378809be66807d26e967-164615-800-600-jpg_l.jpg)![图](http://exhentai.org/t/6b/b0/6bb0829d6eafd69ecdd997523e0464232c8849c5-143021-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a6/d9/a6d99a875cf50ebeea2f210ec8c92b53c73868f7-305187-1024-768-jpg_l.jpg)![图](http://exhentai.org/t/07/8b/078b23772fee6f2c1ba8a778267b81d6c1d2f18e-657673-800-600-png_l.jpg)![图](http://exhentai.org/t/b3/66/b36681cc0a495df6c11c49d993d3aa242cf60277-821264-800-600-png_l.jpg)![图](http://exhentai.org/t/71/62/7162de125b529d69c29de083a7c920321733e940-923445-1024-768-png_l.jpg)![图](http://exhentai.org/t/e3/c3/e3c360bae871c1e9d489a63afc9eae09d48b13d6-598142-800-600-png_l.jpg)![图](http://exhentai.org/t/d9/91/d99171683ed40930c11aebb2b46f9b33c6074364-934786-1024-768-png_l.jpg)![图](http://exhentai.org/t/43/02/4302792a8c32c357f1ca221a202b5170f4c63086-848930-1024-768-png_l.jpg)![图](http://exhentai.org/t/16/0e/160ee984185aa183dbd79a4baf247138cf51c493-796679-1024-768-png_l.jpg)![图](http://exhentai.org/t/77/bd/77bd379b6de080502ea975212d16909c672abe35-199145-800-600-jpg_l.jpg)![图](http://exhentai.org/t/b8/6b/b86bc1b0481fd969afc8e268af94df8d2f2613d5-221630-800-600-jpg_l.jpg)![图](http://exhentai.org/t/9f/97/9f97e7f92f4545164fec7e01a31001402557893f-319491-800-600-jpg_l.jpg)![图](http://exhentai.org/t/08/ce/08ce1879181157903970e9473818c9926c325a1b-138135-800-600-jpg_l.jpg)![图](http://exhentai.org/t/9f/11/9f11897620e2bb901e29c61a786f8514294f86e6-106225-800-600-jpg_l.jpg)![图](http://exhentai.org/t/cd/ae/cdae067383dac2e33e47f081b881e3c0cdfe9042-773748-800-600-png_l.jpg)![图](http://exhentai.org/t/b8/d7/b8d762e66dba0ba13737406a6b242e39d85e776d-801950-1024-768-png_l.jpg)![图](http://exhentai.org/t/1d/e8/1de886b019da8db32db88bc25010d13455c84ab6-575279-800-600-png_l.jpg)![图](http://exhentai.org/t/96/b8/96b8b9bf44bd82bb08fd646911e19f5f67ab845b-748723-800-600-png_l.jpg)![图](http://exhentai.org/t/31/d1/31d1976b7202bf81a1d97c7e12f513b0a836a810-549036-800-600-png_l.jpg)![图](http://exhentai.org/t/15/12/1512b3a5c84870dbd63075ce197bf467cbd9e62f-644015-800-600-png_l.jpg)![图](http://exhentai.org/t/6f/5f/6f5fa833c93cf1c6d1519318b8f9d4df4d56ec10-736139-800-600-png_l.jpg) | 
-| double blowjob | 双重口交 | 两个阴茎插入同一张嘴。不需要口交(blowjob)标签，除非涉及单一阴茎的行为分开发生。![](http://exhentai.org/t/34/ee/34eee48d6c066853dc6f903a94d6943743f0686d-344974-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/bd/da/bddae35b2e6745c06c83e450352426ec176d17c0-189142-800-600-jpg_l.jpg)![图](http://exhentai.org/t/14/ec/14ece56b484ad578c88f8c85d5a15a5b1a230642-2095217-1455-2115-jpg_250.jpg)![图](http://exhentai.org/t/a2/f9/a2f9e57df63b01dfb44aae6a6c4c6ba59cd081c0-889847-1280-720-png_l.jpg)![图](http://exhentai.org/t/85/1f/851f83e9692c73719cd6b6334f25b0000848a396-1021449-2111-3000-jpg_l.jpg) | 
+| double blowjob | 双重口交 | 两个阴茎插入同一张嘴。不需要口交(blowjob)标签，除非涉及单一阴茎的行为分开发生。<br>![](http://exhentai.org/t/34/ee/34eee48d6c066853dc6f903a94d6943743f0686d-344974-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/bd/da/bddae35b2e6745c06c83e450352426ec176d17c0-189142-800-600-jpg_l.jpg)![图](http://exhentai.org/t/14/ec/14ece56b484ad578c88f8c85d5a15a5b1a230642-2095217-1455-2115-jpg_250.jpg)![图](http://exhentai.org/t/a2/f9/a2f9e57df63b01dfb44aae6a6c4c6ba59cd081c0-889847-1280-720-png_l.jpg)![图](http://exhentai.org/t/85/1f/851f83e9692c73719cd6b6334f25b0000848a396-1021449-2111-3000-jpg_l.jpg) | 
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](http://ul.ehgt.org/54/3d/543dcc62c6357638503100fedfcd554b25d223ab-948263-1410-2000-jpg_l.jpg)![图](http://ul.ehgt.org/23/5e/235e93b5a3030a7481d7816b2e913c8679dc9b0a-387966-836-1280-jpg_l.jpg)![图](http://ul.ehgt.org/49/c2/49c273c6bac879babbee0cabda526522069aee36-759116-1411-2000-png_l.jpg)![图](http://ul.ehgt.org/7b/2e/7b2e993dd72628530b90c992e68d4eabef20f8b3-3313149-1697-2500-jpg_l.jpg)![图](http://ul.ehgt.org/be/83/be8391224c5ebd9a79044256e051e5121d9354e7-585975-1386-1969-jpg_l.jpg)![图](http://ul.ehgt.org/d9/cc/d9cce6b5cd84b5a7e81b7a80d4edb59cb2d8321c-1062706-1403-2000-png_l.jpg)![图](http://ul.ehgt.org/1c/4e/1c4e83f8294eeab5b9006b5701b9fe616221c735-1399112-2114-3047-jpg_l.jpg)![图](http://ul.ehgt.org/5f/7a/5f7a0fe0d8820ab2d9ec358d2b89db3fd78caa03-708231-2114-3047-jpg_l.jpg)![图](http://ul.ehgt.org/4a/10/4a10adf26cc4fef9b18972dad3e1f138a5a677d1-719966-2114-3047-jpg_l.jpg)![图](http://ul.ehgt.org/f2/85/f285b654eb64a460cd31fd8dab9d63274633ac51-661979-850-1200-jpg_l.jpg) | 
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚(bondage)。 | 
 | gokkun | 饮精 | 喝下精液。在口交(blowjob)后进行的此行为不被包含在内，必须单独发生。<br>![图](http://exhentai.org/t/bc/b2/bcb2f52e42839f98c09df61eed468fa9b48a069f-157141-800-600-jpg_250.jpg)![图](http://exhentai.org/t/20/91/20910c7cc5e264f88bd7872771e9a4b84f344fe8-745353-984-1400-jpg_l.jpg)![图](http://exhentai.org/t/e5/9d/e59daa483b0d9e7ebedb9b860dc2a13dcf3a8325-1850669-2006-2995-jpg_l.jpg) | 
@@ -211,6 +211,16 @@
 | unusual teeth | 异齿 | 利齿、龅牙、牙缝或缺牙。不用与非人形和鲨女孩(shark girl)。 |
 | vomit | 呕吐 | 胃内容物通过口或鼻反流。 | 
 | vore | 吞食 | 被整个吞下，可能导致吸收(absorption)。不应与入阴(unbirth)和食人(cannibalism)混淆。 |
+| | ==脖子== | |
+| asphyxiation | 窒息 | 有意限制对大脑的供氧，往往是为了使性觉醒。 | 
+| collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教(bdsm)或人宠(human pet)行为时穿戴。 |
+| | ==手臂== | |
+| armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |
+| armpit sex | 腋交 | 使用腋下部位刺激阴茎。<br>![图](http://exhentai.org/t/c4/91/c491218c3d729855f977561184422d3b3f4eeb04-298381-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/20/fe/20fe982104c0c8d8f530a57fd31944f7c9677c36-815500-1280-720-png_l.jpg)![图](http://exhentai.org/t/f0/4f/f04fd8d3c273eaed496c3a6490b39512d9a6ebf8-230372-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/6b/39/6b3947bcb02aca236fbffbc399d1d164db4077d1-694322-750-1000-png_l.jpg) | 
+| fingering | 指法 | 使用手指产生性快感。不应在自慰(masturbation)时使用。男性版本是前列腺按摩(prostate massage)。 | 
+| fisting | 拳交 | 将拳头插入阴道或肛门。<br>![图](http://exhentai.org/t/bb/e0/bbe0dec8de4cf3912770e4ad38337a7d8b60aace-256432-800-600-jpg_l.jpg)![图](http://exhentai.org/t/0a/50/0a5071b7fce6d006d5b12320bd343de18dd1b83b-824589-1024-768-png_l.jpg)![图](http://exhentai.org/t/41/d0/41d0182099098eaa7dc04257d7caca56392776f3-436838-650-540-png_l.jpg) | 
+| handjob | 打手枪 | 为其他人手淫。不应与自慰(masturbation)混淆。<br>![图](http://exhentai.org/t/02/bf/02bf048f87962fc90c905c2cec2c4201904c0b89-196591-768-1024-jpg_l.jpg)![图](http://exhentai.org/t/f4/44/f444e6b60f0e10a1c68223d8b9c8c936ee3d3ac9-343233-800-600-jpg_l.jpg)![图](http://exhentai.org/t/d0/ce/d0ce13f5b7d8f358ecf86c6e1a843003ee0f0f21-228098-1056-990-jpg_l.jpg) | 
+| hairy armpits | 腋毛 | 必须足以形成一个毛球。 |
 | | ▼ Legs | 腿 |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
 | kneepit sex | 膝里性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。<br>不应与股间性交(sumata)混淆<br>使用膝盖的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg)![图](http://exhentai.org/t/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg)![图](http://exhentai.org/t/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg)![](http://exhentai.org/t/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg)![图](http://exhentai.org/t/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg)![图](http://exhentai.org/t/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg) |
@@ -223,13 +233,6 @@
 | foot insertion | 足插入 | 一个或多个脚插入阴道等孔。<br>接受插入的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/34/b3/34b3a6e20775938e628764feb4647c1264643ebe-312671-560-420-jpg_l.jpg) |
 | footjob | ![icon](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41q266fgwg200r00d04f.gif)足交 | 用脚对另一个人进行性刺激。<br>不要与腿交(footjob)混淆。<br>给予足交的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/51/47/5147b5240e3b1eb72216946694a16da9399bee6b-181872-573-800-jpg_250.jpg)![图](http://exhentai.org/t/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg)![图](http://exhentai.org/t/66/70/667031317099de258cfad45f8ee969992b7bfab4-251301-800-600-jpg_l.jpg)![图](http://exhentai.org/t/78/c1/78c17f61991eebe2c2c03de1ccd9d84d12359199-779657-1024-600-png_l.jpg)![图](http://exhentai.org/t/28/7d/287dfea57b4a785856eedb4c229b3548a1853c1f-663304-1024-600-png_l.jpg)![图](http://exhentai.org/t/b6/64/b664ac6368cb2814b739e597e7ceceb21ba8831f-1203961-1200-1163-jpg_250.jpg)![图](http://exhentai.org/t/e2/a7/e2a70bc30f8614baca77dfa4d4eb6708c4995065-286948-800-600-jpg_l.jpg)![图](http://exhentai.org/t/84/ac/84ac7b6a6694aae07a1f8bbd833be264f56fdf6a-160746-800-600-jpg_l.jpg)![图](http://exhentai.org/t/9b/08/9b08ef683dbbef15febcad144f43e8d961da3cf1-664459-800-600-png_l.jpg) |
 | thigh high boots | 高筒靴 | 高过膝盖的靴子<br>不应与长筒袜(stockings)标签混淆。<br>穿靴子的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg)![图](http://exhentai.org/t/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg) |
-| | ▼ Arms | 手臂 |
-| armpit licking | 腋下舔 |  |
-| armpit sex | 腋交 | 使用腋下部位刺激阴茎<br>腋下所有者的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/c4/91/c491218c3d729855f977561184422d3b3f4eeb04-298381-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/20/fe/20fe982104c0c8d8f530a57fd31944f7c9677c36-815500-1280-720-png_l.jpg)![图](http://exhentai.org/t/f0/4f/f04fd8d3c273eaed496c3a6490b39512d9a6ebf8-230372-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/6b/39/6b3947bcb02aca236fbffbc399d1d164db4077d1-694322-750-1000-png_l.jpg) |
-| fingering | 手指伸入 |  |
-| fisting | 拳交 | ![图](http://exhentai.org/t/bb/e0/bbe0dec8de4cf3912770e4ad38337a7d8b60aace-256432-800-600-jpg_l.jpg)![图](http://exhentai.org/t/0a/50/0a5071b7fce6d006d5b12320bd343de18dd1b83b-824589-1024-768-png_l.jpg)![图](http://exhentai.org/t/41/d0/41d0182099098eaa7dc04257d7caca56392776f3-436838-650-540-png_l.jpg) |
-| handjob | 打手枪 | 女性为男性手淫![图](http://exhentai.org/t/02/bf/02bf048f87962fc90c905c2cec2c4201904c0b89-196591-768-1024-jpg_l.jpg)![图](http://exhentai.org/t/f4/44/f444e6b60f0e10a1c68223d8b9c8c936ee3d3ac9-343233-800-600-jpg_l.jpg)![图](http://exhentai.org/t/d0/ce/d0ce13f5b7d8f358ecf86c6e1a843003ee0f0f21-228098-1056-990-jpg_l.jpg) |
-| hairy armpits | 腋毛 |  |
 | | ▼ Contextual > Infidelity | 文章内容上的 > 不忠 |
 | netorare | NTR | 寝取られ，绿帽子。不忠(Infidelity)类<br>另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。<br>不应与出轨(cheating)混淆。（性主角这方是被动的）<br>不忠的人的性别决定放入女性还是男性的命名空间。<br>同义词：戴绿帽(cuckold)、寝取(netori) |
 | cheating | 出轨 | 寝取り。不忠(Infidelity)类不忠(Infidelity)类<br>另一半与别人的伴侣发生性关系。<br>如果性相互作用是违背自己的意愿，不应标记(例如强奸)或属于(swinging)。<br>不应与NTR(netorare)混淆。（性主角这方是主动的）<br>出轨的人的性别决定放入女性还是男性的命名空间。 |
@@ -357,7 +360,7 @@
 | tutor | 家庭教师 | |
 | kimono | 和服 |  |
 | shibari | 日式捆绑 |  |
-| bdsm | 捆绑SM |  |
+| bdsm | 调教 |  |
 | granddaughter | 孙女 |  |
 | fundoshi | 六尺褌 | 相扑手穿的丁字裤 |
 | bondage | 束缚 |  |
@@ -370,7 +373,6 @@
 | piercing | 刺穿 | 任何形式的穿孔除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>被穿孔的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg)![恶](http://exhentai.org/t/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg) |
 | randoseru | 书包 |  |
 | menstruation | 经血 | 大姨妈 |
-| asphyxiation | 窒息 |  |
 | tiara | 宝冠 |  |
 | tube | 插管 | 向体内插入管子 插入肛门等 |
 | syringe | 注射器 |  |
@@ -412,7 +414,6 @@
 | bride | 新娘 |  |
 | diaper | 尿布 | 一种用来承接大小便的内衣；往往被婴儿穿戴。经常与年龄进展、拉屎、幼稚型或放尿配对。 |
 | pole dancing | 钢管舞 | |
-| collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教或人宠行为时穿戴 |
 | aunt | 阿姨 | |
 | business suit | 西装 | |
 | tracksuit | 运动服 | |
