@@ -20,10 +20,11 @@
 | mtf threesome | 男扶女 | |
 | ttm threesome | 扶扶男 | |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg) |
-| | ▼ 暂未分类 | ================================================================ |
+| | ▲ 暂未分类 | |
 | ffm threesome | 嫐 | ♀♂♀，2女1男3P |
 | mmf threesome | 嬲 | ♂♀♂，2男1女3P |
 | twins | 双胞胎 |  |
+| | 暂未分类 | |
 | | == 技术 == | |
 | 3d | 3D | 计算机生成的 3D 图像。不应与立体图(stereoscopic)和红蓝3D(anaglyph)混淆。 | 
 | anaglyph | 红蓝 3D | 使用双色产生 3D 效果的图片。不应与3D(3d)和立体图(stereoscopic)混淆。 | 
