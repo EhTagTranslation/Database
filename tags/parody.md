@@ -134,3 +134,4 @@
 | new game | NEW GAME! | ![](http://ehgt.org/t/8a/b2/8ab2a1de7970ecbf55fcd2dc9c9c75f7998cac08-2053002-4085-5972-jpg_l.jpg)![](http://ehgt.org/t/0d/9c/0d9c2c32234f7fdb784209cbd99d646dd81a12f3-1537330-5709-3890-jpg_l.jpg) |
 | shirobako | 白箱 | ![](http://ehgt.org/t/8d/b7/8db7b86abf6e6b25c65c7f09fc715be284a27afb-1664386-2887-4089-jpg_l.jpg) |
 | girlish number | 少女编号 | ![](http://ehgt.org/t/be/17/be17508226eff3cc6da1031a9772ac1bb5b098b7-1214127-1447-2039-jpg_l.jpg) |
+| rewrite | Rewrite | 《Rewrite》（日语：リライト）是由Key(key)创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](http://ehgt.org/t/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](http://ehgt.org/t/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](http://ehgt.org/t/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg)  |
