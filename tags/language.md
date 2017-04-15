@@ -1,7 +1,9 @@
 本页储存TAG列表的language（语言）翻译。
+语言按首字母排序，语言列表参考[语言标签目录](https://ehwiki.org/wiki/language)。
 
 | 英文原名 | 中文名 | 简介 |
 | --- | --- | --- |
+| | == 语言标签 == | |
 | albanian | 阿尔巴尼亚语 | |
 | arabic | 阿拉伯语 | |
 | bengali | 孟加拉语 | |
@@ -24,12 +26,14 @@
 | italian | 意大利语 | |
 | japanese | 日语 | |
 | korean | 朝鲜语 | 朝鲜语（조선어／朝鮮語），韩国称韩国语（한국어／韓國語），是通行于韩国、朝鲜及中国东北、俄罗斯远东地区、日本等朝鲜族聚居地区的语言。 |
+| mongolian | 蒙古语 |  |
 | norwegian | 挪威语 |  |
 | polish | 波兰语 | |
 | portuguese | 葡萄牙语 | |
 | romanian | 罗马尼亚语 | |
 | russian | 俄语 | |
 | slovak | 斯洛伐克语 | |
+| slovenian | 斯洛文尼亚语 | |
 | spanish | 西班牙语 | |
 | swedish | 瑞典语 | |
 | tagalog | 菲律宾语 | |
