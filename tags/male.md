@@ -4,7 +4,7 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| | ==年龄== | |
+| | == 年龄 == | |
 | age progression | 年龄增长 | 年龄迅速增长。 |
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与缩小(shrinking)混淆。 |
 | dilf | 熟男 | 看上去像30-50岁的男性，不一定是父亲(father)。不得与老人(old man)混淆。 |
@@ -13,7 +13,7 @@
 | old man | 老人 | 看起来在50岁以上的男性，不得与熟男(dilf)混淆。 |
 | shotacon | 正太 | 小男孩。<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
 | toddlercon | 幼儿 | 学步的儿童。 |
-| | ==身体== | |
+| | == 身体 == | |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>![恶](https://exhentai.org/t/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg) |
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应与变身(transformation)混淆。  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |
@@ -27,11 +27,11 @@
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |
-| | ===其他改变=== | |
+| | === 身体 > 其他改变 === | |
 | absorption | 吸收 | 吸收某人或某物。可能由吞食(vore)或入阴(unbirth)引发。 | 
 | petrification | 石化 | 成为雕像/岩石般的形象。 | 
 | transformation | 变身 | 广义变身，从男变女到变成动物，奥特曼，魔法少女都可以使用此标签。<br>![变成大象](https://exhentai.org/t/57/34/573406cf1cfa64061071d63686939d0d64f16657-454536-853-1280-jpg_l.jpg) |
-| | ===生物=== | |
+| | === 身体 > 生物 === | |
 | alien | 外星人 | 具有外星生物特征的男性。 |
 | angel | 天使 | 拥有天使的翅膀或光环。 |
 | bunny boy | 兔子男孩 | 兔女郎(bunny girl)的男性版本。 |
@@ -72,7 +72,7 @@
 | vampire | 吸血鬼 | 有尖尖的牙齿，饮血为生。 | 
 | wolf boy | 狼男孩 | 狼女孩(wolf girl)的男性版本。 |
 | zombie | 僵尸 | 与僵尸性交。 | 
-| | ====动物==== | |
+| | ==== 身体 > 生物 > 动物 ==== | |
 | animal on animal | 兽兽 | 动物间性交。 | 
 | animal on furry | 兽毛 | 动物与毛茸茸(furry)角色间的性行为。 | 
 | bear | 🐻熊 | 任何熊科动物。 | 
@@ -120,14 +120,14 @@
 | wolf | 🐺狼 | 任何灰狼种动物。 | 
 | worm | 蠕虫 | 任何有管状身体且无腿的动物。 | 
 | zebra | 斑马 | 任何有条纹的马属动物。 | 
-| | ===身高=== | |
+| | === 身体 > 身高 === | |
 | giant | 巨人 | 女巨人(giantess)的男性版本。利用环境线索来判断一个角色的体型。 |
 | growth | 巨大化 | 变高，有可能成为巨人(giant) |
 | midget | 侏儒 | 一个很矮的人。应该看起来小于其他角色的腰围高度。 | 
 | miniguy | 迷你男孩 | 迷你女孩(minigirl)的男性版本。 |
 | shrinking | 缩小 | 变矮，有可能成为迷你男孩(miniguy)。| 
 | tall man | 高个男 | 高个的男性，至少比其他角色高一个头。不应对巨人(giant)添加该标签。不在其他角色为正太(shotacon)、萝莉(lolicon)、迷你女孩(minigirl)、迷你男孩(miniguy)或侏儒(midget)时对普通体型男性使用。 | 
-| | ===皮肤=== | |
+| | === 身体 > 皮肤 === | |
 | albino | 白化 | 红眼和颜色极浅的皮肤。 | 
 | body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“RBQ”等贬义词语。不应与身体绘画(body painting)混淆。 | 
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与身体写作(body writing)混淆。 |
@@ -138,11 +138,11 @@
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |
 | skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>![图](http://ul.ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](http://ul.ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](http://ul.ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg)  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。 |
-| | ===体重=== | |
+| | === 身体 > 体重 === | |
 | bbm | 胖男人 | 胖男人，必须要有腹部褶皱。<br>![胖大叔赛高！](http://exhentai.org/t/f2/c7/f2c77d7e82dc41acec57a2d13d792698383aa38a-1711399-1307-1950-png_l.jpg) |
 | ssbbm | 超级胖男人 | 宽比高长的男性。需要胖男人(bbm)标签。 | 
 | weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为胖男人(bbm)。不应与腹部膨胀(inflation)混淆。 | 
-| | ==头部== | | 
+| | == 头部 == | | 
 | ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](http://exhentai.org/t/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg)![图](http://exhentai.org/t/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg) | 
 | brain fuck | 脑交 | 涉及大脑的性行为。 | 
 | crown | 王冠 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与宝冠(tiara)混淆。 |
@@ -151,7 +151,7 @@
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 | 
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) |
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 |
-| | ===思维=== | |
+| | === 头部 > 思维 === | |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依(possession)混淆也不能标为性转换(gender bender)。 | 
 | chloroform | 迷药 | 任何物质用于在没有使用暴力的情况下使人失去知觉。 可能导致强奸(rape)或睡觉(sleeping)。 | 
 | corruption | 堕落 | 用魔法或其他超自然力量强硬地腐化某人的头脑，抢夺他们的纯洁。 有可能导致变身(transformation)、怪物(monster)和恶魔(demon)。 | 
@@ -165,7 +165,7 @@
 | possession | 凭依 | 强行占有和控制一个甚至多个对象的身体。不应与精神控制(mind control)、性转换(gender bender)和换身(body swap)混淆。 | 
 | shared senses | 感官共享 | 分享感官给某物或某人。不得与虫洞(wormhole)混淆。 | 
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作强奸(rape)。 | 
-| | ===眼睛=== | |
+| | === 头部 > 眼睛 === | |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |
 | dark sclera | 深色巩膜 | 眼白是深色的。 | 
 | eye penetration | 插入眼睛 | 在眼或眼窝性交。不应与眼射(cum in eye)混淆。<br>![恶](http://exhentai.org/t/90/f5/90f54422ff4f0475452436960a98aadadc788386-101291-800-600-jpg_250.jpg)![恶](http://exhentai.org/t/e3/cb/e3cb554e3f7c00b4dce5e48008e2f5d57a60a115-57627-600-436-jpg_l.jpg)![恶](http://exhentai.org/t/bc/cd/bccd434adb287c0bbd7cb9ef1da47b191c5fbd60-609804-381-600-png_l.jpg) |
@@ -176,10 +176,10 @@
 | monoeye | 独眼 | 一个单眼的人形角色。 一个双眼的人物因为任何原因失去了眼睛（除了变身(transformation)）不符合条件。需要怪物(monster)或外星人(alien)标签。 | 
 | sunglasses | 太阳镜 | 用于改善在阳光下视力的有色框架眼镜。需要佩戴在眼前才能添加此标签。不应与眼镜(glasses)混淆。 | 
 | unusual pupils | 异瞳 | 瞳孔是或包含奇怪的形状，如心形、星形。除非是意想不到的形状，否则不应该用于动物/恶魔的眼睛。 | 
-| | ===鼻子=== | |
+| | === 头部 > 鼻子 === | |
 | nose hook | 鼻吊钩 | 用钩子把鼻孔向上拉，打开鼻孔。 经常与束缚(bondage)配对。 | 
 | smell | 气味 | 发出强烈，耸人听闻的气味的行为。 | 
-| | ===嘴=== | |
+| | === 头部 > 嘴 === | |
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与吸球(ball sucking)混淆。是口交颜(blowjob face)、深喉(deepthroat)的前置标签。<br>![图](http://exhentai.org/t/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg)![图](http://exhentai.org/t/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg) |
 | blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要口交(blowjob)标签。<br>![图](http://exhentai.org/t/1f/cb/1fcbdcaa3e81a591db1feac10944d83f231584f4-406010-902-711-jpg_l.jpg)![图](http://exhentai.org/t/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg)![图](http://exhentai.org/t/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg) |
 | burping | 打嗝 | 可见的打嗝行为。 | 
@@ -199,17 +199,17 @@
 | unusual teeth | 异齿 | 利齿、龅牙、牙缝或缺牙。不用与非人形和鲨男孩(shark boy)。 |
 | vomit | 呕吐 | 胃内容物通过口或鼻反流。 | 
 | vore | 吞食 | 被整个吞下，可能导致吸收(absorption)。不应与入阴(unbirth)和食人(cannibalism)混淆。 | 
-| | ==脖子== | |
+| | == 脖子 == | |
 | asphyxiation | 窒息 | 有意限制对大脑的供氧，往往是为了使性觉醒。 | 
 | collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教(bdsm)或人宠(human pet)行为时穿戴。 |
-| | ==手臂== | |
+| | == 手臂 == | |
 | armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |
 | armpit sex | 腋交 | 使用腋下部位刺激阴茎。<br>![图](http://exhentai.org/t/40/c5/40c5987e892d36e40983e0941cb0530b3cb7d511-2276611-2105-3031-jpg_l.jpg)![图](http://exhentai.org/t/04/72/0472f72100ddfcf3e8e5bbcf03b53b1040d699c5-2779772-2500-2751-png_l.jpg) | 
 | fisting | 拳交 | 将拳头插入阴道或肛门。<br>![图](http://exhentai.org/t/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg)![图](http://exhentai.org/t/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg) | 
 | handjob | 打手枪 | 为其他人手淫。不应与自慰(masturbation)混淆。<br>![图](http://exhentai.org/t/65/3a/653ac88a33a3837fcdd5391ecd2bb2bcca8806eb-305517-1058-1500-jpg_l.jpg)![图](http://exhentai.org/t/d3/f8/d3f8c61a24dccb66f941af4d2c6b59adf35d9841-292616-1238-1750-jpg_l.jpg)![图](http://exhentai.org/t/4b/b2/4bb20ababa6f0786244bb8234597e9f0ac4c4304-229102-1000-1412-jpg_l.jpg) | 
 | hairy armpits | 腋毛 | 必须足以形成一个毛球。 | 
-| | ==胸部== | |
-| | ===乳房=== | |
+| | == 胸部 == | |
+| | === 胸部 > 乳房 === | |
 | big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 | 
 | big breasts | 巨乳 | 一般的大乳房。每个乳房应至少应该和人的头部一样大。对于Cosplay这需要D杯或更大。是超乳(huge breasts)的前置标签。<br>![图](http://exhentai.org/t/de/34/de343ebed652fc7fce50c7ce687ee11dbf38a4d4-725217-1045-1500-jpg_l.jpg)![图](http://exhentai.org/t/da/77/da77dc936b501ee96b919dcfc0d108916babb9fb-475910-1417-2000-jpg_l.jpg)![图](http://exhentai.org/t/fb/67/fb673e2b8c86ddb32250333353e90a06b408f63b-1149943-1254-1770-jpg_l.jpg) | 
 | breast expansion | 乳房膨胀 | 任何明显的乳房变大。常常产生巨乳(big breasts)和超乳(huge breasts)。当此种膨胀是由于年龄增长(age progression)或变身(transformation)引起时，不使用此标签。 | 
@@ -218,26 +218,20 @@
 | lactation | 母乳 | 乳房喷出液体（通常是乳汁）。是挤奶的前置标签。 | 
 | milking | 挤奶 | 用手或机器拉扯乳房以挤奶。不用于阴茎。需要母乳(lactation)标签。不应与哺乳(breast feeding)混淆。 |
 | paizuri | 乳交 | 在乳房之间推动阴茎（或类似物体）的行为。不应与多重乳交(multiple paizuri)或乳穴性交(nipple fuck)混淆。<br>![图](http://exhentai.org/t/6d/79/6d79de2638a83753fba5aa3579684854f3615116-657761-1111-1554-jpg_l.jpg) | 
-| | ====乳头==== | |
+| | ==== 胸部 > 乳房 > 乳头 ==== | |
 | big nipples | 大乳头 | 长得足以抓在一只手中的大乳头。 | 
 | dark nipples | 暗色乳头 | 暗色的乳头，有时与怀孕(pregnant)有关。不应用于肤色黝黑(dark skin)的人。 | 
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头。 | 
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](http://exhentai.org/t/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg) | 
 | multiple nipples | 多乳头 | 每只乳房有多于一个乳头。 |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于产卵(eggs)。 |
-| | ==躯干== | |
+| | == 躯干 == | |
 | navel fuck | 肚脐奸 | 插入肚脐。 | 
 | pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于受孕(impregnation)。<br>![怀孕的男孩子](http://ehgt.org/t/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](http://exhentai.org/t/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg)![图](http://exhentai.org/t/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg) |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由大玩具(large insertions)或者巨根(big penis)引起。<br> ![胃部变型](http://exhentai.org/t/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg)![图](http://exhentai.org/t/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg) |
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
-| | ▼ Gender | 性别 |
-| cuntboy | 人妖 | 有阴道的男性 |
-| feminization | 女性化 | |
-| | ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
-| gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
-| dickgirl on male | 扶上男 | |
 | | ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
 | | ▼ 暂未分类 | ================================================================ |
@@ -255,16 +249,34 @@
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
-| masturbation | 自慰 | |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
 | condom | 避孕套 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
 | schoolboy uniform | 男生校服 | |
-| | ==技术性标签== | |
+| | == 自我愉悦 == | |
+| autofellatio | 自吹 | 对自己口交。不需要口交(blowjob)、舔阴(cunnilingus)或自慰(masturbation)标签。<br>![图](http://exhentai.org/t/25/df/25df378664398e4b46ba4f44f1fa9c4097d85c7a-176564-614-768-jpg_l.jpg) |
+| masturbation | 自慰 | 自我愉悦。是电话性爱(phone sex)的前置标签。不需要指法(fingering)标签。 | 
+| phone sex | 电话性爱 | 通过电话进行色情交谈，同时进行自慰。需要自慰(masturbation)标签。 | 
+| selfcest | 自交 | 同一个人的两个版本间的性行为。通常发生在一个角色和其性转换(gender bender)之间。 |
+| solo action | 自摸 | 一个角色自己从事性活动。使用物品（例如杂志、性玩具(sex toys)露阴癖(exhibitionism)）作为刺激是可以接受的。<br>![](http://exhentai.org/t/de/17/de170cd498d3d7d7fa5b6fd92123a7b27218a10f-423358-600-847-jpg_l.jpg) | 
+| table masturbation | 桌角自慰 | 通过摩擦桌角来自慰。不需要自慰(masturbation)标签。<br>![图](http://exhentai.org/t/a3/6f/a36f1888c987f8f4e462465a81ea105e2b592fa6-680567-1200-1800-jpg_l.jpg) | 
+| | == 残疾 == | |
+| blind | 失明 | 眼睛根本不能发挥作用的人。不应与遮眼布(blindfold)混淆。 | 
+| handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与截肢(amputee)或束缚(bondage)混淆。 |
+| mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴口塞(gag)的人。不用于无言的(speechless)画廊。 |
+| | == 性别 == | |
+| | 注释：性别类说明 | futanari(扶她，无争议)和shemale(暂定为女雄)在英文里都算transsexual(暂定为变性人)，但中文不好表达，因此规定需要单字时统一用“扶”代指有阴茎的女性。<br>进行性交的行为需要单字时统一用“上”来代替，会产生歧义时请酌情考虑其他雅观一点的词汇。 |
+| cuntboy | 人妖 | 有阴道的男性。男性与人妖间的性行为不应添加男同(yaoi)或纯男性(males only)标签。有可能有阴茎，此时不应与扶她(futanari)混淆。 | 
+| feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或精神控制(mind control)）或将他的身体改变为女雄(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。 | 
+| gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用变身(transformation)。不应与换身(body swap)或异性装(crossdressing)混淆。不用于女性变为扶她(futanari)的情况。<br>![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)| | 
+| | === 性别 > 性别间关系 === | |
+| bisexual | 双性 | 参与性别或恋物癖活动的人物，在整个画廊中具有相反的性别特征。不应用于扶上扶(dickgirl on dickgirl)。 | 
+| dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是肛交(anal)还是口交(blowjob)。需要扶她(futanari)或女雄(shemale)标签。 | 
+| | == 技术 == | |
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |
 | x-ray | 透视 | 内部器官通过皮肤或从内部可见。 |
-| | ==上下文== | |
+| | == 上下文 == | |
 | blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 |
 | coach | 教练 | 身体训练的指导者。 |
 | males only | 纯男性 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) | 
@@ -279,11 +291,11 @@
 | widower | 鳏夫 | 寡妇(widow)的男性版本。 | 
 | yandere | 病娇 | 动机来自于强迫的爱的精神病的行为。包括骚扰或劫持感兴趣的人；恐吓或伤害感知到的对手。如果有任何性活动，此人必须直接参与其中。 |
 | yaoi | 男同 | 至少两个男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) | 
-| | ===不忠=== | |
+| | === 上下文 > 不忠 === | |
 | cheating | 出轨 | 另一半与别人的伴侣发生性关系。如果性行为是违背自己的意愿（例如强奸(rape)），不应标记。不用于换妻(swinging)。不应与NTR(netorare)混淆。（性主角这方是主动的） | 
 | netorare | NTR | 另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。不应与出轨(cheating)混淆。（性主角这方是被动的） |
 | swinging | 换妻 | 一对伴侣允许一方或双方与第三方发生性关系。如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。 | 
-| | ===亲属=== | |
+| | === 上下文 > 亲属 === | |
 | brother | 兄弟 | 兄弟间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |
 | cousin | 表兄弟 | 表兄弟间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | 
 | father | 父亲 | 父亲与儿子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | 
@@ -291,7 +303,7 @@
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 | 
 | uncle |叔叔 | 叔叔与侄子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | 
-| | ==私处== | |
+| | == 隐私 == | |
 | exhibitionism | 露阴癖 | 冒着被陌生人抓住的风险裸体。也可能是公然暴露于陌生人。 | 
 | filming | 摄像 | 对性行为进行摄像。 | 
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 | 
