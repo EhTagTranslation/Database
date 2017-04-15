@@ -233,26 +233,17 @@
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
 | | ▼ Gender | 性别 |
-| cuntboy | 猫男 | 有阴道的男性 |
+| cuntboy | 人妖 | 有阴道的男性 |
 | feminization | 女性化 | |
 | | ▼ Gender > Inter-gender Relations | 性别 > 跨性别关系 |
 | gender bender | 性转换 | 性转换（男变女）![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)|
 | dickgirl on male | 扶上男 | |
 | | ▼ Multiple Activities | 多人活动 |
-| group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶他(futanari)和人妖(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶他和人妖都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
-| | ▼ Contextual > Infidelity | 文章内容上的 > 不忠 |
-| netorare | NTR | 寝取られ，绿帽子。不忠(Infidelity)类<br>另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。<br>不应与出轨(cheating)混淆。（性主角这方是被动的）<br>不忠的人的性别决定放入女性还是男性的命名空间。<br>同义词：戴绿帽(cuckold)、寝取(netori) |
-| cheating | 出轨 | 寝取り。不忠(Infidelity)类不忠(Infidelity)类<br>另一半与别人的伴侣发生性关系。<br>如果性相互作用是违背自己的意愿，不应标记(例如强奸)或属于(swinging)。<br>不应与NTR(netorare)混淆。（性主角这方是主动的）<br>出轨的人的性别决定放入女性还是男性的命名空间。 |
-| swinging | 换妻 | 不忠(Infidelity)类<br>一对伴侣允许一方或双方与第三方发生性关系。<br>如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。<br>同义词：伴侣交换(partner swap)、换妻(wife swap)。 |
+| group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
 | | ▼ 暂未分类 | ================================================================ |
-| brother | 兄弟 | 兄弟间的性行为。 |
-| cousin | 表兄弟 | 表兄弟间的性行为。 |
-| yaoi | 男同 | 至少两位男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) |
-| males only | 纯男性 | 只限至少两位男性之间的所有性行为、拜物教或亲密互动。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) |
 | anal | 肛交 | 阴茎插入肛门，或是任何物体都可以（如性玩具、触手等）。(アナル)<br>这背后一定有肮脏的PY交易<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) |
 | double anal | 双棒入菊 | 两根阴茎插入一个肛门。(一ケツ二チン)<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) |
-| sole male | 单男主 | 只有一个男性角色 |
 | layer cake | 夹心蛋糕 | 阴茎在2个阴道之间摩擦。可能涉及每个阴道之间交替插入。<br>需要乱交(group)标签<br>拥有阴茎的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
@@ -263,15 +254,45 @@
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
-| virginity | 丧失童贞 | 男性失去童贞，不得与女性的破处混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
-| teacher | 教师 | |
-| coach | 教练 | |
-| tutor | 家庭教师 | |
 | masturbation | 自慰 | |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
-| tomgirl | 伪娘 | 通常误认为是女性的男性，通常与异性装同时出现，不得与扶她混淆 |
 | condom | 避孕套 | |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
 | schoolboy uniform | 男生校服 | |
+| | ==技术性标签== | |
+| first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |
+| x-ray | 透视 | 内部器官通过皮肤或从内部可见。 |
+| | ==上下文== | |
+| blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 |
+| coach | 教练 | 身体训练的指导者。 |
+| males only | 纯男性 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) | 
+| impregnation | 受孕 | 怀孕(pregnant)的过程。 |
+| prostitution | 援交 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 | 
+| sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。人妖(cuntboy)不算在内。 | 
+| teacher | 教师 | 角色作为教师参与。 |
+| tomboy | 假小子 | 一个女孩模仿男性的穿着、行为和言辞，但没有掩饰自己的性别。当她试图掩饰自己的性别时，有可能与异性装(crossdressing)共存。 |
+| tomgirl | 伪娘 | 通常误认为是女性的男性。常与异性装(crossdressing)同时出现，不应与女雄(shemale)混淆。 |
+| tutor | 家庭教师 | 向校外的学生提供私人学术援助的人士。 |
+| virginity | 丧失童贞 | 男性失去童贞，不得与女性的破处(defloration)混淆。 |
+| widower | 鳏夫 | 寡妇(widow)的男性版本。 | 
+| yandere | 病娇 | 动机来自于强迫的爱的精神病的行为。包括骚扰或劫持感兴趣的人；恐吓或伤害感知到的对手。如果有任何性活动，此人必须直接参与其中。 |
+| yaoi | 男同 | 至少两个男性之间的性行为。(やおい)<br>![例：夏目友人帳同人](http://exhentai.org/t/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg) | 
+| | ===不忠=== | |
+| cheating | 出轨 | 另一半与别人的伴侣发生性关系。如果性行为是违背自己的意愿（例如强奸(rape)），不应标记。不用于换妻(swinging)。不应与NTR(netorare)混淆。（性主角这方是主动的） | 
+| netorare | NTR | 另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。不应与出轨(cheating)混淆。（性主角这方是被动的） |
+| swinging | 换妻 | 一对伴侣允许一方或双方与第三方发生性关系。如果新的伙伴关系只是男性之间，使用男性的命名空间，否则使用女性。 | 
+| | ===亲属=== | |
+| brother | 兄弟 | 兄弟间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |
+| cousin | 表兄弟 | 表兄弟间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | 
+| father | 父亲 | 父亲与儿子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | 
+| grandfather | 祖父 | 祖父与孙子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |
+| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |
+| inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 | 
+| uncle |叔叔 | 叔叔与侄子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | 
+| | ==私处== | |
+| exhibitionism | 露阴癖 | 冒着被陌生人抓住的风险裸体。也可能是公然暴露于陌生人。 | 
+| filming | 摄像 | 对性行为进行摄像。 | 
+| humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 | 
+| voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 | 
