@@ -1,4 +1,5 @@
-本页储存TAG列表的language（语言）翻译。
+本页储存TAG列表的language（语言）翻译。  
+
 语言按首字母排序，语言列表参考[语言标签目录](https://ehwiki.org/wiki/language)。
 
 | 英文原名 | 中文名 | 简介 |
