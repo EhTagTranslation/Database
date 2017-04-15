@@ -208,6 +208,23 @@
 | fisting | 拳交 | 将拳头插入阴道或肛门。<br>![图](http://exhentai.org/t/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg)![图](http://exhentai.org/t/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg) | 
 | handjob | 打手枪 | 为其他人手淫。不应与自慰(masturbation)混淆。<br>![图](http://exhentai.org/t/65/3a/653ac88a33a3837fcdd5391ecd2bb2bcca8806eb-305517-1058-1500-jpg_l.jpg)![图](http://exhentai.org/t/d3/f8/d3f8c61a24dccb66f941af4d2c6b59adf35d9841-292616-1238-1750-jpg_l.jpg)![图](http://exhentai.org/t/4b/b2/4bb20ababa6f0786244bb8234597e9f0ac4c4304-229102-1000-1412-jpg_l.jpg) | 
 | hairy armpits | 腋毛 | 必须足以形成一个毛球。 | 
+| | ==胸部== | |
+| | ===乳房=== | |
+| big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 | 
+| big breasts | 巨乳 | 一般的大乳房。每个乳房应至少应该和人的头部一样大。对于Cosplay这需要D杯或更大。是超乳(huge breasts)的前置标签。<br>![图](http://exhentai.org/t/de/34/de343ebed652fc7fce50c7ce687ee11dbf38a4d4-725217-1045-1500-jpg_l.jpg)![图](http://exhentai.org/t/da/77/da77dc936b501ee96b919dcfc0d108916babb9fb-475910-1417-2000-jpg_l.jpg)![图](http://exhentai.org/t/fb/67/fb673e2b8c86ddb32250333353e90a06b408f63b-1149943-1254-1770-jpg_l.jpg) | 
+| breast expansion | 乳房膨胀 | 任何明显的乳房变大。常常产生巨乳(big breasts)和超乳(huge breasts)。当此种膨胀是由于年龄增长(age progression)或变身(transformation)引起时，不使用此标签。 | 
+| breast feeding | 哺乳 | 直接吮吸乳房，不需要任何可见的乳汁。不应与挤奶(milking)混淆。 |
+| breast reduction | 乳房缩小 | 任何明显的乳房缩小。常常产生贫乳(small breasts)。当此种缩小是由于返老还童(age regression)或变身(transformation)引起时，不使用此标签。 | 
+| lactation | 母乳 | 乳房喷出液体（通常是乳汁）。是挤奶的前置标签。 | 
+| milking | 挤奶 | 用手或机器拉扯乳房以挤奶。不用于阴茎。需要母乳(lactation)标签。不应与哺乳(breast feeding)混淆。 |
+| paizuri | 乳交 | 在乳房之间推动阴茎（或类似物体）的行为。不应与多重乳交(multiple paizuri)或乳穴性交(nipple fuck)混淆。<br>![图](http://exhentai.org/t/6d/79/6d79de2638a83753fba5aa3579684854f3615116-657761-1111-1554-jpg_l.jpg) | 
+| | ====乳头==== | |
+| big nipples | 大乳头 | 长得足以抓在一只手中的大乳头。 | 
+| dark nipples | 暗色乳头 | 暗色的乳头，有时与怀孕(pregnant)有关。不应用于肤色黝黑(dark skin)的人。 | 
+| dicknipples | 阴茎乳头 | 阴茎形状的乳头。 | 
+| inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](http://exhentai.org/t/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg) | 
+| multiple nipples | 多乳头 | 每只乳房有多于一个乳头。 |
+| nipple birth | 乳头出产 | 通过乳头分娩。不应用于产卵(eggs)。 |
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
@@ -238,7 +255,6 @@
 | bandages | 绷带 |  |
 | bandaid | 创可贴 |  |
 | business suit | 西装 | |
-| breast feeding | 哺乳 | |
 | tracksuit | 运动服 | |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
