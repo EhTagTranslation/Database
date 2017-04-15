@@ -33,7 +33,7 @@
 | anthology | 选集 | 多个作者共同完成的*完整*的书（杂志） |
 | story arc | 故事线 | 基本与单行本连用，需要75页或4话或75%以上描述同一个故事 |
 | multi-work series | 系列作品 | 如[DeepSnow]、[妹のおてつだい]、[秋子さんといっしょ]这样出了一本又一本的作品 |
-| incomplete | 不完整 | |
+| incomplete | 缺页 | |
 | out of order | 顺序错乱 | |
 | sample | 样本 | 来自日本同人网站的样本 |
 | scanmark | 水印 | 由扫描者/译者添加的水印。 |
