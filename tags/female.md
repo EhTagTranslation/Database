@@ -354,7 +354,6 @@
 | clit growth | 阴蒂生长 | 阴蒂生长的过程 |
 | ryona | 哀嚎 | ryona 意思就是藉由观看女性角色被痛击、电击、束缚、受伤挣扎、哀鸣而激起性快感 |
 | tickling | 痒 |  |
-| humiliation | 屈辱 |  |
 | oil | 油 |  |
 | big vagina | 大阴道 | ![图](http://exhentai.org/t/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg)![图](http://exhentai.org/t/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg)![图](http://exhentai.org/t/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg) |
 | spanking | 打屁股 |  |
