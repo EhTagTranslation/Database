@@ -38,7 +38,7 @@
 | spanish | 西班牙语 | |
 | swedish | 瑞典语 | |
 | tagalog | 菲律宾语 | |
-| thai | 泰文语 | |
+| thai | 泰语 | |
 | turkish | 土耳其语 | |
 | ukrainian | 乌克兰语 | |
 | vietnamese | 越南语 | |
