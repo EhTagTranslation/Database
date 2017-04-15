@@ -389,13 +389,13 @@
 | yugiri | 夕雾 | ![](http://ehgt.org/t/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |
 | yumi | 雪泉 | ![](http://ehgt.org/t/67/d5/67d593cf612949acb2d8f79ca70eff5bac6ac89c-70055-384-480-jpg_l.jpg) |
 | yuyaki | 夕烧 | ![](http://ehgt.org/t/8f/7b/8f7b6e8a8f461a32798d6b557a987eaf8c32105e-42862-384-480-jpg_l.jpg) |
-| |  ▼小林家的龙女仆 角色 | |
+| | ▼小林家的龙女仆 角色 | |
 | tohru | 托尔 | ![托尔](http://ehgt.org/t/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |
 | kanna kamui | 康娜卡姆依 | ![康娜](http://ehgt.org/t/92/45/9245438047724c190da3fb17f94bf2351dae0916-505285-2000-3000-jpg_l.jpg) |
 | quetzalcoatl | 魁札尔科亚特尔（露科亚） | ![露科亚](http://ehgt.org/t/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg) |
 | kobayashi-san | 小林 | ![小林](http://ehgt.org/t/78/c8/78c831f1bdfe841cffac1f136fb58e1d9e496dfe-1490811-2180-3060-png_l.jpg) |
 | shouta magato | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) |
-| |  ▼NEW GAME! 角色 | |
+| | ▼NEW GAME! 角色 | |
 | aoba suzukaze | 凉风青叶 | ![凉风青叶](http://ehgt.org/t/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) |
 | hifumi takimoto | 泷本日富美 | ![泷本日富美](http://ehgt.org/t/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg) |
 | kou yagami | 八神光 | ![八神光](http://ehgt.org/t/89/d4/89d4065cf866e8d9f1c8b1af62b33307a9a2afa9-899427-2722-3920-jpg_l.jpg) |
@@ -403,7 +403,7 @@
 | hajime shinoda | 篠田初 | ![篠田初](http://exhentai.org/t/ee/4e/ee4e99177812131745a90b7562dc0639cd710323-827430-1075-1522-jpg_l.jpg) |
 | yun iijima | 饭岛结音 | ![饭岛结音](http://exhentai.org/t/c0/c8/c0c87235851c710194d4fd379cc32bb9301457ba-153915-1050-1492-jpg_l.jpg) |
 | shizuku hazuki | 叶月雫 | ![叶月雫](http://ehgt.org/t/ae/8c/ae8c37b359b3dc54599ab002ec4d087b375ead3e-917307-2733-3917-jpg_l.jpg) 
-| |  ▼白箱 角色 | |
+| | ▼白箱 角色 | |
 | aoi miyamori | 宫森葵 | ![宫森葵](http://ehgt.org/t/09/7f/097fd5fac6a50f5a5c11d85324fae9ba0fa65b30-1033595-2871-4089-jpg_l.jpg) |
 | ema yasuhara | 安原绘麻 | ![安原绘麻](http://ehgt.org/t/b2/76/b27655e9877933260c4bfc06cd6abbc64e409257-1125551-2519-3600-jpg_l.jpg) |
 | midori imai  | 今井绿 | ![今井绿](http://ehgt.org/t/6b/95/6b955cdde296173a139ed41ad909710e8bb6fdaa-1132368-2500-3600-jpg_l.jpg) |
@@ -416,7 +416,12 @@
 | shun watanabe | 渡边隼 | ![渡边隼](http://ehgt.org/t/48/46/4846302b6c3c067290eda59e11b77bb6c63a23e1-645360-1045-1500-jpg_l.jpg) |
 | ai kunogi | 久乃木爱 | ![久乃木爱](http://exhentai.org/t/2d/0f/2d0f2df41fa0d462a73b08613a12c73afe1d50c3-567830-729-1032-jpg_l.jpg) |
 | yumi iguchi | 井口祐未 | ![井口祐未](http://exhentai.org/t/1d/14/1d14637ea90723c279f9028b967bb667a1296b99-162812-390-800-jpg_l.jpg) |
-| |  ▼少女编号 角色 | |
+| | ▼少女编号 角色 | |
 | chitose karasuma | 乌丸千岁 | ![乌丸千岁](http://exhentai.org/t/36/c8/36c82f316ec5b8ecaa7b6def15b0c265247a936f-5271025-2125-3032-jpg_l.jpg) |
 | momoka sono | 苑生百花 | ![苑生百花](http://exhentai.org/t/b2/48/b248457cc38e6aceb56d4cc9b73946e6ef61ab3b-132981-1050-1547-jpg_l.jpg) |
 | yae kugayama | 久我山八重 | ![久我山八重](https://img.moegirl.org/common/b/be/Charatati_02.png) |
+| | ▼珈百璃的堕落 角色 | |
+| gabriel tenma white | 天真·珈百璃·怀特 | ![](http://ehgt.org/t/c3/d4/c3d41bf0f3b62cbaffdf2371e7ed6c40e03ba4e7-1832579-1280-720-png_l.jpg) |
+| vignette tsukinose april | 月乃濑·薇奈特·艾普利尔 | ![](http://ehgt.org/t/01/0e/010ea606a24811b55416c16e7efafc77e2cd8a0f-510727-961-1243-jpg_l.jpg) |
+| satanichia kurumizawa mcdowell | 胡桃泽·萨塔妮娅·麦克道威尔 | ![](http://ehgt.org/t/de/22/de22df04759f656c06fd9eeb02e049f0b4caf1c4-962546-1447-2039-jpg_l.jpg) |
+| raphiel shiraha ainsworth | 白羽·菈菲尔·恩兹沃斯 | ![](http://ehgt.org/t/5c/aa/5caa1ccedde683dc88693d98406487928e7b9ade-2193124-1280-720-png_l.jpg) |
