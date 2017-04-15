@@ -225,6 +225,10 @@
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](http://exhentai.org/t/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg) | 
 | multiple nipples | 多乳头 | 每只乳房有多于一个乳头。 |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于产卵(eggs)。 |
+| | ==躯干== | |
+| navel fuck | 肚脐奸 | 插入肚脐。 | 
+| pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于受孕(impregnation)。<br>![怀孕的男孩子](http://ehgt.org/t/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](http://exhentai.org/t/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg)![图](http://exhentai.org/t/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg) |
+| stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由大玩具(large insertions)或者巨根(big penis)引起。<br> ![胃部变型](http://exhentai.org/t/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg)![图](http://exhentai.org/t/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg) |
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
