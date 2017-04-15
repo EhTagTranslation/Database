@@ -132,3 +132,5 @@
 | senran kagura | 闪乱神乐 | ![图](http://ehgt.org/t/b7/2e/b72eb7d2f02c10d802e4e98a54d35938dcce2e1a-666145-750-1049-jpg_l.jpg) |
 | kobayashi-san-chi no maid dragon | 小林家的龙女仆 | ![](http://ehgt.org/t/d9/fc/d9fc0e1d0e8fd87394a3bd7c1b6aeb0e6b5200e5-6234736-4740-4325-jpg_l.jpg)![](http://ehgt.org/t/5b/9b/5b9b176317f028bfe522008fa6e6f761ae36cc17-855470-960-1200-png_l.jpg) |
 | new game | NEW GAME! | ![](http://ehgt.org/t/8a/b2/8ab2a1de7970ecbf55fcd2dc9c9c75f7998cac08-2053002-4085-5972-jpg_l.jpg)![](http://ehgt.org/t/0d/9c/0d9c2c32234f7fdb784209cbd99d646dd81a12f3-1537330-5709-3890-jpg_l.jpg) |
+| shirobako | 白箱 | ![](http://ehgt.org/t/8d/b7/8db7b86abf6e6b25c65c7f09fc715be284a27afb-1664386-2887-4089-jpg_l.jpg) |
+| girlish number | 少女编号 | ![](http://ehgt.org/t/be/17/be17508226eff3cc6da1031a9772ac1bb5b098b7-1214127-1447-2039-jpg_l.jpg) |
