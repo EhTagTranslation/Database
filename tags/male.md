@@ -234,7 +234,7 @@
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
 | | ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
-| | ▼ 暂未分类 | ================================================================ |
+| | ▼ 暂未分类 | |
 | anal | 肛交 | 阴茎插入肛门，或是任何物体都可以（如性玩具、触手等）。(アナル)<br>这背后一定有肮脏的PY交易<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) |
 | double anal | 双棒入菊 | 两根阴茎插入一个肛门。(一ケツ二チン)<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) |
@@ -254,6 +254,7 @@
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
 | schoolboy uniform | 男生校服 | |
+| | ▲ 暂未分类 | |
 | | == 自我愉悦 == | |
 | autofellatio | 自吹 | 对自己口交。不需要口交(blowjob)、舔阴(cunnilingus)或自慰(masturbation)标签。<br>![图](http://exhentai.org/t/25/df/25df378664398e4b46ba4f44f1fa9c4097d85c7a-176564-614-768-jpg_l.jpg) |
 | masturbation | 自慰 | 自我愉悦。是电话性爱(phone sex)的前置标签。不需要指法(fingering)标签。 | 
