@@ -138,3 +138,4 @@
 | gabriel dropout | 珈百璃的堕落 | ![](https://ehgt.org/t/74/d9/74d9c6ba5b5def00d61be5e9b796b84d20463434-1720223-1280-720-png_l.jpg)![珈百璃的堕落](https://ehgt.org/t/91/23/9123b88a8dbd40759f5329915feade721bc168eb-1737901-1280-720-png_l.jpg) |
 | chobits | 人形电脑天使心 | ![](http://ehgt.org/t/28/c4/28c4aa2d1ef09c6b6a0abdd2147dd64a825c59a0-94519-726-843-jpg_l.jpg) |
 | dead or alive | 死或生 | 生死格斗<br>![](http://exhentai.org/t/2e/ce/2ece300869bc9c5e67fc444a75940a4735402d75-3336657-1080-1920-png_l.jpg) |
+| eromanga sensei | 埃罗芒阿老师 | エロマンガ先生 / 情色漫画老师 <br>![](http://ehgt.org/t/a3/20/a320657886f20de6953327013585d23320cf8c88-1225138-1384-2000-jpg_l.jpg)![](http://exhentai.org/t/bc/5d/bc5dccfab0cc5dc8c771569acb7e475b58591a39-712723-2114-3047-jpg_l.jpg) |
