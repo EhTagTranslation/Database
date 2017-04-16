@@ -136,3 +136,4 @@
 | girlish number | 少女编号 | ![](http://ehgt.org/t/be/17/be17508226eff3cc6da1031a9772ac1bb5b098b7-1214127-1447-2039-jpg_l.jpg) |
 | rewrite | Rewrite | 《Rewrite》（日语：リライト）是由Key(key)创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](http://ehgt.org/t/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](http://ehgt.org/t/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](http://ehgt.org/t/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg)  |
 | gabriel dropout | 珈百璃的堕落 | ![](https://ehgt.org/t/74/d9/74d9c6ba5b5def00d61be5e9b796b84d20463434-1720223-1280-720-png_l.jpg)![珈百璃的堕落](https://ehgt.org/t/91/23/9123b88a8dbd40759f5329915feade721bc168eb-1737901-1280-720-png_l.jpg) |
+| chobits | 人形电脑天使心 | ![](http://ehgt.org/t/28/c4/28c4aa2d1ef09c6b6a0abdd2147dd64a825c59a0-94519-726-843-jpg_l.jpg) |
