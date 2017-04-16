@@ -425,3 +425,12 @@
 | vignette tsukinose april | 月乃濑·薇奈特·艾普利尔 | ![](http://ehgt.org/t/01/0e/010ea606a24811b55416c16e7efafc77e2cd8a0f-510727-961-1243-jpg_l.jpg) |
 | satanichia kurumizawa mcdowell | 胡桃泽·萨塔妮娅·麦克道威尔 | ![](http://ehgt.org/t/de/22/de22df04759f656c06fd9eeb02e049f0b4caf1c4-962546-1447-2039-jpg_l.jpg) |
 | raphiel shiraha ainsworth | 白羽·菈菲尔·恩兹沃斯 | ![](http://ehgt.org/t/5c/aa/5caa1ccedde683dc88693d98406487928e7b9ade-2193124-1280-720-png_l.jpg) |
+| | ▼Chobits 角色 | |
+| chii | 小叽（爱露达） | ![](http://ehgt.org/t/b0/4e/b04eb089c7775b41b41c31e1c29de43b4e689613-2618200-2551-3619-jpg_l.jpg) |
+| yumi omura | 大村裕美 | ![](http://ehgt.org/t/04/e9/04e976a770d7e04ef6fc241692442074365c2a9d-195024-716-1023-jpg_l.jpg) |
+| sumomo | 丝茉茉 | ![](http://exhentai.org/t/32/19/3219400991cf820fd682c054c8d63e5ba8f9801b-116505-710-1020-jpg_l.jpg) |
+| chitose hibiya | 日比谷千岁 | ![](http://exhentai.org/t/02/00/02007737a23fd8dd6fc8799b598c7b4964c2c136-260717-777-1094-jpg_l.jpg) |
+| hideki motosuwa | 本须和秀树 | ![](http://exhentai.org/t/81/63/8163a4f0dd2a2f9a3192c1db4f44aa63fb4c67d9-312624-777-1094-jpg_l.jpg) |
+| yuzuki | 柚姬 | ![](http://exhentai.org/t/54/37/5437549c435148279048db465e1ee6716f3b1614-76540-560-400-jpg_l.jpg) |
+| minoru kokubunji | 国分寺稔 | ![](http://exhentai.org/t/71/4c/714c093deaeeea96ceaf682fa98d60e5dbf7019d-155772-779-1104-jpg_l.jpg) |
+| takako shimizu | 清水多香子 | ![](http://exhentai.org/t/5c/51/5c51f040faa962c1fd41632bb86ca29366b9e2ef-114752-777-1094-jpg_l.jpg) |
