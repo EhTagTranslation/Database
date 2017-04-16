@@ -295,7 +295,6 @@
 | bandaid | 创可贴 |  |
 | business suit | 西装 | |
 | tracksuit | 运动服 | |
-| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
@@ -305,6 +304,32 @@
 | waitress | 女侍者 | |
 | schoolboy uniform | 男生校服 | |
 | | ▲ 暂未分类 | |
+| | == 强迫 == | |
+| chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 | 
+| rape | 强奸 | 强迫或非自愿性行为。 | 
+| | === 强迫 > 虐待 === | |
+| bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要束缚(bondage)或拷打(torture)标签，但可能是其原因。 | 
+| forniphilia | 人体家具 | 用人类作为家具。 | 
+| human pet | 人宠 | 像宠物一样对待人。不应与人类饲养(human cattle)和奴隶(slave)混淆。常是调教(bdsm)的一环。 | 
+| josou seme | 女装攻 | 一个异装癖或伪娘(tomgirl)在性行为中占据主导地位。 |
+| orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 | 
+| slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用调教(bdsm)。不要与人宠(human pet)或人类饲养(human cattle)混淆。 |
+| tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 |
+| | === 强迫 > 束缚 === | |
+| bondage | 束缚 | 捆绑或束缚的行为和艺术。是枷具(pillory)、捆绑(shibari)、卡在墙上(stuck in wall)和木马(wooden horse)的前置标签。不需要为口塞(gag)或钩腿(leg lock)添加此标签。 |
+| shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要束缚(bondage)标签。 | 
+| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚(bondage)标签。不应与寻欢洞(glory hole)或虫洞(wormhole)混淆。 | 
+| | === 强迫 > 暴力 === | |
+| abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 | 
+| cannibalism  | 食人 | 人型生物烹饪或食用其他人形生物。不应与吞食(vore)混淆。 | 
+| cbt | CBT | Cock and ball torture，以任何方式折磨阴茎区域。不需要拷打(torture)标签 | 
+| guro | 肢解 | 肢解人类或毛茸茸(furry)。不用于温和的血液(blood)或暴力。不应与杀害(snuff)混淆。不需要血液(blood)标签。<br>![恶](http://exhentai.org/t/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg)![恶](http://exhentai.org/t/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg)![恶](http://exhentai.org/t/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg) |
+| electric shocks | 电击 | 用电力引起疼痛或快感。 |
+| ryona | 哀嚎 | 对角色实施痛击、电击、束缚。通常低于拷打(torture)的程度。不应与摔角(wrestling)混淆。 | 
+| snuff | 杀害 | 杀害人类或毛茸茸(furry)。不应与肢解(guro)混淆。<br>![恶](http://exhentai.org/t/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg)![恶](http://exhentai.org/t/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg)![恶](http://exhentai.org/t/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg) |
+| torture | 拷打 | 使用各种技术来制造痛苦。通常使用各种不寻常的性玩具(sex toys)，但也可能有更多古怪的主题，如肢解(guro)。不一定是调教(bdsm)。 | 
+| trampling | 践踏 | 由主宰的一方踩踏。 通常是调教(bdsm)的一部分。 |
+| wrestling | 摔角 | 发生在至少两人间的扭打。不要与猫斗(catfight)混淆。 | 
 | | == 自我愉悦 == | |
 | autofellatio | 自吹 | 对自己口交。不需要口交(blowjob)、舔阴(cunnilingus)或自慰(masturbation)标签。<br>![图](http://exhentai.org/t/25/df/25df378664398e4b46ba4f44f1fa9c4097d85c7a-176564-614-768-jpg_l.jpg) |
 | masturbation | 自慰 | 自我愉悦。是电话性爱(phone sex)的前置标签。不需要指法(fingering)标签。 | 
