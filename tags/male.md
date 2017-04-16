@@ -228,16 +228,57 @@
 | | == 躯干 == | |
 | navel fuck | 肚脐奸 | 插入肚脐。 | 
 | pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于受孕(impregnation)。<br>![怀孕的男孩子](http://ehgt.org/t/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](http://exhentai.org/t/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg)![图](http://exhentai.org/t/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg) |
-| stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由大玩具(large insertions)或者巨根(big penis)引起。<br> ![胃部变型](http://exhentai.org/t/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg)![图](http://exhentai.org/t/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg) |
+| stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由大玩具(large insertions)或者大根(big penis)引起。<br> ![胃部变型](http://exhentai.org/t/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg)![图](http://exhentai.org/t/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg) |
+| | == 下半身 == | |
+| | === 下半身 > 裆部 === | |
+| chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或自慰(masturbation)。经常与调教(bdsm)配对。 | 
+| crotch tattoo | 裆部纹身 | 下腹部到下裆区域之间的任何明显的标记。 |
+| hairy | 多毛 | 引人注目的大量阴毛。不应与腋毛(hairy armpits)混淆。 | 
+| pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](http://exhentai.org/t/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg)![](http://exhentai.org/t/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg)![](http://exhentai.org/t/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg)![图](http://exhentai.org/t/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg) | 
+| pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |
+| urethra insertion | 尿道插入 | 插入尿道的性行为。 | 
+| | ==== 下半身 > 裆部 > 阴茎 ==== | |
+| balls expansion | 睾丸生长 | 睾丸的尺寸增大，可能成为大睾丸(big balls)。 | 
+| ball sucking | 吸球 | 用嘴在睾丸上吸吮为乐。<br>![图](http://exhentai.org/t/4c/07/4c072eb0bb5ad98418cc70fa0bd99908c31a3ddb-1561179-1600-2294-png_l.jpg) | 
+| balljob | 球交 | 通过类似乳交(paizuri)的方式使用睾丸。 | 
+| big balls | 大睾丸 | 不正常的巨大睾丸，至少与手的大小相当。 | 
+| big penis | 大根 | 异常大的阴茎，至少要和其主人的前臂一样大。是巨根(huge penis)的前置标签。 | 
+| dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生大根(big penis)。不应该与正常的勃起混淆，也不适用性转换(gender bender)标签。 | 
+| frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) | 
+| horse cock | 马根 | 马形状的阴茎，很可能是大根(big penis)。不用于半人马(centaur)、马(horse)、马男孩(horse boy)或性玩具(sex toys)。 | 
+| huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要大根(big penis)标签。 | 
+| multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于触手(tentacles)形的阴茎。<br>![图](http://exhentai.org/t/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg) |
+| penis birth | 阴茎出产 | 通过阴茎产下生物。不用于产卵(eggs)。 | 
+| phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 | 
+| prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 | 
+| smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 | 
+| | ==== 下半身 > 裆部 > 阴道 ==== | |
+| birth | 出产 | 生物诞生的过程，在此之前一般会怀孕(pregnant)。 | 
+| | === 下半身 > 臀部 === | |
+| anal | 肛交 | 插入肛门。任何方法都可以（性玩具(sex toys)，触手(tentacles)等）。<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) | 
+| anal birth | 肛门出产 | 通过肛门产下生物的过程。在此之前一般会怀孕(pregnant)。不用于产卵(eggs)。 |
+| ass expansion | 臀部膨胀 | 臀部变大的过程，可能成为大屁股(big ass)。不需要变身(transformation)标签。 | 
+| assjob | 尻交 | 屁股沟性交，不插入。不应与肛交(anal)混淆。<br>![图](http://exhentai.org/t/12/d5/12d548648c0e9ca572296531823ab38c1e777824-310836-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/f5/fd/f5fd37a39de4fec5161df6e381f305964673c31b-599712-1024-600-png_l.jpg)![图](http://exhentai.org/t/0c/4a/0c4ae784b128d7842fb8a315595e8ac06c623a88-602649-710-994-jpg_l.jpg) |
+| big ass | 大屁股 | 至少比角色的头部大 2.5 倍。 |
+| enema | 灌肠 | 液体或空气注入肛门。可能会导致腹部膨胀(inflation)。<br>![图](http://exhentai.org/t/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg) | 
+| farting | 放屁 | 明显的放屁行为。 | 
+| pegging | 爆菊 | 男性被穿戴式阳具(strap-on)或性玩具(sex toys)插入肛门。不用于扶上男(dickgirl on male)的情况。 |
+| spanking | 打屁股 | 拷打(torture)某人的屁股以获得性快感。 |
+| | === 下半身 > 任何洞 === | |
+| eggs | 产卵 | 有蛋或产蛋的行为。常常导致腹部膨胀(inflation)。不应与出产(birth)或怀孕(pregnant)混淆。 | 
+| gaping | 敞口 | 阴道或肛门，明显地在做爱之后伸展。往往由大玩具(large insertions)、拳交(fisting)、大根(big penis)或巨根(huge penis)造成。<br>是扩张器(speculum)的前置标签。不应与脱垂(prolapse)相混淆，但可能会导致它。<br>![图](http://exhentai.org/t/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg)![图](http://exhentai.org/t/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg) | 
+| large insertions | 大玩具 | 被巨型性玩具(sex toy)插入。不用于大根(big penis)或巨根(huge penis)。<br>![恶](http://exhentai.org/t/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg) | 
+| nakadashi |中出 | 射在里面，体外也可能有一个明显的精液池。 | 
+| prolapse | 脱垂 | 阴道或肛门膨胀出他们本来的孔。往往由敞口(gaping)造成。<br>![病](http://exhentai.org/t/56/c0/56c0498ef197edf742eb8109fee329a6e0457969-808502-660-1055-jpg_l.jpg)![病](http://exhentai.org/t/f7/ee/f7ee0238432347df82d2d559f21287fc3b615d7b-1455177-1000-1400-png_250.jpg)![病](http://exhentai.org/t/6b/1b/6b1bf6547fdef997fbffd3bd8506b46f38d9f660-403695-1920-1080-jpg_250.jpg) | 
+| sex toys | 性玩具 | 用于性目的的玩具。不包括穿戴式阳具(strap-on)和飞机杯(onahole)。<br>![图](http://exhentai.org/t/c9/53/c95392bc2f14694ce5225ec974466aae44e2c4ac-471557-800-600-jpg_l.jpg)![图](http://exhentai.org/t/2d/80/2d803b3021710c9a41ac2db350c32309c0418ba7-151748-694-1000-jpg_l.jpg) | 
+| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与出产(birth)相反，因此不需要出产(birth)或怀孕(pregnant)标签。 | 
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
 | | ▼ Multiple Activities | 多人活动 |
 | group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
 | | ▼ 暂未分类 | |
-| anal | 肛交 | 阴茎插入肛门，或是任何物体都可以（如性玩具、触手等）。(アナル)<br>这背后一定有肮脏的PY交易<br>![例](http://exhentai.org/t/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg)![图](http://exhentai.org/t/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg) |
 | double anal | 双棒入菊 | 两根阴茎插入一个肛门。(一ケツ二チン)<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) |
-| frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) |
 | layer cake | 夹心蛋糕 | 阴茎在2个阴道之间摩擦。可能涉及每个阴道之间交替插入。<br>需要乱交(group)标签<br>拥有阴茎的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
