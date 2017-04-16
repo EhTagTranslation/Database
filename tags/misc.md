@@ -15,6 +15,10 @@
 | | == 头部 == | | 
 | | === 头部 > 思维 === | |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依(possession)混淆也不能标为性转换(gender bender)。 | 
+| | == 下半身 == | |
+| | === 下半身 > 裆部 === | |
+| | ==== 下半身 > 裆部 > 阴茎 ==== | |
+| frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) | 
 | | ▼ Multiple Activities | 多人活动 |
 | mmt threesome | 男男扶 | |
 | mtf threesome | 男扶女 | |
