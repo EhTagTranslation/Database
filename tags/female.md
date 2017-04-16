@@ -328,7 +328,7 @@
 | all the way through | 全身插入 | 一些东西从嘴里插入后孔穿出（或反之），穿过一个人的整个身体。很有可能由一个大的插入或触手完成。<br>被穿透人的性别决定放入女性还是男性的命名空间。<br>做肠镜是非常难受的，胃镜也是非常难受的，据人民网报道：以肉食为主的西方人，如果身高1.8米，其肠子长度平均为5.4米，肠长倍数为3；而以植物为主食的亚洲人，如果身高1.7米，其肠子长度平均为8.3米，肠长倍数为5。要是真有谁被触手贯穿的话，恐怕早就痛不欲生了。<br>![图](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg)![图](http://exhentai.org/t/62/8d/628d3810de96783c54522deeadc2bddd3c95b157-937555-1353-1920-jpg_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/07/35/073507b2f3c6b5142bfc18a4ed8363aefed7f358-423965-1106-1518-jpg_250.jpg)![图](http://exhentai.org/t/07/af/07afbefdecad55a752c8e6318be308852930554a-666429-1309-1790-jpg_250.jpg)![图](http://exhentai.org/t/d0/f9/d0f940d14ac03e86d2fd3076089b01f0d53d743d-753537-1080-1920-png_250.jpg)![图](http://exhentai.org/t/fe/33/fe33f182f2c33fd96a9d7be3a43f55caf399a648-300780-816-1200-jpg_250.jpg)![图](http://ul.ehgt.org/c1/f0/c1f091e29ad0e9a5331cfe58171a41aa63a17865-832734-960-1555-jpg_l.jpg) |
 | bodysuit | 连体紧身衣 | 任何贴合的全身服装，必须覆盖胳膊和腿。<br>不应与全身套装(kigurumi)、乳胶(latex)、泳装(swimsuit)、画皮(skinsuit)标签混淆。<br>![图](http://ul.ehgt.org/c4/d0/c4d079a85e5036fb01bf7aae3f8d3b0d162679e3-584193-800-1100-jpg_l.jpg)![图](http://exhentai.org/t/1c/96/1c96f84e32f14153c63e209c86ddb8700ec834fa-599290-1003-1400-jpg_250.jpg)![图](http://exhentai.org/t/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_l.jpg) |
-| leotard | 紧身衣 | 塑胶服装常用于体操(gymnastics)，兔女郎(bunny girls)和摔跤(wrestling)。<br>不应和泳装(swimsuit)和学校的泳装(school swimsuit)标签混淆。<br>![图](http://exhentai.org/t/0e/4c/0e4cb66ebd858ceb8af866c7efb390253f60609b-912489-2087-3000-jpg_l.jpg)![图](http://exhentai.org/t/94/7b/947bb629b7fdda23c863e5878cc2646853b7e099-913358-1500-2120-jpg_250.jpg) |
+| leotard | 紧身衣 | 塑胶服装常用于体操(gymnastics)，兔女郎(bunny girls)和摔角(wrestling)。<br>不应和泳装(swimsuit)和学校的泳装(school swimsuit)标签混淆。<br>![图](http://exhentai.org/t/0e/4c/0e4cb66ebd858ceb8af866c7efb390253f60609b-912489-2087-3000-jpg_l.jpg)![图](http://exhentai.org/t/94/7b/947bb629b7fdda23c863e5878cc2646853b7e099-913358-1500-2120-jpg_250.jpg) |
 | kigurumi | 全身套装 | 包括描绘角色面具的全身服装。<br>不应和连体紧身衣(bodysuit)和画皮(skinsuit)标签混为一谈。<br>![图](http://ul.ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](http://ul.ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](http://ul.ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |
 | latex | 乳胶紧身衣 | 任何衣服，用橡胶或塑料制作，一般紧身。<br>不应与紧身裤(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签相混淆。<br>![图](http://exhentai.org/t/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_250.jpg)![图](http://exhentai.org/t/fd/6e/fd6e5aed7c882df3011f351ce445fa611cd6cb31-1200828-1421-2000-jpg_l.jpg)![图](http://exhentai.org/t/4b/94/4b947d1ca23f23ad339cd3572ff8f9259ae16d0e-561629-1417-2000-jpg_l.jpg) |
 | bloomers | 布鲁马 | 主要为日本女学生的运动短裤。通常蓝色或红色。<br>不应与自行车短裤(bike shorts)相混淆。<br>![图](http://exhentai.org/t/8f/98/8f9814a8e28c50b0f450337eda6b96a4ddec51f0-87738-800-600-jpg_l.jpg)![图](http://exhentai.org/t/76/03/76035fd50b3831ab5fe3e2805a1e93a05761d195-105035-800-600-jpg_l.jpg)![](http://exhentai.org/t/17/a2/17a2af6bbc8944407110614bedeed31bf460f66a-661398-1024-600-png_l.jpg)![](http://exhentai.org/t/28/29/28299624954d567dc68ac38a0f4e3816dacc3a28-192675-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/77/e6/77e68870b007bfd2800b0bdf4e2164dedc559a6e-150302-800-600-jpg_l.jpg)![图](http://exhentai.org/t/fc/dc/fcdc7e883b4e8f067f3212c0de9e8645d44e4884-152348-800-600-jpg_l.jpg)![图](http://exhentai.org/t/d9/5d/d95ddb44bf43f71151ccd52d69693674b2cb91f6-2505510-1506-2119-jpg_l.jpg)![图](http://exhentai.org/t/b1/81/b1816c5d634e52744aacd362f3da40ed45050740-2989109-2141-3015-jpg_l.jpg)![图](http://exhentai.org/t/27/ba/27bae95ed09c098a2c0a5c73dacea930de3f7684-1320253-2112-3000-jpg_l.jpg) |
@@ -339,9 +339,7 @@
 | hotpants | 热裤 | 短的，突出臀部和腿部。<br>不能与自行车短裤(bike shorts)，布鲁马(bloomers)，或运动短裤标签混淆。<br>![图](http://exhentai.org/t/36/82/3682e6eaf2bd56cbd040ceab913ce0f0a6fe09d8-1066447-1583-2211-jpg_l.jpg)![图](http://exhentai.org/t/d5/b0/d5b0e6b1ea48edcb602d0e941c9c85fde7a46666-6458880-2140-3000-png_l.jpg)![图](http://exhentai.org/t/42/1e/421ed5fc2646003024de98d281a16ab36e6a7e63-4741499-1600-2282-jpg_l.jpg) |
 | gymshorts | 运动短裤 | 短的运动裤子，颜色和长度可以改变。<br>不应与布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。<br>![图](http://exhentai.org/t/5d/13/5d13fffb1cb16c99d3eb77c53ff3e57985723fa5-3645640-2149-3035-jpg_l.jpg)![图](http://ul.ehgt.org/a1/2f/a12fdf19d1ebdac40a1ca5a00c88374ef6774e30-543473-1024-768-png_l.jpg)![图](http://ehgt.org/t/39/1e/391e16bc04b9bb369ab9d438172d3366eb6893fb-103453-648-865-jpg_250.jpg) |
 | onahole | 飞机杯 | 一个人工阴道用来对阴茎手淫。<br>不应与性玩具(sex toys)混淆。使用飞机杯的人的性别决定放入女性还是男性的命名空间。如果是女性，必须与扶她(futanari)或女雄(shemale)标签一起使用。<br>![图](http://exhentai.org/t/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg)![图](http://exhentai.org/t/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg)![图](http://exhentai.org/t/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg) |
-| slave | 奴隶 | |
 | public use | 公众使用 | |
-| femdom | 女性支配 |  |
 | sweating | 出汗 |  |
 | whip | 鞭打 |  |
 | magical girl | 魔法少女 |  |
@@ -352,33 +350,23 @@
 | triple anal | 三插肛门 | 三个阴茎同时插入肛门 |
 | maid | 女仆 |  |
 | bukkake | 精液覆盖 | ぶっかけ(Bukkake)性主角被精液覆盖，一般不止一个人射精。不像颜射一般局限于性伴侣的脸上，而是射出精液在在身体的任何部位都可以。<br>被射精的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg)![图](http://exhentai.org/t/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg)![图](http://exhentai.org/t/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg)![图](http://exhentai.org/t/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg) |
-| rape | 强奸 |  |
 | twins | 双胞胎 |  |
 | condom | 避孕套 |  |
 | urination | 排尿 |  |
 | tights | 紧身衣 |  |
 | speculum | 扩张器 | ![图](http://exhentai.org/t/5e/22/5e22062c47dd9112c63c996a5e1b79f25320c1f9-248686-579-819-jpg_l.jpg)![图](http://exhentai.org/t/19/70/19705183385b0ccba4f219aef6028c898534a64c-1070313-2124-3000-jpg_250.jpg)![图](http://exhentai.org/t/cb/90/cb90dd58fefb28fc15a653424e8ded29c26239ad-154666-800-600-jpg_l.jpg) |
 | machine | 机械奸 |  |
-| electric shocks | 电击 |  |
 | nurse | 护士 |  |
 | kimono | 和服 |  |
-| shibari | 日式捆绑 |  |
-| bdsm | 调教 |  |
 | fundoshi | 六尺褌 | 相扑手穿的丁字裤 |
-| bondage | 束缚 |  |
 | miko | 巫女 |  |
-| torture | 拷打 |  |
 | blood | 血液 |  |
-| guro | 肢解 | 肢解人类或有毛皮的。温和的血液或暴力不符合本Tag。<br>不应与杀害(snuff)混淆。不需要血液(blood)标记。<br>被肢解的人的性别决定放入女性还是男性的命名空间。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。<br>![恶](http://exhentai.org/t/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg)![恶](http://exhentai.org/t/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg)![恶](http://exhentai.org/t/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg) |
-| snuff | 杀害 | 杀害人类或有毛皮的。<br>不应与肢解(guro)混淆。<br>被杀害的人的性别决定放入女性还是男性的命名空间。<br>同义词：执刑(execution)、杀害(kill)、谋杀(murder)、自杀(suicide)<br>画廊只需要包含一张这种性质的图片就需要打上此标签。<br>![恶](http://exhentai.org/t/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg)![恶](http://exhentai.org/t/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg)![恶](http://exhentai.org/t/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg) |
 | piercing | 刺穿 | 任何形式的穿孔除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>被穿孔的人的性别决定放入女性还是男性的命名空间。<br>![恶](http://exhentai.org/t/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg)![恶](http://exhentai.org/t/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg) |
 | randoseru | 书包 |  |
 | menstruation | 经血 | 大姨妈 |
 | tiara | 宝冠 |  |
 | tube | 插管 | 向体内插入管子 插入肛门等 |
 | syringe | 注射器 |  |
-| ryona | 哀嚎 | ryona 意思就是藉由观看女性角色被痛击、电击、束缚、受伤挣扎、哀鸣而激起性快感 |
-| tickling | 痒 |  |
 | oil | 油 |  |
 | apron | 围裙 | 做饭时为了保护常穿的服装。通常为色情目的穿带。<br>穿着围裙的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/64/17/64170ad602342eb89fbb060c3845051827219f9f-270264-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/6d/51/6d51628d3a92f64102c47cb48f2e17ff4fdc34aa-1695855-1013-1614-png_l.jpg)![图](http://exhentai.org/t/3c/60/3c60c4a41845aa41ba2a8ba0a4764b7e0fb22546-382544-800-600-png_l.jpg)![图](http://exhentai.org/t/88/cf/88cff98e2d855af7e7097fe433a4c06676c69229-177598-800-600-jpg_l.jpg)![图](http://ul.ehgt.org/28/27/2827e9529ca73a6cf8728342c0e70f29987215a7-6134109-4202-6104-jpg_l.jpg) |
 | gothic lolita | 哥特萝莉 | 一种黑暗但有很多褶的风格。详细请谷歌<br>![图](http://exhentai.org/t/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg)![图](http://exhentai.org/t/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg) |
@@ -387,8 +375,6 @@
 | pasties | 乳贴 |  |
 | bandages | 绷带 |  |
 | bandaid | 创可贴 |  |
-| human cattle | 乳牛女 | 人类保持牲畜，通常是被挤奶或繁殖。经常涉及的束缚。 |
-| cannibalism  | 食人 | 人型生物烹饪或食用其他人形生物。 |
 | scat | 排便 |  |
 | mecha girl | 机甲少女 |  |
 | cum bath | 精液浴 |  |
@@ -396,19 +382,45 @@
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |
 | haigure | 高叉泳装 | |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣; 相对于常规的内衣更色情。此外，还包括睡衣。 |
-| human pet | 人宠 | 仿佛它们是宠物。 | 
 | bride | 新娘 |  |
 | diaper | 尿布 | 一种用来承接大小便的内衣；往往被婴儿穿戴。经常与年龄进展、拉屎、幼稚型或放尿配对。 |
 | pole dancing | 钢管舞 | |
 | business suit | 西装 | |
 | tracksuit | 运动服 | |
-| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚标签。不得与寻欢洞、虫洞混淆。 |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
 | waiter | 男侍者 | |
 | waitress | 女侍者 | |
 | cheerleader | 拉拉队员 | |
 | | ▲ 暂未分类 | |
+| | == 强迫 == | |
+| chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 | 
+| rape | 强奸 | 强迫或非自愿性行为。 | 
+| | === 强迫 > 虐待 === | |
+| bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要束缚(bondage)或拷打(torture)标签，但可能是其原因。 |
+| femdom | 女性支配 | 女性性统治。通常目标是一个男性，但也可以是另一个女性。 | 
+| forniphilia | 人体家具 | 用人类作为家具。 |
+| human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于挤奶(milking)或繁殖。 通常涉及束缚(bondage)。 |
+| human pet | 人宠 | 像宠物一样对待人。不应与人类饲养(human cattle)和奴隶(slave)混淆。常是调教(bdsm)的一环。 | 
+| orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |
+| slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用调教(bdsm)。不要与人宠(human pet)或人类饲养(human cattle)混淆。 |
+| tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 | 
+| | === 强迫 > 束缚 === | |
+| bondage | 束缚 | 捆绑或束缚的行为和艺术。是枷具(pillory)、捆绑(shibari)、卡在墙上(stuck in wall)和木马(wooden horse)的前置标签。不需要为口塞(gag)或钩腿(leg lock)添加此标签。 |
+| shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要束缚(bondage)标签。 |
+| stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚(bondage)标签。不应与寻欢洞(glory hole)或虫洞(wormhole)混淆。 |
+| | === 强迫 > 暴力 === | |
+| abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |
+| cannibalism  | 食人 | 人型生物烹饪或食用其他人形生物。不应与吞食(vore)混淆。 | 
+| catfight | 猫斗 | 两名女性之间不协调的战斗。不应与摔角(wrestling)混淆。 |
+| cbt | CBT | Cock and ball torture，以任何方式折磨阴茎区域。不需要拷打(torture)标签 | 
+| guro | 肢解 | 肢解人类或毛茸茸(furry)。不用于温和的血液(blood)或暴力。不应与杀害(snuff)混淆。不需要血液(blood)标签。<br>![恶](http://exhentai.org/t/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg)![恶](http://exhentai.org/t/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg)![恶](http://exhentai.org/t/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg) | 
+| electric shocks | 电击 | 用电力引起疼痛或快感。 |
+| ryona | 哀嚎 | 对角色实施痛击、电击、束缚。通常低于拷打(torture)的程度。不应与摔角(wrestling)混淆。 | 
+| snuff | 杀害 | 杀害人类或毛茸茸(furry)。不应与肢解(guro)混淆。<br>![恶](http://exhentai.org/t/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg)![恶](http://exhentai.org/t/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg)![恶](http://exhentai.org/t/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg) | 
+| torture | 拷打 | 使用各种技术来制造痛苦。通常使用各种不寻常的性玩具(sex toys)，但也可能有更多古怪的主题，如肢解(guro)。不一定是调教(bdsm)。 |
+| trampling | 践踏 | 由主宰的一方踩踏。 通常是调教(bdsm)的一部分。 |
+| wrestling | 摔角 | 发生在至少两人间的扭打。不要与猫斗(catfight)混淆。 | 
 | | == 自我愉悦 == | |
 | autofellatio | 自吹 | 对自己口交。不需要口交(blowjob)、舔阴(cunnilingus)或自慰(masturbation)标签。<br>![图](http://exhentai.org/t/8f/d4/8fd46f8ad6db37a6f8d57b25e3f2433b4b006bd0-385485-723-1024-jpg_l.jpg)![图](http://exhentai.org/t/0a/07/0a07d908399593c7a13413e55df30434606ceb4d-704394-768-1024-png_l.jpg)![图](http://exhentai.org/t/60/10/6010599e0531b224fd3950fe46efab32fb909d39-162421-877-1260-jpg_250.jpg)![图](http://exhentai.org/t/02/ce/02ce808b0709129711ef5d6a5183566a35c15fec-265980-1040-1500-jpg_l.jpg)![](http://exhentai.org/t/eb/f3/ebf3c36393865eb2de05ea7616d7c078ba0c0531-104093-850-637-jpg_l.jpg)![](http://exhentai.org/t/48/a4/48a4645521618c0f62c77e7a010a78df17e6bbcf-1096934-1536-2048-jpg_l.jpg)![](http://exhentai.org/t/ed/39/ed39227c744b2796c46d5aa73d49600028d6d107-364260-595-841-jpg_l.jpg)![图](http://exhentai.org/t/ad/af/adafc3974b0dc2c9bbf1fa12308c2734d7ede2ce-468407-620-876-png_l.jpg) | 
 | autopaizuri | 自乳交 | 给自己乳交。不需要乳交(paizuri)标签。需要扶她(futanari)或女雄(shemale)标签。 | 
