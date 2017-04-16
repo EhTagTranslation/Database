@@ -73,7 +73,7 @@
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 | 
 | | == 非长期标签 == | |
 | | === 非长期标签 > 漫展标签 === | |
-| c92 | C92 | 在 Comic Market 92 期间发布的作品。<br>此标签有效期为 2017/8/1 - 2017/10/1。 |
+| c92 | C92 | 在 Comic Market 92 期间发布的作品。<br>此标签有效期为 <relative-time title="" datetime="2017-08-01T00：00：00Z">2017/8/1</relative-time> - <relative-time title="" datetime="2017-10-01T00：00：00Z">2017/10/1</relative-time>。 |
 | | === 非长期标签 > 还没正式标签的公司 === | |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) |
