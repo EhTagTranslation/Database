@@ -270,7 +270,6 @@
 | large insertions | 大玩具 | 被巨型性玩具(sex toy)插入。不用于大根(big penis)或巨根(huge penis)。<br>![恶](http://exhentai.org/t/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg) | 
 | nakadashi |中出 | 射在里面，体外也可能有一个明显的精液池。 | 
 | prolapse | 脱垂 | 阴道或肛门膨胀出他们本来的孔。往往由敞口(gaping)造成。<br>![病](http://exhentai.org/t/56/c0/56c0498ef197edf742eb8109fee329a6e0457969-808502-660-1055-jpg_l.jpg)![病](http://exhentai.org/t/f7/ee/f7ee0238432347df82d2d559f21287fc3b615d7b-1455177-1000-1400-png_250.jpg)![病](http://exhentai.org/t/6b/1b/6b1bf6547fdef997fbffd3bd8506b46f38d9f660-403695-1920-1080-jpg_250.jpg) | 
-| sex toys | 性玩具 | 用于性目的的玩具。不包括穿戴式阳具(strap-on)和飞机杯(onahole)。<br>![图](http://exhentai.org/t/c9/53/c95392bc2f14694ce5225ec974466aae44e2c4ac-471557-800-600-jpg_l.jpg)![图](http://exhentai.org/t/2d/80/2d803b3021710c9a41ac2db350c32309c0418ba7-151748-694-1000-jpg_l.jpg) | 
 | unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与出产(birth)相反，因此不需要出产(birth)或怀孕(pregnant)标签。 | 
 | | == 腿 == | |
 | kneepit sex | 膝里性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。不应与股间性交(sumata)混淆。<br>![图](http://exhentai.org/t/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg)![图](http://exhentai.org/t/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg)![图](http://exhentai.org/t/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg)![](http://exhentai.org/t/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg)![图](http://exhentai.org/t/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg)![图](http://exhentai.org/t/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg) | 
@@ -295,8 +294,6 @@
 | bandaid | 创可贴 |  |
 | business suit | 西装 | |
 | tracksuit | 运动服 | |
-| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不得与卡在墙上、虫洞混淆。 |
-| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不得与卡在墙上、寻欢洞、感官共享混淆。 |
 | crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
 | condom | 避孕套 | |
@@ -304,6 +301,21 @@
 | waitress | 女侍者 | |
 | schoolboy uniform | 男生校服 | |
 | | ▲ 暂未分类 | |
+| | == 工具 == | |
+| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不应与卡在墙上(stuck in wall)或虫洞(wormhole)混淆。 | 
+| machine | 机械奸 | 与机器做爱。不应与机器人(robot)、性玩具(sex toys)和机男(mecha boy)混淆。 | 
+| onahole | 飞机杯 | 一个人工阴道用来对阴茎自慰(masturbation)。不应与性玩具(sex toys)混淆。<br>![图](http://exhentai.org/t/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg)![图](http://exhentai.org/t/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg)![图](http://exhentai.org/t/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg) | 
+| pillory | 枷具 | 限制头部和手运动的装置，一般是木制的。需要束缚(bondage)标签。 |
+| pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 | 
+| sex toys | 性玩具 | 用于性目的的玩具。不包括穿戴式阳具(strap-on)和飞机杯(onahole)。<br>![图](http://exhentai.org/t/c9/53/c95392bc2f14694ce5225ec974466aae44e2c4ac-471557-800-600-jpg_l.jpg)![图](http://exhentai.org/t/2d/80/2d803b3021710c9a41ac2db350c32309c0418ba7-151748-694-1000-jpg_l.jpg) | 
+| speculum | 扩张器 | 用于扩张诸如肛门或阴道等体腔的医疗装置。<br>![图](http://exhentai.org/t/5e/22/5e22062c47dd9112c63c996a5e1b79f25320c1f9-248686-579-819-jpg_l.jpg)![图](http://exhentai.org/t/19/70/19705183385b0ccba4f219aef6028c898534a64c-1070313-2124-3000-jpg_250.jpg)![图](http://exhentai.org/t/cb/90/cb90dd58fefb28fc15a653424e8ded29c26239ad-154666-800-600-jpg_l.jpg) |
+| syringe | 注射器 | 由管、柱塞和连接的针组成的工具。用于注射液体。常与药物(drugs)或乳房膨胀(breast expansion)一起使用。 | 
+| tail plug | 尾塞 | 任何尾部性玩具。需要性玩具(sex toys)和肛交(anal)标签。 | 
+| tube | 插管 | 插入口中的任何圆柱形管子，用于供给流体或营养物质。 |
+| vacbed | 真空床 | 用于调教(bdsm)或束缚(bondage)的真空床。 | 
+| whip | 鞭打 | 用于捆绑或打击动物或人以造成中度疼痛的工具。以这种方式使用的其他物品也用此标签。可能需要调教(bdsm)标签。 |
+| wooden horse | 木马 | 任何具有上三角形形状的装置，受害者跨越其顶部，通常将他们的体重放在生殖器上。需要束缚(bondage)标签。 | 
+| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与卡在墙上(stuck in wall)、寻欢洞(glory hole)、感官共享(shared senses)混淆。 |
 | | == 液体 == | |
 | oil | 油 |一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如史莱姆(slime)）。 |
 | underwater | 水下 | 在性期间大部分或完全浸没在液体中。 | 
