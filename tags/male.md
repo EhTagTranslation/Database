@@ -283,11 +283,6 @@
 | | ▼ Legs | 腿 |
 | pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
 | stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
-| | ▼ Multiple Activities | 多人活动 |
-| group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) |
-| | ▼ 暂未分类 | |
-| double anal | 双棒入菊 | 两根阴茎插入一个肛门。(一ケツ二チン)<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) |
-| layer cake | 夹心蛋糕 | 阴茎在2个阴道之间摩擦。可能涉及每个阴道之间交替插入。<br>需要乱交(group)标签<br>拥有阴茎的人的性别决定放入女性还是男性的命名空间。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
 | bandages | 绷带 |  |
@@ -301,6 +296,18 @@
 | waitress | 女侍者 | |
 | schoolboy uniform | 男生校服 | |
 | | ▲ 暂未分类 | |
+| | == 多人活动 == | |
+| double anal | 双插肛门 | 两根阴茎插入一个肛门。不需要再添加肛交(anal)标签。<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) | 
+| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) | 
+| harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) |
+| layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) |
+| oyakodon‎ | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 | 
+| triple anal | 三插肛门 | 三根阴茎同时插入肛门。 | 
+| twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 | 
+| | === 多人活动 > 多个洞 === | |
+| all the way through | 全身插入 | 一些东西从嘴里插入后孔穿出（或反之），穿过一个人的整个身体。很有可能由大玩具(large insertions)或触手(tentacles)完成。<br>做肠镜是非常难受的，胃镜也是非常难受的，据人民网报道：以肉食为主的西方人，如果身高 1.8 米，其肠子长度平均为 5.4 米，肠长倍数为 3；而以植物为主食的亚洲人，如果身高 1.7 米，其肠子长度平均为 8.3 米，肠长倍数为 5。要是真有谁被触手贯穿的话，恐怕早就痛不欲生了。<br>![图](http://exhentai.org/t/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg)![图](http://exhentai.org/t/62/8d/628d3810de96783c54522deeadc2bddd3c95b157-937555-1353-1920-jpg_l.jpg) |
+| double penetration | 双重插入 | 两个孔口（口腔、 阴道或肛门）同时被插入。有可能是乱交(group)的一环。是三重插入(triple penetration)的前置标签。<br>![图](http://exhentai.org/t/97/91/97915c4f46a8824e6134e9d020179cc66ab4f5e7-168043-800-600-jpg_l.jpg)![图](http://exhentai.org/t/c6/f0/c6f04596e3a7ffbd7651283f3921a673f993233f-1886577-1488-2104-jpg_l.jpg)![图](http://exhentai.org/t/2e/e3/2ee3be58d97de6e8b0d108a59be3b700a8153712-441658-1260-1008-jpg_l.jpg)![图](http://exhentai.org/t/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_l.jpg) |
+| triple penetration | 三重插入 | 三个插入同时发生在一个人身上。往往是双重插入(double penetration)后用剩下的口也被插入，或双插阴道(double vaginal)/双插肛门(double anal)后插入其他后孔。<br>![图](http://exhentai.org/t/c8/5a/c85a8f685f3f0856c22ee188ac0a720d328ec84a-192869-800-600-jpg_l.jpg)![图](http://exhentai.org/t/e5/f0/e5f0423750d8c861edf0d4050e88cb7ca3e71a31-308957-991-1400-jpg_l.jpg)![图](http://exhentai.org/t/5c/3a/5c3ab16ffa342d3b5ad5131bb330e1f8bf26691c-546934-2100-1500-jpg_l.jpg)![图](http://exhentai.org/t/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg) |
 | | == 工具 == | |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不应与卡在墙上(stuck in wall)或虫洞(wormhole)混淆。 | 
 | machine | 机械奸 | 与机器做爱。不应与机器人(robot)、性玩具(sex toys)和机男(mecha boy)混淆。 | 
