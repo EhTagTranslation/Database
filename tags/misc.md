@@ -19,15 +19,15 @@
 | | === 下半身 > 裆部 === | |
 | | ==== 下半身 > 裆部 > 阴茎 ==== | |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](http://exhentai.org/t/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg) | 
-| | ▼ Multiple Activities | 多人活动 |
-| mmt threesome | 男男扶 | |
-| mtf threesome | 男扶女 | |
-| ttm threesome | 扶扶男 | |
-| group | 乱交 | 两个以上的人同时进行性行为。<br>是它们的前置标签：后宫(harem)，夹层蛋糕(layer cake)，男扶女(mtf)，男男扶(mmt)，男女男(mmf)，扶扶男(ttm)，扶扶女(ttf)，女女男(ffm)，and 女女扶(fft)等3P标签其中t为换性者(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。<br>两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算的。<br>如果乱交仅有一个性别，将其添加到各自的命名空间(男性或女性);扶她和女雄都算作女性。如果该组有多个性别则放入杂项。<br>![图](http://exhentai.org/t/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg) |
-| ffm threesome | 嫐 | ♀♂♀，2女1男3P |
-| mmf threesome | 嬲 | ♂♀♂，2男1女3P |
-| twins | 双胞胎 |  |
-| | ▲ 暂未分类 | |
+| | == 多人活动 == | |
+| ffm threesome | 嫐 | ♀♂♀，2 女 1 男 3P。需要乱交(group)标签。 |
+| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](http://exhentai.org/t/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg) |
+| mmf threesome | 嬲 | ♂♀♂，2 男 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |
+| mmt threesome | 男男扶 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |
+| mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |
+| oyakodon‎ | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 |
+| ttm threesome | 扶扶男 | ⚥♂⚥，2 扶 1 男 3P。需要乱交(group)标签。不算男同(yaoi)。 |
+| twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 | 
 | | == 工具 == | |
 | dakimakura | 抱枕 | 印有角色全身像的抱枕。也用于抱枕图案。 |
 | | == 强迫 == | |
