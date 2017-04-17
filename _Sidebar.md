@@ -10,4 +10,4 @@
 * [女性](https://github.com/Mapaler/EhTagTranslator/wiki/female)
 * [男性](https://github.com/Mapaler/EhTagTranslator/wiki/male)
 * [重新分类](https://github.com/Mapaler/EhTagTranslator/wiki/reclass)(完成)
-* [杂项](https://github.com/Mapaler/EhTagTranslator/wiki/misc)
+* [杂项](https://github.com/Mapaler/EhTagTranslator/wiki/misc)(完成)
