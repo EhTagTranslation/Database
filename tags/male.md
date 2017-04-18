@@ -1,6 +1,9 @@
-本页储存TAG列表的male（男性）翻译。
+本页储存标签列表的男性(male)翻译。
+
 目前阶段建议规则：
-* 为方便查找理解同类性癖的Tag，请尽量按[恋物Tag分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。<br>若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
+* 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。  
+  若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
+* 检查[新恋物标签列表](https://ehwiki.org/wiki/new_tags)以跟踪最新标签更改。
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
@@ -280,22 +283,79 @@
 | foot insertion | 足插入 | 一个或多个脚插入阴道等孔。<br>![图](http://exhentai.org/t/34/b3/34b3a6e20775938e628764feb4647c1264643ebe-312671-560-420-jpg_l.jpg) |
 | footjob | ![icon](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41q266fgwg200r00d04f.gif)足交 | 用脚对另一个人进行性刺激。不要与腿交(legjob)混淆。<br>![图](http://exhentai.org/t/51/47/5147b5240e3b1eb72216946694a16da9399bee6b-181872-573-800-jpg_250.jpg)![图](http://exhentai.org/t/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg)![图](http://exhentai.org/t/66/70/667031317099de258cfad45f8ee969992b7bfab4-251301-800-600-jpg_l.jpg)![图](http://exhentai.org/t/78/c1/78c17f61991eebe2c2c03de1ccd9d84d12359199-779657-1024-600-png_l.jpg)![图](http://exhentai.org/t/28/7d/287dfea57b4a785856eedb4c229b3548a1853c1f-663304-1024-600-png_l.jpg)![图](http://exhentai.org/t/b6/64/b664ac6368cb2814b739e597e7ceceb21ba8831f-1203961-1200-1163-jpg_250.jpg)![图](http://exhentai.org/t/e2/a7/e2a70bc30f8614baca77dfa4d4eb6708c4995065-286948-800-600-jpg_l.jpg)![图](http://exhentai.org/t/84/ac/84ac7b6a6694aae07a1f8bbd833be264f56fdf6a-160746-800-600-jpg_l.jpg)![图](http://exhentai.org/t/9b/08/9b08ef683dbbef15febcad144f43e8d961da3cf1-664459-800-600-png_l.jpg) |
 | sockjob | 袜交 | 用袜子摩擦生殖器。 |
-| | ▼ Legs | 腿 |
-| pantyhose | 连裤袜 | 连裤袜又称袜裤、紧身袜或丝袜裤，是紧包从腰部到脚部躯体的服装。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
-| stockings | 长筒袜 | 长筒袜是长度达到大腿的厚而富有弹性的长袜，属于大腿袜的一种。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
-| bodystocking | 连身袜 | 一种覆盖大部分身体的长袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足<br>不能与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
-| lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，与寻常的内衣相对。包括睡衣 |
-| bandages | 绷带 |  |
-| bandaid | 创可贴 |  |
-| business suit | 西装 | |
-| tracksuit | 运动服 | |
-| crossdressing | 异性装 | 通常是男性女装，但反过来也可以。对于后者，只在在有明确的表示了穿着像男性的情况下才应该加上此标签。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
-| schoolgirl uniform | 女学生制服 | 在男性的命名空间下时应与异性装同时使用 |
-| condom | 避孕套 | |
-| waiter | 男侍者 | |
-| waitress | 女侍者 | |
-| schoolboy uniform | 男生校服 | |
-| | ▲ 暂未分类 | |
+| | == 服装 == | |
+| apron | 围裙 | 做饭时为了保护常穿的服装。通常为色情目的穿带。<br>![图](http://exhentai.org/t/64/17/64170ad602342eb89fbb060c3845051827219f9f-270264-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/6d/51/6d51628d3a92f64102c47cb48f2e17ff4fdc34aa-1695855-1013-1614-png_l.jpg)![图](http://exhentai.org/t/3c/60/3c60c4a41845aa41ba2a8ba0a4764b7e0fb22546-382544-800-600-png_l.jpg)![图](http://exhentai.org/t/88/cf/88cff98e2d855af7e7097fe433a4c06676c69229-177598-800-600-jpg_l.jpg)![图](http://ul.ehgt.org/28/27/2827e9529ca73a6cf8728342c0e70f29987215a7-6134109-4202-6104-jpg_l.jpg) |
+| bandages | 绷带 | 一条布或类似材料被包裹在身上，至少覆盖身体的10％。 |
+| bandaid | 创可贴 | 创可贴位于阴部或乳头上。 |
+| bike shorts | 自行车短裤 | 短的、有弹性的、紧身贴合腿部（但穿着更像是内衣），旨在提高骑自行车时候的舒适度。不应与热裤(hotpants)混淆。<br>![](http://exhentai.org/t/82/4e/824ec565d33ed51ec89ab98a5689087e29e695e8-682260-1024-600-png_l.jpg)![图](http://exhentai.org/t/63/c3/63c39f00c8dc1b442c5618c20143c5c4ff59028a-369056-1120-1600-jpg_l.jpg)![图](http://exhentai.org/t/a8/44/a8448e102eb338cc80fc0a403d8bce0188a8723f-880865-1063-1500-jpg_l.jpg)![图](http://exhentai.org/t/4c/28/4c2824b5314fb0c0eeb9137c78c23dde02aca682-931040-2044-3020-jpg_l.jpg) |
+| bikini | 比基尼 | 两件式泳装，涵盖生殖器和乳房。两片可以串联起来（也称为弹弓比基尼(slingshot bikini)），但更通常完全分开。需要泳装(swimsuit)标签。需要异性装(crossdressing)标签。<br>![图](http://exhentai.org/t/3c/86/3c86e8a7a57a161b4f6b921b0fe20e44107dc27a-2841047-4720-7002-jpg_l.jpg)![图](http://exhentai.org/t/1c/d1/1cd1b7436cfeb211ffd7ab261b1e8794f17e91c4-702687-1024-600-png_l.jpg)<br>弹弓比基尼▼<br>![图](http://exhentai.org/t/b4/bf/b4bf73ba923825741cbdc3d2154d81f8ed978705-1535220-1200-1657-jpg_l.jpg) |
+| bloomers | 布鲁马 | 主要为日本女学生的运动短裤。通常蓝色或红色。不应与自行车短裤(bike shorts)混淆。需要异性装(crossdressing)标签。<br>![图](http://exhentai.org/t/8f/98/8f9814a8e28c50b0f450337eda6b96a4ddec51f0-87738-800-600-jpg_l.jpg)![图](http://exhentai.org/t/76/03/76035fd50b3831ab5fe3e2805a1e93a05761d195-105035-800-600-jpg_l.jpg)![](http://exhentai.org/t/17/a2/17a2af6bbc8944407110614bedeed31bf460f66a-661398-1024-600-png_l.jpg)![](http://exhentai.org/t/28/29/28299624954d567dc68ac38a0f4e3816dacc3a28-192675-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/77/e6/77e68870b007bfd2800b0bdf4e2164dedc559a6e-150302-800-600-jpg_l.jpg)![图](http://exhentai.org/t/fc/dc/fcdc7e883b4e8f067f3212c0de9e8645d44e4884-152348-800-600-jpg_l.jpg)![图](http://exhentai.org/t/d9/5d/d95ddb44bf43f71151ccd52d69693674b2cb91f6-2505510-1506-2119-jpg_l.jpg)![图](http://exhentai.org/t/b1/81/b1816c5d634e52744aacd362f3da40ed45050740-2989109-2141-3015-jpg_l.jpg)![图](http://exhentai.org/t/27/ba/27bae95ed09c098a2c0a5c73dacea930de3f7684-1320253-2112-3000-jpg_l.jpg) |
+| bodystocking | 连身袜 | 一种覆盖大部分身体的长筒袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足。不应与连体紧身衣(bodysuit)混淆。<br>![图](http://exhentai.org/t/48/33/4833a6763f6a0ce5d1784d99837851e1f12d9184-580395-1049-1500-png_l.jpg) |
+| bodysuit | 连体紧身衣 | 任何贴合的全身服装，必须覆盖胳膊和腿。不应与全身套装(kigurumi)、乳胶紧身衣(latex)、泳装(swimsuit)、皮物(skinsuit)混淆。<br>![图](http://ul.ehgt.org/c4/d0/c4d079a85e5036fb01bf7aae3f8d3b0d162679e3-584193-800-1100-jpg_l.jpg)![图](http://exhentai.org/t/1c/96/1c96f84e32f14153c63e209c86ddb8700ec834fa-599290-1003-1400-jpg_250.jpg)![图](http://exhentai.org/t/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_l.jpg) |
+| bride | 婚纱 | 结婚礼服。需要异性装(crossdressing)标签。 |
+| business suit | 西装 | 商务服装。 |
+| butler | 管家 | 一个家庭雇工，经常为大户的富裕家庭服务。穿有领带或领结的燕尾服。 |
+| cashier | 收银员 | 一个站在柜台后面或在商店里工作的人，穿着围裙穿着制服。 |
+| cheerleader | 啦啦队员 | 啦啦队员制服，通常配短裙和配套配件。需要异性装(crossdressing)标签。 |
+| chinese dress | 唐装 | 包裹身体的单件连衣裙，通常采用简单花卉图案。需要异性装(crossdressing)标签。 |
+| christmas | 圣诞装 | 圣诞老人相关的服装，突出使用红色织物和白色修边边缘。 |
+| clown | 小丑 | 白面与皱褶领和衣服。通常强调面部特征，例如大的红色鼻子和嘴唇以及醒目的彩色头发。 |
+| condom | 避孕套 | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 |
+| corset | 紧身内衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状。需要异性装(crossdressing)标签。 |
+| cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如男生制服(schoolboy uniform)、护士装(nurse)、女仆装(maid)。不用于 Cosplay 画廊。 |
+| crossdressing | 异性装 | 男性女装。不应与性转换(gender bender)混淆。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
+| diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与返老还童(age regression)、排便(scat)、幼稚型(infantilism)或排尿(urination)配对。 |
+| dougi | 练功服 | 用于各种武术课和训练的服装。通常有一条单色配带。 |
+| fundoshi | 六尺褌 | 相扑手穿的丁字裤。 |
+| garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜(stockings)。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
+| gothic lolita | 哥特萝莉装 | 一种黑暗但有很多褶的服装风格。<br>![图](http://exhentai.org/t/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg)![图](http://exhentai.org/t/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg) |
+| gymshorts | 运动短裤 | 短的运动裤子，颜色和长度可以改变。不应与布鲁马(bloomers)或自行车短裤(bike shorts)混淆。<br>![图](http://exhentai.org/t/5d/13/5d13fffb1cb16c99d3eb77c53ff3e57985723fa5-3645640-2149-3035-jpg_l.jpg)![图](http://ul.ehgt.org/a1/2f/a12fdf19d1ebdac40a1ca5a00c88374ef6774e30-543473-1024-768-png_l.jpg)![图](http://ehgt.org/t/39/1e/391e16bc04b9bb369ab9d438172d3366eb6893fb-103453-648-865-jpg_250.jpg) |example1=http://g.e-hentai.org/s/a12fdf19d1/524931-15\|example2=http://g.e-hentai.org/s/387da70f57/554077-13}} |
+| haigure | 高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的女孩，强调裆部的位置。 |
+| hijab | 头巾 | 一个覆盖头部和胸部的面纱，主要用于遮盖头发。需要异性装(crossdressing)标签。 |
+| hotpants | 热裤 | 短的，突出臀部和腿部。不应与自行车短裤(bike shorts)、布鲁马(bloomers)或运动短裤(gymshorts)混淆。<br>![图](http://exhentai.org/t/36/82/3682e6eaf2bd56cbd040ceab913ce0f0a6fe09d8-1066447-1583-2211-jpg_l.jpg)![图](http://exhentai.org/t/d5/b0/d5b0e6b1ea48edcb602d0e941c9c85fde7a46666-6458880-2140-3000-png_l.jpg)![图](http://exhentai.org/t/42/1e/421ed5fc2646003024de98d281a16ab36e6a7e63-4741499-1600-2282-jpg_l.jpg) |
+| kigurumi | 全身套装 | 包括描绘角色面具的全身服装。不应与连体紧身衣(bodysuit)和皮物(skinsuit)标签混淆。当全身套装的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。<br>![图](http://ul.ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](http://ul.ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](http://ul.ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |
+| kimono | 和服 | 日本传统服装，有大丝带和不同的图案。 |
+| kindergarten uniform | 幼儿园制服 | 一个穿着简单的浅蓝色套头衫的人，有假的衣领，经常戴着黄色的帽子。 |
+| kunoichi | 女忍装 | 女性忍者服装。通常为暗色，有网装衣服和部分轻甲。不应与忍者装(ninja)混淆。需要异性装(crossdressing)标签。 |
+| lab coat | 白大褂 | 一件长长的白色外套。经常被医生，科学家或学校护士穿着。 |
+| latex | 乳胶紧身衣 | 用橡胶或塑料制作的衣服，一般紧身。不应与紧身服(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。<br>![图](http://exhentai.org/t/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_250.jpg)![图](http://exhentai.org/t/fd/6e/fd6e5aed7c882df3011f351ce445fa611cd6cb31-1200828-1421-2000-jpg_l.jpg)![图](http://exhentai.org/t/4b/94/4b947d1ca23f23ad339cd3572ff8f9259ae16d0e-561629-1417-2000-jpg_l.jpg) |
+| leotard | 紧身衣 | 塑胶服装，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与泳装(swimsuit)或死库水(school swimsuit)混淆。<br>![图](http://exhentai.org/t/0e/4c/0e4cb66ebd858ceb8af866c7efb390253f60609b-912489-2087-3000-jpg_l.jpg)![图](http://exhentai.org/t/94/7b/947bb629b7fdda23c863e5878cc2646853b7e099-913358-1500-2120-jpg_250.jpg) |
+| lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，相对于常规的内衣更色情。此外，还包括睡衣。 |
+| living clothes | 生物衣 | 自己具有运动能力的衣服。 |
+| magical girl | 魔法少女 | 一种服装，包括裙子和褶边制服。需要异性装(crossdressing)标签。 |
+| maid | 女仆装 | 女仆服装。通常由不同长度的裙子和围裙组成，但也不一定。仅仅一条头带不算。不应与女侍者装(waitress)混淆。需要异性装(crossdressing)标签。 |
+| mecha boy‎ | 机男 | 机娘(mecha girl)的男性版本。不应与机器人(robot)或机械奸(machine)混淆。 |
+| metal armor | 金属盔甲 | 中世纪时期的金属盔甲。 |
+| miko | 巫女装 | 神社少女。通常穿着红色长裤或一条稍微褶皱的红色长裙、蝴蝶结和白色短外罩，搭配一些白色或红色的发带。需要异性装(crossdressing)标签。 |
+| military | 军装 | 任何常见的军装，如迷彩服或军官制服。不应与纳粹军装(nazi)混淆。 |
+| nazi | 纳粹军装 | 任何纳粹用具。不应与军装(military)混淆。 |
+| ninja | 忍者装 | 男性忍者服装。通常是暗色服装和部分轻甲。不应与女忍装(kunoichi)混淆。 |
+| nun | 修女服 | 按照罗马天主教的秩序，穿着典型的黑色布袍。也可以穿着头巾、念珠和面纱。需要异性装(crossdressing)标签。 |
+| nurse | 护士装 | 穿着普通的白色/粉红色的衣服，通常有一个帽子。 |
+| pantyhose | ![pantyhose](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41q26csdzg200r00d04b.gif)连裤袜 | 一种通常透明的来保持一个女人的腿和足温暖的内衣。与长筒袜(stockings)不同，它是一块单一的服装并且能覆盖生殖器区域。需要在性交过程中相当可见。不应与长筒袜(stockings)混淆。需要异性装(crossdressing)标签。<br>![男孩子](http://exhentai.org/t/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg) |
+| pasties | 乳贴 | 覆盖乳头和乳晕的胶布。 |
+| piercing | 穿孔 | 任何形式的穿孔，除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>![恶](http://exhentai.org/t/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg)![恶](http://exhentai.org/t/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg) |
+| pirate | 海盗服 | 海盗服装。通常有背心和带角帽子或头巾。通常有一条皮带、马裤、有膨化的袖子的紧身背心。 |
+| policeman | 警服 | 典型的警察制服。通常有徽章，衬衫上的小袋子和枪套。 |
+| randoseru | 书包 | 由皮革或皮革般的合成材料制成的背包，常用于小学生。 |
+| schoolboy uniform | 男生制服 | 女生制服的(schoolgirl uniform)男性版本。 |
+| schoolgirl uniform | 女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。需要异性装(crossdressing)标签。 |
+| scrotal lingerie | 阴囊袋 | 穿在阴茎或阴囊上的色情衣物。 |
+| shimapan | ![shimapan](http://ww4.sinaimg.cn/large/6c84b2d6gw1f41sn568avg200m00d02p.gif)条纹胖次 | 縞パンツ(shima pantsu)的简称，意思是条纹的内裤。只应在人物穿着它们进行性行为或裸体姿势时使用此标签。 |
+| stewardess | 空姐服 | 在公共汽车，电梯或飞机上工作的人的制服。需要异性装(crossdressing)标签。 |
+| steward | 男空乘服 | 在公共汽车，电梯或飞机上工作的人的制服。 |
+| stockings |  ![stockings](http://ww3.sinaimg.cn/large/6c84b2d6gw1f41q26q5bzg200r00d04a.gif)长筒袜 | 一种通常透明的弹性衣服，覆盖足和腿的下部，但没到生殖器区域。需要至少达到膝盖以上。不应与连裤袜(pantyhose)和高筒靴(thigh high boots)标签混淆。<br>![男孩子](http://exhentai.org/t/8e/6b/8e6b68b676ad8cbea9232d1b2b164a4459d4994c-5547695-1600-2254-png_l.jpg) |
+| swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是比基尼(bikini)的前置标签。不应与紧身衣(leotard)或死库水(school swimsuit)混淆。<br>![图](http://exhentai.org/t/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg)![图](http://exhentai.org/t/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg)![图](http://ul.ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |
+| school swimsuit | 死库水 | 一体型的泳装，没有任何腿或手臂覆盖，通常是在日本学校使用。常是蓝色或白色，有时胸部有名牌。不需要泳装(swimsuit)标签。不应与紧身衣(leotard)混淆。<br>![图](http://ul.ehgt.org/cc/71/cc711fa3c58750e3b8d852b6da870c29c059fbc2-1579603-2103-2773-jpg_l.jpg)![图](http://exhentai.org/t/88/da/88daa7da592259e458e90efff36f214be6faa6eb-2690383-1411-2014-jpg_l.jpg)![图](http://exhentai.org/t/01/18/01188ffd91e156558f1695a745f97ec9d77d88df-832372-1050-1494-jpg_l.jpg)![图](http://exhentai.org/t/f4/cd/f4cd5a7cb8c78fddd700390f3c78a1392386bcef-211373-800-600-jpg_l.jpg)![图](http://exhentai.org/t/88/cf/88cff98e2d855af7e7097fe433a4c06676c69229-177598-800-600-jpg_l.jpg)![图](http://ul.ehgt.org/e6/1d/e61d157329d82dd8f663e3e41d0e7328ec51a442-2452635-2983-4237-jpg_l.jpg)![图](http://exhentai.org/t/02/bf/02bf0447d758be636711f0fea0e16639c84629e1-210698-800-600-jpg_l.jpg) |
+| sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |
+| thigh high boots | 高筒靴 | 高过膝盖的靴子。不应与长筒袜(stockings)混淆。<br>![图](http://exhentai.org/t/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg)![图](http://exhentai.org/t/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg) |
+| tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与王冠(crown)混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |
+| tights | 紧身服 | 超级英雄穿的紧身服装。不应与连体紧身衣(bodysuit)混淆。 |
+| tracksuit | 运动服 | 合成材料制成的匹配的衬衫和裤子，意在诱发出汗，用于锻炼或运动。只需有一部分衣服在性期间留下。 |
+| waiter | 男侍者装 | 女侍者装的男性版本。不应与女侍者装(waitress)或管家(butler)混淆。 |
+| waitress | 女侍者装 | 在餐厅工作的女孩穿的制服; 通常浅色的衣服，有时包括围裙或裙子。不应与男侍者装(waiter)或女仆装(maid)混淆。需要异性装(crossdressing)标签。 |
+| wet clothes | 湿身 | 由于水或其他液体导致潮湿透明的衣服。 |
+| witch | 女巫装 | 一顶有宽帽檐的高帽，通常穿着布长袍。需要异性装(crossdressing)标签。 |
 | | == 多人活动 == | |
 | double anal | 双插肛门 | 两根阴茎插入一个肛门。不需要再添加肛交(anal)标签。<br>![例：女神異聞錄4同人](http://exhentai.org/t/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg) | 
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) | 
