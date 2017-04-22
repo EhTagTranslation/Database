@@ -437,21 +437,25 @@
 | | ▼与奴隶的生活 -Teaching Feeling- 角色 | |
 | sylvie | 希尔薇 | ![](http://ehgt.org/t/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |
 | | ▼To Love-Ru 角色 | |
-| rito yuuki |  | ![]() |
-| ryouko mikado |  | ![]() |
-| lala satalin deviluke |  | ![]() |
-| haruna sairenji |  | ![]() |
-| golden darkness |  | ![]() |
-| yui kotegawa |  | ![]() |
-| mikan yuuki |  | ![]() |
-| nemesis |  | ![]() |
-| saki tenjouin |  | ![]() |
-| ayako fujisaki |  | ![]() |
-| rin kujou |  | ![]() |
-| mea kurosaki |  | ![]() |
-| nana asta deviluke |  | ![]() |
-| momo velia deviluke |  | ![]() |
-| riko yuusaki |  | ![]() |
-| sephie michaela deviluke |  | ![]() |
-|  |  | ![]() |
-|  |  | ![]() |
+| rito yuuki | 结城梨斗 | ![](http://ehgt.org/t/3a/4a/3a4a5f8353b91c15edbaf5abe8cf92384ff67ca3-1610639-2111-3000-jpg_l.jpg) |
+| ryouko mikado | 御门凉子 | ![](http://ehgt.org/t/21/ec/21ec1799cfdf175f491c32fd6f10281cece0f20b-726815-1225-1772-jpg_l.jpg) |
+| lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](http://ehgt.org/t/0c/ac/0cacc3552822e62f75e617cfe8d71c75de79f98e-2318079-2934-4220-jpg_l.jpg) |
+| haruna sairenji | 西连寺春菜 | ![](http://ehgt.org/t/ae/63/ae638a65cc167fe192da593d9acbbee423352fae-1111253-2437-1750-jpg_l.jpg) |
+| golden darkness | 金色暗影 | ![](http://ehgt.org/t/8f/b2/8fb2f253d90047fe66d8546bca7951f4f79ff33f-838294-2841-4101-jpg_l.jpg) |
+| yui kotegawa | 古手川唯 | ![](http://ehgt.org/t/0b/5e/0b5e9c4696b43f6aceae624ef6b75b29d2142035-631115-2840-4094-jpg_l.jpg) |
+| mikan yuuki | 结城美柑 | ![](http://ehgt.org/t/a7/79/a7797195a3e191f42d7cabb1a196cae5692da6f0-650692-1225-1748-jpg_l.jpg) |
+| nemesis | 涅墨西斯 | ![](http://exhentai.org/t/99/1a/991a7a6f0af87c321228f28aa6d96175502f32a4-1647950-2117-3000-jpg_l.jpg) |
+| saki tenjouin | 天条院沙姬 | ![](http://ehgt.org/t/e4/92/e492c172740f446cfa813ff48a8afb6c6401e59f-743197-1225-1783-jpg_l.jpg) |
+| ayako fujisaki | 藤崎绫 | ![](http://ehgt.org/t/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |
+| rin kujou | 九条凛 | ![](http://ehgt.org/t/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |
+| mea kurosaki | 黑咲芽亚 | ![](http://ehgt.org/t/0f/1a/0f1aa86e0b9a9eee00f29c9d4c46c6c738f00b78-584908-2842-4093-jpg_l.jpg) |
+| nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](http://ehgt.org/t/80/a4/80a4d4530005459811eb06c9c78fcb0bc7d37120-997681-2843-4098-jpg_l.jpg) |
+| momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![](http://ehgt.org/t/05/fb/05fb2e3fce0b7f6531eb3e70fc148a6deed59da9-553226-2839-4096-jpg_l.jpg) |
+| riko yuusaki | 夕崎梨子 | ![](http://ehgt.org/t/61/4b/614b4a0530b8d055505917dfa3123576fe27ff59-159705-1020-1098-jpg_l.jpg) |
+| sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](http://ehgt.org/t/aa/fd/aafdea5b0914bbe92878033ff2cc5c79c42e7a91-960909-2112-3000-jpg_l.jpg) |
+| tearju lunatique | 提亚悠·鲁娜提克 | ![](http://exhentai.org/t/53/d9/53d9a959154986798ac11d0ea2c6b278409ec446-718950-1400-1981-jpg_l.jpg) |
+| run elsie jewelria | 伦·艾尔西·裘利亚 | ![](http://ehgt.org/t/21/dc/21dc4dacbd66ea9054dd302f6bfa0194b6ee1af4-892085-2527-1750-jpg_l.jpg) |
+| risa momioka | 籾冈里纱 | ![](http://ehgt.org/t/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |
+| mio sawada | 泽田未央 | ![](http://ehgt.org/t/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |
+| oshizu murasame | 村雨静 | ![](http://ehgt.org/t/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |
+| kyouko kirisaki | 雾崎恭子 | ![](http://ehgt.org/t/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |
