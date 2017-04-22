@@ -145,10 +145,8 @@
 | strike witches | 强袭魔女 | ![](http://ehgt.org/t/bb/a8/bba849df4c0a42e8ab77ffc2041c965d36d9a2d9-927736-777-1087-jpg_l.jpg) |
 | kemono friends | 兽娘动物园 | 动物朋友、动物好友、兽娘动物园![](http://ehgt.org/t/a2/bd/a2bda88699f5537b84ac994d8a9cbbfccc022b86-1281172-860-1220-jpg_l.jpg) |
 | league of legends | 英雄联盟 | ![](http://ehgt.org/t/c9/be/c9be450b137c14ce716219ec7ed7e0641ad6b919-909411-950-1342-jpg_l.jpg) |
-| kill la kill | 
-斩服少女 | ![](http://ehgt.org/t/f7/0b/f70b27bfb73bf24bbd6dcc263614962e457a17fd-2131451-3350-4746-jpg_l.jpg) |
-| dagashi kashi | 
-粗点心战争  | ![](http://ehgt.org/t/e1/fc/e1fce571fe182145db09d2b073f73f73cc91d3d1-1071761-1280-720-png_l.jpg) |
+| kill la kill | 斩服少女 | ![](http://ehgt.org/t/f7/0b/f70b27bfb73bf24bbd6dcc263614962e457a17fd-2131451-3350-4746-jpg_l.jpg) |
+| dagashi kashi | 粗点心战争  | ![](http://ehgt.org/t/e1/fc/e1fce571fe182145db09d2b073f73f73cc91d3d1-1071761-1280-720-png_l.jpg) |
 | street fighter | 街头霸王 | ![](http://exhentai.org/t/b8/47/b847502ea4f37b1b9b6f5caf36f3e3be594875ee-818507-846-1197-jpg_l.jpg) |
 | fate grand order | Fate/Grand Order | ![](http://ehgt.org/t/fd/bc/fdbc261c70b52baa032b35ecf2bad5e93080a749-199788-280-479-jpg_l.jpg) |
 | fate stay night | Fate/stay night | ![](http://ehgt.org/t/45/f9/45f9e306b18cae6a9465228be8aff270a24f6c79-468080-900-1293-png_l.jpg) |
