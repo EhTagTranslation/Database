@@ -436,3 +436,22 @@
 | takako shimizu | 清水多香子 | ![](http://exhentai.org/t/5c/51/5c51f040faa962c1fd41632bb86ca29366b9e2ef-114752-777-1094-jpg_l.jpg) |
 | | ▼与奴隶的生活 -Teaching Feeling- 角色 | |
 | sylvie | 希尔薇 | ![](http://ehgt.org/t/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |
+| | ▼To Love-Ru 角色 | |
+| rito yuuki |  | ![]() |
+| ryouko mikado |  | ![]() |
+| lala satalin deviluke |  | ![]() |
+| haruna sairenji |  | ![]() |
+| golden darkness |  | ![]() |
+| yui kotegawa |  | ![]() |
+| mikan yuuki |  | ![]() |
+| nemesis |  | ![]() |
+| saki tenjouin |  | ![]() |
+| ayako fujisaki |  | ![]() |
+| rin kujou |  | ![]() |
+| mea kurosaki |  | ![]() |
+| nana asta deviluke |  | ![]() |
+| momo velia deviluke |  | ![]() |
+| riko yuusaki |  | ![]() |
+| sephie michaela deviluke |  | ![]() |
+|  |  | ![]() |
+|  |  | ![]() |
