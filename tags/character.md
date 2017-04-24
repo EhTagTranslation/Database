@@ -459,3 +459,5 @@
 | mio sawada | 泽田未央 | ![](http://ehgt.org/t/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |
 | oshizu murasame | 村雨静 | ![](http://ehgt.org/t/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |
 | kyouko kirisaki | 雾崎恭子 | ![](http://ehgt.org/t/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |
+| | ▼食戟之灵 角色 | |
+| erina nakiri | 薙切绘理奈 | |
