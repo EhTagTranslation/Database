@@ -14,7 +14,7 @@
 | infantilism | 幼稚型 | 将成年人当作小孩对待。 |
 | low shotacon | 未通过正太 | 表示正太(shotacon)的情况没有通过存在规则(presence rule)。需要正太(shotacon)标签。 |
 | old man | 老人 | 看起来在50岁以上的男性，不得与熟男(dilf)混淆。 |
-| shotacon | 正太 | 小男孩。<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg) |
+| shotacon | 正太 | 小男孩。<br>![举例](http://exhentai.org/t/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg)![图](http://exhentai.org/t/b4/f2/b4f27457519a0eb55cbc231c34152084d8351cd3-543154-1000-1458-jpg_l.jpg)![图](http://exhentai.org/t/3a/46/3a466e7dc00e27d80e8d6be4674b08c6b8efb25f-304032-1067-1514-jpg_l.jpg) |
 | toddlercon | 幼儿 | 学步的儿童。 |
 | | == 身体 == | |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引肢解(guro)标签。<br>![恶](https://exhentai.org/t/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg) |
@@ -46,7 +46,7 @@
 | draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 | 
 | fairy | 仙子 | 有翅膀的人或其他生物，往往体型很小。 | 
 | fox boy | 狐男 | 狐女(fox girl)的男性版本。 |
-| furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。 |
+| furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。<br>![图](http://exhentai.org/t/13/5c/135ce05b78b1d4170e51ed09bca35a6308b4905a-1500979-914-1300-jpg_l.jpg)![图](http://exhentai.org/t/39/6e/396e00043bbf49abfe7355dabca5d89d0cf8d63e-3424740-1410-2000-png_l.jpg) |
 | ghost | 幽灵 | 与非物质的存在性交。 | 
 | goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 | 
 | harpy | 鸟人 | 鸟与人类的混合体。 |
