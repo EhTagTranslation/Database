@@ -158,7 +158,8 @@
 | kimi no na wa. | 你的名字。 | ![](http://ehgt.org/t/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) |
 | mashiro iro symphony | 纯白交响曲 | ![](http://ehgt.org/t/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |
 |  | ▼勇者斗恶龙 系列 | |
-| dragon quest i | 勇者斗恶龙 | |
+| dragon quest | 勇者斗恶龙系列 | |
+| dragon quest i | 勇者斗恶龙I | |
 | dragon quest ii | 勇者斗恶龙II 恶灵的众神 | |
 | dragon quest iii | 勇者斗恶龙III 传说的开始 | |
 | dragon quest iv | 勇者斗恶龙IV 被引导的人们 | |
