@@ -76,6 +76,12 @@
 | luna child | 露娜切露德 | |
 | star sapphire | 斯塔萨菲雅 | |
 | sunny milk |  桑尼米尔克 | |
+| nazrin | 纳兹琳 |  |
+| hieda no akyuu | 稗田阿求 |  |
+| kosuzu motoori | 本居小铃 |  |
+| momiji inubashiri | 犬走椛 |  |
+| mamizou futatsuiwa | 二岩猯藏 |  |
+| toyosatomimi no miko | 丰聪耳神子 |  |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
