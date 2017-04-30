@@ -157,3 +157,17 @@
 | fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg) |
 | kimi no na wa. | 你的名字。 | ![](http://ehgt.org/t/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) |
 | mashiro iro symphony | 纯白交响曲 | ![](http://ehgt.org/t/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |
+|  | ▼勇者斗恶龙 系列 | |
+| dragon quest i | 勇者斗恶龙 | |
+| dragon quest ii | 勇者斗恶龙II 恶灵的众神 | |
+| dragon quest iii | 勇者斗恶龙III 传说的开始 | |
+| dragon quest iv | 勇者斗恶龙IV 被引导的人们 | |
+| dragon quest v | 勇者斗恶龙V 天空的新娘 | |
+| dragon quest vi | 勇者斗恶龙VI 幻之大地 | |
+| dragon quest vii | 勇者斗恶龙VII 伊甸的战士们 | |
+| dragon quest viii | 勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主 | |
+| dragon quest ix | 勇者斗恶龙IX 星空的守护者 | |
+| dragon quest x | 勇者斗恶龙X 觉醒的五种族 Online | |
+| dragon quest dai no daibouken | 勇者斗恶龙 达尔大冒险 | |
+| dragon quest monsters | 勇者斗恶龙怪兽篇 | |
+|  | ▲勇者斗恶龙 系列 | |
