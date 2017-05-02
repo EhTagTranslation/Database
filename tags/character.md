@@ -82,6 +82,7 @@
 | momiji inubashiri | 犬走椛 |  |
 | mamizou futatsuiwa | 二岩猯藏 |  |
 | toyosatomimi no miko | 丰聪耳神子 |  |
+| tewi inaba | 因幡帝 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
@@ -300,6 +301,7 @@
 | cortana | 科塔娜 | ![](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) |
 | |  ▼半衰期 角色 | |
 | gordon freeman | 戈登·弗里曼 | ![](https://ehgt.org/57/6c/576ce520de6f560ac2cb8caea773830ba751bbdc-2157467-1603-2222-jpg_l.jpg) |
+| alyx vance | 爱丽克斯·凡斯 |  |
 | |  ▼传送门 角色 | |
 | chell | 雪儿 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
 | |  ▼Re0 角色 | |
