@@ -172,3 +172,18 @@
 | dragon quest dai no daibouken | 勇者斗恶龙 达尔大冒险 | |
 | dragon quest monsters | 勇者斗恶龙怪兽篇 | |
 |  | ▲勇者斗恶龙 系列 | |
+| left 4 dead | 求生之路 | |
+| bloodrayne | 吸血莱恩 |  |
+| star wars | 星球大战 |  |
+|  | ▼女神异闻录 系列 | |
+| persona | 女神异闻录 Persona |  |
+| persona 2 | 女神异闻录2 |  |
+| persona 3 | 女神异闻录3 |  |
+| persona 4 | 女神异闻录4 |  |
+| persona 5 | 女神异闻录5 |  |
+|  | ▲女神异闻录 系列 | |
+| monsters inc. | 怪兽电力公司 | |
+| hai to gensou no grimgar | 灰与幻想的格林姆迦尔 | |
+| pretty rhythm | 美妙旋律 |  |
+| mamono musume zukan | 魔物娘图鉴 |  |
+| getsuyoubi no tawawa | 星期一的丰满 |  |
