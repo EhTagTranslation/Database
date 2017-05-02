@@ -86,7 +86,9 @@
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
+| yukiho kousaka | 高坂雪穗 |  |
 | eri ayase | 绚濑绘里 | 所属团体 μ's ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") |
+| arisa ayase | 绚濑亚里沙 |  |
 | kotori minami | 南小鸟 | 所属团体 μ's ![南小鸟](# "https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png") |
 | umi sonoda | 园田海未 | 所属团体 μ's ![园田海未](# "https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png") |
 | rin hoshizora | 星空凛 | 所属团体 μ's ![星空凛](# "https://img.acg.moe/common/thumb/e/ee/Member05_rin_.png/250px-Member05_rin_.png") |
