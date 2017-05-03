@@ -187,3 +187,19 @@
 | pretty rhythm | 美妙旋律 |  |
 | mamono musume zukan | 魔物娘图鉴 |  |
 | getsuyoubi no tawawa | 星期一的丰满 |  |
+|  | ▼梦幻之星 系列 | |
+| phantasy star | 梦幻之星 | |
+| phantasy star 2 | 梦幻之星II 不归的终点 | |
+| phantasy star online | 梦幻之星Online | |
+| phantasy star online 2 | 梦幻之星Online 2 | |
+| phantasy star portable 2 | 梦幻之星：携带版2 | |
+| phantasy star universe | 梦幻之星 宇宙 | |
+| phantasy star zero  | 梦幻之星ZERO | |
+|  | ▲梦幻之星 系列 | |
+| arms | ARMS | |
+| astro boy | 铁臂阿童木 |  |
+| detective conan | 名侦探柯南 | |
+| ore twintail ni narimasu. | 我，要成为双马尾 | |
+| kiss x sis | 亲吻姐姐 | |
+| kimikiss | 君吻 | |
+| super sonico | 超级索尼子 | |
