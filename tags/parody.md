@@ -203,3 +203,27 @@
 | kiss x sis | 亲吻姐姐 | |
 | kimikiss | 君吻 | |
 | super sonico | 超级索尼子 | |
+|  | ▼最终幻想 系列 | |
+| final fantasy | 最终幻想 | |
+| final fantasy ii | 最终幻想II | |
+| final fantasy iii | 最终幻想III | |
+| final fantasy iv | 最终幻想IV | |
+| final fantasy v | 最终幻想V | |
+| final fantasy vi | 最终幻想VI | |
+| final fantasy vii  | 最终幻想VII | |
+| final fantasy viii | 最终幻想VIII | |
+| final fantasy ix | 最终幻想IX | |
+| final fantasy x | 最终幻想X | |
+| final fantasy x-2 | 最终幻想X-2 | |
+| final fantasy xi | 最终幻想XI | |
+| final fantasy xii | 最终幻想XII | |
+| final fantasy xiii | 最终幻想XIII | |
+| final fantasy xiv | 最终幻想XIV | |
+| final fantasy xv | 最终幻想XV | |
+| final fantasy crystal chronicles | 最终幻想水晶编年史 | |
+| final fantasy tactics | 最终幻想战略版 | |
+| final fantasy tactics advance | 最终幻想战略版Advance | |
+| dissidia final fantasy | 最终幻想大乱斗 | |
+| final fantasy unlimited | 最终幻想：无限 | |
+| final fantasy type-0 | 最终幻想 零式 | |
+|  | ▲最终幻想 系列 | |
