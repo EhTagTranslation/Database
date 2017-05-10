@@ -477,3 +477,5 @@
 | masamune izumi | 和泉正宗 | |
 | | ▼超级索尼子 角色 | |
 | super sonico | 超级索尼子 | |
+| super pochaco | 超级帕恰子 | |
+| super taruco | 超级桶桶子 | |
