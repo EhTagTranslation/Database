@@ -471,3 +471,9 @@
 | kyouko kirisaki | 雾崎恭子 | ![](http://ehgt.org/t/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |
 | | ▼食戟之灵 角色 | |
 | erina nakiri | 薙切绘理奈 | |
+| | ▼埃罗芒阿老师 角色 | |
+| sagiri izumi | 和泉纱雾 | |
+| elf yamada | 山田伊尔芙 | |
+| masamune izumi | 和泉正宗 | |
+| | ▼超级索尼子 角色 | |
+| super sonico | 超级索尼子 | |
