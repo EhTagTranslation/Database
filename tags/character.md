@@ -83,6 +83,9 @@
 | mamizou futatsuiwa | 二岩猯藏 |  |
 | toyosatomimi no miko | 丰聪耳神子 |  |
 | tewi inaba | 因幡帝 | |
+| parsee mizuhashi | 水桥帕露西 | |
+| renko usami | 宇佐见莲子 | |
+| utsuho reiuji | 灵乌路空 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
@@ -100,7 +103,7 @@
 | erena toudou | 统堂英玲奈 | 所属团体 A-RISE ![统堂英玲奈](https://img.acg.moe/common/thumb/0/08/Lovelive_Toutou_Elina.jpg/250px-Lovelive_Toutou_Elina.jpg)![图](# "http://exhentai.org/t/92/11/9211c43476d6a468d10cad3fbd59ed0113eaf3b6-510324-900-1200-jpg_l.jpg") |
 | anju yuuki | 优木杏树 | 所属团体 A-RISE ![优木杏树](https://img.acg.moe/common/thumb/b/b6/Lovelive_Yuki_Anjyu.jpg/250px-Lovelive_Yuki_Anjyu.jpg)![图](# "http://exhentai.org/t/4d/2d/4d2d214d42ef7c4c4f8fb78de1931429fbce86e8-605508-900-1200-jpg_l.jpg")![图](# "http://exhentai.org/t/bc/09/bc092ee86d351d82f3aa07c076699e09293c3e49-130208-1032-1457-jpg_l.jpg") |
 | chika takami | 高海千歌 | 所属团体 Aqours ![高海千歌](https://img.acg.moe/common/thumb/5/5e/Takami_Chika.png/250px-Takami_Chika.png) |
-| riko sakurauchi | 櫻内梨子 | 所属团体 Aqours ![櫻内梨子](https://img.acg.moe/common/thumb/f/f2/Sakurauchi_Riko.png/250px-Sakurauchi_Riko.png) |
+| riko sakurauchi | 樱内梨子 | 所属团体 Aqours ![樱内梨子](https://img.acg.moe/common/thumb/f/f2/Sakurauchi_Riko.png/250px-Sakurauchi_Riko.png) |
 | kanan matsuura | 松浦果南 | 所属团体 Aqours ![松浦果南](https://img.acg.moe/common/thumb/e/e1/Matsuura_Kanan.png/250px-Matsuura_Kanan.png) |
 | dia kurosawa  | 黑泽黛雅 | 所属团体 Aqours ![黑泽黛雅](https://img.acg.moe/common/thumb/2/24/Kurosawa_Dia.png/250px-Kurosawa_Dia.png)![图](# "http://exhentai.org/t/e0/f3/e0f3f2b81c1cf252fa80a4092b0aa9c94b7bfa0b-3197381-1825-2560-jpg_l.jpg") |
 | you watanabe | 渡边曜 | 所属团体 Aqours ![渡边曜](https://img.acg.moe/common/thumb/a/a2/Watanabe_You.png/250px-Watanabe_You.png) |
@@ -479,3 +482,20 @@
 | super sonico | 超级索尼子 | |
 | super pochaco | 超级帕恰子 | |
 | super taruco | 超级桶桶子 | |
+| | ▼亲吻姐姐 角色 | |
+| ako suminoe | 住之江亚香 | |
+| riko suminoe | 住之江理香 | |
+| keita suminoe | 住之江圭太 | |
+| miharu mikuni | 三国美春 | |
+| | ▼kill me baby 角色 | |
+| agiri goshiki | 吴织亚切 | |
+| sonya | 索妮娅 | |
+| yasuna oribe | 折部安奈 | |
+| | ▼侵略！乌贼娘 角色 | |
+| ika musume | 乌贼娘 | |
+| ayumi tokita | 常田鲇美 | |
+| chizuru aizawa | 相泽千鹤 | |
+| cindy campbell | 辛迪·坎贝尔 | |
+| eiko aizawa | 相泽荣子 | |
+| sanae nagatsuki | 长月早苗 | |
+| takeru aizawa | 相泽武 | |
