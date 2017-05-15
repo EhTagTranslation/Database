@@ -227,3 +227,11 @@
 | final fantasy unlimited | 最终幻想：无限 | |
 | final fantasy type-0 | 最终幻想 零式 | |
 |  | ▲最终幻想 系列 | |
+| kill me baby | 爱杀宝贝 | |
+| shinryaku ika musume | 侵略！乌贼娘 | |
+| one piece | 海贼王 | |
+| dragon ball | 龙珠 | |
+| dragon ball z | 龙珠Z | |
+| dragon ball gt | 龙珠GT | |
+| dragon ball super | 龙珠超 | |
+| sakurasou no pet na kanojo | 樱花庄的宠物女孩 | |
