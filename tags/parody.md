@@ -235,3 +235,32 @@
 | dragon ball gt | 龙珠GT | |
 | dragon ball super | 龙珠超 | |
 | sakurasou no pet na kanojo | 樱花庄的宠物女孩 | |
+| myriad colors phantom world | 无彩限的怪灵世界 | |
+| soul eater | 噬魂师 | |
+| urara meirochou | Urara迷路帖 | |
+| ranma 12 | 乱马½ | |
+| yosuga no sora | 缘之空 | |
+| little busters | Little Busters! | |
+| fire emblem if | 火焰之纹章if | |
+| fire emblem | 火焰之纹章 | |
+| gintama | 银魂 | |
+| panty and stocking with garterbelt | 吊带袜天使 | |
+| kamen rider | 假面骑士 | |
+| kamen rider decade | 假面骑士Decade | |
+| kamen rider amazon | 假面骑士亚马逊 | |
+| kamen rider wizard | 假面骑士Wizard | |
+| kamen rider w | 假面骑士W | |
+| kamen rider double | 假面骑士W | |
+| kamen rider hibiki | 假面骑士响鬼 | |
+| kamen rider kabuto  | 假面骑士Kabuto | |
+| kamen rider den-o | 假面骑士电王 | |
+| kamen rider fourze | 假面骑士Fourze | |
+| kamen rider ooo | 假面骑士OOO | |
+| kamen rider 555 | 假面骑士555 | |
+| kamen rider shin | 真·假面骑士 | |
+| kaiji | 赌博默示录 | |
+| my hero academia | 我的英雄学院 | |
+| shinmai maou no testament | 新妹魔王的契约者 | |
+| bakemonogatari | 化物语 | |
+| youjo senki | 幼女战记 | |
+| touken ranbu | 刀剑乱舞 | |
