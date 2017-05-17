@@ -501,3 +501,12 @@
 | takeru aizawa | 相泽武 | |
 | kiyomi sakura | 纱仓清美 | |
 | nagisa saitou | 齐藤渚 | |
+| | ▼VOCALOID 角色 | |
+| miku hatsune | 初音未来 | |
+| luka megurine | 巡音流歌 | |
+| len kagamine | 镜音连 | |
+| rin kagamine | 镜音铃 | |
+| haku yowane | 弱音白 | |
+| | ▼VOICEROID 角色 | |
+| yukari yuzuki | 结月缘 | |
+| maki tsurumaki | 弦卷真纪 | |
