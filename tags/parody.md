@@ -295,3 +295,26 @@
 | kimi ni todoke | 好想告诉你 | |
 | akatsuki no yona | 晨曦公主 | |
 | onii-chan dakedo ai sae areba kankeinai yo ne | 就算是哥哥，有爱就没问题了，对吧 | |
+| oniichan no koto nanka zenzen suki janain dakara ne | 腹黑妹妹控兄记!! | |
+| sora no woto | 空之音 | |
+| occult academy | 世纪末超自然学院 | |
+| gatchaman crowds | 科学小飞侠Crowds | |
+| saya no uta | 沙耶之歌 | |
+| vividred operation | 绯色战姬 | |
+| kodomo no jikan | 萝莉的时间 | |
+| shuffle | Shuffle! | |
+| power rangers | 超能战士 | |
+| rune soldier | 魔法战士李维 | |
+| kirby | 星之卡比 | |
+| sakura quest | 樱花任务 | |
+| aldnoah.zero | ALDNOAH.ZERO | |
+| maoyuu maou yuusha | 魔王勇者 | |
+| splatoon | 喷射美少女 | |
+| prunus girl | 樱桃少女 | |
+| king of fighters | 拳皇 | |
+| love plus | 爱相随 | |
+| love hina | 纯情房东俏房客 | |
+| akagami no shirayukihime | 赤发的白雪姬 | |
+| minami-ke | 南家三姐妹 | |
+| queens blade | 女王之刃 | |
+| sekirei | 鹦鹉女神 | |
