@@ -510,3 +510,16 @@
 | | ▼VOICEROID 角色 | |
 | yukari yuzuki | 结月缘 | |
 | maki tsurumaki | 弦卷真纪 | |
+| | ▼樱花庄的宠物女孩 角色 | |
+| sorata kanda | 神田空太 | |
+| mashiro shiina | 椎名真白 | |
+| nanami aoyama | 青山七海 | |
+| misaki kamiigusa | 上井草美咲 | |
+| chihiro sengoku | 千石千寻 | |
+| | ▼就算是哥哥，有爱就没问题了，对吧 角色 | |
+| akito himenokouji | 姬小路秋人 | |
+| akiko himenokouji | 姬小路秋子 | |
+| anastasia nasuhara | 那须原安娜史塔希亚 | |
+| ginbei haruomi sawatari | 猿渡银兵卫春臣 | |
+| arashi nikaidou | 二阶堂岚 | |
+| arisa takanomiya | 鹰乃宫亚里沙 | |
