@@ -294,4 +294,4 @@
 | yu-gi-oh | 游戏王 | |
 | kimi ni todoke | 好想告诉你 | |
 | akatsuki no yona | 晨曦公主 | |
-
+| onii-chan dakedo ai sae areba kankeinai yo ne | 就算是哥哥，有爱就没问题了，对吧 | |
