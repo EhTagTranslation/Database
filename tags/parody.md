@@ -32,7 +32,7 @@
 | love live sunshine | ![LL](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Sunshine!! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6gy1fdgu7kswlwj209q0ec0v9.jpg) |
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](http://ul.ehgt.org/5a/53/5a53888ed5043aa5fe693f05f23e6977531baeb3-367327-588-860-jpg_l.jpg) |
-| vocaloid | ![V](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)V家 | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
+| vocaloid | ![V](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)VOCALOID | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
 | the idolmaster | ![iM@S](http://wx4.sinaimg.cn/large/6c84b2d6gy1fehbsqrgaig200u00c03t.gif)偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
@@ -264,3 +264,16 @@
 | bakemonogatari | 化物语 | |
 | youjo senki | 幼女战记 | |
 | touken ranbu | 刀剑乱舞 | |
+| teen titans | 少年泰坦 | |
+| undertale | 传说之下 | |
+| five nights at freddys | 在弗雷迪的五个夜晚 | |
+| one punch man | 一拳超人 | |
+| black rock shooter | 黑岩射手 | |
+| dragons crown | 龙之皇冠 | |
+| noir | 黑街二人组 | |
+| guilty crown | 罪恶王冠 | |
+| nana | 娜娜 | |
+| nier | 尼尔 | |
+| psycho-pass | 心理测量者 | |
+| ben 10 | 少年骇客 | |
+| hey arnold | 嘿，阿诺德！ | |
