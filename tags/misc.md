@@ -27,7 +27,7 @@
 | mmf threesome | 嬲 | ♂♀♂，2 男 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |
 | mmt threesome | 男男扶 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |
 | mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |
-| oyakodon‎ | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 |
+| oyakodon | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 |
 | ttm threesome | 扶扶男 | ⚥♂⚥，2 扶 1 男 3P。需要乱交(group)标签。不算男同(yaoi)。 |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 | 
 | | == 工具 == | |
