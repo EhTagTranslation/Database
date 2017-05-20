@@ -137,7 +137,7 @@
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与晒痕(tanlines)混淆。<br>![黑子的篮球同人](http://exhentai.org/t/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg) | 
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |
 | full body tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须非常突出或很大。 | 
-| gyaru-oh‎ | 非主流 | 辣妹(gyaru)的男性版本。 |
+| gyaru-oh | 非主流 | 辣妹(gyaru)的男性版本。 |
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |
 | skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>![图](http://ul.ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](http://ul.ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](http://ul.ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg)  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。 |
