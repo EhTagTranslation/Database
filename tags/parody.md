@@ -57,9 +57,31 @@
 | gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakk%C5%8D_Gurashi%21_logo.png/220px-Gakk%C5%8D_Gurashi%21_logo.png)<br>萝莉打僵尸<br>![图](http://exhentai.org/t/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg) |
 | a channel | A频道 | 漫画<br>![图](http://exhentai.org/t/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg) |
 | granblue fantasy | 宏蓝幻想 | 手游，不了解<br>![图](http://exhentai.org/t/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg)![图](http://exhentai.org/t/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg) |
-| gundam 00 | 机动战士高达 00 | ![图](http://exhentai.org/t/ce/cd/cecddb028828ba71cd011ba442ef99e8a7c5fa3a-144928-620-928-jpg_l.jpg) |
-| gundam seed destiny | 机动战士高达 SEED DESTINY | ![图](http://exhentai.org/t/c0/02/c00253ab850f93fb1775103b6ca6dd33e574a24b-1058007-1415-2000-jpg_250.jpg) |
-| gundam zz | 机动战士高达 ZZ | ![图](http://ul.ehgt.org/28/b4/28b43dfc888770661a8e221124f932f05160c996-1460156-1606-2269-jpg_l.jpg) |
+|  | ▼高达 系列 | |
+| gundam | 高达 | |
+| gundam age | 机动战士高达AGE | |
+| gundam 00 | 机动战士高达00 | ![图](http://exhentai.org/t/ce/cd/cecddb028828ba71cd011ba442ef99e8a7c5fa3a-144928-620-928-jpg_l.jpg) |
+| gundam 0080 | 机动战士高达0080 口袋里的战争 | |
+| gundam 0083 | 机动战士高达0083 星尘回忆录 | |
+| gundam unicorn | 机动战士高达UC | |
+| gundam f91 | 机动战士高达F91 | |
+| gundam seed | 机动战士高达SEED | |
+| gundam seed destiny | 机动战士高达SEED DESTINY | ![图](http://exhentai.org/t/c0/02/c00253ab850f93fb1775103b6ca6dd33e574a24b-1058007-1415-2000-jpg_250.jpg) |
+| gundam zz | 机动战士高达ZZ | ![图](http://ul.ehgt.org/28/b4/28b43dfc888770661a8e221124f932f05160c996-1460156-1606-2269-jpg_l.jpg) |
+| mobile suit gundam | 机动战士高达 | |
+| mobile suit gundam lost war chronicles | 机动战士高达战记 Lost War Chronicles | |
+| mobile suit gundam tekketsu no orphans | 机动战士高达 铁血的孤儿 | |
+| gundam wing | 新机动战记高达W | |
+| crossbone gundam | 机动战士海盗高达 | |
+| gundam build fighters | 高达创战者 | |
+| gundam build fighters try | 高达创战者TRY | |
+| gundam g no reconguista | 高达G之复国运动 | |
+| gundam x | 机动新世纪高达X | |
+| victory gundam | 机动战士V高达 | |
+| zeta gundam | 机动战士Z高达 | | 
+| g gundam | 机动武斗传G高达| |
+| turn a gundam | ∀高达 | |
+|  | ▲高达 系列 | |
 | kiniro mosaic | 黄金拼图 | Happy Day!<br>黄图×点兔，两大萝莉控天堂<br>![图](http://ul.ehgt.org/5a/8f/5a8f63996f610842bb0aacf6fbb85fdd562af8e1-2129828-2680-3800-jpg_l.jpg)![图](http://ul.ehgt.org/6c/f3/6cf307633a93741aae2b49d277d0246a6c443fbf-2197700-2461-3500-jpg_l.jpg) |
 | gochuumon wa usagi desu ka | 请问您今天要来点兔子吗？ | 黄图×点兔，两大萝莉控天堂<br>![点兔](http://ul.ehgt.org/b3/1e/b31eda4c064a25c49e2df84acce9b7999d3f318d-2304567-2477-3500-jpg_l.jpg)![图](http://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | non non biyori | 悠哉日常大王 | ![图](http://ul.ehgt.org/59/0c/590c82282e840fcf1916ca9751ea6c6fab6fc918-2831485-1420-2015-jpg_l.jpg)![图](http://ul.ehgt.org/a2/ab/a2ab7d0ee1a3b5904fd7aaddfc21196bde19ebd3-743337-2114-2995-jpg_l.jpg) |
@@ -109,6 +131,7 @@
 | happinesscharge precure | Happiness Charge 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
 | go princess precure | Go! Princess 光之美少女 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
 | maho girls precure | 魔法使 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |
+| kirakira precure a la mode | KiraKira☆光之美少女A La Mode | |
 | | ▲ 光美大军 | |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](http://exhentai.org/t/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg)![图](http://exhentai.org/t/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg) |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](http://ul.ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](http://ul.ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |
@@ -158,7 +181,7 @@
 | kimi no na wa. | 你的名字。 | ![](http://ehgt.org/t/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) |
 | mashiro iro symphony | 纯白交响曲 | ![](http://ehgt.org/t/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |
 |  | ▼勇者斗恶龙 系列 | |
-| dragon quest | 勇者斗恶龙系列 | |
+| dragon quest | 勇者斗恶龙 | |
 | dragon quest i | 勇者斗恶龙I | |
 | dragon quest ii | 勇者斗恶龙II 恶灵的众神 | |
 | dragon quest iii | 勇者斗恶龙III 传说的开始 | |
@@ -320,3 +343,12 @@
 | sekirei | 鹦鹉女神 | |
 | yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | |
 | blazblue | 苍翼默示录 | |
+| frame arms girl | 机甲少女 | |
+| busou shinki | 武装神姬 | |
+| bayonetta | 猎天使魔女 | |
+| devil may cry | 鬼泣 | |
+| tekken | 铁拳 | |
+| super mario brothers | 超级马里奥兄弟 | |
+| spider-man | 蜘蛛侠 | |
+| gunsmith cats | 猫眼女枪手 | |
+| puzzle and dragons | 智龙迷城 | |
