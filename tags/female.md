@@ -66,7 +66,7 @@
 | orc | 兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。 | 
 | pig girl | 猪女 | 有猪耳朵、猪鼻、猪尾或猪的其他特征。 | 
 | plant girl | 植物女孩 | 女性的植物-人类混合体。需要怪物女孩(monster girl)标签。 | 
-| raccoon girl‎ | 浣熊女孩 | 拥有耳朵、尾巴及其他浣熊的特征。 |
+| raccoon girl | 浣熊女孩 | 拥有耳朵、尾巴及其他浣熊的特征。 |
 | robot | 机器人 | 机械的人形。 |
 | shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。 通常也有锋利的牙齿。 | 
 | sheep girl | 羊女孩 | 有羊毛和羊角的女性。 | 
@@ -392,7 +392,7 @@
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](http://exhentai.org/t/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg) | 
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![某人要的动图](# "http://23.83.235.111:36262/p/fileid=7e790e9f84178bb709960f06ee747df6b351c633-397236-505-330-gif;token=406899-61c8288bcc10a74c9118c6d32da9daca1cf27247;gid=383015;page=93;passkey=902da1d3e8/jjjjj.gif")![图](http://exhentai.org/t/6b/dc/6bdc2973ee102b91685e686e6605fc48c16d1621-201446-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/02/20/02200b144cb6c1b7b671198942d71764c742ba0c-509066-800-600-png_l.jpg)![图](http://exhentai.org/t/9a/25/9a2589446a813229eabb2e08617228ced475814a-161746-800-600-jpg_l.jpg)![图](http://exhentai.org/t/ce/1d/ce1d4b2fe689efc515bb91a5721fe9054f75463b-167173-800-600-jpg_l.jpg)![图](http://exhentai.org/t/5b/cf/5bcf8845e6681cce06db4d0cf722e57a49528f5c-578254-800-600-png_l.jpg)![图](http://exhentai.org/t/71/3c/713c6269c9516e96c9541bae5fba29d329c16d94-601548-1024-600-png_l.jpg)![图](http://exhentai.org/t/c1/07/c107b406d777a9477a21cce35730160c9d7099e1-180625-800-600-jpg_l.jpg)![图](http://exhentai.org/t/14/6d/146d24b258de6266b974f31de60d077b98e426a8-132540-800-600-jpg_l.jpg)![图](http://exhentai.org/t/51/76/5176826ecf85577d5eff755575f453a62791cfd9-509481-944-708-jpg_l.jpg)![图](http://exhentai.org/t/aa/5d/aa5dec12feba976949843189cc8e3689d38f130e-1155161-1024-768-png_l.jpg) |
-| oyakodon‎ | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 | 
+| oyakodon | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 | 
 | triple anal | 三插肛门 | 三根阴茎同时插入肛门。 |
 | triple vaginal | 三插阴道 | 三根阴茎、性玩具(sex toys)或其他物体同时插入阴道。 | 
 | ttf threesome | 扶扶女 | ⚥♀⚥，2 扶 1 女 3P。需要乱交(group)标签。不算百合(yuri)。<br>![图](http://exhentai.org/t/1b/f0/1bf0d0cda4a6e41ce0c3cd09c2f841ecd5c41aad-2306019-2143-3049-jpg_l.jpg) | 
