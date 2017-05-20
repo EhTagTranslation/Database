@@ -318,4 +318,4 @@
 | minami-ke | 南家三姐妹 | |
 | queens blade | 女王之刃 | |
 | sekirei | 鹦鹉女神 | |
-| Yuuki Yuuna wa Yuusha de Aru | 结城友奈是勇者 | |
+| yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | |
