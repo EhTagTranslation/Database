@@ -524,3 +524,18 @@
 | ginbei haruomi sawatari | 猿渡银兵卫春臣 | |
 | arashi nikaidou | 二阶堂岚 | |
 | arisa takanomiya | 鹰乃宫亚里沙 | |
+| | ▼约会大作战 角色 | |
+| origami tobiichi | 鸢一折纸 | |
+| kurumi tokisaki | 时崎狂三 | |
+| yoshino | 四糸乃 | |
+| kotori itsuka | 五河琴里 | |
+| kaguya yamai | 八舞耶俱矢 | |
+| yuzuru yamai | 八舞夕弦 | |
+| miku izayoi | 诱宵美九 | |
+| tohka yatogami | 夜刀神十香 | |
+| shido itsuka | 五河士道 | |
+| reine murasame | 村雨令音 | |
+| | ▼腹黑妹妹控兄记 角色 | |
+| mayuka kondou | 近藤茧佳 | |
+| nao takanashi | 高梨奈绪 | |
+| iroha tsuchiura | 土浦彩叶 | |
