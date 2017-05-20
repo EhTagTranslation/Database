@@ -319,3 +319,4 @@
 | queens blade | 女王之刃 | |
 | sekirei | 鹦鹉女神 | |
 | yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | |
+| blazblue | 苍翼默示录 | |
