@@ -352,3 +352,4 @@
 | spider-man | 蜘蛛侠 | |
 | gunsmith cats | 猫眼女枪手 | |
 | puzzle and dragons | 智龙迷城 | |
+| Senki Zesshou Symphogear | 战姬绝唱Symphogear | |
