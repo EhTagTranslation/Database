@@ -352,4 +352,15 @@
 | spider-man | 蜘蛛侠 | |
 | gunsmith cats | 猫眼女枪手 | |
 | puzzle and dragons | 智龙迷城 | |
-| Senki Zesshou Symphogear | 战姬绝唱Symphogear | |
+| senki zesshou symphogear | 战姬绝唱Symphogear | |
+| shaman king | 通灵王 | |
+| gegege no kitarou | 怪怪怪的鬼太郎 | |
+| marmalade boy | 橘子酱男孩 | |
+| esper mami | 超能力魔美 | |
+| fushigi no umi no nadia | 蓝宝石之谜 | |
+| martian successor nadesico | 机动战舰抚子 | |
+| kino no tabi | 奇诺之旅 | |
+| infinite ryvius | 无限的未知 | |
+| machine robo | 天威勇士 | |
+| rage of bahamut | 巴哈姆特之怒 | |
+
