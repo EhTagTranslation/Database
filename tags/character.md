@@ -199,9 +199,203 @@
 | wo-class | ヲ级(wo酱) | ![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
+| producer | 制作人 | |
+| haruka amami | 天海春香 | |
+| chihaya kisaragi | 如月千早 | |
+| yukiho hagiwara | 萩原雪步 | |
 | yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
+| kasumi takatsuki | 高槻霞 | |
+| ritsuko akizuki | 秋月律子 | |
+| azusa miura | 三浦梓 | |
+| iori minase | 水濑伊织 | |
+| makoto kikuchi | 菊地真 | |
+| ami futami | 双海亚美 | |
+| mami futami | 双海真美 | |
+| miki hoshii | 星井美希 | |
+| hibiki ganaha | 我那霸响 | |
 | takane shijou | 四条贵音 | ![四条贵音](https://img.acg.moe/common/thumb/3/3a/21313245.jpg/250px-21313245.jpg) |
+| kotori otonashi | 音无小鸟 | |
+| ai hidaka | 日高爱 | |
+| mai hidaka | 日高舞 | |
+| eri mizutani | 水谷绘理 | |
+| ryo akizuki | 秋月凉 | |
+| uzuki shimamura | 岛村卯月 | |
+| yukari mizumoto | 水本紫 | |
+| kanako mimura | 三村加奈子 | |
+| miho kohinata | 小日向美穗 | |
+| chieri ogata | 绪方智绘里 | |
+| kyoko igarashi | 五十岚响子 | |
+|  | 柳濑美由纪 | |
+|  | 樱井桃华 | |
+|  | 江上椿 | |
+|  | 长富莲实 | |
+|  | 横山千佳 | |
+|  | 关裕美 | |
+| miku maekawa | 前川未来 | |
+|  | 赤西瑛梨华 | |
+|  | 松原早耶 | |
+|  | 相原雪乃 | |
+|  | 宫本芙蕾德莉卡 | |
+|  | 小早川纱枝 | |
+|  | 西园寺琴歌 | |
+| anzu futaba | 双叶杏 | |
+|  | 杨菲菲 | |
+|  | 桃井小豆 | |
+|  | 凉宫星花 | |
+|  | 月宫雅 | |
+|  | 兵藤丽奈 | |
+|  | 道明寺歌铃 | |
+|  | 柳清良 | |
+|  | 井村雪菜 | |
+|  | 日下部若叶 | |
+|  | 榊原里美 | |
+| sachiko koshimizu | 舆水幸子 | |
+|  | 安斋都 | |
+|  | 浅野风香 | |
+|  | 大西由里子 | |
+| nana abe | 安部菜菜 | |
+|  | 工藤忍 | |
+|  | 栗原宁宁 | |
+|  | 古贺小春 | |
+|  | 原田美世 | |
+|  | 池袋晶叶 | |
+|  | 太田优 | |
+|  | 克拉莉丝 | |
+| mayu sakuma | 佐久间麻由 | |
+|  | 村松樱 | |
+|  | 丹羽仁美 | |
+|  | 早坂美玲 | |
+|  | 栋方爱海 | |
+|  | 藤本里奈 | |
+|  | 大原满 | |
+|  | 白菊萤 | |
+|  | 游佐梢 | |
+|  | 有浦柑奈 | |
+|  | 大沼胡桃 | |
+| shiki ichinose | 一之濑志希 | |
+|  | 乙仓悠贵 | |
+| rin shibuya | 涩谷凛 | |
+|  | 黑川千秋 | |
+|  | 松本沙理奈 | |
+|  | 桐野绫 | |
+|  | 高桥礼子 | |
+|  | 相川千夏 | |
+| mizuki kawashima | 川岛瑞树 | |
+|  | 神谷奈绪 | |
+|  | 上条春菜 | |
+|  | 荒木比奈 | |
+|  | 东乡爱 | |
+| riina tada | 多田李衣菜 | |
+|  | 水木圣来 | |
+|  | 佐佐木千枝 | |
+| miyu mifune | 三船美优 | |
+|  | 服部瞳子 | |
+|  | 木场真奈美 | |
+|  | 藤原肇 | |
+|  | 海伦 | |
+|  | 松永凉 | |
+|  | 小室千奈美 | |
+|  | 高峰诺亚 | |
+| kaede takagaki | 高垣枫 | |
+| ranko kanzaki | 神崎兰子 | |
+|  | 伊集院惠 | |
+|  | 柊志乃 | |
+|  | 北条加莲 | |
+|  | 凯特 | |
+|  | 濑名诗织 | |
+|  | 绫濑穗乃香 | |
+|  | 佐城雪美 | |
+|  | 篠原礼 | |
+|  | 和久井留美 | |
+|  | 吉冈沙纪 | |
+|  | 古泽赖子 | |
+|  | 望月圣 | |
+|  | 鹰富士茄子 | |
+|  | 梅木音叶 | |
+| koume shirasaka | 白坂小梅 | |
+|  | 岸部彩华 | |
+|  | 氏家睦 | |
+|  | 西川保奈美 | |
+|  | 成宫由爱 | |
+|  | 藤居朋 | |
+|  | 盐见周子 | |
+|  | 胁山珠美 | |
+| minami nitta | 新田美波 | |
+|  | 水野翠 | |
+|  | 冈崎泰叶 | |
+| kanade hayami | 速水奏 | |
+|  | 大石泉 | |
+|  | 松尾千鹤 | |
+|  | 橘爱丽丝 | |
+|  | 森久保乃乃 | |
+| anastasia | 安娜斯塔西娅 | |
+|  | 大和亚季 | |
+|  | 结城晴 | |
 | fumika sagisawa | 鹭泽文香 | ![鹭泽文香](https://img.acg.moe/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) |
+|  | 八神牧野 | |
+|  | 莱拉 | |
+|  | 二宫飞鸟 | |
+|  | 浅利七海 | |
+|  | 桐生司 | |
+| mio honda | 本田未央 | |
+| aiko takamori | 高森蓝子 | |
+|  | 并木芽衣子 | |
+|  | 龙崎薰 | |
+|  | 木村夏树 | |
+|  | 松山久美子 | |
+|  | 齐藤洋子 | |
+|  | 泽田麻理菜 | |
+|  | 矢口美羽 | |
+| miria akagi | 赤城米莉亚 | |
+|  | 爱野渚 | |
+|  | 真锅斋 | |
+|  | 大槻唯 | |
+|  | 姬川友纪 | |
+|  | 喜多见柚 | |
+|  | 上田铃帆 | |
+|  | 海老原菜帆 | |
+| shizuku oikawa | 及川雫 | |
+|  | 小关丽奈 | |
+|  | 卫藤美纱希 | |
+|  | 相叶夕美 | |
+|  | 野野村空 | |
+|  | 滨川爱结奈 | |
+|  | 若林智香 | |
+| mika jougasaki | 城崎美嘉 | |
+| rika jougasaki | 城崎莉嘉 | |
+|  | 仙崎惠磨 | |
+|  | 日野茜 | |
+| kirari moroboshi | 诸星琪拉莉 | |
+|  | 十时爱梨 | |
+| natalia | 娜塔莉亚 | |
+|  | 相马夏美 | |
+|  | 槙原志保 | |
+|  | 向井拓海 | |
+|  | 南条光 | |
+|  | 伊芙·珊德克罗丝 | |
+|  | 市原仁奈 | |
+|  | 杉坂海 | |
+|  | 喜多日菜子 | |
+|  | 北川真寻 | |
+|  | 玛丽·柯克兰 | |
+|  | 小松伊吹 | |
+|  | 三好纱南 | |
+|  | 凯蒂·格拉汉姆 | |
+|  | 难波笑美 | |
+|  | 滨口菖蒲 | |
+|  | 星辉子 | |
+|  | 村上巴 | |
+|  | 土屋亚子 | |
+|  | 首藤葵 | |
+| sanae katagiri | 片桐早苗 | |
+|  | 堀裕子 | |
+|  | 西岛櫂 | |
+|  | 冴岛清美 | |
+|  | 的场梨沙 | |
+|  | 财前时子 | |
+|  | 佐藤心 | |
+| yoshino yorita | 依田芳乃 | |
+| chihiro senkawa | 千川千寻 | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | |
 | | ▼My Little Pony 角色 | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |
