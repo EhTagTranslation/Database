@@ -41,7 +41,7 @@
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |
 | ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |
 | yamada no seikatu ga daiichi | 山田の性活が第一 | |
-| asamura hiori | 朝丛志描 |  |
+| asamura hiori | 朝叢志描 |  |
 | matsukawa | 松河 |  |
 | mmm | えむ |  |
 | facominn | Facominn |  |
@@ -61,8 +61,7 @@
 | watsuki rumi | わつきるみ | |
 | soramoti | そらモチ | |
 | blastbeat | BLASTBEAT | |
-| endou hiroto | 远藤弘土 | |
-| takashina at masato | 高阶@圣人 | |
+| takashina at masato | 高階@聖人 | |
 | shibayuki | しばゆき | |
 | newmen | NeWMeN | |
 | miyasaka miyu | 宮坂みゆ | |
