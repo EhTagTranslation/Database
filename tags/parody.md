@@ -95,7 +95,7 @@
 | c cube | C3-魔方少女 | ![图](http://ul.ehgt.org/e3/c0/e3c0244c8c36f632e8e5ba6e26bd03ad169d5e33-2002414-2212-3140-jpg_250.jpg)![图](http://ul.ehgt.org/f3/a3/f3a36ee3c0766a7214b769ced70d3c87125952cb-3613448-2212-3076-jpg_l.jpg) |
 | shingeki no kyojin | 进击的巨人 | 是谁杀死了bilibili呀？<br>![图](http://exhentai.org/t/f9/cb/f9cb1401b2eb63a0839bb3899406ecf92489cc08-1105319-925-1300-jpg_l.jpg)![图](http://exhentai.org/t/ac/ec/acec35fe71dd19d906849a86aa44196b0304a933-1079311-919-1300-jpg_l.jpg)![图](http://exhentai.org/t/22/c0/22c0ab3323555704e38751fa4acf2bcde768c7e9-806400-1325-1858-jpg_l.jpg)![图](http://exhentai.org/t/b0/e2/b0e25cc903ab905956e63c0734da7e4a4dd10555-170643-842-1200-jpg_l.jpg) |
 | onidere | 鬼骄 | 漫画，不了解<br>![图](http://ul.ehgt.org/8b/77/8b7775d1efcae22da99169cbf554b441092e72d6-149178-600-848-jpg_l.jpg) |
-| infinite stratos | IS(Infinite Stratos) | 日本人眼中的中国人<br>![图](http://ul.ehgt.org/f8/17/f817d86ff58306a20d892fafa08b48d709b41275-320892-630-420-jpg_l.jpg)![图](http://ul.ehgt.org/b6/9d/b69d01c95806a70d72e6587b320bde0f29b3cf48-1532851-2135-3000-jpg_l.jpg)![图](http://ul.ehgt.org/01/b9/01b98ec281da4c38481521823dcfe053d0678880-489958-1358-2000-jpg_l.jpg) |
+| infinite stratos | 无限斯特拉托斯 | IS(Infinite Stratos)<br>日本人眼中的中国人<br>![图](http://ul.ehgt.org/f8/17/f817d86ff58306a20d892fafa08b48d709b41275-320892-630-420-jpg_l.jpg)![图](http://ul.ehgt.org/b6/9d/b69d01c95806a70d72e6587b320bde0f29b3cf48-1532851-2135-3000-jpg_l.jpg)![图](http://ul.ehgt.org/01/b9/01b98ec281da4c38481521823dcfe053d0678880-489958-1358-2000-jpg_l.jpg) |
 | disgaea | 魔界战记 | 游戏，不了解<br>![图](http://ul.ehgt.org/de/9a/de9ae23da8309e14526c36df93ff1774c92995c7-2989024-2454-3486-jpg_l.jpg)![图](http://ul.ehgt.org/c0/73/c0735817f0aea167758d9ff102d45ac338687e07-2405201-2428-3483-jpg_l.jpg) |
 | chuunibyou demo koi ga shitai | 中二病也要谈恋爱！ | ![图](http://exhentai.org/t/49/a8/49a8751f9a444456a25139ebd0a2dc7c3f179fae-2180129-1393-2000-jpg_l.jpg)![图](http://exhentai.org/t/ca/ac/caac4ca2b6f0750cac39acad1512a5e0f808a021-937875-2131-3000-jpg_250.jpg) |
 | ano hi mita hana no namae wo bokutachi wa mada shiranai | 我们仍未知道那天所看见的花的名字。 | 又译为“未闻花名”，日本官方简称“那朵花”<br>![图](http://ul.ehgt.org/b9/82/b982e8d3a269a0a2aec6706368054b49e41aa83e-1003852-2000-1417-jpg_l.jpg)![图](http://ul.ehgt.org/82/69/826926e8c503e92084baaff53688aa4bc5acc1c7-2122976-2115-3031-jpg_l.jpg) |
@@ -368,4 +368,10 @@
 | dog days | 犬勇者物语 | |
 | onegai teacher | 拜托了☆老师 | |
 | rinne no lagrange | 轮回的拉格朗日 | |
+| monster musume no iru nichijou | 魔物娘的相伴日常 | |
+| black lagoon | 黑礁 | |
+| steven universe | 史帝芬宇宙 | |
+| the legend of zelda | 塞尔达传说 | |
+| totally spies | 少女特工组 | |
+| the legend of korra | 科拉传奇 | |
 
