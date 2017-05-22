@@ -757,6 +757,7 @@
 | sagiri izumi | 和泉纱雾 | |
 | elf yamada | 山田伊尔芙 | |
 | masamune izumi | 和泉正宗 | |
+| megumi jinno | 神野惠 | |
 | | ▼超级索尼子 角色 | |
 | super sonico | 超级索尼子 | |
 | super pochaco | 超级帕恰子 | |
