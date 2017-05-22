@@ -266,10 +266,10 @@
 |  | 丹羽仁美 | |
 |  | 早坂美玲 | |
 |  | 栋方爱海 | |
-|  | 藤本里奈 | |
+| rina fujimoto | 藤本里奈 | |
 |  | 大原满 | |
 | hotaru shiragiku | 白菊萤 | |
-|  | 游佐梢 | |
+| kozue yusa | 游佐梢 | |
 |  | 有浦柑奈 | |
 | kurumi ohnuma | 大沼胡桃 | |
 | shiki ichinose | 一之濑志希 | |
@@ -281,7 +281,7 @@
 |  | 高桥礼子 | |
 |  | 相川千夏 | |
 | mizuki kawashima | 川岛瑞树 | |
-|  | 神谷奈绪 | |
+| nao kamiya | 神谷奈绪 | |
 |  | 上条春菜 | |
 |  | 荒木比奈 | |
 |  | 东乡爱 | |
@@ -334,13 +334,13 @@
 | fumika sagisawa | 鹭泽文香 | ![鹭泽文香](https://img.acg.moe/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) |
 |  | 八神牧野 | |
 | layla | 莱拉 | |
-|  | 二宫飞鸟 | |
-|  | 浅利七海 | |
+| asuka ninomiya | 二宫飞鸟 | |
+| nanami asari | 浅利七海 | |
 |  | 桐生司 | |
 | mio honda | 本田未央 | |
 | aiko takamori | 高森蓝子 | |
 |  | 并木芽衣子 | |
-|  | 龙崎薰 | |
+| kaoru ryuzaki | 龙崎薰 | |
 |  | 木村夏树 | |
 |  | 松山久美子 | |
 |  | 齐藤洋子 | |
@@ -357,7 +357,7 @@
 | shizuku oikawa | 及川雫 | |
 |  | 小关丽奈 | |
 |  | 卫藤美纱希 | |
-|  | 相叶夕美 | |
+| yumi aiba | 相叶夕美 | |
 |  | 野野村空 | |
 |  | 滨川爱结奈 | |
 |  | 若林智香 | |
@@ -385,7 +385,7 @@
 |  | 滨口菖蒲 | |
 | syoko hoshi | 星辉子 | |
 |  | 村上巴 | |
-|  | 土屋亚子 | |
+| ako tsuchiya | 土屋亚子 | |
 |  | 首藤葵 | |
 | sanae katagiri | 片桐早苗 | |
 |  | 堀裕子 | |
@@ -436,6 +436,7 @@
 | mishiro | 美城常务 | |
 | touma amagase | 天濑冬马 | |
 | teru tendo | 天道辉 | |
+| minori watanabe | 渡边实 | |
 |  | 木村龙 | |
 | shiki iseya | 伊濑谷四季 | |
 | hayato akiyama | 秋山隼人 | |
@@ -450,8 +451,8 @@
 | hokuto ijuuin | 伊集院北斗 | |
 | kaoru sakuraba | 樱庭薫 | |
 | rei kagura | 神乐丽 | |
-|  | 鹰城恭二 | |
-|  | 苍井享介 | |
+| kyoji takajo | 鹰城恭二 | |
+| kyosuke aoi | 苍井享介 | |
 |  | 握野英雄 | |
 |  | 猫柳桐生 | |
 | jun fuyumi | 冬美旬 | |
@@ -465,10 +466,10 @@
 |  | 葛之叶雨彦 | |
 |  | 古论克里斯 | |
 | shouta mitarai | 御手洗翔太 | |
-|  | 柏木翼 | |
+| tsubasa kashiwagi | 柏木翼 | |
 | kei tsuzuki | 都筑圭 | |
 | pierre | 皮埃尔 | |
-|  | 苍井悠介 | |
+| yusuke aoi | 苍井悠介 | |
 |  | 信玄诚司 | |
 |  | 华村翔真 | |
 |  | 清澄九郎 | |
@@ -477,7 +478,6 @@
 | makio uzuki | 卯月卷绪 | |
 | kanon himeno | 姬野花音 | |
 |  | 舞田类 | |
-|  | 秋月凉 | |
 |  | 北村想乐 | |
 |  | 山村贤 | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | |
