@@ -287,12 +287,12 @@
 |  | 东乡爱 | |
 | riina tada | 多田李衣菜 | |
 |  | 水木圣来 | |
-|  | 佐佐木千枝 | |
+| chie sasaki | 佐佐木千枝 | |
 | miyu mifune | 三船美优 | |
 |  | 服部瞳子 | |
 | manami kiba | 木场真奈美 | |
 |  | 藤原肇 | |
-|  | 海伦 | |
+| helen | 海伦 | |
 |  | 松永凉 | |
 |  | 小室千奈美 | |
 |  | 高峰诺亚 | |
@@ -434,6 +434,52 @@
 |  | 宫尾美也 | |
 |  | 伴田路子 | |
 | mishiro | 美城常务 | |
+| touma amagase | 天濑冬马 | |
+| teru tendo | 天道辉 | |
+|  | 木村龙 | |
+| shiki iseya | 伊濑谷四季 | |
+| hayato akiyama | 秋山隼人 | |
+|  | 红井朱雀 | |
+|  | 阿斯兰·别西卜II世 | |
+| saki mizushima | 水岛咲 | |
+| shiro tachibana | 橘志狼 | |
+|  | 大河武 | |
+|  | 牙崎涟 | |
+|  | 圆城寺道流 | |
+|  | 兜大吾 | |
+| hokuto ijuuin | 伊集院北斗 | |
+| kaoru sakuraba | 樱庭薫 | |
+| rei kagura | 神乐丽 | |
+|  | 鹰城恭二 | |
+|  | 苍井享介 | |
+|  | 握野英雄 | |
+|  | 猫柳桐生 | |
+| jun fuyumi | 冬美旬 | |
+| natsuki sakaki | 榊夏来 | |
+|  | 黑野玄武 | |
+|  | 东云荘一郎 | |
+| nao okamura | 冈村直央 | |
+|  | 山下次郎 | |
+|  | 硲道夫 | |
+|  | 九十九一希 | |
+|  | 葛之叶雨彦 | |
+|  | 古论克里斯 | |
+| shouta mitarai | 御手洗翔太 | |
+|  | 柏木翼 | |
+| kei tsuzuki | 都筑圭 | |
+| pierre | 皮埃尔 | |
+|  | 苍井悠介 | |
+|  | 信玄诚司 | |
+|  | 华村翔真 | |
+|  | 清澄九郎 | |
+| haruna wakazato | 若里春名 | |
+|  | 神谷幸广 | |
+| makio uzuki | 卯月卷绪 | |
+| kanon himeno | 姬野花音 | |
+|  | 舞田类 | |
+|  | 秋月凉 | |
+|  | 北村想乐 | |
+|  | 山村贤 | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | |
 | | ▼My Little Pony 角色 | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |
