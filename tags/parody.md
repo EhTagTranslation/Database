@@ -363,4 +363,9 @@
 | infinite ryvius | 无限的未知 | |
 | machine robo | 天威勇士 | |
 | rage of bahamut | 巴哈姆特之怒 | |
+| kono naka ni hitori imouto ga iru | 其中1个是妹妹 | |
+| sailor moon | 美少女战士 | |
+| dog days | 犬勇者物语 | |
+| onegai teacher | 拜托了☆老师 | |
+| rinne no lagrange | 轮回的拉格朗日 | |
 
