@@ -199,7 +199,7 @@
 | bloodrayne | 吸血莱恩 |  |
 | star wars | 星球大战 |  |
 |  | ▼女神异闻录 系列 | |
-| persona | 女神异闻录 Persona |  |
+| persona | 女神异闻录 |  |
 | persona 2 | 女神异闻录2 |  |
 | persona 3 | 女神异闻录3 |  |
 | persona 4 | 女神异闻录4 |  |
@@ -374,4 +374,34 @@
 | the legend of zelda | 塞尔达传说 | |
 | totally spies | 少女特工组 | |
 | the legend of korra | 科拉传奇 | |
-
+| kangoku senkan | 监狱战舰 | |
+| prison school | 监狱学园 | |
+| macross | 超时空要塞 | |
+| the super dimension fortress macross | 超时空要塞Macross |
+| macross frontier | 超时空要塞F | |
+| macross 7 | 超时空要塞7 | |
+| macross delta | 超时空要塞Δ | |
+| macross zero | 超时空要塞Zero | |
+| little red riding hood | 小红帽 | |
+| tales of vesperia | 薄暮传说 | |
+| gekkan shoujo nozaki-kun | 月刊少女野崎君 | |
+| girl friend beta | 临时女友 | |
+| bakuman | 食梦者 | |
+| gate - jietai kano chi nite kaku tatakaeri | GATE奇幻自卫队 | |
+| nisekoi | 伪恋 | |
+| blade and soul | 剑灵 | |
+| inu x boku ss | 妖狐×仆SS | |
+| guilty gear | 罪恶装备 | |
+| nanatsu no taizai | 七大罪 | |
+| starcraft | 星际争霸 | |
+| alice in wonderland | 爱丽丝梦游仙境 | |
+| ikkitousen | 一骑当千 | |
+| g.i. joe | 特种部队 | |
+| metroid | 银河战士 | |
+| metal gear solid | 合金装备 | |
+| tomb raider | 古墓丽影 | |
+| xena warrior princess | 战士公主西娜 | |
+| the fifth element | 第五元素 | |
+| terminator | 终结者 | |
+| yurikuma arashi | 百合熊风暴 | |
+| adventure time | 探险时光 | |
