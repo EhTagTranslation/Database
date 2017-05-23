@@ -407,7 +407,8 @@
 | adventure time | 探险时光 | |
 | strike the blood | 噬血狂袭 | |
 | valkyrie drive | 女武神驱动 | |
-| Saber Marionette | 机械女神 | |
+| saber marionette | 机械女神 | |
 | dance with devils | 与魔共舞 | |
 | samurai warriors | 战国无双 | |
 | dynasty warriors | 真·三国无双 | |
+| demons souls | 恶魔之魂 | |
