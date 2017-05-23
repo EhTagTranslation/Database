@@ -828,3 +828,5 @@
 | sun shang xiang | 孙尚香 | |
 | nene | 宁宁 | |
 | inahime | 稻姬 | |
+| sima yi | 司马懿 | |
+| wang yuanji | 王元姬 | |
