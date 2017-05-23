@@ -409,3 +409,4 @@
 | valkyrie drive | 女武神驱动 | |
 | Saber Marionette | 机械女神 | |
 | dance with devils | 与魔共舞 | |
+| samurai warriors | 战国无双 | |
