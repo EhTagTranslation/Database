@@ -406,3 +406,4 @@
 | yurikuma arashi | 百合熊风暴 | |
 | adventure time | 探险时光 | |
 | strike the blood | 噬血狂袭 | |
+| valkyrie drive | 女武神驱动 | |
