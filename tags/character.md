@@ -818,4 +818,3 @@
 | mayuka kondou | 近藤茧佳 | |
 | nao takanashi | 高梨奈绪 | |
 | iroha tsuchiura | 土浦彩叶 | |
-| mikoto misaka | 御坂美琴 | |
