@@ -830,3 +830,6 @@
 | inahime | 稻姬 | |
 | sima yi | 司马懿 | |
 | wang yuanji | 王元姬 | |
+| yue ying | 月英 | |
+| zhang chunhua | 张春华 | |
+| zhuge liang | 诸葛亮 | |
