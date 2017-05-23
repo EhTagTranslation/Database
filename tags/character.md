@@ -818,9 +818,14 @@
 | mayuka kondou | 近藤茧佳 | |
 | nao takanashi | 高梨奈绪 | |
 | iroha tsuchiura | 土浦彩叶 | |
+| | ▼潜行吧 奈亚子 | |
+| nyaruko | 奈亚子 | |
+| cthugha | 克图格亚 | |
+| mahiro yasaka | 八坂真寻 | |
+| hastur | 哈斯太 | |
 | | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
-| Ayane | 绫音 | |
+| ayane | 绫音 | |
 | mai shiranui | 不知火舞 | |
 | naotora ii | 井伊直虎 | |
 | lu lingqi | 吕玲绮 | |
