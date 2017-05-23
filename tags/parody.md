@@ -408,3 +408,4 @@
 | strike the blood | 噬血狂袭 | |
 | valkyrie drive | 女武神驱动 | |
 | Saber Marionette | 机械女神 | |
+| dance with devils | 与魔共舞 | |
