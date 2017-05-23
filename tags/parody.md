@@ -410,3 +410,4 @@
 | Saber Marionette | 机械女神 | |
 | dance with devils | 与魔共舞 | |
 | samurai warriors | 战国无双 | |
+| dynasty warriors | 真·三国无双 | |
