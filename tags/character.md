@@ -818,4 +818,5 @@
 | mayuka kondou | 近藤茧佳 | |
 | nao takanashi | 高梨奈绪 | |
 | iroha tsuchiura | 土浦彩叶 | |
+| | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
