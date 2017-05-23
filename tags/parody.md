@@ -405,4 +405,4 @@
 | terminator | 终结者 | |
 | yurikuma arashi | 百合熊风暴 | |
 | adventure time | 探险时光 | |
-| aStrike the Blood | 噬血狂袭 | |
+| strike the blood | 噬血狂袭 | |
