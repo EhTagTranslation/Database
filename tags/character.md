@@ -822,3 +822,4 @@
 | mumei | 无名 | |
 | Ayane | 绫音 | |
 | mai shiranui | 不知火舞 | |
+| naotora ii | 井伊直虎 | |
