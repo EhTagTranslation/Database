@@ -823,3 +823,5 @@
 | Ayane | 绫音 | |
 | mai shiranui | 不知火舞 | |
 | naotora ii | 井伊直虎 | |
+| lu lingqi | 吕玲绮 | |
+| zhurong | 祝融 | |
