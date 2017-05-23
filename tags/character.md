@@ -221,6 +221,7 @@
 | ryo akizuki | 秋月凉 | |
 | uzuki shimamura | 岛村卯月 | |
 | yukari mizumoto | 水本紫 | |
+| mai fukuyama | 福山舞 | | 
 | kanako mimura | 三村加奈子 | |
 | miho kohinata | 小日向美穗 | |
 | chieri ogata | 绪方智绘里 | |
@@ -229,14 +230,14 @@
 | momoka sakurai | 樱井桃华 | |
 |  | 江上椿 | |
 |  | 长富莲实 | |
-|  | 横山千佳 | |
+| chika yokoyama | 横山千佳 | |
 |  | 关裕美 | |
 | miku maekawa | 前川未来 | |
 |  | 赤西瑛梨华 | |
 |  | 松原早耶 | |
 |  | 相原雪乃 | |
 | frederica miyamoto | 宫本芙蕾德莉卡 | |
-|  | 小早川纱枝 | |
+| sae kobayakawa | 小早川纱枝 | |
 |  | 西园寺琴歌 | |
 | anzu futaba | 双叶杏 | |
 |  | 杨菲菲 | |
@@ -284,7 +285,7 @@
 | nao kamiya | 神谷奈绪 | |
 |  | 上条春菜 | |
 |  | 荒木比奈 | |
-|  | 东乡爱 | |
+| ai togo | 东乡爱 | |
 | riina tada | 多田李衣菜 | |
 |  | 水木圣来 | |
 | chie sasaki | 佐佐木千枝 | |
@@ -295,7 +296,7 @@
 | helen | 海伦 | |
 |  | 松永凉 | |
 |  | 小室千奈美 | |
-|  | 高峰诺亚 | |
+| noa takamine | 高峰诺亚 | |
 | kaede takagaki | 高垣枫 | |
 | ranko kanzaki | 神崎兰子 | |
 |  | 伊集院惠 | |
@@ -304,9 +305,9 @@
 |  | 凯特 | |
 |  | 濑名诗织 | |
 |  | 绫濑穗乃香 | |
-|  | 佐城雪美 | |
+| yukimi sajo | 佐城雪美 | |
 |  | 篠原礼 | |
-|  | 和久井留美 | |
+| rumi wakui | 和久井留美 | |
 |  | 吉冈沙纪 | |
 |  | 古泽赖子 | |
 |  | 望月圣 | |
@@ -329,7 +330,7 @@
 | arisu tachibana | 橘爱丽丝 | |
 | nono morikubo | 森久保乃乃 | |
 | anastasia | 安娜斯塔西娅 | |
-|  | 大和亚季 | |
+| aki yamato | 大和亚季 | |
 |  | 结城晴 | |
 | fumika sagisawa | 鹭泽文香 | ![鹭泽文香](https://img.acg.moe/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) |
 |  | 八神牧野 | |
@@ -350,12 +351,12 @@
 |  | 爱野渚 | |
 |  | 真锅斋 | |
 | yui ootsuki | 大槻唯 | |
-|  | 姬川友纪 | |
+| yuki himekawa | 姬川友纪 | |
 |  | 喜多见柚 | |
 |  | 上田铃帆 | |
 |  | 海老原菜帆 | |
 | shizuku oikawa | 及川雫 | |
-|  | 小关丽奈 | |
+| reina koseki | 小关丽奈 | |
 |  | 卫藤美纱希 | |
 | yumi aiba | 相叶夕美 | |
 |  | 野野村空 | |
@@ -396,40 +397,40 @@
 |  | 佐藤心 | |
 | yoshino yorita | 依田芳乃 | |
 | chihiro senkawa | 千川千寻 | |
-|  | 春日未来 | |
-|  | 木下日向 | |
-|  | 茱莉亚 | |
+| mirai kasuga | 春日未来 | |
+| hinata kinoshita | 木下日向 | |
+| julia | 茱莉亚 | |
 |  | 高山纱代子 | |
-|  | 田中琴叶 | |
+| kotoha tanaka | 田中琴叶 | |
 |  | 天空桥朋花 | |
-|  | 箱崎星梨花 | |
+| serika hakozaki | 箱崎星梨花 | |
 |  | 松田亚利沙 | |
-|  | 最上静香 | |
-|  | 望月杏奈 | |
+| shizuka mogami | 最上静香 | |
+| anna mochizuki | 望月杏奈 | |
 |  | 矢吹可奈 | |
 |  | 艾米莉・司徒亚特 | |
-|  | 大神环 | |
+| tamaki ogami | 大神环 | |
 |  | 北上丽花 | |
-|  | 高坂海美 | |
-|  | 佐竹美奈子 | |
-|  | 岛原埃琳娜 | |
-|  | 永吉昴 | |
+| umi kousaka | 高坂海美 | |
+| minako satake | 佐竹美奈子 | |
+| elena shimabara | 岛原埃琳娜 | |
+| subaru nagayoshi | 永吉昴 | |
 |  | 野野原茜 | |
 | konomi baba | 马场木实 | |
-|  | 福田法子 | |
+| noriko fukuda | 福田法子 | |
 |  | 舞滨步 | |
 |  | 真壁瑞希 | |
 |  | 百濑莉绪 | |
-|  | 横山奈绪 | |
-|  | 伊吹翼 | |
-|  | 北泽志保 | |
+| nao yokoyama | 横山奈绪 | |
+| tsubasa ibuki | 伊吹翼 | |
+| shiho kitazawa | 北泽志保 | |
 |  | 篠宫可怜 | |
-|  | 周防桃子 | |
+| momoko suou | 周防桃子 | |
 |  | 德川茉莉 | |
-|  | 所惠美 | |
-|  | 丰川风花 | |
-|  | 中谷育 | |
-|  | 七尾百合子 | |
+| megumi tokoro | 所惠美 | |
+| fuuka toyokawa | 丰川风花 | |
+| iku nakatani | 中谷育 | |
+| yuriko nanao | 七尾百合子 | |
 |  | 二阶堂千鹤 | |
 |  | 宫尾美也 | |
 |  | 伴田路子 | |
