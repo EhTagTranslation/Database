@@ -436,3 +436,4 @@
 | kore wa zombie desu ka | 这个是僵尸吗？ | |
 | ojamajo doremi | 小魔女DoReMi | |
 | terra formars | 火星异种 | |
+| spirited away | sen to chihiro no kamikakushi | 千与千寻 | |
