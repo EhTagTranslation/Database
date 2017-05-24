@@ -422,3 +422,4 @@
 | demons souls | 恶魔之魂 | |
 | seiken densetsu 3 | 圣剑传说3 | |
 | kore wa zombie desu ka | 这样算是僵尸吗？ | |
+| terra formars | 火星异种 | |
