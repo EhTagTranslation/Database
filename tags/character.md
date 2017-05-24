@@ -854,8 +854,11 @@
 | angela | 安吉拉 | 圣剑传说3角色 |
 | riesz | 莉斯 | 圣剑传说3角色 |
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 | |
+| raku ichijou | 一条乐 | |
 | kosaki onodera | 小野寺小咲 | |
 | marika tachibana | 橘万里花 | |
+| chitoge kirisaki | 桐崎千棘 | |
+| seishirou tsugumi | 鸫诚士郎 | |
 | hinako shijou | 四条雏子 | |
 | yuri sakazaki | 坂崎百合 | |
 | sage | 贤者 | |
