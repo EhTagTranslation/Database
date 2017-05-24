@@ -859,3 +859,4 @@
 | hinako shijou | 四条雏子 | |
 | yuri sakazaki | 坂崎百合 | |
 | sage | 贤者 | |
+| michelle k. davis | 米歇尔·K·戴维斯 | |
