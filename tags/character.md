@@ -5,7 +5,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
-| haruna | 榛名 \| 春奈 | No.023 榛名![榛名](# "http://exhentai.org/t/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br>春奈是轻小说《这个是僵尸吗？》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p4.qhmsg.com/t011fd2e27014bdb02a.jpg") |
+| haruna | 榛名 \| 春奈 | No.023 榛名![榛名](# "http://exhentai.org/t/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br>春奈是轻小说《这个是僵尸吗？》及其衍生的漫画、动画等作品的登场角色。![春奈](# http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") |
 | chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) <br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295|
 | murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
 | nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
