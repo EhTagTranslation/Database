@@ -26,5 +26,5 @@
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](http://ul.ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
-| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/images/logo1.gif)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
-| dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 |
+| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
+| dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 |
