@@ -18,7 +18,7 @@
 |  | ▲Key社作品 | |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | ![俺妹](https://img.acg.moe/common/thumb/7/7d/Oreimo.jpg/250px-Oreimo.jpg)![图](http://exhentai.org/t/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg) |
 | toaru majutsu no index | 魔法禁书目录📖 | ![图](http://ul.ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |
-| toaru kagaku no railgun | 某科学的超电磁炮⚡️ | ![图](http://ul.ehgt.org/b6/04/b604287878e7c033016e094406e97c9c17f84c78-1338105-1099-1600-jpg_l.jpg) |
+| toaru kagaku no railgun | 科学超电磁炮⚡️ | ![图](http://ul.ehgt.org/b6/04/b604287878e7c033016e094406e97c9c17f84c78-1338105-1099-1600-jpg_l.jpg) |
 | kantai collection | ![大船](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection | ![图](# "http://223.152.81.41:2050/h/3abbc57f4a1af31dbefbb215eb2b54149aaf16c8-436299-1280-894-jpg/keystamp=1493104800-bdcbeea30d;fileindex=38952778;xres=1280/CE_829_001.jpg") |
 | pokemon | ![精灵球](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41npvfdneg200d00d042.gif)精灵宝可梦 | ![图](http://ul.ehgt.org/8c/96/8c961e0f970654081fdbeb953b1987c46f748399-1125751-1050-1000-png_l.jpg)![图](http://ul.ehgt.org/d9/c3/d9c313025eafe3fe0fe88f524d95a2bc17abaaad-984342-1000-700-png_l.jpg)![图](http://ul.ehgt.org/61/11/611191f1607da3ad9ee5a148456a8976dae6c9a8-1017825-850-900-png_l.jpg) |
 | higurashi no naku koro ni | 寒蝉鸣泣之时🔪 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://ul.ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://ul.ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
@@ -437,3 +437,21 @@
 | ojamajo doremi | 小魔女DoReMi | |
 | terra formars | 火星异种 | |
 | spirited away | 千与千寻 | |
+| el hazard | 神秘的世界 | |
+| langrisser | 梦幻模拟战 | |
+| slayers | 秀逗魔导士 | |
+| grendizer | UFO机器人 古连泰沙 | |
+| keroro gunsou | Keroro军曹 | |
+| sakura taisen | 樱花大战 | |
+| saint seiya | 圣斗士星矢 | |
+| agent aika | 海底娇娃蓝华 | |
+| city hunter | 城市猎人 | |
+| record of lodoss war | 罗德岛战记 | |
+| super robot wars | 超级机器人大战 | |
+| kishin douji zenki | 鬼神童子 | |
+| muv-luv | Muv-Luv | |
+| dangaioh | 破邪大星弹劾皇 | |
+| 3x3 eyes | 三只眼 | |
+| bakuretsu hunters | 爆走猎人 | |
+| vampire princess miyu | 吸血姬美夕 | |
+| reco love | 真爱记录 | |
