@@ -322,6 +322,10 @@
 | danganronpa | 弹丸论破 | |
 | koutetsujou no kabaneri | 甲铁城的卡巴内利 | |
 | yu-gi-oh | 游戏王 | |
+| yu-gi-oh 5ds | 游戏王5D's | |
+| yu-gi-oh zexal | 游戏王ZEXAL | |
+| yu-gi-oh arc-v | 游戏王ARC-V | |
+| yu-gi-oh gx | 游戏王－怪兽之决斗GX | |
 | kimi ni todoke | 好想告诉你 | |
 | akatsuki no yona | 晨曦公主 | |
 | onii-chan dakedo ai sae areba kankeinai yo ne | 就算是哥哥，有爱就没问题了，对吧 | |
@@ -486,5 +490,11 @@
 | fancy lala | 梦幻拉拉 | |
 | final fight | 快打旋风 | |
 | beauty and the beast | 美女与野兽 | |
+| baka to test to shoukanjuu | 笨蛋测验召唤兽 | |
+| arcana heart | 圣灵之心 | |
+| heroman | HEROMAN | |
+| anyamaru tantei kiruminzoo | 动物侦探奇鲁米 | |
+| kyoukai senjou no horizon | 境界线上的地平线 | |
+| rwby | RWBY | |
 
 
