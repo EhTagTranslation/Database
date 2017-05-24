@@ -11,10 +11,10 @@
 | nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
 | kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](http://exhentai.org/t/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg) |
 | | ▲ 重复项合并 | |  
-| | ▼萌单 人物 | 我已经钦定了，茵可酱只能我来改 |
+| | ▼萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |
 | pastel ink | 闪亮茵可 | ![闪亮茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f36134flq4j205k08674h.jpg) |
-| | ▲萌单 人物 | 我已经钦定了，茵可酱只能我来改 |
+| | ▲萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
 | | ▼东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)官方角色列表填写 |
 | flandre scarlet | 芙兰朵露·斯卡雷特 | ![我女儿](http://ww1.sinaimg.cn/bmiddle/6c84b2d6gw1e9hupw57iaj21201eotiq.jpg) |
 | alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg) |
