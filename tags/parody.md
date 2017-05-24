@@ -420,3 +420,4 @@
 | samurai warriors | 战国无双 | |
 | dynasty warriors | 真·三国无双 | |
 | demons souls | 恶魔之魂 | |
+| seiken densetsu 3 | 圣剑传说3 | |
