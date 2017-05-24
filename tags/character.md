@@ -913,5 +913,7 @@
 | nami | 娜美 | |
 | tashigi | 达斯琪 | |
 | wang liu mei | 王留美 | |
-| sage | 贤者 | |
+| sage | 贤者 | 《勇者斗恶龙》游戏系列 |
 | merchant | 商人 | |
+| hero | 勇者 | |
+| wizard | 魔法师 | |
