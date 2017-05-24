@@ -851,3 +851,5 @@
 | sailor saturn | 土萌萤 | |
 | android 18 | 人造人18号 | |
 | videl | 比迪丽 | |
+| angela | 安吉拉 | 圣剑传说3角色 |
+| riesz | 莉斯 | 圣剑传说3角色 |
