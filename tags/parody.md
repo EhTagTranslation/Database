@@ -455,3 +455,4 @@
 | bakuretsu hunters | 爆走猎人 | |
 | vampire princess miyu | 吸血姬美夕 | |
 | reco love | 真爱记录 | |
+| tales of xillia | 无限传说 | |
