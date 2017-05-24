@@ -907,3 +907,4 @@
 | michelle k. davis | 米歇尔·K·戴维斯 | |
 | chihiro ogino | 荻野千寻 | |
 | merchant | 商人 | |
+| tomoyo daidouji | 大道寺知世 | |
