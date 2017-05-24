@@ -417,9 +417,22 @@
 | valkyrie drive | 女武神驱动 | |
 | saber marionette | 机械女神 | |
 | dance with devils | 与魔共舞 | |
+| samurai 7 | 七武士 | |
+| samurai jack | 杰克武士 | |
+| samurai deeper kyo | 鬼眼狂刀 | |
+| samurai pizza cats | 功夫猫党 | |
+| samurai spirits | 侍魂 | |
+| hyakka ryouran samurai girls | 百花缭乱 武士少女 | |
+| samurai champloo | 混沌武士 | |
+| afro samurai | 爆炸头武士 | |
+| samurai sentai shinkenger | 侍战队真剑者 | |
+| samurai flamenco | 武士弗拉明戈 | |
+| onechambara bikini samurai squad | 忌血的继承者 | |
 | samurai warriors | 战国无双 | |
 | dynasty warriors | 真·三国无双 | |
 | demons souls | 恶魔之魂 | |
+| seiken densetsu | 圣剑传说 | |
 | seiken densetsu 3 | 圣剑传说3 | |
-| kore wa zombie desu ka | 这样算是僵尸吗？ | |
+| kore wa zombie desu ka | 这个是僵尸吗？ | |
+| ojamajo doremi | 小魔女DoReMi | |
 | terra formars | 火星异种 | |
