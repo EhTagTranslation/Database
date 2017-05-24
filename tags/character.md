@@ -906,3 +906,4 @@
 | sage | 贤者 | |
 | michelle k. davis | 米歇尔·K·戴维斯 | |
 | chihiro ogino | 荻野千寻 | |
+| merchant | 商人 | |
