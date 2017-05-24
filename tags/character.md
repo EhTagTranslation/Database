@@ -853,3 +853,4 @@
 | videl | 比迪丽 | |
 | angela | 安吉拉 | 圣剑传说3角色 |
 | riesz | 莉斯 | 圣剑传说3角色 |
+| eucliwood hellscythe | 优克莉伍德·海尔赛兹 | |
