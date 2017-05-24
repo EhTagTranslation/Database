@@ -908,3 +908,4 @@
 | chihiro ogino | 荻野千寻 | |
 | merchant | 商人 | |
 | tomoyo daidouji | 大道寺知世 | |
+| tessie | 泰茜 | 《勇者斗恶龙IV 被引导的人们》里特鲁尼克的妻子 |
