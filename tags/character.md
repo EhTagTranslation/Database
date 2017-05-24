@@ -842,3 +842,4 @@
 | ranma saotome | 早乙女乱马 | |
 | kamui | 卡姆依(神威) | |
 | ikumi mito | 水戸郁魅 | |
+| sakura kinomoto | 木之本樱 | |
