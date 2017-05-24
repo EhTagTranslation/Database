@@ -6,8 +6,8 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
-| moetan | 萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
+| touhou project | ☯东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
+| moetan | ✏️萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 |  | ▼Key社作品 | |
 | kanon | Kanon❄ | ![图](http://ehgt.org/t/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](http://ehgt.org/t/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |
 | air | AIR🕊 | ![图](http://ehgt.org/t/3e/a7/3ea73e69f15c51281a60424f1d568c2dea2e6d43-349944-1728-1235-jpg_l.jpg) |
@@ -17,20 +17,20 @@
 | little busters | Little Busters!⚾🐈 | 独自难以忍受，紧紧牵住了伙伴的手。两个人仍显孤单，与更多的伙伴手牵手围成个圈。<br />>![图](http://ehgt.org/t/f4/a6/f4a61ec5bd42e9b09ef3f66a354c6252f6963acf-135503-530-530-jpg_l.jpg)![图](http://ehgt.org/t/e6/ee/e6eee3124423f153bc01a2684910176f5281c284-109401-320-460-jpg_l.jpg) |
 |  | ▲Key社作品 | |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | ![俺妹](https://img.acg.moe/common/thumb/7/7d/Oreimo.jpg/250px-Oreimo.jpg)![图](http://exhentai.org/t/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg) |
-| toaru majutsu no index | 魔法禁书目录 | ![图](http://ul.ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |
-| toaru kagaku no railgun | 某科学的超电磁炮 | ![图](http://ul.ehgt.org/b6/04/b604287878e7c033016e094406e97c9c17f84c78-1338105-1099-1600-jpg_l.jpg) |
+| toaru majutsu no index | 魔法禁书目录📖 | ![图](http://ul.ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |
+| toaru kagaku no railgun | 某科学的超电磁炮⚡️ | ![图](http://ul.ehgt.org/b6/04/b604287878e7c033016e094406e97c9c17f84c78-1338105-1099-1600-jpg_l.jpg) |
 | kantai collection | ![大船](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection | ![图](# "http://223.152.81.41:2050/h/3abbc57f4a1af31dbefbb215eb2b54149aaf16c8-436299-1280-894-jpg/keystamp=1493104800-bdcbeea30d;fileindex=38952778;xres=1280/CE_829_001.jpg") |
 | pokemon | ![精灵球](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41npvfdneg200d00d042.gif)精灵宝可梦 | ![图](http://ul.ehgt.org/8c/96/8c961e0f970654081fdbeb953b1987c46f748399-1125751-1050-1000-png_l.jpg)![图](http://ul.ehgt.org/d9/c3/d9c313025eafe3fe0fe88f524d95a2bc17abaaad-984342-1000-700-png_l.jpg)![图](http://ul.ehgt.org/61/11/611191f1607da3ad9ee5a148456a8976dae6c9a8-1017825-850-900-png_l.jpg) |
-| higurashi no naku koro ni | 寒蝉鸣泣之时 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://ul.ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://ul.ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
-| saki | 天才麻将少女 | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
+| higurashi no naku koro ni | 寒蝉鸣泣之时🔪 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://ul.ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://ul.ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
+| saki | ️🀄️天才麻将少女 | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](http://ul.ehgt.org/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](http://ul.ehgt.org/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) |
 | toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://ul.ehgt.org/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg)![图](http://ul.ehgt.org/49/e8/49e8946e3c5bc06c87dca62ad9806525bd8a6e02-345835-1121-1600-jpg_l.jpg) |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) |
 | sword art online | 刀剑神域 | ![劳模](http://exhentai.org/t/47/c8/47c84877aab92bb5458b970b1549fef79bbfbb36-904651-1097-1600-jpg_250.jpg)![劳模](http://exhentai.org/t/82/51/8251e69ed64cf8569d6f68235681d0782883408f-1323325-2128-3021-jpg_250.jpg) |
 | to love-ru | 出包王女 | To LOVEる -とらぶる-<br>![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg)![图](http://ul.ehgt.org/4b/db/4bdb998c60aca38332bdbb28360d72d631d36c37-343520-1134-1600-jpg_l.jpg)![图](http://exhentai.org/t/6c/83/6c83940f7cb6bc7838aaa1b88a71a899c3682463-1602431-1130-1600-jpg_l.jpg)![图](http://exhentai.org/t/ce/1e/ce1ecd136d0eb869f3d01582f2cdfd7b15802779-298206-1132-1600-jpg_l.jpg) |
-| ro-kyu-bu | 萝球社 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) |
-| tantei opera milky holmes | 侦探歌剧 少女福尔摩斯 | ![图](http://ul.ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
-| hyperdimension neptunia | 超次元游戏：海王星 | ![图](http://ww4.sinaimg.cn/large/6c84b2d6gy1fehag2dkwij21hc0u0tqa.jpg) |
+| ro-kyu-bu | 萝球社🏀 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) |
+| tantei opera milky holmes | 侦探歌剧 少女福尔摩斯🔎 | ![图](http://ul.ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |
+| hyperdimension neptunia | 超次元游戏：海王星🎮 | ![图](http://ww4.sinaimg.cn/large/6c84b2d6gy1fehag2dkwij21hc0u0tqa.jpg) |
 | love live | ![LL](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)LoveLive! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) |
 | love live sunshine | ![LL](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Sunshine!! | ![封面](http://ww3.sinaimg.cn/large/6c84b2d6gy1fdgu7kswlwj209q0ec0v9.jpg) |
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
@@ -103,9 +103,9 @@
 | chuunibyou demo koi ga shitai | 中二病也要谈恋爱！ | ![图](http://exhentai.org/t/49/a8/49a8751f9a444456a25139ebd0a2dc7c3f179fae-2180129-1393-2000-jpg_l.jpg)![图](http://exhentai.org/t/ca/ac/caac4ca2b6f0750cac39acad1512a5e0f808a021-937875-2131-3000-jpg_250.jpg) |
 | ano hi mita hana no namae wo bokutachi wa mada shiranai | 我们仍未知道那天所看见的花的名字。 | 又译为“未闻花名”，日本官方简称“那朵花”<br>![图](http://ul.ehgt.org/b9/82/b982e8d3a269a0a2aec6706368054b49e41aa83e-1003852-2000-1417-jpg_l.jpg)![图](http://ul.ehgt.org/82/69/826926e8c503e92084baaff53688aa4bc5acc1c7-2122976-2115-3031-jpg_l.jpg) |
 | amagi brilliant park | 甘城光辉游乐园 | 《甘城辉煌乐园救世主》轻小说，不了解<br>![图](http://exhentai.org/t/67/6b/676b840b033812a59a8db54a8e864524049915ac-7104563-4294-2999-jpg_250.jpg)![图](http://ul.ehgt.org/d4/13/d41375f1cef858307da3d3eb6cb6be1b57bbd2b0-863646-1597-2276-jpg_l.jpg) |
-| hidan no aria | 绯弹的亚莉亚 | 官方逼死同人↓<br>![图](http://ul.ehgt.org/26/ff/26ffeeaeb23fafb7938088c9abff7944a3ee2d1e-5770870-2516-3578-png_l.jpg)![图](http://ul.ehgt.org/5f/48/5f487874b41b0196dda23f7aeaa19847eff839f9-4019236-5374-3800-jpg_l.jpg) |
+| hidan no aria | 绯弹的亚莉亚🔫 | 官方逼死同人↓<br>![图](http://ul.ehgt.org/26/ff/26ffeeaeb23fafb7938088c9abff7944a3ee2d1e-5770870-2516-3578-png_l.jpg)![图](http://ul.ehgt.org/5f/48/5f487874b41b0196dda23f7aeaa19847eff839f9-4019236-5374-3800-jpg_l.jpg) |
 | steinsgate | 命运石之门 | ![图](http://exhentai.org/t/89/33/893301e4e2f4d6169f0c6321c1a625a9a1600700-164207-729-1024-jpg_l.jpg)![](http://ul.ehgt.org/97/85/97851728809e1311fd28c1e7053d2174ddb4295c-633213-990-1400-jpg_l.jpg)![可爱的男孩子](http://exhentai.org/t/9e/c5/9ec503bcb8154b19a4bccea96b136c994a1cab5d-1825986-2090-3000-jpg_250.jpg)  |
-| lucky star | 幸运星 | ![图](http://exhentai.org/t/25/df/25df151d97529de4d42e7b57bf1c79b3e4870f80-489916-1060-1490-jpg_250.jpg)![图](http://exhentai.org/t/97/58/975859a24acb07ba55b0b256c21e44c33a521fa9-1001428-709-1003-jpg_l.jpg)![图](http://ul.ehgt.org/8d/9e/8d9e90314b468770a55b7660fc554adc0c29ed58-2616061-2117-3004-jpg_l.jpg) |
+| lucky star | 幸运星⭐️ | ![图](http://exhentai.org/t/25/df/25df151d97529de4d42e7b57bf1c79b3e4870f80-489916-1060-1490-jpg_250.jpg)![图](http://exhentai.org/t/97/58/975859a24acb07ba55b0b256c21e44c33a521fa9-1001428-709-1003-jpg_l.jpg)![图](http://ul.ehgt.org/8d/9e/8d9e90314b468770a55b7660fc554adc0c29ed58-2616061-2117-3004-jpg_l.jpg) |
 | zero no tsukaima | 零之使魔 | 山口昇老师一路走好<br>![图](http://exhentai.org/t/1a/0f/1a0f01daacab414f1dc6685f4cf005774777ad50-747905-1237-1741-jpg_250.jpg)![图](http://exhentai.org/t/68/8d/688d7bdaa94098c9d0e270f7125337d7ef585f88-572545-1055-1500-jpg_250.jpg)![图](http://ul.ehgt.org/ad/78/ad784ef0569c06b2234635fae03ed96a7e85c769-4113665-4239-6105-jpg_l.jpg) |
 | shakugan no shana | 灼眼的夏娜 | ![图](http://ul.ehgt.org/fc/2f/fc2fb0551dfaf85ed84a5766afd68dfba3c4ac5f-505542-1280-1280-jpg_l.jpg)![图](http://ul.ehgt.org/c0/d3/c0d3764a66fa43c51f6d12b26ae35c6c7ccab754-2101793-1770-2500-jpg_l.jpg)![图](http://ul.ehgt.org/2e/3b/2e3b64854752c3c2cd79fd9e564a85833c660e98-5637004-2134-3031-jpg_l.jpg) |
 | the melancholy of haruhi suzumiya | 凉宫春日的忧郁 | ![图](http://exhentai.org/t/55/02/5502c789023217d70b884843f975dacb577b2d6b-2102386-1045-1500-png_l.jpg)![图](http://exhentai.org/t/b8/fd/b8fddea702c7ed0cf5ead53c89ba771bf482c28a-1045635-1275-1800-jpg_250.jpg)![图](http://ul.ehgt.org/32/bd/32bdf0249bda8535231695996eccbad40ba30504-1163709-1376-2000-jpg_l.jpg) |
@@ -139,7 +139,7 @@
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](http://exhentai.org/t/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg)![图](http://exhentai.org/t/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg) |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](http://ul.ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](http://ul.ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |
 | shokugeki no soma | 食戟之灵 | ![图](http://exhentai.org/t/2d/72/2d7246f8bc6f92ea69e0304c7104ebe24969ed71-878558-1413-2000-jpg_l.jpg)![图](http://exhentai.org/t/83/e9/83e973922edfecfec49d51ab906ad6a5a3b96120-659046-1395-2000-jpg_l.jpg)![图](http://ul.ehgt.org/57/2f/572fb8515005fc277f88910be0c594605016dc3e-2692365-1240-1754-png_l.jpg) |
-| working | 迷糊餐厅 | ![图](http://exhentai.org/t/cb/19/cb19e9ef2553c967ebbe306c9219367ca5bb9c64-1717378-1080-1512-jpg_250.jpg)![图](http://ul.ehgt.org/e2/1f/e21f6f42ea9a4941571838fcc6c1de9c23e00040-3134524-2138-2997-jpg_l.jpg)![图](http://exhentai.org/t/e3/0f/e30f910af4063d83167f78d37078632ac6ebe7d2-3751936-1386-2005-png_l.jpg) |
+| working | 迷糊餐厅🍴 | ![图](http://exhentai.org/t/cb/19/cb19e9ef2553c967ebbe306c9219367ca5bb9c64-1717378-1080-1512-jpg_250.jpg)![图](http://ul.ehgt.org/e2/1f/e21f6f42ea9a4941571838fcc6c1de9c23e00040-3134524-2138-2997-jpg_l.jpg)![图](http://exhentai.org/t/e3/0f/e30f910af4063d83167f78d37078632ac6ebe7d2-3751936-1386-2005-png_l.jpg) |
 | kono subarashii sekai ni syukufuku o | 为美好的世界献上祝福！ | ![图](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |
 | ore no kanojo to osananajimi ga shuraba sugiru | 我女友与青梅竹马的惨烈修罗场 | ![俺の彼女と幼なじみが修罗场すぎる](https://ehgt.org/t/52/b4/52b4fd923618bd7ec49eb3ccbae43c979e769110-1060746-1280-1024-jpg_250.jpg) |
 | ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru | 我的脑内恋碍选项 | ![俺の脳内選択肢が、学園ラブコメを全力で邪魔している](https://ehgt.org/t/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |
@@ -174,6 +174,7 @@
 | kill la kill | 斩服少女 | ![](http://ehgt.org/t/f7/0b/f70b27bfb73bf24bbd6dcc263614962e457a17fd-2131451-3350-4746-jpg_l.jpg) |
 | dagashi kashi | 粗点心战争  | ![](http://ehgt.org/t/e1/fc/e1fce571fe182145db09d2b073f73f73cc91d3d1-1071761-1280-720-png_l.jpg) |
 | street fighter | 街头霸王 | ![](http://exhentai.org/t/b8/47/b847502ea4f37b1b9b6f5caf36f3e3be594875ee-818507-846-1197-jpg_l.jpg) |
+|  | ▼Type-Moon 系列 | |
 | fate grand order | Fate/Grand Order | ![](http://ehgt.org/t/fd/bc/fdbc261c70b52baa032b35ecf2bad5e93080a749-199788-280-479-jpg_l.jpg) |
 | fate stay night | Fate/stay night | ![](http://ehgt.org/t/45/f9/45f9e306b18cae6a9465228be8aff270a24f6c79-468080-900-1293-png_l.jpg) |
 | fate apocrypha | Fate/Apocrypha | ![](http://ehgt.org/t/43/dc/43dc39bdc54c843b8a806b3f2f71069d316e04e8-3794023-2147-3018-jpg_l.jpg) |
@@ -181,6 +182,7 @@
 | fate hollow ataraxia | Fate/hollow ataraxia | ![](http://ehgt.org/t/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) |
 | fate extra | Fate/EXTRA | ![](http://ehgt.org/t/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) |
 | fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg) |
+|  | ▲Type-Moon 系列 | |
 | kimi no na wa. | 你的名字。 | ![](http://ehgt.org/t/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) |
 | mashiro iro symphony | 纯白交响曲 | ![](http://ehgt.org/t/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |
 |  | ▼勇者斗恶龙 系列 | |
@@ -270,6 +272,7 @@
 | fire emblem | 火焰之纹章 | |
 | gintama | 银魂 | |
 | panty and stocking with garterbelt | 吊带袜天使 | |
+|  | ▼假面骑士 系列 | |
 | kamen rider | 假面骑士 | |
 | kamen rider decade | 假面骑士Decade | |
 | kamen rider amazon | 假面骑士亚马逊 | |
@@ -283,6 +286,7 @@
 | kamen rider ooo | 假面骑士OOO | |
 | kamen rider 555 | 假面骑士555 | |
 | kamen rider shin | 真·假面骑士 | |
+|  | ▲假面骑士 系列 | |
 | kaiji | 赌博默示录 | |
 | my hero academia | 我的英雄学院 | |
 | shinmai maou no testament | 新妹魔王的契约者 | |
@@ -378,12 +382,14 @@
 | the legend of korra | 科拉传奇 | |
 | kangoku senkan | 监狱战舰 | |
 | prison school | 监狱学园 | |
+|  | ▼超时空要塞 系列 | |
 | macross | 超时空要塞 | |
 | the super dimension fortress macross | 超时空要塞Macross |
 | macross frontier | 超时空要塞F | |
 | macross 7 | 超时空要塞7 | |
 | macross delta | 超时空要塞Δ | |
 | macross zero | 超时空要塞Zero | |
+|  | ▲假面骑士 系列 | |
 | little red riding hood | 小红帽 | |
 | tales of vesperia | 薄暮传说 | |
 | gekkan shoujo nozaki-kun | 月刊少女野崎君 | |
