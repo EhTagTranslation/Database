@@ -476,4 +476,15 @@
 | no more heroes | 英雄不再 | |
 | akuma no riddle | 恶魔之谜 | |
 | overlord | 不死者之王 | |
+| full ani | Fullani | 全动画脱衣麻将 |
+| full metal panic | 全金属狂潮 | |
+| fullmetal alchemist | 钢之炼金术师 | |
+| full moon wo sagashite | 寻找满月 | 星河满月 |
+| full metal daemon muramasa | 装甲恶鬼村正 | |
+| futsuu no joshikousei ga locodol yattemita. | 普通女高中生要做当地偶像 | |
+| fallout | 辐射 | |
+| fancy lala | 梦幻拉拉 | |
+| final fight | 快打旋风 | |
+| beauty and the beast | 美女与野兽 | |
+
 
