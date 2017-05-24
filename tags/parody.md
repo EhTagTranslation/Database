@@ -421,3 +421,4 @@
 | dynasty warriors | 真·三国无双 | |
 | demons souls | 恶魔之魂 | |
 | seiken densetsu 3 | 圣剑传说3 | |
+| kore wa zombie desu ka | 这样算是僵尸吗？ | |
