@@ -833,6 +833,44 @@
 | chitoge kirisaki | 桐崎千棘 | |
 | seishirou tsugumi | 鸫诚士郎 | |
 | ruri miyamoto | 宫本琉璃 | |
+| | ▼迷途猫 | |
+| fumino serizawa | 芹泽文乃 | |
+| | ▼魔禁/超炮 | |
+| touma kamijou | 上条当麻 | |
+| mikoto misaka | 御坂美琴 | |
+| aisa himegami | 姬神秋沙 | |
+| mii konori | 固法美伟 | |
+| seiri fukiyose | 吹寄制理 | |
+| kaori kanzaki | 神裂火织 | |
+| komoe tsukuyomi | 月咏小萌 | |
+| misaka-imouto | 御坂妹妹 | |
+| last order | 最后之作 | |
+| index librorum prohibitorum | 茵蒂克丝 | |
+| kuroko shirai | 白井黑子 | |
+| misaki shokuhou | 食蜂操祈 | |
+| mitsuko kongou | 婚后光子 | |
+| kinuho wannai | 湾内绢保 | | 
+| maaya awatsuki | 泡浮万彬 | |
+| aiho yomikawa | 黄泉川爱穗 | |
+| tsuzuri tessou | 铁装缀里 | |
+| maika tsuchimikado | 土御门舞夏 | |
+| erii haruue | 春上衿衣 | |
+| ruiko saten | 佐天泪子 | |
+| kazari uiharu | 初春饰利 | |
+| accelerator | 一方通行 | |
+| oriana thomson | 欧莉安娜·汤姆森 | |
+| shizuri mugino | 麦野沉利 | |
+| rikou takitsubo | 泷壶理后 | |
+| saiai kinuhata | 绢旗最爱 | |
+| frenda seivelun | 芙兰达·塞维伦 | |
+| shiage hamazura | 滨面仕上 | |
+| hyouka kazakiri | 风斩冰华 | |
+| harumi kiyama | 木山春生 | |
+| motoharu tsuchimikado | 土御门元春 | |
+| itsuwa | 五和 | |
+| lucia | 露琪亚 | |
+| agnese sanctis | 雅妮丝·桑提斯 | |
+| angelene | 安洁莉娜 | |
 | | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
