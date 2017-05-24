@@ -824,6 +824,15 @@
 | cthugha | 克图格亚 | |
 | mahiro yasaka | 八坂真寻 | |
 | hastur | 哈斯太 | |
+| | ▼伪恋 | |
+| raku ichijou | 一条乐 | |
+| kosaki onodera | 小野寺小咲 | |
+| haru onodera | 小野寺春 | |
+| yui kanakura | 奏仓羽 | |
+| marika tachibana | 橘万里花 | |
+| chitoge kirisaki | 桐崎千棘 | |
+| seishirou tsugumi | 鸫诚士郎 | |
+| ruri miyamoto | 宫本琉璃 | |
 | | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -854,11 +863,6 @@
 | angela | 安吉拉 | 圣剑传说3角色 |
 | riesz | 莉斯 | 圣剑传说3角色 |
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 | |
-| raku ichijou | 一条乐 | |
-| kosaki onodera | 小野寺小咲 | |
-| marika tachibana | 橘万里花 | |
-| chitoge kirisaki | 桐崎千棘 | |
-| seishirou tsugumi | 鸫诚士郎 | |
 | hinako shijou | 四条雏子 | |
 | yuri sakazaki | 坂崎百合 | |
 | sage | 贤者 | |
