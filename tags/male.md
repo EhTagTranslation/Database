@@ -221,7 +221,7 @@
 | lactation | 母乳 | 乳房喷出液体（通常是乳汁）。是挤奶的前置标签。 | 
 | milking | 挤奶 | 用手或机器拉扯乳房以挤奶。不用于阴茎。需要母乳(lactation)标签。不应与哺乳(breast feeding)混淆。 |
 | paizuri | 乳交 | 在乳房之间推动阴茎（或类似物体）的行为。不应与多重乳交(multiple paizuri)或乳穴性交(nipple fuck)混淆。<br>![图](http://exhentai.org/t/6d/79/6d79de2638a83753fba5aa3579684854f3615116-657761-1111-1554-jpg_l.jpg) | 
-| clothed paizuri | 穿衣乳交 |  在衣服遮盖大部分乳房的情况下乳交(paizuri)，必须完全遮盖乳头和乳晕。 | 
+| clothed paizuri | 穿衣乳交 | 在衣服遮盖大部分乳房的情况下乳交(paizuri)，必须完全遮盖乳头和乳晕。 | 
 | | ==== 胸部 > 乳房 > 乳头 ==== | |
 | big nipples | 大乳头 | 长得足以抓在一只手中的大乳头。 | 
 | dark nipples | 暗色乳头 | 暗色的乳头，有时与怀孕(pregnant)有关。不应用于肤色黝黑(dark skin)的人。 | 
