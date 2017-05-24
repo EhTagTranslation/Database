@@ -858,3 +858,4 @@
 | marika tachibana | 橘万里花 | |
 | hinako shijou | 四条雏子 | |
 | yuri sakazaki | 坂崎百合 | |
+| sage | 贤者 | |
