@@ -912,3 +912,5 @@
 | rikka hishikawa | 菱川六花 | |
 | mana aida | 相田爱 | |
 | leia rolando | 蕾娅·罗兰德 | |
+| nami | 娜美 | |
+| tashigi | 达斯琪 | |
