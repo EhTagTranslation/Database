@@ -473,6 +473,7 @@
 | gaogaigar | 勇者王 | |
 | hibike euphonium | 吹响！悠风号 | |
 | ragnarok online | 仙境传说 | |
-
-
+| no more heroes | 英雄不再 | |
+| akuma no riddle | 恶魔之谜 | |
+| overlord | 不死者之王 | |
 
