@@ -849,3 +849,5 @@
 | sailor jupiter | 木野真琴 | |
 | sailor venus | 爱野美奈子 | |
 | sailor saturn | 土萌萤 | |
+| android 18 | 人造人18号 | |
+| videl | 比迪丽 | |
