@@ -909,3 +909,5 @@
 | merchant | 商人 | |
 | tomoyo daidouji | 大道寺知世 | |
 | tessie | 泰茜 | 《勇者斗恶龙IV 被引导的人们》里特鲁尼克的妻子 |
+| rikka hishikawa | 菱川六花 | |
+| mana aida | 相田爱 | |
