@@ -7,7 +7,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project⛩ | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
-| moetan | ✏️萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
+| moetan | 萌单✏️ | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 |  | ▼Key社作品 | |
 | kanon | Kanon❄ | ![图](http://ehgt.org/t/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](http://ehgt.org/t/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |
 | air | AIR🕊 | ![图](http://ehgt.org/t/3e/a7/3ea73e69f15c51281a60424f1d568c2dea2e6d43-349944-1728-1235-jpg_l.jpg) |
@@ -22,7 +22,7 @@
 | kantai collection | ![大船](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection | ![图](# "http://223.152.81.41:2050/h/3abbc57f4a1af31dbefbb215eb2b54149aaf16c8-436299-1280-894-jpg/keystamp=1493104800-bdcbeea30d;fileindex=38952778;xres=1280/CE_829_001.jpg") |
 | pokemon | ![精灵球](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41npvfdneg200d00d042.gif)精灵宝可梦 | ![图](http://ul.ehgt.org/8c/96/8c961e0f970654081fdbeb953b1987c46f748399-1125751-1050-1000-png_l.jpg)![图](http://ul.ehgt.org/d9/c3/d9c313025eafe3fe0fe88f524d95a2bc17abaaad-984342-1000-700-png_l.jpg)![图](http://ul.ehgt.org/61/11/611191f1607da3ad9ee5a148456a8976dae6c9a8-1017825-850-900-png_l.jpg) |
 | higurashi no naku koro ni | 寒蝉鸣泣之时🔪 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://ul.ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://ul.ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |
-| saki | 🀄️天才麻将少女 | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
+| saki | 天才麻将少女🀄️ | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](http://ul.ehgt.org/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](http://ul.ehgt.org/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) |
 | toradora | 🐉龙与虎🐅 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://ul.ehgt.org/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg)![图](http://ul.ehgt.org/49/e8/49e8946e3c5bc06c87dca62ad9806525bd8a6e02-345835-1121-1600-jpg_l.jpg) |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) |
@@ -38,7 +38,7 @@
 | vocaloid | ![V](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)VOCALOID | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
 | the idolmaster | ![iM@S](http://wx4.sinaimg.cn/large/6c84b2d6gy1fehbsqrgaig200u00c03t.gif)偶像大师 | ![THE IDOLM@STER](https://img.acg.moe/common/thumb/7/73/THE_IDOLM%40STER_MOVIE.jpg/250px-THE_IDOLM%40STER_MOVIE.jpg) |
-| my little pony friendship is magic | 🐎小马宝莉：友谊就是魔法 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
+| my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
 | himouto umaru-chan | 干物妹！小埋 | ![图](http://exhentai.org/t/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg) |
 | bakemonogatari | 化物语 | ![图](http://exhentai.org/t/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg)![图](http://exhentai.org/t/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg)![图](http://exhentai.org/t/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg) |
 | yahari ore no seishun love come wa machigatteiru | 我的青春恋爱物语果然有问题 | ![图](http://exhentai.org/t/2b/18/2b1869be7126eda56f2a8f6750fe89143a8aac11-722028-1410-2024-jpg_l.jpg)<br>其实是个基片<br>![图](http://exhentai.org/t/a6/2b/a62b5d7d18ba70957af3876be3e359488e931ada-6021484-1600-2258-png_l.jpg) |
@@ -111,6 +111,7 @@
 | the melancholy of haruhi suzumiya | 凉宫春日的忧郁 | ![图](http://exhentai.org/t/55/02/5502c789023217d70b884843f975dacb577b2d6b-2102386-1045-1500-png_l.jpg)![图](http://exhentai.org/t/b8/fd/b8fddea702c7ed0cf5ead53c89ba771bf482c28a-1045635-1275-1800-jpg_250.jpg)![图](http://ul.ehgt.org/32/bd/32bdf0249bda8535231695996eccbad40ba30504-1163709-1376-2000-jpg_l.jpg) |
 | kannagi | 神薙 | ![图](http://exhentai.org/t/5c/0e/5c0e21f7e1d063c2601b192d0383a2c9b08085fc-355188-1050-1490-jpg_250.jpg) |
 | kashimashi | 女生爱女生 | ![图](http://ul.ehgt.org/12/6e/126ebd4686fe7e6b643a9ff7e9e27e1e63a48337-302081-700-997-jpg_l.jpg)![图](http://exhentai.org/t/a0/0c/a00c04cc8908c059ad5ce5649c5351180ccbb788-384244-800-1133-jpg_250.jpg) |
+| to heart | ToHeart | |
 | toheart2 | ToHeart2 | ![图](http://ul.ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_l.jpg)![图](http://ul.ehgt.org/e3/e8/e3e8326a98db36972b4b3e7f9a4043a567105a37-1216531-1024-1441-jpg_l.jpg) |
 | k-on | 轻音少女 | ![图](http://ul.ehgt.org/ee/4f/ee4f3da314a2748030b53b9e495c8d20fd0d6fd5-1465878-5000-3501-jpg_l.jpg) |
 | he is my master | 我的主人 | 《我的主人爱作怪》又译《这就是我的主人》<br>![图](http://exhentai.org/t/b6/ab/b6abf92359b980bb527b9dbe70f3e05aa2bfe1dc-1751503-1359-1891-jpg_250.jpg) |
@@ -456,3 +457,22 @@
 | vampire princess miyu | 吸血姬美夕 | |
 | reco love | 真爱记录 | |
 | tales of xillia | 无限传说 | |
+| spice and wolf | 狼与香辛料 | |
+| youkai watch | 妖怪手表 | |
+| battle programmer shirase | 战争程序员白濑 | |
+| kung fu panda | 功夫熊猫 | |
+| star vs. the forces of evil | 星蝶公主 | |
+| the amazing world of gumball | 阿甘妙世界 | |
+| wakfu | 沃土 | |
+| wander over yonder | 宇宙小奇兵 | |
+| batman | 蝙蝠侠 | |
+| resident evil | 生化危机 | |
+| kim possible | 麻辣女孩 | |
+| jinrui wa suitai shimashita | 人类衰退之后 | |
+| miss machiko | 真知子老师 | |
+| gaogaigar | 勇者王 | |
+| hibike euphonium | 吹响！悠风号 | |
+| ragnarok online | 仙境传说 | |
+
+
+
