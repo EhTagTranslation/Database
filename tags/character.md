@@ -856,3 +856,5 @@
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 | |
 | kosaki onodera | 小野寺小咲 | |
 | marika tachibana | 橘万里花 | |
+| hinako shijou | 四条雏子 | |
+| yuri sakazaki | 坂崎百合 | |
