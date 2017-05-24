@@ -6,12 +6,15 @@
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
-| touhou project | ![太极](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
+| touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |
 | moetan | 萌单 | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |
 |  | ▼Key社作品 | |
-| clannad | CLANNAD | ![图](http://ul.ehgt.org/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://ul.ehgt.org/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://exhentai.org/t/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
-| angel beats | Angel Beats! | 麻枝准原创动画第一部<br>![图](http://exhentai.org/t/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg)![图](http://ul.ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg)
-| charlotte | Charlotte | 麻枝准原创动画第二部<br>![图](http://ul.ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |
+| kanon | Kanon❄ | ![图](http://ehgt.org/t/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](http://ehgt.org/t/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |
+| air | AIR🕊 | ![图](http://ehgt.org/t/3e/a7/3ea73e69f15c51281a60424f1d568c2dea2e6d43-349944-1728-1235-jpg_l.jpg) |
+| clannad | CLANNAD👪 | 团子大家族![图](http://ul.ehgt.org/83/e3/83e325c3621ac18761d34e23b1399d72d9dfda8a-578197-1139-1600-jpg_l.jpg)![图](http://ul.ehgt.org/01/d9/01d911516d467eb61e32f38e2812604f27bfb8eb-776953-1102-1600-jpg_l.jpg)![图](http://exhentai.org/t/45/7f/457fc64d7daa370f2bbb991322c6473545ff789a-453032-1124-1600-jpg_l.jpg) |
+| angel beats | Angel Beats!❤ | 麻枝准原创动画第一部<br>![图](http://exhentai.org/t/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg)![图](http://ul.ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg)
+| charlotte | Charlotte🌠 | 麻枝准原创动画第二部<br>![图](http://ul.ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |
+| little busters | Little Busters!⚾🐈 | 独自难以忍受，紧紧牵住了伙伴的手。两个人仍显孤单，与更多的伙伴手牵手围成个圈。<br />>![图](http://ehgt.org/t/f4/a6/f4a61ec5bd42e9b09ef3f66a354c6252f6963acf-135503-530-530-jpg_l.jpg)![图](http://ehgt.org/t/e6/ee/e6eee3124423f153bc01a2684910176f5281c284-109401-320-460-jpg_l.jpg) |
 |  | ▲Key社作品 | |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | ![俺妹](https://img.acg.moe/common/thumb/7/7d/Oreimo.jpg/250px-Oreimo.jpg)![图](http://exhentai.org/t/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg) |
 | toaru majutsu no index | 魔法禁书目录 | ![图](http://ul.ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |
@@ -263,7 +266,6 @@
 | urara meirochou | Urara迷路帖 | |
 | ranma 12 | 乱马½ | |
 | yosuga no sora | 缘之空 | |
-| little busters | Little Busters! | |
 | fire emblem if | 火焰之纹章if | |
 | fire emblem | 火焰之纹章 | |
 | gintama | 银魂 | |
