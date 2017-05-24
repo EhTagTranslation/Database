@@ -903,10 +903,8 @@
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 | |
 | hinako shijou | 四条雏子 | |
 | yuri sakazaki | 坂崎百合 | |
-| sage | 贤者 | |
 | michelle k. davis | 米歇尔·K·戴维斯 | |
 | chihiro ogino | 荻野千寻 | |
-| merchant | 商人 | |
 | tomoyo daidouji | 大道寺知世 | |
 | tessie | 泰茜 | 《勇者斗恶龙IV 被引导的人们》里特鲁尼克的妻子 |
 | rikka hishikawa | 菱川六花 | |
@@ -915,3 +913,5 @@
 | nami | 娜美 | |
 | tashigi | 达斯琪 | |
 | wang liu mei | 王留美 | |
+| sage | 贤者 | |
+| merchant | 商人 | |
