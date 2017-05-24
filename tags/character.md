@@ -843,3 +843,9 @@
 | kamui | 卡姆依(神威) | |
 | ikumi mito | 水戸郁魅 | |
 | sakura kinomoto | 木之本樱 | |
+| sailor moon | 月野兔 | |
+| sailor mercury | 水野亚美 | |
+| sailor mars | 火野丽 | |
+| sailor jupiter | 木野真琴 | |
+| sailor venus | 爱野美奈子 | |
+| sailor saturn | 土萌萤 | |
