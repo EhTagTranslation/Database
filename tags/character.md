@@ -937,3 +937,5 @@
 | caeda | 希妲 | 《火焰纹章：纹章之谜》游戏角色 |
 | catria | 卡秋娅 | 《火焰纹章：纹章之谜》游戏角色 |
 | fujiko mine | 峰不二子 | |
+| mirai andou | 安藤美雷 | |
+| himea saito | 赛托希梅亚 | |
