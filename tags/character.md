@@ -926,3 +926,5 @@
 | milly | 米蕾尤 | 《勇者斗恶龙怪兽篇》《勇者斗恶龙VI 幻之大地》中角色 |
 | kusuha mizuha | 水羽楠叶 | |
 | seolla schweizer | 塞奥拉·修拜亚 | |
+| chun-li | 春丽 | |
+| ryu | 隆 | |
