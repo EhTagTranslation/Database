@@ -919,3 +919,5 @@
 | wizard | 魔法师 | 《勇者斗恶龙》游戏系列角色职业之一 |
 | cleric | 僧侣 | 《勇者斗恶龙》游戏系列角色职业之一 |
 | asuka langley soryu | 惣流·明日香·兰格雷 | |
+| lucina | 露琪娜 | |
+| cynthia | 辛西娅 | |
