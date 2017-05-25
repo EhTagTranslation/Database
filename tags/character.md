@@ -890,12 +890,13 @@
 | kamui | 卡姆依(神威) | |
 | ikumi mito | 水戸郁魅 | |
 | sakura kinomoto | 木之本樱 | |
-| sailor moon | 月野兔 | |
-| sailor mercury | 水野亚美 | |
-| sailor mars | 火野丽 | |
-| sailor jupiter | 木野真琴 | |
-| sailor venus | 爱野美奈子 | |
-| sailor saturn | 土萌萤 | |
+| sailor moon | 水手月亮 | |
+| sailor mercury | 水手水星 | |
+| sailor mars | 水手火星 | |
+| sailor jupiter | 水手木星 | |
+| sailor venus | 水手金星 | |
+| sailor saturn | 水手土星 | |
+| sailor pluto | 水手冥王星 | |
 | android 18 | 人造人18号 | |
 | videl | 比迪丽 | |
 | angela | 安吉拉 | 圣剑传说3角色 |
@@ -928,3 +929,5 @@
 | seolla schweizer | 塞奥拉·修拜亚 | |
 | chun-li | 春丽 | |
 | ryu | 隆 | |
+| hotaru tomoe | 土萌萤 | |
+
