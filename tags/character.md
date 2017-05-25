@@ -939,3 +939,6 @@
 | fujiko mine | 峰不二子 | |
 | mirai andou | 安藤美雷 | |
 | himea saito | 赛托希梅亚 | |
+| fuu hououji | 凤凰寺风 | |
+| hikaru shindo | 狮堂光 | |
+| umi ryuuzaki | 龙崎海 | |
