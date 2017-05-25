@@ -923,3 +923,4 @@
 | cynthia | 辛西娅 | |
 | hikari horaki | 洞木光 | |
 | rei ayanami | 绫波丽 | |
+| milly | 米蕾尤 | 《勇者斗恶龙怪兽篇》《勇者斗恶龙VI 幻之大地》中角色 |
