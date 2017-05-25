@@ -931,3 +931,4 @@
 | ryu | 隆 | |
 | hotaru tomoe | 土萌萤 | |
 | tiki | 芝琪 | 《火焰纹章：纹章之谜》游戏角色 |
+| fujiko mine | 峰不二子 | |
