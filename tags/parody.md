@@ -497,5 +497,6 @@
 | kyoukai senjou no horizon | 境界线上的地平线 | |
 | rwby | RWBY | |
 | fire emblem awakening | 火焰纹章：觉醒 | |
+| fire emblem mystery of the emblem | 火焰纹章：纹章之谜 | |
 
 
