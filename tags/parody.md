@@ -269,8 +269,19 @@
 | urara meirochou | Urara迷路帖 | |
 | ranma 12 | 乱马½ | |
 | yosuga no sora | 缘之空 | |
-| fire emblem if | 火焰之纹章if | |
+|  | ▼火焰之纹章 系列 | |
+| fire emblem if | 火焰之纹章 if | |
 | fire emblem | 火焰之纹章 | |
+| fire emblem awakening | 火焰之纹章 觉醒 | |
+| fire emblem gaiden | 火焰之纹章外传 | |
+| fire emblem seisen no keifu | 火焰之纹章 圣战之系谱 | |
+| fire emblem thracia 776 | 火焰之纹章 多拉基亚776 | |
+| fire emblem fuuin no tsurugi | 火焰之纹章 封印之剑 | |
+| fire emblem rekka no ken | 火焰之纹章 烈火之剑 | |
+| fire emblem the sacred stones | 火焰之纹章 圣魔之光石 | |
+| fire emblem path of radiance | 火焰之纹章 苍炎之轨迹 | |
+| fire emblem radiant dawn | 火焰之纹章 晓之女神 | |
+| fire emblem mystery of the emblem | 火焰之纹章 纹章之谜 | |
 | gintama | 银魂 | |
 | panty and stocking with garterbelt | 吊带袜天使 | |
 |  | ▼假面骑士 系列 | |
@@ -496,7 +507,5 @@
 | anyamaru tantei kiruminzoo | 动物侦探奇鲁米 | |
 | kyoukai senjou no horizon | 境界线上的地平线 | |
 | rwby | RWBY | |
-| fire emblem awakening | 火焰纹章：觉醒 | |
-| fire emblem mystery of the emblem | 火焰纹章：纹章之谜 | |
-| fire emblem awakening | 鲁邦三世 | |
+| lupin iii | 鲁邦三世 | |
 
