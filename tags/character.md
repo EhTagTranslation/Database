@@ -87,6 +87,7 @@
 | parsee mizuhashi | 水桥帕露西 | |
 | renko usami | 宇佐见莲子 | |
 | utsuho reiuji | 灵乌路空 | |
+| hatate himekaidou | 姬海棠果 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
@@ -175,7 +176,7 @@
 | noshiro | 能代 | No.138 能代![能代](# "http://exhentai.org/t/f8/d8/f8d84ea1411bbe9a6dac11849ce345b7004a83bb-731702-1759-2500-jpg_250.jpg") |
 | yahagi | 矢矧 | No.139 矢矧![矢矧](# "http://exhentai.org/t/6b/a8/6ba8de26eec57498324b02af80d0549ca749e0a0-1102882-1423-2000-jpg_250.jpg") |
 | musashi | 武藏 | No.143 武藏![武藏](# "http://exhentai.org/t/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg") |
-| verniy | Верный(响改二) | No.147 Верный![Верный](# "http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") |
+| verniy | 响改二（Верный） | No.147 Верный![Верный](# "http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") |
 | taihou | 大凤 | No.153 大凤![大凤](# "http://exhentai.org/t/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg") |
 | katori | 香取 | No.154 香取![香取](# "http://exhentai.org/t/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg") |
 | i-401 | 伊401 | No.155 伊401![伊401](# "http://exhentai.org/t/93/e6/93e601e4d66076f9d8e2a1e8e54686f1c9acdac5-524664-1410-2024-jpg_250.jpg") |
@@ -196,7 +197,7 @@
 | ro-500 | 吕500 | No.236 吕500![吕500](# "http://exhentai.org/t/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg") |
 | kashima | 鹿岛 | No.265 鹿岛讲真，最近多了好多鹿岛的本子![鹿岛](# "http://exhentai.org/t/6d/96/6d968544e64c6a58bb2ead9656c7366a4a048dc9-2170967-1410-2024-jpg_250.jpg") |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
-| wo-class | ヲ级(wo酱) | ![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
+| wo-class | ヲ级（wo酱） | ![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | producer | 制作人 | |
@@ -887,7 +888,7 @@
 | zhang chunhua | 张春华 | |
 | zhuge liang | 诸葛亮 | |
 | ranma saotome | 早乙女乱马 | |
-| kamui | 卡姆依(神威) | |
+| kamui | 卡姆依（神威） | |
 | ikumi mito | 水戸郁魅 | |
 | sakura kinomoto | 木之本樱 | |
 | sailor moon | 水手月亮 | |
