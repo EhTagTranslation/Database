@@ -496,5 +496,6 @@
 | anyamaru tantei kiruminzoo | 动物侦探奇鲁米 | |
 | kyoukai senjou no horizon | 境界线上的地平线 | |
 | rwby | RWBY | |
+| fire emblem awakening | 火焰纹章：觉醒 | |
 
 
