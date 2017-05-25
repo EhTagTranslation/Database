@@ -498,5 +498,5 @@
 | rwby | RWBY | |
 | fire emblem awakening | 火焰纹章：觉醒 | |
 | fire emblem mystery of the emblem | 火焰纹章：纹章之谜 | |
-
+| fire emblem awakening | 鲁邦三世 | |
 
