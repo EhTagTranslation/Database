@@ -921,3 +921,5 @@
 | asuka langley soryu | 惣流·明日香·兰格雷 | |
 | lucina | 露琪娜 | |
 | cynthia | 辛西娅 | |
+| hikari horaki | 洞木光 | |
+| rei ayanami | 绫波丽 | |
