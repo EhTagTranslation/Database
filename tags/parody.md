@@ -508,4 +508,14 @@
 | kyoukai senjou no horizon | 境界线上的地平线 | |
 | rwby | RWBY | |
 | lupin iii | 鲁邦三世 | |
+| ensemble stars | 偶像梦幻祭 | |
+| ajin | 亚人 | |
+| kingdom hearts | 王国之心 | |
+| tobaku haouden zero | 赌博霸王传 零 | |
+| kannazuki no miko | 神无月的巫女 | |
+| haikyuu | 排球少年!! | |
+| free | Free! 男子游泳部 | |
+
+
+
 
