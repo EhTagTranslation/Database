@@ -518,4 +518,16 @@
 | itsuka tenma no kuro usagi | 曾几何时天魔的黑兔 | |
 | magic knight rayearth | 魔法骑士雷亚斯 | |
 | kochikame | 这里是葛饰区龟有公园前派出所 | |
-
+| bakusou kyoudai lets and go | 四驱兄弟 | |
+| the powerpuff girls | 飞天小女警 | |
+| powerpuff girls z | 飞天小女警Z | |
+| omoikkiri kagaku adventure sou nanda | 充满干劲十足的科学冒险—神秘智慧石 | |
+| wedding peach | 爱天使传说 婚纱桃子 | |
+| fushigiboshi no futagohime | 不可思议星球的☆双胞胎公主 | |
+| aquarion | 创圣的亚库艾里翁 | |
+| aquarion logos | 创圣的亚库艾里翁LOGOS | |
+| aquarion evol | 创圣的亚库艾里翁EVOL | |
+| welcome to the n.h.k. | 欢迎加入NHK！ | |
+| sakurako-san no ashimoto ni wa shitai ga umatteiru | 樱子小姐的脚下埋着尸体 | |
+| shimoneta to iu gainen ga sonzai shinai taikutsu na sekai | 下流梗不存在的灰暗世界 | |
+| kyonyuu fantasy | 巨乳幻想 | |
