@@ -5,6 +5,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
+| leo | 丽王 \| 利昂 | ![](http://ehgt.org/t/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br>火焰纹章if 角色 |
 | haruna | 榛名 \| 春奈 | No.023 榛名![榛名](# "http://exhentai.org/t/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br>春奈是轻小说《这个是僵尸吗？》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") |
 | chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) <br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295|
 | murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
@@ -650,7 +651,7 @@
 | kochou | 胡蝶 | ![](http://ehgt.org/t/86/d4/86d4979a905323d0b56008df91c5b5a1e4b0df99-47932-384-480-jpg_l.jpg) |
 | kumi | 九魅 | ![](http://ehgt.org/t/fe/18/fe189dc9a41cb15f15def22a1419745234b85ad5-47639-384-480-jpg_l.jpg) |
 | kuroudo | 藏人 | ![](http://ehgt.org/t/e9/f6/e9f669c7e1af68aed41e12562504acd6692abecb-329592-382-479-png_l.jpg) |
-| leo | 丽王 | ![](http://ehgt.org/t/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg) |
+| | 丽王 | ![](http://ehgt.org/t/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg) |
 | mai | 舞 | ![](http://ehgt.org/t/02/26/0226a1d840aa4dcecd422510ca53c8aad2411367-41642-384-480-jpg_l.jpg) |
 | meimei | 美莓 | ![](http://ehgt.org/t/08/48/08484374879a66e75c43c4ab219b9674595f4876-38199-240-300-gif_l.jpg) |
 | minori | 美野里 | ![](http://ehgt.org/t/22/13/2213f193ac1fea2e07ca36f22814b171d39b50dd-288648-390-480-png_l.jpg) |
