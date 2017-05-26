@@ -950,3 +950,4 @@
 | hibiki houjou | 北条响 | |
 | kanade minamino | 南野奏 | |
 | misora minamino | 南野美空 | |
+| iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 |
