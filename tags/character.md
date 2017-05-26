@@ -951,3 +951,6 @@
 | kanade minamino | 南野奏 | |
 | misora minamino | 南野美空 | |
 | iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 |
+| arle nadja | 阿露露 | 《魔导物语》登场角色 |
+| rider | 龙女 | 《魔导物语》登场角色 |
+
