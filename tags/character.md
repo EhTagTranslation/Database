@@ -947,3 +947,6 @@
 | hina | 日奈 | |
 | matoi giboshi | 拟宝珠缠 | |
 | lemon giboshi | 拟宝珠柠檬 | |
+| hibiki houjou | 北条响 | |
+| kanade minamino | 南野奏 | |
+| misora minamino | 南野美空 | |
