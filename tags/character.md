@@ -945,3 +945,5 @@
 | ai asato | 麻里爱 | |
 | reiko katherine akimoto | 秋本丽子 | |
 | hina | 日奈 | |
+| matoi giboshi | 拟宝珠缠 | |
+| lemon giboshi | 拟宝珠柠檬 | |
