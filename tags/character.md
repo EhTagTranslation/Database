@@ -953,4 +953,6 @@
 | iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 |
 | arle nadja | 阿露露 | 《魔导物语》登场角色 |
 | rider | 龙女 | 《魔导物语》登场角色 |
-
+| tifa lockhart | 蒂法·洛克哈特 | |
+| aerith gainsborough | 艾瑞丝·盖恩斯巴勒 | |
+| yuffie kisaragi | 尤菲·如月 | |
