@@ -200,6 +200,7 @@
 | dragon quest x | 勇者斗恶龙X 觉醒的五种族 Online | |
 | dragon quest dai no daibouken | 勇者斗恶龙 达尔大冒险 | |
 | dragon quest monsters | 勇者斗恶龙怪兽篇 | |
+| dragon quest yuusha abel densetsu | 勇者斗恶龙 勇者阿贝尔传说 | |
 |  | ▲勇者斗恶龙 系列 | |
 | left 4 dead | 求生之路 | |
 | bloodrayne | 吸血莱恩 |  |
@@ -531,4 +532,3 @@
 | sakurako-san no ashimoto ni wa shitai ga umatteiru | 樱子小姐的脚下埋着尸体 | |
 | shimoneta to iu gainen ga sonzai shinai taikutsu na sekai | 下流梗不存在的灰暗世界 | |
 | kyonyuu fantasy | 巨乳幻想 | |
-| dragon quest yuusha abel densetsu | 勇者斗恶龙-勇者阿贝尔传说 | |
