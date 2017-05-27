@@ -962,3 +962,6 @@
 | tsubomi hanasaki | 花咲蕾 | |
 | cure moonlight | 月光天使 | |
 | dark precure | 暗之美少女 | |
+| fumie hashimoto | 桥本文惠 | |
+| yuuko amasawa | 天泽勇子 | |
+| yuuko okonogi | 小此木京子 | |
