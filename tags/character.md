@@ -965,3 +965,6 @@
 | fumie hashimoto | 桥本文惠 | |
 | yuuko amasawa | 天泽勇子 | |
 | yuuko okonogi | 小此木京子 | |
+| elphelt valentine | 艾露菲鲁特 ‧ 华伦泰 | |
+| jam kuradoberi | 藏土缘纱梦 | |
+| ramlethal valentine | 拉姆蕾萨尔 ‧ 华伦泰 | |
