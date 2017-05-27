@@ -775,6 +775,7 @@
 | agiri goshiki | 吴织亚切 | |
 | sonya | 索妮娅 | |
 | yasuna oribe | 折部安奈 | |
+| kyara botsu | 无名子 | |
 | | ▼侵略！乌贼娘 角色 | |
 | ika musume | 乌贼娘 | |
 | ayumi tokita | 常田鲇美 | |
