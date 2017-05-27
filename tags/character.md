@@ -198,8 +198,16 @@
 | ro-500 | 吕500 | No.236 吕500![吕500](# "http://exhentai.org/t/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg") |
 | kashima | 鹿岛 | No.265 鹿岛讲真，最近多了好多鹿岛的本子![鹿岛](# "http://exhentai.org/t/6d/96/6d968544e64c6a58bb2ead9656c7366a4a048dc9-2170967-1410-2024-jpg_250.jpg") |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg)![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
+| re-class | 战舰レ级 | |
 | wo-class | 空母ヲ级 | wo酱![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
+| so-class | 潜水ソ级 | |
+| aircraft carrier oni | 空母栖鬼 | |
+| battleship-symbiotic hime | 战舰栖姬 | |
+| supply depot princess | 集积地栖姬 | |
 | seaport hime | 港湾栖姬 | |
+| midway hime | 中间栖姬 | |
+| airfield hime | 飞行场姬 | |
+| soukou kuuboki | 装甲空母鬼 | |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | |
 | producer | 制作人 | |
