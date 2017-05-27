@@ -968,5 +968,9 @@
 | elphelt valentine | 艾露菲鲁特 ‧ 华伦泰 | |
 | jam kuradoberi | 藏土缘纱梦 | |
 | ramlethal valentine | 拉姆蕾萨尔 ‧ 华伦泰 | |
-| kirara amanogawa | 天之川绮罗 | |
 | alisa ilinichina amiella | 亚莉莎·伊莉妮提娜·阿米耶拉 | |
+| cure flora | 花神天使 | |
+| cure mermaid | 人鱼天使 | |
+| cure twinkle | 闪亮天使 | |
+| haruka haruno | 春野遥 | |
+| kirara amanogawa | 天之川绮罗 | |
