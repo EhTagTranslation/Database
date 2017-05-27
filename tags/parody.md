@@ -537,4 +537,5 @@
 | kaku-san-sei million arthur | 扩散性百万亚瑟王 | |
 | genji tsuushin agedama | 电脑小奇侠 | |
 | dennou coil | 电脑线圈 | |
+| god eater | 噬神者 | |
 
