@@ -548,4 +548,5 @@
 | tokimeki memorial | 心跳回忆 | |
 | future card buddyfight | 未来卡 搭档对战 | |
 | fun fun pharmacy | 不可思议魔法药店 | |
-
+| aiura | 校园日记 AIURA | |
+| gokujou seitokai | 极上学生会 | |
