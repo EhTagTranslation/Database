@@ -536,4 +536,5 @@
 | madou monogatari | 魔导物语 | |
 | kaku-san-sei million arthur | 扩散性百万亚瑟王 | |
 | genji tsuushin agedama | 电脑小奇侠 | |
+| dennou coil | 电脑线圈 | |
 
