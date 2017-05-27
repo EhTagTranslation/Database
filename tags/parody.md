@@ -538,4 +538,9 @@
 | genji tsuushin agedama | 电脑小奇侠 | |
 | dennou coil | 电脑线圈 | |
 | god eater | 噬神者 | |
+| demi-chan wa kataritai | 亚人酱有话要说 | |
+| akazukin cha cha | 小红帽恰恰 | |
+| idol janshi suchie-pai | 美少女雀士 | |
+| twin angels | 淫兽圣战 | |
+| shadow lady | 月光淑女 | |
 
