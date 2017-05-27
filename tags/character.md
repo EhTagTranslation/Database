@@ -956,3 +956,9 @@
 | tifa lockhart | 蒂法·洛克哈特 | |
 | aerith gainsborough | 艾瑞丝·盖恩斯巴勒 | |
 | yuffie kisaragi | 尤菲·如月 | |
+| cure blossom | 花蕾天使 | |
+| cure marine | 海洋天使 | |
+| erika kurumi | 来海绘里香 | |
+| tsubomi hanasaki | 花咲蕾 | |
+| cure moonlight | 月光天使 | |
+| dark precure | 暗之美少女 | |
