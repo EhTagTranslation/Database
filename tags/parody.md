@@ -543,4 +543,9 @@
 | idol janshi suchie-pai | 美少女雀士 | |
 | twin angels | 淫兽圣战 | |
 | shadow lady | 月光淑女 | |
+| oboro muramasa | 胧村正 | |
+| zettai bouei leviathan | 绝对防卫利维坦 | |
+| tokimeki memorial | 心跳回忆 | |
+| future card buddyfight | 未来卡 搭档对战 | |
+| fun fun pharmacy | 不可思议魔法药店 | |
 
