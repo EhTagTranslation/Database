@@ -1005,3 +1005,4 @@
 | naoto shirogane | 白钟直斗 | |
 | hajime ichinose | 一之濑初 | |
 | illyasviel von einzbern | 伊莉雅斯菲尔·冯·爱因兹贝伦 | |
+| yukari akiyama | 秋山优花里 | |
