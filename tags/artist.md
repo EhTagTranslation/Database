@@ -20,7 +20,7 @@
 | peko | ぺこ | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](http://ul.ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) |
 | akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>貌似也是袜控，和大嘘风格不一样<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) |
 | ishikei | 石惠 | ![石惠头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ymxa507xj205k05kjrm.jpg)<br>浓墨厚涂榨汁机<br>![石惠作品](http://exhentai.org/t/38/39/3839a8f9171d1c67415b50c99333d553be404083-1416172-2000-2837-jpg_250.jpg) |
-| endou hiroto | 遠藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>浓墨厚涂榨汁机2<br>![遠藤弘土作品](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_250.jpg) |
+| endou hiroto | 远藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>浓墨厚涂榨汁机2<br>![遠藤弘土作品](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_250.jpg) |
 | happoubi jin | 八宝備仁 | 八宝备仁(はっぽうび じん) <br> ![骨感瘦弱却又是榨汁机](http://ul.ehgt.org/3e/1b/3e1b7e0a6b943bf2f1fd28cba702c916ee0337b3-396466-500-715-jpg_250.jpg) |
 | fujisaki hikari | 藤崎ひかり | ![藤崎ひかり头像](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3twnlde9zj203v04qq2s.jpg)<br>萝莉！萝莉！萝莉~<br>![藤崎ひかり作品1](http://exhentai.org/t/5c/2e/5c2ee1fc8286fdedcc0dfb02ce87036f7cf44458-762853-1400-2000-jpg_250.jpg)![藤崎ひかり作品2](http://exhentai.org/t/ab/b4/abb41c372777cf356e3d179d8790bf69997f034b-739317-1402-2000-jpg_250.jpg) |
 | ichiri | イチリ | ![ichiri头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3twtubhxsj204q04q74k.jpg)<br>萝莉！萝莉！萝莉~<br>![ichiri作品](http://exhentai.org/t/f0/52/f05278b999d0ff679d929e609cb3487d2a9e6eed-701458-2100-3004-jpg_250.jpg) |
@@ -34,14 +34,14 @@
 | sayori | Sayori | ![SA姐头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ciho6cpg204q04qjyu.gif)<br>sayori（さより），SA姐是女性的原画家和插图画家，湖南出身，现居于日本，现为游戏公司美工。同人活动多以「NEKO WORKs」名义参加。有许多画集，大多为东方project同人系列，和自己原创的猫耳萝莉neko para系列。<br>![作品](http://ul.ehgt.org/71/e1/71e137218b7b6e79a5f60184487ffc4134774c97-3795446-3500-2485-jpg_l.jpg)![作品](http://ul.ehgt.org/86/3e/863ea4179d24f3a6f4fa9e74a95b86b88df3494c-3422011-3482-2492-jpg_l.jpg) |
 | ideolo | ideolo | ![ideolo头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ci9uy9rj204l04q0ss.jpg)<br>国人绘师ideolo，原籍上海，现于日本留学中。他在中日两国同人圈内都拥有相当人气，插画题材以东方PROJECT系列居多，曾多次为博丽神社例大祭等日本同人活动绘制公式绘。<br>![作品](http://ul.ehgt.org/59/2e/592e882202682d26601ffac477533747ec9e2d75-3563646-2544-3641-jpg_l.jpg)![作品](http://ul.ehgt.org/ca/18/ca18e275980c19ef7348fa1991900ea6fbf2eb7d-3580334-3635-2560-jpg_l.jpg) |
 | | ▲这就是爱 | |
-| miyahara ayumu | 宮原歩 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
+| miyahara ayumu | 宫原步 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7435/26480152744_01cfe2495a_q.jpg) |
 | narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) |
 | akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと作品](https://farm8.staticflickr.com/7741/26990957842_e6fbd157af_m.jpg) |
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |
 | ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |
 | yamada no seikatu ga daiichi | 山田の性活が第一 | |
-| asamura hiori | 朝叢志描 |  |
+| asamura hiori | 朝丛志描 |  |
 | matsukawa | 松河 |  |
 | mmm | えむ |  |
 | facominn | Facominn |  |
@@ -52,8 +52,8 @@
 | ranyues | 仴 |  |
 | horonamin | ホロナミン |  |
 | chiyami | ちやみ |  |
-| hanahanamaki | 花花捲 | |
-| sousouman | 草草饅 | |
+| hanahanamaki | 花花卷 | |
+| sousouman | 草草馒 | |
 | muk | MUK | |
 | ore p 1-gou | 俺P1号 | |
 | menyoujan | めんようじゃん | |
@@ -61,7 +61,7 @@
 | watsuki rumi | わつきるみ | |
 | soramoti | そらモチ | |
 | blastbeat | BLASTBEAT | |
-| takashina at masato | 高階@聖人 | |
+| takashina at masato | 高阶@圣人 | |
 | shibayuki | しばゆき | |
 | newmen | NeWMeN | |
 | miyasaka miyu | 宮坂みゆ | |
@@ -74,3 +74,13 @@
 | marushin | 丸新 | |
 | amamiya mizuki | 雨宮ミズキ | |
 | mibu natsuki | みぶなつき | |
+| ogata zen | 尾形全 | |
+| himura kiseki | 比村奇石 | |
+| cle masahiro | 呉マサヒロ | |
+| nakajima yuka | なかじまゆか | |
+| fujima takuya | 藤真拓哉 | |
+| hisasi | Hisasi | |
+| akizora momidi | 秋空もみぢ | |
+| yuunagi sesina | 夕凪セシナ | |
+| ippongui | 一本杭 | |
+| sekine hajime | 咳寝はじめ | |
