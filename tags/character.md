@@ -1002,3 +1002,4 @@
 | lara croft | 劳拉·克罗夫特 | |
 | rin tosaka | 远坂凛 | |
 | saber | Saber | |
+| naoto shirogane | 白钟直斗 | |
