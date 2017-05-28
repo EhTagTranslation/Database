@@ -700,6 +700,20 @@
 | kobayashi-san | 小林 | ![小林](http://ehgt.org/t/78/c8/78c831f1bdfe841cffac1f136fb58e1d9e496dfe-1490811-2180-3060-png_l.jpg) |
 | shouta magatsuchi | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) |
 | riko saikawa | 才川莉子 | |
+| | ▼星期一的丰满 角色 | |
+| ai-chan | 小爱 | |
+| kouhai-chan | 后辈 | |
+| | ▼变态王子与不笑猫 角色 | |
+| azusa azuki | 小豆梓 | |
+| youto yokodera | 横寺阳人 | |
+| tsukiko tsutsukakushi | 筒隐月子 | |
+| tsukushi tsutsukakushi | 筒隐筑紫 | |
+| mai maimaki | 舞牧麻衣 | |
+| emanuella porlallora | 艾米（艾玛努艾勒·波鲁勒劳拉） | |
+| | ▼粗点心战争 角色 | |
+| hotaru shidare | 枝垂萤 | |
+| kokonotsu shikada | 鹿田九 | |
+| saya endou | 远藤彩 | |
 | | ▼NEW GAME! 角色 | |
 | aoba suzukaze | 凉风青叶 | ![凉风青叶](http://ehgt.org/t/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) |
 | hifumi takimoto | 泷本日富美 | ![泷本日富美](http://ehgt.org/t/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg) |
