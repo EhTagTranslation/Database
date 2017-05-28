@@ -551,3 +551,4 @@
 | aiura | 校园日记 AIURA | |
 | gokujou seitokai | 极上学生会 | |
 | show by rock | Show By Rock!! | |
+| star fox | 星际火狐 | |
