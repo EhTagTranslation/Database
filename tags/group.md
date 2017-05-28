@@ -18,6 +18,41 @@
 | mousou deguchi | 妄想出口 | |
 | venom | VENOM | |
 | tsuchinoko kyoukai | ツシノコ協会 | |
+| sekine | 咳寝 | |
+| ippongui | 一本杭 | |
+| aomidoro | アオミドロ | |
+| otukimi koubo | おつきみ工房 | |
+| monsieur | MonsieuR | |
+| orange peels | オレンジピールズ | |
+| wata 120 percent | 綿120パーセント | |
+| watsukiya | わつき屋 | |
+| sotikoti | ソチコチ | |
+| 320bpm | 320BPM | |
+| intoku.info | いんとくいんふぉ | |
+| 47sp | 47sp. | |
+| shibayukiya | 芝雪屋 | |
+| news | NEWS | |
+| shimajiya | しまじや | |
+| canvas garden | CANVAS+GARDEN | |
+| mc | MC | |
+| animachine | アニマルマシーン | |
+| ailail | あいるあいる | |
+| moe hime rengou | 萌姬连合 | |
+| digital lover | Digital Lover | |
+| mone keshi gum | MONEけしごむ | |
+| nama cream biyori | 生クリームびより | |
+| clesta | クレスタ | |
+| onasuga 99-yen | おナスが99円 | |
+| karomix | KAROMIX | |
+| shoot the moon | シュート・ザ・ムーン | |
+| kansai gyogyou kyoudou kumiai | 关西渔业协同组合 | |
+| rainwaterserver | RainWaterServer | |
+| lily lily rose | Lily Lily Rose | |
+| himura nyuugyou | 比村乳业 | |
+| raijinkai | 雷神会 | |
+| miyamaya | 深山屋 | |
+| onna kishi no shiro | 女騎士の城 | |
+| yonsai books | 四才ブックス | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg) |
@@ -35,3 +70,5 @@
 | | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
 | dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 |
+| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 |
+| sex syndrome | Sex Syndrome | |
