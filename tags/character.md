@@ -1000,3 +1000,5 @@
 | haruka haruno | 春野遥 | |
 | kirara amanogawa | 天之川绮罗 | |
 | lara croft | 劳拉·克罗夫特 | |
+| rin tosaka | 远坂凛 | |
+| saber | Saber | |
