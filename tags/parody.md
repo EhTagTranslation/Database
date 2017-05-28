@@ -552,3 +552,12 @@
 | gokujou seitokai | 极上学生会 | |
 | show by rock | Show By Rock!! | |
 | star fox | 星际火狐 | |
+| white album | 白色相簿❄ | |
+| tenchi muyo | 天地无用！ | |
+| variable geo | 格斗女神 | 姬武神传说 |
+| ashita no nadja | 明日的娜嘉 | |
+| goldfish warning | 魔力小金鱼 | |
+| mazinger z | 铁甲万能侠 | 万能侠Z |
+| magi the labyrinth of magic | 魔笛MAGI | MAGI魔奇少年、天方魔谭MAGI |
+| ultraman | 奥特曼 | |
+
