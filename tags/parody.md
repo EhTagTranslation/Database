@@ -550,3 +550,4 @@
 | fun fun pharmacy | 不可思议魔法药店 | |
 | aiura | 校园日记 AIURA | |
 | gokujou seitokai | 极上学生会 | |
+| show by rock | Show By Rock!! | |
