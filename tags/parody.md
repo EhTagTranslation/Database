@@ -583,7 +583,7 @@
 | tsukihime | 月姬 | |
 | yoake mae yori ruriiro na | 更胜黎明前的琉璃色 | |
 | fortune arterial | FORTUNE ARTERIAL | |
-| princess holiday | 公主假日 ~回转苹果亭的一千零一夜~ | |
+| princess holiday | 公主假日 \~回转苹果亭的一千零一夜\~ | |
 | tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |
 | daitoshokan no hitsujikai | 大图书馆的牧羊人 | |
 | aiyoku no eustia | 秽翼的尤斯蒂娅 | |
