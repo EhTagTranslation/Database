@@ -832,8 +832,6 @@
 | yasuko takasu | 高须泰子 | |
 | maya kihara | 木原麻耶 | |
 | nanako kashii | 香椎奈奈子 | |
-| sakura kano | 狩野樱 | |
-| sumire kano | 狩野堇 | |
 | yuri koigakubo | 恋洼百合 | |
 | yuusaku kitamura | 北村佑作 | |
 | | ▼就算是哥哥，有爱就没问题了，对吧 角色 | |
