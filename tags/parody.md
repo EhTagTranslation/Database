@@ -560,4 +560,13 @@
 | mazinger z | 铁甲万能侠 | 万能侠Z |
 | magi the labyrinth of magic | 魔笛MAGI | MAGI魔奇少年、天方魔谭MAGI |
 | ultraman | 奥特曼 | |
+| we bare bears | 咱们裸熊 | |
+| gravity falls | 怪诞小镇 | |
+| karakai jouzu no takagi-san | 擅长捉弄人的高木同学 | |
+| goshogun | 战国魔神豪将军 | |
+| plawres sanshiro | 无敌三四郎 | |
+| hime-chans ribbon | 缎带魔法少女 | 百变小姬子 |
+| taimanin yukikaze | 对魔忍雪风 |
+| taimanin asagi | 对魔忍阿莎姬 |
+| kick-ass | 海扁王 | |
 
