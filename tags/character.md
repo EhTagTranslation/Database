@@ -1008,3 +1008,4 @@
 | yukari akiyama | 秋山优花里 | |
 | hitagi senjougahara | 战场原黑仪 | |
 | tsubasa hanekawa | 羽川翼 | |
+| narmaya | 暗牛 | |
