@@ -584,5 +584,6 @@
 | tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |
 | daitoshokan no hitsujikai | 大图书馆的牧羊人 | |
 | aiyoku no eustia | 秽翼的尤斯蒂娅 | |
-
+| rokka no yuusha | 六花的勇者 | |
+| seiren | 清恋 | |
 
