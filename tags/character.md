@@ -898,6 +898,18 @@
 | lucia | 露琪亚 | |
 | agnese sanctis | 雅妮丝·桑提斯 | |
 | angelene | 安洁莉娜 | |
+| | ▼笨蛋测验召唤兽 | |
+| akihisa yoshii | 吉井明久 | |
+| akira yoshii | 吉井玲 | |
+| hideyoshi kinoshita | 木下秀吉 | |
+| yuuko kinoshita | 木下优子 | |
+| mizuki himeji | 姬路瑞希 | |
+| minami shimada | 岛田美波 | |
+| hazuki shimada | 岛田叶月 | |
+| yuuji sakamoto | 坂本雄二 | |
+| shouko kirishima | 雾岛翔子 | |
+| aiko kudou | 工藤爱子 | |
+| miharu shimizu | 清水美春 | |
 | | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
