@@ -824,6 +824,18 @@
 | nanami aoyama | 青山七海 | |
 | misaki kamiigusa | 上井草美咲 | |
 | chihiro sengoku | 千石千寻 | |
+| | ▼龙与虎 角色 | |
+| ryuuji takasu | 高须龙儿 | |
+| taiga aisaka | 逢坂大河 | |
+| minori kushieda | 栉枝实乃梨 | |
+| ami kawashima | 川岛亚美 | |
+| yasuko takasu | 高须泰子 | |
+| maya kihara | 木原麻耶 | |
+| nanako kashii | 香椎奈奈子 | |
+| sakura kano | 狩野樱 | |
+| sumire kano | 狩野堇 | |
+| yuri koigakubo | 恋洼百合 | |
+| yuusaku kitamura | 北村佑作 | |
 | | ▼就算是哥哥，有爱就没问题了，对吧 角色 | |
 | akito himenokouji | 姬小路秋人 | |
 | akiko himenokouji | 姬小路秋子 | |
