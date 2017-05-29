@@ -569,4 +569,20 @@
 | taimanin yukikaze | 对魔忍雪风 |
 | taimanin asagi | 对魔忍阿莎姬 |
 | kick-ass | 海扁王 | |
+| gad guard | 钢铁守护者 | |
+| tears to tiara | 提亚拉之泪 | |
+| december when there is no angel | 天使不在的12月 | |
+| comic party | 漫画同人会 | 漫画派对 |
+| kizuato | 痕 | |
+| sentimental graffiti | 青涩宝贝 | |
+| bleach | 死神 | |
+| hayate no gotoku | 旋风管家 | |
+| tsukihime | 月姬 | |
+| yoake mae yori ruriiro na | 更胜黎明前的琉璃色 | |
+| fortune arterial | FORTUNE ARTERIAL | |
+| princess holiday | 公主假日 ~回转苹果亭的一千零一夜~ | |
+| tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |
+| daitoshokan no hitsujikai | 大图书馆的牧羊人 | |
+| aiyoku no eustia | 秽翼的尤斯蒂娅 | |
+
 
