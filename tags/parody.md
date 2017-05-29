@@ -205,13 +205,16 @@
 | left 4 dead | 求生之路 | |
 | bloodrayne | 吸血莱恩 |  |
 | star wars | 星球大战 |  |
-|  | ▼女神异闻录 系列 | |
+|  | ▼女神转生 系列 | |
+| shin megami tensei | 真·女神转生 | |
+| shin megami tensei devil children | 真·女神转生 恶魔之子 | |
+| devil survivor | 女神异闻录 恶魔幸存者 | |
 | persona | 女神异闻录 |  |
 | persona 2 | 女神异闻录2 |  |
 | persona 3 | 女神异闻录3 |  |
 | persona 4 | 女神异闻录4 |  |
 | persona 5 | 女神异闻录5 |  |
-|  | ▲女神异闻录 系列 | |
+|  | ▲女神转生 系列 | |
 | monsters inc. | 怪兽电力公司 | |
 | hai to gensou no grimgar | 灰与幻想的格林姆迦尔 | |
 | pretty rhythm | 美妙旋律 |  |
@@ -586,4 +589,12 @@
 | aiyoku no eustia | 秽翼的尤斯蒂娅 | |
 | rokka no yuusha | 六花的勇者 | |
 | seiren | 清恋 | |
+| oniisama e... | 亲亲天使心 | 青涩花园、少女梦、给哥哥的一封信 |
+| long riders | 长骑美眉 | |
+| flower knight girl | 美少女花骑士 | 《美少女花骑士》（FLOWER KNIGHT GIRL、日语：フラワーナイトガール）是由Your Games开发，DMM.com运营的美少女战略卡牌类网页游戏。 |
+| mitsudomoe | 超元气三姐妹 | |
+| no-rin | 农林 | |
+| space battleship yamato | 宇宙战舰大和号 | |
+| utawarerumono | 传颂之物 | |
+| highschool dxd | 恶魔高校D×D | |
 
