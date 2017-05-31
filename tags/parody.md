@@ -470,6 +470,7 @@
 | super robot wars | 超级机器人大战 | |
 | kishin douji zenki | 鬼神童子 | |
 | muv-luv | Muv-Luv | |
+| muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse | |
 | dangaioh | 破邪大星弹劾皇 | |
 | 3x3 eyes | 三只眼 | |
 | bakuretsu hunters | 爆走猎人 | |
@@ -602,3 +603,8 @@
 | m.u.g.e.n | MUGEN | |
 | summon night | 召唤之夜 | 召唤夜响曲 |
 | mai-hime | 舞-HiME | |
+| hyouka | 冰菓 | |
+| ookami-san to shichinin no nakama-tachi | 大神与七位伙伴 | 大神与七位伙伴，又译野狼大神（日语：オオカミさんと七人の仲間たち）是冲田雅轻小说作品《大神与…系列》的第一部，并有动画等衍生作品。 |
+| kikou shoujo wa kizutsukanai | 机巧少女不会受伤 | |
+| its not my fault that im not popular | 我不受欢迎，怎么想都是你们的错！ | 《我不受欢迎，怎么想都是你们的错！》（日语：私がモテないのはどう考えてもお前らが悪い!），通常又译《丧女》，是由谷川ニコ创作的一部漫画作品。现已动画化，由SILVER LINK负责制作并与2013年7月8日播出，每周一话。 |
+| mouretsu pirates | 迷你裙宇宙海贼 | |
