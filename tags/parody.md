@@ -608,3 +608,4 @@
 | kikou shoujo wa kizutsukanai | 机巧少女不会受伤 | |
 | its not my fault that im not popular | 我不受欢迎，怎么想都是你们的错！ | 《我不受欢迎，怎么想都是你们的错！》（日语：私がモテないのはどう考えてもお前らが悪い!），通常又译《丧女》，是由谷川ニコ创作的一部漫画作品。现已动画化，由SILVER LINK负责制作并与2013年7月8日播出，每周一话。 |
 | mouretsu pirates | 迷你裙宇宙海贼 | |
+| gantz | 杀戮都市 | |
