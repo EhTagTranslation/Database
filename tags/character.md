@@ -1049,3 +1049,7 @@
 | tsuyu asui | 蛙吹梅雨 | |
 | izana shinatose | 科户濑伊札那 | |
 | nagate tanikaze | 谷风长道 | |
+| elpeo ple | 艾露比·普露 | |
+| haman karn | 哈曼·卡恩 | |
+| leina ashta | 莉娜·亚西塔 | |
+| ple two | 普露兹 | |
