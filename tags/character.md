@@ -1075,3 +1075,5 @@
 | yui takamura | 篁唯依 | |
 | nico robin | 妮可·罗宾 | |
 | saint shalulia | 夏露莉雅宫 | |
+| snow white | 白雪公主 | |
+| little red riding hood | 小红帽 | |
