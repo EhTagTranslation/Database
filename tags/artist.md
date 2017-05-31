@@ -122,12 +122,12 @@
 | tenchisouha | 天地争霸 | |
 | arui ryou | あるい椋 | |
 | sasamori tomoe | 笹森トモエ | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
+| sasai saji | 笹井さじ | |
+| okazaki takeshi | 岡崎武士 | |
+| harukaze soyogu | 春風ソヨグ | |
+| kasi | 华师 | |
+| cheru | ちぇる | |
+| umedama nabu | 梅玉奈部 | |
+| aranmaru | 亚兰丸 | |
+| tachibana omina | 立花オミナ | |
+| ibuki ren | 伊吹莲 | |
