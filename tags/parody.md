@@ -95,7 +95,7 @@
 | sora no method | 天体的秩序 | ![图](http://ul.ehgt.org/3b/c8/3bc85ea59e15a8f8ece52194dec5844687dbb5e9-4019322-2425-3477-jpg_l.jpg)![图](http://exhentai.org/t/cb/0b/cb0b0596498369b9221f64ea5873c359fbb0a004-6362697-2128-3000-jpg_250.jpg) |
 | accel world | 加速世界 | 人不如猪<br>![图](http://exhentai.org/t/c0/f1/c0f16dcec18c9aff466d801566d3b900701f14ad-1967836-2838-2000-jpg_l.jpg)![图](http://exhentai.org/t/be/36/be363662f5605eef0cab1e2b78125fcfc4f8393b-1719724-1704-2400-jpg_l.jpg) |
 | dungeon ni deai o motomeru no wa machigatteiru darou ka | 在地下城寻求邂逅是否搞错了什么 | ![图](http://exhentai.org/t/c1/8a/c18aaa27833203ba0dfad386fe5f84d29d788a28-1145036-2168-3025-jpg_l.jpg)![图](http://ul.ehgt.org/50/3d/503d6f2ac3890c699044490fada25e05e7addf2a-645630-1409-2000-jpg_l.jpg) |
-| c cube | C3-魔方少女 | ![图](http://ul.ehgt.org/e3/c0/e3c0244c8c36f632e8e5ba6e26bd03ad169d5e33-2002414-2212-3140-jpg_250.jpg)![图](http://ul.ehgt.org/f3/a3/f3a36ee3c0766a7214b769ced70d3c87125952cb-3613448-2212-3076-jpg_l.jpg) |
+| c cube | C³-魔方少女- | ![图](http://ul.ehgt.org/e3/c0/e3c0244c8c36f632e8e5ba6e26bd03ad169d5e33-2002414-2212-3140-jpg_250.jpg)![图](http://ul.ehgt.org/f3/a3/f3a36ee3c0766a7214b769ced70d3c87125952cb-3613448-2212-3076-jpg_l.jpg) |
 | shingeki no kyojin | 进击的巨人 | 是谁杀死了bilibili呀？<br>![图](http://exhentai.org/t/f9/cb/f9cb1401b2eb63a0839bb3899406ecf92489cc08-1105319-925-1300-jpg_l.jpg)![图](http://exhentai.org/t/ac/ec/acec35fe71dd19d906849a86aa44196b0304a933-1079311-919-1300-jpg_l.jpg)![图](http://exhentai.org/t/22/c0/22c0ab3323555704e38751fa4acf2bcde768c7e9-806400-1325-1858-jpg_l.jpg)![图](http://exhentai.org/t/b0/e2/b0e25cc903ab905956e63c0734da7e4a4dd10555-170643-842-1200-jpg_l.jpg) |
 | onidere | 鬼骄 | 漫画，不了解<br>![图](http://ul.ehgt.org/8b/77/8b7775d1efcae22da99169cbf554b441092e72d6-149178-600-848-jpg_l.jpg) |
 | infinite stratos | 无限斯特拉托斯 | IS(Infinite Stratos)<br>日本人眼中的中国人<br>![图](http://ul.ehgt.org/f8/17/f817d86ff58306a20d892fafa08b48d709b41275-320892-630-420-jpg_l.jpg)![图](http://ul.ehgt.org/b6/9d/b69d01c95806a70d72e6587b320bde0f29b3cf48-1532851-2135-3000-jpg_l.jpg)![图](http://ul.ehgt.org/01/b9/01b98ec281da4c38481521823dcfe053d0678880-489958-1358-2000-jpg_l.jpg) |
@@ -609,3 +609,5 @@
 | its not my fault that im not popular | 我不受欢迎，怎么想都是你们的错！ | 《我不受欢迎，怎么想都是你们的错！》（日语：私がモテないのはどう考えてもお前らが悪い!），通常又译《丧女》，是由谷川ニコ创作的一部漫画作品。现已动画化，由SILVER LINK负责制作并与2013年7月8日播出，每周一话。 |
 | mouretsu pirates | 迷你裙宇宙海贼 | |
 | gantz | 杀戮都市 | |
+| angry birds | 愤怒的小鸟 | |
+| zero kara hajimeru mahou no sho | 从零开始的魔法书 | |
