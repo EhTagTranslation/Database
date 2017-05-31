@@ -1035,3 +1035,6 @@
 | lei fang | 雷芳 | |
 | menace | 美纳斯 | |
 | tina armstrong | 蒂娜 | |
+| naruko | 鸣子 | |
+| sasuke uchiha | 宇智波佐助 | |
+| tsunade | 纲手 | |
