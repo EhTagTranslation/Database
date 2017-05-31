@@ -599,3 +599,6 @@
 | highschool dxd | 恶魔高校D×D | |
 | the world god only knows | 只有神知道的世界 | |
 | mabinogi | 洛奇 | 玛奇 |
+| m.u.g.e.n | MUGEN | |
+| summon night | 召唤之夜 | 召唤夜响曲 |
+| mai-hime | 舞-HiME | |
