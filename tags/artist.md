@@ -107,3 +107,4 @@
 | ichio | イチオ | |
 | shimada fumikane | 島田フミカネ | |
 | ryohka | 凉香 | |
+| shinkai makoto | 新海诚 | 动画导演 |
