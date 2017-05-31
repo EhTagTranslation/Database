@@ -1069,3 +1069,7 @@
 | ple two | 普露兹 | |
 | kurisu makise | 牧濑红莉栖 | |
 | maribel | 玛丽贝尔 | |
+| precia zan zenosakis | 普蕾茜娅・泽诺萨奇斯 | |
+| ruka urushibara | 漆原琉华 | |
+| suguha kirigaya | 桐谷直叶 | |
+| yui takamura | 篁唯依 | |
