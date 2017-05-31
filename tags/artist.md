@@ -145,6 +145,13 @@
 | yuriko | 白河子 | |
 | nanno koto | 南野琴 | |
 | minazuki mikka | 水无月三日 | |
+| minazuki juuzou | 水无月十三 | |
+| minazuki tooru | 水无月彻 | |
+| minazuki no-mu | 水無月のーむ | |
+| minazuki satoshi | 水無月サトシ | |
+| minazuki futago | みなづきふたご | |
+| minazuki tsuyuha | 水无月露叶 | |
+| minaduki kanna | 水无月神奈 | |
 | karaage tarou | からあげ太郎 | |
 | okumori boy | 奥森ボウイ | |
 | sahara wataru | 砂原涉 | |
@@ -158,3 +165,10 @@
 | kanna | かん奈 | |
 | fujutsushi | 风术师 | |
 | fubuki poni | 風吹ぽに | |
+| yari ashito | 大枪苇人 | |
+| ouma tokiichi | 逢魔刻壱 | |
+| momonoki fum | 百乃木富梦 | |
+| miito shido | 三糸シド | |
+| motomiya mitsuki | もとみやみつき | |
+| interstellar | Interstellar | |
+| mikeou | みけおう | |
