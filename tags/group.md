@@ -168,7 +168,6 @@
 | august | August | 八月社 |
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
-| moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
