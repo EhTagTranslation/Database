@@ -6,7 +6,10 @@
 # 规则
 **请自觉遵守规则添加翻译**
 
-以下EhTagBuilder简称为ETB，EhTagTranslator简称为ETT
+## 名词简介
+* **EhTagTranslator** ，指代整个翻译项目，简称为 **ETT** 。
+* **EhTagTranslator-CSS、EhTagTranslator-JS** 等，是翻译的具体实现方式，目前只完成了CSS版。
+* **EhTagBuilder** 等，是上述CSS版的生成工具，简称为 **ETB** 。
 
 ## 表格格式规则
 * 英文名请按照TAG搜索时搜索框内显示的文字来填写，因为画廊页面显示名称可能不是真正的TAG名，见下方“特殊类型Tag”。
@@ -15,19 +18,26 @@
 * 单元格内需要换行请输入`<br>`，需要输入`|`字符时请用`\|`，需要输入`\`字符时请用`\\`。
 * 保留第一格为空即作为注释行(ETB v1.0.4 以上)。第一个格子为空，后两个可以任意写。<br>
  示例：`| | ▼东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/)官方角色列表填写 |`
-* 图片书写格式为`![替换文字](图片网址)`，不按此格式书写的会被当作文字处理。<br>替换文字为图片加载失败时显示，不输出到CSS代码。
+* 图片书写格式为`![替换文字](图片网址)`，不按此格式书写的会被当作文字处理。<br>替换文字为图片加载失败时显示，不输出到CSS代码，可以留空但是括号必须有，如`![](http://...)`。
 
 ## 翻译/简介书写规则
-* EhWiki上Tag规定有对应日文汉字的，优先作为中文名(转成简体汉字)，除非中文里有精确对应的大家熟知的词汇。
+* EhWiki上Tag规定有对应日文汉字的，优先作为中文名，除非中文圈里有大家更熟知的精确对应的词汇（不精确的请写在简介里）。并且转成简体汉字，日文汉字有特殊梗的除外。
 * 女性、男性、杂项等的Tag请尽量使用有逻辑的语言解释Tag的意义，翻译EhWiki解释是不错的选择，最好将完整的提示都翻译了方便大家理解后精确查找。
-* 中文名和简介可以用文字和图片混写(ETB v1.1.1 以上)。建议一定要为Tag搞一张图，特别是那些不容易理解的。
 * 为了维护本项目的和谐，在本项目任何GitHub页面图中**禁止直接显示限制级画面**，包含色情、暴力血腥等。目前关于H的评定，搞基需要比百合更严格，即便是穿着衣服的耽美也算限制级画面。
-* 任何编辑者发现有直接显示的H图，或文字简介中出现侮辱他人，以及过于丑恶的词汇请修改掉或删除该简介。
-* 中文名推荐使用Emoji作为图标，推荐使用[Emoji键盘](https://emojikeyboard.org/)，也可参考[Unicode官方列表](http://www.unicode.org/Public/emoji/5.0/emoji-test.txt)。<br>使用图片时，为避免影响排版，高度禁止超过16px，推荐12px以下。如下图为16px<br>
+* 任何编辑者发现有直接显示的H图，或文字简介中出现侮辱他人，以及过于丑恶的词汇，都有义务修改掉或删除该简介，大家共同监督维护才能延续项目的生命。
+* 中文名图标，建议使用Emoji，不会受到图片高度影响，推荐使用[Emoji键盘](https://emojikeyboard.org/)，也可参考[Unicode官方列表](http://www.unicode.org/Public/emoji/5.0/emoji-test.txt)。<br>使用图片时，为避免影响排版，高度禁止超过16px，推荐12px以下。如下图为16px<br>
  ![图文混编](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tviu3ys8j20cl084dh8.jpg)
 * 引用其他Tag的翻译时，使用`中文名(英文名)`的书写方式，如`萝莉(lolicon)`，方便查找其他Tag。
+* 同一实质作品、人物不同翻译时，优先保留官方翻译，其他翻译可写在简介，如保留“精灵宝可梦”而不是“宠物小精灵”、“神奇宝贝”、“口袋妖怪”。
+* 不同实质对象在同一分类下发生英文TAG重名时，由于数据库有唯一性，不可添加两条，必须合并到一条，被合并处可以用注释行书写提示。<br>
+  中文名翻译不同的不同人物，如果次要人物几乎见不到，可以选择保留使用率更高的那一个。<br>
+  需要同时保留时可使用“|”符号(表格内容处输入`\|`)来分隔同一英文TAG的不同人物。其中更加经典，使用率更高的靠前，当季热门新番往往是一过性热度。<br>
+  简介内容使用换行符`<br>`进行换行分别介绍不同名字。<br>
+  相关讨论可见 [#16](https://github.com/Mapaler/EhTagTranslator/issues/16)、[#17](https://github.com/Mapaler/EhTagTranslator/pull/17)、[#18](https://github.com/Mapaler/EhTagTranslator/issues/18)
+
 
 ## 推荐性建议
+* 中文名和简介可以用文字和图片混写(ETB v1.1.1 以上)。建议为Tag搞一张图，特别是那些不容易理解意思的。
 * 有大量新内容添加时，为了避免和其他编辑者冲突丢失编辑数据，可以在Issues或其他支持Markdown书写语言的地方新建一个页面编辑，因为是自己的帖子随时都可以保存修改，最后再合并到对应的Tag页面中去。<br>![Issues位置](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3ybs82f0yj20es057jrv.jpg)
 * 自己也可为喜爱的Tag制作图片简介，建议传新浪微博等能方便外链图片的地方。图片不要太大，会显示不全。<br>
  例如这是我做的一张Tag解释图<br>
@@ -98,53 +108,7 @@ Wiki中英文名只能填写真实Tag部分
 ### 里站缩略图用法
 去到处找无H的图还是很困难的一件工作。绅士里站域名exhentai.org限制了Cookies，不会显示在GitHub页面，因此可以用这个域名来访问一些有H的缩略图。
 
-绅士站封面图就是使用的exhentai.org域名，因此之前我们发现可以用绅士站封面图来作为介绍。但是仅限于封面还是限制太多，而我今天恰巧发现，表站、里站、手机站的缩略图格式都非常相似，格式大约为`xx/xx/xxxxxx-xxx-xxx-xxx-jpg_l.jpg`
-
-尝试将里站的缩略图（域名都是ip），变为手机站缩略图的域名，发现依然可以访问，并且没有了Cookies限制。反之，表站的封面改为里站的域名也会出现Cookies限制。再之后进一步研究发现，封面其实就是第一张图的缩略图，只不过改了域名，限制了访问。
-
-说了这么多发现的过程，下面直接讲怎么做吧。
-
-1. 可以从画廊列表上或画廊内复制得到封面的图片地址。
-
- ![封面地址1](http://ww1.sinaimg.cn/large/6c84b2d6gw1f48lg80kxbj20fm099act.jpg)
- 
- ![封面地址2](http://ww4.sinaimg.cn/large/6c84b2d6gw1f48luwghfdj20a6061753.jpg)
- 
- 本例为<br>
- 里站：`http://exhentai.org/t/31/7a/317a1a254cd9c3269e71b2aa2671fe8d28c91097-260198-640-480-png_l.jpg`（一般普通大小）<br>
- 表站：`http://ehgt.org/t/31/7a/317a1a254cd9c3269e71b2aa2671fe8d28c91097-260198-640-480-png_250.jpg`（封面专用大小）<br>
- 可以看出仅仅是域名部分有所不同，因此将表站域名`ehgt.org`更换为里站域名`exhentai.org`便可以阻止GitHub的直接显示。<br>
- 但是注意画廊内复制得到的是结尾为`_250.jpg`的封面专用大小，比`_l.jpg`大一点，**除了封面，其他图片是没有250这个大小的**。<br>
- ![不同显示](http://ww4.sinaimg.cn/large/6c84b2d6gw1f48m1r1nixj20pc0astcq.jpg)
- 
-2. 下面说说其他图片的缩略图地址怎么获取。
- 
- 首先点击缩略图右上方的“Large”<br>
- ![Large](http://ww2.sinaimg.cn/large/6c84b2d6gw1f48m342f17j204403sdfs.jpg)
- 
- 之后显示模式便会变为单张缩略图模式（Normal模式下每20张图的缩略图放在同一张长条图上），有可能因为墙的原因无法显示，但是并不用怕，直接右键复制图片地址即可<br>
- ![复制缩略图地址](http://ww4.sinaimg.cn/large/6c84b2d6gw1f48mlurjwqj20f70di40w.jpg)
- 
- 得到的图片格式为`http://85.17.73.31/31/7a/317a1a254cd9c3269e71b2aa2671fe8d28c91097-260198-640-480-png_l.jpg`<br>
- 然后我们将IP更改为手机版预览图的域名`ul.ehgt.org`，可以看到图片显示出来了。<br>
- ![更改域名后](http://ww3.sinaimg.cn/large/6c84b2d6gw1f48mn09si8j20co0asq4r.jpg)
- 
-3. 那么怎么让其他图的缩略图能用`exhentai.org`隐藏起来呢，按照下表更改域名即可，封面图需要增加一层t。
- 
- | 地址类别 | 域名/前缀 | 最终地址路径 |
- | --- | --- | --- |
- | 原始缩略图 | `http://IP地址/` | `http://85.17.73.31/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
- | 手机站缩略图 | `http://ul.ehgt.org/` | `http://ul.ehgt.org/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
- | 表站封面图 | `http://ehgt.org/t/` | `http://ehgt.org/t/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
- | 里站封面图 | `http://exhentai.org/t/` | `http://exhentai.org/t/ab/a2/aba248f3e0293fdc86e908e41fec8a2fc53ec390-236374-640-480-png_l.jpg` |
- 
- 将普通缩略图更改为里站封面图的路径格式后就能不被GitHub显示了，并且在绅士上仍然能显示<br>
- ![缩略图不同显示](http://ww3.sinaimg.cn/large/6c84b2d6gw1f48n0d45jxj20pc0as0wg.jpg)
- 
-4. 于是现在有了大量的图像缩略图作为可用的图片素材，完全不用担心了。<br>
- 找到了合适的图像后，如果有H，就使用里站封面图格式隐藏起来，如果没H就使用手机站缩略图或表站封面图格式显示出来。
- 
-5. 因为手动改域名太麻烦，干脆直接写了个脚本工具。[安装脚本](https://github.com/Mapaler/EhTagTranslator/raw/master/ETTWikiHelper-Thumbnail.user.js)因为怕麻烦，就没传Greasy Fork了，直接在项目里安装吧。<br>
+因为手动改域名太麻烦，干脆直接写了个脚本工具。[安装脚本](https://github.com/Mapaler/EhTagTranslator/raw/master/ETTWikiHelper-Thumbnail.user.js)因为怕麻烦，就没传Greasy Fork了，直接在项目里安装吧。<br>
  会自动将本来域名是ip的缩略图自动改为手机版域名，这样不用翻墙也能加载缩略图了。点击按钮自动将对应的格式复制到剪贴板。<br>
  1.60开始，按住Ctrl再点击，即可直接复制得`![图](图片网址)`<br>
  1.70开始，按住Alt再点击，即可直接复制得`![图](# "图片网址")`<br>
