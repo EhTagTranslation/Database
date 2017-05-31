@@ -1038,3 +1038,7 @@
 | naruko | 鸣子 | |
 | sasuke uchiha | 宇智波佐助 | |
 | tsunade | 纲手 | |
+| anri misugi | 美杉杏莉 | |
+| makoto hozumi | 穂积真琴 | |
+| misao shinohara | 筱原美纱绪 | |
+| sasami iwakura | 岩仓砂沙美 | |
