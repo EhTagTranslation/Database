@@ -20,6 +20,7 @@
 | flandre scarlet | 芙兰朵露·斯卡雷特 | ![我女儿](http://ww1.sinaimg.cn/bmiddle/6c84b2d6gw1e9hupw57iaj21201eotiq.jpg) |
 | alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg) |
 | reimu hakurei | 博丽灵梦 | ![十万巫女](https://img.acg.moe/common/thumb/8/87/ShinkirouReimu.jpg/447px-ShinkirouReimu.jpg) |
+| hakurei miko | 先代巫女 | |
 | marisa kirisame | 雾雨魔理沙 |  |
 | rumia | 露米娅 | |
 | cirno | 琪露诺 | |
