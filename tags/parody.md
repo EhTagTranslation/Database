@@ -598,4 +598,3 @@
 | utawarerumono | 传颂之物 | |
 | highschool dxd | 恶魔高校D×D | |
 | the world god only knows | 只有神知道的世界 | |
-| the world god only knows | 砂沙美☆魔法少女俱乐部 | |
