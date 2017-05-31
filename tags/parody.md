@@ -614,3 +614,9 @@
 | knights of sidonia | 希德尼娅的骑士 | |
 | sket dance | 学园救援团 | |
 | summer wars | 夏日大作战 | |
+| flcl | 特别的她 | |
+| the girl who leapt through time | 穿越时空的少女 | |
+| inazuma eleven | 闪电十一人 | |
+| battle royale | 大逃杀 | |
+| archaic sealed heat | 远古封印之炎 | |
+| fruits basket | 水果篮子 | |
