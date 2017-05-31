@@ -90,6 +90,8 @@
 | renko usami | 宇佐见莲子 | |
 | utsuho reiuji | 灵乌路空 | |
 | hatate himekaidou | 姬海棠果 | |
+| suika ibuki | 伊吹萃香 | |
+| yuugi hoshiguma | 星熊勇仪 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
@@ -909,6 +911,18 @@
 | lucia | 露琪亚 | |
 | agnese sanctis | 雅妮丝·桑提斯 | |
 | angelene | 安洁莉娜 | |
+| | ▼冰菓 | |
+| eru chitanda | 千反田爱瑠 | |
+| houtarou oreki | 折木奉太郎 | |
+| mayaka ibara | 伊原摩耶花 | |
+| fuyumi irisu | 入须冬实 | |
+| satoshi fukube | 福部里志 | |
+| ayako kouchi | 河内亚也子 | |
+| | ▼你的名字 | |
+| mitsuha miyamizu | 宫水三叶 | |
+| yotsuha miyamizu | 宫水四叶 | |
+| miki okudera | 奥寺美纪 | |
+| taki tachibana | 立花泷 | |
 | | ▼笨蛋测验召唤兽 | |
 | akihisa yoshii | 吉井明久 | |
 | akira yoshii | 吉井玲 | |
@@ -1049,3 +1063,15 @@
 | tsuyu asui | 蛙吹梅雨 | |
 | izana shinatose | 科户濑伊札那 | |
 | nagate tanikaze | 谷风长道 | |
+| elpeo ple | 艾露比·普露 | |
+| haman karn | 哈曼·卡恩 | |
+| leina ashta | 莉娜·亚西塔 | |
+| ple two | 普露兹 | |
+| kurisu makise | 牧濑红莉栖 | |
+| maribel | 玛丽贝尔 | |
+| precia zan zenosakis | 普蕾茜娅・泽诺萨奇斯 | |
+| ruka urushibara | 漆原琉华 | |
+| suguha kirigaya | 桐谷直叶 | |
+| yui takamura | 篁唯依 | |
+| nico robin | 妮可·罗宾 | |
+| saint shalulia | 夏露莉雅宫 | |

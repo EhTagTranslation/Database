@@ -107,3 +107,68 @@
 | ichio | イチオ | |
 | shimada fumikane | 島田フミカネ | |
 | ryohka | 凉香 | |
+| shinkai makoto | 新海诚 | 动画导演 |
+| benet | ベネット | |
+| ponpon | PONPON | |
+| tetsujin | 铁人 | |
+| hiyoko | ひよこ | |
+| syukurin | シュクリーン | |
+| araki kanao | あらきかなお | |
+| nagiyama | 那岐山 | |
+| kittsu | キッツ | |
+| neko toufu | ねことうふ | |
+| nagare hyo-go | 流ひょうご | |
+| mizuki gyokuran | 瑞姬玉兰 | |
+| tenchisouha | 天地争霸 | |
+| arui ryou | あるい椋 | |
+| sasamori tomoe | 笹森トモエ | |
+| sasai saji | 笹井さじ | |
+| okazaki takeshi | 岡崎武士 | |
+| harukaze soyogu | 春風ソヨグ | |
+| kasi | 华师 | |
+| cheru | ちぇる | |
+| umedama nabu | 梅玉奈部 | |
+| aranmaru | 亚兰丸 | |
+| tachibana omina | 立花オミナ | |
+| ibuki ren | 伊吹莲 | |
+| uran | URAN \| 雨兰 | |
+| billion | Billion | |
+| nanao | ななお | |
+| pirontan | ピロンタン | |
+| tokyo yamane | 東京ヤマネ | |
+| yuki higasinakano | ゆーき東中野 | |
+| nosada | 乃定 | |
+| yukibuster z | ユキバスターZ | |
+| roga | RoGa | |
+| bonnari | ぼんなり | |
+| komone ushio | 相音うしお | |
+| yuriko | 白河子 | |
+| nanno koto | 南野琴 | |
+| minazuki mikka | 水无月三日 | |
+| minazuki juuzou | 水无月十三 | |
+| minazuki tooru | 水无月彻 | |
+| minazuki no-mu | 水無月のーむ | |
+| minazuki satoshi | 水無月サトシ | |
+| minazuki futago | みなづきふたご | |
+| minazuki tsuyuha | 水无月露叶 | |
+| minaduki kanna | 水无月神奈 | |
+| karaage tarou | からあげ太郎 | |
+| okumori boy | 奥森ボウイ | |
+| sahara wataru | 砂原涉 | |
+| amano kazumi | 天乃一水 | |
+| ichiyo moka | 一葉モカ | |
+| naturalton | なちゅらるとん | |
+| aono ribbon | 青野りぼん | |
+| hidaka toworu | ヒダカトヲル | |
+| rara8 | らら8 | |
+| medaka kenichi | 目高健一 | |
+| kanna | かん奈 | |
+| fujutsushi | 风术师 | |
+| fubuki poni | 風吹ぽに | |
+| yari ashito | 大枪苇人 | |
+| ouma tokiichi | 逢魔刻壱 | |
+| momonoki fum | 百乃木富梦 | |
+| miito shido | 三糸シド | |
+| motomiya mitsuki | もとみやみつき | |
+| interstellar | Interstellar | |
+| mikeou | みけおう | |
