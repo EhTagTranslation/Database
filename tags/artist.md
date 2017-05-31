@@ -108,5 +108,26 @@
 | shimada fumikane | 島田フミカネ | |
 | ryohka | 凉香 | |
 | shinkai makoto | 新海诚 | 动画导演 |
+| benet | ベネット | |
+| ponpon | PONPON | |
+| tetsujin | 铁人 | |
+| hiyoko | ひよこ | |
+| syukurin | シュクリーン | |
+| araki kanao | あらきかなお | |
+| nagiyama | 那岐山 | |
+| kittsu | キッツ | |
+| neko toufu | ねことうふ | |
+| nagare hyo-go | 流ひょうご | |
+| mizuki gyokuran | 瑞姬玉兰 | |
+| tenchisouha | 天地争霸 | |
+| arui ryou | あるい椋 | |
+| sasamori tomoe | 笹森トモエ | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
 |  |  | |
 |  |  | |
