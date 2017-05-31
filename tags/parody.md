@@ -409,7 +409,7 @@
 | macross 7 | 超时空要塞7 | |
 | macross delta | 超时空要塞Δ | |
 | macross zero | 超时空要塞Zero | |
-|  | ▲假面骑士 系列 | |
+|  | ▲超时空要塞 系列 | |
 | little red riding hood | 小红帽 | |
 | tales of vesperia | 薄暮传说 | |
 | gekkan shoujo nozaki-kun | 月刊少女野崎君 | |
@@ -621,3 +621,19 @@
 | archaic sealed heat | 远古封印之炎 | |
 | fruits basket | 水果篮子 | |
 | tari tari | TARI TARI | |
+| the legend of heroes | 英雄传说 | |
+| the legend of the legendary heroes | 传说中勇者的传说 | |
+| the last of us | 最后生还者 | |
+| wall-e | 机器人总动员 | |
+| alpha teens on machines | A.T.O.M. | |
+| tera | 神谕之战 | |
+|  | ▼数码宝贝 系列 | |
+| digimon | 数码宝贝 | |
+| digimon adventure | 数码宝贝大冒险 | |
+| digimon tamers | 数码宝贝03驯兽师之王 | |
+| digimon frontier | 数码宝贝04无限地带 | |
+| digimon savers | 数码宝贝05拯救者 | |
+| digimon xros wars | 数码宝贝06合体战争 | |
+| digimon universe appli monsters | 数码宝贝宇宙-应用怪兽 | |
+|  | ▲数码宝贝 系列 | |
+
