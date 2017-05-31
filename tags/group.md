@@ -146,8 +146,31 @@
 | special star week | Special☆Week | |
 | n and r | N&R | |
 | 8chomeno-ohanayasan | 8丁目のお花屋さん | |
+| kabu fujisawa minato shinsenkan | ㈱藤沢みなと新鮮館 | |
+| uran-factory | URAN-FACTORY | |
+| hiyoko no gekijoh | ひよこの劇場 | |
+| yakiyama line | YAKIYAMA LINE | |
+| gallop dyna | ぎゃろっぷだいな | |
+| trick and treat | TRICK&TREAT | |
+| shirokumaya | しろくま屋 | |
+| nanairo no neribukuro | 七色のねりぶくろ | |
+| ucyunekogundan | 宇宙猫军团 | |
+| mokoke | もこ家 | |
+| p-kan | p-馆 | |
+| inst | Inst | |
+| plum | PLUM | |
+| kaze no gotoku | 風のごとく! | |
+| haitoku sensei | はいとく先生 | |
+| angyadow | 行脚堂 | |
+| noraneko-no-tama | ノラネコノタマ | |
+| hizadati zekkouchou | ひざだち絶好調 | |
+| sakananekobeya | 魚猫部屋 | |
+| white drop | ホワイトドロップ | |
+| dieselmine | ディーゼルマイン | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) |
+| nutaku | Nutaku | |
 | etude | etude | |
 | eufonie | eufonie | etude的姐妹品牌 |
 | eushully | Eushully | |
