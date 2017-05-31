@@ -4,7 +4,7 @@
 **允许第三方项目使用本项目Wiki数据库，但请使用的项目提交一份附上项目的简介或地址的Issues。**
 
 # 规则
-**请自觉遵守规则添加翻译**
+**请自觉遵守下方规则添加翻译**
 
 ## 名词简介
 * **EhTagTranslator** ，指代整个翻译项目，简称为 **ETT** 。
@@ -35,17 +35,16 @@
   简介内容使用换行符`<br>`进行换行分别介绍不同名字。<br>
   相关讨论可见 [#16](https://github.com/Mapaler/EhTagTranslator/issues/16)、[#17](https://github.com/Mapaler/EhTagTranslator/pull/17)、[#18](https://github.com/Mapaler/EhTagTranslator/issues/18)
 
-
 ## 推荐性建议
-* 中文名和简介可以用文字和图片混写(ETB v1.1.1 以上)。建议为Tag搞一张图，特别是那些不容易理解意思的。
 * 有大量新内容添加时，为了避免和其他编辑者冲突丢失编辑数据，可以在Issues或其他支持Markdown书写语言的地方新建一个页面编辑，因为是自己的帖子随时都可以保存修改，最后再合并到对应的Tag页面中去。<br>![Issues位置](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3ybs82f0yj20es057jrv.jpg)
+* 中文名和简介可以用文字和图片混写(ETB v1.1.1 以上)。建议为Tag搞一张图，特别是那些不容易理解意思的。
 * 自己也可为喜爱的Tag制作图片简介，建议传新浪微博等能方便外链图片的地方。图片不要太大，会显示不全。<br>
  例如这是我做的一张Tag解释图<br>
  ![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)
-* 绅士里站域名图片无法直接外链，哪怕有H也不会显示在本页面，但是在使用脚本时可以显示。可以在里站上找代表性的作品的缩略图拿来做介绍（见本页面 相关工具 > 图床 > 里站缩略图用法）。视觉类Tag在[图片集](http://exhentai.org/imageset/)里面搜索Tag比较容易找到合适的图。
+* 绅士里站域名图片无法直接外链，哪怕有H也不会显示在本页面，但是在使用脚本时可以显示。可以在里站上找代表性的作品的缩略图拿来做介绍（见下方 [里站缩略图用法](#里站缩略图用法)）。视觉类Tag在[图片集](http://exhentai.org/imageset/)里面搜索Tag比较容易找到合适的图。
 * 如果实在是有其他会直接显示又有H的图可以用以下格式书写(ETB v2.2.0 以上)，此类写法可将任意图片在本页面不显示，ETB会自动处理成图片地址。
   1. `![替换文字](# "图片网址")`，例：`![图片](# "http://ehgt.org/c/botm5.jpg")`
-  2. 推荐上一种方法，但是如果觉得向更简单一点可以选择在图片网址扩展名后加h，例：`![图片](http://ehgt.org/c/botm5.jpgh)`、`![图片](http://www.mapaler.com/MusicList/mysign.phph?name=classic)`。需要注意动态网址需加在问号左边。此格式现已不推荐。
+  2. 推荐上一种方法， ~~但是如果觉得向更简单一点可以选择在图片网址扩展名后加h，例：`![图片](http://ehgt.org/c/botm5.jpgh)`、`![图片](http://www.mapaler.com/MusicList/mysign.phph?name=classic)`。需要注意动态网址需加在问号左边。~~ 此格式现已不推荐，会在将来被移除。
 
 # 编辑Wiki
 ## 进入页面
