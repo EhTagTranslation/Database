@@ -637,3 +637,4 @@
 | digimon universe appli monsters | 数码宝贝宇宙-应用怪兽 | |
 |  | ▲数码宝贝 系列 | |
 | snow white and the seven dwarfs | 白雪公主和七个小矮人 | |
+| shadowverse | 暗影诗章 | |
