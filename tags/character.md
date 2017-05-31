@@ -1032,3 +1032,6 @@
 | tsubasa hanekawa | 羽川翼 | |
 | narmaya | 暗牛 | |
 | rabi en rose | 拉比安露斯 | |
+| lei fang | 雷芳 | |
+| menace | 美纳斯 | |
+| tina armstrong | 蒂娜 | |
