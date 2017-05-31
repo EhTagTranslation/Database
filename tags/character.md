@@ -1031,3 +1031,4 @@
 | hitagi senjougahara | 战场原黑仪 | |
 | tsubasa hanekawa | 羽川翼 | |
 | narmaya | 暗牛 | |
+| rabi en rose | 拉比安露斯 | |
