@@ -74,8 +74,66 @@
 | tsukuru no mori kabushikigaisha | ツクルノモリ株式会社 | |
 | asanoya | 浅野屋 | |
 | neko works | NEKO WORKs | |
+| goshujinsama no omochabako | 御主人様の玩具箱 | |
+| rairaku jinja | 磊落神社 | |
+| mani mania | マニまにあ | |
+| kongari tokei | こんがり時計 | |
+| circle kame | さーくる亀 | |
+| sugiura-ke | 杉浦家 | |
+| atelier tiv | Atelier Tiv | |
+| atelier lunette | Atelier Lunette | |
+| atelier gh | Atelier G/H | |
+| atelier kinta | あとりえKINTA | |
+| atelier miyabi | あとりえ雅 | |
+| atelier knee stroke | あとりえ にーすとろーく | |
+| atelier d | アトリエD | |
+| atelier pachira | アトリエパキラ | |
+| atelier pinpoint | アトリエ ピン・ポイント | |
+| atelier hachifukuan | アトリエ八福庵 | |
+| atelier kaguya | アトリエかぐや | |
+| atelier kaguya honky-tonk pumpkin | アトリエかぐや Honky-Tonk Pumpkin | |
+| atelier kaguya team gassa-q | アトリエかぐや TEAM Gassa-Q | |
+| atelier kaguya team heartbeat | アトリエかぐや TEAM HEARTBEAT | |
+| atelier kaguya berkshire yorkshire | アトリエかぐや Berkshire Yorkshire | |
+| atelier gons | アトリエ GONS |
+| atelier sakura darkness | アトリエさくら DARKNESS | |
+| atelier sakura team.ntr | アトリエさくら Team.NTR | |
+| atelier sakura mount position | アトリエさくら マウントポジション | |
+| atelier sakura extra | アトリエさくら eXtra | |
+| kinokonabe hinanjo | きのこなべ避難所 | |
+| s-size | Sサイズ | |
+| mugen at works | むげん@WORKS | |
+| hyogetsu | 冰月 | |
+| garakuta shoujo | がらくた少女 | |
+| mosquito man | モスキートマン | |
+| metal | METAL | |
+| watanabe tou | 渡边党 | |
+| suzuna jct | SUZUNA JCT | |
+| amagami dou | あまがみ堂 | |
+| bitch bokujou | Bitch牧场 | |
+| antyuumosaku | 暗中模索 | |
+| kurumaya | 車ヤ | |
+| shiitake en | しいたけ園 | |
+| makutsutei | 魔窟亭 | |
+| studio pal | STUDIO PAL | |
+| frac | FRAC | |
+| karaageyasan | からあげ屋さん | |
+| meltdown comet | MeltdoWN COmet | |
+| karakishi youhei-dan | からきし傭兵団 真雅 | |
+| blusterlight | BlusterLight | |
+| 24 page | 24ぺーじ | |
+| holy water club | ほーりーうぉーたー倶楽部 | |
+| black currant | ブラックカラント | |
+| ankoku soshiki | 暗黑组织 | |
+| sweet heart | Sweet HEART | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| etude | etude | |
+| eufonie | eufonie | etude的姐妹品牌 |
+| eushully | Eushully | |
+| waffle | Waffle | |
+| navel | Navel | |
+| tryset | TRYSET | |
 | softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg) |
 | devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal旗下偏黑暗向<br>![图1](http://exhentai.org/t/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_250.jpg) |
 | softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](http://exhentai.org/t/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg)<br>![图2](http://exhentai.org/t/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg) |
@@ -89,6 +147,8 @@
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](http://ul.ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) |
 | august | August | 八月社 |
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 |
+| samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
+| moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
