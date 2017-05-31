@@ -598,3 +598,4 @@
 | utawarerumono | 传颂之物 | |
 | highschool dxd | 恶魔高校D×D | |
 | the world god only knows | 只有神知道的世界 | |
+| mabinogi | 洛奇 | 玛奇 |
