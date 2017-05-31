@@ -620,3 +620,4 @@
 | battle royale | 大逃杀 | |
 | archaic sealed heat | 远古封印之炎 | |
 | fruits basket | 水果篮子 | |
+| tari tari | TARI TARI | |
