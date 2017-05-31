@@ -1,6 +1,7 @@
 ﻿本页储存TAG列表的group（团队）翻译。
 请按照如下规则：
-* 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。
+* 日文名中有汉字者优先写含汉字的名称，可在简介中写全假名或国内译名。
+* 日文名不包含假名时，参照[日语专有名词的中译原则](https://zh.wikipedia.org/wiki/Wikipedia:日语专有名词的中译原则)转写为简体中文。
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
@@ -9,7 +10,7 @@
 | usotsukiya | 嘘つき屋 | 大嘘的社团名，袜控，女子高中生画家<br>![大嘘作品](http://ul.ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) |
 | archetype | ARCHETYPE | あかざ(Akaza)的社团名，袜控。<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) |
 | afterschool of the 5th year | 5年目の放課後  | 监督(Kantoku)的社团名。<br>![Kantoku作品](http://ul.ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |
-| tsf no f | TSF的F |以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](https://exhentai.org/t/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg)|
+| tsf no f | TSF的F | 以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](https://exhentai.org/t/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg)|
 | number2 | ![Logo](http://number2-takuji.com/favicon.ico)Number2 | ![Banner](http://number2-takuji.com/banner.gif) <br> ![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |
 | plant | PLANT | |
 | opaque | Opaque | |
