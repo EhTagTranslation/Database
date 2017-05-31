@@ -1047,3 +1047,5 @@
 | momo yaoyorozu | 八百万百 | |
 | ochako uraraka | 丽日御茶子 | |
 | tsuyu asui | 蛙吹梅雨 | |
+| izana shinatose | 科户濑伊札那 | |
+| nagate tanikaze | 谷风长道 | |
