@@ -909,6 +909,18 @@
 | lucia | 露琪亚 | |
 | agnese sanctis | 雅妮丝·桑提斯 | |
 | angelene | 安洁莉娜 | |
+| | ▼冰菓 | |
+| eru chitanda | 千反田爱瑠 | |
+| houtarou oreki | 折木奉太郎 | |
+| mayaka ibara | 伊原摩耶花 | |
+| fuyumi irisu | 入须冬实 | |
+| satoshi fukube | 福部里志 | |
+| ayako kouchi | 河内亚也子 | |
+| | ▼你的名字 | |
+| mitsuha miyamizu | 宫水三叶 | |
+| yotsuha miyamizu | 宫水四叶 | |
+| miki okudera | 奥寺美纪 | |
+| taki tachibana | 立花泷 | |
 | | ▼笨蛋测验召唤兽 | |
 | akihisa yoshii | 吉井明久 | |
 | akira yoshii | 吉井玲 | |
