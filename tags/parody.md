@@ -611,3 +611,4 @@
 | gantz | 杀戮都市 | |
 | angry birds | 愤怒的小鸟 | |
 | zero kara hajimeru mahou no sho | 从零开始的魔法书 | |
+| knights of sidonia | 希德尼娅的骑士 | |
