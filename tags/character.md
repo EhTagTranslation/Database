@@ -1073,3 +1073,5 @@
 | ruka urushibara | 漆原琉华 | |
 | suguha kirigaya | 桐谷直叶 | |
 | yui takamura | 篁唯依 | |
+| nico robin | 妮可·罗宾 | |
+| saint shalulia | 夏露莉雅宫 | |
