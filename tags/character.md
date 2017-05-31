@@ -1044,3 +1044,6 @@
 | misao shinohara | 筱原美纱绪 | |
 | sasami iwakura | 岩仓砂沙美 | |
 | maam | 玛姆 | |
+| momo yaoyorozu | 八百万百 | |
+| ochako uraraka | 丽日御茶子 | |
+| tsuyu asui | 蛙吹梅雨 | |
