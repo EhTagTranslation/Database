@@ -1077,3 +1077,4 @@
 | saint shalulia | 夏露莉雅宫 | |
 | snow white | 白雪公主 | |
 | little red riding hood | 小红帽 | |
+| saaya agata | 安形紗綾 | |
