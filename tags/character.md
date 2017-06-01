@@ -1103,4 +1103,11 @@
 | son gohan | 孙悟饭 | |
 | son goten | 孙悟天 | |
 | jessica albert | 杰西卡·阿尔芭 | 《勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主》中的角色 |
-| son goten | 孙悟天 | |
+| choukai | 鸟海 | |
+| littorio | 利托里奥 | |
+| roma | 罗马 | |
+| jigoku no fubuki | 地狱的吹雪 | |
+| senritsu no tatsumaki | 战栗的龙卷 | |
+| tights brief | 塔依丝 | |
+| tights brief | 塔依丝 | |
+| tights brief | 塔依丝 | |
