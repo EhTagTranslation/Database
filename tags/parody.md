@@ -201,6 +201,7 @@
 | dragon quest dai no daibouken | 勇者斗恶龙 达尔大冒险 | |
 | dragon quest monsters | 勇者斗恶龙怪兽篇 | |
 | dragon quest yuusha abel densetsu | 勇者斗恶龙 勇者阿贝尔传说 | |
+| dragon quest heroes | 勇者斗恶龙 英雄 | |
 |  | ▲勇者斗恶龙 系列 | |
 | left 4 dead | 求生之路 | |
 | bloodrayne | 吸血莱恩 |  |
@@ -640,4 +641,3 @@
 | shadowverse | 暗影诗章 | |
 | eyeshield 21 | 光速跑者21号 | |
 | skullgirls | 骷髅女孩 | |
-| dragon quest heroes | 勇者斗恶龙：英雄 | |
