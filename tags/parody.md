@@ -639,3 +639,4 @@
 | snow white and the seven dwarfs | 白雪公主和七个小矮人 | |
 | shadowverse | 暗影诗章 | |
 | eyeshield 21 | 光速跑者21号 | |
+| skullgirls | 骷髅女孩 | |
