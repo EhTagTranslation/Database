@@ -837,6 +837,8 @@
 | nanako kashii | 香椎奈奈子 | |
 | yuri koigakubo | 恋洼百合 | |
 | yuusaku kitamura | 北村佑作 | |
+| sakura kanou | 狩野樱 | | 
+| sumire kanou | 狩野堇 | | 
 | | ▼就算是哥哥，有爱就没问题了，对吧 角色 | |
 | akito himenokouji | 姬小路秋人 | |
 | akiko himenokouji | 姬小路秋子 | |
