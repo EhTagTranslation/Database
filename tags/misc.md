@@ -85,5 +85,4 @@
 | | == 非长期标签 == | |
 | | === 非长期标签 > 漫展标签 === | |
 | c92 | C92 | 在 Comic Market 92 期间发布的作品。<br>此标签有效期为 2017/8/1 - 2017/10/1。 |
-| | === 非长期标签 > 还没正式标签的公司 === | |
-| moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) |
+
