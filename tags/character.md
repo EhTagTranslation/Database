@@ -1084,3 +1084,12 @@
 | shine hausen | 夏茵·豪森 | |
 | stella bremer | 史黛拉·布瑞梅尔 | |
 | bianca whitaker | 比安卡 | |
+| crea dolosera | 克蕾雅·多萝赛娅 | |
+| mikono suzushiro | 御子乃·铃白 | |
+| suomi konepi | 须绪美·科妮皮 | |
+| shinji ikari | 碇真嗣 | |
+| reika shimohira | 下平玲花 | |
+| yamcha | 雅木茶 | |
+| katina tarask | 卡琪娜·塔拉斯克 | |
+| leona garstein | 雷欧娜·嘉施泰因 | |
+
