@@ -1077,10 +1077,10 @@
 | saint shalulia | 夏露莉雅宫 | |
 | snow white | 白雪公主 | |
 | little red riding hood | 小红帽 | |
-| saaya agata | 安形紗綾 | |
+| saaya agata | 安形纱绫 | |
 | mamori anezaki | 姊崎真守 | |
 | sena kobayakawa | 小早川濑那 | |
 | latooni suvota | 拉托妮·苏波塔 | |
-| shine hausen | 莎莉・艾米尔 | |
+| shine hausen | 夏茵·豪森 | |
 | stella bremer | 史黛拉·布瑞梅尔 | |
 | bianca whitaker | 比安卡 | |
