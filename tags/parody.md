@@ -641,3 +641,16 @@
 | shadowverse | 暗影诗章 | |
 | eyeshield 21 | 光速跑者21号 | |
 | skullgirls | 骷髅女孩 | |
+| the ring | 午夜凶铃 | |
+| the lord of the rings | 指环王 | |
+| the matrix | 黑客帝国 | |
+| evil dead | 鬼玩人 | |
+| from dusk till dawn | 杀出个黎明 | |
+| the sims | 模拟人生 | |
+| the big o | 魅影巨神 | |
+| the lion king | 狮子王 | |
+| frozen | 冰雪奇缘 | |
+| mortal kombat | 格斗之王 | |
+| aladdin | 阿拉丁 | |
+| the little mermaid | 小美人鱼 | |
+| atlantis the lost empire | 亚特兰蒂斯：失落的帝国 | |
