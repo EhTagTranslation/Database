@@ -1080,3 +1080,5 @@
 | saaya agata | 安形紗綾 | |
 | mamori anezaki | 姊崎真守 | |
 | sena kobayakawa | 小早川濑那 | |
+| latooni suvota | 拉托妮·苏波塔 | |
+| shine hausen | 莎莉・艾米尔 | |
