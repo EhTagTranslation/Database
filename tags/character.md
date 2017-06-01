@@ -1097,7 +1097,7 @@
 | cammy white | 嘉米 | |
 | m. bison | 拜森 | |
 | poison | 毒药 | |
-| poison | 布尔玛 | |
+| bulma | 布尔玛 | |
 | chi chi | 琪琪 | |
 | erasa | 伊蕾莎 | |
 | son gohan | 孙悟饭 | |
@@ -1109,5 +1109,9 @@
 | jigoku no fubuki | 地狱的吹雪 | |
 | senritsu no tatsumaki | 战栗的龙卷 | |
 | tights brief | 塔依丝 | |
-| tights brief | 塔依丝 | |
-| tights brief | 塔依丝 | |
+| rainbow mika | 七川美华 | |
+| zangief | 桑吉尔夫 | |
+| felicia | 菲莉西亚 | |
+| hugo | 雨果 | |
+| sakura kasugano | 春日野樱 | |
+| poison | 雨果 | |
