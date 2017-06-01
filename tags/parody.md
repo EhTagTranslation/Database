@@ -640,3 +640,4 @@
 | shadowverse | 暗影诗章 | |
 | eyeshield 21 | 光速跑者21号 | |
 | skullgirls | 骷髅女孩 | |
+| dragon quest heroes | 勇者斗恶龙：英雄 | |
