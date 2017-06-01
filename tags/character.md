@@ -1092,8 +1092,6 @@
 | yamcha | 雅木茶 | |
 | katina tarask | 卡琪娜·塔拉斯克 | |
 | leona garstein | 雷欧娜·嘉施泰因 | |
-| filia | 致命女性 | |
-| painwheel | 半死死刑 | |
 | cammy white | 嘉米 | |
 | m. bison | 拜森 | |
 | poison | 毒药 | |
@@ -1114,4 +1112,3 @@
 | felicia | 菲莉西亚 | |
 | hugo | 雨果 | |
 | sakura kasugano | 春日野樱 | |
-| poison | 雨果 | |
