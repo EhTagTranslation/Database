@@ -1102,3 +1102,5 @@
 | erasa | 伊蕾莎 | |
 | son gohan | 孙悟饭 | |
 | son goten | 孙悟天 | |
+| jessica albert | 杰西卡·阿尔芭 | 《勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主》中的角色 |
+| son goten | 孙悟天 | |
