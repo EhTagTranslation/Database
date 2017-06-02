@@ -36,6 +36,7 @@
 | sora no otoshimono | 天降之物 | ![图](http://exhentai.org/t/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg) |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](http://ul.ehgt.org/5a/53/5a53888ed5043aa5fe693f05f23e6977531baeb3-367327-588-860-jpg_l.jpg) |
 | vocaloid | ![V](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)VOCALOID | ![图](http://ul.ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |
+| voiceroid | VOICEROID | |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |
 | the idolmaster | ![iM@S](http://wx4.sinaimg.cn/large/6c84b2d6gy1fehbsqrgaig200u00c03t.gif)偶像大师 | ![图](http://121.153.70.49:33333/h/9d35a815d81bcf42a3b351ddbce146aa5aa904a3-176185-1280-456-jpg/keystamp=1495681200-f14f727e67;fileindex=3640613;xres=1280/001.jpg)![图](http://ehgt.org/t/f9/ef/f9ef4d663daab66d6407cd787e3733524a6f90c3-1354223-3419-2550-jpg_l.jpg) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL)
