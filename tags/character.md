@@ -1178,3 +1178,5 @@
 | kurumi kumamakura | 熊枕久瑠美 | |
 | mai kawakami | 川神舞 | |
 | priscilla barielle | 普莉希拉·跋利耶尔 | |
+| kazuto kirigaya | 桐谷和人 | |
+| lyfa | 莉法 | |
