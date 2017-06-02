@@ -665,3 +665,6 @@
 | tokyo mew mew | 东京喵喵 | |
 | mahoromatic | 魔力女管家 | |
 | sister princess | 妹妹公主 | |
+| ace attorney | 逆转裁判 | |
+| tiger and bunny | 老虎和兔子 | |
+| ghost in the shell | 攻壳机动队 | |
