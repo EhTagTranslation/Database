@@ -1147,3 +1147,8 @@
 | gran | 格兰 | |
 | sadi-chan | 小萨蒂 | |
 | mina ashido | 芦户三奈 | |
+| rebecca | 蕾贝卡 | |
+| amazon | 亚马逊 | |
+| sorceress | 女巫 | |
+| serena | 莎莉娜 | |
+| shauna | 莎娜 | |
