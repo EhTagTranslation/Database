@@ -6,7 +6,7 @@
 # 规则
 **请自觉遵守下方规则添加翻译**
 
-## 名词简介
+### 名词简介
 * **EhTagTranslator** ，指代整个翻译项目，简称为 **ETT** 。
 * **EhTagTranslator-CSS、EhTagTranslator-JS** 等，是翻译的具体实现方式，目前只完成了CSS版。
 * **EhTagBuilder** 等，是上述CSS版的生成工具，简称为 **ETB** 。
