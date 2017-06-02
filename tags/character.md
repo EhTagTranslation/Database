@@ -1168,3 +1168,10 @@
 | momoko akatsutsumi | 赤提和美子 | |
 | cure black | 黑天使 | |
 | cure white | 白天使 | |
+| kougyoku ren | 练红玉 | |
+| masrur | 马斯鲁尔 | |
+| morgiana | 摩尔迦娜 | |
+| sharrkan | 迦尔鲁卡 | |
+| sinbad | 辛巴德 | |
+| yamuraiha | 雅姆莱哈 | |
+| yamuraiha | 雅姆莱哈 | |
