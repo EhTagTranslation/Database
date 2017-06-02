@@ -1180,3 +1180,5 @@
 | priscilla barielle | 普莉希拉·跋利耶尔 | |
 | kazuto kirigaya | 桐谷和人 | |
 | lyfa | 莉法 | |
+| koyomi araragi | 阿良良木历 | |
+| lyfa | 莉法 | |
