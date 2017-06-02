@@ -684,3 +684,4 @@
 | how to train your dragon | 驯龙高手 |
 | hacka doll | 骇客娃娃 |
 | kaiju girls | 怪兽娘 |
+| shinrabansho | 神罗万象 |
