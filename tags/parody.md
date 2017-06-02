@@ -660,3 +660,4 @@
 | sennen sensou aigis | 千年战争Aigis | |
 | star ocean 3 | 星之海洋3 | |
 | kokoro connect | 心灵链环 | 恋爱随意链接 |
+| robopon | 机甲宝贝 | |
