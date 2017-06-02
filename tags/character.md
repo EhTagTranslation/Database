@@ -1115,4 +1115,4 @@
 | hugo | 雨果 | |
 | sakura kasugano | 春日野樱 | |
 | akitsu maru | 秋津丸 | |
-| nel zelpher | 妮尔·杰尔法 | |
+| nel zelpher | 妮露 | |
