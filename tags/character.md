@@ -1145,4 +1145,5 @@
 | akitsu maru | 秋津丸 | |
 | nel zelpher | 妮露 | |
 | gran | 格兰 | |
-| nel zelpher | 妮露 | |
+| sadi-chan | 小萨蒂 | |
+| mina ashido | 芦户三奈 | |
