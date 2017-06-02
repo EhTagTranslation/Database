@@ -1160,7 +1160,6 @@
 | cure march | 进天使 | |
 | nao midorikawa | 绿川直 | |
 | monkey d. luffy | 蒙奇·D·路飞 | |
-| sadi-chan | 绿川直 | |
 | elf | 精灵 | |
 | neko musume | 猫娘 | |
 | blossom | 花花 | |
@@ -1184,4 +1183,3 @@
 | kazuto kirigaya | 桐谷和人 | |
 | lyfa | 莉法 | |
 | koyomi araragi | 阿良良木历 | |
-| lyfa | 莉法 | |
