@@ -866,6 +866,15 @@
 | cthugha | 克图格亚 | |
 | mahiro yasaka | 八坂真寻 | |
 | hastur | 哈斯太 | |
+| | ▼其中一个是妹妹 | |
+| konoe tsuruma | 鹤真心乃枝 | |
+| miyabi kannagi | 神凪雅 | |
+| | ▼心灵链环 | |
+| himeko inaba | 稻叶姬子 | |
+| iori nagase | 永濑伊织 | |
+| taichi yaegashi | 八重㭴太一 | |
+| yui kiriyama | 桐山唯 | |
+| yoshifumi aoki | 青木义文 | |
 | | ▼伪恋 | |
 | raku ichijou | 一条乐 | |
 | kosaki onodera | 小野寺小咲 | |
