@@ -685,3 +685,4 @@
 | hacka doll | 骇客娃娃 |
 | kaiju girls | 怪兽娘 |
 | shinrabansho | 神罗万象 |
+| azumanga daioh | 阿滋漫画大王 |
