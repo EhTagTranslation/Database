@@ -654,3 +654,6 @@
 | aladdin | 阿拉丁 | |
 | the little mermaid | 小美人鱼 | |
 | atlantis the lost empire | 亚特兰蒂斯：失落的帝国 | |
+| sengoku otome | 战国少女～桃色异传～ | |
+| monster hunter | 怪物猎人 | |
+| sennen sensou aigis | 千年战争Aigis | |
