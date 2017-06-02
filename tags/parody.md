@@ -668,3 +668,13 @@
 | ace attorney | 逆转裁判 | |
 | tiger and bunny | 老虎和兔子 | |
 | ghost in the shell | 攻壳机动队 | |
+| hunter x hunter | 全职猎人 | |
+| howls moving castle | 哈尔的移动城堡 | |
+| kikis delivery service | 魔女宅急便 | |
+| ace combat | 皇牌空战 | |
+| mermaid melody pichi pichi pitch | 人鱼的旋律 | |
+| attack no. 1 | 女排No.1 | アタックNo.1、排球甜心、冲出世界 |
+| devilman | 恶魔人 | |
+| la seine no hoshi | 月光女侠 | 红花侠影，La Seine no Hoshi |
+| winx club | 魔法俏佳人 | |
+| cats eye | 猫眼三姐妹 | |
