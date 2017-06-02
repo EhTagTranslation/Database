@@ -1174,4 +1174,7 @@
 | sharrkan | 迦尔鲁卡 | |
 | sinbad | 辛巴德 | |
 | yamuraiha | 雅姆莱哈 | |
-| yamuraiha | 雅姆莱哈 | |
+| haruhiko ichijou | 一条晴彦 | |
+| kurumi kumamakura | 熊枕久瑠美 | |
+| mai kawakami | 川神舞 | |
+| priscilla barielle | 普莉希拉·跋利耶尔 | |
