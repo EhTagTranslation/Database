@@ -658,3 +658,4 @@
 | sengoku otome | 战国少女～桃色异传～ | |
 | monster hunter | 怪物猎人 | |
 | sennen sensou aigis | 千年战争Aigis | |
+| star ocean 3 | 星之海洋3 | |
