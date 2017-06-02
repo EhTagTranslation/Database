@@ -113,3 +113,12 @@ Wiki中英文名只能填写真实Tag部分
  1.70开始，按住Alt再点击，即可直接复制得`![图](# "图片网址")`  
  ![使用效果](http://ww2.sinaimg.cn/large/6c84b2d6gw1f49x7pxka3j20ql0l90zw.jpg)
  注：可能有些人还不知道可以将画廊列表从文字列表模式改为缩略图模式，表站“My Home > My Settings > Front Page Settings > Thumbnail View”，里站站“Settings > Front Page Settings > Thumbnail View”。
+
+### 本地编辑Wiki方法
+会使用[Git](https://git-scm.com)的朋友可以选择本地编辑Wiki。由于GitHub只允许有可写权限的账户编辑Wiki，所以请向项目管理者寻求项目私钥（Issue水楼发帖并留邮箱）。  
+**默认仅允许修改Wiki，禁止在未经允许的情况下修改项目主程序，禁止随意删除Wiki项目内的文件**。  
+远端URL填写`git@github.com:Mapaler/EhTagTranslator.wiki.git`。
+
+没有使用Git GUI的推荐使用[TortoiseGit](https://tortoisegit.org/)。   
+可视化MarkDown编辑器推荐使用[CuteMarkEd](http://cloose.github.io/CuteMarkEd/)，首次打开需选择“设置-样式-Github”。  
+![TortoiseGit设置](http://ww2.sinaimg.cn/large/6c84b2d6gy1fg6nbvxqeij20kl0egwkh.jpg)
