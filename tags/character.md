@@ -713,6 +713,25 @@
 | tsukushi tsutsukakushi | 筒隐筑紫 | |
 | mai maimaki | 舞牧麻衣 | |
 | emanuella porlallora | 艾米（艾玛努艾勒·波鲁勒劳拉） | |
+| | ▼CLANNAD 角色 | |
+| tomoya okazaki | 冈崎朋也 | |
+| fuko ibuki | 伊吹风子 | |
+| kotomi ichinose | 一之濑琴美 | |
+| ryou fujibayashi | 藤林椋 | |
+| kyou fujibayashi | 藤林杏 | |
+| nagisa furukawa | 古河渚 | |
+| tomoyo sakagami | 坂上智代 | |
+| yukine miyazawa | 宫泽有纪宁 | |
+| mei sunohara | 春原芽衣 | |
+| youhei sunohara | 春原阳平 | |
+| misae sagara | 相乐美佐枝 | |
+| sanae furukawa | 古河早苗 | |
+| | ▼未闻花名 角色 | |
+| meiko honma | 本间芽衣子 | |
+| naruko anjou | 安城鸣子 | |
+| chiriko tsurumi | 鹤见知利子 | |
+| jinta yadomi | 宿海仁太 | |
+| atsumu matsuyuki | 松雪集 | |
 | | ▼粗点心战争 角色 | |
 | hotaru shidare | 枝垂萤 | |
 | kokonotsu shikada | 鹿田九 | |
