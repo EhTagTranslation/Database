@@ -661,3 +661,7 @@
 | star ocean 3 | 星之海洋3 | |
 | kokoro connect | 心灵链环 | 恋爱随意链接 |
 | robopon | 机甲宝贝 | |
+| upotte | 枪械少女!! | |
+| tokyo mew mew | 东京喵喵 | |
+| mahoromatic | 魔力女管家 | |
+| sister princess | 妹妹公主 | |
