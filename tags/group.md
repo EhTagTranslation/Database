@@ -268,8 +268,8 @@
 | juuryoku shiki youheki | 重力式拥壁 | |
 | cannabis | カンナビス | |
 | archives | アーカイブ | |
-| warabimochi | ワラビモチー | |
-| hikiwari nattou | ひきわり納豆 | |
+| notone | NOTONE | |
+| small marron | Small Marron | |
 | palepink | PalePink! | |
 | kokatsubatake | こかつ畑 | |
 | nise-jyuusyofutei | 伪住所不定 | |
