@@ -119,7 +119,7 @@ Wiki中英文名只能填写真实Tag部分
 **默认仅允许修改Wiki，禁止在未经允许的情况下修改项目主程序，禁止随意删除Wiki项目内的文件**。  
 远端URL填写`git@github.com:Mapaler/EhTagTranslator.wiki.git`。
 
-没有使用Git GUI的推荐使用[TortoiseGit](https://tortoisegit.org/)。   
 可视化MarkDown编辑器推荐使用[CuteMarkEd](http://cloose.github.io/CuteMarkEd/)，首次打开需选择“设置-样式-Github”。  
 纯文本MarkDown编辑器推荐使用[Visual Studio Code](https://code.visualstudio.com)。
-![TortoiseGit设置](http://ww2.sinaimg.cn/large/6c84b2d6gy1fg6nbvxqeij20kl0egwkh.jpg)
+![TortoiseGit设置](http://ww2.sinaimg.cn/large/6c84b2d6gy1fg6nbvxqeij20kl0egwkh.jpg)  
+没有使用Git GUI的推荐使用[TortoiseGit](https://tortoisegit.org/)。更多Git GUI请见https://git-scm.com/downloads/guis
