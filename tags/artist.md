@@ -1,14 +1,17 @@
-﻿本页储存TAG列表的artist（艺术家）翻译。
+﻿本页储存标签列表的艺术家(artist)翻译。
 ### 请按照如下规则：
 * 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。或者使用文本介绍时写在简介中。
+* 日文名不包含假名时，参照[日语专有名词的中译原则](https://zh.wikipedia.org/wiki/Wikipedia:日语专有名词的中译原则)转写为简体中文。
 * 图片也可用作者P站头像，或者为你自己喜爱的画师做一张图片简介，P站头像无法外链，建议传新浪微博等能方便外链图片的地方。
 
-▼ 推荐规则，非强制
-* 建议简介书写格式为
- 
- > P站或其他能找到的作者头像<换行><br>对作者的一点文字简介<换行><br>某个代表作者特色的作品。
-
- 为排版好看，头像高度建议200px以内，当然头像里明显H的就不要放了。
+#### 推荐规则，非强制
+* 建议简介书写格式  
+  ``` html
+  P站或其他能找到的作者头像<br>
+  对作者的一点文字简介<br>
+  某个代表作者特色的作品。
+  ```
+为排版好看，头像高度建议200px以内，当然头像里明显H的就不要放了。
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
@@ -18,8 +21,8 @@
 | peko | ぺこ | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](http://ul.ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) |
 | akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>貌似也是袜控，和大嘘风格不一样<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) |
 | ishikei | 石惠 | ![石惠头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ymxa507xj205k05kjrm.jpg)<br>浓墨厚涂榨汁机<br>![石惠作品](http://exhentai.org/t/38/39/3839a8f9171d1c67415b50c99333d553be404083-1416172-2000-2837-jpg_250.jpg) |
-| endou hiroto | 遠藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>浓墨厚涂榨汁机2<br>![遠藤弘土作品](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_250.jpg) |
-| happoubi jin | 八宝备仁(はっぽうび じん) | ![骨感瘦弱却又是榨汁机](http://ul.ehgt.org/3e/1b/3e1b7e0a6b943bf2f1fd28cba702c916ee0337b3-396466-500-715-jpg_250.jpg) |
+| endou hiroto | 远藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>浓墨厚涂榨汁机2<br>![遠藤弘土作品](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_250.jpg) |
+| happoubi jin | 八宝備仁 | 八宝备仁(はっぽうび じん) <br> ![骨感瘦弱却又是榨汁机](http://ul.ehgt.org/3e/1b/3e1b7e0a6b943bf2f1fd28cba702c916ee0337b3-396466-500-715-jpg_250.jpg) |
 | fujisaki hikari | 藤崎ひかり | ![藤崎ひかり头像](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3twnlde9zj203v04qq2s.jpg)<br>萝莉！萝莉！萝莉~<br>![藤崎ひかり作品1](http://exhentai.org/t/5c/2e/5c2ee1fc8286fdedcc0dfb02ce87036f7cf44458-762853-1400-2000-jpg_250.jpg)![藤崎ひかり作品2](http://exhentai.org/t/ab/b4/abb41c372777cf356e3d179d8790bf69997f034b-739317-1402-2000-jpg_250.jpg) |
 | ichiri | イチリ | ![ichiri头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3twtubhxsj204q04q74k.jpg)<br>萝莉！萝莉！萝莉~<br>![ichiri作品](http://exhentai.org/t/f0/52/f05278b999d0ff679d929e609cb3487d2a9e6eed-701458-2100-3004-jpg_250.jpg) |
 | satou kibi | さとうきび | ![さとうきび头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twxmi433j204q04qwes.jpg)<br>阳光又可爱的东方~<br>![さとうきび作品](http://ul.ehgt.org/13/71/137143c421272e951aab33ac001fc73f1f125b9b-1341000-1410-2000-jpg_250.jpg) |
@@ -29,11 +32,177 @@
 | emily | emily | ![emily头像](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3txb9wklcj204q04qmxj.jpg)<br>萝莉！萝莉！萝莉~<br>![emily作品](http://exhentai.org/t/f9/90/f9907e06268b6d62a9b9705fc5f4891af63e44ed-122897-800-600-jpg_250.jpg) |
 | chiri | ちり | ![ちり头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tz43bqjoj204q04q3yz.jpg)<br>萝莉！萝莉！萝莉~<br>![ちり作品](http://exhentai.org/t/13/bc/13bcf50600c232d434d2c39ca0d56d8889c5618d-1306943-2123-3000-jpg_250.jpg) |
 | kantoku | 监督 | ![监督头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3y8bdpm2pj204q04qwf7.jpg)<br>监督（カントク，Kantoku），格子萌少女<br>![作品](http://ul.ehgt.org/e0/5f/e05f32806c27b7adeea062b470696d263a4dd3e2-1345066-2487-3500-jpg_250.jpg) |
-| sayori | Sayori  | ![SA姐头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ciho6cpg204q04qjyu.gif)<br>sayori（さより），SA姐是女性的原画家和插图画家，湖南出身，现居于日本，现为游戏公司美工。同人活动多以「NEKO WORKs」名义参加。有许多画集，大多为东方project同人系列，和自己原创的猫耳萝莉neko para系列。<br>![作品](http://ul.ehgt.org/71/e1/71e137218b7b6e79a5f60184487ffc4134774c97-3795446-3500-2485-jpg_l.jpg)![作品](http://ul.ehgt.org/86/3e/863ea4179d24f3a6f4fa9e74a95b86b88df3494c-3422011-3482-2492-jpg_l.jpg) |
-| ideolo | ideolo  | ![ideolo头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ci9uy9rj204l04q0ss.jpg)<br>国人绘师ideolo，原籍上海，现于日本留学中。他在中日两国同人圈内都拥有相当人气，插画题材以东方PROJECT系列居多，曾多次为博丽神社例大祭等日本同人活动绘制公式绘。<br>![作品](http://ul.ehgt.org/59/2e/592e882202682d26601ffac477533747ec9e2d75-3563646-2544-3641-jpg_l.jpg)![作品](http://ul.ehgt.org/ca/18/ca18e275980c19ef7348fa1991900ea6fbf2eb7d-3580334-3635-2560-jpg_l.jpg) |
+| sayori | Sayori | ![SA姐头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ciho6cpg204q04qjyu.gif)<br>sayori（さより），SA姐是女性的原画家和插图画家，湖南出身，现居于日本，现为游戏公司美工。同人活动多以「NEKO WORKs」名义参加。有许多画集，大多为东方project同人系列，和自己原创的猫耳萝莉neko para系列。<br>![作品](http://ul.ehgt.org/71/e1/71e137218b7b6e79a5f60184487ffc4134774c97-3795446-3500-2485-jpg_l.jpg)![作品](http://ul.ehgt.org/86/3e/863ea4179d24f3a6f4fa9e74a95b86b88df3494c-3422011-3482-2492-jpg_l.jpg) |
+| ideolo | ideolo | ![ideolo头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ci9uy9rj204l04q0ss.jpg)<br>国人绘师ideolo，原籍上海，现于日本留学中。他在中日两国同人圈内都拥有相当人气，插画题材以东方PROJECT系列居多，曾多次为博丽神社例大祭等日本同人活动绘制公式绘。<br>![作品](http://ul.ehgt.org/59/2e/592e882202682d26601ffac477533747ec9e2d75-3563646-2544-3641-jpg_l.jpg)![作品](http://ul.ehgt.org/ca/18/ca18e275980c19ef7348fa1991900ea6fbf2eb7d-3580334-3635-2560-jpg_l.jpg) |
 | | ▲这就是爱 | |
-| miyahara ayumu | 宮原歩 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
+| miyahara ayumu | 宫原步 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7435/26480152744_01cfe2495a_q.jpg) |
 | narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) |
 | akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと作品](https://farm8.staticflickr.com/7741/26990957842_e6fbd157af_m.jpg) |
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |
+| ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |
+| yamada no seikatu ga daiichi | 山田の性活が第一 | |
+| asamura hiori | 朝丛志描 |  |
+| matsukawa | 松河 |  |
+| mmm | えむ |  |
+| facominn | Facominn |  |
+| great mosu | ぐれーともす |  |
+| ringo sui | りんご水 |  |
+| kanzaki muyu | 神崎むゆ |  |
+| mizuyan | みずやん |  |
+| ranyues | 仴 |  |
+| horonamin | ホロナミン |  |
+| chiyami | ちやみ |  |
+| hanahanamaki | 花花卷 | |
+| sousouman | 草草馒 | |
+| muk | MUK | |
+| ore p 1-gou | 俺P1号 | |
+| menyoujan | めんようじゃん | |
+| hodumi kaoru | 八月朔日珈瑠 | |
+| watsuki rumi | わつきるみ | |
+| soramoti | そらモチ | |
+| blastbeat | BLASTBEAT | |
+| takashina at masato | 高阶@圣人 | |
+| shibayuki | しばゆき | |
+| newmen | NeWMeN | |
+| miyasaka miyu | 宮坂みゆ | |
+| shimahara | 40原 | |
+| hayakawa akari | 早川あかり | |
+| masaharu | まさはる | |
+| ail | あいる | |
+| saigado | 彩画堂 | |
+| nanase meruchi | ななせめるち | |
+| marushin | 丸新 | |
+| amamiya mizuki | 雨宮ミズキ | |
+| mibu natsuki | みぶなつき | |
+| ogata zen | 尾形全 | |
+| himura kiseki | 比村奇石 | |
+| cle masahiro | 呉マサヒロ | |
+| nakajima yuka | なかじまゆか | |
+| fujima takuya | 藤真拓哉 | |
+| hisasi | Hisasi | |
+| akizora momidi | 秋空もみぢ | |
+| yuunagi sesina | 夕凪セシナ | |
+| ippongui | 一本杭 | |
+| sekine hajime | 咳寝はじめ | |
+| mura osamu | ムラオサム | |
+| sody | Sody | |
+| fujiwara shunichi | 藤原俊一 | |
+| ohigetan | 尾髭丹 | |
+| kisaragi-mic | 如月みっく | |
+| takanashi rei | 小鳥遊レイ | |
+| kawakami rokkaku | 川上六角 | |
+| niro | にろ | |
+| okuri banto | 送り萬都 | |
+| runrun | るんるん | |
+| zonda | ぞんだ | |
+| bekkankou | べっかんこう | |
+| santa matsuri | さんた茉莉 | |
+| quick wiper | クイック賄派 | |
+| jigoku ouji | 地狱王子 | |
+| kobayashi youkoh | 小林由高 | |
+| saeki tatsuya | 佐伯达也 | |
+| mamo williams | まもウィリアムズ | |
+| koga nozomu | 古我望 | |
+| shinokawa arumi | 篠川あるみ | |
+| ichio | イチオ | |
+| shimada fumikane | 島田フミカネ | |
+| ryohka | 凉香 | |
+| shinkai makoto | 新海诚 | 动画导演 |
+| benet | ベネット | |
+| ponpon | PONPON | |
+| tetsujin | 铁人 | |
+| hiyoko | ひよこ | |
+| syukurin | シュクリーン | |
+| araki kanao | あらきかなお | |
+| nagiyama | 那岐山 | |
+| kittsu | キッツ | |
+| neko toufu | ねことうふ | |
+| nagare hyo-go | 流ひょうご | |
+| mizuki gyokuran | 瑞姬玉兰 | |
+| tenchisouha | 天地争霸 | |
+| arui ryou | あるい椋 | |
+| sasamori tomoe | 笹森トモエ | |
+| sasai saji | 笹井さじ | |
+| okazaki takeshi | 岡崎武士 | |
+| harukaze soyogu | 春風ソヨグ | |
+| kasi | 华师 | |
+| cheru | ちぇる | |
+| umedama nabu | 梅玉奈部 | |
+| aranmaru | 亚兰丸 | |
+| tachibana omina | 立花オミナ | |
+| ibuki ren | 伊吹莲 | |
+| uran | URAN \| 雨兰 | |
+| billion | Billion | |
+| nanao | ななお | |
+| pirontan | ピロンタン | |
+| tokyo yamane | 東京ヤマネ | |
+| yuki higasinakano | ゆーき東中野 | |
+| nosada | 乃定 | |
+| yukibuster z | ユキバスターZ | |
+| roga | RoGa | |
+| bonnari | ぼんなり | |
+| komone ushio | 相音うしお | |
+| yuriko | 白河子 | |
+| nanno koto | 南野琴 | |
+| minazuki mikka | 水无月三日 | |
+| minazuki juuzou | 水无月十三 | |
+| minazuki tooru | 水无月彻 | |
+| minazuki no-mu | 水無月のーむ | |
+| minazuki satoshi | 水無月サトシ | |
+| minazuki futago | みなづきふたご | |
+| minazuki tsuyuha | 水无月露叶 | |
+| minaduki kanna | 水无月神奈 | |
+| karaage tarou | からあげ太郎 | |
+| okumori boy | 奥森ボウイ | |
+| sahara wataru | 砂原涉 | |
+| amano kazumi | 天乃一水 | |
+| ichiyo moka | 一葉モカ | |
+| naturalton | なちゅらるとん | |
+| aono ribbon | 青野りぼん | |
+| hidaka toworu | ヒダカトヲル | |
+| rara8 | らら8 | |
+| medaka kenichi | 目高健一 | |
+| kanna | かん奈 | |
+| fujutsushi | 风术师 | |
+| fubuki poni | 風吹ぽに | |
+| yari ashito | 大枪苇人 | |
+| ouma tokiichi | 逢魔刻壱 | |
+| momonoki fum | 百乃木富梦 | |
+| miito shido | 三糸シド | |
+| motomiya mitsuki | もとみやみつき | |
+| interstellar | Interstellar | |
+| mikeou | みけおう | |
+| hinata nao | 日向奈尾 | |
+| sakurazaka tsuchiyu | 桜坂つちゆ | |
+| yamakaze ran | やまかぜ嵐 | |
+| anko | あん子 \| あんこ | |
+| koguro. | こぐろ。 | |
+| kousaka jun | 香坂纯 | |
+| gerotan | げろたん | |
+| kozakura kumaneko | 小桜クマネコ | |
+| distance | DISTANCE | |
+| kawaraya a-ta | 瓦屋A太 | |
+| usou | 雨草 | |
+| awayume | 淡梦 | |
+| shiroo | しろー | |
+| ryokucha | 绿茶 | |
+| niimaru yuu | ニイマルユウ | |
+| simon | さいもん | |
+| tanaka aji | 田中あじ | |
+| unadon | うな丼 | |
+| otakumin | オタクミン | |
+| muneshiro | むねしろ | |
+| haruki genia | はるきゲにあ | |
+| ikegami tatsuya | 池上竜矢 | |
+| pony r | ポニーR | |
+| sakura yuu | さくら★ゆう | |
+| yan-yam | Yan-Yam | |
+| watanabe kenpo | 渡边宪法 | |
+| kamiya zuzu | 神谷ズズ | |
+| maruta itsuki | 丸汰いつき | |
+| yasakani an | ヤサカニ·アン | |
+| ayachi | あやち | |
+| kurori | くろり | |
+| suwa izumo | 诹访出云 | |
+| ishigami kazui | 石神一威 | |
