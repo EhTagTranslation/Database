@@ -1144,3 +1144,5 @@
 | sakura kasugano | 春日野樱 | |
 | akitsu maru | 秋津丸 | |
 | nel zelpher | 妮露 | |
+| gran | 格兰 | |
+| nel zelpher | 妮露 | |
