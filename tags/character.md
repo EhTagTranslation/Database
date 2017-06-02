@@ -1152,3 +1152,19 @@
 | sorceress | 女巫 | |
 | serena | 莎莉娜 | |
 | shauna | 莎娜 | |
+| kiruko otonashi | 音无斩子 | |
+| boa hancock | 波雅·汉库克 | |
+| cure march | 进天使 | |
+| nao midorikawa | 绿川直 | |
+| monkey d. luffy | 蒙奇·D·路飞 | |
+| sadi-chan | 绿川直 | |
+| elf | 精灵 | |
+| neko musume | 猫娘 | |
+| blossom | 花花 | |
+| bubbles | 泡泡 | |
+| buttercup | 毛毛 | |
+| kaoru matsubara | 松原薰 | |
+| miyako gotokuji | 豪得寺美弥子 | |
+| momoko akatsutsumi | 赤提和美子 | |
+| cure black | 黑天使 | |
+| cure white | 白天使 | |
