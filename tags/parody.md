@@ -696,3 +696,16 @@
 | kindaichi shounen no jikenbo | 金田一少年事件簿 | |
 | kekkai sensen | 血界战线 | |
 | tokyo afterschool summoners | 东京放课后召唤师 | |
+| saga frontier | 沙加开拓者 | 复活邪神：邪神领域 |
+| twelve kingdoms | 十二国记 | |
+| | ↓炼金工作室 系列 | |
+| atelier series | 炼金工作室 | 《炼金工作室系列》（日语：アトリエシリーズ；英语：Atelier (series)）是由GUST制作的系列游戏。  |
+| atelier marie | 玛莉的工作室 | A1 |
+| atelier elie | 艾莉的工作室 | A2 |
+| atelier iris | 伊莉斯的工作室 | A6~A8 |
+| mana khemia | 玛娜传奇 | A9~A10 |
+| atelier rorona | 罗罗娜的工作室 | A11 |
+| atelier totori | 托托莉的工作室 | A12 |
+| atelier meruru | 梅露露的工作室 | A13 |
+| atelier shallie | 夏莉的工作室 | A16 |
+| | ↑炼金工作室 系列 | |
