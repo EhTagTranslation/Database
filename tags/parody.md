@@ -695,3 +695,4 @@
 | soushin shoujo matoi | 装神少女小缠 | |
 | kindaichi shounen no jikenbo | 金田一少年事件簿 | |
 | kekkai sensen | 血界战线 | |
+| tokyo afterschool summoners | 东京放课后召唤师 | |
