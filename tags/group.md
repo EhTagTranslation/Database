@@ -296,6 +296,30 @@
 | naruho-dou | NARUHO堂 | |
 | index410 | INDEX:410 | |
 | mz no ken | MZの拳 | |
+| twilight dusk | TWILIGHT DUSK | |
+| kamikadou | かみか堂 | |
+| oboro and tempo gensui dou | 胧&天蓬元帅堂 | |
+| kanden shoujo chuuihou | 感电少女注意报 | |
+| niku ringo | 肉りんご | |
+| wareme | 割れ目 | |
+| hakuginmokusei | 白銀木犀  | |
+| meshikutteneru. | 飯食って寝る。 | |
+| little hamlet | りとる☆はむれっと | |
+| tarehamu | たれハム | |
+| black dog | Black Dog | |
+| shimesaba | しめさば | |
+| forestrest | ForestRest | |
+| norioikeru | のりおいける! | |
+| himawari no tane | ひまわりのたね | |
+| jieitai | JIEITAI | |
+| honey qp | Honey QP | |
+| ayuest | AYUEST | |
+| inbou no teikoku | 陰謀の帝国 | |
+| gate of xiii | Gate of XIII | |
+| neko masshigura | ねこまっしぐら | |
+| rorie-do | ろり絵堂 | |
+| inumiso | イヌミソ | |
+| natsutama | なつたま | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) |
@@ -314,6 +338,7 @@
 | moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](http://exhentai.org/t/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_250.jpg) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) |
 | yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)Yuzu-Soft | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](http://ul.ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) |
+| aquaplus | AQUAPLUS | |
 | leaf | ![icon](http://leaf.aquaplus.jp/favicon.ico)Leaf | Leaf会社<br>![logo](http://leaf.aquaplus.jp/css/gn_toHome.png)<br>![图](http://ul.ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_250.jpg) |
 | key | 🔑Key | Key会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](http://ul.ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) |
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](http://ul.ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) |
