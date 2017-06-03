@@ -91,7 +91,8 @@
 | atelier pachira | アトリエパキラ | |
 | atelier pinpoint | アトリエ ピン・ポイント | |
 | atelier hachifukuan | アトリエ八福庵 | |
-| atelier gons | アトリエ GONS |
+| atelier gons | アトリエ GONS | |
+| atelier ms | Atelier Ms | |
 | kinokonabe hinanjo | きのこなべ避難所 | |
 | s-size | Sサイズ | |
 | mugen at works | むげん@WORKS | |
