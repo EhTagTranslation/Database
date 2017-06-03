@@ -207,3 +207,23 @@
 | suwa izumo | 诹访出云 | |
 | ishigami kazui | 石神一威 | |
 | kamogawa tanuki | 鴨川たぬき | |
+| shiruka bakaudon | 知るかバカうどん | |
+| matsumomo mahiru | 松百まひる | |
+| amekosame | 雨小雨 | |
+| kiira | きぃら～☆ | |
+| kanoe | 庚 | |
+| daichi kouta | 大地巧太 | |
+| awatake takahiro | 弘岳粟高 | |
+| kylin | Kylin | |
+| morishima kon | 森島コン | |
+| mdo-h | 无道叡智 | |
+| ginyou haru | 銀曜ハル | |
+| shiina | シイナ | |
+| mikuta | みくた | |
+| shibasaki syouzi | 柴崎ショージ | |
+| tempo gensui | 天蓬元帅 | |
+| mafuyu | 真冬 | |
+| kakugari kyoudai | カクガリ兄弟 | |
+| matsumomo mahiru | 松百まひる | |
+| aoi masami | 苍海 | |
+| itou life | 伊東ライフ | |
