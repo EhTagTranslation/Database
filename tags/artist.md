@@ -206,3 +206,4 @@
 | kurori | くろり | |
 | suwa izumo | 诹访出云 | |
 | ishigami kazui | 石神一威 | |
+| kamogawa tanuki | 鴨川たぬき | |
