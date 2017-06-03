@@ -968,6 +968,35 @@
 | shouko kirishima | 雾岛翔子 | |
 | aiko kudou | 工藤爱子 | |
 | miharu shimizu | 清水美春 | |
+| | ▼神薙 | |
+| nagi | 薙 | |
+| zange | 忏悔 | |
+| jin mikuriya | 御厨仁 | |
+| tsugumi aoba | 青叶鸫 | |
+| shino ookouchi | 大河内紫乃 | |
+| takako kimura | 木村贵子 | |
+| | ▼农林 | |
+| kochou yoshida | 良田胡蝶 | |
+| minori nakazawa | 中泽农 | |
+| ringo kinoshita | 木下林檎 | |
+| natsumi bekki | 户次菜摘 | |
+| | ▼要听爸爸的话 | |
+| sora takanashi | 小鸟游空 | |
+| miu takanashi | 小鸟游美羽 | |
+| hina takanashi | 小鸟游雏 | |
+| yuuta segawa | 濑川佑太 | |
+| raika oda | 织田莱香 | |
+| | ▼魔物娘的相伴日常 | |
+| miia | 米亚 | |
+| centorea shianus | 珊卓蕾亚·夏努斯 | |
+| papi | 帕皮 | |
+| suu | 丝 | |
+| lala | 拉拉 | |
+| rachnera arachnera | 拉克涅拉·阿拉克涅拉 | |
+| manako | 真奈子 | |
+| meroune lorelei | 美洛努·罗雷莱 | |
+| tionishia | 提欧尼西亚 | |
+| kimihito kurusu | 来留主公人 | |
 | | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
