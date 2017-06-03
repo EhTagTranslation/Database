@@ -1213,4 +1213,5 @@
 | lyfa | 莉法 | |
 | koyomi araragi | 阿良良木历 | |
 | roomi | 萝米 | |
-
+| martial artist | 武斗家 | |
+| thief | 盗贼 | |
