@@ -687,3 +687,4 @@
 | shinrabansho | 神罗万象 |
 | azumanga daioh | 阿滋漫画大王 |
 | galaxy fight | 银河快打 |
+| youkai hyakkitan | 妖怪百姬谭 |
