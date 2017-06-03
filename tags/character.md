@@ -1183,5 +1183,3 @@
 | kazuto kirigaya | 桐谷和人 | |
 | lyfa | 莉法 | |
 | koyomi araragi | 阿良良木历 | |
-| koyomi araragi | 阿良良木历 | |
-| koyomi araragi | 阿良良木历 | |
