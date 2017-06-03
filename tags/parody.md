@@ -688,3 +688,9 @@
 | azumanga daioh | 阿滋漫画大王 |
 | galaxy fight | 银河快打 |
 | youkai hyakkitan | 妖怪百姬谭 |
+| papa no iu koto wo kikinasai | 要听爸爸的话！ | |
+| himegoto | 搞姬日常 | |
+| nogizaka haruka no himitsu | 乃木坂春香的秘密 | |
+| south park | 南方公园 | |
+| soushin shoujo matoi | 装神少女小缠 | |
+| kindaichi shounen no jikenbo | 金田一少年事件簿 | |
