@@ -686,3 +686,4 @@
 | kaiju girls | 怪兽娘 |
 | shinrabansho | 神罗万象 |
 | azumanga daioh | 阿滋漫画大王 |
+| galaxy fight | 银河快打 |
