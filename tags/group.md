@@ -81,26 +81,17 @@
 | kongari tokei | こんがり時計 | |
 | circle kame | さーくる亀 | |
 | sugiura-ke | 杉浦家 | |
+| atelier-g | Atelier-G | |
 | atelier tiv | Atelier Tiv | |
 | atelier lunette | Atelier Lunette | |
 | atelier gh | Atelier G/H | |
 | atelier kinta | あとりえKINTA | |
 | atelier miyabi | あとりえ雅 | |
 | atelier knee stroke | あとりえ にーすとろーく | |
-| atelier d | アトリエD | |
 | atelier pachira | アトリエパキラ | |
 | atelier pinpoint | アトリエ ピン・ポイント | |
 | atelier hachifukuan | アトリエ八福庵 | |
-| atelier kaguya | アトリエかぐや | |
-| atelier kaguya honky-tonk pumpkin | アトリエかぐや Honky-Tonk Pumpkin | |
-| atelier kaguya team gassa-q | アトリエかぐや TEAM Gassa-Q | |
-| atelier kaguya team heartbeat | アトリエかぐや TEAM HEARTBEAT | |
-| atelier kaguya berkshire yorkshire | アトリエかぐや Berkshire Yorkshire | |
 | atelier gons | アトリエ GONS |
-| atelier sakura darkness | アトリエさくら DARKNESS | |
-| atelier sakura team.ntr | アトリエさくら Team.NTR | |
-| atelier sakura mount position | アトリエさくら マウントポジション | |
-| atelier sakura extra | アトリエさくら eXtra | |
 | kinokonabe hinanjo | きのこなべ避難所 | |
 | s-size | Sサイズ | |
 | mugen at works | むげん@WORKS | |
@@ -346,6 +337,17 @@
 | august | August | 八月社 |
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) |
+| atelier d | Atelier D | |
+| atelier kaguya | Atelier KAGUYA | |
+| atelier kaguya honky-tonk pumpkin | Atelier KAGUYA Honky-Tonk Pumpkin | |
+| atelier kaguya team gassa-q | Atelier KAGUYA TEAM Gassa-Q | |
+| atelier kaguya team heartbeat | Atelier KAGUYA TEAM HEARTBEAT | |
+| atelier kaguya berkshire yorkshire | Atelier KAGUYA Berkshire Yorkshire | |
+| atelier sakura | 樱花工作室 | |
+| atelier sakura darkness | 樱花工作室 DARKNESS | |
+| atelier sakura team.ntr | 樱花工作室 Team.NTR | |
+| atelier sakura mount position | 樱花工作室 Mount Position | |
+| atelier sakura extra | 樱花工作室 eXtra | |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
