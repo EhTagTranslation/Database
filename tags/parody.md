@@ -694,3 +694,4 @@
 | south park | 南方公园 | |
 | soushin shoujo matoi | 装神少女小缠 | |
 | kindaichi shounen no jikenbo | 金田一少年事件簿 | |
+| kekkai sensen | 血界战线 | |
