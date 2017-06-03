@@ -95,6 +95,7 @@
 | watatsuki no toyohime | 绵月丰姬 | |
 | watatsuki no yorihime | 绵月依姬 | |
 | kasen ibara | 茨木华扇 | |
+| ringo | 铃瑚 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
