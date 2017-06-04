@@ -1146,7 +1146,7 @@
 | latooni suvota | 拉托妮·苏波塔 | |
 | shine hausen | 夏茵·豪森 | |
 | stella bremer | 史黛拉·布瑞梅尔 | |
-| bianca whitaker | 比安卡 | |
+| bianca whitaker | 碧安卡 | |
 | crea dolosera | 克蕾雅·多萝赛娅 | |
 | mikono suzushiro | 御子乃·铃白 | |
 | suomi konepi | 须绪美·科妮皮 | |
@@ -1216,3 +1216,7 @@
 | roomi | 萝米 | |
 | martial artist | 武斗家 | |
 | thief | 盗贼 | |
+| haruhi suzumiya | 凉宫春日 | |
+| nera briscoletti | 芙萝菈 | |
+| nera briscoletti | 芙萝菈 | |
+| nera briscoletti | 芙萝菈 | |
