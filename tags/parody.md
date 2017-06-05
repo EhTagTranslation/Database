@@ -715,3 +715,21 @@
 | kamikaze kaitou jeanne | 神风怪盗贞德 | |
 | boruto | 博人传 | |
 | kuromukuro | 黑骸 | |
+| minecraft | 我的世界 | |
+| world masterpiece theater | 世界名作剧场 | |
+| the adventures of tom sawyer | 汤姆·索亚历险记 | |
+| les miserables shoujo cosette | 悲惨世界 少女珂赛特 | |
+| lucy of the southern rainbow | 南方彩虹的露西 | |
+| tico of the seven seas | 七海的堤可 | |
+| space adventure cobra | 哥布拉传奇 | |
+| cutey honey | 甜心战士 | |
+| megazone 23 | 无限地带23 | |
+| ganbare robocon | 加油啊！！小露宝 | |
+| moero robocon | 燃烧吧！！小露宝 | |
+| rainbow sentai robin | 彩虹战队罗宾 | |
+| remi nobodys girl | 无家可归的孩子蕾米 | |
+| revolutionary girl utena | 少女革命 | |
+| corrector yui | Cyber守护星 | |
+| steel angel kurumi | 钢铁天使胡桃 | |
+| zoids | ZOIDS | |
+
