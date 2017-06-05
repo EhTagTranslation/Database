@@ -208,7 +208,6 @@
 | ishigami kazui | 石神一威 | |
 | kamogawa tanuki | 鴨川たぬき | |
 | shiruka bakaudon | 知るかバカうどん | |
-| matsumomo mahiru | 松百まひる | |
 | amekosame | 雨小雨 | |
 | kiira | きぃら～☆ | |
 | kanoe | 庚 | |
