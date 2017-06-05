@@ -777,3 +777,19 @@
 | himitsu no akko-chan | 亚子的秘密 | 甜蜜小天使 |
 | yawara | 以柔克刚 | 《以柔克刚》，另译《柔道英雌》或《柔之道》，是浦泽直树所绘的漫画作品，并改编成电影、电视动画。 |
 | cyborg 009 | 人造人009 | |
+| future boy conan | 未来少年柯南 | |
+| muka muka paradise | 为食龙少爷 | 五更龙宝宝、家有恐龙、家有贱龙 |
+| the goose that laid the golden eggs | 下金蛋的鹅 | |
+| andersen monogatari | 安徒生童话 | |
+| cinderella | 灰姑娘 | |
+| k.o. beast | KO世纪三兽士 | |
+| trapp family story | 崔普一家物语 | |
+| wakakusa monogatari nan to jou sensei | 小妇人物语 南与乔老师 | |
+| my daddy long legs | 长腿叔叔 | |
+| nurse angel ririka sos | 守护天使莉莉佳 | |
+| youre under arrest | 逮捕令 | |
+| phantom quest corp | 幽幻怪社 | |
+| urusei yatsura | 福星小子 | |
+| attacker you | 胜利女排 | |
+| giant gorg | 巨神GORG | |
+| gunslinger girl | 神枪少女 | |
