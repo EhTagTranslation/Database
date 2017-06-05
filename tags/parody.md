@@ -700,12 +700,18 @@
 | twelve kingdoms | 十二国记 | |
 | | ↓炼金工作室 系列 | |
 | atelier series | 炼金工作室 | 《炼金工作室系列》（日语：アトリエシリーズ；英语：Atelier (series)）是由GUST制作的系列游戏。  |
-| atelier marie | 玛莉的工作室 | A1 |
-| atelier elie | 艾莉的工作室 | A2 |
-| atelier iris | 伊莉斯的工作室 | A6~A8 |
-| mana khemia | 玛娜传奇 | A9~A10 |
-| atelier rorona | 罗罗娜的工作室 | A11 |
-| atelier totori | 托托莉的工作室 | A12 |
-| atelier meruru | 梅露露的工作室 | A13 |
-| atelier shallie | 夏莉的工作室 | A16 |
+| atelier marie | 玛莉的工作室 | 《炼金工作室系列》A1 |
+| atelier elie | 艾莉的工作室 | 《炼金工作室系列》A2 |
+| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6~A8 |
+| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9~A10 |
+| atelier rorona | 罗罗娜的工作室 | 《炼金工作室系列》A11 |
+| atelier totori | 托托莉的工作室 | 《炼金工作室系列》A12 |
+| atelier meruru | 梅露露的工作室 | 《炼金工作室系列》A13 |
+| atelier shallie | 夏莉的工作室 | 《炼金工作室系列》A16 |
 | | ↑炼金工作室 系列 | |
+| my neighbor totoro | 龙猫 | |
+| professor layton | 雷顿教授 | |
+| bubblegum crisis | 泡泡糖危机 | |
+| kamikaze kaitou jeanne | 神风怪盗贞德 | |
+| boruto | 博人传 | |
+| kuromukuro | 黑骸 | |
