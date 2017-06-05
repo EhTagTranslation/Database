@@ -732,4 +732,25 @@
 | corrector yui | Cyber守护星 | |
 | steel angel kurumi | 钢铁天使胡桃 | |
 | zoids | ZOIDS | |
+| world of warcraft | 魔兽世界 | |
+| diablo | 暗黑破坏神 | |
+| star trek | 星际迷航 | |
+| binan koukou chikyuu bouei-bu love | 美男高校地球防卫部LOVE! | |
+| asobi ni iku yo | 玩伴猫耳娘 | |
+| assassins creed | 刺客信条 | |
+| peter pan | 小飞侠 | |
+| romeos blue skies | 罗密欧的蓝天 | |
+| 3000 leagues in search of mother | 三千里寻母记 | 《寻母三千里》，又译《万里寻母》、《万里寻亲记》、《三千里寻母记》 |
+| heidi | 海蒂 | |
+| heidi girl of the alps | 阿尔卑斯山的少女 | 飘零燕、小天使 |
+| anne of green gables | 绿山墙的安妮 | |
+| futari no lotte | 我与我 两个绿蒂 | |
+| katri girl of the meadows | 牧场上的少女卡特莉 | |
+| the bush baby | 大草原上的小天使 灌丛婴猴 | |
+| the story of perrine | 佩琳物语 | 小英的故事 |
+| dr. slump | 阿拉蕾 | IQ博士、怪博士与机器娃娃 |
+| zettai muteki raijin-oh | 绝对无敌 | |
+| dirty pair | 搞怪拍档 | |
+| ai no wakakusa monogatari | 爱的小妇人物语 | |
+| the story of pollyanna | 爱少女波丽安娜物语 | |
 
