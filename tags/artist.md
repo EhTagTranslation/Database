@@ -285,3 +285,26 @@
 | fujishima sei1go | 藤岛制1号 | |
 | nanotsuki | なのつき | |
 | norutaru | のるたる | |
+| koi | Koi | Koi是日本的漫画家、画师。 现住在东京都。作品类型为四格漫画。代表作是《请问您今天要来点兔子吗》。 |
+| koishi chikasa | 小石ちかさ | |
+| koikawa minoru | 恋河ミノル | |
+| koiko irori | 恋小いろり | |
+| koi nobori | Koiのぼり | |
+| koiken | こいけん | |
+| koizumi hitsuji | 小泉ひつじ | |
+| hormone koijirou | ホルモン恋次郎 | |
+| koinu | こいぬ | |
+| kinnotama | またのんき▼ | |
+| suka | すか | |
+| amazon | 雨存 | |
+| milk jam | みるくジャム | |
+| isami nozomi | 伊佐美ノゾミ | |
+| nakani | なかに | |
+| souryuu | 双龙 | |
+| umi suzume | 雨美すずめ | |
+| michiking | みちきんぐ | |
+| otabe sakura | おたべさくら | |
+| ryo | RYO \| RYÖ \| りょう | 没後<br>SAILORQ2<br>めたもる |
+| minori kenshirou | 实验四郎 | |
+| umemura | 梅村 | |
+| peter mitsuru | ペーター・ミツル | |
