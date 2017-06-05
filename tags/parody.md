@@ -753,4 +753,27 @@
 | dirty pair | 搞怪拍档 | |
 | ai no wakakusa monogatari | 爱的小妇人物语 | |
 | the story of pollyanna | 爱少女波丽安娜物语 | |
-
+| princess sarah | 小公主莎拉 | |
+| tobe isami | 伊沙米大冒险 | |
+| doraemon | 哆啦A梦 | |
+| pretty sammy | 魔法少女砂沙美 | |
+| ochame na futago | 汉妮与南妮 | 不明白为什么中文圈能把《おちゃめな双子　－クレア学院物語－》和《阿尔卑斯物语 我的安妮特》搞混 |
+| miracle girl limit-chan | 奇迹少女理美 | 笑咪咪/奇迹少女理美/奇迹少女极限酱 |
+| mahou no yousei persia | 魔法妖精贝露莎 | |
+| minky momo | 魔法公主明琪桃子 | 甜甜仙子 |
+| majokko megu-chan | 魔女Megu | 仙女下凡 |
+| creamy mami | 我是小甜甜 | 魔法小天使 |
+| magical angel sweet mint | 欢欢仙子 | |
+| sally the witch | 魔法使莎莉 | |
+| mahou shoujo lalabel | 魔法少女拉拉贝尔 | |
+| hana no ko lunlun | 花仙子 | |
+| magical emi | 魔法之星爱美 | |
+| floral magician mary bell | 俏皮小花仙 | |
+| mahou tsukai chappy | 魔法使恰比 | |
+| marvelous melmo | 神奇糖 | 神化娇娇女 |
+| pastel yumi | 魔法偶像神笔由美 | 爱花仙子 |
+| laputa castle in the sky | 天空之城 | |
+| appleseed | 苹果核战记 | |
+| himitsu no akko-chan | 亚子的秘密 | 甜蜜小天使 |
+| yawara | 以柔克刚 | 《以柔克刚》，另译《柔道英雌》或《柔之道》，是浦泽直树所绘的漫画作品，并改编成电影、电视动画。 |
+| cyborg 009 | 人造人009 | |
