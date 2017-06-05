@@ -1218,5 +1218,8 @@
 | thief | 盗贼 | |
 | haruhi suzumiya | 凉宫春日 | |
 | nera briscoletti | 芙萝菈 | |
-| nera briscoletti | 芙萝菈 | |
-| nera briscoletti | 芙萝菈 | |
+| crimson viper | 深红毒蛇 | |
+| blue mary | 布鲁玛丽 | |
+| king | 琼 | |
+| dark magician girl | 黑魔术少女 | |
+| silent magician | 沉默魔术师 | |
