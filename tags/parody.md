@@ -808,3 +808,4 @@
 | arpeggio of blue steel | 苍蓝钢铁的琶音 | |
 | maken-ki | 魔剑姬！ | |
 | expelled from paradise | 乐园追放 | |
+| glasslip | 玻璃之唇 | |
