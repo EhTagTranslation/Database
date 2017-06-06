@@ -340,7 +340,7 @@
 | airfield hime | 飞行场姬 | |
 | soukou kuuboki | 装甲空母鬼 | |
 | | ▲舰队Collection-KanColle 人物 | |
-| | ▼偶像大师-THE IDOLM@STER 人物 | |
+| | ▼偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |
 | producer | 制作人 | |
 | haruka amami | 天海春香 | |
 | chihaya kisaragi | 如月千早 | |
