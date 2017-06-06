@@ -807,4 +807,4 @@
 | ladies versus butlers | 大小姐×执事！ | |
 | arpeggio of blue steel | 苍蓝钢铁的琶音 | |
 | maken-ki | 魔剑姬！ | |
-| expelled from paradise | 乐园追放| |
+| expelled from paradise | 乐园追放 | |
