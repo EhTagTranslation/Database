@@ -1,7 +1,6 @@
 ﻿本页储存标签列表的艺术家(artist)翻译。
 ### 请按照如下规则：
 * 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。或者使用文本介绍时写在简介中。
-* 日文名不包含假名时，参照[日语专有名词的中译原则](https://zh.wikipedia.org/wiki/Wikipedia:日语专有名词的中译原则)转写为简体中文。
 * 图片也可用作者P站头像，或者为你自己喜爱的画师做一张图片简介，P站头像无法外链，建议传新浪微博等能方便外链图片的地方。
 
 #### 推荐规则，非强制
@@ -311,3 +310,14 @@
 | tennouji kitsune | 天王寺狐 | 天王寺狐（天王寺 きつね/天王寺 キツネ）（1965年－）是日本男性漫画家，大阪府出身，曾用笔名“天王寺动物园”、“天王寺水族馆”。自《枪械少女！！》起，笔名改为“天王寺キツネ”。 |
 | shikishima tenki | 敷岛天气 | |
 | shikishima shoutarou | 敷岛昭太郎 | |
+| siina yuuki | 椎名悠輝 | |
+| manami tatsuya | 真未たつや | |
+| miharu | 美春 \| ミハル | FAKESTAR <br> TTT |
+| mush | むっしゅ | |
+| haneinu | 跳犬 | |
+| misaki takahiro | 三崎高博 | |
+| sada ko-ji | さだこーじ | |
+| mikami mika | 三上ミカ | |
+| nagare ippon | 流一本 | |
+| hicoromo kyouichi | 绯衣响一 | |
+| akaze kidai | 亚风纪代 | |

@@ -1,7 +1,6 @@
 ﻿本页储存标签列表的团队(group)翻译。
 请按照如下规则：
 * 日文名中有汉字者优先写含汉字的名称，可在简介中写全假名或国内译名。
-* 日文名不包含假名时，参照[日语专有名词的中译原则](https://zh.wikipedia.org/wiki/Wikipedia:日语专有名词的中译原则)转写为简体中文。
 
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
@@ -313,7 +312,23 @@
 | inumiso | イヌミソ | |
 | natsutama | なつたま | |
 | wakuwaku doubutsuen | わくわく動物園 | |
-| shikishima guntool | 敷岛贋具 | |
+| shikishima guntool | 敷岛赝具 | |
+| kaname | 要 | |
+| studio vanguard | STUDIO VANGUARD | |
+| gerupin | ゲルピン | |
+| g.t.p | ゲルピンちん太ぽん太  | |
+| knockout | KNOCKOUT | |
+| atamanurui mix-er | アタマヌルイMIX-eR | |
+| mecchori | めっちょり | |
+| titokara 2nd branch | 千歳烏山第2出張所 | |
+| fakestar | FAKESTAR | |
+| nikomi omurice | 煮込みオムライス | |
+| inaka no yasaiya | 田舎の野菜屋 | |
+| nacchuushou | 夏中症 | |
+| applesauce | Applesauce | |
+| aquadrop | アクアドロップ | |
+| ttt | TTT | |
+| abyukyo koubou | あびゅうきょ工房 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) |
