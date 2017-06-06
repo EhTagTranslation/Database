@@ -809,3 +809,4 @@
 | maken-ki | 魔剑姬！ | |
 | expelled from paradise | 乐园追放 | |
 | glasslip | 玻璃之唇 | |
+| hanasaku iroha | 花开伊吕波 | |
