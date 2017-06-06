@@ -801,3 +801,4 @@
 | durarara | 无头骑士异闻录 DuRaRaRa!! | |
 | supernatural | 邪恶力量 | |
 | koi to senkyo to chocolate | 恋爱与选举与巧克力 | |
+| goblin slayer | 哥布林杀手 | |
