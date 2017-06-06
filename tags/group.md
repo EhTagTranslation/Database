@@ -320,7 +320,7 @@
 | knockout | KNOCKOUT | |
 | atamanurui mix-er | アタマヌルイMIX-eR | |
 | mecchori | めっちょり | |
-| titokara 2nd branch | 千歳烏山第2出張所 | |
+| titokara 2nd branch | 千岁乌山第2出张所 | |
 | fakestar | FAKESTAR | |
 | nikomi omurice | 煮込みオムライス | |
 | inaka no yasaiya | 田舎の野菜屋 | |
