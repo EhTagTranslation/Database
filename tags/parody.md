@@ -801,3 +801,4 @@
 | durarara | 无头骑士异闻录 DuRaRaRa!! | |
 | supernatural | 邪恶力量 | |
 | goblin slayer | 哥布林杀手 | |
+| dungeon meshi | 迷宫饭 | |
