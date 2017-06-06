@@ -1353,4 +1353,6 @@
 | vira | 维拉 | |
 | fumina hoshino | 星野文奈 | |
 | angela balzac | 安吉拉·巴尔扎克 | |
-| fumina hoshino | 星野文奈 | |
+| yanagi takayama | 高山柳 | |
+| yanagi takayama | 高山柳 | |
+| yanagi takayama | 高山柳 | |
