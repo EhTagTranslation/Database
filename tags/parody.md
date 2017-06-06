@@ -793,3 +793,9 @@
 | attacker you | 胜利女排 | |
 | giant gorg | 巨神GORG | |
 | gunslinger girl | 神枪少女 | |
+| yu yu hakusho | 幽游白书 | |
+| stella no mahou | 斯特拉的魔法 | |
+| hinako note | 雏子的笔记 | |
+| hoozuki no reitetsu | 鬼灯的冷彻 | |
+| daiya no ace | 钻石王牌 | |
+| durarara | 无头骑士异闻录 DuRaRaRa!! | |
