@@ -805,5 +805,6 @@
 | dungeon meshi | 迷宫饭 | |
 | kanokon | 我的狐仙女友 | |
 | ladies versus butlers | 大小姐×执事！ | |
-| arpeggio of blue steel | 苍蓝钢铁战舰 | |
+| arpeggio of blue steel | 苍蓝钢铁的琶音 | |
 | maken-ki | 魔剑姬！ | |
+| expelled from paradise | 乐园追放| |
