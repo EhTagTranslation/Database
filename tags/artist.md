@@ -308,3 +308,4 @@
 | minori kenshirou | 实验四郎 | |
 | umemura | 梅村 | |
 | peter mitsuru | ペーター・ミツル | |
+| tennouji kitsune | 天王寺きつね | |

@@ -1030,6 +1030,7 @@
 | ruri miyamoto | 宫本琉璃 | |
 | | ▼迷途猫 | |
 | fumino serizawa | 芹泽文乃 | |
+| nozomi kiriya | 雾谷希 | |
 | | ▼魔禁/超炮 | |
 | touma kamijou | 上条当麻 | |
 | mikoto misaka | 御坂美琴 | |
@@ -1119,6 +1120,9 @@
 | meroune lorelei | 美洛努·罗雷莱 | |
 | tionishia | 提欧尼西亚 | |
 | kimihito kurusu | 来留主公人 | |
+| | ▼ 恋爱与选举与巧克力 | |
+| yuuki oojima | 大岛裕树 | |
+| satsuki shinonome | 东云皋月 | |
 | | ▼甲铁城的卡巴内瑞 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |

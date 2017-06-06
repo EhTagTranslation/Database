@@ -312,6 +312,7 @@
 | rorie-do | ろり絵堂 | |
 | inumiso | イヌミソ | |
 | natsutama | なつたま | |
+| wakuwaku doubutsuen | わくわく動物園 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) |
