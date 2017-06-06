@@ -309,3 +309,5 @@
 | umemura | 梅村 | |
 | peter mitsuru | ペーター・ミツル | |
 | tennouji kitsune | 天王寺狐 | 天王寺狐（天王寺 きつね/天王寺 キツネ）（1965年－）是日本男性漫画家，大阪府出身，曾用笔名“天王寺动物园”、“天王寺水族馆”。自《枪械少女！！》起，笔名改为“天王寺キツネ”。 |
+| shikishima tenki | 敷岛天气 | |
+| shikishima shoutarou | 敷岛昭太郎 | |

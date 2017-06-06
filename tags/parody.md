@@ -803,3 +803,7 @@
 | koi to senkyo to chocolate | 恋爱与选举与巧克力 | |
 | goblin slayer | 哥布林杀手 | |
 | dungeon meshi | 迷宫饭 | |
+| kanokon | 我的狐仙女友 | |
+| ladies versus butlers | 大小姐×执事！ | |
+| arpeggio of blue steel | 苍蓝钢铁战舰 | |
+| maken-ki | 魔剑姬！ | |
