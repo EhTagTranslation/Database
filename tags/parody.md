@@ -802,3 +802,4 @@
 | supernatural | 邪恶力量 | |
 | koi to senkyo to chocolate | 恋爱与选举与巧克力 | |
 | goblin slayer | 哥布林杀手 | |
+| dungeon meshi | 迷宫饭 | |
