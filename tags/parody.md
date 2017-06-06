@@ -799,3 +799,4 @@
 | hoozuki no reitetsu | 鬼灯的冷彻 | |
 | daiya no ace | 钻石王牌 | |
 | durarara | 无头骑士异闻录 DuRaRaRa!! | |
+| supernatural | 邪恶力量 | |
