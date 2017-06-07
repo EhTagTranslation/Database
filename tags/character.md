@@ -824,7 +824,7 @@
 | | ▼小林家的龙女仆 角色 | |
 | tohru | 托尔 | ![托尔](http://ehgt.org/t/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |
 | kanna kamui | 康娜卡姆依 | ![康娜](http://ehgt.org/t/92/45/9245438047724c190da3fb17f94bf2351dae0916-505285-2000-3000-jpg_l.jpg) |
-| quetzalcoatl | 魁札尔科亚特尔（露科亚） | ![露科亚](http://ehgt.org/t/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg) |
+| quetzalcoatl | 魁札尔科亚特尔 | ![尔科亚](http://ehgt.org/t/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg) |
 | kobayashi-san | 小林 | ![小林](http://ehgt.org/t/78/c8/78c831f1bdfe841cffac1f136fb58e1d9e496dfe-1490811-2180-3060-png_l.jpg) |
 | shouta magatsuchi | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) |
 | riko saikawa | 才川莉子 | |
