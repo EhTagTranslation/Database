@@ -333,8 +333,12 @@
 | asatsuki dou | 朝月堂 | |
 | serizawa-room | 芹沢室 | |
 | suzuya | 凉屋 | |
+| cradle | Cradle | |
+| puffsleeve | Puffsleeve | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| abhar | ABHAR | |
+| abhar tronc | ABHAR Tronc | |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) |
 | nutaku | Nutaku | |
 | etude | etude | |

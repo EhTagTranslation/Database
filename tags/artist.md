@@ -351,3 +351,6 @@
 | izumi tsubasu | 和泉つばす | |
 | sakai hamachi | 堺はま | |
 | kannazuki nem | 神無月ねむ | |
+| sakurabe notos | 桜部のとす | |
+| misaki kurehito | 深崎暮人 | |
+| kuroya shinobu | 黑谷忍 | |

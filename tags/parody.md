@@ -821,3 +821,4 @@
 | .hackroots | .hack//Roots | |
 | .hacklegend of the twilight | .hack//黄昏的腕轮传说 | |
 | log horizon | 记录的地平线 | |
+| kamisama minarai himitsu no cocotama | 见习神仙 秘密的心灵 | |
