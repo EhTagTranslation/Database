@@ -1031,6 +1031,8 @@
 | | ▼迷途猫 | |
 | fumino serizawa | 芹泽文乃 | |
 | nozomi kiriya | 雾谷希 | |
+| chise umenomori | 梅之森千世 | |
+| otome tsuduki | 都筑乙女 | |
 | | ▼魔禁/超炮 | |
 | touma kamijou | 上条当麻 | |
 | mikoto misaka | 御坂美琴 | |
