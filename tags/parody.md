@@ -812,3 +812,12 @@
 | hanasaku iroha | 花开伊吕波 | |
 | akaneiro ni somaru saka | 茜色染红的街道 | |
 | hoshizora e kakaru hashi | 架向星空之桥 | |
+| gj-bu | GJ部 | |
+| kaze no yojimbo | 旋风之用心棒 | |
+| kishin taisen gigantic formula | 机神大战-巨型方程式 | |
+| .hack | .hack | |
+| .hacksign | .hack//SIGN | |
+| .hackg.u. | .hack//G.U. | |
+| .hackroots | .hack//Roots | |
+| .hacklegend of the twilight | .hack//黄昏的腕轮传说 | |
+| log horizon | 记录的地平线 | |
