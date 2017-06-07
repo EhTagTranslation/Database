@@ -822,3 +822,6 @@
 | .hacklegend of the twilight | .hack//黄昏的腕轮传说 | |
 | log horizon | 记录的地平线 | |
 | kamisama minarai himitsu no cocotama | 见习神仙 秘密的心灵 | |
+| phantom of inferno | 幻灵镇魂曲 | |
+| dramatical murder | 戏剧性谋杀 | DRAMAtical Murder/ドラマティカル マーダー(ドラマダ)  |
+| robotics notes | 机器人笔记 | Robotics;Notes |

@@ -375,6 +375,9 @@
 | atelier sakura mount position | 樱花工作室 Mount Position | |
 | atelier sakura extra | 樱花工作室 eXtra | |
 | abel software | AbelSoftware | |
+| type-moon | TYPE-MOON | |
+| nitroplus | Nitro+ | |
+| 5pb. | 5pb. | |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
