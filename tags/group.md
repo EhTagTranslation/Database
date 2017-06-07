@@ -84,6 +84,7 @@
 | atelier tiv | Atelier Tiv | |
 | atelier lunette | Atelier Lunette | |
 | atelier gh | Atelier G/H | |
+| atelier botan | あとりえ牡丹 | |
 | atelier kinta | あとりえKINTA | |
 | atelier miyabi | あとりえ雅 | |
 | atelier knee stroke | あとりえ にーすとろーく | |
@@ -329,6 +330,9 @@
 | aquadrop | アクアドロップ | |
 | ttt | TTT | |
 | abyukyo koubou | あびゅうきょ工房 | |
+| asatsuki dou | 朝月堂 | |
+| serizawa-room | 芹沢室 | |
+| suzuya | 凉屋 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) |

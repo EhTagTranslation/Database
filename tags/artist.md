@@ -321,3 +321,33 @@
 | nagare ippon | 流一本 | |
 | hicoromo kyouichi | 绯衣响一 | |
 | akaze kidai | 亚风纪代 | |
+| yuuki | 悠宇树 | |
+| ohkami ryosuke | 狼亮辅 | |
+| jitsuma | 児妻 | |
+| kawaisaw | 可哀想 | |
+| alpha alf layla | α・アルフライラ | |
+| tori hrami | 鳥ハラミ | |
+| mori marimo | もりまりも | |
+| fujisaka lyric | 藤坂リリック | |
+| mori kouichirou | 杜講一郎 | |
+| sakura akami | さくらあかみ | |
+| hatomugi munmun | 鳩麦月々 | |
+| gegera toshikazu | げげら俊和 | |
+| eromame | えろ豆 | |
+| momoya chika | 桃屋チカ | |
+| ooshima tomo | 大岛智 | |
+| hinemosu notari | ひねもすのたり | |
+| kurasawa makoto | 倉澤まこと | |
+| bokujou nushi k | 牧场主K | |
+| youta | 夜歌 \| よう太 | 朝月堂<br>あまとう |
+| tsumugi kyuuta | 紬きゅうた | |
+| diga tsukune | 奈賀つくね | |
+| cha mirai | 茶みらい | |
+| serizawa | 芹沢 | |
+| toono suika | 遠野すいか | |
+| pierre yoshio | ピエ～ル☆よしお | |
+| shinji mao | 真慈真雄 | |
+| aoi manabu | あおいまなぶ | |
+| izumi tsubasu | 和泉つばす | |
+| sakai hamachi | 堺はま | |
+| kannazuki nem | 神無月ねむ | |

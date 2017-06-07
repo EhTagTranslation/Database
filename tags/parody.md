@@ -810,3 +810,5 @@
 | expelled from paradise | 乐园追放 | |
 | glasslip | 玻璃之唇 | |
 | hanasaku iroha | 花开伊吕波 | |
+| akaneiro ni somaru saka | 茜色染红的街道 | |
+| hoshizora e kakaru hashi | 架向星空之桥 | |
