@@ -834,3 +834,5 @@
 | ib | Ib | 《Ib》（日语：イヴ）是一款2012年2月27日发布、使用RPG Maker 2000为工具，制作的一款免费的冒险游戏。作者为kouri。 |
 | ichigo mashimaro | 草莓棉花糖 | 苺乱扔 |
 | yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita. | 当不成勇者的我，只好认真找工作了。 | |
+| chrono crusade | 圣枪修女 | |
+| lost universe | 宇宙刑警 | |
