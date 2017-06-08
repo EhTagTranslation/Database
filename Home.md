@@ -105,14 +105,14 @@ Wiki中英文名只能填写真实Tag部分
 * [微博相册图片地址批量获取工具](https://greasyfork.org/scripts/18036)
 
 ### 里站缩略图用法
-去到处找无H的图还是很困难的一件工作。绅士里站域名exhentai.org限制了Cookies，不会显示在GitHub页面，但我们在里站就可以看到，因此可以用这个域名来访问一些有H的缩略图。
+去到处找无H的图还是很困难的一件工作。绅士里站域名exhentai.org限制了Cookies，不会显示在GitHub页面，但我们在里站就可以看到，因此可以用这个域名来访问一些有H的缩略图。  
 
 因为手动改域名太麻烦，干脆直接写了个脚本工具。[安装脚本](https://github.com/Mapaler/EhTagTranslator/raw/master/ETTWikiHelper-Thumbnail.user.js)因为怕麻烦，就没传Greasy Fork了，直接在项目里安装吧。  
- 点击按钮自动将对应的站点格式复制到剪贴板。（里站、表站、手机版）  
- 1.60开始，按住Ctrl再点击，即可直接复制得`![图](图片网址)`  
- 1.70开始，按住Alt再点击，即可直接复制得`![图](# "图片网址")`  
- ![使用效果](http://ww2.sinaimg.cn/large/6c84b2d6gw1f49x7pxka3j20ql0l90zw.jpg)
- 注：可能有些人还不知道可以将画廊列表从文字列表模式改为缩略图模式，表站“My Home > My Settings > Front Page Settings > Thumbnail View”，里站站“Settings > Front Page Settings > Thumbnail View”。
+点击按钮自动将对应的站点格式复制到剪贴板。（里站、表站、手机版）  
+1.60开始，按住Ctrl再点击，即可直接复制得`![图](图片网址)`  
+1.70开始，按住Alt再点击，即可直接复制得`![图](# "图片网址")`  
+![使用效果](http://ww2.sinaimg.cn/large/6c84b2d6gw1f49x7pxka3j20ql0l90zw.jpg)  
+注：可能有些人还不知道可以将画廊列表从文字列表模式改为缩略图模式，表站“My Home > My Settings > Front Page Settings > Thumbnail View”，里站站“Settings > Front Page Settings > Thumbnail View”。
 
 ## 本地编辑Wiki方法
 会使用[Git](https://git-scm.com)的朋友可以选择本地编辑Wiki。由于GitHub只允许有可写权限的账户编辑Wiki，所以请向项目管理者寻求项目私钥（Issue水楼发帖并留邮箱）。  
@@ -120,6 +120,6 @@ Wiki中英文名只能填写真实Tag部分
 远端URL填写`git@github.com:Mapaler/EhTagTranslator.wiki.git`。
 
 可视化MarkDown编辑器推荐使用[CuteMarkEd](http://cloose.github.io/CuteMarkEd/)，首次打开需选择“设置-样式-Github”。  
-纯文本MarkDown编辑器推荐使用[Visual Studio Code](https://code.visualstudio.com)。
-![TortoiseGit设置](http://ww2.sinaimg.cn/large/6c84b2d6gy1fg6nbvxqeij20kl0egwkh.jpg)  
-没有使用Git GUI的推荐使用[TortoiseGit](https://tortoisegit.org/)。更多Git GUI请见https://git-scm.com/downloads/guis
+纯文本MarkDown编辑器推荐使用[Visual Studio Code](https://code.visualstudio.com)。  
+![TortoiseGit设置](http://ww2.sinaimg.cn/large/6c84b2d6gy1fg6nbvxqeij20kl0egwkh.jpg)   
+没有使用Git GUI的推荐使用[TortoiseGit](https://tortoisegit.org/)。更多Git GUI请见https://git-scm.com/downloads/guis  
