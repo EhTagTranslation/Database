@@ -91,7 +91,7 @@
 | non non biyori | 悠哉日常大王 | ![图](http://ul.ehgt.org/59/0c/590c82282e840fcf1916ca9751ea6c6fab6fc918-2831485-1420-2015-jpg_l.jpg)![图](http://ul.ehgt.org/a2/ab/a2ab7d0ee1a3b5904fd7aaddfc21196bde19ebd3-743337-2114-2995-jpg_l.jpg) |
 | oda nobuna no yabou | 织田信奈的野望 | 轻小说，不了解<br>![图](http://exhentai.org/t/03/b1/03b11ebb5fb63112baf55d30c0ea76497ff04242-2189251-1400-2000-jpg_l.jpg)![图](http://exhentai.org/t/62/50/6250aa07b33994c1b159162aa1bb9b813102b4d3-5842321-4287-3000-png_l.jpg) |
 | tamako market | 玉子市场 | ![图](http://ul.ehgt.org/3f/f2/3ff239e2101a3517f6fe95c8c471214c82953376-160698-645-1000-jpg_l.jpg) |
-| yama no susume | 前进吧！登山少女 | 漫画，不了解<br>![图](http://exhentai.org/t/b5/24/b524fac42683f3c8b7f35f018a56fa45566c434d-2077281-1504-2114-jpg_l.jpg)![图](http://exhentai.org/t/16/a4/16a494e4a42f1a183e12f6d33f4297d3dd42e3ff-3033012-1409-2000-jpg_l.jpg) |
+| yama no susume | 向山进发 | ![图](http://exhentai.org/t/b5/24/b524fac42683f3c8b7f35f018a56fa45566c434d-2077281-1504-2114-jpg_l.jpg)![图](http://exhentai.org/t/16/a4/16a494e4a42f1a183e12f6d33f4297d3dd42e3ff-3033012-1409-2000-jpg_l.jpg) |
 | pripara | 美妙天堂 | 又译《星光乐园》，游戏不了解<br>![图](http://exhentai.org/t/00/85/0085b512593931eeb83cbfefdc27c1680e68bf38-769698-1506-2123-jpg_l.jpg)![图](http://exhentai.org/t/40/ac/40ac686e31a678c6686e233fd01ef176a7146a32-7306897-2133-3000-jpg_l.jpg) |
 | sora no method | 天体的秩序 | ![图](http://ul.ehgt.org/3b/c8/3bc85ea59e15a8f8ece52194dec5844687dbb5e9-4019322-2425-3477-jpg_l.jpg)![图](http://exhentai.org/t/cb/0b/cb0b0596498369b9221f64ea5873c359fbb0a004-6362697-2128-3000-jpg_250.jpg) |
 | accel world | 加速世界 | 人不如猪<br>![图](http://exhentai.org/t/c0/f1/c0f16dcec18c9aff466d801566d3b900701f14ad-1967836-2838-2000-jpg_l.jpg)![图](http://exhentai.org/t/be/36/be363662f5605eef0cab1e2b78125fcfc4f8393b-1719724-1704-2400-jpg_l.jpg) |
@@ -837,3 +837,13 @@
 | chrono crusade | 圣枪修女 | |
 | lost universe | 宇宙刑警 | |
 | amanchu | 蓝海少女！ | |
+| mangaka-san to assistant-san to | 漫画家与助手 | |
+| sisters natsu no saigo no hi | SISTERS～夏最后之日～ | |
+| tokyo 7th sisters | 东京 7th Sisters | |
+| 7th dragon | 第七龙神 | |
+| project blue earth sos | 蓝色计划-地球SOS | |
+| sakura hime | 樱姬华传 | |
+| the 3rd birthday | 第三次生日 | |
+| asuka 120 | 飞鸟120% 燃烧的学园祭 | |
+| jumping rabbit | 小兔飞飞 | |
+
