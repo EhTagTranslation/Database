@@ -836,3 +836,4 @@
 | yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita. | 当不成勇者的我，只好认真找工作了。 | |
 | chrono crusade | 圣枪修女 | |
 | lost universe | 宇宙刑警 | |
+| amanchu | 蓝海少女！ | |

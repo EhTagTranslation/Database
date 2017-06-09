@@ -355,3 +355,14 @@
 | misaki kurehito | 深崎暮人 | |
 | kuroya shinobu | 黑谷忍 | |
 | san sheng wan | 三生万 | http://www.pixiv.net/member.php?id=16811335 |
+| el | える | |
+| mango pudding | まんごープリン | |
+| gekka saeki | 月下冴喜 | |
+| shungiku tenudon | 春菊天うどん | |
+| mikaduki neko | 三日月ネコ | |
+| aihara shouta | 相原翔太 | |
+| mimofu | みもふ | |
+| takatuki nato | 鷹月ナト | |
+| shiratama | しらたま | |
+| nohara hiromi | 野原ひろみ | |
+| higashino mikan | 東野みかん | |
