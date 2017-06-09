@@ -348,6 +348,7 @@
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | appetite | アパタイト | |
+| pakopako soft | ぱこぱこそふと | |
 | neko neko soft | 猫猫软件 | |
 | abhar | ABHAR | |
 | abhar tronc | ABHAR Tronc | |
