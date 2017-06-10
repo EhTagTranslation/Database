@@ -1033,7 +1033,7 @@
 | fumino serizawa | 芹泽文乃 | ![](http://exhentai.org/t/9e/3b/9e3b863ee641b45a17d6f5a804797d64ce1263fb-95205-200-500-jpg_l.jpg) |
 | nozomi kiriya | 雾谷希 | ![](http://exhentai.org/t/83/d6/83d67c9915128646875787c25d7f660402f92c5e-86833-200-500-jpg_l.jpg) |
 | chise umenomori | 梅之森千世 | ![](http://exhentai.org/t/eb/47/eb479f9101fa9a9ac4387fe5aef94332291ee73f-92158-200-500-jpg_l.jpg) |
-| otome tsuduki | 都筑乙女 | ![](http://exhentai.org/t/45/87/45872d9bf03632f4587a7f1e98ffeca6e1b7dad1-77557-200-500-jpg_l.jpg) |
+| otome tsuzuki | 都筑乙女 | ![](http://exhentai.org/t/45/87/45872d9bf03632f4587a7f1e98ffeca6e1b7dad1-77557-200-500-jpg_l.jpg) |
 | | ▼魔禁/超炮 | |
 | touma kamijou | 上条当麻 | |
 | mikoto misaka | 御坂美琴 | |
