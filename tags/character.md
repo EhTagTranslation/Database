@@ -1360,3 +1360,7 @@
 | nako oshimizu | 押水菜子 | |
 | sawa okita | 冲田纱羽 | |
 | cinque izumi | 真红·和泉 | |
+| bloodberry | 红莓 | |
+| cherry | 樱桃 | |
+| sakuya tachibana | 橘咲夜 | |
+| asagi igawa | 井河 阿莎姬 | |
