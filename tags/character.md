@@ -329,12 +329,17 @@
 | etorofu | 择捉 | No.334 |
 | iona | 伊欧娜 | Mist01 |
 | mamiya | 间宫 | NPC |
-| wo-class | 空母WO级 | wo酱![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
-| re-class | 战舰RE级 | |
+| ka-class | 潜艇KA级 | |
 | so-class | 潜艇SO级 | |
-| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
+| ri-class | 重巡RI级 | |
+| re-class | 战舰RE级 | |
+| ta-class | 战舰TA级 | |
+| wo-class | 空母WO级 | wo酱![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
 | aircraft carrier oni | 空母栖鬼 | |
+| isolated island oni | 离岛栖鬼 | |
+| southern ocean oni | 南方栖鬼 | |
 | battleship-symbiotic hime | 战舰栖姬 | |
+| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
 | supply depot princess | 集积地栖姬 | |
 | seaport hime | 港湾栖姬 | |
 | midway hime | 中间栖姬 | |
