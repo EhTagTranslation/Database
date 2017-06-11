@@ -846,4 +846,6 @@
 | the 3rd birthday | 第三次生日 | |
 | asuka 120 | 飞鸟120% 燃烧的学园祭 | |
 | jumping rabbit | 小兔飞飞 | |
+| the fairly oddparents | 反斗家族 | |
+
 

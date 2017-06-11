@@ -1099,6 +1099,12 @@
 | shouko kirishima | 雾岛翔子 | |
 | aiko kudou | 工藤爱子 | |
 | miharu shimizu | 清水美春 | |
+| | ▼疯狂动物城 | |
+| judy hopps | 兔朱迪 | |
+| nick wilde | 狐尼克 | |
+| jack savage | 野蛮杰克 | |
+| chief bogo | 蛮牛局长 | |
+| bonnie hopps | 兔邦妮 | |
 | | ▼神薙 | |
 | nagi | 薙 | |
 | zange | 忏悔 | |
