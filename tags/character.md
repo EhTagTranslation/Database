@@ -1374,4 +1374,5 @@
 | bloodberry | 红莓 | |
 | cherry | 樱桃 | |
 | sakuya tachibana | 橘咲夜 | |
-| asagi igawa | 井河 阿莎姬 | |
+| asagi igawa | 井河阿萨姬 | |
+| kizuna ai | 绊爱| 人工智障 | 
