@@ -1375,4 +1375,12 @@
 | cherry | 樱桃 | |
 | sakuya tachibana | 橘咲夜 | |
 | asagi igawa | 井河阿萨姬 | |
-| kizuna ai | 绊爱| 人工智障 | 
+| kizuna ai | 绊爱 | 人工智障 | 
+| kimi aoi | 葵·喜美 | | 
+| tori aoi | 葵·托利 | | 
+| akira yamamoto | 山本玲 | | 
+| kaoru niimi | 新见熏 | | 
+| makoto harada | 原田真琴 | | 
+| mikage kiryuu | 桐生美影 | | 
+| melda deitz | 梅尔达·狄兹 | | 
+| yuki mori | 森雪 | | 
