@@ -247,7 +247,7 @@
 | yahagi | 矢矧 | No.139 矢矧![矢矧](# "http://exhentai.org/t/6b/a8/6ba8de26eec57498324b02af80d0549ca749e0a0-1102882-1423-2000-jpg_250.jpg") |
 | sakawa | 酒匂 | No.140 |
 | musashi | 武藏 | No.143 武藏![武藏](# "http://exhentai.org/t/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg") |
-| verniy | Верный | No.147 Верный（响改二） ![Верный](# "http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") |
+| verniy | 信赖 | No.147 Верный（响改二） ![Верный](# "http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") |
 | taihou | 大凤 | No.153 大凤![大凤](# "http://exhentai.org/t/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg") |
 | katori | 香取 | No.154 香取![香取](# "http://exhentai.org/t/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg") |
 | i-401 | 伊401 | No.155 伊401![伊401](# "http://exhentai.org/t/93/e6/93e601e4d66076f9d8e2a1e8e54686f1c9acdac5-524664-1410-2024-jpg_250.jpg") |
