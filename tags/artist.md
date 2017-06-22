@@ -343,7 +343,7 @@
 | tsumugi kyuuta | 紬きゅうた | |
 | diga tsukune | 奈賀つくね | |
 | cha mirai | 茶みらい | |
-| serizawa | 芹沢 | |
+| serizawa | 芹泽 | |
 | toono suika | 遠野すいか | |
 | pierre yoshio | ピエ～ル☆よしお | |
 | shinji mao | 真慈真雄 | |
@@ -366,3 +366,32 @@
 | shiratama | しらたま | |
 | nohara hiromi | 野原ひろみ | |
 | higashino mikan | 東野みかん | |
+| dr.bug | Dr.阿虫 | |
+| oyari ashito | 大枪苇人 | |
+| ameto yuki | あめとゆき | |
+| kenkou cross | 健康クロス |  |
+| yanagawa rio | やながわ理央 |  |
+| kakuzatou | 核座头 |  |
+| kaminagi | 神凪 |  |
+| twinbox | TwinBox |  |
+| izuminoaru | イズミノアル |  |
+| nora shinji | 白野じん |  |
+| shihachiro | しはちろ |  |
+| daikoukoku shinbun | 大広告新聞 |  |
+| yuuki hagure | 憂姫はぐれ |  |
+| paru | パル |  |
+| rikatan | りかたん☆ |  |
+| jaku denpa | 弱电波 |  |
+| hiyama izumi | 火山一角 |  |
+| kazuma muramasa | 和马村政 |  |
+| amatsuka china | 天使ちな |  |
+| denki shougun | 电气将军 |  |
+| gibuchoko | ぎヴちょこ |  |
+| sinbo tamaran | 神保玉兰 |  |
+| kaenuco | かえぬこ |  |
+| arikawa satoru | 有河サトル |  |
+| yui toshiki | 唯登诗树 |  |
+| kitahara tomoe | 北原朋萌。 |  |
+| kizaki yuuri | 树崎佑里 |  |
+| shio kazunoko | 塩かずのこ |  |
+| muska | むすか |  |
