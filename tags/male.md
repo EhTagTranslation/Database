@@ -44,7 +44,7 @@
 | demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与恶魔女孩(demon girl)或鬼(oni)标签混淆。恶魔不应该被标记为怪物(monster)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)标签。<br>![图](http://exhentai.org/t/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg)![图](http://exhentai.org/t/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg) | 
 | dog boy | 狗男孩 | 狗女孩(dog girl)的男性版本。 | 
 | draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 | 
-| fairy | 仙子 | 有翅膀的人或其他生物，往往体型很小。 | 
+| fairy | 仙子🧚‍♂️ | 有翅膀的人或其他生物，往往体型很小。 | 
 | fox boy | 狐男 | 狐女(fox girl)的男性版本。 |
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。<br>![图](http://exhentai.org/t/13/5c/135ce05b78b1d4170e51ed09bca35a6308b4905a-1500979-914-1300-jpg_l.jpg)![图](http://exhentai.org/t/39/6e/396e00043bbf49abfe7355dabca5d89d0cf8d63e-3424740-1410-2000-png_l.jpg) |
 | ghost | 幽灵 | 与非物质的存在性交。 | 
@@ -55,7 +55,7 @@
 | insect boy | 昆虫男孩 | 昆虫女孩(insect girl)的男性版本。 | 
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 | 
 | lizard guy | 蜥蜴男孩 | 蜥蜴女孩(lizard girl)的男性版本。 | 
-| merman | 人鱼 | 美人鱼(mermaid)的男性版本。 | 
+| merman | 人鱼🧜‍♂️ | 美人鱼(mermaid)的男性版本。 | 
 | minotaur | 牛头人 | 弥诺陶洛斯（古希腊语：Μῑνώταυρος，字面意思为“弥诺斯的牛”），希腊神话中一个著名的半人半牛怪物。 | 
 | monster | 怪物 | 任何不是人类、机器人(robot)、恶魔(demon)、动物或毛茸茸(furry)的角色。 |
 | mouse boy | 鼠男孩 | 鼠女孩(mouse girl)的男性版本。 |
@@ -72,55 +72,55 @@
 | snake boy | 蛇男 | 蛇女(snake girl)的男性版本。 | 
 | squid boy | 乌贼男 | 乌贼女(squid girl)的男性版本。 |
 | tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上怪物(monster)标签。 |
-| vampire | 吸血鬼 | 有尖尖的牙齿，饮血为生。 | 
+| vampire | 吸血鬼🧛‍♂️ | 有尖尖的牙齿，饮血为生。 | 
 | wolf boy | 狼男孩 | 狼女孩(wolf girl)的男性版本。 |
-| zombie | 僵尸 | 与僵尸性交。 | 
+| zombie | 僵尸🧟‍♂️ | 与僵尸性交。 | 
 | | ==== 身体 > 生物 > 动物 ==== | |
 | animal on animal | 兽兽 | 动物间性交。 | 
 | animal on furry | 兽毛 | 动物与毛茸茸(furry)角色间的性行为。 | 
-| bear | 🐻熊 | 任何熊科动物。 | 
+| bear | 熊🐻 | 任何熊科动物。 | 
 | bestiality | 兽交 | 人与动物间的性行为。 | 
-| bull | 🐂牛 | 任何雄性牛科动物。 |
-| camel | 🐫骆驼 | 任何类型的骆驼属动物。 | 
-| cat | 🐈猫 | 任何小型猫科动物。 | 
-| crab | 🦀螃蟹 | 任何有壳的甲壳动物。 | 
-| dinosaur | 恐龙 | 任何恐龙进化枝的动物。 | 
-| dog | 🐕狗 | 任何犬属动物。 | 
-| dolphin | 🐬海豚 | 任何小型鲸目哺乳动物。 | 
+| bull | 牛🐂 | 任何雄性牛科动物。 |
+| camel | 骆驼🐫 | 任何类型的骆驼属动物。 | 
+| cat | 猫🐈 | 任何小型猫科动物。 | 
+| crab | 螃蟹🦀 | 任何有壳的甲壳动物。 | 
+| dinosaur | 恐龙🦖 | 任何恐龙进化枝的动物。 | 
+| dog | 狗🐕 | 任何犬属动物。 | 
+| dolphin | 海豚🐬 | 任何小型鲸目哺乳动物。 | 
 | donkey | 驴 | 任何驴亚属动物。 | 
-| dragon | 🐉龙 | 神话中的有翼爬行动物。 | 
+| dragon | 龙🐉 | 神话中的有翼爬行动物。 | 
 | eel | 鳗鱼 | 任何扁平细长的鱼类。 | 
-| elephant | 🐘象 | 拥有四条粗蹄和象牙的大型哺乳动物。 | 
-| fish | 🐟鱼 | 任何非细长的水生无肢动物。 | 
-| fox | 🦊狐狸 | 任何犬科动物。 | 
-| frog | 🐸青蛙 | 任何无尾目动物。 | 
-| goat | 🐐山羊 | 任何山羊属动物。 | 
-| gorilla | 🦍猩猩 | 任何大型灵长目动物。 | 
-| horse | 🐎马 | 任何无条纹的马属动物。 | 
-| insect | 🐜昆虫 | 任何陆生无脊椎动物。 | 
+| elephant | 象🐘 | 拥有四条粗蹄和象牙的大型哺乳动物。 | 
+| fish | 鱼🐟 | 任何非细长的水生无肢动物。 | 
+| fox | 狐狸🦊 | 任何犬科动物。 | 
+| frog | 青蛙🐸 | 任何无尾目动物。 | 
+| goat | 山羊🐐 | 任何山羊属动物。 | 
+| gorilla | 猩猩🦍 | 任何大型灵长目动物。 | 
+| horse | 马🐎 | 任何无条纹的马属动物。 | 
+| insect | 昆虫🐜 | 任何陆生无脊椎动物。 | 
 | kangaroo | 袋鼠 | 任何有袋类动物。 | 
-| lion | 🦁狮 | 任何有蓬松鬃毛的雄性豹属动物。 | 
+| lion | 狮🦁 | 任何有蓬松鬃毛的雄性豹属动物。 | 
 | low bestiality | 未通过兽交 | 表示兽交(bestiality)的情况没有通过存在规则(presence rule)。<br>需要兽交(bestiality)标签。 | 
-| maggot | 🐛蛆 | 任何幼体（两栖类、昆虫、刺丝胞动物在变态为蛹或成体之前的状态）动物。 | 
-| monkey | 🐒猴 | 任何小型灵长目动物。 | 
-| mouse | 🐁鼠 | 任何啮齿目动物。 | 
-| octopus | 🐙章鱼 | 任何头足纲动物。 | 
+| maggot | 蛆🐛 | 任何幼体（两栖类、昆虫、刺丝胞动物在变态为蛹或成体之前的状态）动物。 | 
+| monkey | 猴🐒 | 任何小型灵长目动物。 | 
+| mouse | 鼠🐀 | 任何啮齿目动物。 | 
+| octopus | 章鱼🐙 | 任何头足纲动物。 | 
 | ostrich | 鸵鸟 | 任何长颈无飞行能力的鸟纲动物。 | 
-| panther | 🐆豹 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 | 
-| pig | 🐖猪 | 任何猪属动物。 | 
-| rabbit | 🐇兔 | 任何兔科动物。 | 
+| panther | 豹🐆 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 | 
+| pig | 猪🐖 | 任何猪属动物。 | 
+| rabbit | 兔🐇 | 任何兔科动物。 | 
 | reptile | 爬虫 | 任何爬行动物。 | 
-| rhinoceros | 🦏犀牛 | 任何有角的有蹄类动物。 | 
-| sheep | 🐑绵羊 | 任何绵羊(Ovis aries)。 | 
-| shark | 🦈鲨 | 任何有软骨骨骼的鱼类。 | 
+| rhinoceros | 犀牛🦏 | 任何有角的有蹄类动物。 | 
+| sheep | 绵羊🐏 | 任何绵羊(Ovis aries)。 | 
+| shark | 鲨🦈 | 任何有软骨骨骼的鱼类。 | 
 | slug | 蛞蝓 | 任何腹足软体动物，包括有甲壳的。 | 
-| snake | 🐍蛇 | 任何蛇亚目动物。 | 
-| spider | 🕷蜘蛛 | 任何蛛形纲动物。 | 
-| tiger | 🐅虎 | 任何虎种动物。 | 
-| turtle | 🐢龟 | 任何龟鳖目动物。 | 
-| unicorn | 🦄独角兽 | 任何有一只角的无条纹的马属动物。 | 
-| whale | 🐋鲸 | 任何鲸下目动物。 | 
-| wolf | 🐺狼 | 任何灰狼种动物。 | 
+| snake | 蛇🐍 | 任何蛇亚目动物。 | 
+| spider | 蜘蛛🕷 | 任何蛛形纲动物。 | 
+| tiger | 虎🐅 | 任何虎种动物。 | 
+| turtle | 龟🐢 | 任何龟鳖目动物。 | 
+| unicorn | 独角兽🦄 | 任何有一只角的无条纹的马属动物。 | 
+| whale | 鲸🐋 | 任何鲸下目动物。 | 
+| wolf | 狼🐺 | 任何灰狼种动物。 | 
 | worm | 蠕虫 | 任何有管状身体且无腿的动物。 | 
 | zebra | 斑马 | 任何有条纹的马属动物。 | 
 | | === 身体 > 身高 === | |
@@ -306,7 +306,7 @@
 | cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如男生制服(schoolboy uniform)、护士装(nurse)、女仆装(maid)。不用于 Cosplay 画廊。 |
 | crossdressing | 异性装 | 男性女装。不应与性转换(gender bender)混淆。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) |
 | diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与返老还童(age regression)、排便(scat)、幼稚型(infantilism)或排尿(urination)配对。 |
-| dougi | 练功服 | 用于各种武术课和训练的服装。通常有一条单色配带。 |
+| dougi | 练功服🥋 | 用于各种武术课和训练的服装。通常有一条单色配带。 |
 | fundoshi | 六尺褌 | 相扑手穿的丁字裤。 |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜(stockings)。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) |
 | gothic lolita | 哥特萝莉装 | 一种黑暗但有很多褶的服装风格。<br>![图](http://exhentai.org/t/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg)![图](http://exhentai.org/t/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg) |
@@ -315,7 +315,7 @@
 | hijab | 头巾 | 一个覆盖头部和胸部的面纱，主要用于遮盖头发。需要异性装(crossdressing)标签。 |
 | hotpants | 热裤 | 短的，突出臀部和腿部。不应与自行车短裤(bike shorts)、布鲁马(bloomers)或运动短裤(gymshorts)混淆。<br>![图](http://exhentai.org/t/36/82/3682e6eaf2bd56cbd040ceab913ce0f0a6fe09d8-1066447-1583-2211-jpg_l.jpg)![图](http://exhentai.org/t/d5/b0/d5b0e6b1ea48edcb602d0e941c9c85fde7a46666-6458880-2140-3000-png_l.jpg)![图](http://exhentai.org/t/42/1e/421ed5fc2646003024de98d281a16ab36e6a7e63-4741499-1600-2282-jpg_l.jpg) |
 | kigurumi | 全身套装 | 包括描绘角色面具的全身服装。不应与连体紧身衣(bodysuit)和皮物(skinsuit)标签混淆。当全身套装的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。<br>![图](http://ul.ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](http://ul.ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](http://ul.ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |
-| kimono | 和服 | 日本传统服装，有大丝带和不同的图案。 |
+| kimono | 和服👘 | 日本传统服装，有大丝带和不同的图案。 |
 | kindergarten uniform | 幼儿园制服 | 一个穿着简单的浅蓝色套头衫的人，有假的衣领，经常戴着黄色的帽子。 |
 | kunoichi | 女忍装 | 女性忍者服装。通常为暗色，有网装衣服和部分轻甲。不应与忍者装(ninja)混淆。需要异性装(crossdressing)标签。 |
 | lab coat | 白大褂 | 一件长长的白色外套。经常被医生，科学家或学校护士穿着。 |
