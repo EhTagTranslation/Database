@@ -383,6 +383,7 @@
 | hakujira uminekodan | はくじら海猫団 | |
 | missing paradise | ミッシングパラダイス | |
 | try and hougen futari shakai | TRY&方言二人社会 | |
+| mute cafe | MUTE Cafe | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | honey soft | HONEY SOFT | |
