@@ -366,8 +366,26 @@
 | happy water | HAPPY WATER | |
 | naragyogyo kumiai | なら漁業組合 | |
 | shichiten battou | 七天罚讨 | |
+| drop dead | DROP DEAD!! | |
+| erect touch | ERECT TOUCH | |
+| melanchol | メランコル | |
+| meisho hanten | めーしょー飯店 | |
+| rushe museum | Rushe Museum | |
+| ame usagi | あめうさぎ | |
+| sottile nero | ソッティーロネーロ | |
+| hollowplus | HOLLOWPLUS | |
+| iminic | IMINIC | |
+| oshaban | オシャバン | |
+| diogenes club | ディオゲネスクラブ | |
+| puchi village | ぷち★びれっじ | |
+| mirrorworld | MirrorWorld | |
+| kenkokotsu | KENKOKOTSU | |
+| hakujira uminekodan | はくじら海猫団 | |
+| missing paradise | ミッシングパラダイス | |
+| try and hougen futari shakai | TRY&方言二人社会 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| honey soft | HONEY SOFT | |
 | appetite | アパタイト | |
 | pakopako soft | ぱこぱこそふと | |
 | neko neko soft | 猫猫软件 | |
@@ -390,7 +408,7 @@
 | moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) |
 | yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)Yuzu-Soft | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](http://ul.ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) |
 | aquaplus | AQUAPLUS | |
-| leaf | ![icon](http://leaf.aquaplus.jp/favicon.ico)Leaf | Leaf会社<br>![logo](http://leaf.aquaplus.jp/css/gn_toHome.png)<br>![图](http://ul.ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_250.jpg) |
+| leaf | Leaf🍃 | Leaf会社<br>![logo](http://leaf.aquaplus.jp/css/gn_toHome.png)<br>![图](http://ul.ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_250.jpg) |
 | key | 🔑Key | Key会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](http://ul.ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) |
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](http://ul.ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) |
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](http://ul.ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) |

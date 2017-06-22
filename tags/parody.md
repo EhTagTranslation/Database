@@ -851,3 +851,5 @@
 | amagami | 圣诞之吻 | |   
 | fosters home for imaginary friends | 亲亲麻吉 | |
 | futurama | 飞出个未来 | |
+| kimi ga yobu megiddo no oka de | 你在米吉多之丘的呼唤 | |
+| kuroko no basuke | 黑子的篮球 | |
