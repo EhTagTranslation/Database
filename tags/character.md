@@ -337,11 +337,11 @@
 | kuubo seiki | 空母栖鬼 | |
 | kuubo suiki | 空母水鬼 | |
 | soukou kuuboki | 装甲空母鬼 | |
-| isolated island oni | 离岛栖鬼 | |
-| southern ocean oni | 南方栖鬼 | |
 | senkan seiki  | 战舰栖姬 | |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
 | shuusekichi seiki | 集积地栖姬 | |
+| isolated island oni | 离岛栖鬼 | |
+| southern ocean oni | 南方栖鬼 | |
 | seaport hime | 港湾栖姬 | |
 | midway hime | 中间栖姬 | |
 | airfield hime | 飞行场姬 | |
@@ -351,7 +351,7 @@
 | haruka amami | 天海春香 | |
 | chihaya kisaragi | 如月千早 | |
 | yukiho hagiwara | 萩原雪步 | |
-| yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1)![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
+| yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1) ![高槻弥生](http://exhentai.org/t/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg) |
 | kasumi takatsuki | 高槻霞 | |
 | ritsuko akizuki | 秋月律子 | |
 | azusa miura | 三浦梓 | |

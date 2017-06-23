@@ -384,6 +384,13 @@
 | missing paradise | ミッシングパラダイス | |
 | try and hougen futari shakai | TRY&方言二人社会 | |
 | mute cafe | MUTE Cafe | |
+| taishou romanesque | 大正ロマネスク | |
+| gangontou | 巌魂薹 | |
+| kaokuba | 家屋場 | |
+| yukikagerou | 雪陽炎 | |
+| akumenari | アクメナリ! | |
+| hot mikan | ほっとみかん | |
+| g-panda | Gぱんだ | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | honey soft | HONEY SOFT | |

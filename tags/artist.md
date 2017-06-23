@@ -166,7 +166,7 @@
 | fujutsushi | 风术师 | |
 | fubuki poni | 風吹ぽに | |
 | yari ashito | 大枪苇人 | |
-| ouma tokiichi | 逢魔刻壱 | |
+| ouma tokiichi | 逢魔刻壹 | |
 | momonoki fum | 百乃木富梦 | |
 | miito shido | 三糸シド | |
 | motomiya mitsuki | もとみやみつき | |
@@ -437,3 +437,9 @@
 | seno fumiki | 瀬野文希 | |
 | shimuu | しゃむ | |
 | rie-chan 14-sai | りえちゃん14歳 | |
+| fukori | フコリ | |
+| shinyashiki | 新屋敷 | |
+| kanzume | KANZUME | |
+| kishimen | きしめん | |
+| ken-1 | Ken-1 | |
+| midoh tsukasa | 御堂つかさ | |
