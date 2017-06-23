@@ -247,7 +247,6 @@
 | yahagi | 矢矧 | No.139 矢矧![矢矧](# "http://exhentai.org/t/6b/a8/6ba8de26eec57498324b02af80d0549ca749e0a0-1102882-1423-2000-jpg_250.jpg") |
 | sakawa | 酒匂 | No.140 |
 | musashi | 武藏 | No.143 武藏![武藏](# "http://exhentai.org/t/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg") |
-| verniy | 信赖 | No.147 Верный（响改二） ![Верный](# "http://exhentai.org/t/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") |
 | taihou | 大凤 | No.153 大凤![大凤](# "http://exhentai.org/t/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg") |
 | katori | 香取 | No.154 香取![香取](# "http://exhentai.org/t/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg") |
 | i-401 | 伊401 | No.155 伊401![伊401](# "http://exhentai.org/t/93/e6/93e601e4d66076f9d8e2a1e8e54686f1c9acdac5-524664-1410-2024-jpg_250.jpg") |
@@ -335,16 +334,17 @@
 | re-class | 战舰RE级 | |
 | ta-class | 战舰TA级 | |
 | wo-class | 空母WO级 | wo酱![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
-| aircraft carrier oni | 空母栖鬼 | |
+| kuubo seiki | 空母栖鬼 | |
+| kuubo suiki | 空母水鬼 | |
+| soukou kuuboki | 装甲空母鬼 | |
 | isolated island oni | 离岛栖鬼 | |
 | southern ocean oni | 南方栖鬼 | |
-| battleship-symbiotic hime | 战舰栖姬 | |
+| senkan seiki  | 战舰栖姬 | |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
-| supply depot princess | 集积地栖姬 | |
+| shuusekichi seiki | 集积地栖姬 | |
 | seaport hime | 港湾栖姬 | |
 | midway hime | 中间栖姬 | |
 | airfield hime | 飞行场姬 | |
-| soukou kuuboki | 装甲空母鬼 | |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |
 | producer | 制作人 | |
