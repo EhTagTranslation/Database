@@ -935,9 +935,10 @@
 | erina nakiri | 薙切绘理奈 | |
 | | ▼埃罗芒阿老师 角色 | |
 | sagiri izumi | 和泉纱雾 | |
-| elf yamada | 山田伊尔芙 | |
+| elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报 |
 | masamune izumi | 和泉正宗 | |
 | megumi jinno | 神野惠 | |
+| muramasa senju | 千寿村征（梅园花） | |
 | | ▼超级索尼子 角色 | |
 | super sonico | 超级索尼子 | |
 | super pochaco | 超级帕恰子 | |
