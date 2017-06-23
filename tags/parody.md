@@ -854,3 +854,4 @@
 | kimi ga yobu megiddo no oka de | 你在米吉多之丘的呼唤 | |
 | kuroko no basuke | 黑子的篮球 | |
 | boku to maou | 魔王与我 | |
+| cerberus | 刻耳柏洛斯 | |
