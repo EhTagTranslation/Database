@@ -291,7 +291,7 @@
 | iowa | 衣阿华 | No.240 |
 | littorio | 利托里奥 | No.241 |
 | roma | 罗马 | No.242 |
-| libeccio | Libeccio | No.243 |
+| libeccio | 西南风 | No.243 Libeccio/利伯齐奥 |
 | aquila | 鹫座 | No.244 |
 | akitsushima | 秋津洲 | No.245 |
 | italia | 意大利 | No.246 |
@@ -334,9 +334,9 @@
 | re-class | 战舰RE级 | |
 | ta-class | 战舰TA级 | |
 | wo-class | 空母WO级 | wo酱![空母ヲ级](# "http://exhentai.org/t/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |
-| kuubo seiki | 空母栖鬼 | |
+| kuubo seiki | 空母栖姬 | |
 | kuubo suiki | 空母水鬼 | |
-| soukou kuuboki | 装甲空母鬼 | |
+| soukou kuuboki | 装甲空母姬 | |
 | senkan seiki  | 战舰栖姬 | |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
 | shuusekichi seiki | 集积地栖姬 | |
