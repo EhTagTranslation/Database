@@ -339,12 +339,12 @@
 | soukou kuuboki | 装甲空母姬 | |
 | senkan seiki  | 战舰栖姬 | |
 | hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
+| nanpou seiki | 南方栖鬼 | |
 | shuusekichi seiki | 集积地栖姬 | |
-| isolated island oni | 离岛栖鬼 | |
-| southern ocean oni | 南方栖鬼 | |
-| seaport hime | 港湾栖姬 | |
-| midway hime | 中间栖姬 | |
-| airfield hime | 飞行场姬 | |
+| ritou seiki | 离岛栖姬 | |
+| kouwan seiki | 港湾栖姬 | |
+| chuukan seiki | 中间栖姬 | |
+| hikoujoki | 飞行场姬 | |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |
 | producer | 制作人 | |
