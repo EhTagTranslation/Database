@@ -747,6 +747,7 @@
 | julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](https://exhentai.org/t/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg) |
 | elsa granhilte | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](https://exhentai.org/t/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg) |
 | |  ▼路人女主的养成方法 角色 | |
+| tomoya aki | 安艺伦也 | |
 | megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/t/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) |
 | utaha kasumigaoka | 霞之丘诗羽 | ![霞之丘诗羽](https://ehgt.org/t/e2/f2/e2f26d14ccd531b6096b4ddf6639e83da9f1e98a-197453-650-1000-jpg_l.jpg)![图](http://exhentai.org/t/89/08/8908e2bdfdaafb184152eeae2c15bc6040d1301a-1235757-2000-1918-jpg_l.jpg) |
 | michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/t/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |
@@ -1138,7 +1139,81 @@
 | | ▼ 恋爱与选举与巧克力 | |
 | yuuki oojima | 大岛裕树 | |
 | satsuki shinonome | 东云皋月 | |
-| | ▼甲铁城的卡巴内瑞 | |
+| | ▼少女与战车 | |
+| miho nishizumi | 西住美穗 | |
+| saori takebe | 武部沙织 | |
+|  | 五十铃华 | |
+| yukari akiyama | 秋山优花里 | |
+|  | 冷泉麻子 | |
+|  | 角谷杏 | |
+|  | 小山柚子 | |
+|  | 河岛桃 | |
+|  | 凯撒 | |
+|  | 埃尔文 | |
+|  | 左卫门佐 | |
+|  | 龙 | |
+|  | 矶边典子 | |
+|  | 近藤妙子 | |
+|  | 河西忍 | |
+|  | 佐佐木明日 | |
+|  | 泽梓 | |
+|  | 山乡步 | |
+|  | 阪口桂利奈 | |
+|  | 宇津木优季 | |
+|  | 大野绫 | |
+|  | 丸山纱希 | |
+|  | 园绿子 | |
+|  | 后藤茂代子 | |
+|  | 金春希美 | |
+|  | 猫田 | |
+|  | 桃川 | |
+|  | 皮优炭 | |
+|  | 中岛悟子 | |
+|  | 星野 | |
+|  | 铃木 | |
+|  | 土屋 | |
+| darjeeling | 大吉岭 | |
+|  | 阿萨姆 | |
+| orange pekoe | 橙黄白毫 | |
+|  | 蔷薇果 | |
+|  | 鲁克莉莉 | |
+|  | 凯伊 | |
+|  | 直美 | |
+|  | 亚理纱 | |
+|  | 安斋千代美 | |
+|  | 卡尔帕乔 | |
+|  | 佩帕罗妮 | |
+| katyusha | 喀秋莎 | |
+| nonna | 农娜 | |
+|  | 妮娜 | |
+|  | 库拉拉 | |
+|  | 西住真穗 | |
+|  | 逸见艾丽卡 | |
+|  | 米卡 | |
+|  | 阿基 | |
+|  | 米科 | |
+|  | 西绢代 | |
+|  | 福田 | |
+|  | 玉田 | |
+|  | 细见 | |
+| arisu shimada | 岛田爱里寿 | |
+|  | 惠 | |
+|  | 安昙 | |
+|  | 留美 | |
+|  | 鹤姬静 | |
+|  | 松风铃 | |
+|  | 蝶野亚美 | |
+|  | 篠川香音 | |
+|  | B子 | |
+|  | C子 | |
+|  | 五十铃百合 | |
+| shiho nishizumi | 西住志穗 | |
+|  | 秋山淳五郎 | |
+|  | 秋山好子 | |
+|  | 冷泉久子 | |
+|  | 岛田千代 | |
+|  | 文科省官员 | |
+| | ▼未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
 | mai shiranui | 不知火舞 | |
@@ -1245,7 +1320,6 @@
 | naoto shirogane | 白钟直斗 | |
 | hajime ichinose | 一之濑初 | |
 | illyasviel von einzbern | 伊莉雅斯菲尔·冯·爱因兹贝伦 | |
-| yukari akiyama | 秋山优花里 | |
 | hitagi senjougahara | 战场原黑仪 | |
 | tsubasa hanekawa | 羽川翼 | |
 | narmaya | 暗牛 | |

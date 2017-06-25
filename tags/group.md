@@ -407,6 +407,8 @@
 | service heaven | サービスヘブン | |
 | spiritoso | Spiritoso | |
 | kurobinega | クロビネガ | |
+| nokishita no nekoya | 軒下の猫屋 | |
+| denmoe | 电萌 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | honey soft | HONEY SOFT | |
