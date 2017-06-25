@@ -413,7 +413,6 @@
 | macross zero | 超时空要塞Zero | |
 |  | ▲超时空要塞 系列 | |
 | little red riding hood | 小红帽 | |
-| tales of vesperia | 薄暮传说 | |
 | gekkan shoujo nozaki-kun | 月刊少女野崎君 | |
 | girl friend beta | 临时女友 | |
 | bakuman | 食梦者 | |
@@ -478,7 +477,6 @@
 | bakuretsu hunters | 爆走猎人 | |
 | vampire princess miyu | 吸血姬美夕 | |
 | reco love | 真爱记录 | |
-| tales of xillia | 无限传说 | |
 | spice and wolf | 狼与香辛料 | |
 | youkai watch | 妖怪手表 | |
 | battle programmer shirase | 战争程序员白濑 | |
@@ -856,3 +854,25 @@
 | boku to maou | 魔王与我 | |
 | cerberus | 刻耳柏洛斯 | |
 | robot girls z | 机器人少女Z | |
+| akibas trip | 秋叶原之旅 | |
+| bravely default | 勇气默示录 | |
+| madan no ou to vanadis | 魔弹之王与战姬 | |
+| star driver | STAR DRIVER 闪亮的塔科特 | |
+| | ↓传说 系列 | |
+| tales of | 传说 | |
+| tales of phantasia | 幻想传说 | |
+| tales of destiny | 宿命传说 | |
+| tales of eternia | 永恒传说 | |
+| tales of symphonia | 仙乐传说 | |
+| tales of rebirth | 重生传说 | |
+| tales of legendia | 遗迹传说 | |
+| tales of the abyss | 深渊传说 | |
+| tales of innocence | 圣洁传说 | |
+| tales of vesperia | 薄暮传说 | |
+| tales of hearts | 心灵传说 | |
+| tales of graces | 圣恩传说 | |
+| tales of xillia | 无尽传说 | |
+| tales of zestiria | 情热传说 | |
+| tales of berseria | 狂战传说 | |
+| tales of asteria | 星彩传说 | |
+| | ↑传说 系列 | |
