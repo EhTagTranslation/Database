@@ -391,6 +391,22 @@
 | akumenari | アクメナリ! | |
 | hot mikan | ほっとみかん | |
 | g-panda | Gぱんだ | |
+| high tech pen case | ハイテクペンケース | |
+| strawberry milk studio | Strawberry Milk Studio | |
+| lolita crusaders | ロリータクルセイダーズ | |
+| buaifamu | ぶあいふぁむ | |
+| takenoko gohan | 筍御飯 | |
+| shinenkan | 新炎館 | |
+| studio himawari | スタジオ☆ひまわり | |
+| tohgoo | 冬宫 | |
+| takanaruya. | 高鳴る屋。 | |
+| makino jimusho | マキノ事務所 | |
+| turtle.fish.paint | 龟鱼派 | |
+| bear hand | 熊掌社 | |
+| star f | ★F | |
+| service heaven | サービスヘブン | |
+| spiritoso | Spiritoso | |
+| kurobinega | クロビネガ | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | honey soft | HONEY SOFT | |

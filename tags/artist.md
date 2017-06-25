@@ -4,7 +4,7 @@
 * 图片也可用作者P站头像，或者为你自己喜爱的画师做一张图片简介，P站头像无法外链，建议传新浪微博等能方便外链图片的地方。
 
 #### 推荐规则，非强制
-* 建议简介书写格式  
+* 建议简介书写格式
   ``` html
   P站或其他能找到的作者头像<br>
   对作者的一点文字简介<br>
@@ -443,3 +443,27 @@
 | kishimen | きしめん | |
 | ken-1 | Ken-1 | |
 | midoh tsukasa | 御堂つかさ | |
+| oyama yasunaga | 尾山泰永 | |
+| kino hitoshi | 鬼ノ仁 | |
+| tam-u | Tam-U | |
+| lunaluku | るなるく | |
+| shiokonbu | しおこんぶ | |
+| mon-mon | MON-MON | |
+| kohoshi moe | 小星萌 | |
+| kurumiko | 胡桃子 | |
+| hirari | ひらり | |
+| aoi nagisa | 葵渚 | |
+| alde hyde | アルデヒド | |
+| mutsuno hexa | 六ツ野へきさ | |
+| takenokoya | 筍屋 | |
+| ankoku tiger | 暗黒タイガー | |
+| kakkii | かっきー | |
+| shizuki shuya | 紫月秋夜 | |
+| himukai kyousuke | 日向恭介 | |
+| fuyutugu | 冬嗣 | |
+| mogudan | モグダン | |
+| 100yen locker | 100円ロッカー | |
+| naruya taka | 成矢タカ | |
+| hana hook | 華フック | |
+| taki minashika | 滝美梨香 | |
+| hirame | ヒラメ \| 比目鱼先生 | ★F<br>龟鱼派 |

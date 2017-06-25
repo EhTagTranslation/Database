@@ -1,4 +1,4 @@
-本页储存标签列表的角色(character)翻译。
+﻿本页储存标签列表的角色(character)翻译。
 请按照如下规则：
 * 优先写公认的中文翻译，不知道的也可以写日文原名。
 
@@ -13,7 +13,7 @@
 | murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg")  |
 | nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
 | kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](http://exhentai.org/t/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg) |
-| | ▲ 重复项合并 | |  
+| | ▲ 重复项合并 | |
 | | ▼萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |
 | pastel ink | 闪亮茵可 | ![闪亮茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f36134flq4j205k08674h.jpg) |
@@ -369,7 +369,7 @@
 | ryo akizuki | 秋月凉 | |
 | uzuki shimamura | 岛村卯月 | |
 | yukari mizumoto | 水本紫 | |
-| mai fukuyama | 福山舞 | | 
+| mai fukuyama | 福山舞 | |
 | kanako mimura | 三村加奈子 | |
 | miho kohinata | 小日向美穗 | |
 | chieri ogata | 绪方智绘里 | |
@@ -874,7 +874,7 @@
 | rin tooyama | 远山伦 | ![远山伦](http://ehgt.org/t/b6/d0/b6d08642d6e4e0f3c30a5dc0e05074b7f652978a-935759-2726-3920-jpg_l.jpg) |
 | hajime shinoda | 篠田初 | ![篠田初](http://exhentai.org/t/ee/4e/ee4e99177812131745a90b7562dc0639cd710323-827430-1075-1522-jpg_l.jpg) |
 | yun iijima | 饭岛结音 | ![饭岛结音](http://exhentai.org/t/c0/c8/c0c87235851c710194d4fd379cc32bb9301457ba-153915-1050-1492-jpg_l.jpg) |
-| shizuku hazuki | 叶月雫 | ![叶月雫](http://ehgt.org/t/ae/8c/ae8c37b359b3dc54599ab002ec4d087b375ead3e-917307-2733-3917-jpg_l.jpg) 
+| shizuku hazuki | 叶月雫 | ![叶月雫](http://ehgt.org/t/ae/8c/ae8c37b359b3dc54599ab002ec4d087b375ead3e-917307-2733-3917-jpg_l.jpg)
 | | ▼白箱 角色 | |
 | aoi miyamori | 宫森葵 | ![宫森葵](http://ehgt.org/t/09/7f/097fd5fac6a50f5a5c11d85324fae9ba0fa65b30-1033595-2871-4089-jpg_l.jpg) |
 | ema yasuhara | 安原绘麻 | ![安原绘麻](http://ehgt.org/t/b2/76/b27655e9877933260c4bfc06cd6abbc64e409257-1125551-2519-3600-jpg_l.jpg) |
@@ -988,8 +988,8 @@
 | nanako kashii | 香椎奈奈子 | |
 | yuri koigakubo | 恋洼百合 | |
 | yuusaku kitamura | 北村佑作 | |
-| sakura kanou | 狩野樱 | | 
-| sumire kanou | 狩野堇 | | 
+| sakura kanou | 狩野樱 | |
+| sumire kanou | 狩野堇 | |
 | | ▼就算是哥哥，有爱就没问题了，对吧 角色 | |
 | akito himenokouji | 姬小路秋人 | |
 | akiko himenokouji | 姬小路秋子 | |
@@ -1054,7 +1054,7 @@
 | kuroko shirai | 白井黑子 | |
 | misaki shokuhou | 食蜂操祈 | |
 | mitsuko kongou | 婚后光子 | |
-| kinuho wannai | 湾内绢保 | | 
+| kinuho wannai | 湾内绢保 | |
 | maaya awatsuki | 泡浮万彬 | |
 | aiho yomikawa | 黄泉川爱穗 | |
 | tsuzuri tessou | 铁装缀里 | |
@@ -1376,12 +1376,12 @@
 | cherry | 樱桃 | |
 | sakuya tachibana | 橘咲夜 | |
 | asagi igawa | 井河阿萨姬 | |
-| kizuna ai | 绊爱 | 人工智障 | 
-| kimi aoi | 葵·喜美 | | 
-| tori aoi | 葵·托利 | | 
-| akira yamamoto | 山本玲 | | 
-| kaoru niimi | 新见熏 | | 
-| makoto harada | 原田真琴 | | 
-| mikage kiryuu | 桐生美影 | | 
-| melda deitz | 梅尔达·狄兹 | | 
-| yuki mori | 森雪 | | 
+| kizuna ai | 绊爱 | 人工智障 |
+| kimi aoi | 葵·喜美 | |
+| tori aoi | 葵·托利 | |
+| akira yamamoto | 山本玲 | |
+| kaoru niimi | 新见熏 | |
+| makoto harada | 原田真琴 | |
+| mikage kiryuu | 桐生美影 | |
+| melda deitz | 梅尔达·狄兹 | |
+| yuki mori | 森雪 | |
