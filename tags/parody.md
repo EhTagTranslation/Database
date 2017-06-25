@@ -82,7 +82,7 @@
 | gundam g no reconguista | 高达G之复国运动 | |
 | gundam x | 机动新世纪高达X | |
 | victory gundam | 机动战士V高达 | |
-| zeta gundam | 机动战士Z高达 | | 
+| zeta gundam | 机动战士Z高达 | |
 | g gundam | 机动武斗传G高达| |
 | turn a gundam | ∀高达 | |
 |  | ▲高达 系列 | |
@@ -848,10 +848,11 @@
 | asuka 120 | 飞鸟120% 燃烧的学园祭 | |
 | jumping rabbit | 小兔飞飞 | |
 | the fairly oddparents | 反斗家族 | |
-| amagami | 圣诞之吻 | |   
+| amagami | 圣诞之吻 | |
 | fosters home for imaginary friends | 亲亲麻吉 | |
 | futurama | 飞出个未来 | |
 | kimi ga yobu megiddo no oka de | 你在米吉多之丘的呼唤 | |
 | kuroko no basuke | 黑子的篮球 | |
 | boku to maou | 魔王与我 | |
 | cerberus | 刻耳柏洛斯 | |
+| robot girls z | 机器人少女Z | |
