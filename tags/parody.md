@@ -876,3 +876,5 @@
 | tales of berseria | 狂战传说 | |
 | tales of asteria | 星彩传说 | |
 | | ↑传说 系列 | |
+| little witch academia | 小魔女学园 | |
+ 
