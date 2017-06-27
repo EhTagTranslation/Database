@@ -1459,3 +1459,4 @@
 | mikage kiryuu | 桐生美影 | |
 | melda deitz | 梅尔达·狄兹 | |
 | yuki mori | 森雪 | |
+| sora kasugano | 春日野穹 | |

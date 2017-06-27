@@ -418,6 +418,7 @@
 | kinako no yama | きなこの山 | |
 | hanamo oukoku | はなも王国 | |
 | gokiburi teishoku | ゴキブリ定食 | |
+| yumeyoubi | ゆめようび | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | honey soft | HONEY SOFT | |
