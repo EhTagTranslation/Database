@@ -467,3 +467,11 @@
 | hana hook | 華フック | |
 | taki minashika | 滝美梨香 | |
 | hirame | ヒラメ \| 比目鱼先生 | ★F<br>龟鱼派 |
+| minakami rinka | 水上凛香 | |
+| andou shuki | 安藤周记 | |
+| nakata shunpei | 中田春平 | |
+| kurun | くるん | |
+| inuzumi masaki | 戌角柾 | |
+| kurashima tomoyasu | 倉嶋丈康 | |
+| hanamo daiou | はなも大王 | |
+| mizu gokiburi | 水ゴキブリ | |
