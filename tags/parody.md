@@ -320,6 +320,7 @@
 | guilty crown | 罪恶王冠 | |
 | nana | 娜娜 | |
 | nier | 尼尔 | |
+| nier automata | 尼尔：机械纪元 | |
 | psycho-pass | 心理测量者 | |
 | ben 10 | 少年骇客 | |
 | hey arnold | 嘿，阿诺德！ | |
@@ -882,3 +883,9 @@
 | virtua fighter | VR战士 | |
 | muscle bomber | 摔跤霸王 | |
 | aria | 水星领航员 | |
+| rozen maiden | 蔷薇少女 | |
+| soulcalibur | 魂之系列 | |
+| empowered | Empowered | |
+| parasite eve | 寄生前夜 | |
+| predator | 铁血战士 | |
+| underworld | 黑夜传说 | |

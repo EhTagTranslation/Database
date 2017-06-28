@@ -428,14 +428,14 @@
 | d-raw 2 | Draw Two | |
 | koterabyte | コテラバイト | |
 | konnyaku nabe | 蒟蒻锅 | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
+| onkin yuugi | 音筋游戏 | |
+| radiostar | RADIOSTAR | |
+| jackpot 64 | ジャックポット64 | |
+| panzers | パンツァーズ | |
+| kanten jigenryuu | 寒天示現流 | |
+| nazunaya honpo | 荠屋本铺 | |
+| usubeniya | うすべに屋 | |
+| akusei-shinseibutsu | 恶性真性物 | |
 |  |  | |
 |  |  | |
 |  |  | |

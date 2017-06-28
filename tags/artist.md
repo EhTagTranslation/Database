@@ -487,14 +487,14 @@
 | draw2 | 土狼弐 | |
 | kotera | コテラ | |
 | muronaga chaashuu | 室永叉烧 | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
+| sawao | さわお | |
+| kudou hiroshi | 工藤洋 | |
+| han | HAN | |
+| tsurui | 鹤井 | |
+| okiraku nic | お気楽ニック | |
+| kanten | 寒天 | |
+| usubeni sakurako | うすべに桜子 | |
+| nori | 糊 | |
 |  |  | |
 |  |  | |
 |  |  | |
