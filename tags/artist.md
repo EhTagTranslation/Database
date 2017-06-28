@@ -466,7 +466,7 @@
 | naruya taka | 成矢タカ | |
 | hana hook | 華フック | |
 | taki minashika | 滝美梨香 | |
-| hirame | ヒラメ \| 比目鱼先生 | ★F<br>龟鱼派 |
+| hirame | ヒラメ \| 比目鱼 | ★F<br>龟鱼派 |
 | minakami rinka | 水上凛香 | |
 | andou shuki | 安藤周记 | |
 | nakata shunpei | 中田春平 | |
