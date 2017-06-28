@@ -414,7 +414,7 @@
 | harigane shinshi |  | |
 | kazuhiro | 一弘 | |
 | lobster | ロブ☆スター | |
-| magifuro konnyaku |  | |
+| magifuro konnyaku | magifuro蒟蒻 | |
 | mos | MoS | |
 | ueda john | うえだジョン | |
 | wenajii | ヱナジー | |
@@ -476,3 +476,35 @@
 | hanamo daiou | はなも大王 | |
 | mizu gokiburi | 水ゴキブリ | |
 | kazumu | 一梦 | |
+| rentb | Rentb | |
+| ren | REN | |
+| kotera | コテラ | |
+| fei | 飞燕 | |
+| miyano kintarou | 宫野金太郎 | |
+| sumino yuuji | 速野悠二 | |
+| shouji ayumu | 小路あゆむ | |
+| maka fushigi | 魔訶不思議 | |
+| draw2 | 土狼弐 | |
+| kotera | コテラ | |
+| muronaga chaashuu | 室永叉烧 | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
+|  |  | |
