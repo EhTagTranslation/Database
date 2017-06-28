@@ -899,3 +899,4 @@
 | warship girls | 战舰少女 | |
 | sexfriend | SEXFRIEND | |
 | school days | 日在校园 | |
+| walkure romanze | Walkure Romanze 少女骑士物语 | |

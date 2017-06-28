@@ -522,4 +522,5 @@
 | koiou | 鲤王 | |
 | bow rei | 某零 | |
 | inochi wazuka | 命わずか | |
-
+| hiduki yayoi | ひづき夜宵 | |
+| komori kei | こもりけい | |

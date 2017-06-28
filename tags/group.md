@@ -500,6 +500,7 @@
 | 5pb. | 5pb. | |
 | aniseed | AniSeed | |
 | candysoft | Candy Soft | |
+| ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
