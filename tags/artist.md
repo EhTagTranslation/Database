@@ -514,3 +514,12 @@
 | michiyon | みちよん | |
 | hijiri tsukasa | 圣☆司 | |
 | tsukino jyogi | 月野定规 | |
+| gotou junji | 后藤润二 | |
+| nogi makoto | のぎまこと | |
+| shinonome ryu | 东云龙 | |
+| nikusyo | 弐駆緒 | |
+| shimanto youta | 四万十曜太 | |
+| koiou | 鲤王 | |
+| bow rei | 某零 | |
+| inochi wazuka | 命わずか | |
+
