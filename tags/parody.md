@@ -892,3 +892,8 @@
 | danny phantom | 幻影丹尼 | |
 | the loud house | 喧闹一家亲 | |
 | nodame cantabile | 交响情人梦 | |
+| another | Another | |
+| valkyria chronicles | 战场女武神 | |
+| princess lover | 公主恋人 | |
+| witchblade | 魔女之刃 | |
+| warship girls | 战舰少女 | |

@@ -485,7 +485,6 @@
 | shouji ayumu | 小路あゆむ | |
 | maka fushigi | 魔訶不思議 | |
 | draw2 | 土狼弐 | |
-| kotera | コテラ | |
 | muronaga chaashuu | 室永叉烧 | |
 | sawao | さわお | |
 | kudou hiroshi | 工藤洋 | |

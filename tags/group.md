@@ -426,7 +426,6 @@
 | chromatic room | CHROMATIC ROOM | |
 | piyokorota | ぴよころた | |
 | d-raw 2 | Draw Two | |
-| koterabyte | コテラバイト | |
 | konnyaku nabe | 蒟蒻锅 | |
 | onkin yuugi | 音筋游戏 | |
 | radiostar | RADIOSTAR | |
