@@ -897,3 +897,4 @@
 | princess lover | 公主恋人 | |
 | witchblade | 魔女之刃 | |
 | warship girls | 战舰少女 | |
+| sexfriend | SEXFRIEND | |

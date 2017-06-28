@@ -494,3 +494,23 @@
 | kanten | 寒天 | |
 | usubeni sakurako | うすべに桜子 | |
 | nori | 糊 | |
+| mitsugi | ミツギ | |
+| seura isago | 瀬浦沙悟 | |
+| tsukudani norio | 佃煮のりお | |
+| kasugano tobari | 春日野トバリ | |
+| hisaka hazara | 檜坂はざら | |
+| sumiyao | すみやお | |
+| ikkyuu | 一休 | |
+| hasemi ryo | 长谷见亮 | |
+| summer | サマー | |
+| miyatsuki touka | 都月十佳 | |
+| arigase shinji | ありがせしんじ | |
+| arisaka k | 有坂K | |
+| asakaze abyss | 朝風あびす | |
+| youki akira | 优希辉 | |
+| matsuda k | マツダK | |
+| amanatsu aki | 甘夏あき | |
+| magukappu | 马克杯 | |
+| michiyon | みちよん | |
+| hijiri tsukasa | 圣☆司 | |
+| tsukino jyogi | 月野定规 | |

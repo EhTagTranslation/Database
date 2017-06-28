@@ -1345,6 +1345,19 @@
 |  | 池田城菜 | |
 |  | 高鸭绫乃 | |
 |  | 新子望 | |
+| | ▼兽娘动物园 | |
+| kaban | 背包 | |
+| serval | 薮猫 | |
+| common raccoon | 浣熊 | |
+| fennec | 耳廓狐 | |
+| ezo red fox | 北狐 | |
+| silver fox | 银狐 | |
+| lion | 狮 | |
+| moose | 驼鹿 | |
+| shoebill | 鲸头鹳 | |
+| alpaca suri | 苏利羊驼 | |
+| humboldt penguin | 汉波德企鹅 | |
+| emperor penguin | 帝企鹅 | |
 | | ▼未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |

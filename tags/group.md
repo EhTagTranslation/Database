@@ -435,6 +435,22 @@
 | nazunaya honpo | 荠屋本铺 | |
 | usubeniya | うすべに屋 | |
 | akusei-shinseibutsu | 恶性真性物 | |
+| night fuckers | 夜★FUCKERS | |
+| puppukupu | ぷっぷくぷー | |
+| sago-jou | 沙悟荘 | |
+| hi-per pinch | ハイパーピンチ | |
+| reis room | REI's ROOM | |
+| hasemi box | Hasemi box | |
+| kaki no tane | 夏季のタネ | |
+| aruku denpatou no kai | 歩く電波塔の会 | |
+| lolitachannel | LolitaChannel | |
+| asakaze no shizuku | 朝風の雫 | |
+| youki m.k.c. | 优希M.K.C. | |
+| poco natsu | ぽこなつ | |
+| hoppe shokudou | ほっぺ食堂 | |
+| hinemosuan | 终日庵 | |
+| moon ruler | むうんるうらあ | |
+| shin hijiridou honpo | 真・圣堂☆本铺 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | honey soft | HONEY SOFT | |
