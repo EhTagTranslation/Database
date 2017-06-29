@@ -572,3 +572,12 @@
 | hadumi rio | 羽純りお | |
 | matsushita makako | 松下まかこ | |
 | sakura hanpen | 桜はんぺん | |
+| hatori piyoko | 羽鳥ぴよこ | |
+| naenae | なえなえ | |
+| takayaki | たかやKi | |
+| uonuma yuu | うおぬまゆう | |
+| amamine | あまみね | |
+| niki | にき | |
+| rokudou itsuki | 六九導イツキ | |
+| rubi-sama | るび様 | |
+| wori | ヲリ | |
