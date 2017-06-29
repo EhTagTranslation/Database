@@ -901,3 +901,4 @@
 | school days | 日在校园 | |
 | walkure romanze | Walkure Romanze 少女骑士物语 | |
 | majin bone | 魔神之骨 | |
+| starry sky | Starry☆Sky | |

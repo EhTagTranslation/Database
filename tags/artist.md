@@ -538,22 +538,21 @@
 | kokutou nikke | 黒糖ニッケ | |
 | makuwauni | まくわうに | |
 | seki | 赤 | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
+| monorino | モノリノ | |
+| tomohiro kai | 智弘カイ | |
+| kuribayashi chris | 栗林クリス | |
+| nagai wataru | 長井わたる | |
+| suzuhane suzu | すずはねすず | |
+| tanaka decilitre | 田中竕 | |
+| yahiro | 八寻 | |
+| sabamu | 鲭梦 | |
+| fujise akira | 藤瀬あきら | |
+| shouryuu | 升龙 | |
+| kisaragi wataru | 如月わたる | |
+| mizone | みぞね | |
+| herokey | ヒーローキィ | |
+| mikanuji | みかん氏 | |
+| honda arima | ほんだありま | |
+| oshiki hitoshi | 御敷仁 | |
+| shimaji | しまじ | |
+| tenro aya | 天路あや | |

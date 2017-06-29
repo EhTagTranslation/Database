@@ -461,22 +461,23 @@
 | uribatakebokujou | うり畑牧場 | |
 | zenra yashiki | 全裸屋敷 | |
 | beniiro kaitenkikou | 红色回转机构 | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
-|  |  | |
+| gff | GFF | |
+| waffle doumeiken | ワッフル同盟犬 | |
+| raid slash | RAID SLASH | |
+| colomonyu | ころもにゅ | |
+| umidori | うみどり | |
+| l-gauge sha | Lゲージ社 | |
+| kodomo ginkou | こどもぎんこう | |
+| kowareta radio | コワレ田ラジ男 | |
+| hatakewotagayasudake | 畑を耕すだけ | |
+| kuro no omikuji | 黒ノ御神籤 | |
+| hakuchou no ouji | 白鳥の王子 | |
+| kinokotei | きのこ亭 | |
+| kinokodomo | きのこども | |
+| kohakutei | 琥珀亭 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 |
 | honey soft | HONEY SOFT | |
 | appetite | アパタイト | |
 | pakopako soft | ぱこぱこそふと | |
