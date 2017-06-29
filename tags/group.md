@@ -478,6 +478,9 @@
 | izanagi | いざなぎ | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| sphere | Sphere | |
+| hook | HOOKSOFT | |
+| rosebleu | Rosebleu | |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 |
 | honey soft | HONEY SOFT | |
 | appetite | アパタイト | |

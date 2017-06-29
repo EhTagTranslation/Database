@@ -1367,6 +1367,9 @@
 | alpaca suri | 苏利羊驼 | |
 | humboldt penguin | 汉波德企鹅 | |
 | emperor penguin | 帝企鹅 | |
+| | ▼缘之空 | |
+| sora kasugano | 春日野穹 | |
+| haruka kasugano | 春日野悠 | |
 | | ▼未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1613,4 +1616,3 @@
 | mikage kiryuu | 桐生美影 | |
 | melda deitz | 梅尔达·狄兹 | |
 | yuki mori | 森雪 | |
-| sora kasugano | 春日野穹 | |

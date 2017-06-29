@@ -904,3 +904,4 @@
 | starry sky | Starry☆Sky | |
 | amano megumi ha sukidarake | 天野惠浑身是破绽！ | |
 | yowamushi pedal | 飚速宅男 | |
+| black cat | 黑猫 | |
