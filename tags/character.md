@@ -99,6 +99,14 @@
 | kasen ibara | 茨木华扇 | |
 | ringo | 铃瑚 | |
 | hecatia lapislazuli | 赫卡提亚·拉碧斯拉祖利 | |
+| seiga kaku | 霍青娥 | |
+| iku nagae | 永江衣玖 | |
+| mononobe no futo | 物部布都 | |
+| yoshika miyako | 宫古芳香 | |
+| maribel han | 玛艾露贝莉·赫恩 | |
+| shou toramaru | 寅丸星 | |
+| soga no tojiko | 苏我屠自古 | |
+| ichirin kumoi | 云居一轮 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
@@ -342,9 +350,9 @@
 | nanpou seiki | 南方栖鬼 | |
 | shuusekichi seiki | 集积地栖姬 | |
 | ritou seiki | 离岛栖姬 | |
-| kouwan seiki | 港湾栖姬 | |
+| seaport hime | 港湾栖姬 | |
 | chuukan seiki | 中间栖姬 | |
-| hikoujoki | 飞行场姬 | |
+| hikoujouki | 飞行场姬 | |
 | | ▲舰队Collection-KanColle 人物 | |
 | | ▼偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |
 | producer | 制作人 | |
