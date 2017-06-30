@@ -584,3 +584,4 @@
 | mura | むら | |
 | tsurusaki takahiro | 鹤崎贵大 | |
 | fusataka sikibu | ふさたか式部 | |
+| kutani | 九手児 | |

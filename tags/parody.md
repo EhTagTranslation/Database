@@ -335,6 +335,7 @@
 | eureka 7 | 交响诗篇 | |
 | darkstalkers | 恶魔战士 | |
 | x-men | X战警 | |
+| x-men evolution | X战警：进化 | |
 | ichigo 100 | 草莓100% | |
 | tonari no kaibutsu-kun | 邻座的怪同学 | |
 | danganronpa | 弹丸论破 | |
@@ -915,4 +916,10 @@
 | black cat | 黑猫 | |
 | superjail | 超级监狱 | |
 | superman | 超人 | |
-
+| iron man | 钢铁侠 | |
+| iron man armored adventures | 钢铁侠：装甲冒险 | |
+| jackie chan adventures | 成龙历险记 | |
+| avengers | 复仇者联盟 | |
+| monster | 怪物 | MONSTER（モンスター）/  魔刹  |
+| jungle wa itsumo hare nochi guu | 热带雨林的爆笑生活 | |
+| w.i.t.c.h. | 魔力W.i.t.c.h. | |
