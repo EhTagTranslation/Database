@@ -470,6 +470,14 @@
 | city hunter | 城市猎人 | |
 | record of lodoss war | 罗德岛战记 | |
 | super robot wars | 超级机器人大战 | |
+| super robot wars w | 超级机器人大战W | |
+| super robot wars k | 超级机器人大战K | |
+| super robot wars z 2nd | 第2次超级机器人大战Z | |
+| endless frontier | 无限边界：超级机器人大战OG传说 | |
+| hellsing | 地狱之歌 | 皇家国教骑士团 / 厄夜怪客 |
+| super black jack | 兔女郎的诱惑 | Rio RainbowGate! / 里欧彩虹之门！ |
+| hell teacher nube | 地狱老师 | |
+| hitsugi no chaika | 棺姬嘉依卡 | |
 | kishin douji zenki | 鬼神童子 | |
 | muv-luv | Muv-Luv | |
 | muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse | |
@@ -905,3 +913,6 @@
 | amano megumi ha sukidarake | 天野惠浑身是破绽！ | |
 | yowamushi pedal | 飚速宅男 | |
 | black cat | 黑猫 | |
+| superjail | 超级监狱 | |
+| superman | 超人 | |
+
