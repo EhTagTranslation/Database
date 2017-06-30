@@ -581,3 +581,6 @@
 | rokudou itsuki | 六九導イツキ | |
 | rubi-sama | るび様 | |
 | wori | ヲリ | |
+| mura | むら | |
+| tsurusaki takahiro | 鹤崎贵大 | |
+| fusataka sikibu | ふさたか式部 | |
