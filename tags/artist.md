@@ -585,3 +585,17 @@
 | tsurusaki takahiro | 鹤崎贵大 | |
 | fusataka sikibu | ふさたか式部 | |
 | kutani | 九手児 | |
+| takei masaki | 竹井正树 | 竹井正树，为日本的男性原画家、游戏设计师、插画家、动画师。MADHOUSE出身。 |
+| yamaki rin | 山木铃 | |
+| shokushu-san | 触手さん | |
+| wazakita | わざきた | |
+| erodezain koubou | エロデザイン工房 | |
+| coffee-kizoku | 珈琲貴族 | |
+| kuroi hiroki | 黑井弘骑 | |
+| rindou | 龙胆 | |
+| iruma kamiri | いるまかみり | |
+| zakkin | 杂菌 | |
+| aotsu umihito | 蒼津ウミヒト | |
+| shiina soutyou | 椎名总长 | |
+| hikage eiji | 日阴影次 | |
+| amakura | アマクラ | |

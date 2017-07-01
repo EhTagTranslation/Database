@@ -923,3 +923,5 @@
 | monster | 怪物 | MONSTER（モンスター）/  魔刹  |
 | jungle wa itsumo hare nochi guu | 热带雨林的爆笑生活 | |
 | w.i.t.c.h. | 魔力W.i.t.c.h. | |
+| ninja gaiden | 忍者外传 | |
+| otome wa boku ni koishiteru | 少女爱上姐姐 | |
