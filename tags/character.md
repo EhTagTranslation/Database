@@ -1618,3 +1618,4 @@
 | mikage kiryuu | 桐生美影 | |
 | melda deitz | 梅尔达·狄兹 | |
 | yuki mori | 森雪 | |
+| ChibiUsa | 小小兔 | |
