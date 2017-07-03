@@ -108,6 +108,7 @@
 | soga no tojiko | 苏我屠自古 | |
 | ichirin kumoi | 云居一轮 | |
 | kogasa tatara | 多多良小伞 | |
+| yamame kurodani | 黑谷山女 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
@@ -979,6 +980,7 @@
 | len kagamine | 镜音连 | |
 | rin kagamine | 镜音铃 | |
 | haku yowane | 弱音白 | |
+| gumi | GUMI | |
 | | ▼VOICEROID 角色 | |
 | yukari yuzuki | 结月缘 | |
 | maki tsurumaki | 弦卷真纪 | |

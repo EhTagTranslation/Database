@@ -599,3 +599,12 @@
 | shiina soutyou | 椎名总长 | |
 | hikage eiji | 日阴影次 | |
 | amakura | アマクラ | |
+| ebi193 | えび193 | |
+| shinama | しなま | |
+| mars | Mars | |
+| yuran | ゆらん | |
+| toumi haruka | 遠海ハルカ | |
+| chris | CHRIS | |
+| mizuga | みずが | |
+| alpine | あるぴーぬ | |
+| yuuka nonoko | 夕華ののこ | |

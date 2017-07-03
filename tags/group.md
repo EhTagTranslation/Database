@@ -491,6 +491,19 @@
 | zakkin kougyou | 杂菌工业 | |
 | metaneko | メタネコ | |
 | midsummer madness | MIDSUMMER MADNESS | |
+| ebibinbintei | えびびんびん亭 | |
+| katamari-ya | かたまり屋 | |
+| amenosorashido | あめのそらしど | |
+| o-mars | O-Mars | |
+| moonphase | MoonPhase | |
+| open book | OPEN BOOK | |
+| kodomo beer | こどもびーる | |
+| dramatic sharp | Dramatic# | |
+| rtd | RTD | |
+| hacchake yarou a team | はっちゃけ野郎Aチーム | |
+| dieppe factory darkside | DIEPPE FACTORY Darkside | |
+| booblian | Booblian | |
+| korokoro udon | コロコロうどん | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | caramel box | CARAMEL-BOX | http://www.caramel-box.com/ |
