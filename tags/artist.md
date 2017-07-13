@@ -608,3 +608,13 @@
 | mizuga | みずが | |
 | alpine | あるぴーぬ | |
 | yuuka nonoko | 夕華ののこ | |
+| hakuho | 白凤 | |
+| ooshima ryou | 大嶋亮 | |
+| aeba fuchi | 飨庭渊 | |
+| hakka yuki | 薄荷ゆき | |
+| delaware | でらうえあ | |
+| rurukichi | るるキチ | |
+| unasaka | うなさか | |
+| anmi | Anmi | |
+| kishizuka kenji | 木静谦二 | |
+| kanenomori sentarou | 金ノ森銭太郎 | |

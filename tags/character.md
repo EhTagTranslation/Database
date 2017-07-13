@@ -109,6 +109,7 @@
 | ichirin kumoi | 云居一轮 | |
 | kogasa tatara | 多多良小伞 | |
 | yamame kurodani | 黑谷山女 | |
+| rinnosuke morichika | 森近霖之助 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |

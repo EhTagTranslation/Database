@@ -925,3 +925,7 @@
 | w.i.t.c.h. | 魔力W.i.t.c.h. | |
 | ninja gaiden | 忍者外传 | |
 | otome wa boku ni koishiteru | 少女爱上姐姐 | |
+| fairy tail | 妖精的尾巴 | FAIRY TAIL魔导少年 |
+| oni chichi | 鬼父 | |
+| clamp gakuen tanteidan | CLAMP学园侦探团 | |
+| soredemo machi wa mawatteiru | 女仆咖啡厅 | 纵然如此小镇仍在转动 |
