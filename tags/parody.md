@@ -929,3 +929,4 @@
 | oni chichi | 鬼父 | |
 | clamp gakuen tanteidan | CLAMP学园侦探团 | |
 | soredemo machi wa mawatteiru | 女仆咖啡厅 | 纵然如此小镇仍在转动 |
+| happy tree friends | 欢乐树的朋友们 | |
