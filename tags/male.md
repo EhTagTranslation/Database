@@ -64,6 +64,7 @@
 | orc | 兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。 |
 | pig man | 猪男 | 猪女(pig girl)的男性版本。 |
 | plant boy | 植物男孩 | 植物女孩(plant girl)的男性版本。需要怪物(monster)标签。 |
+| raccoon boy | 浣熊男孩 | 浣熊女孩(raccoon girl)的男性版本。 |
 | robot | 机器人🤖 | 机械的人形。 |
 | shark boy | 鲨男孩 | 鲨女孩(shark girl)的男性版本。 |
 | sheep boy | 羊男孩 | 羊女孩(sheep girl)的男性版本。 |
