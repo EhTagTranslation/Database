@@ -618,3 +618,7 @@
 | anmi | Anmi | |
 | kishizuka kenji | 木静谦二 | |
 | kanenomori sentarou | 金ノ森銭太郎 | |
+| hazuki kaoru | 八月薫 | |
+| kenzaki mikuri | 犬崎みくり | |
+| kofunami | こふなみ | |
+| touma itsuki | 东磨树 | |

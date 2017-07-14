@@ -930,3 +930,6 @@
 | clamp gakuen tanteidan | CLAMP学园侦探团 | |
 | soredemo machi wa mawatteiru | 女仆咖啡厅 | 纵然如此小镇仍在转动 |
 | happy tree friends | 欢乐树的朋友们 | |
+| kare kano | 他和她的事情 | 男女跷跷板 |
+| spongebob squarepants | 海绵宝宝 | |
+| wizard of oz | 绿野仙踪 | |
