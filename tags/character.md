@@ -1610,7 +1610,7 @@
 | bloodberry | 红莓 | |
 | cherry | 樱桃 | |
 | sakuya tachibana | 橘咲夜 | |
-| asagi igawa | 井河阿萨姬 | |
+| asagi igawa | 井河阿莎姬 | |
 | kizuna ai | 绊爱 | 人工智障 |
 | kimi aoi | 葵·喜美 | |
 | tori aoi | 葵·托利 | |
