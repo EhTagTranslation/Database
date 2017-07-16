@@ -622,3 +622,24 @@
 | kenzaki mikuri | 犬崎みくり | |
 | kofunami | こふなみ | |
 | touma itsuki | 东磨树 | |
+| asaba yuu | 浅葉ゆう | |
+| akizuki ryou | 秋月亮 | |
+| nanigawa rui | 名仁川るい | |
+| ohkura kazuya | 大藏一也 | |
+| psycocko | 碎骨子 | |
+| hanainu | 花犬 | |
+| madoutei | 魔童贞 | |
+| ra | RA | |
+| yohane | ヨハネ | |
+| akiduki tsukasa | 秋月つかさ | |
+| hanamiya natsuka | 花宮なつか | |
+| nagayama yuunon | 永山ゆうのん | |
+| sakura denbu | 樱田麸 | |
+| sin-go | Sin-Go | |
+| tsunagami | つながみ | |
+| yassy | YASSY | |
+| rokuwata tomoe | 六羽田トモエ | |
+| souma | 相马 | |
+| buguon | 不光 | |
+| annekuma | ANNEKUMA | |
+| 108 gou | 108号 | |
