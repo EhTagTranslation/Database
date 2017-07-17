@@ -643,3 +643,34 @@
 | buguon | 不光 | |
 | annekuma | ANNEKUMA | |
 | 108 gou | 108号 | |
+| akazawa red | あかざわRED | |
+| r-koga | あ～る・こが | |
+| ashimoto yoika | あしもと☆よいか | |
+| awaji himeji | あわじひめじ | |
+| itou | いトう | |
+| usashiro mani | うさ城まに | |
+| ookami uo | オオカミうお | |
+| kawady max | カワディMAX | |
+| kimio tamako | きみおたまこ | |
+| quzilax | クジラックス | |
+| gorgeous takarada | ゴージャス宝田 | |
+| zaki zaraki | ザキザラキ | |
+| tamachi yuki | たまちゆき | |
+| bar peachpit | バー・ぴぃちぴっと | |
+| higashiyama show | 東山翔 | |
+| yoshino | よしの | |
+| minion | みにおん | |
+| nishikibasami | 二式鋏 | |
+| onizuka naoshi | 鬼束直 | |
+| hayashibara hikari | 林原ひかり | |
+| suzuki kyoutarou | 鈴木狂太郎 | |
+| nekogen | 猫玄 | |
+| kiya shii | 木谷椎 | |
+| molokonomi | 平屋のぼり | |
+| maeshima ryou | 前島龍 | |
+| yamazaki kazuma | 山崎かずま | |
+| momonosuke | 桃之助 | |
+| murian | 無有利安 | |
+| samidore setsuna | 五月雨せつな | |
+| mutou mato | 武藤まと | |
+| kobayashi oukei | 小林王桂 | |
