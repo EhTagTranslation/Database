@@ -674,3 +674,9 @@
 | samidore setsuna | 五月雨せつな | |
 | mutou mato | 武藤まと | |
 | kobayashi oukei | 小林王桂 | |
+| tanabe kyou | 田辺京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br/>PixivID:8542 |
+| kiai neko | きあい猫 | 曾用名：きいろ猫(kiiro neko) <br/> 现用名：樺島あきら(kabashima akira)<br/>作品以露出题材为主，早期作品包含大量排便(scat)描写，重口注意！ |
+| charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br/>PixivID:125256 |
+| tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出<br/>PixivID:1551500 |
+| nakani | なかに | なかに【すぺ】<br/>PixivID:18899 |
+| mizuryu kei | 水龍敬 | PixivID:321517 |
