@@ -711,3 +711,13 @@
 | sayryu | 性龙 | |
 | tsukasawa | 塚泽 | |
 | yukiguni omaru | 雪國おまる | |
+| asakura mitsuru | 朝仓满 | |
+| hase tsubura | 长谷圆 | |
+| herohero tom | へろへろTom | |
+| hoshino ryuichi | 星野龙一 | |
+| inoue nanaki | 井上七树 | |
+| macaroni and cheese | マカロニandチーズ | |
+| mozu k | もずK | |
+| natsuka q-ya | 奈塚Q弥 | |
+| sakaki utamaru | 榊歌丸 | |
+| yontarou | よんたろう | |
