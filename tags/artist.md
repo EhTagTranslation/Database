@@ -278,7 +278,7 @@
 | sadokko | さどっこ | |
 | izumi | 和泉 | |
 | reizei | 冷泉 | |
-| sky | SKY \| Sky-FreeDom | P站id315442<br>P站id1017056<br>http://weibo.com/skyfreedom<br>Sky是马来西亚同人画师，格子裙热裤过膝袜爱好者。因画风独特以及对热裤的热爱而闻名。 <br>本人自画像<br>![本人自画像](http://wx1.sinaimg.cn/mw1024/6ca93fadly1ff64bbcyidj20li0xcdk8.jpg)  |
+| sky | SKY \| Sky-FreeDom | 该条目可能指向两位画师<br>SKY PixivID:315442<br>“死盖” PixivID:1017056<br>“死盖”是马来西亚同人画师，格子裙热裤过膝袜爱好者。因画风独特以及对热裤的热爱而闻名。与林大B、孙渣、萌娘百科更新姬经常在微博进行不可告人的PY交易 http://weibo.com/skyfreedom <br>本人自画像<br>![本人自画像](http://wx1.sinaimg.cn/mw1024/6ca93fadly1ff64bbcyidj20li0xcdk8.jpg)  |
 | petenshi | ペテン師 | |
 | maruwa tarou | 丸和太郎 | |
 | fujishima sei1go | 藤岛制1号 | |
@@ -298,7 +298,6 @@
 | amazon | 雨存 | |
 | milk jam | みるくジャム | |
 | isami nozomi | 伊佐美ノゾミ | |
-| nakani | なかに | |
 | souryuu | 双龙 | |
 | umi suzume | 雨美すずめ | |
 | michiking | みちきんぐ | |
@@ -354,7 +353,7 @@
 | sakurabe notos | 桜部のとす | |
 | misaki kurehito | 深崎暮人 | |
 | kuroya shinobu | 黑谷忍 | |
-| san sheng wan | 三生万 | http://www.pixiv.net/member.php?id=16811335 |
+| san sheng wan | 三生万 | PixivID:16811335 |
 | el | える | |
 | mango pudding | まんごープリン | |
 | gekka saeki | 月下冴喜 | |
@@ -367,7 +366,6 @@
 | nohara hiromi | 野原ひろみ | |
 | higashino mikan | 東野みかん | |
 | dr.bug | Dr.阿虫 | |
-| oyari ashito | 大枪苇人 | |
 | ameto yuki | あめとゆき | |
 | kenkou cross | 健康クロス |  |
 | yanagawa rio | やながわ理央 |  |
@@ -411,7 +409,7 @@
 | oomori yoshiharu | おおもりよしはる | |
 | amedamacon | 飴玉コン | |
 | eisen | 英战 | |
-| harigane shinshi |  | |
+| harigane shinshi | 針金紳士 | PixivID:130689 |
 | kazuhiro | 一弘 | |
 | lobster | ロブ☆スター | |
 | magifuro konnyaku | magifuro蒟蒻 | |
