@@ -370,7 +370,7 @@
 | akagami no shirayukihime | 赤发的白雪姬 | |
 | minami-ke | 南家三姐妹 | |
 | queens blade | 女王之刃 | |
-| sekirei | 鹦鹉女神 | |
+| sekirei | 鹡鸰女神 | |
 | yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | |
 | blazblue | 苍翼默示录 | |
 | frame arms girl | 机甲少女 | |
@@ -937,3 +937,6 @@
 | dream c club | 梦幻俱乐部 | |
 | katekyo hitman reborn | 家庭教师HITMAN REBORN! | |
 | tsugumomo | 怪怪守护神 | |
+| the simpsons | 辛普森一家 | |
+| ano natsu de matteru | 在盛夏等待 | |
+| net ghost pipopa | 网络精灵PIPOPA | 光速大冒险PIPOPA |
