@@ -815,3 +815,14 @@
 | sawayaka samehada | さわやか鮫肌 | |
 | ueda yuu | 上田裕 | |
 | usakun | うさくん | |
+| chiguchi miri | チグチミリ | |
+| fuyuno mikan | 冬野みかん | |
+| hikoma hiroyuki | 彦馬ヒロユキ | |
+| imotoka tsuyuki | 芋とか露木 | |
+| natsuki kiyohito | 夏木きよひと | |
+| noise | Noise | |
+| nukkoru | ぬっこる | |
+| ponsuke | ポンスケ | |
+| satuyo | さつよ | |
+| soine | 添い寝 | |
+| takaoka motofumi | 高冈基文 | |
