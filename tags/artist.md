@@ -214,7 +214,7 @@
 | awatake takahiro | 弘岳粟高 | |
 | kylin | Kylin | |
 | morishima kon | 森島コン | |
-| mdo-h | 无道叡智 | |
+| mdo-h | 无道睿智 | |
 | ginyou haru | 銀曜ハル | |
 | shiina | シイナ | |
 | mikuta | みくた | |
@@ -770,3 +770,20 @@
 | shouji nigou | 庄司二号 | |
 | henrybird | 半里バード9 | |
 | gui fu shen nai | 鬼父神奈 | |
+| homing | ホーミング | |
+| kageno illyss | 影乃いりす | |
+| katou jun | 加藤じゅん | |
+| kuroda ariake | 黑田有明 | |
+| miyabi tatsuto | みやびたつと | |
+| mizuki eimu | みずきえいむ | |
+| momon kooji | ももんこーじ | |
+| monogusa wolf | ものぐさうるふ | |
+| moroha | 乙 | |
+| naitou satoshi | 乃藤悟志 | |
+| oonuki makuri | 大貫まくり | |
+| sabashi renya | 左橋レンヤ | |
+| t.k-1 | T.K-1 | |
+| tachibana surimu | 橘すりむ | |
+| takahashi kobato | 高橋こばと | |
+| takashita takashi | たかしたたかし | |
+| yokoi rego | 横井レゴ | |
