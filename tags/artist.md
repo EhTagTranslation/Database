@@ -787,3 +787,12 @@
 | takahashi kobato | 高橋こばと | |
 | takashita takashi | たかしたたかし | |
 | yokoi rego | 横井レゴ | |
+| amayumi | あまゆみ | |
+| ameya kirica | アメヤキリカ | |
+| arsenal | アーセナル | |
+| asagi ryu | あさぎ龍 | |
+| hayano rinta | 早野りんた | |
+| jenigata | ジェニガタ | |
+| mita kurumi | みたくるみ | |
+| mutsuki | 睦月 | |
+| shinobu tanei | 志乃武丹英 | |
