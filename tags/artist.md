@@ -760,3 +760,11 @@
 | ryuuta | 龙太 | |
 | shomu | しょむ | |
 | sunagawa tara | 砂川多良 | |
+| amahara | 天原 | |
+| arino hiroshi | ありのひろし | |
+| cheewts | ちいうつ | |
+| katsura airi | 桂あいり | |
+| koori | 粉织 | |
+| red-rum | RED-RUM | |
+| ryoh-zoh | 椋藏 | |
+| shouji nigou | 庄司二号 | |
