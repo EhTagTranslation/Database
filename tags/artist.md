@@ -768,3 +768,5 @@
 | red-rum | RED-RUM | |
 | ryoh-zoh | 椋藏 | |
 | shouji nigou | 庄司二号 | |
+| henrybird | 半里バード9 | |
+| gui fu shen nai | 鬼父神奈 | |
