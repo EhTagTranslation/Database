@@ -1400,8 +1400,6 @@
 | sailor venus | 水手金星 | |
 | sailor saturn | 水手土星 | |
 | sailor pluto | 水手冥王星 | |
-| android 18 | 人造人18号 | |
-| videl | 比迪丽 | |
 | angela | 安吉拉 | 圣剑传说3角色 |
 | riesz | 莉斯 | 圣剑传说3角色 |
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 | |
@@ -1527,17 +1525,26 @@
 | suomi konepi | 须绪美·科妮皮 | |
 | shinji ikari | 碇真嗣 | |
 | reika shimohira | 下平玲花 | |
-| yamcha | 雅木茶 | |
 | katina tarask | 卡琪娜·塔拉斯克 | |
 | leona garstein | 雷欧娜·嘉施泰因 | |
 | cammy white | 嘉米 | |
 | m. bison | 拜森 | |
 | poison | 毒药 | |
+| | ▼龙珠系列 | |
+| yamcha | 雅木茶 | |
 | bulma | 布尔玛 | |
 | chi chi | 琪琪 | |
-| erasa | 伊蕾莎 | |
 | son gohan | 孙悟饭 | |
 | son goten | 孙悟天 | |
+| android 18 | 人造人18号 | |
+| videl | 比迪丽 | |
+| son goku | 卡卡罗特\|孙悟空 | |
+| vegeta | 贝吉塔 | |
+| trunks briefs | 特兰克斯 | |
+| piccolo | 比克 | |
+| goku black | 黑悟空 | |
+| broly | 布罗利 | |
+| erasa | 伊蕾莎 | |
 | jessica albert | 杰西卡·阿尔芭 | 《勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主》中的角色 |
 | jigoku no fubuki | 地狱的吹雪 | |
 | senritsu no tatsumaki | 战栗的龙卷 | |
