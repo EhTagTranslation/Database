@@ -935,3 +935,5 @@
 | wizard of oz | 绿野仙踪 | |
 | cream lemon | 乳霜柠檬 | |
 | dream c club | 梦幻俱乐部 | |
+| katekyo hitman reborn | 家庭教师HITMAN REBORN! | |
+| tsugumomo | 怪怪守护神 | |
