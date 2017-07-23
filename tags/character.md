@@ -1375,6 +1375,21 @@
 | | ▼缘之空 | |
 | sora kasugano | 春日野穹 | |
 | haruka kasugano | 春日野悠 | |
+| | ▼龙珠系列 | |
+| yamcha | 雅木茶 | |
+| bulma | 布尔玛 | |
+| chi chi | 琪琪 | |
+| son gohan | 孙悟饭 | |
+| son goten | 孙悟天 | |
+| android 18 | 人造人18号 | |
+| videl | 比迪丽 | |
+| son goku | 孙悟空 | |
+| vegeta | 贝吉塔 | |
+| trunks briefs | 特兰克斯 | |
+| piccolo | 比克 | |
+| goku black | 黑悟空 | |
+| broly | 布罗利 | |
+| erasa | 伊蕾莎 | |
 | | ▼未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1531,21 +1546,6 @@
 | cammy white | 嘉米 | |
 | m. bison | 拜森 | |
 | poison | 毒药 | |
-| | ▼龙珠系列 | |
-| yamcha | 雅木茶 | |
-| bulma | 布尔玛 | |
-| chi chi | 琪琪 | |
-| son gohan | 孙悟饭 | |
-| son goten | 孙悟天 | |
-| android 18 | 人造人18号 | |
-| videl | 比迪丽 | |
-| son goku | 孙悟空 | |
-| vegeta | 贝吉塔 | |
-| trunks briefs | 特兰克斯 | |
-| piccolo | 比克 | |
-| goku black | 黑悟空 | |
-| broly | 布罗利 | |
-| erasa | 伊蕾莎 | |
 | jessica albert | 杰西卡·阿尔芭 | 《勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主》中的角色 |
 | jigoku no fubuki | 地狱的吹雪 | |
 | senritsu no tatsumaki | 战栗的龙卷 | |
