@@ -940,3 +940,6 @@
 | the simpsons | 辛普森一家 | |
 | ano natsu de matteru | 在盛夏等待 | |
 | net ghost pipopa | 网络精灵PIPOPA | 光速大冒险PIPOPA |
+| dominion tank police | 特搜战车队 | 警察战车队 |
+| ruin explorers | 秘境探险 | |
+| streets of rage | 怒之铁拳 | |

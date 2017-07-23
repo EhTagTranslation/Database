@@ -718,6 +718,7 @@
 | shizuka hiratsuka | 平冢静 | ![平冢静](https://ehgt.org/7a/1b/7a1bf96379495bd0188b2dc4f41d9ae38fa4ff5e-104471-960-544-jpg_l.jpg) |
 | | ▼中二病也要谈恋爱 角色 |  |
 | yuuta togashi | 富㭴勇太 | ![富㭴勇太](https://ehgt.org/d7/5a/d75af54a2ab9d2b44a5784c8f65a00ae66e6e80f-785783-2605-1750-jpg_l.jpg) |
+| yumeha togashi | 富㭴梦叶 | |
 | rikka takanashi | 小鸟游六花 | ![小鸟游六花](https://ehgt.org/3e/42/3e42d2de07314dfe8b623aa3c95869e2b0adab3d-613529-1252-2641-jpg_l.jpg) |
 | kumin tsuyuri | 五月七日茴香 | ![五月七日茴香](https://ehgt.org/42/1c/421ccda1d460bafaac12d69dd83eae3f20e73d4f-856502-1402-2602-jpg_l.jpg) |
 | shinka nibutani | 丹生谷森夏 | ![丹生谷森夏](https://ehgt.org/8b/bd/8bbd55775e5201f70332eb3d702a022bdda51d7c-814113-1550-2776-jpg_l.jpg)<br>![CP](https://ehgt.org/a2/33/a233f29c2eecf8d8f4c3b269959d1407705a0b90-747654-1550-2254-jpg_l.jpg) |

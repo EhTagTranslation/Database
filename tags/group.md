@@ -561,6 +561,14 @@
 | akiba maou | 秋叶魔王 | |
 | nagiya honpo | なぎや本舗 | |
 | lu yan suo | 炉研所 | |
+| nippon h manga kyoukai | 日本H漫画协会 | |
+| urakata honpo | 里方本铺 | |
+| ando six gates | Ando Six Gates | |
+| tamagou | 多摩豪 | |
+| haruharutei | 春叶流亭 | |
+| nizyuugokuhiya | 二十极秘屋 | |
+| pokachutei | ぽかちゅ亭 | |
+| w.label | W.label | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | norn | Norn | |
