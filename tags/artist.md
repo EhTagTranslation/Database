@@ -833,7 +833,7 @@
 | shiwasu horio | 師走ほりお | |
 | pokachu | ぽかちゅ | |
 | wasabi | わさび \| 和錆 | |
-| naruko hanaharu | 鳴子ハナハル | 代表作：少女マテリアル |
+| naruko hanaharu | 鸣子花春 | 鸣子ハナハル（鸣子花春）是日本的漫画家 男性。2002年出刊的《COMIC快楽天》(ワニマガジン社)刊登的《ヒタイ》出道。以后ワニマガジン社成人漫画杂志为活动中心为定期出刊的《COMIC快楽天》的封面负责。2005年则担当Mediamix作品《かみちゅ!!》（神是中学生）漫画版的作画。 |
 | bosshi | ぼっしぃ | 代表作：扶她部(ふた部)<br/>![图](# "http://exhentai.org/t/86/13/861361f96cb61f8bdf1933ed548bdb25f0a37d51-105241-600-800-jpg_l.jpg") |
 | inu | 犬 | 代表作：初犬系列<br/>![图](# "http://exhentai.org/t/25/55/2555c451ca321380282e7f9917dcf262c65c28bb-745866-1369-1200-jpg_l.jpg") |
 | takeda hiromitsu | 武田弘光 | ![图](# "http://exhentai.org/t/80/c9/80c97d34bcf531019ac41d767d77378f913d3036-881347-1142-1600-jpg_l.jpg") |
