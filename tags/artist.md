@@ -859,3 +859,12 @@
 | hiiragi masaki | 柊柾葵 | 2004年以作品『クーロ君の華麗なる日常』（ショタみみLOVE vol.6）出道。之后以『クーロ君シリーズ』（即少年男仆库洛）系列在合集杂志进行创作。 |
 | po-ju | ぽ～じゅ | 插画师。作品以正太（shotacon）为主。画风细腻色情。<br/> PixivID:19291 |
 | abu hyaku | あぶひゃく | 男孩子的慰菊入门的作者。 |
+| suehirogari | すえひろがり | ![图](# "http://exhentai.org/t/21/63/216303dc5c19009d310064d3ba1006cbf8976947-517308-1750-2454-jpg_l.jpg") |
+| shiromaneki | シオマネキ | ![图](# "http://exhentai.org/t/45/ae/45aeec2a06bdfbb63f2968e20759974998b3b3ee-1277202-3560-1584-jpg_l.jpg") |
+| chimee house | ちみはうす | ![图](# "http://exhentai.org/t/31/3d/313de88039a4a01f28163a988fc88620e3818b5c-618153-2150-3036-jpg_l.jpg") |
+| kuritsu yoshihiro | くりつよしひろ | ![图](# "http://exhentai.org/t/13/cd/13cd290c30b3427e65f66259060b33dfbfed3d81-912091-1981-2400-jpg_l.jpg") |
+| guglielmo | ぐりえるも | ![图](# "http://exhentai.org/t/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg") <br/> ![图](# "http://exhentai.org/t/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") |
+| kusano yuu | 草野ゆぅ | ![图](# "http://exhentai.org/t/84/a2/84a2a65577b300681aad16d2e19633488604cb3c-2300734-2280-3280-jpg_l.jpg") |
+| matsuno susumu | 松野すすむ | ![图](# "http://exhentai.org/t/c0/39/c0391931aae172d7656c0f6b667541d8c294dde7-1640079-1512-2102-jpg_l.jpg") |
+| murasaki syu | むらさき朱 | ![图](# "http://exhentai.org/t/91/79/9179053a45f40dea3baa9fc5efbc98ecb948673e-865494-1024-1492-jpg_l.jpg") |
+| nishi iori | 西安 | ![图](# "http://exhentai.org/t/2c/32/2c323417c8780fe37544b72c48baa9a0bb12326d-3885059-2071-3000-jpg_l.jpg") |
