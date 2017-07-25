@@ -943,3 +943,16 @@
 | dominion tank police | 特搜战车队 | 警察战车队 |
 | ruin explorers | 秘境探险 | |
 | streets of rage | 怒之铁拳 | |
+| yume no crayon oukoku | 梦之蜡笔王国 | 梦幻蜡笔王国、蜡笔小王国 |
+| megaman | 洛克人 | |
+| megaman zero | 洛克人ZERO | |
+| megaman zx | 洛克人ZX | |
+| mega man x | 洛克人X | |
+| megaman battle network | 洛克人EXE | |
+| mega man legends | 洛克人DASH | |
+| mega man star force | 流星洛克人 | |
+| zatch bell | 金色的卡修 | 金童卡修、魔法少年贾修 |
+| super doll licca-chan | 丽佳公主 | 《丽佳公主》（スーパードール★リカちゃん），又译《超级娃娃战士》、《丽佳娃娃》或《梦幻娃娃》，是一部日本电视动画，共52集。 |
+| kasumin | 妙妙魔法屋 | |
+| di gi charat | 铃铛猫娘 | 《Di Gi Charat》（日文：デ・ジ・キャラット 中译：滴骰孖妹/铃铛猫娘/叮当小魔女等）是1999年Broccoli公司为动漫周边连锁Gamers所创作的角色企画，是现役店铺吉祥物。并有动画、漫画、小说等周边作品。 |
+| lamento | 挽歌 | |
