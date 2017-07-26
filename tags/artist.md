@@ -923,3 +923,23 @@
 | asuhiro | アスヒロ | |
 | bomb | ボム | |
 | buta tamako | 豚たま子 | |
+| eguchi jaws | 江口ジョーズ | |
+| eno yukimi | 榎ゆきみ | |
+| esuke | えーすけ | |
+| gintarou | ぎん太郎 | |
+| hardboiled yoshiko | ハードボイルドよし子 | |
+| hinahara emi | 雛原えみ | |
+| hitori | 火鸟 | |
+| karasuma yayoi | 烏丸やよい | |
+| napata | なぱた | |
+| nokin | のきん | |
+| savan | SAVAN | |
+| sugaishi | すがいし | |
+| sumiya | スミヤ | |
+| takashi | タカシ | |
+| umakuchi shouyu | うまくち醤油 | |
+| ushino kandume | 牛野缶诘 | |
+| yahiro pochi | 八尋ぽち | |
+| yanyo | やんよ | |
+| yuzuha | ユズハ | |
+| yamagara tasuku | 山雀たすく | |
