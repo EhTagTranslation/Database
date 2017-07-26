@@ -397,7 +397,7 @@
 | kawata hisashi | カワタヒサシ | |
 | mitsumi misato | みつみ美里 | |
 | nakamura takeshi | なかむらたけし | |
-| minase syu | 水瀬修 | |
+| minase syu | 水濑修 | |
 | yoshiura kazuya | 由浦カズヤ | |
 | erect sawaru | エレクトさわる | |
 | katsurai yoshiaki | 桂井よしあき | |
@@ -432,7 +432,7 @@
 | shioroku | シオロク | |
 | kaname aomame | 要青豆 | |
 | kouno yukiyo | こうのゆきよ | |
-| seno fumiki | 瀬野文希 | |
+| seno fumiki | 濑野文希 | |
 | shimuu | しゃむ | |
 | rie-chan 14-sai | りえちゃん14歳 | |
 | fukori | フコリ | |
@@ -493,7 +493,7 @@
 | usubeni sakurako | うすべに桜子 | |
 | nori | 糊 | |
 | mitsugi | ミツギ | |
-| seura isago | 瀬浦沙悟 | |
+| seura isago | 濑浦沙悟 | |
 | tsukudani norio | 佃煮のりお | |
 | kasugano tobari | 春日野トバリ | |
 | hisaka hazara | 檜坂はざら | |
@@ -742,7 +742,7 @@
 | akuochisukii sensei | アクオチスキー先生 | |
 | ameyama denshin | 雨山电信 | |
 | aoyama mayama | 青山まやま | |
-| bitch goigostar | ビッチ★ゴイゴスター | |
+| bitch goigostar | ビッチ☆ゴイゴスター | |
 | danbo | ダンボ | |
 | dunga | ドゥンガ | |
 | musashi daichi | 武蔵ダイチ | |
@@ -902,3 +902,24 @@
 | zood | ZOOD | |
 | redlight | REDLIGHT | |
 | yukie | ゆき恵 | |
+| raven | RAVEN | |
+| sujoyushi | 酢醤油氏 | |
+| date | DATE | |
+| kase daiki | 加濑大辉 | |
+| uraho an | 浦歩あん | |
+| nakamura kumarin | 中村くまりん | |
+| masago | まさご | |
+| ron | RON | |
+| zounose | ゾウノセ | |
+| suzuka sakito | 凉加早希兔 | |
+| sugi g | すぎぢー | |
+| kanzaki maguro | 潤咲まぐろ | |
+| sakagaki | サカガキ | |
+| ohmiya tsukasa | 大宫司 | |
+| leslie brown | Leslie Brown | |
+| satsuki imonet | 皋月芋网 | |
+| chiyoko | ちよこ | |
+| marui maru | 丸居まる | |
+| asuhiro | アスヒロ | |
+| bomb | ボム | |
+| buta tamako | 豚たま子 | |
