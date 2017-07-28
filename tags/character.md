@@ -1629,3 +1629,11 @@
 | melda deitz | 梅尔达·狄兹 | |
 | yuki mori | 森雪 | |
 | chibiusa | 小小兔 | |
+| tiona hiryute | 蒂奥娜·席吕特 | |
+| tione hiryute | 蒂奥涅·席吕特 | |
+| ainz ooal gown | 安兹·乌尔·恭 | |
+| albedo | 雅儿贝德 | |
+| aura bella fiora | 亚乌菈·贝拉·菲欧拉 | |
+| clementine | 克莱门汀 | |
+| mare bello fiore | 马雷·贝罗·菲欧雷 | |
+| shalltear bloodfallen | 夏提雅·布拉德弗伦 | |
