@@ -111,6 +111,7 @@
 | yamame kurodani | 黑谷山女 | |
 | rinnosuke morichika | 森近霖之助 | |
 | yumeko | 梦子 | |
+| sagume kishin | 稀神探女 | |
 | | ▲东方Project 人物 | |
 | | ▼Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |

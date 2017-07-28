@@ -943,3 +943,27 @@
 | yanyo | やんよ | |
 | yuzuha | ユズハ | |
 | yamagara tasuku | 山雀たすく | |
+| zumikuni | ズミクニ | |
+| juder | Juder | |
+| nagase yutaka | 長瀬ゆたか | |
+| yumeno owari | ユメのオワリ | |
+| jinguu kozue | 神宫梢 | |
+| anzu | 庵ズ | |
+| lu renbing | 路人丙 | |
+| takei ooki | タケイオーキ | |
+| azuma tesshin | 东铁神 | |
+| akagi asahito | 赤城あさひと | |
+| benimura karu | 紅村かる | |
+| botan mochito | 牡丹もちと | |
+| cuvie | Cuvie | |
+| hazuki yuto | 羽月ユウト | |
+| hinasaki yo | 雏咲叶 | |
+| hirama hirokazu | 平間ひろかず | |
+| hishigata tomaru | ひし形とまる | |
+| ichiko | いちこ | |
+| mokufu | もくふう | |
+| okumoto yuuta | オクモト悠太 | |
+| regdic | れぐでく | |
+| shiba nanasei | 柴七世 | |
+| shimetta seiya | 湿った星夜 | |
+| tsukitokage | 月蜥蜴 | |

@@ -606,6 +606,14 @@
 | nyankone | にゃんこね | |
 | handsome aniki | ハンサム兄貴 | |
 | grenade | ぐれねーど | |
+| vivid thunder | びびっどサンダー | |
+| ryu-seki-do | 流石堂 | |
+| hiyotama goten | ひよたま御殿 | |
+| seqmed | SEQMED | |
+| ichinichi sanjou | 一日三锭 | |
+| kesshoku mikan | 血色蜜柑 | |
+| kakkuu mogura | 滑空モグラ | |
+| ties | TIES | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | norn | Norn | |
@@ -677,6 +685,7 @@
 | whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
+| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
 | dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 |
 | kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 |
