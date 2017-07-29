@@ -614,8 +614,24 @@
 | kesshoku mikan | 血色蜜柑 | |
 | kakkuu mogura | 滑空モグラ | |
 | ties | TIES | |
+| public bath | Public bath | |
+| nagai hamu | 長井ハム | |
+| maltese | まるちぃず | |
+| goromenz | ゴロメンツ | |
+| stemun | すてむん | |
+| rosapersica | Rosapersica | |
+| kudoki dancer | くどきダンサー | |
+| athome shuka | アットホーム酒家 | |
+| 111 touban | 111当番 | |
+| iro wa nioe do | 色は匂えど | |
+| joudan janai yo | 冗談じゃないよっっ! | |
+| poyopacho | ぽよぱちょ | |
+| guilty hearts | GUILTY HEARTS | |
+| ortensia | おるてんしあ | |
+| expot | EXPOT | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| omega star | ωstar | |
 | norn | Norn | |
 | aries | Aries | |
 | ensemble | ensemble | ensemble 是日本一家成人游戏制作公司，主要制作大小姐恋爱AVG游戏，姐妹品牌为 ensemble SWEET。 |
@@ -685,6 +701,7 @@
 | whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | |
 | | ▲ GAL公司 | |
 | | ▼ 其他游戏公司 | |
+| illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 |
 | falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 |
 | dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 |

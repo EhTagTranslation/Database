@@ -967,3 +967,20 @@
 | shiba nanasei | 柴七世 | |
 | shimetta seiya | 湿った星夜 | |
 | tsukitokage | 月蜥蜴 | |
+| izumi yuhina | いずみゆひな | |
+| ryouma | りょうま | |
+| akino sora | あきのそら | |
+| yumeno tanuki | 梦乃狸 | |
+| ichinomiya | 一ノ宮 | |
+| kikuchi seiji | 菊池政治 | |
+| yabuki gou | 矢吹豪 | |
+| sanbun kyoden | 山文京传 | |
+| takunomi | たくのみ | |
+| 1-gou | 1号 | |
+| kadoi aya | 门井亚矢 | |
+| doumeki bararou | 百目鬼蔷薇郎 | |
+| umiushi | うみうし | |
+| samidare setsuna | 五月雨せつな | |
+| flo | FLO | |
+| shinobe | しのべ | |
+| kamiya | Kamiya \| かみや | 臨時PT<br>EXPOT |
