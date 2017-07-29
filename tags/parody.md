@@ -972,3 +972,4 @@
 | mahou shoujo ai | 魔法少女爱 | |
 | ys | 伊苏 | |
 | yumeria | 梦物语 | 真实梦境 |
+| re creators | Re:CREATORS | |
