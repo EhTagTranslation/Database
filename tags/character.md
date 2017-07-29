@@ -1638,3 +1638,7 @@
 | clementine | 克莱门汀 | |
 | mare bello fiore | 马雷·贝罗·菲欧雷 | |
 | shalltear bloodfallen | 夏提雅·布拉德弗伦 | |
+| ai | 爱 | |
+| ai kagano | 加贺野爱 | |
+| mayu | 美格 | |
+| ai | 爱 | |
