@@ -409,7 +409,7 @@
 | oomori yoshiharu | おおもりよしはる | |
 | amedamacon | 飴玉コン | |
 | eisen | 英战 | |
-| harigane shinshi | 針金紳士 | PixivID:130689 |
+| harigane shinshi | 针金绅士 | PixivID:130689 |
 | kazuhiro | 一弘 | |
 | lobster | ロブ☆スター | |
 | magifuro konnyaku | magifuro蒟蒻 | |
@@ -1002,3 +1002,24 @@
 | okara | おから | |
 | reco | Reco | |
 | zanzi | 暂时 | |
+| hozumi kenji | ほずみけんじ | |
+| mel | Mel | |
+| getty | Getty | |
+| ramjak | Ramjak | |
+| the jinshan | The Jinshan | |
+| yu-ta | YU-TA | |
+| ooba nii | 大庭新 | |
+| yuuki sei | 结城成 | |
+| natsume eri | なつめえり | |
+| kuroinu juu | 黑犬兽 | |
+| bakutaso | 爆タソ | |
+| mda starou | MだSたろう | |
+| tsuchigayu | 土粥 | PixivID: 4700924 |
+| myu-po | myu-po | PixivID: 172800 |
+| nase | 名濑 | |
+| noba | の歯 | |
+| shiki takuto | 史鬼匠人 | |
+| sakagami umi | 坂上海 | |
+| kuno touya | 九野十弥 | |
+| sakurasawa yukino | さくらさわゆきの | |
+| inomoto rikako | 井ノ本リカ子 | |

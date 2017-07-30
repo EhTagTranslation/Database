@@ -299,7 +299,7 @@
 | meshikutteneru. | 飯食って寝る。 | |
 | little hamlet | りとる☆はむれっと | |
 | tarehamu | たれハム | |
-| black dog | Black Dog | |
+| black dog | BLACK DOG | |
 | shimesaba | しめさば | |
 | forestrest | ForestRest | |
 | norioikeru | のりおいける! | |
@@ -629,8 +629,28 @@
 | guilty hearts | GUILTY HEARTS | |
 | ortensia | おるてんしあ | |
 | expot | EXPOT | |
+| shouchuu mac | 烧酎MAC | |
+| golden zombie | 金珠狼 | |
+| melty pot | Melty Pot | |
+| airbox | AIR BOX | |
+| suwateria | すわてりあ | |
+| ichigosize | いちごさいず | |
+| bakutaso switch | 爆タソスイッチ | |
+| miyuuhodoh | 美遊穂堂 | |
+| 7cm | 7センチ | |
+| nisemididoronokai | 偽MIDI泥の会 | |
+| veronica no ha | ヴェロニカの歯 | |
+| jet-black baselarde | 漆黒のバゼラード | |
+| guilty ex | Guilty eX | |
+| juicebox koujou | ジュースボックス工場 | |
+| yukinohana | ユキノハナ | |
+| sa ku | sa_ku | |
+| rurunoya | るるノ屋 | |
+| all delete | ALL DELETE | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 |
+| triangle | Triangle | |
 | omega star | ωstar | |
 | norn | Norn | |
 | aries | Aries | |
