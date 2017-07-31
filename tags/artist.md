@@ -348,7 +348,7 @@
 | shinji mao | 真慈真雄 | |
 | aoi manabu | あおいまなぶ | |
 | izumi tsubasu | 和泉つばす | |
-| sakai hamachi | 堺はま | |
+| sakai hamachi | 堺はまち | |
 | kannazuki nem | 神無月ねむ | |
 | sakurabe notos | 桜部のとす | |
 | misaki kurehito | 深崎暮人 | |
@@ -1023,3 +1023,21 @@
 | kuno touya | 九野十弥 | |
 | sakurasawa yukino | さくらさわゆきの | |
 | inomoto rikako | 井ノ本リカ子 | |
+| mikemono yuu | 神毛物由宇 | |
+| tsukioka kirio | ツキオカキリオ | |
+| nishi | 弐肆 \| にし \| 西 | Count2.4<br>Lily \| Studio Empty<br>风来人 |
+| chachaki noriyuki | 清山昌 | |
+| abe morioka | あべもりおか | |
+| akishima shun | 昭嶋しゅん | |
+| alexi laiho | 荒岸来步 | |
+| dobato | ドバト | |
+| fuyu mikan | 冬みかん | |
+| hatch | ハッチ | |
+| inoue yoshihisa | 井上よしひさ | |
+| ken | KEN | |
+| kimura neito | 木村宁都 | |
+| kir-rin | きりりん | |
+| ootori ryuuji | おおとりりゅうじ | |
+| suzunone kanata | 音々かなた | |
+| terada nuki | 寺田ぬき | |
+| wakana hanabi | わかなはなび | |

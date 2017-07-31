@@ -210,6 +210,7 @@
 |  | ▼女神转生 系列 | |
 | shin megami tensei | 真·女神转生 | |
 | shin megami tensei devil children | 真·女神转生 恶魔之子 | |
+| shin megami tensei nocturne | 真·女神转生3 夜曲 | |
 | devil survivor | 女神异闻录 恶魔幸存者 | |
 | persona | 女神异闻录 |  |
 | persona 2 | 女神异闻录2 |  |
@@ -977,3 +978,4 @@
 | yuyushiki | 悠悠式 | 《YUYU式》（日语：ゆゆ式，英语：YUYUSHIKI），或译作《校园大萌主》、《悠悠式》，是三上小又的日本4格漫画作品，2008 年在芳文社4格漫画月刊《Manga Time Kirara》同年 2 月号刊登之后，于 4 月号开始连载。 |
 | sonic the hedgehog | 刺猬索尼克 | 刺猬索尼克（日语：ソニック・ザ・ヘッジホッグ，英语：Sonic the Hedgehog，中国大陆译作“刺猬索尼克”，香港译作“超音鼠”，台湾译作“音速小子”）是由中裕司创作，世嘉开发并持有的电子游戏系列。 |
 | beat blades haruka | 超昂闪忍遥 | 超昂闪忍遥（超昂闪忍ハルカ）是由 ALICESOFT 发行的成人向RPG。 |
+
