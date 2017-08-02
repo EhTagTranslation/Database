@@ -1077,3 +1077,10 @@
 | puyocha | ぷよちゃ | |
 | rakujin | らくじん | |
 | syuuen | 终焉 | |
+| harazaki takuma | はらざきたくま | |
+| hashimura aoki | 桥村青树 | |
+| malcorond | まるころんど | |
+| marugari santarou |  | |
+| poncocchan | ぽんこっちゃん | |
+| tetsuna | テツナ | |
+
