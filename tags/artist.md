@@ -1068,7 +1068,6 @@
 | ari | あり | |
 | ayano rena | 綾乃れな | |
 | chuunen | 中年 | |
-| emily | Emily | |
 | hanafuda sakurano | 花札さくらの | |
 | kaponco taroh | かぽんこたろう | |
 | lockheart | ロックハート | |
