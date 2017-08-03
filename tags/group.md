@@ -680,6 +680,7 @@
 | hard chrome | ハードクローム | |
 | pochi-goya. | ぽち小屋。 | |
 | hikawadou | 火川堂 | |
+| mof-mof | mof-mof | WOMI 所在社团 [mof-mof](http://mof-mof.sakura.ne.jp/top.html) |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 |

@@ -14,11 +14,11 @@
 | nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |
 | kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](http://exhentai.org/t/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg) |
 | | ▲ 重复项合并 | |
-| | ▼萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
+| | ▼ 萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |
 | pastel ink | 闪亮茵可 | ![闪亮茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f36134flq4j205k08674h.jpg) |
 | | ▲萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
-| | ▼东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)官方角色列表填写 |
+| | ▼ 东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)官方角色列表填写 |
 | flandre scarlet | 芙兰朵露·斯卡雷特 | ![我女儿](http://ww1.sinaimg.cn/bmiddle/6c84b2d6gw1e9hupw57iaj21201eotiq.jpg) |
 | alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg) |
 | reimu hakurei | 博丽灵梦 | ![十万巫女](https://img.acg.moe/common/thumb/8/87/ShinkirouReimu.jpg/447px-ShinkirouReimu.jpg) |
@@ -113,7 +113,7 @@
 | yumeko | 梦子 | |
 | sagume kishin | 稀神探女 | |
 | | ▲东方Project 人物 | |
-| | ▼Love Live 人物 | |
+| | ▼ Love Live 人物 | |
 | honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
 | yukiho kousaka | 高坂雪穗 |  |
 | eri ayase | 绚濑绘里 | 所属团体 μ's ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") |
@@ -138,7 +138,7 @@
 | mari ohara | 小原鞠莉 | 所属团体 Aqours ![小原鞠莉](https://img.acg.moe/common/thumb/8/83/Ohana_Mari.png/250px-Ohana_Mari.png)![图](# "http://exhentai.org/t/2a/c9/2ac97c7e6644760e9238338d486350285b4ba276-912121-1680-2391-jpg_l.jpg") |
 | ruby kurosawa | 黑泽露比 | 所属团体 Aqours ![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) |
 | | ▲Love Live 人物 | |
-| | ▼舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 |
+| | ▼ 舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png") |
 | nagato | 长门 | No.001 长门![长门](# "http://exhentai.org/t/ed/fe/edfeda7b7b1233090e49f049ef629404a9f97a85-1967290-2120-3008-jpg_250.jpg") |
 | mutsu | 陆奥 | No.002 陆奥![陆奥](# "http://exhentai.org/t/e0/d7/e0d7e77be040aa02024d5576a31680106627d58c-878090-1697-2400-jpg_250.jpg") |
@@ -359,7 +359,7 @@
 | chuukan seiki | 中间栖姬 | |
 | hikoujouki | 飞行场姬 | |
 | | ▲舰队Collection-KanColle 人物 | |
-| | ▼偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |
+| | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |
 | producer | 制作人 | |
 | haruka amami | 天海春香 | |
 | chihaya kisaragi | 如月千早 | |
@@ -643,7 +643,7 @@
 |  | 北村想乐 | |
 |  | 山村贤 | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | |
-| | ▼My Little Pony 角色 | |
+| | ▼ My Little Pony 角色 | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |
 | big macintosh | 大麦哥 | Apple Bloom 和 Applejack 的哥哥。<br>![BM](https://31.media.tumblr.com/88874d9ab3d8c6f727743d0e5ec0e1ff/tumblr_inline_nk52r9LXS81snpgiu.png) |
 | applejack | 苹果杰克 |  |
@@ -655,7 +655,7 @@
 | sunset shimmer | 余晖烁烁 | |
 | trixie | 崔克西 | |
 | | ▲My Little Pony 角色 | |
-| | ▼为美好的世界献上祝福 角色 |  |
+| | ▼ 为美好的世界献上祝福 角色 |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |
 | megumin | 惠惠 | ![惠惠](https://exhentai.org/t/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg) |
 | kazuma satou | 佐藤和真 | ![佐藤和真](https://ehgt.org/t/80/8d/808d6355e2fe9a0ca7a6a64f0d6e2a0f0c5ee213-231521-1050-1492-jpg_l.jpg) |
@@ -663,7 +663,7 @@
 | yunyun | 悠悠 | ![悠悠](https://exhentai.org/t/5d/51/5d515b84cba5e1b08ff2bed2cedcec87a4e35591-1883545-1300-1800-jpg_l.jpg) |
 | wiz | 维兹 | ![维兹](https://ehgt.org/t/ab/3a/ab3aa98630db78bb1f5c1009385385da898ee2a2-494209-834-1179-jpg_l.jpg) |
 | chris | 克莉丝 | ![克莉丝](https://exhentai.org/t/af/b5/afb58cc128df5f081d6db9d41c9a64f85a198393-136583-800-1000-jpg_l.jpg) |
-| | ▼请问您今天要来点兔子吗？ 角色 |  |
+| | ▼ 请问您今天要来点兔子吗？ 角色 |  |
 | kokoa hoto | 保登心爱 | ![保登心爱](https://exhentai.org/t/8d/65/8d6540d0b2dd2f9e48c55cb15900f228332addd7-1630906-1050-1492-png_l.jpg) |
 | chino kafuu | 香风智乃 | ![香风智乃](https://exhentai.org/t/4a/74/4a7451ef3c0faf3955386a01a369d5a7a1ac6729-895080-2119-3000-jpg_l.jpg) ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | rize tedeza | 天天座理世 | ![天天座理世](https://exhentai.org/t/68/57/68570a0618c9dae4d7b5183bfcb3fc0167b11f2b-795826-1051-1494-jpg_l.jpg) |
@@ -672,18 +672,18 @@
 | maya jouga | 条河麻耶 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | megumi natsu | 奈津惠 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) |
 | mocha hoto | 保登摩卡 | ![保登摩卡](https://exhentai.org/t/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg) |
-| | ▼我的脑内恋碍选项 角色 |  |
+| | ▼ 我的脑内恋碍选项 角色 |  |
 | chocolat | 裘可拉 | ![裘可拉](https://ehgt.org/t/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |
 | ayame reikadou | 丽华堂绚女 | ![丽华堂绚女](https://ehgt.org/t/e5/1f/e51ff393eb5aa6e4af0f23cc6d8ba73aeab138c8-209347-1280-1239-jpg_250.jpg) |
 | oka yuoji | 游王子讴歌 | ![游王子讴歌](https://exhentai.org/t/d4/5a/d45ab0547f03c30a4e153b3a4637db164326dc77-2031823-1058-1510-jpg_250.jpg) |
 | furano yukihira | 雪平富良野 | ![雪平富良野](https://exhentai.org/t/62/9f/629ffe5201a513686c2bac5451efe326b87f59be-297757-1000-1407-jpg_l.jpg) |
-| | ▼我女友与青梅竹马的惨烈修罗场 角色 |  |
+| | ▼ 我女友与青梅竹马的惨烈修罗场 角色 |  |
 | chiwa harusaki | 春咲千和 | ![春咲千和](https://exhentai.org/t/55/dc/55dc0b600b35129afd6ed7a06b41c8c2caa74671-1850327-1272-1800-jpg_l.jpg) |
 | eita kidou | 季堂锐太 | ![季堂锐太](https://exhentai.org/t/f9/aa/f9aaffd09dabe9085a2bef2a2fc4c1b17b967e42-556245-1280-1024-jpg_l.jpg) |
 | masuzu natsukawa | 夏川真凉 | ![夏川真凉](https://exhentai.org/t/1d/e8/1de84c0c1350b5205b3e7408ce9a8129adf59286-1227868-1482-2100-jpg_l.jpg) |
 | himeka akishino | 秋篠姬香 | ![秋篠姬香](https://exhentai.org/t/c1/4b/c14b838eeb2e3b6c8e9b9fc1e1fd5104d6d968e7-785787-1280-1024-jpg_l.jpg) |
 | ai fuyuumi | 冬海爱衣 | ![冬海爱衣](https://exhentai.org/t/2d/23/2d2392bd2c85b3685a03a08a4461797fe36e6bd5-884316-1280-1024-jpg_l.jpg) |
-| | ▼我的妹妹不可能那么可爱 角色 |  |
+| | ▼ 我的妹妹不可能那么可爱 角色 |  |
 | kyousuke kousaka | 高坂京介 | ![高坂京介](https://ehgt.org/88/3a/883a07dfca2577c54c01d0a92be2d72d5240b136-2180731-2521-3600-jpg_l.jpg) |
 | kirino kousaka | 高坂桐乃 | ![高坂桐乃](https://ehgt.org/0d/4e/0d4ed88f476242fd7657942d6eeb1ff3349b5110-2114456-2521-3600-jpg_l.jpg) |
 | ruri gokou | 五更琉璃（黑猫） | ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg) |
@@ -697,7 +697,7 @@
 | daisuke kousaka | 高坂大介 | ![高坂大介](https://exhentai.org/t/b8/f6/b8f6080f5f63e9f5132d400ec08bba2079901382-730717-1200-1400-jpg_l.jpg) |
 | tamaki gokou | 五更珠希 | ![五更珠希](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |
 | hinata gokou | 五更日向 | ![五更日向](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |
-| | ▼K-ON 角色 |  |
+| | ▼ K-ON 角色 |  |
 | azusa nakano | 中野梓 | ![中野梓](https://ehgt.org/20/00/2000e34ee71ff2cd460511bf72243a3fb8dc76d7-631282-2452-3834-jpg_l.jpg) |
 | jun suzuki | 铃木纯 | ![铃木纯](https://ehgt.org/50/04/5004480cfb0c9c597ccf646f8cb19afbfe9080dd-1147183-1920-1200-png_l.jpg) |
 | mio akiyama | 秋山澪 | ![秋山澪](https://ehgt.org/22/e7/22e7a7e774123e6046b917fea37f1b4650ebe52d-681429-2448-3832-jpg_l.jpg) |
@@ -710,7 +710,10 @@
 | satoshi tainaka | 田井中聪 | ![田井中聪](https://exhentai.org/t/d1/76/d17632cbec18cc492bb39f20ef3c64723c13f81e-1517181-2090-3000-jpg_l.jpg) |
 | sumire saitou | 齐藤堇 | ![齐藤堇](https://exhentai.org/t/c7/d8/c7d89fdaabf86a23aa74d61dca1a9e364171c6fc-6163201-1439-2021-png_250.jpg) |
 | megumi sokabe | 曾我部惠 | |
-| | ▼我的青春恋爱物语果然有问题 角色 |  |
+| | ▼ 蔷薇十字小剑 角色 |  |
+| luste teuber | 露斯特·特依巴 | 乐天派。对她来说战斗也是玩耍。过着今朝有酒今朝醉的生活，用天真无邪来形容再合适不过了。听Tia的话，但有时也很任性。喜欢蕃茄汁。 |
+| spiritia rosenberg | 斯匹莉缇娅·罗森伯格 | 本游戏主人公。性格正直坦率的少女。昵称Tia。拥有RKS首屈一指的战斗能力，连帝国军也要敬她三分。虽有些笨手笨脚，但却是非常热心的人。极不擅长游泳。 |
+| | ▼ 我的青春恋爱物语果然有问题 角色 |  |
 | yui yuigahama | 由比滨结衣 | ![由比滨结衣](https://ehgt.org/89/38/8938bf5cb7098806fc2a3607728e64f25b91b7c6-185458-960-544-jpg_l.jpg) |
 | hachiman hikigaya | 比企谷八幡 | ![比企谷八幡](https://ehgt.org/3c/c9/3cc9d8c6ab2160cd9929b076cb551dba0b9e5f35-113039-960-544-jpg_l.jpg) |
 | yukino yukinoshita | 雪之下雪乃 | ![雪之下雪乃](https://ehgt.org/57/c8/57c83bdddf676f8ff84d7fbd821321b0482ce71c-97454-960-544-jpg_l.jpg) |
@@ -719,7 +722,7 @@
 | saika totsuka | 户冢彩加 | ![户冢彩加](https://ehgt.org/t/4d/b1/4db1072304b66f66fc8a641ecb908a7eefee63e7-854698-1920-2812-jpg_l.jpg) |
 | haruno yukinoshita | 雪之下阳乃 | ![雪之下阳乃](https://exhentai.org/t/a2/e1/a2e10e6ab8a7e258f170e06799cba4fb496013d2-4469908-2130-3000-jpg_l.jpg) |
 | shizuka hiratsuka | 平冢静 | ![平冢静](https://ehgt.org/7a/1b/7a1bf96379495bd0188b2dc4f41d9ae38fa4ff5e-104471-960-544-jpg_l.jpg) |
-| | ▼中二病也要谈恋爱 角色 |  |
+| | ▼ 中二病也要谈恋爱 角色 |  |
 | yuuta togashi | 富㭴勇太 | ![富㭴勇太](https://ehgt.org/d7/5a/d75af54a2ab9d2b44a5784c8f65a00ae66e6e80f-785783-2605-1750-jpg_l.jpg) |
 | yumeha togashi | 富㭴梦叶 | |
 | rikka takanashi | 小鸟游六花 | ![小鸟游六花](https://ehgt.org/3e/42/3e42d2de07314dfe8b623aa3c95869e2b0adab3d-613529-1252-2641-jpg_l.jpg) |
@@ -728,7 +731,7 @@
 | sanae dekomori | 凸守早苗 | ![凸守早苗](https://ehgt.org/ed/56/ed56fe7b2b3e4a48c814259c157519e3eef9454e-618487-1500-2524-jpg_l.jpg)<br>![CP](https://ehgt.org/a2/33/a233f29c2eecf8d8f4c3b269959d1407705a0b90-747654-1550-2254-jpg_l.jpg) |
 | satone shichimiya | 七宫智音 | ![七宫智音](https://ehgt.org/38/18/381816eac21ee8019703084e956d8fdd49a7c29f-617552-1550-2264-jpg_l.jpg) |
 | touka takanashi | 小鸟游十花 | ![小鸟游十花](https://ehgt.org/3d/f6/3df6b804f019a38a4b6c843daac9662d27cea7d2-543872-1550-2249-jpg_l.jpg) |
-| | ▼守望先锋 角色 |  |
+| | ▼ 守望先锋 角色 |  |
 | mercy | 天使 | ![](https://ehgt.org/3a/74/3a7481fa86013292b904e37f2bfc81f7d757efc2-8661127-3267-2476-jpg_l.jpg) |
 | tracer | 猎空 | ![](https://ehgt.org/6f/32/6f327b72a308ecb6b8b9f27928ea891a5c48800f-8471943-3267-2476-jpg_l.jpg) |
 | widowmaker | 黑百合 | ![](https://ehgt.org/29/a0/29a058dd6aaa0ccd49c9a9f098de0072ec6f54db-8442967-3267-2476-jpg_l.jpg) |
@@ -743,14 +746,14 @@
 | symmetra | 秩序之光 | ![](https://ehgt.org/bb/f2/bbf294ed0b338a6904b0dc30bbb569ad746de138-8759364-3267-2476-jpg_l.jpg) |
 | winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) |
 | sombra | 黑影 | |
-| |  ▼光环 角色 | |
+| |  ▼ 光环 角色 | |
 | cortana | 科塔娜 | ![](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) |
-| |  ▼半衰期 角色 | |
+| |  ▼ 半衰期 角色 | |
 | gordon freeman | 戈登·弗里曼 | ![](https://ehgt.org/57/6c/576ce520de6f560ac2cb8caea773830ba751bbdc-2157467-1603-2222-jpg_l.jpg) |
 | alyx vance | 爱丽克斯·凡斯 |  |
-| |  ▼传送门 角色 | |
+| |  ▼ 传送门 角色 | |
 | chell | 雪儿 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |
-| |  ▼Re0 角色 | |
+| |  ▼ Re0 角色 | |
 | emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主. <br>![爱蜜莉雅](http://7xw6zm.com1.z0.glb.clouddn.com/emilia.png) |
 | ram | 拉姆 | ![拉姆](https://exhentai.org/t/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg) |
 | rem | 雷姆 | ![雷姆](https://exhentai.org/t/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg) |
@@ -762,14 +765,14 @@
 | otto suewen | 奥托·苏文 | ![奥托·苏文](https://exhentai.org/t/c8/e7/c8e701fac4ff3135e5e67bf4d05efa5d3eea590a-412310-796-1200-jpg_l.jpg) |
 | julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](https://exhentai.org/t/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg) |
 | elsa granhilte | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](https://exhentai.org/t/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg) |
-| |  ▼路人女主的养成方法 角色 | |
+| |  ▼ 路人女主的养成方法 角色 | |
 | tomoya aki | 安艺伦也 | |
 | megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/t/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) |
 | utaha kasumigaoka | 霞之丘诗羽 | ![霞之丘诗羽](https://ehgt.org/t/e2/f2/e2f26d14ccd531b6096b4ddf6639e83da9f1e98a-197453-650-1000-jpg_l.jpg)![图](http://exhentai.org/t/89/08/8908e2bdfdaafb184152eeae2c15bc6040d1301a-1235757-2000-1918-jpg_l.jpg) |
 | michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/t/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |
 | eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![泽村·斯宾塞·英梨梨](http://ehgt.org/t/78/e1/78e11c97c6e09366cc83386902a5f3017606bc27-336327-385-1200-jpg_l.jpg)![图](http://ehgt.org/t/c2/69/c269e46ca319ed8d35dd834ef701b2335a1b0e00-1911197-893-1227-png_l.jpg)![图](http://exhentai.org/t/b7/e4/b7e48d2ec94ab65a4193c02fca1f943799a0f37d-1891325-1920-1080-png_l.jpg) |
 | izumi hashima | 波岛出海 | ![波岛出海](https://exhentai.org/t/26/b1/26b17a7462f12aa7f5c49fc088ea3d90f88060d7-599437-627-885-png_l.jpg) |
-| |  ▼我的朋友很少 角色 | |
+| |  ▼ 我的朋友很少 角色 | |
 | kobato hasegawa | 羽濑川小鸠 | ![羽濑川小鸠](http://ehgt.org/t/11/e7/11e759c8412af65520dc1f60395d7830090d80a7-50943-315-640-jpg_l.jpg) |
 | kodaka hasegawa | 羽濑川小鹰 | ![羽濑川小鹰](http://ehgt.org/t/d4/1a/d41a9e7e7dd679e39b475793fbcfdf16dc208eb9-74031-550-777-jpg_l.jpg) |
 | rika shiguma | 志熊理科 | ![志熊理科](http://ehgt.org/t/21/df/21dfe1c979d457e0e4aef377c6fd3d897a551dd1-41856-279-640-jpg_l.jpg) |
@@ -777,7 +780,7 @@
 | yozora mikazuki | 三日月夜空 | ![三日月夜空](http://ehgt.org/t/67/40/6740e50cd2d0d66f0562c0ceda07e33a5518096c-41599-265-640-jpg_l.jpg) |
 | yukimura kusunoki | 楠幸村 | ![楠幸村](http://ehgt.org/t/09/fa/09fa969bac3e7bc59d68ea85c80fed67936021aa-34249-260-640-jpg_l.jpg) |
 | maria takayama | 高山玛利亚 | ![高山玛利亚](http://ehgt.org/t/f4/ac/f4acaeaebe7436b9574ebffb0f4ddecc74678c40-57300-401-640-jpg_l.jpg) |
-| |  ▼闪乱神乐 角色 | |
+| |  ▼ 闪乱神乐 角色 | |
 | ageha | 扬羽 | ![](http://ehgt.org/t/82/3e/823e07b1218cf49207b09340534ad0175dc4c6e2-286069-384-480-png_l.jpg) |
 | aimu | 蓝梦 | ![](http://ehgt.org/t/31/3e/313eefbe54a223a05b1da924ac1cca2eeff737b0-48502-384-480-jpg_l.jpg) |
 | aria | 亚璃亚 | ![](http://ehgt.org/t/b7/25/b725422163b6b9e4b6838b7442e627ccff8e36cc-40685-384-480-jpg_l.jpg) |
@@ -844,24 +847,24 @@
 | yugiri | 夕雾 | ![](http://ehgt.org/t/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |
 | yumi | 雪泉 | ![](http://ehgt.org/t/67/d5/67d593cf612949acb2d8f79ca70eff5bac6ac89c-70055-384-480-jpg_l.jpg) |
 | yuyaki | 夕烧 | ![](http://ehgt.org/t/8f/7b/8f7b6e8a8f461a32798d6b557a987eaf8c32105e-42862-384-480-jpg_l.jpg) |
-| | ▼小林家的龙女仆 角色 | |
+| | ▼ 小林家的龙女仆 角色 | |
 | tohru | 托尔 | ![托尔](http://ehgt.org/t/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |
 | kanna kamui | 康娜卡姆依 | ![康娜](http://ehgt.org/t/92/45/9245438047724c190da3fb17f94bf2351dae0916-505285-2000-3000-jpg_l.jpg) |
 | quetzalcoatl | 魁札尔科亚特尔 | ![尔科亚](http://ehgt.org/t/6d/35/6d35999b7fc306bf083385b823709f0a116926ff-1239359-1240-1850-jpg_l.jpg) |
 | kobayashi-san | 小林 | ![小林](http://ehgt.org/t/78/c8/78c831f1bdfe841cffac1f136fb58e1d9e496dfe-1490811-2180-3060-png_l.jpg) |
 | shouta magatsuchi | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) |
 | riko saikawa | 才川莉子 | |
-| | ▼星期一的丰满 角色 | |
+| | ▼ 星期一的丰满 角色 | |
 | ai-chan | 小爱 | |
 | kouhai-chan | 后辈 | |
-| | ▼变态王子与不笑猫 角色 | |
+| | ▼ 变态王子与不笑猫 角色 | |
 | azusa azuki | 小豆梓 | |
 | youto yokodera | 横寺阳人 | |
 | tsukiko tsutsukakushi | 筒隐月子 | |
 | tsukushi tsutsukakushi | 筒隐筑紫 | |
 | mai maimaki | 舞牧麻衣 | |
 | emanuella porlallora | 艾米（艾玛努艾勒·波鲁勒劳拉） | |
-| | ▼CLANNAD 角色 | |
+| | ▼ CLANNAD 角色 | |
 | tomoya okazaki | 冈崎朋也 | |
 | fuko ibuki | 伊吹风子 | |
 | kotomi ichinose | 一之濑琴美 | |
@@ -874,17 +877,17 @@
 | youhei sunohara | 春原阳平 | |
 | misae sagara | 相乐美佐枝 | |
 | sanae furukawa | 古河早苗 | |
-| | ▼未闻花名 角色 | |
+| | ▼ 未闻花名 角色 | |
 | meiko honma | 本间芽衣子 | |
 | naruko anjou | 安城鸣子 | |
 | chiriko tsurumi | 鹤见知利子 | |
 | jinta yadomi | 宿海仁太 | |
 | atsumu matsuyuki | 松雪集 | |
-| | ▼粗点心战争 角色 | |
+| | ▼ 粗点心战争 角色 | |
 | hotaru shidare | 枝垂萤 | |
 | kokonotsu shikada | 鹿田九 | |
 | saya endou | 远藤彩 | |
-| | ▼NEW GAME! 角色 | |
+| | ▼ NEW GAME! 角色 | |
 | aoba suzukaze | 凉风青叶 | ![凉风青叶](http://ehgt.org/t/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) |
 | hifumi takimoto | 泷本日富美 | ![泷本日富美](http://ehgt.org/t/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg) |
 | kou yagami | 八神光 | ![八神光](http://ehgt.org/t/89/d4/89d4065cf866e8d9f1c8b1af62b33307a9a2afa9-899427-2722-3920-jpg_l.jpg) |
@@ -892,7 +895,7 @@
 | hajime shinoda | 篠田初 | ![篠田初](http://exhentai.org/t/ee/4e/ee4e99177812131745a90b7562dc0639cd710323-827430-1075-1522-jpg_l.jpg) |
 | yun iijima | 饭岛结音 | ![饭岛结音](http://exhentai.org/t/c0/c8/c0c87235851c710194d4fd379cc32bb9301457ba-153915-1050-1492-jpg_l.jpg) |
 | shizuku hazuki | 叶月雫 | ![叶月雫](http://ehgt.org/t/ae/8c/ae8c37b359b3dc54599ab002ec4d087b375ead3e-917307-2733-3917-jpg_l.jpg)
-| | ▼白箱 角色 | |
+| | ▼ 白箱 角色 | |
 | aoi miyamori | 宫森葵 | ![宫森葵](http://ehgt.org/t/09/7f/097fd5fac6a50f5a5c11d85324fae9ba0fa65b30-1033595-2871-4089-jpg_l.jpg) |
 | ema yasuhara | 安原绘麻 | ![安原绘麻](http://ehgt.org/t/b2/76/b27655e9877933260c4bfc06cd6abbc64e409257-1125551-2519-3600-jpg_l.jpg) |
 | midori imai  | 今井绿 | ![今井绿](http://ehgt.org/t/6b/95/6b955cdde296173a139ed41ad909710e8bb6fdaa-1132368-2500-3600-jpg_l.jpg) |
@@ -905,16 +908,16 @@
 | shun watanabe | 渡边隼 | ![渡边隼](http://ehgt.org/t/48/46/4846302b6c3c067290eda59e11b77bb6c63a23e1-645360-1045-1500-jpg_l.jpg) |
 | ai kunogi | 久乃木爱 | ![久乃木爱](http://exhentai.org/t/2d/0f/2d0f2df41fa0d462a73b08613a12c73afe1d50c3-567830-729-1032-jpg_l.jpg) |
 | yumi iguchi | 井口祐未 | ![井口祐未](http://exhentai.org/t/1d/14/1d14637ea90723c279f9028b967bb667a1296b99-162812-390-800-jpg_l.jpg) |
-| | ▼少女编号 角色 | |
+| | ▼ 少女编号 角色 | |
 | chitose karasuma | 乌丸千岁 | ![乌丸千岁](http://exhentai.org/t/36/c8/36c82f316ec5b8ecaa7b6def15b0c265247a936f-5271025-2125-3032-jpg_l.jpg) |
 | momoka sono | 苑生百花 | ![苑生百花](http://exhentai.org/t/b2/48/b248457cc38e6aceb56d4cc9b73946e6ef61ab3b-132981-1050-1547-jpg_l.jpg) |
 | yae kugayama | 久我山八重 | ![久我山八重](https://img.moegirl.org/common/b/be/Charatati_02.png) |
-| | ▼珈百璃的堕落 角色 | |
+| | ▼ 珈百璃的堕落 角色 | |
 | gabriel tenma white | 天真·珈百璃·怀特 | ![](http://ehgt.org/t/c3/d4/c3d41bf0f3b62cbaffdf2371e7ed6c40e03ba4e7-1832579-1280-720-png_l.jpg) |
 | vignette tsukinose april | 月乃濑·薇奈特·艾普利尔 | ![](http://ehgt.org/t/01/0e/010ea606a24811b55416c16e7efafc77e2cd8a0f-510727-961-1243-jpg_l.jpg) |
 | satanichia kurumizawa mcdowell | 胡桃泽·萨塔妮娅·麦克道威尔 | ![](http://ehgt.org/t/de/22/de22df04759f656c06fd9eeb02e049f0b4caf1c4-962546-1447-2039-jpg_l.jpg) |
 | raphiel shiraha ainsworth | 白羽·菈菲尔·恩兹沃斯 | ![](http://ehgt.org/t/5c/aa/5caa1ccedde683dc88693d98406487928e7b9ade-2193124-1280-720-png_l.jpg) |
-| | ▼Chobits 角色 | |
+| | ▼ Chobits 角色 | |
 | chii | 小叽（爱露达） | ![](http://ehgt.org/t/b0/4e/b04eb089c7775b41b41c31e1c29de43b4e689613-2618200-2551-3619-jpg_l.jpg) |
 | yumi omura | 大村裕美 | ![](http://ehgt.org/t/04/e9/04e976a770d7e04ef6fc241692442074365c2a9d-195024-716-1023-jpg_l.jpg) |
 | sumomo | 丝茉茉 | ![](http://exhentai.org/t/32/19/3219400991cf820fd682c054c8d63e5ba8f9801b-116505-710-1020-jpg_l.jpg) |
@@ -923,9 +926,9 @@
 | yuzuki | 柚姬 | ![](http://exhentai.org/t/54/37/5437549c435148279048db465e1ee6716f3b1614-76540-560-400-jpg_l.jpg) |
 | minoru kokubunji | 国分寺稔 | ![](http://exhentai.org/t/71/4c/714c093deaeeea96ceaf682fa98d60e5dbf7019d-155772-779-1104-jpg_l.jpg) |
 | takako shimizu | 清水多香子 | ![](http://exhentai.org/t/5c/51/5c51f040faa962c1fd41632bb86ca29366b9e2ef-114752-777-1094-jpg_l.jpg) |
-| | ▼与奴隶的生活 -Teaching Feeling- 角色 | |
+| | ▼ 与奴隶的生活 -Teaching Feeling- 角色 | |
 | sylvie | 希尔薇 | ![](http://ehgt.org/t/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |
-| | ▼To Love-Ru 角色 | |
+| | ▼ To Love-Ru 角色 | |
 | rito yuuki | 结城梨斗 | ![](http://ehgt.org/t/3a/4a/3a4a5f8353b91c15edbaf5abe8cf92384ff67ca3-1610639-2111-3000-jpg_l.jpg) |
 | ryouko mikado | 御门凉子 | ![](http://ehgt.org/t/21/ec/21ec1799cfdf175f491c32fd6f10281cece0f20b-726815-1225-1772-jpg_l.jpg) |
 | lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](http://ehgt.org/t/0c/ac/0cacc3552822e62f75e617cfe8d71c75de79f98e-2318079-2934-4220-jpg_l.jpg) |
@@ -948,29 +951,29 @@
 | mio sawada | 泽田未央 | ![](http://ehgt.org/t/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |
 | oshizu murasame | 村雨静 | ![](http://ehgt.org/t/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |
 | kyouko kirisaki | 雾崎恭子 | ![](http://ehgt.org/t/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |
-| | ▼食戟之灵 角色 | |
+| | ▼ 食戟之灵 角色 | |
 | erina nakiri | 薙切绘理奈 | |
-| | ▼埃罗芒阿老师 角色 | |
+| | ▼ 埃罗芒阿老师 角色 | |
 | sagiri izumi | 和泉纱雾 | |
 | elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报 |
 | masamune izumi | 和泉正宗 | |
 | megumi jinno | 神野惠 | |
 | muramasa senju | 千寿村征（梅园花） | |
-| | ▼超级索尼子 角色 | |
+| | ▼ 超级索尼子 角色 | |
 | super sonico | 超级索尼子 | |
 | super pochaco | 超级帕恰子 | |
 | super taruco | 超级桶桶子 | |
-| | ▼亲吻姐姐 角色 | |
+| | ▼ 亲吻姐姐 角色 | |
 | ako suminoe | 住之江亚香 | |
 | riko suminoe | 住之江理香 | |
 | keita suminoe | 住之江圭太 | |
 | miharu mikuni | 三国美春 | |
-| | ▼kill me baby 角色 | |
+| | ▼ kill me baby 角色 | |
 | agiri goshiki | 吴织亚切 | |
 | sonya | 索妮娅 | |
 | yasuna oribe | 折部安奈 | |
 | kyara botsu | 无名子 | |
-| | ▼侵略！乌贼娘 角色 | |
+| | ▼ 侵略！乌贼娘 角色 | |
 | ika musume | 乌贼娘 | |
 | ayumi tokita | 常田鲇美 | |
 | chizuru aizawa | 相泽千鹤 | |
@@ -980,23 +983,23 @@
 | takeru aizawa | 相泽武 | |
 | kiyomi sakura | 纱仓清美 | |
 | nagisa saitou | 齐藤渚 | |
-| | ▼VOCALOID 角色 | |
+| | ▼ VOCALOID 角色 | |
 | miku hatsune | 初音未来 | |
 | luka megurine | 巡音流歌 | |
 | len kagamine | 镜音连 | |
 | rin kagamine | 镜音铃 | |
 | haku yowane | 弱音白 | |
 | gumi | GUMI | |
-| | ▼VOICEROID 角色 | |
+| | ▼ VOICEROID 角色 | |
 | yukari yuzuki | 结月缘 | |
 | maki tsurumaki | 弦卷真纪 | |
-| | ▼樱花庄的宠物女孩 角色 | |
+| | ▼ 樱花庄的宠物女孩 角色 | |
 | sorata kanda | 神田空太 | |
 | mashiro shiina | 椎名真白 | |
 | nanami aoyama | 青山七海 | |
 | misaki kamiigusa | 上井草美咲 | |
 | chihiro sengoku | 千石千寻 | |
-| | ▼龙与虎 角色 | |
+| | ▼ 龙与虎 角色 | |
 | ryuuji takasu | 高须龙儿 | |
 | taiga aisaka | 逢坂大河 | |
 | minori kushieda | 栉枝实乃梨 | |
@@ -1008,14 +1011,14 @@
 | yuusaku kitamura | 北村佑作 | |
 | sakura kanou | 狩野樱 | |
 | sumire kanou | 狩野堇 | |
-| | ▼就算是哥哥，有爱就没问题了，对吧 角色 | |
+| | ▼ 就算是哥哥，有爱就没问题了，对吧 角色 | |
 | akito himenokouji | 姬小路秋人 | |
 | akiko himenokouji | 姬小路秋子 | |
 | anastasia nasuhara | 那须原安娜史塔希亚 | |
 | ginbei haruomi sawatari | 猿渡银兵卫春臣 | |
 | arashi nikaidou | 二阶堂岚 | |
 | arisa takanomiya | 鹰乃宫亚里沙 | |
-| | ▼约会大作战 角色 | |
+| | ▼ 约会大作战 角色 | |
 | origami tobiichi | 鸢一折纸 | |
 | kurumi tokisaki | 时崎狂三 | |
 | yoshino | 四糸乃 | |
@@ -1026,25 +1029,25 @@
 | tohka yatogami | 夜刀神十香 | |
 | shido itsuka | 五河士道 | |
 | reine murasame | 村雨令音 | |
-| | ▼腹黑妹妹控兄记 角色 | |
+| | ▼ 腹黑妹妹控兄记 角色 | |
 | mayuka kondou | 近藤茧佳 | |
 | nao takanashi | 高梨奈绪 | |
 | iroha tsuchiura | 土浦彩叶 | |
-| | ▼潜行吧 奈亚子 | |
+| | ▼ 潜行吧 奈亚子 | |
 | nyaruko | 奈亚子 | |
 | cthugha | 克图格亚 | |
 | mahiro yasaka | 八坂真寻 | |
 | hastur | 哈斯太 | |
-| | ▼其中一个是妹妹 | |
+| | ▼ 其中一个是妹妹 | |
 | konoe tsuruma | 鹤真心乃枝 | |
 | miyabi kannagi | 神凪雅 | |
-| | ▼心灵链环 | |
+| | ▼ 心灵链环 | |
 | himeko inaba | 稻叶姬子 | |
 | iori nagase | 永濑伊织 | |
 | taichi yaegashi | 八重㭴太一 | |
 | yui kiriyama | 桐山唯 | |
 | yoshifumi aoki | 青木义文 | |
-| | ▼伪恋 | |
+| | ▼ 伪恋 | |
 | raku ichijou | 一条乐 | |
 | kosaki onodera | 小野寺小咲 | |
 | haru onodera | 小野寺春 | |
@@ -1053,12 +1056,12 @@
 | chitoge kirisaki | 桐崎千棘 | |
 | seishirou tsugumi | 鸫诚士郎 | |
 | ruri miyamoto | 宫本琉璃 | |
-| | ▼迷途猫 | |
+| | ▼ 迷途猫 | |
 | fumino serizawa | 芹泽文乃 | ![](http://exhentai.org/t/9e/3b/9e3b863ee641b45a17d6f5a804797d64ce1263fb-95205-200-500-jpg_l.jpg) |
 | nozomi kiriya | 雾谷希 | ![](http://exhentai.org/t/83/d6/83d67c9915128646875787c25d7f660402f92c5e-86833-200-500-jpg_l.jpg) |
 | chise umenomori | 梅之森千世 | ![](http://exhentai.org/t/eb/47/eb479f9101fa9a9ac4387fe5aef94332291ee73f-92158-200-500-jpg_l.jpg) |
 | otome tsuzuki | 都筑乙女 | ![](http://exhentai.org/t/45/87/45872d9bf03632f4587a7f1e98ffeca6e1b7dad1-77557-200-500-jpg_l.jpg) |
-| | ▼魔禁/超炮 | |
+| | ▼ 魔禁/超炮 | |
 | touma kamijou | 上条当麻 | |
 | mikoto misaka | 御坂美琴 | |
 | aisa himegami | 姬神秋沙 | |
@@ -1094,19 +1097,19 @@
 | lucia | 露琪亚 | |
 | agnese sanctis | 雅妮丝·桑提斯 | |
 | angelene | 安洁莉娜 | |
-| | ▼冰菓 | |
+| | ▼ 冰菓 | |
 | eru chitanda | 千反田爱瑠 | |
 | houtarou oreki | 折木奉太郎 | |
 | mayaka ibara | 伊原摩耶花 | |
 | fuyumi irisu | 入须冬实 | |
 | satoshi fukube | 福部里志 | |
 | ayako kouchi | 河内亚也子 | |
-| | ▼你的名字 | |
+| | ▼ 你的名字 | |
 | mitsuha miyamizu | 宫水三叶 | |
 | yotsuha miyamizu | 宫水四叶 | |
 | miki okudera | 奥寺美纪 | |
 | taki tachibana | 立花泷 | |
-| | ▼笨蛋测验召唤兽 | |
+| | ▼ 笨蛋测验召唤兽 | |
 | akihisa yoshii | 吉井明久 | |
 | akira yoshii | 吉井玲 | |
 | hideyoshi kinoshita | 木下秀吉 | |
@@ -1118,31 +1121,31 @@
 | shouko kirishima | 雾岛翔子 | |
 | aiko kudou | 工藤爱子 | |
 | miharu shimizu | 清水美春 | |
-| | ▼疯狂动物城 | |
+| | ▼ 疯狂动物城 | |
 | judy hopps | 兔朱迪 | |
 | nick wilde | 狐尼克 | |
 | jack savage | 野蛮杰克 | |
 | chief bogo | 蛮牛局长 | |
 | bonnie hopps | 兔邦妮 | |
-| | ▼神薙 | |
+| | ▼ 神薙 | |
 | nagi | 薙 | |
 | zange | 忏悔 | |
 | jin mikuriya | 御厨仁 | |
 | tsugumi aoba | 青叶鸫 | |
 | shino ookouchi | 大河内紫乃 | |
 | takako kimura | 木村贵子 | |
-| | ▼农林 | |
+| | ▼ 农林 | |
 | kochou yoshida | 良田胡蝶 | |
 | minori nakazawa | 中泽农 | |
 | ringo kinoshita | 木下林檎 | |
 | natsumi bekki | 户次菜摘 | |
-| | ▼要听爸爸的话 | |
+| | ▼ 要听爸爸的话 | |
 | sora takanashi | 小鸟游空 | |
 | miu takanashi | 小鸟游美羽 | |
 | hina takanashi | 小鸟游雏 | |
 | yuuta segawa | 濑川佑太 | |
 | raika oda | 织田莱香 | |
-| | ▼魔物娘的相伴日常 | |
+| | ▼ 魔物娘的相伴日常 | |
 | miia | 米亚 | |
 | centorea shianus | 珊卓蕾亚·夏努斯 | |
 | papi | 帕皮 | |
@@ -1156,7 +1159,7 @@
 | | ▼ 恋爱与选举与巧克力 | |
 | yuuki oojima | 大岛裕树 | |
 | satsuki shinonome | 东云皋月 | |
-| | ▼少女与战车 | |
+| | ▼ 少女与战车 | |
 | miho nishizumi | 西住美穗 | |
 | saori takebe | 武部沙织 | |
 | hana isuzu | 五十铃华 | |
@@ -1230,12 +1233,12 @@
 |  | 冷泉久子 | |
 | chiyo shimada | 岛田千代 | |
 |  | 文科省官员 | |
-| | ▼尼尔 | |
+| | ▼ 尼尔 | |
 | 2b | 二号B型 | |
-| | ▼交响情人梦 | |
+| | ▼ 交响情人梦 | |
 | megumi noda | 野田惠 | |
 | shinichi chiaki | 千秋真一 | |
-| | ▼天才麻将少女 | |
+| | ▼ 天才麻将少女 | |
 | saki miyanaga | 宫永咲 | |
 | nodoka haramura | 原村和 | |
 | yuuki kataoka | 片冈优希 | |
@@ -1362,7 +1365,7 @@
 |  | 池田城菜 | |
 |  | 高鸭绫乃 | |
 |  | 新子望 | |
-| | ▼兽娘动物园 | |
+| | ▼ 兽娘动物园 | |
 | kaban | 背包 | |
 | serval | 薮猫 | |
 | common raccoon | 浣熊 | |
@@ -1375,10 +1378,10 @@
 | alpaca suri | 苏利羊驼 | |
 | humboldt penguin | 汉波德企鹅 | |
 | emperor penguin | 帝企鹅 | |
-| | ▼缘之空 | |
+| | ▼ 缘之空 | |
 | sora kasugano | 春日野穹 | |
 | haruka kasugano | 春日野悠 | |
-| | ▼龙珠系列 | |
+| | ▼ 龙珠系列 | |
 | yamcha | 雅木茶 | |
 | bulma | 布尔玛 | |
 | chi chi | 琪琪 | |
@@ -1393,7 +1396,7 @@
 | goku black | 黑悟空 | |
 | broly | 布罗利 | |
 | erasa | 伊蕾莎 | |
-| | ▼未分类 | |
+| | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
 | mai shiranui | 不知火舞 | |
