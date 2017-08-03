@@ -675,6 +675,11 @@
 | sagittarius | サジタリアス | |
 | rolling star | ローリングスター | |
 | milk pudding | MILK PUDDING | |
+| circle are | サークルARE | |
+| kazan no you | 火山の楊 | |
+| hard chrome | ハードクローム | |
+| pochi-goya. | ぽち小屋。 | |
+| hikawadou | 火川堂 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 |

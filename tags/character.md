@@ -652,6 +652,8 @@
 | rainbow dash | 云宝黛茜 |  |
 | rarity | 瑞瑞 |  |
 | twilight sparkle | 暮光闪闪 | |
+| sunset shimmer | 余晖烁烁 | |
+| trixie | 崔克西 | |
 | | ▲My Little Pony 角色 | |
 | | ▼为美好的世界献上祝福 角色 |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/t/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |

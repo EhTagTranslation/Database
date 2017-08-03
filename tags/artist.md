@@ -1082,4 +1082,24 @@
 | marugari santarou |  | |
 | poncocchan | ぽんこっちゃん | |
 | tetsuna | テツナ | |
-
+| kazan no you | 火山の楊 | |
+| mtu | MtU | |
+| alp | あるぷ | |
+| chiba toshirou | チバトシロウ | |
+| choco pahe | チョコぱへ | |
+| hal | HAL | |
+| harukichi | はるきち | |
+| ichinomiya yuu | 一宫夕羽 | |
+| inago | INAGO | |
+| maki daikichi | 牧だいきち | |
+| raita | 来太 | |
+| sasachinn | ささちん | |
+| soushamoku | 桑柘木 | |
+| suzuki akoni | 鈴月あこに | |
+| tachibana yuu | 橘由宇 | |
+| takeda aranobu | 武田あらのぶ | |
+| jinnai | ジンナイ | |
+| dhibi | ディビ | |
+| fuuga | 枫牙 | |
+| yoshimura tatsumaki | 吉村龙卷 | |
+| hinokawa jun | 火の川純 | |
