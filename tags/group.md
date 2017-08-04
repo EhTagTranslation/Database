@@ -681,6 +681,16 @@
 | pochi-goya. | ぽち小屋。 | |
 | hikawadou | 火川堂 | |
 | mof-mof | mof-mof | WOMI 所在社团 [mof-mof](http://mof-mof.sakura.ne.jp/top.html) |
+| aneko no techo | あねこの手帖 | |
+| circle heron | サークルヘロン | |
+| youkai tamanokoshi | ようかい玉の輿 | |
+| waffle sand | わっふるさんど | |
+| monotrust | モノトラスト | |
+| fuwamoko honpo | ふわもこ本舗 | |
+| i-raf-you | I-Raf-you | |
+| urahyakkiyakou | 里百鬼夜行 | |
+| boundary of dream | 夢の境界 | |
+| innocent chapel | INNOCENT CHAPEL | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 |
