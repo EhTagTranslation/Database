@@ -701,6 +701,7 @@
 | paper hearts | PAPER HEARTS | |
 | gekikara koushinryou | 激辛香辛料 | |
 | pha-la-dogs | ぱらどっくす。 | |
+| yojouhan shobou | 四叠半书房 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) |

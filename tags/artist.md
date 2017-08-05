@@ -1149,3 +1149,21 @@
 | mifune seijirou | 三船诚二郎 | |
 | natsu no oyatsu | 夏のおやつ | |
 | homura subaru | 焔すばる | |
+| dakouin saburou | 蛇光院三郎 | |
+| gura nyuutou | ぐら乳頭 | |
+| inomaru | いのまる | |
+| iori yuzuru | 庵让 | |
+| itaba hiroshi | 板場広し | |
+| james hotate | ジェームスほたて | |
+| jamming | じゃみんぐ | |
+| mitsuki rintarou | 水月林太郎 | |
+| n.o. chachamaru | N.O-茶々丸 | |
+| naga | な～が | |
+| nakamura nishiki | 中村锦 | |
+| noq | NOQ（下月重吾） | |
+| otonashi kyousuke | 音无响介 | |
+| saki urara | さきうらら | |
+| shinogi a-suke | しのぎ鋭介 | |
+| tonami satoshi | となみさとし | |
+| yajima index | 矢岛Index | |
+| yoshitaka amano | 天野喜孝 | 天野喜孝（1952年3月26日－），原名为天野嘉孝，日本静冈市出身的画家、人物设计师及插图画家，擅长舞台美术及服装设计。其作品散见各种艺术创作活动中，计有动画人物设计、电玩游戏视觉概念设计、书籍的封面设计与内页插画，舞蹈、戏剧、电影的场景设计、背景美术设计、服装设计等。 |
