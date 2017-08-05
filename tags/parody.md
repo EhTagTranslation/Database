@@ -983,3 +983,4 @@
 | kuon no kizuna | 久远之绊 | |
 | viper gts | 蝰蛇GTS | |
 | dragon age | 龙腾世纪 | |
+| nyan koi | 猫愿三角恋 | |

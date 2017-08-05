@@ -1124,3 +1124,28 @@
 | yamatogawa | 大和川 | |
 | obiwan | obiwan | PixivID: 258003 |
 | xin | xin | PixivID: 3216075 |
+| aratamaru | 改多丸 | |
+| 7zu7 | 7zu7 | PixivID: 2405344 |
+| atage | あたげ | |
+| ebina ebi | 海老名えび | |
+| kisen | 奇仙 | |
+| kyockcho | きょくちょ | |
+| maumen | まうめん | |
+| nukunuku | ぬくぬく | |
+| sumiyoshi | すみよし | |
+| umeko | うめ子 | |
+| yamada yuuya | ヤマダユウヤ | |
+| yumoteliuce | ユモテリウス | |
+| ichihaya | いちはや | |
+| oboro | 胧 | |
+| takayanagi katsuya | 高柳カツヤ | |
+| hori hiroaki | 堀博昭 | |
+| yuugiri | 夕雾 | |
+| eba | EBA | |
+| kutibue | くちぶえ | |
+| aoi shou | 葵抄 | |
+| myougi kulaganosuke | 妙義倉賀ノ助 | |
+| karatakewari | からたけわり | |
+| mifune seijirou | 三船诚二郎 | |
+| natsu no oyatsu | 夏のおやつ | |
+| homura subaru | 焔すばる | |
