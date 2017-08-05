@@ -390,7 +390,7 @@
 | arikawa satoru | 有河サトル |  |
 | yui toshiki | 唯登诗树 |  |
 | kitahara tomoe | 北原朋萌。 |  |
-| kizaki yuuri | 树崎佑里 |  |
+| kizaki yuuri | 树崎祐里 |  |
 | shio kazunoko | 塩かずのこ |  |
 | muska | むすか |  |
 | amaduyu tatsuki | 甘露树 | |
@@ -1113,3 +1113,14 @@
 | utakata | 泡沫 | |
 | yakou | 夜光 | |
 | lambda | Lambda | |
+| pon takahanada | ポン貴花田 | |
+| kazakura | 夏樱 | |
+| rikka kai | リッカー改 | |
+| matsuryu | 松龙 | |
+| suzutsuki kurara | 涼月くらら | |
+| naruhodo | なるほど | |
+| hb | HB | |
+| shiramayumi | 白真弓 | |
+| yamatogawa | 大和川 | |
+| obiwan | obiwan | PixivID: 258003 |
+| xin | xin | PixivID: 3216075 |
