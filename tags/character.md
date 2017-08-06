@@ -913,7 +913,7 @@
 | momoka sono | 苑生百花 | ![苑生百花](http://exhentai.org/t/b2/48/b248457cc38e6aceb56d4cc9b73946e6ef61ab3b-132981-1050-1547-jpg_l.jpg) |
 | yae kugayama | 久我山八重 | ![久我山八重](https://img.moegirl.org/common/b/be/Charatati_02.png) |
 | | ▼ 黄金拼图 角色 | |
-| alice cartalet | 爱丽丝·卡塔雷特 | |
+| alice cartelet | 爱丽丝·卡塔雷特 | |
 | aya komichi | 小路绫 | |
 | karen kujou | 九条可怜 | |
 | shinobu omiya | 大宫忍 | |
