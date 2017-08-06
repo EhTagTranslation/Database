@@ -1175,3 +1175,20 @@
 | yukijirushi | 逝印 | |
 | riichu | りいちゅ | |
 | momo no suidousui | モモの水道水 | |
+| kamitsurugi ouka | 神剑樱花 | |
+| kantaka | かんたか | |
+| katagiri hinata | 片桐雏太 | |
+| kinosaki reisui | 城崎冷水 | |
+| kuwada yuuki | くわだゆうき | |
+| mayusaki yuu | 茧咲悠 | |
+| natsuhiko | 夏彦 | |
+| reita | rei太 | |
+| saeki hokuto | さえき北都 | |
+| shinozuka atsuto | しのづかあつと | |
+| yatsuha kanan | 八叶香南 | |
+| hashibiro kou | 橋広こう | |
+| koutarou | こうたろう | |
+| piririnegi | ぴりりねぎ | |
+| spiritus tarou | スピリタス太郎 | |
+| tel | 朝峰テル | |
+| tomomimi shimon | ともみみしもん | |
