@@ -610,7 +610,7 @@
 | ooshima ryou | 大嶋亮 | |
 | aeba fuchi | 飨庭渊 | |
 | hakka yuki | 薄荷ゆき | |
-| delaware | でらうえあ | |
+| derauea | でらうえあ | |
 | rurukichi | るるキチ | |
 | unasaka | うなさか | |
 | anmi | Anmi | |
@@ -1167,3 +1167,7 @@
 | tonami satoshi | となみさとし | |
 | yajima index | 矢岛Index | |
 | yoshitaka amano | 天野喜孝 | 天野喜孝（1952年3月26日－），原名为天野嘉孝，日本静冈市出身的画家、人物设计师及插图画家，擅长舞台美术及服装设计。其作品散见各种艺术创作活动中，计有动画人物设计、电玩游戏视觉概念设计、书籍的封面设计与内页插画，舞蹈、戏剧、电影的场景设计、背景美术设计、服装设计等。 |
+| aoba hachi | 青葉はち | |
+| minami | みなみ | |
+| ouji hiyoko | 桜路ひよこ（ひなづか凉） | |
+| yoshiro | 夜士郎 | |
