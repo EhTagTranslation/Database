@@ -1171,3 +1171,7 @@
 | minami | みなみ | |
 | ouji hiyoko | 桜路ひよこ（ひなづか凉） | |
 | yoshiro | 夜士郎 | |
+| urushihara satoshi | 漆原智志 | 漆原智志（本名，日语：うるし原 智志，1966年2月9日－）是广岛县出身的男性动画师、人物设计师、漫画家。隶属Office Earthwork。 |
+| yukijirushi | 逝印 | |
+| riichu | りいちゅ | |
+| momo no suidousui | モモの水道水 | |

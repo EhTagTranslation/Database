@@ -912,6 +912,14 @@
 | chitose karasuma | 乌丸千岁 | ![乌丸千岁](http://exhentai.org/t/36/c8/36c82f316ec5b8ecaa7b6def15b0c265247a936f-5271025-2125-3032-jpg_l.jpg) |
 | momoka sono | 苑生百花 | ![苑生百花](http://exhentai.org/t/b2/48/b248457cc38e6aceb56d4cc9b73946e6ef61ab3b-132981-1050-1547-jpg_l.jpg) |
 | yae kugayama | 久我山八重 | ![久我山八重](https://img.moegirl.org/common/b/be/Charatati_02.png) |
+| | ▼ 黄金拼图 角色 | |
+| alice cartalet | 爱丽丝·卡塔雷特 | |
+| aya komichi | 小路绫 | |
+| karen kujou | 九条可怜 | |
+| shinobu omiya | 大宫忍 | |
+| youko inokuma | 猪熊阳子 | |
+| sakura karasuma | 乌丸樱 | |
+| akari kuzehashi | 久世桥朱里 | |
 | | ▼ 珈百璃的堕落 角色 | |
 | gabriel tenma white | 天真·珈百璃·怀特 | ![](http://ehgt.org/t/c3/d4/c3d41bf0f3b62cbaffdf2371e7ed6c40e03ba4e7-1832579-1280-720-png_l.jpg) |
 | vignette tsukinose april | 月乃濑·薇奈特·艾普利尔 | ![](http://ehgt.org/t/01/0e/010ea606a24811b55416c16e7efafc77e2cd8a0f-510727-961-1243-jpg_l.jpg) |

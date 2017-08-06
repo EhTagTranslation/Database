@@ -702,8 +702,20 @@
 | gekikara koushinryou | 激辛香辛料 | |
 | pha-la-dogs | ぱらどっくす。 | |
 | yojouhan shobou | 四叠半书房 | |
+| maron maron | まろん☆まろん | |
+| yukijirushi nyuugyou | 逝印乳业 | |
+| suimitsutou koubou | 水密桃工房 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
+| escude | エスクード | |
+| campus | Campus | |
+| interheart | INTERHEART | http://www.interheart.co.jp/ |
+| darknesspot | DarknessPot | INTERHEART 旗下品牌 |
+| nihon bussan | 日本物产 | |
+| sphinx | SPHINX | 日本物产旗下 |
+| bishop | BISHOP | |
+| tanuki soft | たぬきそふと | |
+| baseson | BaseSon | |
 | miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) |
 | squeez | SQUEEZ | |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 |
