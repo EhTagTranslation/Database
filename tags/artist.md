@@ -1192,3 +1192,20 @@
 | spiritus tarou | スピリタス太郎 | |
 | tel | 朝峰テル | |
 | tomomimi shimon | ともみみしもん | |
+| mitsumomo mam | 蜜桃まむ | |
+| lolisin | ろりしn | |
+| miyako hito | ミヤコヒト | |
+| sola bozu | 空坊主 | |
+| mimonel | ミモネル | |
+| kloah | Kloah | |
+| chirumakuro | ちるまくろ | |
+| fumihiko | ふみひこ | |
+| gustav | ぐすたふ | |
+| matsuna hitoshi | 松名一 | |
+| uekan | うえかん | |
+| koga ryouichi | 古贺亮一 | |
+| sakai nayuta | 坂井なゆ太 | |
+| fan no hitori | 煌野一人 | |
+| yuuzu tsushiro | ゆうづつしろ | |
+| sendou hachi | 仙道八 | |
+| saeki | 佐伯 | |

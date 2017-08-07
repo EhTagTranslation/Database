@@ -989,3 +989,4 @@
 | growlanser | 梦幻骑士 | |
 | kono bijutsubu ni wa mondai ga aru | 这个美术社大有问题！ | 《这个美术社大有问题！》（日语：この美術部には問題がある！）是由いみぎむる创作的一部漫画，并有动画等衍生作品。 |
 | seikon no qwaser | 圣痕炼金士 | 圣痕炼金士（日语：聖痕のクェイサー）是吉野弘幸原作、佐藤健悦作画的校园格斗漫画，在《Champion RED》连载中并改编成动画；台湾方面则由长鸿出版社出版繁体中文版漫画，DVD则由木棉花国际发行。 |
+| high school kimengumi | 高校奇面组 |  |
