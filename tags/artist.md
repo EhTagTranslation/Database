@@ -1223,3 +1223,16 @@
 | torimushi | 鸟莉蒸师 | |
 | ai ha muteki | 愛は無敵 | |
 | kazetani yasunari | 风谷安成 | |
+| amatarou | 天太郎 | |
+| aoi hitori | 葵ヒトリ | |
+| aoten | 青点 | |
+| clone ningen | clone人間 | |
+| dowman sayman | 道满晴明 | |
+| kagura moromi | 神楽もろみ | |
+| mikaze takashi | 水风天 | |
+| kurogane kenn | 玄铁绚 | |
+| momo youkan | ももようかん | |
+| musashimaru | ムサシマル | |
+| nixinamo lens | にびなも凸面体 | |
+| osomatsu | おそまつ | |
+| sanagi torajirou | 蛹虎次郎 | |
