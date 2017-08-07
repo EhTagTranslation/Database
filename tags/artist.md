@@ -1253,7 +1253,7 @@
 | psycho | さいこ | |
 | rico | Rico | |
 | tomonaga kenji | 友永ケンジ | |
-| fukuyama naoto | 復八磨直兔 | |
+| fukuyama naoto | 复八磨直兔 | |
 | kurokawa otogi | 黒川おとぎ | |
 | satou takumi | 佐藤匠 | |
 | shino | シノ | |
