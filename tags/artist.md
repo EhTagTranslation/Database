@@ -1236,3 +1236,9 @@
 | nixinamo lens | にびなも凸面体 | |
 | osomatsu | おそまつ | |
 | sanagi torajirou | 蛹虎次郎 | |
+| eiichirou | 瑛一朗 | |
+| izawa shinichi | 伊泽慎壹 | |
+| kurumiya mashimin | 胡桃屋ましみん | |
+| miura takehiro | みうらたけひろ | |
+| sena youtarou | 濑奈阳太郎 | |
+| yumesaki sanjuro | 夢咲三十郎 | |
