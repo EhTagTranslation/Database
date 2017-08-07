@@ -1259,3 +1259,14 @@
 | shino | シノ | |
 | shousan bouzu | しょうさん坊主 | |
 | yamabuki zarame | 山吹ざらめ | |
+| magatama | マガタマ | |
+| mako kujira | まこくじら | |
+| uesugi kyoushirou | 上杉响士郎 | |
+| kai hiroyuki | 甲斐ひろゆき | |
+| kihiru | きひる | |
+| kogaku kazuya | 虎顎かずや | |
+| kokonoki nao | ここのき奈緒 | |
+| naz | NAZ | |
+| neriwasabi | ねりわさび | |
+| yonyon | よんよん | |
+| yugami goosyu | 由上ゴーシュ | |
