@@ -1209,3 +1209,17 @@
 | yuuzu tsushiro | ゆうづつしろ | |
 | sendou hachi | 仙道八 | |
 | saeki | 佐伯 | |
+| cool kyou shinja | クール教信者 | |
+| hirasaka fuyu | 比良坂冬 | |
+| joy | じょい | |
+| kasuga souichi | カスガソウイチ | |
+| kemonono | けものの★ | |
+| mameko | まめこ | |
+| miyoshi | みよし | |
+| neriume | ねりうめ | |
+| odd | Odd | |
+| otone | 音音 | |
+| saku jirou | 咲次朗 | |
+| torimushi | 鸟莉蒸师 | |
+| ai ha muteki | 愛は無敵 | |
+| kazetani yasunari | 风谷安成 | |

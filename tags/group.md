@@ -711,6 +711,8 @@
 | air pocket | Air Pocket | |
 | teitetsu kishidan | 蹄铁骑士团 | |
 | yowamidori | よわみどり | |
+| koi tenshi doumei | 恋☆天使同盟 | |
+| ayamaji nuji | 誤じ脱ぢ | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | escude | エスクード | |
