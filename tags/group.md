@@ -713,6 +713,14 @@
 | yowamidori | よわみどり | |
 | koi tenshi doumei | 恋☆天使同盟 | |
 | ayamaji nuji | 誤じ脱ぢ | |
+| p.d chump | P.D Chump | |
+| naya | 纳屋 | |
+| depression | でぱれーしょん | |
+| yanasegawabeya | 柳瀬川部屋 | |
+| ponkotsu works | ぽんこつわーくす | |
+| amezaiku | 雨细工 | |
+| niboshi | 煮干 | |
+| nibo niboshi | にぼ煮干 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | escude | エスクード | |
