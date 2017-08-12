@@ -746,6 +746,7 @@
 | symmetra | 秩序之光 | ![](https://ehgt.org/bb/f2/bbf294ed0b338a6904b0dc30bbb569ad746de138-8759364-3267-2476-jpg_l.jpg) |
 | winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) |
 | sombra | 黑影 | |
+| ana | 安娜 | |
 | |  ▼ 光环 角色 | |
 | cortana | 科塔娜 | ![](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) |
 | |  ▼ 半衰期 角色 | |

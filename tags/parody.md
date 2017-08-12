@@ -991,3 +991,14 @@
 | seikon no qwaser | 圣痕炼金士 | 圣痕炼金士（日语：聖痕のクェイサー）是吉野弘幸原作、佐藤健悦作画的校园格斗漫画，在《Champion RED》连载中并改编成动画；台湾方面则由长鸿出版社出版繁体中文版漫画，DVD则由木棉花国际发行。 |
 | high school kimengumi | 高校奇面组 |  |
 | onmyou taisenki | 阴阳大战记 | |
+| ao no kanata no four rhythm | 苍之彼方的四重奏 | |
+| captain commando | 名将 | 《上尉密令》（日语：キャプテンコマンドー，英语：Captain Commando，又译作“名将”），是日本游戏公司卡普空于1991年制作和发行的横向卷轴类清版动作游戏。游戏最初在街机发行，后移植至多个平台。 |
+| voltage fighter gowcaizer | 超人学园钢帝王 | |
+| legend of lemnear | 极黑之翼 | |
+| duel masters | 决斗大师 | |
+| battle spirits | 战斗之魂 | |
+| galaxy express 999 | 银河铁道999 | |
+| gaiking | 新大空魔龙 | 《新大空魔龙》，是从2005年11月12日到2006年9月24日在朝日电视播放的机器人动画。由东映动画制作。从2006年4月开始在BS朝日等播放。 |
+| girls frontline | 少女前线 | |
+| zettai karen children | 绝对可怜CHILDREN | |
+| selector infected wixoss | 选择感染者WIXOSS | |
