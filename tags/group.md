@@ -732,6 +732,21 @@
 | tamanokoshi | たまのこし | |
 | minamihamaya | 南浜屋 | |
 | lolipop complete | ロリポップ コンプリート | |
+| studio wallaby | スタジオ・ワラビー | |
+| castlism | Castlism | |
+| mtsp | MTSP | |
+| bijutsubu | 美术部 | |
+| yowatari kouba | よわたり工場 | |
+| staccato squirrel | Staccato・Squirrel | |
+| sakuradou | 樱堂 | |
+| candy club | Candy Club | |
+| apple amza | APPLE Amza | |
+| rorinoutage | ロリの宴 | |
+| comex | COMEX | |
+| marimo-ya | まりも屋 | |
+| moonglow | MoonGlow | |
+| aikanheiwa. | 愛館平和。 | |
+| yokoshimaya | 邪屋。 | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 |
