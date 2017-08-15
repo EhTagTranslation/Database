@@ -1034,7 +1034,7 @@
 | fuyu mikan | 冬みかん | |
 | hatch | ハッチ | |
 | inoue yoshihisa | 井上よしひさ | |
-| ken | KEN | |
+| ken | KEN \| けん |　INSERT<br>F/T |
 | kimura neito | 木村宁都 | |
 | kir-rin | きりりん | |
 | ootori ryuuji | おおとりりゅうじ | |
@@ -1092,7 +1092,7 @@
 | ichinomiya yuu | 一宫夕羽 | |
 | inago | INAGO | |
 | maki daikichi | 牧だいきち | |
-| raita | 来太 | |
+| raita | RAITA \| 来太 | |
 | sasachinn | ささちん | |
 | soushamoku | 桑柘木 | |
 | suzuki akoni | 鈴月あこに | |
@@ -1316,5 +1316,21 @@
 | devilhs | Devil_HS | |
 | aina nana | 愛菜奈々 | |
 | yokoshima takemaru | 邪武丸 | |
-
-
+| furokuma | ふろくま | |
+| hawa | はわ | |
+| tomose shunsaku | トモセシュンサク | |
+| reiha | 零覇 | |
+| chimaq | チマQ | |
+| magaki ryouta | 間垣りょうた | |
+| yukino minato | 雪野みなと | |
+| maruchang | 丸ちゃん。 | |
+| a1 | A1 | |
+| sukiyo | スキヨ | |
+| aiue oka | 爱上陆 | |
+| rustle | らする | |
+| calipur | ｶﾘﾊﾟ− | |
+| dokurosan | どくろさん | |
+| rebis | Rebis | |
+| taihei tengoku | 太平天极 | |
+| hitomaru | 人丸 | |
+| kurozu | くろず | |

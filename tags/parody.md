@@ -199,6 +199,7 @@
 | dragon quest viii | 勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主 | |
 | dragon quest ix | 勇者斗恶龙IX 星空的守护者 | |
 | dragon quest x | 勇者斗恶龙X 觉醒的五种族 Online | |
+| dragon quest xi | 勇者斗恶龙XI 追寻逝去的时光 | |
 | dragon quest dai no daibouken | 勇者斗恶龙 达尔大冒险 | |
 | dragon quest monsters | 勇者斗恶龙怪兽篇 | |
 | dragon quest yuusha abel densetsu | 勇者斗恶龙 勇者阿贝尔传说 | |
@@ -1006,3 +1007,6 @@
 | the vision of escaflowne | 圣天空战记 | 《圣天空战记》（日语：天空のエスカフローネ）是1996年4月2日至1996年9月24日于东京电视台播放、日昇动画原创制作的电视动画，全26话。 |
 | kodomo no omocha | 玩偶游戏 | 《玩偶游戏》（日语：こどものおもちゃ）是小花美穗创作的少女漫画。另外也有同名的电视动画。最初在漫画杂志Ribon上连载，后来发行了10期的单行本。 |
 | quiz nanairo dreams | 七彩梦 | |
+| rival schools | 私立正义学园 | ‘私立正义学园’是Capcom所发售的格斗游戏的名字。1997年第一作‘私立正义学园 LEGION OF HEROES’在街机上正式登场，之后也移植到家用主机上。 |
+| medabots | 徽章战士 | 《徽章战士》是Imagineer推出的游戏，1997年由Imagineer和Natsume共同发布，并有漫画、动画和模型等衍生作品。漫画由掘摩麟绘画。 |
+| zettai junpaku mahou shoujo | 绝对纯白魔法少女 | 这部作品是由为「战场女武神」系列人设而闻名的同人画家RAITA绘制的漫画连载，内容上有类似「魔法少女小圆」的设定，情节上同样是以魔法少女为主题的系列作品。 |
