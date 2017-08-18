@@ -246,6 +246,7 @@
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |
 | | ==== 下半身 > 裆部 > 阴茎 ==== | |
+| adventitious penis | 畸位阴茎 | 在身体的意想不到的地方至少有一个阴茎（例如手、嘴或尾巴）。触手(tentacles)和阴茎乳头(dicknipples)不算。 |
 | balls expansion | 睾丸生长 | 睾丸的尺寸增大，可能成为大睾丸(big balls)。 |
 | ball sucking | 吸球 | 用嘴在睾丸上吸吮为乐。<br>![图](http://exhentai.org/t/4c/07/4c072eb0bb5ad98418cc70fa0bd99908c31a3ddb-1561179-1600-2294-png_l.jpg) |
 | balljob | 球交 | 通过类似乳交(paizuri)的方式使用睾丸。 |
