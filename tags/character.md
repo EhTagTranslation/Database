@@ -114,15 +114,15 @@
 | sagume kishin | 稀神探女 | |
 | | ▲东方Project 人物 | |
 | | ▼ Love Live 人物 | |
-| honoka kousaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
+| honoka kosaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
 | yukiho kousaka | 高坂雪穗 |  |
-| eri ayase | 绚濑绘里 | 所属团体 μ's ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") |
+| eli ayase | 绚濑绘里 | 所属团体 μ's ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") |
 | arisa ayase | 绚濑亚里沙 |  |
 | kotori minami | 南小鸟 | 所属团体 μ's ![南小鸟](# "https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png") |
 | umi sonoda | 园田海未 | 所属团体 μ's ![园田海未](# "https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png") |
 | rin hoshizora | 星空凛 | 所属团体 μ's ![星空凛](# "https://img.acg.moe/common/thumb/e/ee/Member05_rin_.png/250px-Member05_rin_.png") |
 | maki nishikino | 西木野真姬 | 所属团体 μ's ![西木野真姬](# "https://img.acg.moe/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png") |
-| nozomi toujou | 东条希 | 所属团体 μ's ![东条希](# "https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png") |
+| nozomi tojo | 东条希 | 所属团体 μ's ![东条希](# "https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png") |
 | hanayo koizumi | 小泉花阳 | 所属团体 μ's ![小泉花阳](# "https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png") |
 | nico yazawa | 矢泽妮可 | 所属团体 μ's ![矢泽妮可](# "https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png") |
 | tsubasa kira | 绮罗翼 | 所属团体 A-RISE ![绮罗翼](https://img.acg.moe/common/thumb/e/e0/Lovelive_Tsubasa.jpg/250px-Lovelive_Tsubasa.jpg)![图](# "http://exhentai.org/t/67/bc/67bc6b8776a85c87fabd94344c8f5b4ef36bbea1-511619-900-1200-jpg_l.jpg") |

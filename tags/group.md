@@ -769,6 +769,29 @@
 | circle roman hikou | サークル浪漫飛行 | |
 | asstaro-san | アスタローサン | |
 | kurowasabi | くろわさび | |
+| kabayakiya | 蒲烧屋 | |
+| datenshi no ana | 墮天使の坑 | |
+| mix fry | みっくすふらい | |
+| kokonokaya | 九日屋 | |
+| orangemaru | OrangeMaru | |
+| ishikawa pro | 石川プロ | |
+| neyukidou | 根雪堂 | |
+| o.n art works | O.N Art Works | |
+| an-arc | アンアーク | |
+| anmichu dou | あんみちゅ堂 | |
+| melodeathweep | めろですうぃーぷ | |
+| absolute | Absolute | |
+| mizone doubutsuen | みぞね動物園 | |
+| studio honeyblade | STUDIO HONEYBLADE | |
+| furukadou | 古ヶ堂 | |
+| dam koubou | だむ工房 | |
+| heart of green | はーとおぶぐりーん | |
+| dogyear | DOGYEAR | |
+| kagiyama baking co ltd | 鍵山製パン株式会社 | |
+| shittoden | 嫉妬殿 | |
+| sea-s | SEA-S | |
+| stray hermit | ストレイハーミット | |
+| fox grave | FOX GRAVE | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | mana | mana | http://mana.product.co.jp |

@@ -1334,3 +1334,28 @@
 | taihei tengoku | 太平天极 | |
 | hitomaru | 人丸 | |
 | kurozu | くろず | |
+| unagimaru | 鳗丸 | |
+| decarabia | デカラビア | |
+| takurou | たくろう | |
+| tsukimoto kizuki | 月本筑希 | |
+| taigiakira | タイギアキラ | |
+| yd | YD | |
+| ishikawa naoya | 石川直哉 | |
+| wb | WB | |
+| takaku nozomu | 高玖のぞむ | |
+| oni-noboru | Oni-noboru | |
+| hamo | はも | |
+| satsumaage | さつま揚げ | |
+| abu | アブ \| ABU | めろですうぃーぷ<br>Absolute |
+| sinntarou | 心太朗 | |
+| suzuki hajime | 透月ハジメ | |
+| kotoba ai | コトバアイ | |
+| strong bana | Strong Bana | |
+| kuroadam | 黒葉だむ | |
+| midoriiro no shinzou | 緑色の心臓 | |
+| kujou danbo | 九条だんぼ | |
+| kagiyama pandora | 鍵山ぱんどら | |
+| shitto mask | 嫉妬マスク | |
+| umitsubame | うみつばめ | |
+| nanappe | 七っぺ | |
+| akeyama kitsune | 绯山狐 | |
