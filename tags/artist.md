@@ -1371,3 +1371,42 @@
 | hoshizaki hikaru | 星崎ひかる | |
 | shinoda sanjuurou | 篠田参重郎 | |
 | mimi mimizu | 実々みみず | |
+| takemura sesshu | 竹村雪秀 | |
+| ishigami hajime | 石神一 | |
+| kawamori misaki | かわもりみさき | |
+| nagashima chosuke | ながしま超助 | |
+| ozaki akira | 尾崎晶 | |
+| shiomaneki | シオマネキ | |
+| takebayashi takeshi | 武林武士 | |
+| umemaru | うめ丸 | |
+| eo masaka | EOまさか | |
+| hanabi | HANABi | |
+| kakizaki kousei | 垣崎コウセイ | |
+| miyamoto issa | 宫元一佐 | |
+| murasaki nyaa | 紫☆にゃ～ | |
+| okyuuri | おきゅうり | |
+| parabola | ぱらボら | |
+| sugar milk | シュガーミルク | |
+| tachibana aruto | 橘アルト | |
+| yamahata rian | 山畑璃杏 | |
+| muoto | むおと | |
+| emyo | えみょ | |
+| nazuna | ナズナ | |
+| mitsui jun | 三井纯 | |
+| tsurugi hagane | 蔓木钢音 | |
+| worin | Worin | |
+| haeilian | Haeilian | |
+| mayui yukisaki | Mayui Yukisaki | |
+| asan | あさん | |
+| akahige | 赤髭 | |
+| nangou jingeru | 南郷じんげる | |
+| mitsurugi aoi | 能都くるみ（みつるぎあおい） | PixivID: 441987 |
+| kuuchuu yousai | 空中幼彩 | |
+| kotomi yo-ji | ことみようじ | |
+| hirowa nagi | 广轮凪 | |
+| kanehira morihito | 金平守人 | |
+| kii takashi | キイタカシ | |
+| kouzuki rio | 香月りお | |
+| matsusaka takeshi | 松阪刚志 | |
+| nagai michinori | 永井道纪 | |
+| nagisa minami | 渚ミナミ | |

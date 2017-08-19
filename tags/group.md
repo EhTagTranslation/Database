@@ -792,6 +792,15 @@
 | sea-s | SEA-S | |
 | stray hermit | ストレイハーミット | |
 | fox grave | FOX GRAVE | |
+| muoto lab | むおとラボ | |
+| momoiro kageboushi | 桜色影法師 | |
+| sennen teikoku | 千年帝国 | |
+| tataraba | たたらば | |
+| koniro club | 紺色くらぶ | |
+| west one | WEST ONE | |
+| kotsu | KOTSU | |
+| suzume nest | すずめねすと | |
+| slash | SLASH | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | mana | mana | http://mana.product.co.jp |
