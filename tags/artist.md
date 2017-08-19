@@ -1358,16 +1358,16 @@
 | umitsubame | うみつばめ | |
 | nanappe | 七っぺ | |
 | akeyama kitsune | 绯山狐 | |
-| sakura | 櫻 | 多个作者：櫻\|sakura\|さくら<br>sakura：<br>![萌](# "http://ehgt.org/t/4e/9f/4e9fbfbb3627393542f8d969b300b09cc1f6d95f-1737501-2851-2000-jpg_l.jpg")<br>さくら：<br>![瞎](# "http://ehgt.org/t/18/0f/180f8c6691fd132261b68376f3f511084bdbd0e9-897960-1100-1567-jpg_l.jpg") |
+| sakura | 樱 | 多个作者：櫻 \| sakura \| さくら<br>sakura：<br>![萌](# "http://ehgt.org/t/4e/9f/4e9fbfbb3627393542f8d969b300b09cc1f6d95f-1737501-2851-2000-jpg_l.jpg")<br>さくら：<br>![瞎](# "http://ehgt.org/t/18/0f/180f8c6691fd132261b68376f3f511084bdbd0e9-897960-1100-1567-jpg_l.jpg") |
 | yakiniku king | 焼肉キング | |
 | nekoi hikaru | 猫伊光 | |
-| inanaki shiki | 稲鳴四季 | |
+| inanaki shiki | 稻鸣四季 | |
 | tohgarashi hideyu | 唐辛子ひでゆ | |
 | shinjinkun | 新人君 | |
 | barlun | ばーるん | |
-| kiyomiya ryou | 清宮涼 | |
+| kiyomiya ryou | 清宫凉 | |
 | higata | HIGATA | |
-| outou chieri | 桜桃千絵里 | |
+| outou chieri | 樱桃千绘里 | |
 | hoshizaki hikaru | 星崎ひかる | |
 | shinoda sanjuurou | 篠田参重郎 | |
 | mimi mimizu | 実々みみず | |
