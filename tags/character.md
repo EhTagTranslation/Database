@@ -19,99 +19,145 @@
 | pastel ink | 闪亮茵可 | ![闪亮茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f36134flq4j205k08674h.jpg) |
 | | ▲萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
 | | ▼ 东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)官方角色列表填写 |
-| flandre scarlet | 芙兰朵露·斯卡雷特 | ![我女儿](http://ww1.sinaimg.cn/bmiddle/6c84b2d6gw1e9hupw57iaj21201eotiq.jpg) |
-| alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg) |
+| | 东方Project >> 城管二人组 | |
 | reimu hakurei | 博丽灵梦 | ![十万巫女](https://img.acg.moe/common/thumb/8/87/ShinkirouReimu.jpg/447px-ShinkirouReimu.jpg) |
-| hakurei miko | 先代巫女 | |
-| marisa kirisame | 雾雨魔理沙 |  |
+| marisa kirisame | 雾雨魔理沙 | ![图](http://ehgt.org/t/66/35/66353181a979125924c875c2dd312296be811361-664544-1280-1802-jpg_l.jpg) |
+| | 东方Project >> 旧作 >> 东方灵异传 | |
+| mima | 魅魔 | |
+| | 东方Project >> 旧作 >> 东方封魔录 | |
+| | 东方Project >> 旧作 >> 东方梦时空 | |
+| yumemi okazaki | 冈崎梦美 | |
+| | 东方Project >> 旧作 >> 东方幻想乡 | |
+| | 东方Project >> 旧作 >> 东方怪绮谈 | |
+| yumeko | 梦子 | |
+| shinki | 神绮 | 太太我喜欢你啊<br>![图](http://ehgt.org/t/61/ab/61abf715f0d4ba0826c981db6c2adb86e0e0f860-1292470-1413-2000-jpg_l.jpg) |
+| | 东方Project >> 东方红魔乡 | |
 | rumia | 露米娅 | |
-| cirno | 琪露诺 | |
 | daiyousei | 大妖精 | |
+| cirno | 琪露诺 | |
 | hong meiling | 红美铃 | |
 | patchouli knowledge | 帕秋莉·诺蕾姬 | |
 | koakuma | 小恶魔 | |
-| sakuya izayoi | 十六夜咲夜 | |
+| sakuya izayoi | 十六夜咲夜 | 十六夜xiào夜 |
 | remilia scarlet | 蕾米莉亚·斯卡雷特 | |
-| letty whiterock | 蕾迪·霍瓦特罗克 | |
+| flandre scarlet | 芙兰朵露·斯卡雷特 | ![我女儿](http://ww1.sinaimg.cn/bmiddle/6c84b2d6gw1e9hupw57iaj21201eotiq.jpg) |
+| | 东方Project >> 东方妖妖梦 | |
+| letty whiterock | 蕾迪·霍瓦特罗克 | 蕾蒂·白石 |
 | chen | 橙 | |
-| eirin yagokoro |  八意永琳 | |
-| kanako yasaka | 八坂神奈子 | |
-| reisen udongein inaba | 铃仙·优昙华院·因幡 | |
-| rin kaenbyou | 火焰猫燐 | |
-| satori komeiji | 古明地觉 | |
-| suwako moriya | 洩矢诹访子 | |
+| alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg)![图](http://ehgt.org/t/e0/40/e0406e3e1aca41e8ddf6c0d6ba91d2cd64148543-985030-1400-2000-jpg_l.jpg) |
+| | 东方Project >> 东方妖妖梦 >> 爱丽丝符卡 | |
+| shanghai | 上海人偶 | |
+| hourai | 蓬莱人偶 | |
+| lily white | 莉莉霍瓦特 | 莉莉白 |
+| lunasa prismriver | 露娜萨·普莉兹姆利巴 | |
+| merlin prismriver | 梅露兰·普莉兹姆利巴 | |
+| lyrica prismriver | 莉莉卡·普莉兹姆利巴 | |
 | youmu konpaku | 魂魄妖梦 | ![图](http://ul.ehgt.org/8f/e4/8fe43ecd1ccedcc6c7dd37e1bb41f9f028419ac1-571158-1305-900-jpg_l.jpg)![图](# "http://exhentai.org/t/03/9f/039fb22589a6b0e618dc49436aaa26915b8ac7a9-251050-724-1024-jpg_l.jpg")![图](http://exhentai.org/t/de/15/de15eff7cb1e795384985a4f9e48f1b86e5b25b6-378042-900-1200-jpg_l.jpg)![图](http://exhentai.org/t/d6/be/d6bef8986702c038acbe9fc07bc872bb21c4ab1e-757780-1000-1416-jpg_l.jpg)![图](http://exhentai.org/t/ab/d2/abd2a1ae81fabab2630cc9339b063cf5b29bfba1-2913452-2507-3541-jpg_l.jpg)![图](http://exhentai.org/t/34/d4/34d4a86e6231c7ad9d0c71cb0b7600fdff21de7c-983119-1088-1522-jpg_l.jpg)![图](http://exhentai.org/t/56/5f/565f234434da3a50f6213fa87b7f189df358461e-1403905-1074-1517-png_l.jpg)![图](http://exhentai.org/t/f0/a2/f0a2ddae6d5ad5eca128a1bccd53830056adb15a-564630-644-910-png_l.jpg)![图](http://exhentai.org/t/68/30/6830f0e3d42d3b81e79f1095f325577cbdbbdb96-2326496-1917-1864-png_l.jpg)![图](http://exhentai.org/t/7e/b9/7eb9e1da44aebaa4148ebeaf60950eda976af048-60639-420-600-jpg_l.jpg)![图](http://exhentai.org/t/79/c4/79c4e4eb5e0d225eded26a63d9ad2e192f120a04-346495-800-1000-jpg_l.jpg)![图](http://exhentai.org/t/3f/78/3f7851cebfeb51098e07c6c32ffae1977a44ab3a-321756-1333-1801-jpg_l.jpg)![图](http://exhentai.org/t/62/9a/629af9b7c9b47bcc13f8bc9593008ea24acf0ad0-186442-640-477-gif_l.jpg)![图](http://exhentai.org/t/ce/43/ce43eaaf502f1caff3e5877c0664de9c3890dd7c-224344-777-1086-jpg_l.jpg)![图](http://exhentai.org/t/b6/2d/b62d60f384bfb108e2112be05cfaf1bebc327ce4-226892-558-712-jpg_l.jpg)![图](http://exhentai.org/t/59/39/5939a7689b4870237028e293a6937e5427d84d3b-443866-768-1024-jpg_l.jpg)![图](http://exhentai.org/t/5d/43/5d43d3d4cca4a0d4f2354af402e4dee4f6402282-599837-805-1120-jpg_l.jpg)![图](http://ul.ehgt.org/91/cf/91cf6a4d3b545d0791b9dc3e52c1e31757feed2f-327415-848-1200-jpg_l.jpg)![图](http://exhentai.org/t/0f/a2/0fa2447d3c07cb017602e8dfed87ec339f4c0673-416125-900-1200-jpg_l.jpg)![图](http://exhentai.org/t/24/57/2457823576283857b19a75f9e14b024f2adf6cd1-420494-900-1200-jpg_l.jpg)![图](http://ul.ehgt.org/f2/10/f210a99eb86a0b106961cbd5dbc8fbddf1e6cb05-231628-425-600-jpg_l.jpg)![图](http://ul.ehgt.org/40/cf/40cfa8be17ea20d831aaaab17e5cc363d2125309-174291-700-700-jpg_l.jpg)![图](http://ul.ehgt.org/55/a9/55a9f0fa050341e46a584679f0397fdd9f0a9825-384821-849-1202-jpg_l.jpg)![图](http://ul.ehgt.org/1c/d2/1cd246e34612bffa88eef538f5e5ce08d7731b45-162482-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/9f/3e/9f3ef8af553392d0b746ff93d7e2857a18a95447-460477-1024-768-jpg_l.jpg)![图](http://ul.ehgt.org/8b/c2/8bc22cfe2e7cd68f9c4c33e8b9f610fd1a7b542c-129972-544-757-jpg_l.jpg)![图](http://ul.ehgt.org/5b/97/5b972fc848deb089b004a842e87a6927a49d8472-400923-1024-768-jpg_l.jpg)![图](http://ul.ehgt.org/05/d0/05d06515df1b967508b8831c5d70744914a3ce2f-53714-505-592-jpg_l.jpg)![图](http://ul.ehgt.org/29/f6/29f6e25d48ec785b2bd3a59f170e250135e450d6-77173-441-686-jpg_l.jpg)![图](http://ul.ehgt.org/1b/79/1b79c7c1bffc277c20eade16d51a381b0b070f70-122689-1024-768-jpg_l.jpg)![图](http://exhentai.org/t/1d/57/1d57344e7f5396e7d678a09f51c8e906840d6573-328621-800-600-jpg_l.jpg)![图](http://ul.ehgt.org/4a/ab/4aab783c31c0a899d6016c0899b0294c7c8fecd9-112652-540-669-jpg_l.jpg)![图](http://ul.ehgt.org/7f/01/7f01897a4ac9b9801b0852c661ba57ccc7fb457c-83622-507-602-jpg_l.jpg)![图](http://ul.ehgt.org/32/5c/325c54141a962e580c151227e1eca65cc9fec3fd-83231-578-746-jpg_l.jpg)![图](http://ul.ehgt.org/2e/38/2e381bc608b680cab7bc2fa28aba9f37ed747fc1-191225-600-431-jpg_l.jpg)![图](http://ul.ehgt.org/5f/d6/5fd66b868d11c8b6dbe90ffa6c4d7dcb337ca10c-61514-405-602-jpg_l.jpg) |
 | yuyuko saigyouji | 西行寺幽幽子 | |
-| nitori kawashiro | 河城荷取 | |
-| byakuren hijiri | 圣白莲 | |
-| aya shameimaru | 射命丸文 | |
-| tenshi hinanai | 比那名居天子 | |
+| ran yakumo | 八云蓝 | |
+| yukari yakumo | 八云紫 | |
+| | 东方Project >> 东方萃梦想 | |
+| suika ibuki | 伊吹萃香 | |
+| | 东方Project >> 东方永夜抄 | |
 | wriggle nightbug | 莉格露·奈特巴格 | |
+| mystia lorelei | 米斯蒂娅·萝蕾拉 | |
+| keine kamishirasawa | 上白泽慧音 | |
+| tewi inaba | 因幡帝 | |
+| reisen udongein inaba | 铃仙·优昙华院·因幡 | |
+| eirin yagokoro |  八意永琳 | |
+| kaguya houraisan | 蓬莱山辉夜 | |
+| fujiwara no mokou | 藤原妹红 | |
+| | 东方Project >> 东方花映塚 | |
+| aya shameimaru | 射命丸文 | |
+| medicine melancholy | 梅蒂欣·梅兰可莉 | |
 | yuuka kazami | 风见幽香 | |
-| nue houjuu | 封兽鵺 | |
 | komachi onozuka | 小野塚小町 | |
 | shikieiki yamaxanadu | 四季映姬·亚玛萨那度 | |
-| keine kamishirasawa | 上白泽慧音 | |
-| yukari yakumo | 八云紫 | |
-| ran yakumo | 八云蓝 | |
-| fujiwara no mokou | 藤原妹红 | |
-| kaguya houraisan | 蓬莱山辉夜 | |
-| mystia lorelei | 米斯蒂娅·萝蕾拉 | |
-| sanae kochiya | 东风谷早苗 | |
+| | 东方Project >> 东方风神录 | |
+| shizuha aki | 秋静叶 | |
+| minoriko aki | 秋穰子 | |
 | hina kagiyama | 键山雏 | |
-| shanghai | 上海(人形) | |
-| hourai | 蓬莱(人形) | |
-| medicine melancholy | 梅蒂欣·梅兰可莉 | |
-| shinki | 神绮 | |
-| yumemi okazaki | 冈崎梦美 | |
-| mima | 魅魔 | |
-| hata no kokoro | 秦心 | |
-| junko | 纯狐 | |
-| kyouko kasodani | 幽谷响子 | |
+| nitori kawashiro | 河城荷取 | |
+| momiji inubashiri | 犬走椛 |  |
+| sanae kochiya | 东风谷早苗 | |
+| kanako yasaka | 八坂神奈子 | |
+| suwako moriya | 洩矢诹访子 | 你要问我青蛙子是谁<br>![无可奉告](http://ww4.sinaimg.cn/bmiddle/6c84b2d6gw1f44da2ugtrj20rs0qgair.jpg) |
+| | 东方Project >> 东方绯想天 | |
+| iku nagae | 永江衣玖 | |
+| tenshi hinanai | 比那名居天子 | |
+| | 东方Project >> 东方地灵殿 | |
+| kisume | 琪斯美 | |
+| yamame kurodani | 黑谷山女 | |
+| parsee mizuhashi | 水桥帕露西 | |
+| yuugi hoshiguma | 星熊勇仪 | |
+| satori komeiji | 古明地觉 | |
+| rin kaenbyou | 火焰猫燐 | |
+| utsuho reiuji | 灵乌路空 | |
 | koishi komeiji | 古明地恋 | |
-| seija kijin | 鬼人正邪 | |
-| clownpiece | 克劳恩皮丝 | |
+| | 东方Project >> 东方星莲船 | |
+| nazrin | 纳兹琳 |  |
+| kogasa tatara | 多多良小伞 | |
+| ichirin kumoi | 云居一轮 | |
+| unzan | 云山 | |
+| minamitsu murasa | 村纱水蜜 | |
+| shou toramaru | 寅丸星 | |
+| byakuren hijiri | 圣白莲 | |
+| nue houjuu | 封兽鵺 | 封兽yè |
+| | 东方Project >> 东方非想天则 | |
+| | 东方Project >> 东方文花帖DS | |
+| hatate himekaidou | 姬海棠果 | |
+| | 东方Project >> 东方神灵庙 | |
+| kyouko kasodani | 幽谷响子 | |
+| yoshika miyako | 宫古芳香 | |
+| seiga kaku | 霍青娥 | |
+| soga no tojiko | 苏我屠自古 | |
+| mononobe no futo | 物部布都 | |
+| toyosatomimi no miko | 丰聪耳神子 | |
+| mamizou futatsuiwa | 二岩猯藏 | |
+| | 东方Project >> 东方心绮楼 | |
+| hata no kokoro | 秦心 | |
+| | 东方Project >> 东方辉针城 | |
+| wakasagihime | 若鹭姬 | |
+| sekibanki | 赤蛮奇 | |
+| kagerou imaizumi | 今泉影狼 | |
 | benben tsukumo | 九十九弁弁 | |
 | yatsuhashi tsukumo | 九十九八桥 | |
-| kagerou imaizumi | 今泉影狼 | |
-| raiko horikawa | 堀川雷鼓 | |
-| sekibanki | 赤蛮奇 | |
+| seija kijin | 鬼人正邪 | |
 | shinmyoumaru sukuna | 少名针妙丸 | |
-| wakasagihime | 若鹭姬 | |
-| luna child | 露娜切露德 | |
-| star sapphire | 斯塔萨菲雅 | |
-| sunny milk |  桑尼米尔克 | |
-| nazrin | 纳兹琳 |  |
-| hieda no akyuu | 稗田阿求 |  |
-| kosuzu motoori | 本居小铃 |  |
-| momiji inubashiri | 犬走椛 |  |
-| mamizou futatsuiwa | 二岩猯藏 |  |
-| toyosatomimi no miko | 丰聪耳神子 |  |
-| tewi inaba | 因幡帝 | |
-| parsee mizuhashi | 水桥帕露西 | |
-| renko usami | 宇佐见莲子 | |
-| utsuho reiuji | 灵乌路空 | |
-| hatate himekaidou | 姬海棠果 | |
-| suika ibuki | 伊吹萃香 | |
-| yuugi hoshiguma | 星熊勇仪 | |
+| raiko horikawa | 堀川雷鼓 | |
+| | 东方Project >> 东方深秘录 | |
+| sumireko usami | 宇佐见堇子 | |
+| | 东方Project >> 东方绀珠传 | |
+| seiran | 清兰 | |
+| ringo | 铃瑚 | |
+| doremy sweet | 哆来咪·苏伊特 | |
+| sagume kishin | 稀神探女 | |
+| clownpiece | 克劳恩皮丝 | |
+| hecatia lapislazuli | 赫卡提亚·拉碧斯拉祖利 | |
+| junko | 纯狐 | |
+| | 东方Project >> 东方凭依华 | |
+| | 东方Project >> 东方天空璋 | |
+| | 东方Project >> 音乐CD及出版品 >> 东方香霖堂 | |
+| rinnosuke morichika | 森近霖之助 | |
+| | 东方Project >> 音乐CD及出版品 >> 东方文花帖 | |
+| | 东方Project >> 音乐CD及出版品 >> 东方三月精 | |
+| sunny milk |  桑尼米尔克 | 阳光牛奶 |
+| luna child | 露娜切露德 | 月亮孩子 |
+| star sapphire | 斯塔萨菲雅 | 星蓝宝石 |
+| | 东方Project >> 音乐CD及出版品 >> 东方儚月抄 | |
 | watatsuki no toyohime | 绵月丰姬 | |
 | watatsuki no yorihime | 绵月依姬 | |
+| | 东方Project >> 音乐CD及出版品 >> 东方求闻史纪 | |
+| hieda no akyuu | 稗田阿求 | |
+| | 东方Project >> 音乐CD及出版品 >> 东方茨歌仙 | |
 | kasen ibara | 茨木华扇 | |
-| ringo | 铃瑚 | |
-| hecatia lapislazuli | 赫卡提亚·拉碧斯拉祖利 | |
-| seiga kaku | 霍青娥 | |
-| iku nagae | 永江衣玖 | |
-| mononobe no futo | 物部布都 | |
-| yoshika miyako | 宫古芳香 | |
-| maribel han | 玛艾露贝莉·赫恩 | |
-| shou toramaru | 寅丸星 | |
-| soga no tojiko | 苏我屠自古 | |
-| ichirin kumoi | 云居一轮 | |
-| kogasa tatara | 多多良小伞 | |
-| yamame kurodani | 黑谷山女 | |
-| rinnosuke morichika | 森近霖之助 | |
-| yumeko | 梦子 | |
-| sagume kishin | 稀神探女 | |
+| | 东方Project >> 音乐CD及出版品 >> 东方铃奈庵 | |
+| kosuzu motoori | 本居小铃 | |
+| | 东方Project >> 音乐CD及出版品 >> 音乐CD(秘封俱乐部) | |
+| renko usami | 宇佐见莲子 | |
+| maribel han | 玛艾露贝莉·赫恩 | 梅利 |
+| | 东方Project >> 二次创作人物 | |
+| hakurei miko | 先代巫女 | |
 | | ▲东方Project 人物 | |
 | | ▼ Love Live 人物 | |
 | honoka kosaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") |
