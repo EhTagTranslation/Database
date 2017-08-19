@@ -20,7 +20,7 @@
 | | ▲萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |
 | | ▼ 东方Project 人物 | 请参照[THBWiki](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8)官方角色列表填写 |
 | | 东方Project >> 城管二人组 | |
-| reimu hakurei | 博丽灵梦 | ![十万巫女](https://img.acg.moe/common/thumb/8/87/ShinkirouReimu.jpg/447px-ShinkirouReimu.jpg) |
+| reimu hakurei | 博丽灵梦 | ![图](http://ehgt.org/t/f0/9a/f09ac89d4b6994376072917b9c1fb708ea29fdd3-272955-500-750-png_l.jpg)![十万巫女](https://img.acg.moe/common/thumb/8/87/ShinkirouReimu.jpg/447px-ShinkirouReimu.jpg) |
 | marisa kirisame | 雾雨魔理沙 | ![图](http://ehgt.org/t/66/35/66353181a979125924c875c2dd312296be811361-664544-1280-1802-jpg_l.jpg) |
 | | 东方Project >> 旧作 >> 东方灵异传 | |
 | mima | 魅魔 | |
@@ -36,7 +36,7 @@
 | daiyousei | 大妖精 | |
 | cirno | 琪露诺 | |
 | hong meiling | 红美铃 | |
-| patchouli knowledge | 帕秋莉·诺蕾姬 | |
+| patchouli knowledge | 帕秋莉·诺蕾姬 | ![图](http://ehgt.org/t/c1/74/c174b5c8b1b37015c0e387b575af931d27c7d74d-235645-461-700-jpg_l.jpg) |
 | koakuma | 小恶魔 | |
 | sakuya izayoi | 十六夜咲夜 | 十六夜xiào夜 |
 | remilia scarlet | 蕾米莉亚·斯卡雷特 | |
@@ -44,7 +44,7 @@
 | | 东方Project >> 东方妖妖梦 | |
 | letty whiterock | 蕾迪·霍瓦特罗克 | 蕾蒂·白石 |
 | chen | 橙 | |
-| alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg)![图](http://ehgt.org/t/e0/40/e0406e3e1aca41e8ddf6c0d6ba91d2cd64148543-985030-1400-2000-jpg_l.jpg) |
+| alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](http://ww2.sinaimg.cn/bmiddle/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg)![图](http://ehgt.org/t/e0/40/e0406e3e1aca41e8ddf6c0d6ba91d2cd64148543-985030-1400-2000-jpg_l.jpg)![图](http://ehgt.org/t/c5/63/c563aa8479bbcdb080d2c332e54a80eca5794065-241243-500-750-png_l.jpg) |
 | | 东方Project >> 东方妖妖梦 >> 爱丽丝符卡 | |
 | shanghai | 上海人偶 | |
 | hourai | 蓬莱人偶 | |
@@ -63,14 +63,14 @@
 | mystia lorelei | 米斯蒂娅·萝蕾拉 | |
 | keine kamishirasawa | 上白泽慧音 | |
 | tewi inaba | 因幡帝 | |
-| reisen udongein inaba | 铃仙·优昙华院·因幡 | |
+| reisen udongein inaba | 铃仙·优昙华院·因幡 | ![图](http://ehgt.org/t/22/f2/22f2d524d1f61b4eedbab1e2d279d08eae2817ce-280214-500-750-png_l.jpg) |
 | eirin yagokoro |  八意永琳 | |
 | kaguya houraisan | 蓬莱山辉夜 | |
 | fujiwara no mokou | 藤原妹红 | |
 | | 东方Project >> 东方花映塚 | |
 | aya shameimaru | 射命丸文 | |
-| medicine melancholy | 梅蒂欣·梅兰可莉 | |
-| yuuka kazami | 风见幽香 | |
+| medicine melancholy | 梅蒂欣·梅兰可莉 | ![图](http://ehgt.org/t/59/ee/59ee5ec0df98af9c13240cf41fdd4bbb904cc9f6-198193-500-750-png_l.jpg) |
+| yuuka kazami | 风见幽香 | ![图](http://ehgt.org/t/3c/07/3c075d262966e513bc0b739a51cf8a8350af0825-275910-500-750-png_l.jpg) |
 | komachi onozuka | 小野塚小町 | |
 | shikieiki yamaxanadu | 四季映姬·亚玛萨那度 | |
 | | 东方Project >> 东方风神录 | |
@@ -90,18 +90,18 @@
 | yamame kurodani | 黑谷山女 | |
 | parsee mizuhashi | 水桥帕露西 | |
 | yuugi hoshiguma | 星熊勇仪 | |
-| satori komeiji | 古明地觉 | |
+| satori komeiji | 古明地觉 | ![图](http://ehgt.org/t/f1/4b/f14b0afdb20154b6b010f282f0765dcdcf696f86-257951-860-1214-jpg_l.jpg)![图](# "http://ehgt.org/t/1d/6e/1d6e3dd4f1ccd40e6e35d07ff65a8d2f4ca678e7-6311355-2590-3624-jpg_l.jpg")![图](# "http://ehgt.org/t/9f/31/9f319dc7d3791693be5e1c56ec00865c840f21d5-148377-1050-1492-jpg_l.jpg")![图](# "http://ehgt.org/t/b5/ad/b5ad1f5f51137a26a8d937b8fd7845ae6d5c9c80-2156713-2089-3000-jpg_l.jpg")![图](# "http://ehgt.org/t/ca/27/ca2721211fc1669d28739d722c4a618131dacde9-3512642-2108-3020-jpg_l.jpg") |
 | rin kaenbyou | 火焰猫燐 | |
-| utsuho reiuji | 灵乌路空 | |
-| koishi komeiji | 古明地恋 | |
+| utsuho reiuji | 灵乌路空 | ![图](# "http://ehgt.org/t/cd/ac/cdac5e44554208b78423fe80f4007b67d6e72eae-562247-1407-1980-jpg_l.jpg")![图](# "http://ehgt.org/t/e1/31/e131a211bfabeae02e4138ef784cd7ab1b1eddbb-579968-999-1159-jpg_l.jpg") |
+| koishi komeiji | 古明地恋 | ![图](http://ehgt.org/t/71/75/7175180574033fe49402b24990748bb73ee9589a-1051852-1399-2000-jpg_l.jpg)![图](# "http://ehgt.org/t/cc/9d/cc9dd261c2704485fbe26f61387e22aa071861f9-1492666-2560-3608-jpg_l.jpg")![图](# "http://ehgt.org/t/d2/cf/d2cf7f8c05f2da5cc84aed201cb966573236eded-1268289-900-1273-png_l.jpg")![图](# "http://ehgt.org/t/55/98/55983ef2d6aeb00933fc874c1da900a636b1c01a-611716-1050-1492-jpg_l.jpg") |
 | | 东方Project >> 东方星莲船 | |
 | nazrin | 纳兹琳 |  |
 | kogasa tatara | 多多良小伞 | |
-| ichirin kumoi | 云居一轮 | |
+| ichirin kumoi | 云居一轮 | ![图](http://ehgt.org/t/3d/7f/3d7fd5ddbc4db54d0f93f2520ad512ab97ef6408-213046-500-750-png_l.jpg) |
 | unzan | 云山 | |
 | minamitsu murasa | 村纱水蜜 | |
 | shou toramaru | 寅丸星 | |
-| byakuren hijiri | 圣白莲 | |
+| byakuren hijiri | 圣白莲 | ![图](http://ehgt.org/t/30/6b/306bdd56b36470d4e6af184f86c7d246e97f686a-257344-500-750-png_l.jpg) |
 | nue houjuu | 封兽鵺 | 封兽yè |
 | | 东方Project >> 东方非想天则 | |
 | | 东方Project >> 东方文花帖DS | |
@@ -109,20 +109,20 @@
 | | 东方Project >> 东方神灵庙 | |
 | kyouko kasodani | 幽谷响子 | |
 | yoshika miyako | 宫古芳香 | |
-| seiga kaku | 霍青娥 | |
+| seiga kaku | 霍青娥 | ![图](http://ehgt.org/t/61/21/6121a5bdb25f0ec812a5c98b15859a8571eeb1b3-208475-500-750-png_l.jpg) |
 | soga no tojiko | 苏我屠自古 | |
-| mononobe no futo | 物部布都 | |
-| toyosatomimi no miko | 丰聪耳神子 | |
-| mamizou futatsuiwa | 二岩猯藏 | |
+| mononobe no futo | 物部布都 | ![图](http://ehgt.org/t/71/5f/715f49159cd4ad85fa90f4f2b7dbeb576e0c419a-193512-500-750-png_l.jpg) |
+| toyosatomimi no miko | 丰聪耳神子 | ![图](http://ehgt.org/t/7d/dc/7ddc84ae00786cbcf4b60f8c9fa79b0b44f30120-262740-500-750-png_l.jpg) |
+| mamizou futatsuiwa | 二岩猯藏 | ![图](http://ehgt.org/t/5c/f9/5cf9a7b73b61528429d8531415755151edc6621e-250196-500-750-png_l.jpg) |
 | | 东方Project >> 东方心绮楼 | |
-| hata no kokoro | 秦心 | |
+| hata no kokoro | 秦心 | ![图](http://ehgt.org/t/16/d5/16d5d0ceef0d2e85423fbba9876ad5099279f574-309216-500-750-png_l.jpg) |
 | | 东方Project >> 东方辉针城 | |
 | wakasagihime | 若鹭姬 | |
 | sekibanki | 赤蛮奇 | |
 | kagerou imaizumi | 今泉影狼 | |
 | benben tsukumo | 九十九弁弁 | |
 | yatsuhashi tsukumo | 九十九八桥 | |
-| seija kijin | 鬼人正邪 | |
+| seija kijin | 鬼人正邪 | ![图](http://ehgt.org/t/23/15/23151b4880818a593194f56e40e716691db74250-148302-500-750-png_l.jpg) |
 | shinmyoumaru sukuna | 少名针妙丸 | |
 | raiko horikawa | 堀川雷鼓 | |
 | | 东方Project >> 东方深秘录 | |
@@ -138,7 +138,8 @@
 | | 东方Project >> 东方凭依华 | |
 | | 东方Project >> 东方天空璋 | |
 | | 东方Project >> 音乐CD及出版品 >> 东方香霖堂 | |
-| rinnosuke morichika | 森近霖之助 | |
+| tokiko | 朱鹭子 | 并不存在官方名字的“读书妖怪”<br>![图](# "http://ehgt.org/t/6a/11/6a112187682ddbff64a7e7ae498aa534638b6121-776333-2000-2823-jpg_l.jpg")![图](http://ehgt.org/t/bb/13/bb1347a3e5f592072c30106e82c7eee31790cf7c-321640-508-711-jpg_l.jpg)![图](# "http://ehgt.org/t/13/62/13622f363709b8f521c7ab028105f10cd0a439ae-522998-1670-2260-jpg_l.jpg") |
+| rinnosuke morichika | 森近霖之助 | 幻想乡中极少见的男性角色<br>![图](http://ehgt.org/t/bb/13/bb1347a3e5f592072c30106e82c7eee31790cf7c-321640-508-711-jpg_l.jpg)![图](http://ehgt.org/t/d7/cc/d7cc777c221a818887c60315cabe5eb9655ef08b-285399-1070-1514-jpg_l.jpg)![图](http://ehgt.org/t/97/21/972159fbfaa413cded4b2ed24df5d3a7f65e16e8-262966-1060-1500-jpg_l.jpg)![图](# "http://ehgt.org/t/d6/db/d6db5105055901ce3c833c5930ab601efd788e9e-2657877-2132-3028-jpg_l.jpg") |
 | | 东方Project >> 音乐CD及出版品 >> 东方文花帖 | |
 | | 东方Project >> 音乐CD及出版品 >> 东方三月精 | |
 | sunny milk |  桑尼米尔克 | 阳光牛奶 |
