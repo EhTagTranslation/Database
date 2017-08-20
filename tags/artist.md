@@ -1410,3 +1410,15 @@
 | matsusaka takeshi | 松阪刚志 | |
 | nagai michinori | 永井道纪 | |
 | nagisa minami | 渚ミナミ | |
+| alexi | アレキシ | |
+| syati kamaboko | シャチカマボコ | |
+| benantoka | Beなんとか | |
+| dynamite moca | ダイナマイトmoca | |
+| sakurafubuki nel | 桜吹雪ねる | |
+| urai tami | 浦井民 | |
+| yusa | ゆさ | |
+| gyuunyuu rinda | 牛乳リンダ | |
+| usagi nagomu | うさぎなごむ | |
+| oohira sunset | 太平さんせっと | |
+| obui | おぶい | |
+| amazeroth | Amazeroth | |
