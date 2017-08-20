@@ -402,7 +402,7 @@
 | nanpou seiki | 南方栖鬼 | |
 | shuusekichi seiki | 集积地栖姬 | |
 | ritou seiki | 离岛栖姬 | |
-| seaport hime | 港湾栖姬 | |
+| kouwan seiki | 港湾栖姬 | |
 | chuukan seiki | 中间栖姬 | |
 | hikoujouki | 飞行场姬 | |
 | | ▲舰队Collection-KanColle 人物 | |
