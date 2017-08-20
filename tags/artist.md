@@ -1422,3 +1422,16 @@
 | oohira sunset | 太平さんせっと | |
 | obui | おぶい | |
 | amazeroth | Amazeroth | |
+| batsu | ばつ | |
+| campbell gichou | キャンベル議長 | |
+| hinotsuki neko | 日月ネコ | |
+| jake | じぇいく | |
+| kamaboko red | かまぼこRED | |
+| koharu nanakusa | 小春七草 | |
+| kousuke | 交介 | |
+| kuronomiki | 黒ノ樹 | |
+| kurosawa yuri | 黒澤ユリ | |
+| misaki kaho. | ミサキカホ。 | |
+| ogura shuuichi | 小仓修一 | |
+| yuuki homura | 结城焰 | |
+| yamamoto yammy | 山本やみー | |
