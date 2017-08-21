@@ -1436,6 +1436,6 @@
 | yuuki homura | 结城焰 | |
 | yamamoto yammy | 山本やみー | |
 | murakami maki | 村上真纪 | BL漫画《万有引力》的作者 |
-| ditama bow | ぢたま⃝某 | 《亲吻姐姐》的作者 <br/> 很多成功的漫画家都是从画本子开始的 |
+| ditama bow | ぢたま(某) | 《亲吻姐姐》的作者 <br/> 很多成功的漫画家都是从画本子开始的 |
 | yabuki kentarou | 矢吹健太朗 | ToLOVEる，不是本子，胜似本子的漫画 |
 | clamp | CLAMP |  |
