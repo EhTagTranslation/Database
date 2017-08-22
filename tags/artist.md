@@ -278,7 +278,7 @@
 | sadokko | さどっこ | |
 | izumi | 和泉 | |
 | reizei | 冷泉 | |
-| sky | SKY \| Sky-FreeDom | 该条目可能指向两位画师<br>SKY PixivID:315442<br>“死盖” PixivID:1017056<br>“死盖”是马来西亚同人画师，格子裙热裤过膝袜爱好者。因画风独特以及对热裤的热爱而闻名。与林大B、孙渣、萌娘百科更新姬经常在微博进行不可告人的PY交易 http://weibo.com/skyfreedom <br>本人自画像<br>![本人自画像](http://wx1.sinaimg.cn/mw1024/6ca93fadly1ff64bbcyidj20li0xcdk8.jpg)  |
+| sky | SKY \| Sky-FreeDom | 该条目可能指向两位画师<br>SKY PixivID:315442<br>“死盖” PixivID:1017056<br>“死盖”是马来西亚同人画师，格子裙热裤过膝袜爱好者。因画风独特以及对热裤的热爱而闻名。与林大B、孙渣、萌娘百科更新姬经常在微博进行不可告人的PY交易 http://weibo.com/skyfreedom <br>本人自画像<br>![本人自画像](http://wx1.sinaimg.cn/bmiddle/6ca93fadly1ff64bbcyidj20li0xcdk8.jpg)<br>本人自拍<br>![自拍2](http://wx3.sinaimg.cn/mw690/6ca93fadgy1fisz6lxz1zj20go0rsth0.jpg)![自拍2](http://wx1.sinaimg.cn/mw690/6ca93fadgy1fisz6m1aruj20rs0fngqk.jpg)  |
 | petenshi | ペテン師 | |
 | maruwa tarou | 丸和太郎 | |
 | fujishima sei1go | 藤岛制1号 | |
