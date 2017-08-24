@@ -1439,3 +1439,37 @@
 | ditama bow | ぢたま(某) | 《亲吻姐姐》的作者 <br/> 很多成功的漫画家都是从画本子开始的 |
 | yabuki kentarou | 矢吹健太朗 | ToLOVEる，不是本子，胜似本子的漫画 |
 | clamp | CLAMP |  |
+| kinoshita rei | きのした黎 | |
+| waero | 西野 | |
+| modaetei anetarou | 闷亭姉太郎 | |
+| modaetei imojirou | 闷亭妹次郎 | |
+| fuckuma | ふぁっ熊 | |
+| itou daiku | 伊藤第九 | |
+| kaiduka | かいづか | |
+| moketa | もけ太 | |
+| nodame | nod饴 | |
+| sage joh | sage・ジョー | |
+| utsutsu minoru | うつつ＊みのる | |
+| isou doubaku | 位相同爆 | |
+| kenshou izanamu | 剣匠イザナム | |
+| kotobuki kazuki | 琴吹かづき | |
+| mayumi daisuke | 真弓大介 | |
+| nagano noriko | 永野のりこ | |
+| protonsaurus | プロトンザウルス | |
+| sabe | SABE | |
+| shibata masahiro | 柴田昌弘 | |
+| youkihi | 阳气婢 | |
+| kinoshita ichi | 木下壹 | |
+| 92m | 92M | |
+| kasukabe taro | 春日部太郎 | |
+| zucchini | ズッキーニ | |
+| shirane taito | 白根戴斗 | |
+| morimi ashita | 森见明日 | |
+| upanishi. | うぱ西。 | |
+| shimazu isami | 島津いさみ | |
+| arumajiki | 或真じき | |
+| uru | Uru | |
+| higashitotsuka raisuta | 東戸塚らいすた | |
+| nizimoto hirok | 虹元ひろk | |
+| kinnikku | キンニック | |
+| takepen | タケペン | |

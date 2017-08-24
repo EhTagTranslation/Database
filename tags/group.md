@@ -810,6 +810,29 @@
 | muses garden | MUSES GARDEN | |
 | nekomataya | ねこまた屋 | |
 | oving | OVing | |
+| ditama kikaku | ぢたま企画 | |
+| crespirit | CreSpirit | |
+| modae tei | 闷亭 | |
+| oyama dennou giken | 小山电脑技研 | |
+| lux soft | ルクスソフト | |
+| gunsryu | GUNsRYU | |
+| happy core | HAPPY CORE | |
+| dai-kotetsu dan | ダイコテツ団 | |
+| tora machine | 虎マシーン | |
+| z.a.p. | Z.A.P. | |
+| aozora shoujo | 青空少女 | |
+| morimi-ya | 森见屋 | |
+| upa24 | UPA24 | |
+| twilight road | Twilight Road | |
+| nine four air | Nine Four Air | |
+| yogurt prince | ヨーグルトプリンス | |
+| ukkaridou | うっかり堂 | |
+| sawwei005 | Sawwei005 | |
+| fujiya honten | 藤屋本店 | |
+| nijigen shoujo | 虹元少女 | |
+| muskel bild | Muskel☆Bild | |
+| takebouzu | 竹坊主 | |
+| whistlerx | WhistlerX | |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | mana | mana | http://mana.product.co.jp |
