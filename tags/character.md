@@ -1468,6 +1468,27 @@
 | goku black | 黑悟空 | |
 | broly | 布罗利 | |
 | erasa | 伊蕾莎 | |
+| | ▼ 在地下城寻求邂逅是否搞错了什么 | |
+| hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) |
+| bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) |
+| tiona hiryute | 蒂奥娜·席吕特 | |
+| tione hiryute | 蒂奥涅·席吕特 | |
+| aiz wallenstein | 艾丝·华伦斯坦 | |
+| eina tulle | 埃伊娜·祖尔 | |
+| freya | 芙蕾雅 | |
+| hephaistos | 赫菲斯托丝 | |
+| liliruca arde | 莉莉露卡·厄德 | |
+| ryuu lyon | 琉·璃昂 | |
+| loki | 洛基 | |
+| syr flova | 希儿·福罗瓦 | |
+| | ▼ 魔法少女小圆 | |
+| homura akemi | 晓美焰 | |
+| madoka kaname | 鹿目圆 | |
+| mami tomoe | 巴麻美 | |
+| sayaka miki | 美树沙耶香 | |
+| kyouko sakura | 佐仓杏子 | |
+| nagisa momoe | 百江渚 | |
+| kyubey | 丘比 | QB |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1681,8 +1702,6 @@
 | dark magician girl | 黑魔术少女 | |
 | silent magician | 沉默魔术师 | |
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  |
-| bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) |
-| hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) |
 | marcille | 玛露西露 | |
 | danua | 达奴娅 | |
 | millhiore firianno biscotti | 米尔奥蕾·菲里安诺·比斯科迪 | |
@@ -1707,8 +1726,6 @@
 | melda deitz | 梅尔达·狄兹 | |
 | yuki mori | 森雪 | |
 | chibiusa | 小小兔 | |
-| tiona hiryute | 蒂奥娜·席吕特 | |
-| tione hiryute | 蒂奥涅·席吕特 | |
 | ainz ooal gown | 安兹·乌尔·恭 | |
 | albedo | 雅儿贝德 | |
 | aura bella fiora | 亚乌菈·贝拉·菲欧拉 | |

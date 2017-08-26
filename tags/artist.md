@@ -1473,3 +1473,8 @@
 | nizimoto hirok | 虹元ひろk | |
 | kinnikku | キンニック | |
 | takepen | タケペン | |
+| taikou | タイコウ | |
+| aikawa touma | 藍川とうま | |
+| tamanoi peromekuri | 玉乃井ぺろめくり | |
+| shinozuka george | 筱塚酿二 | |
+| miotama | みおたま | |
