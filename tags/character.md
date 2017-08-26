@@ -539,7 +539,7 @@
 | nono morikubo | 森久保乃乃 | |
 | anastasia | 安娜斯塔西娅 | |
 | aki yamato | 大和亚季 | |
-|  | 结城晴 | |
+| haru yuuki | 结城晴 | |
 | fumika sagisawa | 鹭泽文香 | ![鹭泽文香](https://img.acg.moe/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) |
 |  | 八神牧野 | |
 | layla | 莱拉 | |
