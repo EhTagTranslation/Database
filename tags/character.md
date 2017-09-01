@@ -1736,3 +1736,13 @@
 | ai kagano | 加贺野爱 | |
 | mayu | 美格 | |
 | rin | 凛 | 《游戏王ARC-V》的角色 |
+| farrah | 法拉 | |
+| cure chocolat | 巧克力天使 | |
+| nagisa misumi | 美墨渚 | |
+| zooey | 佐伊 | |
+| cure miracle | 奇迹天使 | |
+| mirai asahina | 朝日奈未来 | |
+| riko izayoi | 十六夜理子 | |
+| natsu dragneel | 纳兹·多拉格尼尔 | |
+| kirara | 绮罗罗 | |
+| reika aoki | 青木丽华 | |
