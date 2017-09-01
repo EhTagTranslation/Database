@@ -1746,3 +1746,4 @@
 | natsu dragneel | 纳兹·多拉格尼尔 | |
 | kirara | 绮罗罗 | |
 | reika aoki | 青木丽华 | |
+| tamaki kousaka | 向坂环 | |
