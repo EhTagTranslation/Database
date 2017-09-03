@@ -1748,3 +1748,5 @@
 | kirara | 绮罗罗 | |
 | reika aoki | 青木丽华 | |
 | tamaki kousaka | 向坂环 | |
+| sellma | 罗克珊努 | |
+| ruida | 莉卡 | |
