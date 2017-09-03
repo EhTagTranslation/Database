@@ -1119,6 +1119,7 @@
 | | ▼ 魔禁/超炮 | |
 | touma kamijou | 上条当麻 | |
 | mikoto misaka | 御坂美琴 | |
+| misuzu misaka | 御坂美铃 | |
 | aisa himegami | 姬神秋沙 | |
 | mii konori | 固法美伟 | |
 | seiri fukiyose | 吹寄制理 | |
