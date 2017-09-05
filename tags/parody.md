@@ -60,7 +60,7 @@
 | highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](http://exhentai.org/t/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg)![图](http://ul.ehgt.org/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |
 | gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakk%C5%8D_Gurashi%21_logo.png/220px-Gakk%C5%8D_Gurashi%21_logo.png)<br>萝莉打僵尸<br>![图](http://exhentai.org/t/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg) |
 | a channel | A频道 | 漫画<br>![图](http://exhentai.org/t/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg) |
-| granblue fantasy | 宏蓝幻想 | 手游，不了解<br>![图](http://exhentai.org/t/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg)![图](http://exhentai.org/t/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg) |
+| granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由Cygames发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。 <br>![图](http://exhentai.org/t/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg)![图](http://exhentai.org/t/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg) |
 |  | ▼高达 系列 | |
 | gundam | 高达 | |
 | gundam age | 机动战士高达AGE | |
@@ -1031,3 +1031,5 @@
 | akame ga kill | 斩·赤红之瞳！ | 《斩·赤红之瞳！》（日语：アカメが斬る!）是タカヒロ（原作）及田代哲也（作画）的日本漫画作品。自2010年4月号起至2017年1月号止刊载于《月刊GANGAN JOKER》，2014年1月在《月刊 GANGAN JOKER》杂志封面上公布电视动画化的消息。 |
 | harry potter | 哈利波特 | 《哈利波特》（英语：Harry Potter），英国作家J·K·罗琳的奇幻文学系列小说，描写主角哈利波特在霍格华兹7年学习生活中的冒险故事；该系列被翻译成75种语言，在超过两百个国家出版，所有版本的总销售量逾4～4亿5千万本（2013年7月），名列世界上最畅销小说之列，同时也是世界上印量第三高的出版物（仅次圣经和毛语录）。 |
 | tom and jerry | 猫和老鼠 | 《猫和老鼠》（Tom and Jerry）是米高梅电影公司于1939年制作的一部动画片，该片由威廉·汉纳、约瑟夫·巴伯拉编写，弗雷德·昆比制作，首部剧集《甜蜜的家》于1940年2月10日在美国首播 。 |
+| mahouka koukou no rettousei | 魔法科高中的劣等生 | 《魔法科高中的劣等生》（日语：魔法科高校の劣等生），是日本小说家佐岛勤撰写的轻小说系列。小说最初从2008年10月至2011年3月，在“成为小说家吧”上进行网络连载。直至与电击文库达成协议后，从2011年7月起发行成书版。2013年，不同的漫画家与出版社把小说各各篇亦发行成漫画。同一年，MADHOUSE宣布电视动画于2014年4月至9月的播放。魔法科高中的劣等生中文特许经营权由三间公司本地化。在台湾小说与漫画由Kadokawa Fantastic Novels代理，而电视动画则由台湾角川代理。在中国，小说与漫画由天闻角川轻小说代理。而在美国，魔法科高中的劣等生英文特许经营权则由两间公司本地化。小说与漫画由Yen Press代理，而Aniplex of America则代理电视动画。电视动画由四个广播网广播，之后亦在Netflix播放。 |
+| euphoria | 极度愉悦 | 《euphoria》是游戏公司CLOCKUP在2011年6月24日发售的18禁galgame。后续有同名的里番和小说的衍生作品。  |
