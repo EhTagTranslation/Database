@@ -398,7 +398,7 @@
 | kuubo suiki | 空母水鬼 | |
 | soukou kuuboki | 装甲空母姬 | |
 | senkan seiki  | 战舰栖姬 | |
-| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") |
+| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](http://exhentai.org/t/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg) |
 | nanpou seiki | 南方栖鬼 | |
 | shuusekichi seiki | 集积地栖姬 | |
 | ritou seiki | 离岛栖姬 | |
@@ -1756,3 +1756,5 @@
 | kirara | 绮罗罗 | |
 | reika aoki | 青木丽华 | |
 | tamaki kousaka | 向坂环 | |
+| sellma | 罗克珊努 | |
+| ruida | 莉卡 | |
