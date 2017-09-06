@@ -123,7 +123,7 @@
 | arui ryou | あるい椋 | |
 | sasamori tomoe | 笹森トモエ | |
 | sasai saji | 笹井さじ | |
-| okazaki takeshi | 岡崎武士 | |
+| okazaki takeshi | 冈崎武士 | |
 | harukaze soyogu | 春風ソヨグ | |
 | kasi | 华师 | |
 | cheru | ちぇる | |
@@ -1497,3 +1497,19 @@
 | bakugatou | 麦芽糖 |  |
 | nekohane ryou | 猫羽燎 |  |
 | gamang | Gamang |  |
+| kiryu reihou | 桐生玲峰 | |
+| koutaro | こうたろ | |
+| sasaoka gungu | 笹岡ぐんぐ | |
+| mikazuki akira | みかづきあきら! | |
+| mikoshiro honnin | みこしろ本人 | |
+| ariko youichi | 有子瑶一 | |
+| taira tsukune | 平つくね | |
+| monikano | モニカノ | |
+| kayama rim | 香山リム | |
+| tomokichi | 友吉 | |
+| nagi ichi | 凪市 | |
+| ponsu jure | ぽん酢 | |
+| arekusa mahone | 荒草まほん | |
+| akasa ai | あかさあい | |
+| mizu umi | 瑞海 | |
+| hisato | ひさと | |

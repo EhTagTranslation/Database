@@ -1509,6 +1509,17 @@
 | rosetta | 萝赛塔 | 主人公等人在ルーマシー群岛时相遇的谜之美女。因为中意主人公等人而加入同行行列。貌似知道格兰父亲的样子，谜样的美女。超然而难以捉摸，十分亲切地关照格兰。 |
 | sturm | 斯图姆 | |
 | vira | 维拉 | |
+| | ▼ 魔卡少女樱 | |
+| sakura kinomoto | 木之本樱 | |
+| touya kinomoto | 木之本桃矢 | | 
+| yukito tsukishiro | 月城雪兔 | |
+| tomoyo daidouji | 大道寺知世 | |
+| sonomi daidouji | 大道寺园美 | |
+| syaoran li | 李小狼 | |
+| meiling li | 李苺铃 | |
+| rika sasaki | 佐佐木利佳 | |
+| chiharu mihara | 三原千春 | |
+| naoko yanagisawa | 柳泽奈绪子 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1527,7 +1538,6 @@
 | ranma saotome | 早乙女乱马 | |
 | kamui | 卡姆依（神威） | |
 | ikumi mito | 水户郁魅 | |
-| sakura kinomoto | 木之本樱 | |
 | sailor moon | 水手月亮 | |
 | sailor mercury | 水手水星 | |
 | sailor mars | 水手火星 | |
@@ -1542,7 +1552,6 @@
 | yuri sakazaki | 坂崎百合 | |
 | michelle k. davis | 米歇尔·K·戴维斯 | |
 | chihiro ogino | 荻野千寻 | |
-| tomoyo daidouji | 大道寺知世 | |
 | tessie | 泰茜 | 《勇者斗恶龙IV 被引导的人们》里特鲁尼克的妻子 |
 | rikka hishikawa | 菱川六花 | |
 | mana aida | 相田爱 | |
