@@ -848,6 +848,7 @@
 | ash wing | Ash Wing |  |
 | kousyoudou | 咬伤堂 |  |
 | leimkissa | LeimkissA |  |
+<<<<<<< HEAD
 | paschara-mode | ぱっきゃらもーど | |
 | e61 geinou pro | E61芸能プロ | |
 | nijiiro zakura | にじいろ桜 | |
@@ -868,6 +869,9 @@
 | arekusa thunder | アレクササンダー | |
 | seaside | SEA SIDE | |
 | sakyuuya | 砂丘屋 | |
+=======
+| ph-bu | PH部 | 特色：扩张萝莉 |
+>>>>>>> 379457e74e0cea792f483377543c2f7fbad747eb
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | mana | mana | http://mana.product.co.jp |
