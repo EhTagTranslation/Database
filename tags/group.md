@@ -848,6 +848,7 @@
 | ash wing | Ash Wing |  |
 | kousyoudou | 咬伤堂 |  |
 | leimkissa | LeimkissA |  |
+| ph-bu | PH部 | 特色：扩张萝莉 |
 | | ▲ 同人社团 | |
 | | ▼ GAL公司 | |
 | mana | mana | http://mana.product.co.jp |
