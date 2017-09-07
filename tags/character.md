@@ -5,6 +5,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
+| maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
 | katsuragi | 葛城 | No.203 ![](https://exhentai.org/t/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg)<br> ![](http://ehgt.org/t/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |
 | kasumi | 霞 |  No.090 ![](https://exhentai.org/t/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg)<br> ![](http://ehgt.org/t/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |
 | leo | 丽王 \| 利昂 | ![](http://ehgt.org/t/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br>火焰纹章if 角色 |
@@ -254,7 +255,7 @@
 | haguro | 羽黑 | No.058 羽黑![羽黑](# "http://exhentai.org/t/fa/1c/fa1ce113bcb7a45c26e1dec08dcc1d630a533072-212742-718-1024-jpg_250.jpg") |
 | takao | 高雄 | No.059 高雄![高雄](# "http://exhentai.org/t/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg") |
 | atago | 爱宕 | No.060 爱宕![爱宕](# "http://exhentai.org/t/21/27/21273e31c137f84ffc157a29d9f070669e7f0cf6-2570336-2439-3486-jpg_250.jpg") |
-| maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
+|       | 摩耶 | No.061 (重复项) 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg") |
 | choukai | 鸟海 | No.062 |
 | tone | 利根 | No.063 利根![利根](# "http://exhentai.org/t/e5/7b/e57b1f78bccc97011576d583a37b0c6a3b309ec9-1251535-2044-2860-jpg_250.jpg") |
 | chikuma | 筑摩 | No.064 筑摩![筑摩](# "http://exhentai.org/t/3a/76/3a76a411cb9e0fa0dc929d9bf2d09bf81ea3133a-4860768-2147-3032-jpg_250.jpg") |
@@ -1777,5 +1778,4 @@
 | kanade tachibana | 立华奏 | ![图](http://ehgt.org/92/66/92660f1f548615ca22672528b866ac4d062d569d-10994451-4912-6996-jpg_l.jpg)![图](http://ehgt.org/74/d9/74d99381c0f0d8910d67f85d5abc8081fe0dd30d-3386558-2114-3001-jpg_l.jpg)![图](http://ehgt.org/3d/11/3d11aeebe05cb3b6e2277d4d3c94813915c25720-630016-1000-1000-jpg_l.jpg)![图](http://ehgt.org/64/e8/64e8107c03d46b930059ea5fabc1ab202caca9ec-1165368-1131-1600-jpg_l.jpg)![图](# "http://ehgt.org/2b/f2/2bf2b7af263ff2986d75e09e94960c84e6c58b2d-337759-1240-1754-jpg_l.jpg")![图](# "http://ehgt.org/dd/b9/ddb9f21c2ee00463664fa4f698bcb93fe3861db5-2022525-1138-1600-png_l.jpg") |
 | yuri nakamura | 仲村由理 | ![图](http://ehgt.org/9e/be/9ebe20001823c83bbf4ec09cbaa25cad8290a627-11384914-4912-6996-jpg_l.jpg)![图](http://ehgt.org/e8/86/e886b4ed1cdc2225ced072d304e2b6c0b5dc0684-203927-1000-1397-jpg_l.jpg) |
 | mar | 梅亚 | |
-| mar | 梅亚 | |
-| mar | 梅亚 | |
+
