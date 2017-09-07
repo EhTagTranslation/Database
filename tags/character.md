@@ -254,7 +254,7 @@
 | haguro | 羽黑 | No.058 羽黑![羽黑](# "http://exhentai.org/t/fa/1c/fa1ce113bcb7a45c26e1dec08dcc1d630a533072-212742-718-1024-jpg_250.jpg") |
 | takao | 高雄 | No.059 高雄![高雄](# "http://exhentai.org/t/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg") |
 | atago | 爱宕 | No.060 爱宕![爱宕](# "http://exhentai.org/t/21/27/21273e31c137f84ffc157a29d9f070669e7f0cf6-2570336-2439-3486-jpg_250.jpg") |
-| maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
+| maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
 | choukai | 鸟海 | No.062 |
 | tone | 利根 | No.063 利根![利根](# "http://exhentai.org/t/e5/7b/e57b1f78bccc97011576d583a37b0c6a3b309ec9-1251535-2044-2860-jpg_250.jpg") |
 | chikuma | 筑摩 | No.064 筑摩![筑摩](# "http://exhentai.org/t/3a/76/3a76a411cb9e0fa0dc929d9bf2d09bf81ea3133a-4860768-2147-3032-jpg_250.jpg") |
