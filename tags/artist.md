@@ -1514,7 +1514,6 @@
 | mizu umi | 瑞海 | |
 | hisato | ひさと | |
 | konkichi | 绀吉 | |
-| binkan argento | びんかんでなにがわるい | |
 | butcherboy | ButcherBOY | PixivID: 2367927 |
 | aim | AIM | |
 | sasakuma kyouta | ささくまきょうた | |
