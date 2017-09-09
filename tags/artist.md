@@ -322,7 +322,7 @@
 | akaze kidai | 亚风纪代 | |
 | yuuki | 悠宇树 | |
 | ohkami ryosuke | 狼亮辅 | |
-| jitsuma | 児妻 | |
+| jitsuma | 儿妻 | |
 | kawaisaw | 可哀想 | |
 | alpha alf layla | α・アルフライラ | |
 | tori hrami | 鳥ハラミ | |
@@ -1513,3 +1513,33 @@
 | akasa ai | あかさあい | |
 | mizu umi | 瑞海 | |
 | hisato | ひさと | |
+| konkichi | 绀吉 | |
+| binkan argento | びんかんでなにがわるい | |
+| butcherboy | ButcherBOY | PixivID: 2367927 |
+| aim | AIM | |
+| sasakuma kyouta | ささくまきょうた | |
+| tsujizen | 辻善 | |
+| mizukoshi mayu | 水越まゆ | |
+| mitaonsya | MITAONSYA | |
+| tokumi yuiko | 笃见唯子 | |
+| dantetsu | 断铁 | |
+| inuboshi | 犬星 | |
+| saitou tsukasa | さいとうつかさ | |
+| shinkaida tetsuyarou | 新贝田铁也郎 | |
+| sorimura youji | そりむらようじ | |
+| yamamoto kazue | 山本和枝 | |
+| natsuo monaka | なつおもなか | |
+| binkan argento | びんかんargento | |
+| minagiku | みなぎく | |
+| landolt tamaki | ランドルトたまき | |
+| ferallemma | フィラレマ | |
+| habara tetsu | 叶原铁 | |
+| kisaragi miyu | 如月みゆ | |
+| igumox | 井雲くす | |
+| kuune rin | くうねりん | |
+| goto-beido | ゴト・ベイドー | |
+| morikura en | 森仓圆 | |
+| afukuro | アフ黒 | |
+| kaguyuzu | カグユヅ | |
+| dsmile | DSマイル | |
+| monoto | ものと | |
