@@ -1543,3 +1543,25 @@
 | kaguyuzu | カグユヅ | |
 | dsmile | DSマイル | |
 | monoto | ものと | |
+| snowmi | すのみ | |
+| dozamura | どざむら | |
+| kiryu | Kiryu | |
+| kozakura nanane | 小桜菜々音 | |
+| hazakura momo | 葉桜もも | |
+| sakura shouji | 咲良将司 | |
+| hidiri rei | ヒヂリレイ | |
+| nadeara bukichi | 抚荒武吉 | |
+| qoopie | Qoopie | |
+| kanbe chuji | かんべ忠治 | |
+| shuten douji | 酒呑童子 | |
+| murlachrot | みうらっは | |
+| tanaha | 棚叶 | |
+| sakai minato | 坂井みなと | |
+| ijima yuu | 伊島ユウ | |
+| inari | 稻荷 | |
+| momo-deary | Momo-Deary | |
+| nonaka tama | のなかたま | |
+| chinbotsu | 沈没 | |
+| teterun | ててるん | |
+| fuetakishi | フエタキシ | |
+| purukogi | プルコギ | |

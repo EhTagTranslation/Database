@@ -610,7 +610,7 @@
 |  | 冴岛清美 | |
 | risa matoba | 的场梨沙 | |
 | tokiko zaizen | 财前时子 | |
-|  | 佐藤心 | |
+| shin sato | 佐藤心 | |
 | yoshino yorita | 依田芳乃 | |
 | chihiro senkawa | 千川千寻 | |
 | mirai kasuga | 春日未来 | |
@@ -1539,6 +1539,15 @@
 | weiss schnee | 魏丝·雪倪 | |
 | blake belladonna | 布蕾克·贝拉多娜 | |
 | yang xiao long | 阳小龙 | |
+| | ▼ 魔法科高中的劣等生 | |
+| erika chiba | 千叶艾莉卡 | |
+| honoka mitsui | 光井穗香 | |
+| mari watanabe | 渡边摩利 | |
+| mayumi saegusa | 七草真由美 | |
+| miyuki shiba | 司波深雪 | |
+| mizuki shibata | 柴田美月 | |
+| shizuku kitayama | 北山雫 | |
+| tatsuya shiba | 司波达也 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
