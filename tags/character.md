@@ -1017,6 +1017,7 @@
 | | ▼ 食戟之灵 角色 | |
 | erina nakiri | 薙切绘理奈 | |
 | alice nakiri | 薙切爱丽丝 | |
+| azami nakiri | 薙切蓟 | |
 | ikumi mito | 水户郁魅 | |
 | megumi tadokoro | 田所惠 | |
 | fuyumi mizuhara | 水原冬美 | |
@@ -1027,6 +1028,7 @@
 | ryou kurokiba | 黑木场凉 | |
 | satoshi isshiki | 一色慧 | |
 | ryouko sakaki | 榊凉子 | |
+| rindou kobayashi | 小林龙胆 | |
 | | ▼ 埃罗芒阿老师 角色 | |
 | sagiri izumi | 和泉纱雾 | |
 | elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报 |
