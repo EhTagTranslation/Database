@@ -1541,12 +1541,15 @@
 | yang xiao long | 阳小龙 | |
 | | ▼ 魔法科高中的劣等生 | |
 | erika chiba | 千叶艾莉卡 | |
+| haruka ono | 小野遥 | |
 | honoka mitsui | 光井穗香 | |
 | mari watanabe | 渡边摩利 | |
 | mayumi saegusa | 七草真由美 | |
 | miyuki shiba | 司波深雪 | |
 | mizuki shibata | 柴田美月 | |
+| sayaka mibu | 壬生纱耶香 | |
 | shizuku kitayama | 北山雫 | |
+| suzune ichihara | 市原铃音 | |
 | tatsuya shiba | 司波达也 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
