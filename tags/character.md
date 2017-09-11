@@ -615,7 +615,7 @@
 | mirai kasuga | 春日未来 | |
 | hinata kinoshita | 木下日向 | |
 | julia | 茱莉亚 | |
-|  | 高山纱代子 | |
+| sayoko takayama | 高山纱代子 | |
 | kotoha tanaka | 田中琴叶 | |
 |  | 天空桥朋花 | |
 | serika hakozaki | 箱崎星梨花 | |
@@ -1015,6 +1015,17 @@
 | kyouko kirisaki | 雾崎恭子 | ![](http://ehgt.org/t/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |
 | | ▼ 食戟之灵 角色 | |
 | erina nakiri | 薙切绘理奈 | |
+| alice nakiri | 薙切爱丽丝 | |
+| ikumi mito | 水户郁魅 | |
+| megumi tadokoro | 田所惠 | |
+| fuyumi mizuhara | 水原冬美 | |
+| souma yukihira | 幸平创真 | |
+| takumi aldini | 巧·阿尔迪尼 | |
+| isami aldini | 勇·阿尔迪尼 | |
+| hisako arato | 新户绯沙子 | |
+| ryou kurokiba | 黑木场凉 | |
+| satoshi isshiki | 一色慧 | |
+| ryouko sakaki | 榊凉子 | |
 | | ▼ 埃罗芒阿老师 角色 | |
 | sagiri izumi | 和泉纱雾 | |
 | elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报 |
@@ -1520,6 +1531,11 @@
 | rika sasaki | 佐佐木利佳 | |
 | chiharu mihara | 三原千春 | |
 | naoko yanagisawa | 柳泽奈绪子 | |
+| | ▼ RWBY | |
+| ruby rose | 露比·罗丝 | |
+| weiss schnee | 魏丝·雪倪 | |
+| blake belladonna | 布蕾克·贝拉多娜 | |
+| yang xiao long | 阳小龙 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1537,7 +1553,6 @@
 | zhuge liang | 诸葛亮 | |
 | ranma saotome | 早乙女乱马 | |
 | kamui | 卡姆依（神威） | |
-| ikumi mito | 水户郁魅 | |
 | sailor moon | 水手月亮 | |
 | sailor mercury | 水手水星 | |
 | sailor mars | 水手火星 | |
