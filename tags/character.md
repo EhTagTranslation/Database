@@ -1552,7 +1552,7 @@
 | shizuku kitayama | 北山雫 | |
 | suzune ichihara | 市原铃音 | |
 | tatsuya shiba | 司波达也 | |
-| | ▼ Fate 系列 | |
+| | ▼ TYPE-MOON | |
 | saber | Saber | |
 | archer | Archer | |
 | lancer | Lancer | |
@@ -1587,6 +1587,21 @@
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | |
 | waver velvet | 韦伯·维尔维特 | |
 | astolfo | 阿斯托尔福 | |
+| protagonist | 主人公 | |
+| minamoto no raikou | 源赖光 | |
+| meltlilith | 溶解莉莉丝 | |
+| passionlip | 热情迷唇 | |
+| ushiwakamaru | 牛若丸  | |
+| tamamo-no-mae | 玉藻前 | |
+| jack the ripper | 开膛手杰克 | |
+| jeanne darc | 圣女贞德 | |
+| nitocris | 尼托克丽丝 | |
+| alice kuonji | 久远寺有珠 | |
+| aoko aozaki | 苍崎青子 | |
+| leysritt | 莉洁莉特 | |
+| chevalier deon | 迪昂·德·鲍蒙 | |
+| nightingale | 南丁格尔 | |
+| cornelius alba | 科尼利厄斯·阿鲁巴 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
