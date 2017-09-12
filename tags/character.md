@@ -5,6 +5,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
+| hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |
 | rider | Rider \| 龙女 | Fate系列英灵<br>《噗哟噗哟》登场角色 |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
 | katsuragi | 葛城 | No.203 ![](https://exhentai.org/t/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg)<br> ![](http://ehgt.org/t/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |
@@ -856,7 +857,7 @@
 | hibari | 云雀 | ![](http://ehgt.org/t/7d/84/7d846acda04c0dcb8c41ddc55f3b1c89ba81f98e-43898-384-480-jpg_l.jpg) |
 | hijikata | 土方 | ![](http://ehgt.org/t/6c/2a/6c2a825a6a8ea0ef220a5a431744ebc23d8929f9-42376-384-480-jpg_l.jpg) |
 | hikage | 日影 | ![](http://ehgt.org/t/0e/3c/0e3c32241d65763b66cbd5e41c665baf9095376b-79377-384-480-jpg_l.jpg) |
-| hisui | 飞彗 | ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |
+| | 飞彗（重复项） | ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |
 | homura | 焰 | ![](http://ehgt.org/t/28/d5/28d5279b5c6ec952dde755d8abdb46d317ca9e96-60354-384-480-jpg_l.jpg) |
 | ibuki | 伊吹 | ![](http://ehgt.org/t/16/35/163597e5bc47a1cf177e4d199a1b3850c6852c84-49556-384-480-jpg_l.jpg) |
 | ikaruga | 斑鸠 | ![](http://ehgt.org/t/93/76/937690e17e67d583042a5ea2b5fc6b305f7192f3-40975-384-480-jpg_l.jpg) |
@@ -1598,10 +1599,18 @@
 | nitocris | 尼托克丽丝 | |
 | alice kuonji | 久远寺有珠 | |
 | aoko aozaki | 苍崎青子 | |
+| touko aozaki | 苍崎橙子 | |
 | leysritt | 莉洁莉特 | |
 | chevalier deon | 迪昂·德·鲍蒙 | |
 | nightingale | 南丁格尔 | |
 | cornelius alba | 科尼利厄斯·阿鲁巴 | |
+| arcueid brunestud | 爱尔奎特·布伦史塔德 | |
+| ciel | 希耶尔 | |
+| satsuki yumizuka | 弓冢五月 | |
+| shiki tohno | 远野志贵 | |
+| akiha tohno | 远野秋叶 | |
+| kohaku | 琥珀 | |
+| sion eltnam atlasia | 紫苑·艾尔特纳姆·阿特拉西亚 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
