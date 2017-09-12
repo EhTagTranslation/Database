@@ -1611,6 +1611,18 @@
 | akiha tohno | 远野秋叶 | |
 | kohaku | 琥珀 | |
 | sion eltnam atlasia | 紫苑·艾尔特纳姆·阿特拉西亚 | |
+| dracula |  | |
+| francis drake | 弗朗西斯·德雷克 | |
+| elizabeth bathory | 伊丽莎白·巴托里 | |
+| hakuno kishinami | 岸波白野 | |
+| hassan of serenity | 静谧之哈桑 | |
+| medb | 梅芙 | |
+| len | 莲 | |
+| miyako arima | 有间都古 | |
+| kuro von einzbern | 克洛伊·冯·爱因兹贝伦 | |
+| luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 | |
+| miyu edelfelt | 美游·艾德费尔特 | |
+| sella | 塞拉 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
