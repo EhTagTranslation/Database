@@ -1634,6 +1634,25 @@
 | fujino asagami | 浅上藤乃 | |
 | mikiya kokutou | 黑桐干也 | |
 | azaka kokutou | 黑桐鲜花 | |
+| martha | 玛尔达 | |
+| ibaraki douji | 茨木童子 | |
+| anne bonny | 安妮·伯妮 | |
+| mary read | 玛莉·瑞德 | |
+| brynhildr | 布伦希尔德 | |
+| cleopatra | 克里奥帕特拉 | |
+| ereshkigal | 埃列什基伽勒 | |
+| helena blavatsky | 海伦娜·布拉瓦茨基 | |
+| leonardo da vinci | 莱昂纳多·达·芬奇 | |
+| marie antoinette | 玛丽·安托瓦内特 | |
+| mata hari | 玛塔·哈丽 | |
+| medusa | 美杜莎 | |
+| musashi miyamoto | 宫本武藏 | |
+| oda nobunaga | 织田信长 | |
+| penthesilea | 彭忒西勒亚 | |
+| semiramis | 赛米拉米斯 | |
+| shuten douji | 酒吞童子 | |
+| souji okita | 冲田总司 | |
+| tiamat | 提亚马特 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
