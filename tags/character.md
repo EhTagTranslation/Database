@@ -1552,9 +1552,16 @@
 | shizuku kitayama | 北山雫 | |
 | suzune ichihara | 市原铃音 | |
 | tatsuya shiba | 司波达也 | |
-| | ▼ Fate/stay night | |
-| rin tosaka | 远坂凛 | |
+| | ▼ Fate 系列 | |
 | saber | Saber | |
+| archer | Archer | |
+| lancer | Lancer | |
+| berserker | Berserker | |
+|  | Rider | （重复项） |
+| caster | Caster | |
+| assassin | Assassin | |
+| shielder | Shielder | |
+| rin tosaka | 远坂凛 | |
 | sakura matou | 间桐樱 | |
 | shirou emiya | 卫宫士郎 | |
 | illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | |
@@ -1562,16 +1569,24 @@
 | kirei kotomine | 言峰绮礼 | |
 | kiritsugu emiya | 卫宫切嗣 | |
 | bazett fraga mcremitz | 巴洁特·法迦·克米兹 | |
-| archer | Archer | |
-| lancer | Lancer | |
-| berserker | Berserker | |
-|  | Rider | （重复项） |
-| caster | Caster | |
-| assassin | Assassin | |
 | taiga fujimura | 藤村大河 | |
 | ayako mitsuzuri | 美缀绫子 | |
 | kane himuro | 冰室钟 | |
 | kaede makidera | 莳寺枫 | |
+| gilgamesh | 吉尔伽美什 | |
+| red saber | 红之Saber | 莫德雷德 |
+| saber alter | Saber Alter | 黑Saber |
+| saber lily | Saber Lily | 白Saber |
+| gudao | 咕哒男 | |
+| gudako | 咕哒子 | |
+| kiyohime | 清姬 | |
+| alexander | 亚历山大 | |
+| scathach | 斯卡哈 | |
+| asterios | 阿斯忒里俄斯 | |
+| boudica | 布狄卡 | |
+| olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | |
+| waver velvet | 韦伯·维尔维特 | |
+| astolfo | 阿斯托尔福 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
