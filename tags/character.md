@@ -5,6 +5,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
+| rider | Rider \| 龙女 | Fate系列英灵<br>《噗哟噗哟》登场角色 |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
 | katsuragi | 葛城 | No.203 ![](https://exhentai.org/t/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg)<br> ![](http://ehgt.org/t/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |
 | kasumi | 霞 |  No.090 ![](https://exhentai.org/t/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg)<br> ![](http://ehgt.org/t/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |
@@ -1551,6 +1552,26 @@
 | shizuku kitayama | 北山雫 | |
 | suzune ichihara | 市原铃音 | |
 | tatsuya shiba | 司波达也 | |
+| | ▼ Fate/stay night | |
+| rin tosaka | 远坂凛 | |
+| saber | Saber | |
+| sakura matou | 间桐樱 | |
+| shirou emiya | 卫宫士郎 | |
+| illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | |
+| shinji matou | 间桐慎二 | |
+| kirei kotomine | 言峰绮礼 | |
+| kiritsugu emiya | 卫宫切嗣 | |
+| bazett fraga mcremitz | 巴洁特·法迦·克米兹 | |
+| archer | Archer | |
+| lancer | Lancer | |
+| berserker | Berserker | |
+|  | Rider | （重复项） |
+| caster | Caster | |
+| assassin | Assassin | |
+| taiga fujimura | 藤村大河 | |
+| ayako mitsuzuri | 美缀绫子 | |
+| kane himuro | 冰室钟 | |
+| kaede makidera | 莳寺枫 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1624,8 +1645,7 @@
 | kanade minamino | 南野奏 | |
 | misora minamino | 南野美空 | |
 | iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 |
-| arle nadja | 阿露露 | 《魔导物语》登场角色 |
-| rider | 龙女 | 《魔导物语》登场角色 |
+| arle nadja | 阿露露 | 《噗哟噗哟》登场角色 |
 | tifa lockhart | 蒂法·洛克哈特 | |
 | aerith gainsborough | 艾瑞丝·盖恩斯巴勒 | |
 | yuffie kisaragi | 尤菲·如月 | |
@@ -1648,11 +1668,8 @@
 | haruka haruno | 春野遥 | |
 | kirara amanogawa | 天之川绮罗 | |
 | lara croft | 劳拉·克罗夫特 | |
-| rin tosaka | 远坂凛 | |
-| saber | Saber | |
 | naoto shirogane | 白钟直斗 | |
 | hajime ichinose | 一之濑初 | |
-| illyasviel von einzbern | 伊莉雅斯菲尔·冯·爱因兹贝伦 | |
 | hitagi senjougahara | 战场原黑仪 | |
 | tsubasa hanekawa | 羽川翼 | |
 | rabi en rose | 拉比安露斯 | |

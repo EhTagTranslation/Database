@@ -548,8 +548,7 @@
 | sakurako-san no ashimoto ni wa shitai ga umatteiru | 樱子小姐的脚下埋着尸体 | |
 | shimoneta to iu gainen ga sonzai shinai taikutsu na sekai | 下流梗不存在的灰暗世界 | |
 | kyonyuu fantasy | 巨乳幻想 | |
-| puyo puyo | 噗哟噗哟 | |
-| madou monogatari | 魔导物语 | |
+| puyo puyo | 噗哟噗哟 | 魔法气泡 |
 | kaku-san-sei million arthur | 扩散性百万亚瑟王 | |
 | genji tsuushin agedama | 电脑小奇侠 | |
 | dennou coil | 电脑线圈 | |
@@ -1053,3 +1052,5 @@
 | rail wars | RAIL WARS! -日本国有铁道公安队- | 《RAIL WARS! -日本国有铁道公安队-》（日语：RAIL WARS! -日本國有鉄道公安隊-）是由丰田巧所著的日本轻小说，バーニア600负责插画。于2012年1月起经创艺社发行。2014年6月起由青文出版社翻译并出版其繁体中文版。 |
 | rokujouma no shinryakusha | 三坪房间的侵略者！？ | 《三坪房间的侵略者！？》（日语：六畳間の侵略者!?）是由健速撰写、由Poko插画，由HJ文库出版发行的日本轻小说作品。已出版本篇26卷、外传2卷。繁体中文版由东立出版社代理发行，简体版则由吉美文化代理、吉林美术出版社出版。到2014年2月在日本发行总数超过50万本。<br>同名改编漫画于Hobby Japan网路漫画网站“COMIC DANGAN”从2013年12月20日开始连载，作画为有池智実。单行本全5本。东立出版社已经代理发行繁体中文版3本。<br>同名改编电视动画于2014年7月到9月在日本播出。 |
 | sabagebu | 生存游戏社 | 《生存游戏社》（日语：さばげぶっ!，英语：Sabagebu!）是由松本英吉于2010年12月1日起在讲谈社发行的少女漫画杂志《Nakayoshi》进行发表的日本漫画作品。 |
+| mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |
+| kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 |
