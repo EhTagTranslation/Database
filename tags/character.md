@@ -1576,7 +1576,7 @@
 | kane himuro | 冰室钟 | |
 | kaede makidera | 莳寺枫 | |
 | gilgamesh | 吉尔伽美什 | |
-| red saber | 红之Saber | 莫德雷德 |
+| red saber | 尼禄·克劳狄乌斯 | |
 | saber alter | Saber Alter | 黑Saber |
 | saber lily | Saber Lily | 白Saber |
 | gudao | 咕哒男 | |
