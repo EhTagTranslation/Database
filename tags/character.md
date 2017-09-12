@@ -1037,6 +1037,7 @@
 | masamune izumi | 和泉正宗 | |
 | megumi jinno | 神野惠 | |
 | muramasa senju | 千寿村征（梅园花） | |
+| tomoe takasago | 高砂智惠 | |
 | | ▼ 超级索尼子 角色 | |
 | super sonico | 超级索尼子 | |
 | super pochaco | 超级帕恰子 | |
@@ -1593,7 +1594,7 @@
 | meltlilith | 溶解莉莉丝 | |
 | passionlip | 热情迷唇 | |
 | ushiwakamaru | 牛若丸  | |
-| tamamo-no-mae | 玉藻前 | |
+| tamamo no mae | 玉藻前 | |
 | jack the ripper | 开膛手杰克 | |
 | jeanne darc | 圣女贞德 | |
 | nitocris | 尼托克丽丝 | |
@@ -1611,7 +1612,7 @@
 | akiha tohno | 远野秋叶 | |
 | kohaku | 琥珀 | |
 | sion eltnam atlasia | 紫苑·艾尔特纳姆·阿特拉西亚 | |
-| dracula |  | |
+| dracula | 德古拉 | |
 | francis drake | 弗朗西斯·德雷克 | |
 | elizabeth bathory | 伊丽莎白·巴托里 | |
 | hakuno kishinami | 岸波白野 | |
@@ -1623,6 +1624,16 @@
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 | |
 | miyu edelfelt | 美游·艾德费尔特 | |
 | sella | 塞拉 | |
+| diarmuid ua duibhne | 迪尔姆德·奥迪那 | |
+| euryale | 尤瑞艾莉 | |
+| irisviel von einzbern | 爱丽丝菲尔·冯·爱因兹贝伦 | |
+| iskandar | 伊斯坎达尔 | |
+| shiki ryougi | 两仪式 | |
+| stheno | 斯忒诺 | |
+| mordred pendragon | 莫德雷德·潘德拉贡 | |
+| fujino asagami | 浅上藤乃 | |
+| mikiya kokutou | 黑桐干也 | |
+| azaka kokutou | 黑桐鲜花 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
