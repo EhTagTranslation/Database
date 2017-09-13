@@ -1676,7 +1676,7 @@
 | takumu mayuzumi | 黛拓武 | |
 | | ▼ 魔法少女奈叶 | |
 | nanoha takamachi | 高町奈叶 | |
-| fate testarossa | 菲特·泰斯特罗莎·哈拉温 | |
+| fate testarossa | 菲特·泰斯特罗莎 | |
 | einhart stratos | 艾茵哈特·斯崔特斯 | |
 | rinne berlinetta | 凛音·贝利内塔 | |
 | vivio takamachi | 高町薇薇欧 | |
@@ -1690,6 +1690,30 @@
 | corona timil | 珂罗娜·缇米尔 | |
 | aruf | 艾尔芙 | |
 | zafira | 扎斐拉 | |
+| alisa bannings | 爱丽莎·巴尼斯 | |
+| kyrie florian | 琦莉耶·弗洛利安 | |
+| amitie florian | 阿米蒂埃·弗洛利安 | |
+| precia testarossa | 普蕾茜亚·泰斯特罗莎 | |
+| alicia testarossa | 阿丽西亚·泰斯塔罗莎 | |
+| lindy harlaown | 琳蒂·哈拉温 | |
+| chrono harlaown | 克洛诺·哈洛温 | |
+| caro ru lushe | 凯珞·露·露茜 | |
+| ginga nakajima | 银河·中岛 | |
+| subaru nakajima | 昴·中岛 | |
+| suzuka tsukimura | 月村铃鹿 | |
+| teana lanster | 蒂安娜·兰斯达 | |
+| uno | 乌诺 | 1 |
+| due | 都艾 | 2 |
+|  | 托蕾 | 3 |
+|  | 柯瓦特罗 | 4 |
+| cinque | 琴柯 | 5 |
+| sein | 萨依 | 6 |
+|  | 塞缇 | 7 | 
+|  | 欧特 | 8 | 
+| nove | 诺威 | 9 |
+| dieci | 迪艾琦 | 10 |
+| wendi | 温蒂 | 11 |
+| deed | 蒂多 | 12 |、
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
