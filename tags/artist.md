@@ -1565,3 +1565,14 @@
 | teterun | ててるん | |
 | fuetakishi | フエタキシ | |
 | purukogi | プルコギ | |
+| sawaki koma | 沢木コマ | |
+| ohtsuki tohru | 大槻とおる | |
+| hidebou | ひでぼう | |
+| kiyose kaoru | キヨセ薫 | |
+| asanagi | 朝凪 | |
+| kikunyi | 菊にぃ | |
+| lasto | らすと～ | |
+| yoroduya hyakuhachi | 万屋百八 | |
+| takapiko | たかぴこ | |
+| kobayashi chisato | 小林ちさと | |
+| siomidu | しおみづ | |

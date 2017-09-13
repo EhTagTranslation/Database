@@ -15,6 +15,7 @@
 | angel beats | Angel Beats!❤ | 麻枝准原创动画第一部<br>![图](http://exhentai.org/t/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg)![图](http://ul.ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg) |
 | charlotte | Charlotte🌠 | 麻枝准原创动画第二部<br>![图](http://ul.ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |
 | little busters | Little Busters!⚾🐈 | 独自难以忍受，紧紧牵住了伙伴的手。两个人仍显孤单，与更多的伙伴手牵手围成个圈。<br />>![图](http://ehgt.org/t/f4/a6/f4a61ec5bd42e9b09ef3f66a354c6252f6963acf-135503-530-530-jpg_l.jpg)![图](http://ehgt.org/t/e6/ee/e6eee3124423f153bc01a2684910176f5281c284-109401-320-460-jpg_l.jpg) |
+| rewrite | Rewrite | 《Rewrite》（日语：リライト）是由Key(key)创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](http://ehgt.org/t/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](http://ehgt.org/t/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](http://ehgt.org/t/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg)  |
 |  | ▲Key社作品 | |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | ![俺妹](https://img.acg.moe/common/thumb/7/7d/Oreimo.jpg/250px-Oreimo.jpg)![图](http://exhentai.org/t/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg) |
 | toaru majutsu no index | 魔法禁书目录📖 | ![图](http://ul.ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |
@@ -161,7 +162,6 @@
 | new game | NEW GAME! | ![](http://ehgt.org/t/8a/b2/8ab2a1de7970ecbf55fcd2dc9c9c75f7998cac08-2053002-4085-5972-jpg_l.jpg)![](http://ehgt.org/t/0d/9c/0d9c2c32234f7fdb784209cbd99d646dd81a12f3-1537330-5709-3890-jpg_l.jpg) |
 | shirobako | 白箱 | ![](http://ehgt.org/t/8d/b7/8db7b86abf6e6b25c65c7f09fc715be284a27afb-1664386-2887-4089-jpg_l.jpg) |
 | girlish number | 少女编号 | ![](http://ehgt.org/t/be/17/be17508226eff3cc6da1031a9772ac1bb5b098b7-1214127-1447-2039-jpg_l.jpg) |
-| rewrite | Rewrite | 《Rewrite》（日语：リライト）是由Key(key)创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](http://ehgt.org/t/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](http://ehgt.org/t/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](http://ehgt.org/t/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg)  |
 | gabriel dropout | 珈百璃的堕落 | ![](https://ehgt.org/t/74/d9/74d9c6ba5b5def00d61be5e9b796b84d20463434-1720223-1280-720-png_l.jpg)![珈百璃的堕落](https://ehgt.org/t/91/23/9123b88a8dbd40759f5329915feade721bc168eb-1737901-1280-720-png_l.jpg) |
 | chobits | 人形电脑天使心 | ![](http://ehgt.org/t/28/c4/28c4aa2d1ef09c6b6a0abdd2147dd64a825c59a0-94519-726-843-jpg_l.jpg) |
 | dead or alive | 死或生 | 生死格斗<br>![](http://exhentai.org/t/2e/ce/2ece300869bc9c5e67fc444a75940a4735402d75-3336657-1080-1920-png_l.jpg) |
@@ -185,6 +185,10 @@
 | fate extra | Fate/EXTRA | ![](http://ehgt.org/t/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) |
 | fate extella | Fate/EXTELLA | 《Fate/EXTELLA》是由Marvelous制作发行的一款ACT游戏，于2016年11月10日登陆PS4/PSV，亚洲中韩文合版于2016年12月15日发售。并于2017年7月20日登陆Nintendo Switch，且内置索尼互动娱乐台湾中文化中心翻译的繁体中文语言。2017年7月26日，在Steam平台发售PC版，内置繁体中文语言，并开放DLC（皮肤）购买。 |
 | fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg) |
+| mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |
+| kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 |
+| canaan | 迦南 | 《CANAAN》，中译迦南，是以日本视觉小说游戏《428 ～被封锁的涩谷～》的世界观为基础，相当于其续作的，以中国上海为舞台，由TYPE-MOON担当脚本及人设，P.A.WORKS公司制作的一部电视动画，共13集。2009年7月4日－2009年9月26日在日本播放。最初发表的标题为“428 the animation”。 同名的漫画也在《月刊CompAce》上开始连载。此外，电视动画播毕后，还有3部相关的剧场版计划上映。 |
+| tsukihime | 月姬 | 《月姬》（日语：つきひめ）是日本同人社团TYPE-MOON在2000年推出的一款十八禁美少女游戏，平台为个人电脑的Windows操作系统。 |
 |  | ▲Type-Moon 系列 | |
 | kimi no na wa. | 你的名字。 | ![](http://ehgt.org/t/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) |
 | mashiro iro symphony | 纯白交响曲 | ![](http://ehgt.org/t/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |
@@ -593,7 +597,6 @@
 | sentimental graffiti | 青涩宝贝 | |
 | bleach | 死神 | |
 | hayate no gotoku | 旋风管家 | |
-| tsukihime | 月姬 | |
 | yoake mae yori ruriiro na | 更胜黎明前的琉璃色 | |
 | fortune arterial | FORTUNE ARTERIAL | |
 | princess holiday | 公主假日 \~回转苹果亭的一千零一夜\~ | |
@@ -1053,10 +1056,8 @@
 | rail wars | RAIL WARS! -日本国有铁道公安队- | 《RAIL WARS! -日本国有铁道公安队-》（日语：RAIL WARS! -日本國有鉄道公安隊-）是由丰田巧所著的日本轻小说，バーニア600负责插画。于2012年1月起经创艺社发行。2014年6月起由青文出版社翻译并出版其繁体中文版。 |
 | rokujouma no shinryakusha | 三坪房间的侵略者！？ | 《三坪房间的侵略者！？》（日语：六畳間の侵略者!?）是由健速撰写、由Poko插画，由HJ文库出版发行的日本轻小说作品。已出版本篇26卷、外传2卷。繁体中文版由东立出版社代理发行，简体版则由吉美文化代理、吉林美术出版社出版。到2014年2月在日本发行总数超过50万本。<br>同名改编漫画于Hobby Japan网路漫画网站“COMIC DANGAN”从2013年12月20日开始连载，作画为有池智実。单行本全5本。东立出版社已经代理发行繁体中文版3本。<br>同名改编电视动画于2014年7月到9月在日本播出。 |
 | sabagebu | 生存游戏社 | 《生存游戏社》（日语：さばげぶっ!，英语：Sabagebu!）是由松本英吉于2010年12月1日起在讲谈社发行的少女漫画杂志《Nakayoshi》进行发表的日本漫画作品。 |
-| mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |
-| kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 |
 | occultic nine | 超自然9人组 | 《超自然9人组》（Occultic;Nine -オカルティック・ナイン-）是一部由志仓千代丸主创的多媒体作品，“超常科学NVL”企划的第一作，以超自然现象为主题。 |
-| canaan | 迦南 | 《CANAAN》，中译迦南，是以日本视觉小说游戏《428 ～被封锁的涩谷～》的世界观为基础，相当于其续作的，以中国上海为舞台，由TYPE-MOON担当脚本及人设，P.A.WORKS公司制作的一部电视动画，共13集。2009年7月4日－2009年9月26日在日本播放。最初发表的标题为“428 the animation”。 同名的漫画也在《月刊CompAce》上开始连载。此外，电视动画播毕后，还有3部相关的剧场版计划上映。 |
 | fist of the north star | 北斗神拳 | 《北斗神拳》（日文：北斗の拳），日本格斗漫画，武论尊原著，原哲夫漫画。1983年至1988年间于《少年Jump周刊》连载。单行本全27卷由集英社出版，并曾经改编成动画和电玩游戏。故事风格架构深深受到1981年上映的《冲锋飞车队2MAD MAX 2》影响，讲述在人类文明毁于核子战争的未来，存活下来的人类过着弱肉强食的生活，直到出现了一个胸口带着北斗七星状伤痕，古老中国神秘暗杀拳法——北斗神拳的传人——拳四郎（也译作健次郎等。由前传《苍天之拳》得知其汉字名称应为拳志郎，ケンシロウ）成为救世主。 |
 | monster girl quest | 勇者大战魔物娘 | 《勇者大战魔物娘》（日语：もんむす・くえすと！，简称：勇战）是由日本游戏制作公司sakura（とろとろレジスタンス）制作并于2012年9月发行的一部R-18人外冒险同人游戏。目前已推出第一部外传的前章。  |
 | ghost sweeper mikami | GS美神 极乐大作战！！ | 《GS美神 极乐大作战！！》（日语：GS美神 極樂大作戰！！，英语：Ghost Sweeper Mikami: The Great Paradise Battle!!）是日本漫画家椎名高志在小学馆《周刊少年Sunday》的连载漫画作品，发表于1991年第30号至1999年第41号。2013年后来以新作短篇形式发表（后述）。连载时话数的单位是用“REPORT.○”。 |
+| shining blade | 光明之刃 | 《光明之刃》（日语：シャイニング・ブレイド）是由世嘉所开发的战略角色扮演游戏，对应平台为PlayStation Portable，于2012年3月15日发售，和前三作（泪、风、心）一样，依旧由Tony负责人物设计。战斗系统与《战场女武神》系列类似。 |

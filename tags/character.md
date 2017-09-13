@@ -5,6 +5,7 @@
 | 英文原名 | 中文名 | 简介 |
 | -------- | ---------------------- | ---------------------------------------- |
 | | ▼ 重复项合并 | |
+| yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |
 | rider | Rider \| 龙女 | Fate系列英灵<br>《噗哟噗哟》登场角色 |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |
@@ -1653,6 +1654,26 @@
 | shuten douji | 酒吞童子 | |
 | souji okita | 冲田总司 | |
 | tiamat | 提亚马特 | |
+| | ▼ 刀剑神域 | |
+| asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  |
+| kazuto kirigaya | 桐谷和人 | |
+| suguha kirigaya | 桐谷直叶 | |
+| lyfa | 莉法 | |
+| shino asada | 朝田诗乃 | |
+| keiko ayano | 绫野珪子 | |
+| rika shinozaki | 筱崎里香 | |
+|  | 结衣（重复项） | |
+| nagata shinichi | 长田伸一 | |
+| alicia rue | 亚丽莎·露 | |
+| sakuya | 咲夜 | |
+| | ▼ 加速世界 | |
+| kuroyukihime | 黑雪姬 | |
+| haruyuki arita | 有田春雪 | |
+| yuniko kouzuki | 上月由仁子 | |
+| chiyuri kurashima | 仓岛千百合 | |
+| akira himi | 冰见晶 | |
+| fuuko kurasaki | 仓崎枫子 | |
+| takumu mayuzumi | 黛拓武 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1778,7 +1799,6 @@
 | maribel | 玛丽贝尔 | |
 | precia zan zenosakis | 普蕾茜娅・泽诺萨奇斯 | |
 | ruka urushibara | 漆原琉华 | |
-| suguha kirigaya | 桐谷直叶 | |
 | yui takamura | 篁唯依 | |
 | nico robin | 妮可·罗宾 | |
 | saint shalulia | 夏露莉雅宫 | |
@@ -1843,8 +1863,6 @@
 | kurumi kumamakura | 熊枕久瑠美 | |
 | mai kawakami | 川神舞 | |
 | priscilla barielle | 普莉希拉·跋利耶尔 | |
-| kazuto kirigaya | 桐谷和人 | |
-| lyfa | 莉法 | |
 | koyomi araragi | 阿良良木历 | |
 | roomi | 萝米 | |
 | martial artist | 武斗家 | |
@@ -1856,7 +1874,6 @@
 | king | 琼 | |
 | dark magician girl | 黑魔术少女 | |
 | silent magician | 沉默魔术师 | |
-| asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  |
 | marcille | 玛露西露 | |
 | millhiore firianno biscotti | 米尔奥蕾·菲里安诺·比斯科迪 | |
 | fumina hoshino | 星野文奈 | |
