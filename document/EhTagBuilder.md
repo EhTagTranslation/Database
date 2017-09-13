@@ -58,14 +58,11 @@ Chrome需要新建一个样式，然后选择导入 Mozilla 格式。
 
 ![附加组件管理器上](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3smvltaadj20dv05bwex.jpg)
 
-为方便修改设置后快速重新生成，目前版本在同一页面上不会重复获取数据库，需要重新获取数据库先刷新页面再获取。Wiki编辑者在保存Wiki页面的时候就刷新了，不需重复刷新。若不确定，观察运行程序是否会出现获取进度窗口即可。
+在同一页面上不会重复获取数据库，需要重新获取数据库先刷新页面再获取。  
+Wiki编辑者在保存Wiki页面的时候就刷新了，不需重复刷新。若不确定，观察运行程序是否会出现获取进度窗口即可。
 
 ## 编辑Wiki添加翻译
-
-
-[链接地址](https://github.com/Mapaler/EhTagTranslator/wiki)
-
-![Wiki地址](https://raw.githubusercontent.com/wiki/Mapaler/EhTagTranslator/document/images/where%20is%20wiki.png)
+详见[译文数据库介绍](Home)
 
 ## License|许可协议
 ### EhTagTranslator Copyright(C) 2016 by Mapaler
