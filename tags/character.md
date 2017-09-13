@@ -1702,18 +1702,19 @@
 | subaru nakajima | 昴·中岛 | |
 | suzuka tsukimura | 月村铃鹿 | |
 | teana lanster | 蒂安娜·兰斯达 | |
+| lutecia alpine | 璐缇希雅·阿尔菲诺 | |
 | uno | 乌诺 | 1 |
 | due | 都艾 | 2 |
 |  | 托蕾 | 3 |
 |  | 柯瓦特罗 | 4 |
 | cinque | 琴柯 | 5 |
 | sein | 萨依 | 6 |
-|  | 塞缇 | 7 | 
+| sette | 塞缇 | 7 | 
 |  | 欧特 | 8 | 
 | nove | 诺威 | 9 |
 | dieci | 迪艾琦 | 10 |
 | wendi | 温蒂 | 11 |
-| deed | 蒂多 | 12 |、
+| deed | 蒂多 | 12 |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
