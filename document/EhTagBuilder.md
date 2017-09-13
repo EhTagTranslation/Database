@@ -65,7 +65,7 @@ Chrome需要新建一个样式，然后选择导入 Mozilla 格式。
 
 [链接地址](https://github.com/Mapaler/EhTagTranslator/wiki)
 
-![Wiki地址](https://raw.githubusercontent.com/wiki/Mapaler/EhTagTranslator/document/images/where is wiki.png)
+![Wiki地址](https://raw.githubusercontent.com/wiki/Mapaler/EhTagTranslator/document/images/where%20is%20wiki.png)
 
 ## License|许可协议
 ### EhTagTranslator Copyright(C) 2016 by Mapaler
