@@ -1674,6 +1674,22 @@
 | akira himi | 冰见晶 | |
 | fuuko kurasaki | 仓崎枫子 | |
 | takumu mayuzumi | 黛拓武 | |
+| | ▼ 魔法少女奈叶 | |
+| nanoha takamachi | 高町奈叶 | |
+| fate testarossa | 菲特·泰斯特罗莎·哈拉温 | |
+| einhart stratos | 艾茵哈特·斯崔特斯 | |
+| rinne berlinetta | 凛音·贝利内塔 | |
+| vivio takamachi | 高町薇薇欧 | |
+| yuuno scrya | 尤诺·斯克莱亚 | |
+| hayate yagami | 八神疾风 | |
+| shamal | 莎玛尔 | |
+| signum | 希格纳姆 | |
+| vita | 维塔 | |
+| reinforce | 琳芙斯 | |
+| fuka reventon | 风香·雷文顿 | |
+| corona timil | 珂罗娜·缇米尔 | |
+| aruf | 艾尔芙 | |
+| zafira | 扎斐拉 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
