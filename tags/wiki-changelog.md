@@ -7,4 +7,7 @@
 
 ### version 2 @ [2016/06/06](https://github.com/Mapaler/EhTagTranslator/wiki/_compare/533d5e20bece0c3bc84e1987994fe6ade030f2f9)
 1.  新增隐藏图片格式  
+
+### version 1 @ [2016/05/25](https://github.com/Mapaler/EhTagTranslator/wiki/_compare/18b79c1314f53315e96793834550af9692f346c6)
+1.  首次记录版本  
 1.  新增注释格式
