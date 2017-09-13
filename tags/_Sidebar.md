@@ -1,9 +1,8 @@
 ﻿* [EhTagTranslater项目整体介绍](使用文档)
 * [译文数据库介绍](Home)  
     * [数据库版本信息](wiki-version)
-    * [数据库修改记录](wiki-changelog)
-    
-    请参照格式参与修改  
+    * [数据库修改记录](wiki-changelog)  
+  请参照格式参与修改  
     * [行名](rows)(完成)
     * [艺术家](artist)
     * [团队](group)
