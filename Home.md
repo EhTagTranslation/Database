@@ -28,7 +28,7 @@
 * 为了维护本项目的和谐，在本项目任何GitHub页面图中**禁止直接显示限制级画面**，包含色情、暴力血腥等。目前关于H的评定，搞基需要比百合更严格，即便是穿着衣服的耽美也算限制级画面。
 * 任何编辑者发现有直接显示的H图，或文字简介中出现侮辱他人，以及过于丑恶的词汇，都有义务修改掉或删除该简介，大家共同监督维护才能延续项目的生命。
 * 中文名图标，建议使用Emoji，不会受到图片高度影响，推荐使用[Emoji键盘](https://emojikeyboard.org/)，也可参考[Unicode官方列表](http://www.unicode.org/Public/emoji/5.0/emoji-test.txt)。  
-  使用图片时，为避免影响排版，高度禁止超过16px，推荐12px以下。如下图为16px  
+  使用图片时，为避免影响排版，高度禁止超过16px，推荐12px以下。如下图为16px，明显影响排版。  
   ![图文混编](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tviu3ys8j20cl084dh8.jpg)
 * 引用其他Tag的翻译时，使用`中文名(英文名)`的书写方式，如`萝莉(lolicon)`，方便查找其他Tag。
 * 同一实质作品、人物不同翻译时，优先保留官方翻译，其他翻译可写在简介，如保留“精灵宝可梦”而不是“宠物小精灵”、“神奇宝贝”、“口袋妖怪”。
@@ -119,7 +119,7 @@ Wiki中英文名只能填写真实Tag部分
 远端URL填写`git@github.com:Mapaler/EhTagTranslator.wiki.git`。
 
 可视化MarkDown编辑器推荐使用[CuteMarkEd](http://cloose.github.io/CuteMarkEd/)，首次打开需选择“设置-样式-Github”。  
-纯文本MarkDown编辑器推荐使用[Visual Studio Code](https://code.visualstudio.com)。  
+纯文本MarkDown编辑器推荐使用[Visual Studio Code](https://code.visualstudio.com)，目前也已支持可视化，需要点一下右上角的侧边预览按钮。  
 Git GUI推荐使用[TortoiseGit](https://tortoisegit.org/)。更多Git GUI请见https://git-scm.com/downloads/guis  
 ![TortoiseGit设置](http://ww2.sinaimg.cn/large/6c84b2d6gy1fg6nbvxqeij20kl0egwkh.jpg)   
  
