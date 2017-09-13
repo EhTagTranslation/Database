@@ -1,5 +1,6 @@
 ﻿* [EhTagTranslater项目整体介绍](使用文档)
 * [译文数据库介绍](Home)  
+    * [数据库版本信息及修改记录](wiki-version)
     请参照格式参与修改  
     * [行名](rows)(完成)
     * [艺术家](artist)
