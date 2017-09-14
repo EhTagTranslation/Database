@@ -2,7 +2,7 @@
 * [译文数据库介绍](Home)  
     * 数据库结构信息
         * [版本信息](wiki-version)
-        * [修改记录](wiki-changelog)  
+        * [说明](wiki-version-info)  
     * 数据库内容  
       请参照格式参与修改  
         * [行名](rows)(完成)
