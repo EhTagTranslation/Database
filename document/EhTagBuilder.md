@@ -7,10 +7,10 @@ EhTagBuilder简称“ETB”。
 
 ## 需要先准备的运行环境需求
 1. 用户脚本扩展，用于安装EhTagBuilder，从翻译数据库生成CSS。
-   * [![](https://www.mozilla.org/media/img/firefox/favicon.dc6635050bf5.ico)FireFox](http://www.firefox.com)安装[![](https://github.com/greasemonkey/greasemonkey/raw/master/skin/icon32.png)GreaseMonkey](http://www.greasespot.net/)扩展。
+   * [![](https://www.mozilla.org/media/img/firefox/favicon.dc6635050bf5.ico)FireFox](http://www.firefox.com)安装[![](https://github.com/greasemonkey/greasemonkey/raw/master/skin/icon32.png)GreaseMonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)扩展。
    * ![](http://www.chromium.org/_/rsrc/1438879449147/config/customLogo.gif)Chromium系安装[![](https://addons.cdn.mozilla.net/user-media/addon_icons/683/683490-64.png?modified=1463757971)Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN)扩展。
 2. 用户样式扩展，用于运行执行翻译的CSS。
-   * 安装[![](https://addons.cdn.mozilla.net/user-media/addon_icons/2/2108-64.png?modified=1453837884)Stylish](https://userstyles.org/)扩展（两浏览器都有）。
+   * 安装[![](https://addons.cdn.mozilla.net/user-media/addon_icons/2/2108-64.png?modified=1453837884)Stylish](https://userstyles.org/)扩展（两浏览器都有，见网页底部）。
 
 
 
