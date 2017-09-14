@@ -2,7 +2,7 @@
 
 ## 版本说明
 
-Wiki 数据库结构版本存储于 [`rows/wiki-version.md`](wiki-version) 中。
+Wiki 数据库结构版本存储于 [`tags/wiki-version.md`](wiki-version) 中。
 
 数据库结构版本指数据库目录结构、内容格式等的定义版本，与 Wiki 数据库的数据本身无关。
 
