@@ -1715,6 +1715,24 @@
 | dieci | 迪艾琦 | 10 |
 | wendi | 温蒂 | 11 |
 | deed | 蒂多 | 12 |
+| | ▼ 逆转裁判 | |
+| kazuma asougi | 亚双义一真 | |
+| ryuunosuke naruhodou | 成步堂龙之介 | |
+| phoenix wright | 成步堂龙一 | |
+| trucy wright | 成步堂美贯 | |
+| apollo justice | 王泥喜法介 | |
+| maya fey | 绫里真宵 | |
+| mia fey | 绫里千寻 | |
+| pearl fey | 绫里春美 | |
+| athena cykes | 希月心音 | |
+| dick gumshoe | 糸锯圭介 | |
+| ema skye | 宝月茜 | |
+| franziska von karma | 狩魔冥 | |
+| miles edgeworth | 御剑怜侍 | |
+| kristoph gavin | 牙琉雾人 | |
+| klavier gavin | 牙琉响也 | |
+| adrian andrews | 华宫雾绪 | |
+| kay faraday | 一条美云 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
