@@ -12,6 +12,10 @@ Wiki 数据库结构版本存储于 [`tags/wiki-version.md`](wiki-version) 中�
 
 ## 变更记录
 
+### version 3.5 @ [2017/09/14](https://github.com/Mapaler/EhTagTranslator/wiki/wiki-version/fcb5a180e6a233efe5a475411ef915f4e06f0e85)
+1.  版本信息准备迁移到新格式  
+1.  `wiki-changelog.md` 改名为 `wiki-version-info.md`  
+
 ### version 3 @ [2017/09/13](https://github.com/Mapaler/EhTagTranslator/wiki/_compare/f22d6e7138b948d5226b579579881bd67f1a36eb)
 1.  移动版本信息至独立文件 `wiki-version.md`  
 1.  移动 `rows.md` 到 `tags/rows.md`  
@@ -19,7 +23,7 @@ Wiki 数据库结构版本存储于 [`tags/wiki-version.md`](wiki-version) 中�
 
 ### version 2 @ [2016/06/06](https://github.com/Mapaler/EhTagTranslator/wiki/_compare/533d5e20bece0c3bc84e1987994fe6ade030f2f9)
 1.  新增隐藏图片格式  
-1.  新增注释格式
 
 ### version 1 @ [2016/05/25](https://github.com/Mapaler/EhTagTranslator/wiki/_compare/18b79c1314f53315e96793834550af9692f346c6)
 1.  首次记录版本  
+1.  新增注释格式
