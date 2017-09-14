@@ -1734,6 +1734,19 @@
 | adrian andrews | 华宫雾绪 | |
 | kay faraday | 一条美云 | |
 | sherlock holmes | 夏洛克·福尔摩斯 | |
+| | ▼ 凉宫春日的忧郁 | |
+| haruhi suzumiya | 凉宫春日 | |
+| kyon | 阿虚 | |
+| kyonko | 虚子 | |
+| kyon no imouto | 虚妹 | |
+| emiri kimidori | 喜绿江美里 | |
+| mikuru asahina | 朝比奈实玖瑠 | |
+| ryoko asakura | 朝仓凉子 | |
+| tsuruya | 鹤屋 | |
+| yuki nagato | 长门有希 | |
+| itsuki koizumi | 古泉一树 | |
+| kunikida | 国木田 | |
+| taniguchi | 谷口 | |
 | | ▼ 未分类 | |
 | mumei | 无名 | |
 | ayane | 绫音 | |
@@ -1927,7 +1940,6 @@
 | roomi | 萝米 | |
 | martial artist | 武斗家 | |
 | thief | 盗贼 | |
-| haruhi suzumiya | 凉宫春日 | |
 | nera briscoletti | 芙萝菈 | |
 | crimson viper | 深红毒蛇 | |
 | blue mary | 布鲁玛丽 | |
