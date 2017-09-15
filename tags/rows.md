@@ -1,4 +1,6 @@
-﻿本页储存TAG列表的行名
+﻿**已弃用** 数据库已经移动到 `database` 文件夹，此文件将在下一版本删除。
+
+本页储存TAG列表的行名
 
 | 英文原名 | 中文名 | 简介 |
 | --- | --- | --- |
@@ -13,5 +15,5 @@
 | misc | 杂项 | 两性/中性的恋物标签或没有具体分类的标签，可以[在此](https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员添加新的标签或将标签移动到正确分类 |
 
 # Wiki 数据库版本信息
-**已弃用** 版本信息现在已经移动到 [tags/wiki-version.md](wiki-version)，此信息将会在下一版被移除，参见[变更记录](wiki-version-info#变更记录) 。   
+**已弃用** 版本信息现在已经移动到 [version.md](version)，此信息将会在下一版被移除，参见[变更记录](wiki-version-info#变更记录) 。   
 版本：<a href="ETB_wiki-version">3</a>

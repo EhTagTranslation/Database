@@ -1,4 +1,6 @@
-﻿* [EhTagTranslater项目整体介绍](使用文档)  
+﻿**已弃用** 数据库已经移动到 `database` 文件夹，此文件将在下一版本删除。
+
+* [EhTagTranslater项目整体介绍](使用文档)  
 * [译文数据库介绍](Home)
 * [数据库内容](rows)  
     * [版本信息](wiki-version)([?](wiki-version-info))  
