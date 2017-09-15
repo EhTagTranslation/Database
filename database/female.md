@@ -416,7 +416,7 @@
 | pillory | 枷具 | 限制头部和手运动的装置，一般是木制的。需要束缚(bondage)标签。 | |
 | pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 | |
 | real doll | 充气娃娃 | 现实世界中的用于性目的的等身大玩偶。不应与全身套装(kigurumi)混淆。 | |
-| sex toys | 性玩具 | 用于性目的的玩具。不包括穿戴式阳具(strap-on)和飞机杯(onahole)。<br>![图](http://exhentai.org/t/c9/53/c95392bc2f14694ce5225ec974466aae44e2c4ac-471557-800-600-jpg_l.jpg)![图](http://exhentai.org/t/2d/80/2d803b3021710c9a41ac2db350c32309c0418ba7-151748-694-1000-jpg_l.jpg) | |
+| sex toys | ![双截龙](http://wx3.sinaimg.cn/small/6c84b2d6gy1fjkta6t2qrg200f00c030.gif)性玩具 | 用于性目的的玩具。不包括穿戴式阳具(strap-on)和飞机杯(onahole)。<br>![图](http://exhentai.org/t/c9/53/c95392bc2f14694ce5225ec974466aae44e2c4ac-471557-800-600-jpg_l.jpg)![图](http://exhentai.org/t/2d/80/2d803b3021710c9a41ac2db350c32309c0418ba7-151748-694-1000-jpg_l.jpg) | |
 | speculum | 扩张器 | 用于扩张诸如肛门或阴道等体腔的医疗装置。<br>![图](http://exhentai.org/t/5e/22/5e22062c47dd9112c63c996a5e1b79f25320c1f9-248686-579-819-jpg_l.jpg)![图](http://exhentai.org/t/19/70/19705183385b0ccba4f219aef6028c898534a64c-1070313-2124-3000-jpg_250.jpg)![图](http://exhentai.org/t/cb/90/cb90dd58fefb28fc15a653424e8ded29c26239ad-154666-800-600-jpg_l.jpg) | |
 | strap-on | 穿戴式阳具 | 可以附着的阳具。很可能是爆菊(pegging)或百合(yuri)的环节。不应与性玩具(sex toys)混淆。 | |
 | syringe | 注射器 | 由管、柱塞和连接的针组成的工具。用于注射液体。常与药物(drugs)或乳房膨胀(breast expansion)一起使用。 | |
