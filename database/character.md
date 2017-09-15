@@ -945,6 +945,7 @@
 | hotaru shidare | 枝垂萤 | | |
 | kokonotsu shikada | 鹿田九 | | |
 | saya endou | 远藤彩 | | |
+| hajime owari | 尾张一 | | |
 | | ▼ NEW GAME! 角色 | | |
 | aoba suzukaze | 凉风青叶 | ![凉风青叶](http://ehgt.org/t/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) | |
 | hifumi takimoto | 泷本日富美 | ![泷本日富美](http://ehgt.org/t/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg) | |
