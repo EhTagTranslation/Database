@@ -1753,6 +1753,9 @@
 | manaka takane | 高岭爱花 | | [萌娘百科](https://zh.moegirl.org/高岭爱花) |
 | nene anegasaki | 姐崎宁宁 | | [萌娘百科](https://zh.moegirl.org/姐崎宁宁) |
 | rinko kobayakawa | 小早川凛子 | | [萌娘百科](https://zh.moegirl.org/小早川凛子) |
+| | ▼ 真爱记录 | | |
+| mariana prinsilla | 玛莉安娜·普林希拉 |  |  |
+| miu sagara | 相良美宇 |  |  |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
