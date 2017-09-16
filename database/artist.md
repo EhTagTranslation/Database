@@ -1583,7 +1583,7 @@
 | sakurazuki masaru | 桜月マサル | | |
 | uchuu teiou | 宇宙帝王 | | |
 | zundarepon | ズンダレぽん | | |
-| chokoboll mukakoi. | チョコボール向囲。 | | |
+| chokoboll mukakoi. | チョコボール向囲。 | | [Twitter](https://twitter.com/chokoboll) [Pixiv](https://www.pixiv.net/member.php?id=114256) |
 | majirou | まじろー | | |
 | nemui neru | 眠井ねる | | |
 | takato kurosuke | 高遠くろ助 | | |
