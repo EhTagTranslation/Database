@@ -1748,6 +1748,11 @@
 | itsuki koizumi | 古泉一树 | | |
 | kunikida | 国木田 | | |
 | taniguchi | 谷口 | | |
+| | ▼ 爱相随 | | |
+| akira yukino | 雪乃玲 | | [百度百科](https://baike.baidu.com/item/雪乃玲) |
+| manaka takane | 高岭爱花 | | [萌娘百科](https://zh.moegirl.org/高岭爱花) |
+| nene anegasaki | 姐崎宁宁 | | [萌娘百科](https://zh.moegirl.org/姐崎宁宁) |
+| rinko kobayakawa | 小早川凛子 | | [萌娘百科](https://zh.moegirl.org/小早川凛子) |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
