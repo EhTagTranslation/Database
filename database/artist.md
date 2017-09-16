@@ -1577,3 +1577,13 @@
 | takapiko | たかぴこ | | |
 | kobayashi chisato | 小林ちさと | | |
 | siomidu | しおみづ | | |
+| fudou ran | 不动乱 | | |
+| ikuya daikokudou | 几夜大黑堂 | | [Pixiv](http://www.pixiv.net/member.php?id=464765) |
+| kaduchi | カヅチ | | |
+| sakurazuki masaru | 桜月マサル | | |
+| uchuu teiou | 宇宙帝王 | | |
+| zundarepon | ズンダレぽん | | |
+| chokoboll mukakoi. | チョコボール向囲。 | | |
+| majirou | まじろー | | |
+| nemui neru | 眠井ねる | | |
+| takato kurosuke | 高遠くろ助 | | |

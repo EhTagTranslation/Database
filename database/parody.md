@@ -1066,3 +1066,8 @@
 | saint tail | 怪盗圣少女 | 《怪盗Saint Tail》（日语：怪盗 セイント・テール，又译怪盗圣少女），是日本漫画家立川惠的少女漫画作品，自1994年至1996年间连载于讲谈社旗下的漫画杂志《Nakayoshi》，共24话（特别篇另计），另发行了单行本共7册。本作品后来被改编成电视动画，由朝日放送、电通、TMS娱乐联合制作，自1995年10月12日至1996年9月12日在ANN系列首播，共43集。<vr>在香港，该动画曾于1997年在香港有线电视儿童台及亚洲电视本港台首播。台湾播映权是由中国电视公司取得，首播期间为2000年5月15日至2001年3月26日，八大综合台亦有重播。中国天津电视台少儿频道也曾以《圣少女》片名播放该动画，不过只播放38集。 | |
 | kyouran kazoku nikki | 狂乱家族日记 | 《狂乱家族日记》是日日日在Fami通文库出版的轻小说。插画家为x6suke。第六届Enterbrain“Entame大奖”佳作。 | |
 | 2x2 shinobuden | 酷伊忍者传 | 动画《酷伊忍者传》（2x2 = Shinobuden）改编自古贺亮一发表在《月刊Comic电击大王》，发刊号2000年8月号 - 2006年3月号的漫画作品。全12集。 | |
+| marriage royale | 皇家新娘 | 《皇家新娘》是由著名美少女游戏厂商Navel，连同美少女动漫游戏杂志《電撃G's magazine》协力制作，在加上读者参与诞生的企划，企划于2006年展开，其中一大特色在于里面的女主角都是从读者投稿选拔出来的地区女生，同名漫画《皇家新娘 棱镜物语》于09年连载，PSP游戏版如今亦正式呈现在玩家的眼前。 | |
+| beat angel escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer) |
+| mahou senshi sweet knights | 魔法战士 Sweet Knights |  | |
+| read or die | R.O.D | 《R.O.D》（日语：リード・オア・ダイ，英文：Read or Die）是仓田英之创作的奇幻与冒险轻小说，描述“The Paper”这位大英图书馆的特务，出版社为集英社Super Dash文库，目前出版至第11集，并且预计于第12集结束整个故事系列。 | [维基百科](https://zh.wikipedia.org/zh-cn/R.O.D) |
+| uchuu no stellvia | 宇宙星路 | 宇宙学园（中国大陆译名：宇宙星路）是以未来太阳系为舞台的日本科幻动画作品，讲述主角片瀬志麻在宇宙学院Stellvia的成长历程。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙學園) |
