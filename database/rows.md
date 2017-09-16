@@ -1,7 +1,7 @@
 ﻿本页储存标签列表的行名
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
-| -------- | ---------------------- | ---------------------------------------- | ---- |
+| -------- | --------------- | ------ | ----------- |
 | artist | 艺术家 | 绘画作者 / Coser |  [数据库页面](https://github.com/Mapaler/EhTagTranslator/wiki/artist) |
 | female | 女性 | 女性角色相关的恋物标签 |  [数据库页面](https://github.com/Mapaler/EhTagTranslator/wiki/female) |
 | male | 男性 | 男性角色相关的恋物标签 |  [数据库页面](https://github.com/Mapaler/EhTagTranslator/wiki/male) |
