@@ -1587,3 +1587,14 @@
 | majirou | まじろー | | |
 | nemui neru | 眠井ねる | | |
 | takato kurosuke | 高遠くろ助 | | |
+| adachi takumi | 安达拓实 | | |
+| asamori mizuki | 朝森瑞季 | | |
+| azuma taira | 東タイラ | | |
+| enoki tomoyuki | 榎木知之 | | |
+| fujisaka kuuki | 藤坂空树 | | |
+| grace | ぐれいす | | |
+| harumi chihiro | ハルミチヒロ | | |
+| hiyama shuri | ヒヤマシュリ | | |
+| izumi yoshiki | いづみよしき | | |
+| maakou | 雅亚公 | | |
+| tsukioka reitarou | 月冈丽太朗 | | |

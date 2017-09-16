@@ -923,21 +923,24 @@
 | sexual khorosho | セクシャルハラショー | | |
 | urayoroduya | 里万屋 | | |
 | lost rarities | LOST RARITIES | | |
+| gesshoku | 月蚀 | | |
+| misuterutein | みすてるていん | | |
+| namacyoko | 生チョコ | | [社团博客](http://namacyoko.blog122.fc2.com/) |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
-| mana | mana | http://mana.product.co.jp | |
+| mana | mana | | [官方网站](http://mana.product.co.jp) |
 | sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | |
 | fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 | |
 | escude | エスクード | | |
 | campus | Campus | | |
-| interheart | INTERHEART | http://www.interheart.co.jp/ | |
+| interheart | INTERHEART |  | [官方网站](http://www.interheart.co.jp/) |
 | darknesspot | DarknessPot | INTERHEART 旗下品牌 | |
 | nihon bussan | 日本物产 | | |
 | sphinx | SPHINX | 日本物产旗下 | |
 | bishop | BISHOP | | |
 | tanuki soft | たぬきそふと | | |
 | baseson | BaseSon | | |
-| miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | |
+| miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
 | squeez | SQUEEZ | | |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | |
 | triangle | Triangle | | |
@@ -946,7 +949,7 @@
 | aries | Aries | | |
 | ensemble | ensemble | ensemble 是日本一家成人游戏制作公司，主要制作大小姐恋爱AVG游戏，姐妹品牌为 ensemble SWEET。 | |
 | ensemble sweet | ensemble SWEET | | |
-| caramel box | CARAMEL-BOX | http://www.caramel-box.com/ | |
+| caramel box | CARAMEL-BOX |  | [官方网站](http://www.caramel-box.com/) |
 | rootnuko | √nuko | | |
 | c drive | C:drive. | | |
 | d drive | D:drive. | | |
@@ -964,7 +967,7 @@
 | neko neko soft | 猫猫软件 | | |
 | abhar | ABHAR | | |
 | abhar tronc | ABHAR Tronc | | |
-| incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) | |
+| incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) | [官方网站](http://incarose-soft.com) |
 | nutaku | Nutaku | | |
 | etude | etude | | |
 | eufonie | eufonie | etude 的姐妹品牌 | |
@@ -974,11 +977,11 @@
 | tryset | TRYSET | | |
 | seal-tutu | seal-tutu | softhouse-seal 子品牌 | |
 | softhouse chara | Softhouse Chara | | |
-| softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg) | |
-| devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal 旗下偏黑暗向<br>![图1](http://exhentai.org/t/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_250.jpg) | |
-| softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal 旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](http://exhentai.org/t/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg)<br>![图2](http://exhentai.org/t/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg) | |
+| softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](http://exhentai.org/t/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg) | [官方网站](http://softhouse-seal.com) |
+| devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal 旗下偏黑暗向<br>![图1](http://exhentai.org/t/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_250.jpg)<br>![图2](http://exhentai.org/t/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_250.jpg) | [官方网站](http://softhouse-seal.com/devil/index.html) |
+| softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal 旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](http://exhentai.org/t/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg)<br>![图2](http://exhentai.org/t/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg) | [官方网站](http://softhouse-seal.com/grandee/index.html) |
 | reverse | Re:verse | softhouse-seal 姊妹公司<br>![图1](http://exhentai.org/t/db/df/dbdf702dabd10ea331d3493561e8aa353a9a7ab3-721135-800-600-png_250.jpg) | |
-| moonstone | MOONSTONE | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>来自于做D.C.的Circus公司<br>![图1](http://ul.ehgt.org/9b/ea/9bea6e4b47f77a35d7f16f6cb68698e395fe245d-621287-1280-1790-jpg_250.jpg)<br>![图2](http://ul.ehgt.org/4d/8b/4d8bac8da42026d7edf9d4e39801485f858cadbc-81278-320-445-jpg_250.jpg) | |
+| moonstone | MOONSTONE | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>来自于做D.C.的Circus公司<br>![图1](http://ul.ehgt.org/9b/ea/9bea6e4b47f77a35d7f16f6cb68698e395fe245d-621287-1280-1790-jpg_250.jpg)<br>![图2](http://ul.ehgt.org/4d/8b/4d8bac8da42026d7edf9d4e39801485f858cadbc-81278-320-445-jpg_250.jpg) | [官方网站](http://www.moon-stone.jp) |
 | moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](http://exhentai.org/t/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_250.jpg) | |
 | moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](http://exhentai.org/t/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg) | |
 | yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)Yuzu-Soft | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](http://ul.ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) | |
@@ -1008,12 +1011,12 @@
 | aniseed | AniSeed | | |
 | candysoft | Candy Soft | | |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | |
-| whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | | |
+| whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | | [官方网站](https://whirlpool.co.jp) |
 | | ▲ GAL公司 | | |
 | | ▼ 其他游戏公司 | | |
 | illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 | |
 | falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | |
-| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | |
-| dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | |
-| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | |
+| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
+| dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
+| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [官方网站](http://www.kadokawa.co.jp) |
 | sex syndrome | Sex Syndrome | | |
