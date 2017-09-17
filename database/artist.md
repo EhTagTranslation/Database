@@ -207,7 +207,7 @@
 | kurori | くろり | | |
 | suwa izumo | 诹访出云 | | |
 | ishigami kazui | 石神一威 | | |
-| kamogawa tanuki | 鴨川たぬき | | |
+| kamogawa tanuki | 鸭川狸 | 鴨川たぬき | [Pixiv](https://www.pixiv.net/member.php?id=346654) [twitter](https://twitter.com/kamogawaya) |
 | shiruka bakaudon | 知るかバカうどん | | |
 | amekosame | 雨小雨 | | |
 | kiira | きぃら～☆ | | |
@@ -1598,3 +1598,6 @@
 | izumi yoshiki | いづみよしき | | |
 | maakou | 雅亚公 | | |
 | tsukioka reitarou | 月冈丽太朗 | | |
+| kurokawa kei | くろかわ京 |  |  |
+| itachi | いたち |  |  |
+| aya shachou | 彩社长 |  |  |

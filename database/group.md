@@ -235,7 +235,7 @@
 | spiral brain | スパイラルブレーン | | |
 | tuzi laoda | 兔子老大 | | |
 | iriomote | IRIOMOTE | | |
-| kamogawaya | 鸭川屋 | | |
+| kamogawaya | 鸭川屋 | | [社团博客](http://www.kamogawaya.com/main_Frame.html) |
 | 23.4do | 23.4ド | | |
 | doza village | DOZA Village | | |
 | p.d.creations | P.D.creations | | |
@@ -926,6 +926,8 @@
 | gesshoku | 月蚀 | | |
 | misuterutein | みすてるていん | | |
 | namacyoko | 生チョコ | | [社团博客](http://namacyoko.blog122.fc2.com/) |
+| payanikov | ぱやニコフ |  |  |
+| 3dt | 3DT |  |  |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |
