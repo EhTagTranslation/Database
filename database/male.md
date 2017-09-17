@@ -367,7 +367,7 @@
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](http://exhentai.org/t/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg) | |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](http://exhentai.org/t/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg)![图](http://exhentai.org/t/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg)![图](http://exhentai.org/t/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg) | |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![图](http://exhentai.org/t/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg) | |
-| oyakodon | 母娘丼 | 父母与子女间乱交。需要乱交(group)标签。 | |
+| oyakodon | 父子丼 | 父亲和儿子与同一个性伴侣产生性行为。需要乱交(group)标签。 | |
 | triple anal | 三插肛门 | 三根阴茎同时插入肛门。 | |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 | |
 | | === 多人活动 > 多个洞 === | | |
