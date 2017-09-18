@@ -1071,4 +1071,6 @@
 | mahou senshi sweet knights | 魔法战士 Sweet Knights |  | |
 | read or die | R.O.D | 《R.O.D》（日语：リード・オア・ダイ，英文：Read or Die）是仓田英之创作的奇幻与冒险轻小说，描述“The Paper”这位大英图书馆的特务，出版社为集英社Super Dash文库，目前出版至第11集，并且预计于第12集结束整个故事系列。 | [维基百科](https://zh.wikipedia.org/zh-cn/R.O.D) |
 | uchuu no stellvia | 宇宙星路 | 宇宙学园（中国大陆译名：宇宙星路）是以未来太阳系为舞台的日本科幻动画作品，讲述主角片瀬志麻在宇宙学院Stellvia的成长历程。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙學園) |
-| ore monogatari | 俺物语!! | 《俺物语!!》（日语：俺物語!!）是河原和音原作、或子负责漫画绘制的日本漫画作品，于集英社《别册Margaret》连载。 | [维基百科](https://zh.wikipedia.org/wiki/俺物語%EF%BC%81%EF%BC%81) |
+| ore monogatari | 俺物语!! | 《俺物语!!》（日语：俺物語!!）是河原和音原作、或子负责漫画绘制的日本漫画作品，于集英社《别册Margaret》连载。 | [维基百科](https://zh.wikipedia.org/zh-cn/俺物語%EF%BC%81%EF%BC%81) |
+| yuruyuri | 摇曳百合 | 《摇曳百合》（日语：ゆるゆり）是Namori所作、一迅社出版的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E8%BC%95%E9%AC%86%E7%99%BE%E5%90%88) |
+| death note | 死亡笔记 | 《死亡笔记》（Death Note，简称DN）是由大场鸫原作，小畑健作画的日本悬疑推理漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0) |
