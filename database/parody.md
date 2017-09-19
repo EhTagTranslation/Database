@@ -1074,3 +1074,7 @@
 | ore monogatari | 俺物语!! | 《俺物语!!》（日语：俺物語!!）是河原和音原作、或子负责漫画绘制的日本漫画作品，于集英社《别册Margaret》连载。 | [维基百科](https://zh.wikipedia.org/zh-cn/俺物語%EF%BC%81%EF%BC%81) |
 | yuruyuri | 摇曳百合 | 《摇曳百合》（日语：ゆるゆり）是Namori所作、一迅社出版的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E8%BC%95%E9%AC%86%E7%99%BE%E5%90%88) |
 | death note | 死亡笔记 | 《死亡笔记》（Death Note，简称DN）是由大场鸫原作，小畑健作画的日本悬疑推理漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0) |
+| cooking papa | 妙厨老爹 | 《妙厨老爹》（日语：クッキングパパ），上山栃创作的日本漫画。故事背景发生在日本福冈县博多区，故事以主角荒岩一味高超的料理为经，温馨家庭的经营为纬，如何在工作和家庭之间取得平衡点，共同谱出家庭和乐的情景，以及维持良好的人际关系。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E5%A6%99%E5%BB%9A%E8%80%81%E7%88%B9) |
+| rumble roses | 火爆玫瑰 | 《火爆玫瑰》（Rumble Roses）是一款科乐美数位娱乐推出的女子摔角游戏软件。此游戏发展至今有两种版本：Sony PS2平台以及微软Xbox 360平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%81%AB%E7%88%86%E7%8E%AB%E7%91%B0) |
+| genshiken | 现视研 | 《现视研》（日语：げんしけん）是木尾士目在《月刊Afternoon》上连载中的漫画作品，单行本一共9本，台湾中文版由东立出版社发行。是部描写御宅族大学生日常生活的作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%8F%BE%E8%A6%96%E7%A0%94) |
+| pia carrot | 欢迎来到Pia♥Carrot!! | 《欢迎来到Pia Carrot!!》系列（Pia♥キャロットへようこそ!! シリーズ）（简称：Pia、Piaキャロ）是以在餐厅“Pia Carrot”工作的过程中，和一起工作的女性店员或者客人搞好关系目的的日本成人游戏系列。PC版的发售只有“3”是F&C FC02发行，“3”以外是Cocktail Soft发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0Pia_Carrot!!%E7%B3%BB%E5%88%97) |

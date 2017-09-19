@@ -928,6 +928,10 @@
 | namacyoko | 生チョコ | | [社团博客](http://namacyoko.blog122.fc2.com/) |
 | payanikov | ぱやニコフ |  |  |
 | 3dt | 3DT |  |  |
+| extreme ponkotsu | エクストリームポンコツ | | |
+| gorilla bouzu | ゴリラ坊主 | | |
+| mutant | Mutant | | |
+| junginboshi | 纯银星 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |

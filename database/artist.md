@@ -1601,3 +1601,18 @@
 | kurokawa kei | くろかわ京 |  |  |
 | itachi | いたち |  |  |
 | aya shachou | 彩社长 |  |  |
+| fukumaaya | ふくまーや | | |
+| higashide irodori | 東出イロドリ | | |
+| hiura r | 火浦R | | |
+| karube guri | 軽部ぐり | | |
+| kazabuki poni | 風のごとく | | |
+| kusatsu terunyo | 草津てるにょ | | |
+| mario | まりお | | |
+| puniiyu | ぷにいゆ | | |
+| kotengu | コテング | | |
+| otare mayu | おたれまゆ | | |
+| shirouzu myuuta | 白水ミュウタ | | |
+| dosent | Dosent | | |
+| fuun daiki | 風雲だいき | | |
+| satou saori | 佐藤沙绪理 | | |
+| takashina asahi | たかしな浅妃 | | |

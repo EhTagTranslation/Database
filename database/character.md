@@ -627,7 +627,7 @@
 | shizuka mogami | 最上静香 | | |
 | anna mochizuki | 望月杏奈 | | |
 |  | 矢吹可奈 | | |
-|  | 艾米莉・司徒亚特 | | |
+| emily stewart | 艾米莉・司徒亚特 | | |
 | tamaki ogami | 大神环 | | |
 |  | 北上丽花 | | |
 | umi kousaka | 高坂海美 | | |
@@ -638,7 +638,7 @@
 | konomi baba | 马场木实 | | |
 | noriko fukuda | 福田法子 | | |
 |  | 舞滨步 | | |
-|  | 真壁瑞希 | | |
+| mizuki makabe | 真壁瑞希 | | |
 |  | 百濑莉绪 | | |
 | nao yokoyama | 横山奈绪 | | |
 | tsubasa ibuki | 伊吹翼 | | |
@@ -653,6 +653,9 @@
 |  | 二阶堂千鹤 | | |
 |  | 宫尾美也 | | |
 |  | 伴田路子 | | |
+| kaori sakuramori | 樱守歌织 | | |
+| tsumugi shiraishi | 白石䌷 | | |
+|  | 青羽美咲 | | |
 | mishiro | 美城常务 | | |
 | touma amagase | 天濑冬马 | | |
 | teru tendo | 天道辉 | | |
