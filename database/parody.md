@@ -653,7 +653,7 @@
 | digimon universe appli monsters | 数码宝贝宇宙-应用怪兽 | | |
 |  | ▲数码宝贝 系列 | | |
 | snow white and the seven dwarfs | 白雪公主和七个小矮人 | | |
-| shadowverse | 暗影诗章 | | |
+| shadowverse | 影之诗 | | [萌娘百科](https://zh.moegirl.org/zh/影之诗) |
 | eyeshield 21 | 光速跑者21号 | | |
 | skullgirls | 骷髅女孩 | | |
 | the ring | 午夜凶铃 | | |
