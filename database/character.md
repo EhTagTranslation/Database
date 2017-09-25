@@ -916,7 +916,7 @@
 | shouta magatsuchi | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) | |
 | riko saikawa | 才川莉子 | | |
 | | ▼ 星期一的丰满 角色 | | |
-| ai-chan | 小爱 | | |
+| ai-chan | 小爱 | | [萌娘百科](https://zh.moegirl.org/小爱(星期一的丰满)) |
 | kouhai-chan | 后辈 | | |
 | | ▼ 变态王子与不笑猫 角色 | | |
 | azusa azuki | 小豆梓 | | |

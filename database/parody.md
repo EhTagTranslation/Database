@@ -1078,3 +1078,5 @@
 | rumble roses | 火爆玫瑰 | 《火爆玫瑰》（Rumble Roses）是一款科乐美数位娱乐推出的女子摔角游戏软件。此游戏发展至今有两种版本：Sony PS2平台以及微软Xbox 360平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%81%AB%E7%88%86%E7%8E%AB%E7%91%B0) |
 | genshiken | 现视研 | 《现视研》（日语：げんしけん）是木尾士目在《月刊Afternoon》上连载中的漫画作品，单行本一共9本，台湾中文版由东立出版社发行。是部描写御宅族大学生日常生活的作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%8F%BE%E8%A6%96%E7%A0%94) |
 | pia carrot | 欢迎来到Pia♥Carrot!! | 《欢迎来到Pia Carrot!!》系列（Pia♥キャロットへようこそ!! シリーズ）（简称：Pia、Piaキャロ）是以在餐厅“Pia Carrot”工作的过程中，和一起工作的女性店员或者客人搞好关系目的的日本成人游戏系列。PC版的发售只有“3”是F&C FC02发行，“3”以外是Cocktail Soft发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0Pia_Carrot!!%E7%B3%BB%E5%88%97) |
+| bokutachi wa benkyou ga dekinai | 我们真的学不来 | 《我们真的学不来》（ぼくたちは勉強ができない） 是由日本漫画家筒井大志于《周刊少年Jump》2017年10号开始连载的漫画，此部作品是在《魔法甜点师小咲!!》（与古味直志作品《伪恋》合作的外传漫画）连载完毕后紧接推出的漫画。 | [萌娘百科](https://zh.moegirl.org/我们真的学不来) [维基百科](https://zh.wikipedia.org/zh-cn/我們真的學不來) |
+| netoge no yome wa onnanoko ja nai to omotta | 线上游戏的老婆不可能是女生？ | 《线上游戏的老婆不可能是女生？》（日语：ネトゲの嫁は女の子じゃないと思った？）是听猫芝居所作的日本轻小说作品，插图由Hisasi绘画，由ASCII Media Works出版，中文版则由台湾角川发行。2015年8月7日宣布改编为电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/線上遊戲的老婆不可能是女生%EF%BC%9F) |
