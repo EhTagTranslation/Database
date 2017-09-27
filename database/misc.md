@@ -6,6 +6,12 @@
 
 Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
+对于标有（*）的条目，其简介复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+
+对于标有（**）的条目，其简介复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+
+本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
+
 书写规则
 ---------------
 请按照如下规则：
@@ -16,11 +22,14 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
   若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
 * 检查[新恋物标签列表](https://ehwiki.org/wiki/new_tags)以跟踪最新标签更改。
 
+条目内容
+----------------
+
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | == 身体 == | | |
 | | === 身体 > 生物 === | | |
-| yukkuri | 油库里 | 油库里是ゆっくり（日语：慢慢来）的中文谐音。<br>ゆっくり这种形象其最早于 2008 年初出现在 2ch 上，其创造者为一个失败的 ASCII 艺术爱好者。当时他/她本来希望用 ASCII 字符拼出灵梦和魔理沙的头像，但不幸他/她失败了，头像看起来和这里所提到的ゆっくり很一致。而另一个匿名用户觉得这头像颇有幽默感，于是便做了第一幅有关ゆっくり的图片。<br>一般来说，ゆっくり的外形大致上是一个硕大而看上去有点扭曲的脑袋，往往和东方Project(touhou project)中的人物存在对应。<br>![ゆっくり](https://ehgt.org/t/ee/6a/ee6ac5d74438aa76077a9c201cd740911851092f-673521-1060-1500-jpg_l.jpg) | 简介内容来自[萌娘百科](https://zh.moegirl.org/油库里#)，文本内容在知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议下提供。 |
+| yukkuri | 油库里 | 油库里是ゆっくり（日语：慢慢来）的中文谐音。<br>ゆっくり这种形象其最早于 2008 年初出现在 2ch 上，其创造者为一个失败的 ASCII 艺术爱好者。当时他/她本来希望用 ASCII 字符拼出灵梦和魔理沙的头像，但不幸他/她失败了，头像看起来和这里所提到的ゆっくり很一致。而另一个匿名用户觉得这头像颇有幽默感，于是便做了第一幅有关ゆっくり的图片。<br>一般来说，ゆっくり的外形大致上是一个硕大而看上去有点扭曲的脑袋，往往和东方Project(touhou project)中的人物存在对应。<br>![ゆっくり](https://ehgt.org/t/ee/6a/ee6ac5d74438aa76077a9c201cd740911851092f-673521-1060-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org/油库里#)(**) |
 | | ==== 身体 > 生物 > 动物 ==== | | |
 | animal on animal | 兽兽 | 动物间性交。 | |
 | | == 头部 == | | |
