@@ -1,6 +1,18 @@
 ﻿本页储存标签列表的团队(group)翻译。
-请按照如下规则：
-* 日文名中有汉字者优先写含汉字的名称，可在简介中写全假名或国内译名。
+
+版权声明
+---------------  
+对于标有（*）的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+
+对于标有（**）的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+
+书写规则
+---------------
+### 请按照如下规则：
+* 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。或者使用文本介绍时写在简介中。
+
+条目内容
+----------------
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
@@ -973,7 +985,7 @@
 | baseson | BaseSon | | |
 | miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
 | squeez | SQUEEZ | | |
-| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | |
+| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (*) |
 | triangle | Triangle | | |
 | omega star | ωstar | | |
 | norn | Norn | | |
@@ -991,7 +1003,7 @@
 | sphere | Sphere | | |
 | hook | HOOKSOFT | | |
 | rosebleu | Rosebleu | | |
-| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | |
+| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/Clochette) [官方网站](http://www.clochette-soft.jp/) (*) |
 | honey soft | HONEY SOFT | | |
 | appetite | アパタイト | | |
 | pakopako soft | ぱこぱこそふと | | |
@@ -1022,7 +1034,7 @@
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](http://ul.ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) | |
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](http://ul.ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) | |
 | august | August | 八月社 | |
-| feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | |
+| feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org/Feng) [官方网站](http://www.feng.jp/) (**) |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) | |
 | atelier d | Atelier D | | |
 | atelier kaguya | Atelier KAGUYA | | |
@@ -1041,13 +1053,13 @@
 | 5pb. | 5pb. | | |
 | aniseed | AniSeed | | |
 | candysoft | Candy Soft | | |
-| ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | |
+| ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (*) |
 | whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | | [官方网站](https://whirlpool.co.jp) |
 | | ▲ GAL公司 | | |
 | | ▼ 其他游戏公司 | | |
 | illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 | |
-| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | |
+| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (*) |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
 | dmm.com | ![icon](http://www.dmm.com/favicon.ico)DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
-| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [官方网站](http://www.kadokawa.co.jp) |
+| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (*) |
 | sex syndrome | Sex Syndrome | | |
