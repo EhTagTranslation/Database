@@ -2,7 +2,7 @@
 
 版权声明
 ---------------  
-除有特殊说明外，本文的简介文本内容翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
+除有特殊说明外，本文的简介文本翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
 
 Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
