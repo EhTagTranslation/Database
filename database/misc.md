@@ -14,10 +14,10 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 
 书写规则
 ---------------
-请按照如下规则：
+### 请按照如下规则：
 * 主要填写长期存在于杂项(misc)中的标签，有些新作者、社团的标签最开始在杂项，但后面会移到对应分类中去。
 
-目前阶段建议规则：
+### 目前阶段建议规则：
 * 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。  
   若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
 * 检查[新恋物标签列表](https://ehwiki.org/wiki/new_tags)以跟踪最新标签更改。
