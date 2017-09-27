@@ -1,9 +1,26 @@
 本页储存标签列表的女性(female)翻译。
 
+版权声明
+---------------  
+除有特殊说明外，本文的简介文本内容翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
+
+Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
+
+对于标有（*）的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+
+对于标有（**）的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+
+本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
+
+书写规则
+---------------
 目前阶段建议规则：
 * 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
   若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
 * 检查[新恋物标签列表](https://ehwiki.org/wiki/new_tags)以跟踪最新标签更改。
+
+条目内容
+----------------
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
