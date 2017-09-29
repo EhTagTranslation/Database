@@ -969,6 +969,23 @@
 | mamemaru shoten | 豆丸书店 | | |
 | joibo no juunin | ジョイボの住人 | | |
 | metagraft | MetaGraft | | |
+| festa. | ふぇすた。 | | |
+| slash yen | /￥ | | |
+| pastas estab | PASTA'S ESTAB | | |
+| rinjuu circus | 臨終サーカス | | |
+| ue ni aru mikan | うえにあるみかん | | |
+| ruu kikaku | 龙企画 | | |
+| hoshizora sutekki | 星空ステッキ | | |
+| come through | Come Through | | |
+| wancho-ke | わんちょ家 | | |
+| kajishima onsen | 梶岛温泉 | | |
+| kuroneko-kan | クロネコ缶 | | |
+| cook milk | くっくみるく | | |
+| kudamono monogatari | 果物物语 | | |
+| romance no neko ookami musume | ろまんすの猫狼娘 | | |
+| nanairo otogizoushi | 七色御伽草子 | | |
+| buruman | BURUMAN | | |
+| nyaito senyou | にゃいと専用 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |

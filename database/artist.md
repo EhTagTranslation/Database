@@ -426,7 +426,6 @@
 | kazuhiro | 一弘 | | |
 | lobster | ロブ☆スター | | |
 | magifuro konnyaku | magifuro蒟蒻 | | |
-| mos | MoS | | |
 | ueda john | うえだジョン | | |
 | wenajii | ヱナジー | | |
 | zeno | 是乃 | | |
@@ -1663,3 +1662,20 @@
 | hidaka sora | 日高空 | | |
 | mashiro mami | 眞白まみ | | |
 | sakusyaaya | 作者文 | | [Pixiv](https://www.pixiv.net/member.php?id=2082705) |
+| yoshitani motoka | 义谷元日 | | |
+| ruschuto | るしゅーと | | |
+| murata range | 村田莲尔 | 村田莲尔（1968年10月2日－），是日本的插画家兼设计师。出身于大阪府。其作品喜欢强调复古的质感和设计，尤其偏爱装饰艺术时期的风格。人物方面，最常描绘的则是短发美少女和苦涩的中年男子。 | [维基百科](https://zh.wikipedia.org/zh-hans/村田蓮爾) (*) |
+| haguhagu | はぐはぐ | | |
+| reitou mikan | れいとうみかん | | |
+| ruuen rouga | 龙炎狼牙 | | |
+| kisaragi nana | 如月なな | | |
+| adumi kazuki | あづみ一樹 | | |
+| sasagawa iko | 佐々川いこ | | |
+| wancho | わんちょ | | |
+| kajishima masaki | 梶岛正树 | 梶岛正树（1962年3月15日－）是冈山县出身的动画师、角色设定和动画原作者。 | [维基百科](https://zh.wikipedia.org/zh-hans/梶島正樹) (*) |
+| muririn | むりりん | | |
+| lilithlauda | リリスラウダ | | |
+| miyase mahiro | 宮瀬まひろ | | |
+| tajima yuki | 田岛有纪 | | |
+| nyaito | にゃいと | | |
+| hitsuka no tsukimiko | ひつかのつきみこ | | |
