@@ -2,9 +2,9 @@
 
 版权声明
 ---------------  
-对于标有（*）的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
 
-对于标有（**）的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
 
 书写规则
 ---------------
@@ -208,6 +208,8 @@
 | hanamaru kunikida | 国木田花丸 | 所属团体 Aqours ![国木田花丸](https://img.acg.moe/common/thumb/a/ac/Kunikida_Hanamaru.png/250px-Kunikida_Hanamaru.png)![图](# "http://exhentai.org/t/dc/7f/dc7fe335c8ab499a93106c6752662102815d3f8f-915237-1434-2024-jpg_l.jpg")![图](# "http://exhentai.org/t/b4/ed/b4ed50f40fe30c01208f61167bd1b73941223928-150550-1052-1494-jpg_l.jpg") | |
 | mari ohara | 小原鞠莉 | 所属团体 Aqours ![小原鞠莉](https://img.acg.moe/common/thumb/8/83/Ohana_Mari.png/250px-Ohana_Mari.png)![图](# "http://exhentai.org/t/2a/c9/2ac97c7e6644760e9238338d486350285b4ba276-912121-1680-2391-jpg_l.jpg") | |
 | ruby kurosawa | 黑泽露比 | 所属团体 Aqours ![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) | |
+| seira kazuno | 鹿角圣良 | 所属团体 Saint Snow |  |
+| ria kazuno | 鹿角理亚 | 所属团体 Saint Snow |  |
 | | ▲Love Live 人物 | | |
 | | ▼ 舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 | |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png") | |

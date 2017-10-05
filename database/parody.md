@@ -2,9 +2,9 @@
 
 版权声明
 ---------------  
-对于标有（*）的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
 
-对于标有（**）的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
 
 书写规则
 ---------------
@@ -1079,16 +1079,22 @@
 | kyouran kazoku nikki | 狂乱家族日记 | 《狂乱家族日记》是日日日在Fami通文库出版的轻小说。插画家为x6suke。第六届Enterbrain“Entame大奖”佳作。 | |
 | 2x2 shinobuden | 酷伊忍者传 | 动画《酷伊忍者传》（2x2 = Shinobuden）改编自古贺亮一发表在《月刊Comic电击大王》，发刊号2000年8月号 - 2006年3月号的漫画作品。全12集。 | |
 | marriage royale | 皇家新娘 | 《皇家新娘》是由著名美少女游戏厂商Navel，连同美少女动漫游戏杂志《電撃G's magazine》协力制作，在加上读者参与诞生的企划，企划于2006年展开，其中一大特色在于里面的女主角都是从读者投稿选拔出来的地区女生，同名漫画《皇家新娘 棱镜物语》于09年连载，PSP游戏版如今亦正式呈现在玩家的眼前。 | |
-| beat angel escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer) |
+| beat angel escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer (*) |
 | mahou senshi sweet knights | 魔法战士 Sweet Knights |  | |
-| read or die | R.O.D | 《R.O.D》（日语：リード・オア・ダイ，英文：Read or Die）是仓田英之创作的奇幻与冒险轻小说，描述“The Paper”这位大英图书馆的特务，出版社为集英社Super Dash文库，目前出版至第11集，并且预计于第12集结束整个故事系列。 | [维基百科](https://zh.wikipedia.org/zh-cn/R.O.D) |
-| uchuu no stellvia | 宇宙星路 | 宇宙学园（中国大陆译名：宇宙星路）是以未来太阳系为舞台的日本科幻动画作品，讲述主角片瀬志麻在宇宙学院Stellvia的成长历程。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙學園) |
-| ore monogatari | 俺物语!! | 《俺物语!!》（日语：俺物語!!）是河原和音原作、或子负责漫画绘制的日本漫画作品，于集英社《别册Margaret》连载。 | [维基百科](https://zh.wikipedia.org/zh-cn/俺物語%EF%BC%81%EF%BC%81) |
-| yuruyuri | 摇曳百合 | 《摇曳百合》（日语：ゆるゆり）是Namori所作、一迅社出版的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E8%BC%95%E9%AC%86%E7%99%BE%E5%90%88) |
-| death note | 死亡笔记 | 《死亡笔记》（Death Note，简称DN）是由大场鸫原作，小畑健作画的日本悬疑推理漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0) |
-| cooking papa | 妙厨老爹 | 《妙厨老爹》（日语：クッキングパパ），上山栃创作的日本漫画。故事背景发生在日本福冈县博多区，故事以主角荒岩一味高超的料理为经，温馨家庭的经营为纬，如何在工作和家庭之间取得平衡点，共同谱出家庭和乐的情景，以及维持良好的人际关系。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E5%A6%99%E5%BB%9A%E8%80%81%E7%88%B9) |
-| rumble roses | 火爆玫瑰 | 《火爆玫瑰》（Rumble Roses）是一款科乐美数位娱乐推出的女子摔角游戏软件。此游戏发展至今有两种版本：Sony PS2平台以及微软Xbox 360平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%81%AB%E7%88%86%E7%8E%AB%E7%91%B0) |
-| genshiken | 现视研 | 《现视研》（日语：げんしけん）是木尾士目在《月刊Afternoon》上连载中的漫画作品，单行本一共9本，台湾中文版由东立出版社发行。是部描写御宅族大学生日常生活的作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%8F%BE%E8%A6%96%E7%A0%94) |
-| pia carrot | 欢迎来到Pia♥Carrot!! | 《欢迎来到Pia Carrot!!》系列（Pia♥キャロットへようこそ!! シリーズ）（简称：Pia、Piaキャロ）是以在餐厅“Pia Carrot”工作的过程中，和一起工作的女性店员或者客人搞好关系目的的日本成人游戏系列。PC版的发售只有“3”是F&C FC02发行，“3”以外是Cocktail Soft发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0Pia_Carrot!!%E7%B3%BB%E5%88%97) |
-| bokutachi wa benkyou ga dekinai | 我们真的学不来 | 《我们真的学不来》（ぼくたちは勉強ができない） 是由日本漫画家筒井大志于《周刊少年Jump》2017年10号开始连载的漫画，此部作品是在《魔法甜点师小咲!!》（与古味直志作品《伪恋》合作的外传漫画）连载完毕后紧接推出的漫画。 | [萌娘百科](https://zh.moegirl.org/我们真的学不来) [维基百科](https://zh.wikipedia.org/zh-cn/我們真的學不來) |
-| netoge no yome wa onnanoko ja nai to omotta | 线上游戏的老婆不可能是女生？ | 《线上游戏的老婆不可能是女生？》（日语：ネトゲの嫁は女の子じゃないと思った？）是听猫芝居所作的日本轻小说作品，插图由Hisasi绘画，由ASCII Media Works出版，中文版则由台湾角川发行。2015年8月7日宣布改编为电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/線上遊戲的老婆不可能是女生%EF%BC%9F) |
+| read or die | R.O.D | 《R.O.D》（日语：リード・オア・ダイ，英文：Read or Die）是仓田英之创作的奇幻与冒险轻小说，描述“The Paper”这位大英图书馆的特务，出版社为集英社Super Dash文库，目前出版至第11集，并且预计于第12集结束整个故事系列。 | [维基百科](https://zh.wikipedia.org/zh-cn/R.O.D) (*) |
+| uchuu no stellvia | 宇宙星路 | 宇宙学园（中国大陆译名：宇宙星路）是以未来太阳系为舞台的日本科幻动画作品，讲述主角片瀬志麻在宇宙学院Stellvia的成长历程。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙學園) (*) |
+| ore monogatari | 俺物语!! | 《俺物语!!》（日语：俺物語!!）是河原和音原作、或子负责漫画绘制的日本漫画作品，于集英社《别册Margaret》连载。 | [维基百科](https://zh.wikipedia.org/zh-cn/俺物語%EF%BC%81%EF%BC%81) (*) |
+| yuruyuri | 摇曳百合 | 《摇曳百合》（日语：ゆるゆり）是Namori所作、一迅社出版的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E8%BC%95%E9%AC%86%E7%99%BE%E5%90%88) (*) |
+| death note | 死亡笔记 | 《死亡笔记》（Death Note，简称DN）是由大场鸫原作，小畑健作画的日本悬疑推理漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0) (*) |
+| cooking papa | 妙厨老爹 | 《妙厨老爹》（日语：クッキングパパ），上山栃创作的日本漫画。故事背景发生在日本福冈县博多区，故事以主角荒岩一味高超的料理为经，温馨家庭的经营为纬，如何在工作和家庭之间取得平衡点，共同谱出家庭和乐的情景，以及维持良好的人际关系。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E5%A6%99%E5%BB%9A%E8%80%81%E7%88%B9) (*) |
+| rumble roses | 火爆玫瑰 | 《火爆玫瑰》（Rumble Roses）是一款科乐美数位娱乐推出的女子摔角游戏软件。此游戏发展至今有两种版本：Sony PS2平台以及微软Xbox 360平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%81%AB%E7%88%86%E7%8E%AB%E7%91%B0) (*) |
+| genshiken | 现视研 | 《现视研》（日语：げんしけん）是木尾士目在《月刊Afternoon》上连载中的漫画作品，单行本一共9本，台湾中文版由东立出版社发行。是部描写御宅族大学生日常生活的作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E7%8F%BE%E8%A6%96%E7%A0%94) (*) |
+| pia carrot | 欢迎来到Pia♥Carrot!! | 《欢迎来到Pia Carrot!!》系列（Pia♥キャロットへようこそ!! シリーズ）（简称：Pia、Piaキャロ）是以在餐厅“Pia Carrot”工作的过程中，和一起工作的女性店员或者客人搞好关系目的的日本成人游戏系列。PC版的发售只有“3”是F&C FC02发行，“3”以外是Cocktail Soft发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0Pia_Carrot!!%E7%B3%BB%E5%88%97) (*) |
+| bokutachi wa benkyou ga dekinai | 我们真的学不来 | 《我们真的学不来》（ぼくたちは勉強ができない） 是由日本漫画家筒井大志于《周刊少年Jump》2017年10号开始连载的漫画，此部作品是在《魔法甜点师小咲!!》（与古味直志作品《伪恋》合作的外传漫画）连载完毕后紧接推出的漫画。 | [萌娘百科](https://zh.moegirl.org/我们真的学不来) [维基百科](https://zh.wikipedia.org/zh-cn/我們真的學不來) (*) |
+| netoge no yome wa onnanoko ja nai to omotta | 线上游戏的老婆不可能是女生？ | 《线上游戏的老婆不可能是女生？》（日语：ネトゲの嫁は女の子じゃないと思った？）是听猫芝居所作的日本轻小说作品，插图由Hisasi绘画，由ASCII Media Works出版，中文版则由台湾角川发行。2015年8月7日宣布改编为电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/線上遊戲的老婆不可能是女生%EF%BC%9F) (*) |
+| schoolgirl strikers | 学园少女突袭者 | 《学园少女突袭者》（日语：スクールガールストライカーズ，英语：Schoolgirl Strikers）是史克威尔艾尼克斯开发的手机游戏，玩家在游戏中要率领自己挑选出的女学生，与侵略世界的“妖魔（オブリ）”展开战斗。 | [维基百科](https://zh.wikipedia.org/wiki/學園少女突襲者) (*) |
+| danna ga nani o itteiru ka wakaranai ken | 关于完全听不懂老公在说什么的事 | 《关于完全听不懂老公在说什么的事》（日语：旦那が何を言っているかわからない件／だんながなにをいっているかわからないけん）是由酷教信徒绘制的日本四格漫画作品，描绘身为宅男的丈夫与妻子“薰”（カオル）的之间的爱情喜剧作品。描写了他们两人的虽然彼此都有不太合得来的部分、但是仍然过得很恩爱的新婚生活。 | [维基百科](https://zh.wikipedia.org/wiki/關於完全聽不懂老公在說什麼的事) (*) |
+| golden sun | 黄金太阳 | 黄金太阳（日语：黄金の太陽，英语：Golden Sun）是由Camelot开发、任天堂发行的掌机奇幻色彩角色扮演游戏系列。 | [维基百科](https://zh.wikipedia.org/wiki/黃金太陽系列) (*) |
+| the grim adventures of billy and mandy | 爱酷一族 | 爱酷一族（英文：The Grim Adventures of Billy & Mandy）是一部由卡通频道改革卡通卡通期间，经公众投票选出制作的动画，旧译为怪诞骷髅魔、开膛手格林。 | [维基百科](https://zh.wikipedia.org/wiki/愛酷一族) (*) |
+| inspector gadget | 神探加杰特 | G型神探（Inspector Gadget），又译“奇探加杰特”，或是“神探万事通”（港译：万能探长），是一部1983年9月10日播出第1季的卡通。影集由美国DiC Entertainment公司制作。后来在1995年出版第2季，总共86集(65+21)。 | [维基百科](https://zh.wikipedia.org/zh-cn/神探加杰特) (*) |
+| the life and times of juniper lee |  魔法少女Juniper Lee| 魔法少女Juniper Lee（英文：The Life and Times of Juniper Lee）是一套由Cartoon Network Studios制作的动画集。这个故事中的主角 — Juniper Lee， 住在一个与魔界错乱混合的城市。尽管城内的人都不能看到魔界怪兽，但能看见其所作的破坏。于是，Juniper被赋予“守护者”的身份，协助令魔界和人间界的生活节奏平衡。 | [维基百科](https://zh.wikipedia.org/wiki/魔法少女Juniper_Lee) (*) |
