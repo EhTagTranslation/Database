@@ -1791,7 +1791,8 @@
 | taihei doma | 土间大平 |  | [萌娘百科](https://zh.moegirl.org/土间大平) |
 | kirie motoba | 本场切绘 |  | [萌娘百科](https://zh.moegirl.org/本场切绘) |
 | nana ebina | 海老名菜菜 |  | [萌娘百科](https://zh.moegirl.org/海老名菜菜) |
-| sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org/橘·希尔芬福特) |
+| sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org/橘·希尔芬福特) ||
+| takeshi motoba | 本场猛（崩巴） |  | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
