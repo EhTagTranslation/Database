@@ -364,6 +364,7 @@
 | yu-gi-oh zexal | 游戏王ZEXAL | | |
 | yu-gi-oh arc-v | 游戏王ARC-V | | |
 | yu-gi-oh gx | 游戏王－怪兽之决斗GX | | |
+| yu-gi-oh vrains | 游戏王VRAINS | 《游戏王VRAINS》（日语：遊☆戯☆王VRAINS）是一部于2017年开播的日本电视动画，为《游戏王》系列的第六部作品。 | [维基百科](https://zh.wikipedia.org/wiki/遊戲王VRAINS) (*) |
 | kimi ni todoke | 好想告诉你 | | |
 | akatsuki no yona | 晨曦公主 | | |
 | onii-chan dakedo ai sae areba kankeinai yo ne | 就算是哥哥，有爱就没问题了，对吧 | | |
@@ -630,7 +631,8 @@
 | mabinogi | 洛奇 | 玛奇 | |
 | m.u.g.e.n | MUGEN | | |
 | summon night | 召唤之夜 | 召唤夜响曲 | |
-| mai-hime | 舞-HiME | | |
+| mai-hime | 舞-HiME | 舞-HiME（日语：舞-HiME）是以日本日昇动画为中心展开的电视动画、漫画、广播、游戏等的跨媒体制作。以私立风华学园为舞台，描写学生间的友情与恋爱、战斗。获选为2005年第九回日本文部省文化厅媒体艺术祭动画部门推荐的作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/舞-HiME) (*) |
+| mai-otome | 舞-乙HiME | 《舞-乙HiME》是由日本日昇动画制作的动画作品。虽然这是《舞-HiME》第二个系列，但《舞-乙HiME》发生在一个新的时空背景，除了角色相同以外，其余皆不相同。 | [维基百科](https://zh.wikipedia.org/zh-cn/舞-乙HiME) (*) |
 | hyouka | 冰菓 | | |
 | ookami-san to shichinin no nakama-tachi | 大神与七位伙伴 | 大神与七位伙伴，又译野狼大神（日语：オオカミさんと七人の仲間たち）是冲田雅轻小说作品《大神与…系列》的第一部，并有动画等衍生作品。 | |
 | kikou shoujo wa kizutsukanai | 机巧少女不会受伤 | | |
@@ -1098,3 +1100,14 @@
 | the grim adventures of billy and mandy | 爱酷一族 | 爱酷一族（英文：The Grim Adventures of Billy & Mandy）是一部由卡通频道改革卡通卡通期间，经公众投票选出制作的动画，旧译为怪诞骷髅魔、开膛手格林。 | [维基百科](https://zh.wikipedia.org/wiki/愛酷一族) (*) |
 | inspector gadget | 神探加杰特 | G型神探（Inspector Gadget），又译“奇探加杰特”，或是“神探万事通”（港译：万能探长），是一部1983年9月10日播出第1季的卡通。影集由美国DiC Entertainment公司制作。后来在1995年出版第2季，总共86集(65+21)。 | [维基百科](https://zh.wikipedia.org/zh-cn/神探加杰特) (*) |
 | the life and times of juniper lee |  魔法少女Juniper Lee| 魔法少女Juniper Lee（英文：The Life and Times of Juniper Lee）是一套由Cartoon Network Studios制作的动画集。这个故事中的主角 — Juniper Lee， 住在一个与魔界错乱混合的城市。尽管城内的人都不能看到魔界怪兽，但能看见其所作的破坏。于是，Juniper被赋予“守护者”的身份，协助令魔界和人间界的生活节奏平衡。 | [维基百科](https://zh.wikipedia.org/wiki/魔法少女Juniper_Lee) (*) |
+| xenogears | 异度装甲 | 《异度装甲》（日语：ゼノギアス，英语：Xenogears，港台译作“异域神兵”）是一部科幻角色扮演游戏，游戏由史克威尔（现史克威尔艾尼克斯）开发并发行于索尼PlayStation平台，游戏于1998年2月11日发布于日本，同年10月20日发布于北美，但游戏并未于欧洲发布。游戏在2003年由史克威尔艾尼克斯以Greatest Hits之名重新发布，游戏还在2008年6月25日和2011年2月22日分别发布于日本和北美的PlayStation Network。2004年7月10日由民间团体“XG中文版制作组”发布针对日文版的汉化程序，使中文玩家可以在全中文环境下进行游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域神兵) (*) |
+| sousei no onmyouji | 双星之阴阳师 | 双星之阴阳师（日语：双星の陰陽師）是由日本漫画家助野嘉昭创作的奇幻漫画作品，自2013年12月3日起连载于集英社《Jump Square》，台湾则在《宝岛少年EX》创刊号从第15话开始连载。故事描述被称为“双星”的两位阴阳师与他们的敌人“污秽”互相对战的过程。至2017年7月为止已发行12册单行本，台湾中文版由东立出版社代理，至2017年4月已出版9册。改编的电视动画由田口智久担任导演，由Studio Pierrot制作，自2016年4月6日起开始播放，台湾、香港由Animax播放，全50话，已播放完毕。 | [维基百科](https://zh.wikipedia.org/zh-cn/雙星之陰陽師) (*) |
+| sengoku collection | 战国Collection | 《战国Collection》（日语：戦国コレクション，又译：战国大乱斗）是2012年4月开始播出的动画，以同名社群卡牌游戏为原作。 | [维基百科](https://zh.wikipedia.org/zh-cn/戰國Collection) (*) |
+| doctor strange | 奇异博士 | 《奇异博士》（英语：Doctor Strange）是一部2016年美国超级英雄电影，改编自漫威漫画旗下的同名漫画人物。 | [维基百科](https://zh.wikipedia.org/wiki/奇異博士_(電影)) (*) |
+| knights and magic | 骑士&魔法 | 《骑士&魔法》（日语：ナイツ&マジック）是天酒之瓢著作的日本轻小说作品。最初是发表于小说投稿网站《成为小说家吧》的网络连载小说。由主妇之友社出版，插画为黑银。2017年7月2日起由东京都会电视台、京都放送等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/騎士%26魔法) (*) |
+| mahou shoujo ikusei keikaku | 魔法少女育成计划 | 《魔法少女育成计划》（日语：魔法少女育成計画）是远藤浅蜊所作的日本轻小说作品，插图由マルイノ绘画，定位为“16位魔法少女为生存而战”的求生动作小说。并有漫画、广播剧CD等衍生作品。2016年3月宣布改编为电视动画，同年10月开始播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法少女育成計劃) (*) |
+| arslan senki | 亚尔斯兰战记 | 《亚尔斯兰战记》是田中芳树自1986年开始连载的奇幻小说，1至10卷由角川书店的角川文库出版；后改为光文社出版，1至10卷重新再版，并发行11卷以后的小说。本作在1990年代曾推出漫画和动画：漫画版当时名为《阿尔斯朗战记》，由中村地里绘画，台湾东贩代理中文版；动画第一、二部以剧场版分别于1991年和1992年推出，其后在1993年至1995再发行4部OVA。 | [维基百科](https://zh.wikipedia.org/zh-cn/亞爾斯蘭戰記) (*) |
+| chousoku henkei gyrozetter | 超速变形螺旋杰特 | 《超速变形螺旋杰特》（日语：超速変形ジャイロゼッター），是一套于2012年6月开始在日本设置的街机游戏，于10月被改编成动画影集。电视动画全51话。 | [维基百科](https://zh.wikipedia.org/zh-cn/超速變形螺旋傑特) (*) |
+| kengan ashura | 拳愿阿修罗 | 《拳愿阿修罗》是三肉必起·牙霸子原作、达露没恩负责作画，在里Sunday（少年Sunday编辑部所经营的WEB漫画网站）上连载的格斗漫画，至2015年8月1日第一部完结。 | [维基百科](https://zh.wikipedia.org/zh-cn/拳願阿修羅) (*) |
+| tonari no miko-san wa minna warau | 邻家的巫女在微笑 |  | |
+| aikatsu | Aikatsu！偶像活动！ | 《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。 | [维基百科](https://zh.wikipedia.org/zh-cn/Aikatsu%EF%BC%81偶像活動%EF%BC%81) (*) |

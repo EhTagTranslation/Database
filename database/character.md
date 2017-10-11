@@ -1786,6 +1786,12 @@
 | masami iwasawa | 岩泽雅美 |  |  |
 | miyuki irie | 入江美雪 |  |  |
 | shiori sekine | 关根诗织 |  |  |
+| | ▼ 干物妹！小埋 | | |
+| umaru doma | 土间埋 |  | [萌娘百科](https://zh.moegirl.org/土间埋) |
+| taihei doma | 土间大平 |  | [萌娘百科](https://zh.moegirl.org/土间大平) |
+| kirie motoba | 本场切绘 |  | [萌娘百科](https://zh.moegirl.org/本场切绘) |
+| nana ebina | 海老名菜菜 |  | [萌娘百科](https://zh.moegirl.org/海老名菜菜) |
+| sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org/橘·希尔芬福特) |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
