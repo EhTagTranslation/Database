@@ -1679,3 +1679,6 @@
 | tajima yuki | 田岛有纪 | | |
 | nyaito | にゃいと | | |
 | hitsuka no tsukimiko | ひつかのつきみこ | | |
+| hino toshiyuki | 飛野俊之 | | |
+| takato kurosuke | 高遠くろ助 | | |
+| yokkora | ヨッコラ | | |
