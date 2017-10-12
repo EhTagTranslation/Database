@@ -599,8 +599,11 @@
 | goshogun | 战国魔神豪将军 | | |
 | plawres sanshiro | 无敌三四郎 | | |
 | hime-chans ribbon | 缎带魔法少女 | 百变小姬子 | |
-| taimanin yukikaze | 对魔忍雪风 | |
+| | ▼ 对魔忍 系列 | | |
 | taimanin asagi | 对魔忍阿莎姬 | |
+| makai kishi ingrid | 魔界骑士英格丽德 | |
+| taimanin yukikaze | 对魔忍雪风 | |
+| | ▲ 对魔忍 系列 | | |
 | kick-ass | 海扁王 | | |
 | gad guard | 钢铁守护者 | | |
 | tears to tiara | 提亚拉之泪 | | |
@@ -1111,3 +1114,4 @@
 | kengan ashura | 拳愿阿修罗 | 《拳愿阿修罗》是三肉必起·牙霸子原作、达露没恩负责作画，在里Sunday（少年Sunday编辑部所经营的WEB漫画网站）上连载的格斗漫画，至2015年8月1日第一部完结。 | [维基百科](https://zh.wikipedia.org/zh-cn/拳願阿修羅) (*) |
 | tonari no miko-san wa minna warau | 邻家的巫女在微笑 |  | |
 | aikatsu | Aikatsu！偶像活动！ | 《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。 | [维基百科](https://zh.wikipedia.org/zh-cn/Aikatsu%EF%BC%81偶像活動%EF%BC%81) (*) |
+| aho-girl | 笨女孩 | 《笨女孩》（日语：アホガール）是自称清纯派所作的日本漫画。于2012年11月28日发售的《周刊少年Magazine》2012年52号开始连载直到2015年12号，现在连载于别册少年Magazine上，刊载的作品是四格漫画的形式。本作是描写冷酷高中生阿久津明与笨蛋女高中生花畑佳子的学校日常生活的搞笑喜剧作品。电视动画于2017年7月4日起由东京都会电视台、AT-X等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/單蠢女孩) (*) |
