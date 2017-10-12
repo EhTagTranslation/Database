@@ -986,6 +986,22 @@
 | nanairo otogizoushi | 七色御伽草子 | | |
 | buruman | BURUMAN | | |
 | nyaito senyou | にゃいと専用 | | |
+| pinata party | ぴにゃたぱ～てぃ | | |
+| hatena-box | HATENA-BOX | | |
+| black smile | BLACK SMILE | | |
+| ph | PH | | |
+| aane | あーね | | |
+| tsuki no uragawa | ツキノウラガワ | | |
+| manekineko | まねきねこ | | |
+| mayoriyo | MayoRiyo | | |
+| moe shoujo ryouiki | 萌少女领域 | | |
+| sakakiya | 榊屋 | | |
+| unstoppable plus | Unstoppable+ | | |
+| the nation of head scissors | The Nation of Head Scissors | | |
+| airy socks | エアリーソックス | | |
+| sheepfold | 羊小屋 | | |
+| aroma gaeru | あろまガエル | | |
+| arion canvas | Arion Canvas | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |

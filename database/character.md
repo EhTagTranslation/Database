@@ -1793,6 +1793,11 @@
 | nana ebina | 海老名菜菜 |  | [萌娘百科](https://zh.moegirl.org/海老名菜菜) |
 | sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org/橘·希尔芬福特) ||
 | takeshi motoba | 本场猛（崩巴） |  | |
+| | ▼ 对魔忍 | | |
+| asagi igawa | 井河阿莎姬 | | |
+| sakura igawa | 井河樱 | | |
+| rinko akiyama | 秋山凜子 | | |
+| yukikaze mizuki | 水城雪风 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2003,7 +2008,6 @@
 | bloodberry | 红莓 | | |
 | cherry | 樱桃 | | |
 | sakuya tachibana | 橘咲夜 | | |
-| asagi igawa | 井河阿莎姬 | | |
 | kizuna ai | 绊爱 | 人工智障 | |
 | kimi aoi | 葵·喜美 | | |
 | tori aoi | 葵·托利 | | |
