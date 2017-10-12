@@ -1697,3 +1697,6 @@
 | pink taro | ピンク太郎 | | |
 | tendou masae | 天道まさえ | | |
 | numahana | ヌマハナ | | |
+| hino toshiyuki | 飞野俊之 | | |
+| takato kurosuke | 高遠くろ助 | | |
+| yokkora | ヨッコラ | | |
