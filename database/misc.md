@@ -101,4 +101,3 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 | |
 | | == 非长期标签 == | | |
 | | === 非长期标签 > 漫展标签 === | | |
-| c92 | C92 | 在 Comic Market 92 期间发布的作品。<br>此标签有效期为 2017/8/1 - 2017/10/1。 | |
