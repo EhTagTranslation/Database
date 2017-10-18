@@ -1737,11 +1737,11 @@
 | ebi ebi | エビエビ | | |
 | gabyonuno | ガビョ布 | | |
 | heppokokun | へっぽこくん | | |
-| honda aru | 翻田亜流 | | |
+| honda aru | 翻田亚流 | | |
 | hoshino fuuta | ほしのふうた | | |
 | kani kani | かにかに | | |
 | katsumata kazuki | かつまたかずき | | |
-| kirihara kotori | 桐原小鳥 | | |
+| kirihara kotori | 桐原小鸟 | | |
 | kokekokko coma | こけこっこ☆こま | | |
 | nagareboshi hikaru | 流星ひかる | | |
 | mihara jun | みはらじゅん | | |
