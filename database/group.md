@@ -1031,8 +1031,13 @@
 | shallot coco | シャルロット・ココ | | |
 | orange restaurant | オレンジレストラン | | |
 | astro creep | ASTRO CREEP | | |
+| gin no hoshitei | 銀の星亭 | | |
+| yorokobi no kuni | ヨロコビの国 | | |
+| babel | BABEL | | |
+| o-g-g | O・G・G | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| triangle | Triangle | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |
 | sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | |
 | fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 | |
@@ -1048,7 +1053,6 @@
 | miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
 | squeez | SQUEEZ | | |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (*) |
-| triangle | Triangle | | |
 | omega star | ωstar | | |
 | norn | Norn | | |
 | aries | Aries | | |
