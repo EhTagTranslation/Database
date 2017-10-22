@@ -1698,7 +1698,6 @@
 | tendou masae | 天道まさえ | | |
 | numahana | ヌマハナ | | |
 | hino toshiyuki | 飞野俊之 | | |
-| takato kurosuke | 高遠くろ助 | | |
 | yokkora | ヨッコラ | | |
 | ahen | AHEN | | |
 | kirishima satoshi | 桐島サトシ | | |
@@ -1745,3 +1744,28 @@
 | kokekokko coma | こけこっこ☆こま | | |
 | nagareboshi hikaru | 流星ひかる | | |
 | mihara jun | みはらじゅん | | |
+| dpc | DPC | | |
+| urase shioji | 浦瀬しおじ | | |
+| yakusho | やくしょ | | |
+| kedama keito | 毛玉ケヰト | | |
+| kurai nao | 仓井尚 | | |
+| narutaki shin | 鳴滝しん | | |
+| matasabu yarou | またさぶ野郎 | | |
+| kagutsuchi | カグツチ | | |
+| nyuu | にゅう | | |
+| kani club | 蟹俱乐部 | | |
+| tabuchi | たぶち | | |
+| nora higuma | ひぐま屋 | | |
+| tohyama eight | 東山エイト | | |
+| shakuhachi nameko | 尺八ナメコ | | |
+| bai asuka | 呗飞鸟 | | |
+| bttamako | 豚たま子 | | |
+| eggplantex | 茄子EX | | |
+| kouno aya | 煌乃あや | | |
+| uzuki haruka | 卯月遥佳 | | |
+| rokudenashi | ロクデナシ | | |
+| mukoujima tenro | むこうじまてんろ | | |
+| kamitsuki manmaru | 上月まんまる | | |
+| kaitou yuuhi | 快刀雄飞 | | |
+| danevan | 丹·艾凡 | Dan·Evan 丹·艾凡，1987年生，上海人。目前是自由插画师，任蓝铅笔签约讲师，喜欢哲学。 | [Pixiv](http://www.pixiv.net/member.php?id=142066) [微博](http://weibo.com/elzheng) [PATREON](https://www.patreon.com/danevan) |
+| kakifly | kakifly | kakifly（日语：かきふらい），日本男性漫画家，出身于京都府。其代表作是四格漫画《K-ON！轻音部》，连载于芳文社的杂志《Manga Time Kirara》、《Manga Time Kirara Carat》。 |  [维基百科](https://zh.wikipedia.org/zh-cn/kakifly) (*) |

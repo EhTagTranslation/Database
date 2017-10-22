@@ -407,8 +407,8 @@
 | strawberry milk studio | Strawberry Milk Studio | | |
 | lolita crusaders | ロリータクルセイダーズ | | |
 | buaifamu | ぶあいふぁむ | | |
-| takenoko gohan | 筍御飯 | | |
-| shinenkan | 新炎館 | | |
+| takenoko gohan | 筍御饭 | | |
+| shinenkan | 新炎馆 | | |
 | studio himawari | スタジオ☆ひまわり | | |
 | tohgoo | 冬宫 | | |
 | takanaruya. | 高鳴る屋。 | | |
@@ -1035,6 +1035,24 @@
 | yorokobi no kuni | ヨロコビの国 | | |
 | babel | BABEL | | |
 | o-g-g | O・G・G | | |
+| ikebukuro dpc | 池袋DPC | | |
+| ningyou gishou | 人形技厂 | | |
+| saiga dou | SAIGA堂 | | |
+| k-drive | K-Drive | | |
+| larchange | L'ARCHANGE | | |
+| nyuu koubou | にゅう工房 | | |
+| freehand tamashii | フリーハンド魂 | | |
+| tabuchi-san chi | たぶちさんち | | |
+| 2d creative | 2Dクリエイティブ | | |
+| higuma-ya | ひぐま屋 | | |
+| clearmana plum | クリアマナ・プラム | | |
+| hanjuku iriko dashi | 半熟いりこ出汁 | | |
+| pururun estate | プルルンエステ | | |
+| heatwave | HEATWAVE | | |
+| nerco | NERCO | | |
+| zensuu hakai kensa | 全数破坏检査 | | |
+| ng010 | NG010 | | |
+| silver meteor | SILVER METEOR | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |
