@@ -1781,3 +1781,17 @@
 | kamakiri | カマキリ |  |  |
 | kurikara | 倶梨伽罗 |  |  |
 | lazy club | LAZYCLUB |  |  |
+| amano koyo | 天乃红叶 | | |
+| hindenburg | ひんでんブルグ | | |
+| kamidera chizu | 神寺千寿 | | |
+| kanou soukyuu | 狩野苍穹 | | |
+| kurokawa mio | 黒河澪 | | |
+| mizukami ranmaru | 水上兰丸 | | |
+| ogawa kanran | おがわ甘藍 | | |
+| orizumeda nyoizou | 折诘田如意三 | | |
+| tanaka juice | 田中十酢 | | |
+| tom tamio | 都夢たみお | | |
+| tsukamoto miei | 塚本ミエイ | | |
+| unno hotaru | 海野萤 | | |
+| watanabe wataru | わたなべわたる | | |
+| ikegami akane | 池上茜 | | |
