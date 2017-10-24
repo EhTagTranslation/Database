@@ -1130,3 +1130,7 @@
 | da capo ii | 初音岛II | 《初音岛II》（日语原名：D.C.II ～ダ・カーポII～，简称D.C.II）是由日本美少女游戏品牌CIRCUS制作和发行的恋爱冒险游戏，是《初音岛》的续作。《初音岛II》的首个游戏版本为电脑版成人游戏，于2006年5月26日推出。并多媒体发展而有漫画、小说、动画和家用游戏机版等多种版本。 | [维基百科](https://zh.wikipedia.org/zh-cn/初音島II) (*) |
 | da capo iii | 初音岛III  | 《初音岛III》（日语原名：D.C.III ～ダ・カーポIII～，简称D.C.III）是一只由日本美少女游戏品牌CIRCUS制作和发行的恋爱冒险游戏，是《初音岛》系列的续作。全年龄版本于2012年4月27日发售。7月7日在TOKYO MX电视台播出的特别节目“初音岛3”中宣布TV动画化，并于2013年1月开始播放。18禁版本《R x-rated》原定2013年4月26日发售，改为5月31日发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/初音島III) (*) |
 | tejina senpai | 魔术前辈 | | |
+| valkyrie no bouken | 女武士大冒险 | 《女武士大冒险 时之钥传说》（日语：ワルキューレの冒険 時の鍵伝説）是一款由南梦宫公司制作和发行的游戏。本游戏于1986年8月1日在FC游戏机上发行。此外，本游戏后于2007年3月20日在Wii Virtual Console上发行，于2013年9月4日在Nintendo 3DS Virtual Console上再版发行，2015年在Wii U Virtual Console再版。 | [维基百科](https://zh.wikipedia.org/zh-cn/女武士大冒险_时之钥传说) (*) |
+| mugen senshi valis | 梦幻战士 | 《梦幻战士》（日版名：夢幻戦士ヴァリス，英文版名：Valis: The Fantasm Soldier）为日本通信网络于1986年发行的发行的横向卷轴动作游戏，是梦幻战士系列的第一作。游戏后移植到多个平台。开发团队是子公司狼组，原案及人物设计者是PiXEL。 | [维基百科](https://zh.wikipedia.org/zh-cn/夢幻戰士) (*) |
+| dream hunter rem | 梦猎人丽梦 |  |  |
+| made in abyss | 来自深渊 | 《来自深渊》（日语：メイドインアビス，英语：MADE IN ABYSS）是奇幻题材的日本漫画作品，由つくしあきひと创作，并于竹书房旗下漫画网站《WEBコミックガンマ》上刊载。 | [维基百科](https://zh.wikipedia.org/zh-cn/來自深淵_(漫畫)) (*) |

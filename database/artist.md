@@ -1769,3 +1769,15 @@
 | kaitou yuuhi | 快刀雄飞 | | |
 | danevan | 丹·艾凡 | Dan·Evan 丹·艾凡，1987年生，上海人。目前是自由插画师，任蓝铅笔签约讲师，喜欢哲学。 | [Pixiv](http://www.pixiv.net/member.php?id=142066) [微博](http://weibo.com/elzheng) [PATREON](https://www.patreon.com/danevan) |
 | kakifly | kakifly | kakifly（日语：かきふらい），日本男性漫画家，出身于京都府。其代表作是四格漫画《K-ON！轻音部》，连载于芳文社的杂志《Manga Time Kirara》、《Manga Time Kirara Carat》。 |  [维基百科](https://zh.wikipedia.org/zh-cn/kakifly) (*) |
+| go-it | Go-It |  |  |
+| ibuki haruhi | 一颯はるひ |  |  |
+| beauty hair | ビューティ・ヘア |  |  |
+| yamamoto yoshifumi | 山本よし文 |  |  |
+| yamano kitsune | 矢间野狐 |  |  |
+| yamanobe kitta | やまのべきった |  |  |
+| shishoku gankou | 紫色雁行 |  |  |
+| nakagawa you | 中川优 |  |  |
+| matsutou tomoki | 松任知基 |  |  |
+| kamakiri | カマキリ |  |  |
+| kurikara | 倶梨伽罗 |  |  |
+| lazy club | LAZYCLUB |  |  |
