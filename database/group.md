@@ -1059,6 +1059,8 @@
 | under the honey shine | Under The Honey Shine |  |  |
 | infinity-force | INFINITY-FORCE |  |  |
 | akane makes revolution | A・M・R | | |
+| gujira 4 gou | ぐじら4号 | | |
+| shimapan | しまぱん | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |

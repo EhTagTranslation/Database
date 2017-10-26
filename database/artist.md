@@ -544,7 +544,6 @@
 | kaisen chuui | 开栓注意 | | |
 | ozy | オジィ | | |
 | sakurai shizuku | 桜井雫 | | |
-| maki | Maki \| MAKI \| まき \| マキ | TwinBox<br>ロジウラマンホール、セブンスヘブンMAXION<br>Caramel Macchiato<br>どくどくめろん | |
 | kokutou nikke | 黒糖ニッケ | | |
 | makuwauni | まくわうに | | |
 | seki | 赤 | | |
@@ -1795,3 +1794,4 @@
 | unno hotaru | 海野萤 | | |
 | watanabe wataru | わたなべわたる | | |
 | ikegami akane | 池上茜 | | |
+| gujira | ぐじら | | |

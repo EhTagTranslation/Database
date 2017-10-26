@@ -1135,3 +1135,7 @@
 | dream hunter rem | 梦猎人丽梦 |  |  |
 | made in abyss | 来自深渊 | 《来自深渊》（日语：メイドインアビス，英语：MADE IN ABYSS）是奇幻题材的日本漫画作品，由つくしあきひと创作，并于竹书房旗下漫画网站《WEBコミックガンマ》上刊载。 | [维基百科](https://zh.wikipedia.org/zh-cn/來自深淵_(漫畫)) (*) |
 | wonder momo | 神奇桃子 |  |  |
+| hero bank | 英雄银行 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Hero_Bank) |
+| monsuno | 兽旋战斗 | 《兽旋战斗》（日语：獣旋バトル モンスーノ）是万代推出的玩具，其后改编成电视动画，由日美合力制作，并于2012年2月首先在美国播放，动画全52话。 | [维基百科](https://zh.wikipedia.org/zh-cn/能量獸之戰獸旋戰鬥) (*) |
+| tengai makyou | 天外魔境 | 天外魔境（日版名：天外魔境，英文版名：Far East of Eden）是由广井王子创作，Hudson Soft和Red Entertainment，并由前者发行的电子游戏系列。首作《天外魔境 Ziria》游戏史上第一个以CD-ROM为媒介的RPG游戏，于1989年6月30日发售。采用浓厚的和风，并由阪本龙一配乐。 | [维基百科](https://zh.wikipedia.org/zh-hans/天外魔境系列) (*) |
+| wingman | 银翼超人 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wing-Man) (*) |

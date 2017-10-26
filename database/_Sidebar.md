@@ -1,7 +1,7 @@
 ﻿* [[EhTagTranslater 项目整体介绍|使用文档]]  
 * [[译文数据库介绍|Home]]
 * [[数据库内容|rows]]  
-    * [[版本信息|version]]([[?|wiki-version-info]])  
+    * [[版本信息|version]] ([[?|wiki-version-info]])  
     * 标签数据  
       请参照格式参与修改  
         * [[艺术家|artist]]  
