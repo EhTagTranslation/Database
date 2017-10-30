@@ -183,7 +183,8 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 | |
 | prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
 | | === 头部 > 头发 === | | |
-| bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。用于有发茬的头部。 | |
+| bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与剃光头混淆(shaved head)。 | |
+| shaved head | 剃光头 | 只有发茬的头部。 | |
 | | === 头部 > 思维 === | | |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依(possession)混淆也不能标为性转换(gender bender)。 | |
 | chloroform | 迷药 | 任何物质用于在没有使用暴力的情况下使人失去知觉。 可能导致强奸(rape)或睡觉(sleeping)。 | |

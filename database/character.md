@@ -1811,6 +1811,10 @@
 | sohara mitsuki | 见月楚原 | | |
 | hiyori kazane | 风音日和 | | |
 | mikako satsukitane | 五月田根美香子 | | |
+| | ▼ 飞天小女警 | | |
+| blossom | 花花 | | |
+| bubbles | 泡泡 | | |
+| buttercup | 毛毛 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -1982,9 +1986,6 @@
 | monkey d. luffy | 蒙奇·D·路飞 | | |
 | elf | 精灵 | | |
 | neko musume | 猫娘 | | |
-| blossom | 花花 | | |
-| bubbles | 泡泡 | | |
-| buttercup | 毛毛 | | |
 | kaoru matsubara | 松原薰 | | |
 | miyako gotokuji | 豪得寺美弥子 | | |
 | momoko akatsutsumi | 赤提和美子 | | |
