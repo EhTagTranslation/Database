@@ -518,7 +518,7 @@
 | mizuki kawashima | 川岛瑞树 | | |
 | nao kamiya | 神谷奈绪 | | |
 |  | 上条春菜 | | |
-|  | 荒木比奈 | | |
+| hina araki | 荒木比奈 | | |
 | ai togo | 东乡爱 | | |
 | riina tada | 多田李衣菜 | | |
 |  | 水木圣来 | | |
