@@ -1616,6 +1616,9 @@
 | alexander | 亚历山大 | | |
 | scathach | 斯卡哈 | | |
 | asterios | 阿斯忒里俄斯 | | |
+| orion | 俄里翁 | | |
+| artemis | 阿耳忒弥斯 | | |
+| altera | 阿提拉 | | |
 | boudica | 布狄卡 | | |
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | | |
 | waver velvet | 韦伯·维尔维特 | | |
