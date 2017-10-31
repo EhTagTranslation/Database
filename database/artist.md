@@ -1796,3 +1796,15 @@
 | ikegami akane | 池上茜 | | |
 | gujira | ぐじら | | |
 | xierra099 | Xierra099 | | |
+| inazuma | INAZUMA | | |
+| tomatto | とまっと | | |
+| gabri-l | 雅舞罹-L | | |
+| amagaeru | あまがえる | | |
+| batta | Batta | | |
+| cyocyo | ちょちょ | | |
+| emons | えもんず | | |
+| saryuu | 沙流 | | |
+| tamano kedama | 玉之けだま | | |
+| yumano yuuki | 有間乃ユウキ | | |
+| kink | きんく | | |
+| kamen no hito | 仮面之人 | | |

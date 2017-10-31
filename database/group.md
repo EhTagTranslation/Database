@@ -1062,6 +1062,12 @@
 | gujira 4 gou | ぐじら4号 | | |
 | shimapan | しまぱん | | |
 | candy paddle | candy paddle | ネムネム | |
+| daihonei | 大本营 | | |
+| condiment moderately | コンディメントは8分目 | | |
+| digital accel works | Digital Accel Works | | |
+| masaoyan | まさお屋ン | | |
+| skirthike | Skirthike | | |
+| mitarashi dango | みたらし団GO | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |
