@@ -18,6 +18,7 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
+| akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 | |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 | |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) | |
 | rider | Rider \| 龙女 | Fate系列英灵<br>《噗哟噗哟》登场角色 | |
@@ -599,7 +600,7 @@
 | mika jougasaki | 城崎美嘉 | | |
 | rika jougasaki | 城崎莉嘉 | | |
 |  | 仙崎惠磨 | | |
-| akane hino | 日野茜 | | |
+|  | 日野茜(重复项) | | |
 | kirari moroboshi | 诸星琪拉莉 | | |
 | airi totoki | 十时爱梨 | | |
 | natalia | 娜塔莉亚 | | |
@@ -1815,6 +1816,123 @@
 | blossom | 花花 | | |
 | bubbles | 泡泡 | | |
 | buttercup | 毛毛 | | |
+| | ▼ 光之美少女 系列 | | |
+| nagisa misumi | 美墨渚 | | |
+| cure black | 黑天使 | | |
+| honoka yukishiro | 雪城穗乃香 | | |
+| cure white | 白天使 | | |
+| hikari kujou | 九条光 | | |
+| shiny luminous | 夏妮露米纳丝 | | |
+| saki hyuuga | 日向咲 | | |
+| cure bloom | 花天使 | | |
+| cure bright | 月天使 | | |
+| mai mishou | 美翔舞 | | |
+| cure egret | 舞天使 | | |
+| cure windy | 风天使 | | |
+| michiru kiryuu | 雾生满 | | |
+| kaoru kiryuu | 雾生薰 | | |
+| nozomi yumehara | 梦原希 | | |
+| cure dream | 梦天使 | | |
+| rin natsuki | 夏木玲 | | |
+| cure rouge | 火天使 | | |
+| urara kasugano | 春日野丽 | | |
+| cure lemonade | 柠檬天使 | | |
+| komachi akimoto | 秋元小町 | | |
+| cure mint | 薄荷天使 | | |
+| karen minazuki | 水无月香恋 | | |
+| cure aqua | 水天使 | | |
+| kurumi mimino | 美美野来未 | | |
+| milky rose | 妙奇露丝 | | |
+| love momozono | 桃园爱 | | |
+| cure peach | 桃天使 | | |
+| miki aono | 苍乃美希 | | |
+| cure berry | 莓天使 | | |
+| inori yamabuki | 山吹祈里 | | |
+| cure pine | 凤梨天使 | | |
+| eas | 伊丝 | | |
+| setsuna higashi | 东刹那 | | |
+| cure passion | 百香果天使 | | |
+| tsubomi hanasaki | 花咲蕾 | | |
+| cure blossom | 花蕾天使 | | |
+| erika kurumi | 来海绘里香 | | |
+| cure marine | 海洋天使 | | |
+| itsuki myoudouin | 明堂院树 | | |
+| cure sunshine | 阳光天使 | | |
+| yuri tsukikage | 月影百合 | | |
+| cure moonlight | 月光天使 | | |
+| cure flower | 花朵天使 | | |
+| cure ange | 守护天使 | | |
+| dark precure | 暗之美少女 | | |
+| hibiki houjou | 北条响 | | |
+| cure melody | 旋律天使 | | |
+| kanade minamino | 南野奏 | | |
+| cure rhythm | 节奏天使 | | |
+| siren | 赛莲 | | |
+| ellen kurokawa | 黑川艾莲 | | |
+| cure beat | 节拍天使 | | |
+| ako shirabe | 调边亚子 | | |
+| cure muse | 谬思天使 | | |
+| misora minamino | 南野美空 | | |
+| miyuki hoshizora | 星空美幸 | | |
+| cure happy | 快乐天使 | | |
+|  | 日野茜(重复项) | | |
+| cure sunny | 晴朗天使 | | |
+| yayoi kise | 黄濑弥生 | | |
+| cure peace | 和平天使 | | |
+| nao midorikawa | 绿川直 | | |
+| cure march | 旋风天使 | | |
+| reika aoki | 青木丽华 | | |
+| cure beauty | 美丽天使 | | |
+| bad end happy | 悲剧快乐天使 | | |
+| bad end sunny | 悲剧晴朗天使 | | |
+| bad end peace | 悲剧和平天使 | | |
+| bad end march | 悲剧旋风天使 | | |
+| bad end beauty | 悲剧美丽天使 | | |
+| mana aida | 相田爱 | | |
+| cure heart | 爱心天使 | | |
+| rikka hishikawa | 菱川六花 | | |
+| cure diamond | 钻石天使 | | |
+| alice yotsuba | 四叶爱丽丝 | | |
+| cure rosetta | 幸运草天使 | | |
+| makoto kenzaki | 剑崎真琴 | | |
+| cure sword | 圣剑天使 | | |
+| aguri madoka | 圆亚久里 | | |
+| cure ace | 王牌天使 | | |
+| megumi aino | 爱乃惠 | | |
+| cure lovely | 可爱天使 | | |
+| hime shirayuki | 白雪姬 | | |
+| cure princess | 公主天使 | | |
+| yuko omori | 大森悠子 | | |
+| cure honey | 蜂蜜天使 | | |
+| iona hikawa | 冰川伊绪奈 | | |
+| cure fortune | 命运天使 | | |
+| maria hikawa | 冰川麻理亚 | | |
+| haruka haruno | 春野遥 | | |
+| cure flora | 花神天使 | | |
+| minami kaidou | 海藤南 | | |
+| cure mermaid | 人鱼天使 | | |
+| kirara amanogawa | 天之川绮罗 | | |
+| cure twinkle | 闪亮天使 | | |
+| towa akagi | 红城永久 | | |
+| cure scarlet | 赤红天使 | | |
+| mirai asahina | 朝日奈未来 | | |
+| cure miracle | 奇迹天使 | | |
+| riko izayoi | 十六夜理子 | | |
+| cure magical | 魔法天使 | | |
+| kotoha hanami | 花海言叶 | | |
+| cure felice | 幸福天使 | | |
+| ichika usami | 宇佐美一花 | | |
+| cure whip | 奶油天使 | | |
+| himari arisugawa | 有栖川阳莉 | | |
+| cure custard | 奶黄天使 | | |
+| aoi tategami | 立神葵 | | |
+| cure gelato | 冰淇淋天使 | | |
+| yukari kotozume | 琴爪缘 | | |
+| cure macaron | 马卡龙天使 | | |
+| akira kenjou | 剑城晶 | | |
+| cure chocolat | 巧克力天使 | | |
+| ciel kirahoshi | 绮罗星夏尔 | | |
+| cure parfait | 芭菲天使 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -1847,8 +1965,6 @@
 | michelle k. davis | 米歇尔·K·戴维斯 | | |
 | chihiro ogino | 荻野千寻 | | |
 | tessie | 泰茜 | 《勇者斗恶龙IV 被引导的人们》里特鲁尼克的妻子 | |
-| rikka hishikawa | 菱川六花 | | |
-| mana aida | 相田爱 | | |
 | leia rolando | 蕾娅·罗兰德 | | |
 | nami | 娜美 | | |
 | tashigi | 达斯琪 | | |
@@ -1884,20 +2000,11 @@
 | hina | 日奈 | | |
 | matoi giboshi | 拟宝珠缠 | | |
 | lemon giboshi | 拟宝珠柠檬 | | |
-| hibiki houjou | 北条响 | | |
-| kanade minamino | 南野奏 | | |
-| misora minamino | 南野美空 | | |
 | iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 | |
 | arle nadja | 阿露露 | 《噗哟噗哟》登场角色 | |
 | tifa lockhart | 蒂法·洛克哈特 | | |
 | aerith gainsborough | 艾瑞丝·盖恩斯巴勒 | | |
 | yuffie kisaragi | 尤菲·如月 | | |
-| cure blossom | 花蕾天使 | | |
-| cure marine | 海洋天使 | | |
-| erika kurumi | 来海绘里香 | | |
-| tsubomi hanasaki | 花咲蕾 | | |
-| cure moonlight | 月光天使 | | |
-| dark precure | 暗之美少女 | | |
 | fumie hashimoto | 桥本文惠 | | |
 | yuuko amasawa | 天泽勇子 | | |
 | yuuko okonogi | 小此木京子 | | |
@@ -1905,11 +2012,6 @@
 | jam kuradoberi | 藏土缘纱梦 | | |
 | ramlethal valentine | 拉姆蕾萨尔 ‧ 华伦泰 | | |
 | alisa ilinichina amiella | 亚莉莎·伊莉妮提娜·阿米耶拉 | | |
-| cure flora | 花神天使 | | |
-| cure mermaid | 人鱼天使 | | |
-| cure twinkle | 闪亮天使 | | |
-| haruka haruno | 春野遥 | | |
-| kirara amanogawa | 天之川绮罗 | | |
 | lara croft | 劳拉·克罗夫特 | | |
 | naoto shirogane | 白钟直斗 | | |
 | hajime ichinose | 一之濑初 | | |
@@ -1981,16 +2083,12 @@
 | shauna | 莎娜 | | |
 | kiruko otonashi | 音无斩子 | | |
 | boa hancock | 波雅·汉库克 | | |
-| cure march | 进天使 | | |
-| nao midorikawa | 绿川直 | | |
 | monkey d. luffy | 蒙奇·D·路飞 | | |
 | elf | 精灵 | | |
 | neko musume | 猫娘 | | |
 | kaoru matsubara | 松原薰 | | |
 | miyako gotokuji | 豪得寺美弥子 | | |
 | momoko akatsutsumi | 赤提和美子 | | |
-| cure black | 黑天使 | | |
-| cure white | 白天使 | | |
 | kougyoku ren | 练红玉 | | |
 | masrur | 马斯鲁尔 | | |
 | morgiana | 摩尔迦娜 | | |
@@ -2043,15 +2141,9 @@
 | mayu | 美格 | | |
 | rin | 凛 | 《游戏王ARC-V》的角色 | |
 | farrah | 法拉 | | |
-| cure chocolat | 巧克力天使 | | |
-| nagisa misumi | 美墨渚 | | |
 | zooey | 佐伊 | | |
-| cure miracle | 奇迹天使 | | |
-| mirai asahina | 朝日奈未来 | | |
-| riko izayoi | 十六夜理子 | | |
 | natsu dragneel | 纳兹·多拉格尼尔 | | |
 | kirara | 绮罗罗 | | |
-| reika aoki | 青木丽华 | | |
 | tamaki kousaka | 向坂环 | | |
 | sellma | 罗克珊努 | | |
 | ruida | 莉卡 | | |
