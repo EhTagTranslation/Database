@@ -21,7 +21,7 @@
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 | |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 | |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) | |
-| rider | Rider \| 龙女 | Fate系列英灵<br>《噗哟噗哟》登场角色 | |
+| rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider。其他情况使用真名。<br>《噗哟噗哟》登场角色 | |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 | |
 | katsuragi | 葛城 | No.203 ![](https://exhentai.org/t/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg)<br> ![](http://ehgt.org/t/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) | |
 | kasumi | 霞 |  No.090 ![](https://exhentai.org/t/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg)<br> ![](http://ehgt.org/t/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | |
@@ -1578,12 +1578,24 @@
 | suzune ichihara | 市原铃音 | | |
 | tatsuya shiba | 司波达也 | | |
 | | ▼ TYPE-MOON | | |
-| saber | Saber | | |
-| archer | Archer | | |
-| lancer | Lancer | | |
-| berserker | Berserker | | |
-|  | Rider | （重复项） | |
-| caster | Caster | | |
+| saber | Saber | 指第四次圣杯战争和第五次圣杯战争中的 Saber（阿尔托莉雅·潘德拉贡）。其他情况使用真名。 | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| red saber | 尼禄·克劳狄乌斯 | | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| saber alter | Saber Alter | 黑Saber | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| saber lily | Saber Lily | 白Saber | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| artoria pendragon | 阿尔托莉雅·潘德拉贡 | 指 FGO 中 artoria pendragon [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| artoria pendragon alter | 阿尔托莉雅·潘德拉贡Alter | 指 FGO 中 artoria pendragon alter [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| souji okita | 冲田总司 | 樱Saber、冲太(おき太)、和服Saber  | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| archer | Archer | 指第五次圣杯战争中的 Archer。其他情况使用真名。 | |
+| gilgamesh | 吉尔伽美什 | | |
+| lancer | Lancer | 指第五次圣杯战争中的 Archer。其他情况使用真名。 | |
+| diarmuid ua duibhne | 迪尔姆德·奥迪那 | | |
+| berserker | Berserker | 指第五次圣杯战争中的 Berserker。其他情况使用真名。 | |
+| lancelot | 兰斯洛特 | | |
+|  | Rider | （重复项）指第五次圣杯战争中的 Rider。其他情况使用真名。 | |
+| iskandar | 伊斯坎达尔 | | |
+| caster | Caster | 指第五次圣杯战争中的 Caster。其他情况使用真名。 | |
+| gilles de rais | 吉尔·德·莱斯 | | |
+| tamamo no mae | 玉藻前 | | |
 | assassin | Assassin | | |
 | shielder | Shielder | | |
 | rin tosaka | 远坂凛 | | |
@@ -1598,10 +1610,6 @@
 | ayako mitsuzuri | 美缀绫子 | | |
 | kane himuro | 冰室钟 | | |
 | kaede makidera | 莳寺枫 | | |
-| gilgamesh | 吉尔伽美什 | | |
-| red saber | 尼禄·克劳狄乌斯 | | |
-| saber alter | Saber Alter | 黑Saber | |
-| saber lily | Saber Lily | 白Saber | |
 | gudao | 咕哒男 | | |
 | gudako | 咕哒子 | | |
 | kiyohime | 清姬 | | |
@@ -1618,7 +1626,6 @@
 | meltlilith | 溶解莉莉丝 | | |
 | passionlip | 热情迷唇 | | |
 | ushiwakamaru | 牛若丸  | | |
-| tamamo no mae | 玉藻前 | | |
 | jack the ripper | 开膛手杰克 | | |
 | jeanne darc | 圣女贞德 | | |
 | nitocris | 尼托克丽丝 | | |
@@ -1648,10 +1655,8 @@
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 | | |
 | miyu edelfelt | 美游·艾德费尔特 | | |
 | sella | 塞拉 | | |
-| diarmuid ua duibhne | 迪尔姆德·奥迪那 | | |
 | euryale | 尤瑞艾莉 | | |
 | irisviel von einzbern | 爱丽丝菲尔·冯·爱因兹贝伦 | | |
-| iskandar | 伊斯坎达尔 | | |
 | shiki ryougi | 两仪式 | | |
 | stheno | 斯忒诺 | | |
 | mordred pendragon | 莫德雷德·潘德拉贡 | | |
@@ -1675,7 +1680,6 @@
 | penthesilea | 彭忒西勒亚 | | |
 | semiramis | 赛米拉米斯 | | |
 | shuten douji | 酒吞童子 | | |
-| souji okita | 冲田总司 | | |
 | tiamat | 提亚马特 | | |
 | | ▼ 刀剑神域 | | |
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  | |
