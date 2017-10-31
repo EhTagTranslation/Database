@@ -998,6 +998,7 @@
 | youko inokuma | 猪熊阳子 | | |
 | sakura karasuma | 乌丸樱 | | |
 | akari kuzehashi | 久世桥朱里 | | |
+| honoka matsubara | 松原穗乃花 | | |
 | | ▼ 珈百璃的堕落 角色 | | |
 | gabriel tenma white | 天真·珈百璃·怀特 | ![](http://ehgt.org/t/c3/d4/c3d41bf0f3b62cbaffdf2371e7ed6c40e03ba4e7-1832579-1280-720-png_l.jpg) | |
 | vignette tsukinose april | 月乃濑·薇奈特·艾普利尔 | ![](http://ehgt.org/t/01/0e/010ea606a24811b55416c16e7efafc77e2cd8a0f-510727-961-1243-jpg_l.jpg) | |
@@ -1898,6 +1899,7 @@
 | cure sword | 圣剑天使 | | |
 | aguri madoka | 圆亚久里 | | |
 | cure ace | 王牌天使 | | |
+| regina | 蕾吉娜 | | |
 | megumi aino | 爱乃惠 | | |
 | cure lovely | 可爱天使 | | |
 | hime shirayuki | 白雪姬 | | |
