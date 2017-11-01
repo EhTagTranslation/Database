@@ -1711,6 +1711,8 @@
 | rinne berlinetta | 凛音·贝利内塔 | | |
 | vivio takamachi | 高町薇薇欧 | | |
 | yuuno scrya | 尤诺·斯克莱亚 | | |
+| amy limietta | 艾蜜·莉米艾特 | | |
+| erio mondial | 艾力奥·曼迪尔 | | |
 | hayate yagami | 八神疾风 | | |
 | shamal | 莎玛尔 | | |
 | signum | 希格纳姆 | | |
@@ -1897,7 +1899,12 @@
 | reika aoki | 青木丽华 | | |
 | cure beauty | 美丽天使 | | |
 | ikuyo hoshizora | 星空育代 | | |
+| masako hino | 日野正子 | | |
 | chiharu kise | 黄濑千春 | | |
+| tomoko midorikawa | 绿川伦子 | | |
+| shizuko aoki | 青木静子 | | |
+| wolfrun | 狼伦 | | |
+| akaooni | 赤鬼 | | |
 | bad end happy | 悲剧快乐天使 | | |
 | bad end sunny | 悲剧晴朗天使 | | |
 | bad end peace | 悲剧和平天使 | | |
