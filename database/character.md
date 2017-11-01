@@ -1871,6 +1871,10 @@
 | cure flower | 花朵天使 | | |
 | cure ange | 守护天使 | | |
 | dark precure | 暗之美少女 | | |
+| mizuki hanasaki | 花咲美月 | | |
+| momoka kurumi | 来海桃香 | | |
+| sakura kurumi | 来海樱 | | |
+| tsubaki myoudouin | 明堂院椿 | |
 | hibiki houjou | 北条响 | | |
 | cure melody | 旋律天使 | | |
 | kanade minamino | 南野奏 | | |
@@ -1880,6 +1884,7 @@
 | cure beat | 节拍天使 | | |
 | ako shirabe | 调边亚子 | | |
 | cure muse | 谬思天使 | | |
+| maria houjou | 北条真理亚 | | |
 | misora minamino | 南野美空 | | |
 | miyuki hoshizora | 星空美幸 | | |
 | cure happy | 快乐天使 | | |
@@ -1891,6 +1896,8 @@
 | cure march | 旋风天使 | | |
 | reika aoki | 青木丽华 | | |
 | cure beauty | 美丽天使 | | |
+| ikuyo hoshizora | 星空育代 | | |
+| chiharu kise | 黄濑千春 | | |
 | bad end happy | 悲剧快乐天使 | | |
 | bad end sunny | 悲剧晴朗天使 | | |
 | bad end peace | 悲剧和平天使 | | |
@@ -1907,6 +1914,7 @@
 | aguri madoka | 圆亚久里 | | |
 | cure ace | 王牌天使 | | |
 | regina | 蕾吉娜 | | |
+| ryoko hishikawa | 菱川亮子 | | |
 | megumi aino | 爱乃惠 | | |
 | cure lovely | 可爱天使 | | |
 | hime shirayuki | 白雪姬 | | |
