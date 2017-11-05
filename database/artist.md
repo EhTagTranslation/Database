@@ -1808,3 +1808,4 @@
 | yumano yuuki | 有間乃ユウキ | | |
 | kink | きんく | | |
 | kamen no hito | 仮面之人 | | |
+| hakuyagen | 白夜弦 | | [Pixiv](https://www.pixiv.net/member.php?id=3147599) |
