@@ -1817,8 +1817,9 @@
 | | ▼ 天降之物 | | |
 | tomoki sakurai | 樱井智树 | | |
 | ikaros | 伊卡洛斯 | | |
-| nymph | 宁芙 | | |
+| nymph | 妮姆芙 | | |
 | astraea | 阿斯特蕾亚 | | |
+| chaos | 卡奥斯 | | |
 | sohara mitsuki | 见月楚原 | | |
 | hiyori kazane | 风音日和 | | |
 | mikako satsukitane | 五月田根美香子 | | |
