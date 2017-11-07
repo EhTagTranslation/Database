@@ -1085,6 +1085,7 @@
 | mamiretei | まみれ亭 | | |
 | osouzaiya-san | お総菜屋さん | | |
 | gensuifu | 幻醉腐 | | |
+| zooya | ZOOYA! | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |
