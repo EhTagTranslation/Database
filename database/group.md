@@ -1068,6 +1068,23 @@
 | masaoyan | まさお屋ン | | |
 | skirthike | Skirthike | | |
 | mitarashi dango | みたらし団GO | | |
+| cartagra | 骨牌仓 | | |
+| fomalhaut | FOMALHAUT | | |
+| ring castle | Ring Castle | | |
+| takatakaya | たか々屋 | | |
+| unagigoya | うなぎ小屋 | | |
+| celtrance | CELTRANCE | | |
+| amazoness | アマゾネス | | |
+| hitotsukami | ヒトツカミ | | |
+| kossorikakuredokoro | こっそり隠れ処 | | |
+| sweet milk shake | すいーとみるくしぇいく | | |
+| jabarand | ジャバランド | | |
+| kuromutu | くろむつ | | |
+| hoyoyodou | ほよよ堂 | | |
+| wlho | WLHO | | |
+| mamiretei | まみれ亭 | | |
+| osouzaiya-san | お総菜屋さん | | |
+| gensuifu | 幻醉腐 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |

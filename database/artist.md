@@ -1809,3 +1809,20 @@
 | kink | きんく | | |
 | kamen no hito | 仮面之人 | | |
 | hakuyagen | 白夜弦 | | [Pixiv](https://www.pixiv.net/member.php?id=3147599) |
+| kugami angning | 九神杏仁 | | |
+| yanagi asahi | 夜凪朝妃 | | |
+| tanaka shoutarou | 田中松太郎 | | |
+| nuko yarou | ぬこやろう | | |
+| kaniya shiku | 蟹屋しく | | |
+| suzushiro atsushi | 铃城敦 | | |
+| denjarasu yamada | やまだ | | [Pixiv](https://www.pixiv.net/member.php?id=3514185) |
+| sakura puchilo | さくらぷちろー | | |
+| shuko | SHUKO | | |
+| todoroki | 轰 | | |
+| kitamura kouichi | 奇田村光一 | | |
+| jabara tornado | 蛇腹トルネード | | |
+| kuroda mutu | 黑田陆奥 | | |
+| hoyoyo | ほよよ | | |
+| aoi tiduru | 葵井ちづる | | |
+| agawa ryo | 阿川椋 | | |
+| nise kurosaki | 偽くろさき | | |
