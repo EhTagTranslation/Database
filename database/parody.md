@@ -1139,3 +1139,8 @@
 | monsuno | 兽旋战斗 | 《兽旋战斗》（日语：獣旋バトル モンスーノ）是万代推出的玩具，其后改编成电视动画，由日美合力制作，并于2012年2月首先在美国播放，动画全52话。 | [维基百科](https://zh.wikipedia.org/zh-cn/能量獸之戰獸旋戰鬥) (*) |
 | tengai makyou | 天外魔境 | 天外魔境（日版名：天外魔境，英文版名：Far East of Eden）是由广井王子创作，Hudson Soft和Red Entertainment，并由前者发行的电子游戏系列。首作《天外魔境 Ziria》游戏史上第一个以CD-ROM为媒介的RPG游戏，于1989年6月30日发售。采用浓厚的和风，并由阪本龙一配乐。 | [维基百科](https://zh.wikipedia.org/zh-hans/天外魔境系列) (*) |
 | wingman | 银翼超人 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wing-Man) (*) |
+| fight ippatsu juuden-chan | 魔力充电娘 | 《魔力充电娘》（ファイト一発!充電ちゃん）是ぢたま(某)的漫画作品，在Comic Gum2006年1月号到2013年12月号期间连载。单行本由WANI BOOKS发售共10册，中文版由尖端出版代理发售。2009年播放电视动画共12集。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔力充電娘) (*) |
+| needless | 超能力大战 | 《超能力大战》（NEEDLESS）是今井神的基督教末世论题材漫画作品，并改编为同名电视动画。2003年起在集英社的Ultra Jump杂志上开始正式连载（不定期刊登的NEEDLESS ZERO早在2001年），至2013年六月号第一部完结，全16册，外传2册，相似世界观的姐妹作Black spot全2册。未有消息将续作下去。 | [维基百科](https://zh.wikipedia.org/zh-cn/超能力大戰) (*) |
+| the sacred blacksmith | 圣剑锻造师 | 《圣剑锻造师》（聖剣の刀鍛冶，The Sacred Blacksmith）是三浦勇雄的轻小说作品，屡那担任插画。MF文库J（Media Factory）出版；繁体中文版由东立出版社代理出版；简体中文版由天闻角川代理发行，湖南美术出版社出版。目前漫画版由山田孝太郎执笔，在《月刊Comic Alive》上连载中，尖端出版代理中文版。电视动画于2009年10月3日播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/聖劍鍛造師) (*) |
+| kampfer | 肯普法 | 《肯普法》（日语：けんぷファー；英语／德语：Kämpfer(源自德语中"战士"一词)）是筑地俊彦撰写，Senmu绘插画的轻小说作品，由Media Factory的MF文库J出版发行，中文版由尖端出版社代理发行。2008年2月27日开始在月刊Comic Alive上连载由橘由宇改编的漫画。2009年10月在TBS系播放电视动画。特别篇“肯普法 为了爱”（けんぷファー für die Liebe）于2011年4月7日在TBS系播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/肯普法) (*) |
+| onmyoji | 阴阳师 | 《阴阳师》是网易2016年推出的手机卡牌游戏，对应Android和iOS平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E9%98%B4%E9%98%B3%E5%B8%88_%28%E6%B8%B8%E6%88%8F%29) (*) |
