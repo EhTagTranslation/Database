@@ -2174,3 +2174,4 @@
 | ruida | 莉卡 | | |
 | mar | 梅亚 | | |
 | vice | 薇思 | | |
+| misato katsuragi | 葛城美里 | | |
