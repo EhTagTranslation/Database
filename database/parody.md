@@ -1144,3 +1144,5 @@
 | the sacred blacksmith | 圣剑锻造师 | 《圣剑锻造师》（聖剣の刀鍛冶，The Sacred Blacksmith）是三浦勇雄的轻小说作品，屡那担任插画。MF文库J（Media Factory）出版；繁体中文版由东立出版社代理出版；简体中文版由天闻角川代理发行，湖南美术出版社出版。目前漫画版由山田孝太郎执笔，在《月刊Comic Alive》上连载中，尖端出版代理中文版。电视动画于2009年10月3日播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/聖劍鍛造師) (*) |
 | kampfer | 肯普法 | 《肯普法》（日语：けんぷファー；英语／德语：Kämpfer(源自德语中"战士"一词)）是筑地俊彦撰写，Senmu绘插画的轻小说作品，由Media Factory的MF文库J出版发行，中文版由尖端出版社代理发行。2008年2月27日开始在月刊Comic Alive上连载由橘由宇改编的漫画。2009年10月在TBS系播放电视动画。特别篇“肯普法 为了爱”（けんぷファー für die Liebe）于2011年4月7日在TBS系播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/肯普法) (*) |
 | onmyoji | 阴阳师 | 《阴阳师》是网易2016年推出的手机卡牌游戏，对应Android和iOS平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E9%98%B4%E9%98%B3%E5%B8%88_%28%E6%B8%B8%E6%88%8F%29) (*) |
+| brynhildr in the darkness | 极黑的布伦希尔特 | 《极黑的布伦希尔特》（日语：極黒のブリュンヒルデ）是日本漫画家冈本伦所创作的青年漫画，从《周刊YOUNG JUMP》2012年9号至2016年18号连载。截至2016年5月，已出版18本单行本完结，18本中文版单行本由青文出版社代理发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/極黑的布倫希爾德) (*) |
+| super real mahjong | 超真实麻将 |  |  |

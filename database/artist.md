@@ -1853,3 +1853,15 @@
 | koide nao | 小出奈央 | | |
 | ueyama you | Ueyama You | | |
 | umino luka | 海野留珈 | | |
+| kabocha | 南瓜 |  |  |
+| kaidou kazuki | 海道阔毅 |  |  |
+| nishikawa kouto | 西川孔人 |  |  |
+| torosawa | とろさわ |  |  |
+| sekira ame | せきらあめ |  |  |
+| koaya aco | コアヤアコ |  |  |
+| yagami shuuichi | 八神秋一 |  |  |
+| aimaitei umami | 愛昧亭うまみ |  |  |
+| ohara hiroki | 绪原博绮 |  |  |
+| hanaduka ryouji | 华塚良治 |  |  |
+| komine tsubasa | 小峯つばさ |  |  |
+| arikawa katokichi | ありかわかときち |  |  |

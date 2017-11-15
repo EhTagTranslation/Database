@@ -1089,6 +1089,13 @@
 | nanashi no rakugakijo | 名無しの落書き所 | | |
 | m-ya | M屋 | | |
 | blue bean | ぶるーびーん | | |
+| dr.vermilion | Dr.VERMILION |  |  |
+| kinqhassin | 紧急发进 |  |  |
+| yagisaki ginza | 八木崎银座 |  |  |
+| p.l.t.works | P.L.T.works |  |  |
+| galaxy monooki | ギャラクシー物置 |  |  |
+| arikawadou | 有川堂 |  |  |
+| akatsuki souken | 晓创圈 |  |  |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |
