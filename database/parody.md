@@ -1146,3 +1146,4 @@
 | onmyoji | 阴阳师 | 《阴阳师》是网易2016年推出的手机卡牌游戏，对应Android和iOS平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E9%98%B4%E9%98%B3%E5%B8%88_%28%E6%B8%B8%E6%88%8F%29) (*) |
 | brynhildr in the darkness | 极黑的布伦希尔特 | 《极黑的布伦希尔特》（日语：極黒のブリュンヒルデ）是日本漫画家冈本伦所创作的青年漫画，从《周刊YOUNG JUMP》2012年9号至2016年18号连载。截至2016年5月，已出版18本单行本完结，18本中文版单行本由青文出版社代理发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/極黑的布倫希爾德) (*) |
 | super real mahjong | 超真实麻将 |  |  |
+| journey to the west| 西游记 |  |  |
