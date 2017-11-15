@@ -2173,3 +2173,6 @@
 | sellma | 罗克珊努 | | |
 | ruida | 莉卡 | | |
 | mar | 梅亚 | | |
+| vice | 薇思 | | |
+| misato katsuragi | 葛城美里 | | |
+| mari illustrious makinami | 真希波·真理·伊拉丝多莉亚斯 | | |
