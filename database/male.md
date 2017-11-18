@@ -8,7 +8,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 
 对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
 
-对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
 
 本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
 
