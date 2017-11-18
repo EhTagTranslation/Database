@@ -196,7 +196,7 @@
 | fate hollow ataraxia | Fate/hollow ataraxia | ![](http://ehgt.org/t/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) | |
 | fate extra | Fate/EXTRA | ![](http://ehgt.org/t/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | |
 | fate extella | Fate/EXTELLA | 《Fate/EXTELLA》是由Marvelous制作发行的一款ACT游戏，于2016年11月10日登陆PS4/PSV，亚洲中韩文合版于2016年12月15日发售。并于2017年7月20日登陆Nintendo Switch，且内置索尼互动娱乐台湾中文化中心翻译的繁体中文语言。2017年7月26日，在Steam平台发售PC版，内置繁体中文语言，并开放DLC（皮肤）购买。 | |
-| fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg)) | |
+| fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg) | |
 | mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 | |
 | kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 | |
 | canaan | 迦南 | 《CANAAN》，中译迦南，是以日本视觉小说游戏《428 ～被封锁的涩谷～》的世界观为基础，相当于其续作的，以中国上海为舞台，由TYPE-MOON担当脚本及人设，P.A.WORKS公司制作的一部电视动画，共13集。2009年7月4日－2009年9月26日在日本播放。最初发表的标题为“428 the animation”。 同名的漫画也在《月刊CompAce》上开始连载。此外，电视动画播毕后，还有3部相关的剧场版计划上映。 | |
