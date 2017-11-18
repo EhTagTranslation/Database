@@ -416,7 +416,8 @@
 | kono naka ni hitori imouto ga iru | 其中1个是妹妹 | | |
 | sailor moon | 美少女战士 | | |
 | dog days | 犬勇者物语 | | |
-| onegai teacher | 拜托了☆老师 | | |
+| onegai teacher | 拜托了☆老师 | 《拜托了☆老师》（日文：おねがい☆ティーチャー），是一部由Please!制作的动画作品。该部动画于2002年1月10日至3月28日在WOWOW播放；Animax Asia引进版权并于香港及东亚等地区播放，JET日本台引进版权并于台湾播放。另有漫画版本，由林家志弦作画。 | [维基百科](https://zh.wikipedia.org/zh-cn/拜託了☆老師) (*) |
+| onegai twins | 拜托了☆双子星 | 《拜托了☆双子星》（日语：おねがい☆ツインズ）是一部日本动画作品，是《拜托了☆老师》的续篇。 | [维基百科](https://zh.wikipedia.org/zh-cn/拜託了☆雙子星) (*) |
 | rinne no lagrange | 轮回的拉格朗日 | | |
 | monster musume no iru nichijou | 魔物娘的相伴日常 | | |
 | black lagoon | 黑礁 | | |
@@ -1146,4 +1147,16 @@
 | onmyoji | 阴阳师 | 《阴阳师》是网易2016年推出的手机卡牌游戏，对应Android和iOS平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/%E9%98%B4%E9%98%B3%E5%B8%88_%28%E6%B8%B8%E6%88%8F%29) (*) |
 | brynhildr in the darkness | 极黑的布伦希尔特 | 《极黑的布伦希尔特》（日语：極黒のブリュンヒルデ）是日本漫画家冈本伦所创作的青年漫画，从《周刊YOUNG JUMP》2012年9号至2016年18号连载。截至2016年5月，已出版18本单行本完结，18本中文版单行本由青文出版社代理发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/極黑的布倫希爾德) (*) |
 | super real mahjong | 超真实麻将 |  |  |
-| journey to the west| 西游记 |  |  |
+| journey to the west | 西游记 |  |  |
+| busou renkin | 武装炼金 | 《武装炼金》是日本漫画家和月伸宏的作品，剧情协力为黑崎薫，2006年改编为电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/武裝鍊金) (*) |
+| jigoku shoujo | 地狱少女 | 《地狱少女》是日本动画以及由此改编的漫画及电视剧。动画于2005年10月4日开始播出，全26集，具有神秘恐怖风格。其漫画则同时在讲谈社月刊《Nakayoshi（なかよし）》上连载，作者为永远幸。 | [维基百科](https://zh.wikipedia.org/zh-cn/地狱少女) (*) |
+| midori no hibi | 美鸟的日记 | 《美鸟的日记》（美鸟の日々）是日本漫画家井上和郎的漫画作品。连载于小学馆《周刊少年Sunday》2002年42号到2004年34号。单行本共八集，中文版由东立出版社代理发售。2004年改编为电视动画播放共13集，2005年台湾曾在纬来电视网播放中文配音版。 | [维基百科](https://zh.wikipedia.org/zh-cn/美鳥的日記) (*) |
+| seirei no moribito | 精灵守护者 | 守护者系列（守り人シリーズ）是上桥菜穗子异世界幻想小说的系列作品。加上旅人系列（旅人シリーズ）全套10集。2006年8月，“守护者系列”第一部《精灵守护者》（精霊の守り人）的广播剧在NHK-FM的“青春冒险”（青春アドベンチャー）开始放送。其中《精灵守护者》由Production I.G改编成电视动画，于2007年4月7日～9月29日在日本NHK-BS2播出，共26话。获选为2007年第十一回日本文部省文化厅媒体艺术祭动画部门推荐的作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/守護者系列) (*) |
+| air gear | 飞轮少年 | 《飞轮少年》作者为大暮维人，是一部定位在青春热血的漫画作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/飛輪少年) (*) |
+| bamboo blade | 竹刀少女 | 《BAMBOO BLADE》是土冢理弘原作、五十岚あぐり作画的以剑道为题材的日本漫画作品。从2004年12月3日在杂志YOUNG GANGAN上（创刊号）连载，于2010年9月17日（Vol.18）完结。台湾中文版由尚禾出版社代理。于2007年10月改编为电视动画并开始播放，于2008年3月播放完毕。而香港有线电视儿童台由2009年7月6日起播映。 | [维基百科](https://zh.wikipedia.org/zh-cn/BAMBOO_BLADE) (*) |
+| dance in the vampire bund | 吸血鬼同盟 | 《吸血鬼同盟》（日语：ダンス イン ザ ヴァンパイアバンド；英语：Dance In The Vampire Bund）是环望的日本漫画作品，于2006年开始连载。于2010年1月改编为电视动画播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/吸血鬼同盟) (*) |
+| freezing | 结界女王 | 《结界女王》（日语：フリージング），是韩国作家林达永原作、韩国漫画家金光铉担任作画的日本漫画，在Kill Time Communication（KTC）的漫画杂志《Comic Valkyrie》上进行连载，并改编成电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/結界女王) (*) |
+| omamori himari | 守护猫娘绯鞠 | 《守护猫娘绯鞠》(おまもりひまり，Omamori Himari)是日本漫画家的良米兰的漫画作品，并有同名动画等衍生作品。  | [维基百科](https://zh.wikipedia.org/zh-cn/守護貓娘緋鞠) [萌娘百科](https://zh.moegirl.org/守护猫娘绯鞠 (**) |
+| shinkyoku soukai polyphonica | 神曲奏界Polyphonica | 《神曲奏界》（日语：神曲奏界ポリフォニカ）是以但丁的《神曲》为架空背景所衍生出的电子小说、轻小说、动画及漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/神曲奏界) (*) |
+| tenjou tenge | 天上天下 | 《天上天下》是日本漫画家大暮维人的代表作品，此作品是大暮维人从成人漫画转型至青年漫画的首部作品，由于设定复杂而丰富，人物形象吸引，因而备受欢迎。于《Ultra Jump》1998年第11号至2010年第9号连载，2004年动画化，在朝日电视台播放，香港有线娱乐台亦于2005年播放，台湾则在东森戏剧台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/天上天下) (*) |
+| unbalance x unbalance | 萌道鲜师 | 《萌道鲜师（アンバランス×2）》是由韩国的林达永原作、李秀显作画的漫画作品。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Unbalance_Unbalance) (*) |

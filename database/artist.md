@@ -1865,3 +1865,12 @@
 | hanaduka ryouji | 华塚良治 |  |  |
 | komine tsubasa | 小峯つばさ |  |  |
 | arikawa katokichi | ありかわかときち |  |  |
+| branshea | ブランシェア | | |
+| hiruma kouji | ひるまこうじ | | |
+| kyon | きょん | | |
+| minami tomoko | 南智子 | | |
+| misaki yukihiro | 岬ゆきひろ | | |
+| ajishio | アジシオ | | |
+| basara | バサラ | | |
+| terada zukeo | 寺田ヅケ夫 | | |
+| nekomaru | 猫丸 | | |

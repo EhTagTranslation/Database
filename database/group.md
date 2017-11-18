@@ -1096,6 +1096,9 @@
 | galaxy monooki | ギャラクシー物置 |  |  |
 | arikawadou | 有川堂 |  |  |
 | akatsuki souken | 晓创圈 |  |  |
+| ikaring | 乌贼轮 | | |
+| marvelous grace | Marvelous Grace | | |
+| muchi muchi seven | ムチムチ7 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |
