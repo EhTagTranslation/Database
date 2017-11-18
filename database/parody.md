@@ -196,7 +196,7 @@
 | fate hollow ataraxia | Fate/hollow ataraxia | ![](http://ehgt.org/t/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) | |
 | fate extra | Fate/EXTRA | ![](http://ehgt.org/t/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | |
 | fate extella | Fate/EXTELLA | 《Fate/EXTELLA》是由Marvelous制作发行的一款ACT游戏，于2016年11月10日登陆PS4/PSV，亚洲中韩文合版于2016年12月15日发售。并于2017年7月20日登陆Nintendo Switch，且内置索尼互动娱乐台湾中文化中心翻译的繁体中文语言。2017年7月26日，在Steam平台发售PC版，内置繁体中文语言，并开放DLC（皮肤）购买。 | |
-| fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg) | |
+| fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](http://exhentai.org/t/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg)![图](http://exhentai.org/t/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg)) | |
 | mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 | |
 | kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 | |
 | canaan | 迦南 | 《CANAAN》，中译迦南，是以日本视觉小说游戏《428 ～被封锁的涩谷～》的世界观为基础，相当于其续作的，以中国上海为舞台，由TYPE-MOON担当脚本及人设，P.A.WORKS公司制作的一部电视动画，共13集。2009年7月4日－2009年9月26日在日本播放。最初发表的标题为“428 the animation”。 同名的漫画也在《月刊CompAce》上开始连载。此外，电视动画播毕后，还有3部相关的剧场版计划上映。 | |
@@ -1107,7 +1107,7 @@
 | xenogears | 异度装甲 | 《异度装甲》（日语：ゼノギアス，英语：Xenogears，港台译作“异域神兵”）是一部科幻角色扮演游戏，游戏由史克威尔（现史克威尔艾尼克斯）开发并发行于索尼PlayStation平台，游戏于1998年2月11日发布于日本，同年10月20日发布于北美，但游戏并未于欧洲发布。游戏在2003年由史克威尔艾尼克斯以Greatest Hits之名重新发布，游戏还在2008年6月25日和2011年2月22日分别发布于日本和北美的PlayStation Network。2004年7月10日由民间团体“XG中文版制作组”发布针对日文版的汉化程序，使中文玩家可以在全中文环境下进行游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域神兵) (*) |
 | sousei no onmyouji | 双星之阴阳师 | 双星之阴阳师（日语：双星の陰陽師）是由日本漫画家助野嘉昭创作的奇幻漫画作品，自2013年12月3日起连载于集英社《Jump Square》，台湾则在《宝岛少年EX》创刊号从第15话开始连载。故事描述被称为“双星”的两位阴阳师与他们的敌人“污秽”互相对战的过程。至2017年7月为止已发行12册单行本，台湾中文版由东立出版社代理，至2017年4月已出版9册。改编的电视动画由田口智久担任导演，由Studio Pierrot制作，自2016年4月6日起开始播放，台湾、香港由Animax播放，全50话，已播放完毕。 | [维基百科](https://zh.wikipedia.org/zh-cn/雙星之陰陽師) (*) |
 | sengoku collection | 战国Collection | 《战国Collection》（日语：戦国コレクション，又译：战国大乱斗）是2012年4月开始播出的动画，以同名社群卡牌游戏为原作。 | [维基百科](https://zh.wikipedia.org/zh-cn/戰國Collection) (*) |
-| doctor strange | 奇异博士 | 《奇异博士》（英语：Doctor Strange）是一部2016年美国超级英雄电影，改编自漫威漫画旗下的同名漫画人物。 | [维基百科](https://zh.wikipedia.org/wiki/奇異博士_(電影)) (*) |
+| doctor strange | 奇异博士 | 《奇异博士》（英语：Doctor Strange）是一部2016年美国超级英雄电影，改编自漫威漫画旗下的同名漫画人物。 | [维基百科](https://zh.wikipedia.org/wiki/奇異博士_%28電影%29) (*) |
 | knights and magic | 骑士&魔法 | 《骑士&魔法》（日语：ナイツ&マジック）是天酒之瓢著作的日本轻小说作品。最初是发表于小说投稿网站《成为小说家吧》的网络连载小说。由主妇之友社出版，插画为黑银。2017年7月2日起由东京都会电视台、京都放送等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/騎士%26魔法) (*) |
 | mahou shoujo ikusei keikaku | 魔法少女育成计划 | 《魔法少女育成计划》（日语：魔法少女育成計画）是远藤浅蜊所作的日本轻小说作品，插图由マルイノ绘画，定位为“16位魔法少女为生存而战”的求生动作小说。并有漫画、广播剧CD等衍生作品。2016年3月宣布改编为电视动画，同年10月开始播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法少女育成計劃) (*) |
 | arslan senki | 亚尔斯兰战记 | 《亚尔斯兰战记》是田中芳树自1986年开始连载的奇幻小说，1至10卷由角川书店的角川文库出版；后改为光文社出版，1至10卷重新再版，并发行11卷以后的小说。本作在1990年代曾推出漫画和动画：漫画版当时名为《阿尔斯朗战记》，由中村地里绘画，台湾东贩代理中文版；动画第一、二部以剧场版分别于1991年和1992年推出，其后在1993年至1995再发行4部OVA。 | [维基百科](https://zh.wikipedia.org/zh-cn/亞爾斯蘭戰記) (*) |
@@ -1134,7 +1134,7 @@
 | valkyrie no bouken | 女武士大冒险 | 《女武士大冒险 时之钥传说》（日语：ワルキューレの冒険 時の鍵伝説）是一款由南梦宫公司制作和发行的游戏。本游戏于1986年8月1日在FC游戏机上发行。此外，本游戏后于2007年3月20日在Wii Virtual Console上发行，于2013年9月4日在Nintendo 3DS Virtual Console上再版发行，2015年在Wii U Virtual Console再版。 | [维基百科](https://zh.wikipedia.org/zh-cn/女武士大冒险_时之钥传说) (*) |
 | mugen senshi valis | 梦幻战士 | 《梦幻战士》（日版名：夢幻戦士ヴァリス，英文版名：Valis: The Fantasm Soldier）为日本通信网络于1986年发行的发行的横向卷轴动作游戏，是梦幻战士系列的第一作。游戏后移植到多个平台。开发团队是子公司狼组，原案及人物设计者是PiXEL。 | [维基百科](https://zh.wikipedia.org/zh-cn/夢幻戰士) (*) |
 | dream hunter rem | 梦猎人丽梦 |  |  |
-| made in abyss | 来自深渊 | 《来自深渊》（日语：メイドインアビス，英语：MADE IN ABYSS）是奇幻题材的日本漫画作品，由つくしあきひと创作，并于竹书房旗下漫画网站《WEBコミックガンマ》上刊载。 | [维基百科](https://zh.wikipedia.org/zh-cn/來自深淵_(漫畫)) (*) |
+| made in abyss | 来自深渊 | 《来自深渊》（日语：メイドインアビス，英语：MADE IN ABYSS）是奇幻题材的日本漫画作品，由つくしあきひと创作，并于竹书房旗下漫画网站《WEBコミックガンマ》上刊载。 | [维基百科](https://zh.wikipedia.org/zh-cn/來自深淵_%28漫畫%29) (*) |
 | wonder momo | 神奇桃子 |  |  |
 | hero bank | 英雄银行 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Hero_Bank) |
 | monsuno | 兽旋战斗 | 《兽旋战斗》（日语：獣旋バトル モンスーノ）是万代推出的玩具，其后改编成电视动画，由日美合力制作，并于2012年2月首先在美国播放，动画全52话。 | [维基百科](https://zh.wikipedia.org/zh-cn/能量獸之戰獸旋戰鬥) (*) |
