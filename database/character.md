@@ -418,6 +418,7 @@
 | unicorn | 独角兽 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:独角兽#) |
 | belfast | 贝尔法斯特 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:贝尔法斯特#) |
 | illustrious | 光辉 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:光辉#) |
+| terror | 恐怖 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:恐怖#) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
