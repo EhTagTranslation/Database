@@ -1139,7 +1139,7 @@
 | hero bank | 英雄银行 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Hero_Bank) |
 | monsuno | 兽旋战斗 | 《兽旋战斗》（日语：獣旋バトル モンスーノ）是万代推出的玩具，其后改编成电视动画，由日美合力制作，并于2012年2月首先在美国播放，动画全52话。 | [维基百科](https://zh.wikipedia.org/zh-cn/能量獸之戰獸旋戰鬥) (*) |
 | tengai makyou | 天外魔境 | 天外魔境（日版名：天外魔境，英文版名：Far East of Eden）是由广井王子创作，Hudson Soft和Red Entertainment，并由前者发行的电子游戏系列。首作《天外魔境 Ziria》游戏史上第一个以CD-ROM为媒介的RPG游戏，于1989年6月30日发售。采用浓厚的和风，并由阪本龙一配乐。 | [维基百科](https://zh.wikipedia.org/zh-hans/天外魔境系列) (*) |
-| wingman | 银翼超人 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wing-Man) (*) |
+| wingman | 银翼超人 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wing-Man) |
 | fight ippatsu juuden-chan | 魔力充电娘 | 《魔力充电娘》（ファイト一発!充電ちゃん）是ぢたま(某)的漫画作品，在Comic Gum2006年1月号到2013年12月号期间连载。单行本由WANI BOOKS发售共10册，中文版由尖端出版代理发售。2009年播放电视动画共12集。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔力充電娘) (*) |
 | needless | 超能力大战 | 《超能力大战》（NEEDLESS）是今井神的基督教末世论题材漫画作品，并改编为同名电视动画。2003年起在集英社的Ultra Jump杂志上开始正式连载（不定期刊登的NEEDLESS ZERO早在2001年），至2013年六月号第一部完结，全16册，外传2册，相似世界观的姐妹作Black spot全2册。未有消息将续作下去。 | [维基百科](https://zh.wikipedia.org/zh-cn/超能力大戰) (*) |
 | the sacred blacksmith | 圣剑锻造师 | 《圣剑锻造师》（聖剣の刀鍛冶，The Sacred Blacksmith）是三浦勇雄的轻小说作品，屡那担任插画。MF文库J（Media Factory）出版；繁体中文版由东立出版社代理出版；简体中文版由天闻角川代理发行，湖南美术出版社出版。目前漫画版由山田孝太郎执笔，在《月刊Comic Alive》上连载中，尖端出版代理中文版。电视动画于2009年10月3日播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/聖劍鍛造師) (*) |
@@ -1159,4 +1159,15 @@
 | omamori himari | 守护猫娘绯鞠 | 《守护猫娘绯鞠》(おまもりひまり，Omamori Himari)是日本漫画家的良米兰的漫画作品，并有同名动画等衍生作品。  | [维基百科](https://zh.wikipedia.org/zh-cn/守護貓娘緋鞠) [萌娘百科](https://zh.moegirl.org/守护猫娘绯鞠) (**) |
 | shinkyoku soukai polyphonica | 神曲奏界Polyphonica | 《神曲奏界》（日语：神曲奏界ポリフォニカ）是以但丁的《神曲》为架空背景所衍生出的电子小说、轻小说、动画及漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/神曲奏界) (*) |
 | tenjou tenge | 天上天下 | 《天上天下》是日本漫画家大暮维人的代表作品，此作品是大暮维人从成人漫画转型至青年漫画的首部作品，由于设定复杂而丰富，人物形象吸引，因而备受欢迎。于《Ultra Jump》1998年第11号至2010年第9号连载，2004年动画化，在朝日电视台播放，香港有线娱乐台亦于2005年播放，台湾则在东森戏剧台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/天上天下) (*) |
-| unbalance x unbalance | 萌道鲜师 | 《萌道鲜师（언밸런스×2）》是由韩国的林达永原作、李秀显作画的漫画作品。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Unbalance_Unbalance) (*) |
+| unbalance x unbalance | 萌道鲜师 | 《萌道鲜师（언밸런스×2）》是由韩国的林达永原作、李秀显作画的漫画作品。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Unbalance_Unbalance) |
+| ange vierge | 圣洁天使 | 《圣洁天使》（日语：アンジュ・ヴィエルジュ，法语：Ange Vierge），是富士见书房开发再由Media Factory在2013年10月4日发售的交换卡片游戏，台湾元美国际映像代理译为“圣洁天使”，大陆天闻角川则采法文“Ange Vierge”。改编同名电视动画于2016年7月播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/聖潔天使) (*) |
+| blend s | 调教咖啡厅 | 《调教咖啡厅》（日语：ブレンド・S）是日本漫画家中山幸的四格漫画作品，于芳文社杂志《Manga Time Kirara Carat》2014年3月号开始连载。已出版4册，台湾尖端出版已出版3册。2016年12月27日在《Manga Time Kirara Carat》宣布推出电视动画，2017年10月7日起于东京都会电视台、AT-X、日本BS放送等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/調教咖啡廳) (*) |
+| command and conquer | 命令与征服 | 命令与征服（英语：Command & Conquer，简称CNC或C&C）是由美国Westwood工作室为PC发行的一系列即时战略游戏及三款第一人称射击游戏。艺电收购Westwood工作室之后，将本系列扩张成数个系列的共同商标，目前此系列游戏由模拟人生工作室所开发。本系列游戏是史上最畅销的即时战略游戏季系列，系列下的游戏总发行量超过3500万套。 | [维基百科](https://zh.wikipedia.org/zh-cn/終極動員令系列) (*) |
+| uninhabited planet survive | 星球流浪记 | 《星球流浪记》，日文原名《無人惑星サヴァイヴ》，是一部日本电视动画，共52集，自2003年10月16日至2004年10月28日在NHK教育电视台首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/星球流浪記) (*) |
+| fatal fury | 饿狼传说 | 饿狼传说（日语：餓狼伝説，英语：Fatal Fury）是1991年SNK发售的一款2D对战格斗游戏，以及此后的同系列对战格斗游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/饿狼传说系列) (*) |
+| princess crown | 公主王冠 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Princess_Crown) |
+| burst angel | 爆裂天使 | 《爆裂天使》是日本动画公司GONZO的一部原创电视动画。2004年4月到9月在朝日电视台播出。全24话（共12卷）。2007年3月发行OVA。台湾单行本由东立出版社代理发行，全3册，动画由木棉花国际代理发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/爆裂天使) (*) |
+| k | K | 《K》，是名为“GoRA”的七名作家团体原著、动画公司GoHands制作的原创电视动画。2012年10月4日开始播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/K_%28動畫%29) (*) |
+| prince of tennis | 网球王子 | 《网球王子》（日文：テニスの王子様）是日本的漫画，原作者为许斐刚。同作品曾被改编成动画、舞台剧、电影及电视游戏以及中国大陆真人电视剧。其漫画在《Jump Square》公布新一辑“新网球王子”会于2009年4月号开始连载，之前完结的只是“网球王子系列”的序章。 | [维基百科](https://zh.wikipedia.org/zh-cn/网球王子) (*) |
+| lord of lords ryu knight | 霸王大系龙骑士 | 《霸王大系龙骑士（霸王大系リューナイト）》，是Sunrise制作并于1994年4月5日到1995年3月28日在东京电视台播放的日本电视动画，全部共52集。之后在1994年至1996年推出了三部OVA，分别为《霸王大系リューナイト アデュー・レジェンド》、《霸王大系リューナイト アデュー・レジェンドII》、《霸王大系リューナイト アデュー・レジェンド・ファイナル》。 | [维基百科](https://zh.wikipedia.org/zh-cn/霸王大系龍騎士) (*) |
+| tonde buurin | 飞天少女猪 | 飞天少女猪（日语：とんでぶーりん）是池田多惠子的漫画作品，小学馆发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/飛天少女豬) (*) |

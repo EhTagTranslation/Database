@@ -1771,7 +1771,7 @@
 | go-it | Go-It |  |  |
 | ibuki haruhi | 一颯はるひ |  |  |
 | beauty hair | ビューティ・ヘア |  |  |
-| yamamoto yoshifumi | 山本よし文 |  |  |
+| yamamoto yoshifumi | 山本善文 |  |  |
 | yamano kitsune | 矢间野狐 |  |  |
 | yamanobe kitta | やまのべきった |  |  |
 | shishoku gankou | 紫色雁行 |  |  |
@@ -1874,3 +1874,15 @@
 | basara | バサラ | | |
 | terada zukeo | 寺田ヅケ夫 | | |
 | nekomaru | 猫丸 | | |
+| yuzumiya mono | 柚宫MoNo | | |
+| ginhaha | ぎんハハ | | |
+| kiken shisou | 危险思想 | | |
+| dokokano aitsu | 何処乃アイツ | | |
+| ginyoku screw | 銀欲スクリュー | | |
+| hg chagawa | HG茶川 | | |
+| john sitch-oh | ジョン湿地王 | | |
+| kamitani | カミタニ | | |
+| nico pun nise | 笑花伪 | | |
+| okina saina | 冲那彩菜 | | |
+| sonomiya ponta | 想乃宮ぽん太 | | |
+| tendou itto | 天童一斗 | | |

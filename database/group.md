@@ -1099,6 +1099,8 @@
 | ikaring | 乌贼轮 | | |
 | marvelous grace | Marvelous Grace | | |
 | muchi muchi seven | ムチムチ7 | | |
+| yuruyuru gts | ゆるゆるGTS | | |
+| dangerous thoughts | DANGEROUS THOUGHTS | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | triangle | Triangle | | |
