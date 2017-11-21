@@ -212,7 +212,7 @@
 | seira kazuno | 鹿角圣良 | 所属团体 Saint Snow |  |
 | ria kazuno | 鹿角理亚 | 所属团体 Saint Snow |  |
 | | ▲Love Live 人物 | | |
-| | ▼ 舰队Collection-KanColle 人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98)，发现有**200+**个，让我死了吧<br>以下人物按编号排序 | |
+| | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98#)，发现有**200+**个，让我死了吧 <br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 | |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png") | |
 | nagato | 长门 | No.001 长门![长门](# "http://exhentai.org/t/ed/fe/edfeda7b7b1233090e49f049ef629404a9f97a85-1967290-2120-3008-jpg_250.jpg") | |
 | mutsu | 陆奥 | No.002 陆奥![陆奥](# "http://exhentai.org/t/e0/d7/e0d7e77be040aa02024d5576a31680106627d58c-878090-1697-2400-jpg_250.jpg") | |
@@ -415,6 +415,9 @@
 | etorofu | 择捉 | No.334 | |
 | iona | 伊欧娜 | Mist01 | |
 | mamiya | 间宫 | NPC | |
+| unicorn | 独角兽 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:独角兽#) |
+| belfast | 贝尔法斯特 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:贝尔法斯特#) |
+| illustrious | 光辉 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:光辉#) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
@@ -432,7 +435,7 @@
 | kouwan seiki | 港湾栖姬 | | |
 | chuukan seiki | 中间栖姬 | | |
 | hikoujouki | 飞行场姬 | | |
-| | ▲舰队Collection-KanColle 人物 | | |
+| | ▲ 各种舰娘人物 | | |
 | | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 | |
 | producer | 制作人 | | |
 | haruka amami | 天海春香 | | |
@@ -1958,6 +1961,12 @@
 | cure chocolat | 巧克力天使 | | |
 | ciel kirahoshi | 绮罗星夏尔 | | |
 | cure parfait | 芭菲天使 | | |
+| | ▼ 草莓棉花糖 | | |
+| nobue itou | 伊藤伸惠 | | |
+| chika itou | 伊藤千佳 | | |
+| miu matsuoka | 松冈美羽 | | |
+| matsuri sakuragi | 樱木茉莉 | | |
+| ana coppola | 安娜·柯普拉 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |

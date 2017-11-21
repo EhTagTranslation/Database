@@ -1128,7 +1128,7 @@
 | kazakura | 夏樱 | | |
 | rikka kai | リッカー改 | | |
 | matsuryu | 松龙 | | |
-| suzutsuki kurara | 涼月くらら | | |
+| suzutsuki kurara | 涼月くらら | | [Pixiv](https://www.pixiv.net/member.php?id=403279) |
 | naruhodo | なるほど | | |
 | hb | HB | | |
 | yamatogawa | 大和川 | | |
@@ -1512,7 +1512,7 @@
 | koutaro | こうたろ | | |
 | sasaoka gungu | 笹岡ぐんぐ | | |
 | mikazuki akira | みかづきあきら! | | |
-| mikoshiro honnin | みこしろ本人 | | |
+| mikoshiro honnin | みこしろ本人 | 巫代凪遠 | |
 | ariko youichi | 有子瑶一 | | |
 | taira tsukune | 平つくね | | |
 | monikano | モニカノ | | |
@@ -1886,3 +1886,13 @@
 | okina saina | 冲那彩菜 | | |
 | sonomiya ponta | 想乃宮ぽん太 | | |
 | tendou itto | 天童一斗 | | |
+| araki kyouya | 荒木京也 | | |
+| bunchin | ぶんちん | | |
+| don shigeru | DON繁 | | |
+| dorei jackie | 奴隷ジャッキー | | |
+| drill murata | ドリルムラタ | | |
+| kira hiroyoshi | 吉良广义 | | |
+| koshow showshow | 故障少将 | | |
+| shiromi kazuhisa | しろみかずひさ | | |
+| yukarigawa yumiya | 紫川弓夜 | | |
+| eric w. schwartz | Eric W. Schwartz | | |
