@@ -1896,3 +1896,7 @@
 | shiromi kazuhisa | しろみかずひさ | | |
 | yukarigawa yumiya | 紫川弓夜 | | |
 | eric w. schwartz | Eric W. Schwartz | | |
+| x pierrot | Xぴえろ | | [Pixiv](https://www.pixiv.net/member.php?id=13381612) |
+| minust | minusT | | [Pixiv](https://www.pixiv.net/member.php?id=15772166) |
+| irohakaede | イロハカエデ | | [Pixiv](https://www.pixiv.net/member.php?id=11484862) |
+| miwatari renge | 美渡れんげ | | |
