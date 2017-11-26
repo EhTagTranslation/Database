@@ -1937,3 +1937,4 @@
 | madcat | Madcat | | |
 | shinooka homare | 篠岡ほまれ | | |
 | uruujima call | うるう島呼音 | | |
+| koizumi amane | 恋泉天音 | | [Twitter](https://twitter.com/amane_koizumi) |
