@@ -1927,3 +1927,13 @@
 | kumak | KUMAK | | |
 | neneru | ねねる | | |
 | orange bull | 牛橘 | | |
+| ipuu | 伊菩 | 原名イプー | [Pixiv](https://www.pixiv.net/member.php?id=80438) |
+| ohayou-san | おはようさん（翁さい） | | |
+| nadeneko ponia | 撫狸ぽにあ | | |
+| harukoubou norimaki | 春工房のりまき | | |
+| forester | ふぉれすた | | |
+| metal owl | Metal Owl | | |
+| ozaki miray | 尾崎未来 | | |
+| madcat | Madcat | | |
+| shinooka homare | 篠岡ほまれ | | |
+| uruujima call | うるう島呼音 | | |

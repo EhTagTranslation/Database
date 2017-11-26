@@ -1122,8 +1122,13 @@
 | bomb shelter | 核弹避难室 | | |
 | shokakuya | 少年觉醒夜 | | |
 | toadstool factory | 有害蕈类集会所 | | |
+| elane workshop | エルアネ工房 | | |
+| fukuroutei | 福笼亭 | | |
+| zvizva-dan | ズビズバ団 | | |
+| uruujima | うるう島 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
 | triangle | Triangle | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |
 | sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | |
