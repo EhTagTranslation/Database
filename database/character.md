@@ -421,6 +421,12 @@
 | terror | 恐怖 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:恐怖#) |
 | vampire | 吸血鬼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:吸血鬼#) |
 | laffey | 拉菲 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:拉菲#) |
+| eldridge | 埃尔德里奇 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) |
+| prince of wales | 威尔士亲王 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:威尔士亲王#) |
+| pinghai | 平海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:平海#) |
+| ninghai | 宁海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:宁海#) |
+| cygnet | 小天鹅 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:小天鹅#) |
+| kent | 肯特 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:肯特#) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
