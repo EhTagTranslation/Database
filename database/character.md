@@ -2194,3 +2194,11 @@
 | vice | 薇思 | | |
 | misato katsuragi | 葛城美里 | | |
 | mari illustrious makinami | 真希波·真理·伊拉丝多莉亚斯 | | |
+| vice | 天女兽 | | |
+| kazemon | 彩虹兽 | | |
+| ladydevimon | 妖女兽 | | |
+| lilamon | 丁香兽 | | |
+| lilymon | 百合兽 | | |
+| renamon | 妖狐兽 | | |
+| sakuyamon | 沙古牙兽 | | |
+| zephyrmon | 风神兽 | | |
