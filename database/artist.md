@@ -1900,3 +1900,15 @@
 | minust | minusT | | [Pixiv](https://www.pixiv.net/member.php?id=15772166) |
 | irohakaede | イロハカエデ | | [Pixiv](https://www.pixiv.net/member.php?id=11484862) |
 | miwatari renge | 美渡れんげ | | |
+| satofuji masato | 了藤诚仁 | | |
+| yoshi hyuuma | 吉飞雄马 | | |
+| yuri ai | 悠理爱 | | |
+| yamakumo | 山云 | | |
+| purin purin | プリンプリン | | |
+| aoki ume | 蒼樹うめ | | |
+| nekosawaritai | 猫泽鲤鲷 | | |
+| raidon | 来钝 | | |
+| namaniku atk | なまにくATK | | |
+| kumaco | くまこ | | |
+| kuroshibe | クロシベ | | |
+| akise | 秋濑 | | |

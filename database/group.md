@@ -1106,8 +1106,16 @@
 | cobanzame | こばんざめ | | |
 | p shoukai | P商会 | | |
 | indexacg | IndexACG | | |
+| yuriai kojinshi kai | 悠理爱个人志会 | | |
+| lachenalia | Lachenalia | | |
+| apricot plus | apricot+ | | |
+| studio huan | STUDIOふあん | | |
+| machi no onikuya-san | まちのおにくやさん | | |
+| mnst | MNST | | |
+| aohige kaizokudan | 青髯海贼团 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
 | triangle | Triangle | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |
 | sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | |
