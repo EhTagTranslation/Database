@@ -1116,6 +1116,29 @@
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
+| juggernaut | じゃがぁの～と | | |
+| aki no mikaku | あきのみかく | | |
+| ukatsu de wa nai | うかつではない | | |
+| ennui | ENNUI | | |
+| orange channel | ORANGE☆CHANNEL | | |
+| eternal land | ETERNAL LAND | | |
+| timtim machine | TIMTIMマシン | | |
+| artistic time | Artistic Time | | |
+| niliu chahui | 逆流茶会 | | |
+| seikei doujin | 正经同人 | | |
+| b.b.t.t. | B.B.T.T. | | |
+| kumak.com | KUMAK.COM | | ||  |  | | |
+| neruneru | ねるねる | | |
+| bomb shelter | 核弹避难室 | | |
+| shokakuya | 少年觉醒夜 | | |
+| toadstool factory | 有害蕈类集会所 | | |
+| elane workshop | エルアネ工房 | | |
+| fukuroutei | 福笼亭 | | |
+| zvizva-dan | ズビズバ団 | | |
+| uruujima | うるう島 | | |
+| | ▲ 同人社团 | | |
+| | ▼ GAL公司 | | |
+| frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
 | triangle | Triangle | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |
 | sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 | |
