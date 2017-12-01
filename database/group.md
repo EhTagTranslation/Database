@@ -1113,8 +1113,14 @@
 | machi no onikuya-san | まちのおにくやさん | | |
 | mnst | MNST | | |
 | aohige kaizokudan | 青髯海贼团 | | |
+| sanbyaku rokujuu do | -三百六十度- | | |
+| armadillo | Armadillo | | |
+| spec.c | spec.C | | |
+| dragon kitchen | Dragon Kitchen | | |
+| shirukke no ooi zakuro | 汁っけの多い柘榴 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
 | praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
 | juggernaut | じゃがぁの～と | | |
 | aki no mikaku | あきのみかく | | |

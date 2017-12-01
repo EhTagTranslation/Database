@@ -1950,3 +1950,11 @@
 | shinooka homare | 篠岡ほまれ | | |
 | uruujima call | うるう島呼音 | | |
 | koizumi amane | 恋泉天音 | | [Twitter](https://twitter.com/amane_koizumi) |
+| stikyfinkaz-003 | StikyfinkaZ-003 | | |
+| rokuwa | 白鹭六羽 | | |
+| sato daiji | 大慈 | | |
+| akeno minato | 绯野湊 | | |
+| hanabana tsubomi | 華々つぼみ | | |
+| soyosoyo | SOYOSOYO | | |
+| sasorigatame | さそりがため | | |
+| chong wuxin | 虫无心 | | |

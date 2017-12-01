@@ -1106,6 +1106,8 @@
 | | ▼ VOICEROID 角色 | | |
 | yukari yuzuki | 结月缘 | | |
 | maki tsurumaki | 弦卷真纪 | | |
+| akane kotonoha | 琴叶茜 | | |
+| aoi kotonoha | 琴叶葵 | | |
 | | ▼ 樱花庄的宠物女孩 角色 | | |
 | sorata kanda | 神田空太 | | |
 | mashiro shiina | 椎名真白 | | |
