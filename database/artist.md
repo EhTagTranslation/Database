@@ -1497,7 +1497,7 @@
 | jun | Jun |  | |
 | marneko | まる寝子 |  | |
 | miyamoto liz | 宮本りず |  | |
-| nanase mizuho | 七濑瑞穂 |  | |
+| nanase mizuho | 七濑瑞穗 |  | |
 | satou souji | 佐藤想次 |  | |
 | shiina kazuki | しいなかずき |  | |
 | sumisuzu | すみすず |  | |
@@ -1968,3 +1968,10 @@
 | tsuda nanafushi | 津田七节 | | |
 | tokuni mirashichi | 戸国みらしち | | |
 | ganari ryu | がなり龍 | | |
+| ayuya | あゆや | | |
+| kagato | 加画都 | | |
+| ki-you | 贵勇 | | |
+| koujima tenro | 向島てんろ | | |
+| natsume fumika | 夏目文花 | | |
+| potekoro | ぽてころ | | |
+| yukawa asami | 由河朝巳 | | |

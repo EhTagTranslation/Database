@@ -1614,6 +1614,7 @@
 | shielder | Shielder | | |
 | rin tosaka | 远坂凛 | | |
 | sakura matou | 间桐樱 | | |
+| ryuunosuke uryuu | 雨生龙之介 | |
 | shirou emiya | 卫宫士郎 | | |
 | illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | | |
 | shinji matou | 间桐慎二 | | |
@@ -2070,7 +2071,7 @@
 | sasuke uchiha | 宇智波佐助 | | |
 | tsunade | 纲手 | | |
 | anri misugi | 美杉杏莉 | | |
-| makoto hozumi | 穂积真琴 | | |
+| makoto hozumi | 穗积真琴 | | |
 | misao shinohara | 筱原美纱绪 | | |
 | sasami iwakura | 岩仓砂沙美 | | |
 | maam | 玛姆 | | |

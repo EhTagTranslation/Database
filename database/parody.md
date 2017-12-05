@@ -1176,3 +1176,5 @@
 | betterman | 进化战记 | 《进化战记》（ベターマン，BETTERMAN）是1999年4月1日至9月30日期间由东京电视台系列播放的电视动画作品，共26话。 | [维基百科](https://zh.wikipedia.org/zh-cn/进化战记) (*) |
 | tenshi ni narumon | 天使不设防！ | 《天使不设防！》（天使になるもんっ!）是日本电视动画，于1999年播出共26话，监督为锦织博。漫画全2集，原作为HEAVEN PROJECT，漫画由大野哲也所作，角川书店1999年出版。 | [维基百科](https://zh.wikipedia.org/zh-cn/天使不設防%EF%BC%81) (*) |
 | collapse gakuen | 崩坏学园 |  |  |
+| makai tenshi jibril | 魔界天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
+| kamen no maid guy | 假面男仆 | 《假面男仆》是赤衣丸步郎的漫画作品。自2004年在富士见书房《月刊Dragon Age》上连载以来，系列累积销售突破110万本。台湾是由长鸿出版社代理发售繁体中文版。2008年4月5日开始播放电视动画共12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/假面男僕) (*) |

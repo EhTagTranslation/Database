@@ -648,7 +648,7 @@
 | suwateria | すわてりあ | | |
 | ichigosize | いちごさいず | | |
 | bakutaso switch | 爆タソスイッチ | | |
-| miyuuhodoh | 美遊穂堂 | | |
+| miyuuhodoh | 美游穗堂 | | |
 | 7cm | 7センチ | | |
 | nisemididoronokai | 偽MIDI泥の会 | | |
 | veronica no ha | ヴェロニカの歯 | | |
@@ -1122,7 +1122,8 @@
 | furafura toxin | ふらふらトキシン | | |
 | cat garden | CAT GARDEN | | |
 | kuroneko smith | 黒猫スミス | | |
-| rukonosu | 龍虎乃巣 | | |
+| rukonosu | 龙虎乃巢 | | |
+| samoyedest | サモエデスト | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
