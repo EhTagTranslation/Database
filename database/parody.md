@@ -1175,3 +1175,4 @@
 | elsword | 艾尔之光 | 《艾尔之光》（韩语：엘소드，英语：Elsword）是韩国游戏公司KOG Studios研发的一款奇幻历险大型多人在线角色扮演游戏，主打赛璐璐风格横向卷轴的动作游戏，同时也是《永恒冒险》的重制版及姊妹作。 | [维基百科](https://zh.wikipedia.org/zh-cn/艾爾之光) (*) |
 | betterman | 进化战记 | 《进化战记》（ベターマン，BETTERMAN）是1999年4月1日至9月30日期间由东京电视台系列播放的电视动画作品，共26话。 | [维基百科](https://zh.wikipedia.org/zh-cn/进化战记) (*) |
 | tenshi ni narumon | 天使不设防！ | 《天使不设防！》（天使になるもんっ!）是日本电视动画，于1999年播出共26话，监督为锦织博。漫画全2集，原作为HEAVEN PROJECT，漫画由大野哲也所作，角川书店1999年出版。 | [维基百科](https://zh.wikipedia.org/zh-cn/天使不設防%EF%BC%81) (*) |
+| collapse gakuen | 崩坏学园 |  |  |

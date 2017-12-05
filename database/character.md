@@ -551,7 +551,7 @@
 | karen hojo | 北条加莲 | | |
 |  | 凯特 | | |
 |  | 濑名诗织 | | |
-|  | 绫濑穗乃香 | | |
+| honoka ayase | 绫濑穗乃香 | | |
 | yukimi sajo | 佐城雪美 | | |
 |  | 篠原礼 | | |
 | rumi wakui | 和久井留美 | | |
@@ -608,7 +608,7 @@
 | yumi aiba | 相叶夕美 | | |
 |  | 野野村空 | | |
 |  | 滨川爱结奈 | | |
-|  | 若林智香 | | |
+| tomoka wakabayashi | 若林智香 | | |
 | mika jougasaki | 城崎美嘉 | | |
 | rika jougasaki | 城崎莉嘉 | | |
 |  | 仙崎惠磨 | | |
@@ -630,7 +630,7 @@
 |  | 三好纱南 | | |
 |  | 凯蒂·格拉汉姆 | | |
 |  | 难波笑美 | | |
-|  | 滨口菖蒲 | | |
+| ayame hamaguchi | 滨口菖蒲 | | |
 | syoko hoshi | 星辉子 | | |
 |  | 村上巴 | | |
 | ako tsuchiya | 土屋亚子 | | |
@@ -649,7 +649,7 @@
 | julia | 茱莉亚 | | |
 | sayoko takayama | 高山纱代子 | | |
 | kotoha tanaka | 田中琴叶 | | |
-|  | 天空桥朋花 | | |
+| tomoka tenkubashi | 天空桥朋花 | | |
 | serika hakozaki | 箱崎星梨花 | | |
 |  | 松田亚利沙 | | |
 | shizuka mogami | 最上静香 | | |
@@ -673,7 +673,7 @@
 | shiho kitazawa | 北泽志保 | | |
 |  | 篠宫可怜 | | |
 | momoko suou | 周防桃子 | | |
-|  | 德川茉莉 | | |
+| matsuri tokugawa | 德川茉莉 | | |
 | megumi tokoro | 所惠美 | | |
 | fuuka toyokawa | 丰川风花 | | |
 | iku nakatani | 中谷育 | | |
