@@ -1118,6 +1118,11 @@
 | spec.c | spec.C | | |
 | dragon kitchen | Dragon Kitchen | | |
 | shirukke no ooi zakuro | 汁っけの多い柘榴 | | |
+| chocolate cube | CHOCOLATE CUBE | | |
+| furafura toxin | ふらふらトキシン | | |
+| cat garden | CAT GARDEN | | |
+| kuroneko smith | 黒猫スミス | | |
+| rukonosu | 龍虎乃巣 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |

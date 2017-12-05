@@ -1958,3 +1958,13 @@
 | soyosoyo | SOYOSOYO | | |
 | sasorigatame | さそりがため | | |
 | chong wuxin | 虫无心 | | |
+| shiitakemiya donco | 椎茸宮どんこ | | |
+| minase kuru | 水瀬くうる | | |
+| miwa futaba | 三輪フタバ | | |
+| arano oki | 荒野冲 | | |
+| nekotewi | ねこてゐ | | |
+| ohisashiburi | お久しぶり | | |
+| tsushima zan | 津嶋ザン | | |
+| tsuda nanafushi | 津田七节 | | |
+| tokuni mirashichi | 戸国みらしち | | |
+| ganari ryu | がなり龍 | | |
