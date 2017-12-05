@@ -2205,3 +2205,4 @@
 | sakuyamon | 沙古牙兽 | | |
 | zephyrmon | 风神兽 | | |
 | martina | 玛尔缇娜 | | |
+| sancho | 桑丘 | | |
