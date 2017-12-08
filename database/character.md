@@ -428,6 +428,7 @@
 | cygnet | 小天鹅 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:小天鹅) |
 | kent | 肯特 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:肯特) |
 | hammann | 哈曼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:哈曼) |
+| mikasa | 三笠 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:三笠) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |

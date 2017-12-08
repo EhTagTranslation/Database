@@ -1179,3 +1179,9 @@
 | makai tenshi jibril | 魔界天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
 | kamen no maid guy | 假面男仆 | 《假面男仆》是赤衣丸步郎的漫画作品。自2004年在富士见书房《月刊Dragon Age》上连载以来，系列累积销售突破110万本。台湾是由长鸿出版社代理发售繁体中文版。2008年4月5日开始播放电视动画共12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/假面男僕) (*) |
 | etrian odyssey | 世界树的迷宫 | 《世界树的迷宫》是ATLUS将于2007年1月18日发售的NDS用3D迷宫RPG游戏。此次公开的情报是介绍能让玩家用自己的手来绘制地图的制图系统。NDS便利的机能使得通过制图系统绘制出来的迷宫充满乐趣及挑战！ |  |
+| in search of the lost future | 寻找失去的未来 | 《寻找失去的未来》（日语原名：失われた未来を求めて，简称：われめて，法语：À la recherche du futur perdu）是由日本游戏公司TRUMPLE于2010年11月26日发售的Windows用十八禁恋爱冒险游戏。标题来自法国作家马塞尔·普鲁斯特的作品《追忆似水年华》。本作改编的2部漫画各连载于《月刊Comp Ace》和《月刊Comic Alive》上。由细田直人担任导演的电视动画于2014年10月4日起在AT-X、TOKYO MX等日本电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/尋找失去的未來) (*) |
+| art of fighting | 龙虎之拳 | 龙虎之拳（英语：Art of Fighting）是SNK于1992年推出的2D对战格斗游戏，以及此后的同系列对战格斗游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍虎之拳) (*) |
+| burning force | 燃烧战队 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バーニングフォース) |
+| golden axe | 战斧 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Golden_Axe) |
+| popful mail | 啵咕物语 | ぽっぷるメイル，英文名：Popful Mail，又名啵咕物语、国内译名：美少女剑士梅尔。是FALCOM古早时期著名的横版ARPG游戏，素质优良，机种繁多，最初平台为PC88，是法老控迷必备的入门游戏。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ぽっぷるメイル) |
+| the wing of madoola | 玛多拉之翼 | 《玛多拉之翼》（日语：マドゥーラの翼）是一款由Sun电子制作和发行的动作冒险游戏。本游戏于1986年12月18日在日本地区FC游戏机发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/玛多拉之翼) (*) |
