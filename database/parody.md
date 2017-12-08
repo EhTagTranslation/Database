@@ -1178,3 +1178,4 @@
 | collapse gakuen | 崩坏学园 |  |  |
 | makai tenshi jibril | 魔界天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
 | kamen no maid guy | 假面男仆 | 《假面男仆》是赤衣丸步郎的漫画作品。自2004年在富士见书房《月刊Dragon Age》上连载以来，系列累积销售突破110万本。台湾是由长鸿出版社代理发售繁体中文版。2008年4月5日开始播放电视动画共12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/假面男僕) (*) |
+| etrian odyssey | 世界树的迷宫 | 《世界树的迷宫》是ATLUS将于2007年1月18日发售的NDS用3D迷宫RPG游戏。此次公开的情报是介绍能让玩家用自己的手来绘制地图的制图系统。NDS便利的机能使得通过制图系统绘制出来的迷宫充满乐趣及挑战！ |  |
