@@ -2199,7 +2199,7 @@
 | vice | 薇思 | | |
 | misato katsuragi | 葛城美里 | | |
 | mari illustrious makinami | 真希波·真理·伊拉丝多莉亚斯 | | |
-| vice | 天女兽 | | |
+| angewomon | 天女兽 | | |
 | kazemon | 彩虹兽 | | |
 | ladydevimon | 妖女兽 | | |
 | lilamon | 丁香兽 | | |
