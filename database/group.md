@@ -1124,6 +1124,7 @@
 | kuroneko smith | 黒猫スミス | | |
 | rukonosu | 龙虎乃巢 | | |
 | samoyedest | サモエデスト | | |
+| yuunabe shinkouchuu | 夕锅进行中 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |

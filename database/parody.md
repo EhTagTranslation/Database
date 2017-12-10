@@ -133,6 +133,7 @@
 | naruto | 火影忍者 | ![图](http://exhentai.org/t/d4/95/d4950b4f715ceb773843df27ac6c713276a18a8a-574384-1200-1740-jpg_l.jpg) | |
 | school rumble | 校园迷糊大王 | ![图](http://exhentai.org/t/99/a6/99a6540c2f25f5dc98b2f1132d653fbe4bc437b1-2416658-1658-2338-jpg_l.jpg)![图](http://ul.ehgt.org/40/63/4063a57712188f2180cbfb8ac11032e46556cd7e-623674-1073-1500-jpg_l.jpg) | |
 | mahou sensei negima | 魔法老师 | ![图](http://exhentai.org/t/df/d9/dfd98ed6b16847abf801eea4808bcd53a951cbff-1232496-2139-3040-jpg_l.jpg)![图](http://ul.ehgt.org/f7/2a/f72a3eeaf14168631eeef64bbf21f641eba48d21-288643-1024-744-jpg_l.jpg) | |
+| uq holder | 悠久持有者！ | 《UQ HOLDER！ 悠久持有者！》（UQ Holder!）是日本漫画家赤松健的漫画作品，也是《魔法老师》的衍生作品。时空背景以《魔法老师》完结80年后的近未来为主。 | [维基百科](https://zh.wikipedia.org/zh-cn/悠久持有者) (*) |
 | neon genesis evangelion | 新世纪福音战士 | ![图](http://exhentai.org/t/f9/83/f983876074d4db91300320f4765fa785e712753e-3168017-2480-3507-jpg_l.jpg)![图](http://exhentai.org/t/25/5a/255a31e7d7deae2213420965c5752f3014eae7f2-1046463-1200-1697-jpg_l.jpg)![图](http://ul.ehgt.org/36/bc/36bc297b5931d32502b99f850ff7073aa77416dc-841515-1200-1719-jpg_l.jpg) | |
 | hidamari sketch | 向阳素描 | ![图](http://ul.ehgt.org/b9/70/b970463d1bbba639509e84138d41857f8047127b-2215157-2449-3000-jpg_l.jpg)![图](http://exhentai.org/t/78/96/7896d7772fc198e1a115547c30fbf86c31dbfbd9-1471000-2104-3000-jpg_l.jpg)![图](http://ul.ehgt.org/90/aa/90aac6d23db2079890b2ff2f5f8b0798db60d1c3-1889871-2449-3000-jpg_l.jpg) | |
 | mahou shoujo lyrical nanoha | 魔法少女奈叶 | ![图](http://exhentai.org/t/b5/0b/b50b1a2d8a7443f70f56441d2db45ce4c6ad7ee5-8618925-2104-3000-png_l.jpg)![图](http://exhentai.org/t/a0/b6/a0b6ef89c8aa99b60e9b9cc4d05073ecde8c3c32-303480-1161-1649-jpg_l.jpg) | |
@@ -1185,3 +1186,5 @@
 | golden axe | 战斧 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Golden_Axe) |
 | popful mail | 啵咕物语 | ぽっぷるメイル，英文名：Popful Mail，又名啵咕物语、国内译名：美少女剑士梅尔。是FALCOM古早时期著名的横版ARPG游戏，素质优良，机种繁多，最初平台为PC88，是法老控迷必备的入门游戏。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ぽっぷるメイル) |
 | the wing of madoola | 玛多拉之翼 | 《玛多拉之翼》（日语：マドゥーラの翼）是一款由Sun电子制作和发行的动作冒险游戏。本游戏于1986年12月18日在日本地区FC游戏机发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/玛多拉之翼) (*) |
+| gakusen toshi asterisk | 学战都市Asterisk | 《学战都市Asterisk》（日语：学戦都市アスタリスク）是三屋咲悠撰写，okiura绘制插画的日本轻小说，MF文库J（Media Factory）出版。繁体中文版由尖端出版代理，译者陈冠安；简体中文版预定由天闻角川代理发行，湖南美术出版社出版。目前日本已推出至第十一卷。2015年10月至12月首播电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/學戰都市Asterisk) (*) |
+| tokyo ghoul | 东京食尸鬼 | 《东京食尸鬼》（東京喰種トーキョーグール，Tokyo Ghoul）是日本漫画家石田翠的青年漫画作品，刊载于集英社旗下漫画杂志《周刊Young Jump》。单行本标题为“东京食尸鬼 Tokyo Ghoul”（日版名：東京喰種トーキョーグール）。台湾中文版由尖端出版代理，香港中文版由玉皇朝代理。 | [维基百科](https://zh.wikipedia.org/zh-cn/東京喰種) (*) |

@@ -1981,6 +1981,30 @@
 | miu matsuoka | 松冈美羽 | | |
 | matsuri sakuragi | 樱木茉莉 | | |
 | ana coppola | 安娜·柯普拉 | | |
+| | ▼ 物语系列 | | |
+| koyomi araragi | 阿良良木历 | | |
+| karen araragi | 阿良良木火怜 | | |
+| tsukihi araragi | 阿良良木月火 | | |
+| kiss-shot acerola-orion heart-under-blade | 姬丝秀忒·雅赛劳拉莉昂·刃下心 | | |
+| shinobu oshino | 忍野忍 | | |
+| ougi oshino | 忍野扇 | | |
+| meme oshino | 忍野咩咩 | | |
+| nadeko sengoku | 千石抚子 | | |
+| hitagi senjougahara | 战场原黑仪 | | |
+| tsubasa hanekawa | 羽川翼 | | |
+| suruga kanbaru | 神原骏河 | | |
+| mayoi hachikuji | 八九寺真宵 | | |
+| deishuu kaiki | 贝木泥舟 | | |
+| yotsugi ononoki | 斧乃木余接 | | |
+| | ▼ 甘城光辉游乐园 | | |
+| seiya kanie | 可儿江西也 | | |
+| isuzu sento | 千斗五十铃 | | |
+| latifa fleuranza | 拉媞珐·芙尔兰札 | | |
+| salama | 萨拉玛 | | |
+| sylphy | 西尔菲 | | |
+| muse | 缪斯 | | |
+| kobory | 柯波莉 | | |
+| eiko adachi | 安达映子 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2063,8 +2087,6 @@
 | lara croft | 劳拉·克罗夫特 | | |
 | naoto shirogane | 白钟直斗 | | |
 | hajime ichinose | 一之濑初 | | |
-| hitagi senjougahara | 战场原黑仪 | | |
-| tsubasa hanekawa | 羽川翼 | | |
 | rabi en rose | 拉比安露斯 | | |
 | lei fang | 雷芳 | | |
 | menace | 美纳斯 | | |
@@ -2147,7 +2169,6 @@
 | kurumi kumamakura | 熊枕久瑠美 | | |
 | mai kawakami | 川神舞 | | |
 | priscilla barielle | 普莉希拉·跋利耶尔 | | |
-| koyomi araragi | 阿良良木历 | | |
 | roomi | 萝米 | | |
 | martial artist | 武斗家 | | |
 | thief | 盗贼 | | |
