@@ -1992,3 +1992,7 @@
 | sas | SAS | | |
 | uyuu atsuno | 烏有あつの | | |
 | iguchi sentarou | 井口千太郎 | | |
+| oborogumo takamitsu | 朧雲たかみつ | | |
+| aoi kumiko | 葵久美子 | | |
+| noripachi | のりパチ | | |
+| hatokonro | 鳩こんろ | | |

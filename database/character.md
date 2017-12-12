@@ -429,6 +429,7 @@
 | kent | 肯特 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:肯特) |
 | hammann | 哈曼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:哈曼) |
 | mikasa | 三笠 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:三笠) |
+| st. louis | 圣路易斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:圣路易斯) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
@@ -2005,6 +2006,24 @@
 | muse | 缪斯 | | |
 | kobory | 柯波莉 | | |
 | eiko adachi | 安达映子 | | |
+| | ▼ 幸运星 | | |
+| soujirou izumi | 泉总次郎 | | |
+| kanata izumi | 泉彼方 | | |
+| konata izumi | 泉此方 | | |
+| miki hiiragi | 柊美纪 | | |
+| kagami hiiragi | 柊镜 | | |
+| tsukasa hiiragi | 柊司 | | |
+| miyuki takara | 高良美幸 | | |
+| misao kusakabe | 日下部美纱绪 | | |
+| ayano minegishi | 峰岸绫乃 | | |
+| yutaka kobayakawa | 小早川优 | | |
+| minami iwasaki | 岩崎南 | | |
+| hiyori tamura | 田村日和 | | |
+| patricia martin | 帕特莉西亚‧马汀 | | |
+| izumi wakase | 若濑和泉 | | |
+| hikaru sakuraba | 樱庭光 | | |
+| fuyuki amahara | 天原冬纪 | | |
+| yukari takara | 高良由香里 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |

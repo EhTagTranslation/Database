@@ -1149,6 +1149,8 @@
 | fukuroutei | 福笼亭 | | |
 | zvizva-dan | ズビズバ団 | | |
 | uruujima | うるう島 | | |
+| chilled house | CHILLED HOUSE | | |
+| jack to nicholson | ジャックとニコルソン | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
