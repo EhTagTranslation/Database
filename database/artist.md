@@ -1615,7 +1615,7 @@
 | higashide irodori | 東出イロドリ | | |
 | hiura r | 火浦R | | |
 | karube guri | 軽部ぐり | | |
-| kazabuki poni | 風のごとく | | |
+| kazabuki poni | 風吹ぽに | | |
 | kusatsu terunyo | 草津てるにょ | | |
 | mario | まりお | | |
 | puniiyu | ぷにいゆ | | |
@@ -1996,3 +1996,12 @@
 | aoi kumiko | 葵久美子 | | |
 | noripachi | のりパチ | | |
 | hatokonro | 鳩こんろ | | |
+| abe yoshitoshi | 安倍吉俊 | | |
+| son hee-joon | 손희준 | | |
+| herurun | へるるん | | |
+| hoshino | 星乃 | | |
+| zyugoya | 十五夜 | | |
+| yamaoka koutetsurou | 山冈钢铁郎 | | |
+| henreader | へんりいだ | | |
+| 47agdragon | 47AgDragon | | |
+| josho isamu | 城所委佐武 | | |

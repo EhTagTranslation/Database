@@ -1151,6 +1151,15 @@
 | uruujima | うるう島 | | |
 | chilled house | CHILLED HOUSE | | |
 | jack to nicholson | ジャックとニコルソン | | |
+| shoujo kakei | 少女架刑 | | |
+| looptheloop | LOOPTHELOOP! | | |
+| tsukimi dango | 月见团子 | | |
+| paradiddle | パラディドル | | |
+| mousouzoku no soukutsu | 妄想族の巣窟 | | |
+| fuji sengendou | 富士浅间堂 | | |
+| negative gang | ネガティブギャング | | |
+| aloe-nano | Aloe-nano | | |
+| genshi bangou 47 | 原子番号47 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
