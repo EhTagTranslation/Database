@@ -54,6 +54,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | | === 身体 > 生物 === | | |
 | alien | 外星人👽 | 具有外星生物特征的男性。 | |
 | angel | 天使 | 拥有天使的翅膀或光环。 | |
+| bear boy | 狗熊男 | 有圆形耳朵和其他熊的特征的男性。 | |
 | bunny boy | 兔子男孩 | 兔女郎(bunny girl)的男性版本。 | |
 | catboy | 猫男 | 猫女(catgirl)的男性版本。 | |
 | centaur | 半人马 | 一半是人，一半是马。 | |
