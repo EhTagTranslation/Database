@@ -2040,6 +2040,9 @@
 | masami fujii | 藤井雅美 | | |
 | natsuhi takenaka | 竹中夏阳 | | |
 | mihoshi takamura | 篁美星 | | |
+| hijiri kuina | 久井奈圣 | | |
+| kaori minato | 凑花织 | | |
+| nayu hasegawa | 长谷川七夕 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
