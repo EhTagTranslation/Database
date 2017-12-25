@@ -2062,6 +2062,28 @@
 | sakura | 樱 | | |
 | joker | 乔克 | | |
 | rinkah | 燐火 | | |
+| | ▼ 美少女战士 | | |
+| mamoru chiba | 地场卫 | | |
+| usagi tsukino | 月野兔 | | |
+| sailor moon | 水手月亮 | | |
+| chibiusa | 小小兔 | | |
+| sailor chibi moon | 水手小月亮 | | |
+| ami mizuno | 水野亚美 | | |
+| sailor mercury | 水手水星 | | |
+| rei hino | 火野丽 | | |
+| sailor mars | 水手火星 | | |
+| makoto kino | 木野真琴 | | |
+| sailor jupiter | 水手木星 | | |
+| minako aino | 爱野美奈子 | | |
+| sailor venus | 水手金星 | | |
+| hotaru tomoe | 土萌萤 | | |
+| sailor saturn | 水手土星 | | |
+| michiru kaioh | 海王满 | | |
+| sailor neptune | 水手海王星 | | |
+| haruka tenoh | 天王遥 | | |
+| sailor uranus | 水手天王星 | | |
+| setsuna meioh | 冥王雪奈 | | |
+| sailor pluto | 水手冥王星 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2078,13 +2100,6 @@
 | zhang chunhua | 张春华 | | |
 | zhuge liang | 诸葛亮 | | |
 | ranma saotome | 早乙女乱马 | | |
-| sailor moon | 水手月亮 | | |
-| sailor mercury | 水手水星 | | |
-| sailor mars | 水手火星 | | |
-| sailor jupiter | 水手木星 | | |
-| sailor venus | 水手金星 | | |
-| sailor saturn | 水手土星 | | |
-| sailor pluto | 水手冥王星 | | |
 | angela | 安吉拉 | 圣剑传说3角色 | |
 | riesz | 莉斯 | 圣剑传说3角色 | |
 | eucliwood hellscythe | 优克莉伍德·海尔赛兹 | | |
@@ -2113,7 +2128,6 @@
 | seolla schweizer | 塞奥拉·修拜亚 | | |
 | chun-li | 春丽 | | |
 | ryu | 隆 | | |
-| hotaru tomoe | 土萌萤 | | |
 | tiki | 芝琪 | 《火焰之纹章：纹章之谜》游戏角色 | |
 | caeda | 希妲 | 《火焰之纹章：纹章之谜》游戏角色 | |
 | catria | 卡秋娅 | 《火焰之纹章：纹章之谜》游戏角色 | |
@@ -2253,7 +2267,6 @@
 | mikage kiryuu | 桐生美影 | | |
 | melda deitz | 梅尔达·狄兹 | | |
 | yuki mori | 森雪 | | |
-| chibiusa | 小小兔 | | |
 | ainz ooal gown | 安兹·乌尔·恭 | | |
 | albedo | 雅儿贝德 | | |
 | aura bella fiora | 亚乌菈·贝拉·菲欧拉 | | |
