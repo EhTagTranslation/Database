@@ -2043,6 +2043,25 @@
 | hijiri kuina | 久井奈圣 | | |
 | kaori minato | 凑花织 | | |
 | nayu hasegawa | 长谷川七夕 | | |
+| | ▼ 火焰之纹章 | | |
+| kamui | 卡姆依 | | |
+| takumi | 拓海 | | |
+| charlotte | 夏洛特 | | |
+| ryoma | 龙马 | | |
+| kagero | 阳炎 | | |
+| orochi | 远吕智 | | |
+| elise | 爱丽丝 | | |
+| flannel | 弗拉内尔 | | |
+| camilla | 卡米拉 | | |
+| felicia | 菲莉西亚 | | |
+| effie | 艾尔菲 | | |
+| flora | 芙洛拉 | | |
+| hinoka | 日乃香 | | |
+| noire | 诺瓦尔 | | |
+| tharja | 萨利娅 | | |
+| sakura | 樱 | | |
+| joker | 乔克 | | |
+| rinkah | 燐火 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2059,7 +2078,6 @@
 | zhang chunhua | 张春华 | | |
 | zhuge liang | 诸葛亮 | | |
 | ranma saotome | 早乙女乱马 | | |
-| kamui | 卡姆依（神威） | | |
 | sailor moon | 水手月亮 | | |
 | sailor mercury | 水手水星 | | |
 | sailor mars | 水手火星 | | |
@@ -2178,7 +2196,6 @@
 | tights brief | 塔依丝 | | |
 | rainbow mika | 七川美华 | | |
 | zangief | 桑吉尔夫 | | |
-| felicia | 菲莉西亚 | | |
 | hugo | 雨果 | | |
 | sakura kasugano | 春日野樱 | | |
 | nel zelpher | 妮露 | | |
