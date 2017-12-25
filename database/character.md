@@ -2062,8 +2062,12 @@
 | sakura | 樱 | | |
 | joker | 乔克 | | |
 | rinkah | 燐火 | | |
+| tiki | 芝琪 | 《火焰之纹章：纹章之谜》游戏角色 | |
+| caeda | 希妲 | 《火焰之纹章：纹章之谜》游戏角色 | |
+| catria | 卡秋娅 | 《火焰之纹章：纹章之谜》游戏角色 | |
 | | ▼ 美少女战士 | | |
 | mamoru chiba | 地场卫 | | |
+| tuxedo mask | 大礼服假面 | | |
 | usagi tsukino | 月野兔 | | |
 | sailor moon | 水手月亮 | | |
 | chibiusa | 小小兔 | | |
@@ -2084,6 +2088,13 @@
 | sailor uranus | 水手天王星 | | |
 | setsuna meioh | 冥王雪奈 | | |
 | sailor pluto | 水手冥王星 | | |
+| kenji tsukino | 月野谦之 | | |
+| ikuko tsukino | 月野育子 | | |
+| shingo tsukino | 月野进悟 | | |
+| naru osaka | 大阪奈留 | | |
+| gurio umino | 海野栗雄 | | |
+| motoki furuhata | 古幡元基 | | |
+| yuuichirou kumada | 熊田雄一郎 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2128,9 +2139,6 @@
 | seolla schweizer | 塞奥拉·修拜亚 | | |
 | chun-li | 春丽 | | |
 | ryu | 隆 | | |
-| tiki | 芝琪 | 《火焰之纹章：纹章之谜》游戏角色 | |
-| caeda | 希妲 | 《火焰之纹章：纹章之谜》游戏角色 | |
-| catria | 卡秋娅 | 《火焰之纹章：纹章之谜》游戏角色 | |
 | fujiko mine | 峰不二子 | | |
 | mirai andou | 安藤美雷 | | |
 | himea saito | 赛托希梅亚 | | |
