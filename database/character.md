@@ -431,6 +431,8 @@
 | mikasa | 三笠 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:三笠) |
 | st. louis | 圣路易斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:圣路易斯) |
 | javelin | 标枪 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:标枪) |
+| nelson | 纳尔逊 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:纳尔逊) |
+| enterprise | 企业 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:企业) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
