@@ -1207,5 +1207,9 @@
 | mikakunin de shinkoukei | 未确认进行式 | 《未确认进行式》（日语：未確認で進行形），是日本漫画家荒井切利（荒井チェリー）的四格漫画作品，在一迅社旗下发行的杂志《漫画4格 Palette》2009年6月号中开始连载。 | [维基百科](https://zh.wikipedia.org/zh-cn/未確認進行式) (*) |
 | tasogare otome x amnesia | 黄昏少女×失忆 | 《黄昏少女×失忆》（日语：黄昏乙女×アムネジア），是日本漫画作品。作者为めいびい。在2012年1月的杂志“GANGAN JOKER”上宣布正式动画化，2012年4月8日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/黃昏乙女×失憶幽靈) (*) |
 | guild wars | 激战 | 激战（Guildwars，又称“行会战争”）是ArenaNet所制作的3D奇幻类型大型多人线上角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/激战_%28游戏%29) (*) |
-| nausicaa of the valley of the wind | 风之谷 | 《风之谷》（風の谷のナウシカ）是日本动画家、导演宫崎骏连载的漫画作品，于1984年3月11日改编成同名电影上映。 | [维基百科](https://zh.wikipedia.org/zh-cn/风之谷) (*) |
 | battle girl high school | 战斗女子高校 | 《战斗女子高校》（日语：バトルガールハイスクール 台版译名：战斗女子学园）是由COLOPL制作的一款智能手机游戏，简称《战女》。  | [萌娘百科](https://zh.moegirl.org/战斗女子高校) (**) |
+| nausicaa of the valley of the wind | 风之谷 | 《风之谷》（風の谷のナウシカ）是日本动画家、导演宫崎骏连载的漫画作品，于1984年3月11日改编成同名电影上映。 | [维基百科](https://zh.wikipedia.org/zh-cn/风之谷) (*) |
+| porco rosso | 红猪 | 《红猪》（日语：紅の豚），是1992年7月18日吉卜力工作室推出的一部的动画电影。 | [维基百科](https://zh.wikipedia.org/zh-cn/红猪) (*) |
+| princess mononoke | 幽灵公主 | 《幽灵公主》（日语：もののけ姫／もののけひめ Mononoke Hime）是日本吉卜力工作室制作、宫崎骏执导于1997年夏季推出的一部动画电影。内容描述著在幻想的室町时代里，一名虾夷少年为了找出自己受诅咒的原因而离开家园，之后介入了一场人类与森林神祇两方的冲突事件。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法公主) (*) |
+| the secret world of arrietty | 借东西的小人阿莉埃蒂 | 《借东西的小人阿莉埃蒂》（日语：借りぐらしのアリエッティ，英语：The Secret World of Arrietty），日语原意为借居的阿丽埃蒂，是日本吉卜力工作室2010年上映的动画电影，剧情改编自英国小说家玛丽·诺顿的奇幻小说《地板下的小矮人》。 | [维基百科](https://zh.wikipedia.org/zh-cn/借物少女艾莉緹) (*) |
+| whisper of the heart | 侧耳倾听 | 《侧耳倾听》（日语：耳をすませば／みみをすませば Mimi Wo Sumaseba，英语：Whisper of the Heart）是由吉卜力工作室的近藤喜文执导、改编自由柊葵创作的同名少女漫画的1995年日本电影动画。该电影于1995年7月15日在日本公开上映，同期上映的还有以男子歌星团体恰克与飞鸟的单曲《On Your Mark》所改编的约六分钟多长的同名短篇动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/心之谷) (*) |
