@@ -811,6 +811,9 @@
 | | ▼ 我的青春恋爱物语果然有问题 角色 |  | |
 | yui yuigahama | 由比滨结衣 | ![由比滨结衣](https://ehgt.org/89/38/8938bf5cb7098806fc2a3607728e64f25b91b7c6-185458-960-544-jpg_l.jpg) | |
 | hachiman hikigaya | 比企谷八幡 | ![比企谷八幡](https://ehgt.org/3c/c9/3cc9d8c6ab2160cd9929b076cb551dba0b9e5f35-113039-960-544-jpg_l.jpg) | |
+| komachi hikigaya | 比企谷小町 |  |  |
+| saki kawasaki | 川崎沙希 |  |  |
+| yoshiteru zaimokuza | 材木座义辉 |  |  |
 | yukino yukinoshita | 雪之下雪乃 | ![雪之下雪乃](https://ehgt.org/57/c8/57c83bdddf676f8ff84d7fbd821321b0482ce71c-97454-960-544-jpg_l.jpg) | |
 | iroha isshiki | 一色彩羽 | ![一色彩羽](https://ehgt.org/40/d1/40d1439e4d21088aa45ca10f9a60f3714dc56a5c-142351-960-544-jpg_l.jpg) | |
 | hayato hayama | 叶山隼人 | ![叶山隼人](https://ehgt.org/t/82/ad/82ad7938b569e9034d6f62be5ea192196b31a193-687472-1920-2883-jpg_l.jpg) | |
