@@ -433,6 +433,7 @@
 | javelin | 标枪 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:标枪) |
 | nelson | 纳尔逊 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:纳尔逊) |
 | enterprise | 企业 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:企业) |
+| ajax | 阿贾克斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:阿贾克斯) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
