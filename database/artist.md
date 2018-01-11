@@ -79,6 +79,7 @@
 | shibayuki | しばゆき | | |
 | newmen | NeWMeN | | |
 | miyasaka miyu | 宮坂みゆ | | |
+| miyasaka naco | 宮坂なこ | | |
 | shimahara | 40原 | | |
 | hayakawa akari | 早川あかり | | |
 | masaharu | まさはる | | |
@@ -2005,3 +2006,17 @@
 | henreader | へんりいだ | | |
 | 47agdragon | 47AgDragon | | |
 | josho isamu | 城所委佐武 | | |
+| ogipote | 荻pote | | |
+| marimofu | まりもふ | | |
+| alison | ALISON | | |
+| shimajirou | 岛次郎 | | |
+| kazuharu kina | 和遥キナ | | |
+| ponta | PoN太 | | |
+| akisora | 秋穹 | | |
+| tanishi mitsuru | タニシミツル | | |
+| mizuno koori | 水乃コオリ | | |
+| akaiguppy | 全红白子 | | |
+| etuzan jakusui | 越山弱衰 | | |
+| eiji | Eiジ | | |
+| oryou | おりょう | | |
+| waguchi shouka | 和口昇火 | | |
