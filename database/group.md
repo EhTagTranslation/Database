@@ -1176,6 +1176,12 @@
 | p.p | P:P | | |
 | loverevo | ラブレボ | | |
 | po buyuu | PO武勇 | | |
+| zensoku rider | 漸速ライダー | | |
+| windarteam | 风艺WindArTeam | | |
+| curl up | CURL UP | | |
+| gensou stomach | 幻想ストマック | | |
+| 88 gou | 88号 | | |
+| ofuton de suyaa | おふとんでスヤァ | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |

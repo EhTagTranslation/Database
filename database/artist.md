@@ -2020,3 +2020,9 @@
 | eiji | Eiジ | | |
 | oryou | おりょう | | |
 | waguchi shouka | 和口昇火 | | |
+| tenzen miyabi | 天渐雅 | | |
+| windart | WindArt | | |
+| masaki kei | 真崎ケイ | | |
+| mousou-kun | もうそうくん | | |
+| ooishi chuuni | 大石中二 | | |
+| mitsudoue | みつどうえ | | |
