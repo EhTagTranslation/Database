@@ -1080,7 +1080,6 @@
 | fist of the north star | 北斗神拳 | 《北斗神拳》（日文：北斗の拳），日本格斗漫画，武论尊原著，原哲夫漫画。1983年至1988年间于《少年Jump周刊》连载。单行本全27卷由集英社出版，并曾经改编成动画和电玩游戏。故事风格架构深深受到1981年上映的《冲锋飞车队2MAD MAX 2》影响，讲述在人类文明毁于核子战争的未来，存活下来的人类过着弱肉强食的生活，直到出现了一个胸口带着北斗七星状伤痕，古老中国神秘暗杀拳法——北斗神拳的传人——拳四郎（也译作健次郎等。由前传《苍天之拳》得知其汉字名称应为拳志郎，ケンシロウ）成为救世主。 | |
 | monster girl quest | 勇者大战魔物娘 | 《勇者大战魔物娘》（日语：もんむす・くえすと！，简称：勇战）是由日本游戏制作公司sakura（とろとろレジスタンス）制作并于2012年9月发行的一部R-18人外冒险同人游戏。目前已推出第一部外传的前章。  | |
 | ghost sweeper mikami | GS美神 极乐大作战！！ | 《GS美神 极乐大作战！！》（日语：GS美神 極樂大作戰！！，英语：Ghost Sweeper Mikami: The Great Paradise Battle!!）是日本漫画家椎名高志在小学馆《周刊少年Sunday》的连载漫画作品，发表于1991年第30号至1999年第41号。2013年后来以新作短篇形式发表（后述）。连载时话数的单位是用“REPORT.○”。 | |
-| shining blade | 光明之刃 | 《光明之刃》（日语：シャイニング・ブレイド）是由世嘉所开发的战略角色扮演游戏，对应平台为PlayStation Portable，于2012年3月15日发售，和前三作（泪、风、心）一样，依旧由Tony负责人物设计。战斗系统与《战场女武神》系列类似。 | |
 | battle athletes | 大运动会 | 《大运动会》（バトルアスリーテス 大運動会）是一个跨媒体制作作品，涵盖游戏软体、OVA与电视动画。 | |
 | knights of ramune | 柠檬汽水骑士 |  | |
 | saint tail | 怪盗圣少女 | 《怪盗Saint Tail》（日语：怪盗 セイント・テール，又译怪盗圣少女），是日本漫画家立川惠的少女漫画作品，自1994年至1996年间连载于讲谈社旗下的漫画杂志《Nakayoshi》，共24话（特别篇另计），另发行了单行本共7册。本作品后来被改编成电视动画，由朝日放送、电通、TMS娱乐联合制作，自1995年10月12日至1996年9月12日在ANN系列首播，共43集。<vr>在香港，该动画曾于1997年在香港有线电视儿童台及亚洲电视本港台首播。台湾播映权是由中国电视公司取得，首播期间为2000年5月15日至2001年3月26日，八大综合台亦有重播。中国天津电视台少儿频道也曾以《圣少女》片名播放该动画，不过只播放38集。 | |
@@ -1106,7 +1105,6 @@
 | the grim adventures of billy and mandy | 爱酷一族 | 爱酷一族（英文：The Grim Adventures of Billy & Mandy）是一部由卡通频道改革卡通卡通期间，经公众投票选出制作的动画，旧译为怪诞骷髅魔、开膛手格林。 | [维基百科](https://zh.wikipedia.org/wiki/愛酷一族) (*) |
 | inspector gadget | 神探加杰特 | G型神探（Inspector Gadget），又译“奇探加杰特”，或是“神探万事通”（港译：万能探长），是一部1983年9月10日播出第1季的卡通。影集由美国DiC Entertainment公司制作。后来在1995年出版第2季，总共86集(65+21)。 | [维基百科](https://zh.wikipedia.org/zh-cn/神探加杰特) (*) |
 | the life and times of juniper lee |  魔法少女Juniper Lee| 魔法少女Juniper Lee（英文：The Life and Times of Juniper Lee）是一套由Cartoon Network Studios制作的动画集。这个故事中的主角 — Juniper Lee， 住在一个与魔界错乱混合的城市。尽管城内的人都不能看到魔界怪兽，但能看见其所作的破坏。于是，Juniper被赋予“守护者”的身份，协助令魔界和人间界的生活节奏平衡。 | [维基百科](https://zh.wikipedia.org/wiki/魔法少女Juniper_Lee) (*) |
-| xenogears | 异度装甲 | 《异度装甲》（日语：ゼノギアス，英语：Xenogears，港台译作“异域神兵”）是一部科幻角色扮演游戏，游戏由史克威尔（现史克威尔艾尼克斯）开发并发行于索尼PlayStation平台，游戏于1998年2月11日发布于日本，同年10月20日发布于北美，但游戏并未于欧洲发布。游戏在2003年由史克威尔艾尼克斯以Greatest Hits之名重新发布，游戏还在2008年6月25日和2011年2月22日分别发布于日本和北美的PlayStation Network。2004年7月10日由民间团体“XG中文版制作组”发布针对日文版的汉化程序，使中文玩家可以在全中文环境下进行游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域神兵) (*) |
 | sousei no onmyouji | 双星之阴阳师 | 双星之阴阳师（日语：双星の陰陽師）是由日本漫画家助野嘉昭创作的奇幻漫画作品，自2013年12月3日起连载于集英社《Jump Square》，台湾则在《宝岛少年EX》创刊号从第15话开始连载。故事描述被称为“双星”的两位阴阳师与他们的敌人“污秽”互相对战的过程。至2017年7月为止已发行12册单行本，台湾中文版由东立出版社代理，至2017年4月已出版9册。改编的电视动画由田口智久担任导演，由Studio Pierrot制作，自2016年4月6日起开始播放，台湾、香港由Animax播放，全50话，已播放完毕。 | [维基百科](https://zh.wikipedia.org/zh-cn/雙星之陰陽師) (*) |
 | sengoku collection | 战国Collection | 《战国Collection》（日语：戦国コレクション，又译：战国大乱斗）是2012年4月开始播出的动画，以同名社群卡牌游戏为原作。 | [维基百科](https://zh.wikipedia.org/zh-cn/戰國Collection) (*) |
 | doctor strange | 奇异博士 | 《奇异博士》（英语：Doctor Strange）是一部2016年美国超级英雄电影，改编自漫威漫画旗下的同名漫画人物。 | [维基百科](https://zh.wikipedia.org/wiki/奇異博士_%28電影%29) (*) |
@@ -1219,3 +1217,27 @@
 | silver spoon | 银之匙 | 《银之匙 Silver Spoon》（日语：銀の匙 Silver Spoon）是荒川弘的日本漫画作品，于《周刊少年Sunday》连载。因作者家庭因素，自2016年10月开始无限期休载。2017年6月28日，《周刊少年Sunday》编辑部在官网发布预告，宣布本作将于7月5日发行的第32号刊恢复连载，刊载三话后再次宣布无限期休载。 | [维基百科](https://zh.wikipedia.org/zh-cn/银之匙_Silver_Spoon) (*) |
 | imouto sae ireba ii. | 如果有妹妹就好了。 | 《如果有妹妹就好了。》（日语：妹さえいればいい。）是平坂读著作、カントク插画的日本轻小说作品。2016年1月决定制作广播剧CD，并于同年3月出版的第4集特装版发行。2017年4月宣布动画化，2017年10月8日于东京都会电视台首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/如果有妹妹就好了。) (*) |
 | bang dream | BanG Dream! | 《BanG Dream!》是以连载于《月刊武士道》的同名漫画作品为基础的日本跨媒体制作企划，该漫画由中村航原作、石田彩作画，并由ひと和负责人物设定，故事描述女高中生的乐队活动。各角色的声优则实际组成名为“Poppin'Party”“Roselia”“Afterglow”“Pastel＊Palettes”“Hello,Happy World!”等乐队并持续举办LIVE等活动。电视动画在2017年1月播放，OVA(第14话)则于同年8月于日本各电视台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/BanG_Dream!) (*) |
+| fantasy earth zero | 幻想大陆 | 《幻想大陆》（日语：ファンタジーアース ゼロ，英语：Fantasy Earth Zero，港台译作“幻想战记”）是一款大型多人线上角色扮演游戏。游戏动作因素强烈，并且加入了即时战略的要素而融合成独具一格的多人（最大50对50）国战系统，作为游戏的卖点。直到2013年4月的如今，北美、日本、中国大陆、台湾及香港都曾开设服务器，分别由不同的代理商代理运营。现在开发公司为FenixSoft，版权提供史克威尔艾尼克斯，企划史克威尔艾尼克斯第10开发部，原开发公司マルチターム。 | [维基百科](https://zh.wikipedia.org/zh-cn/幻想戰記) (*) |
+| fantastic four | 神奇四侠 | 神奇四侠（英语：Fantastic Four）是漫威漫画旗下的超级英雄，由四名具有超能力的人组成。台湾在早期译为四异人。 | [维基百科](https://zh.wikipedia.org/zh-cn/神奇四侠) (*) |
+| wonder woman | 神奇女侠 |  | [维基百科](https://zh.wikipedia.org/zh-cn/神奇女俠) |
+| family guy | 恶搞之家 | 《恶搞之家》（Family Guy），是一部由塞思·迈克尔法兰创作的动画电视剧。自1999年起在美国福斯广播公司播出，另在其他电视台也有播映。 | [维基百科](https://zh.wikipedia.org/zh-cn/蓋酷家庭) (*) |
+| galaxy angel | 银河天使 | 《银河天使》是日本Broccoli公司的一个跨媒体制作企划。这套作品正朝着动画、漫画、小说、游戏及角色商品的方向发展。 | [维基百科](https://zh.wikipedia.org/zh-cn/銀河天使) (*) |
+| nurse witch komugi | 魔法护士小麦 | 《魔法护士小麦》是电视动画《The Soul Taker ～魂狩～》的外传作品，并有游戏、漫画、小说、网络广播等衍生作品。作品以OVA动画的形式发售，正篇《魔法护士小麦》6话、续篇《魔法护士小麦Z》2话。2015年10月宣布制作续篇动画《魔法护士小麦R》，电视动画在2016年1月首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法護士小麥) (*) |
+| popotan | 蒲公英之恋 | 《蒲公英之恋》（日语：ぽぽたん）是日本的ぷちフェレット于2002年12月13日发售的恋爱冒险类型成人游戏，2004年3月11日由WellMADE发售PlayStation 2版《おしえて! ぽぽたん》，2003年7月11日发售Fan disc《ぽぽたんファンディスク いっしょにA・SO・BO》。2003年播放电视动画版共12集，另外也改编成漫画、小说。 | [维基百科](https://zh.wikipedia.org/zh-cn/蒲公英之戀) (*) |
+| xenoblade | 异度之刃 | 《异度神剑》（日版名：ゼノブレイド，Xenoblade，英文版名：Xenoblade Chronicles，中国大陆又译作“异度之刃”，台湾又译作“异域神剑”）是由Monolith Soft制作，由任天堂发行在Wii平台上推出的角色扮演游戏，和《异度装甲》及《异度传说》一样，《异度神剑》的内容基本上是由高桥哲哉所创作。 | [维基百科](https://zh.wikipedia.org/zh-cn/异度神剑) (*) |
+| xenoblade x | 异度之刃X | 《异度之刃X》（日版名：ゼノブレイドクロス，Xenoblade X，英文版名：Xenoblade Chronicles X，港台译作“异域神剑X”）是一款由Monolith Soft开发，由任天堂于Wii U平台发行的日式动作角色扮演游戏。游戏是异度系列作品之一，为Wii游戏《异度之刃》的精神续作。游戏于2015年4月29日在日本发行，同年12月在欧美发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/异度之刃X) (*) |
+| xenoblade chronicles 2 | 异度之刃2 | 《异度神剑2》（日语：ゼノブレイド2，Xenoblade 2，英语：Xenoblade Chronicles 2，中国大陆又译作“异度之刃2”，台湾又译作“异域神剑2”）是Monolith Soft开发，任天堂发行的日式电子角色扮演游戏，于2017年12月1日在任天堂Switch游戏机推出。本作为《异度之刃》的续作，但启用了新的角色。游戏的日版支持简体中文与繁体中文。 | [维基百科](https://zh.wikipedia.org/zh-cn/异度神剑2) (*) |
+| xenogears | 异度装甲 | 《异度装甲》（日语：ゼノギアス，英语：Xenogears，港台译作“异域神兵”）是一部科幻角色扮演游戏，游戏由史克威尔（现史克威尔艾尼克斯）开发并发行于索尼PlayStation平台，游戏于1998年2月11日发布于日本，同年10月20日发布于北美，但游戏并未于欧洲发布。游戏在2003年由史克威尔艾尼克斯以Greatest Hits之名重新发布，游戏还在2008年6月25日和2011年2月22日分别发布于日本和北美的PlayStation Network。2004年7月10日由民间团体“XG中文版制作组”发布针对日文版的汉化程序，使中文玩家可以在全中文环境下进行游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域神兵) (*) |
+| xenosaga | 异度传说 | 异度传说（日语：ゼノサーガ，英语：Xenosaga，港台译作“异域传说”），是由Monolith Soft制作，由Namco发行的电子游戏系列，另有漫画版和动画版的发行。和《异度装甲》一样，《异度传说》的内容基本上是由高桥哲哉所创作的。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域傳說系列) (*) |
+| shining sword romance | 剑芒罗曼史 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ロマンスは剣の輝き) |
+| shining | 光明 | 光明（日语：シャイニング，英语：Shining，港台译作“光明与黑暗”）是SEGA所制作的一系列游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明與黑暗系列) (*) |
+| shining force | 光明力量 |  |  |
+| shining force exa | 光明力量EXA |  |  |
+| shining tears | 光明之泪 | 《光明之泪》（日语：シャイニング・ティアーズ）是于2004年11月3日由世嘉发售的动作角色扮演游戏游戏，对应PlayStation 2平台。本作是新光明计划的第2作，由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之淚) (*) |
+| shining wind | 光明之风 | 《光明之风》（日语：シャイニング・ウィンド）为世嘉开发的动作角色扮演游戏，对应平台为PlayStation 2，于2007年在日本发售。本作为光明系列的其中一作，前作是《光明之泪》。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之風) (*) |
+| shining hearts | 光明之心 | 《光明之心》（日语：シャイニング・ハーツ）是于2010年12月16日由世嘉发售的角色扮演游戏游戏，对应平台为PlayStation Portable。由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之心) (*) |
+| shining blade | 光明之刃 | 《光明之刃》（日语：シャイニング・ブレイド）是由世嘉所开发的战略角色扮演游戏，对应平台为PlayStation Portable，于2012年3月15日发售，和前三作（泪、风、心）一样，依旧由Tony负责人物设计。战斗系统与《战场女武神》系列类似。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之刃) (*) |
+| shining ark | 光明之舟 | 《光明之舟》（日语：シャイニング・アーク）'是2013年2月28日由世嘉所发售的PlayStation Portable游戏，和前四作（《泪》、《风》、《心》、《刃》）一样，依旧由Tony负责人物设计。战斗系统沿袭前作《光明之刃》的模式，但作了改进，风格更偏向角色扮演游戏而不是战略角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之舟) (*) |
+| shining resonance | 光明之响 | 《光明之响》（日语：シャイニング・レゾナンス，英语：Shining Resonance，又译“光明之共鸣”或“光明共鸣曲”）是由世嘉开发并发售在PlayStation 3平台的角色扮演游戏，于2014年12月11日同步于中文版发售，和前五作（《光明之泪》、《光明之风》、《光明之心》、《光明之刃》、《光明之舟》）一样依旧由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之響) (*) |
+| lunar silver star story | 露娜 银河之星物语 | 《露娜 银河之星物语》（日语：ルナ ザ・シルバースター，英语：Lunar: Silver Star Story Complete）是一款由Game Arts和Japan Art Media制作、角川书店发行的角色扮演类游戏。本游戏为1992年发行的《露娜 银河之星》重制版，于1996年10月25日在世嘉土星日本地区发行。 游戏后移植至Windows和PlayStation。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_银河之星物语) (*) |
+| lunar eternal blue | 露娜 永恒之蓝 | 《露娜 永恒之蓝》（日语：ルナ エターナルブルー，英语：Lunar: Eternal Blue）是一款由Game Arts和Japan Art Media制作、Game Arts发行的角色扮演类游戏。本游戏最初于1994年12月在世嘉CD上发行，是一个传统的角色扮演类游戏，战斗场面随机发生在地牢和其他危险区域。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_永恒之蓝) (*) |

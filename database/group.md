@@ -1182,6 +1182,23 @@
 | gensou stomach | 幻想ストマック | | |
 | 88 gou | 88号 | | |
 | ofuton de suyaa | おふとんでスヤァ | | |
+| fatalpulse | Fatalpulse | | |
+| oneone1 | ONEONE1 | | |
+| marchen box | メルヘンBOX | | |
+| pokopii | ぽこぴー | | |
+| hikaru no kobeya | ひかるの小部屋 | | |
+| kiyokawa zaidan | 虚川财团 | | |
+| aardvark | Aardvark | | |
+| no osaka no life | NO OSAKA NO LIFE | | |
+| peace maker | PEACE MAKER | | |
+| solid line | Solid Line | | |
+| makeinu | 負け犬 | | |
+| lucky doggy | LUCKY DOGGY | | |
+| daraku jiko chousa iinkai | 堕落事故调查委员会 | | |
+| umi no sachi | うみのさち | | |
+| yuunagiya | 夕凪屋 | | |
+| aimaitei | 愛昧亭 | | |
+| ohmiya tsukasa | 大宫司 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |

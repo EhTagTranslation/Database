@@ -2026,3 +2026,11 @@
 | mousou-kun | もうそうくん | | |
 | ooishi chuuni | 大石中二 | | |
 | mitsudoue | みつどうえ | | |
+| poyoyon rock | ぽよよん♥ろっく | | |
+| kiyokawa nijiko | 虚川二次子 | | |
+| himuro serika | 冰室芹夏 | | |
+| nachisuke | なちすけ | | |
+| kasuga mayu | 春日まゆ | | |
+| kirimoto yuuji | 桐下悠司 | | |
+| suihei sen | 水平线 | | |
+| yuunagi | ユウナギ | | |
