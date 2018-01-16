@@ -2034,3 +2034,5 @@
 | kirimoto yuuji | 桐下悠司 | | |
 | suihei sen | 水平线 | | |
 | yuunagi | ユウナギ | | |
+| jadenkaiba | Jadenkaiba | | |
+| legoman | Legoman | | |

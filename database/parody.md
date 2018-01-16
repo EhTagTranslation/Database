@@ -1241,3 +1241,9 @@
 | shining resonance | 光明之响 | 《光明之响》（日语：シャイニング・レゾナンス，英语：Shining Resonance，又译“光明之共鸣”或“光明共鸣曲”）是由世嘉开发并发售在PlayStation 3平台的角色扮演游戏，于2014年12月11日同步于中文版发售，和前五作（《光明之泪》、《光明之风》、《光明之心》、《光明之刃》、《光明之舟》）一样依旧由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之響) (*) |
 | lunar silver star story | 露娜 银河之星物语 | 《露娜 银河之星物语》（日语：ルナ ザ・シルバースター，英语：Lunar: Silver Star Story Complete）是一款由Game Arts和Japan Art Media制作、角川书店发行的角色扮演类游戏。本游戏为1992年发行的《露娜 银河之星》重制版，于1996年10月25日在世嘉土星日本地区发行。 游戏后移植至Windows和PlayStation。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_银河之星物语) (*) |
 | lunar eternal blue | 露娜 永恒之蓝 | 《露娜 永恒之蓝》（日语：ルナ エターナルブルー，英语：Lunar: Eternal Blue）是一款由Game Arts和Japan Art Media制作、Game Arts发行的角色扮演类游戏。本游戏最初于1994年12月在世嘉CD上发行，是一个传统的角色扮演类游戏，战斗场面随机发生在地牢和其他危险区域。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_永恒之蓝) (*) |
+| maria holic | 玛莉亚†狂热 | 《玛莉亚狂热》（まりあ†ほりっく、まりほり）是远藤海成从月刊Comic Alive创刊号开始连载的漫画作品。由此改编的电视动画于2009年1月开始播放。2007年12月28日发售广播剧CD。现有尖端出版社出版单行本六卷。 | [维基百科](https://zh.wikipedia.org/zh-cn/瑪莉亞狂熱) (*) |
+| boku no pico | 我的Pico | 《我的Pico》（ぼくのぴこ）是2006年9月7日由Soft On Demand所发售的成人动画。这作是世界第一个正太控成人动画。 | [维基百科]（https://zh.wikipedia.org/zh-cn/我的Pico) (*) |
+| azure striker gunvolt | 苍蓝雷霆：刚巴尔特 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Azure_Striker_Gunvolt) |
+| narutaru | 星星公主 | 星星公主（日语：なるたる），是鬼头莫宏的日本漫画作品。于2004年1月播放电视动画版。星星公主名称中有“骸なる星 珠たる子”的意思。 | [维基百科](https://zh.wikipedia.org/zh-cn/星星公主) (*) |
+| bokusatsu tenshi dokuro-chan | 扑杀天使朵库萝 | 扑杀天使朵库萝（撲殺天使ドクロちゃん）是おかゆまさき写的轻小说系列，插画是とりしも，单行本共十卷，在《月刊电击Comic gao!》上有桜瀬みつな画的漫画版。连载开始时就以谜之拟音开始的问题作品，却意外得到编辑部意料外的人气。是一部有萝莉、凶器、萌、小魔女等要素的作品，另外还有《哆啦A梦》的影子。2005年3月OVA化，2005年11月PS2游戏化，2007年8月二度OVA化。 | [维基百科](https://zh.wikipedia.org/zh-cn/撲殺天使朵庫蘿) (*) |
+| rick and morty | 瑞克和莫蒂 | 《瑞克和莫蒂》（英语：Rick and Morty）是一部于Adult Swim播出的美国电视科幻情景喜剧动画。该剧主要围绕于愤世嫉俗的疯狂科学家瑞克·桑切斯和他容易受挫折的孙子莫蒂·史密斯在自己的生活和其他异空间穿梭的奇妙冒险。由贾斯汀·罗兰德和丹·哈蒙所创作，而罗兰德也与克里斯·帕内尔、史宾瑟·葛拉莫、莎拉·查尔克等人担任角色配音。该剧于2013年12月2日首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/瑞克和莫蒂) (*) |
