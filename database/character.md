@@ -1694,6 +1694,17 @@
 | shiki ryougi | 两仪式 | | |
 | stheno | 斯忒诺 | | |
 | mordred pendragon | 莫德雷德·潘德拉贡 | | |
+| queen of sheba | 示巴女王 | | |
+| wu zetian | 武则天 | | |
+| abigail williams | 阿比盖尔·威廉姆斯 | | |
+| hans christian andersen | 汉斯·克里斯蒂安·安徒生 | | |
+| hector | 赫克特 | | |
+| mochizuki chiyome | 望月千代女 | | |
+| osakabehime | 刑部姬 | | |
+| sakata kintoki | 坂田金时 | | |
+| scheherazade | 山鲁佐德 | | |
+| suzuka gozen | 铃鹿御前 | | |
+| xuanzang | 玄奘 | | |
 | fujino asagami | 浅上藤乃 | | |
 | mikiya kokutou | 黑桐干也 | | |
 | azaka kokutou | 黑桐鲜花 | | |

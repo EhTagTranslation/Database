@@ -1251,3 +1251,5 @@
 | rick and morty | 瑞克和莫蒂 | 《瑞克和莫蒂》（英语：Rick and Morty）是一部于Adult Swim播出的美国电视科幻情景喜剧动画。该剧主要围绕于愤世嫉俗的疯狂科学家瑞克·桑切斯和他容易受挫折的孙子莫蒂·史密斯在自己的生活和其他异空间穿梭的奇妙冒险。由贾斯汀·罗兰德和丹·哈蒙所创作，而罗兰德也与克里斯·帕内尔、史宾瑟·葛拉莫、莎拉·查尔克等人担任角色配音。该剧于2013年12月2日首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/瑞克和莫蒂) (*) |
 | slow start | Slow Start | 《Slow Start》是笃见唯子创作的日本四格漫画作品。于2013年6月7日发售的芳文社杂志《Manga Time Kirara》2013年7月号首度发表。已发行4本单行本。于《Manga Time Kirara》2017年6月号发表改编电视动画的消息。 | [维基百科](https://zh.wikipedia.org/zh-cn/Slow_Start) (*) |
 | princess principal | Princess Principal | 《Princess Principal》（日语：プリンセス・プリンシパル）是一部由Studio 3Hz及Actas联合制作的原创动画，于2017年7月9日首播。另外，以动画为题的手机游戏《Princess Principal: GAME OF MISSION》亦同时展开，预定于同年6月开始进行事前登录。 | [维基百科](https://zh.wikipedia.org/zh-cn/Princess_Principal) (*) |
+| sangokushi taisen | 三国志大战 | 《三国志大战》是世嘉和鈊象电子共同开发，以三国时代为背景的在线街机对战交换卡片游戏。有别于一般常见的街机游戏，此游戏以实体卡片做为控制媒介，玩家在机台上移动卡片来进行游戏。玩家可以使用不同的武将卡攻略对方城池击败对手。 | [维基百科](https://zh.wikipedia.org/zh-cn/三國志大戰) (*) |
+| sengoku taisen | 战国大战 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/戦国大戦)  |
