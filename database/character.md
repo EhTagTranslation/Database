@@ -432,8 +432,12 @@
 | st. louis | 圣路易斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:圣路易斯) |
 | javelin | 标枪 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:标枪) |
 | nelson | 纳尔逊 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:纳尔逊) |
+| rodney | 罗德尼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:罗德尼) |
 | enterprise | 企业 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:企业) |
 | ajax | 阿贾克斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:阿贾克斯) |
+| cleveland | 克利夫兰 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:克利夫兰) |
+| honolulu | 火奴鲁鲁 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
+| z46 | Z46 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z46) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
@@ -1118,6 +1122,7 @@
 | maki tsurumaki | 弦卷真纪 | | |
 | akane kotonoha | 琴叶茜 | | |
 | aoi kotonoha | 琴叶葵 | | |
+| zunko tohoku | 东北俊子 | | |
 | | ▼ 樱花庄的宠物女孩 角色 | | |
 | sorata kanda | 神田空太 | | |
 | mashiro shiina | 椎名真白 | | |
@@ -1656,6 +1661,7 @@
 | ushiwakamaru | 牛若丸  | | |
 | jack the ripper | 开膛手杰克 | | |
 | jeanne darc | 圣女贞德 | | |
+| jeanne alter | 贞德Alter | | |
 | nitocris | 尼托克丽丝 | | |
 | alice kuonji | 久远寺有珠 | | |
 | aoko aozaki | 苍崎青子 | | |

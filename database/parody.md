@@ -1231,8 +1231,10 @@
 | xenosaga | 异度传说 | 异度传说（日语：ゼノサーガ，英语：Xenosaga，港台译作“异域传说”），是由Monolith Soft制作，由Namco发行的电子游戏系列，另有漫画版和动画版的发行。和《异度装甲》一样，《异度传说》的内容基本上是由高桥哲哉所创作的。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域傳說系列) (*) |
 | shining sword romance | 剑芒罗曼史 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ロマンスは剣の輝き) |
 | shining | 光明 | 光明（日语：シャイニング，英语：Shining，港台译作“光明与黑暗”）是SEGA所制作的一系列游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明與黑暗系列) (*) |
+| shining in the darkness | 光明与黑暗 | 《光明与黑暗》（日语：シャイニング&ザ・ダクネス，英语：Shining and the Darkness），是1991年Mega Drive游戏平台上的角色扮演游戏。它是Mega Drive平台上发布的第一个角色扮演游戏，并且也是光明系列的首作，该系列跨越世嘉四代游戏平台，以及Game Boy Advance 和PlayStation 2。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明與黑暗_%28遊戲%29) (*) |
 | shining force | 光明力量 |  |  |
 | shining force exa | 光明力量EXA |  |  |
+| shining force feather | 光明力量 羽翼 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shining_Force_Feather) |
 | shining tears | 光明之泪 | 《光明之泪》（日语：シャイニング・ティアーズ）是于2004年11月3日由世嘉发售的动作角色扮演游戏游戏，对应PlayStation 2平台。本作是新光明计划的第2作，由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之淚) (*) |
 | shining wind | 光明之风 | 《光明之风》（日语：シャイニング・ウィンド）为世嘉开发的动作角色扮演游戏，对应平台为PlayStation 2，于2007年在日本发售。本作为光明系列的其中一作，前作是《光明之泪》。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之風) (*) |
 | shining hearts | 光明之心 | 《光明之心》（日语：シャイニング・ハーツ）是于2010年12月16日由世嘉发售的角色扮演游戏游戏，对应平台为PlayStation Portable。由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之心) (*) |
@@ -1247,3 +1249,5 @@
 | narutaru | 星星公主 | 星星公主（日语：なるたる），是鬼头莫宏的日本漫画作品。于2004年1月播放电视动画版。星星公主名称中有“骸なる星 珠たる子”的意思。 | [维基百科](https://zh.wikipedia.org/zh-cn/星星公主) (*) |
 | bokusatsu tenshi dokuro-chan | 扑杀天使朵库萝 | 扑杀天使朵库萝（撲殺天使ドクロちゃん）是おかゆまさき写的轻小说系列，插画是とりしも，单行本共十卷，在《月刊电击Comic gao!》上有桜瀬みつな画的漫画版。连载开始时就以谜之拟音开始的问题作品，却意外得到编辑部意料外的人气。是一部有萝莉、凶器、萌、小魔女等要素的作品，另外还有《哆啦A梦》的影子。2005年3月OVA化，2005年11月PS2游戏化，2007年8月二度OVA化。 | [维基百科](https://zh.wikipedia.org/zh-cn/撲殺天使朵庫蘿) (*) |
 | rick and morty | 瑞克和莫蒂 | 《瑞克和莫蒂》（英语：Rick and Morty）是一部于Adult Swim播出的美国电视科幻情景喜剧动画。该剧主要围绕于愤世嫉俗的疯狂科学家瑞克·桑切斯和他容易受挫折的孙子莫蒂·史密斯在自己的生活和其他异空间穿梭的奇妙冒险。由贾斯汀·罗兰德和丹·哈蒙所创作，而罗兰德也与克里斯·帕内尔、史宾瑟·葛拉莫、莎拉·查尔克等人担任角色配音。该剧于2013年12月2日首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/瑞克和莫蒂) (*) |
+| slow start | Slow Start | 《Slow Start》是笃见唯子创作的日本四格漫画作品。于2013年6月7日发售的芳文社杂志《Manga Time Kirara》2013年7月号首度发表。已发行4本单行本。于《Manga Time Kirara》2017年6月号发表改编电视动画的消息。 | [维基百科](https://zh.wikipedia.org/zh-cn/Slow_Start) (*) |
+| princess principal | Princess Principal | 《Princess Principal》（日语：プリンセス・プリンシパル）是一部由Studio 3Hz及Actas联合制作的原创动画，于2017年7月9日首播。另外，以动画为题的手机游戏《Princess Principal: GAME OF MISSION》亦同时展开，预定于同年6月开始进行事前登录。 | [维基百科](https://zh.wikipedia.org/zh-cn/Princess_Principal) (*) |
