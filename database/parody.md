@@ -1252,4 +1252,10 @@
 | slow start | Slow Start | 《Slow Start》是笃见唯子创作的日本四格漫画作品。于2013年6月7日发售的芳文社杂志《Manga Time Kirara》2013年7月号首度发表。已发行4本单行本。于《Manga Time Kirara》2017年6月号发表改编电视动画的消息。 | [维基百科](https://zh.wikipedia.org/zh-cn/Slow_Start) (*) |
 | princess principal | Princess Principal | 《Princess Principal》（日语：プリンセス・プリンシパル）是一部由Studio 3Hz及Actas联合制作的原创动画，于2017年7月9日首播。另外，以动画为题的手机游戏《Princess Principal: GAME OF MISSION》亦同时展开，预定于同年6月开始进行事前登录。 | [维基百科](https://zh.wikipedia.org/zh-cn/Princess_Principal) (*) |
 | sangokushi taisen | 三国志大战 | 《三国志大战》是世嘉和鈊象电子共同开发，以三国时代为背景的在线街机对战交换卡片游戏。有别于一般常见的街机游戏，此游戏以实体卡片做为控制媒介，玩家在机台上移动卡片来进行游戏。玩家可以使用不同的武将卡攻略对方城池击败对手。 | [维基百科](https://zh.wikipedia.org/zh-cn/三國志大戰) (*) |
-| sengoku taisen | 战国大战 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/戦国大戦)  |
+| sengoku taisen | 战国大战 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/戦国大戦) |
+| chinpui | 大耳鼠 | 大耳鼠（チンプイ）（或译作超能大耳兽、大耳獸之比、大耳兽芝比、大耳獸普普、金普依、外星小叮叮）是藤子·F·不二雄较晚期所著的一部漫画及动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/大耳鼠) (*) |
+| pani poni dash | 不可思议的教室 | 《不可思议的教室》（日文：ぱにぽに）是一部校园喜剧式的幻想系漫画，作者是氷川へきる。曾连载于漫画杂志月刊GFantasy，现已完结。 | [维基百科](https://zh.wikipedia.org/zh-cn/嬉皮笑園) (*) |
+| suigetsu | 水月 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/水月_%28ゲーム%29) |
+| mizuiro | 水色 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ) |
+| dragonaut | 龙鸣 | 《龙鸣》（日文：ドラゴノーツ -ザ・レゾナンス-、DRAGONAUT THE RESONANCE，简称：DRAGONAUT）是2007年10月3日播出的日本电视动画，由GONZO制作。 | [维基百科](https://zh.wikipedia.org/zh-cn/龙鸣) (*) |
+| under night in-birth | 夜下降生 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/UNDER_NIGHT_IN-BIRTH) |

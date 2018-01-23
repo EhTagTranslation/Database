@@ -1852,7 +1852,6 @@
 | sakura igawa | 井河樱 | | |
 | rinko akiyama | 秋山凜子 | | |
 | yukikaze mizuki | 水城雪风 | | |
-| ingrid | 英格丽德 | | |
 | | ▼ 跟班×服务 | | |
 | lucy ... yamagami | 山神露西【以下略】 | | |
 | yutaka hasebe | 长谷部丰 | | |
@@ -2118,6 +2117,29 @@
 | gurio umino | 海野栗雄 | | |
 | motoki furuhata | 古幡元基 | | |
 | yuuichirou kumada | 熊田雄一郎 | | |
+| | ▼ 街头霸王 | | |
+| cammy white | 嘉米·怀特 | | |
+| chun-li | 春丽 | | |
+| rainbow mika | 七川美华 | | |
+| juri han | 韩蛛俐 | | |
+| karin kanzuki | 神月卡琳 | | |
+| menat | 米纳特 | | |
+| kolin | 科琳 | | |
+| sakura kasugano | 春日野樱 | | |
+| nanase mizugami | 水神七濑 | | |
+| zangief | 桑吉尔夫 | | |
+| balrog | 巴洛克 | | |
+| akuma | 豪鬼 | | |
+| blanka | 布兰卡 | | |
+| edmond honda | 埃德蒙·本田 | | |
+| guile | 古烈 | | |
+| ken masters | 肯·马斯达斯 | | |
+| ryu | 隆 | | |
+| sagat | 沙盖特 | | |
+| urien | 尤里安 | | |
+| vega | 维加 | | |
+| m. bison | 拜森 | | |
+| ingrid | 英格丽德 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2160,8 +2182,6 @@
 | milly | 米蕾尤 | 《勇者斗恶龙怪兽篇》《勇者斗恶龙VI 幻之大地》中角色 | |
 | kusuha mizuha | 水羽楠叶 | | |
 | seolla schweizer | 塞奥拉·修拜亚 | | |
-| chun-li | 春丽 | | |
-| ryu | 隆 | | |
 | fujiko mine | 峰不二子 | | |
 | mirai andou | 安藤美雷 | | |
 | himea saito | 赛托希梅亚 | | |
@@ -2232,17 +2252,12 @@
 | reika shimohira | 下平玲花 | | |
 | katina tarask | 卡琪娜·塔拉斯克 | | |
 | leona garstein | 雷欧娜·嘉施泰因 | | |
-| cammy white | 嘉米 | | |
-| m. bison | 拜森 | | |
 | poison | 毒药 | | |
 | jessica albert | 杰西卡·阿尔芭 | 《勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主》中的角色 | |
 | jigoku no fubuki | 地狱的吹雪 | | |
 | senritsu no tatsumaki | 战栗的龙卷 | | |
 | tights brief | 塔依丝 | | |
-| rainbow mika | 七川美华 | | |
-| zangief | 桑吉尔夫 | | |
 | hugo | 雨果 | | |
-| sakura kasugano | 春日野樱 | | |
 | nel zelpher | 妮露 | | |
 | sadi-chan | 小萨蒂 | | |
 | mina ashido | 芦户三奈 | | |
