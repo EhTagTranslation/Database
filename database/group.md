@@ -1286,6 +1286,7 @@
 | candysoft | Candy Soft | | |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (*) |
 | whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | | [官方网站](https://whirlpool.co.jp) |
+| giga | ![logo](http://www.web-giga.com/top/favicon.ico)戯画 | | [官方网站](https://www.web-giga.com/) |
 | | ▲ GAL公司 | | |
 | | ▼ 其他游戏公司 | | |
 | illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 | |
