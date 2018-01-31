@@ -1259,3 +1259,5 @@
 | mizuiro | 水色 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ) |
 | dragonaut | 龙鸣 | 《龙鸣》（日文：ドラゴノーツ -ザ・レゾナンス-、DRAGONAUT THE RESONANCE，简称：DRAGONAUT）是2007年10月3日播出的日本电视动画，由GONZO制作。 | [维基百科](https://zh.wikipedia.org/zh-cn/龙鸣) (*) |
 | under night in-birth | 夜下降生 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/UNDER_NIGHT_IN-BIRTH) |
+| world trigger | 境界触发者 | 《境界触发者》（日语：ワールドトリガー，英语：World Trigger）是日本漫画家苇原大介创作的漫画作品。于《周刊少年Jump》（集英社）2013年11号开始连载。《宝岛少年》（东立）则是从2013年28号开始连载。2016年11月因作者身体因素，无限期休刊中。2014年5月公布改编为动画，并于同年10月播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/境界觸發者) (*) |
+| mouse | MØUSE |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/MOUSE_%28漫画%29) |

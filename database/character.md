@@ -412,6 +412,7 @@
 | kunashiri | 国后 | No.318 | |
 | kasuga maru | 春日丸 | No.321 | |
 | taiyou | 大鹰 | No.326 | |
+| suzutsuki | 凉月 | No.332 | |
 | etorofu | 择捉 | No.334 | |
 | iona | 伊欧娜 | Mist01 | |
 | mamiya | 间宫 | NPC | |
@@ -1726,6 +1727,7 @@
 | semiramis | 赛米拉米斯 | | |
 | shuten douji | 酒吞童子 | | |
 | tiamat | 提亚马特 | | |
+| bb | BB | | |
 | | ▼ 刀剑神域 | | |
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  | |
 | kazuto kirigaya | 桐谷和人 | | |
@@ -2087,6 +2089,9 @@
 | tiki | 芝琪 | 《火焰之纹章：纹章之谜》游戏角色 | |
 | caeda | 希妲 | 《火焰之纹章：纹章之谜》游戏角色 | |
 | catria | 卡秋娅 | 《火焰之纹章：纹章之谜》游戏角色 | |
+| cordelia | 缇亚莫 | | |
+| lyndis |琳蒂斯  | | |
+| nowi | 诺诺 | | |
 | | ▼ 美少女战士 | | |
 | mamoru chiba | 地场卫 | | |
 | tuxedo mask | 大礼服假面 | | |
@@ -2140,6 +2145,8 @@
 | vega | 维加 | | |
 | m. bison | 拜森 | | |
 | ingrid | 英格丽德 | | |
+| laura matsuda | 萝拉‧松田 | | |
+| sean matsuda | 肖恩．松田 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |

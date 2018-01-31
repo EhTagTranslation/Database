@@ -2036,3 +2036,11 @@
 | yuunagi | ユウナギ | | |
 | jadenkaiba | Jadenkaiba | | |
 | legoman | Legoman | | |
+| staryume | 星遥ゆめ | | |
+| kamifuji mikeko | 神藤みけこ | | |
+| hekicha | 碧茶 | | |
+| nrr | Nrr | | |
+| inue shinsuke | 犬江しんすけ | | |
+| onigirikun | おにぎり君 | | |
+| nekosu | ねこす | | |
+| akahito | 赤人 | | |

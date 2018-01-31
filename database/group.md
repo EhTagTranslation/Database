@@ -1199,6 +1199,14 @@
 | yuunagiya | 夕凪屋 | | |
 | aimaitei | 愛昧亭 | | |
 | ohmiya tsukasa | 大宫司 | | |
+| mikekodou | みけこ堂 | | |
+| hekichaen | 碧茶园 | | |
+| amatoro bow | 甘とろ棒 | | |
+| ruciedo | るしえ堂 | | |
+| jingai makyou | ジンガイマキョウ | | |
+| steam d | すち～む・D | | |
+| 65535th avenue | 65535あべぬー。 | | |
+| makuu gundan | 魔空军团 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
@@ -1232,7 +1240,9 @@
 | skyfish poco | SkyFish poco | | |
 | chelseasoft | Chelseasoft | | |
 | sphere | Sphere | | |
-| hook | HOOKSOFT | | |
+| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/zh-cn/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (*) |
+| smee | SMEE | | [官方网站](http://www.hook-net.jp/smee/) |
+| asa project | ASa Project | | [官方网站](http://www.asa-pro.com/top.html) (*) |
 | rosebleu | Rosebleu | | |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/Clochette) [官方网站](http://www.clochette-soft.jp/) (*) |
 | honey soft | HONEY SOFT | | |
@@ -1264,7 +1274,7 @@
 | key | 🔑Key | Key 会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](http://ul.ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) | |
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](http://ul.ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) | |
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](http://ul.ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) | |
-| august | August | 八月社 | |
+| august | AUGUST | AUGUST（オーガスト）是日本株式会社叶月旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。 | [维基百科](https://zh.wikipedia.org/zh-cn/AUGUST) (*) |
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org/Feng) [官方网站](http://www.feng.jp/) (**) |
 | samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](http://exhentai.org/t/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg) | |
 | atelier d | Atelier D | | |
@@ -1286,7 +1296,8 @@
 | candysoft | Candy Soft | | |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (*) |
 | whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico)Whirlpool | | [官方网站](https://whirlpool.co.jp) |
-| giga | ![logo](http://www.web-giga.com/top/favicon.ico)戯画 | | [官方网站](https://www.web-giga.com/) |
+| giga | ![logo](http://www.web-giga.com/top/favicon.ico)戏画 | 戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/zh-cn/戲畫_%28遊戲品牌%29) (*) |
+| milksoft | 牛奶软件 |  |  |
 | | ▲ GAL公司 | | |
 | | ▼ 其他游戏公司 | | |
 | illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 | |
