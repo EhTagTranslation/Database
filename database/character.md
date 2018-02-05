@@ -1685,6 +1685,12 @@
 | hassan of serenity | 静谧之哈桑 | | |
 | medb | 梅芙 | | |
 | len | 莲 | | |
+| celenike icecolle yggdmillennia | 赛蕾妮可·艾斯科·千界树 | | |
+| fiore forvedge yggdmillennia | 菲奥蕾·弗尔维吉·千界树 | | |
+| chiron | 喀戎 | | |
+| achilles | 阿喀琉斯 | | |
+| atalanta | 阿塔兰忒 | | |
+| kairi sisigou | 狮子劫界离 | | |
 | miyako arima | 有间都古 | | |
 | kuro von einzbern | 克洛伊·冯·爱因兹贝伦 | | |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 | | |

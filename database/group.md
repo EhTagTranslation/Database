@@ -1207,6 +1207,20 @@
 | steam d | すち～む・D | | |
 | 65535th avenue | 65535あべぬー。 | | |
 | makuu gundan | 魔空军团 | | |
+| kinokomushin | きのこむ神 | | |
+| ichibariki | 一马力 | | |
+| okotan pekoe | おこたんぺこ | | |
+| crimson comics | クリムゾンコミックス | | |
+| we are coming | We are COMING! | | |
+| sanutei | さぬ亭 | | |
+| tanic ya | タニシ屋 | | |
+| wild flower | WILD FLOWER | | |
+| brave heart petit | BRAVE HEART petit | | |
+| chocolate synapse | Chocolate Synapse | | |
+| boku wa maso desu | 僕はマゾです | | |
+| stanky | STANKY | | |
+| wizs studio | Wiz's Studio | | |
+| alkaloid | アルカロイド | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |

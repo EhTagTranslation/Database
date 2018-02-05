@@ -1261,3 +1261,6 @@
 | under night in-birth | 夜下降生 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/UNDER_NIGHT_IN-BIRTH) |
 | world trigger | 境界触发者 | 《境界触发者》（日语：ワールドトリガー，英语：World Trigger）是日本漫画家苇原大介创作的漫画作品。于《周刊少年Jump》（集英社）2013年11号开始连载。《宝岛少年》（东立）则是从2013年28号开始连载。2016年11月因作者身体因素，无限期休刊中。2014年5月公布改编为动画，并于同年10月播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/境界觸發者) (*) |
 | mouse | MØUSE |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/MOUSE_%28漫画%29) |
+| atashinchi | 我们这一家 | 《我们这一家》（日语：あたしンち）是日本漫画家蝼荣子（けらえいこ／蝼栄子，本名けらかわうち えいこ／蝼川内栄子）创作的漫画作品，2002年被改编为同名电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/我們這一家) (*) |
+| crayon shin-chan | 蜡笔小新 | 《蜡笔小新》（日语：クレヨンしんちゃん，英语：Crayon Shin-chan）是日本漫画家臼井仪人所著的漫画。漫画以春日部市一名5岁小孩野原新之助的日常生活展开。 | [维基百科](https://zh.wikipedia.org/zh-cn/蜡笔小新) (*) |
+| looney tunes | 乐一通 | 《乐一通》（Looney Tunes）是华纳兄弟早期推出的卡通系列之一，人物众多，风格倾向为观众带来欢乐。到了现代，华纳兄弟亦会在网上推出一些新的动画系列，兼且重温昔日的经典。 | [维基百科](https://zh.wikipedia.org/zh-cn/樂一通) (*) |
