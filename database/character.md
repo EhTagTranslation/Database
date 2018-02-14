@@ -774,6 +774,7 @@
 | megumi natsu | 奈津惠 | ![智麻惠小队](https://exhentai.org/t/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg) | |
 | mocha hoto | 保登摩卡 | ![保登摩卡](https://exhentai.org/t/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg) | |
 | | ▼ 我的脑内恋碍选项 角色 |  | |
+| kanade amakusa | 甘草奏 | | |
 | chocolat | 裘可拉 | ![裘可拉](https://ehgt.org/t/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) | |
 | ayame reikadou | 丽华堂绚女 | ![丽华堂绚女](https://ehgt.org/t/e5/1f/e51ff393eb5aa6e4af0f23cc6d8ba73aeab138c8-209347-1280-1239-jpg_250.jpg) | |
 | oka yuoji | 游王子讴歌 | ![游王子讴歌](https://exhentai.org/t/d4/5a/d45ab0547f03c30a4e153b3a4637db164326dc77-2031823-1058-1510-jpg_250.jpg) | |

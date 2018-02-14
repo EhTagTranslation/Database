@@ -1221,6 +1221,11 @@
 | stanky | STANKY | | |
 | wizs studio | Wiz's Studio | | |
 | alkaloid | アルカロイド | | |
+| d slash l | D/L |  |  |
+| kirastar | KiraStar |  |  |
+| kokyu no heya | コキュの部屋 |  |  |
+| askray | AskRay |  |  |
+| burstbomb.t | BurstBomb.T |  |  |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |

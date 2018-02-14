@@ -483,7 +483,7 @@
 | nakata shunpei | 中田春平 | | |
 | kurun | くるん | | |
 | inuzumi masaki | 戌角柾 | | |
-| kurashima tomoyasu | 倉嶋丈康 | | |
+| kurashima tomoyasu | 仓岛丈康 | | |
 | hanamo daiou | はなも大王 | | |
 | mizu gokiburi | 水ゴキブリ | | |
 | kazumu | 一梦 | | |
@@ -2060,3 +2060,9 @@
 | blackshirtboy | Blackshirtboy | | |
 | xpray | Xpray | | |
 | shika yuno | 椎架ゆの | | |
+| chouzuki maryou | 蝶月真绫 |  |  |
+| azarashi | アザラシ |  |  |
+| syamonabe | シャモナベ |  |  |
+| tyagama | 茶釜 |  |  |
+| tkp | TKP |  |  |
+| yakumo ginjirou | 八云银次郎 |  |  |
