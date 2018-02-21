@@ -1226,6 +1226,31 @@
 | kokyu no heya | コキュの部屋 |  |  |
 | askray | AskRay |  |  |
 | burstbomb.t | BurstBomb.T |  |  |
+| usa daioh | ウサ大王 |  |  |
+| kaitsushin | 海通信 |  |  |
+| muramuramura | 村々村 |  |  |
+| mumu | 夢々 |  |  |
+| henreikai | 片励会 |  |  |
+| super flat lolinitron | 超平板小娘电视台 |  |  |
+| ashurame gajoh | 阿修罗女画帖 |  |  |
+| kyokushou shoujo | 极少少女 |  |  |
+| luft forst | Luft Forst |  |  |
+| gesewa na hanashi | 下世話な話 |  |  |
+| yatsufusa no kobeya | 八房の小部屋 |  |  |
+| ponpharse | ぽんふぁーず |  |  |
+| hihumiya | 一二三矢 |  |  |
+| saragi | 蛇穴 |  |  |
+| c2.inc | C2.Inc |  |  |
+| km1chome | 健町一丁目 |  |  |
+| atelier dr.heads | [アトリエDr.HEAD'S |  |  |
+| datsuryoku kenkyuukai | 脱力研究会 |  |  |
+| mebius no wa | Mebiusの環 |  |  |
+| zenra qq | 全裸QQ |  |  |
+| ironimu | イロニム |  |  |
+| ahobaka | AHOBAKA |  |  |
+| corori | CORORI |  |  |
+| berosuya | べろす屋 |  |  |
+| blank check | ぶらんく☆ちぇっく |  |  |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |

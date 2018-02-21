@@ -439,6 +439,7 @@
 | cleveland | 克利夫兰 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:克利夫兰) |
 | honolulu | 火奴鲁鲁 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
 | z46 | Z46 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z46) |
+| z23 | Z23 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z23) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
@@ -1712,6 +1713,7 @@
 | sakata kintoki | 坂田金时 | | |
 | scheherazade | 山鲁佐德 | | |
 | suzuka gozen | 铃鹿御前 | | |
+| tomoe gozen | 巴御前 | | |
 | xuanzang | 玄奘 | | |
 | fujino asagami | 浅上藤乃 | | |
 | mikiya kokutou | 黑桐干也 | | |
