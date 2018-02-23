@@ -2098,4 +2098,7 @@
 | yopparai oni | 酔っ払い鬼? |  |  |
 | alpaca club | あるぱかくらぶ |  |  |
 | berosu | べろす |  |  |
-| shiri | しりー |  |  |
+| shiri | しりー |  | [pixiv](https://www.pixiv.net/member.php?id=2774175) |
+| sekiri | せきり |  |  |
+| midorino tanuki | 翠野タヌキ |  |  |
+| kanna hisashi | かんな久 |  |  |

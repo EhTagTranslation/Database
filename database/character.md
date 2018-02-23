@@ -2360,3 +2360,13 @@
 | zephyrmon | 风神兽 | | |
 | martina | 玛尔缇娜 | | |
 | sancho | 桑丘 | | |
+| barron trump | 巴伦·特朗普 | | |
+| donald trump | 唐纳德·特朗普 | | |
+| bill clinton | 比尔·克林顿 | | |
+| hillary clinton | 希拉里·克林顿 | | |
+| vladimir putin | 弗拉基米尔·普京 | 弗拉基米尔·弗拉基米罗维奇·普京（俄语：Влади́мир Влади́мирович Пу́тин） | |
+| barack obama | 巴拉克·奥巴马 | | |
+| taro aso | 麻生太郎 | | |
+| abraham lincoln | 亚伯拉罕·林肯 | | |
+| george w. bush | 乔治·沃克·布什 | 小布什 | |
+| osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن‎‎，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） | |

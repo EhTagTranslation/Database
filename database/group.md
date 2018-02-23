@@ -1251,8 +1251,12 @@
 | corori | CORORI |  |  |
 | berosuya | べろす屋 |  |  |
 | blank check | ぶらんく☆ちぇっく |  |  |
+| tonkotsu | とんこつ  |  |  |
+| necocoya | ねここや |  |  |
+| ss-brain | SS-BRAIN |  |  |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
 | triangle | Triangle | | |
 | mana | mana | | [官方网站](http://mana.product.co.jp) |
