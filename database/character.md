@@ -435,6 +435,7 @@
 | nelson | 纳尔逊 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:纳尔逊) |
 | rodney | 罗德尼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:罗德尼) |
 | enterprise | 企业 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:企业) |
+| queen elizabeth | 伊丽莎白女王 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:伊丽莎白女王) |
 | ajax | 阿贾克斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:阿贾克斯) |
 | cleveland | 克利夫兰 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:克利夫兰) |
 | honolulu | 火奴鲁鲁 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
