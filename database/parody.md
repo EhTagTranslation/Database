@@ -1274,4 +1274,4 @@
 | darling in the franxx | DARLING in the FRANXX | 《DARLING in the FRANXX》（日语：ダーリン・イン・ザ・フランキス）是由TRIGGER和A-1 Pictures共同制作的日本原创机器人动画作品，于2017年7月在Anime Expo公布作品消息，于2018年1月13日起东京都会电视台首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/DARLING_in_the_FRANXX) (*) |
 | fairy fencer f | 妖精剑士f | 《妖精剑士f》（日语：フェアリーフェンサー エフ，英语：Fairy Fencer F）是Compile Heart旗下电子角色扮演游戏品牌“Galapagos”的第一款作品，最初于2013年发售。邪神设计由天野喜孝负责，女神设计由平野克幸负责，角色设计由つなこ负责。 | [维基百科](https://zh.wikipedia.org/zh-cn/妖精劍士f) (*) |
 | honkai gakuen | 崩坏学园 |  | [维基百科](https://zh.wikipedia.org/zh-cn/崩壞3rd) |
-| quiz magic academy | 魔法学院问答 |  | 《问答魔法学院》（： ，日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。最大的特征是使用电脑网路与其他玩家连线对战，测验的问题每周新增不同的问题。问题的修正以及新增功能都藉由网路来进行。玩家主要扮演魔法学园的学生，并且回答各式各样的问题。并藉由淘汰赛获得晋级到上位阶级的机会。 |
+| quiz magic academy | 问答魔法学院 | 《问答魔法学院》（日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。 | [维基百科](https://zh.wikipedia.org/zh-hans/問答魔法學院) (*) |
