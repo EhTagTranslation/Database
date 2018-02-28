@@ -2371,3 +2371,4 @@
 | abraham lincoln | 亚伯拉罕·林肯 | | |
 | george w. bush | 乔治·沃克·布什 | 小布什 | |
 | osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن‎‎，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） | |
+| lusamine | 露莎米奈 | | |
