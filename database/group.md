@@ -1254,6 +1254,9 @@
 | tonkotsu | とんこつ  |  |  |
 | necocoya | ねここや |  |  |
 | ss-brain | SS-BRAIN |  |  |
+| fleur 9 pri | ふるるきゅぷり | | |
+| jyujiro | 十字路 | | |
+| oricomplex | ORICOMPLEX | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |

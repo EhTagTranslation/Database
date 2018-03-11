@@ -104,6 +104,7 @@
 | fujiwara shunichi | 藤原俊一 | | |
 | ohigetan | 尾髭丹 | | |
 | kisaragi-mic | 如月みっく | | |
+| kisaragi-ice | 如月あいす | | |
 | takanashi rei | 小鳥遊レイ | | |
 | kawakami rokkaku | 川上六角 | | |
 | niro | にろ | | |
@@ -2102,3 +2103,28 @@
 | sekiri | せきり |  |  |
 | midorino tanuki | 翠野タヌキ |  |  |
 | kanna hisashi | かんな久 |  |  |
+| kitahara eiji | 北原エイジ | | |
+| aoi miharu | 蒼井ミハル | | |
+| arinotowatari | ありのとわたり | | |
+| dagashi | 駄菓子 | | |
+| e-musu aki | いーむす・アキ | | |
+| himeno komomo | 姫野こもも | | |
+| kamisiro ryu | 神代龙 | | |
+| kerorin | けろりん | | |
+| kenji | けんじ | | |
+| knuckle curve | ナックルカーブ | | |
+| koumo | コーモ | | |
+| mikarin | ミカリン | | |
+| minagiri | ミナギリ | | |
+| nijou katame | 二条かため | | |
+| ouchi kaeru | 楝蛙 | | |
+| sexyturkey | すたーきー | | |
+| shikkarimono no takashi-kun | しっかり者のタカシくん | | |
+| survival knife | サバイバル刃 | | |
+| wolt | ヲルト | | |
+| yaki tomeito | 焼きトマト | | |
+| ban kazuyasu | 伴カズヤス | | |
+| kaneko toshiaki | かねことしあき | | |
+| labui | 羅ぶい | | |
+| tanaka ginji | 田中银二 | | |
+| tetsuyama kaya | 鉄山かや | | |

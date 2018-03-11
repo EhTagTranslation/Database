@@ -1275,3 +1275,7 @@
 | fairy fencer f | 妖精剑士f | 《妖精剑士f》（日语：フェアリーフェンサー エフ，英语：Fairy Fencer F）是Compile Heart旗下电子角色扮演游戏品牌“Galapagos”的第一款作品，最初于2013年发售。邪神设计由天野喜孝负责，女神设计由平野克幸负责，角色设计由つなこ负责。 | [维基百科](https://zh.wikipedia.org/zh-cn/妖精劍士f) (*) |
 | honkai gakuen | 崩坏学园 |  | [维基百科](https://zh.wikipedia.org/zh-cn/崩壞3rd) |
 | quiz magic academy | 问答魔法学院 | 《问答魔法学院》（日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。 | [维基百科](https://zh.wikipedia.org/zh-hans/問答魔法學院) (*) |
+| houseki no kuni | 宝石之国 | 《宝石之国》（宝石の国）是日本漫画家市川春子的漫画作品，讲谈社出版，于讲谈社杂志《月刊Afternoon》2012年12月号开始连载。2017年5月19日宣布推出电视动画，同年10月起在MBS电视台、东京都会电视台等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/寶石之國) (*) |
+| atlach-nacha | ATLACH＝NACHA |  |  |
+| princess maker | 美少女梦工场 | 《美少女梦工场》（Princess Maker、プリンセスメーカー，又名美少女梦工厂）是由日本GAINAX公司推出的一系列养成游戏，全数均有推出中文版。故事是在标准的奇幻世界（第五代为现代世界与奇幻世界交织），其玩家在游戏中要扮演退役勇者（第三部作品《梦幻妖精》除外）受天神（或妖精女王）所托照顾女孩的善尽父职（第五代可以选择扮演母亲），把女儿由10岁养至18岁，期间可通过学习、打工和冒险来改变女儿的能力值，按发生的事件以及不同的能力值来决定其结局。 | [维基百科](https://zh.wikipedia.org/zh-cn/美少女夢工場) (*) |
+| grisaia no kajitsu | 灰色的果实 | 《灰色的果实》（日语：グリザイアの果実）是由FrontWing于2011年2月25日发售的日本成人游戏。2012年2月24日发售第2作《灰色的迷宫》。2013年5月24日发售第3作《灰色的乐园》。 | [维基百科](https://zh.wikipedia.org/zh-cn/灰色的果實) (*) |

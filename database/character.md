@@ -1370,6 +1370,7 @@
 |  | 文科省官员 | | |
 | | ▼ 尼尔 | | |
 | 2b | 二号B型 | | |
+| 9s | 九号S型 | | |
 | | ▼ 交响情人梦 | | |
 | megumi noda | 野田惠 | | |
 | shinichi chiaki | 千秋真一 | | |
@@ -2157,6 +2158,14 @@
 | ingrid | 英格丽德 | | |
 | laura matsuda | 萝拉‧松田 | | |
 | sean matsuda | 肖恩．松田 | | |
+| | ▼ 临时女友 | | |
+| kokomi shiina | 椎名心实 | | |
+| akane sakurai | 樱井明音 | | |
+| fumio murakami | 村上文绪 | | |
+| chloe lemaire | 克洛伊·勒梅尔 | | |
+| momoko asahina | 朝比奈桃子 | | |
+| haruka kazemachi | 风町阳歌 | | |
+| mutsumi shigino | 鴫野睦 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
