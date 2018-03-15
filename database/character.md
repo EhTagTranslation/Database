@@ -496,10 +496,10 @@
 | miku maekawa | 前川未来 | | |
 |  | 赤西瑛梨华 | | |
 |  | 松原早耶 | | |
-|  | 相原雪乃 | | |
+| yukino aihara | 相原雪乃 | | |
 | frederica miyamoto | 宫本芙蕾德莉卡 | | |
 | sae kobayakawa | 小早川纱枝 | | |
-|  | 西园寺琴歌 | | |
+| kotoka saionji | 西园寺琴歌 | | |
 | anzu futaba | 双叶杏 | | |
 |  | 杨菲菲 | | |
 |  | 桃井小豆 | | |
@@ -538,7 +538,7 @@
 | yuuki otokura | 乙仓悠贵 | | |
 | rin shibuya | 涩谷凛 | | |
 |  | 黑川千秋 | | |
-|  | 松本沙理奈 | | |
+| sarina matsumoto | 松本沙理奈 | | |
 |  | 桐野绫 | | |
 |  | 高桥礼子 | | |
 |  | 相川千夏 | | |
@@ -548,7 +548,7 @@
 | hina araki | 荒木比奈 | | |
 | ai togo | 东乡爱 | | |
 | riina tada | 多田李衣菜 | | |
-|  | 水木圣来 | | |
+| seira mizuki | 水木圣来 | | |
 | chie sasaki | 佐佐木千枝 | | |
 | miyu mifune | 三船美优 | | |
 |  | 服部瞳子 | | |
@@ -637,7 +637,7 @@
 |  | 伊芙·珊德克罗丝 | | |
 | nina ichihara | 市原仁奈 | | |
 |  | 杉坂海 | | |
-|  | 喜多日菜子 | | |
+| hinako kita | 喜多日菜子 | | |
 |  | 北川真寻 | | |
 | mary cochran | 玛丽·柯克兰 | | |
 |  | 小松伊吹 | | |
