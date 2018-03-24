@@ -2156,8 +2156,24 @@
 | vega | 维加 | | |
 | m. bison | 拜森 | | |
 | ingrid | 英格丽德 | | |
-| laura matsuda | 萝拉‧松田 | | |
-| sean matsuda | 肖恩．松田 | | |
+| laura matsuda | 萝拉·松田 | | |
+| sean matsuda | 肖恩·松田 | | |
+| | ▼ pop 子和 pipi 美的日常 | | |
+| popuko | POP 子 |  |  |
+| pipimi | PIPI 美 |  |  |
+| | ▼ 樱 Trick | | |
+| haruka takayama | 高山春香 |  |  |
+| yuu sonoda | 园田优 |  |  |
+| mitsuki sonoda | 园田美月 |  |  |
+| kotone noda | 野田琴音 |  |  |
+| | ▼ bang dream | | |
+| arisa ichigaya | 市谷有咲 |  |  |
+| saaya yamabuki | 山吹沙绫 |  |  |
+| lisa imai | 今井莉莎 |  |  |
+| yukina minato | 凑友希那 |  |  |
+| tae hanazono | 花园多惠 |  |  |
+| kokoro tsurumaki | 弦卷心 |  |  |
+| misaki okusawa | 奥泽美咲 |  |  |
 | | ▼ 临时女友 | | |
 | kokomi shiina | 椎名心实 | | |
 | akane sakurai | 樱井明音 | | |

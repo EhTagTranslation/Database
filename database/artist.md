@@ -2128,3 +2128,12 @@
 | labui | 羅ぶい | | |
 | tanaka ginji | 田中银二 | | |
 | tetsuyama kaya | 鉄山かや | | |
+| oota takeshi | おおたたけし | | |
+| sora inoue | いのうえ空 | | |
+| tan jiu | 坛九 | | [微博](https://weibo.com/u/1300957955) |
+| shigeru | しげる | | |
+| akata izuki | 亚方逸树 | | |
+| matsumori shou | 茉森晶 | | |
+| dadarou | だたろう | | |
+| miso tya | みそ茶 | | |
+| eirizo | エイリゾ | | |

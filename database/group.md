@@ -1257,6 +1257,18 @@
 | fleur 9 pri | ふるるきゅぷり | | |
 | jyujiro | 十字路 | | |
 | oricomplex | ORICOMPLEX | | |
+| ohtado | おおた堂 | | |
+| labomagi | らぼまじ! | | |
+| natsu otome | ナツオトメ | | |
+| nyanyahouse | NyaNyaHouse | | |
+| elephant jelly | エレファントゼリー | | |
+| shounen zoom | 少年ズーム | | |
+| nemuneko | 寝梦猫 | | |
+| heart manju mania | はぁと饅頭マニア | | |
+| dadada coffee | だだだ珈琲 | | |
+| sorairo inn | 空色イン | | |
+| ecchi na taikendan kokuhaku toukou otoko jyuku | エッチな体験談告白投稿男塾 | | |
+| kuramochi zukan | 仓持图鉴 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
