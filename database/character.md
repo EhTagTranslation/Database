@@ -669,7 +669,7 @@
 | shizuka mogami | 最上静香 | | |
 | anna mochizuki | 望月杏奈 | | |
 |  | 矢吹可奈 | | |
-| emily stewart | 艾米莉・司徒亚特 | | |
+| emily stewart | 艾米莉·司徒亚特 | | |
 | tamaki ogami | 大神环 | | |
 |  | 北上丽花 | | |
 | umi kousaka | 高坂海美 | | |
@@ -1514,9 +1514,12 @@
 | alpaca suri | 苏利羊驼 | | |
 | humboldt penguin | 汉波德企鹅 | | |
 | emperor penguin | 帝企鹅 | | |
+| margay | 长尾虎猫 | | |
 | | ▼ 缘之空 | | |
 | sora kasugano | 春日野穹 | | |
 | haruka kasugano | 春日野悠 | | |
+| | ▼ 电锯甜心 | | |
+| juliet starling | 朱丽叶·斯塔林 | | |
 | | ▼ 名侦探柯南 | | |
 | shinichi kudo | 工藤新一 | | |
 | ran mouri | 毛利兰 | | |
@@ -2158,9 +2161,9 @@
 | ingrid | 英格丽德 | | |
 | laura matsuda | 萝拉·松田 | | |
 | sean matsuda | 肖恩·松田 | | |
-| | ▼ pop 子和 pipi 美的日常 | | |
-| popuko | POP 子 |  |  |
-| pipimi | PIPI 美 |  |  |
+| | ▼ pop子和pipi美的日常 | | |
+| popuko | POP子 |  |  |
+| pipimi | PIPI美 |  |  |
 | | ▼ 樱 Trick | | |
 | haruka takayama | 高山春香 |  |  |
 | yuu sonoda | 园田优 |  |  |

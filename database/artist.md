@@ -2137,3 +2137,9 @@
 | dadarou | だたろう | | |
 | miso tya | みそ茶 | | |
 | eirizo | エイリゾ | | |
+| ootomo yuuki | 大友ゆうき | | |
+| sorai shinya | 空维深夜 | | |
+| muuba | 梦生场 | | |
+| orukaniumu | おるかにうむ | | |
+| izayoi no kiki | 十六夜のキキ | | |
+| wada rco | ワダアルコ | | |

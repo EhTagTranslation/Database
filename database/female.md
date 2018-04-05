@@ -186,6 +186,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 | |
 | prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
 | | === 头部 > 头发 === | | |
+| arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 | |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | |
 | shaved head | 光头 | 只有发茬的头部。不应与秃顶(bald)混淆。 | |
 | | === 头部 > 思维 === | | |
@@ -305,6 +306,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 | |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 | |
 | | ==== 下半身 > 裆部 > 阴道 ==== | | |
+| adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 | |
 | big clit | 大阴蒂 | 不正常的巨大阴蒂。不应与大阴道(big vagina)或扶她(futanari)混淆，即使阴蒂以类似的方式使用。 | |
 | big vagina | 大阴道 | 异常大的阴道，有时只是阴唇。不应与大阴蒂(big clit)混淆。<br>![图](http://exhentai.org/t/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg)![图](http://exhentai.org/t/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg)![图](http://exhentai.org/t/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg) | |
 | birth | 出产 | 生物诞生的过程，在此之前一般会怀孕(pregnant)。 | |
@@ -478,6 +480,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 | |
 | | === 强迫 > 束缚 === | | |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是枷具(pillory)、捆绑(shibari)、卡在墙上(stuck in wall)和木马(wooden horse)的前置标签。不需要为口塞(gag)或钩腿(leg lock)添加此标签。 | |
+| harness | 马具 | 由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身内衣(corset)混淆。 | |
 | shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要束缚(bondage)标签。 | |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚(bondage)标签。不应与寻欢洞(glory hole)或虫洞(wormhole)混淆。 | |
 | | === 强迫 > 暴力 === | | |
