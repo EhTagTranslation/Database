@@ -1285,3 +1285,6 @@
 | alternative girls | 妃十三学园 Alternative Girls | 《妃十三学园 Alternative Girls》（日语：オルタナティブガールズ）是CyberAgent, Inc.开发的手机游戏，2016年7月20正式在Android与iOS平台上市。2017年1月18日正式在Android和iOS平台上发布中文版。繁体中文版由台湾真好玩娱乐科技《9Splay行动游戏》代理，简体中文版由中国bilibili代理。日文简称“オルガル”。 | [维基百科](https://zh.wikipedia.org/zh-cn/妃十三學園_Alternative_Girls) (*) |
 | deadpool | 死侍 | 2009年5月，二十世纪福斯开发的一部从“X战警系列电影”的死侍真人电影，由莱恩·雷诺斯主演。 | [维基百科](https://zh.wikipedia.org/zh-cn/死侍) (*) |
 | mitsuboshi colors | 三颗星彩色冒险 | 《三颗星彩色冒险》（日语：三ツ星カラーズ）是由カツヲ创作的日本漫画作品，于2014年7月26日发售的《月刊Comic电击大王》2014年9月号开始连载，目前已出版5册单行本。台湾角川已出版至第4册。 | [维基百科](https://zh.wikipedia.org/zh-cn/三顆星彩色冒險) (*) |
+| nekopara | 巧克力与香子兰 | 《NEKOPARA》（日语：ネコぱら，又译作“巧克力与香草”、“巧克力与香子兰”）是由同人社团NEKO WORKs所开发的一款原创同人恋爱冒险型美少女游戏。角色配音为日文，游戏同时支持日文、繁体中文、英文三种语言版本游戏字幕。Steam版由Sekai Project发行，台湾地区由同人社团萌少女领域发行。未来预定在PlayStation 4和任天堂Switch发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/NEKOPARA) (*) |
+| keijo | 竞女!!!!!!!! | 《竞女!!!!!!!!》（日语：競女!!!!!!!!）为空咏大智在小学馆《周刊少年Sunday》连载的日本水上运动漫画，于2013年34号开始连载，至2017年22·23合并号完结。单行本全18册。台湾由青文出版社出版发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/競女!!!!!!!!) (*) |
+| the emoji movie | 表情奇幻冒险 | 《表情奇幻冒险》（英语：The Emoji Movie）是一部2017年美国3D电脑动画冒险喜剧片，由东尼·李迪斯执导。电影配音员包括T·J·米勒、安娜·法瑞丝和詹姆斯·柯登。 | [维基百科](https://zh.wikipedia.org/zh-cn/表情符號電影) (*) |

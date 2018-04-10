@@ -436,6 +436,7 @@
 | rodney | 罗德尼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:罗德尼) |
 | enterprise | 企业 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:企业) |
 | queen elizabeth | 伊丽莎白女王 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:伊丽莎白女王) |
+| victorious | 胜利 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:胜利) |
 | ajax | 阿贾克斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:阿贾克斯) |
 | cleveland | 克利夫兰 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:克利夫兰) |
 | honolulu | 火奴鲁鲁 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
@@ -1369,6 +1370,7 @@
 | chiyo shimada | 岛田千代 | | |
 |  | 文科省官员 | | |
 | | ▼ 尼尔 | | |
+| a2 | A型二号 | | |
 | 2b | 二号B型 | | |
 | 9s | 九号S型 | | |
 | | ▼ 交响情人梦 | | |
@@ -2186,6 +2188,25 @@
 | haruka kazemachi | 风町阳歌 | | |
 | mutsumi shigino | 鴫野睦 | | |
 | erena mochizuki | 望月艾蕾娜 | | |
+| | ▼ 竞女 | | |
+| nozomi kaminashi | 神无希 | | |
+| sayaka miyata | 宫田纱耶香 | | |
+| non toyoguchi | 丰口浓 | | |
+| | ▼ 火影忍者 | | |
+| sakura haruno | 春野樱 | | |
+| naruko | 鸣子 | | |
+| sasuke uchiha | 宇智波佐助 | | |
+| tsunade | 纲手 | | |
+| anko mitarashi | 御手洗红豆 | | |
+| ino yamanaka | 山中井野 | | |
+| kurotsuchi | 黑土 | | |
+| sarada uchiha | 宇智波佐良娜 | | |
+| tayuya | 多由也 | | |
+| temari | 手鞠 | | |
+| naruto uzumaki | 漩涡鸣人 | | |
+| minato namikaze | 波风水门 | | |
+| hinata hyuga | 日向雏田 | | |
+| kushina uzumaki | 漩涡奇奈 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2257,10 +2278,7 @@
 | rabi en rose | 拉比安露斯 | | |
 | lei fang | 雷芳 | | |
 | menace | 美纳斯 | | |
-| tina armstrong | 蒂娜 | | |
-| naruko | 鸣子 | | |
-| sasuke uchiha | 宇智波佐助 | | |
-| tsunade | 纲手 | | |
+| tina armstrong | 蒂娜·阿姆斯特朗 | | |
 | anri misugi | 美杉杏莉 | | |
 | makoto hozumi | 穗积真琴 | | |
 | misao shinohara | 筱原美纱绪 | | |
@@ -2277,7 +2295,7 @@
 | ple two | 普露兹 | | |
 | kurisu makise | 牧濑红莉栖 | | |
 | maribel | 玛丽贝尔 | | |
-| precia zan zenosakis | 普蕾茜娅・泽诺萨奇斯 | | |
+| precia zan zenosakis | 普蕾茜娅·泽诺萨奇斯 | | |
 | ruka urushibara | 漆原琉华 | | |
 | yui takamura | 篁唯依 | | |
 | nico robin | 妮可·罗宾 | | |
