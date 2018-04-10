@@ -2207,6 +2207,12 @@
 | minato namikaze | 波风水门 | | |
 | hinata hyuga | 日向雏田 | | |
 | kushina uzumaki | 漩涡奇奈 | | |
+| kakashi hatake | 旗木卡卡西 | | |
+| shikamaru nara | 奈良鹿丸 | | |
+| hashirama senju | 千手柱间 | | |
+| madara uchiha | 宇智波斑 | | |
+| itachi uchiha | 宇智波鼬 | | |
+| boruto uzumaki | 漩涡博人 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2268,9 +2274,9 @@
 | fumie hashimoto | 桥本文惠 | | |
 | yuuko amasawa | 天泽勇子 | | |
 | yuuko okonogi | 小此木京子 | | |
-| elphelt valentine | 艾露菲鲁特 ‧ 华伦泰 | | |
+| elphelt valentine | 艾露菲鲁特·华伦泰 | | |
 | jam kuradoberi | 藏土缘纱梦 | | |
-| ramlethal valentine | 拉姆蕾萨尔 ‧ 华伦泰 | | |
+| ramlethal valentine | 拉姆蕾萨尔·华伦泰 | | |
 | alisa ilinichina amiella | 亚莉莎·伊莉妮提娜·阿米耶拉 | | |
 | lara croft | 劳拉·克罗夫特 | | |
 | naoto shirogane | 白钟直斗 | | |
