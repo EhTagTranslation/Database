@@ -1516,7 +1516,10 @@
 | alpaca suri | 苏利羊驼 | | |
 | humboldt penguin | 汉波德企鹅 | | |
 | emperor penguin | 帝企鹅 | | |
+| royal penguin | 皇家企鹅 | | |
 | margay | 长尾虎猫 | | |
+| black leopard | 黑豹 | | |
+| leopard | 豹 | | |
 | | ▼ 缘之空 | | |
 | sora kasugano | 春日野穹 | | |
 | haruka kasugano | 春日野悠 | | |

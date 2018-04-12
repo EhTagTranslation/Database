@@ -1277,6 +1277,13 @@
 | saru no koshikake | サルノコシカケ | | |
 | jall boint | ジョールボイント | | |
 | wadamemo | wadamemo | ワダアルコ | |
+| nanka no atama | 何かのあたま! | | |
+| scratch jikkou iinkai | スクラッチ実行委員会 | | |
+| gn | GN | | |
+| anko ni gohan | あんこに御飯 | | |
+| hyappo hissatsu | 百步必杀 | | |
+| ajiichi | 味市 | | |
+| aozoramichi | 苍空道 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
