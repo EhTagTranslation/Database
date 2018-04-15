@@ -179,7 +179,9 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | | === 头部 > 头发 === | | |
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 | |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | |
+| ponytail | 马尾辫 | 将大部分的头发往后集中，用一个皮套或其它的可以松紧的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用双马尾(twintails)。 | |
 | shaved head | 光头 | 只有发茬的头部。不应与秃顶(bald)混淆。 | |
+| twintails | 双马尾 | 将大部分的头发往头部两侧集中，用皮套或其它的可以松紧的装饰品，将辫子扎起来竖在半空中的造型。不应与马尾辫(ponytail)混淆。 | |
 | | === 头部 > 思维 === | | |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依(possession)混淆也不能标为性转换(gender bender)。 | |
 | chloroform | 迷药 | 任何物质用于在没有使用暴力的情况下使人失去知觉。 可能导致强奸(rape)或睡觉(sleeping)。 | |
@@ -440,7 +442,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 | |
 | | === 强迫 > 束缚 === | | |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是枷具(pillory)、捆绑(shibari)、卡在墙上(stuck in wall)和木马(wooden horse)的前置标签。不需要为口塞(gag)或钩腿(leg lock)添加此标签。 | |
-| harness | 马具 | 由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身内衣(corset)混淆。 | |
+| harness | 挽具 | 由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与捆绑(shibari)或紧身内衣(corset)混淆。 | |
 | shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要束缚(bondage)标签。 | |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要束缚(bondage)标签。不应与寻欢洞(glory hole)或虫洞(wormhole)混淆。 | |
 | | === 强迫 > 暴力 === | | |

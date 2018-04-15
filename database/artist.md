@@ -2156,3 +2156,13 @@
 | namusoubyou | 名无双描 | | |
 | marushamo | まるしゃも | | |
 | haruhonya | はるほんや | | |
+| shinya | しんや | | |
+| yonban | よんばん | | |
+| nori-haru | のりはる | | |
+| neko totora | ねこトトラ | | |
+| wulazula | うらずら | | |
+| aian | あいあん | | |
+| nmo ezago | ンモ=エザゴ | | |
+| mikuni atsuko | 三国あつ子 | | |
+
+<!--TEMPLATE: |  |  | | |-->

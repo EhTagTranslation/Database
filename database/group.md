@@ -1284,6 +1284,16 @@
 | hyappo hissatsu | 百步必杀 | | |
 | ajiichi | 味市 | | |
 | aozoramichi | 苍空道 | | |
+| calm atmosphere | カルムアトモスフィア | | |
+| hikakuteki simple na panty | 比較的シンプルなパンティ | | |
+| hachimitsu romance | 蜂蜜ロマンス | | |
+| trouble makers | Trouble Makers | | |
+| p-collection | P-Collection | | |
+| nekotoraya | 猫虎屋 | | |
+| wulazula | うらずら | | |
+| shotaian | 所带庵 | | |
+| pirozhki teikoku | ピロシキ帝国 | | |
+| c.rs nest | C.R's NEST | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
