@@ -469,7 +469,6 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与截肢(amputee)或束缚(bondage)混淆。 | |
 | mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴口塞(gag)的人。不用于无言的(speechless)画廊。 | |
 | | == 性别 == | | |
-| | 注释：性别类说明 | futanari(扶她，无争议)和shemale(暂定为女雄)在英文里都算transsexual(暂定为变性人)，但中文不好表达，因此规定需要单字时统一用“扶”代指有阴茎的女性。<br>进行性交的行为需要单字时统一用“上”来代替，会产生歧义时请酌情考虑其他雅观一点的词汇。 | |
 | cuntboy | 人妖 | 有阴道的男性。男性与人妖间的性行为不应添加男同(yaoi)或纯男性(males only)标签。有可能有阴茎，此时不应与扶她(futanari)混淆。 | |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或精神控制(mind control)）或将他的身体改变为女雄(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。 | |
 | gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用变身(transformation)。不应与换身(body swap)或异性装(crossdressing)混淆。不用于女性变为扶她(futanari)的情况。<br>![我要成为XXX](https://exhentai.org/t/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg)| | |
@@ -505,7 +504,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | grandfather | 祖父 | 祖父与孙子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 | |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 | |
-| uncle |叔叔 | 叔叔与侄子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | |
+| uncle | 叔叔 | 叔叔与侄子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 | |
 | | == 隐私 == | | |
 | exhibitionism | 露阴癖 | 冒着被陌生人抓住的风险裸体。也可能是公然暴露于陌生人。 | |
 | filming | 摄像 | 对性行为进行摄像。 | |
