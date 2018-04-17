@@ -2164,5 +2164,23 @@
 | aian | あいあん | | |
 | nmo ezago | ンモ=エザゴ | | |
 | mikuni atsuko | 三国あつ子 | | |
+| nekousa | 猫兔 | | |
+| shown | ショーン | | |
+| shimakaze | 岛风 | | |
+| hamatyonn | ハマちょん | | |
+| fukufukuan | 福々餡 | | |
+| aikawa an | 愛川あん | | |
+| nao takami | 尚たかみ | | |
+| okuni yoshinobu | 小国由喜 | | |
+| oreiro | オレイロ | | |
+| ndc | NDC | | |
+| rocket monkey | ロケットモンキー | | |
+| a-teru haito | A辉废都 | | |
+| kusumoto toka | 楠元とうか | | |
+| utatane hiroyuki | うたたねひろゆき | | |
+| maa-kun | まーくん | | |
+| chuuka naruto | 中華なると | | |
+| area | Area | | |
+| kruth666 | Kruth666 | | |
 
 <!--TEMPLATE: |  |  | | |-->

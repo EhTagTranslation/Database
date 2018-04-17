@@ -1637,6 +1637,7 @@
 | iskandar | 伊斯坎达尔 | | |
 | caster | Caster | 指第五次圣杯战争中的 Caster。其他情况使用真名。 | |
 | gilles de rais | 吉尔·德·莱斯 | | |
+| ishtar | 伊什塔尔 |  | |
 | tamamo no mae | 玉藻前 | | |
 | assassin | Assassin | | |
 | shielder | Shielder | | |
