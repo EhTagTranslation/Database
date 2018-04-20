@@ -2182,5 +2182,15 @@
 | chuuka naruto | 中華なると | | |
 | area | Area | | |
 | kruth666 | Kruth666 | | |
+| f4u | F4U | | |
+| higenamuchi | ひげなむち | | |
+| honryo hanaru | 本領はなる | | |
+| ichigain | 一概 | | |
+| konchiki | こんちき | | |
+| namboku | 南北 | | |
+| ogadenmon | オガデンモン | | |
+| sakuma tsukasa | さくま司 | | |
 
-<!--TEMPLATE: |  |  | | |-->
+<!--TEMPLATE: 
+|  |  | | |
+-->
