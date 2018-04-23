@@ -330,7 +330,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | cashier | 收银员 | 一个站在柜台后面或在商店里工作的人，穿着围裙穿着制服。 | |
 | cheerleader | 啦啦队员 | 啦啦队员制服，通常配短裙和配套配件。需要异性装(crossdressing)标签。 | |
 | chinese dress | 唐装 | 包裹身体的单件连衣裙，通常采用简单花卉图案。需要异性装(crossdressing)标签。 | |
-| christmas | 圣诞装 | 圣诞老人相关的服装，突出使用红色织物和白色修边边缘。 | |
+| christmas | 圣诞装🎅 | 圣诞老人相关的服装，突出使用红色织物和白色修边边缘。 | |
 | clown | 小丑 | 白面与皱褶领和衣服。通常强调面部特征，例如大的红色鼻子和嘴唇以及醒目的彩色头发。 | |
 | condom | 避孕套 | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 | |
 | corset | 紧身内衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状。需要异性装(crossdressing)标签。 | |

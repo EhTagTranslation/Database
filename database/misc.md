@@ -51,7 +51,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | | == 工具 == | | |
 | dakimakura | 抱枕 | 印有角色全身像的抱枕。也用于抱枕图案。 | |
 | | == 强迫 == | | |
-| time stop | 时间停止 | 所有人的时间停止，除了一个性优势的人物。也包括由于相同的原因进行的任何时间更改。 | |
+| time stop | 时间停止⏱️ | 所有人的时间停止，除了一个性优势的人物。也包括由于相同的原因进行的任何时间更改。 | |
 | | == 技术 == | | |
 | 3d | 3D | 计算机生成的 3D 图像。不应与立体图(stereoscopic)和红蓝3D(anaglyph)混淆。 | |
 | anaglyph | 红蓝3D | 使用双色产生 3D 效果的图片。不应与 3D(3d)和立体图(stereoscopic)混淆。 | |
