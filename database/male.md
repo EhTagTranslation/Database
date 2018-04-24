@@ -425,7 +425,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | bukkake | 精液覆盖 | 性主角被精液覆盖，一般不止一个人射精。不像颜射一般局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](http://exhentai.org/t/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg)![图](http://exhentai.org/t/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg)![图](http://exhentai.org/t/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg)![图](http://exhentai.org/t/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg) | |
 | cum bath | 精液浴 | 浴缸、泳池或其他大容器装有精液，至少有一个人部分浸没在精液中。 | |
 | | ==== 液体 > 体液 > 排泄物 ==== | | |
-| public use | 肉便器 | 一个人保持静止，并使自己公开可用于性，往往与多个伙伴。经常涉及到他们被用作厕所/小便池。可能包括或导致身体写作(body writing)。 | |
+| public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致身体写作(body writing)。 | |
 | scat | 排便💩 | 是食粪(coprophagia)的前置标签。 | |
 | sweating | 出汗 | 可见的出汗。不应与精液覆盖(bukkake)或油(oil)混淆。 | |
 | urination | 排尿 | 尿尿。是饮尿(piss drinking)的前置标签。 | |
