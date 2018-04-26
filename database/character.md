@@ -746,6 +746,7 @@
 |  | 舞田类 | | |
 |  | 北村想乐 | | |
 |  | 山村贤 | | |
+| sakuya shirase | 白濑咲耶 | | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | | |
 | | ▼ My Little Pony 角色 | | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) | |
@@ -962,6 +963,8 @@
 | kobayashi-san | 小林 | ![小林](http://ehgt.org/t/78/c8/78c831f1bdfe841cffac1f136fb58e1d9e496dfe-1490811-2180-3060-png_l.jpg) | |
 | shouta magatsuchi | 真土翔太 | ![真土翔太](http://exhentai.org/t/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg) | |
 | riko saikawa | 才川莉子 | | |
+| elma | 艾尔玛 | | |
+| kobayashi | 小林 | | |
 | | ▼ 星期一的丰满 角色 | | |
 | ai-chan | 小爱 | | [萌娘百科](https://zh.moegirl.org/小爱%28星期一的丰满%29) |
 | kouhai-chan | 后辈 | | |
