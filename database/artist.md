@@ -2190,6 +2190,9 @@
 | namboku | 南北 | | |
 | ogadenmon | オガデンモン | | |
 | sakuma tsukasa | さくま司 | | |
+| arai togami | 荒居栂美 | | |
+| fujitsuna | フジツナ | | |
+| fukuroumori | 枭森 | | |
 
 <!--TEMPLATE: 
 |  |  | | |

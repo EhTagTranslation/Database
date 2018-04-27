@@ -1667,6 +1667,8 @@
 | artemis | 阿耳忒弥斯 | | |
 | altera | 阿提拉 | | |
 | boudica | 布狄卡 | | |
+| mysterious heroine x | 谜之女主角X | | |
+| mysterious heroine x alter | 谜之女主角X Alter | | |
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | | |
 | waver velvet | 韦伯·维尔维特 | | |
 | kiara sessyoin | 杀生院祈荒 | | |
