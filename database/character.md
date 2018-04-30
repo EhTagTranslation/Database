@@ -2237,8 +2237,11 @@
 | brioche darquien | 布丽奥修·达尔基昂 | | |
 | couvert eschenbach pastillage | 库贝尔·艾申巴赫·帕斯提亚修 | | |
 | percy gaudi | 帕西·高迪 | | |
-| vert far breton | 贝尔·法布林塔 | | |
+| vert farbreton | 贝尔·法布林塔 | | |
 | violle amaretto | 毕欧蕾·亚玛雷特 | | |
+| jaune clafouti | 乔奴·克拉芙缇 | | |
+| adelaide grand marnier | 阿德莱德·格兰玛尼亚 | | |
+| sharu | 夏露 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
