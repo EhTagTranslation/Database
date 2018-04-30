@@ -92,6 +92,7 @@
 | crossbone gundam | 机动战士海盗高达 | | |
 | gundam build fighters | 高达创战者 | | |
 | gundam build fighters try | 高达创战者TRY | | |
+| gundam build divers | 高达创形者 | | |
 | gundam g no reconguista | 高达G之复国运动 | | |
 | gundam x | 机动新世纪高达X | | |
 | victory gundam | 机动战士V高达 | | |
@@ -1299,6 +1300,12 @@
 | toji no miko | 刀使之巫女 | 《刀使之巫女》（日语：刀使ノ巫女）是柿本广大监督，Studio五组制作的原创动画，静间义则担任人物原案。2017年5月15日宣布动画企划开始，目前电视动画2018年1月5日AT-X电视台首播，中国地区由bilibili与日本同步时段放送。 | [维基百科](https://zh.wikipedia.org/zh-cn/刀使之巫女) (*) |
 | major | 棒球大联盟 | 《棒球大联盟》（MAJOR）是满田拓也的少年漫画作品，从1994年至2010年在周刊少年Sunday（小学馆）上连载的棒球漫画。在台湾由青文出版社代理漫画出版，曾连载于元气少年。另有以原作改编的电视动画，标题是片假名“メジャー”；续作《棒球大联盟2nd》（MAJOR 2nd）也于2015年开始连载在周刊少年Sunday（小学馆），台湾则由青文出版社代理漫画出版，2017年10月宣布动画化，标题是片假名“メジャーセカンド”。 | [维基百科](https://zh.wikipedia.org/zh-cn/棒球大聯盟) (*) |
 | sora yori mo tooi basho | 比宇宙更远的地方 | 《比宇宙更远的地方》（日语：宇宙よりも遠い場所）是由MADHOUSE制作的日本原创电视动画作品，于2017年7月在Anime Expo公开动画消息，于2018年1月播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/比宇宙還遠的地方) (*) |
+| border break | 边境保卫战 | 《边境保卫战》为世嘉制作的网络第三人称射击游戏机台游戏，于2009年投入运营，在标题偏旁副题标示有“世嘉网络机器人战争”（SEGA NETWORK ROBOT WARS）。游戏运营模式为店家与世嘉公司分帐（Revenue sharing）。玩家能够从游戏操纵机器人“Blast Runner”（ブラスト・ランナー），与日本及部分海外地区玩家一同进行最多10人对10人的团队对战。游戏一大特征是采用Game Point（GP）作为玩家进行游戏的运作时间或购买虚拟装备配额。在游戏内，1GP等同现实一秒钟时间。此外，边境保卫战 与同公司另一街机 “三国志大战 War Begins”，为首批于日本以外地区使用街机网络“ALL.Net”的游戏之一。 | [维基百科](https://zh.wikipedia.org/zh-cn/Border_Break) (*) |
+| last period | 最终休止符 -无止境的螺旋物语- | 《最终休止符 -无止境的螺旋物语-》（日语：ラストピリオド -終わりなき螺旋の物語-，英语：Last Period: The Story of an Endless Spiral）是Happy Elements开发的手机游戏，2016年5月公开。电视动画于2018年4月12日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/最終休止符_-無止境的螺旋物語-) (*) |
+| stella glow | 星光幻歌 |  | |
+| ryuuou no oshigoto | 龙王的工作！ | 《龙王的工作！》（日语：りゅうおうのおしごと!）是白鸟士郎撰写，しらび绘制插画的日本轻小说作品。由SB Creative的GA文库发行，已发售8册。漫画版为こげたおこげ作画。  | [维基百科](https://zh.wikipedia.org/zh-cn/龍王的工作%EF%BC%81) (*) |
+| uma musume pretty derby | 赛马娘Pretty Derby | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司Cygames制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。 | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (*) |
+| os-tan | OS娘 | OS娘（OSたん，亦有OS Girls、OS少女等称呼），为一个在日本讨论区双叶频道（Futaba Channel，ふたば☆ちゃんねる）的网络现象。OS娘是日本漫画爱好者对目前的电脑操作系统拟人化后的产物，其对象主要为Windows操作系统。每位OS娘的出场是众位漫画爱好者获得一致的想法创造出来的。 | [维基百科](https://zh.wikipedia.org/zh-cn/OS娘) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

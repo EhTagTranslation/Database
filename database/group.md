@@ -1303,6 +1303,9 @@
 | iromiiro | いろみいろ | | |
 | uroboros | UROBOROS | | |
 | marked-two | Marked-two | | |
+| surume no oka | するめの丘 | | |
+| moezilla-gumi | もえじら組 | | |
+| hisagoya | 瓢屋 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |

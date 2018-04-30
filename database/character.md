@@ -1363,8 +1363,9 @@
 |  | 松风铃 | | |
 | ami chouno | 蝶野亚美 | | |
 |  | 篠川香音 | | |
-|  | B子 | | |
-|  | C子 | | |
+| andou | 安藤 | | |
+| oshida | 押田 | | |
+| murakami | 村上 | | |
 | yuri isuzu | 五十铃百合 | | |
 | shiho nishizumi | 西住志穗 | | |
 |  | 秋山淳五郎 | | |
@@ -2222,6 +2223,22 @@
 | madara uchiha | 宇智波斑 | | |
 | itachi uchiha | 宇智波鼬 | | |
 | boruto uzumaki | 漩涡博人 | | |
+| | ▼ dog days | | |
+| cinque izumi | 真红·和泉 | | |
+| millhiore firianno biscotti | 米希奥蕾·菲利安诺·比斯科迪 | | |
+| leonmitchelli galette des rois | 蕾昂米修莉·加雷特·德·罗瓦 | | |
+| gaul galette des rois | 高尔·迦雷特·德·罗瓦 | | |
+| yukikaze panettone | 雪风·帕尼托尼 | | |
+| rebecca anderson | 蕾蓓卡·安德森 | | |
+| noir vinocacao | 诺瓦鲁·可可酒 | | |
+| eclair martinozzi | 艾克蕾尔·马尔迪诺基 | | |
+| ricotta elmar | 利歌塔·埃玛 | | |
+| nanami takatsuki | 高槻七海 | | |
+| brioche darquien | 布丽奥修·达尔基昂 | | |
+| couvert eschenbach pastillage | 库贝尔·艾申巴赫·帕斯提亚修 | | |
+| percy gaudi | 帕西·高迪 | | |
+| vert far breton | 贝尔·法布林塔 | | |
+| violle amaretto | 毕欧蕾·亚玛雷特 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2373,13 +2390,11 @@
 | dark magician girl | 黑魔术少女 | | |
 | silent magician | 沉默魔术师 | | |
 | marcille | 玛露西露 | | |
-| millhiore firianno biscotti | 米尔奥蕾·菲里安诺·比斯科迪 | | |
 | fumina hoshino | 星野文奈 | | |
 | angela balzac | 安吉拉·巴尔扎克 | | |
 | yanagi takayama | 高山柳 | | |
 | nako oshimizu | 押水菜子 | | |
 | sawa okita | 冲田纱羽 | | |
-| cinque izumi | 真红·和泉 | | |
 | bloodberry | 红莓 | | |
 | cherry | 樱桃 | | |
 | sakuya tachibana | 橘咲夜 | | |
