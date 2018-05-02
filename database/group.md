@@ -1125,10 +1125,16 @@
 | rukonosu | 龙虎乃巢 | | |
 | samoyedest | サモエデスト | | |
 | yuunabe shinkouchuu | 夕锅进行中 | | |
-| | ▲ 同人社团 | | |
-| | ▼ GAL公司 | | |
-| orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
-| praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
+| royal milk | Royalみるく | | |
+| nanohanatea | なのはなtea* | | |
+| sound sticker | サウンドステッカー | | |
+| gainamon | がいなもん | | |
+| loflat | LOFLAT | | |
+| chococornet | チョココロネ | | |
+| wnb | WNB | | |
+| custom size | カスタムサイズ | | |
+| flicker10 | Flicker10 | | |
+| arkhetelos | あるけてろす | | |
 | juggernaut | じゃがぁの～と | | |
 | aki no mikaku | あきのみかく | | |
 | ukatsu de wa nai | うかつではない | | |
@@ -1306,8 +1312,14 @@
 | surume no oka | するめの丘 | | |
 | moezilla-gumi | もえじら組 | | |
 | hisagoya | 瓢屋 | | |
+| yohsyuan | 杨州庵 | | |
+| bundosuikou | 文土水口 | | |
+| potato house | POTATO HOUSE | | |
+| sabaku x syoujyo | 砂漠×少女 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
+| praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
 | frill | Frill | | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
 | triangle | Triangle | | |

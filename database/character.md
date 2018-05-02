@@ -2242,6 +2242,10 @@
 | jaune clafouti | 乔奴·克拉芙缇 | | |
 | adelaide grand marnier | 阿德莱德·格兰玛尼亚 | | |
 | sharu | 夏露 | | |
+| | ▼ バーチャルYouTuber | | |
+| kizuna ai | 绊爱 | 人工智障 | |
+| kaguya luna | 辉夜月 |  | |
+| mirai akari | Mirai Akari |  | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2401,7 +2405,6 @@
 | bloodberry | 红莓 | | |
 | cherry | 樱桃 | | |
 | sakuya tachibana | 橘咲夜 | | |
-| kizuna ai | 绊爱 | 人工智障 | |
 | kimi aoi | 葵·喜美 | | |
 | tori aoi | 葵·托利 | | |
 | akira yamamoto | 山本玲 | | |
