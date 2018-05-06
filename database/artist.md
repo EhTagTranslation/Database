@@ -2188,6 +2188,7 @@
 | ichigain | 一概 | | |
 | konchiki | こんちき | | |
 | namboku | 南北 | | |
+| tohzai | 东西 | | |
 | ogadenmon | オガデンモン | | |
 | sakuma tsukasa | さくま司 | | |
 | arai togami | 荒居栂美 | | |
@@ -2209,6 +2210,25 @@
 | son yohsyu | 孙杨州 | | |
 | ray-kbys | Ray-Kbys | | |
 | potato | POTATO | | |
+| ichihara hikari z | 位置原光Z | | |
+| komezawa | こめざわ | | |
+| mozu | もず | | |
+| aoiro ichigou | あお色一号 | | |
+| futamine kobito | 二峰跨人 | | |
+| gennari | ゲンナリ | | |
+| hanasaki tsutsuji | 花咲つつじ | | |
+| inukami | いぬかみ | | |
+| narumiya akira | 成宫亨 | | |
+| oosawara sadao | 大童贞男 | | |
+| oozorawakaba | 大空若叶 | | |
+| sugarbt | sugarBt | | |
+| sunahama nosame | 砂浜のさめ | | |
+| zakotsu | 佐骨 | | |
+| nidy-2d- | Nidy-2D- | | |
+| urico take | 瓜子たけ | | |
+| tanohito | たのひと | | |
+| kouki kuu | こうきくう | | |
+| engawa suguru | エンガワ卓 | | |
 
 <!--TEMPLATE: 
 |  |  | | |

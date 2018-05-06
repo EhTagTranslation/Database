@@ -1316,6 +1316,14 @@
 | bundosuikou | 文土水口 | | |
 | potato house | POTATO HOUSE | | |
 | sabaku x syoujyo | 砂漠×少女 | | |
+| hougakuya | 方角屋 | | |
+| koro chan fan club | コロちゃんファンクラブ | | |
+| 4hands | 4HANDS | | |
+| takachihoscramble | 高千穂スクランブル | | |
+| doku tonkotsu niku dorei | 毒とんこつ肉ドレイ | | |
+| moon night kitten | 月夜のこねこ | | |
+| american kenpou | アメリカン拳法 | | |
+| erondon hearts | ERONDON HEARTS | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |

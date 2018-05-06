@@ -404,6 +404,7 @@
 | fujinami | 藤波 | No.285 | |
 | uranami | 浦波 | No.286 | |
 | commandant teste | 塔斯特司令官 | No.291 | |
+| i-400 | 伊400 | No.293 | |
 | i-13 | 伊13 | No.294 | |
 | i-14 | 伊14 | No.295 | |
 | gangut | 甘古特 | No.311 | |
@@ -2203,6 +2204,7 @@
 | sayaka miyata | 宫田纱耶香 | | |
 | non toyoguchi | 丰口浓 | | |
 | | ▼ 火影忍者 | | |
+| fourth raikage | 四代目雷影 | | |
 | sakura haruno | 春野樱 | | |
 | naruko | 鸣子 | | |
 | sasuke uchiha | 宇智波佐助 | | |
