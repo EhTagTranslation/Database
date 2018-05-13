@@ -37,6 +37,7 @@
 | higurashi no naku koro ni | 寒蝉鸣泣之时🔪 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg/250px-%E5%AF%92%E8%9D%89%E9%B8%A3%E6%B3%A3%E4%B9%8B%E6%97%B6.jpg)![图](http://ul.ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](http://ul.ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) | |
 | saki | 天才麻将少女🀄️ | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) | |
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](http://ul.ehgt.org/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](http://ul.ehgt.org/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) | |
+| puella magi madoka magica side story magia record | 魔法纪录 魔法少女小圆外传 | 《魔法纪录 魔法少女小圆外传》（日语：マギアレコード 魔法少女まどか☆マギカ外伝，简称“マギレコ”），简称“魔法纪录”，又译“魔法记录”，是改编自电视动画《魔法少女小圆》的智能手机角色扮演游戏。是由f4samurai制作、Aniplex营运。于2017年8月22日上线。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法紀錄_魔法少女小圓外傳) (*) |
 | toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://ul.ehgt.org/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg)![图](http://ul.ehgt.org/49/e8/49e8946e3c5bc06c87dca62ad9806525bd8a6e02-345835-1121-1600-jpg_l.jpg) | |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) | |
 | sword art online | 刀剑神域 | ![劳模](http://exhentai.org/t/47/c8/47c84877aab92bb5458b970b1549fef79bbfbb36-904651-1097-1600-jpg_250.jpg)![劳模](http://exhentai.org/t/82/51/8251e69ed64cf8569d6f68235681d0782883408f-1323325-2128-3021-jpg_250.jpg) | |
@@ -1313,6 +1314,8 @@
 | kuroinu kedakaki seijo wa hakudaku ni somaru | 黑兽～被白浊沾污的高傲圣女～ | 《黑兽～被白浊沾污的高傲圣女～》（日语：黒獣 ～気高き圣女は白浊に染まる～）是由Liquid制作的一部游戏，后续由魔人改编成动画（里番），另外还有两部衍生小说。  | [萌娘百科](https://zh.moegirl.org/黑兽) (**) |
 | initial d | 头文字D | 《头文字D》（英语：INITIAL D，假名：イニシャル・ディー ）是一部以山道飙车为题材的日本青年漫画，以及以漫画改编的动画系列（包含电视版、OVA与电影版）。漫画作者为重野秀一（しげの秀一），自1995年起开始在讲谈社的《周刊Young Magazine》上连载，连载至2013年7月结束，单行本全48卷，还有多本探讨汽车驾驶技巧的周边专书。 | [维基百科](https://zh.wikipedia.org/zh-cn/頭文字D) (*) |
 | final romance | 对战偶像麻将Final Romance |  |  |
+| violet evergarden | 紫罗兰永恒花园 | 《紫罗兰永恒花园》（ヴァイオレット・エヴァーガーデン）是由晓佳奈创作，高濑亚贵子负责插画的日本轻小说作品，由KA Esuma文库出版与刊行。获得第5回京都动画大奖，也是京都大赏举办以来，目前唯一获得大赏奖的作品。值得注意的书名应是紫花地丁（Violet）而不是紫罗兰（Stock），少校是看到一颗堇菜然后给薇尔莉特起名，紫花地丁是属堇菜科，但目前中文圈普遍误译成十字花科的紫罗兰。 | [维基百科](https://zh.wikipedia.org/zh-cn/紫罗兰永恒花园) (*) |
+| sokkou seitokai | 速攻学生会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

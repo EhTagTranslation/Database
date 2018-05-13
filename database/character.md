@@ -1582,6 +1582,10 @@
 | sayaka miki | 美树沙耶香 | | |
 | kyouko sakura | 佐仓杏子 | | |
 | nagisa momoe | 百江渚 | | |
+| kaede akino | 秋野枫 | | |
+| rena minami | 水波玲奈 | | |
+| yachiyo nanami | 七海八千代 | | |
+| iroha tamaki | 环彩羽 | | |
 | kyubey | 丘比 | QB | |
 | | ▼ 碧蓝幻想 | | |
 | danua | 达奴娅 | | |
@@ -1881,6 +1885,7 @@
 | sakura igawa | 井河樱 | | |
 | rinko akiyama | 秋山凜子 | | |
 | yukikaze mizuki | 水城雪风 | | |
+| shiranui mizuki | 水城不知火 | | |
 | | ▼ 跟班×服务 | | |
 | lucy ... yamagami | 山神露西【以下略】 | | |
 | yutaka hasebe | 长谷部丰 | | |

@@ -967,7 +967,7 @@
 | azuma tesshin | 东铁神 | | |
 | akagi asahito | 赤城あさひと | | |
 | benimura karu | 紅村かる | | |
-| botan mochito | 牡丹もちと | | |
+| bota mochito | 牡丹もちと | | |
 | cuvie | Cuvie | | |
 | hazuki yuto | 羽月ユウト | | |
 | hinasaki yo | 雏咲叶 | | |
@@ -2229,6 +2229,9 @@
 | tanohito | たのひと | | |
 | kouki kuu | こうきくう | | |
 | engawa suguru | エンガワ卓 | | |
+| fuji-han | ふじはん | | |
+| hayashida toranosuke | 林田虎之助 | | |
+| buchou chinke | 部長ちんけ | | |
 
 <!--TEMPLATE: 
 |  |  | | |

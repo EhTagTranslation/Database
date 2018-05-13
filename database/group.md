@@ -1324,6 +1324,7 @@
 | moon night kitten | 月夜のこねこ | | |
 | american kenpou | アメリカン拳法 | | |
 | erondon hearts | ERONDON HEARTS | | |
+| shd | SHD | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
