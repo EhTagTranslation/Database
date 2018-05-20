@@ -2232,6 +2232,24 @@
 | fuji-han | ふじはん | | |
 | hayashida toranosuke | 林田虎之助 | | |
 | buchou chinke | 部長ちんけ | | |
+| asakura kukuri | アサクラククリ | | |
+| nanao naru | 七尾奈留 | | |
+| kirishima ayu | 雾岛鲇 | | |
+| keita naruzawa | Keita Naruzawa | | |
+| amami sen | 天观仙 | | |
+| juujou tatami | 十畳たたみ | | |
+| ermuzibu | Ermuzibu | | |
+| gingami | 银河味 | | |
+| makino tomoe | 槇野ともえ | | |
+| teppeki kyojin | 铁壁巨人 | | |
+| mimiyoshi | みみよし | | |
+| jinsuke | 甚助 | | |
+| mushoku santaro | 无色三太郎 | | |
+| tawara hiryuu | 俵绯龙 | | |
+| marugoshi | まるごし | | |
+| missbehaviour | MissBehaviour | | |
+| funsexydragonball | Funsexydragonball | | |
+| badonion | BadOnion | | |
 
 <!--TEMPLATE: 
 |  |  | | |

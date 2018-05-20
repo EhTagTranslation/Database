@@ -1325,6 +1325,18 @@
 | american kenpou | アメリカン拳法 | | |
 | erondon hearts | ERONDON HEARTS | | |
 | shd | SHD | | |
+| purin kai yoghurt | プリン海ヨーグルト | | |
+| shouyu no sato | 醤油の里 | | |
+| amatou | あまとう \| 甘党 | | |
+| sennin no atelier | 仙人のアトリエ | | |
+| magicalflight | MagicalFlight | | |
+| inucream | いぬくりぃむ | | |
+| dangan minorz | ダンガンマイナーズ | | |
+| wohana gokoro | ヲ花心 | | |
+| jack-pot | JACK-POT | | |
+| gamu-syara | 饿武者罗 | | |
+| jinsukeya | 甚助屋 | | |
+| mushoku santaro | 无色三太郎 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |

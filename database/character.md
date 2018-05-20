@@ -1553,15 +1553,23 @@
 | chi chi | 琪琪 | | |
 | son gohan | 孙悟饭 | | |
 | son goten | 孙悟天 | | |
+| android 16 | 人造人16号 | | |
 | android 18 | 人造人18号 | | |
+| android 21 | 人造人21号 | | |
 | videl | 比迪丽 | | |
 | son goku | 孙悟空 | | |
 | vegeta | 贝吉塔 | | |
 | trunks briefs | 特兰克斯 | | |
+| bulma briefs | 布尔玛 | | |
 | piccolo | 比克 | | |
 | goku black | 黑悟空 | | |
 | broly | 布罗利 | | |
 | erasa | 伊蕾莎 | | |
+| majin buu | 魔人布欧 | | |
+| master roshi | 武天老师 | | |
+| oolong | 乌龙 | | |
+| ranfan | 兰芳 | | |
+| lunch | 兰琪 | | |
 | | ▼ 在地下城寻求邂逅是否搞错了什么 | | |
 | hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) | |
 | bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) | |
