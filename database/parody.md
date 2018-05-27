@@ -1319,6 +1319,7 @@
 | shantae | 桑塔 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
 | nekojishi | 家有大猫 |  |  |
 | tomo-chan wa onnanoko | 小智是女孩子 | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/小智是女孩子) (*) |
+| strawberry panic | 惊爆草莓 | 《惊爆草莓》是日本电击G's杂志（MediaWorks）于2003年11月号开始的读者参与计划。动画版于2006年4月开始在日本地区播放（全26集）。 | [维基百科](https://zh.wikipedia.org/zh-cn/草莓危機) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
