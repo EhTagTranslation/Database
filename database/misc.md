@@ -71,6 +71,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | story arc | 故事线 | 在单个画廊中的多个章节讲述同一个故事。需要至少 75 页或 4 章。 对于单行本(tankoubon)，50% 的内容需要符合条件。不应与系列作品(multi-work series)混淆。 | |
 | tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 | |
 | themeless | 无主题 | 没有特定主题或关注点的画廊。 | |
+| variant set | 变体集 | 从静态角度仅描绘单一场景的画廊。 | |
 | webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及行动装置而设的漫画。 | |
 | | === 技术 > 修正 === | | |
 | uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。不应使用于西部类别的画廊。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg)<br>![图](http://exhentai.org/t/6c/61/6c61a80b58864ec5739121b53c5ef6f269fd2ad1-202796-849-1200-jpg_l.jpg)![图](http://exhentai.org/t/bf/7e/bf7e4d6dcea6cd70919cb86cc324b890cf28b5a1-424394-1000-1418-jpg_l.jpg)![图](http://exhentai.org/t/ca/8a/ca8accf50dbd2d3b5f44990e6e537cde9c14df60-3607875-2459-3489-jpg_l.jpg)![图](http://exhentai.org/t/74/bd/74bd9380345104fa3b29d450edfc95f98b25e099-3156277-2466-3490-jpg_l.jpg)![图](http://exhentai.org/t/e4/0b/e40b7c0193e0522e24b6c926aa45c9b68e0f4e26-501329-1280-892-jpg_l.jpg)![图](http://exhentai.org/t/90/12/90126d458ff869ab6d835f436bd54a561159969e-91693-843-1200-jpg_l.jpg)![图](http://exhentai.org/t/b2/d6/b2d607fdb482ee741596c844887f5365c88d0a76-672166-825-1000-jpg_l.jpg) | |

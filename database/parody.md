@@ -1316,6 +1316,9 @@
 | final romance | 对战偶像麻将Final Romance |  |  |
 | violet evergarden | 紫罗兰永恒花园 | 《紫罗兰永恒花园》（ヴァイオレット・エヴァーガーデン）是由晓佳奈创作，高濑亚贵子负责插画的日本轻小说作品，由KA Esuma文库出版与刊行。获得第5回京都动画大奖，也是京都大赏举办以来，目前唯一获得大赏奖的作品。值得注意的书名应是紫花地丁（Violet）而不是紫罗兰（Stock），少校是看到一颗堇菜然后给薇尔莉特起名，紫花地丁是属堇菜科，但目前中文圈普遍误译成十字花科的紫罗兰。 | [维基百科](https://zh.wikipedia.org/zh-cn/紫罗兰永恒花园) (*) |
 | sokkou seitokai | 速攻学生会 |  |  |
+| shantae | 桑塔 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
+| nekojishi | 家有大猫 |  |  |
+| tomo-chan wa onnanoko | 小智是女孩子 | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/小智是女孩子) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

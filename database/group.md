@@ -1337,6 +1337,7 @@
 | gamu-syara | 饿武者罗 | | |
 | jinsukeya | 甚助屋 | | |
 | mushoku santaro | 无色三太郎 | | |
+| team nekojishi | Team Nekojishi | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
