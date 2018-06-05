@@ -443,6 +443,7 @@
 | honolulu | 火奴鲁鲁 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
 | z46 | Z46 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z46) |
 | z23 | Z23 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z23) |
+| tirpitz | 提尔比茨 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:提尔比茨) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
@@ -2257,6 +2258,8 @@
 | jaune clafouti | 乔奴·克拉芙缇 | | |
 | adelaide grand marnier | 阿德莱德·格兰玛尼亚 | | |
 | sharu | 夏露 | | |
+| kanata | 彼方 | | |
+| eika | 艾卡 | | |
 | | ▼ バーチャルYouTuber | | |
 | kizuna ai | 绊爱 | 人工智障 | |
 | kaguya luna | 辉夜月 |  | |

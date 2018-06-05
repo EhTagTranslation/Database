@@ -1339,8 +1339,21 @@
 | mushoku santaro | 无色三太郎 | | |
 | team nekojishi | Team Nekojishi | | |
 | angelbox | ANGELBOX | | |
+| mokusei zaijuu | 木星在住 | | |
+| nekonomizoshiru | 猫のみぞ汁 | | |
+| da hootch | DA HOOTCH | | |
+| hooliganism | 集团暴力 | | |
+| eroquis | EROQUIS! | | |
+| mamamaster | マママスター | | |
+| date in vitro | Date in vitro | | |
+| yamanotesen | 山手线 | | |
+| lovewn outpost | Lovewn Outpost | | |
+| kitsune no shippo momitai | 狐の尻尾揉みたい | | |
+| othukimi | オツキミ | | |
+| mesu gorilla. | メスゴリラ。 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
 | praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
 | sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |

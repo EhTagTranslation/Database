@@ -41,6 +41,7 @@
 | toradora | 龙与虎 | ![图](http://exhentai.org/t/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg)![图](http://ul.ehgt.org/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg)![图](http://ul.ehgt.org/49/e8/49e8946e3c5bc06c87dca62ad9806525bd8a6e02-345835-1121-1600-jpg_l.jpg) | |
 | lotte no omocha | 露蒂的玩具 | ![露蒂的玩具](https://www.kadokawa.com.tw/Upload/product_201210291805161.jpg) | |
 | sword art online | 刀剑神域 | ![劳模](http://exhentai.org/t/47/c8/47c84877aab92bb5458b970b1549fef79bbfbb36-904651-1097-1600-jpg_250.jpg)![劳模](http://exhentai.org/t/82/51/8251e69ed64cf8569d6f68235681d0782883408f-1323325-2128-3021-jpg_250.jpg) | |
+| sword art online alternative gun gale online | 刀剑神域外传Gun Gale Online | 《刀剑神域外传Gun Gale Online》（日语：ソードアート・オンライン オルタナティブ ガンゲイル・オンライン，英语：Sword Art Online Alternative Gun Gale Online）是时雨泽惠一所撰的《刀剑神域》系列外传小说，黑星红白负责绘画插画，川原砾监修。2014年底起电击文库开始出版，中文正体版由台湾角川发行。以川原砾创作《刀剑神域》小说中的“幽灵子弹”篇中的线上游戏Gun Gale Online（GGO）作为基础。 | [维基百科](https://zh.wikipedia.org/zh-cn/刀劍神域外傳Gun_Gale_Online) (*) |
 | to love-ru | 出包王女 | To LOVEる -とらぶる-<br>![出包王女](http://exhentai.org/t/29/81/2981cebb2fb76ca4203fbeb11e953bd48354134e-3337994-2151-3099-jpg_l.jpg)![图](http://ul.ehgt.org/4b/db/4bdb998c60aca38332bdbb28360d72d631d36c37-343520-1134-1600-jpg_l.jpg)![图](http://exhentai.org/t/6c/83/6c83940f7cb6bc7838aaa1b88a71a899c3682463-1602431-1130-1600-jpg_l.jpg)![图](http://exhentai.org/t/ce/1e/ce1ecd136d0eb869f3d01582f2cdfd7b15802779-298206-1132-1600-jpg_l.jpg) | |
 | ro-kyu-bu | 萝球社🏀 | ![萝球社](https://img.acg.moe/common/c/c1/Roukyubu.jpg) | |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯🔎 | ![图](http://ul.ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) | |
@@ -1320,6 +1321,12 @@
 | nekojishi | 家有大猫 |  |  |
 | tomo-chan wa onnanoko | 小智是女孩子 | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/小智是女孩子) (*) |
 | strawberry panic | 惊爆草莓 | 《惊爆草莓》是日本电击G's杂志（MediaWorks）于2003年11月号开始的读者参与计划。动画版于2006年4月开始在日本地区播放（全26集）。 | [维基百科](https://zh.wikipedia.org/zh-cn/草莓危機) (*) |
+| isekai izakaya nobu | 异世界居酒屋「阿信」 | 《异世界居酒屋「阿信」》（日语：異世界居酒屋「のぶ」）是由蝉川夏哉创作、転插画的一部轻小说，并有漫画、动画等衍生作品。  | [萌娘百科](https://zh.moegirl.org/异世界居酒屋阿信) (**) |
+| alias carnival | ALIA's CARNIVAL! | 《ALIA's CARNIVAL!》是日本NanaWind在2014年3月28日发售的恋爱冒险类型成人游戏。2015年5月29日发售续作《ALIA's CARNIVAL! Flowering Sky》。2015年10月29日由dramatic create发售PlayStation Vita版《ALIA's CARNIVAL! サクラメント》。2016年5月27日发售合集《ALIA's CARNIVAL! Wパッケージ》。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALIA%27s_CARNIVAL!) (*) |
+| tesagure bukatsu-mono | 摸索吧！部活剧 | 摸索吧！部活剧（てさぐれ!部活もの，てさぐれ ぶかつもの）是日本原创动画作品。2013年10月至12月在日本电视台播放第一季，2014年1月播出第二季《摸索吧！部活剧 Encore》（てさぐれ!部活もの あんこーる）。 | [维基百科](https://zh.wikipedia.org/zh-cn/摸索吧%EF%BC%81部活剧) (*) |
+| dna2 | DNA² | 《DNA²》是日本漫画家桂正和创作的科幻漫画以及改编的动画作品，1993年至1994年连载于《周刊少年Jump》，单行本全5卷。 | [维基百科](https://zh.wikipedia.org/zh-cn/DNA²) (*) |
+| guardians of the galaxy |银河护卫队  | 银河护卫队（英语：Guardians of the Galaxy）出现在由漫威漫画从2008年开始出版的虚构外太空的超级英雄团队。由Dan Abnett及Andy Lanning组成制作团队，从各种作家和艺术家来创造现有和以前不相关的人物。初始团队有星爵、火箭浣熊、类星体 (漫威)、亚当术士、卡魔拉、“毁灭者”德拉克斯、格鲁特。 | [维基百科](https://zh.wikipedia.org/zh-cn/星際異攻隊_%282008年%29) (*) |
+| legendz | 龙王传说 | 《龙王传说》（日语：レジェンズ 甦る竜王伝説） 是讲述一种名为传说兽王的怪物和四个小朋友的故事。由大地丙太郎监制的动画。由Studio Gallop制作及发行，于2004年发行，共50集。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍王傳說) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
