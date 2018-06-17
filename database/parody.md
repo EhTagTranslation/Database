@@ -84,8 +84,8 @@
 | gundam 0083 | 机动战士高达0083 星尘回忆录 | | |
 | gundam unicorn | 机动战士高达UC | | |
 | gundam f91 | 机动战士高达F91 | | |
-| gundam seed | 机动战士高达SEED | | |
-| gundam seed destiny | 机动战士高达SEED DESTINY | ![图](http://exhentai.org/t/c0/02/c00253ab850f93fb1775103b6ca6dd33e574a24b-1058007-1415-2000-jpg_250.jpg) | |
+| gundam seed | 机动战士高达SEED | ![图](https://img.moegirl.org/common/thumb/c/cd/Ac4bd11373f082022999d8944bfbfbedab641b15.jpg/375px-Ac4bd11373f082022999d8944bfbfbedab641b15.jpg)| [萌娘百科](https://zh.moegirl.org/zh-hans/%E6%9C%BA%E5%8A%A8%E6%88%98%E5%A3%AB%E9%AB%98%E8%BE%BESEED)|
+| gundam seed destiny | 机动战士高达SEED DESTINY | ![图](https://upload.wikimedia.org/wikipedia/zh/thumb/4/4f/SEED_D_logo.jpg/360px-SEED_D_logo.jpg) |[维基百科](https://www.wikiwand.com/zh-cn/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%ABGUNDAM_SEED_DESTINY) |
 | gundam zz | 机动战士高达ZZ | ![图](http://ul.ehgt.org/28/b4/28b43dfc888770661a8e221124f932f05160c996-1460156-1606-2269-jpg_l.jpg) | |
 | mobile suit gundam | 机动战士高达 | | |
 | mobile suit gundam lost war chronicles | 机动战士高达战记 Lost War Chronicles | | |
