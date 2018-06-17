@@ -18,7 +18,8 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
-| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) 动画《机动战士高达SEED》系列及其衍生作品的登场角色 |
+| cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg)  [动画《机动战士高达SEED》系列及其衍生作品的登场角色](https://www.wikiwand.com/zh/%E5%8D%A1%E5%98%89%E8%8E%89%C2%B7%E5%B0%A4%E6%8B%89%C2%B7%E9%98%BF%E6%96%AF%E5%93%88)| |
+| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) [动画《机动战士高达SEED》系列及其衍生作品的登场角色](https://zh.moegirl.org/%E6%8B%89%E5%85%8B%E4%B8%9D%C2%B7%E5%85%8B%E8%8E%B1%E8%8C%B5) | |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 | |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 | |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) | |
