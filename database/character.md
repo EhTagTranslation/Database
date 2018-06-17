@@ -18,7 +18,7 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
-| Lacus Clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) 动画《机动战士高达SEED》系列及其衍生作品的登场角色 |
+| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) 动画《机动战士高达SEED》系列及其衍生作品的登场角色 |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 | |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 | |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) | |
