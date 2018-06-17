@@ -17,6 +17,7 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
+| angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) | |
 | lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/%E9%B2%81%E8%B7%AF%E4%BF%AE%C2%B7vi%C2%B7%E5%B8%83%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A) |
 | c.c. | C.C. | ![](http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg) | [萌娘百科](https://zh.moegirl.org/C.C.) |
 | charlotte dunois | 夏洛特·德诺阿 |||
