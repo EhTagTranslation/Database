@@ -18,6 +18,7 @@
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
 | charlotte dunois | 夏洛特·德诺阿 |||
+| nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) | |
 | | ▼ 机动战士高达SEED&机动战士高达SEED Destiny | | |
 | kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/%E5%9F%BA%E6%8B%89%C2%B7%E5%A4%A7%E5%92%8C) |
 | miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) | |
