@@ -17,6 +17,8 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
+| lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/%E9%B2%81%E8%B7%AF%E4%BF%AE%C2%B7vi%C2%B7%E5%B8%83%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A) |
+| c.c. | C.C. | ![](http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg) | [萌娘百科](https://zh.moegirl.org/C.C.) |
 | charlotte dunois | 夏洛特·德诺阿 |||
 | nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) | |
 | | ▼ 机动战士高达SEED&机动战士高达SEED Destiny | | |
