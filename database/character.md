@@ -19,6 +19,8 @@
 | | ▼ 重复项合并 | | |
 | charlotte dunois | 夏洛特·德诺阿 |||
 | | ▼ 机动战士高达SEED&机动战士高达SEED Destiny | | |
+| kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/%E5%9F%BA%E6%8B%89%C2%B7%E5%A4%A7%E5%92%8C) |
+| miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) | |
 | natarle badgiruel | 娜塔尔·巴基露露 | ![](http://a.hiphotos.baidu.com/baike/s%3D220/sign=3dd6331bb2fb43161e1f7d7810a64642/faf2b2119313b07eca3b03d80cd7912396dd8c5f.jpg) | |
 | murrue ramius | 玛琉·拉米亚斯 | ![](https://img.moegirl.org/common/thumb/b/b9/Image8497932_1.jpg/375px-Image8497932_1.jpg) | [萌娘百科](https://zh.moegirl.org/%E7%8E%9B%E7%90%89%C2%B7%E6%8B%89%E7%B1%B3%E4%BA%9A%E6%96%AF)|
 | stella loussier | 史黛拉·露西耶 | ![](http://img1.imgtn.bdimg.com/it/u=2922563221,4044420878&fm=214&gp=0.jpg) | |
