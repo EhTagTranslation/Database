@@ -17,6 +17,8 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
+| stella loussier | 史黛拉·露西耶 | ![](http://img1.imgtn.bdimg.com/it/u=2922563221,4044420878&fm=214&gp=0.jpg) | |
+| meer campbell | 米娅·坎贝尔 | ![](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=69d153b45a0fd9f9a017526f1d16b317/d31b0ef41bd5ad6e5fed18228acb39dbb7fd3ce5.jpg) | |
 | meyrin hawke | 美玲·霍克 | ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fa3b6e1f6509c93d07f209f1a7069fe1/0b46f21fbe096b63c5087a410e338744ebf8ac89.jpg) | |
 | lunamaria hawke | 露娜玛丽亚·霍克 |![头像](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4a36acaf2edda3cc115d864f01e93901213f9227.jpg) | |
 | flay allster | 芙蕾·阿尔斯塔 | ![头像](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/p3_pstatp_com/429d6c81ec91f0990f74be6fefc0499c.jpg) | |
