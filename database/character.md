@@ -17,11 +17,11 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
-| meyrin hawke | 美玲·霍克 | ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fa3b6e1f6509c93d07f209f1a7069fe1/0b46f21fbe096b63c5087a410e338744ebf8ac89.jpg) [美玲·霍克](https://baike.baidu.com/item/%E7%BE%8E%E7%8E%B2%C2%B7%E9%9C%8D%E5%85%8B/3797649?fr=aladdin)《高达SEED DESTINY》札多军新型战舰——智慧女神号的乘员之一，负责舰内的通信管制，是一个温柔可爱的女孩子，是露娜玛利亚的妹妹。| |
-| lunamaria hawke | 露娜玛丽亚·霍克 |![头像](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4a36acaf2edda3cc115d864f01e93901213f9227.jpg) [露娜玛丽亚·霍克](https://baike.baidu.com/item/%E9%9C%B2%E5%A8%9C%E7%8E%9B%E4%B8%BD%E4%BA%9A%C2%B7%E9%9C%8D%E5%85%8B/6282220?fr=aladdin)，调整者，所属于脉冲高达的母舰——密涅瓦号，与真飞鸟一样都是扎夫特的精英机师，在高达强夺事件后作为密涅瓦号的配属机师转战四方。| |
-| flay allster | 芙蕾·阿尔斯塔 | ![头像](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/p3_pstatp_com/429d6c81ec91f0990f74be6fefc0499c.jpg) [动画《机动战士高达SEED》系列及其衍生作品的登场角色](https://www.wikiwand.com/zh/%E8%8A%99%E8%95%BE%C2%B7%E9%98%BF%E6%96%AF%E9%81%94) | |
-| cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg)  [动画《机动战士高达SEED》系列及其衍生作品的登场角色](https://www.wikiwand.com/zh/%E5%8D%A1%E5%98%89%E8%8E%89%C2%B7%E5%B0%A4%E6%8B%89%C2%B7%E9%98%BF%E6%96%AF%E5%93%88)| |
-| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) [动画《机动战士高达SEED》系列及其衍生作品的登场角色](https://zh.moegirl.org/%E6%8B%89%E5%85%8B%E4%B8%9D%C2%B7%E5%85%8B%E8%8E%B1%E8%8C%B5) | |
+| meyrin hawke | 美玲·霍克 | ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fa3b6e1f6509c93d07f209f1a7069fe1/0b46f21fbe096b63c5087a410e338744ebf8ac89.jpg) | |
+| lunamaria hawke | 露娜玛丽亚·霍克 |![头像](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4a36acaf2edda3cc115d864f01e93901213f9227.jpg) | |
+| flay allster | 芙蕾·阿尔斯塔 | ![头像](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/p3_pstatp_com/429d6c81ec91f0990f74be6fefc0499c.jpg) | |
+| cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg) | |
+| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg)| |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 | |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 | |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) | |
