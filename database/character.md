@@ -1779,16 +1779,16 @@
 | | ▼ 刀剑神域 | | |
 | yuuki konno | 绀野木棉季 | ![优纪](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e554edab858ba61edfeecf29790ff037/b3fb43166d224f4a74c598720ef790529822d177.jpg) | |
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  | |
-| kazuto kirigaya | 桐谷和人 | | |
-| suguha kirigaya | 桐谷直叶 | | |
-| lyfa | 莉法 | | |
-| shino asada | 朝田诗乃 | | |
-| keiko ayano | 绫野珪子 | | |
-| rika shinozaki | 筱崎里香 | | |
+| kazuto kirigaya | 桐谷和人 | ![](http://img3.imgtn.bdimg.com/it/u=3380180753,2830563404&fm=27&gp=0.jpg) | |
+| suguha kirigaya | 桐谷直叶 | ![](http://hbimg.b0.upaiyun.com/9d8df96f607ae19d105a840e3dd850dabb94ad155dc1b-UJCpdy_fw236) | |
+| lyfa | 莉法 | ![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4249054358,121793370&fm=27&gp=0.jpg) | |
+| shino asada | 朝田诗乃 | ![](https://img.moegirl.org/common/thumb/a/aa/30761865.png/250px-30761865.png) | |
+| keiko ayano | 绫野珪子 | ![](https://img.tulaoshi.com/image/20150521/e75ab42f0e79a2ee9ca4b4bcc8dc343a.jpg) | |
+| rika shinozaki | 筱崎里香 | ![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D400/sign=a39fd5733e9b033b2c88fdda25cf3620/00e93901213fb80e0c59a9a03cd12f2eb9389439.jpg) | |
 |  | 结衣（重复项） | | |
-| nagata shinichi | 长田伸一 | | |
-| alicia rue | 亚丽莎·露 | | |
-| sakuya | 咲夜 | | |
+| nagata shinichi | 长田伸一 | ![](http://image.game.uc.cn/2016/3/21/12766893.png) | |
+| alicia rue | 亚丽莎·露 | ![](http://image.game.uc.cn/2016/3/22/12787821.jpg) | |
+| sakuya | 咲夜 | ![](http://www.people.com.cn/mediafile/pic/20150128/29/14596061717621453353.jpg) | |
 | | ▼ 加速世界 | | |
 | kuroyukihime | 黑雪姬 | | |
 | haruyuki arita | 有田春雪 | | |
