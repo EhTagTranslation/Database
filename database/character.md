@@ -1777,6 +1777,7 @@
 | tiamat | 提亚马特 | | |
 | bb | BB | | |
 | | ▼ 刀剑神域 | | |
+| yuuki konno | 绀野木棉季 | ![优纪](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e554edab858ba61edfeecf29790ff037/b3fb43166d224f4a74c598720ef790529822d177.jpg) | |
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](http://exhentai.org/t/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg)![图](http://ul.ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)  | |
 | kazuto kirigaya | 桐谷和人 | | |
 | suguha kirigaya | 桐谷直叶 | | |
