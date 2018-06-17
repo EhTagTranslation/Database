@@ -17,6 +17,7 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
+| | ▼ 机动战士高达SEED&机动战士高达SEED Destiny | | |
 | natarle badgiruel | 娜塔尔·巴基露露 | ![](http://a.hiphotos.baidu.com/baike/s%3D220/sign=3dd6331bb2fb43161e1f7d7810a64642/faf2b2119313b07eca3b03d80cd7912396dd8c5f.jpg) | |
 | murrue ramius | 玛琉·拉米亚斯 | ![](https://img.moegirl.org/common/thumb/b/b9/Image8497932_1.jpg/375px-Image8497932_1.jpg) | [萌娘百科](https://zh.moegirl.org/%E7%8E%9B%E7%90%89%C2%B7%E6%8B%89%E7%B1%B3%E4%BA%9A%E6%96%AF)|
 | stella loussier | 史黛拉·露西耶 | ![](http://img1.imgtn.bdimg.com/it/u=2922563221,4044420878&fm=214&gp=0.jpg) | |
