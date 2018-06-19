@@ -18,7 +18,6 @@
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
-| cross ange | 天使与龙的轮舞 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b0/%E3%80%8ACROSSANGE_%E5%A4%A9%E4%BD%BF%E8%88%87%E9%BE%8D%E7%9A%84%E8%BC%AA%E8%88%9E%E3%80%8B%E6%B5%B7%E5%A0%B1.jpg) | |
 | touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project⛩ | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) | |
 | moetan | 萌单✏️ | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | |
 |  | ▼Key社作品 | | |
@@ -1328,6 +1327,8 @@
 | dna2 | DNA² | 《DNA²》是日本漫画家桂正和创作的科幻漫画以及改编的动画作品，1993年至1994年连载于《周刊少年Jump》，单行本全5卷。 | [维基百科](https://zh.wikipedia.org/zh-cn/DNA²) (*) |
 | guardians of the galaxy |银河护卫队  | 银河护卫队（英语：Guardians of the Galaxy）出现在由漫威漫画从2008年开始出版的虚构外太空的超级英雄团队。由Dan Abnett及Andy Lanning组成制作团队，从各种作家和艺术家来创造现有和以前不相关的人物。初始团队有星爵、火箭浣熊、类星体 (漫威)、亚当术士、卡魔拉、“毁灭者”德拉克斯、格鲁特。 | [维基百科](https://zh.wikipedia.org/zh-cn/星際異攻隊_%282008年%29) (*) |
 | legendz | 龙王传说 | 《龙王传说》（日语：レジェンズ 甦る竜王伝説） 是讲述一种名为传说兽王的怪物和四个小朋友的故事。由大地丙太郎监制的动画。由Studio Gallop制作及发行，于2004年发行，共50集。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍王傳說) (*) |
+| cross ange | 天使与龙的轮舞 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b0/%E3%80%8ACROSSANGE_%E5%A4%A9%E4%BD%BF%E8%88%87%E9%BE%8D%E7%9A%84%E8%BC%AA%E8%88%9E%E3%80%8B%E6%B5%B7%E5%A0%B1.jpg) | |
+
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

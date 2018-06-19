@@ -17,23 +17,6 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | | ▼ 重复项合并 | | |
-| angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) | |
-| lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/%E9%B2%81%E8%B7%AF%E4%BF%AE%C2%B7vi%C2%B7%E5%B8%83%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A) |
-| c.c. | C.C. | ![](http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg) | [萌娘百科](https://zh.moegirl.org/C.C.) |
-| charlotte dunois | 夏洛特·德诺阿 |||
-| nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) | |
-| | ▼ 机动战士高达SEED&机动战士高达SEED Destiny | | |
-| kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/%E5%9F%BA%E6%8B%89%C2%B7%E5%A4%A7%E5%92%8C) |
-| miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) | |
-| natarle badgiruel | 娜塔尔·巴基露露 | ![](http://a.hiphotos.baidu.com/baike/s%3D220/sign=3dd6331bb2fb43161e1f7d7810a64642/faf2b2119313b07eca3b03d80cd7912396dd8c5f.jpg) | |
-| murrue ramius | 玛琉·拉米亚斯 | ![](https://img.moegirl.org/common/thumb/b/b9/Image8497932_1.jpg/375px-Image8497932_1.jpg) | [萌娘百科](https://zh.moegirl.org/%E7%8E%9B%E7%90%89%C2%B7%E6%8B%89%E7%B1%B3%E4%BA%9A%E6%96%AF)|
-| stella loussier | 史黛拉·露西耶 | ![](http://img1.imgtn.bdimg.com/it/u=2922563221,4044420878&fm=214&gp=0.jpg) | |
-| meer campbell | 米娅·坎贝尔 | ![](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=69d153b45a0fd9f9a017526f1d16b317/d31b0ef41bd5ad6e5fed18228acb39dbb7fd3ce5.jpg) | |
-| meyrin hawke | 美玲·霍克 | ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fa3b6e1f6509c93d07f209f1a7069fe1/0b46f21fbe096b63c5087a410e338744ebf8ac89.jpg) | |
-| lunamaria hawke | 露娜玛丽亚·霍克 |![头像](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4a36acaf2edda3cc115d864f01e93901213f9227.jpg) | |
-| flay allster | 芙蕾·阿尔斯塔 | ![头像](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/p3_pstatp_com/429d6c81ec91f0990f74be6fefc0499c.jpg) | |
-| cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg) | |
-| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg)| |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 | |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 | |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) | |
@@ -2281,6 +2264,18 @@
 | kizuna ai | 绊爱 | 人工智障 | |
 | kaguya luna | 辉夜月 |  | |
 | mirai akari | Mirai Akari |  | |
+| | ▼ 机动战士高达SEED&机动战士高达SEED Destiny | | |
+| kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/%E5%9F%BA%E6%8B%89%C2%B7%E5%A4%A7%E5%92%8C) |
+| miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) | |
+| natarle badgiruel | 娜塔尔·巴基露露 | ![](http://a.hiphotos.baidu.com/baike/s%3D220/sign=3dd6331bb2fb43161e1f7d7810a64642/faf2b2119313b07eca3b03d80cd7912396dd8c5f.jpg) | |
+| murrue ramius | 玛琉·拉米亚斯 | ![](https://img.moegirl.org/common/thumb/b/b9/Image8497932_1.jpg/375px-Image8497932_1.jpg) | [萌娘百科](https://zh.moegirl.org/%E7%8E%9B%E7%90%89%C2%B7%E6%8B%89%E7%B1%B3%E4%BA%9A%E6%96%AF)|
+| stella loussier | 史黛拉·露西耶 | ![](http://img1.imgtn.bdimg.com/it/u=2922563221,4044420878&fm=214&gp=0.jpg) | |
+| meer campbell | 米娅·坎贝尔 | ![](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=69d153b45a0fd9f9a017526f1d16b317/d31b0ef41bd5ad6e5fed18228acb39dbb7fd3ce5.jpg) | |
+| meyrin hawke | 美玲·霍克 | ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fa3b6e1f6509c93d07f209f1a7069fe1/0b46f21fbe096b63c5087a410e338744ebf8ac89.jpg) | |
+| lunamaria hawke | 露娜玛丽亚·霍克 |![头像](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4a36acaf2edda3cc115d864f01e93901213f9227.jpg) | |
+| flay allster | 芙蕾·阿尔斯塔 | ![头像](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/p3_pstatp_com/429d6c81ec91f0990f74be6fefc0499c.jpg) | |
+| cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg) | |
+| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg)| |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2490,6 +2485,11 @@
 | george w. bush | 乔治·沃克·布什 | 小布什 | |
 | osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن‎‎，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） | |
 | lusamine | 露莎米奈 | | |
+| angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) | |
+| lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/%E9%B2%81%E8%B7%AF%E4%BF%AE%C2%B7vi%C2%B7%E5%B8%83%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A) |
+| c.c. | C.C. | ![](http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg) | [萌娘百科](https://zh.moegirl.org/C.C.) |
+| charlotte dunois | 夏洛特·德诺阿 |||
+| nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) | |
 
 <!--TEMPLATE: 
 |  |  | | |
