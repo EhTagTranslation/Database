@@ -1351,6 +1351,20 @@
 | kitsune no shippo momitai | 狐の尻尾揉みたい | | |
 | othukimi | オツキミ | | |
 | mesu gorilla. | メスゴリラ。 | | |
+| samurai ikka | さむらい一家 | | |
+| akutagawa toranosuke | 芥川虎之介 | | |
+| seventh zest | seventh zest | 六ツ野へきさ | |
+| niku drill | 肉ドリル | | |
+| mugu | MUGU | | |
+| kaleido circus | Kaleido Circus | | |
+| marimofu extension | まりもふえくすてんしょん | | |
+| piripun | ぴりぷん | | |
+| g-nose | G-Nose | | |
+| hokyuun | ほきゅーん | | |
+| studio boxer | スタジオぼくさぁ | | |
+| chibikko kingdom | CHIBIKKO KINGDOM | | |
+| granada sky | グラナダの空 | | |
+| baraneko yougashi-ten | 薔薇猫洋菓子店 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |
