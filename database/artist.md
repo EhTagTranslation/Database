@@ -2274,6 +2274,22 @@
 | miwa yoshikazu | 美和美和 | | |
 | wildcat | ワイルドキャット | | |
 | fujita yukihisa | 藤田幸久 | | |
+| l axe | L Axe | | |
+| s.m.o.k.e. | S.M.O.K.E. | | |
+| samurai | さむらい | | |
+| kureyon | くれよん | | |
+| broccoli takeda | ブロッコリーたけだ | | |
+| maatsu | ま～つ | | |
+| toumasu | とーます | | |
+| ishikawa sae | 石川沙绘 | | |
+| nagihashi coko | なぎはしここ | | |
+| u-jin | 游人 | | |
+| piripun | ぴりぷん | | |
+| akabashi | アカバシ | | |
+| mataro | 魔太郎 | | |
+| kekocha | けこちゃ | | |
+| mogiki hayami | 十はやみ | | |
+| the amanoja9 | The Amanoja9 | | |
 
 <!--TEMPLATE: 
 |  |  | | |

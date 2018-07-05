@@ -1328,6 +1328,12 @@
 | guardians of the galaxy |银河护卫队  | 银河护卫队（英语：Guardians of the Galaxy）出现在由漫威漫画从2008年开始出版的虚构外太空的超级英雄团队。由Dan Abnett及Andy Lanning组成制作团队，从各种作家和艺术家来创造现有和以前不相关的人物。初始团队有星爵、火箭浣熊、类星体 (漫威)、亚当术士、卡魔拉、“毁灭者”德拉克斯、格鲁特。 | [维基百科](https://zh.wikipedia.org/zh-cn/星際異攻隊_%282008年%29) (*) |
 | legendz | 龙王传说 | 《龙王传说》（日语：レジェンズ 甦る竜王伝説） 是讲述一种名为传说兽王的怪物和四个小朋友的故事。由大地丙太郎监制的动画。由Studio Gallop制作及发行，于2004年发行，共50集。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍王傳說) (*) |
 | cross ange | 天使与龙的轮舞 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b0/%E3%80%8ACROSSANGE_%E5%A4%A9%E4%BD%BF%E8%88%87%E9%BE%8D%E7%9A%84%E8%BC%AA%E8%88%9E%E3%80%8B%E6%B5%B7%E5%A0%B1.jpg) | |
+| dungeon fighter online | 地下城与勇士 | 地下城与勇士，又称Dungeon & Fighter（D&F，韩国服的英文称呼）；Dungeon and Fighter（DNF，中国服的英文称呼），日本称“Arad战记”，美国称Dungeon Fighter Online（DFO），是一款韩国Neople（后被NEXON收购）开发的2D横板ACT类网络游戏。日本在2009年4月放映以该游戏为基础的电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/地下城与勇士) (*) |
+| warhammer | 战锤 | 战锤幻想（Warhammer Fantasy），又称战锤，是一款由英国游戏公司Games Workshop所制作的多个桌上游戏的奇幻世界背景，这些游戏中最出名的是战棋游戏战锤幻想战役和桌上角色扮演游戏的战锤幻想角色扮演游戏，亦有电脑游戏根基于此，例如《战锤Online》。还有一个与其相关的用科学幻想做为背景的游戏，《战锤40000》(简称40K)。 | [维基百科](https://zh.wikipedia.org/zh-cn/戰鎚_%28設定%29) (*) |
+| rakudai kishi no cavalry | 落第骑士英雄谭 | 《落第骑士英雄谭》（日语：落第騎士の英雄譚）是海空陆著作，WON插画的日本轻小说作品，由GA文库于2013年7月开始出版发行。繁体中文版由台湾尖端出版代理发行。2015年3月宣布改编电视动画的消息。 | [维基百科](https://zh.wikipedia.org/zh-cn/落第騎士英雄譚) (*) |
+| xxxholic | ×××HOLiC | 《×××HOLiC》（日语：ホリック）CLAMP所创作的少年漫画作品。与同期连载的《TSUBASA翼》是相同的平行世界观，剧情相互交错。2005年剧场版上映，于2006年、2008年二度动画化，港台电视台皆取得动画版权。 | [维基百科](https://zh.wikipedia.org/zh-cn/×××HOLiC) (*) |
+| beatless | BEATLESS | 《没有心跳的少女 BEATLESS》（日语：ビートレス）是由日本小说家长谷敏司著作，redjuice担任原作插画，于2011年2月开始在Newtype连载至2012年8月，2012年10月由角川书店出版轻小说，于2014年6月25日公布发行音乐专辑，电视动画于2018年1月12日起TBS、每日放送首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/沒有心跳的少女_BEATLESS) (*) |
+| ao no exorcist | 青之驱魔师 | 《青之驱魔师》（日语：青の祓魔師，英语：BLUE EXORCIST）是加藤和惠所创作的少年漫画。作品最初以单篇的形式在《Jump Square》2008年9月号刊登，当时标题为《深山莺邸事件》。直至2009年4月在集英社旗下的月刊漫画杂志《Jump Square》开始进行连载至今。个别章节已收录于21册的单行本中。截至2016年7月为止，单行本累积总销量已突破1500万册。2010年宣布动画化，于翌年4月17日在日本国内首播。动画第一期在2011年10月2日播放完毕后，同日宣布制作剧场版的消息，并于2012年12月28日在日本公映。动画第二期《青之驱魔师 京都不净王篇》于2017年1月开始播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/青之驅魔師) (*) |
 
 
 <!--TEMPLATE: 
