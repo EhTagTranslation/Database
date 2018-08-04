@@ -2290,6 +2290,8 @@
 | kekocha | けこちゃ | | |
 | mogiki hayami | 十はやみ | | |
 | the amanoja9 | The Amanoja9 | | |
+| fumitsuki sou | 二三月そう | | |
+
 
 <!--TEMPLATE: 
 |  |  | | |

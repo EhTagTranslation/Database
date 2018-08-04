@@ -18,6 +18,7 @@
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
+| original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于同人志(doujinshi)分类。 |  |
 | touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project⛩ | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) | |
 | moetan | 萌单✏️ | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | |
 |  | ▼Key社作品 | | |
@@ -154,6 +155,7 @@
 | go princess precure | Go! Princess 光之美少女 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) | |
 | maho girls precure | 魔法使 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](http://exhentai.org/t/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg)![图](http://ul.ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) | |
 | kirakira precure a la mode | KiraKira☆光之美少女A La Mode | | |
+| hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと!プリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。  | [维基百科](https://zh.wikipedia.org/zh-cn/HUG%EF%BC%81光之美少女) (*) |
 | | ▲ 光美大军 | | |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](http://exhentai.org/t/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg)![图](http://exhentai.org/t/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg) | |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](http://ul.ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](http://ul.ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) | |
@@ -444,7 +446,6 @@
 | gekkan shoujo nozaki-kun | 月刊少女野崎君 | | |
 | girl friend beta | 临时女友 | | |
 | bakuman | 食梦者 | | |
-| gate - jietai kano chi nite kaku tatakaeri | GATE奇幻自卫队 | | |
 | nisekoi | 伪恋 | | |
 | blade and soul | 剑灵 | | |
 | inu x boku ss | 妖狐×仆SS | | |
@@ -1334,6 +1335,10 @@
 | xxxholic | ×××HOLiC | 《×××HOLiC》（日语：ホリック）CLAMP所创作的少年漫画作品。与同期连载的《TSUBASA翼》是相同的平行世界观，剧情相互交错。2005年剧场版上映，于2006年、2008年二度动画化，港台电视台皆取得动画版权。 | [维基百科](https://zh.wikipedia.org/zh-cn/×××HOLiC) (*) |
 | beatless | BEATLESS | 《没有心跳的少女 BEATLESS》（日语：ビートレス）是由日本小说家长谷敏司著作，redjuice担任原作插画，于2011年2月开始在Newtype连载至2012年8月，2012年10月由角川书店出版轻小说，于2014年6月25日公布发行音乐专辑，电视动画于2018年1月12日起TBS、每日放送首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/沒有心跳的少女_BEATLESS) (*) |
 | ao no exorcist | 青之驱魔师 | 《青之驱魔师》（日语：青の祓魔師，英语：BLUE EXORCIST）是加藤和惠所创作的少年漫画。作品最初以单篇的形式在《Jump Square》2008年9月号刊登，当时标题为《深山莺邸事件》。直至2009年4月在集英社旗下的月刊漫画杂志《Jump Square》开始进行连载至今。个别章节已收录于21册的单行本中。截至2016年7月为止，单行本累积总销量已突破1500万册。2010年宣布动画化，于翌年4月17日在日本国内首播。动画第一期在2011年10月2日播放完毕后，同日宣布制作剧场版的消息，并于2012年12月28日在日本公映。动画第二期《青之驱魔师 京都不净王篇》于2017年1月开始播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/青之驅魔師) (*) |
+| gate - jieitai kano chi nite kaku tatakaeri | GATE奇幻自卫队 | 《GATE 奇幻自卫队》（日语：ゲート 自衛隊 彼の地にて、斯く戦えり、中文直译为：门 自卫队，在彼方的土地，奋勇战斗）是由日本小说家柳内巧编写的奇幻小说。  | [维基百科](https://zh.wikipedia.org/zh-cn/GATE_奇幻自衛隊) (*) |
+| playerunknowns battlegrounds | 绝地求生 | 《绝地求生》（英语：PlayerUnknown's Battlegrounds，又译作“绝地求生：大逃杀”，直译为“无名玩家的战场”）是一款由韩国电子游戏开发商蓝洞（英语：Bluehole Inc.）旗下的PUBG公司所开发及发行的多人制大逃杀游戏。游戏首发于Microsoft Windows平台，自2017年3月23日开始经Steam发行体验版。Xbox One版本在同年12月由微软工作室负责发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/絕地求生) (*) |
+| masamune-kun no revenge | 政宗君的复仇 | 《政宗君的复仇》（日语：政宗くんのリベンジ）是一部由竹冈叶月担任原作，Tiv担任作画的漫画作品，于2012年12月开始在一迅社的《月刊Comic REX》上连载。已出版9册单行本。 2016年6月宣布动画化，2017年1月播放。  | [维基百科](https://zh.wikipedia.org/zh-cn/政宗君的復仇) (*) |
+| hataraku saibou | 工作细胞 | 《工作细胞》（日语：はたらく細胞）是清水茜所著的日本漫画作品，主要讲述经拟人化后人体内各种细胞于人体内的日常工作，例如负责物流作业（运送氧气及二氧化碳）的红血球和日常警备工作（清除恶菌）的白血球。  | [维基百科](https://zh.wikipedia.org/zh-cn/工作細胞) (*) |
 
 
 <!--TEMPLATE: 
