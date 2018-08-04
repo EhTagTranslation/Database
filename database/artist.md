@@ -2291,6 +2291,8 @@
 | mogiki hayami | 十はやみ | | |
 | the amanoja9 | The Amanoja9 | | |
 | fumitsuki sou | 二三月そう | | |
+| fuji hyorone | 藤ひょろね | | |
+| hibimegane | ヒビメガネ | | |
 
 
 <!--TEMPLATE: 

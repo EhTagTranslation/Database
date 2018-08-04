@@ -1368,6 +1368,7 @@
 | puu no puupuupuu | ぷぅのぷぅぷぅぷぅ | | |
 | dokusai switch | 独裁スイッチ | | |
 | junshain inoue | 准社员井上 | | |
+| mad order | MAD ORDER | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |

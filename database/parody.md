@@ -1339,6 +1339,7 @@
 | playerunknowns battlegrounds | 绝地求生 | 《绝地求生》（英语：PlayerUnknown's Battlegrounds，又译作“绝地求生：大逃杀”，直译为“无名玩家的战场”）是一款由韩国电子游戏开发商蓝洞（英语：Bluehole Inc.）旗下的PUBG公司所开发及发行的多人制大逃杀游戏。游戏首发于Microsoft Windows平台，自2017年3月23日开始经Steam发行体验版。Xbox One版本在同年12月由微软工作室负责发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/絕地求生) (*) |
 | masamune-kun no revenge | 政宗君的复仇 | 《政宗君的复仇》（日语：政宗くんのリベンジ）是一部由竹冈叶月担任原作，Tiv担任作画的漫画作品，于2012年12月开始在一迅社的《月刊Comic REX》上连载。已出版9册单行本。 2016年6月宣布动画化，2017年1月播放。  | [维基百科](https://zh.wikipedia.org/zh-cn/政宗君的復仇) (*) |
 | hataraku saibou | 工作细胞 | 《工作细胞》（日语：はたらく細胞）是清水茜所著的日本漫画作品，主要讲述经拟人化后人体内各种细胞于人体内的日常工作，例如负责物流作业（运送氧气及二氧化碳）的红血球和日常警备工作（清除恶菌）的白血球。  | [维基百科](https://zh.wikipedia.org/zh-cn/工作細胞) (*) |
+| seraph of the end | 终结的炽天使 | 《终结的炽天使》（日语：終わりのセラフ）是一部由日本作家镜贵也及漫画家山本大和所合作的奇幻热血作品。自2012年起于《JUMP SQUARE》开始连载；电视动画则于2015年播出。作品分别有小说及漫画。  | [维基百科](https://zh.wikipedia.org/zh-cn/終結的熾天使) (*) |
 
 
 <!--TEMPLATE: 
