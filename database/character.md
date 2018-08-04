@@ -408,6 +408,7 @@
 | i-14 | 伊14 | No.295 | |
 | gangut | 甘古特 | No.311 | |
 | october revolution | 十月革命 | No.312 | |
+| ark royal | 皇家方舟 | No.315 | |
 | shimusyu | 占守 | No.317 | |
 | kunashiri | 国后 | No.318 | |
 | kasuga maru | 春日丸 | No.321 | |
