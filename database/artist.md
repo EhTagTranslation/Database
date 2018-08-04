@@ -2293,7 +2293,20 @@
 | fumitsuki sou | 二三月そう | | |
 | fuji hyorone | 藤ひょろね | | |
 | hibimegane | ヒビメガネ | | |
-
+| dekosuke 18gou | デコ助18号 | | |
+| geso smith | ゲソスミス | | |
+| hidarite tarou | 左手太郎 | | |
+| jagayamatarawo | じゃが山たらヲ | | |
+| kasei | かせい | | |
+| kayanoi ino | 茅乃井いの | | |
+| kiiroi tamago | きいろいたまご | | |
+| kirihara you | 桐原湧 | | |
+| mdakoki | M田K樹 | | |
+| ooyoko yamaame | 大横山饴 | | |
+| ryokuchaism | 緑茶イズム | | |
+| shiden akira | しでん晶 | | |
+| soborogo | ソボロゴ | | |
+| syoukaki | 消火器 | | |
 
 <!--TEMPLATE: 
 |  |  | | |
