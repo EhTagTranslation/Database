@@ -2307,6 +2307,12 @@
 | shiden akira | しでん晶 | | |
 | soborogo | ソボロゴ | | |
 | syoukaki | 消火器 | | |
+| 1 equals 2 | 1=2 | | |
+| zouo-san | 憎恶产 | | |
+| machida hiraku | 町田ひらく | | |
+| mamezou | まめぞう | | |
+| yamaya oowemon | 山家大右卫门 | | |
+| yuizaki kazuya | ユイザキカズヤ | | |
 
 <!--TEMPLATE: 
 |  |  | | |

@@ -1688,6 +1688,7 @@
 | mysterious heroine x alter | 谜之女主角X Alter | | |
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | | |
 | waver velvet | 韦伯·维尔维特 | | |
+| paul bunyan | 保罗·班扬 | | |
 | kiara sessyoin | 杀生院祈荒 | | |
 | astolfo | 阿斯托尔福 | | |
 | protagonist | 主人公 | | |
