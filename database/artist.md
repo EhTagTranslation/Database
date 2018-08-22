@@ -2313,6 +2313,9 @@
 | mamezou | まめぞう | | |
 | yamaya oowemon | 山家大右卫门 | | |
 | yuizaki kazuya | ユイザキカズヤ | | |
+| shichimenchou | しちめんちょう | | |
+| bigshine | ビッグシャイン | | |
+| apoidea | Apoidea | | |
 
 <!--TEMPLATE: 
 |  |  | | |

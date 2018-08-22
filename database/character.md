@@ -1120,14 +1120,14 @@
 | takeru aizawa | 相泽武 | | |
 | kiyomi sakura | 纱仓清美 | | |
 | nagisa saitou | 齐藤渚 | | |
-| | ▼ VOCALOID 角色 | | |
+| | ▼ VOCALOID & VOICEROID 角色 | | |
 | miku hatsune | 初音未来 | | |
 | luka megurine | 巡音流歌 | | |
 | len kagamine | 镜音连 | | |
 | rin kagamine | 镜音铃 | | |
 | haku yowane | 弱音白 | | |
 | gumi | GUMI | | |
-| | ▼ VOICEROID 角色 | | |
+| akari kizuna | 绁星灯 | | |
 | yukari yuzuki | 结月缘 | | |
 | maki tsurumaki | 弦卷真纪 | | |
 | akane kotonoha | 琴叶茜 | | |
@@ -1709,6 +1709,7 @@
 | cornelius alba | 科尼利厄斯·阿鲁巴 | | |
 | arcueid brunestud | 爱尔奎特·布伦史塔德 | | |
 | ciel | 希耶尔 | | |
+| circe | 喀耳刻 | | |
 | satsuki yumizuka | 弓冢五月 | | |
 | shiki tohno | 远野志贵 | | |
 | akiha tohno | 远野秋叶 | | |
@@ -2291,6 +2292,15 @@
 | mai kawakami | 川神舞 | | |
 | reina izumi | 和泉玲奈 | | |
 | koito minase | 水无濑小糸 | | |
+| | ▼ 哆啦A梦 | | |
+| doraemon | 哆啦A梦 | | |
+| nobita nobi | 野比大雄 | | |
+| shizuka minamoto | 源静香 | | |
+| suneo honekawa | 骨川小夫 | | |
+| takeshi gouda | 刚田武（胖虎） | | |
+| tamako nobi | 野比玉子 | | |
+| dorami | 哆啦美 | | |
+| hidetoshi dekisugi | 出木杉英才 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
