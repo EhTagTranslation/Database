@@ -182,6 +182,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性支配(femdom)或调教(bdsm)配对。 | |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 | |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) | |
+| horns | 角 | 人形头部的一个或多个突出的角。不应与宝冠(tiara)或王冠(crown)等头饰混淆。 | |
 | kemonomimi | 兽耳 | 有动物耳朵的角色，有时还有一条尾巴。不应与毛茸茸(furry)混淆。 | |
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 | |
 | prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
@@ -359,6 +360,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | cheerleader | 啦啦队员 | 啦啦队员制服，通常配短裙和配套配件。 | |
 | chinese dress | 唐装 | 包裹身体的单件连衣裙，通常采用简单花卉图案。 | |
 | christmas | 圣诞装🤶 | 圣诞老人相关的服装，突出使用红色织物和白色修边边缘。 | |
+| clothed male nude female | 裸女 | 女性的生殖器完全暴露于非裸体的男性。 | |
 | clown | 小丑🤡 | 白面与皱褶领和衣服。通常强调面部特征，例如大的红色鼻子和嘴唇以及醒目的彩色头发。 | |
 | condom | 避孕套 | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 | |
 | corset | 紧身内衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状。 | |
@@ -554,5 +556,6 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | | == 隐私 == | | |
 | exhibitionism | 露阴癖 | 冒着被陌生人抓住的风险裸体。也可能是公然暴露于陌生人。 | |
 | filming | 摄像 | 对性行为进行摄像。 | |
+| hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 | |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 | |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 | |

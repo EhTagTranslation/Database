@@ -408,6 +408,7 @@
 | i-14 | 伊14 | No.295 | |
 | gangut | 甘古特 | No.311 | |
 | october revolution | 十月革命 | No.312 | |
+| ark royal | 皇家方舟 | No.315 | |
 | shimusyu | 占守 | No.317 | |
 | kunashiri | 国后 | No.318 | |
 | kasuga maru | 春日丸 | No.321 | |
@@ -1119,14 +1120,14 @@
 | takeru aizawa | 相泽武 | | |
 | kiyomi sakura | 纱仓清美 | | |
 | nagisa saitou | 齐藤渚 | | |
-| | ▼ VOCALOID 角色 | | |
+| | ▼ VOCALOID & VOICEROID 角色 | | |
 | miku hatsune | 初音未来 | | |
 | luka megurine | 巡音流歌 | | |
 | len kagamine | 镜音连 | | |
 | rin kagamine | 镜音铃 | | |
 | haku yowane | 弱音白 | | |
 | gumi | GUMI | | |
-| | ▼ VOICEROID 角色 | | |
+| akari kizuna | 绁星灯 | | |
 | yukari yuzuki | 结月缘 | | |
 | maki tsurumaki | 弦卷真纪 | | |
 | akane kotonoha | 琴叶茜 | | |
@@ -1295,6 +1296,7 @@
 | manako | 真奈子 | | |
 | meroune lorelei | 美洛努·罗雷莱 | | |
 | tionishia | 提欧尼西亚 | | |
+| cathyl | 卡特尔 | | |
 | kimihito kurusu | 来留主公人 | | |
 | | ▼ 恋爱与选举与巧克力 | | |
 | yuuki oojima | 大岛裕树 | | |
@@ -1595,6 +1597,7 @@
 | yachiyo nanami | 七海八千代 | | |
 | iroha tamaki | 环彩羽 | | |
 | kyubey | 丘比 | QB | |
+| kyousuke kamijou | 上条恭介 | | |
 | | ▼ 碧蓝幻想 | | |
 | danua | 达奴娅 | | |
 | djeeta | 姬妲 | 玩家角色。在游戏中可任意切换性别。 | |
@@ -1685,6 +1688,7 @@
 | mysterious heroine x alter | 谜之女主角X Alter | | |
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | | |
 | waver velvet | 韦伯·维尔维特 | | |
+| paul bunyan | 保罗·班扬 | | |
 | kiara sessyoin | 杀生院祈荒 | | |
 | astolfo | 阿斯托尔福 | | |
 | protagonist | 主人公 | | |
@@ -1705,6 +1709,7 @@
 | cornelius alba | 科尼利厄斯·阿鲁巴 | | |
 | arcueid brunestud | 爱尔奎特·布伦史塔德 | | |
 | ciel | 希耶尔 | | |
+| circe | 喀耳刻 | | |
 | satsuki yumizuka | 弓冢五月 | | |
 | shiki tohno | 远野志贵 | | |
 | akiha tohno | 远野秋叶 | | |
@@ -2063,6 +2068,11 @@
 | mayoi hachikuji | 八九寺真宵 | | |
 | deishuu kaiki | 贝木泥舟 | | |
 | yotsugi ononoki | 斧乃木余接 | | |
+| hana nono | 野乃花 | | |
+| homare kagayaki | 辉木誉 | | |
+| saaya yakushiji | 药师寺纱绫 | | |
+| ruru amour | 露露·艾莫尔 | | |
+| emiru aisaki | 爱崎惠美瑠 | | |
 | | ▼ 甘城光辉游乐园 | | |
 | seiya kanie | 可儿江西也 | | |
 | isuzu sento | 千斗五十铃 | | |
@@ -2239,6 +2249,7 @@
 | madara uchiha | 宇智波斑 | | |
 | itachi uchiha | 宇智波鼬 | | |
 | boruto uzumaki | 漩涡博人 | | |
+| himawari uzumaki | 漩涡向日葵 | | |
 | | ▼ dog days | | |
 | cinque izumi | 真红·和泉 | | |
 | millhiore firianno biscotti | 米希奥蕾·菲利安诺·比斯科迪 | | |
@@ -2276,6 +2287,20 @@
 | flay allster | 芙蕾·阿尔斯塔 | ![头像](https://tc.sinaimg.cn/maxwidth.800/tc.service.weibo.com/p3_pstatp_com/429d6c81ec91f0990f74be6fefc0499c.jpg) | |
 | cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg) | |
 | lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg)| |
+| | ▼ 无彩限的怪灵世界 | | |
+| haruhiko ichijou | 一条晴彦 | | |
+| mai kawakami | 川神舞 | | |
+| reina izumi | 和泉玲奈 | | |
+| koito minase | 水无濑小糸 | | |
+| | ▼ 哆啦A梦 | | |
+| doraemon | 哆啦A梦 | | |
+| nobita nobi | 野比大雄 | | |
+| shizuka minamoto | 源静香 | | |
+| suneo honekawa | 骨川小夫 | | |
+| takeshi gouda | 刚田武（胖虎） | | |
+| tamako nobi | 野比玉子 | | |
+| dorami | 哆啦美 | | |
+| hidetoshi dekisugi | 出木杉英才 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |
@@ -2413,9 +2438,7 @@
 | sharrkan | 迦尔鲁卡 | | |
 | sinbad | 辛巴德 | | |
 | yamuraiha | 雅姆莱哈 | | |
-| haruhiko ichijou | 一条晴彦 | | |
 | kurumi kumamakura | 熊枕久瑠美 | | |
-| mai kawakami | 川神舞 | | |
 | priscilla barielle | 普莉希拉·跋利耶尔 | | |
 | roomi | 萝米 | | |
 | martial artist | 武斗家 | | |
@@ -2488,8 +2511,9 @@
 | angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) | |
 | lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/%E9%B2%81%E8%B7%AF%E4%BF%AE%C2%B7vi%C2%B7%E5%B8%83%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A) |
 | c.c. | C.C. | ![](http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg) | [萌娘百科](https://zh.moegirl.org/C.C.) |
-| charlotte dunois | 夏洛特·德诺阿 |||
+| charlotte dunois | 夏洛特·德诺阿 | | |
 | nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) | |
+| sadako | 贞子 | | |
 
 <!--TEMPLATE: 
 |  |  | | |
