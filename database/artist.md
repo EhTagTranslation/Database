@@ -1447,6 +1447,7 @@
 | misaki kaho. | ミサキカホ。 | | |
 | ogura shuuichi | 小仓修一 | | |
 | yuuki homura | 结城焰 | | |
+| yamamoto | 山本 | | |
 | yamamoto yammy | 山本やみー | | |
 | murakami maki | 村上真纪 | BL漫画《万有引力》的作者 | |
 | ditama bow | ぢたま(某) | 《亲吻姐姐》的作者 <br/> 很多成功的漫画家都是从画本子开始的 | |
@@ -2316,6 +2317,21 @@
 | shichimenchou | しちめんちょう | | |
 | bigshine | ビッグシャイン | | |
 | apoidea | Apoidea | | |
+| takase asagiri | 鷹瀬あさぎり | | |
+| ugaromix | Ugaromix | | |
+| aizawa hiroshi | あいざわひろし | | |
+| b-ginga | B-银河 | | |
+| nanami | 七弥 | | |
+| narumi cristear note | 成海クリスティアーノート | | |
+| saku usako | 佐久うさこ | | |
+| aotsu karin | 蒼都かりん | | |
+| mori airi | 森あいり | | |
+| mimura zaja | 三村ざじゃ | | |
+| itomugi-kun | 糸麦くん | | |
+| aru urara | あるうらら | | |
+| sakura saku sakura | 佐倉さくさくら | | |
+| akinaro | あきなろ | | |
+| hanakawa sugar | 花川シュガー | | |
 
 <!--TEMPLATE: 
 |  |  | | |

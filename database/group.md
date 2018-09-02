@@ -653,7 +653,6 @@
 | nisemididoronokai | 偽MIDI泥の会 | | |
 | veronica no ha | ヴェロニカの歯 | | |
 | jet-black baselarde | 漆黒のバゼラード | | |
-| guilty ex | Guilty eX | | |
 | juicebox koujou | ジュースボックス工場 | | |
 | yukinohana | ユキノハナ | | |
 | sa ku | sa_ku | | |
@@ -1373,8 +1372,22 @@
 | arusenchioratatema | アルセンチオラタテマ | | |
 | fonchau | 蜂巢 | | |
 | abalone soft | Abalone Soft | | |
+| akutensoushin | 恶转奏进 | | |
+| phylactery | PHYLACTERY | | |
+| hassystant | ハシスタント | | |
+| rabbit | ＊rabbit | | |
+| kakukonoka | かくこのか | | |
+| arterial heart | ARTERIALHEART | | |
+| moriq | moriQ | | |
+| mofurentei | もふれん亭 | | |
+| sonna kanji de heiankyou | そんな感じで平安京 | | |
+| night springs | ナイトスプリングス | | |
+| aki to haru no yume | 秋と春の夢 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| guilty plus | Guilty+ | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| guilty ex | Guilty eX | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
 | nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
 | praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
