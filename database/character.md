@@ -223,6 +223,7 @@
 | souryuu | 苍龙 | No.008 苍龙![苍龙](# "http://exhentai.org/t/1e/4d/1e4d2387b1817ccf472ada6f5e91bb1c6f2615d5-1138315-1411-2000-jpg_250.jpg") | |
 | hiryuu | 飞龙 | No.009 飞龙![飞龙](# "http://exhentai.org/t/52/a2/52a27ccf1909e92b13feaea691a7717a2db32fb9-790987-1416-2000-jpg_250.jpg") | |
 | shimakaze | 岛风 | No.010 岛风![岛风](# "http://exhentai.org/t/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg") | |
+| rensouhou-chan | 连装炮酱 | | |
 | fubuki | 吹雪 | No.011 吹雪![吹雪](# "http://exhentai.org/t/fe/d3/fed3c4b1bba573f357acb64b94bcb69e2465fe9c-580323-1000-1398-jpg_250.jpg") | |
 | shirayuki | 白雪 | No.012 白雪![白雪](# "http://exhentai.org/t/16/91/1691ed6aca37aa9a8dc8b0527f0a18e5a7cbe542-798232-2122-3000-jpg_250.jpg") | |
 | hatsuyuki | 初雪 | No.013 | |
@@ -1587,6 +1588,12 @@
 | oolong | 乌龙 | | |
 | ranfan | 兰芳 | | |
 | lunch | 兰琪 | | |
+| mrs. briefs | 布里夫博士 | | |
+| | ▼萝莉的时间 | | |
+| kuro kagami | 镜黑 | | |
+| mimi usa | 宇佐美美 | | |
+| rin kokonoe | 九重凛 | | |
+| daisuke aoki | 青木大介 | | |
 | | ▼ 在地下城寻求邂逅是否搞错了什么 | | |
 | hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) | |
 | bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) | |

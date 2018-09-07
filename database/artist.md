@@ -2332,6 +2332,19 @@
 | sakura saku sakura | 佐倉さくさくら | | |
 | akinaro | あきなろ | | |
 | hanakawa sugar | 花川シュガー | | |
+| urabi | うらび | | |
+| kichirock | キチロク | | |
+| darjeeling. | だ～じりん。 | | |
+| pochincoff | ポチンコフ | | |
+| tamasatou | 玉砂糖 | | |
+| kogasaki yuina | こがさきゆいな | | |
+| shimeji nameko | しめじなめこ | | |
+| sakibashiri jiru | 先走汁 | | |
+| hayashi tugumi | 林つぐみ | | |
+| tamura chii | 田村ちい | | |
+| jagausa | じゃがうさ | | |
+| misuroma | みすろま | | |
+| kabe umari-ko | 壁埋まり子 | | |
 
 <!--TEMPLATE: 
 |  |  | | |
