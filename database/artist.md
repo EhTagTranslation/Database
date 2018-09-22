@@ -2316,6 +2316,11 @@
 | shichimenchou | しちめんちょう | | |
 | bigshine | ビッグシャイン | | |
 | apoidea | Apoidea | | |
+| randou | 乱道 | | |
+| midoriiro | 緑いろ | | |
+| koukou punch | 高校パンチ | | |
+| arai kogane | 新井コガネ | | |
+| aoin | AOIN | | |
 
 <!--TEMPLATE: 
 |  |  | | |

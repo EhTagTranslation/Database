@@ -1347,6 +1347,9 @@
 | elfen lied | 妖精的旋律 | 《妖精的旋律》（日语：エルフェンリート，德语：Elfen Lied）是日本漫画家冈本伦所创作的漫画作品，于集英社的周刊YOUNG JUMP杂志上连载，自2002年27号起至2005年39号完结，单行本全12卷。繁体中文版由长鸿出版社代理，以R18形式发行。之后改编为电视动画，于2004年7月25日到10月17日期间放送，全12话。  | [维基百科](https://zh.wikipedia.org/zh-cn/妖精的旋律) (*) |
 | katanagatari | 刀语 | 《刀语》是西尾维新所作的轻小说，插画作者是竹，共12册。这是西尾首次发表的时代小说。由此改编的动画于2010年1月开始每月播放一话，为《西尾维新动画PROJECT》第二个项目，全12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/刀语) (*) |
 | plastic memories | 可塑性记忆 | 《可塑性记忆》（日语：プラスティック・メモリーズ），是由动画工房制作的日本原创电视动画，2015年4月4日播出并于6月27日完结，同时宣布小说化。2016年5月19日宣布游戏化。 | [维基百科](https://zh.wikipedia.org/zh-cn/可塑性記憶) (*) |
+| ijiranaide nagatoro-san | 不要欺负我、长瀞同学 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Please_don%27t_bully_me,_Nagatoro) |
+| bijin onna joushi takizawa-san | 美女上司泷泽小姐 |  |  |
+| bible black | 黑暗圣经 | 《黑魔术学园》（或译作《黑暗圣经》，日文原名バイブルブラック，即英文Bible Black）是2000年由日本Active公司制作的一款十八禁游戏，原画和脚本制作者是著名的“圣少女”。此作是“圣少女”受雇Active时期六部原画作品的第五部、出任原作者后“三部曲”中的第二部。  | [维基百科](https://zh.wikipedia.org/zh-cn/黑魔術學園) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

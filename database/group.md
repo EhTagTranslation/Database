@@ -1373,6 +1373,10 @@
 | arusenchioratatema | アルセンチオラタテマ | | |
 | fonchau | 蜂巢 | | |
 | abalone soft | Abalone Soft | | |
+| randou house | 乱道ハウス | | |
+| chocolate chuudoku | チョコレイト中毒 | | |
+| blue section | Blue Section | | |
+| aoin no junreibi | アオインの巡礼日 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |

@@ -589,7 +589,7 @@
 |  | 水野翠 | | |
 |  | 冈崎泰叶 | | |
 | kanade hayami | 速水奏 | | |
-|  | 大石泉 | | |
+| izumi ohishi | 大石泉 | | |
 |  | 松尾千鹤 | | |
 | arisu tachibana | 橘爱丽丝 | | |
 | nono morikubo | 森久保乃乃 | | |
@@ -749,6 +749,7 @@
 |  | 北村想乐 | | |
 |  | 山村贤 | | |
 | sakuya shirase | 白濑咲耶 | | |
+| kiriko yukoku | 幽谷雾子 | | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | | |
 | | ▼ My Little Pony 角色 | | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) | |
