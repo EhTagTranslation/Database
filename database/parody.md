@@ -1350,6 +1350,14 @@
 | ijiranaide nagatoro-san | 不要欺负我、长瀞同学 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Please_don%27t_bully_me,_Nagatoro) |
 | bijin onna joushi takizawa-san | 美女上司泷泽小姐 |  |  |
 | bible black | 黑暗圣经 | 《黑魔术学园》（或译作《黑暗圣经》，日文原名バイブルブラック，即英文Bible Black）是2000年由日本Active公司制作的一款十八禁游戏，原画和脚本制作者是著名的“圣少女”。此作是“圣少女”受雇Active时期六部原画作品的第五部、出任原作者后“三部曲”中的第二部。  | [维基百科](https://zh.wikipedia.org/zh-cn/黑魔術學園) (*) |
+| uzaki-chan wa asobitai | 宇崎酱想要玩耍！ |  | |
+| one kagayaku kisetsu e | ONE～光辉的季节～ | 《ONE～光辉的季节～》（日语：ONE 〜輝く季節へ）是NEXTON的旗下品牌Tactics于1998年5月29日发售的恋爱冒险类型成人游戏，后来改编成OVA、漫画和小说。由于是以Key所属的工作人员为中心制作的游戏，因此常被视为Key的游戏，亦被称为Key社四季曲中的“秋”。  | [维基百科](https://zh.wikipedia.org/zh-cn/ONE%EF%BD%9E光辉的季节%EF%BD%9E) (*) |
+| guardian heroes | 守护英雄 | 《守护英雄》（日语：ガーディアン ヒーローズ，英语：Guardian Heroes）是一款由Treasure制作、世嘉发行的清版动作游戏。游戏于1996年1月25日在世嘉土星北美地区发行，于1月26日在日本发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/守护英雄) (*) |
+| the incredibles | 超人总动员 | 《超人总动员》（英语：The Incredibles）皮克斯动画工作室制作，迪士尼发行的第六部长篇电脑动画。本片由布拉德·伯德（Brad Bird）导演，Michael Giacchino 配乐，于2004年上映。获第77届奥斯卡最佳动画片奖。而续集《超人总动员2》于2018年6月15日在美国上映 。  | [维基百科](https://zh.wikipedia.org/zh-cn/超人特攻隊_%28電影%29) (*) |
+| yakitate japan | 日式面包王 | 《日式面包王》（日语：焼きたて!! ジャぱん）是日本漫画家桥口隆志的少年漫画，连载于《周刊少年Sunday》（小学馆）2002年4、5合并号至2007年4号。以及2004年10月至2006年3月播出依此改编的电视动画。曾荣获第49回小学馆漫画赏。 | [维基百科](https://zh.wikipedia.org/zh-cn/日式麵包王) (*) |
+| planetarian | 星之梦 | 《星之梦》（日文原名：planetarian ～ちいさなほしのゆめ～，英文名：planetarian ~the reverie of a little planet~），是日本Key社的第四部作品，也是视觉小说系列“Kinetic Novel”的第一部。亦指以原作为中心展开的小说等衍生作品。  | [维基百科](https://zh.wikipedia.org/zh-cn/星之夢) (*) |
+| cave story | 洞窟物语 | 《洞窟物语》（日语：洞窟物語，英语：Cave Story）是于2004年发布的一款PC平台上的免费平台冒险游戏，由天谷大辅利用5年间的业余时间开发而成。《洞窟物语》以其对2D平台技术的充分利用与游戏的复古风格而著称，且也是对作者年少时玩过的《银河战士》等经典风格游戏的致敬之作。 | [维基百科](https://zh.wikipedia.org/zh-cn/洞窟物語) (*) |
+| btooom | BTOOOM!惊爆游戏 | 《BTOOOM!》（日语：ブトゥーム；中文：惊爆游戏）是日本漫画家井上淳哉的漫画作品。2009年6月19日（29号）至2010年8月27日（39号，最终号）在新潮社旗下青年漫画杂志《周刊Comic Bunch》上连载，之后由于《周刊Comic Bunch》的休刊，在2011年1月21日转移到同属新潮社旗下另一本青年漫画杂志《月刊Comic@Bunch》上，从杂志创刊号开始连载至今。  | [维基百科](https://zh.wikipedia.org/zh-cn/BTOOOM!) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

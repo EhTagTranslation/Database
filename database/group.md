@@ -653,7 +653,6 @@
 | nisemididoronokai | 偽MIDI泥の会 | | |
 | veronica no ha | ヴェロニカの歯 | | |
 | jet-black baselarde | 漆黒のバゼラード | | |
-| guilty ex | Guilty eX | | |
 | juicebox koujou | ジュースボックス工場 | | |
 | yukinohana | ユキノハナ | | |
 | sa ku | sa_ku | | |
@@ -1377,8 +1376,38 @@
 | chocolate chuudoku | チョコレイト中毒 | | |
 | blue section | Blue Section | | |
 | aoin no junreibi | アオインの巡礼日 | | |
+| akutensoushin | 恶转奏进 | | |
+| phylactery | PHYLACTERY | | |
+| hassystant | ハシスタント | | |
+| rabbit | ＊rabbit | | |
+| kakukonoka | かくこのか | | |
+| arterial heart | ARTERIALHEART | | |
+| moriq | moriQ | | |
+| mofurentei | もふれん亭 | | |
+| sonna kanji de heiankyou | そんな感じで平安京 | | |
+| night springs | ナイトスプリングス | | |
+| aki to haru no yume | 秋と春の夢 | | |
+| tomatohouse-905s room | tomatohouse-905's room | | |
+| dai 6 kichi | 第6基地 | | |
+| movefromoneplacetoheaven | MoveFromOnePlacetoHeaven | | |
+| workholic | わーくほりっく | | |
+| astro qube. | AstroQube. | | |
+| pikorin | ぴこりん! | | |
+| ngmyu | んみゅ | | |
+| gintou seika | 银糖制菓 | | |
+| damage yuka r | ダメージ床R | | |
+| ruibosucha | るいぼす茶 | | |
+| kuroisuisei | 黒い彗星 | | |
+| se bone | 背・骨 | | |
+| tugumix | TUGUMIX | | |
+| tfc kikaku to yukaina nakamatachi | TFC企画とゆかいな仲間たち | | |
+| yumemigachi campus | 夢想キャンパス | | |
+| a.o.i | A・O・I | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| guilty plus | Guilty+ | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| guilty ex | Guilty eX | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
 | nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |
 | orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
 | praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |

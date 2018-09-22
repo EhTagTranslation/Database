@@ -223,6 +223,7 @@
 | souryuu | 苍龙 | No.008 苍龙![苍龙](# "http://exhentai.org/t/1e/4d/1e4d2387b1817ccf472ada6f5e91bb1c6f2615d5-1138315-1411-2000-jpg_250.jpg") | |
 | hiryuu | 飞龙 | No.009 飞龙![飞龙](# "http://exhentai.org/t/52/a2/52a27ccf1909e92b13feaea691a7717a2db32fb9-790987-1416-2000-jpg_250.jpg") | |
 | shimakaze | 岛风 | No.010 岛风![岛风](# "http://exhentai.org/t/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg") | |
+| rensouhou-chan | 连装炮酱 | | |
 | fubuki | 吹雪 | No.011 吹雪![吹雪](# "http://exhentai.org/t/fe/d3/fed3c4b1bba573f357acb64b94bcb69e2465fe9c-580323-1000-1398-jpg_250.jpg") | |
 | shirayuki | 白雪 | No.012 白雪![白雪](# "http://exhentai.org/t/16/91/1691ed6aca37aa9a8dc8b0527f0a18e5a7cbe542-798232-2122-3000-jpg_250.jpg") | |
 | hatsuyuki | 初雪 | No.013 | |
@@ -370,7 +371,7 @@
 | takanami | 高波 | No.224 | |
 | asashimo | 朝霜 | No.225 | |
 | u-511 | U-511 | No.231 | |
-| graf zeppelin | 齐柏林 | No.232 齐柏林伯爵![齐柏林伯爵](# "http://exhentai.org/t/26/a1/26a1e8801369e6d0e4bde7b3ce72853a4ffcc036-1329616-1407-2000-jpg_250.jpg") | |
+| graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵![齐柏林伯爵](# "http://exhentai.org/t/26/a1/26a1e8801369e6d0e4bde7b3ce72853a4ffcc036-1329616-1407-2000-jpg_250.jpg") | |
 | saratoga | 萨拉托加 | No.233 | |
 | ro-500 | 吕500 | No.236 吕500![吕500](# "http://exhentai.org/t/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg") | |
 | warspite | 厌战 | No.239 | |
@@ -378,7 +379,7 @@
 | littorio | 利托里奥 | No.241 | |
 | roma | 罗马 | No.242 | |
 | libeccio | 西南风 | No.243 Libeccio/利伯齐奥 | |
-| aquila | 鹫座 | No.244 | |
+| aquila | 天鹰 | No.244 Aquila/天鹰座/鹫座/爱奎拉 | |
 | akitsushima | 秋津洲 | No.245 | |
 | italia | 意大利 | No.246 | |
 | zara | 扎拉 | No.248 | |
@@ -398,23 +399,36 @@
 | asakaze | 朝风 | No.272 | |
 | harukaze | 春风 | No.273 | |
 | matsukaze | 松风 | No.274 | |
+| hatakaze | 旗风 | No.275 | |
+| amagiri | 天雾 | No.279 | |
+| sagiri | 狭雾 | No.280 | |
 | minazuki | 水无月 | No.281 | |
 | i-26 | 伊26 | No.283 | |
+| hamanami | 滨波 | No.284 | |
 | fujinami | 藤波 | No.285 | |
 | uranami | 浦波 | No.286 | |
-| commandant teste | 塔斯特司令官 | No.291 | |
+| commandant teste | 特斯特长官 | No.291 | |
+| richelieu | 黎塞留 | No.292 | |
 | i-400 | 伊400 | No.293 | |
 | i-13 | 伊13 | No.294 | |
 | i-14 | 伊14 | No.295 | |
-| gangut | 甘古特 | No.311 | |
-| october revolution | 十月革命 | No.312 | |
+| gangut | 甘古特 | No.311 Гангут | |
+| october revolution | 十月革命 | No.312 Октябрьская революция | |
+| tashkent | 塔什干 | No.313 Ташкент | |
 | ark royal | 皇家方舟 | No.315 | |
 | shimusyu | 占守 | No.317 | |
 | kunashiri | 国后 | No.318 | |
+| jervis | 杰维斯 | No.319 | |
 | kasuga maru | 春日丸 | No.321 | |
+| luigi torelli | 路易吉·托雷利 | No.325 | |
 | taiyou | 大鹰 | No.326 | |
 | suzutsuki | 凉月 | No.332 | |
 | etorofu | 择捉 | No.334 | |
+| matsuwa | 松轮 | No.335 | |
+| sado | 佐渡 | No.339 | |
+| tsushima | 对马 | No.340 | |
+| gambier bay | 甘比尔湾 | No.344 | |
+| intrepid | 无畏 | No.349 | |
 | iona | 伊欧娜 | Mist01 | |
 | mamiya | 间宫 | NPC | |
 | unicorn | 独角兽 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:独角兽) |
@@ -556,7 +570,7 @@
 | miyu mifune | 三船美优 | | |
 |  | 服部瞳子 | | |
 | manami kiba | 木场真奈美 | | |
-|  | 藤原肇 | | |
+| hajime fujiwara | 藤原肇 | | |
 | helen | 海伦 | | |
 |  | 松永凉 | | |
 |  | 小室千奈美 | | |
@@ -1528,6 +1542,7 @@
 | margay | 长尾虎猫 | | |
 | black leopard | 黑豹 | | |
 | leopard | 豹 | | |
+| south african giraffe | 南非长颈鹿 | | |
 | | ▼ 缘之空 | | |
 | sora kasugano | 春日野穹 | | |
 | haruka kasugano | 春日野悠 | | |
@@ -1561,6 +1576,7 @@
 | android 21 | 人造人21号 | | |
 | videl | 比迪丽 | | |
 | son goku | 孙悟空 | | |
+| spopovich | 斯波比奇 |  |  |
 | vegeta | 贝吉塔 | | |
 | trunks briefs | 特兰克斯 | | |
 | bulma briefs | 布尔玛 | | |
@@ -1573,6 +1589,12 @@
 | oolong | 乌龙 | | |
 | ranfan | 兰芳 | | |
 | lunch | 兰琪 | | |
+| mrs. briefs | 布里夫博士 | | |
+| | ▼萝莉的时间 | | |
+| kuro kagami | 镜黑 | | |
+| mimi usa | 宇佐美美 | | |
+| rin kokonoe | 九重凛 | | |
+| daisuke aoki | 青木大介 | | |
 | | ▼ 在地下城寻求邂逅是否搞错了什么 | | |
 | hestia | 赫斯缇雅 | 真·女神<br>![女神](http://exhentai.org/t/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg)![图](http://exhentai.org/t/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg)![女神](http://ul.ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg) | |
 | bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](http://exhentai.org/t/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg) | |
