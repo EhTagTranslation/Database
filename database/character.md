@@ -458,6 +458,7 @@
 | z46 | Z46 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z46) |
 | z23 | Z23 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z23) |
 | tirpitz | 提尔比茨 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:提尔比茨) |
+| duke of york | 约克公爵 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:约克公爵) |
 | ka-class | 潜艇KA级 | | |
 | so-class | 潜艇SO级 | | |
 | ri-class | 重巡RI级 | | |
@@ -762,8 +763,24 @@
 |  | 舞田类 | | |
 |  | 北村想乐 | | |
 |  | 山村贤 | | |
-| sakuya shirase | 白濑咲耶 | | |
+| mano sakuragi | 樱木真乃 | | |
+| hiori kazano | 风野灯织 | | |
+| meguru hachimiya | 八宫缭 | | |
+| mamimi tanaka | 田中摩美美 | | |
 | kiriko yukoku | 幽谷雾子 | | |
+| kogane tsukioka | 月冈恋钟 | | |
+|  | 三峰结华 | | |
+| sakuya shirase | 白濑咲耶 | | |
+|  | 大崎甘奈 | | |
+| chiyuki kuwayama | 桑山千雪 | | |
+|  | 大崎甜花 | | |
+| kaho komiya | 小宫果穂 | | |
+|  | 园田智代子 | | |
+|  | 西城树里 | | |
+|  | 杜野凛世 | | |
+|  | 有栖川夏叶 | | |
+|  | 天井努 | | |
+|  | 七草叶月 | | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | | |
 | | ▼ My Little Pony 角色 | | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) | |
@@ -2324,6 +2341,16 @@
 | tamako nobi | 野比玉子 | | |
 | dorami | 哆啦美 | | |
 | hidetoshi dekisugi | 出木杉英才 | | |
+| | ▼ 赛马娘 | | |
+| daiwa scarlet | 大和赤骥 | | |
+| el condor pasa | 神鹰 | | |
+| gold ship | 黄金船 | | |
+| hishi amazon | 菱亚马逊 | | |
+| mejiro mcqueen | 目白麦昆 | | |
+| silence suzuka | 无声铃鹿 | | |
+| special week | 特别周 | | |
+| tokai teio | 东海帝王 | | |
+| taiki shuttle | 大树快车 | | |
 | | ▼ 未分类 | | |
 | mumei | 无名 | | |
 | ayane | 绫音 | | |

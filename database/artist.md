@@ -2350,6 +2350,7 @@
 | jagausa | じゃがうさ | | |
 | misuroma | みすろま | | |
 | kabe umari-ko | 壁埋まり子 | | |
+| crowly | くろうり | | |
 
 <!--TEMPLATE: 
 |  |  | | |

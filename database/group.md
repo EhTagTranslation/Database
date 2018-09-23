@@ -1403,6 +1403,8 @@
 | tfc kikaku to yukaina nakamatachi | TFC企画とゆかいな仲間たち | | |
 | yumemigachi campus | 夢想キャンパス | | |
 | a.o.i | A・O・I | | |
+| yamanashi musume. | やまなし娘。 | | |
+| samidaregiri | 五月雨斬り | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
