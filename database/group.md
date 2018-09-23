@@ -1404,6 +1404,11 @@
 | yumemigachi campus | 夢想キャンパス | | |
 | a.o.i | A・O・I | | |
 | yamanashi musume. | やまなし娘。 | | |
+| zetsubou shiromuji | 絶望しろむじ | | |
+| tottoko mtarou | とっとこMたろう | | |
+| sad.co | sad.co | | |
+| an an shokudou | あん♪あん♪食堂 | | |
+| hurupontei | ふるぽん亭 | | |
 | samidaregiri | 五月雨斬り | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
