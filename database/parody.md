@@ -1361,6 +1361,13 @@
 | nichijou | 日常 | 《日常》（日语：日常）是日本漫画家新井圭一的日本漫画作品，于《月刊少年Ace》与《Comptiq》两个杂志上连载。中文版由台湾角川出版发行。动画方面由京都动画制作，2011年3月先发行全1集的OVA，标题名为“日常的0话”，后在同年4月至9月播出26集的电视动画。台湾动画代理由普威尔国际发行。  | [维基百科](https://zh.wikipedia.org/zh-cn/日常) (*) |
 | isekai maou to shoukan shoujo no dorei majutsu | 异界少女召唤术 | 《异界少女召唤术》（日语：異世界魔王と召喚少女の奴隷魔術）是一部由紫雪夜创作的轻小说，插画由鹤崎贵大负责。小说由讲谈社的讲谈社轻小说文库出版，漫画版于niconico静画的《星期三的天狼星》上连载。  | [维基百科](https://zh.wikipedia.org/zh-cn/異世界魔王與召喚少女的奴隸魔術) (*) |
 | winnie the pooh | 小熊维尼 | 小熊维尼（英语：Winnie the Pooh，简称为Pooh、Pooh Pooh或是Pooh Bear），1925年12月24日首次面世，以圣诞故事形式在伦敦《新闻晚报》刊出；第一本《小熊维尼》故事书于1926年10月出版。小熊维尼是艾伦·亚历山大·米恩为他的儿子创作的一只漫画熊；而古典维尼是由谢培德（E.H.Shepard）所绘，后由华特·迪士尼公司购入并经过重新绘制，推出后因其可爱的外型与憨厚的个性，迅速成为世界知名的卡通角色之一。此后人们为了区别两种不同风格的维尼，称呼米尔恩时期由谢培德（E.H.Shepard）绘制的维尼为“古典维尼”（Classic Pooh）；而后全球粉丝便把米尔恩的生日（1月18日）推为国际小熊维尼日。 | [维基百科](https://zh.wikipedia.org/zh-cn/小熊維尼) (*) |
+| bravest warriors | 无惧勇士 | 《无惧勇士》（英文：Bravest Warriors）是一部美国线上系列动画，原创为《探险活宝》的作者潘得顿·沃德，由Breehn Burns指导。此系列由Frederator Studios在所属的卡通宿醉YouTube频道上出品。 | [维基百科](https://zh.wikipedia.org/zh-cn/無懼勇士) (*) |
+| candy candy | 小甜甜 | 《小甜甜》（原题：キャンディ♥キャンディ，英文：Candy Candy）是日本漫画家五十岚优美子担任原画，儿童文学作家水木杏子（名木田惠子）为原作的少女漫画作品，亦为以同漫画改编的电视动画主题歌（作词：名木田恵子、作曲：渡辺岳夫）曲名。  | [维基百科](https://zh.wikipedia.org/zh-cn/小甜甜) (*) |
+| moana | 海洋奇缘 | 《海洋奇缘》（英语：Moana），是一部2016年美国音乐奇幻喜剧冒险电影。华特迪士尼动画工作室制作、华特迪士尼影业所发行，由《小美人鱼》、《阿拉丁》和《公主与青蛙》的导演罗恩·克莱蒙兹和约翰·马斯克联合执导。本片是第56部迪士尼经典动画长片。主要配音员有奥丽依·卡拉瓦霍、道恩·强森、芮秋·豪斯、泰姆拉·莫里森、杰梅奈·克莱门特、妮可·舒辛格及阿兰·图代克。  | [维基百科](https://zh.wikipedia.org/zh-cn/海洋奇缘) (*) |
+| scooby-doo | 叔比狗 | 《叔比狗》（Scooby-Doo，或译作史酷比）是一系列知名美国动画。电视动画首播于1969年。最初的系列叔比狗，你在哪里！（Scooby-Doo, Where Are You!）由美国动画公司汉纳-巴伯拉制片公司的Joe Ruby和Ken Spears两人于1969年创作。台湾现在由卡通频道播出。  | [维基百科](https://zh.wikipedia.org/zh-cn/史酷比) (*) |
+| miraculous ladybug | 瓢虫少女 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Miraculous:_Tales_of_Ladybug_%26_Cat_Noir) |
+| inazuma eleven go | 闪电十一人GO |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Inazuma_Eleven_GO_%28manga%29) |
+| mushibugyo | 虫奉行 | 《虫奉行》（日语：ムシブギョー / 蟲奉行）是日本漫画家福田宏原本在《周刊少年Sunday超》上连载的日本漫画作品。之后人气上升转至《周刊少年Sunday》上连载。作品名称也从〈虫奉行〉改名为〈常驻战阵!!虫奉行〉，故事内容也因应从月刊转战周刊而做了调动与变更。进而作品有月刊时期与现在周刊时期两种风格。  | [维基百科](https://zh.wikipedia.org/zh-cn/蟲奉行) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

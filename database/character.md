@@ -1560,6 +1560,7 @@
 | black leopard | 黑豹 | | |
 | leopard | 豹 | | |
 | south african giraffe | 南非长颈鹿 | | |
+| sabre tiger | 剑齿虎 | | |
 | | ▼ 缘之空 | | |
 | sora kasugano | 春日野穹 | | |
 | haruka kasugano | 春日野悠 | | |

@@ -1410,6 +1410,8 @@
 | an an shokudou | あん♪あん♪食堂 | | |
 | hurupontei | ふるぽん亭 | | |
 | samidaregiri | 五月雨斬り | | |
+| harigane shinshi doumei | 针金绅士同盟 | | |
+| dessert time | Dessert Time | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
