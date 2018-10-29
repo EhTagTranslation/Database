@@ -1412,6 +1412,9 @@
 | samidaregiri | 五月雨斬り | | |
 | harigane shinshi doumei | 针金绅士同盟 | | |
 | dessert time | Dessert Time | | |
+| fuka fuka | 不可不可 | | |
+| suzuki dogezaemon | 铃木土下座卫门 | | |
+| anrakugai | 安乐街 | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
 | guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |

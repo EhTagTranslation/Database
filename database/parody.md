@@ -1368,6 +1368,13 @@
 | miraculous ladybug | 瓢虫少女 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Miraculous:_Tales_of_Ladybug_%26_Cat_Noir) |
 | inazuma eleven go | 闪电十一人GO |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Inazuma_Eleven_GO_%28manga%29) |
 | mushibugyo | 虫奉行 | 《虫奉行》（日语：ムシブギョー / 蟲奉行）是日本漫画家福田宏原本在《周刊少年Sunday超》上连载的日本漫画作品。之后人气上升转至《周刊少年Sunday》上连载。作品名称也从〈虫奉行〉改名为〈常驻战阵!!虫奉行〉，故事内容也因应从月刊转战周刊而做了调动与变更。进而作品有月刊时期与现在周刊时期两种风格。  | [维基百科](https://zh.wikipedia.org/zh-cn/蟲奉行) (*) |
+| kid icarus | 光神话 帕尔提娜之镜 | 《光神话 帕尔提娜之镜》（日版名：光神話 パルテナの鏡，英文版名：Kid Icarus）是一款由任天堂开发第一部制作、任天堂发行的平台游戏。本游戏于1986年12月19日在日本地区FC磁碟机发行，之后在FC游戏机发行。  | [维基百科](https://zh.wikipedia.org/zh-cn/光神话_帕尔提娜之镜) (*) |
+| legend of queen opala | 奥帕拉女王传奇 |  | |
+| shoujo kageki revue starlight | 少女☆歌剧Revue Starlight | 《少女☆歌剧Revue Starlight》（日语：少女☆歌劇 レヴュー・スタァライト）是由武士道和Nelke Planning共同策划的跨媒体制作企划，预定推出音乐剧和电视动画作品。  | [维基百科](https://zh.wikipedia.org/zh-cn/少女☆歌劇Revue_Starlight) (*) |
+| deathsmiles | 死亡微笑 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Deathsmiles) |
+| kaitou joker | 怪盗Joker | 《怪盗Joker》（日语：怪盗ジョーカー、英语书写：Mysterious Joker），是日本漫画家高桥英靖原作的怪盗漫画。于2007年4月在《别册CoroCoro Comic》上开始连载，之后移籍到《月刊CoroCoro Comic》（两本杂志都属于小学馆）后连载至2017年8月。单行本已经发售了23卷，2015年1月发售了杰作选。2013年获得第58回小学馆漫画赏（儿童向）。 | [维基百科](https://zh.wikipedia.org/zh-cn/怪盜Joker) (*) |
+| qualidea code | Qualidea Code | 《Qualidea Code》（日语：クオリディア・コード）为原创动画，是由Super Dash文库、富士见Fantasia文库、MF文库J、GAGAGA文库与Jump SQ等出版社以及渡航、橘公司、相乐总三位轻小说作家组成的创作团体Speakeasy推出的媒体联合计划Project QUALIDEA（日语：プロジェクト・クオリディア）的一部分。 | [维基百科](https://zh.wikipedia.org/zh-cn/Qualidea_Code) (*) |
+| shuumatsu no izetta | 终末的伊泽塔 | 《终末的伊泽塔》（日语：終末のイゼッタ）是一部由藤森雅也执导，亚细亚堂制作的原创动画，于2016年10月1日在AT-X首播。《伊泽塔》于2016年6月24日正式发表，并公开宣传影片及官方网站，但并未提及制作团队及声优。直至同年9月2日，官方才首次公开本作的制作团队及声优名单等资讯。  | [维基百科](https://zh.wikipedia.org/zh-cn/終末的伊澤塔) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

@@ -2351,6 +2351,7 @@
 | misuroma | みすろま | | |
 | kabe umari-ko | 壁埋まり子 | | |
 | crowly | くろうり | | |
+| sekiya asami | 関谷あさみ | | |
 
 <!--TEMPLATE: 
 |  |  | | |

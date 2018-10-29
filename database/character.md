@@ -439,6 +439,7 @@
 | laffey | 拉菲 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:拉菲) |
 | eldridge | 埃尔德里奇 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) |
 | prince of wales | 威尔士亲王 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:威尔士亲王) |
+| sheffield | 谢菲尔德 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:谢菲尔德) |
 | pinghai | 平海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:平海) |
 | ninghai | 宁海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:宁海) |
 | cygnet | 小天鹅 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:小天鹅) |
@@ -2094,6 +2095,11 @@
 | miu matsuoka | 松冈美羽 | | |
 | matsuri sakuragi | 樱木茉莉 | | |
 | ana coppola | 安娜·柯普拉 | | |
+| | ▼ 终末的伊泽塔 | | |
+| izetta | 伊泽塔 | | |
+| ortfine fredericka von eylstadt | 奥特菲涅·弗雷德里克·冯·埃尔施塔特 | | |
+| bianca | 毕安卡 | | |
+| lotte | 萝特 | | |
 | | ▼ 物语系列 | | |
 | koyomi araragi | 阿良良木历 | | |
 | karen araragi | 阿良良木火怜 | | |
@@ -2453,7 +2459,7 @@
 | latooni suvota | 拉托妮·苏波塔 | | |
 | shine hausen | 夏茵·豪森 | | |
 | stella bremer | 史黛拉·布瑞梅尔 | | |
-| bianca whitaker | 碧安卡 | | |
+| bianca whitaker | 碧安卡·惠特克 | | |
 | crea dolosera | 克蕾雅·多萝赛娅 | | |
 | mikono suzushiro | 御子乃·铃白 | | |
 | suomi konepi | 须绪美·科妮皮 | | |
