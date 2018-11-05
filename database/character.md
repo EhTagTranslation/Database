@@ -2571,6 +2571,9 @@
 | charlotte dunois | 夏洛特·德诺阿 | | |
 | nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) | |
 | sadako | 贞子 | | |
+| louise francoise le blanc de la valliere | 露易丝·法兰西斯·露·布朗·杜·拉·瓦利埃尔 | 《零之使魔》路易斯，钉宫四萌之一<br>![图](http://ehgt.org/bb/c9/bbc968c105f220f91842fa0b4a9a8e487e7952e2-524834-1050-1500-jpg_l.jpg)![图](http://ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg)![图](# "http://ehgt.org/1a/0f/1a0f01daacab414f1dc6685f4cf005774777ad50-747905-1237-1741-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-cn/%E9%9C%B2%E6%98%93%E4%B8%9D%C2%B7%E6%B3%95%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E9%9C%B2%C2%B7%E5%B8%83%E6%9C%97%C2%B7%E6%9D%9C%C2%B7%E6%8B%89%C2%B7%E7%93%A6%E5%88%A9%E5%9F%83%E5%B0%94) |
+| saito hiraga | 平贺才人 | 《零之使魔》才狗，全名才人·修瓦里埃·杜·平贺·杜·奥尔尼埃尔<br>![图](http://ehgt.org/f6/5b/f65b7fc845b623be84a986cc1e61daf457836f04-393538-800-1130-jpg_l.jpg)![图](http://ehgt.org/23/e4/23e40ed99207ecfa4cba57b09931683f73b19bf7-797226-1406-1998-jpg_l.jpg)![图](# "http://ehgt.org/34/27/3427f37ffcbb7648229b659c70b22628af9c67e0-1025058-1148-1600-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/%E5%B9%B3%E8%B4%BA%E6%89%8D%E4%BA%BA) |
+| shana | 夏娜 | 《灼眼的夏娜》，钉宫四萌之一<br>![图](http://ehgt.org/40/5a/405a01d1eb1b240be5f11fb3ca77553e5dbaed4e-887338-2109-3000-jpg_l.jpg)![图](http://ehgt.org/fc/6f/fc6f012686e67c8a119a564850f9cd90001f77e7-15348419-3004-2128-png_l.jpg)![图](http://ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org/%E5%A4%8F%E5%A8%9C) |
 
 <!--TEMPLATE: 
 |  |  | | |
