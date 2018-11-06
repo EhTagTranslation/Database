@@ -1375,6 +1375,7 @@
 | kaitou joker | 怪盗Joker | 《怪盗Joker》（日语：怪盗ジョーカー、英语书写：Mysterious Joker），是日本漫画家高桥英靖原作的怪盗漫画。于2007年4月在《别册CoroCoro Comic》上开始连载，之后移籍到《月刊CoroCoro Comic》（两本杂志都属于小学馆）后连载至2017年8月。单行本已经发售了23卷，2015年1月发售了杰作选。2013年获得第58回小学馆漫画赏（儿童向）。 | [维基百科](https://zh.wikipedia.org/zh-cn/怪盜Joker) (*) |
 | qualidea code | Qualidea Code | 《Qualidea Code》（日语：クオリディア・コード）为原创动画，是由Super Dash文库、富士见Fantasia文库、MF文库J、GAGAGA文库与Jump SQ等出版社以及渡航、橘公司、相乐总三位轻小说作家组成的创作团体Speakeasy推出的媒体联合计划Project QUALIDEA（日语：プロジェクト・クオリディア）的一部分。 | [维基百科](https://zh.wikipedia.org/zh-cn/Qualidea_Code) (*) |
 | shuumatsu no izetta | 终末的伊泽塔 | 《终末的伊泽塔》（日语：終末のイゼッタ）是一部由藤森雅也执导，亚细亚堂制作的原创动画，于2016年10月1日在AT-X首播。《伊泽塔》于2016年6月24日正式发表，并公开宣传影片及官方网站，但并未提及制作团队及声优。直至同年9月2日，官方才首次公开本作的制作团队及声优名单等资讯。  | [维基百科](https://zh.wikipedia.org/zh-cn/終末的伊澤塔) (*) |
+| donkey kong | 大金刚 | 大金刚系列（日语：ドンキーコング，英语：Donkey Kong），是指日本任天堂公司所推出、以名为大金刚的虚构大猩猩为主角的一系列电子游戏，包括音乐游戏及赛车游戏等。任天堂制作的马里奥系列的主角马里奥在此系列亦有登场。  | [维基百科](https://zh.wikipedia.org/wiki/大金刚系列) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

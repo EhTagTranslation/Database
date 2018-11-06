@@ -440,8 +440,8 @@
 | eldridge | 埃尔德里奇 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) |
 | prince of wales | 威尔士亲王 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:威尔士亲王) |
 | sheffield | 谢菲尔德 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:谢菲尔德) |
-| pinghai | 平海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:平海) |
-| ninghai | 宁海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:宁海) |
+| ping hai | 平海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:平海) |
+| ning hai | 宁海 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:宁海) |
 | cygnet | 小天鹅 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:小天鹅) |
 | kent | 肯特 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:肯特) |
 | hammann | 哈曼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:哈曼) |
@@ -783,6 +783,26 @@
 |  | 天井努 | | |
 |  | 七草叶月 | | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | | |
+| | ▼ 超级马里奥兄弟 角色 |  | |
+| mario | 马里奥 | | |
+| luigi | 路易吉 | | |
+| yoshi | 耀西 | | |
+| wario | 瓦里奥 | | |
+| waluigi | 瓦路易吉 | | |
+| bowser | 库巴 | | |
+| wendy o. koopa | 温蒂库巴 | | |
+| super crown bowser | 库巴姬 | | |
+| princess peach | 碧奇公主 | | |
+| princess daisy | 黛西公主 | | |
+| rosalina | 罗塞塔 | | |
+| pauline | 波琳 | | |
+| boo | 布布 | | |
+| super crown boo | 幽灵姬 | | |
+| toad | 奇诺比奥 | | |
+| toadette | 奇诺比珂 | | |
+| donkey kong | 森喜刚 | | |
+| diddy kong | 狄狄刚 | | |
+| dixie kong | 狄可西刚 | | |
 | | ▼ My Little Pony 角色 | | |
 | apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) | |
 | big macintosh | 大麦哥 | Apple Bloom 和 Applejack 的哥哥。<br>![BM](https://31.media.tumblr.com/88874d9ab3d8c6f727743d0e5ec0e1ff/tumblr_inline_nk52r9LXS81snpgiu.png) | |
