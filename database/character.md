@@ -2584,6 +2584,8 @@
 | abraham lincoln | 亚伯拉罕·林肯 | | |
 | george w. bush | 乔治·沃克·布什 | 小布什 | |
 | osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن‎‎，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） | |
+| adolf hitler | 阿道夫·希特勒 | | |
+| anne frank | 安妮·弗兰克 | 安内莉斯·玛丽·“安妮”·弗兰克 （德语：Annelies Marie "Anne" Frank；德语音标：[anɛliz maʁi anə fʁɑnk] （帮助·关于），1929年6月12日－1945年3月9日），生于德国法兰克福，犹太人，二战犹太人大屠杀中最著名的受害者之一，得年15岁，1999年入选《时代杂志》“20世纪全世界最具影响力的100个人”，一颗编号为5535的小行星以她命名为“5535 Annefrank”。她在2004年票选最伟大的荷兰人当中，排名第八，次于第七伟大的荷兰民族英雄兼海上战神德·鲁伊特。  | [维基百科](https://zh.wikipedia.org/wiki/安妮·弗蘭克) (*) |
 | lusamine | 露莎米奈 | | |
 | angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) | |
 | lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/%E9%B2%81%E8%B7%AF%E4%BF%AE%C2%B7vi%C2%B7%E5%B8%83%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A) |
