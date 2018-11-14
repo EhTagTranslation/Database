@@ -690,7 +690,7 @@
 |  | 矢吹可奈 | | |
 | emily stewart | 艾米莉·司徒亚特 | | |
 | tamaki ogami | 大神环 | | |
-|  | 北上丽花 | | |
+| reika kitakami | 北上丽花 | | |
 | umi kousaka | 高坂海美 | | |
 | minako satake | 佐竹美奈子 | | |
 | elena shimabara | 岛原埃琳娜 | | |
@@ -700,19 +700,19 @@
 | noriko fukuda | 福田法子 | | |
 |  | 舞滨步 | | |
 | mizuki makabe | 真壁瑞希 | | |
-|  | 百濑莉绪 | | |
+| rio momose | 百濑莉绪 | | |
 | nao yokoyama | 横山奈绪 | | |
 | tsubasa ibuki | 伊吹翼 | | |
 | shiho kitazawa | 北泽志保 | | |
-|  | 篠宫可怜 | | |
+| karen shinomiya | 篠宫可怜 | | |
 | momoko suou | 周防桃子 | | |
 | matsuri tokugawa | 德川茉莉 | | |
 | megumi tokoro | 所惠美 | | |
 | fuuka toyokawa | 丰川风花 | | |
 | iku nakatani | 中谷育 | | |
 | yuriko nanao | 七尾百合子 | | |
-|  | 二阶堂千鹤 | | |
-|  | 宫尾美也 | | |
+| chizuru nikaido | 二阶堂千鹤 | | |
+| miya miyao | 宫尾美也 | | |
 |  | 伴田路子 | | |
 | kaori sakuramori | 樱守歌织 | | |
 | tsumugi shiraishi | 白石䌷 | | |
@@ -782,6 +782,7 @@
 |  | 有栖川夏叶 | | |
 |  | 天井努 | | |
 |  | 七草叶月 | | |
+| arisa mochida | 持田亚里沙 | | |
 | | ▲偶像大师-THE IDOLM@STER 人物 | | |
 | | ▼ 超级马里奥兄弟 角色 |  | |
 | mario | 马里奥 | | |
@@ -1582,6 +1583,7 @@
 | leopard | 豹 | | |
 | south african giraffe | 南非长颈鹿 | | |
 | sabre tiger | 剑齿虎 | | |
+| japanese crested ibis | 朱鹮 | | |
 | | ▼ 缘之空 | | |
 | sora kasugano | 春日野穹 | | |
 | haruka kasugano | 春日野悠 | | |

@@ -69,6 +69,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | frog girl | 青蛙女孩 | 身材矮小，皮肤光滑，长爬行动物附肢的女性。可能有长舌(long tongue)。 | |
 | fox girl | 狐女 | 有狐狸耳朵和尾巴的女孩。 | |
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。 | |
+| giraffe girl | 长颈鹿娘 | 有长颈鹿的耳朵和尾巴的女孩，通常在衣服或毛皮上有黄色和棕色斑点。可能有长脖子。 | |
 | ghost | 幽灵👻 | 与非物质的存在性交。 | |
 | goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 | |
 | harpy | 鸟人 | 鸟与人类的混合体。 | |
@@ -78,6 +79,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 | |
 | lizard girl | 蜥蜴女孩 | 有爬行动物的鳞片和尾巴的女孩。 | |
 | mermaid | 美人鱼🧜‍♀️ | 上半身是人，下半身是鱼。 | |
+| monkey girl | 猴女孩 | 有猴子的耳朵，通常也有猴子的尾巴或其他特征。 | |
 | monster girl | 怪物女孩 | 怪物(monster)的女性版本。 | |
 | mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 | |
 | necrophilia | 奸尸 | 涉及尸体的性行为。 | |
@@ -181,14 +183,15 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | elf | 精灵🧝‍♀️ | 通常有尖耳朵和苗条的身体。 | |
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性支配(femdom)或调教(bdsm)配对。 | |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 | |
-| hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) | |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与宝冠(tiara)或王冠(crown)等头饰混淆。 | |
 | kemonomimi | 兽耳 | 有动物耳朵的角色，有时还有一条尾巴。不应与毛茸茸(furry)混淆。 | |
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 | |
-| prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
+| thick eyebrows | 浓眉 | 至少和手指一样厚的眉毛。 | |
 | | === 头部 > 头发 === | | |
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 | |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | |
+| hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) | |
+| prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用双马尾(twintails)。 | |
 | shaved head | 光头 | 只有发茬的头部。不应与秃顶(bald)混淆。 | |
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与马尾辫(ponytail)混淆。 | |
@@ -368,6 +371,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | crossdressing | 异性装 | 女性男装。只在明确表示穿着像男性的情况下才应该加上此标签。不应与性转换(gender bender)混淆。<br>![图](http://exhentai.org/t/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg)![图](http://exhentai.org/t/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg)![图](http://exhentai.org/t/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg) | |
 | diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与返老还童(age regression)、排便(scat)、幼稚型(infantilism)或排尿(urination)配对。 | |
 | dougi | 练功服🥋 | 用于各种武术课和训练的服装。通常有一条单色配带。 | |
+| fishnets | 渔网 | 由一种带有菱形开口针织物的图案制成的服装。必须覆盖至少一半的躯干或四肢（例如大腿，前臂等）。 | |
 | fundoshi | 六尺褌 | 相扑手穿的丁字裤。 | |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜(stockings)。<br>![图](http://ul.ehgt.org/9b/5e/9b5e34bba29d71db3aff91311a6364383683c687-808431-1433-2023-jpg_l.jpg)![图](http://exhentai.org/t/c8/5d/c85db419cab02ac122980a0211668452fa3dceb5-528343-1503-2118-jpg_l.jpg)![图](http://exhentai.org/t/fb/c9/fbc9c34bbdd7c5a3f994d8dc7315a57a38b9f2cb-3249875-2121-3000-jpg_l.jpg) | |
 | gothic lolita | 哥特萝莉装 | 一种黑暗但有很多褶的服装风格。<br>![图](http://exhentai.org/t/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg)![图](http://exhentai.org/t/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg) | |
