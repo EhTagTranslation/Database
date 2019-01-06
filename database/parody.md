@@ -1384,6 +1384,7 @@
 | hellboy | 地狱男爵 | 地狱男爵（英语：Hellboy），是由美国黑马漫画公司的漫画家麦克·米纽拉（Mike Mignola）所创造的虚构角色。 | [维基百科](https://zh.wikipedia.org/wiki/地狱男爵) (*) |
 | akebi no mi | 山姬之实 | 山姫の実 |  |
 
+
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
 -->
