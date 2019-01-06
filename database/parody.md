@@ -1383,6 +1383,13 @@
 | barbie | 芭比娃娃 | 芭比娃娃（芭比）是20世纪最广为人知及最畅销的玩偶，由罗丝·汉德勒发明，于1959年3月9日举办的美国国际玩具展览会（American International Toy Fair）上首次曝光。芭比玩偶由美泰公司拥有及生产。芭比娃娃及其它相关配件是以一比六的比例制作，此比例为娃娃屋模型的最大号，也称为playscale。 | [维基百科](https://zh.wikipedia.org/wiki/芭比娃娃) (*) |
 | hellboy | 地狱男爵 | 地狱男爵（英语：Hellboy），是由美国黑马漫画公司的漫画家麦克·米纽拉（Mike Mignola）所创造的虚构角色。 | [维基百科](https://zh.wikipedia.org/wiki/地狱男爵) (*) |
 | akebi no mi | 山姬之实 | 山姫の実 |  |
+| stardew valley | 星露谷物语 | 《星露谷物语》（英语：Stardew Valley）是一款由ConcernedApe开发，由呵呵鱼工作室于2016年发行的模拟类角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/星露谷物语) (*) |
+| tensei shitara slime datta ken | 关于我转生变成史莱姆这档事 | 《关于我转生变成史莱姆这档事》（日语：転生したらスライムだった件）是日本小说家伏瀬创作的网络小说系列，最初是发表于小说投稿网站成为小说家吧的网络连载小说，点阅次数1亿4000万多。2014年修改部分故事情节后，由微杂志社发行书籍版（原本在网络上的版本称为web版）。 | [维基百科](https://zh.wikipedia.org/zh-cn/關於我轉生變成史萊姆這檔事) (*) |
+| quiz rpg mahoutsukai to kuroneko no wiz | 黑猫维兹 | 《黑猫维兹》（韩语：퀴즈RPG 위즈，日语：クイズRPG 魔法使いと黒猫のウィズ，英语：Quiz RPG: The World of Mystic Wiz，港台译作“问答RPG 魔法使与黑猫维兹”）是日本开发的奇幻主题的问答类角色扮演游戏，对应Android和iOS平台。繁体中文版由so-net于2015年开始运营。  | [维基百科](https://zh.wikipedia.org/zh-cn/問答RPG_魔法使與黑貓維茲) (*) |
+| boku no dorei shoukan | 我的奴隶妓院 |  |  |
+| silent mobius | 魔法阵都市 | 《魔法阵都市》（日语：サイレントメビウス，英语：Silent Möbius）是日本漫画家麻宫骑亚在《月刊Comic Comp》（角川书店刊）从1988年开始连载 （途中移籍《月刊Comic Dragon》）的一部科幻漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法陣都市) (*) |
+| sora wo kakeru shoujo | 穿越宇宙的少女 | 《穿越宇宙的少女》（日语：宇宙をかける少女）是从2009年1月5日至6月29日开始在东京电视台播放的科幻电视动画。  | [维基百科](https://zh.wikipedia.org/zh-cn/穿越宇宙的少女) (*) |
+| cevio | CeVIO | CeVIO Creative Studio，是由名古屋工业大学初创企业Techno-Speech、电子看板制作公司V-SYNC以及动画制作公司Frontier Works等数家企业作为其所组成的专案，CeVIO，的其中一环而开发的语音合成软件。[3][4]输入音符、文字后便可发出类似于人类歌唱、说话的声音。同类软件有如VOCALOID、UTAU，但CeVIO Creative Studio除了有"唱歌"的功能外，还有可模拟人声"说话"的功能。  | [维基百科](https://zh.wikipedia.org/zh-cn/CeVIO_Creative_Studio) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

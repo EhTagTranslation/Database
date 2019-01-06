@@ -62,6 +62,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | catgirl | 猫女 | 有猫耳，可能有猫尾或其他猫的特征。 | |
 | centaur | 半人马 | 一半是人，一半是马。 | |
 | cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与巨乳配对。 | |
+| deer girl | 鹿女孩 | 有鹿或驯鹿的尾巴和角的女性。男性版本见鹿男孩(deer boy)。 | |
 | demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与恶魔(demon)或鬼(oni)标签混淆。恶魔女孩不应该被标记为怪物女孩(monster girl)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)标签。<br>![图](http://exhentai.org/t/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg)![图](http://exhentai.org/t/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg)![图](http://exhentai.org/t/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg)![图](http://exhentai.org/t/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg) | |
 | dog girl | 狗女孩 | 有狗耳朵或狗尾巴的女性。 | |
 | draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 | |
@@ -191,8 +192,9 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 | |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) | |
-| prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
+| pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。 | |
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用双马尾(twintails)。 | |
+| prehensile hair | 抓握发 | 一个拥有像肢体一样控制她的头发的能力的角色。 | |
 | shaved head | 光头 | 只有发茬的头部。不应与秃顶(bald)混淆。 | |
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与马尾辫(ponytail)混淆。 | |
 | | === 头部 > 思维 === | | |
@@ -217,6 +219,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | eye penetration | 插入眼睛 | 在眼或眼窝性交。不应与眼射(cum in eye)混淆。<br>![恶](http://exhentai.org/t/90/f5/90f54422ff4f0475452436960a98aadadc788386-101291-800-600-jpg_250.jpg)![恶](http://exhentai.org/t/e3/cb/e3cb554e3f7c00b4dce5e48008e2f5d57a60a115-57627-600-436-jpg_l.jpg)![恶](http://exhentai.org/t/bc/cd/bccd434adb287c0bbd7cb9ef1da47b191c5fbd60-609804-381-600-png_l.jpg) | |
 | eyemask | 眼部面具 | 覆盖眼睛周围区域但露出其余脸部的面具。 | |
 | eyepatch | 眼罩 | 覆盖一只眼睛的布或其他材料。 | |
+| fishnets | 渔网 | 由一种带有开口菱形针织物的图案制成的服装。必须在至少一半的躯干或身体四肢（例如大腿，前臂等）上可见。 | |
 | glasses | 眼镜👓 | 用于改善双眼的视力的透明框架眼镜。需要佩戴在眼前才能添加此标签。不应与太阳镜(sunglasses)混淆。 | |
 | heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰地在整个画廊保持这种特点。<br>![图](http://exhentai.org/t/76/30/7630dfa09dd71f8c7050d26f172bb84319bee875-3327854-2045-3025-jpg_l.jpg)![图](http://exhentai.org/t/ad/a9/ada91cd7292b5c4aa6923db0236deb85413ca5b8-10533332-8483-12000-jpg_l.jpg) | |
 | monoeye | 独眼 | 一个单眼的人形角色。 一个双眼的人物因为任何原因失去了眼睛（除了变身(transformation)）不符合条件。需要怪物女孩(monster girl)或外星女(alien girl)标签。 | |
@@ -405,6 +408,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | ponygirl | 小马女 | 戴着鞍具的女人，比如韁、马眼罩、靮以及马尾。可能被骑着或以其他方式像动物一样对待。可能是调教(bdsm)或束缚(bondage)的一环。有可能需要口塞(gag)或人宠(human pet)标签。不应与马女孩(horse girl)混淆。 | |
 | race queen | 赛车女郎 | 一个紧身的，通常是暴露的制服，印有公司标志。可能是连体紧身衣(bodysuit)或乳胶紧身衣(latex)。 | |
 | randoseru | 书包 | 由皮革或皮革般的合成材料制成的背包，常用于小学生。 | |
+| sarashi | 缠胸布 | 缠胸布（日语：晒/さらし），围绕胃/胸部区域的长绷带状布料。对于女性来说，它通常覆盖胸部。需要绷带(bandages)标签。 | |
 | schoolboy uniform | 男生制服 | 女生制服的(schoolgirl uniform)男性版本。需要异性装(crossdressing)标签。 | |
 | schoolgirl uniform | ![水手服](http://wx3.sinaimg.cn/large/6c84b2d6gy1fjkulh01nxg200d00c033.gif)女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。 | |
 | scrotal lingerie | 阴囊袋 | 穿在阴茎或阴囊上的色情衣物。 | |

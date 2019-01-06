@@ -1415,8 +1415,19 @@
 | fuka fuka | 不可不可 | | |
 | suzuki dogezaemon | 铃木土下座卫门 | | |
 | anrakugai | 安乐街 | | |
+| nurumayu | ぬるま湯 | | |
+| urasekai 2 | 里世界2 | | |
+| yanyanyo | やんやんよ | | |
+| fuzukikai | 文月会 | | |
+| wanwan bakufu | わんわん幕府 | | |
+| yamitsuki honpo | やみつき本舗 | | |
+| studio kfc | Studio KFC | | |
+| atelier maso | アトリエマゾ | | |
+| hachigo | ハチゴ | | |
+| miyakoochi partisan | 都落ちPartisan | | |
 | | ▲ 同人社团 | | |
 | | ▼ GAL公司 | | |
+| clockup | CLOCKUP |  | [官方网站](http://clockup.net/) |
 | guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
 | guilty plus | Guilty+ | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
 | guilty ex | Guilty eX | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |

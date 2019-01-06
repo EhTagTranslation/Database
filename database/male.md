@@ -59,6 +59,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | catboy | 猫男 | 猫女(catgirl)的男性版本。 | |
 | centaur | 半人马 | 一半是人，一半是马。 | |
 | cowman | 牛男 | 牛女孩(cowgirl)的男性版本，不要与牛(bull)混淆。 | |
+| deer boy | 鹿男孩 | 鹿女孩(deer girl)的男性版本。 | |
 | demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与恶魔女孩(demon girl)或鬼(oni)标签混淆。恶魔不应该被标记为怪物(monster)。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为翅膀(wings)标签。<br>![图](http://exhentai.org/t/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg)![图](http://exhentai.org/t/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg) | |
 | dog boy | 狗男孩 | 狗女孩(dog girl)的男性版本。 | |
 | draenei | 德莱尼 | 魔兽世界(world of warcraft)的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 | |
@@ -182,6 +183,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 | |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | |脸部的塑料面罩，包括呼吸管或过滤器。 | |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](http://exhentai.org/t/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg)![图](http://exhentai.org/t/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg)![图](http://exhentai.org/t/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg)![图](http://exhentai.org/t/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg) | |
+| pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。不适用于男性，除非他们是伪娘(tomgirl)或异性装(crossdressing)。 | |
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用双马尾(twintails)。 | |
 | shaved head | 光头 | 只有发茬的头部。不应与秃顶(bald)混淆。 | |
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与马尾辫(ponytail)混淆。 | |
@@ -206,6 +208,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | eye penetration | 插入眼睛 | 在眼或眼窝性交。不应与眼射(cum in eye)混淆。<br>![恶](http://exhentai.org/t/90/f5/90f54422ff4f0475452436960a98aadadc788386-101291-800-600-jpg_250.jpg)![恶](http://exhentai.org/t/e3/cb/e3cb554e3f7c00b4dce5e48008e2f5d57a60a115-57627-600-436-jpg_l.jpg)![恶](http://exhentai.org/t/bc/cd/bccd434adb287c0bbd7cb9ef1da47b191c5fbd60-609804-381-600-png_l.jpg) | |
 | eyemask | 眼部面具 | 覆盖眼睛周围区域但露出其余脸部的面具。 | |
 | eyepatch | 眼罩 | 覆盖一只眼睛的布或其他材料。 | |
+| fishnets | 渔网 | 由一种带有开口菱形针织物的图案制成的服装。必须在至少一半的躯干或身体四肢（例如大腿，前臂等）上可见。 | |
 | glasses | 眼镜👓 | 用于改善双眼的视力的透明框架眼镜。需要佩戴在眼前才能添加此标签。不应与太阳镜(sunglasses)混淆。 | |
 | heterochromia | 异色瞳 | 一个人的虹膜是不同颜色。仅单张图片不符合，角色需要清晰地在整个画廊保持这种特点。<br>![图](http://exhentai.org/t/5c/5c/5c5c37c1c0c5bb0f09caece9f55ee6e93367100b-74835-640-929-jpg_l.jpg)| |
 | monoeye | 独眼 | 一个单眼的人形角色。 一个双眼的人物因为任何原因失去了眼睛（除了变身(transformation)）不符合条件。需要怪物(monster)或外星人(alien)标签。 | |
@@ -375,6 +378,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | pirate | 海盗服 | 海盗服装。通常有背心和带角帽子或头巾。通常有一条皮带、马裤、有膨化的袖子的紧身背心。 | |
 | policeman | 警服 | 典型的警察制服。通常有徽章，衬衫上的小袋子和枪套。 | |
 | randoseru | 书包 | 由皮革或皮革般的合成材料制成的背包，常用于小学生。 | |
+| sarashi | 缠胸布 | 缠胸布（日语：晒/さらし），围绕胃/胸部区域的长绷带状布料。对于男性来说，它通常覆盖胃部。需要绷带(bandages)标签。 | |
 | schoolboy uniform | 男生制服 | 女生制服的(schoolgirl uniform)男性版本。 | |
 | schoolgirl uniform | 女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。需要异性装(crossdressing)标签。 | |
 | scrotal lingerie | 阴囊袋 | 穿在阴茎或阴囊上的色情衣物。 | |

@@ -447,6 +447,8 @@
 | hammann | 哈曼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:哈曼) |
 | mikasa | 三笠 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:三笠) |
 | st. louis | 圣路易斯 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:圣路易斯) |
+| san diego | 圣地亚哥 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:圣地亚哥) |
+| long island | 长岛 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:长岛) |
 | javelin | 标枪 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:标枪) |
 | nelson | 纳尔逊 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:纳尔逊) |
 | rodney | 罗德尼 | | [萌娘百科](https://zh.moegirl.org/碧蓝航线:罗德尼) |
@@ -912,6 +914,7 @@
 | winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) | |
 | sombra | 黑影 | | |
 | ana | 安娜 | | |
+| ashe | 艾什 | | |
 | |  ▼ 光环 角色 | | |
 | cortana | 科塔娜 | ![](https://exhentai.org/t/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg) | |
 | |  ▼ 半衰期 角色 | | |
@@ -930,7 +933,7 @@
 | roswaal l. mathers | 罗兹瓦尔·L·梅札斯 | ![罗兹瓦尔·L·梅札斯](https://img.moegirl.org/common/thumb/2/2f/%E7%BD%97%E5%85%B9%E7%93%A6%E5%B0%94%C2%B7L%C2%B7%E6%A2%85%E6%9C%AD%E6%96%AF.jpg/250px-%E7%BD%97%E5%85%B9%E7%93%A6%E5%B0%94%C2%B7L%C2%B7%E6%A2%85%E6%9C%AD%E6%96%AF.jpg) | |
 | otto suewen | 奥托·苏文 | ![奥托·苏文](https://exhentai.org/t/c8/e7/c8e701fac4ff3135e5e67bf4d05efa5d3eea590a-412310-796-1200-jpg_l.jpg) | |
 | julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](https://exhentai.org/t/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg) | |
-| elsa granhilte | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](https://exhentai.org/t/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg) | |
+| elsa granhiert | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](https://exhentai.org/t/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg) | |
 | |  ▼ 路人女主的养成方法 角色 | | |
 | tomoya aki | 安艺伦也 | | |
 | megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/t/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) | |
@@ -1063,6 +1066,10 @@
 | hajime shinoda | 篠田初 | ![篠田初](http://exhentai.org/t/ee/4e/ee4e99177812131745a90b7562dc0639cd710323-827430-1075-1522-jpg_l.jpg) | |
 | yun iijima | 饭岛结音 | ![饭岛结音](http://exhentai.org/t/c0/c8/c0c87235851c710194d4fd379cc32bb9301457ba-153915-1050-1492-jpg_l.jpg) | |
 | shizuku hazuki | 叶月雫 | ![叶月雫](http://ehgt.org/t/ae/8c/ae8c37b359b3dc54599ab002ec4d087b375ead3e-917307-2733-3917-jpg_l.jpg) | |
+| momiji mochizuki | 望月红叶 | | |
+| nene sakura | 樱宁宁 | | |
+| umiko ahagon | 阿波根海子 | | |
+| yamato christina wako | 大和·克莉丝汀·和子 | | |
 | | ▼ 白箱 角色 | | |
 | aoi miyamori | 宫森葵 | ![宫森葵](http://ehgt.org/t/09/7f/097fd5fac6a50f5a5c11d85324fae9ba0fa65b30-1033595-2871-4089-jpg_l.jpg) | |
 | ema yasuhara | 安原绘麻 | ![安原绘麻](http://ehgt.org/t/b2/76/b27655e9877933260c4bfc06cd6abbc64e409257-1125551-2519-3600-jpg_l.jpg) | |
@@ -1187,6 +1194,8 @@
 | akane kotonoha | 琴叶茜 | | |
 | aoi kotonoha | 琴叶葵 | | |
 | zunko tohoku | 东北俊子 | | |
+| | ▼ CeVIO 角色 | | |
+| tsudumi suzuki | 铃木梓梓弥 | | |
 | | ▼ 樱花庄的宠物女孩 角色 | | |
 | sorata kanda | 神田空太 | | |
 | mashiro shiina | 椎名真白 | | |
@@ -1718,6 +1727,7 @@
 | berserker | Berserker | 指第五次圣杯战争中的 Berserker。其他情况使用真名。 | |
 | lancelot | 兰斯洛特 | | |
 |  | Rider | （重复项）指第五次圣杯战争中的 Rider。其他情况使用真名。 | |
+| sitonai | 志度内 | | |
 | iskandar | 伊斯坎达尔 | | |
 | caster | Caster | 指第五次圣杯战争中的 Caster。其他情况使用真名。 | |
 | gilles de rais | 吉尔·德·莱斯 | | |
