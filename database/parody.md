@@ -331,7 +331,7 @@
 | kamen rider 555 | 假面骑士555 | | |
 | kamen rider shin | 真·假面骑士 | | |
 |  | ▲假面骑士 系列 | | |
-| kaiji | 赌博默示录 | | |
+| kaiji | 赌博默示录 | 逆境无赖 | |
 | my hero academia | 我的英雄学院 | | |
 | shinmai maou no testament | 新妹魔王的契约者 | | |
 | youjo senki | 幼女战记 | | |
@@ -379,7 +379,7 @@
 | sora no woto | 空之音 | | |
 | occult academy | 世纪末超自然学院 | | |
 | gatchaman crowds | 科学小飞侠Crowds | | |
-| saya no uta | 沙耶之歌 | | |
+| saya no uta | 沙耶之歌 | 虚渊玄成名之作，克苏鲁元素甚多。 | |
 | vividred operation | 绯色战姬 | | |
 | kodomo no jikan | 萝莉的时间 | | |
 | shuffle | Shuffle! | | |
@@ -399,14 +399,14 @@
 | queens blade | 女王之刃 | | |
 | sekirei | 鹡鸰女神 | | |
 | yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | | |
-| blazblue | 苍翼默示录 | | |
+| blazblue | 苍翼默示录 | 唯美的格斗游戏系列，主要是游戏机平台 | |
 | frame arms girl | 机甲少女 | | |
 | busou shinki | 武装神姬 | | |
-| bayonetta | 猎天使魔女 | | |
-| devil may cry | 鬼泣 | | |
+| bayonetta | 猎天使魔女 | 三大ACT之一，任天堂独占系列。 | |
+| devil may cry | 鬼泣 | 制作生化危机时走错方向的意外作品。 | |
 | tekken | 铁拳 | | |
-| super mario brothers | 超级马里奥兄弟 | | |
-| spider-man | 蜘蛛侠 | | |
+| super mario brothers | 超级马里奥兄弟 |  | |
+| spider-man | 蜘蛛侠 | 穷人靠变异系列的典范。 | |
 | gunsmith cats | 猫眼女枪手 | | |
 | puzzle and dragons | 智龙迷城 | | |
 | senki zesshou symphogear | 战姬绝唱Symphogear | | |
@@ -456,7 +456,7 @@
 | ikkitousen | 一骑当千 | | |
 | g.i. joe | 特种部队 | | |
 | metroid | 银河战士 | | |
-| metal gear solid | 合金装备 | | |
+| metal gear solid | 合金装备 | 最伟大的游戏系列之一，金牌制作人小岛秀夫，原官方译名为潜龙谍影。 | |
 | tomb raider | 古墓丽影 | | |
 | xena warrior princess | 战士公主西娜 | | |
 | the fifth element | 第五元素 | | |
@@ -515,7 +515,7 @@
 | vampire princess miyu | 吸血姬美夕 | | |
 | reco love | 真爱记录 | | |
 | spice and wolf | 狼与香辛料 | | |
-| youkai watch | 妖怪手表 | | |
+| youkai watch | 妖怪手表 | 是LEVEL-5开发的全年龄任天堂3DS游戏，人气非常高，可以说是第二个精灵宝可梦。 | |
 | battle programmer shirase | 战争程序员白濑 | | |
 | kung fu panda | 功夫熊猫 | | |
 | star vs. the forces of evil | 星蝶公主 | | |
@@ -523,7 +523,7 @@
 | wakfu | 沃土 | | |
 | wander over yonder | 宇宙小奇兵 | | |
 | batman | 蝙蝠侠 | | |
-| resident evil | 生化危机 | | |
+| resident evil | 生化危机 | 台湾译作“恶灵古堡”，由日本卡普空公司推出，以恐怖惊悚与第三人称射击为主要内容。 | |
 | kim possible | 麻辣女孩 | | |
 | jinrui wa suitai shimashita | 人类衰退之后 | | |
 | miss machiko | 真知子老师 | | |
@@ -539,7 +539,7 @@
 | full moon wo sagashite | 寻找满月 | 星河满月 | |
 | full metal daemon muramasa | 装甲恶鬼村正 | | |
 | futsuu no joshikousei ga locodol yattemita. | 普通女高中生要做当地偶像 | | |
-| fallout | 辐射 | | |
+| fallout | 辐射 | 真空管朋克+后启示录+黑色幽默的游戏系列 | |
 | fancy lala | 梦幻拉拉 | | |
 | final fight | 快打旋风 | | |
 | beauty and the beast | 美女与野兽 | | |
@@ -574,7 +574,7 @@
 | shimoneta to iu gainen ga sonzai shinai taikutsu na sekai | 下流梗不存在的灰暗世界 | | |
 | kyonyuu fantasy | 巨乳幻想 | | |
 | puyo puyo | 噗哟噗哟 | 魔法气泡 | |
-| kaku-san-sei million arthur | 扩散性百万亚瑟王 | | |
+| kaku-san-sei million arthur | 扩散性百万亚瑟王 | 一直被模仿，〇〇被超越。由SE带来的手游冲击游戏机的风向。 | |
 | genji tsuushin agedama | 电脑小奇侠 | | |
 | dennou coil | 电脑线圈 | | |
 | god eater | 噬神者 | | |
