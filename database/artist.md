@@ -30,7 +30,7 @@
 | pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>萌单作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | |
 | oouso | 大嘘 | ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gy1fjkes482gzj204q04qmxx.jpg)<br>袜控，尻控，女子高中生(误)画家。<br>![大嘘作品](http://ul.ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) | [pixiv](https://www.pixiv.net/member.php?id=457541) |
 | peko | ぺこ | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](http://ul.ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) | |
-| akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>貌似也是袜控，和大嘘风格不一样<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) | |
+| akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>Akaza，袜控，腿型很美<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) | |
 | ishikei | 石惠 | ![石惠头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ymxa507xj205k05kjrm.jpg)<br>浓墨厚涂榨汁机<br>![石惠作品](http://exhentai.org/t/38/39/3839a8f9171d1c67415b50c99333d553be404083-1416172-2000-2837-jpg_250.jpg) | |
 | endou hiroto | 远藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>浓墨厚涂榨汁机2<br>![遠藤弘土作品](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_250.jpg) | |
 | happoubi jin | 八宝备仁 | 八宝備仁(はっぽうび じん) <br> ![骨感瘦弱却又是榨汁机](http://ul.ehgt.org/3e/1b/3e1b7e0a6b943bf2f1fd28cba702c916ee0337b3-396466-500-715-jpg_250.jpg) | |
@@ -90,7 +90,7 @@
 | amamiya mizuki | 雨宮ミズキ | | |
 | mibu natsuki | みぶなつき | | |
 | ogata zen | 尾形全 | | |
-| himura kiseki | 比村奇石 | | |
+| himura kiseki | 比村奇石 | 比村乳业<br>![图](# "http://ehgt.org/3e/5b/3e5b96dd2f364ba9cc06d2e16769b25f10e66362-1755259-1020-1530-jpg_l.jpg")![图](# "http://ehgt.org/32/90/32903c2f738252dcfc74b875572d893a2e3693f0-2947291-2133-3033-jpg_l.jpg")![图](# "http://ehgt.org/0a/0a/0a0a41cb451363706eec08155323917811d940fb-886627-2116-3042-jpg_l.jpg") | |
 | cle masahiro | 呉マサヒロ | | |
 | nakajima yuka | なかじまゆか | | |
 | fujima takuya | 藤真拓哉 | | |
@@ -1653,7 +1653,7 @@
 | hige masamune | ひげ政宗 | | |
 | h2o | H2O | | |
 | kekemotsu | けけもつ | | |
-| yom | よむ | | |
+| yom | よむ | 专画偏真实系黑丝<br>![图](# "http://ehgt.org/61/11/6111588f639b42e92f7d5a7a88b520b615a77a28-1498312-1357-1920-jpg_l.jpg")![图](# "http://ehgt.org/0f/a2/0fa29862fe4ef0132018a8b865df2ddaa5d97c98-215069-1040-1500-jpg_l.jpg")![图](# "http://ehgt.org/6a/04/6a04113c83120dfaa12a76c551a17b8bc7ffbe82-11847694-2490-3520-png_l.jpg") | |
 | yuzugin | 柚银 | | |
 | akatsuki hiziri | あかつき聖 | | |
 | chig | Chig | | |

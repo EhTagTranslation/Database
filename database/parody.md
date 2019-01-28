@@ -198,7 +198,7 @@
 | fate grand order | Fate/Grand Order | ![](http://ehgt.org/t/fd/bc/fdbc261c70b52baa032b35ecf2bad5e93080a749-199788-280-479-jpg_l.jpg) | |
 | fate stay night | Fate/stay night | ![](http://ehgt.org/t/45/f9/45f9e306b18cae6a9465228be8aff270a24f6c79-468080-900-1293-png_l.jpg) | |
 | fate apocrypha | Fate/Apocrypha | ![](http://ehgt.org/t/43/dc/43dc39bdc54c843b8a806b3f2f71069d316e04e8-3794023-2147-3018-jpg_l.jpg) | |
-| fate zero | Fate/Zero | ![](http://ehgt.org/t/b7/ff/b7ff35a134b6a89fbffd80da29bcf4d8709c7470-754518-1723-1200-jpg_l.jpg) | |
+| fate zero | Fate/Zero | Fate/stay night前传<br>![图](http://ehgt.org/ef/f6/eff66d2ba324dc440abd2690fa3bd2682f9b3610-1123388-1472-2217-jpg_l.jpg) | |
 | fate hollow ataraxia | Fate/hollow ataraxia | ![](http://ehgt.org/t/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) | |
 | fate extra | Fate/EXTRA | ![](http://ehgt.org/t/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | |
 | fate extella | Fate/EXTELLA | 《Fate/EXTELLA》是由Marvelous制作发行的一款ACT游戏，于2016年11月10日登陆PS4/PSV，亚洲中韩文合版于2016年12月15日发售。并于2017年7月20日登陆Nintendo Switch，且内置索尼互动娱乐台湾中文化中心翻译的繁体中文语言。2017年7月26日，在Steam平台发售PC版，内置繁体中文语言，并开放DLC（皮肤）购买。 | |
