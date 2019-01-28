@@ -740,8 +740,8 @@
 | atelier series | 炼金工作室 | 《炼金工作室系列》（日语：アトリエシリーズ；英语：Atelier (series)）是由GUST制作的系列游戏。  | |
 | atelier marie | 玛莉的工作室 | 《炼金工作室系列》A1 | |
 | atelier elie | 艾莉的工作室 | 《炼金工作室系列》A2 | |
-| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6~A8 | |
-| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9~A10 | |
+| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6\~A8 | |
+| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9\~A10 | |
 | atelier rorona | 罗罗娜的工作室 | 《炼金工作室系列》A11 | |
 | atelier totori | 托托莉的工作室 | 《炼金工作室系列》A12 | |
 | atelier meruru | 梅露露的工作室 | 《炼金工作室系列》A13 | |
