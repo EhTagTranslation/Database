@@ -243,7 +243,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | kissing | 接吻💏 | 两个人的嘴唇在一起的行为，也可能将他们的舌头移动到彼此的嘴里或吮吸它们。 | |
 | long tongue | 长舌👅 | 舌头的长度应至少能够从嘴伸到人的眉毛。 | |
 | piss drinking | 饮尿 | 需要排尿(urination)标签。 | |
-| rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。 | |
+| rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。<br>![图](# "http://ehgt.org/4d/f3/4df3b442abf4c23e4e906bd43adb7014e4f4ac8a-16234462-6810-4794-png_l.jpg") | |
 | saliva | 唾液 | 将相当数量的口腔分泌物用于性目的。舔食或吐痰不算在内。 | |
 | smoking | 吸烟🚬 | 一种物质（通常是烟草）被点燃，其烟雾在性行为期间被品尝或吸入。性行为前后的吸烟不算在内。 | |
 | tooth brushing | 刷牙 | 通过刷牙使性觉醒。 | |
