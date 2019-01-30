@@ -228,7 +228,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | gokkun | 饮精 | 喝下精液。在口交(blowjob)后进行的此行为不被包含在内，必须单独发生。<br>![图](http://exhentai.org/t/77/92/7792cf36262a0ed3b5d93710439162b108d33ef9-3988229-1200-1695-png_l.jpg) | |
 | kissing | 接吻💏 | 两个人的嘴唇在一起的行为，也可能将他们的舌头移动到彼此的嘴里或吮吸它们。 | |
 | long tongue | 长舌👅 | 舌头的长度应至少能够从嘴伸到人的眉毛。 | |
-| piss drinking | 饮尿 | 需要排尿(urination)标签。 | |
+| piss drinking | 饮尿 | 需要排尿(urination)标签。<br>![图](# "http://ehgt.org/fd/cf/fdcf01961161b39aab0d387aea78eba12b3df6c6-6305989-4122-6052-jpg_l.jpg") | |
 | rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。<br>![图](# "http://ehgt.org/c0/ac/c0ac00407728601a1928be03f0fff314b08e0884-493476-1024-576-png_l.jpg") | |
 | saliva | 唾液 | 将相当数量的口腔分泌物用于性目的。舔食或吐痰不算在内。 | |
 | smoking | 吸烟🚬 | 一种物质（通常是烟草）被点燃，其烟雾在性行为期间被品尝或吸入。性行为前后的吸烟不算在内。 | |
