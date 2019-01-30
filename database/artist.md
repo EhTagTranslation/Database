@@ -2363,6 +2363,7 @@
 | wise speak | ワイズスピーク | | |
 | ayamy | あやみ | | |
 | cekonikova | Cekonikova（ぐらら） | | |
+| ke-ta | ke-ta | 以东方二次创作为主的画师<br>![图](http://ehgt.org/1d/e4/1de424720c0e3c02cdff19face97f0a95744da7e-2188273-3492-2496-jpg_l.jpg)![图](http://ehgt.org/de/2b/de2be791d9789ebf27b304af9ff1d53bf58a82b2-4298976-2412-3424-jpg_l.jpg)![图](# "http://ehgt.org/c5/d5/c5d5f4dfc1ee3ab5e1120397c15e3233aa2941a9-3630806-1500-2127-png_l.jpg")![图](# "http://ehgt.org/d0/56/d05690320d78087717d2f2c8306e5b7b7f83d3f6-3951250-3468-2468-jpg_l.jpg")![图](# "http://ehgt.org/cc/1c/cc1c17b9f529c3705495ecd3785c909adf3944f2-1968325-3492-2496-jpg_l.jpg")![图](# "http://ehgt.org/33/20/3320be9c6e0a5b686a233ae01a315f466a0b2468-3887835-6874-4919-jpg_l.jpg")![图](# "http://ehgt.org/c8/a0/c8a0ba9712c84840f2afecc37d3e4553a6afca4f-5639177-6618-4926-jpg_l.jpg")![图](# "http://ehgt.org/3c/78/3c7859ba7478962b24f099f1c22d668ad553cf76-5286635-6611-4934-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=3104565) |
 
 <!--TEMPLATE: 
 |  |  | | |
