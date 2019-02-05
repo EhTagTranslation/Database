@@ -25,3 +25,4 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | western | 西方的 | 西方起源的所有色情艺术，包括图像或漫画。 |  |
 | private | 私人的 | 私人画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要成为自己的个人用户画廊，他们只是希望自己的朋友前来参观。 |  |
 | test |  |  |  |
+| test2 |  |  |  |
