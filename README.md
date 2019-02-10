@@ -53,15 +53,16 @@
 #### 获取数据库内容
 
 请使用 Github Release。
-``` powershell
-function getDownloadLink([string] $owner, [string] $repo, [string] $filename)
+``` js
+async function getDownloadLink(owner, repo, filename)
 {
-    $info = (Invoke-WebRequest "https://api.github.com/repos/$owner/$repo/releases/latest" -UseBasicParsing) | ConvertFrom-Json
-    $asset = $info.assets | Where-Object { $_.name -eq $filename }
-    return $asset.browser_download_url
+    const uri = `https://api.github.com/repos/${owner}/${repo}/releases/latest`;
+    const info = await (await fetch(uri)).json();
+    const asset = info.assets.find(i => i.name === filename);
+    return asset.browser_download_url;
 }
-
-Invoke-WebRequest (getDownloadLink 'ehtagtranslation' 'Database' 'db.json') -OutFile "db.json"
+const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.json');
+const db =  await (await fetch(resourceUrl)).json();
 ```
 
 也可以使用 git 或 Github API 直接获取 MarkDown 并自行解析。
