@@ -35,7 +35,6 @@
 
 * [E-Viewer](https://github.com/OpportunityLiu/E-Viewer)  
   ![][plat-uwp]  
-
   An UWP Client for <https://e-hentai.org>.
 
 * [EhViewer](https://github.com/seven332/EhViewer)  
