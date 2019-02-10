@@ -72,7 +72,7 @@
 
 示例： 
 ```markdown
-| oyari ashito | 大枪苇人 | ![头像](http://tva1.sinaimg.cn/crop.1.0.945.945.180/006vdozLgw1f6k9m4eu8kj30qf0qgtem.jpg) | [个人主页](https://oyariashito.net) [微博](http://weibo.com/oyariashito) |
+| oyari ashito | 大枪苇人 | | [个人主页](https://oyariashito.net) [微博](http://weibo.com/oyariashito) |
 ```
 
 ### 推荐性建议
