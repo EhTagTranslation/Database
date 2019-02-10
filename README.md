@@ -42,7 +42,7 @@
   ![][plat-android]  
   An Unofficial E-Hentai Application for Android.
 
-* [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)
+* [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
   ![][plat-ios]  
   一個普通的看漫畫 App。
   
