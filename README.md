@@ -9,7 +9,7 @@
 
 ## 参与翻译
 
-请参考[参与翻译](CONTRIBUTE.md)。
+请参考[参与翻译](CONTRIBUTING.md)。
 
 ## 使用翻译
 
@@ -17,15 +17,44 @@
 
 一般用户可通过以下项目使用本数据库的翻译，也可以通过这些项目向本数据库贡献翻译内容。
 
-* [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)![][plat-web]
+* [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)
+  
+  ![][plat-web]
 
-* [EhTagSyringe](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagSyringe)![][plat-web]
+  EhTagBuilder 简称 "ETB"。
 
-* [E-Viewer](https://github.com/OpportunityLiu/E-Viewer)![][plat-uwp]
+  翻译实现方式：ETB 先获取 Wiki 数据库网页，获得翻译数据，生成对应格式的 CSS 代码，再由 Stylus 扩展附加到 E 绅士网页上。
 
-* [EhViewer](https://github.com/seven332/EhViewer)![][plat-android]
+* [EhTagSyringe](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagSyringe)
+  
+  ![][plat-web]
 
-* [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)![][plat-web]
+  将 E 绅士标签翻译成中文，并注入到E站体内
+
+  EhTagSyringe 是 EhTagTranslator 主项目下走功能全面、开箱即用路线的子项目。
+
+  按照 EhTagTranslator 思路，重新编写并内置样式注入器,并增加一些方便的功能
+
+  >  H 是人类的第一生产力
+
+
+* [E-Viewer](https://github.com/OpportunityLiu/E-Viewer)
+  
+  ![][plat-uwp]
+
+  An UWP Client for https://e-hentai.org
+
+* [EhViewer](https://github.com/seven332/EhViewer)
+  
+  ![][plat-android]
+
+  An Unofficial E-Hentai Application for Android <http://www.ehviewer.com/>.
+
+* [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)
+  
+  ![][plat-ios]
+
+  一个 E-Hentai 的 iOS 端阅读器。
   
 ### 开发者
 
@@ -33,7 +62,7 @@
 
 请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector)。
 
-[plat-web]: https://img.shields.io/badge/platform-web-lightgrey.svg
+[plat-web]: https://img.shields.io/badge/platform-web-red.svg
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg
-[plat-uwp]: https://img.shields.io/badge/platform-UWP-lightgrey.svg
-[plat-android]: https://img.shields.io/badge/platform-Android-lightgrey.svg
+[plat-uwp]: https://img.shields.io/badge/platform-UWP-blue.svg
+[plat-android]: https://img.shields.io/badge/platform-Android-brightgreen.svg
