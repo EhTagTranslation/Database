@@ -3,9 +3,9 @@
 
 ## 协议
 
-**数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](LICENSE.md)下提供，附加条款亦可能应用。**
+数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](LICENSE.md)下提供，附加条款亦可能应用。
 
-**数据库内容归全体编辑者共同所有，在本项目里发布内容即表示您允许将您编辑的内容无偿且自由地使用到 EhTagTranslation 中。**
+数据库内容归全体编辑者共同所有，在本项目里发布内容即表示您允许将您编辑的内容无偿且自由地使用到 EhTagTranslation 的各下游项目中。
 
 ## 参与翻译
 
@@ -43,7 +43,7 @@
 * [EhViewer](https://github.com/seven332/EhViewer)  
   ![][plat-android]
 
-  An Unofficial E-Hentai Application for Android <http://www.ehviewer.com/>.
+  An Unofficial E-Hentai Application for Android.
 
 * [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![][plat-ios]
