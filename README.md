@@ -43,7 +43,7 @@
 * [EhViewer](https://github.com/seven332/EhViewer)  
   ![][plat-android]
 
-  An Unofficial E-Hentai Application for Android <http://www.ehviewer.com/>.
+  An Unofficial E-Hentai Application for Android.
 
 * [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![][plat-ios]
