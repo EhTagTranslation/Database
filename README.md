@@ -3,13 +3,13 @@
 
 ## 协议
 
-数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](LICENSE.md)下提供，附加条款亦可能应用。
+数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](.GitHub/LICENSE.md)下提供，附加条款亦可能应用。
 
 数据库内容归全体编辑者共同所有，在本项目里发布内容即表示您允许将您编辑的内容无偿且自由地使用到 EhTagTranslation 的各下游项目中。
 
 ## 参与翻译
 
-请参考[参与翻译](CONTRIBUTING.md)。
+请参考[参与翻译](.GitHub/CONTRIBUTING.md)指南。
 
 ## 使用翻译
 
@@ -48,11 +48,11 @@
   
 ### 开发者
 
-允许第三方使用本项目数据库，但请使用的项目提交一份附上项目的简介或地址的 Issue。
+下游项目使用本项目数据库前，请在本项目提交一份附上项目的简介或地址的 Issue。
 
 #### 获取数据库内容
 
-请使用 Github Release。
+推荐使用 Github Release。以下为 node 代码示例。
 ``` js
 async function getDownloadLink(owner, repo, filename)
 {
@@ -65,11 +65,11 @@ const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.js
 const db =  await (await fetch(resourceUrl)).json();
 ```
 
-也可以使用 git 或 Github API 直接获取 MarkDown 并自行解析。
+也可以使用 git 或 Github API 直接获取 MarkDown 并自行解析，此时需要注意 [version](version) 文件表明的数据库结构版本。
 
 #### 编辑数据库内容
 
-请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector)。
+请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector) 及本项目[参与翻译](.GitHub/CONTRIBUTING.md)指南。
 
 [plat-web]: https://img.shields.io/badge/platform-web-red.svg
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg
