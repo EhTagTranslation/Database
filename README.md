@@ -54,6 +54,25 @@
 
 **允许第三方使用本项目数据库，但请使用的项目提交一份附上项目的简介或地址的 Issue。**
 
+#### 获取数据库内容
+
+请使用 Github Release。
+
+``` powershell
+function getDownloadLink([string] $owner, [string] $repo, [string] $filename)
+{
+    $info = (Invoke-WebRequest "https://api.github.com/repos/$owner/$repo/releases/latest" -UseBasicParsing) | ConvertFrom-Json
+    $asset = $info.assets | Where-Object { $_.name -eq $filename }
+    return $asset.browser_download_url
+}
+
+Invoke-WebRequest (getDownloadLink 'ehtagtranslation' 'Database' 'db.json') -OutFile "db.json"
+```
+
+也可以使用 git 或 Github API 直接获取 MarkDown 并自行解析。
+
+#### 编辑数据库内容
+
 请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector)。
 
 [plat-web]: https://img.shields.io/badge/platform-web-red.svg
