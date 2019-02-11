@@ -24,4 +24,3 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | misc | 杂项 | 不符合任何其他类别的画廊。包含 3D(3d) 画廊、非色情的西方画廊、手办(figure)画廊、纸片人(paperchild)画廊、充气娃娃(real doll)画廊等。从这些画廊获得的 GP 数量减少到上传者通常会收到的 25％。 |  |
 | private | 私人的 | 私人画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要将其作为自己的个人用户画廊，或只是希望自己的朋友前来参观。从私人画廊获得的GP数量减少到上传者通常会收到的金额的10％。要创建私人图库，用户必须拥有铜星或更高星级。 |  |
 | asianporn | 亚洲色情 | 将被淘汰的老分类，2012-02-15 开始禁止使用，会逐渐删除。 |  |
-| test | test |  |  |
