@@ -64,6 +64,7 @@ async function getDownloadLink(owner, repo, filename)
     const asset = info.assets.find(i => i.name === filename);
     return asset.browser_download_url;
 }
+// 也可获取经过 gzip 压缩的 `db.json.gz`
 const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.json');
 const db =  await (await fetch(resourceUrl)).json();
 ```
