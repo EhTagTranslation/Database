@@ -35,13 +35,16 @@
 
 * [E-Viewer](https://github.com/OpportunityLiu/E-Viewer)  
   ![][plat-uwp]  
-
   An UWP Client for <https://e-hentai.org>.
 
 * [EhViewer](https://github.com/seven332/EhViewer)  
   ![][plat-android]  
   An Unofficial E-Hentai Application for Android.
 
+* [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
+  ![][plat-ios]  
+  一個普通的看漫畫 App。
+  
 * [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
@@ -61,6 +64,7 @@ async function getDownloadLink(owner, repo, filename)
     const asset = info.assets.find(i => i.name === filename);
     return asset.browser_download_url;
 }
+// 也可获取经过 gzip 压缩的 `db.json.gz`
 const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.json');
 const db =  await (await fetch(resourceUrl)).json();
 ```
