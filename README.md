@@ -1,6 +1,8 @@
 译文数据库介绍 
 ==================
 
+[![Build status](https://ci.appveyor.com/api/projects/status/wvvq1lfio5qo3ejo?svg=true)](https://ci.appveyor.com/project/EhTagApi-Bot/database)
+
 ## 协议
 
 数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](LICENSE.md)下提供，附加条款亦可能应用。
@@ -64,7 +66,7 @@ async function getDownloadLink(owner, repo, filename)
     const asset = info.assets.find(i => i.name === filename);
     return asset.browser_download_url;
 }
-// 也可获取经过 gzip 压缩的 `db.json.gz`
+// 也可获取经过 gzip 压缩的 `db.json.gz` 或使用 `db.js` 在浏览器跨域获取资源。
 const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.json');
 const db =  await (await fetch(resourceUrl)).json();
 ```
