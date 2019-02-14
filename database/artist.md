@@ -33,7 +33,7 @@
 | akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>Akaza，袜控，腿型很美<br>![Akaza作品](http://exhentai.org/t/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg) |  |
 | ishikei | 石惠 | ![石惠头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ymxa507xj205k05kjrm.jpg)<br>浓墨厚涂榨汁机<br>![石惠作品](http://exhentai.org/t/38/39/3839a8f9171d1c67415b50c99333d553be404083-1416172-2000-2837-jpg_250.jpg) |  |
 | endou hiroto | 远藤弘土 | ![遠藤弘土头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3tweuayg8j204g04g74m.jpg)<br>浓墨厚涂榨汁机2<br>![遠藤弘土作品](http://exhentai.org/t/40/c6/40c6aa2e36f7874e2496fa477dabaa7db7c82b66-2053469-1427-2000-jpg_250.jpg) |  |
-| happoubi jin | 八宝备仁 | 八宝備仁(はっぽうび じん) <br> ![骨感瘦弱却又是榨汁机](http://ul.ehgt.org/3e/1b/3e1b7e0a6b943bf2f1fd28cba702c916ee0337b3-396466-500-715-jpg_250.jpg) |  |
+| happoubi jin | 八宝备仁 | 八宝備仁(はっぽうび じん)<br>![骨感瘦弱却又是榨汁机](http://ul.ehgt.org/3e/1b/3e1b7e0a6b943bf2f1fd28cba702c916ee0337b3-396466-500-715-jpg_250.jpg) |  |
 | fujisaki hikari | 藤崎ひかり | ![藤崎ひかり头像](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3twnlde9zj203v04qq2s.jpg)<br>萝莉！萝莉！萝莉\~<br>![藤崎ひかり作品1](http://exhentai.org/t/5c/2e/5c2ee1fc8286fdedcc0dfb02ce87036f7cf44458-762853-1400-2000-jpg_250.jpg)![藤崎ひかり作品2](http://exhentai.org/t/ab/b4/abb41c372777cf356e3d179d8790bf69997f034b-739317-1402-2000-jpg_250.jpg) |  |
 | ichiri | イチリ | ![ichiri头像](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3twtubhxsj204q04q74k.jpg)<br>萝莉！萝莉！萝莉\~<br>![ichiri作品](http://exhentai.org/t/f0/52/f05278b999d0ff679d929e609cb3487d2a9e6eed-701458-2100-3004-jpg_250.jpg) |  |
 | satou kibi | さとうきび | ![さとうきび头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twxmi433j204q04qwes.jpg)<br>阳光又可爱的东方\~<br>![さとうきび作品](http://ul.ehgt.org/13/71/137143c421272e951aab33ac001fc73f1f125b9b-1341000-1410-2000-jpg_250.jpg) |  |
@@ -46,7 +46,7 @@
 | sayori | Sayori | ![SA姐头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ciho6cpg204q04qjyu.gif)<br>sayori（さより），SA姐是女性的原画家和插图画家，湖南出身，现居于日本，现为游戏公司美工。同人活动多以「NEKO WORKs」名义参加。有许多画集，大多为东方project同人系列，和自己原创的猫耳萝莉neko para系列。<br>![作品](http://ul.ehgt.org/71/e1/71e137218b7b6e79a5f60184487ffc4134774c97-3795446-3500-2485-jpg_l.jpg)![作品](http://ul.ehgt.org/86/3e/863ea4179d24f3a6f4fa9e74a95b86b88df3494c-3422011-3482-2492-jpg_l.jpg) |  |
 | ideolo | ideolo | ![ideolo头像](http://ww2.sinaimg.cn/large/6c84b2d6jw1f42ci9uy9rj204l04q0ss.jpg)<br>国人绘师ideolo，原籍上海，现于日本留学中。他在中日两国同人圈内都拥有相当人气，插画题材以东方PROJECT系列居多，曾多次为博丽神社例大祭等日本同人活动绘制公式绘。<br>![作品](http://ul.ehgt.org/59/2e/592e882202682d26601ffac477533747ec9e2d75-3563646-2544-3641-jpg_l.jpg)![作品](http://ul.ehgt.org/ca/18/ca18e275980c19ef7348fa1991900ea6fbf2eb7d-3580334-3635-2560-jpg_l.jpg) |  |
 | sky | SKY \| Sky-FreeDom | 该条目可能指向两位画师<br>SKY pixivID:315442<br>“死盖” pixivID:1017056<br>“死盖”是马来西亚同人画师，格子裙热裤过膝袜爱好者。因画风独特以及对热裤的热爱而闻名。与林大B、孙渣、萌娘百科更新姬经常在微博进行不可告人的PY交易<br>本人自画像<br>![本人自画像](http://wx1.sinaimg.cn/bmiddle/6ca93fadly1ff64bbcyidj20li0xcdk8.jpg)<br>本人自拍<br>![自拍2](http://wx3.sinaimg.cn/mw690/6ca93fadgy1fisz6lxz1zj20go0rsth0.jpg)![自拍2](http://wx1.sinaimg.cn/mw690/6ca93fadgy1fisz6m1aruj20rs0fngqk.jpg) | [SKY 的 pixiv](https://www.pixiv.net/member.php?id=315442) [Sky-FreeDom 的 pixiv](https://www.pixiv.net/member.php?id=1017056) [Sky-FreeDom 的微博](http://weibo.com/skyfreedom) |
-| m.vv | M.vv | ![P站头像](https://www.pixiv.net/member.php?id=1601715)<br>pixivID:1601715<br>M.vv(Maid.vivi)是中国大陆女性画师，现居于辽宁省沈阳市。同人活动以「KiraStar」名义参加。 <br>![作品](http://ehgt.org/t/17/ea/17ea751108ef0b86ee7d8ae1b64dc79334a7d8d1-995709-1001-1415-jpg_l.jpg)<br>本人自拍<br>![自拍](http://wx4.sinaimg.cn/mw690/5b1b04e6ly1fjjxwy9hswj20hn0uv48a.jpg) | [pixiv](https://www.pixiv.net/member.php?id=1601715) [微博](http://weibo.com/rancy01) |
+| m.vv | M.vv | ![P站头像](https://www.pixiv.net/member.php?id=1601715)<br>pixivID:1601715<br>M.vv(Maid.vivi)是中国大陆女性画师，现居于辽宁省沈阳市。同人活动以「KiraStar」名义参加。<br>![作品](http://ehgt.org/t/17/ea/17ea751108ef0b86ee7d8ae1b64dc79334a7d8d1-995709-1001-1415-jpg_l.jpg)<br>本人自拍<br>![自拍](http://wx4.sinaimg.cn/mw690/5b1b04e6ly1fjjxwy9hswj20hn0uv48a.jpg) | [pixiv](https://www.pixiv.net/member.php?id=1601715) [微博](http://weibo.com/rancy01) |
 |  | ▲这就是爱 |  |  |
 | miyahara ayumu | 宫原步 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |  |
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7435/26480152744_01cfe2495a_q.jpg) |  |
@@ -326,7 +326,7 @@
 | shikishima shoutarou | 敷岛昭太郎 |  |  |
 | siina yuuki | 椎名悠輝 |  |  |
 | manami tatsuya | 真未たつや |  |  |
-| miharu | 美春 \| ミハル | FAKESTAR <br> TTT |  |
+| miharu | 美春 \| ミハル | FAKESTAR<br>TTT |  |
 | mush | むっしゅ |  |  |
 | haneinu | 跳犬 |  |  |
 | misaki takahiro | 三崎高博 |  |  |

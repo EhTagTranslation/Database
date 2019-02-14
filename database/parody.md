@@ -76,7 +76,7 @@
 | highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](http://exhentai.org/t/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg)![图](http://ul.ehgt.org/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |  |
 | gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakk%C5%8D_Gurashi%21_logo.png/220px-Gakk%C5%8D_Gurashi%21_logo.png)<br>萝莉打僵尸<br>![图](http://exhentai.org/t/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg) |  |
 | a channel | A频道 | 漫画<br>![图](http://exhentai.org/t/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg) |  |
-| granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由Cygames发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。 <br>![图](http://exhentai.org/t/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg)![图](http://exhentai.org/t/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg) |  |
+| granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由Cygames发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。<br>![图](http://exhentai.org/t/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg)![图](http://exhentai.org/t/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg) |  |
 |  | ▼高达 系列 |  |  |
 | gundam | 高达 |  |  |
 | gundam age | 机动战士高达AGE |  |  |
@@ -183,7 +183,7 @@
 | gabriel dropout | 珈百璃的堕落 | ![](https://ehgt.org/t/74/d9/74d9c6ba5b5def00d61be5e9b796b84d20463434-1720223-1280-720-png_l.jpg)![珈百璃的堕落](https://ehgt.org/t/91/23/9123b88a8dbd40759f5329915feade721bc168eb-1737901-1280-720-png_l.jpg) |  |
 | chobits | 人形电脑天使心 | ![](http://ehgt.org/t/28/c4/28c4aa2d1ef09c6b6a0abdd2147dd64a825c59a0-94519-726-843-jpg_l.jpg) |  |
 | dead or alive | 死或生 | 生死格斗<br>![](http://exhentai.org/t/2e/ce/2ece300869bc9c5e67fc444a75940a4735402d75-3336657-1080-1920-png_l.jpg) |  |
-| eromanga sensei | 埃罗芒阿老师 | エロマンガ先生 / 情色漫画老师 <br>![](http://ehgt.org/t/a3/20/a320657886f20de6953327013585d23320cf8c88-1225138-1384-2000-jpg_l.jpg)![](http://exhentai.org/t/bc/5d/bc5dccfab0cc5dc8c771569acb7e475b58591a39-712723-2114-3047-jpg_l.jpg) |  |
+| eromanga sensei | 埃罗芒阿老师 | エロマンガ先生 / 情色漫画老师<br>![](http://ehgt.org/t/a3/20/a320657886f20de6953327013585d23320cf8c88-1225138-1384-2000-jpg_l.jpg)![](http://exhentai.org/t/bc/5d/bc5dccfab0cc5dc8c771569acb7e475b58591a39-712723-2114-3047-jpg_l.jpg) |  |
 | dorei to no seikatsu | 与奴隶的生活 -Teaching Feeling- | ![](http://ehgt.org/t/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |  |
 | girls und panzer | 少女与战车 | 《少女与战车》（日语：ガールズ&パンツァー；英语：GIRLS und PANZER）是由水岛努执导，吉田玲子担当编剧，Actas Inc.制作的原创动画。<br>![](http://ehgt.org/t/46/0a/460a5a085500c2f492f38433967ba74e4bd69908-6288337-2133-3000-jpg_l.jpg) |  |
 | seto no hanayome | 濑户的花嫁 | 《濑户的花嫁》（瀬戸の花嫁）是由2002年至2009年在《月刊GANGAN WING》连载的木村太彦原作漫画作品，在2004年至2005年共发售广播剧CD两卷。从2007年4月开始播放电视动画，2008年发售OVA。网络广播‘瀬戸の花嫁 嫁入りラジオ’于2007年4月6日开始在音泉每周发放。2010年4月22日于网上连载再开。在《月刊GANGAN JOKER》2010年12月号连载完毕。<br>![](http://exhentai.org/t/cb/4e/cb4ef3421b8266e546d3748819b068222b3cce49-1573305-1661-2400-jpg_l.jpg) |  |
