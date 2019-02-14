@@ -22,13 +22,13 @@
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](http://ehgt.org/t/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
 | rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider。其他情况使用真名。<br>《噗哟噗哟》登场角色 |  |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "http://exhentai.org/t/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |  |
-| katsuragi | 葛城 | No.203 ![](https://exhentai.org/t/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg)<br> ![](http://ehgt.org/t/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |  |
-| kasumi | 霞 | No.090 ![](https://exhentai.org/t/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg)<br> ![](http://ehgt.org/t/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |  |
+| katsuragi | 葛城 | No.203 ![](https://exhentai.org/t/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg)<br>![](http://ehgt.org/t/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |  |
+| kasumi | 霞 | No.090 ![](https://exhentai.org/t/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg)<br>![](http://ehgt.org/t/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |  |
 | leo | 丽王 \| 利昂 | ![](http://ehgt.org/t/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br>火焰纹章if 角色 |  |
 | haruna | 榛名 \| 春奈 | No.023 榛名![榛名](# "http://exhentai.org/t/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br>春奈是轻小说《这个是僵尸吗？》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") |  |
-| chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg) <br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |  |
-| murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br> No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") |  |
-| nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg) <br> No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |  |
+| chitose | 千岁 | ![](http://ehgt.org/t/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |  |
+| murakumo | 丛 \| 丛云 | ![](http://ehgt.org/t/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br>No.015 丛云![丛云](# "http://exhentai.org/t/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") |  |
+| nachi | 那智 | ![](http://ehgt.org/t/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg)<br>No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |  |
 | kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](http://exhentai.org/t/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg) |  |
 |  | ▲ 重复项合并 |  |  |
 |  | ▼ 萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |  |
@@ -214,7 +214,7 @@
 | seira kazuno | 鹿角圣良 | 所属团体 Saint Snow |  |
 | ria kazuno | 鹿角理亚 | 所属团体 Saint Snow |  |
 |  | ▲Love Live 人物 |  |  |
-|  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98#)，发现有\*\*200+\*\*个，让我死了吧 <br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
+|  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/%E8%88%B0%E9%98%9FCollection/%E5%9B%BE%E9%89%B4/%E8%88%B0%E5%A8%98#)，发现有\*\*200+\*\*个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png/250px-%E5%A4%A9%E7%BE%BD%E5%89%91%E6%8F%90%E7%9D%A3.png") |  |
 | nagato | 长门 | No.001 长门![长门](# "http://exhentai.org/t/ed/fe/edfeda7b7b1233090e49f049ef629404a9f97a85-1967290-2120-3008-jpg_250.jpg") |  |
 | mutsu | 陆奥 | No.002 陆奥![陆奥](# "http://exhentai.org/t/e0/d7/e0d7e77be040aa02024d5576a31680106627d58c-878090-1697-2400-jpg_250.jpg") |  |
@@ -926,7 +926,7 @@
 |  | ▼ 传送门 角色 |  |  |
 | chell | 雪儿 | ![](https://ehgt.org/t/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |  |
 |  | ▼ Re0 角色 |  |  |
-| emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主. <br>![爱蜜莉雅](http://7xw6zm.com1.z0.glb.clouddn.com/emilia.png) |  |
+| emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主.<br>![爱蜜莉雅](http://7xw6zm.com1.z0.glb.clouddn.com/emilia.png) |  |
 | ram | 拉姆 | ![拉姆](https://exhentai.org/t/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg) |  |
 | rem | 雷姆 | ![雷姆](https://exhentai.org/t/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg) |  |
 | subaru natsuki | 菜月昴 | ![菜月昴](https://exhentai.org/t/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg) |  |
