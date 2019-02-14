@@ -57,7 +57,19 @@
 
 #### 获取数据库内容
 
-推荐使用 Github Release。以下为 node 代码示例。
+推荐使用 Github Release。
+
+- *.json 是 JSON 表示的数据库；
+- *.json.gz 是其 gzip 压缩后的版本；
+- *.js 是用于 JSONP 调用的脚本，回调函数名为 `load_ehtagtranslation_database`；
+
+- \*.raw.* 包含了 MarkDown 版本的翻译、简介和外部链接；
+- \*.html.* 包含了渲染为 HTML 的翻译、简介和外部链接；
+- \*.text.* 包含了去除图片和链接的的翻译、简介和外部链接；
+- \*.ast.* 包含了 JSON 表示的 MarkDown 的语法树结构；
+- \*.full.* 包含了以上所有信息；
+
+以下为 node 代码示例。
 ``` js
 async function getDownloadLink(owner, repo, filename)
 {
@@ -66,8 +78,7 @@ async function getDownloadLink(owner, repo, filename)
     const asset = info.assets.find(i => i.name === filename);
     return asset.browser_download_url;
 }
-// 也可获取经过 gzip 压缩的 `db.json.gz` 或使用 `db.js` 在浏览器跨域获取资源。
-const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.json');
+const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.html.json');
 const db =  await (await fetch(resourceUrl)).json();
 ```
 
