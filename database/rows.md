@@ -15,4 +15,4 @@
 | language | 语言 | 作品的语言。 | [数据库页面](https://github.com/ehtagtranslation/Database/blob/master/database/language.md) |
 | reclass | 重新分类 | 用于分类出错的画廊，当某个重新分类标签权重达到 100，将移动画廊至对应分类。 | [数据库页面](https://github.com/ehtagtranslation/Database/blob/master/database/reclass.md) |
 | misc | 杂项 | 两性/中性的恋物标签或没有具体分类的标签，可以在[论坛](https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员添加新的标签或将标签移动到正确分类。 | [数据库页面](https://github.com/ehtagtranslation/Database/blob/master/database/misc.md) |
-| test | 杂<项 | 两性/中性的恋物标签或没有具体分类的标签，可以在[论坛](https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员添加新的标签或将标签移动到正确分类。 | [数据库页面](https://github.com/ehtagtranslation/Database/blob/master/database/数据库页面.md) |
+
