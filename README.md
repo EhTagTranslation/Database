@@ -92,3 +92,5 @@ const db =  await (await fetch(resourceUrl)).json();
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg
 [plat-uwp]: https://img.shields.io/badge/platform-UWP-blue.svg
 [plat-android]: https://img.shields.io/badge/platform-Android-brightgreen.svg
+
+![1**12**]()
