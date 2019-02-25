@@ -534,7 +534,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 | |
 | coach | 教练 | 身体训练的指导者。 | |
 | dickgirls only | 纯扶她 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为扶她。要求至少两个扶她进行交互。 | |
-| females only | ![纯女](http://wx4.sinaimg.cn/large/6c84b2d6gy1fdi4f4iyjqj200m00e0ac.jpg)纯女性 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她(futanari)和女雄(shemale)不算在内。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg)![图](http://ul.ehgt.org/96/93/969337239526475abf4de645576256bc11c14ba0-3084919-1425-2000-png_l.jpg)![图](http://ul.ehgt.org/2b/e2/2be25ce7bafbc429d3e3ab852a9f11960b22dd6a-7572892-1800-2527-png_l.jpg) | |
+| females only | 纯女性⚢ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她(futanari)和女雄(shemale)不算在内。<br>![图](http://exhentai.org/t/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg)![图](http://ul.ehgt.org/96/93/969337239526475abf4de645576256bc11c14ba0-3084919-1425-2000-png_l.jpg)![图](http://ul.ehgt.org/2b/e2/2be25ce7bafbc429d3e3ab852a9f11960b22dd6a-7572892-1800-2527-png_l.jpg) | |
 | impregnation | 受孕 | 怀孕(pregnant)的过程。 | |
 | prostitution | 援交 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 | |
 | sole dickgirl | 单扶她 | 只有一个扶她(futanari)或女雄(shemale)参与了整个画廊的所有性爱或恋物癖活动。 | |

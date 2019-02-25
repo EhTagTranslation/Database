@@ -489,7 +489,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | | == 上下文 == | | |
 | blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 | |
 | coach | 教练 | 身体训练的指导者。 | |
-| males only | 纯男性 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) | |
+| males only | 纯男性⚣ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](http://exhentai.org/t/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg) | |
 | impregnation | 受孕 | 怀孕(pregnant)的过程。 | |
 | prostitution | 援交 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 | |
 | sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。人妖(cuntboy)不算在内。 | |
