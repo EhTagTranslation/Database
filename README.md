@@ -74,6 +74,7 @@
 
 以下为 node 代码示例。
 ``` js
+const fetch = require('node-fetch');
 async function getDownloadLink(owner, repo, filename)
 {
     const uri = `https://api.github.com/repos/${owner}/${repo}/releases/latest`;
