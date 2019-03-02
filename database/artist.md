@@ -1385,7 +1385,7 @@
 | shinoda sanjuurou | 篠田参重郎 | | |
 | mimi mimizu | 実々みみず | | |
 | takemura sesshu | 竹村雪秀 | | |
-| ishigami hajime | 石神一 | | |
+| ishigami hajime | 石纸一 | | |
 | kawamori misaki | かわもりみさき | | |
 | nagashima chosuke | ながしま超助 | | |
 | ozaki akira | 尾崎晶 | | |
