@@ -2,7 +2,7 @@
 ==================
 
 [![Build status](https://ci.appveyor.com/api/projects/status/wvvq1lfio5qo3ejo?svg=true)](https://ci.appveyor.com/project/EhTagApi-Bot/database)
-[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg)](LICENSE.md)
+[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgZmlsbD0iI2ZmZiI+DQogICAgPHBhdGggZD0iTTMxLjk1Ny4zMTFjLTguNjgyIDAtMTYuMzIyIDMuMjEzLTIyLjIyNiA5LjIwM0MzLjY1MyAxNS42NzguMzU0IDIzLjY2Ni4zNTQgMzJjMCA4LjQyMiAzLjIxMiAxNi4yMzYgOS4yOSAyMi4zMTMgNi4wNzggNi4wNzggMTMuOTc4IDkuMzc3IDIyLjMxMyA5LjM3NyA4LjMzNCAwIDE2LjQwOS0zLjI5OSAyMi42Ni05LjQ2M0M2MC41MjEgNDguNDEgNjMuNjQ2IDQwLjY4MyA2My42NDYgMzJjMC04LjU5NS0zLjEyNS0xNi40MDgtOS4xMTYtMjIuMzk5QzQ4LjQ1MyAzLjUyMyA0MC42MzkuMzExIDMxLjk1Ny4zMTF6bS4wODYgNS43M2M3LjEyIDAgMTMuNDU4IDIuNjkxIDE4LjQwNiA3LjY0MSA0Ljg2MiA0Ljg2MSA3LjQ2NiAxMS4yODYgNy40NjYgMTguMzE4IDAgNy4xMTktMi41MTggMTMuMzcxLTcuMzc5IDE4LjE0Ni01LjEyMyA1LjAzNS0xMS43MjEgNy43MjctMTguNDkzIDcuNzI3LTYuODU4IDAtMTMuMjgzLTIuNjkxLTE4LjIzMi03LjY0MUM4Ljg2MiA0NS4yODMgNi4wODQgMzguNzcyIDYuMDg0IDMyYzAtNi44NTggMi43NzgtMTMuMzY5IDcuNzI3LTE4LjQwNiA0Ljg2Mi00Ljk0OCAxMS4xMTMtNy41NTMgMTguMjMyLTcuNTUzeiIvPg0KICAgIDxwYXRoIGlkPSJhIiBkPSJNMzEuNjM1IDI2LjczNGMtMS43OS0zLjI2NC00Ljg0NC00LjU2My04LjM4OS00LjU2My01LjE2IDAtOS4yNjcgMy42NS05LjI2NyA5LjgyOCAwIDYuMjgzIDMuODYxIDkuODI5IDkuNDQyIDkuODI5IDMuNTgxIDAgNi42MzUtMS45NjYgOC4zMTktNC45NDlsLTMuOTMxLTIuMDAxYy0uODc4IDIuMTA1LTIuMjEyIDIuNzM4LTMuODk2IDIuNzM4LTIuOTE0IDAtNC4yNDgtMi40MjItNC4yNDgtNS42MTcgMC0zLjE5MyAxLjEyNC01LjYxNiA0LjI0OC01LjYxNi44NDIgMCAyLjUyNy40NTYgMy41MSAyLjU2M2w0LjIxMi0yLjIxMnoiLz4NCiAgICA8dXNlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4LjI4MSkiIHhsaW5rOmhyZWY9IiNhIi8+DQo8L3N2Zz4NCg==)](LICENSE.md)
 
 ## 协议
 
@@ -58,7 +58,7 @@
 
 #### 获取数据库内容
 
-推荐使用 Github Release。
+推荐使用 [Github Release](https://github.com/ehtagtranslation/Database/releases)。
 
 后缀：
 - `*.json` 是 JSON 表示的数据库；
@@ -80,10 +80,10 @@ async function getDownloadLink(owner, repo, filename)
     const uri = `https://api.github.com/repos/${owner}/${repo}/releases/latest`;
     const info = await (await fetch(uri)).json();
     const asset = info.assets.find(i => i.name === filename);
-    return asset.browser_download_url;
+    return asset && asset.browser_download_url;
 }
 const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.html.json');
-const db =  await (await fetch(resourceUrl)).json();
+const db = await (await fetch(resourceUrl)).json();
 ```
 
 也可以使用 git 或 Github API 直接获取 MarkDown 并自行解析，此时需要注意 [`version`](version) 文件表明的[数据库结构版本](database-version-info.md)。
