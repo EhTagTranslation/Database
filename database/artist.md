@@ -685,12 +685,12 @@
 | samidore setsuna | 五月雨せつな |  |  |
 | mutou mato | 武藤まと |  |  |
 | kobayashi oukei | 小林王桂 |  |  |
-| tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br/>作者特别喜欢物语系列，特别是对小忍(oshino shinobu)特别喜欢，在P站里大量的小忍R18作品。<br/>画风随着时间不断地进步，已经形成自己独特的风格。<br/>代表作品：ぷ痴っくす<br/>![图](# "https://ul.ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=8542) |
-| kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko) <br/> 现用名：樺島あきら(kabashima akira)<br/>作品以露出(exhibitionism)题材为主，早期作品包含大量排便(scat)描写，重口注意！<br/>代表作品：私が変態になった理由<br/>![图](# "https://ul.ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") |  |
-| charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br/>代表作品：露出少女遊戯<br/>![图](# "https://ul.ehgt.org/45/6e/456ec9a0d39a4b229b4f5113e08895b18c2d7c95-1122101-2150-3035-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=125256) |
-| tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出。<br/>代表作品：露出少女異譚<br/>![图](# "https://ul.ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=1551500) |
-| nakani | なかに | なかに【すぺ】<br/>画风独特，极具表现力。剧情发展犹如破竹。看本子笑出声系列。<br/>代表作品：まるだしすたー<br/>![图](# "https://ul.ehgt.org/8f/67/8f679921298411cb837d5f75d771300f84a71e89-470051-1058-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=18899) |
-| mizuryu kei | 水龙敬 | 人类性解放的先驱者，作品多以乱交(group)为主。<br/>代表作品：おいでよ水龍敬ランド(水龙敬乐园系列)<br/>![图](# "https://ul.ehgt.org/c5/a9/c5a92a74efbb2452bb88bb86d6f0ef9c091d5e83-435856-800-1119-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=321517) |
+| tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对小忍(oshino shinobu)特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ul.ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=8542) |
+| kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以露出(exhibitionism)题材为主，早期作品包含大量排便(scat)描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ul.ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") |  |
+| charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br>代表作品：露出少女遊戯<br>![图](# "https://ul.ehgt.org/45/6e/456ec9a0d39a4b229b4f5113e08895b18c2d7c95-1122101-2150-3035-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=125256) |
+| tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出。<br>代表作品：露出少女異譚<br>![图](# "https://ul.ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=1551500) |
+| nakani | なかに | なかに【すぺ】<br>画风独特，极具表现力。剧情发展犹如破竹。看本子笑出声系列。<br>代表作品：まるだしすたー<br>![图](# "https://ul.ehgt.org/8f/67/8f679921298411cb837d5f75d771300f84a71e89-470051-1058-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=18899) |
+| mizuryu kei | 水龙敬 | 人类性解放的先驱者，作品多以乱交(group)为主。<br>代表作品：おいでよ水龍敬ランド(水龙敬乐园系列)<br>![图](# "https://ul.ehgt.org/c5/a9/c5a92a74efbb2452bb88bb86d6f0ef9c091d5e83-435856-800-1119-jpg_l.jpg") | [pixiv](https://www.pixiv.net/member.php?id=321517) |
 | oyari ashito | 大枪苇人 | ![头像](http://tva1.sinaimg.cn/crop.1.0.945.945.180/006vdozLgw1f6k9m4eu8kj30qf0qgtem.jpg)<br>![图](# "https://ul.ehgt.org/96/16/9616e663a0ab59efe63b58f1e521b180d9ddf718-1853743-2560-3627-jpg_l.jpg")![图](# "https://ul.ehgt.org/a5/c2/a5c218921b59bda67ff863e0d34887a76f7f4e95-1042660-2103-3000-jpg_l.jpg")![图](https://ul.ehgt.org/8b/6b/8b6b9319d4c5e05f24fc9a7ef1f067942e72f2db-1402612-1768-2500-jpg_l.jpg)![图](https://ul.ehgt.org/b7/9a/b79a6333074400bfa77bcde9fd36d3db1eaa3f25-811640-2560-3627-jpg_l.jpg)![图](# "https://ul.ehgt.org/a7/71/a771f39250f3f09bce382bac136e2eeb5097741a-57289-500-339-jpg_l.jpg")![图](https://ul.ehgt.org/09/9c/099c6e952e978dd1d0b461e4973eb3782644d16b-1239240-2560-3604-jpg_l.jpg)![图](# "https://ul.ehgt.org/3a/a4/3aa4c591e438ebfca64ac3169cbaf5e43173c2ab-2370206-3488-4800-jpg_l.jpg")![图](https://ul.ehgt.org/5a/72/5a7205a46264facaa2a4f323bb4872162d2c2b6a-433311-1687-2400-jpg_l.jpg)![图](https://ul.ehgt.org/c1/a2/c1a28b30d33b8bd5d825681f345086780c1a7095-1220782-3000-4250-jpg_l.jpg) | [个人主页](https://oyariashito.net) [微博](http://weibo.com/oyariashito) |
 | hagiya masakage | はぎやまさかげ |  |  |
 | siina tai | 椎名鲷 |  |  |
@@ -847,16 +847,16 @@
 | pokachu | ぽかちゅ |  |  |
 | wasabi | わさび \| 和錆 |  |  |
 | naruko hanaharu | 鸣子花春 | 鸣子ハナハル（鸣子花春）是日本的漫画家 男性。2002年出刊的《COMIC快楽天》(ワニマガジン社)刊登的《ヒタイ》出道。以后ワニマガジン社成人漫画杂志为活动中心为定期出刊的《COMIC快楽天》的封面负责。2005年则担当Mediamix作品《かみちゅ!!》（神是中学生）漫画版的作画。 |  |
-| bosshi | ぼっしぃ | 代表作：扶她部(ふた部)<br/>![图](# "https://ul.ehgt.org/86/13/861361f96cb61f8bdf1933ed548bdb25f0a37d51-105241-600-800-jpg_l.jpg") |  |
-| inu | 犬 | 代表作：初犬系列<br/>![图](# "https://ul.ehgt.org/25/55/2555c451ca321380282e7f9917dcf262c65c28bb-745866-1369-1200-jpg_l.jpg") |  |
+| bosshi | ぼっしぃ | 代表作：扶她部(ふた部)<br>![图](# "https://ul.ehgt.org/86/13/861361f96cb61f8bdf1933ed548bdb25f0a37d51-105241-600-800-jpg_l.jpg") |  |
+| inu | 犬 | 代表作：初犬系列<br>![图](# "https://ul.ehgt.org/25/55/2555c451ca321380282e7f9917dcf262c65c28bb-745866-1369-1200-jpg_l.jpg") |  |
 | takeda hiromitsu | 武田弘光 | ![图](# "https://ul.ehgt.org/80/c9/80c97d34bcf531019ac41d767d77378f913d3036-881347-1142-1600-jpg_l.jpg") |  |
-| shiwasu no okina | 師走の翁 | 作品多以大乱交为主。<br/>代表作：アイブカ[仮]<br/>![图](# "https://ul.ehgt.org/9e/fb/9efb90bd585a92e8dbc49e8ad9d07e5b940fcb39-1369366-2161-3000-jpg_l.jpg") |  |
-| shindol | 新堂エル | 被誉为“里界白求恩”，美国人。<br/>代表作：TSF物語<br/>![图](# "https://ul.ehgt.org/7f/9e/7f9e010977d468bc42d4cade8f675d74c4a21a6b-1312554-3711-1600-jpg_l.jpg") |  |
-| otono natsu | 音乃夏 | 代表作：女子高生の腰つき<br/>![图](# "https://ul.ehgt.org/41/0b/410bbcb6fd7331fb44b8c7a1b60fcd92a5de01d4-1479001-3632-1600-jpg_l.jpg") |  |
+| shiwasu no okina | 師走の翁 | 作品多以大乱交为主。<br>代表作：アイブカ[仮]<br>![图](# "https://ul.ehgt.org/9e/fb/9efb90bd585a92e8dbc49e8ad9d07e5b940fcb39-1369366-2161-3000-jpg_l.jpg") |  |
+| shindol | 新堂エル | 被誉为“里界白求恩”，美国人。<br>代表作：TSF物語<br>![图](# "https://ul.ehgt.org/7f/9e/7f9e010977d468bc42d4cade8f675d74c4a21a6b-1312554-3711-1600-jpg_l.jpg") |  |
+| otono natsu | 音乃夏 | 代表作：女子高生の腰つき<br>![图](# "https://ul.ehgt.org/41/0b/410bbcb6fd7331fb44b8c7a1b60fcd92a5de01d4-1479001-3632-1600-jpg_l.jpg") |  |
 | yasui riosuke | ヤスイリオスケ | ![图](# "https://ul.ehgt.org/0b/04/0b0465ba83727f5201ae69690f8a40f8e08afc2c-820428-2166-3036-jpg_l.jpg") |  |
 | kizuki aruchu | 鬼月あるちゅ | ![图](# "https://ul.ehgt.org/9a/43/9a436588bfa3aca44dc4f5a626e606fe87e1287e-1769126-1431-2000-jpg_l.jpg") |  |
 | sameda koban | さめだ小判 | ![图](# "https://ul.ehgt.org/70/0c/700ceea64809d415bcb38aefb797badb6ec44c67-417153-700-889-jpg_l.jpg") |  |
-| koume keito | 小梅けいと | 花粉少女 <br/>![图](# "https://ul.ehgt.org/29/ae/29ae6af2879a51570ea087472403d2014569d97f-1201347-1082-1536-jpg_l.jpg") |  |
+| koume keito | 小梅けいと | 花粉少女<br>![图](# "https://ul.ehgt.org/29/ae/29ae6af2879a51570ea087472403d2014569d97f-1201347-1082-1536-jpg_l.jpg") |  |
 | thomas | 藤ます | ![图](# "https://ul.ehgt.org/61/4f/614f068b36fac77e7acc247c1548d0d291d821cc-91019-800-1122-jpg_l.jpg") |  |
 | mutsutake | 睦茸 | ![图](# "https://ul.ehgt.org/28/00/28008f3ff4a7bc04e6e9244fb58bd4c14c77985b-708592-1184-1650-jpg_l.jpg") |  |
 | midori no rupe | 緑のルーペ | ![图](# "https://ul.ehgt.org/bc/47/bc4703c0ee848bdfe1520e586ea86bc244e6a429-1428388-2560-3579-jpg_l.jpg") |  |
@@ -864,7 +864,7 @@
 | lunch | らんち | ![图](# "https://ul.ehgt.org/04/f5/04f527a5b265174a654c2d24ae0bd9dfc26d18ca-2100668-4674-2000-jpg_l.jpg") |  |
 | inoue kiyoshirou | 胃之上奇嘉郎 | ![图](# "https://ul.ehgt.org/ee/06/ee0694425a7a5274df8f7d54e221c0a545a0e9b9-1644020-2120-3000-jpg_l.jpg") |  |
 | namonashi | 无望菜志 | ![图](# "https://ul.ehgt.org/da/44/da44e3cbdaa00f8244ae7cb01a166ae62915d9ac-8165851-4230-6030-jpg_l.jpg") |  |
-| oda non | 织田non | 画风写实，多为熟女(milf)<br/> |  |
+| oda non | 织田non | 画风写实，多为熟女(milf) |  |
 | nemunemu | ネムネム | 老师画的男孩子太棒了！画的比女孩子还要美的身材。 |  |
 | makita masaki | 蒔田真記 | 日本女性插画师，主要从事成人插画作品。 |  |
 | hoshiai hiro | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
@@ -876,7 +876,7 @@
 | shiromaneki | シオマネキ | ![图](# "https://ul.ehgt.org/45/ae/45aeec2a06bdfbb63f2968e20759974998b3b3ee-1277202-3560-1584-jpg_l.jpg") |  |
 | chimee house | ちみはうす | ![图](# "https://ul.ehgt.org/31/3d/313de88039a4a01f28163a988fc88620e3818b5c-618153-2150-3036-jpg_l.jpg") |  |
 | kuritsu yoshihiro | くりつよしひろ | ![图](# "https://ul.ehgt.org/13/cd/13cd290c30b3427e65f66259060b33dfbfed3d81-912091-1981-2400-jpg_l.jpg") |  |
-| guglielmo | ぐりえるも | ![图](# "https://ul.ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg") <br/> ![图](# "https://ul.ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") |  |
+| guglielmo | ぐりえるも | ![图](# "https://ul.ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg")<br>![图](# "https://ul.ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") |  |
 | kusano yuu | 草野ゆぅ | ![图](# "https://ul.ehgt.org/84/a2/84a2a65577b300681aad16d2e19633488604cb3c-2300734-2280-3280-jpg_l.jpg") |  |
 | matsuno susumu | 松野すすむ | ![图](# "https://ul.ehgt.org/c0/39/c0391931aae172d7656c0f6b667541d8c294dde7-1640079-1512-2102-jpg_l.jpg") |  |
 | murasaki syu | むらさき朱 | ![图](# "https://ul.ehgt.org/91/79/9179053a45f40dea3baa9fc5efbc98ecb948673e-865494-1024-1492-jpg_l.jpg") |  |
@@ -1178,12 +1178,12 @@
 | shinogi a-suke | しのぎ鋭介 |  |  |
 | tonami satoshi | となみさとし |  |  |
 | yajima index | 矢岛Index |  |  |
-| yoshitaka amano | 天野喜孝 | 天野喜孝（1952年3月26日－），原名为天野嘉孝，日本静冈市出身的画家、人物设计师及插图画家，擅长舞台美术及服装设计。其作品散见各种艺术创作活动中，计有动画人物设计、电玩游戏视觉概念设计、书籍的封面设计与内页插画，舞蹈、戏剧、电影的场景设计、背景美术设计、服装设计等。 | [维基百科](https://zh.wikipedia.org/wiki/天野喜孝) [官方博客](http://ameblo.jp/amanoyoshitaka/) (\*) |
+| yoshitaka amano | 天野喜孝 | 天野喜孝（1952年3月26日－），原名为天野嘉孝，日本静冈市出身的画家、人物设计师及插图画家，擅长舞台美术及服装设计。其作品散见各种艺术创作活动中，计有动画人物设计、电玩游戏视觉概念设计、书籍的封面设计与内页插画，舞蹈、戏剧、电影的场景设计、背景美术设计、服装设计等。 | [维基百科](https://zh.wikipedia.org/wiki/天野喜孝) [官方博客](http://ameblo.jp/amanoyoshitaka/) (*) |
 | aoba hachi | 青葉はち |  |  |
 | minami | みなみ |  |  |
 | ouji hiyoko | 桜路ひよこ（ひなづか凉） |  |  |
 | yoshiro | 夜士郎 |  |  |
-| urushihara satoshi | 漆原智志 | 漆原智志（本名，日语：うるし原 智志，1966年2月9日－）是广岛县出身的男性动画师、人物设计师、漫画家。隶属Office Earthwork。 | [维基百科](https://zh.wikipedia.org/zh-cn/漆原智志) [个人博客](http://blog.livedoor.jp/uruchi1/) (\*) |
+| urushihara satoshi | 漆原智志 | 漆原智志（本名，日语：うるし原 智志，1966年2月9日－）是广岛县出身的男性动画师、人物设计师、漫画家。隶属Office Earthwork。 | [维基百科](https://zh.wikipedia.org/zh-cn/漆原智志) [个人博客](http://blog.livedoor.jp/uruchi1/) (*) |
 | yukijirushi | 逝印 |  |  |
 | riichu | りいちゅ |  |  |
 | momo no suidousui | モモの水道水 |  |  |
@@ -1385,7 +1385,7 @@
 | shinoda sanjuurou | 篠田参重郎 |  |  |
 | mimi mimizu | 実々みみず |  |  |
 | takemura sesshu | 竹村雪秀 |  |  |
-| ishigami hajime | 石神一 |  |  |
+| ishigami hajime | 石纸一 |  |  |
 | kawamori misaki | かわもりみさき |  |  |
 | nagashima chosuke | ながしま超助 |  |  |
 | ozaki akira | 尾崎晶 |  |  |
@@ -1450,7 +1450,7 @@
 | yamamoto | 山本 |  |  |
 | yamamoto yammy | 山本やみー |  |  |
 | murakami maki | 村上真纪 | BL漫画《万有引力》的作者 |  |
-| ditama bow | ぢたま(某) | 《亲吻姐姐》的作者 <br/> 很多成功的漫画家都是从画本子开始的 |  |
+| ditama bow | ぢたま(某) | 《亲吻姐姐》的作者<br>很多成功的漫画家都是从画本子开始的 |  |
 | yabuki kentarou | 矢吹健太朗 | ToLOVEる，不是本子，胜似本子的漫画 |  |
 | clamp | CLAMP |  |  |
 | kinoshita rei | きのした黎 |  |  |

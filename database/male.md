@@ -181,7 +181,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | thick eyebrows | 浓眉 | 至少和手指一样厚的眉毛。 |  |
 |  | === 头部 > 头发 === |  |  |
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 |  |
-| bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | \|脸部的塑料面罩，包括呼吸管或过滤器。 \| |
+| bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 | |脸部的塑料面罩，包括呼吸管或过滤器。 | |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](# "https://ul.ehgt.org/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg")![图](# "https://ul.ehgt.org/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg") |  |
 | pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。不适用于男性，除非他们是伪娘(tomgirl)或异性装(crossdressing)。 |  |
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用双马尾(twintails)。 |  |
@@ -479,7 +479,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | == 性别 == |  |  |
 | cuntboy | 人妖 | 有阴道的男性。男性与人妖间的性行为不应添加男同(yaoi)或纯男性(males only)标签。有可能有阴茎，此时不应与扶她(futanari)混淆。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或精神控制(mind control)）或将他的身体改变为女雄(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
-| gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用变身(transformation)。不应与换身(body swap)或异性装(crossdressing)混淆。不用于女性变为扶她(futanari)的情况。<br>![我要成为XXX](# "https://ul.ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") | \| |
+| gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用变身(transformation)。不应与换身(body swap)或异性装(crossdressing)混淆。不用于女性变为扶她(futanari)的情况。<br>![我要成为XXX](# "https://ul.ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") | | |
 |  | === 性别 > 性别间关系 === |  |  |
 | bisexual | 双性 | 参与性别或恋物癖活动的人物，在整个画廊中具有相反的性别特征。不应用于扶上扶(dickgirl on dickgirl)。 |  |
 | dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是肛交(anal)还是口交(blowjob)。需要扶她(futanari)或女雄(shemale)标签。<br>![图](# "https://ul.ehgt.org/d4/f1/d4f1ddc47d26269a3a1a6567237944e64fa0ac7f-3288334-1709-2400-jpg_l.jpg") |  |
@@ -489,7 +489,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | == 上下文 == |  |  |
 | blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
-| males only | 纯男性 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](# "https://ul.ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
+| males only | 纯男性⚣ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](# "https://ul.ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
 | impregnation | 受孕 | 怀孕(pregnant)的过程。 |  |
 | prostitution | 援交 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。人妖(cuntboy)不算在内。 |  |
