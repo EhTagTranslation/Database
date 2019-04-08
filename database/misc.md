@@ -29,7 +29,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | == 身体 == |  |  |
 |  | === 身体 > 生物 === |  |  |
-| yukkuri | 油库里 | 油库里是ゆっくり（日语：慢慢来）的中文谐音。<br>ゆっくり这种形象其最早于 2008 年初出现在 2ch 上，其创造者为一个失败的 ASCII 艺术爱好者。当时他/她本来希望用 ASCII 字符拼出灵梦和魔理沙的头像，但不幸他/她失败了，头像看起来和这里所提到的ゆっくり很一致。而另一个匿名用户觉得这头像颇有幽默感，于是便做了第一幅有关ゆっくり的图片。<br>一般来说，ゆっくり的外形大致上是一个硕大而看上去有点扭曲的脑袋，往往和东方Project(touhou project)中的人物存在对应。<br>![ゆっくり](https://ul.ehgt.org/ee/6a/ee6ac5d74438aa76077a9c201cd740911851092f-673521-1060-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org/油库里#) (\*\*) |
+| yukkuri | 油库里 | 油库里是ゆっくり（日语：慢慢来）的中文谐音。<br>ゆっくり这种形象其最早于 2008 年初出现在 2ch 上，其创造者为一个失败的 ASCII 艺术爱好者。当时他/她本来希望用 ASCII 字符拼出灵梦和魔理沙的头像，但不幸他/她失败了，头像看起来和这里所提到的ゆっくり很一致。而另一个匿名用户觉得这头像颇有幽默感，于是便做了第一幅有关ゆっくり的图片。<br>一般来说，ゆっくり的外形大致上是一个硕大而看上去有点扭曲的脑袋，往往和东方Project(touhou project)中的人物存在对应。<br>![ゆっくり](https://ehgt.org/ee/6a/ee6ac5d74438aa76077a9c201cd740911851092f-673521-1060-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org/油库里#) (\*\*) |
 |  | ==== 身体 > 生物 > 动物 ==== |  |  |
 | animal on animal | 兽兽 | 动物间性交。 |  |
 |  | == 头部 == |  |  |
@@ -38,14 +38,14 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 裆部 === |  |  |
 |  | ==== 下半身 > 裆部 > 阴茎 ==== |  |  |
-| frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ul.ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
+| frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
 |  | == 多人活动 == |  |  |
 | ffm threesome | 嫐 | ♀♂♀，2 女 1 男 3P。需要乱交(group)标签。 |  |
-| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、嬲(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、嫐(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ul.ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
+| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、嬲(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、嫐(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
 | mmf threesome | 嬲 | ♂♀♂，2 男 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | mmt threesome | 男男扶 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
-| oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ul.ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ul.ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ul.ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
+| oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | ttm threesome | 扶扶男 | ⚥♂⚥，2 扶 1 男 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 |  |
 |  | == 工具 == |  |  |
@@ -57,14 +57,14 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | anaglyph | 红蓝3D | 使用双色产生 3D 效果的图片。不应与 3D(3d)和立体图(stereoscopic)混淆。 |  |
 | animated | 动图 | 包含 GIF 动图的画廊。 |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。缺页(incomplete)的选集和画集(artbook)不算在内。 |  |
-| artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于缺页(incomplete)的作品。<br>![图](https://ul.ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ul.ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
+| artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于缺页(incomplete)的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
-| full color | 全彩色 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、图片集(imageset)和 3D(3d)画廊。<br>![图](http://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
+| full color | 全彩色 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、图片集(imageset)和 3D(3d)画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是动图(animated)。 |  |
 | how to | 教程 | 关于如何绘画或设计的教学图像。 |  |
 | multi-work series | 系列作品 | 一个完整的作品，其故事跨多册书籍或发行版。不应与故事线(story arc)混淆。 |  |
 | novel | 小说 | 大部分页面为不包含图片的纯文本。 |  |
-| paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ul.ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
+| paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
 | redraw | 重绘 | 替换了原始图像的部分内容。消除修正的过程不算在内。 |  |
 | screenshots | 截图 | 电影、动画或电视节目的截图。动图(animated)不算在内。 |  |
 | stereoscopic | 立体图 | 可以使用 3D 眼镜观看的成对的立体图像。不应与 3D(3d)和红蓝3D(anaglyph)混淆。 |  |
