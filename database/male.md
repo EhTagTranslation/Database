@@ -173,7 +173,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | brain fuck | 脑交🧠 | 涉及大脑的性行为。 |  |
 | crown | 王冠👑 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与宝冠(tiara)混淆。 |  |
 | elf | 精灵🧝‍♂️ | 通常有尖耳朵和苗条的身体。 |  |
-| facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性支配(femdom)或调教(bdsm)配对。 |  |
+| facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性主导(femdom)或调教(bdsm)配对。 |  |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 |  |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与宝冠(tiara)或王冠(crown)等头饰混淆。 |  |
 | kemonomimi | 兽耳 | 有动物耳朵的角色，有时还有一条尾巴。不应与毛茸茸(furry)混淆。 |  |
@@ -398,7 +398,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | witch | 女巫装 | 一顶有宽帽檐的高帽，通常穿着布长袍。需要异性装(crossdressing)标签。 |  |
 |  | == 多人活动 == |  |  |
 | double anal | 双插肛门 | 两根阴茎插入一个肛门。不需要再添加肛交(anal)标签。<br>![例：女神異聞錄4同人](# "https://ehgt.org/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg") |  |
-| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和女雄(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg") |  |
+| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和人妖♂(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg") |  |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
 | oyakodon | 父子丼 | 父亲和儿子与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
@@ -477,25 +477,25 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与截肢(amputee)或束缚(bondage)混淆。 |  |
 | mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴口塞(gag)的人。不用于无言的(speechless)画廊。 |  |
 |  | == 性别 == |  |  |
-| cuntboy | 人妖 | 有阴道的男性。男性与人妖间的性行为不应添加男同(yaoi)或纯男性(males only)标签。有可能有阴茎，此时不应与扶她(futanari)混淆。 |  |
-| feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或精神控制(mind control)）或将他的身体改变为女雄(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
+| cuntboy | 人妖♀ | 有阴道的男性。男性与人妖间的性行为不应添加男同(yaoi)或纯男性(males only)标签。有可能有阴茎，此时不应与扶她(futanari)混淆。 |  |
+| feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或精神控制(mind control)）或将他的身体改变为人妖♂(shemale)/扶她(futanari)。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
 | gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用变身(transformation)。不应与换身(body swap)或异性装(crossdressing)混淆。不用于女性变为扶她(futanari)的情况。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
 |  | === 性别 > 性别间关系 === |  |  |
 | bisexual | 双性 | 参与性别或恋物癖活动的人物，在整个画廊中具有相反的性别特征。不应用于扶上扶(dickgirl on dickgirl)。 |  |
-| dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是肛交(anal)还是口交(blowjob)。需要扶她(futanari)或女雄(shemale)标签。<br>![图](# "https://ehgt.org/d4/f1/d4f1ddc47d26269a3a1a6567237944e64fa0ac7f-3288334-1709-2400-jpg_l.jpg") |  |
+| dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是肛交(anal)还是口交(blowjob)。需要扶她(futanari)或人妖♂(shemale)标签。<br>![图](# "https://ehgt.org/d4/f1/d4f1ddc47d26269a3a1a6567237944e64fa0ac7f-3288334-1709-2400-jpg_l.jpg") |  |
 |  | == 技术 == |  |  |
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |  |
 | x-ray | 透视 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/a0/81/a0819f63c83f90fab00cbac9e94497cdd7a6fe49-1292852-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/c9/b1/c9b1daa9ad849b7a3c1e77e44fc65809a21e734c-668677-1920-2720-jpg_l.jpg") |  |
 |  | == 上下文 == |  |  |
 | blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
-| males only | 纯男性⚣ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖(cuntboy)不算在内。<br>![例：黒執事同人](# "https://ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
+| males only | 纯男性⚣ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。人妖♀(cuntboy)不算在内。<br>![例：黒執事同人](# "https://ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
 | impregnation | 受孕 | 怀孕(pregnant)的过程。 |  |
 | prostitution | 援交 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
-| sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。人妖(cuntboy)不算在内。 |  |
+| sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。人妖♀(cuntboy)不算在内。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomboy | 假小子 | 一个女孩模仿男性的穿着、行为和言辞，但没有掩饰自己的性别。当她试图掩饰自己的性别时，有可能与异性装(crossdressing)共存。 |  |
-| tomgirl | 伪娘 | 通常误认为是女性的男性。常与异性装(crossdressing)同时出现，不应与女雄(shemale)混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |
+| tomgirl | 伪娘 | 通常误认为是女性的男性。常与异性装(crossdressing)同时出现，不应与人妖♂(shemale)混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |
 | tutor | 家庭教师 | 向校外的学生提供私人学术援助的人士。 |  |
 | virginity | 丧失童贞 | 男性失去童贞，不得与女性的破处(defloration)混淆。 |  |
 | widower | 鳏夫 | 寡妇(widow)的男性版本。 |  |
