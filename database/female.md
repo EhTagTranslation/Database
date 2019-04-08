@@ -360,7 +360,10 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | bloomers | 布鲁马 | 主要为日本女学生的运动短裤。通常蓝色或红色。不应与自行车短裤(bike shorts)混淆。<br>![图](# "https://ul.ehgt.org/8f/98/8f9814a8e28c50b0f450337eda6b96a4ddec51f0-87738-800-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/76/03/76035fd50b3831ab5fe3e2805a1e93a05761d195-105035-800-600-jpg_l.jpg")![](# "https://ul.ehgt.org/17/a2/17a2af6bbc8944407110614bedeed31bf460f66a-661398-1024-600-png_l.jpg")![](# "https://ul.ehgt.org/28/29/28299624954d567dc68ac38a0f4e3816dacc3a28-192675-1024-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/77/e6/77e68870b007bfd2800b0bdf4e2164dedc559a6e-150302-800-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/fc/dc/fcdc7e883b4e8f067f3212c0de9e8645d44e4884-152348-800-600-jpg_l.jpg")![图](# "https://ul.ehgt.org/d9/5d/d95ddb44bf43f71151ccd52d69693674b2cb91f6-2505510-1506-2119-jpg_l.jpg")![图](# "https://ul.ehgt.org/b1/81/b1816c5d634e52744aacd362f3da40ed45050740-2989109-2141-3015-jpg_l.jpg")![图](# "https://ul.ehgt.org/27/ba/27bae95ed09c098a2c0a5c73dacea930de3f7684-1320253-2112-3000-jpg_l.jpg") |  |
 | bodystocking | 连身袜 | 一种覆盖大部分身体的长筒袜(stockings)的变种，一般为丝袜材质。可以不覆盖手臂但必须覆盖腿足。不应与连体紧身衣(bodysuit)混淆。<br>![图](# "http://ehgt.org/1f/4c/1f4cc797885818649234f7e59fe6846489f8c84d-5510622-2828-4000-jpg_l.jpg")![图](# "http://ehgt.org/43/f5/43f554dcba2d9c59ed695849053eb9a25b489592-2520079-2662-3000-jpg_l.jpg")![图](# "http://ehgt.org/52/da/52da7363869d1c4c6c60d679d0bf1205bfab6698-2107437-1368-2000-jpg_l.jpg")![图](# "https://ul.ehgt.org/07/35/073507b2f3c6b5142bfc18a4ed8363aefed7f358-423965-1106-1518-jpg_250.jpg")![图](# "https://ul.ehgt.org/07/af/07afbefdecad55a752c8e6318be308852930554a-666429-1309-1790-jpg_250.jpg")![图](# "https://ul.ehgt.org/d0/f9/d0f940d14ac03e86d2fd3076089b01f0d53d743d-753537-1080-1920-png_250.jpg")![图](# "https://ul.ehgt.org/fe/33/fe33f182f2c33fd96a9d7be3a43f55caf399a648-300780-816-1200-jpg_250.jpg")![图](https://ul.ehgt.org/c1/f0/c1f091e29ad0e9a5331cfe58171a41aa63a17865-832734-960-1555-jpg_l.jpg) |  |
 | bodysuit | 连体紧身衣 | 任何贴合的全身服装，必须覆盖胳膊和腿。不应与全身套装(kigurumi)、乳胶紧身衣(latex)、泳装(swimsuit)、皮物(skinsuit)混淆。<br>![图](# "http://ehgt.org/15/02/1502df3144d4b0108480ef932b63be591f994b28-2631938-2828-4000-jpg_l.jpg")![图](https://ul.ehgt.org/c4/d0/c4d079a85e5036fb01bf7aae3f8d3b0d162679e3-584193-800-1100-jpg_l.jpg)![图](# "https://ul.ehgt.org/1c/96/1c96f84e32f14153c63e209c86ddb8700ec834fa-599290-1003-1400-jpg_250.jpg")![图](# "https://ul.ehgt.org/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_l.jpg") |  |
-| bride | 婚纱 | 结婚礼服。 |  |
+| tights | 紧身服 | 超级英雄穿的紧身衣裤。不应与连体紧身衣(bodysuit)混淆。<br>![图](http://ehgt.org/11/97/1197e4eb01dc9fae795cb38eb7827f4f6ff4fdca-1365129-1000-1500-jpg_l.jpg) |  |
+| leotard | 紧身衣 | 塑胶服装，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与泳装(swimsuit)或死库水(school swimsuit)混淆。<br>![图](# "https://ul.ehgt.org/0e/4c/0e4cb66ebd858ceb8af866c7efb390253f60609b-912489-2087-3000-jpg_l.jpg")![图](# "https://ul.ehgt.org/94/7b/947bb629b7fdda23c863e5878cc2646853b7e099-913358-1500-2120-jpg_250.jpg") |  |
+| latex | 乳胶紧身衣 | 用橡胶或塑料制作的衣服，一般紧身。不应与紧身服(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。<br>![图](# "https://ul.ehgt.org/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_250.jpg")![图](# "https://ul.ehgt.org/fd/6e/fd6e5aed7c882df3011f351ce445fa611cd6cb31-1200828-1421-2000-jpg_l.jpg")![图](# "https://ul.ehgt.org/4b/94/4b947d1ca23f23ad339cd3572ff8f9259ae16d0e-561629-1417-2000-jpg_l.jpg") |  |
+| bride | 婚纱 | 结婚礼服。<br>![图](http://ehgt.org/15/f7/15f70facb09f079dbe4900a22215c0b0aa22c0bc-328196-1125-1500-jpg_l.jpg)![图](# "http://ehgt.org/f4/f4/f4f43fbed0e7851cd1a59ed2e85c08aad29f9cf7-2305864-1296-1812-jpg_l.jpg")![图](# "http://ehgt.org/e9/a0/e9a04815d938be3261e9e62edf79d9614a31e784-5326154-1929-2728-jpg_l.jpg") |  |
 | business suit | 西装 | 商务服装。 |  |
 | butler | 管家 | 一个家庭雇工，经常为大户的富裕家庭服务。穿有领带或领结的燕尾服。 |  |
 | cashier | 收银员 | 一个站在柜台后面或在商店里工作的人，穿着围裙穿着制服。 |  |
@@ -388,8 +391,6 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | kindergarten uniform | 幼儿园制服 | 一个穿着简单的浅蓝色套头衫的人，有假的衣领，经常戴着黄色的帽子。 |  |
 | kunoichi | 女忍装 | 女性忍者服装。通常为暗色，有网装衣服和部分轻甲。不应与忍者装(ninja)混淆。 |  |
 | lab coat | 白大褂 | 一件长长的白色外套。经常被医生，科学家或学校护士穿着。 |  |
-| latex | 乳胶紧身衣 | 用橡胶或塑料制作的衣服，一般紧身。不应与紧身服(tights)、 布鲁马(bloomers)或自行车短裤(bike shorts)标签混淆。<br>![图](# "https://ul.ehgt.org/97/c6/97c65a8c2b9fed456708a3a8ddffd85fca77297f-1260684-960-1280-jpg_250.jpg")![图](# "https://ul.ehgt.org/fd/6e/fd6e5aed7c882df3011f351ce445fa611cd6cb31-1200828-1421-2000-jpg_l.jpg")![图](# "https://ul.ehgt.org/4b/94/4b947d1ca23f23ad339cd3572ff8f9259ae16d0e-561629-1417-2000-jpg_l.jpg") |  |
-| leotard | 紧身衣 | 塑胶服装，常用于体操、兔女郎(bunny girl)和摔角(wrestling)。不应与泳装(swimsuit)或死库水(school swimsuit)混淆。<br>![图](# "https://ul.ehgt.org/0e/4c/0e4cb66ebd858ceb8af866c7efb390253f60609b-912489-2087-3000-jpg_l.jpg")![图](# "https://ul.ehgt.org/94/7b/947bb629b7fdda23c863e5878cc2646853b7e099-913358-1500-2120-jpg_250.jpg") |  |
 | lingerie | 情趣内衣 | 用来增加性感度的轻薄或性感的内衣，相对于常规的内衣更色情。此外，还包括睡衣。<br>![图](# "https://ul.ehgt.org/90/03/900397c7b6fac353359151bf0541f528447183fc-373625-498-870-jpg_l.jpg")![图](# "https://ul.ehgt.org/3b/db/3bdbcccdce39b5203b3ccd8a68468e3c53d76f7e-662062-804-1130-png_l.jpg")![图](# "https://ul.ehgt.org/28/72/28721edb0c17115371eaa5c89a0a681c9da33ea4-1009352-890-1312-jpg_l.jpg")![图](# "https://ul.ehgt.org/29/0f/290f798c6f550a3d425f91a8d754a9f3eac894e6-646114-756-1224-jpg_l.jpg") |  |
 | living clothes | 生物衣 | 自己具有运动能力的衣服。 |  |
 | magical girl | 魔法少女 | 一种服装，包括裙子和褶边制服。 |  |
@@ -422,7 +423,6 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |  |
 | thigh high boots | 高筒靴 | 高过膝盖的靴子。不应与长筒袜(stockings)混淆。<br>![图](# "https://ul.ehgt.org/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg")![图](# "https://ul.ehgt.org/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg") |  |
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与王冠(crown)混淆。<br>![](https://ul.ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
-| tights | 紧身服 | 超级英雄穿的紧身服装。不应与连体紧身衣(bodysuit)混淆。 |  |
 | tracksuit | 运动服 | 合成材料制成的匹配的衬衫和裤子，意在诱发出汗，用于锻炼或运动。只需有一部分衣服在性期间留下。 |  |
 | waiter | 男侍者装 | 女侍者装的男性版本。不应与女侍者装(waitress)或管家(butler)混淆。需要异性装(crossdressing)标签。 |  |
 | waitress | 女侍者装 | 在餐厅工作的女孩穿的制服; 通常浅色的衣服，有时包括围裙或裙子。不应与男侍者装(waiter)或女仆装(maid)混淆。<br>![图](# "https://ul.ehgt.org/de/00/de00abf34bfd99dda1b9a572744596c5a88a75a6-467070-626-849-jpg_l.jpg") |  |
@@ -467,7 +467,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | underwater | 水下 | 在性期间大部分或完全浸没在液体中。 |  |
 |  | === 液体 > 体液 === |  |  |
 | blood | 流血 | 大量流血（如从身体伤口）。不用为肢解(guro)添加此标签。不用于破处(defloration)导致的流血。 |  |
-| squirting | 潮吹 | 女性大量射出体液。 |  |
+| squirting | 潮吹 | 女性大量射出体液。<br>![图](# "http://ehgt.org/d5/ab/d5ab335ef940c63352b62de195efd31371d91716-6571126-2894-4093-jpg_l.jpg") |  |
 |  | ==== 液体 > 体液 > 精液 ==== |  |  |
 | bukkake | 精液覆盖 | 性主角被精液覆盖，一般不止一个人射精。不像颜射一般局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ul.ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ul.ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ul.ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ul.ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
 | cum bath | 精液浴 | 浴缸、泳池或其他大容器装有精液，至少有一个人部分浸没在精液中。 |  |
