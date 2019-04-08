@@ -2413,7 +2413,9 @@
 | noire | 诺瓦尔 | ![图](http://ehgt.org/cb/c7/cbc7e4f78bba5c97c5ffbd173af7220e16149a56-2848886-4877-6950-jpg_l.jpg) | |
 | blanc | 布兰 | ![图](http://ehgt.org/a5/33/a53389e6540cc17ac4b0ed5f17456f19de40da52-2673001-4877-6950-jpg_l.jpg) |  |
 | vert | 贝露 | ![图](http://ehgt.org/71/b3/71b37c69c3a08cebd385c7efa6b3c68ae91a2977-2735349-4877-6950-jpg_l.jpg) | |
-| plutia | 普露露特 \| 虹色之心 |<br>![图](http://ehgt.org/db/d1/dbd10cac8c052ac23af0436c23d3553e71f9405b-2622564-4877-6950-jpg_l.jpg)![图](http://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) | |
+| peashy | 皮榭 | 澄黄之心<br>![图](http://ehgt.org/90/7d/907d42b55bdf4edb1ad119448f9d60307119ff71-2270611-4877-6950-jpg_l.jpg)![图](http://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) | |
+| plutia | 普露露特 | 虹色之心<br>![图](http://ehgt.org/db/d1/dbd10cac8c052ac23af0436c23d3553e71f9405b-2622564-4877-6950-jpg_l.jpg)![图](http://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) | |
+| uzume | 天王星涡芽 | 橙色之心<br>![图](http://ehgt.org/df/76/df76c394f6eae7fb6837e0969e8f699ad9e55a59-2511404-4877-6950-jpg_l.jpg)![图](http://ehgt.org/16/ed/16ed4149b9f41fe736b2738346a33ceffa5de688-2131106-4877-6950-jpg_l.jpg) | |
 | | 超次元游戏海王星 > 女神候补生 | | |
 | nepgear | 涅普姬雅 | ![图](http://ehgt.org/b1/79/b179ff8cecdfb973d37665d39c061429f9ed216b-2357890-4877-6950-jpg_l.jpg) | |
 | uni | 优尼 | ![图](http://ehgt.org/b4/4c/b44c0043e24ee752dda5744771becbb2fd81b7c5-2182503-4877-6950-jpg_l.jpg) | |
@@ -2426,6 +2428,7 @@
 | green heart | 翠绿之心 | ![图](http://ehgt.org/6b/2c/6b2cf65bf42752697f1bc89823927f97e0106309-2120768-4877-6950-jpg_l.jpg) | |
 | | 超次元游戏海王星 > 其他角色 | | |
 | compa | 康帕 | ![图](http://ehgt.org/06/93/0693b9e1d6cf0164cd866c145f42725461c6f11a-3122492-4927-6958-jpg_l.jpg) | |
+| cave | Cave | ![图](http://ehgt.org/4e/ec/4eecdd7e8e450f14ebd88d2149779915d072d522-2203077-2108-3010-jpg_l.jpg)![图](http://ehgt.org/38/0e/380e1f7d5a978ceb1b67b208f6ce41cea443731a-2900152-2121-3012-jpg_l.jpg) | |
 | histoire | 伊丝特瓦尔 | ![图](http://ehgt.org/01/f2/01f2b9d74698a68455bab3f34b35a6025fece784-2641446-4877-6950-jpg_l.jpg) | |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
