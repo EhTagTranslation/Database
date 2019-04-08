@@ -929,6 +929,7 @@
 |  | ▼ Re0 角色 |  |  |
 | emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主.<br>![图](http://ehgt.org/c1/8d/c18d33b2a442c52908aad5c057a7fda20be42949-1039868-1000-1252-png_l.jpg) |  |
 | rem | 雷姆 | ![图](http://ehgt.org/2f/97/2f9700e982745ee2d8a8a9f4c807a7dde28b77f0-973087-1000-1295-png_l.jpg)![雷姆](# "https://ul.ehgt.org/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg") |  |
+|  | 拉姆 | ram 重复项 |  |
 | subaru natsuki | 菜月昴 | ![菜月昴](# "https://ul.ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg") |  |
 | beatrice | 碧翠丝 | ![碧翠丝](# "https://ul.ehgt.org/16/dc/16dcaca304fe6ea989c4b30483ce48f1d908dc29-302210-850-1189-jpg_l.jpg") |  |
 | felix argyle | 菲利克斯·阿盖尔 | ![菲利克斯·阿盖尔](# "https://ul.ehgt.org/87/dd/87ddb46ecaf1c433b74aa4f3028e2099c2ea45c7-363173-707-1000-jpg_l.jpg") |  |
@@ -2419,7 +2420,7 @@
 | | 超次元游戏海王星 > 女神候补生 | | |
 | nepgear | 涅普姬雅 | ![图](http://ehgt.org/b1/79/b179ff8cecdfb973d37665d39c061429f9ed216b-2357890-4877-6950-jpg_l.jpg) | |
 | uni | 优尼 | ![图](http://ehgt.org/b4/4c/b44c0043e24ee752dda5744771becbb2fd81b7c5-2182503-4877-6950-jpg_l.jpg) | |
-| | ram、重复项 拉姆 |  | |
+| | 拉姆 | ram 重复项 | |
 | rom | 萝姆 | ![图](http://ehgt.org/ad/2f/ad2f311f8ef5b8d29b1c6e4174deffe77a69689d-2402347-4877-6950-jpg_l.jpg) | |
 | | 超次元游戏海王星 > 女神化后的形态 | | |
 | purple heart | 绀紫之心 | ![图](http://ehgt.org/28/9e/289eb5a0977b3ec96f37a0794d45813717c3a1fd-2304056-4877-6950-jpg_l.jpg) | |
