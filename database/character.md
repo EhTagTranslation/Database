@@ -20,7 +20,7 @@
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 |  |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](https://ul.ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
-| rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](http://ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](http://ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](http://ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 |  |
+| rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](https://ul.ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 |  |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "https://ul.ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |  |
 | katsuragi | 葛城 | No.203 ![](# "https://ul.ehgt.org/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg")<br>![](https://ul.ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |  |
 | kasumi | 霞 | No.090 ![](# "https://ul.ehgt.org/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg")<br>![](https://ul.ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |  |
@@ -30,7 +30,7 @@
 | murakumo | 丛 \| 丛云 | ![](https://ul.ehgt.org/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br>No.015 丛云![丛云](# "https://ul.ehgt.org/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") |  |
 | nachi | 那智 | ![](https://ul.ehgt.org/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg)<br>No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 |  |
 | kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](# "https://ul.ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
-| ram | 拉姆 | 1、《Re：从零开始的异世界生活》中的角色<br>![拉姆](# "https://ul.ehgt.org/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg")<br>2、《超次元游戏海王星》中的角色<br>![图](http://ehgt.org/d9/30/d930d4c3a74a3650fb43e0f00a5bcf57f350be59-2269588-4877-6950-jpg_l.jpg) |  |
+| ram | 拉姆 | 1、《Re：从零开始的异世界生活》中的角色<br>![拉姆](# "https://ul.ehgt.org/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg")<br>2、《超次元游戏海王星》中的角色<br>![图](https://ul.ehgt.org/d9/30/d930d4c3a74a3650fb43e0f00a5bcf57f350be59-2269588-4877-6950-jpg_l.jpg) |  |
 |  | ▲ 重复项合并 |  |  |
 |  | ▼ 萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |  |
 | ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |  |
@@ -927,8 +927,8 @@
 |  | ▼ 传送门 角色 |  |  |
 | chell | 雪儿 | ![](https://ul.ehgt.org/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |  |
 |  | ▼ Re0 角色 |  |  |
-| emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主.<br>![图](http://ehgt.org/c1/8d/c18d33b2a442c52908aad5c057a7fda20be42949-1039868-1000-1252-png_l.jpg) |  |
-| rem | 雷姆 | ![图](http://ehgt.org/2f/97/2f9700e982745ee2d8a8a9f4c807a7dde28b77f0-973087-1000-1295-png_l.jpg)![雷姆](# "https://ul.ehgt.org/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg") |  |
+| emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主.<br>![图](https://ul.ehgt.org/c1/8d/c18d33b2a442c52908aad5c057a7fda20be42949-1039868-1000-1252-png_l.jpg) |  |
+| rem | 雷姆 | ![图](https://ul.ehgt.org/2f/97/2f9700e982745ee2d8a8a9f4c807a7dde28b77f0-973087-1000-1295-png_l.jpg)![雷姆](# "https://ul.ehgt.org/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg") |  |
 |  | 拉姆 | ram 重复项 |  |
 | subaru natsuki | 菜月昴 | ![菜月昴](# "https://ul.ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg") |  |
 | beatrice | 碧翠丝 | ![碧翠丝](# "https://ul.ehgt.org/16/dc/16dcaca304fe6ea989c4b30483ce48f1d908dc29-302210-850-1189-jpg_l.jpg") |  |
@@ -1121,16 +1121,16 @@
 | ryouko mikado | 御门凉子 | ![](https://ul.ehgt.org/21/ec/21ec1799cfdf175f491c32fd6f10281cece0f20b-726815-1225-1772-jpg_l.jpg) |  |
 | lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](https://ul.ehgt.org/0c/ac/0cacc3552822e62f75e617cfe8d71c75de79f98e-2318079-2934-4220-jpg_l.jpg) |  |
 | haruna sairenji | 西连寺春菜 | ![](https://ul.ehgt.org/ae/63/ae638a65cc167fe192da593d9acbbee423352fae-1111253-2437-1750-jpg_l.jpg) |  |
-| golden darkness | 金色暗影 | ![图](# "http://ehgt.org/5c/f5/5cf5b15ebf7002a3fd97d78ba3cbc593ae79f0dd-153834-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/8f/b2/8fb2f253d90047fe66d8546bca7951f4f79ff33f-838294-2841-4101-jpg_l.jpg) |  |
-| yui kotegawa | 古手川唯 | ![图](# "http://ehgt.org/5d/dd/5ddd03ad6ddcf266abdd88b6d1eef2f8f65aea54-173912-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/0b/5e/0b5e9c4696b43f6aceae624ef6b75b29d2142035-631115-2840-4094-jpg_l.jpg) |  |
-| mikan yuuki | 结城美柑 | ![图](# "http://ehgt.org/04/bd/04bdc7ebdbc7abffe18f76b22703fbaf5144d566-134823-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/a7/79/a7797195a3e191f42d7cabb1a196cae5692da6f0-650692-1225-1748-jpg_l.jpg) |  |
+| golden darkness | 金色暗影 | ![图](# "https://ul.ehgt.org/5c/f5/5cf5b15ebf7002a3fd97d78ba3cbc593ae79f0dd-153834-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/8f/b2/8fb2f253d90047fe66d8546bca7951f4f79ff33f-838294-2841-4101-jpg_l.jpg) |  |
+| yui kotegawa | 古手川唯 | ![图](# "https://ul.ehgt.org/5d/dd/5ddd03ad6ddcf266abdd88b6d1eef2f8f65aea54-173912-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/0b/5e/0b5e9c4696b43f6aceae624ef6b75b29d2142035-631115-2840-4094-jpg_l.jpg) |  |
+| mikan yuuki | 结城美柑 | ![图](# "https://ul.ehgt.org/04/bd/04bdc7ebdbc7abffe18f76b22703fbaf5144d566-134823-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/a7/79/a7797195a3e191f42d7cabb1a196cae5692da6f0-650692-1225-1748-jpg_l.jpg) |  |
 | nemesis | 涅墨西斯 | ![](# "https://ul.ehgt.org/99/1a/991a7a6f0af87c321228f28aa6d96175502f32a4-1647950-2117-3000-jpg_l.jpg") |  |
 | saki tenjouin | 天条院沙姬 | ![](https://ul.ehgt.org/e4/92/e492c172740f446cfa813ff48a8afb6c6401e59f-743197-1225-1783-jpg_l.jpg) |  |
 | ayako fujisaki | 藤崎绫 | ![](https://ul.ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | rin kujou | 九条凛 | ![](https://ul.ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
-| mea kurosaki | 黑咲芽亚 | ![图](# "http://ehgt.org/60/52/6052fa80e6b795e3949252f016938d3db27f32aa-126241-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/0f/1a/0f1aa86e0b9a9eee00f29c9d4c46c6c738f00b78-584908-2842-4093-jpg_l.jpg) |  |
+| mea kurosaki | 黑咲芽亚 | ![图](# "https://ul.ehgt.org/60/52/6052fa80e6b795e3949252f016938d3db27f32aa-126241-1084-1530-jpg_l.jpg")![](https://ul.ehgt.org/0f/1a/0f1aa86e0b9a9eee00f29c9d4c46c6c738f00b78-584908-2842-4093-jpg_l.jpg) |  |
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://ul.ehgt.org/80/a4/80a4d4530005459811eb06c9c78fcb0bc7d37120-997681-2843-4098-jpg_l.jpg) |  |
-| momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![图](# "http://ehgt.org/43/c8/43c8e93b7eebedfc9ad21cee77baf738e74791a7-124654-1084-1530-jpg_l.jpg")![图](http://ehgt.org/3a/33/3a3381f3514a5914dbb89eb4a50c67c89e6689d9-157645-1084-1530-jpg_l.jpg)![](https://ul.ehgt.org/05/fb/05fb2e3fce0b7f6531eb3e70fc148a6deed59da9-553226-2839-4096-jpg_l.jpg) |  |
+| momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![图](# "https://ul.ehgt.org/43/c8/43c8e93b7eebedfc9ad21cee77baf738e74791a7-124654-1084-1530-jpg_l.jpg")![图](https://ul.ehgt.org/3a/33/3a3381f3514a5914dbb89eb4a50c67c89e6689d9-157645-1084-1530-jpg_l.jpg)![](https://ul.ehgt.org/05/fb/05fb2e3fce0b7f6531eb3e70fc148a6deed59da9-553226-2839-4096-jpg_l.jpg) |  |
 | riko yuusaki | 夕崎梨子 | ![](https://ul.ehgt.org/61/4b/614b4a0530b8d055505917dfa3123576fe27ff59-159705-1020-1098-jpg_l.jpg) |  |
 | sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://ul.ehgt.org/aa/fd/aafdea5b0914bbe92878033ff2cc5c79c42e7a91-960909-2112-3000-jpg_l.jpg) |  |
 | tearju lunatique | 提亚悠·鲁娜提克 | ![](# "https://ul.ehgt.org/53/d9/53d9a959154986798ac11d0ea2c6b278409ec446-718950-1400-1981-jpg_l.jpg") |  |
@@ -1313,10 +1313,10 @@
 | satoshi fukube | 福部里志 |  |  |
 | ayako kouchi | 河内亚也子 |  |  |
 |  | ▼ 你的名字 |  |  |
-| mitsuha miyamizu | 宫水三叶<br>![图](http://ehgt.org/59/f7/59f72c3af52e7729232d14f6e4f2727d1e5ba567-3232881-2127-3012-png_l.jpg)![图](# "http://ehgt.org/44/e8/44e8fad3cb06e3064d3ce8730aa7056a663071f9-2326457-1500-2000-jpg_l.jpg")![图](# "http://ehgt.org/27/21/2721538a4b9b6bc288ed307ae8ad29e360614044-5063714-3840-2160-jpg_l.jpg")![图](# "http://ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "http://ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |  |
+| mitsuha miyamizu | 宫水三叶<br>![图](https://ul.ehgt.org/59/f7/59f72c3af52e7729232d14f6e4f2727d1e5ba567-3232881-2127-3012-png_l.jpg)![图](# "https://ul.ehgt.org/44/e8/44e8fad3cb06e3064d3ce8730aa7056a663071f9-2326457-1500-2000-jpg_l.jpg")![图](# "https://ul.ehgt.org/27/21/2721538a4b9b6bc288ed307ae8ad29e360614044-5063714-3840-2160-jpg_l.jpg")![图](# "https://ul.ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "https://ul.ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |  |
 | yotsuha miyamizu | 宫水四叶 |  |  |
 | miki okudera | 奥寺美纪 |  |  |
-| taki tachibana | 立花泷<br>![图](# "http://ehgt.org/02/7b/027b9bb184d08784b13205789f5ffa60b8dd5a8b-1177337-2006-2832-jpg_l.jpg")![图](# "http://ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "http://ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |  |
+| taki tachibana | 立花泷<br>![图](# "https://ul.ehgt.org/02/7b/027b9bb184d08784b13205789f5ffa60b8dd5a8b-1177337-2006-2832-jpg_l.jpg")![图](# "https://ul.ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "https://ul.ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |  |
 |  | ▼ 笨蛋测验召唤兽 |  |  |
 | akihisa yoshii | 吉井明久 |  |  |
 | akira yoshii | 吉井玲 |  |  |
@@ -1579,7 +1579,7 @@
 |  | 新子望 |  |  |
 |  | ▼ 兽娘动物园 |  |  |
 | kaban | 背包 |  |  |
-| serval | 薮猫<br>![图](http://ehgt.org/4b/5c/4b5ce2bb126e5d9798737c09d58aa97417cb2ea1-775805-800-1241-jpg_l.jpg) |  |  |
+| serval | 薮猫<br>![图](https://ul.ehgt.org/4b/5c/4b5ce2bb126e5d9798737c09d58aa97417cb2ea1-775805-800-1241-jpg_l.jpg) |  |  |
 | common raccoon | 浣熊 |  |  |
 | fennec | 耳廓狐 |  |  |
 | ezo red fox | 北狐 |  |  |
@@ -1720,52 +1720,52 @@
 |  | TYPE-MOON > Fate |  |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争） |  |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 英灵 |  |  |
-| saber | Saber | 指第四次圣杯战争和第五次圣杯战争中的 Saber（阿尔托莉雅·潘德拉贡）。其他情况使用真名。<br>![图](http://ehgt.org/14/d4/14d4dba366028e4b0209c5f66136a555134d0597-2390982-1024-1448-png_l.jpg)![图](http://ehgt.org/ab/9d/ab9db597f5fbcab337d35b459ce7f0c44c2060b3-15076828-4865-3357-png_l.jpg)![图](http://ehgt.org/f0/df/f0dfefd2c854156bb58e1a2e1cd52501b987bec3-2370231-1600-1304-png_l.jpg)![图](http://ehgt.org/81/8e/818e366ec023b64147cf238d3b38dc6b65c724b0-1183435-750-1000-png_l.jpg)![图](http://ehgt.org/c2/50/c2509796f49117049a62cb8aea322a1efd7b53b4-1679513-1000-1500-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| archer | Archer | 指第五次圣杯战争中的 Archer，英灵卫宫。其他情况使用真名。<br>![图](http://ehgt.org/3b/8c/3b8c57bb221351300c07d2e3461fdc8f981dfb65-1456628-1024-1448-png_l.jpg)![图](http://ehgt.org/66/72/6672b4fb7d4c677dbb4e726dab891be405bafc9b-1975383-1024-1448-png_l.jpg) |  |
-| lancer | Lancer | 指第五次圣杯战争中的 Lancer，库·丘林。其他情况使用真名。<br>![图](http://ehgt.org/3f/13/3f13a3d0d1f1fdd8d72b28432f077e33d260b3cc-2425361-1024-1448-png_l.jpg)![图](http://ehgt.org/09/90/0990ab50cbab3804c8e965b2b05d08d7832854b9-2233444-1024-1448-png_l.jpg) |  |
+| saber | Saber | 指第四次圣杯战争和第五次圣杯战争中的 Saber（阿尔托莉雅·潘德拉贡）。其他情况使用真名。<br>![图](https://ul.ehgt.org/14/d4/14d4dba366028e4b0209c5f66136a555134d0597-2390982-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/ab/9d/ab9db597f5fbcab337d35b459ce7f0c44c2060b3-15076828-4865-3357-png_l.jpg)![图](https://ul.ehgt.org/f0/df/f0dfefd2c854156bb58e1a2e1cd52501b987bec3-2370231-1600-1304-png_l.jpg)![图](https://ul.ehgt.org/81/8e/818e366ec023b64147cf238d3b38dc6b65c724b0-1183435-750-1000-png_l.jpg)![图](https://ul.ehgt.org/c2/50/c2509796f49117049a62cb8aea322a1efd7b53b4-1679513-1000-1500-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| archer | Archer | 指第五次圣杯战争中的 Archer，英灵卫宫。其他情况使用真名。<br>![图](https://ul.ehgt.org/3b/8c/3b8c57bb221351300c07d2e3461fdc8f981dfb65-1456628-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/66/72/6672b4fb7d4c677dbb4e726dab891be405bafc9b-1975383-1024-1448-png_l.jpg) |  |
+| lancer | Lancer | 指第五次圣杯战争中的 Lancer，库·丘林。其他情况使用真名。<br>![图](https://ul.ehgt.org/3f/13/3f13a3d0d1f1fdd8d72b28432f077e33d260b3cc-2425361-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/09/90/0990ab50cbab3804c8e965b2b05d08d7832854b9-2233444-1024-1448-png_l.jpg) |  |
 |  | Rider | （重复项）指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。 |  |
-| caster | Caster | 指第五次圣杯战争中的 Caster，美狄亚。其他情况使用真名。<br>![图](http://ehgt.org/1b/51/1b5131351221ffe1925a6a6bc0651a8760c9ff5e-1972064-1024-1448-png_l.jpg)![图](http://ehgt.org/c3/74/c374907ede60ad8a7ebdff268d38701d253bc0c3-2311772-1024-1448-png_l.jpg) |  |
-| berserker | Berserker | 指第五次圣杯战争中的 Berserker，赫拉克勒斯。其他情况使用真名。<br>![图](http://ehgt.org/07/79/07791a023a3840f7ac7602dd6b1a86ac22b6bfda-1927109-1024-1448-png_l.jpg)![图](http://ehgt.org/a2/ee/a2ee5a97cde8be5f860daa113e4cbd47a71786e4-1961414-1024-1448-png_l.jpg) |  |
-| assassin | Assassin | 指第四次圣杯战争和第五次圣杯战争中的 Assassin，哈桑·萨巴赫<br>![图](http://ehgt.org/84/64/846494b7b1da7885eb39e6b2dbc2b94bfe9c31d7-2215596-1024-1448-png_l.jpg)<br>或第五次圣杯战争中的 伪Assassin，佐佐木小次郎<br>![图](http://ehgt.org/22/d7/22d77a1558e10b1b2ce105726a77a8cefef0035e-2173241-1024-1448-png_l.jpg) |  |
+| caster | Caster | 指第五次圣杯战争中的 Caster，美狄亚。其他情况使用真名。<br>![图](https://ul.ehgt.org/1b/51/1b5131351221ffe1925a6a6bc0651a8760c9ff5e-1972064-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/c3/74/c374907ede60ad8a7ebdff268d38701d253bc0c3-2311772-1024-1448-png_l.jpg) |  |
+| berserker | Berserker | 指第五次圣杯战争中的 Berserker，赫拉克勒斯。其他情况使用真名。<br>![图](https://ul.ehgt.org/07/79/07791a023a3840f7ac7602dd6b1a86ac22b6bfda-1927109-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/a2/ee/a2ee5a97cde8be5f860daa113e4cbd47a71786e4-1961414-1024-1448-png_l.jpg) |  |
+| assassin | Assassin | 指第四次圣杯战争和第五次圣杯战争中的 Assassin，哈桑·萨巴赫<br>![图](https://ul.ehgt.org/84/64/846494b7b1da7885eb39e6b2dbc2b94bfe9c31d7-2215596-1024-1448-png_l.jpg)<br>或第五次圣杯战争中的 伪Assassin，佐佐木小次郎<br>![图](https://ul.ehgt.org/22/d7/22d77a1558e10b1b2ce105726a77a8cefef0035e-2173241-1024-1448-png_l.jpg) |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 御主 |  |  |
-| shirou emiya | 卫宫士郎 | 第五次圣杯战争中 Saber 的御主，卫宫切嗣的养子。<br>![图](http://ehgt.org/e3/b5/e3b5b444d91bb6a95fb81a12141144c177e5d509-31404-280-479-jpg_l.jpg)![图](http://ehgt.org/29/c1/29c1406636f6788671a856151a8367f47fff0bd0-7169713-4086-5181-jpg_l.jpg) |  |
-| rin tosaka | 远坂凛 | 第五次圣杯战争中 Archer 的御主，间桐樱的亲姐姐。<br>腿玩年<br>![图](http://ehgt.org/ba/21/ba21f4407244c25a6237d3c75610ea4c48a855b8-863075-800-1200-png_l.jpg)![图](http://ehgt.org/9a/ad/9aad3295e7ff8a665ab379bf944707676a017857-1199405-800-1000-png_l.jpg)![图](http://ehgt.org/07/0c/070c2c15983b325485d3958f8223f743c7ce8c6e-12969416-4886-3363-png_l.jpg) |  |
-| kirei kotomine | 言峰绮礼 | 第四次圣杯战争中 Assassin、Archer 的御主，第五次圣杯战争中 Lancer 的御主，远坂凛和间桐樱的杀父仇人，第五次圣杯战争的幕后黑手。<br>偷税<br>![图](http://ehgt.org/16/92/1692045b9d35553ca38b81f595edef1e8076f307-20413-280-479-jpg_l.jpg) |  |
-| sakura matou | 间桐樱 | 第五次圣杯战争中 Rider 真正的御主，远坂凛的亲妹妹。<br>![图](http://ehgt.org/8e/36/8e36aeff15126bdeb52eb5eaa01cd2b3792111f3-352887-614-960-png_l.jpg)![图](http://ehgt.org/8c/5a/8c5a85fe891c3130897f4aedd4acf89dc1799a7e-7707962-2431-3426-png_l.jpg)![图](http://ehgt.org/17/d5/17d503996a2d03d62befccfbdd051e51633d849d-5926697-2431-3426-png_l.jpg) |  |
-| shinji matou | 间桐慎二 | 第五次圣杯战争中 Rider 的表面御主，间桐樱的养兄。<br>![图](http://ehgt.org/fa/e4/fae41d54734ed77967c8987e880db06b9681534c-34704-280-479-jpg_l.jpg) |  |
-| illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | 第五次圣杯战争中 Berserker 的御主<br>![图](http://ehgt.org/e3/c6/e3c638d835c6f5e2391245e65211a97b8052da7a-7606742-4131-5177-jpg_l.jpg)![图](http://ehgt.org/59/25/59253585719909170b72c82bb83064befa4c8a78-2536903-1024-1448-png_l.jpg)![图](http://ehgt.org/52/65/526525c5fef80dde9b322a758b4d0ffb8e241e3e-2747623-1024-1448-png_l.jpg)![图](# "http://ehgt.org/c0/92/c092bbd0a5e5573a645bf925f15fe8797c2d5ac1-1110007-2114-3047-jpg_l.jpg") |  |
+| shirou emiya | 卫宫士郎 | 第五次圣杯战争中 Saber 的御主，卫宫切嗣的养子。<br>![图](https://ul.ehgt.org/e3/b5/e3b5b444d91bb6a95fb81a12141144c177e5d509-31404-280-479-jpg_l.jpg)![图](https://ul.ehgt.org/29/c1/29c1406636f6788671a856151a8367f47fff0bd0-7169713-4086-5181-jpg_l.jpg) |  |
+| rin tosaka | 远坂凛 | 第五次圣杯战争中 Archer 的御主，间桐樱的亲姐姐。<br>腿玩年<br>![图](https://ul.ehgt.org/ba/21/ba21f4407244c25a6237d3c75610ea4c48a855b8-863075-800-1200-png_l.jpg)![图](https://ul.ehgt.org/9a/ad/9aad3295e7ff8a665ab379bf944707676a017857-1199405-800-1000-png_l.jpg)![图](https://ul.ehgt.org/07/0c/070c2c15983b325485d3958f8223f743c7ce8c6e-12969416-4886-3363-png_l.jpg) |  |
+| kirei kotomine | 言峰绮礼 | 第四次圣杯战争中 Assassin、Archer 的御主，第五次圣杯战争中 Lancer 的御主，远坂凛和间桐樱的杀父仇人，第五次圣杯战争的幕后黑手。<br>偷税<br>![图](https://ul.ehgt.org/16/92/1692045b9d35553ca38b81f595edef1e8076f307-20413-280-479-jpg_l.jpg) |  |
+| sakura matou | 间桐樱 | 第五次圣杯战争中 Rider 真正的御主，远坂凛的亲妹妹。<br>![图](https://ul.ehgt.org/8e/36/8e36aeff15126bdeb52eb5eaa01cd2b3792111f3-352887-614-960-png_l.jpg)![图](https://ul.ehgt.org/8c/5a/8c5a85fe891c3130897f4aedd4acf89dc1799a7e-7707962-2431-3426-png_l.jpg)![图](https://ul.ehgt.org/17/d5/17d503996a2d03d62befccfbdd051e51633d849d-5926697-2431-3426-png_l.jpg) |  |
+| shinji matou | 间桐慎二 | 第五次圣杯战争中 Rider 的表面御主，间桐樱的养兄。<br>![图](https://ul.ehgt.org/fa/e4/fae41d54734ed77967c8987e880db06b9681534c-34704-280-479-jpg_l.jpg) |  |
+| illyasviel von einzbern | 伊莉雅丝菲尔·冯·爱因兹贝伦 | 第五次圣杯战争中 Berserker 的御主<br>![图](https://ul.ehgt.org/e3/c6/e3c638d835c6f5e2391245e65211a97b8052da7a-7606742-4131-5177-jpg_l.jpg)![图](https://ul.ehgt.org/59/25/59253585719909170b72c82bb83064befa4c8a78-2536903-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/52/65/526525c5fef80dde9b322a758b4d0ffb8e241e3e-2747623-1024-1448-png_l.jpg)![图](# "https://ul.ehgt.org/c0/92/c092bbd0a5e5573a645bf925f15fe8797c2d5ac1-1110007-2114-3047-jpg_l.jpg") |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 其他人物 |  |  |
-| saber alter | Saber Alter | 黑Saber<br>![图](http://ehgt.org/40/a5/40a51bc68a2402ea08d427ba830a5be37a4d7be7-1963656-1024-1448-png_l.jpg)![图](http://ehgt.org/3d/32/3d3216e8ae1841b38434781d6ec0afd60c68ade4-1675488-2130-3019-jpg_l.jpg)![图](http://ehgt.org/87/8b/878b688b0883dffaf11dfad6dde72b62e4e5c756-14099252-4875-3349-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| taiga fujimura | 藤村大河 | ![图](http://ehgt.org/34/10/3410654fa406e2958105e4a99dd3d374bac557be-1651792-1024-1448-png_l.jpg)![图](http://ehgt.org/2e/81/2e81b9f80ace2acf3e0f1b6aa3fe1563c141f94f-1638645-1024-1448-png_l.jpg) |  |
+| saber alter | Saber Alter | 黑Saber<br>![图](https://ul.ehgt.org/40/a5/40a51bc68a2402ea08d427ba830a5be37a4d7be7-1963656-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/3d/32/3d3216e8ae1841b38434781d6ec0afd60c68ade4-1675488-2130-3019-jpg_l.jpg)![图](https://ul.ehgt.org/87/8b/878b688b0883dffaf11dfad6dde72b62e4e5c756-14099252-4875-3349-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| taiga fujimura | 藤村大河 | ![图](https://ul.ehgt.org/34/10/3410654fa406e2958105e4a99dd3d374bac557be-1651792-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/2e/81/2e81b9f80ace2acf3e0f1b6aa3fe1563c141f94f-1638645-1024-1448-png_l.jpg) |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争） |  |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 英灵 |  |  |
-| | Saber | 同第五次圣杯战争-Saber |  |
-| gilgamesh | 吉尔伽美什 | 第四次圣杯战争的 Archer，金闪闪<br>![图](http://ehgt.org/d9/01/d90146ab410dd8a73fb201eb9bcd97a85632e080-2183077-1024-1448-png_l.jpg)![图](http://ehgt.org/78/90/78909292a9d28f822bb308e6cecec6c13be20762-2149273-1024-1448-png_l.jpg)![图](http://ehgt.org/12/2e/122e5a76e65eba51346024649f9e9c626456b1ff-1476400-2130-3029-jpg_l.jpg)  |  |
-| diarmuid ua duibhne | 迪尔姆德·奥迪那 | 第四次圣杯战争的 Lancer<br>![图](http://ehgt.org/e9/ce/e9ce6d7c2f1bd6db41f6e890f84f4b07b00ff9e1-2085624-1024-1448-png_l.jpg)![图](http://ehgt.org/a3/a1/a3a1eef763c62529c001a07af6ec21f246d6c8a0-2138649-1024-1448-png_l.jpg) |  |
-| iskandar | 伊斯坎达尔 | 第四次圣杯战争的 Rider<br>![图](http://ehgt.org/0e/c0/0ec01372c26d693422848c966f8d7139c5b6ca1a-2033296-1024-1448-png_l.jpg)![图](http://ehgt.org/7a/af/7aaf2a88719b8be10eeb0cbf2dee005455971da2-2374323-1024-1448-png_l.jpg) |  |
-| gilles de rais | 吉尔·德·莱斯 | 第四次圣杯战争的 Caster<br>![图](http://ehgt.org/d2/6b/d26bfb0c0f2b52777cabbd1da855a490c3b89778-1819767-1024-1448-png_l.jpg)![图](http://ehgt.org/69/01/690115e53162a746c142d88f919f64601b8b2cce-2326214-1024-1448-png_l.jpg) |  |
-| lancelot | 兰斯洛特 | 第四次圣杯战争的 Berserker<br>![图](http://ehgt.org/d9/66/d9668a73f9704529c06578df11584cddd11907bc-1244924-1024-1448-png_l.jpg)![图](http://ehgt.org/22/48/224859586175f83c48c903b9cb9a1f3c3d38eb0f-1416036-1024-1448-png_l.jpg) |  |
-| | Assassin | 条目同第五次圣杯战争-Assassin |  |
+|  | Saber | 同第五次圣杯战争-Saber |  |
+| gilgamesh | 吉尔伽美什 | 第四次圣杯战争的 Archer，金闪闪<br>![图](https://ul.ehgt.org/d9/01/d90146ab410dd8a73fb201eb9bcd97a85632e080-2183077-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/78/90/78909292a9d28f822bb308e6cecec6c13be20762-2149273-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/12/2e/122e5a76e65eba51346024649f9e9c626456b1ff-1476400-2130-3029-jpg_l.jpg) |  |
+| diarmuid ua duibhne | 迪尔姆德·奥迪那 | 第四次圣杯战争的 Lancer<br>![图](https://ul.ehgt.org/e9/ce/e9ce6d7c2f1bd6db41f6e890f84f4b07b00ff9e1-2085624-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/a3/a1/a3a1eef763c62529c001a07af6ec21f246d6c8a0-2138649-1024-1448-png_l.jpg) |  |
+| iskandar | 伊斯坎达尔 | 第四次圣杯战争的 Rider<br>![图](https://ul.ehgt.org/0e/c0/0ec01372c26d693422848c966f8d7139c5b6ca1a-2033296-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/7a/af/7aaf2a88719b8be10eeb0cbf2dee005455971da2-2374323-1024-1448-png_l.jpg) |  |
+| gilles de rais | 吉尔·德·莱斯 | 第四次圣杯战争的 Caster<br>![图](https://ul.ehgt.org/d2/6b/d26bfb0c0f2b52777cabbd1da855a490c3b89778-1819767-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/69/01/690115e53162a746c142d88f919f64601b8b2cce-2326214-1024-1448-png_l.jpg) |  |
+| lancelot | 兰斯洛特 | 第四次圣杯战争的 Berserker<br>![图](https://ul.ehgt.org/d9/66/d9668a73f9704529c06578df11584cddd11907bc-1244924-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/22/48/224859586175f83c48c903b9cb9a1f3c3d38eb0f-1416036-1024-1448-png_l.jpg) |  |
+|  | Assassin | 条目同第五次圣杯战争-Assassin |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 御主 |  |  |
-| kiritsugu emiya | 卫宫切嗣 | 第四次圣杯战争中 Saber 的御主，卫宫士郎的养父。<br>![图](http://ehgt.org/a9/85/a98555e4436c42945e8e559ea96e2b3d5cdbbf85-8048363-4147-5175-jpg_l.jpg)![图](http://ehgt.org/65/b2/65b2ba082b84d15e82470c01bcf1c123922e9d6a-2577619-1024-1448-png_l.jpg)![图](http://ehgt.org/52/34/52349d54618c1f88c73fa99fc4a25c1278ec158f-2783687-1024-1448-png_l.jpg) |  |
-| tokiomi tohsaka | 远坂时臣 | 第四次圣杯战争中 Archer 的御主，远坂凛和间桐樱的生父。<br>![图](http://ehgt.org/f4/7e/f47e60bd0cafb9e6ed5d278e2e041fcb3d643d82-3348306-4288-6054-jpg_l.jpg)![图](http://ehgt.org/2f/0a/2f0a77a175f99ccaae34c6839e43f93fb1e839f7-1948489-4310-6051-jpg_l.jpg) |  |
-| waver velvet | 韦伯·维尔维特 | ![图](http://ehgt.org/55/27/55274dc05fc36131c6a311a07594e264ebc0f986-1684491-1024-1448-png_l.jpg)![图](http://ehgt.org/1b/c9/1bc976c180a63272f0337e86a5649e12545d77ee-1912540-1024-1448-png_l.jpg) |  |
+| kiritsugu emiya | 卫宫切嗣 | 第四次圣杯战争中 Saber 的御主，卫宫士郎的养父。<br>![图](https://ul.ehgt.org/a9/85/a98555e4436c42945e8e559ea96e2b3d5cdbbf85-8048363-4147-5175-jpg_l.jpg)![图](https://ul.ehgt.org/65/b2/65b2ba082b84d15e82470c01bcf1c123922e9d6a-2577619-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/52/34/52349d54618c1f88c73fa99fc4a25c1278ec158f-2783687-1024-1448-png_l.jpg) |  |
+| tokiomi tohsaka | 远坂时臣 | 第四次圣杯战争中 Archer 的御主，远坂凛和间桐樱的生父。<br>![图](https://ul.ehgt.org/f4/7e/f47e60bd0cafb9e6ed5d278e2e041fcb3d643d82-3348306-4288-6054-jpg_l.jpg)![图](https://ul.ehgt.org/2f/0a/2f0a77a175f99ccaae34c6839e43f93fb1e839f7-1948489-4310-6051-jpg_l.jpg) |  |
+| waver velvet | 韦伯·维尔维特 | ![图](https://ul.ehgt.org/55/27/55274dc05fc36131c6a311a07594e264ebc0f986-1684491-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/1b/c9/1bc976c180a63272f0337e86a5649e12545d77ee-1912540-1024-1448-png_l.jpg) |  |
 | ryuunosuke uryuu | 雨生龙之介 | 第四次圣杯战争中 Caster 的御主。 |  |
-| kariya matou | 间桐雁夜 | 第四次圣杯战争中 Berserker 的御主。<br>![图](http://ehgt.org/d0/06/d0064d0c694aa710b1840132de17fd33068008b9-23696-280-479-jpg_l.jpg) |  |
+| kariya matou | 间桐雁夜 | 第四次圣杯战争中 Berserker 的御主。<br>![图](https://ul.ehgt.org/d0/06/d0064d0c694aa710b1840132de17fd33068008b9-23696-280-479-jpg_l.jpg) |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 其他人物 |  |  |
-| irisviel von einzbern | 爱丽丝菲尔·冯·爱因兹贝伦 | ![图](http://ehgt.org/0b/66/0b66a43926d206b891d2610b46496e9278760131-32573-280-479-jpg_l.jpg)![图](http://ehgt.org/dc/d4/dcd4368c7a66ccbbc8f8f283eeeb8012477350b0-6697828-4064-5168-jpg_l.jpg)![图](http://ehgt.org/e4/73/e473e4e884a083e32b17ff306a2fdfb9dbe233c1-2128092-1024-1448-png_l.jpg) |  |
+| irisviel von einzbern | 爱丽丝菲尔·冯·爱因兹贝伦 | ![图](https://ul.ehgt.org/0b/66/0b66a43926d206b891d2610b46496e9278760131-32573-280-479-jpg_l.jpg)![图](https://ul.ehgt.org/dc/d4/dcd4368c7a66ccbbc8f8f283eeeb8012477350b0-6697828-4064-5168-jpg_l.jpg)![图](https://ul.ehgt.org/e4/73/e473e4e884a083e32b17ff306a2fdfb9dbe233c1-2128092-1024-1448-png_l.jpg) |  |
 |  | 我也不知道怎么排分类了 |  |  |
-| caren ortensia | 卡莲·奥尔黛西亚 | 言峰绮礼之女<br>![图](http://ehgt.org/c2/e0/c2e0c1595223f170576d635ad7a17da0723964c8-31953-280-479-jpg_l.jpg) |  |
-| bazett fraga mcremitz | 巴洁特·法迦·克米兹 | 第五次圣杯战争，召唤 Lancer 的御主，后被言峰绮礼夺走<br>![图](http://ehgt.org/f5/3d/f53d636a602137d1df6f6b9b56c80fd1c2d26c8b-19682-280-479-jpg_l.jpg)![图](http://ehgt.org/a3/9b/a39ba8a7c4fcb00feb1c953b5da3d3cb25899ee5-7020527-4122-5161-jpg_l.jpg) |  |
+| caren ortensia | 卡莲·奥尔黛西亚 | 言峰绮礼之女<br>![图](https://ul.ehgt.org/c2/e0/c2e0c1595223f170576d635ad7a17da0723964c8-31953-280-479-jpg_l.jpg) |  |
+| bazett fraga mcremitz | 巴洁特·法迦·克米兹 | 第五次圣杯战争，召唤 Lancer 的御主，后被言峰绮礼夺走<br>![图](https://ul.ehgt.org/f5/3d/f53d636a602137d1df6f6b9b56c80fd1c2d26c8b-19682-280-479-jpg_l.jpg)![图](https://ul.ehgt.org/a3/9b/a39ba8a7c4fcb00feb1c953b5da3d3cb25899ee5-7020527-4122-5161-jpg_l.jpg) |  |
 | sitonai | 志度内 |  |  |
 | ishtar | 伊什塔尔 |  |  |
-| tamamo no mae | 玉藻前 | ![图](http://ehgt.org/b4/d0/b4d03c16074ba239f2db9803b18ac0338bb0596b-2147833-1024-1448-png_l.jpg)![图](http://ehgt.org/e1/9a/e19a1476369f421f9309919fd3cbf4c7b4680eaa-2123750-1024-1448-png_l.jpg) |  |
-| shielder | Shielder | 指《Fate/Grand Order》中的 玛修·基列莱特<br>![图](http://ehgt.org/e7/5d/e75dfa3a1f89d481425f9f35172608d69a33abcb-1891324-1024-1448-png_l.jpg)![图](http://ehgt.org/f1/0a/f10a567d7d1c2cd2bbad9ea6d7885017c2395e91-1752646-1024-1448-png_l.jpg) |  |
-| saber lily | Saber Lily | 白Saber<br>![图](http://ehgt.org/f6/4d/f64d13239c074960d5db17553990fb64109c2de9-2161639-1024-1448-png_l.jpg)![图](http://ehgt.org/4c/4d/4c4da8143dbcd81fa997015555214dfb108271ed-5862547-4079-5188-jpg_l.jpg)![图](http://ehgt.org/3b/c3/3bc38ca7fd88516195e9ac55fe691629440f2656-111792-600-900-jpg_l.jpg)![图](http://ehgt.org/cc/0b/cc0bc76863b033ac2157fabb29ef6e3847e3495a-4900451-4112-5193-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| tamamo no mae | 玉藻前 | ![图](https://ul.ehgt.org/b4/d0/b4d03c16074ba239f2db9803b18ac0338bb0596b-2147833-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/e1/9a/e19a1476369f421f9309919fd3cbf4c7b4680eaa-2123750-1024-1448-png_l.jpg) |  |
+| shielder | Shielder | 指《Fate/Grand Order》中的 玛修·基列莱特<br>![图](https://ul.ehgt.org/e7/5d/e75dfa3a1f89d481425f9f35172608d69a33abcb-1891324-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/f1/0a/f10a567d7d1c2cd2bbad9ea6d7885017c2395e91-1752646-1024-1448-png_l.jpg) |  |
+| saber lily | Saber Lily | 白Saber<br>![图](https://ul.ehgt.org/f6/4d/f64d13239c074960d5db17553990fb64109c2de9-2161639-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/4c/4d/4c4da8143dbcd81fa997015555214dfb108271ed-5862547-4079-5188-jpg_l.jpg)![图](https://ul.ehgt.org/3b/c3/3bc38ca7fd88516195e9ac55fe691629440f2656-111792-600-900-jpg_l.jpg)![图](https://ul.ehgt.org/cc/0b/cc0bc76863b033ac2157fabb29ef6e3847e3495a-4900451-4112-5193-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | artoria pendragon | 阿尔托莉雅·潘德拉贡 | 指 FGO 中 artoria pendragon [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | artoria pendragon alter | 阿尔托莉雅·潘德拉贡Alter | 指 FGO 中 artoria pendragon alter [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | souji okita | 冲田总司 | 樱Saber、冲太(おき太)、和服Saber | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| red saber | 尼禄·克劳狄乌斯 | ![图](http://ehgt.org/ba/d4/bad4cad9d8fa543223ca75206dd2c32d35568b4a-2253494-1024-1448-png_l.jpg)![图](http://ehgt.org/8c/2f/8c2fa674554c8c25082fd23ae6a1af2afe14d040-2370897-1024-1448-png_l.jpg)![图](http://ehgt.org/7b/b5/7bb59a05a5ca6d98ed41c7c90b0a1738dc2ca7b0-3528081-3000-4270-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| red saber | 尼禄·克劳狄乌斯 | ![图](https://ul.ehgt.org/ba/d4/bad4cad9d8fa543223ca75206dd2c32d35568b4a-2253494-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/8c/2f/8c2fa674554c8c25082fd23ae6a1af2afe14d040-2370897-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/7b/b5/7bb59a05a5ca6d98ed41c7c90b0a1738dc2ca7b0-3528081-3000-4270-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | ayako mitsuzuri | 美缀绫子 |  |  |
 | kane himuro | 冰室钟 |  |  |
 | kaede makidera | 莳寺枫 |  |  |
@@ -1784,15 +1784,15 @@
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 |  |  |
 | paul bunyan | 保罗·班扬 |  |  |
 | kiara sessyoin | 杀生院祈荒 |  |  |
-| astolfo | 阿斯托尔福 | 这么可爱，一定是——<br>![图](# "http://ehgt.org/46/67/4667a37959d9250b0bb98ee260065f78e951bfc2-1451907-2080-3000-jpg_l.jpg")![图](# "http://ehgt.org/3e/80/3e80fa00ea1061bb93a861d73d250ff038200454-1094945-895-1145-jpg_l.jpg")![图](# "http://ehgt.org/b7/c6/b7c6abcd936f8dd3152846904e4574f014f7b272-471789-653-900-jpg_l.jpg") |  |
+| astolfo | 阿斯托尔福 | 这么可爱，一定是——<br>![图](# "https://ul.ehgt.org/46/67/4667a37959d9250b0bb98ee260065f78e951bfc2-1451907-2080-3000-jpg_l.jpg")![图](# "https://ul.ehgt.org/3e/80/3e80fa00ea1061bb93a861d73d250ff038200454-1094945-895-1145-jpg_l.jpg")![图](# "https://ul.ehgt.org/b7/c6/b7c6abcd936f8dd3152846904e4574f014f7b272-471789-653-900-jpg_l.jpg") |  |
 | protagonist | 主人公 |  |  |
 | minamoto no raikou | 源赖光 |  |  |
 | meltlilith | 溶解莉莉丝 |  |  |
 | passionlip | 热情迷唇 |  |  |
 | ushiwakamaru | 牛若丸 |  |  |
 | jack the ripper | 开膛手杰克 |  |  |
-| jeanne darc | 圣女贞德 | ![图](http://ehgt.org/7d/51/7d513906a9c405fd0b7e297ba713bef8b94758d8-1776257-1024-1448-png_l.jpg)![图](http://ehgt.org/47/b8/47b81a03a14d04dd2ebdb9c191702913c58c16f1-2207482-1024-1448-png_l.jpg)![图](http://ehgt.org/10/39/1039d1c05d56204d701f86f880c4ebb1ccf07294-32716-280-479-jpg_l.jpg) |  |
-| jeanne alter | 贞德Alter | ![图](http://ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](http://ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) |  |
+| jeanne darc | 圣女贞德 | ![图](https://ul.ehgt.org/7d/51/7d513906a9c405fd0b7e297ba713bef8b94758d8-1776257-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/47/b8/47b81a03a14d04dd2ebdb9c191702913c58c16f1-2207482-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/10/39/1039d1c05d56204d701f86f880c4ebb1ccf07294-32716-280-479-jpg_l.jpg) |  |
+| jeanne alter | 贞德Alter | ![图](https://ul.ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) |  |
 | nitocris | 尼托克丽丝 |  |  |
 | alice kuonji | 久远寺有珠 |  |  |
 | aoko aozaki | 苍崎青子 |  |  |
@@ -1813,7 +1813,7 @@
 | francis drake | 弗朗西斯·德雷克 |  |  |
 | elizabeth bathory | 伊丽莎白·巴托里 |  |  |
 | hakuno kishinami | 岸波白野 |  |  |
-| hassan of serenity | 静谧之哈桑 | ![图](http://ehgt.org/09/f6/09f6f042cfdbf8a00ba01ec7dff3a21bb81116c7-1467154-1024-1448-png_l.jpg)![图](http://ehgt.org/1e/cb/1ecb0d2c0a5638758b18c4f8fabe85b38f39be6f-1926086-1024-1448-png_l.jpg) |  |
+| hassan of serenity | 静谧之哈桑 | ![图](https://ul.ehgt.org/09/f6/09f6f042cfdbf8a00ba01ec7dff3a21bb81116c7-1467154-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/1e/cb/1ecb0d2c0a5638758b18c4f8fabe85b38f39be6f-1926086-1024-1448-png_l.jpg) |  |
 | medb | 梅芙 |  |  |
 | len | 莲 |  |  |
 | celenike icecolle yggdmillennia | 赛蕾妮可·艾斯科·千界树 |  |  |
@@ -1823,14 +1823,14 @@
 | atalanta | 阿塔兰忒 |  |  |
 | kairi sisigou | 狮子劫界离 |  |  |
 | miyako arima | 有间都古 |  |  |
-| kuro von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](http://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "http://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
+| kuro von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ul.ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ul.ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
-| miyu edelfelt | 美游·艾德费尔特 | 平行世界中的“圣杯战争”中的圣杯容器<br>![图](# "http://ehgt.org/4e/39/4e396284adfea8b2a493fe3320278a02ce0db1df-260187-1255-1822-jpg_l.jpg")![图](# "http://ehgt.org/51/0b/510b1d37cb5e4b095c774bbbff8dbfd0b1417a4b-351382-1410-2024-jpg_l.jpg") |  |
+| miyu edelfelt | 美游·艾德费尔特 | 平行世界中的“圣杯战争”中的圣杯容器<br>![图](# "https://ul.ehgt.org/4e/39/4e396284adfea8b2a493fe3320278a02ce0db1df-260187-1255-1822-jpg_l.jpg")![图](# "https://ul.ehgt.org/51/0b/510b1d37cb5e4b095c774bbbff8dbfd0b1417a4b-351382-1410-2024-jpg_l.jpg") |  |
 | sella | 塞拉 |  |  |
 | euryale | 尤瑞艾莉 |  |  |
 | shiki ryougi | 两仪式 |  |  |
 | stheno | 斯忒诺 |  |  |
-| mordred pendragon | 莫德雷德·潘德拉贡 | ![图](http://ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](http://ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) |  |
+| mordred pendragon | 莫德雷德·潘德拉贡 | ![图](https://ul.ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](https://ul.ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) |  |
 | queen of sheba | 示巴女王 |  |  |
 | wu zetian | 武则天 |  |  |
 | abigail williams | 阿比盖尔·威廉姆斯 |  |  |
@@ -2408,29 +2408,29 @@
 | special week | 特别周 |  |  |
 | tokai teio | 东海帝王 |  |  |
 | taiki shuttle | 大树快车 |  |  |
-| | ▼ 超次元游戏海王星 | | |
-| | 超次元游戏海王星 > 女神 | | |
-| neptune | 涅普迪努 | ![图](http://ehgt.org/ed/27/ed27fdb040337b6148c37d5fcdcff6c440c379f0-2430335-4877-6950-jpg_l.jpg) | |
-| noire | 诺瓦尔 | ![图](http://ehgt.org/cb/c7/cbc7e4f78bba5c97c5ffbd173af7220e16149a56-2848886-4877-6950-jpg_l.jpg) | |
-| blanc | 布兰 | ![图](http://ehgt.org/a5/33/a53389e6540cc17ac4b0ed5f17456f19de40da52-2673001-4877-6950-jpg_l.jpg) |  |
-| vert | 贝露 | ![图](http://ehgt.org/71/b3/71b37c69c3a08cebd385c7efa6b3c68ae91a2977-2735349-4877-6950-jpg_l.jpg) | |
-| peashy | 皮榭 | 澄黄之心<br>![图](http://ehgt.org/90/7d/907d42b55bdf4edb1ad119448f9d60307119ff71-2270611-4877-6950-jpg_l.jpg)![图](http://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) | |
-| plutia | 普露露特 | 虹色之心<br>![图](http://ehgt.org/db/d1/dbd10cac8c052ac23af0436c23d3553e71f9405b-2622564-4877-6950-jpg_l.jpg)![图](http://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) | |
-| uzume | 天王星涡芽 | 橙色之心<br>![图](http://ehgt.org/df/76/df76c394f6eae7fb6837e0969e8f699ad9e55a59-2511404-4877-6950-jpg_l.jpg)![图](http://ehgt.org/16/ed/16ed4149b9f41fe736b2738346a33ceffa5de688-2131106-4877-6950-jpg_l.jpg) | |
-| | 超次元游戏海王星 > 女神候补生 | | |
-| nepgear | 涅普姬雅 | ![图](http://ehgt.org/b1/79/b179ff8cecdfb973d37665d39c061429f9ed216b-2357890-4877-6950-jpg_l.jpg) | |
-| uni | 优尼 | ![图](http://ehgt.org/b4/4c/b44c0043e24ee752dda5744771becbb2fd81b7c5-2182503-4877-6950-jpg_l.jpg) | |
-| | 拉姆 | ram 重复项 | |
-| rom | 萝姆 | ![图](http://ehgt.org/ad/2f/ad2f311f8ef5b8d29b1c6e4174deffe77a69689d-2402347-4877-6950-jpg_l.jpg) | |
-| | 超次元游戏海王星 > 女神化后的形态 | | |
-| purple heart | 绀紫之心 | ![图](http://ehgt.org/28/9e/289eb5a0977b3ec96f37a0794d45813717c3a1fd-2304056-4877-6950-jpg_l.jpg) | |
-| black heart | 圣黑之心 | ![图](http://ehgt.org/c3/ec/c3eccbd51ea7871e784f17a220bec94f6234410d-2143389-4877-6950-jpg_l.jpg) | |
-| white heart | 纯白之心 | ![图](http://ehgt.org/7b/ae/7bae751d2c1a7743e5375e75e417685222dbf2f4-1949306-4877-6950-jpg_l.jpg) | |
-| green heart | 翠绿之心 | ![图](http://ehgt.org/6b/2c/6b2cf65bf42752697f1bc89823927f97e0106309-2120768-4877-6950-jpg_l.jpg) | |
-| | 超次元游戏海王星 > 其他角色 | | |
-| compa | 康帕 | ![图](http://ehgt.org/06/93/0693b9e1d6cf0164cd866c145f42725461c6f11a-3122492-4927-6958-jpg_l.jpg) | |
-| cave | Cave | ![图](http://ehgt.org/4e/ec/4eecdd7e8e450f14ebd88d2149779915d072d522-2203077-2108-3010-jpg_l.jpg)![图](http://ehgt.org/38/0e/380e1f7d5a978ceb1b67b208f6ce41cea443731a-2900152-2121-3012-jpg_l.jpg) | |
-| histoire | 伊丝特瓦尔 | ![图](http://ehgt.org/01/f2/01f2b9d74698a68455bab3f34b35a6025fece784-2641446-4877-6950-jpg_l.jpg) | |
+|  | ▼ 超次元游戏海王星 |  |  |
+|  | 超次元游戏海王星 > 女神 |  |  |
+| neptune | 涅普迪努 | ![图](https://ul.ehgt.org/ed/27/ed27fdb040337b6148c37d5fcdcff6c440c379f0-2430335-4877-6950-jpg_l.jpg) |  |
+| noire | 诺瓦尔 | ![图](https://ul.ehgt.org/cb/c7/cbc7e4f78bba5c97c5ffbd173af7220e16149a56-2848886-4877-6950-jpg_l.jpg) |  |
+| blanc | 布兰 | ![图](https://ul.ehgt.org/a5/33/a53389e6540cc17ac4b0ed5f17456f19de40da52-2673001-4877-6950-jpg_l.jpg) |  |
+| vert | 贝露 | ![图](https://ul.ehgt.org/71/b3/71b37c69c3a08cebd385c7efa6b3c68ae91a2977-2735349-4877-6950-jpg_l.jpg) |  |
+| peashy | 皮榭 | 澄黄之心<br>![图](https://ul.ehgt.org/90/7d/907d42b55bdf4edb1ad119448f9d60307119ff71-2270611-4877-6950-jpg_l.jpg)![图](https://ul.ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) |  |
+| plutia | 普露露特 | 虹色之心<br>![图](https://ul.ehgt.org/db/d1/dbd10cac8c052ac23af0436c23d3553e71f9405b-2622564-4877-6950-jpg_l.jpg)![图](https://ul.ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) |  |
+| uzume | 天王星涡芽 | 橙色之心<br>![图](https://ul.ehgt.org/df/76/df76c394f6eae7fb6837e0969e8f699ad9e55a59-2511404-4877-6950-jpg_l.jpg)![图](https://ul.ehgt.org/16/ed/16ed4149b9f41fe736b2738346a33ceffa5de688-2131106-4877-6950-jpg_l.jpg) |  |
+|  | 超次元游戏海王星 > 女神候补生 |  |  |
+| nepgear | 涅普姬雅 | ![图](https://ul.ehgt.org/b1/79/b179ff8cecdfb973d37665d39c061429f9ed216b-2357890-4877-6950-jpg_l.jpg) |  |
+| uni | 优尼 | ![图](https://ul.ehgt.org/b4/4c/b44c0043e24ee752dda5744771becbb2fd81b7c5-2182503-4877-6950-jpg_l.jpg) |  |
+|  | 拉姆 | ram 重复项 |  |
+| rom | 萝姆 | ![图](https://ul.ehgt.org/ad/2f/ad2f311f8ef5b8d29b1c6e4174deffe77a69689d-2402347-4877-6950-jpg_l.jpg) |  |
+|  | 超次元游戏海王星 > 女神化后的形态 |  |  |
+| purple heart | 绀紫之心 | ![图](https://ul.ehgt.org/28/9e/289eb5a0977b3ec96f37a0794d45813717c3a1fd-2304056-4877-6950-jpg_l.jpg) |  |
+| black heart | 圣黑之心 | ![图](https://ul.ehgt.org/c3/ec/c3eccbd51ea7871e784f17a220bec94f6234410d-2143389-4877-6950-jpg_l.jpg) |  |
+| white heart | 纯白之心 | ![图](https://ul.ehgt.org/7b/ae/7bae751d2c1a7743e5375e75e417685222dbf2f4-1949306-4877-6950-jpg_l.jpg) |  |
+| green heart | 翠绿之心 | ![图](https://ul.ehgt.org/6b/2c/6b2cf65bf42752697f1bc89823927f97e0106309-2120768-4877-6950-jpg_l.jpg) |  |
+|  | 超次元游戏海王星 > 其他角色 |  |  |
+| compa | 康帕 | ![图](https://ul.ehgt.org/06/93/0693b9e1d6cf0164cd866c145f42725461c6f11a-3122492-4927-6958-jpg_l.jpg) |  |
+| cave | Cave | ![图](https://ul.ehgt.org/4e/ec/4eecdd7e8e450f14ebd88d2149779915d072d522-2203077-2108-3010-jpg_l.jpg)![图](https://ul.ehgt.org/38/0e/380e1f7d5a978ceb1b67b208f6ce41cea443731a-2900152-2121-3012-jpg_l.jpg) |  |
+| histoire | 伊丝特瓦尔 | ![图](https://ul.ehgt.org/01/f2/01f2b9d74698a68455bab3f34b35a6025fece784-2641446-4877-6950-jpg_l.jpg) |  |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
 | ayane | 绫音 |  |  |
@@ -2649,10 +2649,10 @@
 | louise francoise le blanc de la valliere | 露易丝·法兰西斯·露·布朗·杜·拉·瓦利埃尔 | 《零之使魔》路易斯，钉宫四萌之一<br>![图](https://ul.ehgt.org/bb/c9/bbc968c105f220f91842fa0b4a9a8e487e7952e2-524834-1050-1500-jpg_l.jpg)![图](https://ul.ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg)![图](# "https://ul.ehgt.org/1a/0f/1a0f01daacab414f1dc6685f4cf005774777ad50-747905-1237-1741-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-cn/%E9%9C%B2%E6%98%93%E4%B8%9D%C2%B7%E6%B3%95%E5%85%B0%E8%A5%BF%E6%96%AF%C2%B7%E9%9C%B2%C2%B7%E5%B8%83%E6%9C%97%C2%B7%E6%9D%9C%C2%B7%E6%8B%89%C2%B7%E7%93%A6%E5%88%A9%E5%9F%83%E5%B0%94) |
 | saito hiraga | 平贺才人 | 《零之使魔》才狗，全名才人·修瓦里埃·杜·平贺·杜·奥尔尼埃尔<br>![图](https://ul.ehgt.org/f6/5b/f65b7fc845b623be84a986cc1e61daf457836f04-393538-800-1130-jpg_l.jpg)![图](https://ul.ehgt.org/23/e4/23e40ed99207ecfa4cba57b09931683f73b19bf7-797226-1406-1998-jpg_l.jpg)![图](# "https://ul.ehgt.org/34/27/3427f37ffcbb7648229b659c70b22628af9c67e0-1025058-1148-1600-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/%E5%B9%B3%E8%B4%BA%E6%89%8D%E4%BA%BA) |
 | shana | 夏娜 | 《灼眼的夏娜》，钉宫四萌之一<br>![图](https://ul.ehgt.org/40/5a/405a01d1eb1b240be5f11fb3ca77553e5dbaed4e-887338-2109-3000-jpg_l.jpg)![图](https://ul.ehgt.org/fc/6f/fc6f012686e67c8a119a564850f9cd90001f77e7-15348419-3004-2128-png_l.jpg)![图](https://ul.ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org/%E5%A4%8F%E5%A8%9C) |
-| zero two | 02 | ![图](http://ehgt.org/fa/66/fa663198ce0e9cf25b9ab7de0505bd7f40ca2abc-1693375-1181-1670-jpg_l.jpg)![图](# "http://ehgt.org/c1/53/c1536cf1944f595a4c3c05377a9cf0a6150eb7a0-1524824-1300-2000-png_l.jpg") | |
-| ichigo | 莓 | ![图](# "http://ehgt.org/f1/f4/f1f493e4a523d9c0d80f4e9bed7949907c2e75d2-2252123-1200-1736-jpg_l.jpg")![图](http://ehgt.org/31/f3/31f3dae0071956543da5548371f4ad799e355d02-206629-1000-1409-jpg_l.jpg)![图](http://ehgt.org/5d/d1/5dd1ab5efacae03eb261a00ed5e0490a7e0de216-773444-1224-2047-jpg_l.jpg)![图](# "http://ehgt.org/d2/a9/d2a9b3fe1d1c0cd93e8031519e1bf521dce3aab9-2258167-2000-2000-jpg_l.jpg")![图](# "http://ehgt.org/d9/59/d9591d336a993c5f717f675094a60fa538ec4597-573089-907-965-jpg_l.jpg") | |
-| strelizia | 鹤望兰号 | ![图](http://ehgt.org/8d/2b/8d2bbcf290d9ee00b74cdf0e4cb8f93c181c5cd3-938013-1062-1505-jpg_l.jpg)![图](# "http://ehgt.org/4d/c5/4dc53c52ea01b62f6647a95dc86528f71e1efb77-1266931-2800-2500-png_l.jpg") | |
-| hiro | 广 | 《DARLING in the FRANXX》中的男主<br>![图](http://ehgt.org/e5/ca/e5cafa474efe6c9d48f5e0c5177e354b04f7a4d0-573112-825-1100-jpg_l.jpg)![图](http://ehgt.org/87/56/87561fcbbc77b3350fe3aa53edf273b470bbd2a9-2734834-4758-6958-jpg_l.jpg) | |
+| zero two | 02 | ![图](https://ul.ehgt.org/fa/66/fa663198ce0e9cf25b9ab7de0505bd7f40ca2abc-1693375-1181-1670-jpg_l.jpg)![图](# "https://ul.ehgt.org/c1/53/c1536cf1944f595a4c3c05377a9cf0a6150eb7a0-1524824-1300-2000-png_l.jpg") |  |
+| ichigo | 莓 | ![图](# "https://ul.ehgt.org/f1/f4/f1f493e4a523d9c0d80f4e9bed7949907c2e75d2-2252123-1200-1736-jpg_l.jpg")![图](https://ul.ehgt.org/31/f3/31f3dae0071956543da5548371f4ad799e355d02-206629-1000-1409-jpg_l.jpg)![图](https://ul.ehgt.org/5d/d1/5dd1ab5efacae03eb261a00ed5e0490a7e0de216-773444-1224-2047-jpg_l.jpg)![图](# "https://ul.ehgt.org/d2/a9/d2a9b3fe1d1c0cd93e8031519e1bf521dce3aab9-2258167-2000-2000-jpg_l.jpg")![图](# "https://ul.ehgt.org/d9/59/d9591d336a993c5f717f675094a60fa538ec4597-573089-907-965-jpg_l.jpg") |  |
+| strelizia | 鹤望兰号 | ![图](https://ul.ehgt.org/8d/2b/8d2bbcf290d9ee00b74cdf0e4cb8f93c181c5cd3-938013-1062-1505-jpg_l.jpg)![图](# "https://ul.ehgt.org/4d/c5/4dc53c52ea01b62f6647a95dc86528f71e1efb77-1266931-2800-2500-png_l.jpg") |  |
+| hiro | 广 | 《DARLING in the FRANXX》中的男主<br>![图](https://ul.ehgt.org/e5/ca/e5cafa474efe6c9d48f5e0c5177e354b04f7a4d0-573112-825-1100-jpg_l.jpg)![图](https://ul.ehgt.org/87/56/87561fcbbc77b3350fe3aa53edf273b470bbd2a9-2734834-4758-6958-jpg_l.jpg) |  |
 
 
 <!--TEMPLATE: 
