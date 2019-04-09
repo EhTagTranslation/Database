@@ -464,7 +464,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与卡在墙上(stuck in wall)、寻欢洞(glory hole)、感官共享(shared senses)混淆。 |  |
 |  | == 液体 == |  |  |
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如史莱姆(slime)）。 |  |
-| underwater | 水下 | 在性期间大部分或完全浸没在液体中。 |  |
+| underwater | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
 |  | === 液体 > 体液 === |  |  |
 | blood | 流血 | 大量流血（如从身体伤口）。不用为肢解(guro)添加此标签。不用于破处(defloration)导致的流血。 |  |
 | squirting | 潮吹 | 女性大量射出体液。<br>![图](# "https://ehgt.org/d5/ab/d5ab335ef940c63352b62de195efd31371d91716-6571126-2894-4093-jpg_l.jpg") |  |
