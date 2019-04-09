@@ -101,3 +101,5 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 |  |
+| thumbelina | 拇指姑娘 | 世界著名童话，等待移入作品 | |
+| tommelise | 拇指姑娘（丹麦语） | 世界著名童话，等待移入作品 | |
