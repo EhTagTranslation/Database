@@ -92,7 +92,7 @@ const db = await (await fetch(resourceUrl)).json();
 
 请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector) 及本项目[参与翻译](CONTRIBUTING.md)指南。
 
-[plat-web]: https://img.shields.io/badge/platform-web-red.svg
-[plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg
-[plat-uwp]: https://img.shields.io/badge/platform-UWP-blue.svg
-[plat-android]: https://img.shields.io/badge/platform-Android-brightgreen.svg
+[plat-web]: https://img.shields.io/badge/platform-web-red.svg?logo=javascript
+[plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
+[plat-uwp]: https://img.shields.io/badge/platform-UWP-blue.svg?logo=windows
+[plat-android]: https://img.shields.io/badge/platform-Android-brightgreen.svg?logo=android
