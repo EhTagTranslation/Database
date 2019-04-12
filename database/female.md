@@ -334,6 +334,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致腹部膨胀(inflation)。<br>![图](# "https://ehgt.org/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg") |  |
 | farting | 放屁 | 明显的放屁行为。 |  |
 | spanking | 打屁股 | 拷打(torture)某人的屁股以获得性快感。<br>![图](# "https://ehgt.org/36/d9/36d9fc5c9deb92f51a1cf57cba1fd7193f54f407-209213-744-1052-jpg_l.jpg") |  |
+| tail | 尾巴 | 一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。<br>![图](# "https://ehgt.org/83/1e/831ed92ca96e4d16c446593537571ba9cd720c7d-1860666-2122-3014-jpg_l.jpg") |  |
 |  | === 下半身 > 任何洞 === |  |  |
 | eggs | 产卵 | 有蛋或产蛋的行为。常常导致腹部膨胀(inflation)。不应与出产(birth)或怀孕(pregnant)混淆。<br>![图](# "https://ehgt.org/0f/1c/0f1c612b5f6cd38b2bc682c7defda3e92fd4d3f2-503568-849-834-png_l.jpg")![图](# "https://ehgt.org/1a/07/1a078db167d6d0dc90fe9099339635b29c650cea-684897-750-1109-png_l.jpg") |  |
 | gaping | 敞口 | 阴道或肛门，明显地在做爱之后伸展。往往由大玩具(large insertions)、拳交(fisting)、大根(big penis)或巨根(huge penis)造成。<br>是扩张器(speculum)的前置标签。不应与脱垂(prolapse)相混淆，但可能会导致它。<br>![图](# "https://ehgt.org/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg")![图](# "https://ehgt.org/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg") |  |
