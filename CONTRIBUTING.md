@@ -55,7 +55,7 @@
 
 * 绅士里站域名图片无法直接外链，哪怕有 H 也不会显示在本项目 GitHub 页面，但是在使用时可以显示。
   
-  可以在里站上找代表性的作品的缩略图拿来做介绍（见下方[里站缩略图用法](#里站缩略图用法)）。
+  可以在里站上找代表性的作品的缩略图拿来做介绍。（可以使用[标签翻译辅助工具](https://github.com/Mapaler/EhTagTranslator/wiki/ETTWikiHelper)）
 
   视觉类标签在[图片集](https://exhentai.org/imageset/)里面搜索比较容易找到合适的图。
 
@@ -131,21 +131,3 @@
 #### 微博图床
 * [围脖图床修复计划](http://weibotuchuang.sinaapp.com/)
 * [微博相册图片地址批量获取工具](https://greasyfork.org/scripts/18036)
-
-#### 里站缩略图用法
-去到处找无 H 的图还是很困难的一件工作。绅士里站域名 exhentai.org 限制了 Cookies，不会显示在 GitHub 页面，但我们在里站就可以看到，因此可以用这个域名来访问一些有 H 的缩略图。  
-
-因为手动改域名太麻烦，干脆直接写了个[脚本工具](https://sleazyfork.org/scripts/31743)。  
-
-先将画廊列表从文字列表模式改为**缩略图模式**
-* 表站 `My Home > My Settings > Front Page Settings > Thumbnail View`
-* 里站 `Settings > Front Page Settings > Thumbnail View`
-
-画廊内点击 `Large` 开启**大图模式**
-
-点击按钮自动将对应的站点格式复制到剪贴板。（里站、表站、手机版）  
-* 直接点击，即可直接复制得 `图片网址`
-* 按住 Ctrl 再点击，即可直接复制得 `![图](图片网址)`
-* 按住 Alt 再点击，即可直接复制得 `![图](# "图片网址")`
-
-![使用效果](doc-img/database-script.jpg)  
