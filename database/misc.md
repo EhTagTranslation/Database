@@ -40,10 +40,10 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | ==== 下半身 > 裆部 > 阴茎 ==== |  |  |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
 |  | == 多人活动 == |  |  |
-| ffm threesome | 嫐 | ♀♂♀，2 女 1 男 3P。需要乱交(group)标签。 |  |
+| ffm threesome | 女男女 | ♀♂♀，2 女 1 男 3P。需要乱交(group)标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、嬲(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、嫐(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和人妖♂(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
-| mmf threesome | 嬲 | ♂♀♂，2 男 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
-| mmt threesome | 男男扶 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
+| mmf threesome | 男女男 | ♂♀♂，2 男 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
+| mmt threesome | 男扶男 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | ttm threesome | 扶扶男 | ⚥♂⚥，2 扶 1 男 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
@@ -58,6 +58,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | animated | 动图 | 包含 GIF 动图的画廊。 |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。缺页(incomplete)的选集和画集(artbook)不算在内。 |  |
 | artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于缺页(incomplete)的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
+| comic | 连环漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于西方的(western)作品，非色情内容不算。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
 | full color | 全彩色 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、图片集(imageset)和 3D(3d)画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是动图(animated)。 |  |
@@ -101,3 +102,4 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 |  |
+| thumbelina | 拇指姑娘 | 世界著名童话，等待移入作品 |  |
