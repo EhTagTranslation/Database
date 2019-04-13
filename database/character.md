@@ -868,6 +868,7 @@
 | daisuke kousaka | 高坂大介 | ![高坂大介](# "https://ehgt.org/b8/f6/b8f6080f5f63e9f5132d400ec08bba2079901382-730717-1200-1400-jpg_l.jpg") |  |
 | tamaki gokou | 五更珠希 | ![五更珠希](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |  |
 | hinata gokou | 五更日向 | ![五更日向](https://ehgt.org/30/f2/30f2b14c85631a004e5b4d0d0312b0a1859e6a37-448056-1280-720-jpg_l.jpg) |  |
+| ria hagry | 莉亚·哈格丽 |  |  |
 |  | ▼ K-ON 角色 |  |  |
 | azusa nakano | 中野梓 | ![中野梓](https://ehgt.org/20/00/2000e34ee71ff2cd460511bf72243a3fb8dc76d7-631282-2452-3834-jpg_l.jpg) |  |
 | jun suzuki | 铃木纯 | ![铃木纯](https://ehgt.org/50/04/5004480cfb0c9c597ccf646f8cb19afbfe9080dd-1147183-1920-1200-png_l.jpg) |  |
@@ -1308,6 +1309,11 @@
 | lucia | 露琪亚 |  |  |
 | agnese sanctis | 雅妮丝·桑提斯 |  |  |
 | angelene | 安洁莉娜 |  |  |
+| eiga kanmi | 甘味荣华 |  |  |
+| febrie | 菲布理 |  |  |
+| janie | 珍妮 |  |  |
+| shinobu nunotaba | 布束砥信 |  |  |
+| yumi kusakabe | 草壁优美 |  |  |
 |  | ▼ 冰菓 |  |  |
 | eru chitanda | 千反田爱瑠 |  |  |
 | houtarou oreki | 折木奉太郎 |  |  |
@@ -1408,7 +1414,7 @@
 | assam | 阿萨姆 |  |  |
 | orange pekoe | 橙黄白毫 |  |  |
 | rosehip | 蔷薇果 |  |  |
-|  | 鲁克莉莉 |  |  |
+| rukuriri | 鲁克莉莉 |  |  |
 | kay | 凯伊 |  |  |
 |  | 直美 |  |  |
 |  | 亚理纱 |  |  |
@@ -1868,6 +1874,7 @@
 | shuten douji | 酒吞童子 |  |  |
 | tiamat | 提亚马特 |  |  |
 | bb | BB |  |  |
+| bradamante | 布拉达曼特 |  |  |
 |  | ▼ 刀剑神域 |  |  |
 | yuuki konno | 绀野木棉季 | ![优纪](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e554edab858ba61edfeecf29790ff037/b3fb43166d224f4a74c598720ef790529822d177.jpg) |  |
 | asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](# "https://ehgt.org/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg")![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg) |  |
@@ -2057,7 +2064,12 @@
 | yuri tsukikage | 月影百合 |  |  |
 | cure moonlight | 月光天使 |  |  |
 | cure flower | 花朵天使 |  |  |
-| cure ange | 守护天使 |  |  |
+| cure ange | 圣洁天使 |  |  |
+| cure amour | 爱神天使 |  |  |
+| cure etoile | 星辰天使 |  |  |
+| cure macherie | 挚爱天使 |  |  |
+| kotori nono | 野乃小鸟 |  |  |
+| cure yell | 喝采天使 |  |  |
 | dark precure | 暗之美少女 |  |  |
 | mizuki hanasaki | 花咲美月 |  |  |
 | momoka kurumi | 来海桃香 |  |  |
@@ -2666,6 +2678,6 @@
 
 
 <!--TEMPLATE: 
-|  |  | | |
-| | ▼  | | |
+|  |  |  |  |
+|  | ▼  |  |  |
 -->
