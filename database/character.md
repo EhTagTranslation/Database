@@ -17,7 +17,7 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | ▼ 重复项合并 |  |  |
-| alice | 爱丽丝 | 因本名称过于普遍，建议使用更有特征的标签。<br>《爱丽丝梦游仙境》中的爱丽丝请使用“alice liddell”。 | |
+| alice | 爱丽丝 | 因本名称过于普遍，建议使用更有特征的标签。<br>《爱丽丝梦游仙境》中的爱丽丝请使用“alice liddell”。 |  |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 |  |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
@@ -2435,10 +2435,10 @@
 | cave | Cave | ![图](https://ehgt.org/4e/ec/4eecdd7e8e450f14ebd88d2149779915d072d522-2203077-2108-3010-jpg_l.jpg)![图](https://ehgt.org/38/0e/380e1f7d5a978ceb1b67b208f6ce41cea443731a-2900152-2121-3012-jpg_l.jpg) |  |
 | histoire | 伊丝特瓦尔 | ![图](https://ehgt.org/01/f2/01f2b9d74698a68455bab3f34b35a6025fece784-2641446-4877-6950-jpg_l.jpg) |  |
 |  | ▼ Charlotte |  |  |
-| yuu otosaka | 乙坂有宇 | Key史上最下作的主人公<br>![图](https://ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) | |
-| nao tomori | 友利奈绪 | 神秘的学生会长<br>![图](https://ehgt.org/c1/08/c1085da31ecbc531eee88c05fe8f39cda7b31961-945666-2451-3545-jpg_l.jpg)![图](https://ehgt.org/1c/b7/1cb7099a61aa25d03607c29e9aa6199f98753430-481964-2439-3546-jpg_l.jpg) | |
-| misa kurobane | 西森柚咲 | 开朗无邪的人气偶像<br>![图](https://ehgt.org/b1/e2/b1e2513b808dc135172f9bd4ee642f7bdd231cf1-1064919-2469-3538-jpg_l.jpg)![图](# "https://ehgt.org/e6/83/e683b558b05b06e50ee508904e37e62aec3eb148-1498152-2098-3000-jpg_l.jpg") | |
-| ayumi otosaka | 乙坂步未 | 元气满满的小动物系妹妹<br>![图](# "https://ehgt.org/7b/11/7b111ec190087ad74b2ccbba80603e93a2fd07cd-270120-850-1266-jpg_l.jpg")![图](# "https://ehgt.org/98/95/9895b279860e585bc2dad85c0b5491b3f25b2112-68350-590-650-png_l.jpg")![图](# "https://ehgt.org/43/ab/43abdd7bfb5601811ee96c784d24a89eaac5de16-115213-678-960-jpg_l.jpg") | |
+| yuu otosaka | 乙坂有宇 | Key史上最下作的主人公<br>![图](https://ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |  |
+| nao tomori | 友利奈绪 | 神秘的学生会长<br>![图](https://ehgt.org/c1/08/c1085da31ecbc531eee88c05fe8f39cda7b31961-945666-2451-3545-jpg_l.jpg)![图](https://ehgt.org/1c/b7/1cb7099a61aa25d03607c29e9aa6199f98753430-481964-2439-3546-jpg_l.jpg) |  |
+| misa kurobane | 西森柚咲 | 开朗无邪的人气偶像<br>![图](https://ehgt.org/b1/e2/b1e2513b808dc135172f9bd4ee642f7bdd231cf1-1064919-2469-3538-jpg_l.jpg)![图](# "https://ehgt.org/e6/83/e683b558b05b06e50ee508904e37e62aec3eb148-1498152-2098-3000-jpg_l.jpg") |  |
+| ayumi otosaka | 乙坂步未 | 元气满满的小动物系妹妹<br>![图](# "https://ehgt.org/7b/11/7b111ec190087ad74b2ccbba80603e93a2fd07cd-270120-850-1266-jpg_l.jpg")![图](# "https://ehgt.org/98/95/9895b279860e585bc2dad85c0b5491b3f25b2112-68350-590-650-png_l.jpg")![图](# "https://ehgt.org/43/ab/43abdd7bfb5601811ee96c784d24a89eaac5de16-115213-678-960-jpg_l.jpg") |  |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
 | ayane | 绫音 |  |  |
@@ -2661,8 +2661,8 @@
 | ichigo | 莓 | ![图](# "https://ehgt.org/f1/f4/f1f493e4a523d9c0d80f4e9bed7949907c2e75d2-2252123-1200-1736-jpg_l.jpg")![图](https://ehgt.org/31/f3/31f3dae0071956543da5548371f4ad799e355d02-206629-1000-1409-jpg_l.jpg)![图](https://ehgt.org/5d/d1/5dd1ab5efacae03eb261a00ed5e0490a7e0de216-773444-1224-2047-jpg_l.jpg)![图](# "https://ehgt.org/d2/a9/d2a9b3fe1d1c0cd93e8031519e1bf521dce3aab9-2258167-2000-2000-jpg_l.jpg")![图](# "https://ehgt.org/d9/59/d9591d336a993c5f717f675094a60fa538ec4597-573089-907-965-jpg_l.jpg") |  |
 | strelizia | 鹤望兰号 | ![图](https://ehgt.org/8d/2b/8d2bbcf290d9ee00b74cdf0e4cb8f93c181c5cd3-938013-1062-1505-jpg_l.jpg)![图](# "https://ehgt.org/4d/c5/4dc53c52ea01b62f6647a95dc86528f71e1efb77-1266931-2800-2500-png_l.jpg") |  |
 | hiro | 广 | 《DARLING in the FRANXX》中的男主<br>![图](https://ehgt.org/e5/ca/e5cafa474efe6c9d48f5e0c5177e354b04f7a4d0-573112-825-1100-jpg_l.jpg)![图](https://ehgt.org/87/56/87561fcbbc77b3350fe3aa53edf273b470bbd2a9-2734834-4758-6958-jpg_l.jpg) |  |
-| alice liddell | 爱丽丝·李道尔 | 著名童话《爱丽丝梦游仙境》、《爱丽丝镜中奇遇记》的原型。本特指该两部作品中的爱丽丝，及以其为原型的同人创作。<br>![图](https://ehgt.org/b5/15/b51545866372092a6e2db208579f418e0e857188-1493475-3826-3000-jpg_l.jpg)![图](https://ehgt.org/33/12/331267956bb3a28b408dbced2ffeeefba372b19e-12775398-4407-6217-jpg_l.jpg)![图](https://ehgt.org/25/2f/252f5c17ce6c9601dd8e612a4b35788d6eb162db-336583-1080-1512-jpg_l.jpg) | |
-| cinderella | 辛德瑞拉 | 童话故事《灰姑娘》中的女主人公角色名 | |
+| alice liddell | 爱丽丝·李道尔 | 著名童话《爱丽丝梦游仙境》、《爱丽丝镜中奇遇记》的原型。本特指该两部作品中的爱丽丝，及以其为原型的同人创作。<br>![图](https://ehgt.org/b5/15/b51545866372092a6e2db208579f418e0e857188-1493475-3826-3000-jpg_l.jpg)![图](https://ehgt.org/33/12/331267956bb3a28b408dbced2ffeeefba372b19e-12775398-4407-6217-jpg_l.jpg)![图](https://ehgt.org/25/2f/252f5c17ce6c9601dd8e612a4b35788d6eb162db-336583-1080-1512-jpg_l.jpg) |  |
+| cinderella | 辛德瑞拉 | 童话故事《灰姑娘》中的女主人公角色名 |  |
 
 
 <!--TEMPLATE: 

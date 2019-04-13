@@ -58,6 +58,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | animated | 动图 | 包含 GIF 动图的画廊。 |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。缺页(incomplete)的选集和画集(artbook)不算在内。 |  |
 | artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于缺页(incomplete)的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
+| comic | 连环漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于西方的(western)作品，非色情内容不算。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
 | full color | 全彩色 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、图片集(imageset)和 3D(3d)画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是动图(animated)。 |  |
@@ -101,4 +102,4 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 |  |
-| thumbelina | 拇指姑娘 | 世界著名童话，等待移入作品 | |
+| thumbelina | 拇指姑娘 | 世界著名童话，等待移入作品 |  |
