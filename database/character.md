@@ -17,6 +17,7 @@
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | ▼ 重复项合并 |  |  |
+| alice | 爱丽丝 | 因本名称过于普遍，建议使用更有特征的标签。<br>《爱丽丝梦游仙境》中的爱丽丝请使用“alice liddell”。 |  |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 |  |
 | yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
@@ -33,8 +34,10 @@
 | ram | 拉姆 | 1、《Re：从零开始的异世界生活》中的角色<br>![拉姆](# "https://ehgt.org/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg")<br>2、《超次元游戏海王星》中的角色<br>![图](https://ehgt.org/d9/30/d930d4c3a74a3650fb43e0f00a5bcf57f350be59-2269588-4877-6950-jpg_l.jpg) |  |
 |  | ▲ 重复项合并 |  |  |
 |  | ▼ 萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |  |
-| ink nijihara | 虹原茵可 | ![虹原茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f361447u84j205k07waac.jpg) |  |
-| pastel ink | 闪亮茵可 | ![闪亮茵可](http://ww3.sinaimg.cn/large/6c84b2d6gw1f36134flq4j205k08674h.jpg) |  |
+| ink nijihara | 虹原茵可 | 《萌单》最萌的高中生<br>![图](https://ehgt.org/36/b3/36b3430eccf8fb301c3f3bcd6950b69753daeb43-249981-1293-1735-jpg_l.jpg) |  |
+| pastel ink | 闪亮茵可 | 《萌单》最萌的高中生·变身<br>![图](https://ehgt.org/ec/86/ec8693643d59fb7f0a553cdde42ac330cc713a83-270681-1288-1726-jpg_l.jpg) |  |
+| sumi kuroi | 黑威澄 | 《萌单》<br>![图](https://ehgt.org/75/60/756039fd1aed7c3b039b28808d3ff6a7b776d0ba-893718-2132-3023-jpg_l.jpg)![图](https://ehgt.org/03/b8/03b89a190169d99237c6be61601af1a45ed8b288-2777516-2440-3500-jpg_l.jpg) |  |
+| alice shiratori | 白鸟爱丽丝 | 《萌单》<br>![图](https://ehgt.org/33/21/33211481c0dd0b65055b906cb813282de2c673c5-1102798-2132-3023-jpg_l.jpg)![图](https://ehgt.org/65/43/6543599c91bbd2f73baa23c6e8c5977b4a37a492-2467241-2132-3023-jpg_l.jpg) |  |
 |  | ▲萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |  |
 |  | ▼ 东方Project 人物 | 请参照THBWiki官方角色列表填写 | [官方角色列表](http://thwiki.cc/%E5%AE%98%E6%96%B9%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8) |
 |  | 东方Project >> 城管二人组 |  |  |
@@ -505,7 +508,7 @@
 | mai hidaka | 日高舞 |  |  |
 | eri mizutani | 水谷绘理 |  |  |
 | ryo akizuki | 秋月凉 |  |  |
-| uzuki shimamura | 岛村卯月 |  |  |
+| uzuki shimamura | 岛村卯月 | ![图](https://ehgt.org/96/01/9601e0fe69688f3922ce90bb34e8cf87415416a1-1217804-3840-2160-jpg_l.jpg)![图](# "https://ehgt.org/48/7f/487f540d2e5b849d7a0e2bf09b5cf837034bf6b8-193862-1150-1654-jpg_l.jpg")![图](# "https://ehgt.org/9f/3d/9f3d2de46edd0782329b0a259e7422d6c6b7af9a-3264173-2400-3390-jpg_l.jpg")![图](# "https://ehgt.org/82/00/820010d86437a37a6060bf6f6aa25232e4a70ce7-1214060-2126-3000-jpg_l.jpg")![图](# "https://ehgt.org/df/9b/df9b0739161fe94c6029ffb7897b087290f3f298-3490765-2122-3000-jpg_l.jpg") |  |
 | yukari mizumoto | 水本紫 |  |  |
 | mai fukuyama | 福山舞 |  |  |
 | kanako mimura | 三村加奈子 |  |  |
@@ -1156,7 +1159,7 @@
 | rindou kobayashi | 小林龙胆 |  |  |
 |  | ▼ 埃罗芒阿老师 角色 |  |  |
 | sagiri izumi | 和泉纱雾 |  |  |
-| elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报 |  |
+| elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报<br>![图](# "https://ehgt.org/84/fa/84fa56d2a5f0df7404a77dc41257dd96f2c849d3-915662-1050-1496-jpg_l.jpg")![图](# "https://ehgt.org/14/02/140250e6dbe67adec49f63cc530cecc10c7294bb-2503726-1376-2000-png_l.jpg")![图](# "https://ehgt.org/5b/a8/5ba83f746ae6605912a64ce83ae82146de6ad925-997353-2319-3300-jpg_l.jpg")![图](# "https://ehgt.org/4f/b5/4fb54122567bb1fb567a14e17508cd80be31d3af-4996559-2536-3580-jpg_l.jpg")![图](# "https://ehgt.org/40/b1/40b1cbeb856fb4f98aca11f8f0ea532132535a6b-307092-1280-1810-jpg_l.jpg") |  |
 | masamune izumi | 和泉正宗 |  |  |
 | megumi jinno | 神野惠 |  |  |
 | muramasa senju | 千寿村征（梅园花） |  |  |
@@ -1313,10 +1316,10 @@
 | satoshi fukube | 福部里志 |  |  |
 | ayako kouchi | 河内亚也子 |  |  |
 |  | ▼ 你的名字 |  |  |
-| mitsuha miyamizu | 宫水三叶<br>![图](https://ehgt.org/59/f7/59f72c3af52e7729232d14f6e4f2727d1e5ba567-3232881-2127-3012-png_l.jpg)![图](# "https://ehgt.org/44/e8/44e8fad3cb06e3064d3ce8730aa7056a663071f9-2326457-1500-2000-jpg_l.jpg")![图](# "https://ehgt.org/27/21/2721538a4b9b6bc288ed307ae8ad29e360614044-5063714-3840-2160-jpg_l.jpg")![图](# "https://ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "https://ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |  |
+| mitsuha miyamizu | 宫水三叶 | ![图](https://ehgt.org/59/f7/59f72c3af52e7729232d14f6e4f2727d1e5ba567-3232881-2127-3012-png_l.jpg)![图](# "https://ehgt.org/44/e8/44e8fad3cb06e3064d3ce8730aa7056a663071f9-2326457-1500-2000-jpg_l.jpg")![图](# "https://ehgt.org/27/21/2721538a4b9b6bc288ed307ae8ad29e360614044-5063714-3840-2160-jpg_l.jpg")![图](# "https://ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "https://ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |
 | yotsuha miyamizu | 宫水四叶 |  |  |
 | miki okudera | 奥寺美纪 |  |  |
-| taki tachibana | 立花泷<br>![图](# "https://ehgt.org/02/7b/027b9bb184d08784b13205789f5ffa60b8dd5a8b-1177337-2006-2832-jpg_l.jpg")![图](# "https://ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "https://ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |  |
+| taki tachibana | 立花泷 | ![图](# "https://ehgt.org/02/7b/027b9bb184d08784b13205789f5ffa60b8dd5a8b-1177337-2006-2832-jpg_l.jpg")![图](# "https://ehgt.org/d8/a7/d8a7a4fd376f12edceb2a1c7575ea543fed3595f-513486-1080-1920-jpg_l.jpg")![图](# "https://ehgt.org/2c/64/2c6418d5bb465e040516ae7b7ab8e331dcbaa2a8-612864-1920-1080-jpg_l.jpg") |  |
 |  | ▼ 笨蛋测验召唤兽 |  |  |
 | akihisa yoshii | 吉井明久 |  |  |
 | akira yoshii | 吉井玲 |  |  |
@@ -1425,7 +1428,7 @@
 |  | 福田 |  |  |
 |  | 玉田 |  |  |
 |  | 细见 |  |  |
-| arisu shimada | 岛田爱里寿 |  |  |
+| arisu shimada | 岛田爱里寿 | ![图](https://ehgt.org/f1/2f/f12f286b597484c2b4f03924090cac94dbf48db8-313075-1265-1817-jpg_l.jpg)![图](# "https://ehgt.org/0b/2e/0b2edc8ff36c176eb003e7372fcbaa185a3f8ef2-8640001-2132-3000-png_l.jpg") |  |
 |  | 惠 |  |  |
 | azumi | 安昙 |  |  |
 |  | 留美 |  |  |
@@ -1579,7 +1582,7 @@
 |  | 新子望 |  |  |
 |  | ▼ 兽娘动物园 |  |  |
 | kaban | 背包 |  |  |
-| serval | 薮猫<br>![图](https://ehgt.org/4b/5c/4b5ce2bb126e5d9798737c09d58aa97417cb2ea1-775805-800-1241-jpg_l.jpg) |  |  |
+| serval | 薮猫 | ![图](https://ehgt.org/4b/5c/4b5ce2bb126e5d9798737c09d58aa97417cb2ea1-775805-800-1241-jpg_l.jpg) |  |
 | common raccoon | 浣熊 |  |  |
 | fennec | 耳廓狐 |  |  |
 | ezo red fox | 北狐 |  |  |
@@ -1833,7 +1836,7 @@
 | mordred pendragon | 莫德雷德·潘德拉贡 | ![图](https://ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](https://ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) |  |
 | queen of sheba | 示巴女王 |  |  |
 | wu zetian | 武则天 |  |  |
-| abigail williams | 阿比盖尔·威廉姆斯 |  |  |
+| abigail williams | 阿比盖尔·威廉姆斯 | ![图](https://ehgt.org/3a/f7/3af70f5295f6ff241236676c8d02b2a6b2cb2cf9-2805610-2861-4008-jpg_l.jpg)![图](https://ehgt.org/36/f9/36f969b01299ca3bc05eaa0e0f59109a5a63cdd8-3228482-2114-3047-jpg_l.jpg) |  |
 | hans christian andersen | 汉斯·克里斯蒂安·安徒生 |  |  |
 | hector | 赫克特 |  |  |
 | mochizuki chiyome | 望月千代女 |  |  |
@@ -2431,6 +2434,11 @@
 | compa | 康帕 | ![图](https://ehgt.org/06/93/0693b9e1d6cf0164cd866c145f42725461c6f11a-3122492-4927-6958-jpg_l.jpg) |  |
 | cave | Cave | ![图](https://ehgt.org/4e/ec/4eecdd7e8e450f14ebd88d2149779915d072d522-2203077-2108-3010-jpg_l.jpg)![图](https://ehgt.org/38/0e/380e1f7d5a978ceb1b67b208f6ce41cea443731a-2900152-2121-3012-jpg_l.jpg) |  |
 | histoire | 伊丝特瓦尔 | ![图](https://ehgt.org/01/f2/01f2b9d74698a68455bab3f34b35a6025fece784-2641446-4877-6950-jpg_l.jpg) |  |
+|  | ▼ Charlotte |  |  |
+| yuu otosaka | 乙坂有宇 | Key史上最下作的主人公<br>![图](https://ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |  |
+| nao tomori | 友利奈绪 | 神秘的学生会长<br>![图](https://ehgt.org/c1/08/c1085da31ecbc531eee88c05fe8f39cda7b31961-945666-2451-3545-jpg_l.jpg)![图](https://ehgt.org/1c/b7/1cb7099a61aa25d03607c29e9aa6199f98753430-481964-2439-3546-jpg_l.jpg) |  |
+| misa kurobane | 西森柚咲 | 开朗无邪的人气偶像<br>![图](https://ehgt.org/b1/e2/b1e2513b808dc135172f9bd4ee642f7bdd231cf1-1064919-2469-3538-jpg_l.jpg)![图](# "https://ehgt.org/e6/83/e683b558b05b06e50ee508904e37e62aec3eb148-1498152-2098-3000-jpg_l.jpg") |  |
+| ayumi otosaka | 乙坂步未 | 元气满满的小动物系妹妹<br>![图](# "https://ehgt.org/7b/11/7b111ec190087ad74b2ccbba80603e93a2fd07cd-270120-850-1266-jpg_l.jpg")![图](# "https://ehgt.org/98/95/9895b279860e585bc2dad85c0b5491b3f25b2112-68350-590-650-png_l.jpg")![图](# "https://ehgt.org/43/ab/43abdd7bfb5601811ee96c784d24a89eaac5de16-115213-678-960-jpg_l.jpg") |  |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
 | ayane | 绫音 |  |  |
@@ -2653,6 +2661,8 @@
 | ichigo | 莓 | ![图](# "https://ehgt.org/f1/f4/f1f493e4a523d9c0d80f4e9bed7949907c2e75d2-2252123-1200-1736-jpg_l.jpg")![图](https://ehgt.org/31/f3/31f3dae0071956543da5548371f4ad799e355d02-206629-1000-1409-jpg_l.jpg)![图](https://ehgt.org/5d/d1/5dd1ab5efacae03eb261a00ed5e0490a7e0de216-773444-1224-2047-jpg_l.jpg)![图](# "https://ehgt.org/d2/a9/d2a9b3fe1d1c0cd93e8031519e1bf521dce3aab9-2258167-2000-2000-jpg_l.jpg")![图](# "https://ehgt.org/d9/59/d9591d336a993c5f717f675094a60fa538ec4597-573089-907-965-jpg_l.jpg") |  |
 | strelizia | 鹤望兰号 | ![图](https://ehgt.org/8d/2b/8d2bbcf290d9ee00b74cdf0e4cb8f93c181c5cd3-938013-1062-1505-jpg_l.jpg)![图](# "https://ehgt.org/4d/c5/4dc53c52ea01b62f6647a95dc86528f71e1efb77-1266931-2800-2500-png_l.jpg") |  |
 | hiro | 广 | 《DARLING in the FRANXX》中的男主<br>![图](https://ehgt.org/e5/ca/e5cafa474efe6c9d48f5e0c5177e354b04f7a4d0-573112-825-1100-jpg_l.jpg)![图](https://ehgt.org/87/56/87561fcbbc77b3350fe3aa53edf273b470bbd2a9-2734834-4758-6958-jpg_l.jpg) |  |
+| alice liddell | 爱丽丝·李道尔 | 著名童话《爱丽丝梦游仙境》、《爱丽丝镜中奇遇记》的原型。本特指该两部作品中的爱丽丝，及以其为原型的同人创作。<br>![图](https://ehgt.org/b5/15/b51545866372092a6e2db208579f418e0e857188-1493475-3826-3000-jpg_l.jpg)![图](https://ehgt.org/33/12/331267956bb3a28b408dbced2ffeeefba372b19e-12775398-4407-6217-jpg_l.jpg)![图](https://ehgt.org/25/2f/252f5c17ce6c9601dd8e612a4b35788d6eb162db-336583-1080-1512-jpg_l.jpg) |  |
+| cinderella | 辛德瑞拉 | 童话故事《灰姑娘》中的女主人公角色名 |  |
 
 
 <!--TEMPLATE: 
