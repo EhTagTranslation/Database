@@ -2367,7 +2367,12 @@
 | roteri | ろてり |  |  |
 | kannaduki kanna | 神無月かんな |  |  |
 | endou okito | 袁藤沖人 |  |  |
+| messy | メッシィ |  |  |
+| aomushi | あおむし |  |  |
+| zheng | Zheng |  |  |
+| yukimoto shuuji | 雪本愁二 |  |  |
+| omaru gyuunyuu | 牛乳うまお |  |  |
 
 <!--TEMPLATE: 
-|  |  | | |
+|  |  |  |  |
 -->
