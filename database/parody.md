@@ -389,7 +389,7 @@
 | sakura quest | 樱花任务 |  |  |
 | aldnoah.zero | ALDNOAH.ZERO |  |  |
 | maoyuu maou yuusha | 魔王勇者 |  |  |
-| splatoon | 喷射美少女 |  |  |
+| splatoon | 喷射战士 | ![图](https://ehgt.org/a8/78/a878b24da4c4996512e35d61cf7d94a56b70ee07-756252-796-890-png_l.jpg) |  |
 | prunus girl | 樱桃少女 |  |  |
 | king of fighters | 拳皇 |  |  |
 | love plus | 爱相随 |  |  |
@@ -408,7 +408,7 @@
 | super mario brothers | 超级马里奥兄弟 |  |  |
 | spider-man | 蜘蛛侠 | 穷人靠变异系列的典范。 |  |
 | gunsmith cats | 猫眼女枪手 |  |  |
-| puzzle and dragons | 智龙迷城 |  |  |
+| puzzle and dragons | 智龙迷城 | 《龙族拼图》（日语：パズル&ドラゴンズ，英语：Puzzle & Dragons，中国大陆译作“智龙迷城”，港台译作“龙族拼图”）是日本Gungho线上娱乐开发的智慧型手机游戏。此游戏是一个结合了角色扮演游戏及宝石消除游戏元素进行战斗的益智游戏。宝石消除的游戏模式是参考Dungeon Raid设计的，和宝石方块类似；而游戏的战斗模式则与神奇宝贝系列相似。此游戏于台港澳受关注，并因此引致不少疑似抄袭其游戏模式的手机游戏出现。包括台港澳地区另一大受欢迎的游戏《神魔之塔》等。<br>游戏曾获6个类别的“Fami通Award 2012”奖项、“CEDEC AWARDS 2012”最佳游戏设计奖、“Fami通Award 2013”优秀奖、Google Play 2014上半年度最佳卡牌游戏、2014巴哈姆特游戏大赏手机暨平板游戏金赏等殊荣。<br>![logo][https://pad.gungho.jp/member/common/img/top_v2/logo.png]![图](https://ehgt.org/d5/8b/d58ba39868d868672d0cc8f82635a6f81f35761b-248224-1024-886-jpg_l.jpg)![图](# "https://ehgt.org/af/4f/af4f916057e82146ed2e1505db8061618cad3404-74510-600-399-jpg_l.jpg") | [日版官方网站](https://pad.gungho.jp/member/index.html) [日版官方推特](https://twitter.com/pad_sexy) |
 | senki zesshou symphogear | 战姬绝唱Symphogear |  |  |
 | shaman king | 通灵王 |  |  |
 | gegege no kitarou | 怪怪怪的鬼太郎 |  |  |
@@ -634,8 +634,8 @@
 | mitsudomoe | 超元气三姐妹 |  |  |
 | no-rin | 农林 |  |  |
 | space battleship yamato | 宇宙战舰大和号 |  |  |
-| utawarerumono | 传颂之物 |  |  |
-| utawarerumono itsuwari no kamen | 传颂之物 虚伪的假面 |  |  |
+| utawarerumono | 传颂之物 | 可爱的艾露露<br>![图](https://ehgt.org/91/fe/91fe1db07742e349063b92141cb10617b8614359-186457-1060-1493-jpg_l.jpg)![图](https://ehgt.org/d0/7c/d07c7f9190c58d5fb606057258b97857626186f2-64122-567-800-jpg_l.jpg) | [在线观看TV动画](https://www.bilibili.com/video/av2843236) [在线观看PS4重置版实况](https://www.bilibili.com/video/av42819048) |
+| utawarerumono itsuwari no kamen | 传颂之物 虚伪的假面 | ![图](https://ehgt.org/1a/3f/1a3f95fe664e99ad630e28dc324c14418762b201-478114-1920-1080-jpg_l.jpg)![图](https://ehgt.org/54/11/54118e4bd7ab2197a284a00d7f22c381a4cdffea-4036251-1920-1080-png_l.jpg)![图](https://ehgt.org/d9/e0/d9e026b00a4114ec1ab3c4a2b18b549ab3ea03a9-2924615-1920-1080-png_l.jpg) | [在线观看游戏实况](https://www.bilibili.com/video/av2843236) [在线观看续作二人白皇实况（暂未出合集）](https://www.bilibili.com/video/av47971257) |
 | highschool dxd | 恶魔高校D×D |  |  |
 | the world god only knows | 只有神知道的世界 |  |  |
 | mabinogi | 洛奇 | 玛奇 |  |
