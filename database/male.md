@@ -164,6 +164,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。<br>![图](# "https://ehgt.org/e8/e8/e8e84e887aae3d27b78b7e1d9531c7bda453b5dd-1178193-1200-1694-jpg_l.jpg") |  |
 |  | === 身体 > 体重 === |  |  |
+| anorexic | 瘦骨嶙峋 | 体重过轻，以至于皮肤凹陷、骨骼结构可见。 |  |
 | bbm | 胖男人 | 胖男人，必须要有腹部褶皱。<br>![胖大叔赛高！](# "https://ehgt.org/f2/c7/f2c77d7e82dc41acec57a2d13d792698383aa38a-1711399-1307-1950-png_l.jpg") |  |
 | ssbbm | 超级胖男人 | 宽比高长的男性。需要胖男人(bbm)标签。 |  |
 | weight gain | 体重增加 | 通过摄取食物而变得更胖，极有可能成为胖男人(bbm)。不应与腹部膨胀(inflation)混淆。 |  |
