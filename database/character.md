@@ -19,7 +19,7 @@
 |  | ▼ 重复项合并 |  |  |
 | alice | 爱丽丝 | 因本名称过于普遍，建议使用更有特征的标签。<br>《爱丽丝梦游仙境》中的爱丽丝请使用“alice liddell”。 |  |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 |  |
-| yui | 由依 \| 结衣 | Angel Beats! 角色<br>刀剑神域角色 |  |
+| yui | 由依 \| 结衣 | Angel Beats! 角色<br>![图](https://ehgt.org/53/75/5375e7612aee494400025f6f70a43177df45cd73-11067561-4912-6996-jpg_l.jpg)<br>刀剑神域角色，男女主的义女<br>![图](https://ehgt.org/b5/3a/b53a755dc9bd2828cc6e5ce90d74a9d96f027e0c-86616-960-544-jpg_l.jpg)![图](https://ehgt.org/2a/83/2a83864ab6dd535180f1e68ace9ab5f3357b2cbb-123272-960-544-jpg_l.jpg)![图](https://ehgt.org/4f/90/4f90948cc15585be12c99f7a6ff413081dd50ea0-90922-400-600-jpg_l.jpg)![图](https://ehgt.org/73/80/7380fc10fce3efa0be2aa819e71bab44948a9cf0-1060909-818-1157-jpg_l.jpg) |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
 | rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](https://ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](https://ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](https://ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 |  |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |  |
@@ -1876,18 +1876,22 @@
 | bb | BB |  |  |
 | bradamante | 布拉达曼特 |  |  |
 |  | ▼ 刀剑神域 |  |  |
-| yuuki konno | 绀野木棉季 | ![优纪](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=e554edab858ba61edfeecf29790ff037/b3fb43166d224f4a74c598720ef790529822d177.jpg) |  |
-| asuna yuuki | 结城明日奈 | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](# "https://ehgt.org/f2/56/f256ce17b4d40bc04666fa9e31270d834537bf1c-746329-983-1400-jpg_l.jpg")![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg) |  |
-| kazuto kirigaya | 桐谷和人 | ![](http://img3.imgtn.bdimg.com/it/u=3380180753,2830563404&fm=27&gp=0.jpg) |  |
-| suguha kirigaya | 桐谷直叶 | ![](http://hbimg.b0.upaiyun.com/9d8df96f607ae19d105a840e3dd850dabb94ad155dc1b-UJCpdy_fw236) |  |
-| lyfa | 莉法 | ![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4249054358,121793370&fm=27&gp=0.jpg) |  |
-| shino asada | 朝田诗乃 | ![](https://img.moegirl.org/common/thumb/a/aa/30761865.png/250px-30761865.png) |  |
-| keiko ayano | 绫野珪子 | ![](https://img.tulaoshi.com/image/20150521/e75ab42f0e79a2ee9ca4b4bcc8dc343a.jpg) |  |
-| rika shinozaki | 筱崎里香 | ![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D400/sign=a39fd5733e9b033b2c88fdda25cf3620/00e93901213fb80e0c59a9a03cd12f2eb9389439.jpg) |  |
+| kazuto kirigaya | 桐谷和人(桐人) | ![图](https://ehgt.org/14/56/1456fe04bac534a80cd45c511a52c585b795aea5-112943-960-544-jpg_l.jpg)![图](https://ehgt.org/31/f3/31f303e3ce76b516286e5296f5fd8ab43b970ded-859458-2464-3498-jpg_l.jpg) |  |
+| asuna yuuki | 结城明日奈(亚丝娜) | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](https://ehgt.org/d0/1b/d01b63e2dcb2428267db353a7035ecb2ec5c02e8-391042-720-776-jpg_l.jpg)![图](https://ehgt.org/8f/d1/8fd11d7992aff862637904118ba3d1abf1d954f4-3133171-1700-1242-png_l.jpg)![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)![图](https://ehgt.org/af/6c/af6c904613d926403935d6710e8f99caca5336d0-156027-960-544-jpg_l.jpg) |  |
+| sachi | 幸 | 桐人永久的伤痛<br>![图](https://ehgt.org/c7/46/c7466b17f7d0b3e8ceaeeacd614a6d6874321640-93535-960-544-jpg_l.jpg)![图](https://ehgt.org/82/24/822402a91cb7c02f3e66a697c4bcd06c1ac8b45d-456448-700-1079-jpg_l.jpg)![图](https://ehgt.org/55/55/5555e8320ce6446c4ea393971c7d056cd14cc76b-106116-960-544-jpg_l.jpg)![图](https://ehgt.org/ea/ad/eaad4c01688970e3cd817473a4fa7c385f16c243-706209-849-1200-jpg_l.jpg) | |
+| keiko ayano | 绫野珪子(西莉卡) | ![图](https://ehgt.org/83/2f/832fa0f9ff7dc47f90bb7b99901223f1e62b119e-166533-960-544-jpg_l.jpg)![图](https://ehgt.org/89/0f/890f5137844f9265f9a38a0ded4b20a375170361-133766-960-544-jpg_l.jpg)![图](https://ehgt.org/df/a1/dfa1c5c26084b40a15224096a4ff9900002bfb60-151378-960-544-jpg_l.jpg)![图](https://ehgt.org/ff/55/ff550a7da2c48b5c9cb4131cc166016f77dc8af2-1707277-1280-1600-jpg_l.jpg) |  |
+| rika shinozaki | 筱崎里香(莉兹贝特) | ![图](https://ehgt.org/72/5f/725f9c3527ba661d783e62a345d00240a17b22fb-139840-960-544-jpg_l.jpg)![图](https://ehgt.org/bb/27/bb271391eb08ee8a016a0cf10d3c0f7988c3b9a6-105716-960-544-jpg_l.jpg)![图](https://ehgt.org/25/bb/25bb3cc909e03ee184f773e63e0e70c43a995e6a-105231-960-544-jpg_l.jpg) |  |
+| rosalia | 罗莎莉雅 | 刀剑神域犯罪公会会长<br>![图](# "https://ehgt.org/32/b0/32b097f8acba5a4cbea0cd586c55ae81de30cedc-165370-480-640-jpg_l.jpg")![图](# "https://ehgt.org/7b/47/7b4784644f58283dc94bcdb2a60ff9d14b9d01f0-1196647-1600-1200-jpg_l.jpg")![图](# "https://ehgt.org/b8/39/b839bcde1917a407bfb13f0dc95472fee386827d-73876-745-730-jpg_l.jpg") |  |
+| sasha | 纱夏 | 刀剑神域底层的教会中的住民，在底层照顾年幼玩家。<br>![](http://ww2.sinaimg.cn/large/6c84b2d6ly1g2361mw2maj20g30dv0th.jpg)![图](# "https://ehgt.org/65/9b/659befc9f8b39a7afc44aeb1fa0d6df1e9fb626f-270875-600-800-jpg_l.jpg") |  |
+| yolko | 夜子 | 刀剑神域黄金苹果工会成员<br>![](http://ww3.sinaimg.cn/large/6c84b2d6ly1g236coy05jj208p0bpadn.jpg)![图](# "https://ehgt.org/0b/14/0b14f133f9bcf99c1abc24aed8410c520f355fbb-197858-600-800-jpg_l.jpg") |  |
+| suguha kirigaya | 桐谷直叶 | 桐人的妹妹，和莉法(lyfa)是两个不同的Tag<br>![图](https://ehgt.org/52/5a/525a84cce545893c1db2137a9a3449ed77b00015-266888-700-1184-jpg_l.jpg)![图](https://ehgt.org/18/e5/18e5f1a2380fe89d210c623a5f64280d28cb776c-213666-646-1000-jpg_l.jpg)![图](# "https://ehgt.org/be/e1/bee119ecfb82462481176321024fef71963d3457-625474-800-1120-jpg_l.jpg")![图](htt![图](https://ehgt.org/d6/56/d6566e5117ea9c090407cafa04630617ea6d16f4-393199-626-885-jpg_l.jpg)ps://ehgt.org/b5/d9/b5d98a4beb5ee1a4573fb913ec053f4df4ed2a0d-145477-900-670-jpg_l.jpg)![图](https://ehgt.org/6d/c6/6dc641a7c20be461f0c12ac31dd3ee165f013609-108985-960-544-jpg_l.jpg) |  |
+| lyfa | 莉法 | 桐谷直叶(suguha kirigaya)的游戏角色<br>![图](https://ehgt.org/e1/4f/e14f3503942c01cdec65dcab962963ca15567152-120327-960-544-jpg_l.jpg)![图](https://ehgt.org/4e/62/4e6218f464be92157de28e01a5567e0259ae4dcf-146973-960-544-jpg_l.jpg)![图](https://ehgt.org/27/f0/27f000492d0382d88c4ec0fae36c74f272bb3641-190120-706-1000-jpg_l.jpg)![图](# "https://ehgt.org/56/65/5665955eb795e15e2feb6a93c2e5b5a97970ff02-421657-450-1047-jpg_l.jpg")![图](# "https://ehgt.org/1f/f3/1ff37df99f1518b99a7f107542a963f97cb2c8f4-269547-731-1035-jpg_l.jpg")![图](# "https://ehgt.org/2b/57/2b57aae0a0bbc51002ff00c713bcd799a3cf81e9-420217-1200-1600-jpg_l.jpg") |  |
+| shino asada | 朝田诗乃(诗乃) | ![图](https://ehgt.org/26/32/2632537734fd9eae1bc75cc237e5193092c6eb28-114268-960-544-jpg_l.jpg)![图](https://ehgt.org/bd/84/bd84b605a690442c4d28abbfd6c25bdb034c853c-1077304-2454-3503-jpg_l.jpg)![图](# "https://ehgt.org/e6/c1/e6c18967040f3fd4419a3c06f7ad54a92e5cf900-839724-973-1400-jpg_l.jpg") |  |
+| yuuki konno | 绀野木棉季(有纪) | ![图](https://ehgt.org/44/89/4489ad25b50c665aa5c5c89c8b6e1ed82ef1468d-133470-960-544-jpg_l.jpg)![图](https://ehgt.org/7f/a7/7fa7bfc50c6b857df0196b5c85d76a9a73db35ad-345967-1050-1492-jpg_l.jpg) |  |
 |  | 结衣（重复项） |  |  |
-| nagata shinichi | 长田伸一 | ![](http://image.game.uc.cn/2016/3/21/12766893.png) |  |
-| alicia rue | 亚丽莎·露 | ![](http://image.game.uc.cn/2016/3/22/12787821.jpg) |  |
-| sakuya | 咲夜 | ![](http://www.people.com.cn/mediafile/pic/20150128/29/14596061717621453353.jpg) |  |
+| nagata shinichi | 长田伸一(雷根)| ![](http://ww2.sinaimg.cn/bmiddle/6c84b2d6ly1g235xiuf43j20f60ixn0w.jpg) |  |
+| alicia rue | 亚丽莎·露 | ![图](https://ehgt.org/0c/75/0c75f246c8d3bbad5bcf3aef6e7d82e850da37e9-550241-624-717-png_l.jpg)![图](https://ehgt.org/00/b8/00b83e961cbec01b8fec6e2e667866377f0f0956-190994-700-700-jpg_l.jpg) |  |
+| sakuya | 朔夜 | 刀剑神域·妖精之舞（ALO）中的人物<br>![图](https://ehgt.org/04/6e/046e654a7e79d0451f0c63e3ea8195534a55a2f5-482788-599-876-jpg_l.jpg)![图](https://ehgt.org/62/e7/62e78940b9da175f7a5defbb63ebeaab6baeae82-1346497-1240-1723-jpg_l.jpg) |  |
 |  | ▼ 加速世界 |  |  |
 | kuroyukihime | 黑雪姬 |  |  |
 | haruyuki arita | 有田春雪 |  |  |
