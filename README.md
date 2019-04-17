@@ -63,7 +63,7 @@
 后缀：
 - `*.json` 是 JSON 表示的数据库；
 - `*.json.gz` 是其 gzip 压缩后的版本；
-- `*.js` 是用于 JSONP 调用的脚本，回调函数名为 `load_ehtagtranslation_database`，由于 GitHub 的跨域限制，浏览器端仅能使用此方案。
+- `*.js` 是用于 JSONP 调用的脚本，回调函数名为 `load_ehtagtranslation_${前缀}_${中缀}`，由于 GitHub 的跨域限制，浏览器端仅能使用此方案。
 
 中缀：
 - `*.raw.*` 包含了 MarkDown 版本的翻译、简介和外部链接；
@@ -71,6 +71,10 @@
 - `*.text.*` 包含了去除图片和链接的的翻译、简介和外部链接；
 - `*.ast.*` 包含了 JSON 表示的 MarkDown 的语法树结构；
 - `*.full.*` 包含了以上所有信息。
+
+前缀：
+- `db.*` 包含了全部内容；
+- `diff.*` 包含了本版本和上一版本的 `version`, `head`（分别以 `new`, `old` 区分），并包含了以 [JSONPatch](http://jsonpatch.com/) 格式存储的 `data`。
 
 以下为 node 代码示例。
 ``` js
