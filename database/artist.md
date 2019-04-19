@@ -181,7 +181,6 @@
 | kanna | かん奈 |  |  |
 | fujutsushi | 风术师 |  |  |
 | fubuki poni | 風吹ぽに |  |  |
-| yari ashito | 大枪苇人 |  |  |
 | ouma tokiichi | 逢魔刻壹 |  |  |
 | momonoki fum | 百乃木富梦 |  |  |
 | miito shido | 三糸シド |  |  |
