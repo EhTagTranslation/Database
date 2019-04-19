@@ -208,7 +208,7 @@
 | canaan | 迦南 | 《CANAAN》，中译迦南，是以日本视觉小说游戏《428 ～被封锁的涩谷～》的世界观为基础，相当于其续作的，以中国上海为舞台，由TYPE-MOON担当脚本及人设，P.A.WORKS公司制作的一部电视动画，共13集。2009年7月4日－2009年9月26日在日本播放。最初发表的标题为“428 the animation”。 同名的漫画也在《月刊CompAce》上开始连载。此外，电视动画播毕后，还有3部相关的剧场版计划上映。 |  |
 | tsukihime | 月姬 | 《月姬》（日语：つきひめ）是日本同人社团TYPE-MOON在2000年推出的一款十八禁美少女游戏，平台为个人电脑的Windows操作系统。 |  |
 |  | ▲Type-Moon 系列 |  |  |
-| kimi no na wa. | 你的名字。 | ![](https://ehgt.org/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) |  |
+| kimi no na wa. | 你的名字。 | ![](https://ehgt.org/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/zh/%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E3%80%82) |
 | mashiro iro symphony | 纯白交响曲 | ![](https://ehgt.org/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |  |
 |  | ▼勇者斗恶龙 系列 |  |  |
 | dragon quest | 勇者斗恶龙 |  |  |
@@ -1090,7 +1090,7 @@
 | kyouran kazoku nikki | 狂乱家族日记 | 《狂乱家族日记》是日日日在Fami通文库出版的轻小说。插画家为x6suke。第六届Enterbrain“Entame大奖”佳作。 |  |
 | 2x2 shinobuden | 酷伊忍者传 | 动画《酷伊忍者传》（2x2 = Shinobuden）改编自古贺亮一发表在《月刊Comic电击大王》，发刊号2000年8月号 - 2006年3月号的漫画作品。全12集。 |  |
 | marriage royale | 皇家新娘 | 《皇家新娘》是由著名美少女游戏厂商Navel，连同美少女动漫游戏杂志《電撃G's magazine》协力制作，在加上读者参与诞生的企划，企划于2006年展开，其中一大特色在于里面的女主角都是从读者投稿选拔出来的地区女生，同名漫画《皇家新娘 棱镜物语》于09年连载，PSP游戏版如今亦正式呈现在玩家的眼前。 |  |
-| beat angel escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer (\*) |
+| beat angel escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer) (\*) |
 | mahou senshi sweet knights | 魔法战士 Sweet Knights |  |  |
 | read or die | R.O.D | 《R.O.D》（日语：リード・オア・ダイ，英文：Read or Die）是仓田英之创作的奇幻与冒险轻小说，描述“The Paper”这位大英图书馆的特务，出版社为集英社Super Dash文库，目前出版至第11集，并且预计于第12集结束整个故事系列。 | [维基百科](https://zh.wikipedia.org/zh-cn/R.O.D) (\*) |
 | uchuu no stellvia | 宇宙星路 | 宇宙学园（中国大陆译名：宇宙星路）是以未来太阳系为舞台的日本科幻动画作品，讲述主角片瀬志麻在宇宙学院Stellvia的成长历程。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙學園) (\*) |
@@ -1248,7 +1248,7 @@
 | lunar silver star story | 露娜 银河之星物语 | 《露娜 银河之星物语》（日语：ルナ ザ・シルバースター，英语：Lunar: Silver Star Story Complete）是一款由Game Arts和Japan Art Media制作、角川书店发行的角色扮演类游戏。本游戏为1992年发行的《露娜 银河之星》重制版，于1996年10月25日在世嘉土星日本地区发行。 游戏后移植至Windows和PlayStation。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_银河之星物语) (\*) |
 | lunar eternal blue | 露娜 永恒之蓝 | 《露娜 永恒之蓝》（日语：ルナ エターナルブルー，英语：Lunar: Eternal Blue）是一款由Game Arts和Japan Art Media制作、Game Arts发行的角色扮演类游戏。本游戏最初于1994年12月在世嘉CD上发行，是一个传统的角色扮演类游戏，战斗场面随机发生在地牢和其他危险区域。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_永恒之蓝) (\*) |
 | maria holic | 玛莉亚†狂热 | 《玛莉亚狂热》（まりあ†ほりっく、まりほり）是远藤海成从月刊Comic Alive创刊号开始连载的漫画作品。由此改编的电视动画于2009年1月开始播放。2007年12月28日发售广播剧CD。现有尖端出版社出版单行本六卷。 | [维基百科](https://zh.wikipedia.org/zh-cn/瑪莉亞狂熱) (\*) |
-| boku no pico | 我的Pico | 《我的Pico》（ぼくのぴこ）是2006年9月7日由Soft On Demand所发售的成人动画。这作是世界第一个正太控成人动画。 | [维基百科]（https://zh.wikipedia.org/zh-cn/我的Pico) (\*) |
+| boku no pico | 我的Pico | 《我的Pico》（ぼくのぴこ）是2006年9月7日由Soft On Demand所发售的成人动画。这作是世界第一个正太控成人动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/我的Pico) (\*) |
 | azure striker gunvolt | 苍蓝雷霆：刚巴尔特 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Azure_Striker_Gunvolt) |
 | narutaru | 星星公主 | 星星公主（日语：なるたる），是鬼头莫宏的日本漫画作品。于2004年1月播放电视动画版。星星公主名称中有“骸なる星 珠たる子”的意思。 | [维基百科](https://zh.wikipedia.org/zh-cn/星星公主) (\*) |
 | bokusatsu tenshi dokuro-chan | 扑杀天使朵库萝 | 扑杀天使朵库萝（撲殺天使ドクロちゃん）是おかゆまさき写的轻小说系列，插画是とりしも，单行本共十卷，在《月刊电击Comic gao!》上有桜瀬みつな画的漫画版。连载开始时就以谜之拟音开始的问题作品，却意外得到编辑部意料外的人气。是一部有萝莉、凶器、萌、小魔女等要素的作品，另外还有《哆啦A梦》的影子。2005年3月OVA化，2005年11月PS2游戏化，2007年8月二度OVA化。 | [维基百科](https://zh.wikipedia.org/zh-cn/撲殺天使朵庫蘿) (\*) |
