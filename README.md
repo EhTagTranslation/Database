@@ -12,7 +12,7 @@
 
 ## 参与翻译
 
-请参考[参与翻译](CONTRIBUTING.md)指南。
+请使用 [EhTag Editor](https://ehtagtranslation.github.io/Editor)，在编辑前请先查阅[参与翻译](CONTRIBUTING.md)指南。
 
 ## 使用翻译
 
@@ -66,9 +66,9 @@
 - `*.js` 是用于 JSONP 调用的脚本，回调函数名为 `load_ehtagtranslation_${前缀}_${中缀}`，由于 GitHub 的跨域限制，浏览器端仅能使用此方案。
 
 中缀：
-- `*.raw.*` 包含了 MarkDown 版本的翻译、简介和外部链接；
-- `*.html.*` 包含了渲染为 HTML 的翻译、简介和外部链接；
-- `*.text.*` 包含了去除图片和链接的的翻译、简介和外部链接；
+- `*.raw.*` 包含了 MarkDown 版本的名称、描述和外部链接；
+- `*.html.*` 包含了渲染为 HTML 的名称、描述和外部链接；
+- `*.text.*` 包含了去除图片和链接的的名称、描述和外部链接；
 - `*.ast.*` 包含了 JSON 表示的 MarkDown 的语法树结构；
 - `*.full.*` 包含了以上所有信息。
 
@@ -94,7 +94,7 @@ const db = await (await fetch(resourceUrl)).json();
 
 #### 编辑数据库内容
 
-请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector) 及本项目[参与翻译](CONTRIBUTING.md)指南。
+请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector)、[EhTag Editor](https://github.com/EhTagTranslation/Editor) 及本项目[参与翻译](CONTRIBUTING.md)指南。
 
 [plat-web]: https://img.shields.io/badge/platform-web-red.svg?logo=javascript
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
