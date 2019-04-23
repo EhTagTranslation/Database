@@ -260,7 +260,7 @@
 | astro boy | 铁臂阿童木 |  |  |
 | detective conan | 名侦探柯南 |  |  |
 | ore twintail ni narimasu. | 我，要成为双马尾 |  |  |
-| kiss x sis | 亲吻姐姐 |  |  |
+| kiss x sis | 亲吻姐姐 | ![](https://ehgt.org/18/e5/18e5dd8273861e75506bac1425663e770e8ed401-80806-470-660-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Kiss%C3%97sis) |
 | kimikiss | 君吻 |  |  |
 | super sonico | 超级索尼子 |  |  |
 |  | ▼最终幻想 系列 |  |  |
