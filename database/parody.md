@@ -1400,6 +1400,7 @@
 | komi-san wa komyushou desu. | 古见同学有交流障碍症 | 《古见同学有交流障碍症》（日语：古見さんは、コミュ症です）是日本漫画家小田智仁所创作的校园搞笑漫画，于2016年开始在小学馆周刊少年Sunday杂志第25期开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/%E5%8F%A4%E8%A6%8B%E5%90%8C%E5%AD%B8%E6%9C%89%E4%BA%A4%E6%B5%81%E9%9A%9C%E7%A4%99%E7%97%87) (*) |
 | kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | 《辉夜大小姐想让我告白~天才们的恋爱头脑战~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品，现于《周刊YOUNG JUMP》连载中。 | [维基百科](https://zh.wikipedia.org/wiki/%E8%BC%9D%E5%A4%9C%E5%A7%AC%E6%83%B3%E8%AE%93%E4%BA%BA%E5%91%8A%E7%99%BD~%E5%A4%A9%E6%89%8D%E5%80%91%E7%9A%84%E6%88%80%E6%84%9B%E9%A0%AD%E8%85%A6%E6%88%B0~) (*) |
 | watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E9%99%8D%E8%87%A8%E5%88%B0%E6%88%91%E8%BA%AB%E9%82%8A%EF%BC%81) (*) |
+| darkest dungeon | 暗黑地牢 |  |  |
 
 
 <!--TEMPLATE: 
