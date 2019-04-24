@@ -2373,6 +2373,8 @@
 | omaru gyuunyuu | 牛乳うまお |  |  |
 | nekonekokoneko | ねこねここねこ | ねこねここねこ（二見パラン） | [pixiv](https://www.pixiv.net/member.php?id=2973809) |
 | torajima tao | 虎島タオ |  | [twitter](https://twitter.com/torajimatao) |
+| mr.takealook | Mr.takealook |  |  |
+| isobe maki | イソベマキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

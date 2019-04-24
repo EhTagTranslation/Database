@@ -1434,6 +1434,8 @@
 | kurumi namiki | くるみ並木 |  |  |
 | kazemichiya | 风道屋 |  |  |
 | su-mi-tan | 粟米汤 | ![图](https://ehgt.org/c7/35/c735be3da3ae6d58cb15460ae57a13d642d57e3b-771975-708-1000-png_l.jpg)![图](https://ehgt.org/28/d0/28d031e9f2835fa228af9a36b7ccbf710246af43-1250436-1412-2000-jpg_l.jpg) | [官方网站](http://su-mi-tan.sakura.ne.jp/) |
+| amuai okashi seisakusho | あむぁいおかし製作所 |  |  |
+| mofmof | もふもふ |  |  |
 |  | ▲ 同人社团 |  |  |
 |  | ▼ GAL公司 |  |  |
 | clockup | CLOCKUP |  | [官方网站](http://clockup.net/) |
@@ -1543,7 +1545,8 @@
 | dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
 | kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
 | sex syndrome | Sex Syndrome |  |  |
-| amuai okashi seisakusho | あむぁいおかし製作所 |  |  |
+|  | ▲ 其他游戏公司 |  |  |
+|  | ▼ 未分类 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
