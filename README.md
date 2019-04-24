@@ -12,7 +12,7 @@
 
 ## 参与翻译
 
-请使用 [EhTag Editor](https://ehtagtranslation.github.io/Editor)，在编辑前请先查阅[参与翻译](CONTRIBUTING.md)指南。
+请使用 [EhTag Editor](https://EhTagTranslation.github.io/Editor)，在编辑前请先查阅[参与翻译](CONTRIBUTING.md)指南。
 
 ## 使用翻译
 
@@ -58,7 +58,7 @@
 
 #### 获取数据库内容
 
-推荐使用 [Github Release](https://github.com/ehtagtranslation/Database/releases)。
+推荐使用 [Github Release](https://github.com/EhTagTranslation/Database/releases)，发布的 JSON 对象格式可参照 [interface.d.ts](tools/interface.d.ts)。
 
 后缀：
 - `*.json` 是 JSON 表示的数据库；
@@ -94,7 +94,7 @@ const db = await (await fetch(resourceUrl)).json();
 
 #### 编辑数据库内容
 
-请参考 [EhTagConnector](https://github.com/ehtagtranslation/EhTagConnector)、[EhTag Editor](https://github.com/EhTagTranslation/Editor) 及本项目[参与翻译](CONTRIBUTING.md)指南。
+请参考 [EhTagConnector](https://github.com/EhTagTranslation/EhTagConnector)、[EhTag Editor](https://github.com/EhTagTranslation/Editor) 及本项目[参与翻译](CONTRIBUTING.md)指南。
 
 [plat-web]: https://img.shields.io/badge/platform-web-red.svg?logo=javascript
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
