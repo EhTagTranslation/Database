@@ -43,7 +43,7 @@
   
 * 对于团队，可以链接到社团主页和公司页面；
   
-* 对于艺术家，可以链接到对应的 [pixiv](https://www.pixiv.net/) 或[微博](http://weibo.com/)；
+* 对于艺术家，可以链接到对应的 [pixiv](https://www.pixiv.net/)、[微博](http://weibo.com/)或 [Twiter](https://twitter.com/)；
   
 * 对于恋物标签，可以链接到 [EHWiki](https://ehwiki.org/wiki/Fetish_Listing) 对应页面。
 
