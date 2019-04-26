@@ -1,0 +1,26 @@
+version: CI build {build}
+image: Visual Studio 2017
+skip_tags: true
+test: 'off'
+environment:
+  GitHub:Username: EhTagApi-Bot
+  GitHub:Email: 47353891+EhTagApi-Bot@users.noreply.github.com
+  GitHub:Password:
+    secure: a8jLdCt5vZx0GjNeFVeFYNIkGzR0J/h9IxHP76TMgTg=
+  GitHub:Token:
+    secure: CXJFW719JSnAamXKgu6ix+PJt3CsFT6JUYn1be9gfBM+hk1AFleoDpIbCCwvxnC2
+install:
+- ps: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
+build_script:
+- ps: |
+    $Tool = "${env:APPVEYOR_BUILD_FOLDER}\tools\EhDbReleaseBuilder\EhDbReleaseBuilder.dll"
+    dotnet $Tool ${env:APPVEYOR_BUILD_FOLDER} "${env:APPVEYOR_BUILD_FOLDER}\publish"
+artifacts:
+- path: publish/*
+deploy:
+- provider: GitHub
+  tag: $(APPVEYOR_BUILD_VERSION)
+  release: EhTagConnector Release $(APPVEYOR_BUILD_NUMBER)
+  description: $(GITHUB_RELEASE_MESSAGE)
+  auth_token:
+    secure: CXJFW719JSnAamXKgu6ix+PJt3CsFT6JUYn1be9gfBM+hk1AFleoDpIbCCwvxnC2
