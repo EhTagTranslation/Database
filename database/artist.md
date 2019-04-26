@@ -2375,6 +2375,7 @@
 | torajima tao | 虎島タオ |  | [twitter](https://twitter.com/torajimatao) |
 | mr.takealook | Mr.takealook |  |  |
 | isobe maki | イソベマキ |  |  |
+| sensouji kinoto | 浅草寺きのと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
