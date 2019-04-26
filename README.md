@@ -12,11 +12,9 @@
 
 ## 参与翻译
 
-请使用 [EhTag Editor](https://EhTagTranslation.github.io/Editor)，在编辑前请先查阅[参与翻译](CONTRIBUTING.md)指南。
+请使用 [EhTag Editor](https://EhTagTranslation.github.io/Editor)，在编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/%E5%8F%82%E4%B8%8E%E7%BF%BB%E8%AF%91)指南。
 
 ## 使用翻译
-
-### 一般用户
 
 一般用户可通过以下项目使用本数据库的翻译，也可以通过这些项目向本数据库贡献翻译内容。
 
@@ -52,49 +50,11 @@
   ![][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
   
-### 开发者
+## 开发指南
 
 下游项目使用本项目数据库前，请在本项目提交一份附上项目的简介或地址的 Issue。
 
-#### 获取数据库内容
-
-推荐使用 [Github Release](https://github.com/EhTagTranslation/Database/releases)，发布的 JSON 对象格式可参照 [interface.d.ts](tools/interface.d.ts)。
-
-后缀：
-- `*.json` 是 JSON 表示的数据库；
-- `*.json.gz` 是其 gzip 压缩后的版本；
-- `*.js` 是用于 JSONP 调用的脚本，回调函数名为 `load_ehtagtranslation_${前缀}_${中缀}`，由于 GitHub 的跨域限制，浏览器端仅能使用此方案。
-
-中缀：
-- `*.raw.*` 包含了 MarkDown 版本的名称、描述和外部链接；
-- `*.html.*` 包含了渲染为 HTML 的名称、描述和外部链接；
-- `*.text.*` 包含了去除图片和链接的的名称、描述和外部链接；
-- `*.ast.*` 包含了 JSON 表示的 MarkDown 的语法树结构；
-- `*.full.*` 包含了以上所有信息。
-
-前缀：
-- `db.*` 包含了全部内容；
-- `diff.*` 包含了本版本和上一版本的 `version`, `head`（分别以 `new`, `old` 区分），并包含了以 [JSONPatch](http://jsonpatch.com/) 格式存储的 `data`。
-
-以下为 node 代码示例。
-``` js
-const fetch = require('node-fetch');
-async function getDownloadLink(owner, repo, filename)
-{
-    const uri = `https://api.github.com/repos/${owner}/${repo}/releases/latest`;
-    const info = await (await fetch(uri)).json();
-    const asset = info.assets.find(i => i.name === filename);
-    return asset && asset.browser_download_url;
-}
-const resourceUrl = await getDownloadLink('ehtagtranslation', 'Database', 'db.html.json');
-const db = await (await fetch(resourceUrl)).json();
-```
-
-也可以使用 git 或 Github API 直接获取 MarkDown 并自行解析，此时需要注意 [`version`](version) 文件表明的[数据库结构版本](database-version-info.md)。
-
-#### 编辑数据库内容
-
-请参考 [EhTagConnector](https://github.com/EhTagTranslation/EhTagConnector)、[EhTag Editor](https://github.com/EhTagTranslation/Editor) 及本项目[参与翻译](CONTRIBUTING.md)指南。
+更多细节请参照 [Wiki](https://github.com/EhTagTranslation/Database/wiki/%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)。
 
 [plat-web]: https://img.shields.io/badge/platform-web-red.svg?logo=javascript
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
