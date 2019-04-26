@@ -1,5 +1,5 @@
 
-export namespace EhTag {
+declare namespace EhTag {
     type Sha1Value = string;
 
     interface Signature {
@@ -64,47 +64,60 @@ export namespace EhTag {
         : never;
 
     namespace Ast {
-        type Tree = ParaNode[]
+
+        type Tree = ParaNode[];
+
+        type NodeType = 'paragraph' | 'text' | 'br' | 'code' | 'image' | 'link' | 'emphasis' | 'strong';
+        
         interface Node {
-            type: string,
+            type: NodeType;
         }
         interface ContainerNode extends Node {
-            content: InlineNode[],
+            content: InlineNode[];
         }
         interface InlineNode extends Node {
+            type: Exclude<NodeType, 'paragraph'>;
         }
 
         interface ParaNode extends ContainerNode {
-            type: 'paragraph',
+            type: 'paragraph';
         }
         interface LeafNode extends InlineNode {
-            text: string,
+            type: 'text' | 'code' | 'br';
         }
-        interface TextNode extends LeafNode {
-            type: 'text',
+        interface TextLeafNode extends LeafNode {
+            type: 'text' | 'code';
+            text: string;
         }
-        interface CodeNode extends LeafNode {
-            type: 'code'
+        interface TextNode extends TextLeafNode {
+            type: 'text';
         }
-        interface BreakNode extends InlineNode {
-            type: 'br',
+        interface CodeNode extends TextLeafNode {
+            type: 'code';
         }
-        interface EmphasisNode extends InlineNode, ContainerNode {
-            type: 'emphasis',
+        interface BreakNode extends LeafNode {
+            type: 'br';
         }
-        interface StrongNode extends InlineNode, ContainerNode {
-            type: 'strong',
+        interface StylingNode extends InlineNode, ContainerNode {
+            type: 'emphasis' | 'strong';
         }
-        interface MediaNode extends ContainerNode, InlineNode {
-            title: string,
-            url: string,
+        interface EmphasisNode extends StylingNode {
+            type: 'emphasis';
+        }
+        interface StrongNode extends StylingNode {
+            type: 'strong';
+        }
+        interface MediaNode extends InlineNode, ContainerNode {
+            type: 'link' | 'image';
+            title: string;
+            url: string;
         }
         interface LinkNode extends MediaNode {
-            type: 'link',
+            type: 'link';
         }
         interface ImageNode extends MediaNode {
-            type: 'image',
-            nsfw: boolean,
+            type: 'image';
+            nsfw: boolean;
         }
     }
 }
