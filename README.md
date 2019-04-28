@@ -12,7 +12,7 @@
 
 ## 参与翻译
 
-请使用 [EhTag Editor](https://EhTagTranslation.github.io/Editor)，在编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/%E5%8F%82%E4%B8%8E%E7%BF%BB%E8%AF%91)指南。
+请使用 [EhTag Editor](https://EhTagTranslation.github.io/Editor)（[使用说明](https://github.com/EhTagTranslation/Editor/wiki)），在编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/参与翻译)指南。
 
 ## 使用翻译
 
@@ -30,7 +30,7 @@
 
   EhTagSyringe 是 EhTagTranslator 主项目下走功能全面、开箱即用路线的子项目。
 
-  按照 EhTagTranslator 思路，重新编写并内置样式注入器,并增加一些方便的功能
+  按照 EhTagTranslator 思路，重新编写并内置样式注入器，并增加一些方便的功能。
 
   >  H 是人类的第一生产力
 
@@ -54,7 +54,7 @@
 
 下游项目使用本项目数据库前，请在本项目提交一份附上项目的简介或地址的 Issue。
 
-更多细节请参照 [Wiki](https://github.com/EhTagTranslation/Database/wiki/%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)。
+更多细节请参照 [Wiki](https://github.com/EhTagTranslation/Database/wiki/开发指南)。
 
 [plat-web]: https://img.shields.io/badge/platform-web-red.svg?logo=javascript
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
