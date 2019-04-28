@@ -1,0 +1,7 @@
+*.dll
+*.dylib
+*.so
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+*.zip
