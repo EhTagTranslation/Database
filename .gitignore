@@ -1,2 +1,3 @@
-.vs
-publish
+# 保持 Repo 精简，避免向本 Repo 提交二进制文件，有需要请使用 Wiki Repo
+/publish
+/.vs
