@@ -10,11 +10,13 @@ environment:
   GitHub:Token:
     secure: CXJFW719JSnAamXKgu6ix+PJt3CsFT6JUYn1be9gfBM+hk1AFleoDpIbCCwvxnC2
 install:
-- ps: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
+- ps: |
+    Set-Location ${env:APPVEYOR_BUILD_FOLDER}
+    .\tools\EhDbReleaseBuilder\Download-Tool.ps1
 build_script:
 - ps: |
-    $Tool = "${env:APPVEYOR_BUILD_FOLDER}\tools\EhDbReleaseBuilder\EhDbReleaseBuilder.dll"
-    dotnet $Tool ${env:APPVEYOR_BUILD_FOLDER} "${env:APPVEYOR_BUILD_FOLDER}\publish"
+    Set-Location ${env:APPVEYOR_BUILD_FOLDER}
+    dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
 artifacts:
 - path: publish/*
 deploy:
