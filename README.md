@@ -2,7 +2,7 @@
 ==================
 
 [![Build status](https://ci.appveyor.com/api/projects/status/pv3klmx1u7qu4woa?svg=true)](https://ci.appveyor.com/project/EhTagApi-Bot/database)
-[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons)](LICENSE.md)
+[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
 ## 协议
 
