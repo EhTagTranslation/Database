@@ -45,7 +45,8 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | muscle | 肌肉 | 肌肉发达的角色。<br>![例](# "https://ehgt.org/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg") |  |
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |  |
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |  |
-| tailjob | 尾巴性交 | 用尾巴模拟性器官。 |  |
+| tailjob | 尾交 | 用尾巴模拟性器官。 |  |
+| wingjob | 翼交 | 用翅膀模拟性器官。 |  |
 | wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙子(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |  |
 |  | === 身体 > 其他改变 === |  |  |
 | absorption | 吸收 | 吸收某人或某物。可能由吞食(vore)或入阴(unbirth)引发。 |  |
@@ -158,8 +159,8 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与身体写作(body writing)混淆。 |  |
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与晒痕(tanlines)混淆。<br>![黑子的篮球同人](# "https://ehgt.org/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg") |  |
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
-| full body tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须非常突出或很大。 |  |
 | gyaru-oh | 非主流 | 辣妹(gyaru)的男性版本。 |  |
+| large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与裆部纹身(crotch tattoo)混淆。 |  |
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |  |
 | skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。<br>![图](# "https://ehgt.org/e8/e8/e8e84e887aae3d27b78b7e1d9531c7bda453b5dd-1178193-1200-1694-jpg_l.jpg") |  |
@@ -184,6 +185,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | === 头部 > 头发 === |  |  |
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 |  |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 |  |
+| hair buns | 丸子头 | 收集大量头发并将其固定成一个或多个圆形束。 |  |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](# "https://ehgt.org/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg")![图](# "https://ehgt.org/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg")![图](# "https://ehgt.org/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg") |  |
 | pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。不适用于男性，除非他们是伪娘(tomgirl)或异性装(crossdressing)。 |  |
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用双马尾(twintails)。 |  |
@@ -244,9 +246,11 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | == 手臂 == |  |  |
 | armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |  |
 | armpit sex | 腋交 | 使用腋下部位刺激阴茎。<br>![图](# "https://ehgt.org/40/c5/40c5987e892d36e40983e0941cb0530b3cb7d511-2276611-2105-3031-jpg_l.jpg")![图](# "https://ehgt.org/04/72/0472f72100ddfcf3e8e5bbcf03b53b1040d699c5-2779772-2500-2751-png_l.jpg") |  |
-| fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg")![图](# "https://ehgt.org/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg") |  |
-| handjob | 打手枪 | 为其他人手淫。不应与自慰(masturbation)混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
 | hairy armpits | 腋毛 | 必须足以形成一个毛球。 |  |
+|  | === 手臂 > 手 === |  |  |
+| fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg")![图](# "https://ehgt.org/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg") |  |
+| gloves | 手套 | 覆盖手和手指的衣服。可以向肩部延伸至手臂。 |  |
+| handjob | 打手枪 | 为其他人手淫。不应与自慰(masturbation)混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
 |  | == 胸部 == |  |  |
 |  | === 胸部 > 乳房 === |  |  |
 | big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 |  |
@@ -296,6 +300,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | ==== 下半身 > 裆部 > 阴道 ==== |  |  |
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
 | birth | 出产 | 生物诞生的过程，在此之前一般会怀孕(pregnant)。 |  |
+| clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及大阴蒂(big clit)。依照被插入的一方标记命名空间。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 肛交 | 插入肛门。任何方法都可以（性玩具(sex toys)，触手(tentacles)等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
 | anal birth | 肛门出产 | 通过肛门产下生物的过程。在此之前一般会怀孕(pregnant)。不用于产卵(eggs)。 |  |
