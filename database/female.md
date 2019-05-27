@@ -44,7 +44,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | invisible | 透明 | 一个透明人参与了性行为。 |  |
 | multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |  |
 | multiple breasts | 多对乳房 | 一个人拥有两个以上的乳房。 |  |
-| muscle | 肌肉 | 肌肉发达的角色。<br>![例](# "https://ehgt.org/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg") |  |
+| muscle | 肌肉 | 肌肉发达的角色。<br>![例](https://ehgt.org/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg) |  |
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |  |
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |  |
 | tailjob | 尾巴性交 | 用尾巴模拟性器官。 |  |
