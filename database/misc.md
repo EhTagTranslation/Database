@@ -74,6 +74,9 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | themeless | 无主题 | 没有特定主题或关注点的画廊。 |  |
 | variant set | 变体集 | 从静态角度仅描绘单一场景的画廊。 |  |
 | webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及行动装置而设的漫画。 |  |
+| western cg‎ | 西方CG集 | 用于西方的(western)类别的画师图集(artistcg)或游戏CG集(gamecg)。不包含3D(3d)作品。仅适用于西方的(western)类别。类别标签候选。 |  |
+| western non-h | 西方无H | 用于西方来源的无H(non-h)画廊。仅适用于杂项(misc)类别。类别标签候选。 |  |
+| western imageset | 西方图片集 | 用于西方的(western)类别的图片集(imageset)。仅适用于西方的(western)类别。类别标签候选。 |  |
 |  | === 技术 > 修正 === |  |  |
 | uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。不应使用于西部类别的画廊。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 | mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个画廊完整实施。不应用于无H画廊，因为对其进行修正是必须的。不应与完全修正(full censorship)混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
