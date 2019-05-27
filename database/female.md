@@ -545,18 +545,20 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | == 上下文 == |  |  |
 | blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
-| dickgirls only | 纯扶她 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为扶她。要求至少两个扶她进行交互。 |  |
-| females only | 纯女性⚢ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她(futanari)和人妖♂(shemale)不算在内。<br>![图](# "https://ehgt.org/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg")![图](https://ehgt.org/96/93/969337239526475abf4de645576256bc11c14ba0-3084919-1425-2000-png_l.jpg)![图](https://ehgt.org/2b/e2/2be25ce7bafbc429d3e3ab852a9f11960b22dd6a-7572892-1800-2527-png_l.jpg) |  |
 | impregnation | 受孕 | 怀孕(pregnant)的过程。 |  |
 | prostitution | 援交 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
-| sole dickgirl | 单扶她 | 只有一个扶她(futanari)或人妖♂(shemale)参与了整个画廊的所有性爱或恋物癖活动。 |  |
-| sole female | 单女主 | 只有一个女性参与了整个画廊的所有性爱或恋物癖活动。扶她(futanari)或人妖♂(shemale)不算在内。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomboy | 假小子 | 一个女孩模仿男性的穿着、行为和言辞，但没有掩饰自己的性别。当她试图掩饰自己的性别时，有可能与异性装(crossdressing)共存。 |  |
 | tutor | 家庭教师 | 向校外的学生提供私人学术援助的人士。 |  |
+| vtuber | 虚拟主播 | 主要出现于在线视频平台的原创虚拟化身。 |  |
 | widow | 寡妇 | 另一半（婚配或长期相处）已经死亡的女性。必须在画廊本身中以文本或视觉方式明确确定死者及其死亡。 |  |
 | yandere | 病娇 | 动机来自于强迫的爱的精神病的行为。包括骚扰或劫持感兴趣的人；恐吓或伤害感知到的对手。如果有任何性活动，此人必须直接参与其中。 |  |
 | yuri | ![百合花](http://wx4.sinaimg.cn/large/6c84b2d6gy1fdgtgf1qs6g200p00c05l.gif)百合 | 至少两个女性之间的性行为。不用于扶她(futanari)/人妖♂(shemale)和女性间的性行为或非色情内容。如果有一幕场景揭示一个角色是扶她，以前的仍然可以算作百合。不用于混合性别乱交(group)。<br>同义词：女同性恋(dyke)、女上女(girl on girl)和蕾丝边(lesbians)<br>![图](# "https://ehgt.org/d5/c4/d5c4b4200236de185597b699bc34f92af9c7ad65-12259079-2132-3028-png_l.jpg")![图](# "https://ehgt.org/b2/8f/b28fb3a7513e1417aacb77ff332df2a76a05565d-7473702-4059-2852-png_l.jpg")![图](# "https://ehgt.org/d4/93/d493b6addbac0ef3111497b52a00ac2d4a877a42-746063-1200-1684-jpg_l.jpg")![图](# "https://ehgt.org/5f/da/5fda36473f20f35f18183f10c151fa4b027dbdd1-1196044-4355-3000-jpg_l.jpg")![图](# "https://ehgt.org/4e/7b/4e7b15a24f525cc511cd7a174caeb7d3f05bb93b-1235318-2124-3000-jpg_l.jpg") |  |
+|  | === 上下文 > 全画廊 === |  |  |
+| dickgirls only | 纯扶她 | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为扶她。要求至少两个扶她进行交互。 |  |
+| females only | 纯女性⚢ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为女性。要求至少两个女性进行交互。扶她(futanari)和人妖♂(shemale)不算在内。<br>![图](# "https://ehgt.org/52/05/520502597b498281b359d33aa1fa087d32853f18-231578-350-500-jpg_l.jpg")![图](https://ehgt.org/96/93/969337239526475abf4de645576256bc11c14ba0-3084919-1425-2000-png_l.jpg)![图](https://ehgt.org/2b/e2/2be25ce7bafbc429d3e3ab852a9f11960b22dd6a-7572892-1800-2527-png_l.jpg) |  |
+| sole dickgirl | 单扶她 | 只有一个扶她(futanari)或人妖♂(shemale)参与了整个画廊的所有性爱或恋物癖活动。 |  |
+| sole female | 单女主 | 只有一个女性参与了整个画廊的所有性爱或恋物癖活动。扶她(futanari)或人妖♂(shemale)不算在内。 |  |
 |  | === 上下文 > 不忠 === |  |  |
 | cheating | 出轨 | 另一半与别人的伴侣发生性关系。如果性行为是违背自己的意愿（例如强奸(rape)），不应标记。不用于换妻(swinging)。不应与NTR(netorare)混淆。（性主角这方是主动的） |  |
 | netorare | NTR | 另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。不应与出轨(cheating)混淆。（性主角这方是被动的） |  |
