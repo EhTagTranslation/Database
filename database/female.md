@@ -49,7 +49,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |  |
 | tailjob | 尾交 | 用尾巴模拟性器官。 |  |
 | wingjob | 翼交 | 用翅膀模拟性器官。 |  |
-| wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙女(fairy)、鸟人(harpy)、怪物(monster)或怪屋女孩(monster girl)（除非另有意外）。 |  |
+| wings | 翅膀 | 人类身上明显的翅膀。不应用于天使(angel)、恶魔(demon)、恶魔女孩(demon girl)、仙女(fairy)、鸟人(harpy)、怪物(monster)或怪物女孩(monster girl)（除非另有意外）。 |  |
 |  | === 身体 > 其他改变 === |  |  |
 | absorption | 吸收 | 吸收某人或某物。可能由吞食(vore)或入阴(unbirth)引发。 |  |
 | petrification | 石化 | 成为雕像/岩石般的形象。 |  |
