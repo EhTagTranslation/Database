@@ -841,7 +841,7 @@
 | silver spoon | 白银勺勺 |  |
 | princess ember | 余焰公主 |  |  |
 | queen chrysalis | 邪茧女王 |  |  |
-| sonata dusk | 索纳塔 |  |  |
+| sonata dusk | 索娜塔 |  |  |
 |  | ▲My Little Pony 角色 |  |  |
 |  | ▼ 为美好的世界献上祝福 角色 |  |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |  |
