@@ -826,15 +826,17 @@
 | shining armor | 银甲闪闪 |  |  |
 | starlight glimmer | 星光熠熠 |  |  |
 | sunset shimmer | 余晖烁烁 |  |  |
-| apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](http://41.media.tumblr.com/03a61779e67bebff06d92110076bfcd0/tumblr_inline_nyfvscVFmw1t8saa6_500.png) |  |
+| apple bloom | 小萍花 | Big Macintosh 和 Applejack 的妹妹。<br>![AB](https://i.loli.net/2019/06/06/5cf85ae3a590661980.png) |  |
 | scootaloo | 飞板璐 |  |  |
 | sweetie belle | 甜贝儿 |  |  |
-| big macintosh | 大麦哥 | Apple Bloom 和 Applejack 的哥哥。<br>![BM](https://31.media.tumblr.com/88874d9ab3d8c6f727743d0e5ec0e1ff/tumblr_inline_nk52r9LXS81snpgiu.png) |  |
+| big macintosh | 大麦哥 | Apple Bloom 和 Applejack 的哥哥。<br>![BM](https://i.loli.net/2019/06/06/5cf85b24a670b64323.png) |  |
 | marble pie | 玉琪派 |  |  |
 | trixie | 崔克西 |  |  |
 | spitfire | 飞火 |  |  |
 | octavia | 奥塔维雅 |  |  |
 | vinyl scratch | DJ3号 |  |  |
+| derpy hooves | 小呆 |  |  |
+| discord | 无序 |  |  |
 | princess ember | 余焰公主 |  |  |
 |  | ▲My Little Pony 角色 |  |  |
 |  | ▼ 为美好的世界献上祝福 角色 |  |  |
