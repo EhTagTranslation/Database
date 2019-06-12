@@ -838,11 +838,11 @@
 | derpy hooves | 小呆 |  |  |
 | discord | 无序 |  |  |
 | diamond tiara | 珠玉冠冠 |  |  |
-| silver spoon | 白银勺勺 |  |
+| silver spoon | 白银勺勺 |  |  |
 | princess ember | 余焰公主 |  |  |
 | queen chrysalis | 邪茧女王 |  |  |
 | sonata dusk | 索娜塔 |  |  |
-|  | ▲My Little Pony 角色 |  |  |
+|  | ▲ My Little Pony 角色 |  |  |
 |  | ▼ 为美好的世界献上祝福 角色 |  |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |  |
 | megumin | 惠惠 | ![惠惠](# "https://ehgt.org/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg") |  |
