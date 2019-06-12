@@ -1,7 +1,4 @@
-*.dll
-*.dylib
-*.so
-*.pdb
-*.deps.json
-*.runtimeconfig.json
-*.zip
+*
+!/*.md
+!/Download-Tool.ps1
+!.gitignore
