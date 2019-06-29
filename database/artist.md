@@ -2068,7 +2068,7 @@
 | tkp | TKP |  |  |
 | yakumo ginjirou | 八云银次郎 |  |  |
 | namamo nanase | なまもななせ |  |  |
-| pyon-kti | ぴょん吉 | [ぴょん吉](https://pbs.twimg.com/profile_images/900304082010648580/d4L97uku_400x400.jpg) | [pixiv](https://www.pixiv.net/member.php?id=197076) |
+| pyon-kti | ぴょん吉 |  |  |
 | azuki yui | 阿月唯 |  |  |
 | minato itoya | ミナトイトヤ |  |  |
 | shiraishinsuke | 白石Nスケ |  |  |
