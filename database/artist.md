@@ -2376,6 +2376,8 @@
 | mr.takealook | Mr.takealook |  |  |
 | isobe maki | イソベマキ |  |  |
 | sensouji kinoto | 浅草寺きのと |  |  |
+| shinozuka yuuji | 篠塚裕志 |  |  |
+| shikishiro konomi | 色白好 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
