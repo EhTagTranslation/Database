@@ -2398,6 +2398,20 @@
 | umakuchi syouyu | うまくち醤油 |  |  |
 | tokie hirohito | 刻江尋人 |  |  |
 | yuzuki n dash | 柚木N’ |  |  |
+| itou nanami | 井藤ななみ |  |  |
+| porutan | ぽるたん |  |  |
+| kaitenfude | 回転筆 |  |  |
+| tachikawa negoro | 立川ねごろ |  |  |
+| emine kendama | 遠峰犬玉 |  |  |
+| masami chie | 柾見ちえ |  |  |
+| ryuuki yumi | りゅうき夕海 |  |  |
+| nakano sora | 中乃空 |  |  |
+| napo | ナポ |  |  |
+| kazuki misakio | 数木美咲 |  |  |
+| nakata modem | 中田モデム |  |  |
+| anzaki moral | 杏咲モラル |  |  |
+| brother pierrot | ブラザーピエロ |  |  |
+| orutoro | おるとろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
