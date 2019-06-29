@@ -769,7 +769,7 @@
 | kijima daisyarin | 鬼岛大车轮 |  |  |
 | minikoara | 瑞稀樱花 |  |  |
 | nanairo | ナナイロ |  |  |
-| ryuuta | 龙太 |  |  |
+| ryuuta | 竜太 |  |  |
 | shomu | しょむ |  |  |
 | sunagawa tara | 砂川多良 |  |  |
 | amahara | 天原 |  |  |
@@ -2412,6 +2412,13 @@
 | anzaki moral | 杏咲モラル |  |  |
 | brother pierrot | ブラザーピエロ |  |  |
 | orutoro | おるとろ |  |  |
+| piromizu | ピロ水 |  |  |
+| jorori | じょろり |  |  |
+| abe manabu | 安部マナブ |  |  |
+| matsunami rumi | 松波留美 |  |  |
+| narita kyousha | 成田香車 |  |  |
+| arakure | あらくれ |  |  |
+| tsuzura kuzukago | 葛籠くずかご |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
