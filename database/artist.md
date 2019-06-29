@@ -2378,6 +2378,26 @@
 | sensouji kinoto | 浅草寺きのと |  |  |
 | shinozuka yuuji | 篠塚裕志 |  |  |
 | shikishiro konomi | 色白好 |  |  |
+| sakurayu hal | 桜湯ハル |  |  |
+| nanao yukiji | 七尾ゆきじ |  |  |
+| herio | ヘリを |  |  |
+| aikawa arisa | 相川亜利砂 |  |  |
+| yamaishi juhachi | 山石18 |  |  |
+| rokkaku yasosuke | 六角八十助 |  |  |
+| tomono hiro | 友野ヒロ |  |  |
+| yonekura kengo | 米倉けんご |  |  |
+| yosuteinu | 世棄犬 |  |  |
+| hiyoshi hana | 日吉ハナ |  |  |
+| tabigarasu | 旅烏 |  |  |
+| tsuge yasuna | つげ安奈 |  |  |
+| hissatsukun | ひっさつくん |  |  |
+| ayakawa riku | あやかわりく |  |  |
+| yoshida inuhito | 吉田犬人 |  |  |
+| yuyama chika | 湯山チカ |  |  |
+| kumakiti | 隈吉 |  |  |
+| umakuchi syouyu | うまくち醤油 |  |  |
+| tokie hirohito | 刻江尋人 |  |  |
+| yuzuki n dash | 柚木N’ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
