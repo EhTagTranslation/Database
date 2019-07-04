@@ -2419,6 +2419,7 @@
 | narita kyousha | 成田香車 |  |  |
 | arakure | あらくれ |  |  |
 | tsuzura kuzukago | 葛籠くずかご |  |  |
+| seto yuuki | 世徒ゆうき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
