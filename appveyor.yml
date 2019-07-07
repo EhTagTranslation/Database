@@ -1,7 +1,7 @@
 version: CI build {build}
-image: Visual Studio 2017
-skip_tags: true
-test: 'off'
+image: Visual Studio 2019
+skip_tags: yes
+test: off
 environment:
   GitHub:Username: EhTagApi-Bot
   GitHub:Email: 47353891+EhTagApi-Bot@users.noreply.github.com
