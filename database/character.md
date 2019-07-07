@@ -2372,7 +2372,6 @@
 |  | 北泽育美 |  |  |
 |  | 松原花音 |  |  |
 | misaki okusawa | 奥泽美咲 |  |  |
-| aya maruyama |  |  |  |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
 | akane sakurai | 樱井明音 |  |  |
