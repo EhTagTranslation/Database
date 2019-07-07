@@ -1401,6 +1401,8 @@
 | kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | 《辉夜大小姐想让我告白~天才们的恋爱头脑战~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品，现于《周刊YOUNG JUMP》连载中。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~) (*) |
 | watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/天使降臨到我身邊！) (*) |
 | darkest dungeon | 暗黑地牢 |  |  |
+| idol wars z | IDOL WARS Z |  |  |
+| sewayaki kitsune no senko-san | 贤惠幼妻仙狐小姐 | 《贤惠幼妻仙狐小姐》（日语：世話やきキツネの仙狐さん）是日本漫画家リムコロ创作的漫画作品，于漫画杂志《Comic Newtype》开始连载，并由KADOKAWA出版。2018年12月正式宣布推出电视动画作品，2019年4月10日开播。  | [维基百科](https://zh.wikipedia.org/wiki/賢惠幼妻仙狐小姐) (*) |
 
 
 <!--TEMPLATE: 
