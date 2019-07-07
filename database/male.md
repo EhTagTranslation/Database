@@ -242,7 +242,8 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | vore | 吞食 | 被整个吞下，可能导致吸收(absorption)。不应与入阴(unbirth)和食人(cannibalism)混淆。 |  |
 |  | == 脖子 == |  |  |
 | asphyxiation | 窒息 | 有意限制对大脑的供氧，往往是为了使性觉醒。 |  |
-| collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教(bdsm)或人宠(human pet)行为时穿戴。 |  |
+| collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教(bdsm)或人宠(human pet)行为时穿戴，可能包含狗链(leash)。<br>![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/a1/d9/a1d9d284de4c8916078110525e65c60a3df56f9a-3168381-1388-1987-png_l.jpg")![图](# "https://ehgt.org/b1/3d/b13d6d8b3a7f253a47fbf159f59a88cb3ae1ea96-1977836-1784-2551-jpg_l.jpg") |  |
+| leash | 狗链 | 一种皮带、绳子或链子, 通常连接在项圈(collar)上或缠绕在脖子上。经常在调教(bdsm)或人宠(human pet)行为时穿戴。<br>![图](# "https://ehgt.org/75/05/75051cbcbdee39b036f206de909e0b8401204266-8683779-2130-3000-png_l.jpg")![图](# "https://ehgt.org/76/a0/76a0a1170a155c9b7858fe074f0d05c5b482933b-5268492-2149-3032-png_l.jpg")![图](# "https://ehgt.org/49/72/497261e2e429e56bcbd48283b7ff078727669e33-292904-841-1200-jpg_l.jpg") |  |
 |  | == 手臂 == |  |  |
 | armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |  |
 | armpit sex | 腋交 | 使用腋下部位刺激阴茎。<br>![图](# "https://ehgt.org/40/c5/40c5987e892d36e40983e0941cb0530b3cb7d511-2276611-2105-3031-jpg_l.jpg")![图](# "https://ehgt.org/04/72/0472f72100ddfcf3e8e5bbcf03b53b1040d699c5-2779772-2500-2751-png_l.jpg") |  |

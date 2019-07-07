@@ -2381,7 +2381,7 @@
 | sakurayu hal | 桜湯ハル |  |  |
 | nanao yukiji | 七尾ゆきじ |  |  |
 | herio | ヘリを |  |  |
-| aikawa arisa | 相川亜利砂 |  |  |
+| aikawa arisa | 相川亚利砂 |  |  |
 | yamaishi juhachi | 山石18 |  |  |
 | rokkaku yasosuke | 六角八十助 |  |  |
 | tomono hiro | 友野ヒロ |  |  |
@@ -2396,11 +2396,11 @@
 | yuyama chika | 湯山チカ |  |  |
 | kumakiti | 隈吉 |  |  |
 | umakuchi syouyu | うまくち醤油 |  |  |
-| tokie hirohito | 刻江尋人 |  |  |
+| tokie hirohito | 刻江寻人 |  |  |
 | yuzuki n dash | 柚木N’ |  |  |
 | itou nanami | 井藤ななみ |  |  |
 | porutan | ぽるたん |  |  |
-| kaitenfude | 回転筆 |  |  |
+| kaitenfude | 回转笔 |  |  |
 | tachikawa negoro | 立川ねごろ |  |  |
 | emine kendama | 遠峰犬玉 |  |  |
 | masami chie | 柾見ちえ |  |  |
@@ -2420,6 +2420,10 @@
 | arakure | あらくれ |  |  |
 | tsuzura kuzukago | 葛籠くずかご |  |  |
 | seto yuuki | 世徒ゆうき |  |  |
+| yami kota | やみこた |  |  |
+| kakumayu | カクマユ |  |  |
+| sorairo len | 空色れん |  |  |
+| yamiochi umekichi | 闇堕ち梅吉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

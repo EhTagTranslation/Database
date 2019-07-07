@@ -785,7 +785,7 @@
 | chiyuki kuwayama | 桑山千雪 |  |  |
 |  | 大崎甜花 |  |  |
 | kaho komiya | 小宫果穂 |  |  |
-|  | 园田智代子 |  |  |
+| chiyoko sonoda | 园田智代子 |  |  |
 |  | 西城树里 |  |  |
 |  | 杜野凛世 |  |  |
 |  | 有栖川夏叶 |  |  |
@@ -908,6 +908,7 @@
 | hachiman hikigaya | 比企谷八幡 | ![比企谷八幡](https://ehgt.org/3c/c9/3cc9d8c6ab2160cd9929b076cb551dba0b9e5f35-113039-960-544-jpg_l.jpg) |  |
 | komachi hikigaya | 比企谷小町 |  |  |
 | saki kawasaki | 川崎沙希 |  |  |
+| keika kawasaki | 川崎桂花 |  |  |
 | yoshiteru zaimokuza | 材木座义辉 |  |  |
 | yukino yukinoshita | 雪之下雪乃 | ![雪之下雪乃](https://ehgt.org/57/c8/57c83bdddf676f8ff84d7fbd821321b0482ce71c-97454-960-544-jpg_l.jpg) |  |
 | iroha isshiki | 一色彩羽 | ![一色彩羽](https://ehgt.org/40/d1/40d1439e4d21088aa45ca10f9a60f3714dc56a5c-142351-960-544-jpg_l.jpg) |  |
@@ -1893,6 +1894,11 @@
 | tiamat | 提亚马特 |  |  |
 | bb | BB |  |  |
 | bradamante | 布拉达曼特 |  |  |
+| nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 |  |  |
+| chacha | 茶茶 |  |  |
+| lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
+| artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕 |  |  |
+| katsushika hokusai | 葛饰北斋 |  |  |
 |  | ▼ 刀剑神域 |  |  |
 | kazuto kirigaya | 桐谷和人（桐人） | ![图](https://ehgt.org/14/56/1456fe04bac534a80cd45c511a52c585b795aea5-112943-960-544-jpg_l.jpg)![图](https://ehgt.org/31/f3/31f303e3ce76b516286e5296f5fd8ab43b970ded-859458-2464-3498-jpg_l.jpg) |  |
 | asuna yuuki | 结城明日奈（亚丝娜） | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](https://ehgt.org/d0/1b/d01b63e2dcb2428267db353a7035ecb2ec5c02e8-391042-720-776-jpg_l.jpg)![图](https://ehgt.org/8f/d1/8fd11d7992aff862637904118ba3d1abf1d954f4-3133171-1700-1242-png_l.jpg)![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)![图](https://ehgt.org/af/6c/af6c904613d926403935d6710e8f99caca5336d0-156027-960-544-jpg_l.jpg) |  |
@@ -2341,13 +2347,32 @@
 | mitsuki sonoda | 园田美月 |  |  |
 | kotone noda | 野田琴音 |  |  |
 |  | ▼ bang dream |  |  |
-| arisa ichigaya | 市谷有咲 |  |  |
-| saaya yamabuki | 山吹沙绫 |  |  |
-| lisa imai | 今井莉莎 |  |  |
-| yukina minato | 凑友希那 |  |  |
+| kasumi toyama | 户山香澄 |  |  |
 | tae hanazono | 花园多惠 |  |  |
+| rimi ushigome | 牛込里美 |  |  |
+| saaya yamabuki | 山吹沙绫 |  |  |
+| arisa ichigaya | 市谷有咲 |  |  |
+| yukina minato | 凑友希那 |  |  |
+| sayo hikawa | 冰川纱夜 |  |  |
+| lisa imai | 今井莉莎 |  |  |
+| ako udagawa | 宇田川亚子 |  |  |
+| rinko shirokane | 白金燐子 |  |  |
+| ran mitake | 美竹兰 |  |  |
+| moca aoba | 青叶摩卡 |  |  |
+| himari uehara | 上原绯玛丽 |  |  |
+| tomoe udagawa | 宇田川巴 |  |  |
+| tsugumi hazawa | 羽泽鸫 |  |  |
+| aya maruyama | 丸山彩 |  |  |
+| hina hikawa | 冰川日菜 |  |  |
+| chisato shirasagi | 白鹭千圣 |  |  |
+|  | 大和麻弥 |  |  |
+| eve wakamiya | 若宫伊芙 |  |  |
 | kokoro tsurumaki | 弦卷心 |  |  |
+|  | 濑田薰 |  |  |
+|  | 北泽育美 |  |  |
+|  | 松原花音 |  |  |
 | misaki okusawa | 奥泽美咲 |  |  |
+| aya maruyama |  |  |  |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
 | akane sakurai | 樱井明音 |  |  |
