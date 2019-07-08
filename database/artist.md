@@ -2424,6 +2424,7 @@
 | kakumayu | カクマユ |  |  |
 | sorairo len | 空色れん |  |  |
 | yamiochi umekichi | 闇堕ち梅吉 |  |  |
+| namaribou nayonayo | 鉛棒なよなよ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
