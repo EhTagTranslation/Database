@@ -2731,6 +2731,8 @@
 | hiro | 广 | 《DARLING in the FRANXX》中的男主<br>![图](https://ehgt.org/e5/ca/e5cafa474efe6c9d48f5e0c5177e354b04f7a4d0-573112-825-1100-jpg_l.jpg)![图](https://ehgt.org/87/56/87561fcbbc77b3350fe3aa53edf273b470bbd2a9-2734834-4758-6958-jpg_l.jpg) |  |
 | alice liddell | 爱丽丝·李道尔 | 著名童话《爱丽丝梦游仙境》、《爱丽丝镜中奇遇记》的原型。本特指该两部作品中的爱丽丝，及以其为原型的同人创作。<br>![图](https://ehgt.org/b5/15/b51545866372092a6e2db208579f418e0e857188-1493475-3826-3000-jpg_l.jpg)![图](https://ehgt.org/33/12/331267956bb3a28b408dbced2ffeeefba372b19e-12775398-4407-6217-jpg_l.jpg)![图](https://ehgt.org/25/2f/252f5c17ce6c9601dd8e612a4b35788d6eb162db-336583-1080-1512-jpg_l.jpg) |  |
 | cinderella | 辛德瑞拉 | 童话故事《灰姑娘》中的女主人公角色名 |  |
+| noa himesaka | 姬坂乃爱 | 姬坂乃爱是由椋木七津创作的漫画《天使降临到我身边!》及其衍生作品的登场角色。<br>![图](https://img.moegirl.org/common/8/81/Himesakanoa.jpg) | [萌娘百科](https://zh.moegirl.org/姬坂乃爱) |
+| miyako hoshino | 星野宫子 | 星野宫子（日语：星野 みやこ）是由椋木七津创作的漫画《天使降临到我身边!》及其衍生作品的登场角色。<br>![图](https://img.moegirl.org/common/e/ea/B03533fa828ba61e8870797d4c34970a314e59c1.png) | [萌娘百科](https://zh.moegirl.org/星野宫子) |
 
 
 <!--TEMPLATE: 
