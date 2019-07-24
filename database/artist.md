@@ -2425,7 +2425,7 @@
 | sorairo len | 空色れん |  |  |
 | yamiochi umekichi | 闇堕ち梅吉 |  |  |
 | namaribou nayonayo | 鉛棒なよなよ |  |  |
-| amasaka takashi | 天坂 隆志 |  |  |
+| amasaka takashi | 天坂隆志 |  |  |
 | kazuma | 和真 |  |  |
 
 <!--TEMPLATE: 
