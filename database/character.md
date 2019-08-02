@@ -2733,6 +2733,7 @@
 | cinderella | 辛德瑞拉 | 童话故事《灰姑娘》中的女主人公角色名 |  |
 | noa himesaka | 姬坂乃爱 | 姬坂乃爱是由椋木七津创作的漫画《天使降临到我身边!》及其衍生作品的登场角色。<br>![图](https://img.moegirl.org/common/8/81/Himesakanoa.jpg) | [萌娘百科](https://zh.moegirl.org/姬坂乃爱) |
 | miyako hoshino | 星野宫子 | 星野宫子（日语：星野 みやこ）是由椋木七津创作的漫画《天使降临到我身边!》及其衍生作品的登场角色。<br>![图](https://img.moegirl.org/common/e/ea/B03533fa828ba61e8870797d4c34970a314e59c1.png) | [萌娘百科](https://zh.moegirl.org/星野宫子) |
+| hana shirosaki | 白咲花 | 小学5年级，日向的同学。称宫子为“姐姐”，对宫子的初次印象是个危险的人。个性冷静，非常喜欢吃甜点，谈到甜点就会变得很兴奋。审美观与常人不同，喜欢各种奇怪卡通人物的周边产品。 | [萌娘百科](https://zh.moegirl.org/白咲花) |
 
 
 <!--TEMPLATE: 
