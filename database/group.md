@@ -1549,6 +1549,7 @@
 | sex syndrome | Sex Syndrome |  |  |
 |  | ▲ 其他游戏公司 |  |  |
 |  | ▼ 未分类 |  |  |
+| nuko majin | ぬこ魔神 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
