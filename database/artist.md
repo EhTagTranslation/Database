@@ -2427,6 +2427,7 @@
 | namaribou nayonayo | 鉛棒なよなよ |  |  |
 | amasaka takashi | 天坂隆志 |  |  |
 | kazuma | 和真 |  |  |
+| uni8 | うにあはと |  | [pixiv](https://www.pixiv.net/member.php?id=128127) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
