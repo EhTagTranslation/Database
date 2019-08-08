@@ -194,7 +194,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | === 头部 > 头发 === |  |  |
 | arfo | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 |  |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于地精(goblin)、兽人(orc)或其他不应有头发的非人生物。不应与光头(shaved head)混淆。 |  |
-| drill hair | 螺旋辫 | 看起来类似于垂直缠绕或锥形钻头的卷发。 |  |
+| drill hair | 螺旋辫 | 看起来类似于垂直缠绕或锥形钻头的卷发。 | [萌娘百科](https://zh.moegirl.org/双螺旋) |
 | hair buns | 丸子头 | 收集大量头发并将其固定成一个或多个圆形束。 |  |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](# "https://ehgt.org/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg")![图](# "https://ehgt.org/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg")![图](# "https://ehgt.org/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg") |  |
 | pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。 |  |
