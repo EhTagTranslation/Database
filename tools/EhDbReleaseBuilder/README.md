@@ -1,6 +1,6 @@
 Release 生成工具
 =========================
-该工具用于生成本项目的 Releases，源码位于 <https://github.com/ehtagtranslation/EhTagConnector>。
+该工具用于生成本项目的 Releases，源码位于 <https://github.com/EhTagTranslation/EhTagConnector>。
 
 依赖 `dotnet core 2.2`，运行时需要输入项目路径和输出路径。
 
