@@ -1551,6 +1551,7 @@
 |  | ▼ 未分类 |  |  |
 | nuko majin | ぬこ魔神 |  |  |
 | uni no tane | うにの種 |  |  |
+| gunjou robot | 群青ロボット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
