@@ -394,8 +394,8 @@
 | mizuho | 瑞穗 | No.251 |  |
 | okinami | 冲波 | No.252 |  |
 | kazagumo | 风云 | No.253 |  |
-| arashi | 岚‎‎ | No.254 |  |
-| hagikaze | 萩风‎ | No.255 |  |
+| arashi | 岚 | No.254 |  |
+| hagikaze | 萩风 | No.255 |  |
 | oyashio | 亲潮 | No.256 |  |
 | yamakaze | 山风 | No.257 |  |
 | umikaze | 海风 | No.258 |  |
@@ -2712,7 +2712,7 @@
 | taro aso | 麻生太郎 |  |  |
 | abraham lincoln | 亚伯拉罕·林肯 |  |  |
 | george w. bush | 乔治·沃克·布什 | 小布什 |  |
-| osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن‎‎，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） |  |
+| osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） |  |
 | adolf hitler | 阿道夫·希特勒 |  |  |
 | anne frank | 安妮·弗兰克 | 安内莉斯·玛丽·“安妮”·弗兰克 （德语：Annelies Marie "Anne" Frank；德语音标：[anɛliz maʁi anə fʁɑnk] （帮助·关于），1929年6月12日－1945年3月9日），生于德国法兰克福，犹太人，二战犹太人大屠杀中最著名的受害者之一，得年15岁，1999年入选《时代杂志》“20世纪全世界最具影响力的100个人”，一颗编号为5535的小行星以她命名为“5535 Annefrank”。她在2004年票选最伟大的荷兰人当中，排名第八，次于第七伟大的荷兰民族英雄兼海上战神德·鲁伊特。 | [维基百科](https://zh.wikipedia.org/wiki/安妮·弗蘭克) (\*) |
 | lusamine | 露莎米奈 |  |  |
