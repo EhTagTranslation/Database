@@ -74,7 +74,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | themeless | 无主题 | 没有特定主题或关注点的画廊。 |  |
 | variant set | 变体集 | 从静态角度仅描绘单一场景的画廊。 |  |
 | webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及行动装置而设的漫画。 |  |
-| western cg‎ | 西方CG集 | 用于西方的(western)类别的画师图集(artistcg)或游戏CG集(gamecg)。不包含3D(3d)作品。仅适用于西方的(western)类别。类别标签候选。 |  |
+| western cg | 西方CG集 | 用于西方的(western)类别的画师图集(artistcg)或游戏CG集(gamecg)。不包含3D(3d)作品。仅适用于西方的(western)类别。类别标签候选。 |  |
 | western non-h | 西方无H | 用于西方来源的无H(non-h)画廊。仅适用于杂项(misc)类别。类别标签候选。 |  |
 | western imageset | 西方图片集 | 用于西方的(western)类别的图片集(imageset)。仅适用于西方的(western)类别。类别标签候选。 |  |
 |  | === 技术 > 修正 === |  |  |
