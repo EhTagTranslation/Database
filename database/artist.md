@@ -2429,6 +2429,7 @@
 | kazuma | 和真 |  |  |
 | uni8 | うにあはと |  | [pixiv](https://www.pixiv.net/member.php?id=128127) |
 | denchi | 电池 |  |  |
+| ono no imoko | 小野妹子 | Alicesoft原画师魚介，又名小野妹子 | [pixiv](https://www.pixiv.net/member_illust.php?id=165192) [Twitter](https://twitter.com/_himehajime) [个人博客](http://himehajime69.blog112.fc2.com/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
