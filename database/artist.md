@@ -2429,6 +2429,7 @@
 | kazuma | 和真 |  |  |
 | uni8 | うにあはと |  | [pixiv](https://www.pixiv.net/member.php?id=128127) |
 | denchi | 电池 |  |  |
+| ono no imoko | 小野妹子 |  | https://www.pixiv.net/member_illust.php?id=165192 |
 
 <!--TEMPLATE: 
 |  |  |  |  |
