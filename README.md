@@ -4,6 +4,18 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/pv3klmx1u7qu4woa?svg=true)](https://ci.appveyor.com/project/EhTagApi-Bot/database)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
+<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
+[![all](https://img.shields.io/endpoint?color=brightgreen&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fall)](https://ehtagtranslation.github.io/Editor/list/all)
+[![reclass](https://img.shields.io/endpoint?color=tomato&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Freclass)](https://ehtagtranslation.github.io/Editor/list/reclass)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Flanguage)](https://ehtagtranslation.github.io/Editor/list/language)
+[![female](https://img.shields.io/endpoint?color=deeppink&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Ffemale)](https://ehtagtranslation.github.io/Editor/list/female)
+[![male](https://img.shields.io/endpoint?color=slateblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmale)](https://ehtagtranslation.github.io/Editor/list/male)
+[![misc](https://img.shields.io/endpoint?color=lightgray&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmisc)](https://ehtagtranslation.github.io/Editor/list/misc)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fparody)](https://ehtagtranslation.github.io/Editor/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fcharacter)](https://ehtagtranslation.github.io/Editor/list/character)
+[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fgroup)](https://ehtagtranslation.github.io/Editor/list/group)
+[![artist](https://img.shields.io/endpoint?color=chocolate&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fartist)](https://ehtagtranslation.github.io/Editor/list/artist)
+
 ## 协议
 
 数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](LICENSE.md)下提供，附加条款亦可能应用。
