@@ -26,7 +26,8 @@ declare namespace EhTag {
         data: NamespaceData<T>[];
     }
 
-    type NamespaceName = 'rows'
+    type NamespaceName =
+        | 'rows'
         | 'reclass'
         | 'language'
         | 'parody'
@@ -117,7 +118,7 @@ declare namespace EhTag {
         }
         interface ImageNode extends MediaNode {
             type: 'image';
-            nsfw: boolean;
+            nsfw: false | 'R18' | 'R18G';
         }
     }
 }
