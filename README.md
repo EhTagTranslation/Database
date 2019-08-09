@@ -20,7 +20,7 @@
 
 * [EhSyringe](https://github.com/EhTagTranslation/EhSyringe)  
   ![][plat-web]  
-  本项目的官方实现，提供 Chrome 和 Firefox 浏览器插件。
+  > 本项目的官方实现，提供 Chrome 和 Firefox 浏览器插件。
   
   E站注射器，将中文翻译注入到E站体内。
   
@@ -28,7 +28,7 @@
 
 * [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
   ![][plat-web]  
-  本项目的 UserScript 实现，已被 EhSyringe 取代。
+  > 本项目的 UserScript 实现，已被 EhSyringe 取代。
 
   EhTagBuilder 简称 "ETB"。
 
