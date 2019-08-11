@@ -2,7 +2,7 @@
 ==================
 
 [![Build status](https://ci.appveyor.com/api/projects/status/pv3klmx1u7qu4woa?svg=true)](https://ci.appveyor.com/project/EhTagApi-Bot/database)
-[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
+[![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](https://github.com/EhTagTranslation/Database/blob/master/LICENSE.md)
 
 <!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
 [![all](https://img.shields.io/endpoint?color=brightgreen&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fall)](https://ehtagtranslation.github.io/Editor/list/all)
@@ -18,7 +18,7 @@
 
 ## 协议
 
-数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](LICENSE.md)下提供，附加条款亦可能应用。
+数据库文本内容除另有声明外，均在[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://github.com/EhTagTranslation/Database/blob/master/LICENSE.md)下提供，附加条款亦可能应用。
 
 数据库内容归全体编辑者共同所有，在本项目里发布内容即表示您允许将您编辑的内容无偿且自由地使用到 EhTagTranslation 的各下游项目中。
 
@@ -40,7 +40,7 @@
 
 * [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
   ![][plat-web]  
-  > 本项目的 UserScript 实现，已被 EhSyringe 取代。
+  > 本项目的前身，使用 UserScript 实现，已被 EhSyringe 取代。
 
   EhTagBuilder 简称 "ETB"。
 
