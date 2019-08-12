@@ -4,6 +4,7 @@
 
 条目内容
 ----------------
+
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | --------------- | ------ | ----------- |
 | artist | 艺术家 | 绘画作者 / Coser。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/artist.md) |
