@@ -217,8 +217,8 @@
 | ruby kurosawa | 黑泽露比 | 所属团体 Aqours ![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) |  |
 | seira kazuno | 鹿角圣良 | 所属团体 Saint Snow |  |
 | ria kazuno | 鹿角理亚 | 所属团体 Saint Snow |  |
-|  | ▲Love Live 人物 |  |  |
-|  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有\*\*200+\*\*个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
+|  | ▲ Love Live 人物 |  |  |
+|  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有**200+**个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/天羽剑提督.png/250px-天羽剑提督.png") |  |
 | nagato | 长门 | No.001 长门![长门](# "https://ehgt.org/ed/fe/edfeda7b7b1233090e49f049ef629404a9f97a85-1967290-2120-3008-jpg_250.jpg") |  |
 | mutsu | 陆奥 | No.002 陆奥![陆奥](# "https://ehgt.org/e0/d7/e0d7e77be040aa02024d5576a31680106627d58c-878090-1697-2400-jpg_250.jpg") |  |
@@ -436,6 +436,7 @@
 | tsushima | 对马 | No.340 |  |
 | gambier bay | 甘比尔湾 | No.344 |  |
 | intrepid | 无畏 | No.349 |  |
+| maestrale | 西北风 | No.375 | [萌娘百科](https://zh.moegirl.org/舰队Collection:西北风) |
 | iona | 伊欧娜 | Mist01 |  |
 | mamiya | 间宫 | NPC |  |
 | unicorn | 独角兽 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:独角兽) |
@@ -2507,6 +2508,12 @@
 | nao tomori | 友利奈绪 | 神秘的学生会长<br>![图](https://ehgt.org/c1/08/c1085da31ecbc531eee88c05fe8f39cda7b31961-945666-2451-3545-jpg_l.jpg)![图](https://ehgt.org/1c/b7/1cb7099a61aa25d03607c29e9aa6199f98753430-481964-2439-3546-jpg_l.jpg) |  |
 | misa kurobane | 西森柚咲 | 开朗无邪的人气偶像<br>![图](https://ehgt.org/b1/e2/b1e2513b808dc135172f9bd4ee642f7bdd231cf1-1064919-2469-3538-jpg_l.jpg)![图](# "https://ehgt.org/e6/83/e683b558b05b06e50ee508904e37e62aec3eb148-1498152-2098-3000-jpg_l.jpg") |  |
 | ayumi otosaka | 乙坂步未 | 元气满满的小动物系妹妹<br>![图](# "https://ehgt.org/7b/11/7b111ec190087ad74b2ccbba80603e93a2fd07cd-270120-850-1266-jpg_l.jpg")![图](# "https://ehgt.org/98/95/9895b279860e585bc2dad85c0b5491b3f25b2112-68350-590-650-png_l.jpg")![图](# "https://ehgt.org/43/ab/43abdd7bfb5601811ee96c784d24a89eaac5de16-115213-678-960-jpg_l.jpg") |  |
+|  | ▼ 五等分的新娘 |  |  |
+| ichika nakano | 中野一花 |  |  |
+| nino nakano | 中野二乃 |  |  |
+| miku nakano | 中野三玖 |  |  |
+| yotsuba nakano | 中野四叶 |  |  |
+| itsuki nakano | 中野五月 |  |  |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
 | ayane | 绫音 |  |  |
@@ -2735,7 +2742,6 @@
 | miyako hoshino | 星野宫子 | 星野日向的姐姐，大学1年级，设计专业科系，宅女。个性内向怕生，不擅与人交际。对白咲花一见钟情，遇到与花有关的事情会很兴奋。擅长制作COSPLAY服与甜点。<br>![图](https://img.moegirl.org/common/e/ea/B03533fa828ba61e8870797d4c34970a314e59c1.png) | [萌娘百科](https://zh.moegirl.org/星野宫子) |
 | hana shirosaki | 白咲花 | 小学5年级，日向的同学。称宫子为“姐姐”，对宫子的初次印象是个危险的人。个性冷静，非常喜欢吃甜点，谈到甜点就会变得很兴奋。审美观与常人不同，喜欢各种奇怪卡通人物的周边产品。 | [萌娘百科](https://zh.moegirl.org/白咲花) |
 | hinata hoshino | 星野日向 | 小学5年级，星野宫子的妹妹，花的同学。称宫子为“宫姐”。个性开朗活泼，姐控，十分喜欢宫子，认为宫子无所不能，喜欢跟人夸奖宫子，导致宫子在别人眼中是个完美形象的人。常要求跟宫子一起睡觉，但睡相非常的差。<br>![图](https://img.moegirl.org/common/7/77/星野日向.jpg) | [萌娘百科](https://zh.moegirl.org/星野日向) |
-| maestrale | 西北风 |  | [萌娘百科](https://zh.moegirl.org/舰队Collection:西北风) |
 
 
 <!--TEMPLATE: 
