@@ -2432,6 +2432,7 @@
 | ono no imoko | 小野妹子 | Alicesoft原画师魚介，又名小野妹子 | [pixiv](https://www.pixiv.net/member_illust.php?id=165192) [Twitter](https://twitter.com/_himehajime) [个人博客](http://himehajime69.blog112.fc2.com/) |
 | nishieda | 西E田 | 著名插画、原画师，画风色气 | [pixiv](https://www.pixiv.net/member.php?id=4015) [Twitter](https://twitter.com/nisiedas) [个人博客](http://www.nisieda.com/wp/) |
 | gomennasai | 御免なさい |  |  |
+| ame arare | 雨あられ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
