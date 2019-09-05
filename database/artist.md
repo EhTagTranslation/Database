@@ -2433,6 +2433,7 @@
 | nishieda | 西E田 | 著名插画、原画师，画风色气 | [pixiv](https://www.pixiv.net/member.php?id=4015) [Twitter](https://twitter.com/nisiedas) [个人博客](http://www.nisieda.com/wp/) |
 | gomennasai | 御免なさい |  |  |
 | ame arare | 雨あられ |  |  |
+| abi kamesennin | 俺正读 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
