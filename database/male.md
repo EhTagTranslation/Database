@@ -531,7 +531,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | cousin | 表兄弟 | 表兄弟间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |  |
 | father | 父亲 | 父亲与儿子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |  |
 | grandfather | 祖父 | 祖父与孙子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |  |
-| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
+| incest | 近亲 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 |  |
 | uncle | 叔叔 | 叔叔与侄子间的性行为。需要乱伦(incest)和男同(yaoi)标签。 |  |
 |  | == 隐私 == |  |  |
