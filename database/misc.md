@@ -105,6 +105,6 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | nudity only | 仅裸体 | 整个画廊中没有性行为，但有裸体图片。 |  |
 | no penetration | 无插入 | 没有任何东西插入阴道，肛门或任何其他身体开口。嘴是唯一的例外。不用于无H画廊和仅裸体(nudity only)画廊。 |  |
 |  | === 上下文 > 亲属 === |  |  |
-| incest | 近亲 | 亲属之间的性行为，包括无血缘关系的人。 |  |
+| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 |  |
 | thumbelina | 拇指姑娘 | 世界著名童话，等待移入作品 |  |
