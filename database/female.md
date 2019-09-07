@@ -575,7 +575,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | daughter | 女儿 | 父母与女儿间的性行为。需要乱伦(incest)标签。 |  |
 | granddaughter | 孙女 | 祖父母与孙女间的性行为。需要乱伦(incest)标签。 |  |
 | grandmother | 祖母 | 祖母与孙子/孙女间的性行为。需要乱伦(incest)标签。 |  |
-| incest | 近亲 | 亲属之间的性行为，包括无血缘关系的人。 |  |
+| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要乱伦(incest)标签。 |  |
 | mother | 母亲 | 母亲与子女间的性行为。需要乱伦(incest)标签。 |  |
 | niece | 侄女 | 侄女与叔叔/阿姨间的性行为。需要乱伦(incest)标签。 |  |
