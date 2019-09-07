@@ -486,6 +486,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | wrestling | 摔角 | 发生在至少两人间的扭打。不要与猫斗(catfight)混淆。 |  |
 |  | == 自我愉悦 == |  |  |
 | autofellatio | 自吹 | 对自己口交。不需要口交(blowjob)、舔阴(cunnilingus)或自慰(masturbation)标签。<br>![图](# "https://ehgt.org/25/df/25df378664398e4b46ba4f44f1fa9c4097d85c7a-176564-614-768-jpg_l.jpg") |  |
+| clone | 克隆 | 一个或多个某角色的精确副本参与同时进行的性活动。克隆体不应有年龄、性别、体型、精神状态等方面的差异。不应添加单-*(sole *)标签。有可能涉及自交(selfcest)。 | ![图](# "https://ehgt.org/35/82/35827e2afb8e9e3dde0de5b5484327bcd43879a9-1351961-1131-1600-jpg_l.jpg") |
 | masturbation | 自慰 | 自我愉悦。是电话性爱(phone sex)的前置标签。不需要指法(fingering)标签。 |  |
 | phone sex | 电话性爱 | 通过电话进行色情交谈，同时进行自慰。需要自慰(masturbation)标签。 |  |
 | selfcest | 自交 | 同一个人的两个版本间的性行为。通常发生在一个角色和其性转换(gender bender)之间。 |  |
