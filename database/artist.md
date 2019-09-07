@@ -2434,6 +2434,10 @@
 | gomennasai | 御免なさい |  |  |
 | ame arare | 雨あられ |  |  |
 | abi kamesennin | 俺正读 |  |  |
+| futayami | 双暗 |  |  |
+| deadflow | Deadflow |  |  |
+| yukishizuku | ユキシズク |  |  |
+| mappa ninatta | マッパニナッタ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
