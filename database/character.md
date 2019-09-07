@@ -436,9 +436,12 @@
 | tsushima | 对马 | No.340 |  |
 | gambier bay | 甘比尔湾 | No.344 |  |
 | intrepid | 无畏 | No.349 |  |
+| johnston | 约翰斯顿 | No.362 |  |
 | maestrale | 西北风 | No.375 | [萌娘百科](https://zh.moegirl.org/舰队Collection:西北风) |
+| fletcher | 弗莱彻 | No.396 |  |
 | iona | 伊欧娜 | Mist01 |  |
 | mamiya | 间宫 | NPC |  |
+| shikikan | 指挥官 |  |  |
 | unicorn | 独角兽 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:独角兽) |
 | belfast | 贝尔法斯特 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:贝尔法斯特) |
 | illustrious | 光辉 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:光辉) |
@@ -470,6 +473,9 @@
 | z23 | Z23 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:Z23) |
 | tirpitz | 提尔比茨 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:提尔比茨) |
 | duke of york | 约克公爵 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:约克公爵) |
+| bache | 贝奇 |  |  |
+| sirius | 天狼星 |  |  |
+| sims | 西姆斯 |  |  |
 | ka-class | 潜艇KA级 |  |  |
 | so-class | 潜艇SO级 |  |  |
 | ri-class | 重巡RI级 |  |  |
@@ -694,7 +700,7 @@
 | kotoha tanaka | 田中琴叶 |  |  |
 | tomoka tenkubashi | 天空桥朋花 |  |  |
 | serika hakozaki | 箱崎星梨花 |  |  |
-|  | 松田亚利沙 |  |  |
+| arisa matsuda | 松田亚利沙 |  |  |
 | shizuka mogami | 最上静香 |  |  |
 | anna mochizuki | 望月杏奈 |  |  |
 |  | 矢吹可奈 |  |  |
@@ -1875,7 +1881,6 @@
 | fujino asagami | 浅上藤乃 |  |  |
 | mikiya kokutou | 黑桐干也 |  |  |
 | azaka kokutou | 黑桐鲜花 |  |  |
-| martha | 玛尔达 |  |  |
 | ibaraki douji | 茨木童子 |  |  |
 | anne bonny | 安妮·伯妮 |  |  |
 | mary read | 玛莉·瑞德 |  |  |
@@ -1900,6 +1905,7 @@
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕 |  |  |
 | katsushika hokusai | 葛饰北斋 |  |  |
+| saint martha | 玛尔达 |  |  |
 |  | ▼ 刀剑神域 |  |  |
 | kazuto kirigaya | 桐谷和人（桐人） | ![图](https://ehgt.org/14/56/1456fe04bac534a80cd45c511a52c585b795aea5-112943-960-544-jpg_l.jpg)![图](https://ehgt.org/31/f3/31f303e3ce76b516286e5296f5fd8ab43b970ded-859458-2464-3498-jpg_l.jpg) |  |
 | asuna yuuki | 结城明日奈（亚丝娜） | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](https://ehgt.org/d0/1b/d01b63e2dcb2428267db353a7035ecb2ec5c02e8-391042-720-776-jpg_l.jpg)![图](https://ehgt.org/8f/d1/8fd11d7992aff862637904118ba3d1abf1d954f4-3133171-1700-1242-png_l.jpg)![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)![图](https://ehgt.org/af/6c/af6c904613d926403935d6710e8f99caca5336d0-156027-960-544-jpg_l.jpg) |  |

@@ -16,6 +16,115 @@
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
+|  | ▼ GAL公司 |  |  |
+| clockup | CLOCKUP |  | [官方网站](http://clockup.net/) |
+| guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| guilty plus | Guilty+ | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| guilty ex | Guilty eX | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
+| nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |
+| orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
+| praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
+| sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
+| frill | Frill |  | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
+| triangle | Triangle |  |  |
+| mana | mana |  | [官方网站](http://mana.product.co.jp) |
+| sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 |  |
+| fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 |  |
+| escude | エスクード |  |  |
+| campus | Campus |  |  |
+| interheart | INTERHEART |  | [官方网站](http://www.interheart.co.jp/) |
+| darknesspot | DarknessPot | INTERHEART 旗下品牌 |  |
+| nihon bussan | 日本物产 |  |  |
+| sphinx | SPHINX | 日本物产旗下 |  |
+| bishop | BISHOP |  |  |
+| tanuki soft | たぬきそふと |  |  |
+| baseson | BaseSon |  |  |
+| miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
+| squeez | SQUEEZ |  |  |
+| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (\*) |
+| omega star | ωstar |  |  |
+| norn | Norn |  |  |
+| aries | Aries |  |  |
+| ensemble | ensemble | ensemble 是日本一家成人游戏制作公司，主要制作大小姐恋爱AVG游戏，姐妹品牌为 ensemble SWEET。 |  |
+| ensemble sweet | ensemble SWEET |  |  |
+| caramel box | CARAMEL-BOX |  | [官方网站](http://www.caramel-box.com/) |
+| rootnuko | √nuko |  |  |
+| c drive | C:drive. |  |  |
+| d drive | D:drive. |  |  |
+| grand cross | GRAND†CROSS |  |  |
+| skyfish | SkyFish |  |  |
+| skyfish poco | SkyFish poco |  |  |
+| chelseasoft | Chelseasoft |  |  |
+| sphere | Sphere |  |  |
+| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/zh-cn/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
+| smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
+| asa project | ASa Project |  | [官方网站](http://www.asa-pro.com/top.html) (\*) |
+| rosebleu | Rosebleu |  |  |
+| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
+| honey soft | HONEY SOFT |  |  |
+| appetite | アパタイト |  |  |
+| pakopako soft | ぱこぱこそふと |  |  |
+| neko neko soft | 猫猫软件 |  |  |
+| abhar | ABHAR |  |  |
+| abhar tronc | ABHAR Tronc |  |  |
+| incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) | [官方网站](http://incarose-soft.com) |
+| nutaku | Nutaku |  |  |
+| etude | etude |  |  |
+| eufonie | eufonie | etude 的姐妹品牌 |  |
+| eushully | Eushully |  |  |
+| waffle | Waffle |  |  |
+| navel | Navel |  |  |
+| tryset | TRYSET |  |  |
+| seal-tutu | seal-tutu | softhouse-seal 子品牌 |  |
+| softhouse chara | Softhouse Chara |  |  |
+| softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](# "https://ehgt.org/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg")<br>![图2](# "https://ehgt.org/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg") | [官方网站](http://softhouse-seal.com) |
+| devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal 旗下偏黑暗向<br>![图1](# "https://ehgt.org/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_250.jpg")<br>![图2](# "https://ehgt.org/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_250.jpg") | [官方网站](http://softhouse-seal.com/devil/index.html) |
+| softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal 旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](# "https://ehgt.org/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg")<br>![图2](# "https://ehgt.org/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg") | [官方网站](http://softhouse-seal.com/grandee/index.html) |
+| reverse | Re:verse | softhouse-seal 姊妹公司<br>![图1](# "https://ehgt.org/db/df/dbdf702dabd10ea331d3493561e8aa353a9a7ab3-721135-800-600-png_250.jpg") |  |
+| samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](# "https://ehgt.org/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg") |  |
+| moonstone | MOONSTONE | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>来自于做D.C.的Circus公司<br>![图1](https://ehgt.org/9b/ea/9bea6e4b47f77a35d7f16f6cb68698e395fe245d-621287-1280-1790-jpg_250.jpg)<br>![图2](https://ehgt.org/4d/8b/4d8bac8da42026d7edf9d4e39801485f858cadbc-81278-320-445-jpg_250.jpg) | [官方网站](http://www.moon-stone.jp) |
+| moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](# "https://ehgt.org/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
+| moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](# "https://ehgt.org/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
+| yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)Yuzu-Soft | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](https://ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) | [官方网站](http://www.yuzu-soft.com/) |
+| lump of sugar | ![icon](http://wx4.sinaimg.cn/large/6c84b2d6ly1fzmcpa6c1xg200o00c09x.gif)Lump of Sugar | ![Logo](http://www.lumpofsugar.co.jp/img/common/header_logo.png)<br>中文地区又称「方糖社」或者「角砂糖」，是一家日本GalGame制作公司。<br>会社游戏风格以幻想系恋爱冒险游戏为主。<br>编者按：角色可怜诱人，爱丝袜+萌系少女的不可错过。<br>![图](https://ehgt.org/3d/20/3d20f67d479af1c60b4d621e28d19192199148df-1229168-1280-720-png_l.jpg) | [官方网站](http://www.lumpofsugar.co.jp/) |
+| aquaplus | AQUAPLUS | 又到了《白色相簿》的季节。<br>![图](# "https://ehgt.org/c7/c4/c7c491d4ffc68e35fe5551865197281460d78b6a-202259-1280-720-jpg_l.jpg")<br>《传颂之物》（好想和艾露露在一起）<br>![图](# "https://ehgt.org/6f/c1/6fc19b66f599026004c59d5e057524e6ecd4ae93-3041974-4877-6950-jpg_l.jpg")<br>《To Heart2》<br>![图](# "https://ehgt.org/4b/99/4b99cf599ba8063c753a5e3a3354ac63671fc263-3374761-4846-6958-jpg_l.jpg") | [官方网站](https://aquaplus.jp/) |
+| leaf | Leaf🍃 | Leaf 社是 AQUAPLUS 旗下开发及发售十八禁游戏的厂商和品牌<br>![logo](https://leaf.aquaplus.jp/confirm/images/leaf.png)<br>![图](https://ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_250.jpg) | [官方网站](https://leaf.aquaplus.jp/) |
+| key | 🔑Key | Key 会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](https://ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) | [官方网站](http://key.visualarts.gr.jp/) |
+| alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](https://ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) | [官方网站](http://www.alcot.biz/) |
+| alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](https://ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) | [官方网站](hhttp://www.h-comb.biz/) |
+| august | AUGUST | AUGUST（オーガスト）是日本叶月株式会社旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。<br>![图](https://ehgt.org/45/a6/45a62a87e7ea4496033b9e24fd60228ba07546aa-75238-320-490-jpg_l.jpg)![图](https://ehgt.org/a0/27/a027f455298046a8a89cc2048b8eed79bf341621-151465-350-500-jpg_l.jpg) | [官方网站](http://august-soft.com/) [维基百科](https://zh.wikipedia.org/zh-cn/AUGUST) (\*) |
+| feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org/Feng) [官方网站](http://www.feng.jp/) (\*\*) |
+| frontwing | FrontWing | FrontWing是一家于2000年成立的日本成人游戏公司。<br>《魔界天使》系列<br>![图](https://ehgt.org/e9/5c/e95c9f224df3b10a1b4abdcb80abdbf8f99d696d-162659-640-480-jpg_l.jpg)![图](https://ehgt.org/c8/b0/c8b0c1166971d2a52ee4ad822b925a3ad3817eda-91664-800-600-jpg_l.jpg)<br>灰色系列<br>![图](https://ehgt.org/db/24/db244a8ef416fe798d52fdeb41255c6b531b0ca6-60857-352-500-jpg_l.jpg)![图](https://ehgt.org/7f/29/7f298694d6119bd657231034cd03b8f7c670a99a-113136-320-460-jpg_l.jpg)![图](https://ehgt.org/43/53/435307984b8e29fe0a604a7de2a2b9f990c3baf0-110607-320-460-jpg_l.jpg) | [官方网站](http://frontwing.jp/) |
+| atelier d | Atelier D |  |  |
+| atelier kaguya | Atelier KAGUYA |  |  |
+| atelier kaguya honky-tonk pumpkin | Atelier KAGUYA Honky-Tonk Pumpkin |  |  |
+| atelier kaguya team gassa-q | Atelier KAGUYA TEAM Gassa-Q |  |  |
+| atelier kaguya team heartbeat | Atelier KAGUYA TEAM HEARTBEAT |  |  |
+| atelier kaguya berkshire yorkshire | Atelier KAGUYA Berkshire Yorkshire |  |  |
+| atelier sakura | 樱花工作室 |  |  |
+| atelier sakura darkness | 樱花工作室 DARKNESS |  |  |
+| atelier sakura team.ntr | 樱花工作室 Team.NTR |  |  |
+| atelier sakura mount position | 樱花工作室 Mount Position |  |  |
+| atelier sakura extra | 樱花工作室 eXtra |  |  |
+| abel software | AbelSoftware |  |  |
+| type-moon | 🌙TYPE-MOON | EX咖喱棒！<br>![图](https://ehgt.org/b5/cf/b5cfbf85de09ec9d8594fe37f87f43bb90c781ff-36026-320-389-jpg_l.jpg) |  |
+| nitroplus | Nitro+ |  |  |
+| 5pb. | 5pb. |  |  |
+| aniseed | AniSeed |  |  |
+| candysoft | Candy Soft |  |  |
+| ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (\*) |
+| whirlpool | Whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico) | [官方网站](https://whirlpool.co.jp) |
+| giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/zh-cn/戲畫_%28遊戲品牌%29) (\*) |
+| milksoft | 牛奶软件 |  |  |
+|  | ▲ GAL公司 |  |  |
+|  | ▼ 其他游戏公司 |  |  |
+| illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 |  |
+| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
+| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
+| dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
+| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
+| sex syndrome | Sex Syndrome |  |  |
+|  | ▲ 其他游戏公司 |  |  |
 |  | ▼ 同人社团 |  |  |
 | electromagneticwave | ElectromagneticWave | ![logo](http://www.ne.jp/asahi/magneticwave/popcan/top5_logo.gif)<br>萌单作者POP所在的社团<br>![萌单](http://www.ne.jp/asahi/magneticwave/popcan/cafe.jpg) | [社团官方网站](http://www.ne.jp/asahi/magneticwave/popcan/) |
 | usotsukiya | 嘘つき屋 | 大嘘的社团名，袜控，女子高中生画家<br>![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) |  |
@@ -1438,121 +1547,20 @@
 | mofmof | もふもふ |  |  |
 | katsu tights | カツタイツ |  |  |
 | ainomugen | あいの無限 |  |  |
-|  | ▲ 同人社团 |  |  |
-|  | ▼ GAL公司 |  |  |
-| clockup | CLOCKUP |  | [官方网站](http://clockup.net/) |
-| guilty | Guilty | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
-| guilty plus | Guilty+ | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
-| guilty ex | Guilty eX | WillPlus（ウィルプラス）品牌 | [官方网站](http://www.guilty-soft.com/main.htm) |
-| nanawind | NanaWind | NanaWind（ナナウィンド）是日本アスカデザイン公司的成人游戏品牌。 | [官方网站](http://nanawind.jp/) |
-| orc soft | ORCSOFT |  | [官方网站](http://www.orcsoft.jp) |
-| praline | Praline | プラリネ(Praline)是WillPlus旗下品牌。 | [官方网站](http://www.praline-game.com) |
-| sakuragame | SakuraGame |  | [微博](https://weibo.com/sakuragame) [STEAM](http://store.steampowered.com/search/?developer=SakuraGame) |
-| frill | Frill |  | [官方网站](frill.product.co.jp/) [维基百科（日文）](https://ja.wikipedia.org/wiki/Frill) |
-| triangle | Triangle |  |  |
-| mana | mana |  | [官方网站](http://mana.product.co.jp) |
-| sprite | sprite | sprite是日本成人游戏品牌，fairys是全年龄美少女游戏品牌，互为姊妹社。 |  |
-| fairys | fairys | fairys原本也是有限会社アクセル的品牌，2012年3月以フェアリス株式会社为名独自成立为一家公司，分社化经营。 |  |
-| escude | エスクード |  |  |
-| campus | Campus |  |  |
-| interheart | INTERHEART |  | [官方网站](http://www.interheart.co.jp/) |
-| darknesspot | DarknessPot | INTERHEART 旗下品牌 |  |
-| nihon bussan | 日本物产 |  |  |
-| sphinx | SPHINX | 日本物产旗下 |  |
-| bishop | BISHOP |  |  |
-| tanuki soft | たぬきそふと |  |  |
-| baseson | BaseSon |  |  |
-| miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
-| squeez | SQUEEZ |  |  |
-| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (\*) |
-| omega star | ωstar |  |  |
-| norn | Norn |  |  |
-| aries | Aries |  |  |
-| ensemble | ensemble | ensemble 是日本一家成人游戏制作公司，主要制作大小姐恋爱AVG游戏，姐妹品牌为 ensemble SWEET。 |  |
-| ensemble sweet | ensemble SWEET |  |  |
-| caramel box | CARAMEL-BOX |  | [官方网站](http://www.caramel-box.com/) |
-| rootnuko | √nuko |  |  |
-| c drive | C:drive. |  |  |
-| d drive | D:drive. |  |  |
-| grand cross | GRAND†CROSS |  |  |
-| skyfish | SkyFish |  |  |
-| skyfish poco | SkyFish poco |  |  |
-| chelseasoft | Chelseasoft |  |  |
-| sphere | Sphere |  |  |
-| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/zh-cn/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
-| smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
-| asa project | ASa Project |  | [官方网站](http://www.asa-pro.com/top.html) (\*) |
-| rosebleu | Rosebleu |  |  |
-| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
-| honey soft | HONEY SOFT |  |  |
-| appetite | アパタイト |  |  |
-| pakopako soft | ぱこぱこそふと |  |  |
-| neko neko soft | 猫猫软件 |  |  |
-| abhar | ABHAR |  |  |
-| abhar tronc | ABHAR Tronc |  |  |
-| incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) | [官方网站](http://incarose-soft.com) |
-| nutaku | Nutaku |  |  |
-| etude | etude |  |  |
-| eufonie | eufonie | etude 的姐妹品牌 |  |
-| eushully | Eushully |  |  |
-| waffle | Waffle |  |  |
-| navel | Navel |  |  |
-| tryset | TRYSET |  |  |
-| seal-tutu | seal-tutu | softhouse-seal 子品牌 |  |
-| softhouse chara | Softhouse Chara |  |  |
-| softhouse-seal | softhouse-seal | ![logo](http://softhouse-seal.com/seal/img/menu/logo.gif)<br>抜作之家<br>撸死你！<br>![图1](# "https://ehgt.org/29/11/29114d5299e829b7b04630327ceb941d84c75405-656133-800-600-png_250.jpg")<br>![图2](# "https://ehgt.org/c5/41/c54108b7c57f663916e09b752670033b2cf2d5b7-616142-800-600-png_250.jpg") | [官方网站](http://softhouse-seal.com) |
-| devil-seal | Devil-seal | ![logo](http://softhouse-seal.com/devil/img/menu/menu_top_a.png)<br>softhouse-seal 旗下偏黑暗向<br>![图1](# "https://ehgt.org/45/cf/45cf8894af5056221a7a28e4d3fecb459c215e0f-625522-800-600-png_250.jpg")<br>![图2](# "https://ehgt.org/43/08/4308cf8bb3d1e82adfb577a14009b643837a82ff-227544-606-857-jpg_250.jpg") | [官方网站](http://softhouse-seal.com/devil/index.html) |
-| softhouse-seal grandee | softhouse-seal GRANDEE | ![logo](http://softhouse-seal.com/grandee/img/logo.png)<br>softhouse-seal 旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图1](# "https://ehgt.org/56/20/5620767214c3ff0a042f4d0e763e33edc2b2ebc4-127473-320-460-jpg_250.jpg")<br>![图2](# "https://ehgt.org/0c/e0/0ce02e8368b6a222ebe7a5dd6a0c1ade8334ae89-104224-457-640-jpg_250.jpg") | [官方网站](http://softhouse-seal.com/grandee/index.html) |
-| reverse | Re:verse | softhouse-seal 姊妹公司<br>![图1](# "https://ehgt.org/db/df/dbdf702dabd10ea331d3493561e8aa353a9a7ab3-721135-800-600-png_250.jpg") |  |
-| samoyed smile | SAMOYED SMILE | ![logo](http://samoyed-smile.com/img/top/topic17.jpg)<br>softhouse-seal 的姊妹公司<br>![图](# "https://ehgt.org/10/c0/10c01a35cb889b68e48675b8660071adb2557b40-833357-1000-700-jpg_250.jpg") |  |
-| moonstone | MOONSTONE | ![logo](http://www.moon-stone.jp/img/mstn_banner.gif)<br>来自于做D.C.的Circus公司<br>![图1](https://ehgt.org/9b/ea/9bea6e4b47f77a35d7f16f6cb68698e395fe245d-621287-1280-1790-jpg_250.jpg)<br>![图2](https://ehgt.org/4d/8b/4d8bac8da42026d7edf9d4e39801485f858cadbc-81278-320-445-jpg_250.jpg) | [官方网站](http://www.moon-stone.jp) |
-| moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](# "https://ehgt.org/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
-| moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](# "https://ehgt.org/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
-| yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)Yuzu-Soft | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](https://ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) | [官方网站](http://www.yuzu-soft.com/) |
-| lump of sugar | ![icon](http://wx4.sinaimg.cn/large/6c84b2d6ly1fzmcpa6c1xg200o00c09x.gif)Lump of Sugar | ![Logo](http://www.lumpofsugar.co.jp/img/common/header_logo.png)<br>中文地区又称「方糖社」或者「角砂糖」，是一家日本GalGame制作公司。<br>会社游戏风格以幻想系恋爱冒险游戏为主。<br>编者按：角色可怜诱人，爱丝袜+萌系少女的不可错过。<br>![图](https://ehgt.org/3d/20/3d20f67d479af1c60b4d621e28d19192199148df-1229168-1280-720-png_l.jpg) | [官方网站](http://www.lumpofsugar.co.jp/) |
-| aquaplus | AQUAPLUS | 又到了《白色相簿》的季节。<br>![图](# "https://ehgt.org/c7/c4/c7c491d4ffc68e35fe5551865197281460d78b6a-202259-1280-720-jpg_l.jpg")<br>《传颂之物》（好想和艾露露在一起）<br>![图](# "https://ehgt.org/6f/c1/6fc19b66f599026004c59d5e057524e6ecd4ae93-3041974-4877-6950-jpg_l.jpg")<br>《To Heart2》<br>![图](# "https://ehgt.org/4b/99/4b99cf599ba8063c753a5e3a3354ac63671fc263-3374761-4846-6958-jpg_l.jpg") | [官方网站](https://aquaplus.jp/) |
-| leaf | Leaf🍃 | Leaf 社是 AQUAPLUS 旗下开发及发售十八禁游戏的厂商和品牌<br>![logo](https://leaf.aquaplus.jp/confirm/images/leaf.png)<br>![图](https://ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_250.jpg) | [官方网站](https://leaf.aquaplus.jp/) |
-| key | 🔑Key | Key 会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](https://ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) | [官方网站](http://key.visualarts.gr.jp/) |
-| alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](https://ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) | [官方网站](http://www.alcot.biz/) |
-| alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](https://ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) | [官方网站](hhttp://www.h-comb.biz/) |
-| august | AUGUST | AUGUST（オーガスト）是日本叶月株式会社旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。<br>![图](https://ehgt.org/45/a6/45a62a87e7ea4496033b9e24fd60228ba07546aa-75238-320-490-jpg_l.jpg)![图](https://ehgt.org/a0/27/a027f455298046a8a89cc2048b8eed79bf341621-151465-350-500-jpg_l.jpg) | [官方网站](http://august-soft.com/) [维基百科](https://zh.wikipedia.org/zh-cn/AUGUST) (\*) |
-| feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org/Feng) [官方网站](http://www.feng.jp/) (\*\*) |
-| frontwing | FrontWing | FrontWing是一家于2000年成立的日本成人游戏公司。<br>《魔界天使》系列<br>![图](https://ehgt.org/e9/5c/e95c9f224df3b10a1b4abdcb80abdbf8f99d696d-162659-640-480-jpg_l.jpg)![图](https://ehgt.org/c8/b0/c8b0c1166971d2a52ee4ad822b925a3ad3817eda-91664-800-600-jpg_l.jpg)<br>灰色系列<br>![图](https://ehgt.org/db/24/db244a8ef416fe798d52fdeb41255c6b531b0ca6-60857-352-500-jpg_l.jpg)![图](https://ehgt.org/7f/29/7f298694d6119bd657231034cd03b8f7c670a99a-113136-320-460-jpg_l.jpg)![图](https://ehgt.org/43/53/435307984b8e29fe0a604a7de2a2b9f990c3baf0-110607-320-460-jpg_l.jpg) | [官方网站](http://frontwing.jp/) |
-| atelier d | Atelier D |  |  |
-| atelier kaguya | Atelier KAGUYA |  |  |
-| atelier kaguya honky-tonk pumpkin | Atelier KAGUYA Honky-Tonk Pumpkin |  |  |
-| atelier kaguya team gassa-q | Atelier KAGUYA TEAM Gassa-Q |  |  |
-| atelier kaguya team heartbeat | Atelier KAGUYA TEAM HEARTBEAT |  |  |
-| atelier kaguya berkshire yorkshire | Atelier KAGUYA Berkshire Yorkshire |  |  |
-| atelier sakura | 樱花工作室 |  |  |
-| atelier sakura darkness | 樱花工作室 DARKNESS |  |  |
-| atelier sakura team.ntr | 樱花工作室 Team.NTR |  |  |
-| atelier sakura mount position | 樱花工作室 Mount Position |  |  |
-| atelier sakura extra | 樱花工作室 eXtra |  |  |
-| abel software | AbelSoftware |  |  |
-| type-moon | 🌙TYPE-MOON | EX咖喱棒！<br>![图](https://ehgt.org/b5/cf/b5cfbf85de09ec9d8594fe37f87f43bb90c781ff-36026-320-389-jpg_l.jpg) |  |
-| nitroplus | Nitro+ |  |  |
-| 5pb. | 5pb. |  |  |
-| aniseed | AniSeed |  |  |
-| candysoft | Candy Soft |  |  |
-| ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (\*) |
-| whirlpool | Whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico) | [官方网站](https://whirlpool.co.jp) |
-| giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/zh-cn/戲畫_%28遊戲品牌%29) (\*) |
-| milksoft | 牛奶软件 |  |  |
-|  | ▲ GAL公司 |  |  |
-|  | ▼ 其他游戏公司 |  |  |
-| illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 |  |
-| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
-| softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
-| dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
-| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
-| sex syndrome | Sex Syndrome |  |  |
-|  | ▲ 其他游戏公司 |  |  |
-|  | ▼ 未分类 |  |  |
 | nuko majin | ぬこ魔神 |  |  |
 | uni no tane | うにの種 |  |  |
 | gunjou robot | 群青ロボット |  |  |
 | hyper dropkick | はいぱーどろっぷきっく |  |  |
+| shanghai hanten | 上海饭店 |  |  |
+| hyakki yakou | 百鬼夜行 |  |  |
+| ame ramune | アメラムネ |  |  |
+| project kaguya | PROJECT KAGUYA |  |  |
+| futayami koubou | 双暗工房 |  |  |
+| mappa namatta | マッパなまった |  |  |
+| yumeiro snowgazer | 夢色スノーゲイザー |  |  |
+| nijutteya | 弐十手屋 |  |  |
+|  | ▲ 同人社团 |  |  |
+|  | ▼ 未分类 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
