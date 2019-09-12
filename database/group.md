@@ -1559,6 +1559,7 @@
 | mappa namatta | マッパなまった |  |  |
 | yumeiro snowgazer | 夢色スノーゲイザー |  |  |
 | nijutteya | 弐十手屋 |  |  |
+| maguro coffee | まぐろ珈琲 |  |  |
 |  | ▲ 同人社团 |  |  |
 |  | ▼ 未分类 |  |  |
 
