@@ -27,7 +27,8 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
-        body: ${{ github.compare }}
+        body: ${{ format('{0}...{1}', github.event.before, github.event.after) }}
         token: ${{ secrets.GITHUB_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
+        name: ''
