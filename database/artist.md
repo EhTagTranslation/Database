@@ -2438,6 +2438,7 @@
 | deadflow | Deadflow |  |  |
 | yukishizuku | ユキシズク |  |  |
 | mappa ninatta | マッパニナッタ |  |  |
+| ryuuto hisashi | りゅうとひさし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
