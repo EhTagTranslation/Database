@@ -31,4 +31,4 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
-        name: ''
+        name: ${{ github.event.head_commit.message }}
