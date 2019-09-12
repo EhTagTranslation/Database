@@ -19,7 +19,7 @@ jobs:
       shell: pwsh
       run: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
       env:
-        GitHub:Token: ${{ secret.GITHUB_TPKEN }}
+        GitHub:Token: ${{ secrets.GITHUB_TOKEN }}
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
     - uses: ncipollo/release-action@v1
