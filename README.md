@@ -1,7 +1,7 @@
 译文数据库介绍 
 ==================
 
-[![Build status](https://ci.appveyor.com/api/projects/status/pv3klmx1u7qu4woa?svg=true)](https://ci.appveyor.com/project/EhTagApi-Bot/database)
+[![Build status](https://github.com/EhTagTranslation/Database/workflows/build/badge.svg)](https://github.com/EhTagTranslation/Database/actions)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](https://github.com/EhTagTranslation/Database/blob/master/LICENSE.md)
 
 <!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
