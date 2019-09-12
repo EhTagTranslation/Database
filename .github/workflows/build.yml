@@ -27,3 +27,6 @@ jobs:
         artifacts: ./publish/*.js,./publish/*.json,./publish/*.gz
         bodyFile: ./publish/message.md
         token: ${{ secrets.GITHUB_TOKEN }}
+        commit: ${{ github.sha }}
+        tag: ${{ format('v-{0}', github.sha) }}
+        name: ${{ format('Build {0}', github.sha) }}
