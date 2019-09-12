@@ -24,9 +24,8 @@ jobs:
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
     - uses: ncipollo/release-action@v1
       with:
-        artifacts: ./publish/*.js,./publish/*.json,./publish/*.gz
-        bodyFile: ./publish/message.md
+        artifacts: ./publish/*
+        bodyFile: ./publish/.github/message.md
         token: ${{ secrets.GITHUB_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
-        name: ${{ format('Build {0}', github.sha) }}
