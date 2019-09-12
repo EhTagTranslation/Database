@@ -2439,6 +2439,7 @@
 | yukishizuku | ユキシズク |  |  |
 | mappa ninatta | マッパニナッタ |  |  |
 | ryuuto hisashi | りゅうとひさし |  |  |
+| tamazatou | 玉砂糖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
