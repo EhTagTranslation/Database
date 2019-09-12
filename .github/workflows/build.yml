@@ -3,7 +3,9 @@ name: build
 on: 
   push:
     branches:
-      - master
+    - master
+    paths:
+    - database/*
 
 jobs:
   build:
@@ -25,7 +27,7 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
-        bodyFile: ./publish/.github/message.md
+        body: ${{ toJson(github) }}
         token: ${{ secrets.GITHUB_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
