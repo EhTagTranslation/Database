@@ -13,8 +13,16 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - uses: actions/setup-dotnet@v1
-    - name: Run a one-line script
+      with:
+        dotnet-version: '2.2'
+    - name: Install tools
       shell: pwsh
       run: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
-    - name: Run a multi-line script
+      env:
+        GitHub:Token: ${{ secret.GITHUB_TPKEN }}
+    - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
+    - uses: ncipollo/release-action@v1
+      with:
+        artifacts: ./publish/*
+        token: ${{ secrets.GITHUB_TOKEN }}
