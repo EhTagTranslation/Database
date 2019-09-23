@@ -2751,6 +2751,7 @@
 | may | 小遥 | 精灵宝可梦，超世代（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | 精灵宝可梦，钻石&珍珠（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）) |
 | murasaki shikibu | 紫式部（fate） | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
+| colorado | 科罗拉多 |  |  |
 
 
 <!--TEMPLATE: 
