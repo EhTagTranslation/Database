@@ -1407,6 +1407,7 @@
 | arknights | 明日方舟 | 《明日方舟》（Arknights）是由上海鹰角网络科技有限公司开发的策略塔防及收集养成类游戏。 | [萌娘百科](https://zh.moegirl.org/明日方舟) (**) |
 | kimetsu no yaiba | 鬼灭之刃 |  |  |
 | tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影。 |  |
+| arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
 
 
 <!--TEMPLATE: 
