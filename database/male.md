@@ -160,7 +160,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与晒痕(tanlines)混淆。<br>![黑子的篮球同人](# "https://ehgt.org/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg") |  |
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru-oh | 非主流 | 辣妹(gyaru)的男性版本。 |  |
-| large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与裆部纹身(crotch tattoo)混淆。 |  |
+| large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与耻骨纹身(crotch tattoo)混淆。 |  |
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |  |
 | skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与连体紧身衣(bodysuit)或全身套装(kigurumi)相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与肤色黝黑(dark skin)混淆。<br>![图](# "https://ehgt.org/e8/e8/e8e84e887aae3d27b78b7e1d9531c7bda453b5dd-1178193-1200-1694-jpg_l.jpg") |  |
@@ -280,7 +280,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 裆部 === |  |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或自慰(masturbation)。经常与调教(bdsm)配对。 |  |
-| crotch tattoo | 裆部纹身 | 下腹部到下裆区域之间的任何明显的标记。 |  |
+| crotch tattoo | 耻骨纹身 | 下腹部到耻骨区域之间的任何明显的标记。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与腋毛(hairy armpits)混淆。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
