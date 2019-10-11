@@ -476,6 +476,7 @@
 | bache | 贝奇 |  |  |
 | sirius | 天狼星 |  |  |
 | sims | 西姆斯 |  |  |
+| colorado | 科罗拉多 |  |  |
 | ka-class | 潜艇KA级 |  |  |
 | so-class | 潜艇SO级 |  |  |
 | ri-class | 重巡RI级 |  |  |
@@ -794,11 +795,16 @@
 | kaho komiya | 小宫果穂 |  |  |
 | chiyoko sonoda | 园田智代子 |  |  |
 |  | 西城树里 |  |  |
-|  | 杜野凛世 |  |  |
-|  | 有栖川夏叶 |  |  |
+| rinze morino | 杜野凛世 |  |  |
+| natsuha arisugawa | 有栖川夏叶 |  |  |
 |  | 天井努 |  |  |
 |  | 七草叶月 |  |  |
 | arisa mochida | 持田亚里沙 |  |  |
+| fuyuko mayuzumi | 黛冬优子 |  |  |
+| mei izumi | 和泉爱依 |  |  |
+| asahi serizawa | 芹泽朝阳 |  |  |
+| akira sunazuka | 砂冢明 | | |
+| riamu yumemi | 梦见璃亚梦 | | |
 |  | ▲偶像大师-THE IDOLM@STER 人物 |  |  |
 |  | ▼ 超级马里奥兄弟 角色 |  |  |
 | mario | 马里奥 |  |  |
@@ -1906,6 +1912,7 @@
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕 |  |  |
 | katsushika hokusai | 葛饰北斋 |  |  |
 | saint martha | 玛尔达 |  |  |
+| murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
 |  | ▼ 刀剑神域 |  |  |
 | kazuto kirigaya | 桐谷和人（桐人） | ![图](https://ehgt.org/14/56/1456fe04bac534a80cd45c511a52c585b795aea5-112943-960-544-jpg_l.jpg)![图](https://ehgt.org/31/f3/31f303e3ce76b516286e5296f5fd8ab43b970ded-859458-2464-3498-jpg_l.jpg) |  |
 | asuna yuuki | 结城明日奈（亚丝娜） | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](https://ehgt.org/d0/1b/d01b63e2dcb2428267db353a7035ecb2ec5c02e8-391042-720-776-jpg_l.jpg)![图](https://ehgt.org/8f/d1/8fd11d7992aff862637904118ba3d1abf1d954f4-3133171-1700-1242-png_l.jpg)![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)![图](https://ehgt.org/af/6c/af6c904613d926403935d6710e8f99caca5336d0-156027-960-544-jpg_l.jpg) |  |
@@ -2750,9 +2757,6 @@
 | hinata hoshino | 星野日向 | 小学5年级，星野宫子的妹妹，花的同学。称宫子为“宫姐”。个性开朗活泼，姐控，十分喜欢宫子，认为宫子无所不能，喜欢跟人夸奖宫子，导致宫子在别人眼中是个完美形象的人。常要求跟宫子一起睡觉，但睡相非常的差。<br>![图](https://img.moegirl.org/common/7/77/星野日向.jpg) | [萌娘百科](https://zh.moegirl.org/星野日向) |
 | may | 小遥 | 精灵宝可梦，超世代（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | 精灵宝可梦，钻石&珍珠（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）) |
-| murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
-| colorado | 科罗拉多 |  |  |
-| fuyuko mayuzumi | 黛 冬优子 |  |  |
 
 
 <!--TEMPLATE: 
