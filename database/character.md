@@ -2758,6 +2758,7 @@
 | may | 小遥 | 精灵宝可梦，超世代（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | 精灵宝可梦，钻石&珍珠（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）) |
 | midori aoyama | 青山翠 |  |  |
+| kyaru | 凯露 | 公主连接 Re: Dive 美食殿成员 |  |
 
 
 <!--TEMPLATE: 
