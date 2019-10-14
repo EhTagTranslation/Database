@@ -2441,6 +2441,7 @@
 | ryuuto hisashi | りゅうとひさし |  |  |
 | tamazatou | 玉砂糖 |  |  |
 | tanaka yuuichi | 田中雄一 | 日本男性动画师、人物设计师、演出家。代表作是担任人物设定和总作画监督的《魔法禁书目录》、《科学超电磁炮》。 |  |
+| nakamura kuzuyu | 中村葛湯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
