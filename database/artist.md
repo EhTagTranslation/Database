@@ -2448,6 +2448,7 @@
 | masuda | 枡田 |  |  |
 | nunnu | ぬんぬ |  |  |
 | shimanto shisakugata | 40010試作型 |  |  |
+| yuzuna hiyo | 柚子奈ひよ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
