@@ -2450,6 +2450,7 @@
 | shimanto shisakugata | 40010試作型 |  |  |
 | yuzuna hiyo | 柚子奈ひよ |  |  |
 | kojiki ohji | 古事記王子 |  |  |
+| tamakake | たまかけ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
