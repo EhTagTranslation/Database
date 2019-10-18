@@ -2444,6 +2444,7 @@
 | nakamura kuzuyu | 中村葛湯 |  |  |
 | bekotarou | べこ たろう | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) |
 | ayuma sayu | あゆま紗由 |  | https://twitter.com/ayumasayun<br>https://www.pixiv.net/member.php?id=2473967 |
+| fumi miyabi | 文雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
