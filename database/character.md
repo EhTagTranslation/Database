@@ -2760,6 +2760,7 @@
 | midori aoyama | 青山翠 |  |  |
 | kyaru | 凯露 | 公主连接 Re: Dive 美食殿成员 |  |
 | mai sakurajima | 樱岛麻衣 |  |  |
+| ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org/水野爱) |
 
 
 <!--TEMPLATE: 
