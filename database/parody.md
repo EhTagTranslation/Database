@@ -1408,6 +1408,7 @@
 | kimetsu no yaiba | 鬼灭之刃 |  |  |
 | tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影。 |  |
 | arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
+| asobi asobase | 游戏3人娘 | 生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏人间研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！ | [萌娘百科](https://zh.moegirl.org/游戏3人娘) [维基百科](https://zh.wikipedia.org/wiki/遊戲3人娘) |
 
 
 <!--TEMPLATE: 
