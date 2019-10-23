@@ -803,8 +803,8 @@
 | fuyuko mayuzumi | 黛冬优子 |  |  |
 | mei izumi | 和泉爱依 |  |  |
 | asahi serizawa | 芹泽朝阳 |  |  |
-| akira sunazuka | 砂冢明 | | |
-| riamu yumemi | 梦见璃亚梦 | | |
+| akira sunazuka | 砂冢明 |  |  |
+| riamu yumemi | 梦见璃亚梦 |  |  |
 |  | ▲偶像大师-THE IDOLM@STER 人物 |  |  |
 |  | ▼ 超级马里奥兄弟 角色 |  |  |
 | mario | 马里奥 |  |  |
@@ -2757,6 +2757,10 @@
 | hinata hoshino | 星野日向 | 小学5年级，星野宫子的妹妹，花的同学。称宫子为“宫姐”。个性开朗活泼，姐控，十分喜欢宫子，认为宫子无所不能，喜欢跟人夸奖宫子，导致宫子在别人眼中是个完美形象的人。常要求跟宫子一起睡觉，但睡相非常的差。<br>![图](https://img.moegirl.org/common/7/77/星野日向.jpg) | [萌娘百科](https://zh.moegirl.org/星野日向) |
 | may | 小遥 | 精灵宝可梦，超世代（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | 精灵宝可梦，钻石&珍珠（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）) |
+| midori aoyama | 青山翠 |  |  |
+| kyaru | 凯露 | 公主连接 Re: Dive 美食殿成员 |  |
+| mai sakurajima | 樱岛麻衣 |  |  |
+| ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org/水野爱) |
 
 
 <!--TEMPLATE: 
