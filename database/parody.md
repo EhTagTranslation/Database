@@ -1408,6 +1408,8 @@
 | kimetsu no yaiba | 鬼灭之刃 |  |  |
 | tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影。 |  |
 | arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
+| asobi asobase | 游戏3人娘 | 生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏人间研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！ | [萌娘百科](https://zh.moegirl.org/游戏3人娘) [维基百科](https://zh.wikipedia.org/wiki/遊戲3人娘) |
+| zombie land saga | 佐贺偶像是传奇 | 一如往常的早晨。一如往常的音乐。一如往常的自己。<br><br>7名少女的安宁，突然崩溃。<br><br>因蠢动的死者——僵尸而崩溃……<br><br>不容分说地踏入的世界，那里是“最好×最坏的僵尸世界”<br><br>少女们的愿望，只有一个。<br><br>“我们，想要活下去。”<br><br>这是少女们引发奇迹的故事。 | [萌娘百科](https://zh.moegirl.org/佐贺偶像是传奇)<br>[维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
 
 
 <!--TEMPLATE: 
