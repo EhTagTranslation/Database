@@ -296,6 +296,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生大根(big penis)。不应该与正常的勃起混淆，也不适用性转换(gender bender)标签。 |  |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是大根(big penis)。不用于半人马(centaur)、马(horse)、马男孩(horse boy)或性玩具(sex toys)。 |  |
+| low smegma | 未通过阴垢 | 表示阴垢(smegma)的情况没有通过存在规则(presence rule)。需要阴垢(smegma)标签。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要大根(big penis)标签。 |  |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于触手(tentacles)形的阴茎。<br>![图](# "https://ehgt.org/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于产卵(eggs)。 |  |
