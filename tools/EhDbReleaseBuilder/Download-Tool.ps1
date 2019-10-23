@@ -5,4 +5,9 @@ $Release = Invoke-WebRequest 'https://api.github.com/repos/EhTagTranslation/EhTa
 
 $zipfile = "$PSScriptRoot/EhDbReleaseBuilder.zip"
 Invoke-WebRequest $Release.assets[0].browser_download_url -OutFile $zipfile
-Expand-Archive $zipfile $PSScriptRoot -Force
+
+if (Get-Command 7za -ErrorAction SilentlyContinue) {
+    7za x "$zipfile" -o"$PSScriptRoot" -aoa
+} else {
+    Expand-Archive $zipfile $PSScriptRoot -Force
+}
