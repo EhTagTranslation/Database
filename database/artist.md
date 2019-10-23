@@ -2447,9 +2447,9 @@
 | fumi miyabi | 文雅 |  |  |
 | masuda | 枡田 |  |  |
 | nunnu | ぬんぬ |  |  |
-| shimanto shisakugata | 40010試作型 |  |  |
+| shimanto shisakugata | 40010试作型 |  |  |
 | yuzuna hiyo | 柚子奈ひよ |  |  |
-| kojiki ohji | 古事記王子 |  |  |
+| kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
 
 <!--TEMPLATE: 

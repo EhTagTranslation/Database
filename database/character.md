@@ -873,6 +873,7 @@
 | maya jouga | 条河麻耶 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
 | megumi natsu | 奈津惠 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
 | mocha hoto | 保登摩卡 | ![保登摩卡](# "https://ehgt.org/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg") |  |
+| midori aoyama | 青山翠 | 青山Blue Mountain是Koi所创作的漫画《请问您今天要来点兔子吗？》及其衍生作品的登场角色。  |  |
 |  | ▼ 我的脑内恋碍选项 角色 |  |  |
 | kanade amakusa | 甘草奏 |  |  |
 | chocolat | 裘可拉 | ![裘可拉](https://ehgt.org/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |  |
@@ -2757,7 +2758,6 @@
 | hinata hoshino | 星野日向 | 小学5年级，星野宫子的妹妹，花的同学。称宫子为“宫姐”。个性开朗活泼，姐控，十分喜欢宫子，认为宫子无所不能，喜欢跟人夸奖宫子，导致宫子在别人眼中是个完美形象的人。常要求跟宫子一起睡觉，但睡相非常的差。<br>![图](https://img.moegirl.org/common/7/77/星野日向.jpg) | [萌娘百科](https://zh.moegirl.org/星野日向) |
 | may | 小遥 | 精灵宝可梦，超世代（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | 精灵宝可梦，钻石&珍珠（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）) |
-| midori aoyama | 青山翠 |  |  |
 | kyaru | 凯露 | 公主连接 Re: Dive 美食殿成员 |  |
 | mai sakurajima | 樱岛麻衣 |  |  |
 | ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org/水野爱) |
