@@ -873,7 +873,7 @@
 | maya jouga | 条河麻耶 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
 | megumi natsu | 奈津惠 | ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
 | mocha hoto | 保登摩卡 | ![保登摩卡](# "https://ehgt.org/e5/f8/e5f8ec4255427838f207d6d71cab58ba0359451a-2382965-1280-1807-png_l.jpg") |  |
-| midori aoyama | 青山翠 | 青山Blue Mountain是Koi所创作的漫画《请问您今天要来点兔子吗？》及其衍生作品的登场角色。  |  |
+| midori aoyama | 青山翠 | 青山Blue Mountain是Koi所创作的漫画《请问您今天要来点兔子吗？》及其衍生作品的登场角色。 |  |
 |  | ▼ 我的脑内恋碍选项 角色 |  |  |
 | kanade amakusa | 甘草奏 |  |  |
 | chocolat | 裘可拉 | ![裘可拉](https://ehgt.org/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |  |
