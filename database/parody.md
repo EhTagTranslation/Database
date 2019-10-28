@@ -1412,6 +1412,7 @@
 | zombie land saga | 佐贺偶像是传奇 | 一如往常的早晨。一如往常的音乐。一如往常的自己。<br><br>7名少女的安宁，突然崩溃。<br><br>因蠢动的死者——僵尸而崩溃……<br><br>不容分说地踏入的世界，那里是“最好×最坏的僵尸世界”<br><br>少女们的愿望，只有一个。<br><br>“我们，想要活下去。”<br><br>这是少女们引发奇迹的故事。 | [萌娘百科](https://zh.moegirl.org/佐贺偶像是传奇)<br>[维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
 | nazo no kanojo x | 谜样女友X |  |  |
 | shoujo shuumatsu ryokou | 少女终末旅行 |  |  |
+| dumbbell nan kilo moteru | 流汗吧!健身少女 |  | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女)<br>[萌娘百科](https://zh.moegirl.org/zh-cn/流汗吧!健身少女) |
 
 
 <!--TEMPLATE: 
