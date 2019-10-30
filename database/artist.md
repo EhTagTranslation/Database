@@ -2451,6 +2451,7 @@
 | yuzuna hiyo | 柚子奈ひよ |  |  |
 | kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
+| shiromochi sakura | 白もち桜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
