@@ -2452,6 +2452,7 @@
 | kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
 | shiromochi sakura | 白もち桜 |  |  |
+| shimao kazu | 嶋尾和 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
