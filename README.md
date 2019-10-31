@@ -5,16 +5,16 @@
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](https://github.com/EhTagTranslation/Database/blob/master/LICENSE.md)
 
 <!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
-[![all](https://img.shields.io/endpoint?color=brightgreen&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fall)](https://ehtagtranslation.github.io/Editor/list/all)
-[![reclass](https://img.shields.io/endpoint?color=tomato&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Freclass)](https://ehtagtranslation.github.io/Editor/list/reclass)
-[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Flanguage)](https://ehtagtranslation.github.io/Editor/list/language)
-[![female](https://img.shields.io/endpoint?color=deeppink&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Ffemale)](https://ehtagtranslation.github.io/Editor/list/female)
-[![male](https://img.shields.io/endpoint?color=slateblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmale)](https://ehtagtranslation.github.io/Editor/list/male)
-[![misc](https://img.shields.io/endpoint?color=lightgray&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmisc)](https://ehtagtranslation.github.io/Editor/list/misc)
-[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fparody)](https://ehtagtranslation.github.io/Editor/list/parody)
-[![character](https://img.shields.io/endpoint?color=cadetblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fcharacter)](https://ehtagtranslation.github.io/Editor/list/character)
-[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fgroup)](https://ehtagtranslation.github.io/Editor/list/group)
-[![artist](https://img.shields.io/endpoint?color=chocolate&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fartist)](https://ehtagtranslation.github.io/Editor/list/artist)
+[![all](https://img.shields.io/endpoint?color=brightgreen&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fall)](https://ehht.now.sh/list/all)
+[![reclass](https://img.shields.io/endpoint?color=tomato&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Freclass)](https://ehht.now.sh/list/reclass)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Flanguage)](https://ehht.now.sh/list/language)
+[![female](https://img.shields.io/endpoint?color=deeppink&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Ffemale)](https://ehht.now.sh/list/female)
+[![male](https://img.shields.io/endpoint?color=slateblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmale)](https://ehht.now.sh/list/male)
+[![misc](https://img.shields.io/endpoint?color=lightgray&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmisc)](https://ehht.now.sh/list/misc)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fparody)](https://ehht.now.sh/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fcharacter)](https://ehht.now.sh/list/character)
+[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fgroup)](https://ehht.now.sh/list/group)
+[![artist](https://img.shields.io/endpoint?color=chocolate&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fartist)](https://ehht.now.sh/list/artist)
 
 ## 协议
 
@@ -24,7 +24,7 @@
 
 ## 参与翻译
 
-请使用 [EhTag Editor](https://EhTagTranslation.github.io/Editor)（[使用说明](https://github.com/EhTagTranslation/Editor/wiki)），在编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/参与翻译)指南。
+请使用 [EhTag Editor](https://ehht.now.sh)（[使用说明](https://github.com/EhTagTranslation/Editor/wiki)），在编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/参与翻译)指南。
 
 ## 使用翻译
 
