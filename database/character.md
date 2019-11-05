@@ -330,7 +330,7 @@
 | kumano | 熊野 | No.125 熊野![熊野](# "https://ehgt.org/09/c0/09c0b3b579b1946da95efe8b60a2aefee5f8b593-791108-1411-2000-jpg_250.jpg") |  |
 | i-168 | 伊168 | No.126 伊168![伊168](# "https://img.acg.moe/common/thumb/4/40/41962607_p0.png/250px-41962607_p0.png")P站ID:41962607 |  |
 | i-58 | 伊58 | No.127 伊58![伊58](# "https://ehgt.org/d9/ef/d9ef3c69a2738bb42cc2a3a6be2946b5f3af3703-535315-1055-1500-jpg_250.jpg") |  |
-| i-8 | 伊8 | No.128 伊8![伊8](# "https://img.acg.moe/common/thumb/1/1c/伊8%28新スク水%29_-_ぺこ_-_42444212.jpg/250px-伊8%28新スク水%29_-_ぺこ_-_42444212.jpg")P站ID:42444212 |  |
+| i-8 | 伊8 | No.128 伊8<br>![伊8](https://ehgt.org/b8/fb/b8fb433d9d1418855c77cd089edec90eb308a5ee-766455-1024-1446-jpg_l.jpg) |  |
 | yamato | 大和 | No.131 大和![大和](# "https://ehgt.org/65/fc/65fc32dcf211f95654dfec389be9e5455bfc4d05-1200763-2138-3029-jpg_250.jpg") |  |
 | akigumo | 秋云 | No.132 |  |
 | yuugumo | 夕云 | No.133 |  |
