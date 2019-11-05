@@ -393,6 +393,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | piercing | 穿孔 | 任何形式的穿孔，除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>![恶](## "https://ehgt.org/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg")![恶](## "https://ehgt.org/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg") |  |
 | pirate | 海盗服 | 海盗服装。通常有背心和带角帽子或头巾。通常有一条皮带、马裤、有膨化的袖子的紧身背心。 |  |
 | policeman | 警服 | 典型的警察制服。通常有徽章，衬衫上的小袋子和枪套。 |  |
+| priest | 牧师服 | 任何宗教秩序的牧师穿着的服装。 通常是长袍或白领西服。 |  |
 | randoseru | 书包 | 由皮革或皮革般的合成材料制成的背包，常用于小学生。 |  |
 | sarashi | 缠胸布 | 缠胸布（日语：晒/さらし），围绕胃/胸部区域的长绷带状布料。对于男性来说，它通常覆盖胃部。需要绷带(bandages)标签。 |  |
 | schoolboy uniform | 男生制服 | 女生制服的(schoolgirl uniform)男性版本。 |  |
