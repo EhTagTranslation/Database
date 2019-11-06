@@ -1413,7 +1413,7 @@
 | nazo no kanojo x | 谜样女友X |  |  |
 | shoujo shuumatsu ryokou | 少女终末旅行 |  |  |
 | dumbbell nan kilo moteru | 流汗吧!健身少女 |  | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女)<br>[萌娘百科](https://zh.moegirl.org/zh-cn/流汗吧!健身少女) |
-
+| thumbelina | 拇指姑娘 | 世界著名童话 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
