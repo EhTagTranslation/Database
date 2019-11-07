@@ -2453,6 +2453,7 @@
 | tamakake | たまかけ |  |  |
 | shiromochi sakura | 白もち桜 |  |  |
 | shimao kazu | 嶋尾和 |  |  |
+| kanou ryuuji | 叶竜児 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
