@@ -1417,6 +1417,7 @@
 | star twinkle precure | Star☆Twinkle光之美少女 |  |  |
 | masou gakuen hxh | 魔装学園H×H |  |  |
 | hundred | 百武装战记 |  |  |
+| dr. stone | 石纪元 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
