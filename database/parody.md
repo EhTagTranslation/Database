@@ -1416,7 +1416,7 @@
 | thumbelina | 拇指姑娘 | 世界著名童话 |  |
 | star twinkle precure | Star☆Twinkle光之美少女 |  |  |
 | masou gakuen hxh | 魔装学園H×H |  |  |
-| hundred | parody:hundred |  |  |
+| hundred | 百武装战记 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
