@@ -2456,6 +2456,7 @@
 | kanou ryuuji | 叶竜児 |  |  |
 | yatanukikey | やたぬき圭 |  |  |
 | maihara matsuge | 舞原マツゲ |  |  |
+| genzou kokuto | 幻像黒兎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
