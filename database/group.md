@@ -1564,6 +1564,7 @@
 |  | ▼ 未分类 |  |  |
 | shoujo gesshoku | 少女月蝕 |  |  |
 | kokuto koukuu | 黒兎航空 |  |  |
+| manshin soui | 満身創痍 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
