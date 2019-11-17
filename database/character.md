@@ -2762,6 +2762,7 @@
 | mai sakurajima | 樱岛麻衣 |  |  |
 | ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org/水野爱) |
 | yuika mitsumine | 三峰結華 |  |  |
+| yuuma kuga | 空闲游真 | 空闲游真，日本漫画《境界触发者》中的主人公之一。 | https://baike.baidu.com/item/%E7%A9%BA%E9%97%B2%E6%B8%B8%E7%9C%9F |
 
 <!--TEMPLATE: 
 |  |  |  |  |
