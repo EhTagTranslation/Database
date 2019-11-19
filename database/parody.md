@@ -1418,6 +1418,7 @@
 | masou gakuen hxh | 魔装学園H×H |  |  |
 | hundred | 百武装战记 |  |  |
 | dr. stone | 石纪元 |  |  |
+| uchi no ko no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai | 为了女儿，我说不定连魔王都能干掉。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
