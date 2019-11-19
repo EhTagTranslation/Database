@@ -3,16 +3,16 @@ key: parody
 name: 原作
 description: 标签列表的原作(parody)翻译。
 copyright: |
-    对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
 
-    对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
 rules:
 - 优先写公认的中文翻译，不知道的也可以写日文原名。
-- 第一推荐[萌娘百科](https://zh.moegirl.org/)，也可以用百度百科或[维基百科](https://zh.wikipedia.org/)查译名。
+- 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
 - 图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
 ---
 
-| 英文原名 | 中文名 | 简介 | 外部链接 |
+| 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于同人志(doujinshi)分类。 |  |
 | touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project⛩ | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |  |

@@ -3,22 +3,22 @@ key: misc
 name: 杂项
 description: 标签列表的杂项(misc)翻译。
 copyright: |
-    除有特殊说明外，本文的简介文本翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
+    除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
     Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
-    对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(*)的条目，其简介文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
 
-    对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其简介文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
 
-    本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
+    本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
-- 填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团的标签，请在[论坛](https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
-- 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
+- 填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团的标签，请在论坛(https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
+- 为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
 - 若有属于多个分类的，放入最相关的那一个分类。
 ---
 
-| 英文原名 | 中文名 | 简介 | 外部链接 |
+| 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | == 身体 == |  |  |
 |  | === 身体 > 生物 === |  |  |
@@ -61,7 +61,7 @@ rules:
 | paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
 | redraw | 重绘 | 替换了原始图像的部分内容。消除修正的过程不算在内。 |  |
 | screenshots | 截图 | 电影、动画或电视节目的截图。动图(animated)不算在内。 |  |
-| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为同人志(doujinshi)或者无H(non-h)画廊. | | 
+| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为同人志(doujinshi)或者无H(non-h)画廊. |  |
 | stereoscopic | 立体图 | 可以使用 3D 眼镜观看的成对的立体图像。不应与 3D(3d)和红蓝3D(anaglyph)混淆。 |  |
 | story arc | 故事线 | 在单个画廊中的多个章节讲述同一个故事。需要至少 75 页或 4 章。 对于单行本(tankoubon)，50% 的内容需要符合条件。不应与系列作品(multi-work series)混淆。 |  |
 | tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 |  |
