@@ -1,29 +1,22 @@
-本页储存标签列表的杂项(misc)翻译。
+---
+key: misc
+name: 杂项
+description: 标签列表的杂项(misc)翻译。
+copyright: |
+    除有特殊说明外，本文的简介文本翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
 
-版权声明
----------------  
-除有特殊说明外，本文的简介文本翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
+    Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
-Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
+    对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
 
-对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
 
-对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
-
-本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
-
-书写规则
----------------
-### 请按照如下规则：
-* 主要填写长期存在于杂项(misc)中的标签，有些新作者、社团的标签最开始在杂项，但后面会移到对应分类中去。
-
-### 目前阶段建议规则：
-* 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。  
-  若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
-* 检查[新恋物标签列表](https://ehwiki.org/wiki/new_tags)以跟踪最新标签更改。
-
-条目内容
-----------------
+    本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
+rules:
+- 填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团的标签，请在[论坛](https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
+- 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
+- 若有属于多个分类的，放入最相关的那一个分类。
+---
 
 | 英文原名 | 中文名 | 简介 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
