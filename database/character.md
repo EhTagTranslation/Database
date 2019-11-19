@@ -2760,6 +2760,7 @@ rules:
 | ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org/水野爱) |
 | yuuma kuga | 空闲游真 | 空闲游真，日本漫画《境界触发者》中的主人公之一。 | [百度百科](https://baike.baidu.com/item/空闲游真) |
 | kokkoro | 可可萝 |  |  |
+| kanon matsubara | 松原花音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
