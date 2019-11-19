@@ -2,7 +2,7 @@ Release 生成工具
 =========================
 该工具用于生成本项目的 Releases，源码位于 <https://github.com/EhTagTranslation/EhTagConnector>。可以通过环境变量 `GitHub:Token` 提供一个 GitHub API 的 token，以避免请求受到限制。
 
-依赖 `dotnet core 3.0`，运行时需要输入项目路径和输出路径。
+依赖 `dotnet core 2.2`，运行时需要输入项目路径和输出路径。
 
 ``` powershell
 Database> ${env:Github:Token} = 'xxx'
