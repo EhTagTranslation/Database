@@ -156,6 +156,7 @@
 | maho girls precure | 魔法使 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | kirakira precure a la mode | KiraKira☆光之美少女A La Mode |  |  |
 | hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと!プリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/HUG！光之美少女) (\*) |
+| star twinkle precure | Star☆Twinkle光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/wiki/Star%E2%98%86Twinkle_%E5%85%89%E4%B9%8B%E7%BE%8E%E5%B0%91%E5%A5%B3) (\*) |
 |  | ▲ 光美大军 |  |  |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](# "https://ehgt.org/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg")![图](# "https://ehgt.org/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg") |  |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](https://ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](https://ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |  |
@@ -1414,12 +1415,11 @@
 | shoujo shuumatsu ryokou | 少女终末旅行 |  |  |
 | dumbbell nan kilo moteru | 流汗吧!健身少女 |  | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女)<br>[萌娘百科](https://zh.moegirl.org/zh-cn/流汗吧!健身少女) |
 | thumbelina | 拇指姑娘 | 世界著名童话 |  |
-| star twinkle precure | Star☆Twinkle光之美少女 |  |  |
-| masou gakuen hxh | 魔装学園H×H |  |  |
+| masou gakuen hxh | 魔装学园H×H |  |  |
 | hundred | 百武装战记 |  |  |
 | dr. stone | 石纪元 |  |  |
 | uchi no ko no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai | 为了女儿，我说不定连魔王都能干掉。 |  |  |
-| tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击,这样的妈妈你喜欢吗? |  |  |
+| tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击，这样的妈妈你喜欢吗？ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
