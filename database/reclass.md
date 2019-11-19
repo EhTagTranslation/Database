@@ -3,11 +3,11 @@ key: reclass
 name: 重新分类
 description: 标签列表的重新分类(reclass)翻译。
 copyright: |
-    除有特殊说明外，本文的简介文本翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
+    除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
     Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
-    本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
+    本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
