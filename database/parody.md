@@ -1419,6 +1419,7 @@ rules:
 | wagaya no oinari-sama | 我家有个狐仙大人 |  |  |
 | enen no shouboutai | 炎炎消防队 |  |  |
 | lord el-melloi ii sei no jikenbo | 君主·埃尔梅罗二世事件簿 |  |  |
+| inuyasha | 犬夜叉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
