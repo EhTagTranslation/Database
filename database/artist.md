@@ -2459,6 +2459,7 @@
 | genzou kokuto | 幻像黒兎 |  |  |
 | kiyomiya ryo | 清宮涼 |  |  |
 | yamashita kurowo | 山下クロヲ |  |  |
+| yanagi yuu | ヤナギユウ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
