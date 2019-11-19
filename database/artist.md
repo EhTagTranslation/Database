@@ -2460,6 +2460,7 @@
 | kiyomiya ryo | 清宮涼 |  |  |
 | yamashita kurowo | 山下クロヲ |  |  |
 | yanagi yuu | ヤナギユウ |  |  |
+| ponite korosuke | ポニテコロ介 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
