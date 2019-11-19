@@ -68,7 +68,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
 | redraw | 重绘 | 替换了原始图像的部分内容。消除修正的过程不算在内。 |  |
 | screenshots | 截图 | 电影、动画或电视节目的截图。动图(animated)不算在内。 |  |
-| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为同人志（doujinshi）或者无H(non-h)画廊. | | 
+| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为同人志(doujinshi)或者无H(non-h)画廊. | | 
 | stereoscopic | 立体图 | 可以使用 3D 眼镜观看的成对的立体图像。不应与 3D(3d)和红蓝3D(anaglyph)混淆。 |  |
 | story arc | 故事线 | 在单个画廊中的多个章节讲述同一个故事。需要至少 75 页或 4 章。 对于单行本(tankoubon)，50% 的内容需要符合条件。不应与系列作品(multi-work series)混淆。 |  |
 | tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 |  |
