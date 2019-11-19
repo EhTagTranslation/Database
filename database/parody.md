@@ -1419,6 +1419,7 @@
 | hundred | 百武装战记 |  |  |
 | dr. stone | 石纪元 |  |  |
 | uchi no ko no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai | 为了女儿，我说不定连魔王都能干掉。 |  |  |
+| tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击,这样的妈妈你喜欢吗? |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
