@@ -1418,6 +1418,7 @@ rules:
 | tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击，这样的妈妈你喜欢吗？ |  |  |
 | wagaya no oinari-sama | 我家有个狐仙大人 |  |  |
 | enen no shouboutai | 炎炎消防队 |  |  |
+| lord el-melloi ii sei no jikenbo | 君主·埃尔梅罗二世事件簿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
