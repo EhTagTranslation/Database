@@ -1,7 +1,7 @@
 ---
 key: male
 name: 男性
-description: 标签列表的男性(male)翻译。
+description: 男性角色相关的恋物标签。
 copyright: |
     除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
