@@ -44,7 +44,7 @@ declare namespace EhTag {
         frontMatters: FrontMatters;
     }
 
-    interface FrontMatters{
+    interface FrontMatters {
         key: NamespaceName;
         name: string;
         description: string;
@@ -77,7 +77,7 @@ declare namespace EhTag {
         type Tree = ParaNode[];
 
         type NodeType = 'paragraph' | 'text' | 'br' | 'code' | 'image' | 'link' | 'emphasis' | 'strong';
-        
+
         interface Node {
             type: NodeType;
         }
