@@ -2432,7 +2432,7 @@ rules:
 | bekotarou | べこ たろう | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) |
 | ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun)<br>[pixiv](https://www.pixiv.net/member.php?id=2473967) |
 | fumi miyabi | 文雅 |  |  |
-| masuda | 枡田 |  |  |
+| masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
 | nunnu | ぬんぬ |  |  |
 | shimanto shisakugata | 40010试作型 |  |  |
 | yuzuna hiyo | 柚子奈ひよ |  |  |
