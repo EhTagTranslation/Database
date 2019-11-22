@@ -2448,7 +2448,7 @@ rules:
 | yamashita kurowo | 山下クロヲ |  |  |
 | yanagi yuu | ヤナギユウ |  |  |
 | ponite korosuke | ポニテコロ介 |  |  |
-| azuse | あずせ | ![あずせ](https://i.pximg.net/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br>![カワイイ女の子を釣る方法](https://i.pximg.net/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg) | [画师推特](https://twitter.com/_azuse) [Pixiv](https://www.pixiv.net/member.php?id=71881) |
+| azuse | あずせ | ![あずせ](https://i.pximg.net/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br>![カワイイ女の子を釣る方法](https://i.pximg.net/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg) | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/member.php?id=71881) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
