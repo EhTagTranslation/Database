@@ -2449,6 +2449,7 @@ rules:
 | yanagi yuu | ヤナギユウ |  |  |
 | ponite korosuke | ポニテコロ介 |  |  |
 | azuse | あずせ | ![あずせ](https://i.pximg.net/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pximg.net/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/member.php?id=71881) |
+| mameojitan | まめおじたん | ![あずせ](https://i.pximg.net/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen<br>](https://i.pximg.net/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/member.php?id=1297967) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
