@@ -2433,7 +2433,7 @@ rules:
 | ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun)<br>[pixiv](https://www.pixiv.net/member.php?id=2473967) |
 | fumi miyabi | 文雅 |  |  |
 | masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
-| nunnu | ぬんぬ |  |  |
+| nunnu | ぬんぬ | ![ぬんぬ](https://i.pximg.net/user-profile/img/2012/04/27/19/46/37/4529987_a3ea7c48b68745e6282cd8014716ba94_170.jpg)<br>文苑堂「COMIC BAVEL」作者<br><br>![ファンキーベイビー](https://pbs.twimg.com/media/EGmlUDIWwAECPLe?format=jpg&name=4096x4096) | [画师推特](https://twitter.com/nunnu_zero) [pixiv](https://www.pixiv.net/member.php?id=467466) |
 | shimanto shisakugata | 40010试作型 |  |  |
 | yuzuna hiyo | 柚子奈ひよ |  |  |
 | kojiki ohji | 古事记王子 |  |  |
