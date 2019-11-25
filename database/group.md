@@ -1564,6 +1564,7 @@ rules:
 | soukousen | 創攻線 |  |  |
 | neko gosho | 猫御所 |  |  |
 | harunatsuakifuyu | 春夏秋冬 |  |  |
+| yoshino | 吉野 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
