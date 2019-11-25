@@ -1563,6 +1563,7 @@ rules:
 | manshin soui | 満身創痍 |  |  |
 | soukousen | 創攻線 |  |  |
 | neko gosho | 猫御所 |  |  |
+| harunatsuakifuyu | 春夏秋冬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
