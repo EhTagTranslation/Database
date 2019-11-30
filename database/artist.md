@@ -2451,7 +2451,7 @@ rules:
 | azuse | あずせ | ![あずせ](https://i.pximg.net/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pximg.net/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/member.php?id=71881) |
 | mameojitan | まめおじたん | ![あずせ](https://i.pximg.net/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen<br>](https://i.pximg.net/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/member.php?id=1297967) |
 | giuniu | ぎうにう | ![ぎうにう](https://i.pximg.net/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん<br>](https://i.pximg.net/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://twitter.com/g1un1u) [pixiv](https://www.pixiv.net/member.php?id=265292) |
-| sabusuka | サブスカ | ![サブスカ](https://i.pximg.net/user-profile/img/2010/11/19/14/53/13/2424336_45bdeecf6e1080b49576ee56fe5f1b14_170.jpg)<br>MUJINCOMICS作者<br><br>![袋男 人妻たちの秘密のバイブ<br>](https://i.pximg.net/img-original/img/2019/04/01/17/24/36/73992295_p0.jpg) | [画师推特](https://twitter.com/sabusuka) [pixiv](https://www.pixiv.net/member.php?id=13316) |
+| sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://twitter.com/sabusuka) [pixiv](https://www.pixiv.net/member.php?id=13316) |
 | senji | 煎路 |  |  |
 | komowata haruka | こもわた遥華 |  |  |
 
