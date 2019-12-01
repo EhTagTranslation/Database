@@ -1565,6 +1565,7 @@ rules:
 | neko gosho | 猫御所 |  |  |
 | harunatsuakifuyu | 春夏秋冬 |  |  |
 | yoshino | 吉野 |  |  |
+| murakami suigun no yakata | 村上水軍の館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
