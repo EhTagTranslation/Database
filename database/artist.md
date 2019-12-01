@@ -2454,6 +2454,7 @@ rules:
 | sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://twitter.com/sabusuka) [pixiv](https://www.pixiv.net/member.php?id=13316) |
 | senji | 煎路 |  |  |
 | komowata haruka | こもわた遥華 |  |  |
+| murakami suigun | 村上水軍 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
