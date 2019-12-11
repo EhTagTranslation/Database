@@ -2456,6 +2456,7 @@ rules:
 | komowata haruka | こもわた遥華 |  |  |
 | murakami suigun | 村上水軍 |  |  |
 | takanae kyourin | 高苗京鈴 |  |  |
+| shirabe shiki | 調四季 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
