@@ -2761,6 +2761,7 @@ rules:
 | yuuma kuga | 空闲游真 | 空闲游真，日本漫画《境界触发者》中的主人公之一。 | [百度百科](https://baike.baidu.com/item/空闲游真) |
 | kokkoro | 可可萝 |  |  |
 | kanon matsubara | 松原花音 |  |  |
+| holo | 赫萝 | 赫萝是《狼与香辛料》的女主角 | https://zh.moegirl.org/%E8%B5%AB%E8%90%9D |
 
 <!--TEMPLATE: 
 |  |  |  |  |
