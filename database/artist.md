@@ -2458,6 +2458,7 @@ rules:
 | takanae kyourin | 高苗京鈴 |  |  |
 | shirabe shiki | 調四季 |  |  |
 | kobuichi | こぶいち |  |  |
+| yaneko uta | 弥猫うた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
