@@ -2460,6 +2460,7 @@ rules:
 | kobuichi | こぶいち |  |  |
 | yaneko uta | 弥猫うた |  |  |
 | kirisaki byakko | 霧咲白狐 |  |  |
+| bareisho | 馬鈴薯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
