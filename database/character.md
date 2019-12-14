@@ -2762,6 +2762,7 @@ rules:
 | kokkoro | 可可萝 |  |  |
 | kanon matsubara | 松原花音 |  |  |
 | holo | 赫萝 | 赫萝是《狼与香辛料》的女主角 | https://zh.moegirl.org/%E8%B5%AB%E8%90%9D |
+| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
