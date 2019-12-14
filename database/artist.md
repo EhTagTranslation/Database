@@ -2459,6 +2459,7 @@ rules:
 | shirabe shiki | 調四季 |  |  |
 | kobuichi | こぶいち |  |  |
 | yaneko uta | 弥猫うた |  |  |
+| kirisaki byakko | 霧咲白狐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
