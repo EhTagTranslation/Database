@@ -66,7 +66,7 @@ rules:
 | shibayuki | しばゆき |  |  |
 | newmen | NeWMeN |  |  |
 | miyasaka miyu | 宮坂みゆ |  |  |
-| miyasaka naco | 宮坂なこ |  |  |
+| miyasaka naco | 宮坂なこ |  | https://www.pixiv.net/member.php?id=5168395 |
 | shimahara | 40原 |  |  |
 | hayakawa akari | 早川あかり |  |  |
 | masaharu | まさはる |  |  |
