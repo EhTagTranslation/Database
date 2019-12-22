@@ -1568,6 +1568,7 @@ rules:
 | murakami suigun no yakata | 村上水軍の館 |  |  |
 | takanaedoko | 高苗床 |  |  |
 | ichijikushirabe shiki | 九調四季 |  |  |
+| aoirokanata | 蒼色彼方 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
