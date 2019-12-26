@@ -2764,6 +2764,7 @@ rules:
 | holo | 赫萝 | 赫萝是《狼与香辛料》的女主角 | https://zh.moegirl.org/%E8%B5%AB%E8%90%9D |
 | chloe von einzbern | 克洛伊·冯·爱因兹贝伦 |  |  |
 | marie rose | 玛丽·萝丝 | 玛丽·萝丝（Marie Rose，又译萝丝·玛丽）是日本游戏公司KOEI TECMO GAMES在PS3,PS4,XBOX 360,XBOX ONE,XBOX ONE S,PC平台上开发的游戏《死或生》（又译《生死格斗》）的第五代中的可选操作角色。 | https://baike.baidu.com/item/%E7%8E%9B%E4%B8%BD%C2%B7%E8%90%9D%E4%B8%9D/18400032?fromtitle=%E7%8E%9B%E4%B8%BD%E7%BD%97%E6%96%AF |
+| helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | https://zh.moegirl.org/zh-hans/%E6%B5%B7%E8%8E%B2%E5%A8%9C(%E6%AD%BB%E6%88%96%E7%94%9F) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
