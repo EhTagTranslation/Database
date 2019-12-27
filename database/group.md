@@ -1570,6 +1570,7 @@ rules:
 | ichijikushirabe shiki | 九調四季 |  |  |
 | aoirokanata | 蒼色彼方 |  |  |
 | kurokudo-ya | 黒クド屋 |  |  |
+| iorigumi | 庵組 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
