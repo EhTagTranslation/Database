@@ -2462,7 +2462,7 @@ rules:
 | kirisaki byakko | 霧咲白狐 |  |  |
 | bareisho | 馬鈴薯 |  |  |
 | wakadori nikomi | 若鶏にこみ |  |  |
-| shikitani asuka | 色谷あすか |  | https://www.pixiv.net/member.php?id=3188698 |
+| shikitani asuka | 色谷あすか |  | [pixiv](https://www.pixiv.net/member.php?id=3188698) |
 | furisuku | ふりすく |  |  |
 
 <!--TEMPLATE: 
