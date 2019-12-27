@@ -2466,6 +2466,7 @@ rules:
 | furisuku | ふりすく |  |  |
 | kosuke haruhito | 虎助遥人 |  |  |
 | tomoe yousuke | 巴八丞 |  |  |
+| tokita alumi | 鴇田アルミ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
