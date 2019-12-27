@@ -273,14 +273,14 @@ rules:
 | pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于受孕(impregnation)。<br>![怀孕的男孩子](https://ehgt.org/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](# "https://ehgt.org/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg")![图](# "https://ehgt.org/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由大玩具(large insertions)或者大根(big penis)引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg") |  |
 |  | == 下半身 == |  |  |
-|  | === 下半身 > 裆部 === |  |  |
+|  | === 下半身 > 阴部 === |  |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或自慰(masturbation)。经常与调教(bdsm)配对。 |  |
 | crotch tattoo | 耻骨纹身 | 下腹部到耻骨区域之间的任何明显的标记。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与腋毛(hairy armpits)混淆。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |  |
-|  | ==== 下半身 > 裆部 > 阴茎 ==== |  |  |
+|  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | adventitious penis | 畸位阴茎 | 在身体的意想不到的地方至少有一个阴茎（例如手、嘴或尾巴）。触手(tentacles)和阴茎乳头(dicknipples)不算。 |  |
 | balls expansion | 睾丸生长 | 睾丸的尺寸增大，可能成为大睾丸(big balls)。 |  |
 | ball sucking | 吸球 | 用嘴在睾丸上吸吮为乐。<br>![图](# "https://ehgt.org/4c/07/4c072eb0bb5ad98418cc70fa0bd99908c31a3ddb-1561179-1600-2294-png_l.jpg") |  |
@@ -298,7 +298,7 @@ rules:
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
-|  | ==== 下半身 > 裆部 > 阴道 ==== |  |  |
+|  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
 | birth | 出产 | 生物诞生的过程，在此之前一般会怀孕(pregnant)。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及大阴蒂(big clit)。依照被插入的一方标记命名空间。 |  |
@@ -361,7 +361,7 @@ rules:
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的长筒袜(stockings)。<br>![图](# "https://ehgt.org/e5/8c/e58c66ab448a6e377f43c58a97b7c7ef46cb0188-726693-1059-1500-jpg_l.jpg") |  |
 | gothic lolita | 哥特萝莉装 | 一种黑暗但有很多褶的服装风格。<br>![图](# "https://ehgt.org/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg")![图](# "https://ehgt.org/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg") |  |
 | gymshorts | 运动短裤 | 短的运动裤子，颜色和长度可以改变。不应与布鲁马(bloomers)或自行车短裤(bike shorts)混淆。<br>![图](# "https://ehgt.org/5d/13/5d13fffb1cb16c99d3eb77c53ff3e57985723fa5-3645640-2149-3035-jpg_l.jpg")![图](https://ehgt.org/a1/2f/a12fdf19d1ebdac40a1ca5a00c88374ef6774e30-543473-1024-768-png_l.jpg)![图](https://ehgt.org/39/1e/391e16bc04b9bb369ab9d438172d3366eb6893fb-103453-648-865-jpg_250.jpg) |  |
-| haigure | 高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的女孩，强调裆部的位置。 |  |
+| haigure | 高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的女孩，强调阴部的位置。 |  |
 | hijab | 头巾 | 一个覆盖头部和胸部的面纱，主要用于遮盖头发。需要异性装(crossdressing)标签。 |  |
 | hotpants | 热裤 | 短的，突出臀部和腿部。不应与自行车短裤(bike shorts)、布鲁马(bloomers)或运动短裤(gymshorts)混淆。<br>![图](# "https://ehgt.org/36/82/3682e6eaf2bd56cbd040ceab913ce0f0a6fe09d8-1066447-1583-2211-jpg_l.jpg")![图](# "https://ehgt.org/d5/b0/d5b0e6b1ea48edcb602d0e941c9c85fde7a46666-6458880-2140-3000-png_l.jpg")![图](# "https://ehgt.org/42/1e/421ed5fc2646003024de98d281a16ab36e6a7e63-4741499-1600-2282-jpg_l.jpg") |  |
 | kigurumi | 全身套装 | 包括描绘角色面具的全身服装。不应与连体紧身衣(bodysuit)和皮物(skinsuit)标签混淆。当全身套装的性别与其穿戴者的性别不同时，需要异性装(crossdressing)标签。<br>![图](https://ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](https://ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](https://ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |  |
