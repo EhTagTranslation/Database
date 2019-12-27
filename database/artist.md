@@ -2464,6 +2464,7 @@ rules:
 | wakadori nikomi | 若鶏にこみ |  |  |
 | shikitani asuka | 色谷あすか |  | [pixiv](https://www.pixiv.net/member.php?id=3188698) |
 | furisuku | ふりすく |  |  |
+| kosuke haruhito | 虎助遥人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
