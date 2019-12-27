@@ -2465,6 +2465,7 @@ rules:
 | shikitani asuka | 色谷あすか |  | [pixiv](https://www.pixiv.net/member.php?id=3188698) |
 | furisuku | ふりすく |  |  |
 | kosuke haruhito | 虎助遥人 |  |  |
+| tomoe yousuke | 巴八丞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
