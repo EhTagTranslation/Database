@@ -299,14 +299,14 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于受孕(impregnation)。<br>![图](# "https://ehgt.org/ea/55/ea558b8de582f8ede8f1fcc3d5dd31b41b52eabf-176359-800-600-jpg_l.jpg")![图](# "https://ehgt.org/8f/76/8f76ebc9dc6dcbc8660da6965caa98d66b0208e9-158245-800-600-jpg_l.jpg")![图](# "https://ehgt.org/90/8b/908bcf9f0614186e584dea400a070bac3fdfd65d-140098-800-600-jpg_l.jpg")![图](# "https://ehgt.org/03/8f/038fe08d0775c523bf865cfaf468f8c73b14d81b-556345-800-600-png_l.jpg")![图](# "https://ehgt.org/57/47/57470b45c00f318c065da2730e81cb18eb2f4fd3-535347-800-600-png_l.jpg")![图](# "https://ehgt.org/b7/69/b769ae1a657918ea041c9e6420de6b66be3b709a-386664-800-600-png_l.jpg")![图](# "https://ehgt.org/65/01/6501de93f3cb8ca6aac86d0c082c37b235346744-168878-713-1000-jpg_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由大玩具(large insertions)或者大根(big penis)引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg") |  |
 |  | == 下半身 == |  |  |
-|  | === 下半身 > 裆部 === |  |  |
+|  | === 下半身 > 阴部 === |  |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或自慰(masturbation)。经常与调教(bdsm)配对。 |  |
 | crotch tattoo | 耻骨纹身 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与腋毛(hairy armpits)混淆。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![图](# "https://ehgt.org/2f/59/2f59ac690770c88d939a9dc2034fcad4deb36163-2706803-1920-1080-png_l.jpg")![图](# "https://ehgt.org/3a/c3/3ac343c961b4513d71d10515b036b228ba3784af-1850375-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |  |
-|  | ==== 下半身 > 裆部 > 阴茎 ==== |  |  |
+|  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | adventitious penis | 畸位阴茎 | 在身体的意想不到的地方至少有一个阴茎（例如手、嘴或尾巴）。触手(tentacles)和阴茎乳头(dicknipples)不算。 |  |
 | balls expansion | 睾丸生长 | 睾丸的尺寸增大，可能成为大睾丸(big balls)。 |  |
 | ball sucking | 吸球 | 用嘴在睾丸上吸吮为乐。<br>![图](# "https://ehgt.org/07/f7/07f73137b2ed4b6d2f061a4150f68c5f73ad6932-271676-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/27/f0/27f0bc60380d17da8c25dcee7517f5b0a32d1d19-133851-620-848-jpg_l.jpg")![图](# "https://ehgt.org/cc/8d/cc8d92f8ba7e45c126826a67441e49d2365e1faa-103938-750-1000-jpg_l.jpg") |  |
@@ -324,7 +324,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
-|  | ==== 下半身 > 裆部 > 阴道 ==== |  |  |
+|  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
 | big clit | 大阴蒂 | 不正常的巨大阴蒂。不应与大阴道(big vagina)或扶她(futanari)混淆，即使阴蒂以类似的方式使用。 |  |
 | big vagina | 大阴道 | 异常大的阴道，有时只是阴唇。不应与大阴蒂(big clit)混淆。<br>![图](# "https://ehgt.org/ee/91/ee917d669de61e299a61510c0e81556f1870191f-411920-765-900-jpg_250.jpg")![图](# "https://ehgt.org/c9/b4/c9b4ea920728c6476404047fa18f6ddefea14c67-99639-533-730-jpg_l.jpg")![图](# "https://ehgt.org/1e/99/1e990a53745e450c76c5226aba9c80a138c98e9c-264926-640-800-jpg_l.jpg") |  |
@@ -451,7 +451,8 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：后宫(harem)、夹心蛋糕(layer cake)、男扶女(mtf threesome)、男男扶(mmt threesome)、男女男(mmf threesome)、扶扶男(ttm threesome)、扶扶女(ttf threesome)、女女男(ffm threesome)、和女女扶(fft threesome)等 3P 标签。其中 t 为变性人(transsexual)，包含扶她(futanari)和人妖♂(shemale)，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](# "https://ehgt.org/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg")![图](# "https://ehgt.org/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg")![图](# "https://ehgt.org/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![图](# "https://ehgt.org/6b/dc/6bdc2973ee102b91685e686e6605fc48c16d1621-201446-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/02/20/02200b144cb6c1b7b671198942d71764c742ba0c-509066-800-600-png_l.jpg")![图](# "https://ehgt.org/9a/25/9a2589446a813229eabb2e08617228ced475814a-161746-800-600-jpg_l.jpg")![图](# "https://ehgt.org/ce/1d/ce1d4b2fe689efc515bb91a5721fe9054f75463b-167173-800-600-jpg_l.jpg")![图](# "https://ehgt.org/5b/cf/5bcf8845e6681cce06db4d0cf722e57a49528f5c-578254-800-600-png_l.jpg")![图](# "https://ehgt.org/71/3c/713c6269c9516e96c9541bae5fba29d329c16d94-601548-1024-600-png_l.jpg")![图](# "https://ehgt.org/c1/07/c107b406d777a9477a21cce35730160c9d7099e1-180625-800-600-jpg_l.jpg")![图](# "https://ehgt.org/14/6d/146d24b258de6266b974f31de60d077b98e426a8-132540-800-600-jpg_l.jpg")![图](# "https://ehgt.org/51/76/5176826ecf85577d5eff755575f453a62791cfd9-509481-944-708-jpg_l.jpg")![图](# "https://ehgt.org/aa/5d/aa5dec12feba976949843189cc8e3689d38f130e-1155161-1024-768-png_l.jpg") |  |
-| oyakodon | 母女丼 | 母亲和女儿与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
+| oyakodon | 母女丼 | 母亲和女儿（们）同时与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
+| shimaidon | 姐妹丼 | 具有血缘关系的姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。| |
 | triple anal | 三插肛门 | 三根阴茎同时插入肛门。 |  |
 | triple vaginal | 三插阴道 | 三根阴茎、性玩具(sex toys)或其他物体同时插入阴道。 |  |
 | ttf threesome | 扶扶女 | ⚥♀⚥，2 扶 1 女 3P。需要乱交(group)标签。不算百合(yuri)。<br>![图](# "https://ehgt.org/1b/f0/1bf0d0cda4a6e41ce0c3cd09c2f841ecd5c41aad-2306019-2143-3049-jpg_l.jpg") |  |
