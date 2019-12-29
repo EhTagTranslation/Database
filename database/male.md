@@ -118,7 +118,7 @@ rules:
 | insect | 昆虫🐜 | 任何陆生无脊椎动物。 |  |
 | kangaroo | 袋鼠 | 任何有袋类动物。 |  |
 | lion | 狮🦁 | 任何有蓬松鬃毛的雄性豹属动物。 |  |
-| low bestiality | 未通过兽交 | 表示兽交(bestiality)的情况没有通过存在规则(presence rule)。<br>需要兽交(bestiality)标签。 |  |
+| low bestiality | 未通过兽交 | 表示兽交(bestiality)的情况没有通过存在规则(presence rule)。需要兽交(bestiality)标签。 |  |
 | maggot | 蛆🐛 | 任何幼体（两栖类、昆虫、刺丝胞动物在变态为蛹或成体之前的状态）动物。 |  |
 | monkey | 猴🐒 | 任何小型灵长目动物。 |  |
 | mouse | 鼠🐀 | 任何啮齿目动物。 |  |
@@ -168,6 +168,7 @@ rules:
 | ahegao | 阿黑颜 | 夸张的面部表情表示高兴，通常包括上瞟的白眼，张开大嘴，舌头伸出来。通常出现在性的高潮。如果此表现的来源是由疼痛引起，则不算。<br>![ahegao](https://cloud.githubusercontent.com/assets/5716100/15511173/105436d0-220d-11e6-87f0-b2d4eca138bf.png)![图](# "https://ehgt.org/4e/45/4e45fd83ef719e9b7bdee70c25bfa4b68371529f-740277-1133-1600-jpg_l.jpg")![图](# "https://ehgt.org/77/13/771350a660bfbdac29fe6c88ac07051a6ca22ea1-527873-606-850-jpg_l.jpg") |  |
 | beauty mark | 美人痣 | 深色的面部痣，通常在眼睛附近。不包括眉心红点、穿孔、纹身或印章等面部附加装饰。 |  |
 | brain fuck | 脑交🧠 | 涉及大脑的性行为。 |  |
+| cockslapping | 屌掴 | 用阴茎打人（通常是脸）。 |  |
 | crown | 王冠👑 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与宝冠(tiara)混淆。 |  |
 | elf | 精灵🧝‍♂️ | 通常有尖耳朵和苗条的身体。 |  |
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性主导(femdom)或调教(bdsm)配对。 |  |
@@ -215,9 +216,11 @@ rules:
 | sunglasses | 太阳镜🕶 | 用于改善在阳光下视力的有色框架眼镜。需要佩戴在眼前才能添加此标签。不应与眼镜(glasses)混淆。 |  |
 | unusual pupils | 异瞳 | 瞳孔是或包含奇怪的形状，如心形、星形。除非是意想不到的形状，否则不应该用于动物/恶魔的眼睛。 |  |
 |  | === 头部 > 鼻子 === |  |  |
+| nose fuck | 鼻交 | 插入鼻孔的性交。 |  |
 | nose hook | 鼻吊钩 | 用钩子把鼻孔向上拉，打开鼻孔。 经常与束缚(bondage)配对。 |  |
 | smell | 气味 | 发出强烈，耸人听闻的气味的行为。 |  |
 |  | === 头部 > 嘴 === |  |  |
+| adventitious mouth | 畸位口 | 在身体的意想不到的地方至少有一个嘴（例如手、躯干或尾巴）。 |  |
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与吸球(ball sucking)混淆。是口交颜(blowjob face)、深喉(deepthroat)的前置标签。<br>![图](# "https://ehgt.org/05/78/057878e28779bc0d2972428bc45f7953338ee8e7-618322-1024-576-png_l.jpg")![图](# "https://ehgt.org/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg")![图](# "https://ehgt.org/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg") |  |
 | blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要口交(blowjob)标签。<br>![图](# "https://ehgt.org/1f/cb/1fcbdcaa3e81a591db1feac10944d83f231584f4-406010-902-711-jpg_l.jpg")![图](# "https://ehgt.org/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg")![图](# "https://ehgt.org/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg") |  |
 | burping | 打嗝 | 可见的打嗝行为。 |  |
@@ -416,6 +419,7 @@ rules:
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
 | oyakodon | 父子丼 | 父亲和儿子与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
+| shimaidon | 兄弟丼 | 具有血缘关系的兄弟两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。| |
 | triple anal | 三插肛门 | 三根阴茎同时插入肛门。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 |  |
 |  | === 多人活动 > 多个洞 === |  |  |
@@ -434,6 +438,7 @@ rules:
 | syringe | 注射器 | 由管、柱塞和连接的针组成的工具。用于注射液体。常与药物(drugs)或乳房膨胀(breast expansion)一起使用。 |  |
 | tail plug | 尾塞 | 任何尾部性玩具。需要性玩具(sex toys)和肛交(anal)标签。 |  |
 | tube | 插管 | 插入口中的任何圆柱形管子，用于供给流体或营养物质。 |  |
+| unusual insertions | 异物插入 | 将通常不用于性活动或医学检查的无生命物体插入生殖器或肛门的行为。需要性玩具(sex toys)标签。 |  |
 | vacbed | 真空床 | 用于调教(bdsm)或束缚(bondage)的真空床。 |  |
 | whip | 鞭打 | 用于捆绑或打击动物或人以造成中度疼痛的工具。以这种方式使用的其他物品也用此标签。可能需要调教(bdsm)标签。 |  |
 | wooden horse | 木马 | 任何具有上三角形形状的装置，受害者跨越其顶部，通常将他们的体重放在生殖器上。需要束缚(bondage)标签。 |  |
@@ -476,6 +481,7 @@ rules:
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要机器人(robot)标签。 |  |
 | guro | 肢解 | 肢解人类或毛茸茸(furry)。不用于温和的血液(blood)或暴力。不应与杀害(snuff)混淆。不需要血液(blood)标签。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
+| low guro | 未通过肢解 | 表示肢解(guro)的情况没有通过存在规则(presence rule)。需要肢解(guro)标签。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于拷打(torture)的程度。不应与摔角(wrestling)混淆。 |  |
 | snuff | 杀害 | 杀害人类或毛茸茸(furry)。不应与肢解(guro)混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
 | torture | 拷打 | 使用各种技术来制造痛苦。通常使用各种不寻常的性玩具(sex toys)，但也可能有更多古怪的主题，如肢解(guro)。不一定是调教(bdsm)。 |  |
