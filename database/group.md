@@ -1571,6 +1571,7 @@ rules:
 | aoirokanata | 蒼色彼方 |  |  |
 | kurokudo-ya | 黒クド屋 |  |  |
 | iorigumi | 庵組 |  |  |
+| kedama gyuunyuu | 毛玉牛乳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
