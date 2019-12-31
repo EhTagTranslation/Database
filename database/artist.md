@@ -2467,6 +2467,7 @@ rules:
 | kosuke haruhito | 虎助遥人 |  |  |
 | tomoe yousuke | 巴八丞 |  |  |
 | tokita alumi | 鴇田アルミ |  |  |
+| poshi | ぽし |  | [pixiv](https://www.pixiv.net/member.php?id=8926) [twitter](https://twitter.com/hginmoku_poshi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
