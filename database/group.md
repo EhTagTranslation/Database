@@ -1572,6 +1572,7 @@ rules:
 | kurokudo-ya | 黒クド屋 |  |  |
 | iorigumi | 庵組 |  |  |
 | kedama gyuunyuu | 毛玉牛乳 |  |  |
+| gyuunyuuya-san | 牛乳屋さん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
