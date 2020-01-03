@@ -1573,6 +1573,7 @@ rules:
 | iorigumi | 庵組 |  |  |
 | kedama gyuunyuu | 毛玉牛乳 |  |  |
 | gyuunyuuya-san | 牛乳屋さん |  |  |
+| senpenbankashiki | 千変万化式 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
