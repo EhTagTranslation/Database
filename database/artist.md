@@ -2468,6 +2468,7 @@ rules:
 | tomoe yousuke | 巴八丞 |  |  |
 | tokita alumi | 鴇田アルミ |  |  |
 | poshi | ぽし |  | [pixiv](https://www.pixiv.net/member.php?id=8926) [twitter](https://twitter.com/hginmoku_poshi) |
+| haguruma | 歯車 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
