@@ -1574,6 +1574,7 @@ rules:
 | kedama gyuunyuu | 毛玉牛乳 |  |  |
 | gyuunyuuya-san | 牛乳屋さん |  |  |
 | senpenbankashiki | 千変万化式 |  |  |
+| amakuchi syoujo | あまくち少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
