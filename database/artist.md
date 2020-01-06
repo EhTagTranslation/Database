@@ -2470,6 +2470,7 @@ rules:
 | poshi | ぽし |  | [pixiv](https://www.pixiv.net/member.php?id=8926) [twitter](https://twitter.com/hginmoku_poshi) |
 | haguruma | 歯車 |  |  |
 | kanekiyo miwa | 兼清みわ |  |  |
+| gayarou | ☆画野朗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
