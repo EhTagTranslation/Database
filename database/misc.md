@@ -39,7 +39,7 @@ rules:
 | mmt threesome | 男扶男 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
-| shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。| |
+| shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。 |  |
 | ttm threesome | 扶扶男 | ⚥♂⚥，2 扶 1 男 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 |  |
 |  | == 工具 == |  |  |
@@ -81,7 +81,7 @@ rules:
 | non-nude | 无裸体 | 没有展示乳头或性孔的画廊。仅用于 Cosplay 画廊。 |  |
 |  | === 技术 > 移除原因 === |  |  |
 | already uploaded | 已上传 | 这个画廊是之前发布画廊的相同或较低质量版本。 |  |
-| compilation | 重复 | 这个画廊是之前发布画廊的相同或较低质量版本。 |  |
+| compilation | 汇编 | 这个该画廊是不允许在一起的作品的汇编。 |  |
 | forbidden content | 禁止内容 | 此画廊包含非法内容，如儿童色情内容或[服务条款](https://e-hentai.org/tos.php)所禁止的其他内容，或属于[清除指南](https://ehwiki.org/wiki/Expunging#Forbidden)的其他内容。 |  |
 | realporn | 真人色情 | 非 Cosplay 的真人色情；通用 Cosplay（任何不是来自已经建立的系列或人物的 Cosplay ）。 |  |
 | replaced | 已替换 | 这个画廊的更高质量的版本已经上传。 |  |

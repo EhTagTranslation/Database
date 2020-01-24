@@ -16,7 +16,7 @@ jobs:
     - uses: actions/checkout@v1
     - uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: 2.2.402
+        dotnet-version: 3.1.101
     - name: Install tools
       shell: pwsh
       run: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
