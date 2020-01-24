@@ -226,7 +226,7 @@ rules:
 | burping | 打嗝 | 可见的打嗝行为。 |  |
 | coprophagia | 食粪 | 需要排便(scat)标签。 |  |
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。需要口交(blowjob)标签。<br>![图](# "https://ehgt.org/12/13/121392d6bed3ec1101d993aac7f3117ca643d6ec-672297-1920-2720-jpg_l.jpg")![图](# "https://ehgt.org/60/cb/60cbf026b6e78cbe9648af3df10c764f7a61f985-726641-1920-2720-jpg_l.jpg") |  |
-| double blowjob | 双重口交 | 两个阴茎插入同一张嘴。不需要口交(blowjob)标签，除非涉及单一阴茎的行为分开发生。<br>![图](# "https://ehgt.org/b1/98/b1988009e02d961de86cff7b501eccf65ab7db5c-1285019-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/e5/e6/e5e6fa341601838b9781bef5ef1119f1e48993cb-1879697-1500-2118-jpg_l.jpg") |  |
+| double blowjob | 一食二鸟 | 两个阴茎插入同一张嘴。不需要口交(blowjob)标签，除非涉及单一阴茎的行为分开发生。<br>![图](# "https://ehgt.org/1f/c6/1fc64efe6699c5c077195b52e319d591d304b62d-1741282-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/1b/01/1b019842eaf57e538f4f7143909e36761e787dcd-812799-1072-1500-jpg_l.jpg") |  |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](# "https://ehgt.org/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg")![图](# "https://ehgt.org/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg") |  |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及束缚(bondage)。 |  |
 | gokkun | 饮精 | 喝下精液。在口交(blowjob)后进行的此行为不被包含在内，必须单独发生。<br>![图](# "https://ehgt.org/77/92/7792cf36262a0ed3b5d93710439162b108d33ef9-3988229-1200-1695-png_l.jpg") |  |
@@ -419,7 +419,7 @@ rules:
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要乱交(group)标签。不用于强奸(rape)的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要乱交(group)标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
 | oyakodon | 父子丼 | 父亲和儿子与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
-| shimaidon | 兄弟丼 | 具有血缘关系的兄弟两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。| |
+| shimaidon | 兄弟丼 | 具有血缘关系的兄弟两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。 |  |
 | triple anal | 三插肛门 | 三根阴茎同时插入肛门。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 |  |
 |  | === 多人活动 > 多个洞 === |  |  |
