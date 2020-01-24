@@ -2476,6 +2476,7 @@ rules:
 | tsubaki jushirou | 椿十四郎 |  |  |
 | tukinowagamo | 月ノ輪ガモ |  |  |
 | uron rei | ウーロン・レイ |  |  |
+| mushanokouji shizuka | 武者小路静香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
