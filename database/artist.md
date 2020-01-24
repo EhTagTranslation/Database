@@ -2478,6 +2478,7 @@ rules:
 | uron rei | ウーロン・レイ |  |  |
 | mushanokouji shizuka | 武者小路静香 |  |  |
 | emori uki | 江森うき |  |  |
+| shindou | しんどう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
