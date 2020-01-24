@@ -2475,6 +2475,7 @@ rules:
 | tokiwa midori | 常磐緑 |  |  |
 | tsubaki jushirou | 椿十四郎 |  |  |
 | tukinowagamo | 月ノ輪ガモ |  |  |
+| uron rei | ウーロン・レイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
