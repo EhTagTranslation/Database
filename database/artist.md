@@ -2477,6 +2477,7 @@ rules:
 | tukinowagamo | 月ノ輪ガモ |  |  |
 | uron rei | ウーロン・レイ |  |  |
 | mushanokouji shizuka | 武者小路静香 |  |  |
+| emori uki | 江森うき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
