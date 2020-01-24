@@ -2474,6 +2474,7 @@ rules:
 | yashiro seika | 八城惺架 |  |  |
 | tokiwa midori | 常磐緑 |  |  |
 | tsubaki jushirou | 椿十四郎 |  |  |
+| tukinowagamo | 月ノ輪ガモ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
