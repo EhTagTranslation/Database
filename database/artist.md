@@ -2472,7 +2472,7 @@ rules:
 | kanekiyo miwa | 兼清みわ |  |  |
 | gayarou | ☆画野朗 |  |  |
 | yashiro seika | 八城惺架 |  |  |
-| tokiwa midori | 常磐绿 |  |  |
+| tokiwa midori | 常磐緑 |  |  |
 | tsubaki jushirou | 椿十四郎 |  |  |
 
 <!--TEMPLATE: 
