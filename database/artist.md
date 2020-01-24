@@ -2479,6 +2479,7 @@ rules:
 | mushanokouji shizuka | 武者小路静香 |  |  |
 | emori uki | 江森うき |  |  |
 | shindou | しんどう |  |  |
+| kikurage | きくらげ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
