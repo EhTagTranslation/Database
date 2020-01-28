@@ -2480,6 +2480,7 @@ rules:
 | emori uki | 江森うき |  |  |
 | shindou | しんどう |  |  |
 | kikurage | きくらげ |  |  |
+| sanom | 鎖ノム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
