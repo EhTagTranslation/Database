@@ -2482,6 +2482,7 @@ rules:
 | kikurage | きくらげ |  |  |
 | sanom | 鎖ノム |  |  |
 | amagasa ikuta | 雨暈郁太 |  |  |
+| sukesaburou | 助三郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
