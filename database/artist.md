@@ -2481,6 +2481,7 @@ rules:
 | shindou | しんどう |  |  |
 | kikurage | きくらげ |  |  |
 | sanom | 鎖ノム |  |  |
+| amagasa ikuta | 雨暈郁太 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
