@@ -1576,6 +1576,7 @@ rules:
 | senpenbankashiki | 千変万化式 |  |  |
 | amakuchi syoujo | あまくち少女 |  |  |
 | akutoku doumei | 悪徳同盟 |  |  |
+| andorogynous | ANDOROGYNOUS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
