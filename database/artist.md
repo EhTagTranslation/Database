@@ -2483,6 +2483,7 @@ rules:
 | sanom | 鎖ノム |  |  |
 | amagasa ikuta | 雨暈郁太 |  |  |
 | sukesaburou | 助三郎 |  |  |
+| jiraiya | 児雷也 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
