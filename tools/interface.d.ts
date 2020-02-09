@@ -41,7 +41,15 @@ declare namespace EhTag {
     interface NamespaceInfo {
         count: number;
         namespace: NamespaceName;
+        frontMatters: FrontMatters;
+    }
 
+    interface FrontMatters {
+        key: NamespaceName;
+        name: string;
+        description: string;
+        copyright?: string;
+        rules?: string[];
     }
 
     interface NamespaceData<T extends TagType> extends NamespaceInfo {
@@ -69,7 +77,7 @@ declare namespace EhTag {
         type Tree = ParaNode[];
 
         type NodeType = 'paragraph' | 'text' | 'br' | 'code' | 'image' | 'link' | 'emphasis' | 'strong';
-        
+
         interface Node {
             type: NodeType;
         }

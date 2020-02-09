@@ -1,30 +1,17 @@
-本页储存标签列表的艺术家(artist)翻译。
+---
+key: artist
+name: 艺术家
+description: 绘画作者/Coser。
+copyright: |
+    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
 
-版权声明
----------------  
-对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
+rules:
+- 日文名中有汉字者优先写含汉字的名称，可在描述中写全假名或国内译名。
+- 描述图片可用作者 P 站头像，或者为你自己喜爱的画师做一张图片，P 站头像无法外链，建议传新浪微博等能方便外链图片的地方。为排版好看，头像高度建议 200px 以内，当然头像里明显H的就不要放了。
+---
 
-对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
-
-书写规则
----------------
-### 请按照如下规则：
-* 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。或者使用文本介绍时写在简介中。
-* 图片也可用作者P站头像，或者为你自己喜爱的画师做一张图片简介，P站头像无法外链，建议传新浪微博等能方便外链图片的地方。
-
-### 目前阶段建议规则：
-* 建议简介书写格式
-  ``` html
-  P站或其他能找到的作者头像<br>
-  对作者的一点文字简介<br>
-  某个代表作者特色的作品。
-  ```
-* 为排版好看，头像高度建议200px以内，当然头像里明显H的就不要放了。
-
-条目内容
-----------------
-
-| 英文原名 | 中文名 | 简介 | 外部链接 |
+| 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | ▼示例 |  |  |
 | pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>萌单作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | [画师推特](https://twitter.com/popemw) |
@@ -79,7 +66,7 @@
 | shibayuki | しばゆき |  |  |
 | newmen | NeWMeN |  |  |
 | miyasaka miyu | 宮坂みゆ |  |  |
-| miyasaka naco | 宮坂なこ |  |  |
+| miyasaka naco | 宮坂なこ |  | https://www.pixiv.net/member.php?id=5168395 |
 | shimahara | 40原 |  |  |
 | hayakawa akari | 早川あかり |  |  |
 | masaharu | まさはる |  |  |
@@ -2445,8 +2432,8 @@
 | bekotarou | べこ たろう | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) |
 | ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun)<br>[pixiv](https://www.pixiv.net/member.php?id=2473967) |
 | fumi miyabi | 文雅 |  |  |
-| masuda | 枡田 |  |  |
-| nunnu | ぬんぬ |  |  |
+| masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
+| nunnu | ぬんぬ | ![ぬんぬ](https://i.pximg.net/user-profile/img/2012/04/27/19/46/37/4529987_a3ea7c48b68745e6282cd8014716ba94_170.jpg)<br>文苑堂「COMIC BAVEL」作者<br><br>![ファンキーベイビー](https://pbs.twimg.com/media/EGmlUDIWwAECPLe?format=jpg&name=4096x4096) | [画师推特](https://twitter.com/nunnu_zero) [pixiv](https://www.pixiv.net/member.php?id=467466) |
 | shimanto shisakugata | 40010试作型 |  |  |
 | yuzuna hiyo | 柚子奈ひよ |  |  |
 | kojiki ohji | 古事记王子 |  |  |
@@ -2458,6 +2445,44 @@
 | maihara matsuge | 舞原マツゲ |  |  |
 | genzou kokuto | 幻像黒兎 |  |  |
 | kiyomiya ryo | 清宮涼 |  |  |
+| yamashita kurowo | 山下クロヲ |  |  |
+| yanagi yuu | ヤナギユウ |  |  |
+| ponite korosuke | ポニテコロ介 |  |  |
+| azuse | あずせ | ![あずせ](https://i.pximg.net/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pximg.net/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/member.php?id=71881) |
+| mameojitan | まめおじたん | ![あずせ](https://i.pximg.net/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen<br>](https://i.pximg.net/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/member.php?id=1297967) |
+| giuniu | ぎうにう | ![ぎうにう](https://i.pximg.net/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん<br>](https://i.pximg.net/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://twitter.com/g1un1u) [pixiv](https://www.pixiv.net/member.php?id=265292) |
+| sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://twitter.com/sabusuka) [pixiv](https://www.pixiv.net/member.php?id=13316) |
+| senji | 煎路 |  |  |
+| komowata haruka | こもわた遥華 |  |  |
+| murakami suigun | 村上水軍 |  |  |
+| takanae kyourin | 高苗京鈴 |  |  |
+| shirabe shiki | 調四季 |  |  |
+| kobuichi | こぶいち |  |  |
+| yaneko uta | 弥猫うた |  |  |
+| kirisaki byakko | 霧咲白狐 |  |  |
+| bareisho | 馬鈴薯 |  |  |
+| wakadori nikomi | 若鶏にこみ |  |  |
+| shikitani asuka | 色谷あすか |  | [pixiv](https://www.pixiv.net/member.php?id=3188698) |
+| furisuku | ふりすく |  |  |
+| kosuke haruhito | 虎助遥人 |  |  |
+| tomoe yousuke | 巴八丞 |  |  |
+| tokita alumi | 鴇田アルミ |  |  |
+| poshi | ぽし |  | [pixiv](https://www.pixiv.net/member.php?id=8926) [twitter](https://twitter.com/hginmoku_poshi) |
+| haguruma | 歯車 |  |  |
+| kanekiyo miwa | 兼清みわ |  |  |
+| gayarou | ☆画野朗 |  |  |
+| yashiro seika | 八城惺架 |  |  |
+| tokiwa midori | 常磐緑 |  |  |
+| tsubaki jushirou | 椿十四郎 |  |  |
+| tukinowagamo | 月ノ輪ガモ |  |  |
+| uron rei | ウーロン・レイ |  |  |
+| mushanokouji shizuka | 武者小路静香 |  |  |
+| emori uki | 江森うき |  |  |
+| shindou | しんどう |  |  |
+| kikurage | きくらげ |  |  |
+| sanom | 鎖ノム |  |  |
+| amagasa ikuta | 雨暈郁太 |  |  |
+| sukesaburou | 助三郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

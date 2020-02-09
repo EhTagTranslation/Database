@@ -1,22 +1,18 @@
-本页储存标签列表的原作(parody)翻译。
+---
+key: parody
+name: 原作
+description: 同人作品模仿的原始作品。
+copyright: |
+    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
 
-版权声明
----------------  
-对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
+rules:
+- 优先写公认的中文翻译，不知道的也可以写日文原名。
+- 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
+- 图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
+---
 
-对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
-
-书写规则
----------------
-### 请按照如下规则：
-* 优先写公认的中文翻译，不知道的也可以写日文原名。
-* 第一推荐[萌娘百科](https://zh.moegirl.org/)，也可以用百度百科或[维基百科](https://zh.wikipedia.org/)查译名。
-* 图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
-
-条目内容
-----------------
-
-| 英文原名 | 中文名 | 简介 | 外部链接 |
+| 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于同人志(doujinshi)分类。 |  |
 | touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project⛩ | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |  |
@@ -36,7 +32,7 @@
 | kantai collection | ![大船](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection | ![图](https://img.moegirl.org/common/thumb/d/d4/舰队Collection_Poster.jpg/424px-舰队Collection_Poster.jpg) | [官网地址](http://www.kadokawagames.co.jp/KanColle/)<br>[萌百介绍](https://zh.moegirl.org/舰队Collection#.E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5) |
 | pokemon | ![精灵球](http://ww2.sinaimg.cn/large/6c84b2d6gw1f41npvfdneg200d00d042.gif)精灵宝可梦 | ![图](https://ehgt.org/8c/96/8c961e0f970654081fdbeb953b1987c46f748399-1125751-1050-1000-png_l.jpg)![图](https://ehgt.org/d9/c3/d9c313025eafe3fe0fe88f524d95a2bc17abaaad-984342-1000-700-png_l.jpg)![图](https://ehgt.org/61/11/611191f1607da3ad9ee5a148456a8976dae6c9a8-1017825-850-900-png_l.jpg) |  |
 | higurashi no naku koro ni | 寒蝉鸣泣之时🔪 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.acg.moe/common/thumb/f/fd/寒蝉鸣泣之时.jpg/250px-寒蝉鸣泣之时.jpg)![图](https://ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](https://ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |  |
-| saki | 天才麻将少女🀄️ | ![天才援交少女](https://img.acg.moe/common/thumb/3/30/5307118.jpg/440px-5307118.jpg) |  |
+| saki | 天才麻将少女🀄️ | ![天才援交少女](https://img.moegirl.org/common/4/4d/Saki_Vol1.jpg)<br>《天才麻将少女》（日语：咲-Saki-）是由小林立创作的一部漫画，并有网络广播、动画、游戏、电视剧、电影等衍生作品。 | [萌娘百科](https://zh.moegirl.org/天才麻将少女) |
 | puella magi madoka magica | 魔法少女小圆 | ![魔法少女小圆](https://ehgt.org/fe/02/fe02fd2a2494a1447b5ac4604b2e49747ab79110-1454774-3500-2447-jpg_l.jpg)![魔法少女小圆](https://ehgt.org/50/89/5089bdadbbc02fe83fa6d41adcb73bd84868cfc2-1530892-2489-3500-jpg_l.jpg) |  |
 | puella magi madoka magica side story magia record | 魔法纪录 魔法少女小圆外传 | 《魔法纪录 魔法少女小圆外传》（日语：マギアレコード 魔法少女まどか☆マギカ外伝，简称“マギレコ”），简称“魔法纪录”，又译“魔法记录”，是改编自电视动画《魔法少女小圆》的智能手机角色扮演游戏。是由f4samurai制作、Aniplex营运。于2017年8月22日上线。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法紀錄_魔法少女小圓外傳) (\*) |
 | toradora | 龙与虎 | ![图](# "https://ehgt.org/ed/23/ed2308ca97f9b5c4baa2e9443f41a36f5bc569a9-5840611-2150-3025-png_l.jpg")![图](https://ehgt.org/92/84/92844666eb565c37c4713a46aef93f82e8538881-4209124-2138-3000-jpg_l.jpg)![图](https://ehgt.org/49/e8/49e8946e3c5bc06c87dca62ad9806525bd8a6e02-345835-1121-1600-jpg_l.jpg) |  |
@@ -156,6 +152,7 @@
 | maho girls precure | 魔法使 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | kirakira precure a la mode | KiraKira☆光之美少女A La Mode |  |  |
 | hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと!プリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/HUG！光之美少女) (\*) |
+| star twinkle precure | Star☆Twinkle光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/wiki/Star☆Twinkle_光之美少女) (\*) |
 |  | ▲ 光美大军 |  |  |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](# "https://ehgt.org/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg")![图](# "https://ehgt.org/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg") |  |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](https://ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](https://ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |  |
@@ -1409,15 +1406,20 @@
 | tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影。 |  |
 | arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
 | asobi asobase | 游戏3人娘 | 生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏人间研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！ | [萌娘百科](https://zh.moegirl.org/游戏3人娘) [维基百科](https://zh.wikipedia.org/wiki/遊戲3人娘) |
-| zombie land saga | 佐贺偶像是传奇 | 一如往常的早晨。一如往常的音乐。一如往常的自己。<br><br>7名少女的安宁，突然崩溃。<br><br>因蠢动的死者——僵尸而崩溃……<br><br>不容分说地踏入的世界，那里是“最好×最坏的僵尸世界”<br><br>少女们的愿望，只有一个。<br><br>“我们，想要活下去。”<br><br>这是少女们引发奇迹的故事。 | [萌娘百科](https://zh.moegirl.org/佐贺偶像是传奇)<br>[维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
+| zombie land saga | 佐贺偶像是传奇 | 《佐贺偶像是传奇》（日语：ゾンビランドサガ）是由MAPPA、avex pictures、Cygames合作推出的原创动画。由MAPPA负责动画制作，境宗久导演，村越繁负责剧本构成，深川可纯担任角色设计。电视动画全12话，于2018年10月4日开始播出。宣传语是“新感觉僵尸系动画”。 | [萌娘百科](https://zh.moegirl.org/佐贺偶像是传奇)<br>[维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
 | nazo no kanojo x | 谜样女友X |  |  |
 | shoujo shuumatsu ryokou | 少女终末旅行 |  |  |
 | dumbbell nan kilo moteru | 流汗吧!健身少女 |  | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女)<br>[萌娘百科](https://zh.moegirl.org/zh-cn/流汗吧!健身少女) |
 | thumbelina | 拇指姑娘 | 世界著名童话 |  |
-| star twinkle precure | Star☆Twinkle光之美少女 |  |  |
-| masou gakuen hxh | 魔装学園H×H |  |  |
+| masou gakuen hxh | 魔装学园H×H |  |  |
 | hundred | 百武装战记 |  |  |
 | dr. stone | 石纪元 |  |  |
+| uchi no ko no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai | 为了女儿，我说不定连魔王都能干掉。 |  |  |
+| tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击，这样的妈妈你喜欢吗？ |  |  |
+| wagaya no oinari-sama | 我家有个狐仙大人 |  |  |
+| enen no shouboutai | 炎炎消防队 |  |  |
+| lord el-melloi ii sei no jikenbo | 君主·埃尔梅罗二世事件簿 |  |  |
+| inuyasha | 犬夜叉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

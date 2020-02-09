@@ -1,20 +1,16 @@
-本页储存标签列表的团队(group)翻译。
+---
+key: group
+name: 团队
+description: 制作社团或公司。
+copyright: |
+    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
 
-版权声明
----------------  
-对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
+rules:
+- 日文名中有汉字者优先写含汉字的名称，可在简介中写全假名或国内译名。
+---
 
-对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
-
-书写规则
----------------
-### 请按照如下规则：
-* 日文名中有汉字者优先写含汉字的名称，可在后方添加括号写全假名或国内译名。或者使用文本介绍时写在简介中。
-
-条目内容
-----------------
-
-| 英文原名 | 中文名 | 简介 | 外部链接 |
+| 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | ▼ GAL公司 |  |  |
 | clockup | CLOCKUP |  | [官方网站](http://clockup.net/) |
@@ -1566,6 +1562,20 @@
 | kokuto koukuu | 黒兎航空 |  |  |
 | manshin soui | 満身創痍 |  |  |
 | soukousen | 創攻線 |  |  |
+| neko gosho | 猫御所 |  |  |
+| harunatsuakifuyu | 春夏秋冬 |  |  |
+| yoshino | 吉野 |  |  |
+| murakami suigun no yakata | 村上水軍の館 |  |  |
+| takanaedoko | 高苗床 |  |  |
+| ichijikushirabe shiki | 九調四季 |  |  |
+| aoirokanata | 蒼色彼方 |  |  |
+| kurokudo-ya | 黒クド屋 |  |  |
+| iorigumi | 庵組 |  |  |
+| kedama gyuunyuu | 毛玉牛乳 |  |  |
+| gyuunyuuya-san | 牛乳屋さん |  |  |
+| senpenbankashiki | 千変万化式 |  |  |
+| amakuchi syoujo | あまくち少女 |  |  |
+| akutoku doumei | 悪徳同盟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

@@ -1,31 +1,24 @@
-本页储存标签列表的杂项(misc)翻译。
+---
+key: misc
+name: 杂项
+description: 两性/中性的恋物标签或没有具体分类的标签。
+copyright: |
+    除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
-版权声明
----------------  
-除有特殊说明外，本文的简介文本翻译自 [EHWiki](https://ehwiki.org/)，遵循原始许可协议（即 [GNU 自由文档许可证](http://www.gnu.org/licenses/fdl.html)）进行二次分发。
+    Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
-Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
+    对于标有(*)的条目，其简介文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
 
-对于标有(*)的条目，其简介文本复制/翻译自[维基百科](https://www.wikipedia.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/)）进行二次分发。
+    对于标有(**)的条目，其简介文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
 
-对于标有(**)的条目，其简介文本复制/翻译自[萌娘百科](https://moegirl.org/)，遵循原始许可协议（即[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)）进行二次分发。
+    本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
+rules:
+- 填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团的标签，请在论坛(https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
+- 为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
+- 若有属于多个分类的，放入最相关的那一个分类。
+---
 
-本文的其他内容，遵循[知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-nc-sa/3.0/)提供。
-
-书写规则
----------------
-### 请按照如下规则：
-* 主要填写长期存在于杂项(misc)中的标签，有些新作者、社团的标签最开始在杂项，但后面会移到对应分类中去。
-
-### 目前阶段建议规则：
-* 为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。  
-  若有属于多个分类的，放入最相关的那一个分类。拿不准就放后面未分类区让别人来分类。
-* 检查[新恋物标签列表](https://ehwiki.org/wiki/new_tags)以跟踪最新标签更改。
-
-条目内容
-----------------
-
-| 英文原名 | 中文名 | 简介 | 外部链接 |
+| 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | == 身体 == |  |  |
 |  | === 身体 > 生物 === |  |  |
@@ -36,8 +29,8 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 |  | === 头部 > 思维 === |  |  |
 | body swap | 换身 | 灵魂互换，该标签不应与凭依(possession)混淆也不能标为性转换(gender bender)。 |  |
 |  | == 下半身 == |  |  |
-|  | === 下半身 > 裆部 === |  |  |
-|  | ==== 下半身 > 裆部 > 阴茎 ==== |  |  |
+|  | === 下半身 > 阴部 === |  |  |
+|  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
 |  | == 多人活动 == |  |  |
 | ffm threesome | 女男女 | ♀♂♀，2 女 1 男 3P。需要乱交(group)标签。 |  |
@@ -46,6 +39,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | mmt threesome | 男扶男 | ♂⚥♂，2 男 1 扶 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要乱交(group)标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
+| shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要乱交(group)标签。 |  |
 | ttm threesome | 扶扶男 | ⚥♂⚥，2 扶 1 男 3P。需要乱交(group)标签。不算男同(yaoi)。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是乱交(group)。 |  |
 |  | == 工具 == |  |  |
@@ -68,6 +62,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
 | redraw | 重绘 | 替换了原始图像的部分内容。消除修正的过程不算在内。 |  |
 | screenshots | 截图 | 电影、动画或电视节目的截图。动图(animated)不算在内。 |  |
+| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为同人志(doujinshi)或者无H(non-h)画廊. |  |
 | stereoscopic | 立体图 | 可以使用 3D 眼镜观看的成对的立体图像。不应与 3D(3d)和红蓝3D(anaglyph)混淆。 |  |
 | story arc | 故事线 | 在单个画廊中的多个章节讲述同一个故事。需要至少 75 页或 4 章。 对于单行本(tankoubon)，50% 的内容需要符合条件。不应与系列作品(multi-work series)混淆。 |  |
 | tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 |  |
@@ -86,7 +81,7 @@ Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribu
 | non-nude | 无裸体 | 没有展示乳头或性孔的画廊。仅用于 Cosplay 画廊。 |  |
 |  | === 技术 > 移除原因 === |  |  |
 | already uploaded | 已上传 | 这个画廊是之前发布画廊的相同或较低质量版本。 |  |
-| compilation | 重复 | 这个画廊是之前发布画廊的相同或较低质量版本。 |  |
+| compilation | 汇编 | 这个该画廊是不允许在一起的作品的汇编。 |  |
 | forbidden content | 禁止内容 | 此画廊包含非法内容，如儿童色情内容或[服务条款](https://e-hentai.org/tos.php)所禁止的其他内容，或属于[清除指南](https://ehwiki.org/wiki/Expunging#Forbidden)的其他内容。 |  |
 | realporn | 真人色情 | 非 Cosplay 的真人色情；通用 Cosplay（任何不是来自已经建立的系列或人物的 Cosplay ）。 |  |
 | replaced | 已替换 | 这个画廊的更高质量的版本已经上传。 |  |
