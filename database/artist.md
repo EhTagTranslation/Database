@@ -2484,6 +2484,7 @@ rules:
 | amagasa ikuta | 雨暈郁太 |  |  |
 | sukesaburou | 助三郎 |  |  |
 | jiraiya | 児雷也 |  |  |
+| kuromotokun | 黒本君 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
