@@ -1577,6 +1577,7 @@ rules:
 | amakuchi syoujo | あまくち少女 |  |  |
 | akutoku doumei | 悪徳同盟 |  |  |
 | andorogynous | ANDOROGYNOUS |  |  |
+| kikurage-ya | きくらげ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
