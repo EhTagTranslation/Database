@@ -2489,6 +2489,7 @@ rules:
 | shiratama moti | 白玉もち |  | https://www.pixiv.net/users/297323<br>https://twitter.com/shira_tama_2gou |
 | shiratama yomogi | しらたま よもぎ |  | https://twitter.com/shiratama9<br>https://www.pixiv.net/users/11355 |
 | yoshida iyo | 吉田 依世 |  | https://twitter.com/yoshida_iyo<br>https://www.pixiv.net/users/15584578 |
+| sakura oriko | 佐倉おりこ |  | https://www.pixiv.net/users/1616936<br>https://twitter.com/sakura_oriko |
 
 <!--TEMPLATE: 
 |  |  |  |  |
