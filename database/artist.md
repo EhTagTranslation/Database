@@ -2495,6 +2495,7 @@ rules:
 | ikari | いかり |  | https://www.pixiv.net/users/9394640<br>https://twitter.com/13_ikari |
 | humuyun | ふむゆん |  | https://www.pixiv.net/users/1680108<br>https://twitter.com/hmyn_ |
 | watagashi yui | わたがしゆい |  | https://www.pixiv.net/users/3338926<br>https://twitter.com/yui_watagashi |
+| kohinata hoshimi | 小日向ほしみ |  | https://www.pixiv.net/users/2913676<br>https://twitter.com/deepstarhoshimi |
 
 <!--TEMPLATE: 
 |  |  |  |  |
