@@ -629,7 +629,7 @@ rules:
 | ra | RA |  |  |
 | yohane | ヨハネ |  |  |
 | akiduki tsukasa | 秋月つかさ |  |  |
-| hanamiya natsuka | 花宮なつか |  |  |
+| hanamiya natsuka | 花宮なつか |  | https://www.pixiv.net/users/4218982<br>https://twitter.com/natsuka_03 |
 | nagayama yuunon | 永山ゆうのん |  |  |
 | sakura denbu | 樱田麸 |  |  |
 | sin-go | Sin-Go |  |  |
