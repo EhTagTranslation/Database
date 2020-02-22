@@ -125,7 +125,7 @@ rules:
 | tenchisouha | 天地争霸 |  |  |
 | arui ryou | あるい椋 |  |  |
 | sasamori tomoe | 笹森トモエ |  |  |
-| sasai saji | 笹井さじ |  |  |
+| sasai saji | 笹井さじ |  | https://www.pixiv.net/users/4205119<br>https://twitter.com/saji_s |
 | okazaki takeshi | 冈崎武士 |  |  |
 | harukaze soyogu | 春風ソヨグ |  |  |
 | kasi | 华师 |  |  |
