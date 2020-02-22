@@ -2492,6 +2492,7 @@ rules:
 | sakura oriko | 佐倉おりこ |  | https://www.pixiv.net/users/1616936<br>https://twitter.com/sakura_oriko |
 | hinata yuu | ひなた悠 |  | https://www.pixiv.net/users/2067502<br>https://twitter.com/hinatan_ |
 | odawara hakone | オダワラハコネ |  | https://www.pixiv.net/users/227274<br>https://twitter.com/odawarahakone |
+| ikari | いかり |  | https://www.pixiv.net/users/9394640<br>https://twitter.com/13_ikari |
 
 <!--TEMPLATE: 
 |  |  |  |  |
