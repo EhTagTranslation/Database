@@ -225,7 +225,7 @@ rules:
 | mafuyu | 真冬 |  |  |
 | kakugari kyoudai | カクガリ兄弟 |  |  |
 | matsumomo mahiru | 松百まひる |  |  |
-| aoi masami | 苍海 |  |  |
+| aoi masami | あおいまさみ（苍海） |  | https://www.pixiv.net/users/764148<br>https://twitter.com/aoimasami |
 | itou life | 伊東ライフ |  |  |
 | taniguchi-san | 谷口さん |  |  |
 | amou mari | 天羽真理 |  |  |
