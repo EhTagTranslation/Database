@@ -2485,6 +2485,7 @@ rules:
 | sukesaburou | 助三郎 |  |  |
 | jiraiya | 児雷也 |  |  |
 | kuromotokun | 黒本君 |  |  |
+| gomano lio | 胡麻乃りお |  | https://twitter.com/gomalio_y<br>https://www.pixiv.net/users/431880 |
 
 <!--TEMPLATE: 
 |  |  |  |  |
