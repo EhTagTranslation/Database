@@ -161,7 +161,7 @@ rules:
 | amano kazumi | 天乃一水 |  |  |
 | ichiyo moka | 一葉モカ |  |  |
 | naturalton | なちゅらるとん |  |  |
-| aono ribbon | 青野りぼん |  |  |
+| aono ribbon | 青野りぼん |  | https://www.pixiv.net/users/215798<br>https://twitter.com/ribbon_aono |
 | hidaka toworu | ヒダカトヲル |  |  |
 | rara8 | らら8 |  |  |
 | medaka kenichi | 目高健一 |  |  |
