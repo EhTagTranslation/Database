@@ -2493,6 +2493,7 @@ rules:
 | hinata yuu | ひなた悠 |  | https://www.pixiv.net/users/2067502<br>https://twitter.com/hinatan_ |
 | odawara hakone | オダワラハコネ |  | https://www.pixiv.net/users/227274<br>https://twitter.com/odawarahakone |
 | ikari | いかり |  | https://www.pixiv.net/users/9394640<br>https://twitter.com/13_ikari |
+| humuyun | ふむゆん |  | https://www.pixiv.net/users/1680108<br>https://twitter.com/hmyn_ |
 
 <!--TEMPLATE: 
 |  |  |  |  |
