@@ -2488,6 +2488,7 @@ rules:
 | gomano lio | 胡麻乃りお |  | https://twitter.com/gomalio_y<br>https://www.pixiv.net/users/431880 |
 | shiratama moti | 白玉もち |  | https://www.pixiv.net/users/297323<br>https://twitter.com/shira_tama_2gou |
 | shiratama yomogi | しらたま よもぎ |  | https://twitter.com/shiratama9<br>https://www.pixiv.net/users/11355 |
+| yoshida iyo | 吉田 依世 |  | https://twitter.com/yoshida_iyo<br>https://www.pixiv.net/users/15584578 |
 
 <!--TEMPLATE: 
 |  |  |  |  |
