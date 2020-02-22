@@ -2496,6 +2496,7 @@ rules:
 | humuyun | ふむゆん |  | https://www.pixiv.net/users/1680108<br>https://twitter.com/hmyn_ |
 | watagashi yui | わたがしゆい |  | https://www.pixiv.net/users/3338926<br>https://twitter.com/yui_watagashi |
 | kohinata hoshimi | 小日向ほしみ |  | https://www.pixiv.net/users/2913676<br>https://twitter.com/deepstarhoshimi |
+| yudzuki hina | 遊月ひな |  | https://www.pixiv.net/users/550398<br>https://twitter.com/nekorop |
 
 <!--TEMPLATE: 
 |  |  |  |  |
