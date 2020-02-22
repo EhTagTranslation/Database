@@ -2491,6 +2491,7 @@ rules:
 | yoshida iyo | 吉田 依世 |  | https://twitter.com/yoshida_iyo<br>https://www.pixiv.net/users/15584578 |
 | sakura oriko | 佐倉おりこ |  | https://www.pixiv.net/users/1616936<br>https://twitter.com/sakura_oriko |
 | hinata yuu | ひなた悠 |  | https://www.pixiv.net/users/2067502<br>https://twitter.com/hinatan_ |
+| odawara hakone | オダワラハコネ |  | https://www.pixiv.net/users/227274<br>https://twitter.com/odawarahakone |
 
 <!--TEMPLATE: 
 |  |  |  |  |
