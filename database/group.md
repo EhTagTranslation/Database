@@ -1582,6 +1582,7 @@ rules:
 | tomoshibiya koubou | 灯夜工房 |  |  |
 | kakuzato-ichi | 核座頭市 |  |  |
 | poppenheim | ぽっぺんはいむ |  |  |
+| chitei no nikuya | 地底の肉屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
