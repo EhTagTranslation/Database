@@ -2490,10 +2490,10 @@ rules:
 | shiratama yomogi | しらたま よもぎ |  | [Twitter](https://twitter.com/shiratama9)<br>[pixiv](https://www.pixiv.net/users/11355) |
 | yoshida iyo | 吉田 依世 |  | [Twitter](https://twitter.com/yoshida_iyo)<br>[pixiv](https://www.pixiv.net/users/15584578) |
 | sakura oriko | 佐倉おりこ |  | [pixiv](https://www.pixiv.net/users/1616936)<br>[Twitter](https://twitter.com/sakura_oriko) |
-| hinata yuu | ひなた悠 |  | [pixiv](https://www.pixiv.net/users/2067502)<br>[Twitter](https://twitter.com/hinatan)_ |
+| hinata yuu | ひなた悠 |  | [pixiv](https://www.pixiv.net/users/2067502)<br>[Twitter](https://twitter.com/hinatan_) |
 | odawara hakone | オダワラハコネ |  | [pixiv](https://www.pixiv.net/users/227274)<br>[Twitter](https://twitter.com/odawarahakone) |
 | ikari | いかり |  | [pixiv](https://www.pixiv.net/users/9394640)<br>[Twitter](https://twitter.com/13_ikari) |
-| humuyun | ふむゆん |  | [pixiv](https://www.pixiv.net/users/1680108)<br>[Twitter](https://twitter.com/hmyn)_ |
+| humuyun | ふむゆん |  | [pixiv](https://www.pixiv.net/users/1680108)<br>[Twitter](https://twitter.com/hmyn_) |
 | watagashi yui | わたがしゆい |  | [pixiv](https://www.pixiv.net/users/3338926)<br>[Twitter](https://twitter.com/yui_watagashi) |
 | kohinata hoshimi | 小日向ほしみ |  | [pixiv](https://www.pixiv.net/users/2913676)<br>[Twitter](https://twitter.com/deepstarhoshimi) |
 | yudzuki hina | 遊月ひな |  | [pixiv](https://www.pixiv.net/users/550398)<br>[Twitter](https://twitter.com/nekorop) |
