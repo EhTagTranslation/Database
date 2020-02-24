@@ -2508,6 +2508,7 @@ rules:
 | mizore | みぞれ |  | [twitter](https://twitter.com/mizore2111) [pixiv](https://www.pixiv.net/users/17904351) |
 | akure ekuto | 吾暮えくと |  |  |
 | chacharan | 茶々らん |  | [pixiv](https://www.pixiv.net/users/25930775) [twitter](https://twitter.com/chacharan33) |
+| isuwie | イスィ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
