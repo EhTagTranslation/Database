@@ -1579,6 +1579,7 @@ rules:
 | andorogynous | ANDOROGYNOUS |  |  |
 | kikurage-ya | きくらげ屋 |  |  |
 | shis | SHIS |  |  |
+| tomoshibiya koubou | 灯夜工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
