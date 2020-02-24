@@ -2767,6 +2767,7 @@ rules:
 | helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/zh-hans/海莲娜%28死或生%29) |
 | sylvanas windrunner | 希尔瓦娜斯·风行者 | 希尔瓦娜斯·风行者是暴雪旗下游戏《魔兽争霸》、《魔兽世界》以及《魔兽世界》官方小说中的登场角色，同时也在各种相关的衍生作品中亮相。 | [希尔瓦娜斯·风行者](https://zh.moegirl.org/希尔瓦娜斯) |
 | nessa | 露璃娜 |  |  |
+| sonia | 索妮亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
