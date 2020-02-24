@@ -2769,6 +2769,7 @@ rules:
 | nessa | 露璃娜 |  |  |
 | sonia | 索妮亚 |  |  |
 | mallow | 玛奥 |  |  |
+| melony | 美蓉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
