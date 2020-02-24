@@ -2505,7 +2505,7 @@ rules:
 | doku denpa | 毒でんぱ |  |  |
 | dokiyuri | どきゆり |  | [pixiv](https://www.pixiv.net/users/160122) |
 | tamagoro | たまごろー |  |  |
-| mizore | みぞれ |  | [pixiv](https://twitter.com/mizore2111) |
+| mizore | みぞれ |  | [twitter](https://twitter.com/mizore2111) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
