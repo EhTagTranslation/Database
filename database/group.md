@@ -1583,6 +1583,7 @@ rules:
 | kakuzato-ichi | 核座頭市 |  |  |
 | poppenheim | ぽっぺんはいむ |  |  |
 | chitei no nikuya | 地底の肉屋 |  |  |
+| manaita | まないた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
