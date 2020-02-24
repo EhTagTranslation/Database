@@ -400,7 +400,7 @@ rules:
 | nakamura takeshi | なかむらたけし |  |  |
 | minase syu | 水濑修 |  |  |
 | yoshiura kazuya | 由浦カズヤ |  |  |
-| erect sawaru | エレクトさわる |  |  |
+| erect sawaru | エレクトさわる |  | [pixiv](https://www.pixiv.net/users/374953) [twitter](https://twitter.com/erectman) |
 | katsurai yoshiaki | 桂井よしあき |  |  |
 | sanazura hiroyuki | さなづらひろゆき |  |  |
 | takamura wamu | 高村わむ |  |  |
