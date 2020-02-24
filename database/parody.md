@@ -1420,6 +1420,7 @@ rules:
 | enen no shouboutai | 炎炎消防队 |  |  |
 | lord el-melloi ii sei no jikenbo | 君主·埃尔梅罗二世事件簿 |  |  |
 | inuyasha | 犬夜叉 |  |  |
+| jashin-chan dropkick | 邪神与厨二病少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
