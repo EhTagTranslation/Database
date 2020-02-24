@@ -2502,6 +2502,7 @@ rules:
 | tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
 | kamisyakujii yubeshi | 紙石神井ゆべし |  | [pixiv](https://www.pixiv.net/users/283710) [twitter](https://twitter.com/kamisyakujii) |
 | kurosu gatari | 黒巣ガタリ |  |  |
+| doku denpa | 毒でんぱ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
