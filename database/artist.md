@@ -119,7 +119,7 @@ rules:
 | araki kanao | あらきかなお |  |  |
 | nagiyama | 那岐山 |  |  |
 | kittsu | キッツ |  |  |
-| neko toufu | ねことうふ |  |  |
+| neko toufu | 猫豆腐 |  | [pixiv](https://www.pixiv.net/users/159912) [twitter](https://twitter.com/nekotou) |
 | nagare hyo-go | 流ひょうご |  |  |
 | mizuki gyokuran | 瑞姬玉兰 |  |  |
 | tenchisouha | 天地争霸 |  |  |
