@@ -2506,6 +2506,7 @@ rules:
 | dokiyuri | どきゆり |  | [pixiv](https://www.pixiv.net/users/160122) |
 | tamagoro | たまごろー |  |  |
 | mizore | みぞれ |  | [twitter](https://twitter.com/mizore2111) [pixiv](https://www.pixiv.net/users/17904351) |
+| akure ekuto | 吾暮えくと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
