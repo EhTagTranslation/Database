@@ -1578,6 +1578,7 @@ rules:
 | akutoku doumei | 悪徳同盟 |  |  |
 | andorogynous | ANDOROGYNOUS |  |  |
 | kikurage-ya | きくらげ屋 |  |  |
+| shis | SHIS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
