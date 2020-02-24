@@ -1581,6 +1581,7 @@ rules:
 | shis | SHIS |  |  |
 | tomoshibiya koubou | 灯夜工房 |  |  |
 | kakuzato-ichi | 核座頭市 |  |  |
+| poppenheim | ぽっぺんはいむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
