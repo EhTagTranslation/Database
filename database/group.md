@@ -1587,6 +1587,7 @@ rules:
 | mizore nabe | みぞれ鍋 |  |  |
 | onefes jikkou iinkai | オネフェス実行委員会 |  |  |
 | isuwie-ya | イスィ屋 |  |  |
+| yabitsutouge | 弥美津峠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
