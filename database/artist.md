@@ -370,7 +370,7 @@ rules:
 | ameto yuki | あめとゆき |  |  |
 | kenkou cross | 健康クロス |  |  |
 | yanagawa rio | やながわ理央 |  |  |
-| kakuzatou | 核座头 |  |  |
+| kakuzatou | 核座头 |  | [pixiv](https://www.pixiv.net/users/20557975) |
 | kaminagi | 神凪 |  |  |
 | twinbox | TwinBox |  |  |
 | izuminoaru | イズミノアル |  |  |
