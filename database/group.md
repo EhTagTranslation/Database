@@ -1584,6 +1584,7 @@ rules:
 | poppenheim | ぽっぺんはいむ |  |  |
 | chitei no nikuya | 地底の肉屋 |  |  |
 | manaita | まないた |  |  |
+| mizore nabe | みぞれ鍋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
