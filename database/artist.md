@@ -2504,6 +2504,7 @@ rules:
 | kurosu gatari | 黒巣ガタリ |  |  |
 | doku denpa | 毒でんぱ |  |  |
 | dokiyuri | どきゆり |  | [pixiv](https://www.pixiv.net/users/160122) |
+| tamagoro | たまごろー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
