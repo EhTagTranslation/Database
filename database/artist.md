@@ -2509,6 +2509,7 @@ rules:
 | akure ekuto | 吾暮えくと |  |  |
 | chacharan | 茶々らん |  | [pixiv](https://www.pixiv.net/users/25930775) [twitter](https://twitter.com/chacharan33) |
 | isuwie | イスィ |  |  |
+| misaoka | みさおか |  | [pixiv](https://www.pixiv.net/users/290106) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
