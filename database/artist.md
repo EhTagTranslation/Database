@@ -2500,6 +2500,7 @@ rules:
 | sakura ani | 桜あに |  | [pixiv](https://www.pixiv.net/users/201323)<br>[Twitter](https://twitter.com/sakura_hama) |
 | tsukishima yuuko | 月嶋ゆうこ |  | [pixiv](https://www.pixiv.net/users/78088) |
 | tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
+| kamisyakujii yubeshi | 紙石神井ゆべし |  | [pixiv](https://www.pixiv.net/users/283710) [twitter](https://twitter.com/kamisyakujii) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
