@@ -2499,6 +2499,7 @@ rules:
 | yudzuki hina | 遊月ひな |  | [pixiv](https://www.pixiv.net/users/550398)<br>[Twitter](https://twitter.com/nekorop) |
 | sakura ani | 桜あに |  | [pixiv](https://www.pixiv.net/users/201323)<br>[Twitter](https://twitter.com/sakura_hama) |
 | tsukishima yuuko | 月嶋ゆうこ |  | [pixiv](https://www.pixiv.net/users/78088) |
+| tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
