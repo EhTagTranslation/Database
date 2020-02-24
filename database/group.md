@@ -1580,6 +1580,7 @@ rules:
 | kikurage-ya | きくらげ屋 |  |  |
 | shis | SHIS |  |  |
 | tomoshibiya koubou | 灯夜工房 |  |  |
+| kakuzato-ichi | 核座頭市 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
