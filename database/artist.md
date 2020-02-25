@@ -2511,6 +2511,7 @@ rules:
 | isuwie | イスィ |  |  |
 | misaoka | みさおか |  | [pixiv](https://www.pixiv.net/users/290106) |
 | ootori mahiro | 鳳まひろ |  |  |
+| yaya hinata | 稍日向 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
