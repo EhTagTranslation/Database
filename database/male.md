@@ -174,6 +174,7 @@ rules:
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与女性主导(femdom)或调教(bdsm)配对。 |  |
 | facial hair | 胡子 | 下巴，脸颊或上唇上有明显的毛发。 |  |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 |  |
+| headless | 无头骑士 | 没有头的生物，不包括参与者被斩首的情况。 |  |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与宝冠(tiara)或王冠(crown)等头饰混淆。 |  |
 | makeup | 化妆 | 在嘴唇，脸颊，睫毛或其他面部区域涂上可见的颜色以突出特定部位。不用于小丑(clown)，因为这是显然的。 |  |
 | kemonomimi | 兽耳 | 有动物耳朵的角色，有时还有一条尾巴。不应与毛茸茸(furry)混淆。 |  |
@@ -242,8 +243,8 @@ rules:
 | vore | 吞食 | 被整个吞下，可能导致吸收(absorption)。不应与入阴(unbirth)和食人(cannibalism)混淆。 |  |
 |  | == 脖子 == |  |  |
 | asphyxiation | 窒息 | 有意限制对大脑的供氧，往往是为了使性觉醒。 |  |
-| collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教(bdsm)或人宠(human pet)行为时穿戴，可能包含狗链(leash)。<br>![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/a1/d9/a1d9d284de4c8916078110525e65c60a3df56f9a-3168381-1388-1987-png_l.jpg")![图](# "https://ehgt.org/b1/3d/b13d6d8b3a7f253a47fbf159f59a88cb3ae1ea96-1977836-1784-2551-jpg_l.jpg") |  |
-| leash | 狗链 | 一种皮带、绳子或链子, 通常连接在项圈(collar)上或缠绕在脖子上。经常在调教(bdsm)或人宠(human pet)行为时穿戴。<br>![图](# "https://ehgt.org/75/05/75051cbcbdee39b036f206de909e0b8401204266-8683779-2130-3000-png_l.jpg")![图](# "https://ehgt.org/76/a0/76a0a1170a155c9b7858fe074f0d05c5b482933b-5268492-2149-3032-png_l.jpg")![图](# "https://ehgt.org/49/72/497261e2e429e56bcbd48283b7ff078727669e33-292904-841-1200-jpg_l.jpg") |  |
+| collar | 项圈 | 一种戴在脖子上的装饰物。经常在调教(bdsm)或人宠(petplay)行为时穿戴，可能包含狗链(leash)。<br>![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/a1/d9/a1d9d284de4c8916078110525e65c60a3df56f9a-3168381-1388-1987-png_l.jpg")![图](# "https://ehgt.org/b1/3d/b13d6d8b3a7f253a47fbf159f59a88cb3ae1ea96-1977836-1784-2551-jpg_l.jpg") |  |
+| leash | 狗链 | 一种皮带、绳子或链子, 通常连接在项圈(collar)上或缠绕在脖子上。经常在调教(bdsm)或人宠(petplay)行为时穿戴。<br>![图](# "https://ehgt.org/75/05/75051cbcbdee39b036f206de909e0b8401204266-8683779-2130-3000-png_l.jpg")![图](# "https://ehgt.org/76/a0/76a0a1170a155c9b7858fe074f0d05c5b482933b-5268492-2149-3032-png_l.jpg")![图](# "https://ehgt.org/49/72/497261e2e429e56bcbd48283b7ff078727669e33-292904-841-1200-jpg_l.jpg") |  |
 |  | == 手臂 == |  |  |
 | armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |  |
 | armpit sex | 腋交 | 使用腋下部位刺激阴茎。<br>![图](# "https://ehgt.org/40/c5/40c5987e892d36e40983e0941cb0530b3cb7d511-2276611-2105-3031-jpg_l.jpg")![图](# "https://ehgt.org/04/72/0472f72100ddfcf3e8e5bbcf03b53b1040d699c5-2779772-2500-2751-png_l.jpg") |  |
@@ -305,6 +306,7 @@ rules:
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
 | birth | 出产 | 生物诞生的过程，在此之前一般会怀孕(pregnant)。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及大阴蒂(big clit)。依照被插入的一方标记命名空间。 |  |
+| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与出产(birth)相反，因此不需要出产(birth)或怀孕(pregnant)标签。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 肛交 | 插入肛门。任何方法都可以（性玩具(sex toys)，触手(tentacles)等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
 | anal birth | 肛门出产 | 通过肛门产下生物的过程。在此之前一般会怀孕(pregnant)。不用于产卵(eggs)。 |  |
@@ -324,7 +326,6 @@ rules:
 | large insertions | 大玩具 | 被巨型性玩具(sex toy)插入。不用于大根(big penis)或巨根(huge penis)。<br>![恶](## "https://ehgt.org/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg") |  |
 | nakadashi | 中出 | 射在里面，体外也可能有一个明显的精液池。<br>![图](# "https://ehgt.org/64/c3/64c36cbf01d9c6698a7d968acac898e607a9e902-1110945-1200-1694-jpg_l.jpg") |  |
 | prolapse | 脱垂 | 阴道或肛门膨胀出他们本来的孔。往往由敞口(gaping)造成。<br>![病](# "https://ehgt.org/56/c0/56c0498ef197edf742eb8109fee329a6e0457969-808502-660-1055-jpg_l.jpg")![病](# "https://ehgt.org/f7/ee/f7ee0238432347df82d2d559f21287fc3b615d7b-1455177-1000-1400-png_250.jpg")![病](# "https://ehgt.org/6b/1b/6b1bf6547fdef997fbffd3bd8506b46f38d9f660-403695-1920-1080-jpg_250.jpg") |  |
-| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与出产(birth)相反，因此不需要出产(birth)或怀孕(pregnant)标签。 |  |
 |  | == 腿 == |  |  |
 | kneepit sex | 膝下性交 | 膝裏コキ。使用膝盖底部刺激阴茎或类似对象。就是膝盖弯起来，阴茎夹在大腿与小腿之间。不应与股间性交(sumata)混淆。<br>![图](# "https://ehgt.org/fc/e0/fce0fe2213a1d92243891734d76d6f64823f0908-2238081-2122-3015-jpg_l.jpg")![图](# "https://ehgt.org/26/0e/260e568db97a8296af8a4beebe1bb24bcb8eceb5-1022521-1280-720-png_l.jpg")![图](# "https://ehgt.org/a6/fd/a6fd061c17e61dbde664fa3712da1fbdc49c635e-275223-1024-600-jpg_l.jpg")![](# "https://ehgt.org/11/c2/11c25e3834f49b3766835a7e6ce026bcfe53a5b1-808466-1280-720-png_l.jpg")![图](# "https://ehgt.org/24/a1/24a1fb950bbec4216f2b859200fc185cca61dcb9-313607-800-600-jpg_l.jpg")![图](# "https://ehgt.org/36/49/364907b8300c1205c151c0c16b76fac1a642eef8-347388-1024-768-jpg_l.jpg") |  |
 | leg lock | 勾腿 | 使用一个人的双腿去夹住一个性伴侣。一般是用双腿勾住后背。不应与束缚(bondage)混淆。<br>![图](# "https://ehgt.org/1b/80/1b80ea8624e204ffb09924fb39bc208f2b4fd385-1290334-1280-720-png_l.jpg")![](# "https://ehgt.org/13/3b/133b4f66781b86986ef17e5dfd2e48b3ddbcbd2b-1038745-1280-720-png_l.jpg")![图](# "https://ehgt.org/03/25/0325b4d72c9b7277b9969e79ee90061f4ad48cc6-238370-800-600-jpg_l.jpg")![图](# "https://ehgt.org/61/74/617431e00538b32d11f2c52a2695ba316f4387b5-958796-1280-720-png_l.jpg")![图](# "https://ehgt.org/2c/c6/2cc634cab4af2d20c96a2b7e7a3e6592ab25dfda-284132-560-560-png_l.jpg") |  |
@@ -464,10 +465,11 @@ rules:
 |  | === 强迫 > 虐待 === |  |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要束缚(bondage)或拷打(torture)标签，但可能是其原因。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
-| human pet | 人宠 | 像宠物一样对待人。不应与人类饲养(human cattle)和奴隶(slave)混淆。常是调教(bdsm)的一环。 |  |
+| human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于挤奶(milking)或繁殖。 通常涉及束缚(bondage)。<br>![图](# "https://exhentai.org/t/05/54/0554ee554c6c968e71649186dda0698c2566af85-1152023-1063-1500-jpg_l.jpg") |  |
 | josou seme | 女装攻 | 一个异装癖或伪娘(tomgirl)在性行为中占据主导地位。<br>![图](# "https://ehgt.org/57/92/5792d8bc3dafad5c2395c00a29fc2adee47d93c3-703088-1024-576-png_l.jpg") |  |
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |
-| slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用调教(bdsm)。不要与人宠(human pet)或人类饲养(human cattle)混淆。 |  |
+| petplay | 人宠 | 像宠物一样对待人。不应与人类饲养(human cattle)和奴隶(slave)混淆。常是调教(bdsm)的一环。 |  |
+| slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用调教(bdsm)。不要与人宠(petplay)或人类饲养(human cattle)混淆。 |  |
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 |  |
 |  | === 强迫 > 束缚 === |  |  |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是枷具(pillory)、捆绑(shibari)、卡在墙上(stuck in wall)和木马(wooden horse)的前置标签。不需要为口塞(gag)或钩腿(leg lock)添加此标签。<br>![图](# "https://ehgt.org/5c/9f/5c9f162f5be7c0b34e7933a877d63d3c974f4497-694501-1024-576-png_l.jpg") |  |
@@ -541,6 +543,7 @@ rules:
 |  | == 隐私 == |  |  |
 | exhibitionism | 露阴癖 | 冒着被陌生人抓住的风险裸体。也可能是公然暴露于陌生人。<br>![图](# "https://ehgt.org/c1/ea/c1ea03f5012b961a6ac354e486772f0be2b9ae41-486701-1057-1500-jpg_l.jpg") |  |
 | filming | 摄像 | 对性行为进行摄像。 |  |
+| forced exposure | 强制暴露 | 参与者的裸体或性行为是在非参与者的全视之下非自愿进行的,不应与露阴癖(exhibitionism)混淆。 |  |
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
