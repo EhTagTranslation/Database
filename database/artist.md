@@ -125,7 +125,7 @@ rules:
 | tenchisouha | 天地争霸 |  |  |
 | arui ryou | あるい椋 |  |  |
 | sasamori tomoe | 笹森トモエ |  |  |
-| sasai saji | 笹井さじ |  | [pixiv](https://www.pixiv.net/users/4205119)<br>[Twitter](https://twitter.com/saji_s) |
+| sasai saji | 笹井さじ |  | [pixiv](https://www.pixiv.net/users/4205119) [Twitter](https://twitter.com/saji_s) |
 | okazaki takeshi | 冈崎武士 |  |  |
 | harukaze soyogu | 春風ソヨグ |  |  |
 | kasi | 华师 |  |  |
@@ -161,7 +161,7 @@ rules:
 | amano kazumi | 天乃一水 |  |  |
 | ichiyo moka | 一葉モカ |  |  |
 | naturalton | なちゅらるとん |  |  |
-| aono ribbon | 青野りぼん |  | [pixiv](https://www.pixiv.net/users/215798)<br>[Twitter](https://twitter.com/ribbon_aono) |
+| aono ribbon | 青野りぼん |  | [pixiv](https://www.pixiv.net/users/215798) [Twitter](https://twitter.com/ribbon_aono) |
 | hidaka toworu | ヒダカトヲル |  |  |
 | rara8 | らら8 |  |  |
 | medaka kenichi | 目高健一 |  |  |
@@ -225,7 +225,7 @@ rules:
 | mafuyu | 真冬 |  |  |
 | kakugari kyoudai | カクガリ兄弟 |  |  |
 | matsumomo mahiru | 松百まひる |  |  |
-| aoi masami | あおいまさみ（苍海） |  | [pixiv](https://www.pixiv.net/users/764148)<br>[Twitter](https://twitter.com/aoimasami) |
+| aoi masami | あおいまさみ（苍海） |  | [pixiv](https://www.pixiv.net/users/764148) [Twitter](https://twitter.com/aoimasami) |
 | itou life | 伊東ライフ |  |  |
 | taniguchi-san | 谷口さん |  |  |
 | amou mari | 天羽真理 |  |  |
@@ -629,7 +629,7 @@ rules:
 | ra | RA |  |  |
 | yohane | ヨハネ |  |  |
 | akiduki tsukasa | 秋月つかさ |  |  |
-| hanamiya natsuka | 花宮なつか |  | [pixiv](https://www.pixiv.net/users/4218982)<br>[Twitter](https://twitter.com/natsuka_03) |
+| hanamiya natsuka | 花宮なつか |  | [pixiv](https://www.pixiv.net/users/4218982) [Twitter](https://twitter.com/natsuka_03) |
 | nagayama yuunon | 永山ゆうのん |  |  |
 | sakura denbu | 樱田麸 |  |  |
 | sin-go | Sin-Go |  |  |
@@ -669,7 +669,7 @@ rules:
 | momonosuke | 桃之助 |  |  |
 | murian | 无有利安 |  |  |
 | samidore setsuna | 五月雨せつな |  |  |
-| mutou mato | 武藤 まと |  | [pixiv](https://www.pixiv.net/users/1429353)<br>[Twitter](https://twitter.com/mto_mt) |
+| mutou mato | 武藤 まと |  | [pixiv](https://www.pixiv.net/users/1429353) [Twitter](https://twitter.com/mto_mt) |
 | kobayashi oukei | 小林王桂 |  |  |
 | tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对小忍(oshino shinobu)特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/8542) |
 | kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以露出(exhibitionism)题材为主，早期作品包含大量排便(scat)描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") |  |
@@ -2430,7 +2430,7 @@ rules:
 | tanaka yuuichi | 田中雄一 | 日本男性动画师、人物设计师、演出家。代表作是担任人物设定和总作画监督的《魔法禁书目录》、《科学超电磁炮》。 |  |
 | nakamura kuzuyu | 中村葛湯 |  |  |
 | bekotarou | べこ たろう | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) |
-| ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun)<br>[pixiv](https://www.pixiv.net/users/2473967) |
+| ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun) [pixiv](https://www.pixiv.net/users/2473967) |
 | fumi miyabi | 文雅 |  |  |
 | masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
 | nunnu | ぬんぬ | ![ぬんぬ](https://i.pximg.net/user-profile/img/2012/04/27/19/46/37/4529987_a3ea7c48b68745e6282cd8014716ba94_170.jpg)<br>文苑堂「COMIC BAVEL」作者<br><br>![ファンキーベイビー](https://pbs.twimg.com/media/EGmlUDIWwAECPLe?format=jpg&name=4096x4096) | [画师推特](https://twitter.com/nunnu_zero) [pixiv](https://www.pixiv.net/users/467466) |
@@ -2485,19 +2485,19 @@ rules:
 | sukesaburou | 助三郎 |  |  |
 | jiraiya | 児雷也 |  |  |
 | kuromotokun | 黒本君 |  |  |
-| gomano lio | 胡麻乃りお |  | [Twitter](https://twitter.com/gomalio_y)<br>[pixiv](https://www.pixiv.net/users/431880) |
-| shiratama moti | 白玉もち |  | [pixiv](https://www.pixiv.net/users/297323)<br>[Twitter](https://twitter.com/shira_tama_2gou) |
-| shiratama yomogi | しらたま よもぎ |  | [Twitter](https://twitter.com/shiratama9)<br>[pixiv](https://www.pixiv.net/users/11355) |
-| yoshida iyo | 吉田 依世 |  | [Twitter](https://twitter.com/yoshida_iyo)<br>[pixiv](https://www.pixiv.net/users/15584578) |
-| sakura oriko | 佐倉おりこ |  | [pixiv](https://www.pixiv.net/users/1616936)<br>[Twitter](https://twitter.com/sakura_oriko) |
-| hinata yuu | ひなた悠 |  | [pixiv](https://www.pixiv.net/users/2067502)<br>[Twitter](https://twitter.com/hinatan_) |
-| odawara hakone | オダワラハコネ |  | [pixiv](https://www.pixiv.net/users/227274)<br>[Twitter](https://twitter.com/odawarahakone) |
-| ikari | いかり |  | [pixiv](https://www.pixiv.net/users/9394640)<br>[Twitter](https://twitter.com/13_ikari) |
-| humuyun | ふむゆん |  | [pixiv](https://www.pixiv.net/users/1680108)<br>[Twitter](https://twitter.com/hmyn_) |
-| watagashi yui | わたがしゆい |  | [pixiv](https://www.pixiv.net/users/3338926)<br>[Twitter](https://twitter.com/yui_watagashi) |
-| kohinata hoshimi | 小日向ほしみ |  | [pixiv](https://www.pixiv.net/users/2913676)<br>[Twitter](https://twitter.com/deepstarhoshimi) |
-| yudzuki hina | 遊月ひな |  | [pixiv](https://www.pixiv.net/users/550398)<br>[Twitter](https://twitter.com/nekorop) |
-| sakura ani | 桜あに |  | [pixiv](https://www.pixiv.net/users/201323)<br>[Twitter](https://twitter.com/sakura_hama) |
+| gomano lio | 胡麻乃りお |  | [Twitter](https://twitter.com/gomalio_y) [pixiv](https://www.pixiv.net/users/431880) |
+| shiratama moti | 白玉もち |  | [pixiv](https://www.pixiv.net/users/297323) [Twitter](https://twitter.com/shira_tama_2gou) |
+| shiratama yomogi | しらたま よもぎ |  | [Twitter](https://twitter.com/shiratama9) [pixiv](https://www.pixiv.net/users/11355) |
+| yoshida iyo | 吉田 依世 |  | [Twitter](https://twitter.com/yoshida_iyo) [pixiv](https://www.pixiv.net/users/15584578) |
+| sakura oriko | 佐倉おりこ |  | [pixiv](https://www.pixiv.net/users/1616936) [Twitter](https://twitter.com/sakura_oriko) |
+| hinata yuu | ひなた悠 |  | [pixiv](https://www.pixiv.net/users/2067502) [Twitter](https://twitter.com/hinatan_) |
+| odawara hakone | オダワラハコネ |  | [pixiv](https://www.pixiv.net/users/227274) [Twitter](https://twitter.com/odawarahakone) |
+| ikari | いかり |  | [pixiv](https://www.pixiv.net/users/9394640) [Twitter](https://twitter.com/13_ikari) |
+| humuyun | ふむゆん |  | [pixiv](https://www.pixiv.net/users/1680108) [Twitter](https://twitter.com/hmyn_) |
+| watagashi yui | わたがしゆい |  | [pixiv](https://www.pixiv.net/users/3338926) [Twitter](https://twitter.com/yui_watagashi) |
+| kohinata hoshimi | 小日向ほしみ |  | [pixiv](https://www.pixiv.net/users/2913676) [Twitter](https://twitter.com/deepstarhoshimi) |
+| yudzuki hina | 遊月ひな |  | [pixiv](https://www.pixiv.net/users/550398) [Twitter](https://twitter.com/nekorop) |
+| sakura ani | 桜あに |  | [pixiv](https://www.pixiv.net/users/201323) [Twitter](https://twitter.com/sakura_hama) |
 | tsukishima yuuko | 月嶋ゆうこ |  | [pixiv](https://www.pixiv.net/users/78088) |
 | tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
 | kamisyakujii yubeshi | 紙石神井ゆべし |  | [pixiv](https://www.pixiv.net/users/283710) [twitter](https://twitter.com/kamisyakujii) |

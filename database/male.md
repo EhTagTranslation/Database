@@ -465,7 +465,7 @@ rules:
 |  | === 强迫 > 虐待 === |  |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要束缚(bondage)或拷打(torture)标签，但可能是其原因。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
-| human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于挤奶(milking)或繁殖。 通常涉及束缚(bondage)。<br>![图](# "https://exhentai.org/t/05/54/0554ee554c6c968e71649186dda0698c2566af85-1152023-1063-1500-jpg_l.jpg") |  |
+| human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于挤奶(milking)或繁殖。 通常涉及束缚(bondage)。<br>![图](# "https://ehgt.org/05/54/0554ee554c6c968e71649186dda0698c2566af85-1152023-1063-1500-jpg_l.jpg") |  |
 | josou seme | 女装攻 | 一个异装癖或伪娘(tomgirl)在性行为中占据主导地位。<br>![图](# "https://ehgt.org/57/92/5792d8bc3dafad5c2395c00a29fc2adee47d93c3-703088-1024-576-png_l.jpg") |  |
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |
 | petplay | 人宠 | 像宠物一样对待人。不应与人类饲养(human cattle)和奴隶(slave)混淆。常是调教(bdsm)的一环。 |  |
