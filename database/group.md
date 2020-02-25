@@ -1589,6 +1589,7 @@ rules:
 | isuwie-ya | イスィ屋 |  |  |
 | yabitsutouge | 弥美津峠 |  |  |
 | chotto dake aruyo. | チョットだけアルヨ。 |  |  |
+| shiro no ehonya-san | しろの絵本屋さん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
