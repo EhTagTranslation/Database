@@ -2514,6 +2514,7 @@ rules:
 | yaya hinata | 稍日向 |  |  |
 | koeda shiro | こえだしろ |  |  |
 | honjou hideaki | 本条秀明 |  |  |
+| notzackforwork | NotZackForWork |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
