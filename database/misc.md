@@ -62,6 +62,7 @@ rules:
 | paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
 | redraw | 重绘 | 替换了原始图像的部分内容。消除修正的过程不算在内。 |  |
 | screenshots | 截图 | 电影、动画或电视节目的截图。动图(animated)不算在内。 |  |
+| sketch lines | 线稿 | 在初步创建更详细的画作时经常使用的粗线，表明画作未完成或未被艺术家清理。 |  |
 | soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为同人志(doujinshi)或者无H(non-h)画廊. |  |
 | stereoscopic | 立体图 | 可以使用 3D 眼镜观看的成对的立体图像。不应与 3D(3d)和红蓝3D(anaglyph)混淆。 |  |
 | story arc | 故事线 | 在单个画廊中的多个章节讲述同一个故事。需要至少 75 页或 4 章。 对于单行本(tankoubon)，50% 的内容需要符合条件。不应与系列作品(multi-work series)混淆。 |  |
