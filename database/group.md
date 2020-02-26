@@ -1591,6 +1591,7 @@ rules:
 | chotto dake aruyo. | チョットだけアルヨ。 |  |  |
 | shiro no ehonya-san | しろの絵本屋さん |  |  |
 | neutron city | Neutron city |  |  |
+| h-gabmenters | H-gabmenters |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
