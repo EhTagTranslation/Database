@@ -1,7 +1,7 @@
 ---
 key: misc
 name: 杂项
-description: 两性/中性的恋物标签或没有具体分类的标签。
+description: 两性/中性的恋物标签。
 copyright: |
     除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
@@ -13,7 +13,7 @@ copyright: |
 
     本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
-- 填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团的标签，请在论坛(https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
+- 填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团等的标签，请在论坛(https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
 - 为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
 - 若有属于多个分类的，放入最相关的那一个分类。
 ---
