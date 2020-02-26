@@ -792,7 +792,7 @@ rules:
 | tobe isami | 伊沙米大冒险 |  |  |
 | doraemon | 哆啦A梦 |  |  |
 | pretty sammy | 魔法少女砂沙美 |  |  |
-| ochame na futago | 汉妮与南妮 | 不明白为什么中文圈能把《おちゃめな双子　－クレア学院物語－》和《阿尔卑斯物语 我的安妮特》搞混 |  |
+| ochame na futago | 青葱岁月 | 《おちゃめな双子　－クレア学院物語－》，《青葱岁月》是香港的译名，即是《圣克莱尔学院物语》，又译《捣乱孪生女》。 |  |
 | miracle girl limit-chan | 奇迹少女理美 | 笑咪咪/奇迹少女理美/奇迹少女极限酱 |  |
 | mahou no yousei persia | 魔法妖精贝露莎 |  |  |
 | minky momo | 魔法公主明琪桃子 | 甜甜仙子 |  |
