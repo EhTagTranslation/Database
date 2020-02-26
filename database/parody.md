@@ -776,8 +776,7 @@ rules:
 | peter pan | 小飞侠 |  |  |
 | romeos blue skies | 罗密欧的蓝天 |  |  |
 | 3000 leagues in search of mother | 三千里寻母记 | 《寻母三千里》，又译《万里寻母》、《万里寻亲记》、《三千里寻母记》 |  |
-| heidi | 海蒂 |  |  |
-| heidi girl of the alps | 阿尔卑斯山的少女 | 飘零燕、小天使 |  |
+| alps no shoujo heidi | 阿尔卑斯山的少女 | 《阿尔卑斯山的少女》（日语：アルプスの少女ハイジ，直译：阿尔卑斯的少女海蒂）是根据瑞士作家约翰娜·施皮里于1880～1881年所发表的德文小说《海蒂》系列改编的日本电视动画，由富士电视台于1974年1月6日～12月29日每周日晚间7：30播映，全52话。 | [维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E5%B1%B1%E7%9A%84%E5%B0%91%E5%A5%B3) (*) |
 | anne of green gables | 绿山墙的安妮 |  |  |
 | futari no lotte | 我与我 两个绿蒂 |  |  |
 | katri girl of the meadows | 牧场上的少女卡特莉 |  |  |
