@@ -2516,6 +2516,7 @@ rules:
 | honjou hideaki | 本条秀明 |  |  |
 | notzackforwork | NotZackForWork |  |  |
 | hayashizaki fumihiro | 林崎文博 |  |  |
+| hatomizu | ハト水 |  | [pixiv](https://www.pixiv.net/users/7043383) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
