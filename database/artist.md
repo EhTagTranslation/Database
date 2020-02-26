@@ -2515,6 +2515,7 @@ rules:
 | koeda shiro | こえだしろ |  |  |
 | honjou hideaki | 本条秀明 |  |  |
 | notzackforwork | NotZackForWork |  |  |
+| hayashizaki fumihiro | 林崎文博 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
