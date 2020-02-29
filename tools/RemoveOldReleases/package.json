@@ -1,0 +1,11 @@
+{
+  "name": "RemoveOldReleases",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@octokit/rest": "^17.0.0",
+    "simple-git": "^1.131.0"
+  }
+}
