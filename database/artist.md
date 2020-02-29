@@ -2518,6 +2518,7 @@ rules:
 | hayashizaki fumihiro | 林崎文博 |  |  |
 | hatomizu | ハト水 |  | [pixiv](https://www.pixiv.net/users/7043383) |
 | hiroya | 广弥 |  |  |
+| amamiya | アマミヤ |  | [pixiv](https://www.pixiv.net/users/5565322) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
