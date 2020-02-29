@@ -1592,6 +1592,7 @@ rules:
 | shiro no ehonya-san | しろの絵本屋さん |  |  |
 | neutron city | Neutron city |  |  |
 | h-gabmenters | H-gabmenters |  |  |
+| shichimen soka | 七面楚歌 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
