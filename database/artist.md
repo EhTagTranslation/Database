@@ -2105,7 +2105,7 @@ rules:
 | minagiri | ミナギリ |  |  |
 | nijou katame | 二条かため |  |  |
 | ouchi kaeru | 楝蛙 |  |  |
-| sexyturkey | すたーきー |  |  |
+| sexyturkey | すたーきー |  | [pixiv](https://www.pixiv.net/users/13901) |
 | shikkarimono no takashi-kun | しっかり者のタカシくん |  |  |
 | survival knife | サバイバル刃 |  |  |
 | wolt | ヲルト |  |  |
