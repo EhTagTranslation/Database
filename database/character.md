@@ -2777,6 +2777,7 @@ rules:
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |
 | chiyo shirayuki | 白雪千夜 |  |  |
 | chitose kurosaki | 黑埼千岁 |  |  |
+| kiyomi saejima | 冴岛清美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
