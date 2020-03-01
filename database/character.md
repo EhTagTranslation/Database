@@ -2785,6 +2785,7 @@ rules:
 | portland | 波特兰 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。 |  |
 | cure milky | 羽衣拉拉 |  |  |
 | rinko iori | 伊织凛子 |  |  |
+| sei iori | 伊织诚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
