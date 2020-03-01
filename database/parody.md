@@ -1428,6 +1428,7 @@ rules:
 | black bullet | 漆黑的子弹 |  |  |
 | mawaru penguindrum | 回转企鹅罐 |  |  |
 | ben-to | 便·当 |  |  |
+| one week friends | 一周的朋友 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
