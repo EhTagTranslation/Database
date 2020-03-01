@@ -448,8 +448,11 @@ rules:
 | eldridge | 埃尔德里奇 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) |
 | prince of wales | 威尔士亲王 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:威尔士亲王) |
 | sheffield | 谢菲尔德 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:谢菲尔德) |
-| ping hai | 平海 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:平海) |
-| ning hai | 宁海 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:宁海) |
+| ping hai | 平海 |  手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的平海号轻巡洋舰(Ping Hai)。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:平海) |
+| ning hai | 宁海 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的宁海号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:宁海) |
+| formidable | 可畏 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:可畏) |
+| admiral hipper | 希佩尔海军上将 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将) |
+| portland | 波特兰 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:波特兰) |
 | cygnet | 小天鹅 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:小天鹅) |
 | kent | 肯特 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:肯特) |
 | hammann | 哈曼 |  | [萌娘百科](https://zh.moegirl.org/碧蓝航线:哈曼) |
@@ -2778,11 +2781,6 @@ rules:
 | chiyo shirayuki | 白雪千夜 |  |  |
 | chitose kurosaki | 黑埼千岁 |  |  |
 | kiyomi saejima | 冴岛清美 |  |  |
-| formidable | 可畏 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。 |  |
-| admiral hipper | 希佩尔海军上将 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）。 |  |
-| ninghai | 宁海 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的宁海号轻巡洋舰。 |  |
-| pinghai | 平海 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是中华民国海军的平海号轻巡洋舰(Ping Hai)。 |  |
-| portland | 波特兰 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。 |  |
 | cure milky | 羽衣拉拉 |  |  |
 | rinko iori | 伊织凛子 |  |  |
 | sei iori | 伊织诚 |  |  |
