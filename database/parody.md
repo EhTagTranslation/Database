@@ -1429,6 +1429,7 @@ rules:
 | mawaru penguindrum | 回转企鹅罐 |  |  |
 | ben-to | 便·当 |  |  |
 | one week friends | 一周的朋友 |  |  |
+| sanoba witch | 魔女的夜宴 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
