@@ -1427,6 +1427,7 @@ rules:
 | ookiku furikabutte | 王牌投手 振臂高挥 |  |  |
 | black bullet | 漆黑的子弹 |  |  |
 | mawaru penguindrum | 回转企鹅罐 |  |  |
+| ben-to | 便·当 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
