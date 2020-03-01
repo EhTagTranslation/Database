@@ -1423,6 +1423,7 @@ rules:
 | ishuzoku reviewers | 异种族风俗娘评鉴指南 | 《异种族风俗娘评鉴指南》（日语：异种族レビュアーズ；英语：Interspecies Reviewers）是由天原创作、masha作画的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/异种族风俗娘评鉴指南) |
 | d-frag | 属性同好会 |  |  |
 | heavens memo pad | 神的记事本 |  |  |
+| houkago play | 放课后play |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
