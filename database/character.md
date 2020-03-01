@@ -2772,6 +2772,7 @@ rules:
 | melony | 美蓉 |  |  |
 | kama | 迦摩 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。 |  |
 | yu miaoyi | 虞姬 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
+| beni-enma | 红阎魔 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
