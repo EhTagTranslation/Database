@@ -2778,6 +2778,7 @@ rules:
 | chiyo shirayuki | 白雪千夜 |  |  |
 | chitose kurosaki | 黑埼千岁 |  |  |
 | kiyomi saejima | 冴岛清美 |  |  |
+| formidable | 可畏 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
