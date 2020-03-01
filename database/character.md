@@ -2773,6 +2773,7 @@ rules:
 | kama | 迦摩 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。 |  |
 | yu miaoyi | 虞姬 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
 | beni-enma | 红阎魔 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
+| carmilla | 卡米拉 | 在TYPE-MOON的游戏《Fate/Grand Order》中登场的女性Servant。职阶为Assassin |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
