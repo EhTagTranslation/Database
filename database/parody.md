@@ -1433,6 +1433,7 @@ rules:
 | tonari no seki-kun | 上课小动作 |  |  |
 | high score girl | 高分少女 |  |  |
 | claymore | 大剑 |  |  |
+| mirai kamiki | 神木未来 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
