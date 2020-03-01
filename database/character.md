@@ -2770,6 +2770,7 @@ rules:
 | sonia | 索妮亚 |  |  |
 | mallow | 玛奥 |  |  |
 | melony | 美蓉 |  |  |
+| kama | 迦摩 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
