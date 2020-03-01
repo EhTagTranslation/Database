@@ -2775,6 +2775,7 @@ rules:
 | beni-enma | 红阎魔 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
 | carmilla | 卡米拉 | 在TYPE-MOON的游戏《Fate/Grand Order》中登场的女性Servant。职阶为Assassin |  |
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |
+| chiyo shirayuki | 白雪千夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
