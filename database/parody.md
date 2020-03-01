@@ -1432,6 +1432,7 @@ rules:
 | sanoba witch | 魔女的夜宴 |  |  |
 | tonari no seki-kun | 上课小动作 |  |  |
 | high score girl | 高分少女 |  |  |
+| claymore | 大剑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
