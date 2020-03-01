@@ -1425,6 +1425,7 @@ rules:
 | heavens memo pad | 神的记事本 |  |  |
 | houkago play | 放课后play |  |  |
 | ookiku furikabutte | 王牌投手 振臂高挥 |  |  |
+| black bullet | 漆黑的子弹 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
