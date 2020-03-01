@@ -1424,6 +1424,7 @@ rules:
 | d-frag | 属性同好会 |  |  |
 | heavens memo pad | 神的记事本 |  |  |
 | houkago play | 放课后play |  |  |
+| ookiku furikabutte | 王牌投手 振臂高挥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
