@@ -1597,6 +1597,7 @@ rules:
 | shin nanka tou | 新なんか党 |  |  |
 | tefutefu. | てふてふ。 |  |  |
 | menkui | めんくい |  |  |
+| amamineko cafe | あまみねこカフェ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
