@@ -2524,7 +2524,7 @@ rules:
 | aiki | Aiki |  | [pixiv](https://www.pixiv.net/users/44728703) |
 | mumei | Mumei |  |  |
 | tefun | てふん |  |  |
-| shikoripa | しこりぱ | ![](https://i.pixiv.cat/user-profile/img/2019/11/13/01/50/43/16535642_ded1dea96ed27796c9fc5e1f3994da39_170.jpg) | [pixiv](https://www.pixiv.net/users/30260996) |
+| shikoripa | しこりぱ | ![](# "https://i.pixiv.cat/user-profile/img/2019/11/13/01/50/43/16535642_ded1dea96ed27796c9fc5e1f3994da39_170.jpg") | [pixiv](https://www.pixiv.net/users/30260996) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
