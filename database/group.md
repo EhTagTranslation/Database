@@ -1594,6 +1594,7 @@ rules:
 | h-gabmenters | H-gabmenters |  |  |
 | shichimen soka | 七面楚歌 |  |  |
 | shin nanka tou | 新なんか党 |  |  |
+| tefutefu. | てふてふ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
