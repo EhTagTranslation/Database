@@ -25,7 +25,10 @@ jobs:
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
     - name: Dump
-      run: echo ${{toJSON(github)}}
+      run: |
+        cat <<EOF
+        ${{toJSON(github)}}
+        EOF
     - uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
