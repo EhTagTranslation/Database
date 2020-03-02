@@ -2434,7 +2434,7 @@ rules:
 | ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun) [pixiv](https://www.pixiv.net/users/2473967) |
 | fumi miyabi | 文雅 |  |  |
 | masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
-| nunnu | ぬんぬ | ![ぬんぬ](https://i.pximg.net/user-profile/img/2012/04/27/19/46/37/4529987_a3ea7c48b68745e6282cd8014716ba94_170.jpg)<br>文苑堂「COMIC BAVEL」作者<br><br>![ファンキーベイビー](https://pbs.twimg.com/media/EGmlUDIWwAECPLe?format=jpg&name=4096x4096) | [画师推特](https://twitter.com/nunnu_zero) [pixiv](https://www.pixiv.net/users/467466) |
+| nunnu | ぬんぬ | ![ぬんぬ](https://i.pixiv.cat/user-profile/img/2012/04/27/19/46/37/4529987_a3ea7c48b68745e6282cd8014716ba94_170.jpg)<br>文苑堂「COMIC BAVEL」作者<br><br>![ファンキーベイビー](https://pbs.twimg.com/media/EGmlUDIWwAECPLe?format=jpg&name=4096x4096) | [画师推特](https://twitter.com/nunnu_zero) [pixiv](https://www.pixiv.net/users/467466) |
 | shimanto shisakugata | 40010试作型 |  |  |
 | yuzuna hiyo | 柚子奈ひよ |  |  |
 | kojiki ohji | 古事记王子 |  |  |
@@ -2449,9 +2449,9 @@ rules:
 | yamashita kurowo | 山下クロヲ |  |  |
 | yanagi yuu | ヤナギユウ |  |  |
 | ponite korosuke | ポニテコロ介 |  |  |
-| azuse | あずせ | ![あずせ](https://i.pximg.net/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pximg.net/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/users/71881) |
-| mameojitan | まめおじたん | ![あずせ](https://i.pximg.net/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen<br>](https://i.pximg.net/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/users/1297967) |
-| giuniu | ぎうにう | ![ぎうにう](https://i.pximg.net/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん<br>](https://i.pximg.net/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://twitter.com/g1un1u) [pixiv](https://www.pixiv.net/users/265292) |
+| azuse | あずせ | ![あずせ](https://i.pixiv.cat/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pixiv.cat/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/users/71881) |
+| mameojitan | まめおじたん | ![あずせ](https://i.pixiv.cat/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen<br>](https://i.pixiv.cat/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/users/1297967) |
+| giuniu | ぎうにう | ![ぎうにう](https://i.pixiv.cat/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん<br>](https://i.pixiv.cat/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://twitter.com/g1un1u) [pixiv](https://www.pixiv.net/users/265292) |
 | sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://twitter.com/sabusuka) [pixiv](https://www.pixiv.net/users/13316) |
 | senji | 煎路 |  |  |
 | komowata haruka | こもわた遥華 |  |  |
@@ -2524,6 +2524,7 @@ rules:
 | aiki | Aiki |  | [pixiv](https://www.pixiv.net/users/44728703) |
 | mumei | Mumei |  |  |
 | tefun | てふん |  |  |
+| shikoripa | しこりぱ | ![](https://i.pixiv.cat/user-profile/img/2019/11/13/01/50/43/16535642_ded1dea96ed27796c9fc5e1f3994da39_170.jpg) | [pixiv](https://www.pixiv.net/users/30260996) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
