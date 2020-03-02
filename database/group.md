@@ -1598,6 +1598,7 @@ rules:
 | tefutefu. | てふてふ。 |  |  |
 | menkui | めんくい |  |  |
 | amamineko cafe | あまみねこカフェ |  |  |
+| maron koubou | マロン工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
