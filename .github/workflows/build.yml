@@ -35,7 +35,7 @@ jobs:
       with:
         artifacts: ./publish/*
         body: |
-          ${{github.event.before}}..${{github.event.after}}
+          ${{github.event.before}}...${{github.event.after}}
           
           ${{github.event.head_commit.message}}
         token: ${{ secrets.GITHUB_TOKEN }}
