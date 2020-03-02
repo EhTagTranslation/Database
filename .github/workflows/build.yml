@@ -24,10 +24,12 @@ jobs:
         GitHub:Token: ${{ secrets.GITHUB_TOKEN }}
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
+    - name: Dump
+      run: echo ${{toJSON(github)}}
     - uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
-        body: ${{ format('{0}...{1}', github.event.before, github.event.after) }}
+        body: ${{ format('{0}...{1}\n\n{2}', github.event.before, github.event.after, github.event.head_commit.message) }}
         token: ${{ secrets.GITHUB_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
