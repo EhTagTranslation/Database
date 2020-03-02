@@ -1596,6 +1596,7 @@ rules:
 | shichimen soka | 七面楚歌 |  |  |
 | shin nanka tou | 新なんか党 |  |  |
 | tefutefu. | てふてふ。 |  |  |
+| menkui | めんくい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
