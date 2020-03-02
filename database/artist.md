@@ -2520,6 +2520,7 @@ rules:
 | hiroya | 广弥 |  |  |
 | amamiya | アマミヤ |  | [pixiv](https://www.pixiv.net/users/5565322) |
 | nedia | ねでぃあ |  | [pixiv](https://pixiv.net/users/4072067) |
+| aiki | Aiki |  | [pixiv](https://www.pixiv.net/users/44728703) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
