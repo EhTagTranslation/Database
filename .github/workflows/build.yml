@@ -24,16 +24,21 @@ jobs:
         GitHub:Token: ${{ secrets.GITHUB_TOKEN }}
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
-    - name: Dump
+    - name: Set messages
       run: |
-        cat <<EOF
-        ${{toJSON(github)}}
+        echo "::set-env name=RELEASE_NAME::$(
+        head -n1 <<EOF
+        ${{github.event.head_commit.message)}}
         EOF
+        )"
     - uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
-        body: ${{ format('{0}...{1}\n\n{2}', github.event.before, github.event.after, github.event.head_commit.message) }}
+        body: |
+          ${{github.event.before}}..${{github.event.after}}
+          
+          ${{github.event.head_commit.message}}
         token: ${{ secrets.GITHUB_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
-        name: ${{ github.event.head_commit.message }}
+        name: ${{ env.RELEASE_NAME }}
