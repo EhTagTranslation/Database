@@ -1435,6 +1435,7 @@ rules:
 | claymore | 大剑 |  |  |
 | sinoalice | 死亡爱丽丝 | 《死亡爱丽丝》（SINoALICE ーシノアリスー）是由Pokelabo开发、由Pokelabo与SQUARE ENIX共同运营的一款手机游戏。![游戏APP图标](http://ww1.sinaimg.cn/large/bdb78db8gy1gcgzg7nw7rj208c08cdg5.jpg) | [游戏官网](https://sinoalice.jp/) |
 | machikado mazoku | 街角魔族 |  |  |
+| the hunchback of notre dame | 钟楼怪人 | 《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。 | [维基百科](https://zh.wikipedia.org/wiki/钟楼怪人_%281996年电影%29) (*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
