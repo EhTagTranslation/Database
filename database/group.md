@@ -1600,6 +1600,7 @@ rules:
 | amamineko cafe | あまみねこカフェ |  |  |
 | maron koubou | マロン工房 |  |  |
 | nekomonido | ネコモニ堂 |  |  |
+| nikuniku italian | にくにくイタリアン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
