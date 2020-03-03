@@ -2791,6 +2791,7 @@ rules:
 | sister cleaire | 修女克蕾雅 |  |  |
 | perth | 珀斯 |  |  |
 | momo chiyoda | 千代田桃 |  |  |
+| yuko yoshida | 吉田优子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
