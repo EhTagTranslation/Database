@@ -31,7 +31,20 @@ jobs:
         ${{github.event.head_commit.message}}
         EOF
         )"
-    - uses: ncipollo/release-action@v1
+    - name: Upload release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: ./publish/*
+        body: |
+          ${{github.event.before}}...${{github.event.after}}
+          
+          ${{github.event.head_commit.message}}
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit: ${{ github.sha }}
+        tag: ${{ format('v-{0}', github.sha) }}
+        name: ${{ env.RELEASE_NAME }}
+    - name: Upload release, again
+      uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
         body: |
