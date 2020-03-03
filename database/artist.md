@@ -2527,6 +2527,7 @@ rules:
 | shikoripa | しこりぱ | ![](# "https://i.pixiv.cat/user-profile/img/2019/11/13/01/50/43/16535642_ded1dea96ed27796c9fc5e1f3994da39_170.jpg") | [pixiv](https://www.pixiv.net/users/30260996) |
 | tani takuya | 谷拓也 |  |  |
 | maron | 魔龙 |  |  |
+| yomoyama takashi | 四方山贵史 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
