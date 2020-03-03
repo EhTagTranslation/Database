@@ -1,4 +1,4 @@
-﻿---
+---
 key: parody
 name: 原作
 description: 同人作品模仿的原始作品。
@@ -1433,6 +1433,7 @@ rules:
 | tonari no seki-kun | 上课小动作 |  |  |
 | high score girl | 高分少女 |  |  |
 | claymore | 大剑 |  |  |
+| sinoalice | 死亡爱丽丝 | 《死亡爱丽丝》（SINoALICE ーシノアリスー）是由Pokelabo开发、由Pokelabo与SQUARE ENIX共同运营的一款手机游戏。![游戏APP图标](http://ww1.sinaimg.cn/large/bdb78db8gy1gcgzg7nw7rj208c08cdg5.jpg) | [游戏官网](https://sinoalice.jp/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
