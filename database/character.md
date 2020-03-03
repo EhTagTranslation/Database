@@ -2790,6 +2790,7 @@ rules:
 | narumi fujishima | 藤岛鸣海 |  |  |
 | sister cleaire | 修女克蕾雅 |  |  |
 | perth | 珀斯 |  |  |
+| momo chiyoda | 千代田桃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
