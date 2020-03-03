@@ -2529,6 +2529,7 @@ rules:
 | maron | 魔龙 |  |  |
 | yomoyama takashi | 四方山贵史 |  |  |
 | fuji tarawi | 藤たらゐ |  | [pixiv](https://www.pixiv.net/users/9771767) |
+| mousou | 妄想 |  | [pixiv](https://www.pixiv.net/users/5852420) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
