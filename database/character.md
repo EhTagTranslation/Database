@@ -2789,6 +2789,7 @@ rules:
 | yuuko shionji | 紫苑寺有子 |  | [萌娘百科](https://zh.moegirl.org/紫苑寺有子) |
 | narumi fujishima | 藤岛鸣海 |  |  |
 | sister cleaire | 修女克蕾雅 |  |  |
+| perth | 珀斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
