@@ -2786,6 +2786,7 @@ rules:
 | sei iori | 伊织诚 |  |  |
 | bea | 彩豆 |  |  |
 | kudryavka noumi | 能美库特莉亚芙卡 |  | [萌娘百科](https://zh.moegirl.org/能美库特莉亚芙卡) |
+| yuuko shionji | 紫苑寺有子 |  | [萌娘百科](https://zh.moegirl.org/紫苑寺有子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
