@@ -46,6 +46,7 @@ jobs:
     - name: Upload release, again
       uses: ncipollo/release-action@v1
       with:
+        allowUpdates: true
         artifacts: ./publish/*
         body: |
           ${{github.event.before}}...${{github.event.after}}
