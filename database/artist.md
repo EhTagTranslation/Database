@@ -2535,6 +2535,7 @@ rules:
 | nanamatsu kenji | 七松建司 |  |  |
 | fuumi | ふーみ |  | [pixiv](https://www.pixiv.net/users/10292)<br>[Twitter](https://twitter.com/fuumiisc) |
 | shacho | 社ちょ |  | [pixiv](https://www.pixiv.net/users/341675)<br>[Twitter](https://twitter.com/yashiro_tyoK) |
+| toito | トイト |  | [pixiv](https://www.pixiv.net/users/1965383)<br>[Twitter](https://twitter.com/toitotenntyou) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
