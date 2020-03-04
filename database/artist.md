@@ -2532,6 +2532,7 @@ rules:
 | mousou | 妄想 |  | [pixiv](https://www.pixiv.net/users/5852420) |
 | yokohama inka | よこはまインカ |  |  |
 | hoshi | ほし |  | [pixiv](https://www.pixiv.net/users/1198913)<br>[Twitter](https://twitter.com/hoshi_u3) |
+| nanamatsu kenji | 七松建司 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
