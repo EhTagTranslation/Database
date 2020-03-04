@@ -2796,6 +2796,7 @@ rules:
 | rindou mikoto | 龙胆尊 |  |  |
 | hotaru ichijou | 一条萤 |  |  |
 | komari koshigaya | 越谷小鞠 |  |  |
+| renown | 声望 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
