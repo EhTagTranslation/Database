@@ -2795,6 +2795,7 @@ rules:
 | reines el-melloi archisorte | 莱妮丝·埃尔梅罗·阿奇佐尔缇 |  |  |
 | rindou mikoto | 龙胆尊 |  |  |
 | hotaru ichijou | 一条萤 |  |  |
+| komari koshigaya | 越谷小鞠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
