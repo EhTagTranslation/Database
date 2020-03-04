@@ -2805,6 +2805,7 @@ rules:
 | strength | 力量 |  |  |
 | chang chun | 长春 |  |  |
 | kirika akatsuki | 晓切歌 |  |  |
+| asuha chigusa | 千种明日叶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
