@@ -2804,6 +2804,7 @@ rules:
 | chariot | 战轮妖精 |  |  |
 | strength | 力量 |  |  |
 | chang chun | 长春 |  |  |
+| kirika akatsuki | 晓切歌 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
