@@ -2802,6 +2802,7 @@ rules:
 | ai hinatsuru | 雏鹤爱 |  |  |
 | ginko sora | 空银子 |  |  |
 | chariot | 战轮妖精 |  |  |
+| strength | 力量 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
