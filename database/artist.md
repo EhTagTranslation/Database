@@ -2533,6 +2533,7 @@ rules:
 | yokohama inka | よこはまインカ |  |  |
 | hoshi | ほし |  | [pixiv](https://www.pixiv.net/users/1198913)<br>[Twitter](https://twitter.com/hoshi_u3) |
 | nanamatsu kenji | 七松建司 |  |  |
+| fuumi | ふーみ |  | [pixiv](https://www.pixiv.net/users/10292)<br>[Twitter](https://twitter.com/fuumiisc) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
