@@ -2792,6 +2792,7 @@ rules:
 | perth | 珀斯 |  |  |
 | momo chiyoda | 千代田桃 |  |  |
 | yuko yoshida | 吉田优子 |  |  |
+| reines el-melloi archisorte | 莱妮丝·埃尔梅罗·阿奇佐尔缇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
