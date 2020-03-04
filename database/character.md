@@ -2803,6 +2803,7 @@ rules:
 | ginko sora | 空银子 |  |  |
 | chariot | 战轮妖精 |  |  |
 | strength | 力量 |  |  |
+| chang chun | 长春 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
