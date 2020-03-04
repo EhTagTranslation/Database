@@ -1601,6 +1601,7 @@ rules:
 | maron koubou | マロン工房 |  |  |
 | nekomonido | ネコモニ堂 |  |  |
 | nikuniku italian | にくにくイタリアン |  |  |
+| darkside room | だーくさいどるーむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
