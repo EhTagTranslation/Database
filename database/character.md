@@ -2799,6 +2799,7 @@ rules:
 | renown | 声望 |  |  |
 | maria balthasar | 玛利亚·巴尔塔札尔 |  |  |
 | emeralda kasim | 艾美拉达·卡西姆 |  |  |
+| ai hinatsuru | 雏鹤爱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
