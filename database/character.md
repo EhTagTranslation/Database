@@ -2798,6 +2798,7 @@ rules:
 | komari koshigaya | 越谷小鞠 |  |  |
 | renown | 声望 |  |  |
 | maria balthasar | 玛利亚·巴尔塔札尔 |  |  |
+| emeralda kasim | 艾美拉达·卡西姆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
