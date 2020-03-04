@@ -113,7 +113,7 @@ rules:
 | ryohka | 凉香 |  |  |
 | shinkai makoto | 新海诚 | 动画导演 |  |
 | benet | ベネット |  |  |
-| ponpon | ぽんぽん |  | [pixiv](https://www.pixiv.net/users/2470002)<br>[pixiv](https://www.pixiv.net/jump.php?url=https%3A%2F%2Ftwitter.com%2Fponpon9020) |
+| ponpon | ぽんぽん |  | [pixiv](https://www.pixiv.net/users/2470002)<br>[Twitter](https://twitter.com/ponpon9020) |
 | tetsujin | 铁人 |  |  |
 | hiyoko | ひよこ |  |  |
 | syukurin | シュクリーン |  |  |
