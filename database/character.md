@@ -2809,6 +2809,7 @@ rules:
 | kasumi chigusa | 千种霞 |  |  |
 | ange katrina | 安洁·卡特莉娜 |  |  |
 | cagliostro | 卡莉奥斯特萝 |  |  |
+| kyouka hikawa | 冰川镜华 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
