@@ -2808,6 +2808,7 @@ rules:
 | asuha chigusa | 千种明日叶 |  |  |
 | kasumi chigusa | 千种霞 |  |  |
 | ange katrina | 安洁·卡特莉娜 |  |  |
+| cagliostro | 卡莉奥斯特萝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
