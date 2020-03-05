@@ -2816,6 +2816,7 @@ rules:
 | niyon | 妮欧 |  |  |
 | yuel | 尤艾尔 |  |  |
 | societte | 苏丝雅 |  |  |
+| kanau kongou | 金刚叶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
