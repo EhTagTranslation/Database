@@ -2815,6 +2815,7 @@ rules:
 | saren sasaki | 佐佐木咲恋 |  |  |
 | niyon | 妮欧 |  |  |
 | yuel | 尤艾尔 |  |  |
+| societte | 苏丝雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
