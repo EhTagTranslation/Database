@@ -2813,6 +2813,7 @@ rules:
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
 | saren sasaki | 佐佐木咲恋 |  |  |
+| niyon | 妮欧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
