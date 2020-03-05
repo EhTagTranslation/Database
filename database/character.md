@@ -2807,6 +2807,7 @@ rules:
 | kirika akatsuki | 晓切歌 |  |  |
 | asuha chigusa | 千种明日叶 |  |  |
 | kasumi chigusa | 千种霞 |  |  |
+| ange katrina | 安洁·卡特莉娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
