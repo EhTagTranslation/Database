@@ -2812,6 +2812,7 @@ rules:
 | kyouka hikawa | 冰川镜华 |  |  |
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
+| saren sasaki | 佐佐木咲恋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
