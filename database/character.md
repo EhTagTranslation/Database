@@ -2810,6 +2810,7 @@ rules:
 | ange katrina | 安洁·卡特莉娜 |  |  |
 | cagliostro | 卡莉奥斯特萝 |  |  |
 | kyouka hikawa | 冰川镜华 |  |  |
+| retoree | 莱托莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
