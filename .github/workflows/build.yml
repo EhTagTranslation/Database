@@ -32,7 +32,7 @@ jobs:
         EOF
         )"
     - name: Upload release
-      uses: OpportunityLiu/release-action@master #ncipollo/release-action@v1
+      uses: ncipollo/release-action@v1
       with:
         artifacts: ./publish/*
         body: |
