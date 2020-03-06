@@ -217,7 +217,7 @@ rules:
 |  | ▲ Love Live 人物 |  |  |
 |  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有**200+**个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/天羽剑提督.png/250px-天羽剑提督.png") |  |
-| nagato | 长门 | No.001 长门![长门](# "https://ehgt.org/ed/fe/edfeda7b7b1233090e49f049ef629404a9f97a85-1967290-2120-3008-jpg_250.jpg") |  |
+| nagato | 长门 | No.001 长门<br>![长门](https://ehgt.org/48/46/48469968e5901d58fb8d37a85b42d6c44cec160f-64327-218-300-jpg_l.jpg) |  |
 | mutsu | 陆奥 | No.002 陆奥![陆奥](# "https://ehgt.org/e0/d7/e0d7e77be040aa02024d5576a31680106627d58c-878090-1697-2400-jpg_250.jpg") |  |
 | ise | 伊势 | No.003 |  |
 | hyuuga | 日向 | No.004 |  |
