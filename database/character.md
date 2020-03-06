@@ -2820,6 +2820,7 @@ rules:
 | yuuko aioi | 相生祐子 |  |  |
 | mio naganohara | 长野原美绪 |  |  |
 | mai minakami | 水上麻衣 |  |  |
+| nano shinonome | 东云名乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
