@@ -2818,6 +2818,7 @@ rules:
 | societte | 苏丝雅 |  |  |
 | kanau kongou | 金刚叶 |  |  |
 | yuuko aioi | 相生祐子 |  |  |
+| mio naganohara | 长野原美绪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
