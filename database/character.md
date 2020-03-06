@@ -2821,6 +2821,7 @@ rules:
 | mio naganohara | 长野原美绪 |  |  |
 | mai minakami | 水上麻衣 |  |  |
 | nano shinonome | 东云名乃 |  |  |
+| hakase shinonome | 东云博士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
