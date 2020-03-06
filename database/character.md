@@ -2817,6 +2817,7 @@ rules:
 | yuel | 尤艾尔 |  |  |
 | societte | 苏丝雅 |  |  |
 | kanau kongou | 金刚叶 |  |  |
+| yuuko aioi | 相生祐子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
