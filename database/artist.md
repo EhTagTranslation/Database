@@ -2537,6 +2537,7 @@ rules:
 | shacho | 社ちょ |  | [pixiv](https://www.pixiv.net/users/341675)<br>[Twitter](https://twitter.com/yashiro_tyoK) |
 | toito | トイト |  | [pixiv](https://www.pixiv.net/users/1965383)<br>[Twitter](https://twitter.com/toitotenntyou) |
 | toketou | とけとう |  | [pixiv](https://www.pixiv.net/users/17775569) |
+| shisyo | ししょー |  | [pixiv](https://www.pixiv.net/users/5910442)<br>[Twitter](https://twitter.com/Ci_syo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
