@@ -429,7 +429,7 @@ rules:
 | suzutsuki | 凉月 | No.332 |  |
 | etorofu | 择捉 | No.334 |  |
 | matsuwa | 松轮 | No.335 |  |
-| sado | 佐渡 | No.339 |  |
+| sado | 佐渡 | No.339<br>![](https://ehgt.org/20/ed/20edcbf02fa3dd8f7c3251ea7112a427146e93e2-94385-327-450-png_l.jpg) |  |
 | tsushima | 对马 | No.340 |  |
 | gambier bay | 甘比尔湾 | No.344 |  |
 | intrepid | 无畏 | No.349 |  |
