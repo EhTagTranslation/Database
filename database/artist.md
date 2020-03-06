@@ -1527,7 +1527,7 @@ rules:
 | inuboshi | 犬星 |  |  |
 | saitou tsukasa | さいとうつかさ |  |  |
 | shinkaida tetsuyarou | 新贝田铁也郎 |  |  |
-| sorimura youji | そりむらようじ |  |  |
+| sorimura youji | そりむらようじ |  | [pixiv](https://www.pixiv.net/users/36491)<br>[Twitter](https://twitter.com/sorimura) |
 | yamamoto kazue | 山本和枝 |  |  |
 | natsuo monaka | なつおもなか |  |  |
 | binkan argento | びんかんargento |  |  |
