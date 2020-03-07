@@ -167,8 +167,7 @@ rules:
 | rara8 | らら8 |  |  |
 | medaka kenichi | 目高健一 |  |  |
 | kanna | かん奈 |  |  |
-| fujutsushi | 风术师 |  |  |
-| fubuki poni | 風吹ぽに |  |  |
+| kazabuki poni | 風吹ぽに |  |  |
 | ouma tokiichi | 逢魔刻壹 |  |  |
 | momonoki fum | 百乃木富梦 |  |  |
 | miito shido | 三糸シド |  |  |
@@ -179,7 +178,7 @@ rules:
 | sakurazaka tsuchiyu | 桜坂つちゆ |  |  |
 | yamakaze ran | やまかぜ嵐 |  |  |
 | anko | あん子 \| あんこ |  |  |
-| koguro. | こぐろ。 |  |  |
+| kohaku. | こはく。（こぐろ。） |  |  |
 | kousaka jun | 香坂纯 |  |  |
 | gerotan | げろたん |  |  |
 | kozakura kumaneko | 小桜クマネコ |  |  |
@@ -202,7 +201,7 @@ rules:
 | yan-yam | Yan-Yam |  |  |
 | watanabe kenpo | 渡边宪法 |  |  |
 | kamiya zuzu | 神谷ズズ |  |  |
-| maruta itsuki | 丸汰いつき |  |  |
+| tsumumaru hifu | 紡丸ひふ |  |  |
 | yasakani an | ヤサカニ·アン |  |  |
 | ayachi | あやち |  |  |
 | kurori | くろり |  |  |
@@ -233,7 +232,7 @@ rules:
 | tsuttsu | つっつ |  |  |
 | minarai zouhyou | 見習い雑兵 |  |  |
 | aya | AYA \| 蓝夜 | お嬢の浴室<br>TWILIGHT DUSK |  |
-| shiba junko | 司马淳子 |  |  |
+| oi shibako | しばこ（司马淳子） |  |  |
 | sato-satoru | さとーさとる |  |  |
 | gengorou | 源五郎 |  |  |
 | rokuyo ten | 六曜テン |  |  |
@@ -358,7 +357,7 @@ rules:
 | san sheng wan | 三生万 |  | [pixiv](https://www.pixiv.net/users/16811335) |
 | el | える |  |  |
 | mango pudding | まんごープリン |  |  |
-| gekka saeki | 月下冴喜 |  |  |
+| wakamiya santa | 若宫参太 |  |  |
 | shungiku tenudon | 春菊天うどん |  |  |
 | mikaduki neko | 三日月ネコ |  |  |
 | aihara shouta | 相原翔太 |  |  |
@@ -462,7 +461,6 @@ rules:
 | fuyutugu | 冬嗣 |  |  |
 | mogudan | モグダン |  |  |
 | 100yen locker | 100円ロッカー |  |  |
-| naruya taka | 成矢タカ |  |  |
 | hana hook | 華フック |  |  |
 | taki minashika | 滝美梨香 |  |  |
 | hirame | ヒラメ \| 比目鱼 | ★F<br>龟鱼派 |  |
@@ -487,7 +485,6 @@ rules:
 | muronaga chaashuu | 室永叉烧 |  |  |
 | sawao | さわお |  |  |
 | kudou hiroshi | 工藤洋 |  |  |
-| han | HAN |  |  |
 | tsurui | 鹤井 |  |  |
 | okiraku nic | お気楽ニック |  |  |
 | kanten | 寒天 |  |  |
@@ -502,7 +499,7 @@ rules:
 | ikkyuu | 一休 |  |  |
 | hasemi ryo | 长谷见亮 |  |  |
 | summer | サマー |  |  |
-| miyatsuki touka | 都月十佳 |  |  |
+| tokitsu mika | 都月十佳 |  |  |
 | arigase shinji | ありがせしんじ |  |  |
 | arisaka k | 有坂K |  |  |
 | asakaze abyss | 朝風あびす |  |  |
@@ -518,7 +515,7 @@ rules:
 | shinonome ryu | 东云龙 |  |  |
 | nikusyo | 弐駆緒 |  |  |
 | shimanto youta | 四万十曜太 |  |  |
-| koiou | 鲤王 |  |  |
+| sugou hiroyuki | 菅生博倖 |  |  |
 | bow rei | 某零 |  |  |
 | inochi wazuka | 命わずか |  |  |
 | hiduki yayoi | ひづき夜宵 |  |  |
@@ -589,7 +586,6 @@ rules:
 | wazakita | わざきた |  |  |
 | erodezain koubou | エロデザイン工房 |  |  |
 | coffee-kizoku | 珈琲貴族 |  |  |
-| kuroi hiroki | 黑井弘骑 |  |  |
 | rindou | 龙胆 |  |  |
 | iruma kamiri | いるまかみり |  |  |
 | zakkin | 杂菌 |  |  |
@@ -638,7 +634,6 @@ rules:
 | yassy | YASSY |  |  |
 | rokuwata tomoe | 六羽田トモエ |  |  |
 | souma | 相马 |  |  |
-| buguon | 不光 |  |  |
 | annekuma | ANNEKUMA |  |  |
 | 108 gou | 108号 |  |  |
 | akazawa red | あかざわRED |  |  |
@@ -669,7 +664,6 @@ rules:
 | yamazaki kazuma | 山崎かずま |  |  |
 | momonosuke | 桃之助 |  |  |
 | murian | 无有利安 |  |  |
-| samidore setsuna | 五月雨せつな |  |  |
 | mutou mato | 武藤 まと |  | [pixiv](https://www.pixiv.net/users/1429353) [Twitter](https://twitter.com/mto_mt) |
 | kobayashi oukei | 小林王桂 |  |  |
 | tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对小忍(oshino shinobu)特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/8542) |
@@ -682,7 +676,6 @@ rules:
 | hagiya masakage | はぎやまさかげ |  |  |
 | siina tai | 椎名鲷 |  |  |
 | greenteaneko | GreenTeaNeko |  |  |
-| akky | あっきぃ☆ |  |  |
 | kuroshiro neko | 黑白音子 |  |  |
 | dean | ディーン |  |  |
 | mizutani rin | みずたにりん |  |  |
@@ -801,7 +794,7 @@ rules:
 | kokudakaya | こくだかや |  |  |
 | kuroishi ringo | 黒石りんご |  |  |
 | mokuzou | 杢臓 |  |  |
-| porno studio | ポルノスタディオ |  |  |
+| suitekiya yuumin | 水滴家悠民 |  |  |
 | takasugi kou | タカスギコウ |  |  |
 | uramac | うらまっく |  |  |
 | isawa nohri | いさわのーり |  |  |
@@ -854,14 +847,12 @@ rules:
 | oda non | 织田non | 画风写实，多为熟女(milf) |  |
 | nemunemu | ネムネム | 老师画的男孩子太棒了！画的比女孩子还要美的身材。 |  |
 | makita masaki | 蒔田真記 | 日本女性插画师，主要从事成人插画作品。 |  |
-| hoshiai hiro | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
+| hoshiai hilo | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
 | takase yuu | 鹰势优 | 90年代中期开始从事成人向漫画创作。作品以萝莉(lolicon)和正太(shotacon)为主。 |  |
 | hiiragi masaki | 柊柾葵 | 2004年以作品『クーロ君の華麗なる日常』（ショタみみLOVE vol.6）出道。之后以『クーロ君シリーズ』（即少年男仆库洛）系列在合集杂志进行创作。 |  |
 | po-ju | ぽ～じゅ | 插画师。作品以正太(shotacon)为主。画风细腻色情。 | [pixiv](https://www.pixiv.net/users/19291) |
 | abu hyaku | あぶひゃく | 男孩子的慰菊入门的作者。 |  |
 | suehirogari | すえひろがり | ![图](# "https://ehgt.org/21/63/216303dc5c19009d310064d3ba1006cbf8976947-517308-1750-2454-jpg_l.jpg") |  |
-| shiromaneki | シオマネキ | ![图](# "https://ehgt.org/45/ae/45aeec2a06bdfbb63f2968e20759974998b3b3ee-1277202-3560-1584-jpg_l.jpg") |  |
-| chimee house | ちみはうす | ![图](# "https://ehgt.org/31/3d/313de88039a4a01f28163a988fc88620e3818b5c-618153-2150-3036-jpg_l.jpg") |  |
 | kuritsu yoshihiro | くりつよしひろ | ![图](# "https://ehgt.org/13/cd/13cd290c30b3427e65f66259060b33dfbfed3d81-912091-1981-2400-jpg_l.jpg") |  |
 | guglielmo | ぐりえるも | ![图](# "https://ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg")<br>![图](# "https://ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") |  |
 | kusano yuu | 草野ゆぅ | ![图](# "https://ehgt.org/84/a2/84a2a65577b300681aad16d2e19633488604cb3c-2300734-2280-3280-jpg_l.jpg") |  |
@@ -899,7 +890,7 @@ rules:
 | tonda | Tonda |  |  |
 | matsu takeshi | 松武 |  |  |
 | matsuzaki tsukasa | 松崎司 |  |  |
-| zood | ZOOD |  |  |
+| zootan | ZooTAN |  |  |
 | redlight | REDLIGHT |  |  |
 | yukie | ゆき恵 |  |  |
 | raven | RAVEN |  |  |
@@ -915,7 +906,6 @@ rules:
 | sugi g | すぎぢー |  |  |
 | kanzaki maguro | 潤咲まぐろ |  |  |
 | sakagaki | サカガキ |  |  |
-| ohmiya tsukasa | 大宫司 |  |  |
 | leslie brown | Leslie Brown |  |  |
 | satsuki imonet | 皋月芋网 |  |  |
 | chiyoko | ちよこ |  |  |
@@ -937,7 +927,6 @@ rules:
 | sugaishi | すがいし |  |  |
 | sumiya | スミヤ |  |  |
 | takashi | タカシ |  |  |
-| umakuchi shouyu | うまくち醤油 |  |  |
 | ushino kandume | 牛野缶诘 |  |  |
 | yahiro pochi | 八尋ぽち |  |  |
 | yanyo | やんよ |  |  |
@@ -958,9 +947,8 @@ rules:
 | cuvie | Cuvie |  |  |
 | hazuki yuto | 羽月ユウト |  |  |
 | hinasaki yo | 雏咲叶 |  |  |
-| hirama hirokazu | 平間ひろかず |  |  |
+| naruko | 鳴湖（平間ひろかず） |  |  |
 | hishigata tomaru | ひし形とまる |  |  |
-| ichiko | いちこ |  |  |
 | mokufu | もくふう |  |  |
 | okumoto yuuta | オクモト悠太 |  |  |
 | regdic | れぐでく |  |  |
@@ -968,7 +956,6 @@ rules:
 | shimetta seiya | 湿った星夜 |  |  |
 | tsukitokage | 月蜥蜴 |  |  |
 | izumi yuhina | いずみゆひな |  |  |
-| ryouma | りょうま |  |  |
 | akino sora | あきのそら |  |  |
 | yumeno tanuki | 梦乃狸 |  |  |
 | ichinomiya | 一ノ宮 |  |  |
@@ -995,7 +982,6 @@ rules:
 | karma tatsurou | かるま龍狼 |  |  |
 | kizuka kazuki | きづかかずき |  |  |
 | koppori nama beer | こっぽり生ビール |  |  |
-| linda | LINDA |  |  |
 | mojarin | もじゃりん |  |  |
 | momoko | ももこ |  |  |
 | netoromorikon | ねとろもりこん |  |  |
@@ -1046,7 +1032,6 @@ rules:
 | caviar | きゃびあ |  |  |
 | mojyako | モジャコ |  |  |
 | hammer | ハマー |  |  |
-| ruku | るく |  |  |
 | sugiyuu | スギユウ |  |  |
 | wox yang | 沃克羊 |  |  |
 | garland | があらんど |  |  |
@@ -1065,7 +1050,6 @@ rules:
 | sanezaki tsukiuo | 志崎月鱼 |  |  |
 | wang-pac | わんぱく |  |  |
 | arai taiki | 新井大器 |  |  |
-| ari | あり |  |  |
 | ayano rena | 綾乃れな |  |  |
 | chuunen | 中年 |  |  |
 | hanafuda sakurano | 花札さくらの |  |  |
@@ -1088,7 +1072,7 @@ rules:
 | chiba toshirou | チバトシロウ |  |  |
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
-| harukichi | はるきち |  |  |
+| haruhisky | はるきち |  |  |
 | ichinomiya yuu | 一宫夕羽 |  |  |
 | inago | INAGO |  |  |
 | maki daikichi | 牧だいきち |  |  |
@@ -1241,7 +1225,7 @@ rules:
 | miura takehiro | みうらたけひろ |  |  |
 | sena youtarou | 濑奈阳太郎 |  |  |
 | yumesaki sanjuro | 夢咲三十郎 |  |  |
-| aino chie | あいの智絵 |  |  |
+| sakomae aichi | 佐古前あいち（あいの智絵） |  |  |
 | bakuya | ばくや |  |  |
 | c.meiko | C.みーこ |  |  |
 | eightman | えいとまん |  |  |
@@ -1279,7 +1263,7 @@ rules:
 | u-tom | う\~とむ |  |  |
 | shiramori yuse | 白森ゆせ |  |  |
 | bak hyeong jun | 朴亨濬 |  |  |
-| motsu aki | もつあき |  |  |
+|  | もつあき |  |  |
 | yanagihara mitsuki | 柳原ミツキ |  |  |
 | ponkotsu works | ぽんこつわーくす |  |  |
 | nibo | にぼ |  |  |
@@ -1289,12 +1273,12 @@ rules:
 | satsuki neko | 五月猫 |  |  |
 | akinashi yuu | 春夏冬ゆう |  | [pixiv](https://www.pixiv.net/users/10769105) |
 | jakou nezumi | じゃこうねずみ |  |  |
-| hamd | HAMD |  |  |
+|  | HAMD |  |  |
 | nagi yuki | 凪居ユキ |  |  |
 | kusui aruta | 久水あるた |  |  |
 | tamanosuke | たまのすけ |  |  |
 | minamihama yoriko | 南浜よりこ |  |  |
-| pd | Pd |  |  |
+|  | Pd |  |  |
 | butcha-u | ブッチャーU |  |  |
 | nekomata naomi | ねこまたなおみ |  |  |
 | kiichi | きいち |  |  |
@@ -1315,7 +1299,7 @@ rules:
 | devilhs | Devil_HS |  |  |
 | aina nana | 愛菜奈々 |  |  |
 | yokoshima takemaru | 邪武丸 |  |  |
-| furokuma | ふろくま |  |  |
+|  | ふろくま |  |  |
 | hawa | はわ |  |  |
 | tomose shunsaku | トモセシュンサク |  |  |
 | reiha | 零覇 |  |  |
@@ -1323,7 +1307,7 @@ rules:
 | magaki ryouta | 間垣りょうた |  |  |
 | yukino minato | 雪野みなと |  |  |
 | maruchang | 丸ちゃん。 |  |  |
-| a1 | A1 |  |  |
+|  | A1 |  |  |
 | sukiyo | スキヨ |  |  |
 | aiue oka | 爱上陆 |  |  |
 | rustle | らする |  |  |
@@ -1338,16 +1322,16 @@ rules:
 | takurou | たくろう |  |  |
 | tsukimoto kizuki | 月本筑希 |  |  |
 | taigiakira | タイギアキラ |  |  |
-| yd | YD |  |  |
+|  | YD |  |  |
 | ishikawa naoya | 石川直哉 |  |  |
-| wb | WB |  |  |
+|  | WB |  |  |
 | takaku nozomu | 高玖のぞむ |  |  |
 | oni-noboru | Oni-noboru |  |  |
 | hamo | はも |  |  |
 | satsumaage | さつま揚げ |  |  |
 | abu | アブ \| ABU | めろですうぃーぷ<br>Absolute |  |
 | sinntarou | 心太朗 |  |  |
-| suzuki hajime | 透月ハジメ |  |  |
+|  | 透月ハジメ |  |  |
 | kotoba ai | コトバアイ |  |  |
 | strong bana | Strong Bana |  |  |
 | kuroadam | 黒葉だむ |  |  |
@@ -1358,14 +1342,14 @@ rules:
 | umitsubame | うみつばめ |  |  |
 | nanappe | 七っぺ |  |  |
 | akeyama kitsune | 绯山狐 |  |  |
-| sakura | 樱 | 多个作者：櫻 \| sakura \| さくら<br>sakura：<br>![萌](# "https://ehgt.org/4e/9f/4e9fbfbb3627393542f8d969b300b09cc1f6d95f-1737501-2851-2000-jpg_l.jpg")<br>さくら：<br>![瞎](# "https://ehgt.org/18/0f/180f8c6691fd132261b68376f3f511084bdbd0e9-897960-1100-1567-jpg_l.jpg") |  |
+|  | 樱 | 多个作者：櫻 \| sakura \| さくら<br>sakura：<br>![萌](# "https://ehgt.org/4e/9f/4e9fbfbb3627393542f8d969b300b09cc1f6d95f-1737501-2851-2000-jpg_l.jpg")<br>さくら：<br>![瞎](# "https://ehgt.org/18/0f/180f8c6691fd132261b68376f3f511084bdbd0e9-897960-1100-1567-jpg_l.jpg") |  |
 | yakiniku king | 焼肉キング |  |  |
 | nekoi hikaru | 猫伊光 |  |  |
 | inanaki shiki | 稻鸣四季 |  |  |
 | tohgarashi hideyu | 唐辛子ひでゆ |  |  |
 | shinjinkun | 新人君 |  |  |
 | barlun | ばーるん |  |  |
-| kiyomiya ryou | 清宫凉 |  |  |
+| kiyomiya ryo | 清宫凉 |  |  |
 | higata | HIGATA |  |  |
 | outou chieri | 樱桃千绘里 |  |  |
 | hoshizaki hikaru | 星崎ひかる |  |  |
@@ -1430,7 +1414,7 @@ rules:
 | koharu nanakusa | 小春七草 |  |  |
 | kousuke | 交介 |  |  |
 | kuronomiki | 黒ノ樹 |  |  |
-| kurosawa yuri | 黒澤ユリ |  |  |
+| kurosawa kiyotaka | 黒澤清崇 |  |  |
 | misaki kaho. | ミサキカホ。 |  |  |
 | ogura shuuichi | 小仓修一 |  |  |
 | yuuki homura | 结城焰 |  |  |
@@ -1509,7 +1493,7 @@ rules:
 | kayama rim | 香山リム |  |  |
 | tomokichi | 友吉 |  |  |
 | nagi ichi | 凪市 |  |  |
-| ponsu jure | ぽん酢 |  |  |
+| ponz | ぽん酢 |  |  |
 | arekusa mahone | 荒草まほん |  |  |
 | akasa ai | あかさあい |  |  |
 | mizu umi | 瑞海 |  |  |
@@ -1534,13 +1518,12 @@ rules:
 | minagiku | みなぎく |  |  |
 | landolt tamaki | ランドルトたまき |  |  |
 | ferallemma | フィラレマ |  |  |
-| habara tetsu | 叶原铁 |  |  |
 | kisaragi miyu | 如月みゆ |  |  |
 | igumox | 井雲くす |  |  |
 | kuune rin | くうねりん |  |  |
 | goto-beido | ゴト・ベイドー |  |  |
 | morikura en | 森仓圆 |  |  |
-| afukuro | アフ黒 |  |  |
+| af kuro | アフ黒 |  |  |
 | kaguyuzu | カグユヅ |  |  |
 | dsmile | DSマイル |  |  |
 | monoto | ものと |  |  |
@@ -1549,7 +1532,7 @@ rules:
 | kiryu | Kiryu |  |  |
 | kozakura nanane | 小桜菜々音 |  |  |
 | hazakura momo | 葉桜もも |  |  |
-| sakura shouji | 咲良将司 |  |  |
+| sakura syoji | 咲良将司 |  |  |
 | hidiri rei | ヒヂリレイ |  |  |
 | nadeara bukichi | 抚荒武吉 |  |  |
 | qoopie | Qoopie |  |  |
@@ -1592,7 +1575,7 @@ rules:
 | azuma taira | 東タイラ |  |  |
 | enoki tomoyuki | 榎木知之 |  |  |
 | fujisaka kuuki | 藤坂空树 |  |  |
-| grace | ぐれいす |  |  |
+| grace ishikawa | グレイス石川 |  |  |
 | harumi chihiro | ハルミチヒロ |  |  |
 | hiyama shuri | ヒヤマシュリ |  |  |
 | izumi yoshiki | いづみよしき |  |  |
@@ -1649,7 +1632,7 @@ rules:
 | kotoyoshi yumisuke | 琴义弓介 |  |  |
 | mctek | MCtek |  |  |
 | hidaka sora | 日高空 |  |  |
-| mashiro mami | 眞白まみ |  |  |
+| mamabe mami | 眞々部まみ |  |  |
 | sakusyaaya | 作者文 |  | [pixiv](https://www.pixiv.net/users/2082705) |
 | yoshitani motoka | 义谷元日 |  |  |
 | ruschuto | るしゅーと |  |  |
@@ -1848,7 +1831,7 @@ rules:
 | nishikawa kouto | 西川孔人 |  |  |
 | torosawa | とろさわ |  |  |
 | sekira ame | せきらあめ |  |  |
-| koaya aco | コアヤアコ |  |  |
+| koayako | コアヤアコ |  |  |
 | yagami shuuichi | 八神秋一 |  |  |
 | aimaitei umami | 愛昧亭うまみ |  |  |
 | ohara hiroki | 绪原博绮 |  |  |
@@ -1875,7 +1858,7 @@ rules:
 | nico pun nise | 笑花伪 |  |  |
 | okina saina | 冲那彩菜 |  |  |
 | sonomiya ponta | 想乃宮ぽん太 |  |  |
-| tendou itto | 天童一斗 |  |  |
+| uziga waita | 氏賀Y太 |  |  |
 | araki kyouya | 荒木京也 |  |  |
 | bunchin | ぶんちん |  |  |
 | don shigeru | DON繁 |  |  |
@@ -1917,7 +1900,7 @@ rules:
 | aru ra une | アル・ラ・ウネ |  |  |
 | aranasi | 新良梨 |  |  |
 | maki yoshitaka | 真木佳刚 |  |  |
-| kokuten kazuma | 国天カズマ |  |  |
+| kazuma g-version | カズマ・G-VERSION |  |  |
 | fangcat | FangCat |  | [pixiv](https://www.pixiv.net/users/1122873) |
 | wtk | WTK |  |  |
 | as109 | As109 |  |  |
@@ -1941,7 +1924,7 @@ rules:
 | uruujima call | うるう島呼音 |  |  |
 | koizumi amane | 恋泉天音 |  | [Twitter](https://twitter.com/amane_koizumi) |
 | stikyfinkaz-003 | StikyfinkaZ-003 |  |  |
-| rokuwa | 白鹭六羽 |  |  |
+| shirasagi rokuwa | 白鹭六羽 |  |  |
 | sato daiji | 大慈 |  |  |
 | akeno minato | 绯野湊 |  |  |
 | hanabana tsubomi | 華々つぼみ |  |  |
@@ -1979,7 +1962,6 @@ rules:
 | rusty soul | ラスティソウル |  |  |
 | sakaki shiori | さかき栞 |  |  |
 | shibahara gotyo | しばはらごちょ |  |  |
-| sas | SAS |  |  |
 | uyuu atsuno | 烏有あつの |  |  |
 | iguchi sentarou | 井口千太郎 |  |  |
 | oborogumo takamitsu | 朧雲たかみつ |  |  |
@@ -2015,7 +1997,7 @@ rules:
 | mousou-kun | もうそうくん |  |  |
 | ooishi chuuni | 大石中二 |  |  |
 | mitsudoue | みつどうえ |  |  |
-| poyoyon rock | ぽよよん♥ろっく |  |  |
+| watanabe akio | 渡边明夫 |  |  |
 | kiyokawa nijiko | 虚川二次子 |  |  |
 | himuro serika | 冰室芹夏 |  |  |
 | nachisuke | なちすけ |  |  |
@@ -2049,7 +2031,6 @@ rules:
 | blackshirtboy | Blackshirtboy |  |  |
 | xpray | Xpray |  |  |
 | shika yuno | 椎架ゆの |  |  |
-| chouzuki maryou | 蝶月真绫 |  |  |
 | azarashi | アザラシ |  |  |
 | syamonabe | シャモナベ |  |  |
 | tyagama | 茶釜 |  |  |
@@ -2081,13 +2062,13 @@ rules:
 | shitappa | したっぱ |  |  |
 | kanbayashi takaki | 神林タカキ |  |  |
 | nyx | にゅくす |  |  |
-| akaxia | AkaXia |  | [pixiv](https://www.pixiv.net/users/7036773) |
+| akashia | アカシア |  | [pixiv](https://www.pixiv.net/users/7036773) |
 | shigeta | しげた |  |  |
 | uminori | うみのり |  |  |
 | yopparai oni | 酔っ払い鬼? |  |  |
 | alpaca club | あるぱかくらぶ |  |  |
 | berosu | べろす |  |  |
-| shiri | しりー |  | [pixiv](https://www.pixiv.net/users/2774175) |
+| silly | しりー |  | [pixiv](https://www.pixiv.net/users/2774175) |
 | sekiri | せきり |  |  |
 | midorino tanuki | 翠野タヌキ |  |  |
 | kanna hisashi | かんな久 |  |  |
@@ -2109,8 +2090,8 @@ rules:
 | sexyturkey | すたーきー |  | [pixiv](https://www.pixiv.net/users/13901) |
 | shikkarimono no takashi-kun | しっかり者のタカシくん |  |  |
 | survival knife | サバイバル刃 |  |  |
-| wolt | ヲルト |  |  |
-| yaki tomeito | 焼きトマト |  |  |
+| kishiri toworu | ヲルト |  |  |
+| yakitomato | 焼きトマト |  |  |
 | ban kazuyasu | 伴カズヤス |  |  |
 | kaneko toshiaki | かねことしあき |  |  |
 | labui | 羅ぶい |  |  |
@@ -2122,7 +2103,7 @@ rules:
 | shigeru | しげる |  |  |
 | akata izuki | 亚方逸树 |  |  |
 | matsumori shou | 茉森晶 |  |  |
-| dadarou | だたろう |  |  |
+| datarou | だたろう |  |  |
 | miso tya | みそ茶 |  |  |
 | eirizo | エイリゾ |  |  |
 | ootomo yuuki | 大友ゆうき |  |  |
@@ -2204,7 +2185,6 @@ rules:
 | aoiro ichigou | あお色一号 |  |  |
 | futamine kobito | 二峰跨人 |  |  |
 | gennari | ゲンナリ |  |  |
-| hanasaki tsutsuji | 花咲つつじ |  |  |
 | inukami | いぬかみ |  |  |
 | narumiya akira | 成宫亨 |  |  |
 | oosawara sadao | 大童贞男 |  |  |
@@ -2326,10 +2306,8 @@ rules:
 | hanakawa sugar | 花川シュガー |  |  |
 | urabi | うらび |  |  |
 | kichirock | キチロク |  |  |
-| darjeeling. | だ～じりん。 |  |  |
+| wes heartland smith | ウェス·ハートランド·スミス |  |  |
 | pochincoff | ポチンコフ |  |  |
-| tamasatou | 玉砂糖 |  |  |
-| kogasaki yuina | こがさきゆいな |  |  |
 | shimeji nameko | しめじなめこ |  |  |
 | sakibashiri jiru | 先走汁 |  |  |
 | hayashi tugumi | 林つぐみ |  |  |
@@ -2395,7 +2373,7 @@ rules:
 | ryuuki yumi | りゅうき夕海 |  |  |
 | nakano sora | 中乃空 |  |  |
 | napo | ナポ |  |  |
-| kazuki misakio | 数木美咲 |  |  |
+| kazuki misaki | 数木美咲 |  |  |
 | nakata modem | 中田モデム |  |  |
 | anzaki moral | 杏咲モラル |  |  |
 | brother pierrot | ブラザーピエロ |  |  |
@@ -2538,6 +2516,7 @@ rules:
 | toito | トイト |  | [pixiv](https://www.pixiv.net/users/1965383)<br>[Twitter](https://twitter.com/toitotenntyou) |
 | toketou | とけとう |  | [pixiv](https://www.pixiv.net/users/17775569) |
 | shisyo | ししょー |  | [pixiv](https://www.pixiv.net/users/5910442)<br>[Twitter](https://twitter.com/Ci_syo) |
+| whistlerx | WhistlerX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
