@@ -1064,7 +1064,6 @@ rules:
 | shouta magatsuchi | 真土翔太 | ![真土翔太](# "https://ehgt.org/34/16/3416452f9b22d84967c08df972385721bf124c7d-677363-661-935-png_l.jpg") |  |
 | riko saikawa | 才川莉子 |  |  |
 | elma | 艾尔玛 |  |  |
-| kobayashi | 小林 |  |  |
 |  | ▼ 星期一的丰满 角色 |  |  |
 | ai-chan | 小爱 |  | [萌娘百科](https://zh.moegirl.org/小爱%28星期一的丰满%29) |
 | kouhai-chan | 后辈 |  |  |
@@ -1866,7 +1865,7 @@ rules:
 | atalanta | 阿塔兰忒 |  |  |
 | kairi sisigou | 狮子劫界离 |  |  |
 | miyako arima | 有间都古 |  |  |
-| kuro von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
+| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
 | miyu edelfelt | 美游·艾德费尔特 | 平行世界中的“圣杯战争”中的圣杯容器<br>![图](# "https://ehgt.org/4e/39/4e396284adfea8b2a493fe3320278a02ce0db1df-260187-1255-1822-jpg_l.jpg")![图](# "https://ehgt.org/51/0b/510b1d37cb5e4b095c774bbbff8dbfd0b1417a4b-351382-1410-2024-jpg_l.jpg") |  |
 | sella | 塞拉 |  |  |
@@ -2039,7 +2038,7 @@ rules:
 | taihei doma | 土间大平 |  | [萌娘百科](https://zh.moegirl.org/土间大平) |
 | kirie motoba | 本场切绘 |  | [萌娘百科](https://zh.moegirl.org/本场切绘) |
 | nana ebina | 海老名菜菜 |  | [萌娘百科](https://zh.moegirl.org/海老名菜菜) |
-| sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org/橘·希尔芬福特) \| |
+| sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org/橘·希尔芬福特) |
 | takeshi motoba | 本场猛（崩巴） |  |  |
 |  | ▼ 对魔忍 |  |  |
 | asagi igawa | 井河阿莎姬 |  |  |
@@ -2064,48 +2063,27 @@ rules:
 | bubbles | 泡泡 |  |  |
 | buttercup | 毛毛 |  |  |
 |  | ▼ 光之美少女 系列 |  |  |
-| nagisa misumi | 美墨渚 |  |  |
 | cure black | 黑天使 |  |  |
-| honoka yukishiro | 雪城穗乃香 |  |  |
 | cure white | 白天使 |  |  |
-| hikari kujou | 九条光 |  |  |
 | shiny luminous | 夏妮露米纳丝 |  |  |
-| saki hyuuga | 日向咲 |  |  |
 | cure bloom | 花天使 |  |  |
-| cure bright | 月天使 |  |  |
-| mai mishou | 美翔舞 |  |  |
 | cure egret | 舞天使 |  |  |
-| cure windy | 风天使 |  |  |
 | michiru kiryuu | 雾生满 |  |  |
 | kaoru kiryuu | 雾生薰 |  |  |
-| nozomi yumehara | 梦原希 |  |  |
 | cure dream | 梦天使 |  |  |
-| rin natsuki | 夏木玲 |  |  |
 | cure rouge | 火天使 |  |  |
-| urara kasugano | 春日野丽 |  |  |
 | cure lemonade | 柠檬天使 |  |  |
-| komachi akimoto | 秋元小町 |  |  |
 | cure mint | 薄荷天使 |  |  |
-| karen minazuki | 水无月香恋 |  |  |
 | cure aqua | 水天使 |  |  |
-| kurumi mimino | 美美野来未 |  |  |
 | milky rose | 妙奇露丝 |  |  |
-| love momozono | 桃园爱 |  |  |
 | cure peach | 桃天使 |  |  |
-| miki aono | 苍乃美希 |  |  |
 | cure berry | 莓天使 |  |  |
-| inori yamabuki | 山吹祈里 |  |  |
 | cure pine | 凤梨天使 |  |  |
 | eas | 伊丝 |  |  |
-| setsuna higashi | 东刹那 |  |  |
 | cure passion | 百香果天使 |  |  |
-| tsubomi hanasaki | 花咲蕾 |  |  |
 | cure blossom | 花蕾天使 |  |  |
-| erika kurumi | 来海绘里香 |  |  |
 | cure marine | 海洋天使 |  |  |
-| itsuki myoudouin | 明堂院树 |  |  |
 | cure sunshine | 阳光天使 |  |  |
-| yuri tsukikage | 月影百合 |  |  |
 | cure moonlight | 月光天使 |  |  |
 | cure flower | 花朵天使 |  |  |
 | cure ange | 圣洁天使 |  |  |
@@ -2119,26 +2097,17 @@ rules:
 | momoka kurumi | 来海桃香 |  |  |
 | sakura kurumi | 来海樱 |  |  |
 | tsubaki myoudouin | 明堂院椿 |  |  |
-| hibiki houjou | 北条响 |  |  |
 | cure melody | 旋律天使 |  |  |
-| kanade minamino | 南野奏 |  |  |
 | cure rhythm | 节奏天使 |  |  |
 | siren | 赛莲 |  |  |
-| ellen kurokawa | 黑川艾莲 |  |  |
 | cure beat | 节拍天使 |  |  |
-| ako shirabe | 调边亚子 |  |  |
 | cure muse | 谬思天使 |  |  |
 | maria houjou | 北条真理亚 |  |  |
 | misora minamino | 南野美空 |  |  |
-| miyuki hoshizora | 星空美幸 |  |  |
 | cure happy | 快乐天使 |  |  |
-|  | 日野茜(重复项) |  |  |
 | cure sunny | 晴朗天使 |  |  |
-| yayoi kise | 黄濑弥生 |  |  |
 | cure peace | 和平天使 |  |  |
-| nao midorikawa | 绿川直 |  |  |
 | cure march | 旋风天使 |  |  |
-| reika aoki | 青木丽华 |  |  |
 | cure beauty | 美丽天使 |  |  |
 | ikuyo hoshizora | 星空育代 |  |  |
 | masako hino | 日野正子 |  |  |
@@ -2152,52 +2121,31 @@ rules:
 | bad end peace | 悲剧和平天使 |  |  |
 | bad end march | 悲剧旋风天使 |  |  |
 | bad end beauty | 悲剧美丽天使 |  |  |
-| mana aida | 相田爱 |  |  |
 | cure heart | 爱心天使 |  |  |
-| rikka hishikawa | 菱川六花 |  |  |
 | cure diamond | 钻石天使 |  |  |
-| alice yotsuba | 四叶爱丽丝 |  |  |
 | cure rosetta | 幸运草天使 |  |  |
-| makoto kenzaki | 剑崎真琴 |  |  |
 | cure sword | 圣剑天使 |  |  |
-| aguri madoka | 圆亚久里 |  |  |
 | cure ace | 王牌天使 |  |  |
 | regina | 蕾吉娜 |  |  |
 | ryoko hishikawa | 菱川亮子 |  |  |
-| megumi aino | 爱乃惠 |  |  |
 | cure lovely | 可爱天使 |  |  |
-| hime shirayuki | 白雪姬 |  |  |
 | cure princess | 公主天使 |  |  |
-| yuko omori | 大森悠子 |  |  |
 | cure honey | 蜂蜜天使 |  |  |
-| iona hikawa | 冰川伊绪奈 |  |  |
 | cure fortune | 命运天使 |  |  |
 | maria hikawa | 冰川麻理亚 |  |  |
-| haruka haruno | 春野遥 |  |  |
 | cure flora | 花神天使 |  |  |
-| minami kaidou | 海藤南 |  |  |
 | cure mermaid | 人鱼天使 |  |  |
-| kirara amanogawa | 天之川绮罗 |  |  |
 | cure twinkle | 闪亮天使 |  |  |
 | towa akagi | 红城永久 |  |  |
 | cure scarlet | 赤红天使 |  |  |
-| mirai asahina | 朝日奈未来 |  |  |
 | cure miracle | 奇迹天使 |  |  |
-| riko izayoi | 十六夜理子 |  |  |
 | cure magical | 魔法天使 |  |  |
-| kotoha hanami | 花海言叶 |  |  |
 | cure felice | 幸福天使 |  |  |
-| ichika usami | 宇佐美一花 |  |  |
 | cure whip | 奶油天使 |  |  |
-| himari arisugawa | 有栖川阳莉 |  |  |
 | cure custard | 奶黄天使 |  |  |
-| aoi tategami | 立神葵 |  |  |
 | cure gelato | 冰淇淋天使 |  |  |
-| yukari kotozume | 琴爪缘 |  |  |
 | cure macaron | 马卡龙天使 |  |  |
-| akira kenjou | 剑城晶 |  |  |
 | cure chocolat | 巧克力天使 |  |  |
-| ciel kirahoshi | 绮罗星夏尔 |  |  |
 | cure parfait | 芭菲天使 |  |  |
 |  | ▼ 草莓棉花糖 |  |  |
 | nobue itou | 伊藤伸惠 |  |  |
@@ -2225,11 +2173,6 @@ rules:
 | mayoi hachikuji | 八九寺真宵 |  |  |
 | deishuu kaiki | 贝木泥舟 |  |  |
 | yotsugi ononoki | 斧乃木余接 |  |  |
-| hana nono | 野乃花 |  |  |
-| homare kagayaki | 辉木誉 |  |  |
-| saaya yakushiji | 药师寺纱绫 |  |  |
-| ruru amour | 露露·艾莫尔 |  |  |
-| emiru aisaki | 爱崎惠美瑠 |  |  |
 |  | ▼ 甘城光辉游乐园 |  |  |
 | seiya kanie | 可儿江西也 |  |  |
 | isuzu sento | 千斗五十铃 |  |  |
@@ -2300,28 +2243,17 @@ rules:
 | lyndis | 琳蒂斯 |  |  |
 | nowi | 诺诺 |  |  |
 |  | ▼ 美少女战士 |  |  |
-| mamoru chiba | 地场卫 |  |  |
-| tuxedo mask | 大礼服假面 |  |  |
-| usagi tsukino | 月野兔 |  |  |
-| sailor moon | 水手月亮 |  |  |
-| chibiusa | 小小兔 |  |  |
-| sailor chibi moon | 水手小月亮 |  |  |
-| ami mizuno | 水野亚美 |  |  |
-| sailor mercury | 水手水星 |  |  |
-| rei hino | 火野丽 |  |  |
-| sailor mars | 水手火星 |  |  |
-| makoto kino | 木野真琴 |  |  |
-| sailor jupiter | 水手木星 |  |  |
-| minako aino | 爱野美奈子 |  |  |
-| sailor venus | 水手金星 |  |  |
-| hotaru tomoe | 土萌萤 |  |  |
-| sailor saturn | 水手土星 |  |  |
-| michiru kaioh | 海王满 |  |  |
-| sailor neptune | 水手海王星 |  |  |
-| haruka tenoh | 天王遥 |  |  |
-| sailor uranus | 水手天王星 |  |  |
-| setsuna meioh | 冥王雪奈 |  |  |
-| sailor pluto | 水手冥王星 |  |  |
+| tuxedo mask | 大礼服假面 | 地场卫 |  |
+| sailor moon | 水手月亮 | 月野兔 |  |
+| sailor chibi moon | 水手小月亮 | 小小兔 |  |
+| sailor mercury | 水手水星 | 水野亚美 |  |
+| sailor mars | 水手火星 | 火野丽 |  |
+| sailor jupiter | 水手木星 | 木野真琴 |  |
+| sailor venus | 水手金星 | 爱野美奈子 |  |
+| sailor saturn | 水手土星 | 土萌萤 |  |
+| sailor neptune | 水手海王星 | 海王满 |  |
+| sailor uranus | 水手天王星 | 天王遥 |  |
+| sailor pluto | 水手冥王星 | 冥王雪奈 |  |
 | kenji tsukino | 月野谦之 |  |  |
 | ikuko tsukino | 月野育子 |  |  |
 | shingo tsukino | 月野进悟 |  |  |
@@ -2459,6 +2391,7 @@ rules:
 | kizuna ai | 绊爱 | 人工智障 |  |
 | kaguya luna | 辉夜月 |  |  |
 | mirai akari | Mirai Akari |  |  |
+| nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为虚拟YouTuber活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org/Nekomasu) |
 |  | ▼ 机动战士高达SEED&机动战士高达SEED Destiny |  |  |
 | kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/基拉·大和) |
 | miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) |  |
@@ -2766,7 +2699,6 @@ rules:
 | kokkoro | 可可萝 |  |  |
 | kanon matsubara | 松原花音 |  |  |
 | holo | 赫萝 | 赫萝是《狼与香辛料》的女主角 | [萌娘百科](https://zh.moegirl.org/赫萝) |
-| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 |  |  |
 | marie rose | 玛丽·萝丝 | 玛丽·萝丝（Marie Rose，又译萝丝·玛丽）是日本游戏公司KOEI TECMO GAMES在PS3,PS4,XBOX 360,XBOX ONE,XBOX ONE S,PC平台上开发的游戏《死或生》（又译《生死格斗》）的第五代中的可选操作角色。 | [百度百科](https://baike.baidu.com/item/玛丽·萝丝/18400032) |
 | helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/zh-hans/海莲娜%28死或生%29) |
 | sylvanas windrunner | 希尔瓦娜斯·风行者 | 希尔瓦娜斯·风行者是暴雪旗下游戏《魔兽争霸》、《魔兽世界》以及《魔兽世界》官方小说中的登场角色，同时也在各种相关的衍生作品中亮相。 | [希尔瓦娜斯·风行者](https://zh.moegirl.org/希尔瓦娜斯) |
@@ -2823,6 +2755,7 @@ rules:
 | mai minakami | 水上麻衣 |  |  |
 | nano shinonome | 东云名乃 |  |  |
 | hakase shinonome | 东云博士 |  |  |
+| kobayashi | 小林 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

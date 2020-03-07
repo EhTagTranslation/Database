@@ -1244,7 +1244,7 @@ rules:
 | niliu chahui | 逆流茶会 |  |  |
 | seikei doujin | 正经同人 |  |  |
 | b.b.t.t. | B.B.T.T. |  |  |
-| kumak.com | KUMAK.COM |  | \|\|  \|  \| \| |
+| kumak.com | KUMAK.COM |  |  |
 | neruneru | ねるねる |  |  |
 | bomb shelter | 核弹避难室 |  |  |
 | shokakuya | 少年觉醒夜 |  |  |
