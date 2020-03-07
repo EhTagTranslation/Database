@@ -23,7 +23,7 @@ jobs:
       env:
         GitHub:Token: ${{ secrets.GITHUB_TOKEN }}
     - name: Build
-      run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
+      run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll -- --source . --target ./publish
     - name: Set messages
       run: |
         echo "::set-env name=RELEASE_NAME::$(
