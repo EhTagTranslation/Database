@@ -461,7 +461,7 @@ rules:
 | triple penetration | 三重插入 | 三个插入同时发生在一个人身上。往往是双重插入(double penetration)后用剩下的口也被插入，或双插阴道(double vaginal)/双插肛门(double anal)后插入其他后孔。<br>![图](# "https://ehgt.org/c8/5a/c85a8f685f3f0856c22ee188ac0a720d328ec84a-192869-800-600-jpg_l.jpg")![图](# "https://ehgt.org/e5/f0/e5f0423750d8c861edf0d4050e88cb7ca3e71a31-308957-991-1400-jpg_l.jpg")![图](# "https://ehgt.org/5c/3a/5c3ab16ffa342d3b5ad5131bb330e1f8bf26691c-546934-2100-1500-jpg_l.jpg")![图](# "https://ehgt.org/e8/75/e875efc37d69ab1c430c3ae21525cb4530023c36-1261888-1022-1500-jpg_l.jpg") |  |
 |  | == 工具 == |  |  |
 | clamp | 夹具 | 用以起疼痛或性快感的，附着在身体上的一个或多个夹具。通常是指专门用于捆绑游戏的乳头或阴蒂夹具，但也可能涉及普通家居用品，如衣夹或装订夹。<br>![图](# "https://ehgt.org/1a/12/1a12b6b71d16c965dc3b362f24bf54ef505c8e64-6252737-2176-3050-jpg_l.jpg")![图](# "https://ehgt.org/f8/01/f80132b355c303451ec72294e56fbf71b9a95ca7-6170202-2160-3050-jpg_l.jpg") |  |
-| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不应与卡在墙上(stuck in wall)或虫洞(wormhole)混淆。 | \|onahole |
+| glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不应与卡在墙上(stuck in wall)或虫洞(wormhole)混淆。 |  |
 | machine | 机械奸 | 与机器做爱。不应与机器人(robot)、性玩具(sex toys)和机娘(mecha girl)混淆。 |  |
 | onahole | 飞机杯 | 一个人工阴道用来对阴茎自慰(masturbation)。不应与性玩具(sex toys)混淆。<br>![图](# "https://ehgt.org/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg")![图](# "https://ehgt.org/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg")![图](# "https://ehgt.org/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg") |  |
 | pillory | 枷具 | 限制头部和手运动的装置，一般是木制的。需要束缚(bondage)标签。<br>![图](# "https://ehgt.org/a4/ec/a4ec4c1731063293af9a3159e3d3cafc6e334daa-935587-1024-768-png_l.jpg") |  |
