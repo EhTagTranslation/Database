@@ -2517,6 +2517,7 @@ rules:
 | toketou | とけとう |  | [pixiv](https://www.pixiv.net/users/17775569) |
 | shisyo | ししょー |  | [pixiv](https://www.pixiv.net/users/5910442)<br>[Twitter](https://twitter.com/Ci_syo) |
 | whistlerx | WhistlerX |  |  |
+| hagiwara asami | 萩原あさ美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
