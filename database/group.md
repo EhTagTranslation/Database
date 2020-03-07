@@ -98,7 +98,8 @@ rules:
 | atelier kaguya team gassa-q | Atelier KAGUYA TEAM Gassa-Q |  |  |
 | atelier kaguya team heartbeat | Atelier KAGUYA TEAM HEARTBEAT |  |  |
 | atelier kaguya berkshire yorkshire | Atelier KAGUYA Berkshire Yorkshire |  |  |
-| atelier sakura | 樱花工作室 |  |  |
+| atelier sakura roshutsu yuugi | 樱花工作室 露出＊游戏 |  |  |
+| atelier sakura konmai studio | 樱花工作室 こんまいすたじお |  |  |
 | atelier sakura darkness | 樱花工作室 DARKNESS |  |  |
 | atelier sakura team.ntr | 樱花工作室 Team.NTR |  |  |
 | atelier sakura mount position | 樱花工作室 Mount Position |  |  |
@@ -106,7 +107,7 @@ rules:
 | abel software | AbelSoftware |  |  |
 | type-moon | 🌙TYPE-MOON | EX咖喱棒！<br>![图](https://ehgt.org/b5/cf/b5cfbf85de09ec9d8594fe37f87f43bb90c781ff-36026-320-389-jpg_l.jpg) |  |
 | nitroplus | Nitro+ |  |  |
-| 5pb. | 5pb. |  |  |
+| 5pb | 5pb. |  |  |
 | aniseed | AniSeed |  |  |
 | candysoft | Candy Soft |  |  |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (\*) |
@@ -115,12 +116,10 @@ rules:
 | milksoft | 牛奶软件 |  |  |
 |  | ▲ GAL公司 |  |  |
 |  | ▼ 其他游戏公司 |  |  |
-| illusion | ILLUSION | ILLUSION，俗称一路撸神，是日本的十八禁 3D 游戏制作公司。 |  |
 | falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
 | dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
 | kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
-| sex syndrome | Sex Syndrome |  |  |
 |  | ▲ 其他游戏公司 |  |  |
 |  | ▼ 同人社团 |  |  |
 | electromagneticwave | ElectromagneticWave | ![logo](http://www.ne.jp/asahi/magneticwave/popcan/top5_logo.gif)<br>萌单作者POP所在的社团<br>![萌单](http://www.ne.jp/asahi/magneticwave/popcan/cafe.jpg) | [社团官方网站](http://www.ne.jp/asahi/magneticwave/popcan/) |
@@ -287,7 +286,7 @@ rules:
 | irotenya | 色点屋 |  |  |
 | watakubi | わたくび |  |  |
 | kirikiri | きりきり |  |  |
-| koguroya. | こぐろ屋。 |  |  |
+| kohagura. | こはぐら。（こぐろ屋。） |  |  |
 | gambler club | ギャンブラー倶楽部 |  |  |
 | usagi no oyatsu | ぅさぎのぉゃっ |  |  |
 | hakke deneijyo | 八卦电影城 |  |  |
@@ -385,12 +384,10 @@ rules:
 | kokatsubatake | こかつ畑 |  |  |
 | nise-jyuusyofutei | 伪住所不定 |  |  |
 | rpg company 2 | RPGカンパニー2 |  |  |
-| rpg company | RPGカンパニー |  |  |
 | royal bitch | ろいやるびっち |  |  |
 | einsatz | Einsatz |  |  |
 | majimeya | 真面目屋 |  |  |
 | almarosso | アルマロッソ |  |  |
-| sin | Sin |  |  |
 | jitaku vacation | 自宅vacation |  |  |
 | avalanche | あばらんち |  |  |
 | suzu no oka | 鈴の丘 |  |  |
@@ -465,7 +462,6 @@ rules:
 | shiratamaco | しらたまこ |  |  |
 | oreteki18kin | 俺的十八禁 |  |  |
 | dl mate | DLメイト |  |  |
-| kakuzatouichi | 核座头市 |  |  |
 | kaminagi-tei | 神凪邸 |  |  |
 | execio | エクセシオ |  |  |
 | seza team | せざちーむ |  |  |
@@ -475,7 +471,6 @@ rules:
 | maho-shinsengumi | 魔法新撰组 |  |  |
 | caramel crunch | CARAMEL CRUNCH! |  |  |
 | ncp | NCP |  |  |
-| yousai kyoushitsu | 幼妻教室 |  |  |
 | choujikuu yousai kachuusha | 超時空要塞カチューシャ |  |  |
 | nanmin festival | 難民ふぇすてぃばる |  |  |
 | ririo gatto | りーりおがーと |  |  |
@@ -490,7 +485,7 @@ rules:
 | meisho hanten | めーしょー飯店 |  |  |
 | rushe museum | Rushe Museum |  |  |
 | ame usagi | あめうさぎ |  |  |
-| sottile nero | ソッティーロネーロ |  |  |
+| sottilo nero | ソッティーロネーロ |  |  |
 | hollowplus | HOLLOWPLUS |  |  |
 | iminic | IMINIC |  |  |
 | oshaban | オシャバン |  |  |
@@ -517,7 +512,6 @@ rules:
 | shinenkan | 新炎馆 |  |  |
 | studio himawari | スタジオ☆ひまわり |  |  |
 | tohgoo | 冬宫 |  |  |
-| takanaruya. | 高鳴る屋。 |  |  |
 | makino jimusho | マキノ事務所 |  |  |
 | turtle.fish.paint | 龟鱼派 |  |  |
 | bear hand | 熊掌社 |  |  |
@@ -652,7 +646,7 @@ rules:
 | deans pro office | 帝恩PRO事务所 |  |  |
 | mizutaniya | 水谷屋 |  |  |
 | arysuivery | ありぃすいべりぃ |  |  |
-| neko jarasa re | 猫じゃらされ |  |  |
+| nekojarasare | 猫じゃらされ |  |  |
 | puchiota rakugaki | ぷちオタ落描き |  |  |
 | activa | ACTIVA |  |  |
 | atsuatsu muchimuchi | アツアツムチムチ |  |  |
@@ -709,7 +703,7 @@ rules:
 | komachiya | 小町屋 |  |  |
 | cu-little2 | Cu-little2 |  |  |
 | furaipan daimaou | ふらいぱん大魔王 |  |  |
-| wickedheart | WICKEDHEART |  |  |
+| wicked heart | WICKED HEART |  |  |
 | peach candy | Peach Candy |  |  |
 | live house | LIVE HOUSE |  |  |
 | sujoyu and co. | 酢醤油&Co. |  |  |
@@ -837,7 +831,7 @@ rules:
 | ponkotsu works | ぽんこつわーくす |  |  |
 | amezaiku | 雨细工 |  |  |
 | niboshi | 煮干 |  |  |
-| nibo niboshi | にぼ煮干 |  |  |
+| niboniboshi | にぼ煮干 |  |  |
 | daisuki beachkun | 大好き!!ビーチクン |  |  |
 | mirake | MiraKE |  |  |
 | yodakapan | ヨダカパン |  |  |
@@ -949,7 +943,6 @@ rules:
 | nijigen shoujo | 虹元少女 |  |  |
 | muskel bild | Muskel☆Bild |  |  |
 | takebouzu | 竹坊主 |  |  |
-| whistlerx | WhistlerX |  |  |
 | egyptsobaya | エジプトそば屋 |  |  |
 | dm-fc | DM-FC |  |  |
 | awareness | Awareness |  |  |
@@ -980,11 +973,11 @@ rules:
 | sandworks | SANDWORKS |  |  |
 | sorairokibun | 空色気分 |  |  |
 | stella | Stella |  |  |
-| yuunagi no senryokugai butai | 夕凪の戦力外部隊 |  |  |
+| yuunagi gaibutai | 夕凪外部隊 |  |  |
 | lionoil | らいおんおいる |  |  |
 | arekusa thunder | アレクササンダー |  |  |
 | seaside | SEA SIDE |  |  |
-| sakyuuya | 砂丘屋 |  |  |
+| sakyuya | 砂丘屋 |  |  |
 | ph-bu | PH部 | 特色：扩张萝莉 |  |
 | kyurettokyuretto | ^^ |  |  |
 | panda cotta | Panda Cotta |  |  |
@@ -1581,7 +1574,7 @@ rules:
 | kikurage-ya | きくらげ屋 |  |  |
 | shis | SHIS |  |  |
 | tomoshibiya koubou | 灯夜工房 |  |  |
-| kakuzato-ichi | 核座頭市 |  |  |
+| kakuzato-ichi | 核座头市 |  |  |
 | poppenheim | ぽっぺんはいむ |  |  |
 | chitei no nikuya | 地底の肉屋 |  |  |
 | manaita | まないた |  |  |
@@ -1602,6 +1595,7 @@ rules:
 | nekomonido | ネコモニ堂 |  |  |
 | nikuniku italian | にくにくイタリアン |  |  |
 | darkside room | だーくさいどるーむ |  |  |
+| chimee house | ちみはうす | ![图](# "https://ehgt.org/31/3d/313de88039a4a01f28163a988fc88620e3818b5c-618153-2150-3036-jpg_l.jpg") |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
