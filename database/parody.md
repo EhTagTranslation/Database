@@ -196,7 +196,7 @@ rules:
 | fate apocrypha | Fate/Apocrypha | ![](https://ehgt.org/43/dc/43dc39bdc54c843b8a806b3f2f71069d316e04e8-3794023-2147-3018-jpg_l.jpg) |  |
 | fate zero | Fate/Zero | Fate/stay night前传<br>![图](https://ehgt.org/ef/f6/eff66d2ba324dc440abd2690fa3bd2682f9b3610-1123388-1472-2217-jpg_l.jpg) |  |
 | fate hollow ataraxia | Fate/hollow ataraxia | ![](https://ehgt.org/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) |  |
-| fate extra | Fate/EXTRA | 《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。 ![](https://ehgt.org/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | https://zh.wikipedia.org/wiki/Fate/EXTRA |
+| fate extra | Fate/EXTRA | 《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。 ![](https://ehgt.org/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Fate/EXTRA) |
 | fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](# "https://ehgt.org/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg")![图](# "https://ehgt.org/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg") |  |
 | mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |  |
 | kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 |  |
