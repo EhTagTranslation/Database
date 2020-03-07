@@ -88,7 +88,6 @@ rules:
 | mobile suit gundam lost war chronicles | 机动战士高达战记 Lost War Chronicles |  |  |
 | mobile suit gundam tekketsu no orphans | 机动战士高达 铁血的孤儿 |  |  |
 | gundam wing | 新机动战记高达W |  |  |
-| crossbone gundam | 机动战士海盗高达 |  |  |
 | gundam build fighters | 高达创战者 |  |  |
 | gundam build fighters try | 高达创战者TRY |  |  |
 | gundam build divers | 高达创形者 |  |  |
@@ -140,7 +139,7 @@ rules:
 | rosario vampire | 十字架与吸血鬼 | 漫画，不了解<br>![图](# "https://ehgt.org/97/ac/97ac8a9ab8bcf27c7a09ca6eee1c335bc81ba152-330768-607-850-jpg_l.jpg")![图](# "https://ehgt.org/eb/f5/ebf5c1def8cc83506b28dc3244b6189e4aff0519-379951-1072-1500-jpg_l.jpg") |  |
 |  | ▼ 光美大军 |  |  |
 | pretty cure | 光之美少女 | 光之美少女系列的统称<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| pretty cure splash star | 光之美少女Splash Star | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
+| futari wa precure splash star | 光之美少女Splash Star | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | yes precure 5 | Yes! 光之美少女5 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | fresh precure | Fresh 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | heartcatch precure | Heartcatch 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
@@ -197,8 +196,7 @@ rules:
 | fate apocrypha | Fate/Apocrypha | ![](https://ehgt.org/43/dc/43dc39bdc54c843b8a806b3f2f71069d316e04e8-3794023-2147-3018-jpg_l.jpg) |  |
 | fate zero | Fate/Zero | Fate/stay night前传<br>![图](https://ehgt.org/ef/f6/eff66d2ba324dc440abd2690fa3bd2682f9b3610-1123388-1472-2217-jpg_l.jpg) |  |
 | fate hollow ataraxia | Fate/hollow ataraxia | ![](https://ehgt.org/02/6c/026c56bf07fb5fee1f5ee3ed00f71cf29f70e544-1269878-1200-1686-jpg_l.jpg) |  |
-| fate extra | Fate/EXTRA | ![](https://ehgt.org/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) |  |
-| fate extella | Fate/EXTELLA | 《Fate/EXTELLA》是由Marvelous制作发行的一款ACT游戏，于2016年11月10日登陆PS4/PSV，亚洲中韩文合版于2016年12月15日发售。并于2017年7月20日登陆Nintendo Switch，且内置索尼互动娱乐台湾中文化中心翻译的繁体中文语言。2017年7月26日，在Steam平台发售PC版，内置繁体中文语言，并开放DLC（皮肤）购买。 |  |
+| fate extra | Fate/EXTRA | 《Fate/EXTRA》（日语：フェイト/エクストラ）是由TYPE-MOON和IMAGEEPOCH开发，Marvelous Entertainment发售的一款角色扮演游戏。是根据TYPE-MOON的文字冒险游戏《Fate/stay night》改编而成的。其后推出本作后续作品《Fate/EXTRA CCC》、《Fate/EXTELLA》、《Fate/EXTELLA LINK》。 ![](https://ehgt.org/54/5e/545ed878365815aeb2bf105f851a86cf887e8167-423633-1268-1827-jpg_l.jpg) | https://zh.wikipedia.org/wiki/Fate/EXTRA |
 | fate kaleid liner prisma illya | Fate/kaleid liner 魔法少女☆伊莉雅 | ![图](# "https://ehgt.org/ea/bc/eabc10ca47692fdf65702fd30892013e3bf2562c-3085849-2109-3000-jpg_l.jpg")![图](# "https://ehgt.org/01/e4/01e40958e9d961bc623e76e5f8c5f715565c1134-1709367-1413-2000-jpg_l.jpg") |  |
 | mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |  |
 | kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 |  |
@@ -318,14 +316,14 @@ rules:
 | kamen rider decade | 假面骑士Decade |  |  |
 | kamen rider amazon | 假面骑士亚马逊 |  |  |
 | kamen rider wizard | 假面骑士Wizard |  |  |
+| kamen rider drive | 假面骑士Drive |  |  |
+| kamen rider ex-aid | 假面骑士EX-AID |  |  |
 | kamen rider w | 假面骑士W |  |  |
-| kamen rider double | 假面骑士W |  |  |
 | kamen rider hibiki | 假面骑士响鬼 |  |  |
 | kamen rider kabuto | 假面骑士Kabuto |  |  |
 | kamen rider den-o | 假面骑士电王 |  |  |
 | kamen rider fourze | 假面骑士Fourze |  |  |
 | kamen rider ooo | 假面骑士OOO |  |  |
-| kamen rider 555 | 假面骑士555 |  |  |
 | kamen rider shin | 真·假面骑士 |  |  |
 |  | ▲假面骑士 系列 |  |  |
 | kaiji | 赌博默示录 | 逆境无赖 |  |
@@ -434,10 +432,11 @@ rules:
 |  | ▼超时空要塞 系列 |  |  |
 | macross | 超时空要塞 |  |  |
 | the super dimension fortress macross | 超时空要塞Macross |  |  |
-| macross frontier | 超时空要塞F |  |  |
 | macross 7 | 超时空要塞7 |  |  |
+| macross frontier | 超时空要塞F |  |  |
+| macross plus | 超时空要塞Plus |  |  |
 | macross delta | 超时空要塞Δ |  |  |
-| macross zero | 超时空要塞Zero |  |  |
+| macross vf-x | 超时空要塞VF-X |  |  |
 |  | ▲超时空要塞 系列 |  |  |
 | little red riding hood | 小红帽 |  |  |
 | gekkan shoujo nozaki-kun | 月刊少女野崎君 |  |  |
@@ -819,7 +818,7 @@ rules:
 | k.o. beast | KO世纪三兽士 |  |  |
 | trapp family story | 崔普一家物语 |  |  |
 | wakakusa monogatari nan to jou sensei | 小妇人物语 南与乔老师 |  |  |
-| my daddy long legs | 长腿叔叔 |  |  |
+| watashi no ashinaga ojisan | 长腿叔叔 |  |  |
 | nurse angel ririka sos | 守护天使莉莉佳 |  |  |
 | youre under arrest | 逮捕令 |  |  |
 | phantom quest corp | 幽幻怪社 |  |  |
@@ -1033,13 +1032,11 @@ rules:
 | rival schools | 私立正义学园 | ‘私立正义学园’是Capcom所发售的格斗游戏的名字。1997年第一作‘私立正义学园 LEGION OF HEROES’在街机上正式登场，之后也移植到家用主机上。 |  |
 | medabots | 徽章战士 | 《徽章战士》是Imagineer推出的游戏，1997年由Imagineer和Natsume共同发布，并有漫画、动画和模型等衍生作品。漫画由掘摩麟绘画。 |  |
 | zettai junpaku mahou shoujo | 绝对纯白魔法少女 | 这部作品是由为「战场女武神」系列人设而闻名的同人画家RAITA绘制的漫画连载，内容上有类似「魔法少女小圆」的设定，情节上同样是以魔法少女为主题的系列作品。 |  |
-| honey select | Honey Select |  |  |
 | namiuchigiwa no muromi-san | 人鱼又上钩 | 《人鱼又上钩》（日语：波打際のむろみさん，直译：岸边的室见小姐）是名岛启二的日本漫画作品。在讲谈社的《周刊少年Magazine》2009年第8号至第12号上短期集中连载，并于同年的第33号开始正式连载。至2014年2月止共出版10集。中文版由东立出版社代理发行。 |  |
 | kuttsukiboshi | 紧扣的星星 | 《くっつきぼし》是一部由石川直哉和PRIMSTEA制作的百合OVA动画，常见译名有“紧扣的星星”、“紧扣的拇指”、“星连星”等。 |  |
 | maria-sama ga miteru | 圣母在上 | 《圣母在上》（日语：マリア様がみてる）是一部日本百合类的作品，由今野绪雪原作、响玲音（ひびき玲音）插画的恋爱小说。日本对此作品简称为“マリみて”。于1998年开始连载的圣母在上系列因出版之后大受好评，亦改编成漫画、动画和电影。 |  |
 | youkoso jitsuryoku shijou shugi no kyoushitsu e | 欢迎来到实力至上主义的教室 | 《欢迎来到实力至上主义的教室》（ようこそ実力至上主義の教室へ），是衣笠彰梧所作的日本轻小说作品，插图由知世俊作绘画，是由撰写恋爱冒险游戏《晓之护卫》、《REMINISCENCE》脚本的“衣笠彰梧”负责著作，并由同样担任《晓之护卫》、《REMINISCENCE》原画的知名绘师トモセシュンサク负责小说的插画绘制。 |  |
 | kakegurui | 狂赌之渊 | 《狂赌之渊》（日语：賭ケグルイ）是由河本ほむら原作、尚村透作画的一部漫画，并有动画等衍生作品。 |  |
-| legend | 传奇 | 《传奇/金牌黑帮》（英语：Legend）是一部2015年英国犯罪惊悚片，为布莱恩·海格兰执导和编剧。 |  |
 | hajimete no gal | 第一次的辣妹 | 《辣妹与我的第一次》（日语：はじめてのギャル），或译作《第一次的辣妹》，由日本漫画家植野旋（植野メグル）绘画的漫画，于2015年11月26日开始连载于《月刊少年Ace》。 |  |
 | medaka box | 最强会长黑神 | 《最强学生会长》（日语：めだかボックス）是西尾维新担任原作、并由晓月明作画的漫画作品，自2009年4月11日至2013年4月27日于集英社《周刊少年JUMP》连载。中文版由台湾东立出版社，香港为正文社代理。 |  |
 | suisei no gargantia | 翠星之加尔刚蒂亚 | 《翠星之加尔冈蒂亚》（日语：翠星のガルガンティア）是Production I.G 所制作的日本电视动画，于2013年4月开始播放。 |  |
@@ -1175,7 +1172,7 @@ rules:
 | elsword | 艾尔之光 | 《艾尔之光》（韩语：엘소드，英语：Elsword）是韩国游戏公司KOG Studios研发的一款奇幻历险大型多人在线角色扮演游戏，主打赛璐璐风格横向卷轴的动作游戏，同时也是《永恒冒险》的重制版及姊妹作。 | [维基百科](https://zh.wikipedia.org/zh-cn/艾爾之光) (\*) |
 | betterman | 进化战记 | 《进化战记》（ベターマン，BETTERMAN）是1999年4月1日至9月30日期间由东京电视台系列播放的电视动画作品，共26话。 | [维基百科](https://zh.wikipedia.org/zh-cn/进化战记) (\*) |
 | tenshi ni narumon | 天使不设防！ | 《天使不设防！》（天使になるもんっ!）是日本电视动画，于1999年播出共26话，监督为锦织博。漫画全2集，原作为HEAVEN PROJECT，漫画由大野哲也所作，角川书店1999年出版。 | [维基百科](https://zh.wikipedia.org/zh-cn/天使不設防！) (\*) |
-| collapse gakuen | 崩坏学园 |  |  |
+| honkai gakuen | 崩坏学园 |  |  |
 | makai tenshi jibril | 魔界天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
 | kamen no maid guy | 假面男仆 | 《假面男仆》是赤衣丸步郎的漫画作品。自2004年在富士见书房《月刊Dragon Age》上连载以来，系列累积销售突破110万本。台湾是由长鸿出版社代理发售繁体中文版。2008年4月5日开始播放电视动画共12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/假面男僕) (\*) |
 | etrian odyssey | 世界树的迷宫 | 《世界树的迷宫》是ATLUS将于2007年1月18日发售的NDS用3D迷宫RPG游戏。此次公开的情报是介绍能让玩家用自己的手来绘制地图的制图系统。NDS便利的机能使得通过制图系统绘制出来的迷宫充满乐趣及挑战！ |  |
@@ -1230,11 +1227,11 @@ rules:
 | xenogears | 异度装甲 | 《异度装甲》（日语：ゼノギアス，英语：Xenogears，港台译作“异域神兵”）是一部科幻角色扮演游戏，游戏由史克威尔（现史克威尔艾尼克斯）开发并发行于索尼PlayStation平台，游戏于1998年2月11日发布于日本，同年10月20日发布于北美，但游戏并未于欧洲发布。游戏在2003年由史克威尔艾尼克斯以Greatest Hits之名重新发布，游戏还在2008年6月25日和2011年2月22日分别发布于日本和北美的PlayStation Network。2004年7月10日由民间团体“XG中文版制作组”发布针对日文版的汉化程序，使中文玩家可以在全中文环境下进行游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域神兵) (\*) |
 | xenosaga | 异度传说 | 异度传说（日语：ゼノサーガ，英语：Xenosaga，港台译作“异域传说”），是由Monolith Soft制作，由Namco发行的电子游戏系列，另有漫画版和动画版的发行。和《异度装甲》一样，《异度传说》的内容基本上是由高桥哲哉所创作的。 | [维基百科](https://zh.wikipedia.org/zh-cn/異域傳說系列) (\*) |
 | shining sword romance | 剑芒罗曼史 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ロマンスは剣の輝き) |
-| shining | 光明 | 光明（日语：シャイニング，英语：Shining，港台译作“光明与黑暗”）是SEGA所制作的一系列游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明與黑暗系列) (\*) |
 | shining in the darkness | 光明与黑暗 | 《光明与黑暗》（日语：シャイニング&ザ・ダクネス，英语：Shining and the Darkness），是1991年Mega Drive游戏平台上的角色扮演游戏。它是Mega Drive平台上发布的第一个角色扮演游戏，并且也是光明系列的首作，该系列跨越世嘉四代游戏平台，以及Game Boy Advance 和PlayStation 2。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明與黑暗_%28遊戲%29) (\*) |
 | shining force | 光明力量 |  |  |
 | shining force exa | 光明力量EXA |  |  |
 | shining force feather | 光明力量 羽翼 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shining_Force_Feather) |
+| shining soul | 光明之魂 |  |  |
 | shining tears | 光明之泪 | 《光明之泪》（日语：シャイニング・ティアーズ）是于2004年11月3日由世嘉发售的动作角色扮演游戏游戏，对应PlayStation 2平台。本作是新光明计划的第2作，由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之淚) (\*) |
 | shining wind | 光明之风 | 《光明之风》（日语：シャイニング・ウィンド）为世嘉开发的动作角色扮演游戏，对应平台为PlayStation 2，于2007年在日本发售。本作为光明系列的其中一作，前作是《光明之泪》。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之風) (\*) |
 | shining hearts | 光明之心 | 《光明之心》（日语：シャイニング・ハーツ）是于2010年12月16日由世嘉发售的角色扮演游戏游戏，对应平台为PlayStation Portable。由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之心) (\*) |
@@ -1307,7 +1304,6 @@ rules:
 | os-tan | OS娘 | OS娘（OSたん，亦有OS Girls、OS少女等称呼），为一个在日本讨论区双叶频道（Futaba Channel，ふたば☆ちゃんねる）的网络现象。OS娘是日本漫画爱好者对目前的电脑操作系统拟人化后的产物，其对象主要为Windows操作系统。每位OS娘的出场是众位漫画爱好者获得一致的想法创造出来的。 | [维基百科](https://zh.wikipedia.org/zh-cn/OS娘) (\*) |
 | sunohara-sou no kanrinin-san | 春原庄的管理员小姐 | 《春原庄的管理员小姐》（日语：すのはら荘の管理人さん）是由ねこうめ创作的日本四格漫画作品，自一迅社的漫画杂志《漫画4格Palette》2014年7月号开始连载。已发行3册单行本。2017年11月宣布电视动画化。 | [维基百科](https://zh.wikipedia.org/zh-cn/春原莊的管理員小姐) (\*) |
 | yotsubato | 四叶妹妹！ | 《四叶妹妹！》（日语：よつばと!）是东清彦的日本漫画作品，于2003年3月在漫画杂志《月刊Comic电击大王》上连载。到2018年4月28日为止，单行本目前发行了14本。台湾角川已出版13册。 | [维基百科](https://zh.wikipedia.org/zh-cn/四葉妹妹！) (\*) |
-| kemomimi oukoku kokuei housou | 兽耳王国国营放送 | Nekomasu（日语：ねこます），全称猫耳Master(日语：ねこみみマスター)。其个人频道“兽耳王国国营放送”(日语：けもみみおーこく国営放送)内容以萝莉形象、大叔声音的反差萌为特点，截至2018年1月29日已有22万订阅。 | [萌娘百科](https://zh.moegirl.org/Nekomasu) (\*\*) |
 | dragon nest | 龙之谷 | 龙之谷（Dragon Nest）是一款韩国公司Eyedentity Games研发的大型多人在线角色扮演游戏，使用非锁定式第三人称视角令玩家可以完全控制自己所使用的角色的动作。龙之谷是通过类似副本的系统提供角色养成的。采用免费游戏道具收费模式运营。 2014年7月31日，同名游戏改编电影《龙之谷：破晓奇兵》在中国首映。 | [维基百科](https://zh.wikipedia.org/zh-cn/龙之谷) (\*) |
 | kuroinu kedakaki seijo wa hakudaku ni somaru | 黑兽～被白浊沾污的高傲圣女～ | 《黑兽～被白浊沾污的高傲圣女～》（日语：黒獣 ～気高き圣女は白浊に染まる～）是由Liquid制作的一部游戏，后续由魔人改编成动画（里番），另外还有两部衍生小说。 | [萌娘百科](https://zh.moegirl.org/黑兽) (\*\*) |
 | initial d | 头文字D | 《头文字D》（英语：INITIAL D，假名：イニシャル・ディー ）是一部以山道飙车为题材的日本青年漫画，以及以漫画改编的动画系列（包含电视版、OVA与电影版）。漫画作者为重野秀一（しげの秀一），自1995年起开始在讲谈社的《周刊Young Magazine》上连载，连载至2013年7月结束，单行本全48卷，还有多本探讨汽车驾驶技巧的周边专书。 | [维基百科](https://zh.wikipedia.org/zh-cn/頭文字D) (\*) |

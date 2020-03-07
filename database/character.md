@@ -1163,7 +1163,7 @@ rules:
 | mikan yuuki | 结城美柑 | ![图](# "https://ehgt.org/04/bd/04bdc7ebdbc7abffe18f76b22703fbaf5144d566-134823-1084-1530-jpg_l.jpg")![](https://ehgt.org/a7/79/a7797195a3e191f42d7cabb1a196cae5692da6f0-650692-1225-1748-jpg_l.jpg) |  |
 | nemesis | 涅墨西斯 | ![](# "https://ehgt.org/99/1a/991a7a6f0af87c321228f28aa6d96175502f32a4-1647950-2117-3000-jpg_l.jpg") |  |
 | saki tenjouin | 天条院沙姬 | ![](https://ehgt.org/e4/92/e492c172740f446cfa813ff48a8afb6c6401e59f-743197-1225-1783-jpg_l.jpg) |  |
-| ayako fujisaki | 藤崎绫 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
+| aya fujisaki | 藤崎绫 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | rin kujou | 九条凛 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | mea kurosaki | 黑咲芽亚 | ![图](# "https://ehgt.org/60/52/6052fa80e6b795e3949252f016938d3db27f32aa-126241-1084-1530-jpg_l.jpg")![](https://ehgt.org/0f/1a/0f1aa86e0b9a9eee00f29c9d4c46c6c738f00b78-584908-2842-4093-jpg_l.jpg) |  |
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://ehgt.org/80/a4/80a4d4530005459811eb06c9c78fcb0bc7d37120-997681-2843-4098-jpg_l.jpg) |  |
@@ -1176,6 +1176,7 @@ rules:
 | mio sawada | 泽田未央 | ![](https://ehgt.org/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |  |
 | oshizu murasame | 村雨静 | ![](https://ehgt.org/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |  |
 | kyouko kirisaki | 雾崎恭子 | ![](https://ehgt.org/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |  |
+| kenichi saruyama | 猿山健一 |  |  |
 |  | ▼ 食戟之灵 角色 |  |  |
 | erina nakiri | 薙切绘理奈 |  |  |
 | alice nakiri | 薙切爱丽丝 |  |  |
@@ -1663,7 +1664,7 @@ rules:
 | masumi sera | 世良真纯 |  |  |
 |  | ▼ 龙珠系列 |  |  |
 | yamcha | 雅木茶 |  |  |
-| bulma | 布尔玛 |  |  |
+| bulma briefs | 布尔玛 |  |  |
 | chi chi | 琪琪 |  |  |
 | son gohan | 孙悟饭 |  |  |
 | son goten | 孙悟天 |  |  |
@@ -1829,7 +1830,7 @@ rules:
 | astolfo | 阿斯托尔福 | 这么可爱，一定是——<br>![图](# "https://ehgt.org/46/67/4667a37959d9250b0bb98ee260065f78e951bfc2-1451907-2080-3000-jpg_l.jpg")![图](# "https://ehgt.org/3e/80/3e80fa00ea1061bb93a861d73d250ff038200454-1094945-895-1145-jpg_l.jpg")![图](# "https://ehgt.org/b7/c6/b7c6abcd936f8dd3152846904e4574f014f7b272-471789-653-900-jpg_l.jpg") |  |
 | protagonist | 主人公 |  |  |
 | minamoto no raikou | 源赖光 |  |  |
-| meltlilith | 溶解莉莉丝 |  |  |
+| meltryllis | 溶解莉莉丝 |  |  |
 | passionlip | 热情迷唇 |  |  |
 | ushiwakamaru | 牛若丸 |  |  |
 | jack the ripper | 开膛手杰克 |  |  |
@@ -1900,7 +1901,7 @@ rules:
 | mata hari | 玛塔·哈丽 |  |  |
 | medusa | 美杜莎 |  |  |
 | musashi miyamoto | 宫本武藏 |  |  |
-| oda nobunaga | 织田信长 |  |  |
+| nobunaga oda | 织田信长 |  |  |
 | penthesilea | 彭忒西勒亚 |  |  |
 | semiramis | 赛米拉米斯 |  |  |
 | shuten douji | 酒吞童子 |  |  |
