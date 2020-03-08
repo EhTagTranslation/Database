@@ -2518,6 +2518,7 @@ rules:
 | shisyo | ししょー |  | [pixiv](https://www.pixiv.net/users/5910442)<br>[Twitter](https://twitter.com/Ci_syo) |
 | whistlerx | WhistlerX |  |  |
 | hagiwara asami | 萩原あさ美 |  |  |
+| itose ikuto | 愛瀬郁人 |  | [pixiv](https://www.pixiv.net/users/109010) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
