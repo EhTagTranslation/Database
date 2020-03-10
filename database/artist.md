@@ -2519,6 +2519,7 @@ rules:
 | whistlerx | WhistlerX |  |  |
 | hagiwara asami | 萩原あさ美 |  |  |
 | itose ikuto | 愛瀬郁人 |  | [pixiv](https://www.pixiv.net/users/109010) |
+| osaru | 御猿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
