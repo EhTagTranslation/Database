@@ -1598,6 +1598,7 @@ rules:
 | chimee house | ちみはうす | ![图](# "https://ehgt.org/31/3d/313de88039a4a01f28163a988fc88620e3818b5c-618153-2150-3036-jpg_l.jpg") |  |
 | h at break | H@BREAK |  |  |
 | saigado | 彩画堂 |  |  |
+| yuuendou | 遊猿堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
