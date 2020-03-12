@@ -2758,6 +2758,7 @@ rules:
 | kobayashi | 小林 |  |  |
 | ririchiyo shirakiin | 白鬼院凛凛蝶 |  |  |
 | sana inui | 乾纱凪 |  |  |
+| gotland | 哥特兰 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
