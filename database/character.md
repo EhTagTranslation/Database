@@ -2756,6 +2756,7 @@ rules:
 | nano shinonome | 东云名乃 |  |  |
 | hakase shinonome | 东云博士 |  |  |
 | kobayashi | 小林 |  |  |
+| ririchiyo shirakiin | 白鬼院凛凛蝶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
