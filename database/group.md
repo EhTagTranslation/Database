@@ -1599,6 +1599,7 @@ rules:
 | h at break | H@BREAK |  |  |
 | saigado | 彩画堂 |  |  |
 | yuuendou | 遊猿堂 |  |  |
+| kouchaya | 紅茶屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
