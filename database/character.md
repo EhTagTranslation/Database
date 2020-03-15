@@ -2761,6 +2761,7 @@ rules:
 | gotland | 哥特兰 |  |  |
 | nanachi | 娜娜奇 | 香喷喷毛茸茸的娜娜奇。出自来自深渊（Made in Abyss) |  |
 | grecale | 东北风 |  |  |
+| nursery rhyme | 童谣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
