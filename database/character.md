@@ -2759,6 +2759,7 @@ rules:
 | ririchiyo shirakiin | 白鬼院凛凛蝶 |  |  |
 | sana inui | 乾纱凪 |  |  |
 | gotland | 哥特兰 |  |  |
+| nanachi | 娜娜奇 | 香喷喷毛茸茸的娜娜奇。出自来自深渊（Made in Abyss) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
