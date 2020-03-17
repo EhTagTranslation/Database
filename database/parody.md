@@ -1434,6 +1434,7 @@ rules:
 | the hunchback of notre dame | 钟楼怪人 | 《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。 | [维基百科](https://zh.wikipedia.org/wiki/钟楼怪人_%281996年电影%29) (*) |
 | kodoku no gourmet | 孤独的美食家 |  |  |
 | kishuku gakkou no juliet | 寄宿学校的朱丽叶 | 《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。<br>![寄宿学校的朱丽叶](https://img.moegirl.org/common/9/98/Kishuku_Gakkou_no_Juliet_Vol1.jpg) | [寄宿学校的茱丽叶 - Wikipedia](https://zh.wikipedia.org/zh-cn/寄宿學校的茱麗葉 "寄宿学校的茱丽叶")<br>[寄宿学校的朱丽叶 - 萌娘百科](https://zh.moegirl.org/zh-hans/寄宿学校的朱丽叶 "寄宿学校的朱丽叶") |
+| kemurikusa | 烟草 | 《烟草》原先是由自主动画制作团体irodori，于2010年~2012年之间所制作的独立动画作品。2018年时宣布改编电视动画，由YAOYOROZU进行制作，皆为达纪监督执导，2019年1月9日开播。<br>[![](https://img.moegirl.org/common/d/d9/Kemurikusa_character.jpg)](烟草完结贺图) | [烟草 - 萌娘百科](https://zh.moegirl.org/zh-hans/烟草 "烟草 - 萌娘百科")<br>[烟草 - Wikipedia](https://zh.wikipedia.org/zh-cn/煙草_%28動畫%29 "烟草 - Wikipedia") |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
