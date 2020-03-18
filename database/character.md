@@ -2768,6 +2768,7 @@ rules:
 | himawari furutani | 古谷向日葵 |  |  |
 | sakurako ohmuro | 大室樱子 |  |  |
 | raphtalia | 拉芙塔莉雅 |  |  |
+| filo | 菲洛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
