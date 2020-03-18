@@ -2767,6 +2767,7 @@ rules:
 | romio inuzuka | 犬冢露壬雄 |  |  |
 | himawari furutani | 古谷向日葵 |  |  |
 | sakurako ohmuro | 大室樱子 |  |  |
+| raphtalia | 拉芙塔莉雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
