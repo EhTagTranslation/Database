@@ -2524,6 +2524,7 @@ rules:
 | ootsuka kotora | 大塚子虎 |  |  |
 | testa | てすた |  |  |
 | butachang | ぶたちゃんぐ |  |  |
+| sahara gensei | 佐原玄清 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
