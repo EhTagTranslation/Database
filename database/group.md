@@ -1600,6 +1600,7 @@ rules:
 | saigado | 彩画堂 |  |  |
 | yuuendou | 遊猿堂 |  |  |
 | kouchaya | 紅茶屋 |  |  |
+| testa kitchen | てすた厨房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
