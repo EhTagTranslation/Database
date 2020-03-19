@@ -2522,6 +2522,7 @@ rules:
 | osaru | 御猿 |  |  |
 | etori yuuya | 江鳥 |  | [pixiv](https://www.pixiv.net/users/43886) |
 | ootsuka kotora | 大塚子虎 |  |  |
+| testa | てすた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
