@@ -2528,6 +2528,7 @@ rules:
 | hino hino | 緋乃ひの |  |  |
 | tsukuru | 作 |  |  |
 | habara meguru | 羽原メグル |  |  |
+| hanabusa satoshi | はなぶささとし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
