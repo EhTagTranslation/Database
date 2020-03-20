@@ -919,7 +919,7 @@ rules:
 | heavy bunny addiction | H.B.A |  |  |
 | mata ashita. | また明日。 |  |  |
 | muses garden | MUSES GARDEN |  |  |
-| nekomataya | ねこまた屋 |  |  |
+| nekomataya | 猫又屋 |  |  |
 | oving | OVing |  |  |
 | ditama kikaku | ぢたま企画 |  |  |
 | crespirit | CreSpirit |  |  |
