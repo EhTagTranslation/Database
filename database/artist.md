@@ -2531,7 +2531,7 @@ rules:
 | hanabusa satoshi | はなぶささとし |  |  |
 | hado | はあど |  |  |
 | takemasa takeshi | 武将武 |  |  |
-| akabeko | あかべこ |  |  |
+| akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
