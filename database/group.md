@@ -1602,6 +1602,7 @@ rules:
 | kouchaya | 紅茶屋 |  |  |
 | testa kitchen | てすた厨房 |  |  |
 | kireinabuta | キレイナブタ |  |  |
+| saihate-kukan | 最果て空間 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
