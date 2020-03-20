@@ -1603,6 +1603,7 @@ rules:
 | testa kitchen | てすた厨房 |  |  |
 | kireinabuta | キレイナブタ |  |  |
 | saihate-kukan | 最果て空間 |  |  |
+| seki sabato | 関サバト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
