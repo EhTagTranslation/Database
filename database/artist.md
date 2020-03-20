@@ -2532,6 +2532,7 @@ rules:
 | hado | はあど |  |  |
 | takemasa takeshi | 武将武 |  |  |
 | akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
+| hisui | 翡翠石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
