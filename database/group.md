@@ -1604,6 +1604,7 @@ rules:
 | kireinabuta | キレイナブタ |  |  |
 | saihate-kukan | 最果て空間 |  |  |
 | seki sabato | 関サバト |  |  |
+| garyuuya | 我龍屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
