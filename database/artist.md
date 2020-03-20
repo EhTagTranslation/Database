@@ -2527,6 +2527,7 @@ rules:
 | sahara gensei | 佐原玄清 |  |  |
 | hino hino | 緋乃ひの |  |  |
 | tsukuru | 作 |  |  |
+| habara meguru | 羽原メグル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
