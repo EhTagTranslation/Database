@@ -2525,6 +2525,7 @@ rules:
 | testa | てすた |  |  |
 | butachang | ぶたちゃんぐ |  |  |
 | sahara gensei | 佐原玄清 |  |  |
+| hino hino | 緋乃ひの |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
