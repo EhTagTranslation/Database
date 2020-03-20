@@ -2769,6 +2769,7 @@ rules:
 | sakurako ohmuro | 大室樱子 |  |  |
 | raphtalia | 拉芙塔莉雅 |  |  |
 | filo | 菲洛 |  |  |
+| altina orion | 亚尔缇娜·奥莱恩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
