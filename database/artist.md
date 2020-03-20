@@ -2530,6 +2530,7 @@ rules:
 | habara meguru | 羽原メグル |  |  |
 | hanabusa satoshi | はなぶささとし |  |  |
 | hado | はあど |  |  |
+| takemasa takeshi | 武将武 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
