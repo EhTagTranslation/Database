@@ -2529,6 +2529,7 @@ rules:
 | tsukuru | 作 |  |  |
 | habara meguru | 羽原メグル |  |  |
 | hanabusa satoshi | はなぶささとし |  |  |
+| hado | はあど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
