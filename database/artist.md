@@ -2531,6 +2531,7 @@ rules:
 | hanabusa satoshi | はなぶささとし |  |  |
 | hado | はあど |  |  |
 | takemasa takeshi | 武将武 |  |  |
+| akabeko | あかべこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
