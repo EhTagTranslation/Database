@@ -2770,6 +2770,7 @@ rules:
 | raphtalia | 拉芙塔莉雅 |  |  |
 | filo | 菲洛 |  |  |
 | altina orion | 亚尔缇娜·奥莱恩 |  |  |
+| amiya | 阿米娅 |  | [萌娘百科](https://mzh.moegirl.org/zh-hans/明日方舟:阿米娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
