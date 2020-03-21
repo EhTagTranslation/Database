@@ -2534,6 +2534,7 @@ rules:
 | akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
 | hisui | 翡翠石 |  |  |
 | sakura yuki | 咲良ゆき |  | [pixiv](https://www.pixiv.net/users/1661253) |
+| suga hideo | スガヒデオ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
