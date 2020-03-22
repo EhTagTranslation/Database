@@ -2535,7 +2535,7 @@ rules:
 | hisui | 翡翠石 |  |  |
 | sakura yuki | 咲良ゆき |  | [pixiv](https://www.pixiv.net/users/1661253) |
 | suga hideo | スガヒデオ |  |  |
-| nadaka harutsugu | 南高春告(梅干) |  | [pixiv](https://www.pixiv.net/users/41560) |
+| nadaka harutsugu | 南高春告(梅干) |  | [pixiv](https://www.pixiv.net/users/41560) [twitter](https://twitter.com/Ume_boC) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
