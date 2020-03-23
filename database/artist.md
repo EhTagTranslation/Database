@@ -36,7 +36,7 @@ rules:
 | sky | SKY \| Sky-FreeDom | 该条目可能指向两位画师<br>SKY pixivID:315442<br>“死盖” pixivID:1017056<br>“死盖”是马来西亚同人画师，格子裙热裤过膝袜爱好者。因画风独特以及对热裤的热爱而闻名。与林大B、孙渣、萌娘百科更新姬经常在微博进行不可告人的PY交易<br>本人自画像<br>![本人自画像](http://wx1.sinaimg.cn/bmiddle/6ca93fadly1ff64bbcyidj20li0xcdk8.jpg)<br>本人自拍<br>![自拍2](http://wx3.sinaimg.cn/mw690/6ca93fadgy1fisz6lxz1zj20go0rsth0.jpg)![自拍2](http://wx1.sinaimg.cn/mw690/6ca93fadgy1fisz6m1aruj20rs0fngqk.jpg) | [SKY 的 pixiv](https://www.pixiv.net/users/315442) [Sky-FreeDom 的 pixiv](https://www.pixiv.net/users/1017056) [Sky-FreeDom 的微博](http://weibo.com/skyfreedom) |
 | m.vv | M.vv | M.vv(Maid.vivi)是中国大陆女性画师，现居于辽宁省沈阳市。同人活动以「KiraStar」名义参加。<br>![作品](https://ehgt.org/17/ea/17ea751108ef0b86ee7d8ae1b64dc79334a7d8d1-995709-1001-1415-jpg_l.jpg)<br>本人自拍<br>![自拍](http://wx4.sinaimg.cn/mw690/5b1b04e6ly1fjjxwy9hswj20hn0uv48a.jpg) | [pixiv](https://www.pixiv.net/users/1601715) [微博](http://weibo.com/rancy01) |
 |  | ▲示例 |  |  |
-| miyahara ayumu | 宫原步 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) |  |
+| miyahara ayumu | 宫原步 | 纯爱<br>![宮原歩作品](https://farm8.staticflickr.com/7399/26446169844_6f45a388e4_b.jpg) | [pixiv](https://www.pixiv.net/users/42551775) [twitter](https://twitter.com/miyahara_ayumu) |
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7435/26480152744_01cfe2495a_q.jpg) |  |
 | narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) |  |
 | akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと作品](https://farm8.staticflickr.com/7741/26990957842_e6fbd157af_m.jpg) |  |
