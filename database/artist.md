@@ -2537,6 +2537,7 @@ rules:
 | suga hideo | スガヒデオ |  |  |
 | nadaka harutsugu | 南高春告(梅干) |  | [pixiv](https://www.pixiv.net/users/41560) [twitter](https://twitter.com/Ume_boC) |
 | hatori you | 葉鳥侑 |  | [pixiv](https://www.pixiv.net/users/1546998) [twitter](https://twitter.com/Hatori_you0521) |
+| byougaku | 猫額 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
