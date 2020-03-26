@@ -1608,6 +1608,7 @@ rules:
 | corona 314 | コロナ314 |  |  |
 | yume to kyouki no chomolung oukoku | 夢と狂気のチョモラン王国 |  |  |
 | lazy star lazy | Lazy★Lazy |  |  |
+| 70 nenshiki yuukyuu kikan | 70年式悠久機関 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
