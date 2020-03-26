@@ -40,7 +40,7 @@ rules:
 | nishikawa kou | 西川康 | ![西川康作品](https://farm8.staticflickr.com/7435/26480152744_01cfe2495a_q.jpg) | [个人网站](http://kou-n.sakura.ne.jp) |
 | narusawa kei | なるさわ景 | ![なるさわ景作品](https://farm8.staticflickr.com/7321/26983810621_9bd5255e8a_m.jpg) | [个人网站](http://narukei.com) |
 | akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと作品](https://farm8.staticflickr.com/7741/26990957842_e6fbd157af_m.jpg) | [Twitter](https://twitter.com/myuuto_akatuki) |
-| kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) |  |
+| kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) | [Twitter](https://twitter.com/gumma_kisaragi) [个人网站](http://gumma.main.jp) |
 | ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |  |
 | yamada no seikatu ga daiichi | 山田の性活が第一 |  |  |
 | asamura hiori | 朝丛志描 |  |  |
