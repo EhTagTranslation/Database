@@ -2539,6 +2539,7 @@ rules:
 | hatori you | 葉鳥侑 |  | [pixiv](https://www.pixiv.net/users/1546998) [twitter](https://twitter.com/Hatori_you0521) |
 | byougaku | 猫額 |  |  |
 | yoshu ohepe | 養酒オヘペ | ![養酒オヘペ头像](https://s1.ax1x.com/2020/03/26/8zZ1W4.jpg) | [Twitter](https://twitter.com/ohepeyousyu) [pixiv](https://www.pixiv.net/users/699107) |
+| amanagi seiji | 天凪青磁 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
