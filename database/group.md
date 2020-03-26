@@ -127,7 +127,7 @@ rules:
 | archetype | ARCHETYPE | あかざ(Akaza)的社团名，袜控。<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") |  |
 | afterschool of the 5th year | 5年目の放課後 | 监督(Kantoku)的社团名。<br>![Kantoku作品](https://ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |  |
 | tsf no f | TSF的F | 以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](# "https://ehgt.org/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg") |  |
-| number2 | ![Logo](http://number2-takuji.com/favicon.ico)Number2 | ![Banner](http://number2-takuji.com/banner.gif)<br>![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |  |
+| number2 | ![Logo](http://number2-takuji.com/favicon.ico)Number2 | ![Banner](http://number2-takuji.com/banner.gif)<br>![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) | [官方网站](http://number2-takuji.com) [Twitter](https://twitter.com/number2_takuji) |
 | plant | PLANT |  |  |
 | opaque | Opaque |  |  |
 | shiroganeya | しろがね屋 |  |  |
