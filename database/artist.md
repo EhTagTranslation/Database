@@ -2541,7 +2541,7 @@ rules:
 | yoshu ohepe | 養酒オヘペ | ![養酒オヘペ头像](https://s1.ax1x.com/2020/03/26/8zZ1W4.jpg) | [Twitter](https://twitter.com/ohepeyousyu) [pixiv](https://www.pixiv.net/users/699107) |
 | amanagi seiji | 天凪青磁 |  |  |
 | tsukako | つかこ |  |  |
-| mochi | RIN (モチ) |  |  |
+| mochi | RIN (モチ) | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
