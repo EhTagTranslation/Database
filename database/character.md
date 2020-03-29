@@ -2772,6 +2772,7 @@ rules:
 | altina orion | 亚尔缇娜·奥莱恩 |  |  |
 | amiya | 阿米娅 |  | [萌娘百科](https://zh.moegirl.org/zh-hans/明日方舟:阿米娅) |
 | juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
+| regu | 雷古 | 勃起卿。出自来自深渊（Made in Abyss) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
