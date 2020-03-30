@@ -2778,6 +2778,7 @@ rules:
 | murasaki shion | 紫咲 シオン(紫咲诗音) | ![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
 | tokino sora | ときのそら(时乃空) | ![空妈](https://img.moegirl.org/common/7/70/时乃空演唱.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
 | yuzuki choco | 癒月 ちょこ(愈月巧可) | ![巧可老师](https://img.moegirl.org/common/1/11/Yudzukichoko.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
+| natsuiro matsuri | 夏色 まつり(夏色祭) | ![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
