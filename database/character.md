@@ -2779,6 +2779,7 @@ rules:
 | tokino sora | ときのそら(时乃空) | ![空妈](https://img.moegirl.org/common/7/70/时乃空演唱.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
 | yuzuki choco | 癒月 ちょこ(愈月巧可) | ![巧可老师](https://img.moegirl.org/common/1/11/Yudzukichoko.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
 | natsuiro matsuri | 夏色 まつり(夏色祭) | ![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
+| ookami mio | 大神 ミオ(大神澪) | ![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
