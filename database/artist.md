@@ -2535,13 +2535,13 @@ rules:
 | hisui | 翡翠石 |  |  |
 | sakura yuki | 咲良ゆき |  | [pixiv](https://www.pixiv.net/users/1661253) |
 | suga hideo | スガヒデオ |  |  |
-| nadaka harutsugu | 南高春告(梅干) |  | [pixiv](https://www.pixiv.net/users/41560) [twitter](https://twitter.com/Ume_boC) |
+| nadaka harutsugu | 南高春告（梅干） |  | [pixiv](https://www.pixiv.net/users/41560) [twitter](https://twitter.com/Ume_boC) |
 | hatori you | 葉鳥侑 |  | [pixiv](https://www.pixiv.net/users/1546998) [twitter](https://twitter.com/Hatori_you0521) |
 | byougaku | 猫額 |  |  |
 | yoshu ohepe | 養酒オヘペ | ![養酒オヘペ头像](https://s1.ax1x.com/2020/03/26/8zZ1W4.jpg) | [Twitter](https://twitter.com/ohepeyousyu) [pixiv](https://www.pixiv.net/users/699107) |
 | amanagi seiji | 天凪青磁 |  |  |
 | tsukako | つかこ |  |  |
-| mochi | RIN (モチ) | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
+| mochi | RIN（モチ） | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

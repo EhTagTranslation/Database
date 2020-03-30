@@ -2774,12 +2774,12 @@ rules:
 | juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
 | regu | 雷古 | 勃起卿。出自来自深渊（Made in Abyss) |  |
 | riko | 莉可 | 出自来自深渊（Made in Abyss) |  |
-| minato aqua | 湊あくあ(凑阿库娅) | ![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
-| murasaki shion | 紫咲 シオン(紫咲诗音) | ![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
-| tokino sora | ときのそら(时乃空) | ![空妈](https://img.moegirl.org/common/7/70/时乃空演唱.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
-| yuzuki choco | 癒月 ちょこ(愈月巧可) | ![巧可老师](https://img.moegirl.org/common/1/11/Yudzukichoko.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
-| natsuiro matsuri | 夏色 まつり(夏色祭) | ![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
-| ookami mio | 大神 ミオ(大神澪) | ![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
+| minato aqua | 凑阿库娅 | 湊 あくあ![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
+| murasaki shion | 紫咲诗音 | 紫咲 シオン![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
+| tokino sora | 时乃空 | ときの そら![空妈](https://img.moegirl.org/common/7/70/时乃空演唱.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
+| yuzuki choco | 愈月巧可 | 癒月 ちょこ![巧可老师](https://img.moegirl.org/common/1/11/Yudzukichoko.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
+| natsuiro matsuri | 夏色祭 | 夏色 まつり![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
+| ookami mio | 大神澪 | 大神 ミオ![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
