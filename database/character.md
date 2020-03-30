@@ -2777,6 +2777,7 @@ rules:
 | minato aqua | 湊あくあ(凑阿库娅) | ![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
 | murasaki shion | 紫咲 シオン(紫咲诗音) | ![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
 | tokino sora | ときのそら(时乃空) | ![空妈](https://img.moegirl.org/common/7/70/时乃空演唱.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
+| yuzuki choco | 癒月 ちょこ(愈月巧可) | ![巧可老师](https://img.moegirl.org/common/1/11/Yudzukichoko.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
