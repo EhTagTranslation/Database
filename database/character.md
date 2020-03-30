@@ -2776,6 +2776,7 @@ rules:
 | riko | 莉可 | 出自来自深渊（Made in Abyss) |  |
 | minato aqua | 湊あくあ(凑阿库娅) | ![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
 | murasaki shion | 紫咲 シオン(紫咲诗音) | ![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
+| tokino sora | ときのそら(时乃空) | ![空妈](https://img.moegirl.org/common/7/70/时乃空演唱.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
