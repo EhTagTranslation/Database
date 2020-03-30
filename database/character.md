@@ -2783,6 +2783,7 @@ rules:
 | akai haato | 赤井心 | ![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
 | ayame nakiri | 百鬼绫目 | ![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
 | usada pekora | 兔田佩克拉 | 食材<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
+| roboco | 萝卜子 | ![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
