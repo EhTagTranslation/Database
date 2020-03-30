@@ -794,7 +794,7 @@ rules:
 | tenka osaki | 大崎甜花 |  |  |
 | kaho komiya | 小宫果穂 |  |  |
 | chiyoko sonoda | 园田智代子 |  |  |
-|  | 西城树里 |  |  |
+| juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
 | rinze morino | 杜野凛世 |  |  |
 | natsuha arisugawa | 有栖川夏叶 |  |  |
 |  | 天井努 |  |  |
@@ -2771,7 +2771,6 @@ rules:
 | filo | 菲洛 |  |  |
 | altina orion | 亚尔缇娜·奥莱恩 |  |  |
 | amiya | 阿米娅 |  | [萌娘百科](https://zh.moegirl.org/zh-hans/明日方舟:阿米娅) |
-| juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
 | regu | 雷古 | 勃起卿。出自来自深渊（Made in Abyss) |  |
 | riko | 莉可 | 出自来自深渊（Made in Abyss) |  |
 | minato aqua | 凑阿库娅 | 湊 あくあ![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
