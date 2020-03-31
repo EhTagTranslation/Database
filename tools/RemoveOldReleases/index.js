@@ -15,8 +15,9 @@ async function deleteRelease() {
     console.log(`Found ${releases.length} releases`)
     const releases_to_delete = releases.slice(KEEP_RELEASE)
     const releases_to_keep = releases.slice(0, KEEP_RELEASE)
-    for (const release of releases_to_delete) {
-        console.log(`Deleting ${release.target_commitish}`)
+    for (let i = 0; i < releases_to_delete.length; i++) {
+        const release = releases_to_delete[i];
+        console.log(`[${i + 1}/${releases_to_delete.length}] Deleting ${release.target_commitish}`)
         await octokit.repos.deleteRelease({ ...REPO_INFO, release_id: release.id })
     }
 }
@@ -26,7 +27,7 @@ async function deleteTag() {
     const raw = util.promisify(gitrepo.raw.bind(gitrepo))
     const tags = String(await raw(['ls-remote', '--tags', '--sort=-creatordate']))
         .split('\n').filter(s => s).map(s => `v-${s.split('\t')[0]}`)
-    
+
     console.log(`Found ${tags.length} tags`)
     const old_tags = tags.slice(KEEP_RELEASE)
 
