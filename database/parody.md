@@ -1436,6 +1436,7 @@ rules:
 | kishuku gakkou no juliet | 寄宿学校的朱丽叶 | 《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。<br>![寄宿学校的朱丽叶](https://img.moegirl.org/common/9/98/Kishuku_Gakkou_no_Juliet_Vol1.jpg) | [寄宿学校的茱丽叶 - Wikipedia](https://zh.wikipedia.org/zh-cn/寄宿學校的茱麗葉 "寄宿学校的茱丽叶")<br>[寄宿学校的朱丽叶 - 萌娘百科](https://zh.moegirl.org/zh-hans/寄宿学校的朱丽叶 "寄宿学校的朱丽叶") |
 | kemurikusa | 烟草 | 《烟草》原先是由自主动画制作团体irodori，于2010年~2012年之间所制作的独立动画作品。2018年时宣布改编电视动画，由YAOYOROZU进行制作，皆为达纪监督执导，2019年1月9日开播。<br>[![](https://img.moegirl.org/common/d/d9/Kemurikusa_character.jpg)](烟草完结贺图) | [烟草 - 萌娘百科](https://zh.moegirl.org/zh-hans/烟草 "烟草 - 萌娘百科")<br>[烟草 - Wikipedia](https://zh.wikipedia.org/zh-cn/煙草_%28動畫%29 "烟草 - Wikipedia") |
 | tate no yuusha no nariagari | 盾之勇者成名录 |  |  |
+| watashi nouryoku wa heikinchi de tte itta yo ne | 我，不是说了能力要平均值么！ | 《我不是说了能力要平均值吗？》（日语：私、能力は平均値でって言ったよね！），为2016年1月14日于成为小说家吧上连载的轻小说，作者为FUNA。后由地球之星娱乐出版，亚方逸树负责插画。同年8月推出漫画版，于Comic Earth Star连载，ねこみんと绘画。在2018年宣布改编为动画。<br>![](https://img.moegirl.org/common/0/06/我不是说了能力要平均值么.jpg)<br>![](https://img.moegirl.org/common/a/ab/Noukin_Anime_KV.jpg) | [Wikipedia](https://zh.wikipedia.org/zh-cn/我不是說了能力要平均值嗎？ "Wikipedia")<br>[萌娘百科](https://zh.moegirl.org/我，不是说了能力要平均值么 "萌娘百科") |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
