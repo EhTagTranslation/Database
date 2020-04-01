@@ -2784,6 +2784,7 @@ rules:
 | ayame nakiri | 百鬼绫目 | ![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
 | usada pekora | 兔田佩克拉 | 食材<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
 | roboco | 萝卜子 | ![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
+| six | 希斯 | ![希斯十天众初始形象](https://i.loli.net/2020/04/01/yz4lZMxafk3YObI.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040035000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
