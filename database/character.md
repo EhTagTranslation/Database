@@ -2785,6 +2785,7 @@ rules:
 | usada pekora | 兔田佩克拉 | 食材<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
 | roboco | 萝卜子 | ![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
 | six | 希斯 | ![希斯十天众初始形象](https://i.loli.net/2020/04/01/yz4lZMxafk3YObI.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040035000) |
+| maple | 梅普露 | 梅普露／本条枫，《因为太怕痛就全点防御力了》主角。在好友的推荐下开始玩游戏，因为怕痛而把防御力点满了，并选用了人气不高的大盾。由于全点防御力的关系，导致角色动作缓慢，而且不能使用魔法。结果令角色所施展的攻击完全打不中，反而因为防御力太高而令攻击方受伤，因此获得技能“绝对防御”。<br>在游戏开放公会系统后，与莎莉组成公会“大枫树”并担任会长一职。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
