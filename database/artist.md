@@ -51,7 +51,7 @@ rules:
 | ringo sui | りんご水 | ![りんご水Twitter头像](https://i.loli.net/2020/04/02/nF7bwLoSBH9hvpr.jpg)<br>![りんご水Twitch形象](https://i.loli.net/2020/04/02/BmCnSINuWiMjc1z.png) | [Twitter](https://twitter.com/hana_applewater) [pixiv](https://www.pixiv.net/users/243250) [个人网站](http://applewater.sakura.ne.jp) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/44337) [Twitch](https://www.twitch.tv/hanaringosui) |
 | kanzaki muyu | 神崎むゆ |  | [Twitter表账号](https://twitter.com/_kan_zaki_) [Twitter里账号](https://twitter.com/kanzaki_muyu) [pixiv](https://www.pixiv.net/users/53804) |
 | mizuyan | みずやん |  | [Twitter](https://twitter.com/watervalleyroad) [pixiv](https://www.pixiv.net/users/1869304) [个人网站](http://blog.livedoor.jp/watervalleyroad) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/765825) |
-| ranyues | 仴 |  |  |
+| ranyues | 仴 | ![仴pixiv头像](https://i.loli.net/2020/04/02/b7wkpcdrO5oEejt.png) | [Twitter](https://twitter.com/ranyues_) [pixiv](https://www.pixiv.net/users/2135882) |
 | horonamin | ホロナミン |  |  |
 | chiyami | ちやみ |  |  |
 | hanahanamaki | 花花卷 |  |  |
