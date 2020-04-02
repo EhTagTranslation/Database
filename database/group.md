@@ -1610,6 +1610,7 @@ rules:
 | lazy star lazy | Lazy★Lazy |  |  |
 | 70 nenshiki yuukyuu kikan | 70年式悠久機関 |  |  |
 | amazake hatosyo-ten | 甘酒鳩商店 |  |  |
+| batten kariba | X仮歯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
