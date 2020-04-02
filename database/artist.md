@@ -45,7 +45,7 @@ rules:
 | yamada no seikatu ga daiichi | 山田の性活が第一 |  | [Twitter](https://twitter.com/ymdnoskd1) [pixiv](https://www.pixiv.net/users/1769484) |
 | asamura hiori | 朝丛志描 |  | [Twitter](https://twitter.com/shikaku_asamura) [pixiv](https://www.pixiv.net/users/156679) |
 | matsukawa | 松河 |  | [Twitter](https://twitter.com/matukawa) [pixiv](https://www.pixiv.net/users/46738) |
-| mmm | えむ |  |  |
+| mmm | 暗黒えむ将軍 |  | [Twitter](https://twitter.com/ankokuemushogun) [pixiv](https://www.pixiv.net/users/3039766) |
 | facominn | Facominn |  |  |
 | great mosu | ぐれーともす |  |  |
 | ringo sui | りんご水 |  |  |
