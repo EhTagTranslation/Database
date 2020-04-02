@@ -46,7 +46,7 @@ rules:
 | asamura hiori | 朝丛志描 |  | [Twitter](https://twitter.com/shikaku_asamura) [pixiv](https://www.pixiv.net/users/156679) |
 | matsukawa | 松河 |  | [Twitter](https://twitter.com/matukawa) [pixiv](https://www.pixiv.net/users/46738) |
 | mmm | 暗黒えむ将軍 |  | [Twitter](https://twitter.com/ankokuemushogun) [pixiv](https://www.pixiv.net/users/3039766) |
-| facominn | Facominn |  |  |
+| facominn | ふぁこみん |  | [Twitter](https://twitter.com/facominn) [pixiv](https://www.pixiv.net/users/3737865) [个人网站](http://facominn.blog.fc2.com) |
 | great mosu | ぐれーともす |  |  |
 | ringo sui | りんご水 |  |  |
 | kanzaki muyu | 神崎むゆ |  |  |
