@@ -43,7 +43,7 @@ rules:
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) | [Twitter](https://twitter.com/gumma_kisaragi) [个人网站](http://gumma.main.jp) |
 | ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |  |
 | yamada no seikatu ga daiichi | 山田の性活が第一 |  | [Twitter](https://twitter.com/ymdnoskd1) [pixiv](https://www.pixiv.net/users/1769484) |
-| asamura hiori | 朝丛志描 |  |  |
+| asamura hiori | 朝丛志描 |  | [Twitter](https://twitter.com/shikaku_asamura) [pixiv](https://www.pixiv.net/users/156679) |
 | matsukawa | 松河 |  |  |
 | mmm | えむ |  |  |
 | facominn | Facominn |  |  |
