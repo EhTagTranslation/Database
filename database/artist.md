@@ -49,7 +49,7 @@ rules:
 | facominn | ふぁこみん |  | [Twitter](https://twitter.com/facominn) [pixiv](https://www.pixiv.net/users/3737865) [个人网站](http://facominn.blog.fc2.com) |
 | great mosu | ぐれーともす | ![ぐれーともす头像](https://i.loli.net/2020/04/02/TJASk1L9RbqiEGa.jpg) | [Twitter](https://twitter.com/mosu_g) [pixiv](https://www.pixiv.net/users/6271779) [个人网站](https://mosu5240.wixsite.com/mosquitone) [ニコニコ静画](http://seiga.nicovideo.jp/user/illust/32578155) |
 | ringo sui | りんご水 | ![りんご水Twitter头像](https://i.loli.net/2020/04/02/nF7bwLoSBH9hvpr.jpg)<br>![りんご水Twitch形象](https://i.loli.net/2020/04/02/BmCnSINuWiMjc1z.png) | [Twitter](https://twitter.com/hana_applewater) [pixiv](https://www.pixiv.net/users/243250) [个人网站](http://applewater.sakura.ne.jp) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/44337) [Twitch](https://www.twitch.tv/hanaringosui) |
-| kanzaki muyu | 神崎むゆ |  |  |
+| kanzaki muyu | 神崎むゆ |  | [Twitter表账号](https://twitter.com/_kan_zaki_) [Twitter里账号](https://twitter.com/kanzaki_muyu) [pixiv](https://www.pixiv.net/users/53804) |
 | mizuyan | みずやん |  |  |
 | ranyues | 仴 |  |  |
 | horonamin | ホロナミン |  |  |
