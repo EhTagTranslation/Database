@@ -2825,6 +2825,7 @@ rules:
 | tengen uzui | 宇髄天元 | 鬼杀队中的音柱, 原忍者，绰号“二刀流的宇髄天元”。头巾上镶有着许多钻珠的男子，眼睛周边涂了许多红色花纹，但卸妆后意外的十分美型。 |  |
 | amano hina | 天野阳菜 | 有着不可思议力量，能让天空放晴的少女。与弟弟凪两人相依为命，手很巧，十分擅长料理和裁缝。某日邂逅了离家出走的森岛帆高，称呼对方为帆高。住所在东京都北区田端。生日是8月22日。<br>![](https://img.moegirl.org/common/thumb/2/2d/晴れ女.jpg/1024px-晴れ女.jpg)<br>![替换文字](https://img.moegirl.org/common/b/b0/Hina_.jpg)<br>![替换文字](https://img.moegirl.org/common/thumb/8/8a/Tenkinoko_visual_2.jpg/1024px-Tenkinoko_visual_2.jpg) |  |
 | hodaka morishima | 森岛帆高 | 日本离岛的都立神津岛高校，16岁的高中一年生。外人看来有些失控的少年。出门时仅带着一个黄色小包包离家，并携带着《麦田里的守望者》（村上春树译）。杯面习惯泡2分钟就食用。习惯在Yahoo奇摩知识+询问各种问题<br>![](https://img.moegirl.org/common/thumb/7/7e/Morisaki_Hodaka.png/250px-Morisaki_Hodaka.png) |  |
+| chiaki minami | 南千秋 | 南家三姐妹中的三妹，最小的孩子。眼睛半合状态似睡非睡，头上的一大坨呆毛“桃毛みなみけ”相当灵活，但其实很腹黑，自称为“公主”。<br>经常吐槽夏奈、真子和内田是马鹿野郎，而且都是一针见血，思想超越其他小学生。但对南家的大姐---南春香近乎崇拜的感情，称呼春香为“春香姐姐大人”，对喜欢春香的人近乎敌视的态度。<br>![](https://img.moegirl.org/common/thumb/1/14/南千秋.jpg/250px-南千秋.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/南千秋) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
