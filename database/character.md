@@ -2833,6 +2833,7 @@ rules:
 | kaede azusagawa | 梓川枫 | 梓川咲太的妹妹，中学三年级学生。小说第五卷和第八卷的女主角。因为过去的一些事情不能出门上学，一直待在家里，穿熊猫睡衣。非常黏哥哥咲太，早上会钻进他被窝叫他起床。性格非常内向，害怕外人，不过和经常出没于家里的几个大姐姐们都玩得很熟。有一只叫“那须野”的猫。.<br>![](https://img.moegirl.org/common/thumb/6/63/Azusagawa_Kaede-01.jpeg/800px-Azusagawa_Kaede-01.jpeg) | [萌娘百科](https://zh.moegirl.org/梓川枫) |
 | rio futaba | 双叶理央 | 小说第三卷的女主人公。峰原高中二年级学生，沉默寡言，性格冷静的理科女孩。曾在高一时与梓川咲太和国见佑真两人同班，并成为朋友。课余总是一个人呆在实验室里把玩实验器材，看些高深的科学书籍，喜欢拿酒精灯和烧杯烧水泡咖啡。<br>![](https://img.moegirl.org/common/thumb/5/5c/Rio_futaba.jpg/600px-Rio_futaba.jpg) | [萌娘百科](https://zh.moegirl.org/双叶理央) |
 | sakuta azusagawa | 梓川咲太 |  |  |
+| tomoe koga | 古贺朋绘 | 小说第二卷主人公。峰原高中一年级学生，非常在意他人（尤其是班上最亮眼的香芝玲奈的小团体）对自己的看法，甚至会为了和小团体里的同学有共同话题而熬夜看沙雕视频，因其可爱的外表而在男生中很有人气。说话有时会带有福冈口音，为避免被排挤而努力克制。![](https://img.moegirl.org/common/thumb/c/c8/Koga_Tomoe.jpeg/450px-Koga_Tomoe.jpeg) | [萌娘百科](https://zh.moegirl.org/古贺朋绘) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
