@@ -2802,6 +2802,7 @@ rules:
 | asuka tanaka | 田中明日香 |  |  |
 | raina kitamura | 喜多村 来南 | 巴松(大管)&双簧管首席 |  |
 | mikino oka | 岡美貴乃 |  |  |
+| izumi akazawa | 赤泽泉美 | 赤泽泉美(あかざわいずみ)是绫辻行人笔下小说《Another》及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
