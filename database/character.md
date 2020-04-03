@@ -2864,7 +2864,7 @@ rules:
 | carino soletta | 卡莉诺·素蕾塔 | 织姬索·蕾塔之母 |  |
 | margueritte chateaubriand | 玛格丽特·夏特布里安 | 伊莉斯·夏特布里安之母 |  |
 | yuri sakakibara | 榊原由里 | 早期经常被误写为“神原由里”或“神原尤里”。平时是帝剧的服务台小姐，一旦有状况则变成帝国华击团·风组的成员之一，负责作战支援或空中战舰三笠号的驾驶员。喜欢听小道消息，情报收集能力相当高，是剧场里小道消息来源。在帝剧三人组中作风最为前卫，在服装方面完全西洋风格，个性上好奇心强烈。<br>![图](https://img.moegirl.org/common/thumb/f/fb/Sakakibarayuri.jpg/250px-Sakakibarayuri.jpg) | [萌娘百科](https://zh.moegirl.org/榊原由里) |
-| gemini sunrise | 洁蜜妮·桑莱兹 | ジェミニ・サンライズ《樱花大战V》的登场角色。![图](https://vignette.wikia.nocookie.net/sakurataisen/images/b/ba/Gemini_Sunrise_portait.png/revision/latest?cb=20180909225622) | [FANDOM](https://sakurataisen.fandom.com/wiki/Gemini_Sunrise) |
+| gemini sunrise | 洁蜜妮·桑莱兹 | ジェミニ・サンライズ《樱花大战V》的登场角色。 | [FANDOM](https://sakurataisen.fandom.com/wiki/Gemini_Sunrise) |
 | anthy himemiya | 姬宫安茜 | 《少女革命》中的女主角二号，被称为“蔷薇新娘”的少女，凤学园代理理事长凤晓生的妹妹，中等部二年生。![图](https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266bc2f678ea918972bd4073627?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) |  |
 
 <!--TEMPLATE: 
