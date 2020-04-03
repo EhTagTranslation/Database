@@ -2791,6 +2791,7 @@ rules:
 | kumiko oumae | 高坂丽奈 | 高坂丽奈是武田绫乃所创作的小说《吹响吧!上低音号》及其衍生作品的登场角色，主人公之一。 | [萌娘百科](https://zh.moegirl.org/高坂丽奈) |
 | ririka kenzaki | 剑崎梨梨花 |  |  |
 | kanade hisaishi | 久石奏 |  |  |
+| mizore yoroizuka | 铠冢霙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
