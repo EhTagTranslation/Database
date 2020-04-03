@@ -2789,6 +2789,7 @@ rules:
 | nezuko kamado | 灶门祢豆子 | 竈門 ( かまど ) 禰 ( ね ) 豆 ( ず ) 子 | [萌娘百科](https://zh.moegirl.org/zh-hans/灶门祢豆子) |
 | reina kousaka | 黄前久美子 | 黄前久美子(おうまえ くみこ)是武田绫乃所创作的小说《吹响吧!上低音号》及其衍生作品的登场角色，主人公之一。<br><br>北宇治高中吹奏乐部低音部成员之一，负责吹奏上低音号(Euphonium) | [萌娘百科](https://zh.moegirl.org/黄前久美子) |
 | kumiko oumae | 高坂丽奈 | 高坂丽奈是武田绫乃所创作的小说《吹响吧!上低音号》及其衍生作品的登场角色，主人公之一。 | [萌娘百科](https://zh.moegirl.org/高坂丽奈) |
+| ririka kenzaki | 剑崎梨梨花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
