@@ -2792,6 +2792,7 @@ rules:
 | ririka kenzaki | 剑崎梨梨花 |  |  |
 | kanade hisaishi | 久石奏 |  |  |
 | mizore yoroizuka | 铠冢霙 |  |  |
+| nozomi kasaki | 中川夏纪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
