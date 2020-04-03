@@ -2801,6 +2801,7 @@ rules:
 | haruka ogasawara | 小笠原晴香 |  |  |
 | asuka tanaka | 田中明日香 |  |  |
 | raina kitamura | 喜多村 来南 | 巴松(大管)&双簧管首席 |  |
+| mikino oka | 岡美貴乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
