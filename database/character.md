@@ -2794,6 +2794,7 @@ rules:
 | mizore yoroizuka | 铠冢霙 |  |  |
 | nozomi kasaki | 伞木希美 |  |  |
 | yuuko yoshikawa | 吉川优子 |  |  |
+| natsuki nakagawa | 中川夏纪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
