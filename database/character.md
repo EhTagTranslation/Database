@@ -2853,6 +2853,7 @@ rules:
 | maria tachibana | 玛丽亚·橘 | 俄日混血儿。出生于俄罗斯，曾在俄国革命期间加入革命军。虽然身为女性，但具有非常优秀的射击技巧和神出鬼没的行动能力，人送绰号“食火鸟”。但在俄罗斯陷落时，在战场上未能掩护兄长一般的革命军队长，使其在敌人炮火下丧生，从而有了一段悲痛的回忆。后在纽约被藤枝菖蒲招纳，成为帝国华击团·花组成员，和桐岛神奈二人是花组之中最早的队员。在大神一郎入队之前一直担任队长，之后改任副队长。![图](https://img.moegirl.org/common/thumb/7/74/Mariatachibana.jpg/250px-Mariatachibana.jpg) | [萌娘百科](https://zh.moegirl.org/玛丽亚·橘) |
 | kanna kirishima | 桐島神奈 | 在花组成立之初就已经加入的老成员，与玛丽亚·橘的关系很好。和神崎堇虽然经常吵架 . 虽然是女性，但人高马大，肌肉发达，完全没有一丝女性的特点（除了胸和臀）![图](https://img.moegirl.org/common/thumb/2/2e/KanNa.jpg/250px-KanNa.jpg) | [萌娘百科](https://zh.moegirl.org/zh/桐岛神奈) |
 | tsubaki takamura | 高村椿 | 在帝國歌劇團擔任販賣部店員工作的女孩。個性開朗活潑，具有不管和誰都能變成好朋友的體質。風組成員，戰鬥時擔任戰艦三笠號的槍炮管制。<br>![图](https://img.moegirl.org/common/thumb/7/7b/Tsubaki.jpg/250px-Tsubaki.jpg) | [萌娘百科](https://zh.moegirl.org/高村椿) |
+| ayame fujieda | 藤枝菖蒲 | 官阶为陆军少尉。藤枝家当代家主，前帝国对降魔部队的队员，个性表现出超乎年龄所应有的冷静、温柔，是一位带有神秘色彩的美女，平常举止虽然娴静，但是一旦作战时，就会展现冷静而迅速的判断力与行动力。她是个“作战谨慎，行动大胆”的主义者，十分爱慕同部队的山崎真之介。后来成为帝国华击团的副司令兼任秘书，兼任花屋支部长、风组负责人，给与华击团的各位很大的帮助，时常担任大神在生活中的辅导老师。佩剑为“神剑白羽鸟”。![图](https://img.moegirl.org/common/thumb/3/3c/Ayame.jpg/250px-Ayame.jpg) | [萌娘百科](https://zh.moegirl.org/藤枝菖蒲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
