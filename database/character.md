@@ -2793,6 +2793,7 @@ rules:
 | kanade hisaishi | 久石奏 |  |  |
 | mizore yoroizuka | 铠冢霙 |  |  |
 | nozomi kasaki | 伞木希美 |  |  |
+| yuuko yoshikawa | 吉川优子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
