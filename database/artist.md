@@ -174,7 +174,7 @@ rules:
 | motomiya mitsuki | もとみやみつき |  |  |
 | interstellar | Interstellar |  |  |
 | mikeou | みけおう |  |  |
-| hinata nao | 日向奈尾 |  |  |
+| hinata nao | 日向奈尾 |  | [pixiv](https://www.pixiv.net/users/11887) |
 | sakurazaka tsuchiyu | 桜坂つちゆ |  |  |
 | yamakaze ran | やまかぜ嵐 |  |  |
 | anko | あん子 \| あんこ |  |  |
@@ -226,7 +226,7 @@ rules:
 | kakugari kyoudai | カクガリ兄弟 |  |  |
 | matsumomo mahiru | 松百まひる |  |  |
 | aoi masami | あおいまさみ（苍海） |  | [pixiv](https://www.pixiv.net/users/764148) [Twitter](https://twitter.com/aoimasami) |
-| itou life | 伊東ライフ |  |  |
+| itou life | 伊東ライフ |  | [pixiv](https://www.pixiv.net/users/32156) |
 | taniguchi-san | 谷口さん |  |  |
 | amou mari | 天羽真理 |  |  |
 | tsuttsu | つっつ |  |  |
@@ -606,7 +606,7 @@ rules:
 | ooshima ryou | 大嶋亮 |  |  |
 | aeba fuchi | 飨庭渊 |  |  |
 | hakka yuki | 薄荷ゆき |  |  |
-| derauea | でらうえあ |  |  |
+| derauea | でらうえあ |  | [pixiv](https://www.pixiv.net/users/5037991) |
 | rurukichi | るるキチ |  |  |
 | unasaka | うなさか |  |  |
 | anmi | Anmi |  |  |
@@ -2542,6 +2542,12 @@ rules:
 | amanagi seiji | 天凪青磁 |  |  |
 | tsukako | つかこ |  |  |
 | mochi | RIN（モチ） | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
+| araiguma | あらいぐま | | [pixiv](https://www.pixiv.net/users/13662) |
+| 2-g | 2-G | | [Twitter](https://twitter.com/two_g) [pixiv](https://www.pixiv.net/users/7251) [博客](http://2-g.sblo.jp) |
+| sukoyaka gyuunyuu | 健やか牛乳 | | [pixiv](https://www.pixiv.net/users/459456) |
+| saeki nao | 彩季なお | | [pixiv](https://www.pixiv.net/users/16605) |
+| endori | えんどり | | [pixiv](https://www.pixiv.net/users/1025698) |
+
 
 <!--TEMPLATE: 
 |  |  |  |  |
