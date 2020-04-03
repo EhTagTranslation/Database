@@ -2549,6 +2549,7 @@ rules:
 | endori | えんどり |  | [pixiv](https://www.pixiv.net/users/1025698) |
 | fukuoka tarou | 福岡太朗 |  | [pixiv](https://www.pixiv.net/users/4436) |
 | mafuyu hemp | 麻冬HEMP |  |  |
+| kanno takanori | 南乃さざん |  |  |
 
 
 <!--TEMPLATE: 
