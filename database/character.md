@@ -2858,6 +2858,7 @@ rules:
 | kaede fujieda | 藤枝枫 | 前副司令藤枝菖蒲的妹妹，姐姐牺牲后，作为帝击副司令赴任。与和风的姐姐不同，她更中意西洋的风格，不管是房间的摆设还是平时的便装打扮都是现代风的。性格活泼，注重行动。虽然姐姐是自我牺牲挽救大局的人，但是她却是否定自我牺牲的一派。![图](https://img.moegirl.org/common/thumb/7/70/Kaede.jpg/250px-Kaede.jpg) | [萌娘百科](https://zh.moegirl.org/藤枝枫) |
 | diana caprice | 黛安娜·卡普利斯 | 《樱花大战V》的登场角色。 |  |
 | ratchet altair | 拉琪特·奥泰尔 | 《樱花大战V》的登场角色。 |  |
+| shinjiro taiga | 大河新次郎 | 《樱花大战V》的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
