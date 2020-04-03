@@ -488,7 +488,7 @@ rules:
 | slayers | 秀逗魔导士 |  |  |
 | grendizer | UFO机器人 古连泰沙 |  |  |
 | keroro gunsou | Keroro军曹 |  |  |
-| sakura taisen | 樱花大战 |  |  |
+| sakura taisen | 樱花大战 | 樱花大战系列（罗马拼音Sakura Taisen ，英文名 Sakura Wars）是日本世嘉公司开发制作的恋爱养成类和策略类系列游戏，最早于1996年9月27日登录SEGA Saturn电视游戏平台。<br>主系列<br>樱花大战1（1996年）<br>樱花大战2～望君珍重～（1998年）<br>樱花大战3～巴黎在燃烧吗～（2001年）<br>樱花大战4～恋爱吧 少女～（2002年）<br>樱花大战5（2006年）<br>新樱花大战（2019:PS4）<br>动画<br>樱花大战(电视动画)————《樱花大战》TV版动画，共25话。<br>樱花大战OVA樱华绚烂————《樱花大战》OVA第一部，1997年出，共4话<br>樱花大战OVA轰华绚烂————《樱花大战》OVA第二部，1999年出，共6话<br>樱花大战OVA神崎堇引退纪念『す・み・れ』————《樱花大战》OVA特别篇，2002年出，全1话<br>樱花大战OVA燃烧的巴黎————《樱花大战》OVA第三部，2003年出，共3话<br>樱花大战OVA崭新的新巴黎————《樱花大战》OVA第四部，2004年出，共3话<br>樱花大战OVA纽约————《樱花大战》OVA第五部，2007年出，共6话<br>新樱花大战 the Animation————《新樱花大战》游戏改编TV版动画，2020年<br>![图](https://img.moegirl.org/common/thumb/d/dd/Sakura_taisan_all.jpg/250px-Sakura_taisan_all.jpg) | [萌娘百科](https://zh.moegirl.org/樱花大战系列) |
 | saint seiya | 圣斗士星矢 |  |  |
 | agent aika | 海底娇娃蓝华 |  |  |
 | city hunter | 城市猎人 |  |  |
