@@ -2542,11 +2542,12 @@ rules:
 | amanagi seiji | 天凪青磁 |  |  |
 | tsukako | つかこ |  |  |
 | mochi | RIN（モチ） | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
-| araiguma | あらいぐま | | [pixiv](https://www.pixiv.net/users/13662) |
-| 2-g | 2-G | | [Twitter](https://twitter.com/two_g) [pixiv](https://www.pixiv.net/users/7251) [博客](http://2-g.sblo.jp) |
-| sukoyaka gyuunyuu | 健やか牛乳 | | [pixiv](https://www.pixiv.net/users/459456) |
-| saeki nao | 彩季なお | | [pixiv](https://www.pixiv.net/users/16605) |
-| endori | えんどり | | [pixiv](https://www.pixiv.net/users/1025698) |
+| araiguma | あらいぐま |  | [pixiv](https://www.pixiv.net/users/13662) |
+| 2-g | 2-G |  | [Twitter](https://twitter.com/two_g) [pixiv](https://www.pixiv.net/users/7251) [博客](http://2-g.sblo.jp) |
+| sukoyaka gyuunyuu | 健やか牛乳 |  | [pixiv](https://www.pixiv.net/users/459456) |
+| saeki nao | 彩季なお |  | [pixiv](https://www.pixiv.net/users/16605) |
+| endori | えんどり |  | [pixiv](https://www.pixiv.net/users/1025698) |
+| fukuoka tarou | 福岡太朗 |  | [pixiv](https://www.pixiv.net/users/4436) |
 
 
 <!--TEMPLATE: 
