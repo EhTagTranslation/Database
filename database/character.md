@@ -2798,6 +2798,7 @@ rules:
 | sapphire kawashima | 川岛绿辉 |  |  |
 | kaori nakaseko | 中世古香织 |  |  |
 | hazuki katou | 加藤叶月 |  |  |
+| haruka ogasawara | 小笠原晴香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
