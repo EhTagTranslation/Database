@@ -1440,6 +1440,7 @@ rules:
 | itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu. | 因为太怕痛就全点防御力了 | 《因为太怕痛就全点防御力了》（日语：痛いのは嫌なので防御力に極振りしたいと思います。）为夕蜜柑所写的日本轻小说。于2016年5月在“成为小说家吧”上连载。书籍版由角川书籍出版，插图由狐印负责。动画版于2020年1月8日开始播放，共12集。第一期动画结束后，官方宣布第二期制作决定。<br>![](https://img.moegirl.org/common/4/43/Itainohaiya_01.jpg)<br>![](https://img.moegirl.org/common/a/a9/Itainohaiya_Anime_KV.png) | [Wikipedia](https://zh.wikipedia.org/zh-cn/怕痛的我，把防禦力點滿就對了 "Wikipedia")<br>[萌娘百科](https://zh.moegirl.org/zh-hans/怕痛的我，把防御力点满就对了 "萌娘百科") |
 | rurouni kenshin | 浪客剑心 | 《浪客剑心》是由和月伸宏创作的漫画作品。1994年至1999年于日本少年JUMP周刊连载。2017年9月4日开始在《JUMP SQ.》连载续篇《北海道篇》。2018年1月号（2017年12月4日发售）起由于原作者和月伸宏涉嫌持有儿童色情物品被送检而暂时休载，同年7月号（6月4日发售）连载再开。<br>![图](https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2e2d3d760a4ec2d562853568a4?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5) | [萌娘百科](https://zh.moegirl.org/zh/浪客剑心) |
 | gankutsuou | 岩窟王 | 根据法国大文豪大仲马的经典小说《基督山恩仇记》所改编的电视动画，从2004年10月5日至2005年3月29日在日本播放，总共24集。动画画面充斥着独特的迷幻风格，加上惊心动魄的剧情，令作品获得2005年东京国际动画博览会优秀作品赏。后来作品也被改编成小说与漫画。<br>![图](https://cdn-us.anidb.net/images/main/221586.jpg) | [维基百科](https://zh.wikipedia.org/wiki/巖窟王) |
+| kiddy grade | 天使特警 | 《天使特警》（キディ·グレイド，Kiddy Grade，简称KG），为2002年10月播出的电视动画，共24集。2007年发表了要制作续篇“キディ·グレイド2（仮称）”的消息。08年正式推出续集kiddy girland，但是因为画风和剧情风格都有转换，制作公司换人，原作角色大幅变动和声优阵容的变动等各种原因而差评如潮![图](https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fad173faa9a8d3fd1f40345b6b?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) | [百度百科](https://baike.baidu.com/item/天使特警/5655) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
