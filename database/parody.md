@@ -1438,6 +1438,7 @@ rules:
 | tate no yuusha no nariagari | 盾之勇者成名录 |  |  |
 | watashi nouryoku wa heikinchi de tte itta yo ne | 我，不是说了能力要平均值么！ | 《我不是说了能力要平均值吗？》（日语：私、能力は平均値でって言ったよね！），为2016年1月14日于成为小说家吧上连载的轻小说，作者为FUNA。后由地球之星娱乐出版，亚方逸树负责插画。同年8月推出漫画版，于Comic Earth Star连载，ねこみんと绘画。在2018年宣布改编为动画。<br>![](https://img.moegirl.org/common/0/06/我不是说了能力要平均值么.jpg)<br>![](https://img.moegirl.org/common/a/ab/Noukin_Anime_KV.jpg) | [Wikipedia](https://zh.wikipedia.org/zh-cn/我不是說了能力要平均值嗎？ "Wikipedia")<br>[萌娘百科](https://zh.moegirl.org/我，不是说了能力要平均值么 "萌娘百科") |
 | itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu. | 因为太怕痛就全点防御力了 | 《因为太怕痛就全点防御力了》（日语：痛いのは嫌なので防御力に極振りしたいと思います。）为夕蜜柑所写的日本轻小说。于2016年5月在“成为小说家吧”上连载。书籍版由角川书籍出版，插图由狐印负责。动画版于2020年1月8日开始播放，共12集。第一期动画结束后，官方宣布第二期制作决定。<br>![](https://img.moegirl.org/common/4/43/Itainohaiya_01.jpg)<br>![](https://img.moegirl.org/common/a/a9/Itainohaiya_Anime_KV.png) | [Wikipedia](https://zh.wikipedia.org/zh-cn/怕痛的我，把防禦力點滿就對了 "Wikipedia")<br>[萌娘百科](https://zh.moegirl.org/zh-hans/怕痛的我，把防御力点满就对了 "萌娘百科") |
+| rurouni kenshin | 浪客剑心 | 《浪客剑心》是由和月伸宏创作的漫画作品。1994年至1999年于日本少年JUMP周刊连载。2017年9月4日开始在《JUMP SQ.》连载续篇《北海道篇》。2018年1月号（2017年12月4日发售）起由于原作者和月伸宏涉嫌持有儿童色情物品被送检而暂时休载，同年7月号（6月4日发售）连载再开。<br>![图](https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2e2d3d760a4ec2d562853568a4?x-bce-process=image/watermark,g_7,image_d2F0ZXIvYmFpa2UxNTA=,xp_5,yp_5) | [萌娘百科](https://zh.moegirl.org/zh/浪客剑心) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
