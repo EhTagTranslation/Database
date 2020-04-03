@@ -2841,6 +2841,7 @@ rules:
 | ichiro ogami | 大神一郎 | 樱花大战系列前四代的男主角。大日本帝国的年轻军人，在海军士官学校以首名的成绩毕业。历任帝国华击团、巴黎华击团花组队长，曾领导花组成员拯救了东京和巴黎，功勋卓著。平常是个率直的热血男儿，拥有优秀的领导才干，无论作战中亦或是日常生活中，都能让队员紧密团结在其周围。四代后已升任帝国海军上尉，帝国华击团司令.<br>![](https://img.moegirl.org/common/thumb/f/fd/Oogami.jpg/300px-Oogami.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/大神一郎) |
 | lobelia carlini | 罗贝莉娅·卡尔里尼 | 《樱花大战系列》的登场角色 |  |
 | nodoka toyohama | 丰滨和香 | 小说第四卷的女主人公，女主角樱岛麻衣同父异母的妹妹，偶像团体“甜蜜子弹sweet bullet”的成员。麻衣的父母离婚后父亲再婚生下的女孩，年纪比麻衣小一岁。![](https://img.moegirl.org/common/thumb/f/fd/Oogami.jpg/300px-Oogami.jpg) | [萌娘百科]([萌娘百科]%28%29) |
+| shouko makinohara | 牧之原翔子 | 咲太的初恋情人，过去曾在枫的事件中对咲太伸出援手的少女，之后下落不明。咲太因为她就读峰原高中而决定报考这所学校。现在原本应该是19岁的她，不知为何却变成12岁初一学生的模样。经常会到梓川家来看望被咲太收养的小猫。![](https://img.moegirl.org/common/thumb/e/e2/Makinohara_Shōko.png/250px-Makinohara_Shōko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/牧之原翔子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
