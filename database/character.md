@@ -2796,6 +2796,7 @@ rules:
 | yuuko yoshikawa | 吉川优子 |  |  |
 | natsuki nakagawa | 中川夏纪 |  |  |
 | sapphire kawashima | 川岛绿辉 |  |  |
+| kaori nakaseko | 中世古香织 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
