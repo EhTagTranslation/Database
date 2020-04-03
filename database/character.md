@@ -2842,6 +2842,7 @@ rules:
 | lobelia carlini | 罗贝莉娅·卡尔里尼 | 《樱花大战系列》的登场角色 |  |
 | nodoka toyohama | 丰滨和香 | 小说第四卷的女主人公，女主角樱岛麻衣同父异母的妹妹，偶像团体“甜蜜子弹sweet bullet”的成员。麻衣的父母离婚后父亲再婚生下的女孩，年纪比麻衣小一岁。![](https://img.moegirl.org/common/thumb/f/fd/Oogami.jpg/300px-Oogami.jpg) | [萌娘百科]([萌娘百科]%28%29) |
 | shouko makinohara | 牧之原翔子 | 咲太的初恋情人，过去曾在枫的事件中对咲太伸出援手的少女，之后下落不明。咲太因为她就读峰原高中而决定报考这所学校。现在原本应该是19岁的她，不知为何却变成12岁初一学生的模样。经常会到梓川家来看望被咲太收养的小猫。![](https://img.moegirl.org/common/thumb/e/e2/Makinohara_Shōko.png/250px-Makinohara_Shōko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/牧之原翔子) |
+| iris chateaubriand | 伊莉斯·夏特布里安(爱丽丝) | 法国人，是法国大富豪夏特布里安伯爵家的独生女，从小被家人长期锁在家中。皆因自身拥有的不稳定的超强灵力，暴走时会产生大破坏的严重后果。后被藤枝菖蒲带往日本，成为帝国华击团·花组成员，是花组中年龄最小但灵力最强的。名为“让·保罗”（ジャンポール）的熊布偶是她的最好的朋友。性格有些早熟，常认为自己已经长大成人，因而极其讨厌别人把自己当成小孩。<br>![](https://img.moegirl.org/common/thumb/5/52/Irischateaubriand.jpg/250px-Irischateaubriand.jpg) | [萌娘百科](https://zh.moegirl.org/伊莉斯·夏特布里安) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
