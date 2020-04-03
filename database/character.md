@@ -2826,6 +2826,7 @@ rules:
 | amano hina | 天野阳菜 | 有着不可思议力量，能让天空放晴的少女。与弟弟凪两人相依为命，手很巧，十分擅长料理和裁缝。某日邂逅了离家出走的森岛帆高，称呼对方为帆高。住所在东京都北区田端。生日是8月22日。<br>![](https://img.moegirl.org/common/thumb/2/2d/晴れ女.jpg/1024px-晴れ女.jpg)<br>![替换文字](https://img.moegirl.org/common/b/b0/Hina_.jpg)<br>![替换文字](https://img.moegirl.org/common/thumb/8/8a/Tenkinoko_visual_2.jpg/1024px-Tenkinoko_visual_2.jpg) |  |
 | hodaka morishima | 森岛帆高 | 日本离岛的都立神津岛高校，16岁的高中一年生。外人看来有些失控的少年。出门时仅带着一个黄色小包包离家，并携带着《麦田里的守望者》（村上春树译）。杯面习惯泡2分钟就食用。习惯在Yahoo奇摩知识+询问各种问题<br>![](https://img.moegirl.org/common/thumb/7/7e/Morisaki_Hodaka.png/250px-Morisaki_Hodaka.png) |  |
 | chiaki minami | 南千秋 | 南家三姐妹中的三妹，最小的孩子。眼睛半合状态似睡非睡，头上的一大坨呆毛“桃毛みなみけ”相当灵活，但其实很腹黑，自称为“公主”。<br>经常吐槽夏奈、真子和内田是马鹿野郎，而且都是一针见血，思想超越其他小学生。但对南家的大姐---南春香近乎崇拜的感情，称呼春香为“春香姐姐大人”，对喜欢春香的人近乎敌视的态度。<br>![](https://img.moegirl.org/common/thumb/1/14/南千秋.jpg/250px-南千秋.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/南千秋) |
+| haruka minami | 南夏奈 | 南家三姐妹中的二姐，长相不错，不说话看起来还是很正常的（各种意义上）。个性就像她的名字一样，有如火热的夏日，有着永远用不完的精力。南家的很多笑点蠢事有一半都是她推动的。经常被妹妹南千秋嫌弃，称之为“马鹿野郎”（笨蛋），虽然嘴上这么说，但有事的话也会找夏奈商量。超级脱线与神经大条，但有时候又看起来很有智慧（？）非常喜欢《二之宫与老师》八点档这部电视剧和兜裆布新闻。放下头发后是个标致的美人。人缘奇好，无论是自己还是春香还是千秋的人际圈都处的非常好。<br>![](https://img.moegirl.org/common/thumb/2/28/南夏奈_.jpg/250px-南夏奈_.jpg) | [萌娘百科](https://zh.moegirl.org/南夏奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
