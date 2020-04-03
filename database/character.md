@@ -2854,6 +2854,7 @@ rules:
 | kanna kirishima | 桐島神奈 | 在花组成立之初就已经加入的老成员，与玛丽亚·橘的关系很好。和神崎堇虽然经常吵架 . 虽然是女性，但人高马大，肌肉发达，完全没有一丝女性的特点（除了胸和臀）![图](https://img.moegirl.org/common/thumb/2/2e/KanNa.jpg/250px-KanNa.jpg) | [萌娘百科](https://zh.moegirl.org/zh/桐岛神奈) |
 | tsubaki takamura | 高村椿 | 在帝國歌劇團擔任販賣部店員工作的女孩。個性開朗活潑，具有不管和誰都能變成好朋友的體質。風組成員，戰鬥時擔任戰艦三笠號的槍炮管制。<br>![图](https://img.moegirl.org/common/thumb/7/7b/Tsubaki.jpg/250px-Tsubaki.jpg) | [萌娘百科](https://zh.moegirl.org/高村椿) |
 | ayame fujieda | 藤枝菖蒲 | 官阶为陆军少尉。藤枝家当代家主，前帝国对降魔部队的队员，个性表现出超乎年龄所应有的冷静、温柔，是一位带有神秘色彩的美女，平常举止虽然娴静，但是一旦作战时，就会展现冷静而迅速的判断力与行动力。她是个“作战谨慎，行动大胆”的主义者，十分爱慕同部队的山崎真之介。后来成为帝国华击团的副司令兼任秘书，兼任花屋支部长、风组负责人，给与华击团的各位很大的帮助，时常担任大神在生活中的辅导老师。佩剑为“神剑白羽鸟”。![图](https://img.moegirl.org/common/thumb/3/3c/Ayame.jpg/250px-Ayame.jpg) | [萌娘百科](https://zh.moegirl.org/藤枝菖蒲) |
+| cloud strife | 克劳德·史特莱夫 | 克劳德·史特莱夫是一位出现在Square的电子游戏《最终幻想VII》和相关续作的虚构角色，为《FFVII》本传的主角。最初设计来自《FFVII》的角色设计师野村哲也。克劳德的外表特征是金色的尖刺发型，醒目的蓝色眼睛，深色衣服和巨大的“破坏剑”，此剑是挚友扎克斯·菲尔的遗物。![维基图](https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/Cloud_%28KH_Art%29.png/220px-Cloud_%28KH_Art%29.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
