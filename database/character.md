@@ -2797,6 +2797,7 @@ rules:
 | natsuki nakagawa | 中川夏纪 |  |  |
 | sapphire kawashima | 川岛绿辉 |  |  |
 | kaori nakaseko | 中世古香织 |  |  |
+| hazuki katou | 加藤叶月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
