@@ -1,4 +1,4 @@
----
+﻿---
 key: male
 name: 男性
 description: 男性角色相关的恋物标签。
@@ -39,6 +39,7 @@ rules:
 | multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |  |
 | muscle | 肌肉 | 肌肉发达的角色。<br>![例](# "https://ehgt.org/9d/ce/9dce341cdd5e2ecc67cf3210b151440526132bb3-939934-1366-768-png_250.jpg") |  |
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |  |
+| shapening | 平面化 | 参与者弄平，融化或以其他方式变为几何形状（例如球形或立方体）。不要与身体改造(body modification)相混淆。 |  |
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |  |
 | tailjob | 尾交 | 用尾巴模拟性器官。 |  |
 | wingjob | 翼交 | 用翅膀模拟性器官。 |  |
