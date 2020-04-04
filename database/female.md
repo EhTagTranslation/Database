@@ -41,6 +41,7 @@ rules:
 | multiple breasts | 多对乳房 | 一个人拥有两个以上的乳房。 |  |
 | muscle | 肌肉 | 肌肉发达的角色。<br>![例](https://ehgt.org/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg) |  |
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |  |
+| shapening | 平面化 | 参与者弄平，融化或以其他方式变为几何形状（例如球形或立方体）。不要与身体改造(body modification)相混淆。 |  |
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为触手(tentacles)的地方 。 |  |
 | tailjob | 尾交 | 用尾巴模拟性器官。 |  |
 | wingjob | 翼交 | 用翅膀模拟性器官。 |  |
