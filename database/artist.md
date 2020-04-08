@@ -2552,6 +2552,7 @@ rules:
 | kanno takanori | 南乃さざん |  |  |
 | takehana note | 竹花ノート |  |  |
 | sakuraba hikaru | 桜庭光 |  | [Pixiv](https://www.pixiv.net/users/1423422)<br>[Fanbox](https://www.pixiv.net/fanbox/creator/1423422)<br>[Twitter](https://twitter.com/loveindoghikaru) |
+| wolflong | ╰狼龍 |  | [Twitter](https://twitter.com/wolflong88) [Pixiv](https://www.pixiv.net/users/2086437) |
 
 
 <!--TEMPLATE: 
