@@ -1614,6 +1614,7 @@ rules:
 | amazake hatosyo-ten | 甘酒鳩商店 |  |  |
 | batten kariba | X仮歯 |  |  |
 | mosquitone. | もすきーと音。 |  |  |
+| hachibusaki | 八分咲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
