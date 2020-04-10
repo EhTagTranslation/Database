@@ -54,7 +54,7 @@ rules:
 | ranyues | 仴 | ![仴pixiv头像](https://i.loli.net/2020/04/02/b7wkpcdrO5oEejt.png) | [Twitter](https://twitter.com/ranyues_) [pixiv](https://www.pixiv.net/users/2135882) |
 | horonamin | ホロナミン | ![Twitter头像](https://i.loli.net/2020/04/10/5fDpXqUyLBJ2x1j.jpg) | [Twitter](https://twitter.com/horonamin0080) [pixiv](https://www.pixiv.net/users/716833) |
 | chiyami | ちやみ |  | [Twitter](https://twitter.com/chiyamiiblis) [pixiv](https://www.pixiv.net/users/540349) [个人网站](http://chiyami.weebly.com) |
-| hanahanamaki | 花花卷 |  |  |
+| hanahanamaki | 花花卷 | ![花花捲](https://i.loli.net/2020/04/10/KPsrqDgGAtdXp8k.png)<br>花花捲，来自台湾，现住日本东京的插画家，是草草饅的双胞胎姐姐，主要负责设计和线描，爱好包括智能手机游戏，旅行，设计等。 |  |
 | sousouman | 草草馒 |  |  |
 | muk | MUK |  |  |
 | ore p 1-gou | 俺P1号 |  |  |
