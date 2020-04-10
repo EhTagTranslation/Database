@@ -53,7 +53,7 @@ rules:
 | mizuyan | みずやん |  | [Twitter](https://twitter.com/watervalleyroad) [pixiv](https://www.pixiv.net/users/1869304) [个人网站](http://blog.livedoor.jp/watervalleyroad) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/765825) |
 | ranyues | 仴 | ![仴pixiv头像](https://i.loli.net/2020/04/02/b7wkpcdrO5oEejt.png) | [Twitter](https://twitter.com/ranyues_) [pixiv](https://www.pixiv.net/users/2135882) |
 | horonamin | ホロナミン | ![Twitter头像](https://i.loli.net/2020/04/10/5fDpXqUyLBJ2x1j.jpg) | [Twitter](https://twitter.com/horonamin0080) [pixiv](https://www.pixiv.net/users/716833) |
-| chiyami | ちやみ |  |  |
+| chiyami | ちやみ |  | [Twitter](https://twitter.com/chiyamiiblis) [pixiv](https://www.pixiv.net/users/540349) [个人网站](http://chiyami.weebly.com) |
 | hanahanamaki | 花花卷 |  |  |
 | sousouman | 草草馒 |  |  |
 | muk | MUK |  |  |
