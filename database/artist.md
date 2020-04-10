@@ -372,7 +372,7 @@ rules:
 | yanagawa rio | やながわ理央 |  |  |
 | kakuzatou | 核座头 |  | [pixiv](https://www.pixiv.net/users/20557975) |
 | kaminagi | 神凪 |  |  |
-| twinbox | TwinBox |  |  |
+| twinbox | TwinBox | 「TwinBox」是花花捲和草草饅共同的同人社团名称，同时也是商业活动的笔名。 | [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [个人网站](https://www.twinbox-tb.com) |
 | izuminoaru | イズミノアル |  |  |
 | nora shinji | 白野じん |  |  |
 | shihachiro | しはちろ |  |  |
