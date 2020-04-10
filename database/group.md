@@ -186,7 +186,7 @@ rules:
 | nakayohi mogudan | なかよひモグダン |  |  |
 | suteuka no koya | すてうかの小屋 |  |  |
 | at ism | @ism |  |  |
-| twinbox | TwinBox |  |  |
+| twinbox | TwinBox | 「TwinBox」是花花捲和草草饅共同的同人社团名称，同时也是商业活动的笔名。 | [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com) |
 | ame nochi yuki | あめ のち ゆき |  |  |
 | mataro | 魔太郎 |  |  |
 | otonano do-wa | 大人の寓話 |  |  |
