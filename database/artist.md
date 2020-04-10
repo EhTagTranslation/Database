@@ -52,7 +52,7 @@ rules:
 | kanzaki muyu | 神崎むゆ |  | [Twitter表账号](https://twitter.com/_kan_zaki_) [Twitter里账号](https://twitter.com/kanzaki_muyu) [pixiv](https://www.pixiv.net/users/53804) |
 | mizuyan | みずやん |  | [Twitter](https://twitter.com/watervalleyroad) [pixiv](https://www.pixiv.net/users/1869304) [个人网站](http://blog.livedoor.jp/watervalleyroad) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/765825) |
 | ranyues | 仴 | ![仴pixiv头像](https://i.loli.net/2020/04/02/b7wkpcdrO5oEejt.png) | [Twitter](https://twitter.com/ranyues_) [pixiv](https://www.pixiv.net/users/2135882) |
-| horonamin | ホロナミン |  |  |
+| horonamin | ホロナミン | ![Twitter头像](https://i.loli.net/2020/04/10/5fDpXqUyLBJ2x1j.jpg) | [Twitter](https://twitter.com/horonamin0080) [pixiv](https://www.pixiv.net/users/716833) |
 | chiyami | ちやみ |  |  |
 | hanahanamaki | 花花卷 |  |  |
 | sousouman | 草草馒 |  |  |
