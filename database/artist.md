@@ -2555,6 +2555,7 @@ rules:
 | wolflong | ╰狼龍 |  | [Twitter](https://twitter.com/wolflong88) [Pixiv](https://www.pixiv.net/users/2086437) |
 | toyosaki shu | 豊咲 |  |  |
 | mutou koucha | 無糖紅茶 |  |  |
+| kurihara kenshirou | 栗原ケンシロウ |  |  |
 
 
 <!--TEMPLATE: 
