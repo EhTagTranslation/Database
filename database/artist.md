@@ -2554,6 +2554,7 @@ rules:
 | sakuraba hikaru | 桜庭光 |  | [Pixiv](https://www.pixiv.net/users/1423422)<br>[Fanbox](https://www.pixiv.net/fanbox/creator/1423422)<br>[Twitter](https://twitter.com/loveindoghikaru) |
 | wolflong | ╰狼龍 |  | [Twitter](https://twitter.com/wolflong88) [Pixiv](https://www.pixiv.net/users/2086437) |
 | toyosaki shu | 豊咲 |  |  |
+| mutou koucha | 無糖紅茶 |  |  |
 
 
 <!--TEMPLATE: 
