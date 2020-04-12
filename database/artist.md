@@ -2556,6 +2556,7 @@ rules:
 | toyosaki shu | 豊咲 |  |  |
 | mutou koucha | 無糖紅茶 |  |  |
 | kurihara kenshirou | 栗原ケンシロウ |  |  |
+| matsumotoke | 松本家御愛用 |  |  |
 
 
 <!--TEMPLATE: 
