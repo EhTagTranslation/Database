@@ -2557,6 +2557,7 @@ rules:
 | mutou koucha | 無糖紅茶 |  |  |
 | kurihara kenshirou | 栗原ケンシロウ |  |  |
 | matsumotoke | 松本家御愛用 |  |  |
+| utamaro | 歌麿 |  |  |
 
 
 <!--TEMPLATE: 
