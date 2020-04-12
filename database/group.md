@@ -1615,6 +1615,7 @@ rules:
 | batten kariba | X仮歯 |  |  |
 | mosquitone. | もすきーと音。 |  |  |
 | hachibusaki | 八分咲 |  |  |
+| kouen tanpaku q | 交援蛋白Q |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
