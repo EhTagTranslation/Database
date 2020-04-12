@@ -1616,6 +1616,7 @@ rules:
 | mosquitone. | もすきーと音。 |  |  |
 | hachibusaki | 八分咲 |  |  |
 | kouen tanpaku q | 交援蛋白Q |  |  |
+| egao de bouryoku | 笑顔で暴力 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
