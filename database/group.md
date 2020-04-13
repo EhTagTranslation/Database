@@ -140,7 +140,7 @@ rules:
 | sekine | 咳寝 |  |  |
 | ippongui | 一本杭 |  |  |
 | aomidoro | アオミドロ |  |  |
-| otukimi koubo | おつきみ工房 |  |  |
+| otukimi koubo | おつきみ工房 |  | [官方网站](https://otukimikoubou.com) |
 | monsieur | MonsieuR |  |  |
 | orange peels | オレンジピールズ |  | [官方网站](http://www.orchard.topaz.ne.jp/~orepee) |
 | wata 120 percent | 綿120パーセント |  |  |
