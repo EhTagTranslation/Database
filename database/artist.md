@@ -85,7 +85,7 @@ rules:
 | hisasi | Hisasi |  | [Twitter](https://twitter.com/nekomanHisasi) [pixiv](https://www.pixiv.net/users/119045) [个人网站](http://nekoman9.x.fc2.com/top.html) [中文维基](https://zh.wikipedia.org/wiki/Hisasi) |
 | akizora momidi | 秋空もみぢ |  | [Twitter](https://twitter.com/akizora_momidi) [pixiv](https://www.pixiv.net/users/532462) |
 | yuunagi sesina | 夕凪セシナ |  | [pixiv](https://www.pixiv.net/users/382708) |
-| ippongui | 一本杭 |  |  |
+| ippongui | 一本杭 |  | [Twitter](https://twitter.com/ippon_gui) [pixiv](https://www.pixiv.net/users/177996) [个人网站](http://shake.noor.jp) |
 | sekine hajime | 咳寝はじめ |  |  |
 | mura osamu | ムラオサム |  |  |
 | sody | Sody |  |  |
