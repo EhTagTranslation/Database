@@ -62,7 +62,7 @@ rules:
 | hodumi kaoru | 八月朔日珈瑠 |  | [Twitter](https://twitter.com/hodumi_k) [pixiv](https://www.pixiv.net/users/764209) |
 | watsuki rumi | わつきるみ |  | [Twitter](https://twitter.com/watsukiya) [pixiv](https://www.pixiv.net/users/4016086) [个人网站](https://www.watsuki.com) |
 | soramoti | そらモチ |  | [Twitter](https://twitter.com/soramoti00) [pixv](https://www.pixiv.net/users/82569) [个人网站](http://sorahina.web.fc2.com) |
-| blastbeat | BLASTBEAT |  |  |
+| blastbeat | BLASTBEAT |  | [Twitter](https://twitter.com/blast_beat) [pixiv](https://www.pixiv.net/users/56021) |
 | takashina at masato | 高阶@圣人 |  |  |
 | shibayuki | しばゆき |  |  |
 | newmen | NeWMeN |  |  |
