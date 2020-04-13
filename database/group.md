@@ -160,7 +160,7 @@ rules:
 | digital lover | Digital Lover |  |  |
 | mone keshi gum | MONEけしごむ |  |  |
 | nama cream biyori | 生クリームびより |  |  |
-| clesta | クレスタ |  |  |
+| clesta | クレスタ |  | [官方网站](http://clesta.net) |
 | onasuga 99-yen | おナスが99円 |  |  |
 | karomix | KAROMIX |  |  |
 | shoot the moon | シュート・ザ・ムーン |  |  |
