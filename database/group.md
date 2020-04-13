@@ -1618,6 +1618,7 @@ rules:
 | kouen tanpaku q | 交援蛋白Q |  |  |
 | egao de bouryoku | 笑顔で暴力 |  |  |
 | beta houkai | β崩壊 |  |  |
+| chuuou bunritai | 中央分離隊 |  | [官方网站](http://medianstripparty.blog.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
