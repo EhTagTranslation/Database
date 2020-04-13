@@ -142,7 +142,7 @@ rules:
 | aomidoro | アオミドロ |  |  |
 | otukimi koubo | おつきみ工房 |  |  |
 | monsieur | MonsieuR |  |  |
-| orange peels | オレンジピールズ |  |  |
+| orange peels | オレンジピールズ |  | [官方网站](http://www.orchard.topaz.ne.jp/~orepee) |
 | wata 120 percent | 綿120パーセント |  |  |
 | watsukiya | わつき屋 |  |  |
 | sotikoti | ソチコチ |  |  |
