@@ -71,7 +71,7 @@ rules:
 | shimahara | 40原 |  | [Twitter](https://twitter.com/40hara) [pixiv](https://www.pixiv.net/users/554102) [个人网站](http://animachine.main.jp) |
 | hayakawa akari | 早川あかり |  | [Twitter](https://twitter.com/hayakawa_akari) [pixiv](https://www.pixiv.net/users/3792353) |
 | masaharu | まさはる |  | [Twitter表账号](https://twitter.com/masaharu_smbr) [Twitter里账号](https://twitter.com/0211kikutan_) [pixiv](https://www.pixiv.net/users/2667074) [个人网站](https://masaharube-tahgoukai.jimdofree.com) |
-| ail | あいる |  |  |
+| ail | あいる |  | [Twitter](https://twitter.com/ail00918485) [pixiv](https://www.pixiv.net/users/16314181) |
 | saigado | 彩画堂 |  |  |
 | nanase meruchi | ななせめるち |  |  |
 | marushin | 丸新 |  |  |
