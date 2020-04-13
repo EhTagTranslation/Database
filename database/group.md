@@ -139,7 +139,7 @@ rules:
 | tsuchinoko kyoukai | ツシノコ協会 |  |  |
 | sekine | 咳寝 |  |  |
 | ippongui | 一本杭 |  |  |
-| aomidoro | アオミドロ |  |  |
+| aomidoro | アオミドロ |  | [官方网站](http://sesina.blog.fc2.com) |
 | otukimi koubo | おつきみ工房 |  | [官方网站](https://otukimikoubou.com) |
 | monsieur | MonsieuR |  |  |
 | orange peels | オレンジピールズ |  | [官方网站](http://www.orchard.topaz.ne.jp/~orepee) |
