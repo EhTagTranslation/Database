@@ -77,7 +77,7 @@ rules:
 | marushin | 丸新 | ![丸新头像](https://i.loli.net/2020/04/13/ju34UoMQ2v5W1h9.png) | [Twitter](https://twitter.com/marusin0214) [pixiv](https://www.pixiv.net/users/3500494) |
 | amamiya mizuki | 雨宮ミズキ | ![雨宮ミズキ头像](https://i.loli.net/2020/04/13/zgU8PH1vYj3RXxn.png) | [Twitter](https://twitter.com/_median_strip) [pixiv](https://www.pixiv.net/users/3896141) |
 | mibu natsuki | みぶなつき |  |  |
-| ogata zen | 尾形全 |  |  |
+| ogata zen | 尾形全 |  | [Twitter](https://twitter.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
 | himura kiseki | 比村奇石 | 比村乳业<br>![图](# "https://ehgt.org/3e/5b/3e5b96dd2f364ba9cc06d2e16769b25f10e66362-1755259-1020-1530-jpg_l.jpg")![图](# "https://ehgt.org/32/90/32903c2f738252dcfc74b875572d893a2e3693f0-2947291-2133-3033-jpg_l.jpg")![图](# "https://ehgt.org/0a/0a/0a0a41cb451363706eec08155323917811d940fb-886627-2116-3042-jpg_l.jpg") |  |
 | cle masahiro | 呉マサヒロ |  |  |
 | nakajima yuka | なかじまゆか |  |  |
