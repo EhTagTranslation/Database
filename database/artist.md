@@ -2558,6 +2558,7 @@ rules:
 | kurihara kenshirou | 栗原ケンシロウ |  |  |
 | matsumotoke | 松本家御愛用 |  |  |
 | utamaro | 歌麿 |  |  |
+| tadima yoshikadu | たぢまよしかづ |  | [Twitter](https://twitter.com/taditadi) [pixiv](https://www.pixiv.net/users/25332) [个人网站](http://nekomarudow.com) [Facebook](https://www.facebook.com/people/たぢま-よしかづ/100029764654083) |
 
 
 <!--TEMPLATE: 
