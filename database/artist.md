@@ -59,7 +59,7 @@ rules:
 | muk | MUK(むっく) | ![MUK头像](https://i.loli.net/2020/04/13/4AaS19WF5dsimol.png) | [Twitter](https://twitter.com/MUK_MonsieuR) [pixiv](https://www.pixiv.net/users/4234383) [个人网站](https://mukmonsieur.x.fc2.com) |
 | ore p 1-gou | 俺P1号 |  | [Twitter](https://twitter.com/orepnoone) [pixiv](https://www.pixiv.net/users/5903369) |
 | menyoujan | めんようじゃん |  |  |
-| hodumi kaoru | 八月朔日珈瑠 |  |  |
+| hodumi kaoru | 八月朔日珈瑠 |  | [Twitter](https://twitter.com/hodumi_k) [pixiv](https://www.pixiv.net/users/764209) |
 | watsuki rumi | わつきるみ |  |  |
 | soramoti | そらモチ |  |  |
 | blastbeat | BLASTBEAT |  |  |
