@@ -152,7 +152,7 @@ rules:
 | shibayukiya | 芝雪屋 |  |  |
 | news | NEWS |  |  |
 | shimajiya | しまじや |  |  |
-| canvas garden | CANVAS+GARDEN |  |  |
+| canvas garden | CANVAS+GARDEN |  | [官方网站](http://www.canxden.net) |
 | mc | MC |  |  |
 | animachine | アニマルマシーン |  |  |
 | ailail | あいるあいる |  |  |
