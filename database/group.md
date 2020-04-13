@@ -157,7 +157,7 @@ rules:
 | animachine | アニマルマシーン |  |  |
 | ailail | あいるあいる |  |  |
 | moe hime rengou | 萌姬连合 |  |  |
-| digital lover | Digital Lover |  |  |
+| digital lover | Digital Lover |  | [官方网站](http://www.digitallover.net) |
 | mone keshi gum | MONEけしごむ |  |  |
 | nama cream biyori | 生クリームびより |  |  |
 | clesta | クレスタ |  | [官方网站](http://clesta.net) |
