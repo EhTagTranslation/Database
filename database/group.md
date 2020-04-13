@@ -171,7 +171,7 @@ rules:
 | raijinkai | 雷神会 |  |  |
 | miyamaya | 深山屋 |  |  |
 | onna kishi no shiro | 女騎士の城 |  |  |
-| yonsai books | 四才ブックス |  |  |
+| yonsai books | 四才ブックス |  | [Twitter](https://twitter.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
 | pastel wing | PASTEL WING |  |  |
 | ajisaidenden | アジサイデンデン |  |  |
 | attendance number 26 | 出席番号26 |  |  |
