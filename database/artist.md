@@ -60,7 +60,7 @@ rules:
 | ore p 1-gou | 俺P1号 |  | [Twitter](https://twitter.com/orepnoone) [pixiv](https://www.pixiv.net/users/5903369) |
 | menyoujan | めんようじゃん |  |  |
 | hodumi kaoru | 八月朔日珈瑠 |  | [Twitter](https://twitter.com/hodumi_k) [pixiv](https://www.pixiv.net/users/764209) |
-| watsuki rumi | わつきるみ |  |  |
+| watsuki rumi | わつきるみ |  | [Twitter](https://twitter.com/watsukiya) [pixiv](https://www.pixiv.net/users/4016086) [个人网站](https://www.watsuki.com) |
 | soramoti | そらモチ |  |  |
 | blastbeat | BLASTBEAT |  |  |
 | takashina at masato | 高阶@圣人 |  |  |
