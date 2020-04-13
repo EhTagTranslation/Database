@@ -148,7 +148,7 @@ rules:
 | sotikoti | ソチコチ |  |  |
 | 320bpm | 320BPM |  | [官方网站](http://320bpm.x.fc2.com) |
 | intoku.info | いんとくいんふぉ |  |  |
-| 47sp | 47sp. |  |  |
+| 47sp | 47sp. |  | [官方网站](http://47sp.cc) |
 | shibayukiya | 芝雪屋 |  |  |
 | news | NEWS |  |  |
 | shimajiya | しまじや |  |  |
