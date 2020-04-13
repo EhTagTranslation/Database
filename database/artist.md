@@ -57,7 +57,7 @@ rules:
 | hanahanamaki | 花花卷 | ![花花捲](https://i.loli.net/2020/04/10/KPsrqDgGAtdXp8k.png)<br>花花捲，来自台湾，现住日本东京的插画家，是草草饅的双胞胎姐姐，主要负责设计和线描，爱好包括智能手机游戏，旅行，设计等。 |  |
 | sousouman | 草草馒 | ![草草饅](https://i.loli.net/2020/04/10/aT468kYUe9Sfpom.png)<br>草草饅，来自台湾，现住日本东京的插画家，是花花捲的双胞胎妹妹，主要负责角色设计、着色和背景，爱好是玩游戏，看电影，听音乐等。 |  |
 | muk | MUK(むっく) | ![MUK头像](https://i.loli.net/2020/04/13/4AaS19WF5dsimol.png) | [Twitter](https://twitter.com/MUK_MonsieuR) [pixiv](https://www.pixiv.net/users/4234383) [个人网站](https://mukmonsieur.x.fc2.com) |
-| ore p 1-gou | 俺P1号 |  |  |
+| ore p 1-gou | 俺P1号 |  | [Twitter](https://twitter.com/orepnoone) [pixiv](https://www.pixiv.net/users/5903369) |
 | menyoujan | めんようじゃん |  |  |
 | hodumi kaoru | 八月朔日珈瑠 |  |  |
 | watsuki rumi | わつきるみ |  |  |
