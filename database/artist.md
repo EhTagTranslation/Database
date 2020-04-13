@@ -80,7 +80,7 @@ rules:
 | ogata zen | 尾形全 |  | [Twitter](https://twitter.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
 | himura kiseki | 比村奇石 | 比村乳业<br>![图](# "https://ehgt.org/3e/5b/3e5b96dd2f364ba9cc06d2e16769b25f10e66362-1755259-1020-1530-jpg_l.jpg")![图](# "https://ehgt.org/32/90/32903c2f738252dcfc74b875572d893a2e3693f0-2947291-2133-3033-jpg_l.jpg")![图](# "https://ehgt.org/0a/0a/0a0a41cb451363706eec08155323917811d940fb-886627-2116-3042-jpg_l.jpg") | [Twitter](https://twitter.com/strangestone) [中文维基](https://zh.wikipedia.org/wiki/比村奇石) |
 | cle masahiro | 呉マサヒロ | ![呉マサヒロ头像](https://i.loli.net/2020/04/13/hgc56oYIyKwR47B.png) | [Twitter](https://twitter.com/cle_masahiro) [pixiv](https://www.pixiv.net/users/18158) |
-| nakajima yuka | なかじまゆか |  |  |
+| nakajima yuka | なかじまゆか |  | [Twitter](https://twitter.com/yuka_nakajima) [pixiv](https://www.pixiv.net/users/3881) |
 | fujima takuya | 藤真拓哉 |  |  |
 | hisasi | Hisasi |  |  |
 | akizora momidi | 秋空もみぢ |  |  |
