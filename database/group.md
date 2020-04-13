@@ -253,7 +253,7 @@ rules:
 | paranoia cat | PARANOIA CAT |  |  |
 | kobuta no yakata | 子豚の館 |  |  |
 | crazy9 | Crazy9 |  |  |
-| essentia | ESSENTIA |  |  |
+| essentia | ESSENTIA |  | [官方网站](http://www.fujimatakuya.com) |
 | redrop | ReDrop |  |  |
 | shirando | 炽鸾堂 |  |  |
 | special star week | Special☆Week |  |  |
