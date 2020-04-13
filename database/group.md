@@ -1617,6 +1617,7 @@ rules:
 | hachibusaki | 八分咲 |  |  |
 | kouen tanpaku q | 交援蛋白Q |  |  |
 | egao de bouryoku | 笑顔で暴力 |  |  |
+| beta houkai | β崩壊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
