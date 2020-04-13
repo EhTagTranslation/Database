@@ -74,7 +74,7 @@ rules:
 | ail | あいる |  | [Twitter](https://twitter.com/ail00918485) [pixiv](https://www.pixiv.net/users/16314181) |
 | saigado | 彩画堂 |  | [Twitter](https://twitter.com/saigado) [pixiv](https://www.pixiv.net/users/340008) [个人网站](https://blog.goo.ne.jp/saigado) |
 | nanase meruchi | ななせめるち |  | [Twitter](https://twitter.com/nanasemeruchi) [pixiv](https://www.pixiv.net/users/20618) |
-| marushin | 丸新 |  |  |
+| marushin | 丸新 | ![丸新头像](https://i.loli.net/2020/04/13/ju34UoMQ2v5W1h9.png) | [Twitter](https://twitter.com/marusin0214) [pixiv](https://www.pixiv.net/users/3500494) |
 | amamiya mizuki | 雨宮ミズキ |  |  |
 | mibu natsuki | みぶなつき |  |  |
 | ogata zen | 尾形全 |  |  |
