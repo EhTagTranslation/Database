@@ -165,7 +165,7 @@ rules:
 | karomix | KAROMIX |  |  |
 | shoot the moon | シュート・ザ・ムーン |  |  |
 | kansai gyogyou kyoudou kumiai | 关西渔业协同组合 |  |  |
-| rainwaterserver | RainWaterServer |  |  |
+| rainwaterserver | RainWaterServer |  | [官方网站](http://medianstripparty.blog.fc2.com) |
 | lily lily rose | Lily Lily Rose |  |  |
 | himura nyuugyou | 比村乳业 |  |  |
 | raijinkai | 雷神会 |  |  |
