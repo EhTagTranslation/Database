@@ -66,7 +66,7 @@ rules:
 | takashina at masato | 高階@聖人 |  | [Twitter](https://twitter.com/47chop) [pixiv](https://www.pixiv.net/users/6889) |
 | shibayuki | しばゆき |  | [Twitter](https://twitter.com/famille201) [pixiv](https://www.pixiv.net/users/1531232) |
 | newmen | NeWMeN |  |  |
-| miyasaka miyu | 宮坂みゆ |  |  |
+| miyasaka miyu | 宮坂みゆ | 宮坂なこ的姐姐<br>最喜欢吃东西和玩游戏的姐姐<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [Twitter](https://twitter.com/miyu_miyasaka) [pixiv](https://www.pixiv.net/users/839617) |
 | miyasaka naco | 宮坂なこ |  | [pixiv](https://www.pixiv.net/users/5168395) |
 | shimahara | 40原 |  |  |
 | hayakawa akari | 早川あかり |  |  |
