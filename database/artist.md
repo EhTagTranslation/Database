@@ -72,7 +72,7 @@ rules:
 | hayakawa akari | 早川あかり |  | [Twitter](https://twitter.com/hayakawa_akari) [pixiv](https://www.pixiv.net/users/3792353) |
 | masaharu | まさはる |  | [Twitter表账号](https://twitter.com/masaharu_smbr) [Twitter里账号](https://twitter.com/0211kikutan_) [pixiv](https://www.pixiv.net/users/2667074) [个人网站](https://masaharube-tahgoukai.jimdofree.com) |
 | ail | あいる |  | [Twitter](https://twitter.com/ail00918485) [pixiv](https://www.pixiv.net/users/16314181) |
-| saigado | 彩画堂 |  |  |
+| saigado | 彩画堂 |  | [Twitter](https://twitter.com/saigado) [pixiv](https://www.pixiv.net/users/340008) [个人网站](https://blog.goo.ne.jp/saigado) |
 | nanase meruchi | ななせめるち |  |  |
 | marushin | 丸新 |  |  |
 | amamiya mizuki | 雨宮ミズキ |  |  |
