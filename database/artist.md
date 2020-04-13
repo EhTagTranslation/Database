@@ -82,7 +82,7 @@ rules:
 | cle masahiro | 呉マサヒロ | ![呉マサヒロ头像](https://i.loli.net/2020/04/13/hgc56oYIyKwR47B.png) | [Twitter](https://twitter.com/cle_masahiro) [pixiv](https://www.pixiv.net/users/18158) |
 | nakajima yuka | なかじまゆか |  | [Twitter](https://twitter.com/yuka_nakajima) [pixiv](https://www.pixiv.net/users/3881) |
 | fujima takuya | 藤真拓哉 |  | [Twitter](https://twitter.com/fujimatakuya) [pixiv](https://www.pixiv.net/users/22526) [个人网站](http://www.fujimatakuya.com) [中文维基](https://zh.wikipedia.org/wiki/藤真拓哉) |
-| hisasi | Hisasi |  |  |
+| hisasi | Hisasi |  | [Twitter](https://twitter.com/nekomanHisasi) [pixiv](https://www.pixiv.net/users/119045) [个人网站](http://nekoman9.x.fc2.com/top.html) [中文维基](https://zh.wikipedia.org/wiki/Hisasi) |
 | akizora momidi | 秋空もみぢ |  |  |
 | yuunagi sesina | 夕凪セシナ |  |  |
 | ippongui | 一本杭 |  |  |
