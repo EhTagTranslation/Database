@@ -1621,6 +1621,7 @@ rules:
 | chuuou bunritai | 中央分離隊 |  | [官方网站](http://medianstripparty.blog.fc2.com) |
 | neko wa manma ga utsukushii | ねこはまんまがうつくしい |  | [官方网站](http://nekoman9.x.fc2.com/top.html) |
 | nekomarudow. | ネコマルドウ。 |  | [官方网站](http://nekomarudow.com) |
+| honoji | Honoji |  | [官方网站](https://pupuakachan.tumblr.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
