@@ -84,7 +84,7 @@ rules:
 | fujima takuya | 藤真拓哉 |  | [Twitter](https://twitter.com/fujimatakuya) [pixiv](https://www.pixiv.net/users/22526) [个人网站](http://www.fujimatakuya.com) [中文维基](https://zh.wikipedia.org/wiki/藤真拓哉) |
 | hisasi | Hisasi |  | [Twitter](https://twitter.com/nekomanHisasi) [pixiv](https://www.pixiv.net/users/119045) [个人网站](http://nekoman9.x.fc2.com/top.html) [中文维基](https://zh.wikipedia.org/wiki/Hisasi) |
 | akizora momidi | 秋空もみぢ |  | [Twitter](https://twitter.com/akizora_momidi) [pixiv](https://www.pixiv.net/users/532462) |
-| yuunagi sesina | 夕凪セシナ |  |  |
+| yuunagi sesina | 夕凪セシナ |  | [pixiv](https://www.pixiv.net/users/382708) |
 | ippongui | 一本杭 |  |  |
 | sekine hajime | 咳寝はじめ |  |  |
 | mura osamu | ムラオサム |  |  |
