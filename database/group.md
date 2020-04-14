@@ -1628,6 +1628,7 @@ rules:
 | rocket chousashitsu | ロケット調査室 |  |  |
 | esora note | エソラnote |  |  |
 | ozitan yasan | おじたん屋さん |  |  |
+| nechorapoddo | ねちょらぽっど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
