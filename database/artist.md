@@ -2566,6 +2566,7 @@ rules:
 | majima shiroyuki | 間島白幸 |  |  |
 | sougetsu nonono | 草月野々乃 |  |  |
 | wantan meo | 雲呑めお |  |  |
+| kemuri haku | 煙ハク |  |  |
 
 
 <!--TEMPLATE: 
