@@ -2870,6 +2870,7 @@ rules:
 | ai hayasaka | 早坂爱 |  |  |
 | kaguya shinomiya | 四宫辉夜 |  |  |
 | miyuki shirogane | 白银御行 |  |  |
+| chika fujiwara | 藤原千花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
