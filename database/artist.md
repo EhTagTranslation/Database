@@ -2561,6 +2561,7 @@ rules:
 | tadima yoshikadu | たぢまよしかづ |  | [Twitter](https://twitter.com/taditadi) [pixiv](https://www.pixiv.net/users/25332) [个人网站](http://nekomarudow.com) [Facebook](https://www.facebook.com/people/たぢま-よしかづ/100029764654083) |
 | puuakachan | プーアカちゃん |  | [Twitter](https://twitter.com/puakachan) [pixiv](https://www.pixiv.net/users/385307) [个人网站](https://pupuakachan.tumblr.com) |
 | wataame | わたあめ |  | [Twitter](https://twitter.com/watapome) [pixiv](https://www.pixiv.net/users/3596363) |
+| aduki | あづき |  | [Twitter](https://twitter.com/aduk1) [pixiv](https://www.pixiv.net/users/3697911) |
 
 
 <!--TEMPLATE: 
