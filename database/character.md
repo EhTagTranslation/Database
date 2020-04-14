@@ -2867,6 +2867,7 @@ rules:
 | gemini sunrise | 洁蜜妮·桑莱兹 | ジェミニ・サンライズ《樱花大战V》的登场角色。 | [FANDOM](https://sakurataisen.fandom.com/wiki/Gemini_Sunrise) |
 | anthy himemiya | 姬宫安茜 | 《少女革命》中的女主角二号，被称为“蔷薇新娘”的少女，凤学园代理理事长凤晓生的妹妹，中等部二年生。![图](https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266bc2f678ea918972bd4073627?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) |  |
 | utena tenjou | 天上欧蒂娜 | 《少女革命》女主角。自小父母双亡，在王子的鼓励下重新振作。因为太过憧憬王子，而下定决心自己也要成为王子，并穿起了男装。运动万能、正义感强，在校园中十分受女学生欢迎，被称为“欧蒂娜大人”（Utena Sama）。因为替好友筱原若叶打抱不平，而被卷入了西园寺荚一及其他决斗者争夺“蔷薇新娘”的决斗游戏中。![图](https://img.moegirl.org/common/thumb/a/a2/Tenjouutena558326c3e0687fc5f92a3b5b3cf40a55.jpg/250px-Tenjouutena558326c3e0687fc5f92a3b5b3cf40a55.jpg) | [萌娘百科](https://zh.moegirl.org/天上欧蒂娜) |
+| ai hayasaka | 早坂爱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
