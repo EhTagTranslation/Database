@@ -1626,6 +1626,7 @@ rules:
 | morphine | モルピネ |  |  |
 | amahara teikoku | 天原帝国 |  |  |
 | rocket chousashitsu | ロケット調査室 |  |  |
+| esora note | エソラnote |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
