@@ -1624,6 +1624,7 @@ rules:
 | honoji | Honoji |  | [官方网站](https://pupuakachan.tumblr.com) |
 | watagashi | わた菓子 |  |  |
 | morphine | モルピネ |  |  |
+| amahara teikoku | 天原帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
