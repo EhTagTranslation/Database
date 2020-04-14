@@ -2563,6 +2563,7 @@ rules:
 | wataame | わたあめ |  | [Twitter](https://twitter.com/watapome) [pixiv](https://www.pixiv.net/users/3596363) |
 | aduki | あづき |  | [Twitter](https://twitter.com/aduk1) [pixiv](https://www.pixiv.net/users/3697911) |
 | inui waon | 乾和音 |  |  |
+| majima shiroyuki | 間島白幸 |  |  |
 
 
 <!--TEMPLATE: 
