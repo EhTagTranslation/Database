@@ -2871,6 +2871,7 @@ rules:
 | kaguya shinomiya | 四宫辉夜 |  |  |
 | miyuki shirogane | 白银御行 |  |  |
 | chika fujiwara | 藤原千花 |  |  |
+| soushi miketsukami | 御狐神双炽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
