@@ -2564,6 +2564,7 @@ rules:
 | aduki | あづき |  | [Twitter](https://twitter.com/aduk1) [pixiv](https://www.pixiv.net/users/3697911) |
 | inui waon | 乾和音 |  |  |
 | majima shiroyuki | 間島白幸 |  |  |
+| sougetsu nonono | 草月野々乃 |  |  |
 
 
 <!--TEMPLATE: 
