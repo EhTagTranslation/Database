@@ -2873,6 +2873,7 @@ rules:
 | chika fujiwara | 藤原千花 |  |  |
 | soushi miketsukami | 御狐神双炽 |  |  |
 | maya tendo | 天堂真矢 | 圣翔音乐学园99期生，演员育成科，学号18号。知名舞台演员与当红歌星的女儿，演剧界的名门出身。拥有完美的身材与高昂的声音。虽然天赋异禀，却并不会不思进取，是个以更高的高度为目标而不断努力的孤高舞台少女。<br>![Maya Tendo profile](https://img.moegirl.org/common/1/10/Maya_Tendo_profile.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/天堂真矢) |
+| urumi ushizaki | 牛崎润美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
