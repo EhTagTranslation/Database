@@ -1625,6 +1625,7 @@ rules:
 | watagashi | わた菓子 |  |  |
 | morphine | モルピネ |  |  |
 | amahara teikoku | 天原帝国 |  |  |
+| rocket chousashitsu | ロケット調査室 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
