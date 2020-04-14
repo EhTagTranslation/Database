@@ -1623,6 +1623,7 @@ rules:
 | nekomarudow. | ネコマルドウ。 |  | [官方网站](http://nekomarudow.com) |
 | honoji | Honoji |  | [官方网站](https://pupuakachan.tumblr.com) |
 | watagashi | わた菓子 |  |  |
+| morphine | モルピネ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
