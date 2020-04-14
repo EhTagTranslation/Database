@@ -2565,6 +2565,7 @@ rules:
 | inui waon | 乾和音 |  |  |
 | majima shiroyuki | 間島白幸 |  |  |
 | sougetsu nonono | 草月野々乃 |  |  |
+| wantan meo | 雲呑めお |  |  |
 
 
 <!--TEMPLATE: 
