@@ -90,7 +90,7 @@ rules:
 | mura osamu | ムラオサム |  | [Twitter](https://twitter.com/muraosamu2) [pixiv](https://www.pixiv.net/users/16391870) |
 | sody | Sody |  | [Twitter](https://twitter.com/sody_sleeve) [pixiv](https://www.pixiv.net/users/268) |
 | fujiwara shunichi | 藤原俊一 | ![藤原俊一头像](https://i.loli.net/2020/04/15/SFuaTikB32h5j98.jpg) | [Twitter](https://twitter.com/sh1kuro) [pixiv](https://www.pixiv.net/users/3771391) [个人网站](https://sh1.pw) |
-| ohigetan | 尾髭丹 |  |  |
+| ohigetan | 尾髭丹 |  | [Twitter](https://twitter.com/ohigetan) [pixiv](https://www.pixiv.net/users/9892) [个人网站](http://www.ohigeya.sakura.ne.jp) |
 | kisaragi-mic | 如月みっく |  |  |
 | kisaragi-ice | 如月あいす |  |  |
 | takanashi rei | 小鳥遊レイ |  |  |
