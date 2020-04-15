@@ -137,7 +137,7 @@ rules:
 | mousou deguchi | 妄想出口 |  |  |
 | venom | VENOM |  |  |
 | tsuchinoko kyoukai | ツシノコ協会 |  |  |
-| sekine | 咳寝 |  |  |
+| sekine | 咳寝 |  | [官方网站](http://sekine37.blog.fc2.com) |
 | ippongui | 一本杭 |  | [官方网站](http://shake.noor.jp) |
 | aomidoro | アオミドロ |  | [官方网站](http://sesina.blog.fc2.com) |
 | otukimi koubo | おつきみ工房 |  | [官方网站](https://otukimikoubou.com) |
