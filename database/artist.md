@@ -2567,6 +2567,7 @@ rules:
 | sougetsu nonono | 草月野々乃 |  |  |
 | wantan meo | 雲呑めお |  |  |
 | kemuri haku | 煙ハク |  |  |
+| kani biimu | かにビーム | ![peko pixiv头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](https://ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) | [Twitter](https://twitter.com/kani_biimu) [pixiv](https://www.pixiv.net/users/3439325) |
 
 
 <!--TEMPLATE: 
