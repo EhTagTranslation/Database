@@ -86,7 +86,7 @@ rules:
 | akizora momidi | 秋空もみぢ |  | [Twitter](https://twitter.com/akizora_momidi) [pixiv](https://www.pixiv.net/users/532462) |
 | yuunagi sesina | 夕凪セシナ |  | [pixiv](https://www.pixiv.net/users/382708) |
 | ippongui | 一本杭 |  | [Twitter](https://twitter.com/ippon_gui) [pixiv](https://www.pixiv.net/users/177996) [个人网站](http://shake.noor.jp) |
-| sekine hajime | 咳寝はじめ |  |  |
+| sekine hajime | 咳寝はじめ | ![咳寝はじめ头像](https://i.loli.net/2020/04/15/gtxchbzSGlFUf1C.jpg) | [Twitter](https://twitter.com/hajimeme3) [pixiv](https://www.pixiv.net/users/11515777) |
 | mura osamu | ムラオサム |  |  |
 | sody | Sody |  |  |
 | fujiwara shunichi | 藤原俊一 |  |  |
