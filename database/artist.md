@@ -89,7 +89,7 @@ rules:
 | sekine hajime | 咳寝はじめ | ![咳寝はじめ头像](https://i.loli.net/2020/04/15/gtxchbzSGlFUf1C.jpg) | [Twitter](https://twitter.com/hajimeme3) [pixiv](https://www.pixiv.net/users/11515777) |
 | mura osamu | ムラオサム |  | [Twitter](https://twitter.com/muraosamu2) [pixiv](https://www.pixiv.net/users/16391870) |
 | sody | Sody |  | [Twitter](https://twitter.com/sody_sleeve) [pixiv](https://www.pixiv.net/users/268) |
-| fujiwara shunichi | 藤原俊一 |  |  |
+| fujiwara shunichi | 藤原俊一 | ![藤原俊一头像](https://i.loli.net/2020/04/15/SFuaTikB32h5j98.jpg) | [Twitter](https://twitter.com/sh1kuro) [pixiv](https://www.pixiv.net/users/3771391) [个人网站](https://sh1.pw) |
 | ohigetan | 尾髭丹 |  |  |
 | kisaragi-mic | 如月みっく |  |  |
 | kisaragi-ice | 如月あいす |  |  |
