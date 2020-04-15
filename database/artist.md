@@ -92,7 +92,7 @@ rules:
 | fujiwara shunichi | 藤原俊一 | ![藤原俊一头像](https://i.loli.net/2020/04/15/SFuaTikB32h5j98.jpg) | [Twitter](https://twitter.com/sh1kuro) [pixiv](https://www.pixiv.net/users/3771391) [个人网站](https://sh1.pw) |
 | ohigetan | 尾髭丹 |  | [Twitter](https://twitter.com/ohigetan) [pixiv](https://www.pixiv.net/users/9892) [个人网站](http://www.ohigeya.sakura.ne.jp) |
 | kisaragi-mic | 如月みっく |  | [Twitter](https://twitter.com/kisaragi_mic) [pixiv](https://www.pixiv.net/users/984600) |
-| kisaragi-ice | 如月あいす |  |  |
+| kisaragi-ice | 如月あいす |  | [Twitter](https://twitter.com/IceKisaragi) [pixiv](https://www.pixiv.net/users/15625724) |
 | takanashi rei | 小鳥遊レイ |  |  |
 | kawakami rokkaku | 川上六角 |  |  |
 | niro | にろ |  |  |
