@@ -94,7 +94,7 @@ rules:
 | kisaragi-mic | 如月みっく |  | [Twitter](https://twitter.com/kisaragi_mic) [pixiv](https://www.pixiv.net/users/984600) |
 | kisaragi-ice | 如月あいす |  | [Twitter](https://twitter.com/IceKisaragi) [pixiv](https://www.pixiv.net/users/15625724) |
 | takanashi rei | 小鳥遊レイ |  |  |
-| kawakami rokkaku | 川上六角 |  |  |
+| kawakami rokkaku | 川上六角 |  | [pixiv](https://www.pixiv.net/users/215983) |
 | niro | にろ |  |  |
 | okuri banto | 送り萬都 |  |  |
 | runrun | るんるん |  |  |
