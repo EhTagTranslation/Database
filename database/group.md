@@ -1629,6 +1629,7 @@ rules:
 | esora note | エソラnote |  |  |
 | ozitan yasan | おじたん屋さん |  |  |
 | nechorapoddo | ねちょらぽっど |  |  |
+| luminocity | ルミノシティ |  | [官方网站](http://lumino.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
