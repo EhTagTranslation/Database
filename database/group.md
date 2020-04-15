@@ -174,7 +174,7 @@ rules:
 | yonsai books | 四才ブックス |  | [Twitter](https://twitter.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
 | pastel wing | PASTEL WING |  | [官方网站](http://pastelwing.net) |
 | ajisaidenden | アジサイデンデン |  | [Twitter](https://twitter.com/ajisaidenden_cm) [官方网站](http://ajisaidenden.x.fc2.com) |
-| attendance number 26 | 出席番号26 |  |  |
+| attendance number 26 | 出席番号26 |  | [官方网站](http://attendancenumber26.blog137.fc2.com) |
 | yu-yu-tei | 悠々亭 |  |  |
 | circle ohigetan | サークル尾髭丹 |  |  |
 | mahou rikigaku | 魔法力学 |  |  |
