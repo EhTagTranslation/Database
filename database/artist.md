@@ -87,7 +87,7 @@ rules:
 | yuunagi sesina | 夕凪セシナ |  | [pixiv](https://www.pixiv.net/users/382708) |
 | ippongui | 一本杭 |  | [Twitter](https://twitter.com/ippon_gui) [pixiv](https://www.pixiv.net/users/177996) [个人网站](http://shake.noor.jp) |
 | sekine hajime | 咳寝はじめ | ![咳寝はじめ头像](https://i.loli.net/2020/04/15/gtxchbzSGlFUf1C.jpg) | [Twitter](https://twitter.com/hajimeme3) [pixiv](https://www.pixiv.net/users/11515777) |
-| mura osamu | ムラオサム |  |  |
+| mura osamu | ムラオサム |  | [Twitter](https://twitter.com/muraosamu2) [pixiv](https://www.pixiv.net/users/16391870) |
 | sody | Sody |  |  |
 | fujiwara shunichi | 藤原俊一 |  |  |
 | ohigetan | 尾髭丹 |  |  |
