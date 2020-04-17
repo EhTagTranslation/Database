@@ -2573,6 +2573,7 @@ rules:
 | shiraishi nagisa | 白石なぎさ |  |  |
 | kurikimaru | くりきまる |  | [pixiv](https://www.pixiv.net/users/1845766) [Twitter](https://twitter.com/kurikimaru) |
 | hinohara fuki | 檜原フキ |  | [Twitter](https://twitter.com/hinoharaf) |
+| kobayashi kina | 小林キナ |  | [pixiv](https://www.pixiv.net/users/12513117) [Twitter](https://twitter.com/udonkimuchikaki) |
 
 
 <!--TEMPLATE: 
