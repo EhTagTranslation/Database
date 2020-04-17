@@ -2571,6 +2571,7 @@ rules:
 | watanohara | わたのはら |  |  |
 | kawasaki tadataka | 川崎直孝 |  |  |
 | shiraishi nagisa | 白石なぎさ |  |  |
+| kurikimaru | くりきまる |  |  |
 
 
 <!--TEMPLATE: 
