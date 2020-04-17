@@ -2575,6 +2575,7 @@ rules:
 | hinohara fuki | 檜原フキ |  | [Twitter](https://twitter.com/hinoharaf) |
 | kobayashi kina | 小林キナ |  | [pixiv](https://www.pixiv.net/users/12513117) [Twitter](https://twitter.com/udonkimuchikaki) |
 | takemitsu | たけみつ |  | [pixiv](https://www.pixiv.net/users/2757818) [Twitter](https://twitter.com/take_samurai1) |
+| shiki | 四季 |  |  |
 
 
 <!--TEMPLATE: 
