@@ -2578,6 +2578,7 @@ rules:
 | shiki | 四季 |  |  |
 | deyuyama | でゆ山 |  |  |
 | namidame | 涙目 |  |  |
+| higata akatsuki | 陽方晶月 |  |  |
 
 
 <!--TEMPLATE: 
