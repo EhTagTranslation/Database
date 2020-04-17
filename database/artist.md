@@ -97,7 +97,7 @@ rules:
 | kawakami rokkaku | 川上六角 |  | [pixiv](https://www.pixiv.net/users/215983) |
 | niro | にろ |  | [Twitter](https://twitter.com/nirotensai) [pixiv](https://www.pixiv.net/users/194231) |
 | okuri banto | 送り萬都 |  | [Twitter表账号](https://twitter.com/banto_kenzen) [Twitter里账号](https://twitter.com/bantosuzune) [pixiv](https://www.pixiv.net/users/639067) [ニコニコ](https://www.nicovideo.jp/user/8103190) |
-| runrun | るんるん |  |  |
+| runrun | るんるん |  | [Twitter](https://twitter.com/sintyatanmen) [pixiv](https://www.pixiv.net/users/13114467) |
 | zonda | ぞんだ |  |  |
 | bekkankou | べっかんこう |  |  |
 | santa matsuri | さんた茉莉 |  |  |
