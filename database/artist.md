@@ -2572,6 +2572,7 @@ rules:
 | kawasaki tadataka | 川崎直孝 |  |  |
 | shiraishi nagisa | 白石なぎさ |  |  |
 | kurikimaru | くりきまる |  | [pixiv](https://www.pixiv.net/users/1845766) [Twitter](https://twitter.com/kurikimaru) |
+| hinohara fuki | 檜原フキ |  | [Twitter](https://twitter.com/hinoharaf) |
 
 
 <!--TEMPLATE: 
