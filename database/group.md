@@ -1631,6 +1631,7 @@ rules:
 | nechorapoddo | ねちょらぽっど |  |  |
 | luminocity | ルミノシティ |  | [官方网站](http://lumino.sakura.ne.jp) |
 | gakushokutei | 学食亭 |  |  |
+| nagisa no yoko | 渚のヨーコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
