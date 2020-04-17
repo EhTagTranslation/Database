@@ -2577,6 +2577,7 @@ rules:
 | takemitsu | たけみつ |  | [pixiv](https://www.pixiv.net/users/2757818) [Twitter](https://twitter.com/take_samurai1) |
 | shiki | 四季 |  |  |
 | deyuyama | でゆ山 |  |  |
+| namidame | 涙目 |  |  |
 
 
 <!--TEMPLATE: 
