@@ -1632,6 +1632,7 @@ rules:
 | luminocity | ルミノシティ |  | [官方网站](http://lumino.sakura.ne.jp) |
 | gakushokutei | 学食亭 |  |  |
 | nagisa no yoko | 渚のヨーコ |  |  |
+| ruiketsuan | 涙穴庵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
