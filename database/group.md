@@ -365,7 +365,7 @@ rules:
 | yasakaninomagatama | 八坂琼曲玉 |  |  |
 | kansen shoujo | 甘泉少女 |  |  |
 | yuzuponz | ゆずぽん酢 |  |  |
-| hamurabi-dou | いちお屋 |  |  |
+| hamurabi-dou | いちお屋 |  | [官方网站](http://hamurabi.ldblog.jp) |
 | wasabi | WASABI |  |  |
 | abura batake bokujyo. | あぶら畑牧場。 |  |  |
 | poetto | POETTO |  |  |
