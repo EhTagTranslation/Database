@@ -2880,6 +2880,7 @@ rules:
 | chiri kitsu | 木津千里 |  |  |
 | kaere kimura | 木村卡愛拉 |  |  |
 | nozomu itoshiki | 糸色望 |  |  |
+| veight | 斑特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
