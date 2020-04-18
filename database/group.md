@@ -1637,6 +1637,7 @@ rules:
 | anmonkan | 闇夢館 |  |  |
 | dairoku kadan | 第六花壇 |  |  |
 | salt choc | 塩ちょこ |  |  |
+| sawayaka tokunou milk | 爽やか特濃みるく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
