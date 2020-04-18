@@ -2581,6 +2581,7 @@ rules:
 | higata akatsuki | 陽方晶月 |  |  |
 | kayumidome | かゆみ止め |  |  |
 | naha 78 | 七G |  |  |
+| getsuyou yasumi. | 月曜休み。 |  |  |
 
 
 <!--TEMPLATE: 
