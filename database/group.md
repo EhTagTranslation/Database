@@ -179,7 +179,7 @@ rules:
 | circle ohigetan | サークル尾髭丹 |  |  |
 | mahou rikigaku | 魔法力学 |  |  |
 | minimum game koubou | ミニマムゲーム工房 |  |  |
-| santa star festa | Santa☆Festa! |  |  |
+| santa star festa | Santa☆Festa! |  | [官方网站](http://www.airamatnas.com) |
 | byousatsu tanukidan | 秒杀狸团 |  |  |
 | seven days holiday | セブンデイズホリディ |  |  |
 | uchuu bunko | 宇宙文库 |  |  |
