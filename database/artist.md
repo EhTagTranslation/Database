@@ -2579,6 +2579,7 @@ rules:
 | deyuyama | でゆ山 |  |  |
 | namidame | 涙目 |  |  |
 | higata akatsuki | 陽方晶月 |  |  |
+| kayumidome | かゆみ止め |  |  |
 
 
 <!--TEMPLATE: 
