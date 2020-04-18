@@ -181,7 +181,7 @@ rules:
 | minimum game koubou | ミニマムゲーム工房 |  |  |
 | santa star festa | Santa☆Festa! |  | [官方网站](http://www.airamatnas.com) |
 | byousatsu tanukidan | 秒杀狸团 |  | [官方网站](http://mtomita.blog5.fc2.com) |
-| seven days holiday | セブンデイズホリディ |  |  |
+| seven days holiday | セブンデイズホリディ |  | [pixiv](https://www.pixiv.net/users/109497) [官方网站](http://howlingmine.com/7dh) |
 | uchuu bunko | 宇宙文库 |  |  |
 | nakayohi mogudan | なかよひモグダン |  |  |
 | suteuka no koya | すてうかの小屋 |  |  |
