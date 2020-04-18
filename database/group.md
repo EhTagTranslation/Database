@@ -1639,6 +1639,7 @@ rules:
 | salt choc | 塩ちょこ |  |  |
 | sawayaka tokunou milk | 爽やか特濃みるく |  |  |
 | armament calcium | 武装カルシウム |  |  |
+| sharaku-dou | 写楽堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
