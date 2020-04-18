@@ -1114,7 +1114,7 @@ rules:
 | locker room | LockerRoom |  |  |
 | pettan doujou | ペッタン道場 |  |  |
 | art book chipika | Art Book Chipika |  |  |
-| alemateorema | アレマテオレマ |  |  |
+| alemateorema | アレマテオレマ |  | [官方网站](http://alemateorema.blog83.fc2.com) |
 | otokojuku | おとこじゅく |  |  |
 | kitsune-goya | きつね小屋 |  |  |
 | kuroni | クロニ |  |  |
