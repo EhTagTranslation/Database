@@ -106,7 +106,7 @@ rules:
 | kobayashi youkoh | 小林由高 |  | [Twitter](https://twitter.com/alemateorema) [pixiv](https://www.pixiv.net/users/1714956) |
 | saeki tatsuya | 佐伯达也 | ![佐伯達也头像](https://i.loli.net/2020/04/18/cxENSCUbJMBjl2D.jpg) | [Twitter](https://twitter.com/tomita1988) [pixiv](https://www.pixiv.net/users/3938991) |
 | mamo williams | まもウィリアムズ |  | [Twitter](https://twitter.com/mamowilliams) [pixiv](https://www.pixiv.net/users/7859) [日文维基](https://ja.wikipedia.org/wiki/まもウィリアムズ) |
-| koga nozomu | 古我望 |  |  |
+| koga nozomu | 古我望 |  | [Twitter](https://twitter.com/coga) |
 | shinokawa arumi | 篠川あるみ |  |  |
 | ichio | イチオ |  |  |
 | shimada fumikane | 島田フミカネ |  |  |
