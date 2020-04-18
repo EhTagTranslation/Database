@@ -108,7 +108,7 @@ rules:
 | mamo williams | まもウィリアムズ |  | [Twitter](https://twitter.com/mamowilliams) [pixiv](https://www.pixiv.net/users/7859) [日文维基](https://ja.wikipedia.org/wiki/まもウィリアムズ) |
 | koga nozomu | 古我望 |  | [Twitter](https://twitter.com/coga) |
 | shinokawa arumi | 篠川あるみ |  | [Twitter](https://twitter.com/sasakawa_arumi) |
-| ichio | イチオ |  |  |
+| ichio | イチオ |  | [Twitter](https://twitter.com/ichio_x) [pixiv](https://www.pixiv.net/users/18121) |
 | shimada fumikane | 島田フミカネ |  |  |
 | ryohka | 凉香 |  |  |
 | shinkai makoto | 新海诚 | 动画导演 |  |
