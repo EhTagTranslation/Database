@@ -109,7 +109,7 @@ rules:
 | koga nozomu | 古我望 |  | [Twitter](https://twitter.com/coga) |
 | shinokawa arumi | 篠川あるみ |  | [Twitter](https://twitter.com/sasakawa_arumi) |
 | ichio | イチオ |  | [Twitter](https://twitter.com/ichio_x) [pixiv](https://www.pixiv.net/users/18121) |
-| shimada fumikane | 島田フミカネ |  |  |
+| shimada fumikane | 岛田文金 | 岛田文金（日语：島田フミカネ，1974年1月26日－），是日本的萌系插画家，主打兵器娘类之图，代表作有メカ娘、武装神姬（第一弹、第八弹）、天翔少女和Strike Witches的设定等。其笔名来自于文金高岛田。<br>岛田文金的兵器娘，常常就如Strike Witches的魔女们一样，上半身穿着较为正常，而下半身却穿着低衩内裤等服装。<br>![岛田文金Twitter头像](https://i.jpg.dog/img/f1092402bc5f1b39cc1f99a445151807.jpg) | [Twitter](https://twitter.com/humikane) [中文维基](https://zh.wikipedia.org/wiki/島田文金) |
 | ryohka | 凉香 |  |  |
 | shinkai makoto | 新海诚 | 动画导演 |  |
 | benet | ベネット |  |  |
