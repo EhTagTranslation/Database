@@ -1638,6 +1638,7 @@ rules:
 | dairoku kadan | 第六花壇 |  |  |
 | salt choc | 塩ちょこ |  |  |
 | sawayaka tokunou milk | 爽やか特濃みるく |  |  |
+| armament calcium | 武装カルシウム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
