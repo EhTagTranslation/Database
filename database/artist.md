@@ -2580,6 +2580,7 @@ rules:
 | namidame | 涙目 |  |  |
 | higata akatsuki | 陽方晶月 |  |  |
 | kayumidome | かゆみ止め |  |  |
+| naha 78 | 七G |  |  |
 
 
 <!--TEMPLATE: 
