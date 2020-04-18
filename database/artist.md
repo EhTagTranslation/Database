@@ -99,7 +99,7 @@ rules:
 | okuri banto | 送り萬都 |  | [Twitter表账号](https://twitter.com/banto_kenzen) [Twitter里账号](https://twitter.com/bantosuzune) [pixiv](https://www.pixiv.net/users/639067) [ニコニコ](https://www.nicovideo.jp/user/8103190) |
 | runrun | るんるん |  | [Twitter](https://twitter.com/sintyatanmen) [pixiv](https://www.pixiv.net/users/13114467) |
 | zonda | ぞんだ |  | [Twitter](https://twitter.com/solid_zonda) [pixiv](https://www.pixiv.net/users/3607901) |
-| bekkankou | べっかんこう |  |  |
+| bekkankou | べっかんこう |  | [Twitter](https://twitter.com/bekkankou) [个人网站](https://ameblo.jp/bekkankou) [日文维基](https://ja.wikipedia.org/wiki/べっかんこう) |
 | santa matsuri | さんた茉莉 |  |  |
 | quick wiper | クイック賄派 |  |  |
 | jigoku ouji | 地狱王子 |  |  |
