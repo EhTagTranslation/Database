@@ -100,7 +100,7 @@ rules:
 | runrun | るんるん |  | [Twitter](https://twitter.com/sintyatanmen) [pixiv](https://www.pixiv.net/users/13114467) |
 | zonda | ぞんだ |  | [Twitter](https://twitter.com/solid_zonda) [pixiv](https://www.pixiv.net/users/3607901) |
 | bekkankou | べっかんこう |  | [Twitter](https://twitter.com/bekkankou) [个人网站](https://ameblo.jp/bekkankou) [日文维基](https://ja.wikipedia.org/wiki/べっかんこう) |
-| santa matsuri | さんた茉莉 |  |  |
+| santa matsuri | さんた茉莉 |  | [Twitter](https://twitter.com/santamatsuri) [pixiv](https://www.pixiv.net/users/3426827) |
 | quick wiper | クイック賄派 |  |  |
 | jigoku ouji | 地狱王子 |  |  |
 | kobayashi youkoh | 小林由高 |  |  |
