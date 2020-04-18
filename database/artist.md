@@ -101,7 +101,7 @@ rules:
 | zonda | ぞんだ |  | [Twitter](https://twitter.com/solid_zonda) [pixiv](https://www.pixiv.net/users/3607901) |
 | bekkankou | べっかんこう |  | [Twitter](https://twitter.com/bekkankou) [个人网站](https://ameblo.jp/bekkankou) [日文维基](https://ja.wikipedia.org/wiki/べっかんこう) |
 | santa matsuri | さんた茉莉 |  | [Twitter](https://twitter.com/santamatsuri) [pixiv](https://www.pixiv.net/users/3426827) |
-| quick wiper | クイック賄派 |  |  |
+| quick wiper | クイック賄派 | ![クイック賄派头像](https://i.loli.net/2020/04/18/QaZ7PHsoKhkfS9j.jpg) | [Twitter](https://twitter.com/quick_waipa) [pixiv](https://www.pixiv.net/users/321750) |
 | jigoku ouji | 地狱王子 |  |  |
 | kobayashi youkoh | 小林由高 |  |  |
 | saeki tatsuya | 佐伯达也 |  |  |
