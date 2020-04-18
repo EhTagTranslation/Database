@@ -1533,7 +1533,7 @@ rules:
 | shinyanchi | シンヤんち |  |  |
 | gyuunyuu nomiba | 牛乳飲み場 |  |  |
 | kurumi namiki | くるみ並木 |  |  |
-| kazemichiya | 风道屋 |  |  |
+| kazemichiya | 风道屋 |  | [官方网站](http://kazemichiya.sakura.ne.jp) |
 | su-mi-tan | 粟米汤 | ![图](https://ehgt.org/c7/35/c735be3da3ae6d58cb15460ae57a13d642d57e3b-771975-708-1000-png_l.jpg)![图](https://ehgt.org/28/d0/28d031e9f2835fa228af9a36b7ccbf710246af43-1250436-1412-2000-jpg_l.jpg) | [官方网站](http://su-mi-tan.sakura.ne.jp/) |
 | amuai okashi seisakusho | あむぁいおかし製作所 |  |  |
 | mofmof | もふもふ |  |  |
