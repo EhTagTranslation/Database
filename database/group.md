@@ -180,7 +180,7 @@ rules:
 | mahou rikigaku | 魔法力学 |  |  |
 | minimum game koubou | ミニマムゲーム工房 |  |  |
 | santa star festa | Santa☆Festa! |  | [官方网站](http://www.airamatnas.com) |
-| byousatsu tanukidan | 秒杀狸团 |  |  |
+| byousatsu tanukidan | 秒杀狸团 |  | [官方网站](http://mtomita.blog5.fc2.com) |
 | seven days holiday | セブンデイズホリディ |  |  |
 | uchuu bunko | 宇宙文库 |  |  |
 | nakayohi mogudan | なかよひモグダン |  |  |
