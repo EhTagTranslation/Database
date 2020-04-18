@@ -1640,6 +1640,7 @@ rules:
 | sawayaka tokunou milk | 爽やか特濃みるく |  |  |
 | armament calcium | 武装カルシウム |  |  |
 | sharaku-dou | 写楽堂 |  |  |
+| shoujo renka | 少女恋歌 |  | [官方网站](https://shnva.tumblr.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
