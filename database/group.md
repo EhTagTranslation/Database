@@ -1634,6 +1634,7 @@ rules:
 | nagisa no yoko | 渚のヨーコ |  |  |
 | ruiketsuan | 涙穴庵 |  |  |
 | ribi dou | RIBI堂 |  |  |
+| anmonkan | 闇夢館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
