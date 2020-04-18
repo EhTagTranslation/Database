@@ -1636,6 +1636,7 @@ rules:
 | ribi dou | RIBI堂 |  |  |
 | anmonkan | 闇夢館 |  |  |
 | dairoku kadan | 第六花壇 |  |  |
+| salt choc | 塩ちょこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
