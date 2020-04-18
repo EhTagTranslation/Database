@@ -2881,6 +2881,7 @@ rules:
 | kaere kimura | 木村卡愛拉 |  |  |
 | nozomu itoshiki | 糸色望 |  |  |
 | veight | 斑特 |  |  |
+| wicke | 碧珂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
