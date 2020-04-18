@@ -74,7 +74,7 @@ rules:
 | ail | あいる |  | [Twitter](https://twitter.com/ail00918485) [pixiv](https://www.pixiv.net/users/16314181) |
 | saigado | 彩画堂 |  | [Twitter](https://twitter.com/saigado) [pixiv](https://www.pixiv.net/users/340008) [个人网站](https://blog.goo.ne.jp/saigado) |
 | nanase meruchi | ななせめるち |  | [Twitter](https://twitter.com/nanasemeruchi) [pixiv](https://www.pixiv.net/users/20618) |
-| marushin | 丸新 | ![丸新头像](https://i.loli.net/2020/04/13/ju34UoMQ2v5W1h9.png) | [Twitter](https://twitter.com/marusin0214) [pixiv](https://www.pixiv.net/users/3500494) |
+| marushin | 丸新 | ![丸新头像](https://i.jpg.dog/img/b9c9394afde6a1007662534949782800.png) | [Twitter](https://twitter.com/marusin0214) [pixiv](https://www.pixiv.net/users/3500494) |
 | amamiya mizuki | 雨宮ミズキ | ![雨宮ミズキ头像](https://i.loli.net/2020/04/13/zgU8PH1vYj3RXxn.png) | [Twitter](https://twitter.com/_median_strip) [pixiv](https://www.pixiv.net/users/3896141) |
 | mibu natsuki | みぶなつき |  |  |
 | ogata zen | 尾形全 |  | [Twitter](https://twitter.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
