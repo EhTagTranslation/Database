@@ -2588,6 +2588,7 @@ rules:
 | shinova | シノバ | ![シノバ头像](https://i.jpg.dog/img/7f400326ad632e0d12aeed88c7c09927.jpg) | [Twitter](https://twitter.com/shnva06ka) [pixiv](https://www.pixiv.net/users/12296581) [个人网站](https://shnva.tumblr.com) |
 | mahito | 眞人 |  | [pixiv](https://www.pixiv.net/users/225211) |
 | anon 2-okunen | あのん2億年 |  |  |
+| zikataro | 自家太郎 |  |  |
 
 
 <!--TEMPLATE: 
