@@ -2586,6 +2586,7 @@ rules:
 | take calcium | 竹刈シウム |  | [pixiv](https://www.pixiv.net/users/16832991) |
 | aritsuno | 有角 |  | [Twitter](https://twitter.com/aritsuno) [pixiv](https://www.pixiv.net/users/2290795) |
 | shinova | シノバ | ![シノバ头像](https://i.jpg.dog/img/7f400326ad632e0d12aeed88c7c09927.jpg) | [Twitter](https://twitter.com/shnva06ka) [pixiv](https://www.pixiv.net/users/12296581) [个人网站](https://shnva.tumblr.com) |
+| mahito | 眞人 |  | [pixiv](https://www.pixiv.net/users/225211) |
 
 
 <!--TEMPLATE: 
