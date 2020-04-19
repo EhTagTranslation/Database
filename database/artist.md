@@ -2589,6 +2589,7 @@ rules:
 | mahito | 眞人 |  | [pixiv](https://www.pixiv.net/users/225211) |
 | anon 2-okunen | あのん2億年 |  |  |
 | zikataro | 自家太郎 |  |  |
+| footaro | 辻風太郎 |  |  |
 
 
 <!--TEMPLATE: 
