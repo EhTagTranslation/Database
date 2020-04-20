@@ -2882,6 +2882,7 @@ rules:
 | nozomu itoshiki | 糸色望 |  |  |
 | veight | 斑特 |  |  |
 | wicke | 碧珂 |  |  |
+| astarotte ygvar | 亚斯塔萝黛·尤各瓦尔 | 134cm/25kg·B61/W52/H64·10岁·梦魔族<br>尤各瓦尔兰国的第一公主，梦魔族的后裔，昵称“萝黛（ロッテ）”，父亲在年幼时病逝，现在与母亲梅尔契丽妲分居中。<br>金色长发，以黑色缎带绑成双马尾的发型（动画版为每次装扮不同颜色的缎带），眼睛为绿色，瞳孔特征继承至母亲，在头中央上方稍稍前面的地方有一根、左右两边也各有一根呆毛，有一条长长的粉红色尾巴。<br><br>![RotteOmocha_chara_01](https://img.moegirl.org/common/9/9c/RotteOmocha_chara_01.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/亚斯塔萝黛·尤各瓦尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
