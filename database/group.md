@@ -450,7 +450,7 @@ rules:
 | abyukyo koubou | あびゅうきょ工房 |  |  |
 | asatsuki dou | 朝月堂 |  |  |
 | serizawa-room | 芹泽室 |  |  |
-| suzuya | 凉屋 |  |  |
+| suzuya | 凉屋 |  | [官方网站](http://www.ryohka.jp) |
 | cradle | Cradle |  |  |
 | puffsleeve | Puffsleeve |  |  |
 | nitro | NITRO |  |  |
