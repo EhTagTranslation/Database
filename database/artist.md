@@ -113,7 +113,7 @@ rules:
 | ryohka | 凉香 | 凉香（Ryohka，2月6日－）是日本女性插画家。神奈川县横滨市出身。主要担当十八禁美少女游戏的原画和人物设计等工作。 | [Twitter](https://twitter.com/ryohka_jp) [pixiv](https://www.pixiv.net/users/10054355) [个人网站](https://ryohka.tuna.be/) [中文维基](https://zh.wikipedia.org/wiki/涼香) |
 | shinkai makoto | 新海诚 | 新海诚（日语：新海 誠／しんかい まこと Shinkai Makoto，1973年2月9日－），本名新津诚（新津 誠／にいつ まこと Niitsu Makoto），为日本动画作家和电影导演，长野县南佐久郡小海町出身，现居东京。于2002年公开独立制作的动画短片《星之声》后开始受到瞩目。 | [Twitter](https://twitter.com/shinkaimakoto) [个人网站](http://shinkaimakoto.jp) [中文维基](https://zh.wikipedia.org/wiki/新海誠) |
 | benet | ベネット | 所属[膝上5センチメートル]社团的ベネット | [Twitter](https://twitter.com/benet_rn) [pixiv](https://www.pixiv.net/users/143220) |
-| ponpon | ぽんぽん |  | [pixiv](https://www.pixiv.net/users/2470002)<br>[Twitter](https://twitter.com/ponpon9020) |
+| ponpon | ぽんぽん | ![ぽんぽん头像](https://i.jpg.dog/img/d8d3ea3041843e34f154b24903a10736.jpg) | [Twitter](https://twitter.com/ponpon9020) [pixiv](https://www.pixiv.net/users/2470002) |
 | tetsujin | 铁人 |  |  |
 | hiyoko | ひよこ |  |  |
 | syukurin | シュクリーン |  |  |
