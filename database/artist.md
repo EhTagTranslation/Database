@@ -115,7 +115,7 @@ rules:
 | benet | ベネット | 所属[膝上5センチメートル]社团的ベネット | [Twitter](https://twitter.com/benet_rn) [pixiv](https://www.pixiv.net/users/143220) |
 | ponpon | ぽんぽん | ![ぽんぽん头像](https://i.jpg.dog/img/d8d3ea3041843e34f154b24903a10736.jpg) | [Twitter](https://twitter.com/ponpon9020) [pixiv](https://www.pixiv.net/users/2470002) |
 | tetsujin | 铁人 |  | [Twitter](https://twitter.com/tetsujinybc) |
-| hiyoko | ひよこ |  |  |
+| hiyoko | ひよさん |  | [Twitter](https://twitter.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) |
 | syukurin | シュクリーン |  |  |
 | araki kanao | あらきかなお |  |  |
 | nagiyama | 那岐山 |  |  |
