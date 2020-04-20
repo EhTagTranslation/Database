@@ -1644,6 +1644,7 @@ rules:
 | yakiniku tabetai | 焼肉食べたい |  |  |
 | shiitake nouen | しいたけ農園 |  |  |
 | almond-nabe | アーモンド鍋 |  |  |
+| hizaue 5cm | 膝上5センチメートル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
