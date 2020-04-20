@@ -117,7 +117,7 @@ rules:
 | tetsujin | 铁人 |  | [Twitter](https://twitter.com/tetsujinybc) |
 | hiyoko | ひよさん |  | [Twitter](https://twitter.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) |
 | syukurin | シュクリーン |  | [Twitter](https://twitter.com/syukuri_nn20) [pixiv](https://www.pixiv.net/users/14271305) |
-| araki kanao | あらきかなお |  |  |
+| araki kanao | あらきかなお |  | [Twitter](https://twitter.com/kanamoru) [pixiv](https://www.pixiv.net/users/80890) [个人网站](http://www.arakim.com/kana/) [日文维基](https://ja.wikipedia.org/wiki/あらきかなお) |
 | nagiyama | 那岐山 |  |  |
 | kittsu | キッツ |  |  |
 | neko toufu | 猫豆腐 |  | [pixiv](https://www.pixiv.net/users/159912) [twitter](https://twitter.com/nekotou) |
