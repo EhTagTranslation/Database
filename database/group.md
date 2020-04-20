@@ -280,7 +280,7 @@ rules:
 | sakananekobeya | 鱼猫部屋 |  |  |
 | white drop | ホワイトドロップ |  |  |
 | dieselmine | ディーゼルマイン |  |  |
-| ojou no yokushitsu | お嬢の浴室 |  |  |
+| ojou no yokushitsu | お嬢の浴室 |  | [官方网站](https://ojounoyokushitsu.tumblr.com) |
 | nagiyamasugi | ナギヤマスギ |  |  |
 | awatake | あわたけ |  |  |
 | gasobook | GASOBooK!! |  |  |
