@@ -261,7 +261,7 @@ rules:
 | 8chomeno-ohanayasan | 8丁目のお花屋さん |  |  |
 | kabu fujisawa minato shinsenkan | ㈱藤沢みなと新鮮館 |  |  |
 | uran-factory | URAN-FACTORY |  |  |
-| hiyoko no gekijoh | ひよこの劇場 |  |  |
+| hiyoko no gekijoh | ひよこの劇場 |  | [官方网站](https://hiyogeki.tumblr.com) |
 | yakiyama line | YAKIYAMA LINE |  |  |
 | gallop dyna | ぎゃろっぷだいな |  |  |
 | trick and treat | TRICK&TREAT |  |  |
