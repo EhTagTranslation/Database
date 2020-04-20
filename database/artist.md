@@ -120,7 +120,7 @@ rules:
 | araki kanao | あらきかなお |  | [Twitter](https://twitter.com/kanamoru) [pixiv](https://www.pixiv.net/users/80890) [个人网站](http://www.arakim.com/kana/) [日文维基](https://ja.wikipedia.org/wiki/あらきかなお) |
 | nagiyama | 那岐山 |  | [Twitter](https://twitter.com/nagiyamasan) |
 | kittsu | キッツ |  | [Twitter](https://twitter.com/22wish) [pixiv](https://www.pixiv.net/users/5240837) |
-| neko toufu | 猫豆腐 |  | [pixiv](https://www.pixiv.net/users/159912) [twitter](https://twitter.com/nekotou) |
+| neko toufu | 猫豆腐 | 和歌山县出身，现居东京都练马区。早期以同人创作为主，现在有多个原创系列，在芳文社，角川书局和一讯社都有连载系列。从《深夜雀食堂》开始小有名气，到《别当欧尼酱了》开始被中国网友熟知。 | [Twitter](https://twitter.com/nekotou) [pixiv](https://www.pixiv.net/users/159912) [萌娘百科](https://zh.moegirl.org/zh-hans/猫豆腐) |
 | nagare hyo-go | 流ひょうご |  |  |
 | mizuki gyokuran | 瑞姬玉兰 |  |  |
 | tenchisouha | 天地争霸 |  |  |
