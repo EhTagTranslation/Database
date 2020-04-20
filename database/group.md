@@ -721,7 +721,7 @@ rules:
 | handsome aniki | ハンサム兄貴 |  |  |
 | grenade | ぐれねーど |  |  |
 | vivid thunder | びびっどサンダー |  |  |
-| ryu-seki-do | 流石堂 |  |  |
+| ryu-seki-do | 流石堂 |  | [官方网站](http://www.ryu-seki.com) |
 | hiyotama goten | ひよたま御殿 |  |  |
 | seqmed | SEQMED |  |  |
 | ichinichi sanjou | 一日三锭 |  |  |
