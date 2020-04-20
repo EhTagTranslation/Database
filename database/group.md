@@ -281,7 +281,7 @@ rules:
 | white drop | ホワイトドロップ |  |  |
 | dieselmine | ディーゼルマイン |  |  |
 | ojou no yokushitsu | お嬢の浴室 |  | [官方网站](https://ojounoyokushitsu.tumblr.com) |
-| nagiyamasugi | ナギヤマスギ |  |  |
+| nagiyamasugi | ナギヤマスギ |  | [pixiv](https://www.pixiv.net/users/62628) [官方网站](http://nagiyamasugi.com) |
 | awatake | あわたけ |  |  |
 | gasobook | GASOBooK!! |  |  |
 | shiohama workshop | SHIOHAMA WORKSHOP |  |  |
