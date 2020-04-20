@@ -1643,6 +1643,7 @@ rules:
 | shoujo renka | 少女恋歌 |  | [官方网站](https://shnva.tumblr.com) |
 | yakiniku tabetai | 焼肉食べたい |  |  |
 | shiitake nouen | しいたけ農園 |  |  |
+| almond-nabe | アーモンド鍋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
