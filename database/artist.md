@@ -110,7 +110,7 @@ rules:
 | shinokawa arumi | 篠川あるみ |  | [Twitter](https://twitter.com/sasakawa_arumi) |
 | ichio | イチオ |  | [Twitter](https://twitter.com/ichio_x) [pixiv](https://www.pixiv.net/users/18121) |
 | shimada fumikane | 岛田文金 | 岛田文金（日语：島田フミカネ，1974年1月26日－），是日本的萌系插画家，主打兵器娘类之图，代表作有メカ娘、武装神姬（第一弹、第八弹）、天翔少女和Strike Witches的设定等。其笔名来自于文金高岛田。<br>岛田文金的兵器娘，常常就如Strike Witches的魔女们一样，上半身穿着较为正常，而下半身却穿着低衩内裤等服装。<br>![岛田文金Twitter头像](https://i.jpg.dog/img/f1092402bc5f1b39cc1f99a445151807.jpg) | [Twitter](https://twitter.com/humikane) [个人网站](http://www.ne.jp/asahi/humikane/e-wacs) [中文维基](https://zh.wikipedia.org/wiki/島田文金) |
-| ryohka | 凉香 |  |  |
+| ryohka | 凉香 | 凉香（Ryohka，2月6日－）是日本女性插画家。神奈川县横滨市出身。主要担当十八禁美少女游戏的原画和人物设计等工作。 | [Twitter](https://twitter.com/ryohka_jp) [pixiv](https://www.pixiv.net/users/10054355) [个人网站](https://ryohka.tuna.be/) [中文维基](https://zh.wikipedia.org/wiki/涼香) |
 | shinkai makoto | 新海诚 | 动画导演 |  |
 | benet | ベネット |  |  |
 | ponpon | ぽんぽん |  | [pixiv](https://www.pixiv.net/users/2470002)<br>[Twitter](https://twitter.com/ponpon9020) |
