@@ -459,7 +459,7 @@ rules:
 | yumesaki annai kairanban | 夢先案内回覧版 |  |  |
 | aihara hanten | 相原饭店 |  |  |
 | full high kick | ふるはいきっく |  |  |
-| punipuni doumei | ぷにぷに同盟 |  |  |
+| punipuni doumei | ぷにぷに同盟 |  | [官方网站](http://www2.odn.ne.jp/~crepe/) |
 | sokomono suisou | 底物水槽 |  |  |
 | shiratamaco | しらたまこ |  |  |
 | oreteki18kin | 俺的十八禁 |  |  |
