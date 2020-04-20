@@ -1645,6 +1645,7 @@ rules:
 | shiitake nouen | しいたけ農園 |  |  |
 | almond-nabe | アーモンド鍋 |  |  |
 | hizaue 5cm | 膝上5センチメートル |  |  |
+| ponponpain | ぽんぽんぺいん |  | [官方网站](http://p0np0n.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
