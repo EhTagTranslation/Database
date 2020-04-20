@@ -191,7 +191,7 @@ rules:
 | mataro | 魔太郎 |  |  |
 | otonano do-wa | 大人の寓話 |  |  |
 | tsukuru no mori kabushikigaisha | ツクルノモリ株式会社 |  |  |
-| asanoya | 浅野屋 |  |  |
+| asanoya | 浅野屋 |  | [官方网站](http://asanoyadoujin.web.fc2.com) |
 | neko works | NEKO WORKs |  |  |
 | goshujinsama no omochabako | 御主人様の玩具箱 |  |  |
 | rairaku jinja | 磊落神社 |  |  |
