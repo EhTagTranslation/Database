@@ -119,7 +119,7 @@ rules:
 | syukurin | シュクリーン |  | [Twitter](https://twitter.com/syukuri_nn20) [pixiv](https://www.pixiv.net/users/14271305) |
 | araki kanao | あらきかなお |  | [Twitter](https://twitter.com/kanamoru) [pixiv](https://www.pixiv.net/users/80890) [个人网站](http://www.arakim.com/kana/) [日文维基](https://ja.wikipedia.org/wiki/あらきかなお) |
 | nagiyama | 那岐山 |  | [Twitter](https://twitter.com/nagiyamasan) |
-| kittsu | キッツ |  |  |
+| kittsu | キッツ |  | [Twitter](https://twitter.com/22wish) [pixiv](https://www.pixiv.net/users/5240837) |
 | neko toufu | 猫豆腐 |  | [pixiv](https://www.pixiv.net/users/159912) [twitter](https://twitter.com/nekotou) |
 | nagare hyo-go | 流ひょうご |  |  |
 | mizuki gyokuran | 瑞姬玉兰 |  |  |
