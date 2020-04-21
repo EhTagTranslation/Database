@@ -1651,6 +1651,7 @@ rules:
 | yahai | 矢ハイ |  | [官方网站](http://aaannbi.jugem.jp) |
 | mohumohu chaya | もふもふ茶屋 |  |  |
 | kirororo | KirororO |  | [官方网站](http://kirero.xxxxxxxx.jp) |
+| zinfandel | ZINFANDEL |  | [官方网站](https://hyura35.wixsite.com/zinfandel) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
