@@ -2592,6 +2592,7 @@ rules:
 | footaro | 辻風太郎 |  |  |
 | mokuzu | もくず |  | [Twitter本账号](https://twitter.com/mokuzzzzz) [Twitter表账号](https://twitter.com/mokuzzz_k) [Twitter里账号](https://twitter.com/mokuxxxxx) [pixiv](https://www.pixiv.net/users/4868893) [个人网站](https://mokuzzzzz.tumblr.com) |
 | mizuno kurage | 水乃くらげ |  | [Twitter](https://twitter.com/Mizuno_LR) [pixiv](https://www.pixiv.net/users/3272927) |
+| aoi | あおい |  | [Twitter](https://twitter.com/wobumi) [pixiv](https://www.pixiv.net/users/240943) |
 
 
 <!--TEMPLATE: 
