@@ -2596,6 +2596,7 @@ rules:
 | uguisu mochi | うぐいす餅 |  | [Twitter](https://twitter.com/3535carrot) [pixiv](https://www.pixiv.net/users/3386759) |
 | kirero | kirero |  | [Twitter](https://twitter.com/kirero) [pixiv](https://www.pixiv.net/users/35490) [Instagram](https://www.instagram.com/kirerokirororo) |
 | hyura3 | ひゅらさん |  | [Twitter](https://twitter.com/hyura3) [pixiv](https://www.pixiv.net/users/3684923) |
+| fumituki | ふみつき |  | [Twitter](https://twitter.com/fumituki310) [pixiv](https://www.pixiv.net/users/56681) |
 
 
 <!--TEMPLATE: 
