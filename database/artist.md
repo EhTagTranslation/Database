@@ -2597,6 +2597,7 @@ rules:
 | kirero | kirero |  | [Twitter](https://twitter.com/kirero) [pixiv](https://www.pixiv.net/users/35490) [Instagram](https://www.instagram.com/kirerokirororo) |
 | hyura3 | ひゅらさん |  | [Twitter](https://twitter.com/hyura3) [pixiv](https://www.pixiv.net/users/3684923) |
 | fumituki | ふみつき |  | [Twitter](https://twitter.com/fumituki310) [pixiv](https://www.pixiv.net/users/56681) |
+| mimi | 魅未 |  | [Twitter](https://twitter.com/mimi_puru) [pixiv](https://www.pixiv.net/users/673015) |
 
 
 <!--TEMPLATE: 
