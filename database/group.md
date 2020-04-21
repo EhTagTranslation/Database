@@ -1654,6 +1654,7 @@ rules:
 | zinfandel | ZINFANDEL |  | [官方网站](https://hyura35.wixsite.com/zinfandel) |
 | fumituki | 踏月 |  | [官方网站](http://fumituki310.blog.fc2.com) |
 | mimipuru | みみぷる |  | [官方网站](http://mimipuru.blog27.fc2.com) |
+| yc-tv | YC－TV |  | [官方网站](http://ytv.sakura.ne.jp/yc-tv/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
