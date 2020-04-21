@@ -1647,6 +1647,7 @@ rules:
 | hizaue 5cm | 膝上5センチメートル |  |  |
 | ponponpain | ぽんぽんぺいん |  | [官方网站](http://p0np0n.sakura.ne.jp) |
 | grinp | GRINP |  | [官方网站](http://grin.oops.jp) |
+| lost rage | Lost Rage |  | [官方网站](http://lostrage.iza-yoi.net) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
