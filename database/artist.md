@@ -2598,6 +2598,7 @@ rules:
 | hyura3 | ひゅらさん |  | [Twitter](https://twitter.com/hyura3) [pixiv](https://www.pixiv.net/users/3684923) |
 | fumituki | ふみつき |  | [Twitter](https://twitter.com/fumituki310) [pixiv](https://www.pixiv.net/users/56681) |
 | mimi | 魅未 |  | [Twitter](https://twitter.com/mimi_puru) [pixiv](https://www.pixiv.net/users/673015) |
+| doru | $ |  | [Twitter](https://twitter.com/dorua) [pixiv](https://www.pixiv.net/users/11318) [个人网站](http://myon.sblo.jp) |
 
 
 <!--TEMPLATE: 
