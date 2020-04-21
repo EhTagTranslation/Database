@@ -1649,6 +1649,7 @@ rules:
 | grinp | GRINP |  | [官方网站](http://grin.oops.jp) |
 | lost rage | Lost Rage |  | [官方网站](http://lostrage.iza-yoi.net) |
 | yahai | 矢ハイ |  | [官方网站](http://aaannbi.jugem.jp) |
+| mohumohu chaya | もふもふ茶屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
