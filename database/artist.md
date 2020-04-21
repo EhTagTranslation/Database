@@ -2601,6 +2601,7 @@ rules:
 | doru | $ |  | [Twitter](https://twitter.com/dorua) [pixiv](https://www.pixiv.net/users/11318) [个人网站](http://myon.sblo.jp) |
 | mikagami hiyori | 水鏡ひより |  | [Twitter](https://twitter.com/_hiyoko_) [pixiv](https://www.pixiv.net/users/101493) |
 | hisaka tooru | 氷坂透 |  | [Twitter](https://twitter.com/HisakaToru) [pixiv](https://www.pixiv.net/users/114639) |
+| eseneko | えせねこ |  | [Twitter](https://twitter.com/eseneko) [pixiv](https://www.pixiv.net/users/79143) |
 
 
 <!--TEMPLATE: 
