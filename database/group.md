@@ -1655,6 +1655,7 @@ rules:
 | fumituki | 踏月 |  | [官方网站](http://fumituki310.blog.fc2.com) |
 | mimipuru | みみぷる |  | [官方网站](http://mimipuru.blog27.fc2.com) |
 | yc-tv | YC－TV |  | [官方网站](http://ytv.sakura.ne.jp/yc-tv/) |
+| strangechameleon | ストカメ |  | [官方网站](http://type916.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
