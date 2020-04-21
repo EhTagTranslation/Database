@@ -1652,6 +1652,7 @@ rules:
 | mohumohu chaya | もふもふ茶屋 |  |  |
 | kirororo | KirororO |  | [官方网站](http://kirero.xxxxxxxx.jp) |
 | zinfandel | ZINFANDEL |  | [官方网站](https://hyura35.wixsite.com/zinfandel) |
+| fumituki | 踏月 |  | [官方网站](http://fumituki310.blog.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
