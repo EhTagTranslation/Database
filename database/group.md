@@ -1648,6 +1648,7 @@ rules:
 | ponponpain | ぽんぽんぺいん |  | [官方网站](http://p0np0n.sakura.ne.jp) |
 | grinp | GRINP |  | [官方网站](http://grin.oops.jp) |
 | lost rage | Lost Rage |  | [官方网站](http://lostrage.iza-yoi.net) |
+| yahai | 矢ハイ |  | [官方网站](http://aaannbi.jugem.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
