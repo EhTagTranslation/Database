@@ -1660,6 +1660,7 @@ rules:
 | tensaizoku | 天災族 |  |  |
 | zenoside | ぜのさいど |  | [官方网站](http://zenoside.blog32.fc2.com) |
 | kata k-shiki | 型K式 |  |  |
+| yume no shima | ユメノシマ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
