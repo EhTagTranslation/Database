@@ -624,7 +624,7 @@ rules:
 | hanainu | 花犬 |  |  |
 | madoutei | 魔童贞 |  |  |
 | ra | RA |  |  |
-| yohane | ヨハネ |  |  |
+| yohane | ヨハネ |  | [Twitter-东方](https://twitter.com/YfJohanne) [Twitter-非东方](https://twitter.com/Itumade3) [pixiv](https://www.pixiv.net/users/10430161) |
 | akiduki tsukasa | 秋月つかさ |  |  |
 | hanamiya natsuka | 花宮なつか |  | [pixiv](https://www.pixiv.net/users/4218982) [Twitter](https://twitter.com/natsuka_03) |
 | nagayama yuunon | 永山ゆうのん |  |  |
