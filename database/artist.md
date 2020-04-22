@@ -2606,6 +2606,7 @@ rules:
 | kata k | カタケイ |  | [Twitter](https://twitter.com/wagocolo) [pixiv](https://www.pixiv.net/users/90042) |
 | miisha | みーしゃ |  |  |
 | ichiba youichi | 市葉葉市 | ![市葉葉市头像](https://i.jpg.dog/img/80b6297370ff6ed26064a2a33bb4ba48.jpg) | [Twitter](https://twitter.com/ichiba_adirbi) [pixiv](https://www.pixiv.net/users/5157056) |
+| beni shake | べにしゃけ |  | [Twitter表账号](https://twitter.com/benisyakedon_ex) [Twitter里账号](https://twitter.com/benisyakedon) [pixiv](https://www.pixiv.net/users/1033632) |
 
 
 <!--TEMPLATE: 
