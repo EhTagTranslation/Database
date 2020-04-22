@@ -1665,6 +1665,7 @@ rules:
 | ao | 青 |  | [官方网站](https://sangensei.blog.shinobi.jp) |
 | w-18 | W-⑱ |  |  |
 | poprication | poprication |  | [官方网站](http://poprication.com) |
+| seemu | seemu。 |  | [官方网站](http://seemu.blog.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
