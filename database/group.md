@@ -1661,6 +1661,7 @@ rules:
 | zenoside | ぜのさいど |  | [官方网站](http://zenoside.blog32.fc2.com) |
 | kata k-shiki | 型K式 |  |  |
 | yume no shima | ユメノシマ |  |  |
+| dot eito | ドットエイト |  | [官方网站](http://adahemas.blog.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
