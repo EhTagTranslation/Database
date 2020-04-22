@@ -127,7 +127,7 @@ rules:
 | arui ryou | あるい椋 | ![あるい椋头像](https://i.jpg.dog/img/06f3ae2be1d99386595328a7be31eef8.png) | [Twitter](https://twitter.com/arui00) [pixiv](https://www.pixiv.net/users/556217) |
 | sasamori tomoe | 笹森トモエ |  | [Twitter](https://twitter.com/sasamomi) [pixiv](https://www.pixiv.net/users/18255) |
 | sasai saji | 笹井さじ |  | [pixiv](https://www.pixiv.net/users/4205119) [Twitter](https://twitter.com/saji_s) |
-| okazaki takeshi | 冈崎武士 |  |  |
+| okazaki takeshi | 岡崎武士 |  | [Twitter](https://twitter.com/hapoi) [日文维基](https://ja.wikipedia.org/wiki/岡崎武士) |
 | harukaze soyogu | 春風ソヨグ |  |  |
 | kasi | 华师 |  |  |
 | cheru | ちぇる |  |  |
