@@ -1664,6 +1664,7 @@ rules:
 | dot eito | ドットエイト |  | [官方网站](http://adahemas.blog.fc2.com) |
 | ao | 青 |  | [官方网站](https://sangensei.blog.shinobi.jp) |
 | w-18 | W-⑱ |  |  |
+| poprication | poprication |  | [官方网站](http://poprication.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
