@@ -966,7 +966,7 @@ rules:
 | tri-moon | TRI-MOON! |  |  |
 | algolagnia | アルゴラグニア |  |  |
 | arestica | ARESTICA |  |  |
-| hapoi-dokoro | はぽい処 |  |  |
+| hapoi-dokoro | はぽい処 |  | [Twitter](https://twitter.com/hapoi_dokoro) [官方网站](http://hapoi.sakura.ne.jp/index-d.html) |
 | route1 | ROUTE1 |  |  |
 | chural-an | ちゅらる庵 |  |  |
 | monaka udon | もなかうどん |  |  |
