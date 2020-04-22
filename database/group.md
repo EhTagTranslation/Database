@@ -1658,6 +1658,7 @@ rules:
 | strangechameleon | ストカメ |  | [官方网站](http://type916.com) |
 | eseneko tale | えせねこてーる |  |  |
 | tensaizoku | 天災族 |  |  |
+| zenoside | ぜのさいど |  | [官方网站](http://zenoside.blog32.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
