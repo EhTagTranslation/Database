@@ -125,7 +125,7 @@ rules:
 | mizuki gyokuran | 瑞姫玉蘭 |  | [Twitter](https://twitter.com/babycrepe87) [pixiv](https://www.pixiv.net/users/34357) |
 | tenchisouha | 天地争霸 |  | [Twitter](https://twitter.com/zakuro_chinoaji) [pixiv](https://www.pixiv.net/users/5301083) |
 | arui ryou | あるい椋 | ![あるい椋头像](https://i.jpg.dog/img/06f3ae2be1d99386595328a7be31eef8.png) | [Twitter](https://twitter.com/arui00) [pixiv](https://www.pixiv.net/users/556217) |
-| sasamori tomoe | 笹森トモエ |  |  |
+| sasamori tomoe | 笹森トモエ |  | [Twitter](https://twitter.com/sasamomi) [pixiv](https://www.pixiv.net/users/18255) |
 | sasai saji | 笹井さじ |  | [pixiv](https://www.pixiv.net/users/4205119) [Twitter](https://twitter.com/saji_s) |
 | okazaki takeshi | 冈崎武士 |  |  |
 | harukaze soyogu | 春風ソヨグ |  |  |
