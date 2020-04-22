@@ -1662,6 +1662,7 @@ rules:
 | kata k-shiki | 型K式 |  |  |
 | yume no shima | ユメノシマ |  |  |
 | dot eito | ドットエイト |  | [官方网站](http://adahemas.blog.fc2.com) |
+| ao | 青 |  | [官方网站](https://sangensei.blog.shinobi.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
