@@ -416,7 +416,7 @@ rules:
 | magifuro konnyaku | magifuro蒟蒻 |  |  |
 | ueda john | うえだジョン |  |  |
 | wenajii | ヱナジー |  |  |
-| zeno | 是乃 |  |  |
+| zeno | 是乃 |  | [Twitter](https://twitter.com/zenokaiza) [pixiv](https://www.pixiv.net/users/25527) |
 | imizu | 威未図 |  |  |
 | shindou hajime | 新道一 |  |  |
 | type.90 | TYPE.90 |  |  |
