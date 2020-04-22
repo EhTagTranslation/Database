@@ -805,7 +805,7 @@ rules:
 | ryoumoto hatsumi | 岭本八美 |  |  |
 | sabaku chitai | 沙漠地带 |  |  |
 | salad | さらだ |  |  |
-| sawayaka samehada | さわやか鮫肌 |  |  |
+| sawayaka samehada | さわやか鮫肌 |  | [Twitter](https://twitter.com/adahemas) [pixiv](https://www.pixiv.net/users/176236) |
 | ueda yuu | 上田裕 |  |  |
 | usakun | うさくん |  |  |
 | chiguchi miri | チグチミリ |  |  |
