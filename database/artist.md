@@ -2605,6 +2605,7 @@ rules:
 | oinari | おいなり | ![おいなり头像](https://i.jpg.dog/img/3dc7788ccab5d0a8761e528e00011391.jpg) | [Twitter](https://twitter.com/sakutiki) [pixiv](https://www.pixiv.net/users/355302) |
 | kata k | カタケイ |  | [Twitter](https://twitter.com/wagocolo) [pixiv](https://www.pixiv.net/users/90042) |
 | miisha | みーしゃ |  |  |
+| ichiba youichi | 市葉葉市 | ![市葉葉市头像](https://i.jpg.dog/img/80b6297370ff6ed26064a2a33bb4ba48.jpg) | [Twitter](https://twitter.com/ichiba_adirbi) [pixiv](https://www.pixiv.net/users/5157056) |
 
 
 <!--TEMPLATE: 
