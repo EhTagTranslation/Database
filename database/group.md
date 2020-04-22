@@ -1657,6 +1657,7 @@ rules:
 | yc-tv | YC－TV |  | [官方网站](http://ytv.sakura.ne.jp/yc-tv/) |
 | strangechameleon | ストカメ |  | [官方网站](http://type916.com) |
 | eseneko tale | えせねこてーる |  |  |
+| tensaizoku | 天災族 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
