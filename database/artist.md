@@ -2603,6 +2603,7 @@ rules:
 | hisaka tooru | 氷坂透 |  | [Twitter](https://twitter.com/HisakaToru) [pixiv](https://www.pixiv.net/users/114639) |
 | eseneko | えせねこ |  | [Twitter](https://twitter.com/eseneko) [pixiv](https://www.pixiv.net/users/79143) |
 | oinari | おいなり | ![おいなり头像](https://i.jpg.dog/img/3dc7788ccab5d0a8761e528e00011391.jpg) | [Twitter](https://twitter.com/sakutiki) [pixiv](https://www.pixiv.net/users/355302) |
+| kata k | カタケイ |  | [Twitter](https://twitter.com/wagocolo) [pixiv](https://www.pixiv.net/users/90042) |
 
 
 <!--TEMPLATE: 
