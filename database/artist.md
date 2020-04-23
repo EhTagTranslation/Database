@@ -2611,6 +2611,7 @@ rules:
 | nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
 | aiu | 藍兎 |  |  |
 | kobato neneko | 小鳩ねねこ |  |  |
+| marota | 麻呂太 |  |  |
 
 
 <!--TEMPLATE: 
