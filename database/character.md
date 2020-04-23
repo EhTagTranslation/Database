@@ -2890,6 +2890,7 @@ rules:
 | chiyo sakura | 佐仓千代 |  |  |
 | umetarou nozaki | 野崎梅太郎 |  |  |
 | akari kazemiya | 风宫茜里 |  |  |
+| ilya ornstein | 伊莉雅·奥恩斯坦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
