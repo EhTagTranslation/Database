@@ -2889,6 +2889,7 @@ rules:
 | yumiko miura | 三浦优美子 |  |  |
 | chiyo sakura | 佐仓千代 |  |  |
 | umetarou nozaki | 野崎梅太郎 |  |  |
+| akari kazemiya | 风宫茜里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
