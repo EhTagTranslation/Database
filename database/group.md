@@ -1667,6 +1667,7 @@ rules:
 | poprication | poprication |  | [官方网站](http://poprication.com) |
 | seemu | seemu。 |  | [官方网站](http://seemu.blog.fc2.com) |
 | mix-edge | MIX-EDGE |  | [官方网站](http://arui.dojin.com) |
+| muni koubou | むに工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
