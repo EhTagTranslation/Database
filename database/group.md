@@ -1668,6 +1668,7 @@ rules:
 | seemu | seemu。 |  | [官方网站](http://seemu.blog.fc2.com) |
 | mix-edge | MIX-EDGE |  | [官方网站](http://arui.dojin.com) |
 | muni koubou | むに工房 |  |  |
+| marota teikoku | 麻呂太帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
