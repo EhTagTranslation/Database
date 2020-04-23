@@ -2609,6 +2609,7 @@ rules:
 | beni shake | べにしゃけ |  | [Twitter表账号](https://twitter.com/benisyakedon_ex) [Twitter里账号](https://twitter.com/benisyakedon) [pixiv](https://www.pixiv.net/users/1033632) |
 | megumiya | megumiya |  | [Twitter](https://twitter.com/megu_miya00) [pixiv](https://www.pixiv.net/users/11137415) |
 | nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
+| aiu | 藍兎 |  |  |
 
 
 <!--TEMPLATE: 
