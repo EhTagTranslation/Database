@@ -2610,6 +2610,7 @@ rules:
 | megumiya | megumiya |  | [Twitter](https://twitter.com/megu_miya00) [pixiv](https://www.pixiv.net/users/11137415) |
 | nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
 | aiu | 藍兎 |  |  |
+| kobato neneko | 小鳩ねねこ |  |  |
 
 
 <!--TEMPLATE: 
