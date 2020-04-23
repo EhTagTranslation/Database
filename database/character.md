@@ -2892,6 +2892,7 @@ rules:
 | akari kazemiya | 风宫茜里 |  |  |
 | ilya ornstein | 伊莉雅·奥恩斯坦 |  |  |
 | miyako izumo | 出云宫子 |  |  |
+| shinobu kamiki | 上喜忍 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
