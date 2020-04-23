@@ -2612,6 +2612,7 @@ rules:
 | aiu | 藍兎 |  |  |
 | kobato neneko | 小鳩ねねこ |  |  |
 | marota | 麻呂太 |  |  |
+| maineko ruru | 舞猫ルル |  |  |
 
 
 <!--TEMPLATE: 
