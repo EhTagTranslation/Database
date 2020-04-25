@@ -1669,6 +1669,7 @@ rules:
 | mix-edge | MIX-EDGE |  | [官方网站](http://arui.dojin.com) |
 | muni koubou | むに工房 |  |  |
 | marota teikoku | 麻呂太帝国 |  |  |
+| tenkirin | 天気輪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
