@@ -2613,6 +2613,7 @@ rules:
 | kobato neneko | 小鳩ねねこ |  |  |
 | marota | 麻呂太 |  |  |
 | maineko ruru | 舞猫ルル |  |  |
+| kanroame | 甘露アメ |  |  |
 
 
 <!--TEMPLATE: 
