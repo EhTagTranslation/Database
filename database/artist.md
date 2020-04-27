@@ -129,7 +129,7 @@ rules:
 | sasai saji | 笹井さじ |  | [pixiv](https://www.pixiv.net/users/4205119) [Twitter](https://twitter.com/saji_s) |
 | okazaki takeshi | 岡崎武士 |  | [Twitter](https://twitter.com/hapoi) [日文维基](https://ja.wikipedia.org/wiki/岡崎武士) |
 | harukaze soyogu | 春風ソヨグ |  | [Twitter](https://twitter.com/harusoyo) [pixiv](https://www.pixiv.net/users/287296) |
-| kasi | 华师 |  |  |
+| kasi | 華師 | ![華師头像](https://i.jpg.dog/img/d268e06f5d2b6ccb06234fa10582e621.jpg) | [Twitter](https://twitter.com/sitekasi) [pixiv](https://www.pixiv.net/users/124630) |
 | cheru | ちぇる |  |  |
 | umedama nabu | 梅玉奈部 |  |  |
 | aranmaru | 亚兰丸 |  |  |
