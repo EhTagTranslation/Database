@@ -2891,7 +2891,7 @@ rules:
 | umetarou nozaki | 野崎梅太郎 |  |  |
 | akari kazemiya | 风宫茜里 |  |  |
 | ilya ornstein | 伊莉雅·奥恩斯坦 |  |  |
-| miyako izumo | 出云宫子 | 本名出云宫子，原本是沉睡在地下的幽灵，被忍误当做“传说中的吸血鬼”解开封印从而醒了过来。<br>对布丁有着超乎寻常的喜爱，为了从骑士身上获得布丁总是缠着骑士不放，还会附身到别人身上，包括魔物，但由于目的太明显总是被骑士识破。<br>说话时有なの（NANO）的口癖，现实中的宫子是一个徘徊在骑士所在的高中的幽灵，变成幽灵的原因不明，且只有骑士一个人能看得到她，不停地缠着骑士要买布丁，给骑士的学习生活带来了不少麻烦。<br>![Miyako_prin_cone](https://img.moegirl.org/common/1/16/Miyako_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/zh/出云宫子) |
+| miyako izumo | 出云宫子 | 出云宫子，原本是沉睡在地下的幽灵，被忍误当做“传说中的吸血鬼”解开封印从而醒了过来。<br>对布丁有着超乎寻常的喜爱，为了从骑士身上获得布丁总是缠着骑士不放，还会附身到别人身上，包括魔物，但由于目的太明显总是被骑士识破。<br>说话时有なの（NANO）的口癖，现实中的宫子是一个徘徊在骑士所在的高中的幽灵，变成幽灵的原因不明，且只有骑士一个人能看得到她，不停地缠着骑士要买布丁，给骑士的学习生活带来了不少麻烦。<br>![Miyako_prin_cone](https://img.moegirl.org/common/1/16/Miyako_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/zh/出云宫子) |
 | shinobu kamiki | 上喜忍 |  |  |
 
 <!--TEMPLATE: 
