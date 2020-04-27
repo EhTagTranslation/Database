@@ -132,7 +132,7 @@ rules:
 | kasi | 華師 | ![華師头像](https://i.jpg.dog/img/d268e06f5d2b6ccb06234fa10582e621.jpg) | [Twitter](https://twitter.com/sitekasi) [pixiv](https://www.pixiv.net/users/124630) |
 | cheru | ちぇる |  |  |
 | umedama nabu | 梅玉奈部 |  | [Twitter](https://twitter.com/umedama_black) |
-| aranmaru | 亚兰丸 |  |  |
+| aranmaru | 亞蘭丸 |  | [Twitter](https://twitter.com/rensanma) [pixiv](https://www.pixiv.net/users/367218) |
 | tachibana omina | 立花オミナ |  |  |
 | ibuki ren | 伊吹莲 |  |  |
 | uran | URAN \| 雨兰 |  |  |
