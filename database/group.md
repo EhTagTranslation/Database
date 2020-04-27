@@ -1160,7 +1160,7 @@ rules:
 | infinity-force | INFINITY-FORCE |  |  |
 | akane makes revolution | A・M・R |  |  |
 | gujira 4 gou | ぐじら4号 |  |  |
-| shimapan | しまぱん |  |  |
+| shimapan | しまぱん |  | [官方网站](http://shimashimapanty.blog137.fc2.com) |
 | candy paddle | candy paddle | ネムネム |  |
 | daihonei | 大本营 |  |  |
 | condiment moderately | コンディメントは8分目 |  |  |
