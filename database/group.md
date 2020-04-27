@@ -1670,6 +1670,7 @@ rules:
 | muni koubou | むに工房 |  |  |
 | marota teikoku | 麻呂太帝国 |  |  |
 | tenkirin | 天気輪 |  |  |
+| gust | GUST |  | [官方网站](http://gustnavi.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
