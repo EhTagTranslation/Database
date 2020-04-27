@@ -128,7 +128,7 @@ rules:
 | sasamori tomoe | 笹森トモエ |  | [Twitter](https://twitter.com/sasamomi) [pixiv](https://www.pixiv.net/users/18255) |
 | sasai saji | 笹井さじ |  | [pixiv](https://www.pixiv.net/users/4205119) [Twitter](https://twitter.com/saji_s) |
 | okazaki takeshi | 岡崎武士 |  | [Twitter](https://twitter.com/hapoi) [日文维基](https://ja.wikipedia.org/wiki/岡崎武士) |
-| harukaze soyogu | 春風ソヨグ |  |  |
+| harukaze soyogu | 春風ソヨグ |  | [Twitter](https://twitter.com/harusoyo) [pixiv](https://www.pixiv.net/users/287296) |
 | kasi | 华师 |  |  |
 | cheru | ちぇる |  |  |
 | umedama nabu | 梅玉奈部 |  |  |
