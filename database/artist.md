@@ -131,7 +131,7 @@ rules:
 | harukaze soyogu | 春風ソヨグ |  | [Twitter](https://twitter.com/harusoyo) [pixiv](https://www.pixiv.net/users/287296) |
 | kasi | 華師 | ![華師头像](https://i.jpg.dog/img/d268e06f5d2b6ccb06234fa10582e621.jpg) | [Twitter](https://twitter.com/sitekasi) [pixiv](https://www.pixiv.net/users/124630) |
 | cheru | ちぇる |  |  |
-| umedama nabu | 梅玉奈部 |  |  |
+| umedama nabu | 梅玉奈部 |  | [Twitter](https://twitter.com/umedama_black) |
 | aranmaru | 亚兰丸 |  |  |
 | tachibana omina | 立花オミナ |  |  |
 | ibuki ren | 伊吹莲 |  |  |
