@@ -47,7 +47,7 @@ rules:
 | yumemi okazaki | 冈崎梦美 | 在《东方梦时空》中作为9面BOSS和隐藏可选自机登场。<br>在未来大学中任教比较物理学的教授,，有灵异现象控倾向，并在学会中发表了相关的理论，但是她的理论被狠狠地嘲笑和否定了。<br>为了向嘲笑她的同僚们复仇，一怒之下拉上了助手千百合一起乘坐“可能性空间移动船”，开始寻找有魔力存在的平行世界，没有多久她们便发现了“东之国域”这一理想的观测点，却也没有想到也因此陷入了循环的怪圈……<br>![冈崎梦美于东方梦时空中的造型](https://zh.touhouwiki.net/images/8/8a/Th03Yumemi.png) | [萌娘百科](https://zh.moegirl.org/zh/冈崎梦美) [东方维基](https://zh.touhouwiki.net/index.php?title=冈崎梦美) [THBWiki](https://thwiki.cc/冈崎梦美) |
 |  | 东方Project >> 旧作 >> 东方幻想乡 |  |  |
 |  | 东方Project >> 旧作 >> 东方怪绮谈 |  |  |
-| yumeko | 梦子 | ![梦子](http://mapaler.oschina.io/dajiadehuanxiangxiang-skin/imgdata/char/ATHZ02601.png) |  |
+| yumeko | 梦子 | 《怪绮谈》5面BOSS，服侍魔界之神神绮的女仆，是神绮创造的魔界造物中级别最高的存在。<br>![梦子于东方怪绮谈中的造型](https://zh.touhouwiki.net/images/4/4a/Th05yumeko.png)<br>![梦子（怪绮谈）](https://img.moegirl.org/common/f/fe/梦子（怪绮谈）.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/梦子) [东方维基](https://zh.touhouwiki.net/index.php?title=梦子) [THBWiki](https://thwiki.cc/梦子) |
 | shinki | 神绮 | 太太我喜欢你啊<br>![图](https://ehgt.org/db/d2/dbd2daf3eed3249a7fc417ed26d1f6e1dd9fec23-1094828-1111-1590-png_l.jpg)![图](https://ehgt.org/61/ab/61abf715f0d4ba0826c981db6c2adb86e0e0f860-1292470-1413-2000-jpg_l.jpg) |  |
 |  | 东方Project >> 东方红魔乡 |  |  |
 | rumia | 露米娅 | ![图](https://ehgt.org/c2/7e/c27e69786cbdf496f52e742e38d08c6269c39495-2749184-2073-3031-png_l.jpg)![图](https://ehgt.org/3e/c8/3ec8e95172bc5a5f1d3f11de48834118ec60061b-274638-575-669-png_l.jpg)![图](https://ehgt.org/38/7d/387d204f983df71a53c373c42ebc671ac3f1681f-197980-828-1170-jpg_l.jpg)![图](https://ehgt.org/c6/a6/c6a6f5f7d1f26771064dd05fd90a6673462f80ff-460839-1000-1300-jpg_l.jpg)![图](https://ehgt.org/d8/2f/d82f6193a2245f7c3ea99a5922a4868029c996cc-295514-540-540-png_l.jpg) |  |
