@@ -44,7 +44,7 @@ rules:
 | mima | 魅魔 | 魅魔是个常常环绕在博丽神社四周的恶灵。作为旧作的反派头目之一，虽说是敌人，但却让人恨不起来。个性开朗，有人情味，对自己的（战斗）能力非常有信心，甚至有些自负。<br>![《怪绮谈》中的魅魔（选人立绘）](https://img.moegirl.org/common/3/31/TH05Mima.png)![图](# "https://ehgt.org/90/ee/90ee106ff6814a9fb573478371becce91b995fb1-400946-1000-1300-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/魅魔%28东方Project%29) [东方维基](https://zh.touhouwiki.net/index.php?title=魅魔) [THBWiki](https://thwiki.cc/魅魔) |
 |  | 东方Project >> 旧作 >> 东方封魔录 |  |  |
 |  | 东方Project >> 旧作 >> 东方梦时空 |  |  |
-| yumemi okazaki | 冈崎梦美 | ![冈崎梦美](http://mapaler.oschina.io/dajiadehuanxiangxiang-skin/imgdata/char/ATHZ01401.png) |  |
+| yumemi okazaki | 冈崎梦美 | 在《东方梦时空》中作为9面BOSS和隐藏可选自机登场。<br>在未来大学中任教比较物理学的教授,，有灵异现象控倾向，并在学会中发表了相关的理论，但是她的理论被狠狠地嘲笑和否定了。<br>为了向嘲笑她的同僚们复仇，一怒之下拉上了助手千百合一起乘坐“可能性空间移动船”，开始寻找有魔力存在的平行世界，没有多久她们便发现了“东之国域”这一理想的观测点，却也没有想到也因此陷入了循环的怪圈……<br>![冈崎梦美于东方梦时空中的造型](https://zh.touhouwiki.net/images/8/8a/Th03Yumemi.png) | [萌娘百科](https://zh.moegirl.org/zh/冈崎梦美) [东方维基](https://zh.touhouwiki.net/index.php?title=冈崎梦美) [THBWiki](https://thwiki.cc/冈崎梦美) |
 |  | 东方Project >> 旧作 >> 东方幻想乡 |  |  |
 |  | 东方Project >> 旧作 >> 东方怪绮谈 |  |  |
 | yumeko | 梦子 | ![梦子](http://mapaler.oschina.io/dajiadehuanxiangxiang-skin/imgdata/char/ATHZ02601.png) |  |
