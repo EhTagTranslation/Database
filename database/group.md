@@ -1676,6 +1676,7 @@ rules:
 | neko-bus tei | ねこバス停 |  | [官方网站](http://www5c.biglobe.ne.jp/~nekobasu/) |
 | loli ace | ロリエース |  |  |
 | dynamo | DYNAMO |  | [官方网站](http://livewire.skr.jp) |
+| clash house | くらっしゅハウス |  | [官方网站](http://clashhouse.cute.coocan.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
