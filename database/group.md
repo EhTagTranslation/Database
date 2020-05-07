@@ -1675,6 +1675,7 @@ rules:
 | ran-ya | 蘭屋 |  | [官方网站](https://www.plurk.com/rensanma) |
 | neko-bus tei | ねこバス停 |  | [官方网站](http://www5c.biglobe.ne.jp/~nekobasu/) |
 | loli ace | ロリエース |  |  |
+| dynamo | DYNAMO |  | [官方网站](http://livewire.skr.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
