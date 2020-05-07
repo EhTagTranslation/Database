@@ -1674,6 +1674,7 @@ rules:
 | tsurikichi doumei | 釣りキチ同盟 |  | [pixiv](https://www.pixiv.net/users/2926926) [官方网站](http://turikich.deko8.jp/INDEX.HTML) |
 | ran-ya | 蘭屋 |  | [官方网站](https://www.plurk.com/rensanma) |
 | neko-bus tei | ねこバス停 |  | [官方网站](http://www5c.biglobe.ne.jp/~nekobasu/) |
+| loli ace | ロリエース |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
