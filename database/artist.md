@@ -2614,6 +2614,7 @@ rules:
 | marota | 麻呂太 |  |  |
 | maineko ruru | 舞猫ルル |  |  |
 | kanroame | 甘露アメ |  |  |
+| shaa | しゃあ | ![しゃあ头像](https://i.jpg.dog/img/f51e8f5ec6ffc24d42a7ef093e1ae240.jpg) | [Twitter](https://twitter.com/nekoshaa) [编辑部Twitter](https://twitter.com/Hitsuji_Shuki2) [pixiv](https://www.pixiv.net/users/9777680) |
 
 
 <!--TEMPLATE: 
