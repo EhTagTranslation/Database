@@ -1677,6 +1677,7 @@ rules:
 | loli ace | ロリエース |  |  |
 | dynamo | DYNAMO |  | [官方网站](http://livewire.skr.jp) |
 | clash house | くらっしゅハウス |  | [官方网站](http://clashhouse.cute.coocan.jp) |
+| rainbow vanilla | Rainbow Vanilla |  | [官方网站](http://rainbowvanilla.web.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
