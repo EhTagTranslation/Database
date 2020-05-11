@@ -2893,6 +2893,7 @@ rules:
 | ilya ornstein | 伊莉雅·奥恩斯坦 |  |  |
 | miyako izumo | 出云宫子 | 出云宫子，原本是沉睡在地下的幽灵，被忍误当做“传说中的吸血鬼”解开封印从而醒了过来。<br>对布丁有着超乎寻常的喜爱，为了从骑士身上获得布丁总是缠着骑士不放，还会附身到别人身上，包括魔物，但由于目的太明显总是被骑士识破。<br>说话时有なの（NANO）的口癖，现实中的宫子是一个徘徊在骑士所在的高中的幽灵，变成幽灵的原因不明，且只有骑士一个人能看得到她，不停地缠着骑士要买布丁，给骑士的学习生活带来了不少麻烦。<br>![Miyako_prin_cone](https://img.moegirl.org/common/1/16/Miyako_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/zh/出云宫子) |
 | shinobu kamiki | 上喜忍 | 上喜忍，出身于灵媒世家，现在是兰德索尔的占卜师，做着驱邪的工作。<br>虽然是占卜师，然而因为自身灵力不足经常猜不准而被阵营的其他成员吐槽。<br>有一个十分好色的父亲，虽然已经变成骷髅头的样子，但因为喜欢骚扰路过的女性而常常被忍教训。因为骑士和忍走得比较近，引起了“父亲”的嫉妒，因此“父亲”对骑士抱有一定的敌意，甚至还想诅咒骑士，但最后没能成功还被忍训斥了一顿<br>![Shinobu_prin_cone](https://img.moegirl.org/common/b/bd/Shinobu_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/上喜忍) |
+| vikala | 碧卡拉 | 年龄	14<br>身高	145cm<br>声优	种﨑敦美<br>兴趣	妄想<br>喜好	戴上鼠耳的自己，奶酪<br>不擅长 拿下鼠耳的自己，世界<br>![初始](https://huiji-public.huijistatic.com/gbf/uploads/0/0f/Zoom_3040252000_01.png)<br>![突破](https://huiji-public.huijistatic.com/gbf/uploads/1/1a/Zoom_3040252000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040252000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
