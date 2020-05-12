@@ -2621,6 +2621,7 @@ rules:
 | matsuriuta | 祭唄 | ![祭唄头像](https://i.jpg.dog/img/c7a2ace5d40ee241390fc23d0b067bff.jpg) | [Twitter](https://twitter.com/maturiuta) [pixiv](https://www.pixiv.net/users/70822) |
 | momizi-kei | 紅葉-K |  |  |
 | nagayori | 長頼 |  |  |
+| toosaka asagi | 遠坂あさぎ |  | [pixiv](https://www.pixiv.net/users/3302692) [Twitter](https://twitter.com/asagi_0398) |
 
 
 <!--TEMPLATE: 
