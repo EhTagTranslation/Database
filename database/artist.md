@@ -2624,6 +2624,7 @@ rules:
 | toosaka asagi | 遠坂あさぎ |  | [pixiv](https://www.pixiv.net/users/3302692) [Twitter](https://twitter.com/asagi_0398) |
 | momoco | ももこ |  | [pixiv](https://www.pixiv.net/users/1113943) [Twitter](https://twitter.com/momoco_haru) |
 | ashima | アシマ |  | [pixiv](https://www.pixiv.net/users/2642047) [Twitter](https://twitter.com/roro046) |
+| suzumori | 铃森 |  |  |
 
 
 <!--TEMPLATE: 
