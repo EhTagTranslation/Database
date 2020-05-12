@@ -2625,6 +2625,7 @@ rules:
 | momoco | ももこ |  | [pixiv](https://www.pixiv.net/users/1113943) [Twitter](https://twitter.com/momoco_haru) |
 | ashima | アシマ |  | [pixiv](https://www.pixiv.net/users/2642047) [Twitter](https://twitter.com/roro046) |
 | suzumori | 铃森 |  |  |
+| kimishima ao | 君岛青 |  | [pixiv](https://www.pixiv.net/users/86328) [Twitter](https://twitter.com/kimishima_ao) |
 
 
 <!--TEMPLATE: 
