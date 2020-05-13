@@ -285,7 +285,7 @@ rules:
 | fujishima sei1go | 藤岛制1号 |  |  |
 | nanotsuki | なのつき |  |  |
 | norutaru | のるたる |  |  |
-| koi | Koi | ![Koi头像](https://wx1.sbimg.cn/2020/05/13/koi.jpg)<br>Koi是日本的漫画家、画师。 现住在东京都。作品类型为四格漫画。代表作是《请问您今天要来点兔子吗》。 | [pixiv](https://www.pixiv.net/users/330328) [个人主页](https://exofthanks.wixsite.com/extremity-of-thanks) |
+| koi | Koi | ![Koi头像](https://i.loli.net/2020/05/13/f4JZEx7g61plNbK.jpg)<br>Koi是日本的漫画家、画师。 现住在东京都。作品类型为四格漫画。代表作是《请问您今天要来点兔子吗》。 | [pixiv](https://www.pixiv.net/users/330328) [个人主页](https://exofthanks.wixsite.com/extremity-of-thanks) |
 | koishi chikasa | 小石ちかさ |  |  |
 | koikawa minoru | 恋河ミノル |  |  |
 | koiko irori | 恋小いろり |  |  |
