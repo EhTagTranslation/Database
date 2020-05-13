@@ -2627,6 +2627,7 @@ rules:
 | suzumori | 铃森 |  |  |
 | kimishima ao | 君岛青 |  | [pixiv](https://www.pixiv.net/users/86328) [Twitter](https://twitter.com/kimishima_ao) |
 | motiduki siina | 望月椎那 |  | [pixiv](https://www.pixiv.net/users/40614) [Twitter](https://twitter.com/siina_motiduki) [微博](https://weibo.com/u/5973956576) |
+| kino | kino |  | [pixiv](https://www.pixiv.net/users/40912) [Twitter](https://twitter.com/kinogin) |
 
 
 <!--TEMPLATE: 
