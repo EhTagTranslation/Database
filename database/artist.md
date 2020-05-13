@@ -2629,6 +2629,7 @@ rules:
 | motiduki siina | 望月椎那 |  | [pixiv](https://www.pixiv.net/users/40614) [Twitter](https://twitter.com/siina_motiduki) [微博](https://weibo.com/u/5973956576) |
 | kino | kino |  | [pixiv](https://www.pixiv.net/users/40912) [Twitter](https://twitter.com/kinogin) |
 | mitha | Mitha |  | [pixiv](https://www.pixiv.net/users/283135) [Twitter](https://twitter.com/usa_mitha) |
+| tateha | 立羽 |  | [pixiv](https://www.pixiv.net/users/20352) [Twitter](https://twitter.com/tateha_MG) |
 
 
 <!--TEMPLATE: 
