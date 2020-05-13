@@ -2417,7 +2417,7 @@ rules:
 | yuzuna hiyo | 柚子奈ひよ |  |  |
 | kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
-| shiromochi sakura | 白もち桜 |  |  |
+| shiromochi sakura | 白もち桜 |  | [pixiv](https://www.pixiv.net/users/6837882) [Twitter](https://twitter.com/sakura_siromoti) |
 | shimao kazu | 嶋尾和 |  |  |
 | kanou ryuuji | 叶竜児 |  |  |
 | yatanukikey | やたぬき圭 |  |  |
