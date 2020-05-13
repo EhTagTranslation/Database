@@ -2630,6 +2630,7 @@ rules:
 | kino | kino |  | [pixiv](https://www.pixiv.net/users/40912) [Twitter](https://twitter.com/kinogin) |
 | mitha | Mitha |  | [pixiv](https://www.pixiv.net/users/283135) [Twitter](https://twitter.com/usa_mitha) |
 | tateha | 立羽 |  | [pixiv](https://www.pixiv.net/users/20352) [Twitter](https://twitter.com/tateha_MG) |
+| yano mitsuki | 夜ノみつき |  | [pixiv](https://www.pixiv.net/users/44234) [Twitter](https://twitter.com/mituk1) |
 
 
 <!--TEMPLATE: 
