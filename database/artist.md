@@ -2632,6 +2632,7 @@ rules:
 | tateha | 立羽 |  | [pixiv](https://www.pixiv.net/users/20352) [Twitter](https://twitter.com/tateha_MG) |
 | yano mitsuki | 夜ノみつき |  | [pixiv](https://www.pixiv.net/users/44234) [Twitter](https://twitter.com/mituk1) |
 | fukahire | フカヒレ | ![フカヒレ头像](https://i.loli.net/2020/05/14/adAO95xecL34ziV.jpg) | [pixiv](https://www.pixiv.net/users/58338) [Twitter](https://twitter.com/fuka_hire) [个人主页](https://fukahire-ruinon.tumblr.com/) |
+| takano yuki | 鷹乃ゆき |  | [pixiv](https://www.pixiv.net/users/49348) [Twitter](https://twitter.com/takano_yuki) [个人主页](http://allegromistic.blog51.fc2.com/) |
 
 
 <!--TEMPLATE: 
