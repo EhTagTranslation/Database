@@ -892,7 +892,7 @@ rules:
 | matsuzaki tsukasa | 松崎司 |  |  |
 | zootan | ZooTAN |  |  |
 | redlight | REDLIGHT |  |  |
-| yukie | ゆき恵 |  |  |
+| yukie | ゆき恵 |  | [pixiv](https://www.pixiv.net/users/167607) [Twitter](https://twitter.com/pc_yukie) [个人主页](http://peach-candy.mints.ne.jp/) |
 | raven | RAVEN |  |  |
 | sujoyushi | 酢醤油氏 |  |  |
 | date | DATE |  |  |
