@@ -367,7 +367,7 @@ rules:
 | nohara hiromi | 野原ひろみ |  |  |
 | higashino mikan | 東野みかん |  |  |
 | dr.bug | Dr.阿虫 |  |  |
-| ameto yuki | あめとゆき |  |  |
+| ameto yuki | あめとゆき |  | [pixiv](https://www.pixiv.net/users/92891) [Twitter](https://twitter.com/ameto_y) [个人主页](http://amenochiyuki.blog43.fc2.com/) |
 | kenkou cross | 健康クロス |  |  |
 | yanagawa rio | やながわ理央 |  |  |
 | kakuzatou | 核座头 |  | [pixiv](https://www.pixiv.net/users/20557975) |
