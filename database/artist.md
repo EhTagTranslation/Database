@@ -939,7 +939,7 @@ rules:
 | jinguu kozue | 神宫梢 |  |  |
 | anzu | 庵ズ |  |  |
 | lu renbing | 路人丙 |  |  |
-| takei ooki | タケイオーキ |  |  |
+| takei ooki | タケイオーキ |  | [pixiv](https://www.pixiv.net/users/150378) [Twitter](https://twitter.com/o_takei) [个人主页](http://ties-to.sakura.ne.jp/) |
 | azuma tesshin | 东铁神 |  |  |
 | akagi asahito | 赤城あさひと |  |  |
 | benimura karu | 紅村かる |  |  |
