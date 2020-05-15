@@ -363,7 +363,7 @@ rules:
 | aihara shouta | 相原翔太 |  |  |
 | mimofu | みもふ |  |  |
 | takatuki nato | 鷹月ナト |  |  |
-| shiratama | しらたま |  |  |
+| shiratama | 白玉 |  | [pixiv](https://www.pixiv.net/users/705370) [Twitter](https://twitter.com/shiratamacaron) [个人主页](http://shiratamaco.com/) |
 | nohara hiromi | 野原ひろみ |  |  |
 | higashino mikan | 東野みかん |  |  |
 | dr.bug | Dr.阿虫 |  |  |
