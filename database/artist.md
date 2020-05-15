@@ -1989,7 +1989,7 @@ rules:
 | akaiguppy | 全红白子 |  |  |
 | etuzan jakusui | 越山弱衰 |  |  |
 | eiji | Eiジ |  |  |
-| oryou | おりょう |  |  |
+| oryou | おりょう |  | [pixiv](https://www.pixiv.net/users/24392) [Twitter](https://twitter.com/oryoillust) [Twitter(成人向)](https://twitter.com/oryo) |
 | waguchi shouka | 和口昇火 |  |  |
 | tenzen miyabi | 天渐雅 |  |  |
 | windart | WindArt |  |  |
