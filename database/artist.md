@@ -1645,7 +1645,7 @@ rules:
 | sasagawa iko | 佐々川いこ |  |  |
 | wancho | わんちょ |  |  |
 | kajishima masaki | 梶岛正树 | 梶岛正树（1962年3月15日－）是冈山县出身的动画师、角色设定和动画原作者。 | [维基百科](https://zh.wikipedia.org/zh-hans/梶島正樹) (\*) |
-| muririn | むりりん |  |  |
+| muririn | 梦璃凛 | 梦璃凛（むりりん）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的小舞一画风极其相似（柚子脸元凶）。 | [Twitter](https://twitter.com/muriitame) |
 | lilithlauda | リリスラウダ |  |  |
 | miyase mahiro | 宮瀬まひろ |  |  |
 | tajima yuki | 田岛有纪 |  |  |
