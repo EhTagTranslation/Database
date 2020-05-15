@@ -301,7 +301,7 @@ rules:
 | isami nozomi | 伊佐美ノゾミ |  |  |
 | souryuu | 双龙 |  |  |
 | umi suzume | 雨美すずめ |  |  |
-| michiking | みちきんぐ |  |  |
+| michiking | 米奇王 |  | [pixiv](https://www.pixiv.net/users/2361345) [Twitter](https://twitter.com/mitibmg20) |
 | otabe sakura | おたべさくら |  |  |
 | ryo | RYO \| RYÖ \| りょう | 没後<br>SAILORQ2<br>めたもる |  |
 | minori kenshirou | 实验四郎 |  |  |
