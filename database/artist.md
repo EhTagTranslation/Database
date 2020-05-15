@@ -609,7 +609,7 @@ rules:
 | derauea | でらうえあ |  | [pixiv](https://www.pixiv.net/users/5037991) |
 | rurukichi | るるキチ |  |  |
 | unasaka | うなさか |  |  |
-| anmi | Anmi |  |  |
+| anmi | Anmi |  | [pixiv](https://www.pixiv.net/users/212801) [Twitter](https://twitter.com/Anmi_) |
 | kishizuka kenji | 木静谦二 |  |  |
 | kanenomori sentarou | 金ノ森銭太郎 |  |  |
 | hazuki kaoru | 八月薫 |  |  |
