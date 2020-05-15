@@ -2509,7 +2509,7 @@ rules:
 | fuji tarawi | 藤たらゐ |  | [pixiv](https://www.pixiv.net/users/9771767) |
 | mousou | 妄想 |  | [pixiv](https://www.pixiv.net/users/5852420) |
 | yokohama inka | よこはまインカ |  |  |
-| hoshi | ほし |  | [pixiv](https://www.pixiv.net/users/1198913)<br>[Twitter](https://twitter.com/hoshi_u3) |
+| hoshi | ほし | ![ほし头像](https://i.loli.net/2020/05/15/CNdQfLDRpVIKEP3.jpg) | [pixiv](https://www.pixiv.net/users/1198913) [Twitter](https://twitter.com/hoshi_u3) [个人主页](https://usagigo.com/) |
 | nanamatsu kenji | 七松建司 |  |  |
 | fuumi | ふーみ |  | [pixiv](https://www.pixiv.net/users/10292)<br>[Twitter](https://twitter.com/fuumiisc) |
 | shacho | 社ちょ |  | [pixiv](https://www.pixiv.net/users/341675)<br>[Twitter](https://twitter.com/yashiro_tyoK) |
