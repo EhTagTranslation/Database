@@ -2899,6 +2899,7 @@ rules:
 | shika kuroi | 黑井诗花 |  |  |
 | nadeshiko kagamihara | 各务原抚子 | 各务原抚子（各務原なでしこ）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/各务原抚子) |
 | rin shima | 志摩凛 | 志摩凛（志摩リン）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/志摩凛) |
+| chiaki oogaki | 大垣千明 | 大垣千明（大垣千明）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/大垣千明) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
