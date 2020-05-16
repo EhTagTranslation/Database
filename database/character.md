@@ -2897,6 +2897,7 @@ rules:
 | hayate hisakawa | 久川飒 | 2018年的6th LIVE公布的7名新偶像之一，2019年3月29日发表将作为星光舞台第二弹新人偶像加入，4月2日于星光舞台正式公开。随后的4月5日，作为石川区域BOSS偶像之一在Mobamas也正式登场。<br>与同日公开的久川凪是双胞胎姐妹，凪是姐姐，而飒是妹妹。外表上最大的区别是瞳色、发型和身材，此外可能是由于化妆方式，虽然和姐姐眼型相似，看起来却是更大而有神的猫眼。<br>![久川颯](https://i.jpg.dog/img/f29fd7ed0899101ae066277f38f04599.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/久川飒) [pixiv百科](https://dic.pixiv.net/a/久川颯) [niconico大百科](https://dic.nicovideo.jp/a/久川颯) |
 | nagi hisakawa | 久川凪 | 2018年的6th LIVE公布的7名新偶像之一，2019年3月29日发表将作为星光舞台第二弹新人偶像加入，4月2日于星光舞台正式公开。随后的4月5日，作为石川区域BOSS偶像之一在Mobamas也正式登场。<br>与同日公开的久川飒是双胞胎姐妹，凪是姐姐，而飒是妹妹。外表上最大的区别是瞳色、发型和身材，以及眼尾处有特别长的眼睫毛，导致虽然和妹妹眼型相似，看起来却是垂眼。此外，在说话时使用敬语。<br>![久川凪](https://i.jpg.dog/img/c863e68a0c85bf9ecc1b6a374fc53642.jpg) | [萌娘百科](https://zh.moegirl.org/久川凪) [pixiv百科](https://dic.pixiv.net/a/久川凪) [niconico大百科](https://dic.nicovideo.jp/a/久川凪) |
 | shika kuroi | 黑井诗花 |  |  |
+| nadeshiko kagamihara | 各务原抚子 | 各务原抚子（各務原なでしこ）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/各务原抚子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
