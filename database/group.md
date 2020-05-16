@@ -1079,7 +1079,7 @@ rules:
 | come through | Come Through |  |  |
 | wancho-ke | わんちょ家 |  |  |
 | kajishima onsen | 梶岛温泉 |  |  |
-| kuroneko-kan | クロネコ缶 |  |  |
+| kuroneko-kan | クロネコ缶 |  | [官方网站](http://kuronekocan.blog59.fc2.com) |
 | cook milk | くっくみるく |  |  |
 | kudamono monogatari | 果物物语 |  |  |
 | romance no neko ookami musume | ろまんすの猫狼娘 |  |  |
