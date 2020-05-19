@@ -2280,7 +2280,7 @@ rules:
 | machida hiraku | 町田ひらく |  |  |
 | mamezou | まめぞう |  |  |
 | yamaya oowemon | 山家大右卫门 |  |  |
-| yuizaki kazuya | ユイザキカズヤ |  |  |
+| yuizaki kazuya | ユイザキカズヤ |  | [pixiv](https://www.pixiv.net/users/73798) [Twitter](https://twitter.com/k_yuizaki) [个人主页](http://c-holic.jp/) |
 | shichimenchou | しちめんちょう |  |  |
 | bigshine | ビッグシャイン |  |  |
 | apoidea | Apoidea |  |  |
