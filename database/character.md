@@ -2905,6 +2905,7 @@ rules:
 | sugumi kanagata | 金潟すぐみ | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/金潟すぐみ/::attach/〇〇式戦闘服.jpg?rev=ca6492573e2f5ef130482c7c6cc012d3&t=20190131164542) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/金潟すぐみ) |
 | yasuri araime | 新居目安里 | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/新居目安里/::attach/〇〇式戦闘服.png?rev=fb8f0c30fac7c14fd6a56cda5ee6c2e9&t=20190203024205) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/新居目安里) |
 | raiya kaeruzaka | 蛙坂来弥 | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/蛙坂来弥/::attach/raiya1.png?rev=bc16b8a8ddae05958c8f4aec12cc1a07&t=20180501235114) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/蛙坂来弥) |
+| rita henschel | リタ・ヘンシェル | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/リタ・ヘンシェル/::attach/パイロットスーツ.jpg?rev=278290c9db52b4215742b21b58311ea9&t=20181115154357) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/リタ・ヘンシェル) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
