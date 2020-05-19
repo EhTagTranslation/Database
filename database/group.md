@@ -1680,6 +1680,7 @@ rules:
 | rainbow vanilla | Rainbow Vanilla |  | [官方网站](http://rainbowvanilla.web.fc2.com) |
 | kuma no ana | 熊の穴 |  | [官方网站](https://www.plurk.com/Merufena) |
 | flourish | flourish |  |  |
+| cocoa holic | ココアホリック |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
