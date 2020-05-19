@@ -1682,7 +1682,7 @@ rules:
 | flourish | flourish |  |  |
 | cocoa holic | ココアホリック |  |  |
 | retro | RETRO |  |  |
-| tekomenchi | てち |  | [pixiv](https://www.pixiv.net/users/50740285) [Twitter](https://twitter.com/Techi0001) |
+| tekomenchi | てこめんち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
