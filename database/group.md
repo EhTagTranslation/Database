@@ -1681,6 +1681,7 @@ rules:
 | kuma no ana | 熊の穴 |  | [官方网站](https://www.plurk.com/Merufena) |
 | flourish | flourish |  |  |
 | cocoa holic | ココアホリック |  |  |
+| retro | RETRO |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
