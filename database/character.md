@@ -2902,6 +2902,7 @@ rules:
 | chiaki oogaki | 大垣千明 | 大垣千明（大垣千明）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/大垣千明) |
 | aoi inuyama | 犬山葵 | 犬山葵（犬山あおい）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/犬山葵) |
 | ena saitou | 齐藤惠那 | 齐藤惠那（斉藤恵那）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/齐藤惠那) |
+| sugumi kanagata | 金潟すぐみ | ![〇〇式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/金潟すぐみ/::attach/〇〇式戦闘服.jpg?rev=ca6492573e2f5ef130482c7c6cc012d3&t=20190131164542) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/金潟すぐみ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
