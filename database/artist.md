@@ -2639,6 +2639,7 @@ rules:
 | tomo | ともー |  | [pixiv](https://www.pixiv.net/users/1801112) [Twitter](https://twitter.com/tomorrow_0) |
 | kiba satoshi | 木場智士 |  | [pixiv](https://www.pixiv.net/users/863203) [Twitter](https://twitter.com/kibasatoshi) [个人主页](http://www.alchemy-engine.com/) |
 | ziko | ziko |  | [pixiv](https://www.pixiv.net/users/4935673) [Twitter](https://twitter.com/ziko_045) |
+| techi | てち |  | [pixiv](https://www.pixiv.net/users/50740285) [Twitter](https://twitter.com/Techi0001) |
 
 
 <!--TEMPLATE: 
