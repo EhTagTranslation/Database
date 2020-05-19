@@ -2637,6 +2637,7 @@ rules:
 | shirokuma a | シロクマA | ![シロクマA头像](https://i.jpg.dog/img/b65f97e1de278782b5d6712b89ebd262.png) | [Twitter](https://twitter.com/Merufena) [pixiv](https://www.pixiv.net/users/357034) [个人网站](https://www.plurk.com/Merufena) |
 | karory | karory |  | [pixiv](https://www.pixiv.net/users/18095070) [Twitter](https://twitter.com/karory) [个人主页](http://karory.net/) |
 | tomo | ともー |  | [pixiv](https://www.pixiv.net/users/1801112) [Twitter](https://twitter.com/tomorrow_0) |
+| kiba satoshi | 木場智士 |  | [pixiv](https://www.pixiv.net/users/863203) [Twitter](https://twitter.com/kibasatoshi) [个人主页](http://www.alchemy-engine.com/) |
 
 
 <!--TEMPLATE: 
