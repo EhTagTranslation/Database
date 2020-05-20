@@ -2640,6 +2640,7 @@ rules:
 | kiba satoshi | 木場智士 |  | [pixiv](https://www.pixiv.net/users/863203) [Twitter](https://twitter.com/kibasatoshi) [个人主页](http://www.alchemy-engine.com/) |
 | ziko | ziko |  | [pixiv](https://www.pixiv.net/users/4935673) [Twitter](https://twitter.com/ziko_045) |
 | techi | てち |  | [pixiv](https://www.pixiv.net/users/50740285) [Twitter](https://twitter.com/Techi0001) |
+| koza | コザ |  | [pixiv](https://www.pixiv.net/users/561408) [Twitter](https://twitter.com/koza900) [个人主页](http://koza900.blog133.fc2.com/) |
 
 
 <!--TEMPLATE: 
