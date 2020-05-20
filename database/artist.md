@@ -2540,7 +2540,7 @@ rules:
 | byougaku | 猫額 |  |  |
 | yoshu ohepe | 養酒オヘペ | ![養酒オヘペ头像](https://s1.ax1x.com/2020/03/26/8zZ1W4.jpg) | [Twitter](https://twitter.com/ohepeyousyu) [pixiv](https://www.pixiv.net/users/699107) |
 | amanagi seiji | 天凪青磁 |  |  |
-| tsukako | つかこ |  |  |
+| tsukako | つかこ |  | [pixiv](https://www.pixiv.net/users/16026) [Twitter](https://twitter.com/tsukako) [个人主页](http://www.kurimomo.com/) |
 | mochi | RIN（モチ） | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
 | araiguma | あらいぐま |  | [pixiv](https://www.pixiv.net/users/13662) |
 | 2-g | 2-G |  | [Twitter](https://twitter.com/two_g) [pixiv](https://www.pixiv.net/users/7251) [博客](http://2-g.sblo.jp) |
