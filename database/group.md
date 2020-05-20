@@ -1683,6 +1683,7 @@ rules:
 | cocoa holic | ココアホリック |  |  |
 | retro | RETRO |  |  |
 | tekomenchi | てこめんち |  |  |
+| nattou misoshiru | 納豆味噌汁 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
