@@ -1685,6 +1685,7 @@ rules:
 | tekomenchi | てこめんち |  |  |
 | nattou misoshiru | 納豆味噌汁 |  |  |
 | kurimomo | くりもも |  |  |
+| garimpeiro | Garimpeiro |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
