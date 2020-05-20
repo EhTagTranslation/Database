@@ -1686,6 +1686,7 @@ rules:
 | nattou misoshiru | 納豆味噌汁 |  |  |
 | kurimomo | くりもも |  |  |
 | garimpeiro | Garimpeiro |  |  |
+| naturefour | 風林火山 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
