@@ -2644,6 +2644,7 @@ rules:
 | mame denkyuu | まめでんきゅう |  | [pixiv](https://www.pixiv.net/users/138129) [Twitter](https://twitter.com/mame_denkyuu) |
 | mocha | Mocha |  | [pixiv](https://www.pixiv.net/users/523251) [Twitter](https://twitter.com/naturefour) |
 | teitetsu | 蹄鉄 |  |  |
+| sugiura sen | 杉浦線 |  |  |
 
 
 <!--TEMPLATE: 
