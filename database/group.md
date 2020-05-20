@@ -1684,6 +1684,7 @@ rules:
 | retro | RETRO |  |  |
 | tekomenchi | てこめんち |  |  |
 | nattou misoshiru | 納豆味噌汁 |  |  |
+| kurimomo | くりもも |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
