@@ -2642,6 +2642,7 @@ rules:
 | techi | てち |  | [pixiv](https://www.pixiv.net/users/50740285) [Twitter](https://twitter.com/Techi0001) |
 | koza | コザ |  | [pixiv](https://www.pixiv.net/users/561408) [Twitter](https://twitter.com/koza900) [个人主页](http://koza900.blog133.fc2.com/) |
 | mame denkyuu | まめでんきゅう |  | [pixiv](https://www.pixiv.net/users/138129) [Twitter](https://twitter.com/mame_denkyuu) |
+| mocha | Mocha |  | [pixiv](https://www.pixiv.net/users/523251) [Twitter](https://twitter.com/naturefour) |
 
 
 <!--TEMPLATE: 
