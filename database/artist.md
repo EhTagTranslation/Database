@@ -1502,7 +1502,7 @@ rules:
 | konkichi | 绀吉 |  |  |
 | butcherboy | ButcherBOY |  | [pixiv](https://www.pixiv.net/users/2367927) |
 | aim | AIM |  |  |
-| sasakuma kyouta | ささくまきょうた |  |  |
+| sasakuma kyouta | ささくまきょうた |  | [pixiv](https://www.pixiv.net/users/1427766) [Twitter](https://twitter.com/sasakumakyouta) [个人主页](https://sasakumakyouta.wixsite.com/pandacotta) |
 | tsujizen | 辻善 |  |  |
 | mizukoshi mayu | 水越まゆ |  |  |
 | mitaonsya | MITAONSYA |  |  |
