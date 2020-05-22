@@ -1692,6 +1692,7 @@ rules:
 | stella candy | Stella Candy |  |  |
 | zip | Zip |  |  |
 | moe moe cafe | モエモエカフェ |  |  |
+| hitenkei | HitenKei |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
