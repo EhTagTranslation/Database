@@ -1689,6 +1689,7 @@ rules:
 | naturefour | 風林火山 |  |  |
 | usagigo | うさぎ号 |  |  |
 | cube | CUBE |  |  |
+| stella candy | Stella Candy |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
