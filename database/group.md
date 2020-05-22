@@ -1690,6 +1690,7 @@ rules:
 | usagigo | うさぎ号 |  |  |
 | cube | CUBE |  |  |
 | stella candy | Stella Candy |  |  |
+| zip | Zip |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
