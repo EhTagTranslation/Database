@@ -2652,6 +2652,7 @@ rules:
 | hiten | Hiten |  | [pixiv](https://www.pixiv.net/users/490219) [Twitter](https://twitter.com/HitenKei) |
 | inugami kira | 狗神煌 |  | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
 | korie riko | 梱枝莉子 |  | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) |
+| hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [Twitter](https://twitter.com/hasuroot) |
 
 
 <!--TEMPLATE: 
