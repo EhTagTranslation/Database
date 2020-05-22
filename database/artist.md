@@ -2646,6 +2646,7 @@ rules:
 | teitetsu | 蹄鉄 |  |  |
 | sugiura sen | 杉浦線 |  |  |
 | izumi nanase | いずみななせ |  | [pixiv](https://www.pixiv.net/users/7145395) [Twitter](https://twitter.com/izuminanase) |
+| moekibara fumitake | 萌木原ふみたけ |  | [pixiv](https://www.pixiv.net/users/1030307) [Twitter](https://twitter.com/moetake) |
 
 
 <!--TEMPLATE: 
