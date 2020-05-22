@@ -1691,6 +1691,7 @@ rules:
 | cube | CUBE |  |  |
 | stella candy | Stella Candy |  |  |
 | zip | Zip |  |  |
+| moe moe cafe | モエモエカフェ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
