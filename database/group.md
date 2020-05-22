@@ -1688,6 +1688,7 @@ rules:
 | garimpeiro | Garimpeiro |  |  |
 | naturefour | 風林火山 |  |  |
 | usagigo | うさぎ号 |  |  |
+| cube | CUBE |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
