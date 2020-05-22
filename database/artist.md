@@ -2645,6 +2645,7 @@ rules:
 | mocha | Mocha |  | [pixiv](https://www.pixiv.net/users/523251) [Twitter](https://twitter.com/naturefour) |
 | teitetsu | 蹄鉄 |  |  |
 | sugiura sen | 杉浦線 |  |  |
+| izumi nanase | いずみななせ |  | [pixiv](https://www.pixiv.net/users/7145395) [Twitter](https://twitter.com/izuminanase) |
 
 
 <!--TEMPLATE: 
