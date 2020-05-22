@@ -2651,7 +2651,7 @@ rules:
 | takahashi tetsuya | 高桥哲哉 |  | [pixiv](https://www.pixiv.net/users/2695043) [Twitter](https://twitter.com/t_takahashi0830) |
 | hiten | Hiten |  | [pixiv](https://www.pixiv.net/users/490219) [Twitter](https://twitter.com/HitenKei) |
 | inugami kira | 狗神煌 |  | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
-| korie riko | 梱枝りこ |  | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) |
+| korie riko | 梱枝莉子 |  | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) |
 
 
 <!--TEMPLATE: 
