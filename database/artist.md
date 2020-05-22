@@ -2650,6 +2650,7 @@ rules:
 | mizuki takehito | みづきたけひと |  | [pixiv](https://www.pixiv.net/users/31309034) [Twitter](https://twitter.com/mzktkht) |
 | takahashi tetsuya | 高桥哲哉 |  | [pixiv](https://www.pixiv.net/users/2695043) [Twitter](https://twitter.com/t_takahashi0830) |
 | hiten | Hiten |  | [pixiv](https://www.pixiv.net/users/490219) [Twitter](https://twitter.com/HitenKei) |
+| inugami kira | 狗神煌 |  | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
 
 
 <!--TEMPLATE: 
