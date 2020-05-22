@@ -1687,6 +1687,7 @@ rules:
 | kurimomo | くりもも |  |  |
 | garimpeiro | Garimpeiro |  |  |
 | naturefour | 風林火山 |  |  |
+| usagigo | うさぎ号 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
