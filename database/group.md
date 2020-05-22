@@ -1693,6 +1693,7 @@ rules:
 | zip | Zip |  |  |
 | moe moe cafe | モエモエカフェ |  |  |
 | hitenkei | HitenKei |  |  |
+| muzin syoujo | 無人少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
