@@ -2659,6 +2659,7 @@ rules:
 | pan | ぱん |  | [pixiv](https://www.pixiv.net/users/178311) [Twitter](https://twitter.com/panno_mimi) |
 | yaman | yaman** |  | [pixiv](https://www.pixiv.net/users/3043057) [Twitter](https://twitter.com/yamanta_15) |
 | anapon | あなぽん |  | [pixiv](https://www.pixiv.net/users/1640464) [Twitter](https://twitter.com/anapom) |
+| mashiro shirako | 真白しらこ |  |  |
 
 
 <!--TEMPLATE: 
