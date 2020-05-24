@@ -2655,6 +2655,7 @@ rules:
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [Twitter](https://twitter.com/hasuroot) |
 | muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [Twitter](https://twitter.com/muku_apupop) |
 | kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [Twitter](https://twitter.com/Trg_AKT) |
+| natsuki yuu | なつきゆう |  | [pixiv](https://www.pixiv.net/users/226893) [Twitter](https://twitter.com/natsukiyuu) |
 
 
 <!--TEMPLATE: 
