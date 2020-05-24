@@ -1695,6 +1695,7 @@ rules:
 | hitenkei | HitenKei |  |  |
 | muzin syoujo | 無人少女 |  |  |
 | hasuneya | はすねや |  |  |
+| chilly polka | Chilly polka |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
