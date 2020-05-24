@@ -2656,6 +2656,7 @@ rules:
 | muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [Twitter](https://twitter.com/muku_apupop) |
 | kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [Twitter](https://twitter.com/Trg_AKT) |
 | natsuki yuu | なつきゆう |  | [pixiv](https://www.pixiv.net/users/226893) [Twitter](https://twitter.com/natsukiyuu) |
+| pan | ぱん |  | [pixiv](https://www.pixiv.net/users/178311) [Twitter](https://twitter.com/panno_mimi) |
 
 
 <!--TEMPLATE: 
