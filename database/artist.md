@@ -2653,6 +2653,7 @@ rules:
 | inugami kira | 狗神煌 |  | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
 | korie riko | 梱枝莉子 |  | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) |
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [Twitter](https://twitter.com/hasuroot) |
+| muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [Twitter](https://twitter.com/muku_apupop) |
 
 
 <!--TEMPLATE: 
