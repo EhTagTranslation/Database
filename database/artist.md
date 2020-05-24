@@ -2654,6 +2654,7 @@ rules:
 | korie riko | 梱枝莉子 |  | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) |
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [Twitter](https://twitter.com/hasuroot) |
 | muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [Twitter](https://twitter.com/muku_apupop) |
+| kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [Twitter](https://twitter.com/Trg_AKT) |
 
 
 <!--TEMPLATE: 
