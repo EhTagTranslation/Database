@@ -2911,6 +2911,7 @@ rules:
 | shitara kaneshiya | 兼志谷シタラ | ![八八式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/兼志谷シタラ/::attach/八八式戦闘服.png?rev=65e320be1f32236a0b4324198479e3cb&t=20180131211309) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/兼志谷シタラ) |
 | rin himukai | 日向リン | ![DM00-M](https://cdn.wikiwiki.jp/to/w/alicegear/日向リン/::attach/DM00-M.png?rev=a230241b092d55a34841202ba674a4a5&t=20180131213513) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/日向リン) |
 | giorno giovanna | 乔鲁诺·乔巴拿 | 漫画JOJO的奇妙冒险第五部黄金之风的主角。<br>第一部和第三部的反派BOSS迪奥·布兰度的儿子。 | [萌娘百科](https://zh.moegirl.org/乔鲁诺·乔巴拿) |
+| belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
