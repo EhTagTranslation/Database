@@ -9,6 +9,14 @@ copyright: |
 rules:
 - 优先写公认的中文翻译，不知道的也可以写日文原名。
 - 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
+example:
+  raw: ruri gokou
+  name: 五更琉璃（黑猫）
+  intro: |
+    ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg)
+    网名黑猫。SNS社群“宅女集合”的成员之一，桐乃在线下会认识的宅友。有在进行同人社团活动，并开设了个人博客，宅的程度不在桐乃之下。
+  links: |
+    [萌娘百科](https://zh.moegirl.org/zh-hans/五更琉璃) [Fandom](https://oreimo.fandom.com/zh/wiki/五更琉璃)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
