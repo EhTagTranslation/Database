@@ -666,12 +666,12 @@ rules:
 | murian | 无有利安 |  |  |
 | mutou mato | 武藤 まと |  | [pixiv](https://www.pixiv.net/users/1429353) [Twitter](https://twitter.com/mto_mt) |
 | kobayashi oukei | 小林王桂 |  |  |
-| tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对小忍(oshino shinobu)特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/8542) |
-| kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以露出(exhibitionism)题材为主，早期作品包含大量排便(scat)描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") |  |
+| tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对`shinobu oshino`特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/8542) |
+| kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以`exhibitionism`题材为主，早期作品包含大量`scat`描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") |  |
 | charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br>代表作品：露出少女遊戯<br>![图](# "https://ehgt.org/45/6e/456ec9a0d39a4b229b4f5113e08895b18c2d7c95-1122101-2150-3035-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/125256) |
 | tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出。<br>代表作品：露出少女異譚<br>![图](# "https://ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/1551500) |
 | nakani | なかに | なかに【すぺ】<br>画风独特，极具表现力。剧情发展犹如破竹。看本子笑出声系列。<br>代表作品：まるだしすたー<br>![图](# "https://ehgt.org/8f/67/8f679921298411cb837d5f75d771300f84a71e89-470051-1058-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/18899) |
-| mizuryu kei | 水龙敬 | 人类性解放的先驱者，作品多以乱交(group)为主。<br>代表作品：おいでよ水龍敬ランド(水龙敬乐园系列)<br>![图](# "https://ehgt.org/c5/a9/c5a92a74efbb2452bb88bb86d6f0ef9c091d5e83-435856-800-1119-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/321517) |
+| mizuryu kei | 水龙敬 | 人类性解放的先驱者，作品多以`group`为主。<br>代表作品：おいでよ水龍敬ランド(水龙敬乐园系列)<br>![图](# "https://ehgt.org/c5/a9/c5a92a74efbb2452bb88bb86d6f0ef9c091d5e83-435856-800-1119-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/321517) |
 | oyari ashito | 大枪苇人 | ![头像](http://tva1.sinaimg.cn/crop.1.0.945.945.180/006vdozLgw1f6k9m4eu8kj30qf0qgtem.jpg)<br>![图](# "https://ehgt.org/96/16/9616e663a0ab59efe63b58f1e521b180d9ddf718-1853743-2560-3627-jpg_l.jpg")![图](# "https://ehgt.org/a5/c2/a5c218921b59bda67ff863e0d34887a76f7f4e95-1042660-2103-3000-jpg_l.jpg")![图](https://ehgt.org/8b/6b/8b6b9319d4c5e05f24fc9a7ef1f067942e72f2db-1402612-1768-2500-jpg_l.jpg)![图](https://ehgt.org/b7/9a/b79a6333074400bfa77bcde9fd36d3db1eaa3f25-811640-2560-3627-jpg_l.jpg)![图](# "https://ehgt.org/a7/71/a771f39250f3f09bce382bac136e2eeb5097741a-57289-500-339-jpg_l.jpg")![图](https://ehgt.org/09/9c/099c6e952e978dd1d0b461e4973eb3782644d16b-1239240-2560-3604-jpg_l.jpg)![图](# "https://ehgt.org/3a/a4/3aa4c591e438ebfca64ac3169cbaf5e43173c2ab-2370206-3488-4800-jpg_l.jpg")![图](https://ehgt.org/5a/72/5a7205a46264facaa2a4f323bb4872162d2c2b6a-433311-1687-2400-jpg_l.jpg)![图](https://ehgt.org/c1/a2/c1a28b30d33b8bd5d825681f345086780c1a7095-1220782-3000-4250-jpg_l.jpg) | [个人主页](https://oyariashito.net) [微博](http://weibo.com/oyariashito) |
 | hagiya masakage | はぎやまさかげ |  |  |
 | siina tai | 椎名鲷 |  |  |
@@ -844,13 +844,13 @@ rules:
 | lunch | らんち | ![图](# "https://ehgt.org/04/f5/04f527a5b265174a654c2d24ae0bd9dfc26d18ca-2100668-4674-2000-jpg_l.jpg") |  |
 | inoue kiyoshirou | 胃之上奇嘉郎 | ![图](# "https://ehgt.org/ee/06/ee0694425a7a5274df8f7d54e221c0a545a0e9b9-1644020-2120-3000-jpg_l.jpg") |  |
 | namonashi | 无望菜志 | ![图](# "https://ehgt.org/da/44/da44e3cbdaa00f8244ae7cb01a166ae62915d9ac-8165851-4230-6030-jpg_l.jpg") |  |
-| oda non | 织田non | 画风写实，多为熟女(milf) |  |
+| oda non | 织田non | 画风写实，多为`milf`。 |  |
 | nemunemu | ネムネム | 老师画的男孩子太棒了！画的比女孩子还要美的身材。 |  |
 | makita masaki | 蒔田真記 | 日本女性插画师，主要从事成人插画作品。 |  |
-| hoshiai hilo | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向正太(shotacon)和男同(yaoi)。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
-| takase yuu | 鹰势优 | 90年代中期开始从事成人向漫画创作。作品以萝莉(lolicon)和正太(shotacon)为主。 |  |
+| hoshiai hilo | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向`shotacon`和`yaoi`。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
+| takase yuu | 鹰势优 | 90年代中期开始从事成人向漫画创作。作品以`lolicon`和`shotacon`为主。 |  |
 | hiiragi masaki | 柊柾葵 | 2004年以作品『クーロ君の華麗なる日常』（ショタみみLOVE vol.6）出道。之后以『クーロ君シリーズ』（即少年男仆库洛）系列在合集杂志进行创作。 |  |
-| po-ju | ぽ～じゅ | 插画师。作品以正太(shotacon)为主。画风细腻色情。 | [pixiv](https://www.pixiv.net/users/19291) |
+| po-ju | ぽ～じゅ | 插画师。作品以`shotacon`为主。画风细腻色情。 | [pixiv](https://www.pixiv.net/users/19291) |
 | abu hyaku | あぶひゃく | 男孩子的慰菊入门的作者。 |  |
 | suehirogari | すえひろがり | ![图](# "https://ehgt.org/21/63/216303dc5c19009d310064d3ba1006cbf8976947-517308-1750-2454-jpg_l.jpg") |  |
 | kuritsu yoshihiro | くりつよしひろ | ![图](# "https://ehgt.org/13/cd/13cd290c30b3427e65f66259060b33dfbfed3d81-912091-1981-2400-jpg_l.jpg") |  |

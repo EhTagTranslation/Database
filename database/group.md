@@ -37,9 +37,9 @@ rules:
 | tanuki soft | たぬきそふと |  |  |
 | baseson | BaseSon |  |  |
 | miel | Miel | ![](http://www.miel-soft.com/img/mielbn.jpg) | [官方网站](http://www.miel-soft.com) |
-| may-be soft | May-Be SOFT | Tech Arts 旗下品牌，画师以 あかざ(Akaza) 为主。<br>Tech Arts已破产 | [官方网站](http://www.maybesoft.jp) |
-| squeez | SQUEEZ | Tech Arts 旗下品牌。<br>Tech Arts已破产，原班人马已成立新公司 みるふぁく(milk factory) 进行活动。 | [官方网站](http://squeez-soft.jp) |
-| milk factory | みるふぁく | 母公司Tech Arts 破产后，SQUEEZ 原班人马成立的新公司。 | [官方网站](https://milkfactory.jp) |
+| may-be soft | May-Be SOFT | Tech Arts 旗下品牌，画师以`akaza`为主。<br>Tech Arts已破产 | [官方网站](http://www.maybesoft.jp) |
+| squeez | SQUEEZ | Tech Arts 旗下品牌。<br>Tech Arts已破产，原班人马已成立新公司`milk factory`进行活动。 | [官方网站](http://squeez-soft.jp) |
+| milk factory | みるふぁく | 母公司 Tech Arts 破产后，SQUEEZ 原班人马成立的新公司。 | [官方网站](https://milkfactory.jp) |
 | alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (\*) |
 | omega star | ωstar |  |  |
 | norn | Norn |  |  |
@@ -126,8 +126,8 @@ rules:
 |  | ▼ 同人社团 |  |  |
 | electromagneticwave | ElectromagneticWave | ![logo](http://www.ne.jp/asahi/magneticwave/popcan/top5_logo.gif)<br>萌单作者POP所在的社团<br>![萌单](http://www.ne.jp/asahi/magneticwave/popcan/cafe.jpg) | [社团官方网站](http://www.ne.jp/asahi/magneticwave/popcan/) |
 | usotsukiya | 嘘つき屋 | 大嘘的社团名，袜控，女子高中生画家<br>![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) |  |
-| archetype | ARCHETYPE | あかざ(Akaza)的社团名，袜控。<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") |  |
-| afterschool of the 5th year | 5年目の放課後 | 监督(Kantoku)的社团名。<br>![Kantoku作品](https://ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |  |
+| archetype | ARCHETYPE | `akaza`的社团名，袜控。<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") |  |
+| afterschool of the 5th year | 5年目の放課後 | `kantoku`的社团名。<br>![Kantoku作品](https://ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |  |
 | tsf no f | TSF的F | 以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](# "https://ehgt.org/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg") |  |
 | number2 | ![Logo](http://number2-takuji.com/favicon.ico)Number2 | ![Banner](http://number2-takuji.com/banner.gif)<br>![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) | [官方网站](http://number2-takuji.com) [Twitter](https://twitter.com/number2_takuji) |
 | plant | PLANT |  |  |
