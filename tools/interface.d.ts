@@ -119,7 +119,7 @@ declare namespace EhTag {
     }
     interface TagRefNode extends TextLeafNode {
       type: "tagref";
-      tag: string;
+      tag?: string;
     }
     interface BreakNode extends LeafNode {
       type: "br";
