@@ -16,7 +16,6 @@ example:
   intro: |
     ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gy1fjkes482gzj204q04qmxx.jpg)
     袜控，尻控，女子高中生(误)画家。
-    ![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg)
   links: |
     [Twitter](https://twitter.com/u_s_o) [pixiv](https://www.pixiv.net/users/457541)
 ---
