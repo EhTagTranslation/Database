@@ -8,7 +8,7 @@ const REPO_PATH = path.resolve(path.join(__dirname, "../.."));
 const KEEP_RELEASE = 5;
 
 const AUTH_TOKEN = process.env["GitHub:Token"];
-console.log(`Auth: ${AUTH_TOKEN}`);
+console.log(JSON.stringify(process.env, null, 2));
 async function deleteRelease() {
   const octokit = new Octokit({ auth: AUTH_TOKEN });
   const endpoint = octokit.repos.listReleases.endpoint.merge({ ...REPO_INFO });
