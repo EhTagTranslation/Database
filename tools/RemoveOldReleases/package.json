@@ -4,8 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
-    "@octokit/rest": "^17.0.0",
-    "simple-git": "^1.131.0"
+    "@octokit/rest": "^17.9.2",
+    "simple-git": "^2.5.0"
   }
 }

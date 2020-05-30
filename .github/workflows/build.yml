@@ -43,4 +43,9 @@ jobs:
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
         name: ${{ env.RELEASE_NAME }}
+    - name: Clean releases
+      run: |
+        cd ./tools/RemoveOldReleases/
+        yarn install --no-lockfile
+        yarn start
  
