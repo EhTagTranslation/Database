@@ -9,6 +9,13 @@ copyright: |
 rules:
 - 有官方或公认的中文名称时优先写中文名，否则写日文名。
 - 日文名中有汉字者优先写含汉字的名称。
+example:
+  raw: twinbox
+  name: TwinBox
+  intro: |
+    「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。
+  links: |
+    [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
@@ -186,7 +193,7 @@ rules:
 | nakayohi mogudan | なかよひモグダン |  |  |
 | suteuka no koya | すてうかの小屋 |  |  |
 | at ism | @ism |  |  |
-| twinbox | TwinBox | 「TwinBox」是花花捲和草草饅共同的同人社团名称，同时也是商业活动的笔名。 | [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com) |
+| twinbox | TwinBox | 「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。 | [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com) |
 | ame nochi yuki | あめ のち ゆき |  |  |
 | mataro | 魔太郎 |  |  |
 | otonano do-wa | 大人の寓話 |  |  |
@@ -315,7 +322,7 @@ rules:
 | team lucky | チーム☆ラッキー |  |  |
 | deep rising | DEEP RISING |  |  |
 | past gadget | Past Gadget |  |  |
-| gekidoku shoujo | 剧毒少女 | 以东方二次创作为主的画师“ke-ta”的社团名<br>![图](https://ehgt.org/1d/e4/1de424720c0e3c02cdff19face97f0a95744da7e-2188273-3492-2496-jpg_l.jpg)![图](https://ehgt.org/de/2b/de2be791d9789ebf27b304af9ff1d53bf58a82b2-4298976-2412-3424-jpg_l.jpg)![图](# "https://ehgt.org/c5/d5/c5d5f4dfc1ee3ab5e1120397c15e3233aa2941a9-3630806-1500-2127-png_l.jpg")![图](# "https://ehgt.org/d0/56/d05690320d78087717d2f2c8306e5b7b7f83d3f6-3951250-3468-2468-jpg_l.jpg")![图](# "https://ehgt.org/cc/1c/cc1c17b9f529c3705495ecd3785c909adf3944f2-1968325-3492-2496-jpg_l.jpg")![图](# "https://ehgt.org/33/20/3320be9c6e0a5b686a233ae01a315f466a0b2468-3887835-6874-4919-jpg_l.jpg")![图](# "https://ehgt.org/c8/a0/c8a0ba9712c84840f2afecc37d3e4553a6afca4f-5639177-6618-4926-jpg_l.jpg")![图](# "https://ehgt.org/3c/78/3c7859ba7478962b24f099f1c22d668ad553cf76-5286635-6611-4934-jpg_l.jpg") | [ke-ta 的 pixiv](https://www.pixiv.net/users/3104565) |
+| gekidoku shoujo | 剧毒少女 | 以东方二次创作为主的画师`ke-ta`的社团名<br>![图](https://ehgt.org/1d/e4/1de424720c0e3c02cdff19face97f0a95744da7e-2188273-3492-2496-jpg_l.jpg)![图](https://ehgt.org/de/2b/de2be791d9789ebf27b304af9ff1d53bf58a82b2-4298976-2412-3424-jpg_l.jpg)![图](# "https://ehgt.org/c5/d5/c5d5f4dfc1ee3ab5e1120397c15e3233aa2941a9-3630806-1500-2127-png_l.jpg")![图](# "https://ehgt.org/d0/56/d05690320d78087717d2f2c8306e5b7b7f83d3f6-3951250-3468-2468-jpg_l.jpg")![图](# "https://ehgt.org/cc/1c/cc1c17b9f529c3705495ecd3785c909adf3944f2-1968325-3492-2496-jpg_l.jpg")![图](# "https://ehgt.org/33/20/3320be9c6e0a5b686a233ae01a315f466a0b2468-3887835-6874-4919-jpg_l.jpg")![图](# "https://ehgt.org/c8/a0/c8a0ba9712c84840f2afecc37d3e4553a6afca4f-5639177-6618-4926-jpg_l.jpg")![图](# "https://ehgt.org/3c/78/3c7859ba7478962b24f099f1c22d668ad553cf76-5286635-6611-4934-jpg_l.jpg") | [ke-ta 的 pixiv](https://www.pixiv.net/users/3104565) |
 | chinjao girl. | チンジャオ娘。 |  |  |
 | kawaraya honpo | 瓦屋本舗 |  |  |
 | float shippu | フロート湿布 |  |  |
