@@ -57,9 +57,9 @@ declare namespace EhTag {
   }
 
   interface Tag<T extends TagType> {
+    name: CellType<T>;
     intro: CellType<T>;
     links: CellType<T>;
-    name: CellType<T>;
   }
 
   type TagType = "raw" | "ast" | "html" | "text" | "full";

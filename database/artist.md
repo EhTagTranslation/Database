@@ -10,6 +10,15 @@ rules:
 - 有官方或公认的中文名称时优先写中文名，否则写日文名。
 - 日文名中有汉字者优先写含汉字的名称。
 - 描述图片可用作者的 pixiv 头像，或者为你自己喜爱的画师做一张图片。为排版好看，头像高度建议 200px 以内，当然头像里明显H的就不要放了。
+example:
+  raw: oouso
+  name: 大嘘
+  intro: |
+    ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gy1fjkes482gzj204q04qmxx.jpg)
+    袜控，尻控，女子高中生(误)画家。
+    ![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg)
+  links: |
+    [Twitter](https://twitter.com/u_s_o) [pixiv](https://www.pixiv.net/users/457541)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
@@ -54,8 +63,8 @@ rules:
 | ranyues | 仴 | ![仴pixiv头像](https://i.loli.net/2020/04/02/b7wkpcdrO5oEejt.png) | [Twitter](https://twitter.com/ranyues_) [pixiv](https://www.pixiv.net/users/2135882) |
 | horonamin | ホロナミン | ![Twitter头像](https://i.loli.net/2020/04/10/5fDpXqUyLBJ2x1j.jpg) | [Twitter](https://twitter.com/horonamin0080) [pixiv](https://www.pixiv.net/users/716833) |
 | chiyami | ちやみ |  | [Twitter](https://twitter.com/chiyamiiblis) [pixiv](https://www.pixiv.net/users/540349) [个人网站](http://chiyami.weebly.com) |
-| hanahanamaki | 花花卷 | ![花花捲](https://i.loli.net/2020/04/10/KPsrqDgGAtdXp8k.png)<br>花花捲，来自台湾，现住日本东京的插画家，是草草饅的双胞胎姐姐，主要负责设计和线描，爱好包括智能手机游戏，旅行，设计等。 |  |
-| sousouman | 草草馒 | ![草草饅](https://i.loli.net/2020/04/10/aT468kYUe9Sfpom.png)<br>草草饅，来自台湾，现住日本东京的插画家，是花花捲的双胞胎妹妹，主要负责角色设计、着色和背景，爱好是玩游戏，看电影，听音乐等。 |  |
+| hanahanamaki | 花花卷 | ![花花捲](https://i.loli.net/2020/04/10/KPsrqDgGAtdXp8k.png)<br>花花捲，来自台湾，现住日本东京的插画家，是`sousouman`的双胞胎姐姐，主要负责设计和线描，爱好包括智能手机游戏，旅行，设计等。 |  |
+| sousouman | 草草馒 | ![草草饅](https://i.loli.net/2020/04/10/aT468kYUe9Sfpom.png)<br>草草饅，来自台湾，现住日本东京的插画家，是`hanahanamaki`的双胞胎妹妹，主要负责角色设计、着色和背景，爱好是玩游戏，看电影，听音乐等。 |  |
 | muk | MUK(むっく) | ![MUK头像](https://i.loli.net/2020/04/18/RBV1rnGYSXai6t5.png) | [Twitter](https://twitter.com/MUK_MonsieuR) [pixiv](https://www.pixiv.net/users/4234383) [个人网站](https://mukmonsieur.x.fc2.com) |
 | ore p 1-gou | 俺P1号 |  | [Twitter](https://twitter.com/orepnoone) [pixiv](https://www.pixiv.net/users/5903369) |
 | menyoujan | めんようじゃん |  |  |
@@ -66,8 +75,8 @@ rules:
 | takashina at masato | 高階@聖人 |  | [Twitter](https://twitter.com/47chop) [pixiv](https://www.pixiv.net/users/6889) |
 | shibayuki | しばゆき |  | [Twitter](https://twitter.com/famille201) [pixiv](https://www.pixiv.net/users/1531232) |
 | newmen | NeWMeN |  |  |
-| miyasaka miyu | 宮坂みゆ | 宮坂なこ的姐姐<br>最喜欢吃东西和玩游戏的姐姐<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [Twitter](https://twitter.com/miyu_miyasaka) [pixiv](https://www.pixiv.net/users/839617) |
-| miyasaka naco | 宮坂なこ | 宮坂みゆ的妹妹<br>很少出门按自己的节奏生活的妹妹<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [Twitter](https://twitter.com/naco_miyasaka) [pixiv](https://www.pixiv.net/users/5168395) |
+| miyasaka miyu | 宮坂みゆ | `miyasaka naco`的姐姐<br>最喜欢吃东西和玩游戏的姐姐<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [Twitter](https://twitter.com/miyu_miyasaka) [pixiv](https://www.pixiv.net/users/839617) |
+| miyasaka naco | 宮坂なこ | `miyasaka miyu`的妹妹<br>很少出门按自己的节奏生活的妹妹<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [Twitter](https://twitter.com/naco_miyasaka) [pixiv](https://www.pixiv.net/users/5168395) |
 | shimahara | 40原 |  | [Twitter](https://twitter.com/40hara) [pixiv](https://www.pixiv.net/users/554102) [个人网站](http://animachine.main.jp) |
 | hayakawa akari | 早川あかり |  | [Twitter](https://twitter.com/hayakawa_akari) [pixiv](https://www.pixiv.net/users/3792353) |
 | masaharu | まさはる |  | [Twitter表账号](https://twitter.com/masaharu_smbr) [Twitter里账号](https://twitter.com/0211kikutan_) [pixiv](https://www.pixiv.net/users/2667074) [个人网站](https://masaharube-tahgoukai.jimdofree.com) |

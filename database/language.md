@@ -15,6 +15,13 @@ copyright: |
 rules:
 - 语言按首字母排序。
 - 语言列表参考语言标签目录(https://ehwiki.org/wiki/language)。
+example:
+  raw: speechless
+  name: 无言
+  intro: |
+    画廊没有任何表示交谈或叙事意义的文字。设置该画廊语言为无语言(N/A)。含有拟声词或发出声音不影响此标签。不能在图画集、游戏CG和没有清晰描绘一系列事件（即没有视觉叙事）的作品中使用此标签。不要和`text cleaned`混淆。
+  links: |
+    (\*)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |

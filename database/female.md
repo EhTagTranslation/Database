@@ -15,6 +15,13 @@ copyright: |
 rules:
 - 为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
 - 若有属于多个分类的，放入最相关的那一个分类。
+example:
+  raw: tanlines
+  name: 晒痕
+  intro: |
+    浅浅的可见的线，通常来自衣服，由日光浴导致。不得与`dark skin`混淆。
+    ![图](# "https://ehgt.org/d6/a8/d6a86a4e2a3d78d869d1f7da6a80e9ab3bf4d319-1264624-1200-1600-jpg_l.jpg")
+  links: |
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
