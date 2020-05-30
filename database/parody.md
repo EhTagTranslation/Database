@@ -14,7 +14,7 @@ rules:
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
-| original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于同人志(doujinshi)分类。 |  |
+| original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于`doujinshi`分类。 |  |
 | touhou project | ![阴阳玉](http://ww1.sinaimg.cn/large/6c84b2d6gw1f41mmp72jbg200c00c0ex.gif)东方Project⛩ | ![囧仙子1](http://ww2.sinaimg.cn/large/6c84b2d6gw1f36161k7odj205k06ydg1.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3tth5q2l9j2032032mx2.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](http://ww3.sinaimg.cn/large/6c84b2d6gw1f3ttfmlq2ij2046093aa9.jpg) |  |
 | moetan | 萌单✏️ | ![萌之英语单词](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |  |
 |  | ▼Key社作品 |  |  |
@@ -24,7 +24,7 @@ rules:
 | angel beats | Angel Beats!❤ | 麻枝准原创动画第一部<br>![图](# "https://ehgt.org/bf/5d/bf5d99e9998ab741a0d6df5f73f6d4c657d95f4d-495796-1138-1600-jpg_l.jpg")![图](https://ehgt.org/42/17/4217b7c7961b21db9f4629126ef8f0d669edcdab-1078507-3251-4421-jpg_l.jpg) |  |
 | charlotte | Charlotte🌠 | 麻枝准原创动画第二部<br>![图](https://ehgt.org/85/28/8528be985e3cc839b689675d1961886ce68f03a3-1047883-2457-3542-jpg_l.jpg) |  |
 | little busters | Little Busters!⚾🐈 | 独自难以忍受，紧紧牵住了伙伴的手。两个人仍显孤单，与更多的伙伴手牵手围成个圈。<br>![图](https://ehgt.org/f4/a6/f4a61ec5bd42e9b09ef3f66a354c6252f6963acf-135503-530-530-jpg_l.jpg)![图](https://ehgt.org/e6/ee/e6eee3124423f153bc01a2684910176f5281c284-109401-320-460-jpg_l.jpg) |  |
-| rewrite | Rewrite | 《Rewrite》（日语：リライト）是由Key(key)创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](https://ehgt.org/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](https://ehgt.org/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](https://ehgt.org/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg) |  |
+| rewrite | Rewrite | 《Rewrite》（日语：リライト）是由`key`创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](https://ehgt.org/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](https://ehgt.org/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](https://ehgt.org/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg) |  |
 |  | ▲Key社作品 |  |  |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | [![图](https://ehgt.org/10/73/10736a8c6d3bf1952944904125e0c36b0afec16d-9438330-2970-4200-jpg_250.jpg)](https://exhentai.org/g/537341/97449f9516/)![图](# "https://ehgt.org/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛！) |
 | toaru majutsu no index | 魔法禁书目录📖 | ![图](https://ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |  |
