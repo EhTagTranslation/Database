@@ -1703,6 +1703,7 @@ example:
 | muzin syoujo | 無人少女 |  |  |
 | hasuneya | はすねや |  |  |
 | chilly polka | Chilly polka |  |  |
+| morimiyakan | 森宮缶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
