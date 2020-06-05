@@ -30,7 +30,7 @@ example:
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |  |
 | katsuragi | 葛城 | No.203 ![](# "https://ehgt.org/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg")<br>![](https://ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |  |
 | kasumi | 霞 | No.090 ![](# "https://ehgt.org/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg")<br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |  |
-| leo | 丽王 \| 利昂 | ![](https://ehgt.org/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br>火焰纹章if 角色 |  |
+| leo | 丽王 \| 利昂 | ![](https://ehgt.org/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br><br>`fire emblem if` 角色 |  |
 | haruna | 榛名 \| 春奈 | No.023 榛名![榛名](# "https://ehgt.org/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br><br>春奈是轻小说《这个是僵尸吗？》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") |  |
 | chitose | 千岁 | ![](https://ehgt.org/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |  |
 | murakumo | 丛 \| 丛云 | ![](https://ehgt.org/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br>No.015 丛云![丛云](# "https://ehgt.org/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") |  |
