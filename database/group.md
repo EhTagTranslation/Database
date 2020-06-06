@@ -1704,6 +1704,7 @@ example:
 | hasuneya | はすねや |  |  |
 | chilly polka | Chilly polka |  |  |
 | morimiyakan | 森宮缶 |  |  |
+| ninokoya | にのこや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
