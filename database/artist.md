@@ -2674,6 +2674,7 @@ example:
 | nishizawa 5mm | 西沢5ミリ |  |  |
 | ninoko | にの子 |  | [pixiv](https://www.pixiv.net/users/204506) [Twitter](https://twitter.com/_ninoko) |
 | kibii mocha | きびぃもか |  | [pixiv](https://www.pixiv.net/users/5033468) [Twitter](https://twitter.com/mocha2popcorn) |
+| ohnaka ito | 大仲いと |  | [pixiv](https://www.pixiv.net/users/14615435) [Twitter](https://twitter.com/ohnaka_ito) |
 
 
 <!--TEMPLATE: 
