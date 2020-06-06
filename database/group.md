@@ -1705,6 +1705,7 @@ example:
 | chilly polka | Chilly polka |  |  |
 | morimiyakan | 森宮缶 |  |  |
 | ninokoya | にのこや |  |  |
+| mocha2popcorn | mocha*2popcorn |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
