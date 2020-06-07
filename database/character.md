@@ -2923,6 +2923,7 @@ example:
 | hibiki tsukahara | 冢原响 |  |  |
 | junichi tachibana | 橘纯一 |  |  |
 | mafuyu kirisu | 桐须真冬 |  |  |
+| nariyuki yuiga | 唯我成幸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
