@@ -1707,6 +1707,7 @@ example:
 | ninokoya | にのこや |  |  |
 | mocha2popcorn | mocha*2popcorn |  |  |
 | kuronisiki | 黒錦 |  |  |
+| awayukitist | あわ雪チスト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
