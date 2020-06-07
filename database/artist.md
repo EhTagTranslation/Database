@@ -2679,6 +2679,7 @@ example:
 | takaharu | タカハル |  | [pixiv](https://www.pixiv.net/users/5238) [Twitter](https://twitter.com/kuronisiki) |
 | asanoha | 麻の葉 |  | [pixiv](https://www.pixiv.net/users/200246) [Twitter](https://twitter.com/_asanoha) |
 | sasaki akira | ささきあきら |  | [pixiv](https://www.pixiv.net/users/228427) [Twitter](https://twitter.com/ugcsasaki) |
+| asahina hikage | アサヒナヒカゲ |  | [pixiv](https://www.pixiv.net/users/3304829) [Twitter](https://twitter.com/akpngn_HA) |
 
 
 <!--TEMPLATE: 
