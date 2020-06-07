@@ -2922,6 +2922,7 @@ example:
 | belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 |  |  |
 | hibiki tsukahara | 冢原响 |  |  |
 | junichi tachibana | 橘纯一 |  |  |
+| mafuyu kirisu | 桐须真冬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
