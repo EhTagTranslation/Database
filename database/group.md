@@ -1706,6 +1706,7 @@ example:
 | morimiyakan | 森宮缶 |  |  |
 | ninokoya | にのこや |  |  |
 | mocha2popcorn | mocha*2popcorn |  |  |
+| kuronisiki | 黒錦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
