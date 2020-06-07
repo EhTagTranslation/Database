@@ -2675,7 +2675,7 @@ example:
 | ninoko | にの子 |  | [pixiv](https://www.pixiv.net/users/204506) [Twitter](https://twitter.com/_ninoko) |
 | kibii mocha | きびぃもか |  | [pixiv](https://www.pixiv.net/users/5033468) [Twitter](https://twitter.com/mocha2popcorn) |
 | ohnaka ito | 大仲いと |  | [pixiv](https://www.pixiv.net/users/14615435) [Twitter](https://twitter.com/ohnaka_ito) |
-| anzuame | 杏飴 |  |  |
+| anzuame | 杏飴 |  | [pixiv](https://www.pixiv.net/users/3241745) [Twitter](https://twitter.com/AnzuAmE_222) |
 | takaharu | タカハル |  | [pixiv](https://www.pixiv.net/users/5238) [Twitter](https://twitter.com/kuronisiki) |
 | asanoha | 麻の葉 |  | [pixiv](https://www.pixiv.net/users/200246) [Twitter](https://twitter.com/_asanoha) |
 | sasaki akira | ささきあきら |  | [pixiv](https://www.pixiv.net/users/228427) [Twitter](https://twitter.com/ugcsasaki) |
