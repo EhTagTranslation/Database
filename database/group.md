@@ -1708,6 +1708,7 @@ example:
 | mocha2popcorn | mocha*2popcorn |  |  |
 | kuronisiki | 黒錦 |  |  |
 | awayukitist | あわ雪チスト |  |  |
+| ugc | UGC |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
