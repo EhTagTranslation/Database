@@ -1709,6 +1709,7 @@ example:
 | kuronisiki | 黒錦 |  |  |
 | awayukitist | あわ雪チスト |  |  |
 | ugc | UGC |  |  |
+| akapenguin | アカペンギン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
