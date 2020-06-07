@@ -2677,6 +2677,7 @@ example:
 | ohnaka ito | 大仲いと |  | [pixiv](https://www.pixiv.net/users/14615435) [Twitter](https://twitter.com/ohnaka_ito) |
 | anzuame | 杏飴 |  |  |
 | takaharu | タカハル |  | [pixiv](https://www.pixiv.net/users/5238) [Twitter](https://twitter.com/kuronisiki) |
+| asanoha | 麻の葉 |  | [pixiv](https://www.pixiv.net/users/200246) [Twitter](https://twitter.com/_asanoha) |
 
 
 <!--TEMPLATE: 
