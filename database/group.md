@@ -1710,6 +1710,7 @@ example:
 | awayukitist | あわ雪チスト |  |  |
 | ugc | UGC |  |  |
 | akapenguin | アカペンギン |  |  |
+| coin toss | こいんとす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
