@@ -2921,6 +2921,7 @@ example:
 | giorno giovanna | 乔鲁诺·乔巴拿 | 漫画JOJO的奇妙冒险第五部黄金之风的主角。<br>第一部和第三部的反派BOSS迪奥·布兰度的儿子。 | [萌娘百科](https://zh.moegirl.org/乔鲁诺·乔巴拿) |
 | belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 |  |  |
 | hibiki tsukahara | 冢原响 |  |  |
+| junichi tachibana | 橘纯一 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
