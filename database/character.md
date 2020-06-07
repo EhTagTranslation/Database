@@ -2324,9 +2324,9 @@ example:
 |  | 大和麻弥 |  |  |
 | eve wakamiya | 若宫伊芙 |  |  |
 | kokoro tsurumaki | 弦卷心 |  |  |
-|  | 濑田薰 |  |  |
+| kaoru seta | 濑田薰 |  |  |
 |  | 北泽育美 |  |  |
-|  | 松原花音 |  |  |
+| kanon matsubata | 松原花音 |  |  |
 | misaki okusawa | 奥泽美咲 |  |  |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
