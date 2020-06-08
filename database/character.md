@@ -197,7 +197,7 @@ example:
 | hakurei miko | 先代巫女 |  |  |
 |  | ▲东方Project 人物 |  |  |
 |  | ▼ Love Live 人物 |  |  |
-| honoka kosaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.acg.moe/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂穗乃果) |
+| honoka kosaka | 高坂穗乃果 | 所属团体 μ's ![高坂穗乃果](# "https://img.moegirl.org/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png") | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂穗乃果) |
 | yukiho kousaka | 高坂雪穗 | [高坂雪穗](https://img.moegirl.org/common/b/bc/Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂雪穗) |
 | eli ayase | 绚濑绘里 | 所属团体 μ's ![绚濑绘里](# "https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png") | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑绘里) |
 | arisa ayase | 绚濑亚里沙 | [绚濑亚里沙](https://img.moegirl.org/common/b/b7/LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑亚里沙) |
