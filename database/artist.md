@@ -2680,6 +2680,7 @@ example:
 | asanoha | 麻の葉 |  | [pixiv](https://www.pixiv.net/users/200246) [Twitter](https://twitter.com/_asanoha) |
 | sasaki akira | ささきあきら |  | [pixiv](https://www.pixiv.net/users/228427) [Twitter](https://twitter.com/ugcsasaki) |
 | asahina hikage | アサヒナヒカゲ |  | [pixiv](https://www.pixiv.net/users/3304829) [Twitter](https://twitter.com/akpngn_HA) |
+| piyodera mucha | ぴよ寺むちゃ |  | [Twitter](https://twitter.com/nyakocha) [pixiv](https://www.pixiv.net/users/24838) |
 
 
 <!--TEMPLATE: 
