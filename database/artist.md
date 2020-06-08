@@ -649,7 +649,7 @@ example:
 | ashimoto yoika | あしもと☆よいか |  |  |
 | awaji himeji | あわじひめじ |  |  |
 | itou | いトう |  |  |
-| usashiro mani | うさ城まに |  |  |
+| usashiro mani | うさ城まに |  | [Twitter](https://twitter.com/mayumani2) [pixiv](https://www.pixiv.net/users/7367) |
 | ookami uo | オオカミうお |  |  |
 | kawady max | カワディMAX |  |  |
 | kimio tamako | きみおたまこ |  |  |
