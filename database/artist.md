@@ -2682,6 +2682,7 @@ example:
 | asahina hikage | アサヒナヒカゲ |  | [pixiv](https://www.pixiv.net/users/3304829) [Twitter](https://twitter.com/akpngn_HA) |
 | piyodera mucha | ぴよ寺むちゃ |  | [Twitter](https://twitter.com/nyakocha) [pixiv](https://www.pixiv.net/users/24838) |
 | daichi | 矢座だいち |  |  |
+| ramchi | らむち |  | [pixiv](https://www.pixiv.net/users/24359642) [Twitter](https://twitter.com/RamchiPixiv) |
 
 
 <!--TEMPLATE: 
