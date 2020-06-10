@@ -2312,11 +2312,11 @@ example:
 | mitsuki sonoda | 园田美月 |  |  |
 | kotone noda | 野田琴音 |  |  |
 |  | ▼ bang dream |  |  |
-| kasumi toyama | 户山香澄 |  |  |
-| tae hanazono | 花园多惠 |  |  |
-| rimi ushigome | 牛込里美 |  |  |
-| saaya yamabuki | 山吹沙绫 |  |  |
-| arisa ichigaya | 市谷有咲 |  |  |
+| kasumi toyama | 户山香澄 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的主唱 <br> ![户山香澄](https://commons.moegirl.org/thumb.php?f=Img_toyama-kasumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%88%B7%E5%B1%B1%E9%A6%99%E6%BE%84) |
+| tae hanazono | 花园多惠 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的吉他手 <br> ![花园多惠](https://commons.moegirl.org/thumb.php?f=Img_hanazono-tae_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E8%8A%B1%E5%9B%AD%E5%A4%9A%E6%83%A0) |
+| rimi ushigome | 牛込里美 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的贝斯手 <br> ![牛込里美](https://commons.moegirl.org/thumb.php?f=Img_ushigome-rimi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E7%89%9B%E8%BE%BC%E9%87%8C%E7%BE%8E) |
+| saaya yamabuki | 山吹沙绫 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的鼓手 <br> ![山吹沙绫](https://commons.moegirl.org/thumb.php?f=Img_yamabuki-saya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%B1%B1%E5%90%B9%E6%B2%99%E7%BB%AB(BanG_Dream!)) |
+| arisa ichigaya | 市谷有咲 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的键盘手 <br> ![市谷有咲](https://commons.moegirl.org/thumb.php?f=Img_ichigaya-arisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%B8%82%E8%B0%B7%E6%9C%89%E5%92%B2) |
 | yukina minato | 凑友希那 |  |  |
 | sayo hikawa | 冰川纱夜 |  |  |
 | lisa imai | 今井莉莎 |  |  |
