@@ -2317,26 +2317,26 @@ example:
 | rimi ushigome | 牛込里美 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的贝斯手 <br> ![牛込里美](https://commons.moegirl.org/thumb.php?f=Img_ushigome-rimi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E7%89%9B%E8%BE%BC%E9%87%8C%E7%BE%8E) |
 | saaya yamabuki | 山吹沙绫 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的鼓手 <br> ![山吹沙绫](https://commons.moegirl.org/thumb.php?f=Img_yamabuki-saya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%B1%B1%E5%90%B9%E6%B2%99%E7%BB%AB(BanG_Dream!)) |
 | arisa ichigaya | 市谷有咲 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的键盘手 <br> ![市谷有咲](https://commons.moegirl.org/thumb.php?f=Img_ichigaya-arisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%B8%82%E8%B0%B7%E6%9C%89%E5%92%B2) |
-| yukina minato | 凑友希那 |  |  |
-| sayo hikawa | 冰川纱夜 |  |  |
-| lisa imai | 今井莉莎 |  |  |
-| ako udagawa | 宇田川亚子 |  |  |
-| rinko shirokane | 白金燐子 |  |  |
-| ran mitake | 美竹兰 |  |  |
-| moca aoba | 青叶摩卡 |  |  |
-| himari uehara | 上原绯玛丽 |  |  |
-| tomoe udagawa | 宇田川巴 |  |  |
-| tsugumi hazawa | 羽泽鸫 |  |  |
-| aya maruyama | 丸山彩 |  |  |
-| hina hikawa | 冰川日菜 |  |  |
-| chisato shirasagi | 白鹭千圣 |  |  |
-|  | 大和麻弥 |  |  |
-| eve wakamiya | 若宫伊芙 |  |  |
-| kokoro tsurumaki | 弦卷心 |  |  |
-| kaoru seta | 濑田薰 |  |  |
-|  | 北泽育美 |  |  |
-| kanon matsubata | 松原花音 |  |  |
-| misaki okusawa | 奥泽美咲 |  |  |
+| yukina minato | 凑友希那 | [Roselia](https://zh.moegirl.org/Roselia)的主唱 <br> ![凑友希那](https://commons.moegirl.org/thumb.php?f=Img_minato-yukina_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%87%91%E5%8F%8B%E5%B8%8C%E9%82%A3) |
+| sayo hikawa | 冰川纱夜 | [Roselia](https://zh.moegirl.org/Roselia)的吉他手 <br> ![冰川纱夜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-sayo_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%86%B0%E5%B7%9D%E7%BA%B1%E5%A4%9C) |
+| lisa imai | 今井莉莎 | [Roselia](https://zh.moegirl.org/Roselia)的贝斯手 <br> ![今井莉莎](https://commons.moegirl.org/thumb.php?f=Img_imai-lisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E4%BB%8A%E4%BA%95%E8%8E%89%E8%8E%8E) |
+| ako udagawa | 宇田川亚子 | [Roselia](https://zh.moegirl.org/Roselia)的鼓手 <br> ![宇田川亚子](https://commons.moegirl.org/thumb.php?f=Img_udagawa-ako_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%AE%87%E7%94%B0%E5%B7%9D%E4%BA%9A%E5%AD%90) |
+| rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org/Roselia)的键盘手 <br> ![白金燐子](https://commons.moegirl.org/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E7%99%BD%E9%87%91%E7%87%90%E5%AD%90) |
+| ran mitake | 美竹兰 | [Afterglow](https://zh.moegirl.org/Afterglow(BanG_Dream!))的主唱 <br> ![美竹兰](https://commons.moegirl.org/thumb.php?f=Img_mitake-ran_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/zh-cn/%E7%BE%8E%E7%AB%B9%E5%85%B0) |
+| moca aoba | 青叶摩卡 | [Afterglow](https://zh.moegirl.org/Afterglow(BanG_Dream!))的吉他手 <br> ![青叶摩卡](https://commons.moegirl.org/thumb.php?f=Img_aoba-moca_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E9%9D%92%E5%8F%B6%E6%91%A9%E5%8D%A1) |
+| himari uehara | 上原绯玛丽 | [Afterglow](https://zh.moegirl.org/Afterglow(BanG_Dream!))的贝斯手 <br> ![上原绯玛丽](https://commons.moegirl.org/thumb.php?f=Img_uehara-himari_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E4%B8%8A%E5%8E%9F%E7%BB%AF%E7%8E%9B%E4%B8%BD) |
+| tomoe udagawa | 宇田川巴 | [Afterglow](https://zh.moegirl.org/Afterglow(BanG_Dream!))的鼓手 <br> ![宇田川巴](https://commons.moegirl.org/thumb.php?f=Img_udagawa-tomoe_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%AE%87%E7%94%B0%E5%B7%9D%E5%B7%B4) |
+| tsugumi hazawa | 羽泽鸫 | [Afterglow](https://zh.moegirl.org/Afterglow(BanG_Dream!))的键盘手 <br> ![羽泽鸫](https://commons.moegirl.org/thumb.php?f=Img_hazawa-tsugumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E7%BE%BD%E6%B3%BD%E9%B8%AB) |
+| aya maruyama | 丸山彩 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的主唱 <br> ![丸山彩](https://commons.moegirl.org/thumb.php?f=Img_maruyama-aya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E4%B8%B8%E5%B1%B1%E5%BD%A9) |
+| hina hikawa | 冰川日菜 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的吉他手 <br> ![冰川日菜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-hina_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%86%B0%E5%B7%9D%E6%97%A5%E8%8F%9C) |
+| chisato shirasagi | 白鹭千圣 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的贝斯手 <br> ![白鹭千圣](https://commons.moegirl.org/thumb.php?f=Img_shirasagi-chisato_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E7%99%BD%E9%B9%AD%E5%8D%83%E5%9C%A3) |
+|  | 大和麻弥 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的鼓手 <br> ![大和麻弥](https://commons.moegirl.org/thumb.php?f=Img_yamato-maya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%A4%A7%E5%92%8C%E9%BA%BB%E5%BC%A5) |
+| eve wakamiya | 若宫伊芙 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的键盘手 <br> ![若宫伊芙](https://commons.moegirl.org/thumb.php?f=Img_wakamiya-eve_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E8%8B%A5%E5%AE%AB%E4%BC%8A%E8%8A%99) |
+| kokoro tsurumaki | 弦卷心 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的主唱 <br> ![弦卷心](https://commons.moegirl.org/thumb.php?f=Img_tsurumaki-kokoro_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%BC%A6%E5%8D%B7%E5%BF%83) |
+| kaoru seta | 濑田薰 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的吉他手 <br> ![濑田薰](https://commons.moegirl.org/thumb.php?f=Img_seta-kaoru_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%BF%91%E7%94%B0%E8%96%B0) |
+|  | 北泽育美 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的贝斯手 <br> ![北泽育美](https://commons.moegirl.org/thumb.php?f=Img_kitazawa-hagumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%8C%97%E6%B3%BD%E8%82%B2%E7%BE%8E) |
+| kanon matsubata | 松原花音 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的鼓手 <br> ![松原花音](https://commons.moegirl.org/thumb.php?f=Img_matsubara-kanon_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%9D%BE%E5%8E%9F%E8%8A%B1%E9%9F%B3) |
+| misaki okusawa | 奥泽美咲 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的DJ <br> ![奥泽美咲](https://img.moegirl.org/common/thumb/9/92/Msk201912.jpg/150px-Msk201912.jpg) | [萌娘百科](https://zh.moegirl.org/%E5%A5%A5%E6%B3%BD%E7%BE%8E%E5%92%B2) |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
 | akane sakurai | 樱井明音 |  |  |
