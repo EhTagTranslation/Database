@@ -2929,6 +2929,7 @@ example:
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 |  |  |
 | shihoru | 席赫露 |  |  |
+| ranta | 蓝德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
