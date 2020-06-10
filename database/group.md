@@ -1713,6 +1713,7 @@ example:
 | coin toss | こいんとす |  |  |
 | haikibutsu | 廃棄物 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16971.html) |
 | betemius | BETEMIUS |  |  |
+| nihon kemomimi suishou iinkai | 日本ケモ耳推奨委員会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
