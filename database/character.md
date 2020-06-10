@@ -2928,6 +2928,7 @@ example:
 | nekomata okayu | 猫又小粥 |  |  |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 |  |  |
+| shihoru | 席赫露 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
