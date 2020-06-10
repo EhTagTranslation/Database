@@ -2683,6 +2683,7 @@ example:
 | piyodera mucha | ぴよ寺むちゃ |  | [Twitter](https://twitter.com/nyakocha) [pixiv](https://www.pixiv.net/users/24838) |
 | daichi | 矢座だいち |  |  |
 | ramchi | らむち |  | [pixiv](https://www.pixiv.net/users/24359642) [Twitter](https://twitter.com/RamchiPixiv) |
+| mignon | mignon |  | [pixiv](https://www.pixiv.net/users/24234) [Twitter](https://twitter.com/mignon) |
 
 
 <!--TEMPLATE: 
