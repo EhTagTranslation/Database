@@ -2930,6 +2930,7 @@ example:
 | yume | 梦儿 |  |  |
 | shihoru | 席赫露 |  |  |
 | ranta | 蓝德 |  |  |
+| moguzo | 莫古索 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
