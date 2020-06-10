@@ -1712,6 +1712,7 @@ example:
 | akapenguin | アカペンギン |  |  |
 | coin toss | こいんとす |  |  |
 | haikibutsu | 廃棄物 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16971.html) |
+| betemius | BETEMIUS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
