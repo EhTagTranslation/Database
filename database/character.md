@@ -2931,6 +2931,7 @@ example:
 | shihoru | 席赫露 |  |  |
 | ranta | 蓝德 |  |  |
 | moguzo | 莫古索 |  |  |
+| merry | 梅莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
