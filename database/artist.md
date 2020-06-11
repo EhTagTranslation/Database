@@ -2684,6 +2684,7 @@ example:
 | daichi | 矢座だいち |  |  |
 | ramchi | らむち |  | [pixiv](https://www.pixiv.net/users/24359642) [Twitter](https://twitter.com/RamchiPixiv) |
 | mignon | mignon |  | [pixiv](https://www.pixiv.net/users/24234) [Twitter](https://twitter.com/mignon) |
+| natsuki marina | 夏月まりな |  | [pixiv](https://www.pixiv.net/users/482462) [Twitter](https://twitter.com/marinauryu) |
 
 
 <!--TEMPLATE: 
