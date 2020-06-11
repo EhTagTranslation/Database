@@ -1715,6 +1715,7 @@ example:
 | betemius | BETEMIUS |  |  |
 | nihon kemomimi suishou iinkai | 日本ケモ耳推奨委員会 |  |  |
 | ayakase-ke no neko | 綾枷家の猫 |  |  |
+| mignon works | MIGNON WORKS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
