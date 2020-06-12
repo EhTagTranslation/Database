@@ -1717,6 +1717,7 @@ example:
 | ayakase-ke no neko | 綾枷家の猫 |  |  |
 | mignon works | MIGNON WORKS |  |  |
 | ichijiku yogurt | いちじくよーぐると |  |  |
+| egoistic honey | Egoistic Honey |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
