@@ -2797,6 +2797,7 @@ example:
 | natsuiro matsuri | 夏色祭 | 夏色 まつり![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
 | ookami mio | 大神澪 | 大神 ミオ![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
 | shirakami fubuki | 白上吹雪 | ![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
+| nekomata okayu | 猫又小粥 |  |  |
 | akai haato | 赤井心 | ![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
 | ayame nakiri | 百鬼绫目 | ![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
 | usada pekora | 兔田佩克拉 | 食材<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
@@ -2934,7 +2935,6 @@ example:
 | mafuyu kirisu | 桐须真冬 |  |  |
 | nariyuki yuiga | 唯我成幸 |  |  |
 | alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《刀剑神域》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/爱丽丝·滋贝鲁库) |
-| nekomata okayu | 猫又小粥 |  |  |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 |  |  |
 | shihoru | 席赫露 |  |  |
