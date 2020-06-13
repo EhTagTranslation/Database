@@ -1456,6 +1456,7 @@ example:
 | mondaiji-tachi ga isekai kara kuru sou desu yo | 问题儿童都来自异世界？ | 《问题儿童都来自异世界？》（日语：問題児たちが異世界から来るそうですよ？）简称“问题儿童”（問題児），是日本的轻小说作品。作者为龙之湖太郎，插画是天之有。2012年七月在杂志《Comp Ace》9月号封面上公开了作品动画企划进行中的消息。电视动画于2013年一月放映。曾获第一届《店员最爱轻小说大赏》第六位。<br>![问题儿童都来自异世界？](https://img.moegirl.org/common/0/02/问题儿童都来自异世界？.jpg) | [中文维基](https://zh.wikipedia.org/wiki/問題兒童都來自異世界？) [萌娘百科](https://zh.moegirl.org/zh-hans/问题儿童都来自异世界) [原作官方网站](https://web.archive.org/web/20120819082540/http://sneakerbunko.jp/series/mondaiji/index.php) |
 | alice gear aegis | 机战少女Alice | 《机战少女Alice》（日语：アリス・ギア・アイギス，英语：Alice Gear Aegis）是一款由Pyramid开发的动作和射击游戏。其内容主要是可供玩家操控各种兵器少女来进行战斗；此外，其角色由岛田文金设计，而机械设定则为海老川兼武和柳濑敬之所负责。<br>![logo](https://upload.wikimedia.org/wikipedia/zh/a/a5/Alice_Gear_Aegis_logo.png) | [日语官网](https://colopl.co.jp/alicegearaegis) [繁中官网](http://www.alicegear.so-net.tw) [中文维基](https://zh.wikipedia.org/wiki/機戰少女Alice) [萌娘百科](https://zh.moegirl.org/zh-hans/机战少女_Alice) |
 | houkago no pleiades | 放学后的昴星团 |  |  |
+| senren banka | 千恋＊万花 | 《千恋万花》（日语：千恋＊万花）是由柚子社制作的一部galgame，并有漫画等衍生作品。本作曾获得2016年美少女游戏大赏综合部门第一名，2016年萌系游戏大赏准大赏 | [官网地址](http://www.yuzu-soft.com/products/senren/index.html) [官方中文网站](https://hikarifield.co.jp/senren/index.html) [萌娘百科](https://zh.moegirl.org/千恋万花) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
