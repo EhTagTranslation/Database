@@ -1719,6 +1719,7 @@ example:
 | ichijiku yogurt | いちじくよーぐると |  |  |
 | egoistic honey | Egoistic Honey |  |  |
 | amamiya | 甘味屋 |  |  |
+| curry berg dish | カリーバーグディッシュ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
