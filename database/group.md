@@ -1720,6 +1720,7 @@ example:
 | egoistic honey | Egoistic Honey |  |  |
 | amamiya | 甘味屋 |  |  |
 | curry berg dish | カリーバーグディッシュ |  |  |
+| tamanegiya | 玉葱屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
