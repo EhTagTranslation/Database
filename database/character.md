@@ -2794,7 +2794,7 @@ example:
 | murasaki shion | 紫咲诗音 | 紫咲 シオン![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
 | tokino sora | 时乃空 | ときの そら![空妈](https://img.moegirl.org/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
 | yuzuki choco | 愈月巧可 | 癒月 ちょこ![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
-| natsuiro matsuri | 夏色祭 | 夏色 まつり![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
+| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
 | ookami mio | 大神澪 | 大神 ミオ![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
 | shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
 | nekomata okayu | 猫又小粥 | ![](https://img.moegirl.org/common/4/46/猫又小粥.jpg)<br>猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。 | [萌娘百科](https://zh.moegirl.org/猫又小粥) |
