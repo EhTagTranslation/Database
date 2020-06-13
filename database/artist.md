@@ -2686,6 +2686,7 @@ example:
 | mignon | mignon |  | [pixiv](https://www.pixiv.net/users/24234) [Twitter](https://twitter.com/mignon) |
 | natsuki marina | 夏月まりな |  | [pixiv](https://www.pixiv.net/users/482462) [Twitter](https://twitter.com/marinauryu) |
 | watanon | わたのん |  | [pixiv](https://www.pixiv.net/users/1202103) [Twitter](https://twitter.com/watanohara2) |
+| amami mikihiro | 甘味みきひろ |  | [pixiv](https://www.pixiv.net/users/12348) [Twitter](https://twitter.com/amami_mikihiro) |
 
 
 <!--TEMPLATE: 
