@@ -20,7 +20,7 @@ jobs:
     - name: Install tools
       shell: pwsh
       run: |
-        $env:GitHub:Token = "${{ secrets.GITHUB_TOKEN }}"
+        $env:GITHUB_TOKEN = "${{ secrets.GITHUB_TOKEN }}"
         ./tools/EhDbReleaseBuilder/Download-Tool.ps1
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll --source . --target ./publish
@@ -43,10 +43,19 @@ jobs:
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
         name: ${{ env.RELEASE_NAME }}
+    - name: Push release branch
+      run: >
+        cd ./publish &&
+        git init &&
+        git add . &&
+        git commit -am 'Release for ${{github.sha}}' --author 'ehtagtranslation[bot] <66814738+ehtagtranslation[bot]@users.noreply.github.com>' &&
+        git remote add origin git@github.com:EhTagTranslation/Database.git &&
+        git push origin master:release &&
+        cd ..
     - name: Clean releases
       shell: pwsh
       run: |
-        $env:GitHub:Token = "${{ secrets.GITHUB_TOKEN }}"
+        $env:GITHUB_TOKEN = "${{ secrets.GITHUB_TOKEN }}"
         cd ./tools/RemoveOldReleases/
         yarn install --no-lockfile
         yarn start

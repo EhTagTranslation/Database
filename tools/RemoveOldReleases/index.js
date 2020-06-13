@@ -7,7 +7,7 @@ const REPO_INFO = { owner: "EhTagTranslation", repo: "Database" };
 const REPO_PATH = path.resolve(path.join(__dirname, "../.."));
 const KEEP_RELEASE = 5;
 
-const AUTH_TOKEN = process.env["GitHub:Token"];
+const AUTH_TOKEN = process.env["GitHub:Token"] ?? process.env.GITHUB_TOKEN;
 async function deleteRelease() {
   const octokit = new Octokit({ auth: AUTH_TOKEN });
   const endpoint = octokit.repos.listReleases.endpoint.merge({ ...REPO_INFO });

@@ -2,7 +2,8 @@
 #Requires -Version 5
 
 Write-Host 'Fetching latest release info'
-$Header = if (${env:GitHub:Token}) { @{ Authorization = "token ${env:GitHub:Token}" } } else { @{ } }
+$Token = $env:GitHub:Token ?? $env:GITHUB_TOKEN
+$Header = if ($Token) { @{ Authorization = "token $Token" } } else { @{ } }
 $Release = Invoke-WebRequest 'https://api.github.com/repos/EhTagTranslation/EhTagConnector/releases/latest' -Headers $Header | ConvertFrom-Json
 
 Write-Host "Downloading from $($Release.assets[0].browser_download_url)"
