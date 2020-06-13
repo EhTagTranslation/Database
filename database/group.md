@@ -1718,6 +1718,7 @@ example:
 | mignon works | MIGNON WORKS |  |  |
 | ichijiku yogurt | いちじくよーぐると |  |  |
 | egoistic honey | Egoistic Honey |  |  |
+| amamiya | 甘味屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
