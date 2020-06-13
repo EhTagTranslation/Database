@@ -54,7 +54,7 @@ jobs:
         git add . &&
         git commit -am 'Release for ${{ github.sha }}' &&
         git remote add origin ${{ github.event.repository.url }} &&
-        git -c http.extraheader="AUTHORIZATION: basic ${{ secrets.GITHUB_TOKEN }}" push origin master:release --force &&
+        git -c http.extraheader="AUTHORIZATION: token ${{ secrets.GITHUB_TOKEN }}" push origin master:release --force &&
         cd ..
     - name: Clean releases
       shell: pwsh
