@@ -53,7 +53,7 @@ jobs:
         git init &&
         git add . &&
         git commit -am 'Release for ${{ github.sha }}' &&
-        git remote add origin ${{ github.event.repository.clone_url }} &&
+        git remote add origin ${{ github.event.repository.url }} &&
         git push origin master:release --force &&
         cd ..
     - name: Clean releases
