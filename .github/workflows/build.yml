@@ -23,9 +23,9 @@ jobs:
         dotnet-version: 2.2.402
     - name: Install tools
       shell: pwsh
-      run: |
-        $env:GITHUB_TOKEN = "${{ secrets.GITHUB_TOKEN }}"
-        ./tools/EhDbReleaseBuilder/Download-Tool.ps1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll --source . --target ./publish
     - name: Set messages
@@ -62,8 +62,9 @@ jobs:
         directory: ./publish
     - name: Clean releases
       shell: pwsh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        $env:GITHUB_TOKEN = "${{ secrets.GITHUB_TOKEN }}"
         cd ./tools/RemoveOldReleases/
         yarn install --no-lockfile
         yarn start
