@@ -47,15 +47,19 @@ jobs:
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
         name: ${{ env.RELEASE_NAME }}
-    - name: Push release branch
+    - name: Commit release branch
       run: >
         cd ./publish &&
         git init &&
         git add . &&
-        git commit -am 'Release for ${{ github.sha }}' &&
-        git remote add origin ${{ github.event.repository.url }} &&
-        git -c http.extraheader="AUTHORIZATION: token ${{ secrets.GITHUB_TOKEN }}" push origin master:release --force &&
-        cd ..
+        git commit -am 'Release for ${{ github.sha }}'
+    - name: Push release branch
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: release
+        force: true
+        directory: ./publish
     - name: Clean releases
       shell: pwsh
       run: |
