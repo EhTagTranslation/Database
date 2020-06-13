@@ -2942,6 +2942,7 @@ example:
 | moguzo | 莫古索 |  |  |
 | merry | 梅莉 |  |  |
 | tamamo cat | 玉藻猫 |  |  |
+| kiritan tohoku | 东北切蒲英 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
