@@ -197,40 +197,77 @@ example:
 | hakurei miko | 先代巫女 |  |  |
 |  | ▲东方Project 人物 |  |  |
 |  | ▼ Love Live 人物 |  |  |
-| honoka kosaka | 高坂穗乃果 | 所属团体 μ's <br> ![高坂穗乃果](https://img.moegirl.org/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂穗乃果) |
+<<<<<<< HEAD
+| honoka kosaka | 高坂穗乃果 | 所属团体 μ's<br>![高坂穗乃果](https://img.moegirl.org/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂穗乃果) |
 | yukiho kousaka | 高坂雪穗 | ![高坂雪穗](https://img.moegirl.org/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂雪穗) |
-| eli ayase | 绚濑绘里 | 所属团体 μ's <br> ![绚濑绘里](https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑绘里) |
+| eli ayase | 绚濑绘里 | 所属团体 μ's<br>![绚濑绘里](https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑绘里) |
 | arisa ayase | 绚濑亚里沙 | ![绚濑亚里沙](https://img.moegirl.org/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑亚里沙) |
-| kotori minami | 南小鸟 | 所属团体 μ's <br> ![南小鸟](https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/南小鸟) |
-| umi sonoda | 园田海未 | 所属团体 μ's <br> ![园田海未](https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/园田海未) |
-| rin hoshizora | 星空凛 | 所属团体 μ's <br> ![星空凛](https://img.moegirl.org/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/星空凛) |
-| maki nishikino | 西木野真姬 | 所属团体 μ's <br> ![西木野真姬](https://img.acg.moe/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/西木野真姬) |
-| nozomi tojo | 东条希 | 所属团体 μ's <br> ![东条希](https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/东条希) |
-| hanayo koizumi | 小泉花阳 | 所属团体 μ's <br> ![小泉花阳](https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/小泉花阳) |
-| nico yazawa | 矢泽妮可 | 所属团体 μ's <br> ![矢泽妮可](https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/矢泽妮可) |
-| tsubasa kira | 绮罗翼 | 所属团体 A-RISE <br> ![绮罗翼](https://img.acg.moe/common/thumb/e/e0/Lovelive_Tsubasa.jpg/250px-Lovelive_Tsubasa.jpg)![图](# "https://ehgt.org/67/bc/67bc6b8776a85c87fabd94344c8f5b4ef36bbea1-511619-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/绮罗翼) |
-| erena toudou | 统堂英玲奈 | 所属团体 A-RISE <br> ![统堂英玲奈](https://img.acg.moe/common/thumb/0/08/Lovelive_Toutou_Elina.jpg/250px-Lovelive_Toutou_Elina.jpg)![图](# "https://ehgt.org/92/11/9211c43476d6a468d10cad3fbd59ed0113eaf3b6-510324-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/统堂英玲奈) |
-| anju yuuki | 优木杏树 | 所属团体 A-RISE <br> ![优木杏树](https://img.acg.moe/common/thumb/b/b6/Lovelive_Yuki_Anjyu.jpg/250px-Lovelive_Yuki_Anjyu.jpg)![图](# "https://ehgt.org/4d/2d/4d2d214d42ef7c4c4f8fb78de1931429fbce86e8-605508-900-1200-jpg_l.jpg")![图](# "https://ehgt.org/bc/09/bc092ee86d351d82f3aa07c076699e09293c3e49-130208-1032-1457-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/优木杏树) |
-| chika takami | 高海千歌 | 所属团体 Aqours <br> ![高海千歌](https://img.acg.moe/common/thumb/5/5e/Takami_Chika.png/250px-Takami_Chika.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高海千歌) |
-| riko sakurauchi | 樱内梨子 | 所属团体 Aqours <br> ![樱内梨子](https://img.acg.moe/common/thumb/f/f2/Sakurauchi_Riko.png/250px-Sakurauchi_Riko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/樱内梨子) |
-| kanan matsuura | 松浦果南 | 所属团体 Aqours <br> ![松浦果南](https://img.acg.moe/common/thumb/e/e1/Matsuura_Kanan.png/250px-Matsuura_Kanan.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/松浦果南) |
-| dia kurosawa | 黑泽黛雅 | 所属团体 Aqours <br> ![黑泽黛雅](https://img.acg.moe/common/thumb/2/24/Kurosawa_Dia.png/250px-Kurosawa_Dia.png)![图](# "https://ehgt.org/e0/f3/e0f3f2b81c1cf252fa80a4092b0aa9c94b7bfa0b-3197381-1825-2560-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽黛雅) |
-| you watanabe | 渡边曜 | 所属团体 Aqours <br> ![渡边曜](https://img.acg.moe/common/thumb/a/a2/Watanabe_You.png/250px-Watanabe_You.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/渡边曜) |
-| yoshiko tsushima | 津岛善子 | 所属团体 Aqours <br> ![津岛善子](https://img.acg.moe/common/thumb/1/18/Tsushima_Yoshiko.png/250px-Tsushima_Yoshiko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/津岛善子) |
-| hanamaru kunikida | 国木田花丸 | 所属团体 Aqours <br> ![国木田花丸](https://img.acg.moe/common/thumb/a/ac/Kunikida_Hanamaru.png/250px-Kunikida_Hanamaru.png)![图](# "https://ehgt.org/dc/7f/dc7fe335c8ab499a93106c6752662102815d3f8f-915237-1434-2024-jpg_l.jpg") ![图](# "https://ehgt.org/b4/ed/b4ed50f40fe30c01208f61167bd1b73941223928-150550-1052-1494-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/国木田花丸) |
-| mari ohara | 小原鞠莉 | 所属团体 Aqours <br> ![小原鞠莉](https://img.moegirl.org/common/thumb/3/3c/Ohara_Mari.png/250px-Ohara_Mari.png) ![图](# "https://ehgt.org/2a/c9/2ac97c7e6644760e9238338d486350285b4ba276-912121-1680-2391-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/小原鞠莉) |
-| ruby kurosawa | 黑泽露比 | 所属团体 Aqours <br> ![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽露比) |
-| seira kazuno | 鹿角圣良 | 所属团体 Saint Snow <br> ![鹿角圣良](https://img.moegirl.org/common/thumb/8/81/%E9%B9%BF%E8%A7%92%E8%81%96%E8%89%AF.png/250px-%E9%B9%BF%E8%A7%92%E8%81%96%E8%89%AF.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/鹿角圣良) |
-| ria kazuno | 鹿角理亚 | 所属团体 Saint Snow <br> ![鹿角理亚](https://img.moegirl.org/common/thumb/c/c2/%E9%B9%BF%E8%A7%92%E7%90%86%E4%BA%9A.png/250px-%E9%B9%BF%E8%A7%92%E7%90%86%E4%BA%9A.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/鹿角理亚) |
-| ayumu uehara | 上原步梦 | 所属团体 虹咲学园学园偶像同好会 <br> ![上原步梦](https://img.moegirl.org/common/thumb/2/25/Ayumu_School_Uniform.png/250px-Ayumu_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/上原步梦) |
-| kasumi nakasu | 中须霞 | 所属团体 虹咲学园学园偶像同好会 <br> ![中须霞](https://img.moegirl.org/common/thumb/0/02/Kasumi_School_Uniform.png/250px-Kasumi_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/中须霞) |
-| shizuku osaka | 樱坂雫 | 所属团体 虹咲学园学园偶像同好会 <br> ![樱坂雫](https://img.moegirl.org/common/thumb/4/44/OsakaShizuku.jpg/250px-OsakaShizuku.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/樱坂雫) |
-| karin asaka | 朝香果林 | 所属团体 虹咲学园学园偶像同好会 <br> ![朝香果林](https://img.moegirl.org/common/thumb/1/10/Karin_School_Uniform.png/250px-Karin_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/朝香果林) |
-| ai miyashita | 宫下爱 | 所属团体 虹咲学园学园偶像同好会 <br> ![宫下爱](https://img.moegirl.org/common/thumb/e/e7/Ai_School_Uniform.png/250px-Ai_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/宫下爱) |
-| kanata konoe | 近江彼方 | 所属团体 虹咲学园学园偶像同好会 <br> ![近江彼方](https://img.moegirl.org/common/thumb/c/cd/KonoeKanata.jpg/250px-KonoeKanata.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/近江彼方) |
-| setsuna yuki | 优木雪菜 | 所属团体 虹咲学园学园偶像同好会 <br> ![优木雪菜](https://img.moegirl.org/common/thumb/8/8a/Setsuna_School_Uniform.png/250px-Setsuna_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/优木雪菜) |
-| emma verde | 艾玛·维尔德 | 所属团体 虹咲学园学园偶像同好会 <br> ![艾玛·维尔德](https://img.moegirl.org/common/thumb/0/02/Emma.jpg/250px-Emma.jpg) <br> 注：其在台湾地区的官方译名为“艾瑪·薇蒂”。由于该数据库提供的是简体中文数据，此处以中国大陆地区所使用的译名为准。 | [萌娘百科](https://zh.moegirl.org/zh-hans/艾玛·维尔德) |
-| rina tennoji | 天王寺璃奈 | 所属团体 虹咲学园学园偶像同好会 <br> ![天王寺璃奈](https://img.moegirl.org/common/thumb/5/50/Rina_School_Uniform.png/250px-Rina_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/天王寺璃奈) |
+| kotori minami | 南小鸟 | 所属团体 μ's<br>![南小鸟](https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/南小鸟) |
+| umi sonoda | 园田海未 | 所属团体 μ's<br>![园田海未](https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/园田海未) |
+| rin hoshizora | 星空凛 | 所属团体 μ's<br>![星空凛](https://img.moegirl.org/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/星空凛) |
+| maki nishikino | 西木野真姬 | 所属团体 μ's<br>![西木野真姬](https://img.acg.moe/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/西木野真姬) |
+| nozomi tojo | 东条希 | 所属团体 μ's<br>![东条希](https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/东条希) |
+| hanayo koizumi | 小泉花阳 | 所属团体 μ's<br>![小泉花阳](https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/小泉花阳) |
+| nico yazawa | 矢泽妮可 | 所属团体 μ's<br>![矢泽妮可](https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/矢泽妮可) |
+| tsubasa kira | 绮罗翼 | 所属团体 A-RISE<br>![绮罗翼](https://img.acg.moe/common/thumb/e/e0/Lovelive_Tsubasa.jpg/250px-Lovelive_Tsubasa.jpg)![图](# "https://ehgt.org/67/bc/67bc6b8776a85c87fabd94344c8f5b4ef36bbea1-511619-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/绮罗翼) |
+| erena toudou | 统堂英玲奈 | 所属团体 A-RISE<br>![统堂英玲奈](https://img.acg.moe/common/thumb/0/08/Lovelive_Toutou_Elina.jpg/250px-Lovelive_Toutou_Elina.jpg)![图](# "https://ehgt.org/92/11/9211c43476d6a468d10cad3fbd59ed0113eaf3b6-510324-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/统堂英玲奈) |
+| anju yuuki | 优木杏树 | 所属团体 A-RISE<br>![优木杏树](https://img.acg.moe/common/thumb/b/b6/Lovelive_Yuki_Anjyu.jpg/250px-Lovelive_Yuki_Anjyu.jpg)![图](# "https://ehgt.org/4d/2d/4d2d214d42ef7c4c4f8fb78de1931429fbce86e8-605508-900-1200-jpg_l.jpg")![图](# "https://ehgt.org/bc/09/bc092ee86d351d82f3aa07c076699e09293c3e49-130208-1032-1457-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/优木杏树) |
+| chika takami | 高海千歌 | 所属团体 Aqours<br>![高海千歌](https://img.acg.moe/common/thumb/5/5e/Takami_Chika.png/250px-Takami_Chika.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高海千歌) |
+| riko sakurauchi | 樱内梨子 | 所属团体 Aqours<br>![樱内梨子](https://img.acg.moe/common/thumb/f/f2/Sakurauchi_Riko.png/250px-Sakurauchi_Riko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/樱内梨子) |
+| kanan matsuura | 松浦果南 | 所属团体 Aqours<br>![松浦果南](https://img.acg.moe/common/thumb/e/e1/Matsuura_Kanan.png/250px-Matsuura_Kanan.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/松浦果南) |
+| dia kurosawa | 黑泽黛雅 | 所属团体 Aqours<br>![黑泽黛雅](https://img.acg.moe/common/thumb/2/24/Kurosawa_Dia.png/250px-Kurosawa_Dia.png)![图](# "https://ehgt.org/e0/f3/e0f3f2b81c1cf252fa80a4092b0aa9c94b7bfa0b-3197381-1825-2560-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽黛雅) |
+| you watanabe | 渡边曜 | 所属团体 Aqours<br>![渡边曜](https://img.acg.moe/common/thumb/a/a2/Watanabe_You.png/250px-Watanabe_You.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/渡边曜) |
+| yoshiko tsushima | 津岛善子 | 所属团体 Aqours<br>![津岛善子](https://img.acg.moe/common/thumb/1/18/Tsushima_Yoshiko.png/250px-Tsushima_Yoshiko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/津岛善子) |
+| hanamaru kunikida | 国木田花丸 | 所属团体 Aqours<br>![国木田花丸](https://img.acg.moe/common/thumb/a/ac/Kunikida_Hanamaru.png/250px-Kunikida_Hanamaru.png)![图](# "https://ehgt.org/dc/7f/dc7fe335c8ab499a93106c6752662102815d3f8f-915237-1434-2024-jpg_l.jpg") ![图](# "https://ehgt.org/b4/ed/b4ed50f40fe30c01208f61167bd1b73941223928-150550-1052-1494-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/国木田花丸) |
+| mari ohara | 小原鞠莉 | 所属团体 Aqours<br>![小原鞠莉](https://img.moegirl.org/common/thumb/3/3c/Ohara_Mari.png/250px-Ohara_Mari.png) ![图](# "https://ehgt.org/2a/c9/2ac97c7e6644760e9238338d486350285b4ba276-912121-1680-2391-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/小原鞠莉) |
+| ruby kurosawa | 黑泽露比 | 所属团体 Aqours<br>![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽露比) |
+| seira kazuno | 鹿角圣良 | 所属团体 Saint Snow<br>![鹿角圣良](https://img.moegirl.org/common/thumb/8/81/%E9%B9%BF%E8%A7%92%E8%81%96%E8%89%AF.png/250px-%E9%B9%BF%E8%A7%92%E8%81%96%E8%89%AF.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/鹿角圣良) |
+| ria kazuno | 鹿角理亚 | 所属团体 Saint Snow<br>![鹿角理亚](https://img.moegirl.org/common/thumb/c/c2/%E9%B9%BF%E8%A7%92%E7%90%86%E4%BA%9A.png/250px-%E9%B9%BF%E8%A7%92%E7%90%86%E4%BA%9A.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/鹿角理亚) |
+| ayumu uehara | 上原步梦 | 所属团体 虹咲学园学园偶像同好会<br>![上原步梦](https://img.moegirl.org/common/thumb/2/25/Ayumu_School_Uniform.png/250px-Ayumu_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/上原步梦) |
+| kasumi nakasu | 中须霞 | 所属团体 虹咲学园学园偶像同好会<br>![中须霞](https://img.moegirl.org/common/thumb/0/02/Kasumi_School_Uniform.png/250px-Kasumi_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/中须霞) |
+| shizuku osaka | 樱坂雫 | 所属团体 虹咲学园学园偶像同好会<br>![樱坂雫](https://img.moegirl.org/common/thumb/4/44/OsakaShizuku.jpg/250px-OsakaShizuku.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/樱坂雫) |
+| karin asaka | 朝香果林 | 所属团体 虹咲学园学园偶像同好会<br>![朝香果林](https://img.moegirl.org/common/thumb/1/10/Karin_School_Uniform.png/250px-Karin_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/朝香果林) |
+| ai miyashita | 宫下爱 | 所属团体 虹咲学园学园偶像同好会<br>![宫下爱](https://img.moegirl.org/common/thumb/e/e7/Ai_School_Uniform.png/250px-Ai_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/宫下爱) |
+| kanata konoe | 近江彼方 | 所属团体 虹咲学园学园偶像同好会<br>![近江彼方](https://img.moegirl.org/common/thumb/c/cd/KonoeKanata.jpg/250px-KonoeKanata.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/近江彼方) |
+| setsuna yuki | 优木雪菜 | 所属团体 虹咲学园学园偶像同好会<br>![优木雪菜](https://img.moegirl.org/common/thumb/8/8a/Setsuna_School_Uniform.png/250px-Setsuna_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/优木雪菜) |
+| emma verde | 艾玛·维尔德 | 所属团体 虹咲学园学园偶像同好会<br>![艾玛·维尔德](https://img.moegirl.org/common/thumb/0/02/Emma.jpg/250px-Emma.jpg)<br>注：其在台湾地区的官方译名为“艾瑪·薇蒂”。由于该数据库提供的是简体中文数据，此处以中国大陆地区所使用的译名为准。 | [萌娘百科](https://zh.moegirl.org/zh-hans/艾玛·维尔德) |
+| rina tennoji | 天王寺璃奈 | 所属团体 虹咲学园学园偶像同好会<br>![天王寺璃奈](https://img.moegirl.org/common/thumb/5/50/Rina_School_Uniform.png/250px-Rina_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/天王寺璃奈) |
+=======
+| honoka kosaka | 高坂穗乃果 | 所属团体 μ's<br>![高坂穗乃果](https://img.moegirl.org/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂穗乃果) |
+| yukiho kousaka | 高坂雪穗 | ![高坂雪穗](https://img.moegirl.org/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂雪穗) |
+| eli ayase | 绚濑绘里 | 所属团体 μ's<br>![绚濑绘里](https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑绘里) |
+| arisa ayase | 绚濑亚里沙 | ![绚濑亚里沙](https://img.moegirl.org/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑亚里沙) |
+| kotori minami | 南小鸟 | 所属团体 μ's<br>![南小鸟](https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/南小鸟) |
+| umi sonoda | 园田海未 | 所属团体 μ's<br>![园田海未](https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/园田海未) |
+| rin hoshizora | 星空凛 | 所属团体 μ's<br>![星空凛](https://img.moegirl.org/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/星空凛) |
+| maki nishikino | 西木野真姬 | 所属团体 μ's<br>![西木野真姬](https://img.acg.moe/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/西木野真姬) |
+| nozomi tojo | 东条希 | 所属团体 μ's<br>![东条希](https://img.acg.moe/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/东条希) |
+| hanayo koizumi | 小泉花阳 | 所属团体 μ's<br>![小泉花阳](https://img.acg.moe/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/小泉花阳) |
+| nico yazawa | 矢泽妮可 | 所属团体 μ's<br>![矢泽妮可](https://img.acg.moe/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/矢泽妮可) |
+| tsubasa kira | 绮罗翼 | 所属团体 A-RISE<br>![绮罗翼](https://img.acg.moe/common/thumb/e/e0/Lovelive_Tsubasa.jpg/250px-Lovelive_Tsubasa.jpg)![图](# "https://ehgt.org/67/bc/67bc6b8776a85c87fabd94344c8f5b4ef36bbea1-511619-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/绮罗翼) |
+| erena toudou | 统堂英玲奈 | 所属团体 A-RISE<br>![统堂英玲奈](https://img.acg.moe/common/thumb/0/08/Lovelive_Toutou_Elina.jpg/250px-Lovelive_Toutou_Elina.jpg)![图](# "https://ehgt.org/92/11/9211c43476d6a468d10cad3fbd59ed0113eaf3b6-510324-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/统堂英玲奈) |
+| anju yuuki | 优木杏树 | 所属团体 A-RISE<br>![优木杏树](https://img.acg.moe/common/thumb/b/b6/Lovelive_Yuki_Anjyu.jpg/250px-Lovelive_Yuki_Anjyu.jpg)![图](# "https://ehgt.org/4d/2d/4d2d214d42ef7c4c4f8fb78de1931429fbce86e8-605508-900-1200-jpg_l.jpg")![图](# "https://ehgt.org/bc/09/bc092ee86d351d82f3aa07c076699e09293c3e49-130208-1032-1457-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/优木杏树) |
+| chika takami | 高海千歌 | 所属团体 Aqours<br>![高海千歌](https://img.acg.moe/common/thumb/5/5e/Takami_Chika.png/250px-Takami_Chika.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高海千歌) |
+| riko sakurauchi | 樱内梨子 | 所属团体 Aqours<br>![樱内梨子](https://img.acg.moe/common/thumb/f/f2/Sakurauchi_Riko.png/250px-Sakurauchi_Riko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/樱内梨子) |
+| kanan matsuura | 松浦果南 | 所属团体 Aqours<br>![松浦果南](https://img.acg.moe/common/thumb/e/e1/Matsuura_Kanan.png/250px-Matsuura_Kanan.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/松浦果南) |
+| dia kurosawa | 黑泽黛雅 | 所属团体 Aqours<br>![黑泽黛雅](https://img.acg.moe/common/thumb/2/24/Kurosawa_Dia.png/250px-Kurosawa_Dia.png)![图](# "https://ehgt.org/e0/f3/e0f3f2b81c1cf252fa80a4092b0aa9c94b7bfa0b-3197381-1825-2560-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽黛雅) |
+| you watanabe | 渡边曜 | 所属团体 Aqours<br>![渡边曜](https://img.acg.moe/common/thumb/a/a2/Watanabe_You.png/250px-Watanabe_You.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/渡边曜) |
+| yoshiko tsushima | 津岛善子 | 所属团体 Aqours<br>![津岛善子](https://img.acg.moe/common/thumb/1/18/Tsushima_Yoshiko.png/250px-Tsushima_Yoshiko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/津岛善子) |
+| hanamaru kunikida | 国木田花丸 | 所属团体 Aqours<br>![国木田花丸](https://img.acg.moe/common/thumb/a/ac/Kunikida_Hanamaru.png/250px-Kunikida_Hanamaru.png)![图](# "https://ehgt.org/dc/7f/dc7fe335c8ab499a93106c6752662102815d3f8f-915237-1434-2024-jpg_l.jpg") ![图](# "https://ehgt.org/b4/ed/b4ed50f40fe30c01208f61167bd1b73941223928-150550-1052-1494-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/国木田花丸) |
+| mari ohara | 小原鞠莉 | 所属团体 Aqours<br>![小原鞠莉](https://img.moegirl.org/common/thumb/3/3c/Ohara_Mari.png/250px-Ohara_Mari.png) ![图](# "https://ehgt.org/2a/c9/2ac97c7e6644760e9238338d486350285b4ba276-912121-1680-2391-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/小原鞠莉) |
+| ruby kurosawa | 黑泽露比 | 所属团体 Aqours<br>![黑泽露比](https://img.acg.moe/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽露比) |
+| seira kazuno | 鹿角圣良 | 所属团体 Saint Snow<br>![鹿角圣良](https://img.moegirl.org/common/thumb/8/81/鹿角聖良.png/250px-鹿角聖良.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/鹿角圣良) |
+| ria kazuno | 鹿角理亚 | 所属团体 Saint Snow<br>![鹿角理亚](https://img.moegirl.org/common/thumb/c/c2/鹿角理亚.png/250px-鹿角理亚.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/鹿角理亚) |
+| ayumu uehara | 上原步梦 | 所属团体 虹咲学园学园偶像同好会<br>![上原步梦](https://img.moegirl.org/common/thumb/2/25/Ayumu_School_Uniform.png/250px-Ayumu_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/上原步梦) |
+| kasumi nakasu | 中须霞 | 所属团体 虹咲学园学园偶像同好会<br>![中须霞](https://img.moegirl.org/common/thumb/0/02/Kasumi_School_Uniform.png/250px-Kasumi_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/中须霞) |
+| shizuku osaka | 樱坂雫 | 所属团体 虹咲学园学园偶像同好会<br>![樱坂雫](https://img.moegirl.org/common/thumb/4/44/OsakaShizuku.jpg/250px-OsakaShizuku.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/樱坂雫) |
+| karin asaka | 朝香果林 | 所属团体 虹咲学园学园偶像同好会<br>![朝香果林](https://img.moegirl.org/common/thumb/1/10/Karin_School_Uniform.png/250px-Karin_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/朝香果林) |
+| ai miyashita | 宫下爱 | 所属团体 虹咲学园学园偶像同好会<br>![宫下爱](https://img.moegirl.org/common/thumb/e/e7/Ai_School_Uniform.png/250px-Ai_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/宫下爱) |
+| kanata konoe | 近江彼方 | 所属团体 虹咲学园学园偶像同好会<br>![近江彼方](https://img.moegirl.org/common/thumb/c/cd/KonoeKanata.jpg/250px-KonoeKanata.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/近江彼方) |
+| setsuna yuki | 优木雪菜 | 所属团体 虹咲学园学园偶像同好会<br>![优木雪菜](https://img.moegirl.org/common/thumb/8/8a/Setsuna_School_Uniform.png/250px-Setsuna_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/优木雪菜) |
+| emma verde | 艾玛·维尔德 | 所属团体 虹咲学园学园偶像同好会<br>![艾玛·维尔德](https://img.moegirl.org/common/thumb/0/02/Emma.jpg/250px-Emma.jpg)<br>注：其在台湾地区的官方译名为“艾瑪·薇蒂”。由于该数据库提供的是简体中文数据，此处以中国大陆地区所使用的译名为准。 | [萌娘百科](https://zh.moegirl.org/zh-hans/艾玛·维尔德) |
+| rina tennoji | 天王寺璃奈 | 所属团体 虹咲学园学园偶像同好会<br>![天王寺璃奈](https://img.moegirl.org/common/thumb/5/50/Rina_School_Uniform.png/250px-Rina_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/天王寺璃奈) |
+>>>>>>> upstream/master
 |  | ▲ Love Live 人物 |  |  |
 |  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有**200+**个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/天羽剑提督.png/250px-天羽剑提督.png") |  |
@@ -2312,6 +2349,7 @@ example:
 | mitsuki sonoda | 园田美月 |  |  |
 | kotone noda | 野田琴音 |  |  |
 |  | ▼ bang dream |  |  |
+<<<<<<< HEAD
 | kasumi toyama | 户山香澄 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的主唱 <br> ![户山香澄](https://commons.moegirl.org/thumb.php?f=Img_toyama-kasumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%88%B7%E5%B1%B1%E9%A6%99%E6%BE%84) |
 | tae hanazono | 花园多惠 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的吉他手 <br> ![花园多惠](https://commons.moegirl.org/thumb.php?f=Img_hanazono-tae_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E8%8A%B1%E5%9B%AD%E5%A4%9A%E6%83%A0) |
 | rimi ushigome | 牛込里美 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的贝斯手 <br> ![牛込里美](https://commons.moegirl.org/thumb.php?f=Img_ushigome-rimi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E7%89%9B%E8%BE%BC%E9%87%8C%E7%BE%8E) |
@@ -2337,6 +2375,33 @@ example:
 |  | 北泽育美 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的贝斯手 <br> ![北泽育美](https://commons.moegirl.org/thumb.php?f=Img_kitazawa-hagumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%8C%97%E6%B3%BD%E8%82%B2%E7%BE%8E) |
 | kanon matsubara | 松原花音 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的鼓手 <br> ![松原花音](https://commons.moegirl.org/thumb.php?f=Img_matsubara-kanon_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%9D%BE%E5%8E%9F%E8%8A%B1%E9%9F%B3) |
 | misaki okusawa | 奥泽美咲 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的DJ <br> ![奥泽美咲](https://img.moegirl.org/common/thumb/9/92/Msk201912.jpg/150px-Msk201912.jpg) | [萌娘百科](https://zh.moegirl.org/%E5%A5%A5%E6%B3%BD%E7%BE%8E%E5%92%B2) |
+=======
+| kasumi toyama | 户山香澄 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的主唱<br>![户山香澄](https://commons.moegirl.org/thumb.php?f=Img_toyama-kasumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/户山香澄) |
+| tae hanazono | 花园多惠 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的吉他手<br>![花园多惠](https://commons.moegirl.org/thumb.php?f=Img_hanazono-tae_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/花园多惠) |
+| rimi ushigome | 牛込里美 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的贝斯手<br>![牛込里美](https://commons.moegirl.org/thumb.php?f=Img_ushigome-rimi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/牛込里美) |
+| saaya yamabuki | 山吹沙绫 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的鼓手<br>![山吹沙绫](https://commons.moegirl.org/thumb.php?f=Img_yamabuki-saya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/山吹沙绫%28BanG_Dream!%29) |
+| arisa ichigaya | 市谷有咲 | [Poppin'Party](https://zh.moegirl.org/Poppin%27Party)的键盘手<br>![市谷有咲](https://commons.moegirl.org/thumb.php?f=Img_ichigaya-arisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/市谷有咲) |
+| yukina minato | 凑友希那 | [Roselia](https://zh.moegirl.org/Roselia)的主唱<br>![凑友希那](https://commons.moegirl.org/thumb.php?f=Img_minato-yukina_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/凑友希那) |
+| sayo hikawa | 冰川纱夜 | [Roselia](https://zh.moegirl.org/Roselia)的吉他手<br>![冰川纱夜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-sayo_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/冰川纱夜) |
+| lisa imai | 今井莉莎 | [Roselia](https://zh.moegirl.org/Roselia)的贝斯手<br>![今井莉莎](https://commons.moegirl.org/thumb.php?f=Img_imai-lisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/今井莉莎) |
+| ako udagawa | 宇田川亚子 | [Roselia](https://zh.moegirl.org/Roselia)的鼓手<br>![宇田川亚子](https://commons.moegirl.org/thumb.php?f=Img_udagawa-ako_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/宇田川亚子) |
+| rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org/Roselia)的键盘手<br>![白金燐子](https://commons.moegirl.org/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白金燐子) |
+| ran mitake | 美竹兰 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的主唱<br>![美竹兰](https://commons.moegirl.org/thumb.php?f=Img_mitake-ran_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/zh-cn/美竹兰) |
+| moca aoba | 青叶摩卡 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的吉他手<br>![青叶摩卡](https://commons.moegirl.org/thumb.php?f=Img_aoba-moca_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/青叶摩卡) |
+| himari uehara | 上原绯玛丽 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的贝斯手<br>![上原绯玛丽](https://commons.moegirl.org/thumb.php?f=Img_uehara-himari_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/上原绯玛丽) |
+| tomoe udagawa | 宇田川巴 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的鼓手<br>![宇田川巴](https://commons.moegirl.org/thumb.php?f=Img_udagawa-tomoe_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/宇田川巴) |
+| tsugumi hazawa | 羽泽鸫 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的键盘手<br>![羽泽鸫](https://commons.moegirl.org/thumb.php?f=Img_hazawa-tsugumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/羽泽鸫) |
+| aya maruyama | 丸山彩 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的主唱<br>![丸山彩](https://commons.moegirl.org/thumb.php?f=Img_maruyama-aya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/丸山彩) |
+| hina hikawa | 冰川日菜 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的吉他手<br>![冰川日菜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-hina_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/冰川日菜) |
+| chisato shirasagi | 白鹭千圣 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的贝斯手<br>![白鹭千圣](https://commons.moegirl.org/thumb.php?f=Img_shirasagi-chisato_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白鹭千圣) |
+|  | 大和麻弥 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的鼓手<br>![大和麻弥](https://commons.moegirl.org/thumb.php?f=Img_yamato-maya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/大和麻弥) |
+| eve wakamiya | 若宫伊芙 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的键盘手<br>![若宫伊芙](https://commons.moegirl.org/thumb.php?f=Img_wakamiya-eve_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/若宫伊芙) |
+| kokoro tsurumaki | 弦卷心 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的主唱<br>![弦卷心](https://commons.moegirl.org/thumb.php?f=Img_tsurumaki-kokoro_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/弦卷心) |
+| kaoru seta | 濑田薰 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的吉他手<br>![濑田薰](https://commons.moegirl.org/thumb.php?f=Img_seta-kaoru_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/濑田薰) |
+|  | 北泽育美 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的贝斯手<br>![北泽育美](https://commons.moegirl.org/thumb.php?f=Img_kitazawa-hagumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/北泽育美) |
+| kanon matsubata | 松原花音 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的鼓手<br>![松原花音](https://commons.moegirl.org/thumb.php?f=Img_matsubara-kanon_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/松原花音) |
+| misaki okusawa | 奥泽美咲 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的DJ<br>![奥泽美咲](https://img.moegirl.org/common/thumb/9/92/Msk201912.jpg/150px-Msk201912.jpg) | [萌娘百科](https://zh.moegirl.org/奥泽美咲) |
+>>>>>>> upstream/master
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
 | akane sakurai | 樱井明音 |  |  |
@@ -2934,6 +2999,17 @@ example:
 | mafuyu kirisu | 桐须真冬 |  |  |
 | nariyuki yuiga | 唯我成幸 |  |  |
 | alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《刀剑神域》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/爱丽丝·滋贝鲁库) |
+<<<<<<< HEAD
+=======
+| nekomata okayu | 猫又小粥 |  |  |
+| haruhiro | 哈尔希洛 |  |  |
+| yume | 梦儿 |  |  |
+| shihoru | 席赫露 |  |  |
+| ranta | 蓝德 |  |  |
+| moguzo | 莫古索 |  |  |
+| merry | 梅莉 |  |  |
+| tamamo cat | 玉藻猫 |  |  |
+>>>>>>> upstream/master
 
 <!--TEMPLATE: 
 |  |  |  |  |

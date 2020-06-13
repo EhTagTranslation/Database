@@ -23,7 +23,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---------------------- | ---------------------------------------- | ---- |
 |  | ▼示例 |  |  |
-| pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>萌单作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | [Twitter](https://twitter.com/popemw) |
+| pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>`moetan`作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | [Twitter](https://twitter.com/popemw) |
 | oouso | 大嘘 | ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gy1fjkes482gzj204q04qmxx.jpg)<br>袜控，尻控，女子高中生(误)画家。<br>![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) | [Twitter](https://twitter.com/u_s_o) [pixiv](https://www.pixiv.net/users/457541) |
 | peko | ぺこ（かにビーム） | ![peko头像](http://ww3.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](https://ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) | [pixiv](https://www.pixiv.net/users/3439325) |
 | akaza | あかざ | ![akaza头像](http://ww1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>Akaza，袜控，腿型很美<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/601089) |
@@ -649,7 +649,7 @@ example:
 | ashimoto yoika | あしもと☆よいか |  |  |
 | awaji himeji | あわじひめじ |  |  |
 | itou | いトう |  |  |
-| usashiro mani | うさ城まに |  |  |
+| usashiro mani | うさ城まに |  | [Twitter](https://twitter.com/mayumani2) [pixiv](https://www.pixiv.net/users/7367) |
 | ookami uo | オオカミうお |  |  |
 | kawady max | カワディMAX |  |  |
 | kimio tamako | きみおたまこ |  |  |
@@ -2680,6 +2680,12 @@ example:
 | asanoha | 麻の葉 |  | [pixiv](https://www.pixiv.net/users/200246) [Twitter](https://twitter.com/_asanoha) |
 | sasaki akira | ささきあきら |  | [pixiv](https://www.pixiv.net/users/228427) [Twitter](https://twitter.com/ugcsasaki) |
 | asahina hikage | アサヒナヒカゲ |  | [pixiv](https://www.pixiv.net/users/3304829) [Twitter](https://twitter.com/akpngn_HA) |
+| piyodera mucha | ぴよ寺むちゃ |  | [Twitter](https://twitter.com/nyakocha) [pixiv](https://www.pixiv.net/users/24838) |
+| daichi | 矢座だいち |  |  |
+| ramchi | らむち |  | [pixiv](https://www.pixiv.net/users/24359642) [Twitter](https://twitter.com/RamchiPixiv) |
+| mignon | mignon |  | [pixiv](https://www.pixiv.net/users/24234) [Twitter](https://twitter.com/mignon) |
+| natsuki marina | 夏月まりな |  | [pixiv](https://www.pixiv.net/users/482462) [Twitter](https://twitter.com/marinauryu) |
+| watanon | わたのん |  | [pixiv](https://www.pixiv.net/users/1202103) [Twitter](https://twitter.com/watanohara2) |
 
 
 <!--TEMPLATE: 
