@@ -2335,7 +2335,7 @@ example:
 | kokoro tsurumaki | 弦卷心 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的主唱 <br> ![弦卷心](https://commons.moegirl.org/thumb.php?f=Img_tsurumaki-kokoro_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%BC%A6%E5%8D%B7%E5%BF%83) |
 | kaoru seta | 濑田薰 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的吉他手 <br> ![濑田薰](https://commons.moegirl.org/thumb.php?f=Img_seta-kaoru_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%BF%91%E7%94%B0%E8%96%B0) |
 |  | 北泽育美 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的贝斯手 <br> ![北泽育美](https://commons.moegirl.org/thumb.php?f=Img_kitazawa-hagumi_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E5%8C%97%E6%B3%BD%E8%82%B2%E7%BE%8E) |
-| kanon matsubata | 松原花音 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的鼓手 <br> ![松原花音](https://commons.moegirl.org/thumb.php?f=Img_matsubara-kanon_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%9D%BE%E5%8E%9F%E8%8A%B1%E9%9F%B3) |
+| kanon matsubara | 松原花音 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的鼓手 <br> ![松原花音](https://commons.moegirl.org/thumb.php?f=Img_matsubara-kanon_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/%E6%9D%BE%E5%8E%9F%E8%8A%B1%E9%9F%B3) |
 | misaki okusawa | 奥泽美咲 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的DJ <br> ![奥泽美咲](https://img.moegirl.org/common/thumb/9/92/Msk201912.jpg/150px-Msk201912.jpg) | [萌娘百科](https://zh.moegirl.org/%E5%A5%A5%E6%B3%BD%E7%BE%8E%E5%92%B2) |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
