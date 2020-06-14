@@ -2689,6 +2689,7 @@ example:
 | amami mikihiro | 甘味みきひろ |  | [pixiv](https://www.pixiv.net/users/12348) [Twitter](https://twitter.com/amami_mikihiro) |
 | mikage | 未影 |  | [pixiv](https://www.pixiv.net/users/140701) [Twitter](https://twitter.com/mikage81) |
 | mk | MK |  | [pixiv](https://www.pixiv.net/users/64048) [Twitter](https://twitter.com/MK_mod0) |
+| aria. | ありあ。 |  | [pixiv](https://www.pixiv.net/users/781292) [Twitter](https://twitter.com/koiiroharemoyou) |
 
 
 <!--TEMPLATE: 
