@@ -45,7 +45,7 @@ example:
 | inflation | 腹部膨胀 | 腹部向外膨胀得像个气球，常由填充气体、`tentacles`、`eggs`、液体，或者由`vore`和`unbirth`行为导致。<br>![膨胀](# "https://ehgt.org/b5/75/b575b17c1f45c21e5aa5c3f9ce7c0e058c43e941-169810-627-885-jpg_l.jpg")![病](# "https://ehgt.org/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_250.jpg") |  |
 | invisible | 透明 | 一个透明人参与了性行为。 |  |
 | multiple arms | 多臂 | 一个人拥有两条以上的手臂。 |  |
-| multiple breasts | 多对乳房 | 一个人拥有两个以上的乳房。 |  |
+| multiple breasts | 多乳房 | 一个人拥有两个以上的乳房。 |  |
 | muscle | 肌肉 | 肌肉发达的角色。<br>![例](https://ehgt.org/b6/95/b695742563ba01d5cabcc8224125b0714fd1656b-330115-1097-1920-jpg_250.jpg) |  |
 | muscle growth | 肌肉成长 | 肌肉产生或变大。 |  |
 | shapening | 平面化 | 参与者弄平，融化或以其他方式变为几何形状（例如球形或立方体）。不要与`body modification`相混淆。 |  |
@@ -165,14 +165,14 @@ example:
 | tall girl | 高个女 | 高个的女性，至少比其他角色高一个头。不应对`giantess`添加该标签。不在其他角色为`shotacon`、`lolicon`、`minigirl`、`miniguy`或`midget`时对普通体型女性使用。 |  |
 |  | === 身体 > 皮肤 === |  |  |
 | albino | 白化 | 红眼和颜色极浅的皮肤。 |  |
-| body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“RBQ”等贬义词语。不应与`body painting`混淆。<br>![图](# "https://ehgt.org/83/29/83298e7215cb2ca5e4d7d312385a355796e32c1d-252581-567-800-jpg_l.jpg") |  |
+| body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“肉便器”等贬义词语。不应与`body painting`混淆。<br>![图](# "https://ehgt.org/83/29/83298e7215cb2ca5e4d7d312385a355796e32c1d-252581-567-800-jpg_l.jpg") |  |
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与`body writing`混淆。<br>![图](# "https://ehgt.org/0a/43/0a43c6624ee32e6e35ec85639dea712e8dc5eced-2619393-1812-2560-jpg_l.jpg")![图](# "https://ehgt.org/2c/e1/2ce1e69969b7d80d47a3bc1e071bbe87ed1fcd85-576865-1120-1600-jpg_l.jpg")![图](# "https://ehgt.org/01/3b/013bf3f6b731ef04cfa72b30e8708e887e5240d7-9015914-2124-2900-png_l.jpg") |  |
 | dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与`tanlines`混淆。<br>![图](# "https://ehgt.org/92/76/927631cd39fcd83a4009307daedf7f6f11ac6570-4933769-2450-3510-jpg_l.jpg") |  |
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 |  |
 | large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与`crotch tattoo`混淆。 |  |
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |  |
-| skinsuit | 皮物 | 穿着另一个人的皮，并成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与`bodysuit`或`kigurumi`相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
+| skinsuit | 人皮衣 | 穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与`bodysuit`或`kigurumi`相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与`dark skin`混淆。<br>![图](# "https://ehgt.org/d6/a8/d6a86a4e2a3d78d869d1f7da6a80e9ab3bf4d319-1264624-1200-1600-jpg_l.jpg") |  |
 |  | === 身体 > 体重 === |  |  |
 | anorexic | 瘦骨嶙峋 | 体重过轻，以至于皮肤凹陷、骨骼结构可见。 |  |
