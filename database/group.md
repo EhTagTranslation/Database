@@ -1721,6 +1721,7 @@ example:
 | amamiya | 甘味屋 |  |  |
 | curry berg dish | カリーバーグディッシュ |  |  |
 | tamanegiya | 玉葱屋 |  |  |
+| casis-kabosu | カシスかぼす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
