@@ -50,7 +50,7 @@ jobs:
     - name: Commit release branch
       run: > 
         cd ./publish
-        && (echo '${{ github.sha }}' > ./sha)
+        && (printf '${{ github.sha }}' > ./sha)
         && git init
         && git add .
         && git commit -am 'Release for ${{ github.sha }}'
