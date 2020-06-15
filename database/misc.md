@@ -40,9 +40,9 @@ example:
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | frottage | 阴茎摩擦 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
 |  | == 多人活动 == |  |  |
-| ffm threesome | 女男女 | ♀♂♀，2 女 1 男 3P。需要`group`标签。 |  |
+| ffm threesome | 嫐 | ♀♂♀，2 女 1 男 3P。需要`group`标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
-| mmf threesome | 男女男 | ♂♀♂，2 男 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
+| mmf threesome | 嬲 | ♂♀♂，2 男 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
 | mmt threesome | 男扶男 | ♂⚥♂，2 男 1 扶 3P。需要`group`标签。不算`yaoi`。 |  |
 | mtf threesome | 男扶女 | ♂⚥♀，1 男 1 扶 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
 | oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
@@ -59,9 +59,9 @@ example:
 | animated | 动图 | 包含 GIF 动图的画廊。 |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。`incomplete`的选集和`artbook`不算在内。 |  |
 | artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于`incomplete`的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
-| comic | 连环漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
+| comic | 漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
-| full color | 全彩色 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
+| full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是`animated`。 |  |
 | how to | 教程 | 关于如何绘画或设计的教学图像。 |  |
 | multi-work series | 系列作品 | 一个完整的作品，其故事跨多册书籍或发行版。不应与`story arc`混淆。 |  |
@@ -76,17 +76,17 @@ example:
 | tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 |  |
 | themeless | 无主题 | 没有特定主题或关注点的画廊。 |  |
 | variant set | 变体集 | 从静态角度仅描绘单一场景的画廊。 |  |
-| webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及行动装置而设的漫画。 |  |
-| western cg | 西方CG集 | 用于`western`类别的`artistcg`或`gamecg`。不包含`3d`作品。仅适用于`western`类别。类别标签候选。 |  |
+| webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及移动设备而设的漫画。 |  |
+| western cg | 西方CG | 用于`western`类别的`artistcg`或`gamecg`。不包含`3d`作品。仅适用于`western`类别。类别标签候选。 |  |
 | western non-h | 西方无H | 用于西方来源的`non-h`画廊。仅适用于`misc`类别。类别标签候选。 |  |
-| western imageset | 西方图片集 | 用于`western`类别的`imageset`。仅适用于`western`类别。类别标签候选。 |  |
+| western imageset | 西方图集 | 用于`western`类别的`imageset`。仅适用于`western`类别。类别标签候选。 |  |
 |  | === 技术 > 修正 === |  |  |
 | uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。不应使用于西部类别的画廊。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 | mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个画廊完整实施。不应用于无H画廊，因为对其进行修正是必须的。不应与`full censorship`混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 | full censorship | 完全修正 | 任何形式的完全修正（全白色或黑色），涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个画廊完整实施。不应用于无H画廊，因为对其进行修正是必须的。不应与`mosaic censorship`混淆。<br>![修正解析图](http://ww4.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 |  | === 技术 > Cosplay === |  |  |
 | hardcore | 硬核 | 明确描述性行为，如插入阴道或`anal`。`blowjob`或`sex toys`不算在内。仅用于 Cosplay 画廊。 |  |
-| non-nude | 无裸体 | 没有展示乳头或性孔的画廊。仅用于 Cosplay 画廊。 |  |
+| non-nude | 无露点 | 没有展示乳头或性器的画廊。仅用于 Cosplay 画廊。 |  |
 |  | === 技术 > 移除原因 === |  |  |
 | already uploaded | 已上传 | 这个画廊是之前发布画廊的相同或较低质量版本。 |  |
 | compilation | 汇编 | 这个该画廊是不允许在一起的作品的汇编。 |  |
@@ -95,11 +95,11 @@ example:
 | replaced | 已替换 | 这个画廊的更高质量的版本已经上传。 |  |
 | watermarked | 水印 | 不应该用于任何具有水印的作品，除非该画廊由于此原因将被立即移除。对于需要被替换的画廊，参见`scanmark`。 |  |
 |  | ==== 技术 > 移除原因 > 半移除 ==== |  |  |
-| incomplete | 缺页 | 不用于还在连载中的作品。 |  |
+| incomplete | 不完整 | 不用于还在连载中的作品。 |  |
 | missing cover | 缺封面 |  |  |
 | out of order | 顺序错乱 | 内容没有按顺序排列。 |  |
 | sample | 样本 | 完整作品的免费分发样品。表明该画廊可以由一个更完整的版本替换（除非是位于 [DNP 列表](https://forums.e-hentai.org/index.php?showtopic=19797)的作品）。 |  |
-| scanmark | 水印 | 由扫描者/译者添加的水印。不用于单张的信息水印。 |  |
+| scanmark | 扫描水印 | 由扫描者/译者添加的水印。不用于单张的信息水印。 |  |
 |  | === 技术 > 语言 === |  |  |
 | caption | 说明文字 | 在不包含文本的图片中添加了文本。常放置于图片外。需要`rewrite`标签。 |  |
 | poor grammar | 渣翻 | 在翻译作品的每 40 页包含 10 个以上的语法或拼写错误。翻译作品中添加的原创文本不计在内。不用于`rewrite`作品。 |  |
