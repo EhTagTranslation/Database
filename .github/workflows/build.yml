@@ -48,12 +48,12 @@ jobs:
         tag: ${{ format('v-{0}', github.sha) }}
         name: ${{ env.RELEASE_NAME }}
     - name: Commit release branch
-      run: >
-        cd ./publish &&
-        (echo '${{ github.sha }}' > sha)
-        git init &&
-        git add . &&
-        git commit -am 'Release for ${{ github.sha }}'
+      run: > 
+        cd ./publish
+        && (echo '${{ github.sha }}' > ./sha)
+        && git init
+        && git add .
+        && git commit -am 'Release for ${{ github.sha }}'
     - name: Push release branch
       uses: ad-m/github-push-action@master
       with:
