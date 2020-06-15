@@ -58,7 +58,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: release
+        branch: releases
         force: true
         directory: ./publish
     - name: Clean releases
