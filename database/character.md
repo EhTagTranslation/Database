@@ -2791,7 +2791,7 @@ example:
 | regu | 雷古 | 勃起卿。出自来自深渊（Made in Abyss) |  |
 | riko | 莉可 | 出自来自深渊（Made in Abyss) |  |
 | minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的虚拟YouTuber，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
-| murasaki shion | 紫咲诗音 | 紫咲 シオン![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
+| murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的VTuber，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
 | tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是hololive所属的虚拟YouTuber。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
 | yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的VTuber，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
 | natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
