@@ -7,7 +7,7 @@ Release 生成工具
 ``` powershell
 Database> ${env:Github:Token} = 'xxx'
 Database> ./tools/EhDbReleaseBuilder/Download-Tool.ps1
-Database> dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll . ./publish
+Database> dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll --source=. --target=./publish
 EhDbReleaseBuilder started.
   Source: .
   Target: ./publish
