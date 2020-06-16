@@ -59,7 +59,7 @@ example:
 | animated | 动图 | 包含 GIF 动图的画廊。 |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。`incomplete`的选集和`artbook`不算在内。 |  |
 | artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于`incomplete`的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
-| comic | 漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
+| comic | 西方漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
 | full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是`animated`。 |  |
@@ -95,7 +95,7 @@ example:
 | replaced | 已替换 | 这个画廊的更高质量的版本已经上传。 |  |
 | watermarked | 水印 | 不应该用于任何具有水印的作品，除非该画廊由于此原因将被立即移除。对于需要被替换的画廊，参见`scanmark`。 |  |
 |  | ==== 技术 > 移除原因 > 半移除 ==== |  |  |
-| incomplete | 不完整 | 不用于还在连载中的作品。 |  |
+| incomplete | 缺页 | 不完整。不用于还在连载中的作品。 |  |
 | missing cover | 缺封面 |  |  |
 | out of order | 顺序错乱 | 内容没有按顺序排列。 |  |
 | sample | 样本 | 完整作品的免费分发样品。表明该画廊可以由一个更完整的版本替换（除非是位于 [DNP 列表](https://forums.e-hentai.org/index.php?showtopic=19797)的作品）。 |  |
