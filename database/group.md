@@ -1722,6 +1722,7 @@ example:
 | curry berg dish | カリーバーグディッシュ |  |  |
 | tamanegiya | 玉葱屋 |  |  |
 | casis-kabosu | カシスかぼす |  |  |
+| studio a | studio A |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
