@@ -2694,6 +2694,7 @@ example:
 | akashi rokuro | 明石六露 |  |  |
 | kuon | 久遠 |  | [pixiv](https://www.pixiv.net/users/1201095) [Twitter](https://twitter.com/showgentei) |
 | miyasu risa | ミヤスリサ |  | [pixiv](https://www.pixiv.net/users/110271) [Twitter](https://twitter.com/Risaly_) |
+| konomi | konomi |  | [pixiv](https://www.pixiv.net/users/171980) [Twitter](https://twitter.com/konominoco) |
 
 
 <!--TEMPLATE: 
