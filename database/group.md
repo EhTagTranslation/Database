@@ -1725,6 +1725,7 @@ example:
 | studio a | studio A |  |  |
 | shougentei | 翔玄亭 |  |  |
 | d.n.a.lab. | D・N・A.Lab. |  |  |
+| kinokonomi | きのこのみ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
