@@ -1723,6 +1723,7 @@ example:
 | tamanegiya | 玉葱屋 |  |  |
 | casis-kabosu | カシスかぼす |  |  |
 | studio a | studio A |  |  |
+| shougentei | 翔玄亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
