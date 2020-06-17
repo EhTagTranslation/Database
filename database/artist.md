@@ -2698,6 +2698,7 @@ example:
 | bokkun | ぼっくん |  | [pixiv](https://www.pixiv.net/users/2370288) [Twitter](https://twitter.com/bokkun168) |
 | ikura nagisa | 伊倉ナギサ |  | [pixiv](https://www.pixiv.net/users/883185) [Twitter](https://twitter.com/nagisaikura) |
 | furukawa odoro | 古河おどろ |  | [pixiv](https://www.pixiv.net/users/581146) [Twitter](https://twitter.com/RE_yomawari) |
+| nishiki chizu | 西木地図 |  | [pixiv](https://www.pixiv.net/users/10043376) [Twitter](https://twitter.com/241map) |
 
 
 <!--TEMPLATE: 
