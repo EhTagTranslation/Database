@@ -1727,6 +1727,7 @@ example:
 | d.n.a.lab. | D・N・A.Lab. |  |  |
 | kinokonomi | きのこのみ |  |  |
 | pigpanpan | PigPanPan |  |  |
+| yomairi sensei | よまいり先生 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
