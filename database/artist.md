@@ -2696,6 +2696,7 @@ example:
 | miyasu risa | ミヤスリサ |  | [pixiv](https://www.pixiv.net/users/110271) [Twitter](https://twitter.com/Risaly_) |
 | konomi | konomi |  | [pixiv](https://www.pixiv.net/users/171980) [Twitter](https://twitter.com/konominoco) |
 | bokkun | ぼっくん |  | [pixiv](https://www.pixiv.net/users/2370288) [Twitter](https://twitter.com/bokkun168) |
+| ikura nagisa | 伊倉ナギサ |  | [pixiv](https://www.pixiv.net/users/883185) [Twitter](https://twitter.com/nagisaikura) |
 
 
 <!--TEMPLATE: 
