@@ -198,9 +198,9 @@ example:
 |  | ▲东方Project 人物 |  |  |
 |  | ▼ Love Live 人物 |  |  |
 | honoka kosaka | 高坂穗乃果 | 所属团体 μ's<br>![高坂穗乃果](https://img.moegirl.org/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂穗乃果) |
-| yukiho kousaka | 高坂雪穗 | ![高坂雪穗](https://img.moegirl.org/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂雪穗) |
+| yukiho kousaka | 高坂雪穗 | 高坂穗乃果的妹妹<br>![高坂雪穗](https://img.moegirl.org/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/高坂雪穗) |
 | eli ayase | 绚濑绘里 | 所属团体 μ's<br>![绚濑绘里](https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑绘里) |
-| arisa ayase | 绚濑亚里沙 | ![绚濑亚里沙](https://img.moegirl.org/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑亚里沙) |
+| arisa ayase | 绚濑亚里沙 | 绚濑绘里的妹妹<br>![绚濑亚里沙](https://img.moegirl.org/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/绚濑亚里沙) |
 | kotori minami | 南小鸟 | 所属团体 μ's<br>![南小鸟](https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/南小鸟) |
 | umi sonoda | 园田海未 | 所属团体 μ's<br>![园田海未](https://img.acg.moe/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/园田海未) |
 | rin hoshizora | 星空凛 | 所属团体 μ's<br>![星空凛](https://img.moegirl.org/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/星空凛) |
@@ -216,6 +216,7 @@ example:
 | kanan matsuura | 松浦果南 | 所属团体 Aqours<br>![松浦果南](https://img.acg.moe/common/thumb/e/e1/Matsuura_Kanan.png/250px-Matsuura_Kanan.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/松浦果南) |
 | dia kurosawa | 黑泽黛雅 | 所属团体 Aqours<br>![黑泽黛雅](https://img.acg.moe/common/thumb/2/24/Kurosawa_Dia.png/250px-Kurosawa_Dia.png)![图](# "https://ehgt.org/e0/f3/e0f3f2b81c1cf252fa80a4092b0aa9c94b7bfa0b-3197381-1825-2560-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/黑泽黛雅) |
 | you watanabe | 渡边曜 | 所属团体 Aqours<br>![渡边曜](https://img.acg.moe/common/thumb/a/a2/Watanabe_You.png/250px-Watanabe_You.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/渡边曜) |
+| tsuki watanabe | 渡边月 | 渡边曜的堂姐<br>![渡边月和渡边曜](https://img.moegirl.org/common/thumb/0/0c/曜和月.jpeg/250px-曜和月.jpeg) | [萌娘百科](https://zh.moegirl.org/zh-hans/渡边月) |
 | yoshiko tsushima | 津岛善子 | 所属团体 Aqours<br>![津岛善子](https://img.acg.moe/common/thumb/1/18/Tsushima_Yoshiko.png/250px-Tsushima_Yoshiko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/津岛善子) |
 | hanamaru kunikida | 国木田花丸 | 所属团体 Aqours<br>![国木田花丸](https://img.acg.moe/common/thumb/a/ac/Kunikida_Hanamaru.png/250px-Kunikida_Hanamaru.png)![图](# "https://ehgt.org/dc/7f/dc7fe335c8ab499a93106c6752662102815d3f8f-915237-1434-2024-jpg_l.jpg") ![图](# "https://ehgt.org/b4/ed/b4ed50f40fe30c01208f61167bd1b73941223928-150550-1052-1494-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/国木田花丸) |
 | mari ohara | 小原鞠莉 | 所属团体 Aqours<br>![小原鞠莉](https://img.moegirl.org/common/thumb/3/3c/Ohara_Mari.png/250px-Ohara_Mari.png) ![图](# "https://ehgt.org/2a/c9/2ac97c7e6644760e9238338d486350285b4ba276-912121-1680-2391-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org/zh-hans/小原鞠莉) |
