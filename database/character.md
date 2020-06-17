@@ -229,6 +229,7 @@ example:
 | karin asaka | 朝香果林 | 所属团体 虹咲学园学园偶像同好会<br>![朝香果林](https://img.moegirl.org/common/thumb/1/10/Karin_School_Uniform.png/250px-Karin_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/朝香果林) |
 | ai miyashita | 宫下爱 | 所属团体 虹咲学园学园偶像同好会<br>![宫下爱](https://img.moegirl.org/common/thumb/e/e7/Ai_School_Uniform.png/250px-Ai_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/宫下爱) |
 | kanata konoe | 近江彼方 | 所属团体 虹咲学园学园偶像同好会<br>![近江彼方](https://img.moegirl.org/common/thumb/c/cd/KonoeKanata.jpg/250px-KonoeKanata.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/近江彼方) |
+| haruka konoe | 近江遥 | 近江彼方的妹妹<br>![近江遥](https://img.moegirl.org/common/thumb/6/69/136456656.png/250px-136456656.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/近江遥) |
 | setsuna yuki | 优木雪菜 | 所属团体 虹咲学园学园偶像同好会<br>![优木雪菜](https://img.moegirl.org/common/thumb/8/8a/Setsuna_School_Uniform.png/250px-Setsuna_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/优木雪菜) |
 | emma verde | 艾玛·维尔德 | 所属团体 虹咲学园学园偶像同好会<br>![艾玛·维尔德](https://img.moegirl.org/common/thumb/0/02/Emma.jpg/250px-Emma.jpg)<br>注：其在台湾地区的官方译名为“艾瑪·薇蒂”。由于该数据库提供的是简体中文数据，此处以中国大陆地区所使用的译名为准。 | [萌娘百科](https://zh.moegirl.org/zh-hans/艾玛·维尔德) |
 | rina tennoji | 天王寺璃奈 | 所属团体 虹咲学园学园偶像同好会<br>![天王寺璃奈](https://img.moegirl.org/common/thumb/5/50/Rina_School_Uniform.png/250px-Rina_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/天王寺璃奈) |
