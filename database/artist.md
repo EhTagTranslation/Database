@@ -2697,6 +2697,7 @@ example:
 | konomi | konomi |  | [pixiv](https://www.pixiv.net/users/171980) [Twitter](https://twitter.com/konominoco) |
 | bokkun | ぼっくん |  | [pixiv](https://www.pixiv.net/users/2370288) [Twitter](https://twitter.com/bokkun168) |
 | ikura nagisa | 伊倉ナギサ |  | [pixiv](https://www.pixiv.net/users/883185) [Twitter](https://twitter.com/nagisaikura) |
+| furukawa odoro | 古河おどろ |  | [pixiv](https://www.pixiv.net/users/581146) [Twitter](https://twitter.com/RE_yomawari) |
 
 
 <!--TEMPLATE: 
