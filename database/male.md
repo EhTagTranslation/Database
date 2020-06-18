@@ -490,7 +490,7 @@ example:
 |  | === 强迫 > 暴力 === |  |  |
 | abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |  |
 | cannibalism | 食人 | 人型生物烹饪或食用其他人形生物。不应与`vore`混淆。 |  |
-| cbt | CBT | Cock and ball torture，以任何方式折磨阴茎区域。不需要`torture`标签 |  |
+| cbt | 虐屌 | Cock and ball torture，以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
 | guro | 肢解 | 肢解人类或`furry`。不用于温和的`blood`或暴力。不应与`snuff`混淆。不需要`blood`标签。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
