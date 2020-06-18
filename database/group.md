@@ -1728,6 +1728,7 @@ example:
 | kinokonomi | きのこのみ |  |  |
 | pigpanpan | PigPanPan |  |  |
 | yomairi sensei | よまいり先生 |  |  |
+| koniro kajitsu | 紺色果実 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
