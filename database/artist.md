@@ -2703,6 +2703,7 @@ example:
 | hakomaru | 箱。 |  | [pixiv](https://www.pixiv.net/users/1011344) [Twitter](https://twitter.com/PANDORA_BOX07) |
 | makoto | MAKOTO |  | [pixiv](https://www.pixiv.net/users/154858) [Twitter](https://twitter.com/JahMakoto) |
 | iori | ゐおり |  | [pixiv](https://www.pixiv.net/users/494658) [Twitter](https://twitter.com/sa_ioio) |
+| chocoan | ちょこ庵 |  | [pixiv](https://www.pixiv.net/users/5955130) [Twitter](https://twitter.com/Chocoan09) |
 
 
 <!--TEMPLATE: 
