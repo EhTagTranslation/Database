@@ -1729,6 +1729,7 @@ example:
 | pigpanpan | PigPanPan |  |  |
 | yomairi sensei | よまいり先生 |  |  |
 | koniro kajitsu | 紺色果実 |  |  |
+| pandora box | ぱんどらぼっくす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
