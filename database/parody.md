@@ -1457,6 +1457,7 @@ example:
 | alice gear aegis | 机战少女Alice | 《机战少女Alice》（日语：アリス・ギア・アイギス，英语：Alice Gear Aegis）是一款由Pyramid开发的动作和射击游戏。其内容主要是可供玩家操控各种兵器少女来进行战斗；此外，其角色由岛田文金设计，而机械设定则为海老川兼武和柳濑敬之所负责。<br>![logo](https://upload.wikimedia.org/wikipedia/zh/a/a5/Alice_Gear_Aegis_logo.png) | [日语官网](https://colopl.co.jp/alicegearaegis) [繁中官网](http://www.alicegear.so-net.tw) [中文维基](https://zh.wikipedia.org/wiki/機戰少女Alice) [萌娘百科](https://zh.moegirl.org/zh-hans/机战少女_Alice) |
 | houkago no pleiades | 放学后的昴星团 |  |  |
 | senren banka | 千恋＊万花 | 《千恋万花》（日语：千恋＊万花）是由柚子社制作的一部galgame，并有漫画等衍生作品。本作曾获得2016年美少女游戏大赏综合部门第一名，2016年萌系游戏大赏准大赏 | [官网地址](http://www.yuzu-soft.com/products/senren/index.html) [官方中文网站](https://hikarifield.co.jp/senren/index.html) [萌娘百科](https://zh.moegirl.org/千恋万花) (\*\*) |
+| kiratto pri chan | 美妙☆频道 | 《美妙☆频道》（日语：キラッとプリ☆チャン；英语：Pri☆Chan）是由T-ARTS和Syn Sophia共同开发的街机游戏，并有漫画、动画等衍生作品。 | [游戏官网](https://www.takaratomy-arts.co.jp/specials/prichan/) [动画官网](https://avex.jp/prichan/) [萌娘百科](https://zh.moegirl.org/美妙频道) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
