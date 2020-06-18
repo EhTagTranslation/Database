@@ -2702,6 +2702,7 @@ example:
 | konka | 紺菓 |  | [pixiv](https://www.pixiv.net/users/5561441) [Twitter](https://twitter.com/kon_ka827) |
 | hakomaru | 箱。 |  | [pixiv](https://www.pixiv.net/users/1011344) [Twitter](https://twitter.com/PANDORA_BOX07) |
 | makoto | MAKOTO |  | [pixiv](https://www.pixiv.net/users/154858) [Twitter](https://twitter.com/JahMakoto) |
+| iori | ゐおり |  | [pixiv](https://www.pixiv.net/users/494658) [Twitter](https://twitter.com/sa_ioio) |
 
 
 <!--TEMPLATE: 
