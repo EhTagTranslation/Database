@@ -2700,6 +2700,7 @@ example:
 | furukawa odoro | 古河おどろ |  | [pixiv](https://www.pixiv.net/users/581146) [Twitter](https://twitter.com/RE_yomawari) |
 | nishiki chizu | 西木地図 |  | [pixiv](https://www.pixiv.net/users/10043376) [Twitter](https://twitter.com/241map) |
 | konka | 紺菓 |  | [pixiv](https://www.pixiv.net/users/5561441) [Twitter](https://twitter.com/kon_ka827) |
+| hakomaru | 箱。 |  | [pixiv](https://www.pixiv.net/users/1011344) [Twitter](https://twitter.com/PANDORA_BOX07) |
 
 
 <!--TEMPLATE: 
