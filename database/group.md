@@ -1732,6 +1732,7 @@ example:
 | pandora box | ぱんどらぼっくす |  |  |
 | jekyll and hyde | Jekyll and Hyde |  |  |
 | roentgen | Roentgen |  |  |
+| puchimaple | ぷちめいぷる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
