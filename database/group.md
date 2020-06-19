@@ -1736,6 +1736,7 @@ example:
 | aratoya | あらと屋 |  |  |
 | mapler | MAPLER |  |  |
 | yuribatake bokujou | 百合畑牧場 |  |  |
+| monyamonya | モニャモニャ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
