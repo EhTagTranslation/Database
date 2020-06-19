@@ -2712,6 +2712,7 @@ example:
 | shibi | ShiBi |  | [pixiv](https://www.pixiv.net/users/4213162) [Twitter](https://twitter.com/HoneyShiBi) |
 | yamu | やむっ |  | [pixiv](https://www.pixiv.net/users/23621) [Twitter](https://twitter.com/yamu_RN) |
 | senyuu | 戦友 |  | [pixiv](https://www.pixiv.net/users/379256) [Twitter](https://twitter.com/fellow_soldier) |
+| noukatu | noukatu |  | [pixiv](https://www.pixiv.net/users/422802) [Twitter](https://twitter.com/noukatu) |
 
 
 <!--TEMPLATE: 
