@@ -2709,6 +2709,7 @@ example:
 | caigen | 菜★梗 |  | [pixiv](https://www.pixiv.net/users/4481173) [Twitter](https://twitter.com/caigen113) |
 | maple | まぷる |  | [pixiv](https://www.pixiv.net/users/1603585) [Twitter](https://twitter.com/map_mapler) |
 | kon | 紺 |  | [pixiv](https://www.pixiv.net/users/1271285) [Twitter](https://twitter.com/pluto_305) |
+| shibi | ShiBi |  | [pixiv](https://www.pixiv.net/users/4213162) [Twitter](https://twitter.com/HoneyShiBi) |
 
 
 <!--TEMPLATE: 
