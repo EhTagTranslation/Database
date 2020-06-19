@@ -1737,6 +1737,7 @@ example:
 | mapler | MAPLER |  |  |
 | yuribatake bokujou | 百合畑牧場 |  |  |
 | monyamonya | モニャモニャ |  |  |
+| tatakai no kiseki | 戦いの軌跡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
