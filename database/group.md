@@ -1734,6 +1734,7 @@ example:
 | roentgen | Roentgen |  |  |
 | puchimaple | ぷちめいぷる |  |  |
 | aratoya | あらと屋 |  |  |
+| mapler | MAPLER |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
