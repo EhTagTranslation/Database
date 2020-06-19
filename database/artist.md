@@ -2714,6 +2714,7 @@ example:
 | senyuu | 戦友 |  | [pixiv](https://www.pixiv.net/users/379256) [Twitter](https://twitter.com/fellow_soldier) |
 | noukatu | noukatu |  | [pixiv](https://www.pixiv.net/users/422802) [Twitter](https://twitter.com/noukatu) |
 | yoyomura | 夜々村 |  | [pixiv](https://www.pixiv.net/users/4025610) [Twitter](https://twitter.com/yoyomurayo) |
+| yuhi | ゆーひ |  | [pixiv](https://www.pixiv.net/users/3014199) [Twitter](https://twitter.com/yuhi_2000) |
 
 
 <!--TEMPLATE: 
