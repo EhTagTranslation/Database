@@ -2715,6 +2715,7 @@ example:
 | noukatu | noukatu |  | [pixiv](https://www.pixiv.net/users/422802) [Twitter](https://twitter.com/noukatu) |
 | yoyomura | 夜々村 |  | [pixiv](https://www.pixiv.net/users/4025610) [Twitter](https://twitter.com/yoyomurayo) |
 | yuhi | ゆーひ |  | [pixiv](https://www.pixiv.net/users/3014199) [Twitter](https://twitter.com/yuhi_2000) |
+| katase aoko | 片瀬蒼子 |  | [pixiv](https://www.pixiv.net/users/1967625) [Twitter](https://twitter.com/aoko_kts) |
 
 
 <!--TEMPLATE: 
