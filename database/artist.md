@@ -2707,6 +2707,7 @@ example:
 | hisagi | ひさぎ |  | [pixiv](https://www.pixiv.net/users/5795415) [Twitter](https://twitter.com/hisagi_02) |
 | arato asato | あらと安里 |  | [pixiv](https://www.pixiv.net/users/6750463) [Twitter](https://twitter.com/AratoAsato) |
 | caigen | 菜★梗 |  | [pixiv](https://www.pixiv.net/users/4481173) [Twitter](https://twitter.com/caigen113) |
+| maple | まぷる |  | [pixiv](https://www.pixiv.net/users/1603585) [Twitter](https://twitter.com/map_mapler) |
 
 
 <!--TEMPLATE: 
