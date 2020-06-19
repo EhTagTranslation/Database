@@ -1741,6 +1741,7 @@ example:
 | arcadia | ARCADIA |  |  |
 | sorairo nyannyan | 空色にゃんにゃん |  |  |
 | ichigo crown | Ichigo Crown |  |  |
+| side effects | SIDE EFFECTS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
