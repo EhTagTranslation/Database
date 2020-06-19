@@ -1740,6 +1740,7 @@ example:
 | tatakai no kiseki | 戦いの軌跡 |  |  |
 | arcadia | ARCADIA |  |  |
 | sorairo nyannyan | 空色にゃんにゃん |  |  |
+| ichigo crown | Ichigo Crown |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
