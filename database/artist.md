@@ -2704,6 +2704,7 @@ example:
 | makoto | MAKOTO |  | [pixiv](https://www.pixiv.net/users/154858) [Twitter](https://twitter.com/JahMakoto) |
 | iori | ゐおり |  | [pixiv](https://www.pixiv.net/users/494658) [Twitter](https://twitter.com/sa_ioio) |
 | chocoan | ちょこ庵 |  | [pixiv](https://www.pixiv.net/users/5955130) [Twitter](https://twitter.com/Chocoan09) |
+| hisagi | ひさぎ |  | [pixiv](https://www.pixiv.net/users/5795415) [Twitter](https://twitter.com/hisagi_02) |
 
 
 <!--TEMPLATE: 
