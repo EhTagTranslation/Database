@@ -1733,6 +1733,7 @@ example:
 | jekyll and hyde | Jekyll and Hyde |  |  |
 | roentgen | Roentgen |  |  |
 | puchimaple | ぷちめいぷる |  |  |
+| aratoya | あらと屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
