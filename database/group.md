@@ -1739,6 +1739,7 @@ example:
 | monyamonya | モニャモニャ |  |  |
 | tatakai no kiseki | 戦いの軌跡 |  |  |
 | arcadia | ARCADIA |  |  |
+| sorairo nyannyan | 空色にゃんにゃん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
