@@ -2708,6 +2708,7 @@ example:
 | arato asato | あらと安里 |  | [pixiv](https://www.pixiv.net/users/6750463) [Twitter](https://twitter.com/AratoAsato) |
 | caigen | 菜★梗 |  | [pixiv](https://www.pixiv.net/users/4481173) [Twitter](https://twitter.com/caigen113) |
 | maple | まぷる |  | [pixiv](https://www.pixiv.net/users/1603585) [Twitter](https://twitter.com/map_mapler) |
+| kon | 紺 |  | [pixiv](https://www.pixiv.net/users/1271285) [Twitter](https://twitter.com/pluto_305) |
 
 
 <!--TEMPLATE: 
