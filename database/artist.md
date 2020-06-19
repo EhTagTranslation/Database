@@ -2711,6 +2711,7 @@ example:
 | kon | 紺 |  | [pixiv](https://www.pixiv.net/users/1271285) [Twitter](https://twitter.com/pluto_305) |
 | shibi | ShiBi |  | [pixiv](https://www.pixiv.net/users/4213162) [Twitter](https://twitter.com/HoneyShiBi) |
 | yamu | やむっ |  | [pixiv](https://www.pixiv.net/users/23621) [Twitter](https://twitter.com/yamu_RN) |
+| senyuu | 戦友 |  | [pixiv](https://www.pixiv.net/users/379256) [Twitter](https://twitter.com/fellow_soldier) |
 
 
 <!--TEMPLATE: 
