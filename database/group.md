@@ -1748,6 +1748,7 @@ example:
 | indico lite | Indico lite |  |  |
 | haraheridou | はらヘリ堂 |  |  |
 | hitsuji kikaku | ヒツジ企画 |  |  |
+| hiyashi yaki teishoku | 冷やし焼き定食 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
