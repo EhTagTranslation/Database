@@ -2722,6 +2722,7 @@ example:
 | hiru okita | 昼沖太 |  |  |
 | marumie | まるミエ |  |  |
 | hiyashi mirano | ひやしみらの |  | [pixiv](https://www.pixiv.net/users/4717098) [Twitter](https://twitter.com/hiyashi_yaki) |
+| kageyama kuroto | 景山玄都 |  |  |
 
 
 <!--TEMPLATE: 
