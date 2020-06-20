@@ -1747,6 +1747,7 @@ example:
 | marumieya | まる美絵屋 |  |  |
 | indico lite | Indico lite |  |  |
 | haraheridou | はらヘリ堂 |  |  |
+| hitsuji kikaku | ヒツジ企画 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
