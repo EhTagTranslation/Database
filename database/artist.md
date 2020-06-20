@@ -2721,6 +2721,7 @@ example:
 | fal maro | ファルまろ |  | [pixiv](https://www.pixiv.net/users/1218472) [Twitter](https://twitter.com/fal_maro) |
 | hiru okita | 昼沖太 |  |  |
 | marumie | まるミエ |  |  |
+| hiyashi mirano | ひやしみらの |  | [pixiv](https://www.pixiv.net/users/4717098) [Twitter](https://twitter.com/hiyashi_yaki) |
 
 
 <!--TEMPLATE: 
