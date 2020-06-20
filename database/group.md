@@ -1744,6 +1744,7 @@ example:
 | side effects | SIDE EFFECTS |  |  |
 | t2 art works | T2 ART WORKS |  |  |
 | yokkora pencil | よっこらペンシル |  |  |
+| marumieya | まる美絵屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
