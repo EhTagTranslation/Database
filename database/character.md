@@ -2972,6 +2972,7 @@ example:
 | merry | 梅莉 |  |  |
 | tamamo cat | 玉藻猫 |  |  |
 | kiritan tohoku | 东北切蒲英 |  |  |
+| rikka takarada | 宝多六花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
