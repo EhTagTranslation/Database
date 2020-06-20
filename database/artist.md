@@ -2720,6 +2720,7 @@ example:
 | tony taka | Tony |  | [pixiv](https://www.pixiv.net/users/50314970) [Twitter](https://twitter.com/Tony_T2ARTWORKS) |
 | fal maro | ファルまろ |  | [pixiv](https://www.pixiv.net/users/1218472) [Twitter](https://twitter.com/fal_maro) |
 | hiru okita | 昼沖太 |  |  |
+| marumie | まるミエ |  |  |
 
 
 <!--TEMPLATE: 
