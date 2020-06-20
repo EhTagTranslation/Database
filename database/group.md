@@ -1745,6 +1745,7 @@ example:
 | t2 art works | T2 ART WORKS |  |  |
 | yokkora pencil | よっこらペンシル |  |  |
 | marumieya | まる美絵屋 |  |  |
+| indico lite | Indico lite |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
