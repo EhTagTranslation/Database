@@ -1746,6 +1746,7 @@ example:
 | yokkora pencil | よっこらペンシル |  |  |
 | marumieya | まる美絵屋 |  |  |
 | indico lite | Indico lite |  |  |
+| haraheridou | はらヘリ堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
