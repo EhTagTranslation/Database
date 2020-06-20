@@ -1742,6 +1742,7 @@ example:
 | sorairo nyannyan | 空色にゃんにゃん |  |  |
 | ichigo crown | Ichigo Crown |  |  |
 | side effects | SIDE EFFECTS |  |  |
+| t2 art works | T2 ART WORKS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
