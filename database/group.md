@@ -1743,6 +1743,7 @@ example:
 | ichigo crown | Ichigo Crown |  |  |
 | side effects | SIDE EFFECTS |  |  |
 | t2 art works | T2 ART WORKS |  |  |
+| yokkora pencil | よっこらペンシル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
