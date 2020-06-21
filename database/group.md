@@ -1755,6 +1755,7 @@ example:
 | slime kikaku | スライム企画 |  |  |
 | mukousharan | 無口遮欄 |  |  |
 | l5ex | L5EX |  |  |
+| socha-ya | そちゃ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
