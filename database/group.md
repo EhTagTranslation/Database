@@ -1750,6 +1750,7 @@ example:
 | hitsuji kikaku | ヒツジ企画 |  |  |
 | hiyashi yaki teishoku | 冷やし焼き定食 |  |  |
 | burittohiroba | burittohiroba |  |  |
+| pypyworks | PYPYworks |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
