@@ -2728,6 +2728,7 @@ example:
 | sajipen | さじペん |  |  |
 | dam | だむ |  |  |
 | ko-yahu | こーやふ |  | [pixiv](https://www.pixiv.net/users/3424578) [Twitter](https://twitter.com/burittohiroba) |
+| toufu | とうふ |  | [pixiv](https://www.pixiv.net/users/3902314) [Twitter](https://twitter.com/tofu_bam) |
 
 
 <!--TEMPLATE: 
