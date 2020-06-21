@@ -1754,6 +1754,7 @@ example:
 | lilith lauda laboratory | リリスラウダ研究所 |  |  |
 | slime kikaku | スライム企画 |  |  |
 | mukousharan | 無口遮欄 |  |  |
+| l5ex | L5EX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
