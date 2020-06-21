@@ -1752,6 +1752,7 @@ example:
 | burittohiroba | burittohiroba |  |  |
 | pypyworks | PYPYworks |  |  |
 | lilith lauda laboratory | リリスラウダ研究所 |  |  |
+| slime kikaku | スライム企画 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
