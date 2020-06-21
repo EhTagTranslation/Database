@@ -1751,6 +1751,7 @@ example:
 | hiyashi yaki teishoku | 冷やし焼き定食 |  |  |
 | burittohiroba | burittohiroba |  |  |
 | pypyworks | PYPYworks |  |  |
+| lilith lauda laboratory | リリスラウダ研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
