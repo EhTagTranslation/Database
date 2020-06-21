@@ -2727,6 +2727,7 @@ example:
 | itou eight | 伊藤エイト |  |  |
 | sajipen | さじペん |  |  |
 | dam | だむ |  |  |
+| ko-yahu | こーやふ |  | [pixiv](https://www.pixiv.net/users/3424578) [Twitter](https://twitter.com/burittohiroba) |
 
 
 <!--TEMPLATE: 
