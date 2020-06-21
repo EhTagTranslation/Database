@@ -209,8 +209,8 @@ example:
 | mind control | 精神控制 | 迫使某人自己做某事。 |  |
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的男人。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
-| possession | 凭依 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
-| shared senses | 感官共享 | 分享感官给某物或某人。不得与`wormhole`混淆。 |  |
+| possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
+| shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
 |  | === 头部 > 眼睛 === |  |  |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。 |  |
