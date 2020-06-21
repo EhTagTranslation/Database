@@ -616,7 +616,7 @@ example:
 | hakka yuki | 薄荷ゆき |  |  |
 | derauea | でらうえあ |  | [pixiv](https://www.pixiv.net/users/5037991) |
 | rurukichi | るるキチ |  |  |
-| unasaka | うなさか |  |  |
+| unasaka | うなさか |  | [pixiv](https://www.pixiv.net/users/52141) [Twitter](https://twitter.com/unasaka0309) |
 | anmi | Anmi |  | [pixiv](https://www.pixiv.net/users/212801) [Twitter](https://twitter.com/Anmi_) [个人主页](https://anmi.tumblr.com/) [微博](https://weibo.com/u/5732727922) |
 | kishizuka kenji | 木静谦二 |  |  |
 | kanenomori sentarou | 金ノ森銭太郎 |  |  |
