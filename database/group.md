@@ -1757,6 +1757,7 @@ example:
 | l5ex | L5EX |  |  |
 | socha-ya | そちゃ屋 |  |  |
 | mermerry | メルメリー |  |  |
+| doyagaobyo | どや顔病 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
