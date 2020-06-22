@@ -2736,6 +2736,7 @@ example:
 | mitsuba choco | 三つ葉ちょこ |  | [pixiv](https://www.pixiv.net/users/8532469) [Twitter](https://twitter.com/fu_choco2) |
 | miyama | 深山 |  |  |
 | ayagi daifuku | 綾城大福 |  | [pixiv](https://www.pixiv.net/users/106903) [Twitter](https://twitter.com/IN_THE_MOCHI) |
+| taruhi | たるひ |  |  |
 
 
 <!--TEMPLATE: 
