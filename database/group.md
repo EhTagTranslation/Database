@@ -1756,6 +1756,7 @@ example:
 | mukousharan | 無口遮欄 |  |  |
 | l5ex | L5EX |  |  |
 | socha-ya | そちゃ屋 |  |  |
+| mermerry | メルメリー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
