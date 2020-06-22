@@ -1758,6 +1758,7 @@ example:
 | socha-ya | そちゃ屋 |  |  |
 | mermerry | メルメリー |  |  |
 | doyagaobyo | どや顔病 |  |  |
+| studio hitoribocchi | スタジオひとりぼっち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
