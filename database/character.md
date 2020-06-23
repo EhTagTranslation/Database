@@ -2974,6 +2974,7 @@ example:
 | kiritan tohoku | 东北切蒲英 |  |  |
 | rikka takarada | 宝多六花 |  |  |
 | anastasia nikolaevna romanova | 阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 |  |  |
+| miko iino | 伊井野弥子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
