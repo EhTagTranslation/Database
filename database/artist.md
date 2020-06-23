@@ -2738,6 +2738,7 @@ example:
 | ayagi daifuku | 綾城大福 |  | [pixiv](https://www.pixiv.net/users/106903) [Twitter](https://twitter.com/IN_THE_MOCHI) |
 | taruhi | たるひ |  |  |
 | kikunosukemaru | 菊のすけまる |  | [pixiv](https://www.pixiv.net/users/455068) [Twitter](https://twitter.com/ki9nosukemaru) |
+| hamaken. | はまけん。 |  | [pixiv](https://www.pixiv.net/users/3779820) [Twitter](https://twitter.com/twdshamano) |
 
 
 <!--TEMPLATE: 
