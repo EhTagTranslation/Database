@@ -1762,6 +1762,7 @@ example:
 | kyokutou koumuten | 極東工務店 |  |  |
 | takemasaya | たけまさ屋 |  |  |
 | novelize | NOVELIZE |  |  |
+| konohanaku | 此花区 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
