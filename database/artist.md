@@ -2741,6 +2741,7 @@ example:
 | hamaken. | はまけん。 |  | [pixiv](https://www.pixiv.net/users/3779820) [Twitter](https://twitter.com/twdshamano) |
 | konohana | 此花 |  |  |
 | hirotti | ひろっち |  | [pixiv](https://www.pixiv.net/users/4881688) [Twitter](https://twitter.com/hirotti0608) |
+| rogobo | ろごぼ |  | [pixiv](https://www.pixiv.net/users/27978040) [Twitter](https://twitter.com/RGB_0127) |
 
 
 <!--TEMPLATE: 
