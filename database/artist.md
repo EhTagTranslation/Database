@@ -616,7 +616,7 @@ example:
 | hakka yuki | 薄荷ゆき |  |  |
 | derauea | でらうえあ |  | [pixiv](https://www.pixiv.net/users/5037991) |
 | rurukichi | るるキチ |  |  |
-| unasaka | うなさか |  |  |
+| unasaka | うなさか |  | [pixiv](https://www.pixiv.net/users/52141) [Twitter](https://twitter.com/unasaka0309) |
 | anmi | Anmi |  | [pixiv](https://www.pixiv.net/users/212801) [Twitter](https://twitter.com/Anmi_) [个人主页](https://anmi.tumblr.com/) [微博](https://weibo.com/u/5732727922) |
 | kishizuka kenji | 木静谦二 |  |  |
 | kanenomori sentarou | 金ノ森銭太郎 |  |  |
@@ -2699,6 +2699,51 @@ example:
 | ikura nagisa | 伊倉ナギサ |  | [pixiv](https://www.pixiv.net/users/883185) [Twitter](https://twitter.com/nagisaikura) |
 | furukawa odoro | 古河おどろ |  | [pixiv](https://www.pixiv.net/users/581146) [Twitter](https://twitter.com/RE_yomawari) |
 | nishiki chizu | 西木地図 |  | [pixiv](https://www.pixiv.net/users/10043376) [Twitter](https://twitter.com/241map) |
+| konka | 紺菓 |  | [pixiv](https://www.pixiv.net/users/5561441) [Twitter](https://twitter.com/kon_ka827) |
+| hakomaru | 箱。 |  | [pixiv](https://www.pixiv.net/users/1011344) [Twitter](https://twitter.com/PANDORA_BOX07) |
+| makoto | MAKOTO |  | [pixiv](https://www.pixiv.net/users/154858) [Twitter](https://twitter.com/JahMakoto) |
+| iori | ゐおり |  | [pixiv](https://www.pixiv.net/users/494658) [Twitter](https://twitter.com/sa_ioio) |
+| chocoan | ちょこ庵 |  | [pixiv](https://www.pixiv.net/users/5955130) [Twitter](https://twitter.com/Chocoan09) |
+| hisagi | ひさぎ |  | [pixiv](https://www.pixiv.net/users/5795415) [Twitter](https://twitter.com/hisagi_02) |
+| arato asato | あらと安里 |  | [pixiv](https://www.pixiv.net/users/6750463) [Twitter](https://twitter.com/AratoAsato) |
+| caigen | 菜★梗 |  | [pixiv](https://www.pixiv.net/users/4481173) [Twitter](https://twitter.com/caigen113) |
+| maple | まぷる |  | [pixiv](https://www.pixiv.net/users/1603585) [Twitter](https://twitter.com/map_mapler) |
+| kon | 紺 |  | [pixiv](https://www.pixiv.net/users/1271285) [Twitter](https://twitter.com/pluto_305) |
+| shibi | ShiBi |  | [pixiv](https://www.pixiv.net/users/4213162) [Twitter](https://twitter.com/HoneyShiBi) |
+| yamu | やむっ |  | [pixiv](https://www.pixiv.net/users/23621) [Twitter](https://twitter.com/yamu_RN) |
+| senyuu | 戦友 |  | [pixiv](https://www.pixiv.net/users/379256) [Twitter](https://twitter.com/fellow_soldier) |
+| noukatu | noukatu |  | [pixiv](https://www.pixiv.net/users/422802) [Twitter](https://twitter.com/noukatu) |
+| yoyomura | 夜々村 |  | [pixiv](https://www.pixiv.net/users/4025610) [Twitter](https://twitter.com/yoyomurayo) |
+| yuhi | ゆーひ |  | [pixiv](https://www.pixiv.net/users/3014199) [Twitter](https://twitter.com/yuhi_2000) |
+| katase aoko | 片瀬蒼子 |  | [pixiv](https://www.pixiv.net/users/1967625) [Twitter](https://twitter.com/aoko_kts) |
+| yuzuri ai | ゆずり あい |  | [pixiv](https://www.pixiv.net/users/17020552) [Twitter](https://twitter.com/ichigo_crown_) |
+| tony taka | Tony |  | [pixiv](https://www.pixiv.net/users/50314970) [Twitter](https://twitter.com/Tony_T2ARTWORKS) |
+| fal maro | ファルまろ |  | [pixiv](https://www.pixiv.net/users/1218472) [Twitter](https://twitter.com/fal_maro) |
+| hiru okita | 昼沖太 |  |  |
+| marumie | まるミエ |  |  |
+| hiyashi mirano | ひやしみらの |  | [pixiv](https://www.pixiv.net/users/4717098) [Twitter](https://twitter.com/hiyashi_yaki) |
+| kageyama kuroto | 景山玄都 |  |  |
+| netarou | ねたろう |  | [pixiv](https://www.pixiv.net/users/305613) |
+| itou eight | 伊藤エイト |  |  |
+| sajipen | さじペん |  |  |
+| dam | だむ |  |  |
+| ko-yahu | こーやふ |  | [pixiv](https://www.pixiv.net/users/3424578) [Twitter](https://twitter.com/burittohiroba) |
+| toufu | とうふ |  | [pixiv](https://www.pixiv.net/users/3902314) [Twitter](https://twitter.com/tofu_bam) |
+| kuriyuzu kuryuu | 栗柚くりゅー |  | [pixiv](https://www.pixiv.net/users/285568) [Twitter](https://twitter.com/kuryu_lv100) |
+| homu | homu |  | [pixiv](https://www.pixiv.net/users/6463948) [Twitter](https://twitter.com/homu_k1) |
+| kamelie | Kamelie |  | [pixiv](https://www.pixiv.net/users/362833) [Twitter](https://twitter.com/Kamelie12) |
+| nicoby | にこびぃ |  | [pixiv](https://www.pixiv.net/users/2382127) [Twitter](https://twitter.com/nicoby69) |
+| mitsuba choco | 三つ葉ちょこ |  | [pixiv](https://www.pixiv.net/users/8532469) [Twitter](https://twitter.com/fu_choco2) |
+| miyama | 深山 |  |  |
+| ayagi daifuku | 綾城大福 |  | [pixiv](https://www.pixiv.net/users/106903) [Twitter](https://twitter.com/IN_THE_MOCHI) |
+| taruhi | たるひ |  |  |
+| kikunosukemaru | 菊のすけまる |  | [pixiv](https://www.pixiv.net/users/455068) [Twitter](https://twitter.com/ki9nosukemaru) |
+| hamaken. | はまけん。 |  | [pixiv](https://www.pixiv.net/users/3779820) [Twitter](https://twitter.com/twdshamano) |
+| konohana | 此花 |  |  |
+| hirotti | ひろっち |  | [pixiv](https://www.pixiv.net/users/4881688) [Twitter](https://twitter.com/hirotti0608) |
+| rogobo | ろごぼ |  | [pixiv](https://www.pixiv.net/users/27978040) [Twitter](https://twitter.com/RGB_0127) |
+| momoya show-neko | 桃屋しょう猫 |  | [pixiv](https://www.pixiv.net/users/2622704) |
+| mashiro yukiya | 真白雪夜 |  |  |
 
 
 <!--TEMPLATE: 

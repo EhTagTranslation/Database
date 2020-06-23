@@ -218,8 +218,8 @@ example:
 | mind control | 精神控制 | 迫使某人自己做某事。 |  |
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的女孩，即荡妇。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
-| possession | 凭依 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
-| shared senses | 感官共享 | 分享感官给某物或某人。不得与`wormhole`混淆。 |  |
+| possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
+| shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
 |  | === 头部 > 眼睛 === |  |  |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。<br>![图](# "https://ehgt.org/8a/63/8a633d74431032eb6b29a3276635c6691b1edb46-863726-1280-720-png_l.jpg")![图](# "https://ehgt.org/0b/13/0b1328ca3c33ab789b2e79c269c501252931b870-626328-800-600-png_l.jpg") |  |
@@ -528,7 +528,7 @@ example:
 | abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |  |
 | cannibalism | 食人 | 人型生物烹饪或食用其他人形生物。不应与`vore`混淆。 |  |
 | catfight | 猫斗 | 两名女性之间不协调的战斗。不应与`wrestling`混淆。 |  |
-| cbt | CBT | Cock and ball torture，以任何方式折磨阴茎区域。不需要`torture`标签 |  |
+| cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
 | guro | 肢解 | 肢解人类或`furry`。不用于温和的`blood`或暴力。不应与`snuff`混淆。不需要`blood`标签。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |

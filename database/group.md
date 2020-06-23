@@ -1728,6 +1728,43 @@ example:
 | kinokonomi | きのこのみ |  |  |
 | pigpanpan | PigPanPan |  |  |
 | yomairi sensei | よまいり先生 |  |  |
+| koniro kajitsu | 紺色果実 |  |  |
+| pandora box | ぱんどらぼっくす |  |  |
+| jekyll and hyde | Jekyll and Hyde |  |  |
+| roentgen | Roentgen |  |  |
+| puchimaple | ぷちめいぷる |  |  |
+| aratoya | あらと屋 |  |  |
+| mapler | MAPLER |  |  |
+| yuribatake bokujou | 百合畑牧場 |  |  |
+| monyamonya | モニャモニャ |  |  |
+| tatakai no kiseki | 戦いの軌跡 |  |  |
+| arcadia | ARCADIA |  |  |
+| sorairo nyannyan | 空色にゃんにゃん |  |  |
+| ichigo crown | Ichigo Crown |  |  |
+| side effects | SIDE EFFECTS |  |  |
+| t2 art works | T2 ART WORKS |  |  |
+| yokkora pencil | よっこらペンシル |  |  |
+| marumieya | まる美絵屋 |  |  |
+| indico lite | Indico lite |  |  |
+| haraheridou | はらヘリ堂 |  |  |
+| hitsuji kikaku | ヒツジ企画 |  |  |
+| hiyashi yaki teishoku | 冷やし焼き定食 |  |  |
+| burittohiroba | burittohiroba |  |  |
+| pypyworks | PYPYworks |  |  |
+| lilith lauda laboratory | リリスラウダ研究所 |  |  |
+| slime kikaku | スライム企画 |  |  |
+| mukousharan | 無口遮欄 |  |  |
+| l5ex | L5EX |  |  |
+| socha-ya | そちゃ屋 |  |  |
+| mermerry | メルメリー |  |  |
+| doyagaobyo | どや顔病 |  |  |
+| studio hitoribocchi | スタジオひとりぼっち |  |  |
+| kyokutou koumuten | 極東工務店 |  |  |
+| takemasaya | たけまさ屋 |  |  |
+| novelize | NOVELIZE |  |  |
+| konohanaku | 此花区 |  |  |
+| hisyoku no tansansui | 緋色の炭酸水 |  |  |
+| comoyoko | コモヨコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
