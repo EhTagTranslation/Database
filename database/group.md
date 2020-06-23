@@ -1761,6 +1761,7 @@ example:
 | studio hitoribocchi | スタジオひとりぼっち |  |  |
 | kyokutou koumuten | 極東工務店 |  |  |
 | takemasaya | たけまさ屋 |  |  |
+| novelize | NOVELIZE |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
