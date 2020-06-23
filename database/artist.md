@@ -2740,6 +2740,7 @@ example:
 | kikunosukemaru | 菊のすけまる |  | [pixiv](https://www.pixiv.net/users/455068) [Twitter](https://twitter.com/ki9nosukemaru) |
 | hamaken. | はまけん。 |  | [pixiv](https://www.pixiv.net/users/3779820) [Twitter](https://twitter.com/twdshamano) |
 | konohana | 此花 |  |  |
+| hirotti | ひろっち |  | [pixiv](https://www.pixiv.net/users/4881688) [Twitter](https://twitter.com/hirotti0608) |
 
 
 <!--TEMPLATE: 
