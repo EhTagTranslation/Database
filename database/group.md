@@ -1764,6 +1764,7 @@ example:
 | novelize | NOVELIZE |  |  |
 | konohanaku | 此花区 |  |  |
 | hisyoku no tansansui | 緋色の炭酸水 |  |  |
+| comoyoko | コモヨコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
