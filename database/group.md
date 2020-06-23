@@ -1759,6 +1759,7 @@ example:
 | mermerry | メルメリー |  |  |
 | doyagaobyo | どや顔病 |  |  |
 | studio hitoribocchi | スタジオひとりぼっち |  |  |
+| kyokutou koumuten | 極東工務店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
