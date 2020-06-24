@@ -2415,7 +2415,7 @@ example:
 | kizuna ai | 绊爱 | 人工智障 |  |
 | kaguya luna | 辉夜月 |  |  |
 | mirai akari | Mirai Akari |  |  |
-| nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为虚拟YouTuber活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org/Nekomasu) |
+| nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为`VTuber`活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org/Nekomasu) |
 |  | ▼ 机动战士高达SEED&机动战士高达SEED Destiny |  |  |
 | kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/基拉·大和) |
 | miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) |  |
@@ -2488,24 +2488,24 @@ example:
 | itsuki nakano | 中野五月 |  |  |
 |  | ▼ hololive | 猴楼 live |  |
 |  |  | 0期 |  |
-| tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是hololive所属的虚拟YouTuber。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
-| roboco | 萝卜子 | 萝卜子（ロボ子さん／Roboko-san）是从2018年3月4日在Youtube开始活动的VTuber，所属业界团体hololive的成员。<br>![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
+| tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是hololive所属的`VTuber`。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
+| roboco | 萝卜子 | 萝卜子（ロボ子さん／Roboko-san）是从2018年3月4日在Youtube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
 | sakura miko | 樱巫女 |  |  |
 | hoshimachi suisei | 星街彗星 | 星街彗星 （星街すいせい／Hoshimati Suisei）是一名2018年3月22日在Youtube作为个人势开始活动的Vtuber，后在2019年5月19日宣布加入成为业界团体hololive所属，先于音乐特化型品牌「INNK Music」所属，后转籍至「hololive」直接所属。<br><br>![](https://img.moegirl.org/common/c/c8/HoshimatiSuisei.png) | [萌娘百科](https://zh.moegirl.org/星街彗星) (**) |
 |  |  | 1期 |  |
 |  | 夜空梅露 |  |  |
 |  | 亚绮·罗森塔尔 |  |  |
-| akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的VTuber，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
-| shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
-| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
+| akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
+| shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
+| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
 |  |  | 2期 |  |
-| minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的虚拟YouTuber，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
-| murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的VTuber，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
+| minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的`VTuber`，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
+| murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
 | ayame nakiri | 百鬼绫目 | ![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
-| yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的VTuber，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
+| yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
 | oozora subaru | 大空昴 |  |  |
 |  |  | GAMERS |  |
-| ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的VTuber，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
+| ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的`VTuber`，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
 | inugami korone | 戌神沁音 |  |  |
 | nekomata okayu | 猫又小粥 | 猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org/common/5/50/NekomataOkayu_idol.jpg) | [萌娘百科](https://zh.moegirl.org/猫又小粥) (**) |
 |  |  | 3期 |  |
