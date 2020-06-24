@@ -53,7 +53,7 @@ jobs:
         && (printf '${{ github.sha }}' > ./sha)
         && git init
         && git add .
-        && git commit -am 'Release for ${{ github.sha }}'
+        && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
     - name: Push release branch
       uses: ad-m/github-push-action@master
       with:
@@ -61,6 +61,7 @@ jobs:
         branch: releases
         force: true
         directory: ./publish
+        repository: EhTagTranslation/DatabaseReleases
     - name: Clean releases
       shell: pwsh
       env:
