@@ -2750,6 +2750,7 @@ example:
 | yamato bambies | ヤマトバンビーズ |  | [Twitter](https://twitter.com/bambi_es) [pixiv](https://www.pixiv.net/users/9009006) |
 | azuma sawayoshi | アズマサワヨシ |  | [Twitter](https://twitter.com/azsawa00) [pixiv](https://www.pixiv.net/users/478617) |
 | oyabe ryo | 小矢部亮 |  | [Twitter表账号](https://twitter.com/nightcoat) [Twitter里账号](https://twitter.com/oybryo08) [pixiv](https://www.pixiv.net/users/12868244) |
+| naoharu | 直晴 |  | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
 
 
 <!--TEMPLATE: 
