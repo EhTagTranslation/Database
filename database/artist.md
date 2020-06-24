@@ -2749,6 +2749,7 @@ example:
 | marumikan | 丸美甘 | ![丸美甘头像](https://i.jpg.dog/img/cd32bb63c8e660ff42347fed5f611955.jpg) | [Twitter](https://twitter.com/maru3kan) [pixiv](https://www.pixiv.net/users/31765636) [日文维基](https://ja.wikipedia.org/wiki/丸美甘) |
 | yamato bambies | ヤマトバンビーズ |  | [Twitter](https://twitter.com/bambi_es) [pixiv](https://www.pixiv.net/users/9009006) |
 | azuma sawayoshi | アズマサワヨシ |  | [Twitter](https://twitter.com/azsawa00) [pixiv](https://www.pixiv.net/users/478617) |
+| oyabe ryo | 小矢部亮 |  | [Twitter表账号](https://twitter.com/nightcoat) [Twitter里账号](https://twitter.com/oybryo08) [pixiv](https://www.pixiv.net/users/12868244) |
 
 
 <!--TEMPLATE: 
