@@ -1458,6 +1458,7 @@ example:
 | houkago no pleiades | 放学后的昴星团 |  |  |
 | senren banka | 千恋＊万花 | 《千恋万花》（日语：千恋＊万花）是由柚子社制作的一部galgame，并有漫画等衍生作品。本作曾获得2016年美少女游戏大赏综合部门第一名，2016年萌系游戏大赏准大赏 | [官网地址](http://www.yuzu-soft.com/products/senren/index.html) [官方中文网站](https://hikarifield.co.jp/senren/index.html) [萌娘百科](https://zh.moegirl.org/千恋万花) (\*\*) |
 | kiratto pri chan | 美妙☆频道 | 《美妙☆频道》（日语：キラッとプリ☆チャン；英语：Pri☆Chan）是由T-ARTS和Syn Sophia共同开发的街机游戏，并有漫画、动画等衍生作品。 | [游戏官网](https://www.takaratomy-arts.co.jp/specials/prichan/) [动画官网](https://avex.jp/prichan/) [萌娘百科](https://zh.moegirl.org/美妙频道) (\*\*) |
+| cafe stella to shinigami no chou | 星光咖啡馆与死神之蝶 | 星光咖啡馆与死神之蝶（日语：喫茶ステラと死神の蝶）是由柚子社制作的Galgame。本作是柚子社的第十一作，描述着在因缘际会之下进入了死亡螺旋中的男主角，与死神的相遇，并且在学校及咖啡店兼职之间所发生的日常恋爱故事。 | [官网地址](http://www.yuzu-soft.com/products/stella/index.html) [萌娘百科](https://zh.moegirl.org/星光咖啡馆与死神之蝶) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
