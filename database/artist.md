@@ -2751,6 +2751,7 @@ example:
 | azuma sawayoshi | アズマサワヨシ |  | [Twitter](https://twitter.com/azsawa00) [pixiv](https://www.pixiv.net/users/478617) |
 | oyabe ryo | 小矢部亮 |  | [Twitter表账号](https://twitter.com/nightcoat) [Twitter里账号](https://twitter.com/oybryo08) [pixiv](https://www.pixiv.net/users/12868244) |
 | naoharu | 直晴 |  | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
+| tamashii carnival botamochi | 魂カーニバルぼたもち | ![魂カーニバルぼたもち头像](https://i.jpg.dog/img/3c8d3dfcf7dd06682fc750cd6afa85d5.png) | [Twitter](https://twitter.com/R_botamochi) [pixiv](https://www.pixiv.net/users/1035537) |
 
 
 <!--TEMPLATE: 
