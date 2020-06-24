@@ -1766,6 +1766,7 @@ example:
 | hisyoku no tansansui | 緋色の炭酸水 |  |  |
 | comoyoko | コモヨコ |  |  |
 | witchs marionette | witch's marionette |  |  |
+| key trash | KEY TRASH |  | [官方网站](http://scarletkey.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
