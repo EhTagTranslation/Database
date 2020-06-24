@@ -1768,6 +1768,7 @@ example:
 | witchs marionette | witch's marionette |  |  |
 | key trash | KEY TRASH |  | [官方网站](http://scarletkey.sakura.ne.jp) |
 | alchemy | あるけみい |  | [官方网站](https://six-alchemy.com) |
+| a.l.l | A・L・L |  | [官方网站](http://all0102.blog76.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
