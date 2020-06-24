@@ -2745,6 +2745,7 @@ example:
 | momoya show-neko | 桃屋しょう猫 |  | [pixiv](https://www.pixiv.net/users/2622704) |
 | mashiro yukiya | 真白雪夜 |  |  |
 | hikagi tatsuhiko | 緋鍵龍彦 |  | [Twitter](https://twitter.com/hikagi) [pixiv](https://www.pixiv.net/users/3957) |
+| tekehiro | てけひろ | ![てけひろ头像](https://i.jpg.dog/img/d8573ac5100a77d7bc9fd291ce21c44a.png) | [Twitter](https://twitter.com/tekehiro) [pixiv](https://www.pixiv.net/users/19275) |
 
 
 <!--TEMPLATE: 
