@@ -16,3 +16,5 @@ assignees: ''
 <!-- 关于该变更的额外说明 -->
 
 <!-- 更多标签翻译，格式同上 -->
+
+@EhTagTranslation
