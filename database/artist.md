@@ -2755,6 +2755,7 @@ example:
 | arima kouichi | 有馬紘一 |  |  |
 | kamochome | かもちょめ |  |  |
 | horny-oni | Horny-Oni |  |  |
+| sora ni tori ga | 空に鳥が |  |  |
 
 
 <!--TEMPLATE: 
