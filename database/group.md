@@ -1770,6 +1770,7 @@ example:
 | alchemy | あるけみい |  | [官方网站](https://six-alchemy.com) |
 | a.l.l | A・L・L |  | [官方网站](http://all0102.blog76.fc2.com) |
 | hiyakake gohan | ひやかけごはん |  |  |
+| expander welder | エキスパンダー溶接 |  | [官方网站](http://expander-y.jugem.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
