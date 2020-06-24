@@ -2753,6 +2753,7 @@ example:
 | naoharu | 直晴 |  | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
 | tamashii carnival botamochi | 魂カーニバルぼたもち | ![魂カーニバルぼたもち头像](https://i.jpg.dog/img/3c8d3dfcf7dd06682fc750cd6afa85d5.png) | [Twitter](https://twitter.com/R_botamochi) [pixiv](https://www.pixiv.net/users/1035537) |
 | arima kouichi | 有馬紘一 |  |  |
+| kamochome | かもちょめ |  |  |
 
 
 <!--TEMPLATE: 
