@@ -47,21 +47,21 @@ jobs:
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
         name: ${{ env.RELEASE_NAME }}
-    - name: Commit release branch
-      run: > 
-        cd ./publish
-        && (printf '${{ github.sha }}' > ./sha)
-        && git init
-        && git add .
-        && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
-    - name: Push release branch
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: releases
-        force: true
-        directory: ./publish
-        repository: EhTagTranslation/DatabaseReleases
+    # - name: Commit release branch
+    #   run: > 
+    #     cd ./publish
+    #     && (printf '${{ github.sha }}' > ./sha)
+    #     && git init
+    #     && git add .
+    #     && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
+    # - name: Push release branch
+    #   uses: ad-m/github-push-action@master
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     branch: releases
+    #     force: true
+    #     directory: ./publish
+    #     repository: EhTagTranslation/DatabaseReleases
     - name: Clean releases
       shell: pwsh
       env:
