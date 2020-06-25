@@ -2981,6 +2981,7 @@ example:
 | cain | 该隐 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/9/96/Zoom_3040171000_02.png/288px-Zoom_3040171000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040171000) |
 | mahira | 玛琪拉 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/c/c2/Zoom_3040107000_03.png/288px-Zoom_3040107000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040107000) |
 | melissabelle | 梅丽莎贝尔 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5c/Zoom_3040102000_02.png/288px-Zoom_3040102000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040102000) |
+| pholia | 芙莉亚 | ![额外](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/4/45/Zoom_3040181000_81.png/288px-Zoom_3040181000_81.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040181000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
