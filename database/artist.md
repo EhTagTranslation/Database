@@ -2766,6 +2766,7 @@ example:
 | tamaki kurou | 鐶九朗 |  | [pixiv](https://www.pixiv.net/users/2409) [Twitter](https://twitter.com/tamaki96) |
 | haiba | 灰葉 |  | [pixiv](https://www.pixiv.net/users/9180731) |
 | makita yoshiharu | 巻田佳春 |  | [pixiv](https://www.pixiv.net/users/3869) [Twitter](https://twitter.com/yoshi_makita) |
+| asahiru yuu | 浅ひるゆう |  | [pixiv](https://www.pixiv.net/users/1026882) [Twitter](https://twitter.com/YOUmacaron) |
 
 
 <!--TEMPLATE: 
