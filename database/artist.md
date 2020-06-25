@@ -2716,7 +2716,7 @@ example:
 | yoyomura | 夜々村 |  | [pixiv](https://www.pixiv.net/users/4025610) [Twitter](https://twitter.com/yoyomurayo) |
 | yuhi | ゆーひ |  | [pixiv](https://www.pixiv.net/users/3014199) [Twitter](https://twitter.com/yuhi_2000) |
 | katase aoko | 片瀬蒼子 |  | [pixiv](https://www.pixiv.net/users/1967625) [Twitter](https://twitter.com/aoko_kts) |
-| yuzuri ai | ゆずり あい |  | [pixiv](https://www.pixiv.net/users/17020552) [Twitter](https://twitter.com/ichigo_crown_) |
+| yuzuri ai | ゆずりあい |  | [pixiv](https://www.pixiv.net/users/17020552) [Twitter](https://twitter.com/ichigo_crown_) |
 | tony taka | Tony |  | [pixiv](https://www.pixiv.net/users/50314970) [Twitter](https://twitter.com/Tony_T2ARTWORKS) |
 | fal maro | ファルまろ |  | [pixiv](https://www.pixiv.net/users/1218472) [Twitter](https://twitter.com/fal_maro) |
 | hiru okita | 昼沖太 |  |  |
@@ -2753,6 +2753,22 @@ example:
 | naoharu | 直晴 |  | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
 | tamashii carnival botamochi | 魂カーニバルぼたもち | ![魂カーニバルぼたもち头像](https://i.jpg.dog/img/3c8d3dfcf7dd06682fc750cd6afa85d5.png) | [Twitter](https://twitter.com/R_botamochi) [pixiv](https://www.pixiv.net/users/1035537) |
 | arima kouichi | 有馬紘一 |  |  |
+| kamochome | かもちょめ |  |  |
+| horny-oni | Horny-Oni |  |  |
+| sora ni tori ga | 空に鳥が |  |  |
+| serebi ryousangata | セレビィ量産型 | ![セレビィ量産型头像](https://i.jpg.dog/img/79d1866d7bf62b522faee84bfac0e2c6.jpg) | [Twitter](https://twitter.com/serebixi) [pixiv](https://www.pixiv.net/users/25994) [日文维基](https://ja.wikipedia.org/wiki/セレビィ量産型) |
+| abara heiki | 肋兵器 |  | [Twitter](https://twitter.com/abara) [pixiv](https://www.pixiv.net/users/15063) [日文维基](https://ja.wikipedia.org/wiki/肋兵器) |
+| ukami | うかみ | ![うかみ头像](https://i.jpg.dog/img/be31b020f4ac747dfc6a05a7aeb4bf3a.jpg) | [Twitter](https://twitter.com/ukami0) [pixiv](https://www.pixiv.net/users/328542) [日文维基](https://ja.wikipedia.org/wiki/うかみ) [个人网站](http://ukami.blog.fc2.com) |
+| itou hachi | 伊藤ハチ | ![伊藤ハチ头像](https://i.jpg.dog/img/d5ea6732bcb0b246e8f33a74f7ee3d53.png) | [Twitter](https://twitter.com/itou8) [pixiv](https://www.pixiv.net/users/358669) [日文维基](https://ja.wikipedia.org/wiki/伊藤ハチ) |
+| nishihata kei | 西畑けい |  | [pixiv](https://www.pixiv.net/users/648210) [Twitter](https://twitter.com/nishihatak) |
+| bon | 凡 |  | [pixiv](https://www.pixiv.net/users/26173) [Twitter](https://twitter.com/bon_feather) |
+| john | じょん |  | [pixiv](https://www.pixiv.net/users/4123270) [Twitter](https://twitter.com/soratouenban104) |
+| tamaki kurou | 鐶九朗 |  | [pixiv](https://www.pixiv.net/users/2409) [Twitter](https://twitter.com/tamaki96) |
+| haiba | 灰葉 |  | [pixiv](https://www.pixiv.net/users/9180731) |
+| makita yoshiharu | 巻田佳春 |  | [pixiv](https://www.pixiv.net/users/3869) [Twitter](https://twitter.com/yoshi_makita) |
+| asahiru yuu | 浅ひるゆう |  | [pixiv](https://www.pixiv.net/users/1026882) [Twitter](https://twitter.com/YOUmacaron) |
+| rokumaru inami | 六丸いなみ |  | [pixiv](https://www.pixiv.net/users/14188853) [Twitter](https://twitter.com/173_roku) |
+| mogu | モグ |  | [pixiv](https://www.pixiv.net/users/2727119) [Twitter](https://twitter.com/MoGu_1i27) |
 
 
 <!--TEMPLATE: 
