@@ -2716,7 +2716,7 @@ example:
 | yoyomura | 夜々村 |  | [pixiv](https://www.pixiv.net/users/4025610) [Twitter](https://twitter.com/yoyomurayo) |
 | yuhi | ゆーひ |  | [pixiv](https://www.pixiv.net/users/3014199) [Twitter](https://twitter.com/yuhi_2000) |
 | katase aoko | 片瀬蒼子 |  | [pixiv](https://www.pixiv.net/users/1967625) [Twitter](https://twitter.com/aoko_kts) |
-| yuzuri ai | ゆずり あい |  | [pixiv](https://www.pixiv.net/users/17020552) [Twitter](https://twitter.com/ichigo_crown_) |
+| yuzuri ai | ゆずりあい |  | [pixiv](https://www.pixiv.net/users/17020552) [Twitter](https://twitter.com/ichigo_crown_) |
 | tony taka | Tony |  | [pixiv](https://www.pixiv.net/users/50314970) [Twitter](https://twitter.com/Tony_T2ARTWORKS) |
 | fal maro | ファルまろ |  | [pixiv](https://www.pixiv.net/users/1218472) [Twitter](https://twitter.com/fal_maro) |
 | hiru okita | 昼沖太 |  |  |
