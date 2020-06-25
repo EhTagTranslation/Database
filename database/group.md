@@ -1782,6 +1782,7 @@ example:
 | hachiouji kaipan totsugeki kiheitai | 八王子海パン突撃騎兵隊 |  |  |
 | sand | sand |  |  |
 | usagigoya. | うさぎごや。 |  |  |
+| genmaicha | 玄米茶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
