@@ -2759,6 +2759,7 @@ example:
 | serebi ryousangata | セレビィ量産型 | ![セレビィ量産型头像](https://i.jpg.dog/img/79d1866d7bf62b522faee84bfac0e2c6.jpg) | [Twitter](https://twitter.com/serebixi) [pixiv](https://www.pixiv.net/users/25994) [日文维基](https://ja.wikipedia.org/wiki/セレビィ量産型) |
 | abara heiki | 肋兵器 |  | [Twitter](https://twitter.com/abara) [pixiv](https://www.pixiv.net/users/15063) [日文维基](https://ja.wikipedia.org/wiki/肋兵器) |
 | ukami | うかみ | ![うかみ头像](https://i.jpg.dog/img/be31b020f4ac747dfc6a05a7aeb4bf3a.jpg) | [Twitter](https://twitter.com/ukami0) [pixiv](https://www.pixiv.net/users/328542) [日文维基](https://ja.wikipedia.org/wiki/うかみ) [个人网站](http://ukami.blog.fc2.com) |
+| itou hachi | 伊藤ハチ | ![伊藤ハチ头像](https://i.jpg.dog/img/d5ea6732bcb0b246e8f33a74f7ee3d53.png) | [Twitter](https://twitter.com/itou8) [pixiv](https://www.pixiv.net/users/358669) [日文维基](https://ja.wikipedia.org/wiki/伊藤ハチ) |
 
 
 <!--TEMPLATE: 
