@@ -2,12 +2,19 @@
 key: reclass
 name: 重新分类
 description: 用于分类出错的画廊，当某个重新分类标签权重达到 100，将移动画廊至对应分类。
-copyright: |
-    除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
+copyright: >
+  除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
-    Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
 
-    本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
+  Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy,
+  distribute and/or modify this document under the terms of the GNU Free
+  Documentation License, Version 1.2 or any later version published by the Free
+  Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no
+  Back-Cover Texts. A copy of the license is included in the section entitled
+  "GNU Free Documentation License".
+
+
+  本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
