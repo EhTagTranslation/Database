@@ -1777,6 +1777,7 @@ example:
 | hatishiro | はちしろ |  | [官方网站](http://hatishiro.xii.jp) |
 | yureru keikoutou | 揺れる蛍光灯 |  |  |
 | rump | RUMP |  |  |
+| soratomoe | ソラトモエ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
