@@ -1779,6 +1779,7 @@ example:
 | rump | RUMP |  |  |
 | soratomoe | ソラトモエ |  |  |
 | death para | ですぱら |  |  |
+| hachiouji kaipan totsugeki kiheitai | 八王子海パン突撃騎兵隊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
