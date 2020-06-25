@@ -2763,6 +2763,7 @@ example:
 | nishihata kei | 西畑けい |  | [pixiv](https://www.pixiv.net/users/648210) [Twitter](https://twitter.com/nishihatak) |
 | bon | 凡 |  | [pixiv](https://www.pixiv.net/users/26173) [Twitter](https://twitter.com/bon_feather) |
 | john | じょん |  | [pixiv](https://www.pixiv.net/users/4123270) [Twitter](https://twitter.com/soratouenban104) |
+| tamaki kurou | 鐶九朗 |  | [pixiv](https://www.pixiv.net/users/2409) [Twitter](https://twitter.com/tamaki96) |
 
 
 <!--TEMPLATE: 
