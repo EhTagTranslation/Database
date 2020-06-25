@@ -2756,6 +2756,7 @@ example:
 | kamochome | かもちょめ |  |  |
 | horny-oni | Horny-Oni |  |  |
 | sora ni tori ga | 空に鳥が |  |  |
+| serebi ryousangata | セレビィ量産型 | ![セレビィ量産型头像](https://i.jpg.dog/img/79d1866d7bf62b522faee84bfac0e2c6.jpg) | [Twitter](https://twitter.com/serebixi) [pixiv](https://www.pixiv.net/users/25994) |
 
 
 <!--TEMPLATE: 
