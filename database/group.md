@@ -1775,6 +1775,7 @@ example:
 | hoshi to matango | ほしとマタンゴ |  | [官方网站](http://kinokoisu.horemitakotoka.com) |
 | resort ukami | リゾートうかみ |  |  |
 | hatishiro | はちしろ |  | [官方网站](http://hatishiro.xii.jp) |
+| yureru keikoutou | 揺れる蛍光灯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
