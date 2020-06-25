@@ -1460,6 +1460,8 @@ example:
 | kiratto pri chan | 美妙☆频道 | 《美妙☆频道》（日语：キラッとプリ☆チャン；英语：Pri☆Chan）是由T-ARTS和Syn Sophia共同开发的街机游戏，并有漫画、动画等衍生作品。 | [游戏官网](https://www.takaratomy-arts.co.jp/specials/prichan/) [动画官网](https://avex.jp/prichan/) [萌娘百科](https://zh.moegirl.org/美妙频道) (\*\*) |
 | cafe stella to shinigami no chou | 星光咖啡馆与死神之蝶 | 星光咖啡馆与死神之蝶（日语：喫茶ステラと死神の蝶）是由柚子社制作的Galgame。本作是柚子社的第十一作，描述着在因缘际会之下进入了死亡螺旋中的男主角，与死神的相遇，并且在学校及咖啡店兼职之间所发生的日常恋爱故事。 | [官网地址](http://www.yuzu-soft.com/products/stella/index.html) [萌娘百科](https://zh.moegirl.org/星光咖啡馆与死神之蝶) (\*\*) |
 | riddle joker | RIDDLE JOKER | RIDDLE JOKER是由柚子社制作的美少女游戏。本作是柚子社第十作，以超能力为主题。故事发生的主要舞台是一个研究超能力的现代化都市，大量的“星幽使”在此定居并活跃着，以主角以及其义妹潜入星幽使聚集的校园为主要线索，讲述主角与学生们发生的故事。 | [官网地址](http://www.yuzu-soft.com/products/riddle/index.html) [萌娘百科](https://zh.moegirl.org/RIDDLE_JOKER) (\*\*) |
+| grand theft auto | 侠盗猎车手 | 侠盗猎车手系列（英语：Grand Theft Auto，简称GTA，又译侠盗飞车、横行霸道）是一个动作冒险游戏系列，最早由大卫·琼斯和迈克·戴利（Mike Dailly）制作，之后由丹（Dan）和山姆·浩瑟（Sam Houser）兄弟以及游戏设计师柴克瑞·克拉克（Zachary Clarke）接手制作。本系列主要由位于苏格兰爱丁堡的Rockstar North（前身为DMA Design）制作，并由Rockstar Games发行。 | [维基百科](https://zh.wikipedia.org/wiki/俠盜獵車手系列) (*) |
+| hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/一个人的OO小日子) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

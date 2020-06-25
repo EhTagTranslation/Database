@@ -2323,7 +2323,7 @@ example:
 | sayo hikawa | 冰川纱夜 | [Roselia](https://zh.moegirl.org/Roselia)的吉他手<br>![冰川纱夜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-sayo_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/冰川纱夜) |
 | lisa imai | 今井莉莎 | [Roselia](https://zh.moegirl.org/Roselia)的贝斯手<br>![今井莉莎](https://commons.moegirl.org/thumb.php?f=Img_imai-lisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/今井莉莎) |
 | ako udagawa | 宇田川亚子 | [Roselia](https://zh.moegirl.org/Roselia)的鼓手<br>![宇田川亚子](https://commons.moegirl.org/thumb.php?f=Img_udagawa-ako_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/宇田川亚子) |
-| rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org/Roselia)的键盘手<br>![白金燐子](https://commons.moegirl.org/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白金燐子) |
+| rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org/Roselia)的**伟大的**键盘手<br>![白金燐子](https://commons.moegirl.org/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白金燐子) |
 | ran mitake | 美竹兰 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的主唱<br>![美竹兰](https://commons.moegirl.org/thumb.php?f=Img_mitake-ran_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/zh-cn/美竹兰) |
 | moca aoba | 青叶摩卡 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的吉他手<br>![青叶摩卡](https://commons.moegirl.org/thumb.php?f=Img_aoba-moca_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/青叶摩卡) |
 | himari uehara | 上原绯玛丽 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的贝斯手<br>![上原绯玛丽](https://commons.moegirl.org/thumb.php?f=Img_uehara-himari_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/上原绯玛丽) |
@@ -2978,6 +2978,13 @@ example:
 | yuu ishigami | 石上优 |  |  |
 | sasaki saku | 笹木咲 | 高中二年生，非常喜欢游戏和水族馆的悠悠性格的关西人。喜欢的生物是伞章鱼（扁面蛸）还有也喜欢熊猫（黑白生物）。虚拟大阪出身十六岁人。直播风格大胆，但只要遇见陌生人就会丧失语言能力。在第一次动画的自我介绍非常突然的模仿了一种水生动物箱鲀随后光速谢罪。奠定了熊猫人的路线必定不平凡。对任系游戏有着超常的热爱，擅长游戏《喷射战士2》，直播类型主要是游戏实况为主。<br>![SasakiSaku](https://img.moegirl.org/common/thumb/4/47/SasakiSaku.png/112px-SasakiSaku.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/笹木咲) [日文维基](https://ja.wikipedia.org/wiki/笹木咲) |
 | arulumaya | 阿露露梅娅 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/b/ba/Zoom_3040019000_03.png/288px-Zoom_3040019000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040019000) |
+| cain | 该隐 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/9/96/Zoom_3040171000_02.png/288px-Zoom_3040171000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040171000) |
+| mahira | 玛琪拉 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/c/c2/Zoom_3040107000_03.png/288px-Zoom_3040107000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040107000) |
+| melissabelle | 梅丽莎贝尔 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5c/Zoom_3040102000_02.png/288px-Zoom_3040102000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040102000) |
+| pholia | 芙莉亚 | ![额外](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/4/45/Zoom_3040181000_81.png/288px-Zoom_3040181000_81.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040181000) |
+| sandalphon | 圣德芬 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/a/ab/Zoom_3040153000_03.png/288px-Zoom_3040153000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
+| akari tsujino | 辻野朱里 | ![R 辻野あかり+](https://img.moegirl.org/common/thumb/a/a0/R_辻野あかり%2B.jpg/192px-R_辻野あかり%2B.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/辻野朱里) [pixiv百科](https://dic.pixiv.net/a/辻野あかり) [niconico大百科](https://dic.nicovideo.jp/a/辻野あかり) |
+| aru honshou | 本庄阿鲁 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

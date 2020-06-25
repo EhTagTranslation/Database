@@ -1771,6 +1771,19 @@ example:
 | a.l.l | A・L・L |  | [官方网站](http://all0102.blog76.fc2.com) |
 | hiyakake gohan | ひやかけごはん |  |  |
 | expander welder | エキスパンダー溶接 |  | [官方网站](http://expander-y.jugem.jp) |
+| makarontaitei | まかろん大帝 |  |  |
+| hoshi to matango | ほしとマタンゴ |  | [官方网站](http://kinokoisu.horemitakotoka.com) |
+| resort ukami | リゾートうかみ |  |  |
+| hatishiro | はちしろ |  | [官方网站](http://hatishiro.xii.jp) |
+| yureru keikoutou | 揺れる蛍光灯 |  |  |
+| rump | RUMP |  |  |
+| soratomoe | ソラトモエ |  |  |
+| death para | ですぱら |  |  |
+| hachiouji kaipan totsugeki kiheitai | 八王子海パン突撃騎兵隊 |  |  |
+| sand | sand |  |  |
+| usagigoya. | うさぎごや。 |  |  |
+| genmaicha | 玄米茶 |  |  |
+| skk | SKK |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
