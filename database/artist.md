@@ -2765,6 +2765,7 @@ example:
 | john | じょん |  | [pixiv](https://www.pixiv.net/users/4123270) [Twitter](https://twitter.com/soratouenban104) |
 | tamaki kurou | 鐶九朗 |  | [pixiv](https://www.pixiv.net/users/2409) [Twitter](https://twitter.com/tamaki96) |
 | haiba | 灰葉 |  | [pixiv](https://www.pixiv.net/users/9180731) |
+| makita yoshiharu | 巻田佳春 |  | [pixiv](https://www.pixiv.net/users/3869) [Twitter](https://twitter.com/yoshi_makita) |
 
 
 <!--TEMPLATE: 
