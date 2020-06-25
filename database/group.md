@@ -1783,6 +1783,7 @@ example:
 | sand | sand |  |  |
 | usagigoya. | うさぎごや。 |  |  |
 | genmaicha | 玄米茶 |  |  |
+| skk | SKK |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
