@@ -1773,6 +1773,7 @@ example:
 | expander welder | エキスパンダー溶接 |  | [官方网站](http://expander-y.jugem.jp) |
 | makarontaitei | まかろん大帝 |  |  |
 | hoshi to matango | ほしとマタンゴ |  | [官方网站](http://kinokoisu.horemitakotoka.com) |
+| resort ukami | リゾートうかみ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
