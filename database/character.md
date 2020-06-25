@@ -2323,7 +2323,7 @@ example:
 | sayo hikawa | 冰川纱夜 | [Roselia](https://zh.moegirl.org/Roselia)的吉他手<br>![冰川纱夜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-sayo_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/冰川纱夜) |
 | lisa imai | 今井莉莎 | [Roselia](https://zh.moegirl.org/Roselia)的贝斯手<br>![今井莉莎](https://commons.moegirl.org/thumb.php?f=Img_imai-lisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/今井莉莎) |
 | ako udagawa | 宇田川亚子 | [Roselia](https://zh.moegirl.org/Roselia)的鼓手<br>![宇田川亚子](https://commons.moegirl.org/thumb.php?f=Img_udagawa-ako_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/宇田川亚子) |
-| rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org/Roselia)的键盘手<br>![白金燐子](https://commons.moegirl.org/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白金燐子) |
+| rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org/Roselia)的**伟大的**键盘手<br>![白金燐子](https://commons.moegirl.org/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白金燐子) |
 | ran mitake | 美竹兰 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的主唱<br>![美竹兰](https://commons.moegirl.org/thumb.php?f=Img_mitake-ran_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/zh-cn/美竹兰) |
 | moca aoba | 青叶摩卡 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的吉他手<br>![青叶摩卡](https://commons.moegirl.org/thumb.php?f=Img_aoba-moca_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/青叶摩卡) |
 | himari uehara | 上原绯玛丽 | [Afterglow](https://zh.moegirl.org/Afterglow%28BanG_Dream!%29)的贝斯手<br>![上原绯玛丽](https://commons.moegirl.org/thumb.php?f=Img_uehara-himari_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/上原绯玛丽) |
