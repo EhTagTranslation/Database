@@ -2983,6 +2983,7 @@ example:
 | melissabelle | 梅丽莎贝尔 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5c/Zoom_3040102000_02.png/288px-Zoom_3040102000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040102000) |
 | pholia | 芙莉亚 | ![额外](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/4/45/Zoom_3040181000_81.png/288px-Zoom_3040181000_81.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040181000) |
 | sandalphon | 圣德芬 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/a/ab/Zoom_3040153000_03.png/288px-Zoom_3040153000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
+| akari tsujino | 辻野朱里 | ![R 辻野あかり+](https://img.moegirl.org/common/thumb/a/a0/R_辻野あかり%2B.jpg/192px-R_辻野あかり%2B.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/辻野朱里) [pixiv百科](https://dic.pixiv.net/a/辻野あかり) [niconico大百科](https://dic.nicovideo.jp/a/辻野あかり) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
