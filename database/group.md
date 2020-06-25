@@ -1774,6 +1774,7 @@ example:
 | makarontaitei | まかろん大帝 |  |  |
 | hoshi to matango | ほしとマタンゴ |  | [官方网站](http://kinokoisu.horemitakotoka.com) |
 | resort ukami | リゾートうかみ |  |  |
+| hatishiro | はちしろ |  | [官方网站](http://hatishiro.xii.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
