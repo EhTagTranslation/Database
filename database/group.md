@@ -1778,6 +1778,7 @@ example:
 | yureru keikoutou | 揺れる蛍光灯 |  |  |
 | rump | RUMP |  |  |
 | soratomoe | ソラトモエ |  |  |
+| death para | ですぱら |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
