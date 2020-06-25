@@ -2978,6 +2978,7 @@ example:
 | yuu ishigami | 石上优 |  |  |
 | sasaki saku | 笹木咲 | 高中二年生，非常喜欢游戏和水族馆的悠悠性格的关西人。喜欢的生物是伞章鱼（扁面蛸）还有也喜欢熊猫（黑白生物）。虚拟大阪出身十六岁人。直播风格大胆，但只要遇见陌生人就会丧失语言能力。在第一次动画的自我介绍非常突然的模仿了一种水生动物箱鲀随后光速谢罪。奠定了熊猫人的路线必定不平凡。对任系游戏有着超常的热爱，擅长游戏《喷射战士2》，直播类型主要是游戏实况为主。<br>![SasakiSaku](https://img.moegirl.org/common/thumb/4/47/SasakiSaku.png/112px-SasakiSaku.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/笹木咲) [日文维基](https://ja.wikipedia.org/wiki/笹木咲) |
 | arulumaya | 阿露露梅娅 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/b/ba/Zoom_3040019000_03.png/288px-Zoom_3040019000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040019000) |
+| cain | 该隐 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/9/96/Zoom_3040171000_02.png/288px-Zoom_3040171000_02.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
