@@ -2991,6 +2991,7 @@ example:
 | akari tsujino | 辻野朱里 | ![R 辻野あかり+](https://img.moegirl.org/common/thumb/a/a0/R_辻野あかり%2B.jpg/192px-R_辻野あかり%2B.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/辻野朱里) [pixiv百科](https://dic.pixiv.net/a/辻野あかり) [niconico大百科](https://dic.nicovideo.jp/a/辻野あかり) |
 | aru honshou | 本庄阿鲁 |  |  |
 | junko konno | 绀野纯子 |  |  |
+| saki nikaidou | 二阶堂咲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
