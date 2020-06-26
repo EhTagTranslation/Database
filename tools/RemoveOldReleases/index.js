@@ -12,9 +12,7 @@ const ACTOR = process.env.GITHUB_ACTOR;
 
 async function deleteRelease() {
   const octokit = new Octokit({ auth: AUTH_TOKEN });
-  const endpoint = octokit.repos.listReleases.endpoint.merge({ ...REPO_INFO });
-  /** @type Parameters<Parameters<ReturnType<typeof octokit['repos']['listReleases']>['then']>[0]>[0]['data'] */
-  const releases = await octokit.paginate(endpoint);
+  const releases = await octokit.paginate(octokit.repos.listReleases, {...REPO_INFO});
   console.log(`Found ${releases.length} releases`);
   const releases_to_delete = releases.slice(KEEP_RELEASE);
   const releases_to_keep = releases.slice(0, KEEP_RELEASE);
