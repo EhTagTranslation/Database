@@ -1791,6 +1791,7 @@ example:
 | skk | SKK |  |  |
 | ins-mode | INS-mode |  |  |
 | mellowmind | めろうまいんど |  |  |
+| 40denier | 40デニール |  | [官方网站](http://homeko.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
