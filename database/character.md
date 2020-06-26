@@ -2997,6 +2997,7 @@ example:
 | koutarou tatsumi | 巽幸太郎 |  |  |
 | sakura minamoto | 源樱 |  |  |
 | tae yamada | 山田多惠 |  |  |
+| ayano sugiura | 杉浦绫乃 | 清纯内向的学生会副会长，留有紫红色长发并扎成长马尾。岁纳京子、船见结衣、池田千岁的同班同学。在谁眼里都是个开朗、可爱的女孩，但实际上有点怕生。<br>![](https://commons.moegirl.org/thumb.php?f=29002156.jpg&width=147) | [萌娘百科](https://zh.moegirl.org/zh-hans/杉浦绫乃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
