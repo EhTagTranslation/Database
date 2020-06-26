@@ -2993,6 +2993,7 @@ example:
 | junko konno | 绀野纯子 |  |  |
 | saki nikaidou | 二阶堂咲 |  |  |
 | yuugiri | 夕雾 |  |  |
+| lily hoshikawa | 星川莉莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
