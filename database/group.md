@@ -1795,6 +1795,7 @@ example:
 | utsura uraraka | うつらうららか |  | [官方网站](http://u-u.2-d.jp) |
 | pannomimi | ぱんのみみ |  | [官方网站](http://pannomimi.net) |
 | sweet avenue | Sweet Avenue |  | [官方网站](http://sweet-avenue.jp) |
+| atelier stars | あとりえスターズ |  | [旧官方网站](http://blog.livedoor.jp/arito_arayuru) [新官方网站](https://arito-arayuru.hateblo.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
