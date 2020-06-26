@@ -2778,6 +2778,7 @@ example:
 | ken hultgren | 赓·赫尔脱格仑 |  | [Illustrators’ Lounge](https://illustratorslounge.com/educational/ken-hultgren) |
 | senmu | SeNMU | ![SeNMU头像](https://i.jpg.dog/img/d55be3f90d8d6356e92fe3e3b5895346.jpg) | [Twitter](https://twitter.com/SeNMU0107) [pixiv](https://www.pixiv.net/users/65308) |
 | arito arayuru | 有都あらゆる |  | [Twitter](https://twitter.com/arito_arayuru) [pixiv](https://www.pixiv.net/users/3733098) |
+| 9so | 9SO |  | [pixiv](https://www.pixiv.net/users/78838) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
