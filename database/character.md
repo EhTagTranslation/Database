@@ -2995,6 +2995,7 @@ example:
 | yuugiri | 夕雾 |  |  |
 | lily hoshikawa | 星川莉莉 |  |  |
 | koutarou tatsumi | 巽幸太郎 |  |  |
+| sakura minamoto | 源樱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
