@@ -1790,6 +1790,7 @@ example:
 | genmaicha | 玄米茶 |  |  |
 | skk | SKK |  |  |
 | ins-mode | INS-mode |  |  |
+| mellowmind | めろうまいんど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
