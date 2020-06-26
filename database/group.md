@@ -1789,6 +1789,7 @@ example:
 | usagigoya. | うさぎごや。 |  |  |
 | genmaicha | 玄米茶 |  |  |
 | skk | SKK |  |  |
+| ins-mode | INS-mode |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
