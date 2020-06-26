@@ -2990,6 +2990,7 @@ example:
 | sandalphon | 圣德芬 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/a/ab/Zoom_3040153000_03.png/288px-Zoom_3040153000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
 | akari tsujino | 辻野朱里 | ![R 辻野あかり+](https://img.moegirl.org/common/thumb/a/a0/R_辻野あかり%2B.jpg/192px-R_辻野あかり%2B.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/辻野朱里) [pixiv百科](https://dic.pixiv.net/a/辻野あかり) [niconico大百科](https://dic.nicovideo.jp/a/辻野あかり) |
 | aru honshou | 本庄阿鲁 |  |  |
+| junko konno | 绀野纯子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
