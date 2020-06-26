@@ -2992,6 +2992,7 @@ example:
 | aru honshou | 本庄阿鲁 |  |  |
 | junko konno | 绀野纯子 |  |  |
 | saki nikaidou | 二阶堂咲 |  |  |
+| yuugiri | 夕雾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
