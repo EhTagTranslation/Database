@@ -1796,6 +1796,7 @@ example:
 | pannomimi | ぱんのみみ |  | [官方网站](http://pannomimi.net) |
 | sweet avenue | Sweet Avenue |  | [官方网站](http://sweet-avenue.jp) |
 | atelier stars | あとりえスターズ |  | [旧官方网站](http://blog.livedoor.jp/arito_arayuru) [新官方网站](https://arito-arayuru.hateblo.jp) |
+| wildstyle | wildstyle |  | [Twitter](https://twitter.com/wildstyle6666) [官方网站](http://wildstyle6666.blog.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
