@@ -2,10 +2,17 @@
 # yarn lockfile v1
 
 
-"@kwsites/exec-p@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.npm.taobao.org/@kwsites/exec-p/download/@kwsites/exec-p-0.4.0.tgz#ab3765d482849ba6e825721077c248cf9f3323b7"
-  integrity sha1-qzdl1IKEm6boJXIQd8JIz58zI7c=
+"@kwsites/file-exists@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.npm.taobao.org/@kwsites/file-exists/download/@kwsites/file-exists-1.1.1.tgz#ad1efcac13e1987d8dbaf235ef3be5b0d96faa99"
+  integrity sha1-rR78rBPhmH2NuvI17zvlsNlvqpk=
+  dependencies:
+    debug "^4.1.1"
+
+"@kwsites/promise-deferred@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/@kwsites/promise-deferred/download/@kwsites/promise-deferred-1.0.1.tgz#63b170e0d02b85a1fa6ad6bdea1f2f14f6f6adc2"
+  integrity sha1-Y7Fw4NArhaH6ata96h8vFPb2rcI=
 
 "@octokit/auth-token@^2.4.0":
   version "2.4.0"
@@ -14,15 +21,15 @@
   dependencies:
     "@octokit/types" "^2.0.0"
 
-"@octokit/core@^2.4.3":
-  version "2.5.3"
-  resolved "https://registry.npm.taobao.org/@octokit/core/download/@octokit/core-2.5.3.tgz#dd754e6f5ad9b15631e9b276ae4f00ac2ea2cf9b"
-  integrity sha1-3XVOb1rZsVYx6bJ2rk8ArC6iz5s=
+"@octokit/core@^3.0.0":
+  version "3.1.0"
+  resolved "https://registry.npm.taobao.org/@octokit/core/download/@octokit/core-3.1.0.tgz#9c3c9b23f7504668cfa057f143ccbf0c645a0ac9"
+  integrity sha1-nDybI/dQRmjPoFfxQ8y/DGRaCsk=
   dependencies:
     "@octokit/auth-token" "^2.4.0"
     "@octokit/graphql" "^4.3.1"
     "@octokit/request" "^5.4.0"
-    "@octokit/types" "^4.0.1"
+    "@octokit/types" "^5.0.0"
     before-after-hook "^2.1.0"
     universal-user-agent "^5.0.0"
 
@@ -65,12 +72,12 @@
   resolved "https://registry.npm.taobao.org/@octokit/plugin-request-log/download/@octokit/plugin-request-log-1.0.0.tgz#eef87a431300f6148c39a7f75f8cfeb218b2547e"
   integrity sha1-7vh6QxMA9hSMOaf3X4z+shiyVH4=
 
-"@octokit/plugin-rest-endpoint-methods@^3.12.2":
-  version "3.13.0"
-  resolved "https://registry.npm.taobao.org/@octokit/plugin-rest-endpoint-methods/download/@octokit/plugin-rest-endpoint-methods-3.13.0.tgz#c514c7fe12a0325618a981b32c41f8e0446263a7"
-  integrity sha1-xRTH/hKgMlYYqYGzLEH44ERiY6c=
+"@octokit/plugin-rest-endpoint-methods@4.0.0":
+  version "4.0.0"
+  resolved "https://registry.npm.taobao.org/@octokit/plugin-rest-endpoint-methods/download/@octokit/plugin-rest-endpoint-methods-4.0.0.tgz#b02a2006dda8e908c3f8ab381dd5475ef5a810a8"
+  integrity sha1-sCogBt2o6QjD+Ks4HdVHXvWoEKg=
   dependencies:
-    "@octokit/types" "^4.1.1"
+    "@octokit/types" "^5.0.0"
     deprecation "^2.3.1"
 
 "@octokit/request-error@^1.0.1":
@@ -119,15 +126,15 @@
     once "^1.4.0"
     universal-user-agent "^5.0.0"
 
-"@octokit/rest@^17.9.2":
-  version "17.9.2"
-  resolved "https://registry.npm.taobao.org/@octokit/rest/download/@octokit/rest-17.9.2.tgz#725476630c7bc7d59488b8337a0936255d24b7ff"
-  integrity sha1-clR2Ywx7x9WUiLgzegk2JV0kt/8=
+"@octokit/rest@^18.0.0":
+  version "18.0.0"
+  resolved "https://registry.npm.taobao.org/@octokit/rest/download/@octokit/rest-18.0.0.tgz#7f401d9ce13530ad743dfd519ae62ce49bcc0358"
+  integrity sha1-f0AdnOE1MK10Pf1RmuYs5JvMA1g=
   dependencies:
-    "@octokit/core" "^2.4.3"
+    "@octokit/core" "^3.0.0"
     "@octokit/plugin-paginate-rest" "^2.2.0"
     "@octokit/plugin-request-log" "^1.0.0"
-    "@octokit/plugin-rest-endpoint-methods" "^3.12.2"
+    "@octokit/plugin-rest-endpoint-methods" "4.0.0"
 
 "@octokit/types@^2.0.0":
   version "2.3.1"
@@ -136,10 +143,17 @@
   dependencies:
     "@types/node" ">= 8"
 
-"@octokit/types@^4.0.1", "@octokit/types@^4.1.1":
+"@octokit/types@^4.0.1":
   version "4.1.1"
   resolved "https://registry.npm.taobao.org/@octokit/types/download/@octokit/types-4.1.1.tgz#e2dc79d49b04c7f0e84fe61b0da28187d9bbaa2c"
   integrity sha1-4tx51JsEx/DoT+YbDaKBh9m7qiw=
+  dependencies:
+    "@types/node" ">= 8"
+
+"@octokit/types@^5.0.0":
+  version "5.0.1"
+  resolved "https://registry.npm.taobao.org/@octokit/types/download/@octokit/types-5.0.1.tgz#5459e9a5e9df8565dcc62c17a34491904d71971e"
+  integrity sha1-VFnppenfhWXcxiwXo0SRkE1xlx4=
   dependencies:
     "@types/node" ">= 8"
 
@@ -164,9 +178,9 @@ cross-spawn@^6.0.0:
     shebang-command "^1.2.0"
     which "^1.2.9"
 
-debug@^4.0.1:
+debug@^4.1.1:
   version "4.1.1"
-  resolved "https://registry.npm.taobao.org/debug/download/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
+  resolved "https://registry.npm.taobao.org/debug/download/debug-4.1.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdebug%2Fdownload%2Fdebug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
   integrity sha1-O3ImAlUQnGtYnO4FDx1RYTlmR5E=
   dependencies:
     ms "^2.1.1"
@@ -307,13 +321,14 @@ signal-exit@^3.0.0:
   resolved "https://registry.npm.taobao.org/signal-exit/download/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
 
-simple-git@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.npm.taobao.org/simple-git/download/simple-git-2.5.0.tgz#538b14b25f83916a56f30eca53f13796db6712f6"
-  integrity sha1-U4sUsl+DkWpW8w7KU/E3lttnEvY=
+simple-git@^2.11.0:
+  version "2.11.0"
+  resolved "https://registry.npm.taobao.org/simple-git/download/simple-git-2.11.0.tgz#5bd99fe3465dcbcb82f0eb23ab3c1615cb947374"
+  integrity sha1-W9mf40Zdy8uC8OsjqzwWFcuUc3Q=
   dependencies:
-    "@kwsites/exec-p" "^0.4.0"
-    debug "^4.0.1"
+    "@kwsites/file-exists" "^1.1.1"
+    "@kwsites/promise-deferred" "^1.0.1"
+    debug "^4.1.1"
 
 strip-eof@^1.0.0:
   version "1.0.0"

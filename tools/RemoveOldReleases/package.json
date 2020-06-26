@@ -8,7 +8,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "@octokit/rest": "^17.9.2",
-    "simple-git": "^2.5.0"
+    "@octokit/rest": "^18.0.0",
+    "simple-git": "^2.11.0"
   }
 }
