@@ -1792,6 +1792,7 @@ example:
 | ins-mode | INS-mode |  |  |
 | mellowmind | めろうまいんど |  |  |
 | 40denier | 40デニール |  | [官方网站](http://homeko.sakura.ne.jp) |
+| utsura uraraka | うつらうららか |  | [官方网站](http://u-u.2-d.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
