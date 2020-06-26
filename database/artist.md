@@ -2775,6 +2775,7 @@ example:
 | mogu | モグ |  | [pixiv](https://www.pixiv.net/users/2727119) [Twitter](https://twitter.com/MoGu_1i27) |
 | cbgb | CBGB |  | [pixiv](https://www.pixiv.net/users/4565436) [Twitter](https://twitter.com/cbgb31) |
 | eretto | えれっと | ![えれっと头像](https://i.jpg.dog/img/cf676273f82dbe2cc029e6cd11c962f0.jpg) | [Twitter](https://twitter.com/eretto_) [pixiv](https://www.pixiv.net/users/290340) [日文维基](https://ja.wikipedia.org/wiki/えれっと) |
+| ken hultgren | 赓·赫尔脱格仑 |  | [Illustrators’ Lounge](https://illustratorslounge.com/educational/ken-hultgren) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
