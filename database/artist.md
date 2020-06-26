@@ -2777,6 +2777,7 @@ example:
 | eretto | えれっと | ![えれっと头像](https://i.jpg.dog/img/cf676273f82dbe2cc029e6cd11c962f0.jpg) | [Twitter](https://twitter.com/eretto_) [pixiv](https://www.pixiv.net/users/290340) [日文维基](https://ja.wikipedia.org/wiki/えれっと) |
 | ken hultgren | 赓·赫尔脱格仑 |  | [Illustrators’ Lounge](https://illustratorslounge.com/educational/ken-hultgren) |
 | senmu | SeNMU | ![SeNMU头像](https://i.jpg.dog/img/d55be3f90d8d6356e92fe3e3b5895346.jpg) | [Twitter](https://twitter.com/SeNMU0107) [pixiv](https://www.pixiv.net/users/65308) |
+| arito arayuru | 有都あらゆる |  | [Twitter](https://twitter.com/arito_arayuru) [pixiv](https://www.pixiv.net/users/3733098) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
