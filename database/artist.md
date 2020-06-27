@@ -124,7 +124,7 @@ example:
 | shimada fumikane | 岛田文金 | 岛田文金（日语：島田フミカネ，1974年1月26日－），是日本的萌系插画家，主打兵器娘类之图，代表作有メカ娘、武装神姬（第一弹、第八弹）、天翔少女和Strike Witches的设定等。其笔名来自于文金高岛田。<br>岛田文金的兵器娘，常常就如Strike Witches的魔女们一样，上半身穿着较为正常，而下半身却穿着低衩内裤等服装。<br>![岛田文金Twitter头像](https://i.jpg.dog/img/f1092402bc5f1b39cc1f99a445151807.jpg) | [Twitter](https://twitter.com/humikane) [个人网站](http://www.ne.jp/asahi/humikane/e-wacs) [中文维基](https://zh.wikipedia.org/wiki/島田文金) |
 | ryohka | 凉香 | 凉香（Ryohka，2月6日－）是日本女性插画家。神奈川县横滨市出身。主要担当十八禁美少女游戏的原画和人物设计等工作。 | [Twitter](https://twitter.com/ryohka_jp) [pixiv](https://www.pixiv.net/users/10054355) [个人网站](https://ryohka.tuna.be/) [中文维基](https://zh.wikipedia.org/wiki/涼香) |
 | shinkai makoto | 新海诚 | 新海诚（日语：新海 誠／しんかい まこと Shinkai Makoto，1973年2月9日－），本名新津诚（新津 誠／にいつ まこと Niitsu Makoto），为日本动画作家和电影导演，长野县南佐久郡小海町出身，现居东京。于2002年公开独立制作的动画短片《星之声》后开始受到瞩目。 | [Twitter](https://twitter.com/shinkaimakoto) [个人网站](http://shinkaimakoto.jp) [中文维基](https://zh.wikipedia.org/wiki/新海誠) |
-| benet | ベネット | 所属[膝上5センチメートル]社团的ベネット | [Twitter](https://twitter.com/benet_rn) [pixiv](https://www.pixiv.net/users/143220) |
+| benet | ベネット | 所属\[膝上5センチメートル\]社团的ベネット | [Twitter](https://twitter.com/benet_rn) [pixiv](https://www.pixiv.net/users/143220) |
 | ponpon | ぽんぽん | ![ぽんぽん头像](https://i.jpg.dog/img/d8d3ea3041843e34f154b24903a10736.jpg) | [Twitter](https://twitter.com/ponpon9020) [pixiv](https://www.pixiv.net/users/2470002) |
 | tetsujin | 铁人 |  | [Twitter](https://twitter.com/tetsujinybc) |
 | hiyoko | ひよさん |  | [Twitter](https://twitter.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) |
@@ -842,7 +842,7 @@ example:
 | bosshi | ぼっしぃ | 代表作：扶她部(ふた部)<br>![图](# "https://ehgt.org/86/13/861361f96cb61f8bdf1933ed548bdb25f0a37d51-105241-600-800-jpg_l.jpg") |  |
 | inu | 犬 | 代表作：初犬系列<br>![图](# "https://ehgt.org/25/55/2555c451ca321380282e7f9917dcf262c65c28bb-745866-1369-1200-jpg_l.jpg") |  |
 | takeda hiromitsu | 武田弘光 | ![图](# "https://ehgt.org/80/c9/80c97d34bcf531019ac41d767d77378f913d3036-881347-1142-1600-jpg_l.jpg") |  |
-| shiwasu no okina | 師走の翁 | 作品多以大乱交为主。<br>代表作：アイブカ[仮]<br>![图](# "https://ehgt.org/9e/fb/9efb90bd585a92e8dbc49e8ad9d07e5b940fcb39-1369366-2161-3000-jpg_l.jpg") |  |
+| shiwasu no okina | 師走の翁 | 作品多以大乱交为主。<br>代表作：アイブカ\[仮\]<br>![图](# "https://ehgt.org/9e/fb/9efb90bd585a92e8dbc49e8ad9d07e5b940fcb39-1369366-2161-3000-jpg_l.jpg") |  |
 | shindol | 新堂エル | 被誉为“里界白求恩”，美国人。<br>代表作：TSF物語<br>![图](# "https://ehgt.org/7f/9e/7f9e010977d468bc42d4cade8f675d74c4a21a6b-1312554-3711-1600-jpg_l.jpg") |  |
 | otono natsu | 音乃夏 | 代表作：女子高生の腰つき<br>![图](# "https://ehgt.org/41/0b/410bbcb6fd7331fb44b8c7a1b60fcd92a5de01d4-1479001-3632-1600-jpg_l.jpg") |  |
 | yasui riosuke | ヤスイリオスケ | ![图](# "https://ehgt.org/0b/04/0b0465ba83727f5201ae69690f8a40f8e08afc2c-820428-2166-3036-jpg_l.jpg") |  |
@@ -1308,7 +1308,7 @@ example:
 | momiyama | もみやま |  |  |
 | shimantogawa | 四万十川 |  |  |
 | zhen lu | 珍绿 |  |  |
-| devilhs | Devil_HS |  |  |
+| devilhs | Devil\_HS |  |  |
 | aina nana | 愛菜奈々 |  |  |
 | yokoshima takemaru | 邪武丸 |  |  |
 |  | ふろくま |  |  |
@@ -1628,7 +1628,7 @@ example:
 | ohsaka minami | 逢坂ミナミ |  |  |
 | raymon | RAYMON |  |  |
 | shiroie mika | 白家ミカ |  |  |
-| tes-mel | tes_mel |  |  |
+| tes-mel | tes\_mel |  |  |
 | toba yuga | 跳马游鹿 |  |  |
 | yoshida tobio | 吉田鸢牡 |  |  |
 | zero no mono | ゼロの者 |  |  |
@@ -2440,8 +2440,8 @@ example:
 | yanagi yuu | ヤナギユウ |  |  |
 | ponite korosuke | ポニテコロ介 |  |  |
 | azuse | あずせ | ![あずせ](https://i.pixiv.cat/user-profile/img/2019/01/25/00/17/46/15303164_c7c876e27b08c9b603fbfdfc36445a6c_170.png)<br>月刊「アナンガ・ランガ」作者<br><br>![カワイイ女の子を釣る方法](# "https://i.pixiv.cat/img-original/img/2019/06/26/02/49/19/75410651_p0.jpg") | [画师推特](https://twitter.com/_azuse) [pixiv](https://www.pixiv.net/users/71881) |
-| mameojitan | まめおじたん | ![あずせ](https://i.pixiv.cat/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen<br>](https://i.pixiv.cat/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/users/1297967) |
-| giuniu | ぎうにう | ![ぎうにう](https://i.pixiv.cat/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん<br>](https://i.pixiv.cat/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://twitter.com/g1un1u) [pixiv](https://www.pixiv.net/users/265292) |
+| mameojitan | まめおじたん | ![あずせ](https://i.pixiv.cat/user-profile/img/2016/08/18/15/55/24/11368877_a999a4dd243aa415d3d09cd96648e2b4_170.jpg)<br>茜新社「comic高」作者<br>![Knospenmädchen](https://i.pixiv.cat/img-original/img/2019/08/31/14/59/41/76548766_p0.jpg) | [画师推特](https://twitter.com/_o_j_i_3_) [pixiv](https://www.pixiv.net/users/1297967) |
+| giuniu | ぎうにう | ![ぎうにう](https://i.pixiv.cat/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん](https://i.pixiv.cat/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://twitter.com/g1un1u) [pixiv](https://www.pixiv.net/users/265292) |
 | sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://twitter.com/sabusuka) [pixiv](https://www.pixiv.net/users/13316) |
 | senji | 煎路 |  |  |
 | komowata haruka | こもわた遥華 |  |  |
@@ -2669,7 +2669,7 @@ example:
 | kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [Twitter](https://twitter.com/Trg_AKT) |
 | natsuki yuu | なつきゆう |  | [pixiv](https://www.pixiv.net/users/226893) [Twitter](https://twitter.com/natsukiyuu) |
 | pan | ぱん |  | [pixiv](https://www.pixiv.net/users/178311) [Twitter](https://twitter.com/panno_mimi) |
-| yaman | yaman** |  | [pixiv](https://www.pixiv.net/users/3043057) [Twitter](https://twitter.com/yamanta_15) |
+| yaman | yaman\*\* |  | [pixiv](https://www.pixiv.net/users/3043057) [Twitter](https://twitter.com/yamanta_15) |
 | anapon | あなぽん |  | [pixiv](https://www.pixiv.net/users/1640464) [Twitter](https://twitter.com/anapom) |
 | mashiro shirako | 真白しらこ |  |  |
 | yagi the goat | ヤギの人 | ![ヤギの人](https://i.pixiv.cat/user-profile/img/2018/12/31/01/01/14/15193810_c278d82c729fa8a5b68354a87e8ce2b0_170.png)<br>日本画师，擅长画furry。 | [Twitter](https://twitter.com/s1120411) [Pixiv](https://www.pixiv.net/users/12714855) [新浪微博](https://www.weibo.com/u/6445794323) |
