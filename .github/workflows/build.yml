@@ -29,8 +29,8 @@ jobs:
         yarn node gen-token.js
     - name: init git config
       run: |
-        git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com>'
-        git config --global user.name  'github-actions[bot]'
+        git config --global user.email '66814738+ehtagtranslation[bot][bot]@users.noreply.github.com'
+        git config --global user.name  'ehtagtranslation[bot][bot]'
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 2.2.402
