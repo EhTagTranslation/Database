@@ -769,7 +769,7 @@ example:
 | jet-black baselarde | 漆黒のバゼラード |  |  |
 | juicebox koujou | ジュースボックス工場 |  |  |
 | yukinohana | ユキノハナ |  |  |
-| sa ku | sa_ku |  |  |
+| sa ku | sa\_ku |  |  |
 | rurunoya | るるノ屋 |  |  |
 | all delete | ALL DELETE |  |  |
 | sigma-arts | Σ-Arts |  |  |
@@ -1360,7 +1360,7 @@ example:
 | saragi | 蛇穴 |  |  |
 | c2.inc | C2.Inc |  |  |
 | km1chome | 健町一丁目 |  |  |
-| atelier dr.heads | [アトリエDr.HEAD'S |  |  |
+| atelier dr.heads | アトリエDr.HEAD'S |  |  |
 | datsuryoku kenkyuukai | 脱力研究会 |  |  |
 | mebius no wa | Mebiusの環 |  |  |
 | zenra qq | 全裸QQ |  |  |
@@ -1710,7 +1710,7 @@ example:
 | chilly polka | Chilly polka |  |  |
 | morimiyakan | 森宮缶 |  |  |
 | ninokoya | にのこや |  |  |
-| mocha2popcorn | mocha*2popcorn |  |  |
+| mocha2popcorn | mocha\*2popcorn |  |  |
 | kuronisiki | 黒錦 |  |  |
 | awayukitist | あわ雪チスト |  |  |
 | ugc | UGC |  |  |
