@@ -633,7 +633,7 @@ example:
 | hayate no gotoku | 旋风管家 |  |  |
 | yoake mae yori ruriiro na | 更胜黎明前的琉璃色 |  |  |
 | fortune arterial | FORTUNE ARTERIAL |  |  |
-| princess holiday | 公主假日 \~回转苹果亭的一千零一夜\~ |  |  |
+| princess holiday | 公主假日 ~回转苹果亭的一千零一夜~ |  |  |
 | tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |  |
 | daitoshokan no hitsujikai | 大图书馆的牧羊人 |  |  |
 | aiyoku no eustia | 秽翼的尤斯蒂娅 |  |  |
@@ -751,8 +751,8 @@ example:
 | atelier series | 炼金工作室 | 《炼金工作室系列》（日语：アトリエシリーズ；英语：Atelier (series)）是由GUST制作的系列游戏。 |  |
 | atelier marie | 玛莉的工作室 | 《炼金工作室系列》A1 |  |
 | atelier elie | 艾莉的工作室 | 《炼金工作室系列》A2 |  |
-| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6\~A8 |  |
-| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9\~A10 |  |
+| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6~A8 |  |
+| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9~A10 |  |
 | atelier rorona | 罗罗娜的工作室 | 《炼金工作室系列》A11 |  |
 | atelier totori | 托托莉的工作室 | 《炼金工作室系列》A12 |  |
 | atelier meruru | 梅露露的工作室 | 《炼金工作室系列》A13 |  |
@@ -1362,7 +1362,7 @@ example:
 | guardian heroes | 守护英雄 | 《守护英雄》（日语：ガーディアン ヒーローズ，英语：Guardian Heroes）是一款由Treasure制作、世嘉发行的清版动作游戏。游戏于1996年1月25日在世嘉土星北美地区发行，于1月26日在日本发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/守护英雄) (\*) |
 | the incredibles | 超人总动员 | 《超人总动员》（英语：The Incredibles）皮克斯动画工作室制作，迪士尼发行的第六部长篇电脑动画。本片由布拉德·伯德（Brad Bird）导演，Michael Giacchino 配乐，于2004年上映。获第77届奥斯卡最佳动画片奖。而续集《超人总动员2》于2018年6月15日在美国上映 。 | [维基百科](https://zh.wikipedia.org/zh-cn/超人特攻隊_%28電影%29) (\*) |
 | yakitate japan | 日式面包王 | 《日式面包王》（日语：焼きたて!! ジャぱん）是日本漫画家桥口隆志的少年漫画，连载于《周刊少年Sunday》（小学馆）2002年4、5合并号至2007年4号。以及2004年10月至2006年3月播出依此改编的电视动画。曾荣获第49回小学馆漫画赏。 | [维基百科](https://zh.wikipedia.org/zh-cn/日式麵包王) (\*) |
-| planetarian | 星之梦 | 《星之梦》（日文原名：planetarian ～ちいさなほしのゆめ～，英文名：planetarian \~the reverie of a little planet\~），是日本Key社的第四部作品，也是视觉小说系列“Kinetic Novel”的第一部。亦指以原作为中心展开的小说等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/星之夢) (\*) |
+| planetarian | 星之梦 | 《星之梦》（日文原名：planetarian ～ちいさなほしのゆめ～，英文名：planetarian ~the reverie of a little planet~），是日本Key社的第四部作品，也是视觉小说系列“Kinetic Novel”的第一部。亦指以原作为中心展开的小说等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/星之夢) (\*) |
 | cave story | 洞窟物语 | 《洞窟物语》（日语：洞窟物語，英语：Cave Story）是于2004年发布的一款PC平台上的免费平台冒险游戏，由天谷大辅利用5年间的业余时间开发而成。《洞窟物语》以其对2D平台技术的充分利用与游戏的复古风格而著称，且也是对作者年少时玩过的《银河战士》等经典风格游戏的致敬之作。 | [维基百科](https://zh.wikipedia.org/zh-cn/洞窟物語) (\*) |
 | btooom | BTOOOM!惊爆游戏 | 《BTOOOM!》（日语：ブトゥーム；中文：惊爆游戏）是日本漫画家井上淳哉的漫画作品。2009年6月19日（29号）至2010年8月27日（39号，最终号）在新潮社旗下青年漫画杂志《周刊Comic Bunch》上连载，之后由于《周刊Comic Bunch》的休刊，在2011年1月21日转移到同属新潮社旗下另一本青年漫画杂志《月刊Comic@Bunch》上，从杂志创刊号开始连载至今。 | [维基百科](https://zh.wikipedia.org/zh-cn/BTOOOM!) (\*) |
 | nichijou | 日常 | 《日常》（日语：日常）是日本漫画家新井圭一的日本漫画作品，于《月刊少年Ace》与《Comptiq》两个杂志上连载。中文版由台湾角川出版发行。动画方面由京都动画制作，2011年3月先发行全1集的OVA，标题名为“日常的0话”，后在同年4月至9月播出26集的电视动画。台湾动画代理由普威尔国际发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/日常) (\*) |
@@ -1405,7 +1405,7 @@ example:
 | wake up girls | Wake Up, Girls! | 《Wake Up, Girls!》，简称《WUG》，是由Ordet和龙之子制作公司共同制作的原创偶像动画，2014年1月10日开始播放电视动画及公开上映剧场版《Wake Up, Girls! 七位偶像》。剧场版第2作于2015年9月及12月分上下篇公开，主导制作改由Ordet与Millepensee制作。原创网络动画《うぇいくあっぷがーるZOO!》开始龙之子不再参与，改为Ordet和STUDIO MORIKEN共同制作。 | [维基百科](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!) (\*) |
 | golden kamuy | 黄金神威 | 《黄金神威》（日语：ゴールデンカムイ）是日本漫画家野田智的漫画作品，于2014年38号的《周刊YOUNG JUMP》上开始连载。至2018年8月止，日本地区漫画单行本累计销售量突破800万本。2018年荣获第22届手冢治虫文化赏的漫画大赏，4月播出改编的同名电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/黃金神威) (\*) |
 | komi-san wa komyushou desu. | 古见同学有交流障碍症 | 《古见同学有交流障碍症》（日语：古見さんは、コミュ症です）是日本漫画家小田智仁所创作的校园搞笑漫画，于2016年开始在小学馆周刊少年Sunday杂志第25期开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/古見同學有交流障礙症) (\*) |
-| kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | 《辉夜大小姐想让我告白\~天才们的恋爱头脑战\~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品，现于《周刊YOUNG JUMP》连载中。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~) (\*) |
+| kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | 《辉夜大小姐想让我告白~天才们的恋爱头脑战~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品，现于《周刊YOUNG JUMP》连载中。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~) (\*) |
 | watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/天使降臨到我身邊！) (\*) |
 | darkest dungeon | 暗黑地牢 |  |  |
 | idol wars z | IDOL WARS Z |  |  |
@@ -1449,7 +1449,7 @@ example:
 | the hunchback of notre dame | 钟楼怪人 | 《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。 | [维基百科](https://zh.wikipedia.org/wiki/钟楼怪人_%281996年电影%29) (\*) |
 | kodoku no gourmet | 孤独的美食家 |  |  |
 | kishuku gakkou no juliet | 寄宿学校的朱丽叶 | 《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。<br>![寄宿学校的朱丽叶](https://img.moegirl.org/common/9/98/Kishuku_Gakkou_no_Juliet_Vol1.jpg) | [寄宿学校的茱丽叶 - Wikipedia](https://zh.wikipedia.org/zh-cn/寄宿學校的茱麗葉 "寄宿学校的茱丽叶")<br>[寄宿学校的朱丽叶 - 萌娘百科](https://zh.moegirl.org/zh-hans/寄宿学校的朱丽叶 "寄宿学校的朱丽叶") |
-| kemurikusa | 烟草 | 《烟草》原先是由自主动画制作团体irodori，于2010年\~2012年之间所制作的独立动画作品。2018年时宣布改编电视动画，由YAOYOROZU进行制作，皆为达纪监督执导，2019年1月9日开播。<br>[![](https://img.moegirl.org/common/d/d9/Kemurikusa_character.jpg)](烟草完结贺图) | [烟草 - 萌娘百科](https://zh.moegirl.org/zh-hans/烟草 "烟草 - 萌娘百科")<br>[烟草 - Wikipedia](https://zh.wikipedia.org/zh-cn/煙草_%28動畫%29 "烟草 - Wikipedia") |
+| kemurikusa | 烟草 | 《烟草》原先是由自主动画制作团体irodori，于2010年~2012年之间所制作的独立动画作品。2018年时宣布改编电视动画，由YAOYOROZU进行制作，皆为达纪监督执导，2019年1月9日开播。<br>[![](https://img.moegirl.org/common/d/d9/Kemurikusa_character.jpg)](烟草完结贺图) | [烟草 - 萌娘百科](https://zh.moegirl.org/zh-hans/烟草 "烟草 - 萌娘百科")<br>[烟草 - Wikipedia](https://zh.wikipedia.org/zh-cn/煙草_%28動畫%29 "烟草 - Wikipedia") |
 | tate no yuusha no nariagari | 盾之勇者成名录 |  |  |
 | watashi nouryoku wa heikinchi de tte itta yo ne | 我，不是说了能力要平均值么！ | 《我不是说了能力要平均值吗？》（日语：私、能力は平均値でって言ったよね！），为2016年1月14日于成为小说家吧上连载的轻小说，作者为FUNA。后由地球之星娱乐出版，亚方逸树负责插画。同年8月推出漫画版，于Comic Earth Star连载，ねこみんと绘画。在2018年宣布改编为动画。<br>![](https://img.moegirl.org/common/0/06/我不是说了能力要平均值么.jpg)<br>![](https://img.moegirl.org/common/a/ab/Noukin_Anime_KV.jpg) | [Wikipedia](https://zh.wikipedia.org/zh-cn/我不是說了能力要平均值嗎？ "Wikipedia")<br>[萌娘百科](https://zh.moegirl.org/我，不是说了能力要平均值么 "萌娘百科") |
 | itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu. | 因为太怕痛就全点防御力了 | 《因为太怕痛就全点防御力了》（日语：痛いのは嫌なので防御力に極振りしたいと思います。）为夕蜜柑所写的日本轻小说。于2016年5月在“成为小说家吧”上连载。书籍版由角川书籍出版，插图由狐印负责。动画版于2020年1月8日开始播放，共12集。第一期动画结束后，官方宣布第二期制作决定。<br>![](https://img.moegirl.org/common/4/43/Itainohaiya_01.jpg)<br>![](https://img.moegirl.org/common/a/a9/Itainohaiya_Anime_KV.png) | [Wikipedia](https://zh.wikipedia.org/zh-cn/怕痛的我，把防禦力點滿就對了 "Wikipedia")<br>[萌娘百科](https://zh.moegirl.org/zh-hans/怕痛的我，把防御力点满就对了 "萌娘百科") |
