@@ -2511,7 +2511,7 @@ example:
 | oozora subaru | 大空昴 | 大空昴（大空 スバル／Ōzora Subaru）是从2018年9月16日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![](https://img.moegirl.org/common/2/2c/Ōzora_Subaru.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/大空昴) |
 |  |  | GAMERS |  |
 | ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的`VTuber`，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
-| inugami korone | 戌神沁音 | 戌神沁音（戌神ころね／Inugami Korone）是从2019年4月13日在YouTube开始活动的VTuber，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org/common/e/e3/InugamiKorone_idol.jpg) | [萌娘百科](https://zh.moegirl.org/戌神沁音) |
+| inugami korone | 戌神沁音 | 戌神沁音（戌神ころね／Inugami Korone）是从2019年4月13日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。<br>![]([萌娘百科](https://img.moegirl.org/common/e/e3/InugamiKorone_idol.jpg) | [萌娘百科](https://zh.moegirl.org/戌神沁音) |
 | nekomata okayu | 猫又小粥 | 猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org/common/5/50/NekomataOkayu_idol.jpg) | [萌娘百科](https://zh.moegirl.org/猫又小粥) (\*\*) |
 |  |  | 3期 |  |
 | usada pekora | 兔田佩克拉 | 食材<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
