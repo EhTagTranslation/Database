@@ -15,7 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Create token
-      shell: pwsh
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         APP_ID: ${{ secrets.APP_ID }}
@@ -75,7 +74,6 @@ jobs:
         directory: ./publish
         repository: EhTagTranslation/DatabaseReleases
     - name: Clean releases
-      shell: pwsh
       env:
         GITHUB_TOKEN: ${{ env.APP_TOKEN }}
       run: |
