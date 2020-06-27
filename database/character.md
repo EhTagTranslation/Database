@@ -524,7 +524,7 @@ example:
 | haruka amami | 天海春香 |  |  |
 | chihaya kisaragi | 如月千早 |  |  |
 | yukiho hagiwara | 萩原雪步 |  |  |
-| yayoi takatsuki | 高槻弥生 | 唔唔唔\~\~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg") |  |
+| yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg") |  |
 | kasumi takatsuki | 高槻霞 |  |  |
 | ritsuko akizuki | 秋月律子 |  |  |
 | azusa miura | 三浦梓 |  |  |
@@ -1828,8 +1828,8 @@ example:
 | tamamo no mae | 玉藻前 | ![图](https://ehgt.org/b4/d0/b4d03c16074ba239f2db9803b18ac0338bb0596b-2147833-1024-1448-png_l.jpg)![图](https://ehgt.org/e1/9a/e19a1476369f421f9309919fd3cbf4c7b4680eaa-2123750-1024-1448-png_l.jpg) |  |
 | shielder | Shielder | 指《Fate/Grand Order》中的 玛修·基列莱特<br>![图](https://ehgt.org/e7/5d/e75dfa3a1f89d481425f9f35172608d69a33abcb-1891324-1024-1448-png_l.jpg)![图](https://ehgt.org/f1/0a/f10a567d7d1c2cd2bbad9ea6d7885017c2395e91-1752646-1024-1448-png_l.jpg) |  |
 | saber lily | Saber Lily | 白Saber<br>![图](https://ehgt.org/f6/4d/f64d13239c074960d5db17553990fb64109c2de9-2161639-1024-1448-png_l.jpg)![图](https://ehgt.org/4c/4d/4c4da8143dbcd81fa997015555214dfb108271ed-5862547-4079-5188-jpg_l.jpg)![图](https://ehgt.org/3b/c3/3bc38ca7fd88516195e9ac55fe691629440f2656-111792-600-900-jpg_l.jpg)![图](https://ehgt.org/cc/0b/cc0bc76863b033ac2157fabb29ef6e3847e3495a-4900451-4112-5193-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| artoria pendragon | 阿尔托莉雅·潘德拉贡 | 指 FGO 中 artoria pendragon \[lancer\] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| artoria pendragon alter | 阿尔托莉雅·潘德拉贡Alter | 指 FGO 中 artoria pendragon alter \[lancer\] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| artoria pendragon | 阿尔托莉雅·潘德拉贡 | 指 FGO 中 artoria pendragon [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| artoria pendragon alter | 阿尔托莉雅·潘德拉贡Alter | 指 FGO 中 artoria pendragon alter [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | souji okita | 冲田总司 | 樱Saber、冲太(おき太)、和服Saber | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | red saber | 尼禄·克劳狄乌斯 | ![图](https://ehgt.org/ba/d4/bad4cad9d8fa543223ca75206dd2c32d35568b4a-2253494-1024-1448-png_l.jpg)![图](https://ehgt.org/8c/2f/8c2fa674554c8c25082fd23ae6a1af2afe14d040-2370897-1024-1448-png_l.jpg)![图](https://ehgt.org/7b/b5/7bb59a05a5ca6d98ed41c7c90b0a1738dc2ca7b0-3528081-3000-4270-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | ayako mitsuzuri | 美缀绫子 |  |  |
@@ -2732,7 +2732,7 @@ example:
 | george w. bush | 乔治·沃克·布什 | 小布什 |  |
 | osama bin laden | 奥萨马·本·拉登 | 奥萨玛·本·穆罕默德·本·阿瓦德·本·拉登（阿拉伯语：أسامة بن محمد بن عوض بن لادن，拉丁转写：Usāmah bin Muḥammad bin Awaḍ bin Lādin，1957年3月10日－2011年5月2日） |  |
 | adolf hitler | 阿道夫·希特勒 |  |  |
-| anne frank | 安妮·弗兰克 | 安内莉斯·玛丽·“安妮”·弗兰克 （德语：Annelies Marie "Anne" Frank；德语音标：\[anɛliz maʁi anə fʁɑnk\] （帮助·关于），1929年6月12日－1945年3月9日），生于德国法兰克福，犹太人，二战犹太人大屠杀中最著名的受害者之一，得年15岁，1999年入选《时代杂志》“20世纪全世界最具影响力的100个人”，一颗编号为5535的小行星以她命名为“5535 Annefrank”。她在2004年票选最伟大的荷兰人当中，排名第八，次于第七伟大的荷兰民族英雄兼海上战神德·鲁伊特。 | [维基百科](https://zh.wikipedia.org/wiki/安妮·弗蘭克) (\*) |
+| anne frank | 安妮·弗兰克 | 安内莉斯·玛丽·“安妮”·弗兰克 （德语：Annelies Marie "Anne" Frank；德语音标：[anɛliz maʁi anə fʁɑnk] （帮助·关于），1929年6月12日－1945年3月9日），生于德国法兰克福，犹太人，二战犹太人大屠杀中最著名的受害者之一，得年15岁，1999年入选《时代杂志》“20世纪全世界最具影响力的100个人”，一颗编号为5535的小行星以她命名为“5535 Annefrank”。她在2004年票选最伟大的荷兰人当中，排名第八，次于第七伟大的荷兰民族英雄兼海上战神德·鲁伊特。 | [维基百科](https://zh.wikipedia.org/wiki/安妮·弗蘭克) (\*) |
 | lusamine | 露莎米奈 |  |  |
 | angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) |  |
 | lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://i.moecdn.org/uploads/2017/07/q5iRnp_YlqCep6Q.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/鲁路修·vi·布里塔尼亚) |
