@@ -14,6 +14,19 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
+    - name: Create token
+      shell: pwsh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        APP_ID: ${{ secrets.APP_ID }}
+        APP_KEY: ${{ secrets.APP_KEY }}
+        APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+        APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
+        APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
+      run: |
+        cd ./tools/RemoveOldReleases/
+        yarn install --no-lockfile
+        yarn node gen-token.js
     - name: init git config
       run: |
         git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com>'
@@ -24,7 +37,7 @@ jobs:
     - name: Install tools
       shell: pwsh
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ env.APP_TOKEN }}
       run: ./tools/EhDbReleaseBuilder/Download-Tool.ps1
     - name: Build
       run: dotnet ./tools/EhDbReleaseBuilder/EhDbReleaseBuilder.dll --source . --target ./publish
@@ -43,29 +56,28 @@ jobs:
           ${{github.event.before}}...${{github.event.after}}
           
           ${{github.event.head_commit.message}}
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ env.APP_TOKEN }}
         commit: ${{ github.sha }}
         tag: ${{ format('v-{0}', github.sha) }}
         name: ${{ env.RELEASE_NAME }}
-    # - name: Commit release branch
-    #   run: > 
-    #     cd ./publish
-    #     && (printf '${{ github.sha }}' > ./sha)
-    #     && git init
-    #     && git add .
-    #     && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
-    # - name: Push release branch
-    #   uses: ad-m/github-push-action@master
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
-    #     branch: releases
-    #     force: true
-    #     directory: ./publish
-    #     repository: EhTagTranslation/DatabaseReleases
+    - name: Commit release branch
+      run: > 
+        cd ./publish
+        && (printf '${{ github.sha }}' > ./sha)
+        && git init
+        && git add .
+        && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
+    - name: Push release branch
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ env.APP_TOKEN }}
+        force: true
+        directory: ./publish
+        repository: EhTagTranslation/DatabaseReleases
     - name: Clean releases
       shell: pwsh
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ env.APP_TOKEN }}
       run: |
         cd ./tools/RemoveOldReleases/
         yarn install --no-lockfile

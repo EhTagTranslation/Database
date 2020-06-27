@@ -8,6 +8,7 @@
     "start": "node ."
   },
   "dependencies": {
+    "@octokit/auth-app": "^2.4.7",
     "@octokit/rest": "^18.0.0",
     "simple-git": "^2.11.0"
   }
