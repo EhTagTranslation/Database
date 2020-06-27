@@ -2508,7 +2508,7 @@ example:
 | murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
 | ayame nakiri | 百鬼绫目 | 百鬼绫目（日语：百鬼あやめ／なきりあやめ Nakiri Ayame）是从2018年9月3日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。其形象为日本文化中的鬼神，由神乐七奈（画师用名>ななかぐら）设计。<br>![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
 | yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
-| oozora subaru | 大空昴 |  |  |
+| oozora subaru | 大空昴 | 大空昴（大空 スバル／Ōzora Subaru）是从2018年9月16日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![](https://img.moegirl.org/common/2/2c/Ōzora_Subaru.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/大空昴) |
 |  |  | GAMERS |  |
 | ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的`VTuber`，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
 | inugami korone | 戌神沁音 |  |  |
