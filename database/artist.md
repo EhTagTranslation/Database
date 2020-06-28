@@ -2785,6 +2785,7 @@ example:
 | nagata maria | 永田まりあ |  |  |
 | kinona | 紀奈 |  | [pixiv](https://www.pixiv.net/users/237082) [Twitter](https://twitter.com/kinona) |
 | hano haruka | 葉乃はるか |  | [pixiv](https://www.pixiv.net/users/698171) [Twitter](https://twitter.com/hanoharu) |
+| shiden hiro | 四電ヒロ |  | [pixiv](https://www.pixiv.net/users/37191) [Twitter](https://twitter.com/4d_labo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
