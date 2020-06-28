@@ -2783,6 +2783,7 @@ example:
 | maki komura | 真木こむら | ![真木こむら头像](https://i.jpg.dog/img/1f5d585443b78a70d7d8e064ed99bfec.png) | [Twitter](https://twitter.com/komura_komura) [pixiv](https://www.pixiv.net/users/15083784) |
 | sakamata nerimono | 逆又練物 |  |  |
 | nagata maria | 永田まりあ |  |  |
+| kinona | 紀奈 |  | [pixiv](https://www.pixiv.net/users/237082) [Twitter](https://twitter.com/kinona) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
