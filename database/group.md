@@ -1801,6 +1801,7 @@ example:
 | cassiopeia | CASSIOPEIA |  |  |
 | keepon | keepON |  |  |
 | yojigen kaidenpa | 四次元怪電波 |  |  |
+| saikutsu kichi | 採掘基地 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
