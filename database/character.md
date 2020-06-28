@@ -2337,7 +2337,7 @@ example:
 | aya maruyama | 丸山彩 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的主唱<br>![丸山彩](https://commons.moegirl.org/thumb.php?f=Img_maruyama-aya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/丸山彩) |
 | hina hikawa | 冰川日菜 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的吉他手<br>![冰川日菜](https://commons.moegirl.org/thumb.php?f=Img_hikawa-hina_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/冰川日菜) |
 | chisato shirasagi | 白鹭千圣 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的贝斯手<br>![白鹭千圣](https://commons.moegirl.org/thumb.php?f=Img_shirasagi-chisato_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/白鹭千圣) |
-|  | 大和麻弥 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的鼓手<br>![大和麻弥](https://commons.moegirl.org/thumb.php?f=Img_yamato-maya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/大和麻弥) |
+| maya yamato | 大和麻弥 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的鼓手<br>![大和麻弥](https://commons.moegirl.org/thumb.php?f=Img_yamato-maya_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/大和麻弥) |
 | eve wakamiya | 若宫伊芙 | [Pastel\*Palettes](https://zh.moegirl.org/Pastel*Palettes)的键盘手<br>![若宫伊芙](https://commons.moegirl.org/thumb.php?f=Img_wakamiya-eve_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/若宫伊芙) |
 | kokoro tsurumaki | 弦卷心 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的主唱<br>![弦卷心](https://commons.moegirl.org/thumb.php?f=Img_tsurumaki-kokoro_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/弦卷心) |
 | kaoru seta | 濑田薰 | [Hello, Happy World!](https://zh.moegirl.org/Hello,_Happy_World!)的吉他手<br>![濑田薰](https://commons.moegirl.org/thumb.php?f=Img_seta-kaoru_1.png&width=150) | [萌娘百科](https://zh.moegirl.org/濑田薰) |
