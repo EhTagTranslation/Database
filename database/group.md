@@ -1798,6 +1798,7 @@ example:
 | atelier stars | あとりえスターズ |  | [旧官方网站](http://blog.livedoor.jp/arito_arayuru) [新官方网站](https://arito-arayuru.hateblo.jp) |
 | wildstyle | wildstyle |  | [Twitter](https://twitter.com/wildstyle6666) [官方网站](http://wildstyle6666.blog.fc2.com) |
 | monofille | モノフィーユ |  |  |
+| cassiopeia | CASSIOPEIA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
