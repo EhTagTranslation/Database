@@ -2787,6 +2787,7 @@ example:
 | hano haruka | 葉乃はるか |  | [pixiv](https://www.pixiv.net/users/698171) [Twitter](https://twitter.com/hanoharu) |
 | shiden hiro | 四電ヒロ |  | [pixiv](https://www.pixiv.net/users/37191) [Twitter](https://twitter.com/4d_labo) |
 | kyabetsuka | 篝町狐懐 |  | [pixiv](https://www.pixiv.net/users/4569857) [Twitter](https://twitter.com/akamu_ver23) |
+| midoriha mint | 緑葉みんと \| 洗面きぬ子 |  | [pixiv](https://www.pixiv.net/users/398278) [Twitter](https://twitter.com/Tesumint) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
