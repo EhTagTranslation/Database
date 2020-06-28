@@ -1800,6 +1800,7 @@ example:
 | monofille | モノフィーユ |  |  |
 | cassiopeia | CASSIOPEIA |  |  |
 | keepon | keepON |  |  |
+| yojigen kaidenpa | 四次元怪電波 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
