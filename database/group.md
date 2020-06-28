@@ -1799,6 +1799,7 @@ example:
 | wildstyle | wildstyle |  | [Twitter](https://twitter.com/wildstyle6666) [官方网站](http://wildstyle6666.blog.fc2.com) |
 | monofille | モノフィーユ |  |  |
 | cassiopeia | CASSIOPEIA |  |  |
+| keepon | keepON |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
