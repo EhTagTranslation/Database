@@ -2,21 +2,26 @@
 key: character
 name: 角色
 description: 作品中出现的角色。
-copyright: |
-    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
+copyright: >
+  对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
+  3.0协议）进行二次分发。
 
-    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
+
+  对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
+  3.0 协议）进行二次分发。
 rules:
-- 优先写公认的中文翻译，不知道的也可以写日文原名。
-- 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
+  - 优先写公认的中文翻译，不知道的也可以写日文原名。
+  - 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
 example:
   raw: ruri gokou
   name: 五更琉璃（黑猫）
-  intro: |
+  intro: >
     ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg)
+
     网名黑猫。SNS社群“宅女集合”的成员之一，桐乃在线下会认识的宅友。
-  links: |
-    [萌娘百科](https://zh.moegirl.org/zh-hans/五更琉璃) [Fandom](https://oreimo.fandom.com/zh/wiki/五更琉璃)
+  links: >
+    [萌娘百科](https://zh.moegirl.org/zh-hans/五更琉璃)
+    [Fandom](https://oreimo.fandom.com/zh/wiki/五更琉璃)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
@@ -234,7 +239,7 @@ example:
 | emma verde | 艾玛·维尔德 | 所属团体 虹咲学园学园偶像同好会<br>![艾玛·维尔德](https://img.moegirl.org/common/thumb/0/02/Emma.jpg/250px-Emma.jpg)<br>注：其在台湾地区的官方译名为“艾瑪·薇蒂”。由于该数据库提供的是简体中文数据，此处以中国大陆地区所使用的译名为准。 | [萌娘百科](https://zh.moegirl.org/zh-hans/艾玛·维尔德) |
 | rina tennoji | 天王寺璃奈 | 所属团体 虹咲学园学园偶像同好会<br>![天王寺璃奈](https://img.moegirl.org/common/thumb/5/50/Rina_School_Uniform.png/250px-Rina_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/天王寺璃奈) |
 |  | ▲ Love Live 人物 |  |  |
-|  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有**200+**个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
+|  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有\*\*200+\*\*个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
 | teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/天羽剑提督.png/250px-天羽剑提督.png") |  |
 | nagato | 长门 | No.001 长门<br>![长门](https://ehgt.org/48/46/48469968e5901d58fb8d37a85b42d6c44cec160f-64327-218-300-jpg_l.jpg) |  |
 | mutsu | 陆奥 | No.002 陆奥<br>![陆奥](https://ehgt.org/17/62/17623909202ed26075ae25ce6fc7ded80dad34a8-38604-218-300-jpg_l.jpg) |  |
@@ -519,7 +524,7 @@ example:
 | haruka amami | 天海春香 |  |  |
 | chihaya kisaragi | 如月千早 |  |  |
 | yukiho hagiwara | 萩原雪步 |  |  |
-| yayoi takatsuki | 高槻弥生 | 唔唔唔\~\~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg") |  |
+| yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg") |  |
 | kasumi takatsuki | 高槻霞 |  |  |
 | ritsuko akizuki | 秋月律子 |  |  |
 | azusa miura | 三浦梓 |  |  |
@@ -2415,7 +2420,7 @@ example:
 | kizuna ai | 绊爱 | 人工智障 |  |
 | kaguya luna | 辉夜月 |  |  |
 | mirai akari | Mirai Akari |  |  |
-| nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为虚拟YouTuber活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org/Nekomasu) |
+| nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为`VTuber`活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org/Nekomasu) |
 |  | ▼ 机动战士高达SEED&机动战士高达SEED Destiny |  |  |
 | kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/基拉·大和) |
 | miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) |  |
@@ -2488,28 +2493,28 @@ example:
 | itsuki nakano | 中野五月 |  |  |
 |  | ▼ hololive | 猴楼 live |  |
 |  |  | 0期 |  |
-| tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是hololive所属的虚拟YouTuber。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
-| roboco | 萝卜子 | ![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
-| sakura miko | 樱巫女 |  |  |
-| hoshimachi suisei | 星街彗星 |  |  |
+| tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是hololive所属的`VTuber`。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org/时乃空) |
+| roboco | 萝卜子 | 萝卜子（ロボ子さん／Roboko-san）是从2018年3月4日在Youtube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![高性能机器人](https://img.moegirl.org/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org/萝卜子) |
+| sakura miko | 樱巫女 | 樱巫女（さくらみこ／Sakura Miko）是从2018年8月1日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org/common/1/10/SakuraMiko.png) | [萌娘百科](https://zh.moegirl.org/樱巫女) |
+| hoshimachi suisei | 星街彗星 | 星街彗星 （星街すいせい／Hoshimati Suisei）是一名2018年3月22日在Youtube作为个人势开始活动的Vtuber，后在2019年5月19日宣布加入成为业界团体hololive所属，先于音乐特化型品牌「INNK Music」所属，后转籍至「hololive」直接所属。<br><br>![](https://img.moegirl.org/common/c/c8/HoshimatiSuisei.png) | [萌娘百科](https://zh.moegirl.org/星街彗星) (\*\*) |
 |  |  | 1期 |  |
 |  | 夜空梅露 |  |  |
 |  | 亚绮·罗森塔尔 |  |  |
-| akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的VTuber，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
-| shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
-| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的虚拟YouTuber，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
+| akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
+| shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
+| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
 |  |  | 2期 |  |
-| minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的虚拟YouTuber，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
-| murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的VTuber，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
-| ayame nakiri | 百鬼绫目 | ![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
-| yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的VTuber，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
-| oozora subaru | 大空昴 |  |  |
+| minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的`VTuber`，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org/common/c/c9/凑阿库娅.jpg) | [萌娘百科](https://zh.moegirl.org/凑阿库娅) |
+| murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org/common/1/1e/Murasakishion.png) | [萌娘百科](https://zh.moegirl.org/紫咲诗音) |
+| ayame nakiri | 百鬼绫目 | 百鬼绫目（日语：百鬼あやめ／なきりあやめ Nakiri Ayame）是从2018年9月3日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。其形象为日本文化中的鬼神，由神乐七奈（画师用名>ななかぐら）设计。<br>![狗狗](https://img.moegirl.org/common/d/d8/Nakiriayame01.png) | [萌娘百科](https://zh.moegirl.org/百鬼绫目) |
+| yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org/愈月巧可) |
+| oozora subaru | 大空昴 | 大空昴（大空 スバル／Ōzora Subaru）是从2018年9月16日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![](https://img.moegirl.org/common/2/2c/Ōzora_Subaru.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/大空昴) |
 |  |  | GAMERS |  |
-| ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的VTuber，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
-| inugami korone | 戌神沁音 |  |  |
-| nekomata okayu | 猫又小粥 | ![](https://img.moegirl.org/common/4/46/猫又小粥.jpg)<br>猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。 | [萌娘百科](https://zh.moegirl.org/猫又小粥) |
+| ookami mio | 大神澪 | 大神澪（大神 ミオ／Ōkami Mio）是从2018年12月7日在YouTube开始活动的`VTuber`，作为gamers组所属业界团体hololive。<br>![老干部](https://img.moegirl.org/common/5/52/ミオ_半身.png) | [萌娘百科](https://zh.moegirl.org/大神澪) |
+| inugami korone | 戌神沁音 | 戌神沁音（戌神ころね／Inugami Korone）是从2019年4月13日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org/common/e/e3/InugamiKorone_idol.jpg) | [萌娘百科](https://zh.moegirl.org/戌神沁音) |
+| nekomata okayu | 猫又小粥 | 猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org/common/5/50/NekomataOkayu_idol.jpg) | [萌娘百科](https://zh.moegirl.org/猫又小粥) (\*\*) |
 |  |  | 3期 |  |
-| usada pekora | 兔田佩克拉 | 食材<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
+| usada pekora | 兔田佩克拉 | 兔田佩克拉 （ 兎田ぺこら / Usada Pekora）是一名从2019年7月17日在YouTube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
 | uruha rushia | 润羽露西娅 |  |  |
 |  | 不知火芙蕾雅 |  |  |
 | shirogane noel | 白银诺艾尔 |  |  |
@@ -2858,7 +2863,7 @@ example:
 | akiko yoshizawa | 吉泽明子 |  |  |
 | satomi niiyama | 新山聪美 | 泷昇同一大学的后辈，擅长长笛演奏。在管乐团暑假期间协助指导木管乐器。桥本与泷昇是同辈，但新山是后辈。对泷的亡妻千寻怀有超越同性朋友的情感 |  |
 | fuutarou uesugi | 上杉风太郎 | 上杉风太郎（うえすぎ ふうたろう）是由春場ねぎ创作的漫画《五等分的新娘》及其衍生作品的登场角色。 |  |
-| kanao tsuyuri | 栗花落香奈乎 | 與炭治郎同期的鬼殺隊員，拥有側單馬尾髮型、紫色瞳孔但笑臉迎人但寡言的女劍士，髮飾是恩人胡蝶香奈惠的遺物。天生敏銳觀察力造就了其優秀的「視覺」。[花之呼吸」使用者。蟲柱胡蝶忍的繼子。 |  |
+| kanao tsuyuri | 栗花落香奈乎 | 與炭治郎同期的鬼殺隊員，拥有側單馬尾髮型、紫色瞳孔但笑臉迎人但寡言的女劍士，髮飾是恩人胡蝶香奈惠的遺物。天生敏銳觀察力造就了其優秀的「視覺」。「花之呼吸」使用者。蟲柱胡蝶忍的繼子。 |  |
 | shinobu kochou | 蝴蝶忍 | 鬼杀队中的虫柱，鬼杀队医疗设施“蝶屋”的主人。精通药学与毒理学，擅长毒杀。因为力气很小，是柱中唯一一个无法斩下鬼头的剑士，但善于制作毒素来弥补力量的不足。除此之外还经营名为“蝶屋”的医疗设施，负责治疗受重伤的队员 |  |
 | giyuu tomioka | 富冈义勇 | 使用「水之呼吸」的水柱 |  |
 | mitsuri kanroji | 甘露寺蜜璃 | 使用的恋之呼吸 |  |
@@ -2887,7 +2892,7 @@ example:
 | hanabi kitaoji | 北大路花火 | 日本北大路男爵的千金，祖母是法国人，自小在法国长大，但对日本的传统艺术如书道、弓道和花道等都非常用心地去学。以日本留学生的身份住在世交布鲁梅尔家。是一个闲静而经常挂着微笑的温柔少女，一个不折不扣的“大和抚子”(日本传统女性)。兴趣是读书。在战场上冷静沉着，服从队长的命令，就算在战斗中也不失礼仪。<br>![](https://zh.moegirl.org/File:Hanabii.jpg) | [萌娘百科](https://zh.moegirl.org/北大路花火) |
 | ichiro ogami | 大神一郎 | 樱花大战系列前四代的男主角。大日本帝国的年轻军人，在海军士官学校以首名的成绩毕业。历任帝国华击团、巴黎华击团花组队长，曾领导花组成员拯救了东京和巴黎，功勋卓著。平常是个率直的热血男儿，拥有优秀的领导才干，无论作战中亦或是日常生活中，都能让队员紧密团结在其周围。四代后已升任帝国海军上尉，帝国华击团司令.<br>![](https://img.moegirl.org/common/thumb/f/fd/Oogami.jpg/300px-Oogami.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/大神一郎) |
 | lobelia carlini | 罗贝莉娅·卡尔里尼 | 《樱花大战系列》的登场角色 |  |
-| nodoka toyohama | 丰滨和香 | 小说第四卷的女主人公，女主角樱岛麻衣同父异母的妹妹，偶像团体“甜蜜子弹sweet bullet”的成员。麻衣的父母离婚后父亲再婚生下的女孩，年纪比麻衣小一岁。![](https://img.moegirl.org/common/thumb/f/fd/Oogami.jpg/300px-Oogami.jpg) | [萌娘百科]([萌娘百科]%28%29) |
+| nodoka toyohama | 丰滨和香 | 小说第四卷的女主人公，女主角樱岛麻衣同父异母的妹妹，偶像团体“甜蜜子弹sweet bullet”的成员。麻衣的父母离婚后父亲再婚生下的女孩，年纪比麻衣小一岁。![](https://img.moegirl.org/common/thumb/f/fd/Oogami.jpg/300px-Oogami.jpg) |  |
 | shouko makinohara | 牧之原翔子 | 咲太的初恋情人，过去曾在枫的事件中对咲太伸出援手的少女，之后下落不明。咲太因为她就读峰原高中而决定报考这所学校。现在原本应该是19岁的她，不知为何却变成12岁初一学生的模样。经常会到梓川家来看望被咲太收养的小猫。![](https://img.moegirl.org/common/thumb/e/e2/Makinohara_Shōko.png/250px-Makinohara_Shōko.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/牧之原翔子) |
 | iris chateaubriand | 伊莉斯·夏特布里安 | 法国人，是法国大富豪夏特布里安伯爵家的独生女，从小被家人长期锁在家中。皆因自身拥有的不稳定的超强灵力，暴走时会产生大破坏的严重后果。后被藤枝菖蒲带往日本，成为帝国华击团·花组成员，是花组中年龄最小但灵力最强的。名为“让·保罗”（ジャンポール）的熊布偶是她的最好的朋友。性格有些早熟，常认为自己已经长大成人，因而极其讨厌别人把自己当成小孩。<br>![](https://img.moegirl.org/common/thumb/5/52/Irischateaubriand.jpg/250px-Irischateaubriand.jpg) | [萌娘百科](https://zh.moegirl.org/伊莉斯·夏特布里安) |
 | sakura shinguji | 真宫寺樱 | 真宫寺一马的女儿，继承了其父亲的降魔之血脉及爱刀“灵剑荒鹰”。性格明快坦率，开朗乐观。以拔刀术“居合流”，剑道“北辰一刀流”最为拿手。招式名都带有“破邪剑征”四字。害怕打雷。和花组众人的关系都很好，开始时因为是新人演员的关系所以偶尔会在舞台上出错（见第一部），但是没有“生人莫近”的所谓“贵族气质”，属于所谓的“庶民派偶像”。本人也很有亲和力，像是邻家女孩一般，让人有种想和她交朋友把她带回家的意愿。<br>![](https://img.moegirl.org/common/thumb/d/db/ShingujiSakura.jpg/800px-ShingujiSakura.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/真宫寺樱) |
@@ -2929,7 +2934,7 @@ example:
 | nozomu itoshiki | 糸色望 |  |  |
 | veight | 斑特 |  |  |
 | wicke | 碧珂 |  |  |
-| astarotte ygvar | 亚斯塔萝黛·尤各瓦尔 | 134cm/25kg·B61/W52/H64·10岁·梦魔族<br>尤各瓦尔兰国的第一公主，梦魔族的后裔，昵称“萝黛（ロッテ）”，父亲在年幼时病逝，现在与母亲梅尔契丽妲分居中。<br>金色长发，以黑色缎带绑成双马尾的发型（动画版为每次装扮不同颜色的缎带），眼睛为绿色，瞳孔特征继承至母亲，在头中央上方稍稍前面的地方有一根、左右两边也各有一根呆毛，有一条长长的粉红色尾巴。<br>![RotteOmocha_chara_01](https://img.moegirl.org/common/9/9c/RotteOmocha_chara_01.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/亚斯塔萝黛·尤各瓦尔) |
+| astarotte ygvar | 亚斯塔萝黛·尤各瓦尔 | 134cm/25kg·B61/W52/H64·10岁·梦魔族<br>尤各瓦尔兰国的第一公主，梦魔族的后裔，昵称“萝黛（ロッテ）”，父亲在年幼时病逝，现在与母亲梅尔契丽妲分居中。<br>金色长发，以黑色缎带绑成双马尾的发型（动画版为每次装扮不同颜色的缎带），眼睛为绿色，瞳孔特征继承至母亲，在头中央上方稍稍前面的地方有一根、左右两边也各有一根呆毛，有一条长长的粉红色尾巴。<br>![RotteOmocha\_chara\_01](https://img.moegirl.org/common/9/9c/RotteOmocha_chara_01.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/亚斯塔萝黛·尤各瓦尔) |
 | asuha touhara | 塔原明日叶 | 137cm/30kg•B62/W53/H67•10岁•梦魔族与人类（或梦魔族与淫魔族?）的混血儿<br>仆娘，塔原直哉与梅尔契丽妲的独生女，拥有长及前胸的黑发和青紫色的眼睛（动画版为蓝色短发及眼睛），瞳孔特征继承至梅尔，在头左右两边也各有一根呆毛。<br>性格活泼好动、不拘小节，笑口常开且直话直说，很容易和别人打成一片，是萝黛第一个同年龄的朋友。与父亲直哉定居于妖魔界后，转入王立学园就读，与萝黛同班。<br>不喜欢穿内裤，且时常不穿内裤就跑到外面去。<br>相当重视直哉，一旦有人说直哉的坏话或动粗时就会非常生气。再加上对付男性时通常会攻击男性胯下要害（齐立克上校对此就“身”有体会），因此曾对于出手打直哉的西寇德说出“要将他的家伙踢到烂”的发言。<br>![](https://i.jpg.dog/img/7f6c319c52326044f5aca699411460b9.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/塔原明日叶) |
 | isadora finnsdottir | 伊莎朵拉·方斯德托 | 125cm/31kg・B63(AA)/W56/H65・17歳・暗小人族<br>西寇德的女性侍从，同时也是他的同乳母的姊妹。昵称“朵拉”。<br>个子很小，右眼上罩着眼罩。<br>性格顽固，时常被粗暴的西寇德耍得团团转。为了当好西寇德的跟班，亦为了防止他到处惹事，以女扮男装的方式入学。曾被西寇德打趣说：“你一点身材都没有，绝对不会穿帮啦！”<br>![](https://i.jpg.dog/img/feaf3d77af248a388799769377d7c8b3.jpg) |  |
 | ingrid sorveig sorgrims | 伊格丽德·索维克·索尔格利吾斯 | 99cm/15kg·B52/W50/H54·7岁·兔魔族<br>第二代大贤者，继承了父亲所有的知识。<br>相当喜欢直哉，称自己为直哉的情妇，对将自己从塔内带出外界了解外面事务的直哉与明日叶相当感激。<br>明日叶因觉得“伊格丽德”这名字太长因此称呼为“伊妮（イニ，Ini）”，本人也满喜欢这昵称而使用这称呼。<br>不管坐什么交通工具都会头晕。<br>点心时间都会到萝黛邸享用点心。<br>与明日叶和萝黛的交情相当好。<br>![](https://i.jpg.dog/img/b02873f80890894d7315dd3f18b1fc3c.jpg) |  |
@@ -2938,8 +2943,8 @@ example:
 | umetarou nozaki | 野崎梅太郎 |  |  |
 | akari kazemiya | 风宫茜里 |  |  |
 | ilya ornstein | 伊莉雅·奥恩斯坦 |  |  |
-| miyako izumo | 出云宫子 | 出云宫子，原本是沉睡在地下的幽灵，被忍误当做“传说中的吸血鬼”解开封印从而醒了过来。<br>对布丁有着超乎寻常的喜爱，为了从骑士身上获得布丁总是缠着骑士不放，还会附身到别人身上，包括魔物，但由于目的太明显总是被骑士识破。<br>说话时有なの（NANO）的口癖，现实中的宫子是一个徘徊在骑士所在的高中的幽灵，变成幽灵的原因不明，且只有骑士一个人能看得到她，不停地缠着骑士要买布丁，给骑士的学习生活带来了不少麻烦。<br>![Miyako_prin_cone](https://img.moegirl.org/common/1/16/Miyako_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/zh/出云宫子) |
-| shinobu kamiki | 上喜忍 | 上喜忍，出身于灵媒世家，现在是兰德索尔的占卜师，做着驱邪的工作。<br>虽然是占卜师，然而因为自身灵力不足经常猜不准而被阵营的其他成员吐槽。<br>有一个十分好色的父亲，虽然已经变成骷髅头的样子，但因为喜欢骚扰路过的女性而常常被忍教训。因为骑士和忍走得比较近，引起了“父亲”的嫉妒，因此“父亲”对骑士抱有一定的敌意，甚至还想诅咒骑士，但最后没能成功还被忍训斥了一顿<br>![Shinobu_prin_cone](https://img.moegirl.org/common/b/bd/Shinobu_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/上喜忍) |
+| miyako izumo | 出云宫子 | 出云宫子，原本是沉睡在地下的幽灵，被忍误当做“传说中的吸血鬼”解开封印从而醒了过来。<br>对布丁有着超乎寻常的喜爱，为了从骑士身上获得布丁总是缠着骑士不放，还会附身到别人身上，包括魔物，但由于目的太明显总是被骑士识破。<br>说话时有なの（NANO）的口癖，现实中的宫子是一个徘徊在骑士所在的高中的幽灵，变成幽灵的原因不明，且只有骑士一个人能看得到她，不停地缠着骑士要买布丁，给骑士的学习生活带来了不少麻烦。<br>![Miyako\_prin\_cone](https://img.moegirl.org/common/1/16/Miyako_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/zh/出云宫子) |
+| shinobu kamiki | 上喜忍 | 上喜忍，出身于灵媒世家，现在是兰德索尔的占卜师，做着驱邪的工作。<br>虽然是占卜师，然而因为自身灵力不足经常猜不准而被阵营的其他成员吐槽。<br>有一个十分好色的父亲，虽然已经变成骷髅头的样子，但因为喜欢骚扰路过的女性而常常被忍教训。因为骑士和忍走得比较近，引起了“父亲”的嫉妒，因此“父亲”对骑士抱有一定的敌意，甚至还想诅咒骑士，但最后没能成功还被忍训斥了一顿<br>![Shinobu\_prin\_cone](https://img.moegirl.org/common/b/bd/Shinobu_prin_cone.png) | [萌娘百科](https://zh.moegirl.org/上喜忍) |
 | vikala | 碧卡拉 | 年龄	14<br>身高	145cm<br>声优	种﨑敦美<br>兴趣	妄想<br>喜好	戴上鼠耳的自己，奶酪<br>不擅长 拿下鼠耳的自己，世界<br>![初始](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/0/0f/Zoom_3040252000_01.png/288px-Zoom_3040252000_01.png)<br>![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/1/1a/Zoom_3040252000_02.png/288px-Zoom_3040252000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040252000) |
 | hayate hisakawa | 久川飒 | 2018年的6th LIVE公布的7名新偶像之一，2019年3月29日发表将作为星光舞台第二弹新人偶像加入，4月2日于星光舞台正式公开。随后的4月5日，作为石川区域BOSS偶像之一在Mobamas也正式登场。<br>与同日公开的久川凪是双胞胎姐妹，凪是姐姐，而飒是妹妹。外表上最大的区别是瞳色、发型和身材，此外可能是由于化妆方式，虽然和姐姐眼型相似，看起来却是更大而有神的猫眼。<br>![久川颯](https://i.jpg.dog/img/f29fd7ed0899101ae066277f38f04599.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/久川飒) [pixiv百科](https://dic.pixiv.net/a/久川颯) [niconico大百科](https://dic.nicovideo.jp/a/久川颯) |
 | nagi hisakawa | 久川凪 | 2018年的6th LIVE公布的7名新偶像之一，2019年3月29日发表将作为星光舞台第二弹新人偶像加入，4月2日于星光舞台正式公开。随后的4月5日，作为石川区域BOSS偶像之一在Mobamas也正式登场。<br>与同日公开的久川飒是双胞胎姐妹，凪是姐姐，而飒是妹妹。外表上最大的区别是瞳色、发型和身材，以及眼尾处有特别长的眼睫毛，导致虽然和妹妹眼型相似，看起来却是垂眼。此外，在说话时使用敬语。<br>![久川凪](https://i.jpg.dog/img/c863e68a0c85bf9ecc1b6a374fc53642.jpg) | [萌娘百科](https://zh.moegirl.org/久川凪) [pixiv百科](https://dic.pixiv.net/a/久川凪) [niconico大百科](https://dic.nicovideo.jp/a/久川凪) |
@@ -2976,6 +2981,25 @@ example:
 | anastasia nikolaevna romanova | 阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 |  |  |
 | miko iino | 伊井野弥子 |  |  |
 | yuu ishigami | 石上优 |  |  |
+| sasaki saku | 笹木咲 | 高中二年生，非常喜欢游戏和水族馆的悠悠性格的关西人。喜欢的生物是伞章鱼（扁面蛸）还有也喜欢熊猫（黑白生物）。虚拟大阪出身十六岁人。直播风格大胆，但只要遇见陌生人就会丧失语言能力。在第一次动画的自我介绍非常突然的模仿了一种水生动物箱鲀随后光速谢罪。奠定了熊猫人的路线必定不平凡。对任系游戏有着超常的热爱，擅长游戏《喷射战士2》，直播类型主要是游戏实况为主。<br>![SasakiSaku](https://img.moegirl.org/common/thumb/4/47/SasakiSaku.png/112px-SasakiSaku.png) | [萌娘百科](https://zh.moegirl.org/zh-hans/笹木咲) [日文维基](https://ja.wikipedia.org/wiki/笹木咲) |
+| arulumaya | 阿露露梅娅 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/b/ba/Zoom_3040019000_03.png/288px-Zoom_3040019000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040019000) |
+| cain | 该隐 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/9/96/Zoom_3040171000_02.png/288px-Zoom_3040171000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040171000) |
+| mahira | 玛琪拉 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/c/c2/Zoom_3040107000_03.png/288px-Zoom_3040107000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040107000) |
+| melissabelle | 梅丽莎贝尔 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5c/Zoom_3040102000_02.png/288px-Zoom_3040102000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040102000) |
+| pholia | 芙莉亚 | ![额外](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/4/45/Zoom_3040181000_81.png/288px-Zoom_3040181000_81.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040181000) |
+| sandalphon | 圣德芬 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/a/ab/Zoom_3040153000_03.png/288px-Zoom_3040153000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
+| akari tsujino | 辻野朱里 | ![R 辻野あかり+](https://img.moegirl.org/common/thumb/a/a0/R_辻野あかり%2B.jpg/192px-R_辻野あかり%2B.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/辻野朱里) [pixiv百科](https://dic.pixiv.net/a/辻野あかり) [niconico大百科](https://dic.nicovideo.jp/a/辻野あかり) |
+| aru honshou | 本庄阿鲁 |  |  |
+| junko konno | 绀野纯子 |  |  |
+| saki nikaidou | 二阶堂咲 |  |  |
+| yuugiri | 夕雾 |  |  |
+| lily hoshikawa | 星川莉莉 |  |  |
+| koutarou tatsumi | 巽幸太郎 |  |  |
+| sakura minamoto | 源樱 |  |  |
+| tae yamada | 山田多惠 |  |  |
+| ayano sugiura | 杉浦绫乃 | 清纯内向的学生会副会长，留有紫红色长发并扎成长马尾。岁纳京子、船见结衣、池田千岁的同班同学。在谁眼里都是个开朗、可爱的女孩，但实际上有点怕生。<br>![](https://commons.moegirl.org/thumb.php?f=29002156.jpg&width=147) | [萌娘百科](https://zh.moegirl.org/zh-hans/杉浦绫乃) |
+| kyouko toshinou | 岁纳京子 | 京子是赤座灯里和船见结衣的朋友，在作品开始时为十四岁，为七森中学二年级的学生，与结衣同年，比灯里大一岁。拥有黄色长发刘海及眉，头绑深红色蝴蝶结，蓝色瞳孔，外观近似萝莉。<br>![](https://img.moegirl.org/common/thumb/6/6a/Toshinou_Kyouko_Doujin.jpg/168px-Toshinou_Kyouko_Doujin.jpg) | [萌娘百科](https://zh.moegirl.org/zh-hans/岁纳京子) |
+| reisalin stout | 莱莎琳·斯托特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

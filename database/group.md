@@ -2,20 +2,25 @@
 key: group
 name: 团队
 description: 制作社团或公司。
-copyright: |
-    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
+copyright: >
+  对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
+  3.0协议）进行二次分发。
 
-    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
+
+  对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
+  3.0 协议）进行二次分发。
 rules:
-- 有官方或公认的中文名称时优先写中文名，否则写日文名。
-- 日文名中有汉字者优先写含汉字的名称。
+  - 有官方或公认的中文名称时优先写中文名，否则写日文名。
+  - 日文名中有汉字者优先写含汉字的名称。
 example:
   raw: twinbox
   name: TwinBox
   intro: |
     「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。
-  links: |
-    [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com)
+  links: >
+    [Twitter](https://twitter.com/digimon215)
+    [pixiv](https://www.pixiv.net/users/264932)
+    [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
@@ -764,7 +769,7 @@ example:
 | jet-black baselarde | 漆黒のバゼラード |  |  |
 | juicebox koujou | ジュースボックス工場 |  |  |
 | yukinohana | ユキノハナ |  |  |
-| sa ku | sa_ku |  |  |
+| sa ku | sa\_ku |  |  |
 | rurunoya | るるノ屋 |  |  |
 | all delete | ALL DELETE |  |  |
 | sigma-arts | Σ-Arts |  |  |
@@ -1355,7 +1360,7 @@ example:
 | saragi | 蛇穴 |  |  |
 | c2.inc | C2.Inc |  |  |
 | km1chome | 健町一丁目 |  |  |
-| atelier dr.heads | [アトリエDr.HEAD'S |  |  |
+| atelier dr.heads | アトリエDr.HEAD'S |  |  |
 | datsuryoku kenkyuukai | 脱力研究会 |  |  |
 | mebius no wa | Mebiusの環 |  |  |
 | zenra qq | 全裸QQ |  |  |
@@ -1705,7 +1710,7 @@ example:
 | chilly polka | Chilly polka |  |  |
 | morimiyakan | 森宮缶 |  |  |
 | ninokoya | にのこや |  |  |
-| mocha2popcorn | mocha*2popcorn |  |  |
+| mocha2popcorn | mocha\*2popcorn |  |  |
 | kuronisiki | 黒錦 |  |  |
 | awayukitist | あわ雪チスト |  |  |
 | ugc | UGC |  |  |
@@ -1765,6 +1770,39 @@ example:
 | konohanaku | 此花区 |  |  |
 | hisyoku no tansansui | 緋色の炭酸水 |  |  |
 | comoyoko | コモヨコ |  |  |
+| witchs marionette | witch's marionette |  |  |
+| key trash | KEY TRASH |  | [官方网站](http://scarletkey.sakura.ne.jp) |
+| alchemy | あるけみい |  | [官方网站](https://six-alchemy.com) |
+| a.l.l | A・L・L |  | [官方网站](http://all0102.blog76.fc2.com) |
+| hiyakake gohan | ひやかけごはん |  |  |
+| expander welder | エキスパンダー溶接 |  | [官方网站](http://expander-y.jugem.jp) |
+| makarontaitei | まかろん大帝 |  |  |
+| hoshi to matango | ほしとマタンゴ |  | [官方网站](http://kinokoisu.horemitakotoka.com) |
+| resort ukami | リゾートうかみ |  |  |
+| hatishiro | はちしろ |  | [官方网站](http://hatishiro.xii.jp) |
+| yureru keikoutou | 揺れる蛍光灯 |  |  |
+| rump | RUMP |  |  |
+| soratomoe | ソラトモエ |  |  |
+| death para | ですぱら |  |  |
+| hachiouji kaipan totsugeki kiheitai | 八王子海パン突撃騎兵隊 |  |  |
+| sand | sand |  |  |
+| usagigoya. | うさぎごや。 |  |  |
+| genmaicha | 玄米茶 |  |  |
+| skk | SKK |  |  |
+| ins-mode | INS-mode |  |  |
+| mellowmind | めろうまいんど |  |  |
+| 40denier | 40デニール |  | [官方网站](http://homeko.sakura.ne.jp) |
+| utsura uraraka | うつらうららか |  | [官方网站](http://u-u.2-d.jp) |
+| pannomimi | ぱんのみみ |  | [官方网站](http://pannomimi.net) |
+| sweet avenue | Sweet Avenue |  | [官方网站](http://sweet-avenue.jp) |
+| atelier stars | あとりえスターズ |  | [旧官方网站](http://blog.livedoor.jp/arito_arayuru) [新官方网站](https://arito-arayuru.hateblo.jp) |
+| wildstyle | wildstyle |  | [Twitter](https://twitter.com/wildstyle6666) [官方网站](http://wildstyle6666.blog.fc2.com) |
+| monofille | モノフィーユ |  |  |
+| cassiopeia | CASSIOPEIA |  |  |
+| keepon | keepON |  |  |
+| yojigen kaidenpa | 四次元怪電波 |  |  |
+| saikutsu kichi | 採掘基地 |  |  |
+| 7th semicolon mint | 7th;Mint |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

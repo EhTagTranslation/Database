@@ -9,3 +9,5 @@ assignees: ''
 
 + 项目名称：
 + 项目主页：
+
+@EhTagTranslation

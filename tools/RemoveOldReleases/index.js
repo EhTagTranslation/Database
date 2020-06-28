@@ -1,20 +1,19 @@
-const git = require("simple-git");
+const { gitP } = require("simple-git");
 const { Octokit } = require("@octokit/rest");
 const path = require("path");
-const util = require("util");
 
 const REPO_INFO = { owner: "EhTagTranslation", repo: "Database" };
 const REPO_PATH = path.resolve(path.join(__dirname, "../.."));
-const KEEP_RELEASE = 5;
+const KEEP_RELEASE = 3;
 
 const AUTH_TOKEN = process.env["GitHub:Token"] || process.env.GITHUB_TOKEN;
 const ACTOR = process.env.GITHUB_ACTOR;
 
 async function deleteRelease() {
   const octokit = new Octokit({ auth: AUTH_TOKEN });
-  const endpoint = octokit.repos.listReleases.endpoint.merge({ ...REPO_INFO });
-  /** @type Parameters<Parameters<ReturnType<typeof octokit['repos']['listReleases']>['then']>[0]>[0]['data'] */
-  const releases = await octokit.paginate(endpoint);
+  const releases = await octokit.paginate(octokit.repos.listReleases, {
+    ...REPO_INFO,
+  });
   console.log(`Found ${releases.length} releases`);
   const releases_to_delete = releases.slice(KEEP_RELEASE);
   const releases_to_keep = releases.slice(0, KEEP_RELEASE);
@@ -30,10 +29,11 @@ async function deleteRelease() {
 }
 
 async function deleteTag() {
-  const gitrepo = git(REPO_PATH);
-  const remoteRepo = ACTOR ? `https://${ACTOR}:${AUTH_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git` : 'origin';
-  const raw = util.promisify(gitrepo.raw.bind(gitrepo));
-  const tags = String(await raw(["ls-remote", "--tags", "--sort=-creatordate"]))
+  const git = gitP(REPO_PATH);
+  const remote = ACTOR
+    ? `https://${ACTOR}:${AUTH_TOKEN}@github.com/${process.env.GITHUB_REPOSITORY}.git`
+    : "origin";
+  const tags = (await git.raw(["ls-remote", "--tags", "--sort=-creatordate"]))
     .split("\n")
     .filter((s) => s)
     .map((s) => `v-${s.split("\t")[0]}`);
@@ -43,8 +43,8 @@ async function deleteTag() {
 
   if (old_tags.length > 0) {
     console.log(`Deleting ${old_tags.length} tags`);
-    console.log(await raw(["push", remoteRepo, "--delete", ...old_tags]));
-    console.log(await raw(["tag", "--delete", ...old_tags]));
+    console.log(await git.raw(["push", remote, "--delete", ...old_tags]));
+    console.log(await git.raw(["tag", "--delete", ...old_tags]));
   }
 }
 

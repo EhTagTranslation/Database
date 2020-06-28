@@ -2,23 +2,28 @@
 key: parody
 name: 原作
 description: 同人作品模仿的原始作品。
-copyright: |
-    对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享 3.0协议）进行二次分发。
+copyright: >
+  对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
+  3.0协议）进行二次分发。
 
-    对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议）进行二次分发。
+
+  对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
+  3.0 协议）进行二次分发。
 rules:
-- 优先写公认的中文翻译，不知道的也可以写日文原名。
-- 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
-- 描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
+  - 优先写公认的中文翻译，不知道的也可以写日文原名。
+  - 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
+  - 描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
 example:
   raw: kantai collection
-  name: |-
+  name: >-
     ![大船](http://wx1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection
-  intro: |
+  intro: >
     《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）
+
     ![图](https://ehgt.org/d5/4c/d54cf38acf7115b65c8e9ae6496b85a7d3cd38de-701265-1416-2000-jpg_l.jpg)
-  links: |
-    [官网地址](http://www.dmm.com/netgame/feature/kancolle.html) [萌娘百科](https://zh.moegirl.org/舰队Collection)
+  links: >
+    [官网地址](http://www.dmm.com/netgame/feature/kancolle.html)
+    [萌娘百科](https://zh.moegirl.org/舰队Collection)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
@@ -80,7 +85,7 @@ example:
 | divine gate | 神圣之门 | 游戏<br>![图](# "https://ehgt.org/56/7d/567da8c0ee0c17ca1dabbab905cafb44120748d6-851499-1433-2023-jpg_l.jpg") |  |
 | sayonara zetsubou sensei | 再见！绝望先生 | 漫画<br>![图](https://ehgt.org/81/40/814081ac108eac6524b2431c7f7e2cf9eedc15d7-2120348-2845-4019-jpg_l.jpg) |  |
 | highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](# "https://ehgt.org/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg")![图](https://ehgt.org/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |  |
-| gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakkō_Gurashi%21_logo.png/220px-Gakkō_Gurashi%21_logo.png)<br>萝莉打僵尸<br>![图](# "https://ehgt.org/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg") |  |
+| gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakkō_Gurashi!_logo.png/220px-Gakkō_Gurashi!_logo.png)<br>萝莉打僵尸<br>![图](# "https://ehgt.org/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg") |  |
 | a channel | A频道 | 漫画<br>![图](# "https://ehgt.org/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg") |  |
 | granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由Cygames发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。<br>![图](# "https://ehgt.org/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg")![图](# "https://ehgt.org/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg") |  |
 |  | ▼高达 系列 |  |  |
@@ -628,7 +633,7 @@ example:
 | hayate no gotoku | 旋风管家 |  |  |
 | yoake mae yori ruriiro na | 更胜黎明前的琉璃色 |  |  |
 | fortune arterial | FORTUNE ARTERIAL |  |  |
-| princess holiday | 公主假日 \~回转苹果亭的一千零一夜\~ |  |  |
+| princess holiday | 公主假日 ~回转苹果亭的一千零一夜~ |  |  |
 | tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |  |
 | daitoshokan no hitsujikai | 大图书馆的牧羊人 |  |  |
 | aiyoku no eustia | 秽翼的尤斯蒂娅 |  |  |
@@ -746,8 +751,8 @@ example:
 | atelier series | 炼金工作室 | 《炼金工作室系列》（日语：アトリエシリーズ；英语：Atelier (series)）是由GUST制作的系列游戏。 |  |
 | atelier marie | 玛莉的工作室 | 《炼金工作室系列》A1 |  |
 | atelier elie | 艾莉的工作室 | 《炼金工作室系列》A2 |  |
-| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6\~A8 |  |
-| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9\~A10 |  |
+| atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6~A8 |  |
+| mana khemia | 玛娜传奇 | 《炼金工作室系列》A9~A10 |  |
 | atelier rorona | 罗罗娜的工作室 | 《炼金工作室系列》A11 |  |
 | atelier totori | 托托莉的工作室 | 《炼金工作室系列》A12 |  |
 | atelier meruru | 梅露露的工作室 | 《炼金工作室系列》A13 |  |
@@ -785,7 +790,7 @@ example:
 | peter pan | 小飞侠 |  |  |
 | romeos blue skies | 罗密欧的蓝天 |  |  |
 | 3000 leagues in search of mother | 三千里寻母记 | 《寻母三千里》，又译《万里寻母》、《万里寻亲记》、《三千里寻母记》 |  |
-| alps no shoujo heidi | 阿尔卑斯山的少女 | 《阿尔卑斯山的少女》（日语：アルプスの少女ハイジ，直译：阿尔卑斯的少女海蒂）是根据瑞士作家约翰娜·施皮里于1880～1881年所发表的德文小说《海蒂》系列改编的日本电视动画，由富士电视台于1974年1月6日～12月29日每周日晚间7：30播映，全52话。 | [维基百科](https://zh.wikipedia.org/wiki/阿尔卑斯山的少女) (*) |
+| alps no shoujo heidi | 阿尔卑斯山的少女 | 《阿尔卑斯山的少女》（日语：アルプスの少女ハイジ，直译：阿尔卑斯的少女海蒂）是根据瑞士作家约翰娜·施皮里于1880～1881年所发表的德文小说《海蒂》系列改编的日本电视动画，由富士电视台于1974年1月6日～12月29日每周日晚间7：30播映，全52话。 | [维基百科](https://zh.wikipedia.org/wiki/阿尔卑斯山的少女) (\*) |
 | anne of green gables | 绿山墙的安妮 |  |  |
 | futari no lotte | 我与我 两个绿蒂 |  |  |
 | katri girl of the meadows | 牧场上的少女卡特莉 |  |  |
@@ -1054,7 +1059,7 @@ example:
 | rance | 兰斯 | 《兰斯》系列（日语：ランスシリーズ）是由日本18禁游戏厂商Alicesoft公司制作发行的一系列游戏。 |  |
 | brave police j-decker | 勇者警察 | 《勇者警察》(勇者警察ジェイデッカー)，是Sunrise勇者系列第5作，播出日期是从1994年2月5日至1995年1月28日，共48集，由日本名古屋TV与Sunrise动画所制作。 |  |
 | witch craft works | 魔女的使命 | 《魔女的使命》（日语：ウィッチクラフトワークス），是日本漫画家水薙龙的奇幻漫画作品，在讲谈社旗下的隔月刊青年漫画杂志《good!afternoon》#9号（2010年3月5日发售）开始连载。 |  |
-| heavy object | 重装武器 | 《重装武器》（HEAVY OBJECT，ヘヴィーオブジェクト,官方略称为HO）为镰池和马所撰写的轻小说系列。插画为凪良。[2]2009年10月出版第一集，至2016年9月已出版了12卷。 |  |
+| heavy object | 重装武器 | 《重装武器》（HEAVY OBJECT，ヘヴィーオブジェクト,官方略称为HO）为镰池和马所撰写的轻小说系列。插画为凪良。2009年10月出版第一集，至2016年9月已出版了12卷。 |  |
 | baby princess | 宝贝公主 | 《宝贝公主》（ベイビー・プリンセス，Baby Princess）是日本美少女游戏杂志电击G's杂志作为200号纪念而推出的全新读者参与计划，后被改编为OVA动画。 |  |
 | bioshock | 生化奇兵 | 生化奇兵（英语：BioShock）是一款第一人称射击游戏系列。 |  |
 | bioshock infinite | 生化奇兵：无限 | 《生化奇兵：无限》（英文版名：BioShock Infinite，中国大陆译作“生化奇兵：无限”，港台译作“生化奇兵：无限之城”）是一款由Irrational Games开发，2K Games发行的第一人称射击游戏。于2013年3月26日登陆Windows、PS3和Xbox360平台。Linux版的游戏在2015年3月发行。 |  |
@@ -1357,7 +1362,7 @@ example:
 | guardian heroes | 守护英雄 | 《守护英雄》（日语：ガーディアン ヒーローズ，英语：Guardian Heroes）是一款由Treasure制作、世嘉发行的清版动作游戏。游戏于1996年1月25日在世嘉土星北美地区发行，于1月26日在日本发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/守护英雄) (\*) |
 | the incredibles | 超人总动员 | 《超人总动员》（英语：The Incredibles）皮克斯动画工作室制作，迪士尼发行的第六部长篇电脑动画。本片由布拉德·伯德（Brad Bird）导演，Michael Giacchino 配乐，于2004年上映。获第77届奥斯卡最佳动画片奖。而续集《超人总动员2》于2018年6月15日在美国上映 。 | [维基百科](https://zh.wikipedia.org/zh-cn/超人特攻隊_%28電影%29) (\*) |
 | yakitate japan | 日式面包王 | 《日式面包王》（日语：焼きたて!! ジャぱん）是日本漫画家桥口隆志的少年漫画，连载于《周刊少年Sunday》（小学馆）2002年4、5合并号至2007年4号。以及2004年10月至2006年3月播出依此改编的电视动画。曾荣获第49回小学馆漫画赏。 | [维基百科](https://zh.wikipedia.org/zh-cn/日式麵包王) (\*) |
-| planetarian | 星之梦 | 《星之梦》（日文原名：planetarian ～ちいさなほしのゆめ～，英文名：planetarian \~the reverie of a little planet\~），是日本Key社的第四部作品，也是视觉小说系列“Kinetic Novel”的第一部。亦指以原作为中心展开的小说等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/星之夢) (\*) |
+| planetarian | 星之梦 | 《星之梦》（日文原名：planetarian ～ちいさなほしのゆめ～，英文名：planetarian ~the reverie of a little planet~），是日本Key社的第四部作品，也是视觉小说系列“Kinetic Novel”的第一部。亦指以原作为中心展开的小说等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/星之夢) (\*) |
 | cave story | 洞窟物语 | 《洞窟物语》（日语：洞窟物語，英语：Cave Story）是于2004年发布的一款PC平台上的免费平台冒险游戏，由天谷大辅利用5年间的业余时间开发而成。《洞窟物语》以其对2D平台技术的充分利用与游戏的复古风格而著称，且也是对作者年少时玩过的《银河战士》等经典风格游戏的致敬之作。 | [维基百科](https://zh.wikipedia.org/zh-cn/洞窟物語) (\*) |
 | btooom | BTOOOM!惊爆游戏 | 《BTOOOM!》（日语：ブトゥーム；中文：惊爆游戏）是日本漫画家井上淳哉的漫画作品。2009年6月19日（29号）至2010年8月27日（39号，最终号）在新潮社旗下青年漫画杂志《周刊Comic Bunch》上连载，之后由于《周刊Comic Bunch》的休刊，在2011年1月21日转移到同属新潮社旗下另一本青年漫画杂志《月刊Comic@Bunch》上，从杂志创刊号开始连载至今。 | [维基百科](https://zh.wikipedia.org/zh-cn/BTOOOM!) (\*) |
 | nichijou | 日常 | 《日常》（日语：日常）是日本漫画家新井圭一的日本漫画作品，于《月刊少年Ace》与《Comptiq》两个杂志上连载。中文版由台湾角川出版发行。动画方面由京都动画制作，2011年3月先发行全1集的OVA，标题名为“日常的0话”，后在同年4月至9月播出26集的电视动画。台湾动画代理由普威尔国际发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/日常) (\*) |
@@ -1391,22 +1396,22 @@ example:
 | boku no dorei shoukan | 我的奴隶妓院 |  |  |
 | silent mobius | 魔法阵都市 | 《魔法阵都市》（日语：サイレントメビウス，英语：Silent Möbius）是日本漫画家麻宫骑亚在《月刊Comic Comp》（角川书店刊）从1988年开始连载 （途中移籍《月刊Comic Dragon》）的一部科幻漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法陣都市) (\*) |
 | sora wo kakeru shoujo | 穿越宇宙的少女 | 《穿越宇宙的少女》（日语：宇宙をかける少女）是从2009年1月5日至6月29日开始在东京电视台播放的科幻电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/穿越宇宙的少女) (\*) |
-| cevio | CeVIO | CeVIO Creative Studio，是由名古屋工业大学初创企业Techno-Speech、电子看板制作公司V-SYNC以及动画制作公司Frontier Works等数家企业作为其所组成的专案，CeVIO，的其中一环而开发的语音合成软件。[3][4]输入音符、文字后便可发出类似于人类歌唱、说话的声音。同类软件有如VOCALOID、UTAU，但CeVIO Creative Studio除了有"唱歌"的功能外，还有可模拟人声"说话"的功能。 | [维基百科](https://zh.wikipedia.org/zh-cn/CeVIO_Creative_Studio) (\*) |
+| cevio | CeVIO | CeVIO Creative Studio，是由名古屋工业大学初创企业Techno-Speech、电子看板制作公司V-SYNC以及动画制作公司Frontier Works等数家企业作为其所组成的专案，CeVIO，的其中一环而开发的语音合成软件。输入音符、文字后便可发出类似于人类歌唱、说话的声音。同类软件有如VOCALOID、UTAU，但CeVIO Creative Studio除了有"唱歌"的功能外，还有可模拟人声"说话"的功能。 | [维基百科](https://zh.wikipedia.org/zh-cn/CeVIO_Creative_Studio) (\*) |
 | gotoubun no hanayome | 五等分的新娘 | 《五等分的新娘》（日语：五等分の花嫁）是由日本漫画家春场葱所创作的少年漫画作品。于《周刊少年Magazine》2017年第36・37合并号开始正式连载中。 | [维基百科](https://zh.wikipedia.org/zh-cn/五等分的新娘) (\*) |
-| pan de peace | 面包带来和平 | 《面包带来和平》（日语：パンでPeace!），是由emily所作的日本四格漫画作品。于2014年8月27日开始发表于《月刊Comic Alive》中的一个四格漫画栏目《COMIC CUNE》。已出版全5册单行本。已于2016年4月至6月播放全13话电视动画。该作品主要描述本作女主角谷南喜欢吃面包，到学校后也和同班同学一起享用面包的故事。 | [维基百科](https://zh.wikipedia.org/wiki/麵包與和平！) (*) |
-| borderlands | 无主之地 | 《无主之地》（英语：Borderlands，台湾译作“边缘禁地”，又译作“边境之地”）是一款带有第一人称射击成分的角色扮演科幻游戏。游戏由Gearbox软件公司开发，由2K Games在Microsoft Windows、Mac、Xbox 360和PlayStation 3上发行。 | [维基百科](https://zh.wikipedia.org/wiki/无主之地) (*) |
-| usagi-chan de cue | 天生兔女郎 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Usagi-chan_de_Cue!!) (*) |
-| ueno-san wa bukiyou | 笨拙之极的上野 | 《笨拙之极的上野》（日语：上野さんは不器用）为漫画家tugeneko的作品。曾刊登于白泉社的《Young Animal》2015年5号、后于同年18号复刊连载。2018年5月宣布动画化，电视动画于2019年1月至3月播放。 | [维基百科](https://zh.wikipedia.org/wiki/笨拙之極的上野) (*) |
-| wake up girls | Wake Up, Girls! | 《Wake Up, Girls!》，简称《WUG》，是由Ordet和龙之子制作公司共同制作的原创偶像动画，2014年1月10日开始播放电视动画及公开上映剧场版《Wake Up, Girls! 七位偶像》。剧场版第2作于2015年9月及12月分上下篇公开，主导制作改由Ordet与Millepensee制作。原创网络动画《うぇいくあっぷがーるZOO!》开始龙之子不再参与，改为Ordet和STUDIO MORIKEN共同制作。 | [维基百科](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!) (*) |
-| golden kamuy | 黄金神威 | 《黄金神威》（日语：ゴールデンカムイ）是日本漫画家野田智的漫画作品，于2014年38号的《周刊YOUNG JUMP》上开始连载。至2018年8月止，日本地区漫画单行本累计销售量突破800万本。2018年荣获第22届手冢治虫文化赏的漫画大赏，4月播出改编的同名电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/黃金神威) (*) |
-| komi-san wa komyushou desu. | 古见同学有交流障碍症 | 《古见同学有交流障碍症》（日语：古見さんは、コミュ症です）是日本漫画家小田智仁所创作的校园搞笑漫画，于2016年开始在小学馆周刊少年Sunday杂志第25期开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/古見同學有交流障礙症) (*) |
-| kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | 《辉夜大小姐想让我告白\~天才们的恋爱头脑战\~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品，现于《周刊YOUNG JUMP》连载中。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~) (*) |
-| watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/天使降臨到我身邊！) (*) |
+| pan de peace | 面包带来和平 | 《面包带来和平》（日语：パンでPeace!），是由emily所作的日本四格漫画作品。于2014年8月27日开始发表于《月刊Comic Alive》中的一个四格漫画栏目《COMIC CUNE》。已出版全5册单行本。已于2016年4月至6月播放全13话电视动画。该作品主要描述本作女主角谷南喜欢吃面包，到学校后也和同班同学一起享用面包的故事。 | [维基百科](https://zh.wikipedia.org/wiki/麵包與和平！) (\*) |
+| borderlands | 无主之地 | 《无主之地》（英语：Borderlands，台湾译作“边缘禁地”，又译作“边境之地”）是一款带有第一人称射击成分的角色扮演科幻游戏。游戏由Gearbox软件公司开发，由2K Games在Microsoft Windows、Mac、Xbox 360和PlayStation 3上发行。 | [维基百科](https://zh.wikipedia.org/wiki/无主之地) (\*) |
+| usagi-chan de cue | 天生兔女郎 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Usagi-chan_de_Cue!!) (\*) |
+| ueno-san wa bukiyou | 笨拙之极的上野 | 《笨拙之极的上野》（日语：上野さんは不器用）为漫画家tugeneko的作品。曾刊登于白泉社的《Young Animal》2015年5号、后于同年18号复刊连载。2018年5月宣布动画化，电视动画于2019年1月至3月播放。 | [维基百科](https://zh.wikipedia.org/wiki/笨拙之極的上野) (\*) |
+| wake up girls | Wake Up, Girls! | 《Wake Up, Girls!》，简称《WUG》，是由Ordet和龙之子制作公司共同制作的原创偶像动画，2014年1月10日开始播放电视动画及公开上映剧场版《Wake Up, Girls! 七位偶像》。剧场版第2作于2015年9月及12月分上下篇公开，主导制作改由Ordet与Millepensee制作。原创网络动画《うぇいくあっぷがーるZOO!》开始龙之子不再参与，改为Ordet和STUDIO MORIKEN共同制作。 | [维基百科](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!) (\*) |
+| golden kamuy | 黄金神威 | 《黄金神威》（日语：ゴールデンカムイ）是日本漫画家野田智的漫画作品，于2014年38号的《周刊YOUNG JUMP》上开始连载。至2018年8月止，日本地区漫画单行本累计销售量突破800万本。2018年荣获第22届手冢治虫文化赏的漫画大赏，4月播出改编的同名电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/黃金神威) (\*) |
+| komi-san wa komyushou desu. | 古见同学有交流障碍症 | 《古见同学有交流障碍症》（日语：古見さんは、コミュ症です）是日本漫画家小田智仁所创作的校园搞笑漫画，于2016年开始在小学馆周刊少年Sunday杂志第25期开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/古見同學有交流障礙症) (\*) |
+| kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | 《辉夜大小姐想让我告白~天才们的恋爱头脑战~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品，现于《周刊YOUNG JUMP》连载中。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~) (\*) |
+| watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/天使降臨到我身邊！) (\*) |
 | darkest dungeon | 暗黑地牢 |  |  |
 | idol wars z | IDOL WARS Z |  |  |
-| sewayaki kitsune no senko-san | 贤惠幼妻仙狐小姐 | 《贤惠幼妻仙狐小姐》（日语：世話やきキツネの仙狐さん）是日本漫画家リムコロ创作的漫画作品，于漫画杂志《Comic Newtype》开始连载，并由KADOKAWA出版。2018年12月正式宣布推出电视动画作品，2019年4月10日开播。 | [维基百科](https://zh.wikipedia.org/wiki/賢惠幼妻仙狐小姐) (*) |
-| shomin sample | 我被绑架到贵族女校当“庶民样本” | 《我被绑架到贵族女校当“庶民样本”》（日语：俺がお嬢様学校に「庶民サンプル」として拉致られた件）是七月隆文写作、闰月戈插画的日本轻小说作品。2011年起由一迅社《一迅社文库》刊行，已于2016年7月20日完结。 | [维基百科](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」) (*) |
-| arknights | 明日方舟 | 《明日方舟》（Arknights）是由上海鹰角网络科技有限公司开发的策略塔防及收集养成类游戏。 | [萌娘百科](https://zh.moegirl.org/明日方舟) (**) |
+| sewayaki kitsune no senko-san | 贤惠幼妻仙狐小姐 | 《贤惠幼妻仙狐小姐》（日语：世話やきキツネの仙狐さん）是日本漫画家リムコロ创作的漫画作品，于漫画杂志《Comic Newtype》开始连载，并由KADOKAWA出版。2018年12月正式宣布推出电视动画作品，2019年4月10日开播。 | [维基百科](https://zh.wikipedia.org/wiki/賢惠幼妻仙狐小姐) (\*) |
+| shomin sample | 我被绑架到贵族女校当“庶民样本” | 《我被绑架到贵族女校当“庶民样本”》（日语：俺がお嬢様学校に「庶民サンプル」として拉致られた件）是七月隆文写作、闰月戈插画的日本轻小说作品。2011年起由一迅社《一迅社文库》刊行，已于2016年7月20日完结。 | [维基百科](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」) (\*) |
+| arknights | 明日方舟 | 《明日方舟》（Arknights）是由上海鹰角网络科技有限公司开发的策略塔防及收集养成类游戏。 | [萌娘百科](https://zh.moegirl.org/明日方舟) (\*\*) |
 | kimetsu no yaiba | 鬼灭之刃 |  |  |
 | tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影。 |  |
 | arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
@@ -1441,7 +1446,7 @@ example:
 | claymore | 大剑 |  |  |
 | sinoalice | 死亡爱丽丝 | 《死亡爱丽丝》（SINoALICE ーシノアリスー）是由Pokelabo开发、由Pokelabo与SQUARE ENIX共同运营的一款手机游戏。<br>![游戏APP图标](https://img.moegirl.org/common/1/1b/SINoALICE_Icon.jpg) | [游戏官网](https://sinoalice.jp/) |
 | machikado mazoku | 街角魔族 |  |  |
-| the hunchback of notre dame | 钟楼怪人 | 《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。 | [维基百科](https://zh.wikipedia.org/wiki/钟楼怪人_%281996年电影%29) (*) |
+| the hunchback of notre dame | 钟楼怪人 | 《钟楼怪人》（英语：The Hunchback of Notre Dame）是一部由华特迪士尼制作、于1996年首次上映的电脑动画电影。它的上映日期是1996年6月21日（香港则于同年7月4日上映），为第36部华特迪士尼经典动画长片。这部电影的原型是维克多·雨果的作品《巴黎圣母院》，虽然仍保有原作故事的基本架构，但是这部电影却改动了原作的大部分情节。其剧情重点放在一位吉普赛人舞者爱丝梅拉达、费比斯队长和加西莫多的三角恋上。其中加西莫多是主角，他在巴黎圣母院的钟楼中负责敲钟，长相虽然很丑陋却心地善良。 | [维基百科](https://zh.wikipedia.org/wiki/钟楼怪人_%281996年电影%29) (\*) |
 | kodoku no gourmet | 孤独的美食家 |  |  |
 | kishuku gakkou no juliet | 寄宿学校的朱丽叶 | 《寄宿学校的朱丽叶》（日语：寄宿学校のジュリエット）为漫画家金田阳介所作的日本少年漫画，是以威廉·莎士比亚的戏剧作品《罗密欧与茱丽叶》为蓝本改编的作品。<br>![寄宿学校的朱丽叶](https://img.moegirl.org/common/9/98/Kishuku_Gakkou_no_Juliet_Vol1.jpg) | [寄宿学校的茱丽叶 - Wikipedia](https://zh.wikipedia.org/zh-cn/寄宿學校的茱麗葉 "寄宿学校的茱丽叶")<br>[寄宿学校的朱丽叶 - 萌娘百科](https://zh.moegirl.org/zh-hans/寄宿学校的朱丽叶 "寄宿学校的朱丽叶") |
 | kemurikusa | 烟草 | 《烟草》原先是由自主动画制作团体irodori，于2010年~2012年之间所制作的独立动画作品。2018年时宣布改编电视动画，由YAOYOROZU进行制作，皆为达纪监督执导，2019年1月9日开播。<br>[![](https://img.moegirl.org/common/d/d9/Kemurikusa_character.jpg)](烟草完结贺图) | [烟草 - 萌娘百科](https://zh.moegirl.org/zh-hans/烟草 "烟草 - 萌娘百科")<br>[烟草 - Wikipedia](https://zh.wikipedia.org/zh-cn/煙草_%28動畫%29 "烟草 - Wikipedia") |
@@ -1458,8 +1463,12 @@ example:
 | houkago no pleiades | 放学后的昴星团 |  |  |
 | senren banka | 千恋＊万花 | 《千恋万花》（日语：千恋＊万花）是由柚子社制作的一部galgame，并有漫画等衍生作品。本作曾获得2016年美少女游戏大赏综合部门第一名，2016年萌系游戏大赏准大赏 | [官网地址](http://www.yuzu-soft.com/products/senren/index.html) [官方中文网站](https://hikarifield.co.jp/senren/index.html) [萌娘百科](https://zh.moegirl.org/千恋万花) (\*\*) |
 | kiratto pri chan | 美妙☆频道 | 《美妙☆频道》（日语：キラッとプリ☆チャン；英语：Pri☆Chan）是由T-ARTS和Syn Sophia共同开发的街机游戏，并有漫画、动画等衍生作品。 | [游戏官网](https://www.takaratomy-arts.co.jp/specials/prichan/) [动画官网](https://avex.jp/prichan/) [萌娘百科](https://zh.moegirl.org/美妙频道) (\*\*) |
+| cafe stella to shinigami no chou | 星光咖啡馆与死神之蝶 | 星光咖啡馆与死神之蝶（日语：喫茶ステラと死神の蝶）是由柚子社制作的Galgame。本作是柚子社的第十一作，描述着在因缘际会之下进入了死亡螺旋中的男主角，与死神的相遇，并且在学校及咖啡店兼职之间所发生的日常恋爱故事。 | [官网地址](http://www.yuzu-soft.com/products/stella/index.html) [萌娘百科](https://zh.moegirl.org/星光咖啡馆与死神之蝶) (\*\*) |
+| riddle joker | RIDDLE JOKER | RIDDLE JOKER是由柚子社制作的美少女游戏。本作是柚子社第十作，以超能力为主题。故事发生的主要舞台是一个研究超能力的现代化都市，大量的“星幽使”在此定居并活跃着，以主角以及其义妹潜入星幽使聚集的校园为主要线索，讲述主角与学生们发生的故事。 | [官网地址](http://www.yuzu-soft.com/products/riddle/index.html) [萌娘百科](https://zh.moegirl.org/RIDDLE_JOKER) (\*\*) |
+| grand theft auto | 侠盗猎车手 | 侠盗猎车手系列（英语：Grand Theft Auto，简称GTA，又译侠盗飞车、横行霸道）是一个动作冒险游戏系列，最早由大卫·琼斯和迈克·戴利（Mike Dailly）制作，之后由丹（Dan）和山姆·浩瑟（Sam Houser）兄弟以及游戏设计师柴克瑞·克拉克（Zachary Clarke）接手制作。本系列主要由位于苏格兰爱丁堡的Rockstar North（前身为DMA Design）制作，并由Rockstar Games发行。 | [维基百科](https://zh.wikipedia.org/wiki/俠盜獵車手系列) (\*) |
+| hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/一个人的OO小日子) (\*\*) |
+| atelier ryza | 莱莎的炼金工房 ～常暗女王与秘密藏身处～ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
 -->
-
