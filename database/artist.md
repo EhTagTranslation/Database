@@ -2792,6 +2792,7 @@ example:
 | andrew loomis | 安德鲁·路米斯 |  | [英文维基](https://en.wikipedia.org/wiki/Andrew_Loomis) |
 | bert dodson | 伯特·多德森 |  |  |
 | kuzuya ramurin | 葛谷らむりん |  | [Twitter](https://twitter.com/kuzuya25) [pixiv](https://www.pixiv.net/users/1924211) |
+| taka | タカ |  | [Twitter](https://twitter.com/takapiyo) [pixiv](https://www.pixiv.net/users/9122) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
