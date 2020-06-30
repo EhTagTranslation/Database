@@ -1806,6 +1806,7 @@ example:
 | hitsuji no gohan | ひつじのごはん |  |  |
 | tokyoboogienight | 桃京武戯夜 |  |  |
 | taco | TACO |  | [官方网站](http://www.t-a-c-o.com) |
+| pirokobo | ピロコボ |  | [官方网站](http://www.pirokobo.com/blog) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
