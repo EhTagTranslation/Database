@@ -1803,6 +1803,7 @@ example:
 | yojigen kaidenpa | 四次元怪電波 |  |  |
 | saikutsu kichi | 採掘基地 |  |  |
 | 7th semicolon mint | 7th;Mint |  |  |
+| hitsuji no gohan | ひつじのごはん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
