@@ -2796,6 +2796,7 @@ example:
 | sw | Sw（すぅ） |  | [Twitter](https://twitter.com/Sw_taco) [pixiv](https://www.pixiv.net/users/41099) |
 | piro | Piro | ![piro头像](https://i.jpg.dog/img/6fc68789580bf86a138734ef3311a32c.jpg) | [Twitter](https://twitter.com/piro409) [pixiv](https://www.pixiv.net/users/483430) |
 | itou noizi | いとうのいぢ |  | [Twitter](https://twitter.com/itoww) [tumblr](https://itoww.tumblr.com) [公式网站](http://www.fujitsubo-machine.jp/~benja) [日文维基](https://ja.wikipedia.org/wiki/いとうのいぢ) |
+| hirose madoka | 広瀬まどか | ![広瀬まどか头像](https://i.jpg.dog/img/264c04d025b681557332c65800a61c9c.jpg) | [Twitter](https://twitter.com/hirose_madoka) [pixiv](https://www.pixiv.net/users/11972) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
