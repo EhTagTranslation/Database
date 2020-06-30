@@ -1805,6 +1805,7 @@ example:
 | 7th semicolon mint | 7th;Mint |  |  |
 | hitsuji no gohan | ひつじのごはん |  |  |
 | tokyoboogienight | 桃京武戯夜 |  |  |
+| taco | TACO |  | [官方网站](http://www.t-a-c-o.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
