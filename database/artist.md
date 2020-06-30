@@ -2788,6 +2788,7 @@ example:
 | shiden hiro | 四電ヒロ |  | [pixiv](https://www.pixiv.net/users/37191) [Twitter](https://twitter.com/4d_labo) |
 | kyabetsuka | 篝町狐懐 |  | [pixiv](https://www.pixiv.net/users/4569857) [Twitter](https://twitter.com/akamu_ver23) |
 | midoriha mint | 緑葉みんと \| 洗面きぬ子 |  | [pixiv](https://www.pixiv.net/users/398278) [Twitter](https://twitter.com/Tesumint) |
+| scott robertson | 斯科特·罗伯逊 |  | [英文维基](https://en.wikipedia.org/wiki/Scott_Robertson_%28concept_artist%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
