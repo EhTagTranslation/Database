@@ -45,7 +45,7 @@ example:
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与`shrinking`混淆。 |  |
 | infantilism | 幼稚型 | 将成年人当作小孩对待。 |  |
 |  | 思念峡湾(pining for the fjords)的来源：[英语吧](http://tieba.baidu.com/p/742519695) | 也就是放里站啦 |  |
-| lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。标记时，只考虑外观。是`oppai loli`、`low lolicon`的前置标签。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。<br>![图](https://ehgt.org/e0/40/e04019f1726c19af6d0578102d265870f742c35b-2766744-2440-3500-jpg_l.jpg)![图](https://ehgt.org/fe/70/fe704e987d28d1ac751171fcbd1dfb072cf7e956-2599848-2440-3500-jpg_l.jpg)![图](https://ehgt.org/3e/b1/3eb1b33ab0af723090f0e310cda77af8abf26b23-2532393-2440-3500-jpg_l.jpg) |  |
+| lolicon | 萝莉 | 有性的情景或裸体的未成年少女。不与一般年轻女孩混淆；应该拥有未充分发育的的身体。标记时，只考虑外观。是`oppai loli`、`low lolicon`的前置标签。<br>画廊只需要包含一张这种性质的图片就需要打上此标签。将发送画廊到思念峡湾。<br>![图](# "https://ehgt.org/9f/22/9f225fabfed15fb25857b023f6a3ab785d94a4d7-320921-1024-768-jpg_l.jpg")![图](# "https://ehgt.org/0d/77/0d770340cd3647cd9a23337820d57dfb012bd949-636217-956-1270-jpg_l.jpg") |  |
 | low lolicon | 未通过萝莉 | 表示`lolicon`的情况没有通过存在规则(presence rule)。需要`lolicon`标签。 |  |
 | milf | 熟女 | 看上去像30-50岁的女性，不一定是`mother`。不得与`old lady`混淆。 |  |
 | old lady | 老女人 | 看起来在50岁以上的女性。不得与`milf`混淆。 |  |
