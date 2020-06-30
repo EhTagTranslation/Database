@@ -1807,6 +1807,7 @@ example:
 | tokyoboogienight | 桃京武戯夜 |  |  |
 | taco | TACO |  | [官方网站](http://www.t-a-c-o.com) |
 | pirokobo | ピロコボ |  | [官方网站](http://www.pirokobo.com/blog) |
+| fujitsubo-machine | 富士壺機械 |  | [Twitter](https://twitter.com/fujitsubo_m) [官方网站](http://www.fujitsubo-machine.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
