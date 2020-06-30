@@ -2795,6 +2795,7 @@ example:
 | taka | タカ |  | [Twitter](https://twitter.com/takapiyo) [pixiv](https://www.pixiv.net/users/9122) |
 | sw | Sw（すぅ） |  | [Twitter](https://twitter.com/Sw_taco) [pixiv](https://www.pixiv.net/users/41099) |
 | piro | Piro | ![piro头像](https://i.jpg.dog/img/6fc68789580bf86a138734ef3311a32c.jpg) | [Twitter](https://twitter.com/piro409) [pixiv](https://www.pixiv.net/users/483430) |
+| itou noizi | いとうのいぢ |  | [Twitter](https://twitter.com/itoww) [tumblr](https://itoww.tumblr.com) [公式网站](http://www.fujitsubo-machine.jp/~benja) [日文维基](https://ja.wikipedia.org/wiki/いとうのいぢ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
