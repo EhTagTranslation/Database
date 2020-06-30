@@ -2790,6 +2790,7 @@ example:
 | midoriha mint | 緑葉みんと \| 洗面きぬ子 |  | [pixiv](https://www.pixiv.net/users/398278) [Twitter](https://twitter.com/Tesumint) |
 | scott robertson | 斯科特·罗伯逊 |  | [英文维基](https://en.wikipedia.org/wiki/Scott_Robertson_%28concept_artist%29) |
 | andrew loomis | 安德鲁·路米斯 |  | [英文维基](https://en.wikipedia.org/wiki/Andrew_Loomis) |
+| bert dodson | 伯特·多德森 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
