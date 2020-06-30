@@ -1,7 +1,7 @@
 ---
-key: character
 name: 角色
 description: 作品中出现的角色。
+key: character
 copyright: >
   对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
   3.0协议）进行二次分发。
@@ -2515,7 +2515,7 @@ example:
 | nekomata okayu | 猫又小粥 | 猫又小粥（猫又 おかゆ／Nekomata Okayu）是从2019年4月6日在YouTube开始活动的`VTuber`，作为Gamers组所属业界团体hololive。<br>![](https://img.moegirl.org/common/5/50/NekomataOkayu_idol.jpg) | [萌娘百科](https://zh.moegirl.org/猫又小粥) (\*\*) |
 |  |  | 3期 |  |
 | usada pekora | 兔田佩克拉 | 兔田佩克拉 （ 兎田ぺこら / Usada Pekora）是一名从2019年7月17日在YouTube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![食材](https://img.moegirl.org/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org/兔田佩克拉) |
-| uruha rushia | 润羽露西娅 |  |  |
+| uruha rushia | 润羽露西娅 | 润羽露西娅 （ 潤羽るしあ / Uruha Rushia）是一名从2019年7月18日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org/common/2/23/Uruharushia_idol.jpg) | [萌娘百科](https://zh.moegirl.org/润羽露西娅) |
 |  | 不知火芙蕾雅 |  |  |
 | shirogane noel | 白银诺艾尔 |  |  |
 | houshou marine | 宝钟玛琳 |  |  |
