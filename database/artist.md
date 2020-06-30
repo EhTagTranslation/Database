@@ -2793,6 +2793,7 @@ example:
 | bert dodson | 伯特·多德森 |  |  |
 | kuzuya ramurin | 葛谷らむりん |  | [Twitter](https://twitter.com/kuzuya25) [pixiv](https://www.pixiv.net/users/1924211) |
 | taka | タカ |  | [Twitter](https://twitter.com/takapiyo) [pixiv](https://www.pixiv.net/users/9122) |
+| sw | Sw（すぅ） |  | [Twitter](https://twitter.com/Sw_taco) [pixiv](https://www.pixiv.net/users/41099) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
