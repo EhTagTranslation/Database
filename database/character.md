@@ -3003,6 +3003,7 @@ example:
 | kudou chitose | 久远千岁 | 久远千岁（日语：久遠千歳）是一名于2019年1月10日在YouTube开始活动的VTuber，业界团体彩虹社的成员。于2019年8月31日引退。<br>![久远千岁](https://img.moegirl.org/common/thumb/e/e8/久远千岁.jpg/166px-久远千岁.jpg) | [Twitter](https://twitter.com/kudou_chitose) [YouTube](https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg) [萌娘百科](https://zh.moegirl.org/zh-hans/久远千岁) |
 | higuchi kaede | 樋口枫 | 樋口楓（Higuchi Kaede）是隶属于彩虹社的虚拟YouTuber，高中二年生。粉丝群体名为枫组，命名来源似乎是模仿宝塚歌剧团的“〇〇组”。<br>![樋口枫](https://img.moegirl.org/common/thumb/5/57/1480764.c24aa8.jpg/133px-1480764.c24aa8.jpg) | [Twitter](https://twitter.com/Higuchikaede) [YouTube](https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A) [萌娘百科](https://zh.moegirl.org/zh/樋口枫) [日文维基](https://ja.wikipedia.org/wiki/樋口楓) |
 | tsukino mito | 月之美兔 | 月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。<br>![月之美兔](https://img.moegirl.org/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png) | [Twitter](https://twitter.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A) [萌娘百科](https://zh.moegirl.org/zh-hans/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
+| yui kusano | 草野优衣 | 《公主连结Re:Dive》登场角色，ID为优衣（日语：ユイ），本名草野优衣 | [萌娘百科](https://zh.moegirl.org/草野优衣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
