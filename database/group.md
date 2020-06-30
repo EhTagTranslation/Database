@@ -1804,6 +1804,7 @@ example:
 | saikutsu kichi | 採掘基地 |  |  |
 | 7th semicolon mint | 7th;Mint |  |  |
 | hitsuji no gohan | ひつじのごはん |  |  |
+| tokyoboogienight | 桃京武戯夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
