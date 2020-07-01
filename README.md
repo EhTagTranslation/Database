@@ -4,17 +4,17 @@
 [![Build status](../../workflows/build/badge.svg)](../../actions)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
-<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
-[![all](https://img.shields.io/endpoint?color=brightgreen&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fall)](https://editor.ehtt.now.sh/list/all)
-[![reclass](https://img.shields.io/endpoint?color=tomato&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Freclass)](https://editor.ehtt.now.sh/list/reclass)
-[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Flanguage)](https://editor.ehtt.now.sh/list/language)
-[![female](https://img.shields.io/endpoint?color=deeppink&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Ffemale)](https://editor.ehtt.now.sh/list/female)
-[![male](https://img.shields.io/endpoint?color=slateblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmale)](https://editor.ehtt.now.sh/list/male)
-[![misc](https://img.shields.io/endpoint?color=lightgray&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fmisc)](https://editor.ehtt.now.sh/list/misc)
-[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fparody)](https://editor.ehtt.now.sh/list/parody)
-[![character](https://img.shields.io/endpoint?color=cadetblue&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fcharacter)](https://editor.ehtt.now.sh/list/character)
-[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fgroup)](https://editor.ehtt.now.sh/list/group)
-[![artist](https://img.shields.io/endpoint?color=chocolate&url=https%3A%2F%2Fehtagconnector.azurewebsites.net%2Fapi%2Fdatabase%2F~badge%2Fartist)](https://editor.ehtt.now.sh/list/artist)
+<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.azurewebsites.net/database/~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
+[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.azurewebsites.net/database/all/~badge)](https://editor.ehtt.now.sh/list/all)
+[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.azurewebsites.net/database/reclass/~badge)](https://editor.ehtt.now.sh/list/reclass)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.azurewebsites.net/database/language/~badge)](https://editor.ehtt.now.sh/list/language)
+[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.azurewebsites.net/database/female/~badge)](https://editor.ehtt.now.sh/list/female)
+[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.azurewebsites.net/database/male/~badge)](https://editor.ehtt.now.sh/list/male)
+[![misc](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.azurewebsites.net/database/misc/~badge)](https://editor.ehtt.now.sh/list/misc)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.azurewebsites.net/database/parody/~badge)](https://editor.ehtt.now.sh/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.azurewebsites.net/database/character/~badge)](https://editor.ehtt.now.sh/list/character)
+[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.azurewebsites.net/database/group/~badge)](https://editor.ehtt.now.sh/list/group)
+[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.azurewebsites.net/database/artist/~badge)](https://editor.ehtt.now.sh/list/artist)
 
 ## 协议
 

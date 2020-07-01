@@ -1,7 +1,7 @@
 ---
-key: artist
 name: 艺术家
 description: 绘画作者 / Coser。
+key: artist
 copyright: >
   对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
   3.0协议）进行二次分发。
