@@ -2805,6 +2805,7 @@ example:
 | okinaga umanosuke | 翁贺马乃助 |  |  |
 | yoikono tt | ヨイコノtt |  |  |
 | gosaiji | ごさいじ |  |  |
+| rokkotsu | 肋骨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
