@@ -2803,6 +2803,7 @@ example:
 | onaka emi | 小中えみ |  |  |
 | bobobo | ボボボ |  |  |
 | okinaga umanosuke | 翁贺马乃助 |  |  |
+| yoikono tt | ヨイコノtt |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
