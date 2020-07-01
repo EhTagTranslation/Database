@@ -2798,6 +2798,7 @@ example:
 | itou noizi | いとうのいぢ |  | [Twitter](https://twitter.com/itoww) [tumblr](https://itoww.tumblr.com) [公式网站](http://www.fujitsubo-machine.jp/~benja) [日文维基](https://ja.wikipedia.org/wiki/いとうのいぢ) |
 | hirose madoka | 広瀬まどか | ![広瀬まどか头像](https://i.jpg.dog/img/264c04d025b681557332c65800a61c9c.jpg) | [Twitter](https://twitter.com/hirose_madoka) [pixiv](https://www.pixiv.net/users/11972) |
 | nabe wataru | 名部渉 |  | [pixiv](https://www.pixiv.net/users/1812173) [niconico静画](https://seiga.nicovideo.jp/user/illust/13888504) |
+| gaou | がおう |  | [pixiv](https://www.pixiv.net/users/3569577) [Twitter](https://twitter.com/umaiyo_puyoman) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
