@@ -1810,6 +1810,7 @@ example:
 | fujitsubo-machine | 富士壺機械 |  | [Twitter](https://twitter.com/fujitsubo_m) [官方网站](http://www.fujitsubo-machine.jp) |
 | kokusai tenjijou uramon | 国際展示場裏門 |  |  |
 | daifuku | 大福 |  |  |
+| misaki | 三崎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
