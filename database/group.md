@@ -1809,6 +1809,10 @@ example:
 | pirokobo | ピロコボ |  | [官方网站](http://www.pirokobo.com/blog) |
 | fujitsubo-machine | 富士壺機械 |  | [Twitter](https://twitter.com/fujitsubo_m) [官方网站](http://www.fujitsubo-machine.jp) |
 | kokusai tenjijou uramon | 国際展示場裏門 |  |  |
+| daifuku | 大福 |  |  |
+| misaki | 三崎 |  |  |
+| umenomi gahou | 梅の実画報 |  |  |
+| akari blast | Akari blast! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
