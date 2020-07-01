@@ -2804,6 +2804,7 @@ example:
 | bobobo | ボボボ |  |  |
 | okinaga umanosuke | 翁贺马乃助 |  |  |
 | yoikono tt | ヨイコノtt |  |  |
+| gosaiji | ごさいじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
