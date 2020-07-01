@@ -1812,6 +1812,7 @@ example:
 | daifuku | 大福 |  |  |
 | misaki | 三崎 |  |  |
 | umenomi gahou | 梅の実画報 |  |  |
+| akari blast | Akari blast! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
