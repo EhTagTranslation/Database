@@ -1814,6 +1814,7 @@ example:
 | umenomi gahou | 梅の実画報 |  |  |
 | akari blast | Akari blast! |  |  |
 | rokata aruki | 縁側珈琲 |  |  |
+| idonchi | いどんち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
