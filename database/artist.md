@@ -2806,6 +2806,7 @@ example:
 | yoikono tt | ヨイコノtt |  |  |
 | gosaiji | ごさいじ |  |  |
 | rokkotsu | 肋骨 |  |  |
+| akino komichi | 秋乃こみち |  | [Twitter](https://twitter.com/akikomichi_r18) [pixiv](https://www.pixiv.net/users/10136) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
