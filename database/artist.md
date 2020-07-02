@@ -25,7 +25,7 @@ example:
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
-| -------- | ---------------------- | ---------------------------------------- | ---- |
+| -------- | ---- | ---- | -------- |
 |  | ▼示例 |  |  |
 | pop | POP | ![POP](http://ww4.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>`moetan`作者<br>![萌单](http://ww2.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | [Twitter](https://twitter.com/popemw) |
 | oouso | 大嘘 | ![大嘘头像](http://ww1.sinaimg.cn/large/6c84b2d6gy1fjkes482gzj204q04qmxx.jpg)<br>袜控，尻控，女子高中生(误)画家。<br>![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) | [Twitter](https://twitter.com/u_s_o) [pixiv](https://www.pixiv.net/users/457541) |

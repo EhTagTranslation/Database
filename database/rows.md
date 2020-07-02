@@ -5,7 +5,7 @@ key: rows
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
-| -------- | --------------- | ------ | ----------- |
+| -------- | ---- | ---- | -------- |
 | artist | 艺术家 | 绘画作者 / Coser。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/artist.md) |
 | female | 女性 | 女性角色相关的恋物标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/female.md) |
 | male | 男性 | 男性角色相关的恋物标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/male.md) |
