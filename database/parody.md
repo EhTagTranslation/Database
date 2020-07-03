@@ -1468,6 +1468,7 @@ example:
 | grand theft auto | 侠盗猎车手 | 侠盗猎车手系列（英语：Grand Theft Auto，简称GTA，又译侠盗飞车、横行霸道）是一个动作冒险游戏系列，最早由大卫·琼斯和迈克·戴利（Mike Dailly）制作，之后由丹（Dan）和山姆·浩瑟（Sam Houser）兄弟以及游戏设计师柴克瑞·克拉克（Zachary Clarke）接手制作。本系列主要由位于苏格兰爱丁堡的Rockstar North（前身为DMA Design）制作，并由Rockstar Games发行。 | [维基百科](https://zh.wikipedia.org/wiki/俠盜獵車手系列) (\*) |
 | hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/一个人的OO小日子) (\*\*) |
 | atelier ryza | 莱莎的炼金工房 ～常暗女王与秘密藏身处～ |  |  |
+| asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/恋爱小行星) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
