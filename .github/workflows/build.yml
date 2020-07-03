@@ -1,0 +1,75 @@
+name: build
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - database/*
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Download tool
+        uses: i3h/download-release-asset@v1
+        with:
+          owner: EhTagTranslation
+          repo: Editor
+          tag: latest
+          file: release.zip
+      - name: Extract tool
+        run: |
+          echo ::group::unzip
+          unzip release.zip -d tool
+          echo ::endgroup::
+
+      - name: Build
+        run: node tool create-release . ./publish
+
+      - name: Create token
+        env:
+          APP_ID: ${{ secrets.APP_ID }}
+          APP_KEY: ${{ secrets.APP_KEY }}
+          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+          APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
+          APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
+        run: node tool generate-token --env=APP_TOKEN
+
+      - name: Commit release mirror
+        run: >
+          cd ./publish
+          && (printf '${{ github.sha }}' > ./sha)
+          && git init
+          && git config user.email '66814738+ehtagtranslation[bot]@users.noreply.github.com'
+          && git config user.name  'ehtagtranslation[bot]'
+          && git add .
+          && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
+          && echo "::set-env name=MIRROR_SHA::$(git rev-parse HEAD)"
+      - name: Push release mirror
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ env.APP_TOKEN }}
+          force: true
+          directory: ./publish
+          repository: EhTagTranslation/DatabaseReleases
+
+      - name: Set release note
+        env:
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+        run: node tool set-release-note '${{ github.event.before }}...${{ github.event.after }}' '${{ env.MIRROR_SHA }}'
+      - name: Upload release
+        uses: ncipollo/release-action@v1
+        with:
+          artifacts: ./publish/*
+          name: ${{ env.RELEASE_NAME }}
+          body: ${{ env.RELEASE_BODY }}
+          token: ${{ env.APP_TOKEN }}
+          commit: ${{ github.sha }}
+          tag: ${{ format('v-{0}', github.sha) }}
+      - name: Clean releases
+        env:
+          GITHUB_TOKEN: ${{ env.APP_TOKEN }}
+        run: node tool delete-releases
