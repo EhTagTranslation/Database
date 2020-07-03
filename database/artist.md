@@ -2810,6 +2810,7 @@ example:
 | ido | いど |  | [Twitter](https://twitter.com/idonum) [pixiv](https://www.pixiv.net/users/1101145) |
 | asaki takayuki | 朝木貴行 |  |  |
 | koyanagi royal | 小柳ロイヤル |  |  |
+| iketaki ganguten | 池瀧玩具店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
