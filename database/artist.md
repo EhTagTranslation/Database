@@ -2813,6 +2813,7 @@ example:
 | iketaki ganguten | 池瀧玩具店 |  |  |
 | akagi kuro | 赤木クロ |  |  |
 | ash yokoshima | Ash横島 |  |  |
+| haitokukan | 背徳漢 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
