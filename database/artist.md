@@ -2812,6 +2812,7 @@ example:
 | koyanagi royal | 小柳ロイヤル |  |  |
 | iketaki ganguten | 池瀧玩具店 |  |  |
 | akagi kuro | 赤木クロ |  |  |
+| ash yokoshima | Ash横島 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
