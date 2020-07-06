@@ -2815,6 +2815,7 @@ example:
 | ash yokoshima | Ash横島 |  |  |
 | haitokukan | 背徳漢 |  |  |
 | henkuma | 変熊 |  |  |
+| kawashima yoshio | 川島よしお |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
