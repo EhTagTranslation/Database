@@ -2819,6 +2819,7 @@ example:
 | kanari tokusaku | 鹿成トクサク |  |  |
 | onigiri unicorn | 鬼斬ゆにこーん |  |  |
 | namae renraku | なまえ れんらく |  |  |
+| kouda tomohiro | 幸田朋弘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
