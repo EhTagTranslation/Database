@@ -2811,6 +2811,7 @@ example:
 | asaki takayuki | 朝木貴行 |  |  |
 | koyanagi royal | 小柳ロイヤル |  |  |
 | iketaki ganguten | 池瀧玩具店 |  |  |
+| akagi kuro | 赤木クロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
