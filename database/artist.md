@@ -2814,6 +2814,7 @@ example:
 | akagi kuro | 赤木クロ |  |  |
 | ash yokoshima | Ash横島 |  |  |
 | haitokukan | 背徳漢 |  |  |
+| henkuma | 変熊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
