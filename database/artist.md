@@ -2817,6 +2817,7 @@ example:
 | henkuma | 変熊 |  |  |
 | kawashima yoshio | 川島よしお |  |  |
 | kanari tokusaku | 鹿成トクサク |  |  |
+| onigiri unicorn | 鬼斬ゆにこーん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
