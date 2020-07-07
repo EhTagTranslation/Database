@@ -23,7 +23,7 @@ jobs:
       - name: Extract tool
         run: |
           echo ::group::unzip
-          unzip release.zip -d tool
+          unzip ./release.zip -d ./tool
           echo ::endgroup::
 
       - name: Build

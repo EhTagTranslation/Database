@@ -1,9 +1,9 @@
-name: checkin
+name: check_pr
 
 on: pull_request
 
 jobs:
-  checkin:
+  check_pr:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,15 +18,18 @@ jobs:
       - name: Extract tool
         run: |
           echo ::group::unzip
-          unzip release.zip -d tool
+          unzip ./release.zip -d ./tool
           echo ::endgroup::
 
       - name: Build
-        run: node tool create-release . ./publish
+        run: node tool create-release --strict . ./publish
 
       - name: Check for uncommitted changes
         # Ensure no changes
-        run: >
-          git add . 
-          && git diff --exit-code
-          || (echo "##[error] Found changed files after build. Please normalize your commits and check in all changes." && exit 1)
+        run: |
+          git add .
+          if ! git diff --color=always --cached --exit-code; then
+            echo ""
+            echo "::error::更改包含非标准的条目，请按上述输出将红色行内容修改为对应绿色行内容。"
+            exit 1
+          fi
