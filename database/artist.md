@@ -2811,6 +2811,15 @@ example:
 | asaki takayuki | 朝木貴行 |  |  |
 | koyanagi royal | 小柳ロイヤル |  |  |
 | iketaki ganguten | 池瀧玩具店 |  |  |
+| akagi kuro | 赤木クロ |  |  |
+| ash yokoshima | Ash横島 |  |  |
+| haitokukan | 背徳漢 |  |  |
+| henkuma | 変熊 |  |  |
+| kawashima yoshio | 川島よしお |  |  |
+| kanari tokusaku | 鹿成トクサク |  |  |
+| onigiri unicorn | 鬼斬ゆにこーん |  |  |
+| namae renraku | なまえ れんらく |  |  |
+| kouda tomohiro | 幸田朋弘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
