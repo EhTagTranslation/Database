@@ -2969,7 +2969,7 @@ example:
 | mafuyu kirisu | 桐须真冬 |  |  |
 | nariyuki yuiga | 唯我成幸 |  |  |
 | alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《`Sword Art Online`》及其衍生作品的登场角色。<br>![](https://img.moegirl.org/common/7/7a/Alice9.jpg) | [萌娘百科](https://zh.moegirl.org/爱丽丝·滋贝鲁库) |
-| selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小 说《`Sword Art Online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/赛鲁卡·滋贝鲁库) |
+| selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小说《`Sword Art Online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/赛鲁卡·滋贝鲁库) |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 |  |  |
 | shihoru | 席赫露 |  |  |
