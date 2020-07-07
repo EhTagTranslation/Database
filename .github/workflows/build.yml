@@ -43,7 +43,7 @@ jobs:
       - name: Set release note
         env:
           COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
-        run: node tool set-release-note '${{ github.event.before }}...${{ github.event.after }}' '${{ env.MIRROR_SHA }}'
+        run: node tool set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
 
       # publish releases
       - name: Create token
