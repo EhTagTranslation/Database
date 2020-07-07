@@ -1,0 +1,33 @@
+name: checkin
+
+on: pull_request
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Download tool
+        uses: i3h/download-release-asset@v1
+        with:
+          owner: EhTagTranslation
+          repo: Editor
+          tag: latest
+          file: release.zip
+      - name: Extract tool
+        run: |
+          echo ::group::unzip
+          unzip release.zip -d tool
+          echo ::endgroup::
+
+      - name: Build
+        run: node tool create-release . ./publish
+
+      - name: Check for uncommitted changes
+        # Ensure no changes
+        run: >
+          git add . 
+          && git diff --exit-code
+          || (echo "##[error] Found changed files after build. Please normalize your commits and check in all changes."
+              && exit 1)
