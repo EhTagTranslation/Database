@@ -1,0 +1,35 @@
+name: check_pr
+
+on: pull_request
+
+jobs:
+  check_pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Download tool
+        uses: i3h/download-release-asset@v1
+        with:
+          owner: EhTagTranslation
+          repo: Editor
+          tag: latest
+          file: release.zip
+      - name: Extract tool
+        run: |
+          echo ::group::unzip
+          unzip ./release.zip -d ./tool
+          echo ::endgroup::
+
+      - name: Build
+        run: node tool create-release --strict . ./publish
+
+      - name: Check for uncommitted changes
+        # Ensure no changes
+        run: |
+          git add .
+          if ! git diff --color=always --cached --exit-code; then
+            echo ""
+            echo "::error::更改包含非标准的条目，请按上述输出将红色行内容修改为对应绿色行内容。"
+            exit 1
+          fi

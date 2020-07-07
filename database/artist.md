@@ -2779,7 +2779,7 @@ example:
 | senmu | SeNMU | ![SeNMU头像](https://i.jpg.dog/img/d55be3f90d8d6356e92fe3e3b5895346.jpg) | [Twitter](https://twitter.com/SeNMU0107) [pixiv](https://www.pixiv.net/users/65308) |
 | arito arayuru | 有都あらゆる |  | [Twitter](https://twitter.com/arito_arayuru) [pixiv](https://www.pixiv.net/users/3733098) |
 | 9so | 9SO |  | [pixiv](https://www.pixiv.net/users/78838) |
-| haruba negi | 春场葱 | 春场葱（日语：春場ねぎ，1991年7月27日－），日本男性漫画家，出身自爱知县。代表作为《五等分的新娘》，在2019年以该作获得第43届讲谈社漫画赏。 | [Twitter](https://twitter.com/negi_haruba) [中文维基](https://zh.wikipedia.org/wiki/春場蔥) [日文维基](https://ja.wikipedia.org/wiki/春場ねぎ) |
+| haruba negi | 春场葱 | 春场葱（日语：春場ねぎ，1991年7月27日－），日本男性漫画家，出身自爱知县。代表作为《`gotoubun no hanayome`》，在2019年以该作获得第43届讲谈社漫画赏。 | [Twitter](https://twitter.com/negi_haruba) [中文维基](https://zh.wikipedia.org/wiki/春場蔥) [日文维基](https://ja.wikipedia.org/wiki/春場ねぎ) |
 | maki komura | 真木こむら | ![真木こむら头像](https://i.jpg.dog/img/1f5d585443b78a70d7d8e064ed99bfec.png) | [Twitter](https://twitter.com/komura_komura) [pixiv](https://www.pixiv.net/users/15083784) |
 | sakamata nerimono | 逆又練物 |  |  |
 | nagata maria | 永田まりあ |  |  |

@@ -23,21 +23,13 @@ jobs:
       - name: Extract tool
         run: |
           echo ::group::unzip
-          unzip release.zip -d tool
+          unzip ./release.zip -d ./tool
           echo ::endgroup::
 
       - name: Build
         run: node tool create-release . ./publish
 
-      - name: Create token
-        env:
-          APP_ID: ${{ secrets.APP_ID }}
-          APP_KEY: ${{ secrets.APP_KEY }}
-          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
-          APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
-          APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
-        run: node tool generate-token --env=APP_TOKEN
-
+      ## prepare releases
       - name: Commit release mirror
         run: >
           cd ./publish
@@ -48,20 +40,40 @@ jobs:
           && git add .
           && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
           && echo "::set-env name=MIRROR_SHA::$(git rev-parse HEAD)"
+      - name: Set release note
+        env:
+          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
+        run: node tool set-release-note '${{ github.event.before }}...${{ github.event.after }}' '${{ env.MIRROR_SHA }}'
+
+      # publish releases
+      - name: Create token
+        env:
+          APP_ID: ${{ secrets.APP_ID }}
+          APP_KEY: ${{ secrets.APP_KEY }}
+          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+          APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
+          APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
+        run: node tool generate-token --env=APP_TOKEN
+      - name: Check latest
+        run: |
+          LATEST_SHA=$(git ls-remote origin master | cut -f1)
+          echo "Current commit: ${{ github.sha }}"
+          echo "Latest commit: $LATEST_SHA"
+          if [[ "$LATEST_SHA" != "${{ github.sha }}" ]]; then
+            echo "::warning::已经有新的版本提交，取消发布"
+            echo "::set-env name=SKIP::true"
+          fi
       - name: Push release mirror
         uses: ad-m/github-push-action@master
+        if: ${{ !env.SKIP }}
         with:
           github_token: ${{ env.APP_TOKEN }}
           force: true
           directory: ./publish
           repository: EhTagTranslation/DatabaseReleases
-
-      - name: Set release note
-        env:
-          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
-        run: node tool set-release-note '${{ github.event.before }}...${{ github.event.after }}' '${{ env.MIRROR_SHA }}'
       - name: Upload release
         uses: ncipollo/release-action@v1
+        if: ${{ !env.SKIP }}
         with:
           artifacts: ./publish/*
           name: ${{ env.RELEASE_NAME }}
@@ -70,6 +82,7 @@ jobs:
           commit: ${{ github.sha }}
           tag: ${{ format('v-{0}', github.sha) }}
       - name: Clean releases
+        if: ${{ !env.SKIP }}
         env:
           GITHUB_TOKEN: ${{ env.APP_TOKEN }}
         run: node tool delete-releases
