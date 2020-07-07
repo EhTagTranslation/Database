@@ -2968,7 +2968,7 @@ example:
 | junichi tachibana | 橘纯一 |  |  |
 | mafuyu kirisu | 桐须真冬 |  |  |
 | nariyuki yuiga | 唯我成幸 |  |  |
-| alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《刀剑神域》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/爱丽丝·滋贝鲁库) |
+| alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《`Sword Art Online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/爱丽丝·滋贝鲁库) |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 |  |  |
 | shihoru | 席赫露 |  |  |
