@@ -29,5 +29,4 @@ jobs:
         run: >
           git add . 
           && git diff --exit-code
-          || (echo "##[error] Found changed files after build. Please normalize your commits and check in all changes."
-              && exit 1)
+          || (echo "##[error] Found changed files after build. Please normalize your commits and check in all changes." && exit 1)
