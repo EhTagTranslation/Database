@@ -2820,6 +2820,7 @@ example:
 | onigiri unicorn | 鬼斬ゆにこーん |  |  |
 | namae renraku | なまえ れんらく |  |  |
 | kouda tomohiro | 幸田朋弘 |  |  |
+| senbei | 煎餅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
