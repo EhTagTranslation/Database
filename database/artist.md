@@ -2821,6 +2821,7 @@ example:
 | namae renraku | なまえ れんらく |  |  |
 | kouda tomohiro | 幸田朋弘 |  |  |
 | senbei | 煎餅 |  |  |
+| corundum | こらんだむ |  | [Twitter](https://twitter.com/corundum_box) [pixiv](https://www.pixiv.net/users/17778544) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
