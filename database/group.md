@@ -1815,6 +1815,7 @@ example:
 | akari blast | Akari blast! |  |  |
 | rokata aruki | 縁側珈琲 |  |  |
 | idonchi | いどんち |  |  |
+| sanbaizu | 三杯酢 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
