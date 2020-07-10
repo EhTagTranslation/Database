@@ -1828,6 +1828,7 @@ example:
 | from nuts | From nuts |  |  |
 | upagoya | うぱ小屋 |  |  |
 | muraimura | 村井村 |  |  |
+| apple effect | Apple Effect |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
