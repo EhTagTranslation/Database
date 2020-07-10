@@ -1819,6 +1819,7 @@ example:
 | j.d.world | J.D.World |  |  |
 | 0000 | 0000 |  |  |
 | lovelyplace | LOVELYPLACE |  |  |
+| studio hatake | STUDIO畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
