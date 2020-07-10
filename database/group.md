@@ -1823,6 +1823,7 @@ example:
 | seitokaishitsu | 生徒会室 |  |  |
 | kuma no tooru michi | くまのとおるみち |  |  |
 | kindou shoujo | 金瞳少女 |  |  |
+| yukimi-fuumi | ゆきみ風味 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
