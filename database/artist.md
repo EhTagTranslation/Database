@@ -420,7 +420,7 @@ example:
 | tamon | たもん |  |  |
 | haruaki | 明彰 |  |  |
 | oomori yoshiharu | おおもりよしはる |  |  |
-| amedamacon | 飴玉コン |  |  |
+| amedamacon | 飴玉コン |  | [Twitter](https://twitter.com/amedamacon) [pixiv](https://www.pixiv.net/users/1992163) |
 | eisen | 英战 |  |  |
 | harigane shinshi | 针金绅士 |  | [pixiv](https://www.pixiv.net/users/130689) |
 | kazuhiro | 一弘 |  |  |
