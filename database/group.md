@@ -1831,6 +1831,7 @@ example:
 | apple effect | Apple Effect |  |  |
 | sukoburuyama | すこぶるやま |  |  |
 | otabe dynamites | おたべ★ダイナマイツ |  |  |
+| milk bar | MILK BAR |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
