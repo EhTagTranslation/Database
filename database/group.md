@@ -1822,6 +1822,7 @@ example:
 | studio hatake | STUDIO畑 |  |  |
 | seitokaishitsu | 生徒会室 |  |  |
 | kuma no tooru michi | くまのとおるみち |  |  |
+| kindou shoujo | 金瞳少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
