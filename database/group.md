@@ -1830,6 +1830,7 @@ example:
 | muraimura | 村井村 |  |  |
 | apple effect | Apple Effect |  |  |
 | sukoburuyama | すこぶるやま |  |  |
+| otabe dynamites | おたべ★ダイナマイツ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
