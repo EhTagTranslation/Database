@@ -1824,6 +1824,7 @@ example:
 | kuma no tooru michi | くまのとおるみち |  |  |
 | kindou shoujo | 金瞳少女 |  |  |
 | yukimi-fuumi | ゆきみ風味 |  |  |
+| cotesdenoix | CotesDeNoix |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
