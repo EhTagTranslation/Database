@@ -1821,6 +1821,7 @@ example:
 | lovelyplace | LOVELYPLACE |  |  |
 | studio hatake | STUDIO畑 |  |  |
 | seitokaishitsu | 生徒会室 |  |  |
+| kuma no tooru michi | くまのとおるみち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
