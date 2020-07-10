@@ -1818,6 +1818,7 @@ example:
 | sanbaizu | 三杯酢 |  |  |
 | j.d.world | J.D.World |  |  |
 | 0000 | 0000 |  |  |
+| lovelyplace | LOVELYPLACE |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
