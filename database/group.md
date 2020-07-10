@@ -1820,6 +1820,7 @@ example:
 | 0000 | 0000 |  |  |
 | lovelyplace | LOVELYPLACE |  |  |
 | studio hatake | STUDIO畑 |  |  |
+| seitokaishitsu | 生徒会室 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
