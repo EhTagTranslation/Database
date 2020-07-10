@@ -1833,6 +1833,7 @@ example:
 | otabe dynamites | おたべ★ダイナマイツ |  |  |
 | milk bar | MILK BAR |  |  |
 | chikuwa no wakka | ちくわのわっか |  |  |
+| nekoyashiki | 猫屋敷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
