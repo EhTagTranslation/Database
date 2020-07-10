@@ -2827,6 +2827,7 @@ example:
 | redash | RedAsh |  | [pixiv](https://www.pixiv.net/users/35484662) [微博](https://weibo.com/p/1005057059159490) |
 | kuroha reiji | 九郎 |  | [Twitter](https://twitter.com/Trg_AKT) [pixiv](https://www.pixiv.net/users/136872) |
 | kirekawa | きれかわ |  | [pixiv](https://www.pixiv.net/users/8983263) |
+| taro oimo | たろおいも |  | [Twitter](https://twitter.com/taro0imo) [pixiv](https://www.pixiv.net/users/14015863) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
