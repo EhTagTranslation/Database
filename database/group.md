@@ -1826,6 +1826,7 @@ example:
 | yukimi-fuumi | ゆきみ風味 |  |  |
 | cotesdenoix | CotesDeNoix |  |  |
 | from nuts | From nuts |  |  |
+| upagoya | うぱ小屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
