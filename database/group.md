@@ -1829,6 +1829,7 @@ example:
 | upagoya | うぱ小屋 |  |  |
 | muraimura | 村井村 |  |  |
 | apple effect | Apple Effect |  |  |
+| sukoburuyama | すこぶるやま |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
