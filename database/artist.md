@@ -2825,6 +2825,7 @@ example:
 | miyabe kiwi | 宮部キウイ |  | [Twitter](https://twitter.com/mybui_38) [pixiv](https://www.pixiv.net/users/26904758) |
 | dendenbotch | でんでんぼっち |  | [Twitter](https://twitter.com/dendenbotch) [pixiv](https://www.pixiv.net/users/4288867) |
 | redash | RedAsh |  | [pixiv](https://www.pixiv.net/users/35484662) [微博](https://weibo.com/p/1005057059159490) |
+| kuroha reiji | 九郎 |  | [Twitter](https://twitter.com/Trg_AKT) [pixiv](https://www.pixiv.net/users/136872) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
