@@ -2831,6 +2831,7 @@ example:
 | akimoto dai | あきもと大 |  | [Twitter](https://twitter.com/dai_colorful) |
 | kumada | くまだ \| くまのとおる |  | [Twitter](https://twitter.com/kumadano) [pixiv](https://www.pixiv.net/users/86161) |
 | nipi | nipi |  | [Twitter](https://twitter.com/saberchankawaii) [pixiv](https://www.pixiv.net/users/15622479) |
+| misakana | みさかな |  | [Twitter](https://twitter.com/mi3ka7) [pixiv](https://www.pixiv.net/users/161400) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
