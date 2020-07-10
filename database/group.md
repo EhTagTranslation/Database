@@ -1834,6 +1834,7 @@ example:
 | milk bar | MILK BAR |  |  |
 | chikuwa no wakka | ちくわのわっか |  |  |
 | nekoyashiki | 猫屋敷 |  |  |
+| cheeseyeast | チーズ酵母 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
