@@ -2840,6 +2840,7 @@ example:
 | shirogane hina | シロガネヒナ |  | [Twitter](https://twitter.com/milky175) [pixiv](https://www.pixiv.net/users/239166) |
 | chikuwa. | ちくわ。 |  | [Twitter](https://twitter.com/chi9wa_) [pixiv](https://www.pixiv.net/users/5991282) |
 | naka | なか |  | [Twitter](https://twitter.com/cynaka) [pixiv](https://www.pixiv.net/users/34654) |
+| midorino haru | 緑野はる |  | [Twitter](https://twitter.com/vvoharu) [pixiv](https://www.pixiv.net/users/8084357) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
