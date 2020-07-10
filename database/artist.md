@@ -2841,6 +2841,7 @@ example:
 | chikuwa. | ちくわ。 |  | [Twitter](https://twitter.com/chi9wa_) [pixiv](https://www.pixiv.net/users/5991282) |
 | naka | なか |  | [Twitter](https://twitter.com/cynaka) [pixiv](https://www.pixiv.net/users/34654) |
 | midorino haru | 緑野はる |  | [Twitter](https://twitter.com/vvoharu) [pixiv](https://www.pixiv.net/users/8084357) |
+| ma-sa | MA-SA |  | [Twitter](https://twitter.com/masa_tennensui) [pixiv](https://www.pixiv.net/users/80651) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
