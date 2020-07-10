@@ -1832,6 +1832,7 @@ example:
 | sukoburuyama | すこぶるやま |  |  |
 | otabe dynamites | おたべ★ダイナマイツ |  |  |
 | milk bar | MILK BAR |  |  |
+| chikuwa no wakka | ちくわのわっか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
