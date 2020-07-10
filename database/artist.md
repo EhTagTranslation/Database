@@ -2839,6 +2839,7 @@ example:
 | itohana | イトハナ |  | [Twitter](https://twitter.com/1_1087) [pixiv](https://www.pixiv.net/users/8731234) |
 | shirogane hina | シロガネヒナ |  | [Twitter](https://twitter.com/milky175) [pixiv](https://www.pixiv.net/users/239166) |
 | chikuwa. | ちくわ。 |  | [Twitter](https://twitter.com/chi9wa_) [pixiv](https://www.pixiv.net/users/5991282) |
+| naka | なか |  | [Twitter](https://twitter.com/cynaka) [pixiv](https://www.pixiv.net/users/34654) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
