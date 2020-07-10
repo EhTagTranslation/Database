@@ -2837,6 +2837,7 @@ example:
 | muraimura | 村井村 |  | [Twitter](https://twitter.com/murairamuraiari) [pixiv](https://www.pixiv.net/users/36246772) |
 | murasakio | 紫御 |  | [Twitter](https://twitter.com/apple_effect) [pixiv](https://www.pixiv.net/users/589135) |
 | itohana | イトハナ |  | [Twitter](https://twitter.com/1_1087) [pixiv](https://www.pixiv.net/users/8731234) |
+| shirogane hina | シロガネヒナ |  | [Twitter](https://twitter.com/milky175) [pixiv](https://www.pixiv.net/users/239166) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
