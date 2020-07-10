@@ -2830,6 +2830,7 @@ example:
 | taro oimo | たろおいも |  | [Twitter](https://twitter.com/taro0imo) [pixiv](https://www.pixiv.net/users/14015863) |
 | akimoto dai | あきもと大 |  | [Twitter](https://twitter.com/dai_colorful) |
 | kumada | くまだ \| くまのとおる |  | [Twitter](https://twitter.com/kumadano) [pixiv](https://www.pixiv.net/users/86161) |
+| nipi | nipi |  | [Twitter](https://twitter.com/saberchankawaii) [pixiv](https://www.pixiv.net/users/15622479) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
