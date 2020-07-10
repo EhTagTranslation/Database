@@ -2828,6 +2828,7 @@ example:
 | kuroha reiji | 九郎 |  | [Twitter](https://twitter.com/Trg_AKT) [pixiv](https://www.pixiv.net/users/136872) |
 | kirekawa | きれかわ |  | [pixiv](https://www.pixiv.net/users/8983263) |
 | taro oimo | たろおいも |  | [Twitter](https://twitter.com/taro0imo) [pixiv](https://www.pixiv.net/users/14015863) |
+| akimoto dai | あきもと大 |  | [Twitter](https://twitter.com/dai_colorful) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
