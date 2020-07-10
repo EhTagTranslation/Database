@@ -1827,6 +1827,7 @@ example:
 | cotesdenoix | CotesDeNoix |  |  |
 | from nuts | From nuts |  |  |
 | upagoya | うぱ小屋 |  |  |
+| muraimura | 村井村 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
