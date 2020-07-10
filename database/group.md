@@ -1836,6 +1836,7 @@ example:
 | nekoyashiki | 猫屋敷 |  |  |
 | cheeseyeast | チーズ酵母 |  |  |
 | neko tanteidan peach | ネコ☆探偵団 |  |  |
+| water drop | うぉーたーどろっぷ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
