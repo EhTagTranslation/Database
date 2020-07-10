@@ -2823,6 +2823,7 @@ example:
 | senbei | 煎餅 |  |  |
 | corundum | こらんだむ |  | [Twitter](https://twitter.com/corundum_box) [pixiv](https://www.pixiv.net/users/17778544) |
 | miyabe kiwi | 宮部キウイ |  | [Twitter](https://twitter.com/mybui_38) [pixiv](https://www.pixiv.net/users/26904758) |
+| dendenbotch | でんでんぼっち |  | [Twitter](https://twitter.com/dendenbotch) [pixiv](https://www.pixiv.net/users/4288867) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
