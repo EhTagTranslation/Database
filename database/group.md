@@ -1835,6 +1835,7 @@ example:
 | chikuwa no wakka | ちくわのわっか |  |  |
 | nekoyashiki | 猫屋敷 |  |  |
 | cheeseyeast | チーズ酵母 |  |  |
+| neko tanteidan peach | ネコ☆探偵団 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
