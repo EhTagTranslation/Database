@@ -2834,6 +2834,7 @@ example:
 | misakana | みさかな |  | [Twitter](https://twitter.com/mi3ka7) [pixiv](https://www.pixiv.net/users/161400) |
 | cru | Cru |  | [Twitter](https://twitter.com/tyoukai5) [pixiv](https://www.pixiv.net/users/831024) |
 | garana | ガラナ |  | [Twitter](https://twitter.com/garana_drink) [pixiv](https://www.pixiv.net/users/4938708) |
+| muraimura | 村井村 |  | [Twitter](https://twitter.com/murairamuraiari) [pixiv](https://www.pixiv.net/users/36246772) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
