@@ -1839,6 +1839,7 @@ example:
 | water drop | うぉーたーどろっぷ |  |  |
 | honey butter3g | はちみつバター3g |  |  |
 | ichibocchi | ゐちぼっち |  |  |
+| low temp | low\*temp |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
