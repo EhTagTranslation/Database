@@ -1841,6 +1841,7 @@ example:
 | ichibocchi | ゐちぼっち |  |  |
 | low temp | low\*temp |  |  |
 | against | against |  |  |
+| jigizagi | ジギザギ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
