@@ -1837,6 +1837,7 @@ example:
 | cheeseyeast | チーズ酵母 |  |  |
 | neko tanteidan peach | ネコ☆探偵団 |  |  |
 | water drop | うぉーたーどろっぷ |  |  |
+| honey butter3g | はちみつバター3g |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
