@@ -1840,6 +1840,7 @@ example:
 | honey butter3g | はちみつバター3g |  |  |
 | ichibocchi | ゐちぼっち |  |  |
 | low temp | low\*temp |  |  |
+| against | against |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
