@@ -2843,6 +2843,7 @@ example:
 | midorino haru | 緑野はる |  | [Twitter](https://twitter.com/vvoharu) [pixiv](https://www.pixiv.net/users/8084357) |
 | ma-sa | MA-SA |  | [Twitter](https://twitter.com/masa_tennensui) [pixiv](https://www.pixiv.net/users/80651) |
 | ameno usari | 飴乃うさり |  | [Twitter](https://twitter.com/ame_usari) [pixiv](https://www.pixiv.net/users/5668238) |
+| mizukaga syou | 水利硝 |  | [Twitter](https://twitter.com/syou_syan) [pixiv](https://www.pixiv.net/users/213661) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
