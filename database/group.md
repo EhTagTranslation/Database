@@ -1838,6 +1838,7 @@ example:
 | neko tanteidan peach | ネコ☆探偵団 |  |  |
 | water drop | うぉーたーどろっぷ |  |  |
 | honey butter3g | はちみつバター3g |  |  |
+| ichibocchi | ゐちぼっち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
