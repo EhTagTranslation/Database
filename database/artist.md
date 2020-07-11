@@ -2845,6 +2845,7 @@ example:
 | ameno usari | 飴乃うさり |  | [Twitter](https://twitter.com/ame_usari) [pixiv](https://www.pixiv.net/users/5668238) |
 | mizukaga syou | 水利硝 |  | [Twitter](https://twitter.com/syou_syan) [pixiv](https://www.pixiv.net/users/213661) |
 | kudo | ９℃ |  | [Twitter](https://twitter.com/kudo_9c) [pixiv](https://www.pixiv.net/users/6297639) |
+| sumii | すみい |  | [Twitter](https://twitter.com/sumii88) [pixiv](https://www.pixiv.net/users/561112) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
