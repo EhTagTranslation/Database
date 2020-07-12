@@ -2853,6 +2853,7 @@ example:
 | yasaka syu | 矢坂しゅう |  | [Twitter](https://twitter.com/syu_612) [pixiv](https://www.pixiv.net/users/2798316) |
 | nimuno | にむの |  | [Twitter](https://twitter.com/nimuno_munimuni) [pixiv](https://www.pixiv.net/users/28750419) |
 | watanore | わたのれ |  | [Twitter](https://twitter.com/watanore) [pixiv](https://www.pixiv.net/users/478858) |
+| qblade | blade |  | [Twitter](https://twitter.com/QBLADE2) [pixiv](https://www.pixiv.net/users/466758) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
