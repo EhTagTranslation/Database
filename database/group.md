@@ -1849,6 +1849,7 @@ example:
 | nimunoya | にむの屋 |  |  |
 | studio big-x | スタジオBIG-X |  |  |
 | uzumaki hiyoko | うずまき☆ひよこ |  |  |
+| shinshi kouryuuku | 紳士交流区 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
