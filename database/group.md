@@ -1845,6 +1845,7 @@ example:
 | pochi | POCHI |  |  |
 | dragon panda | DRAGON PANDA |  |  |
 | trip spider | TRIP SPIDER |  |  |
+| smile studio | すまいるすたじお |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
