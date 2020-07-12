@@ -1842,6 +1842,7 @@ example:
 | low temp | low\*temp |  |  |
 | against | against |  |  |
 | jigizagi | ジギザギ |  |  |
+| pochi | POCHI |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
