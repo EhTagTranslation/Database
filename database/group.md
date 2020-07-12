@@ -1850,6 +1850,7 @@ example:
 | studio big-x | スタジオBIG-X |  |  |
 | uzumaki hiyoko | うずまき☆ひよこ |  |  |
 | shinshi kouryuuku | 紳士交流区 |  |  |
+| yugen no suda | 有限の須田 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
