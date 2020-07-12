@@ -1847,6 +1847,7 @@ example:
 | trip spider | TRIP SPIDER |  |  |
 | smile studio | すまいるすたじお |  |  |
 | nimunoya | にむの屋 |  |  |
+| studio big-x | スタジオBIG-X |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
