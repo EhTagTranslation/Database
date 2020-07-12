@@ -1846,6 +1846,7 @@ example:
 | dragon panda | DRAGON PANDA |  |  |
 | trip spider | TRIP SPIDER |  |  |
 | smile studio | すまいるすたじお |  |  |
+| nimunoya | にむの屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
