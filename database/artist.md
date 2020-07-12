@@ -2854,6 +2854,7 @@ example:
 | nimuno | にむの |  | [Twitter](https://twitter.com/nimuno_munimuni) [pixiv](https://www.pixiv.net/users/28750419) |
 | watanore | わたのれ |  | [Twitter](https://twitter.com/watanore) [pixiv](https://www.pixiv.net/users/478858) |
 | qblade | blade |  | [Twitter](https://twitter.com/QBLADE2) [pixiv](https://www.pixiv.net/users/466758) |
+| mugen no sudadokei | 無限の須田時計 |  | [Twitter](https://twitter.com/mugennosuna01) [pixiv](https://www.pixiv.net/users/27008666) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
