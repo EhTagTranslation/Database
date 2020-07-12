@@ -2847,6 +2847,7 @@ example:
 | kudo | ９℃ |  | [Twitter](https://twitter.com/kudo_9c) [pixiv](https://www.pixiv.net/users/6297639) |
 | sumii | すみい |  | [Twitter](https://twitter.com/sumii88) [pixiv](https://www.pixiv.net/users/561112) |
 | ai takurou | 安威拓郎 |  | [Twitter](https://twitter.com/AI_takurou) [pixiv](https://www.pixiv.net/users/341555) |
+| nagisora riku | 凪空りく |  | [Twitter](https://twitter.com/rak_gaki_riku) [pixiv](https://www.pixiv.net/users/8924218) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
