@@ -1844,6 +1844,7 @@ example:
 | jigizagi | ジギザギ |  |  |
 | pochi | POCHI |  |  |
 | dragon panda | DRAGON PANDA |  |  |
+| trip spider | TRIP SPIDER |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
