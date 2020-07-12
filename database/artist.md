@@ -2851,6 +2851,7 @@ example:
 | minase | 御奈瀬 |  | [Twitter](https://twitter.com/dp_minase) [pixiv](https://www.pixiv.net/users/3151) |
 | niwacho | niwacho |  | [Twitter](https://twitter.com/niwacho) [Twitter-成人向](https://twitter.com/niwachoR18) [pixiv](https://www.pixiv.net/users/189) |
 | yasaka syu | 矢坂しゅう |  | [Twitter](https://twitter.com/syu_612) [pixiv](https://www.pixiv.net/users/2798316) |
+| nimuno | にむの |  | [Twitter](https://twitter.com/nimuno_munimuni) [pixiv](https://www.pixiv.net/users/28750419) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
