@@ -1843,6 +1843,7 @@ example:
 | against | against |  |  |
 | jigizagi | ジギザギ |  |  |
 | pochi | POCHI |  |  |
+| dragon panda | DRAGON PANDA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
