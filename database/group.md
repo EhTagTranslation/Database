@@ -1859,6 +1859,7 @@ example:
 | kohipotion | KOHIPOTION |  |  |
 | allegro mistic | Allegro Mistic |  |  |
 | aho-cross | AHO-CROSS |  |  |
+| nekosu no sumika | ねこすのすみか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
