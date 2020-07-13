@@ -2869,6 +2869,7 @@ example:
 | midorinocha | みどりのちゃ |  | [Twitter](https://twitter.com/Midorinocha) [pixiv](https://www.pixiv.net/users/80830) |
 | tsurukawa yashiro | 鶴川社 |  | [Twitter](https://twitter.com/Nullgame846) [pixiv](https://www.pixiv.net/users/17041975) |
 | samizu gumi | さみずぐみ |  | [Twitter](https://twitter.com/gelatin_yeah) [pixiv](https://www.pixiv.net/users/323052) |
+| seijin | せーじん |  | [Twitter](https://twitter.com/ssm_seijin) [pixiv](https://www.pixiv.net/users/1684223) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
