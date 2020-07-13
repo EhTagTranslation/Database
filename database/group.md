@@ -1856,6 +1856,7 @@ example:
 | take out | Take Out |  |  |
 | necomicle | necömicle |  |  |
 | omlet | OMLET |  |  |
+| kohipotion | KOHIPOTION |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
