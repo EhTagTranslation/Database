@@ -2866,6 +2866,7 @@ example:
 | mikoma sanagi | 美駒沙名希 |  | [Twitter](https://twitter.com/MiKomaSanagi) [pixiv](https://www.pixiv.net/users/4365631) |
 | nanashiki fuka | 七色風香 |  | [Twitter](https://twitter.com/nanashikifuka) [pixiv](https://www.pixiv.net/users/9852678) |
 | ashita | アシタ |  | [Twitter](https://twitter.com/ast_2017) |
+| midorinocha | みどりのちゃ |  | [Twitter](https://twitter.com/Midorinocha) [pixiv](https://www.pixiv.net/users/80830) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
