@@ -1863,6 +1863,7 @@ example:
 | izumiya | いずみ屋 |  |  |
 | middly | MIDDLY |  |  |
 | 0846net | オヤシロネット |  |  |
+| fuzichaku | 不時着 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
