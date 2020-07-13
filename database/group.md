@@ -1858,6 +1858,7 @@ example:
 | omlet | OMLET |  |  |
 | kohipotion | KOHIPOTION |  |  |
 | allegro mistic | Allegro Mistic |  |  |
+| aho-cross | AHO-CROSS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
