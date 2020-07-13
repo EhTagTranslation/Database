@@ -1469,6 +1469,7 @@ example:
 | hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/一个人的OO小日子) (\*\*) |
 | atelier ryza | 莱莎的炼金工房 ～常暗女王与秘密藏身处～ |  |  |
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/恋爱小行星) (\*\*) |
+| koi wa ameagari no you ni | 恋如雨止 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
