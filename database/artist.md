@@ -2865,6 +2865,7 @@ example:
 | kamioka chirol | 神岡ちろる |  | [Twitter](https://twitter.com/kami_shun0505) [pixiv](https://www.pixiv.net/users/2973000) |
 | mikoma sanagi | 美駒沙名希 |  | [Twitter](https://twitter.com/MiKomaSanagi) [pixiv](https://www.pixiv.net/users/4365631) |
 | nanashiki fuka | 七色風香 |  | [Twitter](https://twitter.com/nanashikifuka) [pixiv](https://www.pixiv.net/users/9852678) |
+| ashita | アシタ |  | [Twitter](https://twitter.com/ast_2017) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
