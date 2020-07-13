@@ -1865,6 +1865,7 @@ example:
 | 0846net | オヤシロネット |  |  |
 | fuzichaku | 不時着 |  |  |
 | studio snow man | Studio Snow Man |  |  |
+| goldengoblins | GoldenGoblins |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
