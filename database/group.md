@@ -1866,6 +1866,7 @@ example:
 | fuzichaku | 不時着 |  |  |
 | studio snow man | Studio Snow Man |  |  |
 | goldengoblins | GoldenGoblins |  |  |
+| kitaku jikan | 帰宅時間 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
