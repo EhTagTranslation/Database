@@ -1854,6 +1854,7 @@ example:
 | daidabi | ダイダビ |  |  |
 | selvage fisheries | セルビッチ水産 |  |  |
 | take out | Take Out |  |  |
+| necomicle | necömicle |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
