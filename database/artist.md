@@ -1299,7 +1299,7 @@ example:
 | luv p | Luv P |  |  |
 | rozer | ROZER |  |  |
 | mame danuki | まめだぬき |  |  |
-| lolicept | LOLICEPT |  |  |
+| lolicept | LOLICEPT \| belko | belko，原名LOLICEPT，擅长画巨乳和乳交图 | [pixiv](https://www.pixiv.net/users/39123643) |
 | shiduki michiru | しづきみちる |  |  |
 | jet yowatari | ジェット世渡り |  |  |
 | jigeum | 지금 |  |  |
