@@ -2857,6 +2857,7 @@ example:
 | mugen no sudadokei | 無限の須田時計 |  | [Twitter](https://twitter.com/mugennosuna01) [pixiv](https://www.pixiv.net/users/27008666) |
 | omimo | おみも |  | [Twitter](https://twitter.com/daidabi) [pixiv](https://www.pixiv.net/users/158034) |
 | minami aomori | 南森 |  | [Twitter](https://twitter.com/minamiaomori) [pixiv](https://www.pixiv.net/users/319692) |
+| uo denim | 魚デニム |  | [pixiv](https://www.pixiv.net/users/1673468) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
