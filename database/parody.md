@@ -1470,6 +1470,7 @@ example:
 | atelier ryza | 莱莎的炼金工房 ～常暗女王与秘密藏身处～ |  |  |
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/恋爱小行星) (\*\*) |
 | koi wa ameagari no you ni | 恋如雨止 |  |  |
+| fire emblem three houses | 火焰之纹章 风花雪月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
