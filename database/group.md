@@ -1853,6 +1853,7 @@ example:
 | yugen no suda | 有限の須田 |  |  |
 | daidabi | ダイダビ |  |  |
 | selvage fisheries | セルビッチ水産 |  |  |
+| take out | Take Out |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
