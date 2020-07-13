@@ -1867,6 +1867,7 @@ example:
 | studio snow man | Studio Snow Man |  |  |
 | goldengoblins | GoldenGoblins |  |  |
 | kitaku jikan | 帰宅時間 |  |  |
+| tanima ginkou | 谷間銀行 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
