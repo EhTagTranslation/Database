@@ -1861,6 +1861,7 @@ example:
 | aho-cross | AHO-CROSS |  |  |
 | nekosu no sumika | ねこすのすみか |  |  |
 | izumiya | いずみ屋 |  |  |
+| middly | MIDDLY |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
