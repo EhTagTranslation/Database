@@ -1851,6 +1851,7 @@ example:
 | uzumaki hiyoko | うずまき☆ひよこ |  |  |
 | shinshi kouryuuku | 紳士交流区 |  |  |
 | yugen no suda | 有限の須田 |  |  |
+| daidabi | ダイダビ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
