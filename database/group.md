@@ -1857,6 +1857,7 @@ example:
 | necomicle | necömicle |  |  |
 | omlet | OMLET |  |  |
 | kohipotion | KOHIPOTION |  |  |
+| allegro mistic | Allegro Mistic |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
