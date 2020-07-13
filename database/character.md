@@ -549,13 +549,14 @@ example:
 | kyoko igarashi | 五十岚响子 |  |  |
 |  | 柳濑美由纪 |  |  |
 | momoka sakurai | 樱井桃华 |  |  |
+| yumeko sakurai | 樱井梦子 |  |  |
 |  | 江上椿 |  |  |
-|  | 长富莲实 |  |  |
+| hasumi nagatomi | 长富莲实 |  |  |
 | chika yokoyama | 横山千佳 |  |  |
 |  | 关裕美 |  |  |
 | miku maekawa | 前川未来 |  |  |
 |  | 赤西瑛梨华 |  |  |
-|  | 松原早耶 |  |  |
+| saya matsubara | 松原早耶 |  |  |
 | yukino aihara | 相原雪乃 |  |  |
 | frederica miyamoto | 宫本芙蕾德莉卡 |  |  |
 | sae kobayakawa | 小早川纱枝 |  |  |
@@ -574,14 +575,14 @@ example:
 | sachiko koshimizu | 舆水幸子 |  |  |
 |  | 安斋都 |  |  |
 |  | 浅野风香 |  |  |
-|  | 大西由里子 |  |  |
+| yuriko ohnishi | 大西由里子 |  |  |
 | nana abe | 安部菜菜 |  |  |
 |  | 工藤忍 |  |  |
-|  | 栗原宁宁 |  |  |
+| nene kurihara | 栗原宁宁 |  |  |
 |  | 古贺小春 |  |  |
 |  | 原田美世 |  |  |
 | akiha ikebukuro | 池袋晶叶 |  |  |
-|  | 太田优 |  |  |
+| yuu ohta | 太田优 |  |  |
 |  | 克拉莉丝 |  |  |
 | mayu sakuma | 佐久间麻由 |  |  |
 |  | 村松樱 |  |  |
@@ -589,7 +590,7 @@ example:
 | mirei hayasaka | 早坂美玲 |  |  |
 |  | 栋方爱海 |  |  |
 | rina fujimoto | 藤本里奈 |  |  |
-|  | 大原满 |  |  |
+| michiru ohara | 大原满 |  |  |
 | hotaru shiragiku | 白菊萤 |  |  |
 | kozue yusa | 游佐梢 |  |  |
 |  | 有浦柑奈 |  |  |
@@ -604,7 +605,7 @@ example:
 |  | 相川千夏 |  |  |
 | mizuki kawashima | 川岛瑞树 |  |  |
 | nao kamiya | 神谷奈绪 |  |  |
-|  | 上条春菜 |  |  |
+| haruna kamijou | 上条春菜 |  |  |
 | hina araki | 荒木比奈 |  |  |
 | ai togo | 东乡爱 |  |  |
 | riina tada | 多田李衣菜 |  |  |
@@ -638,7 +639,7 @@ example:
 |  | 岸部彩华 |  |  |
 |  | 氏家睦 |  |  |
 |  | 西川保奈美 |  |  |
-|  | 成宫由爱 |  |  |
+| yume narumiya | 成宫由爱 |  |  |
 |  | 藤居朋 |  |  |
 | syuko shiomi | 盐见周子 |  |  |
 |  | 胁山珠美 |  |  |
@@ -647,7 +648,7 @@ example:
 |  | 冈崎泰叶 |  |  |
 | kanade hayami | 速水奏 |  |  |
 | izumi ohishi | 大石泉 |  |  |
-|  | 松尾千鹤 |  |  |
+| chizuru matsuo | 松尾千鹤 |  |  |
 | arisu tachibana | 橘爱丽丝 |  |  |
 | nono morikubo | 森久保乃乃 |  |  |
 | anastasia | 安娜斯塔西娅 |  |  |
@@ -673,9 +674,9 @@ example:
 |  | 真锅斋 |  |  |
 | yui ootsuki | 大槻唯 |  |  |
 | yuki himekawa | 姬川友纪 |  |  |
-|  | 喜多见柚 |  |  |
+| yuzu kitami | 喜多见柚 |  |  |
 |  | 上田铃帆 |  |  |
-|  | 海老原菜帆 |  |  |
+| naho ebihara | 海老原菜帆 |  |  |
 | shizuku oikawa | 及川雫 |  |  |
 | reina koseki | 小关丽奈 |  |  |
 |  | 卫藤美纱希 |  |  |
@@ -829,6 +830,8 @@ example:
 | asahi serizawa | 芹泽朝阳 |  |  |
 | akira sunazuka | 砂冢明 |  |  |
 | riamu yumemi | 梦见璃亚梦 |  |  |
+| rookie trainer | 新手训练员 | 新手训练员（日语：ルーキートレーナー；英语：Rookie Trainer），本名青木庆（日语：青木慶），是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的训练员。 |  |
+| veteran trainer | 高手训练员 | 高手训练员（日语：ベテラントレーナー；英语：Veteran Trainer），本名青木圣（日语：青木聖），是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的训练员。 |  |
 |  | ▲偶像大师-THE IDOLM@STER 人物 |  |  |
 |  | ▼ 超级马里奥兄弟 角色 |  |  |
 | mario | 马里奥 |  |  |
