@@ -1860,6 +1860,7 @@ example:
 | allegro mistic | Allegro Mistic |  |  |
 | aho-cross | AHO-CROSS |  |  |
 | nekosu no sumika | ねこすのすみか |  |  |
+| izumiya | いずみ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
