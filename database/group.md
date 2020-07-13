@@ -1855,6 +1855,7 @@ example:
 | selvage fisheries | セルビッチ水産 |  |  |
 | take out | Take Out |  |  |
 | necomicle | necömicle |  |  |
+| omlet | OMLET |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
