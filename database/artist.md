@@ -2859,6 +2859,7 @@ example:
 | minami aomori | 南森 |  | [Twitter](https://twitter.com/minamiaomori) [pixiv](https://www.pixiv.net/users/319692) |
 | uo denim | 魚デニム |  | [pixiv](https://www.pixiv.net/users/1673468) |
 | mitsuba minoru | 三ッ葉稔 | ![头像](https://pbs.twimg.com/profile_images/932674376201265154/Hmp_Nsgv_200x200.jpg) | [pixiv](https://www.pixiv.net/users/1809221) [Twitter](https://twitter.com/kachoufuugetu4) |
+| zeros | 是露巣 |  | [Twitter](https://twitter.com/zerosman) [pixiv](https://www.pixiv.net/users/26838) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
