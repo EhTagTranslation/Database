@@ -2858,6 +2858,7 @@ example:
 | omimo | おみも |  | [Twitter](https://twitter.com/daidabi) [pixiv](https://www.pixiv.net/users/158034) |
 | minami aomori | 南森 |  | [Twitter](https://twitter.com/minamiaomori) [pixiv](https://www.pixiv.net/users/319692) |
 | uo denim | 魚デニム |  | [pixiv](https://www.pixiv.net/users/1673468) |
+| mitsuba minoru | 三ッ葉稔 |  | [pixiv](https://www.pixiv.net/users/1809221) [Twitter](https://twitter.com/kachoufuugetu4) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
