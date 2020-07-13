@@ -2867,6 +2867,7 @@ example:
 | nanashiki fuka | 七色風香 |  | [Twitter](https://twitter.com/nanashikifuka) [pixiv](https://www.pixiv.net/users/9852678) |
 | ashita | アシタ |  | [Twitter](https://twitter.com/ast_2017) |
 | midorinocha | みどりのちゃ |  | [Twitter](https://twitter.com/Midorinocha) [pixiv](https://www.pixiv.net/users/80830) |
+| tsurukawa yashiro | 鶴川社 |  | [Twitter](https://twitter.com/Nullgame846) [pixiv](https://www.pixiv.net/users/17041975) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
