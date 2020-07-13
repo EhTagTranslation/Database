@@ -1868,6 +1868,7 @@ example:
 | goldengoblins | GoldenGoblins |  |  |
 | kitaku jikan | 帰宅時間 |  |  |
 | tanima ginkou | 谷間銀行 |  |  |
+| nagaredamaya | 流弾屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
