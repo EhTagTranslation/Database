@@ -793,7 +793,7 @@ example:
 | takashita takashi | たかしたたかし |  |  |
 | yokoi rego | 横井レゴ |  |  |
 | amayumi | あまゆみ |  |  |
-| ameya kirica | アメヤキリカ |  |  |
+| ameya kirica | 飴屋きりか |  | [Twitter](https://twitter.com/ameya_kirica) [pixiv](https://www.pixiv.net/users/484663) |
 | arsenal | アーセナル |  |  |
 | asagi ryu | あさぎ龍 |  |  |
 | hayano rinta | 早野りんた |  |  |
