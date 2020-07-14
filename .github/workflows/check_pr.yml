@@ -15,6 +15,7 @@ jobs:
           repo: Editor
           tag: latest
           file: release.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Extract tool
         run: |
           echo ::group::unzip
