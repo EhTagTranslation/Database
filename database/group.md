@@ -1869,6 +1869,7 @@ example:
 | kitaku jikan | 帰宅時間 |  |  |
 | tanima ginkou | 谷間銀行 |  |  |
 | nagaredamaya | 流弾屋 |  |  |
+| dschinghis khan no tamanegi wa ore no yome | ジンギスカンの玉葱は俺の嫁 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
