@@ -44,7 +44,7 @@ jobs:
       - name: Set release note
         env:
           COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
-        run: node tool set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
+        run: node tool github-actions set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
 
       # publish releases
       - name: Create token
@@ -54,7 +54,7 @@ jobs:
           APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
           APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
           APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
-        run: node tool generate-token --env=APP_TOKEN
+        run: node tool github-actions generate-token --env=APP_TOKEN
       - name: Check latest
         run: |
           LATEST_SHA=$(git ls-remote origin master | cut -f1)
@@ -86,4 +86,4 @@ jobs:
         if: ${{ !env.SKIP }}
         env:
           GITHUB_TOKEN: ${{ env.APP_TOKEN }}
-        run: node tool delete-releases
+        run: node tool github-actions delete-releases
