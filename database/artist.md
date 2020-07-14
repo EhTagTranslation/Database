@@ -2453,7 +2453,7 @@ example:
 | kirisaki byakko | 霧咲白狐 |  |  |
 | bareisho | 馬鈴薯 |  |  |
 | wakadori nikomi | 若鶏にこみ |  |  |
-| shikitani asuka | 色谷あすか |  | [pixiv](https://www.pixiv.net/users/3188698) |
+| shikitani asuka | 色谷あすか |  | [Twitter](https://twitter.com/sikitani_asuka) [pixiv](https://www.pixiv.net/users/3188698) |
 | furisuku | ふりすく |  |  |
 | kosuke haruhito | 虎助遥人 |  |  |
 | tomoe yousuke | 巴八丞 |  |  |
