@@ -3012,6 +3012,7 @@ example:
 | marnie | 玛俐 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 | taokaka | 桃卡卡 |  |  |
 | medusa lily | 美杜莎(Lancer) | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org/zh-hans/美杜莎%28Fate%29) |
+| salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
