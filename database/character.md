@@ -3010,6 +3010,7 @@ example:
 | yui kusano | 草野优衣 | 《公主连结Re:Dive》登场角色，ID为优衣（日语：ユイ），本名草野优衣 | [萌娘百科](https://zh.moegirl.org/草野优衣) |
 | kanon daiba | 台场夏音 | 误射姬 |  |
 | marnie | 玛俐 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
+| taokaka | 桃卡卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
