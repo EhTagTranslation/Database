@@ -3009,6 +3009,7 @@ example:
 | tsukino mito | 月之美兔 | 月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。<br>![月之美兔](https://img.moegirl.org/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png) | [Twitter](https://twitter.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A) [萌娘百科](https://zh.moegirl.org/zh-hans/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
 | yui kusano | 草野优衣 | 《公主连结Re:Dive》登场角色，ID为优衣（日语：ユイ），本名草野优衣 | [萌娘百科](https://zh.moegirl.org/草野优衣) |
 | kanon daiba | 台场夏音 | 误射姬 |  |
+| marnie | 玛俐 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
