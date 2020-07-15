@@ -1925,7 +1925,7 @@ example:
 | leonardo da vinci | 莱昂纳多·达·芬奇 |  |  |
 | marie antoinette | 玛丽·安托瓦内特 |  |  |
 | mata hari | 玛塔·哈丽 |  |  |
-| medusa | 美杜莎 | 一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。<br><br>（对于fate系列的美杜莎角色请视作品中的职阶使用 rider 或 medusa lily 标签） | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040151000) |
+| medusa | 美杜莎 | 一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。<br><br>（对于fate系列的美杜莎角色请视作品中的职阶使用`rider`或`medusa lily`标签） | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040151000) |
 | musashi miyamoto | 宫本武藏 |  |  |
 | nobunaga oda | 织田信长 |  |  |
 | penthesilea | 彭忒西勒亚 |  |  |
