@@ -3014,6 +3014,7 @@ example:
 | medusa lily | 美杜莎(Lancer) | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org/zh-hans/美杜莎%28Fate%29) |
 | salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
 | zeta | 姬塔 |  |  |
+| beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
