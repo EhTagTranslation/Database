@@ -3011,7 +3011,7 @@ example:
 | kanon daiba | 台场夏音 | 误射姬 |  |
 | marnie | 玛俐 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 | taokaka | 桃卡卡 |  |  |
-| medusa lily | 美杜莎(Fate) |  |  |
+| medusa lily | 美杜莎(Lancer) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
