@@ -1870,7 +1870,7 @@ example:
 | tanima ginkou | 谷間銀行 |  |  |
 | nagaredamaya | 流弾屋 |  |  |
 | dschinghis khan no tamanegi wa ore no yome | ジンギスカンの玉葱は俺の嫁 |  |  |
-| usagi boss | 兔子老大 |  |  |
+| usagi boss | 兔子老大 | ウサギBOSS | [plurk](https://www.plurk.com/usagibosu) [Facebook](https://www.facebook.com/usagibosu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
