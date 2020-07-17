@@ -3048,6 +3048,7 @@ example:
 | hypno | 引梦貘人 |  |  |
 | lana | 水莲 |  |  |
 | lanas mom | 水莲的妈妈 |  |  |
+| dido | 黛朵 | 英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | 消歧义<br>[萌娘百科](https://zh.moegirl.org/黛朵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
