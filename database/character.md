@@ -3052,6 +3052,7 @@ example:
 | kiawe | 卡奇 |  |  |
 | sun | 朗日 |  |  |
 | pikachu | 皮卡丘 |  |  |
+| slowpoke | 呆呆兽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
