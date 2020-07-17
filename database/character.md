@@ -3016,6 +3016,7 @@ example:
 | hoshikawa sara | 星川莎拉 | 星川莎拉 （ ほしかわ さら ）是彩虹社所属的，从2019年10月19日在YouTube开始活动的VTuber。 | [萌娘百科](https://zh.moegirl.org/星川莎拉) |
 | amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。 | [萌娘百科](https://zh.moegirl.org/天音彼方) |
 | lulu suzuhara | 铃原露露 | 铃原露露 （ 鈴原るる / Suzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/铃原露露) |
+| himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名從2020年1月4日在YouTube開始活動的VTuber，所屬業界團體hololive的成員。 | [萌娘百科](https://zh.moegirl.org/姬森璐娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
