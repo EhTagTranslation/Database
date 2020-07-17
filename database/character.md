@@ -3033,6 +3033,7 @@ example:
 | hop | 赫普 |  |  |
 | gloria | 小优 |  |  |
 | allister | 欧尼奥 |  |  |
+| bremerton | 布莱默顿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
