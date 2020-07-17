@@ -3031,6 +3031,7 @@ example:
 | raihan | 奇巴纳 |  |  |
 | victor | 小胜 |  |  |
 | hop | 赫普 |  |  |
+| gloria | 小优 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
