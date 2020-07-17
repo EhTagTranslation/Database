@@ -2870,7 +2870,6 @@ example:
 | seijin | せーじん |  | [Twitter](https://twitter.com/ssm_seijin) [pixiv](https://www.pixiv.net/users/1684223) |
 | yukisaki miale | 雪咲MIALE |  |  |
 | shennai misha | 神奈弥莎 |  | [pixiv](https://www.pixiv.net/users/2262943) |
-| shennai misha | 神奈弥莎 |  | [pixiv](https://www.pixiv.net/users/2262943) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

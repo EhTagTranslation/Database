@@ -23,6 +23,7 @@ example:
     [萌娘百科](https://zh.moegirl.org/zh-hans/五更琉璃)
     [Fandom](https://oreimo.fandom.com/zh/wiki/五更琉璃)
 ---
+
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 |  | ▼ 重复项合并 |  |  |
@@ -3012,7 +3013,6 @@ example:
 | salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
 | zeta | 姬塔 | 碧蓝幻想玩家角色（主角）女性版。<br>男版为`gran` |  |
 | beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
-| x |  | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
