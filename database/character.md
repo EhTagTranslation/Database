@@ -31,7 +31,7 @@ example:
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 |  |
 | yui | 由依 \| 结衣 | `Angel Beats` 角色<br>![图](https://ehgt.org/53/75/5375e7612aee494400025f6f70a43177df45cd73-11067561-4912-6996-jpg_l.jpg)<br><br>`Sword Art Online`角色，男女主的义女<br>![图](https://ehgt.org/b5/3a/b53a755dc9bd2828cc6e5ce90d74a9d96f027e0c-86616-960-544-jpg_l.jpg)![图](https://ehgt.org/2a/83/2a83864ab6dd535180f1e68ace9ab5f3357b2cbb-123272-960-544-jpg_l.jpg)![图](https://ehgt.org/4f/90/4f90948cc15585be12c99f7a6ff413081dd50ea0-90922-400-600-jpg_l.jpg)![图](https://ehgt.org/73/80/7380fc10fce3efa0be2aa819e71bab44948a9cf0-1060909-818-1157-jpg_l.jpg) |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
-| rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](https://ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](https://ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](https://ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 |  |
+| rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](https://ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](https://ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](https://ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 | [FGO中文Wiki](https://fgo.wiki/w/美杜莎) [萌娘百科](https://zh.moegirl.org/zh-hans/美杜莎%28Fate%29) |
 | maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |  |
 | katsuragi | 葛城 | No.203 ![](# "https://ehgt.org/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg")<br>![](https://ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) |  |
 | kasumi | 霞 | No.090 ![](# "https://ehgt.org/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg")<br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) |  |
@@ -1746,9 +1746,9 @@ example:
 | kyousuke kamijou | 上条恭介 |  |  |
 |  | ▼ 碧蓝幻想 |  |  |
 | danua | 达奴娅 |  |  |
-| djeeta | 姬妲 | 玩家角色。在游戏中可任意切换性别。 |  |
+| djeeta | 姬妲 | 碧蓝幻想玩家角色（主角）女性版。<br>男版为`gran` |  |
 | eugen | 欧根 | 老练的战士、曾经作为骑空士活跃著。在过去怀有遗憾，这件事没有向格兰透露。平时是个性格不错的人，熟练的技术与丰富的知识帮助了格兰。 |  |
-| gran | 格兰 | 玩家角色。在游戏中可任意切换性别。 |  |
+| gran | 格兰 | 碧蓝幻想玩家角色（主角）男性版。<br>女版为`djeeta` |  |
 | io | 伊欧 | 修行中的魔导士少女。为了追寻失踪的师傅下落、而遇见了格兰。因早熟的性格而装成大人的样子，有著一旦被人嘲笑与年纪不符就会较真的一面。 |  |
 | lyria | 露莉亚 | 拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
 | katalina | 卡塔莉娜 | 守护著露莉亚的女性骑士。艾尔斯提帝国军中是中尉的阶级，负责露莉亚的护卫与监视工作，得知帝国打算利用露莉亚来得到强大的力量后，为了帮助露莉亚逃脱而背叛帝国。露莉亚就像真正的妹妹一样重要。 |  |
@@ -1925,7 +1925,7 @@ example:
 | leonardo da vinci | 莱昂纳多·达·芬奇 |  |  |
 | marie antoinette | 玛丽·安托瓦内特 |  |  |
 | mata hari | 玛塔·哈丽 |  |  |
-| medusa | 美杜莎 |  |  |
+| medusa | 美杜莎 | 一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。<br><br>（对于fate系列的美杜莎角色请视作品中的职阶使用`rider`或`medusa lily`标签） | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040151000) |
 | musashi miyamoto | 宫本武藏 |  |  |
 | nobunaga oda | 织田信长 |  |  |
 | penthesilea | 彭忒西勒亚 |  |  |
@@ -3009,6 +3009,12 @@ example:
 | tsukino mito | 月之美兔 | 月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。<br>![月之美兔](https://img.moegirl.org/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png) | [Twitter](https://twitter.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A) [萌娘百科](https://zh.moegirl.org/zh-hans/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
 | yui kusano | 草野优衣 | 《公主连结Re:Dive》登场角色，ID为优衣（日语：ユイ），本名草野优衣 | [萌娘百科](https://zh.moegirl.org/草野优衣) |
 | kanon daiba | 台场夏音 | 误射姬 |  |
+| marnie | 玛俐 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
+| taokaka | 桃卡卡 |  |  |
+| medusa lily | 美杜莎(Lancer) | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org/zh-hans/美杜莎%28Fate%29) |
+| salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
+| zeta | 姬塔 | 碧蓝幻想玩家角色（主角）女性版。<br>男版为`gran` |  |
+| beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

@@ -173,7 +173,7 @@ example:
 | shokugeki no soma | 食戟之灵 | ![图](# "https://ehgt.org/2d/72/2d7246f8bc6f92ea69e0304c7104ebe24969ed71-878558-1413-2000-jpg_l.jpg")![图](# "https://ehgt.org/83/e9/83e973922edfecfec49d51ab906ad6a5a3b96120-659046-1395-2000-jpg_l.jpg")![图](https://ehgt.org/57/2f/572fb8515005fc277f88910be0c594605016dc3e-2692365-1240-1754-png_l.jpg) |  |
 | working | 迷糊餐厅🍴 | ![图](# "https://ehgt.org/cb/19/cb19e9ef2553c967ebbe306c9219367ca5bb9c64-1717378-1080-1512-jpg_250.jpg")![图](https://ehgt.org/e2/1f/e21f6f42ea9a4941571838fcc6c1de9c23e00040-3134524-2138-2997-jpg_l.jpg)![图](# "https://ehgt.org/e3/0f/e30f910af4063d83167f78d37078632ac6ebe7d2-3751936-1386-2005-png_l.jpg") |  |
 | kono subarashii sekai ni syukufuku o | 为美好的世界献上祝福！ | ![图](https://ehgt.org/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |  |
-| ore no kanojo to osananajimi ga shuraba sugiru | 我女友与青梅竹马的惨烈修罗场 | 《我女友和青梅竹马的各种修罗场》（日语：俺の彼女と幼なじみが修羅場すぎる），简称“我修罗”（俺修羅），是日本轻小说作家裕时悠示撰写的轻小说，由LLO负责插画。SOFTBANK Creative旗下GA文库系列出版发行，至2013年1月销售量已突破70万本。 于Square Enix旗下《月刊GANGAN JOKER》杂志2011年7月号开始连载由七介作画的改编漫画，并于同公司从2011年10月25日创刊的《Big Gangan》创刊号连载由裕时悠示原作，稻濑信也作画的外传《我女友和青梅竹马的各种修罗场+H》，另于《Young Gangan》2011年10月21日开始连载まりも作画的四格漫画《我女友和青梅竹马的各种修罗场四格》。<br>![俺の彼女と幼なじみが修罗场すぎる](https://ehgt.org/52/b4/52b4fd923618bd7ec49eb3ccbae43c979e769110-1060746-1280-1024-jpg_250.jpg) | [维基百科](https://zh.wikipedia.org/wiki/我女友與青梅竹馬的慘烈修羅場) (\*) |
+| ore no kanojo to osananajimi ga shuraba sugiru | 我女友与青梅竹马的惨烈修罗场 | 《我女友和青梅竹马的各种修罗场》（日语：俺の彼女と幼なじみが修羅場すぎる），简称“我修罗”（俺修羅），是日本轻小说作家裕时悠示撰写的轻小说，由LLO负责插画。SOFTBANK Creative旗下GA文库系列出版发行，至2013年1月销售量已突破70万本。 于Square Enix旗下《月刊GANGAN JOKER》杂志2011年7月号开始连载由七介作画的改编漫画，并于同公司从2011年10月25日创刊的《Big Gangan》创刊号连载由裕时悠示原作，稻濑信也作画的外传《我女友和青梅竹马的各种修罗场+H》，另于《Young Gangan》2011年10月21日开始连载まりも作画的四格漫画《我女友和青梅竹马的各种修罗场四格》。<br>![俺の彼女と幼なじみが修罗场すぎる](https://ehgt.org/52/b4/52b4fd923618bd7ec49eb3ccbae43c979e769110-1060746-1280-1024-jpg_300.jpg) | [维基百科](https://zh.wikipedia.org/wiki/我女友與青梅竹馬的慘烈修羅場) (\*) |
 | ore no nounai sentakushi ga gakuen love comedy wo zenryoku de jama shiteiru | 我的脑内恋碍选项 | ![俺の脳内選択肢が、学園ラブコメを全力で邪魔している](https://ehgt.org/c4/d4/c4d407e2114304d3c67f61520c9ad2b4109bc511-8498221-2084-2900-jpg_l.jpg) |  |
 | overwatch | 守望先锋 | ![守望屁股](https://ehgt.org/07/96/07961652eaffd9de33eb0cdc769e1ba8842d44d4-6893424-3297-2458-jpg_250.jpg) |  |
 | halo | 光环 | ![halo](# "https://ehgt.org/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg") |  |
@@ -1297,7 +1297,7 @@ example:
 | alternative girls | 妃十三学园 Alternative Girls | 《妃十三学园 Alternative Girls》（日语：オルタナティブガールズ）是CyberAgent, Inc.开发的手机游戏，2016年7月20正式在Android与iOS平台上市。2017年1月18日正式在Android和iOS平台上发布中文版。繁体中文版由台湾真好玩娱乐科技《9Splay行动游戏》代理，简体中文版由中国bilibili代理。日文简称“オルガル”。 | [维基百科](https://zh.wikipedia.org/zh-cn/妃十三學園_Alternative_Girls) (\*) |
 | deadpool | 死侍 | 2009年5月，二十世纪福斯开发的一部从“X战警系列电影”的死侍真人电影，由莱恩·雷诺斯主演。 | [维基百科](https://zh.wikipedia.org/zh-cn/死侍) (\*) |
 | mitsuboshi colors | 三颗星彩色冒险 | 《三颗星彩色冒险》（日语：三ツ星カラーズ）是由カツヲ创作的日本漫画作品，于2014年7月26日发售的《月刊Comic电击大王》2014年9月号开始连载，目前已出版5册单行本。台湾角川已出版至第4册。 | [维基百科](https://zh.wikipedia.org/zh-cn/三顆星彩色冒險) (\*) |
-| nekopara | 巧克力与香子兰 | 《NEKOPARA》（日语：ネコぱら，又译作“巧克力与香草”、“巧克力与香子兰”）是由同人社团NEKO WORKs所开发的一款原创同人恋爱冒险型美少女游戏。角色配音为日文，游戏同时支持日文、繁体中文、英文三种语言版本游戏字幕。Steam版由Sekai Project发行，台湾地区由同人社团萌少女领域发行。未来预定在PlayStation 4和任天堂Switch发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/NEKOPARA) (\*) |
+| nekopara | 猫娘乐园 | 《NEKOPARA》（日语：ネコぱら，又译作“巧克力与香草”、“巧克力与香子兰”）是由同人社团NEKO WORKs所开发的一款原创同人恋爱冒险型美少女游戏。角色配音为日文，游戏同时支持日文、繁体中文、英文三种语言版本游戏字幕。Steam版由Sekai Project发行，台湾地区由同人社团萌少女领域发行。已在PlayStation 4和任天堂Switch发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/NEKOPARA) (\*) |
 | keijo | 竞女!!!!!!!! | 《竞女!!!!!!!!》（日语：競女!!!!!!!!）为空咏大智在小学馆《周刊少年Sunday》连载的日本水上运动漫画，于2013年34号开始连载，至2017年22·23合并号完结。单行本全18册。台湾由青文出版社出版发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/競女!!!!!!!!) (\*) |
 | the emoji movie | 表情奇幻冒险 | 《表情奇幻冒险》（英语：The Emoji Movie）是一部2017年美国3D电脑动画冒险喜剧片，由东尼·李迪斯执导。电影配音员包括T·J·米勒、安娜·法瑞丝和詹姆斯·柯登。 | [维基百科](https://zh.wikipedia.org/zh-cn/表情符號電影) (\*) |
 | animal crossing | 动物之森 | 动物森友会（日版名：どうぶつの森，英文版名：Animal Crossing，又译作“动物之森”、“动物森林”）是任天堂情报开发本部开发并由任天堂发行的社交模拟游戏系列，游戏中玩家生活在一个由拟人动物居住的村庄，展开各种活动。系列以其开放性著称，并大量使用游戏机内置时钟和日历模拟真实时间。现今共有四款作品，分别为动物之森（N64平台，2004年移植到NGC）、欢迎来到动物之森（任天堂DS平台）、动物之森：城市人（Wii平台）、来吧！动物之森（3DS）。系列全球售出超过2400万套。 | [维基百科](https://zh.wikipedia.org/zh-cn/动物之森系列) (\*) |
@@ -1471,6 +1471,7 @@ example:
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/恋爱小行星) (\*\*) |
 | koi wa ameagari no you ni | 恋如雨止 |  |  |
 | fire emblem three houses | 火焰之纹章 风花雪月 |  |  |
+| kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。 | [萌娘百科](https://zh.moegirl.org/租借女友) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
