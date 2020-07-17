@@ -3034,6 +3034,7 @@ example:
 | gloria | 小优 |  |  |
 | allister | 欧尼奥 |  |  |
 | bremerton | 布莱默顿 |  |  |
+| klara | 克拉拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
