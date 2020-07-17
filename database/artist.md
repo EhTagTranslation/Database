@@ -1600,7 +1600,6 @@ example:
 | higashide irodori | 東出イロドリ |  |  |
 | hiura r | 火浦R |  |  |
 | karube guri | 軽部ぐり |  |  |
-| kazabuki poni | 風吹ぽに |  |  |
 | kusatsu terunyo | 草津てるにょ |  |  |
 | mario | まりお |  |  |
 | puniiyu | ぷにいゆ |  |  |
@@ -2435,7 +2434,6 @@ example:
 | yatanukikey | やたぬき圭 |  |  |
 | maihara matsuge | 舞原マツゲ |  |  |
 | genzou kokuto | 幻像黒兎 |  |  |
-| kiyomiya ryo | 清宮涼 |  |  |
 | yamashita kurowo | 山下クロヲ |  |  |
 | yanagi yuu | ヤナギユウ |  |  |
 | ponite korosuke | ポニテコロ介 |  |  |
