@@ -3040,7 +3040,7 @@ example:
 | rosa | 鸣依 |  |  |
 | ars almal | 阿露丝·阿尔玛 | 阿露丝·阿尔玛（アルス·アルマル / Ars almal）是隶属于彩虹社旗下的虚拟YouTuber，正式出道于2019年7月28日。 | [萌娘百科](https://zh.moegirl.org/阿露丝·阿尔玛) |
 | elesa | 小菊儿 |  |  |
-| roon | 罗恩 | 罗恩（KMS Roon）<br>白俄罗斯游戏公司 Wargaming 旗下的俄罗斯圣彼得堡工作室制作的游戏《战舰世界》（英语：World of Warships）中的虚构舰船。<br>在上海蛮啾网络科技有限公司与厦门勇仕网络技术有限公司制作的游戏《碧蓝航线》中拟人化。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:罗恩) |
+| roon | 罗恩 | 罗恩（KMS Roon）<br>白俄罗斯游戏公司 Wargaming 旗下的俄罗斯圣彼得堡工作室制作的游戏《战舰世界》（英语：World of Warships）中的虚构舰船。<br>由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:罗恩) |
 | selene | 美月 |  |  |
 | lillie | 莉莉艾 |  |  |
 | honoka | 穗香 |  |  |
