@@ -3026,6 +3026,7 @@ example:
 | shizuka rin | 静凛 | 静凛 （ 静凛 / Shizuka Rin ）是一名从2018年2月9日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/静凛) |
 | natori sana | 名取纱那 | 名取纱那（Natori Sana）是一名YouTube上的护士系虚拟Youtuber。将观众称为医生。YouTube频道名为さなちゃんねる。不属于任何企业与团体，完全个人活动。 | [萌娘百科](https://zh.moegirl.org/名取纱那) |
 | yuzuki roa | 梦月萝娅 | 梦月萝娅（夢月ロア / Yuzuki Roa）是一名从2019年1月20日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/梦月萝娅) |
+| warabeda meiji | 童田明治 | 童田明治（Warabeda Meiji）是一名从2019年1月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/童田明治) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
