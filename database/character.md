@@ -3043,6 +3043,7 @@ example:
 | roon | 罗恩 |  |  |
 | selene | 美月 |  |  |
 | lillie | 莉莉艾 |  |  |
+| honoka | 穗香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
