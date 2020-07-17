@@ -3046,6 +3046,7 @@ example:
 | honoka | 穗香 |  |  |
 | hex maniac | 灵异迷 |  |  |
 | hypno | 引梦貘人 |  |  |
+| lana | 水莲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
