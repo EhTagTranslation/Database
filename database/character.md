@@ -3035,6 +3035,7 @@ example:
 | allister | 欧尼奥 |  |  |
 | bremerton | 布莱默顿 |  |  |
 | klara | 克拉拉 |  |  |
+| dola | 多拉 | 年龄350岁的上位龙族[火龙（Fire Drake）]，在异世界某处远离人烟的洞窟中守护着财宝，偶尔会翱翔天际打发空余时间。<br><br>在守护财宝里偶然发现了现代的产物（手机等），现在化身为人类的姿态进行着VTuber活动。 | [萌娘百科](https://zh.moegirl.org/多拉%28虚拟UP主%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
