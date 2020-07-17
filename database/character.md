@@ -3021,6 +3021,7 @@ example:
 | kakyoin chieri | 花京院樱桃 | 花京院樱桃（日语：花京院ちえり）是.LIVE所属的虚拟YouTuber。 rerorerorerorero......（大雾） | [萌娘百科](https://zh.moegirl.org/花京院樱桃) |
 | lize helesta | 莉泽·赫露艾斯塔 | 莉泽·赫露艾斯塔 （ リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/莉泽·赫露艾斯塔) |
 | saionji mary | 西园寺メアリ |  |  |
+| suou patra | 周防帕特拉 | 周防帕特拉（周防パトラ・すおう（Suou） パトラ（Patra））是活跃于YouTube上的一位日本女性虚拟YouTuber，为日本いちから公司协力制作的夜の喫茶店Honey Strap的成员之一。 | [萌娘百科](https://zh.moegirl.org/周防帕托拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
