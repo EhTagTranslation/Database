@@ -3051,6 +3051,7 @@ example:
 | dido | 黛朵 | 英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | 消歧义<br>[萌娘百科](https://zh.moegirl.org/黛朵) |
 | kiawe | 卡奇 |  |  |
 | sun | 朗日 |  |  |
+| pikachu | 皮卡丘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
