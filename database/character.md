@@ -3053,7 +3053,7 @@ example:
 | sun | 朗日 |  |  |
 | pikachu | 皮卡丘 |  |  |
 | slowpoke | 呆呆兽 |  |  |
-| baltimore | 巴尔的摩 | 巴尔的摩（USS Baltimore (CA-68)）<br>原型为美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)）。 | 消歧义<br>[碧蓝航线:巴尔的摩(萌娘百科)](https://zh.moegirl.org/碧蓝航线:巴尔的摩)<br>[战舰少女:巴尔的摩(萌娘百科)](https://zh.moegirl.org/战舰少女:巴尔的摩) |
+| baltimore | 巴尔的摩 | 巴尔的摩（USS Baltimore (CA-68)）<br>原型为美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)）。 | 消歧义<br>萌娘百科:<br>[碧蓝航线:巴尔的摩](https://zh.moegirl.org/碧蓝航线:巴尔的摩)<br>[战舰少女:巴尔的摩](https://zh.moegirl.org/战舰少女:巴尔的摩) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
