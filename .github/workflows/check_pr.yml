@@ -23,7 +23,7 @@ jobs:
           echo ::endgroup::
 
       - name: Build
-        run: node tool create-release --strict . ./publish || echo 'build failed' > ./ERROR
+        run: node tool create-release --strict . ./publish
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
