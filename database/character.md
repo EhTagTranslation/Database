@@ -3029,6 +3029,7 @@ example:
 | warabeda meiji | 童田明治 | 童田明治（Warabeda Meiji）是一名从2019年1月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/童田明治) |
 | souya ichika | 宗谷Ichika | 宗谷Ichika(宗谷いちか/Souya Ichika)是774 inc.旗下团体「有閑喫茶あにまーれ」所属的Vtuber。<br><br>于2018年6月9日在Youtube正式直播出道，2018年8月随「有閑喫茶あにまーれ」一起加入upd8。 | [萌娘百科](https://zh.moegirl.org/宗谷Ichika) |
 | raihan | 奇巴纳 |  |  |
+| victor | 小胜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
