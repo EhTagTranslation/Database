@@ -3041,6 +3041,7 @@ example:
 | ars almal | 阿露丝·阿尔玛 | 阿露丝·阿尔玛（アルス·アルマル / Ars almal）是隶属于彩虹社旗下的虚拟YouTuber，正式出道于2019年7月28日。 | [萌娘百科](https://zh.moegirl.org/阿露丝·阿尔玛) |
 | elesa | 小菊儿 |  |  |
 | roon | 罗恩 |  |  |
+| selene | 美月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
