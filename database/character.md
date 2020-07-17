@@ -3032,6 +3032,7 @@ example:
 | victor | 小胜 |  |  |
 | hop | 赫普 |  |  |
 | gloria | 小优 |  |  |
+| allister | 欧尼奥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
