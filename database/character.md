@@ -3020,6 +3020,7 @@ example:
 | honma himawari | 本间向日葵 | 本間ひまわり（ほんまひまわり，Honma Himawari）是隶属于彩虹社Gamers的虚拟YouTuber，2018年7月6日开始活动。 | [萌娘百科](https://zh.moegirl.org/本间向日葵) |
 | kakyoin chieri | 花京院樱桃 | 花京院樱桃（日语：花京院ちえり）是.LIVE所属的虚拟YouTuber。 rerorerorerorero......（大雾） | [萌娘百科](https://zh.moegirl.org/花京院樱桃) |
 | lize helesta | 莉泽·赫露艾斯塔 | 莉泽·赫露艾斯塔 （ リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/莉泽·赫露艾斯塔) |
+| saionji mary | 西园寺メアリ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
