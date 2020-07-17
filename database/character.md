@@ -3047,6 +3047,7 @@ example:
 | hex maniac | 灵异迷 |  |  |
 | hypno | 引梦貘人 |  |  |
 | lana | 水莲 |  |  |
+| lanas mom | 水莲的妈妈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
