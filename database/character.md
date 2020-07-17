@@ -3045,6 +3045,7 @@ example:
 | lillie | 莉莉艾 |  |  |
 | honoka | 穗香 |  |  |
 | hex maniac | 灵异迷 |  |  |
+| hypno | 引梦貘人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
