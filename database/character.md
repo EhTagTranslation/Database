@@ -3042,6 +3042,7 @@ example:
 | elesa | 小菊儿 |  |  |
 | roon | 罗恩 |  |  |
 | selene | 美月 |  |  |
+| lillie | 莉莉艾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
