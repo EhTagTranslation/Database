@@ -3014,6 +3014,7 @@ example:
 | zeta | 姬塔 | 碧蓝幻想玩家角色（主角）女性版。<br>男版为`gran` |  |
 | beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
 | hoshikawa sara | 星川莎拉 | 星川莎拉 （ ほしかわ さら ）是彩虹社所属的，从2019年10月19日在YouTube开始活动的VTuber。 | [萌娘百科](https://zh.moegirl.org/星川莎拉) |
+| amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。 | [萌娘百科](https://zh.moegirl.org/天音彼方) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
