@@ -402,7 +402,7 @@ example:
 | graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵![齐柏林伯爵](# "https://ehgt.org/26/a1/26a1e8801369e6d0e4bde7b3ce72853a4ffcc036-1329616-1407-2000-jpg_250.jpg") |  |
 | saratoga | 萨拉托加 | No.233 |  |
 | ro-500 | 吕500 | No.236 吕500![吕500](# "https://ehgt.org/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg") |  |
-| warspite | 厌战 | 厌战号战列舰（HMS Warspite）是英国皇家海军的一艘伊丽莎白女王级战列舰。 | 消歧义<br>[萌娘百科](https://zh.moegirl.org/厌战) |
+| warspite | 厌战 | 厌战号战列舰（HMS Warspite）<br>英国皇家海军的一艘伊丽莎白女王级战列舰。 | 消歧义<br>[萌娘百科](https://zh.moegirl.org/厌战) |
 | iowa | 衣阿华 | No.240 |  |
 | littorio | 利托里奥 | No.241 |  |
 | roma | 罗马 | No.242 |  |
