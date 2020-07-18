@@ -3066,6 +3066,7 @@ example:
 | makaino ririmu | 魔界之莉莉姆 | 魔界之莉莉姆（日语：魔界ノりりむ Makaino Ririmu）是隶属彩虹社的虚拟Youtuber，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org/魔界之莉莉姆) |
 | emma august | 艾玛★奥加斯特 | 艾玛★奥加斯特 （日文：えま★おうかずと，英文：Emma August） 是虚拟YouTuber业界团体彩虹社所属成员。 | [萌娘百科](https://zh.moegirl.org/艾玛·奥加斯特) |
 | hakase fuyuki | 叶加濑冬雪 | 葉加瀬冬雪（葉加瀬冬雪 / Hakase Fuyuki ）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/叶加濑冬雪) |
+| izumo kasumi | 出云霞 | 出云霞 （ 出雲 霞 / Izumo Kasumi ）是一名从2018年06月05日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/出云霞) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
