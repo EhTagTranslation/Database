@@ -3073,6 +3073,7 @@ example:
 | mononobe alice | 物述有栖 | 物述有栖 （ 物述有栖 / Mononobe Alice ）是一名从2018年3月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![爱丽丝-卡牌](https://img.moegirl.org/common/f/f0/201爱丽丝卡牌.png) | [萌娘百科](https://zh.moegirl.org/物述有栖) |
 | moira | 摩伊拉 |  | [萌娘百科](https://zh.moegirl.org/摩伊拉) |
 | ienaga mugi | 家长麦 | 家長むぎ（いえながむぎ，Ienaga Mugi）是隶属于彩虹社的虚拟Liver。<br>彩虹社2期生的一员，2018年3月5日开始活动。<br>![家长麦](https://img.moegirl.org/common/9/91/家長むぎ.png) | [萌娘百科](https://zh.moegirl.org/家长麦) |
+| aki suzuya | 铃谷秋 | 铃谷秋（Suzuya Aki）是隶属于彩虹社的虚拟YouTuber，粉丝群体群体称为アキネコ（秋猫？）。<br>初三生。看起来完全是女孩子的男孩。有看起来像是女孩的自觉，喜欢用小聪明来欺骗周围的人。性格有些腹黑，但是因为可爱所以做什么都会被原谅。 | [萌娘百科](https://zh.moegirl.org/铃谷秋) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
