@@ -3063,6 +3063,7 @@ example:
 | chizuru ichinose | 一之濑千鹤 |  |  |
 | kazuya kinoshita | 木之下和也 |  |  |
 | sukoya kana | 健屋花那 | 健屋花那 （健屋花那 / Sukoya Kana ）是一名从2019年9月21日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/健屋花那) |
+| makaino ririmu | 魔界之莉莉姆 | 魔界之莉莉姆（日语：魔界ノりりむ Makaino Ririmu）是隶属彩虹社的虚拟Youtuber，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org/魔界之莉莉姆) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
