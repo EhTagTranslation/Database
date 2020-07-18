@@ -3077,6 +3077,7 @@ example:
 | yashiro kizuku | 社筑 | 社筑（日语：社築）是にじさんじ旗下的虚拟主播。从2018年6月5日开始在YouTube上活动，原SEEDs一期生出身。 | [萌娘百科](https://zh.moegirl.org/社筑) |
 | uduki kou | 卯月光 |  | [萌娘百科](https://zh.moegirl.org/卯月光) |
 | todoroki kyoko | 轟京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org/轟京子) |
+| suzuki masaru | 铃木胜 | 鈴木勝（Suzuki Masaru）是彩虹社所属的Vitural YouTuber，设定为在虚拟世界出生的永远13岁的少年（中学二年级）。讨厌普通，想要以直播为契机达到帅气之极致，但是经常是瞎忙活。 | [萌娘百科](https://zh.moegirl.org/铃木胜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
