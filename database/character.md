@@ -3090,6 +3090,7 @@ example:
 | fumino tamaki | 文野环 | 文野环 （ 文野環 / Fumino Tamaki）是一名从2018年3月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>别号	野良猫 | [萌娘百科](https://zh.moegirl.org/文野环) |
 | elu | 艾露 | 从妖精之森来的曾经孤高的精灵。<br>来到人类世界，想要和人类成为朋友。穿着印有“I♥東京”的文化T。<br>真名很长。<br>スノー・ホワイト・パラダイス・エルサント・フロウ・ワスレナ・ピュア・プリンセス・リーブル・ラブ・ハイデルン・ドコドコ・ヤッタゼ・ヴァルキュリア・パッション・アールヴ・ノエル・チャコボシ・エルアリア・フロージア・メイドイン・ブルーム・エル (Snow White Paradise El Santo Flow Wasurena Pure Princess Livre Love Heidern Dokodoko Yattaze Valkyria Passion Alfr Noel Chakoboshi Eluaria Frosia Made-in Bloom Elu) | [萌娘百科](https://zh.moegirl.org/艾露) |
 | akabane youko | 赤羽叶子 | 赤羽葉子（Akaba Youko）是隶属于彩虹社Gamers的虚拟YouTuber，高中三年生。粉丝群体名为しかばね。 | [萌娘百科](https://zh.moegirl.org/赤羽叶子) |
+| aduchi momo | 安土桃 | 14岁的初中二年生。经常随身携带喜欢的螃蟹玩偶。 | [萌娘百科](https://zh.moegirl.org/安土桃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
