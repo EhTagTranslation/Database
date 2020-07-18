@@ -3080,6 +3080,7 @@ example:
 | suzuki masaru | 铃木胜 | 鈴木勝（Suzuki Masaru）是彩虹社所属的Vitural YouTuber，设定为在虚拟世界出生的永远13岁的少年（中学二年级）。讨厌普通，想要以直播为契机达到帅气之极致，但是经常是瞎忙活。 | [萌娘百科](https://zh.moegirl.org/铃木胜) |
 | ryushen | 绿仙 | 緑仙（緑仙 / Ryuu Shen）是一名从2018年6月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org/绿仙) |
 | nakao azuma | 名伽尾吾妻 |  | [萌娘百科](https://zh.moegirl.org/名伽尾吾妻) |
+| morinaka kazaki | 森中花咲 | 森中花咲（Morinaka Kazaki）是隶属彩虹社的虚拟Youtuber。彩虹社10位2期生的其中一人。自称是“かざ”，被观众称为“花咲妈妈”，“幼女Pro”。 | [萌娘百科](https://zh.moegirl.org/森中花咲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
