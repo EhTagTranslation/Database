@@ -3086,6 +3086,7 @@ example:
 | hassaku yuzu | 八朔柚子 | 有精神的15岁的初三女生。不擅长恐怖的东西，喜欢看短篇电影。<br>2019年5月7日毕业。 | [萌娘百科](https://zh.moegirl.org/八朔柚子) |
 | hanabatake chaika | 花畑嘉依卡 | 画着非常浓厚的妆的妖精。男大姐。 原名是「チャイカ・ブラウン」。 | [萌娘百科](https://zh.moegirl.org/花畑嘉依卡) |
 | gilzaren iii | 吉尔扎伦三世 | 吉尔扎伦三世 （ ギルザレンⅢ世 / Gilzaren Ⅲ ）是一名从2018年3月19日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/吉尔扎伦三世) |
+| fushimi gaku | 伏见学 | 19歳、大学2年生。性格就像一条狗，喜欢纯粹的乐趣。<br><br>在清晨有名为《おはがく》的定番节目，陪观众度过早餐时间。 | [萌娘百科](https://zh.moegirl.org/伏见学) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
