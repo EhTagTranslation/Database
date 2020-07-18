@@ -3076,6 +3076,7 @@ example:
 | aki suzuya | 铃谷秋 | 铃谷秋（Suzuya Aki）是隶属于彩虹社的虚拟YouTuber，粉丝群体群体称为アキネコ（秋猫？）。<br>初三生。看起来完全是女孩子的男孩。有看起来像是女孩的自觉，喜欢用小聪明来欺骗周围的人。性格有些腹黑，但是因为可爱所以做什么都会被原谅。 | [萌娘百科](https://zh.moegirl.org/铃谷秋) |
 | yashiro kizuku | 社筑 | 社筑（日语：社築）是にじさんじ旗下的虚拟主播。从2018年6月5日开始在YouTube上活动，原SEEDs一期生出身。 | [萌娘百科](https://zh.moegirl.org/社筑) |
 | uduki kou | 卯月光 |  | [萌娘百科](https://zh.moegirl.org/卯月光) |
+| todoroki kyoko | 轟京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org/轟京子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
