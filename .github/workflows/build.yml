@@ -42,8 +42,6 @@ jobs:
           && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
           && echo "::set-env name=MIRROR_SHA::$(git rev-parse HEAD)"
       - name: Set release note
-        env:
-          COMMIT_MESSAGE: ${{ github.event.head_commit.message }}
         run: node tool github-actions set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
 
       # publish releases
