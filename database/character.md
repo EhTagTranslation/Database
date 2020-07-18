@@ -3068,6 +3068,7 @@ example:
 | hakase fuyuki | 叶加濑冬雪 | 葉加瀬冬雪（葉加瀬冬雪 / Hakase Fuyuki ）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/叶加濑冬雪) |
 | izumo kasumi | 出云霞 | 出云霞 （ 出雲 霞 / Izumo Kasumi ）是一名从2018年06月05日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/出云霞) |
 | ushimi ichigo | 宇志海莓 | 宇志海莓（日语：うしみ いちご Ushimi Ichigo），或译宇志海草莓，是隶属彩虹社的虚拟Youtuber。<br>彩虹社2期生的一员，形象灵感来自于三次元存在的物种海兔/海蛞蝓（日文：ウミウシ，海牛）的拟人化。 | [萌娘百科](https://zh.moegirl.org/宇志海莓) |
+| yuhi riri | 夕阳莉莉 |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Yuuhi_Riri)<br>[萌娘百科](https://zh.moegirl.org/夕阳莉莉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
