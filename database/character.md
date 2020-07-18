@@ -3085,6 +3085,7 @@ example:
 | kenmochi toya | 剑持刀也 | 剑持刀也（日语：剣持刀也）是にじさんじ旗下的虚拟主播，二期生。 | [萌娘百科](https://zh.moegirl.org/剑持刀也) |
 | hassaku yuzu | 八朔柚子 | 有精神的15岁的初三女生。不擅长恐怖的东西，喜欢看短篇电影。<br>2019年5月7日毕业。 | [萌娘百科](https://zh.moegirl.org/八朔柚子) |
 | hanabatake chaika | 花畑嘉依卡 | 画着非常浓厚的妆的妖精。男大姐。 原名是「チャイカ・ブラウン」。 | [萌娘百科](https://zh.moegirl.org/花畑嘉依卡) |
+| gilzaren iii | 吉尔扎伦三世 | 吉尔扎伦三世 （ ギルザレンⅢ世 / Gilzaren Ⅲ ）是一名从2018年3月19日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/吉尔扎伦三世) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
