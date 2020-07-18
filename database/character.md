@@ -3079,6 +3079,7 @@ example:
 | todoroki kyoko | 轟京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org/轟京子) |
 | suzuki masaru | 铃木胜 | 鈴木勝（Suzuki Masaru）是彩虹社所属的Vitural YouTuber，设定为在虚拟世界出生的永远13岁的少年（中学二年级）。讨厌普通，想要以直播为契机达到帅气之极致，但是经常是瞎忙活。 | [萌娘百科](https://zh.moegirl.org/铃木胜) |
 | ryushen | 绿仙 | 緑仙（緑仙 / Ryuu Shen）是一名从2018年6月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org/绿仙) |
+| nakao azuma | 名伽尾吾妻 |  | [萌娘百科](https://zh.moegirl.org/名伽尾吾妻) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
