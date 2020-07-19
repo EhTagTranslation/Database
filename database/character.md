@@ -3093,6 +3093,7 @@ example:
 | aduchi momo | 安土桃 | 14岁的初中二年生。经常随身携带喜欢的螃蟹玩偶。 | [萌娘百科](https://zh.moegirl.org/安土桃) |
 | yamiyono moruru | 暗夜乃莫露露 | 5000岁的恶魔幼女，曾经吸人血为生。最近只和可乐和拉面一起生活。<br>すもも幼儿园成员。 おはがぉー🍜ψ\`( ･-･× )´↝<br>于2019年6月24日毕业 | [萌娘百科](https://zh.moegirl.org/暗夜乃莫露露) |
 | fuyuki hinata | 日向冬树 |  |  |
+| natsumi hinata | 日向夏美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
