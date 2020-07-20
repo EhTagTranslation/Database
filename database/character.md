@@ -1055,7 +1055,6 @@ example:
 | hikage | 日影 | ![](https://ehgt.org/0e/3c/0e3c32241d65763b66cbd5e41c665baf9095376b-79377-384-480-jpg_l.jpg) |  |
 |  | 飞彗（重复项） | ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
 | homura | 焰 | ![](https://ehgt.org/28/d5/28d5279b5c6ec952dde755d8abdb46d317ca9e96-60354-384-480-jpg_l.jpg) |  |
-| ibuki | 伊吹 | ![](https://ehgt.org/16/35/163597e5bc47a1cf177e4d199a1b3850c6852c84-49556-384-480-jpg_l.jpg) |  |
 | ikaruga | 斑鸠 | ![](https://ehgt.org/93/76/937690e17e67d583042a5ea2b5fc6b305f7192f3-40975-384-480-jpg_l.jpg) |  |
 | imu | 忌梦 | ![](https://ehgt.org/ce/ee/ceee8146a7dcc1313693208bd4cb1b08e9e9de59-39949-384-480-jpg_l.jpg) |  |
 | josui | 如水 | ![](https://ehgt.org/87/de/87deb92ec41935af054b86509c27f7cd95a48b2b-46099-384-480-jpg_l.jpg) |  |
@@ -1667,7 +1666,6 @@ example:
 | fennec | 耳廓狐 |  |  |
 | ezo red fox | 北狐 |  |  |
 | silver fox | 银狐 |  |  |
-| lion | 狮 |  |  |
 | moose | 驼鹿 |  |  |
 | shoebill | 鲸头鹳 |  |  |
 | alpaca suri | 苏利羊驼 |  |  |
@@ -1873,7 +1871,6 @@ example:
 | passionlip | 热情迷唇 |  |  |
 | ushiwakamaru | 牛若丸 |  |  |
 | jack the ripper | 开膛手杰克 |  |  |
-| jeanne darc | 圣女贞德 | ![图](https://ehgt.org/7d/51/7d513906a9c405fd0b7e297ba713bef8b94758d8-1776257-1024-1448-png_l.jpg)![图](https://ehgt.org/47/b8/47b81a03a14d04dd2ebdb9c191702913c58c16f1-2207482-1024-1448-png_l.jpg)![图](https://ehgt.org/10/39/1039d1c05d56204d701f86f880c4ebb1ccf07294-32716-280-479-jpg_l.jpg) |  |
 | jeanne alter | 贞德Alter | ![图](https://ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](https://ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) |  |
 | nitocris | 尼托克丽丝 |  |  |
 | alice kuonji | 久远寺有珠 |  |  |
@@ -2263,7 +2260,6 @@ example:
 | takumi | 拓海 |  |  |
 | charlotte | 夏洛特 |  |  |
 | ryoma | 龙马 |  |  |
-| kagero | 阳炎 |  |  |
 | orochi | 远吕智 |  |  |
 | elise | 爱丽丝 |  |  |
 | flannel | 弗拉内尔 |  |  |
