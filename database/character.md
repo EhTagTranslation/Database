@@ -252,290 +252,290 @@ example:
 | re-class | 战舰RE级 |  |  |
 | ta-class | 战舰TA级 |  |  |
 | wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  |
-| katsuragi | 葛城 | No.203 ![](# "https://ehgt.org/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg")<br>![](https://ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城)  |
-| kasumi | 霞 | No.090 ![](# "https://ehgt.org/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg")<br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞)  |
-| chitose | 千岁 | ![](https://ehgt.org/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 | [舰队Collection:千岁](https://zh.moegirl.org/舰队Collection:千岁)  |
-| nachi | 那智 | ![](https://ehgt.org/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg)<br>No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智)  |
-| teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/天羽剑提督.png/250px-天羽剑提督.png") | [战舰少女:提督](https://zh.moegirl.org/战舰少女:提督)  |
-| nagato | 长门 | No.001 长门<br>![长门](https://ehgt.org/48/46/48469968e5901d58fb8d37a85b42d6c44cec160f-64327-218-300-jpg_l.jpg) | [碧蓝航线:长门](https://zh.moegirl.org/碧蓝航线:长门) [战舰少女:长门](https://zh.moegirl.org/战舰少女:长门) [舰队Collection:长门](https://zh.moegirl.org/舰队Collection:长门)  |
-| mutsu | 陆奥 | No.002 陆奥<br>![陆奥](https://ehgt.org/17/62/17623909202ed26075ae25ce6fc7ded80dad34a8-38604-218-300-jpg_l.jpg) | [碧蓝航线:陆奥](https://zh.moegirl.org/碧蓝航线:陆奥) [战舰少女:陆奥](https://zh.moegirl.org/战舰少女:陆奥) [舰队Collection:陆奥](https://zh.moegirl.org/舰队Collection:陆奥)  |
-| ise | 伊势 | No.003 | [碧蓝航线:伊势](https://zh.moegirl.org/碧蓝航线:伊势) [战舰少女:伊势](https://zh.moegirl.org/战舰少女:伊势) [舰队Collection:伊势](https://zh.moegirl.org/舰队Collection:伊势)  |
-| hyuuga | 日向 | No.004 | [碧蓝航线:日向](https://zh.moegirl.org/碧蓝航线:日向) [战舰少女:日向](https://zh.moegirl.org/战舰少女:日向) [舰队Collection:日向](https://zh.moegirl.org/舰队Collection:日向)  |
-| yukikaze | 雪风 | No.005 雪风![雪风](# "https://ehgt.org/60/ab/60ab270009786241833ac61779fb5fec22d55aa4-797470-1860-2631-jpg_250.jpg") | [碧蓝航线:雪风](https://zh.moegirl.org/碧蓝航线:雪风) [战舰少女:雪风](https://zh.moegirl.org/战舰少女:雪风) [舰队Collection:雪风](https://zh.moegirl.org/舰队Collection:雪风)  |
-| akagi | 赤城 | No.006 赤城![赤城](# "https://ehgt.org/96/78/967886ed6788f4d09f41fb47a816d38df6bc2b84-1471927-2137-3000-jpg_250.jpg") | [碧蓝航线:赤城](https://zh.moegirl.org/碧蓝航线:赤城) [战舰少女:赤城](https://zh.moegirl.org/战舰少女:赤城) [舰队Collection:赤城](https://zh.moegirl.org/舰队Collection:赤城)  |
-| kaga | 加贺 | No.007 加贺![加贺](# "https://ehgt.org/9f/60/9f60d5e8ea1f0b11204f4992841f5b4109c9ae8a-2379070-1690-2400-jpg_250.jpg") | [碧蓝航线:加贺](https://zh.moegirl.org/碧蓝航线:加贺) [战舰少女:加贺](https://zh.moegirl.org/战舰少女:加贺) [舰队Collection:加贺](https://zh.moegirl.org/舰队Collection:加贺)  |
-| souryuu | 苍龙 | No.008 苍龙![苍龙](# "https://ehgt.org/1e/4d/1e4d2387b1817ccf472ada6f5e91bb1c6f2615d5-1138315-1411-2000-jpg_250.jpg") | [碧蓝航线:苍龙](https://zh.moegirl.org/碧蓝航线:苍龙) [战舰少女:苍龙](https://zh.moegirl.org/战舰少女:苍龙) [舰队Collection:苍龙](https://zh.moegirl.org/舰队Collection:苍龙)  |
-| hiryuu | 飞龙 | No.009 飞龙![飞龙](# "https://ehgt.org/52/a2/52a27ccf1909e92b13feaea691a7717a2db32fb9-790987-1416-2000-jpg_250.jpg") | [碧蓝航线:飞龙](https://zh.moegirl.org/碧蓝航线:飞龙) [战舰少女:飞龙](https://zh.moegirl.org/战舰少女:飞龙) [舰队Collection:飞龙](https://zh.moegirl.org/舰队Collection:飞龙)  |
-| shimakaze | 岛风 | No.010 岛风![岛风](# "https://ehgt.org/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg") | [战舰少女:岛风](https://zh.moegirl.org/战舰少女:岛风) [舰队Collection:岛风](https://zh.moegirl.org/舰队Collection:岛风)  |
-| fubuki | 吹雪 | No.011 吹雪![吹雪](# "https://ehgt.org/fe/d3/fed3c4b1bba573f357acb64b94bcb69e2465fe9c-580323-1000-1398-jpg_250.jpg") | [碧蓝航线:吹雪](https://zh.moegirl.org/碧蓝航线:吹雪) [战舰少女:吹雪](https://zh.moegirl.org/战舰少女:吹雪) [舰队Collection:吹雪](https://zh.moegirl.org/舰队Collection:吹雪)  |
-| shirayuki | 白雪 | No.012 白雪![白雪](# "https://ehgt.org/16/91/1691ed6aca37aa9a8dc8b0527f0a18e5a7cbe542-798232-2122-3000-jpg_250.jpg") | [战舰少女:白雪](https://zh.moegirl.org/战舰少女:白雪) [舰队Collection:白雪](https://zh.moegirl.org/舰队Collection:白雪)  |
-| hatsuyuki | 初雪 | No.013 | [战舰少女:初雪](https://zh.moegirl.org/战舰少女:初雪) [舰队Collection:初雪](https://zh.moegirl.org/舰队Collection:初雪)  |
-| miyuki | 深雪 | No.014 | [战舰少女:深雪](https://zh.moegirl.org/战舰少女:深雪) [舰队Collection:深雪](https://zh.moegirl.org/舰队Collection:深雪)  |
-|  | 丛云 | No.015 (重复项) | [舰队Collection:丛云](https://zh.moegirl.org/舰队Collection:丛云)  |
-| isonami | 矶波 | No.016 | [舰队Collection:矶波](https://zh.moegirl.org/舰队Collection:矶波)  |
-| ayanami | 绫波 | No.017 | [碧蓝航线:绫波](https://zh.moegirl.org/碧蓝航线:绫波) [战舰少女:绫波](https://zh.moegirl.org/战舰少女:绫波) [舰队Collection:绫波](https://zh.moegirl.org/舰队Collection:绫波)  |
-| shikinami | 敷波 | No.018 | [战舰少女:敷波](https://zh.moegirl.org/战舰少女:敷波) [舰队Collection:敷波](https://zh.moegirl.org/舰队Collection:敷波)  |
-| ooi | 大井 | No.019 大井![大井](# "https://ehgt.org/b4/b1/b4b181f876ca495f29d07ec92de0d1e430902e92-6212386-2124-3000-png_250.jpg") | [战舰少女:大井](https://zh.moegirl.org/战舰少女:大井) [舰队Collection:大井](https://zh.moegirl.org/舰队Collection:大井)  |
-| kitakami | 北上 | No.020 北上![北上](# "https://ehgt.org/63/e1/63e11d5f8f44196a51230be24e96b68745d1d737-904164-2122-3000-jpg_250.jpg") | [战舰少女:北上](https://zh.moegirl.org/战舰少女:北上) [舰队Collection:北上](https://zh.moegirl.org/舰队Collection:北上)  |
-| kongou | 金刚 | No.021 金刚![金刚](# "https://ehgt.org/e4/5c/e45caf124d139ded1ff1b1e46335ed463ea5c41d-9356857-2400-3391-jpg_250.jpg") | [碧蓝航线:金刚](https://zh.moegirl.org/碧蓝航线:金刚) [战舰少女:金刚](https://zh.moegirl.org/战舰少女:金刚) [舰队Collection:金刚](https://zh.moegirl.org/舰队Collection:金刚)  |
-| hiei | 比睿 | No.022 比睿![比睿](# "https://img.acg.moe/common/thumb/2/2f/比睿1.jpg/250px-比睿1.jpg") | [碧蓝航线:比睿](https://zh.moegirl.org/碧蓝航线:比睿) [战舰少女:比睿](https://zh.moegirl.org/战舰少女:比睿) [舰队Collection:比睿](https://zh.moegirl.org/舰队Collection:比睿)  |
-|  | 榛名 | No.023 (重复项) | [碧蓝航线:榛名](https://zh.moegirl.org/碧蓝航线:榛名) [战舰少女:榛名](https://zh.moegirl.org/战舰少女:榛名) [舰队Collection:榛名](https://zh.moegirl.org/舰队Collection:榛名)  |
-| kirishima | 雾岛 | No.024 雾岛![雾岛](# "https://img.acg.moe/common/thumb/c/c1/52019513_p0.png/250px-52019513_p0.png")P站ID:52019513 | [碧蓝航线:雾岛](https://zh.moegirl.org/碧蓝航线:雾岛) [战舰少女:雾岛](https://zh.moegirl.org/战舰少女:雾岛) [舰队Collection:雾岛](https://zh.moegirl.org/舰队Collection:雾岛)  |
-| houshou | 凤翔 | No.025 凤翔![凤翔](# "https://ehgt.org/19/a3/19a39b6cc2bbdffafa8a61b8c5b9ed20cfa6b278-736287-1406-2000-jpg_250.jpg") | [碧蓝航线:凤翔](https://zh.moegirl.org/碧蓝航线:凤翔) [战舰少女:凤翔](https://zh.moegirl.org/战舰少女:凤翔) [舰队Collection:凤翔](https://zh.moegirl.org/舰队Collection:凤翔)  |
-| fusou | 扶桑 | No.026 | [碧蓝航线:扶桑](https://zh.moegirl.org/碧蓝航线:扶桑) [战舰少女:扶桑](https://zh.moegirl.org/战舰少女:扶桑) [舰队Collection:扶桑](https://zh.moegirl.org/舰队Collection:扶桑)  |
-| yamashiro | 山城 | No.027 | [碧蓝航线:山城](https://zh.moegirl.org/碧蓝航线:山城) [战舰少女:山城](https://zh.moegirl.org/战舰少女:山城) [舰队Collection:山城](https://zh.moegirl.org/舰队Collection:山城)  |
-| tenryuu | 天龙 | No.028 天龙![天龙](# "https://ehgt.org/c0/d1/c0d115eaaee056ca238618b0257f3a4b6f230234-936113-2149-3035-jpg_250.jpg") | [战舰少女:天龙](https://zh.moegirl.org/战舰少女:天龙) [舰队Collection:天龙](https://zh.moegirl.org/舰队Collection:天龙)  |
-| tatsuta | 龙田 | No.029 龙田![龙田](# "https://ehgt.org/bd/a9/bda950e593f06a67d5a9fa446f17719653e205a0-2697988-1733-2442-jpg_250.jpg") | [战舰少女:龙田](https://zh.moegirl.org/战舰少女:龙田) [舰队Collection:龙田](https://zh.moegirl.org/舰队Collection:龙田)  |
-| ryuujou | 龙骧 | No.030 龙骧![龙骧](# "https://ehgt.org/29/43/294342c6fc8815bbdadfc11a4631bd06ec3ee54e-714819-1075-1505-jpg_250.jpg") | [碧蓝航线:龙骧](https://zh.moegirl.org/碧蓝航线:龙骧) [战舰少女:龙骧](https://zh.moegirl.org/战舰少女:龙骧) [舰队Collection:龙骧](https://zh.moegirl.org/舰队Collection:龙骧)  |
-| mutsuki | 睦月 | No.031 | [碧蓝航线:睦月](https://zh.moegirl.org/碧蓝航线:睦月) [战舰少女:睦月](https://zh.moegirl.org/战舰少女:睦月) [舰队Collection:睦月](https://zh.moegirl.org/舰队Collection:睦月)  |
-| kisaragi | 如月 | No.032 | [碧蓝航线:如月](https://zh.moegirl.org/碧蓝航线:如月) [舰队Collection:如月](https://zh.moegirl.org/舰队Collection:如月)  |
-| satsuki | 皋月 | No.033 | [舰队Collection:皋月](https://zh.moegirl.org/舰队Collection:皋月)  |
-| fumizuki | 文月 | No.034 | [碧蓝航线:文月](https://zh.moegirl.org/碧蓝航线:文月) [舰队Collection:文月](https://zh.moegirl.org/舰队Collection:文月)  |
-| nagatsuki | 长月 | No.035 | [碧蓝航线:长月](https://zh.moegirl.org/碧蓝航线:长月) [舰队Collection:长月](https://zh.moegirl.org/舰队Collection:长月)  |
-| kikuzuki | 菊月 | No.036 | [舰队Collection:菊月](https://zh.moegirl.org/舰队Collection:菊月)  |
-| mikazuki | 三日月 | No.037 | [碧蓝航线:三日月](https://zh.moegirl.org/碧蓝航线:三日月) [舰队Collection:三日月](https://zh.moegirl.org/舰队Collection:三日月)  |
-| mochizuki | 望月 | No.038 | [舰队Collection:望月](https://zh.moegirl.org/舰队Collection:望月)  |
-| kuma | 球磨 | No.039 | [舰队Collection:球磨](https://zh.moegirl.org/舰队Collection:球磨)  |
-| tama | 多摩 | No.040 | [舰队Collection:多摩](https://zh.moegirl.org/舰队Collection:多摩)  |
-| kiso | 木曾 | No.041 | [战舰少女:木曾](https://zh.moegirl.org/index.php?title=战舰少女:木曾&action=edit&redlink=1) [舰队Collection:木曾](https://zh.moegirl.org/舰队Collection:木曾)  |
-| nagara | 长良 | No.042 | [碧蓝航线:长良](https://zh.moegirl.org/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org/舰队Collection:长良)  |
-| isuzu | 五十铃 | No.043 | [碧蓝航线:五十铃](https://zh.moegirl.org/碧蓝航线:五十铃) [战舰少女:五十铃](https://zh.moegirl.org/战舰少女:五十铃) [舰队Collection:五十铃](https://zh.moegirl.org/舰队Collection:五十铃)  |
-| natori | 名取 | No.044 | [舰队Collection:名取](https://zh.moegirl.org/舰队Collection:名取)  |
-| yura | 由良 | No.045 | [舰队Collection:由良](https://zh.moegirl.org/舰队Collection:由良)  |
-| sendai | 川内 | No.046 | [碧蓝航线:川内](https://zh.moegirl.org/碧蓝航线:川内) [战舰少女:川内](https://zh.moegirl.org/战舰少女:川内) [舰队Collection:川内](https://zh.moegirl.org/舰队Collection:川内)  |
-| jintsuu | 神通 | No.047 | [碧蓝航线:神通](https://zh.moegirl.org/碧蓝航线:神通) [战舰少女:神通](https://zh.moegirl.org/战舰少女:神通) [舰队Collection:神通](https://zh.moegirl.org/舰队Collection:神通)  |
-| naka | 那珂 | No.048 | [碧蓝航线:那珂](https://zh.moegirl.org/碧蓝航线:那珂) [战舰少女:那珂](https://zh.moegirl.org/战舰少女:那珂) [舰队Collection:那珂](https://zh.moegirl.org/舰队Collection:那珂)  |
-|  | 千岁 | No.049 (重复项) | [舰队Collection:千岁](https://zh.moegirl.org/舰队Collection:千岁)  |
-| chiyoda | 千代田 | No.050 千代田![千代田](# "https://img.acg.moe/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg") | [舰队Collection:千代田](https://zh.moegirl.org/舰队Collection:千代田)  |
-| mogami | 最上 | No.051 | [碧蓝航线:最上](https://zh.moegirl.org/碧蓝航线:最上) [战舰少女:最上](https://zh.moegirl.org/战舰少女:最上) [舰队Collection:最上](https://zh.moegirl.org/舰队Collection:最上)  |
-| furutaka | 古鹰 | No.052 | [碧蓝航线:古鹰](https://zh.moegirl.org/碧蓝航线:古鹰) [战舰少女:古鹰](https://zh.moegirl.org/战舰少女:古鹰) [舰队Collection:古鹰](https://zh.moegirl.org/舰队Collection:古鹰)  |
-| kako | 加古 | No.053 | [碧蓝航线:加古](https://zh.moegirl.org/碧蓝航线:加古) [战舰少女:加古](https://zh.moegirl.org/战舰少女:加古) [舰队Collection:加古](https://zh.moegirl.org/舰队Collection:加古)  |
-| aoba | 青叶 | No.054 | [碧蓝航线:青叶](https://zh.moegirl.org/碧蓝航线:青叶) [战舰少女:青叶](https://zh.moegirl.org/战舰少女:青叶) [舰队Collection:青叶](https://zh.moegirl.org/舰队Collection:青叶)  |
-| myoukou | 妙高 | No.055 妙高![妙高](# "https://ehgt.org/bc/a9/bca9cc8efbd974a6e73a1a95f2956b48f326ee03-2898088-1410-2024-jpg_250.jpg") | [碧蓝航线:妙高](https://zh.moegirl.org/碧蓝航线:妙高) [战舰少女:妙高](https://zh.moegirl.org/战舰少女:妙高) [舰队Collection:妙高](https://zh.moegirl.org/舰队Collection:妙高)  |
-|  | 那智 | No.056 (重复项) | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智)  |
-| ashigara | 足柄 | No.057 足柄![足柄](# "https://img.acg.moe/common/thumb/6/69/52960554_p2_master1200.jpg/250px-52960554_p2_master1200.jpg") | [碧蓝航线:足柄](https://zh.moegirl.org/碧蓝航线:足柄) [舰队Collection:足柄](https://zh.moegirl.org/舰队Collection:足柄)  |
-| haguro | 羽黑 | No.058 羽黑![羽黑](# "https://ehgt.org/fa/1c/fa1ce113bcb7a45c26e1dec08dcc1d630a533072-212742-718-1024-jpg_250.jpg") | [战舰少女:羽黑](https://zh.moegirl.org/index.php?title=战舰少女:羽黑&action=edit&redlink=1) [舰队Collection:羽黑](https://zh.moegirl.org/舰队Collection:羽黑)  |
-| takao | 高雄 | No.059 高雄![高雄](# "https://ehgt.org/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg") | [碧蓝航线:高雄](https://zh.moegirl.org/碧蓝航线:高雄) [战舰少女:高雄](https://zh.moegirl.org/战舰少女:高雄) [舰队Collection:高雄](https://zh.moegirl.org/舰队Collection:高雄)  |
-| atago | 爱宕 | No.060 爱宕![爱宕](# "https://ehgt.org/21/27/21273e31c137f84ffc157a29d9f070669e7f0cf6-2570336-2439-3486-jpg_250.jpg") | [碧蓝航线:爱宕](https://zh.moegirl.org/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org/舰队Collection:爱宕)  |
-|  | 摩耶 | No.061 (重复项) 摩耶![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg") | [碧蓝航线:摩耶](https://zh.moegirl.org/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org/舰队Collection:摩耶)  |
-| choukai | 鸟海 | No.062 | [碧蓝航线:鸟海](https://zh.moegirl.org/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org/舰队Collection:鸟海)  |
-| tone | 利根 | No.063 利根![利根](# "https://ehgt.org/e5/7b/e57b1f78bccc97011576d583a37b0c6a3b309ec9-1251535-2044-2860-jpg_250.jpg") | [舰队Collection:利根](https://zh.moegirl.org/舰队Collection:利根)  |
-| chikuma | 筑摩 | No.064 筑摩![筑摩](# "https://ehgt.org/3a/76/3a76a411cb9e0fa0dc929d9bf2d09bf81ea3133a-4860768-2147-3032-jpg_250.jpg") | [舰队Collection:筑摩](https://zh.moegirl.org/舰队Collection:筑摩)  |
-| hiyou | 飞鹰 | No.065 | [碧蓝航线:飞鹰](https://zh.moegirl.org/碧蓝航线:飞鹰) [战舰少女:飞鹰](https://zh.moegirl.org/战舰少女:飞鹰) [舰队Collection:飞鹰](https://zh.moegirl.org/舰队Collection:飞鹰)  |
-| junyou | 隼鹰 | No.066 隼鹰![隼鹰](# "https://ehgt.org/88/ac/88acd3a846f6b264d165925d66189c36d95b973d-1526496-2137-3039-jpg_250.jpg") | [碧蓝航线:隼鹰](https://zh.moegirl.org/碧蓝航线:隼鹰) [战舰少女:隼鹰](https://zh.moegirl.org/战舰少女:隼鹰) [舰队Collection:隼鹰](https://zh.moegirl.org/舰队Collection:隼鹰)  |
-| oboro | 胧 | No.067 | [舰队Collection:胧](https://zh.moegirl.org/舰队Collection:胧)  |
-| akebono | 曙 | No.068 曙![曙](# "https://ehgt.org/cb/73/cb735b9a0ae422facb8b2b8e76fd72f211f1a0b5-774084-2104-3000-jpg_250.jpg") | [舰队Collection:曙](https://zh.moegirl.org/舰队Collection:曙)  |
-| sazanami | 涟 | No.069 | [舰队Collection:涟](https://zh.moegirl.org/舰队Collection:涟)  |
-| ushio | 潮 | No.070 | [舰队Collection:潮](https://zh.moegirl.org/舰队Collection:潮)  |
-| akatsuki | 晓 | No.071 晓![晓](# "https://ehgt.org/86/55/865507f173683d0b8c8b61a2f0a25d499092a507-202743-600-861-jpg_250.jpg") | [碧蓝航线:晓](https://zh.moegirl.org/碧蓝航线:晓) [战舰少女:晓](https://zh.moegirl.org/战舰少女:晓) [舰队Collection:晓](https://zh.moegirl.org/舰队Collection:晓)  |
-| hibiki | 响 | No.072 响![响](# "https://ehgt.org/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") | [碧蓝航线:响](https://zh.moegirl.org/碧蓝航线:响) [战舰少女:响](https://zh.moegirl.org/战舰少女:响) [舰队Collection:响](https://zh.moegirl.org/舰队Collection:响)  |
-| ikazuchi | 雷 | No.073 雷![雷](# "https://ehgt.org/15/dc/15dc0a548124bf81e466339bfc55edfb8ae57d21-4153439-2122-3000-jpg_250.jpg") | [碧蓝航线:雷](https://zh.moegirl.org/碧蓝航线:雷) [战舰少女:雷](https://zh.moegirl.org/战舰少女:雷) [舰队Collection:雷](https://zh.moegirl.org/舰队Collection:雷)  |
-| inazuma | 电 | No.074 电![电](# "https://ehgt.org/f5/75/f575b520fdc88fa7345c81fc81129f45fb98a765-1447588-2060-3007-jpg_250.jpg") | [碧蓝航线:电](https://zh.moegirl.org/碧蓝航线:电) [战舰少女:电](https://zh.moegirl.org/战舰少女:电) [舰队Collection:电](https://zh.moegirl.org/舰队Collection:电)  |
-| hatsuharu | 初春 | No.075 初春![初春](# "https://ehgt.org/b4/85/b485b5c9d8f9cc3be14b94bfbae4a1176846699c-3489403-2867-4031-jpg_250.jpg") | [碧蓝航线:初春](https://zh.moegirl.org/碧蓝航线:初春) [舰队Collection:初春](https://zh.moegirl.org/舰队Collection:初春)  |
-| nenohi | 子日 | No.076 子日![子日](# "https://img.acg.moe/common/thumb/2/21/42014691.jpg/250px-42014691.jpg") | [舰队Collection:子日](https://zh.moegirl.org/舰队Collection:子日)  |
-| wakaba | 若叶 | No.077 | [碧蓝航线:若叶](https://zh.moegirl.org/碧蓝航线:若叶) [舰队Collection:若叶](https://zh.moegirl.org/舰队Collection:若叶)  |
-| hatsushimo | 初霜 | No.078 | [碧蓝航线:初霜](https://zh.moegirl.org/碧蓝航线:初霜) [舰队Collection:初霜](https://zh.moegirl.org/舰队Collection:初霜)  |
-| shiratsuyu | 白露 | No.079 | [碧蓝航线:白露](https://zh.moegirl.org/碧蓝航线:白露) [战舰少女:白露](https://zh.moegirl.org/战舰少女:白露) [舰队Collection:白露](https://zh.moegirl.org/舰队Collection:白露)  |
-| shigure | 时雨 | No.080 时雨![时雨](# "https://ehgt.org/01/21/0121964de54e340114a02f3aeec3e2f24d1fdf97-8288569-2845-4044-jpg_250.jpg") | [碧蓝航线:时雨](https://zh.moegirl.org/碧蓝航线:时雨) [战舰少女:时雨](https://zh.moegirl.org/战舰少女:时雨) [舰队Collection:时雨](https://zh.moegirl.org/舰队Collection:时雨)  |
-| murasame | 村雨 | No.081 | [战舰少女:村雨](https://zh.moegirl.org/战舰少女:村雨) [舰队Collection:村雨](https://zh.moegirl.org/舰队Collection:村雨)  |
-| yuudachi | 夕立 | No.082 夕立![夕立](# "https://ehgt.org/d4/72/d4728a14993f54238ab1a7629175d8f16f92a039-2766319-1410-2024-jpg_250.jpg") | [碧蓝航线:夕立](https://zh.moegirl.org/碧蓝航线:夕立) [战舰少女:夕立](https://zh.moegirl.org/战舰少女:夕立) [舰队Collection:夕立](https://zh.moegirl.org/舰队Collection:夕立)  |
-| samidare | 五月雨 | No.083 五月雨![五月雨](# "https://ehgt.org/9e/a1/9ea1e41346107383eb4e9879a518c43b0719b8ea-1391738-1409-2000-jpg_250.jpg") | [舰队Collection:五月雨](https://zh.moegirl.org/舰队Collection:五月雨)  |
-| suzukaze | 凉风 | No.084 | [舰队Collection:凉风](https://zh.moegirl.org/舰队Collection:凉风)  |
-| asashio | 朝潮 | No.085 朝潮![朝潮](# "https://ehgt.org/7b/c4/7bc4069cd7c414d306f49dcca10e2f9863c96153-1048348-2114-3000-jpg_250.jpg") | [碧蓝航线:朝潮](https://zh.moegirl.org/碧蓝航线:朝潮) [舰队Collection:朝潮](https://zh.moegirl.org/舰队Collection:朝潮)  |
-| ooshio | 大潮 | No.086 | [碧蓝航线:大潮](https://zh.moegirl.org/碧蓝航线:大潮) [舰队Collection:大潮](https://zh.moegirl.org/舰队Collection:大潮)  |
-| michishio | 满潮 | No.087 | [碧蓝航线:满潮](https://zh.moegirl.org/碧蓝航线:满潮) [舰队Collection:满潮](https://zh.moegirl.org/舰队Collection:满潮)  |
-| arashio | 荒潮 | No.088 | [碧蓝航线:荒潮](https://zh.moegirl.org/碧蓝航线:荒潮) [舰队Collection:荒潮](https://zh.moegirl.org/舰队Collection:荒潮)  |
-| arare | 霰 | No.089 | [舰队Collection:霰](https://zh.moegirl.org/舰队Collection:霰)  |
-|  | 霞 | No.090 (重复项) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞)  |
-| kagerou | 阳炎 | No.091 | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎)  |
-| shiranui | 不知火 | No.092 不知火![不知火](# "https://ehgt.org/04/11/0411675dbe304b68d81c6d28690b854034875850-1745543-1120-1650-jpg_250.jpg") | [碧蓝航线:不知火](https://zh.moegirl.org/碧蓝航线:不知火) [战舰少女:不知火](https://zh.moegirl.org/战舰少女:不知火) [舰队Collection:不知火](https://zh.moegirl.org/舰队Collection:不知火)  |
-| kuroshio | 黑潮 | No.093 | [碧蓝航线:黑潮](https://zh.moegirl.org/碧蓝航线:黑潮) [战舰少女:黑潮](https://zh.moegirl.org/战舰少女:黑潮) [舰队Collection:黑潮](https://zh.moegirl.org/舰队Collection:黑潮)  |
-| shouhou | 祥凤 | No.094 | [碧蓝航线:祥凤](https://zh.moegirl.org/碧蓝航线:祥凤) [战舰少女:祥凤](https://zh.moegirl.org/战舰少女:祥凤) [舰队Collection:祥凤](https://zh.moegirl.org/舰队Collection:祥凤)  |
-| shoukaku | 翔鹤 | No.106 翔鹤![翔鹤](# "https://ehgt.org/36/f1/36f17b3678d674cd934b715651037c8d8074f775-1222665-2145-3039-jpg_250.jpg") | [碧蓝航线:翔鹤](https://zh.moegirl.org/碧蓝航线:翔鹤) [战舰少女:翔鹤](https://zh.moegirl.org/战舰少女:翔鹤) [舰队Collection:翔鹤](https://zh.moegirl.org/舰队Collection:翔鹤)  |
-| zuikaku | 瑞鹤 | No.107 瑞鹤![瑞鹤](# "https://ehgt.org/68/51/685116e591523858d4afc57a95be5c3284012eb7-10054880-2870-4039-jpg_250.jpg") | [碧蓝航线:瑞鹤](https://zh.moegirl.org/碧蓝航线:瑞鹤) [战舰少女:瑞鹤](https://zh.moegirl.org/战舰少女:瑞鹤) [舰队Collection:瑞鹤](https://zh.moegirl.org/舰队Collection:瑞鹤)  |
-| kinu | 鬼怒 | No.109 | [碧蓝航线:鬼怒](https://zh.moegirl.org/碧蓝航线:鬼怒) [舰队Collection:鬼怒](https://zh.moegirl.org/舰队Collection:鬼怒)  |
-| abukuma | 阿武隈 | No.110 | [碧蓝航线:阿武隈](https://zh.moegirl.org/碧蓝航线:阿武隈) [舰队Collection:阿武隈](https://zh.moegirl.org/舰队Collection:阿武隈)  |
-| yuubari | 夕张 | No.111 夕张![夕张](# "https://ehgt.org/c0/89/c089934d3835e09ccbdc4cbdaa55c01941d3046b-1204765-1708-2400-jpg_250.jpg") | [碧蓝航线:夕张](https://zh.moegirl.org/碧蓝航线:夕张) [战舰少女:夕张](https://zh.moegirl.org/战舰少女:夕张) [舰队Collection:夕张](https://zh.moegirl.org/舰队Collection:夕张)  |
-| zuihou | 瑞凤 | No.112 瑞凤![瑞凤](# "https://ehgt.org/66/7e/667ee733f79fd7d37ed4273efe543be0d46a0e10-466678-1420-2000-jpg_250.jpg") | [战舰少女:瑞凤](https://zh.moegirl.org/战舰少女:瑞凤) [舰队Collection:瑞凤](https://zh.moegirl.org/舰队Collection:瑞凤)  |
-| mikuma | 三隈 | No.116 | [碧蓝航线:三隈](https://zh.moegirl.org/碧蓝航线:三隈) [战舰少女:三隈](https://zh.moegirl.org/战舰少女:三隈) [舰队Collection:三隈](https://zh.moegirl.org/舰队Collection:三隈)  |
-| hatsukaze | 初风 | No.118 初风![初风](# "https://ehgt.org/e1/db/e1dbb9c92ab72e5060d1f76f423f93afa32d0570-1974996-2072-3040-jpg_250.jpg") | [舰队Collection:初风](https://zh.moegirl.org/舰队Collection:初风)  |
-| maikaze | 舞风 | No.119 | [舰队Collection:舞风](https://zh.moegirl.org/舰队Collection:舞风)  |
-| kinugasa | 衣笠 | No.120 | [碧蓝航线:衣笠](https://zh.moegirl.org/碧蓝航线:衣笠) [战舰少女:衣笠](https://zh.moegirl.org/战舰少女:衣笠) [舰队Collection:衣笠](https://zh.moegirl.org/舰队Collection:衣笠)  |
-| i-19 | 伊19 | No.123 伊19![伊19](# "https://ehgt.org/51/92/51920759488992ab03fdd66d863201dedd2c6b6b-1683613-1419-2000-jpg_250.jpg") | [碧蓝航线:伊19](https://zh.moegirl.org/碧蓝航线:伊19) [舰队Collection:伊19](https://zh.moegirl.org/舰队Collection:伊19)  |
-| suzuya | 铃谷 | No.124 铃谷![铃谷](# "https://ehgt.org/2e/e6/2ee646e86b9f056b6b1dd976350d7ad89231ee24-738598-1418-2000-jpg_250.jpg") | [碧蓝航线:铃谷](https://zh.moegirl.org/碧蓝航线:铃谷) [战舰少女:铃谷](https://zh.moegirl.org/战舰少女:铃谷) [舰队Collection:铃谷](https://zh.moegirl.org/舰队Collection:铃谷)  |
-| kumano | 熊野 | No.125 熊野![熊野](# "https://ehgt.org/09/c0/09c0b3b579b1946da95efe8b60a2aefee5f8b593-791108-1411-2000-jpg_250.jpg") | [战舰少女:熊野](https://zh.moegirl.org/战舰少女:熊野) [舰队Collection:熊野](https://zh.moegirl.org/舰队Collection:熊野)  |
-| i-168 | 伊168 | No.126 伊168![伊168](# "https://img.acg.moe/common/thumb/4/40/41962607_p0.png/250px-41962607_p0.png")P站ID:41962607 | [碧蓝航线:伊168](https://zh.moegirl.org/碧蓝航线:伊168) [舰队Collection:伊168](https://zh.moegirl.org/舰队Collection:伊168)  |
-| i-58 | 伊58 | No.127 伊58![伊58](# "https://ehgt.org/d9/ef/d9ef3c69a2738bb42cc2a3a6be2946b5f3af3703-535315-1055-1500-jpg_250.jpg") | [碧蓝航线:伊58](https://zh.moegirl.org/碧蓝航线:伊58) [舰队Collection:伊58](https://zh.moegirl.org/舰队Collection:伊58)  |
-| i-8 | 伊8 | No.128 伊8<br>![伊8](https://ehgt.org/b8/fb/b8fb433d9d1418855c77cd089edec90eb308a5ee-766455-1024-1446-jpg_l.jpg) | [舰队Collection:伊8](https://zh.moegirl.org/舰队Collection:伊8)  |
-| yamato | 大和 | No.131 大和![大和](# "https://ehgt.org/65/fc/65fc32dcf211f95654dfec389be9e5455bfc4d05-1200763-2138-3029-jpg_250.jpg") | [舰队Collection:大和](https://zh.moegirl.org/舰队Collection:大和)  |
-| akigumo | 秋云 | No.132 | [舰队Collection:秋云](https://zh.moegirl.org/舰队Collection:秋云)  |
-| yuugumo | 夕云 | No.133 | [舰队Collection:夕云](https://zh.moegirl.org/舰队Collection:夕云)  |
-| makigumo | 卷云 | No.134 | [舰队Collection:卷云](https://zh.moegirl.org/舰队Collection:卷云)  |
-| naganami | 长波 | No.135 | [碧蓝航线:长波](https://zh.moegirl.org/碧蓝航线:长波) [舰队Collection:长波](https://zh.moegirl.org/舰队Collection:长波)  |
-| agano | 阿贺野 | No.137 阿贺野![阿贺野](# "https://ehgt.org/d7/0c/d70cf7f81ef0e5c4632f48e60eb0ccb0710b5847-1250102-919-1300-png_250.jpg") | [碧蓝航线:阿贺野](https://zh.moegirl.org/碧蓝航线:阿贺野) [舰队Collection:阿贺野](https://zh.moegirl.org/舰队Collection:阿贺野)  |
-| noshiro | 能代 | No.138 能代![能代](# "https://ehgt.org/f8/d8/f8d84ea1411bbe9a6dac11849ce345b7004a83bb-731702-1759-2500-jpg_250.jpg") | [碧蓝航线:能代](https://zh.moegirl.org/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org/舰队Collection:能代)  |
-| yahagi | 矢矧 | No.139 矢矧![矢矧](# "https://ehgt.org/6b/a8/6ba8de26eec57498324b02af80d0549ca749e0a0-1102882-1423-2000-jpg_250.jpg") | [舰队Collection:矢矧](https://zh.moegirl.org/舰队Collection:矢矧)  |
-| sakawa | 酒匂 | No.140 | [舰队Collection:酒匂](https://zh.moegirl.org/舰队Collection:酒匂)  |
-| musashi | 武藏 | No.143 武藏![武藏](# "https://ehgt.org/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg") | [舰队Collection:武藏](https://zh.moegirl.org/舰队Collection:武藏)  |
-| taihou | 大凤 | No.153 大凤![大凤](# "https://ehgt.org/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg") | [碧蓝航线:大凤](https://zh.moegirl.org/碧蓝航线:大凤) [战舰少女:大凤](https://zh.moegirl.org/战舰少女:大凤) [舰队Collection:大凤](https://zh.moegirl.org/舰队Collection:大凤)  |
-| katori | 香取 | No.154 香取![香取](# "https://ehgt.org/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg") | [战舰少女:香取](https://zh.moegirl.org/战舰少女:香取) [舰队Collection:香取](https://zh.moegirl.org/舰队Collection:香取)  |
-| i-401 | 伊401 | No.155 伊401![伊401](# "https://ehgt.org/93/e6/93e601e4d66076f9d8e2a1e8e54686f1c9acdac5-524664-1410-2024-jpg_250.jpg") | [舰队Collection:伊401](https://zh.moegirl.org/舰队Collection:伊401)  |
-| akitsu maru | 秋津丸 | No.161 | [舰队Collection:秋津丸](https://zh.moegirl.org/舰队Collection:秋津丸)  |
-| kamoi | 神威 | No.162 | [舰队Collection:神威](https://zh.moegirl.org/舰队Collection:神威)  |
-| yayoi | 弥生 | No.164 | [舰队Collection:弥生](https://zh.moegirl.org/舰队Collection:弥生)  |
-| uzuki | 卯月 | No.165 | [碧蓝航线:卯月](https://zh.moegirl.org/碧蓝航线:卯月) [舰队Collection:卯月](https://zh.moegirl.org/舰队Collection:卯月)  |
-| isokaze | 矶风 | No.167 矶风![矶风](# "https://ehgt.org/ac/8f/ac8f3eec194a7b1437a8b2615c8041d9c7f61ca3-479418-1420-2000-jpg_250.jpg") | [碧蓝航线:矶风](https://zh.moegirl.org/碧蓝航线:矶风) [舰队Collection:矶风](https://zh.moegirl.org/舰队Collection:矶风)  |
-| urakaze | 浦风 | No.168 浦风![浦风](# "https://ehgt.org/7b/ab/7babdcf0c628c0c909c3939325bd7aff2c0133c5-3501220-2133-3000-jpg_250.jpg") | [碧蓝航线:浦风](https://zh.moegirl.org/碧蓝航线:浦风) [舰队Collection:浦风](https://zh.moegirl.org/舰队Collection:浦风)  |
-| tanikaze | 谷风 | No.169 | [碧蓝航线:谷风](https://zh.moegirl.org/碧蓝航线:谷风) [舰队Collection:谷风](https://zh.moegirl.org/舰队Collection:谷风)  |
-| hamakaze | 滨风 | No.170 滨风![滨风](# "https://ehgt.org/a7/7c/a77cee5045fcb1e20e63f0ea2551790aa8b38f44-3959169-1956-3000-jpg_250.jpg") | [碧蓝航线:滨风](https://zh.moegirl.org/碧蓝航线:滨风) [舰队Collection:滨风](https://zh.moegirl.org/舰队Collection:滨风)  |
-| bismarck | 俾斯麦 | No.171 俾斯麦![俾斯麦](# "https://ehgt.org/23/c2/23c2504685234b66d6bf51baaeef653f6f45def4-571113-1418-2000-jpg_250.jpg") | [碧蓝航线:俾斯麦](https://zh.moegirl.org/碧蓝航线:俾斯麦) [战舰少女:俾斯麦](https://zh.moegirl.org/战舰少女:俾斯麦) [舰队Collection:俾斯麦](https://zh.moegirl.org/舰队Collection:俾斯麦)  |
-| z1 | Z1 | No.174 Z1![Z1](# "https://ehgt.org/fe/ab/feab279ed4035c1d61a52e012400a65ae7f44c16-8493875-2114-3000-png_250.jpg") | [碧蓝航线:Z1](https://zh.moegirl.org/碧蓝航线:Z1) [战舰少女:Z1](https://zh.moegirl.org/战舰少女:Z1) [舰队Collection:Z1](https://zh.moegirl.org/舰队Collection:Z1)  |
-| z3 | Z3 | No.175 Z3![Z3](# "https://ehgt.org/07/3a/073a9faca9480dd9b49968ae138b3ef16c55c35d-1428836-1421-2000-jpg_250.jpg") | [战舰少女:Z3](https://zh.moegirl.org/index.php?title=战舰少女:Z3&action=edit&redlink=1) [舰队Collection:Z3](https://zh.moegirl.org/舰队Collection:Z3)  |
-| prinz eugen | 欧根亲王 | No.176 欧根亲王![欧根亲王](# "https://ehgt.org/1e/21/1e21b2f8f0452cab6db69cbfffff68224b2d8451-596813-1401-2000-jpg_250.jpg")= | [碧蓝航线:欧根亲王](https://zh.moegirl.org/碧蓝航线:欧根亲王) [战舰少女:欧根亲王](https://zh.moegirl.org/战舰少女:欧根亲王) [舰队Collection:欧根亲王](https://zh.moegirl.org/舰队Collection:欧根亲王)  |
-| amatsukaze | 天津风 | No.181 天津风![天津风](# "https://ehgt.org/37/c6/37c6538b7ec4335b963fceac0a56b47bd9e43c48-1425407-2116-3000-jpg_250.jpg") | [战舰少女:天津风](https://zh.moegirl.org/index.php?title=战舰少女:天津风&action=edit&redlink=1) [舰队Collection:天津风](https://zh.moegirl.org/舰队Collection:天津风)  |
-| akashi | 明石 | No.182 明石![明石](# "https://ehgt.org/bf/21/bf21ca8be8b575b4152685acd28af915c706d277-1539790-2149-3029-jpg_250.jpg") | [碧蓝航线:明石](https://zh.moegirl.org/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org/舰队Collection:明石)  |
-| ooyodo | 大淀 | No.183 大淀![大淀](# "https://ehgt.org/8c/ee/8ceec22cc8cd0db32c3b7ad1b74cbf9c6c0bc902-903892-1413-2000-jpg_250.jpg") | [战舰少女:大淀](https://zh.moegirl.org/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org/舰队Collection:大淀)  |
-| taigei | 大鲸 | No.184 | [舰队Collection:大鲸](https://zh.moegirl.org/舰队Collection:大鲸)  |
-| ryuuhou | 龙凤 | No.185 | [碧蓝航线:龙凤](https://zh.moegirl.org/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org/舰队Collection:龙凤)  |
-| tokitsukaze | 时津风 | No.186 时津风![时津风](# "https://ehgt.org/3f/ff/3fffaf76b7c5680ce979ace6af23732209117bdf-1711953-2866-4047-jpg_250.jpg") | [舰队Collection:时津风](https://zh.moegirl.org/舰队Collection:时津风)  |
-| unryuu | 云龙 | No.201 | [舰队Collection:云龙](https://zh.moegirl.org/舰队Collection:云龙)  |
-| amagi | 天城 | No.202 | [碧蓝航线:天城](https://zh.moegirl.org/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org/舰队Collection:天城)  |
-|  | 葛城 | No.203 (重复项) | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城)  |
-| harusame | 春雨 | No.205 春雨![春雨](# "https://ehgt.org/5a/d9/5ad94f1967e5dece44b0b78b6d13160418905082-1879239-1724-2500-jpg_250.jpg") | [舰队Collection:春雨](https://zh.moegirl.org/舰队Collection:春雨)  |
-| hayashimo | 早霜 | No.209 | [舰队Collection:早霜](https://zh.moegirl.org/舰队Collection:早霜)  |
-| kiyoshimo | 清霜 | No.210 | [舰队Collection:清霜](https://zh.moegirl.org/舰队Collection:清霜)  |
-| asagumo | 朝云 | No.213 | [舰队Collection:朝云](https://zh.moegirl.org/舰队Collection:朝云)  |
-| yamagumo | 山云 | No.214 | [舰队Collection:山云](https://zh.moegirl.org/舰队Collection:山云)  |
-| nowaki | 野分 | No.215 | [碧蓝航线:野分](https://zh.moegirl.org/碧蓝航线:野分) [舰队Collection:野分](https://zh.moegirl.org/舰队Collection:野分)  |
-| akizuki | 秋月 | No.221 | [战舰少女:秋月](https://zh.moegirl.org/战舰少女:秋月) [舰队Collection:秋月](https://zh.moegirl.org/舰队Collection:秋月)  |
-| teruzuki | 照月 | No.222 | [舰队Collection:照月](https://zh.moegirl.org/舰队Collection:照月)  |
-| hatsuzuki | 初月 | No.223 | [战舰少女:初月](https://zh.moegirl.org/index.php?title=战舰少女:初月&action=edit&redlink=1) [舰队Collection:初月](https://zh.moegirl.org/舰队Collection:初月)  |
-| takanami | 高波 | No.224 | [舰队Collection:高波](https://zh.moegirl.org/舰队Collection:高波)  |
-| asashimo | 朝霜 | No.225 | [舰队Collection:朝霜](https://zh.moegirl.org/舰队Collection:朝霜)  |
-| u-511 | U-511 | No.231 | [舰队Collection:U-511](https://zh.moegirl.org/舰队Collection:U-511)  |
-| graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵![齐柏林伯爵](# "https://ehgt.org/26/a1/26a1e8801369e6d0e4bde7b3ce72853a4ffcc036-1329616-1407-2000-jpg_250.jpg") | [碧蓝航线:齐柏林伯爵](https://zh.moegirl.org/碧蓝航线:齐柏林伯爵) [战舰少女:齐柏林伯爵](https://zh.moegirl.org/战舰少女:齐柏林伯爵) [舰队Collection:齐柏林伯爵](https://zh.moegirl.org/舰队Collection:齐柏林伯爵)  |
-| saratoga | 萨拉托加 | No.233 | [碧蓝航线:萨拉托加](https://zh.moegirl.org/碧蓝航线:萨拉托加) [战舰少女:萨拉托加](https://zh.moegirl.org/战舰少女:萨拉托加) [舰队Collection:萨拉托加](https://zh.moegirl.org/舰队Collection:萨拉托加)  |
-| ro-500 | 吕500 | No.236 吕500![吕500](# "https://ehgt.org/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg") | [舰队Collection:吕500](https://zh.moegirl.org/舰队Collection:吕500)  |
-| warspite | 厌战 | 厌战号战列舰（HMS Warspite）<br>英国皇家海军的一艘伊丽莎白女王级战列舰。 | [碧蓝航线:厌战](https://zh.moegirl.org/碧蓝航线:厌战) [战舰少女:厌战](https://zh.moegirl.org/战舰少女:厌战) [舰队Collection:厌战](https://zh.moegirl.org/舰队Collection:厌战)  |
-| iowa | 衣阿华 | No.240 | [战舰少女:衣阿华](https://zh.moegirl.org/战舰少女:衣阿华) [舰队Collection:衣阿华](https://zh.moegirl.org/舰队Collection:衣阿华)  |
-| littorio | 利托里奥 | No.241 | [碧蓝航线:利托里奥](https://zh.moegirl.org/碧蓝航线:利托里奥)  |
-| roma | 罗马 | No.242 | [战舰少女:罗马](https://zh.moegirl.org/index.php?title=战舰少女:罗马&action=edit&redlink=1) [舰队Collection:罗马](https://zh.moegirl.org/舰队Collection:罗马)  |
-| libeccio | 西南风 | No.243 Libeccio/利伯齐奥 | [舰队Collection:西南风](https://zh.moegirl.org/舰队Collection:西南风)  |
-| aquila | 天鹰 | No.244 Aquila/天鹰座/鹫座/爱奎拉 | [战舰少女:天鹰](https://zh.moegirl.org/战舰少女:天鹰) [舰队Collection:天鹰](https://zh.moegirl.org/舰队Collection:天鹰)  |
-| akitsushima | 秋津洲 | No.245 | [舰队Collection:秋津洲](https://zh.moegirl.org/舰队Collection:秋津洲)  |
-| zara | 扎拉 | No.248 | [碧蓝航线:扎拉](https://zh.moegirl.org/碧蓝航线:扎拉) [战舰少女:扎拉](https://zh.moegirl.org/index.php?title=战舰少女:扎拉&action=edit&redlink=1) [舰队Collection:扎拉](https://zh.moegirl.org/舰队Collection:扎拉)  |
-| pola | 波拉 | No.249 | [舰队Collection:波拉](https://zh.moegirl.org/舰队Collection:波拉)  |
-| mizuho | 瑞穗 | No.251 | [舰队Collection:瑞穗](https://zh.moegirl.org/舰队Collection:瑞穗)  |
-| okinami | 冲波 | No.252 | [舰队Collection:冲波](https://zh.moegirl.org/舰队Collection:冲波)  |
-| kazagumo | 风云 | No.253 | [舰队Collection:风云](https://zh.moegirl.org/舰队Collection:风云)  |
-| arashi | 岚 | No.254 | [战舰少女:岚](https://zh.moegirl.org/战舰少女:岚) [舰队Collection:岚](https://zh.moegirl.org/舰队Collection:岚)  |
-| hagikaze | 萩风 | No.255 | [舰队Collection:萩风](https://zh.moegirl.org/舰队Collection:萩风)  |
-| oyashio | 亲潮 | No.256 | [碧蓝航线:亲潮](https://zh.moegirl.org/碧蓝航线:亲潮) [舰队Collection:亲潮](https://zh.moegirl.org/舰队Collection:亲潮)  |
-| yamakaze | 山风 | No.257 | [舰队Collection:山风](https://zh.moegirl.org/舰队Collection:山风)  |
-| umikaze | 海风 | No.258 | [舰队Collection:海风](https://zh.moegirl.org/舰队Collection:海风)  |
-| kawakaze | 江风 | No.259 | [碧蓝航线:江风](https://zh.moegirl.org/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org/舰队Collection:江风)  |
-| hayasui | 速吸 | No.260 | [舰队Collection:速吸](https://zh.moegirl.org/舰队Collection:速吸)  |
-| kashima | 鹿岛 | No.265 鹿岛讲真，最近多了好多鹿岛的本子![鹿岛](# "https://ehgt.org/6d/96/6d968544e64c6a58bb2ead9656c7366a4a048dc9-2170967-1410-2024-jpg_250.jpg") | [舰队Collection:鹿岛](https://zh.moegirl.org/舰队Collection:鹿岛)  |
-| kamikaze | 神风 | No.271 | [碧蓝航线:神风](https://zh.moegirl.org/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org/舰队Collection:神风)  |
-| asakaze | 朝风 | No.272 | [舰队Collection:朝风](https://zh.moegirl.org/舰队Collection:朝风)  |
-| harukaze | 春风 | No.273 | [舰队Collection:春风](https://zh.moegirl.org/舰队Collection:春风)  |
-| matsukaze | 松风 | No.274 | [碧蓝航线:松风](https://zh.moegirl.org/碧蓝航线:松风) [舰队Collection:松风](https://zh.moegirl.org/舰队Collection:松风)  |
-| hatakaze | 旗风 | No.275 | [碧蓝航线:旗风](https://zh.moegirl.org/碧蓝航线:旗风) [舰队Collection:旗风](https://zh.moegirl.org/舰队Collection:旗风)  |
-| amagiri | 天雾 | No.279 | [舰队Collection:天雾](https://zh.moegirl.org/舰队Collection:天雾)  |
-| sagiri | 狭雾 | No.280 | [舰队Collection:狭雾](https://zh.moegirl.org/舰队Collection:狭雾)  |
-| minazuki | 水无月 | No.281 | [碧蓝航线:水无月](https://zh.moegirl.org/碧蓝航线:水无月) [舰队Collection:水无月](https://zh.moegirl.org/舰队Collection:水无月)  |
-| i-26 | 伊26 | No.283 | [碧蓝航线:伊26](https://zh.moegirl.org/碧蓝航线:伊26) [舰队Collection:伊26](https://zh.moegirl.org/舰队Collection:伊26)  |
-| hamanami | 滨波 | No.284 | [舰队Collection:滨波](https://zh.moegirl.org/舰队Collection:滨波)  |
-| fujinami | 藤波 | No.285 | [舰队Collection:藤波](https://zh.moegirl.org/舰队Collection:藤波)  |
-| uranami | 浦波 | No.286 | [碧蓝航线:浦波](https://zh.moegirl.org/碧蓝航线:浦波) [舰队Collection:浦波](https://zh.moegirl.org/舰队Collection:浦波)  |
-| commandant teste | 特斯特长官 | No.291 | [舰队Collection:特斯特长官](https://zh.moegirl.org/舰队Collection:特斯特长官)  |
-| richelieu | 黎塞留 | No.292 | [碧蓝航线:黎塞留](https://zh.moegirl.org/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org/舰队Collection:黎塞留)  |
-| i-400 | 伊400 | No.293 | [舰队Collection:伊400](https://zh.moegirl.org/舰队Collection:伊400)  |
-| i-13 | 伊13 | No.294 | [碧蓝航线:伊13](https://zh.moegirl.org/碧蓝航线:伊13) [舰队Collection:伊13](https://zh.moegirl.org/舰队Collection:伊13)  |
-| i-14 | 伊14 | No.295 | [舰队Collection:伊14](https://zh.moegirl.org/舰队Collection:伊14)  |
-| gangut | 甘古特 | No.311 Гангут | [碧蓝航线:甘古特](https://zh.moegirl.org/碧蓝航线:甘古特)  |
-| tashkent | 塔什干 | No.313 Ташкент | [碧蓝航线:塔什干](https://zh.moegirl.org/碧蓝航线:塔什干) [战舰少女:塔什干](https://zh.moegirl.org/战舰少女:塔什干) [舰队Collection:塔什干](https://zh.moegirl.org/舰队Collection:塔什干)  |
-| ark royal | 皇家方舟 | No.315 | [碧蓝航线:皇家方舟](https://zh.moegirl.org/碧蓝航线:皇家方舟) [战舰少女:皇家方舟](https://zh.moegirl.org/战舰少女:皇家方舟) [舰队Collection:皇家方舟](https://zh.moegirl.org/舰队Collection:皇家方舟)  |
-| shimusyu | 占守 | No.317 | [舰队Collection:占守](https://zh.moegirl.org/舰队Collection:占守)  |
-| kunashiri | 国后 | No.318 | [舰队Collection:国后](https://zh.moegirl.org/舰队Collection:国后)  |
-| jervis | 杰维斯 | No.319 | [舰队Collection:杰维斯](https://zh.moegirl.org/舰队Collection:杰维斯)  |
-| suzutsuki | 凉月 | No.332 | [战舰少女:凉月](https://zh.moegirl.org/战舰少女:凉月) [舰队Collection:凉月](https://zh.moegirl.org/舰队Collection:凉月)  |
-| etorofu | 择捉 | No.334 | [舰队Collection:择捉](https://zh.moegirl.org/舰队Collection:择捉)  |
-| matsuwa | 松轮 | No.335 | [舰队Collection:松轮](https://zh.moegirl.org/舰队Collection:松轮)  |
-| sado | 佐渡 | No.339<br>![](https://ehgt.org/20/ed/20edcbf02fa3dd8f7c3251ea7112a427146e93e2-94385-327-450-png_l.jpg) | [舰队Collection:佐渡](https://zh.moegirl.org/舰队Collection:佐渡)  |
-| tsushima | 对马 | No.340 | [舰队Collection:对马](https://zh.moegirl.org/舰队Collection:对马)  |
-| gambier bay | 甘比尔湾 | No.344 | [舰队Collection:甘比尔湾](https://zh.moegirl.org/舰队Collection:甘比尔湾)  |
-| intrepid | 无畏 | No.349 | [碧蓝航线:无畏](https://zh.moegirl.org/碧蓝航线:无畏) [舰队Collection:无畏](https://zh.moegirl.org/舰队Collection:无畏)  |
-| johnston | 约翰斯顿 | No.362 | [战舰少女:约翰斯顿](https://zh.moegirl.org/战舰少女:约翰斯顿) [舰队Collection:约翰斯顿](https://zh.moegirl.org/舰队Collection:约翰斯顿)  |
-| maestrale | 西北风 | No.375 | [舰队Collection:西北风](https://zh.moegirl.org/舰队Collection:西北风)  |
-| fletcher | 弗莱彻 | No.396 | [碧蓝航线:弗莱彻](https://zh.moegirl.org/碧蓝航线:弗莱彻) [战舰少女:弗莱彻](https://zh.moegirl.org/战舰少女:弗莱彻) [舰队Collection:弗莱彻](https://zh.moegirl.org/舰队Collection:弗莱彻)  |
-| unicorn | 独角兽 |  | [碧蓝航线:独角兽](https://zh.moegirl.org/碧蓝航线:独角兽) [战舰少女:独角兽](https://zh.moegirl.org/战舰少女:独角兽)  |
-| belfast | 贝尔法斯特 |  | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org/战舰少女:贝尔法斯特)  |
-| illustrious | 光辉 |  | [碧蓝航线:光辉](https://zh.moegirl.org/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org/战舰少女:光辉)  |
-| terror | 恐怖 |  | [碧蓝航线:恐怖](https://zh.moegirl.org/碧蓝航线:恐怖)  |
-| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼)  |
-| laffey | 拉菲 |  | [碧蓝航线:拉菲](https://zh.moegirl.org/碧蓝航线:拉菲)  |
-| eldridge | 埃尔德里奇 |  | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org/碧蓝航线:埃尔德里奇)  |
-| prince of wales | 威尔士亲王 |  | [碧蓝航线:威尔士亲王](https://zh.moegirl.org/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org/战舰少女:威尔士亲王)  |
-| sheffield | 谢菲尔德 |  | [碧蓝航线:谢菲尔德](https://zh.moegirl.org/碧蓝航线:谢菲尔德) [战舰少女:谢菲尔德](https://zh.moegirl.org/战舰少女:谢菲尔德)  |
-| ping hai | 平海 | 手机游戏《`azur lane`》及其衍生作品的登场角色。其原型本体是中华民国海军的平海号轻巡洋舰。 | [碧蓝航线:平海](https://zh.moegirl.org/碧蓝航线:平海) [战舰少女:平海](https://zh.moegirl.org/战舰少女:平海)  |
-| ning hai | 宁海 | 手机游戏《`azur lane`》及其衍生作品的登场角色。其原型本体是中华民国海军的宁海号轻巡洋舰。 | [碧蓝航线:宁海](https://zh.moegirl.org/碧蓝航线:宁海) [战舰少女:宁海](https://zh.moegirl.org/战舰少女:宁海)  |
-| formidable | 可畏 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。 | [碧蓝航线:可畏](https://zh.moegirl.org/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org/战舰少女:可畏)  |
-| admiral hipper | 希佩尔海军上将 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）。 | [碧蓝航线:希佩尔海军上将](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将) [战舰少女:希佩尔海军上将](https://zh.moegirl.org/战舰少女:希佩尔海军上将)  |
-| portland | 波特兰 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。 | [碧蓝航线:波特兰](https://zh.moegirl.org/碧蓝航线:波特兰) [战舰少女:波特兰](https://zh.moegirl.org/战舰少女:波特兰)  |
-| cygnet | 小天鹅 |  | [碧蓝航线:小天鹅](https://zh.moegirl.org/碧蓝航线:小天鹅)  |
-| kent | 肯特 |  | [碧蓝航线:肯特](https://zh.moegirl.org/碧蓝航线:肯特) [战舰少女:肯特](https://zh.moegirl.org/战舰少女:肯特)  |
-| hammann | 哈曼 |  | [碧蓝航线:哈曼](https://zh.moegirl.org/碧蓝航线:哈曼) [战舰少女:哈曼](https://zh.moegirl.org/index.php?title=战舰少女:哈曼&action=edit&redlink=1)  |
-| mikasa | 三笠 |  | [碧蓝航线:三笠](https://zh.moegirl.org/碧蓝航线:三笠)  |
-| st. louis | 圣路易斯 |  | [碧蓝航线:圣路易斯](https://zh.moegirl.org/碧蓝航线:圣路易斯) [战舰少女:圣路易斯](https://zh.moegirl.org/战舰少女:圣路易斯)  |
-| san diego | 圣地亚哥 |  | [碧蓝航线:圣地亚哥](https://zh.moegirl.org/碧蓝航线:圣地亚哥) [战舰少女:圣地亚哥](https://zh.moegirl.org/战舰少女:圣地亚哥)  |
-| long island | 长岛 |  | [碧蓝航线:长岛](https://zh.moegirl.org/碧蓝航线:长岛)  |
-| javelin | 标枪 |  | [碧蓝航线:标枪](https://zh.moegirl.org/碧蓝航线:标枪) [战舰少女:标枪](https://zh.moegirl.org/战舰少女:标枪)  |
-| nelson | 纳尔逊 |  | [碧蓝航线:纳尔逊](https://zh.moegirl.org/碧蓝航线:纳尔逊) [战舰少女:纳尔逊](https://zh.moegirl.org/战舰少女:纳尔逊) [舰队Collection:纳尔逊](https://zh.moegirl.org/舰队Collection:纳尔逊)  |
-| rodney | 罗德尼 |  | [碧蓝航线:罗德尼](https://zh.moegirl.org/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org/战舰少女:罗德尼)  |
-| enterprise | 企业 |  | [碧蓝航线:企业](https://zh.moegirl.org/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org/战舰少女:企业)  |
-| queen elizabeth | 伊丽莎白女王 |  | [碧蓝航线:伊丽莎白女王](https://zh.moegirl.org/碧蓝航线:伊丽莎白女王) [战舰少女:伊丽莎白女王](https://zh.moegirl.org/战舰少女:伊丽莎白女王)  |
-| victorious | 胜利 |  | [碧蓝航线:胜利](https://zh.moegirl.org/碧蓝航线:胜利)  |
-| ajax | 阿贾克斯 |  | [碧蓝航线:阿贾克斯](https://zh.moegirl.org/碧蓝航线:阿贾克斯) [战舰少女:阿贾克斯](https://zh.moegirl.org/战舰少女:阿贾克斯)  |
-| cleveland | 克利夫兰 |  | [碧蓝航线:克利夫兰](https://zh.moegirl.org/碧蓝航线:克利夫兰) [战舰少女:克利夫兰](https://zh.moegirl.org/index.php?title=战舰少女:克利夫兰&action=edit&redlink=1)  |
-| honolulu | 火奴鲁鲁 |  | [碧蓝航线:火奴鲁鲁](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁)  |
-| z46 | Z46 |  | [碧蓝航线:Z46](https://zh.moegirl.org/碧蓝航线:Z46) [战舰少女:Z46](https://zh.moegirl.org/战舰少女:Z46)  |
-| z23 | Z23 |  | [碧蓝航线:Z23](https://zh.moegirl.org/碧蓝航线:Z23)  |
-| tirpitz | 提尔比茨 |  | [碧蓝航线:提尔比茨](https://zh.moegirl.org/碧蓝航线:提尔比茨) [战舰少女:提尔比茨](https://zh.moegirl.org/战舰少女:提尔比茨)  |
-| duke of york | 约克公爵 |  | [碧蓝航线:约克公爵](https://zh.moegirl.org/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org/战舰少女:约克公爵)  |
-| bache | 贝奇 |  | [碧蓝航线:贝奇](https://zh.moegirl.org/碧蓝航线:贝奇)  |
-| sirius | 天狼星 |  | [碧蓝航线:天狼星](https://zh.moegirl.org/碧蓝航线:天狼星) [战舰少女:天狼星](https://zh.moegirl.org/战舰少女:天狼星)  |
-| sims | 西姆斯 |  | [碧蓝航线:西姆斯](https://zh.moegirl.org/碧蓝航线:西姆斯)  |
-| colorado | 科罗拉多 |  | [碧蓝航线:科罗拉多](https://zh.moegirl.org/碧蓝航线:科罗拉多) [战舰少女:科罗拉多](https://zh.moegirl.org/战舰少女:科罗拉多) [舰队Collection:科罗拉多](https://zh.moegirl.org/舰队Collection:科罗拉多)  |
-| kuubo seiki | 空母栖姬 |  | [舰队Collection:空母栖姬](https://zh.moegirl.org/舰队Collection:空母栖姬)  |
-| kuubo suiki | 空母水鬼 |  | [舰队Collection:空母水鬼](https://zh.moegirl.org/舰队Collection:空母水鬼)  |
-| soukou kuuboki | 装甲空母姬 |  | [舰队Collection:装甲空母姬](https://zh.moegirl.org/舰队Collection:装甲空母姬)  |
-| senkan seiki | 战舰栖姬 |  | [舰队Collection:战舰栖姬](https://zh.moegirl.org/舰队Collection:战舰栖姬)  |
-| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](# "https://ehgt.org/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") | [舰队Collection:北方栖姬](https://zh.moegirl.org/舰队Collection:北方栖姬)  |
-| nanpou seiki | 南方栖鬼 |  | [舰队Collection:南方栖鬼](https://zh.moegirl.org/舰队Collection:南方栖鬼)  |
-| shuusekichi seiki | 集积地栖姬 |  | [舰队Collection:集积地栖姬](https://zh.moegirl.org/舰队Collection:集积地栖姬)  |
-| ritou seiki | 离岛栖姬 |  | [舰队Collection:离岛栖姬](https://zh.moegirl.org/舰队Collection:离岛栖姬)  |
-| kouwan seiki | 港湾栖姬 |  | [舰队Collection:港湾栖姬](https://zh.moegirl.org/舰队Collection:港湾栖姬)  |
-| chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org/舰队Collection:中间栖姬)  |
-| hikoujouki | 飞行场姬 |  | [舰队Collection:飞行场姬](https://zh.moegirl.org/舰队Collection:飞行场姬)  |
-|  | 千岁 | 重复项 | [舰队Collection:千岁](https://zh.moegirl.org/舰队Collection:千岁)  |
-| ibuki | 伊吹 | ![](https://ehgt.org/16/35/163597e5bc47a1cf177e4d199a1b3850c6852c84-49556-384-480-jpg_l.jpg) | [碧蓝航线:伊吹](https://zh.moegirl.org/碧蓝航线:伊吹)  |
-|  | 霞 | (重复项) ![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞)  |
-|  | 葛城 | (重复项) ![](https://ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城)  |
-|  | 那智 | 重复项 | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智)  |
-| lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org/战舰少女:狮)  |
-| jeanne darc | 圣女贞德 | ![图](https://ehgt.org/7d/51/7d513906a9c405fd0b7e297ba713bef8b94758d8-1776257-1024-1448-png_l.jpg)![图](https://ehgt.org/47/b8/47b81a03a14d04dd2ebdb9c191702913c58c16f1-2207482-1024-1448-png_l.jpg)![图](https://ehgt.org/10/39/1039d1c05d56204d701f86f880c4ebb1ccf07294-32716-280-479-jpg_l.jpg) | [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德)  |
-| kagero | 阳炎 |  | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎)  |
-| el condor pasa | 神鹰 |  | [战舰少女:神鹰](https://zh.moegirl.org/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org/舰队Collection:神鹰)  |
-| perth | 珀斯 |  | [舰队Collection:珀斯](https://zh.moegirl.org/舰队Collection:珀斯)  |
-| renown | 声望 |  | [碧蓝航线:声望](https://zh.moegirl.org/碧蓝航线:声望) [战舰少女:声望](https://zh.moegirl.org/战舰少女:声望)  |
-| chang chun | 长春 |  | [碧蓝航线:长春](https://zh.moegirl.org/碧蓝航线:长春)  |
-| gotland | 哥特兰 |  | [战舰少女:哥特兰](https://zh.moegirl.org/战舰少女:哥特兰) [舰队Collection:哥特兰](https://zh.moegirl.org/舰队Collection:哥特兰)  |
-| grecale | 东北风 |  | [舰队Collection:东北风](https://zh.moegirl.org/舰队Collection:东北风)  |
-| bremerton | 布莱默顿 |  | [碧蓝航线:布莱默顿](https://zh.moegirl.org/碧蓝航线:布莱默顿)  |
-| roon | 罗恩 | 罗恩（KMS Roon）<br>白俄罗斯游戏公司 Wargaming 旗下的俄罗斯圣彼得堡工作室制作的游戏《战舰世界》（英语：World of Warships）中的虚构舰船。<br>由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色。 | [碧蓝航线:罗恩](https://zh.moegirl.org/碧蓝航线:罗恩)  |
-| dido | 黛朵 | 英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | [碧蓝航线:黛朵](https://zh.moegirl.org/碧蓝航线:黛朵) [战舰少女:黛朵](https://zh.moegirl.org/index.php?title=战舰少女:黛朵&action=edit&redlink=1)  |
-| baltimore | 巴尔的摩 | 巴尔的摩（USS Baltimore (CA-68)）<br>美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)）。 | [碧蓝航线:巴尔的摩](https://zh.moegirl.org/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org/战舰少女:巴尔的摩)  |
+| katsuragi | 葛城 | No.203 ![](# "https://ehgt.org/a3/cb/a3cb3cc6a98cf0e8bec3c95553e8d2c30f8a9061-7556459-2135-3011-png_250.jpg")<br>![](https://ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
+| kasumi | 霞 | No.090 ![](# "https://ehgt.org/57/b0/57b0e02318cddd1a1aa70bff345d1099a7ed4a65-5060666-2130-3025-png_250.jpg")<br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
+| chitose | 千岁 | ![](https://ehgt.org/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 | [舰队Collection:千岁](https://zh.moegirl.org/舰队Collection:千岁) |
+| nachi | 那智 | ![](https://ehgt.org/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg)<br>No.056 那智![那智](# "https://img.acg.moe/common/thumb/6/64/41031613_p0.jpg/250px-41031613_p0.jpg")P站ID:41031613 | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
+| teitoku | 提督 | 借用一下天羽剑的形象![天羽剑提督](# "https://img.acg.moe/common/thumb/e/ef/天羽剑提督.png/250px-天羽剑提督.png") | [战舰少女:提督](https://zh.moegirl.org/战舰少女:提督) |
+| nagato | 长门 | No.001 长门<br>![长门](https://ehgt.org/48/46/48469968e5901d58fb8d37a85b42d6c44cec160f-64327-218-300-jpg_l.jpg) | [碧蓝航线:长门](https://zh.moegirl.org/碧蓝航线:长门) [战舰少女:长门](https://zh.moegirl.org/战舰少女:长门) [舰队Collection:长门](https://zh.moegirl.org/舰队Collection:长门) |
+| mutsu | 陆奥 | No.002 陆奥<br>![陆奥](https://ehgt.org/17/62/17623909202ed26075ae25ce6fc7ded80dad34a8-38604-218-300-jpg_l.jpg) | [碧蓝航线:陆奥](https://zh.moegirl.org/碧蓝航线:陆奥) [战舰少女:陆奥](https://zh.moegirl.org/战舰少女:陆奥) [舰队Collection:陆奥](https://zh.moegirl.org/舰队Collection:陆奥) |
+| ise | 伊势 | No.003 | [碧蓝航线:伊势](https://zh.moegirl.org/碧蓝航线:伊势) [战舰少女:伊势](https://zh.moegirl.org/战舰少女:伊势) [舰队Collection:伊势](https://zh.moegirl.org/舰队Collection:伊势) |
+| hyuuga | 日向 | No.004 | [碧蓝航线:日向](https://zh.moegirl.org/碧蓝航线:日向) [战舰少女:日向](https://zh.moegirl.org/战舰少女:日向) [舰队Collection:日向](https://zh.moegirl.org/舰队Collection:日向) |
+| yukikaze | 雪风 | No.005 雪风![雪风](# "https://ehgt.org/60/ab/60ab270009786241833ac61779fb5fec22d55aa4-797470-1860-2631-jpg_250.jpg") | [碧蓝航线:雪风](https://zh.moegirl.org/碧蓝航线:雪风) [战舰少女:雪风](https://zh.moegirl.org/战舰少女:雪风) [舰队Collection:雪风](https://zh.moegirl.org/舰队Collection:雪风) |
+| akagi | 赤城 | No.006 赤城![赤城](# "https://ehgt.org/96/78/967886ed6788f4d09f41fb47a816d38df6bc2b84-1471927-2137-3000-jpg_250.jpg") | [碧蓝航线:赤城](https://zh.moegirl.org/碧蓝航线:赤城) [战舰少女:赤城](https://zh.moegirl.org/战舰少女:赤城) [舰队Collection:赤城](https://zh.moegirl.org/舰队Collection:赤城) |
+| kaga | 加贺 | No.007 加贺![加贺](# "https://ehgt.org/9f/60/9f60d5e8ea1f0b11204f4992841f5b4109c9ae8a-2379070-1690-2400-jpg_250.jpg") | [碧蓝航线:加贺](https://zh.moegirl.org/碧蓝航线:加贺) [战舰少女:加贺](https://zh.moegirl.org/战舰少女:加贺) [舰队Collection:加贺](https://zh.moegirl.org/舰队Collection:加贺) |
+| souryuu | 苍龙 | No.008 苍龙![苍龙](# "https://ehgt.org/1e/4d/1e4d2387b1817ccf472ada6f5e91bb1c6f2615d5-1138315-1411-2000-jpg_250.jpg") | [碧蓝航线:苍龙](https://zh.moegirl.org/碧蓝航线:苍龙) [战舰少女:苍龙](https://zh.moegirl.org/战舰少女:苍龙) [舰队Collection:苍龙](https://zh.moegirl.org/舰队Collection:苍龙) |
+| hiryuu | 飞龙 | No.009 飞龙![飞龙](# "https://ehgt.org/52/a2/52a27ccf1909e92b13feaea691a7717a2db32fb9-790987-1416-2000-jpg_250.jpg") | [碧蓝航线:飞龙](https://zh.moegirl.org/碧蓝航线:飞龙) [战舰少女:飞龙](https://zh.moegirl.org/战舰少女:飞龙) [舰队Collection:飞龙](https://zh.moegirl.org/舰队Collection:飞龙) |
+| shimakaze | 岛风 | No.010 岛风![岛风](# "https://ehgt.org/37/79/3779d6c713287df0555b13768d211b8edc97cbf3-2998029-2132-3009-jpg_250.jpg") | [战舰少女:岛风](https://zh.moegirl.org/战舰少女:岛风) [舰队Collection:岛风](https://zh.moegirl.org/舰队Collection:岛风) |
+| fubuki | 吹雪 | No.011 吹雪![吹雪](# "https://ehgt.org/fe/d3/fed3c4b1bba573f357acb64b94bcb69e2465fe9c-580323-1000-1398-jpg_250.jpg") | [碧蓝航线:吹雪](https://zh.moegirl.org/碧蓝航线:吹雪) [战舰少女:吹雪](https://zh.moegirl.org/战舰少女:吹雪) [舰队Collection:吹雪](https://zh.moegirl.org/舰队Collection:吹雪) |
+| shirayuki | 白雪 | No.012 白雪![白雪](# "https://ehgt.org/16/91/1691ed6aca37aa9a8dc8b0527f0a18e5a7cbe542-798232-2122-3000-jpg_250.jpg") | [战舰少女:白雪](https://zh.moegirl.org/战舰少女:白雪) [舰队Collection:白雪](https://zh.moegirl.org/舰队Collection:白雪) |
+| hatsuyuki | 初雪 | No.013 | [战舰少女:初雪](https://zh.moegirl.org/战舰少女:初雪) [舰队Collection:初雪](https://zh.moegirl.org/舰队Collection:初雪) |
+| miyuki | 深雪 | No.014 | [战舰少女:深雪](https://zh.moegirl.org/战舰少女:深雪) [舰队Collection:深雪](https://zh.moegirl.org/舰队Collection:深雪) |
+|  | 丛云 | No.015 (重复项) | [舰队Collection:丛云](https://zh.moegirl.org/舰队Collection:丛云) |
+| isonami | 矶波 | No.016 | [舰队Collection:矶波](https://zh.moegirl.org/舰队Collection:矶波) |
+| ayanami | 绫波 | No.017 | [碧蓝航线:绫波](https://zh.moegirl.org/碧蓝航线:绫波) [战舰少女:绫波](https://zh.moegirl.org/战舰少女:绫波) [舰队Collection:绫波](https://zh.moegirl.org/舰队Collection:绫波) |
+| shikinami | 敷波 | No.018 | [战舰少女:敷波](https://zh.moegirl.org/战舰少女:敷波) [舰队Collection:敷波](https://zh.moegirl.org/舰队Collection:敷波) |
+| ooi | 大井 | No.019 大井![大井](# "https://ehgt.org/b4/b1/b4b181f876ca495f29d07ec92de0d1e430902e92-6212386-2124-3000-png_250.jpg") | [战舰少女:大井](https://zh.moegirl.org/战舰少女:大井) [舰队Collection:大井](https://zh.moegirl.org/舰队Collection:大井) |
+| kitakami | 北上 | No.020 北上![北上](# "https://ehgt.org/63/e1/63e11d5f8f44196a51230be24e96b68745d1d737-904164-2122-3000-jpg_250.jpg") | [战舰少女:北上](https://zh.moegirl.org/战舰少女:北上) [舰队Collection:北上](https://zh.moegirl.org/舰队Collection:北上) |
+| kongou | 金刚 | No.021 金刚![金刚](# "https://ehgt.org/e4/5c/e45caf124d139ded1ff1b1e46335ed463ea5c41d-9356857-2400-3391-jpg_250.jpg") | [碧蓝航线:金刚](https://zh.moegirl.org/碧蓝航线:金刚) [战舰少女:金刚](https://zh.moegirl.org/战舰少女:金刚) [舰队Collection:金刚](https://zh.moegirl.org/舰队Collection:金刚) |
+| hiei | 比睿 | No.022 比睿![比睿](# "https://img.acg.moe/common/thumb/2/2f/比睿1.jpg/250px-比睿1.jpg") | [碧蓝航线:比睿](https://zh.moegirl.org/碧蓝航线:比睿) [战舰少女:比睿](https://zh.moegirl.org/战舰少女:比睿) [舰队Collection:比睿](https://zh.moegirl.org/舰队Collection:比睿) |
+|  | 榛名 | No.023 (重复项) | [碧蓝航线:榛名](https://zh.moegirl.org/碧蓝航线:榛名) [战舰少女:榛名](https://zh.moegirl.org/战舰少女:榛名) [舰队Collection:榛名](https://zh.moegirl.org/舰队Collection:榛名) |
+| kirishima | 雾岛 | No.024 雾岛![雾岛](# "https://img.acg.moe/common/thumb/c/c1/52019513_p0.png/250px-52019513_p0.png")P站ID:52019513 | [碧蓝航线:雾岛](https://zh.moegirl.org/碧蓝航线:雾岛) [战舰少女:雾岛](https://zh.moegirl.org/战舰少女:雾岛) [舰队Collection:雾岛](https://zh.moegirl.org/舰队Collection:雾岛) |
+| houshou | 凤翔 | No.025 凤翔![凤翔](# "https://ehgt.org/19/a3/19a39b6cc2bbdffafa8a61b8c5b9ed20cfa6b278-736287-1406-2000-jpg_250.jpg") | [碧蓝航线:凤翔](https://zh.moegirl.org/碧蓝航线:凤翔) [战舰少女:凤翔](https://zh.moegirl.org/战舰少女:凤翔) [舰队Collection:凤翔](https://zh.moegirl.org/舰队Collection:凤翔) |
+| fusou | 扶桑 | No.026 | [碧蓝航线:扶桑](https://zh.moegirl.org/碧蓝航线:扶桑) [战舰少女:扶桑](https://zh.moegirl.org/战舰少女:扶桑) [舰队Collection:扶桑](https://zh.moegirl.org/舰队Collection:扶桑) |
+| yamashiro | 山城 | No.027 | [碧蓝航线:山城](https://zh.moegirl.org/碧蓝航线:山城) [战舰少女:山城](https://zh.moegirl.org/战舰少女:山城) [舰队Collection:山城](https://zh.moegirl.org/舰队Collection:山城) |
+| tenryuu | 天龙 | No.028 天龙![天龙](# "https://ehgt.org/c0/d1/c0d115eaaee056ca238618b0257f3a4b6f230234-936113-2149-3035-jpg_250.jpg") | [战舰少女:天龙](https://zh.moegirl.org/战舰少女:天龙) [舰队Collection:天龙](https://zh.moegirl.org/舰队Collection:天龙) |
+| tatsuta | 龙田 | No.029 龙田![龙田](# "https://ehgt.org/bd/a9/bda950e593f06a67d5a9fa446f17719653e205a0-2697988-1733-2442-jpg_250.jpg") | [战舰少女:龙田](https://zh.moegirl.org/战舰少女:龙田) [舰队Collection:龙田](https://zh.moegirl.org/舰队Collection:龙田) |
+| ryuujou | 龙骧 | No.030 龙骧![龙骧](# "https://ehgt.org/29/43/294342c6fc8815bbdadfc11a4631bd06ec3ee54e-714819-1075-1505-jpg_250.jpg") | [碧蓝航线:龙骧](https://zh.moegirl.org/碧蓝航线:龙骧) [战舰少女:龙骧](https://zh.moegirl.org/战舰少女:龙骧) [舰队Collection:龙骧](https://zh.moegirl.org/舰队Collection:龙骧) |
+| mutsuki | 睦月 | No.031 | [碧蓝航线:睦月](https://zh.moegirl.org/碧蓝航线:睦月) [战舰少女:睦月](https://zh.moegirl.org/战舰少女:睦月) [舰队Collection:睦月](https://zh.moegirl.org/舰队Collection:睦月) |
+| kisaragi | 如月 | No.032 | [碧蓝航线:如月](https://zh.moegirl.org/碧蓝航线:如月) [舰队Collection:如月](https://zh.moegirl.org/舰队Collection:如月) |
+| satsuki | 皋月 | No.033 | [舰队Collection:皋月](https://zh.moegirl.org/舰队Collection:皋月) |
+| fumizuki | 文月 | No.034 | [碧蓝航线:文月](https://zh.moegirl.org/碧蓝航线:文月) [舰队Collection:文月](https://zh.moegirl.org/舰队Collection:文月) |
+| nagatsuki | 长月 | No.035 | [碧蓝航线:长月](https://zh.moegirl.org/碧蓝航线:长月) [舰队Collection:长月](https://zh.moegirl.org/舰队Collection:长月) |
+| kikuzuki | 菊月 | No.036 | [舰队Collection:菊月](https://zh.moegirl.org/舰队Collection:菊月) |
+| mikazuki | 三日月 | No.037 | [碧蓝航线:三日月](https://zh.moegirl.org/碧蓝航线:三日月) [舰队Collection:三日月](https://zh.moegirl.org/舰队Collection:三日月) |
+| mochizuki | 望月 | No.038 | [舰队Collection:望月](https://zh.moegirl.org/舰队Collection:望月) |
+| kuma | 球磨 | No.039 | [舰队Collection:球磨](https://zh.moegirl.org/舰队Collection:球磨) |
+| tama | 多摩 | No.040 | [舰队Collection:多摩](https://zh.moegirl.org/舰队Collection:多摩) |
+| kiso | 木曾 | No.041 | [战舰少女:木曾](https://zh.moegirl.org/index.php?title=战舰少女:木曾&action=edit&redlink=1) [舰队Collection:木曾](https://zh.moegirl.org/舰队Collection:木曾) |
+| nagara | 长良 | No.042 | [碧蓝航线:长良](https://zh.moegirl.org/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org/舰队Collection:长良) |
+| isuzu | 五十铃 | No.043 | [碧蓝航线:五十铃](https://zh.moegirl.org/碧蓝航线:五十铃) [战舰少女:五十铃](https://zh.moegirl.org/战舰少女:五十铃) [舰队Collection:五十铃](https://zh.moegirl.org/舰队Collection:五十铃) |
+| natori | 名取 | No.044 | [舰队Collection:名取](https://zh.moegirl.org/舰队Collection:名取) |
+| yura | 由良 | No.045 | [舰队Collection:由良](https://zh.moegirl.org/舰队Collection:由良) |
+| sendai | 川内 | No.046 | [碧蓝航线:川内](https://zh.moegirl.org/碧蓝航线:川内) [战舰少女:川内](https://zh.moegirl.org/战舰少女:川内) [舰队Collection:川内](https://zh.moegirl.org/舰队Collection:川内) |
+| jintsuu | 神通 | No.047 | [碧蓝航线:神通](https://zh.moegirl.org/碧蓝航线:神通) [战舰少女:神通](https://zh.moegirl.org/战舰少女:神通) [舰队Collection:神通](https://zh.moegirl.org/舰队Collection:神通) |
+| naka | 那珂 | No.048 | [碧蓝航线:那珂](https://zh.moegirl.org/碧蓝航线:那珂) [战舰少女:那珂](https://zh.moegirl.org/战舰少女:那珂) [舰队Collection:那珂](https://zh.moegirl.org/舰队Collection:那珂) |
+|  | 千岁 | No.049 (重复项) | [舰队Collection:千岁](https://zh.moegirl.org/舰队Collection:千岁) |
+| chiyoda | 千代田 | No.050 千代田![千代田](# "https://img.acg.moe/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg") | [舰队Collection:千代田](https://zh.moegirl.org/舰队Collection:千代田) |
+| mogami | 最上 | No.051 | [碧蓝航线:最上](https://zh.moegirl.org/碧蓝航线:最上) [战舰少女:最上](https://zh.moegirl.org/战舰少女:最上) [舰队Collection:最上](https://zh.moegirl.org/舰队Collection:最上) |
+| furutaka | 古鹰 | No.052 | [碧蓝航线:古鹰](https://zh.moegirl.org/碧蓝航线:古鹰) [战舰少女:古鹰](https://zh.moegirl.org/战舰少女:古鹰) [舰队Collection:古鹰](https://zh.moegirl.org/舰队Collection:古鹰) |
+| kako | 加古 | No.053 | [碧蓝航线:加古](https://zh.moegirl.org/碧蓝航线:加古) [战舰少女:加古](https://zh.moegirl.org/战舰少女:加古) [舰队Collection:加古](https://zh.moegirl.org/舰队Collection:加古) |
+| aoba | 青叶 | No.054 | [碧蓝航线:青叶](https://zh.moegirl.org/碧蓝航线:青叶) [战舰少女:青叶](https://zh.moegirl.org/战舰少女:青叶) [舰队Collection:青叶](https://zh.moegirl.org/舰队Collection:青叶) |
+| myoukou | 妙高 | No.055 妙高![妙高](# "https://ehgt.org/bc/a9/bca9cc8efbd974a6e73a1a95f2956b48f326ee03-2898088-1410-2024-jpg_250.jpg") | [碧蓝航线:妙高](https://zh.moegirl.org/碧蓝航线:妙高) [战舰少女:妙高](https://zh.moegirl.org/战舰少女:妙高) [舰队Collection:妙高](https://zh.moegirl.org/舰队Collection:妙高) |
+|  | 那智 | No.056 (重复项) | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
+| ashigara | 足柄 | No.057 足柄![足柄](# "https://img.acg.moe/common/thumb/6/69/52960554_p2_master1200.jpg/250px-52960554_p2_master1200.jpg") | [碧蓝航线:足柄](https://zh.moegirl.org/碧蓝航线:足柄) [舰队Collection:足柄](https://zh.moegirl.org/舰队Collection:足柄) |
+| haguro | 羽黑 | No.058 羽黑![羽黑](# "https://ehgt.org/fa/1c/fa1ce113bcb7a45c26e1dec08dcc1d630a533072-212742-718-1024-jpg_250.jpg") | [战舰少女:羽黑](https://zh.moegirl.org/index.php?title=战舰少女:羽黑&action=edit&redlink=1) [舰队Collection:羽黑](https://zh.moegirl.org/舰队Collection:羽黑) |
+| takao | 高雄 | No.059 高雄![高雄](# "https://ehgt.org/c0/2b/c02beda2587dbfda211fc6f011eb1e543f482373-2273311-1410-2000-png_250.jpg") | [碧蓝航线:高雄](https://zh.moegirl.org/碧蓝航线:高雄) [战舰少女:高雄](https://zh.moegirl.org/战舰少女:高雄) [舰队Collection:高雄](https://zh.moegirl.org/舰队Collection:高雄) |
+| atago | 爱宕 | No.060 爱宕![爱宕](# "https://ehgt.org/21/27/21273e31c137f84ffc157a29d9f070669e7f0cf6-2570336-2439-3486-jpg_250.jpg") | [碧蓝航线:爱宕](https://zh.moegirl.org/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org/舰队Collection:爱宕) |
+|  | 摩耶 | No.061 (重复项) 摩耶![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg") | [碧蓝航线:摩耶](https://zh.moegirl.org/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org/舰队Collection:摩耶) |
+| choukai | 鸟海 | No.062 | [碧蓝航线:鸟海](https://zh.moegirl.org/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org/舰队Collection:鸟海) |
+| tone | 利根 | No.063 利根![利根](# "https://ehgt.org/e5/7b/e57b1f78bccc97011576d583a37b0c6a3b309ec9-1251535-2044-2860-jpg_250.jpg") | [舰队Collection:利根](https://zh.moegirl.org/舰队Collection:利根) |
+| chikuma | 筑摩 | No.064 筑摩![筑摩](# "https://ehgt.org/3a/76/3a76a411cb9e0fa0dc929d9bf2d09bf81ea3133a-4860768-2147-3032-jpg_250.jpg") | [舰队Collection:筑摩](https://zh.moegirl.org/舰队Collection:筑摩) |
+| hiyou | 飞鹰 | No.065 | [碧蓝航线:飞鹰](https://zh.moegirl.org/碧蓝航线:飞鹰) [战舰少女:飞鹰](https://zh.moegirl.org/战舰少女:飞鹰) [舰队Collection:飞鹰](https://zh.moegirl.org/舰队Collection:飞鹰) |
+| junyou | 隼鹰 | No.066 隼鹰![隼鹰](# "https://ehgt.org/88/ac/88acd3a846f6b264d165925d66189c36d95b973d-1526496-2137-3039-jpg_250.jpg") | [碧蓝航线:隼鹰](https://zh.moegirl.org/碧蓝航线:隼鹰) [战舰少女:隼鹰](https://zh.moegirl.org/战舰少女:隼鹰) [舰队Collection:隼鹰](https://zh.moegirl.org/舰队Collection:隼鹰) |
+| oboro | 胧 | No.067 | [舰队Collection:胧](https://zh.moegirl.org/舰队Collection:胧) |
+| akebono | 曙 | No.068 曙![曙](# "https://ehgt.org/cb/73/cb735b9a0ae422facb8b2b8e76fd72f211f1a0b5-774084-2104-3000-jpg_250.jpg") | [舰队Collection:曙](https://zh.moegirl.org/舰队Collection:曙) |
+| sazanami | 涟 | No.069 | [舰队Collection:涟](https://zh.moegirl.org/舰队Collection:涟) |
+| ushio | 潮 | No.070 | [舰队Collection:潮](https://zh.moegirl.org/舰队Collection:潮) |
+| akatsuki | 晓 | No.071 晓![晓](# "https://ehgt.org/86/55/865507f173683d0b8c8b61a2f0a25d499092a507-202743-600-861-jpg_250.jpg") | [碧蓝航线:晓](https://zh.moegirl.org/碧蓝航线:晓) [战舰少女:晓](https://zh.moegirl.org/战舰少女:晓) [舰队Collection:晓](https://zh.moegirl.org/舰队Collection:晓) |
+| hibiki | 响 | No.072 响![响](# "https://ehgt.org/18/94/1894f7adde12648e4e6a07a4056d5743af41517d-455959-1416-2000-jpg_250.jpg") | [碧蓝航线:响](https://zh.moegirl.org/碧蓝航线:响) [战舰少女:响](https://zh.moegirl.org/战舰少女:响) [舰队Collection:响](https://zh.moegirl.org/舰队Collection:响) |
+| ikazuchi | 雷 | No.073 雷![雷](# "https://ehgt.org/15/dc/15dc0a548124bf81e466339bfc55edfb8ae57d21-4153439-2122-3000-jpg_250.jpg") | [碧蓝航线:雷](https://zh.moegirl.org/碧蓝航线:雷) [战舰少女:雷](https://zh.moegirl.org/战舰少女:雷) [舰队Collection:雷](https://zh.moegirl.org/舰队Collection:雷) |
+| inazuma | 电 | No.074 电![电](# "https://ehgt.org/f5/75/f575b520fdc88fa7345c81fc81129f45fb98a765-1447588-2060-3007-jpg_250.jpg") | [碧蓝航线:电](https://zh.moegirl.org/碧蓝航线:电) [战舰少女:电](https://zh.moegirl.org/战舰少女:电) [舰队Collection:电](https://zh.moegirl.org/舰队Collection:电) |
+| hatsuharu | 初春 | No.075 初春![初春](# "https://ehgt.org/b4/85/b485b5c9d8f9cc3be14b94bfbae4a1176846699c-3489403-2867-4031-jpg_250.jpg") | [碧蓝航线:初春](https://zh.moegirl.org/碧蓝航线:初春) [舰队Collection:初春](https://zh.moegirl.org/舰队Collection:初春) |
+| nenohi | 子日 | No.076 子日![子日](# "https://img.acg.moe/common/thumb/2/21/42014691.jpg/250px-42014691.jpg") | [舰队Collection:子日](https://zh.moegirl.org/舰队Collection:子日) |
+| wakaba | 若叶 | No.077 | [碧蓝航线:若叶](https://zh.moegirl.org/碧蓝航线:若叶) [舰队Collection:若叶](https://zh.moegirl.org/舰队Collection:若叶) |
+| hatsushimo | 初霜 | No.078 | [碧蓝航线:初霜](https://zh.moegirl.org/碧蓝航线:初霜) [舰队Collection:初霜](https://zh.moegirl.org/舰队Collection:初霜) |
+| shiratsuyu | 白露 | No.079 | [碧蓝航线:白露](https://zh.moegirl.org/碧蓝航线:白露) [战舰少女:白露](https://zh.moegirl.org/战舰少女:白露) [舰队Collection:白露](https://zh.moegirl.org/舰队Collection:白露) |
+| shigure | 时雨 | No.080 时雨![时雨](# "https://ehgt.org/01/21/0121964de54e340114a02f3aeec3e2f24d1fdf97-8288569-2845-4044-jpg_250.jpg") | [碧蓝航线:时雨](https://zh.moegirl.org/碧蓝航线:时雨) [战舰少女:时雨](https://zh.moegirl.org/战舰少女:时雨) [舰队Collection:时雨](https://zh.moegirl.org/舰队Collection:时雨) |
+| murasame | 村雨 | No.081 | [战舰少女:村雨](https://zh.moegirl.org/战舰少女:村雨) [舰队Collection:村雨](https://zh.moegirl.org/舰队Collection:村雨) |
+| yuudachi | 夕立 | No.082 夕立![夕立](# "https://ehgt.org/d4/72/d4728a14993f54238ab1a7629175d8f16f92a039-2766319-1410-2024-jpg_250.jpg") | [碧蓝航线:夕立](https://zh.moegirl.org/碧蓝航线:夕立) [战舰少女:夕立](https://zh.moegirl.org/战舰少女:夕立) [舰队Collection:夕立](https://zh.moegirl.org/舰队Collection:夕立) |
+| samidare | 五月雨 | No.083 五月雨![五月雨](# "https://ehgt.org/9e/a1/9ea1e41346107383eb4e9879a518c43b0719b8ea-1391738-1409-2000-jpg_250.jpg") | [舰队Collection:五月雨](https://zh.moegirl.org/舰队Collection:五月雨) |
+| suzukaze | 凉风 | No.084 | [舰队Collection:凉风](https://zh.moegirl.org/舰队Collection:凉风) |
+| asashio | 朝潮 | No.085 朝潮![朝潮](# "https://ehgt.org/7b/c4/7bc4069cd7c414d306f49dcca10e2f9863c96153-1048348-2114-3000-jpg_250.jpg") | [碧蓝航线:朝潮](https://zh.moegirl.org/碧蓝航线:朝潮) [舰队Collection:朝潮](https://zh.moegirl.org/舰队Collection:朝潮) |
+| ooshio | 大潮 | No.086 | [碧蓝航线:大潮](https://zh.moegirl.org/碧蓝航线:大潮) [舰队Collection:大潮](https://zh.moegirl.org/舰队Collection:大潮) |
+| michishio | 满潮 | No.087 | [碧蓝航线:满潮](https://zh.moegirl.org/碧蓝航线:满潮) [舰队Collection:满潮](https://zh.moegirl.org/舰队Collection:满潮) |
+| arashio | 荒潮 | No.088 | [碧蓝航线:荒潮](https://zh.moegirl.org/碧蓝航线:荒潮) [舰队Collection:荒潮](https://zh.moegirl.org/舰队Collection:荒潮) |
+| arare | 霰 | No.089 | [舰队Collection:霰](https://zh.moegirl.org/舰队Collection:霰) |
+|  | 霞 | No.090 (重复项) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
+| kagerou | 阳炎 | No.091 | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎) |
+| shiranui | 不知火 | No.092 不知火![不知火](# "https://ehgt.org/04/11/0411675dbe304b68d81c6d28690b854034875850-1745543-1120-1650-jpg_250.jpg") | [碧蓝航线:不知火](https://zh.moegirl.org/碧蓝航线:不知火) [战舰少女:不知火](https://zh.moegirl.org/战舰少女:不知火) [舰队Collection:不知火](https://zh.moegirl.org/舰队Collection:不知火) |
+| kuroshio | 黑潮 | No.093 | [碧蓝航线:黑潮](https://zh.moegirl.org/碧蓝航线:黑潮) [战舰少女:黑潮](https://zh.moegirl.org/战舰少女:黑潮) [舰队Collection:黑潮](https://zh.moegirl.org/舰队Collection:黑潮) |
+| shouhou | 祥凤 | No.094 | [碧蓝航线:祥凤](https://zh.moegirl.org/碧蓝航线:祥凤) [战舰少女:祥凤](https://zh.moegirl.org/战舰少女:祥凤) [舰队Collection:祥凤](https://zh.moegirl.org/舰队Collection:祥凤) |
+| shoukaku | 翔鹤 | No.106 翔鹤![翔鹤](# "https://ehgt.org/36/f1/36f17b3678d674cd934b715651037c8d8074f775-1222665-2145-3039-jpg_250.jpg") | [碧蓝航线:翔鹤](https://zh.moegirl.org/碧蓝航线:翔鹤) [战舰少女:翔鹤](https://zh.moegirl.org/战舰少女:翔鹤) [舰队Collection:翔鹤](https://zh.moegirl.org/舰队Collection:翔鹤) |
+| zuikaku | 瑞鹤 | No.107 瑞鹤![瑞鹤](# "https://ehgt.org/68/51/685116e591523858d4afc57a95be5c3284012eb7-10054880-2870-4039-jpg_250.jpg") | [碧蓝航线:瑞鹤](https://zh.moegirl.org/碧蓝航线:瑞鹤) [战舰少女:瑞鹤](https://zh.moegirl.org/战舰少女:瑞鹤) [舰队Collection:瑞鹤](https://zh.moegirl.org/舰队Collection:瑞鹤) |
+| kinu | 鬼怒 | No.109 | [碧蓝航线:鬼怒](https://zh.moegirl.org/碧蓝航线:鬼怒) [舰队Collection:鬼怒](https://zh.moegirl.org/舰队Collection:鬼怒) |
+| abukuma | 阿武隈 | No.110 | [碧蓝航线:阿武隈](https://zh.moegirl.org/碧蓝航线:阿武隈) [舰队Collection:阿武隈](https://zh.moegirl.org/舰队Collection:阿武隈) |
+| yuubari | 夕张 | No.111 夕张![夕张](# "https://ehgt.org/c0/89/c089934d3835e09ccbdc4cbdaa55c01941d3046b-1204765-1708-2400-jpg_250.jpg") | [碧蓝航线:夕张](https://zh.moegirl.org/碧蓝航线:夕张) [战舰少女:夕张](https://zh.moegirl.org/战舰少女:夕张) [舰队Collection:夕张](https://zh.moegirl.org/舰队Collection:夕张) |
+| zuihou | 瑞凤 | No.112 瑞凤![瑞凤](# "https://ehgt.org/66/7e/667ee733f79fd7d37ed4273efe543be0d46a0e10-466678-1420-2000-jpg_250.jpg") | [战舰少女:瑞凤](https://zh.moegirl.org/战舰少女:瑞凤) [舰队Collection:瑞凤](https://zh.moegirl.org/舰队Collection:瑞凤) |
+| mikuma | 三隈 | No.116 | [碧蓝航线:三隈](https://zh.moegirl.org/碧蓝航线:三隈) [战舰少女:三隈](https://zh.moegirl.org/战舰少女:三隈) [舰队Collection:三隈](https://zh.moegirl.org/舰队Collection:三隈) |
+| hatsukaze | 初风 | No.118 初风![初风](# "https://ehgt.org/e1/db/e1dbb9c92ab72e5060d1f76f423f93afa32d0570-1974996-2072-3040-jpg_250.jpg") | [舰队Collection:初风](https://zh.moegirl.org/舰队Collection:初风) |
+| maikaze | 舞风 | No.119 | [舰队Collection:舞风](https://zh.moegirl.org/舰队Collection:舞风) |
+| kinugasa | 衣笠 | No.120 | [碧蓝航线:衣笠](https://zh.moegirl.org/碧蓝航线:衣笠) [战舰少女:衣笠](https://zh.moegirl.org/战舰少女:衣笠) [舰队Collection:衣笠](https://zh.moegirl.org/舰队Collection:衣笠) |
+| i-19 | 伊19 | No.123 伊19![伊19](# "https://ehgt.org/51/92/51920759488992ab03fdd66d863201dedd2c6b6b-1683613-1419-2000-jpg_250.jpg") | [碧蓝航线:伊19](https://zh.moegirl.org/碧蓝航线:伊19) [舰队Collection:伊19](https://zh.moegirl.org/舰队Collection:伊19) |
+| suzuya | 铃谷 | No.124 铃谷![铃谷](# "https://ehgt.org/2e/e6/2ee646e86b9f056b6b1dd976350d7ad89231ee24-738598-1418-2000-jpg_250.jpg") | [碧蓝航线:铃谷](https://zh.moegirl.org/碧蓝航线:铃谷) [战舰少女:铃谷](https://zh.moegirl.org/战舰少女:铃谷) [舰队Collection:铃谷](https://zh.moegirl.org/舰队Collection:铃谷) |
+| kumano | 熊野 | No.125 熊野![熊野](# "https://ehgt.org/09/c0/09c0b3b579b1946da95efe8b60a2aefee5f8b593-791108-1411-2000-jpg_250.jpg") | [战舰少女:熊野](https://zh.moegirl.org/战舰少女:熊野) [舰队Collection:熊野](https://zh.moegirl.org/舰队Collection:熊野) |
+| i-168 | 伊168 | No.126 伊168![伊168](# "https://img.acg.moe/common/thumb/4/40/41962607_p0.png/250px-41962607_p0.png")P站ID:41962607 | [碧蓝航线:伊168](https://zh.moegirl.org/碧蓝航线:伊168) [舰队Collection:伊168](https://zh.moegirl.org/舰队Collection:伊168) |
+| i-58 | 伊58 | No.127 伊58![伊58](# "https://ehgt.org/d9/ef/d9ef3c69a2738bb42cc2a3a6be2946b5f3af3703-535315-1055-1500-jpg_250.jpg") | [碧蓝航线:伊58](https://zh.moegirl.org/碧蓝航线:伊58) [舰队Collection:伊58](https://zh.moegirl.org/舰队Collection:伊58) |
+| i-8 | 伊8 | No.128 伊8<br>![伊8](https://ehgt.org/b8/fb/b8fb433d9d1418855c77cd089edec90eb308a5ee-766455-1024-1446-jpg_l.jpg) | [舰队Collection:伊8](https://zh.moegirl.org/舰队Collection:伊8) |
+| yamato | 大和 | No.131 大和![大和](# "https://ehgt.org/65/fc/65fc32dcf211f95654dfec389be9e5455bfc4d05-1200763-2138-3029-jpg_250.jpg") | [舰队Collection:大和](https://zh.moegirl.org/舰队Collection:大和) |
+| akigumo | 秋云 | No.132 | [舰队Collection:秋云](https://zh.moegirl.org/舰队Collection:秋云) |
+| yuugumo | 夕云 | No.133 | [舰队Collection:夕云](https://zh.moegirl.org/舰队Collection:夕云) |
+| makigumo | 卷云 | No.134 | [舰队Collection:卷云](https://zh.moegirl.org/舰队Collection:卷云) |
+| naganami | 长波 | No.135 | [碧蓝航线:长波](https://zh.moegirl.org/碧蓝航线:长波) [舰队Collection:长波](https://zh.moegirl.org/舰队Collection:长波) |
+| agano | 阿贺野 | No.137 阿贺野![阿贺野](# "https://ehgt.org/d7/0c/d70cf7f81ef0e5c4632f48e60eb0ccb0710b5847-1250102-919-1300-png_250.jpg") | [碧蓝航线:阿贺野](https://zh.moegirl.org/碧蓝航线:阿贺野) [舰队Collection:阿贺野](https://zh.moegirl.org/舰队Collection:阿贺野) |
+| noshiro | 能代 | No.138 能代![能代](# "https://ehgt.org/f8/d8/f8d84ea1411bbe9a6dac11849ce345b7004a83bb-731702-1759-2500-jpg_250.jpg") | [碧蓝航线:能代](https://zh.moegirl.org/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org/舰队Collection:能代) |
+| yahagi | 矢矧 | No.139 矢矧![矢矧](# "https://ehgt.org/6b/a8/6ba8de26eec57498324b02af80d0549ca749e0a0-1102882-1423-2000-jpg_250.jpg") | [舰队Collection:矢矧](https://zh.moegirl.org/舰队Collection:矢矧) |
+| sakawa | 酒匂 | No.140 | [舰队Collection:酒匂](https://zh.moegirl.org/舰队Collection:酒匂) |
+| musashi | 武藏 | No.143 武藏![武藏](# "https://ehgt.org/c9/5e/c95ee13a9ba41525a7363d82655fd33bc827832b-608654-1200-1693-jpg_250.jpg") | [舰队Collection:武藏](https://zh.moegirl.org/舰队Collection:武藏) |
+| taihou | 大凤 | No.153 大凤![大凤](# "https://ehgt.org/fe/39/fe3974f9f6f1250d251e135307602c7624aa90c7-445133-1074-1505-jpg_250.jpg") | [碧蓝航线:大凤](https://zh.moegirl.org/碧蓝航线:大凤) [战舰少女:大凤](https://zh.moegirl.org/战舰少女:大凤) [舰队Collection:大凤](https://zh.moegirl.org/舰队Collection:大凤) |
+| katori | 香取 | No.154 香取![香取](# "https://ehgt.org/90/ff/90ff8164fd32d4863fa6164e0c69b2a3e8654e24-1234651-2065-2986-jpg_250.jpg") | [战舰少女:香取](https://zh.moegirl.org/战舰少女:香取) [舰队Collection:香取](https://zh.moegirl.org/舰队Collection:香取) |
+| i-401 | 伊401 | No.155 伊401![伊401](# "https://ehgt.org/93/e6/93e601e4d66076f9d8e2a1e8e54686f1c9acdac5-524664-1410-2024-jpg_250.jpg") | [舰队Collection:伊401](https://zh.moegirl.org/舰队Collection:伊401) |
+| akitsu maru | 秋津丸 | No.161 | [舰队Collection:秋津丸](https://zh.moegirl.org/舰队Collection:秋津丸) |
+| kamoi | 神威 | No.162 | [舰队Collection:神威](https://zh.moegirl.org/舰队Collection:神威) |
+| yayoi | 弥生 | No.164 | [舰队Collection:弥生](https://zh.moegirl.org/舰队Collection:弥生) |
+| uzuki | 卯月 | No.165 | [碧蓝航线:卯月](https://zh.moegirl.org/碧蓝航线:卯月) [舰队Collection:卯月](https://zh.moegirl.org/舰队Collection:卯月) |
+| isokaze | 矶风 | No.167 矶风![矶风](# "https://ehgt.org/ac/8f/ac8f3eec194a7b1437a8b2615c8041d9c7f61ca3-479418-1420-2000-jpg_250.jpg") | [碧蓝航线:矶风](https://zh.moegirl.org/碧蓝航线:矶风) [舰队Collection:矶风](https://zh.moegirl.org/舰队Collection:矶风) |
+| urakaze | 浦风 | No.168 浦风![浦风](# "https://ehgt.org/7b/ab/7babdcf0c628c0c909c3939325bd7aff2c0133c5-3501220-2133-3000-jpg_250.jpg") | [碧蓝航线:浦风](https://zh.moegirl.org/碧蓝航线:浦风) [舰队Collection:浦风](https://zh.moegirl.org/舰队Collection:浦风) |
+| tanikaze | 谷风 | No.169 | [碧蓝航线:谷风](https://zh.moegirl.org/碧蓝航线:谷风) [舰队Collection:谷风](https://zh.moegirl.org/舰队Collection:谷风) |
+| hamakaze | 滨风 | No.170 滨风![滨风](# "https://ehgt.org/a7/7c/a77cee5045fcb1e20e63f0ea2551790aa8b38f44-3959169-1956-3000-jpg_250.jpg") | [碧蓝航线:滨风](https://zh.moegirl.org/碧蓝航线:滨风) [舰队Collection:滨风](https://zh.moegirl.org/舰队Collection:滨风) |
+| bismarck | 俾斯麦 | No.171 俾斯麦![俾斯麦](# "https://ehgt.org/23/c2/23c2504685234b66d6bf51baaeef653f6f45def4-571113-1418-2000-jpg_250.jpg") | [碧蓝航线:俾斯麦](https://zh.moegirl.org/碧蓝航线:俾斯麦) [战舰少女:俾斯麦](https://zh.moegirl.org/战舰少女:俾斯麦) [舰队Collection:俾斯麦](https://zh.moegirl.org/舰队Collection:俾斯麦) |
+| z1 | Z1 | No.174 Z1![Z1](# "https://ehgt.org/fe/ab/feab279ed4035c1d61a52e012400a65ae7f44c16-8493875-2114-3000-png_250.jpg") | [碧蓝航线:Z1](https://zh.moegirl.org/碧蓝航线:Z1) [战舰少女:Z1](https://zh.moegirl.org/战舰少女:Z1) [舰队Collection:Z1](https://zh.moegirl.org/舰队Collection:Z1) |
+| z3 | Z3 | No.175 Z3![Z3](# "https://ehgt.org/07/3a/073a9faca9480dd9b49968ae138b3ef16c55c35d-1428836-1421-2000-jpg_250.jpg") | [战舰少女:Z3](https://zh.moegirl.org/index.php?title=战舰少女:Z3&action=edit&redlink=1) [舰队Collection:Z3](https://zh.moegirl.org/舰队Collection:Z3) |
+| prinz eugen | 欧根亲王 | No.176 欧根亲王![欧根亲王](# "https://ehgt.org/1e/21/1e21b2f8f0452cab6db69cbfffff68224b2d8451-596813-1401-2000-jpg_250.jpg")= | [碧蓝航线:欧根亲王](https://zh.moegirl.org/碧蓝航线:欧根亲王) [战舰少女:欧根亲王](https://zh.moegirl.org/战舰少女:欧根亲王) [舰队Collection:欧根亲王](https://zh.moegirl.org/舰队Collection:欧根亲王) |
+| amatsukaze | 天津风 | No.181 天津风![天津风](# "https://ehgt.org/37/c6/37c6538b7ec4335b963fceac0a56b47bd9e43c48-1425407-2116-3000-jpg_250.jpg") | [战舰少女:天津风](https://zh.moegirl.org/index.php?title=战舰少女:天津风&action=edit&redlink=1) [舰队Collection:天津风](https://zh.moegirl.org/舰队Collection:天津风) |
+| akashi | 明石 | No.182 明石![明石](# "https://ehgt.org/bf/21/bf21ca8be8b575b4152685acd28af915c706d277-1539790-2149-3029-jpg_250.jpg") | [碧蓝航线:明石](https://zh.moegirl.org/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org/舰队Collection:明石) |
+| ooyodo | 大淀 | No.183 大淀![大淀](# "https://ehgt.org/8c/ee/8ceec22cc8cd0db32c3b7ad1b74cbf9c6c0bc902-903892-1413-2000-jpg_250.jpg") | [战舰少女:大淀](https://zh.moegirl.org/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org/舰队Collection:大淀) |
+| taigei | 大鲸 | No.184 | [舰队Collection:大鲸](https://zh.moegirl.org/舰队Collection:大鲸) |
+| ryuuhou | 龙凤 | No.185 | [碧蓝航线:龙凤](https://zh.moegirl.org/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org/舰队Collection:龙凤) |
+| tokitsukaze | 时津风 | No.186 时津风![时津风](# "https://ehgt.org/3f/ff/3fffaf76b7c5680ce979ace6af23732209117bdf-1711953-2866-4047-jpg_250.jpg") | [舰队Collection:时津风](https://zh.moegirl.org/舰队Collection:时津风) |
+| unryuu | 云龙 | No.201 | [舰队Collection:云龙](https://zh.moegirl.org/舰队Collection:云龙) |
+| amagi | 天城 | No.202 | [碧蓝航线:天城](https://zh.moegirl.org/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org/舰队Collection:天城) |
+|  | 葛城 | No.203 (重复项) | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
+| harusame | 春雨 | No.205 春雨![春雨](# "https://ehgt.org/5a/d9/5ad94f1967e5dece44b0b78b6d13160418905082-1879239-1724-2500-jpg_250.jpg") | [舰队Collection:春雨](https://zh.moegirl.org/舰队Collection:春雨) |
+| hayashimo | 早霜 | No.209 | [舰队Collection:早霜](https://zh.moegirl.org/舰队Collection:早霜) |
+| kiyoshimo | 清霜 | No.210 | [舰队Collection:清霜](https://zh.moegirl.org/舰队Collection:清霜) |
+| asagumo | 朝云 | No.213 | [舰队Collection:朝云](https://zh.moegirl.org/舰队Collection:朝云) |
+| yamagumo | 山云 | No.214 | [舰队Collection:山云](https://zh.moegirl.org/舰队Collection:山云) |
+| nowaki | 野分 | No.215 | [碧蓝航线:野分](https://zh.moegirl.org/碧蓝航线:野分) [舰队Collection:野分](https://zh.moegirl.org/舰队Collection:野分) |
+| akizuki | 秋月 | No.221 | [战舰少女:秋月](https://zh.moegirl.org/战舰少女:秋月) [舰队Collection:秋月](https://zh.moegirl.org/舰队Collection:秋月) |
+| teruzuki | 照月 | No.222 | [舰队Collection:照月](https://zh.moegirl.org/舰队Collection:照月) |
+| hatsuzuki | 初月 | No.223 | [战舰少女:初月](https://zh.moegirl.org/index.php?title=战舰少女:初月&action=edit&redlink=1) [舰队Collection:初月](https://zh.moegirl.org/舰队Collection:初月) |
+| takanami | 高波 | No.224 | [舰队Collection:高波](https://zh.moegirl.org/舰队Collection:高波) |
+| asashimo | 朝霜 | No.225 | [舰队Collection:朝霜](https://zh.moegirl.org/舰队Collection:朝霜) |
+| u-511 | U-511 | No.231 | [舰队Collection:U-511](https://zh.moegirl.org/舰队Collection:U-511) |
+| graf zeppelin | 齐柏林伯爵 | No.232 齐柏林伯爵![齐柏林伯爵](# "https://ehgt.org/26/a1/26a1e8801369e6d0e4bde7b3ce72853a4ffcc036-1329616-1407-2000-jpg_250.jpg") | [碧蓝航线:齐柏林伯爵](https://zh.moegirl.org/碧蓝航线:齐柏林伯爵) [战舰少女:齐柏林伯爵](https://zh.moegirl.org/战舰少女:齐柏林伯爵) [舰队Collection:齐柏林伯爵](https://zh.moegirl.org/舰队Collection:齐柏林伯爵) |
+| saratoga | 萨拉托加 | No.233 | [碧蓝航线:萨拉托加](https://zh.moegirl.org/碧蓝航线:萨拉托加) [战舰少女:萨拉托加](https://zh.moegirl.org/战舰少女:萨拉托加) [舰队Collection:萨拉托加](https://zh.moegirl.org/舰队Collection:萨拉托加) |
+| ro-500 | 吕500 | No.236 吕500![吕500](# "https://ehgt.org/a0/a9/a0a95a92877477a73bfcd64f4b37f51d82de94c0-1955651-2072-2966-jpg_250.jpg") | [舰队Collection:吕500](https://zh.moegirl.org/舰队Collection:吕500) |
+| warspite | 厌战 | 厌战号战列舰（HMS Warspite）<br>英国皇家海军的一艘伊丽莎白女王级战列舰。 | [碧蓝航线:厌战](https://zh.moegirl.org/碧蓝航线:厌战) [战舰少女:厌战](https://zh.moegirl.org/战舰少女:厌战) [舰队Collection:厌战](https://zh.moegirl.org/舰队Collection:厌战) |
+| iowa | 衣阿华 | No.240 | [战舰少女:衣阿华](https://zh.moegirl.org/战舰少女:衣阿华) [舰队Collection:衣阿华](https://zh.moegirl.org/舰队Collection:衣阿华) |
+| littorio | 利托里奥 | No.241 | [碧蓝航线:利托里奥](https://zh.moegirl.org/碧蓝航线:利托里奥) |
+| roma | 罗马 | No.242 | [战舰少女:罗马](https://zh.moegirl.org/index.php?title=战舰少女:罗马&action=edit&redlink=1) [舰队Collection:罗马](https://zh.moegirl.org/舰队Collection:罗马) |
+| libeccio | 西南风 | No.243 Libeccio/利伯齐奥 | [舰队Collection:西南风](https://zh.moegirl.org/舰队Collection:西南风) |
+| aquila | 天鹰 | No.244 Aquila/天鹰座/鹫座/爱奎拉 | [战舰少女:天鹰](https://zh.moegirl.org/战舰少女:天鹰) [舰队Collection:天鹰](https://zh.moegirl.org/舰队Collection:天鹰) |
+| akitsushima | 秋津洲 | No.245 | [舰队Collection:秋津洲](https://zh.moegirl.org/舰队Collection:秋津洲) |
+| zara | 扎拉 | No.248 | [碧蓝航线:扎拉](https://zh.moegirl.org/碧蓝航线:扎拉) [战舰少女:扎拉](https://zh.moegirl.org/index.php?title=战舰少女:扎拉&action=edit&redlink=1) [舰队Collection:扎拉](https://zh.moegirl.org/舰队Collection:扎拉) |
+| pola | 波拉 | No.249 | [舰队Collection:波拉](https://zh.moegirl.org/舰队Collection:波拉) |
+| mizuho | 瑞穗 | No.251 | [舰队Collection:瑞穗](https://zh.moegirl.org/舰队Collection:瑞穗) |
+| okinami | 冲波 | No.252 | [舰队Collection:冲波](https://zh.moegirl.org/舰队Collection:冲波) |
+| kazagumo | 风云 | No.253 | [舰队Collection:风云](https://zh.moegirl.org/舰队Collection:风云) |
+| arashi | 岚 | No.254 | [战舰少女:岚](https://zh.moegirl.org/战舰少女:岚) [舰队Collection:岚](https://zh.moegirl.org/舰队Collection:岚) |
+| hagikaze | 萩风 | No.255 | [舰队Collection:萩风](https://zh.moegirl.org/舰队Collection:萩风) |
+| oyashio | 亲潮 | No.256 | [碧蓝航线:亲潮](https://zh.moegirl.org/碧蓝航线:亲潮) [舰队Collection:亲潮](https://zh.moegirl.org/舰队Collection:亲潮) |
+| yamakaze | 山风 | No.257 | [舰队Collection:山风](https://zh.moegirl.org/舰队Collection:山风) |
+| umikaze | 海风 | No.258 | [舰队Collection:海风](https://zh.moegirl.org/舰队Collection:海风) |
+| kawakaze | 江风 | No.259 | [碧蓝航线:江风](https://zh.moegirl.org/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org/舰队Collection:江风) |
+| hayasui | 速吸 | No.260 | [舰队Collection:速吸](https://zh.moegirl.org/舰队Collection:速吸) |
+| kashima | 鹿岛 | No.265 鹿岛讲真，最近多了好多鹿岛的本子![鹿岛](# "https://ehgt.org/6d/96/6d968544e64c6a58bb2ead9656c7366a4a048dc9-2170967-1410-2024-jpg_250.jpg") | [舰队Collection:鹿岛](https://zh.moegirl.org/舰队Collection:鹿岛) |
+| kamikaze | 神风 | No.271 | [碧蓝航线:神风](https://zh.moegirl.org/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org/舰队Collection:神风) |
+| asakaze | 朝风 | No.272 | [舰队Collection:朝风](https://zh.moegirl.org/舰队Collection:朝风) |
+| harukaze | 春风 | No.273 | [舰队Collection:春风](https://zh.moegirl.org/舰队Collection:春风) |
+| matsukaze | 松风 | No.274 | [碧蓝航线:松风](https://zh.moegirl.org/碧蓝航线:松风) [舰队Collection:松风](https://zh.moegirl.org/舰队Collection:松风) |
+| hatakaze | 旗风 | No.275 | [碧蓝航线:旗风](https://zh.moegirl.org/碧蓝航线:旗风) [舰队Collection:旗风](https://zh.moegirl.org/舰队Collection:旗风) |
+| amagiri | 天雾 | No.279 | [舰队Collection:天雾](https://zh.moegirl.org/舰队Collection:天雾) |
+| sagiri | 狭雾 | No.280 | [舰队Collection:狭雾](https://zh.moegirl.org/舰队Collection:狭雾) |
+| minazuki | 水无月 | No.281 | [碧蓝航线:水无月](https://zh.moegirl.org/碧蓝航线:水无月) [舰队Collection:水无月](https://zh.moegirl.org/舰队Collection:水无月) |
+| i-26 | 伊26 | No.283 | [碧蓝航线:伊26](https://zh.moegirl.org/碧蓝航线:伊26) [舰队Collection:伊26](https://zh.moegirl.org/舰队Collection:伊26) |
+| hamanami | 滨波 | No.284 | [舰队Collection:滨波](https://zh.moegirl.org/舰队Collection:滨波) |
+| fujinami | 藤波 | No.285 | [舰队Collection:藤波](https://zh.moegirl.org/舰队Collection:藤波) |
+| uranami | 浦波 | No.286 | [碧蓝航线:浦波](https://zh.moegirl.org/碧蓝航线:浦波) [舰队Collection:浦波](https://zh.moegirl.org/舰队Collection:浦波) |
+| commandant teste | 特斯特长官 | No.291 | [舰队Collection:特斯特长官](https://zh.moegirl.org/舰队Collection:特斯特长官) |
+| richelieu | 黎塞留 | No.292 | [碧蓝航线:黎塞留](https://zh.moegirl.org/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org/舰队Collection:黎塞留) |
+| i-400 | 伊400 | No.293 | [舰队Collection:伊400](https://zh.moegirl.org/舰队Collection:伊400) |
+| i-13 | 伊13 | No.294 | [碧蓝航线:伊13](https://zh.moegirl.org/碧蓝航线:伊13) [舰队Collection:伊13](https://zh.moegirl.org/舰队Collection:伊13) |
+| i-14 | 伊14 | No.295 | [舰队Collection:伊14](https://zh.moegirl.org/舰队Collection:伊14) |
+| gangut | 甘古特 | No.311 Гангут | [碧蓝航线:甘古特](https://zh.moegirl.org/碧蓝航线:甘古特) |
+| tashkent | 塔什干 | No.313 Ташкент | [碧蓝航线:塔什干](https://zh.moegirl.org/碧蓝航线:塔什干) [战舰少女:塔什干](https://zh.moegirl.org/战舰少女:塔什干) [舰队Collection:塔什干](https://zh.moegirl.org/舰队Collection:塔什干) |
+| ark royal | 皇家方舟 | No.315 | [碧蓝航线:皇家方舟](https://zh.moegirl.org/碧蓝航线:皇家方舟) [战舰少女:皇家方舟](https://zh.moegirl.org/战舰少女:皇家方舟) [舰队Collection:皇家方舟](https://zh.moegirl.org/舰队Collection:皇家方舟) |
+| shimusyu | 占守 | No.317 | [舰队Collection:占守](https://zh.moegirl.org/舰队Collection:占守) |
+| kunashiri | 国后 | No.318 | [舰队Collection:国后](https://zh.moegirl.org/舰队Collection:国后) |
+| jervis | 杰维斯 | No.319 | [舰队Collection:杰维斯](https://zh.moegirl.org/舰队Collection:杰维斯) |
+| suzutsuki | 凉月 | No.332 | [战舰少女:凉月](https://zh.moegirl.org/战舰少女:凉月) [舰队Collection:凉月](https://zh.moegirl.org/舰队Collection:凉月) |
+| etorofu | 择捉 | No.334 | [舰队Collection:择捉](https://zh.moegirl.org/舰队Collection:择捉) |
+| matsuwa | 松轮 | No.335 | [舰队Collection:松轮](https://zh.moegirl.org/舰队Collection:松轮) |
+| sado | 佐渡 | No.339<br>![](https://ehgt.org/20/ed/20edcbf02fa3dd8f7c3251ea7112a427146e93e2-94385-327-450-png_l.jpg) | [舰队Collection:佐渡](https://zh.moegirl.org/舰队Collection:佐渡) |
+| tsushima | 对马 | No.340 | [舰队Collection:对马](https://zh.moegirl.org/舰队Collection:对马) |
+| gambier bay | 甘比尔湾 | No.344 | [舰队Collection:甘比尔湾](https://zh.moegirl.org/舰队Collection:甘比尔湾) |
+| intrepid | 无畏 | No.349 | [碧蓝航线:无畏](https://zh.moegirl.org/碧蓝航线:无畏) [舰队Collection:无畏](https://zh.moegirl.org/舰队Collection:无畏) |
+| johnston | 约翰斯顿 | No.362 | [战舰少女:约翰斯顿](https://zh.moegirl.org/战舰少女:约翰斯顿) [舰队Collection:约翰斯顿](https://zh.moegirl.org/舰队Collection:约翰斯顿) |
+| maestrale | 西北风 | No.375 | [舰队Collection:西北风](https://zh.moegirl.org/舰队Collection:西北风) |
+| fletcher | 弗莱彻 | No.396 | [碧蓝航线:弗莱彻](https://zh.moegirl.org/碧蓝航线:弗莱彻) [战舰少女:弗莱彻](https://zh.moegirl.org/战舰少女:弗莱彻) [舰队Collection:弗莱彻](https://zh.moegirl.org/舰队Collection:弗莱彻) |
+| unicorn | 独角兽 |  | [碧蓝航线:独角兽](https://zh.moegirl.org/碧蓝航线:独角兽) [战舰少女:独角兽](https://zh.moegirl.org/战舰少女:独角兽) |
+| belfast | 贝尔法斯特 |  | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org/战舰少女:贝尔法斯特) |
+| illustrious | 光辉 |  | [碧蓝航线:光辉](https://zh.moegirl.org/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org/战舰少女:光辉) |
+| terror | 恐怖 |  | [碧蓝航线:恐怖](https://zh.moegirl.org/碧蓝航线:恐怖) |
+| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) |
+| laffey | 拉菲 |  | [碧蓝航线:拉菲](https://zh.moegirl.org/碧蓝航线:拉菲) |
+| eldridge | 埃尔德里奇 |  | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) |
+| prince of wales | 威尔士亲王 |  | [碧蓝航线:威尔士亲王](https://zh.moegirl.org/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org/战舰少女:威尔士亲王) |
+| sheffield | 谢菲尔德 |  | [碧蓝航线:谢菲尔德](https://zh.moegirl.org/碧蓝航线:谢菲尔德) [战舰少女:谢菲尔德](https://zh.moegirl.org/战舰少女:谢菲尔德) |
+| ping hai | 平海 | 手机游戏《`azur lane`》及其衍生作品的登场角色。其原型本体是中华民国海军的平海号轻巡洋舰。 | [碧蓝航线:平海](https://zh.moegirl.org/碧蓝航线:平海) [战舰少女:平海](https://zh.moegirl.org/战舰少女:平海) |
+| ning hai | 宁海 | 手机游戏《`azur lane`》及其衍生作品的登场角色。其原型本体是中华民国海军的宁海号轻巡洋舰。 | [碧蓝航线:宁海](https://zh.moegirl.org/碧蓝航线:宁海) [战舰少女:宁海](https://zh.moegirl.org/战舰少女:宁海) |
+| formidable | 可畏 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型是同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)） 。 | [碧蓝航线:可畏](https://zh.moegirl.org/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org/战舰少女:可畏) |
+| admiral hipper | 希佩尔海军上将 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）。 | [碧蓝航线:希佩尔海军上将](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将) [战舰少女:希佩尔海军上将](https://zh.moegirl.org/战舰少女:希佩尔海军上将) |
+| portland | 波特兰 | 手机游戏《碧蓝航线》及其衍生作品的登场角色。其原型本体是美国海军波特兰号重巡洋舰（ USS Portland (CA-33)）。 | [碧蓝航线:波特兰](https://zh.moegirl.org/碧蓝航线:波特兰) [战舰少女:波特兰](https://zh.moegirl.org/战舰少女:波特兰) |
+| cygnet | 小天鹅 |  | [碧蓝航线:小天鹅](https://zh.moegirl.org/碧蓝航线:小天鹅) |
+| kent | 肯特 |  | [碧蓝航线:肯特](https://zh.moegirl.org/碧蓝航线:肯特) [战舰少女:肯特](https://zh.moegirl.org/战舰少女:肯特) |
+| hammann | 哈曼 |  | [碧蓝航线:哈曼](https://zh.moegirl.org/碧蓝航线:哈曼) [战舰少女:哈曼](https://zh.moegirl.org/index.php?title=战舰少女:哈曼&action=edit&redlink=1) |
+| mikasa | 三笠 |  | [碧蓝航线:三笠](https://zh.moegirl.org/碧蓝航线:三笠) |
+| st. louis | 圣路易斯 |  | [碧蓝航线:圣路易斯](https://zh.moegirl.org/碧蓝航线:圣路易斯) [战舰少女:圣路易斯](https://zh.moegirl.org/战舰少女:圣路易斯) |
+| san diego | 圣地亚哥 |  | [碧蓝航线:圣地亚哥](https://zh.moegirl.org/碧蓝航线:圣地亚哥) [战舰少女:圣地亚哥](https://zh.moegirl.org/战舰少女:圣地亚哥) |
+| long island | 长岛 |  | [碧蓝航线:长岛](https://zh.moegirl.org/碧蓝航线:长岛) |
+| javelin | 标枪 |  | [碧蓝航线:标枪](https://zh.moegirl.org/碧蓝航线:标枪) [战舰少女:标枪](https://zh.moegirl.org/战舰少女:标枪) |
+| nelson | 纳尔逊 |  | [碧蓝航线:纳尔逊](https://zh.moegirl.org/碧蓝航线:纳尔逊) [战舰少女:纳尔逊](https://zh.moegirl.org/战舰少女:纳尔逊) [舰队Collection:纳尔逊](https://zh.moegirl.org/舰队Collection:纳尔逊) |
+| rodney | 罗德尼 |  | [碧蓝航线:罗德尼](https://zh.moegirl.org/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org/战舰少女:罗德尼) |
+| enterprise | 企业 |  | [碧蓝航线:企业](https://zh.moegirl.org/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org/战舰少女:企业) |
+| queen elizabeth | 伊丽莎白女王 |  | [碧蓝航线:伊丽莎白女王](https://zh.moegirl.org/碧蓝航线:伊丽莎白女王) [战舰少女:伊丽莎白女王](https://zh.moegirl.org/战舰少女:伊丽莎白女王) |
+| victorious | 胜利 |  | [碧蓝航线:胜利](https://zh.moegirl.org/碧蓝航线:胜利) |
+| ajax | 阿贾克斯 |  | [碧蓝航线:阿贾克斯](https://zh.moegirl.org/碧蓝航线:阿贾克斯) [战舰少女:阿贾克斯](https://zh.moegirl.org/战舰少女:阿贾克斯) |
+| cleveland | 克利夫兰 |  | [碧蓝航线:克利夫兰](https://zh.moegirl.org/碧蓝航线:克利夫兰) [战舰少女:克利夫兰](https://zh.moegirl.org/index.php?title=战舰少女:克利夫兰&action=edit&redlink=1) |
+| honolulu | 火奴鲁鲁 |  | [碧蓝航线:火奴鲁鲁](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
+| z46 | Z46 |  | [碧蓝航线:Z46](https://zh.moegirl.org/碧蓝航线:Z46) [战舰少女:Z46](https://zh.moegirl.org/战舰少女:Z46) |
+| z23 | Z23 |  | [碧蓝航线:Z23](https://zh.moegirl.org/碧蓝航线:Z23) |
+| tirpitz | 提尔比茨 |  | [碧蓝航线:提尔比茨](https://zh.moegirl.org/碧蓝航线:提尔比茨) [战舰少女:提尔比茨](https://zh.moegirl.org/战舰少女:提尔比茨) |
+| duke of york | 约克公爵 |  | [碧蓝航线:约克公爵](https://zh.moegirl.org/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org/战舰少女:约克公爵) |
+| bache | 贝奇 |  | [碧蓝航线:贝奇](https://zh.moegirl.org/碧蓝航线:贝奇) |
+| sirius | 天狼星 |  | [碧蓝航线:天狼星](https://zh.moegirl.org/碧蓝航线:天狼星) [战舰少女:天狼星](https://zh.moegirl.org/战舰少女:天狼星) |
+| sims | 西姆斯 |  | [碧蓝航线:西姆斯](https://zh.moegirl.org/碧蓝航线:西姆斯) |
+| colorado | 科罗拉多 |  | [碧蓝航线:科罗拉多](https://zh.moegirl.org/碧蓝航线:科罗拉多) [战舰少女:科罗拉多](https://zh.moegirl.org/战舰少女:科罗拉多) [舰队Collection:科罗拉多](https://zh.moegirl.org/舰队Collection:科罗拉多) |
+| kuubo seiki | 空母栖姬 |  | [舰队Collection:空母栖姬](https://zh.moegirl.org/舰队Collection:空母栖姬) |
+| kuubo suiki | 空母水鬼 |  | [舰队Collection:空母水鬼](https://zh.moegirl.org/舰队Collection:空母水鬼) |
+| soukou kuuboki | 装甲空母姬 |  | [舰队Collection:装甲空母姬](https://zh.moegirl.org/舰队Collection:装甲空母姬) |
+| senkan seiki | 战舰栖姬 |  | [舰队Collection:战舰栖姬](https://zh.moegirl.org/舰队Collection:战舰栖姬) |
+| hoppou seiki | 北方栖姬 | ![拿你们当兄弟](# "http://ww3.sinaimg.cn/large/6c84b2d6jw1f3xodq382zj209q08wdgf.jpg")![北方栖姬](# "https://ehgt.org/77/e1/77e1768176b1f2efbd805e8267eb75cc94732e7d-1264553-2069-3011-jpg_250.jpg") | [舰队Collection:北方栖姬](https://zh.moegirl.org/舰队Collection:北方栖姬) |
+| nanpou seiki | 南方栖鬼 |  | [舰队Collection:南方栖鬼](https://zh.moegirl.org/舰队Collection:南方栖鬼) |
+| shuusekichi seiki | 集积地栖姬 |  | [舰队Collection:集积地栖姬](https://zh.moegirl.org/舰队Collection:集积地栖姬) |
+| ritou seiki | 离岛栖姬 |  | [舰队Collection:离岛栖姬](https://zh.moegirl.org/舰队Collection:离岛栖姬) |
+| kouwan seiki | 港湾栖姬 |  | [舰队Collection:港湾栖姬](https://zh.moegirl.org/舰队Collection:港湾栖姬) |
+| chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org/舰队Collection:中间栖姬) |
+| hikoujouki | 飞行场姬 |  | [舰队Collection:飞行场姬](https://zh.moegirl.org/舰队Collection:飞行场姬) |
+|  | 千岁 | 重复项 | [舰队Collection:千岁](https://zh.moegirl.org/舰队Collection:千岁) |
+| ibuki | 伊吹 | ![](https://ehgt.org/16/35/163597e5bc47a1cf177e4d199a1b3850c6852c84-49556-384-480-jpg_l.jpg) | [碧蓝航线:伊吹](https://zh.moegirl.org/碧蓝航线:伊吹) |
+|  | 霞 | (重复项) ![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
+|  | 葛城 | (重复项) ![](https://ehgt.org/cb/fd/cbfd16b300f71ed45034d9f02af0dc197e4d93ae-37055-384-480-jpg_l.jpg) | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
+|  | 那智 | 重复项 | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
+| lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org/战舰少女:狮) |
+| jeanne darc | 圣女贞德 | ![图](https://ehgt.org/7d/51/7d513906a9c405fd0b7e297ba713bef8b94758d8-1776257-1024-1448-png_l.jpg)![图](https://ehgt.org/47/b8/47b81a03a14d04dd2ebdb9c191702913c58c16f1-2207482-1024-1448-png_l.jpg)![图](https://ehgt.org/10/39/1039d1c05d56204d701f86f880c4ebb1ccf07294-32716-280-479-jpg_l.jpg) | [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德) |
+| kagero | 阳炎 |  | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎) |
+| el condor pasa | 神鹰 |  | [战舰少女:神鹰](https://zh.moegirl.org/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org/舰队Collection:神鹰) |
+| perth | 珀斯 |  | [舰队Collection:珀斯](https://zh.moegirl.org/舰队Collection:珀斯) |
+| renown | 声望 |  | [碧蓝航线:声望](https://zh.moegirl.org/碧蓝航线:声望) [战舰少女:声望](https://zh.moegirl.org/战舰少女:声望) |
+| chang chun | 长春 |  | [碧蓝航线:长春](https://zh.moegirl.org/碧蓝航线:长春) |
+| gotland | 哥特兰 |  | [战舰少女:哥特兰](https://zh.moegirl.org/战舰少女:哥特兰) [舰队Collection:哥特兰](https://zh.moegirl.org/舰队Collection:哥特兰) |
+| grecale | 东北风 |  | [舰队Collection:东北风](https://zh.moegirl.org/舰队Collection:东北风) |
+| bremerton | 布莱默顿 |  | [碧蓝航线:布莱默顿](https://zh.moegirl.org/碧蓝航线:布莱默顿) |
+| roon | 罗恩 | 罗恩（KMS Roon）<br>白俄罗斯游戏公司 Wargaming 旗下的俄罗斯圣彼得堡工作室制作的游戏《战舰世界》（英语：World of Warships）中的虚构舰船。<br>由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色。 | [碧蓝航线:罗恩](https://zh.moegirl.org/碧蓝航线:罗恩) |
+| dido | 黛朵 | 英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | [碧蓝航线:黛朵](https://zh.moegirl.org/碧蓝航线:黛朵) [战舰少女:黛朵](https://zh.moegirl.org/index.php?title=战舰少女:黛朵&action=edit&redlink=1) |
+| baltimore | 巴尔的摩 | 巴尔的摩（USS Baltimore (CA-68)）<br>美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)）。 | [碧蓝航线:巴尔的摩](https://zh.moegirl.org/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org/战舰少女:巴尔的摩) |
 |  | ▲ 各种舰娘人物 |  |  |
 |  | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |  |
 | producer | 制作人 |  |  |
