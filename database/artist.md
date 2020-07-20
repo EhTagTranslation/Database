@@ -2419,7 +2419,7 @@ example:
 | tamazatou | 玉砂糖 |  |  |
 | tanaka yuuichi | 田中雄一 | 日本男性动画师、人物设计师、演出家。代表作是担任人物设定和总作画监督的《魔法禁书目录》、《科学超电磁炮》。 |  |
 | nakamura kuzuyu | 中村葛湯 |  |  |
-| bekotarou | べこ たろう | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) |
+| bekotarou | ベコ太郎 | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) [pixiv](https://www.pixiv.net/users/3345902) |
 | ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun) [pixiv](https://www.pixiv.net/users/2473967) |
 | fumi miyabi | 文雅 |  |  |
 | masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
