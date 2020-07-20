@@ -1877,6 +1877,7 @@ example:
 | hobukuro | ほおぶくろっ! |  |  |
 | yasai no kuni | 野菜の国 |  |  |
 | ikkizuka | いっきづか |  |  |
+| komadori nouen | こまどり農園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
