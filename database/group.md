@@ -1874,6 +1874,7 @@ example:
 | popochichi | ぽぽちち |  |  |
 | g.y.more.l | G.Y.MORE.L |  |  |
 | nyoudou juunisei | 尿道十二世 |  |  |
+| hobukuro | ほおぶくろっ! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
