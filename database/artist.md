@@ -992,7 +992,7 @@ example:
 | ishikawa shisuke | 石川シスケ |  |  |
 | itou ei | いとうえい |  |  |
 | karma tatsurou | かるま龍狼 |  |  |
-| kizuka kazuki | きづかかずき |  |  |
+| kizuka kazuki | きづかかずき |  | [pixiv](https://www.pixiv.net/users/260287) |
 | koppori nama beer | こっぽり生ビール |  |  |
 | mojarin | もじゃりん |  |  |
 | momoko | ももこ |  |  |
