@@ -1876,6 +1876,7 @@ example:
 | nyoudou juunisei | 尿道十二世 |  |  |
 | hobukuro | ほおぶくろっ! |  |  |
 | yasai no kuni | 野菜の国 |  |  |
+| ikkizuka | いっきづか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
