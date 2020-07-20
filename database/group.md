@@ -1875,6 +1875,7 @@ example:
 | g.y.more.l | G.Y.MORE.L |  |  |
 | nyoudou juunisei | 尿道十二世 |  |  |
 | hobukuro | ほおぶくろっ! |  |  |
+| yasai no kuni | 野菜の国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
