@@ -2872,6 +2872,7 @@ example:
 | shennai misha | 神奈弥莎 |  | [pixiv](https://www.pixiv.net/users/2262943) |
 | tsunano | つなの |  | [Twitter](https://twitter.com/nnonuit) [pixiv](https://www.pixiv.net/users/26240696) |
 | eizan | 影斬 |  | [pixiv](https://www.pixiv.net/users/1830438) |
+| akino kabocha | 秋野かぼちゃ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
