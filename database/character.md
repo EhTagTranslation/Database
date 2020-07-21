@@ -473,7 +473,7 @@ example:
 | belfast | 贝尔法斯特 | 英国海军的贝尔法斯特号轻巡洋舰（ HMS Belfast (C35)） | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org/战舰少女:贝尔法斯特) |
 | illustrious | 光辉 | 英国海军的光辉号装甲航空母舰（HMS Illustrious R.87） | [碧蓝航线:光辉](https://zh.moegirl.org/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org/战舰少女:光辉) |
 | terror | 恐怖 | 英国海军的恐怖号浅水重炮舰（HMS Terror (I03)） | [碧蓝航线:恐怖](https://zh.moegirl.org/碧蓝航线:恐怖) |
-| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服)) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼%28派趣服%29)|
+| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼%28派趣服%29)|
 | laffey | 拉菲 | 美国海军本森级驱逐舰七号舰拉菲号（USS Laffey DD-459） | [碧蓝航线:拉菲](https://zh.moegirl.org/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org/战舰少女:拉菲%28DD-459%29) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org/战舰少女:拉菲%28DD-724%29) |
 | eldridge | 埃尔德里奇 | 美国海军坎农级护航驱逐舰埃尔德里奇号（USS Eldridge (DE-173)） | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) [战舰少女:德里](https://zh.moegirl.org/战舰少女:德里) |
 | prince of wales | 威尔士亲王 | 英国海军的威尔士亲王号战列舰（HMS Prince of Wales 53） | [碧蓝航线:威尔士亲王](https://zh.moegirl.org/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org/战舰少女:威尔士亲王) |
