@@ -259,7 +259,8 @@ example:
 | ri-class | 重巡RI级 |  |  |
 | re-class | 战舰RE级 |  |  |
 | ta-class | 战舰TA级 |  |  |
-| wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  || katsuragi | 葛城 |  | [闪乱神乐:葛城](https://zh.moegirl.org/闪乱神乐:葛城) [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
+| wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  |
+| katsuragi | 葛城 |  | [闪乱神乐:葛城](https://zh.moegirl.org/闪乱神乐:葛城) [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
 | kasumi | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)） | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
 | nachi | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | teitoku | 提督 |  | [战舰少女:提督](https://zh.moegirl.org/战舰少女:提督) |
@@ -268,7 +269,7 @@ example:
 | ise | 伊势 | 旧日本帝国海军的伊势号战列舰（伊勢(戦艦)） | [碧蓝航线:伊势](https://zh.moegirl.org/碧蓝航线:伊势) [战舰少女:伊势](https://zh.moegirl.org/战舰少女:伊势) [战舰少女:伊势](https://zh.moegirl.org/战舰少女:伊势) [舰队Collection:伊势](https://zh.moegirl.org/舰队Collection:伊势) |
 | hyuuga | 日向 | 旧日本帝国海军的日向号战列舰（日向(戦艦)） | [碧蓝航线:日向](https://zh.moegirl.org/碧蓝航线:日向) [战舰少女:日向](https://zh.moegirl.org/战舰少女:日向) [战舰少女:日向](https://zh.moegirl.org/战舰少女:日向) [舰队Collection:日向](https://zh.moegirl.org/舰队Collection:日向) |
 | yukikaze | 雪风 | 旧日本帝国海军的阳炎级驱逐舰八号舰“雪风”（雪風(駆逐艦)） | [碧蓝航线:雪风](https://zh.moegirl.org/碧蓝航线:雪风) [战舰少女:雪风](https://zh.moegirl.org/战舰少女:雪风) [战舰少女:雪风](https://zh.moegirl.org/战舰少女:雪风) [战舰少女:雪风](https://zh.moegirl.org/战舰少女:雪风) [舰队Collection:雪风](https://zh.moegirl.org/舰队Collection:雪风) |
-| akagi | 赤城 | 旧日本帝国海军的赤城号航空母舰旧日本帝国海军的赤城号航空母舰 | [碧蓝航线:赤城](https://zh.moegirl.org/碧蓝航线:赤城) [碧蓝航线:赤城(μ兵装)](https://zh.moegirl.org/碧蓝航线:赤城(μ兵装)) [战舰少女:赤城](https://zh.moegirl.org/战舰少女:赤城) [舰队Collection:赤城](https://zh.moegirl.org/舰队Collection:赤城) |
+| akagi | 赤城 | 旧日本帝国海军的赤城号航空母舰旧日本帝国海军的赤城号航空母舰 | [碧蓝航线:赤城](https://zh.moegirl.org/碧蓝航线:赤城) [碧蓝航线:赤城%28μ兵装%29](https://zh.moegirl.org/碧蓝航线:赤城%28μ兵装%29) [战舰少女:赤城](https://zh.moegirl.org/战舰少女:赤城) [舰队Collection:赤城](https://zh.moegirl.org/舰队Collection:赤城) |
 | kaga | 加贺 | 旧日本帝国海军的加贺号航空母舰 | [碧蓝航线:加贺](https://zh.moegirl.org/碧蓝航线:加贺) [战舰少女:加贺](https://zh.moegirl.org/战舰少女:加贺) [舰队Collection:加贺](https://zh.moegirl.org/舰队Collection:加贺) |
 | souryuu | 苍龙 | 旧日本帝国海军苍龙号航空母舰（苍龙 (空母)） | [碧蓝航线:苍龙](https://zh.moegirl.org/碧蓝航线:苍龙) [战舰少女:苍龙](https://zh.moegirl.org/战舰少女:苍龙) [舰队Collection:苍龙](https://zh.moegirl.org/舰队Collection:苍龙) |
 | hiryuu | 飞龙 | 旧日本帝国海军飞龙号航空母舰（飞龙 (空母)） | [碧蓝航线:飞龙](https://zh.moegirl.org/碧蓝航线:飞龙) [战舰少女:飞龙](https://zh.moegirl.org/战舰少女:飞龙) [舰队Collection:飞龙](https://zh.moegirl.org/舰队Collection:飞龙) |
@@ -304,8 +305,8 @@ example:
 | kuma | 球磨 |  | [舰队Collection:球磨](https://zh.moegirl.org/舰队Collection:球磨) |
 | tama | 多摩 |  | [舰队Collection:多摩](https://zh.moegirl.org/舰队Collection:多摩) |
 | kiso | 木曾 |  | [战舰少女:木曾](https://zh.moegirl.org/战舰少女:木曾) [舰队Collection:木曾](https://zh.moegirl.org/舰队Collection:木曾) |
-| nagara | 长良 | 日本海军的长良号轻巡洋舰（長良_(軽巡洋艦)） | [碧蓝航线:长良](https://zh.moegirl.org/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org/舰队Collection:长良) |
-| isuzu | 五十铃 | 旧日本帝国海军的五十铃号轻巡洋舰（五十鈴_(軽巡洋艦)） | [碧蓝航线:五十铃](https://zh.moegirl.org/碧蓝航线:五十铃) [战舰少女:五十铃](https://zh.moegirl.org/战舰少女:五十铃) [舰队Collection:五十铃](https://zh.moegirl.org/舰队Collection:五十铃) |
+| nagara | 长良 | 日本海军的长良号轻巡洋舰（長良(軽巡洋艦)） | [碧蓝航线:长良](https://zh.moegirl.org/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org/舰队Collection:长良) |
+| isuzu | 五十铃 | 旧日本帝国海军的五十铃号轻巡洋舰（五十鈴(軽巡洋艦)） | [碧蓝航线:五十铃](https://zh.moegirl.org/碧蓝航线:五十铃) [战舰少女:五十铃](https://zh.moegirl.org/战舰少女:五十铃) [舰队Collection:五十铃](https://zh.moegirl.org/舰队Collection:五十铃) |
 | natori | 名取 |  | [舰队Collection:名取](https://zh.moegirl.org/舰队Collection:名取) |
 | yura | 由良 |  | [舰队Collection:由良](https://zh.moegirl.org/舰队Collection:由良) |
 | sendai | 川内 | 旧日本海军的川内号巡洋舰(川内(轻巡洋舰)) | [碧蓝航线:川内](https://zh.moegirl.org/碧蓝航线:川内) [战舰少女:川内](https://zh.moegirl.org/战舰少女:川内) [舰队Collection:川内](https://zh.moegirl.org/舰队Collection:川内) |
@@ -314,7 +315,7 @@ example:
 | mogami | 最上 | 旧日本海军的最上号巡洋舰(最上 (重巡洋舰)) | [碧蓝航线:最上](https://zh.moegirl.org/碧蓝航线:最上) [战舰少女:最上](https://zh.moegirl.org/战舰少女:最上) [战舰少女:最上](https://zh.moegirl.org/战舰少女:最上) [舰队Collection:最上](https://zh.moegirl.org/舰队Collection:最上) |
 | furutaka | 古鹰 | 旧日本帝国海军古鹰级重巡洋舰一番舰古鹰号(ふるたか，Furutaka) | [碧蓝航线:古鹰](https://zh.moegirl.org/碧蓝航线:古鹰) [战舰少女:古鹰](https://zh.moegirl.org/战舰少女:古鹰) [舰队Collection:古鹰](https://zh.moegirl.org/舰队Collection:古鹰) |
 | kako | 加古 | 旧日本帝国海军古鹰级重巡洋舰二番舰加古号(かこ，kako)) | [碧蓝航线:加古](https://zh.moegirl.org/碧蓝航线:加古) [战舰少女:加古](https://zh.moegirl.org/战舰少女:加古) [舰队Collection:加古](https://zh.moegirl.org/舰队Collection:加古) |
-| aoba | 青叶 | 旧日本帝国海军青叶级重巡洋舰一番舰青叶号(青葉_(重巡洋艦)) | [碧蓝航线:青叶](https://zh.moegirl.org/碧蓝航线:青叶) [战舰少女:青叶](https://zh.moegirl.org/战舰少女:青叶) [舰队Collection:青叶](https://zh.moegirl.org/舰队Collection:青叶) |
+| aoba | 青叶 | 旧日本帝国海军青叶级重巡洋舰一番舰青叶号(青葉(重巡洋艦)) | [碧蓝航线:青叶](https://zh.moegirl.org/碧蓝航线:青叶) [战舰少女:青叶](https://zh.moegirl.org/战舰少女:青叶) [舰队Collection:青叶](https://zh.moegirl.org/舰队Collection:青叶) |
 | myoukou | 妙高 | 旧日本帝国海军妙高级重巡洋舰一番舰妙高号（妙高 (重巡洋舰)） | [碧蓝航线:妙高](https://zh.moegirl.org/碧蓝航线:妙高) [战舰少女:妙高](https://zh.moegirl.org/战舰少女:妙高) [舰队Collection:妙高](https://zh.moegirl.org/舰队Collection:妙高) |
 |  | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | ashigara | 足柄 | 旧日本帝国海军的足柄号重巡洋舰足柄 | [碧蓝航线:足柄](https://zh.moegirl.org/碧蓝航线:足柄) [舰队Collection:足柄](https://zh.moegirl.org/舰队Collection:足柄) |
@@ -322,7 +323,7 @@ example:
 | takao | 高雄 | 旧日本帝国海军高雄级重巡洋舰一番舰高雄号（高雄 (重巡洋舰)） | [碧蓝航线:高雄](https://zh.moegirl.org/碧蓝航线:高雄) [战舰少女:高雄](https://zh.moegirl.org/战舰少女:高雄) [舰队Collection:高雄](https://zh.moegirl.org/舰队Collection:高雄) |
 | atago | 爱宕 | 旧日本帝国海军高雄级重巡洋舰二番舰爱宕号（爱宕 (重巡洋舰)） | [碧蓝航线:爱宕](https://zh.moegirl.org/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org/舰队Collection:爱宕) |
 |  | 摩耶 | 旧日本帝国海军高雄级重巡洋舰三番舰摩耶号（摩耶 (重巡洋舰)） | [碧蓝航线:摩耶](https://zh.moegirl.org/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org/舰队Collection:摩耶) |
-| choukai | 鸟海 | 旧日本帝国海军高雄级重巡洋舰四番舰鸟海号（鳥海_(重巡洋艦)） | [碧蓝航线:鸟海](https://zh.moegirl.org/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org/舰队Collection:鸟海) |
+| choukai | 鸟海 | 旧日本帝国海军高雄级重巡洋舰四番舰鸟海号（鳥海(重巡洋艦)） | [碧蓝航线:鸟海](https://zh.moegirl.org/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org/舰队Collection:鸟海) |
 | tone | 利根 |  | [舰队Collection:利根](https://zh.moegirl.org/舰队Collection:利根) |
 | chikuma | 筑摩 |  | [舰队Collection:筑摩](https://zh.moegirl.org/舰队Collection:筑摩) |
 | hiyou | 飞鹰 | 旧日本帝国海军的飞鹰号空母（飛鷹(空母)） | [碧蓝航线:飞鹰](https://zh.moegirl.org/碧蓝航线:飞鹰) [战舰少女:飞鹰](https://zh.moegirl.org/战舰少女:飞鹰) [舰队Collection:飞鹰](https://zh.moegirl.org/舰队Collection:飞鹰) |
@@ -388,11 +389,11 @@ example:
 | urakaze | 浦风 | 旧日本帝国海军的浦风号驱逐舰（浦風(陽炎型駆逐艦)） | [碧蓝航线:浦风](https://zh.moegirl.org/碧蓝航线:浦风) [舰队Collection:浦风](https://zh.moegirl.org/舰队Collection:浦风) |
 | tanikaze | 谷风 | 旧日本帝国海军的谷风号驱逐舰（谷風(陽炎型駆逐艦)） | [碧蓝航线:谷风](https://zh.moegirl.org/碧蓝航线:谷风) [舰队Collection:谷风](https://zh.moegirl.org/舰队Collection:谷风) |
 | hamakaze | 滨风 | 旧日本帝国海军的浜风号驱逐舰（浜風(陽炎型駆逐艦)） | [碧蓝航线:滨风](https://zh.moegirl.org/碧蓝航线:滨风) [舰队Collection:滨风](https://zh.moegirl.org/舰队Collection:滨风) |
-| bismarck | 俾斯麦 | 纳粹德国海军的俾斯麦号战列舰（German_battleship_Bismarck） | [碧蓝航线:俾斯麦](https://zh.moegirl.org/碧蓝航线:俾斯麦) [战舰少女:俾斯麦](https://zh.moegirl.org/战舰少女:俾斯麦) [舰队Collection:俾斯麦](https://zh.moegirl.org/舰队Collection:俾斯麦) |
+| bismarck | 俾斯麦 | 纳粹德国海军的俾斯麦号战列舰（German battleship Bismarck） | [碧蓝航线:俾斯麦](https://zh.moegirl.org/碧蓝航线:俾斯麦) [战舰少女:俾斯麦](https://zh.moegirl.org/战舰少女:俾斯麦) [舰队Collection:俾斯麦](https://zh.moegirl.org/舰队Collection:俾斯麦) |
 | z1 | Z1 | 德国海军1934级Z1驱逐舰(Zerstörer Leberecht Maaß) | [碧蓝航线:Z1](https://zh.moegirl.org/碧蓝航线:Z1) [战舰少女:Z1](https://zh.moegirl.org/战舰少女:Z1) [舰队Collection:Z1](https://zh.moegirl.org/舰队Collection:Z1) |
 | prinz eugen | 欧根亲王 | 德国海军希佩尔海军上将级重巡洋舰的3号舰欧根亲王（Prinz Eugen (Schiff, 1938)） | [碧蓝航线:欧根亲王](https://zh.moegirl.org/碧蓝航线:欧根亲王) [战舰少女:欧根亲王](https://zh.moegirl.org/战舰少女:欧根亲王) [舰队Collection:欧根亲王](https://zh.moegirl.org/舰队Collection:欧根亲王) |
 | amatsukaze | 天津风 |  | [战舰少女:天津风](https://zh.moegirl.org/战舰少女:天津风) [舰队Collection:天津风](https://zh.moegirl.org/舰队Collection:天津风) |
-| akashi | 明石 | 旧日本帝国海军的明石号维修舰（明石_(工作艦)） | [碧蓝航线:明石](https://zh.moegirl.org/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org/舰队Collection:明石) |
+| akashi | 明石 | 旧日本帝国海军的明石号维修舰（明石(工作艦)） | [碧蓝航线:明石](https://zh.moegirl.org/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org/舰队Collection:明石) |
 | ooyodo | 大淀 |  | [战舰少女:大淀](https://zh.moegirl.org/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org/舰队Collection:大淀) |
 | taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org/舰队Collection:大鲸) [舰队Collection:大鲸](https://zh.moegirl.org/舰队Collection:大鲸) |
 | ryuuhou | 龙凤 | 旧日本帝国海军的龙凤号航空母舰（龙凤 (空母)）） | [碧蓝航线:龙凤](https://zh.moegirl.org/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org/舰队Collection:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org/舰队Collection:龙凤) |
@@ -448,7 +449,7 @@ example:
 | fujinami | 藤波 |  | [舰队Collection:藤波](https://zh.moegirl.org/舰队Collection:藤波) |
 | uranami | 浦波 | 旧日本帝国海军的特I型吹雪级驱逐舰十号舰“浦波”号（浦波(吹雪型駆逐艦)） | [碧蓝航线:浦波](https://zh.moegirl.org/碧蓝航线:浦波) [舰队Collection:浦波](https://zh.moegirl.org/舰队Collection:浦波) |
 | commandant teste | 特斯特长官 |  | [舰队Collection:特斯特长官](https://zh.moegirl.org/舰队Collection:特斯特长官) |
-| richelieu | 黎塞留 | *法国海军的黎塞留号战列舰 | [碧蓝航线:黎塞留](https://zh.moegirl.org/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org/舰队Collection:黎塞留) |
+| richelieu | 黎塞留 | 法国海军的黎塞留号战列舰 | [碧蓝航线:黎塞留](https://zh.moegirl.org/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org/舰队Collection:黎塞留) |
 | i-400 | 伊400 |  | [舰队Collection:伊400](https://zh.moegirl.org/舰队Collection:伊400) |
 | i-13 | 伊13 | 旧日本帝国海军的伊号第十三潜水舰（伊号第十三潜水艦） | [碧蓝航线:伊13](https://zh.moegirl.org/碧蓝航线:伊13) [舰队Collection:伊13](https://zh.moegirl.org/舰队Collection:伊13) |
 | i-14 | 伊14 |  | [舰队Collection:伊14](https://zh.moegirl.org/舰队Collection:伊14) |
@@ -464,7 +465,7 @@ example:
 | sado | 佐渡 |  | [舰队Collection:佐渡](https://zh.moegirl.org/舰队Collection:佐渡) |
 | tsushima | 对马 |  | [舰队Collection:对马](https://zh.moegirl.org/舰队Collection:对马) |
 | gambier bay | 甘比尔湾 |  | [舰队Collection:甘比尔湾](https://zh.moegirl.org/舰队Collection:甘比尔湾) |
-| intrepid | 无畏 | 美国海军埃塞克斯级航空母舰三号舰无畏号（USS_Intrepid_(CV-11)） | [碧蓝航线:无畏](https://zh.moegirl.org/碧蓝航线:无畏) [舰队Collection:无畏](https://zh.moegirl.org/舰队Collection:无畏) |
+| intrepid | 无畏 | 美国海军埃塞克斯级航空母舰三号舰无畏号（USS Intrepid(CV-11)） | [碧蓝航线:无畏](https://zh.moegirl.org/碧蓝航线:无畏) [舰队Collection:无畏](https://zh.moegirl.org/舰队Collection:无畏) |
 | johnston | 约翰斯顿 |  | [战舰少女:约翰斯顿](https://zh.moegirl.org/战舰少女:约翰斯顿) [舰队Collection:约翰斯顿](https://zh.moegirl.org/舰队Collection:约翰斯顿) |
 | maestrale | 西北风 |  | [舰队Collection:西北风](https://zh.moegirl.org/舰队Collection:西北风) |
 | fletcher | 弗莱彻 | 美国海军弗莱彻级驱逐舰首舰弗莱彻（USS Fletcher DD-445） | [碧蓝航线:弗莱彻](https://zh.moegirl.org/碧蓝航线:弗莱彻) [战舰少女:弗莱彻](https://zh.moegirl.org/战舰少女:弗莱彻) [舰队Collection:弗莱彻](https://zh.moegirl.org/舰队Collection:弗莱彻) |
@@ -472,15 +473,15 @@ example:
 | belfast | 贝尔法斯特 | 英国海军的贝尔法斯特号轻巡洋舰（ HMS Belfast (C35)） | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org/战舰少女:贝尔法斯特) |
 | illustrious | 光辉 | 英国海军的光辉号装甲航空母舰（HMS Illustrious R.87） | [碧蓝航线:光辉](https://zh.moegirl.org/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org/战舰少女:光辉) |
 | terror | 恐怖 | 英国海军的恐怖号浅水重炮舰（HMS Terror (I03)） | [碧蓝航线:恐怖](https://zh.moegirl.org/碧蓝航线:恐怖) |
-| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服)) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服)) |
-| laffey | 拉菲 | 在所有服务器中均为初始可选角色 | [碧蓝航线:拉菲](https://zh.moegirl.org/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org/战舰少女:拉菲(DD-459)) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org/战舰少女:拉菲(DD-724)) |
+| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服)) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服))|
+| laffey | 拉菲 | 美国海军本森级驱逐舰七号舰拉菲号（USS Laffey DD-459） | [碧蓝航线:拉菲](https://zh.moegirl.org/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org/战舰少女:拉菲%28DD-459%29) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org/战舰少女:拉菲%28DD-724%29) |
 | eldridge | 埃尔德里奇 | 美国海军坎农级护航驱逐舰埃尔德里奇号（USS Eldridge (DE-173)） | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) [战舰少女:德里](https://zh.moegirl.org/战舰少女:德里) |
 | prince of wales | 威尔士亲王 | 英国海军的威尔士亲王号战列舰（HMS Prince of Wales 53） | [碧蓝航线:威尔士亲王](https://zh.moegirl.org/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org/战舰少女:威尔士亲王) |
-| sheffield | 谢菲尔德 | 英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)）英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)） | [碧蓝航线:谢菲尔德](https://zh.moegirl.org/碧蓝航线:谢菲尔德) [碧蓝航线:谢菲尔德(μ兵装)](https://zh.moegirl.org/碧蓝航线:谢菲尔德(μ兵装)) [战舰少女:谢菲尔德](https://zh.moegirl.org/战舰少女:谢菲尔德) |
+| sheffield | 谢菲尔德 | 英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)）英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)） | [碧蓝航线:谢菲尔德](https://zh.moegirl.org/碧蓝航线:谢菲尔德) [碧蓝航线:谢菲尔德%28μ兵装%29](https://zh.moegirl.org/碧蓝航线:谢菲尔德%28μ兵装%29) [战舰少女:谢菲尔德](https://zh.moegirl.org/战舰少女:谢菲尔德) |
 | ping hai | 平海 | 中华民国海军的平海号轻巡洋舰(Ping Hai) | [碧蓝航线:平海](https://zh.moegirl.org/碧蓝航线:平海) [战舰少女:平海](https://zh.moegirl.org/战舰少女:平海) |
 | ning hai | 宁海 | 中华民国海军的宁海号轻巡洋舰 | [碧蓝航线:宁海](https://zh.moegirl.org/碧蓝航线:宁海) [战舰少女:宁海](https://zh.moegirl.org/战舰少女:宁海) |
-| formidable | 可畏 | 同名的英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67)）  | [碧蓝航线:可畏](https://zh.moegirl.org/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org/战舰少女:可畏) |
-| admiral hipper | 希佩尔海军上将 | 纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper） | [碧蓝航线:希佩尔海军上将](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将) [碧蓝航线:希佩尔海军上将(μ兵装)](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将(μ兵装)) [战舰少女:希佩尔海军上将](https://zh.moegirl.org/战舰少女:希佩尔海军上将) |
+| formidable | 可畏 | 英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67) |  [碧蓝航线:可畏](https://zh.moegirl.org/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org/战舰少女:可畏) |
+| admiral hipper | 希佩尔海军上将 | 纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper） | [碧蓝航线:希佩尔海军上将](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将) [碧蓝航线:希佩尔海军上将%28μ兵装%29](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将%28μ兵装%29) [战舰少女:希佩尔海军上将](https://zh.moegirl.org/战舰少女:希佩尔海军上将) |
 | portland | 波特兰 | 美国海军波特兰级重巡洋舰首舰波特兰号（ USS Portland (CA-33)） | [碧蓝航线:波特兰](https://zh.moegirl.org/碧蓝航线:波特兰) [战舰少女:波特兰](https://zh.moegirl.org/战舰少女:波特兰) [战舰少女:波特](https://zh.moegirl.org/战舰少女:波特) |
 | cygnet | 小天鹅 | 英国海军的小天鹅号驱逐舰（ HMS Cygnet (H83)） | [碧蓝航线:小天鹅](https://zh.moegirl.org/碧蓝航线:小天鹅) |
 | kent | 肯特 | 英国皇家海军肯特号重巡洋舰（ HMS Kent(54)） | [碧蓝航线:肯特](https://zh.moegirl.org/碧蓝航线:肯特) [战舰少女:肯特](https://zh.moegirl.org/战舰少女:肯特) |
@@ -494,14 +495,14 @@ example:
 | rodney | 罗德尼 | 英国海军的罗德尼号战列舰（ HMS Rodney (29)） | [碧蓝航线:罗德尼](https://zh.moegirl.org/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org/战舰少女:罗德尼) |
 | enterprise | 企业 | 美国海军约克城级航空母舰二号舰企业号（ USS Enterprise (CV-6)） | [碧蓝航线:企业](https://zh.moegirl.org/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org/战舰少女:企业) |
 | queen elizabeth | 伊丽莎白女王 | 英国海军的伊丽莎白女王号战列舰（HMS Queen Elizabeth (1913)） | [碧蓝航线:伊丽莎白女王](https://zh.moegirl.org/碧蓝航线:伊丽莎白女王) [战舰少女:伊丽莎白女王](https://zh.moegirl.org/战舰少女:伊丽莎白女王) |
-| victorious | 胜利 | 同名的英国皇家海军的胜利号装甲航空母舰（HMS Victorious R38）  | [碧蓝航线:胜利](https://zh.moegirl.org/碧蓝航线:胜利) |
+| victorious | 胜利 | 同名的英国皇家海军的胜利号装甲航空母舰（HMS Victorious R38） | [碧蓝航线:胜利](https://zh.moegirl.org/碧蓝航线:胜利) |
 | ajax | 阿贾克斯 | 英国海军的阿贾克斯号轻巡洋舰（ HMS Ajax (22)） | [碧蓝航线:阿贾克斯](https://zh.moegirl.org/碧蓝航线:阿贾克斯) [战舰少女:阿贾克斯](https://zh.moegirl.org/战舰少女:阿贾克斯) |
-| cleveland | 克利夫兰 | 美国海军克利夫兰级轻巡洋舰首舰克利夫兰号（USS Cleveland CL-55) | [碧蓝航线:克利夫兰](https://zh.moegirl.org/碧蓝航线:克利夫兰) [碧蓝航线:克利夫兰(μ兵装)](https://zh.moegirl.org/碧蓝航线:克利夫兰(μ兵装)) [战舰少女:克利夫兰](https://zh.moegirl.org/战舰少女:克利夫兰) |
+| cleveland | 克利夫兰 | 美国海军克利夫兰级轻巡洋舰首舰克利夫兰号（USS Cleveland CL-55) | [碧蓝航线:克利夫兰](https://zh.moegirl.org/碧蓝航线:克利夫兰) [碧蓝航线:克利夫兰%28μ兵装%29](https://zh.moegirl.org/碧蓝航线:克利夫兰%28μ兵装%29) [战舰少女:克利夫兰](https://zh.moegirl.org/战舰少女:克利夫兰) |
 | honolulu | 火奴鲁鲁 | 美国海军布鲁克林级轻巡洋舰七号舰火奴鲁鲁号（USS Honolulu(CL-48)，又译“檀香山号”） | [碧蓝航线:火奴鲁鲁](https://zh.moegirl.org/碧蓝航线:火奴鲁鲁) |
 | z46 | Z46 | 纳粹德国海军1936C型驱逐舰Z46 | [碧蓝航线:Z46](https://zh.moegirl.org/碧蓝航线:Z46) [战舰少女:Z46](https://zh.moegirl.org/战舰少女:Z46) |
 | z23 | Z23 | 德国海军1936A级Z23驱逐舰(German destroyer Z23) | [碧蓝航线:Z23](https://zh.moegirl.org/碧蓝航线:Z23) |
 | tirpitz | 提尔比茨 | 纳粹德国海军的提尔比茨号战列舰（Tirpitz (Schiff, 1941)） | [碧蓝航线:提尔比茨](https://zh.moegirl.org/碧蓝航线:提尔比茨) [战舰少女:提尔比茨](https://zh.moegirl.org/战舰少女:提尔比茨) |
-| duke of york | 约克公爵 | 英国海军的约克公爵号战列舰（HMS Duke of York (17)） | [碧蓝航线:约克公爵](https://zh.moegirl.org/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org/战舰少女:约克公爵) [战舰少女:约克公爵(派趣服)](https://zh.moegirl.org/战舰少女:约克公爵(派趣服)) |
+| duke of york | 约克公爵 | 英国海军的约克公爵号战列舰（HMS Duke of York (17)） | [碧蓝航线:约克公爵](https://zh.moegirl.org/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org/战舰少女:约克公爵) [战舰少女:约克公爵(派趣服)](https://zh.moegirl.org/战舰少女:约克公爵%28派趣服%29) |
 | bache | 贝奇 | 美国海军弗莱彻级驱逐舰13号舰贝奇号(USS Bache (DD-470)) | [碧蓝航线:贝奇](https://zh.moegirl.org/碧蓝航线:贝奇) |
 | sirius | 天狼星 | 英国海军的天狼星号轻巡洋舰（HMS Sirius (82)） | [碧蓝航线:天狼星](https://zh.moegirl.org/碧蓝航线:天狼星) [战舰少女:天狼星](https://zh.moegirl.org/战舰少女:天狼星) |
 | sims | 西姆斯 | 美国海军西姆斯级驱逐舰首舰西姆斯(USS Sims(DD-409)) | [碧蓝航线:西姆斯](https://zh.moegirl.org/碧蓝航线:西姆斯) |
@@ -522,7 +523,7 @@ example:
 |  | 葛城 |  | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
 |  | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org/战舰少女:狮(战列巡洋舰)) |
-| jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org/圣女(Fate)) [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德) |
+| jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org/圣女%28Fate%29) [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德) |
 | kagero | 阳炎 | 旧日本帝国海军的阳炎号驱逐舰（陽炎(陽炎型駆逐艦)） | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎) |
 | el condor pasa | 神鹰 |  | [赛马娘:神鹰](https://zh.moegirl.org/神鹰) [战舰少女:神鹰](https://zh.moegirl.org/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org/舰队Collection:神鹰) |
 | perth | 珀斯 |  | [舰队Collection:珀斯](https://zh.moegirl.org/舰队Collection:珀斯) |
