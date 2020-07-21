@@ -473,14 +473,14 @@ example:
 | belfast | 贝尔法斯特 | 英国海军的贝尔法斯特号轻巡洋舰（ HMS Belfast (C35)） | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org/战舰少女:贝尔法斯特) |
 | illustrious | 光辉 | 英国海军的光辉号装甲航空母舰（HMS Illustrious R.87） | [碧蓝航线:光辉](https://zh.moegirl.org/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org/战舰少女:光辉) |
 | terror | 恐怖 | 英国海军的恐怖号浅水重炮舰（HMS Terror (I03)） | [碧蓝航线:恐怖](https://zh.moegirl.org/碧蓝航线:恐怖) |
-| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服)) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服))|
+| vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼(派趣服)) [战舰少女:吸血鬼](https://zh.moegirl.org/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org/战舰少女:吸血鬼%28派趣服%29)|
 | laffey | 拉菲 | 美国海军本森级驱逐舰七号舰拉菲号（USS Laffey DD-459） | [碧蓝航线:拉菲](https://zh.moegirl.org/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org/战舰少女:拉菲%28DD-459%29) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org/战舰少女:拉菲%28DD-724%29) |
 | eldridge | 埃尔德里奇 | 美国海军坎农级护航驱逐舰埃尔德里奇号（USS Eldridge (DE-173)） | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org/碧蓝航线:埃尔德里奇) [战舰少女:德里](https://zh.moegirl.org/战舰少女:德里) |
 | prince of wales | 威尔士亲王 | 英国海军的威尔士亲王号战列舰（HMS Prince of Wales 53） | [碧蓝航线:威尔士亲王](https://zh.moegirl.org/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org/战舰少女:威尔士亲王) |
 | sheffield | 谢菲尔德 | 英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)）英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)） | [碧蓝航线:谢菲尔德](https://zh.moegirl.org/碧蓝航线:谢菲尔德) [碧蓝航线:谢菲尔德%28μ兵装%29](https://zh.moegirl.org/碧蓝航线:谢菲尔德%28μ兵装%29) [战舰少女:谢菲尔德](https://zh.moegirl.org/战舰少女:谢菲尔德) |
 | ping hai | 平海 | 中华民国海军的平海号轻巡洋舰(Ping Hai) | [碧蓝航线:平海](https://zh.moegirl.org/碧蓝航线:平海) [战舰少女:平海](https://zh.moegirl.org/战舰少女:平海) |
 | ning hai | 宁海 | 中华民国海军的宁海号轻巡洋舰 | [碧蓝航线:宁海](https://zh.moegirl.org/碧蓝航线:宁海) [战舰少女:宁海](https://zh.moegirl.org/战舰少女:宁海) |
-| formidable | 可畏 | 英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67) |  [碧蓝航线:可畏](https://zh.moegirl.org/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org/战舰少女:可畏) |
+| formidable | 可畏 | 英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67) | [碧蓝航线:可畏](https://zh.moegirl.org/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org/战舰少女:可畏) |
 | admiral hipper | 希佩尔海军上将 | 纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper） | [碧蓝航线:希佩尔海军上将](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将) [碧蓝航线:希佩尔海军上将%28μ兵装%29](https://zh.moegirl.org/碧蓝航线:希佩尔海军上将%28μ兵装%29) [战舰少女:希佩尔海军上将](https://zh.moegirl.org/战舰少女:希佩尔海军上将) |
 | portland | 波特兰 | 美国海军波特兰级重巡洋舰首舰波特兰号（ USS Portland (CA-33)） | [碧蓝航线:波特兰](https://zh.moegirl.org/碧蓝航线:波特兰) [战舰少女:波特兰](https://zh.moegirl.org/战舰少女:波特兰) [战舰少女:波特](https://zh.moegirl.org/战舰少女:波特) |
 | cygnet | 小天鹅 | 英国海军的小天鹅号驱逐舰（ HMS Cygnet (H83)） | [碧蓝航线:小天鹅](https://zh.moegirl.org/碧蓝航线:小天鹅) |
@@ -522,7 +522,7 @@ example:
 |  | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)） | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
 |  | 葛城 |  | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
 |  | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
-| lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org/战舰少女:狮(战列巡洋舰)) |
+| lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org/战舰少女:狮%28战列巡洋舰%29) |
 | jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org/圣女%28Fate%29) [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德) |
 | kagero | 阳炎 | 旧日本帝国海军的阳炎号驱逐舰（陽炎(陽炎型駆逐艦)） | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎) |
 | el condor pasa | 神鹰 |  | [赛马娘:神鹰](https://zh.moegirl.org/神鹰) [战舰少女:神鹰](https://zh.moegirl.org/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org/舰队Collection:神鹰) |
