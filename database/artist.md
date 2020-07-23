@@ -1688,7 +1688,7 @@ example:
 | nanaroba hana | ななろば華 |  |  |
 | ouma | OUMA |  |  |
 | irie jyunn | 入江jyunn |  |  |
-| komeshiro kasu | 米白粕 |  |  |
+| komeshiro kasu | 米白粕 |  | [Twitter](https://twitter.com/kasu1923) [pixiv](https://www.pixiv.net/users/867590) |
 | gotou suzuna | 後藤スズナ |  |  |
 | pettanp | ペッタンP |  |  |
 | nanashi noizi | ななしのいぢ |  |  |
