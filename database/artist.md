@@ -2873,6 +2873,7 @@ example:
 | tsunano | つなの |  | [Twitter](https://twitter.com/nnonuit) [pixiv](https://www.pixiv.net/users/26240696) |
 | eizan | 影斬 |  | [pixiv](https://www.pixiv.net/users/1830438) |
 | akino kabocha | 秋野かぼちゃ |  |  |
+| kiyu fuyuki | 季結ふゆき |  | [Twitter](https://twitter.com/bukky_kancolle) [pixiv](https://www.pixiv.net/users/22970036) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
