@@ -3033,7 +3033,7 @@ example:
 | hop | 赫普 |  |  |
 | gloria | 小优 |  |  |
 | allister | 欧尼奥 |  |  |
-| bremerton | 布莱默顿 |  |  |
+| bremerton | 布莱默顿 | 布莱默顿（Bremerton/ブレマートン），原型为美国海军巴尔的摩级重巡洋舰九号舰布雷默顿号（USS Bremerton (CA-130)）。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:布莱默顿) |
 | klara | 克拉拉 |  |  |
 | dola | 多拉 | 年龄350岁的上位龙族[火龙（Fire Drake）]，在异世界某处远离人烟的洞窟中守护着财宝，偶尔会翱翔天际打发空余时间。<br><br>在守护财宝里偶然发现了现代的产物（手机等），现在化身为人类的姿态进行着VTuber活动。 | [萌娘百科](https://zh.moegirl.org/多拉%28虚拟UP主%29) |
 | moon | 美月 |  |  |
