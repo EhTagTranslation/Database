@@ -3096,6 +3096,7 @@ example:
 | natsumi hinata | 日向夏美 |  |  |
 | aki hinata | 日向秋 |  |  |
 | cheshire | 柴郡 | 柴郡（Cheshire/チェシャー）是bilibili代理的手机游戏《碧蓝航线》及其衍生作品的登场角色，其原型是英国海军的1940年15500吨重巡洋舰改型。 | [萌娘百科](https://zh.moegirl.org/碧蓝航线:柴郡) |
+| savage | 暴行 | 游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org/zh-cn/明日方舟:暴行) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
