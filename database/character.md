@@ -3101,6 +3101,7 @@ example:
 | aki shiina | 椎名亜樹 |  |  |
 | nana sunohara | 春原菜菜 |  |  |
 | ayaka sunohara | 春原彩花 |  |  |
+| yang guifei | 杨贵妃 | Fate/Grand Order中的登场角色。 | [https://fgo.wiki/w/杨贵妃](https://fgo.wiki/w/杨贵妃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
