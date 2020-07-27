@@ -3102,6 +3102,7 @@ example:
 | nana sunohara | 春原菜菜 |  |  |
 | ayaka sunohara | 春原彩花 |  |  |
 | yang guifei | 杨贵妃 | Fate/Grand Order中的登场角色。 | [https://fgo.wiki/w/杨贵妃](https://fgo.wiki/w/杨贵妃) |
+| akane shinjou | 新条茜 | 新条茜是由TRIGGER所制作的动画《SSSS.GRIDMAN》及其衍生作品的登场角色，粉发红瞳的女子高中生。 | [https://zh.moegirl.org.cn/新条茜](https://zh.moegirl.org.cn/新条茜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
