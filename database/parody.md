@@ -1480,6 +1480,7 @@ example:
 | fire emblem three houses | 火焰之纹章 风花雪月 |  |  |
 | kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。 | [萌娘百科](https://zh.moegirl.org/租借女友) (\*\*) |
 | 15 bishoujo hyouryuuki | 15美少女漂流记 |  |  |
+| ore no natsuyasumi | 我的暑假 | 《我的暑假》（日语：ぼくのなつやすみ）是2000年6月22日由索尼电脑娱乐发售的PlayStation平台专用游戏。制作公司为Millennium Kitchen。约1年后的2001年6月14日推出廉价版的PlayStation the Best版。 | [维基百科](https://zh.wikipedia.org/wiki/我的暑假) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
