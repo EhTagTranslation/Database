@@ -29,14 +29,19 @@ example:
 |  | ▼ 重复项合并 |  |  |
 | alice | 爱丽丝 | 因本名称过于普遍，建议使用更有特征的标签。<br><br>《爱丽丝梦游仙境》中的爱丽丝请使用`alice liddell`。 |  |
 | akane hino | 日野茜 | Smile 光之美少女！角色<br>偶像大师灰姑娘女孩 角色 |  |
+| ibuki | 伊吹 | ![闪乱神乐:伊吹](https://ehgt.org/16/35/163597e5bc47a1cf177e4d199a1b3850c6852c84-49556-384-480-jpg_l.jpg)  | [闪乱神乐:伊吹](https://zh.moegirl.org/闪乱神乐:伊吹) [碧蓝航线:伊吹](https://zh.moegirl.org/碧蓝航线:伊吹) |
 | yui | 由依 \| 结衣 | `Angel Beats` 角色<br>![图](https://ehgt.org/53/75/5375e7612aee494400025f6f70a43177df45cd73-11067561-4912-6996-jpg_l.jpg)<br><br>`Sword Art Online`角色，男女主的义女<br>![图](https://ehgt.org/b5/3a/b53a755dc9bd2828cc6e5ce90d74a9d96f027e0c-86616-960-544-jpg_l.jpg)![图](https://ehgt.org/2a/83/2a83864ab6dd535180f1e68ace9ab5f3357b2cbb-123272-960-544-jpg_l.jpg)![图](https://ehgt.org/4f/90/4f90948cc15585be12c99f7a6ff413081dd50ea0-90922-400-600-jpg_l.jpg)![图](https://ehgt.org/73/80/7380fc10fce3efa0be2aa819e71bab44948a9cf0-1060909-818-1157-jpg_l.jpg) |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br>闪乱神乐角色 ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
 | rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](https://ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](https://ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](https://ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 | [FGO中文Wiki](https://fgo.wiki/w/美杜莎) [萌娘百科](https://zh.moegirl.org/zh-hans/美杜莎%28Fate%29) |
-| maya | 摩耶 \| 玛妮亚 | No.061 摩耶![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 |  |
+| maya | 摩耶 \| 玛妮亚 | 旧日本帝国海军高雄级重巡洋舰三番舰摩耶号（摩耶 (重巡洋舰)）![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br><br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 | [碧蓝航线:摩耶](https://zh.moegirl.org/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org/舰队Collection:摩耶) |
+| jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org/圣女%28Fate%29) [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德) |
+| katsuragi | 葛城 |  | [闪乱神乐:葛城](https://zh.moegirl.org/闪乱神乐:葛城) [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
+| kasumi | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)）<br><br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
 | leo | 丽王 \| 利昂 | ![](https://ehgt.org/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br><br>`fire emblem if` 角色 |  |
-| haruna | 榛名 \| 春奈 | No.023 榛名![榛名](# "https://ehgt.org/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br><br>春奈是轻小说《`kore wa zombie desu ka`》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") |  |
+| haruna | 榛名 \| 春奈 | 旧日本帝国海军的榛名号战列巡洋舰（榛名（Haruna））![榛名](# "https://ehgt.org/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br><br>春奈是轻小说《`kore wa zombie desu ka`》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") | [碧蓝航线:榛名](https://zh.moegirl.org/碧蓝航线:榛名) [战舰少女:榛名](https://zh.moegirl.org/战舰少女:榛名) [舰队Collection:榛名](https://zh.moegirl.org/舰队Collection:榛名) |
 | chitose | 千岁 | ![](https://ehgt.org/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.acg.moe/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |  |
-| murakumo | 丛 \| 丛云 | ![](https://ehgt.org/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br>No.015 丛云![丛云](# "https://ehgt.org/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") |  |
+| murakumo | 丛 \| 丛云 | ![](https://ehgt.org/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br><br>No.015 丛云![丛云](# "https://ehgt.org/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") | [舰队Collection:丛云](https://zh.moegirl.org/舰队Collection:丛云) |
+| nachi | 那智 | ![](https://ehgt.org/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg)<br><br>旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
 | ram | 拉姆 | `re zero kara hajimeru isekai seikatsu`中的角色<br>![拉姆](https://ehgt.org/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg)<br><br>`hyperdimension neptunia`中的角色<br>![图](https://ehgt.org/d9/30/d930d4c3a74a3650fb43e0f00a5bcf57f350be59-2269588-4877-6950-jpg_l.jpg) |  |
 |  | ▲ 重复项合并 |  |  |
@@ -238,7 +243,6 @@ example:
 |  | ▲ Love Live 人物 |  |  |
 |  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org/舰队Collection/图鉴/舰娘#)，发现有\*\*200+\*\*个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org/碧蓝航线)要火 |  |
 | rensouhou-chan | 连装炮酱 |  |  |
-|  | 千岁 | No.049 (重复项) |  |
 | chiyoda | 千代田 | No.050 千代田![千代田](# "https://img.acg.moe/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg") |  |
 | akebono | 曙 | No.068 曙![曙](# "https://ehgt.org/cb/73/cb735b9a0ae422facb8b2b8e76fd72f211f1a0b5-774084-2104-3000-jpg_250.jpg") |  |
 | ushio | 潮 | No.070 |  |
@@ -260,9 +264,6 @@ example:
 | re-class | 战舰RE级 |  |  |
 | ta-class | 战舰TA级 |  |  |
 | wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  |
-| katsuragi | 葛城 |  | [闪乱神乐:葛城](https://zh.moegirl.org/闪乱神乐:葛城) [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
-| kasumi | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)） | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
-| nachi | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | teitoku | 提督 |  | [战舰少女:提督](https://zh.moegirl.org/战舰少女:提督) |
 | nagato | 长门 | 旧日本帝国海军的长门级战列舰1号舰“长门”（長門(戦艦)） | [碧蓝航线:长门](https://zh.moegirl.org/碧蓝航线:长门) [战舰少女:长门](https://zh.moegirl.org/战舰少女:长门) [舰队Collection:长门](https://zh.moegirl.org/舰队Collection:长门) |
 | mutsu | 陆奥 | 旧日本帝国海军的陆奥号战列舰（ 陆奥(战舰)） | [碧蓝航线:陆奥](https://zh.moegirl.org/碧蓝航线:陆奥) [战舰少女:陆奥](https://zh.moegirl.org/战舰少女:陆奥) [舰队Collection:陆奥](https://zh.moegirl.org/舰队Collection:陆奥) |
@@ -278,7 +279,6 @@ example:
 | shirayuki | 白雪 |  | [战舰少女:白雪](https://zh.moegirl.org/战舰少女:白雪) [舰队Collection:白雪](https://zh.moegirl.org/舰队Collection:白雪) |
 | hatsuyuki | 初雪 |  | [战舰少女:初雪](https://zh.moegirl.org/战舰少女:初雪) [舰队Collection:初雪](https://zh.moegirl.org/舰队Collection:初雪) |
 | miyuki | 深雪 |  | [战舰少女:深雪](https://zh.moegirl.org/战舰少女:深雪) [舰队Collection:深雪](https://zh.moegirl.org/舰队Collection:深雪) |
-|  | 丛云 |  | [舰队Collection:丛云](https://zh.moegirl.org/舰队Collection:丛云) |
 | isonami | 矶波 |  | [舰队Collection:矶波](https://zh.moegirl.org/舰队Collection:矶波) |
 | ayanami | 绫波 | 旧日本帝国海军的吹雪级特型驱逐舰十一号舰（特二绫波型一号舰）“绫波”（綾波(吹雪型)） | [碧蓝航线:绫波](https://zh.moegirl.org/碧蓝航线:绫波) [战舰少女:绫波](https://zh.moegirl.org/战舰少女:绫波) [舰队Collection:绫波](https://zh.moegirl.org/舰队Collection:绫波) |
 | shikinami | 敷波 |  | [战舰少女:敷波](https://zh.moegirl.org/战舰少女:敷波) [舰队Collection:敷波](https://zh.moegirl.org/舰队Collection:敷波) |
@@ -286,7 +286,6 @@ example:
 | kitakami | 北上 |  | [战舰少女:北上](https://zh.moegirl.org/战舰少女:北上) [战舰少女:北上](https://zh.moegirl.org/战舰少女:北上) [舰队Collection:北上](https://zh.moegirl.org/舰队Collection:北上) |
 | kongou | 金刚 | 旧日本帝国海军的金刚号战列巡洋舰（金刚（Kongou）） | [碧蓝航线:金刚](https://zh.moegirl.org/碧蓝航线:金刚) [战舰少女:金刚](https://zh.moegirl.org/战舰少女:金刚) [战舰少女:金刚](https://zh.moegirl.org/战舰少女:金刚) [舰队Collection:金刚](https://zh.moegirl.org/舰队Collection:金刚) |
 | hiei | 比睿 | 旧日本帝国海军的比叡号战列巡洋舰（比叡(戦艦)） | [碧蓝航线:比睿](https://zh.moegirl.org/碧蓝航线:比睿) [战舰少女:比睿](https://zh.moegirl.org/战舰少女:比睿) [舰队Collection:比睿](https://zh.moegirl.org/舰队Collection:比睿) |
-|  | 榛名 | 旧日本帝国海军的榛名号战列巡洋舰（榛名（Haruna）） | [碧蓝航线:榛名](https://zh.moegirl.org/碧蓝航线:榛名) [战舰少女:榛名](https://zh.moegirl.org/战舰少女:榛名) [舰队Collection:榛名](https://zh.moegirl.org/舰队Collection:榛名) |
 | kirishima | 雾岛 | 旧日本帝国海军的雾岛号战列巡洋舰（霧島(戦艦)） | [碧蓝航线:雾岛](https://zh.moegirl.org/碧蓝航线:雾岛) [战舰少女:雾岛](https://zh.moegirl.org/战舰少女:雾岛) [舰队Collection:雾岛](https://zh.moegirl.org/舰队Collection:雾岛) |
 | houshou | 凤翔 | 旧日本帝国海军凤翔号轻型航母（凤翔 (空母)） | [碧蓝航线:凤翔](https://zh.moegirl.org/碧蓝航线:凤翔) [战舰少女:凤翔](https://zh.moegirl.org/战舰少女:凤翔) [舰队Collection:凤翔](https://zh.moegirl.org/舰队Collection:凤翔) |
 | fusou | 扶桑 | 旧日本帝国海军的扶桑号战列舰（扶桑 (战舰)） | [碧蓝航线:扶桑](https://zh.moegirl.org/碧蓝航线:扶桑) [战舰少女:扶桑](https://zh.moegirl.org/战舰少女:扶桑) [战舰少女:扶桑](https://zh.moegirl.org/战舰少女:扶桑) [舰队Collection:扶桑](https://zh.moegirl.org/舰队Collection:扶桑) |
@@ -317,12 +316,10 @@ example:
 | kako | 加古 | 旧日本帝国海军古鹰级重巡洋舰二番舰加古号(かこ，kako)) | [碧蓝航线:加古](https://zh.moegirl.org/碧蓝航线:加古) [战舰少女:加古](https://zh.moegirl.org/战舰少女:加古) [舰队Collection:加古](https://zh.moegirl.org/舰队Collection:加古) |
 | aoba | 青叶 | 旧日本帝国海军青叶级重巡洋舰一番舰青叶号(青葉(重巡洋艦)) | [碧蓝航线:青叶](https://zh.moegirl.org/碧蓝航线:青叶) [战舰少女:青叶](https://zh.moegirl.org/战舰少女:青叶) [舰队Collection:青叶](https://zh.moegirl.org/舰队Collection:青叶) |
 | myoukou | 妙高 | 旧日本帝国海军妙高级重巡洋舰一番舰妙高号（妙高 (重巡洋舰)） | [碧蓝航线:妙高](https://zh.moegirl.org/碧蓝航线:妙高) [战舰少女:妙高](https://zh.moegirl.org/战舰少女:妙高) [舰队Collection:妙高](https://zh.moegirl.org/舰队Collection:妙高) |
-|  | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | ashigara | 足柄 | 旧日本帝国海军的足柄号重巡洋舰足柄 | [碧蓝航线:足柄](https://zh.moegirl.org/碧蓝航线:足柄) [舰队Collection:足柄](https://zh.moegirl.org/舰队Collection:足柄) |
 | haguro | 羽黑 |  | [战舰少女:羽黑](https://zh.moegirl.org/战舰少女:羽黑) [舰队Collection:羽黑](https://zh.moegirl.org/舰队Collection:羽黑) |
 | takao | 高雄 | 旧日本帝国海军高雄级重巡洋舰一番舰高雄号（高雄 (重巡洋舰)） | [碧蓝航线:高雄](https://zh.moegirl.org/碧蓝航线:高雄) [战舰少女:高雄](https://zh.moegirl.org/战舰少女:高雄) [舰队Collection:高雄](https://zh.moegirl.org/舰队Collection:高雄) |
 | atago | 爱宕 | 旧日本帝国海军高雄级重巡洋舰二番舰爱宕号（爱宕 (重巡洋舰)） | [碧蓝航线:爱宕](https://zh.moegirl.org/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org/舰队Collection:爱宕) |
-|  | 摩耶 | 旧日本帝国海军高雄级重巡洋舰三番舰摩耶号（摩耶 (重巡洋舰)） | [碧蓝航线:摩耶](https://zh.moegirl.org/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org/舰队Collection:摩耶) |
 | choukai | 鸟海 | 旧日本帝国海军高雄级重巡洋舰四番舰鸟海号（鳥海(重巡洋艦)） | [碧蓝航线:鸟海](https://zh.moegirl.org/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org/舰队Collection:鸟海) |
 | tone | 利根 |  | [舰队Collection:利根](https://zh.moegirl.org/舰队Collection:利根) |
 | chikuma | 筑摩 |  | [舰队Collection:筑摩](https://zh.moegirl.org/舰队Collection:筑摩) |
@@ -518,12 +515,7 @@ example:
 | kouwan seiki | 港湾栖姬 |  | [舰队Collection:港湾栖姬](https://zh.moegirl.org/舰队Collection:港湾栖姬) |
 | chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org/舰队Collection:中间栖姬) |
 | hikoujouki | 飞行场姬 |  | [舰队Collection:飞行场姬](https://zh.moegirl.org/舰队Collection:飞行场姬) |
-| ibuki | 伊吹 |  | [闪乱神乐:伊吹](https://zh.moegirl.org/闪乱神乐:伊吹) [碧蓝航线:伊吹](https://zh.moegirl.org/碧蓝航线:伊吹) |
-|  | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)） | [碧蓝航线:霞](https://zh.moegirl.org/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org/舰队Collection:霞) |
-|  | 葛城 |  | [舰队Collection:葛城](https://zh.moegirl.org/舰队Collection:葛城) |
-|  | 那智 | 旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org/舰队Collection:那智) |
 | lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org/战舰少女:狮%28战列巡洋舰%29) |
-| jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org/圣女%28Fate%29) [碧蓝航线:圣女贞德](https://zh.moegirl.org/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org/战舰少女:圣女贞德) |
 | kagero | 阳炎 | 旧日本帝国海军的阳炎号驱逐舰（陽炎(陽炎型駆逐艦)） | [碧蓝航线:阳炎](https://zh.moegirl.org/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org/舰队Collection:阳炎) |
 | el condor pasa | 神鹰 |  | [赛马娘:神鹰](https://zh.moegirl.org/神鹰) [战舰少女:神鹰](https://zh.moegirl.org/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org/舰队Collection:神鹰) |
 | perth | 珀斯 |  | [舰队Collection:珀斯](https://zh.moegirl.org/舰队Collection:珀斯) |
@@ -1066,7 +1058,6 @@ example:
 | kochou | 胡蝶 | ![](https://ehgt.org/86/d4/86d4979a905323d0b56008df91c5b5a1e4b0df99-47932-384-480-jpg_l.jpg) |  |
 | kumi | 九魅 | ![](https://ehgt.org/fe/18/fe189dc9a41cb15f15def22a1419745234b85ad5-47639-384-480-jpg_l.jpg) |  |
 | kuroudo | 藏人 | ![](https://ehgt.org/e9/f6/e9f669c7e1af68aed41e12562504acd6692abecb-329592-382-479-png_l.jpg) |  |
-|  | 丽王 | ![](https://ehgt.org/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg) |  |
 | mai | 舞 | ![](https://ehgt.org/02/26/0226a1d840aa4dcecd422510ca53c8aad2411367-41642-384-480-jpg_l.jpg) |  |
 | meimei | 美莓 | ![](https://ehgt.org/08/48/08484374879a66e75c43c4ab219b9674595f4876-38199-240-300-gif_l.jpg) |  |
 | minori | 美野里 | ![](https://ehgt.org/22/13/2213f193ac1fea2e07ca36f22814b171d39b50dd-288648-390-480-png_l.jpg) |  |
@@ -1074,7 +1065,6 @@ example:
 | misato | 深里 | ![](https://ehgt.org/b5/69/b56923c624ab02a111bb10f3672389a9e19f485c-47554-384-480-jpg_l.jpg) |  |
 | miyabi | 雅绯 | ![](https://ehgt.org/1b/a0/1ba05af02c838b1b33b1ecf598c29dcb00baf9f6-69389-288-360-jpg_l.jpg) |  |
 | motochika | 元亲 | ![](https://ehgt.org/b3/b3/b3b3ad79695ca5621fbeebf02d13cd087e7fc965-48961-320-400-jpg_l.jpg) |  |
-|  | 丛 | 重复项 |  |
 | muramasa | 村正 | ![](https://ehgt.org/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |  |
 | murasaki | 紫 | ![](https://ehgt.org/df/d9/dfd9507d79544bdfb8cb85e8ce1f5adacf5f0d6f-118976-206-257-png_l.jpg) |  |
 | naraku | 奈乐 | ![奈乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
