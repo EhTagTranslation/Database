@@ -751,12 +751,21 @@ example:
 | atelier series | 炼金工作室 | 《炼金工作室系列》（日语：アトリエシリーズ；英语：Atelier (series)）是由GUST制作的系列游戏。 |  |
 | atelier marie | 玛莉的工作室 | 《炼金工作室系列》A1 |  |
 | atelier elie | 艾莉的工作室 | 《炼金工作室系列》A2 |  |
+| atelier lilie | 莉莉的工作室 | 《炼金工作室系列》A3 |  |
+| atelier judie | 尤蒂的工作室 | 《炼金工作室系列》A4 |  |
 | atelier iris | 伊莉斯的工作室 | 《炼金工作室系列》A6~A8 |  |
 | mana khemia | 玛娜传奇 | 《炼金工作室系列》A9~A10 |  |
 | atelier rorona | 罗罗娜的工作室 | 《炼金工作室系列》A11 |  |
 | atelier totori | 托托莉的工作室 | 《炼金工作室系列》A12 |  |
 | atelier meruru | 梅露露的工作室 | 《炼金工作室系列》A13 |  |
+| atelier ayesha | 爱夏的工作室 | 《炼金工作室系列》A14 |  |
+| atelier escha and logy | 艾斯卡与罗吉的工作室 | 《炼金工作室系列》A15 |  |
 | atelier shallie | 夏莉的工作室 | 《炼金工作室系列》A16 |  |
+| atelier sophie | 索菲的工作室 | 《炼金工作室系列》A17 |  |
+| atelier firis | 菲莉丝的工作室 | 《炼金工作室系列》A18 |  |
+| atelier lulua | 露露亚的工作室 | 《炼金工作室系列》A20 |  |
+| atelier ryza | 莱莎的工作室 | 《炼金工作室系列》A21 |  |
+| atelier lina | 莉娜的工作室 | 《炼金工作室系列》外传A6 |  |
 |  | ↑炼金工作室 系列 |  |  |
 | my neighbor totoro | 龙猫 |  |  |
 | professor layton | 雷顿教授 |  |  |
@@ -1466,12 +1475,11 @@ example:
 | riddle joker | RIDDLE JOKER | RIDDLE JOKER是由柚子社制作的美少女游戏。本作是柚子社第十作，以超能力为主题。故事发生的主要舞台是一个研究超能力的现代化都市，大量的“星幽使”在此定居并活跃着，以主角以及其义妹潜入星幽使聚集的校园为主要线索，讲述主角与学生们发生的故事。 | [官网地址](http://www.yuzu-soft.com/products/riddle/index.html) [萌娘百科](https://zh.moegirl.org/RIDDLE_JOKER) (\*\*) |
 | grand theft auto | 侠盗猎车手 | 侠盗猎车手系列（英语：Grand Theft Auto，简称GTA，又译侠盗飞车、横行霸道）是一个动作冒险游戏系列，最早由大卫·琼斯和迈克·戴利（Mike Dailly）制作，之后由丹（Dan）和山姆·浩瑟（Sam Houser）兄弟以及游戏设计师柴克瑞·克拉克（Zachary Clarke）接手制作。本系列主要由位于苏格兰爱丁堡的Rockstar North（前身为DMA Design）制作，并由Rockstar Games发行。 | [维基百科](https://zh.wikipedia.org/wiki/俠盜獵車手系列) (\*) |
 | hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/一个人的OO小日子) (\*\*) |
-| atelier ryza | 莱莎的炼金工房 ～常暗女王与秘密藏身处～ |  |  |
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org/恋爱小行星) (\*\*) |
 | koi wa ameagari no you ni | 恋如雨止 |  |  |
 | fire emblem three houses | 火焰之纹章 风花雪月 |  |  |
 | kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。 | [萌娘百科](https://zh.moegirl.org/租借女友) (\*\*) |
-| 15 bishoujo hyouryuuki | 15美少女漂流記 |  |  |
+| 15 bishoujo hyouryuuki | 15美少女漂流记 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
