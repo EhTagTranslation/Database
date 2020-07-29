@@ -3095,6 +3095,7 @@ example:
 | akane shinjou | 新条茜 | 新条茜是由TRIGGER所制作的动画《SSSS.GRIDMAN》及其衍生作品的登场角色，粉发红瞳的女子高中生。 | [https://zh.moegirl.org.cn/新条茜](https://zh.moegirl.org.cn/新条茜) |
 | mirai kuriyama | 栗山未来 | 栗山未来（くりやま みらい，Kuriyama Mirai）是鸟居奈古梦创作的轻小说《境界的彼方》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/栗山未来](https://zh.moegirl.org.cn/栗山未来) |
 | akihito kanbara | 神原秋人 | 神原秋人（かんばら あきひと）是鸟居奈古梦创作的轻小说《境界的彼方》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/神原秋人](https://zh.moegirl.org.cn/神原秋人) |
+| ichika orimura | 织斑一夏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
