@@ -1482,6 +1482,7 @@ example:
 | 15 bishoujo hyouryuuki | 15美少女漂流记 |  |  |
 | ore no natsuyasumi | 我的暑假 | 《我的暑假》（日语：ぼくのなつやすみ）是2000年6月22日由索尼电脑娱乐发售的PlayStation平台专用游戏。制作公司为Millennium Kitchen。约1年后的2001年6月14日推出廉价版的PlayStation the Best版。 | [维基百科](https://zh.wikipedia.org/wiki/我的暑假) |
 | shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru | 这个勇者明明超强却过分慎重 | 《这个勇者明明超强却过分慎重》（日语：この勇者が俺TUEEEくせに慎重すぎる）是一部由日本作家土日月所创作的小说，插画由丰田琐织负责。标题里面俺TUEEE是日本网络用语，直译为“我超强”，可专指主角实力强劲大杀四方的一类作品，相当于中文网络中的“龙傲天”。 | [维基百科](https://zh.wikipedia.org/wiki/這個勇者明明超TUEEE卻過度謹慎) |
+| helltaker | Helltaker | 《Helltaker》是由vanripper、Patryk Karwat以及Mittsies合作开发的益智游戏，2020年5月11日于steam平台上架，对应Microsoft Windows、Linux、macOS平台。游戏上架前以短篇漫画的形式于twitter上宣传。 | [维基百科](https://zh.wikipedia.org/wiki/Helltaker) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
