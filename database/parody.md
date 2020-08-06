@@ -1484,6 +1484,7 @@ example:
 | shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru | 这个勇者明明超强却过分慎重 | 《这个勇者明明超强却过分慎重》（日语：この勇者が俺TUEEEくせに慎重すぎる）是一部由日本作家土日月所创作的小说，插画由丰田琐织负责。标题里面俺TUEEE是日本网络用语，直译为“我超强”，可专指主角实力强劲大杀四方的一类作品，相当于中文网络中的“龙傲天”。 | [维基百科](https://zh.wikipedia.org/wiki/這個勇者明明超TUEEE卻過度謹慎) |
 | helltaker | Helltaker | 《Helltaker》是由vanripper、Patryk Karwat以及Mittsies合作开发的益智游戏，2020年5月11日于steam平台上架，对应Microsoft Windows、Linux、macOS平台。游戏上架前以短篇漫画的形式于twitter上宣传。 | [维基百科](https://zh.wikipedia.org/wiki/Helltaker) |
 | cyborg kuro-chan | 超级酷乐猫 | 《超级酷乐猫》（日语：サイボーグクロちゃん）是由横内尚树所作的日本漫画，后被改编为电视动画和游戏软件。电视动画由1999年10月至2001年1月于东京电视网播放。<br>![](https://ehgt.org/0b/ef/0bef9ebcfd2ab967e3023090679c465fa2431f9c-2795327-2155-3029-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/超級小黑咪) (\*) |
+| oretachi ni tsubasa wa nai | 我们没有翅膀 | 《我们没有翅膀》（日语：俺たちに翼はない，港台译作“我们没有羽翼”）是Navel在2009年1月30日发售的18禁恋爱冒险游戏，副标题是“under the innocent sky”。此改编的电视动画在2011年4月3日由千叶电视台开始放送。 | [维基百科](https://zh.wikipedia.org/wiki/我们没有翅膀) (\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
