@@ -4,17 +4,17 @@
 [![Build status](../../workflows/build/badge.svg)](../../actions)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
-<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.azurewebsites.net/database/~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
-[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.azurewebsites.net/database/all/~badge)](https://editor.ehtt.now.sh/list/all)
-[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.azurewebsites.net/database/reclass/~badge)](https://editor.ehtt.now.sh/list/reclass)
-[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.azurewebsites.net/database/language/~badge)](https://editor.ehtt.now.sh/list/language)
-[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.azurewebsites.net/database/female/~badge)](https://editor.ehtt.now.sh/list/female)
-[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.azurewebsites.net/database/male/~badge)](https://editor.ehtt.now.sh/list/male)
-[![misc](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.azurewebsites.net/database/misc/~badge)](https://editor.ehtt.now.sh/list/misc)
-[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.azurewebsites.net/database/parody/~badge)](https://editor.ehtt.now.sh/list/parody)
-[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.azurewebsites.net/database/character/~badge)](https://editor.ehtt.now.sh/list/character)
-[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.azurewebsites.net/database/group/~badge)](https://editor.ehtt.now.sh/list/group)
-[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.azurewebsites.net/database/artist/~badge)](https://editor.ehtt.now.sh/list/artist)
+<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.herokuapp.com/database/~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
+[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.herokuapp.com/database/all/~badge)](https://editor.ehtt.now.sh/list/all)
+[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.herokuapp.com/database/reclass/~badge)](https://editor.ehtt.now.sh/list/reclass)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/language/~badge)](https://editor.ehtt.now.sh/list/language)
+[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.herokuapp.com/database/female/~badge)](https://editor.ehtt.now.sh/list/female)
+[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.herokuapp.com/database/male/~badge)](https://editor.ehtt.now.sh/list/male)
+[![misc](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.herokuapp.com/database/misc/~badge)](https://editor.ehtt.now.sh/list/misc)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.herokuapp.com/database/parody/~badge)](https://editor.ehtt.now.sh/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.herokuapp.com/database/character/~badge)](https://editor.ehtt.now.sh/list/character)
+[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.herokuapp.com/database/group/~badge)](https://editor.ehtt.now.sh/list/group)
+[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.herokuapp.com/database/artist/~badge)](https://editor.ehtt.now.sh/list/artist)
 
 ## 协议
 
