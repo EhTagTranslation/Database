@@ -32,7 +32,7 @@
 
 * [EhSyringe](../../../EhSyringe)  
   ![][plat-web]  
-  > 本项目的官方实现，提供 Chrome 和 Firefox 浏览器插件。
+  > 本项目的官方实现，提供 UserScript 和浏览器插件。
   
   E站注射器，将中文翻译注入到E站体内。
   
