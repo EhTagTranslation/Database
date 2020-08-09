@@ -2499,7 +2499,7 @@ example:
 | sakura miko | 樱巫女 | 樱巫女（さくらみこ／Sakura Miko）是从2018年8月1日在YouTube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org/common/1/10/SakuraMiko.png) | [萌娘百科](https://zh.moegirl.org/樱巫女) |
 | hoshimachi suisei | 星街彗星 | 星街彗星 （星街すいせい／Hoshimati Suisei）是一名2018年3月22日在Youtube作为个人势开始活动的`Vtuber`，后在2019年5月19日宣布加入成为业界团体hololive所属，先于音乐特化型品牌「INNK Music」所属，后转籍至「hololive」直接所属。<br><br>![](https://img.moegirl.org/common/c/c8/HoshimatiSuisei.png) | [萌娘百科](https://zh.moegirl.org/星街彗星) (\*\*) |
 |  |  | 1期 |  |
-| yozora mel | 夜空梅露 |  |  |
+| yozora mel | 夜空梅露 | 夜空梅露（夜空 メル／Yozora Mel）是从2018年5月13日在YouTube开始活动的`VTuber`（YouTube频道设立于2018年4月24日），所属业界团体hololive的一期生。<br>![](https://img.moegirl.org.cn/common/b/b6/YozoraMel.png) | [萌娘百科](https://zh.moegirl.org/夜空梅露) |
 | aki rosenthal | 亚绮·罗森塔尔 |  |  |
 | akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
 | shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
