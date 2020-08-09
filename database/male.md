@@ -197,6 +197,7 @@ example:
 | facial hair | 胡子 | 下巴，脸颊或上唇上有明显的毛发。 |  |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 |  |
 | headless | 无头骑士 | 没有头的生物，不包括参与者被斩首的情况。 |  |
+| hood | 帽兜 | 帽兜是一种帽子，覆盖大部分头部与颈部，有时甚至覆盖脸部。帽兜主要覆盖头部的顶部与侧部。 |  |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与`tiara`或`crown`等头饰混淆。 |  |
 | makeup | 化妆 | 在嘴唇，脸颊，睫毛或其他面部区域涂上可见的颜色以突出特定部位。不用于`clown`，因为这是显然的。 |  |
 | kemonomimi | 兽耳 | 有动物耳朵的角色，有时还有一条尾巴。不应与`furry`混淆。 |  |
@@ -212,6 +213,7 @@ example:
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用`twintails`。 |  |
 | shaved head | 光头 | 只有发茬的头部。不应与`bald`混淆。 |  |
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与`ponytail`混淆。<br>![图](# "https://ehgt.org/8b/25/8b257a0bd05924548c279f6579d961ecade86240-684517-1024-576-png_l.jpg") |  |
+| very long hair | 超长发 | 大部分头发长度在肚脐以下或附近。由于被绑起来而无法达到该长度的头发不算。 |  |
 |  | === 头部 > 思维 === |  |  |
 | body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender bender`。 |  |
 | chloroform | 迷药 | 任何物质用于在没有使用暴力的情况下使人失去知觉。 可能导致`rape`或`sleeping`。 |  |
@@ -475,7 +477,8 @@ example:
 |  | === 液体 > 体液 === |  |  |
 | blood | 流血 | 大量流血（如从身体伤口）。不用为`guro`添加此标签。不用于`defloration`导致的流血。 |  |
 |  | ==== 液体 > 体液 > 精液 ==== |  |  |
-| bukkake | 精液覆盖 | 性主角被精液覆盖，一般不止一个人射精。不像颜射一般局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
+| apparel bukkake | 穿衣颜射 | 精液覆盖或装满穿着的衣服或其他配件。穿着的性用具（如`condom`、绳子等）不算。 |  |
+| bukkake | 颜射 | 性主角被精液覆盖，一般不止一个人射精。不局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
 | cum bath | 精液浴 | 浴缸、泳池或其他大容器装有精液，至少有一个人部分浸没在精液中。 |  |
 |  | ==== 液体 > 体液 > 排泄物 ==== |  |  |
 | low scat | 未通过排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
@@ -489,6 +492,7 @@ example:
 | rape | 强奸 | 强迫或非自愿性行为。 |  |
 |  | === 强迫 > 虐待 === |  |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
+| food on body | 男体盛 | 食物（尤其是寿司）放在裸露的身体上。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
 | human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于`milking`或繁殖。 通常涉及`bondage`。<br>![图](# "https://ehgt.org/05/54/0554ee554c6c968e71649186dda0698c2566af85-1152023-1063-1500-jpg_l.jpg") |  |
 | josou seme | 女装攻 | 一个异装癖或`tomgirl`在性行为中占据主导地位。<br>![图](# "https://ehgt.org/57/92/5792d8bc3dafad5c2395c00a29fc2adee47d93c3-703088-1024-576-png_l.jpg") |  |
