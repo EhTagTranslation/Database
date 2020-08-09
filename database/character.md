@@ -2501,7 +2501,7 @@ example:
 |  |  | 1期 |  |
 | yozora mel | 夜空梅露 | 夜空梅露（夜空 メル／Yozora Mel）是从2018年5月13日在YouTube开始活动的`VTuber`（YouTube频道设立于2018年4月24日），所属业界团体hololive的一期生。<br>![](https://img.moegirl.org.cn/common/b/b6/YozoraMel.png) | [萌娘百科](https://zh.moegirl.org/夜空梅露) |
 | aki rosenthal | 亚绮·罗森塔尔 | 亚绮·罗森塔尔（アキ・ローゼンタール／Aki Rosenthal）是从2018年6月8日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![](https://img.moegirl.org.cn/common/4/44/Aki_Rosenthal.png) | [萌娘百科](https://zh.moegirl.org/亚绮·罗森塔尔) |
-| akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org/common/d/d1/Akihaato_full.jpg) | [萌娘百科](https://zh.moegirl.org/赤井心) |
+| akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org.cn/common/b/bc/Akai_Haato.png) | [萌娘百科](https://zh.moegirl.org/赤井心) |
 | shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org/common/9/97/78408666_p0.png) | [萌娘百科](https://zh.moegirl.org/白上吹雪) |
 | natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![马自立](https://img.moegirl.org/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org/夏色祭) |
 |  |  | 2期 |  |
