@@ -1487,6 +1487,7 @@ example:
 | oretachi ni tsubasa wa nai | 我们没有翅膀 | 《我们没有翅膀》（日语：俺たちに翼はない，港台译作“我们没有羽翼”）是Navel在2009年1月30日发售的18禁恋爱冒险游戏，副标题是“under the innocent sky”。此改编的电视动画在2011年4月3日由千叶电视台开始放送。 | [维基百科](https://zh.wikipedia.org/wiki/我们没有翅膀) (\*) |
 | blade of the immortal | 无限之住人 | 《无限之住人》（日语：無限の住人，英语：Blade of the Immortal）是日本漫画家沙村广明的剑侠漫画作品。于2008年7月至12月播放改编电视动画、全13话。2019年5月底宣布制作新作动画，并于同年10月播放，副标题为IMMORTAL。 | [维基百科](https://zh.wikipedia.org/wiki/無限之住人) |
 | nande koko ni sensei ga | 为什么老师会在这里！？ | 《为什么老师会在这里！？》（日语：なんでここに先生が！？）是由日本漫画家苏募ロウ所创作的爱情喜剧少年漫画。最初以短篇形式在周刊Young Magazine2015年46号和2016年18、31、32号刊载，短篇刊载时名称为《Golden Times》。后在同杂志2016年46号～51号短期集中连载，并改为现名，2017年21号开始长期连载。2018年10月1号宣布电视动画化，于2019年4月7日播放。 | [维基百科](https://zh.wikipedia.org/wiki/為什麼老師會在這裡！？) |
+| what happens in vegas | 情迷拉斯维加斯 | 《情迷拉斯维加斯》（英语：What Happens in Vegas）是一部2008年上映的浪漫喜剧，由卡麦蓉·狄亚兹、艾希顿·库奇主演，20世纪福斯电影公司发行。电影的英文名称“What Happens in Vegas”是以拉斯维加斯的城是行销口号“What happens in Vegas, stays in Vegas”为命名。 | [维基百科](https://zh.wikipedia.org/wiki/頭彩冤家) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
