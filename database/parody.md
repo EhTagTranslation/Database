@@ -1485,7 +1485,7 @@ example:
 | helltaker | Helltaker | 《Helltaker》是由vanripper、Patryk Karwat以及Mittsies合作开发的益智游戏，2020年5月11日于steam平台上架，对应Microsoft Windows、Linux、macOS平台。游戏上架前以短篇漫画的形式于twitter上宣传。 | [维基百科](https://zh.wikipedia.org/wiki/Helltaker) |
 | cyborg kuro-chan | 超级酷乐猫 | 《超级酷乐猫》（日语：サイボーグクロちゃん）是由横内尚树所作的日本漫画，后被改编为电视动画和游戏软件。电视动画由1999年10月至2001年1月于东京电视网播放。<br>![](https://ehgt.org/0b/ef/0bef9ebcfd2ab967e3023090679c465fa2431f9c-2795327-2155-3029-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/超級小黑咪) (\*) |
 | oretachi ni tsubasa wa nai | 我们没有翅膀 | 《我们没有翅膀》（日语：俺たちに翼はない，港台译作“我们没有羽翼”）是Navel在2009年1月30日发售的18禁恋爱冒险游戏，副标题是“under the innocent sky”。此改编的电视动画在2011年4月3日由千叶电视台开始放送。 | [维基百科](https://zh.wikipedia.org/wiki/我们没有翅膀) (\*) |
-| blade of the immortal | 无限之住人 |  |  |
+| blade of the immortal | 无限之住人 | 《无限之住人》（日语：無限の住人，英语：Blade of the Immortal）是日本漫画家沙村广明的剑侠漫画作品。于2008年7月至12月播放改编电视动画、全13话。2019年5月底宣布制作新作动画，并于同年10月播放，副标题为IMMORTAL。 | [维基百科](https://zh.wikipedia.org/wiki/無限之住人) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
