@@ -3098,6 +3098,7 @@ example:
 | ichika orimura | 织斑一夏 |  |  |
 | chifuyu orimura | 织斑千冬 |  |  |
 | gray | 格蕾 | 埃尔梅罗二世（韦伯·维尔维特）的入室弟子，面容与saber相同，可使用圣枪伦戈米尼亚德 | [萌娘百科][https://zh.moegirl.org.cn/格蕾](https://zh.moegirl.org.cn/格蕾) |
+| cojanskaya | 高扬斯卡娅 | 玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [https://wiki.komica.org/T·V·柯楊斯卡雅](https://wiki.komica.org/T·V·柯楊斯卡雅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
