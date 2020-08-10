@@ -3097,6 +3097,7 @@ example:
 | akihito kanbara | 神原秋人 | 神原秋人（かんばら あきひと）是鸟居奈古梦创作的轻小说《境界的彼方》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/神原秋人](https://zh.moegirl.org.cn/神原秋人) |
 | ichika orimura | 织斑一夏 |  |  |
 | chifuyu orimura | 织斑千冬 |  |  |
+| gray | 格蕾 | 埃尔梅罗二世（韦伯·维尔维特）的入室弟子，面容与saber相同，可使用圣枪伦戈米尼亚德 | [萌娘百科][https://zh.moegirl.org.cn/格蕾](https://zh.moegirl.org.cn/格蕾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
