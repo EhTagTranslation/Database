@@ -2878,6 +2878,7 @@ example:
 | highlow | 廃狼 |  |  |
 | hanao. | 熊尾もふもふ |  |  |
 | otokura ringo | 乙倉りんご |  |  |
+| rougetu | 朧月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
