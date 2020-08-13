@@ -2876,6 +2876,7 @@ example:
 | kiyu fuyuki | 季結ふゆき |  | [Twitter](https://twitter.com/bukky_kancolle) [pixiv](https://www.pixiv.net/users/22970036) |
 | ankoman | ankoman | 一个画很多ntr、rbq的画师，短篇很多，作品中女性迅速母猪化 | [pixiv](https://www.pixiv.net/users/2004088) |
 | highlow | 廃狼 |  |  |
+| hanao. | 熊尾もふもふ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
