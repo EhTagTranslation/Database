@@ -1980,7 +1980,7 @@ example:
 | noripachi | のりパチ |  |  |
 | hatokonro | 鳩こんろ |  |  |
 | abe yoshitoshi | 安倍吉俊 |  |  |
-| son hee-joon | 손희준 |  |  |
+| son hee-joon | 손희준 | 233 |  |
 | herurun | へるるん |  |  |
 | hoshino | 星乃 |  |  |
 | zyugoya | 十五夜 |  |  |
