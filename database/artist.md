@@ -2887,6 +2887,7 @@ example:
 | aotsuki shinobu | 蒼月しのぶ |  | [Twitter](https://twitter.com/MayshWeb) [pixiv](https://www.pixiv.net/users/880794) |
 | oshima aki | 大島あき |  | [Twitter](https://twitter.com/oshimaakkyun) [pixiv](https://www.pixiv.net/users/30706775) |
 | kimino tomonari | 君野朋成 |  | [Twitter](https://twitter.com/kimino107) [pixiv](https://www.pixiv.net/users/150800) |
+| sune | sune |  | [Twitter](https://twitter.com/sune_01) [pixiv](https://www.pixiv.net/users/1169932) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
