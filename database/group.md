@@ -1888,6 +1888,7 @@ example:
 | sanshikisumire | さんしきすみれ |  |  |
 | beruennea | ベルエンネーア |  |  |
 | orange tile | オレンジタイル |  |  |
+| laminaria | LAMINARIA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
