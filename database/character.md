@@ -3103,7 +3103,7 @@ example:
 | marida cruz | 玛莉妲·库鲁斯\|普露12 |  | [https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
 | mizuki usami | 宇佐美瑞希 |  |  |
-| subaru uchimaki | 内卷昴 |  |  |
+| subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/内卷昴](https://zh.moegirl.org.cn/内卷昴) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
