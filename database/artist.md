@@ -2883,7 +2883,7 @@ example:
 | kurage modoki | くらげもどき |  | [Twitter](https://twitter.com/kuragemodoki) [pixiv](https://www.pixiv.net/users/130985) |
 | oozora wakaba | 大空若葉 |  | [Twitter](https://twitter.com/oozorawakaba) [pixiv](https://www.pixiv.net/users/76670) |
 | nigirimeshi | にぎりめし |  | [Twitter](https://twitter.com/onigirinigirime) [pixiv](https://www.pixiv.net/users/4316232) |
-| minami chisato | 南ちさと |  | [Twitter](https://twitter.com/coupe_minami) [pixiv](https://www.pixiv.net/users/24255) |
+| minami chisato | 南ちさと \| 有澤司 |  | [Twitter](https://twitter.com/coupe_minami) [pixiv](https://www.pixiv.net/users/24255) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
