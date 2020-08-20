@@ -1363,7 +1363,7 @@ example:
 | barlun | ばーるん |  |  |
 | kiyomiya ryo | 清宫凉 |  |  |
 | higata | HIGATA |  |  |
-| outou chieri | 樱桃千绘里 |  |  |
+| outou chieri | 樱桃千绘里 \| 無洗米 |  | [Twitter](https://twitter.com/5565313) [pixiv](https://www.pixiv.net/users/momochieri) |
 | hoshizaki hikaru | 星崎ひかる |  |  |
 | shinoda sanjuurou | 篠田参重郎 |  |  |
 | mimi mimizu | 実々みみず |  |  |
