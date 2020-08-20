@@ -2892,6 +2892,7 @@ example:
 | skylader | すかいれーだー |  | [Twitter](https://twitter.com/skylader) [pixiv](https://www.pixiv.net/users/4246074) |
 | topia | とぴあ |  | [Twitter](https://twitter.com/tpa425) [pixiv](https://www.pixiv.net/users/2827964) |
 | nakamura regura | 仲村レグラ |  | [Twitter](https://twitter.com/regura) [pixiv](https://www.pixiv.net/users/803848) |
+| narumiya | 鳴海也 |  | [Twitter](https://twitter.com/narumiya_safe) [pixiv](https://www.pixiv.net/users/450991) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
