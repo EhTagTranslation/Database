@@ -1881,6 +1881,7 @@ example:
 | kuma-tan flash | くまたんFlash! |  |  |
 | ryuu no kinyoubi | 龍の金曜日 |  |  |
 | kuusoubune | 空想舟 |  |  |
+| perorimeshi. | ぺろり飯。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
