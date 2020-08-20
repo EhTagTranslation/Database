@@ -1894,6 +1894,7 @@ example:
 | circle-fiore | サークルフィオレ |  |  |
 | popopo | ぽぽぽ |  |  |
 | toushitu catapult | 糖質過多ぱると |  |  |
+| ojopie sentimental | おじょぱいセンチメンタル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
