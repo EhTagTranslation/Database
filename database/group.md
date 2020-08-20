@@ -1889,6 +1889,7 @@ example:
 | beruennea | ベルエンネーア |  |  |
 | orange tile | オレンジタイル |  |  |
 | laminaria | LAMINARIA |  |  |
+| nanbou hitogakushiki | 南方ヒトガクシキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
