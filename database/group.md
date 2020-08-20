@@ -1893,6 +1893,7 @@ example:
 | narumiya | 成宮 |  |  |
 | circle-fiore | サークルフィオレ |  |  |
 | popopo | ぽぽぽ |  |  |
+| toushitu catapult | 糖質過多ぱると |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
