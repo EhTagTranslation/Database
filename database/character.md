@@ -3102,7 +3102,7 @@ example:
 | mineva lao zabi | 密涅瓦·劳·扎比（汤小美） | 米妮瓦·拉欧·萨比 （ミネバ・ラオ・ザビ / Mineva Lao Zabi，又译为米妮瓦或米妮芭，或汤小美）是动画版机动战士GUNDAM，机动战士Z GUNDAM，机动战士GUNDAM ZZ以及机动战士GUNDAM UC当中的登场人物。生于UC0079年9月2日，是德兹尔·萨比与妻子瑟娜之间的独生女。也是萨比家唯一在一年战争之后还存活的人物。声优：初代TV版与剧场版：无，TV版Ζ与ΖΖ当中为伊藤美纪，UC当中为藤村步。<br><br>阅读更多：薩比家（[https://zh.moegirl.org.cn/薩比家）](https://zh.moegirl.org.cn/薩比家）)<br>本文引自萌娘百科([https://zh.moegirl.org.cn](https://zh.moegirl.org.cn))，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0》协议。 | [https://zh.moegirl.org.cn/zh-hans/薩比家#米妮瓦·拉歐·薩比](https://zh.moegirl.org.cn/zh-hans/薩比家#米妮瓦·拉歐·薩比) |
 | marida cruz | 玛莉妲·库鲁斯\|普露12 |  | [https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
-| mizuki usami | 宇佐美瑞希 |  |  |
+| mizuki usami | 宇佐美瑞希 | 宇佐美瑞希是由いみぎむる所创作的漫画《这个美术社大有问题!》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/宇佐美瑞希](https://zh.moegirl.org.cn/宇佐美瑞希) |
 | subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/内卷昴](https://zh.moegirl.org.cn/内卷昴) |
 
 <!--TEMPLATE: 
