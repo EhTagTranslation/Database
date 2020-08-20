@@ -2879,6 +2879,7 @@ example:
 | hanao. | 熊尾もふもふ |  |  |
 | otokura ringo | 乙倉りんご |  |  |
 | rougetu | 朧月 |  |  |
+| ryuga syo | 龍牙翔 |  | [Twitter](https://twitter.com/syoryuga) [pixiv](https://www.pixiv.net/users/478717) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
