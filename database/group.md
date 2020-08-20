@@ -1891,6 +1891,7 @@ example:
 | laminaria | LAMINARIA |  |  |
 | nanbou hitogakushiki | 南方ヒトガクシキ |  |  |
 | narumiya | 成宮 |  |  |
+| circle-fiore | サークルフィオレ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
