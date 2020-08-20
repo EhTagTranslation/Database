@@ -1880,6 +1880,7 @@ example:
 | komadori nouen | こまどり農園 |  |  |
 | kuma-tan flash | くまたんFlash! |  |  |
 | ryuu no kinyoubi | 龍の金曜日 |  |  |
+| kuusoubune | 空想舟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
