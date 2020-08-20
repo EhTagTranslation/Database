@@ -1882,6 +1882,7 @@ example:
 | ryuu no kinyoubi | 龍の金曜日 |  |  |
 | kuusoubune | 空想舟 |  |  |
 | perorimeshi. | ぺろり飯。 |  |  |
+| coupe pain ginga | こっぺぱん銀河 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
