@@ -2886,6 +2886,7 @@ example:
 | minami chisato | 南ちさと \| 有澤司 |  | [Twitter](https://twitter.com/coupe_minami) [pixiv](https://www.pixiv.net/users/24255) |
 | aotsuki shinobu | 蒼月しのぶ |  | [Twitter](https://twitter.com/MayshWeb) [pixiv](https://www.pixiv.net/users/880794) |
 | oshima aki | 大島あき |  | [Twitter](https://twitter.com/oshimaakkyun) [pixiv](https://www.pixiv.net/users/30706775) |
+| kimino tomonari | 君野朋成 |  | [Twitter](https://twitter.com/kimino107) [pixiv](https://www.pixiv.net/users/150800) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
