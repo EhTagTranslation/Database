@@ -2884,6 +2884,7 @@ example:
 | oozora wakaba | 大空若葉 |  | [Twitter](https://twitter.com/oozorawakaba) [pixiv](https://www.pixiv.net/users/76670) |
 | nigirimeshi | にぎりめし |  | [Twitter](https://twitter.com/onigirinigirime) [pixiv](https://www.pixiv.net/users/4316232) |
 | minami chisato | 南ちさと \| 有澤司 |  | [Twitter](https://twitter.com/coupe_minami) [pixiv](https://www.pixiv.net/users/24255) |
+| aotsuki shinobu | 蒼月しのぶ |  | [Twitter](https://twitter.com/MayshWeb) [pixiv](https://www.pixiv.net/users/880794) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
