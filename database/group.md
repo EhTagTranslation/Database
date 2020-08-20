@@ -1890,6 +1890,7 @@ example:
 | orange tile | オレンジタイル |  |  |
 | laminaria | LAMINARIA |  |  |
 | nanbou hitogakushiki | 南方ヒトガクシキ |  |  |
+| narumiya | 成宮 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
