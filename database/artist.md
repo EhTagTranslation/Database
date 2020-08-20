@@ -2894,6 +2894,7 @@ example:
 | nakamura regura | 仲村レグラ |  | [Twitter](https://twitter.com/regura) [pixiv](https://www.pixiv.net/users/803848) |
 | narumiya | 鳴海也 |  | [Twitter](https://twitter.com/narumiya_safe) [pixiv](https://www.pixiv.net/users/450991) |
 | ekakibit | えかきびと |  | [Twitter](https://twitter.com/ekakibit) [pixiv](https://www.pixiv.net/users/19075) |
+| yuki | 雪 |  | [Twitter](https://twitter.com/card_ha_hirotta) [pixiv](https://www.pixiv.net/users/25228) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
