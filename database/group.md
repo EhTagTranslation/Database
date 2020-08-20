@@ -1883,6 +1883,7 @@ example:
 | kuusoubune | 空想舟 |  |  |
 | perorimeshi. | ぺろり飯。 |  |  |
 | coupe pain ginga | こっぺぱん銀河 |  |  |
+| kimi no tomodachi. | 君の友達。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
