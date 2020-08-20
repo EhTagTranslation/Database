@@ -1887,6 +1887,7 @@ example:
 | mugendai | 無限大 |  |  |
 | sanshikisumire | さんしきすみれ |  |  |
 | beruennea | ベルエンネーア |  |  |
+| orange tile | オレンジタイル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
