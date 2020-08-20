@@ -1879,6 +1879,7 @@ example:
 | ikkizuka | いっきづか |  |  |
 | komadori nouen | こまどり農園 |  |  |
 | kuma-tan flash | くまたんFlash! |  |  |
+| ryuu no kinyoubi | 龍の金曜日 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
