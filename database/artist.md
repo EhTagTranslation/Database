@@ -2898,6 +2898,7 @@ example:
 | tadano mezashi | 只野めざし |  | [Twitter](https://twitter.com/a_mezashi) [pixiv](https://www.pixiv.net/users/23304858) |
 | ojo | おじょ |  | [Twitter](https://twitter.com/ojo1209) [pixiv](https://www.pixiv.net/users/2298622) |
 | himino | ひみの |  | [Twitter](https://twitter.com/Himino0) [pixiv](https://www.pixiv.net/users/28286396) |
+| 6u | 6U☆ |  | [Twitter](https://twitter.com/6U_s) [pixiv](https://www.pixiv.net/users/94883) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
