@@ -2896,6 +2896,7 @@ example:
 | ekakibit | えかきびと |  | [Twitter](https://twitter.com/ekakibit) [pixiv](https://www.pixiv.net/users/19075) |
 | yuki | 雪 |  | [Twitter](https://twitter.com/card_ha_hirotta) [pixiv](https://www.pixiv.net/users/25228) |
 | tadano mezashi | 只野めざし |  | [Twitter](https://twitter.com/a_mezashi) [pixiv](https://www.pixiv.net/users/23304858) |
+| ojo | おじょ |  | [Twitter](https://twitter.com/ojo1209) [pixiv](https://www.pixiv.net/users/2298622) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
