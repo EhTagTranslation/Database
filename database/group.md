@@ -1886,6 +1886,7 @@ example:
 | kimi no tomodachi. | 君の友達。 |  |  |
 | mugendai | 無限大 |  |  |
 | sanshikisumire | さんしきすみれ |  |  |
+| beruennea | ベルエンネーア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
