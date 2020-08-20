@@ -1895,6 +1895,7 @@ example:
 | popopo | ぽぽぽ |  |  |
 | toushitu catapult | 糖質過多ぱると |  |  |
 | ojopie sentimental | おじょぱいセンチメンタル |  |  |
+| dokutoku no m | 独特のM |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
