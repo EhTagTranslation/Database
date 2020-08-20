@@ -2891,6 +2891,7 @@ example:
 | molgen | モルゲン |  | [Twitter](https://twitter.com/molgen46) [pixiv](https://www.pixiv.net/users/2197747) |
 | skylader | すかいれーだー |  | [Twitter](https://twitter.com/skylader) [pixiv](https://www.pixiv.net/users/4246074) |
 | topia | とぴあ |  | [Twitter](https://twitter.com/tpa425) [pixiv](https://www.pixiv.net/users/2827964) |
+| nakamura regura | 仲村レグラ |  | [Twitter](https://twitter.com/regura) [pixiv](https://www.pixiv.net/users/803848) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
