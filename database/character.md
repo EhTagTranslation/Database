@@ -3104,6 +3104,7 @@ example:
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
 | mizuki usami | 宇佐美瑞希 | 宇佐美瑞希是由いみぎむる所创作的漫画《这个美术社大有问题!》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/宇佐美瑞希](https://zh.moegirl.org.cn/宇佐美瑞希) |
 | subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/内卷昴](https://zh.moegirl.org.cn/内卷昴) |
+| sayla mass | 塞拉·玛斯 | 阿尔黛西亚·戴肯是矢立肇、富野由悠季所创作的动画《机动战士高达0079》及其衍生作品的登场角色。 | [https://mzh.moegirl.org.cn/zh-hans/阿尔黛西亚·戴肯](https://mzh.moegirl.org.cn/zh-hans/阿尔黛西亚·戴肯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
