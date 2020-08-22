@@ -1897,6 +1897,7 @@ example:
 | ojopie sentimental | おじょぱいセンチメンタル |  |  |
 | dokutoku no m | 独特のM |  |  |
 | watari laboratory | 渡里laboratory |  |  |
+| wappururun | わっぷるるん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
