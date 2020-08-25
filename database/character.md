@@ -3106,7 +3106,7 @@ example:
 | subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/内卷昴](https://zh.moegirl.org.cn/内卷昴) |
 | sayla mass | 塞拉·玛斯 | 阿尔黛西亚·戴肯是矢立肇、富野由悠季所创作的动画《机动战士高达0079》及其衍生作品的登场角色。 | [https://mzh.moegirl.org.cn/zh-hans/阿尔黛西亚·戴肯](https://mzh.moegirl.org.cn/zh-hans/阿尔黛西亚·戴肯) |
 | daisy mo | 墨小菊 | ![https://img.moegirl.org.cn/common/a/aa/14987284392711.jpg](https://img.moegirl.org.cn/common/a/aa/14987284392711.jpg)墨小菊是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。活力四射的邻家发小。 | [墨小菊](https://zh.moegirl.org.cn/墨小菊) |
-| violet wen | 文芷 | ![https://img.moegirl.org.cn/common/9/95/Https---image.cngal.org-upload-20170629-14987284322843.jpg](https://img.moegirl.org.cn/common/9/95/Https---image.cngal.org-upload-20170629-14987284322843.jpg)文芷是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。“高贵冷艳”的插班生同桌。 | [文芷 - 萌娘百科][https://zh.moegirl.org.cn/文芷](https://zh.moegirl.org.cn/文芷) |
+| violet wen | 文芷 | ![https://img.moegirl.org.cn/common/9/95/Https---image.cngal.org-upload-20170629-14987284322843.jpg](https://img.moegirl.org.cn/common/9/95/Https---image.cngal.org-upload-20170629-14987284322843.jpg)文芷是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。“高贵冷艳”的插班生同桌。 | [萌娘百科][https://zh.moegirl.org.cn/文芷](https://zh.moegirl.org.cn/文芷) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
