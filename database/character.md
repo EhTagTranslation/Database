@@ -3105,6 +3105,7 @@ example:
 | mizuki usami | 宇佐美瑞希 | 宇佐美瑞希是由いみぎむる所创作的漫画《这个美术社大有问题!》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/宇佐美瑞希](https://zh.moegirl.org.cn/宇佐美瑞希) |
 | subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/内卷昴](https://zh.moegirl.org.cn/内卷昴) |
 | sayla mass | 塞拉·玛斯 | 阿尔黛西亚·戴肯是矢立肇、富野由悠季所创作的动画《机动战士高达0079》及其衍生作品的登场角色。 | [https://mzh.moegirl.org.cn/zh-hans/阿尔黛西亚·戴肯](https://mzh.moegirl.org.cn/zh-hans/阿尔黛西亚·戴肯) |
+| daisy mo | 墨小菊 | 墨小菊是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。活力四射的邻家发小。 | [https://zh.moegirl.org.cn/墨小菊](https://zh.moegirl.org.cn/墨小菊) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
