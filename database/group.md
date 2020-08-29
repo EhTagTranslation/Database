@@ -1898,6 +1898,7 @@ example:
 | dokutoku no m | 独特のM |  |  |
 | watari laboratory | 渡里laboratory |  |  |
 | wappururun | わっぷるるん |  |  |
+| anzen chitai | 安全地帯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
