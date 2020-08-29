@@ -2904,6 +2904,7 @@ example:
 | jairou | ジャイロウ |  | [pixiv](https://www.pixiv.net/users/251730) [Twitter (R18)](https://twitter.com/jairoumk3) [Twitter (全年龄)](https://twitter.com/jairoumk4) |
 | hirune | 昼寝 |  |  |
 | nanatsuda | 七ツ田 |  |  |
+| fun bo | ふんぼ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
