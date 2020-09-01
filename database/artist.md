@@ -2905,6 +2905,7 @@ example:
 | hirune | 昼寝 |  |  |
 | nanatsuda | 七ツ田 |  |  |
 | fun bo | ふんぼ |  |  |
+| siseki hirame | 芝石 |  | [pixiv](https://www.pixiv.net/users/3143223) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
