@@ -2906,6 +2906,7 @@ example:
 | nanatsuda | 七ツ田 |  |  |
 | fun bo | ふんぼ |  |  |
 | siseki hirame | 芝石 |  | [pixiv](https://www.pixiv.net/users/3143223) |
+| nattou mazeo | 納豆まぜお |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
