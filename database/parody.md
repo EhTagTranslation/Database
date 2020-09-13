@@ -1490,6 +1490,7 @@ example:
 | what happens in vegas | 情迷拉斯维加斯 | 《情迷拉斯维加斯》（英语：What Happens in Vegas）是一部2008年上映的浪漫喜剧，由卡麦蓉·狄亚兹、艾希顿·库奇主演，20世纪福斯电影公司发行。电影的英文名称“What Happens in Vegas”是以拉斯维加斯的城是行销口号“What happens in Vegas, stays in Vegas”为命名。 | [维基百科](https://zh.wikipedia.org/wiki/頭彩冤家) |
 | ore o suki nano wa omae dake kayo | 喜欢本大爷的竟然就你一个？ | 《喜欢本大爷的竟然就你一个？》（日语：俺を好きなのはお前だけかよ）是骆驼写作、马口铁插画的日本轻小说。2017年2月于集英社的网络漫画网站《少年Jump＋》开始连载漫画，伊島ユウ作画。2018年10月在《电击文库25周年记念 秋之电击祭》的活动会场中宣布改编为电视动画，2019年10月2日在TOKYO MX播出。 | [维基百科](https://zh.wikipedia.org/zh/喜歡本大爺的竟然就妳一個？) |
 | tricolour lovestory | 三色△绘恋 | 《三色△绘恋》是武汉山百合文化传播有限公司旗下绘恋GALGAME制作组制作的一款国产galgame。 | [官网地址](https://www.hl-avg.com/)<br>[萌娘百科](https://zh.moegirl.org.cn/三色绘恋) |
+| mahjong soul | 雀魂麻将 | 《雀魂麻将》是猫粮工作室开发的一款多人在线日本竞技麻将网络游戏。 | [萌娘百科](https://zh.moegirl.org.cn/%E9%9B%80%E9%AD%82%E9%BA%BB%E5%B0%86) (**) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

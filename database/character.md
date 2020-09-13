@@ -681,7 +681,7 @@ example:
 | miria akagi | 赤城米莉亚 |  |  |
 |  | 爱野渚 |  |  |
 |  | 真锅斋 |  |  |
-| yui ootsuki | 大槻唯 |  |  |
+| yui ohtsuki | 大槻唯 |  |  |
 | yuki himekawa | 姬川友纪 |  |  |
 | yuzu kitami | 喜多见柚 |  |  |
 |  | 上田铃帆 |  |  |
@@ -721,7 +721,7 @@ example:
 |  | 首藤葵 |  |  |
 | sanae katagiri | 片桐早苗 |  |  |
 | yuko hori | 堀裕子 |  |  |
-|  | 西岛櫂 |  |  |
+| kai nishijima | 西岛櫂 |  |  |
 |  | 冴岛清美 |  |  |
 | risa matoba | 的场梨沙 |  |  |
 | tokiko zaizen | 财前时子 |  |  |
@@ -1206,6 +1206,7 @@ example:
 | oshizu murasame | 村雨静 | ![](https://ehgt.org/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |  |
 | kyouko kirisaki | 雾崎恭子 | ![](https://ehgt.org/2f/94/2f94ff605f0928e27dbaa85cd7e5a8fed35f43d8-1039336-2443-1750-jpg_l.jpg) |  |
 | kenichi saruyama | 猿山健一 |  |  |
+| shizu murasame | 村雨静 |  |  |
 |  | ▼ 食戟之灵 角色 |  |  |
 | erina nakiri | 薙切绘理奈 |  |  |
 | alice nakiri | 薙切爱丽丝 |  |  |
