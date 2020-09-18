@@ -3109,6 +3109,7 @@ example:
 | daisy mo | 墨小菊 | 墨小菊是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。活力四射的邻家发小。<br>![图](https://img.moegirl.org.cn/common/a/aa/14987284392711.jpg) | [萌娘百科](https://zh.moegirl.org.cn/墨小菊) |
 | violet wen | 文芷 | 文芷是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。“高贵冷艳”的插班生同桌。<br>![图](https://img.moegirl.org.cn/common/9/95/Https---image.cngal.org-upload-20170629-14987284322843.jpg) | [萌娘百科](https://zh.moegirl.org.cn/文芷) |
 | sunny chih | 迟菓 | 迟菓是山百合文化传播有限公司旗下绘恋Galgame制作组制作游戏《三色绘恋》及《三色绘恋S》中的登场角色，在《三色绘恋》中作为重要角色首次登场，是《三色绘恋S》中的女主角。<br>![图](https://img.moegirl.org.cn/common/1/19/Chiguo.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迟菓) |
+| sarah kerrigan | 莎拉·凯瑞甘 | 莎拉·露伊斯·凯瑞甘——也称为刀锋女王，是暴雪娱乐公司出品的即时战略游戏《星际争霸》系列中的主角之一。 | [https://baike.baidu.com/item/莎拉·凯瑞甘](https://baike.baidu.com/item/莎拉·凯瑞甘) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
