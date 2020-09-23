@@ -2910,6 +2910,7 @@ example:
 | yamago | 山後 |  |  |
 | hamon ai | 波紋愛 |  |  |
 | misaka12003 | 御坂12003 |  | [Twitter](https://twitter.com/misaka12003/)<br>[Twitter](https://twitter.com/MSK12003/)<br>[pixiv](https://www.pixiv.net/users/2864095) |
+| mayafufu -kakko- kashikoi | まやふふ(賢) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
