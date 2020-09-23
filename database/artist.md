@@ -2912,6 +2912,7 @@ example:
 | misaka12003 | 御坂12003 |  | [Twitter](https://twitter.com/misaka12003/)<br>[Twitter](https://twitter.com/MSK12003/)<br>[pixiv](https://www.pixiv.net/users/2864095) |
 | mayafufu -kakko- kashikoi | まやふふ(賢) |  |  |
 | yamanashi yuuya | 山梨ユウヤ |  |  |
+| ashinoue futomomo | 葦上太桃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
