@@ -2913,6 +2913,7 @@ example:
 | mayafufu -kakko- kashikoi | まやふふ(賢) |  |  |
 | yamanashi yuuya | 山梨ユウヤ |  |  |
 | ashinoue futomomo | 葦上太桃 |  |  |
+| echigoya takeru | 越後屋タケル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
