@@ -2914,6 +2914,7 @@ example:
 | yamanashi yuuya | 山梨ユウヤ |  |  |
 | ashinoue futomomo | 葦上太桃 |  |  |
 | echigoya takeru | 越後屋タケル |  |  |
+| kawauchi | 川内 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
