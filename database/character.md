@@ -3111,6 +3111,7 @@ example:
 | sunny chih | 迟菓 | 迟菓是山百合文化传播有限公司旗下绘恋Galgame制作组制作游戏《三色绘恋》及《三色绘恋S》中的登场角色，在《三色绘恋》中作为重要角色首次登场，是《三色绘恋S》中的女主角。<br>![图](https://img.moegirl.org.cn/common/1/19/Chiguo.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迟菓) |
 | sarah kerrigan | 莎拉·凯瑞甘 | 莎拉·露伊斯·凯瑞甘——也称为刀锋女王，是暴雪娱乐公司出品的即时战略游戏《星际争霸》系列中的主角之一。 | [https://baike.baidu.com/item/莎拉·凯瑞甘](https://baike.baidu.com/item/莎拉·凯瑞甘) |
 | ozymandias | 奥斯曼狄斯 | 奥斯曼狄斯（拉美西斯二世）是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/拉美西斯二世%28Fate%29](https://zh.moegirl.org.cn/拉美西斯二世%28Fate%29) |
+| paimon | 派蒙 | 派蒙是游戏《原神》的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [https://zh.moegirl.org.cn/派蒙%28原神%29](https://zh.moegirl.org.cn/派蒙%28原神%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
