@@ -1900,6 +1900,7 @@ example:
 | wappururun | わっぷるるん |  |  |
 | anzen chitai | 安全地帯 |  |  |
 | loli seiyouken | 萝莉西洋剑 | 社团名称 | [Twitter](https://twitter.com/PANBAI2) |
+| shimizuan | 清水庵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
