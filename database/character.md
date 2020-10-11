@@ -3118,6 +3118,7 @@ example:
 | elisa | 秋子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/秋子) |
 | misty | 小霞 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
 | alena | 安莉娜 |  |  |
+| reimi saionji | 蕾米 | 《星之海洋4》女主角 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
