@@ -3114,6 +3114,7 @@ example:
 | paimon | 派蒙 | 派蒙是游戏《原神》的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [https://zh.moegirl.org.cn/派蒙%28原神%29](https://zh.moegirl.org.cn/派蒙%28原神%29) |
 | hilbert | 斗也 | 斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
 | hilda | 斗子 | 斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) |
+| skyla | 风露 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
