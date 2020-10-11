@@ -3116,6 +3116,7 @@ example:
 | hilda | 斗子 | 斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) |
 | skyla | 风露 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
 | elisa | 秋子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/秋子) |
+| misty | 小霞 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
