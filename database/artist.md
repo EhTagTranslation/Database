@@ -2382,7 +2382,7 @@ example:
 | emine kendama | 遠峰犬玉 |  |  |
 | masami chie | 柾見ちえ |  |  |
 | ryuuki yumi | りゅうき夕海 |  |  |
-| nakano sora | 中乃空 |  |  |
+| nakano sora | 中乃空 |  | [pixiv](https://www.pixiv.net/users/63652) [Twitter](https://twitter.com/nakano_sora) |
 | napo | ナポ |  |  |
 | kazuki misaki | 数木美咲 |  |  |
 | nakata modem | 中田モデム |  |  |
