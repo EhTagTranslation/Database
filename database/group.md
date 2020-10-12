@@ -1902,7 +1902,7 @@ example:
 | loli seiyouken | 萝莉西洋剑 | 社团名称 | [Twitter](https://twitter.com/PANBAI2) |
 | shimizuan | 清水庵 |  |  |
 | sakusei kenkyuujo | 搾精研究所 |  |  |
-| in the sky | 中乃空 |  | [pixiv](https://www.pixiv.net/users/63652) |
+| in the sky | In The Sky |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
