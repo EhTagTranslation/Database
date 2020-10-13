@@ -3119,6 +3119,7 @@ example:
 | misty | 小霞 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
 | alena | 安莉娜 |  |  |
 | reimi saionji | 蕾米 | 《星之海洋4》女主角 |  |
+| maika sakuranomiya | 樱之宫莓香 | 樱之宫莓香是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
