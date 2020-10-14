@@ -1903,6 +1903,7 @@ example:
 | shimizuan | 清水庵 |  |  |
 | sakusei kenkyuujo | 搾精研究所 |  |  |
 | in the sky | In The Sky |  |  |
+| happy aroma | Happy Aroma |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
