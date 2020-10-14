@@ -2915,6 +2915,7 @@ example:
 | ashinoue futomomo | 葦上太桃 |  |  |
 | echigoya takeru | 越後屋タケル |  |  |
 | kawauchi | 川内 |  |  |
+| aoi yun | 蒼井ゆん |  | [Twitter](https://twitter.com/yunn0608) [pixiv](https://www.pixiv.net/users/1612914) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
