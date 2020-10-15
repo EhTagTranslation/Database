@@ -1904,6 +1904,7 @@ example:
 | sakusei kenkyuujo | 搾精研究所 |  |  |
 | in the sky | In The Sky |  |  |
 | happy aroma | Happy Aroma |  |  |
+| molamola | Molamola |  | [官方网站](https://nimoko.tumblr.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
