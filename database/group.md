@@ -1905,6 +1905,7 @@ example:
 | in the sky | In The Sky |  |  |
 | happy aroma | Happy Aroma |  |  |
 | molamola | Molamola |  | [官方网站](https://nimoko.tumblr.com) |
+| masochist high | マゾヒスト・ハイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
