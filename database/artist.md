@@ -2917,6 +2917,7 @@ example:
 | kawauchi | 川内 |  |  |
 | aoi yun | 蒼井ゆん |  | [Twitter](https://twitter.com/yunn0608) [pixiv](https://www.pixiv.net/users/1612914) |
 | nimoshi | にもし |  | [Twitter](https://twitter.com/nimono_) [pixiv](https://www.pixiv.net/users/145944) |
+| ennorei | 円之怜 |  | [Twitter](https://twitter.com/ennorei) [pixiv](https://www.pixiv.net/users/34873) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
