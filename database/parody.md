@@ -1492,6 +1492,7 @@ example:
 | tricolour lovestory | 三色△绘恋 | 《三色△绘恋》是武汉山百合文化传播有限公司旗下绘恋GALGAME制作组制作的一款国产galgame。 | [官网地址](https://www.hl-avg.com/)<br>[萌娘百科](https://zh.moegirl.org.cn/三色绘恋) |
 | mahjong soul | 雀魂麻将 | 《雀魂麻将》是猫粮工作室开发的一款多人在线日本竞技麻将网络游戏。 | [萌娘百科](https://zh.moegirl.org.cn/雀魂麻将) (\*\*) |
 | genshin impact | 原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏。 | [https://ys.mihoyo.com/](https://ys.mihoyo.com/) |
+| mobile suit gundam the 08th ms team | 机动战士高达 第08MS小队 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
