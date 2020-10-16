@@ -1908,6 +1908,7 @@ example:
 | masochist high | マゾヒスト・ハイ |  |  |
 | onsoku | おんそく |  | [官方网站](http://onsoku.dou-jin.com) |
 | ringoen | RINGOEN |  | [Twitter](https://twitter.com/ringoen_apple) [BOOTH](https://ringoen.booth.pm) |
+| koibito wa kuroi neko | コイビトハクロイネコ |  | [官方网站](http://kokorourahara.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
