@@ -2920,6 +2920,7 @@ example:
 | ennorei | 円之怜 |  | [Twitter](https://twitter.com/ennorei) [pixiv](https://www.pixiv.net/users/34873) |
 | yuuki sonisuke | ゆうきそにすけ |  | [Twitter](https://twitter.com/yuuki_sonisuke) [pixiv](https://www.pixiv.net/users/231765) |
 | kurororo rororo | くろろろろろろ |  | [Twitter](https://twitter.com/kurororo_rororo) [pixiv](https://www.pixiv.net/users/4462) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/60618789) |
+| junsui na fujunbutsu | 純粋な不純物 |  | [Twitter](https://twitter.com/parang9494) [pixiv](https://www.pixiv.net/users/21097691) [Twitch](https://www.twitch.tv/soonbul) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
