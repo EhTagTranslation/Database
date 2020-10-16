@@ -1906,6 +1906,7 @@ example:
 | happy aroma | Happy Aroma |  |  |
 | molamola | Molamola |  | [官方网站](https://nimoko.tumblr.com) |
 | masochist high | マゾヒスト・ハイ |  |  |
+| onsoku | おんそく |  | [官方网站](http://onsoku.dou-jin.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
