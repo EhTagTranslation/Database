@@ -3125,6 +3125,7 @@ example:
 | miu amano | 天野美雨 | 天野美雨是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 | hideri kanzaki | 神崎日照 | 神崎日照是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 | claudine saijo | 西条克洛迪娜 | 圣翔音乐学园99期生，演员育成科，学号11号。<br>父亲是日本人、母亲是法国人的混血儿。<br>拥有丰富的才能，多次以儿童演员身份在舞台上出演的舞台少女。<br>但自从入学时与真矢这一散发出强烈光辉的存在相遇以来，就一直视她为对手。<br>Revue武器是骑士剑，武器名：Etincelle de Fierte。<br>梦想是“超越天堂真矢，由我来成为最棒的明星！”<br>![Claudine Saijo profile](https://img.moegirl.org.cn/common/1/12/Claudine_Saijo_profile.png) | [萌娘百科](https://zh.moegirl.org.cn/西条克洛迪娜) [pixiv百科事典](https://dic.pixiv.net/a/西條クロディーヌ) |
+| deutschland | 德意志 | 纳粹德国海军的德意志号重巡洋舰（Deutschland (Schiff, 1931)） | [碧蓝航线:德意志](https://zh.moegirl.org.cn/碧蓝航线:德意志) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
