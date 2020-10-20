@@ -1917,6 +1917,7 @@ example:
 | rireba | リレバ |  | [官方网站](http://rireba.net/index.html) |
 | crerpsucre | CrerpSucre |  | [官方网站](https://crerp1113.wixsite.com/crerp-sucre) |
 | indo no kyuuden | いんどの宮殿! |  |  |
+| kacchuu musume | 甲冑娘 |  | [Twitter](https://twitter.com/kacchu_musume) [官方网站](https://kacchu.net) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
