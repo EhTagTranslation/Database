@@ -1493,6 +1493,7 @@ example:
 | mahjong soul | 雀魂麻将 | 《雀魂麻将》是猫粮工作室开发的一款多人在线日本竞技麻将网络游戏。 | [萌娘百科](https://zh.moegirl.org.cn/雀魂麻将) (\*\*) |
 | genshin impact | 原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏。 | [https://ys.mihoyo.com/](https://ys.mihoyo.com/) |
 | mobile suit gundam the 08th ms team | 机动战士高达 第08MS小队 |  |  |
+| hoshizora no memoria | 星空的记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/星空的回憶_-Wish_upon_a_shooting_star-#cite_note-shootingStar-1) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
