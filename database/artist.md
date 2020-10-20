@@ -2929,6 +2929,7 @@ example:
 | crerp | くれ～ぷ |  | [Twitter](https://twitter.com/crerp) [pixiv](https://www.pixiv.net/users/3862270) |
 | indozou | インド僧 |  | [Twitter](https://twitter.com/indozou) [pixiv](https://www.pixiv.net/users/390501) |
 | itou yuuji | イトウゆーじ |  | [Twitter](https://twitter.com/ug_110) [pixiv](https://www.pixiv.net/users/14192) |
+| yu-ki | ユーキ | ![ユーキ头像](https://i.jpg.dog/img/288c333808fefcb7d280ef5f4c5040d4.jpg) | [Twitter](https://twitter.com/yuukikagou) [pixiv](https://www.pixiv.net/users/454246) [Niconico](https://www.nicovideo.jp/user/19372224) [THBWiki](https://thwiki.cc/ユーキ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
