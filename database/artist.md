@@ -2923,6 +2923,7 @@ example:
 | junsui na fujunbutsu | 純粋な不純物 |  | [Twitter](https://twitter.com/parang9494) [pixiv](https://www.pixiv.net/users/21097691) [Twitch](https://www.twitch.tv/soonbul) |
 | takano saku | 嵩乃朔 | 日本女性漫画家，A型血，1978年9月10日生。 | [Twitter](https://twitter.com/takano_wf) [pixiv](https://www.pixiv.net/users/2675148) [中文维基](https://zh.wikipedia.org/wiki/吉岡榊) |
 | sikusiku | シクシク |  | [Twitter](https://twitter.com/sisikuku) [pixiv](https://www.pixiv.net/users/676308) |
+| shiguma | しぐま |  | [Twitter](https://twitter.com/SignalMass) [pixiv](https://www.pixiv.net/users/15281815) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/26957104) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
