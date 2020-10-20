@@ -1919,6 +1919,7 @@ example:
 | indo no kyuuden | いんどの宮殿! |  |  |
 | kacchuu musume | 甲冑娘 |  | [Twitter](https://twitter.com/kacchu_musume) [官方网站](https://kacchu.net) |
 | 110-groove | 110-GROOVE |  |  |
+| yuuki kagoubutsu | 有機化合物 |  | [官方网站](http://yuuki.kagou.main.jp) [THBWiki](https://thwiki.cc/有機化合物) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
