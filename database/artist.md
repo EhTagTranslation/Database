@@ -2927,6 +2927,7 @@ example:
 | hisona | ひそな |  | [Twitter](https://twitter.com/Hisona_) [pixiv](https://www.pixiv.net/users/173260) [个人网站](http://suoiretsym.com) |
 | nakatani nio | 仲谷鳰 |  | [Twitter](https://twitter.com/nakataniii) [pixiv](https://www.pixiv.net/users/123216) [个人网站](https://n-nio.net) [日文维基](https://ja.wikipedia.org/wiki/仲谷鳰) |
 | crerp | くれ～ぷ |  | [Twitter](https://twitter.com/crerp) [pixiv](https://www.pixiv.net/users/3862270) |
+| indozou | インド僧 |  | [Twitter](https://twitter.com/indozou) [pixiv](https://www.pixiv.net/users/390501) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
