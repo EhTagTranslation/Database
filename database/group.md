@@ -1923,6 +1923,7 @@ example:
 | a gokuburi | A極振り |  |  |
 | nori5rou | のり伍郎 |  |  |
 | sendouya | 千堂屋 |  |  |
+| kokusan jk | 国産JK |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
