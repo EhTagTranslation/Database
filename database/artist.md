@@ -2926,6 +2926,7 @@ example:
 | shiguma | しぐま |  | [Twitter](https://twitter.com/SignalMass) [pixiv](https://www.pixiv.net/users/15281815) [ニコニコ静画](https://seiga.nicovideo.jp/user/illust/26957104) |
 | hisona | ひそな |  | [Twitter](https://twitter.com/Hisona_) [pixiv](https://www.pixiv.net/users/173260) [个人网站](http://suoiretsym.com) |
 | nakatani nio | 仲谷鳰 |  | [Twitter](https://twitter.com/nakataniii) [pixiv](https://www.pixiv.net/users/123216) [个人网站](https://n-nio.net) [日文维基](https://ja.wikipedia.org/wiki/仲谷鳰) |
+| crerp | くれ～ぷ |  | [Twitter](https://twitter.com/crerp) [pixiv](https://www.pixiv.net/users/3862270) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
