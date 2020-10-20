@@ -2928,6 +2928,7 @@ example:
 | nakatani nio | 仲谷鳰 |  | [Twitter](https://twitter.com/nakataniii) [pixiv](https://www.pixiv.net/users/123216) [个人网站](https://n-nio.net) [日文维基](https://ja.wikipedia.org/wiki/仲谷鳰) |
 | crerp | くれ～ぷ |  | [Twitter](https://twitter.com/crerp) [pixiv](https://www.pixiv.net/users/3862270) |
 | indozou | インド僧 |  | [Twitter](https://twitter.com/indozou) [pixiv](https://www.pixiv.net/users/390501) |
+| itou yuuji | イトウゆーじ |  | [Twitter](https://twitter.com/ug_110) [pixiv](https://www.pixiv.net/users/14192) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
