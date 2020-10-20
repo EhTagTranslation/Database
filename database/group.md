@@ -1915,6 +1915,7 @@ example:
 | signalmass | SignalMass |  | [THBWiki](https://thwiki.cc/SignalMass) |
 | suoiretsym | スアリテスミ |  | [官方网站](http://suoiretsym.com) |
 | rireba | リレバ |  | [官方网站](http://rireba.net/index.html) |
+| crerpsucre | CrerpSucre |  | [官方网站](https://crerp1113.wixsite.com/crerp-sucre) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
