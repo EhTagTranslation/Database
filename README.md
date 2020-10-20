@@ -50,11 +50,11 @@
   ![][plat-uwp]  
   An UWP Client for <https://e-hentai.org>.
 
-* [EhViewer](//github.com/Mapaler/EhViewer)  
+* [EhViewer](//github.com/NekoInverter/EhViewer)  
   ![][plat-android]  
   An Unofficial E-Hentai Application for Android.
   
-  [原项目](//github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@Mapaler](//github.com/Mapaler)  维护数据库更新的修改版。
+  [原项目](//github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@NekoInverter](//github.com/NekoInverter)  维护的修改版。
 
 * [Dai-Hentai](//github.com/DaidoujiChen/Dai-Hentai)  
   ![][plat-ios]  
