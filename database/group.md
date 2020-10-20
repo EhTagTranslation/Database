@@ -1912,6 +1912,7 @@ example:
 | hz-box | Hz-box |  |  |
 | waterfall | Waterfall |  | [官方网站](http://unmoral.sakura.ne.jp/waterfall.html) |
 | amamori weekly | あまもりウィークリー |  |  |
+| signalmass | SignalMass |  | [THBWiki](https://thwiki.cc/SignalMass) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
