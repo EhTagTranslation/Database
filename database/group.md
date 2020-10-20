@@ -1922,6 +1922,7 @@ example:
 | yuuki kagoubutsu | 有機化合物 |  | [官方网站](http://yuuki.kagou.main.jp) [THBWiki](https://thwiki.cc/有機化合物) |
 | a gokuburi | A極振り |  |  |
 | nori5rou | のり伍郎 |  |  |
+| sendouya | 千堂屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
