@@ -1913,6 +1913,7 @@ example:
 | waterfall | Waterfall |  | [官方网站](http://unmoral.sakura.ne.jp/waterfall.html) |
 | amamori weekly | あまもりウィークリー |  |  |
 | signalmass | SignalMass |  | [THBWiki](https://thwiki.cc/SignalMass) |
+| suoiretsym | スアリテスミ |  | [官方网站](http://suoiretsym.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
