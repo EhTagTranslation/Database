@@ -1928,6 +1928,7 @@ example:
 | chika 7cm | 地下7cm |  |  |
 | secret society m | 秘密結社M |  |  |
 | kawaraya-koubou | 瓦屋工房 |  |  |
+| kamishiki | かみしき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
