@@ -1924,6 +1924,7 @@ example:
 | nori5rou | のり伍郎 |  |  |
 | sendouya | 千堂屋 |  |  |
 | kokusan jk | 国产JK | 国産JK |  |
+| istanbul high sox | イスタンブール・ハイソックス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
