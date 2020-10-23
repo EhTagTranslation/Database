@@ -1926,6 +1926,7 @@ example:
 | kokusan jk | 国产JK | 国産JK |  |
 | istanbul high sox | イスタンブール・ハイソックス |  |  |
 | chika 7cm | 地下7cm |  |  |
+| secret society m | 秘密結社M |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
