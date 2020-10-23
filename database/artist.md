@@ -2936,6 +2936,7 @@ example:
 | wasavi 8 | wasavi\_8 |  | [Twitter](https://twitter.com/wasavi_8) [pixiv](https://www.pixiv.net/users/1518356) |
 | kitahara aki | 北原亜希 |  | [Twitter](https://twitter.com/aki_kitahara) [pixiv](https://www.pixiv.net/users/511763) |
 | satsuki itsuka | 五月五日 |  | [Twitter](https://twitter.com/satsuki55) [pixiv](https://www.pixiv.net/users/67168) |
+| kawaraya | 瓦爺 |  | [Twitter](https://twitter.com/kawaraya_koh) [pixiv](https://www.pixiv.net/users/14074088) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
