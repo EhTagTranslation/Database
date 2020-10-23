@@ -2940,6 +2940,7 @@ example:
 | kamizuki shiki | 守月史貴 |  | [Twitter](https://twitter.com/Kamizuki_S1) [pixiv](https://www.pixiv.net/users/979621) |
 | ponekusan | ポネクサン |  | [Twitter](https://twitter.com/ponekusan) [pixiv](https://www.pixiv.net/users/84450) |
 | akasa tanu | 赤佐たぬ |  | [Twitter](https://twitter.com/akasatanu512) [pixiv](https://www.pixiv.net/users/583159) |
+| takeya | 竹や |  | [Twitter](https://twitter.com/taketatetakeya) [pixiv](https://www.pixiv.net/users/33810203) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
