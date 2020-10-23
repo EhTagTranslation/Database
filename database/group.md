@@ -1929,6 +1929,7 @@ example:
 | secret society m | 秘密結社M |  |  |
 | kawaraya-koubou | 瓦屋工房 |  |  |
 | kamishiki | かみしき |  |  |
+| popocket | ぽぽケット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
