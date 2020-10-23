@@ -2932,6 +2932,7 @@ example:
 | yu-ki | ユーキ | ![ユーキ头像](https://i.jpg.dog/img/288c333808fefcb7d280ef5f4c5040d4.jpg) | [Twitter](https://twitter.com/yuukikagou) [pixiv](https://www.pixiv.net/users/454246) [Niconico](https://www.nicovideo.jp/user/19372224) [THBWiki](https://thwiki.cc/ユーキ) |
 | gotoh juan | 後藤寿庵 |  |  |
 | binto | 瓶人 |  |  |
+| itaru | 至る |  | [Twitter](https://twitter.com/dokoni_itaru) [pixiv](https://www.pixiv.net/users/73580) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
