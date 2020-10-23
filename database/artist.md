@@ -2934,6 +2934,7 @@ example:
 | binto | 瓶人 |  |  |
 | itaru | 至る |  | [Twitter](https://twitter.com/dokoni_itaru) [pixiv](https://www.pixiv.net/users/73580) |
 | wasavi 8 | wasavi\_8 |  | [Twitter](https://twitter.com/wasavi_8) [pixiv](https://www.pixiv.net/users/1518356) |
+| kitahara aki | 北原亜希 |  | [Twitter](https://twitter.com/aki_kitahara) [pixiv](https://www.pixiv.net/users/511763) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
