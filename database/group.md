@@ -1930,6 +1930,7 @@ example:
 | kawaraya-koubou | 瓦屋工房 |  |  |
 | kamishiki | かみしき |  |  |
 | popocket | ぽぽケット |  |  |
+| tanu choco | たぬチョコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
