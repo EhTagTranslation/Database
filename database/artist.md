@@ -933,7 +933,7 @@ example:
 | hinahara emi | 雛原えみ |  |  |
 | hitori | 火鸟 |  |  |
 | karasuma yayoi | 烏丸やよい |  |  |
-| napata | なぱた |  |  |
+| napata | なぱた |  | [Twitter](https://twitter.com/okawr) [pixiv](https://www.pixiv.net/users/6757) |
 | nokin | のきん |  |  |
 | savan | SAVAN |  |  |
 | sugaishi | すがいし |  |  |
