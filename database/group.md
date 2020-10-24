@@ -1932,6 +1932,7 @@ example:
 | popocket | ぽぽケット |  |  |
 | tanu choco | たぬチョコ |  |  |
 | taketate kakeya | 竹立掛屋 |  |  |
+| rico-ba | Rico-ba |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
