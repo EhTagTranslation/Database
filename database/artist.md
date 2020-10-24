@@ -2947,6 +2947,7 @@ example:
 | aokoji | 青こじ |  | [pixiv](https://www.pixiv.net/users/573430) |
 | miginohito mitsuru | 右の人みつる |  | [Twitter](https://twitter.com/M_miginohito) [pixiv](https://www.pixiv.net/users/3802947) |
 | hidari kagetora | 左カゲトラ |  | [Twitter](https://twitter.com/hidarikagetora) [pixiv](https://www.pixiv.net/users/6199) |
+| suruga kuroitsu | 駿河クロイツ |  | [Twitter](https://twitter.com/surugakreuz) [pixiv](https://www.pixiv.net/users/2361021) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
