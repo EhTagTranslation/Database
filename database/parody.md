@@ -1494,6 +1494,7 @@ example:
 | genshin impact | 原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏。 | [https://ys.mihoyo.com/](https://ys.mihoyo.com/) |
 | mobile suit gundam the 08th ms team | 机动战士高达 第08MS小队 |  |  |
 | hoshizora no memoria | 星空的记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/星空的回憶_-Wish_upon_a_shooting_star-#cite_note-shootingStar-1) |
+| bocchi kaibutsu to moumoku shoujo | ぼっち怪物と盲目少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
