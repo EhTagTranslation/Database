@@ -1938,6 +1938,7 @@ example:
 | noramani | のらまに |  |  |
 | w no honnou | Wの本能 |  |  |
 | tokyo prominence tomato | 東京プロミネンストマト |  |  |
+| gainax | GAINAX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
