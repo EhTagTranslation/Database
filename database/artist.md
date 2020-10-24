@@ -2949,6 +2949,7 @@ example:
 | hidari kagetora | 左カゲトラ |  | [Twitter](https://twitter.com/hidarikagetora) [pixiv](https://www.pixiv.net/users/6199) |
 | suruga kuroitsu | 駿河クロイツ |  | [Twitter](https://twitter.com/surugakreuz) [pixiv](https://www.pixiv.net/users/2361021) |
 | mauve | Mauve |  | [Twitter](https://twitter.com/MauveSR) [pixiv](https://www.pixiv.net/users/564736) |
+| saeki sola | 佐伯ソラ |  | [Twitter](https://twitter.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
