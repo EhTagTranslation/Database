@@ -1940,6 +1940,7 @@ example:
 | tokyo prominence tomato | 東京プロミネンストマト |  |  |
 | gainax | GAINAX |  |  |
 | sister mytory | Sister Mytory |  |  |
+| yubisaki studio | ユビサキスタジオ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
