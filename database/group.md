@@ -1942,6 +1942,7 @@ example:
 | sister mytory | Sister Mytory |  |  |
 | yubisaki studio | ユビサキスタジオ |  |  |
 | wata punch | WATA★PUNCH |  |  |
+| poyopoyosky | ぽよぽよスカイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
