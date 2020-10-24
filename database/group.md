@@ -1935,6 +1935,7 @@ example:
 | rico-ba | Rico-ba |  |  |
 | futotta obasan | 太ったおばさん |  |  |
 | mainichi kenkou seikatsu | 毎日健康生活 |  |  |
+| noramani | のらまに |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
