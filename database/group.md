@@ -1933,6 +1933,7 @@ example:
 | tanu choco | たぬチョコ |  |  |
 | taketate kakeya | 竹立掛屋 |  |  |
 | rico-ba | Rico-ba |  |  |
+| futotta obasan | 太ったおばさん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
