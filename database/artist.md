@@ -2954,6 +2954,7 @@ example:
 | neji | 寝路 |  | [Twitter](https://twitter.com/nejirinbooo) [pixiv](https://www.pixiv.net/users/1244089) |
 | negom | ネゴム |  | [Twitter](https://twitter.com/ne_go_m) [pixiv](https://www.pixiv.net/users/13430429) |
 | opanchu | おぱんちゅ |  | [Twitter](https://twitter.com/whiteopanchu) [pixiv](https://www.pixiv.net/users/259683) |
+| xion | Xion |  | [Twitter](https://twitter.com/spacelaika13) [pixiv](https://www.pixiv.net/users/3850071) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
