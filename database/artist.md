@@ -2946,6 +2946,7 @@ example:
 | healthyman | ヘルシーマン |  | [Twitter](https://twitter.com/healthy8man) [pixiv](https://www.pixiv.net/users/6274073) |
 | aokoji | 青こじ |  | [pixiv](https://www.pixiv.net/users/573430) |
 | miginohito mitsuru | 右の人みつる |  | [Twitter](https://twitter.com/M_miginohito) [pixiv](https://www.pixiv.net/users/3802947) |
+| hidari kagetora | 左カゲトラ |  | [Twitter](https://twitter.com/hidarikagetora) [pixiv](https://www.pixiv.net/users/6199) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
