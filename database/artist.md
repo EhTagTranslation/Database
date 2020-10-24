@@ -2950,6 +2950,7 @@ example:
 | suruga kuroitsu | 駿河クロイツ |  | [Twitter](https://twitter.com/surugakreuz) [pixiv](https://www.pixiv.net/users/2361021) |
 | mauve | Mauve |  | [Twitter](https://twitter.com/MauveSR) [pixiv](https://www.pixiv.net/users/564736) |
 | saeki sola | 佐伯ソラ |  | [Twitter](https://twitter.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
+| tange suzuki | 丹下スズキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
