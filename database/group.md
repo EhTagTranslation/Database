@@ -1944,6 +1944,7 @@ example:
 | wata punch | WATA★PUNCH |  |  |
 | poyopoyosky | ぽよぽよスカイ |  |  |
 | world of pure | ワールドオブピュア |  |  |
+| hakusen | はくせん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
