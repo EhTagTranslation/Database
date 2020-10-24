@@ -1945,6 +1945,7 @@ example:
 | poyopoyosky | ぽよぽよスカイ |  |  |
 | world of pure | ワールドオブピュア |  |  |
 | hakusen | はくせん |  |  |
+| pietoro | ピエトロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
