@@ -1934,6 +1934,7 @@ example:
 | taketate kakeya | 竹立掛屋 |  |  |
 | rico-ba | Rico-ba |  |  |
 | futotta obasan | 太ったおばさん |  |  |
+| mainichi kenkou seikatsu | 毎日健康生活 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
