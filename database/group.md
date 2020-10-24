@@ -1943,6 +1943,7 @@ example:
 | yubisaki studio | ユビサキスタジオ |  |  |
 | wata punch | WATA★PUNCH |  |  |
 | poyopoyosky | ぽよぽよスカイ |  |  |
+| world of pure | ワールドオブピュア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
