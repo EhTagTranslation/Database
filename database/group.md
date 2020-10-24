@@ -1946,6 +1946,7 @@ example:
 | world of pure | ワールドオブピュア |  |  |
 | hakusen | はくせん |  |  |
 | pietoro | ピエトロ |  |  |
+| doukyara doukoukai | 同キャラ同好会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
