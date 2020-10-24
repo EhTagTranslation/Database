@@ -1246,7 +1246,7 @@ example:
 | momozukuku | ももずくく |  |  |
 | pija | ピジャ |  |  |
 | psycho | さいこ |  |  |
-| rico | Rico |  |  |
+| rico | Rico |  | [Twitter](https://twitter.com/ricounco) [pixiv](https://www.pixiv.net/users/2656190) |
 | tomonaga kenji | 友永ケンジ |  |  |
 | fukuyama naoto | 复八磨直兔 |  |  |
 | kurokawa otogi | 黒川おとぎ |  |  |
