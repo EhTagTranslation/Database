@@ -1937,6 +1937,7 @@ example:
 | mainichi kenkou seikatsu | 毎日健康生活 |  |  |
 | noramani | のらまに |  |  |
 | w no honnou | Wの本能 |  |  |
+| tokyo prominence tomato | 東京プロミネンストマト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
