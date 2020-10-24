@@ -2952,6 +2952,7 @@ example:
 | saeki sola | 佐伯ソラ |  | [Twitter](https://twitter.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
 | tange suzuki | 丹下スズキ |  |  |
 | neji | 寝路 |  | [Twitter](https://twitter.com/nejirinbooo) [pixiv](https://www.pixiv.net/users/1244089) |
+| negom | ネゴム |  | [Twitter](https://twitter.com/ne_go_m) [pixiv](https://www.pixiv.net/users/13430429) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
