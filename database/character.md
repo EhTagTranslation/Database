@@ -3137,6 +3137,7 @@ example:
 | keine kanzaki | 神崎桂音 |  |  |
 | aoi ichijou | 一条葵 |  |  |
 | lyrule | 莉露露 |  |  |
+| naofumi iwatani | 岩谷尚文 \| 盾之勇者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
