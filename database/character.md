@@ -3138,6 +3138,7 @@ example:
 | aoi ichijou | 一条葵 |  |  |
 | lyrule | 莉露露 |  |  |
 | naofumi iwatani | 岩谷尚文 \| 盾之勇者 |  |  |
+| melty q melromarc | 梅蒂·Q·梅洛马格 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
