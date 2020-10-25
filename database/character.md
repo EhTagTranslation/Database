@@ -3131,6 +3131,7 @@ example:
 | shirayuki tomoe | 白雪巴 | 白雪巴 （ 日语：白雪巴 / しらゆき ともえShirayuki Tomoe ）是一名从2019年11月30日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org/白雪巴) (\*\*) |
 | yui akamatsu | 赤松结衣 |  |  |
 | sat-chan | 小幸 |  |  |
+| kotoha | 青山琴叶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
