@@ -3139,6 +3139,7 @@ example:
 | lyrule | 莉露露 |  |  |
 | naofumi iwatani | 岩谷尚文 \| 盾之勇者 |  |  |
 | melty q melromarc | 梅蒂·Q·梅洛马格 |  |  |
+| mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
