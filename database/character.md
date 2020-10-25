@@ -3132,6 +3132,7 @@ example:
 | yui akamatsu | 赤松结衣 |  |  |
 | sat-chan | 小幸 |  |  |
 | kotoha | 青山琴叶 |  |  |
+| ringo oohoshi | 大星林檎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
