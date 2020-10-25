@@ -3141,6 +3141,7 @@ example:
 | melty q melromarc | 梅蒂·Q·梅洛马格 |  |  |
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 |  |  |
 | malty melromarc | 麦蒂·S·梅洛玛格 |  |  |
+| motoyasu kitamura | 北村元康 \| 枪之勇者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
