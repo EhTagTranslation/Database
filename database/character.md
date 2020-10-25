@@ -3135,6 +3135,7 @@ example:
 | ringo oohoshi | 大星林檎 |  |  |
 | shinobu sarutobi | 猿飞忍 |  |  |
 | keine kanzaki | 神崎桂音 |  |  |
+| aoi ichijou | 一条葵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
