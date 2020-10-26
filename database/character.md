@@ -3142,6 +3142,7 @@ example:
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 |  |  |
 | malty melromarc | 麦蒂·S·梅洛玛格 |  |  |
 | motoyasu kitamura | 北村元康 \| 枪之勇者 |  |  |
+| hana uzaki | 宇崎花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
