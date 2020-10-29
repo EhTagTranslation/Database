@@ -3147,6 +3147,7 @@ example:
 | shinichi sakurai | 樱井真一 |  |  |
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
+| hajime nagumo | 南云始 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
