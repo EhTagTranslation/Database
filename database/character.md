@@ -3153,6 +3153,7 @@ example:
 | kaori shirasaki | 白崎香织 |  |  |
 | hanako honda | 本田华子 |  |  |
 | olivia | 奥莉薇 |  |  |
+| kasumi nomura | 野村香纯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
