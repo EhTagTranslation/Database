@@ -3149,6 +3149,7 @@ example:
 | sieg | 齐格 |  |  |
 | hajime nagumo | 南云始 |  |  |
 | yue | 月 |  |  |
+| shea haulia | 希娅·哈乌利亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
