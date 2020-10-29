@@ -3148,6 +3148,7 @@ example:
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
 | hajime nagumo | 南云始 |  |  |
+| yue | 月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
