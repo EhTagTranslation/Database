@@ -3146,6 +3146,7 @@ example:
 | tsuki uzaki | 宇崎月 |  |  |
 | shinichi sakurai | 樱井真一 |  |  |
 | ryoko yoshida | 吉田良子 |  |  |
+| sieg | 齐格 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
