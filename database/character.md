@@ -3150,6 +3150,7 @@ example:
 | hajime nagumo | 南云始 |  |  |
 | yue | 月 |  |  |
 | shea haulia | 希娅·哈乌利亚 |  |  |
+| kaori shirasaki | 白崎香织 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
