@@ -646,7 +646,7 @@ example:
 |  | 梅木音叶 |  |  |
 | koume shirasaka | 白坂小梅 |  |  |
 |  | 岸部彩华 |  |  |
-|  | 氏家睦 |  |  |
+| mutsumi ujiie | 氏家睦 |  |  |
 |  | 西川保奈美 |  |  |
 | yume narumiya | 成宫由爱 |  |  |
 |  | 藤居朋 |  |  |
@@ -3137,11 +3137,11 @@ example:
 | keine kanzaki | 神崎桂音 |  |  |
 | aoi ichijou | 一条葵 |  |  |
 | lyrule | 莉露露 |  |  |
-| naofumi iwatani | 岩谷尚文 \| 盾之勇者 |  |  |
+| naofumi iwatani | 岩谷尚文（盾之勇者） |  |  |
 | melty q melromarc | 梅蒂·Q·梅洛马格 |  |  |
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 |  |  |
 | malty melromarc | 麦蒂·S·梅洛玛格 |  |  |
-| motoyasu kitamura | 北村元康 \| 枪之勇者 |  |  |
+| motoyasu kitamura | 北村元康（枪之勇者） |  |  |
 | hana uzaki | 宇崎花 |  |  |
 | tsuki uzaki | 宇崎月 |  |  |
 | shinichi sakurai | 樱井真一 |  |  |
