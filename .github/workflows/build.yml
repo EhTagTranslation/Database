@@ -42,7 +42,7 @@ jobs:
           && git config user.name  'ehtagtranslation[bot]'
           && git add .
           && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
-          && echo "::set-env name=MIRROR_SHA::$(git rev-parse HEAD)"
+          && echo "MIRROR_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
       - name: Set release note
         run: node tool github-actions set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
 
@@ -62,7 +62,7 @@ jobs:
           echo "Latest commit: $LATEST_SHA"
           if [[ "$LATEST_SHA" != "${{ github.sha }}" ]]; then
             echo "::warning::已经有新的版本提交，取消发布"
-            echo "::set-env name=SKIP::true"
+            echo "SKIP=true" >> $GITHUB_ENV
           fi
       - name: Push release mirror
         uses: ad-m/github-push-action@master
