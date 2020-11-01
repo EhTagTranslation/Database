@@ -2956,6 +2956,7 @@ example:
 | opanchu | おぱんちゅ |  | [Twitter](https://twitter.com/whiteopanchu) [pixiv](https://www.pixiv.net/users/259683) |
 | xion | Xion |  | [Twitter](https://twitter.com/spacelaika13) [pixiv](https://www.pixiv.net/users/3850071) |
 | tomoki tomonori | ともきとものり |  |  |
+| pistonring nishizawa | 西沢みずき | 年长系 [https://pbs.twimg.com/profile\_images/775822906018324482/lP7tp-vp\_200x200.jpg](https://pbs.twimg.com/profile_images/775822906018324482/lP7tp-vp_200x200.jpg) | [pixiv](https://www.pixiv.net/users/1072832)  [Twitter](https://twitter.com/p_nishizawa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
