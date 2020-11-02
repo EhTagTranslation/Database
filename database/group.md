@@ -1948,6 +1948,7 @@ example:
 | pietoro | ピエトロ |  |  |
 | doukyara doukoukai | 同キャラ同好会 |  |  |
 | yosutebito na mangakaki | 世捨人な漫画描き |  |  |
+| bakunyu fullnerson | 爆乳フルネルソン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
