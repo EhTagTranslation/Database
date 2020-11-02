@@ -3154,6 +3154,7 @@ example:
 | hanako honda | 本田华子 |  |  |
 | olivia | 奥莉薇 |  |  |
 | kasumi nomura | 野村香纯 |  |  |
+| merribit stapleton | 梅莉毕德･斯泰普尔顿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
