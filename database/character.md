@@ -3159,6 +3159,7 @@ example:
 | viktoriya ivanovna serebryakov | 维夏 |  |  |
 | takamiya rion | 鹰宫莉音 | 鹰宫莉音是一名从2018年8月9日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身，人前扮演着优等生大小姐的角色，私人里是让人感觉总是没在正确地方思考的笨蛋角色，因为对人前扮演感到疲累，为了打发时间而开始直播。<br>主要以杂谈和游戏直播为主，偶尔组织了不少有意思的大型联动企划。 | [https://zh.moegirl.org.cn/鹰宫莉音](https://zh.moegirl.org.cn/鹰宫莉音) |
 | ruka sarashina | 更科瑠夏 |  |  |
+| sumi sakurasawa | 樱泽墨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
