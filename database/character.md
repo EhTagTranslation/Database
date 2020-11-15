@@ -3161,6 +3161,7 @@ example:
 | ruka sarashina | 更科瑠夏 |  |  |
 | sumi sakurasawa | 樱泽墨 |  |  |
 | mami nanami | 七海麻美 |  |  |
+| frankenstein | 弗兰肯斯坦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
