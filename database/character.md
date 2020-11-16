@@ -3162,6 +3162,7 @@ example:
 | sumi sakurasawa | 樱泽墨 |  |  |
 | mami nanami | 七海麻美 |  |  |
 | frankenstein | 弗兰肯斯坦 |  |  |
+| nina maehara | 前原仁菜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
