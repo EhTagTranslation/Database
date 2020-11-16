@@ -1499,6 +1499,7 @@ example:
 | maou-sama retry | 重来吧，魔王大人！ |  |  |
 | maitetsu | 爱上火车 | 《爱上火车》（日语原名：まいてつ）是由Lose开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月30日发售新增剧情的《爱上火车 Last Run!!》。 | [官方网站](https://lose.jp/maitetsu/) [中文版官方网站](https://hikarifield.co.jp/purestation/) [中文官方网站(-Last Run!!-)](https://hikarifield.co.jp/maitetsu_lastrun/) [萌娘百科](https://zh.moegirl.org.cn/爱上火车) (\*\*) |
 | houkago teibou nisshi | 放学后海堤日记 |  |  |
+| ochikobore fruit tart | 满溢的水果挞 | 《满溢的水果挞》（日语：おちこぼれフルーツタルト，简称おちフル）是日本漫画家滨弓场双创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/满溢的水果挞) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
