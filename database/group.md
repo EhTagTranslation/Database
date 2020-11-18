@@ -1951,6 +1951,7 @@ example:
 | bakunyu fullnerson | 爆乳フルネルソン |  |  |
 | kyockchokyock | きょくちょ局 |  |  |
 | satoh katoh | 砂糖加糖 |  |  |
+| condaya | 今田屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
