@@ -1950,6 +1950,7 @@ example:
 | yosutebito na mangakaki | 世捨人な漫画描き |  |  |
 | bakunyu fullnerson | 爆乳フルネルソン |  |  |
 | kyockchokyock | きょくちょ局 |  |  |
+| satoh katoh | 砂糖加糖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
