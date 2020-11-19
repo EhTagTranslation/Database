@@ -3166,6 +3166,7 @@ example:
 | uruka takemoto | 武元润香 |  |  |
 | fumino furuhashi | 古桥文乃 |  |  |
 | rizu ogata | 绪方理珠 |  |  |
+| asumi kominami | 小美浪爱澄 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
