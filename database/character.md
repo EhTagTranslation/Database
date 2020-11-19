@@ -3164,6 +3164,7 @@ example:
 | frankenstein | 弗兰肯斯坦 |  |  |
 | nina maehara | 前原仁菜 |  |  |
 | uruka takemoto | 武元润香 |  |  |
+| fumino furuhashi | 古桥文乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
