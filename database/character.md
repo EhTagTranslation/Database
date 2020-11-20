@@ -3167,6 +3167,7 @@ example:
 | fumino furuhashi | 古桥文乃 |  |  |
 | rizu ogata | 绪方理珠 |  |  |
 | asumi kominami | 小美浪爱澄 |  |  |
+| echidna | 艾姬多娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
