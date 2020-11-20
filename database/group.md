@@ -1952,6 +1952,7 @@ example:
 | kyockchokyock | きょくちょ局 |  |  |
 | satoh katoh | 砂糖加糖 |  |  |
 | condaya | 今田屋 |  |  |
+| tennen koubo pan koubou | 天然酵母パン工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
