@@ -2963,6 +2963,7 @@ example:
 | satoh | サトー |  | [pixiv](https://www.pixiv.net/users/4667892) |
 | amatake akewo | 甘竹朱郎 |  |  |
 | jikasei | 自家製 |  | [Twitter](https://twitter.com/jikasei430) [pixiv](https://www.pixiv.net/users/158417) |
+| sakura hiyori | 桜ひより |  | [Twitter](https://twitter.com/hiyori_skr) [pixiv](https://www.pixiv.net/users/9406623) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
