@@ -3171,6 +3171,7 @@ example:
 | madoka higuchi | 樋口圆香 |  |  |
 | haruka oozora | 大空遥 |  |  |
 | kanata higa | 比嘉彼方 |  |  |
+| narumi tooi | 远井成美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
