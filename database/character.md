@@ -3169,6 +3169,7 @@ example:
 | asumi kominami | 小美浪爱澄 |  |  |
 | echidna | 艾姬多娜 |  |  |
 | madoka higuchi | 樋口圆香 |  |  |
+| haruka oozora | 大空遥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
