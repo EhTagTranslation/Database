@@ -1956,6 +1956,7 @@ example:
 | hiyoko sabure | ひよこサブレ |  |  |
 | ashitamooyasumi | あしたもおやすみ! |  |  |
 | crown | CROWN |  |  |
+| island of horizon | Island of Horizon |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
