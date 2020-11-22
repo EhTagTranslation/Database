@@ -3172,6 +3172,7 @@ example:
 | haruka oozora | 大空遥 |  |  |
 | kanata higa | 比嘉彼方 |  |  |
 | narumi tooi | 远井成美 |  |  |
+| ayasa tachibana | 立花彩纱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
