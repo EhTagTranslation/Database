@@ -3170,6 +3170,7 @@ example:
 | echidna | 艾姬多娜 |  |  |
 | madoka higuchi | 樋口圆香 |  |  |
 | haruka oozora | 大空遥 |  |  |
+| kanata higa | 比嘉彼方 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
