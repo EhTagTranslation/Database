@@ -1501,7 +1501,7 @@ example:
 | houkago teibou nisshi | 放学后海堤日记 |  |  |
 | ochikobore fruit tart | 满溢的水果挞 | 《满溢的水果挞》（日语：おちこぼれフルーツタルト，简称おちフル）是日本漫画家滨弓场双创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/满溢的水果挞) (\*\*) |
 | comic girls | Comic Girls | 《Comic Girls》（日语：こみっくがーるず）是はんざわ かおり创作的四格漫画作品，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/Comic_Girls) (\*\*) |
-| endro | Endro! | 《Endro!》（日语：えんどろ〜！）是由なもり担当角色原案、Studio五组制作的一部原创TV动画，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/Endro!) |
+| endro | Endro! | 《Endro!》（日语：えんどろ〜！）是由なもり担当角色原案、Studio五组制作的一部原创TV动画，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/Endro!) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
