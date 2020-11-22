@@ -1955,6 +1955,7 @@ example:
 | tennen koubo pan koubou | 天然酵母パン工房 |  |  |
 | hiyoko sabure | ひよこサブレ |  |  |
 | ashitamooyasumi | あしたもおやすみ! |  |  |
+| crown | CROWN |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
