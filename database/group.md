@@ -1964,6 +1964,7 @@ example:
 | ganryuu island | 巌流アイランド |  |  |
 | ryoushi koubou | 量子工房 |  |  |
 | sprelidia | sprelidia |  |  |
+| iaidou | 居合堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
