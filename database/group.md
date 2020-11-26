@@ -1961,6 +1961,7 @@ example:
 | yakiniku teikoku | 焼肉帝国 |  |  |
 | gouache blue | GOUACHE BLUE |  |  |
 | duralumin love | ジュラルミンラブ |  |  |
+| ganryuu island | 巌流アイランド |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
