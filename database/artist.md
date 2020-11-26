@@ -2974,6 +2974,7 @@ example:
 | hadron9 | HADRON9 |  | [Twitter](https://twitter.com/hadron9) [Twitter（成年向）](https://twitter.com/v4pAiZAtqGZtmWw) [pixiv](https://www.pixiv.net/users/906208) |
 | supu | すぷ |  | [Twitter](https://twitter.com/w_spread) [pixiv](https://www.pixiv.net/users/3980709) |
 | kitaku | きたく |  | [Twitter](https://twitter.com/kitaku18) [pixiv](https://www.pixiv.net/users/9563241) |
+| shirota dai | 白田太 |  | [Twitter](https://twitter.com/wwshirota) [pixiv](https://www.pixiv.net/users/8642) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
