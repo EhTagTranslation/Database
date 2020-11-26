@@ -2982,6 +2982,7 @@ example:
 | nukaji | ぬかじ（wizakun） |  | [Twitter](https://twitter.com/wizakun) [pixiv](https://www.pixiv.net/users/662861) |
 | negresco | Negresco |  | [Twitter](https://twitter.com/Negrescore0) [pixiv](https://www.pixiv.net/users/1657068) |
 | navia | なびあ |  | [Twitter](https://twitter.com/2015chaosgroup) [pixiv](https://www.pixiv.net/users/4306147) |
+| sagaraten | 紗柄天 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
