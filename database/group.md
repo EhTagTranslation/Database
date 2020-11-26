@@ -1974,6 +1974,7 @@ example:
 | tonzura douchuu | とんずら道中 |  |  |
 | kuromahou kenkyuujo | 黒魔法研究所 |  |  |
 | hotel negresco | Hotel Negresco |  |  |
+| kuzunoha | 屑乃葉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
