@@ -2980,6 +2980,7 @@ example:
 | namio.h.ryuudou | NAMIO.H.龍堂 |  | [Twitter](https://twitter.com/ryudou_hiromi) [pixiv](https://www.pixiv.net/users/163014) |
 | kazawa | かざわ |  | [Twitter](https://twitter.com/kazawa_second) [pixiv](https://www.pixiv.net/users/155237) |
 | nukaji | ぬかじ（wizakun） |  | [Twitter](https://twitter.com/wizakun) [pixiv](https://www.pixiv.net/users/662861) |
+| negresco | Negresco |  | [Twitter](https://twitter.com/Negrescore0) [pixiv](https://www.pixiv.net/users/1657068) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
