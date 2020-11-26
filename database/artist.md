@@ -2967,6 +2967,7 @@ example:
 | mukyu | 無休 |  | [Twitter](https://twitter.com/yasumi_nashi) [pixiv](https://www.pixiv.net/users/11139600) |
 | h2so4 | H2SO4 |  | [Twitter](https://twitter.com/H2SO4_jp) [pixiv](https://www.pixiv.net/users/60263) |
 | yamada konayuki | 山田コナユキ |  | [Twitter](https://twitter.com/elriz514) [pixiv](https://www.pixiv.net/users/318370) |
+| mizushima sorahiko | 水岛空彦 |  | [Twitter](https://twitter.com/sorahiko_m) [pixiv](https://www.pixiv.net/users/23109) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
