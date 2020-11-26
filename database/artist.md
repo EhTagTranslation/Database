@@ -2968,6 +2968,7 @@ example:
 | h2so4 | H2SO4 |  | [Twitter](https://twitter.com/H2SO4_jp) [pixiv](https://www.pixiv.net/users/60263) |
 | yamada konayuki | 山田コナユキ |  | [Twitter](https://twitter.com/elriz514) [pixiv](https://www.pixiv.net/users/318370) |
 | mizushima sorahiko | 水岛空彦 |  | [Twitter](https://twitter.com/sorahiko_m) [pixiv](https://www.pixiv.net/users/23109) |
+| taneno nakami | 種乃なかみ |  | [Twitter](https://twitter.com/3hsensei) [pixiv](https://www.pixiv.net/users/12823252) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
