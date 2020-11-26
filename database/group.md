@@ -1971,6 +1971,7 @@ example:
 | t.4.p | T.4.P |  |  |
 | jagabata | じゃがバター |  |  |
 | ryuuseidou honpo | 龍正堂本舗 |  |  |
+| tonzura douchuu | とんずら道中 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
