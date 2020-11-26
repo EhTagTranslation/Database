@@ -2972,6 +2972,7 @@ example:
 | mgmee | MGMEE（めぐみ） |  | [Twitter](https://twitter.com/megumi_yakiniku) [pixiv](https://www.pixiv.net/users/2292773) |
 | nathaniel pennel | Pennel |  | [Twitter](https://twitter.com/pennel_kirei) [pixiv](https://www.pixiv.net/users/512666) |
 | hadron9 | HADRON9 |  | [Twitter](https://twitter.com/hadron9) [Twitter（成年向）](https://twitter.com/v4pAiZAtqGZtmWw) [pixiv](https://www.pixiv.net/users/906208) |
+| supu | すぷ |  | [Twitter](https://twitter.com/w_spread) [pixiv](https://www.pixiv.net/users/3980709) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
