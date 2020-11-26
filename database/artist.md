@@ -2981,6 +2981,7 @@ example:
 | kazawa | かざわ |  | [Twitter](https://twitter.com/kazawa_second) [pixiv](https://www.pixiv.net/users/155237) |
 | nukaji | ぬかじ（wizakun） |  | [Twitter](https://twitter.com/wizakun) [pixiv](https://www.pixiv.net/users/662861) |
 | negresco | Negresco |  | [Twitter](https://twitter.com/Negrescore0) [pixiv](https://www.pixiv.net/users/1657068) |
+| navia | なびあ |  | [Twitter](https://twitter.com/2015chaosgroup) [pixiv](https://www.pixiv.net/users/4306147) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
