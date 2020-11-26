@@ -2966,6 +2966,7 @@ example:
 | sakura hiyori | 桜ひより |  | [Twitter](https://twitter.com/hiyori_skr) [pixiv](https://www.pixiv.net/users/9406623) |
 | mukyu | 無休 |  | [Twitter](https://twitter.com/yasumi_nashi) [pixiv](https://www.pixiv.net/users/11139600) |
 | h2so4 | H2SO4 |  | [Twitter](https://twitter.com/H2SO4_jp) [pixiv](https://www.pixiv.net/users/60263) |
+| yamada konayuki | 山田コナユキ |  | [Twitter](https://twitter.com/elriz514) [pixiv](https://www.pixiv.net/users/318370) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
