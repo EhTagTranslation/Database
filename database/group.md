@@ -1972,6 +1972,7 @@ example:
 | jagabata | じゃがバター |  |  |
 | ryuuseidou honpo | 龍正堂本舗 |  |  |
 | tonzura douchuu | とんずら道中 |  |  |
+| kuromahou kenkyuujo | 黒魔法研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
