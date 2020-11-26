@@ -1970,6 +1970,7 @@ example:
 | god ryokutya | GOD緑茶 |  |  |
 | t.4.p | T.4.P |  |  |
 | jagabata | じゃがバター |  |  |
+| ryuuseidou honpo | 龍正堂本舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
