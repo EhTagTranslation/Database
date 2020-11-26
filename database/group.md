@@ -1969,6 +1969,7 @@ example:
 | kitaguni moyashi seizousho | 北国もやし製造所 |  |  |
 | god ryokutya | GOD緑茶 |  |  |
 | t.4.p | T.4.P |  |  |
+| jagabata | じゃがバター |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
