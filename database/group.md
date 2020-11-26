@@ -1963,6 +1963,7 @@ example:
 | duralumin love | ジュラルミンラブ |  |  |
 | ganryuu island | 巌流アイランド |  |  |
 | ryoushi koubou | 量子工房 |  |  |
+| sprelidia | sprelidia |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
