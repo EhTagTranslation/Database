@@ -1960,6 +1960,7 @@ example:
 | elriz | ELRIZ |  |  |
 | yakiniku teikoku | 焼肉帝国 |  |  |
 | gouache blue | GOUACHE BLUE |  |  |
+| duralumin love | ジュラルミンラブ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
