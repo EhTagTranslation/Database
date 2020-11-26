@@ -2975,6 +2975,7 @@ example:
 | supu | すぷ |  | [Twitter](https://twitter.com/w_spread) [pixiv](https://www.pixiv.net/users/3980709) |
 | kitaku | きたく |  | [Twitter](https://twitter.com/kitaku18) [pixiv](https://www.pixiv.net/users/9563241) |
 | shirota dai | 白田太 |  | [Twitter](https://twitter.com/wwshirota) [pixiv](https://www.pixiv.net/users/8642) |
+| moyazou | もや造 |  | [Twitter](https://twitter.com/moyashiseizoujo) [pixiv](https://www.pixiv.net/users/12363124) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
