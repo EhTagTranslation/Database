@@ -1957,6 +1957,7 @@ example:
 | ashitamooyasumi | あしたもおやすみ! |  |  |
 | crown | CROWN |  |  |
 | island of horizon | Island of Horizon |  |  |
+| elriz | ELRIZ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
