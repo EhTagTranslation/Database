@@ -1958,6 +1958,7 @@ example:
 | crown | CROWN |  |  |
 | island of horizon | Island of Horizon |  |  |
 | elriz | ELRIZ |  |  |
+| yakiniku teikoku | 焼肉帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
