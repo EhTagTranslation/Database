@@ -2978,6 +2978,7 @@ example:
 | moyazou | もや造 |  | [Twitter](https://twitter.com/moyashiseizoujo) [pixiv](https://www.pixiv.net/users/12363124) |
 | kuguri oimo | 九栗おいも |  | [Twitter](https://twitter.com/oimoimo12) [pixiv](https://www.pixiv.net/users/1998) |
 | namio.h.ryuudou | NAMIO.H.龍堂 |  | [Twitter](https://twitter.com/ryudou_hiromi) [pixiv](https://www.pixiv.net/users/163014) |
+| kazawa | かざわ |  | [Twitter](https://twitter.com/kazawa_second) [pixiv](https://www.pixiv.net/users/155237) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
