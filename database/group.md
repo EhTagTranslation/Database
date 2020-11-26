@@ -1967,6 +1967,7 @@ example:
 | iaidou | 居合堂 |  |  |
 | waterwheel | waterwheel |  |  |
 | kitaguni moyashi seizousho | 北国もやし製造所 |  |  |
+| god ryokutya | GOD緑茶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
