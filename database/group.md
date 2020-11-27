@@ -1976,6 +1976,7 @@ example:
 | hotel negresco | Hotel Negresco |  |  |
 | kuzunoha | 屑乃葉 |  |  |
 | moni | moni |  |  |
+| greennight | GreeNNight |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
