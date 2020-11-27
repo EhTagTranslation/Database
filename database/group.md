@@ -1977,6 +1977,7 @@ example:
 | kuzunoha | 屑乃葉 |  |  |
 | moni | moni |  |  |
 | greennight | GreeNNight |  |  |
+| unsympathetic | 疎ましいくらいな |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
