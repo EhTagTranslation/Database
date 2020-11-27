@@ -2984,6 +2984,7 @@ example:
 | navia | なびあ |  | [Twitter](https://twitter.com/2015chaosgroup) [pixiv](https://www.pixiv.net/users/4306147) |
 | sagaraten | 紗柄天 |  |  |
 | naoto | naoto |  | [Twitter](https://twitter.com/naoto_moni) [pixiv](https://www.pixiv.net/users/246106) |
+| green | GreeN |  | [Twitter](https://twitter.com/greeen_jp) [pixiv](https://www.pixiv.net/users/5134892) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
