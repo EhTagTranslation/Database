@@ -2983,6 +2983,7 @@ example:
 | negresco | Negresco |  | [Twitter](https://twitter.com/Negrescore0) [pixiv](https://www.pixiv.net/users/1657068) |
 | navia | なびあ |  | [Twitter](https://twitter.com/2015chaosgroup) [pixiv](https://www.pixiv.net/users/4306147) |
 | sagaraten | 紗柄天 |  |  |
+| naoto | naoto |  | [Twitter](https://twitter.com/naoto_moni) [pixiv](https://www.pixiv.net/users/246106) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
