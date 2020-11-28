@@ -3173,6 +3173,7 @@ example:
 | kanata higa | 比嘉彼方 |  |  |
 | narumi tooi | 远井成美 |  |  |
 | ayasa tachibana | 立花彩纱 |  |  |
+| leaf | 叶子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
