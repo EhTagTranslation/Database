@@ -2986,6 +2986,7 @@ example:
 | naoto | naoto |  | [Twitter](https://twitter.com/naoto_moni) [pixiv](https://www.pixiv.net/users/246106) |
 | green | GreeN |  | [Twitter](https://twitter.com/greeen_jp) [pixiv](https://www.pixiv.net/users/5134892) |
 | wakured | 和紅 |  | [Twitter](https://twitter.com/WxKxRx) [pixiv](https://www.pixiv.net/users/9856595) |
+| mankai kaika | 満開開花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
