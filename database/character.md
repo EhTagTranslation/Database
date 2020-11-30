@@ -3176,6 +3176,7 @@ example:
 | leaf | 叶子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 | diablo | 迪亚布罗（坂本拓真） |  |  |
 | rem galleu | 蕾姆·嘉蕾邬 |  |  |
+| shera l. greenwood | 雪拉·L·古林伍德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
