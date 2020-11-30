@@ -3178,6 +3178,7 @@ example:
 | rem galleu | 蕾姆·嘉蕾邬 |  |  |
 | shera l. greenwood | 雪拉·L·古林伍德 |  |  |
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
+| edelgard | 艾德尔卡特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
