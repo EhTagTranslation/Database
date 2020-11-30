@@ -3179,6 +3179,7 @@ example:
 | shera l. greenwood | 雪拉·L·古林伍德 |  |  |
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
+| krebskulm | 库尔姆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
