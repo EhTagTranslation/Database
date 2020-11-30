@@ -3175,6 +3175,7 @@ example:
 | ayasa tachibana | 立花彩纱 |  |  |
 | leaf | 叶子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 | diablo | 迪亚布罗（坂本拓真） |  |  |
+| rem galleu | 蕾姆·嘉蕾邬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
