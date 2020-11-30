@@ -3174,6 +3174,7 @@ example:
 | narumi tooi | 远井成美 |  |  |
 | ayasa tachibana | 立花彩纱 |  |  |
 | leaf | 叶子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
+| diablo | 迪亚布罗（坂本拓真） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
