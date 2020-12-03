@@ -1504,6 +1504,7 @@ example:
 | endro | Endro! | 《Endro!》（日语：えんどろ〜！）是由なもり担当角色原案、Studio五组制作的一部原创TV动画，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/Endro!) (\*\*) |
 | harukana receive | 遥的接球 | 《遥的接球》（日语：はるかなレシーブ）是由漫画家如意自在创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/遥的接球) (\*\*) |
 | majo no tabitabi | 魔女之旅 |  |  |
+| chainsaw man | 电锯人 | 《链锯人》是作者藤本树作画的漫画作品，2018年12月3日开始连载于《周刊少年JUMP》。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
