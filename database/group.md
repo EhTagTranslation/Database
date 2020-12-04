@@ -1978,6 +1978,7 @@ example:
 | moni | moni |  |  |
 | greennight | GreeNNight |  |  |
 | unsympathetic | 疎ましいくらいな |  |  |
+| meisaiya | meisaiya |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
