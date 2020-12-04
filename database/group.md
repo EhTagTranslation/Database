@@ -1982,6 +1982,7 @@ example:
 | tegone spike | てごねスパイク |  |  |
 | amasyrup | amasyrup |  |  |
 | maybenavy | MaybeNavy |  |  |
+| longbow flintlock | 长弓燧龙 | 名言"总有一天你们会看着我画的东西撸"的作者 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
