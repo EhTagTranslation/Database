@@ -1981,6 +1981,7 @@ example:
 | meisaiya | meisaiya |  |  |
 | tegone spike | てごねスパイク |  |  |
 | amasyrup | amasyrup |  |  |
+| maybenavy | MaybeNavy |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
