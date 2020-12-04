@@ -2989,6 +2989,7 @@ example:
 | mankai kaika | 満開開花 |  |  |
 | kumatora | 天空太一 |  |  |
 | teshima nari. | 手島nari |  | [Twitter](https://twitter.com/_17meisai23) [pixiv](https://www.pixiv.net/users/14993224) |
+| amashiro natsuki | 甘城なつき |  | [Twitter](https://twitter.com/amsrntk3) [pixiv](https://www.pixiv.net/users/3036679) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
