@@ -3180,6 +3180,7 @@ example:
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
 | krebskulm | 库尔姆 |  |  |
+| chocola | 巧克力 |  | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
