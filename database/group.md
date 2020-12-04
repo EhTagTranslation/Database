@@ -1980,6 +1980,7 @@ example:
 | unsympathetic | 疎ましいくらいな |  |  |
 | meisaiya | meisaiya |  |  |
 | tegone spike | てごねスパイク |  |  |
+| amasyrup | amasyrup |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
