@@ -1979,6 +1979,7 @@ example:
 | greennight | GreeNNight |  |  |
 | unsympathetic | 疎ましいくらいな |  |  |
 | meisaiya | meisaiya |  |  |
+| tegone spike | てごねスパイク |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
