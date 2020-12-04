@@ -3182,6 +3182,7 @@ example:
 | krebskulm | 库尔姆 |  |  |
 | chocola | 巧克力 |  | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 | cinnamon | 桂 |  | [萌娘百科](https://zh.moegirl.org.cn/桂%28NEKO_WORKs%29) |
+| coconut | 椰子 |  | [萌娘百科](https://zh.moegirl.org.cn/椰子%28NEKO_WORKs%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
