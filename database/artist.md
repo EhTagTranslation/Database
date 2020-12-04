@@ -2988,6 +2988,7 @@ example:
 | wakured | 和紅 |  | [Twitter](https://twitter.com/WxKxRx) [pixiv](https://www.pixiv.net/users/9856595) |
 | mankai kaika | 満開開花 |  |  |
 | kumatora | 天空太一 |  |  |
+| teshima nari. | 手島nari |  | [Twitter](https://twitter.com/_17meisai23) [pixiv](https://www.pixiv.net/users/14993224) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
