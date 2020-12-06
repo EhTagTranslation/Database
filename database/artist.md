@@ -2992,6 +2992,7 @@ example:
 | amashiro natsuki | 甘城なつき |  | [Twitter](https://twitter.com/amsrntk3) [pixiv](https://www.pixiv.net/users/3036679) |
 | tumiki akeno | 積木あけの |  | [Twitter](https://twitter.com/AkenoTumiki) [pixiv](https://www.pixiv.net/users/3455661) |
 | miwano rag | 美和野らぐ |  | [Twitter](https://twitter.com/rag_ragko) [pixiv](https://www.pixiv.net/users/7324626) |
+| shigure ui | しぐれうい |  | [Twitter](https://twitter.com/ui_shig) [pixiv](https://www.pixiv.net/users/431873) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
