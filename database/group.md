@@ -1986,6 +1986,7 @@ example:
 | nounai kanojo | 脳内彼女 |  |  |
 | jinsei yokosuberi. | 人生横滑り。 |  |  |
 | sanshoku nattou meshi | 三食納豆飯 |  |  |
+| shiguredoki | しぐれどき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
