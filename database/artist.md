@@ -2995,6 +2995,7 @@ example:
 | shigure ui | しぐれうい |  | [Twitter](https://twitter.com/ui_shig) [pixiv](https://www.pixiv.net/users/431873) |
 | nanahara fuyuki | 七原冬雪 |  |  |
 | fukuinu | 福犬 |  |  |
+| shotan | しょたん |  | [Twitter](https://twitter.com/DENTAN_san) [pixiv](https://www.pixiv.net/users/8720985) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
