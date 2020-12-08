@@ -1988,6 +1988,7 @@ example:
 | sanshoku nattou meshi | 三食納豆飯 |  |  |
 | shiguredoki | しぐれどき |  |  |
 | hirusuta | 昼星 |  |  |
+| shikaniku kohan | しかにく湖畔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
