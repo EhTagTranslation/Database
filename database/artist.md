@@ -2996,6 +2996,7 @@ example:
 | nanahara fuyuki | 七原冬雪 |  |  |
 | fukuinu | 福犬 |  |  |
 | shotan | しょたん |  | [Twitter](https://twitter.com/DENTAN_san) [pixiv](https://www.pixiv.net/users/8720985) |
+| ezoshika | エゾシカ |  | [Twitter](https://twitter.com/ezoshika_gg) [pixiv](https://www.pixiv.net/users/14340273) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
