@@ -2997,6 +2997,7 @@ example:
 | fukuinu | 福犬 |  |  |
 | shotan | しょたん |  | [Twitter](https://twitter.com/DENTAN_san) [pixiv](https://www.pixiv.net/users/8720985) |
 | ezoshika | エゾシカ |  | [Twitter](https://twitter.com/ezoshika_gg) [pixiv](https://www.pixiv.net/users/14340273) |
+| taketori zaiku | 竹取細工 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
