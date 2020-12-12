@@ -1989,6 +1989,7 @@ example:
 | shiguredoki | しぐれどき |  |  |
 | hirusuta | 昼星 |  |  |
 | shikaniku kohan | しかにく湖畔 |  |  |
+| ua daisakusen | U・A大作戦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
