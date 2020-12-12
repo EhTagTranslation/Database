@@ -1507,6 +1507,7 @@ example:
 | chainsaw man | 电锯人 | 《链锯人》是作者藤本树作画的漫画作品，2018年12月3日开始连载于《周刊少年JUMP》。 |  |
 | josou sanmyaku | 女装山脉 |  |  |
 | penguin highway | 企鹅公路 |  |  |
+| irotoridori no sekai | 五彩斑斓的世界 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
