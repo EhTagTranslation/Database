@@ -3000,6 +3000,7 @@ example:
 | taketori zaiku | 竹取細工 |  |  |
 | harada shoutarou | 原田将太郎 |  |  |
 | kyougoku shin | 京極しん |  |  |
+| yamamori | 山森 |  | [Twitter](https://twitter.com/machidaco) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
