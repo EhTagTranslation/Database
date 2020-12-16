@@ -2999,6 +2999,7 @@ example:
 | ezoshika | エゾシカ |  | [Twitter](https://twitter.com/ezoshika_gg) [pixiv](https://www.pixiv.net/users/14340273) |
 | taketori zaiku | 竹取細工 |  |  |
 | harada shoutarou | 原田将太郎 |  |  |
+| kyougoku shin | 京極しん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
