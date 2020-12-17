@@ -3001,6 +3001,7 @@ example:
 | harada shoutarou | 原田将太郎 |  |  |
 | kyougoku shin | 京極しん |  |  |
 | yamamori | 山森 |  | [Twitter](https://twitter.com/machidaco) |
+| daki makura | 滝まくら |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
