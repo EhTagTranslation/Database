@@ -3208,6 +3208,7 @@ example:
 | raven | 渡鸦 |  | [百度百科](https://baike.baidu.com/item/渡鸦/19910624) |
 | terra | 泰拉 |  |  |
 | black canary | 黑金丝雀 |  |  |
+| cheetah | 豹女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
