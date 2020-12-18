@@ -3211,6 +3211,7 @@ example:
 | cheetah | 豹女 |  |  |
 | giganta | 巨化女 |  |  |
 | lois lane | 露易丝·莱恩 |  |  |
+| miss martian | 火星少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
