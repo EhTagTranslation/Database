@@ -1515,6 +1515,7 @@ example:
 | glitch techs | 电玩先锋 |  |  |
 | the owl house | 猫头鹰魔法社 |  |  |
 | maoujou de oyasumi | 在魔王城说晚安 |  |  |
+| dungeons and dragons | 龙与地下城 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
