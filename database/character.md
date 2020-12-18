@@ -3197,6 +3197,7 @@ example:
 | starfire | 星火 |  | [萌娘百科](https://zh.moegirl.org.cn/星火) |
 | supergirl | 超级少女 |  | [百度百科](https://baike.baidu.com/item/超级少女/16786875) |
 | superwoman | 超级女侠 |  | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
+| batwoman | 蝙蝠女侠 |  | [百度百科](https://baike.baidu.com/item/蝙蝠女侠/430714) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
