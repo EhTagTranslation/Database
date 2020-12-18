@@ -1532,6 +1532,7 @@ example:
 | the smurfs | 蓝精灵 |  |  |
 | young justice | 少年正义联盟 |  |  |
 | justice league | 正义联盟 |  |  |
+| avalon code | 创世法典 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
