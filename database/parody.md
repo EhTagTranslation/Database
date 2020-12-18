@@ -531,7 +531,7 @@ example:
 | kung fu panda | 功夫熊猫 |  |  |
 | star vs. the forces of evil | 星蝶公主 |  |  |
 | the amazing world of gumball | 阿甘妙世界 |  |  |
-| wakfu | 沃土 |  |  |
+| wakfu | 沃土 |  | [萌娘百科](https://zh.moegirl.org.cn/沃土) |
 | wander over yonder | 宇宙小奇兵 |  |  |
 | batman | 蝙蝠侠 |  |  |
 | resident evil | 生化危机 | 台湾译作“恶灵古堡”，由日本卡普空公司推出，以恐怖惊悚与第三人称射击为主要内容。 |  |
