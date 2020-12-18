@@ -3201,6 +3201,7 @@ example:
 | batgirl | 蝙蝠少女 |  | [百度百科](https://baike.baidu.com/item/蝙蝠少女/19823997) |
 | barbara gordon | 芭芭拉·戈登 |  | [百度百科](https://baike.baidu.com/item/芭芭拉·戈登) |
 | blackfire | 黑火 |  | [百度百科](https://baike.baidu.com/item/黑火/22077069) |
+| bruce wayne | 布鲁斯·韦恩 |  | [百度百科](https://baike.baidu.com/item/布鲁斯·韦恩/9892496) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
