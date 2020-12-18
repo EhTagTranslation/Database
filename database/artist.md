@@ -260,7 +260,7 @@ example:
 | carn | 夏庵 |  |  |
 | okada kou | 岡田コウ |  |  |
 | neko pantsu | ねこパンツ |  |  |
-| suzunone rena | 鈴音れな |  |  |
+| suzunone rena | 鈴音れな |  | [Twitter](https://twitter.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
 | miyabi | 美矢火 |  |  |
 | pochi. | ぽち。 |  |  |
 | hayami jun | 早见纯 |  |  |
