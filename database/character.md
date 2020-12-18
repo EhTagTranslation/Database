@@ -3204,6 +3204,7 @@ example:
 | bruce wayne | 布鲁斯·韦恩 |  | [百度百科](https://baike.baidu.com/item/布鲁斯·韦恩/9892496) |
 | jinx | 金克斯 |  |  |
 | lex luthor | 莱克斯·卢瑟 |  |  |
+| poison ivy | 毒藤女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
