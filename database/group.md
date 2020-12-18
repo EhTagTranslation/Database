@@ -2002,6 +2002,7 @@ example:
 | croix crown | croix crown |  |  |
 | chronolog | CHRONOLOG |  |  |
 | fururi. | ふるり。 |  |  |
+| amamitu hakushi | 甘蜜博士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
