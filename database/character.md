@@ -3194,6 +3194,7 @@ example:
 | star girl | 逐星女 |  | [百度百科](https://baike.baidu.com/item/逐星女/1392703) |
 | harley quinn | 哈莉·奎茵 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/哈莉·奎茵) |
 | zatanna zatara | 扎塔娜·扎塔拉 |  | [萌娘百科](https://zh.moegirl.org.cn/扎塔娜·扎塔拉) |
+| starfire | 星火 |  | [萌娘百科](https://zh.moegirl.org.cn/星火) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
