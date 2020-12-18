@@ -2309,7 +2309,7 @@ example:
 | saku usako | 佐久うさこ |  |  |
 | aotsu karin | 蒼都かりん |  |  |
 | mori airi | 森あいり |  |  |
-| mimura zaja | 三村ざじゃ |  |  |
+| mimura zaja | 三村ざじゃ |  | [Twitter](https://twitter.com/_zaja_) [pixiv](https://www.pixiv.net/users/11109673) |
 | itomugi-kun | 糸麦くん |  |  |
 | aru urara | あるうらら |  |  |
 | sakura saku sakura | 佐倉さくさくら |  |  |
