@@ -3213,6 +3213,7 @@ example:
 | lois lane | 露易丝·莱恩 |  |  |
 | miss martian | 火星少女 |  |  |
 | power girl | 神力女孩 |  |  |
+| talia al ghul | 塔利亚·艾尔·古尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
