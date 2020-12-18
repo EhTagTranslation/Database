@@ -1998,6 +1998,7 @@ example:
 | sakuranoiro | サクラノイロ |  |  |
 | lunatic maiden | Lunatic\*Maiden |  |  |
 | freelance | FREELANCE |  |  |
+| nekono oyashiro | ねこのおやしろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
