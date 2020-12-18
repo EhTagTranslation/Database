@@ -1518,6 +1518,7 @@ example:
 | dungeons and dragons | 龙与地下城 |  | [萌娘百科](https://zh.moegirl.org.cn/龙与地下城) |
 | lilo and stitch | 星际宝贝 |  |  |
 | my life as a teenage robot | 我的青少年机器人时代 |  | [维基百科](https://zh.wikipedia.org/wiki/我的青少年机器人时代) |
+| milo murphys law | 迈罗·墨菲定律 |  | [百度百科](https://baike.baidu.com/item/迈罗·墨菲定律) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
