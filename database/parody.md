@@ -1530,6 +1530,7 @@ example:
 | the dragon prince | 龙太子 | 也译龙王子 | [萌娘百科](https://zh.moegirl.org.cn/龙太子) |
 | code lyoko | 虚幻勇士 |  | [萌娘百科](https://zh.moegirl.org.cn/Code_Lyoko) |
 | the smurfs | 蓝精灵 |  |  |
+| young justice | 少年正义联盟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
