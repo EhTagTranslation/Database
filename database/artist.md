@@ -3013,6 +3013,7 @@ example:
 | mashu | ましゅー |  | [Twitter](https://twitter.com/mashu_003) [pixiv](https://www.pixiv.net/users/15305293) |
 | na-ga | Na-Ga |  | [Twitter](https://twitter.com/iktd13_) |
 | sakurazawa izumi | 桜沢いづみ |  | [Twitter](https://twitter.com/_sakurazawa_) [pixiv](https://www.pixiv.net/users/125969) |
+| hinayuki usa | ヒナユキウサ |  | [Twitter](https://twitter.com/hina0x0) [pixiv](https://www.pixiv.net/users/228997) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
