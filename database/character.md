@@ -3205,6 +3205,7 @@ example:
 | jinx | 金克斯 |  |  |
 | lex luthor | 莱克斯·卢瑟 |  |  |
 | poison ivy | 毒藤女 |  |  |
+| raven | 渡鸦 |  | [百度百科](https://baike.baidu.com/item/渡鸦/19910624) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
