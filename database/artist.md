@@ -3002,6 +3002,7 @@ example:
 | kyougoku shin | 京極しん |  |  |
 | yamamori | 山森 |  | [Twitter](https://twitter.com/machidaco) |
 | daki makura | 滝まくら |  |  |
+| nagishiro mito | 凪白みと |  | [Twitter](https://twitter.com/lemon_mito) [pixiv](https://www.pixiv.net/users/8189060) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
