@@ -1516,6 +1516,7 @@ example:
 | the owl house | 猫头鹰魔法社 |  |  |
 | maoujou de oyasumi | 在魔王城说晚安 |  |  |
 | dungeons and dragons | 龙与地下城 |  |  |
+| lilo and stitch | 星际宝贝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
