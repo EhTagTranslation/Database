@@ -1991,6 +1991,7 @@ example:
 | shikaniku kohan | しかにく湖畔 |  |  |
 | ua daisakusen | U・A大作戦 |  |  |
 | white parabellum | white parabellum |  |  |
+| pecora room | pecora room |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
