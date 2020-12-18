@@ -2000,6 +2000,7 @@ example:
 | freelance | FREELANCE |  |  |
 | nekono oyashiro | ねこのおやしろ |  |  |
 | croix crown | croix crown |  |  |
+| chronolog | CHRONOLOG |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
