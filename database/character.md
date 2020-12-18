@@ -3189,6 +3189,7 @@ example:
 | link | 林克 |  | [萌娘百科](https://zh.moegirl.org.cn/林克) |
 | wonder woman | 神奇女侠 |  |  |
 | she-ra | 希瑞 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/希瑞) |
+| rapunzel | 长发公主 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
