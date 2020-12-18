@@ -3191,6 +3191,7 @@ example:
 | she-ra | 希瑞 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/希瑞) |
 | rapunzel | 长发公主 |  |  |
 | hulk | 浩克 |  |  |
+| star girl | 逐星女 |  | [百度百科](https://baike.baidu.com/item/逐星女/1392703) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
