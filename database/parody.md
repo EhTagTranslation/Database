@@ -1516,7 +1516,7 @@ example:
 | the owl house | 猫头鹰魔法社 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/猫头鹰魔法社) |
 | maoujou de oyasumi | 在魔王城说晚安 |  |  |
 | dungeons and dragons | 龙与地下城 |  | [萌娘百科](https://zh.moegirl.org.cn/龙与地下城) |
-| lilo and stitch | 星际宝贝 |  |  |
+| lilo and stitch | 星际宝贝 |  | [百度百科](https://baike.baidu.com/item/星际宝贝/6416750) |
 | my life as a teenage robot | 我的青少年机器人时代 |  | [维基百科](https://zh.wikipedia.org/wiki/我的青少年机器人时代) |
 | milo murphys law | 迈罗·墨菲定律 |  | [百度百科](https://baike.baidu.com/item/迈罗·墨菲定律) |
 | phineas and ferb | 飞哥与小佛 |  | [百度百科](https://baike.baidu.com/item/飞哥与小佛) |
