@@ -1515,7 +1515,7 @@ example:
 | glitch techs | 电玩先锋 |  |  |
 | the owl house | 猫头鹰魔法社 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/猫头鹰魔法社) |
 | maoujou de oyasumi | 在魔王城说晚安 |  |  |
-| dungeons and dragons | 龙与地下城 |  |  |
+| dungeons and dragons | 龙与地下城 |  | [萌娘百科](https://zh.moegirl.org.cn/龙与地下城) |
 | lilo and stitch | 星际宝贝 |  |  |
 
 <!--TEMPLATE: 
