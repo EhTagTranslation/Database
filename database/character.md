@@ -3196,6 +3196,7 @@ example:
 | zatanna zatara | 扎塔娜·扎塔拉 |  | [萌娘百科](https://zh.moegirl.org.cn/扎塔娜·扎塔拉) |
 | starfire | 星火 |  | [萌娘百科](https://zh.moegirl.org.cn/星火) |
 | supergirl | 超级少女 |  | [百度百科](https://baike.baidu.com/item/超级少女/16786875) |
+| superwoman | 超级女侠 |  | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
