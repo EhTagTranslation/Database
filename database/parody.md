@@ -1513,7 +1513,7 @@ example:
 | summer pockets | Summer Pockets | 《Summer Pockets》（日语：サマーポケッツ，日语简称：サマポケ，中文名：夏日口袋）是由Key制作的一部游戏。 | [游戏官网](http://key.visualarts.gr.jp/summer/) [萌娘百科](https://zh.moegirl.org.cn/Summer_Pockets) (\*\*) |
 | the tatami galaxy | 四叠半神话大系 |  |  |
 | glitch techs | 电玩先锋 |  |  |
-| the owl house | 猫头鹰魔法社 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/猫头鹰魔法社) |
+| the owl house | 猫头鹰魔法社 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/猫头鹰魔法社) |
 | maoujou de oyasumi | 在魔王城说晚安 |  |  |
 | dungeons and dragons | 龙与地下城 |  |  |
 | lilo and stitch | 星际宝贝 |  |  |
