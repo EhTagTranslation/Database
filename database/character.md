@@ -2261,7 +2261,7 @@ example:
 | hinoka | 日乃香 |  |  |
 | tharja | 萨利娅 |  |  |
 | sakura | 樱 |  |  |
-| joker | 乔克 |  |  |
+| joker | 小丑 | 美国DC漫画旗下的著名反派角色。 | [萌娘百科](https://zh.moegirl.org.cn/小丑%28蝙蝠侠%29#) |
 | rinkah | 燐火 |  |  |
 | tiki | 芝琪 | 《火焰之纹章：纹章之谜》游戏角色 |  |
 | caeda | 希妲 | 《火焰之纹章：纹章之谜》游戏角色 |  |
