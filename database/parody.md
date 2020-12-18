@@ -1533,6 +1533,7 @@ example:
 | young justice | 少年正义联盟 |  |  |
 | justice league | 正义联盟 |  |  |
 | avalon code | 创世法典 |  |  |
+| doctor who | 神秘博士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
