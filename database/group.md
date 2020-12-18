@@ -1994,6 +1994,7 @@ example:
 | pecora room | pecora room |  |  |
 | lonely church | Lonely Church |  |  |
 | nekotyabatake | 猫茶畑 |  |  |
+| practice | practice |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
