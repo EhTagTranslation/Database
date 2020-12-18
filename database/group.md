@@ -1993,6 +1993,7 @@ example:
 | white parabellum | white parabellum |  |  |
 | pecora room | pecora room |  |  |
 | lonely church | Lonely Church |  |  |
+| nekotyabatake | 猫茶畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
