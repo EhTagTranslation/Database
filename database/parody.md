@@ -1525,6 +1525,7 @@ example:
 | amphibia | 奇幻沼泽 |  | [萌娘百科](https://zh.moegirl.org.cn/奇幻沼泽) |
 | american dragon jake long | 美国龙：杰克龙 |  | [维基百科](https://zh.wikipedia.org/wiki/美國龍：傑克龍) |
 | hazbin hotel | 地狱客栈 |  |  |
+| hotel transylvania | 精灵旅社 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
