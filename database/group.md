@@ -1999,6 +1999,7 @@ example:
 | lunatic maiden | Lunatic\*Maiden |  |  |
 | freelance | FREELANCE |  |  |
 | nekono oyashiro | ねこのおやしろ |  |  |
+| croix crown | croix crown |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
