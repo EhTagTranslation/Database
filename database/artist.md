@@ -3010,6 +3010,7 @@ example:
 | sakuragi ren | 桜木蓮 |  | [Twitter](https://twitter.com/sakuragi_ren) [pixiv](https://www.pixiv.net/users/1096314) |
 | poruno ibuki | はるのいぶき |  | [Twitter](https://twitter.com/harunoibuki) [pixiv](https://www.pixiv.net/users/40413) |
 | kenichi | ケンイチ |  | [Twitter](https://twitter.com/kenken_kenichi) [pixiv](https://www.pixiv.net/users/477293) |
+| mashu | ましゅー |  | [Twitter](https://twitter.com/mashu_003) [pixiv](https://www.pixiv.net/users/15305293) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
