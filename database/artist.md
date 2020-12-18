@@ -3009,6 +3009,7 @@ example:
 | p19 | p19 |  | [Twitter](https://twitter.com/practice19) [pixiv](https://www.pixiv.net/users/219976) |
 | sakuragi ren | 桜木蓮 |  | [Twitter](https://twitter.com/sakuragi_ren) [pixiv](https://www.pixiv.net/users/1096314) |
 | poruno ibuki | はるのいぶき |  | [Twitter](https://twitter.com/harunoibuki) [pixiv](https://www.pixiv.net/users/40413) |
+| kenichi | ケンイチ |  | [Twitter](https://twitter.com/kenken_kenichi) [pixiv](https://www.pixiv.net/users/477293) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
