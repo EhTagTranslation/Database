@@ -3209,6 +3209,7 @@ example:
 | terra | 泰拉 |  |  |
 | black canary | 黑金丝雀 |  |  |
 | cheetah | 豹女 |  |  |
+| giganta | 巨化女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
