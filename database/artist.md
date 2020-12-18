@@ -3003,6 +3003,7 @@ example:
 | yamamori | 山森 |  | [Twitter](https://twitter.com/machidaco) |
 | daki makura | 滝まくら |  |  |
 | nagishiro mito | 凪白みと |  | [Twitter](https://twitter.com/lemon_mito) [pixiv](https://www.pixiv.net/users/8189060) |
+| minase nagi | みなせなぎ |  | [Twitter](https://twitter.com/nagi_37se) [pixiv](https://www.pixiv.net/users/894387) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
