@@ -1997,6 +1997,7 @@ example:
 | practice | practice |  |  |
 | sakuranoiro | サクラノイロ |  |  |
 | lunatic maiden | Lunatic\*Maiden |  |  |
+| freelance | FREELANCE |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
