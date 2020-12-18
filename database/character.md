@@ -3210,6 +3210,7 @@ example:
 | black canary | 黑金丝雀 |  |  |
 | cheetah | 豹女 |  |  |
 | giganta | 巨化女 |  |  |
+| lois lane | 露易丝·莱恩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
