@@ -1995,6 +1995,7 @@ example:
 | lonely church | Lonely Church |  |  |
 | nekotyabatake | 猫茶畑 |  |  |
 | practice | practice |  |  |
+| sakuranoiro | サクラノイロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
