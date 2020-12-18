@@ -3198,6 +3198,7 @@ example:
 | supergirl | 超级少女 |  | [百度百科](https://baike.baidu.com/item/超级少女/16786875) |
 | superwoman | 超级女侠 |  | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
 | batwoman | 蝙蝠女侠 |  | [百度百科](https://baike.baidu.com/item/蝙蝠女侠/430714) |
+| batgirl | 蝙蝠少女 |  | [百度百科](https://baike.baidu.com/item/蝙蝠少女/19823997) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
