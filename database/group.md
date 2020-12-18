@@ -2001,6 +2001,7 @@ example:
 | nekono oyashiro | ねこのおやしろ |  |  |
 | croix crown | croix crown |  |  |
 | chronolog | CHRONOLOG |  |  |
+| fururi. | ふるり。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
