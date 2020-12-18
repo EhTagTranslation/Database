@@ -1508,6 +1508,7 @@ example:
 | josou sanmyaku | 女装山脉 |  |  |
 | penguin highway | 企鹅公路 |  |  |
 | irotoridori no sekai | 五彩斑斓的世界 |  | [维基百科](https://zh.wikipedia.org/wiki/五彩斑斕的世界) |
+| tokyo xanadu | 东京迷城 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
