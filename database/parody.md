@@ -1527,6 +1527,7 @@ example:
 | hazbin hotel | 地狱客栈 |  |  |
 | hotel transylvania | 精灵旅社 |  |  |
 | hilda | 希尔达 |  | [萌娘百科](https://zh.moegirl.org.cn/希尔达) |
+| the dragon prince | 龙太子 | 也译龙王子 | [萌娘百科](https://zh.moegirl.org.cn/龙太子) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
