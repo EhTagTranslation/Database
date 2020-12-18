@@ -3212,6 +3212,7 @@ example:
 | giganta | 巨化女 |  |  |
 | lois lane | 露易丝·莱恩 |  |  |
 | miss martian | 火星少女 |  |  |
+| power girl | 神力女孩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
