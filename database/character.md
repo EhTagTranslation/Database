@@ -3214,6 +3214,7 @@ example:
 | miss martian | 火星少女 |  |  |
 | power girl | 神力女孩 |  |  |
 | talia al ghul | 塔利亚·艾尔·古尔 |  |  |
+| vixen | 雌狐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
