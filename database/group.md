@@ -1996,6 +1996,7 @@ example:
 | nekotyabatake | 猫茶畑 |  |  |
 | practice | practice |  |  |
 | sakuranoiro | サクラノイロ |  |  |
+| lunatic maiden | Lunatic\*Maiden |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
