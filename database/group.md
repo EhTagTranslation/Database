@@ -1992,6 +1992,7 @@ example:
 | ua daisakusen | U・A大作戦 |  |  |
 | white parabellum | white parabellum |  |  |
 | pecora room | pecora room |  |  |
+| lonely church | Lonely Church |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
