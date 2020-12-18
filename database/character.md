@@ -3188,6 +3188,7 @@ example:
 | shiori kashiwazaki | 柏崎栞 | 本名柏崎栞（kān），虎之兽人，是初音的妹妹，本属于自卫团，跟铃一样也是被派往伊丽莎白牧场驻守的成员。 | [萌娘百科](https://zh.moegirl.org.cn/柏崎栞) |
 | link | 林克 |  |  |
 | wonder woman | 神奇女侠 |  |  |
+| she-ra | 希瑞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
