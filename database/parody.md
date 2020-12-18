@@ -1522,6 +1522,7 @@ example:
 | phineas and ferb | 飞哥与小佛 |  | [百度百科](https://baike.baidu.com/item/飞哥与小佛) |
 | cthulhu mythos | 克苏鲁神话 |  | [维基百科](https://zh.wikipedia.org/wiki/克蘇魯神話) |
 | kipo and the age of wonderbeasts | 奇波和神奇动物的时代 |  |  |
+| amphibia | 奇幻沼泽 |  | [萌娘百科](https://zh.moegirl.org.cn/奇幻沼泽) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
