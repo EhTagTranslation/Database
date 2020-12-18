@@ -1990,6 +1990,7 @@ example:
 | hirusuta | 昼星 |  |  |
 | shikaniku kohan | しかにく湖畔 |  |  |
 | ua daisakusen | U・A大作戦 |  |  |
+| white parabellum | white parabellum |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
