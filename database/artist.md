@@ -3016,6 +3016,7 @@ example:
 | hinayuki usa | ヒナユキウサ |  | [Twitter](https://twitter.com/hina0x0) [pixiv](https://www.pixiv.net/users/228997) |
 | amamitu kousuke | 甘蜜こうすけ |  |  |
 | atiki | Aちき |  | [Twitter](https://twitter.com/atikix) [pixiv](https://www.pixiv.net/users/1655331) |
+| masaru.jp | まさる.jp |  | [Twitter](https://twitter.com/masarudottocom) [pixiv](https://www.pixiv.net/users/6547201) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
