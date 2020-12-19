@@ -2003,6 +2003,7 @@ example:
 | chronolog | CHRONOLOG |  |  |
 | fururi. | ふるり。 |  |  |
 | amamitu hakushi | 甘蜜博士 |  |  |
+| masaru dot com | マサルドットコム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
