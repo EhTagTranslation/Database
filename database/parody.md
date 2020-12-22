@@ -1536,6 +1536,7 @@ example:
 | doctor who | 神秘博士 |  |  |
 | rune factory | 符文工房 |  |  |
 | coraline | 鬼妈妈 |  |  |
+| dororo | 多罗罗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
