@@ -3018,6 +3018,7 @@ example:
 | atiki | Aちき |  | [Twitter](https://twitter.com/atikix) [pixiv](https://www.pixiv.net/users/1655331) |
 | masaru.jp | まさる.jp |  | [Twitter](https://twitter.com/masarudottocom) [pixiv](https://www.pixiv.net/users/6547201) |
 | kizuki rei | 傷希レイ |  |  |
+| arisu kazumi | 有栖かずみ |  | [pixiv](https://www.pixiv.net/users/206855) [Twitter](https://twitter.com/arisu_kazumi_) [Twitter (R18)](https://twitter.com/arisukazumi_r18) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
