@@ -2004,6 +2004,7 @@ example:
 | fururi. | ふるり。 |  |  |
 | amamitu hakushi | 甘蜜博士 |  |  |
 | masaru dot com | マサルドットコム |  |  |
+| irodori | IRODORI |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
