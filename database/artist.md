@@ -3021,6 +3021,7 @@ example:
 | arisu kazumi | 有栖かずみ |  | [pixiv](https://www.pixiv.net/users/206855) [Twitter](https://twitter.com/arisu_kazumi_) [Twitter (R18)](https://twitter.com/arisukazumi_r18) |
 | nanashiki | 七色 |  |  |
 | tokuno yuika | 徳之ゆいか |  | [Twitter](https://twitter.com/tokunocin) [pixiv](https://www.pixiv.net/users/10797546) |
+| cut | カット |  | [Twitter](https://twitter.com/umeboshi10191) [pixiv](https://www.pixiv.net/users/3428351) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
