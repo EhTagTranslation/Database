@@ -1537,6 +1537,7 @@ example:
 | rune factory | 符文工房 |  |  |
 | coraline | 鬼妈妈 |  |  |
 | dororo | 多罗罗 |  |  |
+| sekiro shadows die twice | 只狼：影逝二度 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
