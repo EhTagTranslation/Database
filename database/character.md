@@ -3216,6 +3216,7 @@ example:
 | talia al ghul | 塔利亚·艾尔·古尔 |  |  |
 | vixen | 雌狐 |  |  |
 | le malin | 恶毒 | 恶毒(MNF Le Malin/ ル・マラン)自由法国海军的恶毒号驱逐舰（French destroyer Le Malin） | [萌娘百科](https://zh.moegirl.org/碧蓝航线:恶毒) |
+| kutaka niwatari | 庭渡久侘歌 | touhou project 角色 | [https://thwiki.cc/庭渡久侘歌](https://thwiki.cc/庭渡久侘歌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
