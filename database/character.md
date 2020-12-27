@@ -3217,7 +3217,7 @@ example:
 | vixen | 雌狐 |  |  |
 | le malin | 恶毒 | 恶毒(MNF Le Malin/ ル・マラン)自由法国海军的恶毒号驱逐舰（French destroyer Le Malin） | [萌娘百科](https://zh.moegirl.org/碧蓝航线:恶毒) |
 | kutaka niwatari | 庭渡久侘歌 | touhou project 角色 | [https://thwiki.cc/庭渡久侘歌](https://thwiki.cc/庭渡久侘歌) |
-| suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏) |
+| suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 铃木雏](https://twitter.com/HinaSuzuki_HH) |
 | tanaka hime | 田中姬 | 田中姬<br><br>出身不明，据说在流浪的时候被田中工务店捡到，于是从此以后就住在田中工务店. | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 田中姬](https://twitter.com/HimeTanaka_HH) |
 
 <!--TEMPLATE: 
