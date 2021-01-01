@@ -1866,7 +1866,7 @@ example:
 | fuzichaku | 不時着 |  |  |
 | studio snow man | Studio Snow Man |  |  |
 | goldengoblins | GoldenGoblins |  |  |
-| kitaku jikan | 帰宅時間 |  |  |
+| kitaku jikan | 归宅时间 |  |  |
 | tanima ginkou | 谷间银行 |  |  |
 | nagaredamaya | 流弹屋 |  |  |
 | dschinghis khan no tamanegi wa ore no yome | ジンギスカンの玉葱は俺の嫁 |  |  |
