@@ -2528,7 +2528,7 @@ example:
 | shisyo | ししょー |  | [pixiv](https://www.pixiv.net/users/5910442)<br>[Twitter](https://twitter.com/Ci_syo) |
 | whistlerx | WhistlerX |  |  |
 | hagiwara asami | 萩原あさ美 |  |  |
-| itose ikuto | 愛瀬郁人 |  | [pixiv](https://www.pixiv.net/users/109010) |
+| itose ikuto | 爱濑郁人 |  | [pixiv](https://www.pixiv.net/users/109010) |
 | osaru | 御猿 |  |  |
 | etori yuuya | 江鸟 |  | [pixiv](https://www.pixiv.net/users/43886) |
 | ootsuka kotora | 大塚子虎 |  |  |
