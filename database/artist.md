@@ -2654,7 +2654,7 @@ example:
 | mame denkyuu | まめでんきゅう |  | [pixiv](https://www.pixiv.net/users/138129) [Twitter](https://twitter.com/mame_denkyuu) |
 | mocha | Mocha |  | [pixiv](https://www.pixiv.net/users/523251) [Twitter](https://twitter.com/naturefour) |
 | teitetsu | 蹄鉄 |  |  |
-| sugiura sen | 杉浦線 |  |  |
+| sugiura sen | 杉浦线 |  |  |
 | izumi nanase | いずみななせ |  | [pixiv](https://www.pixiv.net/users/7145395) [Twitter](https://twitter.com/izuminanase) |
 | moekibara fumitake | 萌木原文武 |  | [pixiv](https://www.pixiv.net/users/1030307) [Twitter](https://twitter.com/moetake) |
 | mizuki takehito | みづきたけひと |  | [pixiv](https://www.pixiv.net/users/31309034) [Twitter](https://twitter.com/mzktkht) |
