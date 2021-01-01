@@ -2878,7 +2878,7 @@ example:
 | highlow | 廃狼 |  |  |
 | hanao. | 熊尾もふもふ |  |  |
 | otokura ringo | 乙倉りんご |  |  |
-| rougetu | 朧月 |  |  |
+| rougetu | 胧月 |  |  |
 | ryuga syo | 龍牙翔 |  | [Twitter](https://twitter.com/syoryuga) [pixiv](https://www.pixiv.net/users/478717) |
 | kurage modoki | くらげもどき |  | [Twitter](https://twitter.com/kuragemodoki) [pixiv](https://www.pixiv.net/users/130985) |
 | oozora wakaba | 大空若葉 |  | [Twitter](https://twitter.com/oozorawakaba) [pixiv](https://www.pixiv.net/users/76670) |
