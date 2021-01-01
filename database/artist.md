@@ -2746,7 +2746,7 @@ example:
 | rogobo | ろごぼ |  | [pixiv](https://www.pixiv.net/users/27978040) [Twitter](https://twitter.com/RGB_0127) |
 | momoya show-neko | 桃屋しょう猫 |  | [pixiv](https://www.pixiv.net/users/2622704) |
 | mashiro yukiya | 真白雪夜 |  |  |
-| hikagi tatsuhiko | 緋鍵龍彦 |  | [Twitter](https://twitter.com/hikagi) [pixiv](https://www.pixiv.net/users/3957) |
+| hikagi tatsuhiko | 绯键龙彦 |  | [Twitter](https://twitter.com/hikagi) [pixiv](https://www.pixiv.net/users/3957) |
 | tekehiro | てけひろ | ![てけひろ头像](https://i.jpg.dog/img/d8573ac5100a77d7bc9fd291ce21c44a.png) | [Twitter](https://twitter.com/tekehiro) [pixiv](https://www.pixiv.net/users/19275) |
 | marumikan | 丸美甘 | ![丸美甘头像](https://i.jpg.dog/img/cd32bb63c8e660ff42347fed5f611955.jpg) | [Twitter](https://twitter.com/maru3kan) [pixiv](https://www.pixiv.net/users/31765636) [日文维基](https://ja.wikipedia.org/wiki/丸美甘) |
 | yamato bambies | ヤマトバンビーズ |  | [Twitter](https://twitter.com/bambi_es) [pixiv](https://www.pixiv.net/users/9009006) |
