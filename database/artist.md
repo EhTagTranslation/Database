@@ -2588,7 +2588,7 @@ example:
 | shiki | 四季 |  |  |
 | deyuyama | でゆ山 |  |  |
 | namidame | 涙目 |  |  |
-| higata akatsuki | 陽方晶月 |  |  |
+| higata akatsuki | 阳方晶月 |  |  |
 | kayumidome | かゆみ止め |  |  |
 | naha 78 | 七G |  |  |
 | getsuyou yasumi. | 月曜休み。 |  |  |
