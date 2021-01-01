@@ -1983,7 +1983,7 @@ example:
 | amasyrup | amasyrup |  |  |
 | maybenavy | MaybeNavy |  |  |
 | longbow flintlock | 长弓燧龙 | 名言"总有一天你们会看着我画的东西撸"的作者 |  |
-| nounai kanojo | 脳内彼女 |  |  |
+| nounai kanojo | 脑内彼女 |  |  |
 | jinsei yokosuberi. | 人生横滑り。 |  |  |
 | sanshoku nattou meshi | 三食納豆飯 |  |  |
 | shiguredoki | しぐれどき |  |  |
