@@ -2806,7 +2806,7 @@ example:
 | rokkotsu | 肋骨 |  |  |
 | akino komichi | 秋乃こみち |  | [Twitter](https://twitter.com/akikomichi_r18) [pixiv](https://www.pixiv.net/users/10136) |
 | ido | いど |  | [Twitter](https://twitter.com/idonum) [pixiv](https://www.pixiv.net/users/1101145) |
-| asaki takayuki | 朝木貴行 |  |  |
+| asaki takayuki | 朝木贵行 |  |  |
 | koyanagi royal | 小柳ロイヤル |  |  |
 | iketaki ganguten | 池泷玩具店 |  |  |
 | akagi kuro | 赤木クロ |  |  |
