@@ -1465,7 +1465,7 @@ example:
 | gankutsuou | 岩窟王 | 根据法国大文豪大仲马的经典小说《基督山恩仇记》所改编的电视动画，从2004年10月5日至2005年3月29日在日本播放，总共24集。动画画面充斥着独特的迷幻风格，加上惊心动魄的剧情，令作品获得2005年东京国际动画博览会优秀作品赏。后来作品也被改编成小说与漫画。<br>![图](https://cdn-us.anidb.net/images/main/221586.jpg) | [维基百科](https://zh.wikipedia.org/wiki/巖窟王) |
 | kiddy grade | 天使特警 | 《天使特警》（キディ·グレイド，Kiddy Grade，简称KG），为2002年10月播出的电视动画，共24集。2007年发表了要制作续篇“キディ·グレイド2（仮称）”的消息。08年正式推出续集kiddy girland，但是因为画风和剧情风格都有转换，制作公司换人，原作角色大幅变动和声优阵容的变动等各种原因而差评如潮![图](https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fad173faa9a8d3fd1f40345b6b?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) | [百度百科](https://baike.baidu.com/item/天使特警/5655) |
 | yat space travel agency | 星际漫游YAYAYA |  |  |
-| teisou gyakuten sekai | 貞操逆転世界 |  |  |
+| teisou gyakuten sekai | 贞操逆转世界 |  |  |
 | mondaiji-tachi ga isekai kara kuru sou desu yo | 问题儿童都来自异世界？ | 《问题儿童都来自异世界？》（日语：問題児たちが異世界から来るそうですよ？）简称“问题儿童”（問題児），是日本的轻小说作品。作者为龙之湖太郎，插画是天之有。2012年七月在杂志《Comp Ace》9月号封面上公开了作品动画企划进行中的消息。电视动画于2013年一月放映。曾获第一届《店员最爱轻小说大赏》第六位。<br>![问题儿童都来自异世界？](https://img.moegirl.org/common/0/02/问题儿童都来自异世界？.jpg) | [中文维基](https://zh.wikipedia.org/wiki/問題兒童都來自異世界？) [萌娘百科](https://zh.moegirl.org/zh-hans/问题儿童都来自异世界) [原作官方网站](https://web.archive.org/web/20120819082540/http://sneakerbunko.jp/series/mondaiji/index.php) |
 | alice gear aegis | 机战少女Alice | 《机战少女Alice》（日语：アリス・ギア・アイギス，英语：Alice Gear Aegis）是一款由Pyramid开发的动作和射击游戏。其内容主要是可供玩家操控各种兵器少女来进行战斗；此外，其角色由岛田文金设计，而机械设定则为海老川兼武和柳濑敬之所负责。<br>![logo](https://upload.wikimedia.org/wikipedia/zh/a/a5/Alice_Gear_Aegis_logo.png) | [日语官网](https://colopl.co.jp/alicegearaegis) [繁中官网](http://www.alicegear.so-net.tw) [中文维基](https://zh.wikipedia.org/wiki/機戰少女Alice) [萌娘百科](https://zh.moegirl.org/zh-hans/机战少女_Alice) |
 | houkago no pleiades | 放学后的昴星团 |  |  |
