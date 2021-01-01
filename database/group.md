@@ -1898,7 +1898,7 @@ example:
 | dokutoku no m | 独特のM |  |  |
 | watari laboratory | 渡里laboratory |  |  |
 | wappururun | わっぷるるん |  |  |
-| anzen chitai | 安全地帯 |  |  |
+| anzen chitai | 安全地带 |  |  |
 | loli seiyouken | 萝莉西洋剑 | 社团名称 | [Twitter](https://twitter.com/PANBAI2) |
 | shimizuan | 清水庵 |  |  |
 | sakusei kenkyuujo | 搾精研究所 |  |  |
