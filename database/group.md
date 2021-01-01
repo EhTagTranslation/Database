@@ -2005,6 +2005,7 @@ example:
 | amamitu hakushi | 甘蜜博士 |  |  |
 | masaru dot com | マサルドットコム |  |  |
 | irodori | IRODORI |  |  |
+| kamaboko koubou | カマボコ工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
