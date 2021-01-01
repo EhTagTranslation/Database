@@ -3220,6 +3220,7 @@ example:
 | suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 铃木雏](https://twitter.com/HinaSuzuki_HH) |
 | tanaka hime | 田中姬 | 田中姬<br><br>出身不明，据说在流浪的时候被田中工务店捡到，于是从此以后就住在田中工务店. | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 田中姬](https://twitter.com/HimeTanaka_HH) |
 | nobukatsu oda | 织田信胜 |  |  |
+| okita souji alter | 冲田总司Alter |  | [Mooncell-FGO中文Wiki](https://fgo.wiki/w/冲田总司〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/魔神Saber) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
