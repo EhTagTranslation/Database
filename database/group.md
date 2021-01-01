@@ -1613,7 +1613,7 @@ example:
 | h at break | H@BREAK |  |  |
 | saigado | 彩画堂 |  |  |
 | yuuendou | 遊猿堂 |  |  |
-| kouchaya | 紅茶屋 |  |  |
+| kouchaya | 红茶屋 |  |  |
 | testa kitchen | てすた厨房 |  |  |
 | kireinabuta | キレイナブタ |  |  |
 | saihate-kukan | 最果て空間 |  |  |
