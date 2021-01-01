@@ -2930,7 +2930,7 @@ example:
 | indozou | インド僧 |  | [Twitter](https://twitter.com/indozou) [pixiv](https://www.pixiv.net/users/390501) |
 | itou yuuji | イトウゆーじ |  | [Twitter](https://twitter.com/ug_110) [pixiv](https://www.pixiv.net/users/14192) |
 | yu-ki | ユーキ | ![ユーキ头像](https://i.jpg.dog/img/288c333808fefcb7d280ef5f4c5040d4.jpg) | [Twitter](https://twitter.com/yuukikagou) [pixiv](https://www.pixiv.net/users/454246) [Niconico](https://www.nicovideo.jp/user/19372224) [THBWiki](https://thwiki.cc/ユーキ) |
-| gotoh juan | 後藤寿庵 |  |  |
+| gotoh juan | 后藤寿庵 |  |  |
 | binto | 瓶人 |  |  |
 | itaru | 至る |  | [Twitter](https://twitter.com/dokoni_itaru) [pixiv](https://www.pixiv.net/users/73580) |
 | wasavi 8 | wasavi\_8 |  | [Twitter](https://twitter.com/wasavi_8) [pixiv](https://www.pixiv.net/users/1518356) |
