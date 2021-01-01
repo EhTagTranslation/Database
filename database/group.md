@@ -2006,6 +2006,7 @@ example:
 | masaru dot com | マサルドットコム |  |  |
 | irodori | IRODORI |  |  |
 | kamaboko koubou | カマボコ工房 |  |  |
+| shiki be careful | 四季注意 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
