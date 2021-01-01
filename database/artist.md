@@ -2557,7 +2557,7 @@ example:
 | sukoyaka gyuunyuu | 健やか牛乳 |  | [pixiv](https://www.pixiv.net/users/459456) |
 | saeki nao | 彩季なお |  | [pixiv](https://www.pixiv.net/users/16605) |
 | endori | えんどり |  | [pixiv](https://www.pixiv.net/users/1025698) |
-| fukuoka tarou | 福岡太朗 |  | [pixiv](https://www.pixiv.net/users/4436) |
+| fukuoka tarou | 福冈太朗 |  | [pixiv](https://www.pixiv.net/users/4436) |
 | mafuyu hemp | 麻冬HEMP |  |  |
 | kanno takanori | 南乃さざん |  |  |
 | takehana note | 竹花ノート |  |  |
