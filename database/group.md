@@ -1680,7 +1680,7 @@ example:
 | seemu | seemu。 |  | [官方网站](http://seemu.blog.fc2.com) |
 | mix-edge | MIX-EDGE |  | [官方网站](http://arui.dojin.com) |
 | muni koubou | むに工房 |  |  |
-| marota teikoku | 麻呂太帝国 |  |  |
+| marota teikoku | 麻吕太帝国 |  |  |
 | tenkirin | 天気輪 |  |  |
 | gust | GUST |  | [官方网站](http://gustnavi.sakura.ne.jp) |
 | tsurikichi doumei | 釣りキチ同盟 |  | [pixiv](https://www.pixiv.net/users/2926926) [官方网站](http://turikich.deko8.jp/INDEX.HTML) |
