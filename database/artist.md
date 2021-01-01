@@ -2587,7 +2587,7 @@ example:
 | takemitsu | たけみつ |  | [pixiv](https://www.pixiv.net/users/2757818) [Twitter](https://twitter.com/take_samurai1) |
 | shiki | 四季 |  |  |
 | deyuyama | でゆ山 |  |  |
-| namidame | 涙目 |  |  |
+| namidame | 泪目 |  |  |
 | higata akatsuki | 阳方晶月 |  |  |
 | kayumidome | かゆみ止め |  |  |
 | naha 78 | 七G |  |  |
