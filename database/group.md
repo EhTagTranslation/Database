@@ -2007,6 +2007,7 @@ example:
 | irodori | IRODORI |  |  |
 | kamaboko koubou | カマボコ工房 |  |  |
 | shiki be careful | 四季注意 |  |  |
+| yamakon-ya | 山绀屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
