@@ -1646,7 +1646,7 @@ example:
 | nagisa no yoko | 渚のヨーコ |  |  |
 | ruiketsuan | 涙穴庵 |  |  |
 | ribi dou | RIBI堂 |  |  |
-| anmonkan | 闇夢館 |  |  |
+| anmonkan | 暗梦馆 |  |  |
 | dairoku kadan | 第六花坛 |  |  |
 | salt choc | 塩ちょこ |  |  |
 | sawayaka tokunou milk | 爽やか特濃みるく |  |  |
