@@ -3025,6 +3025,7 @@ example:
 | taya | TAYA |  | [Twitter](https://twitter.com/taya_oco) [pixiv](https://www.pixiv.net/users/5323203) |
 | kamaboko | 釜ボコ |  |  |
 | mountainhan | 山含 |  | [pixiv](https://www.pixiv.net/users/1951517) [Twitter](https://twitter.com/EddieHanTaiwan) [Facebook](https://www.facebook.com/MountainHan2) |
+| ahugan sugita | アフガン杉田 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
