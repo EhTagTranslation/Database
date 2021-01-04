@@ -2009,6 +2009,7 @@ example:
 | shiki be careful | 四季注意 |  |  |
 | yamakon-ya | 山绀屋 |  |  |
 | botugo | 没后 | 没後 |  |
+| calm white | カームホワイト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
