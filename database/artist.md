@@ -2669,7 +2669,7 @@ example:
 | pan | ぱん |  | [pixiv](https://www.pixiv.net/users/178311) [Twitter](https://twitter.com/panno_mimi) |
 | yaman | yaman\*\* |  | [pixiv](https://www.pixiv.net/users/3043057) [Twitter](https://twitter.com/yamanta_15) |
 | anapon | あなぽん |  | [pixiv](https://www.pixiv.net/users/1640464) [Twitter](https://twitter.com/anapom) |
-| mashiro shirako | 真白しらこ |  |  |
+| mashiro shirako | 真白しらこ |  | [Twitter](https://twitter.com/calm_mashiro) [Twitter(R18)](https://twitter.com/calmwhite_r18) [pixiv](https://www.pixiv.net/users/16541647) |
 | yagi the goat | ヤギの人 | ![ヤギの人](https://i.pixiv.cat/user-profile/img/2018/12/31/01/01/14/15193810_c278d82c729fa8a5b68354a87e8ce2b0_170.png)<br>日本画师，擅长画furry。 | [Twitter](https://twitter.com/s1120411) [Pixiv](https://www.pixiv.net/users/12714855) [新浪微博](https://www.weibo.com/u/6445794323) |
 | morimiya masayuki | 森宮正幸 |  |  |
 | airandou | あいらんどう |  |  |
