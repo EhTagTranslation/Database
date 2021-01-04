@@ -3027,6 +3027,7 @@ example:
 | mountainhan | 山含 |  | [pixiv](https://www.pixiv.net/users/1951517) [Twitter](https://twitter.com/EddieHanTaiwan) [Facebook](https://www.facebook.com/MountainHan2) |
 | ahugan sugita | アフガン杉田 |  |  |
 | kurebayashi asami | 暮林あさ美 |  |  |
+| oshiro | 阿白 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
