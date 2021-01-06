@@ -2015,6 +2015,7 @@ example:
 | nekocat | NekoCat |  |  |
 | dicebomb | DiceBomb |  |  |
 | tetrapot | TETRAPOT |  |  |
+| tabgraphics | tabgraphics |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
