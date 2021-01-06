@@ -2011,6 +2011,7 @@ example:
 | botugo | 没后 | 没後 |  |
 | calm white | カームホワイト |  |  |
 | curtaincall | CurtainCαll |  |  |
+| rainboy | RainBoy |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
