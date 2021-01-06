@@ -3031,6 +3031,7 @@ example:
 | hakaishin | 破坏神 | 破壊神 | [pixiv](https://www.pixiv.net/users/965802) |
 | muryotaro | むりょたろ |  | [Twitter](https://twitter.com/muryou_tada) [pixiv](https://www.pixiv.net/users/1642433) |
 | stealyy | すてりい |  | [Twitter](https://twitter.com/stealyy) [pixiv](https://www.pixiv.net/users/524329) |
+| yamabukiiro | 山吹色 |  | [Twitter](https://twitter.com/bukiiro) [pixiv](https://www.pixiv.net/users/2911139) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
