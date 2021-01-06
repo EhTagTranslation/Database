@@ -2013,6 +2013,7 @@ example:
 | curtaincall | CurtainCαll |  |  |
 | rainboy | RainBoy |  |  |
 | nekocat | NekoCat |  |  |
+| dicebomb | DiceBomb |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
