@@ -3035,6 +3035,7 @@ example:
 | gotoh | ごとー |  | [Twitter](https://twitter.com/NEKOCAT510) [pixiv](https://www.pixiv.net/users/2956783) |
 | casino | カジノ |  | [Twitter](https://twitter.com/CasinoEP) [pixiv](https://www.pixiv.net/users/468133) |
 | hanekoto | はねこと |  | [Twitter](https://twitter.com/hanekoto2424) [pixiv](https://www.pixiv.net/users/2106422) |
+| kanzaki hiro | かんざきひろ |  | [Twitter](https://twitter.com/kanzakihiro) [pixiv](https://www.pixiv.net/users/27557) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
