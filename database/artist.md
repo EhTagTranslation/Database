@@ -3029,6 +3029,7 @@ example:
 | kurebayashi asami | 暮林あさ美 |  |  |
 | oshiro | 阿白 |  |  |
 | hakaishin | 破坏神 | 破壊神 | [pixiv](https://www.pixiv.net/users/965802) |
+| muryotaro | むりょたろ |  | [Twitter](https://twitter.com/muryou_tada) [pixiv](https://www.pixiv.net/users/1642433) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
