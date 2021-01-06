@@ -2027,7 +2027,7 @@ example:
 | nekosu | ねこす |  |  |
 | akahito | 赤人 |  |  |
 | hanada yanochi | 花田やのち |  |  |
-| kinokomushi | きのこむし |  |  |
+| kinokomushi | きのこむし |  | [Twitter](https://twitter.com/kinokomusin) [pixiv](https://www.pixiv.net/users/1218811) |
 | ichimura | イチムラ |  |  |
 | crimson | クリムゾン |  |  |
 | tanishi | たにし |  |  |
