@@ -2012,6 +2012,7 @@ example:
 | calm white | カームホワイト |  |  |
 | curtaincall | CurtainCαll |  |  |
 | rainboy | RainBoy |  |  |
+| nekocat | NekoCat |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
