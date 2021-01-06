@@ -1539,6 +1539,7 @@ example:
 | dororo | 多罗罗 |  |  |
 | sekiro shadows die twice | 只狼：影逝二度 |  |  |
 | kamihime project | 神姬Project |  |  |
+| merc storia | 梅露可物语 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
