@@ -2014,6 +2014,7 @@ example:
 | rainboy | RainBoy |  |  |
 | nekocat | NekoCat |  |  |
 | dicebomb | DiceBomb |  |  |
+| tetrapot | TETRAPOT |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
