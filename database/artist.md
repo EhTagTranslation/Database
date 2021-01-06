@@ -404,7 +404,7 @@ example:
 | yui toshiki | 唯登诗树 |  |  |
 | kitahara tomoe | 北原朋萌。 |  |  |
 | kizaki yuuri | 树崎祐里 |  |  |
-| shio kazunoko | 塩かずのこ |  |  |
+| shio kazunoko | 塩かずのこ |  | [Twitter](https://twitter.com/SIOKAZUNOKO) [pixiv](https://www.pixiv.net/users/4310379) |
 | muska | むすか |  |  |
 | amaduyu tatsuki | 甘露树 |  |  |
 | kawata hisashi | カワタヒサシ |  |  |
