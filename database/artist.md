@@ -2187,7 +2187,7 @@ example:
 | sakurai makoto | 櫻井マコト |  |  |
 | kuronyan | くろニャン |  |  |
 | moriyama yusuke | 森山雄介 |  |  |
-| son yohsyu | 孙杨州 |  |  |
+| son yohsyu | 孙阳州 | 孫陽州 | [pixiv](https://www.pixiv.net/users/9536) [Twitter](https://twitter.com/yohsyu) |
 | ray-kbys | Ray-Kbys |  |  |
 | potato | POTATO |  |  |
 | ichihara hikari z | 位置原光Z |  |  |
