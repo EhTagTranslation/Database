@@ -2016,6 +2016,7 @@ example:
 | dicebomb | DiceBomb |  |  |
 | tetrapot | TETRAPOT |  |  |
 | tabgraphics | tabgraphics |  |  |
+| akari koubou | 灯工房 |  | [pixiv](https://www.pixiv.net/users/33155081) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
