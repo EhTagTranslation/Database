@@ -3037,7 +3037,7 @@ example:
 | hanekoto | はねこと |  | [Twitter](https://twitter.com/hanekoto2424) [pixiv](https://www.pixiv.net/users/2106422) |
 | kanzaki hiro | かんざきひろ |  | [Twitter](https://twitter.com/kanzakihiro) [pixiv](https://www.pixiv.net/users/27557) |
 | saki chisuzu | さき千鈴 |  |  |
-| fujoujoshi | 不嬢女子 |  |  |
+| fujoujoshi | 不嬢女子 |  | [Twitter](https://twitter.com/huzeu1) [pixiv](https://www.pixiv.net/users/6486425) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
