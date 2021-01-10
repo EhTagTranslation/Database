@@ -3231,6 +3231,7 @@ example:
 | xiao qiao | 小乔 |  |  |
 | zhao yun | 赵云 |  |  |
 | dakki | 妲己 |  |  |
+| oichi | 阿市 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
