@@ -3228,6 +3228,7 @@ example:
 | da qiao | 大乔 |  |  |
 | dong zhuo | 董卓 |  |  |
 | sun ce | 孙策 |  |  |
+| xiao qiao | 小乔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
