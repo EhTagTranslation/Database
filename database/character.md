@@ -3226,6 +3226,7 @@ example:
 | athena asamiya | 麻宫雅典娜 |  | [https://zh.moegirl.org.cn/麻宫雅典娜](https://zh.moegirl.org.cn/麻宫雅典娜) |
 | da ji | 妲己 |  |  |
 | da qiao | 大乔 |  |  |
+| dong zhuo | 董卓 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
