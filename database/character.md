@@ -3230,6 +3230,7 @@ example:
 | sun ce | 孙策 |  |  |
 | xiao qiao | 小乔 |  |  |
 | zhao yun | 赵云 |  |  |
+| dakki | 妲己 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
