@@ -3041,6 +3041,7 @@ example:
 | mikuni saho | 御国纱帆 | 御国紗帆 |  |
 | tatsuse yumino | 龙濑弓乃 | 龍瀬弓乃 |  |
 | ma-kurou | まー九郎 |  |  |
+| maitaimu | 舞大梦 | 舞大夢 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
