@@ -238,7 +238,7 @@ example:
 | kakugari kyoudai | カクガリ兄弟 |  |  |
 | matsumomo mahiru | 松百まひる |  |  |
 | aoi masami | あおいまさみ（苍海） |  | [pixiv](https://www.pixiv.net/users/764148) [Twitter](https://twitter.com/aoimasami) |
-| itou life | 伊東ライフ |  | [pixiv](https://www.pixiv.net/users/32156) |
+| itou life | 伊东life | 伊東ライフ | [pixiv](https://www.pixiv.net/users/32156) |
 | taniguchi-san | 谷口さん |  |  |
 | amou mari | 天羽真理 |  |  |
 | tsuttsu | つっつ |  |  |
