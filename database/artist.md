@@ -3043,6 +3043,7 @@ example:
 | ma-kurou | まー九郎 |  |  |
 | maitaimu | 舞大梦 | 舞大夢 |  |
 | kyozip | 狂zip |  |  |
+| nishi yoshiyuki | 西义之 | 西義之 | [Twitter](https://twitter.com/nishiyoshiyuki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
