@@ -2017,6 +2017,7 @@ example:
 | tetrapot | TETRAPOT |  |  |
 | tabgraphics | tabgraphics |  |  |
 | akari koubou | 灯工房 |  | [pixiv](https://www.pixiv.net/users/33155081) |
+| kajou sesshu | 過剰摂取 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
