@@ -3042,6 +3042,7 @@ example:
 | tatsuse yumino | 龙濑弓乃 | 龍瀬弓乃 |  |
 | ma-kurou | まー九郎 |  |  |
 | maitaimu | 舞大梦 | 舞大夢 |  |
+| kyozip | 狂zip |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
