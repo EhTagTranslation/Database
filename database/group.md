@@ -2018,6 +2018,7 @@ example:
 | tabgraphics | tabgraphics |  |  |
 | akari koubou | 灯工房 |  | [pixiv](https://www.pixiv.net/users/33155081) |
 | kajou sesshu | 過剰摂取 |  |  |
+| mousou bijutsubu | 妄想美術部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
