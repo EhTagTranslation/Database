@@ -3044,6 +3044,7 @@ example:
 | maitaimu | 舞大梦 | 舞大夢 |  |
 | kyozip | 狂zip |  |  |
 | nishi yoshiyuki | 西义之 | 西義之 | [Twitter](https://twitter.com/nishiyoshiyuki) |
+| momonosukebe | 腿之助兵卫 | 腿之助兵衛 | [pixiv](https://www.pixiv.net/users/41396497) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
