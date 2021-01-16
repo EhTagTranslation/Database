@@ -3045,6 +3045,7 @@ example:
 | kyozip | 狂zip |  |  |
 | nishi yoshiyuki | 西义之 | 西義之 | [Twitter](https://twitter.com/nishiyoshiyuki) |
 | momonosukebe | 腿之助兵卫 | 腿之助兵衛 | [pixiv](https://www.pixiv.net/users/41396497) |
+| torichamaru | 鸟茶丸 | 鳥茶丸 | [pixiv](https://www.pixiv.net/users/356490) [Twitter](https://twitter.com/toricha_maru) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
