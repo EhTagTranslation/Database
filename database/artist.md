@@ -3047,6 +3047,7 @@ example:
 | momonosukebe | 腿之助兵卫 | 腿之助兵衛 | [pixiv](https://www.pixiv.net/users/41396497) |
 | torichamaru | 鸟茶丸 | 鳥茶丸 | [pixiv](https://www.pixiv.net/users/356490) [Twitter](https://twitter.com/toricha_maru) |
 | uonome beji | 魚目ベジ |  |  |
+| j-kisarazu | JK更津 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
