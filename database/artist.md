@@ -3048,6 +3048,7 @@ example:
 | torichamaru | 鸟茶丸 | 鳥茶丸 | [pixiv](https://www.pixiv.net/users/356490) [Twitter](https://twitter.com/toricha_maru) |
 | uonome beji | 魚目ベジ |  |  |
 | j-kisarazu | JK更津 |  |  |
+| greco roman | 暮古浪漫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
