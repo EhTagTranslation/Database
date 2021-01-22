@@ -3232,6 +3232,7 @@ example:
 | zhao yun | 赵云 |  |  |
 | dakki | 妲己 |  |  |
 | oichi | 阿市 |  |  |
+| itou life | 伊东life | 伊東ライフ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
