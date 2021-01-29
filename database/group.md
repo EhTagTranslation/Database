@@ -2020,6 +2020,7 @@ example:
 | kajou sesshu | 過剰摂取 |  |  |
 | mousou bijutsubu | 妄想美術部 |  |  |
 | yuruyakatou | ゆるやか島 |  |  |
+| p.a. works | P.A.Works |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
