@@ -3049,6 +3049,7 @@ example:
 | uonome beji | 魚目ベジ |  |  |
 | j-kisarazu | JK更津 |  |  |
 | greco roman | 暮古浪漫 |  |  |
+| shugao | しゅがお | ![しゅがお头像](https://i.loli.net/2021/01/29/a3rWBlUFCORE7Ln.jpg) | [Twitter](https://twitter.com/haru_sugar02) [pixiv](https://www.pixiv.net/users/612602) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
