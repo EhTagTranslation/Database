@@ -75,6 +75,7 @@ example:
 | figure | 手办 | 现实中的模型或人偶。 |  |
 | full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是`animated`。 |  |
+| goudoushi | 合同志 | 包含了多位艺术家的作品，都是以人物、原作、癖好等单一主题为中心的自费出版的书。主要用在`doujinshi`和`non-h`分类。 |  |
 | how to | 教程 | 关于如何绘画或设计的教学图像。 |  |
 | multi-work series | 系列作品 | 一个完整的作品，其故事跨多册书籍或发行版。不应与`story arc`混淆。 |  |
 | novel | 小说 | 大部分页面为不包含图片的纯文本。 |  |
