@@ -3233,6 +3233,7 @@ example:
 | dakki | 妲己 |  |  |
 | oichi | 阿市 |  |  |
 | itou life | 伊东life | 伊東ライフ |  |
+| rangiku matsumoto | 松本乱菊 | 松本乱菊（日语：松本 乱菊（まつもと らんぎく）；罗马拼音：Matsumoto Rangiku）是由久保带人所创作漫画《BLEACH》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/松本乱菊](https://zh.moegirl.org.cn/松本乱菊) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
