@@ -3052,7 +3052,7 @@ example:
 | shugao | しゅがお | ![しゅがお头像](https://i.loli.net/2021/01/29/a3rWBlUFCORE7Ln.jpg) | [Twitter](https://twitter.com/haru_sugar02) [pixiv](https://www.pixiv.net/users/612602) |
 | andoryu | 安堂流 |  | [Twitter](https://twitter.com/andrew_andoryu) [pixiv](https://www.pixiv.net/users/14880747) |
 | commamion | 狐狸恩 | コンマミオン<br>[“狐狸恩”为官方中文名](https://twitter.com/commamion1/status/1181484491543470081) | [Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
-| numa | 沼 | `commamion`的同人志用笔名 | [Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
+| numa | numa \| 沼 | numa：[pixiv](https://www.pixiv.net/users/10797247)<br>沼：`commamion`的同人志用笔名 | numa：[pixiv](https://www.pixiv.net/users/10797247)<br>沼：[Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
