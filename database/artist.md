@@ -3054,6 +3054,7 @@ example:
 | commamion | 狐狸恩 | コンマミオン<br>[“狐狸恩”为官方中文名](https://twitter.com/commamion1/status/1181484491543470081) | [Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
 | numa | numa \| 沼 | numa：[pixiv](https://www.pixiv.net/users/10797247)<br>沼：`commamion`的同人志用笔名 | numa：[pixiv](https://www.pixiv.net/users/10797247)<br>沼：[Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
 | amagappa shoujogun | 雨がっぱ少女群 |  | [Twitter](https://twitter.com/michiluhome) [pixiv](https://www.pixiv.net/users/1183648) |
+| suzumi raika | 凉海来夏 | 涼海来夏 | [Twitter](https://twitter.com/raika_suzumi) [pixiv](https://www.pixiv.net/users/8375334) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
