@@ -3056,6 +3056,7 @@ example:
 | amagappa shoujogun | 雨がっぱ少女群 |  | [Twitter](https://twitter.com/michiluhome) [pixiv](https://www.pixiv.net/users/1183648) |
 | suzumi raika | 凉海来夏 | 涼海来夏 | [Twitter](https://twitter.com/raika_suzumi) [pixiv](https://www.pixiv.net/users/8375334) |
 | aramaki echizen | 荒卷越前 | 荒巻越前 | [Twitter](https://twitter.com/maki_pei) [pixiv](https://www.pixiv.net/en/users/1318857) |
+| nakada rumi | 中田瑠美 |  | [Twitter](https://twitter.com/nakada_rumi) [pixiv](https://www.pixiv.net/users/96432) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
