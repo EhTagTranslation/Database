@@ -1542,6 +1542,7 @@ example:
 | merc storia | 梅露可物语 |  |  |
 | twelve forever | 永远十二岁 |  | [萌娘百科][https://zh.moegirl.org.cn/zh-hans/永远12岁](https://zh.moegirl.org.cn/zh-hans/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
+| little nightmares | 小小噩梦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
