@@ -3235,6 +3235,7 @@ example:
 | itou life | 伊东life | 伊東ライフ |  |
 | rangiku matsumoto | 松本乱菊 | 松本乱菊（日语：松本 乱菊（まつもと らんぎく）；罗马拼音：Matsumoto Rangiku）是由久保带人所创作漫画《BLEACH》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/松本乱菊](https://zh.moegirl.org.cn/松本乱菊) |
 | shining | 闪灵 | 明日方舟干员闪灵。![闪灵](https://img.moegirl.org.cn/common/4/47/明日方舟立绘_闪灵_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:闪灵) |
+| jill valentine | 吉尔·瓦伦蒂安 | 电子游戏《生化危机》系列的女主角之一，曾在《生化危机1》《生化危机3》《生化危机 启示录》担任主角。 | [吉尔·瓦伦蒂安][维基百科](https://zh.wikipedia.org/wiki/吉兒·范倫廷) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
