@@ -977,7 +977,7 @@ example:
 | touka takanashi | 小鸟游十花 | ![小鸟游十花](https://ehgt.org/3d/f6/3df6b804f019a38a4b6c843daac9662d27cea7d2-543872-1550-2249-jpg_l.jpg) |  |
 |  | ▼ 守望先锋 角色 |  |  |
 | mercy | 天使 | ![](https://ehgt.org/3a/74/3a7481fa86013292b904e37f2bfc81f7d757efc2-8661127-3267-2476-jpg_l.jpg) |  |
-| tracer | 猎空 | ![](https://ehgt.org/6f/32/6f327b72a308ecb6b8b9f27928ea891a5c48800f-8471943-3267-2476-jpg_l.jpg) |  |
+| tracer | 猎空 | ![](https://ehgt.org/6f/32/6f327b72a308ecb6b8b9f27928ea891a5c48800f-8471943-3267-2476-jpg_l.jpg)<br>莉娜·奥克斯顿（代号：“猎空”）是一位可以进行时间跳跃的冒险家，为了正义而不懈努力着。 | [萌娘百科](https://zh.moegirl.org.cn/猎空) |
 | widowmaker | 黑百合 | ![](https://ehgt.org/29/a0/29a058dd6aaa0ccd49c9a9f098de0072ec6f54db-8442967-3267-2476-jpg_l.jpg) |  |
 | mei | 美 | ![](https://ehgt.org/96/c8/96c8cdf6bcebbc6b45d571408c2e89f73ac5837e-8171132-3267-2476-jpg_l.jpg) |  |
 | d.va | D.VA | ![](https://ehgt.org/49/39/4939aeb6bf4f575bca60912afdb445d96111fd72-8610156-3267-2476-jpg_l.jpg) |  |
