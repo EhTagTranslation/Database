@@ -2029,6 +2029,7 @@ example:
 | tsundere is love | Tsundere is Love |  |  |
 | irodoriya | 彩屋 |  |  |
 | kinakomochi | 木なこもち |  |  |
+| gelatin | Gelatin\* |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
