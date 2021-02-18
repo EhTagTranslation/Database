@@ -3075,6 +3075,7 @@ example:
 | gomzi | gomzi |  | [Twitter](https://twitter.com/gcmzi) [pixiv](https://www.pixiv.net/users/1023317) |
 | amamitsuki | 天三月 |  | [Twitter](https://twitter.com/amamitsuki12) [pixiv](https://www.pixiv.net/users/465133) |
 | xenon | 世音 |  | [Twitter](https://twitter.com/xenon919) [pixiv](https://www.pixiv.net/users/84467) |
+| gyozanuko | 餃子ぬこ |  | [Twitter](https://twitter.com/gyozanuko) [pixiv](https://www.pixiv.net/users/10450946) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
