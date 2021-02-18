@@ -1652,7 +1652,7 @@ example:
 | reitou mikan | れいとうみかん |  |  |
 | ruuen rouga | 龙炎狼牙 |  |  |
 | kisaragi nana | 如月なな |  |  |
-| adumi kazuki | あづみ一樹 |  |  |
+| adumi kazuki | あづみ一樹 |  | [Twitter](https://twitter.com/kazukiadumi) [pixiv](https://www.pixiv.net/users/326359) |
 | sasagawa iko | 佐々川いこ |  |  |
 | wancho | わんちょ |  |  |
 | kajishima masaki | 梶岛正树 | 梶岛正树（1962年3月15日－）是冈山县出身的动画师、角色设定和动画原作者。 | [维基百科](https://zh.wikipedia.org/zh-hans/梶島正樹) (\*) |
