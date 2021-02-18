@@ -3060,6 +3060,7 @@ example:
 | yuzuto sen | 柚十扇 |  | [Twitter](https://twitter.com/yzt1000)<br>[Pixiv](https://www.pixiv.net/users/12455366) |
 | hayashi kewi | 林けゐ |  | [Twitter](https://twitter.com/haya_kewi) [pixiv](https://www.pixiv.net/users/3079252) |
 | tadano saboten | ただのサボテン |  | [Twitter](https://twitter.com/tdnsbtn) [pixiv](https://www.pixiv.net/users/9061925) |
+| hara yui | 原悠衣 |  | [pixiv](https://www.pixiv.net/users/517112) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
