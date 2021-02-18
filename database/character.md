@@ -3239,6 +3239,7 @@ example:
 | yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>冰芽川四糸（ひめかわ よしの），是橘公司所著、つなこ负责插画的轻小说《约会大作战》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
 | exusiai | 能天使 | 手游《明日方舟》干员能天使。<br>![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
+| hatsune kashiwazaki | 柏崎初音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
