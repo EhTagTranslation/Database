@@ -2026,6 +2026,7 @@ example:
 | alice syndrome | AliceSyndrome\* |  |  |
 | pale light | PALE LIGHT |  |  |
 | saboten saibaijo | サボテン栽培所 |  |  |
+| tsundere is love | Tsundere is Love |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
