@@ -2034,6 +2034,7 @@ example:
 | maho-bin | まほ～びん |  |  |
 | near harmonica | ニアハモニカ |  |  |
 | kankitsu shoujo | 柑橘少女 |  |  |
+| chickelata | チキラータ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
