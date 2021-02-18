@@ -3061,6 +3061,7 @@ example:
 | hayashi kewi | 林けゐ |  | [Twitter](https://twitter.com/haya_kewi) [pixiv](https://www.pixiv.net/users/3079252) |
 | tadano saboten | ただのサボテン |  | [Twitter](https://twitter.com/tdnsbtn) [pixiv](https://www.pixiv.net/users/9061925) |
 | hara yui | 原悠衣 |  | [pixiv](https://www.pixiv.net/users/517112) |
+| ibuki notsu | 伊吹のつ |  | [Twitter](https://twitter.com/sai_no) [pixiv](https://www.pixiv.net/users/7013) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
