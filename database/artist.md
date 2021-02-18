@@ -3062,6 +3062,7 @@ example:
 | tadano saboten | ただのサボテン |  | [Twitter](https://twitter.com/tdnsbtn) [pixiv](https://www.pixiv.net/users/9061925) |
 | hara yui | 原悠衣 |  | [pixiv](https://www.pixiv.net/users/517112) |
 | ibuki notsu | 伊吹のつ |  | [Twitter](https://twitter.com/sai_no) [pixiv](https://www.pixiv.net/users/7013) |
+| kinako | 木なこ |  | [Twitter](https://twitter.com/ppp_usagi_) [pixiv](https://www.pixiv.net/users/13992671) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
