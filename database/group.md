@@ -2031,6 +2031,7 @@ example:
 | kinakomochi | 木なこもち |  |  |
 | gelatin | Gelatin\* |  |  |
 | kusakabeworks | KusakabeWorks |  |  |
+| maho-bin | まほ～びん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
