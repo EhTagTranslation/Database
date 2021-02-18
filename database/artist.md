@@ -3077,6 +3077,7 @@ example:
 | xenon | 世音 |  | [Twitter](https://twitter.com/xenon919) [pixiv](https://www.pixiv.net/users/84467) |
 | gyozanuko | 餃子ぬこ |  | [Twitter](https://twitter.com/gyozanuko) [pixiv](https://www.pixiv.net/users/10450946) |
 | raptor7 | ラプトル７ |  | [Twitter](https://twitter.com/raputoru7) [pixiv](https://www.pixiv.net/users/717077) |
+| toshi | toshi |  | [pixiv](https://www.pixiv.net/users/637016) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
