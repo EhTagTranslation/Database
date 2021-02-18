@@ -3063,6 +3063,7 @@ example:
 | hara yui | 原悠衣 |  | [pixiv](https://www.pixiv.net/users/517112) |
 | ibuki notsu | 伊吹のつ |  | [Twitter](https://twitter.com/sai_no) [pixiv](https://www.pixiv.net/users/7013) |
 | kinako | 木なこ |  | [Twitter](https://twitter.com/ppp_usagi_) [pixiv](https://www.pixiv.net/users/13992671) |
+| shiino sera | 椎野せら |  | [Twitter](https://twitter.com/nitaleg_) [pixiv](https://www.pixiv.net/users/2394234) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
