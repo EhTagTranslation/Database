@@ -1571,7 +1571,7 @@ example:
 | yoroduya hyakuhachi | 万屋百八 |  |  |
 | takapiko | たかぴこ |  |  |
 | kobayashi chisato | 小林ちさと |  |  |
-| siomidu | しおみづ |  |  |
+| siomidu | しおみづ |  | [Twitter](https://twitter.com/siomidu) [pixiv](https://www.pixiv.net/users/483782) |
 | fudou ran | 不动乱 |  |  |
 | ikuya daikokudou | 几夜大黑堂 |  | [pixiv](https://www.pixiv.net/users/464765) |
 | kaduchi | カヅチ |  |  |
