@@ -3067,6 +3067,7 @@ example:
 | kusakabe | 草壁 |  | [Twitter](https://twitter.com/kusakabe) [pixiv](https://www.pixiv.net/users/10302) |
 | kaiware | かいわれ |  | [Twitter](https://twitter.com/kaiwaresan) [pixiv](https://www.pixiv.net/users/53425) |
 | nakyo | なきょ |  | [Twitter](https://twitter.com/na_kyo_) [pixiv](https://www.pixiv.net/users/36951223) |
+| kutori panya | 九鳥ぱんや |  | [Twitter](https://twitter.com/ktr_pny) [pixiv](https://www.pixiv.net/users/22429) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
