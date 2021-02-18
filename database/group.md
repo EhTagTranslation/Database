@@ -2027,6 +2027,7 @@ example:
 | pale light | PALE LIGHT |  |  |
 | saboten saibaijo | サボテン栽培所 |  |  |
 | tsundere is love | Tsundere is Love |  |  |
+| irodoriya | 彩屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
