@@ -2023,6 +2023,7 @@ example:
 | p.a. works | P.A.Works |  |  |
 | commamion | 狐狸恩 | コンマミオン<br>[“狐狸恩”为官方中文名](https://twitter.com/commamion1/status/1181484491543470081) | [Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
 | gantai shoujo chudoku | 眼帯少女中毒 |  | [官方网站](https://gantaigirl.org/) |
+| alice syndrome | AliceSyndrome\* |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
