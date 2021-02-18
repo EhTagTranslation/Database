@@ -1537,7 +1537,7 @@ example:
 | morikura en | 森仓圆 |  |  |
 | af kuro | アフ黒 |  |  |
 | kaguyuzu | カグユヅ |  |  |
-| dsmile | DSマイル |  |  |
+| dsmile | DSマイル |  | [Twitter](https://twitter.com/DSmile9) [pixiv](https://www.pixiv.net/users/795196) |
 | monoto | ものと |  |  |
 | snowmi | すのみ |  |  |
 | dozamura | どざむら |  |  |
