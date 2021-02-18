@@ -2037,6 +2037,7 @@ example:
 | chickelata | チキラータ |  |  |
 | shida bokujou | 羊歯牧場 |  |  |
 | chiffonxx | Chiffonxx |  |  |
+| floralia | Floralia |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
