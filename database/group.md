@@ -2039,6 +2039,7 @@ example:
 | chiffonxx | Chiffonxx |  |  |
 | floralia | Floralia |  |  |
 | happy color festival | HAPPY COLOR FESTIVAL! |  |  |
+| sembyokibu | 扇猫喜舞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
