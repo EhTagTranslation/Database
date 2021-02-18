@@ -3069,6 +3069,7 @@ example:
 | nakyo | なきょ |  | [Twitter](https://twitter.com/na_kyo_) [pixiv](https://www.pixiv.net/users/36951223) |
 | kutori panya | 九鳥ぱんや |  | [Twitter](https://twitter.com/ktr_pny) [pixiv](https://www.pixiv.net/users/22429) |
 | chiica | ちぃか |  | [Twitter](https://twitter.com/cure_cherish) [pixiv](https://www.pixiv.net/users/667710) |
+| ushiro | う白 |  | [Twitter](https://twitter.com/0oqopo0) [pixiv](https://www.pixiv.net/users/31994148) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
