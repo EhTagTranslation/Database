@@ -3066,6 +3066,7 @@ example:
 | shiino sera | 椎野せら |  | [Twitter](https://twitter.com/nitaleg_) [pixiv](https://www.pixiv.net/users/2394234) |
 | kusakabe | 草壁 |  | [Twitter](https://twitter.com/kusakabe) [pixiv](https://www.pixiv.net/users/10302) |
 | kaiware | かいわれ |  | [Twitter](https://twitter.com/kaiwaresan) [pixiv](https://www.pixiv.net/users/53425) |
+| nakyo | なきょ |  | [Twitter](https://twitter.com/na_kyo_) [pixiv](https://www.pixiv.net/users/36951223) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
