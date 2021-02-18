@@ -2460,7 +2460,7 @@ example:
 | haguruma | 歯車 |  |  |
 | kanekiyo miwa | 兼清みわ |  |  |
 | gayarou | ☆画野朗 |  |  |
-| yashiro seika | 八城惺架 |  |  |
+| yashiro seika | 八城惺架 |  | [Twitter](https://twitter.com/yashiro_seika) [pixiv](https://www.pixiv.net/users/柑橘少女) |
 | tokiwa midori | 常磐緑 |  |  |
 | tsubaki jushirou | 椿十四郎 |  |  |
 | tukinowagamo | 月ノ輪ガモ |  |  |
