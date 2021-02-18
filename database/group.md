@@ -2028,6 +2028,7 @@ example:
 | saboten saibaijo | サボテン栽培所 |  |  |
 | tsundere is love | Tsundere is Love |  |  |
 | irodoriya | 彩屋 |  |  |
+| kinakomochi | 木なこもち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
