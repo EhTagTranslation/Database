@@ -2389,7 +2389,7 @@ example:
 | anzaki moral | 杏咲モラル |  |  |
 | brother pierrot | ブラザーピエロ |  |  |
 | orutoro | おるとろ |  |  |
-| piromizu | ピロ水 |  |  |
+| piromizu | ピロ水 |  | [Twitter](https://twitter.com/piromizu) [pixiv](https://www.pixiv.net/users/151922) |
 | jorori | じょろり |  |  |
 | abe manabu | 安部マナブ |  |  |
 | matsunami rumi | 松波留美 |  |  |
