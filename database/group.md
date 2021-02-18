@@ -2033,6 +2033,7 @@ example:
 | kusakabeworks | KusakabeWorks |  |  |
 | maho-bin | まほ～びん |  |  |
 | near harmonica | ニアハモニカ |  |  |
+| kankitsu shoujo | 柑橘少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
