@@ -2035,6 +2035,7 @@ example:
 | near harmonica | ニアハモニカ |  |  |
 | kankitsu shoujo | 柑橘少女 |  |  |
 | chickelata | チキラータ |  |  |
+| shida bokujou | 羊歯牧場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
