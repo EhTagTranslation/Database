@@ -3070,6 +3070,7 @@ example:
 | kutori panya | 九鳥ぱんや |  | [Twitter](https://twitter.com/ktr_pny) [pixiv](https://www.pixiv.net/users/22429) |
 | chiica | ちぃか |  | [Twitter](https://twitter.com/cure_cherish) [pixiv](https://www.pixiv.net/users/667710) |
 | ushiro | う白 |  | [Twitter](https://twitter.com/0oqopo0) [pixiv](https://www.pixiv.net/users/31994148) |
+| yuyumatsu | ゆゆまつ |  | [Twitter](https://twitter.com/yuyumatsu_) [pixiv](https://www.pixiv.net/users/4357590) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
