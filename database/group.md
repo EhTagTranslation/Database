@@ -2038,6 +2038,7 @@ example:
 | shida bokujou | 羊歯牧場 |  |  |
 | chiffonxx | Chiffonxx |  |  |
 | floralia | Floralia |  |  |
+| happy color festival | HAPPY COLOR FESTIVAL! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
