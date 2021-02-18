@@ -2040,6 +2040,7 @@ example:
 | floralia | Floralia |  |  |
 | happy color festival | HAPPY COLOR FESTIVAL! |  |  |
 | sembyokibu | 扇猫喜舞 |  |  |
+| weapon container | 武器櫃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
