@@ -1543,6 +1543,7 @@ example:
 | twelve forever | 永远十二岁 |  | [萌娘百科][https://zh.moegirl.org.cn/zh-hans/永远12岁](https://zh.moegirl.org.cn/zh-hans/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
 | little nightmares | 小小噩梦 |  |  |
+| healin good precure | Healin' Good ♥ 光之美少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
