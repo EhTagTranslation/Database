@@ -2025,6 +2025,7 @@ example:
 | gantai shoujo chudoku | 眼帯少女中毒 |  | [官方网站](https://gantaigirl.org/) |
 | alice syndrome | AliceSyndrome\* |  |  |
 | pale light | PALE LIGHT |  |  |
+| saboten saibaijo | サボテン栽培所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
