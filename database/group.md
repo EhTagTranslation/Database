@@ -2030,6 +2030,7 @@ example:
 | irodoriya | 彩屋 |  |  |
 | kinakomochi | 木なこもち |  |  |
 | gelatin | Gelatin\* |  |  |
+| kusakabeworks | KusakabeWorks |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
