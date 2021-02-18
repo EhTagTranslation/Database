@@ -3072,6 +3072,7 @@ example:
 | ushiro | う白 |  | [Twitter](https://twitter.com/0oqopo0) [pixiv](https://www.pixiv.net/users/31994148) |
 | yuyumatsu | ゆゆまつ |  | [Twitter](https://twitter.com/yuyumatsu_) [pixiv](https://www.pixiv.net/users/4357590) |
 | sakura shiho | 紗倉シホ |  | [Twitter](https://twitter.com/_shihoncake_) [pixiv](https://www.pixiv.net/users/18974005) |
+| gomzi | gomzi |  | [Twitter](https://twitter.com/gcmzi) [pixiv](https://www.pixiv.net/users/1023317) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
