@@ -3240,6 +3240,7 @@ example:
 | exusiai | 能天使 | 手游《明日方舟》干员能天使。<br>![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 |  |  |
+| mdr | MDR | MDR是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》（英：Girls' Frontline）及其衍生作品的登场角色。于2018.3.22加入游戏。<br>![MDR](https://p.sda1.dev/1/732ec27d8909a7ce50245792ea853351/image.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:MDR) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
