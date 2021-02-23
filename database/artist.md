@@ -3080,6 +3080,7 @@ example:
 | toshi | toshi |  | [pixiv](https://www.pixiv.net/users/637016) |
 | taishinkokuoh anton | 大秦国王安敦 |  | [Twitter](https://twitter.com/taisinkoku) |
 | wanyanaguda | 完颜阿骨打 | 完顔阿骨打 | [Twitter](https://twitter.com/wanaguda) [pixiv](https://www.pixiv.net/users/8197147/) |
+| kaede | ゆか | 白键系列画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
