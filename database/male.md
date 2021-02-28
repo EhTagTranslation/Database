@@ -538,7 +538,7 @@ example:
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
 | gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用`transformation`。不应与`body swap`或`crossdressing`混淆。不用于女性变为`futanari`的情况。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
 |  | === 性别 > 性别间关系 === |  |  |
-| bisexual | 双性 | 参与性别或恋物癖活动的人物，在整个画廊中具有相反的性别特征。不应用于`dickgirl on dickgirl`。 |  |
+| bisexual | 双性恋 | 画廊中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
 | dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是`anal`还是`blowjob`。需要`futanari`或`shemale`标签。<br>![图](# "https://ehgt.org/d4/f1/d4f1ddc47d26269a3a1a6567237944e64fa0ac7f-3288334-1709-2400-jpg_l.jpg") |  |
 |  | == 技术 == |  |  |
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |  |
