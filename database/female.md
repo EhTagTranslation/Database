@@ -270,7 +270,7 @@ example:
 | gokkun | 饮精 | 喝下精液。在`blowjob`后进行的此行为不被包含在内，必须单独发生。<br>![图](# "https://ehgt.org/bc/b2/bcb2f52e42839f98c09df61eed468fa9b48a069f-157141-800-600-jpg_250.jpg")![图](# "https://ehgt.org/20/91/20910c7cc5e264f88bd7872771e9a4b84f344fe8-745353-984-1400-jpg_l.jpg")![图](# "https://ehgt.org/e5/9d/e59daa483b0d9e7ebedb9b860dc2a13dcf3a8325-1850669-2006-2995-jpg_l.jpg") |  |
 | kissing | 接吻💏 | 两个人的嘴唇在一起的行为，也可能将他们的舌头移动到彼此的嘴里或吮吸它们。<br>![图](# "https://ehgt.org/38/dc/38dc6c23ce99f9e590c4ee44a614d923f5be309f-9380070-3448-2463-png_l.jpg")![图](# "https://ehgt.org/08/2b/082b22351cb893ec95fdde84ddb2e29522eb7715-9002844-3427-2459-png_l.jpg")![图](# "https://ehgt.org/78/73/7873665de8ba79b80c41a82b62a47daf71badc5d-12142749-2120-3012-png_l.jpg")![图](# "https://ehgt.org/d5/c4/d5c4b4200236de185597b699bc34f92af9c7ad65-12259079-2132-3028-png_l.jpg") |  |
 | long tongue | 长舌👅 | 舌头的长度应至少能够从嘴伸到人的眉毛。 |  |
-| multimouth blowjob | 多嘴吹箫 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 | |
+| multimouth blowjob | 多嘴吹箫 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
 | piss drinking | 饮尿 | 需要`urination`标签。<br>![图](# "https://ehgt.org/51/92/5192ae44b9b223b12c3ac4b8d151b917074ae525-220251-703-994-jpg_l.jpg")![图](# "https://ehgt.org/0f/a1/0fa1de80f684f2436ed081ed85a97cb7dd65e787-421333-620-877-jpg_l.jpg")![图](# "https://ehgt.org/17/31/1731c4b0fefc3125c5896a5c218350708124cb12-354507-640-480-png_l.jpg") |  |
 | rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。<br>![图](# "https://ehgt.org/4d/f3/4df3b442abf4c23e4e906bd43adb7014e4f4ac8a-16234462-6810-4794-png_l.jpg") |  |
 | saliva | 唾液 | 将相当数量的口腔分泌物用于性目的。舔食或吐痰不算在内。 |  |
@@ -552,7 +552,7 @@ example:
 | cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
 | guro | 肢解 | 肢解人类或`furry`。不用于温和的`blood`或暴力。不应与`snuff`混淆。不需要`blood`标签。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
-| electric shocks | 电击 | 用电力引起疼痛或快感。 |  ||
+| electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于`torture`的程度。不应与`wrestling`混淆。 |  |
 | snuff | 杀害 | 杀害人类或`furry`。不应与`guro`混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
 | torture | 拷打 | 使用各种技术来制造痛苦。通常使用各种不寻常的`sex toys`，但也可能有更多古怪的主题，如`guro`。不一定是`bdsm`。 |  |
@@ -623,7 +623,7 @@ example:
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
 |  | == 低存在 == |  |  |
 | low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
-| low guro | 低存在肢解 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  
+| low guro | 低存在肢解 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
 | low lolicon | 低存在萝莉 | 表示`lolicon`的情况没有通过存在规则(presence rule)。需要`lolicon`标签。 |  |
 | low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
 | low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
