@@ -45,12 +45,12 @@ example:
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与`shrinking`混淆。 |  |
 | dilf | 熟男 | 看上去像30-50岁的男性，不一定是`father`。不得与`old man`混淆。 |  |
 | infantilism | 幼稚型 | 将成年人当作小孩对待。 |  |
-| low shotacon | 未通过正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
 | old man | 老人 | 看起来在50岁以上的男性，不得与`dilf`混淆。 |  |
 | shotacon | 正太 | 小男孩。<br>![举例](# "https://ehgt.org/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg")![图](# "https://ehgt.org/b4/f2/b4f27457519a0eb55cbc231c34152084d8351cd3-543154-1000-1458-jpg_l.jpg")![图](# "https://ehgt.org/3a/46/3a466e7dc00e27d80e8d6be4674b08c6b8efb25f-304032-1067-1514-jpg_l.jpg") |  |
 | toddlercon | 幼儿 | 学步的儿童。 |  |
 |  | == 身体 == |  |  |
 | amputee | 截肢 | 缺少一个或多个肢体的人。可援引`guro`标签。<br>![恶](## "https://ehgt.org/d6/3e/d63e318249970d2a1c07548fa4f8cec0315dcd20-8825286-2511-3544-png_l.jpg") |  |
+| big muscles | 大肌肉 | 明显的大肌肉。臂宽必须与头部相等，或者大腿的宽度必须与头部成1.5倍。需要`muscle`标签。 |  |
 | body modification | 身体改造 | 以人工方式替换身体的某些部位。不应与`transformation`混淆。 |  |
 | conjoined | 连体 | 两个或更多的头分享同一个身体。 |  |
 | doll joints | 关节娃娃 | 有圆形或镶嵌的人工关节。 |  |
@@ -72,6 +72,7 @@ example:
 |  | === 身体 > 生物 === |  |  |
 | alien | 外星人👽 | 具有外星生物特征的男性。 |  |
 | angel | 天使 | 拥有天使的翅膀或光环。 |  |
+| bat boy | 蝙蝠男 | `bat girl`的男性版本。 |  |
 | bear boy | 狗熊男 | 有圆形耳朵和其他熊的特征的男性。 |  |
 | bunny boy | 兔子男孩 | `bunny girl`的男性版本。 |  |
 | catboy | 猫男 | `catgirl`的男性版本。 |  |
@@ -140,7 +141,6 @@ example:
 | insect | 昆虫🐜 | 任何陆生无脊椎动物。 |  |
 | kangaroo | 袋鼠 | 任何有袋类动物。 |  |
 | lion | 狮🦁 | 任何有蓬松鬃毛的雄性豹属动物。 |  |
-| low bestiality | 未通过兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
 | maggot | 蛆🐛 | 任何幼体（两栖类、昆虫、刺丝胞动物在变态为蛹或成体之前的状态）动物。 |  |
 | monkey | 猴🐒 | 任何小型灵长目动物。 |  |
 | mouse | 鼠🐀 | 任何啮齿目动物。 |  |
@@ -252,12 +252,13 @@ example:
 | burping | 打嗝 | 可见的打嗝行为。 |  |
 | coprophagia | 食粪 | 需要`scat`标签。 |  |
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。需要`blowjob`标签。<br>![图](# "https://ehgt.org/12/13/121392d6bed3ec1101d993aac7f3117ca643d6ec-672297-1920-2720-jpg_l.jpg")![图](# "https://ehgt.org/60/cb/60cbf026b6e78cbe9648af3df10c764f7a61f985-726641-1920-2720-jpg_l.jpg") |  |
-| double blowjob | 一食二鸟 | 两个阴茎插入同一张嘴。不需要`blowjob`标签，除非涉及单一阴茎的行为分开发生。<br>![图](# "https://ehgt.org/1f/c6/1fc64efe6699c5c077195b52e319d591d304b62d-1741282-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/1b/01/1b019842eaf57e538f4f7143909e36761e787dcd-812799-1072-1500-jpg_l.jpg") |  |
+| double blowjob | 一食二鸟 | 两个阴茎插入同一张嘴。不需要`blowjob`标签，除非涉及单一阴茎的行为分开发生。不应与`multimouth blowjob`混淆。<br>![图](# "https://ehgt.org/1f/c6/1fc64efe6699c5c077195b52e319d591d304b62d-1741282-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/1b/01/1b019842eaf57e538f4f7143909e36761e787dcd-812799-1072-1500-jpg_l.jpg") |  |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](# "https://ehgt.org/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg")![图](# "https://ehgt.org/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg") |  |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及`bondage`。 |  |
 | gokkun | 饮精 | 喝下精液。在`blowjob`后进行的此行为不被包含在内，必须单独发生。<br>![图](# "https://ehgt.org/77/92/7792cf36262a0ed3b5d93710439162b108d33ef9-3988229-1200-1695-png_l.jpg") |  |
 | kissing | 接吻💏 | 两个人的嘴唇在一起的行为，也可能将他们的舌头移动到彼此的嘴里或吮吸它们。 |  |
 | long tongue | 长舌👅 | 舌头的长度应至少能够从嘴伸到人的眉毛。 |  |
+| multimouth blowjob | 多嘴吹箫 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 | |
 | piss drinking | 饮尿 | 需要`urination`标签。<br>![图](# "https://ehgt.org/fd/cf/fdcf01961161b39aab0d387aea78eba12b3df6c6-6305989-4122-6052-jpg_l.jpg") |  |
 | rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。<br>![图](# "https://ehgt.org/c0/ac/c0ac00407728601a1928be03f0fff314b08e0884-493476-1024-576-png_l.jpg") |  |
 | saliva | 唾液 | 将相当数量的口腔分泌物用于性目的。舔食或吐痰不算在内。 |  |
@@ -278,6 +279,7 @@ example:
 | fisting | 拳交💪 | 将拳头插入阴道或肛门。<br>![图](# "https://ehgt.org/6e/34/6e348febf1e485d8187f60ef373c70e378de9f6e-907460-2024-1239-jpg_l.jpg")![图](# "https://ehgt.org/2d/7c/2d7c584f2d8dd98efe2ecdd77e83bff63c54a19e-197747-595-841-png_l.jpg") |  |
 | gloves | 手套 | 覆盖手和手指的衣服。可以向肩部延伸至手臂。 |  |
 | handjob | 打手枪 | 为其他人手淫。不应与`masturbation`混淆。<br>![图](# "https://ehgt.org/02/e7/02e79607efae17120115dafd18be129fd575d165-638605-1024-576-png_l.jpg") |  |
+| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 胸部 == |  |  |
 |  | === 胸部 > 乳房 === |  |  |
 | big areolae | 大乳晕 | 应至少达到乳房表面积的1/3。 |  |
@@ -320,7 +322,6 @@ example:
 | dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender bender`标签。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
-| low smegma | 未通过阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。 |  |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
@@ -331,6 +332,7 @@ example:
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
 | birth | 出产 | 生物诞生的过程，在此之前一般会`pregnant`。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及`big clit`。依照被插入的一方标记命名空间。 |  |
+| cuntbusting | 阴道破坏 | 物理攻击阴道的行为。 |  |
 | unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`birth`相反，因此不需要`birth`或`pregnant`标签。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 肛交 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
@@ -482,7 +484,6 @@ example:
 | bukkake | 颜射 | 性主角被精液覆盖，一般不止一个人射精。不局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
 | cum bath | 精液浴 | 浴缸、泳池或其他大容器装有精液，至少有一个人部分浸没在精液中。 |  |
 |  | ==== 液体 > 体液 > 排泄物 ==== |  |  |
-| low scat | 未通过排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。 |  |
 | scat | 排便💩 | 是`coprophagia`的前置标签。 |  |
@@ -513,7 +514,6 @@ example:
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
 | guro | 肢解 | 肢解人类或`furry`。不用于温和的`blood`或暴力。不应与`snuff`混淆。不需要`blood`标签。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
-| low guro | 未通过肢解 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于`torture`的程度。不应与`wrestling`混淆。 |  |
 | snuff | 杀害 | 杀害人类或`furry`。不应与`guro`混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
 | torture | 拷打 | 使用各种技术来制造痛苦。通常使用各种不寻常的`sex toys`，但也可能有更多古怪的主题，如`guro`。不一定是`bdsm`。 |  |
@@ -577,3 +577,12 @@ example:
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
+|  | == 低存在 == |  |  |
+| low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
+| low guro | 低存在肢解 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
+| low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
+| low shotacon | 低存在正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
+| low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
+|  | == 高存在 == |  |  |
+| focus anal | 高存在肛交 | 画廊超过 50% 的内容为`anal`。需要`anal`标签。 |  |
+| focus blowjob | 高存在口交 | 画廊超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |

@@ -69,32 +69,25 @@ example:
 | 3d | 3D | 计算机生成的 3D 图像。不应与`stereoscopic`和`anaglyph`混淆。 |  |
 | anaglyph | 红蓝3D | 使用双色产生 3D 效果的图片。不应与`3d`和`stereoscopic`混淆。 |  |
 | animated | 动图 | 包含 GIF 动图的画廊。 |  |
-| anthology | 选集 | 多个作者共同完成的完整的书（杂志）。`incomplete`的选集和`artbook`不算在内。 |  |
-| artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于`incomplete`的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
 | comic | 西方漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
 | full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是`animated`。 |  |
-| goudoushi | 合同志 | 包含了多位艺术家的作品，都是以人物、原作、癖好等单一主题为中心的自费出版的书。主要用在`doujinshi`和`non-h`分类。 |  |
 | how to | 教程 | 关于如何绘画或设计的教学图像。 |  |
 | multi-work series | 系列作品 | 一个完整的作品，其故事跨多册书籍或发行版。不应与`story arc`混淆。 |  |
-| novel | 小说 | 大部分页面为不包含图片的纯文本。 |  |
+| non-h imageset | 无H图片集 | 绘制的非色情内容，不构成漫画或漫画集（即松散的图像，屏幕截图等）。 这样的画廊中的图像最好具有单一主题（例如，单一的艺术家，系列，人物或恋物癖）。只用于`non-h`分类。 |  |
 | paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
 | redraw | 重绘 | 替换了原始图像的部分内容。消除修正的过程不算在内。 |  |
 | screenshots | 截图 | 电影、动画或电视节目的截图。`animated`不算在内。 |  |
 | sketch lines | 线稿 | 在初步创建更详细的画作时经常使用的粗线，表明画作未完成或未被艺术家清理。 |  |
-| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为`doujinshi`或者`non-h`画廊. |  |
 | stereoscopic | 立体图 | 可以使用 3D 眼镜观看的成对的立体图像。不应与`3d`和`anaglyph`混淆。 |  |
 | story arc | 故事线 | 在单个画廊中的多个章节讲述同一个故事。需要至少 75 页或 4 章。 对于`tankoubon`，50% 的内容需要符合条件。不应与`multi-work series`混淆。 |  |
-| tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 |  |
 | themeless | 无主题 | 没有特定主题或关注点的画廊。 |  |
-| variant set | 变体集 | 从静态角度仅描绘单一场景的画廊。 |  |
-| webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及移动设备而设的漫画。 |  |
-| western cg | 西方CG | 用于`western`类别的`artistcg`或`gamecg`。不包含`3d`作品。仅适用于`western`类别。类别标签候选。 |  |
-| western non-h | 西方无H | 用于西方来源的`non-h`画廊。仅适用于`misc`类别。类别标签候选。 |  |
-| western imageset | 西方图集 | 用于`western`类别的`imageset`。仅适用于`western`类别。类别标签候选。 |  |
+| western cg | 西方CG | 用于`western`分类的`artistcg`或`gamecg`。不包含`3d`作品。仅适用于`western`分类。类别标签候选。 |  |
+| western non-h | 西方无H | 用于西方来源的`non-h`画廊。仅适用于`misc`分类。类别标签候选。 |  |
+| western imageset | 西方图集 | 用于`western`类别的`imageset`。仅适用于`western`分类。类别标签候选。 |  |
 |  | === 技术 > 修正 === |  |  |
-| uncensored | 无修正 | 要么发表时就无码或之后消码，画廊没有任何修正点。不应使用于西部类别的画廊。<br>![修正解析图](https://tva1.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
+| uncensored | 无修正 | 发表时就无码或之后消码，画廊没有任何修正点。不应使用于`western`分类的画廊。<br>![修正解析图](https://tva1.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 | mosaic censorship | 马赛克修正 | 任何形式的马赛克修正，涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个画廊完整实施。不应用于无H画廊，因为对其进行修正是必须的。不应与`full censorship`混淆。<br>![修正解析图](https://tva1.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 | full censorship | 完全修正 | 任何形式的完全修正（全白色或黑色），涵盖了几乎所有或个人所有的生殖器区域。同样水平的修正需要在整个画廊完整实施。不应用于无H画廊，因为对其进行修正是必须的。不应与`mosaic censorship`混淆。<br>![修正解析图](https://tva1.sinaimg.cn/large/6c84b2d6jw1f3yuc3f7r7j205k0b43zr.jpg) |  |
 |  | === 技术 > Cosplay === |  |  |
@@ -113,9 +106,18 @@ example:
 | out of order | 顺序错乱 | 内容没有按顺序排列。 |  |
 | sample | 样本 | 完整作品的免费分发样品。表明该画廊可以由一个更完整的版本替换（除非是位于 [DNP 列表](https://forums.e-hentai.org/index.php?showtopic=19797)的作品）。 |  |
 | scanmark | 扫描水印 | 由扫描者/译者添加的水印。不用于单张的信息水印。 |  |
+|  | === 技术 > 格式 === |  |  |
+| anthology | 选集 | 多个作者共同完成的完整的书（杂志）。`incomplete`的选集和`artbook`不算在内。 |  |
+| artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于`incomplete`的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
+| goudoushi | 合作本 | 包含了多位艺术家的作品，都是以人物、原作、癖好等单一主题为中心的自费出版的书。主要用在`doujinshi`和`non-h`分类。`incomplete`作品不算。 |  |
+| novel | 小说 | 大部分页面为不包含图片的纯文本。 |  |
+| soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为`doujinshi`或者`non-h`画廊. |  |
+| tankoubon | 单行本 | 单行本，源于日本，是指丛书的其中一本。常见于日本漫画或轻小说，即是合辑成书。例如轻小说于各媒体连载后，把内容从连载的刊物重印成为一本独立以一个作品为题材的书籍。一般漫画单行本由 6 至 10 回集结而成。 |  |
+| variant set | 变体集 | 从静态角度仅描绘单一场景的画廊。 |  |
+| webtoon | Webtoon | Webtoon（朝鲜语：웹툰）是一种始创于韩国的新概念网络漫画，由“Web（网络）”及“Cartoon（漫画、卡通）”组成，只需向上下滑动就能阅读，不需翻页，是一种专为电脑及移动设备而设的漫画。 |  |
 |  | === 技术 > 语言 === |  |  |
 | caption | 说明文字 | 在不包含文本的图片中添加了文本。常放置于图片外。需要`rewrite`标签。 |  |
-| poor grammar | 渣翻 | 在翻译作品的每 40 页包含 10 个以上的语法或拼写错误。翻译作品中添加的原创文本不计在内。不用于`rewrite`作品。 |  |
+| poor grammar | 渣翻 | 在第三方翻译作品的每 40 页包含 10 个以上的语法或拼写错误。必须通过评论指出错误。原作中的语法或拼写错误的翻译不计在内。不用于`rewrite`作品。 |  |
 |  | == 上下文 == |  |  |
 |  | === 上下文 > 全画廊 === |  |  |
 | nudity only | 仅裸体 | 整个画廊中没有性行为，但有裸体图片。 |  |
