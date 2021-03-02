@@ -1544,6 +1544,7 @@ example:
 | warriors orochi | 无双大蛇 |  |  |
 | little nightmares | 小小噩梦 |  |  |
 | healin good precure | Healin' Good ♥ 光之美少女 |  |  |
+| uchi no maid ga uzasugiru | 我家的女仆有够烦！ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
