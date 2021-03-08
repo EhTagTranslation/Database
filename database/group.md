@@ -2043,6 +2043,7 @@ example:
 | weapon container | 武器櫃 |  |  |
 | shinsekai set | シンセカイセット |  |  |
 | ruinon | RUINON |  |  |
+| yamada shoukai | 山田商会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
