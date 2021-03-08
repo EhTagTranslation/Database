@@ -2042,6 +2042,7 @@ example:
 | sembyokibu | 扇猫喜舞 |  |  |
 | weapon container | 武器櫃 |  |  |
 | shinsekai set | シンセカイセット |  |  |
+| ruinon | RUINON |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
