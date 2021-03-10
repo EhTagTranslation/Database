@@ -2044,6 +2044,7 @@ example:
 | shinsekai set | シンセカイセット |  |  |
 | ruinon | RUINON |  |  |
 | yamada shoukai | 山田商会 |  |  |
+| takemoto seisaku iinkai | 竹本製作委員会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
