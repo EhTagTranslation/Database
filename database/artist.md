@@ -3083,6 +3083,7 @@ example:
 | kaede | ゆか | 白键系列画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [Twitter](https://twitter.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
 | shobu | 菖蒲 |  |  |
+| sakayama shinta | 茶化山心太 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
