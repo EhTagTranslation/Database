@@ -1545,6 +1545,7 @@ example:
 | little nightmares | 小小噩梦 |  |  |
 | healin good precure | Healin' Good ♥ 光之美少女 |  |  |
 | uchi no maid ga uzasugiru | 我家的女仆有够烦！ |  |  |
+| flying witch | 飞翔的魔女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
