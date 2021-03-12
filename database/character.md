@@ -3248,6 +3248,7 @@ example:
 | monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [美少女花骑士:乌头](https://zh.moegirl.org.cn/index.php?title=美少女花骑士:乌头) |
 | makoto kowata | 木幡真琴 |  |  |
 | elaina | 伊蕾娜 |  |  |
+| ganyu | 甘雨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
