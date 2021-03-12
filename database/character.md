@@ -3250,6 +3250,7 @@ example:
 | elaina | 伊蕾娜 |  |  |
 | ganyu | 甘雨 |  |  |
 | jean gunnhildr | 琴．古恩希尔德 |  |  |
+| jean | 琴 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
