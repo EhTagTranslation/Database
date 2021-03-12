@@ -3249,6 +3249,7 @@ example:
 | makoto kowata | 木幡真琴 |  |  |
 | elaina | 伊蕾娜 |  |  |
 | ganyu | 甘雨 |  |  |
+| jean gunnhildr | 琴．古恩希而德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
