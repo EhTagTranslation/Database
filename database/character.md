@@ -3256,7 +3256,7 @@ example:
 | ghislaine dedoldia | 基列奴·泰德路迪亞 |  |  |
 | eris boreas greyrat | 爱丽丝·格雷拉特 |  |  |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
-| musse egret | 妙婕·伊格瑞特 | [https://cdn.trails-game.com/wp-content/uploads/2020/08/Musse\_Egret\_Sen\_IV.png](https://cdn.trails-game.com/wp-content/uploads/2020/08/Musse_Egret_Sen_IV.png) | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
+| musse egret | 妙婕·伊格瑞特 |  | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
