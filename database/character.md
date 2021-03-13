@@ -3265,6 +3265,7 @@ example:
 | shizuru hoshino | 星野静流 |  |  |
 | mifuyu ogami | 大神 美冬 |  |  |
 | tamaki miyasaka | 宫坂珠希 |  |  |
+| yuuki | 佑树 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
