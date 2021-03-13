@@ -3256,7 +3256,7 @@ example:
 | ghislaine dedoldia | 基列奴·泰德路迪亞 |  |  |
 | eris boreas greyrat | 爱丽丝·格雷拉特 |  |  |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
-| musse egret | 妙婕·伊格瑞特 |  | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
+| musse egret | 妙婕·伊格瑞特 | ![图](## "https://ehgt.org/03/2e/032ec82a9669cd36f600f994b8fce574a515e38a-751640-1200-900-jpg_l.jpg")靠著清纯而又蛊惑人心的言行扰乱旁人的少女。背负著继承四大名门首席凯恩公爵之位的命运。<br><br>在第二分校期间，运用能从无数事象中望穿未来的「棋手」在第二分校期间，运用能从无数事象中望穿未来的「棋手」能力，为了替即将到来的大战预做准备，暗中与魔女薇塔‧克洛提德接触。<br><br>于灾厄《巨硕黄昏》降临期间，率领《伍兹兰特革命军》与帝国政府对立。明知世界难免会有牺牲，仍旧做出舍弃自身性命的觉悟与之对抗。<br><br>大战结束后，再次回到《Ⅶ班》重拾学业。正打算以少女妙婕的身分尽情享受以凯恩公爵名义开始活动前最后的短暂时光。 | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
