@@ -3084,6 +3084,7 @@ example:
 | fummy | ふみー |  | [Twitter](https://twitter.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
 | shobu | 菖蒲 |  |  |
 | sakayama shinta | 茶化山心太 \| 茶菓山しん太 |  |  |
+| takasaki keisuke | 高咲圭介 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
