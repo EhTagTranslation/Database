@@ -3263,6 +3263,7 @@ example:
 | chen hui-chieh | 陈（陈晖洁） |  |  |
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
 | shizuru hoshino | 星野静流 |  |  |
+| mifuyu ogami | 大神 美冬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
