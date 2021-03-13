@@ -3252,6 +3252,7 @@ example:
 | jean gunnhildr | 琴·古恩希尔德 |  |  |
 | jean | 琴 |  |  |
 | midori fuse | 布施翠 |  |  |
+| roxy migurdia | 洛琪希·米格路迪亞·格雷拉特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
