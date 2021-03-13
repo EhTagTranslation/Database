@@ -3261,6 +3261,7 @@ example:
 | fie claussell | 菲·克劳赛尔 | ![图](## "https://ehgt.org/eb/7d/eb7d754a606653bd29a3d8d4777bfee39a68e834-1420768-1213-1701-png_l.jpg")拥有过人的体能，猎兵团《西风旅团》出身的年轻女性游击士。<br><br>从前虽曾以猎兵身分投身于战场，但在遇见游击士莎拉并经历在托尔兹军官学院《Ⅶ班》的生活后，取得了正游击士的资格，和莎拉组成搭档。<br><br>在灾厄《巨硕黄昏》降临时，以女儿的身分见证了猎兵时代对她有养育之恩的路嘉团长之死，下定决心今后要以游击士身分活下去。<br><br>目前则以冠上猎兵时代的《妖精》名号的年轻游击士之姿快速崭露头角，并被协会视为将来性值得期待的成员。 | [https://trails-game.com/character/fie-claussell/](https://trails-game.com/character/fie-claussell/) |
 | alfin reise arnor | 艾尔芬·莱泽·亚诺尔 | ![图](## "https://ehgt.org/10/97/1097c33c1e90faf7d70a5faae1165305ac2d87bf-5932198-2480-3508-jpg_l.jpg")圣亚斯特莱亚女子学院／埃雷波尼亚帝国皇女<br><br>在民间拥有超高人气的埃雷波尼亚帝国皇女。与《旧Ⅶ班》的关系密切，声援著黎恩。<br><br>【兄长的遗物】<br><br>艾尔芬和黎恩一同前往兄长的故乡，执起他的遗物鲁特琴，献上一曲「琥珀之爱」。做好了面对弟弟赛德利克的觉悟。<br><br>【祈祷父亲恢复】<br><br>心情上虽然想守在父亲身边，但现在却有身为皇女必须完成之事，目送前往照料的母亲离开。 | [https://trails-game.com/character/alfin-reise-arnor/](https://trails-game.com/character/alfin-reise-arnor/) |
 | chen hui-chieh | 陈（陈晖洁） |  |  |
+| hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
