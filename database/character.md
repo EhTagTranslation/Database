@@ -3255,6 +3255,7 @@ example:
 | roxy migurdia | 洛琪希·米格路迪亞·格雷拉特 |  |  |
 | ghislaine dedoldia | 基列奴·泰德路迪亞 |  |  |
 | eris boreas greyrat | 爱丽丝·格雷拉特 |  |  |
+| aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
