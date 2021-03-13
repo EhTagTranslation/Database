@@ -2046,6 +2046,7 @@ example:
 | yamada shoukai | 山田商会 |  |  |
 | takemoto seisaku iinkai | 竹本製作委員会 |  |  |
 | umemoto seisaku iinkai | 梅本制作委員会 |  |  |
+| kotei gainen | 固定概念 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
