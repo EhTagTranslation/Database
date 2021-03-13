@@ -1248,7 +1248,7 @@ example:
 | psycho | さいこ |  |  |
 | rico | Rico |  | [Twitter](https://twitter.com/ricounco) [pixiv](https://www.pixiv.net/users/2656190) |
 | tomonaga kenji | 友永ケンジ |  |  |
-| fukuyama naoto | 复八磨直兔 |  | [Twitter](https://twitter.com/akaiusagi3) [pixiv](https://www.pixiv.net/users/1526412) |
+| fukuyama naoto | 复八磨直兔 | 復八磨直兎 | [Twitter](https://twitter.com/akaiusagi3) [pixiv](https://www.pixiv.net/users/1526412) |
 | kurokawa otogi | 黒川おとぎ |  |  |
 | satou takumi | 佐藤匠 |  |  |
 | shino | シノ |  |  |
