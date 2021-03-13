@@ -2047,6 +2047,7 @@ example:
 | takemoto seisaku iinkai | 竹本製作委員会 |  |  |
 | umemoto seisaku iinkai | 梅本制作委員会 |  |  |
 | kotei gainen | 固定概念 |  |  |
+| akausagi | 赤兔 | 赤兎 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
