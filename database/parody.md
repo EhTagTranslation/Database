@@ -244,7 +244,6 @@ example:
 |  | ▼女神转生 系列 |  |  |
 | shin megami tensei | 真·女神转生 |  |  |
 | shin megami tensei devil children | 真·女神转生 恶魔之子 |  |  |
-| shin megami tensei nocturne | 真·女神转生3 夜曲 |  |  |
 | devil survivor | 女神异闻录 恶魔幸存者 |  |  |
 | persona | 女神异闻录 |  |  |
 | persona 2 | 女神异闻录2 |  |  |
@@ -547,7 +546,7 @@ example:
 | full ani | Fullani | 全动画脱衣麻将 |  |
 | full metal panic | 全金属狂潮 |  |  |
 | fullmetal alchemist | 钢之炼金术师 |  |  |
-| full moon wo sagashite | 寻找满月 | 星河满月 |  |
+| full moon o sagashite | 寻找满月 | 星河满月 |  |
 | full metal daemon muramasa | 装甲恶鬼村正 |  |  |
 | futsuu no joshikousei ga locodol yattemita. | 普通女高中生要做当地偶像 |  |  |
 | fallout | 辐射 | 真空管朋克+后启示录+黑色幽默的游戏系列 |  |
@@ -590,7 +589,7 @@ example:
 | dennou coil | 电脑线圈 |  |  |
 | god eater | 噬神者 |  |  |
 | demi-chan wa kataritai | 亚人酱有话要说 |  |  |
-| akazukin cha cha | 小红帽恰恰 |  |  |
+| akazukin chacha | 小红帽恰恰 |  |  |
 | idol janshi suchie-pai | 美少女雀士 |  |  |
 | twin angels | 淫兽圣战 |  |  |
 | shadow lady | 月光淑女 |  |  |
@@ -625,7 +624,7 @@ example:
 | kick-ass | 海扁王 |  |  |
 | gad guard | 钢铁守护者 |  |  |
 | tears to tiara | 提亚拉之泪 |  |  |
-| december when there is no angel | 天使不在的12月 |  |  |
+| tenshi no inai 12-gatsu | 天使不在的12月 |  |  |
 | comic party | 漫画同人会 | 漫画派对 |  |
 | kizuato | 痕 |  |  |
 | sentimental graffiti | 青涩宝贝 |  |  |
@@ -656,7 +655,7 @@ example:
 | mai-otome | 舞-乙HiME | 《舞-乙HiME》是由日本日昇动画制作的动画作品。虽然这是《舞-HiME》第二个系列，但《舞-乙HiME》发生在一个新的时空背景，除了角色相同以外，其余皆不相同。 | [维基百科](https://zh.wikipedia.org/zh-cn/舞-乙HiME) (\*) |
 | hyouka | 冰菓 |  |  |
 | ookami-san to shichinin no nakama-tachi | 大神与七位伙伴 | 大神与七位伙伴，又译野狼大神（日语：オオカミさんと七人の仲間たち）是冲田雅轻小说作品《大神与…系列》的第一部，并有动画等衍生作品。 |  |
-| kikou shoujo wa kizutsukanai | 机巧少女不会受伤 |  |  |
+| machine-doll wa kizutsukanai | 机巧少女不会受伤 |  |  |
 | its not my fault that im not popular | 我不受欢迎，怎么想都是你们的错！ | 《我不受欢迎，怎么想都是你们的错！》（日语：私がモテないのはどう考えてもお前らが悪い!），通常又译《丧女》，是由谷川ニコ创作的一部漫画作品。现已动画化，由SILVER LINK负责制作并与2013年7月8日播出，每周一话。 |  |
 | mouretsu pirates | 迷你裙宇宙海贼 |  |  |
 | gantz | 杀戮都市 |  |  |

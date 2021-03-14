@@ -205,7 +205,7 @@ example:
 |  | ▲东方Project 人物 |  |  |
 |  | ▼ Love Live 人物 |  |  |
 | honoka kosaka | 高坂穗乃果 | 所属团体 μ's<br>![高坂穗乃果](https://img.moegirl.org.cn/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/高坂穗乃果) |
-| yukiho kousaka | 高坂雪穗 | 高坂穗乃果的妹妹<br>![高坂雪穗](https://img.moegirl.org.cn/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/高坂雪穗) |
+| yukiho kosaka | 高坂雪穗 | 高坂穗乃果的妹妹<br>![高坂雪穗](https://img.moegirl.org.cn/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/高坂雪穗) |
 | eli ayase | 绚濑绘里 | 所属团体 μ's<br>![绚濑绘里](https://img.acg.moe/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/绚濑绘里) |
 | arisa ayase | 绚濑亚里沙 | 绚濑绘里的妹妹<br>![绚濑亚里沙](https://img.moegirl.org.cn/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/绚濑亚里沙) |
 | kotori minami | 南小鸟 | 所属团体 μ's<br>![南小鸟](https://img.acg.moe/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/南小鸟) |
@@ -1617,7 +1617,7 @@ example:
 |  | 本内成香 |  |  |
 |  | 桧森誓子 |  |  |
 |  | 岩馆摇杏 |  |  |
-| maya yukiko | 真屋由晖子 |  |  |
+| yukiko maya | 真屋由晖子 |  |  |
 |  | 狮子原爽 |  |  |
 |  | 新井索菲亚 |  |  |
 |  | 浅见花子 |  |  |
@@ -1718,7 +1718,7 @@ example:
 | oolong | 乌龙 |  |  |
 | ranfan | 兰芳 |  |  |
 | lunch | 兰琪 |  |  |
-| mrs. briefs | 布里夫博士 |  |  |
+| panchy brief | 布里夫太太 | 布里夫太太，本名碧姬妮（游戏《龙珠Z：卡卡罗特》提及），是日本动漫《龙珠》系列中的女性角色之一，布里夫博士妻子，塔伊丝、布尔玛姐妹的母亲。 |  |
 |  | ▼萝莉的时间 |  |  |
 | kuro kagami | 镜黑 |  |  |
 | mimi usa | 宇佐美美 |  |  |
@@ -1734,7 +1734,7 @@ example:
 | freya | 芙蕾雅 |  |  |
 | hephaistos | 赫菲斯托丝 |  |  |
 | liliruca arde | 莉莉露卡·厄德 |  |  |
-| ryuu lyon | 琉·璃昂 |  |  |
+| ryuu lion | 琉·璃昂 |  |  |
 | loki | 洛基 |  |  |
 | syr flova | 希儿·福罗瓦 |  |  |
 |  | ▼ 魔法少女小圆 |  |  |
