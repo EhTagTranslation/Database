@@ -3086,6 +3086,7 @@ example:
 | sakayama shinta | 茶化山心太 \| 茶菓山しん太 |  |  |
 | takasaki keisuke | 高咲圭介 |  |  |
 | ushino naka | うしの菜夏 |  |  |
+| doskoinpo | doskoinpo |  | [Twitter](https://twitter.com/doskoinpo) [pixiv](https://www.pixiv.net/users/2960920) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
