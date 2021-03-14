@@ -839,6 +839,10 @@ example:
 | asahi serizawa | 芹泽朝阳 |  |  |
 | akira sunazuka | 砂冢明 |  |  |
 | riamu yumemi | 梦见璃亚梦 |  |  |
+| madoka higuchi | 樋口圆香 |  |  |
+| koito fukumaru | 福丸小糸 |  |  |
+| toru asakura | 浅仓透 |  |  |
+| hinana ichikawa | 市川雏菜 |  |  |
 | rookie trainer | 新手训练员 | 新手训练员（日语：ルーキートレーナー；英语：Rookie Trainer），本名青木庆（日语：青木慶），是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的训练员。 |  |
 | veteran trainer | 高手训练员 | 高手训练员（日语：ベテラントレーナー；英语：Veteran Trainer），本名青木圣（日语：青木聖），是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的训练员。 |  |
 |  | ▲偶像大师-THE IDOLM@STER 人物 |  |  |
@@ -1296,7 +1300,7 @@ example:
 |  | ▼ 约会大作战 角色 |  |  |
 | origami tobiichi | 鸢一折纸 |  |  |
 | kurumi tokisaki | 时崎狂三 |  |  |
-| yoshino | 四糸乃 |  |  |
+| yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>冰芽川四糸（ひめかわ よしの），是橘公司所著、つなこ负责插画的轻小说《约会大作战》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
 | kotori itsuka | 五河琴里 |  |  |
 | kaguya yamai | 八舞耶俱矢 |  |  |
 | yuzuru yamai | 八舞夕弦 |  |  |
@@ -3168,7 +3172,6 @@ example:
 | rizu ogata | 绪方理珠 |  |  |
 | asumi kominami | 小美浪爱澄 |  |  |
 | echidna | 艾姬多娜 |  |  |
-| madoka higuchi | 樋口圆香 |  |  |
 | haruka oozora | 大空遥 |  |  |
 | kanata higa | 比嘉彼方 |  |  |
 | narumi tooi | 远井成美 |  |  |
@@ -3236,7 +3239,6 @@ example:
 | rangiku matsumoto | 松本乱菊 | 松本乱菊（日语：松本 乱菊（まつもと らんぎく）；罗马拼音：Matsumoto Rangiku）是由久保带人所创作漫画《BLEACH》及其衍生作品的登场角色。 | [https://zh.moegirl.org.cn/松本乱菊](https://zh.moegirl.org.cn/松本乱菊) |
 | shining | 闪灵 | 明日方舟干员闪灵。![闪灵](https://img.moegirl.org.cn/common/4/47/明日方舟立绘_闪灵_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:闪灵) |
 | jill valentine | 吉尔·瓦伦蒂安 | 电子游戏《生化危机》系列的女主角之一，曾在《生化危机1》《生化危机3》《生化危机 启示录》担任主角。 | [吉尔·瓦伦蒂安][维基百科](https://zh.wikipedia.org/wiki/吉兒·范倫廷) |
-| yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>冰芽川四糸（ひめかわ よしの），是橘公司所著、つなこ负责插画的轻小说《约会大作战》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
 | exusiai | 能天使 | 手游《明日方舟》干员能天使。<br>![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 |  |  |
@@ -3263,7 +3265,7 @@ example:
 | chen hui-chieh | 陈（陈晖洁） |  |  |
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
 | shizuru hoshino | 星野静流 |  |  |
-| mifuyu ogami | 大神 美冬 |  |  |
+| mifuyu ogami | 大神美冬 |  |  |
 | tamaki miyasaka | 宫坂珠希 |  |  |
 | yuuki | 佑树 |  |  |
 
