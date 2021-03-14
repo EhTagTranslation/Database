@@ -3085,6 +3085,7 @@ example:
 | shobu | 菖蒲 |  |  |
 | sakayama shinta | 茶化山心太 \| 茶菓山しん太 |  |  |
 | takasaki keisuke | 高咲圭介 |  |  |
+| ushino naka | うしの菜夏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
