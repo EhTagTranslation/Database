@@ -2425,7 +2425,7 @@ example:
 | masuda | 枡田 | ![枡田](https://img.dlsite.jp/modpub/images2/work/books/BJ211000/BJ210205_img_main.jpg)<br>茜新社「Comic Lo」作者 | [画师推特](https://twitter.com/yousaytwosin) |
 | nunnu | ぬんぬ | ![ぬんぬ](https://i.pixiv.cat/user-profile/img/2012/04/27/19/46/37/4529987_a3ea7c48b68745e6282cd8014716ba94_170.jpg)<br>文苑堂「COMIC BAVEL」作者<br><br>![ファンキーベイビー](https://pbs.twimg.com/media/EGmlUDIWwAECPLe?format=jpg&name=4096x4096) | [画师推特](https://twitter.com/nunnu_zero) [pixiv](https://www.pixiv.net/users/467466) |
 | shimanto shisakugata | 40010试作型 |  |  |
-| yuzuna hiyo | 柚子奈ひよ |  |  |
+| yuzuna hiyo | 柚子奈ひよ |  | [Twitter](https://twitter.com/yuzuna_hiyo) [pixiv](https://www.pixiv.net/users/3411827) |
 | kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
 | shiromochi sakura | 白もち桜 |  | [pixiv](https://www.pixiv.net/users/6837882) [Twitter](https://twitter.com/sakura_siromoti) |
