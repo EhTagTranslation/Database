@@ -2049,6 +2049,7 @@ example:
 | kotei gainen | 固定概念 |  |  |
 | akausagi | 赤兔 | 赤兎 |  |
 | haru koubou | 春工房 |  |  |
+| rin yuu | Rin☆Yuu |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
