@@ -2050,6 +2050,7 @@ example:
 | akausagi | 赤兔 | 赤兎 |  |
 | haru koubou | 春工房 |  |  |
 | rin yuu | Rin☆Yuu |  |  |
+| citron no mori | しとろんの杜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
