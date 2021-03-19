@@ -1546,6 +1546,7 @@ example:
 | uchi no maid ga uzasugiru | 我家的女仆有够烦！ |  |  |
 | flying witch | 飞翔的魔女 |  |  |
 | mushoku tensei | 无职转生～到了异世界就拿出真本事～ |  |  |
+| tanaka-kun wa itsumo kedaruge | 田中君总是如此慵懒 | 《田中君总是如此慵懒》（日语：田中くんはいつもけだるげ）是由ウダノゾミ创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/田中君总是如此慵懒) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
