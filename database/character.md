@@ -3270,6 +3270,7 @@ example:
 | yuuki | 佑树 |  |  |
 | yaya | 夜夜 |  | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
 | parvati | 帕尔瓦蒂 |  |  |
+| okada izou | 冈田以藏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
