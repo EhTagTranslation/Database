@@ -3269,6 +3269,7 @@ example:
 | tamaki miyasaka | 宫坂珠希 |  |  |
 | yuuki | 佑树 |  |  |
 | yaya | 夜夜 |  | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
+| parvati | 帕尔瓦蒂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
