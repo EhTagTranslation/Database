@@ -3273,6 +3273,7 @@ example:
 | okada izou | 冈田以藏 |  |  |
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
 | caenis | 凯妮斯 |  |  |
+| artoria caster | 阿尔托莉雅·Caster |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
