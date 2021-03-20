@@ -3272,6 +3272,7 @@ example:
 | parvati | 帕尔瓦蒂 |  |  |
 | okada izou | 冈田以藏 |  |  |
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
+| caenis | 凯妮斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
