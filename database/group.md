@@ -2051,6 +2051,7 @@ example:
 | haru koubou | 春工房 |  |  |
 | rin yuu | Rin☆Yuu |  |  |
 | citron no mori | しとろんの杜 |  |  |
+| mugen jirai | 无限地雷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
