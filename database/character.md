@@ -3274,6 +3274,7 @@ example:
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
 | caenis | 凯妮斯 |  |  |
 | artoria caster | 阿尔托莉雅·Caster |  |  |
+| atlanta | 亚特兰大 |  | [https://zh.kcwiki.cn/wiki/亚特兰大](https://zh.kcwiki.cn/wiki/亚特兰大) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
