@@ -3276,6 +3276,7 @@ example:
 | artoria caster | 阿尔托莉雅·Caster |  |  |
 | atlanta | 亚特兰大 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:亚特兰大) |
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
+| qin liangyu | 秦良玉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
