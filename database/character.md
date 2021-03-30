@@ -3278,6 +3278,7 @@ example:
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
 | qin liangyu | 秦良玉 |  |  |
 | swire | 诗怀雅 | 明日方舟干员之一 | [http://prts.wiki/w/诗怀雅](http://prts.wiki/w/诗怀雅) |
+| hayase nagatoro | 長瀞早瀨 | 长瀞早濑（日语：長瀞（ながとろ） 早瀬（はやせ））是由ナナシ创作的漫画《不要欺负我，长瀞同学》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/长瀞早濑) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
