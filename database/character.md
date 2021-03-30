@@ -3277,6 +3277,7 @@ example:
 | atlanta | 亚特兰大 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:亚特兰大) |
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
 | qin liangyu | 秦良玉 |  |  |
+| swire | 诗怀雅 | 明日方舟干员之一 | [http://prts.wiki/w/诗怀雅](http://prts.wiki/w/诗怀雅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
