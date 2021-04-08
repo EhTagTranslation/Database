@@ -2052,6 +2052,7 @@ example:
 | rin yuu | Rin☆Yuu |  |  |
 | citron no mori | しとろんの杜 |  |  |
 | mugen jirai | 无限地雷 |  |  |
+| pion | Pion |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
