@@ -252,13 +252,13 @@ example:
 | burping | 打嗝 | 可见的打嗝行为。 |  |
 | coprophagia | 食粪 | 需要`scat`标签。 |  |
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。需要`blowjob`标签。<br>![图](# "https://ehgt.org/12/13/121392d6bed3ec1101d993aac7f3117ca643d6ec-672297-1920-2720-jpg_l.jpg")![图](# "https://ehgt.org/60/cb/60cbf026b6e78cbe9648af3df10c764f7a61f985-726641-1920-2720-jpg_l.jpg") |  |
-| double blowjob | 一食二鸟 | 两个阴茎插入同一张嘴。不需要`blowjob`标签，除非涉及单一阴茎的行为分开发生。不应与`multimouth blowjob`混淆。<br>![图](# "https://ehgt.org/1f/c6/1fc64efe6699c5c077195b52e319d591d304b62d-1741282-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/1b/01/1b019842eaf57e538f4f7143909e36761e787dcd-812799-1072-1500-jpg_l.jpg") |  |
+| double blowjob | 一口二鸟 | 两个阴茎插入同一张嘴。不需要`blowjob`标签，除非涉及单一阴茎的行为分开发生。不应与`multimouth blowjob`混淆。<br>![图](# "https://ehgt.org/1f/c6/1fc64efe6699c5c077195b52e319d591d304b62d-1741282-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/1b/01/1b019842eaf57e538f4f7143909e36761e787dcd-812799-1072-1500-jpg_l.jpg") |  |
 | foot licking | 舔足 | 使用舌头舔脚使性觉醒。<br>![图](# "https://ehgt.org/07/c1/07c16a2027e7509f92dd577aa9c01ca3feb495f9-205998-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/9e/d5/9ed59dc2050975fc146af4b50cd9b7361d75d334-114942-800-600-jpg_l.jpg")![图](# "https://ehgt.org/56/bd/56bd23cbdc004b309b3b91dd3b692a3502a9d343-604050-1105-1600-jpg_l.jpg") |  |
 | gag | 口塞 | 任何绑在嘴上的，将嘴完全或部分塞住的东西。几乎总是涉及`bondage`。 |  |
 | gokkun | 饮精 | 喝下精液。在`blowjob`后进行的此行为不被包含在内，必须单独发生。<br>![图](# "https://ehgt.org/77/92/7792cf36262a0ed3b5d93710439162b108d33ef9-3988229-1200-1695-png_l.jpg") |  |
 | kissing | 接吻💏 | 两个人的嘴唇在一起的行为，也可能将他们的舌头移动到彼此的嘴里或吮吸它们。 |  |
 | long tongue | 长舌👅 | 舌头的长度应至少能够从嘴伸到人的眉毛。 |  |
-| multimouth blowjob | 多嘴吹箫 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
+| multimouth blowjob | 多口口交 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
 | piss drinking | 饮尿 | 需要`urination`标签。<br>![图](# "https://ehgt.org/fd/cf/fdcf01961161b39aab0d387aea78eba12b3df6c6-6305989-4122-6052-jpg_l.jpg") |  |
 | rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。<br>![图](# "https://ehgt.org/c0/ac/c0ac00407728601a1928be03f0fff314b08e0884-493476-1024-576-png_l.jpg") |  |
 | saliva | 唾液 | 将相当数量的口腔分泌物用于性目的。舔食或吐痰不算在内。 |  |
@@ -495,6 +495,7 @@ example:
 | rape | 强奸 | 强迫或非自愿性行为。 |  |
 |  | === 强迫 > 虐待 === |  |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
+| domination loss | 统治丢失 | 有明确的性主导关系，之后主导关系发生明显反转的情况。 |  |
 | food on body | 男体盛 | 食物（尤其是寿司）放在裸露的身体上。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
 | human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于`milking`或繁殖。 通常涉及`bondage`。<br>![图](# "https://ehgt.org/05/54/0554ee554c6c968e71649186dda0698c2566af85-1152023-1063-1500-jpg_l.jpg") |  |

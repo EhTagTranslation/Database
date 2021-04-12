@@ -2999,6 +2999,7 @@ example:
 | sakura minamoto | 源樱 |  |  |
 | tae yamada | 山田多惠 |  |  |
 | ayano sugiura | 杉浦绫乃 | 清纯内向的学生会副会长，留有紫红色长发并扎成长马尾。岁纳京子、船见结衣、池田千岁的同班同学。在谁眼里都是个开朗、可爱的女孩，但实际上有点怕生。<br>![](https://commons.moegirl.org.cn/thumb.php?f=29002156.jpg&width=147) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/杉浦绫乃) |
+| akari akaza | 赤座灯里 | 阿卡林![图](# "https://ehgt.org/8c/eb/8ceb4ea4c2b8fad7706f932f2f499a8d5b90b734-6105080-1200-1695-png_l.jpg") | |
 | kyouko toshinou | 岁纳京子 | 京子是赤座灯里和船见结衣的朋友，在作品开始时为十四岁，为七森中学二年级的学生，与结衣同年，比灯里大一岁。拥有黄色长发刘海及眉，头绑深红色蝴蝶结，蓝色瞳孔，外观近似萝莉。<br>![](https://img.moegirl.org.cn/common/thumb/6/6a/Toshinou_Kyouko_Doujin.jpg/168px-Toshinou_Kyouko_Doujin.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/岁纳京子) |
 | reisalin stout | 莱莎琳·斯托特 |  |  |
 | kudou chitose | 久远千岁 | 久远千岁（日语：久遠千歳）是一名于2019年1月10日在YouTube开始活动的`VTuber`，业界团体彩虹社的成员。于2019年8月31日引退。<br>![久远千岁](https://img.moegirl.org.cn/common/thumb/e/e8/久远千岁.jpg/166px-久远千岁.jpg) | [Twitter](https://twitter.com/kudou_chitose) [YouTube](https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg) [萌娘百科](https://zh.moegirl.org.cn/zh-hans/久远千岁) |
@@ -3281,6 +3282,22 @@ example:
 | hayase nagatoro | 長瀞早瀨 | 长瀞早濑（日语：長瀞（ながとろ） 早瀬（はやせ））是由ナナシ创作的漫画《不要欺负我，长瀞同学》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/长瀞早濑) |
 | texas | 德克萨斯 | 明日方舟干员之一 | [http://prts.wiki/w/德克萨斯](http://prts.wiki/w/德克萨斯) |
 | yuuta hibiki | 响裕太 |  |  |
+| emma | 艾玛 | 《约定的梦幻岛》主角三人组——女主角 |  |
+| norman | 诺曼 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
+| ray | 雷 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
+| don | 冬 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| nat | 奈特 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| anna | 安娜 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| thoma | 托马 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| lannion | 拉尼 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| phil | 菲尔 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| isabella | 伊莎贝拉 | 《约定的梦幻岛》主要角色，主角们的妈妈 |  |
+| krone | 克洛涅 | 《约定的梦幻岛》第一篇章主要角色，上面派来监视妈妈的实习助手 |  |
+| mujika | 穆希卡 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
+| sonju | 宋杰 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
+| lucas | 卢卡斯 | 《约定的梦幻岛》避难所篇章配角之一 |  |
+| yugo | 尤格 | 《约定的梦幻岛》避难所篇章配角之一 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

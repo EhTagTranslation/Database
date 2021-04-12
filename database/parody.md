@@ -1539,7 +1539,7 @@ example:
 | sekiro shadows die twice | 只狼：影逝二度 |  |  |
 | kamihime project | 神姬Project |  |  |
 | merc storia | 梅露可物语 |  |  |
-| twelve forever | 永远12岁 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/永远12岁) |
+| twelve forever | 永远12岁 |  | [萌娘百科](https://zh.moegirl.org.cn/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
 | little nightmares | 小小噩梦 |  |  |
 | healin good precure | Healin' Good ♥ 光之美少女 |  |  |
@@ -1547,6 +1547,7 @@ example:
 | flying witch | 飞翔的魔女 |  |  |
 | mushoku tensei | 无职转生～到了异世界就拿出真本事～ |  |  |
 | tanaka-kun wa itsumo kedaruge | 田中君总是如此慵懒 | 《田中君总是如此慵懒》（日语：田中くんはいつもけだるげ）是由ウダノゾミ创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/田中君总是如此慵懒) |
+| yakusoku no neverland | 约定的梦幻岛 | ![约定的梦幻岛](https://img.moegirl.org.cn/common/thumb/3/33/%E7%BA%A6%E5%AE%9A%E7%9A%84%E6%A2%A6%E5%B9%BB%E5%B2%9B1_.jpg/300px-%E7%BA%A6%E5%AE%9A%E7%9A%84%E6%A2%A6%E5%B9%BB%E5%B2%9B1_.jpg)![图](https://ehgt.org/d0/e1/d0e15816deb3baa6abbb38b8bb0c2ebfe51b9cac-256519-768-687-jpg_l.jpg)<br>一个讲述了主角骑着"艾玛"电动车进行"诺曼"底登陆的"雷"人故事（误） | [萌娘百科](https://zh.moegirl.org.cn/约定的梦幻岛) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
