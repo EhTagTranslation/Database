@@ -2054,6 +2054,7 @@ example:
 | mugen jirai | 无限地雷 |  |  |
 | pion | Pion |  |  |
 | kuragamo | 蔵鴨 |  |  |
+| kaguya hime koubou | 火愚夜姫工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
