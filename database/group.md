@@ -2053,6 +2053,7 @@ example:
 | citron no mori | しとろんの杜 |  |  |
 | mugen jirai | 无限地雷 |  |  |
 | pion | Pion |  |  |
+| kuragamo | 蔵鴨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
