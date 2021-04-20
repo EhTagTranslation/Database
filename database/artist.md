@@ -3093,7 +3093,7 @@ example:
 | miwabe sakura | みわべさくら |  | [Twitter](https://twitter.com/sakurapion) [pixiv](https://www.pixiv.net/users/4816744) |
 | shirisensha | 尻戦車 |  |  |
 | makabe gorou | 真壁吾郎 |  |  |
-| kakuninii | 角煮煮 |  |  |
+| kakuninii | 角煮煮 |  | [pixiv](https://www.pixiv.net/users/28182682) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
