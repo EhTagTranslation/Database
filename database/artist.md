@@ -3096,6 +3096,7 @@ example:
 | kakuninii | 角煮煮 |  | [pixiv](https://www.pixiv.net/users/28182682) |
 | tukimi daifuku | 月見大福 |  |  |
 | satou chagashi | 佐藤茶菓子 |  |  |
+| touno itsuki | 桐野いつき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
