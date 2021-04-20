@@ -66,7 +66,7 @@ example:
 | voiceroid | VOICEROID |  |  |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |  |
 | the idolmaster | ![iM@S](https://i.jpg.dog/img/97155012957a7bbd148d1bc48c26ac67.gif)偶像大师 | ![图](https://ehgt.org/f9/ef/f9ef4d663daab66d6407cd787e3733524a6f90c3-1354223-3419-2550-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) |
-| my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 | ![My little pony](http://www.politicasenzarete.com/sites/default/files/styles/adattiva/public/My_little_pony_friendship_is_magic_group_shot_r.png?itok=JxljETVL) |  |
+| my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 |  |  |
 | himouto umaru-chan | 干物妹！小埋 | ![图](# "https://ehgt.org/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg") |  |
 | bakemonogatari | 化物语 | ![图](# "https://ehgt.org/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg")![图](# "https://ehgt.org/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg")![图](# "https://ehgt.org/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg") |  |
 | yahari ore no seishun love come wa machigatteiru | 我的青春恋爱物语果然有问题 | ![图](# "https://ehgt.org/2b/18/2b1869be7126eda56f2a8f6750fe89143a8aac11-722028-1410-2024-jpg_l.jpg")<br>其实是个基片<br>![图](# "https://ehgt.org/a6/2b/a62b5d7d18ba70957af3876be3e359488e931ada-6021484-1600-2258-png_l.jpg") |  |
