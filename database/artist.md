@@ -3095,6 +3095,7 @@ example:
 | makabe gorou | 真壁吾郎 |  | [pixiv](https://www.pixiv.net/users/46888) |
 | kakuninii | 角煮煮 |  | [pixiv](https://www.pixiv.net/users/28182682) |
 | tukimi daifuku | 月見大福 |  |  |
+| satou chagashi | 佐藤茶菓子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
