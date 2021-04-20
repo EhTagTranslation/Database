@@ -3097,6 +3097,7 @@ example:
 | tukimi daifuku | 月見大福 |  |  |
 | satou chagashi | 佐藤茶菓子 |  |  |
 | touno itsuki | 桐野いつき |  |  |
+| gekka kaguya | 月下火愚夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
