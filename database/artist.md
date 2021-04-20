@@ -3091,7 +3091,7 @@ example:
 | mushi | ムシ |  | [pixiv](https://www.pixiv.net/users/492107)<br>[Twitter](https://twitter.com/Mushi024) |
 | trigger | TRIGGER |  |  |
 | miwabe sakura | みわべさくら |  | [Twitter](https://twitter.com/sakurapion) [pixiv](https://www.pixiv.net/users/4816744) |
-| shirisensha | 尻戦車 |  |  |
+| shirisensha | 尻戦車 |  | [pixiv](https://www.pixiv.net/users/15238698) |
 | makabe gorou | 真壁吾郎 |  |  |
 | kakuninii | 角煮煮 |  | [pixiv](https://www.pixiv.net/users/28182682) |
 
