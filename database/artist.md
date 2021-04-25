@@ -3099,6 +3099,7 @@ example:
 | touno itsuki | 桐野いつき |  |  |
 | gekka kaguya | 月下火愚夜 |  |  |
 | maguro shining | まぐろシャイニング |  |  |
+| santa | santa |  | [pixiv](https://www.pixiv.net/users/73381) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
