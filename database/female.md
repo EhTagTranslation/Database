@@ -326,7 +326,7 @@ example:
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或`masturbation`。经常与`bdsm`配对。 |  |
-| crotch tattoo | 耻骨纹身 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
+| crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![图](# "https://ehgt.org/2f/59/2f59ac690770c88d939a9dc2034fcad4deb36163-2706803-1920-1080-png_l.jpg")![图](# "https://ehgt.org/3a/c3/3ac343c961b4513d71d10515b036b228ba3784af-1850375-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
