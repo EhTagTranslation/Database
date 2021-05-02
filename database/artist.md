@@ -3102,6 +3102,7 @@ example:
 | santa | santa |  | [pixiv](https://www.pixiv.net/users/73381) |
 | togi | とぎ |  |  |
 | akizuki mac | 秋月まく |  |  |
+| fujii jun | 藤伊洵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
