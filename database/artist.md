@@ -3104,6 +3104,7 @@ example:
 | akizuki mac | 秋月まく |  |  |
 | fujii jun | 藤伊洵 |  |  |
 | morino bambi | 森乃ばんび |  |  |
+| nekoi mie | 猫井ミィ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
