@@ -2055,6 +2055,7 @@ example:
 | pion | Pion |  |  |
 | kuragamo | 蔵鴨 |  |  |
 | kaguya hime koubou | 火愚夜姫工房 |  |  |
+| ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
