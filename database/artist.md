@@ -3100,6 +3100,7 @@ example:
 | gekka kaguya | 月下火愚夜 |  |  |
 | maguro shining | まぐろシャイニング |  |  |
 | santa | santa |  | [pixiv](https://www.pixiv.net/users/73381) |
+| togi | とぎ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
