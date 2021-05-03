@@ -3319,6 +3319,7 @@ example:
 | otogibara era | 御伽原江良 | 御伽原 江良（おとぎばら えら）是于2019年3月10日在Youtube开始活动,隶属于彩虹社的虚拟Youtuber。已于活动二周年2021年3月10日引退。<br>![](# "https://ehgt.org/41/dd/41dd3d18999785d595e464aa93597fea87d4e73f-561732-2090-3022-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/御伽原江良) |
 | yorumi rena | 夜见蕾娜 | 夜见蕾娜 （日语：夜見れな / よるみ れなYorumi Rena）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/aa/e8/aae8282c4814aa963d19939bd9492ffd4bea91b8-182856-1000-1621-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/夜见蕾娜) |
 | yamagami karuta | 山神歌流多 | 山神歌流多 （ 日语：山神 カルタ / やまがみ かるたYagami karuta ）是一名从2019年10月17日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/03/38/0338182779b587cb15387122b6529d25cb466de7-624224-1000-562-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/山神歌流多) |
+| asuka hina | 飞鸟雏 | 飞鸟雏 （日语：飛鳥ひな / あすかひなAsuka Hina）是一名从2018年8月22日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身。<br>![](# "https://ehgt.org/dd/71/dd719522bdc1b5d86da98bc177283a42743cf84e-576116-1000-561-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/飞鸟雏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
