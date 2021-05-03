@@ -1550,7 +1550,7 @@ example:
 | yakusoku no neverland | 约定的梦幻岛 | ![约定的梦幻岛](https://img.moegirl.org.cn/common/thumb/3/33/约定的梦幻岛1_.jpg/300px-约定的梦幻岛1_.jpg)![图](https://ehgt.org/d0/e1/d0e15816deb3baa6abbb38b8bb0c2ebfe51b9cac-256519-768-687-jpg_l.jpg)<br>一个讲述了主角骑着"艾玛"电动车进行"诺曼"底登陆的"雷"人故事（误） | [萌娘百科](https://zh.moegirl.org.cn/约定的梦幻岛) |
 | iya na kao sarenagara opantsu misete moraitai | 很想被人用一脸嫌弃的眼神把胖次给我看 | 《很想被人用一脸嫌弃的眼神把胖次给我看》（日语：嫌な顔されながらおパンツ見せてもらいたい）是日本同人志社团“アニマルマシーン”的成员40原创作的同人志，以各式各样的女性摆出一脸嫌弃的样子露出内裤为主题。作品自2015年开始发行并陆续改编成网络动画、轻小说和写真集。 | [维基百科](https://zh.wikipedia.org/wiki/擺出討厭的表情露出內褲) |
 | wrestle angels | 摔角天使 |  |  |
-| nijisanji | 彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。 | [萌娘百科](https://zh.moegirl.org.cn/彩虹社) |
+| nijisanji | 彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。<br>![](https://img.moegirl.org.cn/common/thumb/9/96/Nijisanji_Logo_Vertical.jpg/1024px-Nijisanji_Logo_Vertical.jpg) | [萌娘百科](https://zh.moegirl.org.cn/彩虹社) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
