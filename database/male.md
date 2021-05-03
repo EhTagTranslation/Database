@@ -74,6 +74,7 @@ example:
 | angel | 天使 | 拥有天使的翅膀或光环。 |  |
 | bat boy | 蝙蝠男 | `bat girl`的男性版本。 |  |
 | bear boy | 狗熊男 | 有圆形耳朵和其他熊的特征的男性。 |  |
+| bee boy | 蜂男 | `bee girl`的男性版本。 |  |
 | bunny boy | 兔子男孩 | `bunny girl`的男性版本。 |  |
 | catboy | 猫男 | `catgirl`的男性版本。 |  |
 | centaur | 半人马 | 一半是人，一半是马。 |  |
@@ -84,7 +85,9 @@ example:
 | draenei | 德莱尼 | `world of warcraft`的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |  |
 | fairy | 仙子🧚‍♂️ | 有翅膀的人或其他生物，往往体型很小。 |  |
 | fox boy | 狐男 | `fox girl`的男性版本。 |  |
+| frog boy | 青蛙男孩 | `frog girl`的男性版本。 |  |
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。<br>![图](# "https://ehgt.org/13/5c/135ce05b78b1d4170e51ed09bca35a6308b4905a-1500979-914-1300-jpg_l.jpg")![图](# "https://ehgt.org/39/6e/396e00043bbf49abfe7355dabca5d89d0cf8d63e-3424740-1410-2000-png_l.jpg") |  |
+| giraffe boy | 长颈鹿男 | `giraffe girl`的男性版本。 |  |
 | ghost | 幽灵👻 | 与非物质的存在性交。 |  |
 | goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
 | harpy | 鸟人 | 鸟与人类的混合体。 |  |
@@ -101,6 +104,8 @@ example:
 | necrophilia | 奸尸 | 涉及尸体的性行为。 |  |
 | oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon`混淆。<br>![图](# "https://ehgt.org/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg") |  |
 | orc | 兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。 |  |
+| otter boy | 水獭男孩 | `otter girl`的男性版本。 |  |
+| panda boy | 熊猫男 | `panda girl`的男性版本。 |  |
 | pig man | 猪男 | `pig girl`的男性版本。 |  |
 | plant boy | 植物男孩 | `plant girl`的男性版本。需要`monster`标签。 |  |
 | raccoon boy | 浣熊男孩 | `raccoon girl`的男性版本。 |  |
@@ -110,8 +115,10 @@ example:
 | slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和`monster`标签。 |  |
 | slime boy | 史莱姆男孩 | 身体由粘性物体组成的男性。不得与`slime`混淆。 |  |
 | snake boy | 蛇男 | `snake girl`的男性版本。 |  |
+| spider boy | 蜘蛛男 | `spider girl`的男性版本。 |  |
 | squid boy | 乌贼男 | `squid girl`的男性版本。 |  |
 | squirrel boy | 松鼠男 | `squirrel girl`的男性版本。 |  |
+| skunk boy | 臭鼬男 | `skunk girl`的男性版本。 |  |
 | tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上`monster`标签。 |  |
 | vampire | 吸血鬼🧛‍♂️ | 有尖尖的牙齿，饮血为生。 |  |
 | wolf boy | 狼男孩 | `wolf girl`的男性版本。 |  |
@@ -308,6 +315,7 @@ example:
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或`masturbation`。经常与`bdsm`配对。 |  |
 | crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
+| mesuiki | 干高潮 | メスイキ，性行为使对象达到性高潮而对阴茎或阴道没有任何物理刺激。只要直到高潮的性行为不包含对阴茎或阴道的刺激，就可以使用此标签。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |  |
@@ -362,6 +370,7 @@ example:
 | denki anma | 电气按摩 | 一个参与者使用脚强烈地压迫另一个参与者的胯部区域，通常是在抱着他们的腿时。如果这会刺激被按压的人，则涉及`footjob`。可能涉及`bdsm`，`catfight`，`femdom`或`wrestling`。 |  |
 | foot insertion | 足插入 | 一个或多个脚插入阴道等孔。<br>![图](# "https://ehgt.org/34/b3/34b3a6e20775938e628764feb4647c1264643ebe-312671-560-420-jpg_l.jpg") |  |
 | footjob | ![icon](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41q266fgwg200r00d04f.gif)足交 | 用脚对另一个人进行性刺激。不要与`legjob`混淆。<br>![图](# "https://ehgt.org/07/5b/075bcac1b9e5a79d40e641f0785ba749ed61a395-664072-847-1200-jpg_250.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/13/79/13798ec8c89044315d6d3a567360a4c59704b3f5-634283-1024-576-png_l.jpg")![图](# "https://ehgt.org/d8/d4/d8d419b1ccae18d90ade22d7a0b796215265c98c-203334-661-988-jpg_l.jpg")![图](# "https://ehgt.org/ae/25/ae25ac1f50141e08d46569ecd5002b510ff51234-1081348-1659-2400-jpg_l.jpg")![图](# "https://ehgt.org/ec/a3/eca370464efaf755e0084f18c3f75d8b4eb251ec-702598-1043-1512-png_l.jpg")![图](# "https://ehgt.org/bf/5c/bf5c96faa3684356add4370aa0b909ad03b29e0c-104137-640-923-jpg_l.jpg")![图](# "https://ehgt.org/92/b3/92b3ee3b36740a0063fd1413b957eda2819d5aac-102310-640-942-jpg_l.jpg") |  |
+| multiple footjob | 多重足交 | 一个以上的人同时用脚对同一个参与者进行性刺激。需要`footjob`标签。 |  |
 | sockjob | 袜交🧦 | 用袜子摩擦生殖器。 |  |
 |  | == 服装 == |  |  |
 | animegao | 头壳 | 包括描绘角色面具的全身服装。不应与`bodysuit`和`skinsuit`标签混淆。当头壳的性别与其穿戴者的性别不同时，需要`crossdressing`标签。<br>![图](https://ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](https://ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](https://ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |  |
@@ -450,6 +459,7 @@ example:
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要`group`标签。不用于`rape`的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要`group`标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
 | mmm threesome | 男3P | ♂♂♂，3 男 3P。需要`group`标签。 |  |
+| multiple straddling | 多人跨骑 | 多个人同时跨骑并与同一个参与者发生性互动。可能会使用`facesitting`。需要`group`标签。被骑者的性别决定了将标签放置在`male`还是`female`的命名空间中。 |  |
 | oyakodon | 父子丼 | 父亲和儿子与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | shimaidon | 兄弟丼 | 具有血缘关系的兄弟两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
 | triple anal | 三插肛门 | 三根阴茎同时插入肛门。 |  |
@@ -485,6 +495,7 @@ example:
 | bukkake | 颜射 | 性主角被精液覆盖，一般不止一个人射精。不局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
 | cum bath | 精液浴 | 浴缸、泳池或其他大容器装有精液，至少有一个人部分浸没在精液中。 |  |
 |  | ==== 液体 > 体液 > 排泄物 ==== |  |  |
+| internal urination | 内部排尿 | 另一位参与者的尿液在除嘴外的任何孔口内徘徊。通常包括之后释放尿液的过程。 |  |
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。 |  |
 | scat | 排便💩 | 是`coprophagia`的前置标签。 |  |
