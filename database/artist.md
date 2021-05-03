@@ -3106,6 +3106,7 @@ example:
 | morino bambi | 森乃ばんび |  |  |
 | nekoi mie | 猫井ミィ |  |  |
 | ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
+| chomikuplus | Chomikuplus |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
