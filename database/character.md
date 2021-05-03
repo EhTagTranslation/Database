@@ -3315,6 +3315,7 @@ example:
 | yugo | 尤格 | 《约定的梦幻岛》避难所篇章配角之一 |  |
 | cecily cambell | 瑟希莉·坎贝尔 | 瑟希莉·坎贝尔是《圣剑锻造师》的女主角。生于历代骑士贵族之家，继承了父亲的剑，并成为了独立贸易都市哈斯曼自卫骑士团的新人骑士。红色短发，个性充满正义感，勇于挑战盗贼及犯罪者。语气非常认真的红发少女，坎贝尔家现任当主。“圣剑的剑鞘”的继承者。 | [https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466](https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466) |
 | skadi | 斯卡蒂 | 斯卡蒂是游戏《[明日方舟](https://zh.moegirl.org.cn/明日方舟)》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:斯卡蒂) |
+| suzuhara lulu | 铃原露露 | 铃原露露 （ 日语：鈴原るる / すずはら るるSuzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/73/2b/732b603fd856f87c1bc0587262698c6646782f06-948652-827-1494-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
