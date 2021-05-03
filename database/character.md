@@ -3317,6 +3317,7 @@ example:
 | skadi | 斯卡蒂 | 斯卡蒂是游戏《[明日方舟](https://zh.moegirl.org.cn/明日方舟)》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:斯卡蒂) |
 | suzuhara lulu | 铃原露露 | 铃原露露 （ 日语：鈴原るる / すずはら るるSuzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/73/2b/732b603fd856f87c1bc0587262698c6646782f06-948652-827-1494-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
 | otogibara era | 御伽原江良 | 御伽原 江良（おとぎばら えら）是于2019年3月10日在Youtube开始活动,隶属于彩虹社的虚拟Youtuber。已于活动二周年2021年3月10日引退。<br>![](# "https://ehgt.org/41/dd/41dd3d18999785d595e464aa93597fea87d4e73f-561732-2090-3022-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/御伽原江良) |
+| yorumi rena | 夜见蕾娜 | 夜见蕾娜 （日语：夜見れな / よるみ れなYorumi Rena）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/aa/e8/aae8282c4814aa963d19939bd9492ffd4bea91b8-182856-1000-1621-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/夜见蕾娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
