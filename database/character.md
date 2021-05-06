@@ -3321,6 +3321,7 @@ example:
 | yamagami karuta | 山神歌流多 | 山神歌流多 （ 日语：山神 カルタ / やまがみ かるたYagami karuta ）是一名从2019年10月17日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/03/38/0338182779b587cb15387122b6529d25cb466de7-624224-1000-562-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/山神歌流多) |
 | asuka hina | 飞鸟雏 | 飞鸟雏 （日语：飛鳥ひな / あすかひなAsuka Hina）是一名从2018年8月22日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身。<br>![](# "https://ehgt.org/dd/71/dd719522bdc1b5d86da98bc177283a42743cf84e-576116-1000-561-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/飞鸟雏) |
 | hina sorasaki | 空崎ヒナ |  |  |
+| rimuru tempest | 利姆鲁·特恩佩斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/利姆鲁·特恩佩斯特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
