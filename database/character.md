@@ -3322,6 +3322,7 @@ example:
 | asuka hina | 飞鸟雏 | 飞鸟雏 （日语：飛鳥ひな / あすかひなAsuka Hina）是一名从2018年8月22日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身。<br>![](# "https://ehgt.org/dd/71/dd719522bdc1b5d86da98bc177283a42743cf84e-576116-1000-561-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/飞鸟雏) |
 | hina sorasaki | 空崎ヒナ |  |  |
 | rimuru tempest | 利姆鲁·特恩佩斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/利姆鲁·特恩佩斯特) |
+| milim nava | 米莉姆·纳瓦 |  | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
