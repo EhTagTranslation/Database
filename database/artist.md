@@ -3109,6 +3109,7 @@ example:
 | chomikuplus | Chomikuplus |  |  |
 | fuzui | 不随 |  |  |
 | tokomaya keita | とこまやけいた |  |  |
+| holiday yasumi | 堀出井靖水 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
