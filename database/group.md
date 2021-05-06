@@ -2056,6 +2056,7 @@ example:
 | kuragamo | 蔵鴨 |  |  |
 | kaguya hime koubou | 火愚夜姫工房 |  |  |
 | ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
+| fuzuii undou | 不随意運動 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
