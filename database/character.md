@@ -3323,6 +3323,7 @@ example:
 | hina sorasaki | 空崎ヒナ |  |  |
 | rimuru tempest | 利姆鲁·特恩佩斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/利姆鲁·特恩佩斯特) |
 | milim nava | 米莉姆·纳瓦 |  | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
+| kotoko iwanaga | 岩永琴子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
