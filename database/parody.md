@@ -607,7 +607,7 @@ example:
 | variable geo | 格斗女神 | 姬武神传说 |  |
 | ashita no nadja | 明日的娜嘉 |  |  |
 | goldfish warning | 魔力小金鱼 |  |  |
-| mazinger z | 铁甲万能侠 | 万能侠Z |  |
+| mazinger z | 魔神Z | 魔神Z |  |
 | magi the labyrinth of magic | 魔笛MAGI | MAGI魔奇少年、天方魔谭MAGI |  |
 | ultraman | 奥特曼 |  |  |
 | we bare bears | 咱们裸熊 |  |  |
