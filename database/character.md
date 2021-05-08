@@ -3326,6 +3326,7 @@ example:
 | kotoko iwanaga | 岩永琴子 |  |  |
 | meme touwa | 藤和女女 |  | [萌娘百科](https://zh.moegirl.org.cn/藤和女女) |
 | makoto niwa | 丹羽真 |  | [https://baike.baidu.com/item/丹羽真/750418](https://baike.baidu.com/item/丹羽真/750418) |
+| erio touwa | 藤和艾莉欧 | 入间人间所创作的轻小说《电波女与青春男》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/藤和艾莉欧) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
