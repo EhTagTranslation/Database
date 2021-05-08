@@ -3111,6 +3111,7 @@ example:
 | tokomaya keita | とこまやけいた |  |  |
 | holiday yasumi | 堀出井靖水 |  |  |
 | ronrinri ronri | 論倫理ろんり |  |  |
+| tsukueno elf | 机野エルフ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
