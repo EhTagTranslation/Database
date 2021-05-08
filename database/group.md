@@ -2059,6 +2059,7 @@ example:
 | fuzuii undou | 不随意運動 |  |  |
 | circle tokomaya | サークルとこまや |  |  |
 | barumishu | ばーるみしゅ |  |  |
+| megami no flask | 女神のフラスコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
