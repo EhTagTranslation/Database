@@ -3110,6 +3110,7 @@ example:
 | fuzui | 不随 |  |  |
 | tokomaya keita | とこまやけいた |  |  |
 | holiday yasumi | 堀出井靖水 |  |  |
+| ronrinri ronri | 論倫理ろんり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
