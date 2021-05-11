@@ -1552,6 +1552,7 @@ example:
 | wrestle angels | 摔角天使 |  |  |
 | nijisanji | 彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。<br>![](https://www.nijisanji.jp/static/logo/nijisanji_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
 | blue archive | 碧蓝档案 |  |  |
+| the legend of luoxiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
