@@ -3114,6 +3114,7 @@ example:
 | tsukueno elf | 机野エルフ |  |  |
 | hiiragi popura | 柊ぽぷら |  |  |
 | nogiwa kaede | 野際かえで |  |  |
+| hitoi | 灯問 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
