@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Download tool
-        uses: i3h/download-release-asset@v1
+        uses: i3h/download-release-asset@v1.2.0
         with:
           owner: EhTagTranslation
           repo: Editor
