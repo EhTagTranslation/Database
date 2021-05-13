@@ -2066,6 +2066,7 @@ example:
 | doku denpa jushin-chuu | 毒電波受信中 |  |  |
 | ebi manga teikoku | えびまんが帝国 |  |  |
 | 180milli cannon | 180ミリキャノン |  |  |
+| zetsubou teisyoku | ぜつぼう定食 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
