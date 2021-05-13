@@ -3120,6 +3120,7 @@ example:
 | shigemiya kyouhei | 樹宮匡平 |  |  |
 | roshin | 炉心 |  |  |
 | mamemametama | まめまめたま |  |  |
+| nakagami takashi | 中上たかし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
