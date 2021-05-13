@@ -3116,6 +3116,7 @@ example:
 | nogiwa kaede | 野際かえで |  |  |
 | hitoi | 灯問 |  |  |
 | bouen | ぼうえん |  |  |
+| tsukudani | 佃煮 |  | [Twitter](https://twitter.com/tukudani01) [pixiv](https://www.pixiv.net/users/2543) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
