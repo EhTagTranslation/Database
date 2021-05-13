@@ -1555,6 +1555,7 @@ example:
 | the legend of luoxiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
 | sk8 the infinity | SK8 无限滑板 | 《SK8 the Infinity》（日语：SK∞ エスケーエイト，中文：SK8 无限滑板）是由日本动画公司BONES所制作的原创滑板题材电视动画。 | [官网地址](https://sk8-project.com/) |
 | beatmania | 狂热节拍 |  | [维基百科](https://zh.wikipedia.org/wiki/狂热节拍) |
+| honzuki no gekokujou | 小书痴的下克上 | 《小书痴的下克上：为了成为图书管理员不择手段！》（日语：本好きの下剋上～司書になるためには手段を選んでいられません～）是由香月美夜原作、椎名优插画的一部轻小说，并有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/小書痴的下剋上)<br>[萌娘百科](https://zh.moegirl.org.cn/小书痴的下克上) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
