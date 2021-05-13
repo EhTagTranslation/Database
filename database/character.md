@@ -3331,6 +3331,7 @@ example:
 | reki kyan | 喜屋武历 | 动画《SK8 无限滑板》男主角之一。配音为畠中祐。 |  |
 | myne | 梅茵 |  | [萌娘百科](https://zh.moegirl.org.cn/梅茵) |
 | ferdinand | 斐迪南 |  | [萌娘百科](https://zh.moegirl.org.cn/斐迪南) |
+| misato aikawa | 爱川美里 |  | [萌娘百科](https://zh.moegirl.org.cn/爱川美里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
