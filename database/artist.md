@@ -3121,6 +3121,7 @@ example:
 | roshin | 炉心 |  |  |
 | mamemametama | まめまめたま |  |  |
 | nakagami takashi | 中上たかし |  |  |
+| ukanmuri | うかんむり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
