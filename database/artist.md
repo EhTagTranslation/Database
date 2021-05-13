@@ -3118,6 +3118,7 @@ example:
 | bouen | ぼうえん |  |  |
 | tsukudani | 佃煮 |  | [Twitter](https://twitter.com/tukudani01) [pixiv](https://www.pixiv.net/users/2543) |
 | shigemiya kyouhei | 樹宮匡平 |  |  |
+| roshin | 炉心 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
