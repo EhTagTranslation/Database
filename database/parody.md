@@ -1558,6 +1558,7 @@ example:
 | honzuki no gekokujou | 小书痴的下克上 | 《小书痴的下克上：为了成为图书管理员不择手段！》（日语：本好きの下剋上～司書になるためには手段を選んでいられません～）是由香月美夜原作、椎名优插画的一部轻小说，并有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/小書痴的下剋上)<br>[萌娘百科](https://zh.moegirl.org.cn/小书痴的下克上) |
 | oide yo mizuryuu kei land | 欢迎光临！水龙敬乐园 |  |  |
 | shuriken sentai ninninger | 手里剑战队忍忍者 |  | [维基百科](https://zh.wikipedia.org/zh-cn/手裏劍戰隊忍忍者) |
+| hajimete no hitozuma | 第一次的人妻体验 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
