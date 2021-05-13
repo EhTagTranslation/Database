@@ -3122,6 +3122,7 @@ example:
 | mamemametama | まめまめたま |  |  |
 | nakagami takashi | 中上たかし |  |  |
 | ukanmuri | うかんむり |  |  |
+| momotomato | 桃とまと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
