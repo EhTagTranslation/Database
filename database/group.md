@@ -2062,6 +2062,7 @@ example:
 | megami no flask | 女神のフラスコ |  |  |
 | hiiro no kenkyuushitsu | 灯色の研究室 |  |  |
 | sukiyaki club | すきやきクラブ |  |  |
+| kasoku edge | かそくえっぢ | KasokuEdge |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
