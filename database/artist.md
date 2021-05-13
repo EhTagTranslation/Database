@@ -3115,6 +3115,7 @@ example:
 | hiiragi popura | 柊ぽぷら |  |  |
 | nogiwa kaede | 野際かえで |  |  |
 | hitoi | 灯問 |  |  |
+| bouen | ぼうえん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
