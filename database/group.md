@@ -2064,6 +2064,7 @@ example:
 | sukiyaki club | すきやきクラブ |  |  |
 | kasoku edge | かそくえっぢ | KasokuEdge |  |
 | doku denpa jushin-chuu | 毒電波受信中 |  |  |
+| ebi manga teikoku | えびまんが帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
