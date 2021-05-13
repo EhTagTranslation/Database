@@ -3123,6 +3123,7 @@ example:
 | nakagami takashi | 中上たかし |  |  |
 | ukanmuri | うかんむり |  |  |
 | momotomato | 桃とまと |  |  |
+| muchin | むーちん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
