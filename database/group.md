@@ -2067,6 +2067,7 @@ example:
 | ebi manga teikoku | えびまんが帝国 |  |  |
 | 180milli cannon | 180ミリキャノン |  |  |
 | zetsubou teisyoku | ぜつぼう定食 |  |  |
+| milk engine | Milk Engine |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
