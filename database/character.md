@@ -3365,6 +3365,7 @@ example:
 | lappland | 拉普兰德 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拉普兰德) |
 | amber | 安柏 |  | [萌娘百科](https://zh.moegirl.org.cn/安柏) |
 | beidou | 北斗 |  | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
+| hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
