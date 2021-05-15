@@ -3342,6 +3342,7 @@ example:
 | nadia rayne | 娜狄雅·莱恩 |  |  |
 | noel seeker | 诺艾尔·希卡 |  |  |
 | rixia mao | 莉夏·毛 |  |  |
+| tio plato | 缇欧·普拉托 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
