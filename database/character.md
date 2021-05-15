@@ -3348,6 +3348,7 @@ example:
 | elise schwarzer | 爱丽榭·舒华泽 |  |  |
 | juna crawford | 悠娜·克劳弗德 |  |  |
 | renne bright | 玲·布莱特\|玲·海瓦斯 |  | [萌娘百科](https://zh.moegirl.org.cn/玲·海瓦斯) |
+| emma millstein | 艾玛·米尔斯汀 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
