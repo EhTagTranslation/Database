@@ -2071,6 +2071,7 @@ example:
 | romantic sintai-kensa. | ロマンティック身体検査 |  |  |
 | white guardian | White Guardian |  |  |
 | creayus | CREAYUS |  |  |
+| chabashira chainsaw | チャバシラチェーンソー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
