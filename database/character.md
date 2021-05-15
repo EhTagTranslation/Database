@@ -3367,6 +3367,7 @@ example:
 | beidou | 北斗 |  | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
 | hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 | lumine | 荧 |  | [萌娘百科](https://zh.moegirl.org.cn/荧) |
+| hu tao | 胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
