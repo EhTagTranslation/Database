@@ -3368,6 +3368,7 @@ example:
 | hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 | lumine | 荧 |  | [萌娘百科](https://zh.moegirl.org.cn/荧) |
 | hu tao | 胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
+| kallen stadtfeld | 卡莲·休坦菲尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
