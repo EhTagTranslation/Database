@@ -3337,6 +3337,7 @@ example:
 | aurelia le guin | 奥蕾莉亚·勒瑰恩 |  |  |
 | celine millstein | 瑟蕾奴·米尔斯汀 |  |  |
 | elie macdowell | 艾莉·麦克道尔 |  |  |
+| kea bannings | 琪雅·班宁斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
