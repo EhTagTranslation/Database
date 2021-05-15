@@ -3344,6 +3344,7 @@ example:
 | rixia mao | 莉夏·毛 |  |  |
 | tio plato | 缇欧·普拉托 |  |  |
 | vita clotilde | 薇塔·克洛提德 |  |  |
+| duvalie | 杜巴莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
