@@ -3361,6 +3361,7 @@ example:
 | tsumugi mayumiya | 茧宫纺希 |  | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
 | nozomi sakurai | 樱井望 |  | [萌娘百科](https://zh.moegirl.org.cn/樱井望) |
 | zhongli | 钟离 |  | [萌娘百科](https://zh.moegirl.org.cn/钟离) |
+| ningguang | 凝光 |  | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
