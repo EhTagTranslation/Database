@@ -2069,6 +2069,7 @@ example:
 | zetsubou teisyoku | ぜつぼう定食 |  |  |
 | milk engine | Milk Engine |  |  |
 | romantic sintai-kensa. | ロマンティック身体検査 |  |  |
+| white guardian | White Guardian |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
