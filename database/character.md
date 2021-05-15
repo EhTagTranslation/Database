@@ -3363,6 +3363,7 @@ example:
 | zhongli | 钟离 |  | [萌娘百科](https://zh.moegirl.org.cn/钟离) |
 | ningguang | 凝光 |  | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
 | lappland | 拉普兰德 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拉普兰德) |
+| amber | 安柏 |  | [萌娘百科](https://zh.moegirl.org.cn/安柏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
