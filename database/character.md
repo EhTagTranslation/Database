@@ -3346,6 +3346,7 @@ example:
 | vita clotilde | 薇塔·克洛提德 |  |  |
 | duvalie | 杜巴莉 |  |  |
 | elise schwarzer | 爱丽榭·舒华泽 |  |  |
+| juna crawford | 悠娜·克劳弗德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
