@@ -3355,6 +3355,7 @@ example:
 | towa herschel | 托娃·赫歇尔 |  | [萌娘百科](https://zh.moegirl.org.cn/托娃·赫歇尔) |
 | claire rieveldt | 克蕾雅·利维特 |  |  |
 | sara valestein | 莎拉·巴雷斯坦 |  |  |
+| estelle bright | 艾丝蒂尔·布莱特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
