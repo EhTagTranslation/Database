@@ -3359,6 +3359,7 @@ example:
 | klose rinz | 科洛丝·琳希 |  | [萌娘百科](https://zh.moegirl.org.cn/科洛蒂娅·冯·奥赛雷丝) |
 | chika misumi | 三角千歌 |  | [萌娘百科](https://zh.moegirl.org.cn/三角千歌) |
 | tsumugi mayumiya | 茧宫纺希 |  | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
+| nozomi sakurai | 樱井望 |  | [萌娘百科](https://zh.moegirl.org.cn/樱井望) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
