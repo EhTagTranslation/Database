@@ -3125,6 +3125,7 @@ example:
 | momotomato | 桃とまと |  |  |
 | muchin | むーちん |  |  |
 | hou | 蜂様 (ほう) |  |  |
+| nakamura b-ta | 中村べーた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
