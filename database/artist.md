@@ -3124,6 +3124,7 @@ example:
 | ukanmuri | うかんむり |  |  |
 | momotomato | 桃とまと |  |  |
 | muchin | むーちん |  |  |
+| hou | 蜂様 (ほう) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
