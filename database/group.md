@@ -2070,6 +2070,7 @@ example:
 | milk engine | Milk Engine |  |  |
 | romantic sintai-kensa. | ロマンティック身体検査 |  |  |
 | white guardian | White Guardian |  |  |
+| creayus | CREAYUS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
