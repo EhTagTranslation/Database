@@ -3370,6 +3370,7 @@ example:
 | hu tao | 胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
 | kallen stadtfeld | 卡莲·休坦菲尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 | suzaku kururugi | 枢木朱雀 |  | [萌娘百科](https://zh.moegirl.org.cn/枢木朱雀) |
+| nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
