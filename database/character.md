@@ -3335,6 +3335,7 @@ example:
 | mitama yakumo | 八云御魂 |  | [萌娘百科](https://zh.moegirl.org.cn/八云御魂) |
 | momoko togame | 十咎桃子 |  | [萌娘百科](https://zh.moegirl.org.cn/十咎桃子) |
 | aurelia le guin | 奥蕾莉亚·勒瑰恩 |  |  |
+| celine millstein | 瑟蕾奴·米尔斯汀 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
