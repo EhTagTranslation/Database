@@ -3341,6 +3341,7 @@ example:
 | lapis rosenberg | 拉碧丝·罗赞贝尔克 |  |  |
 | nadia rayne | 娜狄雅·莱恩 |  |  |
 | noel seeker | 诺艾尔·希卡 |  |  |
+| rixia mao | 莉夏·毛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
