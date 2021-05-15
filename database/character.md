@@ -3350,6 +3350,7 @@ example:
 | renne bright | 玲·布莱特\|玲·海瓦斯 |  | [萌娘百科](https://zh.moegirl.org.cn/玲·海瓦斯) |
 | emma millstein | 艾玛·米尔斯汀 |  |  |
 | laura s. arseid | 劳拉·S·亚尔赛德 |  |  |
+| shirley orlando | 谢莉·奥兰多 |  | [萌娘百科](https://zh.moegirl.org.cn/谢莉·奥兰多) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
