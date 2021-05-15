@@ -3352,6 +3352,7 @@ example:
 | laura s. arseid | 劳拉·S·亚尔赛德 |  |  |
 | shirley orlando | 谢莉·奥兰多 |  | [萌娘百科](https://zh.moegirl.org.cn/谢莉·奥兰多) |
 | tita russel | 提妲·拉赛尔 |  | [萌娘百科](https://zh.moegirl.org.cn/提妲·拉赛尔) |
+| towa herschel | 托娃·赫歇尔 |  | [萌娘百科](https://zh.moegirl.org.cn/托娃·赫歇尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
