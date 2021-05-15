@@ -3345,6 +3345,7 @@ example:
 | tio plato | 缇欧·普拉托 |  |  |
 | vita clotilde | 薇塔·克洛提德 |  |  |
 | duvalie | 杜巴莉 |  |  |
+| elise schwarzer | 爱丽榭·舒华泽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
