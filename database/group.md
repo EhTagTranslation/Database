@@ -2068,6 +2068,7 @@ example:
 | 180milli cannon | 180ミリキャノン |  |  |
 | zetsubou teisyoku | ぜつぼう定食 |  |  |
 | milk engine | Milk Engine |  |  |
+| romantic sintai-kensa. | ロマンティック身体検査 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
