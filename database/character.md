@@ -3343,6 +3343,7 @@ example:
 | noel seeker | 诺艾尔·希卡 |  |  |
 | rixia mao | 莉夏·毛 |  |  |
 | tio plato | 缇欧·普拉托 |  |  |
+| vita clotilde | 薇塔·克洛提德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
