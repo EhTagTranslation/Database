@@ -2073,6 +2073,7 @@ example:
 | creayus | CREAYUS |  |  |
 | chabashira chainsaw | チャバシラチェーンソー |  |  |
 | renai mangaka | 恋愛漫画家 |  |  |
+| hakuto-can | 白桃缶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
