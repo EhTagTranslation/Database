@@ -3127,7 +3127,7 @@ example:
 | hou | 蜂様 (ほう) |  |  |
 | nakamura b-ta | 中村べーた |  |  |
 | lengsediaokafei | 冷色调咖啡 |  | [pixiv](https://www.pixiv.net/users/10783995)<br>[微博](https://weibo.com/p/1005055297506056) |
-| naruse hirofumi | 鳴瀬ひろふみ |  | [pixiv](https://www.pixiv.net/users/226615) |
+| naruse hirofumi | 鳴瀬ひろふみ |  | [pixiv](https://www.pixiv.net/users/226615) [Twitter](https://twitter.com/hirofumi_naruse) |
 | momose sumomo | 桃瀬すもも |  | [pixiv](https://www.pixiv.net/users/1485797/) [Twitter](https://twitter.com/sum0m0) |
 
 <!--TEMPLATE: 
