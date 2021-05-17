@@ -2072,6 +2072,7 @@ example:
 | white guardian | White Guardian |  |  |
 | creayus | CREAYUS |  |  |
 | chabashira chainsaw | チャバシラチェーンソー |  |  |
+| renai mangaka | 恋愛漫画家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
