@@ -3376,6 +3376,7 @@ example:
 | shioriko mifune | 三船栞子 |  | [萌娘百科](https://zh.moegirl.org.cn/三船栞子) |
 | olga discordia | 奥利卡·迪斯克伦蒂亚 |  | [萌娘百科](https://zh.moegirl.org.cn/奥利卡·迪斯克伦蒂亚) |
 | mamako oosuki | 大好真真子 |  | [萌娘百科](https://zh.moegirl.org.cn/大好真真子) |
+| masato oosuki | 大好真人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
