@@ -2074,6 +2074,7 @@ example:
 | chabashira chainsaw | チャバシラチェーンソー |  |  |
 | renai mangaka | 恋愛漫画家 |  |  |
 | hakuto-can | 白桃缶 |  |  |
+| kemono ekaki no kousoku 2 | ケモノ絵描きの光速2 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
