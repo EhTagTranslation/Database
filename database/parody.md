@@ -1560,6 +1560,7 @@ example:
 | shuriken sentai ninninger | 手里剑战队忍忍者 |  | [维基百科](https://zh.wikipedia.org/zh-cn/手裏劍戰隊忍忍者) |
 | hajimete no hitozuma | 第一次的人妻体验 |  |  |
 | sdorica | Sdorica |  | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) |
+| kaifuku jutsushi no yarinaoshi | 回复术士的重启人生 |  | [维基百科](https://zh.wikipedia.org/wiki/回復術士的重啟人生) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
