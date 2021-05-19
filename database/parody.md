@@ -1559,6 +1559,7 @@ example:
 | oide yo mizuryuu kei land | 欢迎光临！水龙敬乐园 |  |  |
 | shuriken sentai ninninger | 手里剑战队忍忍者 |  | [维基百科](https://zh.wikipedia.org/zh-cn/手裏劍戰隊忍忍者) |
 | hajimete no hitozuma | 第一次的人妻体验 |  |  |
+| sdorica | Sdorica |  | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
