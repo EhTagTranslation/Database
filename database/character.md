@@ -3373,6 +3373,7 @@ example:
 | nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
 | kou | 蔻 |  | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
 | yu takasaki | 高咲侑 |  | [萌娘百科](https://zh.moegirl.org.cn/高咲侑) |
+| shioriko mifune | 三船栞子 |  | [萌娘百科](https://zh.moegirl.org.cn/三船栞子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
