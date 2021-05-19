@@ -3131,6 +3131,7 @@ example:
 | momose sumomo | 桃瀬すもも |  | [pixiv](https://www.pixiv.net/users/1485797/) [Twitter](https://twitter.com/sum0m0) |
 | nukuo | ヌク男 |  | [pixiv](https://www.pixiv.net/users/6943506) [Twitter](https://twitter.com/hagunontada) |
 | sindoll | シンドール |  |  |
+| horikawa gorou | 堀川悟郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
