@@ -3377,6 +3377,7 @@ example:
 | olga discordia | 奥利卡·迪斯克伦蒂亚 |  | [萌娘百科](https://zh.moegirl.org.cn/奥利卡·迪斯克伦蒂亚) |
 | mamako oosuki | 大好真真子 |  | [萌娘百科](https://zh.moegirl.org.cn/大好真真子) |
 | masato oosuki | 大好真人 |  |  |
+| flare arlgrande jioral | 芙列雅·艾尔格兰帝·吉欧拉尔 |  | [萌娘百科](https://zh.moegirl.org.cn/芙列雅·艾尔格兰帝·吉欧拉尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
