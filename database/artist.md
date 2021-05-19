@@ -3130,6 +3130,7 @@ example:
 | naruse hirofumi | 鳴瀬ひろふみ |  | [pixiv](https://www.pixiv.net/users/226615) [Twitter](https://twitter.com/hirofumi_naruse) |
 | momose sumomo | 桃瀬すもも |  | [pixiv](https://www.pixiv.net/users/1485797/) [Twitter](https://twitter.com/sum0m0) |
 | nukuo | ヌク男 |  | [pixiv](https://www.pixiv.net/users/6943506) [Twitter](https://twitter.com/hagunontada) |
+| sindoll | シンドール |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
