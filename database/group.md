@@ -2078,6 +2078,7 @@ example:
 | niji no magellan | にじのまぜらん |  |  |
 | nyanko batake | 猫畑 |  |  |
 | tsukimi dojin | 月見道神 |  |  |
+| sakanaya | 魚屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
