@@ -3136,6 +3136,7 @@ example:
 | tsukimi ruko | 月見ルコ |  |  |
 | kameyama shiruko | 亀山しるこ |  |  |
 | takimoto yukari | 瀧本ゆかり |  | [pixiv](https://www.pixiv.net/users/18858574) [Twitter](https://twitter.com/karine_yukari) |
+| sakamoto kafka | 阪本KAFKA |  | [Twitter](https://twitter.com/skafka15) [pixiv](https://www.pixiv.net/users/22151083) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
