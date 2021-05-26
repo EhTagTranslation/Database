@@ -2076,6 +2076,7 @@ example:
 | hakuto-can | 白桃缶 |  |  |
 | kemono ekaki no kousoku 2 | ケモノ絵描きの光速2 |  |  |
 | niji no magellan | にじのまぜらん |  |  |
+| nyanko batake | 猫畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
