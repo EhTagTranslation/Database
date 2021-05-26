@@ -2077,6 +2077,7 @@ example:
 | kemono ekaki no kousoku 2 | ケモノ絵描きの光速2 |  |  |
 | niji no magellan | にじのまぜらん |  |  |
 | nyanko batake | 猫畑 |  |  |
+| tsukimi dojin | 月見道神 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
