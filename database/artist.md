@@ -3135,7 +3135,7 @@ example:
 | kandenki | 感电器 |  | [Twitter](https://twitter.com/batibatizekkyou)<br>[pixiv](https://www.pixiv.net/users/35107301) |
 | tsukimi ruko | 月見ルコ |  |  |
 | kameyama shiruko | 亀山しるこ |  |  |
-| takimoto yukari | 瀧本ゆかり |  |  |
+| takimoto yukari | 瀧本ゆかり |  | [pixiv](https://www.pixiv.net/users/18858574) [Twitter](https://twitter.com/karine_yukari) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
