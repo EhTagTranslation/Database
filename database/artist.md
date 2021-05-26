@@ -3134,6 +3134,7 @@ example:
 | horikawa gorou | 堀川悟郎 |  |  |
 | kandenki | 感电器 |  | [Twitter](https://twitter.com/batibatizekkyou)<br>[pixiv](https://www.pixiv.net/users/35107301) |
 | tsukimi ruko | 月見ルコ |  |  |
+| kameyama shiruko | 亀山しるこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
