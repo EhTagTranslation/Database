@@ -2079,6 +2079,7 @@ example:
 | nyanko batake | 猫畑 |  |  |
 | tsukimi dojin | 月見道神 |  |  |
 | sakanaya | 魚屋 |  |  |
+| tonyu bokujo | 豆乳牧場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
