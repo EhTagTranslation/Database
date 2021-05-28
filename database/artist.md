@@ -3139,6 +3139,7 @@ example:
 | sakamoto kafka | 阪本KAFKA |  | [Twitter](https://twitter.com/skafka15) [pixiv](https://www.pixiv.net/users/22151083) |
 | itsutsuse | 古川五势（いつつせ） | 海里名：いつつせ<br>上岸名：古川五勢 | [pixiv](https://www.pixiv.net/users/8415301) [Twitter](https://twitter.com/fiveiro) |
 | chiyingzai | 帜瑛 |  | [pixiv](https://www.pixiv.net/users/1102289) [Twitter](https://twitter.com/chiyingzai) |
+| isako rokuroh | 井硲六郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
