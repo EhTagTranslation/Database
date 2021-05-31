@@ -3140,6 +3140,7 @@ example:
 | itsutsuse | 古川五势（いつつせ） | 海里名：いつつせ<br>上岸名：古川五勢 | [pixiv](https://www.pixiv.net/users/8415301) [Twitter](https://twitter.com/fiveiro) |
 | chiyingzai | 帜瑛 |  | [pixiv](https://www.pixiv.net/users/1102289) [Twitter](https://twitter.com/chiyingzai) |
 | isako rokuroh | 井硲六郎 |  |  |
+| nigiri usagi | にぎりうさぎ |  | [Twitter](https://twitter.com/mutyumutyudenbu) [pixiv](https://www.pixiv.net/users/45081727) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
