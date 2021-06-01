@@ -3379,6 +3379,7 @@ example:
 | masato oosuki | 大好真人 |  |  |
 | flare arlgrande jioral | 芙列雅·艾尔格兰帝·吉欧拉尔 |  | [萌娘百科](https://zh.moegirl.org.cn/芙列雅·艾尔格兰帝·吉欧拉尔) |
 | andira | 安琪拉 | 守护西南西方位，十二神将之一。对过去祖先前往的理想乡抱有梦想的猿神，遵从命运的相会踏上了旅途。少女小小的身躯中蕴藏的坚定不移的意志，将会成为对众人强有力的支持。 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040071000) |
+| hacka doll no.3 | 骇客娃娃3号 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
