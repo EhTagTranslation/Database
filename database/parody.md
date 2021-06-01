@@ -730,7 +730,7 @@ example:
 | high school fleet | 高校舰队 | 青春波纹 |  |
 | shinmai fukei kiruko-san | 新人女警斩子小姐 |  |  |
 | how to train your dragon | 驯龙高手 |  |  |
-| hacka doll | 骇客娃娃 |  | [萌娘百科](https://zh.moegirl.org.cn/骇客娃娃) |
+| hacka doll | 骇客娃娃 |  | [萌娘百科](https://zh.moegirl.org.cn/骇客娃娃) [维基百科](https://zh.wikipedia.org/wiki/黑客人偶) |
 | kaiju girls | 怪兽娘 |  |  |
 | shinrabansho | 神罗万象 |  |  |
 | azumanga daioh | 阿滋漫画大王 |  |  |
