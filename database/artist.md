@@ -3146,6 +3146,7 @@ example:
 | wakamatsu | わかまつ |  |  |
 | geko | GEKO |  |  |
 | yatosaki haru | やとさきはる |  |  |
+| ootsuka mahiro | 大塚まひろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
