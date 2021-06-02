@@ -2084,6 +2084,7 @@ example:
 | tateyoko issen | 縦横一線 |  |  |
 | ohoshisamadou | おほしさま堂 |  |  |
 | pure plastic | 純情プラスチック |  |  |
+| otaku beam | オタクビーム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
