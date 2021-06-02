@@ -3145,6 +3145,7 @@ example:
 | shinagawa mikuzu | 品川ミクズ |  | [pixiv](https://www.pixiv.net/users/4723561) [Twitter](https://twitter.com/m1kuzu) |
 | wakamatsu | わかまつ |  |  |
 | geko | GEKO |  |  |
+| yatosaki haru | やとさきはる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
