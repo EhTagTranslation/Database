@@ -2081,6 +2081,7 @@ example:
 | sakanaya | 魚屋 |  |  |
 | tonyu bokujo | 豆乳牧場 |  |  |
 | kanai | 仮名居 |  | [pixiv](https://www.pixiv.net/users/49213396) [Twitter](https://twitter.com/8_HoneycomB_8) |
+| tateyoko issen | 縦横一線 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
