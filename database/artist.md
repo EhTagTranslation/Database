@@ -3143,6 +3143,7 @@ example:
 | nigiri usagi | にぎりうさぎ |  | [Twitter](https://twitter.com/mutyumutyudenbu) [pixiv](https://www.pixiv.net/users/45081727) |
 | mizumizuni | 見ず水煮 |  | [pixiv](https://www.pixiv.net/users/7026506) [Twitter](https://twitter.com/mizumizuni1) |
 | shinagawa mikuzu | 品川ミクズ |  | [pixiv](https://www.pixiv.net/users/4723561) [Twitter](https://twitter.com/m1kuzu) |
+| wakamatsu | わかまつ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
