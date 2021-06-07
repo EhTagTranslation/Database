@@ -1021,7 +1021,7 @@ example:
 | kuno touya | 九野十弥 |  |  |
 | sakurasawa yukino | さくらさわゆきの |  |  |
 | inomoto rikako | 井ノ本リカ子 |  |  |
-| mikemono yuu | 神毛物由宇 |  |  |
+| mikemono yuu | 神毛物由宇 |  | [pixiv](https://www.pixiv.net/users/1290206) [Twitter](https://twitter.com/mikemono_yuu) |
 | tsukioka kirio | ツキオカキリオ |  |  |
 | nishi | 弐肆 \| にし \| 西 | Count2.4<br>Lily \| Studio Empty<br>风来人 |  |
 | chachaki noriyuki | 清山昌 |  |  |
