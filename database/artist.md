@@ -3150,6 +3150,7 @@ example:
 | fuyuichi monme | 冬壱もんめ |  |  |
 | momosawa | ももさわ |  |  |
 | sabaku | 砂漠 |  |  |
+| sangatsu sanichi | 三月さんいち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
