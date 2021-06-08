@@ -3152,6 +3152,7 @@ example:
 | sabaku | 砂漠 |  |  |
 | sangatsu sanichi | 三月さんいち |  |  |
 | konnyaku | こんにゃく |  |  |
+| yaminabe | やみなべ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
