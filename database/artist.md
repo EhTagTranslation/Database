@@ -3153,6 +3153,7 @@ example:
 | sangatsu sanichi | 三月さんいち |  |  |
 | konnyaku | こんにゃく |  |  |
 | yaminabe | やみなべ |  |  |
+| tenjo ryuka | 天壌りゅか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
