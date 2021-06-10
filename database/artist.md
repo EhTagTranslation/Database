@@ -3154,6 +3154,7 @@ example:
 | konnyaku | こんにゃく |  |  |
 | yaminabe | やみなべ |  |  |
 | tenjo ryuka | 天壌りゅか |  |  |
+| nekoya | 猫夜 |  | [pixiv](https://www.pixiv.net/users/579767) [Twitter](https://twitter.com/nekoya3) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
