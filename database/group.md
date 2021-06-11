@@ -2085,6 +2085,7 @@ example:
 | ohoshisamadou | おほしさま堂 |  |  |
 | pure plastic | 純情プラスチック |  |  |
 | otaku beam | オタクビーム |  |  |
+| gin no ame | 銀のあめ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
