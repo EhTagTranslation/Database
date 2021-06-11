@@ -2086,6 +2086,7 @@ example:
 | pure plastic | 純情プラスチック |  |  |
 | otaku beam | オタクビーム |  |  |
 | gin no ame | 銀のあめ |  |  |
+| mochipeach | MochiPeach |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
