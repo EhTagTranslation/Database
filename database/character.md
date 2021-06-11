@@ -3385,6 +3385,7 @@ example:
 | hacka doll no.4 | 骇客娃娃4号 | 动画原创人物，集结最新的技术所建造出来的新型角色，虽有出众的能力但是老是因得意忘形而犯错，个性开朗乐观。 |  |
 | shinshuu maru | 神州丸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神州丸) |
 | akira amatsume | 天女目瑛 |  |  |
+| nao yorihime | 依媛奈绪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
