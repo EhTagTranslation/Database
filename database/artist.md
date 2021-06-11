@@ -3157,6 +3157,7 @@ example:
 | nekoya | 猫夜 |  | [pixiv](https://www.pixiv.net/users/579767) [Twitter](https://twitter.com/nekoya3) |
 | muninshiki | むにんしき |  | [Twitter](https://twitter.com/muninshiki) [pixiv](https://www.pixiv.net/users/67442991) |
 | masayo | まさよ |  | [Twitter](https://twitter.com/blaulac) [pixiv](https://www.pixiv.net/users/14325286) |
+| momozu komamochi | 桃豆こまもち |  | [Twitter](https://twitter.com/koma_momozu) [pixiv](https://www.pixiv.net/users/42658805) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
