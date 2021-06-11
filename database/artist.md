@@ -227,7 +227,7 @@ example:
 | daichi kouta | 大地巧太 |  |  |
 | awatake takahiro | 弘岳粟高 |  |  |
 | kylin | Kylin |  |  |
-| morishima kon | 森島コン |  |  |
+| morishima kon | 森島コン |  | [pixiv](https://www.pixiv.net/users/2634234) [Twitter](https://twitter.com/kon_004) |
 | mdo-h | 无道睿智 |  |  |
 | ginyou haru | 銀曜ハル |  |  |
 | shiina | シイナ |  |  |
