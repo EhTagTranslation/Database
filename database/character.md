@@ -3386,6 +3386,7 @@ example:
 | shinshuu maru | 神州丸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神州丸) |
 | akira amatsume | 天女目瑛 |  |  |
 | nao yorihime | 依媛奈绪 |  |  |
+| batman | 蝙蝠侠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
