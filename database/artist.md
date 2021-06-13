@@ -3158,6 +3158,7 @@ example:
 | muninshiki | むにんしき |  | [Twitter](https://twitter.com/muninshiki) [pixiv](https://www.pixiv.net/users/67442991) |
 | masayo | まさよ |  | [Twitter](https://twitter.com/blaulac) [pixiv](https://www.pixiv.net/users/14325286) |
 | momozu komamochi | 桃豆こまもち |  | [Twitter](https://twitter.com/koma_momozu) [pixiv](https://www.pixiv.net/users/42658805) |
+| hoshii nasake | 星井情 |  | [pixiv](https://www.pixiv.net/users/54419549) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
