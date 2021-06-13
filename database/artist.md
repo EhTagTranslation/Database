@@ -3159,6 +3159,7 @@ example:
 | masayo | まさよ |  | [Twitter](https://twitter.com/blaulac) [pixiv](https://www.pixiv.net/users/14325286) |
 | momozu komamochi | 桃豆こまもち |  | [Twitter](https://twitter.com/koma_momozu) [pixiv](https://www.pixiv.net/users/42658805) |
 | hoshii nasake | 星井情 |  | [pixiv](https://www.pixiv.net/users/54419549) |
+| amezawa koma | 飴沢狛 |  | [pixiv](https://www.pixiv.net/users/1203575) [Twitter](https://twitter.com/ponnzuame) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
