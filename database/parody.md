@@ -1562,6 +1562,7 @@ example:
 | sdorica | Sdorica |  | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) |
 | kaifuku jutsushi no yarinaoshi | 回复术士的重启人生 |  | [维基百科](https://zh.wikipedia.org/wiki/回復術士的重啟人生) |
 | sd gundam sangokuden | SD高达三国传 |  | [维基百科](https://en.wikipedia.org/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors) |
+| promare | 普罗米亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
