@@ -3394,6 +3394,7 @@ example:
 | akira amatsume | 天女目瑛 |  |  |
 | nao yorihime | 依媛奈绪 |  |  |
 | batman | 蝙蝠侠 |  |  |
+| galo thymos | 加洛·提莫斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
