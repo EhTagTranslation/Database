@@ -3395,6 +3395,7 @@ example:
 | nao yorihime | 依媛奈绪 |  |  |
 | batman | 蝙蝠侠 |  |  |
 | galo thymos | 加洛·提莫斯 |  |  |
+| lio fotia | 里奥·福蒂亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
