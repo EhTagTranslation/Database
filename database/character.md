@@ -195,6 +195,11 @@ example:
 | mike goutokuzi | 豪德寺三花 | ![图](https://ehgt.org/20/da/20da08d7fd158c91f06a29c6364cf03b4b7ef939-587250-732-1150-jpg_l.jpg)![图](https://ehgt.org/2b/3a/2b3afe6f0dc5a9dbdb9dffae5b2a182e129997df-865920-1639-1212-png_l.jpg) |  |
 | takane yamashiro | 山城高岭 | ![图](https://ehgt.org/0d/11/0d1186a05baf8723f6588f2928af4c13c806e57e-555271-719-1066-jpg_l.jpg) |  |
 | sannyo komakusa | 驹草山如 | ![图](https://ehgt.org/77/b1/77b11a3138f18827feeac60b23595f796524a3dd-865459-750-1106-jpg_l.jpg) |  |
+| misumaru tamatsukuri | 玉造魅须丸 |  |  |
+| tsukasa kudamaki | 菅牧典 |  |  |
+| megumu iizunamaru | 饭纲丸龙 |  |  |
+| chimata tenkyu | 天弓千亦 |  |  |
+| momoyo himemushi | 姬虫百百世 |  |  |
 |  | 东方Project >> 音乐CD及出版品 >> 东方香霖堂 |  |  |
 | tokiko | 朱鹭子 | 并不存在官方名字的“读书妖怪”<br>![图](https://ehgt.org/86/17/8617d1527ebe1ccf0e2da49eca4412cd412e21db-1325210-1142-1600-png_l.jpg)![图](# "https://ehgt.org/6a/11/6a112187682ddbff64a7e7ae498aa534638b6121-776333-2000-2823-jpg_l.jpg")![图](https://ehgt.org/bb/13/bb1347a3e5f592072c30106e82c7eee31790cf7c-321640-508-711-jpg_l.jpg)![图](# "https://ehgt.org/13/62/13622f363709b8f521c7ab028105f10cd0a439ae-522998-1670-2260-jpg_l.jpg") |  |
 | rinnosuke morichika | 森近霖之助 | 幻想乡中极少见的男性角色<br>![图](https://ehgt.org/bb/13/bb1347a3e5f592072c30106e82c7eee31790cf7c-321640-508-711-jpg_l.jpg)![图](https://ehgt.org/d7/cc/d7cc777c221a818887c60315cabe5eb9655ef08b-285399-1070-1514-jpg_l.jpg)![图](https://ehgt.org/97/21/972159fbfaa413cded4b2ed24df5d3a7f65e16e8-262966-1060-1500-jpg_l.jpg)![图](# "https://ehgt.org/d6/db/d6db5105055901ce3c833c5930ab601efd788e9e-2657877-2132-3028-jpg_l.jpg") |  |
