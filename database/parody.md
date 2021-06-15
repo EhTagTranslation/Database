@@ -29,7 +29,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于`doujinshi`分类。 |  |
-| touhou project | ![阴阳玉](https://i.jpg.dog/img/36be1e1ce615fb93e359e89a2e3b2e80.gif)东方Project | ![囧仙子1](https://i.jpg.dog/img/29a43c61f29186fecb1f2232638d9a84.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](https://i.jpg.dog/img/acbff53aae2122f2a88f4ffc327f62b0.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](https://i.jpg.dog/img/c00f985d854c3907731d0f8710338a1a.jpg) |  |
+| touhou project | ![阴阳玉](https://i.jpg.dog/file/jpg-dog/36be1e1ce615fb93e359e89a2e3b2e80.gif)东方Project | ![囧仙子1](https://i.jpg.dog/file/jpg-dog/29a43c61f29186fecb1f2232638d9a84.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](https://i.jpg.dog/file/jpg-dog/acbff53aae2122f2a88f4ffc327f62b0.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](https://i.jpg.dog/file/jpg-dog/c00f985d854c3907731d0f8710338a1a.jpg) |  |
 | moetan | 萌单✏️ | ![萌之英语单词](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |  |
 |  | ▼Key社作品 |  |  |
 | kanon | Kanon❄ | ![图](https://ehgt.org/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](https://ehgt.org/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |  |
@@ -65,7 +65,7 @@ example:
 | vocaloid | ![V](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)VOCALOID | ![图](https://ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |  |
 | voiceroid | VOICEROID |  |  |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |  |
-| the idolmaster | ![iM@S](https://i.jpg.dog/img/97155012957a7bbd148d1bc48c26ac67.gif)偶像大师 | ![图](https://ehgt.org/f9/ef/f9ef4d663daab66d6407cd787e3733524a6f90c3-1354223-3419-2550-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) |
+| the idolmaster | ![iM@S](https://i.jpg.dog/file/jpg-dog/97155012957a7bbd148d1bc48c26ac67.gif)偶像大师 | ![图](https://ehgt.org/f9/ef/f9ef4d663daab66d6407cd787e3733524a6f90c3-1354223-3419-2550-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 |  |  |
 | himouto umaru-chan | 干物妹！小埋 | ![图](# "https://ehgt.org/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg") |  |
 | bakemonogatari | 化物语 | ![图](# "https://ehgt.org/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg")![图](# "https://ehgt.org/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg")![图](# "https://ehgt.org/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg") |  |
