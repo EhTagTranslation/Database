@@ -29,7 +29,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于`doujinshi`分类。 |  |
-| touhou project | ![阴阳玉](https://i.jpg.dog/img/36be1e1ce615fb93e359e89a2e3b2e80.gif)东方Project⛩ | ![囧仙子1](https://i.jpg.dog/img/29a43c61f29186fecb1f2232638d9a84.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](https://i.jpg.dog/img/acbff53aae2122f2a88f4ffc327f62b0.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](https://i.jpg.dog/img/c00f985d854c3907731d0f8710338a1a.jpg) |  |
+| touhou project | ![阴阳玉](https://i.jpg.dog/img/36be1e1ce615fb93e359e89a2e3b2e80.gif)东方Project⛩️ | ![囧仙子1](https://i.jpg.dog/img/29a43c61f29186fecb1f2232638d9a84.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](https://i.jpg.dog/img/acbff53aae2122f2a88f4ffc327f62b0.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](https://i.jpg.dog/img/c00f985d854c3907731d0f8710338a1a.jpg) |  |
 | moetan | 萌单✏️ | ![萌之英语单词](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |  |
 |  | ▼Key社作品 |  |  |
 | kanon | Kanon❄ | ![图](https://ehgt.org/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](https://ehgt.org/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |  |
