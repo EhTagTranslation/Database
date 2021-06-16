@@ -2087,6 +2087,7 @@ example:
 | otaku beam | オタクビーム |  |  |
 | gin no ame | 銀のあめ |  |  |
 | mochipeach | MochiPeach |  |  |
+| tokunocin | tokunocin |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
