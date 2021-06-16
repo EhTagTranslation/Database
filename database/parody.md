@@ -1563,6 +1563,7 @@ example:
 | kaifuku jutsushi no yarinaoshi | 回复术士的重启人生 |  | [维基百科](https://zh.wikipedia.org/wiki/回復術士的重啟人生) |
 | sd gundam sangokuden | SD高达三国传 |  | [维基百科](https://en.wikipedia.org/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors) |
 | promare | 普罗米亚 |  |  |
+| ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/SSSS.DYNAZENON) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
