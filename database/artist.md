@@ -3160,6 +3160,7 @@ example:
 | momozu komamochi | 桃豆こまもち |  | [Twitter](https://twitter.com/koma_momozu) [pixiv](https://www.pixiv.net/users/42658805) |
 | hoshii nasake | 星井情 |  | [pixiv](https://www.pixiv.net/users/54419549) |
 | amezawa koma | 飴沢狛 |  | [pixiv](https://www.pixiv.net/users/1203575) [Twitter](https://twitter.com/ponnzuame) |
+| kanda dan | 館田ダン |  | [Twitter](https://twitter.com/done_kanda) [pixiv](https://www.pixiv.net/users/7618326) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
