@@ -3397,6 +3397,7 @@ example:
 | galo thymos | 加洛·提莫斯 |  |  |
 | lio fotia | 里奥·福蒂亚 |  |  |
 | qiqi | 七七 | 七七是原神游戏内的单手剑角色，冰元素神之眼的持有者，七七拥有强大的辅助能力，技能不仅可以给队友回血，还能侦测璃月的特产资源 |  |
+| mujina | 貉 | ![貉](https://img.moegirl.org.cn/common/thumb/f/f8/Mujina_visual.png/280px-Mujina_visual.png)<br>貉是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>主张怪兽主导世界的集团「怪兽优生思想」的成员。怪兽使。<br><br>穿着白色军装，左臂上有青色的四条线。棕发蓝瞳的女子。<br><br>战斗意志很低下，总是想着早点完事离开摸鱼下班 | [萌娘百科](https://zh.moegirl.org.cn/貉%28SSSS.DYNAZENON%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
