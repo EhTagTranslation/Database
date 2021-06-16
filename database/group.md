@@ -2088,6 +2088,7 @@ example:
 | gin no ame | 銀のあめ |  |  |
 | mochipeach | MochiPeach |  |  |
 | tokunocin | tokunocin |  |  |
+| viking | バイキング |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
