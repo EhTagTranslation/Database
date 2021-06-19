@@ -2090,6 +2090,7 @@ example:
 | tokunocin | tokunocin |  |  |
 | viking | バイキング |  |  |
 | caslton | キャッスルトン |  |  |
+| ntroom. | NTroom. |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
