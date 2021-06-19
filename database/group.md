@@ -2089,6 +2089,7 @@ example:
 | mochipeach | MochiPeach |  |  |
 | tokunocin | tokunocin |  |  |
 | viking | バイキング |  |  |
+| caslton | キャッスルトン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
