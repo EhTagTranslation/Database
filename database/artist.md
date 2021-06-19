@@ -3166,6 +3166,7 @@ example:
 | neromashin | 青豆腐 | 微重口 | [Twitter](https://twitter.com/neromashin001) |
 | yuugen | ゆーげん |  | [Twitter](https://twitter.com/Yuugen_99) [pixiv](https://www.pixiv.net/users/806502) |
 | oshio | おしお |  | [Twitter](https://twitter.com/oshioshio_info) [pixiv](https://www.pixiv.net/users/4733565) |
+| torotaro | トロ太郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
