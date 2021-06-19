@@ -3163,6 +3163,7 @@ example:
 | kanda dan | 館田ダン |  | [Twitter](https://twitter.com/done_kanda) [pixiv](https://www.pixiv.net/users/7618326) |
 | mikuni mizuki | みくに瑞貴 |  |  |
 | yamamoto naoki | 山本直樹 |  |  |
+| neromashin | 青豆腐 | 微重口 | [Twitter](https://twitter.com/neromashin001) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
