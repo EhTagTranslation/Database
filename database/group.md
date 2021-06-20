@@ -2091,6 +2091,7 @@ example:
 | viking | バイキング |  |  |
 | caslton | キャッスルトン |  |  |
 | ntroom. | NTroom. |  |  |
+| shiropro | しろぷろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
