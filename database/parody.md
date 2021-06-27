@@ -1564,6 +1564,7 @@ example:
 | sd gundam sangokuden | SD高达三国传 |  | [维基百科](https://en.wikipedia.org/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors) |
 | promare | 普罗米亚 |  |  |
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/SSSS.DYNAZENON) |
+| yagate kimi ni naru | 终将成为你 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
