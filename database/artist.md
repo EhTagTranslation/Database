@@ -3168,7 +3168,7 @@ example:
 | oshio | おしお |  | [Twitter](https://twitter.com/oshioshio_info) [pixiv](https://www.pixiv.net/users/4733565) |
 | torotaro | トロ太郎 |  |  |
 | mishima kurone | 三嶋くろね |  | [Twitter](https://twitter.com/mishima_kurone) [pixiv](https://www.pixiv.net/users/1184799) |
-| himuro shunsuke | 氷室しゅんすけ |  |  |
+| himuro shunsuke | 氷室しゅんすけ |  | [pixiv](https://www.pixiv.net/users/65165) [Twitter](https://twitter.com/himuron) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
