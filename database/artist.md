@@ -3170,6 +3170,7 @@ example:
 | mishima kurone | 三嶋くろね |  | [Twitter](https://twitter.com/mishima_kurone) [pixiv](https://www.pixiv.net/users/1184799) |
 | himuro shunsuke | 氷室しゅんすけ |  | [pixiv](https://www.pixiv.net/users/65165) [Twitter](https://twitter.com/himuron) |
 | haikome | 灰米 |  | [pixiv](https://www.pixiv.net/users/46068676) [Twitter](https://twitter.com/Haikome?s=09) |
+| bizen dorobune | 備前泥舟 |  | [pixiv](https://www.pixiv.net/users/7341) [Twitter](https://twitter.com/zendoro) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
