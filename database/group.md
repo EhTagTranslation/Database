@@ -2092,6 +2092,7 @@ example:
 | caslton | キャッスルトン |  |  |
 | ntroom. | NTroom. |  |  |
 | shiropro | しろぷろ |  |  |
+| bizen dorobune koubou | 備前泥舟工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
