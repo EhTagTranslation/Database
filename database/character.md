@@ -3403,6 +3403,7 @@ example:
 | anne takamaki | 高卷杏 | 女神异闻录5女主角之一，阿尔卡纳为“恋爱” | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/高卷杏) |
 | hathaway noa | 哈撒韦·诺亚 | 哈萨维·诺亚（日语：ハサウェイ・ノア ）是由日升动画所制作的动画《机动战士Z高达》、剧场版动画《机动战士高达 闪光的哈萨维》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/哈萨维·诺亚) |
 | amuro ray | 阿姆罗·雷 |  |  |
+| char aznable | 夏亚·阿兹纳布 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
