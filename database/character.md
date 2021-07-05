@@ -3402,6 +3402,7 @@ example:
 | yomogi asanaka | 麻中蓬 | ![麻中蓬](https://img.moegirl.org.cn/common/thumb/a/ac/Yomogi_visual.png/280px-Yomogi_visual.png)<br>麻中蓬是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>东京都立不如归台高中的高中一年生。<br>意外帮助了差点饿死的失马，并被对方当成了恩人和朋友。<br>自身正在做便利店的兼职。 | [萌娘百科](https://zh.moegirl.org.cn/麻中蓬) |
 | anne takamaki | 高卷杏 | 女神异闻录5女主角之一，阿尔卡纳为“恋爱” | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/高卷杏) |
 | hathaway noa | 哈撒韦·诺亚 | 哈萨维·诺亚（日语：ハサウェイ・ノア ）是由日升动画所制作的动画《机动战士Z高达》、剧场版动画《机动战士高达 闪光的哈萨维》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/哈萨维·诺亚) |
+| amuro ray | 阿姆罗·雷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
