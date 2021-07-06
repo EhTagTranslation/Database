@@ -1565,6 +1565,7 @@ example:
 | promare | 普罗米亚 |  |  |
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/SSSS.DYNAZENON) |
 | yagate kimi ni naru | 终将成为你 |  |  |
+| maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
