@@ -3409,6 +3409,7 @@ example:
 | akali | 阿卡丽 | 英雄联盟角色 |  |
 | misae nohara | 野原美伢 |  |  |
 | shinnosuke nohara | 野原新之助 |  |  |
+| hiroshi nohara | 野原广志 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
