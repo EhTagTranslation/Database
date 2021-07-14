@@ -3172,6 +3172,7 @@ example:
 | haikome | 灰米 |  | [pixiv](https://www.pixiv.net/users/46068676) [Twitter](https://twitter.com/Haikome?s=09) |
 | bizen dorobune | 備前泥舟 |  | [pixiv](https://www.pixiv.net/users/7341) [Twitter](https://twitter.com/zendoro) |
 | kagura nanaki | 神楽七姫 |  |  |
+| nozomi tsubame | 希望つばめ |  | [Twitter](https://twitter.com/t_nozomi) [pixiv](https://www.pixiv.net/users/232066) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
