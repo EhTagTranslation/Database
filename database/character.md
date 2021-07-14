@@ -3411,6 +3411,7 @@ example:
 | shinnosuke nohara | 野原新之助 |  |  |
 | hiroshi nohara | 野原广志 |  |  |
 | musae koyama | 小山梦冴 |  |  |
+| mineko kazama | 风间峰子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
