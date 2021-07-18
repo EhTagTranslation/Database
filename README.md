@@ -64,6 +64,11 @@
   ![][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
   
+* [FEhViewer](https://github.com/honjow/FEhViewer)
+  ![][plat-ios]  ![][plat-android]
+  一个由 Flutter 编写的阅读器，支持直连。
+  
+  
 ## 开发指南
 
 参见 [Wiki/开发指南](../../wiki/开发指南)。
