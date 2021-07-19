@@ -2094,6 +2094,7 @@ example:
 | shiropro | しろぷろ |  |  |
 | bizen dorobune koubou | 備前泥舟工房 |  |  |
 | kitsune no yomeiri | きつねのよめいり |  |  |
+| shinsei lolishota | 新生ロリショタ | kozi主办的社团名称 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
