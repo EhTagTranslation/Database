@@ -3174,6 +3174,7 @@ example:
 | kagura nanaki | 神楽七姫 |  |  |
 | nozomi tsubame | 希望つばめ |  | [Twitter](https://twitter.com/t_nozomi) [pixiv](https://www.pixiv.net/users/232066) |
 | saba satoru | 佐波サトル |  |  |
+| nagashiro rouge | 長代ルージュ |  | [twitter](https://twitter.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
