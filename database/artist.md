@@ -3181,6 +3181,7 @@ example:
 | hashida mamoru | 桥田镇 |  |  |
 | hiryuu ran | 飞龙乱 |  |  |
 | nyoro nyorozou | 清炭ハリケーン |  |  |
+| denkichi | でん吉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
