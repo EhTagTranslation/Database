@@ -3413,6 +3413,7 @@ example:
 | musae koyama | 小山梦冴 |  |  |
 | mineko kazama | 风间峰子 |  |  |
 | south dakota | 南达科他 |  |  |
+| mona megistus | 阿斯托洛吉斯·莫娜·梅姬斯图斯（莫娜） | 《原神》及其衍生作品的登场角色，神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。 | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
