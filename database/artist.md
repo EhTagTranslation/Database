@@ -3176,6 +3176,7 @@ example:
 | saba satoru | 佐波サトル |  |  |
 | nagashiro rouge | 長代ルージュ |  | [twitter](https://twitter.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
 | kuroiwa menou | 黑岩玛瑙 |  |  |
+| isorashi | 五十嵐唱乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
