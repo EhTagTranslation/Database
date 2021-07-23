@@ -2096,6 +2096,7 @@ example:
 | kitsune no yomeiri | きつねのよめいり |  |  |
 | shinsei lolishota | 新生ロリショタ | kozi主办的社团名称 |  |
 | bakuretsu fusen | 爆裂风船 |  |  |
+| natsume benkei | 夏目ベンケイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
