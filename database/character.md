@@ -3420,6 +3420,7 @@ example:
 | barbara pegg | 芭芭拉 |  | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
 | chongyun | 重云 |  |  |
 | xingqiu | 行秋 |  |  |
+| lisa minci | 丽莎·敏兹 | 《原神》及其衍生作品的登场角色，西风骑士团图书馆的管理员，钟情于睡眠的知性魔女。 | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
