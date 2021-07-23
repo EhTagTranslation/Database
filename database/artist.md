@@ -3182,6 +3182,7 @@ example:
 | hiryuu ran | 飞龙乱 |  |  |
 | nyoro nyorozou | 清炭ハリケーン |  |  |
 | denkichi | でん吉 |  |  |
+| qdou kei | Q堂恵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
