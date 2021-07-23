@@ -3428,6 +3428,7 @@ example:
 | klee | 可莉 | 《原神》及其衍生作品的登场角色，西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。 | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 |  |  |
 | venti | 温迪 |  |  |
+| xiao | 魈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
