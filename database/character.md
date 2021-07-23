@@ -3421,6 +3421,7 @@ example:
 | chongyun | 重云 |  |  |
 | xingqiu | 行秋 |  |  |
 | lisa minci | 丽莎·敏兹 | 《原神》及其衍生作品的登场角色，西风骑士团图书馆的管理员，钟情于睡眠的知性魔女。 | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
+| noelle | 诺艾尔 | 《原神》及其衍生作品的登场角色，以女仆的身份在骑士团里工作，努力学习着骑士的言行礼仪。 | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
