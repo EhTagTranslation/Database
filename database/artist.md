@@ -3179,6 +3179,7 @@ example:
 | isorashi | 五十嵐唱乃 |  |  |
 | minato fumi | 三巷文 |  |  |
 | hashida mamoru | 桥田镇 |  |  |
+| hiryuu ran | 飞龙乱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
