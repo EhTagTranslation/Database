@@ -3419,6 +3419,7 @@ example:
 | eula lawrence | 优菈·劳伦斯 | 《原神》及其衍生作品的登场角色，西风骑士团「游击小队」队长与声名显赫的「浪花骑士」，同时也是旧贵族劳伦斯家族的后裔。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
 | barbara pegg | 芭芭拉 |  | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
 | chongyun | 重云 |  |  |
+| xingqiu | 行秋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
