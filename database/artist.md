@@ -3178,6 +3178,7 @@ example:
 | kuroiwa menou | 黑岩玛瑙 |  |  |
 | isorashi | 五十嵐唱乃 |  |  |
 | minato fumi | 三巷文 |  |  |
+| hashida mamoru | 桥田镇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
