@@ -3429,6 +3429,7 @@ example:
 | xinyan | 辛焱 |  |  |
 | venti | 温迪 |  |  |
 | xiao | 魈 |  |  |
+| razor | 雷泽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
