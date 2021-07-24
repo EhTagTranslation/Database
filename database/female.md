@@ -182,7 +182,7 @@ example:
 | albino | 白化 | 红眼和颜色极浅的皮肤。 |  |
 | body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“肉便器”等贬义词语。不应与`body painting`混淆。<br>![图](# "https://ehgt.org/83/29/83298e7215cb2ca5e4d7d312385a355796e32c1d-252581-567-800-jpg_l.jpg") |  |
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与`body writing`混淆。<br>![图](# "https://ehgt.org/0a/43/0a43c6624ee32e6e35ec85639dea712e8dc5eced-2619393-1812-2560-jpg_l.jpg")![图](# "https://ehgt.org/2c/e1/2ce1e69969b7d80d47a3bc1e071bbe87ed1fcd85-576865-1120-1600-jpg_l.jpg")![图](# "https://ehgt.org/01/3b/013bf3f6b731ef04cfa72b30e8708e887e5240d7-9015914-2124-2900-png_l.jpg") |  |
-| dark skin | 肤色黝黑 | 棕色或黑色的肤色。不应与`tanlines`混淆。<br>![图](# "https://ehgt.org/92/76/927631cd39fcd83a4009307daedf7f6f11ac6570-4933769-2450-3510-jpg_l.jpg") |  |
+| dark skin | 黑皮 | 棕色或黑色的肤色。不应与`tanlines`混淆。<br>![图](# "https://ehgt.org/92/76/927631cd39fcd83a4009307daedf7f6f11ac6570-4933769-2450-3510-jpg_l.jpg") |  |
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 |  |
 | large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与`crotch tattoo`混淆。 |  |
