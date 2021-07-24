@@ -2055,6 +2055,48 @@ example:
 | pion | Pion |  |  |
 | kuragamo | 蔵鴨 |  |  |
 | kaguya hime koubou | 火愚夜姫工房 |  |  |
+| ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
+| fuzuii undou | 不随意運動 |  |  |
+| circle tokomaya | サークルとこまや |  |  |
+| barumishu | ばーるみしゅ |  |  |
+| megami no flask | 女神のフラスコ |  |  |
+| hiiro no kenkyuushitsu | 灯色の研究室 |  |  |
+| sukiyaki club | すきやきクラブ |  |  |
+| kasoku edge | かそくえっぢ | KasokuEdge |  |
+| doku denpa jushin-chuu | 毒電波受信中 |  |  |
+| ebi manga teikoku | えびまんが帝国 |  |  |
+| 180milli cannon | 180ミリキャノン |  |  |
+| zetsubou teisyoku | ぜつぼう定食 |  |  |
+| milk engine | Milk Engine |  |  |
+| romantic sintai-kensa. | ロマンティック身体検査 |  |  |
+| white guardian | White Guardian |  |  |
+| creayus | CREAYUS |  |  |
+| chabashira chainsaw | チャバシラチェーンソー |  |  |
+| renai mangaka | 恋愛漫画家 |  |  |
+| hakuto-can | 白桃缶 |  |  |
+| kemono ekaki no kousoku 2 | ケモノ絵描きの光速2 |  |  |
+| niji no magellan | にじのまぜらん |  |  |
+| nyanko batake | 猫畑 |  |  |
+| tsukimi dojin | 月見道神 |  |  |
+| sakanaya | 魚屋 |  |  |
+| tonyu bokujo | 豆乳牧場 |  |  |
+| kanai | 仮名居 |  | [pixiv](https://www.pixiv.net/users/49213396) [Twitter](https://twitter.com/8_HoneycomB_8) |
+| tateyoko issen | 縦横一線 |  |  |
+| ohoshisamadou | おほしさま堂 |  |  |
+| pure plastic | 純情プラスチック |  |  |
+| otaku beam | オタクビーム |  |  |
+| gin no ame | 銀のあめ |  |  |
+| mochipeach | MochiPeach |  |  |
+| tokunocin | tokunocin |  |  |
+| viking | バイキング |  |  |
+| caslton | キャッスルトン |  |  |
+| ntroom. | NTroom. |  |  |
+| shiropro | しろぷろ |  |  |
+| bizen dorobune koubou | 備前泥舟工房 |  |  |
+| kitsune no yomeiri | きつねのよめいり |  |  |
+| shinsei lolishota | 新生ロリショタ | kozi主办的社团名称 |  |
+| bakuretsu fusen | 爆裂风船 |  |  |
+| natsume benkei | 夏目ベンケイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

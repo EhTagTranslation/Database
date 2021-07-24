@@ -5,16 +5,16 @@
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
 <!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.herokuapp.com/database/~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
-[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.herokuapp.com/database/all/~badge)](https://editor.ehtt.vercel.app/list/all)
-[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.herokuapp.com/database/reclass/~badge)](https://editor.ehtt.vercel.app/list/reclass)
-[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/language/~badge)](https://editor.ehtt.vercel.app/list/language)
-[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.herokuapp.com/database/female/~badge)](https://editor.ehtt.vercel.app/list/female)
-[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.herokuapp.com/database/male/~badge)](https://editor.ehtt.vercel.app/list/male)
-[![misc](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.herokuapp.com/database/misc/~badge)](https://editor.ehtt.vercel.app/list/misc)
-[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.herokuapp.com/database/parody/~badge)](https://editor.ehtt.vercel.app/list/parody)
-[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.herokuapp.com/database/character/~badge)](https://editor.ehtt.vercel.app/list/character)
-[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.herokuapp.com/database/group/~badge)](https://editor.ehtt.vercel.app/list/group)
-[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.herokuapp.com/database/artist/~badge)](https://editor.ehtt.vercel.app/list/artist)
+[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.herokuapp.com/database/all/~badge)](https://ehtt.vercel.app/list/all)
+[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.herokuapp.com/database/reclass/~badge)](https://ehtt.vercel.app/list/reclass)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/language/~badge)](https://ehtt.vercel.app/list/language)
+[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.herokuapp.com/database/female/~badge)](https://ehtt.vercel.app/list/female)
+[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.herokuapp.com/database/male/~badge)](https://ehtt.vercel.app/list/male)
+[![misc](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.herokuapp.com/database/misc/~badge)](https://ehtt.vercel.app/list/misc)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.herokuapp.com/database/parody/~badge)](https://ehtt.vercel.app/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.herokuapp.com/database/character/~badge)](https://ehtt.vercel.app/list/character)
+[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.herokuapp.com/database/group/~badge)](https://ehtt.vercel.app/list/group)
+[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.herokuapp.com/database/artist/~badge)](https://ehtt.vercel.app/list/artist)
 
 ## 协议
 
@@ -63,6 +63,11 @@
 * [E-HentaiViewer](//github.com/kayanouriko/E-HentaiViewer)  
   ![][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
+  
+* [FEhViewer](https://github.com/honjow/FEhViewer)  
+  ![][plat-ios]  ![][plat-android]  
+  一个由 Flutter 编写的阅读器，支持直连。
+  
   
 ## 开发指南
 

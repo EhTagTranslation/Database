@@ -29,7 +29,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于`doujinshi`分类。 |  |
-| touhou project | ![阴阳玉](https://i.jpg.dog/img/36be1e1ce615fb93e359e89a2e3b2e80.gif)东方Project⛩ | ![囧仙子1](https://i.jpg.dog/img/29a43c61f29186fecb1f2232638d9a84.jpg)<br>捐一串还是两串都可以哦～<br>![囧仙子头像](https://i.jpg.dog/img/acbff53aae2122f2a88f4ffc327f62b0.jpg)<br>跟瓦格哇我噶哇嘎嘎<br>![囧仙子2](https://i.jpg.dog/img/c00f985d854c3907731d0f8710338a1a.jpg) |  |
+| touhou project | ![阴阳玉](https://i.jpg.dog/file/jpg-dog/36be1e1ce615fb93e359e89a2e3b2e80.gif)东方Project | ![博丽灵梦](https://upload.thwiki.cc/thumb/3/3d/博丽灵梦（人妖名鉴）.jpg/450px-博丽灵梦（人妖名鉴）.jpg)<br>乐园的可爱巫女<br>![雾雨魔理沙](https://upload.thwiki.cc/thumb/0/0f/雾雨魔理沙（人妖名鉴）.jpg/450px-雾雨魔理沙（人妖名鉴）.jpg)<br>不成熟的魔法使<br>![ZUN](https://upload.thwiki.cc/thumb/c/c8/ZUN与东方苹果（20191208）.jpg/420px-ZUN与东方苹果（20191208）.jpg)<br>博丽神主 | [东方维基](https://thwiki.cc/东方Project) [萌娘百科](https://zh.moegirl.org.cn/东方Project) |
 | moetan | 萌单✏️ | ![萌之英语单词](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |  |
 |  | ▼Key社作品 |  |  |
 | kanon | Kanon❄ | ![图](https://ehgt.org/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](https://ehgt.org/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |  |
@@ -65,7 +65,7 @@ example:
 | vocaloid | ![V](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehb0gp049g200b00c02a.gif)VOCALOID | ![图](https://ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |  |
 | voiceroid | VOICEROID |  |  |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.acg.moe/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |  |
-| the idolmaster | ![iM@S](https://i.jpg.dog/img/97155012957a7bbd148d1bc48c26ac67.gif)偶像大师 | ![图](https://ehgt.org/f9/ef/f9ef4d663daab66d6407cd787e3733524a6f90c3-1354223-3419-2550-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) |
+| the idolmaster | ![iM@S](https://i.jpg.dog/file/jpg-dog/97155012957a7bbd148d1bc48c26ac67.gif)偶像大师 | ![图](https://ehgt.org/f9/ef/f9ef4d663daab66d6407cd787e3733524a6f90c3-1354223-3419-2550-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 |  |  |
 | himouto umaru-chan | 干物妹！小埋 | ![图](# "https://ehgt.org/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg") |  |
 | bakemonogatari | 化物语 | ![图](# "https://ehgt.org/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg")![图](# "https://ehgt.org/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg")![图](# "https://ehgt.org/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg") |  |
@@ -607,7 +607,7 @@ example:
 | variable geo | 格斗女神 | 姬武神传说 |  |
 | ashita no nadja | 明日的娜嘉 |  |  |
 | goldfish warning | 魔力小金鱼 |  |  |
-| mazinger z | 铁甲万能侠 | 万能侠Z |  |
+| mazinger z | 魔神Z | 魔神Z |  |
 | magi the labyrinth of magic | 魔笛MAGI | MAGI魔奇少年、天方魔谭MAGI |  |
 | ultraman | 奥特曼 |  |  |
 | we bare bears | 咱们裸熊 |  |  |
@@ -730,7 +730,7 @@ example:
 | high school fleet | 高校舰队 | 青春波纹 |  |
 | shinmai fukei kiruko-san | 新人女警斩子小姐 |  |  |
 | how to train your dragon | 驯龙高手 |  |  |
-| hacka doll | 骇客娃娃 |  |  |
+| hacka doll | 骇客娃娃 |  | [萌娘百科](https://zh.moegirl.org.cn/骇客娃娃) [维基百科](https://zh.wikipedia.org/wiki/黑客人偶) |
 | kaiju girls | 怪兽娘 |  |  |
 | shinrabansho | 神罗万象 |  |  |
 | azumanga daioh | 阿滋漫画大王 |  |  |
@@ -877,7 +877,7 @@ example:
 | .hackroots | .hack//Roots |  |  |
 | .hacklegend of the twilight | .hack//黄昏的腕轮传说 |  |  |
 | log horizon | 记录的地平线 |  |  |
-| kamisama minarai himitsu no cocotama | 见习神仙 秘密的心灵 |  |  |
+| kamisama minarai himitsu no cocotama | 见习神明 秘密的COCOTAMA |  | [萌娘百科](https://zh.moegirl.org.cn/见习神明_秘密的COCOTAMA) |
 | phantom of inferno | 幻灵镇魂曲 |  |  |
 | dramatical murder | 戏剧性谋杀 | DRAMAtical Murder/ドラマティカル マーダー(ドラマダ) |  |
 | robotics notes | 机器人笔记 | Robotics;Notes |  |
@@ -1322,7 +1322,7 @@ example:
 | last period | 最终休止符 -无止境的螺旋物语- | 《最终休止符 -无止境的螺旋物语-》（日语：ラストピリオド -終わりなき螺旋の物語-，英语：Last Period: The Story of an Endless Spiral）是Happy Elements开发的手机游戏，2016年5月公开。电视动画于2018年4月12日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/最終休止符_-無止境的螺旋物語-) (\*) |
 | stella glow | 星光幻歌 |  |  |
 | ryuuou no oshigoto | 龙王的工作！ | 《龙王的工作！》（日语：りゅうおうのおしごと!）是白鸟士郎撰写，しらび绘制插画的日本轻小说作品。由SB Creative的GA文库发行，已发售8册。漫画版为こげたおこげ作画。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍王的工作！) (\*) |
-| uma musume pretty derby | 赛马娘Pretty Derby | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司Cygames制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。 | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (\*) |
+| uma musume pretty derby | 🐎赛马娘Pretty Derby | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司Cygames制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。 | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (\*) |
 | os-tan | OS娘 | OS娘（OSたん，亦有OS Girls、OS少女等称呼），为一个在日本讨论区双叶频道（Futaba Channel，ふたば☆ちゃんねる）的网络现象。OS娘是日本漫画爱好者对目前的电脑操作系统拟人化后的产物，其对象主要为Windows操作系统。每位OS娘的出场是众位漫画爱好者获得一致的想法创造出来的。 | [维基百科](https://zh.wikipedia.org/zh-cn/OS娘) (\*) |
 | sunohara-sou no kanrinin-san | 春原庄的管理员小姐 | 《春原庄的管理员小姐》（日语：すのはら荘の管理人さん）是由ねこうめ创作的日本四格漫画作品，自一迅社的漫画杂志《漫画4格Palette》2014年7月号开始连载。已发行3册单行本。2017年11月宣布电视动画化。 | [维基百科](https://zh.wikipedia.org/zh-cn/春原莊的管理員小姐) (\*) |
 | yotsubato | 四叶妹妹！ | 《四叶妹妹！》（日语：よつばと!）是东清彦的日本漫画作品，于2003年3月在漫画杂志《月刊Comic电击大王》上连载。到2018年4月28日为止，单行本目前发行了14本。台湾角川已出版13册。 | [维基百科](https://zh.wikipedia.org/zh-cn/四葉妹妹！) (\*) |
@@ -1549,6 +1549,25 @@ example:
 | tanaka-kun wa itsumo kedaruge | 田中君总是如此慵懒 | 《田中君总是如此慵懒》（日语：田中くんはいつもけだるげ）是由ウダノゾミ创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/田中君总是如此慵懒) |
 | yakusoku no neverland | 约定的梦幻岛 | ![约定的梦幻岛](https://img.moegirl.org.cn/common/thumb/3/33/约定的梦幻岛1_.jpg/300px-约定的梦幻岛1_.jpg)![图](https://ehgt.org/d0/e1/d0e15816deb3baa6abbb38b8bb0c2ebfe51b9cac-256519-768-687-jpg_l.jpg)<br>一个讲述了主角骑着"艾玛"电动车进行"诺曼"底登陆的"雷"人故事（误） | [萌娘百科](https://zh.moegirl.org.cn/约定的梦幻岛) |
 | iya na kao sarenagara opantsu misete moraitai | 很想被人用一脸嫌弃的眼神把胖次给我看 | 《很想被人用一脸嫌弃的眼神把胖次给我看》（日语：嫌な顔されながらおパンツ見せてもらいたい）是日本同人志社团“アニマルマシーン”的成员40原创作的同人志，以各式各样的女性摆出一脸嫌弃的样子露出内裤为主题。作品自2015年开始发行并陆续改编成网络动画、轻小说和写真集。 | [维基百科](https://zh.wikipedia.org/wiki/擺出討厭的表情露出內褲) |
+| wrestle angels | 摔角天使 |  |  |
+| nijisanji | 彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。<br>![](https://www.nijisanji.jp/static/logo/nijisanji_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
+| blue archive | 碧蓝档案 |  |  |
+| the legend of luoxiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
+| sk8 the infinity | SK8 无限滑板 | 《SK8 the Infinity》（日语：SK∞ エスケーエイト，中文：SK8 无限滑板）是由日本动画公司BONES所制作的原创滑板题材电视动画。 | [官网地址](https://sk8-project.com/) |
+| beatmania | 狂热节拍 |  | [维基百科](https://zh.wikipedia.org/wiki/狂热节拍) |
+| honzuki no gekokujou | 小书痴的下克上 | 《小书痴的下克上：为了成为图书管理员不择手段！》（日语：本好きの下剋上～司書になるためには手段を選んでいられません～）是由香月美夜原作、椎名优插画的一部轻小说，并有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/小書痴的下剋上)<br>[萌娘百科](https://zh.moegirl.org.cn/小书痴的下克上) |
+| oide yo mizuryuu kei land | 欢迎光临！水龙敬乐园 |  |  |
+| shuriken sentai ninninger | 手里剑战队忍忍者 |  | [维基百科](https://zh.wikipedia.org/zh-cn/手裏劍戰隊忍忍者) |
+| hajimete no hitozuma | 第一次的人妻体验 |  |  |
+| sdorica | Sdorica |  | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) |
+| kaifuku jutsushi no yarinaoshi | 回复术士的重启人生 |  | [维基百科](https://zh.wikipedia.org/wiki/回復術士的重啟人生) |
+| sd gundam sangokuden | SD高达三国传 |  | [维基百科](https://en.wikipedia.org/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors) |
+| promare | 普罗米亚 |  |  |
+| ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/SSSS.DYNAZENON) |
+| yagate kimi ni naru | 终将成为你 |  |  |
+| maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
+| lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin](https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin) |
+| tantei wa mou shindeiru. | 侦探已死 | 《侦探已死》（日语：探偵はもう、死んでいる。，又译：《侦探已经，死了。》），是二语十所著的日本轻小说，由Umibouzu（うみぼうず）担任插画，2019年11月25日起由MF文库J开始出版。改编电视动画于2021年7月4日首播，由ENGI制作。 | [维基百科](https://zh.wikipedia.org/wiki/偵探已經，死了。) [萌娘百科](https://zh.moegirl.org.cn/侦探已经死了) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
