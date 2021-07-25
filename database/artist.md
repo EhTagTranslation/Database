@@ -3185,6 +3185,7 @@ example:
 | qdou kei | Q堂恵 |  |  |
 | hisen kaede | 緋仙カエデ |  | [Twitter](https://twitter.com/hisenkaede) [pixiv](https://www.pixiv.net/users/2053497) |
 | kazushiki midori | 一色緑 |  |  |
+| someoka yusura | 染岡ゆすら |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
