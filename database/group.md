@@ -2098,6 +2098,9 @@ example:
 | bakuretsu fusen | 爆裂风船 |  |  |
 | natsume benkei | 夏目ベンケイ |  |  |
 | la-go-on | LA-GO-ON |  |  |
+| takahashisan | たかはしさん |  |  |
+| kiracnadays | KiracnaDays |  |  |
+| nagomi | 和 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
