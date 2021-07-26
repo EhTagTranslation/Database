@@ -2100,6 +2100,7 @@ example:
 | la-go-on | LA-GO-ON |  |  |
 | takahashisan | たかはしさん |  |  |
 | kiracnadays | KiracnaDays |  |  |
+| nagomi | 和 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
