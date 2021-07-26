@@ -2099,6 +2099,7 @@ example:
 | natsume benkei | 夏目ベンケイ |  |  |
 | la-go-on | LA-GO-ON |  |  |
 | takahashisan | たかはしさん |  |  |
+| kiracnadays | KiracnaDays |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
