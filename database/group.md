@@ -2102,6 +2102,7 @@ example:
 | kiracnadays | KiracnaDays |  |  |
 | nagomi | 和 |  |  |
 | nijitsuya kenkyuujo | 虹艶研究所 |  |  |
+| samurai ninja greentea | サムライ忍者GREENTEA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
