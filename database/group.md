@@ -2101,6 +2101,7 @@ example:
 | takahashisan | たかはしさん |  |  |
 | kiracnadays | KiracnaDays |  |  |
 | nagomi | 和 |  |  |
+| nijitsuya kenkyuujo | 虹艶研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
