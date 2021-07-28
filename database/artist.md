@@ -3189,6 +3189,7 @@ example:
 | haruse hiroki | 晴瀬ひろき |  | [Twitter](https://twitter.com/haruse) [pixiv](https://www.pixiv.net/users/8345) |
 | tenmu shinryuusai | 天夢森流彩 |  | [Twitter](https://twitter.com/tenmu_nagomi) [pixiv](https://www.pixiv.net/users/1666572) |
 | anza yuu | あんざゆう |  | [Twitter](https://twitter.com/bkkttkkb) [pixiv](https://www.pixiv.net/users/4910262) |
+| amane ruri | 天音るり |  | [Twitter](https://twitter.com/typentypen) [pixiv](https://www.pixiv.net/users/458887) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
