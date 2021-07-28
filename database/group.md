@@ -2101,6 +2101,7 @@ example:
 | takahashisan | たかはしさん |  |  |
 | kiracnadays | KiracnaDays |  |  |
 | nagomi | 和 |  |  |
+| dekoboko hurricane | 凸凹ハリケーン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
