@@ -154,7 +154,7 @@ example:
 | tokyo yamane | 東京ヤマネ |  |  |
 | yuki higasinakano | ゆーき東中野 |  |  |
 | nosada | 乃定 |  |  |
-| yukibuster z | ユキバスターZ |  |  |
+| yukibuster z | ユキバスターZ |  | [Twitter](https://twitter.com/yukibusterz1) [pixiv](https://www.pixiv.net/users/2697420) |
 | roga | RoGa |  |  |
 | bonnari | ぼんなり |  |  |
 | komone ushio | 相音うしお |  |  |
@@ -293,7 +293,7 @@ example:
 | izumi | 和泉 |  |  |
 | reizei | 冷泉 |  |  |
 | petenshi | ペテン師 |  |  |
-| maruwa tarou | 丸和太郎 |  |  |
+| maruwa tarou | 丸和太郎 |  | [Twitter](https://twitter.com/maruwatarou) [pixiv](https://www.pixiv.net/users/12088) |
 | fujishima sei1go | 藤岛制1号 |  |  |
 | nanotsuki | なのつき |  |  |
 | norutaru | のるたる |  |  |
@@ -451,7 +451,7 @@ example:
 | shinyashiki | 新屋敷 |  |  |
 | kanzume | KANZUME |  |  |
 | kishimen | きしめん |  |  |
-| ken-1 | Ken-1 |  |  |
+| ken-1 | Ken-1 |  | [Twitter](https://twitter.com/clowns_ken1) [pixiv](https://www.pixiv.net/users/32288) |
 | midoh tsukasa | 御堂つかさ |  |  |
 | oyama yasunaga | 尾山泰永 |  |  |
 | kino hitoshi | 鬼ノ仁 |  |  |
@@ -703,7 +703,7 @@ example:
 | karasu | 空巢 |  |  |
 | akiha at | あきは@ |  |  |
 | amagiri mio | 雨雾MIO |  |  |
-| bifidus | ビフィダス |  |  |
+| bifidus | ビフィダス |  | [pixiv](https://www.pixiv.net/users/1446203) |
 | ice | ICE |  |  |
 | kumoemon | くもえもん |  |  |
 | kuro fn | クロFn |  |  |
@@ -940,7 +940,7 @@ example:
 | sumiya | スミヤ |  | [Twitter](https://twitter.com/sumiya103) [pixiv](https://www.pixiv.net/users/4595) |
 | takashi | タカシ |  |  |
 | ushino kandume | 牛野缶诘 |  |  |
-| yahiro pochi | 八尋ぽち |  |  |
+| yahiro pochi | 八尋ぽち |  | [pixiv](https://www.pixiv.net/users/804550) |
 | yanyo | やんよ |  |  |
 | yuzuha | ユズハ |  |  |
 | yamagara tasuku | 山雀たすく |  |  |
@@ -1120,7 +1120,7 @@ example:
 | obiwan | obiwan |  | [pixiv](https://www.pixiv.net/users/258003) |
 | xin | xin |  | [pixiv](https://www.pixiv.net/users/3216075) |
 | aratamaru | 改多丸 |  |  |
-| 7zu7 | 7zu7 |  | [pixiv](https://www.pixiv.net/users/2405344) |
+| 7zu7 | 7zu7 |  | [Twitter](https://twitter.com/miku7zu7) [pixiv](https://www.pixiv.net/users/2405344) |
 | atage | あたげ |  |  |
 | ebina ebi | 海老名えび |  |  |
 | kisen | 奇仙 |  |  |
@@ -1531,7 +1531,7 @@ example:
 | landolt tamaki | ランドルトたまき |  |  |
 | ferallemma | フィラレマ |  |  |
 | kisaragi miyu | 如月みゆ |  |  |
-| igumox | 井雲くす |  |  |
+| igumox | 井雲くす |  | [Twitter](https://twitter.com/igumox) [pixiv](https://www.pixiv.net/users/55128) |
 | kuune rin | くうねりん |  |  |
 | goto-beido | ゴト・ベイドー |  |  |
 | morikura en | 森仓圆 |  |  |
@@ -1597,7 +1597,7 @@ example:
 | itachi | いたち |  |  |
 | aya shachou | 彩社长 |  |  |
 | fukumaaya | ふくまーや |  |  |
-| higashide irodori | 東出イロドリ |  |  |
+| higashide irodori | 東出イロドリ |  | [Twitter](https://twitter.com/H_irodori) [pixiv](https://www.pixiv.net/users/56825214) |
 | hiura r | 火浦R |  |  |
 | karube guri | 軽部ぐり |  |  |
 | kusatsu terunyo | 草津てるにょ |  |  |
@@ -2374,7 +2374,7 @@ example:
 | kumakiti | 隈吉 |  |  |
 | umakuchi syouyu | うまくち醤油 |  |  |
 | tokie hirohito | 刻江寻人 |  |  |
-| yuzuki n dash | 柚木N’ |  |  |
+| yuzuki n dash | 柚木N’ |  | [Twitter](https://twitter.com/yuzukin_) [pixiv](https://www.pixiv.net/users/691882) |
 | itou nanami | 井藤ななみ |  |  |
 | porutan | ぽるたん |  |  |
 | kaitenfude | 回转笔 |  |  |
@@ -3143,7 +3143,7 @@ example:
 | nigiri usagi | にぎりうさぎ |  | [Twitter](https://twitter.com/mutyumutyudenbu) [pixiv](https://www.pixiv.net/users/45081727) |
 | mizumizuni | 見ず水煮 |  | [pixiv](https://www.pixiv.net/users/7026506) [Twitter](https://twitter.com/mizumizuni1) |
 | shinagawa mikuzu | 品川ミクズ |  | [pixiv](https://www.pixiv.net/users/4723561) [Twitter](https://twitter.com/m1kuzu) |
-| wakamatsu | わかまつ |  |  |
+| wakamatsu | わかまつ |  | [Twitter](https://twitter.com/wakamatsu372) [pixiv](https://www.pixiv.net/users/17343769) |
 | geko | GEKO |  |  |
 | yatosaki haru | やとさきはる |  |  |
 | ootsuka mahiro | 大塚まひろ |  |  |
