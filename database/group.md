@@ -2102,6 +2102,7 @@ example:
 | kiracnadays | KiracnaDays |  |  |
 | nagomi | 和 |  |  |
 | dekoboko hurricane | 凸凹ハリケーン |  |  |
+| amaineiro | あまいねいろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
