@@ -3192,6 +3192,7 @@ example:
 | amane ruri | 天音るり |  | [Twitter](https://twitter.com/typentypen) [pixiv](https://www.pixiv.net/users/458887) |
 | dytm | DYTM |  | [Twitter](https://twitter.com/DYTM_) [pixiv](https://www.pixiv.net/users/1773262) |
 | gentsuki | ゲンツキ |  | [Twitter](https://twitter.com/gentuki0999) [pixiv](https://www.pixiv.net/users/3239395) |
+| iwasaki yuuki | 岩崎ユウキ |  | [Twitter](https://twitter.com/yuuki_take_dake) [pixiv](https://www.pixiv.net/users/16687270) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
