@@ -3194,6 +3194,7 @@ example:
 | gentsuki | ゲンツキ |  | [Twitter](https://twitter.com/gentuki0999) [pixiv](https://www.pixiv.net/users/3239395) |
 | iwasaki yuuki | 岩崎ユウキ |  | [Twitter](https://twitter.com/yuuki_take_dake) [pixiv](https://www.pixiv.net/users/16687270) |
 | mashiraga aki | 猿駕アキ |  | [pixiv](https://www.pixiv.net/users/186647) |
+| midori aoi | みどり葵 |  | [pixiv](https://www.pixiv.net/users/342666) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
