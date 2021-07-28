@@ -2103,6 +2103,7 @@ example:
 | nagomi | 和 |  |  |
 | dekoboko hurricane | 凸凹ハリケーン |  |  |
 | amaineiro | あまいねいろ |  |  |
+| gentsuki okiba | ゲンツキオキバ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
