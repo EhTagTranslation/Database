@@ -2107,6 +2107,7 @@ example:
 | mashira dou | ましら堂 |  |  |
 | nijitsuya kenkyuujo | 虹艶研究所 |  |  |
 | samurai ninja greentea | サムライ忍者GREENTEA |  |  |
+| alicesyndrome | AliceSyndrome\* |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
