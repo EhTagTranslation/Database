@@ -3198,6 +3198,7 @@ example:
 | musha sabu | 武者サブ |  | [Twitter](https://twitter.com/musyasabu) [pixiv](https://www.pixiv.net/users/2526989) |
 | sanjuurou | さんじゅうろう |  |  |
 | souji hougu | 掃除朋具 |  | [Twitter](https://twitter.com/srghrg) [pixiv](https://www.pixiv.net/users/4856899) |
+| uousaoh | 魚ウサ王 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
