@@ -3200,6 +3200,7 @@ example:
 | souji hougu | 掃除朋具 |  | [Twitter](https://twitter.com/srghrg) [pixiv](https://www.pixiv.net/users/4856899) |
 | uousaoh | 魚ウサ王 |  |  |
 | kuroharuto | くろはると |  |  |
+| oomori | 大盛り |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
