@@ -3434,6 +3434,7 @@ example:
 | hana midorikawa | 绿川花 |  |  |
 | meiko shiraki | 白木芽衣子 |  |  |
 | luz noceda | 露丝·诺西达 |  |  |
+| toph bei fong | 北方·托芙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
