@@ -1568,6 +1568,7 @@ example:
 | maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
 | lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin](https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin) |
 | tantei wa mou shindeiru. | 侦探已死 | 《侦探已死》（日语：探偵はもう、死んでいる。，又译：《侦探已经，死了。》），是二语十所著的日本轻小说，由Umibouzu（うみぼうず）担任插画，2019年11月25日起由MF文库J开始出版。改编电视动画于2021年7月4日首播，由ENGI制作。 | [维基百科](https://zh.wikipedia.org/wiki/偵探已經，死了。) [萌娘百科](https://zh.moegirl.org.cn/侦探已经死了) |
+| the secret of kells | 凯尔经的秘密 | 《凯尔经的秘密》取材于爱尔兰基督教插图手抄本《凯尔经》，讲述了一位怀揣理想的少年克服重重困难绘制经书的故事。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
