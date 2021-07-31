@@ -3433,6 +3433,7 @@ example:
 | suzuran | 铃兰 | 《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:铃兰) |
 | hana midorikawa | 绿川花 |  |  |
 | meiko shiraki | 白木芽衣子 |  |  |
+| luz noceda | 露丝·诺西达 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
