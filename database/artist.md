@@ -3201,6 +3201,7 @@ example:
 | uousaoh | 魚ウサ王 |  |  |
 | kuroharuto | くろはると |  |  |
 | oomori | 大盛り |  |  |
+| yasson yoshiyuki | やっそん義之 |  | [pixiv](https://www.pixiv.net/users/3277555) [twitter](https://twitter.com/ero_YAPPY2) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
