@@ -28,7 +28,7 @@ example:
 | -------- | ---- | ---- | -------- |
 |  | ▼示例 |  |  |
 | pop | POP | ![POP](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3tw194prdj205k05kaaf.jpg)<br>`moetan`作者<br>![萌单](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) | [Twitter](https://twitter.com/popemw) |
-| oouso | 大嘘 |  | [twitter](https://twitter.com/u_s_o) |
+| oouso | 大嘘 |  | [twitter](https://twitter.com/u_s_o) [pixiv](https://www.pixiv.net/users/457541) |
 | peko | ぺこ（かにビーム） | ![peko头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](https://ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) | [pixiv](https://www.pixiv.net/users/3439325) |
 | akaza | あかざ | ![akaza头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>Akaza，袜控，腿型很美<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/601089) |
 | ishikei | 石惠 | ![石惠头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3ymxa507xj205k05kjrm.jpg)<br>浓墨厚涂榨汁机<br>![石惠作品](# "https://ehgt.org/38/39/3839a8f9171d1c67415b50c99333d553be404083-1416172-2000-2837-jpg_250.jpg") | [画师推特](https://twitter.com/ishi_kei) |
