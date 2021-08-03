@@ -2109,6 +2109,7 @@ example:
 | samurai ninja greentea | サムライ忍者GREENTEA |  |  |
 | alicesyndrome | AliceSyndrome\* |  |  |
 | uousaohkoku | 魚ウサ王国 |  |  |
+| konoshiro shinko | コノシロしんこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
