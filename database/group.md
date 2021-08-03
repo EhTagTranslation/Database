@@ -2101,6 +2101,14 @@ example:
 | takahashisan | たかはしさん |  |  |
 | kiracnadays | KiracnaDays |  |  |
 | nagomi | 和 |  |  |
+| dekoboko hurricane | 凸凹ハリケーン |  |  |
+| amaineiro | あまいねいろ |  |  |
+| gentsuki okiba | ゲンツキオキバ |  |  |
+| mashira dou | ましら堂 |  |  |
+| nijitsuya kenkyuujo | 虹艶研究所 |  |  |
+| samurai ninja greentea | サムライ忍者GREENTEA |  |  |
+| alicesyndrome | AliceSyndrome\* |  |  |
+| uousaohkoku | 魚ウサ王国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
