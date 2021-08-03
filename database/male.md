@@ -526,7 +526,7 @@ example:
 | cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 | cuntbusting | 阴道破坏 | 物理攻击阴道的行为。 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
-| guro | 肢解 | 肢解人类或`furry`。不用于温和的`blood`或暴力。不应与`snuff`混淆。不需要`blood`标签。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
+| guro | 猎奇 | 英语グロテスク（Grotesque）的日式缩写グロ（guro）。原指恶心怪异，奇怪，不自然的猎奇事物。现常用于色情领域，全称エログロ（eroguro），常表现为血腥暴力，残害，肉体切割，扭曲变态，有点恶心又怪异的异常性行为或色情事物，常与`amputee`、`ryona`、`blood`、`snuff`、`rape`等标签并用，不用于温和的`blood`或暴力。不应与`snuff`混淆。<br>![恶](## "https://ehgt.org/a1/03/a1037f38d3841d9126257c95cf7ebf44645d6e1f-815087-1634-1743-jpg_250.jpg")![恶](## "https://ehgt.org/9c/30/9c30becd74eebfc9cc621cda75f096166e930b44-78256-733-500-jpg_250.jpg")![恶](## "https://ehgt.org/e9/53/e953213efaea1fc681824b601317c0a45872a309-124477-640-853-jpg_l.jpg") |  |
 | electric shocks | 电击 | 用电力引起疼痛或快感。 |  |
 | ryona | 凌虐 | 对角色实施痛击、电击、束缚。通常低于`torture`的程度。不应与`wrestling`混淆。 |  |
 | snuff | 杀害 | 杀害人类或`furry`。不应与`guro`混淆。<br>![恶](## "https://ehgt.org/d5/1b/d51b8f11d4892a73660d8e9b3c2727fabc701e29-707033-806-631-png_250.jpg")![恶](## "https://ehgt.org/70/01/7001de6f5c26f60c51d64583f503e8c49d5dca7c-137717-460-620-jpg_250.jpg")![恶](## "https://ehgt.org/9d/48/9d48f33ccfeecebfaaa0712f536dcead0b208910-342661-1215-1721-jpg_l.jpg") |  |
