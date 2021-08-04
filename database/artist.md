@@ -3203,7 +3203,7 @@ example:
 | oomori | 大盛り |  |  |
 | yasson yoshiyuki | やっそん義之 |  | [pixiv](https://www.pixiv.net/users/18520349) [twitter](https://twitter.com/u_miyama) |
 | hiyori mizuki | 陽寄瑞貴 | Comic Lo作家 | [pixiv](https://www.pixiv.net/users/4793451) [twitter](https://twitter.com/HiyoriMizuki) |
-| fushoku | 腐蝕 | [twitter头像](https://pbs.twimg.com/profile_images/612548989632692224/eUn9Cx9V_400x400.jpg) | [pixiv](https://www.pixiv.net/users/6352070) [twitter](https://twitter.com/fushoku) |
+| fushoku | 腐蝕 | ![twitter头像](https://pbs.twimg.com/profile_images/612548989632692224/eUn9Cx9V_400x400.jpg) | [pixiv](https://www.pixiv.net/users/6352070) [twitter](https://twitter.com/fushoku) |
 | coupe | こっぺ | [twitter头像](https://pbs.twimg.com/profile_images/1230827745241731075/KsmpnTim_400x400.jpg) | [pixiv](https://www.pixiv.net/users/48381) [twitter](https://twitter.com/coupe50ch) |
 | panchira steak | ぱんちらステーキ |  | [Twitter](https://twitter.com/panpansute) |
 
