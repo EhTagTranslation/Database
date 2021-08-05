@@ -64,6 +64,10 @@
   ![][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
   
+* [EhPanda](//ehpanda.app)
+  ![][plat-ios]
+  一個用SwiftUI編寫的iOS非官方E-Hentai應用程式。支持直连。
+  
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![][plat-ios]  ![][plat-android]  
   一个由 Flutter 编写的阅读器，支持直连。
