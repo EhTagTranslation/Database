@@ -64,7 +64,7 @@
   ![][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
   
-* [EhPanda](//ehpanda.app)
+* [EhPanda](//ehpanda.app)  
   ![][plat-ios]
   一個用SwiftUI編寫的iOS非官方E-Hentai應用程式。支持直连。
   
