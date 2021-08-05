@@ -66,7 +66,7 @@
   
 * [EhPanda](//ehpanda.app)  
   ![][plat-ios]  
-  一個用SwiftUI編寫的iOS非官方E-Hentai應用程式。支持直连。
+  一个用SwiftUI编写的iOS非官方E-Hentai应用程式。支持直连。
   
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![][plat-ios]  ![][plat-android]  
