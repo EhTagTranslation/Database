@@ -3206,6 +3206,7 @@ example:
 | fushoku | 腐蝕 | ![twitter头像](https://pbs.twimg.com/profile_images/612548989632692224/eUn9Cx9V_400x400.jpg)<br>作者推特头像 | [pixiv](https://www.pixiv.net/users/6352070) [twitter](https://twitter.com/fushoku) |
 | coupe | こっぺ | [twitter头像](https://pbs.twimg.com/profile_images/1230827745241731075/KsmpnTim_400x400.jpg) | [pixiv](https://www.pixiv.net/users/48381) [twitter](https://twitter.com/coupe50ch) |
 | panchira steak | ぱんちらステーキ |  | [Twitter](https://twitter.com/panpansute) |
+| saizu nitou gunsou | 才津二等軍曹 | ![twitter头像](https://pbs.twimg.com/profile_images/1380524702754426884/NRVM7YEV_400x400.jpg)<br>**作者twitter头像** | [twitter](https://twitter.com/sgtsize) [pixiv](https://www.pixiv.net/users/14954015) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
