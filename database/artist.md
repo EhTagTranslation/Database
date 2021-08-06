@@ -3207,6 +3207,7 @@ example:
 | coupe | こっぺ | [twitter头像](https://pbs.twimg.com/profile_images/1230827745241731075/KsmpnTim_400x400.jpg) | [pixiv](https://www.pixiv.net/users/48381) [twitter](https://twitter.com/coupe50ch) |
 | panchira steak | ぱんちらステーキ |  | [Twitter](https://twitter.com/panpansute) |
 | saizu nitou gunsou | 才津二等軍曹 | ![twitter头像](https://pbs.twimg.com/profile_images/1380524702754426884/NRVM7YEV_400x400.jpg)<br>**作者twitter头像** | [twitter](https://twitter.com/sgtsize) [pixiv](https://www.pixiv.net/users/14954015) |
+| nakamura rohane | 中村六翅 |  | [pixiv](https://www.pixiv.net/users/5110556)<br>[Twitter](https://twitter.com/NakamuraRohane) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
