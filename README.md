@@ -54,7 +54,7 @@
   ![][plat-android]  
   An Unofficial E-Hentai Application for Android.
   
-  [原项目](//github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@NekoInverter](//gitlab.com/NekoInverter)  维护的修改版。
+  [原项目](//github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@NekoInverter](//gitlab.com/NekoInverter) 维护的修改版。
 
 * [Dai-Hentai](//github.com/DaidoujiChen/Dai-Hentai)  
   ![][plat-ios]  
@@ -66,7 +66,7 @@
   
 * [EhPanda](//ehpanda.app)  
   ![][plat-ios]  
-  一個用SwiftUI編寫的iOS非官方E-Hentai應用程式。支持直連。
+  一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
   
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![][plat-ios]  ![][plat-android]  
