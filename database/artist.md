@@ -2194,7 +2194,7 @@ example:
 | komezawa | こめざわ |  |  |
 | mozu | もず |  |  |
 | aoiro ichigou | あお色一号 |  |  |
-| futamine kobito | 二峰跨人 |  |  |
+| futamine kobito | 二峰跨人 | ![twitter](https://pbs.twimg.com/profile_images/1310306035270180864/yPkBGPdV_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/futamine_kobito) [pixiv](https://www.pixiv.net/users/10653758) |
 | gennari | ゲンナリ |  |  |
 | inukami | いぬかみ |  |  |
 | narumiya akira | 成宫亨 |  |  |
