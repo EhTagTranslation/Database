@@ -3208,6 +3208,7 @@ example:
 | panchira steak | ぱんちらステーキ |  | [Twitter](https://twitter.com/panpansute) |
 | saizu nitou gunsou | 才津二等軍曹 | ![twitter头像](https://pbs.twimg.com/profile_images/1380524702754426884/NRVM7YEV_400x400.jpg)<br>**作者twitter头像** | [twitter](https://twitter.com/sgtsize) [pixiv](https://www.pixiv.net/users/14954015) |
 | nakamura rohane | 中村六翅 |  | [pixiv](https://www.pixiv.net/users/5110556)<br>[Twitter](https://twitter.com/NakamuraRohane) |
+| nohito | nohito | ![twitter头像](https://pbs.twimg.com/profile_images/1204440904028868615/nfQdl3Xa_400x400.png)<br>**作者推特头像** | [twitter](https://twitter.com/nohito_nohito/photo) [pixiv](https://www.pixiv.net/users/27078) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
