@@ -1129,7 +1129,7 @@ example:
 | nukunuku | ぬくぬく |  |  |
 | sumiyoshi | すみよし |  |  |
 | umeko | うめ子 |  |  |
-| yamada yuuya | ヤマダユウヤ |  |  |
+| yamada yuuya | ヤマダユウヤ | ![twitter](https://pbs.twimg.com/profile_images/688924522590814208/gBTyouE0_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/yamakawayamada) [pixiv](https://www.pixiv.net/users/33611) |
 | yumoteliuce | ユモテリウス |  |  |
 | ichihaya | いちはや |  |  |
 | oboro | 胧 |  |  |
