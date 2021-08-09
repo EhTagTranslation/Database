@@ -3216,7 +3216,7 @@ example:
 | suzudama renri | 鈴玉レンリ | ![twitter](https://pbs.twimg.com/profile_images/1379704500856877056/6_2oeK5A_400x400.png)<br><br>**作者推特头像**<br>ヌルいアレの漫画描きです。TLは本業じゃないです。<br>仕事で描いたものとか上げられたら上げるくらいの微妙な感じで。 | [twitter](https://twitter.com/suzudama) [pixiv](https://www.pixiv.net/users/31714386) |
 | kurokoshi you | 黒越陽 | ![twitter](https://pbs.twimg.com/profile_images/1313482145072062467/Zsob9-t__400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kurokosiyou) [pixiv](https://www.pixiv.net/users/5633589) |
 | inato serere | 稲戸せれれ | ![twitter](https://pbs.twimg.com/profile_images/624104840562520064/EQY0-g0D_400x400.png)<br><br>**作者推特头像**<br><br>![works](https://pbs.twimg.com/media/Epfk5iyU0AEe97e?format=jpg&name=large)<br><br>**作品** | [twitter](https://twitter.com/serere) [pixiv](https://www.pixiv.net/users/12178) |
-| akitsuki itsuki | 秋月伊槻 | ![twitter](https://pbs.twimg.com/profile_images/1420720629033013258/YULxc1Hg_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/EM2m_NbU4AIJ8Uf?format=jpg&name=4096x4096")<br><br>**作品** | [twitter](https://twitter.com/aki_i2ki) [pixiv](https://www.pixiv.net/users/12178) |
+| akitsuki itsuki | 前川かずお | ![twitter](https://pbs.twimg.com/profile_images/1421395596489859077/O0JRbYRS_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/ainomangaka) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
