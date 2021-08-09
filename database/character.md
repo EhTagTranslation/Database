@@ -3436,6 +3436,7 @@ example:
 | luz noceda | 露丝·诺西达 |  |  |
 | toph bei fong | 北方·托芙 |  |  |
 | robin | 罗宾 | 罗宾DC漫画中的超级英雄，是蝙蝠侠的搭档及助手。又称“神奇小子”。 |  |
+| eugeo | 尤吉欧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
