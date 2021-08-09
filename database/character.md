@@ -3439,6 +3439,7 @@ example:
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 |  |  |
 | makima | 真紀真 |  |  |
+| denji | 淀治 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
