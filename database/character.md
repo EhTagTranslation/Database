@@ -3438,6 +3438,7 @@ example:
 | robin | 罗宾 | 罗宾DC漫画中的超级英雄，是蝙蝠侠的搭档及助手。又称“神奇小子”。 |  |
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 |  |  |
+| makima | 真紀真 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
