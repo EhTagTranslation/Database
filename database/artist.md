@@ -854,7 +854,7 @@ example:
 | midori no rupe | 緑のルーペ | ![图](# "https://ehgt.org/bc/47/bc4703c0ee848bdfe1520e586ea86bc244e6a429-1428388-2560-3579-jpg_l.jpg") |  |
 | homunculus | ホムンクルス | ![图](# "https://ehgt.org/e7/9f/e79f759a10822fcd842ab547708680843ac44f93-1750532-3048-4217-jpg_l.jpg") |  |
 | lunch | らんち | ![图](# "https://ehgt.org/04/f5/04f527a5b265174a654c2d24ae0bd9dfc26d18ca-2100668-4674-2000-jpg_l.jpg") |  |
-| inoue kiyoshirou | 胃之上奇嘉郎 | ![图](# "https://ehgt.org/ee/06/ee0694425a7a5274df8f7d54e221c0a545a0e9b9-1644020-2120-3000-jpg_l.jpg") |  |
+| inoue kiyoshirou | 胃之上奇嘉郎 | ![twitter](https://pbs.twimg.com/profile_images/588208357045100544/hNuWlvou_400x400.jpg)<br><br>**作者推特头像**<br><br>お絵かきでご飯を食べています | [twitter](https://twitter.com/k_inouexxx) [pixiv](https://www.pixiv.net/users/23078) |
 | namonashi | 无望菜志 | ![图](# "https://ehgt.org/da/44/da44e3cbdaa00f8244ae7cb01a166ae62915d9ac-8165851-4230-6030-jpg_l.jpg") |  |
 | oda non | 织田non | 画风写实，多为`milf`。 |  |
 | nemunemu | ネムネム | 老师画的男孩子太棒了！画的比女孩子还要美的身材。 |  |
