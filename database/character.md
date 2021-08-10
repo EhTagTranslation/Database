@@ -1887,7 +1887,7 @@ example:
 | protagonist | 主人公 |  |  |
 | minamoto no raikou | 源赖光 |  |  |
 | meltryllis | 溶解莉莉丝 |  |  |
-| passionlip | 帕森莉普（热情迷唇）|  |  |
+| passionlip | 帕森莉普（热情迷唇） |  |  |
 | ushiwakamaru | 牛若丸 |  |  |
 | jack the ripper | 开膛手杰克 |  |  |
 | jeanne alter | 贞德Alter | ![图](https://ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](https://ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) |  |
