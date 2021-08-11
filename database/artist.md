@@ -507,7 +507,7 @@ example:
 | tsukudani norio | 佃煮のりお |  |  |
 | kasugano tobari | 春日野トバリ |  |  |
 | hisaka hazara | 檜坂はざら |  |  |
-| sumiyao | すみやお |  |  |
+| sumiyao | すみやお | ![twitter](https://pbs.twimg.com/profile_images/1145979501685329920/o_Gas4ZQ_400x400.png)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/E8cbYD3VUAQjX7y?format=jpg&name=medium")<br><br>**作品** | [twitter](https://twitter.com/_smiyao) [pixiv](https://www.pixiv.net/users/7246) |
 | ikkyuu | 一休 |  |  |
 | hasemi ryo | 长谷见亮 |  |  |
 | summer | サマー |  |  |
