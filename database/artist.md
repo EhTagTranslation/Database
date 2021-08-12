@@ -3217,6 +3217,7 @@ example:
 | kurokoshi you | 黒越陽 | ![twitter](https://pbs.twimg.com/profile_images/1313482145072062467/Zsob9-t__400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kurokosiyou) [pixiv](https://www.pixiv.net/users/5633589) |
 | inato serere | 稲戸せれれ | ![twitter](https://pbs.twimg.com/profile_images/624104840562520064/EQY0-g0D_400x400.png)<br><br>**作者推特头像**<br><br>![works](https://pbs.twimg.com/media/Epfk5iyU0AEe97e?format=jpg&name=large)<br><br>**作品** | [twitter](https://twitter.com/serere) [pixiv](https://www.pixiv.net/users/12178) |
 | akitsuki itsuki | 前川かずお | ![twitter](https://pbs.twimg.com/profile_images/1421395596489859077/O0JRbYRS_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/ainomangaka) |
+| yd | yd | ![twitter](https://pbs.twimg.com/profile_images/1255311069586784256/Pv_e7WNk_400x400.png)<br><br>**作者推特头像**<br><br>在日韩国同人画师,社团`OrangeMaru`主笔之一. | [twitter](https://twitter.com/ydh2101_18) [pixiv](https://www.pixiv.net/users/853087) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
