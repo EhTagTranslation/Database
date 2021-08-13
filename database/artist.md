@@ -581,7 +581,7 @@ example:
 | sakura hanpen | 桜はんぺん |  |  |
 | hatori piyoko | 羽鳥ぴよこ |  |  |
 | naenae | なえなえ |  |  |
-| takayaki | たかやKi |  |  |
+| takayaki | たかやKi | ![twitter](https://pbs.twimg.com/profile_images/933375116162904065/fp79pMad_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://i.pixiv.cat/img-original/img/2011/07/09/11/38/24/20186554_p0.jpg")<br><br>**恋糸記念日** | [twitter](https://twitter.com/takaya_ki) [pixiv](https://www.pixiv.net/users/11937) |
 | uonuma yuu | うおぬまゆう |  |  |
 | amamine | あまみね |  |  |
 | niki | にき |  |  |
