@@ -3441,6 +3441,7 @@ example:
 | makima | 玛奇玛 |  |  |
 | denji | 电次 |  |  |
 | angel devil | 天使恶魔 |  |  |
+| yanfei | 烟绯 | 《原神》及其衍生作品的登场角色。精通百法、又懂得权衡情理的半仙少女，璃月港顶尖的律法专家。 | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
