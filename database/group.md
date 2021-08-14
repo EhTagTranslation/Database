@@ -2111,6 +2111,7 @@ example:
 | uousaohkoku | 魚ウサ王国 |  |  |
 | konoshiro shinko | コノシロしんこ |  |  |
 | kansai orange | 関西オレンジ |  |  |
+| imomuya honpo | いもむや本舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
