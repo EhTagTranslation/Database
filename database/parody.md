@@ -1572,6 +1572,7 @@ example:
 | anarchy reigns | 极度混乱 | 《极度混乱》（日版名：マックス アナーキー，Max Anarchy，英文版名：Anarchy Reigns）是白金工作室开发，世嘉所发行，以PlayStation 3及XBOX 360为平台的多人动作游戏，于2012年7月5日发行。《极度混乱》是白金工作室首度制作的在线多人联机游戏。 |  |
 | tropical-rouge precure | Tropical-Rouge！光之美少女 | 《Tropical-Rouge! 光之美少女》是由东映动画制作的系列电视动画作品《光之美少女》的第十八部系列作品，属第十六代光之美少女。 |  |
 | jujutsu kaisen | 咒术回战 |  | [萌娘百科](https://zh.moegirl.org.cn/咒术回战) |
+| shugo chara | 守护甜心 | 《守护甜心》（日语：しゅごキャラ！；英语：Shugo Chara）是由PEACH-PIT创作的一部少女向漫画，并有动画和游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/守护甜心) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
