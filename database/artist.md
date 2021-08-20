@@ -679,7 +679,7 @@ example:
 | mutou mato | 武藤まと |  | [pixiv](https://www.pixiv.net/users/1429353) [Twitter](https://twitter.com/mto_mt) |
 | kobayashi oukei | 小林王桂 |  |  |
 | tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对`shinobu oshino`特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/8542) |
-| kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以`exhibitionism`题材为主，早期作品包含大量`scat`描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") |  |
+| kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以`exhibitionism`题材为主，早期作品包含大量`scat`描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") | [作者个人博客](http://nonormal.sakura.ne.jp/) |
 | charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br>代表作品：露出少女遊戯<br>![图](# "https://ehgt.org/45/6e/456ec9a0d39a4b229b4f5113e08895b18c2d7c95-1122101-2150-3035-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/125256) |
 | tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出。<br>代表作品：露出少女異譚<br>![图](# "https://ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/1551500) |
 | nakani | なかに | なかに【すぺ】<br>画风独特，极具表现力。剧情发展犹如破竹。看本子笑出声系列。<br>代表作品：まるだしすたー<br>![图](# "https://ehgt.org/8f/67/8f679921298411cb837d5f75d771300f84a71e89-470051-1058-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/18899) |
