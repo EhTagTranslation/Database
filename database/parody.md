@@ -1580,6 +1580,7 @@ example:
 | citrus | citrus～柑橘味香气～ | 《citrus～柑橘味香气～》（日语：citrus／シトラス）是日本女性漫画家三郎太（日语：サブロウタ）所作，由一迅社出版的漫画作品。2012年11月17日开始连载于漫画杂志月刊《Comic百合姬》，2018年8月18日完结，全系列出版10册单行本。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/thumb/5/52/Citrus_cover.jpg/180px-Citrus_cover.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Citrus～柑橘味香氣～) |
 | tsubasa reservoir chronicle | 翼·年代记 | 《翼·年代记》（日语：ツバサ-RESERVoir CHRoNiCLE-）是日本漫画家团队`clamp`所创作的少年漫画作品，与《`xxxholic`》的故事有交叉关系，并同时进行，以历险为主题。于《周刊少年Magazine》2003年25号到2009年45号期间进行连载。单行本全28卷。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/3/3d/TSUBASA_RESERVoir_CHRoNiCLE_1.jpg) | [维基百科](https://zh.wikipedia.org/wiki/TSUBASA翼) |
 | yamada-kun to 7-nin no majo | 山田君与7人魔女 | 《山田君与7人魔女》（日语：山田くんと7人の魔女）是日本漫画家吉河美希所创作的爱情校园漫画作品。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/thumb/3/3d/Yamadakun_to_nananin_no_majo_1.jpg/200px-Yamadakun_to_nananin_no_majo_1.jpg) | [维基百科](https://zh.wikipedia.org/wiki/山田君與7人魔女) |
+| aki sora | 秋日天空（秋空） | 《秋日天空》（日语：あきそら），是日本漫画家`itosugi masahiro`的漫画作品。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/2/21/あきそら.jpg) | [维基百科](https://zh.wikipedia.org/wiki/秋日天空) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
