@@ -1408,7 +1408,7 @@ example:
 | nagisa minami | 渚ミナミ |  |  |
 | alexi | アレキシ |  |  |
 | syati kamaboko | シャチカマボコ |  |  |
-| benantoka | Beなんとか |  |  |
+| benantoka | Beなんとか | 漫画家。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1394876090095575043/3sjkoGSU_400x400.jpg)<br>![图](# "https://ehgt.org/18/08/1808e7b90c182c2ca3365190d673db1621067801-1013841-1679-2479-jpg_l.jpg") | [Twitter](https://twitter.com/Damon_Baird) [Pixiv](https://www.pixiv.net/users/6001538) |
 | dynamite moca | ダイナマイトmoca |  |  |
 | sakurafubuki nel | 桜吹雪ねる |  |  |
 | urai tami | 浦井民 |  |  |
