@@ -1914,7 +1914,7 @@ example:
 | kazuma g-version | カズマ・G-VERSION |  |  |
 | fangcat | FangCat |  | [pixiv](https://www.pixiv.net/users/1122873) |
 | wtk | WTK |  |  |
-| as109 | As109 |  |  |
+| as109 | 水叔（As109） | As109，漫画家，插画家。作品角色主要以`lolicon`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2015/06/26/19/43/55/9538844_33e7079f92b2392528545ea63d1b6b36_170.jpg)<br>![图](# "https://ehgt.org/ab/f3/abf3369b89c54e369d7b0fad7a1e1f28f9a14863-542593-1080-1920-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/1226647) |
 | jm | JM |  | [pixiv](https://www.pixiv.net/users/7603871) |
 | breakrabbit | Breakrabbit |  | [pixiv](https://www.pixiv.net/users/15063072) |
 | farg | Farg |  | [pixiv](https://www.pixiv.net/users/23936891) |
