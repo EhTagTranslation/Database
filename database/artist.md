@@ -851,7 +851,7 @@ example:
 | koume keito | 小梅けいと | 花粉少女<br>![图](# "https://ehgt.org/29/ae/29ae6af2879a51570ea087472403d2014569d97f-1201347-1082-1536-jpg_l.jpg") |  |
 | thomas | 藤ます | ![图](# "https://ehgt.org/61/4f/614f068b36fac77e7acc247c1548d0d291d821cc-91019-800-1122-jpg_l.jpg") |  |
 | mutsutake | 睦茸 | ![图](# "https://ehgt.org/28/00/28008f3ff4a7bc04e6e9244fb58bd4c14c77985b-708592-1184-1650-jpg_l.jpg") |  |
-| midori no rupe | 緑のルーペ | ![图](# "https://ehgt.org/bc/47/bc4703c0ee848bdfe1520e586ea86bc244e6a429-1428388-2560-3579-jpg_l.jpg") |  |
+| midori no rupe | 緑のルーペ | ![PixivIcon](https://i.pixiv.cat/user-profile/img/2009/06/24/21/12/14/865702_1be4dc3c06bcb028e06e662c3e55a97a_170.jpg)<br>![图](# "https://ehgt.org/bc/47/bc4703c0ee848bdfe1520e586ea86bc244e6a429-1428388-2560-3579-jpg_l.jpg") | [Twitter](https://twitter.com/midorinorupe) [Pixiv](https://www.pixiv.net/users/60670) |
 | homunculus | ホムンクルス | ![图](# "https://ehgt.org/e7/9f/e79f759a10822fcd842ab547708680843ac44f93-1750532-3048-4217-jpg_l.jpg") |  |
 | lunch | らんち | ![图](# "https://ehgt.org/04/f5/04f527a5b265174a654c2d24ae0bd9dfc26d18ca-2100668-4674-2000-jpg_l.jpg") |  |
 | inoue kiyoshirou | 胃之上奇嘉郎 | ![twitter](https://pbs.twimg.com/profile_images/588208357045100544/hNuWlvou_400x400.jpg)<br><br>**作者推特头像**<br><br>お絵かきでご飯を食べています | [twitter](https://twitter.com/k_inouexxx) [pixiv](https://www.pixiv.net/users/23078) |
