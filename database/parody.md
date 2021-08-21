@@ -1577,6 +1577,7 @@ example:
 | mujaki no rakuen | 无邪气乐园 | 《无邪气乐园》（無邪気の楽園）是日本漫画家`uran`的青年漫画作品。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/f/fa/無邪氣樂園.jpg) | [Wikipedia](https://zh.wikipedia.org/wiki/無邪氣樂園) [Nyaa](https://nyaa.si/view/1112767) |
 | hololive | Hololive Production | hololive production（日语：ホロライブプロダクション Hororaibu Purodakushon）是日本科技公司COVER株式会社旗下的经纪公司品牌，以经营`vtuber`为其主要业务，除了在日本外，也在其他地区拥有并经营`vtuber`。<br>![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hololive_Production_logo.svg/250px-Hololive_Production_logo.svg.png) | [维基百科](https://zh.wikipedia.org/wiki/Hololive_production) [Twitter](https://twitter.com/hololivetv) |
 | hinamatsuri | 超能力女儿 | 《超能力女儿》（日语：ヒナまつり），是日本漫画家大武政夫的漫画。在enterbrain发行的隔月漫画杂志《Fellows!》第8期（2009年12月发售）发表短篇，后在第11期B（2010年6月发售）正式开始连载。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/4/41/極道超女.jpg) | [维基百科](https://zh.wikipedia.org/wiki/極道超女) |
+| citrus | citrus～柑橘味香气～ | 《citrus～柑橘味香气～》（日语：citrus／シトラス）是日本女性漫画家三郎太（日语：サブロウタ）所作，由一迅社出版的漫画作品。2012年11月17日开始连载于漫画杂志月刊《Comic百合姬》，2018年8月18日完结，全系列出版10册单行本。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/thumb/5/52/Citrus_cover.jpg/180px-Citrus_cover.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Citrus～柑橘味香氣～) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
