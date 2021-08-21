@@ -246,7 +246,7 @@ example:
 | aya | AYA \| 蓝夜 | お嬢の浴室<br>TWILIGHT DUSK |  |
 | oi shibako | しばこ（司马淳子） |  |  |
 | sato-satoru | さとーさとる |  |  |
-| gengorou | 源五郎 |  |  |
+| gengorou | 源五郎 | 漫画家。作品以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1083294175842361348/B26SP4av_400x400.jpg) | [Twitter](https://twitter.com/gengorou56) [Pixiv](https://www.pixiv.net/users/2925) [Fc2Blog](http://youmusya.blog.fc2.com/) |
 | rokuyo ten | 六曜テン |  |  |
 | mitsuru | みつる |  |  |
 | rage | らげ |  |  |
