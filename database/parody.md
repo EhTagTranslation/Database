@@ -1583,6 +1583,7 @@ example:
 | aki sora | 秋日天空（秋空） | 《秋日天空》（日语：あきそら），是日本漫画家`itosugi masahiro`的漫画作品。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/2/21/あきそら.jpg) | [维基百科](https://zh.wikipedia.org/wiki/秋日天空) |
 | beelzebub | 魔王奶爸 | 《魔王奶爸》（日语：べるぜバブ）是日本漫画家田村隆平的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/惡魔奶爸) |
 | kaichou wa maid-sama | 会长是女仆大人 | 《会长是女仆大人》（日语：会長はメイド様!），是日本漫画家藤原飞吕的少女漫画作品，并改编成同名电视动画。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/thumb/b/b8/Kaichohameidosama.jpg/220px-Kaichohameidosama.jpg) | [维基百科](https://zh.wikipedia.org/wiki/學生會長是女僕！) |
+| el shaddai | 全能之神（エルシャダイ） | 『エルシャダイ』 (El Shaddai: Ascension of the Metatron) 是2011年4月28日由Ignition Entertainment发售的一款PlayStation3或Xbox 360平台上的3D动作游戏。<br>由于神一般的CM宣传，但游戏本身被公认为是款粪作。之后由CM的声源和人物产生大量的二次创作。原CM中几乎每一句台词都成为了梗。比较著名的有「大丈夫だ、問題ない」「一番いいのを頼む」 | [大丈夫萌大奶 - 萌娘百科](https://zh.moegirl.org.cn/大丈夫萌大奶)<br>[维基百科🇯🇵](https://ja.wikipedia.org/wiki/エルシャダイ) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
