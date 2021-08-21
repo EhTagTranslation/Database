@@ -3114,7 +3114,7 @@ example:
 | tsukueno elf | 机野エルフ |  |  |
 | hiiragi popura | 柊ぽぷら |  |  |
 | nogiwa kaede | 野際かえで |  |  |
-| hitoi | 灯問 |  |  |
+| hitoi | 灯問 | 漫画家。作品以`netorare`、`cheating`为主<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1133146835663540224/cSVGgc6T_400x400.png) | [Twitter](https://twitter.com/hitoi_k) [Pixiv](https://www.pixiv.net/users/16163201) |
 | bouen | ぼうえん |  |  |
 | tsukudani | 佃煮 |  | [Twitter](https://twitter.com/tukudani01) [pixiv](https://www.pixiv.net/users/2543) |
 | shigemiya kyouhei | 樹宮匡平 |  |  |
