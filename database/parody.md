@@ -1573,6 +1573,7 @@ example:
 | tropical-rouge precure | Tropical-Rouge！光之美少女 | 《Tropical-Rouge! 光之美少女》是由东映动画制作的系列电视动画作品《光之美少女》的第十八部系列作品，属第十六代光之美少女。 |  |
 | jujutsu kaisen | 咒术回战 |  | [萌娘百科](https://zh.moegirl.org.cn/咒术回战) |
 | shugo chara | 守护甜心 | 《守护甜心》（日语：しゅごキャラ！；英语：Shugo Chara）是由PEACH-PIT创作的一部少女向漫画，并有动画和游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/守护甜心) |
+| manatsu no yo no inmu | 仲夏夜之淫梦 | 仲夏夜之淫梦是2001年在COAT CORPORATION发售的GV。TDN前辈们的名字和名言「哼，哼，啊啊啊啊」被世界广泛传播的作品（主要在NicoNico上）<br>![图](https://upload.wikimedia.org/wikipedia/commons/e/e1/YJSNPI_Ascii_Art.svg) | [Wikipedia](https://zh.wikipedia.org/wiki/仲夏夜之淫梦)<br>[ニコニコ大百科](https://dic.nicovideo.jp/a/真夏の夜の淫夢) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
