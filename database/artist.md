@@ -866,7 +866,7 @@ example:
 | abu hyaku | あぶひゃく | 男孩子的慰菊入门的作者。 |  |
 | suehirogari | すえひろがり | ![图](# "https://ehgt.org/21/63/216303dc5c19009d310064d3ba1006cbf8976947-517308-1750-2454-jpg_l.jpg") |  |
 | kuritsu yoshihiro | くりつよしひろ | ![图](# "https://ehgt.org/13/cd/13cd290c30b3427e65f66259060b33dfbfed3d81-912091-1981-2400-jpg_l.jpg") |  |
-| guglielmo | ぐりえるも | ![图](# "https://ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg")<br>![图](# "https://ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") |  |
+| guglielmo | ぐりえるも | ![图](# "https://ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg")<br>![图](# "https://ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") | [Twitter](https://twitter.com/guglielmo_hs) [Pixiv](https://www.pixiv.net/users/704774) [Fc2Blog](http://guriblog.blog39.fc2.com/) |
 | kusano yuu | 草野ゆぅ | ![图](# "https://ehgt.org/84/a2/84a2a65577b300681aad16d2e19633488604cb3c-2300734-2280-3280-jpg_l.jpg") |  |
 | matsuno susumu | 松野すすむ | ![图](# "https://ehgt.org/c0/39/c0391931aae172d7656c0f6b667541d8c294dde7-1640079-1512-2102-jpg_l.jpg") |  |
 | murasaki syu | むらさき朱 | ![图](# "https://ehgt.org/91/79/9179053a45f40dea3baa9fc5efbc98ecb948673e-865494-1024-1492-jpg_l.jpg") |  |
