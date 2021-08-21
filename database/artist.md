@@ -660,7 +660,7 @@ example:
 | quzilax | クジラックス |  |  |
 | gorgeous takarada | ゴージャス宝田 |  |  |
 | zaki zaraki | ザキザラキ |  |  |
-| tamachi yuki | たまちゆき |  |  |
+| tamachi yuki | たまちゆき | 漫画家，作品多以子供同士(`lolicon`×`shotacon`)为主<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1414836480405508124/f5lJyrvo_400x400.jpg)<br>![图](# "https://ehgt.org/ba/bd/babd9f63ab265b8e50a8752b9298bd72d5f4d6af-344486-1049-1500-jpg_l.jpg") | [Twitter](https://twitter.com/tamachiyuki) [Pixiv](https://www.pixiv.net/users/3060161) |
 | bar peachpit | バー・ぴぃちぴっと |  |  |
 | higashiyama show | 东山翔 |  |  |
 | yoshino | よしの |  |  |
