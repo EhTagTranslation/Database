@@ -2113,6 +2113,7 @@ example:
 | kansai orange | 関西オレンジ |  |  |
 | imomuya honpo | いもむや本舗 |  |  |
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
+| okadatei | おかだ亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
