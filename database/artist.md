@@ -1074,7 +1074,7 @@ example:
 | syuuen | 终焉 |  |  |
 | harazaki takuma | はらざきたくま |  |  |
 | hashimura aoki | 桥村青树 |  |  |
-| malcorond | まるころんど |  |  |
+| malcorond | まるころんど | 漫画家。作品主要以`lolicon`、`tanlines`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2018/05/02/15/32/36/14170514_94670ef43da8c97ae653ea667d3845c0_170.jpg) | [Twitter](https://twitter.com/malcorond2) [Pixiv](https://www.pixiv.net/users/4342957) [Fc2Blog](http://malcorond.blog.fc2.com/) |
 | marugari santarou | 丸刈参太郎 |  |  |
 | poncocchan | ぽんこっちゃん |  |  |
 | tetsuna | テツナ |  |  |
