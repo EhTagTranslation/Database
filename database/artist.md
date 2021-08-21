@@ -2539,7 +2539,7 @@ example:
 | tsukuru | 作 |  |  |
 | habara meguru | 羽原メグル |  |  |
 | hanabusa satoshi | はなぶささとし |  |  |
-| hado | はあど |  |  |
+| hado | はあど | ![PixivIcon](https://i.pixiv.cat/user-profile/img/2016/07/08/21/34/39/11171724_f5ab61ef128e088fa086d2f4f6fb84f7_170.png) | [Pixiv](https://www.pixiv.net/users/18934609) |
 | takemasa takeshi | 武将武 |  |  |
 | akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
 | hisui | 翡翠石 |  |  |
