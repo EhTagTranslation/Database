@@ -3228,6 +3228,7 @@ example:
 | takamichi | たかみち | 插画家、漫画家。茜新社杂志《Comic Lo》的封面作者。<br>![图](https://ehgt.org/88/b1/88b1e28e24f5570afd2f95aa9901df9f1e187afa-3305879-2097-3000-jpg_l.jpg) | [公式网站](http://www.amy.hi-ho.ne.jp/takamichi/) |
 | aki99 | aki99 | 插画家<br>![TwitterIcon](https://pbs.twimg.com/profile_images/961775700423274496/PBGPf-ht_400x400.jpg)<br>![图](# "https://ehgt.org/b2/c4/b2c4702bb93ac3c6d1e1fb73b42638ede0307a91-3328782-1414-2000-png_l.jpg") | [Twitter](https://twitter.com/aki99_pix) [Pixiv](https://www.pixiv.net/users/4373399) [个人主页](https://aki99.gumroad.com/) |
 | rensyu | Rensyu | 插画家 | [Pixiv](https://www.pixiv.net/users/37189287) |
+| himitsu | 蜜酱（ひみつ） | 插画家，作品以`bondage`、`shibari`为主 | [Twitter](https://twitter.com/hi_mi_tsu_2) [Pixiv](https://www.pixiv.net/users/13379747) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
