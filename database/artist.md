@@ -3231,6 +3231,7 @@ example:
 | himitsu | 蜜酱（ひみつ） | 插画家，作品以`bondage`、`shibari`为主 | [Twitter](https://twitter.com/hi_mi_tsu_2) [Pixiv](https://www.pixiv.net/users/13379747) |
 | tooo | tooo | 插画家。<br>![图](# "https://ehgt.org/00/ea/00eac98b611c38dce0e2327251ef7dde7bba0067-465953-1449-2048-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/195364) |
 | abubu | あぶぶ | 插画家。作品涉及恋物癖方面非常广。`bestiality`、`lolicon`、`shotacon`等等。<br><br>![图](# "https://ehgt.org/95/77/95772772f6a5eb5f0986dcbb7ff8b27580cdc9ea-1669309-1600-2200-jpg_l.jpg") | [Twitter](https://twitter.com/abubu_newnanka) [pixiv](https://www.pixiv.net/users/103703) |
+| red romanov | はだぱるか | 泰国插画家。作品内容主要以`exhibitionism`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/03/04/20/33/26/20300882_b2eea9e09e1d37b4f1d15ec7f6781071_170.png) | [Twitter](https://twitter.com/red_romanov) [Pixiv](https://www.pixiv.net/users/1215197) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
