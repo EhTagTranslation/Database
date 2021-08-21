@@ -3238,6 +3238,7 @@ example:
 | araki akira | あらきあきら | 成人向漫画家，作品角色多以`lolicon`为主。<br>![图](# "https://ehgt.org/13/be/13be01912e7c3eab579efaef250bcf271f7a155c-182831-958-1200-jpg_l.jpg") | [个人网站](http://www.arakim.com/) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/あらきあきら) |
 | haregama shiina | ハレガマ | ![TwitterIcon](https://pbs.twimg.com/profile_images/1392466588763246599/nAdPSmQs_400x400.jpg) | [Twitter](https://twitter.com/haregama_shiina) |
 | misao. | みさお。 | ![图](# "https://ehgt.org/5e/60/5e60aeb06fbecd8b17ae4c7e8af9e5c234c4f645-663753-1058-1500-jpg_l.jpg") |  |
+| yamazaki kana | 山崎かな | ![TwitterIcon](https://pbs.twimg.com/profile_images/548423116611780608/vZEIMti1_400x400.jpeg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/8c/8d/8c8d27cbde34695393c9ca5013c9bec1e0142a37-344438-1271-1814-jpg_l.jpg") | [Twiiter](https://twitter.com/kana_yamazaki) [Pixiv](https://www.pixiv.net/users/518651) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
