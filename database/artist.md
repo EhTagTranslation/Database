@@ -3237,6 +3237,7 @@ example:
 | a-801 | アニメ8OI | 插画家。作品角色以`toddlercon`为主。<br>![PixivIcon](## "https://i.pixiv.cat/user-profile/img/2020/03/07/19/56/53/18062098_2fa76e9b5ced90947f77cbac10a35acc_170.jpg") | [Twitter](https://www.pixiv.net/users/9855545) |
 | araki akira | あらきあきら | 成人向漫画家，作品角色多以`lolicon`为主。<br>![图](# "https://ehgt.org/13/be/13be01912e7c3eab579efaef250bcf271f7a155c-182831-958-1200-jpg_l.jpg") | [个人网站](http://www.arakim.com/) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/あらきあきら) |
 | haregama shiina | ハレガマ | ![TwitterIcon](https://pbs.twimg.com/profile_images/1392466588763246599/nAdPSmQs_400x400.jpg) | [Twitter](https://twitter.com/haregama_shiina) |
+| misao. | みさお。 | ![图](# "https://ehgt.org/5e/60/5e60aeb06fbecd8b17ae4c7e8af9e5c234c4f645-663753-1058-1500-jpg_l.jpg") |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
