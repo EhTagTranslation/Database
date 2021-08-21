@@ -1582,6 +1582,7 @@ example:
 | yamada-kun to 7-nin no majo | 山田君与7人魔女 | 《山田君与7人魔女》（日语：山田くんと7人の魔女）是日本漫画家吉河美希所创作的爱情校园漫画作品。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/thumb/3/3d/Yamadakun_to_nananin_no_majo_1.jpg/200px-Yamadakun_to_nananin_no_majo_1.jpg) | [维基百科](https://zh.wikipedia.org/wiki/山田君與7人魔女) |
 | aki sora | 秋日天空（秋空） | 《秋日天空》（日语：あきそら），是日本漫画家`itosugi masahiro`的漫画作品。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/2/21/あきそら.jpg) | [维基百科](https://zh.wikipedia.org/wiki/秋日天空) |
 | beelzebub | 魔王奶爸 | 《魔王奶爸》（日语：べるぜバブ）是日本漫画家田村隆平的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/惡魔奶爸) |
+| kaichou wa maid-sama | 会长是女仆大人 | 《会长是女仆大人》（日语：会長はメイド様!），是日本漫画家藤原飞吕的少女漫画作品，并改编成同名电视动画。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/thumb/b/b8/Kaichohameidosama.jpg/220px-Kaichohameidosama.jpg) | [维基百科](https://zh.wikipedia.org/wiki/學生會長是女僕！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
