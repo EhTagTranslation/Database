@@ -228,7 +228,7 @@ example:
 | awatake takahiro | 弘岳粟高 |  |  |
 | kylin | Kylin |  |  |
 | morishima kon | 森島コン |  | [pixiv](https://www.pixiv.net/users/2634234) [Twitter](https://twitter.com/kon_004) |
-| mdo-h | 无道睿智 |  |  |
+| mdo-h | 无道睿智 | 無道叡智<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/04/05/10/26/29/20480805_9f04fce0df0b9effba821335b892e257_170.png) | [Twitter](https://twitter.com/mdoh02) [Pixiv](https://www.pixiv.net/users/4144) [Fanbox](https://mdo-h.fanbox.cc/) |
 | ginyou haru | 銀曜ハル |  |  |
 | shiina | シイナ |  |  |
 | mikuta | みくた |  |  |
