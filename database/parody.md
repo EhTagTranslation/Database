@@ -1576,6 +1576,7 @@ example:
 | manatsu no yo no inmu | 仲夏夜之淫梦 | 仲夏夜之淫梦是2001年在COAT CORPORATION发售的GV。TDN前辈们的名字和名言「哼，哼，啊啊啊啊」被世界广泛传播的作品（主要在NicoNico上）<br>![图](https://upload.wikimedia.org/wikipedia/commons/e/e1/YJSNPI_Ascii_Art.svg) | [Wikipedia](https://zh.wikipedia.org/wiki/仲夏夜之淫梦)<br>[ニコニコ大百科](https://dic.nicovideo.jp/a/真夏の夜の淫夢) |
 | mujaki no rakuen | 无邪气乐园 | 《无邪气乐园》（無邪気の楽園）是日本漫画家`uran`的青年漫画作品。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/f/fa/無邪氣樂園.jpg) | [Wikipedia](https://zh.wikipedia.org/wiki/無邪氣樂園) [Nyaa](https://nyaa.si/view/1112767) |
 | hololive | Hololive Production | hololive production（日语：ホロライブプロダクション Hororaibu Purodakushon）是日本科技公司COVER株式会社旗下的经纪公司品牌，以经营`vtuber`为其主要业务，除了在日本外，也在其他地区拥有并经营`vtuber`。<br>![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hololive_Production_logo.svg/250px-Hololive_Production_logo.svg.png) | [维基百科](https://zh.wikipedia.org/wiki/Hololive_production) [Twitter](https://twitter.com/hololivetv) |
+| hinamatsuri | 超能力女儿 | 《超能力女儿》（日语：ヒナまつり），是日本漫画家大武政夫的漫画。在enterbrain发行的隔月漫画杂志《Fellows!》第8期（2009年12月发售）发表短篇，后在第11期B（2010年6月发售）正式开始连载。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/4/41/極道超女.jpg) | [维基百科](https://zh.wikipedia.org/wiki/極道超女) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
