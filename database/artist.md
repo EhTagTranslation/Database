@@ -1472,7 +1472,7 @@ example:
 | takepen | タケペン |  |  |
 | taikou | タイコウ |  |  |
 | aikawa touma | 藍川とうま |  |  |
-| tamanoi peromekuri | 玉乃井ぺろめくり |  |  |
+| tamanoi peromekuri | 玉乃井ぺろめくり | 插画家，杂志《Little Queen》的封面作者<br>![图](https://ehgt.org/c9/09/c9092d15ed2c6ac1f5703a7baea6b8328a400b3c-555991-1900-1813-jpg_l.jpg) | [Twitter](https://twitter.com/peromekuero) [Pixiv](https://www.pixiv.net/users/8831721) [BlogSpot](https://peromekuri.blogspot.com/) |
 | shinozuka george | 筱塚酿二 |  |  |
 | miotama | みおたま |  |  |
 | kido keiji | 城户敬司 |  |  |
