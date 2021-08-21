@@ -648,7 +648,7 @@ example:
 | souma | 相马 |  |  |
 | annekuma | ANNEKUMA |  |  |
 | 108 gou | 108号 |  |  |
-| akazawa red | あかざわRED |  |  |
+| akazawa red | あかざわRED | 漫画家、插画家。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1218982503454633984/XG-LDLrR_400x400.jpg) | [Twitter](https://twitter.com/akazawared) [Pixiv](https://www.pixiv.net/users/10340) [个人网站](https://www.under80.com/) |
 | r-koga | あ～る・こが |  |  |
 | ashimoto yoika | あしもと☆よいか |  |  |
 | awaji himeji | あわじひめじ |  |  |
