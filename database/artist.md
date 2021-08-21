@@ -672,7 +672,7 @@ example:
 | nekogen | 猫玄 |  |  |
 | kiya shii | 木谷椎 | 漫画家。近期作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/890394430116577281/oDzpR_CQ_400x400.jpg) | [Twitter](https://twitter.com/ishiyaki765) [Pixiv](https://www.pixiv.net/users/1895057) |
 | molokonomi | 平屋のぼり |  |  |
-| maeshima ryou | 前岛龙 |  |  |
+| maeshima ryou | 前島龍（前岛龙） | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1135876547074596865/1DQd8NFJ_400x400.jpg) | [Twitter](https://twitter.com/maeshimaryo) [Pixiv](https://twitter.com/maeshimaryo) [Fc2Blog](http://con8.blog75.fc2.com/) |
 | yamazaki kazuma | 山崎かずま |  |  |
 | momonosuke | 桃之助 |  |  |
 | murian | 无有利安 |  |  |
