@@ -1666,7 +1666,7 @@ example:
 | oda kenichi | おだけんいち |  |  |
 | toranoe | トラノエ |  |  |
 | kinoebi | KinoeBi |  |  |
-| nanashi | 774 |  |  |
+| nanashi | 774 | 漫画家。以R-18作品出道，现已上岸。<br>目前正在连载长篇全年龄向漫画《`ijiranaide nagatoro-san`》<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2014/09/15/15/45/06/8400449_3cb6c503650215f5dd03e58fc8f6012a_170.png) | [Twitter](https://twitter.com/774nanash) [Pixiv](https://www.pixiv.net/users/72342) |
 | yokoyama lynch | 横山私刑 |  |  |
 | tam | TAM |  |  |
 | tatami | 叠 |  |  |
