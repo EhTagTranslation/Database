@@ -3234,6 +3234,7 @@ example:
 | red romanov | はだぱるか | 泰国插画家。作品内容主要以`exhibitionism`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/03/04/20/33/26/20300882_b2eea9e09e1d37b4f1d15ec7f6781071_170.png) | [Twitter](https://twitter.com/red_romanov) [Pixiv](https://www.pixiv.net/users/1215197) |
 | bubukka | ぶぶっか | 插画家。作品角色主要以`lolicon`为主。<br>![图](# "https://ehgt.org/67/8e/678e2c42dfc22996d9dfd13f8ce7ded603e568a8-167887-650-845-png_l.jpg") | [Pixiv](https://www.pixiv.net/users/2915585) |
 | itosugi masahiro | 糸杉柾宏 | 成人漫画家，非常擅长于画姐系漫画，作品大部分是姐姐和弟弟、女装少年、百合风格的漫画。<br>漫画`aki sora`的作者。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2020/06/12/00/24/09/18808689_0e40c81825c67fcb07ccfdc58d4bab74_170.jpg)<br>**作者Pixiv头像** | [Twitter](https://twitter.com/masahiroitosugi) [Pixiv](https://www.pixiv.net/users/10193865) |
+| a-801 | アニメ8OI | 插画家。作品角色以`toddlercon`为主。<br>![PixivIcon](## "https://i.pixiv.cat/user-profile/img/2020/03/07/19/56/53/18062098_2fa76e9b5ced90947f77cbac10a35acc_170.jpg") | [Twitter](https://www.pixiv.net/users/9855545) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
