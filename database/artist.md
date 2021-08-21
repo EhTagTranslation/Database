@@ -670,7 +670,7 @@ example:
 | hayashibara hikari | 林原ひかり |  |  |
 | suzuki kyoutarou | 鈴木狂太郎 |  |  |
 | nekogen | 猫玄 |  |  |
-| kiya shii | 木谷椎 |  |  |
+| kiya shii | 木谷椎 | 漫画家。近期作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/890394430116577281/oDzpR_CQ_400x400.jpg) | [Twitter](https://twitter.com/ishiyaki765) [Pixiv](https://www.pixiv.net/users/1895057) |
 | molokonomi | 平屋のぼり |  |  |
 | maeshima ryou | 前岛龙 |  |  |
 | yamazaki kazuma | 山崎かずま |  |  |
