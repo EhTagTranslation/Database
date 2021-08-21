@@ -258,7 +258,7 @@ example:
 | ruri | ルリ \| るり \| 瑠璃 | MAGNOLIA<br>StayBlue<br>VOLLMOND |  |
 | kohata tsunechika | 小旗つねちか |  |  |
 | carn | 夏庵 |  |  |
-| okada kou | 岡田コウ |  |  |
+| okada kou | 岡田コウ | 漫画家。作品角色主要以`lolicon`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2016/11/29/01/34/22/11809157_fa1862685dba93bd291e59d2c864c635_170.jpg) | [Twitter](https://twitter.com/gazookada) [Pixiv](https://www.pixiv.net/users/406758) |
 | neko pantsu | ねこパンツ |  |  |
 | suzunone rena | 鈴音れな |  | [Twitter](https://twitter.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
 | miyabi | 美矢火 |  |  |
