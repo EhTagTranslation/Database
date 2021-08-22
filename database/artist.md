@@ -822,7 +822,7 @@ example:
 | usakun | うさくん |  |  |
 | chiguchi miri | チグチミリ |  |  |
 | fuyuno mikan | 冬野みかん |  |  |
-| hikoma hiroyuki | 彦馬ヒロユキ |  |  |
+| hikoma hiroyuki | 彦馬ヒロユキ | 彦馬ヒロユキ是日本成人向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1221651978616373248/xjgUGiUc_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/86/a5/86a5627cf0f8ff09ecfa9cf38a2dec40f8b868a1-1158301-1057-1500-jpg_l.jpg")<br>《成長中のマセガキに愛の失神アクメ指導》 | [Twitter](https://twitter.com/hikoma_h2) |
 | imotoka tsuyuki | 芋とか露木 |  |  |
 | natsuki kiyohito | 夏木きよひと |  |  |
 | noise | Noise |  |  |
