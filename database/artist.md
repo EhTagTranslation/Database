@@ -649,7 +649,7 @@ example:
 | annekuma | ANNEKUMA |  |  |
 | 108 gou | 108号 |  |  |
 | akazawa red | あかざわRED | 漫画家、插画家。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1218982503454633984/XG-LDLrR_400x400.jpg) | [Twitter](https://twitter.com/akazawared) [Pixiv](https://www.pixiv.net/users/10340) [个人网站](https://www.under80.com/) |
-| r-koga | あ～る・こが |  |  |
+| r-koga | あ～る・こが | 成年向漫画家。作品角色以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/735854258914918402/W8hiuQ-__400x400.jpg)<br>**作者推特头像** | [Twitter](https://twitter.com/R_koga) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/あ〜る・こが) |
 | ashimoto yoika | あしもと☆よいか |  |  |
 | awaji himeji | あわじひめじ |  |  |
 | itou | いトう |  |  |
