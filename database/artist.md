@@ -3246,6 +3246,7 @@ example:
 | meramera jealousy | メラメラジェラシー | メラメラジェラシー 、日本成年向漫画家。作品以`lolicon`或少女为主。<br>![图](# "https://ehgt.org/b6/26/b626e54ee76ae246e2f8dfd6f966e8172c81f656-261844-1106-1400-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/メラメラジェラシー) |
 | miyazaki maya | 宮崎摩耶 | 宮崎 摩耶（みやざき まや）、日本漫画家。女性。成年向漫画和全年龄向漫画都有创作。<br>![图](# "https://ehgt.org/a6/98/a698fe6f15bb02ff9e9032db937d070ce400de8f-1406131-2098-2997-jpg_l.jpg") | [Twitter](https://twitter.com/miyazakimaya) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/宮崎摩耶) |
 | sasakura ayato | 笹仓绫人 | 笹倉 綾人（ささくら あやと）、日本漫画家、插画家。<br>全年龄向代表作品：漫画版的《`shakugan no shana`》《`accel world`》<br>成年向漫画以`lolicon`系或`shotacon`系为主。<br>代表作品：《たいらんと♡ぱにっしゅ》<br>![图](# "https://ehgt.org/5f/88/5f88580ea8fd3ae4b9a0fabd733979063ccc8fac-915698-3509-1600-jpg_l.jpg") | [Twitter](https://twitter.com/sasa_ayato) [维基百科](https://zh.wikipedia.org/wiki/笹倉綾人) |
+| mori guruta | 森ぐる太 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
