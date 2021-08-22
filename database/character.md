@@ -2676,7 +2676,7 @@ example:
 | rebecca | 蕾贝卡 |  |  |
 | amazon | 亚马逊 |  |  |
 | sorceress | 女巫 |  |  |
-| serena | 莎莉娜 |  |  |
+| serena | 莎莉娜 \| 瑟妮娅 | 莎莉娜(日文：セレナ，英文：Serena，TVB粤语版动画官译：塞莉娜，民间常见翻译：塞蕾娜、瑟蕾娜，)是GAME FREAK的游戏《`pokemon`X／Y》及其衍生作品的登场角色，女主角。<br>![图](https://img.moegirl.org.cn/common/thumb/5/58/Hero-Girl-Pokemon-X-and-Y.jpg/280px-Hero-Girl-Pokemon-X-and-Y.jpg)<br><br>瑟妮娅是指角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的妹妹。<br>![图](https://www.dq11.jp/s/pf/characters/_img/senya/chara_2d_sp.png) |  |
 | shauna | 莎娜 |  |  |
 | kiruko otonashi | 音无斩子 |  |  |
 | boa hancock | 波雅·汉库克 |  |  |
