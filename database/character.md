@@ -1918,7 +1918,7 @@ example:
 | fiore forvedge yggdmillennia | 菲奥蕾·弗尔维吉·千界树 |  |  |
 | chiron | 喀戎 |  |  |
 | achilles | 阿喀琉斯 |  |  |
-| atalanta | 阿塔兰忒 |  |  |
+| atalanta | 阿塔兰忒 | 游戏`fate grand order`或fate衍生作品中的出场角色。<br>![图](https://img.moegirl.org.cn/common/thumb/8/87/52703734_p0.jpg/280px-52703734_p0.jpg) | [Mooncell](http://www.fgo.wiki/w/阿塔兰忒) [萌娘百科](https://zh.moegirl.org.cn/阿塔兰忒%28Fate%29#) |
 | kairi sisigou | 狮子劫界离 |  |  |
 | miyako arima | 有间都古 |  |  |
 | chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
