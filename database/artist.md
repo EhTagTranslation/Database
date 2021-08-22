@@ -2930,7 +2930,7 @@ example:
 | indozou | インド僧 |  | [Twitter](https://twitter.com/indozou) [pixiv](https://www.pixiv.net/users/390501) |
 | itou yuuji | イトウゆーじ |  | [Twitter](https://twitter.com/ug_110) [pixiv](https://www.pixiv.net/users/14192) |
 | yu-ki | ユーキ | ![ユーキ头像](https://i.jpg.dog/file/jpg-dog/288c333808fefcb7d280ef5f4c5040d4.jpg) | [Twitter](https://twitter.com/yuukikagou) [pixiv](https://www.pixiv.net/users/454246) [Niconico](https://www.nicovideo.jp/user/19372224) [THBWiki](https://thwiki.cc/ユーキ) |
-| gotoh juan | 后藤寿庵 |  |  |
+| gotoh juan | 后藤寿庵 | 後藤 寿庵（ごとう じゅあん、1964年6月21日 - ）是日本成人漫画家。作品以おねショタ（`sister`×`shotacon`）的`incest`和家族`incest` 为主。<br>经典作品：《Sister Love》（雨中小故事）<br>![图](# "https://ehgt.org/61/d3/61d33afedfabbc366bb9a55de16d92821536ae45-48208-800-600-jpg_l.jpg")<br>《卒業斬首式》<br>![图](## "https://ehgt.org/39/79/3979828c0bd1ec28750d9aea17084cd3a4b05645-334059-1140-1600-jpg_l.jpg") |  |
 | binto | 瓶人 |  |  |
 | itaru | 至る |  | [Twitter](https://twitter.com/dokoni_itaru) [pixiv](https://www.pixiv.net/users/73580) |
 | wasavi 8 | wasavi\_8 |  | [Twitter](https://twitter.com/wasavi_8) [pixiv](https://www.pixiv.net/users/1518356) |
