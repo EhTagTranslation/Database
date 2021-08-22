@@ -1361,7 +1361,7 @@ example:
 | tohgarashi hideyu | 唐辛子ひでゆ |  |  |
 | shinjinkun | 新人君 |  |  |
 | barlun | ばーるん |  |  |
-| kiyomiya ryo | 清宫凉 |  |  |
+| kiyomiya ryo | 清宫凉 | 清宮涼是日本成人向漫画家、成人向同人志创作者、插画师。作品主要为`lolicon`系。<br>![图](https://pbs.twimg.com/profile_images/1372772837711171585/86FNO7wN_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/98/13/98135b7458d710830a1049f44c95cd2ba49bc147-1753218-3548-4981-jpg_l.jpg")<br>《まんなか。》 | [Twitter](https://twitter.com/kiyomiyaryo) [Pixiv](https://www.pixiv.net/users/85595) |
 | higata | HIGATA |  |  |
 | outou chieri | 樱桃千绘里 \| 無洗米 |  | [Twitter](https://twitter.com/5565313) [pixiv](https://www.pixiv.net/users/momochieri) |
 | hoshizaki hikaru | 星崎ひかる |  |  |
