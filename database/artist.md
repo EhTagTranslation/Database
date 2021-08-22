@@ -848,7 +848,7 @@ example:
 | yasui riosuke | ヤスイリオスケ | ![图](# "https://ehgt.org/0b/04/0b0465ba83727f5201ae69690f8a40f8e08afc2c-820428-2166-3036-jpg_l.jpg") |  |
 | kizuki aruchu | 鬼月あるちゅ | ![图](# "https://ehgt.org/9a/43/9a436588bfa3aca44dc4f5a626e606fe87e1287e-1769126-1431-2000-jpg_l.jpg") | [Twitter](https://twitter.com/udon_ko) [pixiv](https://www.pixiv.net/users/30254) |
 | sameda koban | さめだ小判 | ![图](# "https://ehgt.org/70/0c/700ceea64809d415bcb38aefb797badb6ec44c67-417153-700-889-jpg_l.jpg") |  |
-| koume keito | 小梅けいと | 花粉少女<br>![图](# "https://ehgt.org/29/ae/29ae6af2879a51570ea087472403d2014569d97f-1201347-1082-1536-jpg_l.jpg") |  |
+| koume keito | 小梅けいと | 小梅 けいと（こうめ けいと） 、日本漫画家。主要创作成年向漫画。全年向代表作：《狼与香辛料》漫画版<br><br>成年向漫画代表作品：《花粉少女》系列<br>![图](# "https://ehgt.org/29/ae/29ae6af2879a51570ea087472403d2014569d97f-1201347-1082-1536-jpg_l.jpg") | [Twitter](https://twitter.com/koumekeito) [Pixiv](https://www.pixiv.net/users/520553) |
 | thomas | 藤ます | ![图](# "https://ehgt.org/61/4f/614f068b36fac77e7acc247c1548d0d291d821cc-91019-800-1122-jpg_l.jpg") |  |
 | mutsutake | 睦茸 | ![图](# "https://ehgt.org/28/00/28008f3ff4a7bc04e6e9244fb58bd4c14c77985b-708592-1184-1650-jpg_l.jpg") |  |
 | midori no rupe | 緑のルーペ | ![PixivIcon](https://i.pixiv.cat/user-profile/img/2009/06/24/21/12/14/865702_1be4dc3c06bcb028e06e662c3e55a97a_170.jpg)<br>![图](# "https://ehgt.org/bc/47/bc4703c0ee848bdfe1520e586ea86bc244e6a429-1428388-2560-3579-jpg_l.jpg") | [Twitter](https://twitter.com/midorinorupe) [Pixiv](https://www.pixiv.net/users/60670) |
