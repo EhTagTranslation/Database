@@ -2749,7 +2749,7 @@ example:
 | renamon | 妖狐兽 |  |  |
 | sakuyamon | 沙古牙兽 |  |  |
 | zephyrmon | 风神兽 |  |  |
-| martina | 玛尔缇娜 |  |  |
+| martina | 玛尔缇娜 | 角色扮演游戏`dragon quest xi`的女主角之一。武斗家。<br>![图](https://www.dq11.jp/s/pf/characters/_img/martina/chara_2d_sp.png) |  |
 | sancho | 桑丘 |  |  |
 | barron trump | 巴伦·特朗普 |  |  |
 | donald trump | 唐纳德·特朗普 |  |  |
