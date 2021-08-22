@@ -2408,7 +2408,7 @@ example:
 | denchi | 电池 |  |  |
 | ono no imoko | 小野妹子 | Alicesoft原画师魚介，又名小野妹子 | [pixiv](https://www.pixiv.net/member_illust.php?id=165192) [Twitter](https://twitter.com/_himehajime) [个人博客](http://himehajime69.blog112.fc2.com/) |
 | nishieda | 西E田 | 著名插画、原画师，画风色气 | [pixiv](https://www.pixiv.net/users/4015) [Twitter](https://twitter.com/nisiedas) [个人博客](http://www.nisieda.com/wp/) |
-| gomennasai | 御免なさい |  |  |
+| gomennasai | 御免なさい | 成人漫画家，插画师。作品以`lolicon`系为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1344554808825397248/NpOzEj6g_400x400.jpg)<br>**作者推特头像**<br>代表作品：《おませで御免》<br>![图](# "https://ehgt.org/84/dd/84dd53c0778ba768648f6396eb378dd19a6ea662-1563649-1114-1600-png_l.jpg") | [Twitter](https://twitter.com/0721gomen1919) [Pixiv](https://www.pixiv.net/users/444675) |
 | ame arare | 雨あられ |  |  |
 | abi kamesennin | 俺正读 |  |  |
 | futayami | 双暗 |  |  |
