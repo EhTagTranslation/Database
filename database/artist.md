@@ -662,7 +662,7 @@ example:
 | zaki zaraki | ザキザラキ |  |  |
 | tamachi yuki | たまちゆき | 漫画家，作品多以子供同士(`lolicon`×`shotacon`)为主<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1414836480405508124/f5lJyrvo_400x400.jpg)<br>![图](# "https://ehgt.org/ba/bd/babd9f63ab265b8e50a8752b9298bd72d5f4d6af-344486-1049-1500-jpg_l.jpg") | [Twitter](https://twitter.com/tamachiyuki) [Pixiv](https://www.pixiv.net/users/3060161) |
 | bar peachpit | バー・ぴぃちぴっと |  |  |
-| higashiyama show | 东山翔 |  |  |
+| higashiyama show | 东山翔 | 東山 翔（ひがしやま しょう）、日本漫画家、音乐家。<br>漫画主要从事成年向漫画创作。作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/16/56/16561fce6a467bd9f6e246b9333fc2f54025b75b-687400-2800-2400-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/514180) |
 | yoshino | よしの |  |  |
 | minion | みにおん | みにおん 成年向漫画家<br>主要擅长画`shotacon`、`lolicon`。在画萝莉的过程之中，觉醒了对正太的热爱，称画可爱的少年是最快乐的事情。对儿童的凌辱、或被儿童凌辱、`incest`（母子相奸）的作品也有涉及。<br>![图](# "https://ehgt.org/a8/42/a84266339e4b7e99fe5df57b8016ab60827ec0a3-726851-1070-1500-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/みにおん) [Pixiv](https://www.pixiv.net/users/11414279) |
 | nishikibasami | 二式鋏 |  |  |
