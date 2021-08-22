@@ -657,7 +657,7 @@ example:
 | ookami uo | オオカミうお |  |  |
 | kawady max | カワディMAX |  |  |
 | kimio tamako | きみおたまこ |  |  |
-| quzilax | クジラックス |  |  |
+| quzilax | クジラックス | クジラックス（quzilax、1985年12月9日- ）、日本成年向漫画家、同人作家。<br>作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/ae/03/ae03b877d718e6ae2e9f9e016d78ceef2a937da4-1377790-1062-1500-jpg_l.jpg") | [Twitter](https://twitter.com/quzilaxxx) [Pixiv](https://www.pixiv.net/users/92875) |
 | gorgeous takarada | ゴージャス宝田 | ゴージャス 宝田（ごーじゃす たからだ、Gorgeous Takarada）、日本成年向漫画家。作品多以`lolicon`系为主。<br>![图](# "https://ehgt.org/98/72/9872df03eb4c2e2234173db1a1e0638ae1a6f1de-1140757-1057-1500-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/35935956) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ゴージャス宝田) |
 | zaki zaraki | ザキザラキ |  |  |
 | tamachi yuki | たまちゆき | 漫画家，作品多以子供同士(`lolicon`×`shotacon`)为主<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1414836480405508124/f5lJyrvo_400x400.jpg)<br>![图](# "https://ehgt.org/ba/bd/babd9f63ab265b8e50a8752b9298bd72d5f4d6af-344486-1049-1500-jpg_l.jpg") | [Twitter](https://twitter.com/tamachiyuki) [Pixiv](https://www.pixiv.net/users/3060161) |
