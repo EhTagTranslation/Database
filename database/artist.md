@@ -3240,6 +3240,7 @@ example:
 | misao. | みさお。 | ![图](# "https://ehgt.org/5e/60/5e60aeb06fbecd8b17ae4c7e8af9e5c234c4f645-663753-1058-1500-jpg_l.jpg") |  |
 | yamazaki kana | 山崎かな | ![TwitterIcon](https://pbs.twimg.com/profile_images/548423116611780608/vZEIMti1_400x400.jpeg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/8c/8d/8c8d27cbde34695393c9ca5013c9bec1e0142a37-344438-1271-1814-jpg_l.jpg") | [Twiiter](https://twitter.com/kana_yamazaki) [Pixiv](https://www.pixiv.net/users/518651) |
 | kanyapyi | かにゃぴぃ | かにゃぴぃ  日本漫画家、插画家。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/02/14/23/25/34/20191405_203a48098e7d97209528b397c88dbcef_170.jpg) | [Twitter](https://twitter.com/kanyap) [Pixiv](https://www.pixiv.net/users/29017) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/かにゃぴぃ) |
+| maruta | MARUTA | ![TwitterIcon](https://pbs.twimg.com/profile_images/1393208933246930945/hnsw0l19_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/00/41/004151395a000aaf8277c1887172101fd1d701e1-110890-833-1200-jpg_l.jpg") | [Twitter](https://twitter.com/maruta_dojo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
