@@ -814,7 +814,7 @@ example:
 | misumi tsubaki | 三澄ツバキ |  |  |
 | nekodanshaku | 猫男爵 |  |  |
 | oosawa ofuda | 大沢おふだ |  |  |
-| ryoumoto hatsumi | 岭本八美 |  |  |
+| ryoumoto hatsumi | 岭本八美 | 嶺本八美（りょうもとはつみ） 日本成年向漫画家。作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/ec/f0/ecf0de75231e9dcfa5b1ea5abb96371659b540f1-983519-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/ryoumoto008) [Pixiv](https://www.pixiv.net/users/1093101) |
 | sabaku chitai | 沙漠地带 |  |  |
 | salad | さらだ |  |  |
 | sawayaka samehada | さわやか鮫肌 |  | [Twitter](https://twitter.com/adahemas) [pixiv](https://www.pixiv.net/users/176236) |
