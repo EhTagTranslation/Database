@@ -651,7 +651,7 @@ example:
 | akazawa red | あかざわRED | 漫画家、插画家。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1218982503454633984/XG-LDLrR_400x400.jpg) | [Twitter](https://twitter.com/akazawared) [Pixiv](https://www.pixiv.net/users/10340) [个人网站](https://www.under80.com/) |
 | r-koga | あ～る・こが | 成年向漫画家。作品角色以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/735854258914918402/W8hiuQ-__400x400.jpg)<br>**作者推特头像** | [Twitter](https://twitter.com/R_koga) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/あ〜る・こが) |
 | ashimoto yoika | あしもと☆よいか |  |  |
-| awaji himeji | あわじひめじ |  |  |
+| awaji himeji | あわじひめじ | あわじひめじは是日本成年向漫画家。其作品的主要特点是对女主角彻底地`rape`、轮奸，最终致使女主角精神上的崩坏。多是以`lolicon`系的作品，也有`milf`系的。<br>![图](https://pbs.twimg.com/profile_images/940055151645097992/SwsG5aQW_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/a1/e2/a1e26eb606a24eeca3ef46613b657a60986c776a-304346-1048-1500-jpg_l.jpg")<br>《少女が『ひぎぃ！』と叫ぶとき》 | [Twitter](https://twitter.com/AHimeji) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/あわじひめじ) |
 | itou | いトう |  |  |
 | usashiro mani | うさ城まに |  | [Twitter](https://twitter.com/mayumani2) [pixiv](https://www.pixiv.net/users/7367) |
 | ookami uo | オオカミうお |  |  |
