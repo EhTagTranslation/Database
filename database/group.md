@@ -2114,6 +2114,7 @@ example:
 | imomuya honpo | いもむや本舗 |  |  |
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
 | okadatei | おかだ亭 |  |  |
+| niramikko koujou | にらみっ子工場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
