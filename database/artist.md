@@ -673,7 +673,7 @@ example:
 | kiya shii | 木谷椎 | 漫画家。近期作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/890394430116577281/oDzpR_CQ_400x400.jpg) | [Twitter](https://twitter.com/ishiyaki765) [Pixiv](https://www.pixiv.net/users/1895057) |
 | molokonomi | 平屋のぼり |  |  |
 | maeshima ryou | 前島龍（前岛龙） | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1135876547074596865/1DQd8NFJ_400x400.jpg) | [Twitter](https://twitter.com/maeshimaryo) [Pixiv](https://twitter.com/maeshimaryo) [Fc2Blog](http://con8.blog75.fc2.com/) |
-| yamazaki kazuma | 山崎かずま |  |  |
+| yamazaki kazuma | 山崎かずま | 山崎 かずま（やまざき かずま）是日本的漫画家、插画师。<br>![图](https://pbs.twimg.com/profile_images/969388704157523968/q1DMIxju_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/e0/0d/e00dc6fa69729ddb1d4b2922fa1e6e8f04a3ac10-1808555-2163-3000-jpg_l.jpg")<br>《 H.O.M.E ~Habitant of melting ecstasy~》 | [Twitter](https://twitter.com/kazmayamazaki) [Pixiv](https://www.pixiv.net/users/9118) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/山崎かずま) |
 | momonosuke | 桃之助 |  |  |
 | murian | 无有利安 |  |  |
 | mutou mato | 武藤まと |  | [pixiv](https://www.pixiv.net/users/1429353) [Twitter](https://twitter.com/mto_mt) |
