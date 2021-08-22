@@ -1720,7 +1720,7 @@ example:
 | gabyonuno | ガビョ布 |  |  |
 | heppokokun | へっぽこくん |  |  |
 | honda aru | 翻田亚流 |  |  |
-| hoshino fuuta | ほしのふうた |  |  |
+| hoshino fuuta | ほしのふうた | ほしのふうた 日本成人向漫画家。成人向同人志作家。擅长画`lolicon`<br>![图](# "https://ehgt.org/bb/b8/bbb875aa87dedc6188735a94a9e497c3aa1693f4-2113967-2160-3084-jpg_l.jpg") | [Twitter](https://twitter.com/h__futan) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ほしのふうた) |
 | kani kani | かにかに |  |  |
 | katsumata kazuki | かつまたかずき |  |  |
 | kirihara kotori | 桐原小鸟 |  |  |
