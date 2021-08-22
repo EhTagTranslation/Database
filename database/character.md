@@ -3443,11 +3443,10 @@ example:
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | 《原神》及其衍生作品的登场角色。精通百法、又懂得权衡情理的半仙少女，璃月港顶尖的律法专家。 | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
 | gawr gura | 噶呜·古拉（Gawr Gura） | 噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。<br>![GoogleIcon](https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj) | [Youtube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [Twitter](https://twitter.com/gawrgura) |
-| enoch | イーノック | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-3.gif&img_id=1522721112)<br>![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-4.gif&img_id=) |  |
-| lucifel | ルシフェル | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-2.gif&img_id=1522721112) |  |
+| enoch | 伊诺库 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-3.gif&img_id=1522721112)<br>![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-4.gif&img_id=) |  |
 | veronica | 维罗妮卡（ベロニカ） | 角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的姐姐。<br>![图](https://www.dq11.jp/s/pf/characters/_img/veronica/chara_2d_sp.png) |  |
 | murasaki yatsu | 八津紫 |  |  |
-| lucifer | 路西法 |  |  |
+| lucifer | 路西法 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-2.gif&img_id=1522721112) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
