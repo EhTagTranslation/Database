@@ -667,7 +667,7 @@ example:
 | minion | みにおん | みにおん 成年向漫画家<br>主要擅长画`shotacon`、`lolicon`。在画萝莉的过程之中，觉醒了对正太的热爱，称画可爱的少年是最快乐的事情。对儿童的凌辱、或被儿童凌辱、`incest`（母子相奸）的作品也有涉及。<br>![图](# "https://ehgt.org/a8/42/a84266339e4b7e99fe5df57b8016ab60827ec0a3-726851-1070-1500-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/みにおん) [Pixiv](https://www.pixiv.net/users/11414279) |
 | nishikibasami | 二式鋏 |  |  |
 | onizuka naoshi | 鬼束直 |  |  |
-| hayashibara hikari | 林原ひかり |  |  |
+| hayashibara hikari | 林原ひかり | 林原 ひかり（はやしばら ひかり）日本成年向漫画家。<br>作品以`lolicon`系较多。<br>主要作品：《小好女》系列<br>![图](# "https://ehgt.org/08/99/0899d68e222e87657e13b7ca187164447bd7765e-154798-854-1204-jpg_l.jpg") | [作者个人社团主页](http://www2.odn.ne.jp/momonga-kurabu/) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/林原ひかり) |
 | suzuki kyoutarou | 鈴木狂太郎 |  |  |
 | nekogen | 猫玄 |  |  |
 | kiya shii | 木谷椎 | 漫画家。近期作品主要以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/890394430116577281/oDzpR_CQ_400x400.jpg) | [Twitter](https://twitter.com/ishiyaki765) [Pixiv](https://www.pixiv.net/users/1895057) |
