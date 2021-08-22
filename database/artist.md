@@ -869,7 +869,7 @@ example:
 | guglielmo | ぐりえるも | ![图](# "https://ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg")<br>![图](# "https://ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") | [Twitter](https://twitter.com/guglielmo_hs) [Pixiv](https://www.pixiv.net/users/704774) [Fc2Blog](http://guriblog.blog39.fc2.com/) |
 | kusano yuu | 草野ゆぅ | ![图](# "https://ehgt.org/84/a2/84a2a65577b300681aad16d2e19633488604cb3c-2300734-2280-3280-jpg_l.jpg") |  |
 | matsuno susumu | 松野すすむ | ![图](# "https://ehgt.org/c0/39/c0391931aae172d7656c0f6b667541d8c294dde7-1640079-1512-2102-jpg_l.jpg") |  |
-| murasaki syu | むらさき朱 | ![图](# "https://ehgt.org/91/79/9179053a45f40dea3baa9fc5efbc98ecb948673e-865494-1024-1492-jpg_l.jpg") |  |
+| murasaki syu | むらさき朱 | むらさき 朱（むらさき しゅ） 日本成年向漫画家。擅长创作`exhibitionism`作品。<br>主要作品：《乳濁願書》《真露指導》（学生会长调教露出系列）<br>![图](# "https://ehgt.org/35/27/352780af8aabf11cb9e852d7e1be438af78be549-683318-1056-1500-jpg_l.jpg") | [Twitter](https://twitter.com/MurasakiSyu) [Pixiv](https://www.pixiv.net/users/7254842) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/むらさき朱) |
 | nishi iori | 西安 | ![图](# "https://ehgt.org/2c/32/2c323417c8780fe37544b72c48baa9a0bb12326d-3885059-2071-3000-jpg_l.jpg") |  |
 | ohara tometa | 小原トメ太 |  |  |
 | sakura koharu | さくら小春 |  |  |
