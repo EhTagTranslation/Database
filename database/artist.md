@@ -70,7 +70,7 @@ example:
 | sousouman | 草草馒 | ![草草饅](https://i.loli.net/2020/04/10/aT468kYUe9Sfpom.png)<br>草草饅，来自台湾，现住日本东京的插画家，是`hanahanamaki`的双胞胎妹妹，主要负责角色设计、着色和背景，爱好是玩游戏，看电影，听音乐等。 |  |
 | muk | MUK(むっく) | ![MUK头像](https://i.loli.net/2020/04/18/RBV1rnGYSXai6t5.png) | [Twitter](https://twitter.com/MUK_MonsieuR) [pixiv](https://www.pixiv.net/users/4234383) [个人网站](https://mukmonsieur.x.fc2.com) |
 | ore p 1-gou | 俺P1号 |  | [Twitter](https://twitter.com/orepnoone) [pixiv](https://www.pixiv.net/users/5903369) |
-| menyoujan | めんようじゃん |  |  |
+| menyoujan | めんようじゃん | 全彩同人志漫画家。上色细腻为主要特点。<br>经典作品：AZUS@TTACK（[梓喵打酱油 - 萌娘百科](https://zh.moegirl.org.cn/梓喵打酱油)）[Exhentai内搜索](https://exhentai.org/?f_search=AZUS@TTACK)<br>![图](# "https://ehgt.org/d6/22/d6227511c9c8db88f7e37ebc789daca6a434bfe2-1330552-1420-2000-jpg_l.jpg") |  |
 | hodumi kaoru | 八月朔日珈瑠 |  | [Twitter](https://twitter.com/hodumi_k) [pixiv](https://www.pixiv.net/users/764209) |
 | watsuki rumi | わつきるみ |  | [Twitter](https://twitter.com/watsukiya) [pixiv](https://www.pixiv.net/users/4016086) [个人网站](https://www.watsuki.com) |
 | soramoti | そらモチ |  | [Twitter](https://twitter.com/soramoti00) [pixv](https://www.pixiv.net/users/82569) [个人网站](http://sorahina.web.fc2.com) |
