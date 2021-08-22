@@ -1778,7 +1778,7 @@ example:
 | unno hotaru | 海野萤 |  |  |
 | watanabe wataru | わたなべわたる |  |  |
 | ikegami akane | 池上茜 |  |  |
-| gujira | ぐじら |  |  |
+| gujira | ぐじら | ぐじら是日本成人向漫画家，同人志创作者。<br>作品多为`shotacon`或`gyaru`<br>![图](# "https://ehgt.org/42/50/4250fd7d3978c7d6a76b00565f25b44e21c56c99-879573-1085-1500-jpg_l.jpg")<br>《ギャルとかビッチとか色々》 | [Twitter](https://twitter.com/gujira4) [Pixiv](https://www.pixiv.net/users/215082) |
 | xierra099 | Xierra099 |  |  |
 | inazuma | INAZUMA |  |  |
 | tomatto | とまっと |  |  |
