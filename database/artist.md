@@ -664,7 +664,7 @@ example:
 | bar peachpit | バー・ぴぃちぴっと |  |  |
 | higashiyama show | 东山翔 |  |  |
 | yoshino | よしの |  |  |
-| minion | みにおん |  |  |
+| minion | みにおん | みにおん 成年向漫画家<br>主要擅长画`shotacon`、`lolicon`。在画萝莉的过程之中，觉醒了对正太的热爱，称画可爱的少年是最快乐的事情。对儿童的凌辱、或被儿童凌辱、`incest`（母子相奸）的作品也有涉及。<br>![图](# "https://ehgt.org/a8/42/a84266339e4b7e99fe5df57b8016ab60827ec0a3-726851-1070-1500-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/みにおん) [Pixiv](https://www.pixiv.net/users/11414279) |
 | nishikibasami | 二式鋏 |  |  |
 | onizuka naoshi | 鬼束直 |  |  |
 | hayashibara hikari | 林原ひかり |  |  |
