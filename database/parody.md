@@ -232,7 +232,7 @@ example:
 | dragon quest viii | 勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主 |  |  |
 | dragon quest ix | 勇者斗恶龙IX 星空的守护者 |  |  |
 | dragon quest x | 勇者斗恶龙X 觉醒的五种族 Online |  |  |
-| dragon quest xi | 勇者斗恶龙XI 追寻逝去的时光 |  |  |
+| dragon quest xi | 勇者斗恶龙XI 追寻逝去的时光 | 《勇者斗恶龙XI 寻觅逝去的时光》（日语：ドラゴンクエストXI 過ぎ去りし時を求めて，英语：Dragon Quest XI: Echoes of an Elusive Age）是史克威尔艾尼克斯开发并发行在PlayStation 4、任天堂3DS、Windows和任天堂Switch平台上的电子角色扮演游戏。游戏是勇者斗恶龙系列第11部正传，也是系列诞生30周年的纪念作品。<br>![Logo](https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Dragon_Quest_XI_Sugisarishi_Toki_o_Motomete_Logo.jpg/220px-Dragon_Quest_XI_Sugisarishi_Toki_o_Motomete_Logo.jpg) | [官方网站](https://www.dq11.jp/) [维基百科](https://zh.wikipedia.org/wiki/勇者鬥惡龍XI_尋覓逝去的時光) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ドラゴンクエストXI_過ぎ去りし時を求めて) |
 | dragon quest dai no daibouken | 勇者斗恶龙 达尔大冒险 |  |  |
 | dragon quest monsters | 勇者斗恶龙怪兽篇 |  |  |
 | dragon quest yuusha abel densetsu | 勇者斗恶龙 勇者阿贝尔传说 |  |  |
