@@ -2115,6 +2115,7 @@ example:
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
 | okadatei | おかだ亭 |  |  |
 | niramikko koujou | にらみっ子工場 |  |  |
+| kaeri no kai 2 | 帰りの会2 | 同人游戏制作社团<br>![图](http://www.usamimi.info/~wakabakaoru/webgate2019.jpg) | [官方网站](http://www.usamimi.info/~wakabakaoru/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
