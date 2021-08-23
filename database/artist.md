@@ -491,7 +491,7 @@ example:
 | fei | 飞燕 |  |  |
 | miyano kintarou | 宫野金太郎 |  |  |
 | sumino yuuji | 速野悠二 |  |  |
-| shouji ayumu | 小路あゆむ | 漫画家。作品角色主要以`lolicon`为主。<br><br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2010/02/15/09/53/05/1489535_a1a451ce2f096dc83f562774d5c5eaa5_170.jpg) | [Twitter](https://twitter.com/kuma_sasa) [Pixiv](https://www.pixiv.net/users/170645) |
+| shouji ayumu | 小路步 | 小路あゆむ 是日本成人向漫画家。作品角色主要以`lolicon`为主。<br>![图](https://pbs.twimg.com/profile_images/1330877086009942019/CkxxUI3R_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/2b/4f/2b4f5f23a1fca19618a4e1d828b2afe4d2260191-790194-1053-1500-jpg_l.jpg")<br>单行本《ちいさいこいいよね… 》 | [Twitter](https://twitter.com/kuma_sasa) [Pixiv](https://www.pixiv.net/users/170645) |
 | maka fushigi | 魔訶不思議 |  |  |
 | draw2 | 土狼弐 |  |  |
 | muronaga chaashuu | 室永叉烧 |  |  |
