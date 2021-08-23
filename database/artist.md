@@ -3255,6 +3255,7 @@ example:
 | inuarasi | 犬嵐 | 喜欢犬耳（参照`dog girl`、`kemonomimi`）或幼女（参照`lolicon`、`toddlercon`）的插画师和同人志创作者。<br>![图](https://pbs.twimg.com/profile_images/1285906858360725507/xGerOpNG_400x400.jpg)<br>**作者推特头像** | [Twitter](https://twitter.com/inuarasi) [Pixiv](https://www.pixiv.net/users/6846) |
 | sasahara yuuki | 佐佐原忧树 | 佐々原憂樹是日本成人向漫画家、同人志创作者。<br>作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/879528495059148800/Y2mDvN-M_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/4d/d2/4dd287656b9d6715ed853bc1175f1dbf315bdc7e-738107-1058-1500-jpg_l.jpg")<br>单行本《ナイショのはっぴょう会。》 | [Twitter](https://twitter.com/sasa_hara2) |
 | wakaba kaoru | わかばかおる | わかばかおる 是日本插画师。<br>以成人向同人社团 `kaeri no kai 2`进行活动。作品以`lolicon`系同人游戏为主。<br>![图](https://ehgt.org/97/e6/97e601fd109f63c6d57fd3c8e911db2cf04ddbf7-158374-800-600-jpg_l.jpg) | [Pixiv](https://www.pixiv.net/users/124746) |
+| teruki kuma | てるき熊 | てるき熊是日本成人向`lolicon`系漫画家，同人志创作者，插画师。<br>![图](https://pbs.twimg.com/profile_images/1077451559930195968/4pEUYoXN_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/87/c9/87c926285e9019a3eedba81ef3a2767e238f4572-224042-856-1240-jpg_l.jpg")<br>单行本《夜は二人のもの》 | [Twitter](https://twitter.com/shirokumabukuro) [Pixiv](https://www.pixiv.net/users/1928922) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
