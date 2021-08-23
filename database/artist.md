@@ -3259,6 +3259,7 @@ example:
 | shitou | 四头 | 四頭是成人向同人游戏创作者。<br>以同人社团`4h`创作`exhibitionism`系或`humiliation`系游戏。<br>![图](https://pbs.twimg.com/profile_images/579639800916905985/_KGw8dTk_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/07/ed/07ed53b7f2fc98c5b2f60e66a369b7150434fcd4-1432162-1280-720-png_l.jpg") | [Twitter](https://twitter.com/sitou44) [Pixiv](https://www.pixiv.net/users/59388) |
 | ryunnu | りゅんぬ | りゅんぬ 是成人向`lolicon`系插画师。<br>![图](https://pbs.twimg.com/profile_images/1230863132823883776/bEqE-6ou_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/0a/b3/0ab3938643e7ea590b6472fdd361dfbe6f3f5a6c-124625-321-450-jpg_l.jpg") | [Twitter](https://twitter.com/kirin024jp) [Pixiv](https://www.pixiv.net/users/35261) |
 | sage | Sage（りゅんぬ ） | ※此标签考虑为与`ryunnu`为同义向。<br><br>りゅんぬ 是成人向`lolicon`系插画师。<br>![图](https://pbs.twimg.com/profile_images/1230863132823883776/bEqE-6ou_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/0a/b3/0ab3938643e7ea590b6472fdd361dfbe6f3f5a6c-124625-321-450-jpg_l.jpg") | [Twitter](https://twitter.com/kirin024jp) [Pixiv](https://www.pixiv.net/users/35261) |
+| hikami izuto | ひかみいずと | ひかみいずと是日本同人志创作者。作品以`lolicon`为主。<br>> “除了喜欢儿童以外其他的性癖都很平常。`big breasts`或异常的变态的有些不太喜欢” （翻译自pixiv简介）<br>![图](https://pbs.twimg.com/profile_images/875584846311051265/G5cMaO0m_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/c9/49/c9492e5e4d6962cb618288ae832c1f3f7eaded0d-2752812-2834-4031-jpg_l.jpg")<br>同人本《ほーかごりとるついん》 | [Twitter](https://twitter.com/h_izuto) [Pixiv](https://www.pixiv.net/users/5350) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
