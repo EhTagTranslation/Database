@@ -1032,7 +1032,7 @@ example:
 | fuyu mikan | 冬みかん |  |  |
 | hatch | ハッチ |  |  |
 | inoue yoshihisa | 井上よしひさ |  |  |
-| ken | KEN \| けん | INSERT<br>F/T |  |
+| ken | KEN \| けん | ※该标签有可能指向两位作者。<br>KEN `lolicon`系成人向漫画家<br>![图](https://pbs.twimg.com/profile_images/797439544077336577/05cw6g6E_400x400.jpg)<br>**KEN的推特头像**<br><br>けん Pixiv插画师<br>![图](https://pbs.twimg.com/profile_images/531128756220338178/e6w_Y7xi_400x400.jpeg)<br>**けん的推特头像** | [KEN - Twitter](https://twitter.com/KEN_ToppoBJ_R) [KEN - Pixiv](https://www.pixiv.net/users/31340928)<br>[けん - Twitter](https://twitter.com/ken553) [けん - Pixiv](https://www.pixiv.net/users/41739) |
 | kimura neito | 木村宁都 |  |  |
 | kir-rin | きりりん |  |  |
 | ootori ryuuji | おおとりりゅうじ |  |  |
