@@ -1411,7 +1411,7 @@ example:
 | benantoka | Beなんとか | 漫画家。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1394876090095575043/3sjkoGSU_400x400.jpg)<br>![图](# "https://ehgt.org/18/08/1808e7b90c182c2ca3365190d673db1621067801-1013841-1679-2479-jpg_l.jpg") | [Twitter](https://twitter.com/Damon_Baird) [Pixiv](https://www.pixiv.net/users/6001538) |
 | dynamite moca | ダイナマイトmoca |  |  |
 | sakurafubuki nel | 桜吹雪ねる |  |  |
-| urai tami | 浦井民 |  |  |
+| urai tami | 浦井民 | 浦井民是日本漫画家、插画师。<br>2006年在杂志《COMIC LO》上以作品《LET'S GET LOST》出道。<br>其作品主要以成人向的`lolicon`系漫画为主。<br>![图](https://pbs.twimg.com/profile_images/1258283002326511616/452ieDA__400x400.jpg)<br>**作者推特头像**<br><br>代表作品：《淫行をさせる行為》<br>![图](# "https://ehgt.org/e1/3d/e13d5870177b3941c7c0aca41a4381102b446121-784441-846-1200-jpg_l.jpg") | [Twitter](https://twitter.com/uraitami) [Pixiv](https://www.pixiv.net/users/592169) |
 | yusa | ゆさ |  |  |
 | gyuunyuu rinda | 牛乳リンダ |  |  |
 | usagi nagomu | うさぎなごむ |  |  |
