@@ -1522,7 +1522,7 @@ example:
 | dantetsu | 断铁 |  |  |
 | inuboshi | 犬星 | 犬星（いぬぼし）是日本漫画家。主要创作成人向的`lolicon`漫画。<br>代表作品：《月見荘のあかり》<br>![图](# "https://ehgt.org/6f/cc/6fcc869ddc87cbfa5e84c146f2de89f206f9edff-1009486-1141-1600-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/犬星) |
 | saitou tsukasa | さいとうつかさ |  |  |
-| shinkaida tetsuyarou | 新贝田铁也郎 |  |  |
+| shinkaida tetsuyarou | 新贝田铁也郎 | 新貝田鉄也郎 是日本的漫画家，人物设计师。其成年向作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/0a/7a/0a7ae96c7ad2a9954f365d99bba9649dd63208a8-1345899-1154-1600-jpg_l.jpg")<br>单行本《女子ショー》 | [Twitter](https://twitter.com/shinkaida) [ニコニコ静画](https://seiga.nicovideo.jp/comic/46442?track=official_pickup) |
 | sorimura youji | そりむらようじ |  | [pixiv](https://www.pixiv.net/users/36491)<br>[Twitter](https://twitter.com/sorimura) |
 | yamamoto kazue | 山本和枝 |  |  |
 | natsuo monaka | なつおもなか |  |  |
