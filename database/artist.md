@@ -1717,7 +1717,7 @@ example:
 | joy ride | JOY RIDE |  |  |
 | arima natsubon | ありまなつぼん |  |  |
 | ebi ebi | エビエビ |  |  |
-| gabyonuno | ガビョ布 |  |  |
+| gabyonuno | ガビョ布 | ガビョ布 是日本成年向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1024674448643780609/tjw3OV1X_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/9d/dd/9ddddfa39dc09bc13374429c62771ca4f9acd65c-738668-1735-1399-jpg_l.jpg")<br>单行本《日本全国豆投げ音頭》 | [Twitter](https://twitter.com/gabyo_nn) [Pixiv](https://twitter.com/gabyo_nn) |
 | heppokokun | へっぽこくん |  |  |
 | honda aru | 翻田亚流 |  |  |
 | hoshino fuuta | ほしのふうた | ほしのふうた 日本成人向漫画家。成人向同人志作家。擅长画`lolicon`<br>![图](# "https://ehgt.org/bb/b8/bbb875aa87dedc6188735a94a9e497c3aa1693f4-2113967-2160-3084-jpg_l.jpg") | [Twitter](https://twitter.com/h__futan) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ほしのふうた) |
