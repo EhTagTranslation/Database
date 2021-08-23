@@ -1520,7 +1520,7 @@ example:
 | mitaonsya | MITAONSYA |  |  |
 | tokumi yuiko | 笃见唯子 |  |  |
 | dantetsu | 断铁 |  |  |
-| inuboshi | 犬星 |  |  |
+| inuboshi | 犬星 | 犬星（いぬぼし）是日本漫画家。主要创作成人向的`lolicon`漫画。<br>代表作品：《月見荘のあかり》<br>![图](# "https://ehgt.org/6f/cc/6fcc869ddc87cbfa5e84c146f2de89f206f9edff-1009486-1141-1600-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/犬星) |
 | saitou tsukasa | さいとうつかさ |  |  |
 | shinkaida tetsuyarou | 新贝田铁也郎 |  |  |
 | sorimura youji | そりむらようじ |  | [pixiv](https://www.pixiv.net/users/36491)<br>[Twitter](https://twitter.com/sorimura) |
