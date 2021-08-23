@@ -3254,6 +3254,7 @@ example:
 | anyanko | あにゃんこ | あにゃんこ 是日本成年向插画师、漫画家。<br>> “我是在Pixiv上投稿`lolicon`的成人向作品的あにゃんこ。非常感谢大家一直以来观看我创作的插画。 🐱在 Pixiv或PixivFanBox上可以看到更多的作品。非常期待您的前来！ pixivFANBOX” （翻译自作者推特简介）<br>> “在本账号内容包含非常不合常识而且不道德的行为和情景的描写，绝对不可以模仿。观看作品的同时须遵守法律法规哦”（翻译自作者Pixiv简介）<br>![图](https://pbs.twimg.com/profile_images/1370760252711309313/mbKtsnkl_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/42/4a/424ac07dafa8fb5e55bd92c4b5b6b4ae77c38bcf-3140184-2040-2880-jpg_l.jpg")<br>单行本《小さな性》 | [Twitter](https://twitter.com/rtixxcgbu2kbv9y) [Pixiv](https://www.pixiv.net/users/3625630) |
 | inuarasi | 犬嵐 | 喜欢犬耳（参照`dog girl`、`kemonomimi`）或幼女（参照`lolicon`、`toddlercon`）的插画师和同人志创作者。<br>![图](https://pbs.twimg.com/profile_images/1285906858360725507/xGerOpNG_400x400.jpg)<br>**作者推特头像** | [Twitter](https://twitter.com/inuarasi) [Pixiv](https://www.pixiv.net/users/6846) |
 | sasahara yuuki | 佐佐原忧树 | 佐々原憂樹是日本成人向漫画家、同人志创作者。<br>作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/879528495059148800/Y2mDvN-M_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/4d/d2/4dd287656b9d6715ed853bc1175f1dbf315bdc7e-738107-1058-1500-jpg_l.jpg")<br>单行本《ナイショのはっぴょう会。》 | [Twitter](https://twitter.com/sasa_hara2) |
+| wakaba kaoru | わかばかおる | わかばかおる 是日本插画师。<br>以成人向同人社团 `kaeri no kai 2`进行活动。作品以`lolicon`系同人游戏为主。<br>![图](https://ehgt.org/97/e6/97e601fd109f63c6d57fd3c8e911db2cf04ddbf7-158374-800-600-jpg_l.jpg) | [Pixiv](https://www.pixiv.net/users/124746) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
