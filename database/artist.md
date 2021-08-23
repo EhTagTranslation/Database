@@ -3263,6 +3263,7 @@ example:
 | e10 | e10 | e10是日本同人志创作者，作品以成年向`lolicon`系为主。<br>![图](# "https://ehgt.org/be/69/be691d12f041fc7535db1483238d88e0aba2a4e7-300752-600-857-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/6849) |
 | tawawaringo | たわわりんご | 漫画家`usakun`的曾用笔名。 | [Twitter](https://twitter.com/merikomiringo) |
 | ujiie moku | 氏家もく | 氏家もく 是日本漫画家，同人志创作者。作品以成年向的`lolicon`系漫画为主。<br>![图](# "https://ehgt.org/ba/3d/ba3dd17e0312f0f78e8b63de358cb680c9337da9-3617721-2040-2880-png_l.jpg")<br>单行本《おしりはないしょ》 | [Pixiv](https://www.pixiv.net/users/1577765) |
+| urotan | うろたん | うろたん是日本漫画家。<br><br>作品特点：可爱的外表和柔滑的肌肤描写使其作品大受欢迎。甚至在他的成人向漫画《Newmanoid CAM》的宣传书腰上，付着“最強汁絵師”的煽动广告。<br>作者在成年向游戏的原画等成人向的领域为中心活动、但在2005年之后作为轻小说『アストロ!乙女塾!』的插画担当活跃中。<br>经典作品：《Newmanoid CAM》<br>![图](# "https://ehgt.org/8b/06/8b060bcddac1d9d84d1d1edc163b101a3e622354-681542-1953-1400-jpg_l.jpg")<br>![图](# "https://ehgt.org/28/b7/28b7252930ad4d5b35371263a407abd26274b487-1169892-2847-2465-jpg_l.jpg") | [Twitter](https://twitter.com/urotan) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
