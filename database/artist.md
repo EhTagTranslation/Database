@@ -695,7 +695,7 @@ example:
 | ayakase riberi | 綾枷りべり |  |  |
 | yuasa | ゆあさ |  |  |
 | genzaburoh | Genzaburoh |  |  |
-| smac | SMAC |  |  |
+| smac | SMAC | SMAC 成人向同人志作者，以社团`activa`进行创作。作品是主要内容以`exhibitionism`为题材的`full color`同人本。<br>![图](https://pbs.twimg.com/profile_images/1424401863718313988/YgpeBUwS_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/2f/e4/2fe482537d29a3b0c0b0c0ab010d779dff6af581-1178260-1072-1500-jpg_l.jpg")<br>露出オトメLO「ひとりでハダカ…できるもんっ!〜藤田明日香〜」 | [Twitter](https://twitter.com/ACTIVA_web) [Pixiv](https://www.pixiv.net/users/91048) |
 | hie himiko | 日枝御子 |  |  |
 | hisakawa tinn | 久川ちん |  |  |
 | mizuhara yuu | 水原优 |  |  |
