@@ -2746,7 +2746,7 @@ example:
 | rogobo | ろごぼ |  | [pixiv](https://www.pixiv.net/users/27978040) [Twitter](https://twitter.com/RGB_0127) |
 | momoya show-neko | 桃屋しょう猫 |  | [pixiv](https://www.pixiv.net/users/2622704) |
 | mashiro yukiya | 真白雪夜 |  |  |
-| hikagi tatsuhiko | 绯键龙彦 |  | [Twitter](https://twitter.com/hikagi) [pixiv](https://www.pixiv.net/users/3957) |
+| hikagi tatsuhiko | 绯键龙彦 | 緋鍵龍彦是日本的漫画家、插画师。<br>作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1164818471584030722/B2lO__Xh_400x400.jpg)<br>**作者推特头像**<br><br>单行本《ぷらいまり》<br>![图](# "https://ehgt.org/e5/0c/e50c7d9ce898dd6677ca797f1472f94dfc305fe4-1021563-1809-1600-jpg_l.jpg") | [Twitter](https://twitter.com/hikagi) [pixiv](https://www.pixiv.net/users/3957) |
 | tekehiro | てけひろ | ![てけひろ头像](https://i.jpg.dog/file/jpg-dog/d8573ac5100a77d7bc9fd291ce21c44a.png) | [Twitter](https://twitter.com/tekehiro) [pixiv](https://www.pixiv.net/users/19275) |
 | marumikan | 丸美甘 | ![丸美甘头像](https://i.jpg.dog/file/jpg-dog/cd32bb63c8e660ff42347fed5f611955.jpg) | [Twitter](https://twitter.com/maru3kan) [pixiv](https://www.pixiv.net/users/31765636) [日文维基](https://ja.wikipedia.org/wiki/丸美甘) |
 | yamato bambies | ヤマトバンビーズ |  | [Twitter](https://twitter.com/bambi_es) [pixiv](https://www.pixiv.net/users/9009006) |
