@@ -3261,6 +3261,7 @@ example:
 | sage | Sage（りゅんぬ ） | ※此标签考虑为与`ryunnu`为同义向。<br><br>りゅんぬ 是成人向`lolicon`系插画师。<br>![图](https://pbs.twimg.com/profile_images/1230863132823883776/bEqE-6ou_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/0a/b3/0ab3938643e7ea590b6472fdd361dfbe6f3f5a6c-124625-321-450-jpg_l.jpg") | [Twitter](https://twitter.com/kirin024jp) [Pixiv](https://www.pixiv.net/users/35261) |
 | hikami izuto | ひかみいずと | ひかみいずと是日本同人志创作者。作品以`lolicon`为主。<br>> “除了喜欢儿童以外其他的性癖都很平常。`big breasts`或异常的变态的有些不太喜欢” （翻译自pixiv简介）<br>![图](https://pbs.twimg.com/profile_images/875584846311051265/G5cMaO0m_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/c9/49/c9492e5e4d6962cb618288ae832c1f3f7eaded0d-2752812-2834-4031-jpg_l.jpg")<br>同人本《ほーかごりとるついん》 | [Twitter](https://twitter.com/h_izuto) [Pixiv](https://www.pixiv.net/users/5350) |
 | e10 | e10 | e10是日本同人志创作者，作品以成年向`lolicon`系为主。<br>![图](# "https://ehgt.org/be/69/be691d12f041fc7535db1483238d88e0aba2a4e7-300752-600-857-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/6849) |
+| tawawaringo | たわわりんご | 漫画家`usakun`的曾用笔名。 | [Twitter](https://twitter.com/merikomiringo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
