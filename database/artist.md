@@ -282,7 +282,7 @@ example:
 | ooooalikui | おおおおありくい |  |  |
 | juna juna juice | ジュナジュナジュース |  |  |
 | hiro hiroki | ひろひろき |  |  |
-| yone kinji | 与根金次 |  |  |
+| yone kinji | 与根金次 | 与根金次 是日本成人向同人志创作者，插画师。<br>主要参与18禁游戏和漫画制作。原创作品和`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1280186795209048071/Kj1xuz46_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/11/02/1102eb998e5d5edfe71fb2e59c907a385464e7c7-1230798-1433-2024-png_l.jpg")<br>同人志《はだかランドセル部2018》 | [Twitter](https://twitter.com/yonekinji_diy) [Pixiv](https://www.pixiv.net/users/60644) |
 | zankuro | ザンクロー |  |  |
 | wa | WA |  |  |
 | satou kuuki | 左藤空气 |  |  |
