@@ -3265,6 +3265,7 @@ example:
 | ujiie moku | 氏家もく | 氏家もく 是日本漫画家，同人志创作者。作品以成年向的`lolicon`系漫画为主。<br>![图](# "https://ehgt.org/ba/3d/ba3dd17e0312f0f78e8b63de358cb680c9337da9-3617721-2040-2880-png_l.jpg")<br>单行本《おしりはないしょ》 | [Pixiv](https://www.pixiv.net/users/1577765) |
 | urotan | うろたん | うろたん是日本漫画家。<br><br>作品特点：可爱的外表和柔滑的肌肤描写使其作品大受欢迎。甚至在他的成人向漫画《Newmanoid CAM》的宣传书腰上，付着“最強汁絵師”的煽动广告。<br>作者在成年向游戏的原画等成人向的领域为中心活动、但在2005年之后作为轻小说『アストロ!乙女塾!』的插画担当活跃中。<br>经典作品：《Newmanoid CAM》<br>![图](# "https://ehgt.org/8b/06/8b060bcddac1d9d84d1d1edc163b101a3e622354-681542-1953-1400-jpg_l.jpg")<br>![图](# "https://ehgt.org/28/b7/28b7252930ad4d5b35371263a407abd26274b487-1169892-2847-2465-jpg_l.jpg") | [Twitter](https://twitter.com/urotan) |
 | kaishinshi | 怪绅士 | カイシンシ 是日本漫画家，插画师。<br>2002年，以作品《いちばん♥ -ICHIBANN HEART-》在杂志《COMICパピポ》出道。现在主要在茜新社成人向出版社以及秋田書店等一般向漫画出版社活动。<br>成人向作品主要以`lolicon`漫画为主。<br>同人社团：`kaitoushinshidan`<br><br>![图](https://pbs.twimg.com/profile_images/1426067110061428736/cuTYAimD_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/5b/b6/5bb651e09429aac7f8434bc45bb78f12dda02f40-4021019-2513-3537-jpg_l.jpg")<br>同人本《はむよし (アイドルマスター シンデレラガールズ)》 | [Twitter](https://twitter.com/kaishinshi) [Pixiv](https://www.pixiv.net/users/28865) |
+| kakkuu | 滑空 | 滑空是日本的漫画家，同人志创作者，插画师。其作品以`lolicon`系漫画为主。<br><br>![图](# "https://ehgt.org/a9/9a/a99a871a4eac5ca9e030aa5338a88b41a3b43047-791645-1367-2000-jpg_l.jpg")<br>单行本《しゅーしゅくしゅ！》 | [Twitter](https://twitter.com/THE_KING_NEET) [Pixiv](https://www.pixiv.net/users/76190) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
