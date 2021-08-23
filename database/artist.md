@@ -3078,7 +3078,7 @@ example:
 | gyozanuko | 餃子ぬこ |  | [Twitter](https://twitter.com/gyozanuko) [pixiv](https://www.pixiv.net/users/10450946) |
 | raptor7 | ラプトル７ |  | [Twitter](https://twitter.com/raputoru7) [pixiv](https://www.pixiv.net/users/717077) |
 | toshi | toshi |  | [pixiv](https://www.pixiv.net/users/637016) |
-| taishinkokuoh anton | 大秦国王安敦 |  | [Twitter](https://twitter.com/taisinkoku) |
+| taishinkokuoh anton | 大秦国王安敦 | ![图](https://pbs.twimg.com/profile_images/1035779125644914688/pwOOIT1v_400x400.jpg)<br>**作者推特头像**<br>大秦国王安敦是日本成年向漫画家，同人志创作者。作品多为`lolicon`系漫画。<br><br>单行本《小さくってもイけるのよ》<br>![图](# "https://ehgt.org/ef/6c/ef6cb4e707a25204df2e83f5bf2ae674160ea568-1347475-1400-1986-jpg_l.jpg") | [Twitter](https://twitter.com/taisinkoku) |
 | wanyanaguda | 完颜阿骨打 | 完顔阿骨打 | [Twitter](https://twitter.com/wanaguda) [pixiv](https://www.pixiv.net/users/8197147/) |
 | kaede | ゆか | 白键系列画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [Twitter](https://twitter.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
