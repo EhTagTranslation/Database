@@ -1055,7 +1055,7 @@ example:
 | junk kameyoko | JUNK龟横 |  |  |
 | mizutenka | 水点下 |  |  |
 | maro | MARO |  |  |
-| eb110ss | EB110SS |  |  |
+| eb110ss | EB110SS | EB110SS（いーびー ひゃくじゅう えすえす）是日本的男性漫画家。主要在商业杂志上画成人向漫画。作品主要为`lolicon`系漫画。<br>![图](# "https://ehgt.org/50/41/5041799b16d0fe5954ddc48dbaed4fd58d9dcea4-1039445-1057-1500-jpg_l.jpg")<br>单行本《育ちざかりはスゴかった》 | [Twitter](https://twitter.com/eb110ss) |
 | equal | イコール |  |  |
 | hippopotamus | ひぽぽたます |  |  |
 | mikan r | みかんR |  |  |
