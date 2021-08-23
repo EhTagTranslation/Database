@@ -1567,7 +1567,7 @@ example:
 | kiyose kaoru | キヨセ薫 |  |  |
 | asanagi | 朝凪 |  |  |
 | kikunyi | 菊にぃ |  |  |
-| lasto | らすと～ |  |  |
+| lasto | らすと～ | らすと～是日本同人志创作者，插画师。作品以成人向，`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1318749400961675265/x8Rtd1cT_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/65/8d/658d8df73b6818611ea12661ab34987aa850545c-924086-2080-3025-jpg_l.jpg")<br>同人本《妹が風呂場で思いっきり いじくり回してきた。》 | [Twitter](https://twitter.com/SKhorosho) [Pixiv](https://www.pixiv.net/users/45454) |
 | yoroduya hyakuhachi | 万屋百八 |  |  |
 | takapiko | たかぴこ |  |  |
 | kobayashi chisato | 小林ちさと |  |  |
