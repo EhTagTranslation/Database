@@ -340,7 +340,7 @@ example:
 | alpha alf layla | α・アルフライラ |  |  |
 | tori hrami | 鳥ハラミ |  |  |
 | mori marimo | もりまりも |  |  |
-| fujisaka lyric | 藤坂リリック |  |  |
+| fujisaka lyric | 藤坂リリック | 藤坂リリック 是日本成年向漫画家、同人志创作者、插画师。<br>作品主要以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1030343460128051201/8yWrzr55_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/9e/9d/9e9d71e1b7b209bd0561f79d1f24af4915c0b246-604778-792-1111-jpg_l.jpg")<br>单行本《ぷらちな性徴期》 | [Twitter](https://twitter.com/pico2_lyric) [Pixiv](https://www.pixiv.net/users/122444) |
 | mori kouichirou | 杜講一郎 |  |  |
 | sakura akami | さくらあかみ |  |  |
 | hatomugi munmun | 鳩麦月々 |  |  |
