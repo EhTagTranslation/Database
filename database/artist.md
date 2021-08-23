@@ -3269,6 +3269,7 @@ example:
 | urajirou | 杉浦次郎 | 杉浦次郎是日本漫画家，同人志作家。作品多为`lolicon`系漫画。<br>![图](https://pbs.twimg.com/profile_images/1383050286327943176/3Xivly5l_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/3b/48/3b48f63b9f080f3767aba871ded917bd553c8874-251267-1067-1500-jpg_l.jpg")<br>单行本《俺の嫁メモリアル 》 | [Twitter](https://twitter.com/sugiura_jirou) [Pixiv](https://www.pixiv.net/users/1504297) |
 | chuushin kuranosuke | 忠臣藏之介 | 忠臣蔵之介是以创作成年向作品为中心的漫画家。也参与18禁游戏的原画等创作。<br>在NicoNico动画上以赤穂老師为名发表作品。<br>成年向漫画作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/2333389172/3uysxs2xp3c3tli0jedp_400x400.jpeg)<br>**作者推特头像**<br>同人本《真宵秘事～マヨヒゴト～ (化物語)》<br>![图](# "https://ehgt.org/ad/a9/ada99f292756a20421eb4e72847c6732f887416c-1067185-2151-3036-jpg_l.jpg") | [Twitter](https://twitter.com/chu_shin_kura) [Pixiv](https://www.pixiv.net/users/3456926) [NicoNico](https://www.nicovideo.jp/user/770437) |
 | tsukiyoshi hiroki | 月吉ヒロキ | 月吉 ヒロキ是日本漫画家。成人向作品主要以`lolicon`系以及`chikan`为主。<br><br>作品主要特点、在电车内的痴汉描写，以及甚至到被称作黑丝袜鬼神（黒タイツの鬼神）对穿着黑丝袜的拘泥程度。<br>![图](https://pbs.twimg.com/profile_images/707097617210060801/7-Oed9OP_400x400.jpg)<br>**作者推特头像**<br><br>单行本《夏蟲》<br>![图](# "https://ehgt.org/05/19/0519b73f632e3819b27e1266ee88a1c13b8e4bfa-387590-1098-1400-jpg_l.jpg") | [Twitter](https://twitter.com/thiroki) |
+| tomozawa shou | 智泽渚优 | 智沢渚優 是成人向漫画家、同人志作者。<br>作品以`lolicon`系为主。<br><br>单行本《ぷにスジ♡こロリん》<br>![图](# "https://ehgt.org/de/08/de087090b35ebc0d92c89a45f6f17c3ec1593bbc-729346-1942-2400-jpg_l.jpg") |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
