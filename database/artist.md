@@ -3262,6 +3262,7 @@ example:
 | hikami izuto | ひかみいずと | ひかみいずと是日本同人志创作者。作品以`lolicon`为主。<br>> “除了喜欢儿童以外其他的性癖都很平常。`big breasts`或异常的变态的有些不太喜欢” （翻译自pixiv简介）<br>![图](https://pbs.twimg.com/profile_images/875584846311051265/G5cMaO0m_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/c9/49/c9492e5e4d6962cb618288ae832c1f3f7eaded0d-2752812-2834-4031-jpg_l.jpg")<br>同人本《ほーかごりとるついん》 | [Twitter](https://twitter.com/h_izuto) [Pixiv](https://www.pixiv.net/users/5350) |
 | e10 | e10 | e10是日本同人志创作者，作品以成年向`lolicon`系为主。<br>![图](# "https://ehgt.org/be/69/be691d12f041fc7535db1483238d88e0aba2a4e7-300752-600-857-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/6849) |
 | tawawaringo | たわわりんご | 漫画家`usakun`的曾用笔名。 | [Twitter](https://twitter.com/merikomiringo) |
+| ujiie moku | 氏家もく | 氏家もく 是日本漫画家，同人志创作者。作品以成年向的`lolicon`系漫画为主。<br>![图](# "https://ehgt.org/ba/3d/ba3dd17e0312f0f78e8b63de358cb680c9337da9-3617721-2040-2880-png_l.jpg")<br>单行本《おしりはないしょ》 | [Pixiv](https://www.pixiv.net/users/1577765) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
