@@ -1770,7 +1770,7 @@ example:
 | kanou soukyuu | 狩野苍穹 |  |  |
 | kurokawa mio | 黒河澪 |  |  |
 | mizukami ranmaru | 水上兰丸 |  |  |
-| ogawa kanran | おがわ甘藍 |  |  |
+| ogawa kanran | 小川甘蓝 | 小川幸辰是日本漫画家、作家。出生于东京都、现居住于千叶县。男性。在发表成年向杂志或同人志时以小川甘蓝（おがわ甘藍）的名义活动。<br><br>其成年向作品多以`lolicon`漫画为主。<br>![图](# "https://ehgt.org/f9/5a/f95acf8e4ba80998f0e5e77110adbd084b4e0d8d-289254-856-1218-jpg_l.jpg")<br>单行本《いけない少女》 | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/小川幸辰) |
 | orizumeda nyoizou | 折诘田如意三 |  |  |
 | tanaka juice | 田中十酢 |  |  |
 | tom tamio | 都夢たみお |  |  |
