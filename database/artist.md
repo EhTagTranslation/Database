@@ -655,7 +655,7 @@ example:
 | itou | いトう |  |  |
 | usashiro mani | うさ城まに |  | [Twitter](https://twitter.com/mayumani2) [pixiv](https://www.pixiv.net/users/7367) |
 | ookami uo | オオカミうお |  |  |
-| kawady max | カワディMAX |  |  |
+| kawady max | カワディMAX | カワディMAX 日本成人向漫画家，同人本作者。作品以`lolicon`系为主。<br>作品风格：主要以架空的少女为题材的没有救赎希望的恶毒的剧情展开的鬼畜系漫画。<br>![图](https://pbs.twimg.com/profile_images/619282028387700736/MGbO3mHu_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/d5/6a/d56a53d44d77f362a54c401b215f675857c17796-352496-1296-1843-jpg_l.jpg")<br>单行本《ちる奴隷ん 》 | [Twitter](https://twitter.com/kawadyMAX) |
 | kimio tamako | きみおたまこ |  |  |
 | quzilax | クジラックス | クジラックス（quzilax、1985年12月9日- ）、日本成年向漫画家、同人作家。<br>作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/ae/03/ae03b877d718e6ae2e9f9e016d78ceef2a937da4-1377790-1062-1500-jpg_l.jpg") | [Twitter](https://twitter.com/quzilaxxx) [Pixiv](https://www.pixiv.net/users/92875) |
 | gorgeous takarada | ゴージャス宝田 | ゴージャス 宝田（ごーじゃす たからだ、Gorgeous Takarada）、日本成年向漫画家。作品多以`lolicon`系为主。<br>![图](# "https://ehgt.org/98/72/9872df03eb4c2e2234173db1a1e0638ae1a6f1de-1140757-1057-1500-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/35935956) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ゴージャス宝田) |
