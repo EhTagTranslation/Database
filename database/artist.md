@@ -3273,6 +3273,7 @@ example:
 | nakamura mizumo | 中村みずも | 中村みずも是成人向漫画家，同人志作家。<br>作品以`lolicon`系为主。多与`alice in wonderland`相关联。<br>![图](# "https://ehgt.org/81/69/816956096f96c2682e58bd71ee2d1217a7eddc63-472983-1961-1600-jpg_l.jpg")<br>单行本《アリスの悪戯》 |  |
 | nendo. | ねんど。 | ねんど。是日本成人向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1243724258926194688/jcB1cryQ_400x400.jpg)<br>**作者推特头像**<br><br>单行本《いちごにゅうにゅう》<br>![图](# "https://ehgt.org/61/8e/618e2d0e9474e686acb6277021b2b181af8f489e-501760-1131-1450-jpg_l.jpg") | [Twitter](https://twitter.com/nennennendo) |
 | hokama mitsuri | ほかまみつり | ほかまみつりは是日本漫画家。主要创作成年向`lolicon`系漫画。<br>擅长画与弱小的肢体不相平衡的`big breasts`少女，以及`oppai loli`<br>![图](# "https://ehgt.org/3d/09/3d099173618b6b8c2c2edb357687f6da748b9c41-647652-1615-1400-jpg_l.jpg")<br>《感じるおっぱい発育中》 | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ほかまみつり) |
+| horihone saizou | 掘骨碎三 | 掘骨砕三 是日本成年向漫画家。作品以`lolicon`、`futanari`、`shotacon`居多，以及包含`body modification`等重口的性癖描写。<br>![图](# "https://ehgt.org/49/0c/490c1d9b1fe3edcac690e054e8ba8b83e1483be2-1002764-1038-1500-jpg_l.jpg")<br>单行本《ないしょよぉ♡》 | [Twitter](https://twitter.com/NatakawaK) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
