@@ -3271,6 +3271,7 @@ example:
 | tsukiyoshi hiroki | 月吉ヒロキ | 月吉 ヒロキ是日本漫画家。成人向作品主要以`lolicon`系以及`chikan`为主。<br><br>作品主要特点、在电车内的痴汉描写，以及甚至到被称作黑丝袜鬼神（黒タイツの鬼神）对穿着黑丝袜的拘泥程度。<br>![图](https://pbs.twimg.com/profile_images/707097617210060801/7-Oed9OP_400x400.jpg)<br>**作者推特头像**<br><br>单行本《夏蟲》<br>![图](# "https://ehgt.org/05/19/0519b73f632e3819b27e1266ee88a1c13b8e4bfa-387590-1098-1400-jpg_l.jpg") | [Twitter](https://twitter.com/thiroki) |
 | tomozawa shou | 智泽渚优 | 智沢渚優 是成人向漫画家、同人志作者。<br>作品以`lolicon`系为主。<br><br>单行本《ぷにスジ♡こロリん》<br>![图](# "https://ehgt.org/de/08/de087090b35ebc0d92c89a45f6f17c3ec1593bbc-729346-1942-2400-jpg_l.jpg") |  |
 | nakamura mizumo | 中村みずも | 中村みずも是成人向漫画家，同人志作家。<br>作品以`lolicon`系为主。多与`alice in wonderland`相关联。<br>![图](# "https://ehgt.org/81/69/816956096f96c2682e58bd71ee2d1217a7eddc63-472983-1961-1600-jpg_l.jpg")<br>单行本《アリスの悪戯》 |  |
+| nendo. | ねんど。 | ねんど。是日本成人向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1243724258926194688/jcB1cryQ_400x400.jpg)<br>**作者推特头像**<br><br>单行本《いちごにゅうにゅう》<br>![图](# "https://ehgt.org/61/8e/618e2d0e9474e686acb6277021b2b181af8f489e-501760-1131-1450-jpg_l.jpg") | [Twitter](https://twitter.com/nennennendo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
