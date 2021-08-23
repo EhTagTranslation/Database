@@ -1506,7 +1506,7 @@ example:
 | tomokichi | 友吉 |  |  |
 | nagi ichi | 凪市 |  |  |
 | ponz | ぽん酢 |  |  |
-| arekusa mahone | 荒草まほん |  |  |
+| arekusa mahone | 荒草まほん | 荒草まほん 是日本成人向同人志创作者，插画师。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1399597412495224839/h6oSH216_400x400.png)<br>**作者推特头像**<br>![图](# "https://ehgt.org/80/7a/807aab9214bbd267548261f9b6d4373e2d8f2c1d-4797534-4259-5735-jpg_l.jpg")<br>同人本《SMILE FOR YOU EX (スマイルプリキュア!)》 | [Twitter](https://twitter.com/mahoone) [Pixiv](https://www.pixiv.net/users/476409) |
 | akasa ai | あかさあい |  |  |
 | mizu umi | 瑞海 |  |  |
 | hisato | ひさと |  |  |
