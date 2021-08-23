@@ -2108,7 +2108,7 @@ example:
 | labui | 羅ぶい |  |  |
 | tanaka ginji | 田中银二 |  |  |
 | tetsuyama kaya | 鉄山かや |  |  |
-| oota takeshi | おおたたけし |  |  |
+| oota takeshi | 大田武志 | おおた たけし是日本的成人向漫画家、原画师、插画师。别名 大田 武志。其作品多为`lolicon`系。<br>![图](https://pbs.twimg.com/profile_images/1239566251128524800/_rIlbdXN_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/3c/3f/3c3fd4ee3e1eb503139c510e69951e1b01376663-213387-852-1200-jpg_l.jpg")<br>单行本《ちっちゃいトコ♡スキ!》 | [Twitter](https://twitter.com/ohtado_oo) [Pixiv](https://www.pixiv.net/users/5802446) |
 | sora inoue | いのうえ空 |  |  |
 | tan jiu | 坛九 |  | [微博](https://weibo.com/u/1300957955) |
 | shigeru | しげる |  |  |
