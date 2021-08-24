@@ -3280,6 +3280,7 @@ example:
 | minasuki popuri | みなすきぽぷり | みなすきぽぷり<br>日本漫画家，以成人向漫画创作为主。<br>1993起开始同人志创作活动，1999年在杂志《COMIC瑠璃姫》上商业出道。2006年后以椎木冊也的笔名也发表过作品。<br>![图](https://pbs.twimg.com/profile_images/1362385554675884032/PNk0yV8K_400x400.jpg)<br>**作者推特头像**<br><br>单行本《ないしょのむりくり》<br>![图](# "https://ehgt.org/b2/c8/b2c8c73e7d27288e7e2fbf20eee86965fc50c5d4-1179376-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/minasuki_popuri) [Pixiv](https://www.pixiv.net/users/71440) |
 | hoshino shiho | 星野志保 | 作者`miyashita miki`的别用名 | [Twitter](https://twitter.com/mikimiyashita) |
 | miyashita miki | 宫下未纪 | 宮下未紀 是日本的女性漫画家・插画师。早期主要以创作成人向漫画为中心、近年通过漫画化热门的轻小说获得敬业，开始从事一般向漫画的创作。作者出生和居住于神奈川县。<br><br>社团信息：<br>以男性向同人志社团“`miyu yamano`”进行活动。与小说创作者姫乃樹ゆか组成的社团“Twin-Fizz”、在`yaoi`方面以别名“`hoshino shiho`”（社团名：FireCracker・Cromwell）发表作品。<br>![图](https://pbs.twimg.com/profile_images/855434212232396801/VSlQhz18_400x400.jpg)<br>**作者推特头像**<br>作品类型：`lolicon`、`magical girl`<br><br>单行本《キスきゅー》<br>![图](# "https://ehgt.org/05/0d/050d0fc1d799dc4bdab008ebaad4bff2d2ab6843-425070-1434-1221-jpg_l.jpg") | [Twitter](https://twitter.com/mikimiyashita) |
+| yamamoto kumoi | 山本云居 | 山本 雲居是日本 漫画家。主要创作成人向漫画。独特的作品风格给人深刻印象，被称赞为是“鬼畜萝莉系作家的鬼才”。现在以停止商业漫画的创作。<br>作品主要类型：`lolicon`<br><br>单行本《マーブルケェキ》<br>![图](# "https://ehgt.org/ba/3e/ba3e6d83a5d668cc73401a090938a0ec6fe2e60c-346807-950-1200-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/山本雲居) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
