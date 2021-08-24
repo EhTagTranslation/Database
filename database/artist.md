@@ -3281,6 +3281,7 @@ example:
 | hoshino shiho | 星野志保 | 作者`miyashita miki`的别用名 | [Twitter](https://twitter.com/mikimiyashita) |
 | miyashita miki | 宫下未纪 | 宮下未紀 是日本的女性漫画家・插画师。早期主要以创作成人向漫画为中心、近年通过漫画化热门的轻小说获得敬业，开始从事一般向漫画的创作。作者出生和居住于神奈川县。<br><br>社团信息：<br>以男性向同人志社团“`miyu yamano`”进行活动。与小说创作者姫乃樹ゆか组成的社团“Twin-Fizz”、在`yaoi`方面以别名“`hoshino shiho`”（社团名：FireCracker・Cromwell）发表作品。<br>![图](https://pbs.twimg.com/profile_images/855434212232396801/VSlQhz18_400x400.jpg)<br>**作者推特头像**<br>作品类型：`lolicon`、`magical girl`<br><br>单行本《キスきゅー》<br>![图](# "https://ehgt.org/05/0d/050d0fc1d799dc4bdab008ebaad4bff2d2ab6843-425070-1434-1221-jpg_l.jpg") | [Twitter](https://twitter.com/mikimiyashita) |
 | yamamoto kumoi | 山本云居 | 山本 雲居是日本 漫画家。主要创作成人向漫画。独特的作品风格给人深刻印象，被称赞为是“鬼畜萝莉系作家的鬼才”。现在以停止商业漫画的创作。<br>作品主要类型：`lolicon`<br><br>单行本《マーブルケェキ》<br>![图](# "https://ehgt.org/ba/3e/ba3e6d83a5d668cc73401a090938a0ec6fe2e60c-346807-950-1200-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/山本雲居) |
+| marcy dog | MARCYどっぐ | 成人向同人作家。<br>![图](https://pbs.twimg.com/profile_images/1704253925/marcy_face_400x400.jpg)<br>**作者推特头像**<br>同人本《なつやすみの手引き》<br>![图](# "https://ehgt.org/a2/be/a2bea6fd7207c7593932d45bf0b8d38ad754cec5-4539716-3269-4926-jpg_l.jpg") | [Twitter](https://twitter.com/marcydog) [Pixiv](https://www.pixiv.net/users/10394) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
