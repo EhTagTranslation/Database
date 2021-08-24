@@ -780,7 +780,7 @@ example:
 | katou jun | 加藤じゅん |  |  |
 | kuroda ariake | 黑田有明 |  |  |
 | miyabi tatsuto | みやびたつと |  |  |
-| mizuki eimu | みずきえいむ |  |  |
+| mizuki eimu | みずきえいむ | みずきえいむ 是日本漫画家，主要创作成年向漫画。<br>作品以`lolicon`系为主。<br>![图](# "https://pbs.twimg.com/profile_images/872449499326693376/sMmHh7A3_400x400.jpg")<br>**作者推特头像**<br><br>原创同人本《あの子がアイツのオモチャになった日》系列。`netorare`本<br>![图](# "https://ehgt.org/05/7b/057b5e7256fbed8493a653bdbe4465877b5a8e22-3647376-2508-3541-jpg_l.jpg") | [Twitter](https://twitter.com/kouya_dou) |
 | momon kooji | ももんこーじ |  |  |
 | monogusa wolf | ものぐさうるふ |  |  |
 | moroha | 乙 |  |  |
