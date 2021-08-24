@@ -3447,6 +3447,7 @@ example:
 | veronica | 维罗妮卡（ベロニカ） | 角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的姐姐。<br>![图](https://www.dq11.jp/s/pf/characters/_img/veronica/chara_2d_sp.png) |  |
 | murasaki yatsu | 八津紫 |  |  |
 | lucifer | 路西法 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-2.gif&img_id=1522721112) |  |
+| miyu yamano | 共月庭 | 以作者`miyashita miki`为中心的同人社团。 | [官方网站](http://miyashitamiki.blog.fc2.com/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
