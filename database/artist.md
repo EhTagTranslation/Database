@@ -1108,7 +1108,7 @@ example:
 | suzuneco | Suzu猫。 |  |  |
 | utakata | 泡沫 |  |  |
 | yakou | 夜光 |  |  |
-| lambda | Lambda |  |  |
+| lambda | Lambda | Lambda 插画师，游戏原画师。<br>![图](https://pbs.twimg.com/profile_images/1265289370916929548/PV7Jon5F_400x400.jpg)<br>**推特头像** | [Twitter](https://twitter.com/lambda9696) [Pixiv](https://www.pixiv.net/users/871625) |
 | pon takahanada | ポン貴花田 |  |  |
 | kazakura | 夏樱 |  |  |
 | rikka kai | リッカー改 |  |  |
