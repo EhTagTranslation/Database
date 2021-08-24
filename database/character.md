@@ -3450,6 +3450,7 @@ example:
 | miyu yamano | 共月庭 | 以作者`miyashita miki`为中心的同人社团。 | [官方网站](http://miyashitamiki.blog.fc2.com/) |
 | watashi | 我 | 小说及动画`jinrui wa suitai shimashita`中的主人公。<br>![图](https://img.moegirl.org.cn/common/thumb/3/3b/Watashi_pixiv_28586313.jpg/280px-Watashi_pixiv_28586313.jpg) |  |
 | hina amano | 天野阳菜 | 电影`tenki no ko`中的女主角。<br>![图](https://ehgt.org/49/12/49123fd03ef13490ac89f2bd914cca696823d2d7-75170-1080-1080-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天野阳菜) |
+| enderman | 末影人 | `minecraft`中的生物之一。<br><br>末影人（Enderman）是一种来自末路之地、会传送的高大黑色中立型生物。<br>![图](https://ehgt.org/66/91/669140ee511cda1b059a4aee29817ee52261b781-28400-179-300-png_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/末影人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
