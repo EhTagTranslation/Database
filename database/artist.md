@@ -3283,6 +3283,7 @@ example:
 | yamamoto kumoi | 山本云居 | 山本 雲居是日本 漫画家。主要创作成人向漫画。独特的作品风格给人深刻印象，被称赞为是“鬼畜萝莉系作家的鬼才”。现在以停止商业漫画的创作。<br>作品主要类型：`lolicon`<br><br>单行本《マーブルケェキ》<br>![图](# "https://ehgt.org/ba/3e/ba3e6d83a5d668cc73401a090938a0ec6fe2e60c-346807-950-1200-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/山本雲居) |
 | marcy dog | MARCYどっぐ | 成人向同人作家。<br>![图](https://pbs.twimg.com/profile_images/1704253925/marcy_face_400x400.jpg)<br>**作者推特头像**<br>同人本《なつやすみの手引き》<br>![图](# "https://ehgt.org/a2/be/a2bea6fd7207c7593932d45bf0b8d38ad754cec5-4539716-3269-4926-jpg_l.jpg") | [Twitter](https://twitter.com/marcydog) [Pixiv](https://www.pixiv.net/users/10394) |
 | asahina makoto | 朝比奈诚 | 朝比奈 まこと是日本漫画家。在成年向漫画杂志上发表作品。<br><br>作品以小学生或中学生的少女为对象的`lolicon`系为主。描写凌辱、强奸、轮奸等男性单方面进行强迫的性行为的作品较多。<br><br>单行本《まる見え少女銭湯》<br>![图](# "https://ehgt.org/19/53/1953e87ef5e16f3fc317698c800d85d9403b90bb-1100474-1128-1600-jpg_l.jpg") | [Twitter](https://twitter.com/asahina_makoto) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/朝比奈まこと) |
+| majoccoid | majoccoid | ![图](https://pbs.twimg.com/profile_images/1321436104264876033/ESswWg6-_400x400.jpg)<br>**作者推特头像**<br><br>单行本《いけないことしたい》<br>![图](# "https://ehgt.org/43/d3/43d3f057da59bc051049e44087ecd4bbe44b5783-523339-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/majoccoid) [Pixiv](https://www.pixiv.net/users/649543) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
