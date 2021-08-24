@@ -863,7 +863,7 @@ example:
 | takase yuu | 鹰势优 | 90年代中期开始从事成人向漫画创作。作品以`lolicon`和`shotacon`为主。 |  |
 | hiiragi masaki | 柊柾葵 | 2004年以作品『クーロ君の華麗なる日常』（ショタみみLOVE vol.6）出道。之后以『クーロ君シリーズ』（即少年男仆库洛）系列在合集杂志进行创作。 |  |
 | po-ju | ぽ～じゅ | 插画师。作品以`shotacon`为主。画风细腻色情。 | [pixiv](https://www.pixiv.net/users/19291) |
-| abu hyaku | あぶひゃく | 男孩子的慰菊入门的作者。 |  |
+| abu hyaku | あぶひゃく | 男孩子的慰菊入门的作者。<br>书籍《ひとりでできるもん ~オトコのコのためのアナニー入門~》<br>![图](# "https://ehgt.org/5f/86/5f86757a00600485e99aaa805cd4bba5f00e0cca-2807094-1046-1500-png_l.jpg")<br>书籍《ふたりでできるもん〜オトコのコのための相互アナニー入門〜》<br>![图](# "https://ehgt.org/05/ca/05cab10f3f7031f9df5e57cc2539302bd19f84fe-101286-648-920-jpg_l.jpg") | [Twitter](https://twitter.com/abu_hyaku) |
 | suehirogari | すえひろがり | すえひろがり（末広雅里、男性、1966年2月8日 - ）是日本成人漫画家。<br>作品内容以`exhibitionism`为主，女性角色间具有`bisexual`和`yuri`。剧情描写很细致。<br><br>![图](# "https://ehgt.org/21/63/216303dc5c19009d310064d3ba1006cbf8976947-517308-1750-2454-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/すえひろがり) |
 | kuritsu yoshihiro | くりつよしひろ | ![图](# "https://ehgt.org/13/cd/13cd290c30b3427e65f66259060b33dfbfed3d81-912091-1981-2400-jpg_l.jpg") |  |
 | guglielmo | ぐりえるも | ![图](# "https://ehgt.org/ed/90/ed9067c2d3f2e5292d02b4ea4bc20bca6af46163-4749231-1761-2500-png_l.jpg")<br>![图](# "https://ehgt.org/07/06/0706ebc73f5479bc16146287c5281e971c4500d0-752895-2097-3009-jpg_l.jpg") | [Twitter](https://twitter.com/guglielmo_hs) [Pixiv](https://www.pixiv.net/users/704774) [Fc2Blog](http://guriblog.blog39.fc2.com/) |
