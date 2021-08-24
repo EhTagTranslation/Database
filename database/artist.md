@@ -776,7 +776,7 @@ example:
 | henrybird | 半里バード9 |  |  |
 | gui fu shen nai | 鬼父神奈 |  |  |
 | homing | ホーミング |  |  |
-| kageno illyss | 影乃いりす |  |  |
+| kageno illyss | 影乃いりす | 影乃いりす<br>成人向漫画家、同人志创作者。<br>作品以`lolicon`系或`small breasts`少女为主。<br>单行本《何度生まれ変わってもきっと》<br>![图](# "https://ehgt.org/cd/e5/cde56ab8eaacb56e61fabfa5003be409089bb25a-470981-845-1200-jpg_l.jpg") |  |
 | katou jun | 加藤じゅん |  |  |
 | kuroda ariake | 黑田有明 |  |  |
 | miyabi tatsuto | みやびたつと |  |  |
