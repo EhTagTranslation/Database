@@ -1235,7 +1235,7 @@ example:
 | izawa shinichi | 伊泽慎壹 |  |  |
 | kurumiya mashimin | 胡桃屋ましみん |  |  |
 | miura takehiro | みうらたけひろ |  |  |
-| sena youtarou | 濑奈阳太郎 |  |  |
+| sena youtarou | 濑奈阳太郎 | ![twitter](https://pbs.twimg.com/profile_images/1375075711375962117/cLeoeEEX_400x400.png)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/ExVGIVfVcAksXEQ?format=jpg&name=4096x4096")<br><br>**单行本** | [twitter](https://twitter.com/senayoutarou) [pixiv](https://www.pixiv.net/users/3448766) |
 | yumesaki sanjuro | 夢咲三十郎 |  |  |
 | sakomae aichi | 佐古前あいち（あいの智絵） |  |  |
 | bakuya | ばくや |  |  |
