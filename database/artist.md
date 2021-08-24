@@ -2910,7 +2910,7 @@ example:
 | yamago | 山后 |  |  |
 | hamon ai | 波纹爱 |  |  |
 | misaka12003 | 御坂12003 |  | [Twitter](https://twitter.com/misaka12003/)<br>[Twitter](https://twitter.com/MSK12003/)<br>[pixiv](https://www.pixiv.net/users/2864095) |
-| mayafufu -kakko- kashikoi | まやふふ(賢) |  |  |
+| mayafufu -kakko- kashikoi | まやふふ(賢) | まやふふ(賢)<br>成人向漫画家，作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1399857048146255873/asSIWGB4_400x400.jpg)<br>**作者推特头像**<br><br>单行本《5の2のこいばな。》<br>![图](# "https://ehgt.org/d3/89/d3894d4e9ec59c7101ea6a5020ed4aa1b0700ade-367854-1058-1500-jpg_l.jpg") | [Twitter](https://twitter.com/aiuchi_emeline) [Pixiv](https://www.pixiv.net/users/28868033) |
 | yamanashi yuuya | 山梨ユウヤ |  |  |
 | ashinoue futomomo | 苇上太桃 |  |  |
 | echigoya takeru | 越後屋タケル |  |  |
