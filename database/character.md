@@ -3448,6 +3448,7 @@ example:
 | murasaki yatsu | 八津紫 |  |  |
 | lucifer | 路西法 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-2.gif&img_id=1522721112) |  |
 | miyu yamano | 共月庭 | 以作者`miyashita miki`为中心的同人社团。 | [官方网站](http://miyashitamiki.blog.fc2.com/) |
+| watashi | 我 | 小说及动画`jinrui wa suitai shimashita`中的主人公。<br>![图](https://img.moegirl.org.cn/common/thumb/3/3b/Watashi_pixiv_28586313.jpg/280px-Watashi_pixiv_28586313.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
