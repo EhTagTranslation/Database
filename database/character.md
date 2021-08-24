@@ -3451,6 +3451,7 @@ example:
 | watashi | 我 | 小说及动画`jinrui wa suitai shimashita`中的主人公。<br>![图](https://img.moegirl.org.cn/common/thumb/3/3b/Watashi_pixiv_28586313.jpg/280px-Watashi_pixiv_28586313.jpg) |  |
 | hina amano | 天野阳菜 | 电影`tenki no ko`中的女主角。<br>![图](https://ehgt.org/49/12/49123fd03ef13490ac89f2bd914cca696823d2d7-75170-1080-1080-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天野阳菜) |
 | enderman | 末影人 | `minecraft`中的生物之一。<br><br>末影人（Enderman）是一种来自末路之地、会传送的高大黑色中立型生物。<br>![图](https://ehgt.org/66/91/669140ee511cda1b059a4aee29817ee52261b781-28400-179-300-png_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/末影人) |
+| creeper | 苦力怕 | `minecraft`的敌对生物之一。<br>苦力怕（Creeper）是常见的敌对生物，它们悄无声息地接近玩家，当距离目标3格内就会开始爆炸。由于它们独特的外表和极高的杀伤力以及破坏地形和建筑物的能力，苦力怕已经成为了Minecraft的象征标志之一，无论是在玩家或非玩家中都很著名。<br>![图](https://ehgt.org/29/af/29af385b9e86f47de10fbb7e6ec580725033f9bf-28392-540-540-jpg_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/苦力怕) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
