@@ -3453,6 +3453,7 @@ example:
 | enderman | 末影人 | `minecraft`中的生物之一。<br><br>末影人（Enderman）是一种来自末路之地、会传送的高大黑色中立型生物。<br>![图](https://ehgt.org/66/91/669140ee511cda1b059a4aee29817ee52261b781-28400-179-300-png_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/末影人) |
 | creeper | 苦力怕 | `minecraft`的敌对生物之一。<br>苦力怕（Creeper）是常见的敌对生物，它们悄无声息地接近玩家，当距离目标3格内就会开始爆炸。由于它们独特的外表和极高的杀伤力以及破坏地形和建筑物的能力，苦力怕已经成为了Minecraft的象征标志之一，无论是在玩家或非玩家中都很著名。<br>![图](https://ehgt.org/29/af/29af385b9e86f47de10fbb7e6ec580725033f9bf-28392-540-540-jpg_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/苦力怕) |
 | piglin | 猪灵 | 游戏`minecraft`中的生物。<br>猪灵（Piglin）是一种自然生成于下界的中立型生物。<br><br>![图](https://ehgt.org/4f/50/4f50537921c5487fe207bcdce50146f4805310d1-99657-1200-960-jpg_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/猪灵) |
+| misa amane | 弥海砂 | 漫画以及动画`death note`中的出场角色。<br>![图](https://ehgt.org/06/27/06272fa63fd2002f8b9369cd2eeffb34a4bc37e0-30548-500-308-jpg_l.jpg)<br>![图](https://ehgt.org/3d/f7/3df770fe1cf60eafd032285d96fd32ff357ef138-7720-258-195-jpg_l.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
