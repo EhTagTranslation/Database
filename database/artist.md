@@ -2022,7 +2022,7 @@ example:
 | kamifuji mikeko | 神藤みけこ |  |  |
 | hekicha | 碧茶 |  |  |
 | nrr | Nrr |  |  |
-| inue shinsuke | 犬江しんすけ |  |  |
+| inue shinsuke | 犬江しんすけ | ![twitter](https://pbs.twimg.com/profile_images/788343168022392832/456B_PW6_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/inushins) [pixiv](https://www.pixiv.net/users/172088) |
 | onigirikun | おにぎり君 |  |  |
 | nekosu | ねこす |  |  |
 | akahito | 赤人 |  |  |
