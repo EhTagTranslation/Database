@@ -3449,6 +3449,7 @@ example:
 | lucifer | 路西法 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-2.gif&img_id=1522721112) |  |
 | miyu yamano | 共月庭 | 以作者`miyashita miki`为中心的同人社团。 | [官方网站](http://miyashitamiki.blog.fc2.com/) |
 | watashi | 我 | 小说及动画`jinrui wa suitai shimashita`中的主人公。<br>![图](https://img.moegirl.org.cn/common/thumb/3/3b/Watashi_pixiv_28586313.jpg/280px-Watashi_pixiv_28586313.jpg) |  |
+| hina amano | 天野阳菜 | 电影`tenki no ko`中的女主角。<br>![图](https://ehgt.org/49/12/49123fd03ef13490ac89f2bd914cca696823d2d7-75170-1080-1080-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天野阳菜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
