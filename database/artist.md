@@ -3277,6 +3277,7 @@ example:
 | toruneko | 获る猫 | ![twitter](https://pbs.twimg.com/profile_images/750360596734877696/MO7nZ1MS_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/10runeko) [pixiv](https://www.pixiv.net/users/2078271/artworks) |
 | sirokuma shake | 白クマシェイク |  | [Twitter](https://twitter.com/sirokuma_shake) [pixiv](https://www.pixiv.net/users/6323315) |
 | mizui kaou | 瑞井鹿央 | 瑞井鹿央<br>成人向漫画家，同人志创作者。<br>作品主要类型：`lolicon`<br><br>单行本《SlowStep》<br>![图](# "https://ehgt.org/af/25/af25317eb1e5d57ebae15144279ce02ee8255d02-719508-1580-1400-jpg_l.jpg") |  |
+| minasuki popuri | みなすきぽぷり | みなすきぽぷり<br>日本漫画家，以成人向漫画创作为主。<br>1993起开始同人志创作活动，1999年在杂志《COMIC瑠璃姫》上商业出道。2006年后以椎木冊也的笔名也发表过作品。<br>![图](https://pbs.twimg.com/profile_images/1362385554675884032/PNk0yV8K_400x400.jpg)<br>**作者推特头像**<br><br>单行本《ないしょのむりくり》<br>![图](# "https://ehgt.org/b2/c8/b2c8c73e7d27288e7e2fbf20eee86965fc50c5d4-1179376-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/minasuki_popuri) [Pixiv](https://www.pixiv.net/users/71440) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
