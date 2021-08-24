@@ -2551,7 +2551,7 @@ example:
 | yoshu ohepe | 養酒オヘペ | ![養酒オヘペ头像](https://s1.ax1x.com/2020/03/26/8zZ1W4.jpg) | [Twitter](https://twitter.com/ohepeyousyu) [pixiv](https://www.pixiv.net/users/699107) |
 | amanagi seiji | 天凪青磁 |  |  |
 | tsukako | つかこ |  | [pixiv](https://www.pixiv.net/users/16026) [Twitter](https://twitter.com/tsukako) [个人主页](http://www.kurimomo.com/) |
-| mochi | RIN（モチ） | 萝莉万岁！ | [pixiv](https://www.pixiv.net/users/37966) |
+| mochi | モチ | *萝莉万岁！萝莉万岁！萝莉万岁！*<br>**※本条目指向多位作者**<br>①モチ　成人向`lolicon`系漫画家　<br>社团：RIN<br>![图](https://pbs.twimg.com/profile_images/1067046591763165184/kwR8zUPL_400x400.jpg)<br>**モチ推特头像**<br>单行本《死なずの姫君》<br>![图](# "https://ehgt.org/66/2c/662cb2eda863130e73bd8ec3253ab16a0b7bfcd7-857143-1070-1500-jpg_l.jpg")<br><br>以下作者由于此处地方太小，写不开，故省略图片说明<br>②もっちー  同人志作者，绘师<br>社团：もちだや<br>[Twitter](https://twitter.com/mochi_nrm) [Pixiv](https://www.pixiv.net/users/17799)<br><br>③御萩もち `yaoi`系同人志作者<br>[Twitter](https://twitter.com/mochi_comic)<br><br>④もち `yaoi`系同人志作者<br>[Pixiv](https://www.pixiv.net/users/12366714)<br><br>⑤もち 创作大叔`yaoi`以及`furry`同性本的同人社团“オヤジジ組 ”中的一员<br>[官方网站](https://oyazizigumi.booth.pm/) | [RIN（モチ）Pixiv](https://www.pixiv.net/users/37966)　[RIN（モチ）Twitter](https://twitter.com/MOCHIcircleRIN) |
 | araiguma | あらいぐま |  | [pixiv](https://www.pixiv.net/users/13662) |
 | 2-g | 2-G |  | [Twitter](https://twitter.com/two_g) [pixiv](https://www.pixiv.net/users/7251) [博客](http://2-g.sblo.jp) |
 | sukoyaka gyuunyuu | 健やか牛乳 |  | [pixiv](https://www.pixiv.net/users/459456) |
