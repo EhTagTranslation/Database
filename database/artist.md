@@ -678,7 +678,7 @@ example:
 | murian | 无有利安 |  |  |
 | mutou mato | 武藤まと |  | [pixiv](https://www.pixiv.net/users/1429353) [Twitter](https://twitter.com/mto_mt) |
 | kobayashi oukei | 小林王桂 |  |  |
-| tanabe kyou | 田边京 | 男性插图画师及漫画家。以画萝莉为主，角色多为痴女型萝莉。<br>作者特别喜欢物语系列，特别是对`shinobu oshino`特别喜欢，在P站里大量的小忍R18作品。<br>画风随着时间不断地进步，已经形成自己独特的风格。<br>代表作品：ぷ痴っくす<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/8542) |
+| tanabe kyou | 田边京 | 男性插图画师及漫画家。以画`lolicon`为主，角色多为痴女型萝莉。<br>作者特别喜欢`bakemonogatari`，对`shinobu oshino`情有独钟，创作了大量的小忍二次创作插画（包括一般向以及R-18）。<br>![图](# "https://ehgt.org/e7/a9/e7a9c5c68ddf024bca1991fc403e324972ce8b3a-250658-1414-1000-jpg_l.jpg")<br>代表作品：<br>物语系列同人本《寝取語 》系列<br>![图](# "https://ehgt.org/80/bb/80bb2105ba35a226f6120c4b2e8dc25d064e15f5-886067-1427-2008-jpg_l.jpg")<br><br>原创单行本《ぷ痴っくす》<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/tanabe90457309) [Pixiv](https://www.pixiv.net/users/8542) |
 | kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以`exhibitionism`题材为主，早期作品包含大量`scat`描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") | [作者个人博客](http://nonormal.sakura.ne.jp/) |
 | charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br>代表作品：露出少女遊戯<br>![图](# "https://ehgt.org/45/6e/456ec9a0d39a4b229b4f5113e08895b18c2d7c95-1122101-2150-3035-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/125256) |
 | tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出。<br>代表作品：露出少女異譚<br>![图](# "https://ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/1551500) |
