@@ -2119,6 +2119,7 @@ example:
 | 4h | 4H | `shitou`的同人社团 |  |
 | kaitoushinshidan | 怪盗绅士团 | 怪盗紳士団<br>漫画家`kaishinshi`活动的社团。 |  |
 | pastyle | pastyle |  |  |
+| chocolate sheep | Chocolate Sheep |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
