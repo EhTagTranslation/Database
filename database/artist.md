@@ -633,7 +633,7 @@ example:
 | nanigawa rui | 名仁川るい |  |  |
 | ohkura kazuya | 大藏一也 |  |  |
 | psycocko | 碎骨子 |  |  |
-| hanainu | 花犬 |  |  |
+| hanainu | 花犬 | 花犬<br>成人向漫画家，作品以`lolicon`系为主。<br>作品中常见`lolicon`×`old man`<br>![图](https://pbs.twimg.com/profile_images/1342306241599610881/hLtzNjw9_400x400.jpg)<br>**作者推特头像**<br>单行本《男の子はそこの構造が知りたいのだ》<br>![图](# "https://ehgt.org/2e/a0/2ea078fb68c33b8b9719570e2156a68403898e34-9032991-7269-3000-jpg_l.jpg") | [Twitter](https://twitter.com/hanainunu) |
 | madoutei | 魔童贞 |  |  |
 | ra | RA |  |  |
 | yohane | ヨハネ |  | [Twitter-东方](https://twitter.com/YfJohanne) [Twitter-非东方](https://twitter.com/Itumade3) [pixiv](https://www.pixiv.net/users/10430161) |
