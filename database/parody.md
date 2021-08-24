@@ -1585,6 +1585,7 @@ example:
 | kaichou wa maid-sama | 会长是女仆大人 | 《会长是女仆大人》（日语：会長はメイド様!），是日本漫画家藤原飞吕的少女漫画作品，并改编成同名电视动画。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/thumb/b/b8/Kaichohameidosama.jpg/220px-Kaichohameidosama.jpg) | [维基百科](https://zh.wikipedia.org/wiki/學生會長是女僕！) |
 | el shaddai | 全能之神：梅塔特隆的升天 | 《全能之神：梅塔特隆的升天》『エルシャダイ:アセンション オブ ザ メタトロン』 (El Shaddai: Ascension of the Metatron) 是2011年4月28日由Ignition Entertainment发售的一款PlayStation3或Xbox 360平台上的3D动作游戏。<br>由于神一般的CM宣传，但游戏本身被公认为是款粪作。之后由CM的声源和人物产生大量的二次创作。原CM中几乎每一句台词都成为了梗。比较著名的有「大丈夫だ、問題ない」「一番いいのを頼む」 | [大丈夫萌大奶 - 萌娘百科](https://zh.moegirl.org.cn/大丈夫萌大奶)<br>[百度百科](https://baike.baidu.com/item/全能之神：梅塔特隆的升天) |
 | plants vs. zombies | 植物大战僵尸 | 《植物大战僵尸》（英语：Plants vs. Zombies）是一款塔防游戏，由宝开游戏为Windows、Mac OS X、Xbox 360及iOS系统开发。游戏于2009年5月5日发售。目前在PC上同时有普通版、年度版、Adobe Flash动画缩减版及人人网社区版等多个版本。其续作《植物大战僵尸2》在2013年8月15日登陆iOS系统。 | [维基百科](https://zh.wikipedia.org/wiki/植物大战僵尸) |
+| madou king granzort | 魔动王（光能使者） | 《魔动王》（日语：魔動王グランゾート） 是1980年代日昇动画以机械化为题材并加入神话元素的电视动画，于1989年4月7日至1990年3月2日在日本电视台播放，共41集；动画播放结束后另制作两部OVA。 | [维基百科](https://zh.wikipedia.org/wiki/魔動王) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
