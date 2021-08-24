@@ -810,7 +810,7 @@ example:
 | takasugi kou | タカスギコウ |  |  |
 | uramac | うらまっく |  |  |
 | isawa nohri | いさわのーり |  |  |
-| kinomoto anzu | きのもと杏 |  |  |
+| kinomoto anzu | 木之本杏 | きのもと杏<br>成人向漫画家，作品以`lolicon`系为主。<br>单行本《ちいさいほうがエッチでしょ♡》<br>![图](# "https://ehgt.org/1d/bb/1dbb7f2d52d2f735457fbf131625a7ce956f62f2-1504925-1057-1500-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/12873561) |
 | misumi tsubaki | 三澄ツバキ |  |  |
 | nekodanshaku | 猫男爵 |  |  |
 | oosawa ofuda | 大沢おふだ |  |  |
