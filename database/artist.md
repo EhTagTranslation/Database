@@ -890,7 +890,7 @@ example:
 | tatsunami youtoku | 辰波要徳 |  |  |
 | tinkle | てぃんくる |  |  |
 | kiriyama | 桐山 |  |  |
-| takatsu | 高津 |  |  |
+| takatsu | 高津 | 高津ケイタ 漫画家<br>成人向漫画以高津为名发表。<br>![图](https://pbs.twimg.com/profile_images/1088606129876160512/HmvKv9z8_400x400.jpg)<br>**作者推特头像**<br><br>单行本《SはフラジールのS 》<br>一部很甜的 `shotacon`×`yaoi` 作品。<br>![图](# "https://ehgt.org/34/ae/34aea93b16ae8540db5a44569f8cc1c6b4bf6486-957421-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/xobmj) |
 | gekkoji | 激昂寺 |  |  |
 | monety | もねてぃ |  |  |
 | hyji | 灰司 |  |  |
