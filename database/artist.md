@@ -3275,6 +3275,7 @@ example:
 | hokama mitsuri | ほかまみつり | ほかまみつりは是日本漫画家。主要创作成年向`lolicon`系漫画。<br>擅长画与弱小的肢体不相平衡的`big breasts`少女，以及`oppai loli`<br>![图](# "https://ehgt.org/3d/09/3d099173618b6b8c2c2edb357687f6da748b9c41-647652-1615-1400-jpg_l.jpg")<br>《感じるおっぱい発育中》 | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ほかまみつり) |
 | horihone saizou | 掘骨碎三 | 掘骨砕三 是日本成年向漫画家。作品以`lolicon`、`futanari`、`shotacon`居多，以及包含`body modification`等重口的性癖描写。<br>![图](# "https://ehgt.org/49/0c/490c1d9b1fe3edcac690e054e8ba8b83e1483be2-1002764-1038-1500-jpg_l.jpg")<br>单行本《ないしょよぉ♡》 | [Twitter](https://twitter.com/NatakawaK) |
 | toruneko | 获る猫 | ![twitter](https://pbs.twimg.com/profile_images/750360596734877696/MO7nZ1MS_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/10runeko) [pixiv](https://www.pixiv.net/users/2078271/artworks) |
+| sirokuma shake | 白クマシェイク |  | [Twitter](https://twitter.com/sirokuma_shake) [pixiv](https://www.pixiv.net/users/6323315) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
