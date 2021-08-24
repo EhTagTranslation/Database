@@ -1458,7 +1458,7 @@ example:
 | youkihi | 阳气婢 |  |  |
 | kinoshita ichi | 木下壹 |  |  |
 | 92m | 92M |  |  |
-| kasukabe taro | 春日部太郎 |  |  |
+| kasukabe taro | 春日部太郎 | 春日部太郎是同人志创作者。<br>作者非常喜欢`to love-ru`，以此创作二次作品。<br>![图](https://pbs.twimg.com/profile_images/378800000160712617/334960164bf86be0be2f5cda6ad8a49a_400x400.jpeg)<br>**作者推特头像**<br>代表作：同人本《目指せ!楽園計画  (To LOVEる -とらぶる-)》系列<br>![图](# "https://ehgt.org/e5/02/e50270518ad4ba438e539979f4f6e88919852982-669876-2085-3021-jpg_l.jpg") | [Twitter](https://twitter.com/taro_coke) [Pixiv](https://www.pixiv.net/users/55441) |
 | zucchini | ズッキーニ |  |  |
 | shirane taito | 白根戴斗 |  |  |
 | morimi ashita | 森见明日 |  |  |
