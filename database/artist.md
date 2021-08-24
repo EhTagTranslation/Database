@@ -827,7 +827,7 @@ example:
 | natsuki kiyohito | 夏木きよひと |  |  |
 | noise | Noise |  |  |
 | nukkoru | ぬっこる |  |  |
-| ponsuke | ポンスケ |  |  |
+| ponsuke | ポンスケ | ポンスケ<br>成人向漫画家，作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1342441127459180545/k84yZPtV_400x400.jpg)<br>**作者推特头像**<br><br>单行本《おしゃまな幼性》<br>![图](# "https://ehgt.org/e1/d7/e1d75ebd8682ce65e16393b2f2cc25e9db991a6d-747815-1065-1500-jpg_l.jpg") | [Twitter](https://twitter.com/ponsuke23570503) [Pixiv](https://www.pixiv.net/users/154444) |
 | satuyo | さつよ |  |  |
 | soine | 添い寝 |  |  |
 | takaoka motofumi | 高冈基文 | 高岡基文，成年向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1341376601452204033/juqpUv1G_400x400.jpg)<br>**作者推特头像**<br>单行本《華奢な娘の挿入心地は…熱ッ!》<br>![图](# "https://ehgt.org/f9/63/f96311276fbf28fcdf7dadbde94ee61dad781327-495005-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/takaoka_m) |
