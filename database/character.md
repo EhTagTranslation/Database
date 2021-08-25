@@ -1925,7 +1925,7 @@ example:
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
 | miyu edelfelt | 美游·艾德费尔特 | 平行世界中的“圣杯战争”中的圣杯容器<br>![图](# "https://ehgt.org/4e/39/4e396284adfea8b2a493fe3320278a02ce0db1df-260187-1255-1822-jpg_l.jpg")![图](# "https://ehgt.org/51/0b/510b1d37cb5e4b095c774bbbff8dbfd0b1417a4b-351382-1410-2024-jpg_l.jpg") |  |
 | sella | 塞拉 |  |  |
-| euryale | 尤瑞艾莉 | 游戏`fate grand order`及其衍生作品中的出场人物。希腊神话中戈耳工三姊妹的次女。<br>![图](https://img.moegirl.org.cn/common/thumb/2/2a/英霊正装_エウリュアレ.jpg/280px-英霊正装_エウリュアレ.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尤瑞艾莉%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/尤瑞艾莉) |
+| euryale | 尤瑞艾莉（二姐） | 游戏`fate grand order`及其衍生作品中的出场人物。希腊神话中戈耳工三姊妹的次女。<br>![图](https://ehgt.org/df/38/df38db00349b92e67010304cf7b310ee48c0f04d-2871405-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尤瑞艾莉%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/尤瑞艾莉) |
 | shiki ryougi | 两仪式 |  |  |
 | stheno | 斯忒诺 |  |  |
 | mordred pendragon | 莫德雷德·潘德拉贡 | ![图](https://ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](https://ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) |  |
