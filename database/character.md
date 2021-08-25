@@ -3458,6 +3458,7 @@ example:
 | light yagami | 夜神月 | 漫画《`death note`》及其衍生作品的主角。<br>![图](https://ehgt.org/e4/d6/e4d68b93de3cdd49ab1cd26ccfdd907bee8e7e55-77449-480-480-jpg_l.jpg)<br>![图](https://ehgt.org/f5/e1/f5e186f54a590612c44622cb8c54de7d278afcf8-48895-959-539-jpg_l.jpg) |  |
 | akira toya | 塔矢亮 |  |  |
 | akari fujisaki | 藤崎明 |  |  |
+| tetsuo kaga | 加贺铁男 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
