@@ -1877,7 +1877,7 @@ example:
 | orion | 俄里翁 |  |  |
 | artemis | 阿耳忒弥斯 |  |  |
 | altera | 阿蒂拉 | 游戏`fate grand order`中的角色。建立起巨大帝国的大王。匈人之王阿蒂拉。<br>![图](https://ehgt.org/40/87/408778e32b30b5fa866f508524795810749b4788-2513644-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/14/33/14336507a61b796eccad092ad2c57c6db7e291a8-1286016-1024-1456-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/阿蒂拉) [萌娘百科](https://zh.moegirl.org.cn/阿蒂拉) |
-| boudica | 布狄卡 |  |  |
+| boudica | 布狄卡 | ![图](https://ehgt.org/e4/e0/e4e06fc490c2c1b099ff48af1484cd8e10ea7fa0-1986579-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布狄卡%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布狄卡) |
 | mysterious heroine x | 谜之女主角X |  |  |
 | mysterious heroine x alter | 谜之女主角X Alter |  |  |
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 |  |  |
