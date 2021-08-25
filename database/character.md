@@ -1948,7 +1948,7 @@ example:
 | anne bonny | 安妮·伯妮 |  |  |
 | mary read | 玛莉·瑞德 |  |  |
 | brynhildr | 布伦希尔德 | ![图](https://ehgt.org/f0/52/f052ba3e9b2a60e3fa3315c1370d6a24c5a1c1b8-2818493-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布伦希尔德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布伦希尔德) |
-| cleopatra | 克里奥帕特拉 |  |  |
+| cleopatra | 克里奥帕特拉（艳后） | ![图](https://ehgt.org/5c/50/5c50abef425738865c105800231b6d749fe965b8-3208948-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/克娄巴特拉%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/克娄巴特拉) |
 | ereshkigal | 埃列什基伽勒 |  |  |
 | helena blavatsky | 海伦娜·布拉瓦茨基 | 海妈、外星萝莉<br>![图](https://ehgt.org/37/b0/37b0615f519fded931d2fac3ae70499aa48e5618-2345203-1024-1448-png_l.jpg)<br>画师： `matsuryu` | [萌娘百科](https://zh.moegirl.org.cn/海伦娜·布拉瓦茨基%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/海伦娜·布拉瓦茨基) |
 | leonardo da vinci | 莱昂纳多·达·芬奇 |  |  |
