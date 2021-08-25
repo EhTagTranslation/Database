@@ -2601,7 +2601,7 @@ example:
 | mirai andou | 安藤美雷 |  |  |
 | himea saito | 赛托希梅亚 |  |  |
 | fuu hououji | 凤凰寺风 |  |  |
-| hikaru shindo | 狮堂光 |  |  |
+| hikaru shindo | 进藤光 \| 狮堂光 |  |  |
 | umi ryuuzaki | 龙崎海 |  |  |
 | ai asato | 麻里爱 |  |  |
 | reiko katherine akimoto | 秋本丽子 |  |  |
