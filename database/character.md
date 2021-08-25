@@ -1963,7 +1963,7 @@ example:
 | tiamat | 提亚马特 |  |  |
 | bb | BB |  |  |
 | bradamante | 布拉达曼特 |  |  |
-| nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 |  |  |
+| nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 | ![图](# "https://ehgt.org/dc/2b/dc2bba6bee0a93a81ada9f70bdaf8ad08dfb8450-2243286-1024-1448-png_l.jpg") | [Mooncell](http://www.fgo.wiki/w/尼禄·克劳狄乌斯〔新娘〕) [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#) |
 | chacha | 茶茶 |  |  |
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕 |  |  |
