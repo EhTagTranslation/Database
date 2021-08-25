@@ -1964,7 +1964,7 @@ example:
 | bb | BB |  |  |
 | bradamante | 布拉达曼特 |  |  |
 | nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 | ![图](# "https://ehgt.org/dc/2b/dc2bba6bee0a93a81ada9f70bdaf8ad08dfb8450-2243286-1024-1448-png_l.jpg") | [Mooncell](http://www.fgo.wiki/w/尼禄·克劳狄乌斯〔新娘〕) [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#) |
-| chacha | 茶茶 |  |  |
+| chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰)<br>[茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕 |  |  |
 | katsushika hokusai | 葛饰北斋 |  |  |
