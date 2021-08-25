@@ -1901,7 +1901,7 @@ example:
 | cornelius alba | 科尼利厄斯·阿鲁巴 |  |  |
 | arcueid brunestud | 爱尔奎特·布伦史塔德 |  |  |
 | ciel | 希耶尔 |  |  |
-| circe | 喀耳刻 |  |  |
+| circe | 喀耳刻 | ![图](https://ehgt.org/bb/f7/bbf7ad647639991a5c0925481a70635d4146e2eb-2093744-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/喀耳刻%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/俄刻阿诺斯的Caster) |
 | satsuki yumizuka | 弓冢五月 |  |  |
 | shiki tohno | 远野志贵 |  |  |
 | akiha tohno | 远野秋叶 |  |  |
