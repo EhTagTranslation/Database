@@ -3460,6 +3460,7 @@ example:
 | akari fujisaki | 藤崎明 |  |  |
 | tetsuo kaga | 加贺铁男 |  |  |
 | asumi nase | 奈濑明日美 |  |  |
+| mitsuko shindo | 进藤美津子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
