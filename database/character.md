@@ -1888,7 +1888,7 @@ example:
 | minamoto no raikou | 源赖光 |  |  |
 | meltryllis | 溶解莉莉丝 |  |  |
 | passionlip | 帕森莉普（热情迷唇） |  |  |
-| ushiwakamaru | 牛若丸 |  |  |
+| ushiwakamaru | 牛若丸 | ![图](https://ehgt.org/fc/57/fc57b2eb6d754dece69bdacf9d0ce14d65004321-2219263-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/牛若丸%28Fate%29) [Mooncell](http://www.fgo.wiki/w/牛若丸) |
 | jack the ripper | 开膛手杰克 |  |  |
 | jeanne alter | 贞德Alter | ![图](https://ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](https://ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) |  |
 | nitocris | 尼托克丽丝 |  |  |
