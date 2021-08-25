@@ -3040,7 +3040,7 @@ example:
 | amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/e/ec/AmaneKanata_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
 | lulu suzuhara | 铃原露露 | 铃原露露 （ 鈴原るる / Suzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
 | himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名从2020年1月4日在YouTube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/b/bb/HimemoriLuna_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
-| honma himawari | 本间向日葵 | 本間ひまわり（ほんまひまわり，Honma Himawari）是隶属于彩虹社Gamers的虚拟YouTuber，2018年7月6日开始活动。 | [萌娘百科](https://zh.moegirl.org.cn/本间向日葵) |
+| honma himawari | 本间向日葵🌻 | 本間ひまわり（ほんまひまわり，Honma Himawari）是隶属于`nijisanji`Gamers的`vtuber`，2018年7月6日开始活动。 | [萌娘百科](https://zh.moegirl.org.cn/本间向日葵) |
 | kakyoin chieri | 花京院樱桃 | 花京院樱桃（日语：花京院ちえり）是.LIVE所属的虚拟YouTuber。 rerorerorerorero......（大雾） | [萌娘百科](https://zh.moegirl.org.cn/花京院樱桃) |
 | lize helesta | 莉泽·赫露艾斯塔 | 莉泽·赫露艾斯塔 （ リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/莉泽·赫露艾斯塔) |
 | saionji mary | 西园寺メアリ |  |  |
