@@ -772,7 +772,7 @@ example:
 | kamikaze kaitou jeanne | 神风怪盗贞德 |  |  |
 | boruto | 博人传 |  |  |
 | kuromukuro | 黑骸 |  |  |
-| minecraft | 我的世界 |  |  |
+| minecraft | ![creeper](https://raw.githubusercontent.com/ShuraragiYomiko/ImageforETT/master/NameIcon/creeper.gif)我的世界 | 《我的世界》（英语：Minecraft）是微软旗下Mojang Studios开发的沙盒游戏。游戏中，玩家可以在一个3D世界内与方块进行交互。游戏中的特色功能包括探索世界、采集资源、合成物品及生存冒险等。《我的世界》有多种模式：生存模式中玩家必须维持生命并采集资源以打造自己的世界；创造模式中玩家拥有无限的资源并可自由地创作建筑；而冒险模式中玩家可在其他玩家定制的地图中游玩。 | [官方网站](https://www.minecraft.net/zh-hans) [维基百科](https://zh.wikipedia.org/wiki/我的世界) [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) |
 | world masterpiece theater | 世界名作剧场 |  |  |
 | the adventures of tom sawyer | 汤姆·索亚历险记 |  |  |
 | les miserables shoujo cosette | 悲惨世界 少女珂赛特 |  |  |
