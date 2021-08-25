@@ -2999,7 +2999,7 @@ example:
 | ranta | 蓝德 |  |  |
 | moguzo | 莫古索 |  |  |
 | merry | 梅莉 |  |  |
-| tamamo cat | 玉藻猫 |  |  |
+| tamamo cat | 玉藻猫 | ![图](https://ehgt.org/48/01/480151eae670c0832724508a4fb72fed9d80a5e2-2306863-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玉藻猫) [Mooncell](http://www.fgo.wiki/w/玉藻猫) |
 | kiritan tohoku | 东北切蒲英 |  |  |
 | rikka takarada | 宝多六花 |  |  |
 | anastasia nikolaevna romanova | 阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 |  |  |
