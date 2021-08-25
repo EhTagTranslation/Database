@@ -127,7 +127,7 @@ example:
 | benet | ベネット | 所属[膝上5センチメートル]社团的ベネット | [Twitter](https://twitter.com/benet_rn) [pixiv](https://www.pixiv.net/users/143220) |
 | ponpon | ぽんぽん | ![ぽんぽん头像](https://i.jpg.dog/file/jpg-dog/d8d3ea3041843e34f154b24903a10736.jpg) | [Twitter](https://twitter.com/ponpon9020) [pixiv](https://www.pixiv.net/users/2470002) |
 | tetsujin | 铁人 |  | [Twitter](https://twitter.com/tetsujinybc) |
-| hiyoko | ひよさん |  | [Twitter](https://twitter.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) |
+| hiyoko | ひよさん | 漫画家，画师。插画作品以`lucky star`的二次创作居多。<br>同人社团`hiyoko no gekijoh` ，以`kantai collection`的二次作品为主。<br>C90加入创作团体`ojou no yokushitsu`<br>![图](https://pbs.twimg.com/profile_images/1001578926559260672/KWmqiN1L_400x400.jpg)<br>**作者推特头像**<br>`kimi no na wa.`二次创作《うぬの名は。》<br>![图](https://ehgt.org/15/51/1551399d873acf9a7682ecdc96da986592c991d5-2743521-2046-2960-jpg_l.jpg)<br><br>※另有画师同tag，因为作品不多，此处不再图片说明。<br>ひよこ[Pixiv](https://www.pixiv.net/users/3287911) | [Twitter](https://twitter.com/hiyogeki) [Pixiv](https://www.pixiv.net/users/463143) |
 | syukurin | シュクリーン |  | [Twitter](https://twitter.com/syukuri_nn20) [pixiv](https://www.pixiv.net/users/14271305) |
 | araki kanao | あらきかなお |  | [Twitter](https://twitter.com/kanamoru) [pixiv](https://www.pixiv.net/users/80890) [个人网站](http://www.arakim.com/kana/) [日文维基](https://ja.wikipedia.org/wiki/あらきかなお) |
 | nagiyama | 那岐山 |  | [Twitter](https://twitter.com/nagiyamasan) |
