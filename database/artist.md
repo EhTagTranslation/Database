@@ -3295,6 +3295,7 @@ example:
 | bookmoun10 | ぶっくまうんten | ぶっくまうんten<br>成人向漫画家，作品以`lolicon`系为主。<br><br>单行本《メス奴隷製作書》<br>![图](# "https://ehgt.org/f5/73/f5735a3bcd324584771e43af9a5c36fa4eea662d-332928-1057-1500-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/7123957) |
 | ogataaz | OgataAz | OgataAz<br>成人向漫画家，画师。<br>作品多以`lolicon`系，以及妹控作品居多。（参照标签`sister`，`incest`）<br>![图](https://pbs.twimg.com/profile_images/997483145384505345/oSsZuxTY_400x400.jpg)<br>**作者推特头像**<br>单行本《妹の膣に射精してほしい》<br>![图](# "https://ehgt.org/ec/f9/ecf90a5e475c2979ac70eaf7c3bea8e197801f30-7852969-6867-3000-jpg_l.jpg") | [Twitter](https://twitter.com/type_o) [Pixiv](https://www.pixiv.net/users/12380) |
 | ayato ayari | あやとあやり | あやとあやり<br>成年向漫画家，作品以`shotacon`系或`tomgirl`系为主。<br>![图](https://pbs.twimg.com/profile_images/720982888909393920/dum9nlQ4_400x400.jpg)<br>**作者推特头像**<br><br>单行本《娼年性愛》<br>![图](# "https://ehgt.org/a4/b4/a4b49e2c3a2fc2002827dc0e24807551f1a6edd5-1674554-1128-1600-jpg_l.jpg") | [Twitter](https://twitter.com/ayari_t_) [Pixiv](https://www.pixiv.net/users/3574743) |
+| rangetsu | 岚月 | 嵐月<br>画师，以画`code geass`中的`c.c.`的二次创作插画为中心活动。<br>岚月老师画得C.C.无论从质还是从量上都当之无愧是C.C.二次创作第一人。可见爱之深切。<br>![图](https://ehgt.org/38/25/3825d2075d46a86262b1c901e8fc6e488e770720-1425067-800-1132-png_l.jpg) | [Twitter](https://twitter.com/ccreayus) [Pixiv](https://www.pixiv.net/users/471355/artworks) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
