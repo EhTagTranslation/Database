@@ -858,7 +858,7 @@ example:
 | namonashi | 无望菜志 | ![图](# "https://ehgt.org/da/44/da44e3cbdaa00f8244ae7cb01a166ae62915d9ac-8165851-4230-6030-jpg_l.jpg") |  |
 | oda non | 织田non | 画风写实，多为`milf`。 |  |
 | nemunemu | ネムネム | *老师画的男孩子太棒了！画的比女孩子还要美的身材。*<br><br>ネムネム<br>画师，同人志创作者。以画`tomgirl`为擅长。活动社团：`candy paddle`<br>包揽成人向杂志《オトコのコHEAVEN》的封面绘画。<br>作品特点：脸部呈完全女孩子的样态，身材保留了大部分男性特征，瘦长唯美，阴茎细长小巧。<br>同人本《SideOTOKONOKO iDOL BIRTHDAY PAKOPAKO (アイドルマスター SideM)》<br>![图](# "https://ehgt.org/76/6d/766d708f9839a5db8509368bcd51b01aeb06ead4-1120532-1200-1694-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/29984) |
-| makita masaki | 蒔田真記 | 日本女性插画师，主要从事成人插画作品。 |  |
+| makita masaki | 莳田真记 | 莳（shí）田真记<br>蒔田 真記（まきた まき）<br>漫画家，画师，主要从事成人向插画作品。<br>2007年起开始活动。现在为游戏制作公司3rdEye的作品绘画原画。 曾经以社团“みるく☆てぃー”活动，现更名为“Alice;milk”。<br>![图](https://pbs.twimg.com/profile_images/378800000078045411/241e73a89d779523dbf91bec05b33d7e_400x400.jpeg)<br>**作者推特头像**<br>漫画作品：《ぼくの彼氏》<br>作者唯一的一本单行本，参考标签：`shotacon` `tomgirl` `yaoi`<br>![图](# "https://ehgt.org/51/32/51321ab94560f29eb246636270a61fcff5c7f9fb-1018038-3290-1400-jpg_l.jpg") | [Twitter](https://twitter.com/makitamaki) [Pixiv](https://www.pixiv.net/users/470861) |
 | hoshiai hilo | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向`shotacon`和`yaoi`。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
 | takase yuu | 鹰势优 | 90年代中期开始从事成人向漫画创作。作品以`lolicon`和`shotacon`为主。 |  |
 | hiiragi masaki | 柊柾葵 | 2004年以作品『クーロ君の華麗なる日常』（ショタみみLOVE vol.6）出道。之后以『クーロ君シリーズ』（即少年男仆库洛）系列在合集杂志进行创作。 |  |
