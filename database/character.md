@@ -1956,7 +1956,7 @@ example:
 | mata hari | 玛塔哈丽（舞娘） | ![图](# "https://ehgt.org/7d/06/7d062a3bdf429c2454a96c5d339a20d4e86a9f95-2143896-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/玛塔·哈丽%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛塔·哈丽) |
 | medusa | 美杜莎 | 一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。<br><br>（对于fate系列的美杜莎角色请视作品中的职阶使用`rider`或`medusa lily`标签） | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040151000) |
 | musashi miyamoto | 宫本武藏 |  |  |
-| nobunaga oda | 织田信长 |  |  |
+| nobunaga oda | 织田信长 | ![图](https://ehgt.org/76/fd/76fdc82e591d7ad09a3db388b21c3cfd78b34f3c-1305871-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/织田信长%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/织田信长) |
 | penthesilea | 彭忒西勒亚 |  |  |
 | semiramis | 赛米拉米斯 |  |  |
 | shuten douji | 酒吞童子 |  |  |
