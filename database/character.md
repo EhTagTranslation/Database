@@ -3463,6 +3463,7 @@ example:
 | mitsuko shindo | 进藤美津子 |  |  |
 | yuki mitani | 三谷祐辉 |  |  |
 | kimihiro tsutsui | 筒井公宏 |  |  |
+| yoko ritona | 优子 | ![图](https://ehgt.org/95/52/9552e39c309b1c22b341abae6e5284f4d758d0e5-148248-491-700-jpg_l.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
