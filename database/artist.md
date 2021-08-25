@@ -243,7 +243,7 @@ example:
 | amou mari | 天羽真理 |  |  |
 | tsuttsu | つっつ |  |  |
 | minarai zouhyou | 見習い雑兵 |  |  |
-| aya | AYA \| 蓝夜 | お嬢の浴室<br>TWILIGHT DUSK |  |
+| aya | AYA \| 蓝夜 | ※此条标签可能指向两个作者<br>①同人志创作者 AYA<br>同人社团`ojou no yokushitsu`的作画担当之一。<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>![图](https://ehgt.org/1c/2d/1c2d52a48a403fe203fa94607937747798466e18-3923970-3945-5565-jpg_l.jpg)<br>②画师，成人向同人志创作者 藍夜<br>同人社团`TWILIGHT DUSK`，作品以`lolicon`系居多。<br>![图](# "https://ehgt.org/29/3c/293cb85d1b045796133d5446575bb2ec0abf0954-1195739-1062-1500-jpg_l.jpg") | [藍夜 Pixiv](https://www.pixiv.net/users/220396) [藍夜 Twitter](https://twitter.com/ayasisu)<br>[AYA - Twitter](https://twitter.com/aya_ojo) |
 | oi shibako | しばこ（司马淳子） |  |  |
 | sato-satoru | さとーさとる |  |  |
 | gengorou | 源五郎 | 漫画家。作品以`lolicon`为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1083294175842361348/B26SP4av_400x400.jpg) | [Twitter](https://twitter.com/gengorou56) [Pixiv](https://www.pixiv.net/users/2925) [Fc2Blog](http://youmusya.blog.fc2.com/) |
