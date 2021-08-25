@@ -1953,7 +1953,7 @@ example:
 | helena blavatsky | 海伦娜·布拉瓦茨基 |  |  |
 | leonardo da vinci | 莱昂纳多·达·芬奇 |  |  |
 | marie antoinette | 玛丽·安托瓦内特（蛋糕） | ![图](https://ehgt.org/71/33/71333820486f6df5ebe3b84c6efe63a3328f228e-2437783-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛丽·安托瓦内特%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛丽·安托瓦内特) |
-| mata hari | 玛塔·哈丽 |  |  |
+| mata hari | 玛塔哈丽（舞娘） | ![图](# "https://ehgt.org/7d/06/7d062a3bdf429c2454a96c5d339a20d4e86a9f95-2143896-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/玛塔·哈丽%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛塔·哈丽) |
 | medusa | 美杜莎 | 一般指碧蓝幻想角色。少见情况下指 光神话系列 或 假面骑士Wizard 或 GS美神 极乐大作战！！ 角色。<br><br>（对于fate系列的美杜莎角色请视作品中的职阶使用`rider`或`medusa lily`标签） | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040151000) |
 | musashi miyamoto | 宫本武藏 |  |  |
 | nobunaga oda | 织田信长 |  |  |
