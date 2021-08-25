@@ -1950,7 +1950,7 @@ example:
 | brynhildr | 布伦希尔德 | ![图](https://ehgt.org/f0/52/f052ba3e9b2a60e3fa3315c1370d6a24c5a1c1b8-2818493-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布伦希尔德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布伦希尔德) |
 | cleopatra | 克里奥帕特拉 |  |  |
 | ereshkigal | 埃列什基伽勒 |  |  |
-| helena blavatsky | 海伦娜·布拉瓦茨基 |  |  |
+| helena blavatsky | 海伦娜·布拉瓦茨基 | 海妈、外星萝莉<br>![图](https://ehgt.org/37/b0/37b0615f519fded931d2fac3ae70499aa48e5618-2345203-1024-1448-png_l.jpg)<br>画师： `matsuryu` | [萌娘百科](https://zh.moegirl.org.cn/海伦娜·布拉瓦茨基%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/海伦娜·布拉瓦茨基) |
 | leonardo da vinci | 莱昂纳多·达·芬奇 |  |  |
 | marie antoinette | 玛丽·安托瓦内特（蛋糕） | ![图](https://ehgt.org/71/33/71333820486f6df5ebe3b84c6efe63a3328f228e-2437783-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛丽·安托瓦内特%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛丽·安托瓦内特) |
 | mata hari | 玛塔哈丽（舞娘） | ![图](# "https://ehgt.org/7d/06/7d062a3bdf429c2454a96c5d339a20d4e86a9f95-2143896-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/玛塔·哈丽%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛塔·哈丽) |
