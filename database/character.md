@@ -1959,7 +1959,7 @@ example:
 | nobunaga oda | 织田信长 | ![图](https://ehgt.org/76/fd/76fdc82e591d7ad09a3db388b21c3cfd78b34f3c-1305871-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/织田信长%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/织田信长) |
 | penthesilea | 彭忒西勒亚 |  |  |
 | semiramis | 赛米拉米斯 |  |  |
-| shuten douji | 酒吞童子 |  |  |
+| shuten douji | 酒吞童子 | ![图](# "https://ehgt.org/92/1e/921e89d3464dd00a54f110f16711297505e77d30-2807454-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/酒吞童子%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/酒吞童子) |
 | tiamat | 提亚马特 |  |  |
 | bb | BB |  |  |
 | bradamante | 布拉达曼特 |  |  |
