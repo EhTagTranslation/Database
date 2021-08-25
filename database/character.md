@@ -1896,7 +1896,7 @@ example:
 | aoko aozaki | 苍崎青子 |  |  |
 | touko aozaki | 苍崎橙子 |  |  |
 | leysritt | 莉洁莉特 |  |  |
-| chevalier deon | 迪昂·德·鲍蒙 | 游戏`fate grand order`中的登场角色。<br>![图](https://img.moegirl.org.cn/common/thumb/9/98/FGO一周年贺图by森山大辅.jpg/280px-FGO一周年贺图by森山大辅.jpg) | [Mooncell](http://www.fgo.wiki/w/骑士迪昂) [萌娘百科](https://zh.moegirl.org.cn/迪昂·德·鲍蒙%28Fate%29#) |
+| chevalier deon | 迪昂·德·鲍蒙 | 游戏`fate grand order`中的登场角色。<br>![图](https://ehgt.org/46/98/4698da9d1a0dce485b5b5785508b77aa9ffe20bd-2351235-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/骑士迪昂) [萌娘百科](https://zh.moegirl.org.cn/迪昂·德·鲍蒙%28Fate%29#) |
 | nightingale | 南丁格尔 |  |  |
 | cornelius alba | 科尼利厄斯·阿鲁巴 |  |  |
 | arcueid brunestud | 爱尔奎特·布伦史塔德 |  |  |
