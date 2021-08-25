@@ -3189,7 +3189,7 @@ example:
 | ruka sarashina | 更科瑠夏 |  |  |
 | sumi sakurasawa | 樱泽墨 |  |  |
 | mami nanami | 七海麻美 |  |  |
-| frankenstein | 弗兰肯斯坦 |  |  |
+| frankenstein | 弗兰肯斯坦（肯娘） | ![图](https://ehgt.org/3e/45/3e45e940bea6ad7176bd1ad4c109c988fcc177f9-1761526-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/弗兰肯斯坦%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/弗兰肯斯坦) |
 | nina maehara | 前原仁菜 |  |  |
 | uruka takemoto | 武元润香 |  |  |
 | fumino furuhashi | 古桥文乃 |  |  |
