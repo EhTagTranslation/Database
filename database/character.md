@@ -1876,7 +1876,7 @@ example:
 | asterios | 阿斯忒里俄斯 |  |  |
 | orion | 俄里翁 |  |  |
 | artemis | 阿耳忒弥斯 |  |  |
-| altera | 阿提拉 | 游戏`fate grand order`中的角色。建立起巨大帝国的大王。匈人之王阿提拉。<br>![图](https://img.moegirl.org.cn/common/thumb/e/ef/Wyatt_Earp_Altera.png/280px-Wyatt_Earp_Altera.png) | [Mooncell](http://www.fgo.wiki/w/阿蒂拉) [萌娘百科](https://zh.moegirl.org.cn/阿蒂拉) |
+| altera | 阿蒂拉 | 游戏`fate grand order`中的角色。建立起巨大帝国的大王。匈人之王阿蒂拉。<br>![图](https://ehgt.org/40/87/408778e32b30b5fa866f508524795810749b4788-2513644-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/14/33/14336507a61b796eccad092ad2c57c6db7e291a8-1286016-1024-1456-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/阿蒂拉) [萌娘百科](https://zh.moegirl.org.cn/阿蒂拉) |
 | boudica | 布狄卡 |  |  |
 | mysterious heroine x | 谜之女主角X |  |  |
 | mysterious heroine x alter | 谜之女主角X Alter |  |  |
