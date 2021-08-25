@@ -3457,6 +3457,7 @@ example:
 | l lawliet | L（死亡笔记） | L·Lawliet，是日本人气漫画《`death note`》及其衍生作品中登场的主要人物。<br><br>![图](https://ehgt.org/41/f8/41f82020315ef7516ecf53331f86eac0f5bdd486-141414-704-396-jpg_l.jpg)<br>![图](https://ehgt.org/c4/c1/c4c1d83f13fcea0a068ebf0a5dc9afbd5e14cea6-137543-935-827-jpg_l.jpg) |  |
 | light yagami | 夜神月 | 漫画《`death note`》及其衍生作品的主角。<br>![图](https://ehgt.org/e4/d6/e4d68b93de3cdd49ab1cd26ccfdd907bee8e7e55-77449-480-480-jpg_l.jpg)<br>![图](https://ehgt.org/f5/e1/f5e186f54a590612c44622cb8c54de7d278afcf8-48895-959-539-jpg_l.jpg) |  |
 | akira toya | 塔矢亮 |  |  |
+| akari fujisaki | 藤崎明 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
