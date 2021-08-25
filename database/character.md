@@ -3462,6 +3462,7 @@ example:
 | asumi nase | 奈濑明日美 |  |  |
 | mitsuko shindo | 进藤美津子 |  |  |
 | yuki mitani | 三谷祐辉 |  |  |
+| kimihiro tsutsui | 筒井公宏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
