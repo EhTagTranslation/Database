@@ -3459,6 +3459,7 @@ example:
 | akira toya | 塔矢亮 |  |  |
 | akari fujisaki | 藤崎明 |  |  |
 | tetsuo kaga | 加贺铁男 |  |  |
+| asumi nase | 奈濑明日美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
