@@ -1947,7 +1947,7 @@ example:
 | ibaraki douji | 茨木童子 |  |  |
 | anne bonny | 安妮·伯妮 |  |  |
 | mary read | 玛莉·瑞德 |  |  |
-| brynhildr | 布伦希尔德 |  |  |
+| brynhildr | 布伦希尔德 | ![图](https://ehgt.org/f0/52/f052ba3e9b2a60e3fa3315c1370d6a24c5a1c1b8-2818493-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布伦希尔德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布伦希尔德) |
 | cleopatra | 克里奥帕特拉 |  |  |
 | ereshkigal | 埃列什基伽勒 |  |  |
 | helena blavatsky | 海伦娜·布拉瓦茨基 |  |  |
