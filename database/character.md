@@ -1944,7 +1944,7 @@ example:
 | fujino asagami | 浅上藤乃 |  |  |
 | mikiya kokutou | 黑桐干也 |  |  |
 | azaka kokutou | 黑桐鲜花 |  |  |
-| ibaraki douji | 茨木童子 |  |  |
+| ibaraki douji | 茨木童子 | ![图](https://ehgt.org/2f/f0/2ff02d6d90de4d6a9664dea64c6e8dd319861476-2784584-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/茨木童子%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/茨木童子) |
 | anne bonny | 安妮·伯妮 |  |  |
 | mary read | 玛莉·瑞德 |  |  |
 | brynhildr | 布伦希尔德 | ![图](https://ehgt.org/f0/52/f052ba3e9b2a60e3fa3315c1370d6a24c5a1c1b8-2818493-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布伦希尔德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布伦希尔德) |
