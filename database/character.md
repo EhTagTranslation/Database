@@ -1930,7 +1930,7 @@ example:
 | stheno | 斯忒诺 | ![图](https://ehgt.org/10/ff/10ff76ba80d7fac50c8c0d2e29f30241c8a2ebfb-2936321-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/斯忒诺%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯忒诺) |
 | mordred pendragon | 莫德雷德·潘德拉贡 | ![图](https://ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](https://ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/莫德雷德) |
 | queen of sheba | 示巴女王 |  |  |
-| wu zetian | 武则天 |  |  |
+| wu zetian | 武则天 | ![图](# "https://ehgt.org/f2/71/f2712e3f466c0dc6210e03f5611af2a27e094d4f-1955013-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/武则天%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/不夜城的Assassin) |
 | abigail williams | 阿比盖尔·威廉姆斯 | ![图](https://ehgt.org/3a/f7/3af70f5295f6ff241236676c8d02b2a6b2cb2cf9-2805610-2861-4008-jpg_l.jpg)![图](https://ehgt.org/36/f9/36f969b01299ca3bc05eaa0e0f59109a5a63cdd8-3228482-2114-3047-jpg_l.jpg) |  |
 | hans christian andersen | 汉斯·克里斯蒂安·安徒生 |  |  |
 | hector | 赫克特 |  |  |
