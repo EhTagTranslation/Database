@@ -3469,6 +3469,7 @@ example:
 | kamina | 卡米那 |  |  |
 | merlin | 梅林 | ![图](https://ehgt.org/11/83/11830b1debc95b2e7f847b5171dcdc24f3100d0f-2342467-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/梅林) [萌娘百科](https://zh.moegirl.org.cn/梅林%28Fate%29#) |
 | akira kogami | 小神晶 |  |  |
+| minoru shiraishi | 白石稔 | 白石みのる<br><br>白石稔（rěn）是日本的男性声优、舞台演员、主持人、唱作人、作词作曲家。<br><br>`lucky star`中角色<br>白石稔  CV：`minoru shiraishi` | [萌娘百科](https://zh.moegirl.org.cn/白石稔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
