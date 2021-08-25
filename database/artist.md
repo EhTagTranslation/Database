@@ -857,7 +857,7 @@ example:
 | inoue kiyoshirou | 胃之上奇嘉郎 | ![twitter](https://pbs.twimg.com/profile_images/588208357045100544/hNuWlvou_400x400.jpg)<br><br>**作者推特头像**<br><br>お絵かきでご飯を食べています | [twitter](https://twitter.com/k_inouexxx) [pixiv](https://www.pixiv.net/users/23078) |
 | namonashi | 无望菜志 | ![图](# "https://ehgt.org/da/44/da44e3cbdaa00f8244ae7cb01a166ae62915d9ac-8165851-4230-6030-jpg_l.jpg") |  |
 | oda non | 织田non | 画风写实，多为`milf`。 |  |
-| nemunemu | ネムネム | 老师画的男孩子太棒了！画的比女孩子还要美的身材。 |  |
+| nemunemu | ネムネム | *老师画的男孩子太棒了！画的比女孩子还要美的身材。*<br><br>ネムネム<br>画师，同人志创作者。以画`tomgirl`为擅长。活动社团：`candy paddle`<br>包揽成人向杂志《オトコのコHEAVEN》的封面绘画。<br>作品特点：脸部呈完全女孩子的样态，身材保留了大部分男性特征，瘦长唯美，阴茎细长小巧。<br>同人本《SideOTOKONOKO iDOL BIRTHDAY PAKOPAKO (アイドルマスター SideM)》<br>![图](# "https://ehgt.org/76/6d/766d708f9839a5db8509368bcd51b01aeb06ead4-1120532-1200-1694-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/29984) |
 | makita masaki | 蒔田真記 | 日本女性插画师，主要从事成人插画作品。 |  |
 | hoshiai hilo | 星逢ひろ | 日本成人漫画家。最初以男性向种类活动。2000年以后，将创作重心移向`shotacon`和`yaoi`。其作品故事情节细腻，在H中仍能体会到一些感动。 |  |
 | takase yuu | 鹰势优 | 90年代中期开始从事成人向漫画创作。作品以`lolicon`和`shotacon`为主。 |  |
