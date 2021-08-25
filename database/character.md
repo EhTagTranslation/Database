@@ -1961,7 +1961,7 @@ example:
 | semiramis | 赛米拉米斯 |  |  |
 | shuten douji | 酒吞童子 | ![图](# "https://ehgt.org/92/1e/921e89d3464dd00a54f110f16711297505e77d30-2807454-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/酒吞童子%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/酒吞童子) |
 | tiamat | 提亚马特 |  |  |
-| bb | BB |  |  |
+| bb | BB | ![图](https://ehgt.org/83/85/83858c592f8bd02bf042ea95546f1b2b5753a8d1-2164528-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/BB%28Fate%29#) |
 | bradamante | 布拉达曼特 |  |  |
 | nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 | ![图](# "https://ehgt.org/dc/2b/dc2bba6bee0a93a81ada9f70bdaf8ad08dfb8450-2243286-1024-1448-png_l.jpg") | [Mooncell](http://www.fgo.wiki/w/尼禄·克劳狄乌斯〔新娘〕) [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#) |
 | chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰)<br>[茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
