@@ -1870,7 +1870,7 @@ example:
 | kaede makidera | 莳寺枫 |  |  |
 | gudao | 咕哒男 |  |  |
 | gudako | 咕哒子 |  |  |
-| kiyohime | 清姬 |  |  |
+| kiyohime | 清姬 | ![图](https://ehgt.org/13/45/1345b2b677182094579b1c9197496df78d2b2b08-2068714-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/清姬%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/清姬) |
 | alexander | 亚历山大 |  |  |
 | scathach | 斯卡哈 |  |  |
 | asterios | 阿斯忒里俄斯 |  |  |
