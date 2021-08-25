@@ -292,7 +292,7 @@ example:
 | sakananekobeya | 鱼猫部屋 |  |  |
 | white drop | ホワイトドロップ |  |  |
 | dieselmine | ディーゼルマイン |  |  |
-| ojou no yokushitsu | お嬢の浴室 |  | [官方网站](https://ojounoyokushitsu.tumblr.com) |
+| ojou no yokushitsu | お嬢の浴室 | ![图](https://ehgt.org/61/83/61839b5be9d395226cd990bab3c38261914a6ec9-289342-1500-800-jpg_l.jpg)<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>社团代表人：鉄人（参照标签`tetsujin`）<br>[Twitter](https://twitter.com/tetsujinybc) [Pixiv](https://www.pixiv.net/users/19383935)<br>初代作画担当：AYA （参照标签`aya`）<br>[Twitter](https://twitter.com/aya_ojo) [Youtube](https://www.youtube.com/c/星乃RAKUGAKIX)<br>C90后二代目作画担当：ひよさん（参照标签`hiyoko`）<br>[Twitter](https://twitter.com/hiyogeki) [Pixiv](https://www.pixiv.net/users/463143) | [官方网站](https://ojounoyokushitsu.tumblr.com) |
 | nagiyamasugi | ナギヤマスギ |  | [pixiv](https://www.pixiv.net/users/62628) [官方网站](http://nagiyamasugi.com) |
 | awatake | あわたけ |  |  |
 | gasobook | GASOBooK!! |  |  |
