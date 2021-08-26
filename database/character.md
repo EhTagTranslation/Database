@@ -3480,6 +3480,7 @@ example:
 | fuji kiseki | 富士奇迹 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：松井惠理子<br>身高：168cm，体重：无增减，三围：B84/W58/H82，生日：4月15日<br>实力派赛马娘。SS(周日宁静)一族的长姐。<br>特别周所住的学生宿舍(栗东寮)的宿舍长，为第一天报到迟到的特别周安排了暂时的住处。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/富士奇石) (\*\*) |
 | maruzensky | 丸善斯基 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：Lynn<br>身高：164cm，体重：理想的目标，三围：B93/W58/H88，生日：5月19日<br>个性优雅直率，受人憧憬的优秀赛马娘。<br>因为一些原因现在并未住在任何学生宿舍并在外面自己独居。<br>有着一台跑车并有开车兜风的嗜好，但任何当过她的副驾的人都会对她的开车行为有心理阴影。<br>曾在食堂不小心被特别周打翻的水杯弄湿了裙子，但没有因此怪罪特别周并优雅地化解了尴尬。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/丸善斯基) (\*\*) |
 | mihono bourbon | 美浦波旁 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：长谷川育美<br>身高：160cm，体重：无增减，三围：B86/W54/H87，生日：4月25日<br>性格略如机器人般木讷的赛马娘，为了回应训练员黑沼的期待经常严格训练。<br>以不败成绩于皋月赏、日本德比取得优胜后在粉丝期待能获得三冠的鼓励下参加菊花赏时败给米浴无缘三冠。<br>在米浴想要退出春季天皇赏的比赛时鼓励米浴，并在之后陪伴米浴的自主训练。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/美浦波旁) (\*\*) |
+| mejiro ardan | 目白阿尔丹 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：162cm，体重：秘密，三围：B87/W56/H85， 生日：3月28日(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/目白阿尔丹) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
