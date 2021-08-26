@@ -3483,6 +3483,7 @@ example:
 | mejiro ardan | 目白阿尔丹 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：162cm，体重：秘密，三围：B87/W56/H85， 生日：3月28日(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/目白阿尔丹) (\*\*) |
 | gold city | 黄金城市 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：158cm，体重：拒绝测量，三围：B85/W58/H82，生日：4月16日<br>拥有美丽外表的赛马娘，身兼模特儿及造型师的工作。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/黄金城市) (\*\*) |
 | meisho doto | 名将怒涛 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：和多田美咲<br>身高：164cm，体重：有点增加，三围：B99/W61/H89，生日：3月25日<br>个性保守，经常负面思考的赛马娘。<br>经常待在待兼福来身边辅佐算命工作。<br>在东海帝皇特别演唱会负责后台工作时遭遇偷袭，被优秀素质及诗歌剧按压在地上，使南坂得以让双涡轮的比赛实况播映在东海帝皇面前。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/名将怒涛) (\*\*) |
+| king halo | 圣王光环 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：佐伯伊织<br>身高：159cm，体重：完美，三围：B85/W60/H85， 生日：4月28日<br>特别周的同班同学，高傲且自尊心非常强烈的赛马娘。<br>春丽的室友。(游戏设定)<br>与特别周一起参加过“Rigil”的入选考试，输给神鹰及特别周落选。<br>与特别周参加过同一年经典三大赛事，仅在皋月赏赢过特别周(但未取得优胜)。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/圣王光环) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
