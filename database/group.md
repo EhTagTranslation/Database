@@ -2123,6 +2123,7 @@ example:
 | hokkyoku tairiku | 北極大陸 |  |  |
 | fuguriya | ふぐり屋 |  |  |
 | inran shounen | 淫乱少年 | 漫画家`jairou`社团。<br><br>`shotacon` |  |
+| rokumonsen | ろくもんせん | 作者`tamahagane`的同人社团。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
