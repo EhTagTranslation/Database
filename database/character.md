@@ -3472,6 +3472,7 @@ example:
 | minoru shiraishi | 白石稔 | 白石みのる<br><br>白石稔（rěn）是日本的男性声优、舞台演员、主持人、唱作人、作词作曲家。<br><br>`lucky star`中角色<br>白石稔  CV：`minoru shiraishi` | [萌娘百科](https://zh.moegirl.org.cn/白石稔) |
 | ilulu | 伊露露 | 伊露露（日语：イルル）是クール教信者创作的漫画《小林家的龙女仆》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊露露) |
 | perseus | 英仙座 | 蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:英仙座) |
+| kitasan black | 北部玄驹 | 游戏`uma musume pretty derby`及其衍生作品中的角色<br><br>声：矢野妃菜喜<br>身高：140cm(动画登场时)→162cm(入学后)，体重：快速成长中！，三围：B85/W56/H88， 生日：3月10日<br>动画第2季登场，个性开朗的赛马娘，和里见光钻是青梅竹马。<br>在特雷森学园的学园开放日和里见光钻一起跟着东海帝皇和目白麦昆参观特雷森学园，憧憬东海帝皇。<br>动画第2季结尾入学特雷森学园。 (\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
