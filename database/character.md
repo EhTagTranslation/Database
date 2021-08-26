@@ -3482,6 +3482,7 @@ example:
 | mihono bourbon | 美浦波旁 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：长谷川育美<br>身高：160cm，体重：无增减，三围：B86/W54/H87，生日：4月25日<br>性格略如机器人般木讷的赛马娘，为了回应训练员黑沼的期待经常严格训练。<br>以不败成绩于皋月赏、日本德比取得优胜后在粉丝期待能获得三冠的鼓励下参加菊花赏时败给米浴无缘三冠。<br>在米浴想要退出春季天皇赏的比赛时鼓励米浴，并在之后陪伴米浴的自主训练。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/美浦波旁) (\*\*) |
 | mejiro ardan | 目白阿尔丹 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：162cm，体重：秘密，三围：B87/W56/H85， 生日：3月28日(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/目白阿尔丹) (\*\*) |
 | gold city | 黄金城市 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：158cm，体重：拒绝测量，三围：B85/W58/H82，生日：4月16日<br>拥有美丽外表的赛马娘，身兼模特儿及造型师的工作。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/黄金城市) (\*\*) |
+| meisho doto | 名将怒涛 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：和多田美咲<br>身高：164cm，体重：有点增加，三围：B99/W61/H89，生日：3月25日<br>个性保守，经常负面思考的赛马娘。<br>经常待在待兼福来身边辅佐算命工作。<br>在东海帝皇特别演唱会负责后台工作时遭遇偷袭，被优秀素质及诗歌剧按压在地上，使南坂得以让双涡轮的比赛实况播映在东海帝皇面前。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/名将怒涛) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
