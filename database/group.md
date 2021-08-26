@@ -2122,6 +2122,7 @@ example:
 | chocolate sheep | Chocolate Sheep |  |  |
 | hokkyoku tairiku | 北極大陸 |  |  |
 | fuguriya | ふぐり屋 |  |  |
+| inran shounen | 淫乱少年 | 漫画家`jairou`社团。<br><br>`shotacon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
