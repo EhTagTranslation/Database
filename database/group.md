@@ -2121,6 +2121,7 @@ example:
 | pastyle | pastyle |  |  |
 | chocolate sheep | Chocolate Sheep |  |  |
 | hokkyoku tairiku | 北極大陸 |  |  |
+| fuguriya | ふぐり屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
