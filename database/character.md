@@ -3488,6 +3488,7 @@ example:
 | narita taishin | 成田大进 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：渡部惠子<br>身高：145cm，体重：拒绝测量，三围：B71/W50/H73，生日：6月10日<br>“BNW”的“N”，个性冷傲自大的赛马娘。<br>在第一季OVA特典“BNW的誓言”中，一度因为“BNW”陷入低潮而有引退的想法，并逃避参加接力赛。在收到琵琶晨光的幸运草并在接力赛当天实况转播被琵琶晨光及胜利奖卷鼓励后重回自信并赶到赛场参赛。虽然完全没有参与接力赛的N队的练习，但名义上是N队队长。赶到接力赛赛场后以N队最后一棒率先冲过终点线为N队拿下接力赛优胜，但其N队优胜资格因为其队员黄金船抄捷径的关系被判失格。(其后替补优胜资格的队伍W队及B队也分别因为特别周与伏特加的违规交棒及目白麦昆的无意妨碍对手超前行为被判失格，因此接力赛的优胜从缺。) (\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/成田大进) (\*\*) |
 | tazuna hayakawa | 骏川手纲 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：164cm，体重：秘密，三围：B83/W58/H84，日：5月2日<br>特雷森学园理事长秘书。在比赛中担任领航员。<br>特雷森学园的理事长秘书。为新人训练员主人公提供支援的前辈、上司及搭档般的存在。<br>性格温厚，带有沉稳气氛的优秀大姐姐。<br>对于刚刚来到学园赴任的主人公，时而温柔、时而严格地予以指导。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/骏川手纲) (\*\*) |
 | agnes tachyon | 爱丽速子 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：159cm，体重：拒绝测量，三围：B83/W55/H81，生日：4月13日(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/爱丽速子) (\*\*) |
+| manhattan cafe | 曼城茶座 | 游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>身高：155cm，体重：无增减，三围：B81/W54/H78，生日：3月5日(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/曼城茶座) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
