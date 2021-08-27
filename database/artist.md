@@ -1020,7 +1020,7 @@ example:
 | sakagami umi | 坂上海 |  |  |
 | kuno touya | 九野十弥 |  |  |
 | sakurasawa yukino | さくらさわゆきの |  |  |
-| inomoto rikako | 井之本理佳子 | 井之本理佳子为日本漫画家。主要画成人漫画、BL漫画、但也会画一般向漫画。另外和好友BENNY'S一起创立同人团体“`tenkaichi babys`”、也在Comic Market发售同人志。<br>画风有如少女漫画般纤细清新，所以常有人把她和BENNY'S当成是同一个人。(\*)<br><br>男性向单行本《LOVE♡STORE》<br>![图](# "https://ehgt.org/70/00/7000a2da75065f9c59927a36dd08939df8ea5737-482435-1399-1200-jpg_l.jpg")<br>女性向单行本《BABY BITCH!》<br>![图](# "https://ehgt.org/ac/5c/ac5c5bbc99d68d248f0e60ba827b263b3bcec41a-437458-2528-2142-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/井之本理佳子) (\*) |
+| inomoto rikako | 井之本理佳子 | 井之本理佳子为日本漫画家。主要画成人漫画、BL漫画、但也会画一般向漫画。另外和好友`bennys`一起创立同人团体“`tenkaichi babys`”、也在Comic Market发售同人志。<br>画风有如少女漫画般纤细清新，所以常有人把她和BENNY'S当成是同一个人。(\*)<br><br>男性向单行本《LOVE♡STORE》<br>![图](# "https://ehgt.org/70/00/7000a2da75065f9c59927a36dd08939df8ea5737-482435-1399-1200-jpg_l.jpg")<br>女性向单行本《BABY BITCH!》<br>![图](# "https://ehgt.org/ac/5c/ac5c5bbc99d68d248f0e60ba827b263b3bcec41a-437458-2528-2142-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/井之本理佳子) (\*) |
 | mikemono yuu | 神毛物由宇 |  | [pixiv](https://www.pixiv.net/users/1290206) [Twitter](https://twitter.com/mikemono_yuu) |
 | tsukioka kirio | ツキオカキリオ |  |  |
 | nishi | 弐肆 \| にし \| 西 | Count2.4<br>Lily \| Studio Empty<br>风来人 |  |
