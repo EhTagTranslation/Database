@@ -3303,6 +3303,7 @@ example:
 | bennys | BENNY'S | BENNY'S（べにー）为日本漫画家。主要画成人漫画、BL漫画。另外也和好友`inomoto rikako`一起创立同人团体“`tenkaichi babys`”、也会在Comic Market等贩售其同人志。<br>因为画风有如少女漫画般纤细清新而且和好友井之本理佳子相似，所以常有人把她们两人当成是同一个人.(\*)<br><br>其作品既多以`shotacon`或`tomgirl`为主。<br>单行本《小悪魔♥天使ちゃん》<br>![图](# "https://ehgt.org/dc/1d/dc1d56e2cafa3919672be4eedf091f4342057e1c-1984567-1058-1500-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/BENNY%27S) (\*) [Twitter](https://twitter.com/mt_bennys)<br>[Pixiv男性向](https://www.pixiv.net/users/55441762) [Pixiv女性向](https://www.pixiv.net/users/55439786) |
 | inaba cozy | 稻叶COZY | 稲葉COZY<br>”喜欢戴眼镜后性格认真的，时而又是高材生，时而又是扭曲的最终BOSS的类型角色的腐女子。“（翻译自推特简介）<br><br>以男性向的`shotacon`系漫画创作为工作。<br>单行本《めとられ 》<br>![图](# "https://ehgt.org/63/3b/633b1c4423b28295b0b59157939d6670380e25e3-804703-1168-1654-jpg_l.jpg") | [Twitter](https://twitter.com/z_panzer) |
 | oie kaeru | 御家かえる | 单行本《ヤりたいざかり♡男の娘》<br>![图](# "https://ehgt.org/4e/ff/4effade71eed3ab02bee10b34bf3bbd4d7708eca-2115645-1128-1600-jpg_l.jpg") | [Twitter](https://twitter.com/gohome_kun) [Pixiv](https://www.pixiv.net/users/18815611) |
+| chinzurena | チンズリーナ | 在《好色少年》、《オトコノコ時代》、《コミックマショウ》等杂志以及《オトコのコHEAVEN》选集上投稿雌堕`shotacon`、`tomgirl`的成人向色情漫画☆<br><br>![图](https://pbs.twimg.com/profile_images/1045185830422175744/zf69rGdd_400x400.jpg)<br>**作者推特头像**<br><br>单行本《メスイキ おちんぴっく2020》<br>![图](# "https://ehgt.org/80/42/8042d2f3ae3e079d196a3c1a104e7cfc91bce86d-1390510-1128-1600-jpg_l.jpg") | [Twitter](https://twitter.com/CHINZURI) [Pixiv](https://www.pixiv.net/users/130023) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
