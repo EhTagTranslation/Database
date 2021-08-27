@@ -2531,7 +2531,7 @@ example:
 | itose ikuto | 爱濑郁人 |  | [pixiv](https://www.pixiv.net/users/109010) |
 | osaru | 御猿 |  |  |
 | etori yuuya | 江鸟 |  | [pixiv](https://www.pixiv.net/users/43886) |
-| ootsuka kotora | 大塚子虎 |  |  |
+| ootsuka kotora | 大塚子虎 | ![图](https://pbs.twimg.com/profile_images/1316327824492355584/AQVGqvwu_400x400.png)<br>**作者推特头像**<br><br>单行本《アングレカム》<br>![图](# "https://ehgt.org/a0/24/a024db4e43eaaa42c2be004831768e23ec0afabb-458766-1105-1600-jpg_l.jpg") | [Twitter](https://twitter.com/kouchaya_kotora) |
 | testa | てすた |  |  |
 | butachang | ぶたちゃんぐ |  |  |
 | sahara gensei | 佐原玄清 |  |  |
