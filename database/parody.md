@@ -206,7 +206,7 @@ example:
 | dagashi kashi | 粗点心战争 | ![](https://ehgt.org/e1/fc/e1fce571fe182145db09d2b073f73f73cc91d3d1-1071761-1280-720-png_l.jpg) |  |
 | street fighter | 街头霸王 | ![](# "https://ehgt.org/b8/47/b847502ea4f37b1b9b6f5caf36f3e3be594875ee-818507-846-1197-jpg_l.jpg") |  |
 |  | ▼Type-Moon 系列 |  |  |
-| fate grand order | Fate/Grand Order | ![](https://ehgt.org/fd/bc/fdbc261c70b52baa032b35ecf2bad5e93080a749-199788-280-479-jpg_l.jpg) |  |
+| fate grand order | ![fgo](https://raw.githubusercontent.com/ShuraragiYomiko/ImageforETT/master/NameIcon/fate_grand_order.gif)Fate/Grand Order | 《Fate/Grand Order》（中国大陆又译作“命运－冠位指定”，简称Fate/GO、FGO），是TYPE-MOON推出的一款智能手机专用的角色扮演、电子卡牌收集社交网络游戏，是TYPE-MOON为纪念《Fate/stay night》十周年而进行的企划。《Fate/Grand Order》大致继承Fate系列的设定，TYPE-MOON其他作品（如《Fate/Zero》和《Fate/Apocrypha》、《Fate/EXTRA》、《Fate/Requiem》）、旗下衍生音乐游戏《Fate/Grand Order: Waltz in the Moonlight/LOSTROOM》的角色亦有登场。<br>![图](https://upload.wikimedia.org/wikipedia/zh/thumb/5/52/Fate_Grand_Order.png/220px-Fate_Grand_Order.png)<br>![](https://ehgt.org/fd/bc/fdbc261c70b52baa032b35ecf2bad5e93080a749-199788-280-479-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Fate/Grand_Order) (\*) [FGO中文维基Mooncell](http://www.fgo.wiki/w/首页) |
 | fate stay night | Fate/stay night | ![](https://ehgt.org/45/f9/45f9e306b18cae6a9465228be8aff270a24f6c79-468080-900-1293-png_l.jpg) |  |
 | fate apocrypha | Fate/Apocrypha | ![](https://ehgt.org/43/dc/43dc39bdc54c843b8a806b3f2f71069d316e04e8-3794023-2147-3018-jpg_l.jpg) |  |
 | fate zero | Fate/Zero | Fate/stay night前传<br>![图](https://ehgt.org/ef/f6/eff66d2ba324dc440abd2690fa3bd2682f9b3610-1123388-1472-2217-jpg_l.jpg) |  |
