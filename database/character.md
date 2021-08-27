@@ -3494,6 +3494,7 @@ example:
 | black rock shooter | 黑岩射手 | BLACK★ROCK SHOOTER（ブラック★ロックシューター，CV：花泽香菜）<br>麻陶的里世界化身，里世界称为黑岩射手。手持ROCK★CANNON，此武器可于一秒内发射20发岩石，也可转变为一把巨剑。最后黑衣和黑岩会面将优美救出。(\*) | [维基百科](https://zh.wikipedia.org/wiki/BLACK★ROCK_SHOOTER動畫角色列表) (\*) |
 | mio kisaki | 希咲美樱 |  |  |
 | lisa eostre | 丽莎·埃奥斯托雷 |  |  |
+| bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
