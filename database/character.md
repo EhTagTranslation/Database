@@ -3495,6 +3495,7 @@ example:
 | mio kisaki | 希咲美樱 |  |  |
 | lisa eostre | 丽莎·埃奥斯托雷 |  |  |
 | bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
+| takahiro mizuno | 水野贵弘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
