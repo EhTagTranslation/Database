@@ -3313,6 +3313,7 @@ example:
 | abec | abec | abec是日本的插画家，这本轻小说真厉害！2011插画部门第6位、2012插画部门第3位、2013插画部门第1位。<br><br>虽然`bunbun`在Twitter上表示跟abec并非同一个人，但是在台湾角川官网《刀剑神域》系列小说的介绍上叙述abec也以BUNBUN名义绘制插画[2]，而两人的签名会上出现的也都是同一人。在刀剑神域编辑三木一马的书中正式写出了确实与BUNBUN老师为同一人的事实，原本abec是用于私人部落格的昵称，后在听了三木一马编辑:“我会让abec这个名字比BUNBUN还要出名!”的建议下，以abec的名义担当刀剑神域的插画一职，让abec此名称正式商业出道。<br>![图](https://ehgt.org/5b/72/5b7268521e9b0afe74dce306d2f5e18d65061d87-330944-821-1200-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Abec) (\*) [Twitter](https://twitter.com/bunbun922) [Pixiv](https://www.pixiv.net/users/8142) |
 | a-10 | A-10（不破大辅） | 不破大輔（ふわ だいすけ）为日本的插画家、漫画家。已婚。游戏公司“日本一软件”的原社员。<br><br>出生于爱知县名古屋市。 因仰慕野村良治，2006年9月入社“日本一软件”。 于2009年9月末退社、 现在以A-10为名，作为漫画家活动中。<br><br>很执着于“足心/脚掌面”（足の裏）的描写。 作品多见`futanari`、`lolicon`<br><br>《ふたなりスケッチALL (ひだまりスケッチ)》<br>![图](# "https://ehgt.org/66/db/66db5541bb41251b44b6c6aa713a7aeec7c71545-3131718-2112-3000-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/不破大輔) (\*) [Pixiv](https://www.pixiv.net/users/820557) |
 | atori k | 秋尚 | 《愛妻ブルマー》<br>![图](# "https://ehgt.org/44/b0/44b0103bcab02692f1346e750f2eac41433283d8-317708-720-1024-jpg_l.jpg") | [Twitter](https://www.pixiv.net/users/5111619) |
+| umashika | うましか | うましか为日本漫画家。以投稿成人向漫画杂志活动。<br><br>单行本《ぷちぱい》<br>![图](# "https://ehgt.org/55/ba/55ba05931cdea5bc5412bc7a4be6777040ff19db-5194303-4862-3303-jpg_l.jpg") | [Twitter](https://twitter.com/u_ma_si_ka) [Pixiv](https://www.pixiv.net/users/45135453)<br>[维基百科🇯🇵](https://ja.wikipedia.org/wiki/うましか)  (\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
