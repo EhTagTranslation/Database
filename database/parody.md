@@ -955,7 +955,7 @@ example:
 | warship girls | 战舰少女 |  |  |
 | sexfriend | SEXFRIEND |  |  |
 | school days | 日在校园 |  |  |
-| walkure romanze | Walkure Romanze 少女骑士物语 |  |  |
+| walkure romanze | 少女骑士物语 |  |  |
 | majin bone | 魔神之骨 |  |  |
 | starry sky | Starry☆Sky |  |  |
 | amano megumi ha sukidarake | 天野惠浑身是破绽！ |  |  |
