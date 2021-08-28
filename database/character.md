@@ -3511,6 +3511,7 @@ example:
 | ragyo kiryuuin | 鬼龙院罗晓 |  |  |
 | nui harime | 针目缝 | 针目缝（日语：針目 縫（はりめ ぬい））是TRIGGER公司所制作的动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/33/42/33427e27b0dce622aa6f5948deea3b367507becb-1105704-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/针目缝) (\*\*) |
 | ira gamagoori | 蟆郡苛 |  |  |
+| houka inumuta | 犬牟田宝火 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
