@@ -3021,7 +3021,7 @@ example:
 | koutarou tatsumi | 巽幸太郎 |  |  |
 | sakura minamoto | 源樱 |  |  |
 | tae yamada | 山田多惠 |  |  |
-| ayano sugiura | 杉浦绫乃 | 清纯内向的学生会副会长，留有紫红色长发并扎成长马尾。岁纳京子、船见结衣、池田千岁的同班同学。在谁眼里都是个开朗、可爱的女孩，但实际上有点怕生。<br>![](https://commons.moegirl.org.cn/thumb.php?f=29002156.jpg&width=147) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/杉浦绫乃) |
+| ayano sugiura | 杉浦绫乃 | 漫画`yuruyuri`及其衍生作品中的登场角色。<br>清纯内向的学生会副会长，留有紫红色长发并扎成长马尾。岁纳京子、船见结衣、池田千岁的同班同学。在谁眼里都是个开朗、可爱的女孩，但实际上有点怕生。<br>![](https://commons.moegirl.org.cn/thumb.php?f=29002156.jpg&width=147)<br>![图](https://ehgt.org/4c/08/4c0811886a4b4738705e0bd53de63da965aee4f3-11567580-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/杉浦绫乃) (\*\*) |
 | akari akaza | 赤座灯里 | 阿卡林，漫画`yuruyuri`中及其衍生作品中的登场角色。<br>![图](https://ehgt.org/39/c3/39c39b3fa3da04f0ae43f3fb85cade5a44f5fd1f-12142069-4370-6000-jpg_l.jpg)<br>![图](# "https://ehgt.org/8c/eb/8ceb4ea4c2b8fad7706f932f2f499a8d5b90b734-6105080-1200-1695-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/赤座灯里) (\*\*) |
 | kyouko toshinou | 岁纳京子 | 漫画`yuruyuri`及其衍生作品中的角色。<br>京子是赤座灯里和船见结衣的朋友，在作品开始时为十四岁，为七森中学二年级的学生，与结衣同年，比灯里大一岁。拥有黄色长发刘海及眉，头绑深红色蝴蝶结，蓝色瞳孔，外观近似萝莉。<br>![图](https://ehgt.org/24/03/2403d3e55a804b8c94be22d7403520a354510985-12236267-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/岁纳京子) (\*\*) |
 | reisalin stout | 莱莎琳·斯托特 |  |  |
