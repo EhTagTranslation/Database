@@ -3513,6 +3513,7 @@ example:
 | ira gamagoori | 蟆郡苛 |  |  |
 | houka inumuta | 犬牟田宝火 |  |  |
 | aikuro mikisugi | 美木杉爱九郎 |  |  |
+| tsumugu kinagase | 黄长濑䌷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
