@@ -2853,7 +2853,7 @@ example:
 | juliet persia | 朱丽叶·佩尔西亚 | 漫画作品《寄宿学校的朱丽叶》的女主角，达利亚学园高中部学生，白猫宿舍本人所在年级的领导者。<br>朱丽叶是威斯特公国贵族的独生女，因当时社会认定家族继承人只能由男性担任而从小磨练自己，背负了巨大压力，也因此希望改变世界法则。<br>和犬冢露壬雄是从小到大的对手，喜欢犬冢露壬雄，在接受对方的告白后经常在他面前露出娇羞的表情。性格温柔，气质优雅，心地善良，平时威风凛凛，然而一见到露壬雄就……<br>![朱丽叶·佩尔西亚](https://img.moegirl.org.cn/common/0/0f/ジュリエット・ペルシア-漫画.jpg)<br>![朱丽叶·佩尔西亚](https://img.moegirl.org.cn/common/1/14/3628803_-_寄宿学校のジュリエット_-_65156660.png) | [朱丽叶·佩尔西亚 - 萌娘百科](https://zh.moegirl.org.cn/朱丽叶·佩尔西亚) |
 | romio inuzuka | 犬冢露壬雄 |  |  |
 | himawari furutani | 古谷向日葵 |  |  |
-| sakurako ohmuro | 大室樱子 |  |  |
+| sakurako ohmuro | 大室樱子 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/dd/89/dd897e403708652964b2d037b9f13e86d846af91-11863386-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大室樱子) (\*\*) |
 | raphtalia | 拉芙塔莉雅 |  |  |
 | filo | 菲洛 |  |  |
 | altina orion | 亚尔缇娜·奥莱恩 |  |  |
