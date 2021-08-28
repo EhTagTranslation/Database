@@ -3315,6 +3315,7 @@ example:
 | atori k | 秋尚 | 《愛妻ブルマー》<br>![图](# "https://ehgt.org/44/b0/44b0103bcab02692f1346e750f2eac41433283d8-317708-720-1024-jpg_l.jpg") | [Twitter](https://www.pixiv.net/users/5111619) |
 | umashika | うましか | うましか为日本漫画家。以投稿成人向漫画杂志活动。<br><br>单行本《ぷちぱい》<br>![图](# "https://ehgt.org/55/ba/55ba05931cdea5bc5412bc7a4be6777040ff19db-5194303-4862-3303-jpg_l.jpg") | [Twitter](https://twitter.com/u_ma_si_ka) [Pixiv](https://www.pixiv.net/users/45135453)<br>[维基百科🇯🇵](https://ja.wikipedia.org/wiki/うましか)  (\*) |
 | ebifly | えびふらい | 1989年（平成元年）出道。主要以画成人向的漫画为中心。与同行的作家`neriwasabi`有着30年以上的交往互动。在CM等漫展上曾多次合作组成合体社团，也出了多本合作的同人志。但是在2019年左右，被曝因持续20年的经济问题两个人处于绝交状态。<br><br>作品中的女性基本上为猫耳美少女或猫耳美女。（参考标签`catgirl`）<br><br>军事迷，经常在作品中使用军事梗。但根据本人的解释是：比起枪支更喜欢军服；与枪支爱好者没什么共同话题。<br>![图](https://pbs.twimg.com/profile_images/1259618639952543744/0ahRCyY__400x400.jpg)<br>**作者推特头像**<br><br>《ぱい☆ふり Oppai Fleet (艦隊これくしょん -艦これ-)》<br>![图](# "https://ehgt.org/6e/eb/6eebb2662e0df7119f78a766620f029b8457e78d-481757-1075-1518-jpg_l.jpg") | [Twitter](https://twitter.com/ebifly857) [Pixiv](https://www.pixiv.net/users/1271948)<br>[维基百科🇯🇵](https://ja.wikipedia.org/wiki/えびふらい) (\*) |
+| azumawari | あずまわり | 画师，非常爱画`sadako yamamura`的一个人。 | [Twitter](https://twitter.com/azumawari) [Pixiv](https://www.pixiv.net/users/482247) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
