@@ -3517,6 +3517,7 @@ example:
 | kiki | 琪琪 | ![图](https://ehgt.org/9e/6c/9e6cea97419932387ef0c9872409487e908a4a6a-108082-587-1050-jpg_l.jpg) |  |
 | saki watanabe | 渡边早季 | 小说《`shinsekai yori`》及其衍生作品中的出场角色。 |  |
 | yui funami | 船见结衣 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/0b/a5/0ba520de8b7c985d1473256f2750136c32f251e1-10817355-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/船见结衣) (\*\*) |
+| chitose ikeda | 池田千岁 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/8c/5b/8c5bdc105f69ff4d62a3852846c50f8852c3fa75-10438673-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/池田千岁) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
