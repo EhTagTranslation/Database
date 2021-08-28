@@ -3518,6 +3518,7 @@ example:
 | saki watanabe | 渡边早季 | 小说《`shinsekai yori`》及其衍生作品中的出场角色。 |  |
 | yui funami | 船见结衣 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/0b/a5/0ba520de8b7c985d1473256f2750136c32f251e1-10817355-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/船见结衣) (\*\*) |
 | chitose ikeda | 池田千岁 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/8c/5b/8c5bdc105f69ff4d62a3852846c50f8852c3fa75-10438673-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/池田千岁) (\*\*) |
+| chinatsu yoshikawa | 吉川千夏 | 漫画`yuruyuri`及其衍生作品中的登场角色。<br>![图](https://ehgt.org/f3/fb/f3fba6ed25a2493b21e7369e45d6706f18c49df7-11451052-4370-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/吉川千夏) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
