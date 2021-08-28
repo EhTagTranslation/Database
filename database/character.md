@@ -3508,6 +3508,7 @@ example:
 | mako mankanshoku | 满舰饰真子 | 满舰饰真子（日语：満艦飾 マコ（まんかんしょく まこ））是TRIGGER公司所制作的原创动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/2f/72/2f7204efaa928b0b3ce596e0bbfce85e4bc3548a-31145-480-590-jpg_l.jpg)<br>![图](https://ehgt.org/7d/78/7d78b24f9eacb38378c5eab74ba5c1305b8efbc2-46660-564-396-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/满舰饰真子) (\*\*) |
 | nonon jakuzure | 蛇崩乃音 | 蛇崩乃音（日语：蛇崩 乃音（じゃくずれ ののん））是由TRIGGER公司创作的动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/40/ff/40ff59de1f819dde287d4ed38e1e6683c44fb12b-59888-563-392-jpg_l.jpg)<br>![图](https://ehgt.org/72/6f/726faad3bc773962eddf2aeaf9f43f16bbde483e-84009-1280-720-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/蛇崩乃音) (\*\*) |
 | uzu sanageyama | 猿投山涡 |  |  |
+| ragyo kiryuuin | 鬼龙院罗晓 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
