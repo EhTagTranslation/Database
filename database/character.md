@@ -3505,6 +3505,7 @@ example:
 | sadako yamamura | 山村贞子 | 山村贞子（やまむら · さだこ，Yamamura Sadako），通称贞子，是日本作家铃木光司笔下《午夜凶铃》（又名午夜凶铃）中的角色。<br>![图](https://ehgt.org/9c/4e/9c4e3fa6fe81036d7066ca913ed4b4904d39eb50-1302725-1001-1000-png_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/山村貞子) (\*) |
 | ryuuko matoi | 缠流子 | 缠流子（日语：纏 流子（まとい りゅうこ））是TRIGGER公司所制作的原创动画《`kill la kill`》及其衍生作品中的登场角色。<br>![图](https://ehgt.org/f0/bf/f0bf20a8a928b43eae2a6780bf04a96d7a9bc5b8-17898-219-360-jpg_l.jpg)<br>![图](https://ehgt.org/fb/09/fb09cfd0f0421f25075f83e8e4a469fd63e5c72d-32418-380-590-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/缠流子) (\*\*) |
 | satsuki kiryuuin | 鬼龙院皋月 | 鬼龙院皋月是TRIGGER所制作的原创动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/8c/26/8c26a2d19540b8f3f54472ccdddb271b2b4c215b-73376-550-600-jpg_l.jpg)<br>![图](https://ehgt.org/c4/fa/c4fa46a338d96882af5d91c3928e5e795df844d4-65360-592-1024-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鬼龙院皋月) (\*) |
+| mako mankanshoku | 满舰饰真子 | 满舰饰真子（日语：満艦飾 マコ（まんかんしょく まこ））是TRIGGER公司所制作的原创动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/2f/72/2f7204efaa928b0b3ce596e0bbfce85e4bc3548a-31145-480-590-jpg_l.jpg)<br>![图](https://ehgt.org/7d/78/7d78b24f9eacb38378c5eab74ba5c1305b8efbc2-46660-564-396-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/满舰饰真子) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
