@@ -3504,6 +3504,7 @@ example:
 | romani archaman | 罗玛尼·阿其曼 | ——嗨~我进来~——呃，哎哎哎哎哎哎哎！？<br>你谁啊！？这里可是空房间哦，是我翘班的避难所啊！？<br>谁允许你进来的！？<br>![图](https://ehgt.org/ac/bd/acbd531e7069aeb1e0608134fe005a0e2446c6c4-1947718-1024-1750-png_l.jpg)<br>![图](https://ehgt.org/18/15/1815c4fbc1d3ba6b01ac5f872b354109a77acbca-2745074-1024-1750-png_l.jpg)<br><br>盖提亚。让我教导你最后的魔术吧。<br>告诉虽然知道“所罗门王还有一个宝具”，但却未能知道其真名——<br>不，是不可能知道其真名的你。<br><br>诞生之时已至，以此修正万象。<br>戴冠之时已至，以此启发万象。<br>以及——<br>诀别之时已至。以此，舍弃世界。<br>——Ars Nova | [萌娘百科](https://zh.moegirl.org.cn/罗玛尼·阿其曼) (\*\*) |
 | sadako yamamura | 山村贞子 | 山村贞子（やまむら · さだこ，Yamamura Sadako），通称贞子，是日本作家铃木光司笔下《午夜凶铃》（又名午夜凶铃）中的角色。<br>![图](https://ehgt.org/9c/4e/9c4e3fa6fe81036d7066ca913ed4b4904d39eb50-1302725-1001-1000-png_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/山村貞子) (\*) |
 | ryuuko matoi | 缠流子 | 缠流子（日语：纏 流子（まとい りゅうこ））是TRIGGER公司所制作的原创动画《`kill la kill`》及其衍生作品中的登场角色。<br>![图](https://ehgt.org/f0/bf/f0bf20a8a928b43eae2a6780bf04a96d7a9bc5b8-17898-219-360-jpg_l.jpg)<br>![图](https://ehgt.org/fb/09/fb09cfd0f0421f25075f83e8e4a469fd63e5c72d-32418-380-590-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/缠流子) (\*\*) |
+| satsuki kiryuuin | 鬼龙院皋月 | 鬼龙院皋月是TRIGGER所制作的原创动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/8c/26/8c26a2d19540b8f3f54472ccdddb271b2b4c215b-73376-550-600-jpg_l.jpg)<br>![图](https://ehgt.org/c4/fa/c4fa46a338d96882af5d91c3928e5e795df844d4-65360-592-1024-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鬼龙院皋月) (\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
