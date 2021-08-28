@@ -3509,6 +3509,7 @@ example:
 | nonon jakuzure | 蛇崩乃音 | 蛇崩乃音（日语：蛇崩 乃音（じゃくずれ ののん））是由TRIGGER公司创作的动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/40/ff/40ff59de1f819dde287d4ed38e1e6683c44fb12b-59888-563-392-jpg_l.jpg)<br>![图](https://ehgt.org/72/6f/726faad3bc773962eddf2aeaf9f43f16bbde483e-84009-1280-720-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/蛇崩乃音) (\*\*) |
 | uzu sanageyama | 猿投山涡 |  |  |
 | ragyo kiryuuin | 鬼龙院罗晓 |  |  |
+| nui harime | 针目缝 | 针目缝（日语：針目 縫（はりめ ぬい））是TRIGGER公司所制作的动画《`kill la kill`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/33/42/33427e27b0dce622aa6f5948deea3b367507becb-1105704-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/针目缝) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
