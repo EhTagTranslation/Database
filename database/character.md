@@ -3515,6 +3515,7 @@ example:
 | aikuro mikisugi | 美木杉爱九郎 |  |  |
 | tsumugu kinagase | 黄长濑䌷 |  |  |
 | kiki | 琪琪 | ![图](https://ehgt.org/9e/6c/9e6cea97419932387ef0c9872409487e908a4a6a-108082-587-1050-jpg_l.jpg) |  |
+| saki watanabe | 渡边早季 | 小说《`shinsekai yori`》及其衍生作品中的出场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
