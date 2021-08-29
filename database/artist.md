@@ -3318,7 +3318,7 @@ example:
 | azumawari | あずまわり | 画师，非常爱画`sadako yamamura`的一个人。 | [Twitter](https://twitter.com/azumawari) [Pixiv](https://www.pixiv.net/users/482247) |
 | namori | Namori | Namori（日语：なもり），1987年6月25日－）是日本女性漫画家，血型为B型。她出生于富山县，居于京都府。大学时住在名古屋。<br><br>据其所言，她从小学时代就想当漫画家了。成为漫画家后，喜欢在咖啡厅等处工作画漫画。代表作之一为《`yuruyuri`》。自画像形似水母。<br><br>笔名中的な是因为高中同班同学里有人な字写得很可爱，もり则是随便取的。<br>![图](https://ehgt.org/e3/cb/e3cb679b447517d4d7c3caa993582825e09da34f-13629569-4370-6000-jpg_l.jpg) | [Twitter](https://twitter.com/_namori_) [Pixiv](https://www.pixiv.net/users/124923) [维基百科](https://zh.wikipedia.org/wiki/Namori) (\*) |
 | hata kenjirou | 畑健二郎 | 畑健二郎（1975年10月19日－），日本男性漫画家。出生于福冈县福冈市出身，血型A型。久米田康治为其师父。大阪艺术大学艺术学部毕业。<br>代表作品：`hayate no gotoku`、`tonikaku kawaii`<br>![图](https://ehgt.org/da/f2/daf2fc3a088ec545b7499def8254a65c4a32fafb-1096794-2134-3000-jpg_l.jpg) | [Twitter](https://twitter.com/hatakenjiro) [维基百科](https://zh.wikipedia.org/wiki/畑健二郎) (\*) |
-| gelatin | 沟口明胶 | [https://i.pximg.net/user-profile/img/2018/08/01/00/29/36/14565303\_71f8f8701591cfc48e2b71224ae3f456\_170.jpg](https://i.pixiv.cat/user-profile/img/2018/08/01/00/29/36/14565303_71f8f8701591cfc48e2b71224ae3f456_170.jpg) | [Twitter](https://twitter.com/gelatin666)<br>[pixiv](https://www.pixiv.net/users/1149582) |
+| gelatin | 沟口明胶 |  | [Twitter](https://twitter.com/gelatin666)<br>[pixiv](https://www.pixiv.net/users/1149582) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
