@@ -3529,6 +3529,7 @@ example:
 | minene uryuu | 雨流美弥弥 | 雨流美弥音是漫画《`mirai nikki`》及其衍生作品的登场角色。<br>![图](# "https://ehgt.org/13/d4/13d4496d3a00bb51ae86067b9b3e7a6ee4a57b57-554314-898-1314-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/雨流美弥音) (\*\*) |
 | yukiteru amano | 天野雪辉 | 天野雪辉（日语：あまの ゆきてる）是由えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的男主角。<br>![图](https://ehgt.org/08/de/08de173cccfc75a2fd3387feadaf117d23c287eb-798165-1023-576-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天野雪辉) (\*\*) |
 | motoko kusanagi | 草薙素子（少佐） | 草薙tì素子（日语：草薙素子）是由日本漫画家士郎正宗所创作漫画《`ghost in the shell`》里登场的女性主角。<br>![图](https://ehgt.org/4d/18/4d18e200f5c3e7583c65a3982e7534aacda90e39-243939-400-400-jpg_l.jpg)<br>![图](https://ehgt.org/3a/3f/3a3f9d8683d4b2f66cf80558e627f1e064ddb9f0-3428507-2307-3471-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/草薙素子) (\*\*) |
+| mayuri shiina | 椎名真由理 | ![图](https://ehgt.org/ca/6c/ca6c084384e71bd4b716eb86fa3f8dba4da15631-2506449-1220-1714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/椎名真由理) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
