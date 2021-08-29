@@ -3544,6 +3544,7 @@ example:
 | amu hinamori | 日奈森亚梦 |  |  |
 | utau hoshina | 月咏歌呗 |  |  |
 | rima mashiro | 真城璃茉 |  |  |
+| ikuto tsukiyomi | 月咏几斗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
