@@ -561,7 +561,6 @@ example:
 | impregnation | 受孕 | `pregnant`的过程。 |  |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
-| tomboy | 假小子 | 一个女孩模仿男性的穿着、行为和言辞，但没有掩饰自己的性别。当她试图掩饰自己的性别时，有可能与`crossdressing`共存。 |  |
 | tomgirl | 伪娘 | 通常误认为是女性的男性。常与`crossdressing`同时出现，不应与`shemale`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |
 | tutor | 家庭教师 | 向校外的学生提供私人学术援助的人士。 |  |
 | virginity | 丧失童贞 | 男性失去童贞，不得与女性的`defloration`混淆。 |  |
