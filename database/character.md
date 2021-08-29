@@ -3535,6 +3535,7 @@ example:
 | faris nyannyan | 菲利斯·喵喵 | 秋叶留未穗，常用名菲利斯·喵喵（Faris Nyan-Nyan），是游戏《`SteinsGate`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/e2/75/e275aa1fba896b663b065e45088467d654557be5-4806150-1920-1080-png_l.jpg)<br>![图](https://ehgt.org/3f/98/3f98b2316aa1d6589aac542c94da52f3fe18f350-2755153-1221-1709-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/秋叶留未穗) (\*\*) |
 | anzu | 杏子 | 杏子（日语：アンズ）是由大武政夫创作的漫画《`hinamatsuri`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/杏子%28黑社会的超能力女儿%29#) |
 | hitomi mishima | 三岛瞳 | 三岛瞳是由大武政夫所创作的漫画《`hinamatsuri`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/三岛瞳) (\*\*) |
+| komekko | 米米 | 其名米米，是晓枣所创作的轻小说《`kono subarashii sekai ni syukufuku o`》及其衍生作品中，红魔族的第一魔性妹妹！<br>![图](https://ehgt.org/32/f0/32f0da8e25b49e7c0fde4563173a6b9123438f17-31244-280-396-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/米米%28为美好的世界献上祝福%29#) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
