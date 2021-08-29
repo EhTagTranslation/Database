@@ -3521,6 +3521,7 @@ example:
 | chinatsu yoshikawa | 吉川千夏 | 漫画`yuruyuri`及其衍生作品中的登场角色。<br>![图](https://ehgt.org/f3/fb/f3fba6ed25a2493b21e7369e45d6706f18c49df7-11451052-4370-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/吉川千夏) (\*\*) |
 | nasa yuzaki | 由崎星空 | 漫画`tonikaku kawaii`及其衍生作品中的角色。 |  |
 | tsukasa yuzaki | 由崎司（月读司） | 漫画`tonikaku kawaii`及其衍生作品中的角色。<br>![图](# "https://ehgt.org/9c/39/9c397eda13dde06edd0b5867d1e9b72a95dbe489-458608-2080-3025-jpg_l.jpg") |  |
+| ringo-chan | 小苹果 | 小苹果（日语：りんごちゃん）是由山内泰延所创作的漫画《`danshi koukousei no nichijou`》及其衍生作品的登场角色。<br>![图](# "https://ehgt.org/97/ab/97ab213b8a3f3bb366d726b8f4dc818ca243a4fb-484420-1134-1600-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/小苹果%28男子高中生的日常%29#) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
