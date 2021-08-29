@@ -3527,6 +3527,7 @@ example:
 | reisuke houjou | 丰穰礼佑 | 丰穰礼佑是えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的角色之一。<br>![图](# "https://ehgt.org/52/b9/52b9dd4942042bc941a4e9736493af8f8fa3e0cb-749319-708-1000-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/丰穰礼佑) (\*\*) |
 | tsubaki kasugano | 春日野椿 | 春日野椿是えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的女角色之一。<br>![图](https://ehgt.org/1b/8a/1b8a7f42dd63234e4089ad43a5ed6fa2b6627e37-617019-600-700-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/春日野椿) |
 | minene uryuu | 雨流美弥弥 | 雨流美弥音是漫画《`mirai nikki`》及其衍生作品的登场角色。<br>![图](# "https://ehgt.org/13/d4/13d4496d3a00bb51ae86067b9b3e7a6ee4a57b57-554314-898-1314-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/雨流美弥音) (\*\*) |
+| yukiteru amano | 天野雪辉 | 天野雪辉（日语：あまの ゆきてる）是由えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的男主角。<br>![图](https://ehgt.org/08/de/08de173cccfc75a2fd3387feadaf117d23c287eb-798165-1023-576-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天野雪辉) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
