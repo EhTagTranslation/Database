@@ -3531,6 +3531,7 @@ example:
 | motoko kusanagi | 草薙素子（少佐） | 草薙tì素子（日语：草薙素子）是由日本漫画家士郎正宗所创作漫画《`ghost in the shell`》里登场的女性主角。<br>![图](https://ehgt.org/4d/18/4d18e200f5c3e7583c65a3982e7534aacda90e39-243939-400-400-jpg_l.jpg)<br>![图](https://ehgt.org/3a/3f/3a3f9d8683d4b2f66cf80558e627f1e064ddb9f0-3428507-2307-3471-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/草薙素子) (\*\*) |
 | mayuri shiina | 椎名真由理 | 嘟～嘟噜～<br>椎名真由理是游戏《`steinsgate`》及其衍生作品的登场角色。在游戏开始时年纪为16岁。<br>![图](https://ehgt.org/ca/6c/ca6c084384e71bd4b716eb86fa3f8dba4da15631-2506449-1220-1714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/椎名真由理) (\*\*) |
 | rintarou okabe | 冈部伦太郎 | “EL PSY CONGROO”<br>鳳凰院 凶真<br><br>冈部伦太郎是2009年10月15日发售的5pb.的游戏《`steinsgate`》及其衍生作品的登场角色，男主角。<br>![图](https://ehgt.org/35/c7/35c7493aa98301c27f2265fcdeaa2466f2cdb8cb-2468576-1920-1080-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/冈部伦太郎) (\*\*) |
+| suzuha amane | 阿万音铃羽 | 阿万音铃羽是5pb.的游戏《`SteinsGate`》(命运石之门)及其衍生作品的登场角色。<br>![图](https://ehgt.org/e2/78/e2780e9a95a78f391924bff5e28f39cda063f87d-2594914-1222-1716-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿万音铃羽) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
