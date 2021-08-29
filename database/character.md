@@ -3547,6 +3547,7 @@ example:
 | ikuto tsukiyomi | 月咏几斗 |  |  |
 | nadeshiko fujisaki | 藤咲抚子 |  |  |
 | akane tsunemori | 常守朱 | 常守朱是noitaminA频道企划的动画《`psycho-pass`》及其衍生作品中的登场角色。<br>![图](https://ehgt.org/81/71/8171e16b93c2487e8ba6d3709ee5a99c791adc73-160672-389-550-jpg_l.jpg)<br>![图](https://ehgt.org/1e/8d/1e8d8b614ca3c7e324d522b8cd2a773712adeb06-17983-250-250-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/常守朱) (\*\*) |
+| shino amakusa | 天草篠 | 天草篠（xiǎo）是氏家ト全创作的漫画《`seitokai yakuindomo`》及其衍生的动画等作品的登场角色，私立樱才学园学生会长。 | [萌娘百科](https://zh.moegirl.org.cn/天草篠) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
