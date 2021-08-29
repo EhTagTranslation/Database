@@ -3526,6 +3526,7 @@ example:
 | yuno gasai | 我妻由乃 | 我妻由乃是えすのサカエ所创作的的漫画《`mirai nikki`》及其衍生作品的女主角，也是日本ACG文化中`yandere` 属性最著名和典型的代表之一。<br>![图](https://ehgt.org/01/c3/01c3461d1989f6473ced2e7509f66c61b70fadaf-94426-470-783-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/我妻由乃) (\*\*) |
 | reisuke houjou | 丰穰礼佑 | 丰穰礼佑是えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的角色之一。<br>![图](# "https://ehgt.org/52/b9/52b9dd4942042bc941a4e9736493af8f8fa3e0cb-749319-708-1000-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/丰穰礼佑) (\*\*) |
 | tsubaki kasugano | 春日野椿 | 春日野椿是えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的女角色之一。<br>![图](https://ehgt.org/1b/8a/1b8a7f42dd63234e4089ad43a5ed6fa2b6627e37-617019-600-700-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/春日野椿) |
+| minene uryuu | 雨流美弥弥 | 雨流美弥音是漫画《`mirai nikki`》及其衍生作品的登场角色。<br>![图](# "https://ehgt.org/13/d4/13d4496d3a00bb51ae86067b9b3e7a6ee4a57b57-554314-898-1314-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/雨流美弥音) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
