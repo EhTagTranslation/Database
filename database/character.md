@@ -2644,7 +2644,7 @@ example:
 | kurisu makise | 牧濑红莉栖 |  |  |
 | maribel | 玛丽贝尔 |  |  |
 | precia zan zenosakis | 普蕾茜娅·泽诺萨奇斯 |  |  |
-| ruka urushibara | 漆原琉华 |  |  |
+| ruka urushibara | 漆原琉华 | **だが男だ。**<br><br>声音和举止看上去都像是女人。<br>…不，比女人更像女人的美少女。<br>**但是是男的。**<br>虽然比真由理高，<br>身形却很纤细。<br>**但是是男的。**<br>很适合巫女服。<br>但是是男的。<br>…都已经傍晚了，真热呢。<br>知了还在叫。<br>**但是……是男的。**<br><br>漆原琉华是游戏《`steinsgate`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/66/da/66dac4d3a430189c0b3b427fbef1bfa527fc485e-1889520-1217-1716-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/漆原琉华) (\*\*) |
 | yui takamura | 篁唯依 |  |  |
 | nico robin | 妮可·罗宾 |  |  |
 | saint shalulia | 夏露莉雅宫 |  |  |
