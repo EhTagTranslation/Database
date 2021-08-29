@@ -3551,6 +3551,7 @@ example:
 | aria shichijou | 七条天空 | 七条天空是氏家ト全创作的漫画《`seitokai yakuindomo`》及其衍生的动画等作品的登场角色，私立樱才学院学生会书记。 | [萌娘百科](https://zh.moegirl.org.cn/七条天空) (\*\*) |
 | suzu hagimura | 萩村铃 | 萩（qiū）村铃是氏家ト全创作的漫画《`seitokai yakuindomo`》及其衍生的动画等作品的登场角色，私立樱才学园学生会会计。<br>![图](https://ehgt.org/9f/29/9f299ef811db99ba71050fd5ae408deb4b819a1e-22223-321-600-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/萩村铃) (\*\*) |
 | uomi | 鱼见千寻 | 鱼见千寻是氏家ト全创作的漫画《`seitokai yakuindomo`》及其衍生的动画等作品的登场角色，私立英棱高校的学生会长。<br>![图](https://ehgt.org/ea/13/ea13e39c2c3e18a12083632a51f0a58cd283d35e-27702-540-540-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鱼见千寻) (\*\*) |
+| takatoshi tsuda | 津田隆利 | 津田隆利是氏家ト全创作的漫画《`seitokai yakuindomo`》及其衍生的动画等作品的登场角色，私立樱才学园学生副会长。 | [萌娘百科](https://zh.moegirl.org.cn/津田隆利) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
