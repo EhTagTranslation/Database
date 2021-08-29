@@ -3537,6 +3537,7 @@ example:
 | hitomi mishima | 三岛瞳 | 三岛瞳是由大武政夫所创作的漫画《`hinamatsuri`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/三岛瞳) (\*\*) |
 | komekko | 米米 | 其名米米，是晓枣所创作的轻小说《`kono subarashii sekai ni syukufuku o`》及其衍生作品中，红魔族的第一魔性妹妹！<br>![图](https://ehgt.org/32/f0/32f0da8e25b49e7c0fde4563173a6b9123438f17-31244-280-396-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/米米%28为美好的世界献上祝福%29#) (\*\*) |
 | airi akizuki | 秋月爱莉 | 秋月爱莉是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色，女主角之一。<br>![图](# "https://ehgt.org/4d/5d/4d5d46f7bc15960104cb6824269bbab3ff908837-235347-1000-1600-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/秋月爱莉) (\*\*) |
+| kouzou akizuki | 秋月孝三 | 秋月孝三是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
