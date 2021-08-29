@@ -3545,6 +3545,7 @@ example:
 | utau hoshina | 月咏歌呗 |  |  |
 | rima mashiro | 真城璃茉 |  |  |
 | ikuto tsukiyomi | 月咏几斗 |  |  |
+| nadeshiko fujisaki | 藤咲抚子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
