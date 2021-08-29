@@ -1597,6 +1597,7 @@ example:
 | tonikaku kawaii | 总之就是非常可爱 | 《总之就是非常可爱》（日语：トニカクカワイイ，英语：Fly Me to the Moon） 是`hata kenjirou`的日本漫画作品，于《周刊少年Sunday》（小学馆）2018年12号开始连载至今，单行本累计发行超过150万册。漫画相关工作人员将其简称为“トニカワ”。<br><br>与许多男女主角珠联璧合便代表着故事已到尾声的恋爱漫画不同，本作故事一开始男女主角就两情相悦，并且结为连理，以讲述夫妇之间的爱情为特色。作为彩蛋，故事中时常还会有畑健二郎另外一部作品《`hayate no gotoku`》中的角色出现。<br>![图](https://ehgt.org/13/07/130741b937f2f3b03ef6eaeda9861d25b89667a9-24329-220-346-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/總之就是很可愛) (\*) |
 | danshi koukousei no nichijou | 男子高中生的日常 | 《男子高中生的日常》（日语：男子高校生の日常，英语：Daily Lives of high school boys）是山内泰延的日本漫画作品。作品于GANGAN ONLINE的2009年5月21日开始连载，并于2012年1月9日播放电视动画，2013年10月12日真人电影上映。 | [维基百科](https://zh.wikipedia.org/wiki/男子高中生的日常) (\*) |
 | seitokai yakuindomo | 妄想学生会 | 《妄想学生会》（日语：生徒会役員共 / Seitokai Yakuin Domo，英语：Student Council Staff Members），是日本漫画家氏家ト全的一部以高中学生会为题材的四格漫画作品，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/妄想学生会) (\*\*) |
+| parasyte | 寄生兽 | 《寄生兽》（日语：寄生獣）是日本漫画家岩明均创作的漫画作品。于讲谈社漫画杂志《月刊Afternoon》1990年至1995年期间进行连载，单行本全10卷。完全版全8卷，于2010年发行。新装版全10卷，于2014年发行。<br>故事讲述来历不明的寄生虫“米奇／右／MIGI”和主角泉新一共同生存的故事，书中对人类的存在，以及对于地球的主宰地位表达了批判与反思。<br>![图](https://ehgt.org/c8/85/c885600cf085da01ac0989cbb446ac98c3b06b60-901520-1405-2000-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/寄生兽) (\*) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
