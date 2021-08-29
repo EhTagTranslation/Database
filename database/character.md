@@ -3534,6 +3534,7 @@ example:
 | suzuha amane | 阿万音铃羽 | 阿万音铃羽是5pb.的游戏《`SteinsGate`》(命运石之门)及其衍生作品的登场角色。<br>![图](https://ehgt.org/e2/78/e2780e9a95a78f391924bff5e28f39cda063f87d-2594914-1222-1716-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿万音铃羽) (\*\*) |
 | moeka kiryuu | 桐生萌郁 | 桐生萌郁是游戏《`steinsgate`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/0e/21/0e21790332853f94344cf0208a3925e005620b15-2721727-1224-1714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桐生萌郁) (\*\*) |
 | faris nyannyan | 菲利斯·喵喵 | 秋叶留未穗，常用名菲利斯·喵喵（Faris Nyan-Nyan），是游戏《`SteinsGate`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/e2/75/e275aa1fba896b663b065e45088467d654557be5-4806150-1920-1080-png_l.jpg)<br>![图](https://ehgt.org/3f/98/3f98b2316aa1d6589aac542c94da52f3fe18f350-2755153-1221-1709-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/秋叶留未穗) (\*\*) |
+| anzu | 杏子 | 杏子（日语：アンズ）是由大武政夫创作的漫画《`hinamatsuri`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/杏子%28黑社会的超能力女儿%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
