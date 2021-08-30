@@ -3562,6 +3562,7 @@ example:
 | hallessena | 哈蕾泽娜 |  |  |
 | izmir | 伊休米尔 |  |  |
 | razia | 拉丝缇娜 |  |  |
+| magisa | 玛姬莎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
