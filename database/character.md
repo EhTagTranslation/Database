@@ -3559,6 +3559,7 @@ example:
 | inuyama tamaki | 犬山玉姬 |  |  |
 | aliza | 阿莉莎 |  |  |
 | sarasa | 萨拉萨 |  |  |
+| hallessena | 哈蕾泽娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
