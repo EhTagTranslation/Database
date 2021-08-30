@@ -3327,6 +3327,7 @@ example:
 | shiran takashi | しらんたかし | しらんたかし为日本的漫画家。出生于日本爱知县。主要画成年向漫画作品。 登场人物的角色名多由来于日本中部地方的立交桥名称。<br><br>单行本《おねちゅ》<br>![图](# "https://ehgt.org/0f/c9/0fc9275dcff326ae17414f7b975044ae2d365c96-623020-1656-1400-jpg_l.jpg") | [维基百科](https://ja.wikipedia.org/wiki/しらんたかし) (\*)<br>[Pixiv](https://www.pixiv.net/users/135633) [Twitter](https://twitter.com/Circle_Shirando) |
 | matra milan | 的良米兰 | 的良米兰（9月28日－）是日本男性漫画家。其笔名来源是法国的兵器制造厂马特拉的第二世代反战车导弹之一的米兰。<br><br>1997年，在杉村麦太（欢喜天）的邀请下参与了“COMIC阿吽”的‘リャナンシーの花’应募且入选了第3回新人漫画赏，并同作于8月号刊登且初次亮相。以后主要在“COMIC阿吽”执笔成人向漫画，在“月刊Dragon Age”（富士见书房）2006年2月号发表工画堂游戏软件‘状况开始！’的读切漫画版后，后续是其原创作品《`omamori himari`》开始连载，初次在一般向漫画杂志中登场。<br><br>作品的倾向为奇幻与SF风的世界作为舞台较多，亦有多次是女主角使用枪械猛烈射击的动作元素。<br>单行本《無限想刻》<br>![图](# "https://ehgt.org/8b/dd/8bdd5a27f0f59a8775dbf51880d55bc77f151cc6-427817-1032-1341-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/的良米蘭) (\*) [Twitter](https://twitter.com/matramilan) |
 | morisaki kurumi | 森崎胡桃 | 森崎胡桃是日本漫画家、插画家，主要创作成人漫画。从1999年和森山友明一起运营同人社团“C.A.T”。<br>单行本《LOVELY GIRL's》<br>![图](# "https://ehgt.org/de/a1/dea186c2f9d8221e828f57ddb901ab1fe237f874-680058-1053-1500-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/森崎胡桃) (\*) [Twitter](https://twitter.com/kurumi_cat) |
+| todoroki shin | 轰真 | ![图](# "https://ehgt.org/7e/9f/7e9fdd78d26d64d56eb2d1bf943b02f5ae989377-517292-1509-2119-jpg_l.jpg") | [Twitter](https://twitter.com/sinmaniax) [Pixiv](https://www.pixiv.net/users/21120) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
