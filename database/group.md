@@ -2125,6 +2125,7 @@ example:
 | inran shounen | 淫乱少年 | 漫画家`jairou`社团。<br><br>`shotacon` |  |
 | rokumonsen | ろくもんせん | 作者`tamahagane`的同人社团。 |  |
 | tenkaichi babys | 天下一Babys | 井之本理佳子和好友BENNY'S一起创立同人团体“天下一Babys”，在Comic Market发售同人志。 | [BENNY'S - 维基百科](https://zh.wikipedia.org/wiki/BENNY%27S)  [井之本理佳子 - 维基百科](https://zh.wikipedia.org/wiki/井之本理佳子) (\*) |
+| beniya | 红屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
