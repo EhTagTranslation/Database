@@ -3324,6 +3324,7 @@ example:
 | konata hyuura | 虎向Hyuura | 虎向Hyuura（日语：虎向 ひゅうら），日本漫画家。其作品主要以恋爱为主题，在全年龄或成人漫画杂志发表。2011年之后，主要在角川书店《Comptiq》、茜新社《COMIC RIN》执笔。<br><br>单行本《僕たちの園へようこそ》<br>![图](# "https://ehgt.org/22/75/22755d625ef64cbb9290d3c417e20c663a755689-961708-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/kona_hyu) [维基百科](https://zh.wikipedia.org/wiki/虎向Hyuura) (\*) |
 | konno azure | 紺野あずれ | 紺野 あずれ（こんの あずれ）为日本的漫画家。现居住于日本埼玉县。<br><br>以成人向作品漫画家出道之后、将活动范围转移至一般向漫画。<br><br>代表作《`koe de oshigoto`》在2010年宣布动画化，并分别在2010年11月及2011年5月发售OVA第1卷和第2卷。2019年4月作品《信长老师的年幼妻子》动画化。<br>![图](# "https://ehgt.org/09/30/0930f082a80106dd746b5a8b595872ea042df7d5-923233-800-600-png_l.jpg")<br>成人向单行本《非日常的クラスメイト》<br>![图](# "https://ehgt.org/33/61/33614ebda22d46ba17494fc74730f032abcc1347-375167-1659-1400-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/紺野あずれ) (\*) [Twitter](https://twitter.com/azure_konno) |
 | sawano akira | 泽野明 | 澤野明 漫画家<br>原创作品差不多都是妹控向作品。参考标签：`sister`、`incest`<br>以同人社团TAROTS活动中<br><br>单行本《しこシス♡》<br>![图](# "https://ehgt.org/bb/21/bb218d60f2f6b1f28f5a7cfced8d76039a024b28-1104818-1035-1500-jpg_l.jpg") | [Twitter](https://twitter.com/8maru) [Twitter同人活动专用](https://twitter.com/8maru_kenzen) |
+| shiran takashi | しらんたかし | しらんたかし为日本的漫画家。出生于日本爱知县。主要画成年向漫画作品。 登场人物的角色名多由来于日本中部地方的立交桥名称。<br><br>单行本《おねちゅ》<br>![图](# "https://ehgt.org/0f/c9/0fc9275dcff326ae17414f7b975044ae2d365c96-623020-1656-1400-jpg_l.jpg") | [维基百科](https://ja.wikipedia.org/wiki/しらんたかし) (\*)<br>[Pixiv](https://www.pixiv.net/users/135633) [Twitter](https://twitter.com/Circle_Shirando) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
