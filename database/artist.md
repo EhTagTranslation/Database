@@ -3320,6 +3320,7 @@ example:
 | hata kenjirou | 畑健二郎 | 畑健二郎（1975年10月19日－），日本男性漫画家。出生于福冈县福冈市出身，血型A型。久米田康治为其师父。大阪艺术大学艺术学部毕业。<br>代表作品：`hayate no gotoku`、`tonikaku kawaii`<br>![图](https://ehgt.org/da/f2/daf2fc3a088ec545b7499def8254a65c4a32fafb-1096794-2134-3000-jpg_l.jpg) | [Twitter](https://twitter.com/hatakenjiro) [维基百科](https://zh.wikipedia.org/wiki/畑健二郎) (\*) |
 | gelatin | 沟口明胶 |  | [Twitter](https://twitter.com/gelatin666)<br>[pixiv](https://www.pixiv.net/users/1149582) |
 | utahane w | うたはね |  | [pixiv](https://www.pixiv.net/users/1798953)<br>[Twitter](https://twitter.com/utahane_w) |
+| kusano kouichi | 草野红壹 | 草野红壹（日语：草野 紅壱），日本漫画家。同人创作团体`beniya`主宰、也是多人创作团体`sashichigai-dan`的主宰之一。<br>![图](https://pbs.twimg.com/profile_images/1142759139333963776/m9mytDaR_400x400.jpg)<br>**作者推特头像**<br>早年开始经常发表成人漫画的创作，近年来逐渐转向一般漫画创作。代表作是曾经在双叶社连载，并改编成电视动画的《`oniichan no koto nanka zenzen suki janain dakara ne`》。<br>![图](# "https://ehgt.org/fc/0e/fc0e6f3731e0745f6d3b5074f5fc0eab912745b2-115317-673-949-jpg_l.jpg") | [Twitter](https://twitter.com/kusanokouichi) [Pixiv](https://www.pixiv.net/users/72678)<br>[维基百科](https://zh.wikipedia.org/wiki/草野紅壹) (\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
