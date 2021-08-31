@@ -470,7 +470,7 @@ example:
 | kakkii | かっきー |  |  |
 | shizuki shuya | 紫月秋夜 |  |  |
 | himukai kyousuke | 日向恭介 |  |  |
-| fuyutugu | 冬嗣 |  |  |
+| fuyutugu | 冬嗣 |  | [Pixiv](https://www.pixiv.net/users/16053) [Twitter](https://twitter.com/fuyuTohgoo3) |
 | mogudan | モグダン |  |  |
 | 100yen locker | 100円ロッカー |  |  |
 | hana hook | 華フック |  |  |
