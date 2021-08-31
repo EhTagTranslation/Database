@@ -3334,6 +3334,7 @@ example:
 | kagami fumio | 加賀美ふみを |  |  |
 | kamirenjaku sanpei | 上连雀三平 | 小野敏洋（1965年2月27日－），日本男性漫画家，爱知县人，主要创作少年漫画与成人漫画。创作少年漫画时所用笔名为“小野敏洋”与“おのとしひろ”，另外曾用笔名为“上连雀三平”、“斉藤まゆり”、“铃木柾道”、“グルマン笹塚”与“ジンバブエ伊東”；创作成人漫画与在同人活动时所用笔名为“上连雀三平”。 | [维基百科](https://zh.wikipedia.org/wiki/小野敏洋)<br>[Twitter](https://twitter.com/kamirenjack3) [Pixiv](https://www.pixiv.net/users/302601) |
 | kyaradain | きゃらだいん | 单行本《えっちなコはスキですか》<br>![图](# "https://ehgt.org/e1/b1/e1b1646db437abc7f54c12f300950432f60e1cb9-3539371-2040-2880-jpg_l.jpg")<br>原创同人本《ふたりの身体のなん％かはザーメンで出来ている》<br>![图](# "https://ehgt.org/41/06/41069bbdcc5d18cd2c0012dd12c57a9ff1833bba-1580535-1323-1840-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/2054135) [Twitter](https://twitter.com/kyaradain) |
+| minna daisuki | みんなだいすき |  | [Twitter](https://twitter.com/min_dai_) [Pixiv](https://www.pixiv.net/users/38080365) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
