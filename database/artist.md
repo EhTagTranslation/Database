@@ -818,7 +818,7 @@ example:
 | sabaku chitai | 沙漠地带 |  |  |
 | salad | さらだ |  |  |
 | sawayaka samehada | さわやか鮫肌 |  | [Twitter](https://twitter.com/adahemas) [pixiv](https://www.pixiv.net/users/176236) |
-| ueda yuu | 上田裕 |  |  |
+| ueda yuu | 上田裕 | 单行本《おんなのこ解禁 》<br>![图](# "https://ehgt.org/d2/d3/d2d3aafd302ad0fc5e29ca399eeb9d887b98e9bd-1111710-1693-2400-jpg_l.jpg") | [Twitter](https://twitter.com/uedam) |
 | usakun | 兔君 | うさくん 是日本漫画家。作品以成人向的`lolicon`漫画为主。<br>作者在《COMIC LO》等杂志活动。刚开始画成人向漫画时以别名“たわわりんご”发表作品，现在作者本人亲自公布在连载的作品，将笔名统称为“うさくん”。<br>曾用名标签引用：`tawawaringo`<br><br>![图](# "https://ehgt.org/87/71/87711ade125f6f1535176cd23eb7bbd58569c73f-800853-1071-1500-jpg_l.jpg")<br>单行本《初恋!りりかるえっち 》 | [Twitter](https://twitter.com/merikomiringo) |
 | chiguchi miri | チグチミリ |  |  |
 | fuyuno mikan | 冬野みかん |  |  |
