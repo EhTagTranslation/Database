@@ -1026,7 +1026,7 @@ example:
 | nishi | 弐肆 \| にし \| 西 | Count2.4<br>Lily \| Studio Empty<br>风来人 |  |
 | chachaki noriyuki | 清山昌 |  |  |
 | abe morioka | あべもりおか |  |  |
-| akishima shun | 昭嶋しゅん |  |  |
+| akishima shun | 昭嶋しゅん |  | [Twitter](https://twitter.com/shunaki) [Pixiv](https://www.pixiv.net/users/1745719) |
 | alexi laiho | 荒岸来步 |  |  |
 | dobato | ドバト |  |  |
 | fuyu mikan | 冬みかん |  |  |
