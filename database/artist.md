@@ -1985,7 +1985,7 @@ example:
 | hoshino | 星乃 |  |  |
 | zyugoya | 十五夜 |  |  |
 | yamaoka koutetsurou | 山冈钢铁郎 |  |  |
-| henreader | へんりいだ |  |  |
+| henreader | へんりいだ | 单行本《もっと! はつこいりぼん。》<br>![图](# "https://ehgt.org/15/b5/15b53ac3d21261728f4d40be233bbb61dabf8fcf-3732048-3351-4948-jpg_l.jpg") | [Twitter](https://twitter.com/henreaderh_) [Pixiv](https://www.pixiv.net/users/2278911) |
 | 47agdragon | 47AgDragon |  |  |
 | josho isamu | 城所委佐武 |  |  |
 | ogipote | 荻pote |  |  |
