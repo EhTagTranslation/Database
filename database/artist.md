@@ -3329,6 +3329,7 @@ example:
 | morisaki kurumi | 森崎胡桃 | 森崎胡桃是日本漫画家、插画家，主要创作成人漫画。从1999年和森山友明一起运营同人社团“C.A.T”。<br>单行本《LOVELY GIRL's》<br>![图](# "https://ehgt.org/de/a1/dea186c2f9d8221e828f57ddb901ab1fe237f874-680058-1053-1500-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/森崎胡桃) (\*) [Twitter](https://twitter.com/kurumi_cat) |
 | todoroki shin | 轰真 | ![图](# "https://ehgt.org/7e/9f/7e9fdd78d26d64d56eb2d1bf943b02f5ae989377-517292-1509-2119-jpg_l.jpg") | [Twitter](https://twitter.com/sinmaniax) [Pixiv](https://www.pixiv.net/users/21120) |
 | hirotake awataka | 粟岳高弘 |  | [Pixiv](https://www.pixiv.net/users/4671) [Twitter](https://twitter.com/AwatakeTakahiro) |
+| hayake | はやけ | ![图](# "https://ehgt.org/db/4c/db4c3cc8049740e21fd5f3c20feae77e0888b512-1469681-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/hayakePL) [Pixiv](https://www.pixiv.net/users/269183) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
