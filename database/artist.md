@@ -3330,6 +3330,7 @@ example:
 | todoroki shin | 轰真 | ![图](# "https://ehgt.org/7e/9f/7e9fdd78d26d64d56eb2d1bf943b02f5ae989377-517292-1509-2119-jpg_l.jpg") | [Twitter](https://twitter.com/sinmaniax) [Pixiv](https://www.pixiv.net/users/21120) |
 | hirotake awataka | 粟岳高弘 |  | [Pixiv](https://www.pixiv.net/users/4671) [Twitter](https://twitter.com/AwatakeTakahiro) |
 | hayake | はやけ | ![图](# "https://ehgt.org/db/4c/db4c3cc8049740e21fd5f3c20feae77e0888b512-1469681-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/hayakePL) [Pixiv](https://www.pixiv.net/users/269183) |
+| hasblow cream | はすぶろくりーむ |  | [Twitter](https://twitter.com/hasblowdreamer1) [Pixiv](https://www.pixiv.net/users/12917823) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
