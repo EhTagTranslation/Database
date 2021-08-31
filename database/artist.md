@@ -3332,6 +3332,7 @@ example:
 | hayake | はやけ | ![图](# "https://ehgt.org/db/4c/db4c3cc8049740e21fd5f3c20feae77e0888b512-1469681-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/hayakePL) [Pixiv](https://www.pixiv.net/users/269183) |
 | hasblow cream | はすぶろくりーむ |  | [Twitter](https://twitter.com/hasblowdreamer1) [Pixiv](https://www.pixiv.net/users/12917823) |
 | kagami fumio | 加賀美ふみを |  |  |
+| kamirenjaku sanpei | 上连雀三平 | 小野敏洋（1965年2月27日－），日本男性漫画家，爱知县人，主要创作少年漫画与成人漫画。创作少年漫画时所用笔名为“小野敏洋”与“おのとしひろ”，另外曾用笔名为“上连雀三平”、“斉藤まゆり”、“铃木柾道”、“グルマン笹塚”与“ジンバブエ伊東”；创作成人漫画与在同人活动时所用笔名为“上连雀三平”。 | [维基百科](https://zh.wikipedia.org/wiki/小野敏洋)<br>[Twitter](https://twitter.com/kamirenjack3) [Pixiv](https://www.pixiv.net/users/302601) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
