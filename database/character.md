@@ -3566,6 +3566,7 @@ example:
 | anna hiiragi | 柊杏奈 | 公主连结re:dive角色<br>![](https://img.moegirl.org.cn/common/thumb/d/d5/Hiiragi_anna_pc.png/420px-Hiiragi_anna_pc.png) | [萌娘百科](https://zh.moegirl.org.cn/柊杏奈) |
 | shirley fenette | 夏莉·菲内特 | 夏莉·菲内特是动画/小说/游戏《`code geass`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夏莉·菲内特) (\*\*) |
 | milly ashford | 米蕾·阿什弗德 |  |  |
+| anya alstreim | 阿妮亚·阿鲁斯特莱依姆 | 阿妮亚·阿鲁斯特莱依姆是MediaMix作品《`code geass`系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿妮亚·阿鲁斯特莱依姆) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
