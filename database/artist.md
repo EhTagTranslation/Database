@@ -3162,7 +3162,7 @@ example:
 | amezawa koma | 飴沢狛 |  | [pixiv](https://www.pixiv.net/users/1203575) [Twitter](https://twitter.com/ponnzuame) |
 | kanda dan | 館田ダン |  | [Twitter](https://twitter.com/done_kanda) [pixiv](https://www.pixiv.net/users/7618326) |
 | mikuni mizuki | みくに瑞貴 |  |  |
-| yamamoto naoki | 山本直樹 |  |  |
+| yamamoto naoki | 山本直树 | 山本直樹 | [Twitter](https://twitter.com/tsugeju) |
 | neromashin | 青豆腐 | 微重口 | [Twitter](https://twitter.com/neromashin001) |
 | yuugen | ゆーげん |  | [Twitter](https://twitter.com/Yuugen_99) [pixiv](https://www.pixiv.net/users/806502) |
 | oshio | おしお |  | [Twitter](https://twitter.com/oshioshio_info) [pixiv](https://www.pixiv.net/users/4733565) |
