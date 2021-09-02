@@ -3344,6 +3344,7 @@ example:
 | makio | マキオ |  | [Twitter](https://twitter.com/nekodaisukimko) |
 | mikaduchi | みかづち |  |  |
 | ogu | おぐ | 单行本《おしっこのところでしたいの! 》<br>![图](# "https://ehgt.org/a0/72/a072bfb2ba15df0ca9b3ae6c923c9272b3cd7906-768134-1021-1500-jpg_l.jpg") | [Twitter](https://twitter.com/Shizzko_Takio) [Pixiv](https://www.pixiv.net/users/136937) |
+| 13 | 13 |  | [Pixiv](https://www.pixiv.net/users/40255) [Twitter](https://twitter.com/ichimi_131) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
