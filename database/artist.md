@@ -3339,6 +3339,7 @@ example:
 | binsen | びんせん | ![图](# "https://ehgt.org/7a/7c/7a7cc7057cbdac567a10171b328e3df06bd80396-965836-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/binssen) |
 | koari | 小蚁 | ![图](# "https://ehgt.org/32/7b/327b3c0e6f33b586ef81a821d9fd0607bd464620-255758-1050-1500-jpg_l.jpg") | [Twitter](https://twitter.com/youbun) [Pixiv](https://www.pixiv.net/users/173128) |
 | toriburi | トリブリ |  | [pixiv](https://www.pixiv.net/users/10654882) [Twitter](https://twitter.com/buri_chicken) |
+| osanpo suisou | おさんぽ水槽 |  | [Twitter](https://twitter.com/mposui) [Pixiv](https://www.pixiv.net/users/42222748) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
