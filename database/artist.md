@@ -3338,6 +3338,7 @@ example:
 | cloba.u | Cloba・U | Cloba・U（日语：くろば・U），日本漫画家、插画家、游戏开发者。旧笔名为Cloba（日语：くろば）。东京大学出身。<br><br>单行本《れんあいごっこ》<br>![图](# "https://ehgt.org/25/f9/25f9b076b27909e1ea268b2b76d3bf84685b405f-1543313-1762-2472-jpg_l.jpg") | [Twitter](https://twitter.com/cloba_____u) [Pixiv](https://www.pixiv.net/users/438470) [维基百科](https://zh.wikipedia.org/wiki/Cloba·U) (\*) |
 | binsen | びんせん | ![图](# "https://ehgt.org/7a/7c/7a7cc7057cbdac567a10171b328e3df06bd80396-965836-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/binssen) |
 | koari | 小蚁 | ![图](# "https://ehgt.org/32/7b/327b3c0e6f33b586ef81a821d9fd0607bd464620-255758-1050-1500-jpg_l.jpg") | [Twitter](https://twitter.com/youbun) [Pixiv](https://www.pixiv.net/users/173128) |
+| toriburi | トリブリ |  | [pixiv](https://www.pixiv.net/users/10654882) [Twitter](https://twitter.com/buri_chicken) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
