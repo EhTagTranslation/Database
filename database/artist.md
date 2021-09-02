@@ -3342,6 +3342,7 @@ example:
 | osanpo suisou | おさんぽ水槽 |  | [Twitter](https://twitter.com/mposui) [Pixiv](https://www.pixiv.net/users/42222748) |
 | sakura siro | 桜シロウ（御歯黒溝） | ![图](# "https://ehgt.org/bf/16/bf16a78b7fc923d05c7efa60ee0ae7af9e52d9b1-1779675-2130-3020-jpg_l.jpg") | [Twitter](https://twitter.com/siro_skr) [Pixiv](https://www.pixiv.net/users/5965688) |
 | makio | マキオ |  | [Twitter](https://twitter.com/nekodaisukimko) |
+| mikaduchi | みかづち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
