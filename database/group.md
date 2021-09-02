@@ -2127,6 +2127,7 @@ example:
 | tenkaichi babys | 天下一Babys | 井之本理佳子和好友BENNY'S一起创立同人团体“天下一Babys”，在Comic Market发售同人志。 | [BENNY'S - 维基百科](https://zh.wikipedia.org/wiki/BENNY%27S)  [井之本理佳子 - 维基百科](https://zh.wikipedia.org/wiki/井之本理佳子) (\*) |
 | beniya | 红屋 |  |  |
 | sashichigai-dan | 挿し違い団 |  | [官方网站](http://sashitigai-dan.la.coocan.jp/) |
+| yasai batake | 諏訪やさい |  | [Pixiv](https://www.pixiv.net/users/13477002) [Twitter](https://twitter.com/yasai_023) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
