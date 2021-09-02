@@ -3570,6 +3570,7 @@ example:
 | kaguya sumeragi | 皇神乐耶 | 皇神乐耶（日语：すめらぎ かぐや）是由SUNRISE所制作的动画《`code geass`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/皇神乐耶) |
 | krillin | 克林 |  |  |
 | rudeus greyrat | 鲁迪乌斯·格雷拉特 |  |  |
+| sylphiette | 希露菲叶特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
