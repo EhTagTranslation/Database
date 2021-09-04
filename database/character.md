@@ -3575,6 +3575,7 @@ example:
 | kokoro | 心 |  |  |
 | christie | 克丽丝蒂 |  |  |
 | mila | 米拉 |  |  |
+| hitomi | 瞳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
