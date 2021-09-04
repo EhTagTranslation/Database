@@ -74,6 +74,7 @@ example:
 | full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`画廊。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是`animated`。 |  |
 | how to | 教程 | 关于如何绘画或设计的教学图像。 |  |
+| multipanel sequence | 多格序列 | 从固定角度描绘性活动的一系列画格。每页至少需要 2 个连续的画格。 |  |
 | multi-work series | 系列作品 | 一个完整的作品，其故事跨多册书籍或发行版。不应与`story arc`混淆。 |  |
 | non-h imageset | 无H图片集 | 绘制的非色情内容，不构成漫画或漫画集（即松散的图像，屏幕截图等）。 这样的画廊中的图像最好具有单一主题（例如，单一的艺术家，系列，人物或恋物癖）。只用于`non-h`分类。 |  |
 | paperchild | 纸片人 | 人物剪纸。常与现实世界互动。<br>![](https://ehgt.org/4a/42/4a42741239d496a55fcd48b76cdf31cc41ec5607-114792-823-710-jpg_l.jpg) |  |
@@ -95,17 +96,17 @@ example:
 | non-nude | 无露点 | 没有展示乳头或性器的画廊。仅用于 Cosplay 画廊。 |  |
 |  | === 技术 > 移除原因 === |  |  |
 | already uploaded | 已上传 | 这个画廊是之前发布画廊的相同或较低质量版本。 |  |
-| compilation | 汇编 | 这个该画廊是不允许在一起的作品的汇编。 |  |
 | forbidden content | 禁止内容 | 此画廊包含非法内容，如儿童色情内容或[服务条款](https://e-hentai.org/tos.php)所禁止的其他内容，或属于[清除指南](https://ehwiki.org/wiki/Expunging#Forbidden)的其他内容。 |  |
 | realporn | 真人色情 | 非 Cosplay 的真人色情；通用 Cosplay（任何不是来自已经建立的系列或人物的 Cosplay ）。 |  |
 | replaced | 已替换 | 这个画廊的更高质量的版本已经上传。 |  |
-| watermarked | 水印 | 不应该用于任何具有水印的作品，除非该画廊由于此原因将被立即移除。对于需要被替换的画廊，参见`scanmark`。 |  |
 |  | ==== 技术 > 移除原因 > 半移除 ==== |  |  |
-| incomplete | 缺页 | 不完整。不用于还在连载中的作品。 |  |
+| compilation | 汇编 | 该画廊是不允许在一起的作品的汇编。 |  |
+| incomplete | 缺页 | 作品不完整，尤其是缺少[核心内容](https://ehwiki.org/wiki/Expunging#Superior_Versions)。不用于还在连载中的作品。 |  |
 | missing cover | 缺封面 |  |  |
 | out of order | 顺序错乱 | 内容没有按顺序排列。 |  |
 | sample | 样本 | 完整作品的免费分发样品。表明该画廊可以由一个更完整的版本替换（除非是位于 [DNP 列表](https://forums.e-hentai.org/index.php?showtopic=19797)的作品）。 |  |
-| scanmark | 扫描水印 | 由扫描者/译者添加的水印。不用于单张的信息水印。 |  |
+| scanmark | 扫描水印 | 由扫描者/译者/上色者添加的水印。如果存在，将被无标记版本替换。不用于单张的信息水印。不应与第三方添加的`watermarked`混淆。不应与作者者添加的水印混淆。 |  |
+| watermarked | 水印 | 由带有水印的复制品组成的画廊，为与内容的创建、扫描、着色或翻译无关的网站做广告。不用于相关方添加的水印。有关上述内容，参见`scanmark`。 |  |
 |  | === 技术 > 格式 === |  |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。`incomplete`的选集和`artbook`不算在内。 |  |
 | artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于`incomplete`的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |

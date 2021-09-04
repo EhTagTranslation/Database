@@ -132,6 +132,7 @@ example:
 | camel | 骆驼🐫 | 任何类型的骆驼属动物。 |  |
 | cat | 猫🐈 | 任何小型猫科动物。 |  |
 | crab | 螃蟹🦀 | 任何有壳的甲壳动物。 |  |
+| deer | 鹿🦌 | 任何类型的鹿。 |  |
 | dinosaur | 恐龙🦖 | 任何恐龙进化枝的动物。 |  |
 | dog | 狗🐕 | 任何犬属动物。 |  |
 | dolphin | 海豚🐬 | 任何小型鲸目哺乳动物。 |  |
@@ -207,6 +208,7 @@ example:
 | hood | 帽兜 | 帽兜是一种帽子，覆盖大部分头部与颈部，有时甚至覆盖脸部。帽兜主要覆盖头部的顶部与侧部。 |  |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与`tiara`或`crown`等头饰混淆。 |  |
 | kemonomimi | 兽耳 | 有动物耳朵的角色，有时还有一条尾巴。不应与`furry`混淆。 |  |
+| kigurumi pajama | 动物连体睡衣 | 带有描绘动物的兜帽的连体衣。不应与`animegao`或`skinsuit`混淆。 |  |
 | makeup | 化妆 | 在嘴唇，脸颊，睫毛或其他面部区域涂上可见的颜色以突出特定部位。不用于`clown`，因为这是显然的。 |  |
 | masked face | 假面 | 完全覆盖脸部的不透明面具，通常用于隐藏自己的身份。这包括典型的巴拉克拉发风格的面具。 |  |
 | mouth mask | 口罩 | 只遮住眼睛以下部分的面罩。 |  |
@@ -215,6 +217,7 @@ example:
 | afro | 爆炸头 | 蓬松或浓密的毛发向上生长，形成球，苔藓或云层的形状，并围绕主人的头部。 |  |
 | bald | 秃顶 | 头上没有或几乎没有头发。不用于`goblin`、`orc`或其他不应有头发的非人生物。不应与`shaved head`混淆。 |  |
 | drill hair | 螺旋辫 | 看起来类似于垂直缠绕或锥形钻头的卷发。 | [萌娘百科](https://zh.moegirl.org.cn/双螺旋) |
+| eye-covering bang | 长刘海 | 刘海始终覆盖至少一只眼睛。头发上的小分叉是可以接受的。只要眼睛被覆盖，可以透过头发看到眼睛的情况也可以接受。 |  |
 | hair buns | 丸子头 | 收集大量头发并将其固定成一个或多个圆形束。 |  |
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](# "https://ehgt.org/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg")![图](# "https://ehgt.org/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg")![图](# "https://ehgt.org/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg") |  |
 | pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。不适用于男性，除非他们是`tomgirl`或`crossdressing`。 |  |
@@ -316,6 +319,7 @@ example:
 | crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
 | mesuiki | 干高潮 | メスイキ，性行为使对象达到性高潮而对阴茎或阴道没有任何物理刺激。只要直到高潮的性行为不包含对阴茎或阴道的刺激，就可以使用此标签。 |  |
+| multiple orgasms | 连续高潮 | 参与者在一场中连续达到三次以上的性高潮。 |  |
 | pantyjob | 内裤交 | 涉及生殖器与内裤摩擦的性交。<br>![图](# "https://ehgt.org/0f/20/0f204581d181df13e84837cc88211db1a89b8b3a-1164951-1280-720-png_l.jpg")![](# "https://ehgt.org/2b/43/2b4325dd67a9e828e75643385d0d0a7906db5886-997427-1280-720-png_l.jpg")![](# "https://ehgt.org/94/70/9470ab57c865d4de45bbb76e39661ae15ae6201f-208801-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/b3/99/b399bc88c5a76ccfa76dcaf80d9d8c89ae82eb81-274018-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/78/81/78819288342cc0ce8e07b707a31f86e77414771c-575379-1024-600-png_l.jpg")![图](# "https://ehgt.org/20/85/208520cd50bea31026c7d4618b00b3c7906838b1-264144-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/3f/0b/3f0bb622155837f52a5a033b0dc5c8c7af956b96-187418-699-1000-jpg_l.jpg") |  |
 | pubic stubble | 阴毛茬 | 剃光阴部的毛发，但有可见的毛发残留。 |  |
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |  |
@@ -339,12 +343,15 @@ example:
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
 | birth | 出产 | 生物诞生的过程，在此之前一般会`pregnant`。 |  |
+| cervix prolapse | 宫颈脱垂 | 阴道壁膨胀出阴道。有时是`gaping`的后续。需要`prolapse`标签。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及`big clit`。依照被插入的一方标记命名空间。 |  |
 | unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`birth`相反，因此不需要`birth`或`pregnant`标签。 |  |
 |  | === 下半身 > 臀部 === |  |  |
-| anal | 肛交 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
+| anal | 爆肛 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
 | anal birth | 肛门出产 | 通过肛门产下生物的过程。在此之前一般会`pregnant`。不用于`eggs`。 |  |
+| anal intercourse | 肛交 | 一个参与者使用阴茎或`strap-on`插入另一个参与者的肛门。需要`anal`标签。 |  |
 | analphagia | 肛门吞食 | 被肛门整个吞食。不需要`anal`标签，不要与`vore`或`unbirth`混淆。 |  |
+| anal prolapse | 脱肛 | 肛门壁从肛门向外扩张。有时是`gaping`的后续。需要`prolapse`标签。 |  |
 | ass expansion | 臀部膨胀 | 臀部变大的过程，可能成为`big ass`。不需要`transformation`标签。 |  |
 | assjob | 尻交 | 屁股沟性交，不插入。不应与`anal`混淆。<br>![图](# "https://ehgt.org/12/d5/12d548648c0e9ca572296531823ab38c1e777824-310836-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/f5/fd/f5fd37a39de4fec5161df6e381f305964673c31b-599712-1024-600-png_l.jpg")![图](# "https://ehgt.org/0c/4a/0c4ae784b128d7842fb8a315595e8ac06c623a88-602649-710-994-jpg_l.jpg") |  |
 | big ass | 大屁股 | 至少比角色的头部大 2.5 倍。 |  |
@@ -434,6 +441,8 @@ example:
 | sarashi | 缠胸布 | 缠胸布（日语：晒/さらし），围绕胃/胸部区域的长绷带状布料。对于男性来说，它通常覆盖胃部。需要`bandages`标签。 |  |
 | schoolboy uniform | 男生制服 | `schoolgirl uniform`的男性版本。 |  |
 | schoolgirl uniform | 女生制服 | 水手服或其他校服。格子或打褶的裙子本身不算。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/53/8c/538c9ab73e6e2d56a5c3eeb526041ffeea5de8e6-8869994-4235-6035-jpg_l.jpg")![图](# "https://ehgt.org/61/f8/61f802cda2009b4521a86f70a959bc9edad48c38-590748-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d0/9b/d09bee1819cf15efaca2ad950c59d95f60ef723d-518151-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/74/db/74dbb57dd71a865487a6112b5746e1c6157e8fd0-739046-1059-1500-jpg_l.jpg") |  |
+| school gym uniform | 学校体操服 | 短袖白色 T 恤，领口和袖口接缝对比鲜明，用作学校体育活动的制服。有时在前面带有年级或姓名标签，搭配纯色短裤或`bloomers`。 |  |
+| school swimsuit | 死库水 | 一体型的泳装，没有任何腿或手臂覆盖，通常是在日本学校使用。常是蓝色或白色，有时胸部有名牌。不需要`swimsuit`标签。不应与`leotard`混淆。<br>![图](# "https://ehgt.org/24/56/245663e10ffaf8b57cb37c0d54de040fa598cba8-656435-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d5/59/d55999dc30eb1be3c0a818e0ab3cb8550ca8e49f-329461-1049-1500-jpg_l.jpg") |  |
 | scrotal lingerie | 阴囊袋 | 穿在阴茎或阴囊上的色情衣物。<br>![图](# "https://ehgt.org/83/6d/836dd66d7830507b8722bed37dffe0d152cd7230-644087-822-1200-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/e5/8c/e58c66ab448a6e377f43c58a97b7c7ef46cb0188-726693-1059-1500-jpg_l.jpg") |  |
 | small penis | 小小鸟 | 一个异常小的阴茎，必须小于其拥有者的食指。对于`shotacon`则是小指。 |  |
 | shimapan | ![shimapan](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41sn568avg200m00d02p.gif)条纹胖次 | 縞パンツ(shima pantsu)的简称，意思是条纹的内裤。只应在人物穿着它们进行性行为或裸体姿势时使用此标签。<br>![图](# "https://ehgt.org/67/85/67853b25ace17fc48a95a1a1bd01d22341be1bfd-4441120-3510-5104-jpg_l.jpg") |  |
@@ -443,7 +452,6 @@ example:
 | stockings | ![stockings](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41q26q5bzg200r00d04a.gif)长筒袜 | 一种通常透明的弹性衣服，覆盖足和腿的下部，但没到生殖器区域。需要至少达到膝盖以上。不应与`pantyhose`和`thigh high boots`标签混淆。<br>![图](# "https://ehgt.org/e3/a6/e3a623baf43a450d519246dc8aa68dc2badcb309-766167-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/63/e0/63e0ef5c8c346c90e446431a7a93b303be6ccae3-797472-1044-1500-jpg_l.jpg")![图](# "https://ehgt.org/9d/2f/9d2f570b229d4a181b2221844f330eaf8db269db-785978-1354-1921-jpg_l.jpg")![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/3e/fa/3efa59069c3e5729fe29309b521e671a8c3d8910-1800136-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/3c/ce/3cce12c7201462f25dd12996e383535445132852-1163049-1200-1694-jpg_l.jpg") |  |
 | straitjacket | 拘束衣 | 一种长袖的躯干服装，可以超越穿用者的手臂，并且可以绑在一起以限制其运动。需要`bondage`标签。 |  |
 | swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
-| school swimsuit | 死库水 | 一体型的泳装，没有任何腿或手臂覆盖，通常是在日本学校使用。常是蓝色或白色，有时胸部有名牌。不需要`swimsuit`标签。不应与`leotard`混淆。<br>![图](# "https://ehgt.org/24/56/245663e10ffaf8b57cb37c0d54de040fa598cba8-656435-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/d5/59/d55999dc30eb1be3c0a818e0ab3cb8550ca8e49f-329461-1049-1500-jpg_l.jpg") |  |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |  |
 | thigh high boots | 高筒靴 | 高过膝盖的靴子。不应与`stockings`混淆。<br>![图](# "https://ehgt.org/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg")![图](# "https://ehgt.org/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg") |  |
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与`crown`混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
@@ -494,6 +502,7 @@ example:
 | apparel bukkake | 穿衣颜射 | 精液覆盖或装满穿着的衣服或其他配件。穿着的性用具（如`condom`、绳子等）不算。 |  |
 | bukkake | 颜射 | 性主角被精液覆盖，一般不止一个人射精。不局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
 | cum bath | 精液浴 | 浴缸、泳池或其他大容器装有精液，至少有一个人部分浸没在精液中。 |  |
+| giant sperm | 巨大精子 | 单个精子细胞肉眼可见，无需任何放大。 |  |
 |  | ==== 液体 > 体液 > 排泄物 ==== |  |  |
 | internal urination | 内部排尿 | 另一位参与者的尿液在除嘴外的任何孔口内徘徊。通常包括之后释放尿液的过程。 |  |
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
@@ -599,3 +608,4 @@ example:
 |  | == 高存在 == |  |  |
 | focus anal | 高存在肛交 | 画廊超过 50% 的内容为`anal`。需要`anal`标签。 |  |
 | focus blowjob | 高存在口交 | 画廊超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+| focus paizuri | 高存在乳交 | 画廊超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
