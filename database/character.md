@@ -3572,6 +3572,7 @@ example:
 | rudeus greyrat | 鲁迪乌斯·格雷拉特 |  |  |
 | sylphiette | 希露菲叶特 |  |  |
 | zamasu | 扎马斯 |  |  |
+| kokoro | 心 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
