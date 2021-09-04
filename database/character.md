@@ -3573,6 +3573,7 @@ example:
 | sylphiette | 希露菲叶特 |  |  |
 | zamasu | 扎马斯 |  |  |
 | kokoro | 心 |  |  |
+| christie | 克丽丝蒂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
