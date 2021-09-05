@@ -3353,6 +3353,7 @@ example:
 | zeroshiki kouichi | ぷぅ崎ぷぅ奈 |  | [pixiv](https://www.pixiv.net/users/2627037)<br>[Twitter](https://twitter.com/punopupupu) |
 | kagono tori | かごのとり | ![图](# "https://ehgt.org/b9/9a/b99af2854a897e22f72854b012865ae2c2d55f3d-1929705-1890-2628-jpg_l.jpg") | [Twitter](https://twitter.com/wQUTGcijMyTvYnq) [Twitter](https://twitter.com/kagonotori00000)<br>[Pixiv](https://www.pixiv.net/users/140163) [ニコニコ静画](https://seiga.nicovideo.jp/manga/list?user_id=6039932) |
 | haga yui | 叶贺唯 | 叶贺唯（日文：葉賀ユイ）是日本的漫画家、插画家和原画师。 | [维基百科](https://zh.wikipedia.org/wiki/葉賀唯) (\*) [Twitter](https://twitter.com/hagapon) |
+| shinichirou otsuka | 大冢真一郎 | 大冢真一郎，日本插画家，熊本县出生。<br><br>代表作为《召唤夜想曲 铸剑物语》系列的人物设计，偶尔也担任轻小说的插图设计，而轻小说的插图设计以“GASHIN”代名。<br>轻小说《`re zero kara hajimeru isekai seikatsu`》的插画师。 | [维基百科](https://zh.wikipedia.org/wiki/大塚真一郎) (\*) [Twitter](https://twitter.com/otsuka_shin) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
