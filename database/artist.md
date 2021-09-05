@@ -3350,6 +3350,7 @@ example:
 | ikumo taisuke | 井云泰助 | 井雲泰助 | [Twitter](https://twitter.com/iqmo_t) [Pixiv](https://www.pixiv.net/users/534519) |
 | mana | MANA |  | [Twitter](https://twitter.com/remana22) [Pixiv](https://www.pixiv.net/users/3015512) |
 | hanpen | はんぺん |  | [Twitter](https://twitter.com/hanpen_marumaru) [Pixiv](https://www.pixiv.net/users/51639905) |
+| zeroshiki kouichi | ぷぅ崎ぷぅ奈 |  | [pixiv](https://www.pixiv.net/users/2627037)<br>[Twitter](https://twitter.com/punopupupu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
