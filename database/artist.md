@@ -946,7 +946,7 @@ example:
 | yamagara tasuku | 山雀たすく |  |  |
 | zumikuni | ズミクニ |  |  |
 | juder | Juder |  |  |
-| nagase yutaka | 長瀬ゆたか |  |  |
+| nagase yutaka | 長瀬ゆたか |  | [Pixiv](https://www.pixiv.net/users/2585759) |
 | yumeno owari | ユメのオワリ |  |  |
 | jinguu kozue | 神宫梢 |  |  |
 | anzu | 庵ズ |  |  |
