@@ -3351,6 +3351,7 @@ example:
 | mana | MANA |  | [Twitter](https://twitter.com/remana22) [Pixiv](https://www.pixiv.net/users/3015512) |
 | hanpen | はんぺん |  | [Twitter](https://twitter.com/hanpen_marumaru) [Pixiv](https://www.pixiv.net/users/51639905) |
 | zeroshiki kouichi | ぷぅ崎ぷぅ奈 |  | [pixiv](https://www.pixiv.net/users/2627037)<br>[Twitter](https://twitter.com/punopupupu) |
+| kagono tori | かごのとり | ![图](# "https://ehgt.org/b9/9a/b99af2854a897e22f72854b012865ae2c2d55f3d-1929705-1890-2628-jpg_l.jpg") | [Twitter](https://twitter.com/wQUTGcijMyTvYnq) [Twitter](https://twitter.com/kagonotori00000)<br>[Pixiv](https://www.pixiv.net/users/140163) [ニコニコ静画](https://seiga.nicovideo.jp/manga/list?user_id=6039932) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
