@@ -2302,7 +2302,7 @@ example:
 | aoin | AOIN |  | [Twitter](https://twitter.com/AoinHatsu) [pixiv](https://www.pixiv.net/users/537853) |
 | takase asagiri | 鷹瀬あさぎり |  |  |
 | ugaromix | Ugaromix |  |  |
-| aizawa hiroshi | あいざわひろし |  |  |
+| aizawa hiroshi | あいざわひろし |  | [Twitter](https://twitter.com/aizawahiroshi) [Pixiv](https://www.pixiv.net/users/684233) |
 | b-ginga | B-银河 |  |  |
 | nanami | 七弥 |  |  |
 | narumi cristear note | 成海クリスティアーノート |  |  |
