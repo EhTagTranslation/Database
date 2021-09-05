@@ -2302,7 +2302,7 @@ example:
 | aoin | AOIN |  | [Twitter](https://twitter.com/AoinHatsu) [pixiv](https://www.pixiv.net/users/537853) |
 | takase asagiri | 鷹瀬あさぎり |  |  |
 | ugaromix | Ugaromix |  |  |
-| aizawa hiroshi | あいざわひろし |  |  |
+| aizawa hiroshi | あいざわひろし |  | [Twitter](https://twitter.com/aizawahiroshi) [Pixiv](https://www.pixiv.net/users/684233) |
 | b-ginga | B-银河 |  |  |
 | nanami | 七弥 |  |  |
 | narumi cristear note | 成海クリスティアーノート |  |  |
@@ -3345,6 +3345,11 @@ example:
 | mikaduchi | みかづち |  |  |
 | ogu | おぐ | 单行本《おしっこのところでしたいの! 》<br>![图](# "https://ehgt.org/a0/72/a072bfb2ba15df0ca9b3ae6c923c9272b3cd7906-768134-1021-1500-jpg_l.jpg") | [Twitter](https://twitter.com/Shizzko_Takio) [Pixiv](https://www.pixiv.net/users/136937) |
 | 13 | 13 |  | [Pixiv](https://www.pixiv.net/users/40255) [Twitter](https://twitter.com/ichimi_131) |
+| aoki kanji | 青木干治 | 青木幹治为日本的漫画家。居住于日本大阪府。主要在成人向漫画杂志活动。<br><br>单行本《Only You》<br>![图](# "https://ehgt.org/18/a1/18a19ef0672220750efb63df2ae294c70967f1b5-510054-3772-1600-jpg_l.jpg") | [维基百科](https://ja.wikipedia.org/wiki/青木幹治) [Twitter](https://twitter.com/kanji_a) [Pixiv](https://www.pixiv.net/users/941231) |
+| amagi kei | 亚麻木硅 | 亜麻木硅<br>单行本《ふたりでエスケープ》<br>![图](# "https://ehgt.org/55/4e/554e26f8f457966afb2082e09ed774d7b2779cda-494952-1753-2471-jpg_l.jpg") | [Twitter](https://twitter.com/magi_amagikei) [Pixiv](https://www.pixiv.net/users/261449) |
+| ikumo taisuke | 井云泰助 | 井雲泰助 | [Twitter](https://twitter.com/iqmo_t) [Pixiv](https://www.pixiv.net/users/534519) |
+| mana | MANA |  | [Twitter](https://twitter.com/remana22) [Pixiv](https://www.pixiv.net/users/3015512) |
+| hanpen | はんぺん |  | [Twitter](https://twitter.com/hanpen_marumaru) [Pixiv](https://www.pixiv.net/users/51639905) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
