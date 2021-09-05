@@ -3356,6 +3356,7 @@ example:
 | shinichirou otsuka | 大冢真一郎 | 大冢真一郎，日本插画家，熊本县出生。<br><br>代表作为《召唤夜想曲 铸剑物语》系列的人物设计，偶尔也担任轻小说的插图设计，而轻小说的插图设计以“GASHIN”代名。<br>轻小说《`re zero kara hajimeru isekai seikatsu`》的插画师。 | [维基百科](https://zh.wikipedia.org/wiki/大塚真一郎) (\*) [Twitter](https://twitter.com/otsuka_shin) |
 | haniwa hao | はにわはお |  | [Twitter](https://twitter.com/dwarf828) [Pixiv](https://www.pixiv.net/users/7768) |
 | akitaka mika | 明贵美加 |  |  |
+| kanabun | kanabun |  | [Twitter](https://twitter.com/kanabun305) [Twitter R-18](https://twitter.com/wakaru_tissue) [Pixiv](https://www.pixiv.net/users/45722) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
