@@ -2523,7 +2523,7 @@ example:
 | itsuki nakano | 中野五月 |  |  |
 |  | ▼ hololive | 猴楼 live |  |
 |  |  | 0期 |  |
-| tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是`hololive`所属的`f:vtuber`。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org.cn/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org.cn/时乃空) |
+| tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是`hololive`所属的`vtuber`。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org.cn/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org.cn/时乃空) |
 | roboco | 萝卜子 | 萝卜子（ロボ子さん／Roboko-san）是从2018年3月4日在Youtube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![高性能机器人](https://img.moegirl.org.cn/common/8/83/Roboko-san2.png) | [萌娘百科](https://zh.moegirl.org.cn/萝卜子) |
 | sakura miko | 樱巫女 | 樱巫女（さくらみこ／Sakura Miko）是从2018年8月1日在YouTube开始活动的`VTuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/1/10/SakuraMiko.png) | [萌娘百科](https://zh.moegirl.org.cn/樱巫女) |
 | hoshimachi suisei | 星街彗星 | 星街彗星 （星街すいせい／Hoshimati Suisei）是一名2018年3月22日在Youtube作为个人势开始活动的`Vtuber`，后在2019年5月19日宣布加入成为业界团体hololive所属，先于音乐特化型品牌「INNK Music」所属，后转籍至「hololive」直接所属。<br><br>![](https://img.moegirl.org.cn/common/c/c8/HoshimatiSuisei.png) | [萌娘百科](https://zh.moegirl.org.cn/星街彗星) (\*\*) |
