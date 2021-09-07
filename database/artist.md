@@ -3358,6 +3358,7 @@ example:
 | akitaka mika | 明贵美加 |  |  |
 | kanabun | kanabun |  | [Twitter](https://twitter.com/kanabun305) [Twitter R-18](https://twitter.com/wakaru_tissue) [Pixiv](https://www.pixiv.net/users/45722) |
 | miyasaka takaji | ミヤサカタカジ | 日本漫画家，以社团`shichiten battou`活动。并在商业杂志《Comic Lo》发表作品。<br>作品多以`lolicon`及`toddlercon`为主。 | [Twitter](https://twitter.com/tkg0078) [Pixiv](https://www.pixiv.net/users/135575) |
+| crowe | クロエ | 社团`sugar berry syrup` | [Pixiv](https://www.pixiv.net/users/221698) [Twitter](https://twitter.com/crowe_sbs) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
