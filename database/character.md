@@ -2532,7 +2532,7 @@ example:
 | aki rosenthal | 亚绮·罗森塔尔 | 亚绮·罗森塔尔（アキ・ローゼンタール／Aki Rosenthal）是从2018年6月8日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![](https://img.moegirl.org.cn/common/4/44/Aki_Rosenthal.png) | [萌娘百科](https://zh.moegirl.org.cn/亚绮·罗森塔尔) |
 | akai haato | 赤井心 | 赤井心（赤井 はあと／Akai Haato）是从2018年6月2日在YouTube开始活动的`VTuber`，所属业界团体hololive的一期生。<br>![敲里吗](https://img.moegirl.org.cn/common/b/bc/Akai_Haato.png) | [萌娘百科](https://zh.moegirl.org.cn/赤井心) |
 | shirakami fubuki | 白上吹雪 | 白上吹雪（白上 フブキ，Shirakami Fubuki）是属于hololive一期生的`VTuber`，2018年6月开始活动。<br>![小猫咪](https://img.moegirl.org.cn/common/0/0c/Shirakami_Fubuki.png) | [萌娘百科](https://zh.moegirl.org.cn/白上吹雪) |
-| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于`hololive`一期生的`fe:vtuber`，2018年6月开始活动。<br>![马自立](https://img.moegirl.org.cn/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org.cn/夏色祭) |
+| natsuiro matsuri | 夏色祭 | 夏色祭（夏色 まつり，Natsuiro Matsuri）是属于`hololive`一期生的`vtuber`，2018年6月开始活动。<br>![马自立](https://img.moegirl.org.cn/common/8/8a/Natsuiro_Matsuri.png) | [萌娘百科](https://zh.moegirl.org.cn/夏色祭) |
 |  |  | 2期 |  |
 | minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的`VTuber`，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org.cn/common/f/f8/Minato_Aqua.png) | [萌娘百科](https://zh.moegirl.org.cn/凑阿库娅) |
 | murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的`VTuber`，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org.cn/common/e/e5/Murasaki_Shion.png) | [萌娘百科](https://zh.moegirl.org.cn/紫咲诗音) |
