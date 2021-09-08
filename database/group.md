@@ -2131,6 +2131,7 @@ example:
 | ichimi-zanmai | 一味三昧 |  |  |
 | sugar berry syrup | Sugar\*Berry\*Syrup |  |  |
 | kousei | コウセイ |  |  |
+| sugarringo | SUGARRINGO |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
