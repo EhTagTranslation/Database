@@ -2130,6 +2130,7 @@ example:
 | yasai batake | 諏訪やさい |  | [Pixiv](https://www.pixiv.net/users/13477002) [Twitter](https://twitter.com/yasai_023) |
 | ichimi-zanmai | 一味三昧 |  |  |
 | sugar berry syrup | Sugar\*Berry\*Syrup |  |  |
+| kousei | コウセイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
