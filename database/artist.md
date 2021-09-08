@@ -606,7 +606,7 @@ example:
 | hikage eiji | 日阴影次 |  |  |
 | amakura | アマクラ |  |  |
 | ebi193 | えび193 |  |  |
-| shinama | しなま |  |  |
+| shinama | しなま |  | [Twitter](https://twitter.com/shinamachitonda) [Pixiv](https://www.pixiv.net/users/17567) |
 | mars | Mars |  |  |
 | yuran | ゆらん |  |  |
 | toumi haruka | 遠海ハルカ |  |  |
