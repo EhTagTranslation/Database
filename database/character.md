@@ -3576,6 +3576,7 @@ example:
 | christie | 克丽丝蒂 |  |  |
 | mila | 米拉 |  |  |
 | hitomi | 瞳 |  |  |
+| raiden shogun | 雷电将军 | 雷电将军是由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雷电影) (\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
