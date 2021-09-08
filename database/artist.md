@@ -3360,6 +3360,7 @@ example:
 | miyasaka takaji | ミヤサカタカジ | 日本漫画家，以社团`shichiten battou`活动。并在商业杂志《Comic Lo》发表作品。<br>作品多以`lolicon`及`toddlercon`为主。 | [Twitter](https://twitter.com/tkg0078) [Pixiv](https://www.pixiv.net/users/135575) |
 | crowe | クロエ | 社团`sugar berry syrup` | [Pixiv](https://www.pixiv.net/users/221698) [Twitter](https://twitter.com/crowe_sbs) |
 | ruhika | ルヒカ |  | [pixiv](https://www.pixiv.net/users/1700201)<br>[Twitter](https://twitter.com/franruhika) |
+| oobanburumai | オオバンブルマイ | 成年向漫画家。在商业杂志《Comic 梦幻转生》不定期刊登作品<br>![图](https://ehgt.org/b2/bf/b2bf4e65f7401e79f1c14038ff0264b0715c2af5-84614-385-419-jpg_l.jpg)<br><br>单行本《痴的好奇心》<br>![图](# "https://ehgt.org/12/0f/120fad20c36b9842f19e314aea655b345c4f0384-5581802-4646-2000-jpg_l.jpg") | [Twitter](https://twitter.com/maitubomi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
