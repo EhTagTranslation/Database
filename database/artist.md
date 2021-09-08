@@ -3361,6 +3361,7 @@ example:
 | crowe | クロエ | 社团`sugar berry syrup` | [Pixiv](https://www.pixiv.net/users/221698) [Twitter](https://twitter.com/crowe_sbs) |
 | ruhika | ルヒカ |  | [pixiv](https://www.pixiv.net/users/1700201)<br>[Twitter](https://twitter.com/franruhika) |
 | oobanburumai | オオバンブルマイ | 成年向漫画家。在商业杂志《Comic 梦幻转生》不定期刊登作品<br>![图](https://ehgt.org/b2/bf/b2bf4e65f7401e79f1c14038ff0264b0715c2af5-84614-385-419-jpg_l.jpg)<br><br>单行本《痴的好奇心》<br>![图](# "https://ehgt.org/12/0f/120fad20c36b9842f19e314aea655b345c4f0384-5581802-4646-2000-jpg_l.jpg") | [Twitter](https://twitter.com/maitubomi) |
+| shin fuzen | シン 普禅 | `shinama`老师自称的与自己画一模一样但完全没有任何关系的新出道漫画家。<br>![图](# "https://ehgt.org/8c/b6/8cb6bff1f2c6fe5ddc84148535b3135bfdad0ace-3111149-2074-3000-jpg_l.jpg") |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
