@@ -3365,6 +3365,7 @@ example:
 | magekichi | まげきち |  |  |
 | juna | JUNA |  | [Twitter](https://twitter.com/junanim) [pixiv](https://www.pixiv.net/users/66655) |
 | kotokane hajime | ことかねはじめ |  | [Twitter](https://twitter.com/kotokanehajime) [Pixiv](https://www.pixiv.net/users/604374) |
+| yoshitani ganjitsu | 义谷元日 | 義谷元日 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
