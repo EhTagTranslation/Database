@@ -2132,6 +2132,7 @@ example:
 | sugar berry syrup | Sugar\*Berry\*Syrup |  |  |
 | kousei | コウセイ |  |  |
 | sugarringo | SUGARRINGO |  |  |
+| hajimeryu | はじめりゅう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
