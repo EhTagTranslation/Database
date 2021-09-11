@@ -3364,6 +3364,7 @@ example:
 | shin fuzen | シン 普禅 | `shinama`老师自称的与自己画一模一样但完全没有任何关系的新出道漫画家。<br>![图](# "https://ehgt.org/8c/b6/8cb6bff1f2c6fe5ddc84148535b3135bfdad0ace-3111149-2074-3000-jpg_l.jpg") |  |
 | magekichi | まげきち |  |  |
 | juna | JUNA |  | [Twitter](https://twitter.com/junanim) [pixiv](https://www.pixiv.net/users/66655) |
+| kotokane hajime | ことかねはじめ |  | [Twitter](https://twitter.com/kotokanehajime) [Pixiv](https://www.pixiv.net/users/604374) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
