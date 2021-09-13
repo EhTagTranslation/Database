@@ -1088,7 +1088,7 @@ example:
 | ichinomiya yuu | 一宫夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [Twitter](https://twitter.com/Inago1919) [Pixiv](https://www.pixiv.net/users/5629962) |
 | maki daikichi | 牧だいきち |  |  |
-| raita | RAITA \| 来太 |  |  |
+| raita | 来太 |  |  |
 | sasachinn | ささちん |  |  |
 | soushamoku | 桑柘木 |  |  |
 | suzuki akoni | 鈴月あこに |  |  |
