@@ -3366,6 +3366,7 @@ example:
 | juna | JUNA |  | [Twitter](https://twitter.com/junanim) [pixiv](https://www.pixiv.net/users/66655) |
 | kotokane hajime | ことかねはじめ |  | [Twitter](https://twitter.com/kotokanehajime) [Pixiv](https://www.pixiv.net/users/604374) |
 | yoshitani ganjitsu | 义谷元日 | 義谷元日 |  |
+| kawai masaki | 川合正起 | ![川合正起头像](https://i.pixiv.cat/user-profile/img/2012/04/27/01/31/40/4528345_3c6708fd3c2cccb2554eae49184f2607_170.jpg) | [pixiv](https://www.pixiv.net/users/4353502) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
