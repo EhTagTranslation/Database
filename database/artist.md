@@ -3369,6 +3369,7 @@ example:
 | kawai masaki | 川合正起 | ![川合正起头像](https://i.pixiv.cat/user-profile/img/2012/04/27/01/31/40/4528345_3c6708fd3c2cccb2554eae49184f2607_170.jpg) | [pixiv](https://www.pixiv.net/users/4353502) |
 | wada wau | 和田羽烏 |  | [Twitter](https://twitter.com/wada_wau) |
 | rondonko | ろんどんこ |  | [Twitter](https://twitter.com/rondonko) |
+| pirason | ぴらそん | ![Twitter](https://pbs.twimg.com/profile_images/1304868526470037505/x2fx-PBy_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/6e/c8/6ec866e5b03634ad73f13b3dbbf7f536a818afb5-5546850-5040-3541-jpg_l.jpg") | [Twitter](https://twitter.com/pirasone) [Pixiv](https://www.pixiv.net/users/1468214) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
