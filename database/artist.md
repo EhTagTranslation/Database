@@ -3371,6 +3371,7 @@ example:
 | rondonko | ろんどんこ |  | [Twitter](https://twitter.com/rondonko) |
 | pirason | ぴらそん | ![Twitter](https://pbs.twimg.com/profile_images/1304868526470037505/x2fx-PBy_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/6e/c8/6ec866e5b03634ad73f13b3dbbf7f536a818afb5-5546850-5040-3541-jpg_l.jpg") | [Twitter](https://twitter.com/pirasone) [Pixiv](https://www.pixiv.net/users/1468214) |
 | zettai yarumoni | 絶対やるもに | ![图](# "https://ehgt.org/8f/79/8f791b5630fc028bf1b84a313e68e741ac59c95f-257700-1241-1818-jpg_l.jpg") | [Twitter](https://twitter.com/yarumoni2021) [Pixiv](https://www.pixiv.net/users/20572295) |
+| shishi senmaru | 狮子千丸 | 獅子千丸<br>![Twitter](https://pbs.twimg.com/profile_images/1225284057887469568/83cTM6UO_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/46/8b/468be3e7b7f61c991bfc994dec381d8ed6780def-1711488-1488-2105-jpg_l.jpg") | [Twitter](https://twitter.com/inashishi) [Pixiv](https://www.pixiv.net/users/412918) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
