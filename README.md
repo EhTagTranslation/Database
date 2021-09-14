@@ -31,7 +31,7 @@
 一般用户可通过以下项目使用本数据库的翻译，也可以通过这些项目向本数据库贡献翻译内容。
 
 * [EhSyringe](../../../EhSyringe)  
-  ![][plat-web]  
+  ![WEB][plat-web]  
   > 本项目的官方实现，提供 UserScript 和浏览器插件。
   
   E站注射器，将中文翻译注入到E站体内。
@@ -39,7 +39,7 @@
   这一针打下去你就会说中文了。
 
 * [EhTagBuilder](//github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
-  ![][plat-web]  
+  ![WEB][plat-web]  
   > 本项目的前身，使用 UserScript 实现，已被 EhSyringe 取代。
 
   EhTagBuilder 简称 "ETB"。
@@ -47,29 +47,29 @@
   翻译实现方式：ETB 先获取 Wiki 数据库网页，获得翻译数据，生成对应格式的 CSS 代码，再由 Stylus 扩展附加到 E 绅士网页上。
 
 * [E-Viewer](//github.com/OpportunityLiu/E-Viewer)  
-  ![][plat-uwp]  
+  ![UWP][plat-uwp]  
   An UWP Client for <https://e-hentai.org>.
 
 * [EhViewer](//gitlab.com/NekoInverter/EhViewer)  
-  ![][plat-android]  
+  ![Android][plat-android]  
   An Unofficial E-Hentai Application for Android.
   
   [原项目](//github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@NekoInverter](//gitlab.com/NekoInverter) 维护的修改版。
 
 * [Dai-Hentai](//github.com/DaidoujiChen/Dai-Hentai)  
-  ![][plat-ios]  
+  ![iOS][plat-ios]  
   一個普通的看漫畫 App。
   
 * [E-HentaiViewer](//github.com/kayanouriko/E-HentaiViewer)  
-  ![][plat-ios]  
+  ![iOS][plat-ios]  
   一个 E-Hentai 的 iOS 端阅读器。
   
 * [EhPanda](//ehpanda.app)  
-  ![][plat-ios]  
+  ![iOS][plat-ios]  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
   
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
-  ![][plat-ios]  ![][plat-android]  
+  ![iOS][plat-ios]  ![Adnroid][plat-android]  
   一个由 Flutter 编写的阅读器，支持直连。
   
   
