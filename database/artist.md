@@ -3373,6 +3373,7 @@ example:
 | zettai yarumoni | 絶対やるもに | ![图](# "https://ehgt.org/8f/79/8f791b5630fc028bf1b84a313e68e741ac59c95f-257700-1241-1818-jpg_l.jpg") | [Twitter](https://twitter.com/yarumoni2021) [Pixiv](https://www.pixiv.net/users/20572295) |
 | shishi senmaru | 狮子千丸 | 獅子千丸<br>![Twitter](https://pbs.twimg.com/profile_images/1225284057887469568/83cTM6UO_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/46/8b/468be3e7b7f61c991bfc994dec381d8ed6780def-1711488-1488-2105-jpg_l.jpg") | [Twitter](https://twitter.com/inashishi) [Pixiv](https://www.pixiv.net/users/412918) |
 | kameyoshi ichiko | 亀吉いちこ | 单行本《えっち大好き成長期》<br>![图](# "https://ehgt.org/b9/27/b9275afd6c596681011b929a1aec3bc2990a3c2f-892914-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/ichi56) [Pixiv](https://www.pixiv.net/users/1788765) |
+| leonardo 16sei | れオナるド16世 |  | [Twitter🔞](https://twitter.com/Leo_tekokids) [Twitter](https://twitter.com/BakeTanukiGirl) [Pixiv](https://www.pixiv.net/users/287998) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
