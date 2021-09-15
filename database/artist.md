@@ -3377,6 +3377,7 @@ example:
 | funwari rice | ふんわり☆らいす |  | [Pixiv](https://www.pixiv.net/users/13266841) |
 | akao | 朱尾 | ![twitter](https://pbs.twimg.com/profile_images/1205450307989204997/c71PONfL_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/mowsow_18) [pixiv](https://www.pixiv.net/users/22972714) |
 | omecho | おめちょ | ![twitter](https://pbs.twimg.com/profile_images/1220719324513685504/vTWj88Kv_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/omecno) [pixiv](https://www.pixiv.net/users/5014985) |
+| chicken | チキン | ![twitter](https://pbs.twimg.com/profile_images/1398227303235145732/7VvHtDI6_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/chicken4260) [pixiv](https://www.pixiv.net/users/825329) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
