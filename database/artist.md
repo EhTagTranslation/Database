@@ -3375,6 +3375,7 @@ example:
 | kameyoshi ichiko | 亀吉いちこ | 单行本《えっち大好き成長期》<br>![图](# "https://ehgt.org/b9/27/b9275afd6c596681011b929a1aec3bc2990a3c2f-892914-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/ichi56) [Pixiv](https://www.pixiv.net/users/1788765) |
 | leonardo 16sei | れオナるド16世 |  | [Twitter🔞](https://twitter.com/Leo_tekokids) [Twitter](https://twitter.com/BakeTanukiGirl) [Pixiv](https://www.pixiv.net/users/287998) |
 | funwari rice | ふんわり☆らいす |  | [Pixiv](https://www.pixiv.net/users/13266841) |
+| akao | 朱尾 | ![twitter](https://pbs.twimg.com/profile_images/1205450307989204997/c71PONfL_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/mowsow_18) [pixiv](https://www.pixiv.net/users/22972714) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
