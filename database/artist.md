@@ -3381,6 +3381,7 @@ example:
 | uba yoshiyuki | 宇场义行 | ![twitter](https://pbs.twimg.com/profile_images/1209902832641425408/Lq_DrHWq_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/uba_left) [pixiv](https://www.pixiv.net/users/479200) |
 | syokuyou-mogura | Syokuyou-Mogura | ![图](# "https://ehgt.org/af/53/af53f5e5b4cf3e752298e74d11d480589287031f-7604289-3508-2480-png_l.jpg") | [Twitter](https://twitter.com/syokuyoumogura) [Pixiv](https://www.pixiv.net/users/579672) |
 | nanjou asuka | 南条飞鸟 | 南条飛鳥 | [Pixiv](https://www.pixiv.net/users/112142) |
+| kurenai yuuji | 紅ゆーじ |  | [Twitter](https://twitter.com/yuji_kurenai) [Pixiv](https://www.pixiv.net/users/358659) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
