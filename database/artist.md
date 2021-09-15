@@ -2956,7 +2956,7 @@ example:
 | opanchu | おぱんちゅ |  | [Twitter](https://twitter.com/whiteopanchu) [pixiv](https://www.pixiv.net/users/259683) |
 | xion | Xion |  | [Twitter](https://twitter.com/spacelaika13) [pixiv](https://www.pixiv.net/users/3850071) |
 | tomoki tomonori | ともきとものり |  |  |
-| pistonring nishizawa | 西沢みずき | 年长系 ![https://pbs.twimg.com/profile\_images/775822906018324482/lP7tp-vp\_200x200.jpg](https://pbs.twimg.com/profile_images/775822906018324482/lP7tp-vp_200x200.jpg) | [pixiv](https://www.pixiv.net/users/1072832)  [Twitter](https://twitter.com/p_nishizawa) |
+| pistonring nishizawa | 西泽みずき | ![twitter](https://pbs.twimg.com/profile_images/775822906018324482/lP7tp-vp_400x400.jpg)<br><br>**作者推特头像**<br><br>comic快乐天作者，主攻年长系御姐角色作品。 | [twitter](https://twitter.com/p_nishizawa) [pixiv](https://www.pixiv.net/users/1072832) |
 | kokuryuugan | 黑龙眼 |  |  |
 | kazakami sudare | かざかみすだれ |  |  |
 | paryi | 帕里 | ![头像](https://i2.hdslb.com/bfs/face/09088e15e8149c4c6411f0df1483476fb8a9b3e2.jpg)<br>我是paryipro的画师paryi~中国朋友们好~请大家关注我~<br>paryi审核群：439902287 | [Twitter](https://twitter.com/par1y) [Pixiv](https://www.pixiv.net/users/30816400) [BiliBili](https://space.bilibili.com/1576121/) |
