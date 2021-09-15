@@ -3379,6 +3379,7 @@ example:
 | omecho | おめちょ | ![twitter](https://pbs.twimg.com/profile_images/1220719324513685504/vTWj88Kv_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/omecno) [pixiv](https://www.pixiv.net/users/5014985) |
 | chicken | チキン | ![twitter](https://pbs.twimg.com/profile_images/1398227303235145732/7VvHtDI6_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/chicken4260) [pixiv](https://www.pixiv.net/users/825329) |
 | uba yoshiyuki | 宇场义行 | ![twitter](https://pbs.twimg.com/profile_images/1209902832641425408/Lq_DrHWq_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/uba_left) [pixiv](https://www.pixiv.net/users/479200) |
+| syokuyou-mogura | Syokuyou-Mogura | ![图](# "https://ehgt.org/af/53/af53f5e5b4cf3e752298e74d11d480589287031f-7604289-3508-2480-png_l.jpg") | [Twitter](https://twitter.com/syokuyoumogura) [Pixiv](https://www.pixiv.net/users/579672) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
