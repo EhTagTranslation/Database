@@ -3383,6 +3383,7 @@ example:
 | nanjou asuka | 南条飞鸟 | 南条飛鳥 | [Pixiv](https://www.pixiv.net/users/112142) |
 | kurenai yuuji | 紅ゆーじ |  | [Twitter](https://twitter.com/yuji_kurenai) [Pixiv](https://www.pixiv.net/users/358659) |
 | kohsaka novak | 高坂のばく |  | [Twitter](https://twitter.com/kohsaka_novak) [pixiv](https://www.pixiv.net/users/18987642) |
+| osisio | osisio |  | [Twitter](https://twitter.com/GranSisio) [Twitter(R18)](https://twitter.com/Oboobso) [pixiv](https://www.pixiv.net/users/5751196) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
