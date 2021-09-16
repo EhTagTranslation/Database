@@ -2133,6 +2133,7 @@ example:
 | kousei | コウセイ |  |  |
 | sugarringo | SUGARRINGO |  |  |
 | hajimeryu | はじめりゅう |  |  |
+| neovertex | NEOVERTEX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
