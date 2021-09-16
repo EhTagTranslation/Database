@@ -3382,6 +3382,7 @@ example:
 | syokuyou-mogura | Syokuyou-Mogura | ![图](# "https://ehgt.org/af/53/af53f5e5b4cf3e752298e74d11d480589287031f-7604289-3508-2480-png_l.jpg") | [Twitter](https://twitter.com/syokuyoumogura) [Pixiv](https://www.pixiv.net/users/579672) |
 | nanjou asuka | 南条飞鸟 | 南条飛鳥 | [Pixiv](https://www.pixiv.net/users/112142) |
 | kurenai yuuji | 紅ゆーじ |  | [Twitter](https://twitter.com/yuji_kurenai) [Pixiv](https://www.pixiv.net/users/358659) |
+| kohsaka novak | 高坂のばく |  | [Twitter](https://twitter.com/kohsaka_novak) [pixiv](https://www.pixiv.net/users/18987642) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
