@@ -2134,6 +2134,7 @@ example:
 | sugarringo | SUGARRINGO |  |  |
 | hajimeryu | はじめりゅう |  |  |
 | neovertex | NEOVERTEX |  |  |
+| mizuiro no bara | 水色のバラ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
