@@ -3386,6 +3386,7 @@ example:
 | osisio | osisio |  | [Twitter](https://twitter.com/GranSisio) [Twitter(R18)](https://twitter.com/Oboobso) [pixiv](https://www.pixiv.net/users/5751196) |
 | kazune haka | 和音ハカ |  | [Twitter](https://twitter.com/kazunehaka) [pixiv](https://www.pixiv.net/users/3215185) |
 | yatomi | やとみ |  | [Twitter](https://twitter.com/8103x) [pixiv](https://www.pixiv.net/users/168058) |
+| karaage3 | からあげ3 |  | [Twitter](https://twitter.com/karaage3) [pixiv](https://www.pixiv.net/users/24567) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
