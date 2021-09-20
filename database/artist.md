@@ -3387,6 +3387,7 @@ example:
 | kazune haka | 和音ハカ |  | [Twitter](https://twitter.com/kazunehaka) [pixiv](https://www.pixiv.net/users/3215185) |
 | yatomi | やとみ |  | [Twitter](https://twitter.com/8103x) [pixiv](https://www.pixiv.net/users/168058) |
 | karaage3 | からあげ3 |  | [Twitter](https://twitter.com/karaage3) [pixiv](https://www.pixiv.net/users/24567) |
+| gibachan | ぎばちゃん | ![twitter](https://pbs.twimg.com/profile_images/1397539447130902534/x9qMk_qL_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/gibagibagiba) [pixiv](https://www.pixiv.net/users/195407) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
