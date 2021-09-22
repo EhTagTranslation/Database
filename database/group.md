@@ -2136,6 +2136,7 @@ example:
 | neovertex | NEOVERTEX |  |  |
 | mizuiro no bara | 水色のバラ |  |  |
 | trinket | TrinkeT |  |  |
+| letra | LETRA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
