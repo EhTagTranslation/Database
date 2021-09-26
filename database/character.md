@@ -3584,6 +3584,7 @@ example:
 | ariel | 爱丽儿 | 华特迪士尼第28部动画电影《小美人鱼》及其衍生作品中的主角。 |  |
 | platelet | 血小板 |  |  |
 | shimushu | 占守 |  |  |
+| ayaka kamisato | 神里绫华 | 神里绫华，米哈游出品的游戏《`genshin impact`》及其衍生作品中的角色，稻妻“社奉行”神里家的大小姐。 | [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
