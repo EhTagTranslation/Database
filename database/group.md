@@ -2137,6 +2137,7 @@ example:
 | mizuiro no bara | 水色のバラ |  |  |
 | trinket | TrinkeT |  |  |
 | letra | LETRA |  |  |
+| kitazawa sangyo | 北沢産業 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
