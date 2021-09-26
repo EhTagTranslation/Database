@@ -3585,6 +3585,7 @@ example:
 | platelet | 血小板 |  |  |
 | shimushu | 占守 |  |  |
 | ayaka kamisato | 神里绫华 | 神里绫华，米哈游出品的游戏《`genshin impact`》及其衍生作品中的角色，稻妻“社奉行”神里家的大小姐。 | [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
+| shounagon sei | 清少纳言 | 清少纳言通常是指`type-moon`旗下Fate系列及其衍生作品中登场的角色，在游戏《`fate grand order`》初登场。<br><br>其出典于真实历史人物 清少纳言，是日本平安时期的女作家、歌人。姓清原，名不可考。以随笔集「枕草子」闻名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hant/清少纳言%28Fate%29) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
