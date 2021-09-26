@@ -3589,6 +3589,7 @@ example:
 | ritsuko akagi | 赤木律子 | 动漫《新世纪福音战士》中的角色。 |  |
 | yui ikari | 碇唯 | 《新世纪福音战士》中的角色 |  |
 | gendo ikari | 碇源堂 | 《新世纪福音战士》中的角色 |  |
+| kensou sie | 椎拳崇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
