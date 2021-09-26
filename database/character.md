@@ -3590,6 +3590,7 @@ example:
 | yui ikari | 碇唯 | 《新世纪福音战士》中的角色 |  |
 | gendo ikari | 碇源堂 | 《新世纪福音战士》中的角色 |  |
 | kensou sie | 椎拳崇 |  |  |
+| andy bogard | 安迪·博加德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
