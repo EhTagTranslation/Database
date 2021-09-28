@@ -3592,6 +3592,7 @@ example:
 | kensou sie | 椎拳崇 |  |  |
 | andy bogard | 安迪·博加德 |  |  |
 | azuma | 吾妻 | 原型为旧日本海军B65型大型巡洋舰（超甲巡），“吾妻”一名为战舰世界研发方Wargaming.net根据旧日本海军命名规则而起。 | [碧蓝航线:吾妻](https://zh.moegirl.org.cn/碧蓝航线:吾妻) |
+| gorgon | 戈耳工 | 《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/戈耳工%28Fate%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
