@@ -3390,6 +3390,7 @@ example:
 | gibachan | ぎばちゃん | ![twitter](https://pbs.twimg.com/profile_images/1397539447130902534/x9qMk_qL_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/gibagibagiba) [pixiv](https://www.pixiv.net/users/195407) |
 | takitarou | 滝太郎 |  | [Twitter](https://twitter.com/tackey_tsubasa) [pixiv](https://www.pixiv.net/users/195563) |
 | yangcong chaodasuan | 洋葱炒大蒜 |  |  |
+| tokunou shoutarou | 得能正太郎 | 得能正太郎，日本男性漫画家，插画家。代表作《NEW GAME！》。 | [Twitter](https://twitter.com/tokutaro) [pixiv](https://www.pixiv.net/users/1203800) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
