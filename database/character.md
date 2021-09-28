@@ -3595,6 +3595,7 @@ example:
 | gorgon | 戈耳工 | 《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/戈耳工%28Fate%29#) |
 | repulse | 反击 | 原型为英国皇家海军的反击号战列巡洋舰,是声望级战列巡洋舰的2号舰 | [碧蓝航线:反击](https://zh.moegirl.org.cn/碧蓝航线:反击) |
 | north carolina | 北卡罗来纳 | 美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)) | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
+| washington | 华盛顿 | 美国海军北卡罗来纳级战列舰二号舰华盛顿号（USS Washington BB-56） | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
