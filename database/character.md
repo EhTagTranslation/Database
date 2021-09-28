@@ -3599,6 +3599,7 @@ example:
 | essex | 埃塞克斯 | 美国海军埃塞克斯级航空母舰首舰埃塞克斯号（USS Essex (CV-9)） | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 | albacore | 大青花鱼 | 美国海军猫鲨级潜艇大青花鱼号（USS Albacore (SS-218)） | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
+| new jersey | 新泽西(花园) | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62）） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
