@@ -3597,6 +3597,7 @@ example:
 | north carolina | 北卡罗来纳 | 美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)) | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
 | washington | 华盛顿 | 美国海军北卡罗来纳级战列舰二号舰华盛顿号（USS Washington BB-56） | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
 | essex | 埃塞克斯 | 美国海军埃塞克斯级航空母舰首舰埃塞克斯号（USS Essex (CV-9)） | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
+| indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
