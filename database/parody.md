@@ -1493,7 +1493,7 @@ example:
 | genshin impact | 原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏。 | [https://ys.mihoyo.com/](https://ys.mihoyo.com/) |
 | mobile suit gundam the 08th ms team | 机动战士高达 第08MS小队 |  |  |
 | hoshizora no memoria | 星空的记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/星空的回憶_-Wish_upon_a_shooting_star-#cite_note-shootingStar-1) |
-| bocchi kaibutsu to moumoku shoujo | ぼっち怪物と盲目少女 |  |  |
+| bocchi kaibutsu to moumoku shoujo | 孤独怪物与盲少女 |  |  |
 | choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu | 超人高中生们即便在异世界也能从容生存！ | 《超人高中生们即便在异世界也能从容生存!》（日语：超人高校生たちは異世界でも余裕で生き抜くようです！）是由海空りく创作、さくらねこ插画的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/超人高中生们即便在异世界也能从容生存!) (\*\*) |
 | maou-sama retry | 重来吧，魔王大人！ |  |  |
 | maitetsu | 爱上火车 | 《爱上火车》（日语原名：まいてつ）是由Lose开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月30日发售新增剧情的《爱上火车 Last Run!!》。 | [官方网站](https://lose.jp/maitetsu/) [中文版官方网站](https://hikarifield.co.jp/purestation/) [中文官方网站(-Last Run!!-)](https://hikarifield.co.jp/maitetsu_lastrun/) [萌娘百科](https://zh.moegirl.org.cn/爱上火车) (\*\*) |
