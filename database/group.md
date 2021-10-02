@@ -2139,6 +2139,7 @@ example:
 | letra | LETRA |  |  |
 | kitazawa sangyo | 北沢産業 |  |  |
 | chocolate land | ちょこれーとらんど |  |  |
+| zebrasmise | zebrasmise |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
