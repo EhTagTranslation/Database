@@ -612,7 +612,7 @@ example:
 | nana abe | 安部菜菜 |  |  |
 |  | 工藤忍 |  |  |
 | nene kurihara | 栗原宁宁 |  |  |
-|  | 古贺小春 |  |  |
+| koharu koga | 古贺小春 |  |  |
 |  | 原田美世 |  |  |
 | akiha ikebukuro | 池袋晶叶 |  |  |
 | yuu ohta | 太田优 |  |  |
