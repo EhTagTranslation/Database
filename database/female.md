@@ -100,7 +100,7 @@ example:
 | lizard girl | 蜥蜴女孩 | 有爬行动物的鳞片和尾巴的女孩。 |  |
 | mermaid | 美人鱼🧜‍♀️ | 上半身是人，下半身是鱼。 |  |
 | monkey girl | 猴女孩 | 有猴子的耳朵，通常也有猴子的尾巴或其他特征。 |  |
-| monster girl | 怪物女孩 | `monster`的女性版本。 |  |
+| monster girl | 魔物娘 | `monster`的女性版本。 |  |
 | mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 |  |
 | necrophilia | 奸尸 | 涉及尸体的性行为。 |  |
 | oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon girl`混淆。<br>![图](https://ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](# "https://ehgt.org/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg")![图](# "https://ehgt.org/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg") |  |
