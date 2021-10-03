@@ -3602,6 +3602,7 @@ example:
 | new jersey | 新泽西(花园) | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62）） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/zh-cn/碧蓝航线:让·巴尔) |
 | kokomi sangonomiya | 珊瑚宮心海 |  |  |
+| kashino | 樫野 | 旧日本帝国海军的㭴野号给兵舰。 | [碧蓝航线:樫野](https://zh.moegirl.org.cn/碧蓝航线:樫野) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
