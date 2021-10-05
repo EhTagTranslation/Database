@@ -3607,6 +3607,7 @@ example:
 | saint louis | 路易九世 | 原型是法国海军的C5方案舰：路易九世 | [碧蓝航线:路易九世](https://zh.moegirl.org.cn/碧蓝航线:路易九世) |
 | yume nijino | 虹野梦 |  |  |
 | laura sakuraba | 樱庭劳拉 |  |  |
+| mahiru kasumi | 香澄真昼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
