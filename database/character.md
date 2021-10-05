@@ -3605,6 +3605,7 @@ example:
 | kashino | 樫野 | 旧日本帝国海军的㭴野号给兵舰。 | [碧蓝航线:樫野](https://zh.moegirl.org.cn/碧蓝航线:樫野) |
 | chapayev | 恰巴耶夫 | 恰巴耶夫号轻巡洋舰是苏联海军在二战期间至二战后建造的恰巴耶夫级轻巡洋舰的首舰。 | [碧蓝航线:恰巴耶夫](https://zh.moegirl.org.cn/碧蓝航线:恰巴耶夫) |
 | saint louis | 路易九世 | 原型是法国海军的C5方案舰：路易九世 | [碧蓝航线:路易九世](https://zh.moegirl.org.cn/碧蓝航线:路易九世) |
+| yume nijino | 虹野梦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
