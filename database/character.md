@@ -3609,6 +3609,7 @@ example:
 | laura sakuraba | 樱庭劳拉 |  |  |
 | mahiru kasumi | 香澄真昼 |  |  |
 | koharu nanakura | 七仓小春 |  |  |
+| ako saotome | 早乙女亚子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
