@@ -3608,6 +3608,7 @@ example:
 | yume nijino | 虹野梦 |  |  |
 | laura sakuraba | 樱庭劳拉 |  |  |
 | mahiru kasumi | 香澄真昼 |  |  |
+| koharu nanakura | 七仓小春 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
