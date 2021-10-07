@@ -3396,6 +3396,7 @@ example:
 | akabane | アカバネ |  | [Twitter](https://twitter.com/akabane22) [pixiv](https://www.pixiv.net/users/240431) |
 | miyashiro ryuutarou | 三夜代龙太郎 |  |  |
 | meganei | メガねぃ | ![twitter](https://pbs.twimg.com/profile_images/1196262215298371584/DgVn-TEf_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/EiChfxfVoAAa6VT?format=jpg&name=medium")<br><br>单行本 | [twitter](https://twitter.com/nei_etc) [pixiv](https://www.pixiv.net/users/10591980) |
+| tamatanuki | たまたぬき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
