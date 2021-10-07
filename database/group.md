@@ -2140,6 +2140,7 @@ example:
 | kitazawa sangyo | 北沢産業 |  |  |
 | chocolate land | ちょこれーとらんど |  |  |
 | zebrasmise | zebrasmise |  |  |
+| kakurenbo | かくれんぼ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
