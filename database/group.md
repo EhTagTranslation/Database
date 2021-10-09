@@ -2142,6 +2142,7 @@ example:
 | zebrasmise | zebrasmise |  |  |
 | kakurenbo | かくれんぼ |  |  |
 | chericot rozel | Chericot\*Rozel |  |  |
+| pockyfactory | PockyFactory |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
