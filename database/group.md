@@ -2141,6 +2141,7 @@ example:
 | chocolate land | ちょこれーとらんど |  |  |
 | zebrasmise | zebrasmise |  |  |
 | kakurenbo | かくれんぼ |  |  |
+| chericot rozel | Chericot\*Rozel |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
