@@ -2143,6 +2143,7 @@ example:
 | kakurenbo | かくれんぼ |  |  |
 | chericot rozel | Chericot\*Rozel |  |  |
 | pockyfactory | PockyFactory |  |  |
+| pixel phantom | Pixel Phantom |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
