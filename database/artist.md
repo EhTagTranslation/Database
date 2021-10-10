@@ -3401,6 +3401,7 @@ example:
 | matsumiya kiseri | 茉宮祈芹 |  | [Twitter](https://twitter.com/kiseri0502) [pixiv](https://www.pixiv.net/users/465979) |
 | hirokawa | 広川 | 大人的玩具(大人のおもちや)作者 | [Twitter](https://twitter.com/yanagi_yukito) |
 | kamiya yuu | 榎宮祐 |  | [Twitter](https://twitter.com/yuukamiya68) [pixiv](https://www.pixiv.net/users/19276) |
+| imigimuru | いみぎむる |  | [Twitter](https://twitter.com/imigimuru) [pixiv](https://www.pixiv.net/users/39265042) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
