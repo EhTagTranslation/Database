@@ -2144,6 +2144,7 @@ example:
 | chericot rozel | Chericot\*Rozel |  |  |
 | pockyfactory | PockyFactory |  |  |
 | pixel phantom | Pixel Phantom |  |  |
+| afurokuma honten | アフロくま本店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
