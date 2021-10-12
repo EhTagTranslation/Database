@@ -3404,6 +3404,7 @@ example:
 | imigimuru | いみぎむる |  | [Twitter](https://twitter.com/imigimuru) [pixiv](https://www.pixiv.net/users/39265042) |
 | kise itsuki | 木瀬樹 |  |  |
 | shono kotaro | 宵野小太郎 | 宵野小太郎（日语：宵野 コタロー，12月24日－），日本漫画家。女性。已婚。代表作是目前在《少年Jump+》（集英社）连载的《终末的后宫》。 | [Twitter](https://twitter.com/kotaro_shono) [pixiv](https://www.pixiv.net/users/375178) [维基百科](https://zh.wikipedia.org/wiki/宵野小太郎) |
+| rurudo | rurudo |  | [Twitter](https://twitter.com/rurudo_) [pixiv](https://www.pixiv.net/users/25760573) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
