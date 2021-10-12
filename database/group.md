@@ -2145,6 +2145,7 @@ example:
 | pockyfactory | PockyFactory |  |  |
 | pixel phantom | Pixel Phantom |  |  |
 | afurokuma honten | アフロくま本店 |  |  |
+| sashimi necoya | さしみねこ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
