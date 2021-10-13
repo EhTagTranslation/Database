@@ -1990,7 +1990,7 @@ example:
 |  | ▼ 加速世界 |  |  |
 | kuroyukihime | 黑雪姬 |  |  |
 | haruyuki arita | 有田春雪 |  |  |
-| yuniko kouzuki | 上月由仁子 |  |  |
+| yuniko kouzuki | 上月由仁子 | 上月由仁子是川原礫所创作的輕小说《加速世界》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/上月由仁子) |
 | chiyuri kurashima | 仓岛千百合 |  |  |
 | akira himi | 冰见晶 |  |  |
 | fuuko kurasaki | 仓崎枫子 |  |  |
