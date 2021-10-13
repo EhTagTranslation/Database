@@ -3612,6 +3612,7 @@ example:
 | ako saotome | 早乙女亚子 |  |  |
 | misogi hodaka | 穗高未奏希 | 穗高未奏希（日语：穂高（ほだか） みそぎ，又译穗高禊（xì））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为未奏希（日语：ミソギ）。 | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
 | yuni shingyouji | 真行寺由仁 | 真行寺由仁（日语：真行寺（しんぎょうじ） 由仁（ゆに））是Cygames开发和发行的游戏《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为优妮（日语：ユニ）。 | [萌娘百科](https://zh.moegirl.org.cn/真行寺由仁) |
+| takagi | 高木 | 高木同学是由山本崇一朗创作的漫画《擅长捉弄人的高木同学》及其衍生作品的登场角色。([萌娘百科](https://img.moegirl.org.cn/common/thumb/6/61/Takagi_BD2.jpg/800px-Takagi_BD2.jpg)) | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=高木同学&variant=zh-hans&mobileaction=toggle_view_desktop) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
