@@ -3610,6 +3610,7 @@ example:
 | mahiru kasumi | 香澄真昼 |  |  |
 | koharu nanakura | 七仓小春 |  |  |
 | ako saotome | 早乙女亚子 |  |  |
+| misogi hodaka | 穗高未奏希 | 穗高未奏希（日语：穂高（ほだか） みそぎ，又译穗高禊（xì））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为未奏希（日语：ミソギ）。 | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
