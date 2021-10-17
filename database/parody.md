@@ -1610,6 +1610,7 @@ example:
 | valkyria chronicles 3 | 战场女武神3 | 《战场女武神3》（日语：戦場のヴァルキュリア3，英语：Valkyria Chronicles III）是世嘉与Media.Vision共同制作的战场女武神系列的第三代作品。在2010年的东京电玩展上正式揭晓并提供试玩，于2011年1月27日于PSP平台发售，本作也是继前作之后，系列作第二款在掌机上登场的作品。在2010年11月9日的发表会上，除了公布游戏主题曲与演唱者之外，还将推出2集OVA动画和黏土人系列模型。<br>在2011年9月3日官方正式宣布将于2011年11月23日推出包含游戏本篇与新制作的3个断章再加上4个旧有的追加下载任务的扩充版（EXTRA EDITION，简称E2版）。 | [维基百科](https://zh.wikipedia.org/wiki/戰場女武神3) (\*) |
 | kumo desu ga nani ka | 转生成蜘蛛又怎样！ |  | [维基百科](https://zh.wikipedia.org/wiki/轉生成蜘蛛又怎樣！) |
 | kuma kuma kuma bear | 熊熊勇闯异世界 | 《熊熊勇闯异世界》改编自くまなの创作的同名小说 | [萌娘百科](https://zh.moegirl.org.cn/熊熊勇闯异世界) [维基百科](https://zh.wikipedia.org/wiki/熊熊勇闯异世界) |
+| marco to ginga ryuu | 丸子与银河龙 | 游戏：丸子与银河龙 | [维基百科](https://zh.wikipedia.org/wiki/マルコと銀河竜_〜MARCO_%26_GALAXY_DRAGON〜) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
