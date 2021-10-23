@@ -3615,6 +3615,7 @@ example:
 | takagi | 高木同学 | 高木同学是由山本崇一朗创作的漫画《擅长捉弄人的高木同学》及其衍生作品的登场角色。([萌娘百科](https://img.moegirl.org.cn/common/thumb/6/61/Takagi_BD2.jpg/800px-Takagi_BD2.jpg)) | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=高木同学&variant=zh-hans&mobileaction=toggle_view_desktop) |
 | stella unibell | 史黛拉·尤尼贝尔 | 史黛拉·尤尼贝尔是游戏《灵魂行者》（Soul Worker）中的角色，她性格天真烂漫，超级我行我素，不论周围的情况如何都以自己的心情优先。有在意的事就忍不住，会说出出乎意料的话。喜欢唱起幽灵和歌来说话，欠缺常识，对“气”很敏感。因为别人的死而有着无法承受的悲伤，有倾向于凭依状态回避状况的倾向。 | [https://baike.baidu.com/item/灵魂武器/4950731](https://baike.baidu.com/item/灵魂武器/4950731) |
 | hotaru futaba | 双叶萤 | 饿狼MARK OF THE WOLVES中的人物，是一个喜爱拳法的可爱率真少女。 |  |
+| keke tang | 唐可可 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
