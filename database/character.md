@@ -3621,6 +3621,7 @@ example:
 | akira kurusu | 来栖晓 | 来栖晓（日语：来栖（くるす） 暁（あきら） (Kurusu Akira)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5》的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录5%29#) |
 | futaba sakura | 佐仓双叶 | 佐仓双叶（日语：佐倉 双葉（さくら ふたば））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佐仓双叶) |
 | haru okumura | 奥村春 | 奥村春（日语：奥村 春（オクムラ ハル））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/奥村春) |
+| makoto niijima | 新岛真 | 新岛真（日语：新島（にいじま） 真（まこと））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新岛真) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
