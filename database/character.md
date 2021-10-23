@@ -3617,6 +3617,7 @@ example:
 | hotaru futaba | 双叶萤 | 饿狼MARK OF THE WOLVES中的人物，是一个喜爱拳法的可爱率真少女。 |  |
 | keke tang | 唐可可 |  |  |
 | kasumi yoshizawa | 芳泽霞 | 芳泽霞（日语：芳澤（よしざわ） かすみ）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5 皇家版》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芳泽堇) |
+| sae niijima | 新岛冴 | 新岛冴（日语：新島（ニイジマ） 冴（サエ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新岛冴) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
