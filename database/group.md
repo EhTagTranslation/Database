@@ -2152,6 +2152,7 @@ example:
 | black sousai studio | BLACK SOUSAI STUDIO |  |  |
 | haechaimu | ハエチャイム |  |  |
 | jagaimo kenkyuujo | じゃがいも研究所 |  |  |
+| madoromi andon | まどろみ行灯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
