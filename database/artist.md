@@ -3412,6 +3412,7 @@ example:
 | smomo | smomo |  |  |
 | madoromi | まどろみ |  |  |
 | nishiyama yuichi | にしやまゆーいち |  |  |
+| azumi akitake | 安曇アキタケ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
