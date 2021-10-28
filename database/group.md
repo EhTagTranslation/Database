@@ -2151,6 +2151,7 @@ example:
 | chaos no genri | カオスの原理 |  |  |
 | black sousai studio | BLACK SOUSAI STUDIO |  |  |
 | haechaimu | ハエチャイム |  |  |
+| jagaimo kenkyuujo | じゃがいも研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
