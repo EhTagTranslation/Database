@@ -2148,6 +2148,7 @@ example:
 | sashimi necoya | さしみねこ屋 |  |  |
 | rurudot | rurudot |  |  |
 | nanashimushi land | ななし虫らんど |  |  |
+| chaos no genri | カオスの原理 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
