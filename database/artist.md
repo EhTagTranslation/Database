@@ -3409,6 +3409,7 @@ example:
 | nishigori atsushi | 锦织敦史 |  |  |
 | nanashimushi | ななし虫 |  |  |
 | ippo | ippo |  |  |
+| smomo | smomo |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
