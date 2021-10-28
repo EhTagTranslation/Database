@@ -3629,6 +3629,7 @@ example:
 | yae miko | 八重神子 | 八重神子是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。雷神眷属，鸣神大社的宫司，也是八重堂的老板。 | [萌娘百科](https://zh.moegirl.org.cn/八重神子) |
 | yoimiya naganohara | 长野原宵宫 | 宵宫是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。才华横溢的烟花工匠。「长野原烟花店」现任店主。 | [萌娘百科\_宵宫](https://zh.moegirl.org.cn/宵宫) |
 | kei yuuki | 结城萤 |  |  |
+| tadayasu sawaki | 泽木直保 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
