@@ -3631,6 +3631,7 @@ example:
 | kei yuuki | 结城萤 |  |  |
 | tadayasu sawaki | 泽木直保 |  |  |
 | roco handa | 伴田路子 |  |  |
+| sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
