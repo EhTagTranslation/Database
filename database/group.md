@@ -2149,6 +2149,7 @@ example:
 | rurudot | rurudot |  |  |
 | nanashimushi land | ななし虫らんど |  |  |
 | chaos no genri | カオスの原理 |  |  |
+| black sousai studio | BLACK SOUSAI STUDIO |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
