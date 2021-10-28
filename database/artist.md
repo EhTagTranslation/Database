@@ -3408,6 +3408,7 @@ example:
 | ashima takumi | 芦間拓海 |  | [Twitter](https://twitter.com/ashima801) |
 | nishigori atsushi | 锦织敦史 |  |  |
 | nanashimushi | ななし虫 |  |  |
+| ippo | ippo |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
