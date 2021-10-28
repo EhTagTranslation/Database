@@ -3410,6 +3410,7 @@ example:
 | nanashimushi | ななし虫 |  |  |
 | ippo | ippo |  |  |
 | smomo | smomo |  |  |
+| madoromi | まどろみ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
