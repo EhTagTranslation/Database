@@ -3407,6 +3407,7 @@ example:
 | rurudo | rurudo |  | [Twitter](https://twitter.com/rurudo_) [pixiv](https://www.pixiv.net/users/25760573) |
 | ashima takumi | 芦間拓海 |  | [Twitter](https://twitter.com/ashima801) |
 | nishigori atsushi | 锦织敦史 |  |  |
+| nanashimushi | ななし虫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
