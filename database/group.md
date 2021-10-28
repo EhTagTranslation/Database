@@ -2147,6 +2147,7 @@ example:
 | afurokuma honten | アフロくま本店 |  |  |
 | sashimi necoya | さしみねこ屋 |  |  |
 | rurudot | rurudot |  |  |
+| nanashimushi land | ななし虫らんど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
