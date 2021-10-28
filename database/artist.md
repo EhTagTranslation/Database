@@ -3411,6 +3411,7 @@ example:
 | ippo | ippo |  |  |
 | smomo | smomo |  |  |
 | madoromi | まどろみ |  |  |
+| nishiyama yuichi | にしやまゆーいち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
