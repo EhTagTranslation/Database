@@ -3413,6 +3413,7 @@ example:
 | madoromi | まどろみ |  |  |
 | nishiyama yuichi | にしやまゆーいち |  |  |
 | azumi akitake | 安曇アキタケ |  |  |
+| dondakei | どんだけい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
