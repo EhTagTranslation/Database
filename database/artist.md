@@ -3416,7 +3416,7 @@ example:
 | dondakei | どんだけい |  |  |
 | imaishi hiroyuki | 今石洋之 | ![](https://img.moegirl.org.cn/common/thumb/2/29/今石洋之_.jpg/280px-今石洋之_.jpg)<br><br>日本東京都出身。<br>多摩美術大学美術学部藝術学科映像専攻畢業。畢業後進入GAINAX。<br>風格受動畫師金田伊功影響，常應用到行內俗稱“金田透視法”於作畫中。<br>2011年8月22日與大塚雅彥、舛本和也成立新動畫公司TRIGGER。<br>总喜欢找个由头让主角上太空去打一架。 |  |
 | gilse | Gilse |  | [Twitter](https://twitter.com/Gilse1024) [pixiv](https://www.pixiv.net/users/702789) |
-| junkie | 千要よゆち | ![twitter](https://pbs.twimg.com/profile_images/789076865080098817/rm1FqqIc_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/EWwUawBXYAUp9Ks?format=jpg&name=medium")<br><br>单行本 | [twitter](https://twitter.com/junkie3g) [pixiv](https://www.pixiv.net/users/452328) |
+| junkie | 千要よゆち | ![twitter](https://pbs.twimg.com/profile_images/789076865080098817/rm1FqqIc_400x400.jpg)<br><br>**作者推特头像**<br>comic梦幻转生作者<br><br>![works](# "https://pbs.twimg.com/media/EWwUawBXYAUp9Ks?format=jpg&name=medium")<br><br>最新单行本 | [twitter](https://twitter.com/junkie3g) [pixiv](https://www.pixiv.net/users/452328) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
