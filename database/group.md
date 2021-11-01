@@ -2155,6 +2155,7 @@ example:
 | madoromi andon | まどろみ行灯 |  |  |
 | hakoniwa-kairou | はこにわかいろう |  |  |
 | akitake zensen | 秋茸前线 |  |  |
+| octopus jelly | Octopus Jelly |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
