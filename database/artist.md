@@ -3419,6 +3419,7 @@ example:
 | junkie | 千要よゆち | ![twitter](https://pbs.twimg.com/profile_images/789076865080098817/rm1FqqIc_400x400.jpg)<br><br>**作者推特头像**<br>comic梦幻转生作者<br><br>![works](# "https://pbs.twimg.com/media/EWwUawBXYAUp9Ks?format=jpg&name=medium")<br><br>最新单行本 | [twitter](https://twitter.com/junkie3g) [pixiv](https://www.pixiv.net/users/452328) |
 | nibiirokaden | 鈍色家電 |  |  |
 | migihaji | 右端 |  |  |
+| miyoshino | みよしの |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
