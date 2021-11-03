@@ -3420,6 +3420,7 @@ example:
 | nibiirokaden | 鈍色家電 |  |  |
 | migihaji | 右端 |  |  |
 | miyoshino | みよしの |  |  |
+| omochi monaka | おもち もなか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
