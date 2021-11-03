@@ -364,8 +364,8 @@ example:
 | tailphagia | 尾巴吞食 | 被尾巴整个吞食。不要与`vore`混淆。 |  |
 |  | === 下半身 > 任何洞 === |  |  |
 | eggs | 产卵 | 有蛋或产蛋的行为。常常导致`inflation`。不应与`birth`或`pregnant`混淆。 |  |
-| gaping | 敞口 | 阴道或肛门，明显地在做爱之后伸展。往往由`large insertions`、`fisting`、`big penis`或`huge penis`造成。<br>是`speculum`的前置标签。不应与`prolapse`相混淆，但可能会导致它。<br>![图](# "https://ehgt.org/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg")![图](# "https://ehgt.org/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg") |  |
-| large insertions | 大玩具 | 被巨型性`sex toys`插入。不用于`big penis`或`huge penis`。<br>![恶](## "https://ehgt.org/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg") |  |
+| gaping | 敞口 | 阴道或肛门，明显地在做爱之后扩张。往往由`large insertions`、`fisting`、`big penis`或`huge penis`造成。<br>是`speculum`的前置标签。不应与`prolapse`相混淆，但可能会导致它。<br>![图](# "https://ehgt.org/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg")![图](# "https://ehgt.org/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg") |  |
+| large insertions | 大玩具 | 被似乎不太可能感到舒适的大尺寸`sex toys`或其它物品插入。不用于`big penis`或`huge penis`。<br>![恶](## "https://ehgt.org/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg") |  |
 | nakadashi | 中出 | 射在里面，体外也可能有一个明显的精液池。<br>![图](# "https://ehgt.org/64/c3/64c36cbf01d9c6698a7d968acac898e607a9e902-1110945-1200-1694-jpg_l.jpg") |  |
 | prolapse | 脱垂 | 阴道或肛门膨胀出他们本来的孔。往往由`gaping`造成。<br>![病](# "https://ehgt.org/56/c0/56c0498ef197edf742eb8109fee329a6e0457969-808502-660-1055-jpg_l.jpg")![病](# "https://ehgt.org/f7/ee/f7ee0238432347df82d2d559f21287fc3b615d7b-1455177-1000-1400-png_250.jpg")![病](# "https://ehgt.org/6b/1b/6b1bf6547fdef997fbffd3bd8506b46f38d9f660-403695-1920-1080-jpg_250.jpg") |  |
 |  | == 腿 == |  |  |
