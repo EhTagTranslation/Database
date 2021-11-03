@@ -3634,6 +3634,7 @@ example:
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
 | ronye arabel | 罗妮耶·亚拉贝尔 |  | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/胁山珠美) |
+| hazuki nanakusa | 七草はづき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
