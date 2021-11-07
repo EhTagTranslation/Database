@@ -1612,6 +1612,7 @@ example:
 | kuma kuma kuma bear | 熊熊勇闯异世界 | 《熊熊勇闯异世界》改编自くまなの创作的同名小说 | [萌娘百科](https://zh.moegirl.org.cn/熊熊勇闯异世界) [维基百科](https://zh.wikipedia.org/wiki/熊熊勇闯异世界) |
 | marco to ginga ryuu | 丸子与银河龙 | 游戏：丸子与银河龙 | [维基百科](https://zh.wikipedia.org/wiki/マルコと銀河竜_〜MARCO_%26_GALAXY_DRAGON〜) |
 | moyashimon | 萌菌物语 | 《萌菌物语》（もやしもん、TALES OF AGRICULTURE），是日本漫画家石川雅之所画的漫画作品，自2004年16号开始在《Evening》上连载到2013年10号为止，之后移籍至《月刊Morning two》于2013年8月号连载再开直到2014年3月号连载结束。2007年10月改编为日本电视动画，获得不错的收视率。获选为2007年第十一回文化厅媒体艺术祭动画部门推荐的作品。2012年7月播放第二季动画，标题定为《萌菌物语Returns》（もやしもん リターンズ）。 | [维基百科](https://zh.wikipedia.org/zh-cn/農大菌物語) |
+| wonder egg priority | 奇蛋物语 |  | [维基百科](https://zh.wikipedia.org/zh/奇蛋物语) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
