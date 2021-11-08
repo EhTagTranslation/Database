@@ -788,7 +788,7 @@ example:
 | yuriko nanao | 七尾百合子 |  |  |
 | chizuru nikaido | 二阶堂千鹤 |  |  |
 | miya miyao | 宫尾美也 |  |  |
-|  | 伴田路子 |  |  |
+| roco handa | 伴田路子 |  |  |
 | kaori sakuramori | 樱守歌织 |  |  |
 | tsumugi shiraishi | 白石䌷 |  |  |
 |  | 青羽美咲 |  |  |
@@ -856,7 +856,7 @@ example:
 | rinze morino | 杜野凛世 |  |  |
 | natsuha arisugawa | 有栖川夏叶 |  |  |
 |  | 天井努 |  |  |
-|  | 七草叶月 |  |  |
+| hazuki nanakusa | 七草叶月 |  |  |
 | arisa mochida | 持田亚里沙 |  |  |
 | fuyuko mayuzumi | 黛冬优子 |  |  |
 | mei izumi | 和泉爱依 |  |  |
@@ -3630,11 +3630,9 @@ example:
 | yoimiya naganohara | 长野原宵宫 | 宵宫是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。才华横溢的烟花工匠。「长野原烟花店」现任店主。 | [萌娘百科\_宵宫](https://zh.moegirl.org.cn/宵宫) |
 | kei yuuki | 结城萤 |  |  |
 | tadayasu sawaki | 泽木直保 |  |  |
-| roco handa | 伴田路子 |  |  |
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
 | ronye arabel | 罗妮耶·亚拉贝尔 |  | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/胁山珠美) |
-| hazuki nanakusa | 七草はづき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
