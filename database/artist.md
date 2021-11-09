@@ -3421,6 +3421,7 @@ example:
 | migihaji | 右端 |  |  |
 | miyoshino | みよしの |  |  |
 | omochi monaka | おもち もなか |  |  |
+| ootsuka reika | 大塚麗夏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
