@@ -3423,6 +3423,7 @@ example:
 | omochi monaka | おもち もなか |  |  |
 | ootsuka reika | 大塚麗夏 |  |  |
 | zanka | ざんか |  |  |
+| ashizuki | アシズキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
