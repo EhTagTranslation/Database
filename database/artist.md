@@ -3424,6 +3424,7 @@ example:
 | ootsuka reika | 大塚麗夏 |  |  |
 | zanka | ざんか |  |  |
 | ashizuki | アシズキ |  |  |
+| abe nattou | あべなっつ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
