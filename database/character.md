@@ -3633,6 +3633,7 @@ example:
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
 | ronye arabel | 罗妮耶·亚拉贝尔 |  | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/胁山珠美) |
+| mimi akane | 茜美美 | ![茜美美](https://img.moegirl.org.cn/common/f/f4/Akane_mimi_pc.png)<br>茜 ミミ（あかね ミミ），是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美美（日语：ミミ） | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
