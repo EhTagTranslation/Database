@@ -2157,6 +2157,7 @@ example:
 | akitake zensen | 秋茸前线 |  |  |
 | octopus jelly | Octopus Jelly |  |  |
 | kaden ryohanten seijin corner | 荷電量販店成人コーナー |  |  |
+| black note | ブラックノート |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
