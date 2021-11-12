@@ -3634,6 +3634,7 @@ example:
 | ronye arabel | 罗妮耶·亚拉贝尔 |  | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/胁山珠美) |
 | mimi akane | 茜美美 | ![茜美美](https://img.moegirl.org.cn/common/f/f4/Akane_mimi_pc.png)<br>茜 ミミ（あかね ミミ），是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美美（日语：ミミ） | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
+| ashley graham | 阿什莉·格拉汉姆 | 阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
