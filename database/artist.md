@@ -3429,6 +3429,7 @@ example:
 | hitsujino | 羊乃 | ![图](# "https://ehgt.org/07/cc/07cc7ca352ffebfeb8f6305d2b86f46504808312-6801393-6664-3000-jpg_l.jpg") | [Twitter](https://twitter.com/hitsujino) [Pixiv](https://www.pixiv.net/users/32155) |
 | ancotaku | 餡こたく |  | [Twitter](https://twitter.com/sentiment_color) [pixiv](https://www.pixiv.net/users/155285) |
 | shirokimochi | 白生もち |  | [Twitter](https://twitter.com/_shirokimochi_) [pixiv](https://www.pixiv.net/users/31659436) |
+| nagatukiin | 長月院 |  | [Twitter](https://twitter.com/005nniikidumihu) [pixiv](https://www.pixiv.net/users/20859160) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
