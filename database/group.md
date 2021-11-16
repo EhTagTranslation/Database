@@ -2158,6 +2158,7 @@ example:
 | octopus jelly | Octopus Jelly |  |  |
 | kaden ryohanten seijin corner | 荷電量販店成人コーナー |  |  |
 | black note | ブラックノート |  |  |
+| sentimentcolor | SentimentColor |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
