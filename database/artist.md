@@ -3412,7 +3412,7 @@ example:
 | smomo | smomo |  |  |
 | madoromi | まどろみ |  |  |
 | nishiyama yuichi | にしやまゆーいち |  |  |
-| azumi akitake | 安曇アキタケ |  |  |
+| azumi akitake | 安曇アキタケ |  | [Twitter](https://twitter.com/akitake_a) [pixiv](https://www.pixiv.net/users/21076169) |
 | dondakei | どんだけい |  |  |
 | imaishi hiroyuki | 今石洋之 | ![](https://img.moegirl.org.cn/common/thumb/2/29/今石洋之_.jpg/280px-今石洋之_.jpg)<br><br>日本東京都出身。<br>多摩美術大学美術学部藝術学科映像専攻畢業。畢業後進入GAINAX。<br>風格受動畫師金田伊功影響，常應用到行內俗稱“金田透視法”於作畫中。<br>2011年8月22日與大塚雅彥、舛本和也成立新動畫公司TRIGGER。<br>总喜欢找个由头让主角上太空去打一架。 |  |
 | gilse | Gilse |  | [Twitter](https://twitter.com/Gilse1024) [pixiv](https://www.pixiv.net/users/702789) |
