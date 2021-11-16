@@ -3426,6 +3426,7 @@ example:
 | ashizuki | アシズキ |  |  |
 | abe nattou | あべなっつ |  |  |
 | yuushi tessen | 柚子铁线 | 柚子まち 柚子鉄線<br>![图](# "https://ehgt.org/ce/7f/ce7f33b51191da0e1cb2f873deb0fa8ed628adaf-960993-1426-2012-jpg_l.jpg") | [Twitter](https://twitter.com/sitronyt) [Pixiv](https://www.pixiv.net/users/480082) |
+| hitsujino | 羊乃 | ![图](# "https://ehgt.org/07/cc/07cc7ca352ffebfeb8f6305d2b86f46504808312-6801393-6664-3000-jpg_l.jpg") | [Twitter](https://twitter.com/hitsujino) [Pixiv](https://www.pixiv.net/users/32155) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
