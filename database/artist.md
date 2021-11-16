@@ -3420,7 +3420,7 @@ example:
 | nibiirokaden | 鈍色家電 |  |  |
 | migihaji | 右端 |  |  |
 | miyoshino | みよしの |  |  |
-| omochi monaka | おもち もなか |  |  |
+| omochi monaka | おもち もなか |  | [Twitter](https://twitter.com/monaka_0326_) [pixiv](https://www.pixiv.net/users/19542913) |
 | ootsuka reika | 大塚麗夏 |  |  |
 | zanka | ざんか |  |  |
 | ashizuki | アシズキ |  |  |
