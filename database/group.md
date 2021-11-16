@@ -2161,6 +2161,7 @@ example:
 | sentimentcolor | SentimentColor |  |  |
 | komowa | こも輪 |  |  |
 | baby lop | Baby Lop |  |  |
+| mersugar | Mersugar |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
