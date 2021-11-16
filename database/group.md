@@ -2165,6 +2165,7 @@ example:
 | nagatsuki | NAGATSUKI |  |  |
 | tayanumaya | 田屋沼屋 |  |  |
 | bottle ship bottler | ボトルシップボトラー |  |  |
+| saz | SAZ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
