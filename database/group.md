@@ -2164,6 +2164,7 @@ example:
 | mersugar | Mersugar |  |  |
 | nagatsuki | NAGATSUKI |  |  |
 | tayanumaya | 田屋沼屋 |  |  |
+| bottle ship bottler | ボトルシップボトラー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
