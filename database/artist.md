@@ -3436,6 +3436,7 @@ example:
 | kaneko | 華猫 |  |  |
 | sekai saisoku no panda | 世界最速のパンダ |  |  |
 | ayame iro | 絢芽いろ |  |  |
+| kaiduka akuta | 貝塚芥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
