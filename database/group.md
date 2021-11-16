@@ -2160,6 +2160,7 @@ example:
 | black note | ブラックノート |  |  |
 | sentimentcolor | SentimentColor |  |  |
 | komowa | こも輪 |  |  |
+| baby lop | Baby Lop |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
