@@ -2167,6 +2167,7 @@ example:
 | bottle ship bottler | ボトルシップボトラー |  |  |
 | saz | SAZ |  |  |
 | clowns | Clowns' |  |  |
+| toumei dolce | 透明ドルチェ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
