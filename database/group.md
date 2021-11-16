@@ -2159,6 +2159,7 @@ example:
 | kaden ryohanten seijin corner | 荷電量販店成人コーナー |  |  |
 | black note | ブラックノート |  |  |
 | sentimentcolor | SentimentColor |  |  |
+| komowa | こも輪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
