@@ -3435,6 +3435,7 @@ example:
 | soba | soba |  | [Twitter](https://twitter.com/SAZ_LaughMaker) [pixiv](https://www.pixiv.net/users/220618) |
 | kaneko | 華猫 |  |  |
 | sekai saisoku no panda | 世界最速のパンダ |  |  |
+| ayame iro | 絢芽いろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
