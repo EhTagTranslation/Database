@@ -3430,6 +3430,7 @@ example:
 | ancotaku | 餡こたく |  | [Twitter](https://twitter.com/sentiment_color) [pixiv](https://www.pixiv.net/users/155285) |
 | shirokimochi | 白生もち |  | [Twitter](https://twitter.com/_shirokimochi_) [pixiv](https://www.pixiv.net/users/31659436) |
 | nagatukiin | 長月院 |  | [Twitter](https://twitter.com/005nniikidumihu) [pixiv](https://www.pixiv.net/users/20859160) |
+| tanuma | たぬま |  | [Twitter](https://twitter.com/tnm_tyny) [pixiv](https://www.pixiv.net/users/9675329) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
