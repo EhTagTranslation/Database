@@ -3431,6 +3431,7 @@ example:
 | shirokimochi | 白生もち |  | [Twitter](https://twitter.com/_shirokimochi_) [pixiv](https://www.pixiv.net/users/31659436) |
 | nagatukiin | 長月院 |  | [Twitter](https://twitter.com/005nniikidumihu) [pixiv](https://www.pixiv.net/users/20859160) |
 | tanuma | たぬま |  | [Twitter](https://twitter.com/tnm_tyny) [pixiv](https://www.pixiv.net/users/9675329) |
+| chihiro | Chihiro |  | [Twitter](https://twitter.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
