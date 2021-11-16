@@ -3437,6 +3437,7 @@ example:
 | sekai saisoku no panda | 世界最速のパンダ |  |  |
 | ayame iro | 絢芽いろ |  |  |
 | kaiduka akuta | 貝塚芥 |  |  |
+| katsuten | かつてん |  | [pixiv](https://www.pixiv.net/users/41154549) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
