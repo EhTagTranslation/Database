@@ -2162,6 +2162,7 @@ example:
 | komowa | こも輪 |  |  |
 | baby lop | Baby Lop |  |  |
 | mersugar | Mersugar |  |  |
+| nagatsuki | NAGATSUKI |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
