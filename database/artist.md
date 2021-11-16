@@ -3438,6 +3438,7 @@ example:
 | ayame iro | 絢芽いろ |  |  |
 | kaiduka akuta | 貝塚芥 |  |  |
 | katsuten | かつてん |  | [pixiv](https://www.pixiv.net/users/41154549) |
+| waterring | WaterRing |  | [pixiv](https://www.pixiv.net/users/2174931) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
