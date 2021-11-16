@@ -2163,6 +2163,7 @@ example:
 | baby lop | Baby Lop |  |  |
 | mersugar | Mersugar |  |  |
 | nagatsuki | NAGATSUKI |  |  |
+| tayanumaya | 田屋沼屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
