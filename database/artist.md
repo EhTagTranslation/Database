@@ -3434,6 +3434,7 @@ example:
 | chihiro | Chihiro |  | [Twitter](https://twitter.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
 | soba | soba |  | [Twitter](https://twitter.com/SAZ_LaughMaker) [pixiv](https://www.pixiv.net/users/220618) |
 | kaneko | 華猫 |  |  |
+| sekai saisoku no panda | 世界最速のパンダ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
