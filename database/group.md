@@ -2166,6 +2166,7 @@ example:
 | tayanumaya | 田屋沼屋 |  |  |
 | bottle ship bottler | ボトルシップボトラー |  |  |
 | saz | SAZ |  |  |
+| clowns | Clowns' |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
