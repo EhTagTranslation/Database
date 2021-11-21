@@ -3441,6 +3441,7 @@ example:
 | waterring | WaterRing |  | [pixiv](https://www.pixiv.net/users/2174931) |
 | gwegwe | gweda | ![作者头像](https://iknow-pic.cdn.bcebos.com/b7003af33a87e9503c6085fd02385343fbf2b42f)<br>こんにちは。gwedaです。<br>主にアニメ,ゲーム,漫画など登場するキャラクターを描きます。 | [Pixiv](https://www.pixiv.net/users/17282018) [Twitter](https://twitter.com/gweda8593) [Fanbox](https://gweda.fanbox.cc/) [Patreon](https://www.patreon.com/gweda) [Gumroad](https://gumroad.com/gweda) |
 | nehani | ねはに |  |  |
+| juukyuu | じゅうきゅう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
