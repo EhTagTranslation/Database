@@ -2168,6 +2168,7 @@ example:
 | saz | SAZ |  |  |
 | clowns | Clowns' |  |  |
 | toumei dolce | 透明ドルチェ |  |  |
+| peroppoi tokoro | ぺろっぽい処 | 画师`chobipero`所在的同人社团 | [社团主页](http://chobipero.web.fc2.com/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
