@@ -3442,7 +3442,7 @@ example:
 | gwegwe | gweda | ![作者头像](https://iknow-pic.cdn.bcebos.com/b7003af33a87e9503c6085fd02385343fbf2b42f)<br>こんにちは。gwedaです。<br>主にアニメ,ゲーム,漫画など登場するキャラクターを描きます。 | [Pixiv](https://www.pixiv.net/users/17282018) [Twitter](https://twitter.com/gweda8593) [Fanbox](https://gweda.fanbox.cc/) [Patreon](https://www.patreon.com/gweda) [Gumroad](https://gumroad.com/gweda) |
 | nehani | ねはに |  |  |
 | juukyuu | じゅうきゅう |  |  |
-| chobipero | ちょびぺろ | ![twitter](https://pbs.twimg.com/profile_images/3515865195/a104cd88ed73e81d6a5694fd1a65a319_400x400.jpeg)<br><br>**作者推特头像** | [twitter](https://twitter.com/chobiperori) [pixiv](https://www.pixiv.net/users/465635) |
+| chobipero | ちょびぺろ | ![twitter](https://pbs.twimg.com/profile_images/3515865195/a104cd88ed73e81d6a5694fd1a65a319_400x400.jpeg)<br><br>**作者推特头像**<br><br>《comic 快乐天》作者，游戏CG画师，同人社团`peroppoi tokoro`主笔。 | [twitter](https://twitter.com/chobiperori) [pixiv](https://www.pixiv.net/users/465635) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
