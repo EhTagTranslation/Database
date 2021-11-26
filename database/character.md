@@ -3639,6 +3639,7 @@ example:
 | ryo matsunaga | 松永凉 |  | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
 | xiangling | 香菱 |  | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
 | tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
+| eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
