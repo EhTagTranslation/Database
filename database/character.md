@@ -3641,6 +3641,7 @@ example:
 | tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
 | eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
 | shouko komi | 古见硝子 |  |  |
+| hitohito tadano | 只野仁人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
