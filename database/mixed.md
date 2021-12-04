@@ -30,8 +30,10 @@ rules:
 example:
   raw: group
   name: 乱交
-  intro: |
-    两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。
+  intro: >
+    两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt
+    threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm
+    threesome`和`fft threesome`等 3P 标签。
   links: ''
 ---
 
