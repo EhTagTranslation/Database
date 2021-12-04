@@ -3412,7 +3412,7 @@ example:
 | musae koyama | 小山梦冴 |  |  |
 | mineko kazama | 风间峰子 |  |  |
 | south dakota | 南达科他 |  |  |
-| mona megistus | 阿斯托洛吉斯·莫娜·梅姬斯图斯（莫娜） | 《原神》及其衍生作品的登场角色，神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。 | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
+| mona megistus | 莫娜·梅姬斯图斯 | 阿斯托洛吉斯·莫娜·梅姬斯图斯是《`genshin impact`》及其衍生作品的登场角色，神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。 | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
 | aether | 空 | 《原神》及其衍生作品的登场角色。可作为玩家的代入角色。 | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | 《原神》及其衍生作品的登场角色，自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。 | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
 | eula lawrence | 优菈·劳伦斯 | 《原神》及其衍生作品的登场角色，西风骑士团「游击小队」队长与声名显赫的「浪花骑士」，同时也是旧贵族劳伦斯家族的后裔。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
@@ -3441,7 +3441,7 @@ example:
 | denji | 电次 |  |  |
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | 《原神》及其衍生作品的登场角色。精通百法、又懂得权衡情理的半仙少女，璃月港顶尖的律法专家。 | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
-| gawr gura | 噶呜·古拉（Gawr Gura） | 噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。<br>![GoogleIcon](https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj) | [Youtube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [Twitter](https://twitter.com/gawrgura) |
+| gawr gura | 噶呜·古拉 | 噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。<br>![GoogleIcon](https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj) | [Youtube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [Twitter](https://twitter.com/gawrgura) |
 | enoch | 伊诺库 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-3.gif&img_id=1522721112)<br>![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-4.gif&img_id=) |  |
 | veronica | 维罗妮卡 | 角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的姐姐。<br>![图](https://www.dq11.jp/s/pf/characters/_img/veronica/chara_2d_sp.png)<br>![图](https://ehgt.org/ba/96/ba965ab08caa3b1224a6f4fc467a9edd48aa2a29-23084-680-383-jpg_l.jpg) |  |
 | murasaki yatsu | 八津紫 |  |  |
@@ -3453,7 +3453,7 @@ example:
 | creeper | 苦力怕 | `minecraft`的敌对生物之一。<br>苦力怕（Creeper）是常见的敌对生物，它们悄无声息地接近玩家，当距离目标3格内就会开始爆炸。由于它们独特的外表和极高的杀伤力以及破坏地形和建筑物的能力，苦力怕已经成为了Minecraft的象征标志之一，无论是在玩家或非玩家中都很著名。<br>![图](https://ehgt.org/29/af/29af385b9e86f47de10fbb7e6ec580725033f9bf-28392-540-540-jpg_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/苦力怕) |
 | piglin | 猪灵 | 游戏`minecraft`中的生物。<br>猪灵（Piglin）是一种自然生成于下界的中立型生物。<br><br>![图](https://ehgt.org/4f/50/4f50537921c5487fe207bcdce50146f4805310d1-99657-1200-960-jpg_l.jpg) | [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/猪灵) |
 | misa amane | 弥海砂 | 漫画以及动画`death note`中的出场角色。<br>![图](https://ehgt.org/06/27/06272fa63fd2002f8b9369cd2eeffb34a4bc37e0-30548-500-308-jpg_l.jpg)<br>![图](https://ehgt.org/3d/f7/3df770fe1cf60eafd032285d96fd32ff357ef138-7720-258-195-jpg_l.jpg) |  |
-| l lawliet | L（死亡笔记） | L·Lawliet，是日本人气漫画《`death note`》及其衍生作品中登场的主要人物。<br><br>![图](https://ehgt.org/41/f8/41f82020315ef7516ecf53331f86eac0f5bdd486-141414-704-396-jpg_l.jpg)<br>![图](https://ehgt.org/c4/c1/c4c1d83f13fcea0a068ebf0a5dc9afbd5e14cea6-137543-935-827-jpg_l.jpg) |  |
+| l lawliet | 艾尔·罗莱特（L） | L·Lawliet，是日本人气漫画《`death note`》及其衍生作品中登场的主要人物。<br><br>![图](https://ehgt.org/41/f8/41f82020315ef7516ecf53331f86eac0f5bdd486-141414-704-396-jpg_l.jpg)<br>![图](https://ehgt.org/c4/c1/c4c1d83f13fcea0a068ebf0a5dc9afbd5e14cea6-137543-935-827-jpg_l.jpg) |  |
 | light yagami | 夜神月 | 漫画《`death note`》及其衍生作品的主角。<br>![图](https://ehgt.org/e4/d6/e4d68b93de3cdd49ab1cd26ccfdd907bee8e7e55-77449-480-480-jpg_l.jpg)<br>![图](https://ehgt.org/f5/e1/f5e186f54a590612c44622cb8c54de7d278afcf8-48895-959-539-jpg_l.jpg) |  |
 | akira toya | 塔矢亮 |  |  |
 | akari fujisaki | 藤崎明 |  |  |
@@ -3633,6 +3633,16 @@ example:
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
 | ronye arabel | 罗妮耶·亚拉贝尔 |  | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/胁山珠美) |
+| mimi akane | 茜美美 | ![茜美美](https://img.moegirl.org.cn/common/f/f4/Akane_mimi_pc.png)<br>茜 ミミ（あかね ミミ），是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美美（日语：ミミ） | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
+| ashley graham | 阿什莉·格拉汉姆 | 阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 |  |
+| mutsuki asagi | 浅黄睦月（地雷妹） | 碧蓝档案角色<br>徵信社68的特攻隊長兼突擊隊長。 和稍微能感受到良心譴責的亞瑠不同，這名少女宛如小惡魔般肆無忌憚地為非作歹，愛到處惹是生非。 和亞瑠是老朋友，比任何人清楚她只是在虛張聲勢，但卻不特別為她設想。 |  |
+| ryo matsunaga | 松永凉 |  | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
+| xiangling | 香菱 |  | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
+| tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
+| eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
+| shouko komi | 古见硝子 |  |  |
+| hitohito tadano | 只野仁人 |  |  |
+| itto arataki | 荒泷一斗 | ![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp)<br>荒泷一斗是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

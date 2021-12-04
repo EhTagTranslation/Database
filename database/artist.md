@@ -3412,15 +3412,38 @@ example:
 | smomo | smomo |  |  |
 | madoromi | まどろみ |  |  |
 | nishiyama yuichi | にしやまゆーいち |  |  |
-| azumi akitake | 安曇アキタケ |  |  |
+| azumi akitake | 安曇アキタケ |  | [Twitter](https://twitter.com/akitake_a) [pixiv](https://www.pixiv.net/users/21076169) |
 | dondakei | どんだけい |  |  |
 | imaishi hiroyuki | 今石洋之 | ![](https://img.moegirl.org.cn/common/thumb/2/29/今石洋之_.jpg/280px-今石洋之_.jpg)<br><br>日本東京都出身。<br>多摩美術大学美術学部藝術学科映像専攻畢業。畢業後進入GAINAX。<br>風格受動畫師金田伊功影響，常應用到行內俗稱“金田透視法”於作畫中。<br>2011年8月22日與大塚雅彥、舛本和也成立新動畫公司TRIGGER。<br>总喜欢找个由头让主角上太空去打一架。 |  |
 | gilse | Gilse |  | [Twitter](https://twitter.com/Gilse1024) [pixiv](https://www.pixiv.net/users/702789) |
 | junkie | 千要よゆち | ![twitter](https://pbs.twimg.com/profile_images/789076865080098817/rm1FqqIc_400x400.jpg)<br><br>**作者推特头像**<br>comic梦幻转生作者<br><br>![works](# "https://pbs.twimg.com/media/EWwUawBXYAUp9Ks?format=jpg&name=medium")<br><br>最新单行本 | [twitter](https://twitter.com/junkie3g) [pixiv](https://www.pixiv.net/users/452328) |
 | nibiirokaden | 鈍色家電 |  |  |
 | migihaji | 右端 |  |  |
-| miyoshino | みよしの |  |  |
-| omochi monaka | おもち もなか |  |  |
+| miyoshino | みよしの |  | [Twitter](https://twitter.com/miyosino) [pixiv](https://www.pixiv.net/users/427271) |
+| omochi monaka | おもち もなか |  | [Twitter](https://twitter.com/monaka_0326_) [pixiv](https://www.pixiv.net/users/19542913) |
+| ootsuka reika | 大塚麗夏 |  |  |
+| zanka | ざんか |  |  |
+| ashizuki | アシズキ |  |  |
+| abe nattou | あべなっつ |  |  |
+| yuushi tessen | 柚子铁线 | 柚子まち 柚子鉄線<br>![图](# "https://ehgt.org/ce/7f/ce7f33b51191da0e1cb2f873deb0fa8ed628adaf-960993-1426-2012-jpg_l.jpg") | [Twitter](https://twitter.com/sitronyt) [Pixiv](https://www.pixiv.net/users/480082) |
+| hitsujino | 羊乃 | ![图](# "https://ehgt.org/07/cc/07cc7ca352ffebfeb8f6305d2b86f46504808312-6801393-6664-3000-jpg_l.jpg") | [Twitter](https://twitter.com/hitsujino) [Pixiv](https://www.pixiv.net/users/32155) |
+| ancotaku | 餡こたく |  | [Twitter](https://twitter.com/sentiment_color) [pixiv](https://www.pixiv.net/users/155285) |
+| shirokimochi | 白生もち |  | [Twitter](https://twitter.com/_shirokimochi_) [pixiv](https://www.pixiv.net/users/31659436) |
+| nagatukiin | 長月院 |  | [Twitter](https://twitter.com/005nniikidumihu) [pixiv](https://www.pixiv.net/users/20859160) |
+| tanuma | たぬま |  | [Twitter](https://twitter.com/tnm_tyny) [pixiv](https://www.pixiv.net/users/9675329) |
+| chihiro | Chihiro |  | [Twitter](https://twitter.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
+| soba | soba |  | [Twitter](https://twitter.com/SAZ_LaughMaker) [pixiv](https://www.pixiv.net/users/220618) |
+| kaneko | 華猫 |  |  |
+| sekai saisoku no panda | 世界最速のパンダ |  |  |
+| ayame iro | 絢芽いろ |  |  |
+| kaiduka akuta | 貝塚芥 |  |  |
+| katsuten | かつてん |  | [pixiv](https://www.pixiv.net/users/41154549) |
+| waterring | WaterRing |  | [pixiv](https://www.pixiv.net/users/2174931) |
+| gwegwe | gweda | ![作者头像](https://iknow-pic.cdn.bcebos.com/b7003af33a87e9503c6085fd02385343fbf2b42f)<br>こんにちは。gwedaです。<br>主にアニメ,ゲーム,漫画など登場するキャラクターを描きます。 | [Pixiv](https://www.pixiv.net/users/17282018) [Twitter](https://twitter.com/gweda8593) [Fanbox](https://gweda.fanbox.cc/) [Patreon](https://www.patreon.com/gweda) [Gumroad](https://gumroad.com/gweda) |
+| nehani | ねはに |  |  |
+| juukyuu | じゅうきゅう |  |  |
+| chobipero | ちょびぺろ | ![twitter](https://pbs.twimg.com/profile_images/3515865195/a104cd88ed73e81d6a5694fd1a65a319_400x400.jpeg)<br><br>**作者推特头像**<br><br>《comic 快乐天》作者，游戏CG画师，同人社团`peroppoi tokoro`主笔。 | [twitter](https://twitter.com/chobiperori) [pixiv](https://www.pixiv.net/users/465635) |
+| takama | 高天 |  | [pixiv](https://www.pixiv.net/users/54645875) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

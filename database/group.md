@@ -2157,6 +2157,19 @@ example:
 | akitake zensen | 秋茸前线 |  |  |
 | octopus jelly | Octopus Jelly |  |  |
 | kaden ryohanten seijin corner | 荷電量販店成人コーナー |  |  |
+| black note | ブラックノート |  |  |
+| sentimentcolor | SentimentColor |  |  |
+| komowa | こも輪 |  |  |
+| baby lop | Baby Lop |  |  |
+| mersugar | Mersugar |  |  |
+| nagatsuki | NAGATSUKI |  |  |
+| tayanumaya | 田屋沼屋 |  |  |
+| bottle ship bottler | ボトルシップボトラー |  |  |
+| saz | SAZ |  |  |
+| clowns | Clowns' |  |  |
+| toumei dolce | 透明ドルチェ |  |  |
+| peroppoi tokoro | ぺろっぽい処 | 画师`chobipero`所在社团。 | [社团主页](http://chobipero.web.fc2.com) |
+| earrings bom factory | イヤリング爆弾工場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
