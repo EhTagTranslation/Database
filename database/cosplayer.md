@@ -24,6 +24,7 @@ example:
 | -------- | ---- | ---- | -------- |
 | otohara an | 乙原あん |  |  |
 | rioko | 凉凉子 |  |  |
+| atsuki | あつき |  |  |
 
 <!--
 Template: 
