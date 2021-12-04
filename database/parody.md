@@ -1614,6 +1614,7 @@ example:
 | moyashimon | 萌菌物语 | 《萌菌物语》（もやしもん、TALES OF AGRICULTURE），是日本漫画家石川雅之所画的漫画作品，自2004年16号开始在《Evening》上连载到2013年10号为止，之后移籍至《月刊Morning two》于2013年8月号连载再开直到2014年3月号连载结束。2007年10月改编为日本电视动画，获得不错的收视率。获选为2007年第十一回文化厅媒体艺术祭动画部门推荐的作品。2012年7月播放第二季动画，标题定为《萌菌物语Returns》（もやしもん リターンズ）。 | [维基百科](https://zh.wikipedia.org/zh-cn/農大菌物語) |
 | wonder egg priority | 奇蛋物语 |  | [维基百科](https://zh.wikipedia.org/zh/奇蛋物语) |
 | love live superstar | ![LL](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Superstar!! | 《Love Live! Superstar!!》（日语：ラブライブ！スーパースター!!），是以Liella!为主角、日昇制作的改编电视动画，也是《`love live`》动画系列第四作。 | [维基百科](https://zh.wikipedia.org/wiki/Love_Live!_Superstar!!) (\*) |
+| tales of arise | 破晓传说 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
