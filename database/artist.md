@@ -3446,6 +3446,7 @@ example:
 | takama | 高天 |  | [pixiv](https://www.pixiv.net/users/54645875) |
 | pesshin | ペッシン |  | [pixiv](https://www.pixiv.net/users/4143710/) |
 | tomatojigoku | とまとじごく |  |  |
+| midori | みどり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
