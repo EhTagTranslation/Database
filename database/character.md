@@ -3646,6 +3646,7 @@ example:
 | princess zelda | 塞尔达公主 | 不是林克 | [维基百科](https://zh.wikipedia.org/zh-cn/塞尔达公主) |
 | ren hazuki | 叶月恋 |  |  |
 | sumire heanna | 平安名堇 |  |  |
+| lanzhu zhong | 钟岚珠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
