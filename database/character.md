@@ -3648,6 +3648,7 @@ example:
 | sumire heanna | 平安名堇 |  |  |
 | lanzhu zhong | 钟岚珠 |  |  |
 | kanon shibuya | 涩谷香音 | “你好，谢谢，小笼包，再见！” |  |
+| chisato arashi | 岚千砂都 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
