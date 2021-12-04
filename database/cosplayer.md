@@ -36,6 +36,7 @@ example:
 | vinnegal | Vinnegal |  |  |
 | nath sokolova | Nath Sokolova |  |  |
 | virtual geisha | Virtual Geisha |  |  |
+| kaya huang | KaYa 萱 |  |  |
 
 <!--
 Template: 
