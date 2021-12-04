@@ -32,6 +32,7 @@ example:
 | saku | サク | Shooting Star's |  |
 | arty huang | Arty亚缇 |  |  |
 | carry key | Carry Key |  |  |
+| valery himera | Valery Himera |  |  |
 
 <!--
 Template: 
