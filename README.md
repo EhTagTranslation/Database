@@ -7,14 +7,16 @@
 <!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.herokuapp.com/database/~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
 [![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.herokuapp.com/database/all/~badge)](https://ehtt.vercel.app/list/all)
 [![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.herokuapp.com/database/reclass/~badge)](https://ehtt.vercel.app/list/reclass)
-[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/language/~badge)](https://ehtt.vercel.app/list/language)
 [![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.herokuapp.com/database/female/~badge)](https://ehtt.vercel.app/list/female)
 [![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.herokuapp.com/database/male/~badge)](https://ehtt.vercel.app/list/male)
-[![misc](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.herokuapp.com/database/misc/~badge)](https://ehtt.vercel.app/list/misc)
-[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.herokuapp.com/database/parody/~badge)](https://ehtt.vercel.app/list/parody)
-[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.herokuapp.com/database/character/~badge)](https://ehtt.vercel.app/list/character)
+[![mixed](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.herokuapp.com/database/mixed/~badge)](https://ehtt.vercel.app/list/mixed)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/language/~badge)](https://ehtt.vercel.app/list/language)
+[![other](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/other/~badge)](https://ehtt.vercel.app/list/other)
 [![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.herokuapp.com/database/group/~badge)](https://ehtt.vercel.app/list/group)
 [![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.herokuapp.com/database/artist/~badge)](https://ehtt.vercel.app/list/artist)
+[![cosplayer](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.herokuapp.com/database/cosplayer/~badge)](https://ehtt.vercel.app/list/cosplayer)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.herokuapp.com/database/parody/~badge)](https://ehtt.vercel.app/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.herokuapp.com/database/character/~badge)](https://ehtt.vercel.app/list/character)
 
 ## 协议
 

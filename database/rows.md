@@ -12,8 +12,8 @@ key: rows
 | mixed | 混合 | 两性/中性的恋物标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/mixed.md) |
 | language | 语言 | 作品的语言。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/language.md) |
 | other | 其他 | 经过确认的技术标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/other.md) |
+| group | 团队 | 制作社团或公司。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/group.md) |
 | artist | 艺术家 | 绘画作者/写手。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/artist.md) |
 | cosplayer | Coser | 角色扮演者。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/cosplayer.md) |
 | parody | 原作 | 同人作品模仿的原始作品。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/parody.md) |
 | character | 角色 | 作品中出现的角色。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/character.md) |
-| group | 团队 | 制作社团或公司。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/group.md) |
