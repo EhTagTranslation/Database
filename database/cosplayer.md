@@ -35,6 +35,7 @@ example:
 | valery himera | Valery Himera |  |  |
 | vinnegal | Vinnegal |  |  |
 | nath sokolova | Nath Sokolova |  |  |
+| virtual geisha | Virtual Geisha |  |  |
 
 <!--
 Template: 
