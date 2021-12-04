@@ -1,7 +1,7 @@
 ---
-name: 杂项
-description: 两性/中性的恋物标签。
-key: misc
+name: 其他
+description: 经过确认的技术标签。
+key: other
 copyright: >
   除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
@@ -25,8 +25,6 @@ copyright: >
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
   - >-
-    填写长期存在于杂项(misc)中的标签，对于加入杂项的新作者、社团等的标签，请在论坛(https://forums.e-hentai.org/index.php?showtopic=199295)发帖请求管理员将标签移动到正确分类后再在相应分类添加翻译。
-  - >-
     为方便查找理解同类性癖的标签，请尽量按恋物标签分类(https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
   - 若有属于多个分类的，放入最相关的那一个分类。
 example:
@@ -42,25 +40,6 @@ example:
 |  | == 身体 == |  |  |
 |  | === 身体 > 生物 === |  |  |
 | yukkuri | 油库里 | 油库里是ゆっくり（日语：慢慢来）的中文谐音。<br>ゆっくり这种形象其最早于 2008 年初出现在 2ch 上，其创造者为一个失败的 ASCII 艺术爱好者。当时他/她本来希望用 ASCII 字符拼出灵梦和魔理沙的头像，但不幸他/她失败了，头像看起来和这里所提到的ゆっくり很一致。而另一个匿名用户觉得这头像颇有幽默感，于是便做了第一幅有关ゆっくり的图片。<br>一般来说，ゆっくり的外形大致上是一个硕大而看上去有点扭曲的脑袋，往往和`touhou project`中的人物存在对应。<br>![ゆっくり](https://ehgt.org/ee/6a/ee6ac5d74438aa76077a9c201cd740911851092f-673521-1060-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/油库里#) (\*\*) |
-|  | ==== 身体 > 生物 > 动物 ==== |  |  |
-| animal on animal | 兽兽 | 动物间性交。 |  |
-|  | == 头部 == |  |  |
-|  | === 头部 > 思维 === |  |  |
-| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender bender`。 |  |
-|  | == 下半身 == |  |  |
-|  | === 下半身 > 阴部 === |  |  |
-|  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
-| frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
-|  | == 多人活动 == |  |  |
-| ffm threesome | 女男女3P | ♀♂♀，2 女 1 男 3P。需要`group`标签。 |  |
-| group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
-| mmf threesome | 男女男3P | ♂♀♂，2 男 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
-| mmt threesome | 男扶男3P | ♂⚥♂，2 男 1 扶 3P。需要`group`标签。不算`yaoi`。 |  |
-| mtf threesome | 男扶女3P | ♂⚥♀，1 男 1 扶 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
-| oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
-| shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
-| ttm threesome | 扶扶男3P | ⚥♂⚥，2 扶 1 男 3P。需要`group`标签。不算`yaoi`。 |  |
-| twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是`group`。 |  |
 |  | == 工具 == |  |  |
 | dakimakura | 抱枕 | 印有角色全身像的抱枕。也用于抱枕图案。 |  |
 |  | == 强迫 == |  |  |
@@ -123,9 +102,6 @@ example:
 |  | === 上下文 > 全画廊 === |  |  |
 | nudity only | 仅裸体 | 整个画廊中没有性行为，但有裸体图片。 |  |
 | no penetration | 无插入 | 没有任何东西插入阴道，肛门或任何其他身体开口。嘴是唯一的例外。不用于`non-h`画廊和`nudity only`画廊。 |  |
-|  | === 上下文 > 亲属 === |  |  |
-| incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
-| inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
 
 <!--
 Template: 
