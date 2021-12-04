@@ -30,6 +30,7 @@ example:
 | kalinka fox | Kalynka Fox | kalinka fox \| christina fink |  |
 | nora fawn | Nora Fawn |  |  |
 | saku | サク | Shooting Star's |  |
+| arty huang | Arty亚缇 |  |  |
 
 <!--
 Template: 
