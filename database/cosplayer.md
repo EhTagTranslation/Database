@@ -26,6 +26,11 @@ example:
 | rioko | 凉凉子 |  |  |
 | atsuki | あつき |  |  |
 | hane ame | 雨波 |  |  |
+| chunmomo | 蠢沫沫 |  |  |
+| kalinka fox | Kalynka Fox | kalinka fox \| christina fink |  |
+| nora fawn | Nora Fawn |  |  |
+| saku | サク | Shooting Star's |  |
+| arty huang | Arty亚缇 |  |  |
 
 <!--
 Template: 
