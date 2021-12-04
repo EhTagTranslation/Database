@@ -26,6 +26,7 @@ example:
 | rioko | 凉凉子 |  |  |
 | atsuki | あつき |  |  |
 | hane ame | 雨波 |  |  |
+| chunmomo | 蠢沫沫 |  |  |
 
 <!--
 Template: 
