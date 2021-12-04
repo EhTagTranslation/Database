@@ -33,6 +33,7 @@ example:
 | arty huang | Arty亚缇 |  |  |
 | carry key | Carry Key |  |  |
 | valery himera | Valery Himera |  |  |
+| vinnegal | Vinnegal |  |  |
 
 <!--
 Template: 
