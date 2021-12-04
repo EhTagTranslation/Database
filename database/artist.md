@@ -3444,6 +3444,7 @@ example:
 | juukyuu | じゅうきゅう |  |  |
 | chobipero | ちょびぺろ | ![twitter](https://pbs.twimg.com/profile_images/3515865195/a104cd88ed73e81d6a5694fd1a65a319_400x400.jpeg)<br><br>**作者推特头像**<br><br>《comic 快乐天》作者，游戏CG画师，同人社团`peroppoi tokoro`主笔。 | [twitter](https://twitter.com/chobiperori) [pixiv](https://www.pixiv.net/users/465635) |
 | takama | 高天 |  | [pixiv](https://www.pixiv.net/users/54645875) |
+| pesshin | ペッシン |  | [pixiv](https://www.pixiv.net/users/4143710/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
