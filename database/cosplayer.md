@@ -34,6 +34,7 @@ example:
 | carry key | Carry Key |  |  |
 | valery himera | Valery Himera |  |  |
 | vinnegal | Vinnegal |  |  |
+| nath sokolova | Nath Sokolova |  |  |
 
 <!--
 Template: 
