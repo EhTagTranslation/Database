@@ -28,6 +28,7 @@ example:
 | hane ame | 雨波 |  |  |
 | chunmomo | 蠢沫沫 |  |  |
 | kalinka fox | Kalynka Fox | kalinka fox \| christina fink |  |
+| nora fawn | Nora Fawn |  |  |
 
 <!--
 Template: 
