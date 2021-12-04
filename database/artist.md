@@ -3447,6 +3447,7 @@ example:
 | pesshin | ペッシン |  | [pixiv](https://www.pixiv.net/users/4143710/) |
 | tomatojigoku | とまとじごく |  |  |
 | midori | みどり |  |  |
+| ponponmaru | ぽんぽんまる |  | [pixiv](https://www.pixiv.net/users/1532605) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
