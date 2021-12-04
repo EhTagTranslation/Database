@@ -2172,6 +2172,7 @@ example:
 | earrings bom factory | イヤリング爆弾工場 |  |  |
 | ororiya enpitsudo | オロリヤ鉛筆堂 |  |  |
 | l.g.c. | L.G.C. |  |  |
+| midorineko | みどりねこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
