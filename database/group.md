@@ -2171,6 +2171,7 @@ example:
 | peroppoi tokoro | ぺろっぽい処 | 画师`chobipero`所在社团。 | [社团主页](http://chobipero.web.fc2.com) |
 | earrings bom factory | イヤリング爆弾工場 |  |  |
 | ororiya enpitsudo | オロリヤ鉛筆堂 |  |  |
+| l.g.c. | L.G.C. |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
