@@ -1615,6 +1615,7 @@ example:
 | wonder egg priority | 奇蛋物语 |  | [维基百科](https://zh.wikipedia.org/zh/奇蛋物语) |
 | love live superstar | ![LL](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Superstar!! | 《Love Live! Superstar!!》（日语：ラブライブ！スーパースター!!），是以Liella!为主角、日昇制作的改编电视动画，也是《`love live`》动画系列第四作。 | [维基百科](https://zh.wikipedia.org/wiki/Love_Live!_Superstar!!) (\*) |
 | tales of arise | 破晓传说 |  |  |
+| osananajimi ga zettai ni makenai love comedy | 青梅竹马绝对不会输的恋爱喜剧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
