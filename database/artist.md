@@ -3448,6 +3448,7 @@ example:
 | tomatojigoku | とまとじごく |  |  |
 | midori | みどり |  |  |
 | ponponmaru | ぽんぽんまる |  | [pixiv](https://www.pixiv.net/users/1532605) |
+| hame dragon | ハメドラゴン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
