@@ -2174,6 +2174,7 @@ example:
 | l.g.c. | L.G.C. |  |  |
 | midorineko | みどりねこ |  |  |
 | q-model | Q-MODEL |  |  |
+| cherish | \*Cherish\* |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
