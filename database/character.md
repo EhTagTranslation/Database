@@ -3651,6 +3651,7 @@ example:
 | chisato arashi | 岚千砂都 |  |  |
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
 | sakura yae | 八重樱 |  |  |
+| hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
