@@ -2173,6 +2173,7 @@ example:
 | ororiya enpitsudo | オロリヤ鉛筆堂 |  |  |
 | l.g.c. | L.G.C. |  |  |
 | midorineko | みどりねこ |  |  |
+| q-model | Q-MODEL |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
