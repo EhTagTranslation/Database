@@ -3450,6 +3450,7 @@ example:
 | ponponmaru | ぽんぽんまる |  | [pixiv](https://www.pixiv.net/users/1532605) |
 | hame dragon | ハメドラゴン |  |  |
 | ziran | ZIRAN |  |  |
+| hinamo | ひなも🍀 |  | [pixiv](https://www.pixiv.net/users/61624416) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
