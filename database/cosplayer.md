@@ -38,6 +38,7 @@ example:
 | virtual geisha | Virtual Geisha |  |  |
 | kaya huang | KaYa 萱 |  |  |
 | sayako | さやこ |  | [Twitter](https://twitter.com/sayako_cos) |
+| mikomi hokina | Mikomi Hokina |  |  |
 
 <!--
 Template: 
