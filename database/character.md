@@ -3,7 +3,8 @@ name: 角色
 description: 作品中出现的角色。
 key: character
 abbr: c
-aliases: [char]
+aliases:
+  - char
 copyright: >
   对于标有(*)的条目，其描述文本复制/翻译自维基百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-相同方式共享
   3.0协议）进行二次分发。
@@ -3654,6 +3655,7 @@ example:
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
 | sakura yae | 八重樱 |  |  |
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
+| sara kujou | 九条裟羅 | 由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
