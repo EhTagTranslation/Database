@@ -1,6 +1,6 @@
 ---
 name: 内容索引
-description: 标签列表的行名，即标签的命名空间。
+description: 标签列表的行名，即标签的命名空间。数据来自 https://ehwiki.org/wiki/Namespace
 key: rows
 ---
 
