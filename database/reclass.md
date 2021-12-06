@@ -2,6 +2,7 @@
 name: 重新分类
 description: 用于分类出错的画廊，当某个重新分类标签权重达到 100，将移动画廊至对应分类。
 key: reclass
+abbr: r
 copyright: >
   除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 

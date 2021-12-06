@@ -2,6 +2,7 @@
 name: 混合
 description: 两性/中性的恋物标签。
 key: mixed
+abbr: x
 copyright: >
   除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
