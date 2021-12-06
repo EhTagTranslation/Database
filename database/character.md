@@ -3655,7 +3655,7 @@ example:
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
 | sakura yae | 八重樱 |  |  |
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
-| sara kujou | 九条裟羅 | 由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
+| sara kujou | 九条裟罗 | 由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
