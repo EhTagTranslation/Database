@@ -2180,6 +2180,7 @@ example:
 | q-model | Q-MODEL |  |  |
 | cherish | \*Cherish\* |  |  |
 | allows | Allows |  |  |
+| pico martel | Pico Martel |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
