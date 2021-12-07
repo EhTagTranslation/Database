@@ -40,6 +40,7 @@ example:
 | kaya huang | KaYa 萱 |  |  |
 | sayako | さやこ |  | [Twitter](https://twitter.com/sayako_cos) |
 | mikomi hokina | Mikomi Hokina |  |  |
+| akane araragi | Akane Araragi |  | [Twitter](https://twitter.com/akaneararagi) |
 
 <!--
 Template: 
