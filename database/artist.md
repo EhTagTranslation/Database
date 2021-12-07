@@ -3455,6 +3455,7 @@ example:
 | keso shirou | けそシロウ |  | [pixiv](https://www.pixiv.net/users/12255246) |
 | nishimura nike | 西村にけ |  |  |
 | ererep | エレレ🌸 |  | [pixiv](https://www.pixiv.net/users/2254862) |
+| mammoth | ドロンタビ |  | [pixiv](https://www.pixiv.net/users/55392960) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
