@@ -2181,7 +2181,7 @@ example:
 | cherish | \*Cherish\* |  |  |
 | allows | Allows |  |  |
 | pico martel | Pico Martel |  |  |
-| osenbei no mori | おせんべいの森 | 画师だにまる所属社团 |  |
+| osenbei no mori | おせんべいの森 | 画师`danimaru`所属社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
