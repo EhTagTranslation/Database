@@ -2183,6 +2183,7 @@ example:
 | pico martel | Pico Martel |  |  |
 | osenbei no mori | おせんべいの森 | 画师`danimaru`所属社团 |  |
 | sakura saku saku | 佐倉さくさく |  |  |
+| calorie and cholesterols | カロリー&Cholesterols |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
