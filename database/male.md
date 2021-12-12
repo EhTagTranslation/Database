@@ -332,6 +332,7 @@ example:
 | big balls | 大睾丸 | 不正常的巨大睾丸，至少与手的大小相当。 |  |
 | big penis | 大根 | 异常大的阴茎，至少要和其主人的前臂一样大。是`huge penis`的前置标签。 |  |
 | cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
+| cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
 | dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender bender`标签。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
@@ -556,9 +557,10 @@ example:
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与`amputee`或`bondage`混淆。 |  |
 | mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`画廊。 |  |
 |  | == 性别 == |  |  |
-| cuntboy | 人妖♀ | 有阴道的男性。男性与人妖间的性行为不应添加`yaoi`或`males only`标签。有可能有阴茎，此时不应与`futanari`混淆。 |  |
+| cuntboy | 人妖♀ | 有阴道而不是阴茎的男性。男性与`cuntboy`间的性行为不应添加`yaoi`或`males only`标签。如果男性拥有阴道和阴茎，请使用`otokofutanari`。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
 | gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用`transformation`。不应与`body swap`或`crossdressing`混淆。不用于女性变为`futanari`的情况。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
+| otokofutanari | 扶他 | 同时拥有阴道和阴茎的男性。男性和`otokofutanari`之间的性行为不应添加`yaoi`或`males only`标签。如果男性只有阴道，请使用`cuntboy`。 |  |
 |  | === 性别 > 性别间关系 === |  |  |
 | bisexual | 双性恋 | 画廊中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
 | dickgirl on male | 扶上男 | 女性使用阴茎插入男性，无论是`anal`还是`blowjob`。需要`futanari`或`shemale`标签。<br>![图](# "https://ehgt.org/d4/f1/d4f1ddc47d26269a3a1a6567237944e64fa0ac7f-3288334-1709-2400-jpg_l.jpg") |  |

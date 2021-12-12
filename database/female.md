@@ -240,6 +240,7 @@ example:
 | mind control | 精神控制 | 迫使某人自己做某事。 |  |
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的女孩，即荡妇。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
+| personality excretion | 人格排泄 | 参与者将他们的灵魂转移到某种物品（例如粪便、飞机杯或精液）中，然后排出体外，使他们的身体成为一个空壳。只有排出的过程计算在内。 | |
 | possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
@@ -346,6 +347,7 @@ example:
 | big balls | 大睾丸 | 不正常的巨大睾丸，至少与手的大小相当。<br>![图](# "https://ehgt.org/0b/1b/0b1b741159b260c71968dca55cf85bc87c878a54-422422-834-1200-jpg_l.jpg")![图](# "https://ehgt.org/8b/8c/8b8c2f6fad2770b56f8a74e18c66b98536a4787d-683343-1500-1782-jpg_l.jpg") |  |
 | big penis | 大根 | 异常大的阴茎，至少要和其主人的前臂一样大。是`huge penis`的前置标签。<br>![图](# "https://ehgt.org/a7/0b/a70b69b39f6b85173d51f82189cd04f085a02ae3-584146-1500-1060-jpg_l.jpg") |  |
 | cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
+| cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
 | dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender bender`标签。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/f0/6b/f06b6e20561fb57f07eb768d416761ceba6b5088-738821-1111-1554-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse girl`或`sex toys`。 |  |
