@@ -2185,6 +2185,7 @@ example:
 | sakura saku saku | 佐倉さくさく |  |  |
 | calorie and cholesterols | カロリー&Cholesterols |  |  |
 | stapspats | Stapspats |  |  |
+| letitia no ohirune | レティーシャのお昼寝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
