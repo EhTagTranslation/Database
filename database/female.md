@@ -240,7 +240,7 @@ example:
 | mind control | 精神控制 | 迫使某人自己做某事。 |  |
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的女孩，即荡妇。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
-| personality excretion | 人格排泄 | 参与者将他们的灵魂转移到某种物品（例如粪便、飞机杯或精液）中，然后排出体外，使他们的身体成为一个空壳。只有排出的过程计算在内。 | |
+| personality excretion | 人格排泄 | 参与者将他们的灵魂转移到某种物品（例如粪便、飞机杯或精液）中，然后排出体外，使他们的身体成为一个空壳。只有排出的过程计算在内。 |  |
 | possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
