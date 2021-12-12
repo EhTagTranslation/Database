@@ -3657,6 +3657,7 @@ example:
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
 | sara kujou | 九条裟罗 | 由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《赛马娘 Pretty Derby》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/醒目飞鹰) |
+| asuna ichinose | 一之濑明日奈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
