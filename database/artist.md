@@ -3460,6 +3460,7 @@ example:
 | momikocu | 籾殻 |  |  |
 | danimaru | だにまる | ![twitter](https://pbs.twimg.com/profile_images/1467476849379135489/mohmSxUH_400x400.jpg)<br><br>**作者推特头像**<br><br>《COMIC Anthurium》作者，社团`osenbei no mori`主笔。 | ![works](# "https://pbs.twimg.com/media/FGKrBh1UcAcGmuM?format=jpg&name=small")<br>同人作品<br><br>[twitter](https://twitter.com/danidanihatikyu) [pixiv](https://www.pixiv.net/users/1817132) [HP](https://twpf.jp/danidanihatikyu) |
 | reba | れば☆ |  |  |
+| chifuyu | 千冬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
