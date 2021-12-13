@@ -3660,6 +3660,7 @@ example:
 | asuna ichinose | 一之濑明日奈 |  |  |
 | akane murokasa | 室笠茜 |  |  |
 | karin kakudate | 角楯花凛 |  |  |
+| gray wolf | 灰狼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
