@@ -3663,6 +3663,7 @@ example:
 | gray wolf | 灰狼 |  |  |
 | brown bear | 棕熊 |  |  |
 | golden snub-nosed monkey | 金丝猴 |  |  |
+| african wild dog | 非洲野犬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
