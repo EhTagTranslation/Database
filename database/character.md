@@ -3662,6 +3662,7 @@ example:
 | karin kakudate | 角楯花凛 |  |  |
 | gray wolf | 灰狼 |  |  |
 | brown bear | 棕熊 |  |  |
+| golden snub-nosed monkey | 金丝猴 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
