@@ -3661,6 +3661,7 @@ example:
 | akane murokasa | 室笠茜 |  |  |
 | karin kakudate | 角楯花凛 |  |  |
 | gray wolf | 灰狼 |  |  |
+| brown bear | 棕熊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
