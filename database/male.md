@@ -227,7 +227,7 @@ example:
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与`ponytail`混淆。<br>![图](# "https://ehgt.org/8b/25/8b257a0bd05924548c279f6579d961ecade86240-684517-1024-576-png_l.jpg") |  |
 | very long hair | 超长发 | 大部分头发长度在肚脐以下或附近。由于被绑起来而无法达到该长度的头发不算。 |  |
 |  | === 头部 > 思维 === |  |  |
-| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender bender`。 |  |
+| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender change`。 |  |
 | chloroform | 迷药 | 任何物质用于在没有使用暴力的情况下使人失去知觉。 可能导致`rape`或`sleeping`。 |  |
 | corruption | 堕落 | 用魔法或其他超自然力量强硬地腐化某人的头脑，抢夺他们的纯洁。 有可能导致`transformation`、`monster`和`demon`。 |  |
 | drugs | 药物 | 任何用于鼓动滥交或快感的药物。不应与`chloroform`或`drunk`混淆。 |  |
@@ -237,7 +237,7 @@ example:
 | mind control | 精神控制 | 迫使某人自己做某事。 |  |
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的男人。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
-| possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender bender`和`body swap`混淆。 |  |
+| possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender change`和`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
 |  | === 头部 > 眼睛 === |  |  |
@@ -333,7 +333,7 @@ example:
 | big penis | 大根 | 异常大的阴茎，至少要和其主人的前臂一样大。是`huge penis`的前置标签。 |  |
 | cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
 | cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
-| dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender bender`标签。 |  |
+| dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。 |  |
@@ -403,7 +403,7 @@ example:
 | condom | 避孕套 | 塑料套，旨在保护使用者和其伙伴免受不必要的性病以及怀孕。 |  |
 | corset | 紧身内衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状。需要`crossdressing`标签。 |  |
 | cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如`schoolboy uniform`、`nurse`、`maid`。不用于 Cosplay 画廊。 |  |
-| crossdressing | 异性装 | 男性女装。不应与`gender bender`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg")![图](# "https://ehgt.org/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg")![图](# "https://ehgt.org/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg") |  |
+| crossdressing | 异性装 | 男性女装。不应与`gender change`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg")![图](# "https://ehgt.org/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg")![图](# "https://ehgt.org/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg") |  |
 | diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与`age regression`、`scat`、`infantilism`或`urination`配对。 |  |
 | dougi | 练功服🥋 | 用于各种武术课和训练的服装。通常有一条单色配带。 |  |
 | fishnets | 渔网 | 由一种带有菱形开口针织物的图案制成的服装。必须覆盖至少一半的躯干或四肢（例如大腿，前臂等）。 |  |
@@ -549,7 +549,7 @@ example:
 | clone | 克隆 | 一个或多个某角色的精确副本参与同时进行的性活动。克隆体不应有年龄、性别、体型、精神状态等方面的差异。不应添加`sole male`标签。有可能涉及`selfcest`。<br>![图](# "https://ehgt.org/35/82/35827e2afb8e9e3dde0de5b5484327bcd43879a9-1351961-1131-1600-jpg_l.jpg") |  |
 | masturbation | 自慰 | 自我愉悦。是`phone sex`的前置标签。不需要`fingering`标签。 |  |
 | phone sex | 电话性爱 | 通过电话进行色情交谈，同时进行自慰。需要`masturbation`标签。 |  |
-| selfcest | 自交 | 同一个人的两个版本间的性行为。通常发生在一个角色和其`gender bender`之间。 |  |
+| selfcest | 自交 | 同一个人的两个版本间的性行为。通常发生在一个角色和其`gender change`之间。 |  |
 | solo action | 自摸 | 一个角色自己从事性活动。使用物品（例如杂志、`sex toys`、`exhibitionism`）作为刺激是可以接受的。<br>![](# "https://ehgt.org/de/17/de170cd498d3d7d7fa5b6fd92123a7b27218a10f-423358-600-847-jpg_l.jpg") |  |
 | table masturbation | 桌角自慰 | 通过摩擦桌角来自慰。不需要`masturbation`标签。<br>![图](# "https://ehgt.org/a3/6f/a36f1888c987f8f4e462465a81ea105e2b592fa6-680567-1200-1800-jpg_l.jpg") |  |
 |  | == 残疾 == |  |  |
@@ -559,7 +559,7 @@ example:
 |  | == 性别 == |  |  |
 | cuntboy | 人妖♀ | 有阴道而不是阴茎的男性。男性与`cuntboy`间的性行为不应添加`yaoi`或`males only`标签。如果男性拥有阴道和阴茎，请使用`otokofutanari`。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
-| gender bender | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用`transformation`。不应与`body swap`或`crossdressing`混淆。不用于女性变为`futanari`的情况。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
+| gender change | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用`transformation`。不应与`body swap`或`crossdressing`混淆。不用于女性变为`futanari`的情况。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
 | otokofutanari | 扶他 | 同时拥有阴道和阴茎的男性。男性和`otokofutanari`之间的性行为不应添加`yaoi`或`males only`标签。如果男性只有阴道，请使用`cuntboy`。 |  |
 |  | === 性别 > 性别间关系 === |  |  |
 | bisexual | 双性恋 | 画廊中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
