@@ -3664,6 +3664,7 @@ example:
 | brown bear | 棕熊 |  |  |
 | golden snub-nosed monkey | 金丝猴 |  |  |
 | african wild dog | 非洲野犬 |  |  |
+| kusunoki sio | 楠栞桜 |  | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/楠栞樱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
