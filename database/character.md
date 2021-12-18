@@ -3665,6 +3665,7 @@ example:
 | golden snub-nosed monkey | 金丝猴 |  |  |
 | african wild dog | 非洲野犬 |  |  |
 | kusunoki sio | 楠栞桜 |  | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/楠栞樱) |
+| sara | 莎拉 | ![莎拉](https://huiji-public.huijistatic.com/gbf/uploads/8/80/Zoom_3040041000_01.png)<br>日文名：サラ<br>英文名：Sara | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040041000)<br>[碧蓝幻想官方人物介绍](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=33) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
