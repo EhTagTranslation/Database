@@ -1619,6 +1619,7 @@ example:
 | love live superstar | ![LL](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Superstar!! | 《Love Live! Superstar!!》（日语：ラブライブ！スーパースター!!），是以Liella!为主角、日昇制作的改编电视动画，也是《`love live`》动画系列第四作。 | [维基百科](https://zh.wikipedia.org/wiki/Love_Live!_Superstar!!) (\*) |
 | tales of arise | 破晓传说 |  |  |
 | osananajimi ga zettai ni makenai love comedy | 青梅竹马绝对不会输的恋爱喜剧 |  |  |
+| buried stars | 深埋之星 | 《深埋之星》（BURIED STARS）是一款以现场直播选秀崩塌现场为背景的冒险游戏，发售于2021年11月，由韩国游戏公司LINE Games Corporation进行发行。 | [https://buried-stars.com/](https://buried-stars.com/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
