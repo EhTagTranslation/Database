@@ -46,7 +46,7 @@ example:
 | animal on animal | 兽兽 | 动物间性交。 |  |
 |  | == 头部 == |  |  |
 |  | === 头部 > 思维 === |  |  |
-| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender bender`。 |  |
+| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender change`。 |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
