@@ -3667,6 +3667,7 @@ example:
 | kusunoki sio | 楠栞桜 |  | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/楠栞樱) |
 | sara | 莎拉 | ![莎拉](https://huiji-public.huijistatic.com/gbf/uploads/8/80/Zoom_3040041000_01.png)<br>日文名：サラ<br>英文名：Sara | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040041000)<br>[碧蓝幻想官方人物介绍](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=33) |
 | metera | 美黛拉 | ![梅忒拉](http://asia.sega.com/versus.granbluefantasy/assets/images/pc/common/characters/full_metera.png)<br>日文名：メーテラ<br>英文名：Metera<br>中文译名：美黛拉<br>碧蓝幻想Versus人物中文译名：梅忒拉<br>天赋异禀的艾伦族女性。<br>熟练运用可射出无限箭矢的“魔导弓”，并能以“飞翔术”不靠任何工具翱翔天空的天才。<br>出生在以守护神殿为使命的家族，因厌倦无聊的生活而离开故乡的森林，随心所欲地漫步各地。<br>轨迹变幻莫测、无穷无尽的魔导箭矢正如梅忒拉其人，<br>被其锁定的目标皆无法逃脱被贯穿的命运。 | [碧蓝幻想Versus](http://asia.sega.com/versus.granbluefantasy/#metera)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040072000) |
+| sutera | 斯黛拉 | ![斯黛拉](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3040303000_01.png)<br>日文名：スーテラ<br>英文名：Sutera | [碧蓝幻想官网](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=38)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040303000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
