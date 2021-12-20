@@ -3465,6 +3465,7 @@ example:
 | itsuki kuro | 伊月クロ |  |  |
 | tonari | 隣 |  |  |
 | sawaragi | 沢良宜 |  |  |
+| sanrokumaru | さんろく丸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
