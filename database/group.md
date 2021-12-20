@@ -2186,6 +2186,7 @@ example:
 | calorie and cholesterols | カロリー&Cholesterols |  |  |
 | stapspats | Stapspats |  |  |
 | letitia no ohirune | レティーシャのお昼寝 |  |  |
+| rokumarusou | ろくまる荘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
