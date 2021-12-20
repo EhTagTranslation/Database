@@ -2187,6 +2187,7 @@ example:
 | stapspats | Stapspats |  |  |
 | letitia no ohirune | レティーシャのお昼寝 |  |  |
 | rokumarusou | ろくまる荘 |  |  |
+| yamo7 | ヤモセブン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
