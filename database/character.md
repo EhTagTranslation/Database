@@ -3670,6 +3670,7 @@ example:
 | sutera | 斯黛拉 | ![斯黛拉](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3040303000_01.png)<br>日文名：スーテラ<br>英文名：Sutera | [碧蓝幻想官网](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=38)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040303000) |
 | chieru kazama | 风间千爱瑠 |  | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
 | hanako kuroe | 黑江花子 |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
+| kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
