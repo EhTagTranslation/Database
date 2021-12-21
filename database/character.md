@@ -3678,6 +3678,7 @@ example:
 | cucouroux | 库库鲁 | ![库库鲁](https://huiji-public.huijistatic.com/gbf/uploads/f/f7/Zoom_3030155000_01.png)<br>日文名：ククル<br>英文名：Cucouroux | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030155000) |
 | jessica | 杰西卡 | ![杰西卡](https://huiji-public.huijistatic.com/gbf/uploads/0/05/Zoom_3040227000_01.png)<br>日文名：ジェシカ<br>英文名：Jessica | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030159000) |
 | jasmine | 茉莉 | ![茉莉](https://huiji-public.huijistatic.com/gbf/uploads/3/3f/Zoom_3030102000_01.png)<br>日文名：ジャスミン<br>英文名：Jasmine | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030102000) |
+| karva | 卡鲁巴 | ![卡鲁巴](https://huiji-public.huijistatic.com/gbf/uploads/9/9d/Zoom_3030230000_01.png)<br>日文名：カルバ<br>英文名：Karva | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030230000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
