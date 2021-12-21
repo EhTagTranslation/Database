@@ -2188,6 +2188,7 @@ example:
 | letitia no ohirune | レティーシャのお昼寝 |  |  |
 | rokumarusou | ろくまる荘 |  |  |
 | yamo7 | ヤモセブン |  |  |
+| ginga-kei pride | 银河系PRIDE |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
