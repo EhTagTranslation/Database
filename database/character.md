@@ -3671,6 +3671,7 @@ example:
 | chieru kazama | 风间千爱瑠 |  | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
 | hanako kuroe | 黑江花子 |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
 | kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
+| makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
