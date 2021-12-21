@@ -3673,6 +3673,7 @@ example:
 | kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 | makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 |  | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
+| mythra | 光 |  | [萌娘百科](https://zh.moegirl.org.cn/光%28异度神剑%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
