@@ -3466,6 +3466,7 @@ example:
 | tonari | 隣 |  |  |
 | sawaragi | 沢良宜 |  |  |
 | sanrokumaru | さんろく丸 |  |  |
+| kuga mayuri | 久我茧莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
