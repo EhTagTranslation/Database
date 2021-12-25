@@ -3467,6 +3467,7 @@ example:
 | sawaragi | 沢良宜 |  |  |
 | sanrokumaru | さんろく丸 |  |  |
 | kuga mayuri | 久我茧莉 |  |  |
+| jiyu2 | 磁油2 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
