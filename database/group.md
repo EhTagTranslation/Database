@@ -2189,6 +2189,7 @@ example:
 | rokumarusou | ろくまる荘 |  |  |
 | yamo7 | ヤモセブン |  |  |
 | ginga-kei pride | 银河系PRIDE |  |  |
+| suiikazuchi | スイイカズチ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
