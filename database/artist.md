@@ -3469,6 +3469,7 @@ example:
 | kuga mayuri | 久我茧莉 |  |  |
 | jiyu2 | 磁油2 |  |  |
 | yoshida | 吉田 |  |  |
+| dokukinokozin | 毒茸人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
