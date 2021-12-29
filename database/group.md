@@ -2190,6 +2190,7 @@ example:
 | yamo7 | ヤモセブン |  |  |
 | ginga-kei pride | 银河系PRIDE |  |  |
 | suiikazuchi | スイイカズチ |  |  |
+| atelier hinata | あとりえひなた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
