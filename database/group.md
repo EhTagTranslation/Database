@@ -2191,6 +2191,7 @@ example:
 | ginga-kei pride | 银河系PRIDE |  |  |
 | suiikazuchi | スイイカズチ |  |  |
 | atelier hinata | あとりえひなた |  |  |
+| tortoiseshell | トーティシェル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
