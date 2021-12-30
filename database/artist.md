@@ -1125,7 +1125,7 @@ example:
 | atage | あたげ |  |  |
 | ebina ebi | 海老名えび |  |  |
 | kisen | 奇仙 |  |  |
-| kyockcho | きょくちょ |  |  |
+| kyockcho | きょくちょ |  | [Twitter](https://twitter.com/kyockcho) [pixiv](https://www.pixiv.net/users/22782) |
 | maumen | まうめん |  |  |
 | nukunuku | ぬくぬく |  |  |
 | sumiyoshi | すみよし |  |  |
