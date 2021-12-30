@@ -3470,6 +3470,7 @@ example:
 | jiyu2 | 磁油2 |  |  |
 | yoshida | 吉田 |  |  |
 | dokukinokozin | 毒茸人 |  |  |
+| danrenji | だんれんじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
