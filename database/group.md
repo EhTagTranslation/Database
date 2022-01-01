@@ -2192,6 +2192,7 @@ example:
 | suiikazuchi | スイイカズチ |  |  |
 | atelier hinata | あとりえひなた |  |  |
 | tortoiseshell | トーティシェル |  |  |
+| shinoya | 篠屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
