@@ -1620,6 +1620,7 @@ example:
 | tales of arise | 破晓传说 |  |  |
 | osananajimi ga zettai ni makenai love comedy | 青梅竹马绝对不会输的恋爱喜剧 |  |  |
 | buried stars | 深埋之星 | 《深埋之星》（BURIED STARS）是一款以现场直播选秀崩塌现场为背景的冒险游戏，发售于2021年11月，由韩国游戏公司LINE Games Corporation进行发行。 | [https://buried-stars.com/](https://buried-stars.com/) |
+| gunbuster | 飞跃巅峰 | 庵野秀明1988年导演作品 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
