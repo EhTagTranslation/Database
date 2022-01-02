@@ -3686,6 +3686,7 @@ example:
 | aru rikuhachima | 陸八魔アル |  |  |
 | hifumi ajitani | 阿慈谷ヒフミ |  |  |
 | azusa shirasu | 白洲アズサ |  |  |
+| hanako urawa | 浦和ハナコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
