@@ -2193,6 +2193,7 @@ example:
 | atelier hinata | あとりえひなた |  |  |
 | tortoiseshell | トーティシェル |  |  |
 | shinoya | 篠屋 |  |  |
+| ink complex | Ink Complex |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
