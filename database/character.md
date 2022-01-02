@@ -3683,6 +3683,7 @@ example:
 | noriko takaya | 高屋法子 | 《飞跃巅峰》第一季女主角 |  |
 | kazumi amano | 天野和美 |  |  |
 | jung freud | 荣格·佛洛依德 |  |  |
+| aru rikuhachima | 陸八魔アル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
