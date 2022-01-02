@@ -2197,6 +2197,7 @@ example:
 | supe | すぺ |  |  |
 | akaneiro | 紅音色 |  |  |
 | hakukoukai | 白蛟会 |  |  |
+| marshmallow balloon | マシュマロ風船 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
