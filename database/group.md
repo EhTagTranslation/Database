@@ -2198,6 +2198,7 @@ example:
 | akaneiro | 紅音色 |  |  |
 | hakukoukai | 白蛟会 |  |  |
 | marshmallow balloon | マシュマロ風船 |  |  |
+| zombie to yukaina nakamatachi | ぞんびと愉快な仲間たち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
