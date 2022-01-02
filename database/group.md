@@ -2196,6 +2196,7 @@ example:
 | ink complex | Ink Complex |  |  |
 | supe | すぺ |  |  |
 | akaneiro | 紅音色 |  |  |
+| hakukoukai | 白蛟会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
