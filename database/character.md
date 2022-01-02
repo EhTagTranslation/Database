@@ -3684,6 +3684,7 @@ example:
 | kazumi amano | 天野和美 |  |  |
 | jung freud | 荣格·佛洛依德 |  |  |
 | aru rikuhachima | 陸八魔アル |  |  |
+| hifumi ajitani | 阿慈谷ヒフミ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
