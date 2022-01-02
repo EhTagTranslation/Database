@@ -2201,7 +2201,7 @@ example:
 | narumiya akira | 成宫亨 |  |  |
 | oosawara sadao | 大童贞男 |  |  |
 | oozorawakaba | 大空若叶 |  |  |
-| sugarbt | sugarBt |  |  |
+| sugarbt | sugarBt |  | [Twitter](https://twitter.com/shugabito) [pixiv](https://www.pixiv.net/users/5166146) |
 | sunahama nosame | 砂浜のさめ |  |  |
 | zakotsu | 佐骨 |  |  |
 | nidy-2d- | Nidy-2D- |  |  |
