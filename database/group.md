@@ -2194,6 +2194,7 @@ example:
 | tortoiseshell | トーティシェル |  |  |
 | shinoya | 篠屋 |  |  |
 | ink complex | Ink Complex |  |  |
+| supe | すぺ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
