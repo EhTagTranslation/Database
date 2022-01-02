@@ -2195,6 +2195,7 @@ example:
 | shinoya | 篠屋 |  |  |
 | ink complex | Ink Complex |  |  |
 | supe | すぺ |  |  |
+| akaneiro | 紅音色 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
