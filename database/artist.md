@@ -2373,7 +2373,7 @@ example:
 | yoshida inuhito | 吉田犬人 |  |  |
 | yuyama chika | 湯山チカ |  |  |
 | kumakiti | 隈吉 |  |  |
-| umakuchi syouyu | うまくち醤油 |  |  |
+| umakuchi syouyu | うまくち醤油 |  | [Twitter](https://twitter.com/umakuchu) [pixiv](https://www.pixiv.net/users/809099) |
 | tokie hirohito | 刻江寻人 |  |  |
 | yuzuki n dash | 柚木N’ |  | [Twitter](https://twitter.com/yuzukin_) [pixiv](https://www.pixiv.net/users/691882) |
 | itou nanami | 井藤ななみ |  |  |
