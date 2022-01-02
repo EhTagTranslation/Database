@@ -3685,6 +3685,7 @@ example:
 | jung freud | 荣格·佛洛依德 |  |  |
 | aru rikuhachima | 陸八魔アル |  |  |
 | hifumi ajitani | 阿慈谷ヒフミ |  |  |
+| azusa shirasu | 白洲アズサ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
