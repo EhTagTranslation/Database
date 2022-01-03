@@ -3688,6 +3688,7 @@ example:
 | azusa shirasu | 白洲アズサ |  |  |
 | hanako urawa | 浦和ハナコ |  |  |
 | koharu shimoe | 下江コハル |  |  |
+| shifuna agato | 雪菲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
