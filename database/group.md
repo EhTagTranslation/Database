@@ -2201,6 +2201,7 @@ example:
 | zombie to yukaina nakamatachi | ぞんびと愉快な仲間たち |  |  |
 | anmitsuyomogitei | あんみつよもぎ亭 |  |  |
 | golden complex | 金色complex |  |  |
+| kannko bokujyo | 缶子牧場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
