@@ -3476,6 +3476,7 @@ example:
 | shiramizu mizuchi | 白瑞みずち |  | [Twitter](https://twitter.com/maguroyoukai) [pixiv](https://www.pixiv.net/users/1601595) |
 | majima tetsurou | 真島てつろー |  | [Twitter](https://twitter.com/Tetsu__TTR) [pixiv](https://www.pixiv.net/users/16798951) |
 | super zombie | すーぱーぞんび |  |  |
+| seuma | せうま |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
