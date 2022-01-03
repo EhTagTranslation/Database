@@ -3477,6 +3477,7 @@ example:
 | majima tetsurou | 真島てつろー |  | [Twitter](https://twitter.com/Tetsu__TTR) [pixiv](https://www.pixiv.net/users/16798951) |
 | super zombie | すーぱーぞんび |  |  |
 | seuma | せうま |  |  |
+| ryoma | きただりょうま |  | [Twitter](https://twitter.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
