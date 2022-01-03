@@ -2199,6 +2199,7 @@ example:
 | hakukoukai | 白蛟会 |  |  |
 | marshmallow balloon | マシュマロ風船 |  |  |
 | zombie to yukaina nakamatachi | ぞんびと愉快な仲間たち |  |  |
+| anmitsuyomogitei | あんみつよもぎ亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
