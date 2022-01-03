@@ -2202,6 +2202,7 @@ example:
 | anmitsuyomogitei | あんみつよもぎ亭 |  |  |
 | golden complex | 金色complex |  |  |
 | kannko bokujyo | 缶子牧場 |  |  |
+| sencyairo | sencyairo |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
