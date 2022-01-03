@@ -3478,6 +3478,7 @@ example:
 | super zombie | すーぱーぞんび |  |  |
 | seuma | せうま |  |  |
 | ryoma | きただりょうま |  | [Twitter](https://twitter.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) |
+| kannko | 缶子 |  | [Twitter](https://twitter.com/orz_can) [pixiv](https://www.pixiv.net/users/8307536) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
