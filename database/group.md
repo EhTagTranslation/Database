@@ -2200,6 +2200,7 @@ example:
 | marshmallow balloon | マシュマロ風船 |  |  |
 | zombie to yukaina nakamatachi | ぞんびと愉快な仲間たち |  |  |
 | anmitsuyomogitei | あんみつよもぎ亭 |  |  |
+| golden complex | 金色complex |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
