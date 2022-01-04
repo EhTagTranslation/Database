@@ -3482,6 +3482,7 @@ example:
 | sencha | せんちゃ | ![せんちゃ头像](https://s2.loli.net/2022/01/04/fOnAZIVW52RlqCr.jpg) | [Twitter](https://twitter.com/ukiukisoda) [pixiv](https://www.pixiv.net/users/3388329) |
 | miyazaki hayao | 宫崎骏 |  |  |
 | amatou | 甘党 |  | [Twitter](https://twitter.com/amatou111) [pixiv](https://www.pixiv.net/users/298982) |
+| aki akane | 秋赤音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
