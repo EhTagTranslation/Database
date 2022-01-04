@@ -1624,6 +1624,7 @@ example:
 | 13 sentinels aegis rim | 十三机兵防卫圈 |  |  |
 | infinite space | 无限航路 |  |  |
 | tonari no kyuuketsuki-san | 邻家的吸血鬼小妹 |  |  |
+| rabi ribi | Rabi-Ribi |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
