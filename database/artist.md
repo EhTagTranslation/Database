@@ -3480,6 +3480,7 @@ example:
 | ryoma | きただりょうま |  | [Twitter](https://twitter.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) |
 | kannko | 缶子 |  | [Twitter](https://twitter.com/orz_can) [pixiv](https://www.pixiv.net/users/8307536) |
 | sencha | せんちゃ | ![せんちゃ头像](https://s2.loli.net/2022/01/04/fOnAZIVW52RlqCr.jpg) | [Twitter](https://twitter.com/ukiukisoda) [pixiv](https://www.pixiv.net/users/3388329) |
+| miyazaki hayao | 宫崎骏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
