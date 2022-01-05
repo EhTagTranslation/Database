@@ -541,7 +541,7 @@ example:
 | jinrui wa suitai shimashita | 人类衰退之后 |  |  |
 | miss machiko | 真知子老师 |  |  |
 | gaogaigar | 勇者王 |  |  |
-| hibike euphonium | 吹响！悠风号 |  |  |
+| hibike euphonium | 吹响！上低音号 | 《吹响！上低音号》（日语：響け！ユーフォニアム）是由武田绫乃创作的一部小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/吹响!上低音号) |
 | ragnarok online | 仙境传说 |  |  |
 | no more heroes | 英雄不再 |  |  |
 | akuma no riddle | 恶魔之谜 |  |  |
