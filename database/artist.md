@@ -3461,7 +3461,6 @@ example:
 | danimaru | だにまる | ![twitter](https://pbs.twimg.com/profile_images/1467476849379135489/mohmSxUH_400x400.jpg)<br><br>**作者推特头像**<br><br>《COMIC Anthurium》作者，社团`osenbei no mori`主笔。 | ![works](# "https://pbs.twimg.com/media/FGKrBh1UcAcGmuM?format=jpg&name=small")<br>同人作品<br><br>[twitter](https://twitter.com/danidanihatikyu) [pixiv](https://www.pixiv.net/users/1817132) [HP](https://twpf.jp/danidanihatikyu) |
 | reba | れば☆ |  |  |
 | chifuyu | 千冬 |  |  |
-| chinese | 汉语 | ![无可奉告]( htp :/ww4.sinaimg. cn / bmiddle<br>/6c84b2d6gw1f44da2ugtrj20rs0qgair. jpg<br>汉语,又称中文、华语、唐话,或被视为 我可以回答你说[无可奉告<br>汉藏语系汉语族下之唯十 一种语言,或被<br>视为语族。 汉语,又称中文、华语、唐话,或被视为汉藏语系汉 语族下之唯种语言,或被视为语族。 | htp :/ww4.sinaimg. cn / bmiddle<br>/6c84b2d6gw1f44da2ugtrj20rs0qgair. jpg |
 | itsuki kuro | 伊月クロ |  |  |
 | tonari | 隣 |  |  |
 | sawaragi | 沢良宜 |  |  |
