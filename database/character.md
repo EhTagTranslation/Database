@@ -3689,6 +3689,7 @@ example:
 | hanako urawa | 浦和ハナコ |  |  |
 | koharu shimoe | 下江コハル |  |  |
 | shifuna agato | 雪菲 |  |  |
+| miko yotsuya | 四谷见子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
