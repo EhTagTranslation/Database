@@ -3491,6 +3491,7 @@ example:
 | toujou tsukushi | 東條土筆 |  |  |
 | yamada gogogo | 山田ゴゴゴ |  |  |
 | g-wara | 爺わら |  |  |
+| ibarame hisa | 茨芽ヒサ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
