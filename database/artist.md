@@ -3505,6 +3505,7 @@ example:
 | ronna | ろんな |  |  |
 | uranokyuu | ウラノキュウ |  |  |
 | 7x2 | 7×2 |  |  |
+| kurowa | 黒輪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
