@@ -3495,6 +3495,7 @@ example:
 | aoyama kiiro. | あおやまきいろ。 |  |  |
 | ushiro muki | 丑露ムキ |  |  |
 | uono shinome | 魚野シノメ |  |  |
+| igedoaha | イゲドアハ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
