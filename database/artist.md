@@ -3508,6 +3508,7 @@ example:
 | kurowa | 黒輪 |  |  |
 | nakamachi machi | 仲町まち |  |  |
 | pei | ぺい |  |  |
+| shimazu tekko | 島津鉄甲（raikoh） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
