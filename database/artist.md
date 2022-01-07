@@ -3487,6 +3487,7 @@ example:
 | tansuiken | 淡水犬 |  |  |
 | yamakonbu | やまこんぶ |  |  |
 | crew | クルー |  |  |
+| 88 | 88 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
