@@ -3490,6 +3490,7 @@ example:
 | 88 | 88 |  |  |
 | toujou tsukushi | 東條土筆 |  |  |
 | yamada gogogo | 山田ゴゴゴ |  |  |
+| g-wara | 爺わら |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
