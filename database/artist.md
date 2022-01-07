@@ -3492,6 +3492,7 @@ example:
 | yamada gogogo | 山田ゴゴゴ |  |  |
 | g-wara | 爺わら |  |  |
 | ibarame hisa | 茨芽ヒサ |  |  |
+| aoyama kiiro. | あおやまきいろ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
