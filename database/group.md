@@ -2205,6 +2205,7 @@ example:
 | sencyairo | sencyairo |  |  |
 | himeya | 姫屋 |  |  |
 | doanobu | どあのぶ |  |  |
+| bunka shinryaku | 文化☆侵略 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
