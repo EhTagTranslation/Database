@@ -3500,6 +3500,7 @@ example:
 | takoyaki rock | タコヤキロック |  |  |
 | yuruchin kyouso | ゆるちん教祖 |  |  |
 | mitsuki | ミツ季 |  |  |
+| momono yuuca | もものユーカ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
