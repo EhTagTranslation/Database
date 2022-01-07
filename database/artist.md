@@ -3484,6 +3484,7 @@ example:
 | aki akane | 秋赤音 |  |  |
 | lack | lack |  | [Twitter](https://twitter.com/lalalalack) [pixiv](https://www.pixiv.net/users/83739) |
 | morikoke | もり苔 |  |  |
+| tansuiken | 淡水犬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
