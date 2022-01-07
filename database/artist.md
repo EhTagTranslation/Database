@@ -3522,6 +3522,7 @@ example:
 | kayama kifumi | 加山きふみ（樹八ウロ） |  |  |
 | tobari saru | トバリ猿 |  |  |
 | utsusumi kio | 空住キオ |  |  |
+| eshimoto | Eシモト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
