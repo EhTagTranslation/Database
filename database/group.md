@@ -2206,6 +2206,7 @@ example:
 | himeya | 姫屋 |  |  |
 | doanobu | どあのぶ |  |  |
 | bunka shinryaku | 文化☆侵略 |  |  |
+| gokudou daigensui | 極道大元帥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
