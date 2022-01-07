@@ -3519,6 +3519,7 @@ example:
 | tang-pong | Tang-Pong★ |  |  |
 | yamaimo tororo | 山芋とろろ |  |  |
 | furumoto takeru | 降本孟 |  |  |
+| kayama kifumi | 加山きふみ（樹八ウロ） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
