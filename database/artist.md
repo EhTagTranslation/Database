@@ -3501,6 +3501,7 @@ example:
 | yuruchin kyouso | ゆるちん教祖 |  |  |
 | mitsuki | ミツ季 |  |  |
 | momono yuuca | もものユーカ |  |  |
+| oyama kina | 大山樹奈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
