@@ -2204,6 +2204,7 @@ example:
 | kannko bokujyo | 缶子牧場 |  |  |
 | sencyairo | sencyairo |  |  |
 | himeya | 姫屋 |  |  |
+| doanobu | どあのぶ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
