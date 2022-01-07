@@ -3499,6 +3499,7 @@ example:
 | tachibana nagon | 立花なごん |  |  |
 | takoyaki rock | タコヤキロック |  |  |
 | yuruchin kyouso | ゆるちん教祖 |  |  |
+| mitsuki | ミツ季 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
