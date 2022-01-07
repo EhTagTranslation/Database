@@ -3518,6 +3518,7 @@ example:
 | tachibana roku | タチロク（MegaPantS） |  |  |
 | tang-pong | Tang-Pong★ |  |  |
 | yamaimo tororo | 山芋とろろ |  |  |
+| furumoto takeru | 降本孟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
