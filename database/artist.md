@@ -3493,6 +3493,7 @@ example:
 | g-wara | 爺わら |  |  |
 | ibarame hisa | 茨芽ヒサ |  |  |
 | aoyama kiiro. | あおやまきいろ。 |  |  |
+| ushiro muki | 丑露ムキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
