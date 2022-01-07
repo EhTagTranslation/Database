@@ -3521,6 +3521,7 @@ example:
 | furumoto takeru | 降本孟 |  |  |
 | kayama kifumi | 加山きふみ（樹八ウロ） |  |  |
 | tobari saru | トバリ猿 |  |  |
+| utsusumi kio | 空住キオ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
