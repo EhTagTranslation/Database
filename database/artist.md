@@ -3523,6 +3523,7 @@ example:
 | tobari saru | トバリ猿 |  |  |
 | utsusumi kio | 空住キオ |  |  |
 | eshimoto | Eシモト |  |  |
+| shingo. | Shingo. |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
