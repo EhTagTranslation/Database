@@ -3512,6 +3512,7 @@ example:
 | enoki | えのき |  |  |
 | mizuno cho | みずのちょう |  |  |
 | rca | rca |  |  |
+| satotuki tiyo | 里月ちよ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
