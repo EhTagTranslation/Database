@@ -3483,6 +3483,7 @@ example:
 | amatou | 甘党 |  | [Twitter](https://twitter.com/amatou111) [pixiv](https://www.pixiv.net/users/298982) |
 | aki akane | 秋赤音 |  |  |
 | lack | lack |  | [Twitter](https://twitter.com/lalalalack) [pixiv](https://www.pixiv.net/users/83739) |
+| morikoke | もり苔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
