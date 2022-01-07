@@ -3691,6 +3691,7 @@ example:
 | shifuna agato | 雪菲 |  |  |
 | miko yotsuya | 四谷见子 |  |  |
 | hana yurikawa | 百合川华 |  |  |
+| yuria niguredou | 二暮堂尤利娅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
