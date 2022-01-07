@@ -3503,6 +3503,7 @@ example:
 | momono yuuca | もものユーカ |  |  |
 | oyama kina | 大山樹奈 |  |  |
 | ronna | ろんな |  |  |
+| uranokyuu | ウラノキュウ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
