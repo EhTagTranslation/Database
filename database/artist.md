@@ -3486,6 +3486,7 @@ example:
 | morikoke | もり苔 |  |  |
 | tansuiken | 淡水犬 |  |  |
 | yamakonbu | やまこんぶ |  |  |
+| crew | クルー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
