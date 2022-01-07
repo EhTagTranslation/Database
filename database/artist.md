@@ -3498,6 +3498,7 @@ example:
 | igedoaha | イゲドアハ |  |  |
 | tachibana nagon | 立花なごん |  |  |
 | takoyaki rock | タコヤキロック |  |  |
+| yuruchin kyouso | ゆるちん教祖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
