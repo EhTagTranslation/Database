@@ -3510,6 +3510,7 @@ example:
 | pei | ぺい |  |  |
 | shimazu tekko | 島津鉄甲（raikoh） |  |  |
 | enoki | えのき |  |  |
+| mizuno cho | みずのちょう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
