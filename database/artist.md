@@ -3496,6 +3496,7 @@ example:
 | ushiro muki | 丑露ムキ |  |  |
 | uono shinome | 魚野シノメ |  |  |
 | igedoaha | イゲドアハ |  |  |
+| tachibana nagon | 立花なごん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
