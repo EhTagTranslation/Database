@@ -3497,6 +3497,7 @@ example:
 | uono shinome | 魚野シノメ |  |  |
 | igedoaha | イゲドアハ |  |  |
 | tachibana nagon | 立花なごん |  |  |
+| takoyaki rock | タコヤキロック |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
