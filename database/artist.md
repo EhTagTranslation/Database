@@ -3488,6 +3488,7 @@ example:
 | yamakonbu | やまこんぶ |  |  |
 | crew | クルー |  |  |
 | 88 | 88 |  |  |
+| toujou tsukushi | 東條土筆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
