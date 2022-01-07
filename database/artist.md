@@ -3504,6 +3504,7 @@ example:
 | oyama kina | 大山樹奈 |  |  |
 | ronna | ろんな |  |  |
 | uranokyuu | ウラノキュウ |  |  |
+| 7x2 | 7×2 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
