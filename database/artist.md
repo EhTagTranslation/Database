@@ -3494,6 +3494,7 @@ example:
 | ibarame hisa | 茨芽ヒサ |  |  |
 | aoyama kiiro. | あおやまきいろ。 |  |  |
 | ushiro muki | 丑露ムキ |  |  |
+| uono shinome | 魚野シノメ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
