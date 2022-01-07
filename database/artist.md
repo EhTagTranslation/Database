@@ -3515,6 +3515,7 @@ example:
 | satotuki tiyo | 里月ちよ |  |  |
 | gar | ガー |  |  |
 | shibaken goro | 柴犬五郎 |  |  |
+| tachibana roku | タチロク（MegaPantS） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
