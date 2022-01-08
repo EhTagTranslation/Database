@@ -2207,6 +2207,7 @@ example:
 | doanobu | どあのぶ |  |  |
 | bunka shinryaku | 文化☆侵略 |  |  |
 | gokudou daigensui | 極道大元帥 |  |  |
+| oojikake | 大仕掛け |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
