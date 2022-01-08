@@ -3525,6 +3525,7 @@ example:
 | eshimoto | Eシモト |  |  |
 | shingo. | Shingo. |  |  |
 | nedokoro mitsuki | ねどころみつき |  |  |
+| hoshi to lucky | ほしとラッキー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
