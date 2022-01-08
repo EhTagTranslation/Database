@@ -3524,6 +3524,7 @@ example:
 | utsusumi kio | 空住キオ |  |  |
 | eshimoto | Eシモト |  |  |
 | shingo. | Shingo. |  |  |
+| nedokoro mitsuki | ねどころみつき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
