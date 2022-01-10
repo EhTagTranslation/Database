@@ -3526,6 +3526,7 @@ example:
 | shingo. | Shingo. |  |  |
 | nedokoro mitsuki | ねどころみつき |  |  |
 | hoshi to lucky | ほしとラッキー |  |  |
+| fuzichoco | 藤ちょこ（藤原） | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[Pixiv](http://www.pixiv.net/member.php?id=27517)<br>[Twitter](https://twitter.com/fuzichoco) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
