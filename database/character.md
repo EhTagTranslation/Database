@@ -3097,7 +3097,7 @@ example:
 | aki suzuya | 铃谷秋 | 铃谷秋（Suzuya Aki）是隶属于彩虹社的虚拟YouTuber，粉丝群体群体称为アキネコ（秋猫？）。<br>初三生。看起来完全是女孩子的男孩。有看起来像是女孩的自觉，喜欢用小聪明来欺骗周围的人。性格有些腹黑，但是因为可爱所以做什么都会被原谅。 | [萌娘百科](https://zh.moegirl.org.cn/铃谷秋) |
 | yashiro kizuku | 社筑 | 社筑（日语：社築）是にじさんじ旗下的虚拟主播。从2018年6月5日开始在YouTube上活动，原SEEDs一期生出身。 | [萌娘百科](https://zh.moegirl.org.cn/社筑) |
 | uduki kou | 卯月光 |  | [萌娘百科](https://zh.moegirl.org.cn/卯月光) |
-| todoroki kyoko | 轟京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/轟京子) |
+| todoroki kyoko | 轰京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/轟京子) |
 | suzuki masaru | 铃木胜 | 鈴木勝（Suzuki Masaru）是彩虹社所属的Vitural YouTuber，设定为在虚拟世界出生的永远13岁的少年（中学二年级）。讨厌普通，想要以直播为契机达到帅气之极致，但是经常是瞎忙活。 | [萌娘百科](https://zh.moegirl.org.cn/铃木胜) |
 | ryushen | 绿仙 | 緑仙（緑仙 / Ryuu Shen）是一名从2018年6月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/绿仙) |
 | nakao azuma | 名伽尾吾妻 |  | [萌娘百科](https://zh.moegirl.org.cn/名伽尾吾妻) |
