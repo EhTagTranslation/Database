@@ -1627,7 +1627,7 @@ example:
 | rabi ribi | Rabi-Ribi |  |  |
 | little witch nobeta | 小魔女诺贝塔 | 《小魔女诺贝塔（Little Witch Nobeta）》是Pupuya Games旗下的3D动作射击游戏，于2020年6月24日在Steam发行。 |  |
 | mieruko-chan | 看得见的女孩 |  |  |
-| shigatsu wa kimi no uso | 四月は君の嘘 |  |  |
+| shigatsu wa kimi no uso | 四月是你的谎言 |  | [维基百科](https://zh.wikipedia.org/wiki/四月是你的謊言) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
