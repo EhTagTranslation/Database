@@ -3693,6 +3693,7 @@ example:
 | hana yurikawa | 百合川华 |  |  |
 | yuria niguredou | 二暮堂尤利娅 |  |  |
 | shenhe | 申鹤 |  |  |
+| futaba marui | 丸井双叶 | 《超元气三姐妹》三胞胎姐妹中的次女，性格天真活泼，运动神经超群，力气之大连父亲都能轻松举起，是个喜欢爸爸的天真孩子。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
