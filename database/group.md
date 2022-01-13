@@ -2210,6 +2210,7 @@ example:
 | oojikake | 大仕掛け |  |  |
 | illumination. | ゐるみねゐしょん。 |  |  |
 | sumi kara sumi made | スミカラスミマデ |  |  |
+| kankodori chaen | 閑古鳥茶園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
