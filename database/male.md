@@ -237,6 +237,7 @@ example:
 | mind control | 精神控制 | 迫使某人自己做某事。 |  |
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的男人。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
+| personality excretion | 人格排泄 | 参与者将他们的灵魂转移到某种物品（例如粪便、飞机杯或精液）中，然后排出体外，使他们的身体成为一个空壳。只有排出的过程计算在内。 |  |
 | possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender change`和`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
@@ -347,6 +348,7 @@ example:
 | birth | 出产 | 生物诞生的过程，在此之前一般会`pregnant`。 |  |
 | cervix prolapse | 宫颈脱垂 | 阴道壁膨胀出阴道。有时是`gaping`的后续。需要`prolapse`标签。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及`big clit`。依照被插入的一方标记命名空间。 |  |
+| clit stimulation | 阴蒂刺激 | 刺激阴蒂。 |  |
 | unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`birth`相反，因此不需要`birth`或`pregnant`标签。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 爆肛 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
@@ -406,6 +408,7 @@ example:
 | crossdressing | 异性装 | 男性女装。不应与`gender change`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg")![图](# "https://ehgt.org/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg")![图](# "https://ehgt.org/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg") |  |
 | diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与`age regression`、`scat`、`infantilism`或`urination`配对。 |  |
 | dougi | 练功服🥋 | 用于各种武术课和训练的服装。通常有一条单色配带。 |  |
+| exposed clothing | 开洞装 | 任何有开口的衣服，可以让其他人看到生殖器、肛门或乳头。<br>衣服必须处于原始状态（例如未撕裂）并按照预期穿着。除非有意想不到的洞，否则不适用于裙子或连衣裙。 |  |
 | fishnets | 渔网 | 由一种带有菱形开口针织物的图案制成的服装。必须覆盖至少一半的躯干或四肢（例如大腿，前臂等）。 |  |
 | fundoshi | 六尺褌 | 相扑手穿的丁字裤。 |  |
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的`stockings`。<br>![图](# "https://ehgt.org/e5/8c/e58c66ab448a6e377f43c58a97b7c7ef46cb0188-726693-1059-1500-jpg_l.jpg") |  |
@@ -559,7 +562,8 @@ example:
 |  | == 性别 == |  |  |
 | cuntboy | 人妖♀ | 有阴道而不是阴茎的男性。男性与`cuntboy`间的性行为不应添加`yaoi`或`males only`标签。如果男性拥有阴道和阴茎，请使用`otokofutanari`。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
-| gender change | 性转换 | 一个角色的身体改变了性别。如果这个过程是一个序列而不是突然变化，则可以使用`transformation`。不应与`body swap`或`crossdressing`混淆。不用于女性变为`futanari`的情况。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
+| gender change | 性转换 | 一个角色通过任何方式改变了他们通常的性别。（例如：`gender morph`，`possession`和`body swap`）。<br>不应与`crossdressing`混淆。女性变为`futanari`不符合条件。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
+| gender morph | gender morph | 角色的身体通过身体变形改变了原来的性别。如果显示为序列而不是突然变化，则可能会调用`transformation`。<br>需要`gender change`标签。不应与`possession`和`body swap`相混淆。女性变为`futanari`不符合条件。 |  |
 | otokofutanari | 扶他 | 同时拥有阴道和阴茎的男性。男性和`otokofutanari`之间的性行为不应添加`yaoi`或`males only`标签。如果男性只有阴道，请使用`cuntboy`。 |  |
 |  | === 性别 > 性别间关系 === |  |  |
 | bisexual | 双性恋 | 画廊中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
