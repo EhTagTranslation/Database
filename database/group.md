@@ -2209,6 +2209,7 @@ example:
 | gokudou daigensui | 極道大元帥 |  |  |
 | oojikake | 大仕掛け |  |  |
 | illumination. | ゐるみねゐしょん。 |  |  |
+| sumi kara sumi made | スミカラスミマデ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
