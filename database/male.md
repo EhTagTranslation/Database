@@ -227,7 +227,7 @@ example:
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与`ponytail`混淆。<br>![图](# "https://ehgt.org/8b/25/8b257a0bd05924548c279f6579d961ecade86240-684517-1024-576-png_l.jpg") |  |
 | very long hair | 超长发 | 大部分头发长度在肚脐以下或附近。由于被绑起来而无法达到该长度的头发不算。 |  |
 |  | === 头部 > 思维 === |  |  |
-| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender change`。 |  |
+| body swap | 换身 | 与另一名参与者交换身体。<br>不应与`possession`混淆。 |  |
 | chloroform | 迷药 | 任何物质用于在没有使用暴力的情况下使人失去知觉。 可能导致`rape`或`sleeping`。 |  |
 | corruption | 堕落 | 用魔法或其他超自然力量强硬地腐化某人的头脑，抢夺他们的纯洁。 有可能导致`transformation`、`monster`和`demon`。 |  |
 | drugs | 药物 | 任何用于鼓动滥交或快感的药物。不应与`chloroform`或`drunk`混淆。 |  |
@@ -238,7 +238,7 @@ example:
 | moral degeneration | 道德退化 | 消除一个人的性道德，有效地把他们变成随意的男人。 |  |
 | parasite | 寄生 | 感染宿主的小生物，通常会诱发性刺激。在某些情况下可以算作`possession`。 |  |
 | personality excretion | 人格排泄 | 参与者将他们的灵魂转移到某种物品（例如粪便、飞机杯或精液）中，然后排出体外，使他们的身体成为一个空壳。只有排出的过程计算在内。 |  |
-| possession | 附身 | 强行占有和控制一个甚至多个对象的身体。不应与`mind control`、`gender change`和`body swap`混淆。 |  |
+| possession | 附身 | 参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。<br>不应与`mind control`或`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
 |  | === 头部 > 眼睛 === |  |  |
@@ -563,7 +563,7 @@ example:
 | cuntboy | 人妖♀ | 有阴道而不是阴茎的男性。男性与`cuntboy`间的性行为不应添加`yaoi`或`males only`标签。如果男性拥有阴道和阴茎，请使用`otokofutanari`。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
 | gender change | 性转换 | 一个角色通过任何方式改变了他们通常的性别。（例如：`gender morph`，`possession`和`body swap`）。<br>不应与`crossdressing`混淆。女性变为`futanari`不符合条件。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
-| gender morph | gender morph | 角色的身体通过身体变形改变了原来的性别。如果显示为序列而不是突然变化，则可能会调用`transformation`。<br>需要`gender change`标签。不应与`possession`和`body swap`相混淆。女性变为`futanari`不符合条件。 |  |
+| gender morph | 女体化 | 角色的身体通过身体变形改变了原来的性别。如果显示为序列而不是突然变化，则可能会调用`transformation`。<br>需要`gender change`标签。不应与`possession`和`body swap`相混淆。女性变为`futanari`不符合条件。 |  |
 | otokofutanari | 扶他 | 同时拥有阴道和阴茎的男性。男性和`otokofutanari`之间的性行为不应添加`yaoi`或`males only`标签。如果男性只有阴道，请使用`cuntboy`。 |  |
 |  | === 性别 > 性别间关系 === |  |  |
 | bisexual | 双性恋 | 画廊中有与同性和异性都发生性行为的参与者。不应用于`dickgirl on dickgirl`。 |  |
