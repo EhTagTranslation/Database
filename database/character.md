@@ -3706,6 +3706,7 @@ example:
 | akeno himejima | 姬岛朱乃 | 姬岛朱乃（日语：ひめじま あけの）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/2/26/961ac124b899a901a546eaad1d950a7b0308f5e1.png) | [萌娘百科](https://zh.moegirl.org.cn/姬岛朱乃) |
 | asia argento | 爱莎·阿尔杰特 | 爱西亚·阿尔杰特是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/7/71/Asia_new.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
 | koneko toujou | 塔城小猫 | 塔城小猫（とうじょう こねこ）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://s2.loli.net/2022/01/16/Pk7SDN2IMFW4Lfn.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
+| rias gremory | 莉雅丝·吉蒙里 | 莉雅丝·吉蒙里是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/b/b3/Rias.Gremory.full.961374.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉雅丝·吉蒙里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
