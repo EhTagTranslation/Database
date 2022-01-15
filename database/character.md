@@ -3703,6 +3703,7 @@ example:
 | suzune shioyama | 汐山凉音 |  |  |
 | wakana gojou | 五条新菜 |  | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) |
 | marin kitagawa | 喜多川海梦 | 喜多川海梦（日语：喜多川（きたがわ） 海夢（まりん））是由福田晋一创作的漫画《更衣人偶坠入爱河》及其衍生作品中的登场角色。![图](https://img.moegirl.org.cn/common/thumb/e/ea/更衣人偶坠入爱河_Cover01.jpg/800px-更衣人偶坠入爱河_Cover01.jpg) | [萌娘百科](https://zh.moegirl.org.cn/喜多川海梦) |
+| akeno himejima | 姬岛朱乃 | 姬岛朱乃（日语：ひめじま あけの）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/2/26/961ac124b899a901a546eaad1d950a7b0308f5e1.png) | [萌娘百科](https://zh.moegirl.org.cn/姬岛朱乃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
