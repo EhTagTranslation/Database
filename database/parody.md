@@ -1628,7 +1628,7 @@ example:
 | little witch nobeta | 小魔女诺贝塔 | 《小魔女诺贝塔（Little Witch Nobeta）》是Pupuya Games旗下的3D动作射击游戏，于2020年6月24日在Steam发行。 |  |
 | mieruko-chan | 看得见的女孩 |  |  |
 | shigatsu wa kimi no uso | 四月是你的谎言 |  | [维基百科](https://zh.wikipedia.org/wiki/四月是你的謊言) |
-| my dress-up darling | 更衣人偶坠入爱河 | 《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品。于2018年1月19日发售的《YOUNG GANGAN》No.3开始连载[1]。作品讲述一个喜欢制作女儿节娃娃的男高中生凭著Cosplay结识同班的美少女辣妹的故事[2]。改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks。[图](https://img.moegirl.org.cn/common/4/43/更衣人偶坠入爱河001.jpg) | [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) |
+| my dress-up darling | 更衣人偶坠入爱河 | 《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品。于2018年1月19日发售的《YOUNG GANGAN》No.3开始连载[1]。作品讲述一个喜欢制作女儿节娃娃的男高中生凭著Cosplay结识同班的美少女辣妹的故事[2]。改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks。![图](https://img.moegirl.org.cn/common/4/43/更衣人偶坠入爱河001.jpg) | [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
