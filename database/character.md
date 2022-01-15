@@ -3701,6 +3701,7 @@ example:
 | nozomi sumizome | 墨染希 |  |  |
 | mei hiuchidani | 火打谷爱衣 |  |  |
 | suzune shioyama | 汐山凉音 |  |  |
+| wakana gojou | 五条新菜 |  | [萌娘百科](https://zh.moegirl.org.cn/五条新菜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
