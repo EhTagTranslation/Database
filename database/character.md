@@ -3707,6 +3707,7 @@ example:
 | asia argento | 爱莎·阿尔杰特 | 爱西亚·阿尔杰特是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/7/71/Asia_new.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
 | koneko toujou | 塔城小猫 | 塔城小猫（とうじょう こねこ）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://s2.loli.net/2022/01/16/Pk7SDN2IMFW4Lfn.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
 | rias gremory | 莉雅丝·吉蒙里 | 莉雅丝·吉蒙里是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/b/b3/Rias.Gremory.full.961374.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉雅丝·吉蒙里) |
+| amamiya kokoro | 天宫心 | 天宫心 （日语：天宮こころ / あまみや こころAmamiya Kokoro ）是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [天宫心 - 萌娘百科](https://zh.moegirl.org.cn/zh-hans/天宫心) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
