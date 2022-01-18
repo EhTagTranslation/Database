@@ -3535,6 +3535,7 @@ example:
 | nochanzero | Nochanzero | 社团`hell and heaven` |  |
 | 10eki | 10駅 |  | [pixiv](https://www.pixiv.net/users/2035361) |
 | voidmaki | Voidmaki |  | [pixiv](https://www.pixiv.net/users/15878365) |
+| star chaser | STAR☆CHASER |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
