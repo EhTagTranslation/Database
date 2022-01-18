@@ -3537,6 +3537,7 @@ example:
 | voidmaki | Voidmaki |  | [pixiv](https://www.pixiv.net/users/15878365) |
 | star chaser | STAR☆CHASER |  |  |
 | greko | Greko🔞 |  | [pixiv](https://www.pixiv.net/users/42434066) |
+| onikun | おにくん |  | [pixiv](https://www.pixiv.net/users/29373138) |
 
 <!--TEMPLATE:
 |  |  |  |  |
