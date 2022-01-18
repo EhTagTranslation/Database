@@ -3530,6 +3530,7 @@ example:
 | yuiga naoha | 由雅なおは |  |  |
 | tousen | 冬扇 |  |  |
 | edogawa roman | 江戸川浪漫 |  |  |
+| kurimoti tiduru | 栗餅ちづる |  | [个人主页](https://c2tiduru.wixsite.com/meisi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
