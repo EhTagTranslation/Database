@@ -3536,6 +3536,7 @@ example:
 | 10eki | 10駅 |  | [pixiv](https://www.pixiv.net/users/2035361) |
 | voidmaki | Voidmaki |  | [pixiv](https://www.pixiv.net/users/15878365) |
 | star chaser | STAR☆CHASER |  |  |
+| greko | Greko🔞 |  | [pixiv](https://www.pixiv.net/users/42434066) |
 
 <!--TEMPLATE:
 |  |  |  |  |
