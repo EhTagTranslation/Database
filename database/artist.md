@@ -3531,6 +3531,7 @@ example:
 | tousen | 冬扇 |  |  |
 | edogawa roman | 江戸川浪漫 |  |  |
 | kurimoti tiduru | 栗餅ちづる |  | [个人主页](https://c2tiduru.wixsite.com/meisi) |
+| the-sinner | The-Sinner | 社团`hell and heaven` |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
