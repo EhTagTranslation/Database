@@ -2216,6 +2216,7 @@ example:
 | tiba-santi | 千葉産地 |  |  |
 | yokoshoku ice | 洋紅色アイス |  |  |
 | nekomaru shouten | 猫マル商店 |  |  |
+| pandagaippiki. | パンダが一匹。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
