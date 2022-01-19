@@ -2214,6 +2214,7 @@ example:
 | hell and heaven | ヘルアンドヘブン |  | [pixiv](https://www.pixiv.net/users/31711080) |
 | kisarazu teikoku | きさらづ帝国 |  |  |
 | tiba-santi | 千葉産地 |  |  |
+| yokoshoku ice | 洋紅色アイス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
