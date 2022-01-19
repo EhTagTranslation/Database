@@ -3540,6 +3540,7 @@ example:
 | onikun | おにくん |  | [pixiv](https://www.pixiv.net/users/29373138) |
 | c ice | C\_ICE |  | [pixiv](https://www.pixiv.net/users/4772317) |
 | saitom | saitom |  | [Twitter](https://twitter.com/_saitom_) [pixiv](https://www.pixiv.net/users/152240) |
+| komi zumiko | コミズミコ |  | [Twitter](https://twitter.com/p1zm) [pixiv](https://www.pixiv.net/users/10751) |
 
 <!--TEMPLATE:
 |  |  |  |  |
