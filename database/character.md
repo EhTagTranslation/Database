@@ -3715,6 +3715,7 @@ example:
 | kirakishou | 雪华绮晶 |  |  |
 | kanaria | 金丝雀 |  |  |
 | suiseiseki | 翠星石 |  |  |
+| shinku | 真红 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
