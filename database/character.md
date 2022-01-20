@@ -3712,6 +3712,7 @@ example:
 | trish una | 特里休·乌纳 | 特里休·乌纳是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》第五部“黄金之风”及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/特里休·乌纳) (\*\*) |
 | kei shirogane | 白银圭 |  | [萌娘百科](https://zh.moegirl.org.cn/白银圭) |
 | suigintou | 水银灯 |  |  |
+| kirakishou | 雪华绮晶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
