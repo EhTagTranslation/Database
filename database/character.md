@@ -3718,6 +3718,7 @@ example:
 | shinku | 真红 |  |  |
 | hina ichigo | 雏莓 |  |  |
 | souseiseki | 苍星石 |  |  |
+| hood | 胡德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
