@@ -3714,6 +3714,7 @@ example:
 | suigintou | 水银灯 |  |  |
 | kirakishou | 雪华绮晶 |  |  |
 | kanaria | 金丝雀 |  |  |
+| suiseiseki | 翠星石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
