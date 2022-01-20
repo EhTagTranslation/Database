@@ -3717,6 +3717,7 @@ example:
 | suiseiseki | 翠星石 |  |  |
 | shinku | 真红 |  |  |
 | hina ichigo | 雏莓 |  |  |
+| souseiseki | 苍星石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
