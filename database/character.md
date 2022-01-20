@@ -3719,6 +3719,7 @@ example:
 | hina ichigo | 雏莓 |  |  |
 | souseiseki | 苍星石 |  |  |
 | hood | 胡德 |  |  |
+| mrs. yuigahama | 由比滨妈妈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
