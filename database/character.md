@@ -3716,6 +3716,7 @@ example:
 | kanaria | 金丝雀 |  |  |
 | suiseiseki | 翠星石 |  |  |
 | shinku | 真红 |  |  |
+| hina ichigo | 雏莓 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
