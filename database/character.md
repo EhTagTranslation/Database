@@ -3713,6 +3713,7 @@ example:
 | kei shirogane | 白银圭 |  | [萌娘百科](https://zh.moegirl.org.cn/白银圭) |
 | suigintou | 水银灯 |  |  |
 | kirakishou | 雪华绮晶 |  |  |
+| kanaria | 金丝雀 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
