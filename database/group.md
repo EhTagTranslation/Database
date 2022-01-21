@@ -2217,6 +2217,7 @@ example:
 | yokoshoku ice | 洋紅色アイス |  |  |
 | nekomaru shouten | 猫マル商店 |  |  |
 | pandagaippiki. | パンダが一匹。 |  |  |
+| tousen soudou | 冬扇草堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
