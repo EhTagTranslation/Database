@@ -3721,6 +3721,7 @@ example:
 | hood | 胡德 |  |  |
 | mrs. yuigahama | 由比滨妈妈 |  |  |
 | mudrock | 泥岩 | 明日方舟六星重装泥岩 |  |
+| nian | 年 | 明日方舟角色年 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
