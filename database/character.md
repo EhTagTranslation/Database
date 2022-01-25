@@ -3720,6 +3720,7 @@ example:
 | souseiseki | 苍星石 |  |  |
 | hood | 胡德 |  |  |
 | mrs. yuigahama | 由比滨妈妈 |  |  |
+| mudrock | 泥岩 | 明日方舟六星重装泥岩 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
