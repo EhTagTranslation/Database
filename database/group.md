@@ -2219,6 +2219,7 @@ example:
 | pandagaippiki. | パンダが一匹。 |  |  |
 | tousen soudou | 冬扇草堂 |  |  |
 | jukusei kakuzatou | 熟成角砂糖 |  |  |
+| mikenekohanten | 三毛猫饭店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
