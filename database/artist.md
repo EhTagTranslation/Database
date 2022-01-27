@@ -3542,6 +3542,7 @@ example:
 | saitom | saitom |  | [Twitter](https://twitter.com/_saitom_) [pixiv](https://www.pixiv.net/users/152240) |
 | komi zumiko | コミズミコ |  | [Twitter](https://twitter.com/p1zm) [pixiv](https://www.pixiv.net/users/10751) |
 | kawakami masaki | 川上真树 |  |  |
+| hizuki akira | 绯月Akira |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
