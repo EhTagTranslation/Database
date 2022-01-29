@@ -3545,6 +3545,7 @@ example:
 | hizuki akira | 绯月Akira |  |  |
 | cream cod | 奶油鳕鱼 |  |  |
 | yasuyuki | やすゆき |  |  |
+| hisama kumako | ひさまくまこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
