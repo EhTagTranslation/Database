@@ -3544,6 +3544,7 @@ example:
 | kawakami masaki | 川上真树 |  |  |
 | hizuki akira | 绯月Akira |  |  |
 | cream cod | 奶油鳕鱼 |  |  |
+| yasuyuki | やすゆき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
