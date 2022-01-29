@@ -1631,6 +1631,7 @@ example:
 | my dress-up darling | 更衣人偶坠入爱河 | 《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品。于2018年1月19日发售的《YOUNG GANGAN》No.3开始连载[1]。作品讲述一个喜欢制作女儿节娃娃的男高中生凭著Cosplay结识同班的美少女辣妹的故事[2]。改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks。![图](https://img.moegirl.org.cn/common/4/43/更衣人偶坠入爱河001.jpg) | [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) |
 | axis powers hetalia | 黑塔利亚 Axis Powers | 《黑塔利亚 Axis Powers》（日语：Axis powers ヘタリア，英语：Hetalia: Axis Powers），简称《黑塔利亚》或《APH（啊泼喝）》，是日丸屋秀和创作的一部网络漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/黑塔利亚) |
 | disney twisted-wonderland | 迪士尼扭曲仙境 | 《迪士尼扭曲仙境》（日语：ディズニーツイステッドワンダーランド；英语：Disney Twisted-Wonderland）是由Aniplex和Walt Disney Japan共同开发的一款手机游戏，由漫画家枢やな（枢梁）担任其原案、主线故事及角色设计。 | [萌娘百科](https://zh.moegirl.org.cn/迪士尼扭曲仙境) |
+| sono bisque doll wa koi o suru | 更衣人偶坠入爱河 | 由福田晋一创作的一部青年漫画，并有动画等衍生作品 | [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
