@@ -3546,6 +3546,7 @@ example:
 | cream cod | 奶油鳕鱼 |  |  |
 | yasuyuki | やすゆき |  |  |
 | hisama kumako | ひさまくまこ |  |  |
+| mikisai | みきさい |  | [Twitter](https://twitter.com/mikisaidayo) [pixiv](https://www.pixiv.net/users/22547711) |
 
 <!--TEMPLATE:
 |  |  |  |  |
