@@ -2222,6 +2222,7 @@ example:
 | mikenekohanten | 三毛猫饭店 |  |  |
 | kamikire basami | 紙切ればさみ |  |  |
 | undescribed | アンディスクライブド |  |  |
+| koharu syojo | 小春少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
