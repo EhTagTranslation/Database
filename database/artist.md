@@ -3548,6 +3548,7 @@ example:
 | hisama kumako | ひさまくまこ |  |  |
 | mikisai | みきさい |  | [Twitter](https://twitter.com/mikisaidayo) [pixiv](https://www.pixiv.net/users/22547711) |
 | kisaragi yuri | きさらぎゆり |  | [Twitter](https://twitter.com/kisaragi_h29) [pixiv](https://www.pixiv.net/users/3197898) |
+| ichikawa halu | いちかわはる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
