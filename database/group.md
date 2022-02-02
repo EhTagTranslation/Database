@@ -2223,6 +2223,7 @@ example:
 | kamikire basami | 紙切ればさみ |  |  |
 | undescribed | アンディスクライブド |  |  |
 | koharu syojo | 小春少女 |  |  |
+| hakai daiteikoku | 破坏大帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
