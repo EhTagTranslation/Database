@@ -2224,6 +2224,7 @@ example:
 | undescribed | アンディスクライブド |  |  |
 | koharu syojo | 小春少女 |  |  |
 | hakai daiteikoku | 破坏大帝国 |  |  |
+| gusha suumitsuin | 愚者枢密院 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
