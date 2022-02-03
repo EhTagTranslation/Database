@@ -1633,6 +1633,7 @@ example:
 | disney twisted-wonderland | 迪士尼扭曲仙境 | 《迪士尼扭曲仙境》（日语：ディズニーツイステッドワンダーランド；英语：Disney Twisted-Wonderland）是由Aniplex和Walt Disney Japan共同开发的一款手机游戏，由漫画家枢やな（枢梁）担任其原案、主线故事及角色设计。 | [萌娘百科](https://zh.moegirl.org.cn/迪士尼扭曲仙境) |
 | sono bisque doll wa koi o suru | 更衣人偶坠入爱河 | 由福田晋一创作的一部青年漫画，并有动画等衍生作品<br>原作于SQUARE ENIX所发行的青年漫画杂志《YOUNG GANGAN》2018年1月（2018 No.03）开始连载<br>改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks<br>![图](https://img.moegirl.org.cn/common/4/43/更衣人偶坠入爱河001.jpg)<br>![图](https://img.moegirl.org.cn/common/thumb/0/0f/Bisquedoll_KV2.jpg/300px-Bisquedoll_KV2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) [维基百科](https://zh.wikipedia.org/wiki/戀上換裝娃娃) [漫画官网](https://magazine.jp.square-enix.com/yg/introduction/sonobisque/) [动画官网](https://bisquedoll-anime.com/) [动画官方Twitter](https://twitter.com/kisekoi_anime) |
 | hypnosis mic | 催眠麦克风 |  |  |
+| project sekai | 世界计划 | 《世界计划 缤纷舞台！ feat.初音未来》<br>日语：プロジェクトセカイ カラフルステージ！ feat.初音ミク，<br>英语：Project Sekai: Colorful Stage feat. Hatsune Miku，<br>简称《世界计划》（日语：プロセカ），是基于抽卡的视觉小说风格音乐手机游戏 | [官网地址](https://pjsekai.sega.jp/) [维基百科](https://zh.wikipedia.org/wiki/世界计划_缤纷舞台！_feat.初音未来) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
