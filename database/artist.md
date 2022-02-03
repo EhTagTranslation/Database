@@ -1549,7 +1549,7 @@ example:
 | hidiri rei | ヒヂリレイ |  |  |
 | nadeara bukichi | 抚荒武吉 |  |  |
 | qoopie | Qoopie |  |  |
-| kanbe chuji | かんべ忠治 |  |  |
+| kanbe chuji | かんべ忠治 |  | [pixiv](https://www.pixiv.net/users/1024383) [Twitter](https://twitter.com/sushipuri) |
 | shuten douji | 酒呑童子 |  |  |
 | murlachrot | みうらっは |  |  |
 | tanaha | 棚叶 |  |  |
