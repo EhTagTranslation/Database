@@ -3551,6 +3551,7 @@ example:
 | ichikawa halu | いちかわはる |  |  |
 | betm | 杯面 |  | [pixiv](https://www.pixiv.net/users/3110062)  [Twitter](https://twitter.com/beitemian) [微博](https://weibo.com/5657120464) |
 | bttn | bttn | ![头像](https://pbs.twimg.com/profile_images/1442118739424546820/400LyRPk_200x200.jpg) | [pixiv](https://www.pixiv.net/users/4606746) [Twitter](https://twitter.com/batsusuke_x) [哔哩哔哩](https://space.bilibili.com/549459834/dynamic) |
+| hao | はお |  | [pixiv](https://www.pixiv.net/users/54370838) [Twitter](https://twitter.com/haozz_) |
 
 <!--TEMPLATE:
 |  |  |  |  |
