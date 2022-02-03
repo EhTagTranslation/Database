@@ -1423,7 +1423,7 @@ example:
 | shomin sample | 我被绑架到贵族女校当“庶民样本” | 《我被绑架到贵族女校当“庶民样本”》（日语：俺がお嬢様学校に「庶民サンプル」として拉致られた件）是七月隆文写作、闰月戈插画的日本轻小说作品。2011年起由一迅社《一迅社文库》刊行，已于2016年7月20日完结。 | [维基百科](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」) (\*) |
 | arknights | 明日方舟 | 《明日方舟》（Arknights）是由上海鹰角网络科技有限公司开发的策略塔防及收集养成类游戏。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟) (\*\*) |
 | kimetsu no yaiba | 鬼灭之刃 |  |  |
-| tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影。 |  |
+| tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影，由Comix Wave Films制作<br>于2019年7月19日在日本上映，4D版于2019年9月27日在日本上映。 | [萌娘百科](https://zh.moegirl.org.cn/天气之子) [维基百科](https://zh.wikipedia.org/wiki/天气之子) |
 | arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
 | asobi asobase | 游戏3人娘 | 生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏人间研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！ | [萌娘百科](https://zh.moegirl.org.cn/游戏3人娘) [维基百科](https://zh.wikipedia.org/wiki/遊戲3人娘) |
 | zombie land saga | 佐贺偶像是传奇 | 《佐贺偶像是传奇》（日语：ゾンビランドサガ）是由MAPPA、avex pictures、Cygames合作推出的原创动画。由MAPPA负责动画制作，境宗久导演，村越繁负责剧本构成，深川可纯担任角色设计。电视动画全12话，于2018年10月4日开始播出。宣传语是“新感觉僵尸系动画”。 | [萌娘百科](https://zh.moegirl.org.cn/佐贺偶像是传奇) [维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
