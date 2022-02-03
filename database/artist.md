@@ -3553,6 +3553,7 @@ example:
 | bttn | bttn | ![头像](https://pbs.twimg.com/profile_images/1442118739424546820/400LyRPk_200x200.jpg) | [pixiv](https://www.pixiv.net/users/4606746) [Twitter](https://twitter.com/batsusuke_x) [哔哩哔哩](https://space.bilibili.com/549459834/dynamic) |
 | hao | はお |  | [pixiv](https://www.pixiv.net/users/54370838) [Twitter](https://twitter.com/haozz_) |
 | wool | うーる |  | [pixiv](https://pixiv.net/users/25813488) [Twitter](https://twitter.com/wool_forest) |
+| dainyu | 代入 |  | [Twitter](https://twitter.com/dainyudougumo) [pixiv](https://www.pixiv.net/users/2179140) |
 
 <!--TEMPLATE:
 |  |  |  |  |
