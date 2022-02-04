@@ -3555,6 +3555,7 @@ example:
 | wool | うーる |  | [pixiv](https://pixiv.net/users/25813488) [Twitter](https://twitter.com/wool_forest) |
 | dainyu | 代入 |  | [Twitter](https://twitter.com/dainyudougumo) [pixiv](https://www.pixiv.net/users/2179140) |
 | koshino | こしの |  |  |
+| haiki | はいき |  | [Twitter](https://twitter.com/haiki396g) [pixiv](https://www.pixiv.net/users/1656135) |
 
 <!--TEMPLATE:
 |  |  |  |  |
