@@ -3727,6 +3727,7 @@ example:
 | dusk | 夕 | 夕是手机游戏《明日方舟》中的六星术师职业扩散术师分支干员 |  |
 | sabrina | 娜姿 |  |  |
 | nagao kagetora | 长尾景虎 |  |  |
+| shirabe tsukuyomi | 月读调 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
