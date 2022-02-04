@@ -3556,6 +3556,7 @@ example:
 | dainyu | 代入 |  | [Twitter](https://twitter.com/dainyudougumo) [pixiv](https://www.pixiv.net/users/2179140) |
 | koshino | こしの |  |  |
 | haiki | はいき |  | [Twitter](https://twitter.com/haiki396g) [pixiv](https://www.pixiv.net/users/1656135) |
+| 50 percent off | 50%OFF | ![头像](https://pbs.twimg.com/profile_images/1457446556291190784/sezMw1DX_200x200.jpg) | [Twitter](https://twitter.com/_50off_) [pixiv](https://www.pixiv.net/users/29200025) |
 
 <!--TEMPLATE:
 |  |  |  |  |
