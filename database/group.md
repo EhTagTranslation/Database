@@ -1585,7 +1585,7 @@ example:
 | iorigumi | 庵組 |  |  |
 | kedama gyuunyuu | 毛玉牛乳 |  |  |
 | gyuunyuuya-san | 牛乳屋さん |  |  |
-| senpenbankashiki | 千変万化式 |  |  |
+| senpenbankashiki | 千变万化式 |  |  |
 | amakuchi syoujo | あまくち少女 | 画师`umakuchi syouyu`所属社团，主打舰C时雨本。 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44653.html) |
 | akutoku doumei | 悪徳同盟 |  |  |
 | andorogynous | ANDOROGYNOUS |  |  |
