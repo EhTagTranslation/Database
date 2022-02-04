@@ -3728,6 +3728,7 @@ example:
 | sabrina | 娜姿 |  |  |
 | nagao kagetora | 长尾景虎 |  |  |
 | shirabe tsukuyomi | 月读调 |  |  |
+| chris yukine | 雪音克莉丝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
