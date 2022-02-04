@@ -3730,6 +3730,7 @@ example:
 | shirabe tsukuyomi | 月读调 |  |  |
 | chris yukine | 雪音克莉丝 |  |  |
 | hibiki tachibana | 立花响 |  |  |
+| miku kohinata | 小日向未来 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
