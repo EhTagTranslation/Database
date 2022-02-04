@@ -3729,6 +3729,7 @@ example:
 | nagao kagetora | 长尾景虎 |  |  |
 | shirabe tsukuyomi | 月读调 |  |  |
 | chris yukine | 雪音克莉丝 |  |  |
+| hibiki tachibana | 立花响 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
