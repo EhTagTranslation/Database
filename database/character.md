@@ -3731,7 +3731,7 @@ example:
 | chris yukine | 雪音克莉丝 |  |  |
 | hibiki tachibana | 立花响 |  |  |
 | miku kohinata | 小日向未来 |  |  |
-| gardevoir | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |  | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
+| gardevoir | 沙奈朵 |  | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
