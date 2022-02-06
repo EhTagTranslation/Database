@@ -3732,6 +3732,7 @@ example:
 | hibiki tachibana | 立花响 |  |  |
 | miku kohinata | 小日向未来 |  |  |
 | gardevoir | 沙奈朵 |  | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
+| celestine lucullus | 塞蕾斯汀·卢库勒斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
