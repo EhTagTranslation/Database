@@ -3552,7 +3552,7 @@ example:
 | betm | 杯面 |  | [pixiv](https://www.pixiv.net/users/3110062)  [Twitter](https://twitter.com/beitemian) [微博](https://weibo.com/5657120464) |
 | bttn | bttn | ![头像](https://pbs.twimg.com/profile_images/1442118739424546820/400LyRPk_200x200.jpg) | [pixiv](https://www.pixiv.net/users/4606746) [Twitter](https://twitter.com/batsusuke_x) [哔哩哔哩](https://space.bilibili.com/549459834/dynamic) |
 | hao | はお |  | [pixiv](https://www.pixiv.net/users/54370838) [Twitter](https://twitter.com/haozz_) |
-| wool | うーる |  | [pixiv](https://pixiv.net/users/25813488) [Twitter](https://twitter.com/wool_forest) |
+| wool | うーる | ![替换文字](https://ruqbqvz.tdtrerwopeqn.hath.network:2242/h/973cb6e02091e55f4a19342138ef36505934d924-358594-1100-1100-png/keystamp=1644215700-e6ff86364f;fileindex=88055185;xres=org/01000_icon.png) | [pixiv](https://pixiv.net/users/25813488) [Twitter](https://twitter.com/wool_forest) |
 | dainyu | 代入 |  | [Twitter](https://twitter.com/dainyudougumo) [pixiv](https://www.pixiv.net/users/2179140) |
 | koshino | こしの |  |  |
 | haiki | はいき |  | [Twitter](https://twitter.com/haiki396g) [pixiv](https://www.pixiv.net/users/1656135) |
