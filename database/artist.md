@@ -3560,6 +3560,7 @@ example:
 | shiba kumiko | 柴くみこ |  | [Twitter](https://twitter.com/Aleron_Akaash)<br>[pixiv](https://www.pixiv.net/users/3220191) |
 | tousaki shiina | 凍咲しいな |  |  |
 | shiba yuuji | 司馬ゆうじ |  | [Twitter](https://twitter.com/shibayuji003) |
+| ruki | 琉希 | ![头像](https://pbs.twimg.com/profile_images/1423554923443101699/k9OTLfkc_200x200.jpg) | [Twitter](https://twitter.com/ruki_amemiya) [pixiv](https://www.pixiv.net/users/4992423) |
 
 <!--TEMPLATE:
 |  |  |  |  |
