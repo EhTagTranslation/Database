@@ -860,6 +860,7 @@ example:
 | natsuha arisugawa | 有栖川夏叶 |  |  |
 |  | 天井努 |  |  |
 | hazuki nanakusa | 七草叶月 |  |  |
+| nichika nanakusa | 七草日花 |  |  |
 | arisa mochida | 持田亚里沙 |  |  |
 | fuyuko mayuzumi | 黛冬优子 |  |  |
 | mei izumi | 和泉爱依 |  |  |
@@ -2539,7 +2540,7 @@ example:
 |  |  | 2期 |  |
 | minato aqua | 凑阿库娅 | 湊 あくあ（みなと あくあ，Minato Aqua）是从属于hololive二期生的`vtuber`，2018年7月末开始活动。首个视频上传于8月8日。<br>![大亏哥](https://img.moegirl.org.cn/common/f/f8/Minato_Aqua.png) | [萌娘百科](https://zh.moegirl.org.cn/凑阿库娅) |
 | murasaki shion | 紫咲诗音 | 紫咲诗音（紫咲 シオン／Murasaki Shion）是在2018年8月17日在YouTube开始活动的`vtuber`，所属业界团体hololive的二期生。<br>![小学生](https://img.moegirl.org.cn/common/e/e5/Murasaki_Shion.png) | [萌娘百科](https://zh.moegirl.org.cn/紫咲诗音) |
-| ayame nakiri | 百鬼绫目 | 百鬼绫目（日语：百鬼あやめ／なきりあやめ Nakiri Ayame）是从2018年9月3日在YouTube开始活动的`vtuber`，所属业界团体hololive的二期生。其形象为日本文化中的鬼神，由神乐七奈（画师用名>ななかぐら）设计。<br>![狗狗](https://img.moegirl.org.cn/common/d/d6/Nakiri_Ayame.png) | [萌娘百科](https://zh.moegirl.org.cn/百鬼绫目) |
+| nakiri ayame | 百鬼绫目 | 百鬼绫目（日语：百鬼あやめ／なきりあやめ Nakiri Ayame）是从2018年9月3日在YouTube开始活动的`vtuber`，所属业界团体hololive的二期生。其形象为日本文化中的鬼神，由神乐七奈（画师用名>ななかぐら）设计。<br>![狗狗](https://img.moegirl.org.cn/common/d/d6/Nakiri_Ayame.png) | [萌娘百科](https://zh.moegirl.org.cn/百鬼绫目) |
 | yuzuki choco | 癒月巧可 | 癒月巧可（癒月 ちょこ／Yuzuki Choco）是从2018年9月4日在YouTube开始活动的`vtuber`，所属业界团体hololive的二期生。<br>![巧可老师](https://img.moegirl.org.cn/common/6/60/Yuzuki_Choco.png) | [萌娘百科](https://zh.moegirl.org.cn/愈月巧可) |
 | oozora subaru | 大空昴 | 大空昴（大空 スバル／Ōzora Subaru）是从2018年9月16日在YouTube开始活动的`vtuber`，所属业界团体hololive的二期生。<br>![](https://img.moegirl.org.cn/common/2/2c/Ōzora_Subaru.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/大空昴) |
 |  |  | GAMERS |  |
@@ -3652,6 +3653,7 @@ example:
 | lanzhu zhong | 钟岚珠 |  |  |
 | kanon shibuya | 涩谷香音 | “你好，谢谢，小笼包，再见！” |  |
 | chisato arashi | 岚千砂都 |  |  |
+| mia taylor | 米娅·泰勒 |  |  |
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
 | sakura yae | 八重樱 |  |  |
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
