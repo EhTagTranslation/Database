@@ -3738,6 +3738,7 @@ example:
 | lucario | 路卡利欧 |  |  |
 | eren jaeger | 艾伦·耶格尔 |  |  |
 | mikasa ackerman | 三笠·阿克曼 |  |  |
+| armin arlert | 阿明·阿诺德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
