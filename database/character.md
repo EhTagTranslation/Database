@@ -3737,6 +3737,7 @@ example:
 | celestine lucullus | 塞蕾斯汀·卢库勒斯 |  |  |
 | lucario | 路卡利欧 |  |  |
 | eren jaeger | 艾伦·耶格尔 |  |  |
+| mikasa ackerman | 三笠·阿克曼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
