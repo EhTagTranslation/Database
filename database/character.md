@@ -3743,6 +3743,7 @@ example:
 | hilda boreas greyrat | 希尔达·伯雷亚斯·格雷拉特 |  |  |
 | zenith greyrat | 塞妮丝·格雷拉特 |  |  |
 | lilia greyrat | 莉莉雅·格雷拉特 |  |  |
+| hakunon | 白野（扎比子） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
