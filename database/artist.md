@@ -3564,6 +3564,7 @@ example:
 | longbow flintlock | 长弓燧龙 |  |  |
 | milkybot | Milkybot | ![头像](https://pbs.twimg.com/profile_images/1379463420412628993/-sUYBS86_200x200.jpg) | [Twitter](https://twitter.com/milkytiger1145)  [微博](https://weibo.com/u/6858738227) [pixiv](https://www.pixiv.net/users/16603288) |
 | kyougoku touya | 京極燈弥 |  |  |
+| ikutsuki | イクツキ |  | [Twitter](https://twitter.com/ikutsukisakito) |
 
 <!--TEMPLATE:
 |  |  |  |  |
