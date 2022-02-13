@@ -3740,6 +3740,7 @@ example:
 | mikasa ackerman | 三笠·阿克曼 |  |  |
 | armin arlert | 阿明·阿诺德 |  |  |
 | clarisse | 克拉莉丝 |  |  |
+| hilda boreas greyrat | 希尔达·伯雷亚斯·格雷拉特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
