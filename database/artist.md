@@ -3566,6 +3566,7 @@ example:
 | kyougoku touya | 京極燈弥 |  |  |
 | ikutsuki | イクツキ |  | [Twitter](https://twitter.com/ikutsukisakito) |
 | mitarou | ミタロウ |  | [pixiv](https://www.pixiv.net/users/3429573) |
+| higuchi isami | ひぐちいさみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
