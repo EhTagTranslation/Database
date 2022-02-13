@@ -3742,6 +3742,7 @@ example:
 | clarisse | 克拉莉丝 |  |  |
 | hilda boreas greyrat | 希尔达·伯雷亚斯·格雷拉特 |  |  |
 | zenith greyrat | 塞妮丝·格雷拉特 |  |  |
+| lilia greyrat | 莉莉雅·格雷拉特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
