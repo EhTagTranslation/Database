@@ -3744,6 +3744,7 @@ example:
 | zenith greyrat | 塞妮丝·格雷拉特 |  |  |
 | lilia greyrat | 莉莉雅·格雷拉特 |  |  |
 | hakunon | 白野（扎比子） |  |  |
+| yoshikage kira | 吉良吉影 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
