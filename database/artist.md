@@ -3567,6 +3567,7 @@ example:
 | ikutsuki | イクツキ |  | [Twitter](https://twitter.com/ikutsukisakito) |
 | mitarou | ミタロウ |  | [pixiv](https://www.pixiv.net/users/3429573) |
 | higuchi isami | ひぐちいさみ |  |  |
+| yuuki rika | 結城リカ | [pixiv](https://www.pixiv.net/users/275527) [Twitter](https://twitter.com/yuuki_sw) |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
