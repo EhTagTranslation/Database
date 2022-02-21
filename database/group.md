@@ -2227,6 +2227,7 @@ example:
 | gusha suumitsuin | 愚者枢密院 |  |  |
 | kotsubuan | こつぶあん |  |  |
 | gokusaishiki | 极彩色 |  |  |
+| kirintei | 木铃亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
