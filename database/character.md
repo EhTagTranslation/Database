@@ -3745,7 +3745,7 @@ example:
 | lilia greyrat | 莉莉雅·格雷拉特 |  |  |
 | hakunon | 白野（扎比子） |  |  |
 | yoshikage kira | 吉良吉影 |  |  |
-| fuka toyokawa | 丰川凤花 |  |  |
+| fuka toyokawa | 丰川风花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
