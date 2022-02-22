@@ -3747,6 +3747,7 @@ example:
 | yoshikage kira | 吉良吉影 |  |  |
 | fuka toyokawa | 丰川风花 |  |  |
 | kana yabuki | 矢吹可奈 |  |  |
+| ayumu maihama | 舞浜歩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
