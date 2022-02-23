@@ -341,7 +341,6 @@ example:
 | kamen rider den-o | 假面骑士电王 |  |  |
 | kamen rider fourze | 假面骑士Fourze |  |  |
 | kamen rider ooo | 假面骑士OOO |  |  |
-| kamen rider shin | 真·假面骑士 |  |  |
 |  | ▲假面骑士 系列 |  |  |
 | kaiji | 赌博默示录 | 逆境无赖 |  |
 | my hero academia | 我的英雄学院 |  |  |
@@ -843,7 +842,7 @@ example:
 | cinderella | 灰姑娘 |  |  |
 | k.o. beast | KO世纪三兽士 |  |  |
 | trapp family story | 崔普一家物语 |  |  |
-| wakakusa monogatari nan to jou sensei | 小妇人物语 南与乔老师 |  |  |
+| wakakusa monogatari nan to jo-sensei | 小妇人物语 南与乔老师 |  |  |
 | watashi no ashinaga ojisan | 长腿叔叔 |  |  |
 | nurse angel ririka sos | 守护天使莉莉佳 |  |  |
 | youre under arrest | 逮捕令 |  |  |
@@ -1555,7 +1554,7 @@ example:
 | wrestle angels | 摔角天使 |  |  |
 | nijisanji | ![nijisanji](https://raw.githubusercontent.com/ShuraragiYomiko/ImageforETT/master/NameIcon/nijisanji.gif)彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。<br>![](https://www.nijisanji.jp/static/logo/nijisanji_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
 | blue archive | 碧蓝档案 |  |  |
-| the legend of luoxiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
+| the legend of luo xiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
 | sk8 the infinity | SK8 无限滑板 | 《SK8 the Infinity》（日语：SK∞ エスケーエイト，中文：SK8 无限滑板）是由日本动画公司BONES所制作的原创滑板题材电视动画。 | [官网地址](https://sk8-project.com/) |
 | beatmania | 狂热节拍 |  | [维基百科](https://zh.wikipedia.org/wiki/狂热节拍) |
 | honzuki no gekokujou | 小书痴的下克上 | 《小书痴的下克上：为了成为图书管理员不择手段！》（日语：本好きの下剋上～司書になるためには手段を選んでいられません～）是由香月美夜原作、椎名优插画的一部轻小说，并有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/小書痴的下剋上)<br>[萌娘百科](https://zh.moegirl.org.cn/小书痴的下克上) |
