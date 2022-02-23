@@ -226,7 +226,6 @@ example:
 | kiira | きぃら～☆ |  |  |
 | kanoe | 庚 |  |  |
 | daichi kouta | 大地巧太 |  |  |
-| hirotake awataka | 弘岳粟高 |  |  |
 | kylin | Kylin |  |  |
 | morishima kon | 森島コン |  | [pixiv](https://www.pixiv.net/users/2634234) [Twitter](https://twitter.com/kon_004) |
 | mdo-h | 无道睿智 | 無道叡智<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/04/05/10/26/29/20480805_9f04fce0df0b9effba821335b892e257_170.png) | [Twitter](https://twitter.com/mdoh02) [Pixiv](https://www.pixiv.net/users/4144) [Fanbox](https://mdo-h.fanbox.cc/) |
@@ -775,7 +774,6 @@ example:
 | ryoh-zoh | 椋藏 |  |  |
 | shouji nigou | 庄司二号 |  | [Twitter](https://twitter.com/syoujinigou) [pixiv](https://www.pixiv.net/users/499426) |
 | henrybird | 半里バード9 |  |  |
-| shennai misha | 鬼父神奈 |  |  |
 | homing | ホーミング |  |  |
 | kageno illyss | 影乃いりす | 影乃いりす<br>成人向漫画家、同人志创作者。<br>作品以`lolicon`系或`small breasts`少女为主。<br>单行本《何度生まれ変わってもきっと》<br>![图](# "https://ehgt.org/cd/e5/cde56ab8eaacb56e61fabfa5003be409089bb25a-470981-845-1200-jpg_l.jpg") |  |
 | katou jun | 加藤じゅん |  |  |
@@ -3142,7 +3140,6 @@ example:
 | ootsuka mahiro | 大塚まひろ |  |  |
 | fuyuichi monme | 冬壱もんめ |  |  |
 | momosawa | ももさわ |  |  |
-| sabaku | 砂漠 |  |  |
 | sangatsu sanichi | 三月さんいち |  |  |
 | konnyaku | こんにゃく |  |  |
 | yaminabe | やみなべ |  |  |

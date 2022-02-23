@@ -1458,7 +1458,7 @@ example:
 | da hootch | DA HOOTCH |  |  |
 | hooliganism | 集团暴力 |  |  |
 | eroquis | EROQUIS! |  |  |
-| 18master | マママスター |  |  |
+| 18master | 18マスター |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34182.html) [Twitter](https://twitter.com/elcpehsscjwxjsf) |
 | date in vitro | Date in vitro |  |  |
 | yamanotesen | 山手线 |  |  |
 | lovewn outpost | Lovewn Outpost |  |  |
