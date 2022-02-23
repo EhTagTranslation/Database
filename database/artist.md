@@ -3553,7 +3553,7 @@ example:
 | tousaki shiina | 凍咲しいな |  |  |
 | shiba yuuji | 司馬ゆうじ |  | [Twitter](https://twitter.com/shibayuji003) |
 | ruki | 琉希 | ![头像](https://pbs.twimg.com/profile_images/1423554923443101699/k9OTLfkc_200x200.jpg) | [Twitter](https://twitter.com/ruki_amemiya) [pixiv](https://www.pixiv.net/users/4992423) |
-| longbow flintlock | 长弓燧龙 |  |  |
+| longbow flintlock | 长弓燧龙 | 名言"总有一天你们会看着我画的东西撸"的作者 |  |
 | milkybot | Milkybot | ![头像](https://pbs.twimg.com/profile_images/1379463420412628993/-sUYBS86_200x200.jpg) | [Twitter](https://twitter.com/milkytiger1145)  [微博](https://weibo.com/u/6858738227) [pixiv](https://www.pixiv.net/users/16603288) |
 | kyougoku touya | 京極燈弥 |  |  |
 | ikutsuki | イクツキ |  | [Twitter](https://twitter.com/ikutsukisakito) |
