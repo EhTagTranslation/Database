@@ -40,14 +40,6 @@
   
   这一针打下去你就会说中文了。
 
-* [EhTagBuilder](//github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
-  ![WEB][plat-web]  
-  > 本项目的前身，使用 UserScript 实现，已被 EhSyringe 取代。
-
-  EhTagBuilder 简称 "ETB"。
-
-  翻译实现方式：ETB 先获取 Wiki 数据库网页，获得翻译数据，生成对应格式的 CSS 代码，再由 Stylus 扩展附加到 E 绅士网页上。
-
 * [E-Viewer](//github.com/OpportunityLiu/E-Viewer)  
   ![UWP][plat-uwp]  ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
@@ -65,6 +57,16 @@
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![iOS][plat-ios]  ![Adnroid][plat-android]  ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个由 Flutter 编写的阅读器，支持直连。
+
+### 已停止维护
+
+* [EhTagBuilder](//github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
+  ![WEB][plat-web]  
+  > 本项目的前身，使用 UserScript 实现，已被 EhSyringe 取代。
+
+  EhTagBuilder 简称 "ETB"。
+
+  翻译实现方式：ETB 先获取 Wiki 数据库网页，获得翻译数据，生成对应格式的 CSS 代码，再由 Stylus 扩展附加到 E 绅士网页上。
 
 * [Dai-Hentai](//github.com/DaidoujiChen/Dai-Hentai)  
   ![iOS][plat-ios]  ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
