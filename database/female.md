@@ -130,6 +130,7 @@ example:
 | animal on furry | 兽毛 | 动物与`furry`角色间的性行为。 |  |
 | bear | 熊🐻 | 任何熊科动物。 |  |
 | bestiality | 兽交 | 人与动物间的性行为。<br>![图](# "https://ehgt.org/e8/7f/e87f4cec202df2c0a59e1a20342ab4c060d3218e-710416-800-600-png_l.jpg")![图](# "https://ehgt.org/77/4b/774babb0a0ac5c374ebdbc610f344a734b5feb3d-509453-800-600-png_l.jpg") |  |
+| camel | 骆驼🐪 | 任何类型的骆驼属动物。 |  |
 | cat | 猫🐈 | 任何小型猫科动物。 |  |
 | cow | 牛🐄 | 任何雌性牛科动物。 |  |
 | crab | 螃蟹🦀 | 任何有壳的甲壳动物。 |  |
@@ -144,6 +145,8 @@ example:
 | fish | 鱼🐟 | 任何非细长的水生无肢动物。 |  |
 | fox | 狐狸🦊 | 任何犬科动物。 |  |
 | frog | 青蛙🐸 | 任何无尾目动物。 |  |
+| goat | 山羊🐐 | 任何山羊属动物。 |  |
+| gorilla | 猩猩🦍 | 任何大型灵长目动物。 |  |
 | horse | 马🐎 | 任何无条纹的马属动物。 |  |
 | insect | 昆虫🐜 | 任何陆生无脊椎动物。 |  |
 | kangaroo | 袋鼠 | 任何有袋类动物。 |  |
@@ -152,6 +155,8 @@ example:
 | monkey | 猴🐒 | 任何小型灵长目动物。 |  |
 | mouse | 鼠🐁 | 任何啮齿目动物。 |  |
 | octopus | 章鱼🦑 | 任何头足纲动物。 |  |
+| ostrich | 鸵鸟 | 任何长颈无飞行能力的鸟纲动物。 |  |
+| panther | 豹🐆 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 |  |
 | pig | 猪🐖 | 任何猪属动物。 |  |
 | rabbit | 兔🐇 | 任何兔科动物。 |  |
 | reptile | 爬虫 | 任何爬行动物。 |  |
