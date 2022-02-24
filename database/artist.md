@@ -3570,6 +3570,7 @@ example:
 | yuuki rika | 結城リカ | [pixiv](https://www.pixiv.net/users/275527) [Twitter](https://twitter.com/yuuki_sw) |  |
 | meicha | 冥茶 |  |  |
 | shinoda kazuhiro | 篠田一宏 |  |  |
+| cure slum | キュアスラム |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
