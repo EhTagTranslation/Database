@@ -3572,6 +3572,7 @@ example:
 | shinoda kazuhiro | 篠田一宏 |  |  |
 | cure slum | キュアスラム |  |  |
 | xxoo | 翻译 |  |  |
+| nanakichi | 七吉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
