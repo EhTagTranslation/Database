@@ -3749,6 +3749,7 @@ example:
 | kana yabuki | 矢吹可奈 |  |  |
 | ayumu maihama | 舞浜歩 |  |  |
 | sekai kamiki | 神木世海 |  |  |
+| kaoruko sazaki | 佐崎薰子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
