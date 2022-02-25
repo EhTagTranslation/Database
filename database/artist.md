@@ -3571,6 +3571,7 @@ example:
 | meicha | 冥茶 |  |  |
 | shinoda kazuhiro | 篠田一宏 |  |  |
 | cure slum | キュアスラム |  |  |
+| xxoo | 翻译 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
