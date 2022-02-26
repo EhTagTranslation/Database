@@ -3750,6 +3750,7 @@ example:
 | ayumu maihama | 舞浜歩 |  |  |
 | sekai kamiki | 神木世海 |  |  |
 | kaoruko sazaki | 佐崎薰子 |  |  |
+| izuku midoriya | 绿谷出久 | 绿谷出久是堀越耕平所创作的漫画《我的英雄学院》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/绿谷出久) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
