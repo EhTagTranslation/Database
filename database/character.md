@@ -3752,6 +3752,7 @@ example:
 | kaoruko sazaki | 佐崎薰子 |  |  |
 | izuku midoriya | 绿谷出久 | 绿谷出久是堀越耕平所创作的漫画《我的英雄学院》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/绿谷出久) |
 | mitsuki bakugou | 爆豪光己(火爆猴的母亲) | 爆豪光己(火爆猴的母亲)<br>啊嘿颜式眼睛+爆乳+假小子式短发 |  |
+| prushka | 普鲁修卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
