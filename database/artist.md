@@ -3574,6 +3574,7 @@ example:
 | xxoo | 翻译 |  |  |
 | nanakichi | 七吉 |  |  |
 | yoshitama ichirou | 吉玉一楼 |  |  |
+| rifuru | りふる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
