@@ -2228,6 +2228,7 @@ example:
 | kotsubuan | こつぶあん |  |  |
 | gokusaishiki | 极彩色 |  |  |
 | kirintei | 木铃亭 |  |  |
+| kanyou shoujo | 观用少女 | 画师 `komota`所属同人社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
