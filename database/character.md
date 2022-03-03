@@ -215,7 +215,6 @@ example:
 |  | 东方Project >> 音乐CD及出版品 >> 东方儚月抄 |  |  |
 | watatsuki no toyohime | 绵月丰姬 | ![图](# "https://ehgt.org/16/eb/16eb27fa788d434db43c4274785b68954df465de-530605-2798-1920-jpg_l.jpg") |  |
 | watatsuki no yorihime | 绵月依姬 | ![图](https://ehgt.org/c2/9b/c29b5adda3e8a925b6937250aba402f428cd7aff-2432809-2845-4031-jpg_l.jpg)![图](https://ehgt.org/cc/58/cc581592ca5d4fa15c6bb2ea23e626673f490077-4202674-2788-2000-jpg_l.jpg)![图](# "https://ehgt.org/22/10/221042e7417e2fb2b6a286fe9ac32a28ee4aaf12-580961-2329-1920-jpg_l.jpg") |  |
-| reisen | 铃仙二号 | ![图](# "https://ehgt.org/39/5c/395c75c96725dca2a2259ed8abc8046b26b93e87-979633-1200-1712-png_l.jpg") |  |
 |  | 东方Project >> 音乐CD及出版品 >> 东方求闻史纪 |  |  |
 | hieda no akyuu | 稗田阿求 | ![图](https://ehgt.org/8e/84/8e84e66193fd3335fe16f04017abbca5a858ede5-293350-828-1170-jpg_l.jpg)![图](https://ehgt.org/9b/f7/9bf7407f3ecca38f5ed834ac41a0243837226279-3071711-3500-2444-jpg_l.jpg)![图](https://ehgt.org/5e/d6/5ed60054aec8f440b723f960677ce19c19eb360e-5549772-3473-2481-jpg_l.jpg) |  |
 |  | 东方Project >> 音乐CD及出版品 >> 东方茨歌仙 |  |  |
@@ -278,8 +277,6 @@ example:
 | maruyu | 丸输 | No.163 まるゆ![まるゆ](# "https://ehgt.org/d3/64/d364b20ea83468acecc15ad9a541e263cfd74cd6-1049033-2130-3000-jpg_250.jpg") |  |
 | z3 | Z3 | No.175 Z3![Z3](# "https://ehgt.org/07/3a/073a9faca9480dd9b49968ae138b3ef16c55c35d-1428836-1421-2000-jpg_250.jpg") |  |
 | italia | 意大利 | No.246 |  |
-| october revolution | 十月革命 | No.312 Октябрьская революция |  |
-| kasuga maru | 春日丸 | No.321 |  |
 | luigi torelli | 路易吉·托雷利 | No.325 |  |
 | taiyou | 大鹰 | No.326 |  |
 | iona | 伊欧娜 | Mist01 |  |
@@ -480,7 +477,7 @@ example:
 | gangut | 甘古特 | 苏联海军的甘古特号战列舰 | [碧蓝航线:甘古特](https://zh.moegirl.org.cn/碧蓝航线:甘古特) [舰队Collection:甘古特(十月革命)](https://zh.moegirl.org.cn/舰队Collection:甘古特) |
 | tashkent | 塔什干 | 苏联海军的塔什干号驱逐舰(Tashkent) | [碧蓝航线:塔什干](https://zh.moegirl.org.cn/碧蓝航线:塔什干) [战舰少女:塔什干](https://zh.moegirl.org.cn/战舰少女:塔什干) [舰队Collection:塔什干](https://zh.moegirl.org.cn/舰队Collection:塔什干) |
 | ark royal | 皇家方舟 | 英国海军的皇家方舟号航空母舰（ HMS Ark Royal (91)） | [碧蓝航线:皇家方舟](https://zh.moegirl.org.cn/碧蓝航线:皇家方舟) [战舰少女:皇家方舟](https://zh.moegirl.org.cn/战舰少女:皇家方舟) [舰队Collection:皇家方舟](https://zh.moegirl.org.cn/舰队Collection:皇家方舟) |
-| shimusyu | 占守 |  | [舰队Collection:占守](https://zh.moegirl.org.cn/舰队Collection:占守) |
+| shimushu | 占守 |  | [舰队Collection:占守](https://zh.moegirl.org.cn/舰队Collection:占守) |
 | kunashiri | 国后 |  | [舰队Collection:国后](https://zh.moegirl.org.cn/舰队Collection:国后) |
 | jervis | 杰维斯 |  | [舰队Collection:杰维斯](https://zh.moegirl.org.cn/舰队Collection:杰维斯) |
 | suzutsuki | 凉月 |  | [战舰少女:凉月](https://zh.moegirl.org.cn/战舰少女:凉月) [舰队Collection:凉月](https://zh.moegirl.org.cn/舰队Collection:凉月) |
@@ -1538,8 +1535,8 @@ example:
 |  | 松风铃 |  |  |
 | ami chouno | 蝶野亚美 |  |  |
 |  | 篠川香音 |  |  |
-| andou | 安藤 |  |  |
-| oshida | 押田 |  |  |
+| rena andou | 安藤丽奈 |  |  |
+| ruka oshida | 押田流歌 |  |  |
 | murakami | 村上 |  |  |
 | yuri isuzu | 五十铃百合 |  |  |
 | shiho nishizumi | 西住志穗 |  |  |
@@ -2064,7 +2061,6 @@ example:
 |  | ▼ 凉宫春日的忧郁 |  |  |
 | haruhi suzumiya | 凉宫春日 |  |  |
 | kyon | 阿虚 |  |  |
-| kyonko | 虚子 |  |  |
 | kyon no imouto | 虚妹 |  |  |
 | emiri kimidori | 喜绿江美里 |  |  |
 | mikuru asahina | 朝比奈实玖瑠 |  |  |
@@ -2410,7 +2406,6 @@ example:
 |  | ▼ 火影忍者 |  |  |
 | fourth raikage | 四代目雷影 |  |  |
 | sakura haruno | 春野樱 |  |  |
-| naruko | 鸣子 |  |  |
 | sasuke uchiha | 宇智波佐助 |  |  |
 | tsunade | 纲手 |  |  |
 | anko mitarashi | 御手洗红豆 |  |  |
@@ -2707,7 +2702,7 @@ example:
 | king | 琼 |  |  |
 | dark magician girl | 黑魔术少女 |  |  |
 | silent magician | 沉默魔术师 |  |  |
-| marcille | 玛露西露 |  |  |
+| marcille donato | 玛露西露 | 《迷宫饭》 |  |
 | fumina hoshino | 星野文奈 |  |  |
 | angela balzac | 安吉拉·巴尔扎克 |  |  |
 | yanagi takayama | 高山柳 |  |  |
@@ -2895,10 +2890,9 @@ example:
 | shinobu kochou | 蝴蝶忍 | 鬼杀队中的虫柱，鬼杀队医疗设施“蝶屋”的主人。精通药学与毒理学，擅长毒杀。因为力气很小，是柱中唯一一个无法斩下鬼头的剑士，但善于制作毒素来弥补力量的不足。除此之外还经营名为“蝶屋”的医疗设施，负责治疗受重伤的队员 |  |
 | giyuu tomioka | 富冈义勇 | 使用「水之呼吸」的水柱 |  |
 | mitsuri kanroji | 甘露寺蜜璃 | 使用的恋之呼吸 |  |
-| kanzaki aoi | 神崎葵 | 鬼杀队员。于蝴蝶屋帮助负伤的队员们治疗，执行训练指挥的女子。<br>十分能干，从做饭洗衣到煎药修理，几乎包办了蝴蝶屋内的一切内务和杂项。与胡蝶忍的继子栗花落香奈乎关系很好。 |  |
 | zenitsu agatsuma | 我妻善逸 | 使用雷之呼吸 |  |
 | tanjirou kamado | 灶门炭治郎 | 灶门家长子，造型为制服上披着市松图案的羽织，有着一头深红发与红色眼睛的“赫灼之子”（从事火仕职业家庭的孩子）。左额上有着小时候为了保护弟弟，而被滚烫的水壶烧伤的大片伤痕。 |  |
-| kyoujurou rengoku | 炼狱杏寿郎 | "炎柱"炼狱杏寿郎生来便拥有超过于常人的力量 |  |
+| kyojuro rengoku | 炼狱杏寿郎 | "炎柱"炼狱杏寿郎生来便拥有超过于常人的力量 |  |
 | obanai iguro | 伊黑小芭内 | 鬼殺隊隊員，使用「蛇」之呼吸的蛇柱。 |  |
 | aoi kanzaki | 神崎葵 | 鬼杀队员。于蝴蝶屋帮助负伤的队员们治疗，执行训练指挥的女子。<br>十分能干，从做饭洗衣到煎药修理，几乎包办了蝴蝶屋内的一切内务和杂项。与胡蝶忍的继子栗花落香奈乎关系很好。 |  |
 | sabito | 锖兔 | 鳞泷左近次的弟子，灶门炭治郎的师兄，富冈义勇的同门友人 |  |
@@ -3041,7 +3035,6 @@ example:
 | beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
 | hoshikawa sara | 星川莎拉 | 星川莎拉 （ ほしかわ さら ）是彩虹社所属的，从2019年10月19日在YouTube开始活动的VTuber。 | [萌娘百科](https://zh.moegirl.org.cn/星川莎拉) |
 | amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/e/ec/AmaneKanata_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
-| lulu suzuhara | 铃原露露 | 铃原露露 （ 鈴原るる / Suzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
 | himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名从2020年1月4日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/b/bb/HimemoriLuna_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
 | honma himawari | 本间向日葵🌻 | 本間ひまわり（ほんまひまわり，Honma Himawari）是隶属于`nijisanji`Gamers的`vtuber`，2018年7月6日开始活动。<br>![图](https://ehgt.org/f3/60/f360e432ec7cc60f1c7afc50c40250a187d93cdb-90253-640-640-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/本间向日葵) |
 | kakyoin chieri | 花京院樱桃 | 花京院樱桃（日语：花京院ちえり）是.LIVE所属的虚拟YouTuber。 rerorerorerorero......（大雾） | [萌娘百科](https://zh.moegirl.org.cn/花京院樱桃) |
@@ -3073,7 +3066,7 @@ example:
 | lana | 水莲 |  |  |
 | lanas mom | 水莲的妈妈 |  |  |
 | kiawe | 卡奇 |  |  |
-| sun | 朗日 |  |  |
+| elio | 朗日 |  |  |
 | pikachu | 皮卡丘 |  |  |
 | slowpoke | 呆呆兽 |  |  |
 | izuna hatsuse | 初濑伊纲 | 初濑伊纲（初瀬いづな）是榎宫祐所创作的一系列日本轻小说《No Game No Life 游戏人生》（ノーゲーム・ノーライフ，NO GAME NO LIFE） 及其漫画、动画衍生作品的登场角色。<br>![初瀬いづな](https://img.moegirl.org.cn/common/9/92/初濑伊纲.jpg)<br>八岁的兽人种<Werebeast>幼女，有着黑色的头发与眼睛（动画中则是红色眼睛、蓝紫色头发），以及耳廓狐一般有长又大的兽耳与尾巴，时常穿着腰间系有大缎带的和服。<br><br>是兽人种稀有的“血坏”个体(也是个极度稀有的萌物！)，在发动“血坏”能力时全身毛发和眼睛都会变成血红色，能暂时让身体能力进一步提升，甚至凌驾于物理法则之上。不过发动“血坏”也会对身体造成极大负担，甚至可能危及生命。<br><br>能够仅凭借气味判断他人是否说谎。说话的结尾习惯是“…です（的说）”。<br><br>受到祖父初濑伊野影响，对人类讲话时会错误的使用轻蔑性的语言加上“…です（的说）”作为敬语，本人并无意识。后被空白纠正过来(才怪)。曾为东部联合驻艾尔奇亚的大使，居住于大使馆。<br><br>非常喜欢吃鱼。喜欢玩电子游戏，但由于背负过多的压力，无法从游戏中获得“快乐”。在与空白进行游戏后落败，尽管如此却第一次从游戏中获得了“快乐”的感觉。同时由于空白高超的爱抚抚摸技巧，很喜欢被空白抚摸，喜欢空白的气味除了特图跟空白以外没人的抚摸技术能满足她..... | [萌娘百科](https://zh.moegirl.org.cn/初濑伊纲) |
@@ -3130,7 +3123,7 @@ example:
 | ichika orimura | 织斑一夏 |  |  |
 | chifuyu orimura | 织斑千冬 |  |  |
 | gray | 格蕾 | 埃尔梅罗二世（韦伯·维尔维特）的入室弟子，面容与saber相同，可使用圣枪伦戈米尼亚德 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/格蕾) |
-| cojanskaya | 高扬斯卡娅 | 玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [https://wiki.komica.org/T·V·柯楊斯卡雅](https://wiki.komica.org/T·V·柯楊斯卡雅) |
+| koyanskaya | 高扬斯卡娅 | 玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [https://wiki.komica.org/T·V·柯楊斯卡雅](https://wiki.komica.org/T·V·柯楊斯卡雅) |
 | mineva lao zabi | 密涅瓦·劳·扎比（汤小美） | 米妮瓦·拉欧·萨比 （ミネバ・ラオ・ザビ / Mineva Lao Zabi，又译为米妮瓦或米妮芭，或汤小美）是动画版机动战士GUNDAM，机动战士Z GUNDAM，机动战士GUNDAM ZZ以及机动战士GUNDAM UC当中的登场人物。生于UC0079年9月2日，是德兹尔·萨比与妻子瑟娜之间的独生女。也是萨比家唯一在一年战争之后还存活的人物。声优：初代TV版与剧场版：无，TV版Ζ与ΖΖ当中为伊藤美纪，UC当中为藤村步。<br><br>阅读更多：薩比家（[萌娘百科](https://zh.moegirl.org.cn/薩比家）)<br>本文引自萌娘百科([萌娘百科](https://zh.moegirl.org.cn))，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0》协议。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/薩比家#米妮瓦·拉歐·薩比) |
 | marida cruz | 玛莉妲·库鲁斯\|普露12 |  | [https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
@@ -3310,15 +3303,12 @@ example:
 | emma | 艾玛 | 《约定的梦幻岛》主角三人组——女主角 |  |
 | norman | 诺曼 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
 | ray | 雷 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
-| don | 冬 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | nat | 奈特 | 《约定的梦幻岛》主角孩子团中之一 | baiduboxapp://swan/AZQtr4jkpf90T3X9QMWVLF1bkeV4LXxD/pages/lemma/lemma?lemmaTitle=%E5%A5%88%E7%89%B9&lemmaId=23181361&fr=aladdin&\_baiduboxapp=%7B%22from%22%3A%221081000900000000%22%2C%22ext%22%3A%7B%22tplname%22%3A%22bk\_polysemy%22%2C%22srcid%22%3A1547%2C%22order%22%3A%221%22%2C%22token%22%3A%22swanubc%22%2C%22searchid%22%3A%225438254383423939000%22%2C%22third\_ext%22%3A%7B%22ivkSource%22%3A%22h5\_schema%22%7D%2C%22searchQueryEnc%22%3A%22\_u2Fi\_ao2i\_auLQXDGPUcG-s8XcablWULAPZdGBf0ejRto-8C\_new%22%7D%7D&callback=\_bdbox\_js\_5630&oauthType=search&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%25A5%2588%25E7%2589%25B9%2F23181361%22%2C%22logParams%22%3A%22pu%3D%24pu%26baiduid%3D%24baiduid%26tcreq4log%3D1%26isAtom%3D1%26cyc%3D1%26clk\_info%3D%7B%5C%22tplname%5C%22%3A%5C%22bk\_polysemy%5C%22%2C%5C%22srcid%5C%22%3A1547%2C%5C%22ivkStatus%5C%22%3A%5C%22new\_ivk\_success%5C%22%2C%5C%22type%5C%22%3A%5C%22xcx%5C%22%2C%5C%22naType%5C%22%3A%5C%22%5C%22%2C%5C%22ivkSource%5C%22%3A |
 | anna | 安娜 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | thoma | 托马 | 《约定的梦幻岛》主角孩子团中之一 |  |
-| lannion | 拉尼 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | phil | 菲尔 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | isabella | 伊莎贝拉 | 《约定的梦幻岛》主要角色，主角们的妈妈 |  |
-| krone | 克洛涅 | 《约定的梦幻岛》第一篇章主要角色，上面派来监视妈妈的实习助手 |  |
 | mujika | 穆希卡 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
 | sonju | 宋杰 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
 | lucas | 卢卡斯 | 《约定的梦幻岛》避难所篇章配角之一 |  |
@@ -3587,7 +3577,6 @@ example:
 | aladdin | 阿拉丁 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
 | ariel | 爱丽儿 | 华特迪士尼第28部动画电影《小美人鱼》及其衍生作品中的主角。 |  |
 | platelet | 血小板 |  |  |
-| shimushu | 占守 |  |  |
 | ayaka kamisato | 神里绫华 | 神里绫华，米哈游出品的游戏《`genshin impact`》及其衍生作品中的角色，稻妻“社奉行”神里家的大小姐。 | [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
 | shounagon sei | 清少纳言 | 清少纳言通常是指`type-moon`旗下Fate系列及其衍生作品中登场的角色，在游戏《`fate grand order`》初登场。<br><br>其出典于真实历史人物 清少纳言，是日本平安时期的女作家、歌人。姓清原，名不可考。以随笔集「枕草子」闻名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hant/清少纳言%28Fate%29) (\*\*) |
 | ritsuko akagi | 赤木律子 | 动漫《新世纪福音战士》中的角色。 |  |

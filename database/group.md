@@ -421,7 +421,7 @@ example:
 | hexivision | HEXIVISION |  |  |
 | naruho-dou | NARUHO堂 |  |  |
 | index410 | INDEX:410 |  |  |
-| mz no ken | MZの拳 |  |  |
+| mzfist | MZの拳 |  |  |
 | twilight dusk | TWILIGHT DUSK |  |  |
 | kamikadou | かみか堂 |  |  |
 | oboro and tempo gensui dou | 胧&天蓬元帅堂 |  |  |
@@ -451,7 +451,6 @@ example:
 | kaname | 要 |  |  |
 | studio vanguard | STUDIO VANGUARD |  |  |
 | gerupin | ゲルピン |  |  |
-| g.t.p | ゲルピンちん太ぽん太 |  |  |
 | knockout | KNOCKOUT |  |  |
 | atamanurui mix-er | アタマヌルイMIX-eR |  |  |
 | mecchori | めっちょり |  |  |
@@ -587,7 +586,6 @@ example:
 | bonjin | 梵人 |  |  |
 | mimipull | MIMIPULL |  |  |
 | rojiura manhole | ロジウラマンホール |  |  |
-| akuten soushin | 恶转奏进 |  |  |
 | uribatakebokujou | うり畑牧場 |  |  |
 | zenra yashiki | 全裸屋敷 |  |  |
 | beniiro kaitenkikou | 红色回转机构 |  |  |
@@ -808,7 +806,7 @@ example:
 | kazan no you | 火山の楊 |  |  |
 | hard chrome | ハードクローム |  |  |
 | pochi-goya. | ぽち小屋。 |  |  |
-| hikawadou | 火川堂 |  |  |
+| hikawado | 火川堂 |  |  |
 | mof-mof | mof-mof | WOMI 所在社团 [mof-mof](http://mof-mof.sakura.ne.jp/top.html) |  |
 | aneko no techo | あねこの手帖 |  |  |
 | circle heron | サークルヘロン |  |  |
@@ -1000,7 +998,7 @@ example:
 | kyurettokyuretto | ^^ |  |  |
 | panda cotta | Panda Cotta |  |  |
 | tsujimo ga machi ni yattekita | つじもが町に殺ってきた!!! |  |  |
-| bindume syojo | 瓶诘少女。 |  |  |
+| bindume syojo. | 瓶诘少女。 |  |  |
 | pinsize inc. | PINSIZE Inc. |  |  |
 | hakka-ya | 薄荷屋 |  |  |
 | akai shougeki | 緋い笑撃 |  |  |
@@ -1332,7 +1330,7 @@ example:
 | kinokomushin | きのこむ神 |  |  |
 | ichibariki | 一马力 |  |  |
 | okotan pekoe | おこたんぺこ |  |  |
-| crimson comics | クリムゾンコミックス |  |  |
+| crimson | クリムゾンコミックス |  |  |
 | we are coming | We are COMING! |  |  |
 | sanutei | さぬ亭 |  |  |
 | tanic ya | タニシ屋 |  |  |
@@ -1460,7 +1458,7 @@ example:
 | da hootch | DA HOOTCH |  |  |
 | hooliganism | 集团暴力 |  |  |
 | eroquis | EROQUIS! |  |  |
-| mamamaster | マママスター |  |  |
+| 18master | 18マスター |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34182.html) [Twitter](https://twitter.com/elcpehsscjwxjsf) |
 | date in vitro | Date in vitro |  |  |
 | yamanotesen | 山手线 |  |  |
 | lovewn outpost | Lovewn Outpost |  |  |
@@ -1986,7 +1984,6 @@ example:
 | tegone spike | てごねスパイク |  |  |
 | amasyrup | amasyrup |  |  |
 | maybenavy | MaybeNavy |  |  |
-| longbow flintlock | 长弓燧龙 | 名言"总有一天你们会看着我画的东西撸"的作者 |  |
 | nounai kanojo | 脑内彼女 |  |  |
 | jinsei yokosuberi. | 人生横滑り。 |  |  |
 | sanshoku nattou meshi | 三食納豆飯 |  |  |
@@ -2229,6 +2226,9 @@ example:
 | gokusaishiki | 极彩色 |  |  |
 | kirintei | 木铃亭 |  |  |
 | kanyou shoujo | 观用少女 | 画师 `komota`所属同人社团 | [HP](https://lit.link/en/komota) |
+| ferallemma | フィラレマ |  |  |
+| bakayaro | ばかやろう |  |  |
+| nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
