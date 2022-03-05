@@ -1634,6 +1634,7 @@ example:
 | hypnosis mic | 催眠麦克风 |  |  |
 | project sekai | 世界计划 | 《世界计划 缤纷舞台！ feat.初音未来》<br>日语：プロジェクトセカイ カラフルステージ！ feat.初音ミク，<br>英语：Project Sekai: Colorful Stage feat. Hatsune Miku，<br>简称《世界计划》（日语：プロセカ），是基于抽卡的视觉小说风格音乐手机游戏 | [官网地址](https://pjsekai.sega.jp/) [维基百科](https://zh.wikipedia.org/wiki/世界计划_缤纷舞台！_feat.初音未来) |
 | needy streamer overload | 主播女孩重度依赖 |  |  |
+| elden ring | 艾尔登法环 | 《艾尔登法环》（英语：Elden Ring，日语：エルデンリング）是由FromSoftware开发，万代南梦宫娱乐发行的一款动作角色扮演游戏，发行于Microsoft Windows、PlayStation 4、PlayStation 5、Xbox One和Xbox Series X/S平台。本作于2019年6月10日在E3电子娱乐展上正式公布，2022年2月25日发售。 | [官方网站](https://www.eldenring.jp/) [萌娘百科](https://zh.moegirl.org.cn/艾尔登法环) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
