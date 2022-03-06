@@ -2229,6 +2229,7 @@ example:
 | ferallemma | フィラレマ |  |  |
 | bakayaro | ばかやろう |  |  |
 | nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
+| mokumokusei | モクモクセイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
