@@ -3744,6 +3744,7 @@ example:
 | prushka | 普鲁修卡 |  |  |
 | hakui koyori | 博衣小夜璃 | 博衣小夜璃（日语：博衣こより／はくい こより）是一名于2021年11月26日开始活动的VTuber，所属日本业界团体hololive－『秘密结社holoX』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/博衣小夜璃) |
 | satoko houjou | 北条沙都子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/北条沙都子) |
+| siesta | 谢丝塔 | 谢丝塔（日语：シエスタ）是由二语十所创作的轻小说《侦探已死》及其衍生作品的登场角色。“谢丝塔”是她的代号，意为西班牙语“午睡”(Siesta)。 | [萌娘百科](https://zh.moegirl.org.cn/谢丝塔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
