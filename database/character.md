@@ -1858,7 +1858,7 @@ example:
 | caren ortensia | 卡莲·奥尔黛西亚 | 言峰绮礼之女<br>![图](https://ehgt.org/c2/e0/c2e0c1595223f170576d635ad7a17da0723964c8-31953-280-479-jpg_l.jpg) |  |
 | bazett fraga mcremitz | 巴洁特·法迦·克米兹 | 第五次圣杯战争，召唤 Lancer 的御主，后被言峰绮礼夺走<br>![图](https://ehgt.org/f5/3d/f53d636a602137d1df6f6b9b56c80fd1c2d26c8b-19682-280-479-jpg_l.jpg)![图](https://ehgt.org/a3/9b/a39ba8a7c4fcb00feb1c953b5da3d3cb25899ee5-7020527-4122-5161-jpg_l.jpg) |  |
 | sitonai | 志度内 |  |  |
-| ishtar | 伊什塔尔 |  |  |
+| ishtar | 伊什塔尔 | 伊什塔尔是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在《Fate/Prototype》《Fate/EXTRA CCC》作为背景人物出现，在游戏《Fate/Grand Order》中凭依人类作为拟似从者登场，在《Fate/strange Fake》凭依人造人登场。 | [萌娘百科](https://zh.moegirl.org.cn/zh/伊什塔尔%28Fate%29) |
 | tamamo no mae | 玉藻前 | ![图](https://ehgt.org/b4/d0/b4d03c16074ba239f2db9803b18ac0338bb0596b-2147833-1024-1448-png_l.jpg)![图](https://ehgt.org/e1/9a/e19a1476369f421f9309919fd3cbf4c7b4680eaa-2123750-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玉藻前%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玉藻前) |
 | shielder | 玛修·基列莱特 | 指《Fate/Grand Order》中的 玛修·基列莱特<br>![图](https://ehgt.org/e7/5d/e75dfa3a1f89d481425f9f35172608d69a33abcb-1891324-1024-1448-png_l.jpg)![图](https://ehgt.org/f1/0a/f10a567d7d1c2cd2bbad9ea6d7885017c2395e91-1752646-1024-1448-png_l.jpg) |  |
 | saber lily | Saber Lily | 白Saber<br>![图](https://ehgt.org/f6/4d/f64d13239c074960d5db17553990fb64109c2de9-2161639-1024-1448-png_l.jpg)![图](https://ehgt.org/4c/4d/4c4da8143dbcd81fa997015555214dfb108271ed-5862547-4079-5188-jpg_l.jpg)![图](https://ehgt.org/3b/c3/3bc38ca7fd88516195e9ac55fe691629440f2656-111792-600-900-jpg_l.jpg)![图](https://ehgt.org/cc/0b/cc0bc76863b033ac2157fabb29ef6e3847e3495a-4900451-4112-5193-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
