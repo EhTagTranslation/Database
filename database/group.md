@@ -2231,6 +2231,7 @@ example:
 | nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
 | mokumokusei | モクモクセイ |  |  |
 | junjou harinezumi | 純情ハリネズミ |  |  |
+| miniomlet ongakudan | ミニオムレツ音楽団 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
