@@ -90,7 +90,7 @@ example:
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。<br>![图](# "https://ehgt.org/13/5c/135ce05b78b1d4170e51ed09bca35a6308b4905a-1500979-914-1300-jpg_l.jpg")![图](# "https://ehgt.org/39/6e/396e00043bbf49abfe7355dabca5d89d0cf8d63e-3424740-1410-2000-png_l.jpg") |  |
 | giraffe boy | 长颈鹿男 | `giraffe girl`的男性版本。 |  |
 | ghost | 幽灵👻 | 与非物质的存在性交。 |  |
-| goblin | 地精 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
+| goblin | 哥布林 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
 | harpy | 鸟人 | 鸟与人类的混合体。 |  |
 | horse boy | 马男孩 | `horse girl`的男性版本。 |  |
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
