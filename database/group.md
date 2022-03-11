@@ -2232,6 +2232,7 @@ example:
 | mokumokusei | モクモクセイ |  |  |
 | junjou harinezumi | 純情ハリネズミ |  |  |
 | miniomlet ongakudan | ミニオムレツ音楽団 |  |  |
+| baiuzensen | 梅雨前線 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
