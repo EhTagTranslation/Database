@@ -3569,6 +3569,7 @@ example:
 | akamoku | あかもく |  | [Twitter](https://twitter.com/akmkmk3) [pixiv](https://www.pixiv.net/users/50151624) |
 | hiyama yuki | 檜山ユキ |  |  |
 | izumi kirifu | 和泉キリフ |  |  |
+| suzuki nago | 鈴木和 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
