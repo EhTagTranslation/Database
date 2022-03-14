@@ -1638,6 +1638,7 @@ example:
 | otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta... | 转生成为了只有乙女游戏破灭Flag的邪恶大小姐 | 《转生成为了只有乙女游戏破灭Flag的邪恶大小姐》（日语：乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…）是由山口悟创作、ひだかなみ插画的一部轻小说，并有漫画等衍生作品。<br>![](https://p.sda1.dev/5/bca517b0b7bf4e4cdcdef3738cea302d/Otomegame_anime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/转生成为了只有乙女游戏破灭Flag的邪恶大小姐) |
 | osomatsu-san | 阿松 | 《阿松》（日语：おそ松くん）是由赤冢不二夫创作的一部搞笑题材的漫画，有动画、真人电影等衍生作品。<br>![](https://p.sda1.dev/5/144cf51c8ffb283256031cab7a88076e/796px-Osomatsu-san_S3_kv.jpg) | [阿松(作品)](https://zh.moegirl.org.cn/阿松%28作品%29) |
 | arena of valor | 王者荣耀 |  |  |
+| douluo continent | 斗罗大陆 | 唐家三少创作的玄幻小说。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
