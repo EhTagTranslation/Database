@@ -1639,6 +1639,7 @@ example:
 | osomatsu-san | 阿松 | 《阿松》（日语：おそ松くん）是由赤冢不二夫创作的一部搞笑题材的漫画，有动画、真人电影等衍生作品。<br>![](https://p.sda1.dev/5/144cf51c8ffb283256031cab7a88076e/796px-Osomatsu-san_S3_kv.jpg) | [阿松(作品)](https://zh.moegirl.org.cn/阿松%28作品%29) |
 | arena of valor | 王者荣耀 |  |  |
 | douluo continent | 斗罗大陆 | 唐家三少创作的玄幻小说。 |  |
+| grand blue | 碧蓝之海 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
