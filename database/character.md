@@ -3749,6 +3749,7 @@ example:
 | aria von reiji asuna | 岭司 | 伊织政在街上遇到的神秘少年。蛮横、任性、脾气暴躁，几乎没有一般人应有的常识。在诚为其解决一起误会后，给了他一颗宝石「阿利斯达之星」，并扬言只要诚向宝石祈祷，自己就会现身替他解决问题。<br>![](https://bkimg.cdn.bcebos.com/pic/a8014c086e061d95e9d7384c78f40ad162d9ca35?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto) | [岭司](https://baike.baidu.com/item/嶺司/15866549) |
 | kokawa asuka | 甲河明日香(甲河飞鸟) | 小粉红，主角的人棍义肢小忠犬，阿莎姬的养女。于《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍，也是第1个跟主角本垒后就同意为其生育后代的女忍。心中其实很渴望获得家人的关爱。(凭借其强大个人暗杀技能帮助主角稳住了内部危机，进而得到了主角的更多强化与关怀，为日后重返《对魔忍》位面完成最终复仇 奠定了基础) | [https://vndb.org/c10757](https://vndb.org/c10757) |
 | mutio | 妙迪奥(ミューティオ) | cv - 长沢美树，来自漫画/OVA动画《青之6号》 |  |
+| yotsuba koiwai | 小岩井四叶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
