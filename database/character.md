@@ -3751,6 +3751,7 @@ example:
 | mutio | 妙迪奥(ミューティオ) | cv - 长沢美树，来自漫画/OVA动画《青之6号》 |  |
 | yotsuba koiwai | 小岩井四叶 |  |  |
 | torako | 虎子 |  |  |
+| naruko yokoshima | 横岛鸣子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
