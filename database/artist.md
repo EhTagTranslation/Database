@@ -3079,7 +3079,7 @@ example:
 | ushino naka | うしの菜夏 |  |  |
 | doskoinpo | doskoinpo |  | [Twitter](https://twitter.com/doskoinpo) [pixiv](https://www.pixiv.net/users/2960920) |
 | rin yuu | リン☆ユウ | ![リン☆ユウ头像](https://i.loli.net/2021/03/15/pwNIo8hZDFGSH9y.jpg) | [Twitter](https://twitter.com/rin7914) [pixiv](https://www.pixiv.net/users/4754550) |
-| mushi | ムシ |  | [pixiv](https://www.pixiv.net/users/492107)<br>[Twitter](https://twitter.com/Mushi024) |
+| mushi | 小虫 |  | [pixiv](https://www.pixiv.net/users/492107)<br>[Twitter](https://twitter.com/Mushi024) |
 | trigger | TRIGGER |  |  |
 | miwabe sakura | みわべさくら |  | [Twitter](https://twitter.com/sakurapion) [pixiv](https://www.pixiv.net/users/4816744) |
 | shirisensha | 尻戦車 |  | [pixiv](https://www.pixiv.net/users/15238698) |
