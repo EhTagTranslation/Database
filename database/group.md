@@ -2234,6 +2234,7 @@ example:
 | miniomlet ongakudan | ミニオムレツ音楽団 |  |  |
 | baiuzensen | 梅雨前線 |  |  |
 | nagomiyasan | なごみやさん |  |  |
+| kocc house | koccハウス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
