@@ -2235,6 +2235,7 @@ example:
 | baiuzensen | 梅雨前線 |  |  |
 | nagomiyasan | なごみやさん |  |  |
 | kocc house | koccハウス |  |  |
+| hito no fundoshi | 人の裈 | ひとのふんどし，画师ゆきよし真水所属社团。 | [HP](http://hitonohundoshi.sakura.ne.jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
