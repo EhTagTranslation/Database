@@ -3574,6 +3574,7 @@ example:
 | namatsui | なまつい |  |  |
 | mimamoriencyo | みまもり園長 |  |  |
 | yukiyoshi mamizu | ゆきよし真水 | ![twitter](https://pbs.twimg.com/profile_images/1457222583708184576/o3pY9O6H_400x400.jpg)<br><br>**作者推特头像**<br>同人社团`hito no fundoshi`主笔画师。 | [twitter](https://twitter.com/hitonohundoshi) |
+| miyashiro sousuke | 宮社惣恭 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
