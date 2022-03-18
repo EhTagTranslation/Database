@@ -2447,7 +2447,7 @@ example:
 | kanata | 彼方 |  |  |
 | eika | 艾卡 |  |  |
 |  | ▼ バーチャルYouTuber |  |  |
-| kizuna ai | 绊爱 | ~~人工智障 ~~<br>绊爱（日语：キズナアイ；英语：Kizuna AI）是一个日本`vtuber`，也是公认的第一个`vtuber`。其人物设计由`morikura en`创作。<br>※因在早期游戏实况视频中的各种失误操作和理解缓慢，与本身“人工智能”角色设定形成反差。被网友们调侃为“人工智障” | [维基百科](https://zh.wikipedia.org/wiki/絆愛) [<br>A.I.Channel](https://www.youtube.com/c/AIChannel) [A.I.Games](https://www.youtube.com/c/AIGamesdayo) [Twitter](https://twitter.com/aichan_nel) |
+| kizuna ai | 绊爱 | ~~人工智障 ~~<br>绊爱（日语：キズナアイ；英语：Kizuna AI）是一个日本`vtuber`，也是公认的第一个`vtuber`。其人物设计由`morikura en`创作。<br>※因在早期游戏实况视频中的各种失误操作和理解缓慢，与本身“人工智能”角色设定形成反差。被网友们调侃为“人工智障”<br>![绊爱](https://p.sda1.dev/5/caf436616b32656d6eee750c482b01d1/Kizuna_AI_-_SCP_Foundation_2.png) | [维基百科](https://zh.wikipedia.org/wiki/絆愛) [<br>A.I.Channel](https://www.youtube.com/c/AIChannel) [A.I.Games](https://www.youtube.com/c/AIGamesdayo) [Twitter](https://twitter.com/aichan_nel) |
 | kaguya luna | 辉夜月 |  |  |
 | mirai akari | Mirai Akari |  |  |
 | nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为`vtuber`活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org.cn/Nekomasu) |
