@@ -43,6 +43,7 @@ example:
 | akane araragi | Akane Araragi |  | [Twitter](https://twitter.com/akaneararagi) |
 | lenfried | lenfried | lenfried（れんふりーど），又称莲姐、莲妹，日本著名COSER，HeruHeru3社团成员。自C74起开始在各届Comic Market上发售自己的cos写真集作品后，深受广大粉丝喜爱。其代表作品有《东方恋莲録》、《枫帐》等。 |  |
 | misa daidai | 习呆呆 |  |  |
+| coser | coser |  |  |
 
 <!--
 Template: 
