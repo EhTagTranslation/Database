@@ -632,7 +632,7 @@ example:
 | sentimental graffiti | 青涩宝贝 |  |  |
 | bleach | 死神 |  |  |
 | hayate no gotoku | 旋风管家 |  |  |
-| yoake mae yori ruriiro na | 更胜黎明前的琉璃色 |  |  |
+| yoake mae yori ruriiro na | 更胜黎明前的琉璃色 | 《更胜黎明前的琉璃色》（日语：夜明け前より瑠璃色な，又译作《夜明前的琉璃色》）是August发行的PC版十八禁恋爱冒险游戏。讲述一个来自月球的公主在地球家庭寄宿发生的一系列的故事。有小说、漫画、动画、广播剧等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/更胜黎明前的琉璃色) |
 | fortune arterial | FORTUNE ARTERIAL |  |  |
 | princess holiday | 公主假日 ~回转苹果亭的一千零一夜~ |  |  |
 | tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |  |
