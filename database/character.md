@@ -3757,6 +3757,7 @@ example:
 | akiko minase | 水濑秋子 | 动画、游戏《Kanon》中的人物。相泽祐一的阿姨，水濑名雪的母亲。 | [https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin](https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin) |
 | yuuichi aizawa | 水濑名雪 | 水濑名雪，Key社制作的游戏及其改编动画《Kanon》中的女主角之一。蓝色长发，温柔善解人意，有时也很迷糊，天然呆的美少女。擅长跑步，是学校里田径社的社长。非常能睡，在毫无征兆的情况下可以站着睡着。 | [https://baike.baidu.com/item/水濑名雪/2251173](https://baike.baidu.com/item/水濑名雪/2251173) |
 | itako tohoku | 东北伊达子 |  |  |
+| una otomachi | 音街鳗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
