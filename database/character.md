@@ -3752,6 +3752,7 @@ example:
 | yotsuba koiwai | 小岩井四叶 |  |  |
 | torako | 虎子 |  |  |
 | naruko yokoshima | 横岛鸣子 |  |  |
+| aoi hinami | 日南葵 | ![](https://p.sda1.dev/5/e2c3ea537baae8be52f1b3f3abfd12a0/chara2_img.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
