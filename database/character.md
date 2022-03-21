@@ -3753,6 +3753,7 @@ example:
 | torako | 虎子 |  |  |
 | naruko yokoshima | 横岛鸣子 |  |  |
 | aoi hinami | 日南葵 | ![](https://p.sda1.dev/5/e2c3ea537baae8be52f1b3f3abfd12a0/chara2_img.png) |  |
+| feena fam earthlight | 菲娜·法姆·阿修莱特 | 菲娜·法姆·阿修莱特（Feena fam Earthlight）是August旗下游戏《更胜黎明前的琉璃色》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/5/e19463143122e42df3a6db71acc0b24f/300px-Feena_Fam_Earthlight.jpg) | [萌娘百科](https://zh.moegirl.org.cn/菲娜·法姆·阿修莱特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
