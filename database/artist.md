@@ -3578,6 +3578,7 @@ example:
 | sasaki bullet | 佐々木バレット | ![图](# "https://ehgt.org/58/b2/58b29b445424b21d14458e55591d5354ee65b2d0-1711332-1353-1920-jpg_l.jpg") | [Twitter](https://twitter.com/sskbura) [pixiv](https://www.pixiv.net/users/13771) |
 | kuroki hidehiko | 黑木秀彦 |  |  |
 | agemo agm | 阿戈魔AGM | P站画师 | [pixiv](https://www.pixiv.net/users/20670939) |
+| jackasss | 空蜂ミドロ \| テラダ・ジャッカス | 筋肉娘爱好者。常见`f:muscle` | [pixiv](https://www.pixiv.net/users/8487) [Twitter](https://twitter.com/jjjackasss) |
 
 <!--TEMPLATE:
 |  |  |  |  |
