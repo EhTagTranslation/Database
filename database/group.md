@@ -2236,7 +2236,7 @@ example:
 | nagomiyasan | なごみやさん |  |  |
 | kocc house | koccハウス |  |  |
 | hito no fundoshi | 人の裈 | ひとのふんどし，画师`yukiyoshi mamizu`所属社团。 | [HP](http://hitonohundoshi.sakura.ne.jp) |
-| himitsukessya usagi | 秘密结社兔 |  |  |
+| himitsukessya usagi | 秘密结社兔 | 画师`dancyo`所属同人社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41050.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
