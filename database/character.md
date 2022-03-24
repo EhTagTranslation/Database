@@ -3759,6 +3759,7 @@ example:
 | itako tohoku | 东北伊达子 |  |  |
 | una otomachi | 音街鳗 |  |  |
 | kokona aoba | 青羽心夏 | 漫画`yama no susume`中的角色 | [萌娘百科](https://zh.moegirl.org.cn/青羽心夏) |
+| sayu | 早柚 | 游戏`genshin impact`中的角色 | [萌娘百科](https://zh.moegirl.org.cn/zh-tw/早柚) (\*\*) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
