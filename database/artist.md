@@ -1209,7 +1209,7 @@ example:
 | kemonono | けものの★ |  |  |
 | mameko | まめこ |  |  |
 | miyoshi | みよし |  |  |
-| neriume | ねりうめ |  |  |
+| neriume | ねりうめ | COMIC LO 杂志 漫画家<br>![](https://pbs.twimg.com/profile_images/1191324839170064384/mpuv0BiB_400x400.png)<br>**作者推特头像** | [Twitter](https://twitter.com/potekin) [pixiv](https://www.pixiv.net/users/19618633) |
 | odd | Odd |  |  |
 | otone | 音音 |  |  |
 | sakujirou | 咲次朗 |  |  |
