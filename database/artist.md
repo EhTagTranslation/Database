@@ -3580,7 +3580,7 @@ example:
 | agemo agm | 阿戈魔AGM | P站画师 | [pixiv](https://www.pixiv.net/users/20670939) |
 | jackasss | 空蜂ミドロ \| テラダ・ジャッカス | 筋肉娘爱好者。常见`f:muscle` | [pixiv](https://www.pixiv.net/users/8487) [Twitter](https://twitter.com/jjjackasss) |
 | izayoi seishin | 十六夜清心 |  |  |
-| dancyo | だんちょ |  |  |
+| dancyo | だんちょ | ![twitter](https://pbs.twimg.com/profile_images/1394664606082035715/cLMBhbnw_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`himitsukessya usagi`主笔画师 | [twitter](https://twitter.com/ssssskull_03) [pixiv](https://www.pixiv.net/users/502509) |
 
 <!--TEMPLATE:
 |  |  |  |  |
