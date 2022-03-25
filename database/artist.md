@@ -3583,6 +3583,7 @@ example:
 | dancyo | だんちょ | ![twitter](https://pbs.twimg.com/profile_images/1394664606082035715/cLMBhbnw_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`himitsukessya usagi`主笔画师 | [twitter](https://twitter.com/ssssskull_03) [pixiv](https://www.pixiv.net/users/502509) |
 | ame | 雨 | ![twitter](https://pbs.twimg.com/profile_images/1343240345950175234/fNw_1b6w_400x400.jpg)<br><br>**作者推特头像**<br><br>在日韩国同人画师，社团`orangemaru`的三位主笔之一，有着三人中最多的twitter粉丝 | [twitter](https://twitter.com/la__pioggia) [pixiv](https://www.pixiv.net/users/4595297) |
 | jp06 | JP06 | ![twitter](https://pbs.twimg.com/profile_images/1387630970933633025/JraLkYJ1_400x400.jpg)<br><br>**作者推特头像**<br><br>在日韩国同人画师,社团`orangemaru`主笔之一 | [twitter](https://twitter.com/jpmaruroku) [pixiv](https://www.pixiv.net/users/1074517) |
+| kazepana | かぜぱな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
