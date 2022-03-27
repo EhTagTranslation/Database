@@ -3585,6 +3585,7 @@ example:
 | jp06 | JP06 | ![twitter](https://pbs.twimg.com/profile_images/1387630970933633025/JraLkYJ1_400x400.jpg)<br><br>**作者推特头像**<br><br>在日韩国同人画师,社团`orangemaru`主笔之一 | [twitter](https://twitter.com/jpmaruroku) [pixiv](https://www.pixiv.net/users/1074517) |
 | kazepana | かぜぱな |  |  |
 | gyouza teishoku | ギョウザテイショク |  |  |
+| kyouichirou | 狂一郎 |  | [pixiv](https://www.pixiv.net/users/13457553) |
 
 <!--TEMPLATE:
 |  |  |  |  |
