@@ -3586,6 +3586,7 @@ example:
 | kazepana | かぜぱな |  |  |
 | gyouza teishoku | ギョウザテイショク |  |  |
 | kyouichirou | 狂一郎 |  | [pixiv](https://www.pixiv.net/users/13457553) |
+| kuon michiyoshi | 久遠ミチヨシ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
