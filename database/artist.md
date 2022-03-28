@@ -3587,6 +3587,7 @@ example:
 | gyouza teishoku | ギョウザテイショク |  |  |
 | kyouichirou | 狂一郎 |  | [pixiv](https://www.pixiv.net/users/13457553) |
 | kuon michiyoshi | 久遠ミチヨシ |  |  |
+| gorgeous mushroom | 绚烂的蘑菇 | [pixiv](https://www.pixiv.net/users/11187954)<br>[Twitter](https://twitter.com/GMMUSHROOM)<br>[微博](https://www.weibo.com/u/3734949131) |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
