@@ -1643,6 +1643,7 @@ example:
 | blue submarine no. 6 | 青之6号 | 《青之6号》（日语：青の6号）是小泽晓的漫画作品。1967年在“周刊少年Sunday”连载，之后由GONZO制作OVA。 | [维基百科](https://zh.wikipedia.org/zh/青之6號) |
 | jaku-chara tomozaki-kun | 弱势角色友崎君 |  | [中文维基](https://zh.wikipedia.org/zh-hk/弱角友崎同學) |
 | aikatsu friends | 偶活学园Friends！ | 《偶活学园Friends！》（アイカツフレンズ！）是BANDAI于2018年4月发售的集换式卡牌街机游戏，《偶活学园》系列的第3作。<br><br>电视动画第1期于2018年4月5日在东京电视网开始播放，第2期于2019年4月4日起在东京电视网播放。 | [维基百科](https://zh.wikipedia.org/wiki/偶像活動Friends！) (\*) |
+| jahy-sama wa kujikenai | 贾希大人不气馁 | 《贾希大人不气馁！》（日语：ジャヒー様はくじけない！）是由昆布わかめ创作的一部漫画，并有衍生动画。<br>![](https://cdn-eu.anidb.net/images/main/260693.jpg) | [萌娘百科](https://zh.moegirl.org.cn/贾希大人不气馁) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
