@@ -3764,6 +3764,7 @@ example:
 | takanashi kiara | 小鸟游琪亚拉 | 小鳥遊 キアラ<br>隶属于HoloEn的Vtuber<br>`hololive`<br>`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/小鳥遊キアラ) (\*) |
 | yumeko jabami | 蛇喰梦子 | 漫画`kakegurui`及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/蛇喰梦子) (\*\*) |
 | reed | 苇草 |  |  |
+| ui kozeki | 古关忧 | 游戏碧蓝档案（Blue Archive）角色，三一综合学园图书委员会委员长。 | [碧蓝档案wiki\_bilibili][https://wiki.biligame.com/bluearchive/ウイ](https://wiki.biligame.com/bluearchive/ウイ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
