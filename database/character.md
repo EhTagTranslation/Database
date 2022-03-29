@@ -3765,6 +3765,7 @@ example:
 | yumeko jabami | 蛇喰梦子 | 漫画`kakegurui`及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/蛇喰梦子) (\*\*) |
 | reed | 苇草 |  |  |
 | ui kozeki | 古关忧 | 游戏碧蓝档案（Blue Archive）角色，三一综合学园图书委员会委员长。 | [碧蓝档案wiki\_bilibili][https://wiki.biligame.com/bluearchive/ウイ](https://wiki.biligame.com/bluearchive/ウイ) |
+| battler ushiromiya | 右代宫战人 | 右代宫战人是07th Expansion所创作的同人游戏《海猫鸣泣之时》及其衍生作品的登场角色。作品的男主角。留弗夫与前妻明日梦之子。<br>![图](https://ehgt.org/fd/d2/fdd2024fd834d03fe73f02022158c563ae2d7937-74888-400-566-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/右代宫战人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
