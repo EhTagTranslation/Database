@@ -1644,6 +1644,7 @@ example:
 | jaku-chara tomozaki-kun | 弱势角色友崎君 |  | [中文维基](https://zh.wikipedia.org/zh-hk/弱角友崎同學) |
 | aikatsu friends | 偶活学园Friends！ | 《偶活学园Friends！》（アイカツフレンズ！）是BANDAI于2018年4月发售的集换式卡牌街机游戏，《偶活学园》系列的第3作。<br><br>电视动画第1期于2018年4月5日在东京电视网开始播放，第2期于2019年4月4日起在东京电视网播放。 | [维基百科](https://zh.wikipedia.org/wiki/偶像活動Friends！) (\*) |
 | jahy-sama wa kujikenai | 贾希大人不气馁 | 《贾希大人不气馁！》（日语：ジャヒー様はくじけない！）是由昆布わかめ创作的一部漫画，并有衍生动画。<br>![](https://cdn-eu.anidb.net/images/main/260693.jpg) | [萌娘百科](https://zh.moegirl.org.cn/贾希大人不气馁) |
+| ling long incarnation | 灵笼:INCARNATION | ![](https://p.sda1.dev/5/7a15c61c7932b74b73af9f3bc8e757e9/灵笼.jpg)<br>《灵笼:INCARNATION》是由艺画开天制作的一部原创动画。于2019年7月13日在开始在哔哩哔哩全网独家播映。<br>不久的未来，人类的世界早已拥挤不堪，迈向星河、寻找新家园的行动迫在眉捷。正当一切有条不紊的推进之时，月相异动，脚下的大地爆发了长达数十年、剧烈的地质变化，人类在这场浩劫中所剩无几。当天地逐渐恢复平静，人们从废墟和深渊中重新踏上了这片熟悉而又陌生的大地。习惯了主宰一切的我们是否还是这个世界的主人？ | [萌娘百科](https://zh.moegirl.org.cn/灵笼) [艺画开天\_灵笼](http://www.1hkt.com/index.php?a=lists&catid=10#灵笼) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
