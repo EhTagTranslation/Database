@@ -1884,7 +1884,7 @@ example:
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 |  |  |
 | paul bunyan | 保罗·班扬 |  |  |
 | kiara sessyoin | 杀生院祈荒 |  |  |
-| astolfo | 阿斯托尔福（阿福） | 这么可爱，一定是——<br>![图](# "https://ehgt.org/46/67/4667a37959d9250b0bb98ee260065f78e951bfc2-1451907-2080-3000-jpg_l.jpg")![图](# "https://ehgt.org/3e/80/3e80fa00ea1061bb93a861d73d250ff038200454-1094945-895-1145-jpg_l.jpg")![图](# "https://ehgt.org/b7/c6/b7c6abcd936f8dd3152846904e4574f014f7b272-471789-653-900-jpg_l.jpg") |  |
+| astolfo | 阿斯托尔福（阿福） | 这么可爱，一定是——<br>![图](# "https://ehgt.org/46/67/4667a37959d9250b0bb98ee260065f78e951bfc2-1451907-2080-3000-jpg_l.jpg")![图](# "https://ehgt.org/3e/80/3e80fa00ea1061bb93a861d73d250ff038200454-1094945-895-1145-jpg_l.jpg")![图](# "https://ehgt.org/b7/c6/b7c6abcd936f8dd3152846904e4574f014f7b272-471789-653-900-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/阿斯托尔福%28Fate%29) |
 | protagonist | 主人公 |  |  |
 | minamoto no raikou | 源赖光 |  |  |
 | meltryllis | 溶解莉莉丝 |  |  |
