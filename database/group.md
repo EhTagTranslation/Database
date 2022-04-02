@@ -2238,6 +2238,7 @@ example:
 | hito no fundoshi | 人の裈 | ひとのふんどし，画师`yukiyoshi mamizu`所属社团。 | [HP](http://hitonohundoshi.sakura.ne.jp) |
 | himitsukessya usagi | 秘密结社兔 | 画师`dancyo`所属同人社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41050.html) |
 | nekonecotton | ねこねこっとん |  |  |
+| tech gian | TECH GIAN | 《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。<br><br>enterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。 | [维基百科](https://zh.wikipedia.org/wiki/TECH_GIAN) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
