@@ -3590,6 +3590,7 @@ example:
 | gorgeous mushroom | 绚烂的蘑菇 | [pixiv](https://www.pixiv.net/users/11187954)<br>[Twitter](https://twitter.com/GMMUSHROOM)<br>[微博](https://www.weibo.com/u/3734949131) |  |
 | samuneko | 寒猫 | pixiv画师 | [Twitter](https://twitter.com/samnekochan1) [pixiv](https://www.pixiv.net/users/21971914) |
 | yakuhina | yakuhina |  | [pixiv](https://www.pixiv.net/users/785442) |
+| kawayoi | かわよい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
