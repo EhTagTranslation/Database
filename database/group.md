@@ -2241,6 +2241,7 @@ example:
 | tech gian | TECH GIAN | 《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。<br><br>enterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。 | [维基百科](https://zh.wikipedia.org/wiki/TECH_GIAN) |
 | fairytale | fairytale | FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。<br><br>1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在<br><br>2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。 | [FAIRYTALE](https://zh.wikipedia.org/wiki/FAIRYTALE) [F&C<br>](https://zh.wikipedia.org/wiki/F%26C) |
 | punipuni no hoppe | ぷにぷにのほっぺ |  |  |
+| houkago inokorigumi | 放課後居残り組 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
