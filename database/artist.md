@@ -3595,6 +3595,7 @@ example:
 | furuya nagisa | 古矢渚 |  |  |
 | chouchin ankou | 提灯暗光 |  | [Twitter](https://twitter.com/fpd_tw) |
 | kantamaki yui | 環々唯 |  |  |
+| emu emuo | えむえむお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
