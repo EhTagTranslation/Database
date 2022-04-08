@@ -3570,7 +3570,7 @@ example:
 | hiyama yuki | 檜山ユキ |  |  |
 | izumi kirifu | 和泉キリフ |  |  |
 | suzuki nago | 鈴木和 |  |  |
-| ito fleda | 伊藤達哉 | ![头像](https://p.sda1.dev/5/ea2f4778bf775cf41dcbd102c0ab410b/伊藤達哉.jpg)<br>"【fantia】<br>[https://fantia.jp/fanclubs/3587](https://fantia.jp/fanclubs/3587)<br>御用の方はメッセージかtyobitatu@hotmail.co.jpまでメール下さい。" | [pixiv](https://www.pixiv.net/users/7968) |
+| ito fleda | 伊藤達哉 Tatsuya Ito | ![图](https://ehgt.org/31/40/31404dad9f248f274a7f8a9e759929edb9e7624c-21806-109-170-jpg_l.jpg)<br><br>【fantia】<br>[https://fantia.jp/fanclubs/3587](https://fantia.jp/fanclubs/3587)<br>御用の方はメッセージかtyobitatu@hotmail.co.jpまでメール下さい。 | [pixiv](https://www.pixiv.net/users/7968) |
 | namatsui | なまつい |  |  |
 | mimamoriencyo | みまもり園長 |  |  |
 | yukiyoshi mamizu | ゆきよし真水 | ![twitter](https://pbs.twimg.com/profile_images/1457222583708184576/o3pY9O6H_400x400.jpg)<br><br>**作者推特头像**<br>同人社团`hito no fundoshi`主笔画师。 | [twitter](https://twitter.com/hitonohundoshi) |
