@@ -3569,7 +3569,7 @@ example:
 | akamoku | あかもく |  | [Twitter](https://twitter.com/akmkmk3) [pixiv](https://www.pixiv.net/users/50151624) |
 | hiyama yuki | 檜山ユキ |  |  |
 | izumi kirifu | 和泉キリフ |  |  |
-| suzuki nago | 鈴木和 |  |  |
+| suzuki nago | 铃木和 |  |  |
 | ito fleda | 伊藤达哉 | ![头像](https://p.sda1.dev/5/ea2f4778bf775cf41dcbd102c0ab410b/伊藤達哉.jpg)<br>"【fantia】<br>[https://fantia.jp/fanclubs/3587](https://fantia.jp/fanclubs/3587)<br>御用の方はメッセージかtyobitatu@hotmail.co.jpまでメール下さい。" | [pixiv](https://www.pixiv.net/users/7968) |
 | namatsui | なまつい |  |  |
 | mimamoriencyo | みまもり園長 |  |  |
