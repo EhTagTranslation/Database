@@ -3560,7 +3560,6 @@ example:
 | meicha | 冥茶 |  |  |
 | shinoda kazuhiro | 篠田一宏 |  |  |
 | cure slum | キュアスラム |  |  |
-| xxoo | 翻译 |  |  |
 | nanakichi | 七吉 |  |  |
 | yoshitama ichirou | 吉玉一楼 |  |  |
 | rifuru | りふる |  |  |
@@ -3598,7 +3597,6 @@ example:
 | emu emuo | えむえむお |  |  |
 | yanagi hareta | 晴太 |  |  |
 | houkisei | ほうき星 | ![](https://pbs.twimg.com/profile_images/1419514827643392001/CW3d6ysA_400x400.jpg) | [pixiv](https://pixiv.net/users/70050825)<br>[Twitter](https://twitter.com/houk1se1) |
-| walker009 | 纯男性 | 爆肛 纯男性 自慰 | [Tsuyudaku (Gyu Donko)] Seisogao Dosukebe Body Onii-san Iyashi no Iyarashi Onanie Haishin [Digital] |
 
 <!--TEMPLATE:
 |  |  |  |  |
