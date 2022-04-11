@@ -2243,6 +2243,7 @@ example:
 | punipuni no hoppe | ぷにぷにのほっぺ |  |  |
 | houkago inokorigumi | 放課後居残り組 |  |  |
 | hokkyoku hotaru | 北極ホタル |  |  |
+| kikyakudou | 鬼脚堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
