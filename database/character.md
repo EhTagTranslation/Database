@@ -3769,6 +3769,7 @@ example:
 | sideroca | 铸铁 | ![立绘\_铸铁\_skin1.png](https://s2.loli.net/2022/04/07/HJ84ceZYdbL52AD.png)<br>《明日方舟》五星干员铸铁 | [PRTS wiki](https://prts.wiki/id/14737)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:铸铁) |
 | utage | 宴 | ![明日方舟立绘\_宴\_skin1.png](https://s2.loli.net/2022/04/07/9NsBIvCJHT1g7Vl.png)<br>《明日方舟》宴 | [PRTS Wiki](https://prts.wiki/w/宴)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:宴) |
 | siege | 推进之王 | ![立绘\_推进之王\_2.png](https://s2.loli.net/2022/04/07/31O5sQepXMFTAUK.png)<br>《明日方舟》推进之王 | [PRTS wiki](https://prts.wiki/id/1770)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:推进之王) |
+| barghest | 巴格斯特（犬魔） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
