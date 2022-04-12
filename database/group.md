@@ -2244,6 +2244,7 @@ example:
 | houkago inokorigumi | 放課後居残り組 |  |  |
 | hokkyoku hotaru | 北極ホタル |  |  |
 | kikyakudou | 鬼脚堂 |  |  |
+| ikameshi shokudou | 乌贼饭食堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
