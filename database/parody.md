@@ -1646,6 +1646,7 @@ example:
 | jahy-sama wa kujikenai | 贾希大人不气馁 | 《贾希大人不气馁！》（日语：ジャヒー様はくじけない！）是由昆布わかめ创作的一部漫画，并有衍生动画。<br>![](https://cdn-eu.anidb.net/images/main/260693.jpg) | [萌娘百科](https://zh.moegirl.org.cn/贾希大人不气馁) |
 | ling long incarnation | 灵笼:INCARNATION | ![](https://p.sda1.dev/5/7a15c61c7932b74b73af9f3bc8e757e9/灵笼.jpg)<br>《灵笼:INCARNATION》是由艺画开天制作的一部原创动画。于2019年7月13日在开始在哔哩哔哩全网独家播映。<br>不久的未来，人类的世界早已拥挤不堪，迈向星河、寻找新家园的行动迫在眉捷。正当一切有条不紊的推进之时，月相异动，脚下的大地爆发了长达数十年、剧烈的地质变化，人类在这场浩劫中所剩无几。当天地逐渐恢复平静，人们从废墟和深渊中重新踏上了这片熟悉而又陌生的大地。习惯了主宰一切的我们是否还是这个世界的主人？ | [萌娘百科](https://zh.moegirl.org.cn/灵笼) [艺画开天\_灵笼](http://www.1hkt.com/index.php?a=lists&catid=10#灵笼) |
 | kouyoku senki exs-tia | 光翼战姬EXS-TIA | 光翼戦姫エクスティア是2015年，Lusterise公司发行的成人游戏系列。<br>エクスティア是EXS-TIA(EX-Spiritual Transfer Interface & Accelerator)略称。 | [维基百科](https://ja.wikipedia.org/wiki/光翼戦姫エクスティア) |
+| assault lily | 突击莉莉 | ![图](https://ehgt.org/9b/f8/9bf89a118ea7317a36996cbb28335ba9d7fd5618-2921295-2400-2784-jpg_l.jpg)<br>《突击莉莉》（日语：アサルトリリィ，英语：Assault Lily）是日本AZONE INTERNATIONAL与acus所推出的媒体混合作品。<br><br>名为“HUGE”的巨大生命体出现在近未来的地球，人类面临毁灭的危机。于是人们开发了名为“CHARM”的决战兵器。CHARM对于十几岁的女性显现出高同步率，而能够操纵CHARM的女性被称作“莉莉（LILY）”并逐渐被视为英雄。为了对抗HUGE而成立的莉莉养成机构“GARDEN”设立于世界各地。这是在这些GARDEN当中，以成为出色的莉莉为目标而战的少女们的故事。 | [维基百科](https://zh.wikipedia.org/wiki/突擊莉莉) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
