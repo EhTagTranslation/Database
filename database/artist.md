@@ -3600,6 +3600,7 @@ example:
 | takahama tarou | 高浜太郎 |  |  |
 | ikezaki misa | 池咲弥撒 |  |  |
 | ikameshi | 乌贼饭 |  |  |
+| sakura romako | 桜ロマ子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
