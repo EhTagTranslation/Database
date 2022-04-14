@@ -1331,7 +1331,7 @@ example:
 | dragon nest | 龙之谷 | 龙之谷（Dragon Nest）是一款韩国公司Eyedentity Games研发的大型多人在线角色扮演游戏，使用非锁定式第三人称视角令玩家可以完全控制自己所使用的角色的动作。龙之谷是通过类似副本的系统提供角色养成的。采用免费游戏道具收费模式运营。 2014年7月31日，同名游戏改编电影《龙之谷：破晓奇兵》在中国首映。 | [维基百科](https://zh.wikipedia.org/zh-cn/龙之谷) (\*) |
 | kuroinu kedakaki seijo wa hakudaku ni somaru | 黑兽～被白浊沾污的高傲圣女～ | 《黑兽～被白浊沾污的高傲圣女～》（日语：黒獣 ～気高き圣女は白浊に染まる～）是由Liquid制作的一部游戏，后续由魔人改编成动画（里番），另外还有两部衍生小说。 | [萌娘百科](https://zh.moegirl.org.cn/黑兽) (\*\*) |
 | initial d | 头文字D | 《头文字D》（英语：INITIAL D，假名：イニシャル・ディー ）是一部以山道飙车为题材的日本青年漫画，以及以漫画改编的动画系列（包含电视版、OVA与电影版）。漫画作者为重野秀一（しげの秀一），自1995年起开始在讲谈社的《周刊Young Magazine》上连载，连载至2013年7月结束，单行本全48卷，还有多本探讨汽车驾驶技巧的周边专书。 | [维基百科](https://zh.wikipedia.org/zh-cn/頭文字D) (\*) |
-| final romance | 对战偶像麻将Final Romance |  |  |
+| final romance | 对战偶像麻雀：最终罗曼史 |  | [http://bbs.geminight.com/?tid=11348](http://bbs.geminight.com/?tid=11348) |
 | violet evergarden | 紫罗兰永恒花园 | 《紫罗兰永恒花园》（ヴァイオレット・エヴァーガーデン）是由晓佳奈创作，高濑亚贵子负责插画的日本轻小说作品，由KA Esuma文库出版与刊行。获得第5回京都动画大奖，也是京都大赏举办以来，目前唯一获得大赏奖的作品。值得注意的书名应是紫花地丁（Violet）而不是紫罗兰（Stock），少校是看到一颗堇菜然后给薇尔莉特起名，紫花地丁是属堇菜科，但目前中文圈普遍误译成十字花科的紫罗兰。 | [维基百科](https://zh.wikipedia.org/zh-cn/紫罗兰永恒花园) (\*) |
 | sokkou seitokai | 速攻学生会 |  |  |
 | shantae | 桑塔 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
