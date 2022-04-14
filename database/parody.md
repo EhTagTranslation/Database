@@ -1622,7 +1622,7 @@ example:
 | gunbuster | 飞跃巅峰 | 庵野秀明1988年导演作品 |  |
 | 13 sentinels aegis rim | 十三机兵防卫圈 |  |  |
 | infinite space | 无限航路 |  |  |
-| tonari no kyuuketsuki-san | 邻家的吸血鬼小妹 |  |  |
+| tonari no kyuuketsuki-san | 邻家索菲 | ![图](https://ehgt.org/76/5d/765d2160ae3ca5f03e2d1d766015563e3cf75162-1682679-866-1256-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/隔壁的吸血鬼美眉) |
 | rabi ribi | Rabi-Ribi |  |  |
 | little witch nobeta | 小魔女诺贝塔 | 《小魔女诺贝塔（Little Witch Nobeta）》是Pupuya Games旗下的3D动作射击游戏，于2020年6月24日在Steam发行。 |  |
 | mieruko-chan | 看得见的女孩 |  |  |
