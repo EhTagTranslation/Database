@@ -3772,6 +3772,7 @@ example:
 | barghest | 巴格斯特（犬魔） |  |  |
 | yellow heart | 黄色之心 |  |  |
 | orange heart | 橙色之心 |  |  |
+| kotonoha katsura | 桂言叶 | ![图](https://ehgt.org/61/fb/61fb96cb43dbe8098937e9f40a699d4bb6208d6b-9343441-2480-3507-png_l.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
