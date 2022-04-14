@@ -3604,6 +3604,7 @@ example:
 | moejin | 萌尽 |  |  |
 | shinjitsu | 真实 |  |  |
 | yoshiie | 由家 |  |  |
+| nikubou maranoshin | 肉棒魔羅ノ進 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
