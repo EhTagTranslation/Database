@@ -3602,6 +3602,7 @@ example:
 | ikameshi | 乌贼饭 |  |  |
 | sakura romako | 桜ロマ子 |  |  |
 | moejin | 萌尽 |  |  |
+| shinjitsu | 真实 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
