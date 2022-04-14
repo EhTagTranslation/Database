@@ -3774,6 +3774,7 @@ example:
 | orange heart | 橙色之心 |  |  |
 | kotonoha katsura | 桂言叶 | ![图](https://ehgt.org/61/fb/61fb96cb43dbe8098937e9f40a699d4bb6208d6b-9343441-2480-3507-png_l.jpg) |  |
 | kokoro katsura | 桂心 | 桂心是Overflow出品的《Days系列》系列游戏及其衍生的动画、漫画等作品的登场角色。桂心是桂言叶的妹妹。桂心与母亲桂真奈美、姐姐桂言叶以及父亲一同生活在原巳台的高档别墅中。她有一个好朋友叫作井伊卯月。她还把伊藤诚亲切地看作自己的哥哥。在《School Days》、《Summer Days》、《Cross Days》、《Shiny Days》均有登场。<br>![](https://cdn.myanimelist.net/images/characters/5/67522.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桂心) |
+| sekai saionji | 西园寺世界 | ![图](https://ehgt.org/cb/d6/cbd6fdd487a8ce8f9884ed666d6138dc9ac4985d-8831667-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西园寺世界) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
