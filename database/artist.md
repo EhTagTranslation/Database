@@ -3606,6 +3606,7 @@ example:
 | yoshiie | 由家 |  |  |
 | nikubou maranoshin | 肉棒魔羅ノ進 |  |  |
 | goya | 蜜姫モカ |  |  |
+| doji ro | どじろー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
