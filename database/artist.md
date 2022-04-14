@@ -3603,6 +3603,7 @@ example:
 | sakura romako | 桜ロマ子 |  |  |
 | moejin | 萌尽 |  |  |
 | shinjitsu | 真实 |  |  |
+| yoshiie | 由家 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
