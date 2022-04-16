@@ -2246,6 +2246,7 @@ example:
 | kikyakudou | 鬼脚堂 |  |  |
 | ikameshi shokudou | 乌贼饭食堂 |  |  |
 | tairikukan dandoudan dan | 大陸間弾道弾団 |  |  |
+| shimobashira koubou | しもばしら工房 |  | [https://ci-en.dlsite.com/creator/4551](https://ci-en.dlsite.com/creator/4551) [https://bgm.tv/person/36481](https://bgm.tv/person/36481) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
