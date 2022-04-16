@@ -2245,6 +2245,7 @@ example:
 | hokkyoku hotaru | 北極ホタル |  |  |
 | kikyakudou | 鬼脚堂 |  |  |
 | ikameshi shokudou | 乌贼饭食堂 |  |  |
+| tairikukan dandoudan dan | 大陸間弾道弾団 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
