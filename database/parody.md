@@ -1651,6 +1651,7 @@ example:
 | akebi-chan no sailor fuku | 明日同学的水手服 | ![图](https://ehgt.org/c7/37/c737c0564c697564c9065d77527af4d1c45987ea-146859-800-1154-jpg_l.jpg)<br>![图](https://ehgt.org/68/a0/68a0e115953744cb35590986e1ae950e05ec3b55-422520-1200-848-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/明日同学的水手服) [维基百科](https://zh.wikipedia.org/wiki/明日同學的水手服) |
 | mahou shoujo celesphonia | 魔法少女天穹法妮雅 |  | [steam](https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/) [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ297120.html) |
 | noel | NOeL: NOT DiGITAL | Noël Not Digital / NOeL: NOT DiGITAL Special Edition / ノエル・ノット・デジタル / 恋爱热线：并非数码 | [https://indienova.com/game/noel-not-digital](https://indienova.com/game/noel-not-digital) |
+| tsumamigui | 妻中蜜 | 妻みぐい | [bangumi](https://bgm.tv/subject/74482) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
