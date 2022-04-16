@@ -1649,7 +1649,7 @@ example:
 | assault lily | 突击莉莉 | ![图](https://ehgt.org/9b/f8/9bf89a118ea7317a36996cbb28335ba9d7fd5618-2921295-2400-2784-jpg_l.jpg)<br>《突击莉莉》（日语：アサルトリリィ，英语：Assault Lily）是日本AZONE INTERNATIONAL与acus所推出的媒体混合作品。<br><br>名为“HUGE”的巨大生命体出现在近未来的地球，人类面临毁灭的危机。于是人们开发了名为“CHARM”的决战兵器。CHARM对于十几岁的女性显现出高同步率，而能够操纵CHARM的女性被称作“莉莉（LILY）”并逐渐被视为英雄。为了对抗HUGE而成立的莉莉养成机构“GARDEN”设立于世界各地。这是在这些GARDEN当中，以成为出色的莉莉为目标而战的少女们的故事。 | [维基百科](https://zh.wikipedia.org/wiki/突擊莉莉) |
 | harem tengoku da to omottara yandere jigoku datta. | 原本以为是后宫天国谁知道竟是病娇地狱 | ![](https://s2.vndb.org/cv/70/19570.jpg)<br>ハーレム天国だと思ったらヤンデレ地獄だった(原本以为是后宫天国谁知道竟是病娇地狱)是由Nippon Ichi Software于2014年4 月 24日发行的PlayStation 3冒险游戏，缩写是“はんもっく”。<br><br>主角如月悠也是当地高中历史研究社的副社长，学生会已经发话了：下次文化节展示点什么，否则就和你的社团说再见。<br><br>因此，悠也和他的三个俱乐部成员试图创造一个吉祥物角色伊左卫门，以积累俱乐部的吸引力。<br><br>然而接下来发生的事情却是任何人都无法预料的…… | [The Visual Novel Database<br>](https://vndb.org/v14536) [维基百科](https://ja.wikipedia.org/wiki/ハーレム天国だと思ったらヤンデレ地獄だった。) |
 | akebi-chan no sailor fuku | 明日同学的水手服 | ![图](https://ehgt.org/c7/37/c737c0564c697564c9065d77527af4d1c45987ea-146859-800-1154-jpg_l.jpg)<br>![图](https://ehgt.org/68/a0/68a0e115953744cb35590986e1ae950e05ec3b55-422520-1200-848-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/明日同学的水手服) [维基百科](https://zh.wikipedia.org/wiki/明日同學的水手服) |
-| mahou shoujo celesphonia | 魔法少女天穹法妮雅 |  | [steam](https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/) |
+| mahou shoujo celesphonia | 魔法少女天穹法妮雅 |  | [steam](https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/) [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ297120.html) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
