@@ -1082,7 +1082,7 @@ example:
 | chiba toshirou | チバトシロウ |  |  |
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
-| haruhisky | はるきち |  |  |
+| haruhisky | はるきち |  | [pixiv](https://www.pixiv.net/artworks/97708819) |
 | ichinomiya yuu | 一宫夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [Twitter](https://twitter.com/Inago1919) [Pixiv](https://www.pixiv.net/users/5629962) |
 | maki daikichi | 牧だいきち |  |  |
