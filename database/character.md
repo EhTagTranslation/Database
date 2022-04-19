@@ -3779,6 +3779,7 @@ example:
 | violet evergarden | 薇奥莱特·艾佛加登 | ![图](https://ehgt.org/81/9b/819b78fa5ef854117d2e9c5ef3da71432a5c6c71-1178735-2048-2646-jpg_l.jpg)<br><br>C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。<br>幼年时被吉尔伯特捡到，有过从军的过去。<br>拥有着与那份美貌不相称的罕见战斗力。<br>由于只知道战斗，而不会理解别人的心情以及表达自己的心情。<br>被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。<br>在战斗中失去双手，后接入机械义手。 | [萌娘百科](https://zh.moegirl.org.cn/薇尔莉特·伊芙加登) |
 | lelei la lelena | 蕾莱·拉·列娜 |  |  |
 | youji itami | 伊丹耀司 |  |  |
+| pina co lada | 平娜·戈·兰达 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
