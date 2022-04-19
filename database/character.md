@@ -3784,6 +3784,7 @@ example:
 | yao haa dushi | 姚·汉·蒂修 |  |  |
 | tuka luna marceau | 杜嘉·露娜·马尔席 |  |  |
 | jeanne | 贞德 |  |  |
+| bayonetta | 贝优妮塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
