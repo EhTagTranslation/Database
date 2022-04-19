@@ -3613,6 +3613,7 @@ example:
 | eufoniuz | Eufoniuz |  | [pixiv](https://www.pixiv.net/users/25327837) |
 | chaoroushi | 炒肉师 |  |  |
 | nikujiruc | 肉汁uc |  |  |
+| nakadera akira | 中寺明良 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
