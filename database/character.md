@@ -3780,6 +3780,7 @@ example:
 | lelei la lelena | 蕾莱·拉·列娜 |  |  |
 | youji itami | 伊丹耀司 |  |  |
 | pina co lada | 平娜·戈·兰达 |  |  |
+| rory mercury | 萝莉·麦丘利 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
