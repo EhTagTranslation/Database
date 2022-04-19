@@ -3611,6 +3611,7 @@ example:
 | inokuma shinobu | 猪熊忍 | ![Twitter头像](https://pbs.twimg.com/profile_images/1128805502979207170/esLQsfos_400x400.jpg)<br>代表作有《恋爱季节》 | [Twitter](https://twitter.com/shinobu_inokuma) |
 | kusayarou | 草野郎 |  |  |
 | eufoniuz | Eufoniuz |  | [pixiv](https://www.pixiv.net/users/25327837) |
+| chaoroushi | 炒肉师 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
