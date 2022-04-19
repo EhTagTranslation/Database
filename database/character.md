@@ -3783,6 +3783,7 @@ example:
 | rory mercury | 萝莉·麦丘利 |  |  |
 | yao haa dushi | 姚·汉·蒂修 |  |  |
 | tuka luna marceau | 杜嘉·露娜·马尔席 |  |  |
+| jeanne | 贞德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
