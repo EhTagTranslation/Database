@@ -3612,6 +3612,7 @@ example:
 | kusayarou | 草野郎 |  |  |
 | eufoniuz | Eufoniuz |  | [pixiv](https://www.pixiv.net/users/25327837) |
 | chaoroushi | 炒肉师 |  |  |
+| nikujiruc | 肉汁uc |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
