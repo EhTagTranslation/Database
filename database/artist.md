@@ -3614,6 +3614,7 @@ example:
 | chaoroushi | 炒肉师 |  |  |
 | nikujiruc | 肉汁uc |  |  |
 | nakadera akira | 中寺明良 |  |  |
+| kushida | くしだ |  | [pixiv](https://www.pixiv.net/users/11441042) [Twitter](https://twitter.com/kushidayo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
