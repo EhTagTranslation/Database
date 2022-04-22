@@ -3785,6 +3785,7 @@ example:
 | tuka luna marceau | 杜嘉·露娜·马尔席 |  |  |
 | jeanne | 贞德 |  |  |
 | bayonetta | 贝优妮塔 |  |  |
+| elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![图](https://ehgt.org/58/e4/58e49e114d5b4593dae6acf6dae88a79d2e222df-135684-610-1309-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
