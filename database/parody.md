@@ -1653,6 +1653,7 @@ example:
 | noel | NOeL: NOT DiGITAL | Noël Not Digital / NOeL: NOT DiGITAL Special Edition / ノエル・ノット・デジタル / 恋爱热线：并非数码 | [https://indienova.com/game/noel-not-digital](https://indienova.com/game/noel-not-digital) |
 | tsumamigui | 妻中蜜 | 妻みぐい | [bangumi](https://bgm.tv/subject/74482) |
 | senpai ga uzai kouhai no hanashi | 关于前辈很烦人的事 |  | [萌娘百科](https://zh.moegirl.org.cn/前辈有够烦) [维基百科](https://zh.wikipedia.org/wiki/前輩有夠煩) [pixiv](https://www.pixiv.net/user/10509347/series/21859) |
+| neko no otera no chion-san | 猫之寺的知恩姐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
