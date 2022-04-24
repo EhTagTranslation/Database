@@ -203,7 +203,7 @@ example:
 | seto no hanayome | 濑户的花嫁 | 《濑户的花嫁》（瀬戸の花嫁）是由2002年至2009年在《月刊GANGAN WING》连载的木村太彦原作漫画作品，在2004年至2005年共发售广播剧CD两卷。从2007年4月开始播放电视动画，2008年发售OVA。网络广播‘瀬戸の花嫁 嫁入りラジオ’于2007年4月6日开始在音泉每周发放。2010年4月22日于网上连载再开。在《月刊GANGAN JOKER》2010年12月号连载完毕。<br>![](# "https://ehgt.org/cb/4e/cb4ef3421b8266e546d3748819b068222b3cce49-1573305-1661-2400-jpg_l.jpg") |  |
 | brave witches | 无畏魔女 | ![](https://ehgt.org/d8/3d/d83d8d6e1311cbbd4b3e205e6db348d4b5b5f229-753411-1051-1494-jpg_l.jpg) |  |
 | strike witches | 强袭魔女 | ![](https://ehgt.org/bb/a8/bba849df4c0a42e8ab77ffc2041c965d36d9a2d9-927736-777-1087-jpg_l.jpg) |  |
-| kemono friends | 兽娘动物园 | 动物朋友、动物好友、兽娘动物园![](https://ehgt.org/a2/bd/a2bda88699f5537b84ac994d8a9cbbfccc022b86-1281172-860-1220-jpg_l.jpg) |  |
+| kemono friends | 兽娘动物园 | 动物朋友、动物好友、兽娘动物园<br>![](https://ehgt.org/a2/bd/a2bda88699f5537b84ac994d8a9cbbfccc022b86-1281172-860-1220-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兽娘动物园) [维基百科](https://zh.wikipedia.org/wiki/動物朋友) |
 | league of legends | 英雄联盟 | ![](https://ehgt.org/c9/be/c9be450b137c14ce716219ec7ed7e0641ad6b919-909411-950-1342-jpg_l.jpg) |  |
 | kill la kill | 斩服少女 | ![](https://ehgt.org/f7/0b/f70b27bfb73bf24bbd6dcc263614962e457a17fd-2131451-3350-4746-jpg_l.jpg) |  |
 | dagashi kashi | 粗点心战争 | ![](https://ehgt.org/e1/fc/e1fce571fe182145db09d2b073f73f73cc91d3d1-1071761-1280-720-png_l.jpg) |  |
