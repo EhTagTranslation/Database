@@ -289,7 +289,7 @@ example:
 |  | == 脖子 == |  |  |
 | asphyxiation | 窒息 | 有意限制对大脑的供氧，往往是为了使性觉醒。 |  |
 | collar | 项圈 | 一种戴在脖子上的装饰物。经常在`bdsm`或`petplay`行为时穿戴，可能包含`leash`。<br>![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/a1/d9/a1d9d284de4c8916078110525e65c60a3df56f9a-3168381-1388-1987-png_l.jpg")![图](# "https://ehgt.org/b1/3d/b13d6d8b3a7f253a47fbf159f59a88cb3ae1ea96-1977836-1784-2551-jpg_l.jpg") |  |
-| hanging | 绞刑 | 用悬挂在脖子上的绳索或结扎物勒住脖子。人本身不一定要悬挂在地面上。可能会引用`snuff`。 |  |
+| hanging | 绞刑 | 用悬挂在脖子上的绳索或结扎物勒住脖子。人本身不一定要悬挂在地面上。可能会引用`snuff`。<br>需要`asphyxiation`标签。 |  |
 | leash | 狗链 | 一种皮带、绳子或链子, 通常连接在`collar`上或缠绕在脖子上。经常在`bdsm`或`petplay`行为时穿戴。<br>![图](# "https://ehgt.org/75/05/75051cbcbdee39b036f206de909e0b8401204266-8683779-2130-3000-png_l.jpg")![图](# "https://ehgt.org/76/a0/76a0a1170a155c9b7858fe074f0d05c5b482933b-5268492-2149-3032-png_l.jpg")![图](# "https://ehgt.org/49/72/497261e2e429e56bcbd48283b7ff078727669e33-292904-841-1200-jpg_l.jpg") |  |
 |  | == 手臂 == |  |  |
 | armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |  |
@@ -486,7 +486,7 @@ example:
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与`crown`混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
 | tights | 紧身服 | 超级英雄穿的紧身衣裤。不应与`bodysuit`混淆。<br>![图](https://ehgt.org/11/97/1197e4eb01dc9fae795cb38eb7827f4f6ff4fdca-1365129-1000-1500-jpg_l.jpg) |  |
 | tracksuit | 运动服 | 合成材料制成的匹配的衬衫和裤子，意在诱发出汗，用于锻炼或运动。只需有一部分衣服在性期间留下。 |  |
-| transparent clothing | 透明服装 | 穿着时覆盖裆部或胸部区域的任何类型的透明服装。只适用于在这两个区域设计透明的服装。 |  |
+| transparent clothing | 透明服装 | 穿着时覆盖裆部或胸部区域的任何类型的透明服装。只适用于在这两个区域设计透明的服装。<br>不用于`pantyhose`或`wet clothes`。不要与`exposed clothing`混淆。 |  |
 | waiter | 男侍者装 | 女侍者装的男性版本。不应与`waitress`或`butler`混淆。需要`crossdressing`标签。 |  |
 | waitress | 女侍者装 | 在餐厅工作的女孩穿的制服; 通常浅色的衣服，有时包括围裙或裙子。不应与`waiter`或`maid`混淆。<br>![图](# "https://ehgt.org/de/00/de00abf34bfd99dda1b9a572744596c5a88a75a6-467070-626-849-jpg_l.jpg") |  |
 | wet clothes | 湿身 | 由于水或其他液体导致潮湿透明的衣服。<br>![图](# "https://ehgt.org/12/5d/125d67d5794c28a61d6507711ddb06d24c6847c5-5880119-2480-3508-jpg_l.jpg")![图](# "https://ehgt.org/3b/ca/3bca90a8a259822d57093716439749699edbccb6-5858700-2480-3508-jpg_l.jpg") |  |
@@ -548,7 +548,7 @@ example:
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。<br>![图](# "https://ehgt.org/2d/ac/2dacb99d48fbd5b5bbb53a3d3cb25d899c954149-108808-600-603-jpg_l.jpg")![图](# "https://ehgt.org/9c/c0/9cc05cec719eec0c560da7f39899d478512dbee0-150550-566-800-jpg_l.jpg") |  |
 | scat | 排便💩 | 是`coprophagia`的前置标签。<br>![图](# "https://ehgt.org/94/6f/946feec6f51fbc4ef01727fed88fddac5f42783e-2597644-1968-3549-jpg_l.jpg") |  |
-| scat insertion | 粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。 |  |
+| scat insertion | 粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
 | sweating | 出汗 | 可见的出汗。不应与`bukkake`或`oil`混淆。 |  |
 | urination | 排尿 | 尿尿。是`piss drinking`的前置标签。<br>![图](# "https://ehgt.org/90/72/90728784008af87a4ef9cd305e1400f8dc9457ef-16284058-4059-2852-png_l.jpg")![图](# "https://ehgt.org/9d/a4/9da4a6b91d3ab5caece51557dad839a971322695-548154-800-600-png_l.jpg")![图](# "https://ehgt.org/f8/88/f8885bc717a3995e01727c070f167acdd047e872-542192-800-600-png_l.jpg")![图](# "https://ehgt.org/07/eb/07eb17f9d7a90e4e0885869314ddb272acbf5608-561496-1126-1600-jpg_l.jpg")![图](# "https://ehgt.org/32/df/32dff92eb3fd29f67c411de9307f2a9e35bd3545-447694-640-480-png_l.jpg") |  |
 |  | == 强迫 == |  |  |
