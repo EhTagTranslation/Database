@@ -1654,6 +1654,7 @@ example:
 | tsumamigui | 妻中蜜 | 妻みぐい | [bangumi](https://bgm.tv/subject/74482) |
 | senpai ga uzai kouhai no hanashi | 关于前辈很烦人的事 |  | [萌娘百科](https://zh.moegirl.org.cn/前辈有够烦) [维基百科](https://zh.wikipedia.org/wiki/前輩有夠煩) [pixiv](https://www.pixiv.net/user/10509347/series/21859) |
 | neko no otera no chion-san | 猫之寺的知恩姐 |  |  |
+| spy x family | 间谍过家家 | 《SPY×FAMILY间谍家家酒》（日语：SPY×FAMILY）是由日本漫画家远藤达哉所创作的漫画，在2019年3月25日起定期连载。本作叙述一名身为间谍的男性、实际工作是杀手的女性，以及一个能读心的超能力者女孩，三人互相隐瞒真实身分所组成的虚假家庭间的家庭喜剧。《SPY×FAMILY间谍家家酒》在2020年版的《这本漫画真厉害！》赢得男生篇第一名。2022年4月销量累计突破1600万册。 | [萌娘百科](https://zh.moegirl.org.cn/间谍过家家) [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
