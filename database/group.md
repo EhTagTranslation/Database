@@ -2250,6 +2250,7 @@ example:
 | muriyari egao | 无理矢理笑颜 |  |  |
 | southbamboo | 南方山竹笋 |  |  |
 | permission | ぱ～みっしょん |  |  |
+| tsuki usagi | 月うさぎ |  | [pixiv](https://www.pixiv.net/users/3440024) [Twitter](https://twitter.com/tukiman02) [HP](https://www.tukiusa00.com/about) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
