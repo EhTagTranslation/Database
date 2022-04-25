@@ -2249,6 +2249,7 @@ example:
 | shimobashira koubou | しもばしら工房 |  | [https://ci-en.dlsite.com/creator/4551](https://ci-en.dlsite.com/creator/4551) [https://bgm.tv/person/36481](https://bgm.tv/person/36481) |
 | muriyari egao | 无理矢理笑颜 |  |  |
 | southbamboo | 南方山竹笋 |  |  |
+| permission | ぱ～みっしょん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
