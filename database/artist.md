@@ -3617,6 +3617,7 @@ example:
 | kushida | くしだ |  | [pixiv](https://www.pixiv.net/users/11441042) [Twitter](https://twitter.com/kushidayo) |
 | ono kenuji | 尾野けぬじ |  | [Twitter](https://twitter.com/ken2015me) [twpf](https://twpf.jp/ken2015me)<br>[niconico](https://www.nicovideo.jp/user/37668626) [pixiv](https://www.pixiv.net/users/773846)<br>[http://otakuiro2.sblo.jp/](http://otakuiro2.sblo.jp/)<br>[http://k-n-g.sblo.jp/](http://k-n-g.sblo.jp/) |
 | gotoh akira | 後藤晶 |  |  |
+| niko | ニコ |  | [pixiv](https://www.pixiv.net/users/380526) |
 
 <!--TEMPLATE:
 |  |  |  |  |
