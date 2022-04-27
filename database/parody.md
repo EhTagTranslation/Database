@@ -219,7 +219,7 @@ example:
 | mahou tsukai no yoru | 魔法使之夜 | 《魔法使之夜》（日语：魔法使いの夜／まほうつかいのよる Mahōtsukai no Yoru），是日本TYPE-MOON公司制作并发售的视觉小说类型游戏。简称为“魔夜”（「まほよ」）。 |  |
 | kara no kyoukai | 空之境界 | 《空之境界》（日语：空の境界，音：Kara no Kyōkai）是日本作家奈须蘑菇所写的奇幻小说，插画师是奈须的朋友武内崇。 |  |
 | canaan | 迦南 | 《CANAAN》，中译迦南，是以日本视觉小说游戏《428 ～被封锁的涩谷～》的世界观为基础，相当于其续作的，以中国上海为舞台，由TYPE-MOON担当脚本及人设，P.A.WORKS公司制作的一部电视动画，共13集。2009年7月4日－2009年9月26日在日本播放。最初发表的标题为“428 the animation”。 同名的漫画也在《月刊CompAce》上开始连载。此外，电视动画播毕后，还有3部相关的剧场版计划上映。 |  |
-| tsukihime | 月姬 | 《月姬》（日语：つきひめ）是日本同人社团TYPE-MOON在2000年推出的一款十八禁美少女游戏，平台为个人电脑的Windows操作系统。 |  |
+| tsukihime | 月姬 | 《月姬》（日语：つきひめ）是日本同人社团TYPE-MOON在2000年推出的一款十八禁美少女游戏，平台为个人电脑的Windows操作系统。<br>![](https://s2.vndb.org/cv/52/2252.jpg) |  |
 |  | ▲Type-Moon 系列 |  |  |
 | kimi no na wa. | 你的名字。 | ![](https://ehgt.org/56/d8/56d88d700dc005eef3823e4101cbd8065617b634-1345847-2088-3000-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/zh/你的名字。) |
 | mashiro iro symphony | 纯白交响曲 | ![](https://ehgt.org/2a/40/2a40760644cf3f5f830d8d528c8dbf97a214f26c-4285636-4384-6077-jpg_l.jpg) |  |
