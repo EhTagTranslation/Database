@@ -3010,7 +3010,7 @@ example:
 | masaru.jp | まさる.jp |  | [Twitter](https://twitter.com/masarudottocom) [pixiv](https://www.pixiv.net/users/6547201) |
 | kizuki rei | 傷希レイ |  |  |
 | arisu kazumi | 有栖かずみ |  | [pixiv](https://www.pixiv.net/users/206855) [Twitter](https://twitter.com/arisu_kazumi_) [Twitter (R18)](https://twitter.com/arisukazumi_r18) |
-| nanashiki | 七色 |  |  |
+| nanashiki | 七色 | [Twitter](https://twitter.com/nanashiki_ame/status/1456957615691288586) [melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=1130057) [pixiv](https://www.pixiv.net/users/1826980) | [Twitter](https://twitter.com/nanashiki_ame/status/1456957615691288586) [melonbooks](https://www.melonbooks.co.jp/detail/detail.php?product_id=1130057) [pixiv](https://www.pixiv.net/users/1826980) |
 | tokuno yuika | 徳之ゆいか |  | [Twitter](https://twitter.com/tokunocin) [pixiv](https://www.pixiv.net/users/10797546) |
 | cut | カット |  | [Twitter](https://twitter.com/umeboshi10191) [pixiv](https://www.pixiv.net/users/3428351) |
 | taya | TAYA |  | [Twitter](https://twitter.com/taya_oco) [pixiv](https://www.pixiv.net/users/5323203) |
