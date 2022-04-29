@@ -1659,6 +1659,7 @@ example:
 | dorohedoro | 异兽魔都 |  | [萌娘百科](https://zh.moegirl.org.cn/异兽魔都) [维基百科](https://en.wikipedia.org/wiki/Dorohedoro) |
 | bokura wa minna kawaisou | 我们大家的河合庄 | en: The Kawai Complex Guide to Manors and Hostel Behavior | [维基百科](https://zh.wikipedia.org/zh-cn/我們大家的河合莊) |
 | game of thrones | 权力的游戏 |  |  |
+| red pride of eden | 伊甸园的骄傲 | 伊甸园的骄傲是一款以异世界和动物娘为主题，由游族网络旗下 C.L 工作室企划，联合 Lorenz 工作室、日本剧作团队 Mikagami、 博物杂志共同参与制作的「新感觉」（LSP）动物娘卡牌 RPG 手游。<br><br>游戏中玩家将扮演由被称为[RED]的动物娘组成的冒险团[Pride]的团长，与动物娘们展开在这片名为[伊甸（Eden）]的大陆上的冒险。 | [萌娘百科](https://zh.moegirl.org.cn/伊甸园的骄傲) [游戏HP](https://eden.gamekee.com/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
