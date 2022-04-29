@@ -1658,6 +1658,7 @@ example:
 | kawaikereba hentai demo suki ni natte kuremasu ka | 只要长得可爱，即使是变态你也喜欢吗? |  | [萌娘百科](https://zh.moegirl.org.cn/只要长得可爱，即使是变态你也喜欢吗) |
 | dorohedoro | 异兽魔都 |  | [萌娘百科](https://zh.moegirl.org.cn/异兽魔都) [维基百科](https://en.wikipedia.org/wiki/Dorohedoro) |
 | bokura wa minna kawaisou | 我们大家的河合庄 | en: The Kawai Complex Guide to Manors and Hostel Behavior | [维基百科](https://zh.wikipedia.org/zh-cn/我們大家的河合莊) |
+| game of thrones | 权力的游戏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
