@@ -3623,6 +3623,7 @@ example:
 | okyou | おきょう |  | [pixiv](https://www.pixiv.net/users/18960704) [Twitter](https://twitter.com/okyou_second) |
 | testame | ツリサス |  | [pixiv](https://www.pixiv.net/users/2760924) [Twitter](https://twitter.com/turi_sasu) |
 | jj | jj |  | [pixiv](https://www.pixiv.net/users/463498) |
+| sesena yau | せせなやう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
