@@ -3621,6 +3621,7 @@ example:
 | hcwj | 心味觉 |  | [pixiv](https://www.pixiv.net/users/61738914) [Twitter](https://twitter.com/heart_taste) |
 | kunimoto takashi | 国本隆史 | 國本隆史(くにもとたかし) | [Twitter](https://twitter.com/nizidesu) [pixiv](https://www.pixiv.net/users/270319) |
 | okyou | おきょう |  | [pixiv](https://www.pixiv.net/users/18960704) [Twitter](https://twitter.com/okyou_second) |
+| testame | ツリサス |  | [pixiv](https://www.pixiv.net/users/2760924) [Twitter](https://twitter.com/turi_sasu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
