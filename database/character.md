@@ -3793,6 +3793,7 @@ example:
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [Youtube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [Twitter](https://twitter.com/shishirobotan) |
 | bennett | 班尼特 |  |  |
 | ruri hoshino | 星野·琉璃 |  | [维基百科](https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters) [萌娘百科](https://zh.moegirl.org.cn/星野琉璃) [Fanbox](https://nadesico.fandom.com/wiki/Ruri_Hoshino) |
+| lanling wang | 兰陵王 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰陵王%28Fate%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
