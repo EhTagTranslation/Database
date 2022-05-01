@@ -2255,6 +2255,7 @@ example:
 | alpharalpha alley | アルファラルファ裏通り |  | [http://alpharalpha.blog117.fc2.com/](http://alpharalpha.blog117.fc2.com/) |
 | thirty saver street 2d shooting | サーティセイバーストリート |  | [Twitter](https://twitter.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
 | ruri ruri kikaku | 瑠璃瑠璃企画 |  |  |
+| amanedou | あまね堂 |  | [Twitter](https://twitter.com/amane191919) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
