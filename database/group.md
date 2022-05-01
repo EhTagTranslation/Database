@@ -2253,6 +2253,7 @@ example:
 | tsuki usagi | 月うさぎ |  | [pixiv](https://www.pixiv.net/users/3440024) [Twitter](https://twitter.com/tukiman02) [HP](https://www.tukiusa00.com/about) |
 | ameiro | あめいろ |  |  |
 | alpharalpha alley | アルファラルファ裏通り |  | [http://alpharalpha.blog117.fc2.com/](http://alpharalpha.blog117.fc2.com/) |
+| thirty saver street 2d shooting | サーティセイバーストリート |  | [Twitter](https://twitter.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
