@@ -3629,6 +3629,7 @@ example:
 | nenobi | 子野日 |  | [pixiv](https://www.pixiv.net/users/14609740) [Twitter](https://twitter.com/neno_vi) |
 | maki hideto | 牧秀人 |  |  |
 | sahara ikkou | 佐原一光 | Sawara Kazumitsu 或 sahara ikkou | [pixiv](https://www.pixiv.net/users/4781191) |
+| izumi mahiru | 泉まひる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
