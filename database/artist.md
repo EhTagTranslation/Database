@@ -3626,6 +3626,7 @@ example:
 | sesena yau | せせなやう |  |  |
 | cai pi jun | 菜さん |  | [Fanbox](https://caisan.fanbox.cc/) [patreon](https://www.patreon.com/user?u=28464855) [pixiv](https://www.pixiv.net/users/6641844https://twitter.com/caisan2020) |
 | hara | へら |  | [pixiv](https://www.pixiv.net/users/8252709) |
+| nenobi | 子野日 |  | [pixiv](https://www.pixiv.net/users/14609740) [Twitter](https://twitter.com/neno_vi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
