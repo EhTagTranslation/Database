@@ -2256,6 +2256,7 @@ example:
 | thirty saver street 2d shooting | サーティセイバーストリート |  | [Twitter](https://twitter.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
 | ruri ruri kikaku | 瑠璃瑠璃企画 |  |  |
 | amanedou | あまね堂 |  | [Twitter](https://twitter.com/amane191919) |
+| esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [Twitter](https://twitter.com/explorador_sei) [fanbox](https://esperanzasei.fanbox.cc/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
