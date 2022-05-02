@@ -2257,6 +2257,7 @@ example:
 | ruri ruri kikaku | 瑠璃瑠璃企画 |  |  |
 | amanedou | あまね堂 |  | [Twitter](https://twitter.com/amane191919) |
 | esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [Twitter](https://twitter.com/explorador_sei) [fanbox](https://esperanzasei.fanbox.cc/) |
+| tamago no kimi | 卵の黄身 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
