@@ -3798,6 +3798,7 @@ example:
 | shizuku kuroe | 黑江雫 |  |  |
 | ellen baker | 艾伦·贝可 | Ellen Baker（エレン・ベーカー）是东京书籍株式会社出版的中学用新版英语教科书《NEW HORIZON》2016年版中的登场角色。2016年四月初于网络突然爆红，通称艾伦老师。 | [萌娘百科](https://zh.moegirl.org.cn/Ellen_Baker) |
 | shizune | 静音 |  |  |
+| kurenai yuhi | 夕日红 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
