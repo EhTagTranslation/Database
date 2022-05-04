@@ -2259,6 +2259,7 @@ example:
 | esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [Twitter](https://twitter.com/explorador_sei) [fanbox](https://esperanzasei.fanbox.cc/) |
 | tamago no kimi | 卵の黄身 |  |  |
 | shadan katsudoh | 遮断活動 |  |  |
+| tougen shokken | 桃幻食研 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
