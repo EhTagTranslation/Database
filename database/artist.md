@@ -3632,6 +3632,7 @@ example:
 | izumi mahiru | 泉まひる |  |  |
 | ranou | 卵の黄身 |  | [pixiv](https://www.pixiv.net/users/35907) [Twitter](https://twitter.com/rannou75) |
 | abso lu | あぶそる |  | [pixiv](https://www.pixiv.net/users/3202270) |
+| kyuusuikei | 給水係 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
