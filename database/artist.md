@@ -3636,7 +3636,7 @@ example:
 | sr | SR |  | [pixiv](https://www.pixiv.net/users/20714093) |
 | azure | あずーる |  | [Twitter](https://twitter.com/azure_0608_sub) [pixiv](https://www.pixiv.net/users/5838770) |
 | ishimura | 石村 |  |  |
-| random | 兰田梦 |  | [pixiv](https://www.pixiv.net/users/6810171) |
+| random | 兰田梦 |  |  |
 | hamadamiku | 浜田みく |  |  |
 
 <!--TEMPLATE:
