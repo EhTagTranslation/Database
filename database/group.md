@@ -2260,6 +2260,7 @@ example:
 | tamago no kimi | 卵の黄身 |  |  |
 | shadan katsudoh | 遮断活動 |  |  |
 | tougen shokken | 桃幻食研 |  |  |
+| ciel-arc | しえるあーく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
