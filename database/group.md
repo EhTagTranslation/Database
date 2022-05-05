@@ -2261,6 +2261,7 @@ example:
 | shadan katsudoh | 遮断活動 |  |  |
 | tougen shokken | 桃幻食研 |  |  |
 | ciel-arc | しえるあーく |  |  |
+| meshi shinja | 饭信者 |  | [pixiv](https://www.pixiv.net/users/73419977) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
