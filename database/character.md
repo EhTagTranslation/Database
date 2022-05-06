@@ -3304,7 +3304,7 @@ example:
 | norman | 诺曼 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
 | ray | 雷 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
 | gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
-| nat | 奈特 | 《约定的梦幻岛》主角孩子团中之一 | baiduboxapp://swan/AZQtr4jkpf90T3X9QMWVLF1bkeV4LXxD/pages/lemma/lemma?lemmaTitle=%E5%A5%88%E7%89%B9&lemmaId=23181361&fr=aladdin&\_baiduboxapp=%7B%22from%22%3A%221081000900000000%22%2C%22ext%22%3A%7B%22tplname%22%3A%22bk\_polysemy%22%2C%22srcid%22%3A1547%2C%22order%22%3A%221%22%2C%22token%22%3A%22swanubc%22%2C%22searchid%22%3A%225438254383423939000%22%2C%22third\_ext%22%3A%7B%22ivkSource%22%3A%22h5\_schema%22%7D%2C%22searchQueryEnc%22%3A%22\_u2Fi\_ao2i\_auLQXDGPUcG-s8XcablWULAPZdGBf0ejRto-8C\_new%22%7D%7D&callback=\_bdbox\_js\_5630&oauthType=search&searchParams=%7B%22failUrl%22%3A%22https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%25A5%2588%25E7%2589%25B9%2F23181361%22%2C%22logParams%22%3A%22pu%3D%24pu%26baiduid%3D%24baiduid%26tcreq4log%3D1%26isAtom%3D1%26cyc%3D1%26clk\_info%3D%7B%5C%22tplname%5C%22%3A%5C%22bk\_polysemy%5C%22%2C%5C%22srcid%5C%22%3A1547%2C%5C%22ivkStatus%5C%22%3A%5C%22new\_ivk\_success%5C%22%2C%5C%22type%5C%22%3A%5C%22xcx%5C%22%2C%5C%22naType%5C%22%3A%5C%22%5C%22%2C%5C%22ivkSource%5C%22%3A |
+| nat | 奈特 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | anna | 安娜 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | thoma | 托马 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | phil | 菲尔 | 《约定的梦幻岛》主角孩子团中之一 |  |
