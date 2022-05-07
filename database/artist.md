@@ -2224,7 +2224,7 @@ example:
 | badonion | BadOnion |  |  |
 | hazuki ruka | 羽月るか |  |  |
 | eno tato | 江野たと |  |  |
-| daiaru | ダイアル |  |  |
+| daiaru | ダイアル | ダイアル(片織トケイ） | [pixiv](https://www.pixiv.net/users/711526) [Twitter](https://twitter.com/daiaru_diary) |
 | mokusei zaijuu | 木星在住 |  |  |
 | kaga akuru | 加賀あくる |  |  |
 | nekoaruko | ねこ＠るこ |  |  |
