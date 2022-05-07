@@ -86,3 +86,7 @@
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
 [plat-uwp]: https://img.shields.io/badge/platform-UWP-blue.svg?logo=windows
 [plat-android]: https://img.shields.io/badge/platform-Android-brightgreen.svg?logo=android
+
+## 状态
+[![Alt](https://repobeats.axiom.co/api/embed/2245f0745828242e4da50315448575353b94df96.svg "Repobeats analytics image")](https://github.com/EhTagTranslation/Database/pulse)
+
