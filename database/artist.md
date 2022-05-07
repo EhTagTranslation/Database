@@ -3638,6 +3638,7 @@ example:
 | ishimura | 石村 |  |  |
 | random | 兰田梦 |  | [pixiv](https://www.pixiv.net/users/6810171) |
 | hamadamiku | 浜田みく |  |  |
+| nanasaki | 七崎 | ハチナナ (七崎) | [fanbox](https://nanasaki87.fanbox.cc/) [fantia](https://fantia.jp/fanclubs/297788) [pixiv](https://www.pixiv.net/users/21007221) [Twitter](https://twitter.com/nanasaki87) |
 
 <!--TEMPLATE:
 |  |  |  |  |
