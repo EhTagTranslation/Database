@@ -3644,6 +3644,7 @@ example:
 | manbou | マンボー |  |  |
 | mokuseirokku | 木星ろっく |  | [pixiv](https://www.pixiv.net/users/1994389) |
 | ment | ment |  | [pixiv](https://www.pixiv.net/users/52122) |
+| nardack | Nardack | Nardack(ナルダク) | [pixiv](https://www.pixiv.net/users/341433) [Twitter](https://twitter.com/Nardack) |
 
 <!--TEMPLATE:
 |  |  |  |  |
