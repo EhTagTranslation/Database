@@ -3642,6 +3642,7 @@ example:
 | satsuki misuzu | 皐月深鈴 | ![Pixiv](https://ehgt.org/b2/58/b258b6eb5f07e5e734fee9be9dd109726c32c5de-50050-170-170-png_l.jpg)<br>皐月深鈴(皐月みすず) | [pixiv](https://www.pixiv.net/member_illust.php?id=1914946) [Twitter](https://twitter.com/misuzu_satsuki) |
 | haneru | HaneRu | 『R-18絵師，18歳未満の方やそういった要素が苦手な方はフォローしたり不適切設定を外して閲覧したりしないで下さ』<br>『R-18画师，未满18岁及不擅长此类元素者，请勿关注或浏览无不当设置』 | [pixiv](https://www.pixiv.net/users/3452804/illustrations) [Twitter](https://twitter.com/haneru253) |
 | manbou | マンボー |  |  |
+| mokuseirokku | 木星ろっく |  | [pixiv](https://www.pixiv.net/users/1994389) |
 
 <!--TEMPLATE:
 |  |  |  |  |
