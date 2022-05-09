@@ -3650,6 +3650,7 @@ example:
 | torimogura | とりもぐら |  | [fanbox](https://tori-mogura.fanbox.cc/) [fantia](https://fantia.jp/fanclubs/224374) [pixiv](https://www.pixiv.net/users/62546282) [Twitter](https://twitter.com/bird_ssssss) |
 | ihara asta | 伊原あす太 |  | [pixiv](http://www.pixiv.net/member.php?id=702078) [Twitter](http://twitter.com/youmoumofumofu) |
 | yasu | yasu |  | [pixiv](https://www.pixiv.net/users/392399) [Twitter](https://twitter.com/yasu26937978) |
+| akadama | 红玉 |  | [pixiv](https://www.pixiv.net/users/2720186) |
 
 <!--TEMPLATE:
 |  |  |  |  |
