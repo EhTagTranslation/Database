@@ -156,6 +156,7 @@ example:
 | octopus | 章鱼🐙 | 任何头足纲动物。 |  |
 | ostrich | 鸵鸟 | 任何长颈无飞行能力的鸟纲动物。 |  |
 | panther | 豹🐆 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 |  |
+| pegasus | 天马 | 神话中带翅膀的马或独角兽。<br>不应与`horse`或`unicorn`混淆。不应该被标记在`furry`的角色上。 |  |
 | pig | 猪🐖 | 任何猪属动物。 |  |
 | rabbit | 兔🐇 | 任何兔科动物。 |  |
 | reptile | 爬虫 | 任何爬行动物。 |  |
@@ -312,6 +313,7 @@ example:
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](# "https://ehgt.org/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg") |  |
 | multiple nipples | 多乳头 | 每只乳房有多于一个乳头。 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
+| nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
@@ -344,6 +346,7 @@ example:
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
+| retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`dick growth`、`clit growth`或`big clit`混淆。 |  |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
@@ -532,6 +535,7 @@ example:
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |
 | petplay | 人宠 | 像宠物一样对待人。不应与`human cattle`和`slave`混淆。常是`bdsm`的一环。 |  |
 | slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用`bdsm`。不要与`petplay`或`human cattle`混淆。 |  |
+| smalldom | 逆体格差 | 一个较小的参与者对一个至少比他高一个头或宽一倍的人起主导作用。<br>如果主导者是女性，则需要使用`femdom`标签。两个参与者都必须是人形，才能适用该标签。 |  |
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 |  |
 |  | === 强迫 > 束缚 === |  |  |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是`pillory`、`shibari`、`stuck in wall`和`wooden horse`的前置标签。不需要为`gag`或`leg lock`添加此标签。<br>![图](# "https://ehgt.org/5c/9f/5c9f162f5be7c0b34e7933a877d63d3c974f4497-694501-1024-576-png_l.jpg") |  |
@@ -591,6 +595,7 @@ example:
 |  | === 上下文 > 全画廊 === |  |  |
 | males only | 纯男性⚣ | 在画廊中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。`cuntboy`不算在内。<br>![例：黒執事同人](# "https://ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
 | sole male | 单男主 | 只有一个男性参与了整个画廊的所有性爱或恋物癖活动。`cuntboy`不算在内。 |  |
+| sole pussyboy | 单扶他 | 只有一个`cuntboy`或`otokofutanari`参与整个画廊的任何性或恋物活动（但不一定在所有活动中）。<br>不应与`solo action`混淆。 |  |
 |  | === 上下文 > 不忠 === |  |  |
 | cheating | 出轨 | 另一半与别人的伴侣发生性关系。如果性行为是违背自己的意愿（例如`rape`），不应标记。不用于`swinging`。不应与`netorare`混淆。（性主角这方是主动的） |  |
 | netorare | NTR | 另一个人的配偶/伴侣不忠并且被戴绿帽子的意识到的情况。或这个故事显然是为了引发被戴绿帽子的人的嫉妒或同感时也可以接受。不应与`cheating`混淆。（性主角这方是被动的） |  |

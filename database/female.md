@@ -157,6 +157,7 @@ example:
 | octopus | 章鱼🦑 | 任何头足纲动物。 |  |
 | ostrich | 鸵鸟 | 任何长颈无飞行能力的鸟纲动物。 |  |
 | panther | 豹🐆 | 任何美洲狮(Puma concolor)、猎豹(Acinonyx jubatus)或豹(Panthera pardus)。 |  |
+| pegasus | 天马 | 神话中带翅膀的马或独角兽。<br>不应与`horse`或`unicorn`混淆。不应该被标记在`furry`的角色上。 |  |
 | pig | 猪🐖 | 任何猪属动物。 |  |
 | rabbit | 兔🐇 | 任何兔科动物。 |  |
 | reptile | 爬虫 | 任何爬行动物。 |  |
@@ -326,6 +327,7 @@ example:
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
 | nipple expansion | 乳头膨胀 | 乳头的大小明显增长。可能产生`big nipples`。 |  |
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。<br>![图](# "https://ehgt.org/3c/6b/3c6b94cb5b1d27c3d5bd9bf68c7b79db648fe9a1-419077-768-1024-jpg_250.jpg")![图](# "https://ehgt.org/04/e9/04e9b0eef8d5300f6005f2bd18616c32058dd710-210487-619-900-jpg_250.jpg")![图](# "https://ehgt.org/25/1d/251d253ca9668e4f1c8f55854cb0e1b8cd5c0454-1123823-1680-1260-jpg_250.jpg")![图](# "https://ehgt.org/8b/02/8b02121062922026552366f929c5d351475fe0ae-197939-800-600-jpg_l.jpg") |  |
+| nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
@@ -358,6 +360,7 @@ example:
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
+| retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`dick growth`、`clit growth`或`big clit`混淆。 |  |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 | adventitious vagina | 畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
@@ -564,6 +567,7 @@ example:
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |
 | petplay | 人宠 | 像宠物一样对待人。不应与`human cattle`和`slave`混淆。常是`bdsm`的一环。<br>![图](# "https://ehgt.org/5c/81/5c812d630ffb5fb55ca789bc6231de648a5c66ab-541664-800-600-png_l.jpg")![图](# "https://ehgt.org/10/cb/10cb6a72533df96d4696c070f42d0d272867c3b7-615868-800-600-png_l.jpg")![图](# "https://ehgt.org/fa/e1/fae1d3224900eb05db965c1156dd346856ce2445-284459-640-480-png_l.jpg")![图](# "https://ehgt.org/ad/47/ad478842b887a06c1d82f0887487980c8ba6110c-529901-800-600-png_l.jpg")![图](# "https://ehgt.org/d8/88/d888dd4769c704e8f836438baa805185384921b5-601549-800-600-png_l.jpg") |  |
 | slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用`bdsm`。不要与`petplay`或`human cattle`混淆。 |  |
+| smalldom | 逆体格差 | 一个较小的参与者对一个至少比他高一个头或宽一倍的人起主导作用。<br>如果主导者是女性，则需要使用`femdom`标签。两个参与者都必须是人形，才能适用该标签。 |  |
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 |  |
 |  | === 强迫 > 束缚 === |  |  |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是`pillory`、`shibari`、`stuck in wall`和`wooden horse`的前置标签。不需要为`gag`或`leg lock`添加此标签。<br>![图](# "https://ehgt.org/ae/0d/ae0df2c2755d46ce6afbe1c6661bbda91124f60f-641898-675-1000-jpg_l.jpg")![图](# "https://ehgt.org/40/08/4008160bac4d19506bc6d311f3a7cef57ba0a5c8-4332577-4059-2852-png_l.jpg") |  |
