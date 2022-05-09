@@ -3645,6 +3645,7 @@ example:
 | mokuseirokku | 木星ろっく |  | [pixiv](https://www.pixiv.net/users/1994389) |
 | ment | ment |  | [pixiv](https://www.pixiv.net/users/52122) |
 | nardack | Nardack | Nardack(ナルダク) | [pixiv](https://www.pixiv.net/users/341433) [Twitter](https://twitter.com/Nardack) |
+| borisu | ボリス |  | [fanbox](https://borisnoborhys.fanbox.cc/) [pawoo](https://pawoo.net/@borisn) [nijie](https://nijie.info/members.php?id=80505) [pixiv](https://www.pixiv.net/users/5375435) [Twitter](https://twitter.com/boris_noborhys) |
 
 <!--TEMPLATE:
 |  |  |  |  |
