@@ -2263,6 +2263,7 @@ example:
 | ciel-arc | しえるあーく |  |  |
 | meshi shinja | 饭信者 |  | [pixiv](https://www.pixiv.net/users/73419977) |
 | ishimuraya | 石村屋 |  |  |
+| seika kairaku shoten | 聖華快楽書店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
