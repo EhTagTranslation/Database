@@ -3651,6 +3651,7 @@ example:
 | ihara asta | 伊原あす太 |  | [pixiv](http://www.pixiv.net/member.php?id=702078) [Twitter](http://twitter.com/youmoumofumofu) |
 | yasu | yasu |  | [pixiv](https://www.pixiv.net/users/392399) [Twitter](https://twitter.com/yasu26937978) |
 | akadama | 红玉 |  | [pixiv](https://www.pixiv.net/users/2720186) |
+| shirahama kouta | 白波航希 | 白波航希（白浜コータ）<br>Z-Less | [pixiv](https://www.pixiv.net/users/64377) |
 
 <!--TEMPLATE:
 |  |  |  |  |
