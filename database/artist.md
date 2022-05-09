@@ -3648,6 +3648,7 @@ example:
 | borisu | ボリス |  | [fanbox](https://borisnoborhys.fanbox.cc/) [pawoo](https://pawoo.net/@borisn) [nijie](https://nijie.info/members.php?id=80505) [pixiv](https://www.pixiv.net/users/5375435) [Twitter](https://twitter.com/boris_noborhys) |
 | kunisaki kei | 国崎蛍 | 萝莉画师 | [Twitter](https://twitter.com/lh_kunikei) |
 | torimogura | とりもぐら |  | [fanbox](https://tori-mogura.fanbox.cc/) [fantia](https://fantia.jp/fanclubs/224374) [pixiv](https://www.pixiv.net/users/62546282) [Twitter](https://twitter.com/bird_ssssss) |
+| ihara asta | 伊原あす太 |  | [pixiv](http://www.pixiv.net/member.php?id=702078) [Twitter](http://twitter.com/youmoumofumofu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
