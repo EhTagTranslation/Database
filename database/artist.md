@@ -3652,6 +3652,7 @@ example:
 | yasu | yasu |  | [pixiv](https://www.pixiv.net/users/392399) [Twitter](https://twitter.com/yasu26937978) |
 | akadama | 红玉 |  | [pixiv](https://www.pixiv.net/users/2720186) |
 | shirahama kouta | 白波航希 | 白波航希（白浜コータ）<br>Z-Less | [pixiv](https://www.pixiv.net/users/64377) |
+| asaga aoi | 浅賀葵 |  | [pixiv](https://www.pixiv.net/users/233417) [Twitter](https://twitter.com/asagaaoi1) |
 
 <!--TEMPLATE:
 |  |  |  |  |
