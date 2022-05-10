@@ -1663,6 +1663,7 @@ example:
 | nana to kaoru | 奈奈与薰的SM日记 |  |  |
 | kawaii dake ja nai shikimori-san | 式守同学不只可爱而已 | ![图](https://ehgt.org/c7/f2/c7f21ef3f0feec2acdab15815fdb800bcdc71cdf-986740-1914-2714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/式守同学不只可爱而已) [维基百科](https://en.wikipedia.org/wiki/Shikimori%27s_Not_Just_a_Cutie) |
 | toaru project | 魔法禁书系列 | An universal parody tag for all works set in the "Toaru universe", such as `toaru majutsu no index` (とある魔術の禁書目録) and `toaru kagaku no railgun` (とある科学の超電磁砲). |  |
+| tenka hyakken | 天华百剑 | 《天华百剑》是在 KADOKAWA ASCII Media Works 的动漫杂志「电击 G's Magazine」上，从 2015 年 6 月起连载图绘小说的企划。是一个将日本刀美少女化的企划，有许多人气绘师与漫画作家参与。<br><br>目前在「电击 G's Magazine」连载图绘小说（文：SEVEN DAYS WAR，插图：Tea），也在官方 Twitter 上连载 4 格漫画（作者：武シノブ）。从 2016 年 6 月起于「电击 G's Comic」上连载剧情漫画（作者：酒月ほまれ）。还从2017年4月起于「电击 G's Magazine」特别附录「DENGEKI G’s NOVEL」连载小说。2017年4月与 DeNA 合作推出智慧型手机游戏。2019年4月宣布短篇动画化。 | [萌娘百科](https://zh.moegirl.org.cn/天华百剑) [萌娘百科](https://zh.moegirl.org.cn/天华百剑_-斩-) [维基百科](https://ja.wikipedia.org/wiki/天華百剣) [fandom](https://tenka-hyakken.fandom.com/wiki/Tenka_Hyakken_Wikia) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
