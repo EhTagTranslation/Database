@@ -3653,6 +3653,7 @@ example:
 | akadama | 红玉 |  | [pixiv](https://www.pixiv.net/users/2720186) |
 | shirahama kouta | 白波航希 | 白波航希（白浜コータ）<br>Z-Less | [pixiv](https://www.pixiv.net/users/64377) |
 | asaga aoi | 浅賀葵 |  | [pixiv](https://www.pixiv.net/users/233417) [Twitter](https://twitter.com/asagaaoi1) |
+| camonome | かものめ |  | [pixiv](https://www.pixiv.net/users/8814278) [Twitter](https://twitter.com/camonome) |
 
 <!--TEMPLATE:
 |  |  |  |  |
