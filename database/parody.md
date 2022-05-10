@@ -1662,6 +1662,7 @@ example:
 | red pride of eden | 伊甸园的骄傲 | 伊甸园的骄傲是一款以异世界和动物娘为主题，由游族网络旗下 C.L 工作室企划，联合 Lorenz 工作室、日本剧作团队 Mikagami、 博物杂志共同参与制作的「新感觉」（LSP）动物娘卡牌 RPG 手游。<br><br>游戏中玩家将扮演由被称为[RED]的动物娘组成的冒险团[Pride]的团长，与动物娘们展开在这片名为[伊甸（Eden）]的大陆上的冒险。 | [萌娘百科](https://zh.moegirl.org.cn/伊甸园的骄傲) [游戏HP](https://eden.gamekee.com/) |
 | nana to kaoru | 奈奈与薰的SM日记 |  |  |
 | kawaii dake ja nai shikimori-san | 式守同学不只可爱而已 | ![图](https://ehgt.org/c7/f2/c7f21ef3f0feec2acdab15815fdb800bcdc71cdf-986740-1914-2714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/式守同学不只可爱而已) [维基百科](https://en.wikipedia.org/wiki/Shikimori%27s_Not_Just_a_Cutie) |
+| toaru project | 魔法禁书系列 | An universal parody tag for all works set in the "Toaru universe", such as `toaru majutsu no index` (とある魔術の禁書目録) and `toaru kagaku no railgun` (とある科学の超電磁砲). |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
