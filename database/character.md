@@ -3801,6 +3801,7 @@ example:
 | kurenai yuhi | 夕日红 |  |  |
 | mei terumi | 照美冥 |  |  |
 | ai ohto | 大户爱 | 大户爱（日语：大戸（おおと） アイ）是由野岛伸司原案及剧本、若林信担任监督，并由CloverWorks制作的原创动画《奇蛋物语／WONDER EGG PRIORITY》及其衍生作品中的登场角色。<br><br>14岁。患有虹彩异色症的少女。<br><br>现在因为某种原因没能去学校。时常穿着有向日葵图样的黄色连帽衫。<br><br>决胜词是「我已经……怒不可遏了！」<br><br>家中的门牌号是4-303。 | [萌娘百科](https://zh.moegirl.org.cn/大户爱) |
+| kurumi ebisuzawa | 惠飞须泽胡桃 | 惠飞须泽胡桃（胡一铲）是漫画《学园孤岛》及其衍生作品的登场角色。<br>![图](https://ehgt.org/df/1f/df1fc57e74762508484fba428111a6f11120fbc2-404983-322-1173-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/惠飞须泽胡桃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
