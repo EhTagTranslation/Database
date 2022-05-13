@@ -1394,7 +1394,7 @@ example:
 | asan | あさん |  |  |
 | akahige | 赤髭 |  |  |
 | nangou jingeru | 南郷じんげる |  |  |
-| mitsurugi aoi | 能都くるみ（みつるぎあおい） |  | [pixiv](https://www.pixiv.net/users/441987) |
+| mitsurugi aoi | 能都くるみ | 能都くるみ（みつるぎあおい） | [pixiv](https://www.pixiv.net/users/441987) |
 | kuuchuu yousai | 空中幼彩 |  | [Twitter](https://twitter.com/pagumagu) |
 | kotomi yo-ji | ことみようじ |  |  |
 | hirowa nagi | 广轮凪 |  |  |
