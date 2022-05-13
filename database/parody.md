@@ -1666,6 +1666,7 @@ example:
 | tenka hyakken | 天华百剑 | 《天华百剑》是在 KADOKAWA ASCII Media Works 的动漫杂志「电击 G's Magazine」上，从 2015 年 6 月起连载图绘小说的企划。是一个将日本刀美少女化的企划，有许多人气绘师与漫画作家参与。<br><br>目前在「电击 G's Magazine」连载图绘小说（文：SEVEN DAYS WAR，插图：Tea），也在官方 Twitter 上连载 4 格漫画（作者：武シノブ）。从 2016 年 6 月起于「电击 G's Comic」上连载剧情漫画（作者：酒月ほまれ）。还从2017年4月起于「电击 G's Magazine」特别附录「DENGEKI G’s NOVEL」连载小说。2017年4月与 DeNA 合作推出智慧型手机游戏。2019年4月宣布短篇动画化。 | [萌娘百科](https://zh.moegirl.org.cn/天华百剑) [萌娘百科](https://zh.moegirl.org.cn/天华百剑_-斩-) [维基百科](https://ja.wikipedia.org/wiki/天華百剣) [fandom](https://tenka-hyakken.fandom.com/wiki/Tenka_Hyakken_Wikia) |
 | oshiro project | 御城少女Project | 《御城Project》（御城プロジェクト ～CASTLE DEFENSE～）是由DMM GAMES开发、由DMM.com运营的以日本各地的古代城池拟人为题材的收集类塔防网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/御城少女Project) [萌娘百科](https://zh.moegirl.org.cn/御城少女Project:RE) [fandom](https://shiroprore.fandom.com/wiki/Shiro_Project:RE_Wiki) |
 | amaama to inazuma | 天真与闪电 |  | [萌娘百科](https://zh.moegirl.org.cn/天真与闪电) [维基百科](https://en.wikipedia.org/wiki/Sweetness_and_Lightning) |
+| kin-iro loveriche | 金辉恋曲四重奏 | 金辉恋曲四重奏（日语：金色ラブリッチェ，简称金恋）是由日本美少女游戏厂商SAGA PLANETS开发的R18恋爱冒险游戏，该作为该社的第20作。中文版由HIKARI FIELD代理。<br>![图](https://ehgt.org/b4/f1/b4f10d00a696b5722579514e9312191c573a0107-363805-1070-1518-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/金辉恋曲四重奏) [hp](http://sagaplanets.product.co.jp/works/kinkoi/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
