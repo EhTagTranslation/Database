@@ -1667,6 +1667,7 @@ example:
 | oshiro project | 御城少女Project | 《御城Project》（御城プロジェクト ～CASTLE DEFENSE～）是由DMM GAMES开发、由DMM.com运营的以日本各地的古代城池拟人为题材的收集类塔防网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/御城少女Project) [萌娘百科](https://zh.moegirl.org.cn/御城少女Project:RE) [fandom](https://shiroprore.fandom.com/wiki/Shiro_Project:RE_Wiki) |
 | amaama to inazuma | 天真与闪电 |  | [萌娘百科](https://zh.moegirl.org.cn/天真与闪电) [维基百科](https://en.wikipedia.org/wiki/Sweetness_and_Lightning) |
 | kin-iro loveriche | 金辉恋曲四重奏 | 金辉恋曲四重奏（日语：金色ラブリッチェ，简称金恋）是由日本美少女游戏厂商SAGA PLANETS开发的R18恋爱冒险游戏，该作为该社的第20作。中文版由HIKARI FIELD代理。<br>![图](https://ehgt.org/b4/f1/b4f10d00a696b5722579514e9312191c573a0107-363805-1070-1518-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/金辉恋曲四重奏) [hp](http://sagaplanets.product.co.jp/works/kinkoi/) |
+| ganbare douki-chan | 加油吧同期酱 |  | [萌娘百科](https://zh.moegirl.org.cn/加油啊同期酱) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
