@@ -2265,6 +2265,7 @@ example:
 | ishimuraya | 石村屋 |  |  |
 | seika kairaku shoten | 聖華快楽書店 |  |  |
 | winged cloud | Winged Cloud | ![图](https://ehgt.org/a3/50/a350fa506ad3fcc53c8f752d0cd508bfad163ecb-51654-336-155-png_l.jpg)<br>Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。 | [维基百科](https://en.wikipedia.org/wiki/Winged_Cloud) |
+| ringo no naru ki | 林檎のなる木 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
