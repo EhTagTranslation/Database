@@ -3660,6 +3660,7 @@ example:
 | yoshika | ヨシカ |  |  |
 | uduki takeru | 卯月たける |  |  |
 | yunagi amane | 憂凪あまね |  |  |
+| nusmusbim | ナスムスビム |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
