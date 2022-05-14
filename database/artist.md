@@ -3663,6 +3663,7 @@ example:
 | nusmusbim | ナスムスビム |  |  |
 | tatsu tairagi | 燵成 |  |  |
 | doemutan | どえむたん |  |  |
+| ooshima towa | 大島永遠 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
