@@ -3661,6 +3661,7 @@ example:
 | uduki takeru | 卯月たける |  |  |
 | yunagi amane | 憂凪あまね |  |  |
 | nusmusbim | ナスムスビム |  |  |
+| tatsu tairagi | 燵成 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
