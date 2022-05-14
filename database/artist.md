@@ -3659,6 +3659,7 @@ example:
 | nemu | ネム |  | [pixiv](https://www.pixiv.net/users/572664) [Twitter](https://twitter.com/fO6KQFCQBeYPpXb) |
 | yoshika | ヨシカ |  |  |
 | uduki takeru | 卯月たける |  |  |
+| yunagi amane | 憂凪あまね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
