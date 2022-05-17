@@ -1669,6 +1669,7 @@ example:
 | kin-iro loveriche | 金辉恋曲四重奏 | 金辉恋曲四重奏（日语：金色ラブリッチェ，简称金恋）是由日本美少女游戏厂商SAGA PLANETS开发的R18恋爱冒险游戏，该作为该社的第20作。中文版由HIKARI FIELD代理。<br>![图](https://ehgt.org/b4/f1/b4f10d00a696b5722579514e9312191c573a0107-363805-1070-1518-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/金辉恋曲四重奏) [hp](http://sagaplanets.product.co.jp/works/kinkoi/) |
 | ganbare douki-chan | 加油吧同期酱 |  | [萌娘百科](https://zh.moegirl.org.cn/加油啊同期酱) |
 | drakengard | 龙背上的骑兵 |  |  |
+| bobobo-bo bo-bobo | 鼻毛真拳 |  | [维基百科](https://zh.wikipedia.org/zh/鼻毛真拳) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
