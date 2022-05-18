@@ -3806,6 +3806,7 @@ example:
 | yor forger | 约尔·福杰 |  | [萌娘百科](https://zh.moegirl.org.cn/约尔·福杰) |
 | misaki tobisawa | 鸢泽美咲 | 鸢泽美咲是游戏《苍之彼方的四重奏》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/鸢泽美咲) [fandom](https://aokana.fandom.com/wiki/Misaki_Tobisawa) |
 | morgan le fay | 摩根勒菲 |  |  |
+| nishizono chigusa | 西园千草 | 西园千草是一名从2020年08月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/西园千草) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
