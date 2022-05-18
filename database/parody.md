@@ -1673,6 +1673,7 @@ example:
 | majuu senshi luna varga | 魔兽战士 |  | [myanimelist](https://myanimelist.net/anime/2079/Majuu_Senshi_Luna_Varga)  [维基百科](https://ja.wikipedia.org/wiki/魔獣戦士ルナ・ヴァルガー) |
 | saijaku muhai no bahamut | 最弱无败神装机龙 | 《最弱无败神装机龙》（日语：最弱無敗の神装機竜バハムート）是明月千里撰写，春日步绘制插画的日本轻小说作品。由GA文库发行，共20卷。 | [维基百科](https://zh.wikipedia.org/zh/最弱無敗神裝機龍) [萌娘百科](https://zh.moegirl.org.cn/最弱无败神装机龙) |
 | trinity seven | 七人魔法使 |  | [维基百科](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者) [萌娘百科](https://zh.moegirl.org.cn/TRINITY_SEVEN_魔道书7使者) |
+| venus eleven vivid | Venus Eleven Vivid！ | 《维纳斯11人VIVID》（Venus Eleven Vivid！/ビーナスイレブンびびっど！）》是日本amazing旗下人气“维纳斯系列”最新作，是一款美少女养成手游。玩家担任的是一个足球俱乐部的老板，通过扭蛋招募美少女选手，并亲自培养她们，以制霸足球联赛为目标。 | [HP](https://venus11.net/) [fandom](https://venus-11.fandom.com/wiki/Venus_Eleven_Wiki) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
