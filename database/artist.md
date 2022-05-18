@@ -3666,6 +3666,7 @@ example:
 | ooshima towa | 大島永遠 |  |  |
 | posuimianju | 破碎面具 |  | [pixiv](https://www.pixiv.net/users/1699041) [Twitter](https://twitter.com/psmj01) |
 | suzuki hinomi | 鈴木ひのみ |  | [pixiv](https://www.pixiv.net/users/20340462) [Twitter](https://twitter.com/SuzukiHinomi) |
+| minamo | みなも | Minamo 和 minamo\_rm 是同一个人 | [pixiv](https://www.pixiv.net/users/53305649) [pixiv](https://www.pixiv.net/users/27420842) |
 
 <!--TEMPLATE:
 |  |  |  |  |
