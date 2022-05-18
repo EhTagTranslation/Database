@@ -1671,6 +1671,7 @@ example:
 | drakengard | 龙背上的骑兵 |  |  |
 | bobobo-bo bo-bobo | 鼻毛真拳 |  | [维基百科](https://zh.wikipedia.org/zh/鼻毛真拳) |
 | majuu senshi luna varga | 魔兽战士 |  | [myanimelist](https://myanimelist.net/anime/2079/Majuu_Senshi_Luna_Varga)  [维基百科](https://ja.wikipedia.org/wiki/魔獣戦士ルナ・ヴァルガー) |
+| saijaku muhai no bahamut | 最弱无败神装机龙 | 《最弱无败神装机龙》（日语：最弱無敗の神装機竜バハムート）是明月千里撰写，春日步绘制插画的日本轻小说作品。由GA文库发行，共20卷。 | [维基百科](https://zh.wikipedia.org/zh/最弱無敗神裝機龍) [萌娘百科](https://zh.moegirl.org.cn/最弱无败神装机龙) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
