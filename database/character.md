@@ -3804,6 +3804,7 @@ example:
 | kurumi ebisuzawa | 惠飞须泽胡桃 | 惠飞须泽胡桃（胡一铲）是漫画《学园孤岛》及其衍生作品的登场角色。<br>![图](https://ehgt.org/df/1f/df1fc57e74762508484fba428111a6f11120fbc2-404983-322-1173-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/惠飞须泽胡桃) |
 | rita rossweisse | 丽塔·洛丝薇瑟 | 丽塔·洛丝薇瑟（日语：リタ・ロスヴァイセ）是miHoYo旗下游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丽塔·洛丝薇瑟) [fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Rita_Rossweisse) |
 | yor forger | 约尔·福杰 |  | [萌娘百科](https://zh.moegirl.org.cn/约尔·福杰) |
+| misaki tobisawa | 鸢泽美咲 | 鸢泽美咲是游戏《苍之彼方的四重奏》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/鸢泽美咲) [fandom](https://aokana.fandom.com/wiki/Misaki_Tobisawa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
