@@ -3669,6 +3669,7 @@ example:
 | minamo | みなも | Minamo 和 minamo\_rm 使用同一个标签 | [pixiv](https://www.pixiv.net/users/53305649) [pixiv](https://www.pixiv.net/users/27420842) |
 | ka-9 | ないん |  | [pixiv](https://www.pixiv.net/users/93170) [Twitter](https://twitter.com/KA_009) |
 | shinjima saki | 心岛咲 |  |  |
+| riko | 利行 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
