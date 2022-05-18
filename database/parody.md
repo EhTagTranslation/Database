@@ -1670,6 +1670,7 @@ example:
 | ganbare douki-chan | 加油吧同期酱 |  | [萌娘百科](https://zh.moegirl.org.cn/加油啊同期酱) |
 | drakengard | 龙背上的骑兵 |  |  |
 | bobobo-bo bo-bobo | 鼻毛真拳 |  | [维基百科](https://zh.wikipedia.org/zh/鼻毛真拳) |
+| majuu senshi luna varga | 魔兽战士 |  | [myanimelist](https://myanimelist.net/anime/2079/Majuu_Senshi_Luna_Varga)  [维基百科](https://ja.wikipedia.org/wiki/魔獣戦士ルナ・ヴァルガー) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
