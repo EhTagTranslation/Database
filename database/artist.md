@@ -3668,6 +3668,7 @@ example:
 | suzuki hinomi | 鈴木ひのみ |  | [pixiv](https://www.pixiv.net/users/20340462) [Twitter](https://twitter.com/SuzukiHinomi) |
 | minamo | みなも | Minamo 和 minamo\_rm 使用同一个标签 | [pixiv](https://www.pixiv.net/users/53305649) [pixiv](https://www.pixiv.net/users/27420842) |
 | ka-9 | ないん |  | [pixiv](https://www.pixiv.net/users/93170) [Twitter](https://twitter.com/KA_009) |
+| shinjima saki | 心岛咲 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
