@@ -1675,6 +1675,7 @@ example:
 | trinity seven | 七人魔法使 |  | [维基百科](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者) [萌娘百科](https://zh.moegirl.org.cn/TRINITY_SEVEN_魔道书7使者) |
 | venus eleven vivid | Venus Eleven Vivid！ | 《维纳斯11人VIVID》（Venus Eleven Vivid！/ビーナスイレブンびびっど！）》是日本amazing旗下人气“维纳斯系列”最新作，是一款美少女养成手游。玩家担任的是一个足球俱乐部的老板，通过扭蛋招募美少女选手，并亲自培养她们，以制霸足球联赛为目标。 | [HP](https://venus11.net/) [fandom](https://venus-11.fandom.com/wiki/Venus_Eleven_Wiki) |
 | emil chronicle online | 艾米尔编年史 | 官方译名	<br>港台：伊希欧之梦、埃米尔物语<br>大陆：艾米尔编年史<br><br>《艾米尔编年史》（日语：エミル・クロニクル・オンライン）是由Headlock、GungHo与Broccoli共同制作的大型多人在线角色扮演游戏（MMORPG），并有漫画、声优广播剧等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/伊希歐之夢) [萌娘百科](https://zh.moegirl.org.cn/艾米尔编年史) |
+| megido 72 | 恶魔72 | 《恶魔72》（日语：メギド72，又译作“米吉多72”）是由DeNA开发并运营的电子角色扮演游戏，于2017年12月面向日本Android和iOS使用者推出。游戏讲述主人公所罗门利用传说戒指之力率领72柱恶魔，从孤岛危机“哈米吉多顿”的危机中拯救世界的故事。 | [Bangumi](https://bgm.tv/subject/286485) [维基百科](https://zh.wikipedia.org/zh/惡魔72) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
