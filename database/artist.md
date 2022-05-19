@@ -3673,6 +3673,7 @@ example:
 | shinozaki rei | しのざき嶺 | 他活跃于许多成人漫画杂志。自1980年代以来一直在写作的资深作家，他主要绘制具有强烈恋物癖和SM色彩的作品。代表作品有『もう誰も愛せない』『NIGHT MARE』。他还与成年漫画家海野やよい有着密切的友谊，并且都经营着同人圈。也有很多关于异装癖男孩、怪诞、娈童和双性恋的作品。 | [维基百科](https://ja.wikipedia.org/wiki/しのざき嶺) [Twitter](https://twitter.com/sinozaki09) [pixiv](https://www.pixiv.net/users/422715) |
 | mei ichi | 名一 |  | [pixiv](https://www.pixiv.net/users/3765397) [Twitter](https://twitter.com/71naichi71) |
 | sadakage | 貞影 |  | [pixiv](https://www.pixiv.net/users/821219) [Twitter](https://twitter.com/atra_dea) |
+| akako | AKAKO |  | [pixiv](https://www.pixiv.net/users/6538083) |
 
 <!--TEMPLATE:
 |  |  |  |  |
