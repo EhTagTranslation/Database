@@ -3808,6 +3808,7 @@ example:
 | morgan le fay | 摩根勒菲 |  |  |
 | nishizono chigusa | 西园千草 | 西园千草是一名从2020年08月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/西园千草) |
 | sherry birkin | 雪莉·柏金 | 初登场于《生化危机2》，该作故事的核心人物。后登场于《生化危机 暗黑编年史》、《生化危机 浣熊市行动》、《生化危机6》。除此之外，在《生化危机6》以及《生化危机2 重制版》中雪莉是可操纵游玩的女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/雪莉·柏金) [fandom](https://residentevil.fandom.com/wiki/Sherry_Birkin) |
+| ratna petit | 拉特娜·葡蒂 | 拉特娜·葡蒂是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉特娜·葡蒂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
