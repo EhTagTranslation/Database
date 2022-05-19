@@ -1336,7 +1336,7 @@ example:
 | ishikawa naoya | 石川直哉 |  |  |
 |  | WB |  |  |
 | takaku nozomu | 高玖のぞむ |  |  |
-| oni-noboru | Oni-noboru |  |  |
+| oni-noboru | Oni-noboru |  | [pixiv](https://www.pixiv.net/users/660275) [Twitter](https://twitter.com/noboru200335) [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77261/) |
 | hamo | はも |  |  |
 | satsumaage | さつま揚げ |  |  |
 | abu | アブ \| ABU | めろですうぃーぷ<br>Absolute |  |
