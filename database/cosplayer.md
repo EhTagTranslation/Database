@@ -48,6 +48,7 @@ example:
 | pigma | Pigman | male:tomgirl | [patreon](https://www.patreon.com/pigman) |
 | abaoyeshituniang | 阿包也是兔娘 |  | [bilibili](https://space.bilibili.com/384435799) |
 | kimmie mi | 蜜蜜子 |  | [Twitter](https://twitter.com/mimizikimmie) [微博](https://weibo.com/u/7297128193) [bilibili](https://space.bilibili.com/474643478) |
+| aqua area | 水淼Aqua |  | [Twitter](https://twitter.com/aqua28551264) |
 
 <!--
 Template: 
