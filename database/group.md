@@ -2269,6 +2269,7 @@ example:
 | traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [Twitter](https://twitter.com/doujintraya) |
 | kuzuya | 屑屋 |  |  |
 | momojiru teien | 桃汁庭園 |  |  |
+| tamatamasanmyaku | たまたま山脈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
