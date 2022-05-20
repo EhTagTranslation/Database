@@ -3677,6 +3677,7 @@ example:
 | momokumo | 桃雲 |  |  |
 | umiyamasoze | 海山そぜ |  |  |
 | cailin020 | Cailin020 |  | [pixiv](https://www.pixiv.net/users/30968899) [Twitter](https://twitter.com/cailin020) |
+| yuzhou | 宇宙 |  | [Twitter](https://twitter.com/POPYZSN/media) [pixiv](https://www.pixiv.net/en/users/8729049) |
 
 <!--TEMPLATE:
 |  |  |  |  |
