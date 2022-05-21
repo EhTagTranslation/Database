@@ -3678,6 +3678,7 @@ example:
 | umiyamasoze | 海山そぜ |  |  |
 | cailin020 | Cailin020 |  | [pixiv](https://www.pixiv.net/users/30968899) [Twitter](https://twitter.com/cailin020) |
 | yuzhou | 宇宙 |  | [Twitter](https://twitter.com/POPYZSN/media) [pixiv](https://www.pixiv.net/en/users/8729049) |
+| tantan | たん旦 | 《【朗报】成为我未婚妻的土妹子，在家里却可爱无比。》插画作者 | [pixiv](https://www.pixiv.net/users/23396) [Twitter](https://twitter.com/tangented_) |
 
 <!--TEMPLATE:
 |  |  |  |  |
