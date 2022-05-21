@@ -3818,6 +3818,7 @@ example:
 | shinobu maehara | 前原忍 |  |  |
 | naru narusegawa | 成濑川奈留 |  |  |
 | meidri | 梅朵莉 | 《异种族风俗娘评鉴指南》中食酒亭的服务员 |  |
+| crimvael | 克莉姆 | 《异种族风俗娘评鉴指南》中的天使 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
