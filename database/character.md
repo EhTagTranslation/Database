@@ -3816,6 +3816,7 @@ example:
 | krul tepes | 克鲁鲁·采佩西 | 克鲁鲁·采佩西是由镜贵也所创作的漫画《`终结的炽天使`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/owarinoseraph/images/6/66/Seraph_of_the_End_-_Krul_Tepes_%28Anime%29.png/revision/latest?cb=20150402190433) | [萌娘百科](https://zh.moegirl.org.cn/克鲁鲁·采佩西) [fandom](https://owarinoseraph.fandom.com/wiki/Krul_Tepes_%28Anime%29) |
 | mutsumi otohime | 乙姬睦美 |  |  |
 | shinobu maehara | 前原忍 |  |  |
+| naru narusegawa | 成濑川奈留 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
