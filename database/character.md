@@ -3817,6 +3817,7 @@ example:
 | mutsumi otohime | 乙姬睦美 |  |  |
 | shinobu maehara | 前原忍 |  |  |
 | naru narusegawa | 成濑川奈留 |  |  |
+| meidri | 梅朵莉 | 《异种族风俗娘评鉴指南》中食酒亭的服务员 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
