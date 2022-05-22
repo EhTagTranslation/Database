@@ -3682,6 +3682,7 @@ example:
 | sssss | ssssss |  |  |
 | rana yume | らな夢 |  | [pixiv](https://www.pixiv.net/users/13405281) [Twitter](https://twitter.com/wIGIJPstl5dqjy8) |
 | sen | Sen | 『我画插图和漫画。<br>我喜欢人物角色、命运、高达、电影等等。<br><br>谢谢你！<br><br>我在一个叫做“未踏リミット”的圈子里做同人活动。』 | [pixiv](https://www.pixiv.net/users/4303495) [Twitter](https://twitter.com/sengan_chu) |
+| oumikun | 近江訓 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
