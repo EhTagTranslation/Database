@@ -2271,6 +2271,7 @@ example:
 | momojiru teien | 桃汁庭園 |  |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir (ハースニール) | `misakura nankotsu` | [http://www.harthnir.com/](http://www.harthnir.com/) |
+| yoru no hitsuji | 夜のひつじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
