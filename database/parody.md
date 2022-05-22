@@ -875,7 +875,7 @@ example:
 | kishin taisen gigantic formula | 机神大战-巨型方程式 |  |  |
 | .hack | .hack |  |  |
 | .hacksign | .hack//SIGN |  |  |
-| .hackg.u. | .hack//G.U. |  |  |
+| .hackg.u. | .hack//G.U. | 《.hack//G.U.》，是.hack系列第二部游戏，是由万代南梦宫从2005年开始的跨媒体计划。 | [steam](https://store.steampowered.com/app/525480/hackGU_Last_Recode/) |
 | .hackroots | .hack//Roots |  |  |
 | .hacklegend of the twilight | .hack//黄昏的腕轮传说 |  |  |
 | log horizon | 记录的地平线 |  |  |
