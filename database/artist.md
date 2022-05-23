@@ -3684,6 +3684,7 @@ example:
 | sen | Sen | 『我画插图和漫画。<br>我喜欢人物角色、命运、高达、电影等等。<br><br>谢谢你！<br><br>我在一个叫做“未踏リミット”的圈子里做同人活动。』 | [pixiv](https://www.pixiv.net/users/4303495) [Twitter](https://twitter.com/sengan_chu) |
 | oumikun | 近江训 |  |  |
 | fukai ryousuke | 深井涼介 |  | [pixiv](https://www.pixiv.net/users/43177) [Twitter](https://twitter.com/fpworks) |
+| hmongt | hmongt | hmongt（HM） | [HP](https://hmongt.gumroad.com/) [http://pixiv.me/hmongt](http://pixiv.me/hmongt) [Twitter](https://twitter.com/HM_Hmongt) |
 
 <!--TEMPLATE:
 |  |  |  |  |
