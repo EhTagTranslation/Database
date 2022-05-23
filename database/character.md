@@ -3827,6 +3827,7 @@ example:
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
 | nonomi izayoi | 十六夜野宫(十六夜野乃美) | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png) | [gamekee](https://ba.gamekee.com/68803.html) [fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
+| yuuma toutetsu | 饕餮尤魔 | 饕餮尤魔是日本的《东方Project》系列弹幕游戏及其衍生作品的登场角色之一。<br>初登场于《东方刚欲异闻》，作为最终面BOSS登场。 | [https://thwiki.cc/饕餮尤魔](https://thwiki.cc/饕餮尤魔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
