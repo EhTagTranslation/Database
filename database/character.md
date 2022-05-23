@@ -3826,6 +3826,7 @@ example:
 | suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
+| nonomi izayoi | 十六夜野宫(十六夜野乃美) | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png) | [gamekee](https://ba.gamekee.com/68803.html) [fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
