@@ -907,7 +907,7 @@ example:
 | raven | RAVEN |  |  |
 | sujoyushi | 酢醤油氏 |  |  |
 | date | DATE |  |  |
-| kase daiki | 加濑大辉 |  |  |
+| kase daiki | 加濑大辉 | ![pixiv头像](https://ehgt.org/8e/5d/8e5dac579157a65acce3367126289802a6478f29-49784-170-163-png_l.jpg) | [Twitter](https://twitter.com/dksha19) [pixiv](https://www.pixiv.net/users/273185) |
 | uraho an | 浦歩あん |  |  |
 | nakamura kumarin | 中村くまりん |  |  |
 | masago | まさご |  |  |
