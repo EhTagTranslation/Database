@@ -433,6 +433,7 @@ example:
 | corset | 紧身内衣 | 用于保持和塑造躯干的衣服，通常形成沙漏形状。 |  |
 | cosplaying | Cosplay | 角色打扮成另一个角色。不包括一般的角色扮演，如`schoolgirl uniform`、`nurse`、`maid`。不用于 Cosplay 画廊。 |  |
 | crossdressing | 异性装 | 女性男装。只在明确表示穿着像男性的情况下才应该加上此标签。不应与`gender change`混淆。<br>![图](# "https://ehgt.org/84/13/8413cbc4d4d8905e9048c5b5a8a5e0676c011ca8-1905865-1200-1200-png_l.jpg")![图](# "https://ehgt.org/4d/2d/4d2d5424eb0e2052e0dfc6d14c982eb5f01952ae-142895-800-600-jpg_l.jpg")![图](# "https://ehgt.org/24/38/2438d21f31d1cb96f55fc883d0a00d64ac83b057-126074-800-600-jpg_l.jpg") |  |
+| detached sleeves | 分离袖子 | 一种上衣没有肩部分，袖子与衣服主体分离同时不以手套样式穿着的服饰。不应与`gloves`混淆。<br>![图]( "https://ehgt.org/7f/0e/7f0ee9e9b54ca575c57b63befd627d7aaa93dd43-1791186-1213-1865-png_l.jpg") | [萌娘百科]( "https://zh.moegirl.org.cn/%E5%88%86%E7%A6%BB%E8%A2%96%E5%AD%90") |
 | diaper | 尿布 | 一种用来承接大小便的内衣，往往被婴儿穿戴。经常与`age regression`、`scat`、`infantilism`或`urination`配对。<br>![图](# "https://ehgt.org/8a/88/8a887ab1962fd4d3ece6978f00821b8c088df60b-12755157-2116-3012-png_l.jpg") |  |
 | dougi | 练功服🥋 | 用于各种武术课和训练的服装。通常有一条单色配带。 |  |
 | exposed clothing | 开洞装 | 任何有开口的衣服，可以让其他人看到生殖器、肛门或乳头。<br>衣服必须处于原始状态（例如未撕裂）并按照预期穿着。除非有意想不到的洞，否则不适用于裙子或连衣裙。 |  |
