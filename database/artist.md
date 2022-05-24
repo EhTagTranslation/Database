@@ -907,7 +907,7 @@ example:
 | raven | RAVEN |  |  |
 | sujoyushi | 酢醤油氏 |  |  |
 | date | DATE |  |  |
-| kase daiki | 加濑大辉 |  |  |
+| kase daiki | 加濑大辉 | ![pixiv头像](https://ehgt.org/8e/5d/8e5dac579157a65acce3367126289802a6478f29-49784-170-163-png_l.jpg) | [Twitter](https://twitter.com/dksha19) [pixiv](https://www.pixiv.net/users/273185) |
 | uraho an | 浦歩あん |  |  |
 | nakamura kumarin | 中村くまりん |  |  |
 | masago | まさご |  |  |
@@ -3686,6 +3686,8 @@ example:
 | fukai ryousuke | 深井涼介 |  | [pixiv](https://www.pixiv.net/users/43177) [Twitter](https://twitter.com/fpworks) |
 | hmongt | hmongt | hmongt（HM） | [HP](https://hmongt.gumroad.com/) [http://pixiv.me/hmongt](http://pixiv.me/hmongt) [Twitter](https://twitter.com/HM_Hmongt) |
 | saber01 | saber\_01 | 中國絵描きマン。 | [pixiv](https://www.pixiv.net/users/323418) [Twitter](https://twitter.com/saber_01A) |
+| tripleq | TripleQ |  | [https://www.deviantart.com/tripleq-did](https://www.deviantart.com/tripleq-did) [https://hentaiera.com/gallery/853108/](https://hentaiera.com/gallery/853108/) |
+| kashieda subaru | 貸江田昴 |  | [pixiv](https://www.pixiv.net/tags/貸江田昴) |
 
 <!--TEMPLATE:
 |  |  |  |  |
