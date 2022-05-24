@@ -3833,6 +3833,7 @@ example:
 | yoriko nikaido | 二阶堂赖子 | ![](https://static.wikia.nocookie.net/yua/images/c/c2/Yoriko_Nikaidou.jpg/revision/latest?cb=20210303105118) | [萌娘百科](https://zh.moegirl.org.cn/二阶堂赖子) [fandom](https://yua.fandom.com/wiki/Yoriko_Nikaidō) |
 | kyousuke natsume | 枣恭介 | 枣恭介，是Visual Art's旗下品牌`key`创作的游戏《`little busters`》及其衍生系列作品的登场角色。<br><br>本作的真·男主，在主要线路中几乎都是核心人物。<br>![](https://static.wikia.nocookie.net/littlebusters/images/e/e2/Kyousuke_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018235848) | [fandom](https://littlebusters.fandom.com/wiki/Kyousuke_Natsume) [萌娘百科](https://zh.moegirl.org.cn/zh-cn/枣恭介) |
 | rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018234836) | [萌娘百科](https://zh.moegirl.org.cn/zh/枣铃) [fandom](https://littlebusters.fandom.com/wiki/Rin_Natsume) |
+| kobeni yonomori | 夜之森小红 | 夜之森小红是漫画《未确认进行式》及其衍生的动画作品的登场角色，女主角。<br>![夜之森小红](https://lain.bgm.tv/pic/crt/l/61/12/21418_crt_cqedS.jpg)<br>拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。<br>小时候就已经见过白夜，但之后因为发生事故，而遗忘了这件事。<br>家事万能，并负责制作三餐。 | [bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
