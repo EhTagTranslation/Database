@@ -3828,6 +3828,7 @@ example:
 | impmon | 小妖兽 |  |  |
 | nonomi izayoi | 十六夜野宫(十六夜野乃美) | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png) | [gamekee](https://ba.gamekee.com/68803.html) [fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
 | yuuma toutetsu | 饕餮尤魔 | 饕餮尤魔是日本的《东方Project》系列弹幕游戏及其衍生作品的登场角色之一。<br>初登场于《东方刚欲异闻》，作为最终面BOSS登场。 | [https://thwiki.cc/饕餮尤魔](https://thwiki.cc/饕餮尤魔)<br>[萌娘百科](https://mzh.moegirl.org.cn/饕餮尤魔) |
+| miyuki kobayakawa | 小早川美幸 | 小早川美幸是藤岛康介所创作的漫画《`youre under arrest`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/yua/images/8/84/Miyuki_Kobayakawa.jpg/revision/latest/scale-to-width-down/350?cb=20210303104533) | [https://yua.fandom.com/wiki/Miyuki\_Kobayakawa](https://yua.fandom.com/wiki/Miyuki_Kobayakawa) [萌娘百科](https://zh.moegirl.org.cn/小早川美幸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
