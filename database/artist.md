@@ -3687,6 +3687,7 @@ example:
 | hmongt | hmongt | hmongt（HM） | [HP](https://hmongt.gumroad.com/) [http://pixiv.me/hmongt](http://pixiv.me/hmongt) [Twitter](https://twitter.com/HM_Hmongt) |
 | saber01 | saber\_01 | 中國絵描きマン。 | [pixiv](https://www.pixiv.net/users/323418) [Twitter](https://twitter.com/saber_01A) |
 | tripleq | TripleQ |  | [https://www.deviantart.com/tripleq-did](https://www.deviantart.com/tripleq-did) [https://hentaiera.com/gallery/853108/](https://hentaiera.com/gallery/853108/) |
+| kashieda subaru | 貸江田昴 |  | [pixiv](https://www.pixiv.net/tags/貸江田昴) |
 
 <!--TEMPLATE:
 |  |  |  |  |
