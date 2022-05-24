@@ -3832,6 +3832,7 @@ example:
 | natsumi tsujimoto | 辻本夏实 | ![](https://static.wikia.nocookie.net/yua/images/a/a7/Natsumi_Tsujimoto.jpg/revision/latest?cb=20210303104457) | [萌娘百科](https://zh.moegirl.org.cn/辻本夏实) [fandom](https://yua.fandom.com/wiki/Natsumi_Tsujimoto) |
 | yoriko nikaido | 二阶堂赖子 | ![](https://static.wikia.nocookie.net/yua/images/c/c2/Yoriko_Nikaidou.jpg/revision/latest?cb=20210303105118) | [萌娘百科](https://zh.moegirl.org.cn/二阶堂赖子) [fandom](https://yua.fandom.com/wiki/Yoriko_Nikaidō) |
 | kyousuke natsume | 枣恭介 | 枣恭介，是Visual Art's旗下品牌`key`创作的游戏《`little busters`》及其衍生系列作品的登场角色。<br><br>本作的真·男主，在主要线路中几乎都是核心人物。<br>![](https://static.wikia.nocookie.net/littlebusters/images/e/e2/Kyousuke_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018235848) | [fandom](https://littlebusters.fandom.com/wiki/Kyousuke_Natsume) [萌娘百科](https://zh.moegirl.org.cn/zh-cn/枣恭介) |
+| rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018234836) | [萌娘百科](https://zh.moegirl.org.cn/zh/枣铃) [fandom](https://littlebusters.fandom.com/wiki/Rin_Natsume) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
