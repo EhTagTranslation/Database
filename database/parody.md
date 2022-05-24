@@ -1679,6 +1679,7 @@ example:
 | umihara kawase | 海腹川背 | 《海腹川背》（umihara kawase）是一款1994年发布于SFC平台的横板过关游戏，女主角名字也叫海腹川背。该游戏后来移植到了DS、PS、NS平台。 | [百度百科](https://baike.baidu.com/item/海腹川背/4995214) [维基百科](https://ja.wikipedia.org/wiki/海腹川背) |
 | owari no seraph | 终结的炽天使 | 《终结的炽天使》（日语：終わりのセラフ;英语：Seraph of the End）是一部由日本作家镜贵也及漫画家山本大和所合作的漫画作品。自2012年起于《JUMP SQUARE》开始连载[1]；电视动画则于2015年播出。作品分别有小说及漫画。 | [维基百科](https://zh.wikipedia.org/wiki/終結的熾天使) [萌娘百科](https://zh.moegirl.org.cn/终结的炽天使) |
 | starless | STARLESS | 《STARLESS》是由日本成人游戏制作公司WillPlus旗下的Empress制作的成人游戏，在2011年5月27日发售。 | [维基百科](https://zh.wikipedia.org/zh/STARLESS) |
+| smite | 神之浩劫 | 《神之浩劫》（英语：Smite），是由美国独立游戏开发商Hi-Rez Studios开发及发行的一款Windows平台下的多人在线战斗竞技场游戏，世界上7大文化宗教的神魔英雄为角色。 | [维基百科](https://zh.wikipedia.org/zh/神之浩劫) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
