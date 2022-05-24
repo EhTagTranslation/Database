@@ -2273,6 +2273,7 @@ example:
 | harthnir | HarthNir (ハースニール) | `misakura nankotsu` | [http://www.harthnir.com/](http://www.harthnir.com/) |
 | yoru no hitsuji | 夜のひつじ |  |  |
 | nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
+| momokamasu | ももかます |  | [Twitter](https://twitter.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
