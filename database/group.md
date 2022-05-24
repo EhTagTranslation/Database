@@ -2272,6 +2272,7 @@ example:
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir (ハースニール) | `misakura nankotsu` | [http://www.harthnir.com/](http://www.harthnir.com/) |
 | yoru no hitsuji | 夜のひつじ |  |  |
+| nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
