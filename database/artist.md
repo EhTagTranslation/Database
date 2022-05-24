@@ -1561,7 +1561,7 @@ example:
 | ohtsuki tohru | 大槻とおる |  |  |
 | hidebou | ひでぼう |  |  |
 | kiyose kaoru | キヨセ薫 |  |  |
-| asanagi | 朝凪 |  |  |
+| asanagi | 朝凪 | 纯爱画师，轻小说《半兽人英雄物语 忖度列传》插画作者，游戏《sin 七大罪～魔王崇拜～》人物设定。 | [Twitter](https://twitter.com/Victim_Girls) [pixiv](https://www.pixiv.net/users/355065) |
 | kikunyi | 菊にぃ |  |  |
 | lasto | らすと～ | らすと～是日本同人志创作者，插画师。作品以成人向，`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1318749400961675265/x8Rtd1cT_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/65/8d/658d8df73b6818611ea12661ab34987aa850545c-924086-2080-3025-jpg_l.jpg")<br>同人本《妹が風呂場で思いっきり いじくり回してきた。》 | [Twitter](https://twitter.com/SKhorosho) [Pixiv](https://www.pixiv.net/users/45454) |
 | yoroduya hyakuhachi | 万屋百八 |  |  |
