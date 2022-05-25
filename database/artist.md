@@ -3689,6 +3689,7 @@ example:
 | tripleq | TripleQ |  | [https://www.deviantart.com/tripleq-did](https://www.deviantart.com/tripleq-did) [https://hentaiera.com/gallery/853108/](https://hentaiera.com/gallery/853108/) |
 | kashieda subaru | 貸江田昴 |  | [pixiv](https://www.pixiv.net/tags/貸江田昴) |
 | uranoa | うらのあ |  | [pixiv](https://www.pixiv.net/users/524697) |
+| tisen | 撥撥 (Tisen) |  | [pixiv](https://www.pixiv.net/users/12553645) [Twitter](https://twitter.com/Tisenokk) |
 
 <!--TEMPLATE:
 |  |  |  |  |
