@@ -3693,6 +3693,7 @@ example:
 | chamu | 雅茶木HZ | a:chamu | [pixiv](https://www.pixiv.net/en/users/60598390) |
 | owari | おわり |  | [pixiv](https://www.pixiv.net/users/3105) [Twitter](https://twitter.com/chishimaowari) |
 | zoharwolf | Zoharwolf | Programmer; Game dev; Sunday painter(NSFW🔞); 中文🆗 English🆗 Esperanto🐣. The game director of `nekojishi` and Kelipot(形骸骑士). | [pixiv](https://www.pixiv.net/users/693677) [Twitter](https://twitter.com/zohar_wolf) |
+| ushi no shita | 牛の舌 |  | [Twitter](https://twitter.com/usnst_) [pixiv](https://www.pixiv.net/users/8157984) |
 
 <!--TEMPLATE:
 |  |  |  |  |
