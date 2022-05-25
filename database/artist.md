@@ -3691,6 +3691,7 @@ example:
 | uranoa | うらのあ |  | [pixiv](https://www.pixiv.net/users/524697) |
 | tisen | 撥撥 (Tisen) |  | [pixiv](https://www.pixiv.net/users/12553645) [Twitter](https://twitter.com/Tisenokk) |
 | chamu | 雅茶木HZ | a:chamu | [pixiv](https://www.pixiv.net/en/users/60598390) |
+| owari | おわり |  | [pixiv](https://www.pixiv.net/users/3105) [Twitter](https://twitter.com/chishimaowari) |
 
 <!--TEMPLATE:
 |  |  |  |  |
