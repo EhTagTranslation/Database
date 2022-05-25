@@ -3690,7 +3690,7 @@ example:
 | kashieda subaru | 貸江田昴 |  | [pixiv](https://www.pixiv.net/tags/貸江田昴) |
 | uranoa | うらのあ |  | [pixiv](https://www.pixiv.net/users/524697) |
 | tisen | 撥撥 (Tisen) |  | [pixiv](https://www.pixiv.net/users/12553645) [Twitter](https://twitter.com/Tisenokk) |
-| chamu | 雅茶木HZ |  | [pixiv](https://www.pixiv.net/en/users/60598390) |
+| chamu | 雅茶木HZ | a:chamu | [pixiv](https://www.pixiv.net/en/users/60598390) |
 
 <!--TEMPLATE:
 |  |  |  |  |
