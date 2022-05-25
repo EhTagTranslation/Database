@@ -3269,7 +3269,7 @@ example:
 | monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [美少女花骑士:乌头](https://zh.moegirl.org.cn/index.php?title=美少女花骑士:乌头) |
 | makoto kowata | 木幡真琴 |  |  |
 | elaina | 伊蕾娜 |  |  |
-| ganyu | 甘雨 | 甘雨，米哈游出品的游戏《原神》及其衍生作品中的角色，璃月七星的秘书 | [https://baike.baidu.com/pic/甘雨/54563073/1/18d8bc3eb13533fa828b3d9f5399ea1f4134970aed65?fr=lemma&ct=single](https://baike.baidu.com/pic/甘雨/54563073/1/18d8bc3eb13533fa828b3d9f5399ea1f4134970aed65?fr=lemma&ct=single) |
+| ganyu | 甘雨 | 甘雨，米哈游出品的游戏《原神》及其衍生作品中的角色，璃月七星的秘书。<br>![](https://p.sda1.dev/6/f59d8548a8fd66b73622334d5d1a4546/18d8bc3eb13533fa828b3d9f5399ea1f4134970aed65.webp) | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
 | jean gunnhildr | 琴·古恩希尔德 |  |  |
 | jean | 琴 |  |  |
 | midori fuse | 布施翠 |  |  |
@@ -3834,6 +3834,7 @@ example:
 | kyousuke natsume | 枣恭介 | 枣恭介，是Visual Art's旗下品牌`key`创作的游戏《`little busters`》及其衍生系列作品的登场角色。<br><br>本作的真·男主，在主要线路中几乎都是核心人物。<br>![](https://static.wikia.nocookie.net/littlebusters/images/e/e2/Kyousuke_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018235848) | [fandom](https://littlebusters.fandom.com/wiki/Kyousuke_Natsume) [萌娘百科](https://zh.moegirl.org.cn/zh-cn/枣恭介) |
 | rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018234836) | [萌娘百科](https://zh.moegirl.org.cn/zh/枣铃) [fandom](https://littlebusters.fandom.com/wiki/Rin_Natsume) |
 | kobeni yonomori | 夜之森小红 | 夜之森小红是漫画《未确认进行式》及其衍生的动画作品的登场角色，女主角。<br>![夜之森小红](https://lain.bgm.tv/pic/crt/l/61/12/21418_crt_cqedS.jpg)<br>拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。<br>小时候就已经见过白夜，但之后因为发生事故，而遗忘了这件事。<br>家事万能，并负责制作三餐。 | [bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
+| sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg/revision/latest?cb=20190409223544) | [萌娘百科](https://zh.moegirl.org.cn/zh/雪露·诺姆) [fandom](https://macross.fandom.com/wiki/Sheryl_Nome) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

@@ -315,7 +315,7 @@ example:
 | umi suzume | 雨美すずめ |  |  |
 | michiking | 米奇王 |  | [pixiv](https://www.pixiv.net/users/2361345) [Twitter](https://twitter.com/mitibmg20) |
 | otabe sakura | おたべさくら |  |  |
-| ryo | RYO \| RYÖ \| りょう | 没後<br>SAILORQ2<br>めたもる |  |
+| ryo | RYO \| RYÖ \| りょう \| ryo | 没後<br>SAILORQ2<br>めたもる | [pixiv](https://www.pixiv.net/users/73432) [Twitter](https://twitter.com/sora0ryu) |
 | minori kenshirou | 实验四郎 |  |  |
 | umemura | 梅村 |  |  |
 | peter mitsuru | ペーター・ミツル |  |  |
@@ -1561,7 +1561,7 @@ example:
 | ohtsuki tohru | 大槻とおる |  |  |
 | hidebou | ひでぼう |  |  |
 | kiyose kaoru | キヨセ薫 |  |  |
-| asanagi | 朝凪 |  |  |
+| asanagi | 朝凪 | 纯爱画师，轻小说《半兽人英雄物语 忖度列传》插画作者，游戏《sin 七大罪～魔王崇拜～》人物设定。 | [Twitter](https://twitter.com/Victim_Girls) [pixiv](https://www.pixiv.net/users/355065) |
 | kikunyi | 菊にぃ |  |  |
 | lasto | らすと～ | らすと～是日本同人志创作者，插画师。作品以成人向，`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1318749400961675265/x8Rtd1cT_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/65/8d/658d8df73b6818611ea12661ab34987aa850545c-924086-2080-3025-jpg_l.jpg")<br>同人本《妹が風呂場で思いっきり いじくり回してきた。》 | [Twitter](https://twitter.com/SKhorosho) [Pixiv](https://www.pixiv.net/users/45454) |
 | yoroduya hyakuhachi | 万屋百八 |  |  |
@@ -3688,6 +3688,16 @@ example:
 | saber01 | saber\_01 | 中國絵描きマン。 | [pixiv](https://www.pixiv.net/users/323418) [Twitter](https://twitter.com/saber_01A) |
 | tripleq | TripleQ |  | [https://www.deviantart.com/tripleq-did](https://www.deviantart.com/tripleq-did) [https://hentaiera.com/gallery/853108/](https://hentaiera.com/gallery/853108/) |
 | kashieda subaru | 貸江田昴 |  | [pixiv](https://www.pixiv.net/tags/貸江田昴) |
+| uranoa | うらのあ |  | [pixiv](https://www.pixiv.net/users/524697) |
+| tisen | 撥撥 (Tisen) |  | [pixiv](https://www.pixiv.net/users/12553645) [Twitter](https://twitter.com/Tisenokk) |
+| chamu | 雅茶木HZ | a:chamu | [pixiv](https://www.pixiv.net/en/users/60598390) |
+| owari | おわり |  | [pixiv](https://www.pixiv.net/users/3105) [Twitter](https://twitter.com/chishimaowari) |
+| zoharwolf | Zoharwolf | Programmer; Game dev; Sunday painter(NSFW🔞); 中文🆗 English🆗 Esperanto🐣. The game director of `nekojishi` and Kelipot(形骸骑士). | [pixiv](https://www.pixiv.net/users/693677) [Twitter](https://twitter.com/zohar_wolf) |
+| ushi no shita | 牛の舌 |  | [Twitter](https://twitter.com/usnst_) [pixiv](https://www.pixiv.net/users/8157984) |
+| dikk0 | ディッコ |  | [pixiv](https://www.pixiv.net/users/848240) [Twitter](https://twitter.com/dikkosan) |
+| nanamoto | ななもと |  | [pixiv](https://www.pixiv.net/users/435548) [Twitter (R18)](https://twitter.com/nanana06) [Twitter (全年龄)](https://twitter.com/60nanana) |
+| naidong | 奶凍 |  | [Twitter](https://twitter.com/game00984) [pixiv](https://www.pixiv.net/users/7805672) |
+| karan | からん |  | [Twitter](https://twitter.com/kara_n_) [pixiv](https://www.pixiv.net/users/17652171) |
 
 <!--TEMPLATE:
 |  |  |  |  |
