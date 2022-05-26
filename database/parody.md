@@ -1682,6 +1682,7 @@ example:
 | smite | 神之浩劫 | 《神之浩劫》（英语：Smite），是由美国独立游戏开发商Hi-Rez Studios开发及发行的一款Windows平台下的多人在线战斗竞技场游戏，世界上7大文化宗教的神魔英雄为角色。 | [维基百科](https://zh.wikipedia.org/zh/神之浩劫) |
 | takopii no genzai | 章鱼噼的原罪 | 《章鱼噼的原罪》（日语：タコピーの原罪）是日本漫画家タイザン5所创作的短篇漫画作品，于2021年12月10日至2022年3月25日在少年Jump+上连载，逢星期五更新。 | [维基百科](https://zh.wikipedia.org/zh/章魚嗶的原罪) [myanimelist](https://myanimelist.net/manga/142600/Takopii_no_Genzai) |
 | super cub | 本田小狼与我 | 《本田小狼与我》（日语：スーパーカブ）是由トネ・コーケン创作、`a:hiro`插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/本田小狼与我) |
+| kekkaishi | 结界师 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
