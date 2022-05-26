@@ -3699,6 +3699,7 @@ example:
 | naidong | 奶凍 |  | [Twitter](https://twitter.com/game00984) [pixiv](https://www.pixiv.net/users/7805672) |
 | karan | からん |  | [Twitter](https://twitter.com/kara_n_) [pixiv](https://www.pixiv.net/users/17652171) |
 | hetaren | へたれん |  | [pixiv](https://www.pixiv.net/users/2386657) |
+| ginger shuka | 姜糖(姜シュカ) |  | [pixiv](https://www.pixiv.net/users/6395677) [Twitter](https://twitter.com/mikaga12) |
 
 <!--TEMPLATE:
 |  |  |  |  |
