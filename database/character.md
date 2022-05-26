@@ -3837,6 +3837,7 @@ example:
 | sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg/revision/latest?cb=20190409223544) | [萌娘百科](https://zh.moegirl.org.cn/zh/雪露·诺姆) [fandom](https://macross.fandom.com/wiki/Sheryl_Nome) |
 | iori shiromi | 银镜伊织（イオリ） | 所属作品：`p:blue archive`<br><br>格黑娜学园（ゲヘナ学園） | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
+| enji todoroki | 轰炎司 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
