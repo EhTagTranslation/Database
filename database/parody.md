@@ -255,7 +255,7 @@ example:
 | persona 5 | 女神异闻录5 |  |  |
 |  | ▲女神转生 系列 |  |  |
 | monsters inc. | 怪兽电力公司 |  |  |
-| hai to gensou no grimgar | 灰与幻想的格林姆迦尔 |  |  |
+| hai to gensou no grimgar | 灰与幻想的格林姆迦尔 | 主角·哈尔希洛因未知原因失去记忆，并来到了陌生而危险的异世界：格林姆迦尔。之后迫于生计而成为义勇兵，与马纳多等人组成队伍一同狩猎，大家一起在格林姆迦尔展开冒险并最终成长进步。灰幻[1]以成长为核心题材，重视团队精神和团队合作，着重表现角色心境的成长变化，是传统异世界冒险故事。 | [维基百科](https://zh.wikipedia.org/zh/灰與幻想的格林姆迦爾) [萌娘百科](https://zh.moegirl.org.cn/灰与幻想的格林姆迦尔) [fandom](https://grimgar.fandom.com/wiki/Hai_to_Gensou_no_Grimgar_Wikia) |
 | pretty rhythm | 美妙旋律 |  |  |
 | mamono musume zukan | 魔物娘图鉴 |  |  |
 | getsuyoubi no tawawa | 星期一的丰满 |  |  |
