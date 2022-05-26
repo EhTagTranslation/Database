@@ -3702,6 +3702,7 @@ example:
 | ginger shuka | 姜糖(姜シュカ) |  | [pixiv](https://www.pixiv.net/users/6395677) [Twitter](https://twitter.com/mikaga12) |
 | sazaemu | さざえむ |  | [pixiv](https://www.pixiv.net/users/29680821) [Twitter](https://twitter.com/sazaemu) |
 | gunjou | 群青 |  | [pixiv](https://www.pixiv.net/users/5359885) |
+| takaman | 高饅 |  | [pixiv](https://www.pixiv.net/users/2722726)<br>[Twitter](https://twitter.com/vakan12) |
 
 <!--TEMPLATE:
 |  |  |  |  |
