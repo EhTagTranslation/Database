@@ -1546,7 +1546,7 @@ example:
 | mushoku tensei | 无职转生～到了异世界就拿出真本事～ |  |  |
 | tanaka-kun wa itsumo kedaruge | 田中君总是如此慵懒 | 《田中君总是如此慵懒》（日语：田中くんはいつもけだるげ）是由ウダノゾミ创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/田中君总是如此慵懒) |
 | yakusoku no neverland | 约定的梦幻岛 | ![约定的梦幻岛](https://img.moegirl.org.cn/common/thumb/3/33/约定的梦幻岛1_.jpg/300px-约定的梦幻岛1_.jpg)![图](https://ehgt.org/d0/e1/d0e15816deb3baa6abbb38b8bb0c2ebfe51b9cac-256519-768-687-jpg_l.jpg)<br>一个讲述了主角骑着"艾玛"电动车进行"诺曼"底登陆的"雷"人故事（误） | [萌娘百科](https://zh.moegirl.org.cn/约定的梦幻岛) |
-| iya na kao sarenagara opantsu misete moraitai | 很想被人用一脸嫌弃的眼神把胖次给我看 | 《很想被人用一脸嫌弃的眼神把胖次给我看》（日语：嫌な顔されながらおパンツ見せてもらいたい）是日本同人志社团“アニマルマシーン”的成员40原创作的同人志，以各式各样的女性摆出一脸嫌弃的样子露出内裤为主题。作品自2015年开始发行并陆续改编成网络动画、轻小说和写真集。 | [维基百科](https://zh.wikipedia.org/wiki/擺出討厭的表情露出內褲) |
+| iya na kao sare nagara opantsu misete moraitai | 很想被人用一脸嫌弃的眼神把胖次给我看 | 《很想被人用一脸嫌弃的眼神把胖次给我看》（日语：嫌な顔されながらおパンツ見せてもらいたい）是日本同人志社团“アニマルマシーン”的成员40原创作的同人志，以各式各样的女性摆出一脸嫌弃的样子露出内裤为主题。作品自2015年开始发行并陆续改编成网络动画、轻小说和写真集。 | [维基百科](https://zh.wikipedia.org/wiki/擺出討厭的表情露出內褲) |
 | wrestle angels | 摔角天使 |  |  |
 | nijisanji | 彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。<br>![](https://www.nijisanji.jp/static/logo/nijisanji_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
 | blue archive | 碧蓝档案 |  |  |
@@ -1623,10 +1623,9 @@ example:
 | little witch nobeta | 小魔女诺贝塔 | 《小魔女诺贝塔（Little Witch Nobeta）》是Pupuya Games旗下的3D动作射击游戏，于2020年6月24日在Steam发行。 |  |
 | mieruko-chan | 看得见的女孩 |  |  |
 | shigatsu wa kimi no uso | 四月是你的谎言 |  | [维基百科](https://zh.wikipedia.org/wiki/四月是你的謊言) |
-| my dress-up darling | 更衣人偶坠入爱河 | 《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品，于2018年1月19日发售的《YOUNG GANGAN》No.3开始连载。<br>作品讲述一个喜欢制作女儿节娃娃的男高中生凭著Cosplay结识同班的美少女辣妹的故事。<br>改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks。![图](https://img.moegirl.org.cn/common/4/43/更衣人偶坠入爱河001.jpg) | [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河) |
 | axis powers hetalia | 黑塔利亚 Axis Powers | 《黑塔利亚 Axis Powers》（日语：Axis powers ヘタリア，英语：Hetalia: Axis Powers），简称《黑塔利亚》或《APH（啊泼喝）》，是日丸屋秀和创作的一部网络漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/黑塔利亚) |
 | disney twisted-wonderland | 迪士尼扭曲仙境 | 《迪士尼扭曲仙境》（日语：ディズニーツイステッドワンダーランド；英语：Disney Twisted-Wonderland）是由Aniplex和Walt Disney Japan共同开发的一款手机游戏，由漫画家枢やな（枢梁）担任其原案、主线故事及角色设计。 | [萌娘百科](https://zh.moegirl.org.cn/迪士尼扭曲仙境) |
-| sono bisque doll wa koi o suru | 更衣人偶坠入爱河 | 由福田晋一创作的一部青年漫画，并有动画等衍生作品<br>原作于SQUARE ENIX所发行的青年漫画杂志《YOUNG GANGAN》2018年1月（2018 No.03）开始连载<br>改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks。<br>![图](https://ehgt.org/1f/be/1fbe58aacf7b072a0833f6adbee8ca201d7fedb4-857215-1800-1280-jpg_l.jpg)<br>原作漫画第一话封面<br><br>![图](https://ehgt.org/12/ac/12ac4507b72ef0c51a54c460f151b5496b490493-252937-1600-2268-jpg_l.jpg)<br>电视动画 | [维基百科](https://zh.wikipedia.org/wiki/戀上換裝娃娃) [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河)  [漫画官网](https://magazine.jp.square-enix.com/yg/introduction/sonobisque/) [动画官网](https://bisquedoll-anime.com/) [动画官方Twitter](https://twitter.com/kisekoi_anime) |
+| sono bisque doll wa koi o suru | 更衣人偶坠入爱河 | 《更衣人偶坠入爱河》（日语：その着せ替え人形は恋をする，简称“着せ恋”）是由日本女性漫画家福田晋一绘画的Cosplay题材青年漫画作品，并有动画等衍生作品<br>原作于SQUARE ENIX所发行的青年漫画杂志《YOUNG GANGAN》2018年1月（2018 No.03）开始连载<br>改编电视动画于2022年1月8日首播，动画制作公司为CloverWorks。<br>![图](https://ehgt.org/1f/be/1fbe58aacf7b072a0833f6adbee8ca201d7fedb4-857215-1800-1280-jpg_l.jpg)<br>原作漫画第一话封面<br><br>![图](https://ehgt.org/12/ac/12ac4507b72ef0c51a54c460f151b5496b490493-252937-1600-2268-jpg_l.jpg)<br>电视动画 | [维基百科](https://zh.wikipedia.org/wiki/戀上換裝娃娃) [萌娘百科](https://zh.moegirl.org.cn/更衣人偶坠入爱河)  [漫画官网](https://magazine.jp.square-enix.com/yg/introduction/sonobisque/) [动画官网](https://bisquedoll-anime.com/) [动画官方Twitter](https://twitter.com/kisekoi_anime) |
 | hypnosis mic | 催眠麦克风 |  |  |
 | project sekai | 世界计划 | 《世界计划 缤纷舞台！ feat.初音未来》<br>日语：プロジェクトセカイ カラフルステージ！ feat.初音ミク，<br>英语：Project Sekai: Colorful Stage feat. Hatsune Miku，<br>简称《世界计划》（日语：プロセカ），是基于抽卡的视觉小说风格音乐手机游戏 | [官网地址](https://pjsekai.sega.jp/) [维基百科](https://zh.wikipedia.org/wiki/世界计划_缤纷舞台！_feat.初音未来) |
 | needy streamer overload | 主播女孩重度依赖 |  |  |

@@ -278,7 +278,6 @@ example:
 | z3 | Z3 | No.175 Z3![Z3](# "https://ehgt.org/07/3a/073a9faca9480dd9b49968ae138b3ef16c55c35d-1428836-1421-2000-jpg_250.jpg") |  |
 | italia | 意大利 | No.246 |  |
 | luigi torelli | 路易吉·托雷利 | No.325 |  |
-| taiyou | 大鹰 | No.326 |  |
 | iona | 伊欧娜 | Mist01 |  |
 | mamiya | 间宫 | NPC |  |
 | shikikan | 指挥官 |  |  |
