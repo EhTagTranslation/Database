@@ -2,7 +2,7 @@ name: check_tags
 
 on:
   schedule:
-    - cron: "0 6 * * 5"
+    - cron: 30 7 * * 5
 
 jobs:
   build:
