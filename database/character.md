@@ -3838,6 +3838,7 @@ example:
 | iori shiromi | 银镜伊织（イオリ） | 所属作品：`p:blue archive`<br><br>格黑娜学园（ゲヘナ学園） | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
 | enji todoroki | 轰炎司 |  |  |
+| nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png/revision/latest/scale-to-width-down/171?cb=20210328054403) | [https://kanojo-mo-kanojo.fandom.com/wiki/Minase\_Nagisa](https://kanojo-mo-kanojo.fandom.com/wiki/Minase_Nagisa) [萌娘百科](https://zh.moegirl.org.cn/zh/水濑渚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
