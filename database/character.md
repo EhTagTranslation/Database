@@ -3839,6 +3839,7 @@ example:
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
 | enji todoroki | 轰炎司 |  |  |
 | nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png/revision/latest/scale-to-width-down/171?cb=20210328054403) | [https://kanojo-mo-kanojo.fandom.com/wiki/Minase\_Nagisa](https://kanojo-mo-kanojo.fandom.com/wiki/Minase_Nagisa) [萌娘百科](https://zh.moegirl.org.cn/zh/水濑渚) |
+| lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif/revision/latest?cb=20131230141441) | [https://uruseiyatsura.fandom.com/wiki/Lum](https://uruseiyatsura.fandom.com/wiki/Lum) [萌娘百科](https://zh.moegirl.org.cn/拉姆%28福星小子%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
