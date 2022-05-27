@@ -44,8 +44,6 @@ example:
 | rewrite | Rewrite | 《Rewrite》（日语：リライト）是由`key`创作的一部Galgame，并有fandisk作品Rewrite Harvest festa!。<br>![](https://ehgt.org/00/ed/00ed91595e567d24f64d014ac782d58b4a4fc35d-1178102-1920-1080-jpg_l.jpg)![](https://ehgt.org/87/a2/87a24f8b94790378305d88c367ef651ab937ce8f-561091-460-652-png_l.jpg)![](https://ehgt.org/8c/3b/8c3b5c372e3a7fb8ed3df95db082e6df9c2340eb-197107-320-460-jpg_l.jpg) |  |
 |  | ▲Key社作品 |  |  |
 | ore no imouto ga konna ni kawaii wake ga nai | 我的妹妹不可能那么可爱 | [![图](https://ehgt.org/10/73/10736a8c6d3bf1952944904125e0c36b0afec16d-9438330-2970-4200-jpg_250.jpg)](https://exhentai.org/g/537341/97449f9516/)![图](# "https://ehgt.org/12/5d/125dfed1068ff20b9a4a569404d7629378d85876-1721511-1697-2400-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛！) |
-| toaru majutsu no index | 魔法禁书目录📖 | ![图](https://ehgt.org/fe/4a/fe4a5d1db63282b922089ae5848a6867351fd305-750028-740-1036-jpg_l.jpg) |  |
-| toaru kagaku no railgun | 科学超电磁炮⚡️ | ![图](https://ehgt.org/b6/04/b604287878e7c033016e094406e97c9c17f84c78-1338105-1099-1600-jpg_l.jpg) |  |
 | kantai collection | ![大船](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehdg37hq1g200k00c03b.gif)舰队Collection | 《舰队Collection》（艦隊これくしょん -艦これ-，又译舰队收藏）是由日本同人社团C2机关开发运营、角川集团投资、由DMM.com提供游戏平台的主要以旧日本海军舰船拟人为题材的收集养成卡牌赌博类网页游戏。<br>![图](https://ehgt.org/d5/4c/d54cf38acf7115b65c8e9ae6496b85a7d3cd38de-701265-1416-2000-jpg_l.jpg) | [官网地址](http://www.dmm.com/netgame/feature/kancolle.html) [萌娘百科](https://zh.moegirl.org.cn/舰队Collection) |
 | pokemon | ![精灵球](https://tva1.sinaimg.cn/large/6c84b2d6gw1f41npvfdneg200d00d042.gif)精灵宝可梦 | ![图](https://ehgt.org/8c/96/8c961e0f970654081fdbeb953b1987c46f748399-1125751-1050-1000-png_l.jpg)![图](https://ehgt.org/d9/c3/d9c313025eafe3fe0fe88f524d95a2bc17abaaad-984342-1000-700-png_l.jpg)![图](https://ehgt.org/61/11/611191f1607da3ad9ee5a148456a8976dae6c9a8-1017825-850-900-png_l.jpg) |  |
 | higurashi no naku koro ni | 寒蝉鸣泣之时🔪 | 可爱少女们的青春恋爱喜剧<br>![寒蝉鸣泣之时](https://img.moegirl.org.cn/common/thumb/f/fd/寒蝉鸣泣之时.jpg/250px-寒蝉鸣泣之时.jpg)![图](https://ehgt.org/ff/c3/ffc3d9ad2bdfc6a43142a4062381ba6e76f77191-739103-1062-1513-jpg_l.jpg)![图](https://ehgt.org/88/47/88472ebca5d1f4671f694191febba44b63d46d16-872907-2043-3038-jpg_l.jpg) |  |
@@ -508,7 +506,6 @@ example:
 | saint seiya | 圣斗士星矢 |  |  |
 | agent aika | 海底娇娃蓝华 |  |  |
 | city hunter | 城市猎人 |  |  |
-| record of lodoss war | 罗德岛战记 |  |  |
 | super robot wars | 超级机器人大战 |  |  |
 | super robot wars w | 超级机器人大战W |  |  |
 | super robot wars k | 超级机器人大战K |  |  |
@@ -1355,7 +1352,6 @@ example:
 | playerunknowns battlegrounds | 绝地求生 | 《绝地求生》（英语：PlayerUnknown's Battlegrounds，又译作“绝地求生：大逃杀”，直译为“无名玩家的战场”）是一款由韩国电子游戏开发商蓝洞（英语：Bluehole Inc.）旗下的PUBG公司所开发及发行的多人制大逃杀游戏。游戏首发于Microsoft Windows平台，自2017年3月23日开始经Steam发行体验版。Xbox One版本在同年12月由微软工作室负责发售。 | [维基百科](https://zh.wikipedia.org/zh-cn/絕地求生) (\*) |
 | masamune-kun no revenge | 政宗君的复仇 | 《政宗君的复仇》（日语：政宗くんのリベンジ）是一部由竹冈叶月担任原作，Tiv担任作画的漫画作品，于2012年12月开始在一迅社的《月刊Comic REX》上连载。已出版9册单行本。 2016年6月宣布动画化，2017年1月播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/政宗君的復仇) (\*) |
 | hataraku saibou | 工作细胞 | 《工作细胞》（日语：はたらく細胞）是清水茜所著的日本漫画作品，主要讲述经拟人化后人体内各种细胞于人体内的日常工作，例如负责物流作业（运送氧气及二氧化碳）的红血球和日常警备工作（清除恶菌）的白血球。 | [维基百科](https://zh.wikipedia.org/zh-cn/工作細胞) (\*) |
-| seraph of the end | 终结的炽天使 | 《终结的炽天使》（日语：終わりのセラフ）是一部由日本作家镜贵也及漫画家山本大和所合作的奇幻热血作品。自2012年起于《JUMP SQUARE》开始连载；电视动画则于2015年播出。作品分别有小说及漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/終結的熾天使) (\*) |
 | binbougami ga | 穷神来了 | 《穷神来了》是助野嘉昭的少年漫画作品。于《Jump SQ》2008年7月号开始连载，连载至2013年8月号完结。并改编成电视动画。2012年7月4日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/窮神_%28漫畫%29) (\*) |
 | princess connect | 公主连结 Re:Dive | 《公主连结 Re:Dive》（日语：プリンセスコネクト！Re:Dive）是一款由Cygames所制作的奇幻风格角色扮演手机游戏，前身为2015年至2016年间营运的《公主连结》。本游戏除了在日本上市外，也计划与海外业者推出包含繁体中文、简体中文、韩文等版本。 | [维基百科](https://zh.wikipedia.org/zh-cn/超異域公主連結_Re:Dive) (\*) |
 | breath of fire | 龙息之焰 |  |  |
@@ -1662,7 +1658,7 @@ example:
 | red pride of eden | 伊甸园的骄傲 | 伊甸园的骄傲是一款以异世界和动物娘为主题，由游族网络旗下 C.L 工作室企划，联合 Lorenz 工作室、日本剧作团队 Mikagami、 博物杂志共同参与制作的「新感觉」（LSP）动物娘卡牌 RPG 手游。<br><br>游戏中玩家将扮演由被称为[RED]的动物娘组成的冒险团[Pride]的团长，与动物娘们展开在这片名为[伊甸（Eden）]的大陆上的冒险。 | [萌娘百科](https://zh.moegirl.org.cn/伊甸园的骄傲) [游戏HP](https://eden.gamekee.com/) |
 | nana to kaoru | 奈奈与薰的SM日记 |  |  |
 | kawaii dake ja nai shikimori-san | 式守同学不只可爱而已 | ![图](https://ehgt.org/c7/f2/c7f21ef3f0feec2acdab15815fdb800bcdc71cdf-986740-1914-2714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/式守同学不只可爱而已) [维基百科](https://en.wikipedia.org/wiki/Shikimori%27s_Not_Just_a_Cutie) |
-| toaru project | 魔法禁书系列 | An universal parody tag for all works set in the "Toaru universe", such as `toaru majutsu no index` (とある魔術の禁書目録) and `toaru kagaku no railgun` (とある科学の超電磁砲). |  |
+| toaru project | 魔法禁书系列 | 魔法禁书系列世界观下的作品，如《魔法禁书目录（とある魔術の禁書目録）》和《科学超电磁炮（とある科学の超電磁砲）》 。 |  |
 | tenka hyakken | 天华百剑 | 《天华百剑》是在 KADOKAWA ASCII Media Works 的动漫杂志「电击 G's Magazine」上，从 2015 年 6 月起连载图绘小说的企划。是一个将日本刀美少女化的企划，有许多人气绘师与漫画作家参与。<br><br>目前在「电击 G's Magazine」连载图绘小说（文：SEVEN DAYS WAR，插图：Tea），也在官方 Twitter 上连载 4 格漫画（作者：武シノブ）。从 2016 年 6 月起于「电击 G's Comic」上连载剧情漫画（作者：酒月ほまれ）。还从2017年4月起于「电击 G's Magazine」特别附录「DENGEKI G’s NOVEL」连载小说。2017年4月与 DeNA 合作推出智慧型手机游戏。2019年4月宣布短篇动画化。 | [萌娘百科](https://zh.moegirl.org.cn/天华百剑) [萌娘百科](https://zh.moegirl.org.cn/天华百剑_-斩-) [维基百科](https://ja.wikipedia.org/wiki/天華百剣) [fandom](https://tenka-hyakken.fandom.com/wiki/Tenka_Hyakken_Wikia) |
 | oshiro project | 御城少女Project | 《御城Project》（御城プロジェクト ～CASTLE DEFENSE～）是由DMM GAMES开发、由DMM.com运营的以日本各地的古代城池拟人为题材的收集类塔防网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/御城少女Project) [萌娘百科](https://zh.moegirl.org.cn/御城少女Project:RE) [fandom](https://shiroprore.fandom.com/wiki/Shiro_Project:RE_Wiki) |
 | amaama to inazuma | 天真与闪电 |  | [萌娘百科](https://zh.moegirl.org.cn/天真与闪电) [维基百科](https://en.wikipedia.org/wiki/Sweetness_and_Lightning) |
@@ -1677,7 +1673,7 @@ example:
 | emil chronicle online | 艾米尔编年史 | 官方译名	<br>港台：伊希欧之梦、埃米尔物语<br>大陆：艾米尔编年史<br><br>《艾米尔编年史》（日语：エミル・クロニクル・オンライン）是由Headlock、GungHo与Broccoli共同制作的大型多人在线角色扮演游戏（MMORPG），并有漫画、声优广播剧等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/伊希歐之夢) [萌娘百科](https://zh.moegirl.org.cn/艾米尔编年史) |
 | megido 72 | 恶魔72 | 《恶魔72》（日语：メギド72，又译作“米吉多72”）是由DeNA开发并运营的电子角色扮演游戏，于2017年12月面向日本Android和iOS使用者推出。游戏讲述主人公所罗门利用传说戒指之力率领72柱恶魔，从孤岛危机“哈米吉多顿”的危机中拯救世界的故事。 | [Bangumi](https://bgm.tv/subject/286485) [维基百科](https://zh.wikipedia.org/zh/惡魔72) |
 | umihara kawase | 海腹川背 | 《海腹川背》（umihara kawase）是一款1994年发布于SFC平台的横板过关游戏，女主角名字也叫海腹川背。该游戏后来移植到了DS、PS、NS平台。 | [百度百科](https://baike.baidu.com/item/海腹川背/4995214) [维基百科](https://ja.wikipedia.org/wiki/海腹川背) |
-| owari no seraph | 终结的炽天使 | 《终结的炽天使》（日语：終わりのセラフ;英语：Seraph of the End）是一部由日本作家镜贵也及漫画家山本大和所合作的漫画作品。自2012年起于《JUMP SQUARE》开始连载[1]；电视动画则于2015年播出。作品分别有小说及漫画。 | [维基百科](https://zh.wikipedia.org/wiki/終結的熾天使) [萌娘百科](https://zh.moegirl.org.cn/终结的炽天使) |
+| owari no seraph | 终结的炽天使 | 《终结的炽天使》（日语：終わりのセラフ;英语：Seraph of the End）是一部由日本作家镜贵也及漫画家山本大和所合作的漫画作品。自2012年起于《JUMP SQUARE》开始连载；电视动画则于2015年播出。作品分别有小说及漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/終結的熾天使) [萌娘百科](https://zh.moegirl.org.cn/终结的炽天使) (\*) |
 | starless | STARLESS | 《STARLESS》是由日本成人游戏制作公司WillPlus旗下的Empress制作的成人游戏，在2011年5月27日发售。 | [维基百科](https://zh.wikipedia.org/zh/STARLESS) |
 | smite | 神之浩劫 | 《神之浩劫》（英语：Smite），是由美国独立游戏开发商Hi-Rez Studios开发及发行的一款Windows平台下的多人在线战斗竞技场游戏，世界上7大文化宗教的神魔英雄为角色。 | [维基百科](https://zh.wikipedia.org/zh/神之浩劫) |
 | takopii no genzai | 章鱼噼的原罪 | 《章鱼噼的原罪》（日语：タコピーの原罪）是日本漫画家タイザン5所创作的短篇漫画作品，于2021年12月10日至2022年3月25日在少年Jump+上连载，逢星期五更新。 | [维基百科](https://zh.wikipedia.org/zh/章魚嗶的原罪) [myanimelist](https://myanimelist.net/manga/142600/Takopii_no_Genzai) |
