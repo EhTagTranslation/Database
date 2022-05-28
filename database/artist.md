@@ -908,7 +908,6 @@ example:
 | sujoyushi | 酢醤油氏 |  |  |
 | date | DATE |  |  |
 | kase daiki | 加濑大辉 | ![pixiv头像](https://ehgt.org/8e/5d/8e5dac579157a65acce3367126289802a6478f29-49784-170-163-png_l.jpg) | [Twitter](https://twitter.com/dksha19) [pixiv](https://www.pixiv.net/users/273185) |
-| uraho an | 浦歩あん |  |  |
 | nakamura kumarin | 中村くまりん |  |  |
 | masago | まさご |  |  |
 | ron | RON |  |  |
@@ -977,8 +976,7 @@ example:
 | kadoi aya | 门井亚矢 |  |  |
 | doumeki bararou | 百目鬼蔷薇郎 |  |  |
 | umiushi | うみうし |  |  |
-| samidare setsuna | 五月雨せつな |  |  |
-| flo | FLO |  |  |
+| samidare setsuna | 五月雨せつな |  | [Twitter](https://twitter.com/takaflo) |
 | shinobe | しのべ |  |  |
 | kamiya | Kamiya \| かみや | 臨時PT<br>EXPOT |  |
 | aduma ren | あづま煉 |  |  |
@@ -1663,7 +1661,7 @@ example:
 | kinoebi | KinoeBi |  |  |
 | nanashi | 774 | 漫画家。以R-18作品出道，现已上岸。<br>目前正在连载长篇全年龄向漫画《`ijiranaide nagatoro-san`》<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2014/09/15/15/45/06/8400449_3cb6c503650215f5dd03e58fc8f6012a_170.png) | [Twitter](https://twitter.com/774nanash) [Pixiv](https://www.pixiv.net/users/72342) |
 | yokoyama lynch | 横山私刑 |  |  |
-| tam | TAM |  |  |
+| tamposa | たむポ～サ（TAM） |  |  |
 | tatami | 叠 |  |  |
 | hoozuki shia | 鬼灯しあ |  |  |
 | samantha whitten | Samantha Whitten |  |  |
@@ -2152,7 +2150,6 @@ example:
 | a-teru haito | A辉废都 |  |  |
 | kusumoto toka | 楠元とうか |  |  |
 | utatane hiroyuki | うたたねひろゆき |  |  |
-| maa-kun | まーくん |  |  |
 | chuuka naruto | 中華なると |  |  |
 | area | Area |  |  |
 | kruth666 | Kruth666 |  |  |
@@ -2536,7 +2533,7 @@ example:
 | akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
 | hisui | 翡翠石 |  |  |
 | sakura yuki | 咲良ゆき |  | [pixiv](https://www.pixiv.net/users/1661253) |
-| suga hideo | スガヒデオ |  |  |
+| suga hideo | スガヒデオ | スガヒデオ（まーくん） | [pixiv](https://www.pixiv.net/users/59416) |
 | nadaka harutsugu | 南高春告（梅干） |  | [pixiv](https://www.pixiv.net/users/41560) [twitter](https://twitter.com/Ume_boC) |
 | hatori you | 葉鳥侑 |  | [pixiv](https://www.pixiv.net/users/1546998) [twitter](https://twitter.com/Hatori_you0521) |
 | byougaku | 猫額 |  |  |
@@ -2743,7 +2740,7 @@ example:
 | yamato bambies | ヤマトバンビーズ |  | [Twitter](https://twitter.com/bambi_es) [pixiv](https://www.pixiv.net/users/9009006) |
 | azuma sawayoshi | アズマサワヨシ |  | [Twitter](https://twitter.com/azsawa00) [pixiv](https://www.pixiv.net/users/478617) |
 | oyabe ryo | 小矢部亮 |  | [Twitter表账号](https://twitter.com/nightcoat) [Twitter里账号](https://twitter.com/oybryo08) [pixiv](https://www.pixiv.net/users/12868244) |
-| naoharu | 直晴 |  | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
+| naoharu | 直晴 | 直晴（浦歩あん） | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
 | tamashii carnival botamochi | 魂カーニバルぼたもち | ![魂カーニバルぼたもち头像](https://i.jpg.dog/file/jpg-dog/3c8d3dfcf7dd06682fc750cd6afa85d5.png) | [Twitter](https://twitter.com/R_botamochi) [pixiv](https://www.pixiv.net/users/1035537) |
 | arima kouichi | 有馬紘一 |  |  |
 | kamochome | かもちょめ |  |  |
@@ -3651,7 +3648,7 @@ example:
 | ihara asta | 伊原あす太 |  | [pixiv](http://www.pixiv.net/member.php?id=702078) [Twitter](http://twitter.com/youmoumofumofu) |
 | yasu | yasu |  | [pixiv](https://www.pixiv.net/users/392399) [Twitter](https://twitter.com/yasu26937978) |
 | akadama | 红玉 |  | [pixiv](https://www.pixiv.net/users/2720186) |
-| shirahama kouta | 白波航希 | 白波航希（白浜コータ）<br>Z-Less | [pixiv](https://www.pixiv.net/users/64377) |
+| shiranami kouki | 白波航希 | 白波航希（白浜コータ）<br>Z-Less | [pixiv](https://www.pixiv.net/users/64377) |
 | asaga aoi | 浅賀葵 |  | [pixiv](https://www.pixiv.net/users/233417) [Twitter](https://twitter.com/asagaaoi1) |
 | camonome | かものめ |  | [pixiv](https://www.pixiv.net/users/8814278) [Twitter](https://twitter.com/camonome) |
 | shikigami kuroko | 式神くろ子 |  | [pixiv](https://www.pixiv.net/users/1289204) [Twitter](https://twitter.com/kuroko71369840) |
