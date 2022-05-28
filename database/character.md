@@ -3840,6 +3840,7 @@ example:
 | nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png/revision/latest/scale-to-width-down/171?cb=20210328054403) | [https://kanojo-mo-kanojo.fandom.com/wiki/Minase\_Nagisa](https://kanojo-mo-kanojo.fandom.com/wiki/Minase_Nagisa) [萌娘百科](https://zh.moegirl.org.cn/zh/水濑渚) |
 | lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif/revision/latest?cb=20131230141441) | [https://uruseiyatsura.fandom.com/wiki/Lum](https://uruseiyatsura.fandom.com/wiki/Lum) [萌娘百科](https://zh.moegirl.org.cn/拉姆%28福星小子%29) |
 | raiden | 雷电 | 所属作品：`p:metal gear solid`<br>《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。 | [维基百科](https://zh.wikipedia.org/wiki/合金装备系列角色列表) |
+| tien shinhan | 天津饭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
