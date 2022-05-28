@@ -1,0 +1,31 @@
+name: check_tags
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 30 7 * * 5
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 50
+      - name: Download tool
+        uses: i3h/download-release-asset@v1.3.2
+        with:
+          owner: EhTagTranslation
+          repo: Editor
+          tag: latest
+          file: release.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Extract tool
+        run: |
+          echo ::group::unzip
+          unzip ./release.zip -d ./tool
+          echo ::endgroup::
+
+      - name: Build
+        run: node tool create-release . ./publish --source-check --strict
