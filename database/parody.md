@@ -460,7 +460,7 @@ example:
 | blade and soul | 剑灵 |  |  |
 | inu x boku ss | 妖狐×仆SS |  |  |
 | guilty gear | 罪恶装备 |  |  |
-| nanatsu no taizai | 七大罪 |  |  |
+| nanatsu no taizai | 七大罪 |  | [维基百科](https://zh.wikipedia.org/wiki/七大罪_%28漫畫%29) |
 | starcraft | 星际争霸 |  |  |
 | alice in wonderland | 爱丽丝梦游仙境 |  |  |
 | ikkitousen | 一骑当千 |  |  |
