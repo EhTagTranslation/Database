@@ -4,7 +4,7 @@
 [![Build status](../../workflows/build/badge.svg)](../../actions)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
-<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.herokuapp.com/database/~badge)](//github.com/EhTagTranslation/Database/tree/master)  -->
+<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.herokuapp.com/database/~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
 [![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.herokuapp.com/database/all/~badge)](https://ehtt.vercel.app/list/all)
 [![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.herokuapp.com/database/reclass/~badge)](https://ehtt.vercel.app/list/reclass)
 [![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.herokuapp.com/database/female/~badge)](https://ehtt.vercel.app/list/female)
@@ -40,17 +40,17 @@
   
   这一针打下去你就会说中文了。
 
-* [E-Viewer](//github.com/OpportunityLiu/E-Viewer)  
+* [E-Viewer](https://github.com/OpportunityLiu/E-Viewer)  
   ![UWP][plat-uwp]  ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
 
-* [EhViewer](//gitlab.com/NekoInverter/EhViewer)  
+* [EhViewer](https://gitlab.com/NekoInverter/EhViewer)  
   ![Android][plat-android]  
   An Unofficial E-Hentai Application for Android.
   
-  [原项目](//github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@NekoInverter](//gitlab.com/NekoInverter) 维护的修改版。
+  [原项目](https://github.com/seven332/EhViewer)已经停止维护，上述链接是由 [@NekoInverter](https://gitlab.com/NekoInverter) 维护的修改版。
 
-* [EhPanda](//ehpanda.app)  
+* [EhPanda](https://ehpanda.app)  
   ![iOS][plat-ios]  ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
   
@@ -60,7 +60,7 @@
 
 ### 已停止维护
 
-* [EhTagBuilder](//github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
+* [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
   ![WEB][plat-web]  
   > 本项目的前身，使用 UserScript 实现，已被 EhSyringe 取代。
 
@@ -68,11 +68,11 @@
 
   翻译实现方式：ETB 先获取 Wiki 数据库网页，获得翻译数据，生成对应格式的 CSS 代码，再由 Stylus 扩展附加到 E 绅士网页上。
 
-* [Dai-Hentai](//github.com/DaidoujiChen/Dai-Hentai)  
+* [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
   ![iOS][plat-ios]  ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個普通的看漫畫 App。
   
-* [E-HentaiViewer](//github.com/kayanouriko/E-HentaiViewer)  
+* [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![iOS][plat-ios]  ![GitHub Release Date](https://img.shields.io/github/release-date/kayanouriko/E-HentaiViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个 E-Hentai 的 iOS 端阅读器。
   
