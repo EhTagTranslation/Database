@@ -417,7 +417,7 @@ example:
 | amatsukaze | 天津风 |  | [战舰少女:天津风](https://zh.moegirl.org.cn/战舰少女:天津风) [舰队Collection:天津风](https://zh.moegirl.org.cn/舰队Collection:天津风) |
 | akashi | 明石 | 旧日本帝国海军的明石号维修舰（明石(工作艦)） | [碧蓝航线:明石](https://zh.moegirl.org.cn/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org.cn/舰队Collection:明石) |
 | ooyodo | 大淀 |  | [战舰少女:大淀](https://zh.moegirl.org.cn/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org.cn/舰队Collection:大淀) |
-| taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) |
+| taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) |
 | ryuuhou | 龙凤 | 旧日本帝国海军的龙凤号航空母舰（龙凤 (空母)）） | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
