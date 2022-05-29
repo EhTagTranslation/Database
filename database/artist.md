@@ -3702,6 +3702,7 @@ example:
 | xiaoxi | 小西0619 |  | [Twitter](https://twitter.com/xiaoxi_0619) [pixiv](https://www.pixiv.net/users/12218414) [微博](https://weibo.com/u/5241210893) |
 | arimura daikon | 有村大根 |  |  |
 | tooyama burin | 遠山ブリン |  |  |
+| tsukai you | 塚井ヨウ | 似乎已封笔 | [Twitter](https://twitter.com/bktohs3) [pixiv](https://www.pixiv.net/users/351549) |
 
 <!--TEMPLATE:
 |  |  |  |  |
