@@ -1678,6 +1678,9 @@ example:
 | takopii no genzai | 章鱼噼的原罪 | 《章鱼噼的原罪》（日语：タコピーの原罪）是日本漫画家タイザン5所创作的短篇漫画作品，于2021年12月10日至2022年3月25日在少年Jump+上连载，逢星期五更新。 | [维基百科](https://zh.wikipedia.org/zh/章魚嗶的原罪) [myanimelist](https://myanimelist.net/manga/142600/Takopii_no_Genzai) |
 | super cub | 本田小狼与我 | 《本田小狼与我》（日语：スーパーカブ）是由トネ・コーケン创作、`a:hiro`插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/本田小狼与我) |
 | kekkaishi | 结界师 |  |  |
+| senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg/revision/latest?cb=20201028145831) | [萌娘百科](https://zh.moegirl.org.cn/zh/战翼的希格德莉法) [fandom](https://senyoku-no-sigrdrifa.fandom.com/wiki/Warlords_of_Sigrdrifa_%28Anime%29) |
+| densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
+| video girl ai | 电影少女 | ![](https://cdn.myanimelist.net/images/anime/1/2349l.jpg) | [维基百科](https://zh.wikipedia.org/zh/電影少女) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
