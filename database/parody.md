@@ -1680,6 +1680,7 @@ example:
 | kekkaishi | 结界师 |  |  |
 | senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg/revision/latest?cb=20201028145831) | [萌娘百科](https://zh.moegirl.org.cn/zh/战翼的希格德莉法) [fandom](https://senyoku-no-sigrdrifa.fandom.com/wiki/Warlords_of_Sigrdrifa_%28Anime%29) |
 | densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
+| video girl ai | 电影少女 | ![](https://cdn.myanimelist.net/images/anime/1/2349l.jpg) | [维基百科](https://zh.wikipedia.org/zh/電影少女) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
