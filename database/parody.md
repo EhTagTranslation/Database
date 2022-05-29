@@ -1679,6 +1679,7 @@ example:
 | super cub | 本田小狼与我 | 《本田小狼与我》（日语：スーパーカブ）是由トネ・コーケン创作、`a:hiro`插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/本田小狼与我) |
 | kekkaishi | 结界师 |  |  |
 | senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg/revision/latest?cb=20201028145831) | [萌娘百科](https://zh.moegirl.org.cn/zh/战翼的希格德莉法) [fandom](https://senyoku-no-sigrdrifa.fandom.com/wiki/Warlords_of_Sigrdrifa_%28Anime%29) |
+| densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
