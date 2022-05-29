@@ -1684,6 +1684,7 @@ example:
 | densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
 | video girl ai | 电影少女 | ![](https://cdn.myanimelist.net/images/anime/1/2349l.jpg) | [维基百科](https://zh.wikipedia.org/zh/電影少女) |
 | last origin | Last Origin |  |  |
+| seven mortal sins | sin 七大罪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
