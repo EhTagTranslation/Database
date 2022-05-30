@@ -3844,6 +3844,7 @@ example:
 | tien shinhan | 天津饭 |  |  |
 | soujiro izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，泉彼方的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG/revision/latest/scale-to-width-down/350?cb=20100331012127) | [萌娘百科](https://zh.moegirl.org.cn/泉宗次郎) [fandom](https://luckystar.fandom.com/wiki/Sōjirō_Izumi) |
 | theresa apocalypse | 德丽莎·阿波卡利斯 |  | [萌娘百科](https://zh.moegirl.org.cn/德丽莎·阿波卡利斯%28崩坏3%29#) |
+| rozaliya olenyeva | 萝莎莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/萝莎莉娅·阿琳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
