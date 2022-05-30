@@ -3842,6 +3842,7 @@ example:
 | lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif/revision/latest?cb=20131230141441) | [https://uruseiyatsura.fandom.com/wiki/Lum](https://uruseiyatsura.fandom.com/wiki/Lum) [萌娘百科](https://zh.moegirl.org.cn/拉姆%28福星小子%29) |
 | raiden | 雷电 | 所属作品：`p:metal gear solid`<br>《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。 | [维基百科](https://zh.wikipedia.org/wiki/合金装备系列角色列表) |
 | tien shinhan | 天津饭 |  |  |
+| soujiro izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，泉彼方的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG/revision/latest/scale-to-width-down/350?cb=20100331012127) | [萌娘百科](https://zh.moegirl.org.cn/泉宗次郎) [fandom](https://luckystar.fandom.com/wiki/Sōjirō_Izumi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
