@@ -39,7 +39,7 @@
   E站注射器，将中文翻译注入到E站体内。
   
   这一针打下去你就会说中文了。
-
+  
 * [E-Viewer](https://github.com/OpportunityLiu/E-Viewer)  
   ![UWP][plat-uwp]  ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
@@ -57,6 +57,10 @@
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![iOS][plat-ios]  ![Adnroid][plat-android]  ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个由 Flutter 编写的阅读器，支持直连。
+  
+* [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
+  ![WEB][plat-web]  ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)   
+  一个将E站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 
 ### 已停止维护
 
