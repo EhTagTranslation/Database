@@ -3846,6 +3846,7 @@ example:
 | theresa apocalypse | 德丽莎·阿波卡利斯 |  | [萌娘百科](https://zh.moegirl.org.cn/德丽莎·阿波卡利斯%28崩坏3%29#) |
 | rozaliya olenyeva | 萝莎莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/萝莎莉娅·阿琳) |
 | liliya olenyeva | 莉莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/莉莉娅·阿琳) |
+| torte | 托蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/托蒂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
