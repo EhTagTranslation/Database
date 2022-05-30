@@ -1689,6 +1689,7 @@ example:
 | shinkansen henkei robo shinkalion | 新干线战士 | 新干线战士 / 新干线变形机器人 | [维基百科](https://zh.wikipedia.org/wiki/新幹線戰士) |
 | 07-ghost | 07-GHOST | 《07-GHOST》是由雨宫由树和市原雪乃创作的日本漫画作品。于一迅社漫画杂志《Comic ZERO-SUM》2005年4月28日开始至2013年8月28日结束连载。单行本全17卷。<br><br>电视动画于2009年4月起于日本深夜播出。台湾在2011年5月起于Animax播出。<br><br>于2006年12月及2007年1月份推出过广播剧。 | [维基百科](https://zh.wikipedia.org/zh-cn/07-GHOST) |
 | 10 carat torte | 天降托蒂！ |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/天からトルテ!) |
+| a.i. ga tomaranai | 电脑情人梦 |  | [维基百科](https://zh.wikipedia.org/zh-cn/電腦情人夢) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
