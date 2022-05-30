@@ -1686,6 +1686,7 @@ example:
 | last origin | Last Origin |  |  |
 | seven mortal sins | sin 七大罪 |  | [维基百科](https://zh.wikipedia.org/wiki/Sin_七大罪) |
 | jibaku shounen hanako-kun | 地缚少年花子君 |  |  |
+| shinkansen henkei robo shinkalion | 新干线战士 | 新干线战士 / 新干线变形机器人 | [维基百科](https://zh.wikipedia.org/wiki/新幹線戰士) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
