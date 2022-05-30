@@ -1688,7 +1688,7 @@ example:
 | jibaku shounen hanako-kun | 地缚少年花子君 |  |  |
 | shinkansen henkei robo shinkalion | 新干线战士 | 新干线战士 / 新干线变形机器人 | [维基百科](https://zh.wikipedia.org/wiki/新幹線戰士) |
 | 07-ghost | 07-GHOST | 《07-GHOST》是由雨宫由树和市原雪乃创作的日本漫画作品。于一迅社漫画杂志《Comic ZERO-SUM》2005年4月28日开始至2013年8月28日结束连载。单行本全17卷。<br><br>电视动画于2009年4月起于日本深夜播出。台湾在2011年5月起于Animax播出。<br><br>于2006年12月及2007年1月份推出过广播剧。 | [维基百科](https://zh.wikipedia.org/zh-cn/07-GHOST) |
-| 10 carat torte | 天降托蒂！ |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/天からトルテ!) |
+| 10 carat torte | 天降托蒂！ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/天からトルテ!) |
 | 11eyes | 11eyes -罪与罚与赎的少女- |  | [维基百科](https://zh.wikipedia.org/zh-cn/11eyes%20-罪與罰與贖的少女-) |
 | 12-sai. | 12岁。 |  | [维基百科](https://zh.wikipedia.org/zh-cn/12歲。) |
 | 13 reasons why | 十三个理由 |  | [维基百科](https://zh.wikipedia.org/zh-cn/漢娜的遺言) |
@@ -1702,7 +1702,7 @@ example:
 | a little snow fairy sugar | 小小雪精灵 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小小雪精灵) |
 | a nightmare on elm street | 猛鬼街 |  | [维基百科](https://zh.wikipedia.org/zh-cn/猛鬼街) |
 | a town where you live | 有你的小镇 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小鎮有你) |
-| a.d.police | A.D.POLICE |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/A.D.POLICE) |
+| a.d.police | A.D.POLICE |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/A.D.POLICE) |
 | abenobashi mahou shoutengai | 阿倍野桥魔法商店街 |  | [维基百科](https://zh.wikipedia.org/zh-cn/阿倍野桥魔法商店街) |
 | acca 13-ku kansatsu-ka | ACCA13区监察课 |  | [维基百科](https://zh.wikipedia.org/zh-cn/ACCA13區監察課) |
 | acchi kocchi | 一起一起这里那里 |  | [维基百科](https://zh.wikipedia.org/zh-cn/一起一起這裡那裡) |
@@ -1710,15 +1710,15 @@ example:
 | adventures of the gummi bears | 妙妙熊历险记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/妙妙熊歷險記) |
 | agarest senki | 亚迦雷斯特战记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/亞迦雷斯特戰記) |
 | ai no senshi rainbowman | 彩虹化身侠 |  | [维基百科](https://zh.wikipedia.org/zh-cn/彩虹化身侠) |
-| ai shimai | 爱姐妹 |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/愛姉妹) [维基百科](https://zh.wikipedia.org/zh-cn/愛姊妹_二人的果實) |
+| ai shimai | 爱姐妹 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/愛姉妹) [维基百科](https://zh.wikipedia.org/zh-cn/愛姊妹_二人的果實) |
 | ai yori aoshi | 青出于蓝 |  | [维基百科](https://zh.wikipedia.org/zh-cn/青出於藍%20%28漫畫%29) |
 | aim for the ace | 网球甜心 |  | [维基百科](https://zh.wikipedia.org/zh-cn/網球甜心) |
-| air master | Air Master |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/エアマスター) |
-| akatsuki blitzkampf | 葬晓电光战记 |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/アカツキ電光戦記) |
+| air master | Air Master |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/エアマスター) |
+| akatsuki blitzkampf | 葬晓电光战记 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アカツキ電光戦記) |
 | akira | 阿基拉 |  | [维基百科](https://zh.wikipedia.org/zh-cn/亚基拉) |
 | aku no onna kanbu | 恶之女干部 |  | [维基百科](https://zh.wikipedia.org/zh-cn/恶之女干部) |
 | akuyaku reijou nanode last boss o kattemimashita | 作为恶役大小姐就该养魔王 |  | [番组计划](https://bgm.tv/subject/351375) |
-| alice tantei kyoku | 爱丽丝侦探局 |  | [维基百科（日文）](https://ja.wikipedia.org/wiki/アリス探偵局) |
+| alice tantei kyoku | 爱丽丝侦探局 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アリス探偵局) |
 | alien 9 | 校园外星人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/校園外星人) |
 | alien vs predator | 异形大战铁血战士 |  | [维基百科](https://zh.wikipedia.org/zh-cn/异形大战铁血战士) |
 | allison to lillia | 艾莉森与莉莉亚 |  | [维基百科](https://zh.wikipedia.org/zh-cn/艾莉森與莉莉亞) |
