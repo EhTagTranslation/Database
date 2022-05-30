@@ -1722,6 +1722,7 @@ example:
 | alien 9 | 校园外星人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/校園外星人) |
 | alien vs predator | 异形大战铁血战士 |  | [维基百科](https://zh.wikipedia.org/zh-cn/异形大战铁血战士) |
 | allison to lillia | 艾莉森与莉莉亚 |  | [维基百科](https://zh.wikipedia.org/zh-cn/艾莉森與莉莉亞) |
+| a.i. ga tomaranai | 电脑情人梦 |  | [维基百科](https://zh.wikipedia.org/zh-cn/電腦情人夢) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
