@@ -2246,7 +2246,7 @@ example:
 | kikyakudou | 鬼脚堂 |  |  |
 | ikameshi shokudou | 乌贼饭食堂 |  |  |
 | tairikukan dandoudan dan | 大陆间弹道弹团 |  |  |
-| shimobashira koubou | しもばしら工房 |  | [https://ci-en.dlsite.com/creator/4551](https://ci-en.dlsite.com/creator/4551) [https://bgm.tv/person/36481](https://bgm.tv/person/36481) |
+| shimobashira koubou | しもばしら工房 |  | [https://ci-en.dlsite.com/creator/4551](https://ci-en.dlsite.com/creator/4551) [Bangumi](https://bgm.tv/person/36481) |
 | muriyari egao | 无理矢理笑颜 |  |  |
 | southbamboo | 南方山竹笋 |  |  |
 | permission | ぱ～みっしょん |  |  |
