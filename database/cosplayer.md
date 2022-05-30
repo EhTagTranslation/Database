@@ -44,12 +44,13 @@ example:
 | lenfried | lenfried | lenfried（れんふりーど），又称莲姐、莲妹，日本著名COSER，HeruHeru3社团成员。自C74起开始在各届Comic Market上发售自己的cos写真集作品后，深受广大粉丝喜爱。其代表作品有《东方恋莲録》、《枫帐》等。 |  |
 | misa daidai | 习呆呆 |  |  |
 | senluo caituan | 森萝财团 |  | [Twitter](https://twitter.com/senluocaituan) |
-| pigma | Pigman | `male:tomgirl` | [patreon](https://www.patreon.com/pigman) |
+| pigma | Pigman | `m:tomgirl` | [patreon](https://www.patreon.com/pigman) |
 | abaoyeshituniang | 阿包也是兔娘 |  | [bilibili](https://space.bilibili.com/384435799) |
 | kimmie mi | 蜜蜜子 |  | [Twitter](https://twitter.com/mimizikimmie) [微博](https://weibo.com/u/7297128193) [bilibili](https://space.bilibili.com/474643478) |
 | aqua area | 水淼Aqua |  | [Twitter](https://twitter.com/aqua28551264) |
 | erzuo nisa | 二佐nisa |  | [Twitter](https://twitter.com/erzuoxxxx) [微博](https://weibo.com/u/6475305895) [bilibili](https://space.bilibili.com/1484200020/) |
 | sola | Sola | Sola酱也要成为双马尾 | [微博](https://weibo.com/u/5574472907) [Twitter](https://mobile.twitter.com/solaco66) |
+| tsuki desu | Tsuki Desu \| Dosya Gasai |  | [Twitter](https://twitter.com/tsuki_des) |
 
 <!--
 Template: 

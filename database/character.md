@@ -67,7 +67,9 @@ example:
 | yumemi okazaki | 冈崎梦美 | 在《东方梦时空》中作为9面BOSS和隐藏可选自机登场。<br>在未来大学中任教比较物理学的教授,，有灵异现象控倾向，并在学会中发表了相关的理论，但是她的理论被狠狠地嘲笑和否定了。<br>为了向嘲笑她的同僚们复仇，一怒之下拉上了助手千百合一起乘坐“可能性空间移动船”，开始寻找有魔力存在的平行世界，没有多久她们便发现了“东之国域”这一理想的观测点，却也没有想到也因此陷入了循环的怪圈……<br>![冈崎梦美于东方梦时空中的造型](https://zh.touhouwiki.net/images/8/8a/Th03Yumemi.png)![图](https://ehgt.org/74/ef/74ef4061ad5ef8d4eb39f13944af55a8e773700f-811235-900-1200-png_l.jpg)![图](# "https://ehgt.org/b3/26/b3262a32f1821c7fa849cdc98764076e90eaea7c-508277-2592-1920-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/zh/冈崎梦美) [东方维基](https://zh.touhouwiki.net/index.php?title=冈崎梦美) [THBWiki](https://thwiki.cc/冈崎梦美) |
 |  | 东方Project >> 旧作 >> 东方幻想乡 |  |  |
 | elly | 艾丽 | 道中曲是著名的 Bad Apple<br>![图](https://ehgt.org/c6/cf/c6cf235bd3a8613ebd6acd195e0875d91e651399-534521-708-1000-jpg_l.jpg)![图](# "https://ehgt.org/d9/90/d990c8ba0bfbd759c051ff34895045fbb450c03d-519089-3200-1920-jpg_l.jpg")![图](# "https://ehgt.org/14/43/14434dcdde05cd12ba9d79929f3e123753ca62e4-3168631-3000-3000-png_l.jpg")![图](# "https://ehgt.org/19/1e/191e2eb5b7cef8474a432ffd7b84f7441e512672-3808315-2508-3541-png_l.jpg") |  |
-| gengetu | 幻月 | ![图](https://ehgt.org/2b/20/2b204551b3b1c068822af3e7354597cdb6c4baa0-822311-900-1200-png_l.jpg)![图](https://ehgt.org/96/f4/96f4a8935fa846e12c6a012486d22b32cc11d371-3259667-1447-2484-png_l.jpg) |  |
+| gengetsu | 幻月 | ![图](https://ehgt.org/2b/20/2b204551b3b1c068822af3e7354597cdb6c4baa0-822311-900-1200-png_l.jpg)![图](https://ehgt.org/96/f4/96f4a8935fa846e12c6a012486d22b32cc11d371-3259667-1447-2484-png_l.jpg) |  |
+| mugetsu | 梦月 |  |  |
+| kurumi | 胡桃 |  |  |
 |  | 东方Project >> 旧作 >> 东方怪绮谈 |  |  |
 | yumeko | 梦子 | 《怪绮谈》5面BOSS，服侍魔界之神神绮的女仆，是神绮创造的魔界造物中级别最高的存在。<br>![图](https://ehgt.org/4b/be/4bbe614e571e7388f45522c5798672f2a62f2656-1030475-900-1200-png_l.jpg)![梦子于东方怪绮谈中的造型](https://zh.touhouwiki.net/images/4/4a/Th05yumeko.png)<br>![梦子（怪绮谈）](https://img.moegirl.org.cn/common/f/fe/梦子（怪绮谈）.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/梦子) [东方维基](https://zh.touhouwiki.net/index.php?title=梦子) [THBWiki](https://thwiki.cc/梦子) |
 | shinki | 神绮 | 太太我喜欢你啊<br>![图](https://ehgt.org/db/d2/dbd2daf3eed3249a7fc417ed26d1f6e1dd9fec23-1094828-1111-1590-png_l.jpg)![图](https://ehgt.org/61/ab/61abf715f0d4ba0826c981db6c2adb86e0e0f860-1292470-1413-2000-jpg_l.jpg) |  |
@@ -415,8 +417,8 @@ example:
 | amatsukaze | 天津风 |  | [战舰少女:天津风](https://zh.moegirl.org.cn/战舰少女:天津风) [舰队Collection:天津风](https://zh.moegirl.org.cn/舰队Collection:天津风) |
 | akashi | 明石 | 旧日本帝国海军的明石号维修舰（明石(工作艦)） | [碧蓝航线:明石](https://zh.moegirl.org.cn/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org.cn/舰队Collection:明石) |
 | ooyodo | 大淀 |  | [战舰少女:大淀](https://zh.moegirl.org.cn/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org.cn/舰队Collection:大淀) |
-| taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) |
-| ryuuhou | 龙凤 | 旧日本帝国海军的龙凤号航空母舰（龙凤 (空母)）） | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
+| taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) |
+| ryuuhou | 龙凤 | 旧日本帝国海军的龙凤号航空母舰（龙凤 (空母)）） | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
 | amagi | 天城 | 日本帝国海军的天城级巡洋战列舰1号舰天城号（ 天城号） | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
@@ -2767,7 +2769,6 @@ example:
 | c.c. | C.C. | ![](http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg) | [萌娘百科](https://zh.moegirl.org.cn/C.C.) |
 | charlotte dunois | 夏洛特·德诺阿 |  |  |
 | nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) |  |
-| sadako | 贞子 |  |  |
 | louise francoise le blanc de la valliere | 露易丝·法兰西斯·露·布朗·杜·拉·瓦利埃尔 | 《零之使魔》路易斯，钉宫四萌之一<br>![图](https://ehgt.org/bb/c9/bbc968c105f220f91842fa0b4a9a8e487e7952e2-524834-1050-1500-jpg_l.jpg)![图](https://ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg)![图](# "https://ehgt.org/1a/0f/1a0f01daacab414f1dc6685f4cf005774777ad50-747905-1237-1741-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/露易丝·法兰西斯·露·布朗·杜·拉·瓦利埃尔) |
 | saito hiraga | 平贺才人 | 《零之使魔》才狗，全名才人·修瓦里埃·杜·平贺·杜·奥尔尼埃尔<br>![图](https://ehgt.org/f6/5b/f65b7fc845b623be84a986cc1e61daf457836f04-393538-800-1130-jpg_l.jpg)![图](https://ehgt.org/23/e4/23e40ed99207ecfa4cba57b09931683f73b19bf7-797226-1406-1998-jpg_l.jpg)![图](# "https://ehgt.org/34/27/3427f37ffcbb7648229b659c70b22628af9c67e0-1025058-1148-1600-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/平贺才人) |
 | shana | 夏娜 | 《灼眼的夏娜》，钉宫四萌之一<br>![图](https://ehgt.org/40/5a/405a01d1eb1b240be5f11fb3ca77553e5dbaed4e-887338-2109-3000-jpg_l.jpg)![图](https://ehgt.org/fc/6f/fc6f012686e67c8a119a564850f9cd90001f77e7-15348419-3004-2128-png_l.jpg)![图](https://ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夏娜) |
@@ -3841,6 +3842,10 @@ example:
 | lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif/revision/latest?cb=20131230141441) | [https://uruseiyatsura.fandom.com/wiki/Lum](https://uruseiyatsura.fandom.com/wiki/Lum) [萌娘百科](https://zh.moegirl.org.cn/拉姆%28福星小子%29) |
 | raiden | 雷电 | 所属作品：`p:metal gear solid`<br>《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。 | [维基百科](https://zh.wikipedia.org/wiki/合金装备系列角色列表) |
 | tien shinhan | 天津饭 |  |  |
+| soujiro izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，泉彼方的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG/revision/latest/scale-to-width-down/350?cb=20100331012127) | [萌娘百科](https://zh.moegirl.org.cn/泉宗次郎) [fandom](https://luckystar.fandom.com/wiki/Sōjirō_Izumi) |
+| theresa apocalypse | 德丽莎·阿波卡利斯 |  | [萌娘百科](https://zh.moegirl.org.cn/德丽莎·阿波卡利斯%28崩坏3%29#) |
+| rozaliya olenyeva | 萝莎莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/萝莎莉娅·阿琳) |
+| liliya olenyeva | 莉莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/莉莉娅·阿琳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

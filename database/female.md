@@ -116,6 +116,7 @@ example:
 | sheep girl | 羊女孩 | 有羊毛和羊角的女性。 |  |
 | slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和`monster`标签。 |  |
 | slime girl | 史莱姆女孩 | 身体由粘性物体组成的女性。不得与`slime`混淆。 |  |
+| snail girl | 蜗牛女孩 | 头部有一组或多组触手状触角和蛞蝓状躯干。不应与`insect girl`混淆。 需要`monster girl`标签。 |  |
 | snake girl | 蛇女 | 蛇和女性的混合体。 |  |
 | spider girl | 蜘蛛娘 | 拥有蜘蛛身体的女性。<br>![图](https://ehgt.org/50/84/5084341035deddf6943a8c80082dc404e85ba30c-406566-800-600-jpg_l.jpg) |  |
 | squid girl | 乌贼娘 | 有许多小触角和鱿鱼或章鱼的头部。 |  |

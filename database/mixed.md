@@ -47,10 +47,19 @@ example:
 |  | == 头部 == |  |  |
 |  | === 头部 > 思维 === |  |  |
 | body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender change`。 |  |
+|  | === 头部 > 嘴 === |  |  |
+| multimouth blowjob | 多口口交 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
+|  | == 手臂 == |  |  |
+|  | === 手臂 > 手 === |  |  |
+| multiple handjob | 多重打手枪 | 多人为另一人人手淫。需要`handjob`标签。 |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/72/a9/72a9f8c2fc1346ec17bfbffc40cc23373e4f1e11-1193994-1412-1000-jpg_l.jpg") |  |
+|  | === 下半身 > 臀部 === |  |  |
+| multiple assjob | 多重尻交 | 多个阴茎参与的尻交。需要`assjob`标签。 |  |
+|  | == 足 == |  |  |
+| multiple footjob | 多重足交 | 一个以上的人同时用脚对同一个参与者进行性刺激。需要`footjob`标签。 |  |
 |  | == 多人活动 == |  |  |
 | ffm threesome | 女男女3P | ♀♂♀，2 女 1 男 3P。需要`group`标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
