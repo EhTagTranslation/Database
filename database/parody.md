@@ -1857,6 +1857,7 @@ example:
 | can can bunny | Can Can Bunny |  | [维基百科](https://zh.wikipedia.org/zh-cn/Can%20Can%20Bunny) |
 | carole and tuesday | 卡罗尔与星期二 |  | [维基百科](https://zh.wikipedia.org/zh-cn/卡罗尔与星期二) |
 | casshan | 再造人卡辛 |  | [维基百科](https://zh.wikipedia.org/zh-cn/再造人卡辛) |
+| fantasy bishoujo juniku ojisan to | 与变成了异世界美少女的大叔一起冒险 |  | [维基百科](https://zh.wikipedia.org/zh-cn/與變成了異世界美少女的大叔一起冒險) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
