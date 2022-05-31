@@ -7,7 +7,7 @@ copyright: >
   除有特殊说明外，本文的简介文本翻译自 EHWiki，遵循原始许可协议（即 GNU 自由文档许可证）进行二次分发。
 
 
-  Copyright (c) 2017 EhTagTranslator-Wiki. Permission is granted to copy,
+  Copyright (c) 2022 EhTagTranslation. Permission is granted to copy,
   distribute and/or modify this document under the terms of the GNU Free
   Documentation License, Version 1.2 or any later version published by the Free
   Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no
@@ -29,5 +29,5 @@ copyright: >
 | imageset | 图集 | 图集是一个通用的画廊。他们大多是日本人绘制的内容，但不属于漫画或同人志。这些画廊内的图像通常具有单个主题（例如特定艺术家，特定系列的人物，或特定恋物癖）。 |  |
 | cosplay | Cosplay | 真人装扮成动画、漫画或游戏中的角色，用于一般表演（非裸体也是可以接受的）或专门为性目的拍摄。打扮为一般普通护士或女佣等，而不是特定角色的不算。 |  |
 | misc | 杂项 | 不符合任何其他类别的画廊。包含`3d`画廊、非色情的`western`画廊、`figure`画廊、`paperchild`画廊、`real doll`画廊等。从这些画廊获得的 GP 数量减少到上传者通常会收到的 25%。 |  |
-| private | 私有 | 私有画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要将其作为自己的个人用户画廊，或只是希望自己的朋友前来参观。从私有画廊获得的 GP 数量减少到上传者通常会收到的金额的 10%。要创建私有画廊，用户必须拥有铜星或更高星级。 |  |
 | asianporn | 亚洲色情 | 将被淘汰的老分类，2012-02-15 开始禁止使用，会逐渐删除。 |  |
+| private | 私有 | 私有画廊是一个非正式的类别，允许用户不与 E-Hentai 社区其他成员分享他们的内容。他们往往是想要将其作为自己的个人用户画廊，或只是希望自己的朋友前来参观。从私有画廊获得的 GP 数量减少到上传者通常会收到的金额的 10%。要创建私有画廊，用户必须拥有铜星或更高星级。 |  |
