@@ -3706,6 +3706,7 @@ example:
 | botan m | 牡丹M |  | [Twitter](https://twitter.com/botan_emu) |
 | syouwaru | 性悪 |  |  |
 | indo curry | 印度カリー |  |  |
+| hirasawa zen | 平沢Zen |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
