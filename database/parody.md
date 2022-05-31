@@ -1725,45 +1725,42 @@ example:
 | a.i. ga tomaranai | 电脑情人梦 |  | [维基百科](https://zh.wikipedia.org/zh-cn/電腦情人夢) |
 | akihabara dennou gumi | 秋叶原电脑组 |  | [维基百科](https://zh.wikipedia.org/zh-cn/秋葉原電腦組) |
 | alpen rose | 阿尔卑斯杜鹃 |  | [维基百科](https://zh.wikipedia.org/zh-cn/阿爾卑斯杜鵑) |
-| alvin and the chipmunks | アルビンとチップマンクス |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アルビンとチップマンクス) |
-| am driver | Get Ride! アムドライバー |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Get%20Ride!%20アムドライバー) |
+| alvin and the chipmunks | 鼠来宝 |  | [维基百科](https://zh.wikipedia.org/wiki/鼠來寶) [维基百科（日语）](https://ja.wikipedia.org/wiki/アルビンとチップマンクス) |
+| am driver | 滑板战士 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Get%20Ride!%20アムドライバー) |
 | amaenaideyo | 极乐天师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/極樂天師) |
-| amaizo dango | あまいぞ!男吾 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/あまいぞ!男吾) |
-| amazing nurse nanako | 菜菜子解体诊书 |  | [维基百科](https://zh.wikipedia.org/zh-cn/菜菜子解體診書) |
+| amazing nurse nanako | 菜菜子解体诊书 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/菜菜子解体诊书) [维基百科](https://zh.wikipedia.org/zh-cn/菜菜子解體診書) |
 | american dad | 特工老爹 |  | [维基百科](https://zh.wikipedia.org/zh-cn/特工老爹) |
 | american mcgees alice | 爱丽丝梦游魔境 |  | [维基百科](https://zh.wikipedia.org/zh-cn/爱丽丝梦游魔境) |
-| amnesia | 失忆症 (游戏) |  | [维基百科](https://zh.wikipedia.org/zh-cn/失忆症%20%28游戏%29) |
+| amnesia | 失忆症 |  | [维基百科](https://zh.wikipedia.org/zh-cn/失忆症%20%28游戏%29) |
 | an american tail | 美国鼠谭 |  | [维基百科](https://zh.wikipedia.org/zh-cn/老鼠也移民) |
 | ane doki | 御姐百分百 |  | [维基百科](https://zh.wikipedia.org/zh-cn/御姐百分百) |
-| ane haramix | 姉☆孕みっくす |  | [EhWiki](https://ehwiki.org/wiki/ane_haramix) |
-| angel blade | エンジェルブレイド |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/エンジェルブレイド) |
-| angie girl | 女王陛下のプティアンジェ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/女王陛下のプティアンジェ) |
+| ane haramix | 姐姐☆懷孕 |  | [https://bgm.tv/subject/70304](https://bgm.tv/subject/70304) |
+| angel blade | Angel Blade |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/エンジェルブレイド) |
 | animal yokochou | 动物横町 |  | [维基百科](https://zh.wikipedia.org/zh-cn/動物橫町) |
 | animaniacs | 狂欢三宝 |  | [维基百科](https://zh.wikipedia.org/zh-cn/狂歡三寶) |
-| anna millers | アンナミラーズ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アンナミラーズ) |
+| anna millers | 安娜·米勒 |  | [维基百科](https://en.wikipedia.org/wiki/Anna_Miller%27s) |
 | anne happy | Anne Happy♪ |  | [维基百科](https://zh.wikipedia.org/zh-cn/Anne%20Happy%20♪) |
 | anpanman | 面包超人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/麵包超人) |
 | ao no flag | 青旗 |  | [维基百科](https://zh.wikipedia.org/zh-cn/青旗) |
-| aoharu x kikanjuu | 青春生存游戏 |  | [维基百科](https://zh.wikipedia.org/zh-cn/青春×機關鎗) |
-| aoi shiro | アオイシロ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アオイシロ) |
+| aoharu x kikanjuu | 青春×机关枪 |  | [维基百科](https://zh.wikipedia.org/zh-cn/青春×機關鎗) |
+| aoi shiro | 青城 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アオイシロ) |
 | aoi umi no tristia | 发明工坊 |  | [维基百科](https://zh.wikipedia.org/zh-cn/發明工坊) |
 | ape escape | 捉猴啦 |  | [维基百科](https://zh.wikipedia.org/zh-cn/捉猴啦) |
-| ar nosurge | アルノサージュ〜生まれいずる星へ祈る詩〜 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アルノサージュ〜生まれいずる星へ祈る詩〜) |
-| ar tonelico | 魔塔大陆系列 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔塔大陸系列) |
-| ar tonelico qoga | 魔塔大陆3 终结世界的少女诗歌 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔塔大陸3%20終結世界的少女詩歌) |
-| araiguma rascal | 世界名作剧场 |  | [维基百科](https://zh.wikipedia.org/zh-cn/世界名作劇場) |
-| arcana famiglia | アルカナ・ファミリア －La storia della Arcana Famiglia－ |  | [EhWiki](https://ehwiki.org/wiki/arcana_famiglia) |
+| ar nosurge | Ar nosurge ～献给诞生之星的祈祷诗～ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アルノサージュ〜生まれいずる星へ祈る詩〜) |
+| ar tonelico | 魔塔大陆 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔塔大陸系列) |
+| ar tonelico qoga | 魔塔大陆3 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔塔大陸3%20終結世界的少女詩歌) |
+| araiguma rascal | 小浣熊 |  | [维基百科](https://zh.wikipedia.org/zh-cn/浣熊拉斯卡爾) |
+| arcana famiglia | 魔力家族 |  | [维基百科](https://zh.wikipedia.org/zh-cn/聖靈家族) |
 | area no kishi | 足球骑士 |  | [维基百科](https://zh.wikipedia.org/zh-cn/足球騎士) |
-| ares no tsubasa | アレスの翼 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アレスの翼) |
-| arete hime | アリーテ姫 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アリーテ姫) |
+| ares no tsubasa | 传奇之翼 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アレスの翼) |
+| arete hime | 阿莱蒂公主 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アリーテ姫) |
 | armored trooper votoms | 装甲骑兵波德姆兹 |  | [维基百科](https://zh.wikipedia.org/zh-cn/裝甲騎兵波德姆茲) |
 | arrow emblem hawk of the grand prix | 神威赛车手 |  | [维基百科](https://zh.wikipedia.org/zh-cn/神威赛车手) |
-| asa made jugyou chu | 授业到天亮Chu! |  | [维基百科](https://zh.wikipedia.org/zh-cn/授業到天明Chu!) |
-| ashita e free kick | あしたへフリーキック |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/あしたへフリーキック) |
+| asa made jugyou chu | 授课到天亮Chu! |  | [维基百科](https://zh.wikipedia.org/zh-cn/授業到天明Chu!) |
+| ashita e free kick | 踢向明天 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/あしたへフリーキック) |
 | ashita no joe | 明日之丈 |  | [维基百科](https://zh.wikipedia.org/zh-cn/明日之丈) |
-| ashitaba-san chi no mukogurashi | 明日葉産地のムコ暮らし |  | [EhWiki](https://ehwiki.org/wiki/ashitaba-san_chi_no_mukogurashi) |
 | ask dr. rin | 恋爱占卜师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/戀愛占卜師) |
-| asoko de hataraku musubu-san | あそこではたらくムスブさん |  | [EhWiki](https://ehwiki.org/wiki/asoko_de_hataraku_musubu-san) |
+| asoko de hataraku musubu-san | 在那里工作的结小姐 |  | [维基百科](https://en.wikipedia.org/wiki/Asoko_de_Hataraku_Musubu-san) |
 | astro fighter sunred | 天体战士桑雷德 |  | [维基百科](https://zh.wikipedia.org/zh-cn/天体战士桑雷德) |
 | astro plan | 星原戦記アストロプラン |  | [EhWiki](https://ehwiki.org/wiki/astro_plan) |
 | asura cryin | 魔神相克者 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔神相克者) |
