@@ -30,7 +30,7 @@
 
 ## 使用翻译
 
-一般用户可通过以下项目使用本数据库的翻译，也可以通过这些项目向本数据库贡献翻译内容。
+用户可通过以下项目使用本数据库的翻译，也可以通过这些项目向本数据库贡献翻译内容。
 
 * [EhSyringe](../../../EhSyringe)  
   ![WEB][plat-web]  ![GitHub Release Date](https://img.shields.io/github/release-date/EhTagTranslation/EhSyringe?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
