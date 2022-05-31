@@ -57,12 +57,18 @@
 * [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![iOS][plat-ios]  ![Adnroid][plat-android]  ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个由 Flutter 编写的阅读器，支持直连。
-  
+
 * [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
   ![WEB][plat-web]  ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)   
   一个将E站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 
-### 已停止维护
+<details>
+
+<summary>
+
+#### 已停止维护的项目
+
+</summary>
 
 * [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
   ![WEB][plat-web]  
@@ -79,7 +85,10 @@
 * [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![iOS][plat-ios]  ![GitHub Release Date](https://img.shields.io/github/release-date/kayanouriko/E-HentaiViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个 E-Hentai 的 iOS 端阅读器。
-  
+
+</details>
+
+
 ## 开发指南
 
 参见 [Wiki/开发指南](../../wiki/开发指南)。
