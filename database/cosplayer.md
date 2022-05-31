@@ -52,6 +52,7 @@ example:
 | sola | Sola | Sola酱也要成为双马尾 | [微博](https://weibo.com/u/5574472907) [Twitter](https://mobile.twitter.com/solaco66) |
 | tsuki desu | Tsuki Desu \| Dosya Gasai |  | [Twitter](https://twitter.com/tsuki_des) |
 | kokura chiyo | 小倉ちよ | 常称为小仓千代w，[Twitter](https://twitter.com/yummhiyo_w) 是高仿号。 | [Twitter](https://twitter.com/yummychiyo) |
+| g44 wa kizutsukanai | G44不会受伤 |  | [微博](https://weibo.com/u/2727362643) |
 
 <!--
 Template: 
