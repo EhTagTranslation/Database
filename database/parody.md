@@ -1356,7 +1356,6 @@ example:
 | hataraku saibou | 工作细胞 | 《工作细胞》（日语：はたらく細胞）是清水茜所著的日本漫画作品，主要讲述经拟人化后人体内各种细胞于人体内的日常工作，例如负责物流作业（运送氧气及二氧化碳）的红血球和日常警备工作（清除恶菌）的白血球。 | [维基百科](https://zh.wikipedia.org/zh-cn/工作細胞) (\*) |
 | binbougami ga | 穷神来了 | 《穷神来了》是助野嘉昭的少年漫画作品。于《Jump SQ》2008年7月号开始连载，连载至2013年8月号完结。并改编成电视动画。2012年7月4日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/窮神_%28漫畫%29) (\*) |
 | princess connect | 公主连结 Re:Dive | 《公主连结 Re:Dive》（日语：プリンセスコネクト！Re:Dive）是一款由Cygames所制作的奇幻风格角色扮演手机游戏，前身为2015年至2016年间营运的《公主连结》。本游戏除了在日本上市外，也计划与海外业者推出包含繁体中文、简体中文、韩文等版本。 | [维基百科](https://zh.wikipedia.org/zh-cn/超異域公主連結_Re:Dive) (\*) |
-| breath of fire | 龙息之焰 |  |  |
 | kuzu no honkai | 人渣的本愿 | 《人渣的本愿》（日语：クズの本懐）是由日本漫画家横枪萌果（横槍メンゴ）创作的漫画。 于2012年起在杂志《月刊BIG GANGAN》上连载。截至2016年5月，单行本累计销量超过了100万本。番外篇《人渣的本愿 décor》于2017年11月25日起在《月刊BIG GANGAN》上连载。 由同名作品所改编的电视剧、电视动画于2017年1月播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/人渣的本愿) (\*) |
 | elfen lied | 妖精的旋律 | 《妖精的旋律》（日语：エルフェンリート，德语：Elfen Lied）是日本漫画家冈本伦所创作的漫画作品，于集英社的周刊YOUNG JUMP杂志上连载，自2002年27号起至2005年39号完结，单行本全12卷。繁体中文版由长鸿出版社代理，以R18形式发行。之后改编为电视动画，于2004年7月25日到10月17日期间放送，全12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/妖精的旋律) (\*) |
 | katanagatari | 刀语 | 《刀语》是西尾维新所作的轻小说，插画作者是竹，共12册。这是西尾首次发表的时代小说。由此改编的动画于2010年1月开始每月播放一话，为《西尾维新动画PROJECT》第二个项目，全12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/刀语) (\*) |
@@ -1809,6 +1808,55 @@ example:
 | blood plus | 血战 |  | [维基百科](https://zh.wikipedia.org/zh-cn/血戰) |
 | blood royale | BLOOD ROYAL |  | [Bangumi](https://bgm.tv/subject/229244) |
 | blood-c | BLOOD-C |  | [维基百科](https://zh.wikipedia.org/zh-cn/BLOOD-C) |
+| bloodstained | 血污 |  | [维基百科](https://zh.wikipedia.org/zh-cn/血污：夜之仪式) |
+| bloody roar | 血腥咆哮 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブラッディロア) |
+| blue dragon | 蓝龙 |  | [维基百科](https://zh.wikipedia.org/zh-cn/藍龍) |
+| blue spring ride | 青春之旅 |  | [维基百科](https://zh.wikipedia.org/zh-cn/閃爍的青春) |
+| bna brand new animal | 动物新世代 BNA |  | [维基百科](https://zh.wikipedia.org/zh-cn/动物新世代%20BNA) |
+| boku dake ga inai machi | 只有我不存在的城市 |  | [维基百科](https://zh.wikipedia.org/zh-cn/只有我不存在的城市) |
+| boku no kanojo ga majimesugiru shobitch na ken | 关于我女友是个一本正经的碧池这件事 |  | [维基百科](https://zh.wikipedia.org/zh-cn/我的女友是個過度認真的處女bitch) |
+| boku to misaki-sensei | 我和美咲老师 | ボクとみさき先生 |  |
+| boku to roboko | 我与机器子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/我與機器子) |
+| bokura no taiyou | 我们的太阳 |  | [维基百科](https://zh.wikipedia.org/zh-cn/我們的太陽系列) |
+| bokutachi no remake | 我们的重制人生 |  | [维基百科](https://zh.wikipedia.org/zh-cn/我们的重制人生) |
+| bomberman jetters | 轰炸超人 |  | [维基百科](https://zh.wikipedia.org/wiki/Bom_Bom弹珠人太空战士) |
+| boogiepop | 不吉波普 |  | [维基百科](https://zh.wikipedia.org/zh-cn/不吉波普系列) |
+| bounen no xamdou | 亡念之扎姆德 |  | [维基百科](https://zh.wikipedia.org/zh-cn/亡念之扎姆德) |
+| braceface | Braceface |  | [维基百科（英语）](https://en.wikipedia.org/wiki/braceface) |
+| brandy and mr. whiskers | 小布与伟仔 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブランディ%20アンド%20Mr.ウィスカーズ) |
+| bratz | Bratz |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Bratz) |
+| brave 10 | BRAVE10 |  | [维基百科](https://zh.wikipedia.org/wiki/BRAVE10) |
+| brave express might gaine | 勇者特急队 |  | [维基百科](https://zh.wikipedia.org/zh-cn/勇者特急隊) |
+| brave fencer musashi | 勇敢的剑士 武藏传 |  | [维基百科](https://zh.wikipedia.org/zh-cn/勇敢的剑士%20武藏传) |
+| brave nine | Brave Nine |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブラウンダスト) |
+| brave story | 勇者物语 |  | [维基百科](https://zh.wikipedia.org/zh-cn/勇者物語) |
+| bravestarr | 布雷斯塔警长 |  | [维基百科](https://zh.wikipedia.org/zh-cn/布雷斯塔警长) |
+| breakers | BREAKERS |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレイカーズ_%28テレビゲーム%29) |
+| breath of fire | 龙息之焰 |  | [维基百科](https://zh.wikipedia.org/wiki/龙战士) |
+| breath of fire ii | 龙息之焰II |  | [维基百科](https://zh.wikipedia.org/zh-cn/龙战士II%20使命之子) |
+| breath of fire iii | 龙息之焰III |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレス%20オブ%20ファイアIII) |
+| breath of fire iv | 龙息之焰IV |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレス%20オブ%20ファイアIV%20うつろわざるもの) |
+| breath of fire v | 龙息之焰V |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレス%20オブ%20ファイアIV%20うつろわざるもの) |
+| breath of fire 6 | 龙息之焰6 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレス_オブ_ファイア#オンラインゲーム) |
+| broken blade | 破刃之剑 |  | [维基百科](https://zh.wikipedia.org/zh-cn/破刃之劍) |
+| bubuki buranki | 舞武器·舞乱伎 |  | [维基百科](https://zh.wikipedia.org/zh-cn/舞武器·舞亂伎) |
+| bucky ohare | Bucky O'Hare |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Bucky_O%27Hare) |
+| buffy the vampire slayer | 吸血鬼猎人巴菲 |  | [维基百科](https://zh.wikipedia.org/zh-cn/吸血鬼猎人巴菲) |
+| bully | 恶霸鲁尼 |  | [维基百科](https://zh.wikipedia.org/zh-cn/惡霸魯尼) |
+| bungou to alchemist | 文豪与炼金术师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/文豪與鍊金術師) |
+| burn up | 杀人科 |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
+| burn up w | 杀人科 W |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
+| burn up scramble | 杀人科 SCRAMBLE |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
+| busou shoujo machiavellianism | 武装少女Machiavellianism |  | [维基百科](https://zh.wikipedia.org/zh-cn/武裝少女Machiavellianism) |
+| buzz lightyear of star command | 巴斯光年的星际使命 |  | [维基百科](https://zh.wikipedia.org/zh-cn/巴斯光年的星際使命) |
+| c the money of soul and possibility control | C钱‧未来式 |  | [维基百科](https://zh.wikipedia.org/wiki/C_%28動畫%29) |
+| cage of eden | 逃离伊甸园 |  | [维基百科](https://zh.wikipedia.org/zh-cn/逃離伊甸園) |
+| caligula | 卡里古拉 |  | [维基百科](https://zh.wikipedia.org/wiki/卡里古拉_%28遊戲%29) |
+| call me by your name | 请以你的名字呼唤我 |  | [维基百科](https://zh.wikipedia.org/zh-cn/请以你的名字呼唤我%20%28电影%29) |
+| call of duty | 使命召唤 |  | [维基百科](https://zh.wikipedia.org/zh-cn/決勝時刻系列) |
+| can can bunny | Can Can Bunny |  | [维基百科](https://zh.wikipedia.org/zh-cn/Can%20Can%20Bunny) |
+| carole and tuesday | 卡罗尔与星期二 |  | [维基百科](https://zh.wikipedia.org/zh-cn/卡罗尔与星期二) |
+| casshan | 再造人卡辛 |  | [维基百科](https://zh.wikipedia.org/zh-cn/再造人卡辛) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
