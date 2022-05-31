@@ -51,7 +51,7 @@ example:
 | erzuo nisa | 二佐nisa |  | [Twitter](https://twitter.com/erzuoxxxx) [微博](https://weibo.com/u/6475305895) [bilibili](https://space.bilibili.com/1484200020/) |
 | sola | Sola | Sola酱也要成为双马尾 | [微博](https://weibo.com/u/5574472907) [Twitter](https://mobile.twitter.com/solaco66) |
 | tsuki desu | Tsuki Desu \| Dosya Gasai |  | [Twitter](https://twitter.com/tsuki_des) |
-| kokura chiyo | 小倉ちよ |  | [Twitter](https://twitter.com/yummychiyo) |
+| kokura chiyo | 小倉ちよ | 常称为小仓千代w，[Twitter](https://twitter.com/yummhiyo_w) 是高仿号。 | [Twitter](https://twitter.com/yummychiyo) |
 
 <!--
 Template: 
