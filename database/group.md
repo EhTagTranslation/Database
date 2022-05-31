@@ -2278,6 +2278,7 @@ example:
 | tokachibare | 十勝晴レ |  |  |
 | bomubomuburin | ボムボムブリン |  |  |
 | nisiarea | にしえりあ |  |  |
+| mentsukidou | 眼ん月堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
