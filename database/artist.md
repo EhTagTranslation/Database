@@ -3707,6 +3707,7 @@ example:
 | syouwaru | 性悪 |  |  |
 | indo curry | 印度カリー |  |  |
 | hirasawa zen | 平沢Zen |  |  |
+| shimuro itaru | 至室 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
