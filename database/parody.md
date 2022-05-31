@@ -1734,7 +1734,7 @@ example:
 | amnesia | 失忆症 |  | [维基百科](https://zh.wikipedia.org/zh-cn/失忆症%20%28游戏%29) |
 | an american tail | 美国鼠谭 |  | [维基百科](https://zh.wikipedia.org/zh-cn/老鼠也移民) |
 | ane doki | 御姐百分百 |  | [维基百科](https://zh.wikipedia.org/zh-cn/御姐百分百) |
-| ane haramix | 姐姐☆懷孕 |  | [https://bgm.tv/subject/70304](https://bgm.tv/subject/70304) |
+| ane haramix | 姐姐☆懷孕 |  | [Bangumi](https://bgm.tv/subject/70304) |
 | angel blade | Angel Blade |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/エンジェルブレイド) |
 | animal yokochou | 动物横町 |  | [维基百科](https://zh.wikipedia.org/zh-cn/動物橫町) |
 | animaniacs | 狂欢三宝 |  | [维基百科](https://zh.wikipedia.org/zh-cn/狂歡三寶) |
@@ -1760,58 +1760,54 @@ example:
 | ashita e free kick | 踢向明天 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/あしたへフリーキック) |
 | ashita no joe | 明日之丈 |  | [维基百科](https://zh.wikipedia.org/zh-cn/明日之丈) |
 | ask dr. rin | 恋爱占卜师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/戀愛占卜師) |
-| asoko de hataraku musubu-san | 在那里工作的结小姐 |  | [维基百科](https://en.wikipedia.org/wiki/Asoko_de_Hataraku_Musubu-san) |
+| asoko de hataraku musubu-san | 在那里工作的结小姐 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Asoko_de_Hataraku_Musubu-san) |
 | astro fighter sunred | 天体战士桑雷德 |  | [维基百科](https://zh.wikipedia.org/zh-cn/天体战士桑雷德) |
-| astro plan | 星原戦記アストロプラン |  | [EhWiki](https://ehwiki.org/wiki/astro_plan) |
+| astro plan | 太空历险记 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Astro_Plan) |
 | asura cryin | 魔神相克者 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔神相克者) |
-| atsumare fushigi kenkyuubu | あつまれ! ふしぎ研究部 |  | [EhWiki](https://ehwiki.org/wiki/atsumare_fushigi_kenkyuubu) |
+| atsumare fushigi kenkyuubu | 集合！不可思议研究社 |  | [维基百科](https://zh.wikipedia.org/zh-cn/集合！不可思議研究社) |
 | aura battler dunbine | 圣战士丹拜因 |  | [维基百科](https://zh.wikipedia.org/zh-cn/聖戰士DUNBINE) |
-| avalon no kagi | アヴァロンの鍵 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アヴァロンの鍵) |
-| ayashi no ceres | (妖しのセレス |  | [EhWiki](https://ehwiki.org/wiki/ayashi_no_ceres) |
-| azfareo no sobayounin | 蒼竜の側用人 |  | [EhWiki](https://ehwiki.org/wiki/azfareo_no_sobayounin) |
-| azuki-chan | 小红豆 (漫画) |  | [维基百科](https://zh.wikipedia.org/zh-cn/小紅豆%20%28漫畫%29) |
+| ayashi no ceres | 梦幻妖子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/夢幻妖子) |
+| azfareo no sobayounin | 苍龙的仆人 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/苍龙的仆人) |
+| azuki-chan | 小红豆 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小紅豆%20%28漫畫%29) |
 | b gata h kei | B型H系 |  | [维基百科](https://zh.wikipedia.org/zh-cn/B型H系) |
 | b-daman | B传说！战斗弹珠人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/B傳說！戰鬥彈珠人) |
 | back to the future | 回到未来 |  | [维基百科](https://zh.wikipedia.org/zh-cn/回到未来) |
-| backbeard-sama ga miteru | バックベアード様がみてる |  | [EhWiki](https://ehwiki.org/wiki/backbeard-sama_ga_miteru) |
-| bagi the monster of mighty nature | 大自然の魔獣 バギ |  | [EhWiki](https://ehwiki.org/wiki/bagi_the_monster_of_mighty_nature) |
-| bakuen campus guardress | 爆炎CAMPUSガードレス |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/爆炎CAMPUSガードレス) |
+| bagi the monster of mighty nature | 大自然的魔兽巴奇 |  | [维基百科](https://zh.wikipedia.org/zh-cn/大自然的魔獸巴奇) |
+| bakuen campus guardress | 爆炎学院 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/爆炎CAMPUSガードレス) |
 | bakugan | 爆丸 |  | [维基百科](https://zh.wikipedia.org/zh-cn/爆丸) |
-| bakunyuu maid kari | 爆乳メイド狩り |  | [EhWiki](https://ehwiki.org/wiki/bakunyuu_maid_kari) |
+| bakunyuu maid kari | 爆乳女仆狩猎 |  |  |
 | bakutou sengen daigunder | 爆斗宣言大钢弹 |  | [维基百科](https://zh.wikipedia.org/zh-cn/爆斗宣言大钢弹) |
 | baldr force | BALDR FORCE |  | [维基百科](https://zh.wikipedia.org/zh-cn/BALDR%20FORCE) |
-| ballroom e youkoso | 舞动青春 (漫画) |  | [维基百科](https://zh.wikipedia.org/zh-cn/舞動青春%20%28漫畫%29) |
-| band yarouze | バンドやろうぜ! |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バンドやろうぜ!) |
+| ballroom e youkoso | 舞动青春 |  | [维基百科](https://zh.wikipedia.org/zh-cn/舞動青春%20%28漫畫%29) |
+| band yarouze | 来组乐队吧! |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バンドやろうぜ!) |
 | banished from the heros party i decided to live a quiet life in the countryside | 因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生 |  | [维基百科](https://zh.wikipedia.org/zh-cn/因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生) |
 | banjo-kazooie | 班卓熊大冒险 |  | [维基百科](https://zh.wikipedia.org/zh-cn/班卓熊大冒险) |
 | banner of the stars | 星界的战旗 |  | [维基百科](https://zh.wikipedia.org/zh-cn/星界的戰旗) |
-| baribari densetsu | バリバリ伝説 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バリバリ伝説) |
-| battery | 巴特里 |  | [维基百科](https://zh.wikipedia.org/zh-cn/巴特里) |
+| baribari densetsu | 极速狂飙 | バリバリ伝説（極速狂飆 港譯：疾風传说）是日本漫画家しげの 秀一所創作的機車競速漫画 | [维基百科（日语）](https://ja.wikipedia.org/wiki/バリバリ伝説) |
+| battery | 野球少年 |  | [维基百科](https://zh.wikipedia.org/wiki/野球少年) |
 | battle angel alita | 铳梦 |  | [维基百科](https://zh.wikipedia.org/zh-cn/銃夢) |
-| battle arena toshinden | 闘神伝 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/闘神伝) |
-| battle royal high school | 魔人伝 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔人伝) |
-| beck | Beck |  | [维基百科](https://zh.wikipedia.org/zh-cn/Beck) |
+| battle arena toshinden | 斗神传 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/闘神伝) |
+| battle royal high school | 真魔神传 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔人伝) |
+| beck | BECK |  | [维基百科](https://zh.wikipedia.org/zh-cn/BECK_%28漫画%29) |
 | beelzebub-jou no okinimesu mama. | 只要贝尔哲布布大小姐喜欢就好 |  | [维基百科](https://zh.wikipedia.org/zh-cn/只要別西卜大小姐喜歡就好) |
 | beet the vandel buster | 冒险王比特 |  | [维基百科](https://zh.wikipedia.org/zh-cn/冒險王比特) |
 | beetlejuice | 阴间大法师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/阴间大法师) |
-| bemubemu hunter kotengu tenmaru | べムべムハンター・こてんぐテン丸 |  | [EhWiki](https://ehwiki.org/wiki/bemubemu_hunter_kotengu_tenmaru) |
-| benten-sama ni wa iwanaide | 弁天様には言わないで |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/弁天様には言わないで) |
+| bemubemu hunter kotengu tenmaru | 伏魔小旋风 |  | [维基百科](https://zh.wikipedia.org/wiki/伏魔小旋风) |
 | bernard-jou iwaku. | 伯纳德小姐说 |  | [维基百科](https://zh.wikipedia.org/zh-cn/伯納德小姐說) |
-| beyond oasis | ストーリー オブ トア 〜光を継ぐ者〜 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ストーリー%20オブ%20トア%20〜光を継ぐ者〜) |
-| big wars | ビッグ・ウォーズ 神撃つ朱き荒野に |  | [EhWiki](https://ehwiki.org/wiki/big_wars) |
-| bikkuriman | ビックリマン |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ビックリマン) |
-| binchou-tan | 备长炭 (漫画) |  | [维基百科](https://zh.wikipedia.org/zh-cn/備長炭%20%28漫畫%29) |
-| binzume yousei | 瓶詰妖精 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/瓶詰妖精) |
+| beyond oasis | 托尔的传说 | Beyond Oasis，在欧洲和日本被称为托尔的传说，是由 Ancient 开发并由 Sega 为 Sega Genesis 发行的动作冒险游戏。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Beyond_Oasis) |
+| big wars | Big Wars |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Big_Wars) |
+| binchou-tan | 备长炭 |  | [维基百科](https://zh.wikipedia.org/zh-cn/備長炭%20%28漫畫%29) |
+| binzume yousei | 瓶诘妖精 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/瓶詰妖精) |
 | birdy the mighty | 铁腕女警 |  | [维基百科](https://zh.wikipedia.org/zh-cn/鐵腕女警) |
-| bishounen tanteidan | 美少年系列 |  | [维基百科](https://zh.wikipedia.org/zh-cn/美少年系列) |
+| bishounen tanteidan | 美少年侦探团 |  | [维基百科](https://zh.wikipedia.org/zh-cn/美少年系列) |
 | black butler | 黑执事 |  | [维基百科](https://zh.wikipedia.org/zh-cn/黑執事) |
-| black desert online | 黒い砂漠 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/黒い砂漠) |
+| black desert online | 黑色沙漠 |  | [维基百科](https://zh.wikipedia.org/wiki/黑色沙漠) |
 | black jack | 怪医黑杰克 |  | [维基百科](https://zh.wikipedia.org/zh-cn/怪醫黑傑克) |
-| black magic m-66 | ブラックマジック M-66 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブラックマジック%20M-66) |
+| black magic m-66 | 黑魔术玛丽奥M-66 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブラックマジック%20M-66) |
 | blade runner | 银翼杀手 |  | [维基百科](https://zh.wikipedia.org/zh-cn/银翼杀手) |
 | blast of tempest | 绝园的暴风雨 |  | [维基百科](https://zh.wikipedia.org/zh-cn/絕園的暴風雨) |
 | blood plus | 血战 |  | [维基百科](https://zh.wikipedia.org/zh-cn/血戰) |
-| blood royale | ブラッド ロイヤル |  | [EhWiki](https://ehwiki.org/wiki/blood_royale) |
+| blood royale | BLOOD ROYAL |  | [Bangumi](https://bgm.tv/subject/229244) |
 | blood-c | BLOOD-C |  | [维基百科](https://zh.wikipedia.org/zh-cn/BLOOD-C) |
 
 <!--TEMPLATE: 
