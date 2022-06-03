@@ -3708,6 +3708,7 @@ example:
 | indo curry | 印度カリー |  |  |
 | hirasawa zen | 平沢Zen |  |  |
 | shimuro itaru | 至室 |  |  |
+| mishiro shizuku | 水白しずく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
