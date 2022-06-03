@@ -3711,6 +3711,7 @@ example:
 | mishiro shizuku | 水白しずく |  |  |
 | gedou danshaku | 外道男爵 |  |  |
 | nero augustus | 尼禄奥古斯都 |  | [pixiv](https://www.pixiv.net/users/20216811) |
+| sarena | 百花星彩メメちゃん |  | [pixiv](https://www.pixiv.net/users/75736365/illustrations) |
 
 <!--TEMPLATE:
 |  |  |  |  |
