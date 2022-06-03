@@ -2279,6 +2279,7 @@ example:
 | bomubomuburin | ボムボムブリン |  |  |
 | nisiarea | にしえりあ |  |  |
 | mentsukidou | 眼ん月堂 |  |  |
+| izumo gingatei | 出雲銀河亭 | イズモギンガテイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
