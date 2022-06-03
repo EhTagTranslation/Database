@@ -3709,6 +3709,7 @@ example:
 | hirasawa zen | 平沢Zen |  |  |
 | shimuro itaru | 至室 |  |  |
 | mishiro shizuku | 水白しずく |  |  |
+| gedou danshaku | 外道男爵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
