@@ -1860,6 +1860,7 @@ example:
 | fantasy bishoujo juniku ojisan to | 与变成了异世界美少女的大叔一起冒险 |  | [维基百科](https://zh.wikipedia.org/zh-cn/與變成了異世界美少女的大叔一起冒險) |
 | trauma center | 超执刀 |  | [维基百科](https://zh.wikipedia.org/wiki/超執刀_神使之杖) |
 | alchemy stars | 白夜极光 | 《白夜极光》是一款由永航科技研发 、腾讯公司发行的一款二次元架空魔幻策略风的战棋手游，连线策略RPG+卡牌养成的创新玩法，全剧情live2D立绘演绎。<br>![](https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af33a87c4712365d15c1038534318d9) | [HP](https://www.alchemystars.com/) [official subreddit](https://www.reddit.com/r/AlchemyStarsEN/) |
+| genkai tokki monster monpiece | 限界凸骑 Monster Monpiece |  | [维基百科](https://en.wikipedia.org/wiki/Monster_Monpiece) [HP](https://www.compileheart.com/mon-mon/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
