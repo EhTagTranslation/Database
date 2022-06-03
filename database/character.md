@@ -3849,6 +3849,7 @@ example:
 | torte | 托蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/托蒂) |
 | nausicaa | 娜乌西卡 |  |  |
 | belle | 贝儿 | 出处：`beauty and the beast` |  |
+| shun sunohara | 春原瞬 | 春原シュン<br><br>出处：`p:blue archive` | [pixiv百科事典](https://dic.pixiv.net/a/春原シュン) [fandom](https://bluearchive.fandom.com/wiki/Sunohara_Shun) [https://www.bilibili.com/read/cv10262377](https://www.bilibili.com/read/cv10262377) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
