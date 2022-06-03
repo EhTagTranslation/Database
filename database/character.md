@@ -3848,6 +3848,7 @@ example:
 | liliya olenyeva | 莉莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/莉莉娅·阿琳) |
 | torte | 托蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/托蒂) |
 | nausicaa | 娜乌西卡 |  |  |
+| belle | 贝儿 | 出处：`beauty and the beast` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
