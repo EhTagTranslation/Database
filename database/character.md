@@ -3320,7 +3320,7 @@ example:
 | yorumi rena | 夜见蕾娜 | 夜见蕾娜 （日语：夜見れな / よるみ れなYorumi Rena）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/aa/e8/aae8282c4814aa963d19939bd9492ffd4bea91b8-182856-1000-1621-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/夜见蕾娜) |
 | yamagami karuta | 山神歌流多 | 山神歌流多 （ 日语：山神 カルタ / やまがみ かるたYagami karuta ）是一名从2019年10月17日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/03/38/0338182779b587cb15387122b6529d25cb466de7-624224-1000-562-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/山神歌流多) |
 | asuka hina | 飞鸟雏 | 飞鸟雏 （日语：飛鳥ひな / あすかひなAsuka Hina）是一名从2018年8月22日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身。<br>![](# "https://ehgt.org/dd/71/dd719522bdc1b5d86da98bc177283a42743cf84e-576116-1000-561-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/飞鸟雏) |
-| hina sorasaki | 空崎ヒナ |  |  |
+| hina sorasaki | 空崎日奈 | 出处：`p:blue archive`<br>![](https://lain.bgm.tv/pic/crt/l/26/ba/104645_crt_AZ92f.jpg) | [https://www.bilibili.com/read/cv9986778/](https://www.bilibili.com/read/cv9986778/) [fandom](https://bluearchive.fandom.com/wiki/Sorasaki_Hina) |
 | rimuru tempest | 利姆鲁·特恩佩斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/利姆鲁·特恩佩斯特) |
 | milim nava | 米莉姆·纳瓦 |  | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
 | kotoko iwanaga | 岩永琴子 |  |  |
