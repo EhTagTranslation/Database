@@ -2281,6 +2281,7 @@ example:
 | mentsukidou | 眼ん月堂 |  |  |
 | izumo gingatei | 出雲銀河亭 | イズモギンガテイ |  |
 | gedoudan | 外道团 |  |  |
+| garyuh-chitai | 我流痴带 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
