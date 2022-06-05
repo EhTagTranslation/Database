@@ -1196,7 +1196,6 @@ example:
 | elsword | 艾尔之光 | 《艾尔之光》（韩语：엘소드，英语：Elsword）是韩国游戏公司KOG Studios研发的一款奇幻历险大型多人在线角色扮演游戏，主打赛璐璐风格横向卷轴的动作游戏，同时也是《永恒冒险》的重制版及姊妹作。 | [维基百科](https://zh.wikipedia.org/zh-cn/艾爾之光) (\*) |
 | betterman | 进化战记 | 《进化战记》（ベターマン，BETTERMAN）是1999年4月1日至9月30日期间由东京电视台系列播放的电视动画作品，共26话。 | [维基百科](https://zh.wikipedia.org/zh-cn/进化战记) (\*) |
 | tenshi ni narumon | 天使不设防！ | 《天使不设防！》（天使になるもんっ!）是日本电视动画，于1999年播出共26话，监督为锦织博。漫画全2集，原作为HEAVEN PROJECT，漫画由大野哲也所作，角川书店1999年出版。 | [维基百科](https://zh.wikipedia.org/zh-cn/天使不設防！) (\*) |
-| makai tenshi jibril | 魔界天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
 | kamen no maid guy | 假面男仆 | 《假面男仆》是赤衣丸步郎的漫画作品。自2004年在富士见书房《月刊Dragon Age》上连载以来，系列累积销售突破110万本。台湾是由长鸿出版社代理发售繁体中文版。2008年4月5日开始播放电视动画共12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/假面男僕) (\*) |
 | etrian odyssey | 世界树的迷宫 | 《世界树的迷宫》是ATLUS将于2007年1月18日发售的NDS用3D迷宫RPG游戏。此次公开的情报是介绍能让玩家用自己的手来绘制地图的制图系统。NDS便利的机能使得通过制图系统绘制出来的迷宫充满乐趣及挑战！ |  |
 | in search of the lost future | 寻找失去的未来 | 《寻找失去的未来》（日语原名：失われた未来を求めて，简称：われめて，法语：À la recherche du futur perdu）是由日本游戏公司TRUMPLE于2010年11月26日发售的Windows用十八禁恋爱冒险游戏。标题来自法国作家马塞尔·普鲁斯特的作品《追忆似水年华》。本作改编的2部漫画各连载于《月刊Comp Ace》和《月刊Comic Alive》上。由细田直人担任导演的电视动画于2014年10月4日起在AT-X、TOKYO MX等日本电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/尋找失去的未來) (\*) |
@@ -1746,6 +1745,7 @@ example:
 | aoi umi no tristia | 发明工坊 |  | [维基百科](https://zh.wikipedia.org/zh-cn/發明工坊) |
 | ape escape | 捉猴啦 |  | [维基百科](https://zh.wikipedia.org/zh-cn/捉猴啦) |
 | ar nosurge | Ar nosurge ～献给诞生之星的祈祷诗～ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アルノサージュ〜生まれいずる星へ祈る詩〜) |
+| ciel nosurge | 静籁之空 ～献给失落之星的诗～ |  | [维基百科](https://zh.wikipedia.org/wiki/靜籟之空_～獻給失落之星的詩～) |
 | ar tonelico | 魔塔大陆 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔塔大陸系列) |
 | ar tonelico qoga | 魔塔大陆3 |  | [维基百科](https://zh.wikipedia.org/zh-cn/魔塔大陸3%20終結世界的少女詩歌) |
 | araiguma rascal | 小浣熊 |  | [维基百科](https://zh.wikipedia.org/zh-cn/浣熊拉斯卡爾) |
@@ -1857,10 +1857,86 @@ example:
 | can can bunny | Can Can Bunny |  | [维基百科](https://zh.wikipedia.org/zh-cn/Can%20Can%20Bunny) |
 | carole and tuesday | 卡罗尔与星期二 |  | [维基百科](https://zh.wikipedia.org/zh-cn/卡罗尔与星期二) |
 | casshan | 再造人卡辛 |  | [维基百科](https://zh.wikipedia.org/zh-cn/再造人卡辛) |
+| casshern sins | 卡辛~罪~ |  | [维基百科](https://zh.wikipedia.org/wiki/再造人卡辛#新動畫版) |
 | fantasy bishoujo juniku ojisan to | 与变成了异世界美少女的大叔一起冒险 |  | [维基百科](https://zh.wikipedia.org/zh-cn/與變成了異世界美少女的大叔一起冒險) |
 | trauma center | 超执刀 |  | [维基百科](https://zh.wikipedia.org/wiki/超執刀_神使之杖) |
 | alchemy stars | 白夜极光 | 《白夜极光》是一款由永航科技研发 、腾讯公司发行的一款二次元架空魔幻策略风的战棋手游，连线策略RPG+卡牌养成的创新玩法，全剧情live2D立绘演绎。<br>![](https://bkimg.cdn.bcebos.com/pic/37d3d539b6003af33a87c4712365d15c1038534318d9) | [HP](https://www.alchemystars.com/) [official subreddit](https://www.reddit.com/r/AlchemyStarsEN/) |
 | genkai tokki monster monpiece | 限界凸骑 Monster Monpiece |  | [维基百科](https://en.wikipedia.org/wiki/Monster_Monpiece) [HP](https://www.compileheart.com/mon-mon/) |
+| castlevania | 恶魔城 |  | [维基百科](https://zh.wikipedia.org/zh-cn/惡魔城%20%28遊戲%29) |
+| casual romance club | 放学后恋爱俱乐部 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/放課後恋愛クラブ%20-恋のエチュード-) |
+| chalkzone | 粉笔世界 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/ChalkZone) |
+| chaos breaker | 混沌斩断 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/カオスブレイカー) |
+| chaos child | 混沌之子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/混沌之子) |
+| chaos head | CHAOS;HEAD |  | [维基百科](https://zh.wikipedia.org/zh-cn/CHAOS%3BHEAD) |
+| cheer danshi | 男子啦啦队！！ |  | [维基百科](https://zh.wikipedia.org/zh-cn/男子啦啦隊！！) |
+| chibi maruko-chan | 樱桃小丸子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/櫻桃小丸子) |
+| chibi vampire | 增血鬼果林 |  | [维基百科](https://zh.wikipedia.org/zh-cn/增血鬼果林) |
+| chichi chichi | 乳乳乳乳 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/チチチチ) |
+| chikyu misaki | 地球美纱树 |  |  |
+| childs play | 鬼娃回魂 |  | [维基百科](https://zh.wikipedia.org/zh-cn/靈異入侵) |
+| chio-chan no tsuugakuro | 千绪的通学路 |  | [维基百科](https://zh.wikipedia.org/zh-cn/千緒的通學路) |
+| chip n dale rescue rangers | 救援突击队 |  | [维基百科](https://zh.wikipedia.org/zh-cn/救難小福星) |
+| cho aniki | 超兄贵 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/超兄貴) |
+| chogattai majutsu robot ginguiser | 超合体魔术机器人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/超合体魔术机器人) |
+| chokotto sister | 我的裘可妹妹 |  | [维基百科](https://zh.wikipedia.org/zh-cn/我的裘可妹妹) |
+| chou dokyuu shoujo 4946 | 超弩级少女4946 |  | [维基百科](https://zh.wikipedia.org/zh-cn/超弩级少女4946) |
+| chou kuse ni narisou | 城市小飞女 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/超くせになりそう) |
+| choudenshi bioman | 超电子生化人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/超電子生化人) |
+| chouja raideen | 超者雷登 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/超者ライディーン) |
+| choujikuu kidan southern cross | 超时空骑团 |  | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙再生人) |
+| choujuu kishin dancougar | 超兽机神 |  | [维基百科](https://zh.wikipedia.org/zh-cn/超獸機神) |
+| choukou shinki ixseal | 超昂神骑爱克希尔 |  | [维基百科](https://zh.wikipedia.org/zh-cn/超昂神騎愛克希爾) |
+| chrono cross | 穿越时空 |  | [维基百科](https://zh.wikipedia.org/zh-cn/穿越时空) |
+| chrono trigger | 时空之轮 |  | [维基百科](https://zh.wikipedia.org/zh-cn/时空之轮) |
+| chu-bra | 青春CUP |  | [维基百科](https://zh.wikipedia.org/zh-cn/青春CUP) |
+| chuuka ichiban | 中华一番！ |  | [维基百科](https://zh.wikipedia.org/zh-cn/中華一番！) |
+| class of heroes | 剑与魔法与学园 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/剣と魔法と学園モノ。) |
+| clock tower | 钟楼惊魂 |  | [维基百科](https://zh.wikipedia.org/zh-cn/鐘樓驚魂) |
+| clover point | Clover Point |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Clover%20Point) |
+| cocoro restarter | 心灵重启！ |  |  |
+| code realize sousei no himegimi | Code:Realize ～创世的姬君～ |  | [维基百科](https://zh.wikipedia.org/zh-cn/Code:Realize_～創世的公主～) |
+| codename kids next door | 小孩大联盟 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小孩大聯盟) |
+| combat mecha xabungle | 战斗装甲Xabungle |  | [维基百科](https://zh.wikipedia.org/zh-cn/戰鬥裝甲Xabungle) |
+| combattler v | 超力电磁侠 孔巴特拉V |  | [维基百科](https://zh.wikipedia.org/zh-cn/超力電磁俠) |
+| conan the barbarian | 蛮王柯南 |  | [维基百科](https://zh.wikipedia.org/zh-cn/蛮王柯南) |
+| concon-collector | Concon-Collector |  |  |
+| conker | 松鼠库克倒霉的一天 |  | [维基百科](https://zh.wikipedia.org/wiki/松鼠库克倒霉的一天) |
+| cooking idol ai mai main | 料理偶像 |  | [维基百科](https://zh.wikipedia.org/wiki/料理偶像) |
+| corruption of champions | 英雄的堕落 |  |  |
+| crash b-daman | 爆球Hit！轰烈弹珠人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/爆球Hit！轟烈彈珠人) |
+| crash bandicoot | 古惑狼 |  | [维基百科](https://zh.wikipedia.org/zh-cn/古惑狼系列) |
+| cross game | 幸运四叶草 |  | [维基百科](https://zh.wikipedia.org/zh-cn/四葉遊戲) |
+| crush gear nitro | 新超激力战斗车 |  | [维基百科](https://zh.wikipedia.org/zh-cn/新超激力戰鬥車) |
+| crypt killer | 妖霸天下 |  |  |
+| cyberbots | 装甲战士 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/サイバーボッツ) |
+| cyberpunk | 赛博朋克 |  | [维基百科](https://zh.wikipedia.org/zh-cn/赛博朋克) |
+| d.gray-man | 驱魔少年 |  | [维基百科](https://zh.wikipedia.org/zh-cn/驅魔少年) |
+| d.n.angel | 天使怪盗 |  | [维基百科](https://zh.wikipedia.org/zh-cn/天使怪盜) |
+| d.p.s. | D.P.S. | `g:alicesoft` D.P.S.系列 |  |
+| daa daa daa | Da!Da!Da! |  | [维基百科](https://zh.wikipedia.org/zh-cn/Da!Da!Da!) |
+| daiakuji | 大恶司 |  | [维基百科](https://zh.wikipedia.org/zh-cn/大惡司) |
+| daibanchou -big bang age- | 大番长 -Big Bang Age- |  |  |
+| daicon | DAICON |  | [维基百科](https://zh.wikipedia.org/zh-cn/DAICON_III_%26_IV_OPENING_ANIMATION) |
+| daisenryaku | 大战略 |  | [维基百科](https://zh.wikipedia.org/zh-cn/大战略) |
+| daphne in the brilliant blue | 光与水的女神 |  | [维基百科](https://zh.wikipedia.org/zh-cn/光与水的女神) |
+| dark chronicle | 暗云编年史 |  | [维基百科](https://zh.wikipedia.org/zh-cn/暗云编年史) |
+| dark water | Dark Water |  |  |
+| darker than black | DARKER THAN BLACK |  | [维基百科](https://zh.wikipedia.org/zh-cn/DARKER%20THAN%20BLACK) |
+| darkwing duck | 狡猾飞天德 |  | [维基百科](https://zh.wikipedia.org/wiki/狡猾飛天德) |
+| dave the barbarian | 野蛮人戴夫 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バーバリアン・デイブ) |
+| day break illusion | 穿透幻影的太阳 |  | [维基百科](https://zh.wikipedia.org/zh-cn/穿透幻影的太阳) |
+| dead end | Dead End | ジ・エンド | [维基百科（日语）](https://ja.wikipedia.org/wiki/真鍋昌平) [维基百科（英语）](https://en.wikipedia.org/wiki/Dead_End_%28manga%29) |
+| dead rising | 丧尸围城 |  | [维基百科](https://zh.wikipedia.org/zh-cn/死亡復甦) |
+| deadman wonderland | 死囚乐园 |  | [维基百科](https://zh.wikipedia.org/zh-cn/死囚樂園) |
+| deception | 刻命馆 |  | [维基百科](https://zh.wikipedia.org/wiki/刻命馆) |
+| defense devil | 防御魔鬼 |  |  |
+| demento | 狂城丽影 |  | [维基百科](https://zh.wikipedia.org/zh-cn/狂氣古城) |
+| demonbane | 斩魔大圣DEMONBANE |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/斬魔大聖デモンベイン) |
+| dennou boukenki webdiver | 电脑冒险记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/電腦冒險記) |
+| makai tenshi jibril | 魔界天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
+| dennou tenshi djibril | 电脑天使吉普莉露 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/魔界天使ジブリール) |
+| denpa teki na kanojo | 电波系彼女 |  | [维基百科](https://zh.wikipedia.org/zh-cn/電波系彼女) |
+| detective school q | 侦探学园Q |  | [维基百科](https://zh.wikipedia.org/zh-cn/侦探学园Q) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
