@@ -3855,6 +3855,7 @@ example:
 | tensai ikkyuu | 一级天灾 |  |  |
 | daruku hoshino | 星野达鲁克 |  |  |
 | nanana ryuugajou | 龙娘七七七 |  |  |
+| nanami arihara | 在原七海 | 所属作品：`riddle joker`<br>![图](https://ehgt.org/0d/4f/0d4f6450f1803cf1317824d626da19efb0d5c20f-16458-250-300-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/在原七海) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
