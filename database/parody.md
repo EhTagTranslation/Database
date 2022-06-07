@@ -1938,6 +1938,7 @@ example:
 | denpa teki na kanojo | 电波系彼女 |  | [维基百科](https://zh.wikipedia.org/zh-cn/電波系彼女) |
 | detective school q | 侦探学园Q |  | [维基百科](https://zh.wikipedia.org/zh-cn/侦探学园Q) |
 | the idolmaster sidem | 偶像大師SideM | `the idolmaster sidem`是MOBAGE上运营的一款一般向手机社交游戏，也是偶像大师系列第一款以培养男性偶像为主题的游戏。虽然主要目标受众是女性，并不是女性向作品。设计游戏内容时虽然会考虑不同性别玩家的游戏习惯，大前提是把玩家都作为制作人来考虑。 | [萌娘百科](https://zh.moegirl.org.cn/偶像大师_SideM) [维基百科](https://zh.wikipedia.org/wiki/偶像大師SideM) |
+| ryuugajou nanana no maizoukin | 龙娘七七七埋藏的宝藏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
