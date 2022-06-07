@@ -3854,6 +3854,7 @@ example:
 | mostima | 莫斯提马 | 明日方舟角色 |  |
 | tensai ikkyuu | 一级天灾 |  |  |
 | daruku hoshino | 星野达鲁克 |  |  |
+| nanana ryuugajou | 龙娘七七七 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
