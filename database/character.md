@@ -3853,6 +3853,7 @@ example:
 | surtr | 史尔特尔 | 明日方舟角色 |  |
 | mostima | 莫斯提马 | 明日方舟角色 |  |
 | tensai ikkyuu | 一级天灾 |  |  |
+| daruku hoshino | 星野达鲁克 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
