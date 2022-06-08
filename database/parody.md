@@ -516,7 +516,7 @@ example:
 | hell teacher nube | 地狱老师 |  |  |
 | hitsugi no chaika | 棺姬嘉依卡 |  |  |
 | kishin douji zenki | 鬼神童子 |  |  |
-| muv-luv | Muv-Luv |  |  |
+| muv-luv | Muv-Luv | 《Muv-Luv》（日语：マブラヴ），是由日本游戏公司âge推出的18禁电脑冒险游戏。<br><br>关联标签：`p:muv-luv alternative total eclipse` | [萌娘百科](https://zh.moegirl.org.cn/Muv-Luv系列) |
 | muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse |  |  |
 | dangaioh | 破邪大星弹劾皇 |  |  |
 | 3x3 eyes | 三只眼 |  |  |
