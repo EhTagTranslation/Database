@@ -3856,6 +3856,7 @@ example:
 | daruku hoshino | 星野达鲁克 |  |  |
 | nanana ryuugajou | 龙娘七七七 |  |  |
 | nanami arihara | 在原七海 | 所属作品：`riddle joker`<br>![图](https://ehgt.org/0d/4f/0d4f6450f1803cf1317824d626da19efb0d5c20f-16458-250-300-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/在原七海) |
+| mai kawasumi | 川澄舞 | 所属作品：`p:kanon`<br>![图](https://ehgt.org/64/56/64566838dca0404b27f807916369ac353d0964b2-372444-1600-1000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/川澄舞) [fandom](https://kanon.fandom.com/wiki/Mai_Kawasumi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
