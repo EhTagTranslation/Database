@@ -3713,6 +3713,7 @@ example:
 | nero augustus | 尼禄奥古斯都 |  | [pixiv](https://www.pixiv.net/users/20216811) |
 | sarena | 百花星彩メメちゃん |  | [pixiv](https://www.pixiv.net/users/75736365/illustrations) |
 | makari tohru | 魔狩十织 |  |  |
+| mizoguchi keiji | 沟口凯吉 | 代表作：`sakurasou no pet na kanojo` `p:seishun buta yarou wa bunny girl senpai no yume o minai` | [维基百科](https://zh.wikipedia.org/zh/溝口凱吉) |
 
 <!--TEMPLATE:
 |  |  |  |  |
