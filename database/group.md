@@ -2282,6 +2282,7 @@ example:
 | izumo gingatei | 出雲銀河亭 | イズモギンガテイ |  |
 | gedoudan | 外道团 |  |  |
 | garyuh-chitai | 我流痴带 |  |  |
+| tsf mousou chikusekijo | TSF妄想蓄积所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
