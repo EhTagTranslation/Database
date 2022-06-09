@@ -3857,6 +3857,7 @@ example:
 | nanana ryuugajou | 龙娘七七七 |  |  |
 | nanami arihara | 在原七海 | 所属作品：`riddle joker`<br>![图](https://ehgt.org/0d/4f/0d4f6450f1803cf1317824d626da19efb0d5c20f-16458-250-300-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/在原七海) |
 | mai kawasumi | 川澄舞 | 所属作品：`p:kanon`<br>![图](https://ehgt.org/64/56/64566838dca0404b27f807916369ac353d0964b2-372444-1600-1000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/川澄舞) [fandom](https://kanon.fandom.com/wiki/Mai_Kawasumi) |
+| yelan | 夜兰 | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/1/18/Character_Yelan_Card.jpg/revision/latest/scale-to-width-down/281?cb=20220328100652) | [fandom](https://genshin-impact.fandom.com/wiki/Yelan) [萌娘百科](https://zh.moegirl.org.cn/夜兰) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
