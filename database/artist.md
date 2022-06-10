@@ -3721,6 +3721,7 @@ example:
 | katakura mikki | 片倉みっき |  |  |
 | chichan54 | ちーちゃん54 |  |  |
 | midori niku | 绿肉 |  |  |
+| oko yomiko | 小神よみ子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
