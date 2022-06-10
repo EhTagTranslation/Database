@@ -50,7 +50,7 @@ example:
 | aqua area | 水淼Aqua |  | [Twitter](https://twitter.com/aqua28551264) |
 | erzuo nisa | 二佐nisa |  | [Twitter](https://twitter.com/erzuoxxxx) [微博](https://weibo.com/u/6475305895) [bilibili](https://space.bilibili.com/1484200020/) |
 | sola | Sola | Sola酱也要成为双马尾 | [微博](https://weibo.com/u/5574472907) [Twitter](https://mobile.twitter.com/solaco66) |
-| tsuki desu | Tsuki Desu \| Dosya Gasai |  | [Twitter](https://twitter.com/tsuki_des) |
+| tsuki desu | Tsuki Desu |  | [Twitter](https://twitter.com/tsuki_des) |
 | kokura chiyo | 小倉ちよ | 常称为小仓千代w，[Twitter](https://twitter.com/yummhiyo_w) 是高仿号。 | [Twitter](https://twitter.com/yummychiyo) |
 | g44 wa kizutsukanai | G44不会受伤 |  | [微博](https://weibo.com/u/2727362643) |
 | okita rinka | 冲田凛花 |  | [Twitter](https://twitter.com/okitarinka01) |
