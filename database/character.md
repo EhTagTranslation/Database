@@ -3862,6 +3862,7 @@ example:
 | mana inuyama | 犬山真名 | 所属作品 `p:gegege no kitarou`<br>![图](https://ehgt.org/3d/f9/3df99a587b6ca07508581a39287a94689356dfaf-29336-478-860-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/犬山真名) [fandom](https://gegegenokitaro.fandom.com/wiki/Mana_Inuyama) |
 | megumi | 惠美 | 惠美（日语：メグミ），也译惠，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/惠美%28少女与战车%29#) |
 | rumi | 留美 | 留美（日语：ルミ），也译琉美，瑠美，瑠海，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/留美%28少女与战车%29) |
+| mare s. ephemeral | 梅娅·S·艾菲梅拉尔 | 梅娅·S·艾菲梅拉尔是Favorite制作的R18恋爱文字冒险类游戏《`p:hoshizora no memoria`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/梅娅·S·艾菲梅拉尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
