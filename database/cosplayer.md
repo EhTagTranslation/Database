@@ -57,6 +57,7 @@ example:
 | nekokoyoshi | 爆机少女喵小吉 |  | [Twitter](https://mobile.twitter.com/nekokoyoshi_) |
 | akemi101xoxo | Akemi101xoxo |  |  |
 | hoshilily | 星之迟迟 |  |  |
+| yurikodxd | YurikoDxD |  |  |
 
 <!--
 Template: 
