@@ -1923,7 +1923,7 @@ example:
 | 110-groove | 110-GROOVE |  |  |
 | yuuki kagoubutsu | 有機化合物 |  | [官方网站](http://yuuki.kagou.main.jp) [THBWiki](https://thwiki.cc/有機化合物) |
 | a gokuburi | A極振り |  |  |
-| nori5rou | のり伍郎 |  |  |
+| nori gorou | のり伍郎 |  |  |
 | sendouya | 千堂屋 |  |  |
 | kokusan jk | 国产JK | 国産JK |  |
 | istanbul high sox | イスタンブール・ハイソックス |  |  |
