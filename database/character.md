@@ -3860,6 +3860,7 @@ example:
 | yelan | 夜兰 | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/1/18/Character_Yelan_Card.jpg/revision/latest/scale-to-width-down/281?cb=20220328100652) | [fandom](https://genshin-impact.fandom.com/wiki/Yelan) [萌娘百科](https://zh.moegirl.org.cn/夜兰) |
 | baki hanma | 范马刃牙 | 所属作品 `grappler baki` | [fandom](https://baki.fandom.com/wiki/Baki_Hanma) |
 | mana inuyama | 犬山真名 | 所属作品 `p:gegege no kitarou`<br>![图](https://ehgt.org/3d/f9/3df99a587b6ca07508581a39287a94689356dfaf-29336-478-860-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/犬山真名) [fandom](https://gegegenokitaro.fandom.com/wiki/Mana_Inuyama) |
+| megumi | 惠美 | 惠美（日语：メグミ），也译惠，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/惠美%28少女与战车%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
