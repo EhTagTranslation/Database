@@ -1530,7 +1530,7 @@ example:
 |  | 细见 |  |  |
 | arisu shimada | 岛田爱里寿 | ![图](https://ehgt.org/f1/2f/f12f286b597484c2b4f03924090cac94dbf48db8-313075-1265-1817-jpg_l.jpg)![图](# "https://ehgt.org/0b/2e/0b2edc8ff36c176eb003e7372fcbaa185a3f8ef2-8640001-2132-3000-png_l.jpg") |  |
 |  | 惠 |  |  |
-| azumi | 安昙 |  |  |
+| azumi | 杏美 | 杏美（日语：アズミ），也译安昙，安住，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/杏美%28少女与战车%29#) |
 |  | 留美 |  |  |
 |  | 鹤姬静 |  |  |
 |  | 松风铃 |  |  |
