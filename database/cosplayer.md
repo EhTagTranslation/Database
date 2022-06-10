@@ -58,6 +58,7 @@ example:
 | akemi101xoxo | Akemi101xoxo |  |  |
 | hoshilily | 星之迟迟 |  |  |
 | yurikodxd | YurikoDxD |  |  |
+| yuuforia | Yuuforia |  |  |
 
 <!--
 Template: 
