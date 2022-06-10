@@ -3720,6 +3720,7 @@ example:
 | b-river | B-RIVER |  |  |
 | katakura mikki | 片倉みっき |  |  |
 | chichan54 | ちーちゃん54 |  |  |
+| midori niku | 绿肉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
