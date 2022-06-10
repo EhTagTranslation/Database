@@ -2287,6 +2287,7 @@ example:
 | h.b | H・B |  |  |
 | star track | ★track |  |  |
 | o.s | O.S |  |  |
+| wakame no oyatsu | Wakame no Oyatsu |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
