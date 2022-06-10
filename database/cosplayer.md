@@ -55,6 +55,7 @@ example:
 | g44 wa kizutsukanai | G44不会受伤 |  | [微博](https://weibo.com/u/2727362643) |
 | okita rinka | 冲田凛花 |  | [Twitter](https://twitter.com/okitarinka01) |
 | nekokoyoshi | 爆机少女喵小吉 |  | [Twitter](https://mobile.twitter.com/nekokoyoshi_) |
+| akemi101xoxo | Akemi101xoxo |  |  |
 
 <!--
 Template: 
