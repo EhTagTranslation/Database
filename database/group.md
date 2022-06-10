@@ -2286,6 +2286,7 @@ example:
 | ntype | NtyPe | `a:mizoguchi keiji`从事同人活动的别名。 |  |
 | h.b | H・B |  |  |
 | star track | ★track |  |  |
+| o.s | O.S |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
