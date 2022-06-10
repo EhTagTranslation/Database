@@ -2284,6 +2284,7 @@ example:
 | garyuh-chitai | 我流痴带 |  |  |
 | tsf mousou chikusekijo | TSF妄想蓄积所 |  |  |
 | ntype | NtyPe | `a:mizoguchi keiji`从事同人活动的别名。 |  |
+| h.b | H・B |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
