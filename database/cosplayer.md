@@ -59,6 +59,7 @@ example:
 | hoshilily | 星之迟迟 |  |  |
 | yurikodxd | YurikoDxD |  |  |
 | yuuforia | Yuuforia |  |  |
+| lovelyspacekitten | LovelySpaceKitten |  |  |
 
 <!--
 Template: 
