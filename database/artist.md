@@ -3717,6 +3717,7 @@ example:
 | bing gong asylum | 冰宫Asylum |  | [pixiv](https://www.pixiv.net/users/20569497) [Twitter](https://twitter.com/BGAsylum) |
 | mikimoto haruhiko | 美树本晴彦 |  | [维基百科](https://zh.wikipedia.org/zh/美樹本晴彥) |
 | asakura ryosuke | 朝仓亮介 | 代表作<br>战×恋<br>魔法的禁书目录：恩底弥翁的奇迹 | [Twitter](https://twitter.com/asakura681) [pixiv](https://www.pixiv.net/users/11115999) |
+| b-river | B-RIVER |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
