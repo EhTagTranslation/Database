@@ -556,7 +556,7 @@ example:
 | arcana heart | 圣灵之心 |  |  |
 | heroman | HEROMAN |  |  |
 | anyamaru tantei kiruminzoo | 动物侦探奇鲁米 |  |  |
-| kyoukai senjou no horizon | 境界线上的地平线 |  |  |
+| kyoukai senjou no horizon | 境界线上的地平线 | 《境界线上的地平线》（境界線上のホライゾン、Horizon on the Middle of Nowhere）是由川上稔创作的日本的轻小说由电击文库（ASCII·MediaWorks）出版发行。现有动画、漫画、游戏等衍生作品。<br>![图](https://ehgt.org/60/6d/606d7b37976c84ddbb735c6c7913ccac59745083-251201-800-1129-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/境界线上的地平线) [维基百科](https://zh.wikipedia.org/zh/境界線上的地平線) |
 | rwby | RWBY |  |  |
 | lupin iii | 鲁邦三世 |  |  |
 | ensemble stars | 偶像梦幻祭 |  |  |
