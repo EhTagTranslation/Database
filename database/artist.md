@@ -12052,6 +12052,7 @@ example:
 | takamiya hairi | たかみやはいり |  |  |
 | tinmeshi | 珍飯 |  |  |
 | utatane | うたたね |  |  |
+| tomodachi | Tomodachi |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
