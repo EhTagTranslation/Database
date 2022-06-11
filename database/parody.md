@@ -1941,6 +1941,7 @@ example:
 | ryuugajou nanana no maizoukin | 龙娘七七七埋藏的宝藏 |  |  |
 | grandia | 冒險奇譚 |  |  |
 | grappler baki | 刃牙 | 刃牙系列为日本漫画家板垣恵介创作的经典格斗漫画。 | [fandom](https://baki.fandom.com/wiki/Baki_Wiki) [维基百科](https://zh.wikipedia.org/zh/刃牙) [萌娘百科](https://zh.moegirl.org.cn/刃牙) |
+| mayonaka no tantei nightwalker | 真夜中的侦探 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
