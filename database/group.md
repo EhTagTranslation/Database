@@ -5317,7 +5317,7 @@ example:
 | gyutto dakishimetai | ギュっと抱きしめ隊 |  |  |
 | gyuunyuuya | 牛乳屋 |  |  |
 | gyuutou chikujinkai | 牛頭畜人会 |  |  |
-| h and k | H&amp;K |  |  |
+| h and k | H&K |  |  |
 | h na hon. ya san. | Hなほん。やさん。 |  |  |
 | h plus | H+ |  |  |
 | h senshokutai | H染色体 |  |  |
@@ -5573,7 +5573,7 @@ example:
 | heartfolio | Heartfolio |  |  |
 | heartless k | ココロナシK |  |  |
 | hearts | Hearts |  |  |
-| hearts and crusts | HEARTS &amp; CRUSTS |  |  |
+| hearts and crusts | HEARTS & CRUSTS |  |  |
 | hearts nest | Heart's Nest |  |  |
 | heat-soft | HEAT-SOFT |  |  |
 | heaven star | ヘヴンスター |  |  |
@@ -9599,7 +9599,7 @@ example:
 | ptd | PTD |  |  |
 | ptislands | ptislands |  |  |
 | public planet | ぱぶりっくぷらねっと |  |  |
-| pucchies | ぷっち\~ず |  |  |
+| pucchies | ぷっち~ず |  |  |
 | pucchu | ぷっちゅ |  |  |
 | puchi momo club | ぷちもも倶楽部 |  |  |
 | puchi parfait | ぷちぱるふぇ |  |  |
@@ -10835,7 +10835,7 @@ example:
 | sprinkler of calpis | Sprinkler of かるぴす |  |  |
 | sprout | SPROUT |  |  |
 | spt | SPT |  |  |
-| spunk! | pierre yoshio |  |  |
+|  | pierre yoshio |  |  |
 | sputnik | すぷーとにく |  |  |
 | spy | SPY |  |  |
 | squall | Squall |  |  |
@@ -12540,7 +12540,6 @@ example:
 | z-less | Z-Less |  |  |
 | z-s-e | z-s-e |  |  |
 | z-tabukuroneko house | Zた袋猫はうす |  |  |
-| Z-VECTOR | Z-VECTOR |  |  |
 | zabuton makura | ざぶとんまくら |  |  |
 | zaclock | ZacLock |  |  |
 | zahhatorute | ざっはとるて |  |  |
