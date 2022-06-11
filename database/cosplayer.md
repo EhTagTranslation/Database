@@ -60,6 +60,7 @@ example:
 | yurikodxd | YurikoDxD |  |  |
 | yuuforia | Yuuforia |  |  |
 | lovelyspacekitten | LovelySpaceKitten |  |  |
+| uyuy | UyUy |  |  |
 
 <!--
 Template: 

@@ -3723,6 +3723,7 @@ example:
 | midori niku | 绿肉 |  |  |
 | oko yomiko | 小神よみ子 |  |  |
 | umemotsuzou | 梅モツ蔵 |  |  |
+| nori gorou | のり伍郎 |  |  |
 | 2 | 2 |  |  |
 | 7 | 7 |  |  |
 | 8 | 8 |  |  |

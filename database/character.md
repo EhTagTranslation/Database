@@ -3407,9 +3407,9 @@ example:
 | mineko kazama | 风间峰子 |  |  |
 | south dakota | 南达科他 |  |  |
 | mona megistus | 莫娜·梅姬斯图斯 | 阿斯托洛吉斯·莫娜·梅姬斯图斯是《`genshin impact`》及其衍生作品的登场角色，神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。 | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
-| aether | 空 | 《原神》及其衍生作品的登场角色。可作为玩家的代入角色。 | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
+| aether | 空 | 《`genshin impact`》及其衍生作品的登场角色。可作为玩家的代入角色。 | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | 《原神》及其衍生作品的登场角色，自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。 | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
-| eula lawrence | 优菈·劳伦斯 | 《原神》及其衍生作品的登场角色，西风骑士团「游击小队」队长与声名显赫的「浪花骑士」，同时也是旧贵族劳伦斯家族的后裔。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
+| eula lawrence | 优菈·劳伦斯 | 《`genshin impact`》及其衍生作品的登场角色，西风骑士团「游击小队」队长与声名显赫的「浪花骑士」，同时也是旧贵族劳伦斯家族的后裔。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
 | barbara pegg | 芭芭拉 | 所属作品：`p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg/revision/latest/scale-to-width-down/281?cb=20201024042228) | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) [fandom](https://genshin-impact.fandom.com/wiki/Barbara) |
 | chongyun | 重云 |  |  |
 | xingqiu | 行秋 |  |  |
@@ -3417,7 +3417,7 @@ example:
 | noelle | 诺艾尔 | 《原神》及其衍生作品的登场角色，以女仆的身份在骑士团里工作，努力学习着骑士的言行礼仪。 | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
 | sucrose | 砂糖 | 《`genshin impact`》及其衍生作品的登场角色，炼金术天才阿贝多的助手。 | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
 | diona | 迪奥娜 | 《原神》及其衍生作品的登场角色，出身于清泉镇的猫耳猫尾少女，「猫尾酒馆」的超人气调酒师。 | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
-| rosaria | 罗莎莉亚 | 《原神》及其衍生作品的登场角色，蒙德城西风教会下属的一名修女。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
+| rosaria | 罗莎莉亚 | 《`genshin impact`》及其衍生作品的登场角色，蒙德城西风教会下属的一名修女。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
 | klee | 可莉 | 《原神》及其衍生作品的登场角色，西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。 | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 |  |  |
 | venti | 温迪 |  |  |
@@ -3635,7 +3635,7 @@ example:
 | eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
 | shouko komi | 古见硝子 |  |  |
 | hitohito tadano | 只野仁人 |  |  |
-| itto arataki | 荒泷一斗 | ![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp)<br>荒泷一斗是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
+| itto arataki | 荒泷一斗 | ![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp)<br>荒泷一斗是由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
 | princess zelda | 塞尔达公主 | 不是林克 | [维基百科](https://zh.wikipedia.org/zh-cn/塞尔达公主) |
 | ren hazuki | 叶月恋 |  |  |
 | sumire heanna | 平安名堇 |  |  |
@@ -3646,7 +3646,7 @@ example:
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
 | sakura yae | 八重樱 |  |  |
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
-| sara kujou | 九条裟罗 | 由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
+| sara kujou | 九条裟罗 | 由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《赛马娘 Pretty Derby》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/醒目飞鹰) |
 | asuna ichinose | 一之濑明日奈 | 社团“肃清与扫荡”成员，主要武装为步枪。 | [FANDOM](https://bluearchive.fandom.com/wiki/Ichinose_Asuna) |
 | akane murokasa | 室笠茜 |  |  |
@@ -3699,7 +3699,7 @@ example:
 | koneko toujou | 塔城小猫 | 塔城小猫（とうじょう こねこ）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://s2.loli.net/2022/01/16/Pk7SDN2IMFW4Lfn.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
 | rias gremory | 莉雅丝·吉蒙里 | 莉雅丝·吉蒙里是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/b/b3/Rias.Gremory.full.961374.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉雅丝·吉蒙里) |
 | amamiya kokoro | 天宫心 | 天宫心 （日语：天宮こころ / あまみや こころAmamiya Kokoro ）是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [天宫心 - 萌娘百科](https://zh.moegirl.org.cn/zh-hans/天宫心) |
-| signora | 女士 | 女士是游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/执行官女士) |
+| signora | 女士 | 女士是游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/执行官女士) |
 | trish una | 特里休·乌纳 | 特里休·乌纳是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》第五部“黄金之风”及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/特里休·乌纳) (\*\*) |
 | kei shirogane | 白银圭 |  | [萌娘百科](https://zh.moegirl.org.cn/白银圭) |
 | suigintou | 水银灯 |  |  |
@@ -3864,6 +3864,10 @@ example:
 | rumi | 留美 | 留美（日语：ルミ），也译琉美，瑠美，瑠海，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/留美%28少女与战车%29) |
 | mare s. ephemeral | 梅娅·S·艾菲梅拉尔 | 梅娅·S·艾菲梅拉尔是Favorite制作的R18恋爱文字冒险类游戏《`p:hoshizora no memoria`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/梅娅·S·艾菲梅拉尔) |
 | loid forger | 劳埃德·福杰 | 《间谍过家家》主角。在东国从事谍报活动的西国顶尖间谍，代号〈黄昏〉，为了成为间谍已经舍弃自己的本名，现在使用伯林特综合医院精神科医生“劳埃德·福杰”的身份活动着 | [维基百科](https://zh.wikipedia.org/zh-my/SPY×FAMILY間諜家家酒) |
+| anna yamada | 山田杏奈 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
+| kyoutarou ichikawa | 市川京太郎 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
+| pramanix | 初雪 | 所属作品 `p:arknights`<br>![图](https://ehgt.org/f8/f5/f8f5cd23e8d5b2aee01e5e964263a59d6ee7f455-821988-1440-1010-jpg_l.jpg) | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
+| medaka kurokami | 黑神目泷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
