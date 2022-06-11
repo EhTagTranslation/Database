@@ -61,6 +61,7 @@ example:
 | yuuforia | Yuuforia |  |  |
 | lovelyspacekitten | LovelySpaceKitten |  |  |
 | uyuy | UyUy |  |  |
+| alicekyo | Alicekyo |  |  |
 
 <!--
 Template: 

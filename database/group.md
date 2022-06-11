@@ -12422,6 +12422,7 @@ example:
 | ajito529 | アジト529 |  |  |
 | miomix | miomix; |  |  |
 | hinobashi seifukukan | 日野橋制服館 |  |  |
+| hoshii koubou | 星井工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
