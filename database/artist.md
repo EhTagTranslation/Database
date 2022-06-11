@@ -7226,7 +7226,7 @@ example:
 | kumimon | kumimon |  |  |
 | kumisan | くみさん |  |  |
 | kumoi takashi | 菅野タカシ | くもいたかし |  |
-| kunaboto | kunaboto |  |  |
+| kunaboto | クナボト |  |  |
 | kuni | クニ |  |  |
 | kunifuto | くにふと |  |  |
 | kunoichi | くノ壱 |  |  |
