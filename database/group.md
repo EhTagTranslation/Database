@@ -1330,7 +1330,6 @@ example:
 | kinokomushin | きのこむ神 |  |  |
 | ichibariki | 一马力 |  |  |
 | okotan pekoe | おこたんぺこ |  |  |
-| crimson | クリムゾンコミックス |  |  |
 | we are coming | We are COMING! |  |  |
 | sanutei | さぬ亭 |  |  |
 | tanic ya | タニシ屋 |  |  |
@@ -1634,7 +1633,7 @@ example:
 | beta houkai | β崩壊 |  |  |
 | chuuou bunritai | 中央分離隊 |  | [官方网站](http://medianstripparty.blog.fc2.com) |
 | neko wa manma ga utsukushii | ねこはまんまがうつくしい |  | [官方网站](http://nekoman9.x.fc2.com/top.html) |
-| nekomarudow. | ネコマルドウ。 |  | [官方网站](http://nekomarudow.com) |
+| nekomarudow. | 猫丸堂 |  | [官方网站](http://nekomarudow.com) |
 | honoji | Honoji |  | [官方网站](https://pupuakachan.tumblr.com) |
 | watagashi | わた菓子 |  |  |
 | morphine | モルピネ |  |  |
@@ -1923,7 +1922,6 @@ example:
 | 110-groove | 110-GROOVE |  |  |
 | yuuki kagoubutsu | 有機化合物 |  | [官方网站](http://yuuki.kagou.main.jp) [THBWiki](https://thwiki.cc/有機化合物) |
 | a gokuburi | A極振り |  |  |
-| nori gorou | のり伍郎 |  |  |
 | sendouya | 千堂屋 |  |  |
 | kokusan jk | 国产JK | 国産JK |  |
 | istanbul high sox | イスタンブール・ハイソックス |  |  |
@@ -2294,9 +2292,7 @@ example:
 | 13 | 13 |  |  |
 | 27 | 27 |  |  |
 | 38 | 38 |  |  |
-| 76 | 76 |  |  |
 | 86 | 86 |  |  |
-| 91 | 91 |  |  |
 | 110 | 110 |  |  |
 | 183 | 183 |  |  |
 | 203 | ニイマルサン |  |  |
@@ -2304,7 +2300,6 @@ example:
 | 471 | 四七一 |  |  |
 | 530 | 530 |  |  |
 | 560 | 560 |  |  |
-| 581 | 581 |  |  |
 | 1122 | 1122 |  |  |
 | 1787 | 1787 |  |  |
 | 2961 | 2961 |  |  |
@@ -2357,7 +2352,6 @@ example:
 | 1bit | 1bit |  |  |
 | 1gaya | 1gaya |  |  |
 | 1or8 | イチカバチカ |  |  |
-| 1up | 1UP |  |  |
 | 2 carat | 2カラット |  |  |
 | 2000kcal shake club | 2000kcalシェイク同好会 |  |  |
 | 209 goushitsu | 209号室 |  |  |
@@ -2422,7 +2416,6 @@ example:
 | 69hb | 69HB |  |  |
 | 6colors | 6COLORS |  |  |
 | 6x8breads | 6x8breads |  |  |
-| 6zo | 6zo |  |  |
 | 7 colored led | 虹色発光ダイオード |  |  |
 | 7-ban no okimono | 7番の置物 |  |  |
 | 707room | 707号室 |  |  |
@@ -2454,7 +2447,6 @@ example:
 | a cherry-blossom front | A cherry-blossom front |  |  |
 | a face | a face |  |  |
 | a hoimi | a hoimi |  |  |
-| a kyokufuri | A極振り |  |  |
 | a pear tree | a pear tree |  |  |
 | a taku studio takuno | A TAKU STUDIO TAKUNO |  |  |
 | a yellow aurora | A Yellow Aurora |  |  |
@@ -2480,7 +2472,7 @@ example:
 | a440 | a440 |  |  |
 | aa aishiteru | ああ愛してる |  |  |
 | aa doushiyou | あぁどうしよう |  |  |
-| aa warera katou hayabusa sentotai | 嗚呼、我等加藤隼戦斗隊 |  |  |
+| aa warera katou hayabusa sentoutai | 嗚呼、我等加藤隼戦斗隊 |  |  |
 | aaru | アアル |  |  |
 | ab normal | あーびーのーまる |  |  |
 | ab10 | AB10 |  |  |
@@ -2495,7 +2487,6 @@ example:
 | abgrund | abgrund |  |  |
 | abigor | アビゴール |  |  |
 | abliss | ABLISS |  |  |
-| abo manten | 阿保満天 |  |  |
 | abonriya | あぼんり屋 |  |  |
 | abradeli kami | 油照紙 |  |  |
 | absolute fantasy | ABSOLUTE FANTASY |  |  |
@@ -2513,9 +2504,8 @@ example:
 | achumuchi | あちゅむち |  |  |
 | acid eaters | ACID EATERS |  |  |
 | acid noel | Acid Noel |  |  |
-| acid sea | ACID SEA |  |  |
+| acidsea | ACIDSEA |  |  |
 | acid-head | ACID-HEAD |  |  |
-| acidsea | アシッドシー |  |  |
 | acoram | Acoram |  |  |
 | action mokei | アクション模型 |  |  |
 | active | アクティブ |  |  |
@@ -2604,10 +2594,9 @@ example:
 | aje | AJE |  |  |
 | aji no hiraki | あじのひらき |  |  |
 | aji star | 鯵スター |  |  |
-| aji yuga mitsukarimasen | あじゅが見つかりません |  |  |
+| aju ga mitsukarimasen | あじゅが見つかりません |  |  |
 | ajinomoto | あじのもと |  |  |
 | ajisaihuumitei | 紫陽花風味亭 |  |  |
-| aju ga mitsukarimasen | あじゅが見つかりません |  |  |
 | aka | aka |  |  |
 | akaao | あかあお |  |  |
 | akabei soft | AKABEi SOFT |  |  |
@@ -2642,14 +2631,13 @@ example:
 | akari wa honnori tomoreba ii | 明かりはほんのり灯ればいい |  |  |
 | akaringo-chan | あかりんごちゃん |  |  |
 | akarui sm | 明るいSM |  |  |
-| akasa seisakusho | あかさ製作所 |  |  |
+| a-ka-sa-works | あかさ製作所 |  |  |
 | akashitei | あかし亭 |  |  |
 | akatama | アカタマ |  |  |
 | akatsuki akaza dou | 赤月赤座堂 |  |  |
-| akatsuki giken | 暁技研 |  |  |
 | akatsuki katsuie no circle | 暁勝家ノサークル |  |  |
 | akatsuki works | 暁WORKS |  |  |
-| akatsukidoumei | アカツキドウメイ |  |  |
+| akatsuki doumei | アカツキドウメイ |  |  |
 | aki no yonaga ni yoiyami ni | 秋の夜長に宵闇に |  |  |
 | aki6666 | AKI6666 |  |  |
 | akifumi-chan | あきふみちゃん |  |  |
@@ -2675,7 +2663,6 @@ example:
 | akunomangakarenmei | 悪の漫画家連盟 |  |  |
 | akuochisukii kyoushitsu | アクオチスキー教室 |  |  |
 | akuta space | あくたスペース |  |  |
-| akuten soushin | 悪転奏進 |  |  |
 | akuyukai | 悪遊怪 |  |  |
 | akys honpo | AKYS本舗 |  |  |
 | al dente | あるでんて |  |  |
@@ -2684,13 +2671,11 @@ example:
 | albino no yuuhatsu | アルビノの融発 |  |  |
 | albireo 7 | あるびれお7 |  |  |
 | alchemist works | Alchemist works |  |  |
-| alem gakan | アレム画館 |  |  |
 | alfalfa | alfalfa |  |  |
 | ali-san maku | ALIさんマーク |  |  |
 | alibi | アリバイ |  |  |
 | alice complex | Alice Complex |  |  |
 | alice digital factory | Alice Digital Factory |  |  |
-| alice garden | Alice Garden |  |  |
 | alice-do | ありす堂 |  |  |
 | alice.blood | Alice.Blood |  |  |
 | aliceflag | AliceFlag |  |  |
@@ -2732,13 +2717,11 @@ example:
 | amaama-tei | 甘々亭 |  |  |
 | amadeus no isan | アマデウスの遺産 |  |  |
 | amadoiza | 雨樋座 |  |  |
-| amadok | 雨時 |  |  |
 | amadoki | 雨時 |  |  |
 | amagaeru to sprocket | 雨蛙とスプロケット |  |  |
 | amagasa touge | 雨傘峠 |  |  |
 | amagashi | 甘菓子 |  |  |
 | amagi an ironworks | 天城製鉄所 |  |  |
-| amagi seitetsusho | 天城製鉄所 |  |  |
 | amagoi koubou | 雨乞い工房 |  |  |
 | amai wakusei | あまい惑星 |  |  |
 | amaichigo | あまいちご |  |  |
@@ -2793,7 +2776,6 @@ example:
 | ampullaria | あんぷらりあ |  |  |
 | amrita | AMRITA |  |  |
 | amuamu tiger | あむあむタイガー |  |  |
-| amulai sweet factory | あむぁいおかし製作所 |  |  |
 | amulet | あみゅれっと |  |  |
 | amuse craft erotica | アミューズクラフトエロチカ |  |  |
 | ana | ANA |  |  |
@@ -2866,7 +2848,6 @@ example:
 | anzen ekisu | 安全えきす |  |  |
 | anzen na buffalo | 安全なバッファロー |  |  |
 | anzeri kai | アンゼリ会 |  |  |
-| anzheli | Anzheli |  |  |
 | anzu ame | あんず飴 |  |  |
 | ao hana | 青華 |  |  |
 | ao niwashi | 青庭師 |  |  |
@@ -2882,7 +2863,6 @@ example:
 | aoi no ie | 葵の家 |  |  |
 | aoi project | AOI PROJECT |  |  |
 | aoikitoiki. | 青息吐息。 |  |  |
-| aoiro clip | 青色clip |  |  |
 | aoiro hakkyou diode | 青色ハッキョウダイオード |  |  |
 | aoiro ichiza | 青色一座 |  |  |
 | aoirobindume | 青色瓶詰 |  |  |
@@ -2958,7 +2938,6 @@ example:
 | arctangent | ARCTANGENT |  |  |
 | arctic char | Arctic Char |  |  |
 | arctic pan | 北極鍋 |  |  |
-| are | ARE |  |  |
 | are. | あれ。 |  |  |
 | area-048 | Area-048 |  |  |
 | area-s | Area-S |  |  |
@@ -3022,7 +3001,6 @@ example:
 | asaiumi | 浅い海 |  |  |
 | asakawa hetero | 麻川ヘテロ |  |  |
 | asaki blog branch office | 朝木blog出張所 |  |  |
-| asaki blog shucchousho | 朝木blog出張所 |  |  |
 | asaki yumemishi | あさきゆめみし |  |  |
 | asanebou crisis | 朝寝坊クライシス |  |  |
 | asanegi shouten | 麻根木商店 |  |  |
@@ -3100,11 +3078,9 @@ example:
 | atsuatsucook | あつあつCOOK |  |  |
 | atsugari giyuugun | あつがり義勇軍 |  |  |
 | atsuki nettaiya | アつき熱帯夜 |  |  |
-| atsushiya kougyou | 篤屋工業 |  |  |
 | attamaro | あったまろ。 |  |  |
 | attic | ATTIC |  |  |
 | attic work space | ATTIC WORK SPACE |  |  |
-| atyumuti | あちゅむち |  |  |
 | au pied | au pied |  |  |
 | aug18 | aug18 |  |  |
 | aurelia | オーレリア |  |  |
@@ -3131,7 +3107,6 @@ example:
 | ayashige dan | あやしげ団 |  |  |
 | ayashii ayakashi | アヤシイアヤカシ |  |  |
 | ayashii bochi | あやしい墓地 |  |  |
-| ayashii kichi | あやしい基地 |  |  |
 | ayashii thigh high ongakutai | 怪しいサイハイ音楽隊 |  |  |
 | ayashii yatsura | あやしいやつら |  |  |
 | ayasii hon-ya | あやしい本屋 |  |  |
@@ -3212,7 +3187,7 @@ example:
 | bangeya | BANGEYA |  |  |
 | bannoutumayoujiire | バンノウツマヨウジイレ |  |  |
 | banny pop | BANNYぽっぷ |  |  |
-| banri no shoujo | 万里の少女 |  |  |
+| banri no syoujo | 万里の少女 |  |  |
 | bansanchi | ばんさんち |  |  |
 | bansankan | バンサンカン |  |  |
 | bantendou shoten | 卍天堂書店 |  |  |
@@ -3253,7 +3228,6 @@ example:
 | beberoncino sei | ベベロンチーノ星 |  |  |
 | bect | BECT |  |  |
 | bee light | BEe Light |  |  |
-| beel ze bub | ベルゼブブ |  |  |
 | beelzebub | ベルゼブブ |  |  |
 | beenyan | び～にゃん |  |  |
 | beer bear | BEER BEAR |  |  |
@@ -3278,7 +3252,6 @@ example:
 | berry bagel | BERRY BAGEL |  |  |
 | berry lollipop | Berry Lollipop |  |  |
 | berserker | バーサーカー |  |  |
-| berugamotto | べるがもっと |  |  |
 | besshun-tei | べっしゅん亭 |  |  |
 | bhm | BHM |  |  |
 | bias factory | バイアスファクトリー |  |  |
@@ -3300,7 +3273,6 @@ example:
 | binbou yusuri | びんぼうゆすり |  |  |
 | binbou yusuri express | 貧乏ゆすり超特急 |  |  |
 | bindmix | BindMix |  |  |
-| bindume syojo | 瓶詰少女。 |  |  |
 | binmalo | ビンマロ |  |  |
 | binz studio | Binz Studio |  |  |
 | biophile | Biophile |  |  |
@@ -3372,7 +3344,7 @@ example:
 | blue bloods | BLUE BLOOD'S |  |  |
 | blue blossom | Blue Blossom |  |  |
 | blue catty | BLUE CATTY |  |  |
-| blue colors naitomea | ブルウカラアズナイトメア |  |  |
+| blue colors nightmare | ブルウカラアズナイトメア |  |  |
 | blue cosmos | BLUE COSMOS |  |  |
 | blue crest | Blue Crest |  |  |
 | blue devil | Blue Devil |  |  |
@@ -3469,7 +3441,6 @@ example:
 | brave chicken | ぶれいぶちきん |  |  |
 | bread and cake | パンとケーキ |  |  |
 | bread bread | Bread Bread |  |  |
-| breast mafia | 乳マフィア |  |  |
 | breath2 | BREATH2 |  |  |
 | breeze | BREEZE |  |  |
 | brief case | Brief case |  |  |
@@ -3651,7 +3622,6 @@ example:
 | ceremonica | ceremonica |  |  |
 | cesalion | シザリオン |  |  |
 | cesium-p | セシウムP |  |  |
-| cfr | CFR |  |  |
 | cha cha cha brothers | ちゃちゃちゃぶらざーず |  |  |
 | chabanchabancha | 茶番茶番茶 |  |  |
 | chabane ninja | ちゃばねにんじゃ |  |  |
@@ -3701,7 +3671,6 @@ example:
 | cherry pepper | cherry\*pepper |  |  |
 | cherry snow | ちぇり☆すの |  |  |
 | cherry soft | ちぇりーそふと |  |  |
-| chesha neko no kan | チェシャ猫の |  |  |
 | chest box | ちぇすとぼっくす |  |  |
 | chested | chested |  |  |
 | chestnut tree | chestnut tree |  |  |
@@ -3742,7 +3711,6 @@ example:
 | chikomayoya | ちこまよや |  |  |
 | chikotsu mania | 恥骨マニア |  |  |
 | chikutakudoh | ちくたく堂 |  |  |
-| chikutakudou | ちくたく堂 |  |  |
 | chikuwa | ちくわ |  |  |
 | chikuwa drop | ちくわドロップ |  |  |
 | chikuwanko | ちくわんこ |  |  |
@@ -3772,7 +3740,7 @@ example:
 | chirimen studio | ちりめんすたじお |  |  |
 | chirimenjako | ちり綿じゃこ |  |  |
 | chirimozuku cha | チリモズク茶 |  |  |
-| chirorinu | チドリヌ |  |  |
+| chidorinu | チドリヌ |  |  |
 | chirorura | ちろるら |  |  |
 | chise | 千世 |  |  |
 | chiukorone | ちうころね |  |  |
@@ -3839,12 +3807,11 @@ example:
 | cipher | 裁羽 |  |  |
 | circle 1 gou | サークル1号 |  |  |
 | circle a | Circle A |  |  |
-| circle anastasia | Anastasia |  |  |
+| anastasia | Anastasia |  |  |
 | circle anco | サークルアンコ |  |  |
 | circle b.c.a. | サークルB.C.A. |  |  |
 | circle baku | サークル獏 |  |  |
 | circle bob | サークルボブ |  |  |
-| circle carnelian | CARNELIAN |  |  |
 | circle credit | サークルくれじっと |  |  |
 | circle daiinma | サークル大淫魔 |  |  |
 | circle damesimai | サークル駄目姉妹 |  |  |
@@ -3860,7 +3827,6 @@ example:
 | circle itaku | サークルイタク |  |  |
 | circle itomagoi | サークル暇乞い |  |  |
 | circle iwaodou | サークル岩尾堂 |  |  |
-| circle karasu | 鴉 |  |  |
 | circle kgb | サークルKGB |  |  |
 | circle king | サークルきんぐ |  |  |
 | circle kotatubuton | サークルこたつぶとん |  |  |
@@ -3876,19 +3842,17 @@ example:
 | circle rachigai | サークル埒外 |  |  |
 | circle rindou | さーくるりんどー |  |  |
 | circle shakunetsu | サークル灼熱 |  |  |
-| circle shining | SHINING |  |  |
 | circle sigma | Circle Σ |  |  |
 | circle six | circle six |  |  |
-| circle slave | SLAVE |  |  |
+| slave | SLAVE |  |  |
 | circle spice | さーくるスパイス |  |  |
 | circle streak | CIRCLE STREAK |  |  |
-| circle tintin | TinTin |  |  |
+| tintin | TinTin |  |  |
 | circle trident | Circle Trident |  |  |
-| circle yan-yam | Yan-Yam |  |  |
 | circle yaranaika | サークルやらないか |  |  |
 | circle yubokumin | サークル遊牧民 |  |  |
 | circle yuki | サークルゆき |  |  |
-| circle-ta | 田 |  |  |
+| circle den | 田 |  |  |
 | circled 1 | ① |  |  |
 | circus | サーカス |  |  |
 | circus fetish | サーカス・フェティッシュ |  |  |
@@ -3975,7 +3939,6 @@ example:
 | complex | COMPLEX |  |  |
 | concerto | コンチェルト |  |  |
 | concrete river | CONCRETE RIVER |  |  |
-| condiment wa hachibunme | コンディメントは8分目 |  |  |
 | coneco house | こねこはうすー |  |  |
 | confiture soft | コンフィチュールソフト |  |  |
 | consava | こんさば |  |  |
@@ -4032,7 +3995,7 @@ example:
 | creamy cafe | Creamy Cafe |  |  |
 | crear mint | CREAR★MINT |  |  |
 | crepe | Crepe |  |  |
-| crimson comics | クリムゾン |  |  |
+| crimson | クリムゾン |  |  |
 | crimson crown | Crimson CROWN |  |  |
 | crimson ground | CRIMSON GROUND |  |  |
 | crimson kantai | クリムゾン艦隊 |  |  |
@@ -4206,7 +4169,6 @@ example:
 | dead angle | デッドアングル |  |  |
 | dead ranker | Dead Ranker |  |  |
 | deadnoodles | Deadnoodles |  |  |
-| deadranker | dEaDraNkeR |  |  |
 | dear | Dear |  |  |
 | dear durandal | Dear Durandal |  |  |
 | dear life | DEAR LIFE |  |  |
@@ -4268,7 +4230,7 @@ example:
 | desire gadget | Desire Gadget |  |  |
 | desk drawer | Desk Drawer |  |  |
 | desorden | DESORDEN |  |  |
-| desprin | デスプリン |  |  |
+| death purin | デスプリン |  |  |
 | destron shoukai | デストロン商会 |  |  |
 | desuroguma | デスロ熊 |  |  |
 | detergent | detergent |  |  |
@@ -4378,7 +4340,6 @@ example:
 | dosukoi | どすこい! |  |  |
 | dosukoi jinja | どす恋☆神社 |  |  |
 | dot collector | Dot Collector |  |  |
-| dot seven | .7 |  |  |
 | dotechin tengoku | どてちん天国 |  |  |
 | dotou no m kikaku | 怒涛のM企画!! |  |  |
 | dots and lines | どっつ&らいんず |  |  |
@@ -4444,11 +4405,10 @@ example:
 | dt koubou | DT工房 |  |  |
 | dual beat | DUAL BEAT |  |  |
 | dual i fap | Dual i fap |  |  |
-| dual tail | dual tail |  |  |
+| dualtail | dual tail |  |  |
 | dudedle studio | デュードルスタジオ |  |  |
-| dummy run | DUMMY RUN |  |  |
+| dummyrun | DUMMY RUN |  |  |
 | dummyusagi | DummyUsagi |  |  |
-| dusty heaven | jinnai jun |  |  |
 | dvcommunications | DVコミュニケイションズ |  |  |
 | dying kitchen z | Dying Kitchen Z |  |  |
 | dynamic kanoke | ダイナミック棺桶 |  |  |
@@ -4480,7 +4440,6 @@ example:
 | ebisuya | えびすや |  |  |
 | ebisuyu | ゑびす湯 |  |  |
 | ebitendon | えびてん丼 |  |  |
-| ebizome | Ebizome |  |  |
 | ebysuya | 恵比寿屋 |  |  |
 | ecarlate | E'carlate |  |  |
 | eccentric girl | エキセントリックガール |  |  |
@@ -4503,7 +4462,7 @@ example:
 | edit | edit |  |  |
 | edo-ya | EDO屋 |  |  |
 | edogawa koubou | 江戸川工房 |  |  |
-| eeteru | エエテル |  |  |
+| ether | エエテル |  |  |
 | ef-labo | ef-labo |  |  |
 | effecter | エフェクター |  |  |
 | effordom soft | エフォルダムソフト |  |  |
@@ -4514,7 +4473,7 @@ example:
 | egoism | EGOISM |  |  |
 | egonokatamari | エゴノカタマリ |  |  |
 | eichi jijou | エイチジジョウ |  |  |
-| eidanchikatetsu | 地下鉄食堂 |  |  |
+| chikatetsu shokudou | 地下鉄食堂 |  |  |
 | eien no 17-sai | 永遠の17歳 |  |  |
 | eight beat | エイトビート |  |  |
 | eight man | eight man |  |  |
@@ -4723,7 +4682,6 @@ example:
 | festa | ふぇすた。 |  |  |
 | festival | ふぇすてぃばる! |  |  |
 | fetch | Fetch |  |  |
-| fetifetisan | フェチフェチサン |  |  |
 | fetish | ふぇてぃっしゅ |  |  |
 | fetish children | フェティッシュ チルドレン |  |  |
 | fetism | ふぇちずむ |  |  |
@@ -4838,7 +4796,7 @@ example:
 | fuji sangou koubou | 富士参號工房 |  |  |
 | fuji yoshida sa | 藤吉田SA |  |  |
 | fujidan | 藤団 |  |  |
-| fujigomeya | 藤米屋 |  |  |
+| fujikome-ya | 藤米屋 |  |  |
 | fujiiro bomber | ふじいろボンバー |  |  |
 | fujiiro sabou | 藤色茶房 |  |  |
 | fujiko fujio fc kurosawa kei | 藤子不二雄FC黒沢系 |  |  |
@@ -4856,7 +4814,7 @@ example:
 | fukasu-santaro | 深酢さんたろ |  |  |
 | fukazume kizoku | 深爪貴族 |  |  |
 | fuketsudan | 不決断 |  |  |
-| fukidamari | 吹溜 |  |  |
+| hukidamari | 吹溜 |  |  |
 | fukucha koubou | 福茶工房 |  |  |
 | fukuda sennen oukoku | 福田千年王国 |  |  |
 | fukugou marjoram | 複合マジョラム |  |  |
@@ -4886,7 +4844,7 @@ example:
 | funa time | ふなたいむ |  |  |
 | funanori house | ふなのりはうす |  |  |
 | funiai-ice | ふにあいあいす |  |  |
-| funifuni soft | ふにふにソフト |  |  |
+| funi funi soft | ふにふにソフト |  |  |
 | funikigumi | 雰囲気組 |  |  |
 | funimani | ふにまに |  |  |
 | funiya | ふに屋 |  |  |
@@ -4931,7 +4889,7 @@ example:
 | fuuga | 風☆雅 |  |  |
 | fuukyou kimiko | 風狂公子 |  |  |
 | fuuma kekkai | 風舞結界 |  |  |
-| fuurai no dan | 風来の団 |  |  |
+| huurai no dan | 風来の団 |  |  |
 | fuurintei | 風鈴亭 |  |  |
 | fuusa ryouiki | 封鎖領域 |  |  |
 | fuusen club kuroshiki | 風船クラブ「黒式！」 |  |  |
@@ -4954,7 +4912,7 @@ example:
 | g-scan corp. | G-SCAN CORP. |  |  |
 | g-spot | じぃすぽっと |  |  |
 | g.b.f | G.B.F |  |  |
-| g.entertainment | G.Entertainment｜ごたさんのエンタイトルツーベース |  |  |
+| g.entertainment | G.Entertainment |  |  |
 | g.g.blue | G.G.BLUE |  |  |
 | g.g.g. | G.G.G. |  |  |
 | g.g.t. | G.G.T. |  |  |
@@ -4968,7 +4926,6 @@ example:
 | gachapin mukku. | がちゃぴんむっく。 |  |  |
 | gachi drunkers | ガチ★ドランカーズ |  |  |
 | gachinko shobou | 我チ○コ書房 |  |  |
-| gachonerou | がちょん次郎 |  |  |
 | gadget | ガジェット工房 |  |  |
 | gadoujuku | 我道塾 |  |  |
 | gagaga honpo | ガガガ本舗 |  |  |
@@ -4976,7 +4933,6 @@ example:
 | gaikotsu no spare rib | 骸骨のスペアリブ |  |  |
 | gaisei dou | 凱聖堂 |  |  |
 | gakeppuchi koubou | 崖っぷち工房 |  |  |
-| gakeppuchi koubu | 崖っぷち工房 |  |  |
 | gakuen ketsumeichou | 學園血盟帖 |  |  |
 | gakuen yuushabu | 学園勇者部 |  |  |
 | gakugen | 楽玄 |  |  |
@@ -5024,11 +4980,9 @@ example:
 | garigarigari | がりがりがり |  |  |
 | garland | Garland |  |  |
 | garou kissa hapido | 画廊喫茶はぴど |  |  |
-| garyuu island | 巌流アイランド |  |  |
 | gasayabu | がさやぶ |  |  |
 | gashadokuro | がしゃどくろ |  |  |
 | gasoku | GASOKU |  |  |
-| gasshuukoku nekometaru | 合衆国ネタメコル |  |  |
 | gate two | GATE TWO |  |  |
 | gateau scotch | ガトースカッチ |  |  |
 | gaten | 画展 |  |  |
@@ -5041,7 +4995,7 @@ example:
 | gdmd. | gdmd. |  |  |
 | geafcart | ギーフカート |  |  |
 | geboku shuppan | 下僕出版 |  |  |
-| gedo shokai | 外道商会 |  |  |
+| gedou shoukai | 外道商会 |  |  |
 | gehlenite | Gehlenite |  |  |
 | geiwamiwosukuu | 芸は身を救う!! |  |  |
 | gekidan asaroku | 劇団あさろく |  |  |
@@ -5051,7 +5005,6 @@ example:
 | gekijou pierrot | 激情ピエロ |  |  |
 | gekikara | GEKIKARA |  |  |
 | gekirou director | 激浪Director |  |  |
-| gekiteki gekidan eru | 劇的劇団エル |  |  |
 | gekiteki gekidan l | 劇的劇団エル |  |  |
 | gekka bijin | 月下美刃 |  |  |
 | gekka no neko | 月華の猫 |  |  |
@@ -5137,7 +5090,7 @@ example:
 | girigiri nijiiro | ギリギリ虹色 |  |  |
 | girigiri works | ギリギリWorks |  |  |
 | girin mahha | ぎんりんまっは |  |  |
-| girlboys | girlboys |  |  |
+| girlboy | Girlboy |  |  |
 | girls kingdom | 少女の王国 |  |  |
 | girls residence | GIRLS RESIDENCE |  |  |
 | girls-potion | Girls-Potion |  |  |
@@ -5247,7 +5200,6 @@ example:
 | grazie | grazie |  |  |
 | grease pencil | グリースペンシル |  |  |
 | great acta | GREAT芥 |  |  |
-| great akuta | GREAT芥 |  |  |
 | great dadan | ぐれいと・だだん |  |  |
 | greatest kyuutei | グレイテスト宮廷 |  |  |
 | green ketchup | グリーンケチャップ |  |  |
@@ -5257,7 +5209,6 @@ example:
 | greg soujou | グレッグ僧正 |  |  |
 | greone | GREONE |  |  |
 | greyhound | Greyhound |  |  |
-| grilled twintail futon shop of black beauty | 漆黒のTWINTAIL焼きふとん店 |  |  |
 | group 601 | グループ601 |  |  |
 | group hinoran | ぐる～ぷひのらん |  |  |
 | group i.n | グループI・N |  |  |
@@ -5265,7 +5216,6 @@ example:
 | grungeworks | GRUNGE WORKS |  |  |
 | gt works | GT Works |  |  |
 | gu no nai curry | 具のないカレー |  |  |
-| gu-ra gu-ra | GU-RA・GU-RA |  |  |
 | guchi wotabatake | 愚痴ヲタ畑 |  |  |
 | gudon-no-uta | ぐどんの歌 |  |  |
 | guhan shounen | 虞犯少年 |  |  |
@@ -5299,7 +5249,6 @@ example:
 | gyara cter | ギャラ☆クター |  |  |
 | gyarandoh | 逆乱堂 |  |  |
 | gyarandou | ぎゃらん堂 |  |  |
-| gyaroppu daina | ぎゃろっぷだいな |  |  |
 | gyf-107 | GYF-107 |  |  |
 | gymno | gymno |  |  |
 | gyogyou rengou | 漁業連合 |  |  |
@@ -5344,7 +5293,6 @@ example:
 | hachimitsu himawari | ハチミツヒマワリ |  |  |
 | hachimitsu pineapple | はちみつパイナップル |  |  |
 | hachimitsu sand | はちみつサンド |  |  |
-| hachimitsu shoujo | 蜂蜜少女 |  |  |
 | hachimitsu soft | はちみつそふと |  |  |
 | hachiwaredou | ハチワレ堂 |  |  |
 | hachiyou | 蜂様 |  |  |
@@ -5386,7 +5334,7 @@ example:
 | hakkekkyuu sekkekkyuu | 白血球赤血球 |  |  |
 | hakkindo | 白金堂 |  |  |
 | hakobune | 箱舟 |  |  |
-| hakoku kimuchi | 発光きむち |  |  |
+| hakkou kimuti | 発光きむち |  |  |
 | hakoniwa toshokan | ハコニワトショカン |  |  |
 | hakonyan. | はこにゃん。 |  |  |
 | hakorimu | はこりむ |  |  |
@@ -5466,7 +5414,6 @@ example:
 | happaya | 葉っぱ屋 |  |  |
 | happiness milk | はぴねすみるく |  |  |
 | happo ryuu | HAPPO流 |  |  |
-| happunzaki | 八分咲 |  |  |
 | happy drive | はっぴぃどらいぶっ! |  |  |
 | happy life | Happy Life |  |  |
 | happy lime | はっぴぃライム |  |  |
@@ -5505,9 +5452,7 @@ example:
 | harem heat | ハーレムヒート |  |  |
 | haresaku | ハレサク |  |  |
 | hari poteto | はりぽてと |  |  |
-| hari senbon | 針千本 |  |  |
 | hariko no tora | はりこのとら |  |  |
-| harinezumi gohan | ハリネズミごはん |  |  |
 | harinezumi koubou | はりねずみ工房 |  |  |
 | hariwata | hariwata |  |  |
 | harmorise | Harmorise |  |  |
@@ -5518,7 +5463,6 @@ example:
 | haru youbi | 春曜日 |  |  |
 | harugoya | はるごや |  |  |
 | harugumo. | はるぐも。 |  |  |
-| haruharu dou | はるはる堂 |  |  |
 | haruiro fudepen | はルいろ筆ペン |  |  |
 | haruiro no sora | 春色の空 |  |  |
 | harukaze | HARUKAZE |  |  |
@@ -5576,12 +5520,11 @@ example:
 | hearts and crusts | HEARTS & CRUSTS |  |  |
 | hearts nest | Heart's Nest |  |  |
 | heat-soft | HEAT-SOFT |  |  |
-| heaven star | ヘヴンスター |  |  |
+| heavenstar | ヘヴンスター |  |  |
 | heavenly | heavenLy |  |  |
 | heavens | HEAVENS |  |  |
 | heavens gate | Heaven's Gate |  |  |
 | heavens unit | HEAVEN'S UNIT |  |  |
-| heavenstar | ヘヴンスター |  |  |
 | heavy syrup | Heavy syrup |  |  |
 | hebereke black7 | へべれけBLACK7 |  |  |
 | hebichang | へびちゃんぐ |  |  |
@@ -5651,7 +5594,7 @@ example:
 | hey you | hey you! |  |  |
 | heya no sumi. | 部屋の隅。 |  |  |
 | hgh | HGH |  |  |
-| hgt lab | HGTラボ |  |  |
+| hgt labo | HGTラボ |  |  |
 | hhb | hhb |  |  |
 | hht | HHT |  |  |
 | hi-cal | Hi-CAL |  |  |
@@ -5671,7 +5614,6 @@ example:
 | hiensou | 飛燕想 |  |  |
 | hierarchy | ヒエラルキー |  |  |
 | hiero | ハイエロ |  |  |
-| hifumiya | 一二三家 |  |  |
 | higashi no penguine | 東のペンギン |  |  |
 | higasimikawa midoriiro doukoukai | 東三河みどり色同好会 |  |  |
 | hige to deko | Hige to deko |  |  |
@@ -5700,7 +5642,6 @@ example:
 | hikari no ki | 光の樹 |  |  |
 | hikari no tomoshibi | 光の燭 |  |  |
 | hikarito mahou koubou | 光と魔法工房 |  |  |
-| hikawadou | 火川堂 |  |  |
 | hikodge beya | 彦二部屋 |  |  |
 | hikou dai 50 sentai | 飛行第50戦隊 |  |  |
 | hikousensuitei | 飛行潜水亭 |  |  |
@@ -5729,14 +5670,13 @@ example:
 | hinatabokko | ひなたぼっこ |  |  |
 | hinatabokko club | ひなたぼっこ倶楽部 |  |  |
 | hinauta | ひなうた |  |  |
-| hinemonsuan | 終日庵 |  |  |
 | hinjyaku | HINJYAKU |  |  |
 | hinoenma haken jimukyoku | 催眠すし屋 |  |  |
 | hinoiti | ヒノイティ |  |  |
 | hinokiburo | 檜風呂 |  |  |
 | hinokist | hinokist |  |  |
 | hinouhe family | ひのうへファミリー |  |  |
-| hiramani | ヒラマニ |  |  |
+| hirani | ヒラマニ |  |  |
 | hirame jichiku | ひらめ自治区 |  |  |
 | hirari | ひらり |  |  |
 | hirataira | 平平 |  |  |
@@ -5758,7 +5698,6 @@ example:
 | hitomaron | ひとまろん |  |  |
 | hitonchi | ひとんち |  |  |
 | hitori de dekirumon | 火鳥でできるもん！ |  |  |
-| hitori jozu | 日盗りジョーズ |  |  |
 | hitori kakumei | 一人革命 |  |  |
 | hitori no daiyokujou | 一人の大浴場 |  |  |
 | hitori online | 一人オンライン |  |  |
@@ -5840,7 +5779,6 @@ example:
 | honey knuckle | Honey Knuckle |  |  |
 | honey lounge | honey lounge |  |  |
 | honey pharmacy | Honey Pharmacy |  |  |
-| honey prism | はちみつプリズム |  |  |
 | honey rice | はちみつごはん |  |  |
 | honey rider69 | Honey Rider69 |  |  |
 | honeybee | honeybee |  |  |
@@ -5871,7 +5809,7 @@ example:
 | horohoro tei | ホロホロ亭 |  |  |
 | horonaminz | ホロナミンZ |  |  |
 | horumon curry | ほるもんカレー |  |  |
-| hoshi kuuge gekidan | 星空華劇団 |  |  |
+| hoshizora kagekidan | 星空華劇団 |  |  |
 | hoshi ni kaeru | 星に帰る! |  |  |
 | hoshi no kuzu | 星の屑 |  |  |
 | hoshi no yume | 星の夢 |  |  |
@@ -5879,7 +5817,7 @@ example:
 | hoshidokei | 星時計 |  |  |
 | hoshiedatei | ほしえだ亭 |  |  |
 | hoshikuzu comet | 星屑コメット |  |  |
-| hoshikuzu dolce | 星屑ドルチェ |  |  |
+| hosikuz dolce | 星屑ドルチェ |  |  |
 | hoshimaki project | ほしまきProject |  |  |
 | hoshimitai | ほしみたい |  |  |
 | hoshinagi | 星凪 |  |  |
@@ -5887,7 +5825,6 @@ example:
 | hoshiratta | 星らった |  |  |
 | hoshiyukicha | 干し雪茶 |  |  |
 | hoshizono | 星園 |  |  |
-| hoshizora kagekidan | 星空華劇団 |  |  |
 | hoshizora tokou | 星空渡航 |  |  |
 | hosi hutatu. | ほしふたつ。 |  |  |
 | hosinokuzu | Hosinokuzu |  |  |
@@ -5918,18 +5855,15 @@ example:
 | hr-st | HR-ST |  |  |
 | http | http |  |  |
 | hukakuteiseigenri | 不確定性原理 |  |  |
-| hukidamari | 吹溜 |  |  |
 | hulotte | Hulotte |  |  |
 | human high-light film | ヒューマン・ハイライト・フィルム |  |  |
 | hummel | ヒュンメル |  |  |
 | huri-neko | ふりかえればねこがいる |  |  |
 | hutoshi nyuugyou | ふとし乳業 |  |  |
-| huurai no dan | 風来の団 |  |  |
 | huzinami koubou | 藤波工房 |  |  |
 | hy-dou | 灰同 |  |  |
 | hyakkarou no tanuki | 百華楼の狸 |  |  |
 | hyakuen nikuniku | 百元肉々 |  |  |
-| hyakuichi shiki | 百壱式 |  |  |
 | hyakuitishiki | 百壱式 |  |  |
 | hyakumangoku | 百萬石 |  |  |
 | hyakutake sakusen | 百武作戦 |  |  |
@@ -5982,7 +5916,7 @@ example:
 | ichigoya | いちご屋 |  |  |
 | ichikasho nihoukou | 一箇所二方向 |  |  |
 | ichikawa gekibansha | 市川劇版社 |  |  |
-| ichimaru | いの丸 |  |  |
+| inomaru | いの丸 |  |  |
 | ichimatsu kougyou | 市松稿行 |  |  |
 | ichimonkai | 一門会 |  |  |
 | ichinichi atelier | いちにちアトリエ |  |  |
@@ -6066,7 +6000,6 @@ example:
 | in the teapot | In the Teapot |  |  |
 | in the water | in the WATER. |  |  |
 | inaf | INAF |  |  |
-| inagita | INAGITA |  |  |
 | inai uchi ni | いないうちに |  |  |
 | inakagurashi | イナカグラシ |  |  |
 | inaridou shoten | 稲荷堂書店 |  |  |
@@ -6087,11 +6020,9 @@ example:
 | inner map | Inner Map |  |  |
 | innocence | Innocence |  |  |
 | innocent lucy | イノセントルーシー |  |  |
-| inomaru | いの丸 |  |  |
 | inran teddy bear | 淫乱テディベア |  |  |
 | inre | インレ |  |  |
 | inshoujo | 淫少女 |  |  |
-| inside | Inside |  |  |
 | insky. | insky. |  |  |
 | inspi. | inspi. |  |  |
 | inspire | inspire |  |  |
@@ -6207,7 +6138,7 @@ example:
 | jackass | ジャッカス |  |  |
 | jacklake | Jacklake |  |  |
 | jackmarry | JACKMARRY |  |  |
-| jado soft | 蛇ノ道ハ蛇ソフト |  |  |
+| ja no michi wa hebi soft | 蛇ノ道ハ蛇ソフト |  |  |
 | jagaimo potato | じゃがいもポテト |  |  |
 | jail black | JaiL Black |  |  |
 | jajujo | じゃじゅじょ |  |  |
@@ -6230,7 +6161,7 @@ example:
 | jeter studio | ジータースタジオ |  |  |
 | jewelry | ジュエリー |  |  |
 | jibaku-system | 自爆SYSTEM |  |  |
-| jidan | 痔男 |  |  |
+| zydan | 痔男 |  |  |
 | jido-hikki | じどー筆記 |  |  |
 | jiesu | じーえす |  |  |
 | jigen bakudan | 時限爆弾 |  |  |
@@ -6251,7 +6182,6 @@ example:
 | jinrikisha | 人力社 |  |  |
 | jinsei ano denchuu made sakusen | 人生あの電柱まで作戦 |  |  |
 | jinsei tsuukoudome | 人生通行止め |  |  |
-| jinsei yokosuberi | 人生横滑り。 |  |  |
 | jipohou | 時ポ砲 |  |  |
 | jishaku no sunaba | じしゃくのすなば |  |  |
 | jishin kajyou | 地震過剰 |  |  |
@@ -6279,7 +6209,6 @@ example:
 | joshinzoku | 女真族 |  |  |
 | joujou tenki | 上々天気 |  |  |
 | joukitei | 蒸気亭 |  |  |
-| jouman | 上万 |  |  |
 | joy convoy | ジョイコンボイ |  |  |
 | joydivision | JoyDivision |  |  |
 | js style | J's STYLE |  |  |
@@ -6295,7 +6224,6 @@ example:
 | junai shijoushugi | 純愛至上主義 |  |  |
 | junes rain | 六月雨 |  |  |
 | junes202 | ジュネス202 |  |  |
-| jungfrau | Jungfrau |  |  |
 | junk arts | ジャンクアーツ |  |  |
 | junk box | Junk Box |  |  |
 | junk center kameyoko bldg | JUNKセンター亀横ビル |  |  |
@@ -6354,7 +6282,6 @@ example:
 | kaede no harawata | 楓のはらわた |  |  |
 | kaededou | 楓道 |  |  |
 | kaedelic | KAEdeLIC |  |  |
-| kaeri no kai2 | 帰りの会2 |  |  |
 | kaeru neko no shippo | かえるねこのしっぽ |  |  |
 | kaeru no oyado | カエルの御宿 |  |  |
 | kaerudon teishoku | カエル丼定食 |  |  |
@@ -6374,7 +6301,6 @@ example:
 | kai | KAI |  |  |
 | kai.tenchou | 改・店長 |  |  |
 | kaibido | 快微動 |  |  |
-| kaibidou | 快微動 |  |  |
 | kaicho-maniax | カイチョーマニアックス |  |  |
 | kaigansen | カイガンセン |  |  |
 | kaigetsudou | 海月堂 |  |  |
@@ -6460,7 +6386,6 @@ example:
 | kanakana shoutengai | カナカナ商店街 |  |  |
 | kanariya bai kanariya | カナリヤバいカナリヤ |  |  |
 | kanarukan | 歌鳴館 |  |  |
-| kanaruken | 歌鳴館 |  |  |
 | kanbotan | カンボタン |  |  |
 | kancho hatto | 艦長法度 |  |  |
 | kandelaar | カンテラ |  |  |
@@ -6539,8 +6464,6 @@ example:
 | kasetsu shirokuma kakko yoi | 仮設しろくま |  |  |
 | kasetsu yousai | 仮設要塞 |  |  |
 | kasha | 珈舎 |  |  |
-| kashi no ki | カシノ木 |  |  |
-| kashiko akira | かしこ村 |  |  |
 | kashinoki | カシノ木 |  |  |
 | kashitsuki | 菓子つき |  |  |
 | kashiwa-ya | かしわ屋 |  |  |
@@ -6640,8 +6563,7 @@ example:
 | kerokero mountain chicken | けろけろまうんてんちきん |  |  |
 | keruto | ける都 |  |  |
 | kes3000 | KES3000 |  |  |
-| kesa and noise | ケサトノイズ｜Kesa |  |  |
-| kesato noise | ケサトノイズ |  |  |
+| kesa and noise | ケサトノイズ |  |  |
 | kesson shoujo | 欠損少女 |  |  |
 | ketchup aji no mayonnaise | ケチャップ味のマヨネーズ |  |  |
 | ketsudon teishoku | ケツ丼定食 |  |  |
@@ -6660,7 +6582,6 @@ example:
 | kichu | きちゅ! |  |  |
 | kid | KID |  |  |
 | kidou juushi | 機動重視 |  |  |
-| kidou sokudo | 軌道速度 |  |  |
 | kidoukan | 綺堂館 |  |  |
 | kieyza cmp | 喜栄座cmp |  |  |
 | kigeki banzai | 喜劇万歳 |  |  |
@@ -6669,7 +6590,7 @@ example:
 | kiheitai | 畸兵隊 |  |  |
 | kiina vitamin | きいなビタミン |  |  |
 | kiiro bird | きいろバード |  |  |
-| kijin-ro | 奇人楼 |  |  |
+| kijinrou | 奇人楼 |  |  |
 | kijinabe to kitsunedon | きじ鍋ときつね丼 |  |  |
 | kikaiatama | 機械頭 |  |  |
 | kikaishojo kaiho-sensen | 機械少女解放戦線 |  |  |
@@ -6718,7 +6639,6 @@ example:
 | kinoko no karutei-nu | キノコの狩るてぃーぬ |  |  |
 | kinoko pot pie | きのこポットぱい |  |  |
 | kinoko-ex | KINOKO-ex |  |  |
-| kinokomukami | きのこむ神 |  |  |
 | kinokotai | きのこ隊 |  |  |
 | kinokoya kari | 茸屋(仮) |  |  |
 | kinominoyama | きのみの山 |  |  |
@@ -6732,9 +6652,8 @@ example:
 | kirin mamire | キリンまみれ |  |  |
 | kirin no chisato | きりんのちさと |  |  |
 | kirisawa giken | 桐沢技研 |  |  |
-| kirsche engine | キルシーエンジン |  |  |
-| kirscherise | kirscherise |  |  |
 | kirsi engine | キルシーエンジン |  |  |
+| kirscherise | kirscherise |  |  |
 | kisachi | kisachi |  |  |
 | kisama soredemo ningenka | 貴様それでも人間か!! |  |  |
 | kisamamaki soft | 貴様巻きソフト |  |  |
@@ -6825,7 +6744,6 @@ example:
 | kokkishin | こっき心 |  |  |
 | kokochikyuu | 心地球 |  |  |
 | kokonokiya | ここのき屋 |  |  |
-| kokoro chikyuu | 心地球 |  |  |
 | kokoro metro | ココロメトロ |  |  |
 | kokoro no boss | 心のBOSS |  |  |
 | kokoro no ie | 心之家 |  |  |
@@ -6856,10 +6774,8 @@ example:
 | komorebitei | 木漏れ日亭 |  |  |
 | komugiko 100 percent | 小麦粉100% |  |  |
 | kon no pencase | 紺のペンケース |  |  |
-| kon-kit | 蒟KIT |  |  |
 | konagona biscuit | こなごなビスケット |  |  |
 | konagona makki shoujou | 粉々末期症状 |  |  |
-| konagusuri | こなぐすり |  |  |
 | konapoka01 | こなぽか01 |  |  |
 | konatuiro | 来夏色 |  |  |
 | konbu-maru | こんぶ丸 |  |  |
@@ -6889,7 +6805,6 @@ example:
 | koorigoya | 氷小屋 |  |  |
 | kooriume | こおりうめ |  |  |
 | kopanda | 子パンダ |  |  |
-| kopo deluxe | こぽDELUXE |  |  |
 | koppamijin | コッパミジン |  |  |
 | koppun | 骨粉 |  |  |
 | korikori koubou | 狐狸古里工房 |  |  |
@@ -6904,7 +6819,6 @@ example:
 | koropot | ころぽっと |  |  |
 | kororofu | コロロフ |  |  |
 | koruri-ya | こるり屋 |  |  |
-| kossori kakuretokoro | こっそり隠れ処 |  |  |
 | kosuko teikoku | こすこ帝国 |  |  |
 | kosuru buta | こする豚 |  |  |
 | kotacyuya | こたちゅ屋 |  |  |
@@ -6925,7 +6839,7 @@ example:
 | kotorikan | 小鳥館 |  |  |
 | kotoshiki | コトシキ |  |  |
 | kotoyoshi wired | 琴義ワイアード |  |  |
-| kotsumidiya | こつむぢや |  |  |
+| kotsumudiya | こつむぢや |  |  |
 | kou kidou shoujo | 高機動少女 |  |  |
 | koubai gekka | 紅梅月下 |  |  |
 | koubaitei | 勾配亭 |  |  |
@@ -6979,7 +6893,6 @@ example:
 | kuikome sagi | 食い込め詐欺 |  |  |
 | kujira logic | くぢらろじっく |  |  |
 | kujuukuri nyajuu kai | 九十九里ニャ獣会 |  |  |
-| kuku-ya | くく屋 |  |  |
 | kukudou | くく堂 |  |  |
 | kukuya | くく屋 |  |  |
 | kulmov | kulmov\_ |  |  |
@@ -7058,7 +6971,6 @@ example:
 | kuromisakaijou | 黒ミサ会場 |  |  |
 | kuromogu teikoku | 黒モグ帝国 |  |  |
 | kuromori-ya | 黒森屋 |  |  |
-| kuroneko aka ribbon | 黒ねこ赤リボン |  |  |
 | kuroneko akaribon | 黒ねこ赤リボン |  |  |
 | kuroneko to taijutei | 黒猫と大樹亭 |  |  |
 | kuroneko waltz | 黒ネコワルツ |  |  |
@@ -7079,7 +6991,6 @@ example:
 | kurubusi-kai | 踝会 |  |  |
 | kuruguru dna | くるぐるDNA |  |  |
 | kurumian | くるみ庵 |  |  |
-| kururururu | くるるるる |  |  |
 | kurusugawa pikumintei | 来栖川ピクミン亭 |  |  |
 | kusanagi-blade | KUSANAGI-BLADE |  |  |
 | kusari | KUSARI |  |  |
@@ -7096,7 +7007,7 @@ example:
 | kusurin soft | くすりんソフト |  |  |
 | kutushita nijiru honpo | 靴下煮汁本舗 |  |  |
 | kuuchuusen | 空中線 |  |  |
-| kuudou e no r | 空道へのR |  |  |
+| soramitiheno-r | 空道へのR |  |  |
 | kuudou flare | 空洞フレア |  |  |
 | kuuppii | くぅっぴぃ |  |  |
 | kuurintei | 空輪艇 |  |  |
@@ -7117,7 +7028,6 @@ example:
 | kyojinkou | 巨人港 |  |  |
 | kyokutou dennou kaihatsukyoku | 極東電脳開発局 |  |  |
 | kyokutou funamushi | 極東舟虫 |  |  |
-| kyokutou tengoku | 極東天国 |  |  |
 | kyomu no uta | 虚無の歌 |  |  |
 | kyoshoku shou | 虚飾症 |  |  |
 | kyosuu shiniki | 虚数神域 |  |  |
@@ -7157,7 +7067,6 @@ example:
 | lab-star | らびすたー |  |  |
 | laboratory | Laboratory |  |  |
 | laboratory 09 | Laboratory#09 |  |  |
-| lacca | lacca |  |  |
 | lacti9 | Lacti9 |  |  |
 | lactobacillus | ラクトバシラス |  |  |
 | lactucopicrin | ラクチュコピクリン |  |  |
@@ -7171,9 +7080,8 @@ example:
 | lamchat | ラム茶っと! |  |  |
 | lamia | Lamia |  |  |
 | lamipas | lamipas |  |  |
-| land urchin | Land Urchin |  |  |
+| landurchin | Land Urchin |  |  |
 | landcut | ランドカット |  |  |
-| laomeng | LaoMeng |  |  |
 | lapis blue. | LAPIS BLUe. |  |  |
 | lapis lazuli | ラピスラズリ |  |  |
 | lapiss | Lapiss |  |  |
@@ -7201,7 +7109,7 @@ example:
 | lemniscate | レムニスケート |  |  |
 | lemon bakudan | レモンばくだん |  |  |
 | lemon cake | レモンケーキ |  |  |
-| lemon no omise | れもんのお店 |  |  |
+| remon no omise | れもんのお店 |  |  |
 | lemon zest | LEMON ZEST |  |  |
 | lemonbridge | レモンブリッジ |  |  |
 | lemontei | 檸檬亭 |  |  |
@@ -7217,7 +7125,6 @@ example:
 | leymei | LEYMEI |  |  |
 | lhezi | LHEZI |  |  |
 | liar-soft | ライアーソフト |  |  |
-| liberation | Liberation |  |  |
 | libertaria | リバタリア |  |  |
 | libido | リビドー |  |  |
 | libido kaikan | リビドー会館 |  |  |
@@ -7296,11 +7203,9 @@ example:
 | loiter | loiter |  |  |
 | lol | LOL |  |  |
 | loli goranyo | ろりーごーらんにょ |  |  |
-| loli no utage | ロリの宴 |  |  |
 | lolic system | LOLIC SYSTEM |  |  |
 | lolicon trap | ロリコントラップ |  |  |
 | lolimajin | ろりま陣 |  |  |
-| lolimate | ロリメイト |  |  |
 | lolimate seizou koujou | ロリメイト製造工場 |  |  |
 | lolli pop | Lolli\*PoP |  |  |
 | lolol | LOLOL |  |  |
@@ -7330,7 +7235,6 @@ example:
 | lovely complex | Lovely complex |  |  |
 | lovely pretty chou aishiteru | ラブリープリチー超愛してる |  |  |
 | loveolsis | らぶおるしす |  |  |
-| loverepo | ラブレボ |  |  |
 | lovesca | lovesca |  |  |
 | lovesugi | らぶすぎ |  |  |
 | low angler | ろうあんぐら～ |  |  |
@@ -7338,7 +7242,6 @@ example:
 | low-f | Low-F |  |  |
 | low-tension | Low-Tension |  |  |
 | lowhide project | LOWHIDE PROJECT |  |  |
-| lowrider. | ローライダ。 |  |  |
 | lrig lab | ルリ研 |  |  |
 | ls | LS |  |  |
 | ls-box | LS-Box |  |  |
@@ -7368,7 +7271,6 @@ example:
 | lunaterk | るなたーく |  |  |
 | lunatic | ルナティック |  |  |
 | lunatic joker | lunatic joker |  |  |
-| lunatic libretto | Lunatic Libretto |  |  |
 | lunatic orgasm | ルナティックオーガズム |  |  |
 | lunatic prophet | LUNATIC PROPHET |  |  |
 | lunatic star | ルナティックスター |  |  |
@@ -7521,7 +7423,6 @@ example:
 | mama-san ballet | ママさんバレエ |  |  |
 | mamagotoya | ままごと屋 |  |  |
 | mamagult | ママグル徒 |  |  |
-| mamamaster | マママスター |  |  |
 | mamamax | MAMAMAX |  |  |
 | mame | 豆 |  |  |
 | mamedaifukuya | 豆大福屋 |  |  |
@@ -7565,7 +7466,6 @@ example:
 | manman | まんまん |  |  |
 | manmanya | まんまん屋 |  |  |
 | manmaru hoppe | まんまるほっぺ |  |  |
-| mannendoko. | まんねんどこ。 |  |  |
 | mano-ya | まの屋 |  |  |
 | manpuchi | まんぷち |  |  |
 | mantaman | マンタマン |  |  |
@@ -7613,7 +7513,6 @@ example:
 | maru tendon | まる天丼 |  |  |
 | maruarai | まるあらい |  |  |
 | marubatsu bunko | ○×文庫 |  |  |
-| maruchizu | まるちぃず |  |  |
 | maruchuu seisaku | まるちゅう製作 |  |  |
 | marugoshi-do | 丸腰堂 |  |  |
 | maruguya.exe | まるぐ屋.exe |  |  |
@@ -7652,7 +7551,6 @@ example:
 | material | Material |  |  |
 | matilda kanmidokoro | まちるだ甘味処 |  |  |
 | matine | matine |  |  |
-| matsuaya | まっつあ屋 |  |  |
 | matsuda shin | 松田シン |  |  |
 | matsuge antenna | マツゲアンテナ |  |  |
 | matsumoto drill kenkyuujo | 松本ドリル研究所 |  |  |
@@ -7699,7 +7597,7 @@ example:
 | mdo | MDO |  |  |
 | mean machine | MEAN MACHINE |  |  |
 | mebi-ken | 女美研 |  |  |
-| mech maze | メックメイズ |  |  |
+| mach maze | メックメイズ |  |  |
 | mechanical code | メカニカルコード |  |  |
 | mechanical pencil | メカニカルペンシル |  |  |
 | mecharis | mecharis |  |  |
@@ -7768,7 +7666,7 @@ example:
 | mentaiko | MENたいこ |  |  |
 | mental sex | mental sex |  |  |
 | mental specialist | めんたるスペシャリスト |  |  |
-| menteisho | めんてい処 |  |  |
+| mentei dokoro | めんてい処 |  |  |
 | menya okamoto | 麺屋オカモト |  |  |
 | meow | MEOW |  |  |
 | meowdic core | Meowdic Core |  |  |
@@ -7792,10 +7690,9 @@ example:
 | mess zylinder | メスしりんだ～ |  |  |
 | messiah and pikaring | messiah&pikaring |  |  |
 | messiah syndrome | MessiahSyndrome |  |  |
-| mesubuta haikyuujo | 牝豚配給所 |  |  |
+| shiawase hotel | しあわせホテル | 牝豚配給所 |  |
 | mesuchanghonpo | メスチャンホンポ |  |  |
 | mesuman teikoku | メスマン帝国 |  |  |
-| mesuman toruko teikoku | メスマントルコ帝国 |  |  |
 | metabocafe offensive smell uproar | メタボ喫茶異臭騒ぎ |  |  |
 | metal drill pure chinpo land | メタルドリルピュアちんぽランド |  |  |
 | metal kids meeting | METAL KIDS MEETING |  |  |
@@ -7809,7 +7706,6 @@ example:
 | meteor | メテオ |  |  |
 | meteor garden | メテオガーデン |  |  |
 | meteor labyrinth | メテオ☆ラビリンス |  |  |
-| metoro notes | めとろのーつ |  |  |
 | metro notes | めとろのーつ |  |  |
 | metroier | メトロイヤー |  |  |
 | mexe.jp | mexe.jp |  |  |
@@ -7908,7 +7804,6 @@ example:
 | mimiya | 耳屋 |  |  |
 | mimizu thousand | ミミズサウザンド |  |  |
 | mimo hutamo | 身も蓋も |  |  |
-| mimonerando | ミモネランド |  |  |
 | mimori. | ミモリ。 |  |  |
 | mimoritei | 水護亭 |  |  |
 | mimoton | みもとん |  |  |
@@ -7964,7 +7859,6 @@ example:
 | mirukuseiki | みるく世紀 |  |  |
 | misaki ai | 美咲愛 |  |  |
 | misakix megamix | MISAKIX MEGAMIX |  |  |
-| misery. | Misery. |  |  |
 | misokko chuutai | みそっ子中隊 |  |  |
 | misonodenpatou | みそのデンパ塔 |  |  |
 | misopanya | みそパン屋 |  |  |
@@ -7990,14 +7884,12 @@ example:
 | mitsuami romance | 三つ編みロマンス |  |  |
 | mitsuiri house | みついり♡ハウス |  |  |
 | mitsuki no mori | 林樹の森～ミツキノモリ～ |  |  |
-| mitsuki no nanoka | 三月乃七日 |  |  |
 | mitsumata suihanki | 三又炊飯器 |  |  |
 | mitsunoya | みつのや |  |  |
 | mitsuya yoguru | ミツヤヨーグル |  |  |
 | miumiu | MiUMiU |  |  |
-| miura iota | 三浦いお太 |  |  |
-| miura jota | 三浦いお太｜GTワンコ |  |  |
-| miwa building | 三輪ビルヂング |  |  |
+| miura jota | 三浦いお太 |  |  |
+| mitsuwa building | 三輪ビルヂング |  |  |
 | miwaku-iro missile | 魅惑色ミサイル |  |  |
 | mix station | ミックス ステーション |  |  |
 | mix-ism | MIX-ISM |  |  |
@@ -8067,7 +7959,7 @@ example:
 | mogemogeya | モゲモゲ屋 |  |  |
 | mogetama | もげたま |  |  |
 | mogiki-chan chi | もぎきちゃんち |  |  |
-| mogulaz | Mogulaz |  |  |
+| mogullaz | Mogullaz |  |  |
 | mogumogu soft | もぐもぐソフト |  |  |
 | mogura company | MOGURA COMPANY |  |  |
 | mogura tengu | もぐら天狗 |  |  |
@@ -8078,7 +7970,6 @@ example:
 | mokumoku | もくもく |  |  |
 | mokusa | Mokusa |  |  |
 | mokusei-gaeri | 木星帰り |  |  |
-| mokushi | もくし |  |  |
 | mokuzou zabuton | モクゾウザブトン |  |  |
 | molamola.software | Molamola.software |  |  |
 | molfo | molfo |  |  |
@@ -8089,7 +7980,6 @@ example:
 | momi momi studio | もみもみスタジオ |  |  |
 | momiage rapunzel | もみあげラプンツェル |  |  |
 | momiji coffee | もみじ珈琲 |  |  |
-| momiji koubou | もみじ工房 |  |  |
 | momiji mofumofutei | 椛もふもふ亭 |  |  |
 | momiji oroshi | もみじおろし |  |  |
 | mominoki | もみの木 |  |  |
@@ -8297,12 +8187,11 @@ example:
 | murasakiiro no yoru | むらさきいろのよる |  |  |
 | murasakiiro orange | むらさきいろオレンジ |  |  |
 | murasame no yousai | 村雨の要塞 |  |  |
-| murayamamon | 村山門 |  |  |
 | murderhouse | MURDERHOUSE |  |  |
 | muremure kaisendon | むれむれ海鮮丼 |  |  |
 | murmur | murmur |  |  |
 | musansodou | 無酸素堂 |  |  |
-| musasabido | むささび堂 |  |  |
+| musasabidou | むささび堂 |  |  |
 | musashi-dou | 武蔵堂 |  |  |
 | muscadet | ミュスカデ |  |  |
 | muse | MUSE |  |  |
@@ -8312,12 +8201,10 @@ example:
 | mushimusume aikoukai | 蟲娘愛好会 |  |  |
 | mushiringo | むしりんご |  |  |
 | mushiyaki | むしやき!! |  |  |
-| mushoku santarou | 無色三太郎 |  |  |
 | mushroom pig | マッシュルームピッグ |  |  |
 | mushroom shoutengai | マッシュルーム商店街 |  |  |
 | musukichi | むす吉 |  |  |
 | mutospectacle | 無糖スペクタクル |  |  |
-| mutou koucha | 無糖紅茶 |  |  |
 | mutsukidou | 睦月堂 |  |  |
 | mutsuraboshi | むつらぼし |  |  |
 | mutsuya | 陸奥屋 |  |  |
@@ -8371,7 +8258,6 @@ example:
 | naguu no shiro | なぐうの城 |  |  |
 | nahabaru | ナハバル |  |  |
 | nahapuro | なはぷろ |  |  |
-| naisu kecha | ナイスケチャ |  |  |
 | naitou kirara | 内藤キララ |  |  |
 | naitou2 | NAITOU2 |  |  |
 | naivta | ナイーブタ |  |  |
@@ -8452,12 +8338,10 @@ example:
 | nankotsu age rice | なんこつ揚げライス |  |  |
 | nankyoku | なんきょく |  |  |
 | nano royal | Nano Royal |  |  |
-| nanohana800 | なのはな800 |  |  |
 | nanokah | なのかH |  |  |
 | nansyu-koubow | 南洲好房 |  |  |
 | nantan e | 南端へ |  |  |
 | nantoka narunaru. | なんとかなるなる。 |  |  |
-| naojisan | なおじさん |  |  |
 | napier sabre | Napier Sabre |  |  |
 | napolinu | napolinu |  |  |
 | naranashitori | ならなしとり |  |  |
@@ -8465,7 +8349,6 @@ example:
 | narimasuya | なります屋 |  |  |
 | narukotei | 鳴狐亭 |  |  |
 | naruto kenkyu sha | なると研究社 |  |  |
-| naruto kenkyuusha | なると研究社 |  |  |
 | nas-on-ch | NAS-ON-CH |  |  |
 | nasi-pasuya | なしぱす屋 |  |  |
 | nasubi knight | ナスビ騎士 |  |  |
@@ -8518,7 +8401,7 @@ example:
 | negibouzu | ねぎ坊主 |  |  |
 | negimaers | ねぎまーず |  |  |
 | neginegio | ネギネギ夫 |  |  |
-| negitotakenoko | ねぎとたけのこ |  |  |
+| negi to takenoko | ねぎとたけのこ |  |  |
 | negoro teppou tai | 根来鉄砲隊 |  |  |
 | negoto | negoto |  |  |
 | negoya | 寝語屋 |  |  |
@@ -8533,8 +8416,8 @@ example:
 | neko bus unsou | ねこばす運送 |  |  |
 | neko daifuku | ねこ大福 |  |  |
 | neko irazu | 猫イラズ |  |  |
-| neko jarasa re | 猫じゃらされ |  |  |
-| neko jarashi | 猫じゃらし |  |  |
+| nekojarashy | 猫じゃらし |  |  |
+| nekojarashi | 猫じゃらし |  |  |
 | neko kan | ねこ缶 |  |  |
 | neko kinryouku | 猫禁猟区 |  |  |
 | neko melonya | 猫メロン屋 |  |  |
@@ -8557,7 +8440,7 @@ example:
 | neko-rise | Neko-rise |  |  |
 | nekoarashi | ねこあらし |  |  |
 | nekoashi sanbi | 猫足讃美 |  |  |
-| nekobakuchi | 猫驀地 |  |  |
+| nekomasshigura | 猫驀地 |  |  |
 | nekodaisuki | 猫大好き |  |  |
 | nekodotto | ネコドット |  |  |
 | nekogoro | ねこごろ |  |  |
@@ -8565,22 +8448,17 @@ example:
 | nekohige radio | 猫ひげラジオ |  |  |
 | nekohigetei | ねこひげ亭 |  |  |
 | nekoiro | ネコイロ |  |  |
-| nekojarashi | 猫じゃらし |  |  |
-| nekojarashy | 猫じゃらし |  |  |
 | nekokabe | ネコカベ |  |  |
 | nekokaburi | ネコかブリ |  |  |
 | nekokagerou | 猫蜻蛉 |  |  |
 | nekokota | nekokotA |  |  |
 | nekomajin | ねこまじん |  |  |
 | nekomakura soft | ねこまくらsoft |  |  |
-| nekomarudow | 猫丸堂 |  |  |
-| nekomasshigura | 猫驀地 |  |  |
 | nekomatakan | 猫又館 |  |  |
 | nekomeshiya | ねこめし屋 |  |  |
 | nekomikan aruiwa nekomikan | 猫美館或いは猫蜜柑 |  |  |
 | nekomimi catharsis | 猫耳カタルシス |  |  |
 | nekomiya | 猫見屋 |  |  |
-| nekomonidoh | ネコモニ堂 |  |  |
 | nekonetoru | ネコネトル |  |  |
 | nekonin-so | 猫忍荘 |  |  |
 | nekono kaweruya | ネコノカヱルヤ |  |  |
@@ -8608,7 +8486,6 @@ example:
 | nemaki | ねまき |  |  |
 | nemokoroppu | ネモコロップ |  |  |
 | nemuke | nemuke? |  |  |
-| nemuribako | 眠り箱 |  |  |
 | nemurineko | ねむりねこ |  |  |
 | nemutai neko | 眠たい猫 |  |  |
 | nengaranenjuu | 年がら年中 |  |  |
@@ -8652,7 +8529,6 @@ example:
 | ni | Ni |  |  |
 | nibarera | にばれら |  |  |
 | nibiiro no sora | 鈍色の空 |  |  |
-| nibo niboshi | にぼ煮干 |  |  |
 | nibunn no ichi | にぶんのいち! |  |  |
 | nichijou superumisu | 日常すぺるみす |  |  |
 | nico | nico |  |  |
@@ -8722,7 +8598,7 @@ example:
 | nino-kan | にのカン |  |  |
 | niponipo | にぽにぽ |  |  |
 | nipopo crisis | ニポポクライシス |  |  |
-| nippatsu shika ataranai | 2発しか当たらない |  |  |
+| nihatsu shika ataranai | 2発しか当たらない |  |  |
 | nipple mokuba | にっぷる木馬 |  |  |
 | nippon teikoku toshokan | 日本帝國図書館 |  |  |
 | nipponbashi dennougumi | ニッポンバシ電脳組 |  |  |
@@ -8735,13 +8611,12 @@ example:
 | nisemonogoya | ニセもの小屋 |  |  |
 | nisepakudo | 偽朴堂 |  |  |
 | nisha takuitsu | 二沙択一 |  |  |
-| nishin sanshin | にしん三振 |  |  |
+| nisin sansin | にしん三振 |  |  |
 | nishiogi koubou | 西荻工房 |  |  |
-| nisin sansin | 二シン三振 |  |  |
 | nita ken | ニタ研 |  |  |
 | nita-kane | 煮た鐘 |  |  |
 | nitaroutei | ニタロウ亭 |  |  |
-| nitch industry | にっちさんぎょう |  |  |
+| nicchi sangyou | にっちさんぎょう |  |  |
 | nitiniti sowa | 日々草話 |  |  |
 | niwakakamikiriyamodoki | ニワカカミキリヤモドキ |  |  |
 | niwatori | にわとり |  |  |
@@ -8751,7 +8626,6 @@ example:
 | nizeru | 煮ぜる |  |  |
 | niziyumedokoro | 虹夢処 |  |  |
 | nna timun | んつぁてぃむん |  |  |
-| nns | nnS |  |  |
 | nnz dan | NNZ団 |  |  |
 | no actor | NO ACTOR |  |  |
 | no brand | NO BRAND |  |  |
@@ -8796,13 +8670,11 @@ example:
 | nopland | noPland |  |  |
 | noppera koubou | のっぺら工房 |  |  |
 | nora | 野良 |  |  |
-| norainu | 野良犬 |  |  |
 | norakurari. | のらくらり。 |  |  |
 | noraneko koubou | ノラ猫工房 |  |  |
 | noranoma | noranoma |  |  |
 | noraya | のら屋 |  |  |
 | nori tokumori | 海苔特盛 |  |  |
-| nori5rou | のり伍郎 |  |  |
 | noriajou | のりあ城 |  |  |
 | norihee ginjou | のりへぇ吟醸 |  |  |
 | norinori seika | のりのり製菓 |  |  |
@@ -8833,13 +8705,12 @@ example:
 | nowhere | NOWHERE |  |  |
 | noxious plant | noxious plant |  |  |
 | noyau | noyau |  |  |
-| noysca | noysca |  |  |
 | nozarashi | のざらし |  |  |
 | nozubeya | 野図部屋 |  |  |
 | nozzo gt | のっつぉGT |  |  |
 | np virus jouryuusho | NPウイルス蒸留所 |  |  |
 | ns2k | ns2k |  |  |
-| nsg | NSG |  |  |
+| dondondon | どんどんどん | NSG |  |
 | nt confess | NTconfess |  |  |
 | ntlabo | NTラボ |  |  |
 | ntr king | NTR キング |  |  |
@@ -8847,7 +8718,6 @@ example:
 | ntr system | NTRシステム |  |  |
 | ntrbear | Ntrbear |  |  |
 | nu | Nu |  |  |
-| nui | Nui |  |  |
 | nui gohan | ぬいごはん |  |  |
 | nuigurumiya-san | ぬいぐるみやさん |  |  |
 | nuit | nuit |  |  |
@@ -8878,7 +8748,6 @@ example:
 | nw-project | NW-project |  |  |
 | nwa | nWa |  |  |
 | nwonyo pasun | んをんよ・ぱすん |  |  |
-| nxc termite | N×Cてるみっと |  |  |
 | nxcthermit | N×Cてるみっと |  |  |
 | nyaa nyaa koushinjo | にゃ～にゃ～興信所 |  |  |
 | nyaa. to hidamari | にゃー。とひだまり |  |  |
@@ -8958,7 +8827,7 @@ example:
 | ogura tankenka | 小倉探検家 |  |  |
 | oguradou | 小倉堂 |  |  |
 | oh-banzai studio | おばんざい☆スタジオ |  |  |
-| ohagi | おはぎ。 |  |  |
+| ohagi. | おはぎ。 |  |  |
 | ohakotomeno | おはことめの |  |  |
 | oharaibako | 御祓箱 |  |  |
 | ohige | おひげ |  |  |
@@ -8975,7 +8844,7 @@ example:
 | oiyoko | オイヨコ |  |  |
 | ojin koukoku | オジン公国 |  |  |
 | ojmomo | OJmomo |  |  |
-| okachimentaiko | おかちめんたいこ｜おかちめんたいこ制作室 |  |  |
+| okachimentaiko | おかちめんたいこ |  |  |
 | okameya honpo | おかめや本舗 |  |  |
 | okami kaikou | おかみかいこう |  |  |
 | okashi na denpa | お可視な電波 |  |  |
@@ -9068,7 +8937,7 @@ example:
 | ooitei | 大井亭 |  |  |
 | oojinushi | おおじ主 |  |  |
 | ookami shoujo yuugi dan | 狼少女遊戯団 |  |  |
-| ooki na kodomo no omocha bako | 大きな子供のおもちゃ箱 |  |  |
+| ookina kodomo no omocha bako | 大きな子供のおもちゃ箱 |  |  |
 | oomorian | 大森庵 |  |  |
 | ootsuku shouji | 大津久商事(有) |  |  |
 | oozora kaiko | 大空カイコ |  |  |
@@ -9105,8 +8974,7 @@ example:
 | organico | おるがにこ |  |  |
 | orgasmpotential | orgasmpotential |  |  |
 | oriental lattice | Oriental Lattice |  |  |
-| orifice | Orifice |  |  |
-| origami farm | 折紙牧場 |  |  |
+| origami farm | 折纸牧场 |  |  |
 | orihime-bunko | 織姫文庫 |  |  |
 | orubara | オルバラ |  |  |
 | orukaniumu-labo | orukaniumu-labo |  |  |
@@ -9237,7 +9105,7 @@ example:
 | panjandrum | Panjandrum |  |  |
 | pankoppe | ぱんこっぺ |  |  |
 | pannacotta | Pannacotta |  |  |
-| panorama kan | ぱのらま館 |  |  |
+| panoramakan | ぱのらま館 |  |  |
 | panorama tsuushinkyoku | パノラマ通信局 |  |  |
 | panteitei | PanTei亭 |  |  |
 | pantie party project | Pantie Party Project |  |  |
@@ -9287,7 +9155,6 @@ example:
 | patoto | PATOTO |  |  |
 | patricide | PATRICIDE |  |  |
 | pavington | Pavington |  |  |
-| payanikovu | ぱやニコフ |  |  |
 | pazooka | Pazooka |  |  |
 | pazzo s.p. | Pazzo S.P. |  |  |
 | pe theta | Peθ |  |  |
@@ -9336,7 +9203,7 @@ example:
 | petit ego | ぷちえご! |  |  |
 | petit machiya | ぷち町屋 |  |  |
 | petite x cerisier | Petite＊Cerisier |  |  |
-| petitpack | Petit Pack |  |  |
+| petit pack | Petit Pack |  |  |
 | peto-ya | ぺと屋 |  |  |
 | pets | PETS |  |  |
 | pettanko | ペッたんコっ! |  |  |
@@ -9385,7 +9252,7 @@ example:
 | pine | ぱいん |  |  |
 | pine candy | PINE CANDY |  |  |
 | pineapple candy | パイナップルキャンディ |  |  |
-| ping-point | ピンポイント |  |  |
+| pinpoint | ピンポイント |  |  |
 | pink bat | ピンクバット |  |  |
 | pink cherry cocktail | Pink Cherry Cocktail |  |  |
 | pink chuchu | PINK CHUCHU |  |  |
@@ -9409,7 +9276,6 @@ example:
 | pinkjoe | pinkjoe |  |  |
 | pinktips.info | pinktips.info |  |  |
 | pinky girl | PINKY GIRL |  |  |
-| pinpoint | ピンポイント |  |  |
 | pintsize | ぱいんとさいず |  |  |
 | pipapipa9 | pipapipa9 |  |  |
 | pipasuta | ぴぱスタ |  |  |
@@ -9459,11 +9325,10 @@ example:
 | plus donburi | +丼 |  |  |
 | plus elegy | +Elegy |  |  |
 | plus house | Plus house |  |  |
-| plus ten | Plus Ten |  |  |
+| plus10 | Plus Ten |  |  |
 | plus810 | +810 |  |  |
 | pluto | プルート |  |  |
 | pm02 colon 00 | pm02:20 |  |  |
-| pm200 | pm02:00 |  |  |
 | pno group | PNO グループ |  |  |
 | pno. | PNO. |  |  |
 | pnp | ピィーエヌピィー |  |  |
@@ -9510,7 +9375,6 @@ example:
 | pony roll | PONY ROLL (青沢由紀) |  |  |
 | ponyfarm | ポニー牧場 |  |  |
 | ponys bridle | PONY'S BRIDLE |  |  |
-| ponz info | ponz.info |  |  |
 | ponz.info | ponz.info |  |  |
 | ponzoom | ぽんずーむ |  |  |
 | ponzu ame | ぽんずアメ |  |  |
@@ -9522,7 +9386,6 @@ example:
 | popo candy | ぽぽきゃんでぃ |  |  |
 | popo doctrine | ポポドクトリン |  |  |
 | popoin | ぽぽいん |  |  |
-| popping shower | ポッピングシャワー |  |  |
 | poppozu | ポッポーズ |  |  |
 | popship | ポップシップ |  |  |
 | popshot | POPSHOT |  |  |
@@ -9823,7 +9686,6 @@ example:
 | remagi | リメイジ |  |  |
 | remationmade | リメーションメイド |  |  |
 | remnants | Remnants |  |  |
-| remon no omise | れもんのお店 |  |  |
 | remonsan project | Remonsan Project |  |  |
 | remora field | remora field |  |  |
 | remora works | remora works |  |  |
@@ -9840,7 +9702,6 @@ example:
 | rensougyo | 蓮双魚 |  |  |
 | rental senkan | レンタル戦艦 |  |  |
 | renyaa hearts | レンヤーハーツ |  |  |
-| reparashion | レパラシオン |  |  |
 | reparation | レパラシオン |  |  |
 | replicailia | レプリカイリア |  |  |
 | resemble blue | Resemble Blue |  |  |
@@ -9975,7 +9836,6 @@ example:
 | royal moon | Royal Moon |  |  |
 | royal.s | ロイヤル・S |  |  |
 | royalwatts | ROYALWATTS |  |  |
-| rpg company | RPGカンパニー2 |  |  |
 | rr kenkyuukai | RR研究会 |  |  |
 | rro | RRO |  |  |
 | rrr | RRR |  |  |
@@ -10059,7 +9919,7 @@ example:
 | sae | 冴 |  |  |
 | safire | SAFIRE |  |  |
 | saga angel | SAGA Angel |  |  |
-| sagamani | サガマニ |  |  |
+| sagamani. | サガマニ。 |  |  |
 | sagano line | さがのせん |  |  |
 | sage | Sage |  |  |
 | saicoro chick | サイコロちっく |  |  |
@@ -10071,7 +9931,7 @@ example:
 | saikawa youzyo | さぃヵゎ♡ょぅι゛ょ |  |  |
 | saiki industrial | 佐伯重工 |  |  |
 | saiko smiling show | サイコすまいりんぐショウ |  |  |
-| saikyou gakuen | 最強学園 |  |  |
+| saikyo gakuen | 最強学園 |  |  |
 | sail-ring on | Sail-ring on |  |  |
 | sailor q2 | SAILOR Q2 |  |  |
 | saimin sushiya | 催眠すし屋 |  |  |
@@ -10094,9 +9954,8 @@ example:
 | sakasadorirakka | 逆さ鳥落下 |  |  |
 | sakasama clover | さかさまクローバー |  |  |
 | sakazuki-tei | さかずき亭 |  |  |
-| sake ichiba | サケ市場 |  |  |
+| sakeitiba | サケ市場 |  |  |
 | sake no sanran | 鮭の産卵 |  |  |
-| sakeitiba | サケイチバ |  |  |
 | sakekan memorial | 鮭缶メモリアル |  |  |
 | saketanuki no kakushigura | 酒たぬきの隠し蔵 |  |  |
 | saketoba meshi | 鮭とば飯 |  |  |
@@ -10137,20 +9996,18 @@ example:
 | sakuya no hakoniwa | 昨夜の箱庭 |  |  |
 | sakuya17sai | 咲耶17歳 |  |  |
 | sakyuu | 砂丘 |  |  |
-| sakyuuya | 砂丘屋 |  |  |
 | salad abura | サラダ油 |  |  |
 | salmon daisuki club | サーモンだいすきクラブ |  |  |
 | salt peanuts | Salt Peanuts |  |  |
 | salvage kouboh | サルヴェージ工房 |  |  |
 | samalimi | samalimi |  |  |
 | sameno soft cream | 鮫野ソフトクリーム |  |  |
-| samenoteishoku | 鮫野定食 |  |  |
 | samgyetang | サムゲタン |  |  |
 | samonaberu | サモナベール |  |  |
 | samugakupetti | SGPT |  |  |
 | samurai | 侍 |  |  |
 | samurai shipmaru | さむらいシップ丸 |  |  |
-| san ore | さんおれ |  |  |
+| sunora | さんおれ |  |  |
 | sana house | Sana House |  |  |
 | sanazura doujinshi hakkoujo | さなづら同人誌発行所 |  |  |
 | sanb. | さんびー。 |  |  |
@@ -10162,7 +10019,6 @@ example:
 | sandansu | sandansu |  |  |
 | sandglass | sandglass |  |  |
 | sangatsu no lion | 三月のライオン |  |  |
-| sangatsu no nanoka | 三月乃七日 |  |  |
 | sangatsu no osakai | 三月のお茶会 |  |  |
 | sangenkaidou | 三弦回胴 |  |  |
 | sangenshokudou | 三原色堂 |  |  |
@@ -10226,16 +10082,15 @@ example:
 | satsukiimonet | satsukiimonet |  |  |
 | satsukinchi | サツキん家 |  |  |
 | saturday night special | Saturday Night Special |  |  |
-| satyrion | Satyrion |  |  |
+| aurorasoft | AuroraSoft | Satyrion |  |
 | sausage koubou | ソーセージ工房 |  |  |
 | savageland | SavageLand |  |  |
 | sawa chaya | さわ茶屋 |  |  |
 | sawaraya shoten | 佐原屋書店 |  |  |
-| saya products | SAYA PRODUCTS |  |  |
 | sayakata kouchakan | さやかた紅茶館 |  |  |
 | sayonara hornet | サヨナラホーネット |  |  |
 | sayupot | さゆぽっと |  |  |
-| sayuuhanten | サユウハンテン |  |  |
+| sayuu-hanten | サユウハンテン |  |  |
 | sazameki dori | さざめき通り |  |  |
 | sazanka no yado | 山茶花の宿 |  |  |
 | sazareito | さざれいと |  |  |
@@ -10286,7 +10141,6 @@ example:
 | seigi no yakata | セイギノヤカタ |  |  |
 | seigou | せいごう |  |  |
 | seiheki master | セイヘキマスター |  |  |
-| seiikkyou | 性一教 |  |  |
 | seikan hitchhiker | 星間ヒッチハイカー |  |  |
 | seikatsu seshishou | 性活窃視症 |  |  |
 | seikinkan | 星菫館 |  |  |
@@ -10301,7 +10155,7 @@ example:
 | seizousha | 性造社 |  |  |
 | sekai chizu wa chi no ato | 世界地図は血の跡 |  |  |
 | sekai kakumei club | 世界革命倶楽部 |  |  |
-| sekai no hateni hanatabawo | 世界の果てに花束を。 |  |  |
+| sekai no hate ni hanataba o. | 世界の果てに花束を。 |  |  |
 | sekai no tomizawa | 世界のTOMIZAWA |  |  |
 | sekai saiko | 世界最古 |  |  |
 | seken no katasumi | 世間の片隅 |  |  |
@@ -10322,7 +10176,6 @@ example:
 | sen | 煎 |  |  |
 | sen ka | SEN\_KA |  |  |
 | sen.exe | sen.exe |  |  |
-| senaka kikaku | せなか企画 |  |  |
 | senarinko | senarinko |  |  |
 | senba kitchen | 船場きっちん |  |  |
 | senbata rom | せんばたROM |  |  |
@@ -10389,7 +10242,6 @@ example:
 | sherbet soft | シャーベットソフト |  |  |
 | shi shi shijimi | SHI SHI しじみ |  |  |
 | shi-kugakari saru | 飼育係さる |  |  |
-| shi-zu house | しーずはうす |  |  |
 | shian | 紫庵 |  |  |
 | shiashiya | しあし屋 |  |  |
 | shiawase kanmiryou | しあわせ甘味料 |  |  |
@@ -10461,7 +10313,7 @@ example:
 | shinkai saboten | 深海サボテン |  |  |
 | shinkai seizu | 深海星図 |  |  |
 | shinkan ochimashita | 新刊堕ちました |  |  |
-| shinkouzan tozantai | 新高山登山隊 |  |  |
+| niitakayama tozantai | 新高山登山队 |  |  |
 | shinkuraiku | しんくらいく |  |  |
 | shinmichikai | 真道会 |  |  |
 | shinnihon pepsitou | 新日本ペプシ党 |  |  |
@@ -10481,9 +10333,8 @@ example:
 | shiotsuki suien | 汐月水園 |  |  |
 | shioya | 塩屋 |  |  |
 | shioya abu tsuushin | 塩屋虻通信 |  |  |
-| shioyaki | しおやき |  |  |
-| shioyama bou | 潮山ぼう |  |  |
-| shioyude | しおゆで |  |  |
+| sioyaki | しおやき |  |  |
+| sioyude | しおゆで |  |  |
 | shippo banchou | しっぽ番長 |  |  |
 | shippuudotou | 疾風怒濤 |  |  |
 | shirakaba doori | 白樺通り |  |  |
@@ -10494,7 +10345,6 @@ example:
 | shirasugayu | 白子粥 |  |  |
 | shiratama | しらたま |  |  |
 | shiratamarch | しらたまーち |  |  |
-| shirayuki kujira | しらゆきくじら |  |  |
 | shirayuki shoujodan | 白雪少女団 |  |  |
 | shirikageru taberu | シリカゲルタベル |  |  |
 | shiritsu sakuranbo shougakkou | 私立さくらんぼ小学校 |  |  |
@@ -10578,10 +10428,9 @@ example:
 | shounin eden | 聖人エデン |  |  |
 | shouwa kara heisei e | 昭和から平成へ |  |  |
 | shouwa prism | 昭和プリズム |  |  |
-| shouwa saishuu sensen | 昭和最終戦線 |  |  |
-| shouyu gohan | しょうゆごはん |  |  |
-| showa juukou | 昭和重工 |  |  |
 | showa saishuu sensen | 昭和最終戦線 |  |  |
+| shouyu gohan | しょうゆごはん |  |  |
+| syowajukou | 昭和重工 |  |  |
 | shrine | SHRINE |  |  |
 | shudoushiki denki jidousha | 手動式電気自動車 |  |  |
 | shukketsu kansatsu nikki | 出血観察日記 |  |  |
@@ -10606,7 +10455,7 @@ example:
 | sigmanica | SIGMANICA |  |  |
 | signal go | SIGNaL\_GO |  |  |
 | signal group | シグナルグループ |  |  |
-| signal red | SignalRed |  |  |
+| signalred | SignalRed |  |  |
 | signal yellow | しぐなるいえろー |  |  |
 | signares jigen | シグナレス次元 |  |  |
 | signstandard | サインスタンダード |  |  |
@@ -10639,7 +10488,6 @@ example:
 | sion | SION |  |  |
 | siooninco | 塩おにんこ |  |  |
 | siop | 単一統合作戦計画 |  |  |
-| sioyaki | しおやき |  |  |
 | sippo-soft | SIPPO-SOFT |  |  |
 | siratama nikukyuu | しらたま肉球 |  |  |
 | siratamadon | 白玉丼 |  |  |
@@ -10717,7 +10565,6 @@ example:
 | sobalabo | sobalabo |  |  |
 | sobaworks | sobaworks |  |  |
 | socarrat | socarrat |  |  |
-| sochikochi | ソチコチ |  |  |
 | soda batake | ソーダ畑 |  |  |
 | soda rain | Soda Rain |  |  |
 | sodenosumi | 袖の墨 |  |  |
@@ -10749,7 +10596,6 @@ example:
 | sonnet | Sonnet |  |  |
 | sonograph | sonograph |  |  |
 | sonohigurashi | その日ぐらし |  |  |
-| sonota oozei | その他大勢 |  |  |
 | sonotaozey | その他大勢 |  |  |
 | sora mint | ソラミント |  |  |
 | sora no colors | 空のCOLORS |  |  |
@@ -10764,7 +10610,6 @@ example:
 | sorairo panda | 空色パンダ |  |  |
 | sorairo telephone | ソライロテレフォン |  |  |
 | soramimi | そらみみ |  |  |
-| soramitiheno-r | 空道へのR |  |  |
 | soramune | そらむね |  |  |
 | sorasore | そらそれ |  |  |
 | soratobu mighty python | 空飛ぶマイティ・パイソン |  |  |
@@ -10775,7 +10620,6 @@ example:
 | sorudeia | そるでいあ |  |  |
 | soseidoh | 想成堂 |  |  |
 | sosl | SOSL |  |  |
-| sottile nero | ソッティーロネーロ |  |  |
 | sou soul | Sou Soul |  |  |
 | souchou bazooka | 早朝バズーカ |  |  |
 | souchou no koubou | 曹長の工房 |  |  |
@@ -10804,7 +10648,6 @@ example:
 | space cat | スペースキャット |  |  |
 | space whale | スペースくじら |  |  |
 | special action force | SPECIAL ACTION FORCE |  |  |
-| special g | すぺしゃるじー |  |  |
 | speed | SPEED |  |  |
 | speed of sound | Speed of Sound |  |  |
 | spelflare | すぺるふれあ |  |  |
@@ -10823,7 +10666,6 @@ example:
 | spinergy | SPINERGY |  |  |
 | spira mirabilis | スピラ・ミラビリス |  |  |
 | spiral | すぱいらる |  |  |
-| spiral cucumber | 螺旋きゅうり |  |  |
 | spirit-edge | Spirit-Edge |  |  |
 | splush wave | SPLUSH WAVE |  |  |
 | spongehead | スポンジヘッド |  |  |
@@ -10866,7 +10708,6 @@ example:
 | starworks | STARWORKS |  |  |
 | stasis | ステイシス |  |  |
 | state of see | ステートオブシー |  |  |
-| stateofsee | ステートオブシー |  |  |
 | statice | スターチス |  |  |
 | status doku | ステータスどく |  |  |
 | stay gold | STAY GOLD |  |  |
@@ -10891,8 +10732,7 @@ example:
 | straight | Straight |  |  |
 | strand kyokusen gai | ストランド曲線街 |  |  |
 | strange beast | ストレンジビースト |  |  |
-| strange coquetry | ストレンジ コケットリー |  |  |
-| strange coquetterie | ストレンジコケットリー |  |  |
+| strange coquetry | ストレンジコケットリー |  |  |
 | strange pop | STRANGE POP |  |  |
 | strangesagittarius | StrangeSagittarius |  |  |
 | stratos | STRATOS |  |  |
@@ -10989,7 +10829,7 @@ example:
 | studio retake | スタジオリテイク |  |  |
 | studio runaway wolf | STUDIO RUNAWAY WOLF |  |  |
 | studio ryokucha | すたじお緑茶 |  |  |
-| studio sakura | Studio Sakura |  |  |
+| studio-sakura | Studio-Sakura |  |  |
 | studio sample | Studio SAMPLE |  |  |
 | studio sepia | スタジオセピア |  |  |
 | studio sfc | スタジオSFC |  |  |
@@ -11008,13 +10848,11 @@ example:
 | studio triumph | STUDIO TRIUMPH |  |  |
 | studio ubai | スタジオ奪 |  |  |
 | studio walk | studio WALK |  |  |
-| studio wolt | すたぢおヲルト |  |  |
 | studio woruto | すたぢおヲルト |  |  |
 | studio z-agnam | スタジオZ-AGNAM |  |  |
 | studio z.m | STUDIO Z.M |  |  |
 | studio zonzai | STUDIOぞんざい |  |  |
 | studio-74 | Studio-74 |  |  |
-| studio-sakura | Studio-Sakura |  |  |
 | studio.h.a.o | Studio.好 |  |  |
 | studio187 | studio187 |  |  |
 | studio309 | Studio309 |  |  |
@@ -11024,7 +10862,6 @@ example:
 | style-c3 | スタイルシースリー |  |  |
 | stylish marunage | スタイリッシュ丸投げ |  |  |
 | styworks | STYworks |  |  |
-| styx | STYX |  |  |
 | subachikyu | すばちきゅ! |  |  |
 | subapai-jigyobu | すばパイ事業部 |  |  |
 | subaruen himawarigumi | すばる園ひまわり組 |  |  |
@@ -11077,8 +10914,7 @@ example:
 | sumeragi designs | 皇DESIGNS |  |  |
 | sumicco. | すみっこ。 |  |  |
 | sumikko | すみっこ |  |  |
-| sumire club 8823 | スミレ倶楽部8823 |  |  |
-| sumire club | スミレ倶楽部｜スミレ倶楽部8823 |  |  |
+| sumire club | スミレ倶楽部 |  |  |
 | sumisumi dou | スミスミ堂 |  |  |
 | summer child | SUMMER CHILD |  |  |
 | sumomo dou | すもも堂 |  |  |
@@ -11171,7 +11007,6 @@ example:
 | t.k.h.k | T・K・H・K |  |  |
 | t2 unit | T2 UNIT |  |  |
 | t2000 | T2000 |  |  |
-| tabichisanchi | たぶちさんち |  |  |
 | tabidori | 旅鳥 |  |  |
 | tabisuke to panda | 旅輔とパンダ |  |  |
 | tabito | 旅人 |  |  |
@@ -11218,7 +11053,6 @@ example:
 | takahashi record-ten | 高橋レコード店 |  |  |
 | takaiwerks | TAKAIWERKS |  |  |
 | takamagaharahouraku | 高天ヶ原崩落 |  |  |
-| takamiya hairi | たかみやはいり |  |  |
 | takane no hanazono | たかねの花園 |  |  |
 | takaneko | たかねこ |  |  |
 | takanicle | てかにくる |  |  |
@@ -11289,7 +11123,6 @@ example:
 | tanpopo | ■■■たんぽぽ■■■ |  |  |
 | tanpopo suisan | たんぽぽ水産 |  |  |
 | tansan senbei | タンサンセンベイ |  |  |
-| tanshio | たん塩 |  |  |
 | tanuki ichiba | たぬき市場 |  |  |
 | tanuki no sato | 狸の里 |  |  |
 | tanuki no takarabako | たぬきの宝箱 |  |  |
@@ -11305,7 +11138,6 @@ example:
 | tarapo | TARAPO |  |  |
 | tarchi | Tarchi |  |  |
 | taromochian | 太呂餅庵 |  |  |
-| taroro | たろろ |  |  |
 | tarots | TAROTS |  |  |
 | tarugun | たるぐん |  |  |
 | tata | TATA |  |  |
@@ -11313,7 +11145,7 @@ example:
 | tate | 殺陣 |  |  |
 | tate-a-tate | tate-A-tate |  |  |
 | tateana juukyo | 竪穴住居 |  |  |
-| tategami 5-chome | たてがみ5丁目 |  |  |
+| tategami 5tyoume | たてがみ5丁目 |  |  |
 | tatesima. | タテシマ。 |  |  |
 | tateyama engineering | 館山エンジニアリング |  |  |
 | tatintotarte | たたんとたると |  |  |
@@ -11400,7 +11232,7 @@ example:
 | tengudou | テング堂 |  |  |
 | tenguren | 天愚連 |  |  |
 | tengusa | テングサ |  |  |
-| tengusuten | テングステン |  |  |
+| tengsten | テングステン |  |  |
 | tenhaii | 天海一 |  |  |
 | tenjo kakuhen | 天井確変 |  |  |
 | tenjou renge | 天上蓮華 |  |  |
@@ -11437,7 +11269,6 @@ example:
 | teruo haruo | てるおはるお |  |  |
 | teruterubocchi | てるてるぼっち |  |  |
 | tesla pod | てすらpod |  |  |
-| testa chuubou | てすた厨房 |  |  |
 | tesuri no post | 手すりのポスト |  |  |
 | tetchan hato | てっちゃんハト |  |  |
 | tete a tete fragile | tete a tete fragile |  |  |
@@ -11452,7 +11283,6 @@ example:
 | tetsugakuteki zombie | 哲学的ゾンビ |  |  |
 | tetsukazuno ao. | 手つかずの青。 |  |  |
 | tetsukuzuya | 鉄屑屋 |  |  |
-| tetsunohiji | てつのひじ |  |  |
 | tex-mex | TEX-MEX |  |  |
 | tga | TGA |  |  |
 | th4 | Throttle/4 |  |  |
@@ -11469,12 +11299,11 @@ example:
 | the rettoukan | THE 劣等感 |  |  |
 | the saturn | THE SATURN |  |  |
 | the seventh sign | The Seventh Sign |  |  |
-| the shakya | ザ借家 |  |  |
+| theeshakya | ザ借家 |  |  |
 | the super dimension dirty empire | 超時空猥褻帝国 |  |  |
 | the world | The World |  |  |
 | the-franken | THE・FRANKEN |  |  |
 | the-paper | THE-PAPER |  |  |
-| theeshakya | ザ借家 |  |  |
 | theory of heaven | Theory of HEAVEN |  |  |
 | third brand | THIRD BRAND |  |  |
 | third foot | サードフット |  |  |
@@ -11496,7 +11325,6 @@ example:
 | timplu | ティンプラ |  |  |
 | tinkerbell | てぃんかーべる |  |  |
 | tinkle position | Tinkle Position |  |  |
-| tinmeshi | ちんめし処 |  |  |
 | tiny potato | Tiny potato |  |  |
 | tinyking | TinyKing |  |  |
 | tipoplaza | ティポプラーザ |  |  |
@@ -11519,7 +11347,6 @@ example:
 | tnc. | TNC. |  |  |
 | toaster | トースター |  |  |
 | tobatya2ke | とばちゃづけ |  |  |
-| tobi hizageri | とびひざげり |  |  |
 | tobihizageri | とびひざげり |  |  |
 | tobuchikara | 飛ぶちから |  |  |
 | toculitoc | とくりとっこ |  |  |
@@ -11577,7 +11404,6 @@ example:
 | tombstone | Tombstone |  |  |
 | tomcat | TomCat |  |  |
 | tomofuku | とも福 |  |  |
-| tomupon | とむぽん |  |  |
 | ton toro | とんとろ |  |  |
 | tonari no dagashiya-san | となりの駄菓子屋さん |  |  |
 | tondemo awabihime | とんでもあわび姫 |  |  |
@@ -11597,7 +11423,6 @@ example:
 | top | TOP |  |  |
 | topcat | トップキャット |  |  |
 | topgun | TOPGUN |  |  |
-| tora kayashiki | 虎小屋敷 |  |  |
 | tora koubou | 寅工房 |  |  |
 | tora tamatama | とらたまたま |  |  |
 | toragoyashiki | 虎小屋敷 |  |  |
@@ -11608,7 +11433,6 @@ example:
 | torara studio | トララスタジオ |  |  |
 | toratanuza | とらたぬ座 |  |  |
 | toratepotto | とらてぽっと |  |  |
-| torateppoto | とらてぽっと |  |  |
 | toraya | トラ屋 |  |  |
 | tore | 蕩れ |  |  |
 | torenia | torenia |  |  |
@@ -11619,7 +11443,6 @@ example:
 | toriaezu nama | とりあえず、生! |  |  |
 | toriaridou | トリ有リ堂 |  |  |
 | toribako | toribako |  |  |
-| torihime | 鳥居姫 |  |  |
 | toriihime | 鳥居姫 |  |  |
 | torimeshi | とり飯 |  |  |
 | torinabe | Tori鍋 |  |  |
@@ -11741,14 +11564,12 @@ example:
 | tsk-bar | TSK-BAR |  |  |
 | tsm | TSM |  |  |
 | tsu ga mittsu. | 「つ」がみっつ。 |  |  |
-| tsubasa | 翼 |  |  |
 | tsubo | TSUBO |  |  |
 | tsubo r | つぼR |  |  |
 | tsuboya | つぼや |  |  |
 | tsubuan doumei | つぶあん同盟 |  |  |
 | tsuchinoko bokujou | つちのこ牧場 |  |  |
 | tsuinte | ついんて! |  |  |
-| tsuiteyukenuyo | ついてゆけぬよ |  |  |
 | tsujigiri cross chop | 辻斬りクロスチョップ |  |  |
 | tsujikaidou | 辻街道 |  |  |
 | tsukareno | つかれの |  |  |
@@ -11844,7 +11665,7 @@ example:
 | uchuusen shoujigou | 宇宙船庄司号 |  |  |
 | ucyu-kago | 宇宙カゴ |  |  |
 | udon-ya | うどんや |  |  |
-| udzukui-kan | 卯月館 |  |  |
+| uzukikan | 卯月館 |  |  |
 | ueda-san. | ウエダさん。 |  |  |
 | ugaya 74th | ウガヤ74th |  |  |
 | uge connection | UGEコネクション |  |  |
@@ -11877,7 +11698,7 @@ example:
 | ume-nyan-tei | うめにゃん亭 |  |  |
 | umeboshi | 梅ぼし |  |  |
 | umehimeden | 梅姫殿 |  |  |
-| umekko dou | うめっこ堂 |  |  |
+| umekkodo | うめっこ堂 |  |  |
 | umenonukaduke | うめのぬかづけ |  |  |
 | umesuke | 梅助 |  |  |
 | umigarasu madoushi dan | 海烏魔道士団 |  |  |
@@ -11927,14 +11748,13 @@ example:
 | unyarara daihanten | うにゃらら大飯店 |  |  |
 | uohaman | 魚歯満 |  |  |
 | uotatsu18kinshiten | 魚辰一八金支店 |  |  |
-| uousa oukoku | 魚ウサ王国 |  |  |
 | uozanoko | うお座の子 |  |  |
 | upsp | UPSP |  |  |
 | ura fmo | 裏FMO |  |  |
 | ura kent no himitsu kichi | 裏KENTの秘密基地 |  |  |
 | ura makura | 裏まくら |  |  |
 | ura meshiya | 裏飯屋 |  |  |
-| ura no hikidashi | うらのひきだし |  |  |
+| ura no hikidashi | うらのひきだし | フェチフェチサン |  |
 | ura no kami | 裏のカミ |  |  |
 | ura urethan | 裏ウレタン |  |  |
 | ura. | URA. |  |  |
@@ -11994,7 +11814,6 @@ example:
 | ushitora-dou | 丑寅堂 |  |  |
 | uso | 噓 |  |  |
 | uso kara makoto | うそからまこと |  |  |
-| uso seisakujo | うそ製作所 |  |  |
 | uso seisakusho | うそ製作所 |  |  |
 | usoppu land | ウソップランド |  |  |
 | usotsuki honey | うそつきHONEY |  |  |
@@ -12009,8 +11828,6 @@ example:
 | utakata. | うたかた。 |  |  |
 | utaneya | うたね屋 |  |  |
 | utanone dou | うたのね堂 |  |  |
-| utatane | うたたね |  |  |
-| utatane yashiki | 転寝屋敷 |  |  |
 | utataneyashiki | 転寝屋敷 |  |  |
 | utinotyutai | ウチの中隊 |  |  |
 | utsumuki garden | うつむきガーデン |  |  |
@@ -12023,7 +11840,7 @@ example:
 | uzigaya | 氏賀屋 |  |  |
 | uzomzo | UZOMZO |  |  |
 | uzumaki shikenkan | うずまき試験管 |  |  |
-| v . heracles | V・ヘラクレス |  |  |
+| v. hercules | V・ヘラクレス |  |  |
 | v muscle | Vまっする |  |  |
 | v112cr | ぶい112CR |  |  |
 | vachicalist | Vachicalist |  |  |
@@ -12039,7 +11856,6 @@ example:
 | vanilla tenrankai | バニラ展覧会 |  |  |
 | vanilla type | バニラタイプ |  |  |
 | vanilla-dou max | バニラ堂MAX |  |  |
-| vaniradou max | バニラ堂MAX |  |  |
 | vanishing point. | Vanishing Point. |  |  |
 | vanity press | Vanity Press |  |  |
 | vashadow | VASHADOW |  |  |
@@ -12067,8 +11883,6 @@ example:
 | viscaria | VISCARIA |  |  |
 | vista | VISTA |  |  |
 | visual biscuits | Visual Biscuits |  |  |
-| vita x | Vita X |  |  |
-| vita-peke | VITA-PEKE |  |  |
 | vitamin gohan | ビタミンごはん |  |  |
 | vitamin soft | ビタミン |  |  |
 | viva mikinosuke | ビバ・みきのすけ |  |  |
@@ -12097,7 +11911,6 @@ example:
 | wagashi-ya | わがし屋 |  |  |
 | wagaya no kurorekishi | 我が家の黒歴史 |  |  |
 | wainable | ワイナブル |  |  |
-| waka-sama to yukai na nakama-tachi | 若さまと愉快な仲間たち |  |  |
 | wakamaker | wakamaker |  |  |
 | wakayotareso | わかよたれそ |  |  |
 | waki waki koubou | わきわき工房 |  |  |
@@ -12123,7 +11936,6 @@ example:
 | ware pon | われPON |  |  |
 | wareago | ワレアゴ |  |  |
 | waribashi kouka | 割り箸効果 |  |  |
-| waruguze | 悪癖 |  |  |
 | warukuriya | ワルクリ屋 |  |  |
 | wasabi mochi | わさびもち |  |  |
 | wasabiberry jam | Wasabiberry JAM |  |  |
@@ -12151,7 +11963,7 @@ example:
 | webstudioofflimits | WebStudioOffLimits |  |  |
 | wechselhaft | ヴェクセルハフト |  |  |
 | wednesday | Wednesday |  |  |
-| wendy bell | ウェンディベル |  |  |
+| wendybell | ウェンディベル |  |  |
 | west island | ウエストアイランド |  |  |
 | west vision | ウエストビジョン |  |  |
 | wheel | ホイール |  |  |
@@ -12177,7 +11989,6 @@ example:
 | whitepink | ホワイトピンク |  |  |
 | whitewill | WHITEWILL |  |  |
 | wi-fe hacker | Wi-Fe hacker |  |  |
-| wickedheart | WICKEDHEART |  |  |
 | wild duck | WILD DUCK |  |  |
 | wild heart | ワイルドハート |  |  |
 | will be well | WILL BE WELL |  |  |
@@ -12202,7 +12013,6 @@ example:
 | withsoda | withsoda |  |  |
 | wizaldx | WizaldX |  |  |
 | wlc soft | WLCソフト |  |  |
-| wn | wn |  |  |
 | wolfs tail radio station | Wolf's Tail Radio Station |  |  |
 | wolkenkratzer | Wolkenkratzer |  |  |
 | wonder fool | Wonder Fool |  |  |
@@ -12383,7 +12193,6 @@ example:
 | yomoyama sand | よもやまサンド |  |  |
 | yonakiya | よなきや |  |  |
 | yonmasuya | 四桝屋 |  |  |
-| yori ani | よりあに |  |  |
 | yorimichi | よりみち |  |  |
 | yorozuya miyakotei | よろず屋みやこ亭 |  |  |
 | yoru no benkyoukai | 夜の勉強会 |  |  |
@@ -12408,8 +12217,6 @@ example:
 | youkai ankake | 妖怪あんかけ |  |  |
 | youmu no shio | ようむのしお |  |  |
 | youmusya | 遥夢社 |  |  |
-| yourandou | 洋蘭堂 |  |  |
-| yousai kyoushitsu | 幼妻教室 |  |  |
 | yousei allergen | 幼性アレルゲン |  |  |
 | yousei imagination | 幼性Imagination |  |  |
 | youseimangasya | 妖精漫画社 |  |  |
@@ -12417,7 +12224,6 @@ example:
 | youtoujirushi | 洋燈印 |  |  |
 | youtsuu rock | 腰痛ROCK |  |  |
 | youyoumu | 妖幼夢 |  |  |
-| yowatari koujou | よわたり工場 |  |  |
 | yozorairodrops | 夜空色ドロップ |  |  |
 | ytoh2 | YtoH2 |  |  |
 | yu-gure yane | ゆうぐれ屋根 |  |  |
@@ -12479,7 +12285,6 @@ example:
 | yureika | ゆれいか |  |  |
 | yurerutikuwabu | ゆれるちくわぶ |  |  |
 | yuri equal 18l | 百合=18L |  |  |
-| yurikawa | ゆりかわ |  |  |
 | yuririn no moto | ゆりりんの素 |  |  |
 | yurufuwa megane | ゆるふわ☆めがね |  |  |
 | yuruhuwa-kinniku | ゆるふわ筋肉 |  |  |
@@ -12510,14 +12315,13 @@ example:
 | yuuki nyuugyou | ゆーき乳業 |  |  |
 | yuuki ryu | 結城流 |  |  |
 | yuukyuu shinden | 悠久神殿 |  |  |
-| yuunagi no senryokugai butai | 夕凪の戦力外部隊 |  |  |
 | yuunagisou | 夕凪荘 |  |  |
 | yuuriko | ユウリコ |  |  |
 | yuusei honpo | 遊星本舗 |  |  |
 | yuuseian | 遊星庵 |  |  |
 | yuusha kandenchi | 勇者乾電池 |  |  |
 | yuusha-sama go-ikkou | 勇者様御一行 |  |  |
-| yuushiki | 憂式 |  |  |
+| yuhshiki | 憂式 |  |  |
 | yuuyami sabou | 夕闇茶房 |  |  |
 | yuuyami tokeidai | ゆうやみとけいだい |  |  |
 | yuuyaminabe club | 夕闇鍋倶楽部 |  |  |
@@ -12613,9 +12417,11 @@ example:
 | zuukoku shoukai | ずぅこく商会 |  |  |
 | zuwaigani beam | ズワイガニビーム |  |  |
 | zweidrei | zweidrei |  |  |
-| zydan | 痔男 |  |  |
 | zyulokuya | 十録屋 |  |  |
 | zyx | ジックス |  |  |
+| ajito529 | アジト529 |  |  |
+| miomix | miomix; |  |  |
+| hinobashi seifukukan | 日野橋制服館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
