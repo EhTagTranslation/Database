@@ -7230,7 +7230,7 @@ example:
 | kuni | クニ |  |  |
 | kunifuto | くにふと |  |  |
 | kunoichi | くノ壱 |  |  |
-| kawahara reki | 川原砾 |  |  |
+| kawahara reki | 川原砾 |  | [维基百科](https://zh.wikipedia.org/wiki/川原礫) |
 | kuonji hodaka | 久遠路火鷹 |  |  |
 | kupala | Kupala |  |  |
 | kura oh | 蔵王 |  |  |
