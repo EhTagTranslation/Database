@@ -2289,6 +2289,7 @@ example:
 | o.s | O.S |  |  |
 | wakame no oyatsu | Wakame no Oyatsu |  |  |
 | pantyhose | パンティーHOSE |  |  |
+| tomboy | TomBoy |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
