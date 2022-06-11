@@ -3695,7 +3695,7 @@ example:
 | naidong | 奶凍 |  | [Twitter](https://twitter.com/game00984) [pixiv](https://www.pixiv.net/users/7805672) |
 | karan | からん |  | [Twitter](https://twitter.com/kara_n_) [pixiv](https://www.pixiv.net/users/17652171) |
 | hetaren | へたれん |  | [pixiv](https://www.pixiv.net/users/2386657) |
-| ginger shuka | 姜糖(姜シュカ) |  | [pixiv](https://www.pixiv.net/users/6395677) [Twitter](https://twitter.com/mikaga12) |
+| ginger shuka | 姜糖 | 姜シュカ | [pixiv](https://www.pixiv.net/users/6395677) [Twitter](https://twitter.com/mikaga12) |
 | sazaemu | さざえむ |  | [pixiv](https://www.pixiv.net/users/29680821) [Twitter](https://twitter.com/sazaemu) |
 | gunjou | 群青 |  | [pixiv](https://www.pixiv.net/users/5359885) |
 | takaman | 高饅 |  | [pixiv](https://www.pixiv.net/users/2722726)<br>[Twitter](https://twitter.com/vakan12) |
