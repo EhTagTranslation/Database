@@ -2,6 +2,11 @@ name: check_tags
 
 on:
   workflow_dispatch:
+    inputs:
+      namespaces:
+        description: 要检查的命名空间
+        type: string
+        required: false
   schedule:
     - cron: 30 7 * * 5
 
@@ -28,4 +33,4 @@ jobs:
           echo ::endgroup::
 
       - name: Build
-        run: node tool create-release . ./publish --source-check --strict
+        run: node tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}
