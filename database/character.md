@@ -3826,7 +3826,7 @@ example:
 | suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
-| nonomi izayoi | 十六夜野宫(十六夜野乃美) | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png) | [gamekee](https://ba.gamekee.com/68803.html) [fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
+| nonomi izayoi | 十六夜野宫 | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png)<br>十六夜野乃美 | [gamekee](https://ba.gamekee.com/68803.html) [fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
 | yuuma toutetsu | 饕餮尤魔 | 饕餮尤魔是日本的《东方Project》系列弹幕游戏及其衍生作品的登场角色之一。<br>初登场于《东方刚欲异闻》，作为最终面BOSS登场。 | [https://thwiki.cc/饕餮尤魔](https://thwiki.cc/饕餮尤魔)<br>[萌娘百科](https://mzh.moegirl.org.cn/饕餮尤魔) |
 | miyuki kobayakawa | 小早川美幸 | 小早川美幸是藤岛康介所创作的漫画《`youre under arrest`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/yua/images/8/84/Miyuki_Kobayakawa.jpg/revision/latest/scale-to-width-down/350?cb=20210303104533) | [https://yua.fandom.com/wiki/Miyuki\_Kobayakawa](https://yua.fandom.com/wiki/Miyuki_Kobayakawa) [萌娘百科](https://zh.moegirl.org.cn/小早川美幸) |
 | natsumi tsujimoto | 辻本夏实 | ![](https://static.wikia.nocookie.net/yua/images/a/a7/Natsumi_Tsujimoto.jpg/revision/latest?cb=20210303104457) | [萌娘百科](https://zh.moegirl.org.cn/辻本夏实) [fandom](https://yua.fandom.com/wiki/Natsumi_Tsujimoto) |
