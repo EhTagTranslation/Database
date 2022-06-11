@@ -10835,7 +10835,7 @@ example:
 | sprinkler of calpis | Sprinkler of かるぴす |  |  |
 | sprout | SPROUT |  |  |
 | spt | SPT |  |  |
-|  | pierre yoshio |  |  |
+| spunk | Spunk! |  |  |
 | sputnik | すぷーとにく |  |  |
 | spy | SPY |  |  |
 | squall | Squall |  |  |
