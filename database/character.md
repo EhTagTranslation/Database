@@ -3864,6 +3864,7 @@ example:
 | rumi | 留美 | 留美（日语：ルミ），也译琉美，瑠美，瑠海，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/留美%28少女与战车%29) |
 | mare s. ephemeral | 梅娅·S·艾菲梅拉尔 | 梅娅·S·艾菲梅拉尔是Favorite制作的R18恋爱文字冒险类游戏《`p:hoshizora no memoria`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/梅娅·S·艾菲梅拉尔) |
 | loid forger | 劳埃德·福杰 | 《间谍过家家》主角。在东国从事谍报活动的西国顶尖间谍，代号〈黄昏〉，为了成为间谍已经舍弃自己的本名，现在使用伯林特综合医院精神科医生“劳埃德·福杰”的身份活动着 | [维基百科](https://zh.wikipedia.org/zh-my/SPY×FAMILY間諜家家酒) |
+| anna yamada | 山田杏奈 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
