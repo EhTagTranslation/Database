@@ -3635,7 +3635,7 @@ example:
 | eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
 | shouko komi | 古见硝子 |  |  |
 | hitohito tadano | 只野仁人 |  |  |
-| itto arataki | 荒泷一斗 | ![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp)<br>荒泷一斗是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
+| itto arataki | 荒泷一斗 | ![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp)<br>荒泷一斗是由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
 | princess zelda | 塞尔达公主 | 不是林克 | [维基百科](https://zh.wikipedia.org/zh-cn/塞尔达公主) |
 | ren hazuki | 叶月恋 |  |  |
 | sumire heanna | 平安名堇 |  |  |
