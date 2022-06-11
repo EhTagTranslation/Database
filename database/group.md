@@ -2290,6 +2290,7 @@ example:
 | wakame no oyatsu | Wakame no Oyatsu |  |  |
 | pantyhose | パンティーHOSE |  |  |
 | tomboy | TomBoy |  |  |
+| hoshii koubou | 星井工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
