@@ -3867,6 +3867,7 @@ example:
 | anna yamada | 山田杏奈 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | kyoutarou ichikawa | 市川京太郎 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | pramanix | 初雪 | 所属作品 `p:arknights`<br>![图](https://ehgt.org/f8/f5/f8f5cd23e8d5b2aee01e5e964263a59d6ee7f455-821988-1440-1010-jpg_l.jpg) | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
+| medaka kurokami | 黑神目泷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
