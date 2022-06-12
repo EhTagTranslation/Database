@@ -12055,6 +12055,7 @@ example:
 | tomodachi | Tomodachi |  |  |
 | puracotte | Puracotte＊ぷらこ | ![pixiv头像](https://ehgt.org/28/70/28700de5f3753bd252c3db90de87c646f0485f74-41428-170-157-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/887024) [Twitter](https://twitter.com/puracotte117) |
 | tsuyuhisa fumi | 露久ふみ |  | [pixiv](https://www.pixiv.net/users/29321562) |
+| hinoshita akame | 日之下あかめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
