@@ -3869,6 +3869,7 @@ example:
 | pramanix | 初雪 | 所属作品 `p:arknights`<br>![图](https://ehgt.org/f8/f5/f8f5cd23e8d5b2aee01e5e964263a59d6ee7f455-821988-1440-1010-jpg_l.jpg) | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
 | medaka kurokami | 黑神目泷 |  |  |
 | miss crane | 鹤小姐 |  |  |
+| mordred | 莫德雷德 | 所属作品 `p:fate grand order`<br><br>![](https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest?cb=20210131062805) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29) [fandom\_型月](https://typemoon.fandom.com/wiki/Mordred) [fandom\_FGO](https://fategrandorder.fandom.com/wiki/Mordred) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
