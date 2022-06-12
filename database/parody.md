@@ -1944,6 +1944,7 @@ example:
 | mayonaka no tantei nightwalker | 真夜中的侦探 |  |  |
 | boku no kokoro no yabai yatsu | 我内心的糟糕念头 | ![](https://upload.wikimedia.org/wikipedia/zh/3/3f/我內心的糟糕念頭.jpg) | [维基百科](https://zh.wikipedia.org/zh/我內心的糟糕念頭) [myanimelist](https://myanimelist.net/manga/112807/Boku_no_Kokoro_no_Yabai_Yatsu) |
 | inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru | 单马尾表弟 (暂译) | 田舎に帰るとやけになついた褐色ポニテショタがいる<br>![](https://cdn.myanimelist.net/images/manga/1/217656.jpg) | [myanimelist](https://myanimelist.net/manga/119337/Inaka_ni_Kaeru_to_Yakeni_Natsuita_Kasshoku_Ponytail_Shota_ga_Iru) |
+| paripi koumei | 派对浪客诸葛孔明 |  | [萌娘百科](https://zh.moegirl.org.cn/派对浪客诸葛孔明) [维基百科](https://zh.wikipedia.org/zh/派對咖孔明) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
