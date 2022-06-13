@@ -3875,6 +3875,7 @@ example:
 | laplus darknesss | 拉普拉斯·达克尼斯(ラプラス・ダークネス) | ![图](https://ehgt.org/1f/e9/1fe9322d4a2f5d2f3b73cf996c0fb2e826c2b984-528423-1000-1000-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/拉普拉斯·达克尼斯) [fandom](https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss) [fandom](https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss) |
 | mori calliope | 森美声 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Mori_Calliope_Portrait.png) | [维基百科](https://zh.wikipedia.org/zh/森美聲) [萌娘百科](https://zh.moegirl.org.cn/森美声) [fandom](https://virtualyoutuber.fandom.com/wiki/Mori_Calliope) |
 | ninomae inanis | 一伊那尔栖(Ninomae Ina’nis) | ![图](https://ehgt.org/36/c5/36c54b3daad06f67e511e0f2c5b2fb748e5e4461-392906-524-723-png_l.jpg) | [fandom](https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina%27nis) [萌娘百科](https://zh.moegirl.org.cn/一伊那尔栖) [hololive wiki](https://hololive.wiki/wiki/Ninomae_Ina%27nis) |
+| sakamata chloe | 沙花叉库洛艾(沙花叉クロヱ) | ![图](https://ehgt.org/df/53/df53bc7b8716068cb475b4d8948d543fdd55eddb-296330-500-500-png_l.jpg) | [hololive wiki](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [fandom](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [萌娘百科](https://zh.moegirl.org.cn/沙花叉库洛艾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
