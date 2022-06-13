@@ -12057,6 +12057,7 @@ example:
 | tsuyuhisa fumi | 露久ふみ |  | [pixiv](https://www.pixiv.net/users/29321562) |
 | hinoshita akame | 日之下あかめ |  |  |
 | ryokuchamichi | 緑茶みち |  |  |
+| mamimi | Mamimi | ![图](https://ehgt.org/e8/8a/e88a97e5ba587e5997fc65f76f925b9416fa3f97-52276-159-170-png_l.jpg) | [pixiv](https://www.pixiv.net/users/17151277) [Twitter](https://twitter.com/mamimi_2nd) |
 
 <!--TEMPLATE:
 |  |  |  |  |
