@@ -3870,6 +3870,7 @@ example:
 | medaka kurokami | 黑神目泷 |  |  |
 | miss crane | 鹤小姐 |  |  |
 | mordred | 莫德雷德 | 所属作品 `p:fate grand order`<br><br>![](https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest?cb=20210131062805) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29) [fandom\_型月](https://typemoon.fandom.com/wiki/Mordred) [fandom\_FGO](https://fategrandorder.fandom.com/wiki/Mordred) |
+| mikaela hyakuya | 百夜米迦尔 | 所属作品 `p:owari no seraph` | [萌娘百科](https://zh.moegirl.org.cn/百夜米迦尔) [fandom](https://owarinoseraph.fandom.com/wiki/Mikaela_Hyakuya) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
