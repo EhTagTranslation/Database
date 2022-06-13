@@ -3872,6 +3872,7 @@ example:
 | mordred | 莫德雷德 | 所属作品 `p:fate grand order`<br><br>![](https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest?cb=20210131062805) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29) [fandom\_型月](https://typemoon.fandom.com/wiki/Mordred) [fandom\_FGO](https://fategrandorder.fandom.com/wiki/Mordred) |
 | mikaela hyakuya | 百夜米迦尔 | 所属作品 `p:owari no seraph` | [萌娘百科](https://zh.moegirl.org.cn/百夜米迦尔) [fandom](https://owarinoseraph.fandom.com/wiki/Mikaela_Hyakuya) |
 | kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png/revision/latest?cb=20191228224253) | [fandom](https://virtualyoutuber.fandom.com/wiki/Kiryu_Coco) [维基百科](https://zh.wikipedia.org/zh/桐生可可) [萌娘百科](https://zh.moegirl.org.cn/桐生可可) |
+| laplus darknesss | 拉普拉斯·达克尼斯(ラプラス・ダークネス) | ![图](https://ehgt.org/1f/e9/1fe9322d4a2f5d2f3b73cf996c0fb2e826c2b984-528423-1000-1000-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/拉普拉斯·达克尼斯) [fandom](https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss) [fandom](https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
