@@ -12059,6 +12059,7 @@ example:
 | ryokuchamichi | 緑茶みち |  |  |
 | mamimi | Mamimi | ![图](https://ehgt.org/e8/8a/e88a97e5ba587e5997fc65f76f925b9416fa3f97-52276-159-170-png_l.jpg) | [pixiv](https://www.pixiv.net/users/17151277) [Twitter](https://twitter.com/mamimi_2nd) |
 | kana note | 無人 | ![图](https://ehgt.org/5f/b6/5fb6c7411f63b0647f2832264b6a3c207ae1e6b2-25435-170-170-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/1436637) [Twitter](https://twitter.com/Mujinbensin) [Twitter R18](https://twitter.com/KanaNote_Art) |
+| jima | じま(JIMA) |  | [Twitter](https://twitter.com/opopowa1) [fanbox](https://b0o367po.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
