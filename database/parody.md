@@ -1946,6 +1946,7 @@ example:
 | inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru | 单马尾表弟 (暂译) | 田舎に帰るとやけになついた褐色ポニテショタがいる<br>![](https://cdn.myanimelist.net/images/manga/1/217656.jpg) | [myanimelist](https://myanimelist.net/manga/119337/Inaka_ni_Kaeru_to_Yakeni_Natsuita_Kasshoku_Ponytail_Shota_ga_Iru) |
 | paripi koumei | 派对浪客诸葛孔明 |  | [萌娘百科](https://zh.moegirl.org.cn/派对浪客诸葛孔明) [维基百科](https://zh.wikipedia.org/zh/派對咖孔明) |
 | sore ga seiyuu | 那就是声优！ |  | [萌娘百科](https://zh.moegirl.org.cn/那就是声优) |
+| advance of zeta | ADVANCE OF Ζ 提坦斯的旗下 |  | [维基百科](https://ja.wikipedia.org/wiki/ADVANCE_OF_Ζ_ティターンズの旗のもとに) [维基百科](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_提坦斯的旗下) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
