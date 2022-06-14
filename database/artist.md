@@ -8342,7 +8342,7 @@ example:
 | muscleman | マッスルマン |  |  |
 | mushanokouji atsune | 武者小路あつね |  |  |
 | mushiboy | MUSHIBOY |  |  |
-| musouduki | 夢双月 |  |  |
+| musouduki | 梦双月 |  |  |
 | muteki soda | 無敵ソーダ |  |  |
 | muten | 武天 |  |  |
 | mutou | 無糖 |  |  |
