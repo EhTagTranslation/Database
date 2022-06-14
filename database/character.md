@@ -2489,7 +2489,7 @@ example:
 | taiki shuttle | 大树快车 |  |  |
 |  | ▼ 超次元游戏海王星 |  |  |
 |  | 超次元游戏海王星 > 女神 |  |  |
-| neptune | 涅普迪努 | ![图](https://ehgt.org/ed/27/ed27fdb040337b6148c37d5fcdcff6c440c379f0-2430335-4877-6950-jpg_l.jpg) |  |
+| neptune | 涅普迪努 | 所属作品：`p:hyperdimension neptunia`<br>![图](https://ehgt.org/ed/27/ed27fdb040337b6148c37d5fcdcff6c440c379f0-2430335-4877-6950-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/涅普缇努) |
 | noire | 诺瓦尔 | ![图](https://ehgt.org/cb/c7/cbc7e4f78bba5c97c5ffbd173af7220e16149a56-2848886-4877-6950-jpg_l.jpg) |  |
 | blanc | 布兰 | ![图](https://ehgt.org/a5/33/a53389e6540cc17ac4b0ed5f17456f19de40da52-2673001-4877-6950-jpg_l.jpg) |  |
 | vert | 贝露 | ![图](https://ehgt.org/71/b3/71b37c69c3a08cebd385c7efa6b3c68ae91a2977-2735349-4877-6950-jpg_l.jpg) |  |
