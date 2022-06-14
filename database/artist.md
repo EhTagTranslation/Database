@@ -191,7 +191,7 @@ example:
 | sakurazaka tsuchiyu | 桜坂つちゆ |  |  |
 | yamakaze ran | やまかぜ嵐 |  |  |
 | anko | あん子 \| あんこ |  |  |
-| kohaku. | こはく。（こぐろ。） |  |  |
+| kohaku. | こはく。 |  |  |
 | kousaka jun | 香坂纯 |  |  |
 | gerotan | げろたん |  |  |
 | kozakura kumaneko | 小桜クマネコ |  |  |
@@ -237,7 +237,7 @@ example:
 | mafuyu | 真冬 |  |  |
 | kakugari kyoudai | カクガリ兄弟 |  |  |
 | matsumomo mahiru | 松百まひる |  |  |
-| aoi masami | あおいまさみ（苍海） |  | [pixiv](https://www.pixiv.net/users/764148) [Twitter](https://twitter.com/aoimasami) |
+| aoi masami | 苍海 | あおいまさみ | [pixiv](https://www.pixiv.net/users/764148) [Twitter](https://twitter.com/aoimasami) |
 | itou life | 伊东life | 伊東ライフ | [pixiv](https://www.pixiv.net/users/32156) |
 | taniguchi-san | 谷口さん |  |  |
 | amou mari | 天羽真理 |  |  |
@@ -661,7 +661,7 @@ example:
 | gorgeous takarada | ゴージャス宝田 | ゴージャス 宝田（ごーじゃす たからだ、Gorgeous Takarada）、日本成年向漫画家。作品多以`lolicon`系为主。<br>![图](# "https://ehgt.org/98/72/9872df03eb4c2e2234173db1a1e0638ae1a6f1de-1140757-1057-1500-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/35935956) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ゴージャス宝田) |
 | zaki zaraki | ザキザラキ | ザキザラキ是日本成年向漫画家。<br>![图](# "https://pbs.twimg.com/profile_images/1030164876516196353/v5kFgoNV_400x400.jpg")<br>**作者推特头像**<br>![图](# "https://ehgt.org/32/04/32041b3be5064bf7df90e42581fe8c8e0111a506-3127655-5284-2400-jpg_l.jpg")<br>《小ガクガク生》 | [Twitter](https://twitter.com/zakizasan) |
 | tamachi yuki | たまちゆき | 漫画家，作品多以子供同士(`lolicon`×`shotacon`)为主<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1414836480405508124/f5lJyrvo_400x400.jpg)<br>![图](# "https://ehgt.org/ba/bd/babd9f63ab265b8e50a8752b9298bd72d5f4d6af-344486-1049-1500-jpg_l.jpg") | [Twitter](https://twitter.com/tamachiyuki) [Pixiv](https://www.pixiv.net/users/3060161) |
-| bar peachpit | バー・ぴぃちぴっと（KAKERU） | KAKERU（1984年2月6日－），日本男性漫画家、插画家、原画家。成人向漫画和成人游戏绘师时，以“バー・ぴぃちぴっと”为笔名。作品以`lolicon`系为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1264088014/______400x400.jpg)<br>**作者推特头像**<br><br>经典作品：《小中ロック》《小中ロック2》（巫女萝莉卖淫岛系列），作品特点，非常幼的画风加上台词不断提示年龄，强调是实萝莉。背德感实在强烈。<br>![图](# "https://ehgt.org/b6/d5/b6d5c0c60b7e3d0be8804d6c3cf1a11e78f0c646-466621-1122-1600-jpg_l.jpg") | [Twitter](https://twitter.com/BARKAKERU) [维基百科](https://zh.wikipedia.org/wiki/KAKERU) |
+| bar peachpit | バー・ぴぃちぴっと | KAKERU（1984年2月6日－），日本男性漫画家、插画家、原画家。成人向漫画和成人游戏绘师时，以“バー・ぴぃちぴっと”为笔名。作品以`lolicon`系为主。<br>![TwitterIcon](https://pbs.twimg.com/profile_images/1264088014/______400x400.jpg)<br>**作者推特头像**<br><br>经典作品：《小中ロック》《小中ロック2》（巫女萝莉卖淫岛系列），作品特点，非常幼的画风加上台词不断提示年龄，强调是实萝莉。背德感实在强烈。<br>![图](# "https://ehgt.org/b6/d5/b6d5c0c60b7e3d0be8804d6c3cf1a11e78f0c646-466621-1122-1600-jpg_l.jpg") | [Twitter](https://twitter.com/BARKAKERU) [维基百科](https://zh.wikipedia.org/wiki/KAKERU) |
 | higashiyama show | 东山翔 | 東山 翔（ひがしやま しょう）、日本漫画家、音乐家。<br>漫画主要从事成年向漫画创作。作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/16/56/16561fce6a467bd9f6e246b9333fc2f54025b75b-687400-2800-2400-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/514180) |
 | yoshino | よしの | ※该标签可能指向两个作者<br>よしのA `lolicon`系成年向漫画家。<br>![图](# "https://ehgt.org/95/37/95373dc5b0f10f9fe0f6af93e5bda15a919daf19-1455622-2153-3000-jpg_l.jpg")<br><br>よしのB `yaoi`系漫画家，插画师。<br>![图](# "https://ehgt.org/59/63/5963db3c14a907f667eaa9e9ab1b26c6647cd487-137688-640-950-jpg_l.jpg") | [よしのA-Twitter](https://twitter.com/kuragenocandume)<br>[よしのB-Twitter](https://twitter.com/y_sr_an) |
 | minion | みにおん | みにおん 成年向漫画家<br>主要擅长画`shotacon`、`lolicon`。在画萝莉的过程之中，觉醒了对正太的热爱，称画可爱的少年是最快乐的事情。对儿童的凌辱、或被儿童凌辱、`incest`（母子相奸）的作品也有涉及。<br>![图](# "https://ehgt.org/a8/42/a84266339e4b7e99fe5df57b8016ab60827ec0a3-726851-1070-1500-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/みにおん) [Pixiv](https://www.pixiv.net/users/11414279) |
@@ -1906,7 +1906,7 @@ example:
 | kazuma g-version | カズマ・G-VERSION |  |  |
 | fangcat | FangCat |  | [pixiv](https://www.pixiv.net/users/1122873) |
 | wtk | WTK |  |  |
-| as109 | 水叔（As109） | As109，漫画家，插画家。作品角色主要以`lolicon`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2015/06/26/19/43/55/9538844_33e7079f92b2392528545ea63d1b6b36_170.jpg)<br>![图](# "https://ehgt.org/ab/f3/abf3369b89c54e369d7b0fad7a1e1f28f9a14863-542593-1080-1920-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/1226647) |
+| as109 | As109 | As109，漫画家，插画家。作品角色主要以`lolicon`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2015/06/26/19/43/55/9538844_33e7079f92b2392528545ea63d1b6b36_170.jpg)<br>![图](# "https://ehgt.org/ab/f3/abf3369b89c54e369d7b0fad7a1e1f28f9a14863-542593-1080-1920-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/1226647) |
 | jm | JM |  | [pixiv](https://www.pixiv.net/users/7603871) |
 | breakrabbit | Breakrabbit |  | [pixiv](https://www.pixiv.net/users/15063072) |
 | farg | Farg |  | [pixiv](https://www.pixiv.net/users/23936891) |
@@ -1916,7 +1916,7 @@ example:
 | neneru | ねねる |  |  |
 | orange bull | 牛橘 |  |  |
 | ipuu | 伊菩 | 原名イプー | [pixiv](https://www.pixiv.net/users/80438) |
-| ohayou-san | おはようさん（翁さい） |  |  |
+| ohayou-san | 翁さい |  |  |
 | nadeneko ponia | 撫狸ぽにあ |  |  |
 | harukoubou norimaki | 春工房のりまき |  |  |
 | forester | ふぉれすた |  |  |
@@ -2648,7 +2648,7 @@ example:
 | takahashi tetsuya | 高桥哲哉 |  | [pixiv](https://www.pixiv.net/users/2695043) [Twitter](https://twitter.com/t_takahashi0830) |
 | hiten | Hiten |  | [pixiv](https://www.pixiv.net/users/490219) [Twitter](https://twitter.com/HitenKei) |
 | inugami kira | 狗神煌 |  | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
-| korie riko | 梱枝りこ(梱枝莉子) | 梱枝，梱妈，梱枝Riko，画风颇具特色。<br>![图](https://ehgt.org/35/21/35212f1608601d540106e384c05389f698cd3952-314854-600-854-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) [萌娘百科](https://zh.moegirl.org.cn/梱枝莉子) |
+| korie riko | 梱枝莉子 | 梱枝りこ，梱枝，梱妈，梱枝Riko，画风颇具特色。<br>![图](https://ehgt.org/35/21/35212f1608601d540106e384c05389f698cd3952-314854-600-854-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) [萌娘百科](https://zh.moegirl.org.cn/梱枝莉子) |
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [Twitter](https://twitter.com/hasuroot) |
 | muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [Twitter](https://twitter.com/muku_apupop) |
 | kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [Twitter](https://twitter.com/Trg_AKT) |
@@ -3511,7 +3511,7 @@ example:
 | shingo. | Shingo. |  |  |
 | nedokoro mitsuki | ねどころみつき |  |  |
 | hoshi to lucky | ほしとラッキー |  |  |
-| fuzichoco | 藤ちょこ（藤原） | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[Pixiv](http://www.pixiv.net/member.php?id=27517)<br>[Twitter](https://twitter.com/fuzichoco) |
+| fuzichoco | 藤原 | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[Pixiv](http://www.pixiv.net/member.php?id=27517)<br>[Twitter](https://twitter.com/fuzichoco) |
 | yuiga naoha | 由雅なおは |  |  |
 | tousen | 冬扇 |  |  |
 | edogawa roman | 江戸川浪漫 |  |  |
@@ -12059,7 +12059,7 @@ example:
 | ryokuchamichi | 緑茶みち |  |  |
 | mamimi | Mamimi | ![图](https://ehgt.org/e8/8a/e88a97e5ba587e5997fc65f76f925b9416fa3f97-52276-159-170-png_l.jpg) | [pixiv](https://www.pixiv.net/users/17151277) [Twitter](https://twitter.com/mamimi_2nd) |
 | kana note | 無人 | ![图](https://ehgt.org/5f/b6/5fb6c7411f63b0647f2832264b6a3c207ae1e6b2-25435-170-170-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/1436637) [Twitter](https://twitter.com/Mujinbensin) [Twitter R18](https://twitter.com/KanaNote_Art) |
-| jima | じま(JIMA) |  | [Twitter](https://twitter.com/opopowa1) [fanbox](https://b0o367po.fanbox.cc/) |
+| jima | じま | JIMA | [Twitter](https://twitter.com/opopowa1) [fanbox](https://b0o367po.fanbox.cc/) |
 | miyama tsubakime | 美山椿芽 |  | [pixiv](https://www.pixiv.net/users/19737878) [Twitter](https://twitter.com/MACY89066820) |
 | haku89 | haku89 | ![图](https://ehgt.org/a0/87/a0874929279a13314051f76a9086d4b3b510334c-29874-168-170-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/9153585) [Twitter](https://twitter.com/real_haku89) |
 | shengtian | 升天 |  | [pixiv](https://www.pixiv.net/users/43383935) |

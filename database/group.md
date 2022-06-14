@@ -304,7 +304,7 @@ example:
 | irotenya | 色点屋 |  |  |
 | watakubi | わたくび |  |  |
 | kirikiri | きりきり |  |  |
-| kohagura. | こはぐら。（こぐろ屋。） |  |  |
+| kohagura. | こはぐら。 |  |  |
 | gambler club | ギャンブラー倶楽部 |  |  |
 | usagi no oyatsu | ぅさぎのぉゃっ |  |  |
 | hakke deneijyo | 八卦电影城 |  |  |

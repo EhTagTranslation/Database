@@ -3521,7 +3521,7 @@ example:
 | tsubaki kasugano | 春日野椿 | 春日野椿是えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的女角色之一。<br>![图](https://ehgt.org/1b/8a/1b8a7f42dd63234e4089ad43a5ed6fa2b6627e37-617019-600-700-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/春日野椿) |
 | minene uryuu | 雨流美弥弥 | 雨流美弥音是漫画《`mirai nikki`》及其衍生作品的登场角色。<br>![图](# "https://ehgt.org/13/d4/13d4496d3a00bb51ae86067b9b3e7a6ee4a57b57-554314-898-1314-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/雨流美弥音) (\*\*) |
 | yukiteru amano | 天野雪辉 | 天野雪辉（日语：あまの ゆきてる）是由えすのサカエ所创作的漫画《`mirai nikki`》及其衍生作品的男主角。<br>![图](https://ehgt.org/08/de/08de173cccfc75a2fd3387feadaf117d23c287eb-798165-1023-576-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天野雪辉) (\*\*) |
-| motoko kusanagi | 草薙素子（少佐） | 草薙tì素子（日语：草薙素子）是由日本漫画家士郎正宗所创作漫画《`ghost in the shell`》里登场的女性主角。<br>![图](https://ehgt.org/4d/18/4d18e200f5c3e7583c65a3982e7534aacda90e39-243939-400-400-jpg_l.jpg)<br>![图](https://ehgt.org/3a/3f/3a3f9d8683d4b2f66cf80558e627f1e064ddb9f0-3428507-2307-3471-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/草薙素子) (\*\*) |
+| motoko kusanagi | 草薙素子 | 草薙tì素子（日语：草薙素子）是由日本漫画家士郎正宗所创作漫画《`ghost in the shell`》里登场的女性主角。<br>![图](https://ehgt.org/4d/18/4d18e200f5c3e7583c65a3982e7534aacda90e39-243939-400-400-jpg_l.jpg)<br>![图](https://ehgt.org/3a/3f/3a3f9d8683d4b2f66cf80558e627f1e064ddb9f0-3428507-2307-3471-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/草薙素子) (\*\*) |
 | mayuri shiina | 椎名真由理 | 嘟～嘟噜～<br>椎名真由理是游戏《`steinsgate`》及其衍生作品的登场角色。在游戏开始时年纪为16岁。<br>![图](https://ehgt.org/ca/6c/ca6c084384e71bd4b716eb86fa3f8dba4da15631-2506449-1220-1714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/椎名真由理) (\*\*) |
 | rintarou okabe | 冈部伦太郎 | “EL PSY CONGROO”<br>鳳凰院 凶真<br><br>冈部伦太郎是2009年10月15日发售的5pb.的游戏《`steinsgate`》及其衍生作品的登场角色，男主角。<br>![图](https://ehgt.org/35/c7/35c7493aa98301c27f2265fcdeaa2466f2cdb8cb-2468576-1920-1080-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/冈部伦太郎) (\*\*) |
 | suzuha amane | 阿万音铃羽 | 阿万音铃羽是5pb.的游戏《`steinsgate`》(命运石之门)及其衍生作品的登场角色。<br>![图](https://ehgt.org/e2/78/e2780e9a95a78f391924bff5e28f39cda063f87d-2594914-1222-1716-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿万音铃羽) (\*\*) |
@@ -3592,7 +3592,7 @@ example:
 | essex | 埃塞克斯 | 美国海军埃塞克斯级航空母舰首舰埃塞克斯号（USS Essex (CV-9)） | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 | albacore | 大青花鱼 | 美国海军猫鲨级潜艇大青花鱼号（USS Albacore (SS-218)） | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
-| new jersey | 新泽西(花园) | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62）） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
+| new jersey | 新泽西 | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62）） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/zh-cn/碧蓝航线:让·巴尔) |
 | kokomi sangonomiya | 珊瑚宮心海 |  |  |
 | kashino | 樫野 | 旧日本帝国海军的㭴野号给兵舰。 | [碧蓝航线:樫野](https://zh.moegirl.org.cn/碧蓝航线:樫野) |
@@ -3740,14 +3740,14 @@ example:
 | sekai kamiki | 神木世海 |  |  |
 | kaoruko sazaki | 佐崎薰子 |  |  |
 | izuku midoriya | 绿谷出久 | 绿谷出久是堀越耕平所创作的漫画《我的英雄学院》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/绿谷出久) |
-| mitsuki bakugou | 爆豪光己(火爆猴的母亲) | 爆豪光己(火爆猴的母亲)<br>啊嘿颜式眼睛+爆乳+假小子式短发 |  |
+| mitsuki bakugou | 爆豪光己 | 爆豪光己(火爆猴的母亲)<br>啊嘿颜式眼睛+爆乳+假小子式短发 |  |
 | prushka | 普鲁修卡 |  |  |
 | hakui koyori | 博衣小夜璃 | 博衣小夜璃（日语：博衣こより／はくい こより）是一名于2021年11月26日开始活动的VTuber，所属日本业界团体hololive－『秘密结社holoX』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/博衣小夜璃) |
 | satoko houjou | 北条沙都子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/北条沙都子) |
 | siesta | 谢丝塔 | 谢丝塔（日语：シエスタ）是由二语十所创作的轻小说《侦探已死》及其衍生作品的登场角色。“谢丝塔”是她的代号，意为西班牙语“午睡”(Siesta)。 | [萌娘百科](https://zh.moegirl.org.cn/谢丝塔) |
 | rebecca bluegarden | 蕾贝卡·布鲁加甸 | 蕾贝卡·布鲁加甸是日本漫画家真岛浩创作之漫画《伊甸星原》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/蕾贝卡·布鲁加甸) |
 | aria von reiji asuna | 岭司 | 伊织政在街上遇到的神秘少年。蛮横、任性、脾气暴躁，几乎没有一般人应有的常识。在诚为其解决一起误会后，给了他一颗宝石「阿利斯达之星」，并扬言只要诚向宝石祈祷，自己就会现身替他解决问题。<br>![](https://bkimg.cdn.bcebos.com/pic/a8014c086e061d95e9d7384c78f40ad162d9ca35?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto) | [岭司](https://baike.baidu.com/item/嶺司/15866549) |
-| kokawa asuka | 甲河明日香(甲河飞鸟) | 小粉红，主角的人棍义肢小忠犬，阿莎姬的养女。于《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍，也是第1个跟主角本垒后就同意为其生育后代的女忍。心中其实很渴望获得家人的关爱。(凭借其强大个人暗杀技能帮助主角稳住了内部危机，进而得到了主角的更多强化与关怀，为日后重返《对魔忍》位面完成最终复仇 奠定了基础) | [https://vndb.org/c10757](https://vndb.org/c10757) |
+| kokawa asuka | 甲河明日香 | 小粉红，主角的人棍义肢小忠犬，阿莎姬的养女。于《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍，也是第1个跟主角本垒后就同意为其生育后代的女忍。心中其实很渴望获得家人的关爱。(凭借其强大个人暗杀技能帮助主角稳住了内部危机，进而得到了主角的更多强化与关怀，为日后重返《对魔忍》位面完成最终复仇 奠定了基础) | [https://vndb.org/c10757](https://vndb.org/c10757) |
 | mutio | 妙迪奥 | ミューティオ，cv - 长沢美树，来自漫画/OVA动画《青之6号》 |  |
 | yotsuba koiwai | 小岩井四叶 |  |  |
 | torako | 虎子 |  |  |
@@ -3821,8 +3821,8 @@ example:
 | crimvael | 克莉姆 | 《异种族风俗娘评鉴指南》中的天使 |  |
 | samus aran | 萨姆斯·亚兰 | 《密特罗德》（《银河战士》）系列的主角。初登场于1986年的FC游戏《密特罗德》（METROID），是电子游戏史上首个可由玩家操控的女性角色。 |  |
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
-| melusine | 妖精骑士兰斯洛特（美露莘） | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。 |  |
-| baobhan sith | 妖精骑士崔斯坦（芭万·希） | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。 |  |
+| melusine | 美露莘 | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。 |  |
+| baobhan sith | 芭万·希 | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。 |  |
 | suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
@@ -3835,7 +3835,7 @@ example:
 | rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png/revision/latest/scale-to-width-down/250?cb=20121018234836) | [萌娘百科](https://zh.moegirl.org.cn/zh/枣铃) [fandom](https://littlebusters.fandom.com/wiki/Rin_Natsume) |
 | kobeni yonomori | 夜之森小红 | 夜之森小红是漫画《未确认进行式》及其衍生的动画作品的登场角色，女主角。<br>![夜之森小红](https://lain.bgm.tv/pic/crt/l/61/12/21418_crt_cqedS.jpg)<br>拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。<br>小时候就已经见过白夜，但之后因为发生事故，而遗忘了这件事。<br>家事万能，并负责制作三餐。 | [bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
 | sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg/revision/latest?cb=20190409223544) | [萌娘百科](https://zh.moegirl.org.cn/zh/雪露·诺姆) [fandom](https://macross.fandom.com/wiki/Sheryl_Nome) |
-| iori shiromi | 银镜伊织（イオリ） | 所属作品：`p:blue archive`<br><br>格黑娜学园（ゲヘナ学園） | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori) |
+| iori shiromi | 银镜伊织 | 所属作品：`p:blue archive`<br><br>格黑娜学园（ゲヘナ学園） | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
 | enji todoroki | 轰炎司 |  |  |
 | nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png/revision/latest/scale-to-width-down/171?cb=20210328054403) | [https://kanojo-mo-kanojo.fandom.com/wiki/Minase\_Nagisa](https://kanojo-mo-kanojo.fandom.com/wiki/Minase_Nagisa) [萌娘百科](https://zh.moegirl.org.cn/zh/水濑渚) |
@@ -3872,12 +3872,12 @@ example:
 | mordred | 莫德雷德 | 所属作品 `p:fate grand order`<br><br>![](https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp/revision/latest?cb=20210131062805) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29) [fandom\_型月](https://typemoon.fandom.com/wiki/Mordred) [fandom\_FGO](https://fategrandorder.fandom.com/wiki/Mordred) |
 | mikaela hyakuya | 百夜米迦尔 | 所属作品 `p:owari no seraph` | [萌娘百科](https://zh.moegirl.org.cn/百夜米迦尔) [fandom](https://owarinoseraph.fandom.com/wiki/Mikaela_Hyakuya) |
 | kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png/revision/latest?cb=20191228224253) | [fandom](https://virtualyoutuber.fandom.com/wiki/Kiryu_Coco) [维基百科](https://zh.wikipedia.org/zh/桐生可可) [萌娘百科](https://zh.moegirl.org.cn/桐生可可) |
-| laplus darknesss | 拉普拉斯·达克尼斯(ラプラス・ダークネス) | ![图](https://ehgt.org/1f/e9/1fe9322d4a2f5d2f3b73cf996c0fb2e826c2b984-528423-1000-1000-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/拉普拉斯·达克尼斯) [fandom](https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss) [fandom](https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss) |
+| laplus darknesss | 拉普拉斯·达克尼斯 | ![图](https://ehgt.org/1f/e9/1fe9322d4a2f5d2f3b73cf996c0fb2e826c2b984-528423-1000-1000-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/拉普拉斯·达克尼斯) [fandom](https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss) [fandom](https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss) |
 | mori calliope | 森美声 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Mori_Calliope_Portrait.png) | [维基百科](https://zh.wikipedia.org/zh/森美聲) [萌娘百科](https://zh.moegirl.org.cn/森美声) [fandom](https://virtualyoutuber.fandom.com/wiki/Mori_Calliope) |
-| ninomae inanis | 一伊那尔栖(Ninomae Ina’nis) | ![图](https://ehgt.org/36/c5/36c54b3daad06f67e511e0f2c5b2fb748e5e4461-392906-524-723-png_l.jpg) | [fandom](https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina%27nis) [萌娘百科](https://zh.moegirl.org.cn/一伊那尔栖) [hololive wiki](https://hololive.wiki/wiki/Ninomae_Ina%27nis) |
-| sakamata chloe | 沙花叉库洛艾(沙花叉クロヱ) | ![图](https://ehgt.org/df/53/df53bc7b8716068cb475b4d8948d543fdd55eddb-296330-500-500-png_l.jpg) | [hololive wiki](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [fandom](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [萌娘百科](https://zh.moegirl.org.cn/沙花叉库洛艾) |
+| ninomae inanis | 一伊那尔栖 | ![图](https://ehgt.org/36/c5/36c54b3daad06f67e511e0f2c5b2fb748e5e4461-392906-524-723-png_l.jpg) | [fandom](https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina%27nis) [萌娘百科](https://zh.moegirl.org.cn/一伊那尔栖) [hololive wiki](https://hololive.wiki/wiki/Ninomae_Ina%27nis) |
+| sakamata chloe | 沙花叉库洛艾 | ![图](https://ehgt.org/df/53/df53bc7b8716068cb475b4d8948d543fdd55eddb-296330-500-500-png_l.jpg) | [hololive wiki](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [fandom](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [萌娘百科](https://zh.moegirl.org.cn/沙花叉库洛艾) |
 | tsunomaki watame | 角卷绵芽 | ![](https://static.miraheze.org/hololivewiki/0/05/Tsunomaki_Watame_-_Portrait_01.png) | [fandom](https://virtualyoutuber.fandom.com/wiki/Tsunomaki_Watame) [hololive wiki](https://hololive.wiki/wiki/Tsunomaki_Watame) [萌娘百科](https://zh.moegirl.org.cn/角卷绵芽) |
-| kazama iroha | 风真伊吕波(風真いろは) | ![图](https://ehgt.org/9a/a0/9aa0413895ba9aea537fcdc0d752419251d9b027-166628-332-450-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/风真伊吕波) [fandom](https://virtualyoutuber.fandom.com/wiki/Kazama_Iroha) [hololive wiki](https://hololive.wiki/wiki/Kazama_Iroha) |
+| kazama iroha | 风真伊吕波 | ![图](https://ehgt.org/9a/a0/9aa0413895ba9aea537fcdc0d752419251d9b027-166628-332-450-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/风真伊吕波) [fandom](https://virtualyoutuber.fandom.com/wiki/Kazama_Iroha) [hololive wiki](https://hololive.wiki/wiki/Kazama_Iroha) |
 | weedy | 温蒂 | 所属作品 `p:arknights`<br>![](https://static.wikia.nocookie.net/mrfz/images/a/ab/Weedy.png) | [fandom](https://arknights.fandom.com/wiki/Weedy) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:温蒂) |
 | makino yagami | 八神牧野 | 所属作品 `p:the idolmaster`<br>![](https://project-imas.wiki/images/a/ae/Makino_SS.png) | [萌娘百科](https://zh.moegirl.org.cn/八神牧野) [imas\_wiki](https://project-imas.wiki/Makino_Yagami) |
 
