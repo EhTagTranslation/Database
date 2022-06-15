@@ -3884,7 +3884,7 @@ example:
 | namiko | 奈美子 |  |  |
 | hass | 莲 |  |  |
 | kazuha kaedehara | 枫原万叶 | 所属作品 `p:genshin impact`<br>![图](https://ehgt.org/0a/cb/0acb776ad4207c848dd7a7c237e36b50eb7fe13b-2154853-2250-2250-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/枫原万叶) [fandom](https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha) |
-| scaramouche | 国崩/散兵 | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Character_Scaramouche_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/国崩) [fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
+| scaramouche | 散兵/国崩 | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Character_Scaramouche_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/国崩) [fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
