@@ -3882,6 +3882,7 @@ example:
 | makino yagami | 八神牧野 | 所属作品 `p:the idolmaster`<br>![](https://project-imas.wiki/images/a/ae/Makino_SS.png) | [萌娘百科](https://zh.moegirl.org.cn/八神牧野) [imas\_wiki](https://project-imas.wiki/Makino_Yagami) |
 | lu bu | 吕布 | 字奉先，并州五原郡九原（今内蒙古自治区包头市九原区）人，东汉末年武将与军阀。 |  |
 | namiko | 奈美子 |  |  |
+| hass | 莲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
