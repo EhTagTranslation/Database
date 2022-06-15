@@ -3880,6 +3880,7 @@ example:
 | kazama iroha | 风真伊吕波 | ![图](https://ehgt.org/9a/a0/9aa0413895ba9aea537fcdc0d752419251d9b027-166628-332-450-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/风真伊吕波) [fandom](https://virtualyoutuber.fandom.com/wiki/Kazama_Iroha) [hololive wiki](https://hololive.wiki/wiki/Kazama_Iroha) |
 | weedy | 温蒂 | 所属作品 `p:arknights`<br>![](https://static.wikia.nocookie.net/mrfz/images/a/ab/Weedy.png) | [fandom](https://arknights.fandom.com/wiki/Weedy) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:温蒂) |
 | makino yagami | 八神牧野 | 所属作品 `p:the idolmaster`<br>![](https://project-imas.wiki/images/a/ae/Makino_SS.png) | [萌娘百科](https://zh.moegirl.org.cn/八神牧野) [imas\_wiki](https://project-imas.wiki/Makino_Yagami) |
+| lu bu | 吕布 | 字奉先，并州五原郡九原（今内蒙古自治区包头市九原区）人，东汉末年武将与军阀。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
