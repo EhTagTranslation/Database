@@ -3888,6 +3888,7 @@ example:
 | himiko | 卑弥呼 |  |  |
 | zenobia | 芝诺比娅 |  |  |
 | paris | 帕里斯 |  |  |
+| captain nemo | 尼莫船长 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
