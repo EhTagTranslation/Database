@@ -3887,6 +3887,7 @@ example:
 | scaramouche | 散兵（国崩） | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Character_Scaramouche_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/国崩) [fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
 | himiko | 卑弥呼 |  |  |
 | zenobia | 芝诺比娅 |  |  |
+| paris | 帕里斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
