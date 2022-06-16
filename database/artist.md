@@ -12063,6 +12063,7 @@ example:
 | miyama tsubakime | 美山椿芽 |  | [pixiv](https://www.pixiv.net/users/19737878) [Twitter](https://twitter.com/MACY89066820) |
 | haku89 | haku89 | ![图](https://ehgt.org/a0/87/a0874929279a13314051f76a9086d4b3b510334c-29874-168-170-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/9153585) [Twitter](https://twitter.com/real_haku89) |
 | shengtian | 升天 |  | [pixiv](https://www.pixiv.net/users/43383935) |
+| tezuka osamu | 手冢治虫 | 手冢治虫（日语：手塚（てづか） 治虫（おさむ）），本名手冢治，是日本国民级漫画家、著名动画制作人，日本现代电视动画及其制作制度的鼻祖与奠基人。 | [萌娘百科](https://zh.moegirl.org.cn/手冢治虫) [维基百科](https://zh.wikipedia.org/wiki/手塚治虫) |
 
 <!--TEMPLATE:
 |  |  |  |  |
