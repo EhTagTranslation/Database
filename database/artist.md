@@ -12068,6 +12068,7 @@ example:
 | mo oku | MO:OKU |  | [pixiv](https://www.pixiv.net/users/9785867) |
 | rounds chen | RoundsChen |  | [pixiv](https://www.pixiv.net/users/33761760) |
 | tsubame | つばめ |  | [pixiv](https://www.pixiv.net/users/13659153) [Twitter](https://twitter.com/aruR87839) |
+| ushinomiya | うしのみや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
