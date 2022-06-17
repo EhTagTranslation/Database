@@ -1950,6 +1950,7 @@ example:
 | summertime render | 夏日重现 | 《夏日重现》（日语：サマータイムレンダ，英语：Summer Time Rendering）是田中靖规连载的漫画。<br>![图](https://ehgt.org/f6/cd/f6cd44cae2a42d239df505d3ff3b33498ef87218-8215054-1960-2774-png_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/夏日時光_%28漫畫%29) [萌娘百科](https://zh.moegirl.org.cn/zh/夏日重现) |
 | kiteretsu daihyakka | 奇天烈大百科 |  | [维基百科](https://zh.wikipedia.org/zh-cn/奇天烈大百科) |
 | perman | 飞人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小超人帕門) |
+| danshi koukousei de urekko light novel sakka o shiteiru keredo | 身为男高中生兼当红轻小说作家的我，正被年纪比我小且从事声优工作的女同学掐住脖子 |  | [维基百科](https://zh.wikipedia.org/wiki/身為男高中生兼當紅輕小說作家的我，正被年紀比我小且從事聲優工作的女同學掐住脖子) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
