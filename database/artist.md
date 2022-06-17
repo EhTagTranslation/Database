@@ -12070,6 +12070,7 @@ example:
 | ushinomiya | うしのみや |  |  |
 | yoikorogashi | よいころがし |  |  |
 | natsu jam | 夏ジャム |  |  |
+| aosawa yuki | 青沢由紀 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
