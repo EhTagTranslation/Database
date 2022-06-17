@@ -1949,6 +1949,7 @@ example:
 | advance of zeta | ADVANCE OF Ζ 提坦斯的旗下 |  | [维基百科](https://ja.wikipedia.org/wiki/ADVANCE_OF_Ζ_ティターンズの旗のもとに) [维基百科](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_提坦斯的旗下) |
 | summertime render | 夏日重现 | 《夏日重现》（日语：サマータイムレンダ，英语：Summer Time Rendering）是田中靖规连载的漫画。<br>![图](https://ehgt.org/f6/cd/f6cd44cae2a42d239df505d3ff3b33498ef87218-8215054-1960-2774-png_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/夏日時光_%28漫畫%29) [萌娘百科](https://zh.moegirl.org.cn/zh/夏日重现) |
 | kiteretsu daihyakka | 奇天烈大百科 |  | [维基百科](https://zh.wikipedia.org/zh-cn/奇天烈大百科) |
+| perman | 飞人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小超人帕門) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
