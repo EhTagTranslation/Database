@@ -12425,6 +12425,7 @@ example:
 | hoshii koubou | 星井工房 |  |  |
 | ascii media works | ASCII Media Works |  |  |
 | mitsume no mitsumame | みつ目のみつ豆 |  |  |
+| rhf migite no tomo sha | RHF=右手の友社 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
