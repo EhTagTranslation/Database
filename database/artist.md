@@ -8049,7 +8049,7 @@ example:
 | miyakawa hajime | 美夜川はじめ |  |  |
 | miyako no gohan | 京のごはん |  |  |
 | miyama rima | 宮馬りま |  |  |
-| miyama zero | みやま零 (みやまぜろ) |  |  |
+| miyama zero | 美山零 |  |  |
 | miyamoto ikusa | みやもといくさ |  |  |
 | miyamoto yuu | みやもとゆう |  |  |
 | miyamu | みやむ |  |  |
