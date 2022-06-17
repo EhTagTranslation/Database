@@ -5949,7 +5949,7 @@ example:
 | hotaru | 蛍 |  |  |
 | hotarugusa | ほたる草 |  |  |
 | hotei kazuha | 保汀一葉 |  |  |
-| hotori | 歩鳥 (ほどり) |  |  |
+| hotori | 歩鳥 |  |  |
 | houga | 芳芽 |  |  |
 | houhokekiyo | ホウホケキヨ |  |  |
 | houmitsu | 方密 |  |  |
@@ -6068,7 +6068,7 @@ example:
 | ikeda jun | 池田淳 |  |  |
 | ikeda shuuko | 池田秀子 |  |  |
 | ikeda usao | イケダウサオ |  |  |
-| ikeda yasuhiro | 池田靖宏 (いけだやすひろ) |  |  |
+| ikeda yasuhiro | 池田靖宏 |  |  |
 | ikeden | いけでん |  |  |
 | ikelag | ikelag |  |  |
 | iken | イケン |  |  |
@@ -6432,7 +6432,7 @@ example:
 | kahlua suzuki | カルーア鈴木 |  |  |
 | kai | 改 |  |  |
 | kai makoto | 櫂まこと |  |  |
-| kaibara keiya | 海原圭哉 (かいはらけいや) |  |  |
+| kaibara keiya | 海原圭哉 |  |  |
 | kaibara you | 海原由布 |  |  |
 | kaibutsu o koeta kaibutsu | 怪物を超えた怪物 |  |  |
 | kaida michi | 海田路 |  |  |
@@ -8833,7 +8833,7 @@ example:
 | noneto | ノネト |  |  |
 | nonnon | のんのん |  |  |
 | nonohachi | ノノはち |  |  |
-| nonoki | 乃軒(ののき) |  |  |
+| nonoki | 乃軒 |  |  |
 | nonoko | ののこ |  |  |
 | nonomura hideki | 野々村秀樹 |  |  |
 | nononono | のののの |  |  |
@@ -9061,7 +9061,7 @@ example:
 | onodera | おのでら |  |  |
 | onodera kazumi | 小野寺和海 |  |  |
 | onoderasan | おのでらさん |  |  |
-| onogawa kiwi | 小野川キウイ (おのがわきうい) |  |  |
+| onogawa kiwi | 小野川キウイ |  |  |
 | onomesin | オノメシン |  |  |
 | onomichi | Onomichi |  |  |
 | onsen nakaya | おんせんなかや |  |  |
@@ -12038,7 +12038,6 @@ example:
 | 6zo | 6zo |  |  |
 | anzheli | Anzheli |  |  |
 | cfr | CFR |  |  |
-| ebizome | Ebizome |  |  |
 | inagita | INAGITA |  |  |
 | inside | Inside |  |  |
 | kashiko akira | かしこ村 |  |  |

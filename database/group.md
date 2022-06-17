@@ -4949,7 +4949,7 @@ example:
 | gallop | gallop |  |  |
 | gallphilia | gallphilia |  |  |
 | galvas | GALVAS |  |  |
-| gamanjiru-ni-chinpaipai | 我☆慢☆汁にチンパイパイ (かん |  |  |
+| gamanjiru-ni-chinpaipai | 我☆慢☆汁にチンパイパイ |  |  |
 | game dome | GAME DOME |  |  |
 | game dome ariake | GAME DOME 有明店 |  |  |
 | game dome hamamatsuchouten | GAME DOME 浜松町店 |  |  |
@@ -7952,7 +7952,7 @@ example:
 | moewrest | もえれす |  |  |
 | moffle | moffle |  |  |
 | mofu shippo lab | もふしっぽらぼ |  |  |
-| mofumanjuu | もふまんじゅう (ぴろまゆ) |  |  |
+| mofumanjuu | もふまんじゅう |  |  |
 | mofumofuen | もふもふ苑 |  |  |
 | mofurafu | mofurafu |  |  |
 | mofuya | モフ屋 |  |  |
@@ -9372,7 +9372,7 @@ example:
 | ponpon-o | ぽんぽんお |  |  |
 | ponte | Ponte |  |  |
 | pony farm | 仔馬牧場 |  |  |
-| pony roll | PONY ROLL (青沢由紀) |  |  |
+| pony roll | PONY ROLL |  |  |
 | ponyfarm | ポニー牧場 |  |  |
 | ponys bridle | PONY'S BRIDLE |  |  |
 | ponz.info | ponz.info |  |  |
