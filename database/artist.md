@@ -12070,6 +12070,7 @@ example:
 | tsubame | つばめ |  | [pixiv](https://www.pixiv.net/users/13659153) [Twitter](https://twitter.com/aruR87839) |
 | ushinomiya | うしのみや |  |  |
 | yoikorogashi | よいころがし |  |  |
+| natsu jam | 夏ジャム |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
