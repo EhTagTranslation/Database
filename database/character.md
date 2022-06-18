@@ -3895,6 +3895,7 @@ example:
 | caitlyn | 凯特琳 | 皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。 | [https://baike.baidu.com/item/皮城女警/7770355](https://baike.baidu.com/item/皮城女警/7770355) |
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 |  |  |
+| aegir | 埃吉尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
