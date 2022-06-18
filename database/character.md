@@ -3902,6 +3902,7 @@ example:
 | nurnberg | 纽伦堡 |  |  |
 | nicholas | 尼古拉斯 |  |  |
 | icarus | 伊卡洛斯 |  |  |
+| palutena | 帕露蒂娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
