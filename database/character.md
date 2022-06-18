@@ -3912,6 +3912,7 @@ example:
 | pit | 皮特 |  |  |
 | bozes co palesti | 波赛斯·戈·芭蕾丝蒂 |  |  |
 | noi | 能井 |  |  |
+| scirocco | 东南风 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:东南风) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
