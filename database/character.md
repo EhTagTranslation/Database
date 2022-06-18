@@ -3892,6 +3892,7 @@ example:
 | sukuna | 两面宿傩 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/两面宿傩) [fandom](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) |
 | yuuji itadori | 虎杖悠仁 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/虎杖悠仁) [fandom](https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori) [维基百科（英语）](https://en.wikipedia.org/wiki/Yuji_Itadori) |
 | megumi fushiguro | 伏黑惠 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/伏黑惠) [fandom](https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro) [维基百科（英语）](https://en.wikipedia.org/wiki/Megumi_Fushiguro) |
+| caitlyn | 凯特琳 | 皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。 | [https://baike.baidu.com/item/皮城女警/7770355](https://baike.baidu.com/item/皮城女警/7770355) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
