@@ -3901,6 +3901,7 @@ example:
 | pamiat merkuria | 水星纪念 |  |  |
 | nurnberg | 纽伦堡 |  |  |
 | nicholas | 尼古拉斯 |  |  |
+| icarus | 伊卡洛斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
