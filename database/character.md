@@ -2386,6 +2386,7 @@ example:
 | nanami hiromachi | 广町七深 |  |  |
 | tsukushi futaba | 二叶筑紫 |  |  |
 |  | rui yashio 八潮瑠唯 |  |  |
+| marina tsukishima | 月岛麻里奈 | 麻里奈是Live House CiRCLE的一名工作人员。<br>![月岛麻里奈](https://img.moegirl.org.cn/common/8/8c/D_F9yqBU0AAZjSd.jpg) | [萌娘百科](https://zh.moegirl.org.cn/月岛麻里奈) |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
 | akane sakurai | 樱井明音 |  |  |
