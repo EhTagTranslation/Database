@@ -3890,6 +3890,7 @@ example:
 | paris | 帕里斯 |  |  |
 | captain nemo | 尼莫船长 |  |  |
 | sukuna | 两面宿傩 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/两面宿傩) [fandom](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) |
+| yuuji itadori | 虎杖悠仁 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/虎杖悠仁) [fandom](https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori) [维基百科（英语）](https://en.wikipedia.org/wiki/Yuji_Itadori) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
