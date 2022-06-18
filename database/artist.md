@@ -12073,6 +12073,7 @@ example:
 | aosawa yuki | 青沢由紀 |  |  |
 | inui nuinu | 犬居ぬいぬ |  |  |
 | 2no. | 2no. |  |  |
+| h.carrrrrrot | カロロット |  | [pixiv](https://www.pixiv.net/users/24109089) |
 
 <!--TEMPLATE:
 |  |  |  |  |
