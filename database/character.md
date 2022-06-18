@@ -3898,6 +3898,7 @@ example:
 | aegir | 埃吉尔 |  |  |
 | shinano | 信浓 |  |  |
 | foxhound | 狐提 |  |  |
+| pamiat merkuria | 水星纪念 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
