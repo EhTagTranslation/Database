@@ -3904,6 +3904,7 @@ example:
 | icarus | 伊卡洛斯 |  |  |
 | palutena | 帕露蒂娜 |  |  |
 | pit | 皮特 |  |  |
+| bozes co palesti | 波赛斯·戈·芭蕾丝蒂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
