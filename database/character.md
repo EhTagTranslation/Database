@@ -3905,6 +3905,7 @@ example:
 | palutena | 帕露蒂娜 |  |  |
 | pit | 皮特 |  |  |
 | bozes co palesti | 波赛斯·戈·芭蕾丝蒂 |  |  |
+| noi | 能井 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
