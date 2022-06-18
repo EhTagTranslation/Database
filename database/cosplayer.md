@@ -66,6 +66,7 @@ example:
 | menmentan | 焖焖碳 |  | [Twitter](https://twitter.com/mmmenmentan) [微博](https://weibo.com/u/2813217452) [bilibili](https://space.bilibili.com/663321) |
 | rio-chan | 愛瀬りおな | Old name seem to have been Aise Riona (愛瀬りおな) but they have gone by many names りおりおちゃん, りおちゃん, 璃緒ちゃん, りお, りおりお, riona, りおな, 愛瀬くりぃむ店, 愛瀬りおな | [Twitter](https://twitter.com/riorio0701) [https://dl.getchu.com/search/dojin\_circle\_detail.php?id=4338](https://dl.getchu.com/search/dojin_circle_detail.php?id=4338) |
 | siao ding | 小丁 |  |  |
+| franxcos | FranXcos |  |  |
 
 <!--
 Template: 
