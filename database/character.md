@@ -3897,6 +3897,7 @@ example:
 | reno | 里诺 |  |  |
 | aegir | 埃吉尔 |  |  |
 | shinano | 信浓 |  |  |
+| foxhound | 狐提 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
