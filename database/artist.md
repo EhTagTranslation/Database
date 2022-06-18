@@ -12072,6 +12072,7 @@ example:
 | natsu jam | 夏ジャム |  |  |
 | aosawa yuki | 青沢由紀 |  |  |
 | inui nuinu | 犬居ぬいぬ |  |  |
+| 2no. | 2no. |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
