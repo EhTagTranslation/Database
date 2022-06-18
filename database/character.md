@@ -3889,6 +3889,7 @@ example:
 | zenobia | 芝诺比娅 |  |  |
 | paris | 帕里斯 |  |  |
 | captain nemo | 尼莫船长 |  |  |
+| sukuna | 两面宿傩 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/两面宿傩) [fandom](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
