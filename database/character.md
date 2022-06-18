@@ -2377,10 +2377,15 @@ example:
 | kanon matsubara | 松原花音 | [Hello, Happy World!](https://zh.moegirl.org.cn/Hello,_Happy_World!)的鼓手<br>![松原花音](https://commons.moegirl.org.cn/thumb.php?f=Img_matsubara-kanon_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/松原花音) |
 | misaki okusawa | 奥泽美咲 | [Hello, Happy World!](https://zh.moegirl.org.cn/Hello,_Happy_World!)的DJ<br>![奥泽美咲](https://img.moegirl.org.cn/common/thumb/9/92/Msk201912.jpg/150px-Msk201912.jpg) | [萌娘百科](https://zh.moegirl.org.cn/奥泽美咲) |
 | rei wakana | 和奏瑞依（LAYER） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的主唱兼贝斯手<br>![和奏瑞依](https://commons.moegirl.org.cn/thumb.php?f=Img_layer.png&width=150)<br>注：台湾地区译名为“和奏蕾” | [萌娘百科](https://zh.moegirl.org.cn/和奏瑞依) |
-|  | 朝日六花（LOCK） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的吉他手<br>![朝日六花](https://commons.moegirl.org.cn/thumb.php?f=Img_lock.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/朝日六花) |
+| rokka asahi | 朝日六花（LOCK） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的吉他手<br>![朝日六花](https://commons.moegirl.org.cn/thumb.php?f=Img_lock.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/朝日六花) |
 | masuki satou | 佐藤益木（MASKING） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的鼓手<br>![佐藤益木](https://commons.moegirl.org.cn/thumb.php?f=Img_masking.png&width=150)<br>注：台湾地区译名为“佐藤增姬” | [萌娘百科](https://zh.moegirl.org.cn/佐藤益木) |
-|  | 鳰原令王那（PAREO） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的键盘手<br>![鳰原令王那](https://commons.moegirl.org.cn/thumb.php?f=Img_pareo.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/鳰原令王那) |
-|  | 珠手知由（CHU²） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的DJ<br>![珠手知由](https://commons.moegirl.org.cn/thumb.php?f=Img_chu2.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/珠手知由) |
+| reona nyubara | 鳰原令王那（PAREO） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的键盘手<br>![鳰原令王那](https://commons.moegirl.org.cn/thumb.php?f=Img_pareo.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/鳰原令王那) |
+| chiyu tamade | 珠手知由（CHU²） | [RAISE A SUILEN](https://zh.moegirl.org.cn/RAISE_A_SUILEN)的DJ<br>![珠手知由](https://commons.moegirl.org.cn/thumb.php?f=Img_chu2.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/珠手知由) |
+| mashiro kurata | 仓田真白 |  |  |
+|  | touko kirigaya 桐谷透子 |  |  |
+| nanami hiromachi | 广町七深 |  |  |
+| tsukushi futaba | 二叶筑紫 |  |  |
+|  | rui yashio 八潮瑠唯 |  |  |
 |  | ▼ 临时女友 |  |  |
 | kokomi shiina | 椎名心实 |  |  |
 | akane sakurai | 樱井明音 |  |  |
