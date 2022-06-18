@@ -3914,6 +3914,7 @@ example:
 | noi | 能井 |  |  |
 | scirocco | 东南风 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:东南风) |
 | miyuki kujou | 九条美雪 |  |  |
+| specter | 幽灵鲨 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:幽灵鲨) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
