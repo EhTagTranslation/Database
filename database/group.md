@@ -12427,6 +12427,7 @@ example:
 | mitsume no mitsumame | みつ目のみつ豆 |  |  |
 | rhf migite no tomo sha | RHF=右手の友社 |  |  |
 | jurei no mori | 呪霊の杜 |  |  |
+| tsukitate-koubou | つきたて工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
