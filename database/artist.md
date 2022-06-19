@@ -12077,6 +12077,7 @@ example:
 | toriattogununu | とりあっとぐぬぬ |  |  |
 | harrishero | ハリスヒロ |  | [pixiv](https://www.pixiv.net/users/32678331) [fanbox](https://harrishero10.fanbox.cc/) [Twitter](https://twitter.com/HarrisIllust) |
 | potatorinrin | 孟達 |  | [pixiv](https://www.pixiv.net/users/43776576) [pixiv](https://www.pixiv.net/users/3872398) |
+| hotter daimon | 掘多大門 | ホッタダイモン | [pixiv](https://www.pixiv.net/users/16712573) [Twitter](https://twitter.com/schophotter) |
 
 <!--TEMPLATE:
 |  |  |  |  |
