@@ -12075,6 +12075,7 @@ example:
 | 2no. | 2no. |  |  |
 | h.carrrrrrot | カロロット |  | [pixiv](https://www.pixiv.net/users/24109089) |
 | toriattogununu | とりあっとぐぬぬ |  |  |
+| harrishero | ハリスヒロ |  | [pixiv](https://www.pixiv.net/users/32678331) [fanbox](https://harrishero10.fanbox.cc/) [Twitter](https://twitter.com/HarrisIllust) |
 
 <!--TEMPLATE:
 |  |  |  |  |
