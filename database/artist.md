@@ -12074,6 +12074,7 @@ example:
 | inui nuinu | 犬居ぬいぬ |  |  |
 | 2no. | 2no. |  |  |
 | h.carrrrrrot | カロロット |  | [pixiv](https://www.pixiv.net/users/24109089) |
+| toriattogununu | とりあっとぐぬぬ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
