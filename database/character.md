@@ -3919,6 +3919,7 @@ example:
 | hiling | 希琳 | 伯斯王的第二任妻子，戴达的亲生母亲。<br>![图](https://ehgt.org/09/e7/09e7b2f5fdf53c8ae60be79a4e943874585e3dfe-369341-1000-1200-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/希琳) |
 | yoshino kousaka | 高坂佳乃 |  |  |
 | kuzuha togashi | 富㭴樟叶 | ![](https://img.moegirl.org.cn/common/7/73/Kuzuha.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/富㭴樟叶) |
+| ichigo hoshimiya | 星宫莓 | ![](https://img.moegirl.org.cn/common/d/d6/20171101134627_hatCi.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/星宫莓) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
