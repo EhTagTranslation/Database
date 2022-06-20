@@ -3931,6 +3931,7 @@ example:
 | seira otoshiro | 音城塞拉 | ![](https://img.moegirl.org.cn/common/thumb/5/5c/Seira.jpg/420px-Seira.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音城塞拉) |
 | alicia charlotte | 艾丽西亚·夏洛特 |  |  |
 | aine yuuki | 友希爱音 | ![](https://img.moegirl.org.cn/common/3/39/友希爱音.png) | [萌娘百科](https://zh.moegirl.org.cn/友希爱音) |
+| asahi kasumi | 香澄朝阳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
