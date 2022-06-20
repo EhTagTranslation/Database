@@ -1135,7 +1135,7 @@ example:
 | chousoku henkei gyrozetter | 超速变形螺旋杰特 | 《超速变形螺旋杰特》（日语：超速変形ジャイロゼッター），是一套于2012年6月开始在日本设置的街机游戏，于10月被改编成动画影集。电视动画全51话。 | [维基百科](https://zh.wikipedia.org/zh-cn/超速變形螺旋傑特) (\*) |
 | kengan ashura | 拳愿阿修罗 | 《拳愿阿修罗》是三肉必起·牙霸子原作、达露没恩负责作画，在里Sunday（少年Sunday编辑部所经营的WEB漫画网站）上连载的格斗漫画，至2015年8月1日第一部完结。 | [维基百科](https://zh.wikipedia.org/zh-cn/拳願阿修羅) (\*) |
 | tonari no miko-san wa minna warau | 邻家的巫女在微笑 |  |  |
-| aikatsu | Aikatsu！偶像活动！ | 《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。 | [维基百科](https://zh.wikipedia.org/zh-cn/Aikatsu！偶像活動！) (\*) |
+| aikatsu | 偶活学园！ | 《Aikatsu！偶像活动！》是BANDAI发售的DATA CARDDASS游戏。2012年10月25日开始推出游戏为先驱，2012年10月8日动画开始播放。宣传口号为“国民的偶像试镜游戏”。 | [维基百科](https://zh.wikipedia.org/zh-cn/Aikatsu！偶像活動！) [萌娘百科](https://zh.moegirl.org.cn/偶活学园!系列) (\*) |
 | aho-girl | 笨女孩 | 《笨女孩》（日语：アホガール）是自称清纯派所作的日本漫画。于2012年11月28日发售的《周刊少年Magazine》2012年52号开始连载直到2015年12号，现在连载于别册少年Magazine上，刊载的作品是四格漫画的形式。本作是描写冷酷高中生阿久津明与笨蛋女高中生花畑佳子的学校日常生活的搞笑喜剧作品。电视动画于2017年7月4日起由东京都会电视台、AT-X等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/單蠢女孩) (\*) |
 | azur lane | 碧蓝航线 | 《碧蓝航线》是一款由中国上海蛮啾网络科技与厦门勇仕网络技术制作，由bilibili游戏发行的萌拟人化即时海战类的智能手机游戏，于2017年5月25日开始运营。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线) (\*\*) [维基百科](https://zh.wikipedia.org/zh-cn/碧藍航線) |
 | isekai shokudou | 异世界食堂 | 《异世界食堂》（異世界食堂），日本轻小说作家犬冢惇平的轻小说作品，发表于小说投稿网站成为小说家吧的网络连载小说。由主妇之友社出版，插画为榎波克己（エナミカツミ）。2016年9月28日宣布动画化，于2017年7月3日起由东京电视台、AT-X等电视台播放。台湾中文版由四季出版发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/異世界食堂) (\*) |
