@@ -3935,6 +3935,7 @@ example:
 | yozora kasumi | 香澄夜空 | ![](https://img.moegirl.org.cn/common/thumb/0/00/香澄夜空.jpeg/420px-香澄夜空.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/香澄夜空) |
 | sumire hikami | 冰上堇 | ![](https://img.moegirl.org.cn/common/3/34/20170725173451_5TXWJ.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/冰上堇) |
 | akari oozora | 大空明 | ![](https://img.moegirl.org.cn/common/9/93/Greatsky.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大空明) |
+| risa shirakaba | 白桦丽莎 | ![](https://img.moegirl.org.cn/common/9/92/Risabe.jpg) | [萌娘百科](https://zh.moegirl.org.cn/白桦丽莎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
