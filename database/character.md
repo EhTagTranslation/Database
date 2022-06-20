@@ -3928,6 +3928,7 @@ example:
 | raki kiseki | 姬石来希 |  |  |
 | ringo hoshimiya | 星宫苹果 |  |  |
 | tsubasa kisaragi | 如月翼 | ![](https://img.moegirl.org.cn/common/0/03/如月翼.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/如月翼) |
+| seira otoshiro | 音城塞拉 | ![](https://img.moegirl.org.cn/common/thumb/5/5c/Seira.jpg/420px-Seira.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音城塞拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
