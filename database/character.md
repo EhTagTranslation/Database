@@ -3462,7 +3462,7 @@ example:
 | mitsuko shindo | 进藤美津子 |  |  |
 | yuki mitani | 三谷祐辉 |  |  |
 | kimihiro tsutsui | 筒井公宏 |  |  |
-| yoko ritona | 优子 | ![图](https://ehgt.org/95/52/9552e39c309b1c22b341abae6e5284f4d758d0e5-148248-491-700-jpg_l.jpg) |  |
+| yoko ritona | 优子 | 所属作品 `p:tengen toppa gurren lagann`<br>![图](https://ehgt.org/95/52/9552e39c309b1c22b341abae6e5284f4d758d0e5-148248-491-700-jpg_l.jpg) |  |
 | nia teppelin | 尼娅 | ![图](https://ehgt.org/1e/1f/1e1fd2b2fdeefb963b2decf8702c5bc714227faf-310003-1046-1500-jpg_l.jpg) |  |
 | simon | 西蒙 |  |  |
 | kamina | 卡米那 |  |  |
