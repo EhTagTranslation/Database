@@ -3939,6 +3939,7 @@ example:
 | nono daichi | 大地乃野 | ![](https://img.moegirl.org.cn/common/c/c5/Nonocchi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大地乃野) |
 | sora kazesawa | 风泽空 | ![](https://img.moegirl.org.cn/common/4/49/Kazesawa_Sora_Profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/风泽空) |
 | kii saegusa | 冴草纪伊 | ![](https://img.moegirl.org.cn/common/6/6e/SaegusaKii.jpg) | [萌娘百科](https://zh.moegirl.org.cn/冴草纪伊) |
+| mio minato | 凑美绪 | ![](https://img.moegirl.org.cn/common/2/22/凑美绪.png) | [萌娘百科](https://zh.moegirl.org.cn/凑美绪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
