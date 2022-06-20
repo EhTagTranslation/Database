@@ -3925,6 +3925,7 @@ example:
 | kirara hanazono | 花园绮罗 | ![](https://img.moegirl.org.cn/common/0/01/花园绮罗.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/花园绮罗) |
 | orihime mitsuishi | 光石织姬 | ![](https://img.moegirl.org.cn/common/6/6f/Masqhime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/光石织姬) |
 | noeru otoshiro | 音城诺艾儿 | ![](https://img.moegirl.org.cn/common/b/bf/音城诺艾儿.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音城诺艾儿) |
+| raki kiseki | 姬石来希 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
