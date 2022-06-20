@@ -12080,6 +12080,7 @@ example:
 | hotter daimon | 掘多大門 | ホッタダイモン | [pixiv](https://www.pixiv.net/users/16712573) [Twitter](https://twitter.com/schophotter) |
 | cirilla | CIRILLA |  | [pixiv](https://www.pixiv.net/users/10748940) |
 | tsunakama | ツナかま | ![图](https://ehgt.org/bc/14/bc14033c878d09bdba5ba3e982ae4ec2f5960253-17712-338-338-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/70479526) [Twitter](https://twitter.com/tunakama_1212) |
+| yoshida ninn | 吉田にん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
