@@ -3933,6 +3933,7 @@ example:
 | aine yuuki | 友希爱音 | ![](https://img.moegirl.org.cn/common/3/39/友希爱音.png) | [萌娘百科](https://zh.moegirl.org.cn/友希爱音) |
 | asahi kasumi | 香澄朝阳 |  |  |
 | yozora kasumi | 香澄夜空 | ![](https://img.moegirl.org.cn/common/thumb/0/00/香澄夜空.jpeg/420px-香澄夜空.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/香澄夜空) |
+| sumire hikami | 冰上堇 | ![](https://img.moegirl.org.cn/common/3/34/20170725173451_5TXWJ.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/冰上堇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
