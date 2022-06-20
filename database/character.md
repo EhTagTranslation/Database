@@ -3920,6 +3920,7 @@ example:
 | yoshino kousaka | 高坂佳乃 |  |  |
 | kuzuha togashi | 富㭴樟叶 | ![](https://img.moegirl.org.cn/common/7/73/Kuzuha.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/富㭴樟叶) |
 | ichigo hoshimiya | 星宫莓 | ![](https://img.moegirl.org.cn/common/d/d6/20171101134627_hatCi.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/星宫莓) |
+| aoi kiriya | 雾矢葵 | ![](https://img.moegirl.org.cn/common/2/25/20180224124351_fhkvx.jpg) | [萌娘百科](https://zh.moegirl.org.cn/雾矢葵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
