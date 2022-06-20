@@ -1952,6 +1952,7 @@ example:
 | perman | 飞人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小超人帕門) |
 | danshi koukousei de urekko light novel sakka o shiteiru keredo | 身为男高中生兼当红轻小说作家的我，正被年纪比我小且从事声优工作的女同学掐住脖子 |  | [维基百科](https://zh.wikipedia.org/wiki/身為男高中生兼當紅輕小說作家的我，正被年紀比我小且從事聲優工作的女同學掐住脖子) |
 | destiny child | 命运之子 | 《命运之子》是一款由Shift Up开发的角色扮演游戏，于2016年10月27日在Android和iOS平台上发行（韩国版），并于2018年12月6日推出国际版。由韩国插画家兼游戏设计师金亨泰主导和设计，而ESTi则负责配乐。 | [维基百科](https://zh.wikipedia.org/zh/命運之子_%28遊戲%29) [fandom](https://gachagames.fandom.com/wiki/Destiny_Child) |
+| ousama ranking | 国王排名 | ![图](https://ehgt.org/62/78/6278b744543fe414363915c4b1b798f9f6464c60-275354-704-1000-jpg_l.jpg) | [维基百科（英语）](https://en.wikipedia.org/wiki/Ranking_of_Kings) [萌娘百科](https://zh.moegirl.org.cn/国王排名) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
