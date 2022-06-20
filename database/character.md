@@ -3917,6 +3917,7 @@ example:
 | specter | 幽灵鲨 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:幽灵鲨) |
 | aether foundation employee | 以太基金会员工 | 以太基金会职员（日文：エーテル財団 職員 Aether Foundation Staff）是第七世代引入的一种宝可梦训练家。他们是以太基金会的雇员，身着白色的未来派制服。<br>![图](https://ehgt.org/bc/24/bc240be0a2fb07aa8efe64ea437c06c68bafcc67-705326-815-1280-png_l.jpg) | [wiki](https://bulbapedia.bulbagarden.net/wiki/Aether_Foundation_Employee_%28Trainer_class%29) |
 | hiling | 希琳 | 伯斯王的第二任妻子，戴达的亲生母亲。<br>![图](https://ehgt.org/09/e7/09e7b2f5fdf53c8ae60be79a4e943874585e3dfe-369341-1000-1200-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/希琳) |
+| yoshino kousaka | 高坂佳乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
