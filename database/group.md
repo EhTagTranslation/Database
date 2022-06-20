@@ -12429,6 +12429,7 @@ example:
 | jurei no mori | 呪霊の杜 |  |  |
 | tsukitate-koubou | つきたて工房 |  |  |
 | aramaa | あらまあ |  |  |
+| kazamidori | かざみどり | `a:footaro` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
