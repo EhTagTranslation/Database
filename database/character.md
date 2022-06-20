@@ -3923,6 +3923,7 @@ example:
 | aoi kiriya | 雾矢葵 | ![](https://img.moegirl.org.cn/common/2/25/20180224124351_fhkvx.jpg) | [萌娘百科](https://zh.moegirl.org.cn/雾矢葵) |
 | yurika toudou | 藤堂百合香 | ![](https://img.moegirl.org.cn/common/thumb/7/78/20171224145848_mWBvi.jpeg/420px-20171224145848_mWBvi.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/藤堂百合香) |
 | kirara hanazono | 花园绮罗 | ![](https://img.moegirl.org.cn/common/0/01/花园绮罗.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/花园绮罗) |
+| orihime mitsuishi | 光石织姬 | ![](https://img.moegirl.org.cn/common/6/6f/Masqhime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/光石织姬) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
