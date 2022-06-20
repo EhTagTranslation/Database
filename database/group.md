@@ -12432,6 +12432,7 @@ example:
 | kazamidori | かざみどり | `a:footaro` |  |
 | m3 | M3 |  |  |
 | hiwa izumo taisha | 秘話出雲大社 |  |  |
+| caisson | CAISSON |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
