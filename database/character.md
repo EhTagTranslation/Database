@@ -3937,6 +3937,7 @@ example:
 | akari oozora | 大空明 | ![](https://img.moegirl.org.cn/common/9/93/Greatsky.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大空明) |
 | risa shirakaba | 白桦丽莎 | ![](https://img.moegirl.org.cn/common/9/92/Risabe.jpg) | [萌娘百科](https://zh.moegirl.org.cn/白桦丽莎) |
 | nono daichi | 大地乃野 | ![](https://img.moegirl.org.cn/common/c/c5/Nonocchi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大地乃野) |
+| sora kazesawa | 风泽空 | ![](https://img.moegirl.org.cn/common/thumb/4/49/Kazesawa_Sora_Profile.jpg/420px-Kazesawa_Sora_Profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/风泽空) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
