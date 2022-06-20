@@ -12430,6 +12430,7 @@ example:
 | tsukitate-koubou | つきたて工房 |  |  |
 | aramaa | あらまあ |  |  |
 | kazamidori | かざみどり | `a:footaro` |  |
+| m3 | M3 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
