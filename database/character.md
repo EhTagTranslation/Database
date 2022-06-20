@@ -3936,6 +3936,7 @@ example:
 | sumire hikami | 冰上堇 | ![](https://img.moegirl.org.cn/common/3/34/20170725173451_5TXWJ.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/冰上堇) |
 | akari oozora | 大空明 | ![](https://img.moegirl.org.cn/common/9/93/Greatsky.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大空明) |
 | risa shirakaba | 白桦丽莎 | ![](https://img.moegirl.org.cn/common/9/92/Risabe.jpg) | [萌娘百科](https://zh.moegirl.org.cn/白桦丽莎) |
+| nono daichi | 大地乃野 | ![](https://img.moegirl.org.cn/common/c/c5/Nonocchi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大地乃野) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
