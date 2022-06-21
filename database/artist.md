@@ -3559,7 +3559,7 @@ example:
 | nanakichi | 七吉 |  |  |
 | yoshitama ichirou | 吉玉一楼 |  |  |
 | rifuru | りふる |  |  |
-| oniharigusa | 鬼针草 | ![头像](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/6049901/icon/FQky4DosFQb4M2L1WKK42DQ6.jpeg)<br>一个画涩图的(･∀･) | [Weibo](http://weibo.com/cb0911) [Pixiv](https://www.pixiv.net/users/6049901) [Twitter](https://twitter.com/szcb911) |
+| oniharigusa | 鬼针草 | ![头像](https://i.pixiv.cat/user-profile/img/2022/02/05/20/31/51/22172725_6a5a0d1c031f4f9a8a0ebb377cfaf3c2_170.jpg)<br>一个画涩图的(･∀･) | [微博](http://weibo.com/cb0911) [pixiv](https://www.pixiv.net/users/6049901) [Twitter](https://twitter.com/szcb911) |
 | komota | こもた | ![twitter](https://pbs.twimg.com/profile_images/1174997362537721858/ApbkA57L_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/komota_memobako) [pixiv](https://www.pixiv.net/users/17532381) |
 | akamoku | あかもく |  | [Twitter](https://twitter.com/akmkmk3) [pixiv](https://www.pixiv.net/users/50151624) |
 | hiyama yuki | 檜山ユキ |  |  |
