@@ -3949,6 +3949,7 @@ example:
 | shiranui flare | 不知火芙蕾雅 |  |  |
 | sussurro | 苏苏洛 | 《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
 | alice tendou | 天童爱丽丝 | Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
+| hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
