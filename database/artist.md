@@ -12083,6 +12083,7 @@ example:
 | yoshida ninn | 吉田にん |  |  |
 | yukimura yukio | 雪村雪緒 |  |  |
 | akiyoshi amelie | 秋芳あめり |  |  |
+| shikibe tsuko | 色辺つこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
