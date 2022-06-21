@@ -12084,6 +12084,7 @@ example:
 | yukimura yukio | 雪村雪緒 |  |  |
 | akiyoshi amelie | 秋芳あめり |  |  |
 | shikibe tsuko | 色辺つこ |  |  |
+| yusha-m | Yusha-M |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
