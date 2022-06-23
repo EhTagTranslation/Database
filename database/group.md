@@ -12433,6 +12433,7 @@ example:
 | m3 | M3 |  |  |
 | hiwa izumo taisha | 秘話出雲大社 |  |  |
 | caisson | CAISSON |  |  |
+| tuberose | 月化香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
