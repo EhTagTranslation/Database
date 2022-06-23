@@ -253,7 +253,7 @@ example:
 | persona 5 | 女神异闻录5 |  |  |
 |  | ▲女神转生 系列 |  |  |
 | monsters inc. | 怪兽电力公司 |  |  |
-| hai to gensou no grimgar | 灰与幻想的格林姆迦尔 | 主角·哈尔希洛因未知原因失去记忆，并来到了陌生而危险的异世界：格林姆迦尔。之后迫于生计而成为义勇兵，与马纳多等人组成队伍一同狩猎，大家一起在格林姆迦尔展开冒险并最终成长进步。灰幻[1]以成长为核心题材，重视团队精神和团队合作，着重表现角色心境的成长变化，是传统异世界冒险故事。 | [维基百科](https://zh.wikipedia.org/zh/灰與幻想的格林姆迦爾) [萌娘百科](https://zh.moegirl.org.cn/灰与幻想的格林姆迦尔) [fandom](https://grimgar.fandom.com/wiki/Hai_to_Gensou_no_Grimgar_Wikia) |
+| hai to gensou no grimgar | 灰与幻想的格林姆迦尔 | 主角·哈尔希洛因未知原因失去记忆，并来到了陌生而危险的异世界：格林姆迦尔。之后迫于生计而成为义勇兵，与马纳多等人组成队伍一同狩猎，大家一起在格林姆迦尔展开冒险并最终成长进步。灰幻[1]以成长为核心题材，重视团队精神和团队合作，着重表现角色心境的成长变化，是传统异世界冒险故事。 | [维基百科](https://zh.wikipedia.org/zh/灰與幻想的格林姆迦爾) [萌娘百科](https://zh.moegirl.org.cn/灰与幻想的格林姆迦尔) [Fandom](https://grimgar.fandom.com/wiki/Hai_to_Gensou_no_Grimgar_Wikia) |
 | pretty rhythm | 美妙旋律 |  |  |
 | mamono musume zukan | 魔物娘图鉴 |  |  |
 | getsuyoubi no tawawa | 星期一的丰满 |  |  |
@@ -1658,8 +1658,8 @@ example:
 | nana to kaoru | 奈奈与薰的SM日记 |  |  |
 | kawaii dake ja nai shikimori-san | 式守同学不只可爱而已 | ![图](https://ehgt.org/c7/f2/c7f21ef3f0feec2acdab15815fdb800bcdc71cdf-986740-1914-2714-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/式守同学不只可爱而已) [维基百科](https://en.wikipedia.org/wiki/Shikimori%27s_Not_Just_a_Cutie) |
 | toaru project | 魔法禁书系列 | 魔法禁书系列世界观下的作品，如《魔法禁书目录（とある魔術の禁書目録）》和《科学超电磁炮（とある科学の超電磁砲）》 。 |  |
-| tenka hyakken | 天华百剑 | 《天华百剑》是在 KADOKAWA ASCII Media Works 的动漫杂志「电击 G's Magazine」上，从 2015 年 6 月起连载图绘小说的企划。是一个将日本刀美少女化的企划，有许多人气绘师与漫画作家参与。<br><br>目前在「电击 G's Magazine」连载图绘小说（文：SEVEN DAYS WAR，插图：Tea），也在官方 Twitter 上连载 4 格漫画（作者：武シノブ）。从 2016 年 6 月起于「电击 G's Comic」上连载剧情漫画（作者：酒月ほまれ）。还从2017年4月起于「电击 G's Magazine」特别附录「DENGEKI G’s NOVEL」连载小说。2017年4月与 DeNA 合作推出智慧型手机游戏。2019年4月宣布短篇动画化。 | [萌娘百科](https://zh.moegirl.org.cn/天华百剑) [萌娘百科](https://zh.moegirl.org.cn/天华百剑_-斩-) [维基百科](https://ja.wikipedia.org/wiki/天華百剣) [fandom](https://tenka-hyakken.fandom.com/wiki/Tenka_Hyakken_Wikia) |
-| oshiro project | 御城少女Project | 《御城Project》（御城プロジェクト ～CASTLE DEFENSE～）是由DMM GAMES开发、由DMM.com运营的以日本各地的古代城池拟人为题材的收集类塔防网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/御城少女Project) [萌娘百科](https://zh.moegirl.org.cn/御城少女Project:RE) [fandom](https://shiroprore.fandom.com/wiki/Shiro_Project:RE_Wiki) |
+| tenka hyakken | 天华百剑 | 《天华百剑》是在 KADOKAWA ASCII Media Works 的动漫杂志「电击 G's Magazine」上，从 2015 年 6 月起连载图绘小说的企划。是一个将日本刀美少女化的企划，有许多人气绘师与漫画作家参与。<br><br>目前在「电击 G's Magazine」连载图绘小说（文：SEVEN DAYS WAR，插图：Tea），也在官方 Twitter 上连载 4 格漫画（作者：武シノブ）。从 2016 年 6 月起于「电击 G's Comic」上连载剧情漫画（作者：酒月ほまれ）。还从2017年4月起于「电击 G's Magazine」特别附录「DENGEKI G’s NOVEL」连载小说。2017年4月与 DeNA 合作推出智慧型手机游戏。2019年4月宣布短篇动画化。 | [萌娘百科](https://zh.moegirl.org.cn/天华百剑) [萌娘百科](https://zh.moegirl.org.cn/天华百剑_-斩-) [维基百科](https://ja.wikipedia.org/wiki/天華百剣) [Fandom](https://tenka-hyakken.fandom.com/wiki/Tenka_Hyakken_Wikia) |
+| oshiro project | 御城少女Project | 《御城Project》（御城プロジェクト ～CASTLE DEFENSE～）是由DMM GAMES开发、由DMM.com运营的以日本各地的古代城池拟人为题材的收集类塔防网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/御城少女Project) [萌娘百科](https://zh.moegirl.org.cn/御城少女Project:RE) [Fandom](https://shiroprore.fandom.com/wiki/Shiro_Project:RE_Wiki) |
 | amaama to inazuma | 天真与闪电 |  | [萌娘百科](https://zh.moegirl.org.cn/天真与闪电) [维基百科](https://en.wikipedia.org/wiki/Sweetness_and_Lightning) |
 | kin-iro loveriche | 金辉恋曲四重奏 | 金辉恋曲四重奏（日语：金色ラブリッチェ，简称金恋）是由日本美少女游戏厂商SAGA PLANETS开发的R18恋爱冒险游戏，该作为该社的第20作。中文版由HIKARI FIELD代理。<br>![图](https://ehgt.org/b4/f1/b4f10d00a696b5722579514e9312191c573a0107-363805-1070-1518-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/金辉恋曲四重奏) [hp](http://sagaplanets.product.co.jp/works/kinkoi/) |
 | ganbare douki-chan | 加油吧同期酱 |  | [萌娘百科](https://zh.moegirl.org.cn/加油啊同期酱) |
@@ -1668,7 +1668,7 @@ example:
 | majuu senshi luna varga | 魔兽战士 |  | [myanimelist](https://myanimelist.net/anime/2079/Majuu_Senshi_Luna_Varga)  [维基百科](https://ja.wikipedia.org/wiki/魔獣戦士ルナ・ヴァルガー) |
 | saijaku muhai no bahamut | 最弱无败神装机龙 | 《最弱无败神装机龙》（日语：最弱無敗の神装機竜バハムート）是明月千里撰写，春日步绘制插画的日本轻小说作品。由GA文库发行，共20卷。 | [维基百科](https://zh.wikipedia.org/zh/最弱無敗神裝機龍) [萌娘百科](https://zh.moegirl.org.cn/最弱无败神装机龙) |
 | trinity seven | 七人魔法使 |  | [维基百科](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者) [萌娘百科](https://zh.moegirl.org.cn/TRINITY_SEVEN_魔道书7使者) |
-| venus eleven vivid | Venus Eleven Vivid！ | 《维纳斯11人VIVID》（Venus Eleven Vivid！/ビーナスイレブンびびっど！）》是日本amazing旗下人气“维纳斯系列”最新作，是一款美少女养成手游。玩家担任的是一个足球俱乐部的老板，通过扭蛋招募美少女选手，并亲自培养她们，以制霸足球联赛为目标。 | [HP](https://venus11.net/) [fandom](https://venus-11.fandom.com/wiki/Venus_Eleven_Wiki) |
+| venus eleven vivid | Venus Eleven Vivid！ | 《维纳斯11人VIVID》（Venus Eleven Vivid！/ビーナスイレブンびびっど！）》是日本amazing旗下人气“维纳斯系列”最新作，是一款美少女养成手游。玩家担任的是一个足球俱乐部的老板，通过扭蛋招募美少女选手，并亲自培养她们，以制霸足球联赛为目标。 | [HP](https://venus11.net/) [Fandom](https://venus-11.fandom.com/wiki/Venus_Eleven_Wiki) |
 | emil chronicle online | 艾米尔编年史 | 官方译名	<br>港台：伊希欧之梦、埃米尔物语<br>大陆：艾米尔编年史<br><br>《艾米尔编年史》（日语：エミル・クロニクル・オンライン）是由Headlock、GungHo与Broccoli共同制作的大型多人在线角色扮演游戏（MMORPG），并有漫画、声优广播剧等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/伊希歐之夢) [萌娘百科](https://zh.moegirl.org.cn/艾米尔编年史) |
 | megido 72 | 恶魔72 | 《恶魔72》（日语：メギド72，又译作“米吉多72”）是由DeNA开发并运营的电子角色扮演游戏，于2017年12月面向日本Android和iOS使用者推出。游戏讲述主人公所罗门利用传说戒指之力率领72柱恶魔，从孤岛危机“哈米吉多顿”的危机中拯救世界的故事。 | [Bangumi](https://bgm.tv/subject/286485) [维基百科](https://zh.wikipedia.org/zh/惡魔72) |
 | umihara kawase | 海腹川背 | 《海腹川背》（umihara kawase）是一款1994年发布于SFC平台的横板过关游戏，女主角名字也叫海腹川背。该游戏后来移植到了DS、PS、NS平台。 | [百度百科](https://baike.baidu.com/item/海腹川背/4995214) [维基百科](https://ja.wikipedia.org/wiki/海腹川背) |
@@ -1678,7 +1678,7 @@ example:
 | takopii no genzai | 章鱼噼的原罪 | 《章鱼噼的原罪》（日语：タコピーの原罪）是日本漫画家タイザン5所创作的短篇漫画作品，于2021年12月10日至2022年3月25日在少年Jump+上连载，逢星期五更新。 | [维基百科](https://zh.wikipedia.org/zh/章魚嗶的原罪) [myanimelist](https://myanimelist.net/manga/142600/Takopii_no_Genzai) |
 | super cub | 本田小狼与我 | 《本田小狼与我》（日语：スーパーカブ）是由トネ・コーケン创作、`a:hiro`插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/本田小狼与我) |
 | kekkaishi | 结界师 |  |  |
-| senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg/revision/latest?cb=20201028145831) | [萌娘百科](https://zh.moegirl.org.cn/zh/战翼的希格德莉法) [fandom](https://senyoku-no-sigrdrifa.fandom.com/wiki/Warlords_of_Sigrdrifa_%28Anime%29) |
+| senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg) |
 | densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
 | video girl ai | 电影少女 | ![](https://cdn.myanimelist.net/images/anime/1/2349l.jpg) | [维基百科](https://zh.wikipedia.org/zh/電影少女) |
 | last origin | Last Origin |  |  |
@@ -1940,7 +1940,7 @@ example:
 | the idolmaster sidem | 偶像大師SideM | `the idolmaster sidem`是MOBAGE上运营的一款一般向手机社交游戏，也是偶像大师系列第一款以培养男性偶像为主题的游戏。虽然主要目标受众是女性，并不是女性向作品。设计游戏内容时虽然会考虑不同性别玩家的游戏习惯，大前提是把玩家都作为制作人来考虑。 | [萌娘百科](https://zh.moegirl.org.cn/偶像大师_SideM) [维基百科](https://zh.wikipedia.org/wiki/偶像大師SideM) |
 | ryuugajou nanana no maizoukin | 龙娘七七七埋藏的宝藏 |  |  |
 | grandia | 冒險奇譚 |  |  |
-| grappler baki | 刃牙 | 刃牙系列为日本漫画家板垣恵介创作的经典格斗漫画。 | [fandom](https://baki.fandom.com/wiki/Baki_Wiki) [维基百科](https://zh.wikipedia.org/zh/刃牙) [萌娘百科](https://zh.moegirl.org.cn/刃牙) |
+| grappler baki | 刃牙 | 刃牙系列为日本漫画家板垣恵介创作的经典格斗漫画。 | [Fandom](https://baki.fandom.com/wiki/Baki_Wiki) [维基百科](https://zh.wikipedia.org/zh/刃牙) [萌娘百科](https://zh.moegirl.org.cn/刃牙) |
 | mayonaka no tantei nightwalker | 真夜中的侦探 |  |  |
 | boku no kokoro no yabai yatsu | 我内心的糟糕念头 | ![](https://upload.wikimedia.org/wikipedia/zh/3/3f/我內心的糟糕念頭.jpg) | [维基百科](https://zh.wikipedia.org/zh/我內心的糟糕念頭) [myanimelist](https://myanimelist.net/manga/112807/Boku_no_Kokoro_no_Yabai_Yatsu) |
 | inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru | 单马尾表弟 (暂译) | 田舎に帰るとやけになついた褐色ポニテショタがいる<br>![](https://cdn.myanimelist.net/images/manga/1/217656.jpg) | [myanimelist](https://myanimelist.net/manga/119337/Inaka_ni_Kaeru_to_Yakeni_Natsuita_Kasshoku_Ponytail_Shota_ga_Iru) |
@@ -1951,7 +1951,7 @@ example:
 | kiteretsu daihyakka | 奇天烈大百科 |  | [维基百科](https://zh.wikipedia.org/zh-cn/奇天烈大百科) |
 | perman | 飞人 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小超人帕門) |
 | danshi koukousei de urekko light novel sakka o shiteiru keredo | 身为男高中生兼当红轻小说作家的我，正被年纪比我小且从事声优工作的女同学掐住脖子 |  | [维基百科](https://zh.wikipedia.org/wiki/身為男高中生兼當紅輕小說作家的我，正被年紀比我小且從事聲優工作的女同學掐住脖子) |
-| destiny child | 命运之子 | 《命运之子》是一款由Shift Up开发的角色扮演游戏，于2016年10月27日在Android和iOS平台上发行（韩国版），并于2018年12月6日推出国际版。由韩国插画家兼游戏设计师金亨泰主导和设计，而ESTi则负责配乐。 | [维基百科](https://zh.wikipedia.org/zh/命運之子_%28遊戲%29) [fandom](https://gachagames.fandom.com/wiki/Destiny_Child) |
+| destiny child | 命运之子 | 《命运之子》是一款由Shift Up开发的角色扮演游戏，于2016年10月27日在Android和iOS平台上发行（韩国版），并于2018年12月6日推出国际版。由韩国插画家兼游戏设计师金亨泰主导和设计，而ESTi则负责配乐。 | [维基百科](https://zh.wikipedia.org/zh/命運之子_%28遊戲%29) [Fandom](https://gachagames.fandom.com/wiki/Destiny_Child) |
 | ousama ranking | 国王排名 | ![图](https://ehgt.org/62/78/6278b744543fe414363915c4b1b798f9f6464c60-275354-704-1000-jpg_l.jpg) | [维基百科（英语）](https://en.wikipedia.org/wiki/Ranking_of_Kings) [萌娘百科](https://zh.moegirl.org.cn/国王排名) |
 
 <!--TEMPLATE: 
