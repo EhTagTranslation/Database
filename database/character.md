@@ -3952,6 +3952,7 @@ example:
 | hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
 | chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |
 | anko kitashirakawa | 北白川馅子 | 所属作品: `p:tamako market`<br>![图](https://ehgt.org/49/98/49988733b649315e51a337ed939d34791c62ef69-35312-270-600-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北白川馅子) [Fandom](https://tamakomarket.fandom.com/wiki/Anko_Kitashirakawa) |
+| seraphine | 萨勒芬妮 | 所属作品: `p:league of legends`<br>![](https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Seraphine_OriginalSkin.jpg/revision/latest/scale-to-width-down/1000?cb=20201014003642) | [fandom](https://leagueoflegends.fandom.com/zh/wiki/Seraphine/LoL) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
