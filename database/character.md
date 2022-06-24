@@ -1177,7 +1177,7 @@ example:
 | shizuka sakaki | 坂木静香 | ![坂木静香](https://ehgt.org/dd/04/dd04c6153a9486b891a972a6385651ee15f25819-1134912-2517-3600-jpg_l.jpg) |  |
 | misa toudou | 藤堂美沙 | ![藤堂美沙](https://ehgt.org/84/3f/843ff87a0c00171ce96eaad056fe337bf50dfe38-525650-2853-4089-jpg_l.jpg) |  |
 | misato segawa | 濑川美里 | ![濑川美里](https://ehgt.org/ca/f4/caf44f658143ea7205c989237fb46027890d6f0d-1361110-2492-3600-jpg_l.jpg) |  |
-| erika yano | 矢野艾莉卡 | ![矢野艾莉卡](https://ehgt.org/80/ec/80ec1d77f1434d550a068ac5dfe7731d92be0fff-1355510-2500-3600-jpg_l.jpg) |  |
+| erika yano | 矢野艾莉卡 | ![矢野艾莉卡](https://pixiv.cat/55104908.jpg) |  |
 | rinko ogasawara | 小笠原纶子 | ![小笠原纶子](# "https://ehgt.org/53/1e/531e4d2515bacc159119d99b4f7473e2418befa9-293381-885-627-jpg_l.jpg") |  |
 | yuka okitsu | 兴津由佳 | ![兴津由佳](# "https://ehgt.org/f7/89/f789c40d3b153f69e70488b7f695bcdff6517d1b-6566190-2123-3000-jpg_l.jpg") |  |
 | shun watanabe | 渡边隼 | ![渡边隼](https://ehgt.org/48/46/4846302b6c3c067290eda59e11b77bb6c63a23e1-645360-1045-1500-jpg_l.jpg) |  |
@@ -3416,7 +3416,7 @@ example:
 | aether | 空 | 《`genshin impact`》及其衍生作品的登场角色。可作为玩家的代入角色。 | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | 《原神》及其衍生作品的登场角色，自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。 | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
 | eula lawrence | 优菈·劳伦斯 | 《`genshin impact`》及其衍生作品的登场角色，西风骑士团「游击小队」队长与声名显赫的「浪花骑士」，同时也是旧贵族劳伦斯家族的后裔。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
-| barbara pegg | 芭芭拉 | 所属作品：`p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg) |
+| barbara pegg | 芭芭拉 | 所属作品：`p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/9/93/Character_Barbara_Card.jpg) |  |
 | chongyun | 重云 |  |  |
 | xingqiu | 行秋 |  |  |
 | lisa minci | 丽莎·敏兹 | 《原神》及其衍生作品的登场角色，西风骑士团图书馆的管理员，钟情于睡眠的知性魔女。 | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
@@ -3819,7 +3819,7 @@ example:
 | suo sango | 周央珊瑚 | 周央珊瑚是一名从2020年08月09日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/周央珊瑚) |
 | lakshmibai | 拉克什米·芭伊 | 章西女王（Rani of Jhansi；1835年11月19日—1858年6月18日），印度民族女英雄。 | [萌娘百科](https://zh.moegirl.org.cn/拉克什米·芭伊%28Fate%29) |
 | inui toko | 戌亥とこ |  |  |
-| krul tepes | 克鲁鲁·采佩西 | 克鲁鲁·采佩西是由镜贵也所创作的漫画《`p:owari no seraph`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/owarinoseraph/images/6/66/Seraph_of_the_End_-_Krul_Tepes_%28Anime%29.png) |
+| krul tepes | 克鲁鲁·采佩西 | 克鲁鲁·采佩西是由镜贵也所创作的漫画《`p:owari no seraph`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/owarinoseraph/images/6/66/Seraph_of_the_End_-_Krul_Tepes_%28Anime%29.png) |  |
 | mutsumi otohime | 乙姬睦美 |  |  |
 | shinobu maehara | 前原忍 |  |  |
 | naru narusegawa | 成濑川奈留 |  |  |
@@ -3834,21 +3834,21 @@ example:
 | impmon | 小妖兽 |  |  |
 | nonomi izayoi | 十六夜野宫 | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png)<br>十六夜野乃美 | [gamekee](https://ba.gamekee.com/68803.html) [Fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
 | yuuma toutetsu | 饕餮尤魔 | 饕餮尤魔是日本的《东方Project》系列弹幕游戏及其衍生作品的登场角色之一。<br>初登场于《东方刚欲异闻》，作为最终面BOSS登场。 | [https://thwiki.cc/饕餮尤魔](https://thwiki.cc/饕餮尤魔)<br>[萌娘百科](https://mzh.moegirl.org.cn/饕餮尤魔) |
-| miyuki kobayakawa | 小早川美幸 | 小早川美幸是藤岛康介所创作的漫画《`youre under arrest`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/yua/images/8/84/Miyuki_Kobayakawa.jpg) |
-| natsumi tsujimoto | 辻本夏实 | ![](https://static.wikia.nocookie.net/yua/images/a/a7/Natsumi_Tsujimoto.jpg) |
-| yoriko nikaido | 二阶堂赖子 | ![](https://static.wikia.nocookie.net/yua/images/c/c2/Yoriko_Nikaidou.jpg) |
-| kyousuke natsume | 枣恭介 | 枣恭介，是Visual Art's旗下品牌`key`创作的游戏《`little busters`》及其衍生系列作品的登场角色。<br><br>本作的真·男主，在主要线路中几乎都是核心人物。<br>![](https://static.wikia.nocookie.net/littlebusters/images/e/e2/Kyousuke_Icon.png) |
-| rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png) |
+| miyuki kobayakawa | 小早川美幸 | 小早川美幸是藤岛康介所创作的漫画《`youre under arrest`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/yua/images/8/84/Miyuki_Kobayakawa.jpg) |  |
+| natsumi tsujimoto | 辻本夏实 | ![](https://static.wikia.nocookie.net/yua/images/a/a7/Natsumi_Tsujimoto.jpg) |  |
+| yoriko nikaido | 二阶堂赖子 | ![](https://static.wikia.nocookie.net/yua/images/c/c2/Yoriko_Nikaidou.jpg) |  |
+| kyousuke natsume | 枣恭介 | 枣恭介，是Visual Art's旗下品牌`key`创作的游戏《`little busters`》及其衍生系列作品的登场角色。<br><br>本作的真·男主，在主要线路中几乎都是核心人物。<br>![](https://static.wikia.nocookie.net/littlebusters/images/e/e2/Kyousuke_Icon.png) |  |
+| rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png) |  |
 | kobeni yonomori | 夜之森小红 | 夜之森小红是漫画《未确认进行式》及其衍生的动画作品的登场角色，女主角。<br>![夜之森小红](https://lain.bgm.tv/pic/crt/l/61/12/21418_crt_cqedS.jpg)<br>拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。<br>小时候就已经见过白夜，但之后因为发生事故，而遗忘了这件事。<br>家事万能，并负责制作三餐。 | [bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
-| sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg) |
+| sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg) |  |
 | iori shiromi | 银镜伊织 | 所属作品：`p:blue archive`<br><br>格黑娜学园（ゲヘナ学園） | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
 | enji todoroki | 轰炎司 |  |  |
-| nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png) |
-| lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif) |
+| nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png) |  |
+| lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif) |  |
 | raiden | 雷电 | 所属作品：`p:metal gear solid`<br>《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。 | [维基百科](https://zh.wikipedia.org/wiki/合金装备系列角色列表) |
 | tien shinhan | 天津饭 |  |  |
-| soujiro izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，泉彼方的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG) |
+| soujiro izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，泉彼方的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG) |  |
 | theresa apocalypse | 德丽莎·阿波卡利斯 |  | [萌娘百科](https://zh.moegirl.org.cn/德丽莎·阿波卡利斯%28崩坏3%29#) |
 | rozaliya olenyeva | 萝莎莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/萝莎莉娅·阿琳) |
 | liliya olenyeva | 莉莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/莉莉娅·阿琳) |
@@ -3863,7 +3863,7 @@ example:
 | nanana ryuugajou | 龙娘七七七 |  |  |
 | nanami arihara | 在原七海 | 所属作品：`riddle joker`<br>![图](https://ehgt.org/0d/4f/0d4f6450f1803cf1317824d626da19efb0d5c20f-16458-250-300-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/在原七海) |
 | mai kawasumi | 川澄舞 | 所属作品：`p:kanon`<br>![图](https://ehgt.org/64/56/64566838dca0404b27f807916369ac353d0964b2-372444-1600-1000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/川澄舞) [Fandom](https://kanon.fandom.com/wiki/Mai_Kawasumi) |
-| yelan | 夜兰 | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/1/18/Character_Yelan_Card.jpg) |
+| yelan | 夜兰 | 所属作品 `p:genshin impact`<br>![](https://static.wikia.nocookie.net/gensin-impact/images/1/18/Character_Yelan_Card.jpg) |  |
 | baki hanma | 范马刃牙 | 所属作品 `grappler baki` | [Fandom](https://baki.fandom.com/wiki/Baki_Hanma) |
 | mana inuyama | 犬山真名 | 所属作品 `p:gegege no kitarou`<br>![图](https://ehgt.org/3d/f9/3df99a587b6ca07508581a39287a94689356dfaf-29336-478-860-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/犬山真名) [Fandom](https://gegegenokitaro.fandom.com/wiki/Mana_Inuyama) |
 | megumi | 惠美 | 惠美（日语：メグミ），也译惠，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/惠美%28少女与战车%29#) |
@@ -3875,9 +3875,9 @@ example:
 | pramanix | 初雪 | 所属作品 `p:arknights`<br>![图](https://ehgt.org/f8/f5/f8f5cd23e8d5b2aee01e5e964263a59d6ee7f455-821988-1440-1010-jpg_l.jpg) | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
 | medaka kurokami | 黑神目泷 |  |  |
 | miss crane | 鹤小姐 |  |  |
-| mordred | 莫德雷德 | 所属作品 `p:fate grand order`<br>![](https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp) |
+| mordred | 莫德雷德 | 所属作品 `p:fate grand order`<br>![](https://static.wikia.nocookie.net/fategrandorder/images/d/da/S076_Stage3.webp) |  |
 | mikaela hyakuya | 百夜米迦尔 | 所属作品 `p:owari no seraph` | [萌娘百科](https://zh.moegirl.org.cn/百夜米迦尔) [Fandom](https://owarinoseraph.fandom.com/wiki/Mikaela_Hyakuya) |
-| kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png) |
+| kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png) |  |
 | laplus darknesss | 拉普拉斯·达克尼斯 | ![图](https://ehgt.org/1f/e9/1fe9322d4a2f5d2f3b73cf996c0fb2e826c2b984-528423-1000-1000-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/拉普拉斯·达克尼斯) [Fandom](https://hololivevtuber.fandom.com/wiki/La%2B_Darknesss) [Fandom](https://virtualyoutuber.fandom.com/wiki/La%2B_Darknesss) |
 | mori calliope | 森美声 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Mori_Calliope_Portrait.png) | [维基百科](https://zh.wikipedia.org/zh/森美聲) [萌娘百科](https://zh.moegirl.org.cn/森美声) [Fandom](https://virtualyoutuber.fandom.com/wiki/Mori_Calliope) |
 | ninomae inanis | 一伊那尔栖 | ![图](https://ehgt.org/36/c5/36c54b3daad06f67e511e0f2c5b2fb748e5e4461-392906-524-723-png_l.jpg) | [Fandom](https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina%27nis) [萌娘百科](https://zh.moegirl.org.cn/一伊那尔栖) [hololive wiki](https://hololive.wiki/wiki/Ninomae_Ina%27nis) |
@@ -3950,7 +3950,7 @@ example:
 | sussurro | 苏苏洛 | 《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
 | alice tendou | 天童爱丽丝 | Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
 | hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
-| chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |
+| chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |  |
 | anko kitashirakawa | 北白川馅子 | 所属作品: `p:tamako market`<br>![图](https://ehgt.org/49/98/49988733b649315e51a337ed939d34791c62ef69-35312-270-600-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北白川馅子) [Fandom](https://tamakomarket.fandom.com/wiki/Anko_Kitashirakawa) |
 | seraphine | 萨勒芬妮 | 所属作品: `p:league of legends`<br>![](https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Seraphine_OriginalSkin.jpg/revision/latest/scale-to-width-down/1000?cb=20201014003642) | [fandom](https://leagueoflegends.fandom.com/zh/wiki/Seraphine/LoL) |
 
