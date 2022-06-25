@@ -12089,6 +12089,7 @@ example:
 | aji taro | AJ/鯵太郎 |  | [pixiv](https://www.pixiv.net/users/1401955) [Twitter](https://twitter.com/setunyan_AJ) |
 | aizen pochi | 愛染ぽち |  | [pixiv](https://www.pixiv.net/users/35516002) [Twitter](https://twitter.com/AizenPochi) |
 | nagatsuki hatsuka | 長月はつか |  | [doujinshi](https://www.doujinshi.org/browse/author/120499/) [Twitter](https://twitter.com/tk_nagatsuki) |
+| kotobuki haruki | 琴吹はるき |  | [Twitter](https://twitter.com/kotobuki_haruki) [pixiv](https://www.pixiv.net/users/9632774) |
 
 <!--TEMPLATE:
 |  |  |  |  |
