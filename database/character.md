@@ -3959,6 +3959,7 @@ example:
 | luna | 露娜(素晴) | 所属作品：`p:kono subarashii sekai ni syukufuku o`<br>冒险者公会的接待人员，是一位看起来很温和的成熟女性。支付任务奖金时非常不干脆，手总是拽着奖金不肯放。<br>![图](https://ehgt.org/3a/cf/3acf369d423a2acebcdd39bacf95badd4dd4a5b2-90904-221-498-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露娜%28为美好的世界献上祝福%29) |
 | yamato no kami yasusada | 大和守安定 | 所属作品：`p:touken ranbu`<br>![](https://static.wikia.nocookie.net/hanamaru/images/4/4d/Yamatonokami.png) | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大和守安定) [Fandom](https://hanamaru.fandom.com/wiki/Yamatonokami_Yasusada) |
 | takane lui | 鹰岭露依 | 鹰岭露依（日语：鷹嶺ルイ／たかね るいTakane Lui），hololive－『秘密结社holoX』的成员。<br><br>![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/04/Takane_Lui_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/鹰岭露依) [Fandom](https://virtualyoutuber.fandom.com/wiki/Takane_Lui) [hololive wiki](https://hololive.wiki/wiki/Takane_Lui) |
+| charlotte e. yeager | 夏洛特·E·叶格 | 所属作品：`p:strike witches`<br><br>夏洛特·E·叶格（日语：シャーロット・E・イェーガー；英语：Charlotte E. Yeager），全名为夏洛特·埃尔温·叶格，年龄16岁，身高167公分，称号“迷人的夏莉（Glamorous Shirley）”。使魔是兔子。穿著淡紫色低腰裤。<br>![图](https://ehgt.org/1e/51/1e51ebdeeef8c92f2e4c6d38aefe466de3b5cf22-170099-651-960-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·E·叶格) [Fandom](https://worldwitches.fandom.com/wiki/Charlotte_E._Yeager) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
