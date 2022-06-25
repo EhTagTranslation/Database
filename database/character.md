@@ -3209,7 +3209,7 @@ example:
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
 | krebskulm | 库尔姆 |  |  |
-| chocola | 巧克力 | 所属作品：`p:nekopara`<br><br>![](https://img.moegirl.org.cn/common/6/63/Ch_cho_img_01.png) | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
+| chocola | 巧克力 | 所属作品：`p:nekopara`<br><br>![](https://p.sda1.dev/6/6536b805c0dfba1fbc83478a070fcad5/Ch_cho_img_01_1_.png) | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 | cinnamon | 桂 |  | [萌娘百科](https://zh.moegirl.org.cn/桂%28NEKO_WORKs%29) |
 | coconut | 椰子 |  | [萌娘百科](https://zh.moegirl.org.cn/椰子%28NEKO_WORKs%29) |
 | vanilla | 香草 | 又译作香子兰 | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
