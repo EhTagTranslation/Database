@@ -2745,7 +2745,7 @@ example:
 | ruida | 莉卡 |  |  |
 | mar | 梅亚 |  |  |
 | vice | 薇思 |  |  |
-| misato katsuragi | 葛城美里 |  |  |
+| misato katsuragi | 葛城美里 | 所属作品：`neon genesis evangelion`<br><br>葛城美里是是NERV的指挥官，碇真嗣与惣流·明日香·兰格雷的监护人。<br>![](https://static.wikia.nocookie.net/evangelion/images/6/6a/Misato_Katsuragi_NGE_Illustration.png) | [维基百科](https://zh.wikipedia.org/zh/葛城美里)  [Fandom](https://evangelion.fandom.com/wiki/Misato_Katsuragi) |
 | mari illustrious makinami | 真希波·真理·伊拉丝多莉亚斯 |  |  |
 | angewomon | 天女兽 |  |  |
 | kazemon | 彩虹兽 |  |  |
