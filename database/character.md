@@ -3965,6 +3965,7 @@ example:
 | lynette bishop | 莉涅特·毕晓普 | 所属作品：`p:strike witches`<br><br>![](https://static.wikia.nocookie.net/strikewitches/images/2/25/Lynette_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉涅特·毕晓普) [Fandom](https://worldwitches.fandom.com/wiki/Lynette_Bishop) |
 | minna-dietlinde wilcke | 明娜·迪特林德·威尔克 | 所属作品：`p:strike witches`<br><br>![图](https://ehgt.org/74/5b/745b13970f6a3d98f365f93a41262c832cd9550b-250837-389-745-png_l.jpg) | [Fandom](https://worldwitches.fandom.com/wiki/Minna-Dietlinde_Wilcke) [萌娘百科](https://zh.moegirl.org.cn/明娜·迪特林德·威尔克) |
 | sanya v. litvyak | 萨妮娅·V·利特维亚克 | 所属作品：`p:strike witches`<br><br>角色原型是二战时期苏联的女性王牌飞行员莉狄亚·弗拉基米洛夫娜·利特维亚克（Лидия Владимировна Литвяк）。是501中唯一一个原型是女性的角色。<br><br>![图](https://ehgt.org/09/3e/093e1495d0be2e98078126e64ac2a54ebb7dfa19-148258-500-720-png_l.jpg) | [Fandom](https://worldwitches.fandom.com/wiki/Sanya_V._Litvyak) [萌娘百科](https://zh.moegirl.org.cn/zh-cn/萨妮娅·V·利特维亚克) |
+| yoshika miyafuji | 宫藤芳佳 | 所属作品：`p:strike witches`<br><br>![图](https://ehgt.org/72/d0/72d05c501f31f3033592aca3853ef833d8b4ef27-190046-375-700-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/宫藤芳佳) [Fandom](https://worldwitches.fandom.com/wiki/Miyafuji_Yoshika) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
