@@ -3963,6 +3963,7 @@ example:
 | erica hartmann | 艾莉卡·哈特曼 | 所属作品：`p:strike witches`<br><br>艾莉卡·哈特曼（日语：エーリカ・ハルトマン；英语：Erica Hartmann）在剧中为卡尔斯兰之魔女及空战超级王牌。平时很邋遢、生活习惯很糟，而且非常嗜睡，但在打仗方面却是天才级的人物，同时相当地注重家人与朋友，与同国籍之魔女`c:gertrud barkhorn`是朋友。<br><br>![图](https://ehgt.org/e5/a2/e5a27c1096181bc6388714aa05049f967d84a437-199436-1011-1106-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉卡·哈特曼) [Fandom](https://worldwitches.fandom.com/wiki/Erica_Hartmann) |
 | gertrud barkhorn | 歌尔特露特·巴克霍隆 | 所属作品：`p:strike witches`<br><br>![](https://static.wikia.nocookie.net/strikewitches/images/9/91/Gertrude_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/歌尔特露特·巴克霍隆) [Fandom](https://worldwitches.fandom.com/wiki/Gertrud_Barkhorn) |
 | lynette bishop | 莉涅特·毕晓普 | 所属作品：`p:strike witches`<br><br>![](https://static.wikia.nocookie.net/strikewitches/images/2/25/Lynette_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉涅特·毕晓普) [Fandom](https://worldwitches.fandom.com/wiki/Lynette_Bishop) |
+| minna-dietlinde wilcke | 明娜·迪特林德·威尔克 | 所属作品：`p:strike witches`<br><br>![图](https://ehgt.org/74/5b/745b13970f6a3d98f365f93a41262c832cd9550b-250837-389-745-png_l.jpg) | [Fandom](https://worldwitches.fandom.com/wiki/Minna-Dietlinde_Wilcke) [萌娘百科](https://zh.moegirl.org.cn/明娜·迪特林德·威尔克) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
