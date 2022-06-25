@@ -3956,6 +3956,7 @@ example:
 | erich von rerugen | 埃里希·冯·雷鲁根 | 所属作品：`p:youjo senki`<br><br>埃里希·冯·雷鲁根，帝国军参谋本部所属参谋，备受期待的菁英将校。因为曾经就职于人事局的经历而崭露头角，晋升中校时转任至参谋本部作战局。在参谋本部中作为下属跟随在卢提鲁德夫少将身边，负责视察与作战传达相关的业务。<br>![](https://static.wikia.nocookie.net/youjo-senki/images/0/00/Erich_von_Rerugen_%28Anime%29.png) | [Fandom](https://youjo-senki.fandom.com/wiki/Erich_von_Rerugen) [萌娘百科](https://zh.moegirl.org.cn/埃里希·冯·雷鲁根) |
 | luciela r. sourcream | 露 希尔 | 所属作品：`p:elsword`<br><br>露西艾拉·R·索克莉姆/希尔（英语：Luciela R Sourcream / Ciel）是韩国KOG Studios开发的在线ARPG游戏《艾尔之光》及其衍生作品的登场角色，玩家操控角色之一。<br><br>![](https://www.elwiki.net/wiki/images/5/5e/Portrait_-_LuCiel.png) | [萌娘百科](https://zh.moegirl.org.cn/露_希尔) |
 | eris | 厄里斯 | 厄里斯是掌管主人公和真所在的异世界的女神，也是当地的国教及货币单位。身材极度内敛。阿库娅的后辈。“厄里斯的胸部塞了胸垫！”<br>![图](https://ehgt.org/24/2c/242cf7e1c6e90ce2c97dc474fdf84deaef06cf26-617436-1536-2178-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/厄里斯%28为美好的世界献上祝福%29) |
+| luna | 露娜(素晴) | 所属作品：`p:kono subarashii sekai ni syukufuku o`<br>冒险者公会的接待人员，是一位看起来很温和的成熟女性。支付任务奖金时非常不干脆，手总是拽着奖金不肯放。<br>![图](https://ehgt.org/3a/cf/3acf369d423a2acebcdd39bacf95badd4dd4a5b2-90904-221-498-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露娜%28为美好的世界献上祝福%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
