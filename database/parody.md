@@ -1956,6 +1956,7 @@ example:
 | regular show | 天兵公园 | 《天兵公园》（英语：Regular Show）是一部美国的喜剧电视动画 | [维基百科](https://zh.m.wikipedia.org/zh-hans/天兵公園) |
 | talespin | 航空小英雄 | 《航空小英雄》（英语：TaleSpin）是美国迪士尼公司从1990年9月7日到1991年8月8日播出的动画影集 | [维基百科](https://zh.wikipedia.org/wiki/航空小英雄) |
 | tiny toons | 迷你乐一通 | 《迷你乐一通》（英语：Tiny Toon Adventures）是一套由华纳兄弟制作的系列动画片，属于乐一通系列的分支，由史蒂芬·史匹柏带头制作。 | [维基百科](https://zh.wikipedia.org/wiki/迷你樂一通) |
+| recess | 下课后 | 《下课后》（英语：Recess）是一部美国系列动画片，讲述的是六名小学生和他们的同学与老师之间发生的各种事情。 | [维基百科](https://zh.wikipedia.org/wiki/下课后) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
