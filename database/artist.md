@@ -12090,6 +12090,7 @@ example:
 | aizen pochi | 愛染ぽち |  | [pixiv](https://www.pixiv.net/users/35516002) [Twitter](https://twitter.com/AizenPochi) |
 | nagatsuki hatsuka | 長月はつか |  | [doujinshi](https://www.doujinshi.org/browse/author/120499/) [Twitter](https://twitter.com/tk_nagatsuki) |
 | kotobuki haruki | 琴吹はるき |  | [Twitter](https://twitter.com/kotobuki_haruki) [pixiv](https://www.pixiv.net/users/9632774) |
+| kou kou ax | 口口AX |  | [pixiv](https://www.pixiv.net/users/12364994) |
 
 <!--TEMPLATE:
 |  |  |  |  |
