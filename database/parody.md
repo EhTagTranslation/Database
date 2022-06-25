@@ -1955,6 +1955,7 @@ example:
 | ousama ranking | 国王排名 | ![图](https://ehgt.org/62/78/6278b744543fe414363915c4b1b798f9f6464c60-275354-704-1000-jpg_l.jpg) | [维基百科（英语）](https://en.wikipedia.org/wiki/Ranking_of_Kings) [萌娘百科](https://zh.moegirl.org.cn/国王排名) |
 | regular show | 天兵公园 | 《天兵公园》（英语：Regular Show）是一部美国的喜剧电视动画 | [维基百科](https://zh.m.wikipedia.org/zh-hans/天兵公園) |
 | talespin | 航空小英雄 | 《航空小英雄》（英语：TaleSpin）是美国迪士尼公司从1990年9月7日到1991年8月8日播出的动画影集 | [维基百科](https://zh.wikipedia.org/wiki/航空小英雄) |
+| tiny toons | 迷你乐一通 | 《迷你乐一通》（英语：Tiny Toon Adventures）是一套由华纳兄弟制作的系列动画片，属于乐一通系列的分支，由史蒂芬·史匹柏带头制作。 | [维基百科](https://zh.wikipedia.org/wiki/迷你樂一通) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
