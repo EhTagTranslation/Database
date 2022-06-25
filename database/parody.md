@@ -1958,6 +1958,7 @@ example:
 | tiny toons | 迷你乐一通 | 《迷你乐一通》（英语：Tiny Toon Adventures）是一套由华纳兄弟制作的系列动画片，属于乐一通系列的分支，由史蒂芬·史匹柏带头制作。 | [维基百科](https://zh.wikipedia.org/wiki/迷你樂一通) |
 | recess | 下课后 | 《下课后》（英语：Recess）是一部美国系列动画片，讲述的是六名小学生和他们的同学与老师之间发生的各种事情。 | [维基百科](https://zh.wikipedia.org/wiki/下课后) |
 | garfield | 加菲猫 |  | [维基百科](https://zh.wikipedia.org/wiki/加菲猫) |
+| ok k.o. lets be heroes | OK K.O.!英雄赞 | 《OK K.O.!英雄赞》（英语：OK K.O.! Let's Be Heroes）是卡通频道旗下，由Ian Jones-Quartey创作的美国超级英雄喜剧动画。该系列于2016年2月4日在卡通频道的YouTube频道上首播。 | [维基百科](https://zh.wikipedia.org/wiki/OK_K.O.!) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
