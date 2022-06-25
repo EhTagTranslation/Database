@@ -3954,6 +3954,7 @@ example:
 | anko kitashirakawa | 北白川馅子 | 所属作品: `p:tamako market`<br>![图](https://ehgt.org/49/98/49988733b649315e51a337ed939d34791c62ef69-35312-270-600-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北白川馅子) [Fandom](https://tamakomarket.fandom.com/wiki/Anko_Kitashirakawa) |
 | seraphine | 萨勒芬妮 | 所属作品: `p:league of legends`<br>![](https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Seraphine_OriginalSkin.jpg/revision/latest/scale-to-width-down/1000?cb=20201014003642) | [fandom](https://leagueoflegends.fandom.com/zh/wiki/Seraphine/LoL) |
 | erich von rerugen | 埃里希·冯·雷鲁根 | 所属作品：`p:youjo senki`<br><br>埃里希·冯·雷鲁根，帝国军参谋本部所属参谋，备受期待的菁英将校。因为曾经就职于人事局的经历而崭露头角，晋升中校时转任至参谋本部作战局。在参谋本部中作为下属跟随在卢提鲁德夫少将身边，负责视察与作战传达相关的业务。<br>![](https://static.wikia.nocookie.net/youjo-senki/images/0/00/Erich_von_Rerugen_%28Anime%29.png) | [Fandom](https://youjo-senki.fandom.com/wiki/Erich_von_Rerugen) [萌娘百科](https://zh.moegirl.org.cn/埃里希·冯·雷鲁根) |
+| luciela r. sourcream | 露 希尔 | 所属作品：`p:elsword`<br><br>露西艾拉·R·索克莉姆/希尔（英语：Luciela R Sourcream / Ciel）是韩国KOG Studios开发的在线ARPG游戏《艾尔之光》及其衍生作品的登场角色，玩家操控角色之一。<br><br>![](https://www.elwiki.net/wiki/images/5/5e/Portrait_-_LuCiel.png) | [萌娘百科](https://zh.moegirl.org.cn/露_希尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
