@@ -12087,6 +12087,7 @@ example:
 | yusha-m | Yusha-M |  |  |
 | kuroboshi kouhaku | 黑星红白\|饭冢武史 | 黑星红白（1974年11月19日－），日本男性插画家，于神奈川县出生。也有使用另一笔名饭冢武史，主要用于电子游戏人物设定。 | [维基百科](https://zh.wikipedia.org/wiki/黑星紅白) |
 | aji taro | AJ/鯵太郎 |  | [pixiv](https://www.pixiv.net/users/1401955) [Twitter](https://twitter.com/setunyan_AJ) |
+| aizen pochi | 愛染ぽち |  | [pixiv](https://www.pixiv.net/users/35516002) [Twitter](https://twitter.com/AizenPochi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
