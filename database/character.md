@@ -1870,7 +1870,7 @@ example:
 | ayako mitsuzuri | 美缀绫子 |  |  |
 | kane himuro | 冰室钟 |  |  |
 | kaede makidera | 莳寺枫 |  |  |
-| gudao | 咕哒男 |  |  |
+| gudao | 咕哒男 | 藤丸立香/主人公是TYPE-MOON旗下的游戏《`p:fate grand order`》及其衍生作品的登场角色，玩家视角的主角。<br>咕哒子是FGO官方漫画中使用的昵称。已经成为官方默认的主人公昵称。在另一部型月作品Chibichuki!中，也直接以咕哒子之名出现。<br>![](https://static.wikia.nocookie.net/typemoon/images/c/c6/Anniversary_Blonde.png) | [萌娘百科](https://mzh.moegirl.org.cn/藤丸立香) [Fandom](https://typemoon.fandom.com/wiki/Ritsuka_Fujimaru) |
 | gudako | 咕哒子 |  |  |
 | kiyohime | 清姬 | ![图](https://ehgt.org/13/45/1345b2b677182094579b1c9197496df78d2b2b08-2068714-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/清姬%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/清姬) |
 | alexander | 亚历山大 |  |  |
