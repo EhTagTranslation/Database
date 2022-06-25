@@ -3957,6 +3957,7 @@ example:
 | luciela r. sourcream | 露 希尔 | 所属作品：`p:elsword`<br><br>露西艾拉·R·索克莉姆/希尔（英语：Luciela R Sourcream / Ciel）是韩国KOG Studios开发的在线ARPG游戏《艾尔之光》及其衍生作品的登场角色，玩家操控角色之一。<br><br>![](https://www.elwiki.net/wiki/images/5/5e/Portrait_-_LuCiel.png) | [萌娘百科](https://zh.moegirl.org.cn/露_希尔) |
 | eris | 厄里斯 | 厄里斯是掌管主人公和真所在的异世界的女神，也是当地的国教及货币单位。身材极度内敛。阿库娅的后辈。“厄里斯的胸部塞了胸垫！”<br>![图](https://ehgt.org/24/2c/242cf7e1c6e90ce2c97dc474fdf84deaef06cf26-617436-1536-2178-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/厄里斯%28为美好的世界献上祝福%29) |
 | luna | 露娜(素晴) | 所属作品：`p:kono subarashii sekai ni syukufuku o`<br>冒险者公会的接待人员，是一位看起来很温和的成熟女性。支付任务奖金时非常不干脆，手总是拽着奖金不肯放。<br>![图](https://ehgt.org/3a/cf/3acf369d423a2acebcdd39bacf95badd4dd4a5b2-90904-221-498-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露娜%28为美好的世界献上祝福%29) |
+| yamato no kami yasusada | 大和守安定 | 所属作品：`p:touken ranbu`<br>![](https://static.wikia.nocookie.net/hanamaru/images/4/4d/Yamatonokami.png) | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大和守安定) [Fandom](https://hanamaru.fandom.com/wiki/Yamatonokami_Yasusada) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
