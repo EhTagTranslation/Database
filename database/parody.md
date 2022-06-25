@@ -1678,7 +1678,7 @@ example:
 | takopii no genzai | 章鱼噼的原罪 | 《章鱼噼的原罪》（日语：タコピーの原罪）是日本漫画家タイザン5所创作的短篇漫画作品，于2021年12月10日至2022年3月25日在少年Jump+上连载，逢星期五更新。 | [维基百科](https://zh.wikipedia.org/zh/章魚嗶的原罪) [myanimelist](https://myanimelist.net/manga/142600/Takopii_no_Genzai) |
 | super cub | 本田小狼与我 | 《本田小狼与我》（日语：スーパーカブ）是由トネ・コーケン创作、`a:hiro`插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/本田小狼与我) |
 | kekkaishi | 结界师 |  |  |
-| senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg) |
+| senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg) |  |
 | densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
 | video girl ai | 电影少女 | ![](https://cdn.myanimelist.net/images/anime/1/2349l.jpg) | [维基百科](https://zh.wikipedia.org/zh/電影少女) |
 | last origin | Last Origin |  |  |
@@ -1953,6 +1953,7 @@ example:
 | danshi koukousei de urekko light novel sakka o shiteiru keredo | 身为男高中生兼当红轻小说作家的我，正被年纪比我小且从事声优工作的女同学掐住脖子 |  | [维基百科](https://zh.wikipedia.org/wiki/身為男高中生兼當紅輕小說作家的我，正被年紀比我小且從事聲優工作的女同學掐住脖子) |
 | destiny child | 命运之子 | 《命运之子》是一款由Shift Up开发的角色扮演游戏，于2016年10月27日在Android和iOS平台上发行（韩国版），并于2018年12月6日推出国际版。由韩国插画家兼游戏设计师金亨泰主导和设计，而ESTi则负责配乐。 | [维基百科](https://zh.wikipedia.org/zh/命運之子_%28遊戲%29) [Fandom](https://gachagames.fandom.com/wiki/Destiny_Child) |
 | ousama ranking | 国王排名 | ![图](https://ehgt.org/62/78/6278b744543fe414363915c4b1b798f9f6464c60-275354-704-1000-jpg_l.jpg) | [维基百科（英语）](https://en.wikipedia.org/wiki/Ranking_of_Kings) [萌娘百科](https://zh.moegirl.org.cn/国王排名) |
+| regular show | 天兵公园 | 《天兵公园》（英语：Regular Show）是一部美国的喜剧电视动画 | [维基百科](https://zh.m.wikipedia.org/zh-hans/天兵公園) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
