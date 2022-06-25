@@ -1960,7 +1960,7 @@ example:
 | garfield | 加菲猫 |  | [维基百科](https://zh.wikipedia.org/wiki/加菲猫) |
 | ok k.o. lets be heroes | OK K.O.!英雄赞 | 《OK K.O.!英雄赞》（英语：OK K.O.! Let's Be Heroes）是卡通频道旗下，由Ian Jones-Quartey创作的美国超级英雄喜剧动画。该系列于2016年2月4日在卡通频道的YouTube频道上首播。 | [维基百科](https://zh.wikipedia.org/wiki/OK_K.O.!) |
 | ratchet and clank | 瑞奇与叮当 | 《瑞奇与叮当》（英语：Ratchet & Clank，香港和台湾译作“拉捷特与克拉克”）是由Insomniac Games创造、索尼电脑娱乐发行的动作冒险/第三人称射击系列游戏。 | [维基百科](https://zh.wikipedia.org/wiki/拉捷特與克拉克系列) |
-| kangokutou mary skelter | 神狱塔：断罪玛丽 | 《神狱塔 断罪玛丽》（日语：神獄塔 メアリスケルター，英文：Mary Skelter: Nightmares）是游戏制作公司“Compile Heart”于2016年针对PS Vita平台发布的RPG游戏。 | [维基百科](https://zh.wikipedia.org/wiki/神狱塔_断罪玛丽) [Fandom](https://maryskelternightmares.fandom.com/wiki/Mary_Skelter:_Nightmares) |
+| kangokutou mary skelter | 神狱塔：断罪玛丽 | 《神狱塔 断罪玛丽》（日语：神獄塔 メアリスケルター，英文：Mary Skelter: Nightmares）是游戏制作公司“Compile Heart”于2016年针对PS Vita平台发布的RPG游戏。<br>![](https://static.wikia.nocookie.net/maryskelternightmares/images/0/0e/Mary_Skelter_Nightmares_Standard_Edition_game_cover_%28JP%29.jpg) | [维基百科](https://zh.wikipedia.org/wiki/神狱塔_断罪玛丽) [Fandom](https://maryskelternightmares.fandom.com/wiki/Mary_Skelter:_Nightmares) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
