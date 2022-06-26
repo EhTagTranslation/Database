@@ -1971,6 +1971,7 @@ example:
 | who framed roger rabbit | 谁陷害了兔子罗杰 |  | [维基百科](https://zh.wikipedia.org/wiki/谁陷害了兔子罗杰) |
 | the bad guys | 坏蛋联盟 |  | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
 | hige o soru. soshite joshikousei o hirou. | 剃须。然后捡到女高中生。 |  | [维基百科](https://zh.wikipedia.org/wiki/刮掉鬍子的我與撿到的女高中生) [萌娘百科](https://mzh.moegirl.org.cn/刮掉胡子的我与捡到的女高中生) |
+| horimiya | 堀桑与宫村君 |  | [维基百科](https://zh.wikipedia.org/wiki/堀與宮村) [萌娘百科](https://zh.moegirl.org.cn/堀桑与宫村君) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
