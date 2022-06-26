@@ -3975,6 +3975,7 @@ example:
 | matsurika shinouji | 汐王寺茉莉花 | 所属作品：`p:maria holic`<br><br>服侍祇堂鞠也的长发双马尾女仆<br><br>![](https://static.wikia.nocookie.net/mariaholic/images/4/41/Matsurika_Shinoji.jpg) | [Fandom](https://bishojodata.fandom.com/zh/wiki/汐王寺茉莉花) [Fandom](https://mariaholic.fandom.com/wiki/Matsurika_Shinōji) |
 | sayu ogiwara | 荻原沙优 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/zh/荻原沙优) |
 | airi gotou | 后藤爱依梨 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/zh/后藤爱依梨) |
+| dark elven forest ranger | dark elven forest ranger | 所属作品：`p:last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
