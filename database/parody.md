@@ -1262,7 +1262,7 @@ example:
 | shining resonance | 光明之响 | 《光明之响》（日语：シャイニング・レゾナンス，英语：Shining Resonance，又译“光明之共鸣”或“光明共鸣曲”）是由世嘉开发并发售在PlayStation 3平台的角色扮演游戏，于2014年12月11日同步于中文版发售，和前五作（《光明之泪》、《光明之风》、《光明之心》、《光明之刃》、《光明之舟》）一样依旧由Tony负责人物设计。 | [维基百科](https://zh.wikipedia.org/zh-cn/光明之響) (\*) |
 | lunar silver star story | 露娜 银河之星物语 | 《露娜 银河之星物语》（日语：ルナ ザ・シルバースター，英语：Lunar: Silver Star Story Complete）是一款由Game Arts和Japan Art Media制作、角川书店发行的角色扮演类游戏。本游戏为1992年发行的《露娜 银河之星》重制版，于1996年10月25日在世嘉土星日本地区发行。 游戏后移植至Windows和PlayStation。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_银河之星物语) (\*) |
 | lunar eternal blue | 露娜 永恒之蓝 | 《露娜 永恒之蓝》（日语：ルナ エターナルブルー，英语：Lunar: Eternal Blue）是一款由Game Arts和Japan Art Media制作、Game Arts发行的角色扮演类游戏。本游戏最初于1994年12月在世嘉CD上发行，是一个传统的角色扮演类游戏，战斗场面随机发生在地牢和其他危险区域。 | [维基百科](https://zh.wikipedia.org/zh-cn/露娜_永恒之蓝) (\*) |
-| maria holic | 玛莉亚†狂热 | 《玛莉亚狂热》（まりあ†ほりっく、まりほり）是远藤海成从月刊Comic Alive创刊号开始连载的漫画作品。由此改编的电视动画于2009年1月开始播放。2007年12月28日发售广播剧CD。现有尖端出版社出版单行本六卷。 | [维基百科](https://zh.wikipedia.org/zh-cn/瑪莉亞狂熱) (\*) |
+| maria holic | 玛莉亚狂热 | 《玛莉亚†狂热》（まりあ†ほりっく、まりほり）是远藤海成从月刊Comic Alive创刊号开始连载的漫画作品。<br><br>升读二年级的女高中生宫前佳奈子因著天国的妈妈的过去，毅然转校至私立天妃女子学院。开学前一天，她遇上了学院前理事长的孙子·即将升读一年级的学生祇堂鞠也，以及随身女仆汐王寺茉莉花。面对这完美的室友，佳奈子对校园生活充满希望，而这只是为各个受尽虐待、充斥变态的故事打开序幕而已。<br><br>![](https://static.wikia.nocookie.net/mariaholic/images/4/45/Anime_Season_1.jpg) | [维基百科](https://zh.wikipedia.org/zh-cn/瑪莉亞狂熱) (\*) |
 | boku no pico | 我的Pico | 《我的Pico》（ぼくのぴこ）是2006年9月7日由Soft On Demand所发售的成人动画。这作是世界第一个正太控成人动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/我的Pico) (\*) |
 | azure striker gunvolt | 苍蓝雷霆：刚巴尔特 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Azure_Striker_Gunvolt) |
 | narutaru | 星星公主 | 星星公主（日语：なるたる），是鬼头莫宏的日本漫画作品。于2004年1月播放电视动画版。星星公主名称中有“骸なる星 珠たる子”的意思。 | [维基百科](https://zh.wikipedia.org/zh-cn/星星公主) (\*) |
