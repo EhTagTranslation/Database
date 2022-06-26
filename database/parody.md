@@ -1966,6 +1966,7 @@ example:
 | yumekui merry | 食梦者玛莉 | 《食夢者瑪莉》（日语：夢喰いメリー）是由牛木義隆创作的一部漫画，并有动画等衍生作品。<br><br>![图](https://ehgt.org/de/42/de42fbd7b9a53b1338d1302f8fd7c496b9ae7eb6-535985-1259-1790-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/食梦者玛莉) [维基百科](https://zh.wikipedia.org/wiki/食梦者玛莉) |
 | ikoku meiro no croisee | 异国迷宫的十字路口 | 《异国迷宫的十字路口》（日语：異国迷路のクロワーゼ/いこくめいろのくろわあぜikoku meiro no kurowāze，法语：La croisée dans un labyrinthe étranger）是由`a:takeda hinata`创作的一部漫画，并有动画、小说等衍生作品。<br><br>19世纪后半叶，日本解除闭关锁国政策，正热衷于西洋文化。而此时的欧洲，反而热情的迎接着拥有特殊价值观的日本文化。并且，这时代也是人事物激烈更迭的近代化过渡期。在半世纪前曾风光一时的商场“国王的长廊”，也因落后于时代潮流，正面临关门的危机。就在这种情况下，一名来自日本的萝莉来到了这个充满魅力的法国。<br><br>![](https://static.wikia.nocookie.net/ikokumeiro/images/4/4c/Frontpage.png) | [萌娘百科](https://zh.moegirl.org.cn/异国迷宫的十字路口) [Fandom](https://ikokumeiro.fandom.com/wiki/Ikoku_Meiro_no_Croisee_Wiki) [维基百科](https://zh.wikipedia.org/wiki/異國迷宮的十字路口) |
 | corpse party | 尸体派对 | 尸体派对系列（Corpse Party）是由游戏制作团队チームグリグリ（Team GrisGris）制作的一系列恐怖冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/尸体派对系列) |
+| jewelpet tinkle | 宝石宠物Twinkle☆ | 《宝石宠物 Twinkle☆》，是三丽鸥和SEGA TOYS共同开发的角色，宝石宠物动画版的第二作。 | [维基百科](https://zh.wikipedia.org/zh/寶石寵物_Twinkle☆) [Fandom](https://jewelpet.fandom.com/wiki/Jewelpet_Twinkle☆) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
