@@ -1970,6 +1970,7 @@ example:
 | dragon crisis | 龙之界点 | 普通高中生如月龙司的平稳生活，自从表姐回国后便大为改变。和她一起抢来的箱子里面，竟然有个龙族少女！被取名为萝丝的少女不知为何对龙司十分倾心。同时，以她为目标的黑暗组织也开始行动。为了保护萝丝，龙司决定超越自己过去的心灵创伤而面对战斗。 | [维基百科](https://zh.wikipedia.org/wiki/Dragon_Crisis!) |
 | who framed roger rabbit | 谁陷害了兔子罗杰 |  | [维基百科](https://zh.wikipedia.org/wiki/谁陷害了兔子罗杰) |
 | the bad guys | 坏蛋联盟 |  | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
+| hige o soru. soshite joshikousei o hirou. | 剃须。然后捡到女高中生。 |  | [维基百科](https://zh.wikipedia.org/wiki/刮掉鬍子的我與撿到的女高中生) [萌娘百科](https://mzh.moegirl.org.cn/刮掉胡子的我与捡到的女高中生) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
