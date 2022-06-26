@@ -3968,6 +3968,7 @@ example:
 | yoshika miyafuji | 宫藤芳佳 | 所属作品：`p:strike witches`<br><br>![图](https://ehgt.org/72/d0/72d05c501f31f3033592aca3853ef833d8b4ef27-190046-375-700-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/宫藤芳佳) [Fandom](https://worldwitches.fandom.com/wiki/Miyafuji_Yoshika) |
 | yoruichi shihoin | 四枫院夜一 |  |  |
 | tia halibel | 蒂雅·赫丽贝尔 |  |  |
+| muzan kibutsuji | 鬼舞辻无惨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
