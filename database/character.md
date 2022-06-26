@@ -3969,6 +3969,7 @@ example:
 | yoruichi shihoin | 四枫院夜一 |  |  |
 | tia halibel | 蒂雅·赫丽贝尔 |  |  |
 | muzan kibutsuji | 鬼舞辻无惨 |  |  |
+| karna | 迦尔纳(小太阳) |  | [萌娘百科](https://zh.moegirl.org.cn/迦尔纳%28Fate%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
