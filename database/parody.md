@@ -1968,6 +1968,7 @@ example:
 | corpse party | 尸体派对 | 尸体派对系列（Corpse Party）是由游戏制作团队チームグリグリ（Team GrisGris）制作的一系列恐怖冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/尸体派对系列) |
 | jewelpet tinkle | 宝石宠物Twinkle☆ | 《宝石宠物 Twinkle☆》，是三丽鸥和SEGA TOYS共同开发的角色，宝石宠物动画版的第二作。 | [维基百科](https://zh.wikipedia.org/zh/寶石寵物_Twinkle☆) [Fandom](https://jewelpet.fandom.com/wiki/Jewelpet_Twinkle☆) |
 | dragon crisis | 龙之界点 | 普通高中生如月龙司的平稳生活，自从表姐回国后便大为改变。和她一起抢来的箱子里面，竟然有个龙族少女！被取名为萝丝的少女不知为何对龙司十分倾心。同时，以她为目标的黑暗组织也开始行动。为了保护萝丝，龙司决定超越自己过去的心灵创伤而面对战斗。 | [维基百科](https://zh.wikipedia.org/wiki/Dragon_Crisis!) |
+| who framed roger rabbit | 谁陷害了兔子罗杰 |  | [维基百科](https://zh.wikipedia.org/wiki/谁陷害了兔子罗杰) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
