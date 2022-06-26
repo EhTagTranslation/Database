@@ -3977,6 +3977,7 @@ example:
 | airi gotou | 后藤爱依梨 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/zh/后藤爱依梨) |
 | dark elven forest ranger | dark elven forest ranger | 所属作品：`p:last origin` |  |
 | kie kamado | 灶门葵枝 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/zh/灶门葵枝) |
+| watson amelia | 阿米莉亚·华生 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/97/Watson_Amelia_Portrait.png) | [维基百科](https://zh.wikipedia.org/wiki/華生·艾米莉亞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Watson_Amelia) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
