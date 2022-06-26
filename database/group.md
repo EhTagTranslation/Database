@@ -12434,7 +12434,7 @@ example:
 | hiwa izumo taisha | 秘話出雲大社 |  |  |
 | caisson | CAISSON |  |  |
 | tuberose | 月化香 |  |  |
-| naga to yappari yukai na nakama-tachi | nagaとやっぱり愉快な仲間たち |  |  |
+| naga to yappari yukai na nakama-tachi | nagaとやっぱり愉快な仲間たち |  | [HP](http://blog.livedoor.jp/nagatoyukaina/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
