@@ -3970,6 +3970,7 @@ example:
 | tia halibel | 蒂雅·赫丽贝尔 |  |  |
 | muzan kibutsuji | 鬼舞辻无惨 |  |  |
 | karna | 迦尔纳 |  | [萌娘百科](https://zh.moegirl.org.cn/迦尔纳%28Fate%29#) |
+| victorique de blois | 维多利加 | 所属作品：`p:gosick`<br><br>维多利加·德·布洛瓦是小说《`p:gosick`》及其衍生作品的女主角。金发绿瞳，有着宛如陶瓷娃娃般美丽容颜的娇小少女<br><br>2012年世萌 常规赛新星组排名第十四位<br>2014年世萌 紫水晶饰品获得者<br><br>![图](https://ehgt.org/dd/0c/dd0cff6ab8b935ac30cd27df7289b717efeccdd7-140371-480-648-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/维多利加·德·布洛瓦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
