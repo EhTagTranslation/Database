@@ -3972,6 +3972,7 @@ example:
 | karna | 迦尔纳 |  | [萌娘百科](https://zh.moegirl.org.cn/迦尔纳%28Fate%29#) |
 | victorique de blois | 维多利加 | 所属作品：`p:gosick`<br><br>维多利加·德·布洛瓦是小说《`p:gosick`》及其衍生作品的女主角。金发绿瞳，有着宛如陶瓷娃娃般美丽容颜的娇小少女<br><br>2012年世萌 常规赛新星组排名第十四位<br>2014年世萌 紫水晶饰品获得者<br><br>![图](https://ehgt.org/dd/0c/dd0cff6ab8b935ac30cd27df7289b717efeccdd7-140371-480-648-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/维多利加·德·布洛瓦) |
 | kazuya kujou | 久城一弥 | 所属作品：`gosick`<br>![图](https://ehgt.org/86/e2/86e2c16c97f88af3f7cf68f960c70998b06215c7-48145-606-518-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/久城一弥) [Fandom](https://gosick.fandom.com/wiki/Kazuya_Kujō) |
+| matsurika shinouji | 汐王寺茉莉花 | 所属作品：`p:maria holic`<br><br>服侍祇堂鞠也的长发双马尾女仆<br><br>![](https://static.wikia.nocookie.net/mariaholic/images/4/41/Matsurika_Shinoji.jpg) | [Fandom](https://bishojodata.fandom.com/zh/wiki/汐王寺茉莉花) [Fandom](https://mariaholic.fandom.com/wiki/Matsurika_Shinōji) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
