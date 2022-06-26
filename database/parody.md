@@ -1962,6 +1962,7 @@ example:
 | ratchet and clank | 瑞奇与叮当 | 《瑞奇与叮当》（英语：Ratchet & Clank，香港和台湾译作“拉捷特与克拉克”）是由Insomniac Games创造、索尼电脑娱乐发行的动作冒险/第三人称射击系列游戏。 | [维基百科](https://zh.wikipedia.org/wiki/拉捷特與克拉克系列) |
 | kangokutou mary skelter | 神狱塔：断罪玛丽 | 《神狱塔 断罪玛丽》（日语：神獄塔 メアリスケルター，英文：Mary Skelter: Nightmares）是游戏制作公司“Compile Heart”于2016年针对PS Vita平台发布的RPG游戏。<br>![](https://static.wikia.nocookie.net/maryskelternightmares/images/0/0e/Mary_Skelter_Nightmares_Standard_Edition_game_cover_%28JP%29.jpg) | [维基百科](https://zh.wikipedia.org/wiki/神狱塔_断罪玛丽) [Fandom](https://maryskelternightmares.fandom.com/wiki/Mary_Skelter:_Nightmares) |
 | hourou musuko | 放浪男孩 | 《放浪男孩》（日语：放浪息子）是日本漫画家志村贵子的漫画作品。故事围绕想要成为女孩的年轻男生二鸟修一以及想要成为男孩的女同学高槻佳乃二人展开，涉及了性别认同、跨性别以及青春期等相关的一系列课题。<br><br>![图](https://ehgt.org/4a/bf/4abf13edb5439892c94ce6635a785eb5ecc6fa2b-45337-355-500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/放浪男孩) [维基百科](https://zh.wikipedia.org/wiki/放浪男孩) |
+| moshidora | 如果杜拉 | 《如果高中棒球队女子经理读了彼得·德鲁克》是由岩崎夏海创作的轻小说。本书以轻小说的形式描述女主人公川岛南管理一支高中棒球队，运用管理知识使自已与棒球队成员共同成长，达成目标的故事。德鲁克的理性管理论点与故事感性情节相结合，揭示了管理工作的科学与艺术性相结合的特质。<br><br>![](https://static.wikia.nocookie.net/enanimanga/images/5/5c/Moshidora.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/如果高中棒球队女子经理读了彼得·德鲁克) [Fandom](https://animanga.fandom.com/wiki/Moshidora) [维基百科](https://zh.wikipedia.org/wiki/如果高校棒球女子經理讀了彼得·杜拉克) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
