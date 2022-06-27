@@ -3978,6 +3978,7 @@ example:
 | dark elven forest ranger | dark elven forest ranger | 所属作品：`p:last origin` |  |
 | kie kamado | 灶门葵枝 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/zh/灶门葵枝) |
 | watson amelia | 阿米莉亚·华生 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/97/Watson_Amelia_Portrait.png) | [维基百科](https://zh.wikipedia.org/wiki/華生·艾米莉亞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Watson_Amelia) |
+| edmond dantes | 岩窟王(爱德蒙·唐泰斯) |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
