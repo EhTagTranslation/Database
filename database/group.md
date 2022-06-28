@@ -12436,6 +12436,7 @@ example:
 | tuberose | 月化香 |  |  |
 | naga to yappari yukai na nakama-tachi | nagaとやっぱり愉快な仲間たち |  | [HP](http://blog.livedoor.jp/nagatoyukaina/) |
 | attakai inu no yoru de | 暖かい淫雨の夜で |  |  |
+| nikoushikou | に向思考 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
