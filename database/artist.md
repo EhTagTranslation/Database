@@ -12098,6 +12098,7 @@ example:
 | mumumu seijin | むむむ星人 |  | [pixiv](https://www.pixiv.net/users/44906939) [Twitter](https://twitter.com/mumumu_seijin) |
 | redchicken | 붉은닭 |  | [pixiv](https://www.pixiv.net/users/9637364) |
 | shirai bebe | 白井べべ |  |  |
+| nekosaki aoi | 猫崎葵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
