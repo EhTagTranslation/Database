@@ -1973,6 +1973,7 @@ example:
 | hige o soru. soshite joshikousei o hirou. | 剃须。然后捡到女高中生。 |  | [维基百科](https://zh.wikipedia.org/wiki/刮掉鬍子的我與撿到的女高中生) [萌娘百科](https://mzh.moegirl.org.cn/刮掉胡子的我与捡到的女高中生) |
 | horimiya | 堀桑与宫村君 |  | [维基百科](https://zh.wikipedia.org/wiki/堀與宮村) [萌娘百科](https://zh.moegirl.org.cn/堀桑与宫村君) |
 | ef a tale of memories | 悠久之翼 | Ef: A Tale of Memories | [萌娘百科](https://zh.moegirl.org.cn/Ef系列) |
+| gaikotsu kishi-sama tadaima isekai e odekakechuu | 骸骨骑士大人异世界冒险中 |  | [萌娘百科](https://zh.moegirl.org.cn/骸骨骑士大人异世界冒险中) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
