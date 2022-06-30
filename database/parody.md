@@ -1974,6 +1974,7 @@ example:
 | horimiya | 堀桑与宫村君 |  | [维基百科](https://zh.wikipedia.org/wiki/堀與宮村) [萌娘百科](https://zh.moegirl.org.cn/堀桑与宫村君) |
 | ef a tale of memories | 悠久之翼 | Ef: A Tale of Memories | [萌娘百科](https://zh.moegirl.org.cn/Ef系列) |
 | gaikotsu kishi-sama tadaima isekai e odekakechuu | 骸骨骑士大人异世界冒险中 |  | [萌娘百科](https://zh.moegirl.org.cn/骸骨骑士大人异世界冒险中) |
+| kou-1 desu ga isekai de joushu hajimemashita | 虽然才高一却在异世界当起城主 | ![图](https://ehgt.org/27/c6/27c6809180caac8f62c67231dbf0b85f316cb0e7-400225-1297-1854-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高一就是异世界的城主) [Fandom](https://kou1isekai.fandom.com/wiki/Kou_1_Desu_ga_Isekai_de_Joushu_Hajimemashita_%28Light_Novel%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
