@@ -3684,7 +3684,7 @@ example:
 | hifumi ajitani | 阿慈谷ヒフミ |  |  |
 | azusa shirasu | 白洲アズサ |  |  |
 | hanako urawa | 浦和ハナコ |  |  |
-| koharu shimoe | 下江コハル |  |  |
+| koharu shimoe | 下江小春 |  | [萌娘百科](https://zh.moegirl.org.cn/下江小春) |
 | shifuna agato | 雪菲 |  |  |
 | miko yotsuya | 四谷见子 |  |  |
 | hana yurikawa | 百合川华 |  |  |
