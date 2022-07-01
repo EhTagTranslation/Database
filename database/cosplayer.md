@@ -67,7 +67,7 @@ example:
 | rio-chan | 愛瀬りおな | Old name seem to have been Aise Riona (愛瀬りおな) but they have gone by many names りおりおちゃん, りおちゃん, 璃緒ちゃん, りお, りおりお, riona, りおな, 愛瀬くりぃむ店, 愛瀬りおな | [Twitter](https://twitter.com/riorio0701) [Getchhu](https://dl.getchu.com/search/dojin_circle_detail.php?id=4338) |
 | siao ding | 小丁 |  |  |
 | franxcos | FranXcos |  |  |
-| junkenstein | Junkenstein |  | [patreon](ttps://www.patreon.com/junkenstein) |
+| junkenstein | Junkenstein |  | [patreon](ttps://www.patreon.com/junkenstein) [Instagram](https://www.instagram.com/junkenstein/) |
 | helly von valentine | Helly von Valentine |  |  |
 | penkarui | Penkarui |  |  |
 
