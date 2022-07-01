@@ -3981,6 +3981,7 @@ example:
 | edmond dantes | 岩窟王(爱德蒙·唐泰斯) |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
 | ariane glenys maple | 阿里安 | 所属作品：`gaikotsu kishi-sama tadaima isekai e odekakechuu` | [Fandom](https://skeleton-knight-in-another-world.fandom.com/wiki/Ariane) |
 | yukihana lamy | 雪花菈米 | ![图](https://ehgt.org/63/20/63200e27cbcfd1d7f1f616925788ad5028728f1a-185684-828-1200-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/雪花菈米) |
+| scarlet witch | 绯红女巫 |  | [维基百科](https://zh.wikipedia.org/wiki/緋紅女巫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
