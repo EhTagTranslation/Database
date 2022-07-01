@@ -6871,7 +6871,7 @@ example:
 | kinntarou | kinntarou |  |  |
 | kino ayuri | きのアユリ |  |  |
 | kinohara hikaru | きのはらひかる |  |  |
-| kinoko | 木野子 |  |  |
+| kinoko | Kinoko |  |  |
 | kinoko dake | きのこダケ |  |  |
 | kinokuniya kanoko | キノクニヤカノコ |  |  |
 | kinosaki yuki | 木ノ崎由貴 |  |  |
