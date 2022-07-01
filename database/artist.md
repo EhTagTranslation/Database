@@ -12100,6 +12100,7 @@ example:
 | shirai bebe | 白井べべ |  |  |
 | nekosaki aoi | 猫崎葵 |  |  |
 | kakuchou no okina | 拡張の翁 |  | [pixiv](https://www.pixiv.net/users/5273099) [Twitter](https://twitter.com/Wabiko1126) |
+| shiawase na choshoku. | 幸せな朝食。 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
