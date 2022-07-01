@@ -520,7 +520,7 @@ example:
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。 |  |
 | scat | 排便💩 | 是`coprophagia`的前置标签。 |  |
-| scat insertion | 粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
+|  | scat insertion粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
 | sweating | 出汗 | 可见的出汗。不应与`bukkake`或`oil`混淆。 |  |
 | urination | 排尿 | 尿尿。是`piss drinking`的前置标签。 |  |
 |  | == 强迫 == |  |  |
