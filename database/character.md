@@ -3991,6 +3991,7 @@ example:
 | toru acura | 托鲁·亚裘拉 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/7/7a/Toru.png) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Toru_Acura) |
 | chaika bogdan | 嘉依卡·布芙丹 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/3/37/Chaika_bogdan_02.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Chaika_Bogdan) |
 | hyakumantenbara salome | 壹百满天原莎乐美 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Hyakumantenbara_Salome_-_Portrait.webp) | [萌娘百科](https://zh.moegirl.org.cn/zh/壹百满天原莎乐美) [维基百科](https://zh.wikipedia.org/wiki/壹百滿天原莎樂美) |
+| miruki amauri | 甘瓜牛奶 | 所属作品：`p:waccha primagi` | [Fandom](https://pretty-series.fandom.com/wiki/Miruki_Amauri) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
