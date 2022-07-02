@@ -1360,7 +1360,7 @@ example:
 | katanagatari | 刀语 | 《刀语》是西尾维新所作的轻小说，插画作者是竹，共12册。这是西尾首次发表的时代小说。由此改编的动画于2010年1月开始每月播放一话，为《西尾维新动画PROJECT》第二个项目，全12话。 | [维基百科](https://zh.wikipedia.org/zh-cn/刀语) (\*) |
 | plastic memories | 可塑性记忆 | 《可塑性记忆》（日语：プラスティック・メモリーズ），是由动画工房制作的日本原创电视动画，2015年4月4日播出并于6月27日完结，同时宣布小说化。2016年5月19日宣布游戏化。 | [维基百科](https://zh.wikipedia.org/zh-cn/可塑性記憶) (\*) |
 | ijiranaide nagatoro-san | 不要欺负我，长瀞同学 | ![](https://img.moegirl.org.cn/common/b/ba/Nagatoro-san01.jpg) | [维基百科（英语）](https://en.wikipedia.org/wiki/Please_don%27t_bully_me,_Nagatoro) [萌娘百科](https://zh.moegirl.org.cn/不要欺负我，长瀞同学) |
-| bijin onna joushi takizawa-san | 美女上司泷泽小姐 |  |  |
+| bijin onna joushi takizawa-san | 美女上司泷泽小姐 | ![](https://deliver.cdn.nicomanga.jp/material/fef8e1/8774631qc) | [HP](https://seiga.nicovideo.jp/comic/22778) [myanimelist](https://myanimelist.net/manga/108520/Bijin_Onna_Joushi_Takizawa-san) |
 | bible black | 黑暗圣经 | 《黑魔术学园》（或译作《黑暗圣经》，日文原名バイブルブラック，即英文Bible Black）是2000年由日本Active公司制作的一款十八禁游戏，原画和脚本制作者是著名的“圣少女”。此作是“圣少女”受雇Active时期六部原画作品的第五部、出任原作者后“三部曲”中的第二部。 | [维基百科](https://zh.wikipedia.org/zh-cn/黑魔術學園) (\*) |
 | uzaki-chan wa asobitai | 宇崎酱想要玩耍！ |  |  |
 | one kagayaku kisetsu e | ONE～光辉的季节～ | 《ONE～光辉的季节～》（日语：ONE 〜輝く季節へ）是NEXTON的旗下品牌Tactics于1998年5月29日发售的恋爱冒险类型成人游戏，后来改编成OVA、漫画和小说。由于是以Key所属的工作人员为中心制作的游戏，因此常被视为Key的游戏，亦被称为Key社四季曲中的“秋”。 | [维基百科](https://zh.wikipedia.org/zh-cn/ONE～光辉的季节～) (\*) |
