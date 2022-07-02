@@ -1176,7 +1176,7 @@ example:
 | air gear | 飞轮少年 | 《飞轮少年》作者为大暮维人，是一部定位在青春热血的漫画作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/飛輪少年) (\*) |
 | bamboo blade | 竹刀少女 | 《BAMBOO BLADE》是土冢理弘原作、五十岚あぐり作画的以剑道为题材的日本漫画作品。从2004年12月3日在杂志YOUNG GANGAN上（创刊号）连载，于2010年9月17日（Vol.18）完结。台湾中文版由尚禾出版社代理。于2007年10月改编为电视动画并开始播放，于2008年3月播放完毕。而香港有线电视儿童台由2009年7月6日起播映。 | [维基百科](https://zh.wikipedia.org/zh-cn/BAMBOO_BLADE) (\*) |
 | dance in the vampire bund | 吸血鬼同盟 | 《吸血鬼同盟》（日语：ダンス イン ザ ヴァンパイアバンド；英语：Dance In The Vampire Bund）是环望的日本漫画作品，于2006年开始连载。于2010年1月改编为电视动画播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/吸血鬼同盟) (\*) |
-| freezing | 结界女王 | 《结界女王》（日语：フリージング），是韩国作家林达永原作、韩国漫画家金光铉担任作画的日本漫画，在Kill Time Communication（KTC）的漫画杂志《Comic Valkyrie》上进行连载，并改编成电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/結界女王) (\*) |
+| freezing | 零度战姬 \| 结界女王 | 《零度战姬》，又译《结界女王》（日语：フリージング），是韩国作家林达永原作、韩国漫画家金光铉担任作画的日本漫画，在Kill Time Communication（KTC）的漫画杂志《Comic Valkyrie》上进行连载，并改编成电视动画。 | [萌娘百科](https://zh.moegirl.org.cn/零度战姬) |
 | omamori himari | 守护猫娘绯鞠 | 《守护猫娘绯鞠》(おまもりひまり，Omamori Himari)是日本漫画家的良米兰的漫画作品，并有同名动画等衍生作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/守護貓娘緋鞠) [萌娘百科](https://zh.moegirl.org.cn/守护猫娘绯鞠) (\*\*) |
 | shinkyoku soukai polyphonica | 神曲奏界Polyphonica | 《神曲奏界》（日语：神曲奏界ポリフォニカ）是以但丁的《神曲》为架空背景所衍生出的电子小说、轻小说、动画及漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/神曲奏界) (\*) |
 | tenjou tenge | 天上天下 | 《天上天下》是日本漫画家大暮维人的代表作品，此作品是大暮维人从成人漫画转型至青年漫画的首部作品，由于设定复杂而丰富，人物形象吸引，因而备受欢迎。于《Ultra Jump》1998年第11号至2010年第9号连载，2004年动画化，在朝日电视台播放，香港有线娱乐台亦于2005年播放，台湾则在东森戏剧台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/天上天下) (\*) |
