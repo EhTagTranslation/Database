@@ -12439,6 +12439,7 @@ example:
 | nikoushikou | に向思考 |  |  |
 | anata wa onaka ga suiteiru | あなたはお腹がすいている |  |  |
 | yurushite ochinti kyo | 許しておちんち教 |  |  |
+| seiheki kenkyuujo bravo han | 性癖研究所 ブラボー班 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
