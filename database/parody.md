@@ -1982,6 +1982,7 @@ example:
 | wizardry | 巫术系列 | 巫术（又译“辟邪除妖”）是由Sir-Tech开发的电子角色扮演游戏系列，其对现代游戏平台的开发以及电脑角色扮演游戏的设计产生了重大影响。 | [维基百科](https://zh.wikipedia.org/wiki/巫术系列) |
 | cotton | 棉花小魔女系列 |  | [维基百科](https://zh.wikipedia.org/zh-cn/棉花小魔女系列) |
 | waccha primagi | 绫镜魔法 |  | [维基百科](https://zh.wikipedia.org/zh-cn/星光魔法) |
+| sonic soldier borgman | 超音战士 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5d/Borgman_LOVERS_RAIN.jpg) | [维基百科](https://zh.wikipedia.org/wiki/超音戰士) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
