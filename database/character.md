@@ -3997,6 +3997,7 @@ example:
 | kyouko takizawa | 滝沢 京子 | 所属作品：`bijin onna joushi takizawa-san`<br><br>![](https://cdn.myanimelist.net/images/manga/2/204811.jpg) | [myanimelist](https://myanimelist.net/character/159431/Kyouko_Takizawa) |
 | black prince | 黑太子 | 所属作品：`p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:黑太子) |
 | tomoko kuroki | 黑木智子 | 所属作品：`p:its not my fault that im not popular` | [萌娘百科](https://zh.moegirl.org.cn/zh/黑木智子) |
+| yukari miyako | 都由香里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
