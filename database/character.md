@@ -3987,6 +3987,7 @@ example:
 | tsubame koyasu | 子安燕 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/子安燕) |
 | akari acura | 阿卡莉·亚裘拉 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/7/7d/Akari.png) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Akari_Acura) |
 | chaika trabant | 嘉依卡·托勒庞特 | ![](https://static.wikia.nocookie.net/hitsugimenochaika/images/6/6b/Chaika_trabant.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Chaika_Trabant) |
+| david | 大卫 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/6/6d/249873.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/David) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
