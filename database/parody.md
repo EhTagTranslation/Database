@@ -517,7 +517,7 @@ example:
 | hitsugi no chaika | 棺姬嘉依卡 |  | [萌娘百科](https://zh.moegirl.org.cn/棺姬嘉依卡) |
 | kishin douji zenki | 鬼神童子 |  |  |
 | muv-luv | Muv-Luv | 《Muv-Luv》（日语：マブラヴ），是由日本游戏公司âge推出的18禁电脑冒险游戏。<br><br>关联标签：`p:muv-luv alternative total eclipse`<br>![图](https://ehgt.org/7e/35/7e35bb0cd161f5cb287594a7b36e11edcb06d3e1-27962-266-374-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Muv-Luv系列) |
-| muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse |  |  |
+| muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse | 关联标签：`p:muv-luv` |  |
 | dangaioh | 破邪大星弹劾皇 |  |  |
 | 3x3 eyes | 三只眼 |  |  |
 | bakuretsu hunters | 爆走猎人 |  |  |
