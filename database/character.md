@@ -3992,6 +3992,7 @@ example:
 | chaika bogdan | 嘉依卡·布芙丹 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/3/37/Chaika_bogdan_02.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Chaika_Bogdan) |
 | hyakumantenbara salome | 壹百满天原莎乐美 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/0e/Hyakumantenbara_Salome_-_Portrait.webp) | [萌娘百科](https://zh.moegirl.org.cn/zh/壹百满天原莎乐美) [维基百科](https://zh.wikipedia.org/wiki/壹百滿天原莎樂美) |
 | miruki amauri | 甘瓜牛奶 | 所属作品：`p:waccha primagi` | [Fandom](https://pretty-series.fandom.com/wiki/Miruki_Amauri) |
+| ouro kronii | 奥罗·克洛尼 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b2/Ouro_Kronii_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/奥罗·克洛尼) [hololive wiki](https://hololive.wiki/wiki/Ouro_Kronii) [Fandom](https://virtualyoutuber.fandom.com/wiki/Ouro_Kronii) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
