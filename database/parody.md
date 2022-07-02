@@ -1979,6 +1979,7 @@ example:
 | digimon story cyber sleuth | 数码宝贝物语 网络侦探 |  | [维基百科](https://zh.wikipedia.org/wiki/數碼寶貝物語_網路偵探) |
 | among us | Among Us | 是一款多人电子游戏，玩家将扮演船员或内鬼。船员的目标是找出内鬼并完成任务，而内鬼的目标是杀死或让所有船员被投出局而不被识穿身分。<br>![](https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Among_Us) |
 | landstalker | 秘境魔宝 |  | [维基百科](https://zh.wikipedia.org/wiki/秘境魔寶) |
+| wizardry | 巫术系列 | 巫术（又译“辟邪除妖”）是由Sir-Tech开发的电子角色扮演游戏系列，其对现代游戏平台的开发以及电脑角色扮演游戏的设计产生了重大影响。 | [维基百科](https://zh.wikipedia.org/wiki/巫术系列) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
