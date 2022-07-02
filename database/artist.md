@@ -12103,6 +12103,7 @@ example:
 | shiawase na choshoku. | 幸せな朝食。 |  |  |
 | cenangam | CeNanGam |  | [pixiv](https://www.pixiv.net/users/4089680) [Twitter](https://twitter.com/CeNanGam) |
 | tabasco pasta | タバスコパスタ |  | [pixiv](https://www.pixiv.net/users/415179) |
+| gin eiji | 銀エイジ |  | [pixiv](https://www.pixiv.net/users/49322001) [Twitter](https://twitter.com/silver_neet210) |
 
 <!--TEMPLATE:
 |  |  |  |  |
