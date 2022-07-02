@@ -514,7 +514,7 @@ example:
 | hellsing | 地狱之歌 | 皇家国教骑士团 / 厄夜怪客 |  |
 | super black jack | 兔女郎的诱惑 | Rio RainbowGate! / 里欧彩虹之门！ |  |
 | hell teacher nube | 地狱老师 |  |  |
-| hitsugi no chaika | 棺姬嘉依卡 |  |  |
+| hitsugi no chaika | 棺姬嘉依卡 |  | [萌娘百科](https://zh.moegirl.org.cn/棺姬嘉依卡) |
 | kishin douji zenki | 鬼神童子 |  |  |
 | muv-luv | Muv-Luv | 《Muv-Luv》（日语：マブラヴ），是由日本游戏公司âge推出的18禁电脑冒险游戏。<br><br>关联标签：`p:muv-luv alternative total eclipse`<br>![图](https://ehgt.org/7e/35/7e35bb0cd161f5cb287594a7b36e11edcb06d3e1-27962-266-374-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Muv-Luv系列) |
 | muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse |  |  |
