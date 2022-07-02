@@ -1983,6 +1983,7 @@ example:
 | cotton | 棉花小魔女系列 |  | [维基百科](https://zh.wikipedia.org/zh-cn/棉花小魔女系列) |
 | waccha primagi | 绫镜魔法 |  | [维基百科](https://zh.wikipedia.org/zh-cn/星光魔法) |
 | sonic soldier borgman | 超音战士 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5d/Borgman_LOVERS_RAIN.jpg) | [维基百科](https://zh.wikipedia.org/wiki/超音戰士) |
+| brave girl ravens | Brave Girl Ravens | ![](https://p.sda1.dev/6/a89cae95dd14bd14205c56812b6712de/image.png) | [介绍](https://home.gamer.com.tw/creationDetail.php?sn=3371539) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
