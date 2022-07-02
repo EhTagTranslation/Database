@@ -3984,6 +3984,7 @@ example:
 | scarlet witch | 绯红女巫 |  | [维基百科](https://zh.wikipedia.org/wiki/緋紅女巫) |
 | wanda maximoff | 旺达 | 旺达·马克西莫夫<br><br>漫威超级英雄之一 | [维基百科（英语）](https://en.wikipedia.org/wiki/Wanda_Maximoff_%28Marvel_Cinematic_Universe%29) |
 | camie utsushimi | 现见凯米 | 现见凯米是漫画《我的英雄学院》及其衍生作品的登场角色。![现见凯米](https://i.imgur.com/P9McCHS.jpg) | [萌娘百科](https://zh.moegirl.org.cn/现见凯米) |
+| tsubame koyasu | 子安燕 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/子安燕) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
