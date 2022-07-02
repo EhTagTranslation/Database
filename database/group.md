@@ -12438,6 +12438,7 @@ example:
 | attakai inu no yoru de | 暖かい淫雨の夜で |  |  |
 | nikoushikou | に向思考 |  |  |
 | anata wa onaka ga suiteiru | あなたはお腹がすいている |  |  |
+| yurushite ochinti kyo | 許しておちんち教 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
