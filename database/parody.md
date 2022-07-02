@@ -1978,6 +1978,7 @@ example:
 | kansen x shoujo | 感染×少女 |  | [百度百科](https://baike.baidu.com/item/感染×少女) |
 | digimon story cyber sleuth | 数码宝贝物语 网络侦探 |  | [维基百科](https://zh.wikipedia.org/wiki/數碼寶貝物語_網路偵探) |
 | among us | Among Us | 是一款多人电子游戏，玩家将扮演船员或内鬼。船员的目标是找出内鬼并完成任务，而内鬼的目标是杀死或让所有船员被投出局而不被识穿身分。<br>![](https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Among_Us) |
+| landstalker | 秘境魔宝 |  | [维基百科](https://zh.wikipedia.org/wiki/秘境魔寶) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
