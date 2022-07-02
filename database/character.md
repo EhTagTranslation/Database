@@ -3989,6 +3989,7 @@ example:
 | chaika trabant | 嘉依卡·托勒庞特 | ![](https://static.wikia.nocookie.net/hitsugimenochaika/images/6/6b/Chaika_trabant.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Chaika_Trabant) |
 | david | 大卫 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/6/6d/249873.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/David) |
 | toru acura | 托鲁·亚裘拉 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/7/7a/Toru.png) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Toru_Acura) |
+| chaika bogdan | 嘉依卡·布芙丹 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/3/37/Chaika_bogdan_02.jpg) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Chaika_Bogdan) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
