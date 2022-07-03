@@ -12441,7 +12441,7 @@ example:
 | yurushite ochinti kyo | 許しておちんち教 |  |  |
 | seiheki kenkyuujo bravo han | 性癖研究所 ブラボー班 |  |  |
 | akatsuki works hibiki | hibiki works | ![](https://lain.bgm.tv/pic/crt/l/8f/80/21374_prsn_MaepW.jpg)<br>AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”） | [HP](https://www.hibiki-site.com) |
-| icchao murasakiimoren new | いっちゃお♪紫芋れんnew |  |  |
+| icchao murasakiimoren new | いっちゃお♪紫芋れんnew |  | [ci-en](https://ci-en.dlsite.com/creator/2450) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
