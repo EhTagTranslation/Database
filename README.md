@@ -45,12 +45,12 @@
   ![UWP][plat-uwp] ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
 
-- [EhViewer](https://github.com/seven332/EhViewer)（由 [@seven332](https://github.com/seven332) 开发，于2019年8月9日停止维护）  
-  ![Android][plat-android]  
+- [EhViewer](https://github.com/seven332/EhViewer)（由 [@seven332](https://github.com/seven332) 开发，已停止维护）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/seven332/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An Unofficial E-Hentai Application for Android.
-  #### 主要修改版分支
-  * [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（于2022年5月1日停止维护）。
-  * [@xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)。
+  #### 主要继续开发分支
+  * [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（于2022年5月1日停止维护，最后版本 v1.7.26.4）。
+  * [@xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)。
 
 - [EhPanda](https://ehpanda.app)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
