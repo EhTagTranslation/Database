@@ -3131,7 +3131,7 @@ example:
 | gray | 格蕾 | 埃尔梅罗二世（韦伯·维尔维特）的入室弟子，面容与saber相同，可使用圣枪伦戈米尼亚德 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/格蕾) |
 | koyanskaya | 高扬斯卡娅 | 玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [https://wiki.komica.org/T·V·柯楊斯卡雅](https://wiki.komica.org/T·V·柯楊斯卡雅) |
 | mineva lao zabi | 密涅瓦·劳·扎比（汤小美） | 米妮瓦·拉欧·萨比 （ミネバ・ラオ・ザビ / Mineva Lao Zabi，又译为米妮瓦或米妮芭，或汤小美）是动画版机动战士GUNDAM，机动战士Z GUNDAM，机动战士GUNDAM ZZ以及机动战士GUNDAM UC当中的登场人物。生于UC0079年9月2日，是德兹尔·萨比与妻子瑟娜之间的独生女。也是萨比家唯一在一年战争之后还存活的人物。声优：初代TV版与剧场版：无，TV版Ζ与ΖΖ当中为伊藤美纪，UC当中为藤村步。<br><br>阅读更多：薩比家（[萌娘百科](https://zh.moegirl.org.cn/薩比家）)<br>本文引自萌娘百科([萌娘百科](https://zh.moegirl.org.cn))，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0》协议。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/薩比家#米妮瓦·拉歐·薩比) |
-| marida cruz | 玛莉妲·库鲁斯\|普露12 |  | [https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
+| marida cruz | 玛莉妲·库鲁斯 | 普露12 | [https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
 | mizuki usami | 宇佐美瑞希 | 宇佐美瑞希是由いみぎむる所创作的漫画《这个美术社大有问题!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/宇佐美瑞希) |
 | subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/内卷昴) |
@@ -3978,7 +3978,7 @@ example:
 | dark elven forest ranger | dark elven forest ranger | 所属作品：`p:last origin` |  |
 | kie kamado | 灶门葵枝 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/zh/灶门葵枝) |
 | watson amelia | 阿米莉亚·华生 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/97/Watson_Amelia_Portrait.png) | [维基百科](https://zh.wikipedia.org/wiki/華生·艾米莉亞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Watson_Amelia) |
-| edmond dantes | 岩窟王(爱德蒙·唐泰斯) |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
+| edmond dantes | 爱德蒙·唐泰斯（岩窟王） |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
 | ariane glenys maple | 阿里安 | 所属作品：`gaikotsu kishi-sama tadaima isekai e odekakechuu` | [Fandom](https://skeleton-knight-in-another-world.fandom.com/wiki/Ariane) |
 | yukihana lamy | 雪花菈米 | ![图](https://ehgt.org/63/20/63200e27cbcfd1d7f1f616925788ad5028728f1a-185684-828-1200-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/雪花菈米) |
 | scarlet witch | 绯红女巫 |  | [维基百科](https://zh.wikipedia.org/wiki/緋紅女巫) |
@@ -3994,7 +3994,7 @@ example:
 | miruki amauri | 甘瓜牛奶 | 所属作品：`p:waccha primagi` | [Fandom](https://pretty-series.fandom.com/wiki/Miruki_Amauri) |
 | ouro kronii | 奥罗·克洛尼 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b2/Ouro_Kronii_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/奥罗·克洛尼) [hololive wiki](https://hololive.wiki/wiki/Ouro_Kronii) [Fandom](https://virtualyoutuber.fandom.com/wiki/Ouro_Kronii) |
 | katsuki bakugou | 爆豪胜己 | 所属作品：`p:my hero academia`<br><br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Katsuki_Bakugo_School_Uniform_Full_Body.png) | [维基百科](https://zh.wikipedia.org/wiki/爆豪勝己) [Fandom](https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo) |
-| kyouko takizawa | 滝沢 京子 | 所属作品：`bijin onna joushi takizawa-san`<br><br>![](https://cdn.myanimelist.net/images/manga/2/204811.jpg) | [myanimelist](https://myanimelist.net/character/159431/Kyouko_Takizawa) |
+| kyouko takizawa | 泷泽京子 | 所属作品：`bijin onna joushi takizawa-san`<br><br>![](https://cdn.myanimelist.net/images/manga/2/204811.jpg) | [myanimelist](https://myanimelist.net/character/159431/Kyouko_Takizawa) |
 | black prince | 黑太子 | 所属作品：`p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:黑太子) |
 | tomoko kuroki | 黑木智子 | 所属作品：`p:its not my fault that im not popular` | [萌娘百科](https://zh.moegirl.org.cn/zh/黑木智子) |
 | yukari miyako | 都由香里 |  |  |

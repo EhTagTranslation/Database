@@ -1294,7 +1294,7 @@ example:
 | luv p | Luv P |  |  |
 | rozer | ROZER |  |  |
 | mame danuki | まめだぬき |  |  |
-| lolicept | LOLICEPT \| belko | belko，原名LOLICEPT，擅长画巨乳和乳交图 | [pixiv](https://www.pixiv.net/users/39123643) |
+| lolicept | Belko（LOLICEPT） | belko，原名LOLICEPT，擅长画巨乳和乳交图 | [pixiv](https://www.pixiv.net/users/39123643) |
 | shiduki michiru | しづきみちる |  |  |
 | jet yowatari | ジェット世渡り |  |  |
 | jigeum | 지금 |  |  |
@@ -3573,7 +3573,7 @@ example:
 | sasaki bullet | 佐々木バレット | ![图](# "https://ehgt.org/58/b2/58b29b445424b21d14458e55591d5354ee65b2d0-1711332-1353-1920-jpg_l.jpg") | [Twitter](https://twitter.com/sskbura) [pixiv](https://www.pixiv.net/users/13771) |
 | kuroki hidehiko | 黑木秀彦 |  |  |
 | agemo agm | 阿戈魔AGM | P站画师 | [pixiv](https://www.pixiv.net/users/20670939) |
-| jackasss | 空蜂ミドロ \| テラダ・ジャッカス | 筋肉娘爱好者。常见`f:muscle` | [pixiv](https://www.pixiv.net/users/8487) [Twitter](https://twitter.com/jjjackasss) |
+| jackasss | 空蜂ミドロ（テラダ・ジャッカス） | 筋肉娘爱好者。常见`f:muscle` | [pixiv](https://www.pixiv.net/users/8487) [Twitter](https://twitter.com/jjjackasss) |
 | izayoi seishin | 十六夜清心 |  |  |
 | dancyo | だんちょ | ![twitter](https://pbs.twimg.com/profile_images/1394664606082035715/cLMBhbnw_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`himitsukessya usagi`主笔画师 | [twitter](https://twitter.com/ssssskull_03) [pixiv](https://www.pixiv.net/users/502509) |
 | ame | 雨 | ![twitter](https://pbs.twimg.com/profile_images/1343240345950175234/fNw_1b6w_400x400.jpg)<br><br>**作者推特头像**<br><br>在日韩国同人画师，社团`orangemaru`的三位主笔之一，有着三人中最多的twitter粉丝 | [twitter](https://twitter.com/la__pioggia) [pixiv](https://www.pixiv.net/users/4595297) |
@@ -4446,7 +4446,7 @@ example:
 | bbwh | bbwH |  |  |
 | bea | bea |  |  |
 | beat-kun | びーとくん |  |  |
-| beater | Beater \| daikung |  |  |
+| beater | Beater |  |  |
 | bebebe | べべべ |  |  |
 | beco | Beco |  |  |
 | bee | bee |  |  |
@@ -4731,7 +4731,7 @@ example:
 | cloire clover | Cloire Clover |  |  |
 | cloth tsugutoshi | 黒須嗣載 |  |  |
 | clover | clover |  |  |
-| co ma | Co\_Ma \| Arniro |  |  |
+| co ma | Co\_Ma |  |  |
 | coara | coara |  |  |
 | coaster | コースター |  |  |
 | cobo | こぼ |  |  |
