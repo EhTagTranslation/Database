@@ -3153,7 +3153,7 @@ example:
 | yuugen | ゆーげん |  | [Twitter](https://twitter.com/Yuugen_99) [pixiv](https://www.pixiv.net/users/806502) |
 | oshio | おしお |  | [Twitter](https://twitter.com/oshioshio_info) [pixiv](https://www.pixiv.net/users/4733565) |
 | torotarou | トロ太郎 |  |  |
-| mishima kurone | 三岛黑音 | 三嶋くろね<br><br>喜欢白发娘，以擅长画白发娘而闻名。 | [Twitter](https://twitter.com/mishima_kurone) [pixiv](https://www.pixiv.net/users/1184799) |
+| mishima kurone | 三岛黑音 | 三嶋くろね<br><br>喜欢白发娘，以擅长画白发娘而闻名。 | [Twitter](https://twitter.com/mishima_kurone) [pixiv](https://www.pixiv.net/users/1184799) [萌娘百科](https://zh.moegirl.org.cn/三岛黑音) |
 | himuro shunsuke | 氷室しゅんすけ |  | [pixiv](https://www.pixiv.net/users/65165) [Twitter](https://twitter.com/himuron) |
 | haikome | 灰米 |  | [pixiv](https://www.pixiv.net/users/46068676) [Twitter](https://twitter.com/Haikome?s=09) |
 | bizen dorobune | 備前泥舟 |  | [pixiv](https://www.pixiv.net/users/7341) [Twitter](https://twitter.com/zendoro) |
