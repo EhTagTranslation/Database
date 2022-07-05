@@ -12030,7 +12030,7 @@ example:
 | zutta | Zutta |  |  |
 | zuzu | ズズ |  |  |
 | zyaroh akira | 邪琅明 |  |  |
-| zyougen | 上弦 |  |  |
+| zyougen | 汉语 |  |  |
 | zyulokuya | 十録屋 |  |  |
 | zzinzinz | なめジョン |  |  |
 | zzz | zzz |  |  |
