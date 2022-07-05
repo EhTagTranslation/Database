@@ -4001,6 +4001,7 @@ example:
 | clare | 克蕾雅 |  |  |
 | raki | 拉基 |  |  |
 | teresa | 泰蕾莎 |  |  |
+| samira | 莎弥拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
