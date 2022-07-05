@@ -4002,6 +4002,7 @@ example:
 | raki | 拉基 |  |  |
 | teresa | 泰蕾莎 |  |  |
 | samira | 莎弥拉 |  |  |
+| katarina du couteau | 卡特琳娜·杜·克卡奥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
