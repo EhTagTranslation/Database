@@ -3999,6 +3999,7 @@ example:
 | tomoko kuroki | 黑木智子 | 所属作品：`p:its not my fault that im not popular` | [萌娘百科](https://zh.moegirl.org.cn/zh/黑木智子) |
 | yukari miyako | 都由香里 |  |  |
 | clare | 克蕾雅 |  |  |
+| raki | 拉基 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
