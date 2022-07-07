@@ -1985,6 +1985,7 @@ example:
 | sonic soldier borgman | 超音战士 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5d/Borgman_LOVERS_RAIN.jpg) | [维基百科](https://zh.wikipedia.org/wiki/超音戰士) |
 | brave girl ravens | Brave Girl Ravens | ![](https://p.sda1.dev/6/a89cae95dd14bd14205c56812b6712de/image.png) | [介绍](https://home.gamer.com.tw/creationDetail.php?sn=3371539) |
 | tsukuyomi moon phase | 月咏 | 漫画从1999年9月号至2009年3月号的COMIC GUM月刊上连载。后来被改编为动画《月咏 -MOON PHASE-》，于2004年10月首次播出。<br>对于不少人来说，月咏是和《魔卡少女樱》类似的启"萌"作品。是在看了这部作品以后被叶月萌到，才开始逐渐了解萝莉的萌世界的。<br><br>![图](https://ehgt.org/c7/fb/c7fb114d5a0b6f674ac1dd3b6e8bfcd047aafb26-156916-262-380-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/月咏%28有马启太郎%29) [维基百科（英语）](https://en.wikipedia.org/wiki/Tsukuyomi:_Moon_Phase) |
+| punishing gray raven | 战双帕弥什 |  | [萌娘百科](https://zh.moegirl.org.cn/战双帕弥什) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
