@@ -12110,7 +12110,6 @@ example:
 | hanayama | はなやま |  |  |
 | kusoniku yokichi | 糞肉与吉 |  |  |
 | hatoba akane | 波止場茜 |  |  |
-| chinese | 汉语 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
