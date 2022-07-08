@@ -2814,7 +2814,7 @@ example:
 | kirekawa | きれかわ |  | [pixiv](https://www.pixiv.net/users/8983263) |
 | taro oimo | たろおいも |  | [Twitter](https://twitter.com/taro0imo) [pixiv](https://www.pixiv.net/users/14015863) |
 | akimoto dai | あきもと大 |  | [Twitter](https://twitter.com/dai_colorful) |
-| kumada | くまだ \| くまのとおる |  | [Twitter](https://twitter.com/kumadano) [pixiv](https://www.pixiv.net/users/86161) |
+| kumada | くまだ（くまのとおる） |  | [Twitter](https://twitter.com/kumadano) [pixiv](https://www.pixiv.net/users/86161) |
 | nipi | nipi |  | [Twitter](https://twitter.com/saberchankawaii) [pixiv](https://www.pixiv.net/users/15622479) |
 | misakana | みさかな |  | [Twitter](https://twitter.com/mi3ka7) [pixiv](https://www.pixiv.net/users/161400) |
 | cru | Cru |  | [Twitter](https://twitter.com/tyoukai5) [pixiv](https://www.pixiv.net/users/831024) |
