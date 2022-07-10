@@ -1845,7 +1845,7 @@ example:
 | bully | 恶霸鲁尼 |  | [维基百科](https://zh.wikipedia.org/zh-cn/惡霸魯尼) |
 | bungou to alchemist | 文豪与炼金术师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/文豪與鍊金術師) |
 | burn up | 杀人科 |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
-| burn up w | 杀人科 W |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
+| burn up w | 动漫 | 动漫 | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
 | burn up scramble | 杀人科 SCRAMBLE |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
 | busou shoujo machiavellianism | 武装少女Machiavellianism |  | [维基百科](https://zh.wikipedia.org/zh-cn/武裝少女Machiavellianism) |
 | buzz lightyear of star command | 巴斯光年的星际使命 |  | [维基百科](https://zh.wikipedia.org/zh-cn/巴斯光年的星際使命) |
