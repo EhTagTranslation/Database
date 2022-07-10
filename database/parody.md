@@ -883,7 +883,7 @@ example:
 | rampo kitan game of laplace | 乱步奇谭 拉普拉斯的游戏 |  |  |
 | gravity rush | 重力眩晕 | 重力异想世界 |  |
 | cowboy bebop | 星际牛仔 |  |  |
-| wii fit | 西方 | 西方 |  |
+| wii fit | Wii Fit | 《Wii Fit》是任天堂开发的健身游戏，2007和2008年在全球Wii平台发行。 |  |
 | uta no prince-sama | 歌之王子殿下 |  |  |
 | hime chen otogi chikku idol lilpri | 变身！公主偶像 |  |  |
 | ib | Ib | 《Ib》（日语：イヴ）是一款2012年2月27日发布、使用RPG Maker 2000为工具，制作的一款免费的冒险游戏。作者为kouri。 |  |
@@ -1488,7 +1488,7 @@ example:
 | ore o suki nano wa omae dake kayo | 喜欢本大爷的竟然就你一个？ | 《喜欢本大爷的竟然就你一个？》（日语：俺を好きなのはお前だけかよ）是骆驼写作、马口铁插画的日本轻小说。2017年2月于集英社的网络漫画网站《少年Jump＋》开始连载漫画，伊島ユウ作画。2018年10月在《电击文库25周年记念 秋之电击祭》的活动会场中宣布改编为电视动画，2019年10月2日在TOKYO MX播出。 | [维基百科](https://zh.wikipedia.org/zh/喜歡本大爺的竟然就妳一個？) |
 | tricolour lovestory | 三色△绘恋 | 《三色△绘恋》是武汉山百合文化传播有限公司旗下绘恋GALGAME制作组制作的一款国产galgame。 | [官网地址](https://www.hl-avg.com/)<br>[萌娘百科](https://zh.moegirl.org.cn/三色绘恋) |
 | mahjong soul | 雀魂麻将 | 《雀魂麻将》是猫粮工作室开发的一款多人在线日本竞技麻将网络游戏。 | [萌娘百科](https://zh.moegirl.org.cn/雀魂麻将) (\*\*) |
-| genshin impact | ![icon](https://p.sda1.dev/5/d3c970768e4b7e4d63ead4e46f28aa03/1.jpg)原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏 | [官网](https://ys.mihoyo.com/)  [维基百科](https://zh.wikipedia.org/wiki/原神) |
+| genshin impact | ![icon](https://p.sda1.dev/5/d3c970768e4b7e4d63ead4e46f28aa03/1.jpg)原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏。 | [官网](https://ys.mihoyo.com/)  [维基百科](https://zh.wikipedia.org/wiki/原神) |
 | mobile suit gundam the 08th ms team | 机动战士高达 第08MS小队 |  |  |
 | hoshizora no memoria | 星空的记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/星空的回憶_-Wish_upon_a_shooting_star-#cite_note-shootingStar-1) |
 | bocchi kaibutsu to moumoku shoujo | 孤独怪物与盲少女 |  |  |
@@ -1845,7 +1845,7 @@ example:
 | bully | 恶霸鲁尼 |  | [维基百科](https://zh.wikipedia.org/zh-cn/惡霸魯尼) |
 | bungou to alchemist | 文豪与炼金术师 |  | [维基百科](https://zh.wikipedia.org/zh-cn/文豪與鍊金術師) |
 | burn up | 杀人科 |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
-| burn up w | 动漫 | 动漫 | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
+| burn up w | 杀人科 W |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
 | burn up scramble | 杀人科 SCRAMBLE |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
 | busou shoujo machiavellianism | 武装少女Machiavellianism |  | [维基百科](https://zh.wikipedia.org/zh-cn/武裝少女Machiavellianism) |
 | buzz lightyear of star command | 巴斯光年的星际使命 |  | [维基百科](https://zh.wikipedia.org/zh-cn/巴斯光年的星際使命) |

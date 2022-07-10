@@ -1291,7 +1291,7 @@ example:
 | kiichi | きいち |  |  |
 | norve watanabe | なーべ渡辺 |  |  |
 | jin | Jin |  |  |
-| luv p | 斗金 |  |  |
+| luv p | Luv P |  |  |
 | rozer | ROZER |  |  |
 | mame danuki | まめだぬき |  |  |
 | lolicept | Belko（LOLICEPT） | belko，原名LOLICEPT，擅长画巨乳和乳交图 | [pixiv](https://www.pixiv.net/users/39123643) |
@@ -2242,7 +2242,7 @@ example:
 | miwa yoshikazu | 美和美和 |  |  |
 | wildcat | ワイルドキャット |  |  |
 | fujita yukihisa | 藤田幸久 |  |  |
-| l axe | 艺术家 | 艺术图 |  |
+| l axe | L Axe |  |  |
 | s.m.o.k.e. | S.M.O.K.E. |  |  |
 | samurai | さむらい |  |  |
 | kureyon | くれよん |  |  |
@@ -4501,7 +4501,7 @@ example:
 | bnr | BNR |  |  |
 | bob jr | ボブJr |  |  |
 | bob kosugi | ボブ小杉 |  |  |
-| bob r | 丝袜 |  |  |
+| bob r | 暴武R |  |  |
 | bobca | ボブキャ |  |  |
 | bocha | ぼちゃ |  |  |
 | bojore | ボジョレ |  |  |
