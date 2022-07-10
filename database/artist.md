@@ -2242,7 +2242,7 @@ example:
 | miwa yoshikazu | 美和美和 |  |  |
 | wildcat | ワイルドキャット |  |  |
 | fujita yukihisa | 藤田幸久 |  |  |
-| l axe | L Axe |  |  |
+| l axe | 艺术家 |  |  |
 | s.m.o.k.e. | S.M.O.K.E. |  |  |
 | samurai | さむらい |  |  |
 | kureyon | くれよん |  |  |
