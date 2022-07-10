@@ -1291,7 +1291,7 @@ example:
 | kiichi | きいち |  |  |
 | norve watanabe | なーべ渡辺 |  |  |
 | jin | Jin |  |  |
-| luv p | Luv P |  |  |
+| luv p | 斗金 |  |  |
 | rozer | ROZER |  |  |
 | mame danuki | まめだぬき |  |  |
 | lolicept | Belko（LOLICEPT） | belko，原名LOLICEPT，擅长画巨乳和乳交图 | [pixiv](https://www.pixiv.net/users/39123643) |
