@@ -4003,6 +4003,7 @@ example:
 | teresa | 泰蕾莎 |  |  |
 | samira | 莎弥拉 |  |  |
 | katarina du couteau | 卡特琳娜·杜·克卡奥 |  |  |
+| kaltsit | 凯尔希 | 明日方舟主要角色之一，原型猞猁。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
