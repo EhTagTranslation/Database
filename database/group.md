@@ -6249,7 +6249,7 @@ example:
 | jyouren kishidan | ジョウ・レン騎士団 |  |  |
 | jzargo | ジェイザルゴ |  |  |
 | k equals k | [K=K] |  |  |
-| k h | K☆H |  |  |
+| k h | 同人志 | 同人 |  |
 | k plus w | K+W |  |  |
 | k plus y equals k | K+Y=K |  |  |
 | k-1 | K-1 |  |  |
