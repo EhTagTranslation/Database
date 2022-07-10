@@ -4501,7 +4501,7 @@ example:
 | bnr | BNR |  |  |
 | bob jr | ボブJr |  |  |
 | bob kosugi | ボブ小杉 |  |  |
-| bob r | 暴武R |  |  |
+| bob r | 丝袜 |  |  |
 | bobca | ボブキャ |  |  |
 | bocha | ぼちゃ |  |  |
 | bojore | ボジョレ |  |  |
