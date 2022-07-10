@@ -883,7 +883,7 @@ example:
 | rampo kitan game of laplace | 乱步奇谭 拉普拉斯的游戏 |  |  |
 | gravity rush | 重力眩晕 | 重力异想世界 |  |
 | cowboy bebop | 星际牛仔 |  |  |
-| wii fit | Wii Fit | 《Wii Fit》是任天堂开发的健身游戏，2007和2008年在全球Wii平台发行。 |  |
+| wii fit | 西方 | 西方 |  |
 | uta no prince-sama | 歌之王子殿下 |  |  |
 | hime chen otogi chikku idol lilpri | 变身！公主偶像 |  |  |
 | ib | Ib | 《Ib》（日语：イヴ）是一款2012年2月27日发布、使用RPG Maker 2000为工具，制作的一款免费的冒险游戏。作者为kouri。 |  |
