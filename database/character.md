@@ -1923,7 +1923,7 @@ example:
 | atalanta | 阿塔兰忒 | 游戏`fate grand order`或fate衍生作品中的出场角色。<br>![图](https://ehgt.org/9a/ab/9aab6e54e99bea14f2ea16f5e10cbc0fc3e0b958-2860389-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/阿塔兰忒) [萌娘百科](https://zh.moegirl.org.cn/阿塔兰忒%28Fate%29#) |
 | kairi sisigou | 狮子劫界离 |  |  |
 | miyako arima | 有间都古 |  |  |
-| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
+| chloe von einzbern | 克洛伊·冯·爱因兹贝伦（小黑） | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
 | miyu edelfelt | 美游·艾德费尔特 | 平行世界中的“圣杯战争”中的圣杯容器<br>![图](# "https://ehgt.org/4e/39/4e396284adfea8b2a493fe3320278a02ce0db1df-260187-1255-1822-jpg_l.jpg")![图](# "https://ehgt.org/51/0b/510b1d37cb5e4b095c774bbbff8dbfd0b1417a4b-351382-1410-2024-jpg_l.jpg") |  |
 | sella | 塞拉 |  |  |
