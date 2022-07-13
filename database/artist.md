@@ -11136,7 +11136,7 @@ example:
 | tsurimiya gen | 釣宮弦 |  |  |
 | tsuru | つる |  |  |
 | tsurugi | Tsurugi |  |  |
-| tsurugi ai | 劔城藍 |  |  |
+| tsurugi ai | 剑城蓝 |  |  |
 | tsurugi hikaru | つるぎ輝 |  |  |
 | tsurugi wakarou | 鶴亀ワカロー |  |  |
 | tsurugi yasuyuki | 剣康之 |  |  |
