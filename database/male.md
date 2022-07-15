@@ -224,6 +224,7 @@ example:
 | hairjob | 发丝交 | 使用头发来创造性快感。<br>![图](# "https://ehgt.org/53/85/5385305164c046531f67e624c8ab6b6548892f87-313562-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/36/b4/36b41fcb78076891de44313bfbb2de2781b39769-266194-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/c5/da/c5dab0380314b1c913caa7fd23508bf596ae5d57-230376-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/13/4b/134bcabd321c030600014a83367161f4f7987996-90842-800-600-jpg_l.jpg")![图](# "https://ehgt.org/a4/d1/a4d111f59dd0ae631bec2d555391de7c89293904-455879-846-1200-jpg_l.jpg")![图](# "https://ehgt.org/6f/9a/6f9aa29b3b2d73c5fc758c9ffd1712c7ea9df95e-660941-800-600-png_l.jpg") |  |
 | pixie cut | 精灵头 | 短发型，通常顶部朝向脸部刷，侧面被剪短并且不会到达耳朵下方，而背部可能从颈部向下。不适用于男性，除非他们是`tomgirl`或`crossdressing`。 |  |
 | ponytail | 马尾辫 | 将大部分的头发往后集中，用一个胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。当有两条辫子时使用`twintails`。 |  |
+| prehensile hair | 抓握发 | 一个拥有像肢体一样控制他的头发的能力的角色。 |  |
 | shaved head | 光头 | 只有发茬的头部。不应与`bald`混淆。 |  |
 | twintails | 双马尾 | 将大部分的头发往头部两侧集中，用胶圈或其它的可以扎发的装饰品，将辫子扎起来竖在半空中的造型。不应与`ponytail`混淆。<br>![图](# "https://ehgt.org/8b/25/8b257a0bd05924548c279f6579d961ecade86240-684517-1024-576-png_l.jpg") |  |
 | very long hair | 超长发 | 大部分头发长度在肚脐以下或附近。由于被绑起来而无法达到该长度的头发不算。 |  |
@@ -261,6 +262,7 @@ example:
 | smell | 气味 | 发出强烈，耸人听闻的气味的行为。 |  |
 |  | === 头部 > 嘴 === |  |  |
 |  | adventitious mouth畸位口 | 在身体的意想不到的地方至少有一个嘴（例如手、躯干或尾巴）。 |  |
+| big lips | 大嘴唇💋 | 异常大的嘴唇。嘴唇的高度必须超过人眼的高度才能符合条件。 |  |
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与`ball sucking`混淆。是`blowjob face`、`deepthroat`的前置标签。<br>![图](# "https://ehgt.org/05/78/057878e28779bc0d2972428bc45f7953338ee8e7-618322-1024-576-png_l.jpg")![图](# "https://ehgt.org/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg")![图](# "https://ehgt.org/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg") |  |
 | blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要`blowjob`标签。<br>![图](# "https://ehgt.org/1f/cb/1fcbdcaa3e81a591db1feac10944d83f231584f4-406010-902-711-jpg_l.jpg")![图](# "https://ehgt.org/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg")![图](# "https://ehgt.org/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg") |  |
 | burping | 打嗝 | 可见的打嗝行为。 |  |
