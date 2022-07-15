@@ -12112,6 +12112,7 @@ example:
 | hatoba akane | 波止場茜 |  |  |
 | hachi no hachihachi | はちの八八 |  |  |
 | rhasta | 牛乳重工 |  | [pixiv](https://www.pixiv.net/users/9746051) |
+| yamayoshi tanosuke | 鳥居ヨシツナ |  | [pixiv](https://www.pixiv.net/users/7309260) |
 
 <!--TEMPLATE:
 |  |  |  |  |
