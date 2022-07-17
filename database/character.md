@@ -4009,6 +4009,7 @@ example:
 | katarina claes | 卡塔莉娜·库莱耶思 |  |  |
 | maria campbell | 玛丽亚·坎贝尔 |  |  |
 | diluc ragnvindr | 迪卢克·莱艮芬德 | ![图片](https://img.moegirl.org.cn/common/thumb/3/35/贵公子_迪卢克.jpg/240px-贵公子_迪卢克.jpg)<br>迪卢克·莱艮芬德是由miHoYo制作的游戏《原神》及其衍生作品的登场角色，游戏中蒙德最大酒庄「晨曦酒庄」的庄主。 | [萌娘百科](https://zh.moegirl.org.cn/迪卢克·莱艮芬德) [米游社观测枢](https://bbs.mihoyo.com/ys/obc/content/75/detail) |
+| kaeya alberich | 凯亚·亚尔伯里奇 | ![图片](https://img.moegirl.org.cn/common/thumb/7/75/Genshin_Kaeya_intro_fix.jpg/240px-Genshin_Kaeya_intro_fix.jpg)<br>**凯亚·亚尔伯里奇**是由miHoYo研发的游戏《原神》及其衍生作品的登场角色，西风骑士团的骑兵队长。 | [萌娘百科](https://zh.moegirl.org.cn/凯亚·亚尔伯里奇)  [米游社观测枢](https://bbs.mihoyo.com/ys/obc/content/76/detail) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
