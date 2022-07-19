@@ -12113,6 +12113,7 @@ example:
 | hachi no hachihachi | はちの八八 |  |  |
 | rhasta | 牛乳重工 |  | [pixiv](https://www.pixiv.net/users/9746051) |
 | yamayoshi tanosuke | 鳥居ヨシツナ |  | [pixiv](https://www.pixiv.net/users/7309260) |
+| melailai | 么赖赖 |  | [Pixiv](https://www.pixiv.net/users/22333059)<br>[Twitter](https://twitter.com/memela75722734)<br>[Bilibili](https://space.bilibili.com/14746289/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
