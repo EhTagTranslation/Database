@@ -10194,7 +10194,7 @@ example:
 | shitori | Shitori |  |  |
 | shitou fumiaki | 志藤ふみあき |  |  |
 | shitsuji kuma | 執事クマ |  |  |
-| shiun | SHIUN |  |  |
+| shiun | 紫雲陽 | ![](https://i.pixiv.cat/user-profile/img/2021/10/06/11/42/52/21530998_0affb49994cc31e143fee4b157b410d8_170.jpg) | [pixiv](https://www.pixiv.net/users/30798372)<br>[twitter](https://twitter.com/akira_shiun) |
 | shiva | shiva |  |  |
 | shivharu | シブハル |  |  |
 | shiwo. | しを。 |  |  |
