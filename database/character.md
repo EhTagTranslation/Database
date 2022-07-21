@@ -4012,6 +4012,7 @@ example:
 | kaeya alberich | 凯亚·亚尔伯里奇 | ![图片](https://img.moegirl.org.cn/common/thumb/7/75/Genshin_Kaeya_intro_fix.jpg/240px-Genshin_Kaeya_intro_fix.jpg)<br>**凯亚·亚尔伯里奇**是由miHoYo研发的游戏《原神》及其衍生作品的登场角色，西风骑士团的骑兵队长。 | [萌娘百科](https://zh.moegirl.org.cn/凯亚·亚尔伯里奇)  [米游社观测枢](https://bbs.mihoyo.com/ys/obc/content/76/detail) |
 | anya forger | 阿尼亚·福杰 | ![图片](https://img.moegirl.org.cn/common/thumb/d/dc/SPY×FAMILY_ANIMATION×1stMISSION.jpg/167px-SPY×FAMILY_ANIMATION×1stMISSION.jpg)<br>**阿尼亚·福杰**是由远藤达哉创作的漫画《间谍过家家》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿尼亚·福杰) |
 | morrigan aensland | 莫莉卡·安斯兰特 |  |  |
+| becky blackbell | 贝琪·布莱克贝尔 | ![](https://img.moegirl.org.cn/common/thumb/d/d5/Becky_29.jpg/1024px-Becky_29.jpg) | [Bangumi](https://bgm.tv/character/87548) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
