@@ -265,6 +265,7 @@ example:
 | big lips | 大嘴唇💋 | 异常大的嘴唇。嘴唇的高度必须超过人眼的高度才能符合条件。 |  |
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与`ball sucking`混淆。是`blowjob face`、`deepthroat`的前置标签。<br>![图](# "https://ehgt.org/05/78/057878e28779bc0d2972428bc45f7953338ee8e7-618322-1024-576-png_l.jpg")![图](# "https://ehgt.org/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg")![图](# "https://ehgt.org/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg") |  |
 | blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要`blowjob`标签。<br>![图](# "https://ehgt.org/1f/cb/1fcbdcaa3e81a591db1feac10944d83f231584f4-406010-902-711-jpg_l.jpg")![图](# "https://ehgt.org/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg")![图](# "https://ehgt.org/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg") |  |
+| braces | 牙套 | 用于对齐和矫直牙齿的装置。 |  |
 | burping | 打嗝 | 可见的打嗝行为。 |  |
 | coprophagia | 食粪 | 需要`scat`标签。 |  |
 | deepthroat | 深喉 | 阴茎进入喉咙的口交。需要`blowjob`标签。<br>![图](# "https://ehgt.org/12/13/121392d6bed3ec1101d993aac7f3117ca643d6ec-672297-1920-2720-jpg_l.jpg")![图](# "https://ehgt.org/60/cb/60cbf026b6e78cbe9648af3df10c764f7a61f985-726641-1920-2720-jpg_l.jpg") |  |
@@ -286,7 +287,7 @@ example:
 |  | == 脖子 == |  |  |
 | asphyxiation | 窒息 | 有意限制对大脑的供氧，往往是为了使性觉醒。 |  |
 | collar | 项圈 | 一种戴在脖子上的装饰物。经常在`bdsm`或`petplay`行为时穿戴，可能包含`leash`。<br>![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/a1/d9/a1d9d284de4c8916078110525e65c60a3df56f9a-3168381-1388-1987-png_l.jpg")![图](# "https://ehgt.org/b1/3d/b13d6d8b3a7f253a47fbf159f59a88cb3ae1ea96-1977836-1784-2551-jpg_l.jpg") |  |
-|  | hanging绞刑 | 用悬挂在脖子上的绳索或结扎物勒住脖子。人本身不一定要悬挂在地面上。可能会引用`snuff`。<br>需要`asphyxiation`标签。 |  |
+| hanging | 绞刑 | 用悬挂在脖子上的绳索或结扎物勒住脖子。人本身不一定要悬挂在地面上。可能会引用`snuff`。<br>需要`asphyxiation`标签。 |  |
 | leash | 狗链 | 一种皮带、绳子或链子, 通常连接在`collar`上或缠绕在脖子上。经常在`bdsm`或`petplay`行为时穿戴。<br>![图](# "https://ehgt.org/75/05/75051cbcbdee39b036f206de909e0b8401204266-8683779-2130-3000-png_l.jpg")![图](# "https://ehgt.org/76/a0/76a0a1170a155c9b7858fe074f0d05c5b482933b-5268492-2149-3032-png_l.jpg")![图](# "https://ehgt.org/49/72/497261e2e429e56bcbd48283b7ff078727669e33-292904-841-1200-jpg_l.jpg") |  |
 |  | == 手臂 == |  |  |
 | armpit licking | 腋下舔 | 舔某人腋下的行为，只舔手臂时不适用。 |  |
@@ -315,6 +316,7 @@ example:
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](# "https://ehgt.org/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg") |  |
 |  | multiple nipples多乳头 | 每只乳房有多于一个乳头。 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
+| nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。 |  |
 | nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
@@ -356,6 +358,7 @@ example:
 | cervix prolapse | 宫颈脱垂 | 阴道壁膨胀出阴道。有时是`gaping`的后续。需要`prolapse`标签。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及`big clit`。依照被插入的一方标记命名空间。 |  |
 | clit stimulation | 阴蒂刺激 | 刺激阴蒂。 |  |
+| cunnilingus | 舔阴 | 用嘴刺激阴道引起性唤起。 |  |
 | unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`birth`相反，因此不需要`birth`或`pregnant`标签。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 爆肛 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
@@ -499,6 +502,7 @@ example:
 | pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 |  |
 | sex toys | 性玩具 | 用于性目的的玩具。不包括`strap-on`和`onahole`。<br>![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg") |  |
 | speculum | 扩张器 | 用于扩张诸如肛门或阴道等体腔的医疗装置。<br>![图](# "https://ehgt.org/5e/22/5e22062c47dd9112c63c996a5e1b79f25320c1f9-248686-579-819-jpg_l.jpg")![图](# "https://ehgt.org/19/70/19705183385b0ccba4f219aef6028c898534a64c-1070313-2124-3000-jpg_250.jpg")![图](# "https://ehgt.org/cb/90/cb90dd58fefb28fc15a653424e8ded29c26239ad-154666-800-600-jpg_l.jpg") |  |
+| strap-on | 穿戴式阳具 | 可以附着的阳具。很可能是`pegging`或`yuri`的环节。不应与`sex toys`混淆。 |  |
 | syringe | 注射器 | 由管、柱塞和连接的针组成的工具。用于注射液体。常与`drugs`或`breast expansion`一起使用。 |  |
 | tail plug | 尾塞 | 任何尾部性玩具。需要`sex toys`和`anal`标签。 |  |
 | tube | 插管 | 插入口中的任何圆柱形管子，用于供给流体或营养物质。 |  |
