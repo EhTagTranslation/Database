@@ -12444,6 +12444,7 @@ example:
 | icchao murasakiimoren new | いっちゃお♪紫芋れんnew |  | [ci-en](https://ci-en.dlsite.com/creator/2450) |
 | otokonoko de asobou | 男の子で遊ぼう |  |  |
 | babaa no mitsuboshi restaurant | ババアの三ツ星レストラン |  |  |
+| mugisabou | 麦茶房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
