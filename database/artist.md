@@ -7312,7 +7312,7 @@ example:
 | kurokuro | くろくろ |  |  |
 | kurokuroku | 黒九六 |  |  |
 | kuromame | クロマメ |  |  |
-| kuromame mugicha | 黒豆麦茶 |  |  |
+| kuromame mugicha | 黒豆麦茶 |  | [pixiv](https://www.pixiv.net/users/3579161) |
 | kuromi | kuromi |  |  |
 | kuromitu | kuromitu |  |  |
 | kuromiya sakana | 黒宮魚 |  |  |
