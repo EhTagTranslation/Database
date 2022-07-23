@@ -12120,6 +12120,7 @@ example:
 | fukuro daizi | Fukuro袋子 | ![](https://i.pixiv.cat/user-profile/img/2016/01/02/19/17/45/10322961_9e485bfa402dd4a327fde0a5da213eaf_170.jpg) | [pixiv](https://www.pixiv.net/users/4588267) |
 | tsukumo nikyu | 九十九弐級 |  |  |
 | uten ameka | 雨天あめか |  | [pixiv](https://www.pixiv.net/users/29614139) |
+| sakuraba rokusuke | 樱庭六辅 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
