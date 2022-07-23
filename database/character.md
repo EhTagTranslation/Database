@@ -2701,7 +2701,7 @@ example:
 | kurumi kumamakura | 熊枕久瑠美 |  |  |
 | priscilla barielle | 普莉希拉·跋利耶尔 |  |  |
 | roomi | 萝米 |  |  |
-| martial artist | 角色 |  |  |
+| martial artist | 武斗家 |  |  |
 | thief | 盗贼 |  |  |
 | nera briscoletti | 芙萝菈 |  |  |
 | crimson viper | 深红毒蛇 |  |  |
