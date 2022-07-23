@@ -1988,7 +1988,6 @@ example:
 | punishing gray raven | 战双帕弥什 |  | [萌娘百科](https://zh.moegirl.org.cn/战双帕弥什) |
 | guardian tales | 坎公骑冠剑 | 《坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险》（英文：Guardian Tales；国际服译作：《守望傳說》）是Kong Studios快速编辑开发的一款像素风冒险RPG手游。游戏中，玩家将扮演一名骑士，穿梭于不同世界保护小公主不受威胁，拯救被黑暗力量侵蚀的王国。 | [萌娘百科](https://zh.moegirl.org.cn/坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险) |
 | otome game sekai wa mob ni kibishii sekai desu | 乙女游戏世界对路人角色很不友好 |  |  |
-| parody | 原作 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
