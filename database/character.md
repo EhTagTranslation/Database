@@ -4015,6 +4015,7 @@ example:
 | becky blackbell | 贝琪·布莱克贝尔 | ![](https://img.moegirl.org.cn/common/thumb/d/d5/Becky_29.jpg/1024px-Becky_29.jpg) | [Bangumi](https://bgm.tv/character/87548) |
 | warfarin | 华法琳 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:华法琳) |
 | platinum | 白金 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:白金) |
+| rise kujikawa | 久慈川理世 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
