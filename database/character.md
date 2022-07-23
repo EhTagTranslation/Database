@@ -4016,6 +4016,7 @@ example:
 | warfarin | 华法琳 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:华法琳) |
 | platinum | 白金 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:白金) |
 | rise kujikawa | 久慈川理世 |  |  |
+| yuu narukami | 鸣上悠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
