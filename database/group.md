@@ -10225,7 +10225,7 @@ example:
 | sgsix | SGsix |  |  |
 | shadow garden | Shadow Garden |  |  |
 | shadow sorceress communication protocol | 影法師通訊協定 |  |  |
-| shagbase | 组 |  |  |
+| shagbase | Grouped due to inconsistent crediting of the artists. |  |  |
 | shagwell | SHAGWELL |  |  |
 | shakestyle | shakestyle |  |  |
 | shallow sleep plus plus | Shallow Sleep++ |  |  |
