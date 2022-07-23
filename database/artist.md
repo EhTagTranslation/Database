@@ -12121,6 +12121,7 @@ example:
 | tsukumo nikyu | 九十九弐級 |  |  |
 | uten ameka | 雨天あめか |  | [pixiv](https://www.pixiv.net/users/29614139) |
 | sakuraba rokusuke | 樱庭六辅 |  |  |
+| aoyama akira | 苍山哲 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
