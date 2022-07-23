@@ -1256,7 +1256,7 @@ example:
 | orange channel | ORANGE☆CHANNEL |  |  |
 | eternal land | ETERNAL LAND |  |  |
 | timtim machine | TIMTIMマシン |  |  |
-| artistic time | 组 |  |  |
+| artistic time | Artistic Time |  |  |
 | niliu chahui | 逆流茶会 |  |  |
 | seikei doujin | 正经同人 |  |  |
 | b.b.t.t. | B.B.T.T. |  |  |
