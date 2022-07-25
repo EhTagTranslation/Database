@@ -45,16 +45,18 @@
   ![UWP][plat-uwp] ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
 
-- [EhViewer](https://github.com/seven332/EhViewer)（由 [@seven332](https://github.com/seven332) 开发，已停止维护）  
-  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/seven332/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  An Unofficial E-Hentai Application for Android.
-  #### 主要继续开发分支
-  * [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（于2022年5月1日停止维护，最后版本 v1.7.26.4）。
-  * [@xiaojieonly / Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)。
+- [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  EhViewer overhauled with Material Design 3 and more.
+  
+- [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  ehviewer，用爱发电，快乐前行
 
 - [EhPanda](https://ehpanda.app)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
+
 - [FEhViewer](https://github.com/honjow/FEhViewer)  
   ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个由 Flutter 编写的阅读器，支持直连。
@@ -76,7 +78,7 @@
 </summary>
 
 - [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
-  ![WEB][plat-web]
+  ![WEB][plat-web] ![UserScript][plat-userscript]
 
   > 本项目的前身，使用 UserScript 实现，已被 EhSyringe 取代。
 
@@ -87,10 +89,18 @@
 - [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個普通的看漫畫 App。
+
 - [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/kayanouriko/E-HentaiViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个 E-Hentai 的 iOS 端阅读器。
 
+- [EhViewer](https://github.com/seven332/EhViewer)  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/seven332/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  An Unofficial E-Hentai Application for Android.
+
+- [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
+  ![Android][plat-android]  
+  An E-Hentai Application for Android.
 </details>
 
 ## 开发指南
