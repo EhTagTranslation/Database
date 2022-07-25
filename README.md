@@ -33,7 +33,7 @@
 用户可通过以下项目使用本数据库的翻译，也可以通过这些项目向本数据库贡献翻译内容。
 
 - [EhSyringe](../../../EhSyringe)  
-  ![WEB][plat-web] ![Tampermonkey][plat-tampermonkey] ![Chrome][plat-chrome] ![Firefox][plat-firefox] ![GitHub Release Date](https://img.shields.io/github/release-date/EhTagTranslation/EhSyringe?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)
+  ![WEB][plat-web] ![UserScript][plat-userscript] ![Chrome][plat-chrome] ![Firefox][plat-firefox] ![GitHub Release Date](https://img.shields.io/github/release-date/EhTagTranslation/EhSyringe?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)
 
   > 本项目的官方实现，提供 UserScript 和浏览器插件。
 
@@ -60,7 +60,7 @@
   一个由 Flutter 编写的阅读器，支持直连。
 
 - [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
-  ![WEB][plat-web] ![Tampermonkey][plat-tampermonkey] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 
 - [JHenTai](https://github.com/jiangtian616/JHenTai)  
@@ -100,7 +100,7 @@
 下游项目使用本项目数据库前，请在本项目[提交一份附上项目的简介或地址的 Issue](../../issues/new?labels=数据库使用&template=db-use.md&title=数据库使用+-+%5B项目名称%5D)。
 
 [plat-web]: https://img.shields.io/badge/WEB-yellow.svg?logo=javascript&logoColor=fff&color=yellow
-[plat-tampermonkey]: https://img.shields.io/badge/Tampermonkey-yellow.svg?logo=tampermonkey&logoColor=fff&color=00485B
+[plat-userscript]: https://img.shields.io/badge/UserScript-yellow.svg?logo=tampermonkey&logoColor=fff&color=00485B
 [plat-chrome]: https://img.shields.io/badge/Chrome插件-yellow.svg?logo=google-chrome&logoColor=fff&color=4285F4
 [plat-firefox]: https://img.shields.io/badge/Firefox插件-yellow.svg?logo=firefox-browser&logoColor=fff&color=FF7139
 
