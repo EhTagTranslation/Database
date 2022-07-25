@@ -64,7 +64,7 @@
   一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 
 - [JHenTai](https://github.com/jiangtian616/JHenTai)  
-  ![iOS][plat-ios] ![Android][plat-android] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/jiangtian616/JHenTai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  ![iOS][plat-ios] ![Android][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/jiangtian616/JHenTai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   使用Flutter开发的多端App，现支持安卓、苹果和Windows系统。
 
 <details>
