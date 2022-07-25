@@ -56,7 +56,7 @@
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
 - [FEhViewer](https://github.com/honjow/FEhViewer)  
-  ![iOS][plat-ios] ![Adnroid][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个由 Flutter 编写的阅读器，支持直连。
 
 - [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
@@ -103,7 +103,8 @@
 [plat-ios]: https://img.shields.io/badge/platform-iOS-lightgrey.svg?logo=apple
 [plat-uwp]: https://img.shields.io/badge/platform-UWP-blue.svg?logo=windows
 [plat-android]: https://img.shields.io/badge/platform-Android-brightgreen.svg?logo=android
-[plat-windows]: https://img.shields.io/badge/platform-Windows-brightgreen.svg?logo=windows
+[plat-windows]: https://img.shields.io/badge/platform-Windows-blue.svg?logo=windows
+[plat-macos]: https://img.shields.io/badge/platform-macOS-lightgrey.svg?logo=apple
 
 ## 状态
 
