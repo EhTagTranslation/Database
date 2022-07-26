@@ -12445,6 +12445,7 @@ example:
 | otokonoko de asobou | 男の子で遊ぼう |  |  |
 | babaa no mitsuboshi restaurant | ババアの三ツ星レストラン |  |  |
 | mugisabou | 麦茶房 |  |  |
+| dessert soft | DESSERT Soft |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
