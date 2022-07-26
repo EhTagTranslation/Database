@@ -12446,6 +12446,7 @@ example:
 | babaa no mitsuboshi restaurant | ババアの三ツ星レストラン |  |  |
 | mugisabou | 麦茶房 |  |  |
 | dessert soft | DESSERT Soft |  |  |
+| akatukiya | 赤月屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
