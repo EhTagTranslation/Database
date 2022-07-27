@@ -4023,6 +4023,7 @@ example:
 | flamebringer | 炎客 |  |  |
 | matterhorn | 角峰 | 角峰是游戏《明日方舟》及其衍生作品的登场角色。 |  |
 | silverash | 银灰 | 银灰是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:银灰) |
+| ptilopsis | 白面鸮 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
