@@ -4021,6 +4021,7 @@ example:
 | tenten | 天天 | ![](https://img.moegirl.org.cn/common/thumb/b/bb/天天.jpg/280px-天天.jpg)<br>《火影忍者》及其衍生作品的登场角色 |  |
 | hoshiguma | 星熊 |  |  |
 | flamebringer | 炎客 |  |  |
+| matterhorn | 角峰 | 角峰是游戏《明日方舟》及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
