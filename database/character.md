@@ -4033,6 +4033,7 @@ example:
 | bison | 拜松 | 拜松是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拜松) |
 | croissant | 可颂 | 可颂是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:可颂) |
 | arcanine | 风速狗 |  |  |
+| akari | 小照 | 《宝可梦传说 阿尔宙斯》登场的主角。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
