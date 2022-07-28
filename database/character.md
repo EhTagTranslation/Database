@@ -4043,6 +4043,7 @@ example:
 | perfumer | 调香师 | 调香师是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:调香师) |
 | grani | 格拉尼 | 格拉尼是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格拉尼) |
 | angelina ajimu | 安心院安洁莉娜 | 安洁莉娜（日语：安心院（あじむ）アンジェリーナ）是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安洁莉娜) |
+| ceobe | 刻俄柏 | 刻俄柏是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:刻俄柏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
