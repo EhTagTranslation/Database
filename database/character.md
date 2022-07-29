@@ -4063,6 +4063,7 @@ example:
 | vigna | 红豆 | 红豆是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红豆) |
 | glaucus | 格劳克斯 | 格劳克斯是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格劳克斯) |
 | vermeil | 红云 | 红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红云) |
+| ansel | 安赛尔 | 安赛尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安赛尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
