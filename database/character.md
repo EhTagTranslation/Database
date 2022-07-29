@@ -4058,6 +4058,7 @@ example:
 | asbestos | 石棉 | 石棉是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:石棉) |
 | magallan | 麦哲伦 | 麦哲伦是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:麦哲伦) |
 | podenco | 波登可 | 波登可是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:波登可) |
+| kroos | 克洛丝 | 克洛丝是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:克洛丝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
