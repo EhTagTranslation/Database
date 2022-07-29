@@ -4052,6 +4052,7 @@ example:
 | schwarz | 黑 | 黑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
 | rosmontis | 迷迭香 | 迷迭香是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:迷迭香) |
 | eyjafjalla | 艾雅法拉 | 艾雅法拉是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:艾雅法拉) |
+| deepcolor | 深海色 | 深海色是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:深海色) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
