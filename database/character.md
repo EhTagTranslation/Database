@@ -4047,6 +4047,7 @@ example:
 | franka | 芙兰卡 | 芙兰卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:芙兰卡) |
 | liskarm | 雷蛇 | 雷蛇是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:雷蛇) |
 | blaze | 煌 | 煌是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
+| shamare | 巫恋 | 巫恋是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
