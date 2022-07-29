@@ -4050,6 +4050,7 @@ example:
 | shamare | 巫恋 | 巫恋是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
 | popukar | 泡普卡 | 泡普卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:泡普卡) |
 | schwarz | 黑 | 黑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
+| rosmontis | 迷迭香 | 迷迭香是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:迷迭香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
