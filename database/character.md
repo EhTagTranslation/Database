@@ -4067,6 +4067,7 @@ example:
 | ceylon | 锡兰 | 锡兰是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:锡兰) |
 | sicily von claude | 西希莉·冯·克洛德 | 西希莉·冯·克洛德是小说《贤者之孙》及其衍生作品漫画、动画等的登场角色。<br>![](https://s1.ax1x.com/2022/07/29/vPRIHO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西希莉·冯·克洛德) |
 | beeswax | 蜜蜡 | 蜜蜡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蜜蜡) |
+| youtouhime | 妖刀姬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
