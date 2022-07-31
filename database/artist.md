@@ -12123,6 +12123,7 @@ example:
 | sakuraba rokusuke | 樱庭六辅 |  |  |
 | aoyama akira | 苍山哲 |  |  |
 | kamitake | 鱗物 |  | [Twitter](https://twitter.com/Cr72Kamitake) [pixiv](https://www.pixiv.net/users/1646523) |
+| k-ko | K子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
