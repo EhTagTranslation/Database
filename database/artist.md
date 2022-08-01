@@ -12124,6 +12124,7 @@ example:
 | aoyama akira | 苍山哲 |  |  |
 | kamitake | 鱗物 |  | [Twitter](https://twitter.com/Cr72Kamitake) [pixiv](https://www.pixiv.net/users/1646523) |
 | k-ko | K子 |  |  |
+| sisyamo 2 percent | sisyamo2% | 专注嘴上功夫的画师<br>![图](# "https://ehgt.org/96/77/96773afe704296115b565e6dba8450e64cd0cc8c-151544-640-480-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/2632419) |
 
 <!--TEMPLATE:
 |  |  |  |  |
