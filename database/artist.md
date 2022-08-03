@@ -5474,7 +5474,7 @@ example:
 | hajime-san. | はじめさん。 |  |  |
 | hajin | Hajin |  |  |
 | hakaba yodomu | 墓場淀夢 |  |  |
-| hakai taitei | 破壊大帝 |  |  |
+| hakai taitei | 破坏大帝 |  |  |
 | hakano shinshi | ハカノシンシ |  |  |
 | hakiata | はきあた |  |  |
 | hakika | はきか |  |  |
