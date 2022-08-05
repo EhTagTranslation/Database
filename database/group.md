@@ -12447,6 +12447,7 @@ example:
 | mugisabou | 麦茶房 |  |  |
 | dessert soft | DESSERT Soft |  |  |
 | akatukiya | 赤月屋 |  |  |
+| metacorapusu | めたこらぷす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
