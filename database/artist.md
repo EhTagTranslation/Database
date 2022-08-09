@@ -3462,7 +3462,7 @@ example:
 | super zombie | すーぱーぞんび |  |  |
 | seuma | せうま |  |  |
 | ryoma | きただりょうま |  | [Twitter](https://twitter.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) |
-| kannko | 缶子 |  | [Twitter](https://twitter.com/orz_can) [pixiv](https://www.pixiv.net/users/8307536) |
+| kannko | 缶子 | 大奶画家 音乐发烧友 非常大烧 设备已达7位数 | [Twitter](https://twitter.com/orz_can) [pixiv](https://www.pixiv.net/users/8307536) |
 | sencha | せんちゃ | ![せんちゃ头像](https://s2.loli.net/2022/01/04/fOnAZIVW52RlqCr.jpg) | [Twitter](https://twitter.com/ukiukisoda) [pixiv](https://www.pixiv.net/users/3388329) |
 | miyazaki hayao | 宫崎骏 |  |  |
 | amatou | 甘党 |  | [Twitter](https://twitter.com/amatou111) [pixiv](https://www.pixiv.net/users/298982) |
