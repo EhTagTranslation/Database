@@ -4069,6 +4069,7 @@ example:
 | beeswax | 蜜蜡 | 蜜蜡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蜜蜡) |
 | youtouhime | 妖刀姬 |  |  |
 | ivy valentine | 艾薇 |  |  |
+| taki | 多喜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
