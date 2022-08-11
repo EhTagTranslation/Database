@@ -12128,6 +12128,7 @@ example:
 | metacora | めたこら |  |  |
 | kangoku meika | 監獄銘菓 |  |  |
 | souseki | 層積 |  |  |
+| manno | まんの |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
