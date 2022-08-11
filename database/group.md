@@ -12448,6 +12448,7 @@ example:
 | dessert soft | DESSERT Soft |  |  |
 | akatukiya | 赤月屋 |  |  |
 | metacorapusu | めたこらぷす |  |  |
+| hana q studio | 花Qスタジオ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
