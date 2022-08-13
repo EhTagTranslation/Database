@@ -4073,6 +4073,7 @@ example:
 | yuzu hanaoka | 花冈柚子 |  |  |
 | iroha natsume | 枣伊吕波 |  |  |
 | sasara kusugawa | 久寿川莎莎菈 |  |  |
+| maako asagiri | 朝雾麻亚子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
