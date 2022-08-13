@@ -12129,6 +12129,7 @@ example:
 | kangoku meika | 監獄銘菓 |  |  |
 | souseki | 層積 |  |  |
 | manno | まんの |  |  |
+| tamada heijun | 玉田平准 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
