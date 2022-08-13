@@ -4075,6 +4075,7 @@ example:
 | sasara kusugawa | 久寿川莎莎菈 |  |  |
 | maako asagiri | 朝雾麻亚子 |  |  |
 | amane | 亚麻音 |  |  |
+| setsu | 雪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
