@@ -4076,6 +4076,7 @@ example:
 | maako asagiri | 朝雾麻亚子 |  |  |
 | amane | 亚麻音 |  |  |
 | setsu | 雪 |  |  |
+| mian | 魅杏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
