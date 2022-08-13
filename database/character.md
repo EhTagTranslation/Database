@@ -4072,6 +4072,7 @@ example:
 | taki | 多喜 |  |  |
 | yuzu hanaoka | 花冈柚子 |  |  |
 | iroha natsume | 枣伊吕波 |  |  |
+| sasara kusugawa | 久寿川莎莎菈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
