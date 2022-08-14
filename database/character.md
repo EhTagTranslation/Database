@@ -4077,6 +4077,7 @@ example:
 | amane | 亚麻音 |  |  |
 | setsu | 雪 |  |  |
 | mian | 魅杏 |  |  |
+| yuuka hayase | 早濑优香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
