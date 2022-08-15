@@ -1989,6 +1989,7 @@ example:
 | guardian tales | 坎公骑冠剑 | 《坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险》（英文：Guardian Tales；国际服译作：《守望傳說》）是Kong Studios快速编辑开发的一款像素风冒险RPG手游。游戏中，玩家将扮演一名骑士，穿梭于不同世界保护小公主不受威胁，拯救被黑暗力量侵蚀的王国。 | [萌娘百科](https://zh.moegirl.org.cn/坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险) |
 | otome game sekai wa mob ni kibishii sekai desu | 乙女游戏世界对路人角色很不友好 |  |  |
 | kenja no mago | 贤者之孙 | 《贤者之孙》（日语：賢者の孫）是由吉冈刚原作的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/贤者之孙) |
+| lycoris recoil | 莉可丽丝 | ![](https://p.sda1.dev/6/86fb5e634f1ee3a23b2f2a8c2687f4ad/Lycoris_Recoil_KV2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Lycoris_Recoil) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
