@@ -1682,7 +1682,7 @@ example:
 | mix-edge | MIX-EDGE |  | [官方网站](http://arui.dojin.com) |
 | muni koubou | むに工房 |  |  |
 | marota teikoku | 麻吕太帝国 |  |  |
-| tenkirin | 天气 |  |  |
+| tenkirin | 天气轮 |  |  |
 | gust | GUST |  | [官方网站](http://gustnavi.sakura.ne.jp) |
 | tsurikichi doumei | 釣りキチ同盟 |  | [pixiv](https://www.pixiv.net/users/2926926) [官方网站](http://turikich.deko8.jp/INDEX.HTML) |
 | ran-ya | 蘭屋 |  | [官方网站](https://www.plurk.com/rensanma) |
