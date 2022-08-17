@@ -12449,6 +12449,7 @@ example:
 | akatukiya | 赤月屋 |  |  |
 | metacorapusu | めたこらぷす |  |  |
 | hana q studio | 花Qスタジオ |  |  |
+| shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
