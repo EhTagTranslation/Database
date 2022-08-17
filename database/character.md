@@ -4078,6 +4078,7 @@ example:
 | setsu | 雪 |  |  |
 | mian | 魅杏 |  |  |
 | yuuka hayase | 早濑优香 |  |  |
+| azusa hanai | 花井梓 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
