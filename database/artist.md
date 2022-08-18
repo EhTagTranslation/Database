@@ -4778,7 +4778,7 @@ example:
 | crepix | crepix | シーレ |  |
 | cross | クロス |  |  |
 | crossco | くろすこ |  |  |
-| crow | 艺术家 |  |  |
+| crow | CROW |  |  |
 | crozu | 黒酢 |  |  |
 | crystal shoujo | クリスタル少女 |  |  |
 | ctk | CTK |  |  |
