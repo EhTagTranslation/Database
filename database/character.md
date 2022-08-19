@@ -4080,6 +4080,7 @@ example:
 | yuuka hayase | 早濑优香 |  |  |
 | azusa hanai | 花井梓 |  |  |
 | maria momoe | 百枝麻里亚 |  |  |
+| kraft lawrence | 克拉福·罗伦斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
