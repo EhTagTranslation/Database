@@ -4081,6 +4081,7 @@ example:
 | azusa hanai | 花井梓 |  |  |
 | maria momoe | 百枝麻里亚 |  |  |
 | kraft lawrence | 克拉福·罗伦斯 |  |  |
+| orihime inoue | 井上织姬 | ![](https://static.wikia.nocookie.net/shironekoproject/images/1/1b/井上_織姬.png/revision/latest/scale-to-width-down/1000?cb=20220112152123&path-prefix=zh) | [维基百科](https://zh.wikipedia.org/zh-cn/井上織姬) [Fandom](https://bleach.fandom.com/wiki/Orihime_Inoue) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
