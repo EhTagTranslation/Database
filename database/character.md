@@ -3634,7 +3634,7 @@ example:
 | tamami wakiyama | 胁山珠美 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/胁山珠美) |
 | mimi akane | 茜美美 | ![茜美美](https://img.moegirl.org.cn/common/f/f4/Akane_mimi_pc.png)<br>茜 ミミ（あかね ミミ），是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美美（日语：ミミ） | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
 | ashley graham | 阿什莉·格拉汉姆 | 阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 |  |
-| mutsuki asagi | 浅黄睦月（地雷妹） | 碧蓝档案角色<br>徵信社68的特攻隊長兼突擊隊長。 和稍微能感受到良心譴責的亞瑠不同，這名少女宛如小惡魔般肆無忌憚地為非作歹，愛到處惹是生非。 和亞瑠是老朋友，比任何人清楚她只是在虛張聲勢，但卻不特別為她設想。 |  |
+| mutsuki asagi | 浅黄睦月 | 所属作品：`p:blue archive`<br><br>徵信社68的特攻隊長兼突擊隊長。 和稍微能感受到良心譴責的亞瑠不同，這名少女宛如小惡魔般肆無忌憚地為非作歹，愛到處惹是生非。 和亞瑠是老朋友，比任何人清楚她只是在虛張聲勢，但卻不特別為她設想。 |  |
 | ryo matsunaga | 松永凉 |  | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
 | xiangling | 香菱 |  | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
 | tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
