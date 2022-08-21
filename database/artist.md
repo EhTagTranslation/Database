@@ -12134,6 +12134,7 @@ example:
 | takamaru | 鷹丸 |  |  |
 | nidaime | 二代目 |  | [pixiv](https://www.pixiv.net/users/4505788) [Twitter](https://twitter.com/thesecond1372) |
 | minato ojitan | 湊おじたん |  | [pixiv](https://www.pixiv.net/users/3065392) |
+| orukoa | orukoa |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
