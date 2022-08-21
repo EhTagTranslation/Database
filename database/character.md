@@ -4083,6 +4083,7 @@ example:
 | kraft lawrence | 克拉福·罗伦斯 |  |  |
 | orihime inoue | 井上织姬 | ![](https://static.wikia.nocookie.net/shironekoproject/images/1/1b/井上_織姬.png/revision/latest/scale-to-width-down/1000?cb=20220112152123&path-prefix=zh) | [维基百科](https://zh.wikipedia.org/zh-cn/井上織姬) [Fandom](https://bleach.fandom.com/wiki/Orihime_Inoue) |
 | elysia | 爱莉希雅 | ![](https://img.moegirl.org.cn/common/2/2b/Elysia.png)<br>爱莉希雅是米哈游旗下游戏《崩坏3》及其衍生作品的登场角色 |  |
+| kayoko onikata | 鬼方佳世子 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/鬼方佳世子) [Fandom](https://bluearchive.fandom.com/wiki/Onikata_Kayoko) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
