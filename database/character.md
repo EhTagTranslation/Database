@@ -4088,6 +4088,7 @@ example:
 | sothis | 苏谛斯 |  |  |
 | shamir nevrand | 萨米亚·涅芙兰特 |  |  |
 | edelgard von hresvelg | 艾黛尔贾特·冯·弗雷斯贝尔古 |  |  |
+| rhea | 蕾雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
