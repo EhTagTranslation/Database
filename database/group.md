@@ -12450,6 +12450,7 @@ example:
 | metacorapusu | めたこらぷす |  |  |
 | hana q studio | 花Qスタジオ |  |  |
 | shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  |  |
+| shota mangaya-san | ショタ漫画屋さん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
