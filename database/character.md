@@ -3682,7 +3682,7 @@ example:
 | jung freud | 荣格·佛洛依德 |  |  |
 | aru rikuhachima | 陸八魔アル |  |  |
 | hifumi ajitani | 阿慈谷ヒフミ |  |  |
-| azusa shirasu | 白洲アズサ |  |  |
+| azusa shirasu | 白洲梓 | 所属作品：`p:blue archive`<br><br>三一补课部的冰魔女。<br>自从从原本的学校退学后，因为某种原因而就读三一学园，重新致力于学业，明明很怕寂寞，却因为担心对其他学生造成麻烦而主动与人拉开距离，很让补课部的学生为她操心。 |  |
 | hanako urawa | 浦和花子 | 所属作品：`p:blue archive`<br><br>来自三一综合学院补习授业部的感情丰富的少女。<br>看起来像个优雅的淑女，实际上是个开口黄腔就停不下来的问题学生。<br>知道她真面目的补习部部员们，每次在花子身边时都会紧张地左顾右盼。 |  |
 | koharu shimoe | 下江小春 |  | [萌娘百科](https://zh.moegirl.org.cn/下江小春) |
 | shifuna agato | 雪菲 |  |  |
