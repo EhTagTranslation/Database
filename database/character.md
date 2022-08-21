@@ -4085,6 +4085,7 @@ example:
 | elysia | 爱莉希雅 | ![](https://img.moegirl.org.cn/common/2/2b/Elysia.png)<br>爱莉希雅是米哈游旗下游戏《崩坏3》及其衍生作品的登场角色 |  |
 | kayoko onikata | 鬼方佳世子 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/鬼方佳世子) [Fandom](https://bluearchive.fandom.com/wiki/Onikata_Kayoko) |
 | aoi tosaka | 远坂葵 |  |  |
+| sothis | 苏谛斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
