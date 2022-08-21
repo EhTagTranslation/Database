@@ -4089,6 +4089,7 @@ example:
 | shamir nevrand | 萨米亚·涅芙兰特 |  |  |
 | edelgard von hresvelg | 艾黛尔贾特·冯·弗雷斯贝尔古 |  |  |
 | rhea | 蕾雅 |  |  |
+| byleth eisner | 贝雷丝·艾斯纳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
