@@ -4090,6 +4090,7 @@ example:
 | edelgard von hresvelg | 艾黛尔贾特·冯·弗雷斯贝尔古 |  |  |
 | rhea | 蕾雅 |  |  |
 | byleth eisner | 贝雷丝·艾斯纳 |  |  |
+| hoshino takanashi | 小鸟游星野 | 所属作品：`p:blue archive`<br><br>阿拜多斯高等学校的前副会长，现在是担任对策委员会的委员长的慵懒少女。拥有老人似的口癖特征，平日喜欢游手好闲。虽然因为偷懒会常常被委员会的伙伴说教，可一旦执行任务，就会为了守护伙伴而奋斗在最前线。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
