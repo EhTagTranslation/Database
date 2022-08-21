@@ -12133,6 +12133,7 @@ example:
 | nagai go | 永井豪 | 永井豪，原名永井洁，1945年9月6日出生于石川县轮岛市。代表作有“破廉耻学园”、“恶魔人”、“魔神Z”、“盖塔机器人”、“甜心战士”等。作品“凄之王”在1980年获得了第四届讲谈社漫画赏。 |  |
 | takamaru | 鷹丸 |  |  |
 | nidaime | 二代目 |  | [pixiv](https://www.pixiv.net/users/4505788) [Twitter](https://twitter.com/thesecond1372) |
+| minato ojitan | 湊おじたん |  | [pixiv](https://www.pixiv.net/users/3065392) |
 
 <!--TEMPLATE:
 |  |  |  |  |
