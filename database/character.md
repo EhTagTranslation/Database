@@ -4086,6 +4086,7 @@ example:
 | kayoko onikata | 鬼方佳世子 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/鬼方佳世子) [Fandom](https://bluearchive.fandom.com/wiki/Onikata_Kayoko) |
 | aoi tosaka | 远坂葵 |  |  |
 | sothis | 苏谛斯 |  |  |
+| shamir nevrand | 萨米亚·涅芙兰特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
