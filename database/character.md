@@ -3683,7 +3683,7 @@ example:
 | aru rikuhachima | 陸八魔アル |  |  |
 | hifumi ajitani | 阿慈谷ヒフミ |  |  |
 | azusa shirasu | 白洲アズサ |  |  |
-| hanako urawa | 浦和ハナコ |  |  |
+| hanako urawa | 浦和花子 | 所属作品：`p:blue archive`<br><br>来自三一综合学院补习授业部的感情丰富的少女。<br>看起来像个优雅的淑女，实际上是个开口黄腔就停不下来的问题学生。<br>知道她真面目的补习部部员们，每次在花子身边时都会紧张地左顾右盼。 |  |
 | koharu shimoe | 下江小春 |  | [萌娘百科](https://zh.moegirl.org.cn/下江小春) |
 | shifuna agato | 雪菲 |  |  |
 | miko yotsuya | 四谷见子 |  |  |
