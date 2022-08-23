@@ -94,6 +94,7 @@ example:
 | harpy | 鸟人 | 鸟与人类的混合体。 |  |
 | horse boy | 马男孩 | `horse girl`的男性版本。 |  |
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
+| hyena boy | 鬣狗男孩 | `hyena girl`的男性版本。 |  |
 | insect boy | 昆虫男孩 | `insect girl`的男性版本。 |  |
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 |  |
 | lizard guy | 蜥蜴男孩 | `lizard girl`的男性版本。 |  |
