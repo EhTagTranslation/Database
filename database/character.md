@@ -4108,6 +4108,7 @@ example:
 | natsu yutori | 柚鸟夏 | 所属作品：`p:blue archive`<br><br>三一放学后的甜点部的一员。<br>这位是放学后甜品部的麻烦制造第一名以及自称浪漫家的夏同学！<br>抱着「想和大家一起分享浪漫」的心情、经常说出爆炸性发言并把周围的事物都牵扯进来，「浪漫」的定义也经常变化着的样子... |  |
 | kagome higurashi | 日暮戈薇 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/2d/fa/2dfa838ed0c61f6631f8b804cd9da48bcd8893f0-31916-280-418-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/日暮戈薇) |
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
+| hitomi shizuki | 志筑仁美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
