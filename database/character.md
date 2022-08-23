@@ -4107,6 +4107,7 @@ example:
 | ako amau | 天雨亚子 | 所属作品：`p:blue archive`<br><br>格黑娜学园的学生，是格黑娜学园风纪委员会的行政官<br>对风纪委员长来说是秘书一样的存在，乍一看她给人一种亲切善良的印象，但处理违反规则的学生却毫不留情。 她总是跟在风纪委员长的身旁，尽全力辅佐着她。虽然她也被少数敌视风纪委员会的成员称为“委员长的狗”，但本人表面上并没有太过于在意。 |  |
 | natsu yutori | 柚鸟夏 | 所属作品：`p:blue archive`<br><br>三一放学后的甜点部的一员。<br>这位是放学后甜品部的麻烦制造第一名以及自称浪漫家的夏同学！<br>抱着「想和大家一起分享浪漫」的心情、经常说出爆炸性发言并把周围的事物都牵扯进来，「浪漫」的定义也经常变化着的样子... |  |
 | kagome higurashi | 日暮戈薇 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/2d/fa/2dfa838ed0c61f6631f8b804cd9da48bcd8893f0-31916-280-418-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/日暮戈薇) |
+| inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
