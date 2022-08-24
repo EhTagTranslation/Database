@@ -1991,6 +1991,7 @@ example:
 | kenja no mago | 贤者之孙 | 《贤者之孙》（日语：賢者の孫）是由吉冈刚原作的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/贤者之孙) |
 | lycoris recoil | 莉可丽丝 | ![](https://p.sda1.dev/6/86fb5e634f1ee3a23b2f2a8c2687f4ad/Lycoris_Recoil_KV2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Lycoris_Recoil) |
 | tachibana-san-chi no dansei jijou | 橘OO家O男性事情 | 橘さん家ノ男性事情 | [https://myanimelist.net/manga/38271/Tachibana-san\_Chi\_no\_Dansei\_Jijou](https://myanimelist.net/manga/38271/Tachibana-san_Chi_no_Dansei_Jijou) |
+| dig delight direct drive dj | D4DJ | D4DJ是日本公司武士道推出的DJ主题多媒体企划，并有动画、游戏等衍生作品。<br><br>“D4DJ”的全称为“Dig Delight Direct Drive DJ”。 | [维基百科](https://zh.wikipedia.org/wiki/D4DJ) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
