@@ -981,7 +981,7 @@ example:
 | aduma ren | あづま煉 |  |  |
 | akiya akira | 秋谷昭 |  |  |
 | ashiomi masato | アシオミマサト |  |  |
-| hamao | Hamao |  |  |
+| hamao | Hamao |  | [Twitter](https://twitter.com/hamao_freelife) [pixiv](https://www.pixiv.net/users/11036) |
 | hyocorou | ひょころー |  |  |
 | ichimatsu | いちまつ |  |  |
 | ishikawa shisuke | 石川シスケ |  |  |
