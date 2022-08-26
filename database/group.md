@@ -12452,6 +12452,7 @@ example:
 | shinsen shiboritate nama gyuunyuu. | 新鮮、搾りたて生牛乳。 |  |  |
 | shota mangaya-san | ショタ漫画屋さん |  |  |
 | kana note | Kana Note |  |  |
+| pirio destruction | ピリオデストラクション |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47485.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
