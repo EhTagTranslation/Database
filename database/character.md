@@ -4109,6 +4109,7 @@ example:
 | kagome higurashi | 日暮戈薇 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/2d/fa/2dfa838ed0c61f6631f8b804cd9da48bcd8893f0-31916-280-418-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/日暮戈薇) |
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
 | hitomi shizuki | 志筑仁美 |  |  |
+| nakoruru | 娜可露露 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=娜可露露&variant=zh-tw&mobileaction=toggle_view_desktop) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
