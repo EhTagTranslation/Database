@@ -4110,6 +4110,7 @@ example:
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
 | hitomi shizuki | 志筑仁美 |  |  |
 | nakoruru | 娜可露露 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=娜可露露&variant=zh-tw&mobileaction=toggle_view_desktop) |
+| tomo yamanobe | 山边灯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
