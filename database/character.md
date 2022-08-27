@@ -4113,6 +4113,7 @@ example:
 | tomo yamanobe | 山边灯 |  |  |
 | calamity jane | 灾星简 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灾星简%28Fate%29)<br>[https://fgo.wiki/w/灾星简](https://fgo.wiki/w/灾星简) |
 | charlotte corday | 夏洛特·科黛 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·科黛%28Fate%29)<br>[https://fgo.wiki/w/夏洛特·科黛](https://fgo.wiki/w/夏洛特·科黛) |
+| ibuki douji | 伊吹童子 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹童子%28Fate%29#)<br>[https://fgo.wiki/w/伊吹童子](https://fgo.wiki/w/伊吹童子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
