@@ -4112,6 +4112,7 @@ example:
 | nakoruru | 娜可露露 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=娜可露露&variant=zh-tw&mobileaction=toggle_view_desktop) |
 | tomo yamanobe | 山边灯 |  |  |
 | calamity jane | 灾星简 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灾星简%28Fate%29)<br>[https://fgo.wiki/w/灾星简](https://fgo.wiki/w/灾星简) |
+| charlotte corday | 夏洛特·科黛 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·科黛%28Fate%29)<br>[https://fgo.wiki/w/夏洛特·科黛](https://fgo.wiki/w/夏洛特·科黛) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
