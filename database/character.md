@@ -2836,7 +2836,7 @@ example:
 | kasumi chigusa | 千种霞 |  |  |
 | ange katrina | 安洁·卡特莉娜 |  |  |
 | cagliostro | 卡莉奥斯特萝 |  |  |
-| kyouka hikawa | 冰川镜华 |  |  |
+| kyouka hikawa | 冰川镜华 | ![](https://img.moegirl.org.cn/common/thumb/9/92/Hikawa_kyouka_pc.png/420px-Hikawa_kyouka_pc.png)<br>冰川镜华（日语：氷川（ひかわ） 鏡華（きょうか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为镜华（日语：キョウカ）。 | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
 | saren sasaki | 佐佐木咲恋 |  |  |
