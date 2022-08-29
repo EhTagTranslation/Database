@@ -341,6 +341,7 @@ example:
 | balljob | 球交 | 通过类似`paizuri`的方式使用睾丸。 |  |
 | big balls | 大睾丸 | 不正常的巨大睾丸，至少与手的大小相当。 |  |
 | big penis | 大根 | 异常大的阴茎，至少要和其主人的前臂一样大。是`huge penis`的前置标签。 |  |
+| cloaca insertion | 泄殖腔插入 | 将任何东西插入泄殖腔。可能援引`retractable penis`标签。不用于插入阴道。 |  |
 | cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
 | cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
 | dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
