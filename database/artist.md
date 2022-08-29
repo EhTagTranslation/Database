@@ -12138,6 +12138,7 @@ example:
 | karakuri musha | からくり武者 |  | [pixiv](https://www.pixiv.net/users/28253795) |
 | neisan | ねいさん |  | [pixiv](https://www.pixiv.net/users/52306507) |
 | takekawa sin | 武川慎 |  |  |
+| galbany denryuu | ガルバニー電流 |  | [pixiv](https://www.pixiv.net/users/201791) |
 
 <!--TEMPLATE:
 |  |  |  |  |
