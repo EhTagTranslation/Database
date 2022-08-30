@@ -9045,7 +9045,7 @@ example:
 | onetouch | わんたっち |  |  |
 | onguuchi | 御宮内 |  |  |
 | oni japu | 鬼 ジャプ |  |  |
-| oniben katze | 鬼遍かっつぇ |  |  |
+| oniben katze | 鬼遍かっつぇ | 同人社团`mauve`主笔画师<br><br>![works](https://pbs.twimg.com/media/FbZk87yVUAEaEB5?format=jpg&name=large) | [twitter](https://twitter.com/katze_oni) [pixiv](https://www.pixiv.net/users/15843119) |
 | oniku | お肉 |  |  |
 | oniku. | お肉。 |  |  |
 | onineko | おにねこ |  |  |
