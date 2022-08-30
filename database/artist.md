@@ -2766,7 +2766,7 @@ example:
 | 9so | 9SO |  | [pixiv](https://www.pixiv.net/users/78838) |
 | haruba negi | 春场葱 | 春场葱（日语：春場ねぎ，1991年7月27日－），日本男性漫画家，出身自爱知县。代表作为《`gotoubun no hanayome`》，在2019年以该作获得第43届讲谈社漫画赏。 | [Twitter](https://twitter.com/negi_haruba) [中文维基](https://zh.wikipedia.org/wiki/春場蔥) [日文维基](https://ja.wikipedia.org/wiki/春場ねぎ) |
 | maki komura | 真木こむら | ![真木こむら头像](https://i.jpg.dog/file/jpg-dog/1f5d585443b78a70d7d8e064ed99bfec.png) | [Twitter](https://twitter.com/komura_komura) [pixiv](https://www.pixiv.net/users/15083784) |
-| sakamata nerimono | 逆又練物 |  |  |
+| sakamata nerimono | 逆又练物 | ![twitter](https://pbs.twimg.com/profile_images/1469325361200578563/e9Q0gpRK_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/FWPxDh-UUAA-Fyb?format=jpg&name=large")<br><br>单行本 | [twitter](https://twitter.com/sakamata_ne_cof) [pixiv](https://www.pixiv.net/users/16332) |
 | nagata maria | 永田まりあ |  |  |
 | kinona | 紀奈 |  | [pixiv](https://www.pixiv.net/users/237082) [Twitter](https://twitter.com/kinona) |
 | hano haruka | 葉乃はるか |  | [pixiv](https://www.pixiv.net/users/698171) [Twitter](https://twitter.com/hanoharu) |
