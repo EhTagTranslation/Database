@@ -12143,6 +12143,7 @@ example:
 | suito | すいと |  | [Twitter](https://twitter.com/tiguhagu_metro) [pixiv](https://www.pixiv.net/users/4910367) |
 | kura | 倉 |  | [Twitter](https://twitter.com/1stfooom) [pixiv](https://www.pixiv.net/users/14486181) |
 | ayasaka | 綾坂 |  | [Twitter](https://twitter.com/ayayayasaka) [pixiv](https://www.pixiv.net/users/35137) |
+| akusema | あくせま |  | [Twitter](https://twitter.com/MtxzBNBROukHQzl) [pixiv](https://www.pixiv.net/users/27818450) |
 
 <!--TEMPLATE:
 |  |  |  |  |
