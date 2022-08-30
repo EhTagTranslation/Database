@@ -12456,6 +12456,7 @@ example:
 | mauve | mauve | 画师`oniben katze`所属同人社团 | [HP](https://profcard.info/u/NsNyUtJGIgU8d2lYXi6JEq33jI13) |
 | tiguhagu metronome | ちぐはぐメトロノーム |  |  |
 | daisan-keitai | 第3形態 |  |  |
+| ray n maker | Ray N' Maker |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
