@@ -12457,6 +12457,7 @@ example:
 | tiguhagu metronome | ちぐはぐメトロノーム |  |  |
 | daisan-keitai | 第3形態 |  |  |
 | ray n maker | Ray N' Maker |  |  |
+| ijou higan sensen | 异常彼岸战线 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
