@@ -12142,6 +12142,7 @@ example:
 | utsunomiya ukatsu | 郁之宫迂阔 | ![twitter](https://pbs.twimg.com/profile_images/1387611246682284037/Rtf1cdug_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/FObPGAxVIAAyZql?format=jpg&name=large")<br><br>单行本 | [twitter](https://twitter.com/uka_uka_ukatu) [pixiv](https://www.pixiv.net/users/59232429) |
 | suito | すいと |  | [Twitter](https://twitter.com/tiguhagu_metro) [pixiv](https://www.pixiv.net/users/4910367) |
 | kura | 倉 |  | [Twitter](https://twitter.com/1stfooom) [pixiv](https://www.pixiv.net/users/14486181) |
+| ayasaka | 綾坂 |  | [Twitter](https://twitter.com/ayayayasaka) [pixiv](https://www.pixiv.net/users/35137) |
 
 <!--TEMPLATE:
 |  |  |  |  |
