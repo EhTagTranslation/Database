@@ -12144,6 +12144,7 @@ example:
 | kura | 倉 |  | [Twitter](https://twitter.com/1stfooom) [pixiv](https://www.pixiv.net/users/14486181) |
 | ayasaka | 綾坂 |  | [Twitter](https://twitter.com/ayayayasaka) [pixiv](https://www.pixiv.net/users/35137) |
 | akusema | あくせま |  | [Twitter](https://twitter.com/MtxzBNBROukHQzl) [pixiv](https://www.pixiv.net/users/27818450) |
+| takumichi | taku道 |  | [pixiv](https://www.pixiv.net/users/7774279)  [FANBOX](https://www.fanbox.cc/@vor7krbv)  [哔哩哔哩](https://space.bilibili.com/1926687/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
