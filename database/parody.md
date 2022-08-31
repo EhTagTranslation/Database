@@ -1994,6 +1994,7 @@ example:
 | dig delight direct drive dj | D4DJ | D4DJ是日本公司武士道推出的DJ主题多媒体企划，并有动画、游戏等衍生作品。<br><br>“D4DJ”的全称为“Dig Delight Direct Drive DJ”。 | [维基百科](https://zh.wikipedia.org/wiki/D4DJ) |
 | seirei gensouki | 精灵幻想记 |  | [维基百科](https://zh.wikipedia.org/wiki/精靈幻想記) |
 | soredemo ayumu wa yosetekuru | 即使如此依旧步步进逼 |  | [维基百科](https://zh.wikipedia.org/wiki/即使如此依舊步步進逼) [萌娘百科](https://zh.moegirl.org.cn/即使如此依旧步步进逼) |
+| nikujo no susume | 肉女的推荐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
