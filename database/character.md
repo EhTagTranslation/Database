@@ -4117,6 +4117,7 @@ example:
 | ranpha | 兰法 |  |  |
 | geo stelar | 星河昴 |  |  |
 | luna platz | 白金露娜 |  |  |
+| yugito nii | 二位柚木门 | 日本漫画《火影忍者》及其衍生作品中的女性角色，雷之国·云隐村的二尾人柱力<br>性格倔强而高傲，很有女王范；但也很为同伴着想，对同伴十分温柔。和又旅一样讲话口气十分温和。 | ![](https://img.moegirl.org.cn/common/2/21/二位由木人.jpg) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
