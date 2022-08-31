@@ -4116,6 +4116,7 @@ example:
 | ibuki douji | 伊吹童子 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹童子%28Fate%29#)<br>[https://fgo.wiki/w/伊吹童子](https://fgo.wiki/w/伊吹童子) |
 | ranpha | 兰法 |  |  |
 | geo stelar | 星河昴 |  |  |
+| luna platz | 白金露娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
