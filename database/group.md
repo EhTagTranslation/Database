@@ -12458,6 +12458,7 @@ example:
 | daisan-keitai | 第3形態 |  |  |
 | ray n maker | Ray N' Maker |  |  |
 | ijou higan sensen | 异常彼岸战线 |  |  |
+| shinkaihuyu | 深海浮遊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
