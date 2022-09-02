@@ -4130,6 +4130,7 @@ example:
 | yojo bashoku | 马谡幼常 |  |  |
 | shiryuu chouun | 赵云子龙 |  |  |
 | chuukou kyocho | 许诸仲康 |  |  |
+| hakugen rikuson | 陆逊伯言 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
