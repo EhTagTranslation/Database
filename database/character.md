@@ -4140,6 +4140,7 @@ example:
 | genpou saji | 左慈元放 |  |  |
 | bunwa kaku | 贾诩文和 |  |  |
 | ukitsu | 于吉 |  |  |
+| shifu choushou | 张昭子布 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
