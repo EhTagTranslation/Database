@@ -4126,6 +4126,7 @@ example:
 | hakufu sonsaku | 孙策伯符 |  |  |
 | gentoku ryuubi | 刘备玄德 |  |  |
 | ekitoku chouhi | 张飞益德 |  |  |
+| myousai kakouen | 夏侯渊妙才 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
