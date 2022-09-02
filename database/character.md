@@ -4136,6 +4136,7 @@ example:
 | mouyuu | 孟优 |  |  |
 | takezou shinmen | 新免武藏 |  |  |
 | chousen | 貂蝉 |  |  |
+| benkei musashibo | 武藏坊弁庆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
