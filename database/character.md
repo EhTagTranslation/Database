@@ -4132,6 +4132,7 @@ example:
 | chuukou kyocho | 许诸仲康 |  |  |
 | hakugen rikuson | 陆逊伯言 |  |  |
 | chuutatsu shibai | 司马懿仲达 |  |  |
+| shikou soujin | 曹仁子孝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
