@@ -4573,7 +4573,7 @@ example:
 | c-low | C-Low |  |  |
 | c-taro | C-taro |  |  |
 | cabayaki | Cabayaki |  |  |
-| caburi | caburi |  | [pixiv](https://www.pixiv.net/users/28193180) [Twitter](https://twitter.com/caburibbon) |
+| caburi | caburi | ![](https://i.pixiv.cat/user-profile/img/2017/10/20/17/47/22/13362665_03238149165d800afcbfb1aec1d184c5_170.png) | [pixiv](https://www.pixiv.net/users/28193180) [Twitter](https://twitter.com/caburibbon) |
 | cacao | cacao |  |  |
 | cai | cai |  |  |
 | cait | Cait |  |  |
