@@ -4142,6 +4142,7 @@ example:
 | ukitsu | 于吉 |  |  |
 | shifu choushou | 张昭子布 |  |  |
 | koshaji | 胡车儿 |  |  |
+| moukaku | 孟获 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
