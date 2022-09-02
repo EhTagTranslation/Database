@@ -4121,6 +4121,7 @@ example:
 | kanade yoisaki | 宵崎奏 |  |  |
 | mafuyu asahina | 朝比奈真冬 |  |  |
 | kanu unchou | 关羽云长 |  |  |
+| housen ryofu | 吕布奉先 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
