@@ -4141,6 +4141,7 @@ example:
 | bunwa kaku | 贾诩文和 |  |  |
 | ukitsu | 于吉 |  |  |
 | shifu choushou | 张昭子布 |  |  |
+| koshaji | 胡车儿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
