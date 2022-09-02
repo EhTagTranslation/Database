@@ -4146,6 +4146,7 @@ example:
 | kotetsu | 虎彻 |  |  |
 | arezu | 火夏 |  |  |
 | phineas flynn | 飞哥·福林 | 飞哥·福林 (Phineas Flynn)<br>![](https://static.wikia.nocookie.net/disney/images/5/52/Phineas_Flynn.png) | [Fandom](https://disney.fandom.com/zh/wiki/飞哥‧福林) |
+| ferb fletcher | 小佛‧富雷察 | ![](https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/9649368f-d0ff-4784-845f-5f4d011d3ccc) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
