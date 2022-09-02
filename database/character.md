@@ -4125,6 +4125,7 @@ example:
 | shimei ryomou | 吕蒙子明 |  |  |
 | hakufu sonsaku | 孙策伯符 |  |  |
 | gentoku ryuubi | 刘备玄德 |  |  |
+| ekitoku chouhi | 张飞益德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
