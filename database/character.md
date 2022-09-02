@@ -4144,6 +4144,7 @@ example:
 | koshaji | 胡车儿 |  |  |
 | moukaku | 孟获 |  |  |
 | kotetsu | 虎彻 |  |  |
+| arezu | 火夏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
