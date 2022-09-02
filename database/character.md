@@ -4123,6 +4123,7 @@ example:
 | kanu unchou | 关羽云长 |  |  |
 | housen ryofu | 吕布奉先 |  |  |
 | shimei ryomou | 吕蒙子明 |  |  |
+| hakufu sonsaku | 孙策伯符 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
