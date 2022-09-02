@@ -4128,6 +4128,7 @@ example:
 | ekitoku chouhi | 张飞益德 |  |  |
 | myousai kakouen | 夏侯渊妙才 |  |  |
 | yojo bashoku | 马谡幼常 |  |  |
+| shiryuu chouun | 赵云子龙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
