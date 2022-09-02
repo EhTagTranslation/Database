@@ -4138,6 +4138,7 @@ example:
 | chousen | 貂蝉 |  |  |
 | benkei musashibo | 武藏坊弁庆 |  |  |
 | genpou saji | 左慈元放 |  |  |
+| bunwa kaku | 贾诩文和 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
