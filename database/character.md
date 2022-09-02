@@ -4143,6 +4143,7 @@ example:
 | shifu choushou | 张昭子布 |  |  |
 | koshaji | 胡车儿 |  |  |
 | moukaku | 孟获 |  |  |
+| kotetsu | 虎彻 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
