@@ -4145,6 +4145,7 @@ example:
 | moukaku | 孟获 |  |  |
 | kotetsu | 虎彻 |  |  |
 | arezu | 火夏 |  |  |
+| phineas flynn | 飞哥·福林 | 飞哥·福林 (Phineas Flynn)<br>![](https://static.wikia.nocookie.net/disney/images/5/52/Phineas_Flynn.png) | [Fandom](https://disney.fandom.com/zh/wiki/飞哥‧福林) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
