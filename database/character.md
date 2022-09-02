@@ -4134,6 +4134,7 @@ example:
 | chuutatsu shibai | 司马懿仲达 |  |  |
 | shikou soujin | 曹仁子孝 |  |  |
 | mouyuu | 孟优 |  |  |
+| takezou shinmen | 新免武藏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
