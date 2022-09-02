@@ -4147,6 +4147,7 @@ example:
 | arezu | 火夏 |  |  |
 | phineas flynn | 飞哥·福林 | 飞哥·福林 (Phineas Flynn)<br>![](https://static.wikia.nocookie.net/disney/images/5/52/Phineas_Flynn.png) | [Fandom](https://disney.fandom.com/zh/wiki/飞哥‧福林) |
 | ferb fletcher | 小佛‧富雷察 | ![](https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/9649368f-d0ff-4784-845f-5f4d011d3ccc) |  |
+| miko kurokawa | 黒川みこ | 作者是`a:oyari ashito` | [介绍页](https://oyariashito.net/2018/07/29/新作バニーフィギュア「黒川みこ」/) [介绍页](https://www.hpoi.net/hobby/44250) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
