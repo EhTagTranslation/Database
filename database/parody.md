@@ -1996,6 +1996,7 @@ example:
 | soredemo ayumu wa yosetekuru | 即使如此依旧步步进逼 |  | [维基百科](https://zh.wikipedia.org/wiki/即使如此依舊步步進逼) [萌娘百科](https://zh.moegirl.org.cn/即使如此依旧步步进逼) |
 | nikujo no susume | 肉女的推荐 |  |  |
 | eiyuu senki | 英雄战姬 | 《英雄战姬》是天狐发行的一款18禁TBS游戏。<br>原画：大枪苇人 | [Fandom](https://eiyuu-senki-gold.fandom.com/wiki/Main_Page) [萌娘百科](https://zh.moegirl.org.cn/zh/英雄战姬) |
+| shoujo mahou gaku little witch romanesque | 少女魔法学 |  | [Steam](https://store.steampowered.com/app/349300/Littlewitch_Romanesque_Editio_Regia/) [百度百科](https://baike.baidu.com/item/少女魔法学) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
