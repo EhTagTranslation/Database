@@ -4129,6 +4129,7 @@ example:
 | myousai kakouen | 夏侯渊妙才 |  |  |
 | yojo bashoku | 马谡幼常 |  |  |
 | shiryuu chouun | 赵云子龙 |  |  |
+| chuukou kyocho | 许诸仲康 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
