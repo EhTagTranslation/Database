@@ -4133,6 +4133,7 @@ example:
 | hakugen rikuson | 陆逊伯言 |  |  |
 | chuutatsu shibai | 司马懿仲达 |  |  |
 | shikou soujin | 曹仁子孝 |  |  |
+| mouyuu | 孟优 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
