@@ -2002,6 +2002,7 @@ example:
 | counter side | Counter:Side | 《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。 | [HP](https://counterside.zlongame.com/) |
 | kunoichi tsubaki no mune no uchi | 女忍者椿的心事 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女忍者椿的心事) |
 | kanojo mo kanojo | 女友成双 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女友成双) |
+| ero trap dungeon | エロトラップダンジョン ～女冒険者たちは徹底的に攻略されました～ |  | [Bangumi](https://bgm.tv/subject/323354) [vndb](https://vndb.org/v29748.2) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
