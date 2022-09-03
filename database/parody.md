@@ -1999,7 +1999,7 @@ example:
 | shoujo mahou gaku little witch romanesque | 少女魔法学 |  | [Steam](https://store.steampowered.com/app/349300/Littlewitch_Romanesque_Editio_Regia/) [百度百科](https://baike.baidu.com/item/少女魔法学) |
 | words worth | 光与影的传说 | 《WORDS WORTH》（日语：ワーズ・ワース）是日本élf公司在1993年7月22日发售的角色扮演类型的成人游戏，1999年3月25日发售重制版。游戏发售后也改编成OVA和小说。 | [维基百科](https://zh.wikipedia.org/zh-cn/WORDS_WORTH) [百度百科](https://baike.baidu.com/item/光与影的传说) |
 | drifters | 漂流武士 | ![](https://p.sda1.dev/7/0611e7818ac4349d3b92f469e8feaf67/Drifters_volume_1_cover_1_.jpg)<br>《漂流武士》是平野耕太的青年漫画作品，在少年画报社的月刊漫画《YOUNG KING OURs》上自2009年6月号开始连载。2015年9月18日释出动画预告，电视动画于2016年10月开始播放。 | [Fandom](https://drifters.fandom.com/wiki/Drifters_%28manga%29) [维基百科](https://zh.wikipedia.org/zh/漂流武士) |
-| counter side | Counter:Side | 《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。 | [https://counterside.zlongame.com/](https://counterside.zlongame.com/) |
+| counter side | Counter:Side | 《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。 | [HP](https://counterside.zlongame.com/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
