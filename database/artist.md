@@ -12148,6 +12148,7 @@ example:
 | ramanda | ラマンダ |  | [Twitter](https://twitter.com/ramanda_fresh) [pixiv](https://www.pixiv.net/users/5587361) |
 | suimi | 水深 |  | [Twitter](https://twitter.com/sui3ng) [pixiv](https://www.pixiv.net/users/13938261) |
 | totoyama keiji | 魚山ケイジ |  | [Twitter](https://twitter.com/mizumanjiu) |
+| konery | ｺﾈﾘｨ＠(ヽ'ω\`) |  | [pixiv](https://www.pixiv.net/users/8009793) [Twitter](https://twitter.com/pice1234) |
 
 <!--TEMPLATE:
 |  |  |  |  |
