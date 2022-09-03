@@ -2001,6 +2001,7 @@ example:
 | drifters | 漂流武士 | ![](https://p.sda1.dev/7/0611e7818ac4349d3b92f469e8feaf67/Drifters_volume_1_cover_1_.jpg)<br>《漂流武士》是平野耕太的青年漫画作品，在少年画报社的月刊漫画《YOUNG KING OURs》上自2009年6月号开始连载。2015年9月18日释出动画预告，电视动画于2016年10月开始播放。 | [Fandom](https://drifters.fandom.com/wiki/Drifters_%28manga%29) [维基百科](https://zh.wikipedia.org/zh/漂流武士) |
 | counter side | Counter:Side | 《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。 | [HP](https://counterside.zlongame.com/) |
 | kunoichi tsubaki no mune no uchi | 女忍者椿的心事 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女忍者椿的心事) |
+| kanojo mo kanojo | 女友成双 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女友成双) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
