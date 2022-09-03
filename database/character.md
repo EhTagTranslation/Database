@@ -4152,6 +4152,7 @@ example:
 | yoichi nasu no suketaka | 那须与一 | 所属作品 `p:drifters` |  |
 | bridget | 布里奇特 | 所属作品 `p:guilty gear`<br><br>因为成长村子认为同性双胞胎是不吉利之事，所以从小就被当作女性养大。为了证明自己的价值并改变村子的陋习，而决定成为赏金猎人。使用溜溜球做为武器，身边有会说话的玩具熊ROGER陪伴。于STRIVE回归，尽管没抓到当年悬赏通缉犯蒂姬，可做为赏金猎人的才华却开花结果，并成功赚取到大笔财富衣锦还乡。此举让家乡的迷信逐渐消散，同时失去了自己的目标。现在继续从事赏金猎人的工作，边思考自己真正想做的事情。 | [维基百科](https://zh.wikipedia.org/zh/聖騎士之戰系列角色列表) |
 | princess marie ange | マリー・アンジュ 王女 |  |  |
+| sakura kagamihara | 各务原樱 |  | [萌娘百科](https://zh.moegirl.org.cn/各务原樱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
