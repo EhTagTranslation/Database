@@ -4149,6 +4149,7 @@ example:
 | ferb fletcher | 小佛‧富雷察 | ![](https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/9649368f-d0ff-4784-845f-5f4d011d3ccc) |  |
 | miko kurokawa | 黒川みこ | 作者是`a:oyari ashito` | [介绍页](https://oyariashito.net/2018/07/29/新作バニーフィギュア「黒川みこ」/) [介绍页](https://www.hpoi.net/hobby/44250) |
 | rimururu | 莉姆露露 | 莉姆露露（日语：リムルル）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。<br>![](https://p.sda1.dev/7/5cb755e32e5a55c95e92bc5463bc0c46/image.png) | [萌娘百科](https://zh.moegirl.org.cn/莉姆露露) |
+| yoichi nasu no suketaka | 那须与一 | 所属作品 `p:drifters` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
