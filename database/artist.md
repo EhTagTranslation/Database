@@ -12150,6 +12150,7 @@ example:
 | totoyama keiji | 魚山ケイジ |  | [Twitter](https://twitter.com/mizumanjiu) |
 | konery | ｺﾈﾘｨ＠(ヽ'ω\`) |  | [pixiv](https://www.pixiv.net/users/8009793) [Twitter](https://twitter.com/pice1234) |
 | cocomachi | ここまち |  | [pixiv](https://www.pixiv.net/users/55223444) |
+| mizuse kiseki | 星の紅茶 |  | [pixiv](https://www.pixiv.net/users/12120406) [Twitter](https://twitter.com/hoshi0tea) |
 
 <!--TEMPLATE:
 |  |  |  |  |
