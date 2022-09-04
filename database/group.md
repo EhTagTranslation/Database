@@ -12461,6 +12461,7 @@ example:
 | shinkaihuyu | 深海浮遊 |  |  |
 | dull zodesadehai | ダル・ゾデサデハーイ |  |  |
 | fetishism pocket | フェチズムポケット |  |  |
+| kantou dougakai | 关东动画会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
