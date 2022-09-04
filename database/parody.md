@@ -568,7 +568,7 @@ example:
 | free | Free! 男子游泳部 |  |  |
 | itsuka tenma no kuro usagi | 曾几何时天魔的黑兔 |  |  |
 | magic knight rayearth | 魔法骑士雷亚斯 |  |  |
-| kochikame | 这里是葛饰区龟有公园前派出所 |  |  |
+| kochikame | 乌龙派出所 | 乌龙派出所 / 这里是葛饰区龟有公园前派出所 | [萌娘百科](https://zh.moegirl.org.cn/乌龙派出所) |
 | bakusou kyoudai lets and go | 四驱兄弟 |  |  |
 | the powerpuff girls | 飞天小女警 |  |  |
 | powerpuff girls z | 飞天小女警Z |  |  |
