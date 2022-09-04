@@ -2004,6 +2004,7 @@ example:
 | kanojo mo kanojo | 女友成双 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女友成双) |
 | ero trap dungeon | エロトラップダンジョン ～女冒険者たちは徹底的に攻略されました～ |  | [Bangumi](https://bgm.tv/subject/323354) [vndb](https://vndb.org/v29748.2) |
 | yofukashi no uta | 彻夜之歌 |  | [萌娘百科](https://zh.moegirl.org.cn/彻夜之歌) |
+| zannen onna kanbu black general-san | 遗憾女干部黑暗将军小姐 |  | [萌娘百科](https://zh.moegirl.org.cn/遗憾女干部黑暗将军小姐) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
