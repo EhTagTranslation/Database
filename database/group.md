@@ -12460,6 +12460,7 @@ example:
 | ijou higan sensen | 异常彼岸战线 |  |  |
 | shinkaihuyu | 深海浮遊 |  |  |
 | dull zodesadehai | ダル・ゾデサデハーイ |  |  |
+| fetishism pocket | フェチズムポケット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
