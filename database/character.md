@@ -4158,6 +4158,7 @@ example:
 | chisato nishikigi | 锦木千束 | ![](https://static.wikia.nocookie.net/lycoris-recoil/images/3/31/Chisato_Nishikigi.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/锦木千束) [Fandom](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) |
 | takina inoue | 井之上泷奈 | ![](https://static.wikia.nocookie.net/lycoris-recoil/images/e/e1/Takina_Inoue.png) | [萌娘百科](https://zh.moegirl.org.cn/井之上泷奈) [Fandom](https://lycoris-recoil.fandom.com/wiki/Takina_Inoue) |
 | rihoko amaha | 天羽梨穂子 |  |  |
+| masane amaha | 天羽雅音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
