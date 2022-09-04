@@ -4157,6 +4157,7 @@ example:
 | junko enoshima | 江之岛盾子 | 所属作品: `danganronpa`<br>![](https://upload.wikimedia.org/wikipedia/en/4/44/Junko_Enoshima.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Junko_Enoshima)   [萌娘百科](https://zh.moegirl.org.cn/江之岛盾子c) |
 | chisato nishikigi | 锦木千束 | ![](https://static.wikia.nocookie.net/lycoris-recoil/images/3/31/Chisato_Nishikigi.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/锦木千束) [Fandom](https://lycoris-recoil.fandom.com/wiki/Chisato_Nishikigi) |
 | takina inoue | 井之上泷奈 | ![](https://static.wikia.nocookie.net/lycoris-recoil/images/e/e1/Takina_Inoue.png) | [萌娘百科](https://zh.moegirl.org.cn/井之上泷奈) [Fandom](https://lycoris-recoil.fandom.com/wiki/Takina_Inoue) |
+| rihoko amaha | 天羽梨穂子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
