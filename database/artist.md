@@ -12156,6 +12156,7 @@ example:
 | minamoto kosada | 源康定 |  |  |
 | mukatsuku | ム菓ツク（むか） |  | [pixiv](https://www.pixiv.net/users/163404) |
 | akiamare | あきあまれ |  | [pixiv](https://www.pixiv.net/users/2266366) [Twitter](https://twitter.com/akiAmare) |
+| sakuragi yomi | 樱木黄泉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
