@@ -4154,6 +4154,7 @@ example:
 | princess marie ange | マリー・アンジュ 王女 |  |  |
 | sakura kagamihara | 各务原樱 |  | [萌娘百科](https://zh.moegirl.org.cn/各务原樱) |
 | frederica irving | フレドリカ・アーヴィング | ![](https://static.wikia.nocookie.net/etrian/images/9/99/Frederica.png)<br>所属作品: `p:etrian odyssey` | [Fandom](https://etrian.fandom.com/wiki/Frederica_Irving) |
+| junko enoshima | 江之岛盾子 | 所属作品: `danganronpa`<br>![](https://upload.wikimedia.org/wikipedia/en/4/44/Junko_Enoshima.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Junko_Enoshima)   [萌娘百科](https://zh.moegirl.org.cn/江之岛盾子c) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
