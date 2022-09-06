@@ -4163,6 +4163,7 @@ example:
 | aomi yanagisako | 柳迫碧美 |  |  |
 | airi | 爱莉 |  |  |
 | melona | 美萝娜 |  |  |
+| merlin prototype | 梅林prototype |  | [https://fgo.wiki/w/阿瓦隆女士](https://fgo.wiki/w/阿瓦隆女士) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
