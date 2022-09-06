@@ -4160,6 +4160,7 @@ example:
 | rihoko amaha | 天羽梨穂子 |  |  |
 | masane amaha | 天羽雅音 |  |  |
 | ayaka tachikawa | 立川绚香 |  |  |
+| aomi yanagisako | 柳迫碧美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
