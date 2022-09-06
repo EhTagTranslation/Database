@@ -4161,6 +4161,7 @@ example:
 | masane amaha | 天羽雅音 |  |  |
 | ayaka tachikawa | 立川绚香 |  |  |
 | aomi yanagisako | 柳迫碧美 |  |  |
+| airi | 爱莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
