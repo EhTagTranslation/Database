@@ -12160,6 +12160,7 @@ example:
 | suichuu hanabi | 水中花火 | 水崎 弘明または水中花火という名義で活動しております。漫画家。 | [Twitter](https://twitter.com/s_hanabi) |
 | enmanuelart | enmanuelart |  | [pixiv](https://www.pixiv.net/users/21584413) [Twitter](https://twitter.com/Enmanuelart20) |
 | shirosaba | 白サバ | ![](https://p.sda1.dev/7/8aac99cfc38ff796196eb4fbe05ff6ee/image.png) | [pixiv](https://www.pixiv.net/users/16578697) [Twitter](https://twitter.com/Shirosaba_47) |
+| cslucaris | CSLucaris |  | [pixiv](https://www.pixiv.net/users/2039190) [Twitter](https://twitter.com/cslucaris) |
 
 <!--TEMPLATE:
 |  |  |  |  |
