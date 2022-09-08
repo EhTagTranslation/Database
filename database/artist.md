@@ -12158,6 +12158,7 @@ example:
 | akiamare | あきあまれ |  | [pixiv](https://www.pixiv.net/users/2266366) [Twitter](https://twitter.com/akiAmare) |
 | sakuragi yomi | 樱木黄泉 |  |  |
 | suichuu hanabi | 水中花火 | 水崎 弘明または水中花火という名義で活動しております。漫画家。 | [Twitter](https://twitter.com/s_hanabi) |
+| enmanuelart | enmanuelart |  | [Twitter](https://twitter.com/Enmanuelart20) |
 
 <!--TEMPLATE:
 |  |  |  |  |
