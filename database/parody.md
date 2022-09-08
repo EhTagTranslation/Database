@@ -2005,6 +2005,7 @@ example:
 | ero trap dungeon | エロトラップダンジョン ～女冒険者たちは徹底的に攻略されました～ |  | [Bangumi](https://bgm.tv/subject/323354) [vndb](https://vndb.org/v29748.2) |
 | yofukashi no uta | 彻夜之歌 |  | [萌娘百科](https://zh.moegirl.org.cn/彻夜之歌) |
 | zannen onna kanbu black general-san | 遗憾女干部黑暗将军小姐 |  | [萌娘百科](https://zh.moegirl.org.cn/遗憾女干部黑暗将军小姐) |
+| digimon ghost game | 数码宝贝幽灵游戏 | 《数码宝贝幽灵游戏》（日語：デジモンゴーストゲーム，英語：Digimon Ghost Game），于2021年10月3日起，在富士电视台系列播映的电视动画，是数码宝贝电视动画系列的第九作，也是万代「生命手环系列」的联动宣传动画。 | [维基百科](https://zh.wikipedia.org/zh/数码宝贝幽灵游戏) [Fandom](https://digimon.fandom.com/wiki/Digimon_Ghost_Game) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
