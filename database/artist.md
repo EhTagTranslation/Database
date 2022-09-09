@@ -12164,6 +12164,7 @@ example:
 | 4riasensei | フォリア | ![](https://p.sda1.dev/7/35cc5467f1bfdfa1823048e6ee3f9d37/image.png) | [pixiv](https://www.pixiv.net/users/58316460) [Twitter](https://twitter.com/4riasensei) |
 | matsuda | ユウスケ |  | [pixiv](https://www.pixiv.net/users/254096) |
 | rasen kyofu kaku | ラセン恐怖閣 |  | [pixiv](https://www.pixiv.net/users/9408666) [Twitter](https://twitter.com/888spiral888) |
+| damenahito | だめなひと |  | [pixiv](https://www.pixiv.net/users/951021) [Twitter](https://twitter.com/damenahit1) |
 
 <!--TEMPLATE:
 |  |  |  |  |
