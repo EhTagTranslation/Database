@@ -4165,6 +4165,7 @@ example:
 | melona | 美萝娜 |  |  |
 | merlin prototype | 梅林prototype |  | [https://fgo.wiki/w/阿瓦隆女士](https://fgo.wiki/w/阿瓦隆女士) |
 | shuna | 朱菜 | 所属作品 `p:tensei shitara slime datta ken`<br>![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Shuna_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/朱菜) [Fandom](https://tensura.fandom.com/wiki/Shuna) |
+| lenalee lee | 利娜莉·李 | 李娜丽·李（日语：リナリー‧リー；英语：Lenalee Lee）是星野桂创作的漫画《`p:d.gray-man`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/dgrayman/images/6/6b/Lenalee_2006.png) | [萌娘百科](https://zh.moegirl.org.cn/李娜丽·李) [Fandom](https://dgrayman.fandom.com/wiki/Lenalee_Lee) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
