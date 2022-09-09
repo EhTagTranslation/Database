@@ -12161,6 +12161,7 @@ example:
 | enmanuelart | enmanuelart |  | [pixiv](https://www.pixiv.net/users/21584413) [Twitter](https://twitter.com/Enmanuelart20) |
 | shirosaba | 白サバ | ![](https://p.sda1.dev/7/8aac99cfc38ff796196eb4fbe05ff6ee/image.png) | [pixiv](https://www.pixiv.net/users/16578697) [Twitter](https://twitter.com/Shirosaba_47) |
 | cslucaris | CSLucaris |  | [pixiv](https://www.pixiv.net/users/2039190) [Twitter](https://twitter.com/cslucaris) |
+| 4riasensei | フォリア | ![](https://p.sda1.dev/7/35cc5467f1bfdfa1823048e6ee3f9d37/image.png) | [pixiv](https://www.pixiv.net/users/58316460) [Twitter](https://twitter.com/4riasensei) |
 
 <!--TEMPLATE:
 |  |  |  |  |
