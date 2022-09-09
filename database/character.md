@@ -4164,6 +4164,7 @@ example:
 | airi | 爱莉 |  |  |
 | melona | 美萝娜 |  |  |
 | merlin prototype | 梅林prototype |  | [https://fgo.wiki/w/阿瓦隆女士](https://fgo.wiki/w/阿瓦隆女士) |
+| shuna | 朱菜 | 所属作品 `p:tensei shitara slime datta ken`<br>![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Shuna_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/朱菜) [Fandom](https://tensura.fandom.com/wiki/Shuna) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
