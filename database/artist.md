@@ -12144,7 +12144,7 @@ example:
 | kura | 倉 |  | [Twitter](https://twitter.com/1stfooom) [pixiv](https://www.pixiv.net/users/14486181) |
 | ayasaka | 綾坂 |  | [Twitter](https://twitter.com/ayayayasaka) [pixiv](https://www.pixiv.net/users/35137) |
 | akusema | あくせま |  | [Twitter](https://twitter.com/MtxzBNBROukHQzl) [pixiv](https://www.pixiv.net/users/27818450) |
-| takumichi | taku道 |  | [pixiv](https://www.pixiv.net/users/7774279)  [FANBOX](https://www.fanbox.cc/@vor7krbv)  [哔哩哔哩](https://space.bilibili.com/1926687/) |
+| takumichi | Taku道 | 绘制并使用的Vtuber 猫川多多道。 | [萌娘百科](https://zh.moegirl.org.cn/猫川多多道) [pixiv](https://www.pixiv.net/users/7774279)  [FANBOX](https://www.fanbox.cc/@vor7krbv)  [哔哩哔哩](https://space.bilibili.com/1926687/) |
 | ramanda | ラマンダ |  | [Twitter](https://twitter.com/ramanda_fresh) [pixiv](https://www.pixiv.net/users/5587361) |
 | suimi | 水深 |  | [Twitter](https://twitter.com/sui3ng) [pixiv](https://www.pixiv.net/users/13938261) |
 | totoyama keiji | 魚山ケイジ |  | [Twitter](https://twitter.com/mizumanjiu) |
