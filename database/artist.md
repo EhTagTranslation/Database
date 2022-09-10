@@ -12165,6 +12165,7 @@ example:
 | matsuda | ユウスケ |  | [pixiv](https://www.pixiv.net/users/254096) |
 | rasen kyofu kaku | ラセン恐怖閣 |  | [pixiv](https://www.pixiv.net/users/9408666) [Twitter](https://twitter.com/888spiral888) |
 | damenahito | だめなひと |  | [pixiv](https://www.pixiv.net/users/951021) [Twitter](https://twitter.com/damenahit1) |
+| satou teruhito | 佐藤辉人 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
