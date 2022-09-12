@@ -12464,6 +12464,7 @@ example:
 | kantou dougakai | 关东动画会 |  |  |
 | fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [http://fsm-cafe.jugem.jp](http://fsm-cafe.jugem.jp) |
 | platinum kinoko | プラチナきのこ |  |  |
+| lunaberry | Lunaberry |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
