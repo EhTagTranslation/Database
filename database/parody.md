@@ -2008,7 +2008,7 @@ example:
 | digimon ghost game | 数码宝贝幽灵游戏 | 《数码宝贝幽灵游戏》（日語：デジモンゴーストゲーム，英語：Digimon Ghost Game），于2021年10月3日起，在富士电视台系列播映的电视动画，是数码宝贝电视动画系列的第九作，也是万代「生命手环系列」的联动宣传动画。 | [维基百科](https://zh.wikipedia.org/zh/数码宝贝幽灵游戏) [Fandom](https://digimon.fandom.com/wiki/Digimon_Ghost_Game) |
 | yuusha to maou | 魔王勇者 | 《魔王勇者》（日语：まおゆう）是由橙乃真希在2channel上即兴创作的一部幻想类轻经济教学小说，并有动画、漫画、广播剧和WEB广播等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔王勇者) [维基百科](https://zh.wikipedia.org/zh/魔王勇者) |
 | onegai my melody | 我爱美乐蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/我爱美乐蒂) |
-| bikkuriman | 仙魔大战 |  | [Bangumi](https://bgm.tv/subject/81569) |
+| bikkuriman | 仙魔大战 |  | [Bangumi](https://bgm.tv/subject/81569) [维基百科（英语）](https://en.wikipedia.org/wiki/Bikkuriman) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
