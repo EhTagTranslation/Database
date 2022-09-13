@@ -12466,6 +12466,7 @@ example:
 | platinum kinoko | プラチナきのこ |  |  |
 | lunaberry | Lunaberry |  |  |
 | sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [Pixiv](https://www.pixiv.net/users/41510503)<br>[Twitter](https://twitter.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
+| xx koubou | ××工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
