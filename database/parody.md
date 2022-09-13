@@ -1699,7 +1699,7 @@ example:
 | a dog of flanders | 弗兰德斯的狗 |  | [维基百科](https://zh.wikipedia.org/zh-cn/弗兰德斯的狗) |
 | a little snow fairy sugar | 小小雪精灵 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小小雪精灵) |
 | a nightmare on elm street | 猛鬼街 |  | [维基百科](https://zh.wikipedia.org/zh-cn/猛鬼街) |
-| a town where you live | 有你的小镇 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小鎮有你) |
+| kimi no iru machi | 有你的小镇 |  | [维基百科](https://zh.wikipedia.org/zh-cn/小鎮有你) |
 | a.d.police | A.D.POLICE |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/A.D.POLICE) |
 | abenobashi mahou shoutengai | 阿倍野桥魔法商店街 |  | [维基百科](https://zh.wikipedia.org/zh-cn/阿倍野桥魔法商店街) |
 | acca 13-ku kansatsu-ka | ACCA13区监察课 |  | [维基百科](https://zh.wikipedia.org/zh-cn/ACCA13區監察課) |
