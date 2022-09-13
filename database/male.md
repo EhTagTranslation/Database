@@ -589,7 +589,7 @@ example:
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |  |
 | x-ray | 透视 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/a0/81/a0819f63c83f90fab00cbac9e94497cdd7a6fe49-1292852-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/c9/b1/c9b1daa9ad849b7a3c1e77e44fc65809a21e734c-668677-1920-2720-jpg_l.jpg") |  |
 |  | == 上下文 == |  |  |
-| blackmail | 勒索 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
+| blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 受孕 | `pregnant`的过程。 |  |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
