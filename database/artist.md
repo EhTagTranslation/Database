@@ -12168,6 +12168,7 @@ example:
 | satou teruhito | 佐藤辉人 |  |  |
 | yamada tahichi | 山田タヒチ | 原笔名安世夢 |  |
 | nijiiro tyahantei | 虹色チャーハン亭 |  | [Twitter](https://twitter.com/nijicha_2022)<br>[pixiv](https://www.pixiv.net/users/25811948) |
+| ikemura hiroichi | 池村ヒロイチ | 同`a:hiroichi` | [pixiv](https://www.pixiv.net/users/4492640) [Twitter](https://twitter.com/ibusos) |
 
 <!--TEMPLATE:
 |  |  |  |  |
