@@ -12465,6 +12465,7 @@ example:
 | fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [http://fsm-cafe.jugem.jp](http://fsm-cafe.jugem.jp) |
 | platinum kinoko | プラチナきのこ |  |  |
 | lunaberry | Lunaberry |  |  |
+| sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [Pixiv](https://www.pixiv.net/users/41510503)<br>[Twitter](https://twitter.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
