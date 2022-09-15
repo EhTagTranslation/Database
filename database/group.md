@@ -12470,6 +12470,7 @@ example:
 | hengen monogatari | 変幻物語 |  |  |
 | straight lemon kajuu 100 | ストレートレモン果汁100 |  |  |
 | gekidan 375 | 劇団375 | 劇団375是季崎ますた的同人社团名称。 |  |
+| ryuuka hanten | 龍華飯店 | 龍華飯店是[しろすけ](https://www.pixiv.net/users/13807697)的社团名称，原名北極一番星 | [pixiv](https://www.pixiv.net/users/13807697) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
