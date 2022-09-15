@@ -12475,6 +12475,7 @@ example:
 | dandakadan | ダンダカダン |  |  |
 | shikoshiko biyori | しこしこ日和 |  |  |
 | ohige no shishimai | お髭の獅子舞 |  |  |
+| damenahidou | だめなひ堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
