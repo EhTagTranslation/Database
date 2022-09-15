@@ -12176,6 +12176,7 @@ example:
 | shimada panda | しま田ぱんだ |  |  |
 | kakei kei | 花兄けい |  |  |
 | kudou hisashi | くどうひさし |  |  |
+| yuuzuki hijiri | 夕月ひじり |  | [pixiv](https://www.pixiv.net/users/21118839) |
 
 <!--TEMPLATE:
 |  |  |  |  |
