@@ -12474,6 +12474,7 @@ example:
 | hakumaidokoro | 白米所 |  |  |
 | dandakadan | ダンダカダン |  |  |
 | shikoshiko biyori | しこしこ日和 |  |  |
+| ohige no shishimai | お髭の獅子舞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
