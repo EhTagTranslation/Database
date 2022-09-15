@@ -12170,7 +12170,7 @@ example:
 | nijiiro tyahantei | 虹色チャーハン亭 |  | [Twitter](https://twitter.com/nijicha_2022)<br>[pixiv](https://www.pixiv.net/users/25811948) |
 | ikemura hiroichi | 池村ヒロイチ | 同`a:hiroichi` | [pixiv](https://www.pixiv.net/users/4492640) [Twitter](https://twitter.com/ibusos) |
 | kizaki masuta | 季崎ますた |  |  |
-| komera | 白米所 |  |  |
+| komera | こめら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
