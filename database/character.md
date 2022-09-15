@@ -4169,6 +4169,7 @@ example:
 | natsuru senou | 濑能名津流 |  |  |
 | shizuku sangou | 三乡雫 |  |  |
 | akane mishima | 美岛红音 |  |  |
+| minoru mineta | 峰田实 | 所属作品: `p:my hero academia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
