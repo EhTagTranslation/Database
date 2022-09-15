@@ -12473,6 +12473,7 @@ example:
 | ryuuka hanten | 龍華飯店 | 龍華飯店是[しろすけ](https://www.pixiv.net/users/13807697)的社团名称，原名北極一番星 | [pixiv](https://www.pixiv.net/users/13807697) |
 | hakumaidokoro | 白米所 |  |  |
 | dandakadan | ダンダカダン |  |  |
+| shikoshiko biyori | しこしこ日和 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
