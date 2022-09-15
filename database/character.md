@@ -4170,6 +4170,7 @@ example:
 | shizuku sangou | 三乡雫 |  |  |
 | akane mishima | 美岛红音 |  |  |
 | minoru mineta | 峰田实 | 所属作品: `p:my hero academia` |  |
+| natalia luzu kimlasca-lanvaldear | 娜塔莉亚·卢慈·基姆拉斯卡·兰帕尔迪亚 | 所属作品:`p:tales of the abyss` | [Fandom](https://aselia.fandom.com/wiki/Natalia_Luzu_Kimlasca-Lanvaldear) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
