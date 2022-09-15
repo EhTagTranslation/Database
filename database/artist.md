@@ -12171,6 +12171,7 @@ example:
 | ikemura hiroichi | 池村ヒロイチ | 同`a:hiroichi` | [pixiv](https://www.pixiv.net/users/4492640) [Twitter](https://twitter.com/ibusos) |
 | kizaki masuta | 季崎ますた |  |  |
 | komera | こめら |  |  |
+| kurotane | くろたね |  | [pixiv](https://www.pixiv.net/users/10759063) |
 
 <!--TEMPLATE:
 |  |  |  |  |
