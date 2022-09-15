@@ -12172,6 +12172,7 @@ example:
 | kizaki masuta | 季崎ますた |  |  |
 | komera | こめら |  |  |
 | kurotane | くろたね |  | [pixiv](https://www.pixiv.net/users/10759063) |
+| toushiki yubune | 橙織ゆぶね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
