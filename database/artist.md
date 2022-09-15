@@ -12175,6 +12175,7 @@ example:
 | toushiki yubune | 橙織ゆぶね |  |  |
 | shimada panda | しま田ぱんだ |  |  |
 | kakei kei | 花兄けい |  |  |
+| kudou hisashi | くどうひさし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
