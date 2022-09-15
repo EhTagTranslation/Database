@@ -12469,6 +12469,7 @@ example:
 | xx koubou | ××工房 |  |  |
 | hengen monogatari | 変幻物語 |  |  |
 | straight lemon kajuu 100 | ストレートレモン果汁100 |  |  |
+| gekidan 375 | 劇団375 | 劇団375是季崎ますた的同人社团名称。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
