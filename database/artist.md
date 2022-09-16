@@ -12178,6 +12178,7 @@ example:
 | kudou hisashi | くどうひさし |  |  |
 | yuuzuki hijiri | 夕月ひじり |  | [pixiv](https://www.pixiv.net/users/21118839) |
 | koumashiro | こうましろ |  | [Twitter](https://twitter.com/itsuwa0815) [pixiv](https://www.pixiv.net/users/4493551) |
+| denpouya chamaru | 伝法谷ちゃまる |  | [Twitter](https://twitter.com/denpo_chamaru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
