@@ -4174,6 +4174,7 @@ example:
 | eleonora viltaria | 艾蕾欧诺拉·维尔塔利亚 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | limalisha | 莉姆亚莉夏 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 | ludmila lourie | 琉德米拉·露利叶 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
+| sofya obertas | 苏菲亚·欧贝达斯 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
