@@ -12476,6 +12476,7 @@ example:
 | shikoshiko biyori | しこしこ日和 |  |  |
 | ohige no shishimai | お髭の獅子舞 |  |  |
 | damenahidou | だめなひ堂 |  |  |
+| petanko bokujo | ぺたんこ牧場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
