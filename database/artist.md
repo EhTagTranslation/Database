@@ -12180,7 +12180,7 @@ example:
 | koumashiro | こうましろ |  | [Twitter](https://twitter.com/itsuwa0815) [pixiv](https://www.pixiv.net/users/4493551) |
 | denpouya chamaru | 伝法谷ちゃまる |  | [Twitter](https://twitter.com/denpo_chamaru) |
 | miazi | miazi(ミアＰ) |  | [Twitter](https://twitter.com/miai850172850) [pixiv](https://www.pixiv.net/users/2551745) [Twitter](https://twitter.com/miazi518009) |
-| namagome negi | 瑠川ねぎ |  | [pixiv](https://www.pixiv.net/users/64754713) |
+| namagome negi | 瑠川ねぎ |  | [pixiv](https://www.pixiv.net/users/64754713) [Twitter](https://twitter.com/negi_musya) |
 
 <!--TEMPLATE:
 |  |  |  |  |
