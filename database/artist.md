@@ -12183,6 +12183,7 @@ example:
 | namagome negi | 瑠川ねぎ |  | [pixiv](https://www.pixiv.net/users/64754713) [Twitter](https://twitter.com/negi_musya) |
 | ebi fry teishoku | ぐえー/エビフライ定食 |  | [pixiv](https://www.pixiv.net/users/9815697) [Twitter](https://twitter.com/ebfri0141) [Twitter](https://twitter.com/geee925) |
 | shishido sakura | 宍戸沙玖来 |  | [pixiv](https://www.pixiv.net/users/17557722) [Twitter](https://twitter.com/sakura_ssd) |
+| pontaro | ぽんたろ |  | [pixiv](https://www.pixiv.net/users/386925) [Twitter](https://twitter.com/pontaro018) |
 
 <!--TEMPLATE:
 |  |  |  |  |
