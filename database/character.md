@@ -4171,6 +4171,7 @@ example:
 | akane mishima | 美岛红音 |  |  |
 | minoru mineta | 峰田实 | 所属作品: `p:my hero academia` |  |
 | natalia luzu kimlasca-lanvaldear | 娜塔莉亚·卢慈·基姆拉斯卡·兰帕尔迪亚 | 所属作品:`p:tales of the abyss` | [Fandom](https://aselia.fandom.com/wiki/Natalia_Luzu_Kimlasca-Lanvaldear) |
+| eleonora viltaria | 艾蕾欧诺拉·维尔塔利亚 | 所属作品: `p:madan no ou to vanadis` | [维基百科](https://zh.wikipedia.org/wiki/魔彈之王與戰姬角色列表) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
