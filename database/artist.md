@@ -12181,6 +12181,7 @@ example:
 | denpouya chamaru | 伝法谷ちゃまる |  | [Twitter](https://twitter.com/denpo_chamaru) |
 | miazi | miazi(ミアＰ) |  | [Twitter](https://twitter.com/miai850172850) [pixiv](https://www.pixiv.net/users/2551745) [Twitter](https://twitter.com/miazi518009) |
 | namagome negi | 瑠川ねぎ |  | [pixiv](https://www.pixiv.net/users/64754713) [Twitter](https://twitter.com/negi_musya) |
+| ebi fry teishoku | ぐえー/エビフライ定食 |  | [pixiv](https://www.pixiv.net/users/9815697) [Twitter](https://twitter.com/ebfri0141) [Twitter](https://twitter.com/geee925) |
 
 <!--TEMPLATE:
 |  |  |  |  |
