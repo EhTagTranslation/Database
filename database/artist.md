@@ -12186,6 +12186,7 @@ example:
 | pontaro | ぽんたろ |  | [pixiv](https://www.pixiv.net/users/386925) [Twitter](https://twitter.com/pontaro018) |
 | ikawa waki | わき |  | [pixiv](https://www.pixiv.net/users/2609622) [Twitter](https://twitter.com/wakikamaboko) |
 | aizawa marimo | 愛沢 まりも |  | [pixiv](https://www.pixiv.net/users/567000) [Twitter](https://twitter.com/marimo_zz) |
+| moyamoya | モヤモヤ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
