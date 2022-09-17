@@ -2009,6 +2009,7 @@ example:
 | yuusha to maou | 魔王勇者 | 《魔王勇者》（日语：まおゆう）是由橙乃真希在2channel上即兴创作的一部幻想类轻经济教学小说，并有动画、漫画、广播剧和WEB广播等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔王勇者) [维基百科](https://zh.wikipedia.org/zh/魔王勇者) |
 | onegai my melody | 我爱美乐蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/我爱美乐蒂) |
 | bikkuriman | 仙魔大战 |  | [Bangumi](https://bgm.tv/subject/81569) [维基百科（英语）](https://en.wikipedia.org/wiki/Bikkuriman) |
+| munou na nana | 无能力者娜娜 |  | [萌娘百科](https://zh.moegirl.org.cn/无能力者娜娜) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
