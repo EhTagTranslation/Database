@@ -12187,6 +12187,7 @@ example:
 | ikawa waki | わき |  | [pixiv](https://www.pixiv.net/users/2609622) [Twitter](https://twitter.com/wakikamaboko) |
 | aizawa marimo | 愛沢 まりも |  | [pixiv](https://www.pixiv.net/users/567000) [Twitter](https://twitter.com/marimo_zz) |
 | moyamoya | モヤモヤ |  |  |
+| okabe gyoza | 尾壁餃子 |  | [pixiv](https://www.pixiv.net/users/17751739) [Twitter](https://twitter.com/okabe_gyoza) |
 
 <!--TEMPLATE:
 |  |  |  |  |
