@@ -4184,6 +4184,7 @@ example:
 | soi fon | 碎蜂 |  |  |
 | guan yinping | 关银屏 |  |  |
 | xing cai | 星彩 |  |  |
+| zhen ji | 甄姬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
