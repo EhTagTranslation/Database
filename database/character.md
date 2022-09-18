@@ -4181,6 +4181,7 @@ example:
 | aoi kunieda | 邦枝葵 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
 | sajuna inui | 乾纱寿叶 | 所属作品: `p:sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
+| soi fon | 碎蜂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
