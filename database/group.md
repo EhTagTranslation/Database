@@ -11673,7 +11673,7 @@ example:
 | ugokuna pharmacy theta | うごくな薬局θ |  |  |
 | ugou no shuu | 烏合ノ衆 |  |  |
 | uguisu kagura | ウグイスカグラ |  |  |
-| uguisuya | 鶯屋 |  |  |
+| uguisuya | 莺屋 |  |  |
 | uhii | うひい |  |  |
 | uirokai | ういろうかい |  |  |
 | uji | 蛆 |  |  |
