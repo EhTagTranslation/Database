@@ -11219,7 +11219,7 @@ example:
 | ugetsu | ウゲツ |  |  |
 | ugo | ゆうご |  |  |
 | ugou gou | うごうゴウ |  |  |
-| uguisu kagura | 鶯神楽 |  |  |
+| uguisu kagura | 莺神乐 |  |  |
 | uhhii | うっひー |  |  |
 | uin | uin |  |  |
 | uirotuzi yumihiko | 外郎辻ゆみ彦 |  |  |
