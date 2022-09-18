@@ -4183,6 +4183,7 @@ example:
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
 | soi fon | 碎蜂 |  |  |
 | guan yinping | 关银屏 |  |  |
+| xing cai | 星彩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
