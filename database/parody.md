@@ -2010,6 +2010,7 @@ example:
 | onegai my melody | 我爱美乐蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/我爱美乐蒂) |
 | bikkuriman | 仙魔大战 |  | [Bangumi](https://bgm.tv/subject/81569) [维基百科（英语）](https://en.wikipedia.org/wiki/Bikkuriman) |
 | munou na nana | 无能力者娜娜 |  | [萌娘百科](https://zh.moegirl.org.cn/无能力者娜娜) |
+| nurarihyon no mago | 滑头鬼之孙 | 《滑头鬼之孙》（日语：ぬらりひょんの孫，罗马字：Nurarihyon no Mago，英语：Nura: Rise of the Yokai Clan）是椎桥宽创作的以妖怪为题材的少年漫画作品，并有电视动画等衍生作品。<br><br>台版的官方译名为《妖怪少爷》。港版的官方译名为《百鬼小当家》。 | [萌娘百科](https://zh.moegirl.org.cn/滑头鬼之孙) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
