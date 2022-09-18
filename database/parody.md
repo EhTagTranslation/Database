@@ -2012,6 +2012,7 @@ example:
 | munou na nana | 无能力者娜娜 |  | [萌娘百科](https://zh.moegirl.org.cn/无能力者娜娜) |
 | nurarihyon no mago | 滑头鬼之孙 | 《滑头鬼之孙》（日语：ぬらりひょんの孫，罗马字：Nurarihyon no Mago，英语：Nura: Rise of the Yokai Clan）是椎桥宽创作的以妖怪为题材的少年漫画作品，并有电视动画等衍生作品。<br><br>台版的官方译名为《妖怪少爷》。港版的官方译名为《百鬼小当家》。 | [萌娘百科](https://zh.moegirl.org.cn/滑头鬼之孙) |
 | bomber girl | 轰炸女孩 | 《轰炸女孩》是由Konami开发的视频游戏，于2018年8月30日在日本商场发行。它是《炸弹人》系列的衍生产品，游戏形式与以前版本相似，最显着的区别在于角色都是以美少女魔幻风格描绘的兽娘。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Bombergirl) |
+| burn the witch | 龙与魔女（BURN THE WITCH） | ![](https://cdn.myanimelist.net/images/anime/1993/108967l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/BURN_THE_WITCH) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
