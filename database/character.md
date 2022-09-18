@@ -4182,6 +4182,7 @@ example:
 | sajuna inui | 乾纱寿叶 | 所属作品: `p:sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
 | soi fon | 碎蜂 |  |  |
+| guan yinping | 关银屏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
