@@ -2016,6 +2016,7 @@ example:
 | hataraku onii-san | 打工小哥 |  |  |
 | tomica kizuna gattai earth granner | 极速牵绊 地球先锋队 |  | [维基百科](https://zh.wikipedia.org/zh/Tomica_Earth_Granner_地球防衛隊) |
 | netojuu no susume | 网络胜利组 | 辞掉工作成为尼特族的`moriko morioka`，因原本游玩的线上游戏停止营运，而后在新找到的线上游戏“Fruits de Mer”中遇见了化身为“`lily`”的`yuuta sakurai`，故事从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/网络胜利组) [维基百科](https://zh.wikipedia.org/zh/網路勝利組) |
+| futari wa pretty cure | 光之美少女 |  | [维基百科](https://zh.wikipedia.org/wiki/光之美少女#光之美少女（Precure）) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
