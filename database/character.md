@@ -4186,6 +4186,7 @@ example:
 | xing cai | 星彩 |  |  |
 | zhen ji | 甄姬 |  |  |
 | moriko morioka | 盛冈森子 | `p:netojuu no susume`的女主角，30岁的家里蹲。<br>![](https://static.wikia.nocookie.net/netoju/images/5/59/Mm.jpg) | [萌娘百科](https://zh.moegirl.org.cn/盛冈森子) [Fandom](https://netoju.fandom.com/wiki/Moriko_Morioka) |
+| yuuta sakurai | 樱井优太 | `p:netojuu no susume`的男主角，金发碧眼的英国混血儿，在梅崎商事工作的精英。<br>![](https://static.wikia.nocookie.net/netoju/images/a/ae/Chara_body02.png) | [Fandom](https://netoju.fandom.com/wiki/Yuuta_Sakurai) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
