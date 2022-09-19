@@ -4189,6 +4189,7 @@ example:
 | yuuta sakurai | 樱井优太 | `p:netojuu no susume`的男主角，金发碧眼的英国混血儿，在梅崎商事工作的精英。<br>![](https://static.wikia.nocookie.net/netoju/images/a/ae/Chara_body02.png) | [Fandom](https://netoju.fandom.com/wiki/Yuuta_Sakurai) |
 | lily | 莉莉 | 所属作品: `p:netojuu no susume`<br>`moriko morioka`在游戏中的角色，蓝发蓝瞳的骑士，被戏称「残念系帅哥」，在公会里因紫丁香谣传，被认为是正在找工作的大学生。在公会队伍里担任主坦。 | [Fandom](https://netoju.fandom.com/wiki/Lily) |
 | hinata kuraue | 仓上日向 | 所属作品: `p:yama no susume` | [萌娘百科](https://zh.moegirl.org.cn/仓上日向) |
+| aoi yukimura | 雪村葵 | 所属作品: `p:yama no susume` | [萌娘百科](https://zh.moegirl.org.cn/zh/雪村葵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
