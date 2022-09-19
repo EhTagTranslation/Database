@@ -2015,6 +2015,7 @@ example:
 | burn the witch | 龙与魔女（BURN THE WITCH） | ![](https://cdn.myanimelist.net/images/anime/1993/108967l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/BURN_THE_WITCH) |
 | hataraku onii-san | 打工小哥 |  |  |
 | tomica kizuna gattai earth granner | 极速牵绊 地球先锋队 |  | [维基百科](https://zh.wikipedia.org/zh/Tomica_Earth_Granner_地球防衛隊) |
+| netojuu no susume | 网络胜利组 | 辞掉工作成为尼特族的`moriko morioka`，因原本游玩的线上游戏停止营运，而后在新找到的线上游戏“Fruits de Mer”中遇见了化身为“`lily`”的`yuuta sakurai`，故事从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/网络胜利组) [维基百科](https://zh.wikipedia.org/zh/網路勝利組) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
