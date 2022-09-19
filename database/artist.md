@@ -12190,6 +12190,7 @@ example:
 | okabe gyoza | 尾壁餃子 |  | [pixiv](https://www.pixiv.net/users/17751739) [Twitter](https://twitter.com/okabe_gyoza) |
 | shizuhime | 静姬 |  |  |
 | kagawa yusaku | 香川悠作 |  | [pixiv](https://www.pixiv.net/users/15845619) [Twitter](https://twitter.com/kagawayusaku) |
+| daito | daito |  | [pixiv](https://www.pixiv.net/users/901354) [Twitter](https://twitter.com/daito2141) |
 
 <!--TEMPLATE:
 |  |  |  |  |
