@@ -2017,6 +2017,7 @@ example:
 | tomica kizuna gattai earth granner | 极速牵绊 地球先锋队 |  | [维基百科](https://zh.wikipedia.org/zh/Tomica_Earth_Granner_地球防衛隊) |
 | netojuu no susume | 网络胜利组 | 辞掉工作成为尼特族的`moriko morioka`，因原本游玩的线上游戏停止营运，而后在新找到的线上游戏“Fruits de Mer”中遇见了化身为“`lily`”的`yuuta sakurai`，故事从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/网络胜利组) [维基百科](https://zh.wikipedia.org/zh/網路勝利組) |
 | futari wa pretty cure | 光之美少女 |  | [维基百科](https://zh.wikipedia.org/wiki/光之美少女#光之美少女（Precure）) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
+| camp buddy | Camp Buddy | Camp Buddy，非官方译名为露营伙伴、露营好基友等，是由插画师`mikkoukun`担任主创、BLits Games开发制作的一款18禁BL恋爱冒险游戏，于2018年11月11日在BLits官网线上发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Camp_Buddy) [Fandom](https://campbuddy.fandom.com/wiki/Camp_Buddy_Wiki) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
