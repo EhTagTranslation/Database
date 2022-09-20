@@ -12191,6 +12191,7 @@ example:
 | shizuhime | 静姬 |  |  |
 | kagawa yusaku | 香川悠作 |  | [pixiv](https://www.pixiv.net/users/15845619) [Twitter](https://twitter.com/kagawayusaku) |
 | daito | daito |  | [pixiv](https://www.pixiv.net/users/901354) [Twitter](https://twitter.com/daito2141) |
+| nakamura asumiko | 中村明日美子 |  | [维基百科](https://zh.wikipedia.org/wiki/中村明日美子) [Twitter](https://twitter.com/asmk_gengaten) |
 
 <!--TEMPLATE:
 |  |  |  |  |
