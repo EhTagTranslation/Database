@@ -12478,6 +12478,7 @@ example:
 | damenahidou | だめなひ堂 |  |  |
 | petanko bokujo | ぺたんこ牧場 |  |  |
 | chanbara kishidan | ちゃんばら騎士団 |  |  |
+| gensou kagetourou | 幻想影燈籠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
