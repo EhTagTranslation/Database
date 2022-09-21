@@ -68,7 +68,7 @@ example:
 | siao ding | 小丁 |  |  |
 | franxcos | FranXcos |  |  |
 | junkenstein | Junkenstein |  | [patreon](ttps://www.patreon.com/junkenstein) [Instagram](https://www.instagram.com/junkenstein/) |
-| helly von valentine | Helly von Valentine |  |  |
+| helly von valentine | Helly von Valentine |  | [Twitter](https://twitter.com/hellyvalentine_) |
 | penkarui | Penkarui |  |  |
 | mizhimaoqiu | 蜜汁猫裘 |  | [Twitter](https://mobile.twitter.com/meeu228744495) |
 | refeen | Refeen |  |  |
