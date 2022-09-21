@@ -4193,6 +4193,7 @@ example:
 | furen e lustario | 芙莲·E·露丝塔莉欧 | 芙莲·E·露丝塔莉欧（日语：フレン·E·ルスタリオ）是隶属于`p:nijisanji`的虚拟YouTuber。<br>![](https://pbs.twimg.com/media/EmJtw3UVMAUVAeJ.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芙莲·E·露丝塔莉欧) [wikiwiki](https://wikiwiki.jp/nijisanji/フレン・E・ルスタリオ) [Fandom](https://virtualyoutuber.fandom.com/wiki/Furen_E_Lustario) |
 | nui sociere | 纽伊·索西艾瑞 | 纽伊·索西艾瑞 （ 日语：ニュイ・ソシエール / Nui Sociere ）是一名从2019年6月25日在YouTube开始活动的VTuber，所属业界团体`p:nijisanji`的成员。<br>![](https://pbs.twimg.com/media/EjFXAEoUcAAwxQT.png) | [萌娘百科](https://zh.moegirl.org.cn/纽伊·索西艾瑞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Nui_Sociere) |
 | yachiru kusajishi | 草鹿八千流 |  |  |
+| kagura nana | 神楽七奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/52/Kagura_Nana_-_Full_Illustration.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神乐七奈) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kagura_Nana) [holowiki](https://hololive.wiki/wiki/Kagura_Nana) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
