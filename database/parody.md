@@ -2020,6 +2020,7 @@ example:
 | camp buddy | Camp Buddy | Camp Buddy，非官方译名为露营伙伴、露营好基友等，是由插画师`mikkoukun`担任主创、BLits Games开发制作的一款18禁BL恋爱冒险游戏，于2018年11月11日在BLits官网线上发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Camp_Buddy) [Fandom](https://campbuddy.fandom.com/wiki/Camp_Buddy_Wiki) |
 | eto rangers | 十二生肖守护神 |  | [维基百科](https://zh.wikipedia.org/wiki/十二生肖爆烈戰士) [萌娘百科](https://zh.moegirl.org.cn/十二生肖守护神) |
 | mob psycho 100 | 灵能百分百（路人超能100） | 《一拳超人》原作者ONE的另一部漫画作品。 | [萌娘百科](https://zh.moegirl.org.cn/灵能百分百) [维基百科](https://zh.wikipedia.org/wiki/路人超能100) |
+| space pirate captain harlock | 宇宙海贼哈洛克船长 | 《宇宙海贼哈洛克船长》（宇宙海賊キャプテンハーロック，Uchū Kaizoku Kyaputen Hārokku）为日本漫画，作者松本零士以无法者哈洛克船长为主角，在秋田书店《Play Comic》上从1977年到1979年连载。TV动画于1978年经林太郎执导播出。2013年，同名CG电影《宇宙海贼哈洛克》播出。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙海贼哈洛克船长) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
