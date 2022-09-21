@@ -4194,6 +4194,7 @@ example:
 | nui sociere | 纽伊·索西艾瑞 | 纽伊·索西艾瑞 （ 日语：ニュイ・ソシエール / Nui Sociere ）是一名从2019年6月25日在YouTube开始活动的VTuber，所属业界团体`p:nijisanji`的成员。<br>![](https://pbs.twimg.com/media/EjFXAEoUcAAwxQT.png) | [萌娘百科](https://zh.moegirl.org.cn/纽伊·索西艾瑞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Nui_Sociere) |
 | yachiru kusajishi | 草鹿八千流 |  |  |
 | kagura nana | 神楽七奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/52/Kagura_Nana_-_Full_Illustration.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神乐七奈) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kagura_Nana) [holowiki](https://hololive.wiki/wiki/Kagura_Nana) |
+| arlecchino | 「仆人」阿蕾奇诺 |  | [萌娘百科](https://zh.moegirl.org.cn/阿蕾奇诺) [Fandom](https://genshin-impact.fandom.com/wiki/Arlecchino) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
