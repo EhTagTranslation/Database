@@ -12195,6 +12195,7 @@ example:
 | muto | 醤油エビ | MuTo | [pixiv](https://www.pixiv.net/users/2038483) |
 | dokuneko noil | 毒猫ノイル |  | [pixiv](https://www.pixiv.net/users/54146934) [Twitter](https://twitter.com/noil_poisoncat) |
 | urabe katsuto | 浦辺克斗 |  | [pixiv](https://www.pixiv.net/users/16330) [Twitter](https://twitter.com/urabecat) [hp](https://urabecat.wixsite.com/cut-works) |
+| minakami rin | ミナカミ |  | [pixiv](https://www.pixiv.net/users/2428828) [Twitter](https://twitter.com/minakamiyoshi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
