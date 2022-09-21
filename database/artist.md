@@ -12194,6 +12194,7 @@ example:
 | nakamura asumiko | 中村明日美子 |  | [维基百科](https://zh.wikipedia.org/wiki/中村明日美子) [Twitter](https://twitter.com/asmk_gengaten) |
 | muto | 醤油エビ | MuTo | [pixiv](https://www.pixiv.net/users/2038483) |
 | dokuneko noil | 毒猫ノイル |  | [pixiv](https://www.pixiv.net/users/54146934) [Twitter](https://twitter.com/noil_poisoncat) |
+| urabe katsuto | 浦辺克斗 |  | [pixiv](https://www.pixiv.net/users/16330) [Twitter](https://twitter.com/urabecat) [hp](https://urabecat.wixsite.com/cut-works) |
 
 <!--TEMPLATE:
 |  |  |  |  |
