@@ -12197,6 +12197,7 @@ example:
 | urabe katsuto | 浦辺克斗 |  | [pixiv](https://www.pixiv.net/users/16330) [Twitter](https://twitter.com/urabecat) [hp](https://urabecat.wixsite.com/cut-works) |
 | minakami rin | ミナカミ |  | [pixiv](https://www.pixiv.net/users/2428828) [Twitter](https://twitter.com/minakamiyoshi) |
 | koyomania | Koyomania |  | [pixiv](https://www.pixiv.net/users/2578179) [Twitter](https://twitter.com/Koyomania) [Twitter](https://twitter.com/ainamoyoK) |
+| magowasabi | magowasabi |  | [Twitter](https://twitter.com/magowasabi) [pixiv](https://www.pixiv.net/users/53491200) |
 
 <!--TEMPLATE:
 |  |  |  |  |
