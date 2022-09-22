@@ -155,6 +155,7 @@ example:
 | rosario vampire | 十字架与吸血鬼 | 漫画，不了解<br>![图](# "https://ehgt.org/97/ac/97ac8a9ab8bcf27c7a09ca6eee1c335bc81ba152-330768-607-850-jpg_l.jpg")![图](# "https://ehgt.org/eb/f5/ebf5c1def8cc83506b28dc3244b6189e4aff0519-379951-1072-1500-jpg_l.jpg") |  |
 |  | ▼ 光美大军 |  |  |
 | pretty cure | 光之美少女 | 光之美少女系列的统称<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
+| futari wa pretty cure | 光之美少女 | 《光之美少女系列》的第一作，属第一代光之美少女。 | [维基百科](https://zh.wikipedia.org/wiki/光之美少女) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
 | futari wa precure splash star | 光之美少女Splash Star | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | yes precure 5 | Yes! 光之美少女5 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
 | fresh precure | Fresh 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
@@ -2016,10 +2017,9 @@ example:
 | hataraku onii-san | 打工小哥 |  |  |
 | tomica kizuna gattai earth granner | 极速牵绊 地球先锋队 |  | [维基百科](https://zh.wikipedia.org/zh/Tomica_Earth_Granner_地球防衛隊) |
 | netojuu no susume | 网络胜利组 | 辞掉工作成为尼特族的`moriko morioka`，因原本游玩的线上游戏停止营运，而后在新找到的线上游戏“Fruits de Mer”中遇见了化身为“`lily`”的`yuuta sakurai`，故事从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/网络胜利组) [维基百科](https://zh.wikipedia.org/zh/網路勝利組) |
-| futari wa pretty cure | 光之美少女 |  | [维基百科](https://zh.wikipedia.org/wiki/光之美少女#光之美少女（Precure）) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
 | camp buddy | Camp Buddy | Camp Buddy，非官方译名为露营伙伴、露营好基友等，是由插画师`mikkoukun`担任主创、BLits Games开发制作的一款18禁BL恋爱冒险游戏，于2018年11月11日在BLits官网线上发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Camp_Buddy) [Fandom](https://campbuddy.fandom.com/wiki/Camp_Buddy_Wiki) |
 | eto rangers | 十二生肖守护神 |  | [维基百科](https://zh.wikipedia.org/wiki/十二生肖爆烈戰士) [萌娘百科](https://zh.moegirl.org.cn/十二生肖守护神) |
-| mob psycho 100 | 灵能百分百（路人超能100） | 《一拳超人》原作者ONE的另一部漫画作品。 | [萌娘百科](https://zh.moegirl.org.cn/灵能百分百) [维基百科](https://zh.wikipedia.org/wiki/路人超能100) |
+| mob psycho 100 | 灵能百分百 | 《一拳超人》原作者ONE的另一部漫画作品。 | [萌娘百科](https://zh.moegirl.org.cn/灵能百分百) [维基百科](https://zh.wikipedia.org/wiki/路人超能100) |
 | space pirate captain harlock | 宇宙海贼哈洛克船长 | 《宇宙海贼哈洛克船长》（宇宙海賊キャプテンハーロック，Uchū Kaizoku Kyaputen Hārokku）为日本漫画，作者松本零士以无法者哈洛克船长为主角，在秋田书店《Play Comic》上从1977年到1979年连载。TV动画于1978年经林太郎执导播出。2013年，同名CG电影《宇宙海贼哈洛克》播出。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙海贼哈洛克船长) |
 
 <!--TEMPLATE: 

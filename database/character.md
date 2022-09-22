@@ -4193,9 +4193,9 @@ example:
 | furen e lustario | 芙莲·E·露丝塔莉欧 | 芙莲·E·露丝塔莉欧（日语：フレン·E·ルスタリオ）是隶属于`p:nijisanji`的虚拟YouTuber。<br>![](https://pbs.twimg.com/media/EmJtw3UVMAUVAeJ.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芙莲·E·露丝塔莉欧) [wikiwiki](https://wikiwiki.jp/nijisanji/フレン・E・ルスタリオ) [Fandom](https://virtualyoutuber.fandom.com/wiki/Furen_E_Lustario) |
 | nui sociere | 纽伊·索西艾瑞 | 纽伊·索西艾瑞 （ 日语：ニュイ・ソシエール / Nui Sociere ）是一名从2019年6月25日在YouTube开始活动的VTuber，所属业界团体`p:nijisanji`的成员。<br>![](https://pbs.twimg.com/media/EjFXAEoUcAAwxQT.png) | [萌娘百科](https://zh.moegirl.org.cn/纽伊·索西艾瑞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Nui_Sociere) |
 | yachiru kusajishi | 草鹿八千流 |  |  |
-| kagura nana | 神楽七奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/52/Kagura_Nana_-_Full_Illustration.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神乐七奈) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kagura_Nana) [holowiki](https://hololive.wiki/wiki/Kagura_Nana) |
+| kagura nana | 神乐七奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/52/Kagura_Nana_-_Full_Illustration.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神乐七奈) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kagura_Nana) [holowiki](https://hololive.wiki/wiki/Kagura_Nana) |
 | arlecchino | 「仆人」阿蕾奇诺 |  | [萌娘百科](https://zh.moegirl.org.cn/阿蕾奇诺) [Fandom](https://genshin-impact.fandom.com/wiki/Arlecchino) |
-| platinum the trinity | 白金・崔妮蒂 | 所属作品: `p:blazblue`<br>![](https://static.wikia.nocookie.net/blazblue/images/5/59/Platinum_the_Trinity_%28Centralfiction%2C_Character_Select_Artwork%29.png) | [维基百科](https://zh.wikipedia.org/zh/蒼翼默示錄系列) [Fandom](https://blazblue.fandom.com/wiki/Platinum_the_Trinity) |
+| platinum the trinity | 白金·崔妮蒂 | 所属作品: `p:blazblue`<br>![](https://static.wikia.nocookie.net/blazblue/images/5/59/Platinum_the_Trinity_%28Centralfiction%2C_Character_Select_Artwork%29.png) | [维基百科](https://zh.wikipedia.org/zh/蒼翼默示錄系列) [Fandom](https://blazblue.fandom.com/wiki/Platinum_the_Trinity) |
 | marta lualdi | 玛尔塔·路亚蒂 | 仙乐传说-拉塔特斯克的骑士-的女主角。青蓝色眼睛，栗子色长发，头上左右各有一个白花发饰。<br>![](https://static.wikia.nocookie.net/aselia/images/d/d1/Marta_Status_%28DotNW%29.jpg) | [Fandom](https://aselia.fandom.com/wiki/Marta_Lualdi) |
 
 <!--TEMPLATE: 
