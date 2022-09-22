@@ -123,7 +123,7 @@ example:
 | shinokawa arumi | 篠川あるみ |  | [Twitter](https://twitter.com/sasakawa_arumi) |
 | ichio | イチオ |  | [Twitter](https://twitter.com/ichio_x) [pixiv](https://www.pixiv.net/users/18121) |
 | shimada fumikane | 岛田文金 | 岛田文金（日语：島田フミカネ，1974年1月26日－），是日本的萌系插画家，主打兵器娘类之图，代表作有メカ娘、武装神姬（第一弹、第八弹）、天翔少女和Strike Witches的设定等。其笔名来自于文金高岛田。<br>岛田文金的兵器娘，常常就如Strike Witches的魔女们一样，上半身穿着较为正常，而下半身却穿着低衩内裤等服装。<br>![岛田文金Twitter头像](https://i.jpg.dog/file/jpg-dog/f1092402bc5f1b39cc1f99a445151807.jpg) | [Twitter](https://twitter.com/humikane) [个人网站](http://www.ne.jp/asahi/humikane/e-wacs) [中文维基](https://zh.wikipedia.org/wiki/島田文金) |
-| ryohka | 凉香 | 凉香（Ryohka，2月6日－）是日本女性插画家。神奈川县横滨市出身。主要担当十八禁美少女游戏的原画和人物设计等工作。 | [Twitter](https://twitter.com/ryohka_jp) [pixiv](https://www.pixiv.net/users/10054355) [个人网站](https://ryohka.tuna.be/) [中文维基](https://zh.wikipedia.org/wiki/涼香) |
+| ryohka | 涼香 | 涼香（Ryohka，2月6日－）是日本女性插画家。神奈川县横滨市出身。主要担当十八禁美少女游戏的原画和人物设计等工作。 | [Twitter](https://twitter.com/ryohka_jp) [pixiv](https://www.pixiv.net/users/10054355) [个人网站](https://ryohka.tuna.be/) [中文维基](https://zh.wikipedia.org/wiki/涼香) |
 | shinkai makoto | 新海诚 | 新海诚（日语：新海 誠／しんかい まこと Shinkai Makoto，1973年2月9日－），本名新津诚（新津 誠／にいつ まこと Niitsu Makoto），为日本动画作家和电影导演，长野县南佐久郡小海町出身，现居东京。于2002年公开独立制作的动画短片《星之声》后开始受到瞩目。 | [Twitter](https://twitter.com/shinkaimakoto) [个人网站](http://shinkaimakoto.jp) [中文维基](https://zh.wikipedia.org/wiki/新海誠) |
 | benet | ベネット | 所属[膝上5センチメートル]社团的ベネット | [Twitter](https://twitter.com/benet_rn) [pixiv](https://www.pixiv.net/users/143220) |
 | ponpon | ぽんぽん | ![ぽんぽん头像](https://i.jpg.dog/file/jpg-dog/d8d3ea3041843e34f154b24903a10736.jpg) | [Twitter](https://twitter.com/ponpon9020) [pixiv](https://www.pixiv.net/users/2470002) |
