@@ -4195,6 +4195,7 @@ example:
 | yachiru kusajishi | 草鹿八千流 |  |  |
 | kagura nana | 神楽七奈 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/52/Kagura_Nana_-_Full_Illustration.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神乐七奈) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kagura_Nana) [holowiki](https://hololive.wiki/wiki/Kagura_Nana) |
 | arlecchino | 「仆人」阿蕾奇诺 |  | [萌娘百科](https://zh.moegirl.org.cn/阿蕾奇诺) [Fandom](https://genshin-impact.fandom.com/wiki/Arlecchino) |
+| platinum the trinity | 白金・崔妮蒂 | 所属作品: `p:blazblue`<br>![](https://static.wikia.nocookie.net/blazblue/images/5/59/Platinum_the_Trinity_%28Centralfiction%2C_Character_Select_Artwork%29.png) | [维基百科](https://zh.wikipedia.org/zh/蒼翼默示錄系列) [Fandom](https://blazblue.fandom.com/wiki/Platinum_the_Trinity) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
