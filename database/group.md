@@ -12480,6 +12480,7 @@ example:
 | chanbara kishidan | ちゃんばら騎士団 |  |  |
 | gensou kagetourou | 幻想影燈籠 |  |  |
 | chou rojiura gasshuukoku | 超路地裏合衆国 |  | [booth](https://superbackstates.booth.pm/) |
+| random footwork | ランダムフットワーク |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
