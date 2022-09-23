@@ -4200,6 +4200,7 @@ example:
 | asuka katou | 加藤明日香 |  |  |
 | august von parseval | 奥古斯特·冯·帕塞瓦尔 | ![](https://i.pixiv.cat/img-master/img/2021/08/04/00/15/32/91710400_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/碧蓝航线:奥古斯特·冯·帕塞瓦尔) |
 | shinn asuka | 真·飞鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/真·飞鸟) [Fandom](https://gundam.fandom.com/wiki/Shinn_Asuka) |
+| yuzuki seo | 濑尾结月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
