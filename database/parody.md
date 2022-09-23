@@ -2021,6 +2021,7 @@ example:
 | eto rangers | 十二生肖守护神 |  | [维基百科](https://zh.wikipedia.org/wiki/十二生肖爆烈戰士) [萌娘百科](https://zh.moegirl.org.cn/十二生肖守护神) |
 | mob psycho 100 | 灵能百分百 | 《一拳超人》原作者ONE的另一部漫画作品。 | [萌娘百科](https://zh.moegirl.org.cn/灵能百分百) [维基百科](https://zh.wikipedia.org/wiki/路人超能100) |
 | space pirate captain harlock | 宇宙海贼哈洛克船长 | 《宇宙海贼哈洛克船长》（宇宙海賊キャプテンハーロック，Uchū Kaizoku Kyaputen Hārokku）为日本漫画，作者松本零士以无法者哈洛克船长为主角，在秋田书店《Play Comic》上从1977年到1979年连载。TV动画于1978年经林太郎执导播出。2013年，同名CG电影《宇宙海贼哈洛克》播出。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙海贼哈洛克船长) |
+| devil survivor 2 | 恶魔幸存者2 | 《恶魔幸存者2》（日语：デビルサバイバー2；英语：Shin Megami Tensei: Devil Survivor 2）是日本会社Atlus为Nintendo DS开发及发行的细规模战棋角色扮演游戏。日文的标题与前作《女神异闻录 恶魔幸存者》不同，不再带有“女神异闻录”一词。 | [萌娘百科](https://zh.moegirl.org.cn/zh/恶魔幸存者2) [维基百科](https://zh.wikipedia.org/wiki/惡魔倖存者2) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
