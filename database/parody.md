@@ -1291,7 +1291,7 @@ example:
 | z slash x | Z/X |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Z/X) |
 | shin angyo onshi | 新暗行御史 | 《新暗行御史》（日语：新暗行御史／しんあんぎょおんし Shin Angyo Onshi；韩文：신암행어사，罗马字：Sin amhaeng eosa；英语：Blade of the Phantom Master）是由韩国漫画原作者尹仁完编写、韩国漫画家梁庆一作画的一部青年漫画，在2001年至2007年于小学馆青年漫画杂志《月刊SUNDAY GENE-X》连载完毕。其内容均为虚构，但里面多有涉及朝鲜半岛的历史和传说。在日韩与华人区均有人气。标题中的“暗行御史”（韩文：암행어사）是朝鲜王朝实际存在的一个特别的官职。 | [维基百科](https://zh.wikipedia.org/zh-cn/新暗行御史) (\*) |
 | kouchuu ouja mushiking | 甲虫王者 | 《甲虫王者》是款日本电子游戏，后来被改编为电视动画《甲虫王者 森林居民的传说》（甲虫王者ムシキング 森の民の伝説）及剧场版二套。分别是《甲虫王者 迈向伟大的三冠王之路》（甲虫王者ムシキング グレイテストチャンピオンへの道）和《甲虫王者 〜暗黑改造甲虫〜》（甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜）。 | [维基百科](https://zh.wikipedia.org/zh-cn/甲蟲王者) (\*) |
-| darling in the franxx | DARLING in the FRANXX | 《DARLING in the FRANXX》（日语：ダーリン・イン・ザ・フランキス）是由TRIGGER和A-1 Pictures共同制作的日本原创机器人动画作品，于2017年7月在Anime Expo公布作品消息，于2018年1月13日起东京都会电视台首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/DARLING_in_the_FRANXX) (\*) |
+| darling in the franxx | DARLING in the FRANXX | 《DARLING in the FRANXX》也译作比翼之吻（日语：ダーリン・イン・ザ・フランキス）是由TRIGGER和A-1 Pictures共同制作的日本原创机器人动画作品，2018年1月13日起东京都会电视台首播。<br>![](https://pbs.twimg.com/media/D1hhojQUwAACT_R?format=jpg) | [维基百科](https://zh.wikipedia.org/zh-cn/DARLING_in_the_FRANXX) (\*) |
 | fairy fencer f | 妖精剑士f | 《妖精剑士f》（日语：フェアリーフェンサー エフ，英语：Fairy Fencer F）是Compile Heart旗下电子角色扮演游戏品牌“Galapagos”的第一款作品，最初于2013年发售。邪神设计由天野喜孝负责，女神设计由平野克幸负责，角色设计由つなこ负责。 | [维基百科](https://zh.wikipedia.org/zh-cn/妖精劍士f) (\*) |
 | honkai gakuen | 崩坏学园 |  | [维基百科](https://zh.wikipedia.org/zh-cn/崩壞3rd) |
 | quiz magic academy | 问答魔法学院 | 《问答魔法学院》（日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。 | [维基百科](https://zh.wikipedia.org/zh-hans/問答魔法學院) (\*) |
