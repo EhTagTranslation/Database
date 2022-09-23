@@ -12198,7 +12198,7 @@ example:
 | minakami rin | ミナカミ |  | [pixiv](https://www.pixiv.net/users/2428828) [Twitter](https://twitter.com/minakamiyoshi) |
 | koyomania | Koyomania |  | [pixiv](https://www.pixiv.net/users/2578179) [Twitter](https://twitter.com/Koyomania) [Twitter](https://twitter.com/ainamoyoK) |
 | magowasabi | magowasabi |  | [Twitter](https://twitter.com/magowasabi) [pixiv](https://www.pixiv.net/users/53491200) |
-| kurigami | kurigamiin |  | [pixiv](https://www.pixiv.net/users/35457154) [Twitter](https://twitter.com/kuri_gami) |
+| kurigami | kurigamiin | R18 Yuri(♀️x♀️) Illustrator | [pixiv](https://www.pixiv.net/users/35457154) [Twitter](https://twitter.com/kuri_gami) |
 
 <!--TEMPLATE:
 |  |  |  |  |
