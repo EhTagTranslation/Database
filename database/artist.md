@@ -3034,7 +3034,7 @@ example:
 | momonosukebe | 腿之助兵卫 | 腿之助兵衛 | [pixiv](https://www.pixiv.net/users/41396497) |
 | torichamaru | 鸟茶丸 | 鳥茶丸 | [pixiv](https://www.pixiv.net/users/356490) [Twitter](https://twitter.com/toricha_maru) |
 | uonome beji | 魚目ベジ |  |  |
-| j-kisarazu | JK更津 |  |  |
+| j-kisarazu | JK更津 |  | [pixiv](https://www.pixiv.net/users/1586700) [Twitter](https://twitter.com/jksddm) |
 | greco roman | 暮古浪漫 |  |  |
 | shugao | しゅがお | ![しゅがお头像](https://i.loli.net/2021/01/29/a3rWBlUFCORE7Ln.jpg) | [Twitter](https://twitter.com/haru_sugar02) [pixiv](https://www.pixiv.net/users/612602) |
 | andoryu | 安堂流 |  | [Twitter](https://twitter.com/andrew_andoryu) [pixiv](https://www.pixiv.net/users/14880747) |
