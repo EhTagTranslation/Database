@@ -12482,6 +12482,7 @@ example:
 | chou rojiura gasshuukoku | 超路地裏合衆国 |  | [booth](https://superbackstates.booth.pm/) |
 | random footwork | ランダムフットワーク |  |  |
 | chabatake ni haeta takenoko | 茶畑に生えた筍 |  |  |
+| mizuyakinko | 水屋金库 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
