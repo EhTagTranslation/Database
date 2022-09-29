@@ -4202,6 +4202,7 @@ example:
 | shinn asuka | 真·飞鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/真·飞鸟) [Fandom](https://gundam.fandom.com/wiki/Shinn_Asuka) |
 | yuzuki seo | 濑尾结月 |  |  |
 | saki yoshida | 吉田咲 |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) |
+| nahida | 纳西妲 | 纳西妲是由miHoYo创作的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/纳西妲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
