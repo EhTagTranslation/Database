@@ -2024,6 +2024,7 @@ example:
 | devil survivor 2 | 恶魔幸存者2 | 《恶魔幸存者2》（日语：デビルサバイバー2；英语：Shin Megami Tensei: Devil Survivor 2）是日本会社Atlus为Nintendo DS开发及发行的细规模战棋角色扮演游戏。日文的标题与前作《女神异闻录 恶魔幸存者》不同，不再带有“女神异闻录”一词。 | [萌娘百科](https://zh.moegirl.org.cn/zh/恶魔幸存者2) [维基百科](https://zh.wikipedia.org/wiki/惡魔倖存者2) |
 | henshin | 变身-emergence- |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) [维基百科](https://zh.wikipedia.org/wiki/變身_%28漫畫%29) |
 | magika no kenshi to basileus | 魔技科的剑士与召唤魔王 |  | [维基百科](https://zh.wikipedia.org/wiki/魔技科的劍士與召喚魔王) |
+| aragami | 荒神 | ![](https://p.sda1.dev/7/c30ca40aaad814798684c8ba13bf3613/image.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Aragami_%28video_game%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
