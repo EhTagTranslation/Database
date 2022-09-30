@@ -2676,7 +2676,7 @@ example:
 | senritsu no tatsumaki | 战栗的龙卷 |  |  |
 | tights brief | 塔依丝 |  |  |
 | hugo | 雨果 |  |  |
-| nel zelpher | 妮露 |  |  |
+| nel zelpher | 奈露 |  |  |
 | sadi-chan | 小萨蒂 |  |  |
 | mina ashido | 芦户三奈 |  |  |
 | rebecca | 蕾贝卡 |  |  |
