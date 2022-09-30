@@ -12201,6 +12201,7 @@ example:
 | kurigami | kurigamiin | R18 Yuri(♀️x♀️) Illustrator | [pixiv](https://www.pixiv.net/users/35457154) [Twitter](https://twitter.com/kuri_gami) |
 | renetan | レネタン |  | [pixiv](https://www.pixiv.net/users/47662894) [Twitter](https://twitter.com/JunkIMG) |
 | hi | Hi |  | [pixiv](https://www.pixiv.net/users/32041146) [Twitter](https://twitter.com/bigfootlalafell) |
+| kitsune choukan | きつね長官 |  | [pixiv](https://www.pixiv.net/users/2839983) [Twitter](https://twitter.com/fox_secretary) |
 
 <!--TEMPLATE:
 |  |  |  |  |
