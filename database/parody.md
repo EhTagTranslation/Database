@@ -2023,6 +2023,7 @@ example:
 | space pirate captain harlock | 宇宙海贼哈洛克船长 | 《宇宙海贼哈洛克船长》（宇宙海賊キャプテンハーロック，Uchū Kaizoku Kyaputen Hārokku）为日本漫画，作者松本零士以无法者哈洛克船长为主角，在秋田书店《Play Comic》上从1977年到1979年连载。TV动画于1978年经林太郎执导播出。2013年，同名CG电影《宇宙海贼哈洛克》播出。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙海贼哈洛克船长) |
 | devil survivor 2 | 恶魔幸存者2 | 《恶魔幸存者2》（日语：デビルサバイバー2；英语：Shin Megami Tensei: Devil Survivor 2）是日本会社Atlus为Nintendo DS开发及发行的细规模战棋角色扮演游戏。日文的标题与前作《女神异闻录 恶魔幸存者》不同，不再带有“女神异闻录”一词。 | [萌娘百科](https://zh.moegirl.org.cn/zh/恶魔幸存者2) [维基百科](https://zh.wikipedia.org/wiki/惡魔倖存者2) |
 | henshin | 变身-emergence- |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) [维基百科](https://zh.wikipedia.org/wiki/變身_%28漫畫%29) |
+| magika no kenshi to basileus | 魔技科的剑士与召唤魔王 |  | [维基百科](https://zh.wikipedia.org/wiki/魔技科的劍士與召喚魔王) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
