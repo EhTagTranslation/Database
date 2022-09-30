@@ -4205,6 +4205,7 @@ example:
 | nahida | 纳西妲 | 纳西妲是由miHoYo创作的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/纳西妲) |
 | mitsuru kirijo | 桐条美鹤 |  |  |
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
+| kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
