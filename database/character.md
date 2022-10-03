@@ -4210,7 +4210,7 @@ example:
 | princess elsa | 艾莎公主 | 迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。 |  |
 | kristoff bjorgman | 克斯托夫 | 动画电影《冰雪奇缘》系列中的角色 |  |
 | athrun zala | 阿斯兰·萨拉 |  |  |
-| rey za burrel | 尼尔·乍·巴里路 |  |  |
+| rey za burrel | 雷·札·巴雷尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
