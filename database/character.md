@@ -4209,6 +4209,7 @@ example:
 | nilou | 妮露 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?curid=531593) |
 | princess elsa | 艾莎公主 | 迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。 |  |
 | kristoff bjorgman | 克斯托夫 | 动画电影《冰雪奇缘》系列中的角色 |  |
+| athrun zala | 阿斯兰·萨拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
