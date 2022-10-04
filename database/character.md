@@ -4213,6 +4213,7 @@ example:
 | rey za burrel | 雷·札·巴雷尔 |  |  |
 | mako hitachi | 常陆茉子 | 常陆茉子（日语：常陸 茉子（ひたち まこ））是柚子社所创作的美少女游戏《`senren banka`》的登场角色，女主角之一。<br>![](https://p.sda1.dev/7/a14c7942fad5735d97c89d2e6869c10f/480px-千恋万花_茉子A01_注意_1_.png) | [萌娘百科](https://zh.moegirl.org.cn/常陆茉子) |
 | yoshino tomotake | 朝武芳乃 | 朝武芳乃（日语：朝武 芳乃（ともたけ よしの））是柚子社所创作的美少女游戏《`senren banka`》的登场角色，女主角之一。<br>![](https://p.sda1.dev/7/d70f0e9d44baa758dc98f7eefd061c98/朝武芳乃_1_.JPG) | [萌娘百科](https://zh.moegirl.org.cn/朝武芳乃) |
+| lena liechtenauer | 蕾娜·列支敦瑙尔 | 蕾娜·列支敦瑙尔（日语：レナ・リヒテナウアー；英语/德语：Lena Liechtenauer）是柚子社所创作的美少女游戏《`senren banka`》的登场角色，女主角之一。<br>![](https://p.sda1.dev/7/f03379a0680f2a3272d0e4a45f2d86b3/蕾娜·莉希特娜瓦_1_.JPG) | [萌娘百科](https://zh.moegirl.org.cn/蕾娜·列支敦瑙尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
