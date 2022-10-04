@@ -12204,6 +12204,7 @@ example:
 | kitsune choukan | きつね長官 |  | [pixiv](https://www.pixiv.net/users/2839983) [Twitter](https://twitter.com/fox_secretary) |
 | kagura kurumi | 神楽くるみ |  | [pixiv](https://www.pixiv.net/users/1117949) [Twitter](https://twitter.com/kagurakurumi) [HP](https://kkurumi.wixsite.com/pinkhome) |
 | yaemugura | 八重葎 |  |  |
+| pottsness | pottsness |  | [Twitter](https://twitter.com/pottsness) [skeb](https://skeb.jp/@pottsness) |
 
 <!--TEMPLATE:
 |  |  |  |  |
