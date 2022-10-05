@@ -2025,6 +2025,7 @@ example:
 | henshin | 变身-emergence- |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) [维基百科](https://zh.wikipedia.org/wiki/變身_%28漫畫%29) |
 | magika no kenshi to basileus | 魔技科的剑士与召唤魔王 |  | [维基百科](https://zh.wikipedia.org/wiki/魔技科的劍士與召喚魔王) |
 | aragami | 荒神 | ![](https://p.sda1.dev/7/c30ca40aaad814798684c8ba13bf3613/image.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Aragami_%28video_game%29) |
+| owari no chronicle | 终焉的年代记 |  | [维基百科](https://zh.wikipedia.org/zh/終焉的年代記) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
