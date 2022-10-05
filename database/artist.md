@@ -12205,6 +12205,7 @@ example:
 | kagura kurumi | 神楽くるみ |  | [pixiv](https://www.pixiv.net/users/1117949) [Twitter](https://twitter.com/kagurakurumi) [HP](https://kkurumi.wixsite.com/pinkhome) |
 | yaemugura | 八重葎 |  |  |
 | pottsness | pottsness |  | [pixiv](https://www.pixiv.net/en/users/59336265) [Twitter](https://twitter.com/pottsness) [skeb](https://skeb.jp/@pottsness) |
+| kimyou chourui | 奇妙鸟类 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
