@@ -4217,6 +4217,7 @@ example:
 | tamaki tamada | 玉田环 |  |  |
 | shizuko hosomi | 细见静子 |  |  |
 | yagen toushirou | 药研藤四郎 |  |  |
+| shinano toushirou | 信浓藤四郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
