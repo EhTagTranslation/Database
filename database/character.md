@@ -4221,6 +4221,7 @@ example:
 | gotou toushirou | 后藤藤四郎 |  |  |
 | atsushi toushirou | 厚藤四郎 |  |  |
 | saniwa | 审神者 |  |  |
+| houchou toushirou | 包丁藤四郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
