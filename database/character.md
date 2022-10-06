@@ -4220,6 +4220,7 @@ example:
 | shinano toushirou | 信浓藤四郎 |  |  |
 | gotou toushirou | 后藤藤四郎 |  |  |
 | atsushi toushirou | 厚藤四郎 |  |  |
+| saniwa | 审神者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
