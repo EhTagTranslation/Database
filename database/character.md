@@ -4219,6 +4219,7 @@ example:
 | yagen toushirou | 药研藤四郎 |  |  |
 | shinano toushirou | 信浓藤四郎 |  |  |
 | gotou toushirou | 后藤藤四郎 |  |  |
+| atsushi toushirou | 厚藤四郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
