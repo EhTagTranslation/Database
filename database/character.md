@@ -4222,6 +4222,7 @@ example:
 | atsushi toushirou | 厚藤四郎 |  |  |
 | saniwa | 审神者 |  |  |
 | houchou toushirou | 包丁藤四郎 |  |  |
+| shokudaikiri mitsutada | 烛台切光忠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
