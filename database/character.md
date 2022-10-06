@@ -4223,6 +4223,7 @@ example:
 | saniwa | 审神者 |  |  |
 | houchou toushirou | 包丁藤四郎 |  |  |
 | shokudaikiri mitsutada | 烛台切光忠 |  |  |
+| horikawa kunihiro | 堀川国广 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
