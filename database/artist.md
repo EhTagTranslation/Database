@@ -12212,6 +12212,7 @@ example:
 | asaomi shimura | アサオミ志群 |  |  |
 | ooban yaki | 大伴ヤキ |  |  |
 | yoshida killy | 吉田Killy |  |  |
+| tou | トウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
