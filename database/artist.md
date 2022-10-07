@@ -12208,6 +12208,7 @@ example:
 | kimyou chourui | 奇妙鸟类 |  |  |
 | kawakami minoru | 川上稔 | 川上稔（1975年1月3日－）是日本轻小说作家和游戏开发者，出身于东京都。主要作品有`p:kyoukai senjou no horizon`和`p:owari no chronicle` | [维基百科](https://zh.wikipedia.org/zh/川上稔) |
 | omulet tomato | オムレットマト |  |  |
+| hyouta | 俵太 |  | [Pixiv](https://www.pixiv.net/users/12378747) |
 
 <!--TEMPLATE:
 |  |  |  |  |
