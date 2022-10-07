@@ -4224,6 +4224,7 @@ example:
 | houchou toushirou | 包丁藤四郎 |  |  |
 | shokudaikiri mitsutada | 烛台切光忠 |  |  |
 | horikawa kunihiro | 堀川国广 |  |  |
+| vajra | 瓦姬拉 | 碧蓝幻想中的角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
