@@ -12211,6 +12211,7 @@ example:
 | hyouta | 俵太 |  | [Pixiv](https://www.pixiv.net/users/12378747) |
 | asaomi shimura | アサオミ志群 |  |  |
 | ooban yaki | 大伴ヤキ |  |  |
+| yoshida killy | 吉田Killy |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
