@@ -3879,7 +3879,7 @@ example:
 | ajino | あじの |  |  |
 | ajoea | あじょぁ |  |  |
 | aju | アジュ |  |  |
-| aka | 亜果 |  |  |
+| aka | 亚果 |  |  |
 | aka marl | 赤Marl |  |  |
 | aka p | 赤P |  |  |
 | aka satanan | 赤さたなん |  |  |
