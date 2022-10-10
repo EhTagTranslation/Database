@@ -12213,6 +12213,7 @@ example:
 | ooban yaki | 大伴ヤキ |  |  |
 | yoshida killy | 吉田Killy |  |  |
 | tou | トウ |  |  |
+| natsusaka | 夏坂 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
