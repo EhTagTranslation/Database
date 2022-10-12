@@ -928,7 +928,7 @@ example:
 | hardboiled yoshiko | ハードボイルドよし子 |  |  |
 | hinahara emi | 雛原えみ |  |  |
 | hitori | 火鸟 |  |  |
-| karasuma yayoi | 烏丸やよい |  |  |
+| karasuma yayoi | 乌丸弥生 | ![twitter](https://pbs.twimg.com/profile_images/1542206326670970880/-EZ123Ts_400x400.jpg)<br><br>**作者推特头像**<br><br>女性同人社团`konoshiro shinko`主笔之一，<br>小学馆里Sunday《正后方的神威》 [HP](https://urasunday.com/title/1218) 连载中。 | [twitter](https://twitter.com/myayoi62) [pixiv](https://www.pixiv.net/users/987287) |
 | napata | なぱた |  | [Twitter](https://twitter.com/okawr) [pixiv](https://www.pixiv.net/users/6757) |
 | nokin | のきん |  |  |
 | savan | SAVAN |  |  |
