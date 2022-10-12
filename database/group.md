@@ -12483,6 +12483,7 @@ example:
 | random footwork | ランダムフットワーク |  |  |
 | chabatake ni haeta takenoko | 茶畑に生えた筍 |  |  |
 | mizuyakinko | 水屋金库 |  |  |
+| namagaki | 生牡蛎 | 画师`furatsu`所属同人社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
