@@ -2108,7 +2108,7 @@ example:
 | samurai ninja greentea | サムライ忍者GREENTEA |  |  |
 | alicesyndrome | AliceSyndrome\* |  |  |
 | uousaohkoku | 魚ウサ王国 |  |  |
-| konoshiro shinko | コノシロしんこ |  |  |
+| konoshiro shinko | コノシロしんこ | 由女性漫画家`karasuma yayoi`（主笔）和`yamagara tasuku`（原案、分镜）组成的同人社团。 | [YouTube](https://www.youtube.com/channel/UCgcFF8HoBgKQfKPgJk1FJaQ/featured) |
 | kansai orange | 関西オレンジ |  |  |
 | imomuya honpo | いもむや本舗 |  |  |
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
