@@ -2406,7 +2406,7 @@ example:
 | ryuuto hisashi | りゅうとひさし |  |  |
 | tamazatou | 玉砂糖 |  |  |
 | tanaka yuuichi | 田中雄一 | 日本男性动画师、人物设计师、演出家。代表作是担任人物设定和总作画监督的《魔法禁书目录》、《科学超电磁炮》。 |  |
-| nakamura kuzuyu | 中村葛湯 |  |  |
+| nakamura kuzuyu | 中村葛汤 | ![twitter](https://pbs.twimg.com/profile_images/1499362449765842956/SBwdjENJ_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/haisui) [HP](https://lit.link/en/nkmrQ) |
 | bekotarou | ベコ太郎 | 绘师。女性。 | [HP](http://hoobukuron.web.fc2.com/) [pixiv](https://www.pixiv.net/users/3345902) |
 | ayuma sayu | あゆま紗由 |  | [twitter](https://twitter.com/ayumasayun) [pixiv](https://www.pixiv.net/users/2473967) |
 | fumi miyabi | 文雅 |  |  |
