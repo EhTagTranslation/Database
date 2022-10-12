@@ -955,7 +955,7 @@ example:
 | cuvie | Cuvie |  |  |
 | hazuki yuto | 羽月ユウト |  |  |
 | hinasaki yo | 雏咲叶 |  | [Twitter](https://twitter.com/saicoro_chick) [pixiv](https://www.pixiv.net/users/71175) |
-| naruko | 鳴湖（平間ひろかず） |  |  |
+| naruko | 鸣湖（平间ひろかず） | ![twitter](https://pbs.twimg.com/profile_images/1570384028938940416/oYz6vpR9_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/haisui) [pixiv](https://www.pixiv.net/users/5090) |
 | hishigata tomaru | ひし形とまる |  |  |
 | mokufu | もくふう |  |  |
 | okumoto yuuta | オクモト悠太 |  |  |
