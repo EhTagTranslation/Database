@@ -939,7 +939,7 @@ example:
 | yahiro pochi | 八尋ぽち |  | [pixiv](https://www.pixiv.net/users/804550) |
 | yanyo | やんよ |  |  |
 | yuzuha | ユズハ |  |  |
-| yamagara tasuku | 山雀たすく |  |  |
+| yamagara tasuku | 山雀たすく | 同人社团`konoshiro shinko`所属画师，负责作品原案、分镜。 | [twitter](https://twitter.com/yamagara_tasuku) [pixiv](https://www.pixiv.net/users/218545) |
 | zumikuni | ズミクニ |  |  |
 | juder | Juder |  |  |
 | nagase yutaka | 長瀬ゆたか |  | [Pixiv](https://www.pixiv.net/users/2585759) |
