@@ -12214,6 +12214,7 @@ example:
 | yoshida killy | 吉田Killy |  |  |
 | tou | トウ |  |  |
 | natsusaka | 夏坂 |  |  |
+| tempura dozaemon | 天妇罗土左卫门 | ![twitter](https://pbs.twimg.com/profile_images/1420009504435957761/RWdGy04F_400x400.jpg)<br><br>**作者推特头像** | [HP](https://lit.link/en/dozaemontempura) [pixiv](https://www.pixiv.net/users/15845510) |
 
 <!--TEMPLATE:
 |  |  |  |  |
