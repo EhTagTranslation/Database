@@ -2027,6 +2027,7 @@ example:
 | aragami | 荒神 | ![](https://p.sda1.dev/7/c30ca40aaad814798684c8ba13bf3613/image.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Aragami_%28video_game%29) |
 | owari no chronicle | 终焉的年代记 |  | [维基百科](https://zh.wikipedia.org/zh/終焉的年代記) |
 | les miserables | 悲惨世界 | 维克多雨果的著名著作 |  |
+| isekai ojisan | 异世界舅舅 | 《异世界舅舅》（日语：異世界おじさん，简称“いせおじ”）是殆ど死んでいる创作的日本漫画，<br>由2018年6月29日起于KADOKAWA旗下的漫画网站ComicWalker连载至今。<br>故事讲述在现实世界昏迷17年的舅舅从异世界归来后，外甥敬文听舅舅口述在异世界的回忆。 | [wiki](https://zh.wikipedia.org/wiki/異世界歸來的舅舅) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
