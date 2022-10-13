@@ -12485,6 +12485,7 @@ example:
 | mizuyakinko | 水屋金库 |  |  |
 | namagaki | 生牡蛎 | 画师`furatsu`所属同人社团 |  |
 | chouzankai | 超斩开 |  |  |
+| kirin planet | キリンプラネット | 満開べえスケ的社团名字。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
