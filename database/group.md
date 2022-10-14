@@ -440,7 +440,7 @@ example:
 | jieitai | JIEITAI |  |  |
 | honey qp | Honey QP |  |  |
 | ayuest | AYUEST |  |  |
-| inbou no teikoku | 陰謀の帝国 |  |  |
+| inbou no teikoku | 阴谋的帝国 |  |  |
 | gate of xiii | Gate of XIII |  |  |
 | neko masshigura | ねこまっしぐら |  |  |
 | rorie-do | ろり絵堂 |  |  |
