@@ -3704,7 +3704,7 @@ example:
 | tsukai you | 塚井ヨウ | 似乎已封笔<br>![twitter](https://ehgt.org/4d/07/4d0716b7c1c09632df5366a121d85f92c4f8ea06-56060-373-373-jpg_l.jpg) | [Twitter](https://twitter.com/bktohs3) [pixiv](https://www.pixiv.net/users/351549) |
 | botan m | 牡丹M |  | [Twitter](https://twitter.com/botan_emu) |
 | syouwaru | 性悪 |  |  |
-| indo curry | 印度カリー |  |  |
+| indo curry | 印度咖喱 |  |  |
 | hirasawa zen | 平沢Zen |  |  |
 | shimuro itaru | 至室 |  |  |
 | mishiro shizuku | 水白しずく |  |  |
