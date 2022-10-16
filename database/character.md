@@ -4227,6 +4227,7 @@ example:
 | vajra | 瓦姬拉 | 碧蓝幻想中的角色 |  |
 | tighnari | 提纳里 | ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Character_Tighnari_Card.png) | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
 | hinata wakaba | 若葉日向 |  |  |
+| chihiro kagami | 各务千寻 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
