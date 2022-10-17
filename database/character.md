@@ -4228,6 +4228,7 @@ example:
 | tighnari | 提纳里 | ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Character_Tighnari_Card.png) | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
 | hinata wakaba | 若葉日向 |  |  |
 | chihiro kagami | 各务千寻 |  |  |
+| perrine h. clostermann | 佩琳·H·克洛斯特曼 | 所属作品: `p:strike witches`<br>![](https://static.wikia.nocookie.net/strikewitches/images/2/2a/Perrine_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/佩琳·H·克洛斯特曼) [Fandom](https://worldwitches.fandom.com/wiki/Perrine_H._Clostermann) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
