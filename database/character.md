@@ -4233,6 +4233,7 @@ example:
 | danzou katou | 加藤段藏 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/加藤段藏%28Fate%29) |
 | fubuki nemugaki | 合欢垣吹雪 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ad/Fubuki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nemugaki_Fubuki) |
 | mamiya hasaki | 间宫羽咲 | 间宫羽咲是枕社的姐妹游戏公司ケロQ旗下游戏《美好的每一天～不连续的存在～》（素晴らしき日々〜不連続存在）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/间宫羽咲) |
+| kushima kamome | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
