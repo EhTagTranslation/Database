@@ -2031,6 +2031,7 @@ example:
 | star ocean | 星之海洋 | 银河游侠系列（日语：スターオーシャン，英语：Star Ocean，香港和台湾译作“银河游侠”，又译“星之海洋”）是由tri-Ace开发、史克威尔艾尼克斯（原艾尼克斯）发售的角色扮演游戏系列。 | [维基百科](https://zh.wikipedia.org/zh/星海遊俠系列) |
 | kami no rhapsody | 神之狂想曲 |  | [Fandom](https://eushully.fandom.com/zh/wiki/神のラプソディ) [Fandom](https://eushully.fandom.com/wiki/Rhapsody_of_God) |
 | nintama rantarou | 落第忍者乱太郎 |  | [维基百科](https://zh.wikipedia.org/wiki/落第忍者亂太郎) |
+| mahoutsukai no yome | 魔法使的新娘 | 羽鸟智世是个无依无靠、没有求生欲望和方法、一无所有的十五岁少女。却有一名非人类的魔法使艾利亚斯·恩滋华斯以五百万英镑买下智世，并把她当成“徒弟”和“新娘”。智世心中停止已久的时间也开始慢慢地运转…… | [维基百科](https://zh.wikipedia.org/wiki/魔法使的新娘) [Fandom](https://ancientmagusbride.fandom.com/wiki/Mahoutsukai_no_Yome) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
