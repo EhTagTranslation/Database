@@ -55,7 +55,7 @@ example:
 | akatsuki myuuto | 赤月みゅうと | ![赤月みゅうと作品](https://farm8.staticflickr.com/7741/26990957842_e6fbd157af_m.jpg) | [Twitter](https://twitter.com/myuuto_akatuki) |
 | kisaragi gunma | 如月群真 | ![如月群真](https://farm8.staticflickr.com/7441/26448650873_5282626930.jpg) | [Twitter](https://twitter.com/gumma_kisaragi) [个人网站](http://gumma.main.jp) |
 | ohtomo takuji | 大友卓二 | ![たくじ](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) |  |
-| yamada no seikatu ga daiichi | 山田の性活が第一 |  | [Twitter](https://twitter.com/ymdnoskd1) [pixiv](https://www.pixiv.net/users/1769484) |
+| yamada no seikatu ga daiichi | 山田の性活が第一 |  | [Twitter](https://twitter.com/Yamada_Seikatu) [pixiv](https://www.pixiv.net/users/1769484) |
 | asamura hiori | 朝丛志描 |  | [Twitter](https://twitter.com/shikaku_asamura) [pixiv](https://www.pixiv.net/users/156679) |
 | matsukawa | 松河 |  | [Twitter](https://twitter.com/matukawa) [pixiv](https://www.pixiv.net/users/46738) |
 | mmm | 暗黒えむ将軍 |  | [Twitter](https://twitter.com/ankokuemushogun) [pixiv](https://www.pixiv.net/users/3039766) |
