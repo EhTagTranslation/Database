@@ -12487,6 +12487,7 @@ example:
 | chouzankai | 超斩开 |  |  |
 | kirin planet | キリンプラネット | 満開べえスケ的社团名字。 |  |
 | sonpuushi | 村夫子 |  |  |
+| keroq | ケロQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [https://www.keroq.co.jp/index02.html](https://www.keroq.co.jp/index02.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
