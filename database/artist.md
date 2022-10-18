@@ -12219,6 +12219,7 @@ example:
 | matsui yasutsugu | 郁那和なにろ \| 松井康治 |  | [Twitter](https://twitter.com/yasutsugumatsui) |
 | inari bancha | 稲荷ばん茶 | ![TwitterIcon](https://pbs.twimg.com/profile_images/939743767283638273/Bke3jGnc_200x200.jpg) | [Twitter](https://twitter.com/inari_bancha) |
 | yusano | ゆさの | ![](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/126858/icon/WzBTda5r16XIFDWD9KvMlxGf.jpeg) | [https://yusano-polaris.tumblr.com/](https://yusano-polaris.tumblr.com/)<br>[pixiv](https://www.pixiv.net/users/126858)<br>[Twitter](https://mobile.twitter.com/yusano) |
+| pumpkinspicelatte | pumpkinspice |  | [pixiv](https://www.pixiv.net/users/16105069) [Twitter](https://twitter.com/panpukinsupa) |
 
 <!--TEMPLATE:
 |  |  |  |  |
