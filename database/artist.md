@@ -12221,6 +12221,7 @@ example:
 | yusano | ゆさの | ![](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/126858/icon/WzBTda5r16XIFDWD9KvMlxGf.jpeg) | [https://yusano-polaris.tumblr.com/](https://yusano-polaris.tumblr.com/)<br>[pixiv](https://www.pixiv.net/users/126858)<br>[Twitter](https://mobile.twitter.com/yusano) |
 | pumpkinspicelatte | pumpkinspice |  | [pixiv](https://www.pixiv.net/users/16105069) [Twitter](https://twitter.com/panpukinsupa) |
 | sca-ji | SCA-自 | ムーンフェイズ株式会社代表取缔役<br>也管理着ケロQ、枕 | [Twitter](https://twitter.com/SCA_DI)<br>[pixiv](https://www.pixiv.net/member.php?id=465057)<br>[哔哩哔哩](https://space.bilibili.com/1343805302) |
+| shichi ouji | 七王子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
