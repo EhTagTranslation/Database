@@ -4235,6 +4235,7 @@ example:
 | mamiya hasaki | 间宫羽咲 | 间宫羽咲是枕社的姐妹游戏公司ケロQ旗下游戏《美好的每一天～不连续的存在～》（素晴らしき日々〜不連続存在）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/间宫羽咲) |
 | kushima kamome | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 | serika kuromi | 黑见芹香 |  |  |
+| ayane okusora | 奥空绫音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
