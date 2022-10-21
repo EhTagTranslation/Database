@@ -4236,6 +4236,7 @@ example:
 | kushima kamome | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 | serika kuromi | 黑见芹香 |  |  |
 | ayane okusora | 奥空绫音 |  |  |
+| mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
