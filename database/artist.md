@@ -6789,7 +6789,7 @@ example:
 | kenzi | kenzi |  |  |
 | keoko | けおこ |  |  |
 | keraton | ケラトン |  |  |
-| kereno | けれの |  |  |
+| kereno | けれの | ![TwitterIcon](https://pbs.twimg.com/profile_images/1362845514090225664/bAQLL_K5_200x200.jpg) | [Twitter](https://twitter.com/Kereno_Teikoku) |
 | keroko | けろこ |  |  |
 | keso | keso |  |  |
 | kesupu | ケスープ |  |  |
