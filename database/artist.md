@@ -12223,6 +12223,7 @@ example:
 | sca-ji | SCA-自 | ムーンフェイズ株式会社代表取缔役<br>也管理着ケロQ、枕 | [Twitter](https://twitter.com/SCA_DI)<br>[pixiv](https://www.pixiv.net/member.php?id=465057)<br>[哔哩哔哩](https://space.bilibili.com/1343805302) |
 | shichi ouji | 七王子 |  |  |
 | mankai beesuke | 満開べえスケ |  | [Twitter](https://twitter.com/misuitomoki) |
+| hiiragi yuichi | 柊裕一 |  | [Twitter](https://twitter.com/yuichi_hiiragi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
