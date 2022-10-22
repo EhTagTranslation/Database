@@ -12224,6 +12224,7 @@ example:
 | shichi ouji | 七王子 |  |  |
 | mankai beesuke | 満開べえスケ |  | [Twitter](https://twitter.com/misuitomoki) |
 | hiiragi yuichi | 柊裕一 |  | [Twitter](https://twitter.com/yuichi_hiiragi) |
+| mukaino kei | 向野圭衣 | 萝莉漫画家 | [Twitter](https://twitter.com/mukainokei)<br>[Skeb](https://skeb.jp/@mukaino) |
 
 <!--TEMPLATE:
 |  |  |  |  |
