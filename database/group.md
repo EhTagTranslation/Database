@@ -12489,6 +12489,7 @@ example:
 | sonpuushi | 村夫子 |  |  |
 | keroq | ケロQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [https://www.keroq.co.jp/index02.html](https://www.keroq.co.jp/index02.html) |
 | koushoku na reichourui | 好色な霊長類 |  |  |
+| yukinko okeya | 雪ん娘おけ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
