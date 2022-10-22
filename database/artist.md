@@ -12216,7 +12216,7 @@ example:
 | natsusaka | 夏坂 |  |  |
 | tempura dozaemon | 天妇罗土左卫门 | ![twitter](https://pbs.twimg.com/profile_images/1420009504435957761/RWdGy04F_400x400.jpg)<br><br>**作者推特头像** | [HP](https://lit.link/en/dozaemontempura) [pixiv](https://www.pixiv.net/users/15845510) |
 | furatsu | ふらつ | ![twitter](https://pbs.twimg.com/profile_images/1084831663756996608/5qnhU6PC_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`namagaki`主笔 | [twitter](https://twitter.com/fulakko) [pixiv](https://www.pixiv.net/users/231251) |
-| matsui yasutsugu | 郁那和なにろ \| 松井康治 |  | [Twitter](https://twitter.com/yasutsugumatsui) |
+| matsui yasutsugu | 松井康治（郁那和なにろ） |  | [Twitter](https://twitter.com/yasutsugumatsui) |
 | inari bancha | 稲荷ばん茶 | ![TwitterIcon](https://pbs.twimg.com/profile_images/939743767283638273/Bke3jGnc_200x200.jpg) | [Twitter](https://twitter.com/inari_bancha) |
 | yusano | ゆさの | ![](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/126858/icon/WzBTda5r16XIFDWD9KvMlxGf.jpeg) | [https://yusano-polaris.tumblr.com/](https://yusano-polaris.tumblr.com/)<br>[pixiv](https://www.pixiv.net/users/126858)<br>[Twitter](https://mobile.twitter.com/yusano) |
 | pumpkinspicelatte | pumpkinspice |  | [pixiv](https://www.pixiv.net/users/16105069) [Twitter](https://twitter.com/panpukinsupa) |
