@@ -356,12 +356,12 @@ example:
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 |  | adventitious vagina畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
-| birth | 出产 | 生物诞生的过程，在此之前一般会`pregnant`。 |  |
 | cervix prolapse | 宫颈脱垂 | 阴道壁膨胀出阴道。有时是`gaping`的后续。需要`prolapse`标签。 |  |
 | clit insertion | 阴蒂插入 | 将阴蒂插入阴道或肛门。 通常涉及`big clit`。依照被插入的一方标记命名空间。 |  |
 | clit stimulation | 阴蒂刺激 | 刺激阴蒂。 |  |
 | cunnilingus | 舔阴 | 用嘴刺激阴道引起性唤起。 |  |
-| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`birth`相反，因此不需要`birth`或`pregnant`标签。 |  |
+| unbirth | 入阴 | 被阴道，肛门或尿道吞噬的人或生物。 本质上与`vaginal birth`相反，因此不需要`vaginal birth`或`pregnant`标签。 |  |
+| vaginal birth | 阴道出产 | 通过阴道分娩的过程，在此之前一般会`pregnant`。单张图片即可应用此标签，除非它在一组随机的图片中。不应用于`eggs`。 |  |
 |  | === 下半身 > 臀部 === |  |  |
 | anal | 爆肛 | 插入肛门。任何方法都可以（`sex toys`，`tentacles`等）。<br>![图](# "https://ehgt.org/63/79/6379d763a2659e951a913b007c1cb990b9806300-1098355-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/49/8c/498c96fe84aee2b7e50f0d6355e5bf601646bf54-438583-1024-576-png_l.jpg")![例](# "https://ehgt.org/b0/9d/b09d7156846a0d068509f3e687bc938c0f0fd461-526572-1488-2100-jpg_l.jpg")![图](# "https://ehgt.org/ef/01/ef0180e7225a69e826d50847e766e900e5c72b4a-1467423-1057-1500-png_l.jpg") |  |
 | anal birth | 肛门出产 | 通过肛门产下生物的过程。在此之前一般会`pregnant`。不用于`eggs`。 |  |
@@ -379,7 +379,7 @@ example:
 | tail | 尾巴 | 一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。<br>![图](# "https://ehgt.org/83/1e/831ed92ca96e4d16c446593537571ba9cd720c7d-1860666-2122-3014-jpg_l.jpg") |  |
 | tailphagia | 尾巴吞食 | 被尾巴整个吞食。不要与`vore`混淆。 |  |
 |  | === 下半身 > 任何洞 === |  |  |
-| eggs | 产卵 | 有蛋或产蛋的行为。常常导致`inflation`。不应与`birth`或`pregnant`混淆。 |  |
+| eggs | 产卵 | 有蛋或产蛋的行为。常常导致`inflation`。不应与`vaginal birth`或`pregnant`混淆。 |  |
 | gaping | 敞口 | 阴道或肛门，明显地在做爱之后扩张。往往由`large insertions`、`fisting`、`big penis`或`huge penis`造成。<br>是`speculum`的前置标签。不应与`prolapse`相混淆，但可能会导致它。<br>![图](# "https://ehgt.org/03/7d/037df50b7d2bfbc4f4b6b0b481a9a0b801cc3b91-327698-1024-768-jpg_250.jpg")![图](# "https://ehgt.org/d8/b3/d8b365794799803f8b2ad213ca0497fbb2e66417-1725531-1500-1656-jpg_250.jpg") |  |
 | large insertions | 大玩具 | 被似乎不太可能感到舒适的大尺寸`sex toys`或其它物品插入。不用于`big penis`或`huge penis`。<br>![恶](## "https://ehgt.org/8a/f7/8af71abaa5c7aa19922823685c8be277ca49c892-242457-823-1200-jpg_250.jpg") |  |
 | nakadashi | 中出 | 射在里面，体外也可能有一个明显的精液池。<br>![图](# "https://ehgt.org/64/c3/64c36cbf01d9c6698a7d968acac898e607a9e902-1110945-1200-1694-jpg_l.jpg") |  |
