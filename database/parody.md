@@ -2033,6 +2033,7 @@ example:
 | nintama rantarou | 落第忍者乱太郎 |  | [维基百科](https://zh.wikipedia.org/wiki/落第忍者亂太郎) |
 | mahoutsukai no yome | 魔法使的新娘 | 羽鸟智世是个无依无靠、没有求生欲望和方法、一无所有的十五岁少女。却有一名非人类的魔法使艾利亚斯·恩滋华斯以五百万英镑买下智世，并把她当成“徒弟”和“新娘”。智世心中停止已久的时间也开始慢慢地运转…… | [维基百科](https://zh.wikipedia.org/wiki/魔法使的新娘) [Fandom](https://ancientmagusbride.fandom.com/wiki/Mahoutsukai_no_Yome) |
 | subarashiki hibi | 美好的每一天～不连续的存在～ | 美好的每一天～不连续的存在～（日文：素晴らしき日々～不連続存在～）是由枕社的姐妹游戏公司ケロQ推出的一款电波、狂气类游戏，于2010年3月26日发售。 | [https://www.keroq.co.jp/suba\_10th/](https://www.keroq.co.jp/suba_10th/)<br>[https://www.keroq.co.jp/suba\_fhd/](https://www.keroq.co.jp/suba_fhd/)<br>[https://www.keroq.co.jp/suba/index0.htm](https://www.keroq.co.jp/suba/index0.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/美好的每一天～不连续的存在～) |
+| tron | 创：战纪 |  | [维基百科](https://zh.wikipedia.org/wiki/創：光速戰記) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
