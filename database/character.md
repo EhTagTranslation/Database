@@ -4238,6 +4238,7 @@ example:
 | ayane okusora | 奥空绫音 |  |  |
 | mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
 | sword maiden | 剑之圣女 |  |  |
+| chigusa kisaragi | 如月千种 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
