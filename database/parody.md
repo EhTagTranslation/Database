@@ -2037,6 +2037,7 @@ example:
 | tokyo revengers | 东京复仇者 |  | [维基百科](https://zh.wikipedia.org/wiki/東京卍復仇者) |
 | mobile suit gundam the witch from mercury | 机动战士高达 水星的魔女 |  | [维基百科](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_水星的魔女) |
 | shijou saikyou no daimaou murabito a ni tensei suru | 史上最强大魔王转生为村民A |  | [维基百科](https://zh.wikipedia.org/wiki/史上最強大魔王轉生為村民A) |
+| genjitsu shugi yuusha no oukoku saikenki | 现实主义勇者的王国重建记 |  | [维基百科](https://zh.wikipedia.org/wiki/現實主義勇者的王國重建記) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
