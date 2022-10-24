@@ -2035,6 +2035,7 @@ example:
 | subarashiki hibi | 美好的每一天～不连续的存在～ | 美好的每一天～不连续的存在～（日文：素晴らしき日々～不連続存在～）是由枕社的姐妹游戏公司ケロQ推出的一款电波、狂气类游戏，于2010年3月26日发售。 | [https://www.keroq.co.jp/suba\_10th/](https://www.keroq.co.jp/suba_10th/)<br>[https://www.keroq.co.jp/suba\_fhd/](https://www.keroq.co.jp/suba_fhd/)<br>[https://www.keroq.co.jp/suba/index0.htm](https://www.keroq.co.jp/suba/index0.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/美好的每一天～不连续的存在～) |
 | tron | 创：战纪 |  | [维基百科](https://zh.wikipedia.org/wiki/創：光速戰記) |
 | tokyo revengers | 东京复仇者 |  | [维基百科](https://zh.wikipedia.org/wiki/東京卍復仇者) |
+| mobile suit gundam the witch from mercury | 机动战士高达 水星的魔女 |  | [维基百科](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_水星的魔女) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
