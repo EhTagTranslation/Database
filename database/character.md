@@ -4240,7 +4240,7 @@ example:
 | sword maiden | 剑之圣女 |  |  |
 | chigusa kisaragi | 如月千种 |  |  |
 | dobrynya nikitich | 多布雷尼亚·尼基季奇 |  |  |
-| aratsuka ogami | 灰濁クロム |  | [pixiv](https://www.pixiv.net/users/2154012) [Twitter](https://twitter.com/BK_mita) |
+| aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [Twitter](https://twitter.com/aratsuka_ogami) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
