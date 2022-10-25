@@ -4241,6 +4241,7 @@ example:
 | chigusa kisaragi | 如月千种 |  |  |
 | dobrynya nikitich | 多布雷尼亚·尼基季奇 |  |  |
 | aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [Twitter](https://twitter.com/aratsuka_ogami) |
+| nishikata | 西片 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
