@@ -12229,6 +12229,7 @@ example:
 | bk-mita | 灰濁クロム |  | [pixiv](https://www.pixiv.net/users/2154012) [Twitter](https://twitter.com/BK_mita) |
 | sanjiro | さんじろ♨ |  |  |
 | atelier30 | Atelier30 |  | [pixiv](https://www.pixiv.net/users/52819016) |
+| magnificent sexy gals | Magnificent |  | [pixiv](https://www.pixiv.net/users/61229086) |
 
 <!--TEMPLATE:
 |  |  |  |  |
