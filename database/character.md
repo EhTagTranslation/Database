@@ -4243,6 +4243,7 @@ example:
 | aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [Twitter](https://twitter.com/aratsuka_ogami) |
 | nishikata | 西片 |  |  |
 | nezha | 哪吒 |  |  |
+| carol malus dienheim | 卡萝·马尔斯·狄恩海姆 | 所属作品: `p:senki zesshou symphogear` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
