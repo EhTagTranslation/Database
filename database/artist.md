@@ -4446,7 +4446,7 @@ example:
 | bbwh | bbwH |  |  |
 | bea | bea |  |  |
 | beat-kun | びーとくん |  |  |
-| beater | Beater |  |  |
+| beater | Beater | ![Twiiter avatar](https://pbs.twimg.com/profile_images/1577224320476012544/vopX1pFJ_400x400.jpg) | [Twiiter](https://twitter.com/daikung02) [Fantia](http://fantia.jp/daikung) |
 | bebebe | べべべ |  |  |
 | beco | Beco |  |  |
 | bee | bee |  |  |
