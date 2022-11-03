@@ -4244,6 +4244,7 @@ example:
 | nishikata | 西片 |  |  |
 | nezha | 哪吒 |  |  |
 | carol malus dienheim | 卡萝·马尔斯·狄恩海姆 | 所属作品: `p:senki zesshou symphogear` |  |
+| dori | 多莉 | 原神角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
