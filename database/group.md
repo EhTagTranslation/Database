@@ -12492,6 +12492,7 @@ example:
 | yukinko okeya | 雪ん娘おけ屋 |  |  |
 | momonomi plus | もものみプラス |  |  |
 | metsuki warui kyoudan | 目つき悪い教団 |  |  |
+| chinpan-bu | チンパン部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
