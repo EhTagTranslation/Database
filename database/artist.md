@@ -12233,6 +12233,7 @@ example:
 | yoshinari you | 吉成曜 | 1992年加入动画公司MADHOUSE，开始参与制作动画，同年退出加入动画公司GAINAX。直至2011年前一直在GAINAX参与动画制作。现就职于TRIGGER。《新世纪福音战士》中担当机甲作画监督和原画，剧场版则担当原画和作画监督候补。 | [维基百科](https://zh.wikipedia.org/wiki/吉成曜) |
 | sirosoil | 白土 |  |  |
 | chinpan | チンパン | ![TwitterIcon](https://pbs.twimg.com/profile_images/1284036564696346624/_Ldc0tsm_200x200.jpg) | [Twitter](https://twitter.com/yasei_chinpan) [pixiv](https://www.pixiv.net/users/70274) |
+| chocoro | チョコロ | ![TwitterIcon](https://s2.loli.net/2022/11/06/fx7Ta1GIAbPBRCc.jpg) | [Twitter](https://twitter.com/cho56doujin) [pixiv](https://www.pixiv.net/users/57771473) |
 
 <!--TEMPLATE:
 |  |  |  |  |
