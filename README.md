@@ -3,20 +3,20 @@
 [![Build status](../../workflows/build/badge.svg)](../../actions)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
 
-<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.herokuapp.com/database/~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
+<!-- [![Commit](https://img.shields.io/endpoint?color=blueviolet&url=https://ehtt.fly.dev/database/~badge)](https://github.com/EhTagTranslation/Database/tree/master)  -->
 
-[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.herokuapp.com/database/all/~badge)](https://ehtt.vercel.app/list/all)
-[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.herokuapp.com/database/reclass/~badge)](https://ehtt.vercel.app/list/reclass)
-[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.herokuapp.com/database/female/~badge)](https://ehtt.vercel.app/list/female)
-[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.herokuapp.com/database/male/~badge)](https://ehtt.vercel.app/list/male)
-[![mixed](https://img.shields.io/endpoint?color=maroon&url=https://ehtt.herokuapp.com/database/mixed/~badge)](https://ehtt.vercel.app/list/mixed)
-[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.herokuapp.com/database/language/~badge)](https://ehtt.vercel.app/list/language)
-[![other](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.herokuapp.com/database/other/~badge)](https://ehtt.vercel.app/list/other)
-[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.herokuapp.com/database/group/~badge)](https://ehtt.vercel.app/list/group)
-[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.herokuapp.com/database/artist/~badge)](https://ehtt.vercel.app/list/artist)
-[![cosplayer](https://img.shields.io/endpoint?color=olive&url=https://ehtt.herokuapp.com/database/cosplayer/~badge)](https://ehtt.vercel.app/list/cosplayer)
-[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.herokuapp.com/database/parody/~badge)](https://ehtt.vercel.app/list/parody)
-[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.herokuapp.com/database/character/~badge)](https://ehtt.vercel.app/list/character)
+[![all](https://img.shields.io/endpoint?color=brightgreen&url=https://ehtt.fly.dev/database/all/~badge)](https://ehtt.vercel.app/list/all)
+[![reclass](https://img.shields.io/endpoint?color=tomato&url=https://ehtt.fly.dev/database/reclass/~badge)](https://ehtt.vercel.app/list/reclass)
+[![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.fly.dev/database/female/~badge)](https://ehtt.vercel.app/list/female)
+[![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.fly.dev/database/male/~badge)](https://ehtt.vercel.app/list/male)
+[![mixed](https://img.shields.io/endpoint?color=maroon&url=https://ehtt.fly.dev/database/mixed/~badge)](https://ehtt.vercel.app/list/mixed)
+[![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.fly.dev/database/language/~badge)](https://ehtt.vercel.app/list/language)
+[![other](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.fly.dev/database/other/~badge)](https://ehtt.vercel.app/list/other)
+[![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.fly.dev/database/group/~badge)](https://ehtt.vercel.app/list/group)
+[![artist](https://img.shields.io/endpoint?color=chocolate&url=https://ehtt.fly.dev/database/artist/~badge)](https://ehtt.vercel.app/list/artist)
+[![cosplayer](https://img.shields.io/endpoint?color=olive&url=https://ehtt.fly.dev/database/cosplayer/~badge)](https://ehtt.vercel.app/list/cosplayer)
+[![parody](https://img.shields.io/endpoint?color=darkviolet&url=https://ehtt.fly.dev/database/parody/~badge)](https://ehtt.vercel.app/list/parody)
+[![character](https://img.shields.io/endpoint?color=cadetblue&url=https://ehtt.fly.dev/database/character/~badge)](https://ehtt.vercel.app/list/character)
 
 ## 协议
 
@@ -48,7 +48,6 @@
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   EhViewer overhauled with Material Design 3 and more.
-  
 - [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   ehviewer，用爱发电，快乐前行
@@ -67,7 +66,7 @@
 
 - [JHenTai](https://github.com/jiangtian616/JHenTai)  
   ![iOS][plat-ios] ![Android][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/jiangtian616/JHenTai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  使用Flutter开发的多端App，现支持安卓、苹果和Windows系统。
+  使用 Flutter 开发的多端 App，现支持安卓、苹果和 Windows 系统。
 
 <details>
 
@@ -99,8 +98,8 @@
   An Unofficial E-Hentai Application for Android.
 
 - [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
-  ![Android][plat-android]  
-  An E-Hentai Application for Android.
+ ![Android][plat-android]  
+ An E-Hentai Application for Android.
 </details>
 
 ## 开发指南
@@ -113,7 +112,6 @@
 [plat-userscript]: https://img.shields.io/badge/UserScript-yellow.svg?logo=tampermonkey&logoColor=fff&color=00485B
 [plat-chrome]: https://img.shields.io/badge/Chrome插件-yellow.svg?logo=google-chrome&logoColor=fff&color=4285F4
 [plat-firefox]: https://img.shields.io/badge/Firefox插件-yellow.svg?logo=firefox-browser&logoColor=fff&color=FF7139
-
 [plat-ios]: https://img.shields.io/badge/iOS-lightgrey.svg?logo=apple&logoColor=fff&color=666
 [plat-uwp]: https://img.shields.io/badge/UWP-blue.svg?logo=windows&logoColor=fff&color=0078D6
 [plat-android]: https://img.shields.io/badge/Android-brightgreen.svg?logo=android&logoColor=fff
