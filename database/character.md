@@ -4258,6 +4258,7 @@ example:
 | cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
 | shinobu kuki | 久岐忍 |  |  |
 | springfield | 春田 |  |  |
+| natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
