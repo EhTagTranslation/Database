@@ -4284,6 +4284,7 @@ example:
 | mu-12 | μ-No.12-（缪） |  |  |
 | nu-13 | ν-No.13-（纽恩） |  |  |
 | jin kisaragi | 琴恩·如月 |  |  |
+| erice utsumi | 宇津见绘里濑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
