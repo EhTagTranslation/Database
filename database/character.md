@@ -4247,6 +4247,7 @@ example:
 | dori | 多莉 | 原神角色 |  |
 | rikka morizono | 森园立夏 | 森园立夏是CIRCUS旗下游戏《初音岛3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/森园立夏) |
 | aponia | 阿波尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=508425) |
+| carole pepper | 卡萝尔·佩珀 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=375474) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
