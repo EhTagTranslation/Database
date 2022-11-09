@@ -4283,6 +4283,7 @@ example:
 | lambda-11 | Λ-No.11-（拉姆达） |  |  |
 | mu-12 | μ-No.12-（缪） |  |  |
 | nu-13 | ν-No.13-（纽恩） |  |  |
+| jin kisaragi | 琴恩·如月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
