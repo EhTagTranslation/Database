@@ -4273,6 +4273,7 @@ example:
 | scherazard harvey | 雪拉扎德·哈维 |  |  |
 | shizuna rem misurugi | 静名·雷姆·御折木 |  |  |
 | ragna the bloodedge | 拉格纳·布莱德艾奇 |  |  |
+| noel vermillion | 诺爱儿·梵蜜莉欧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
