@@ -2727,7 +2727,7 @@ example:
 | melda deitz | 梅尔达·狄兹 |  |  |
 | yuki mori | 森雪 |  |  |
 | ainz ooal gown | 安兹·乌尔·恭 |  |  |
-| albedo | 雅儿贝德 |  |  |
+| albedo | 雅儿贝德 \| 阿贝多 |  |  |
 | aura bella fiora | 亚乌菈·贝拉·菲欧拉 |  |  |
 | clementine | 克莱门汀 |  |  |
 | mare bello fiore | 马雷·贝罗·菲欧雷 |  |  |
