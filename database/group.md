@@ -12493,6 +12493,7 @@ example:
 | momonomi plus | もものみプラス |  |  |
 | metsuki warui kyoudan | 目つき悪い教団 |  |  |
 | chinpan-bu | チンパン部 |  |  |
+| mondomura tomo no kai | 蒙德村友会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
