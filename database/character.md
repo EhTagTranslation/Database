@@ -4254,6 +4254,7 @@ example:
 | mei raiden | 雷电芽衣 |  |  |
 | durandal | 幽兰黛尔 |  |  |
 | himeko murata | 无量塔姬子 |  |  |
+| seele vollerei | 希儿·芙乐艾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
