@@ -4267,6 +4267,7 @@ example:
 | tartaglia | 「公子」达达利亚 |  |  |
 | gorou | 五郎 |  |  |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
+| yun jin | 云堇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
