@@ -4280,6 +4280,7 @@ example:
 | makoto nanaya | 诚·七夜 |  |  |
 | ayato kamisato | 神里绫人 |  |  |
 | tsubaki yayoi | 椿·弥生 |  |  |
+| lambda-11 | Λ-No.11-（拉姆达） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
