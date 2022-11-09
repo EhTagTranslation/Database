@@ -3705,7 +3705,7 @@ example:
 | koneko toujou | 塔城小猫 | 塔城小猫（とうじょう こねこ）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://s2.loli.net/2022/01/16/Pk7SDN2IMFW4Lfn.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
 | rias gremory | 莉雅丝·吉蒙里 | 莉雅丝·吉蒙里是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/b/b3/Rias.Gremory.full.961374.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉雅丝·吉蒙里) |
 | amamiya kokoro | 天宫心 | 天宫心 （日语：天宮こころ / あまみや こころAmamiya Kokoro ）是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [天宫心 - 萌娘百科](https://zh.moegirl.org.cn/zh-hans/天宫心) |
-| signora | 女士 | 女士是游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/执行官女士) |
+| signora | 「女士」（罗莎琳） | 女士是游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/执行官女士) |
 | trish una | 特里休·乌纳 | 特里休·乌纳是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》第五部“黄金之风”及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/特里休·乌纳) (\*\*) |
 | kei shirogane | 白银圭 |  | [萌娘百科](https://zh.moegirl.org.cn/白银圭) |
 | suigintou | 水银灯 |  |  |
