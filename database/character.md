@@ -4287,6 +4287,7 @@ example:
 | erice utsumi | 宇津见绘里濑 |  |  |
 | emiya alter | 卫宫〔Alter〕 |  |  |
 | shinoa hiiragi | 柊筱娅 |  |  |
+| fatui electro cicin mage | 雷萤术士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
