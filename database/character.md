@@ -4259,6 +4259,7 @@ example:
 | shinobu kuki | 久岐忍 |  |  |
 | springfield | 春田 |  |  |
 | natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
+| fu hua | 符华 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
