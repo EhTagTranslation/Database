@@ -4264,6 +4264,7 @@ example:
 | mobius | 梅比乌斯 |  |  |
 | heizou shikanoin | 鹿野院平藏 |  |  |
 | columbina | 「少女」哥伦比娅 |  |  |
+| tartaglia | 「公子」达达利亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
