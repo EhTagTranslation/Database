@@ -4265,6 +4265,7 @@ example:
 | heizou shikanoin | 鹿野院平藏 |  |  |
 | columbina | 「少女」哥伦比娅 |  |  |
 | tartaglia | 「公子」达达利亚 |  |  |
+| gorou | 五郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
