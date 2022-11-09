@@ -4285,6 +4285,7 @@ example:
 | nu-13 | ν-No.13-（纽恩） |  |  |
 | jin kisaragi | 琴恩·如月 |  |  |
 | erice utsumi | 宇津见绘里濑 |  |  |
+| emiya alter | 卫宫〔Alter〕 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
