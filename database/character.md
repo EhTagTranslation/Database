@@ -4255,6 +4255,7 @@ example:
 | durandal | 幽兰黛尔 |  |  |
 | himeko murata | 无量塔姬子 |  |  |
 | seele vollerei | 希儿·芙乐艾 |  |  |
+| cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
