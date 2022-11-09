@@ -4268,6 +4268,7 @@ example:
 | gorou | 五郎 |  |  |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
 | yun jin | 云堇 |  |  |
+| kloe rinz | 科洛丝·琳希 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
