@@ -4278,6 +4278,7 @@ example:
 | kajun faycott | 花隼·法伊科特 |  |  |
 | mai natsume | 麻衣·枣 |  |  |
 | makoto nanaya | 诚·七夜 |  |  |
+| ayato kamisato | 神里绫人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
