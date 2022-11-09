@@ -4262,6 +4262,7 @@ example:
 | fu hua | 符华 |  |  |
 | timido cute | 缇米朵·丘忒 |  |  |
 | mobius | 梅比乌斯 |  |  |
+| heizou shikanoin | 鹿野院平藏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
