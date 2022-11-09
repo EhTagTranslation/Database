@@ -4289,6 +4289,7 @@ example:
 | shinoa hiiragi | 柊筱娅 |  |  |
 | fatui electro cicin mage | 雷萤术士 |  |  |
 | fatui cryo cicin mage | 冰萤术士 |  |  |
+| mirror maiden | 藏镜仕女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
