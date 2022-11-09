@@ -4252,6 +4252,7 @@ example:
 | millium orion | 米莉亚姆·奥莱恩 |  |  |
 | candace | 坎蒂丝 |  |  |
 | mei raiden | 雷电芽衣 |  |  |
+| durandal | 幽兰黛尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
