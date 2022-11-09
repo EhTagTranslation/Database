@@ -4288,6 +4288,7 @@ example:
 | emiya alter | 卫宫〔Alter〕 |  |  |
 | shinoa hiiragi | 柊筱娅 |  |  |
 | fatui electro cicin mage | 雷萤术士 |  |  |
+| fatui cryo cicin mage | 冰萤术士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
