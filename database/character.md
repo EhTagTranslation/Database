@@ -4263,6 +4263,7 @@ example:
 | timido cute | 缇米朵·丘忒 |  |  |
 | mobius | 梅比乌斯 |  |  |
 | heizou shikanoin | 鹿野院平藏 |  |  |
+| columbina | 「少女」哥伦比娅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
