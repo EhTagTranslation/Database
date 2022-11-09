@@ -4251,6 +4251,7 @@ example:
 | rean schwarzer | 黎恩·舒华泽 |  |  |
 | millium orion | 米莉亚姆·奥莱恩 |  |  |
 | candace | 坎蒂丝 |  |  |
+| mei raiden | 雷电芽衣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
