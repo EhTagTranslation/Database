@@ -4271,6 +4271,7 @@ example:
 | kloe rinz | 科洛丝·琳希 |  |  |
 | anelace elfead | 亚妮拉丝·艾尔菲德 |  |  |
 | scherazard harvey | 雪拉扎德·哈维 |  |  |
+| shizuna rem misurugi | 静名·雷姆·御折木 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
