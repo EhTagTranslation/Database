@@ -4253,6 +4253,7 @@ example:
 | candace | 坎蒂丝 |  |  |
 | mei raiden | 雷电芽衣 |  |  |
 | durandal | 幽兰黛尔 |  |  |
+| himeko murata | 无量塔姬子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
