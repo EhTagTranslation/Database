@@ -4277,6 +4277,7 @@ example:
 | es | Es | 《苍翼默示录》的登场角色。 |  |
 | kajun faycott | 花隼·法伊科特 |  |  |
 | mai natsume | 麻衣·枣 |  |  |
+| makoto nanaya | 诚·七夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
