@@ -4249,6 +4249,7 @@ example:
 | aponia | 阿波尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=508425) |
 | carole pepper | 卡萝尔·佩珀 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=375474) |
 | rean schwarzer | 黎恩·舒华泽 |  |  |
+| millium orion | 米莉亚姆·奥莱恩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
