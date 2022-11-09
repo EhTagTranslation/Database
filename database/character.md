@@ -4274,6 +4274,7 @@ example:
 | shizuna rem misurugi | 静名·雷姆·御折木 |  |  |
 | ragna the bloodedge | 拉格纳·布莱德艾奇 |  |  |
 | noel vermillion | 诺爱儿·梵蜜莉欧 |  |  |
+| es | Es | 《苍翼默示录》的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
