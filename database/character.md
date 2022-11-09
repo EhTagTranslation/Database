@@ -4282,6 +4282,7 @@ example:
 | tsubaki yayoi | 椿·弥生 |  |  |
 | lambda-11 | Λ-No.11-（拉姆达） |  |  |
 | mu-12 | μ-No.12-（缪） |  |  |
+| nu-13 | ν-No.13-（纽恩） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
