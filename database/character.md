@@ -4266,6 +4266,7 @@ example:
 | columbina | 「少女」哥伦比娅 |  |  |
 | tartaglia | 「公子」达达利亚 |  |  |
 | gorou | 五郎 |  |  |
+| kallen kaslana | 卡莲·卡斯兰娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
