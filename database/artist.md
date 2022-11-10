@@ -12235,6 +12235,7 @@ example:
 | chinpan | チンパン | ![TwitterIcon](https://pbs.twimg.com/profile_images/1284036564696346624/_Ldc0tsm_200x200.jpg) | [Twitter](https://twitter.com/yasei_chinpan) [pixiv](https://www.pixiv.net/users/70274) |
 | chocoro | チョコロ | ![TwitterIcon](https://s2.loli.net/2022/11/06/fx7Ta1GIAbPBRCc.jpg) | [Twitter](https://twitter.com/cho56doujin) [pixiv](https://www.pixiv.net/users/57771473) |
 | sasaki shounen | 佐佐木少年 |  |  |
+| haruno tomoya | 春野友矢 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
