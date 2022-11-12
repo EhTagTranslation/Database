@@ -4232,8 +4232,6 @@ example:
 | bronya zaychik | 布洛妮娅·扎伊切克 | 布洛妮娅·扎伊切克（ブローニャ・ザイチク，Bronya Zaychik，配音：Hanser（普通话）、阿澄佳奈（日语））<br>西伯利亚的暗杀兵，被可可利亚收养后参与X-10实验导致失去了表情和双腿活动能力。但是获得了名为“重装小兔”的机甲。<br>曾被可可利亚植入芯片控制，后为不再伤害到琪亚娜等朋友而烧毁芯片陷入昏迷，在圣芙蕾雅学院的治疗和符华的帮助下苏醒，现任第一律者。 | [https://zh.m.wikipedia.org/wiki/崩坏3](https://zh.m.wikipedia.org/wiki/崩坏3) |
 | danzou katou | 加藤段藏 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/加藤段藏%28Fate%29) |
 | fubuki nemugaki | 合欢垣吹雪 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ad/Fubuki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nemugaki_Fubuki) |
-| mamiya hasaki | 间宫羽咲 | 间宫羽咲是枕社的姐妹游戏公司ケロQ旗下游戏《美好的每一天～不连续的存在～》（素晴らしき日々〜不連続存在）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/间宫羽咲) |
-| kushima kamome | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 | serika kuromi | 黑见芹香 |  |  |
 | ayane okusora | 奥空绫音 |  |  |
 | mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
@@ -4263,8 +4261,8 @@ example:
 | timido cute | 缇米朵·丘忒 |  |  |
 | mobius | 梅比乌斯 |  |  |
 | heizou shikanoin | 鹿野院平藏 |  |  |
-| columbina | 「少女」哥伦比娅 |  |  |
-| tartaglia | 「公子」达达利亚 |  |  |
+| columbina | 哥伦比娅 | 「少女」 |  |
+| tartaglia | 达达利亚 | 「公子」 |  |
 | gorou | 五郎 |  |  |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
 | yun jin | 云堇 |  |  |
@@ -4280,12 +4278,12 @@ example:
 | makoto nanaya | 诚·七夜 |  |  |
 | ayato kamisato | 神里绫人 |  |  |
 | tsubaki yayoi | 椿·弥生 |  |  |
-| lambda-11 | Λ-No.11-（拉姆达） |  |  |
-| mu-12 | μ-No.12-（缪） |  |  |
-| nu-13 | ν-No.13-（纽恩） |  |  |
+| lambda-11 | Λ-No.11- | 拉姆达 |  |
+| mu-12 | μ-No.12- |  缪|  |
+| nu-13 | ν-No.13- | 纽恩 |  |
 | jin kisaragi | 琴恩·如月 |  |  |
 | erice utsumi | 宇津见绘里濑 |  |  |
-| emiya alter | 卫宫〔Alter〕 |  |  |
+| emiya alter | 卫宫Alter |  |  |
 | shinoa hiiragi | 柊筱娅 |  |  |
 | fatui electro cicin mage | 雷萤术士 |  |  |
 | fatui cryo cicin mage | 冰萤术士 |  |  |

@@ -6576,7 +6576,7 @@ example:
 | kgb | KGB |  |  |
 | ki no nekko | 木のねっこ |  |  |
 | ki-software | KI-SofTWarE |  |  |
-| kiba o muku | 牙を剥く |  |  |
+| kibawomuku | 牙を剥く |  |  |
 | kichiku bansankai | きちくばんさんかい |  |  |
 | kichinemu | キチネム |  |  |
 | kichu | きちゅ! |  |  |

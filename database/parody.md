@@ -1293,7 +1293,7 @@ example:
 | kouchuu ouja mushiking | 甲虫王者 | 《甲虫王者》是款日本电子游戏，后来被改编为电视动画《甲虫王者 森林居民的传说》（甲虫王者ムシキング 森の民の伝説）及剧场版二套。分别是《甲虫王者 迈向伟大的三冠王之路》（甲虫王者ムシキング グレイテストチャンピオンへの道）和《甲虫王者 〜暗黑改造甲虫〜》（甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜）。 | [维基百科](https://zh.wikipedia.org/zh-cn/甲蟲王者) (\*) |
 | darling in the franxx | DARLING in the FRANXX | 《DARLING in the FRANXX》也译作比翼之吻（日语：ダーリン・イン・ザ・フランキス）是由TRIGGER和A-1 Pictures共同制作的日本原创机器人动画作品，2018年1月13日起东京都会电视台首播。<br>![](https://pbs.twimg.com/media/D1hhojQUwAACT_R?format=jpg) | [维基百科](https://zh.wikipedia.org/zh-cn/DARLING_in_the_FRANXX) (\*) |
 | fairy fencer f | 妖精剑士f | 《妖精剑士f》（日语：フェアリーフェンサー エフ，英语：Fairy Fencer F）是Compile Heart旗下电子角色扮演游戏品牌“Galapagos”的第一款作品，最初于2013年发售。邪神设计由天野喜孝负责，女神设计由平野克幸负责，角色设计由つなこ负责。 | [维基百科](https://zh.wikipedia.org/zh-cn/妖精劍士f) (\*) |
-| honkai gakuen | 崩坏学园/崩坏3 | 《崩坏3》是中国大陆游戏开发商米哈游开发的的手机3D角色扮演动作游戏。崩坏学园系列的第3作，沿用了前作《崩坏学园2》角色。故事背景、剧情和世界观与《崩坏学园2》有所不同。讲述了女主角琪亚娜·卡斯兰娜和她的朋友们的冒险。为ACT类型游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/崩壞3rd) |
+| honkai gakuen | 崩坏学园 | 《崩坏3》是中国大陆游戏开发商米哈游开发的的手机3D角色扮演动作游戏。崩坏学园系列的第3作，沿用了前作《崩坏学园2》角色。故事背景、剧情和世界观与《崩坏学园2》有所不同。讲述了女主角琪亚娜·卡斯兰娜和她的朋友们的冒险。为ACT类型游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/崩壞3rd) |
 | quiz magic academy | 问答魔法学院 | 《问答魔法学院》（日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。 | [维基百科](https://zh.wikipedia.org/zh-hans/問答魔法學院) (\*) |
 | houseki no kuni | 宝石之国 | 《宝石之国》（宝石の国）是日本漫画家市川春子的漫画作品，讲谈社出版，于讲谈社杂志《月刊Afternoon》2012年12月号开始连载。2017年5月19日宣布推出电视动画，同年10月起在MBS电视台、东京都会电视台等电视台播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/寶石之國) (\*) |
 | atlach-nacha | ATLACH＝NACHA |  |  |

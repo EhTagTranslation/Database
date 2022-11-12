@@ -6357,7 +6357,6 @@ example:
 | juunigatsu shoujo | 十二月少女 |  |  |
 | juurouta | 十郎太 |  |  |
 | juusangatsu | 拾参月 |  |  |
-| jyan | Jyan |  |  |
 | jyom | jyom |  |  |
 | jyouden | ジョウデン |  |  |
 | jyujyo | 銃丈 |  |  |
@@ -12218,7 +12217,6 @@ example:
 | furatsu | ふらつ | ![twitter](https://pbs.twimg.com/profile_images/1084831663756996608/5qnhU6PC_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`namagaki`主笔 | [twitter](https://twitter.com/fulakko) [pixiv](https://www.pixiv.net/users/231251) |
 | matsui yasutsugu | 松井康治（郁那和なにろ） |  | [Twitter](https://twitter.com/yasutsugumatsui) |
 | inari bancha | 稲荷ばん茶 | ![TwitterIcon](https://pbs.twimg.com/profile_images/939743767283638273/Bke3jGnc_200x200.jpg) | [Twitter](https://twitter.com/inari_bancha) |
-| yusano | ゆさの | ![](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/126858/icon/WzBTda5r16XIFDWD9KvMlxGf.jpeg) | [https://yusano-polaris.tumblr.com/](https://yusano-polaris.tumblr.com/)<br>[pixiv](https://www.pixiv.net/users/126858)<br>[Twitter](https://mobile.twitter.com/yusano) |
 | pumpkinspicelatte | pumpkinspice |  | [pixiv](https://www.pixiv.net/users/16105069) [Twitter](https://twitter.com/panpukinsupa) |
 | sca-ji | SCA-自 | ムーンフェイズ株式会社代表取缔役<br>也管理着ケロQ、枕 | [Twitter](https://twitter.com/SCA_DI)<br>[pixiv](https://www.pixiv.net/member.php?id=465057)<br>[哔哩哔哩](https://space.bilibili.com/1343805302) |
 | shichi ouji | 七王子 |  |  |
