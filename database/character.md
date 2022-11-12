@@ -4289,6 +4289,7 @@ example:
 | fatui cryo cicin mage | 冰萤术士 |  |  |
 | mirror maiden | 藏镜仕女 |  |  |
 | sirin | 西琳 |  |  |
+| dehya | 迪希雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
