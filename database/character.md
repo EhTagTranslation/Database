@@ -45,7 +45,7 @@ example:
 | chitose | 千岁 | ![](https://ehgt.org/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.moegirl.org.cn/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |  |
 | murakumo | 丛 \| 丛云 | ![](https://ehgt.org/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br><br>No.015 丛云![丛云](# "https://ehgt.org/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") | [舰队Collection:丛云](https://zh.moegirl.org.cn/舰队Collection:丛云) |
 | nachi | 那智 | ![](https://ehgt.org/0c/ba/0cba65a8a875a658811822c3beb4945c17259bf6-48275-384-480-jpg_l.jpg)<br><br>旧日本帝国海军妙高级重巡洋舰二番舰那智号（那智(重巡洋舰)） | [碧蓝航线:那智](https://zh.moegirl.org.cn/碧蓝航线:那智) [舰队Collection:那智](https://zh.moegirl.org.cn/舰队Collection:那智) |
-| kagura | 神乐 | 银魂<br>犬夜叉<br>![闪乱神乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
+| kagura | 神乐 | `p:gintama`<br><br>`p:inuyasha`<br><br>`p:senran kagura`<br>![闪乱神乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
 | ram | 拉姆 | `re zero kara hajimeru isekai seikatsu`中的角色<br>![拉姆](https://ehgt.org/b7/85/b785182a5e03deeb75e84661e61f471e838cd293-190463-609-830-jpg_l.jpg)<br><br>`hyperdimension neptunia`中的角色<br>![图](https://ehgt.org/d9/30/d930d4c3a74a3650fb43e0f00a5bcf57f350be59-2269588-4877-6950-jpg_l.jpg) |  |
 |  | ▲ 重复项合并 |  |  |
 |  | ▼ 萌单 人物 | 👓我已经钦定了，茵可酱只能我来改 |  |
@@ -4279,7 +4279,7 @@ example:
 | ayato kamisato | 神里绫人 |  |  |
 | tsubaki yayoi | 椿·弥生 |  |  |
 | lambda-11 | Λ-No.11- | 拉姆达 |  |
-| mu-12 | μ-No.12- |  缪|  |
+| mu-12 | μ-No.12- | 缪 |  |
 | nu-13 | ν-No.13- | 纽恩 |  |
 | jin kisaragi | 琴恩·如月 |  |  |
 | erice utsumi | 宇津见绘里濑 |  |  |
