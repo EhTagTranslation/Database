@@ -4291,6 +4291,7 @@ example:
 | sirin | 西琳 |  |  |
 | dehya | 迪希雅 |  |  |
 | noa ushio | 生盐诺亚 | 所属作品：`p:blue archive` |  |
+| kokona sunohara | 春原心奈 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
