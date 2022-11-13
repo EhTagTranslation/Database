@@ -4294,6 +4294,7 @@ example:
 | kokona sunohara | 春原心奈 | 所属作品：`p:blue archive` |  |
 | hasumi hanekawa | 羽川莲见 | 所属作品：`p:blue archive` |  |
 | hibiki nekozuka | 猫冢响 | 所属作品：`p:blue archive` |  |
+| arona | 阿罗娜 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
