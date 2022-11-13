@@ -4292,6 +4292,7 @@ example:
 | dehya | 迪希雅 |  |  |
 | noa ushio | 生盐诺亚 | 所属作品：`p:blue archive` |  |
 | kokona sunohara | 春原心奈 | 所属作品：`p:blue archive` |  |
+| hasumi hanekawa | 羽川莲见 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
