@@ -12235,6 +12235,7 @@ example:
 | sasaki shounen | 佐佐木少年 |  |  |
 | haruno tomoya | 春野友矢 |  |  |
 | pirorikin | ピロリ菌 |  | [Twitter](https://twitter.com/heripiro) [pixiv](https://www.pixiv.net/users/19731971) |
+| hayama junichi | 羽山淳一 |  | [Twitter](https://twitter.com/hayama11) |
 
 <!--TEMPLATE:
 |  |  |  |  |
