@@ -12236,6 +12236,7 @@ example:
 | haruno tomoya | 春野友矢 |  |  |
 | pirorikin | ピロリ菌 |  | [Twitter](https://twitter.com/heripiro) [pixiv](https://www.pixiv.net/users/19731971) |
 | hayama junichi | 羽山淳一 |  | [Twitter](https://twitter.com/hayama11) |
+| kureha | クレハ |  | [Twitter](https://twitter.com/KU_RE_HA) [pixiv](https://www.pixiv.net/users/4994566) |
 
 <!--TEMPLATE:
 |  |  |  |  |
