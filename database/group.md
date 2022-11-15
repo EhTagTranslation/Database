@@ -12495,6 +12495,7 @@ example:
 | chinpan-bu | チンパン部 |  |  |
 | mondomura tomo no kai | 蒙德村友会 |  |  |
 | pirori kingdom | PiRORI KINGDOM |  |  |
+| kinomiki no mama | 木の幹のまま |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
