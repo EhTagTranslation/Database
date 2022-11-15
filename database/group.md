@@ -3481,7 +3481,7 @@ example:
 | burikichoco | ブリキチョコ |  |  |
 | burisuta | ブリスタ |  |  |
 | burning hammer | バーニングハンマー |  |  |
-| burning sisters | バーニング姉妹 |  |  |
+| burning sisters | バーニング姉妹 |  |  |
 | burning soul | バーニンソウル |  |  |
 | bushi | 節 |  |  |
 | bushiteki tamashii | 武士的魂 |  |  |
@@ -7199,7 +7199,7 @@ example:
 | locus | Locus |  |  |
 | log | LOG |  |  |
 | log house | Log House |  |  |
-| logic choco | ロジックチョコ |  |  |
+| logic choco | ロジックチョコ |  |  |
 | loiter | loiter |  |  |
 | lol | LOL |  |  |
 | loli goranyo | ろりーごーらんにょ |  |  |

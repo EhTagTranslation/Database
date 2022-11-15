@@ -11592,7 +11592,7 @@ example:
 | yamikage missa | 闇影みさ |  |  |
 | yaminoki | やみのき |  |  |
 | yamisupi | やみすぴ |  |  |
-| yamizawa | ヤミザワ |  |  |
+| yamizawa | ヤミザワ |  |  |
 | yamizora hikari | 闇空光 |  |  |
 | yamome | ヤモメ |  |  |
 | yamoto | yamoto |  |  |
