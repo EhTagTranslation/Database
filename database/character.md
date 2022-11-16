@@ -4296,6 +4296,7 @@ example:
 | hibiki nekozuka | 猫冢响 | 所属作品：`p:blue archive` |  |
 | arona | 阿罗娜 | 所属作品：`p:blue archive` |  |
 | saki sorai | 空井咲希 | 所属作品：`p:blue archive` |  |
+| collei | 柯莱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
