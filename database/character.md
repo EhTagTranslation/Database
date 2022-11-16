@@ -4261,7 +4261,7 @@ example:
 | timido cute | 缇米朵·丘忒 |  |  |
 | mobius | 梅比乌斯 |  |  |
 | heizou shikanoin | 鹿野院平藏 |  |  |
-| columbina | 哥伦比娅 | 「少女」 |  |
+| columbina | 「少女」哥伦比娅 | 《`genshin impact`》的登场角色。愚人众十一执行官第三席。 |  |
 | tartaglia | 达达利亚 | 「公子」 |  |
 | gorou | 五郎 |  |  |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
