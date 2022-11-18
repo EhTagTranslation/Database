@@ -12496,6 +12496,7 @@ example:
 | mondomura tomo no kai | 蒙德村友会 |  |  |
 | pirori kingdom | PiRORI KINGDOM |  |  |
 | kinomiki no mama | 木の幹のまま |  |  |
+| raise wa futanari bishoujo | 来世是扶她美少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
