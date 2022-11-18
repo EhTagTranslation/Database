@@ -4300,6 +4300,7 @@ example:
 | lavenza | 拉雯妲 |  |  |
 | von lycaon | 冯·莱卡恩 | 《`zenless zone zero`》的登场角色。 |  |
 | cyborg | 赛博格 | 赛博格是以无机物所构成的人造物，植入或者装配在有机体身体内外，但思考动作均由有机体控制的生物。通常这样做的目的是借由人工科技来增加或强化生物体的能力。 | [维基百科](https://zh.wikipedia.org/wiki/賽博格) |
+| april | 四月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
