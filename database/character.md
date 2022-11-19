@@ -690,7 +690,7 @@ example:
 | haru yuuki | 结城晴 |  |  |
 | fumika sagisawa | 鹭泽文香 | ![鹭泽文香](https://img.moegirl.org.cn/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) |  |
 |  | 八神牧野 |  |  |
-| layla | 莱拉 |  |  |
+| layla | 莱拉 \| 莱依拉 |  |  |
 | asuka ninomiya | 二宫飞鸟 |  |  |
 | nanami asari | 浅利七海 |  |  |
 |  | 桐生司 |  |  |
