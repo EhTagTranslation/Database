@@ -1323,7 +1323,7 @@ example:
 | last period | 最终休止符 -无止境的螺旋物语- | 《最终休止符 -无止境的螺旋物语-》（日语：ラストピリオド -終わりなき螺旋の物語-，英语：Last Period: The Story of an Endless Spiral）是Happy Elements开发的手机游戏，2016年5月公开。电视动画于2018年4月12日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/最終休止符_-無止境的螺旋物語-) (\*) |
 | stella glow | 星光幻歌 |  |  |
 | ryuuou no oshigoto | 龙王的工作！ | 《龙王的工作！》（日语：りゅうおうのおしごと!）是白鸟士郎撰写，しらび绘制插画的日本轻小说作品。由SB Creative的GA文库发行，已发售8册。漫画版为こげたおこげ作画。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍王的工作！) (\*) |
-| uma musume pretty derby | 🐎赛马娘Pretty Derby | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司Cygames制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。 | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (\*) |
+| uma musume pretty derby | 赛马娘Pretty Derby🐎 | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司Cygames制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。 | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (\*) |
 | os-tan | OS娘 | OS娘（OSたん，亦有OS Girls、OS少女等称呼），为一个在日本讨论区双叶频道（Futaba Channel，ふたば☆ちゃんねる）的网络现象。OS娘是日本漫画爱好者对目前的电脑操作系统拟人化后的产物，其对象主要为Windows操作系统。每位OS娘的出场是众位漫画爱好者获得一致的想法创造出来的。 | [维基百科](https://zh.wikipedia.org/zh-cn/OS娘) (\*) |
 | sunohara-sou no kanrinin-san | 春原庄的管理员小姐 | 《春原庄的管理员小姐》（日语：すのはら荘の管理人さん）是由ねこうめ创作的日本四格漫画作品，自一迅社的漫画杂志《漫画4格Palette》2014年7月号开始连载。已发行3册单行本。2017年11月宣布电视动画化。 | [维基百科](https://zh.wikipedia.org/zh-cn/春原莊的管理員小姐) (\*) |
 | yotsubato | 四叶妹妹！ | 《四叶妹妹！》（日语：よつばと!）是东清彦的日本漫画作品，于2003年3月在漫画杂志《月刊Comic电击大王》上连载。到2018年4月28日为止，单行本目前发行了14本。台湾角川已出版13册。 | [维基百科](https://zh.wikipedia.org/zh-cn/四葉妹妹！) (\*) |
