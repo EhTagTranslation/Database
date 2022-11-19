@@ -1422,7 +1422,7 @@ example:
 | tenki no ko | 天气之子 | 新海诚编剧并执导的第七部动画电影，由Comix Wave Films制作<br>于2019年7月19日在日本上映，4D版于2019年9月27日在日本上映<br>本作讲述在天气气候时而平和时而狂暴的时代，被命运捉弄的少年少女相遇，“选择”自己的生活方式的故事。<br>![图片](https://img.moegirl.org.cn/common/f/f5/Weathering_With_You.jpg)<br>![图片](https://img.moegirl.org.cn/common/e/ef/Weathering_With_You_Visual2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天气之子) [维基百科](https://zh.wikipedia.org/wiki/天气之子) [官网](https://www.tenkinoko.com/) |
 | arifureta shokugyou de sekai saikyou | 平凡职业造就世界最强 |  |  |
 | asobi asobase | 游戏3人娘 | 生在日本长在日本、完全不会说英语的金发美少女·奥莉薇，性格认真、知性洋溢、完全不会说英语的短发眼镜娘·香纯，以及虽然性格开朗却无法成为现充的下双马尾少女·华子，三名初中女生创造出来的是“游戏人间研究会”！？超级可爱有趣、令人捧腹绝倒的JC女生喜剧现在开幕！ | [萌娘百科](https://zh.moegirl.org.cn/游戏3人娘) [维基百科](https://zh.wikipedia.org/wiki/遊戲3人娘) |
-| zombie land saga | 佐贺偶像是传奇 | 《佐贺偶像是传奇》（日语：ゾンビランドサガ）是由MAPPA、avex pictures、Cygames合作推出的原创动画。由MAPPA负责动画制作，境宗久导演，村越繁负责剧本构成，深川可纯担任角色设计。电视动画全12话，于2018年10月4日开始播出。宣传语是“新感觉僵尸系动画”。 | [萌娘百科](https://zh.moegirl.org.cn/佐贺偶像是传奇) [维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
+| zombie land saga | 佐贺偶像是传奇 | 《佐贺偶像是传奇》（日语：ゾンビランドサガ）是由MAPPA、avex pictures、`g:cygames`合作推出的原创动画。由MAPPA负责动画制作，境宗久导演，村越繁负责剧本构成，深川可纯担任角色设计。电视动画全12话，于2018年10月4日开始播出。宣传语是“新感觉僵尸系动画”。 | [萌娘百科](https://zh.moegirl.org.cn/佐贺偶像是传奇) [维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
 | nazo no kanojo x | 谜样女友X |  |  |
 | shoujo shuumatsu ryokou | 少女终末旅行 |  |  |
 | dumbbell nan kilo moteru | 流汗吧!健身少女 |  | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女) [萌娘百科](https://zh.moegirl.org.cn/zh-cn/流汗吧!健身少女) |
