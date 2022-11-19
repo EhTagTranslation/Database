@@ -12498,6 +12498,7 @@ example:
 | kinomiki no mama | 木の幹のまま |  |  |
 | raise wa futanari bishoujo | 来世是扶她美少女 |  |  |
 | cygames | Cygames | 株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。 | [官方网站](https://www.cygames.co.jp/) [维基百科](https://zh.wikipedia.org/wiki/Cygames) |
+| kakuzatou | 角砂糖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
