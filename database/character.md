@@ -3298,7 +3298,7 @@ example:
 | okada izou | 冈田以藏 |  |  |
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
 | caenis | 凯妮斯 |  |  |
-| artoria caster | 阿尔托莉雅·Caster |  |  |
+| artoria caster | 阿尔托莉雅·卡斯特 |  |  |
 | atlanta | 亚特兰大 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:亚特兰大) |
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
 | qin liangyu | 秦良玉 |  |  |
