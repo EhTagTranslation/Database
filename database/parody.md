@@ -88,7 +88,7 @@ example:
 | highschool of the dead | 学园默示录 | 肉感打僵尸<br>![图](# "https://ehgt.org/f7/97/f7977f970020e06c854ee8b1e61f7631e0eab27d-1841395-1404-2000-jpg_250.jpg")![图](https://ehgt.org/25/d0/25d0252af47dbf969afd9e84293f16d3b0763952-6834534-7180-10139-jpg_l.jpg) |  |
 | gakkou gurashi | 学园孤岛 | ![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gakkō_Gurashi!_logo.png/220px-Gakkō_Gurashi!_logo.png)<br>萝莉打僵尸<br>![图](# "https://ehgt.org/22/54/2254927f2dc9109156292dd400cdda9892dcbd40-1606151-1512-2103-png_l.jpg") |  |
 | a channel | A频道 | 漫画<br>![图](# "https://ehgt.org/70/af/70afc872d80ae56818347695712c84370978b85f-219447-600-600-jpg_l.jpg") |  |
-| granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由Cygames发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。<br>![图](# "https://ehgt.org/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg")![图](# "https://ehgt.org/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg") |  |
+| granblue fantasy | 碧蓝幻想 | 碧蓝幻想（日文：グランブルーファンタジー，英文：Granblue Fantasy）是由`g:cygames`发行开发，由Mobage、DMM、GREE共同运营的网页游戏。有改编动画和漫画作品。2017年6月登录数突破1500万人。<br>![图](# "https://ehgt.org/07/81/078102b1dbdc85b5196c4ad571dfb1830d0fb791-2885074-1419-2016-jpg_250.jpg")![图](# "https://ehgt.org/c1/e3/c1e33bbd32d497529572139cc837431b66376ce1-1866448-2874-4034-jpg_250.jpg") |  |
 |  | ▼高达 系列 |  |  |
 | gundam | 高达 |  |  |
 | gundam age | 机动战士高达AGE |  |  |
