@@ -14,7 +14,7 @@ body:
     id: intro
     attributes:
       label: 描述
-      description: 输入标签的描述
+      description: 输入标签的描述 <https://github.com/EhTagTranslation/Database/wiki/%E5%8F%82%E4%B8%8E%E7%BF%BB%E8%AF%91#markdown-%E4%B9%A6%E5%86%99%E6%8C%87%E5%BC%95>
     validations:
       required: false
   - type: textarea
