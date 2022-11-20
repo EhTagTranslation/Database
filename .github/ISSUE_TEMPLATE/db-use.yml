@@ -1,0 +1,26 @@
+name: 数据库使用
+description: 记录第三方使用数据库的情况
+title: "数据库使用 - [项目名称]"
+labels: ["数据库使用"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 项目名称
+      description: 使用数据库的项目名称
+    validations:
+      required: true
+  - type: input
+    id: homepage
+    attributes:
+      label: 项目主页
+      description: 使用数据库的项目主页
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: 备注
+      description: 其他说明内容
+    validations:
+      required: false
