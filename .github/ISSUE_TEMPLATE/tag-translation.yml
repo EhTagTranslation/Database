@@ -3,25 +3,28 @@ description: 讨论标签翻译的增加和修改
 title: "[添加/更改]标签 - [标签]"
 labels: ["翻译"]
 body:
+  - type: markdown
+    attributes:
+      value: "欢迎提交翻译！编辑前请先查阅[参与翻译](../../wiki/参与翻译)指南。"
   - type: input
     id: name
     attributes:
       label: 名称
-      description: 输入标签的中文翻译
+      description: 输入标签的中文翻译，支持 [MarkDown](https://github.com/EhTagTranslation/Database/wiki/参与翻译#markdown-书写指引)
     validations:
       required: true
   - type: textarea
     id: intro
     attributes:
       label: 描述
-      description: 输入标签的描述 <https://github.com/EhTagTranslation/Database/wiki/%E5%8F%82%E4%B8%8E%E7%BF%BB%E8%AF%91#markdown-%E4%B9%A6%E5%86%99%E6%8C%87%E5%BC%95>
+      description: 输入标签的描述，支持 [MarkDown](https://github.com/EhTagTranslation/Database/wiki/参与翻译#markdown-书写指引)
     validations:
       required: false
   - type: textarea
     id: links
     attributes:
       label: 外部链接
-      description: 输入标签的相关链接，如指向 EhWiki 页面或萌百词条的链接
+      description: 输入标签的相关链接，如指向 EhWiki 页面或萌百词条的链接，支持 [MarkDown](https://github.com/EhTagTranslation/Database/wiki/参与翻译#markdown-书写指引)
     validations:
       required: false
   - type: textarea
