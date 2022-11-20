@@ -12238,6 +12238,7 @@ example:
 | hayama junichi | 羽山淳一 |  | [Twitter](https://twitter.com/hayama11) |
 | kureha | クレハ |  | [Twitter](https://twitter.com/KU_RE_HA) [pixiv](https://www.pixiv.net/users/4994566) |
 | kinomiki | きのみき |  |  |
+| ao plus beni | 青十紅 |  | [pixiv](https://www.pixiv.net/users/2872379) |
 
 <!--TEMPLATE:
 |  |  |  |  |
