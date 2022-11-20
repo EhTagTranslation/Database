@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        提交时请将上方标题中 `[]` 占位符的内容替换为实际的项目名称
+        提交时请将上方标题中 `[]` 占位符的内容替换为实际的项目名称。
   - type: input
     id: name
     attributes:
