@@ -12501,6 +12501,7 @@ example:
 | kakuzatou | 角砂糖 |  |  |
 | gyuunyuu shoujo seisakusho | 牛乳少女制作所 |  |  |
 | abukumadou | 阿武隈堂 |  |  |
+| hakutamayu | 白玉湯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
