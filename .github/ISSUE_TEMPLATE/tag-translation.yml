@@ -1,0 +1,33 @@
+name: 标签翻译
+description: 讨论标签翻译的增加和修改
+title: "[添加/更改]标签 - [标签]"
+labels: ["翻译"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 名称
+      description: 输入标签的中文翻译
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 描述
+      description: 输入标签的描述
+    validations:
+      required: false
+  - type: textarea
+    id: links
+    attributes:
+      label: 外部链接
+      description: 输入标签的相关链接，如指向 EhWiki 页面或萌百词条的链接
+    validations:
+      required: false
+  - type: textarea
+    id: comment
+    attributes:
+      label: 备注
+      description: 关于该变更的额外说明
+    validations:
+      required: false
