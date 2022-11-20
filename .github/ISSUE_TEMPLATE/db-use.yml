@@ -3,6 +3,10 @@ description: 记录第三方使用数据库的情况
 title: "数据库使用 - [项目名称]"
 labels: ["数据库使用"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        提交时请将上方标题中 `[]` 占位符的内容替换为实际的项目名称
   - type: input
     id: name
     attributes:

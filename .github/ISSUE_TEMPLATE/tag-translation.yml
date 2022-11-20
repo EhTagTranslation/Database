@@ -8,8 +8,10 @@ body:
       value: |
         欢迎提交翻译！
 
-        提交时请填写正确的标题和内容，编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/参与翻译)指南。
-  - type: input
+        编辑前请先查阅[参与翻译](https://github.com/EhTagTranslation/Database/wiki/参与翻译)指南。
+
+        提交时请将上方标题中 `[]` 占位符的内容替换为实际的标签，如：`更改标签 - l:chinese`
+  - type: textarea
     id: name
     attributes:
       label: 名称
