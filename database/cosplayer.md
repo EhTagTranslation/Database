@@ -77,6 +77,7 @@ example:
 | mercurylamp | 水銀燈 | 18禁🔞伪娘 | [Twitter](https://twitter.com/mercurylamp7) |
 | niyeye | 你烨烨 |  |  |
 | yaoyaoqwq | 软妹摇摇乐 |  | [Twitter](https://twitter.com/chan_p90) |
+| maria desu | Maria Desu |  |  |
 
 <!--
 Template: 
