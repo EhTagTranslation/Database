@@ -78,6 +78,7 @@ example:
 | niyeye | 你烨烨 |  |  |
 | yaoyaoqwq | 软妹摇摇乐 |  | [Twitter](https://twitter.com/chan_p90) |
 | maria desu | Maria Desu |  |  |
+| hidori rose | Hidori Rose |  |  |
 
 <!--
 Template: 
