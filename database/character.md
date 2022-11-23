@@ -4304,6 +4304,7 @@ example:
 | eevee | 伊布 | 伊布的外表看起来基于狐狸，全身的毛大部分为褐色。颈部周围与尾巴蓬松的奶油色的毛是它的特征。伊布的腿短而细，各长有三趾和粉色的爪垫。伊布有褐色的眼睛、像兔子一样的长耳朵和小小的黑鼻子。 | [https://wiki.52poke.com/wiki/伊布](https://wiki.52poke.com/wiki/伊布) |
 | sylveon | 仙子伊布 | 仙子伊布的身体以白色为主。它的头顶、耳朵、尾巴和腿的下半部分是粉色，耳朵内侧是蓝色。眼睛是淡蓝色的。它的左耳和脖子上各有一只蝴蝶结，蝴蝶结上有两条缎带，缎带末端的颜色依次是粉、深蓝、浅蓝。 | [https://wiki.52poke.com/wiki/仙子伊布](https://wiki.52poke.com/wiki/仙子伊布) |
 | vaporeon | 水伊布 | 水伊布的身体是蓝色的，颈部上有白色状物，还有两个看上去像是耳朵的鱼鳍。它的身上有深蓝色的条纹，这种颜色的条纹延伸到尾巴处，尾巴残留着像鱼一样的鳍。 | [https://wiki.52poke.com/wiki/水伊布](https://wiki.52poke.com/wiki/水伊布) |
+| jolteon | 雷伊布 | 雷伊布的身体是黄色的，颈部和身体布满了白色和黄色的尖刺。 | [https://wiki.52poke.com/wiki/雷伊布](https://wiki.52poke.com/wiki/雷伊布) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
