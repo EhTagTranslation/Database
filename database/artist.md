@@ -3178,7 +3178,7 @@ example:
 | amane ruri | 天音るり |  | [Twitter](https://twitter.com/typentypen) [pixiv](https://www.pixiv.net/users/458887) |
 | dytm | DYTM |  | [Twitter](https://twitter.com/DYTM_) [pixiv](https://www.pixiv.net/users/1773262) |
 | gentsuki | ゲンツキ |  | [Twitter](https://twitter.com/gentuki0999) [pixiv](https://www.pixiv.net/users/3239395) |
-| iwasaki yuuki | 岩崎ユウキ |  | [Twitter](https://twitter.com/yuuki_take_dake) [pixiv](https://www.pixiv.net/users/16687270) |
+| iwasaki yuuki | 岩崎ユウキ | 每篇作品总是有着都市传说风格的恐怖或悬疑剧情，给读者留下无限的遐想。 | [Twitter](https://twitter.com/yuuki_take_dake) [pixiv](https://www.pixiv.net/users/16687270) |
 | mashiraga aki | 猿駕アキ |  | [pixiv](https://www.pixiv.net/users/186647) |
 | midori aoi | みどり葵 |  | [pixiv](https://www.pixiv.net/users/342666) |
 | musha sabu | 武者サブ |  | [Twitter](https://twitter.com/musyasabu) [pixiv](https://www.pixiv.net/users/2526989) |
