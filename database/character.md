@@ -4331,6 +4331,7 @@ example:
 | salazzle | 焰后蜥 | 焰后蜥（日文︰エンニュート，英文︰Salazzle）是毒属性和火属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/焰后蜥) |
 | samurott | 大剑鬼 | 大剑鬼（日文︰ダイケンキ，英文︰Samurott）是水属性宝可梦，而洗翠的样子是水属性和恶属性宝可梦。大剑鬼的设计者为大村祐介。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/大剑鬼) |
 | scorbunny | 炎兔儿 | 炎兔儿（日文︰ヒバニー，英文︰Scorbunny）是火属性宝可梦，是伽勒尔地区最初的伙伴之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/炎兔儿) |
+| zekrom | 捷克罗姆 | 捷克罗姆（日文︰ゼクロム，英文︰Zekrom）是龙属性和电属性传说的宝可梦。它是传说的龙宝可梦之一。它的设计者是杉森建。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷克罗姆) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
