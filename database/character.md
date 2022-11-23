@@ -4318,6 +4318,7 @@ example:
 | absol | 阿勃梭鲁 | 阿勃梭鲁（日文︰アブソル，英文︰Absol）是恶属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/阿勃梭鲁) |
 | banette | 诅咒娃娃 | 诅咒娃娃（日文︰ジュペッタ，英文︰Banette）是幽灵属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/诅咒娃娃) |
 | braixen | 长尾火狐 | 长尾火狐（日文︰テールナー，英文︰Braixen）是火属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/长尾火狐) |
+| bulbasaur | 妙蛙种子 | 妙蛙种子（日文︰フシギダネ，英文︰Bulbasaur）是草属性和毒属性宝可梦，是关都地区最初的伙伴之一，它的设计者为西田敦子。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/妙蛙种子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
