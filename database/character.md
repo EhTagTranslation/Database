@@ -4323,6 +4323,7 @@ example:
 | ditto | 百变怪 | 百变怪（日文︰メタモン，英文︰Ditto）是一般属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/百变怪) |
 | greninja | 甲贺忍蛙 | 甲贺忍蛙（日文︰ゲッコウガ，英文︰Greninja）是水属性和恶属性宝可梦，它的设计者是大村祐介。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/甲贺忍蛙) |
 | kirlia | 奇鲁莉安 | 奇鲁莉安（日文︰キルリア，英文︰Kirlia）是超能力属性和妖精属性宝可梦。在第六世代前是超能力属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/奇鲁莉安) |
+| lugia | 洛奇亚 | 洛奇亚（日文︰ルギア，英文︰Lugia）是超能力属性和飞行属性传说的宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/洛奇亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
