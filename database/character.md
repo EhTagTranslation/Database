@@ -4307,6 +4307,7 @@ example:
 | jolteon | 雷伊布 | 雷伊布的身体是黄色的，颈部和身体布满了白色和黄色的尖刺。 | [https://wiki.52poke.com/wiki/雷伊布](https://wiki.52poke.com/wiki/雷伊布) |
 | flareon | 火伊布 | 火伊布的皮肤是火红色的。它有一条大而毛绒绒的尾巴，脖上也有绒毛，额头上也有一撮小毛，这些毛全部都是奶黄色的。另外，它爪子上的爪垫也都是奶黄色的。 | [https://wiki.52poke.com/wiki/火伊布](https://wiki.52poke.com/wiki/火伊布) |
 | espeon | 太阳伊布 | 太阳伊布有着小型猫科动物的特征，体毛和眼睛是紫色的。它的头上有一块红宝石，体毛有着天鹅绒般的光泽和手感。 | [https://wiki.52poke.com/wiki/太阳伊布](https://wiki.52poke.com/wiki/太阳伊布) |
+| umbreon | 月亮伊布 | 月亮伊布的毛是黑色的，眼睛是红色的。它身上的环状花纹是耀眼的金色，沐浴月亮波动后，身上圈圈一样的花纹就会发光，是因为不可思议的力量觉醒了。 | [https://wiki.52poke.com/wiki/月亮伊布](https://wiki.52poke.com/wiki/月亮伊布) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
