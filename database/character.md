@@ -4312,6 +4312,7 @@ example:
 | glaceon | 冰伊布 | 冰伊布长得有些像狐狸，全身的皮肤是淡蓝色的。它的皮肤上长满了锋利的毛刺，但很难分辨出来。它看起来像是戴着一顶双层编结御寒帽。冰伊布的内耳、背上和尾巴上都有一些菱形的深蓝色的斑点，与它身体的淡蓝色形成鲜明的对比。它额头上有蓝色的毛，像辫子一样延伸到前方，末端也有深蓝色的菱形斑点。冰伊布的四肢上也有深蓝色的区域，看起来就像是穿着靴子一样。 | [https://wiki.52poke.com/wiki/冰伊布](https://wiki.52poke.com/wiki/冰伊布) |
 | piplup | 波加曼 | 波加曼（日文︰ポッチャマ，英文︰Piplup）是水属性宝可梦，是神奥地区最初的伙伴之一。它的设计者是大村祐介。 | [https://wiki.52poke.com/wiki/波加曼](https://wiki.52poke.com/wiki/波加曼) |
 | turtwig | 草苗龟 | 草苗龟（日文︰ナエトル，英文︰Turtwig）是草属性宝可梦，是神奥地区最初的伙伴之一。 | [https://wiki.52poke.com/wiki/草苗龟](https://wiki.52poke.com/wiki/草苗龟) |
+| meowth | 喵喵 | 喵喵（日文︰ニャース，英文︰Meowth）是一般属性宝可梦，阿罗拉的样子是恶属性宝可梦。而伽勒尔的样子是钢属性宝可梦。 | [https://wiki.52poke.com/wiki/喵喵](https://wiki.52poke.com/wiki/喵喵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
