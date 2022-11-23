@@ -4315,6 +4315,7 @@ example:
 | meowth | 喵喵 | 喵喵（日文︰ニャース，英文︰Meowth）是一般属性宝可梦，阿罗拉的样子是恶属性宝可梦。而伽勒尔的样子是钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/喵喵) |
 | cinderace | 闪焰王牌 | 闪焰王牌（日文︰エースバーン，英文︰Cinderace）是火属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/闪焰王牌) |
 | lopunny | Lopunny | 长耳兔（日文︰ミミロップ，英文︰Lopunny）是一般属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/长耳兔) |
+| absol | 阿勃梭鲁 | 阿勃梭鲁（日文︰アブソル，英文︰Absol）是恶属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/阿勃梭鲁) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
