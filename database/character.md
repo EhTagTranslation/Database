@@ -4321,6 +4321,7 @@ example:
 | bulbasaur | 妙蛙种子 | 妙蛙种子（日文︰フシギダネ，英文︰Bulbasaur）是草属性和毒属性宝可梦，是关都地区最初的伙伴之一，它的设计者为西田敦子。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/妙蛙种子) |
 | delphox | 妖火红狐 | 妖火红狐（日文︰マフォクシー，英文︰Delphox）是火属性和超能力属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/妖火红狐) |
 | ditto | 百变怪 | 百变怪（日文︰メタモン，英文︰Ditto）是一般属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/百变怪) |
+| greninja | 甲贺忍蛙 | 甲贺忍蛙（日文︰ゲッコウガ，英文︰Greninja）是水属性和恶属性宝可梦，它的设计者是大村祐介。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/甲贺忍蛙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
