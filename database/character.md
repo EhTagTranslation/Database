@@ -4305,6 +4305,7 @@ example:
 | sylveon | 仙子伊布 | 仙子伊布的身体以白色为主。它的头顶、耳朵、尾巴和腿的下半部分是粉色，耳朵内侧是蓝色。眼睛是淡蓝色的。它的左耳和脖子上各有一只蝴蝶结，蝴蝶结上有两条缎带，缎带末端的颜色依次是粉、深蓝、浅蓝。 | [https://wiki.52poke.com/wiki/仙子伊布](https://wiki.52poke.com/wiki/仙子伊布) |
 | vaporeon | 水伊布 | 水伊布的身体是蓝色的，颈部上有白色状物，还有两个看上去像是耳朵的鱼鳍。它的身上有深蓝色的条纹，这种颜色的条纹延伸到尾巴处，尾巴残留着像鱼一样的鳍。 | [https://wiki.52poke.com/wiki/水伊布](https://wiki.52poke.com/wiki/水伊布) |
 | jolteon | 雷伊布 | 雷伊布的身体是黄色的，颈部和身体布满了白色和黄色的尖刺。 | [https://wiki.52poke.com/wiki/雷伊布](https://wiki.52poke.com/wiki/雷伊布) |
+| flareon | 火伊布 | 火伊布的皮肤是火红色的。它有一条大而毛绒绒的尾巴，脖上也有绒毛，额头上也有一撮小毛，这些毛全部都是奶黄色的。另外，它爪子上的爪垫也都是奶黄色的。 | [https://wiki.52poke.com/wiki/火伊布](https://wiki.52poke.com/wiki/火伊布) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
