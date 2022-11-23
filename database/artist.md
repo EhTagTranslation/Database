@@ -823,7 +823,7 @@ example:
 | hikoma hiroyuki | 彦馬ヒロユキ | 彦馬ヒロユキ是日本成人向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1221651978616373248/xjgUGiUc_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/86/a5/86a5627cf0f8ff09ecfa9cf38a2dec40f8b868a1-1158301-1057-1500-jpg_l.jpg")<br>《成長中のマセガキに愛の失神アクメ指導》 | [Twitter](https://twitter.com/hikoma_h2) |
 | imotoka tsuyuki | 芋とか露木 |  |  |
 | natsuki kiyohito | 夏木きよひと |  |  |
-| noise | Noise |  |  |
+| noise | Noise | 萝莉本画师，在《COMIC LO》2008年5月刊投稿第一篇漫画，算作今日已入行14年。 |  |
 | nukkoru | ぬっこる |  |  |
 | ponsuke | ポンスケ | ポンスケ<br>成人向漫画家，作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1342441127459180545/k84yZPtV_400x400.jpg)<br>**作者推特头像**<br><br>单行本《おしゃまな幼性》<br>![图](# "https://ehgt.org/e1/d7/e1d75ebd8682ce65e16393b2f2cc25e9db991a6d-747815-1065-1500-jpg_l.jpg") | [Twitter](https://twitter.com/ponsuke23570503) [Pixiv](https://www.pixiv.net/users/154444) |
 | satuyo | さつよ |  |  |
