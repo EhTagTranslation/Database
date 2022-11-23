@@ -4325,6 +4325,7 @@ example:
 | kirlia | 奇鲁莉安 | 奇鲁莉安（日文︰キルリア，英文︰Kirlia）是超能力属性和妖精属性宝可梦。在第六世代前是超能力属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/奇鲁莉安) |
 | lugia | 洛奇亚 | 洛奇亚（日文︰ルギア，英文︰Lugia）是超能力属性和飞行属性传说的宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/洛奇亚) |
 | mawile | 大嘴娃 | 大嘴娃（日文︰クチート，英文︰Mawile）是钢属性和妖精属性宝可梦。在第六世代前是钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/大嘴娃) |
+| nidoqueen | 尼多后 | 尼多后（日文︰ニドクイン，英文︰Nidoqueen）是毒属性和地面属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/尼多后) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
