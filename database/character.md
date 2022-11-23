@@ -4328,6 +4328,7 @@ example:
 | nidoqueen | 尼多后 | 尼多后（日文︰ニドクイン，英文︰Nidoqueen）是毒属性和地面属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/尼多后) |
 | primarina | 西狮海壬 | 西狮海壬（日文︰アシレーヌ，英文︰Primarina）是水属性和妖精属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/西狮海壬) |
 | reshiram | 莱希拉姆 | 莱希拉姆（日文︰レシラム，英文︰Reshiram）是龙属性和火属性传说的宝可梦。它是传说的龙宝可梦之一。它的设计者是杉森建。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/莱希拉姆) |
+| salazzle | 焰后蜥 | 焰后蜥（日文︰エンニュート，英文︰Salazzle）是毒属性和火属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/焰后蜥) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
