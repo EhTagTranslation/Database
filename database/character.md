@@ -3730,7 +3730,7 @@ example:
 | miku kohinata | 小日向未来 |  |  |
 | gardevoir | 沙奈朵 |  | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
 | celestine lucullus | 塞蕾斯汀·卢库勒斯 |  |  |
-| lucario | 路卡利欧 |  |  |
+| lucario | 路卡利欧 | 路卡利欧（日文︰ルカリオ，英文︰Lucario）是格斗属性和钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/路卡利欧) |
 | eren jaeger | 艾伦·耶格尔 |  |  |
 | mikasa ackerman | 三笠·阿克曼 |  |  |
 | armin arlert | 阿明·阿诺德 |  |  |
