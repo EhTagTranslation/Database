@@ -24,7 +24,7 @@ body:
       label: 描述
       description: 输入标签的描述，支持 [MarkDown](https://github.com/EhTagTranslation/Database/wiki/参与翻译#markdown-书写指引)
     validations:
-      required: false
+      required: true
   - type: textarea
     id: links
     attributes:
