@@ -12503,6 +12503,7 @@ example:
 | abukumadou | 阿武隈堂 |  |  |
 | hakutamayu | 白玉湯 |  |  |
 | nodomaru biyori | のどまる日和 |  |  |
+| itabira yasai | イタビラ野菜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
