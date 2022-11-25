@@ -4333,6 +4333,7 @@ example:
 | scorbunny | 炎兔儿 | 炎兔儿（日文︰ヒバニー，英文︰Scorbunny）是火属性宝可梦，是伽勒尔地区最初的伙伴之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/炎兔儿) |
 | zekrom | 捷克罗姆 | 捷克罗姆（日文︰ゼクロム，英文︰Zekrom）是龙属性和电属性传说的宝可梦。它是传说的龙宝可梦之一。它的设计者是杉森建。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷克罗姆) |
 | zeraora | 捷拉奥拉 | 捷拉奥拉（日文︰ゼラオラ，英文︰Zeraora）是电属性的幻之宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷拉奥拉) |
+| iono | 奇树 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=奇树) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
