@@ -12504,6 +12504,7 @@ example:
 | hakutamayu | 白玉湯 |  |  |
 | nodomaru biyori | のどまる日和 |  |  |
 | itabira yasai | イタビラ野菜 |  |  |
+| maria planet | マリアプラネット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
