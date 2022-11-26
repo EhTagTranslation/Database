@@ -12241,6 +12241,7 @@ example:
 | ao plus beni | 青十紅 |  | [pixiv](https://www.pixiv.net/users/2872379) |
 | ruzhai | 儒宅 |  |  |
 | hukairi botan | 深煎り牡丹 |  | [pixiv](https://www.pixiv.net/users/29160959) |
+| katano chika | 片野ちか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
