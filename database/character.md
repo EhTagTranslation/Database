@@ -4337,6 +4337,7 @@ example:
 | maho himemiya | 姬宫真步 | Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色 | [https://rwiki.jp/pri\_cone/パートナー/姫宮真歩](https://rwiki.jp/pri_cone/パートナー/姫宮真歩) |
 | ahri | 阿狸 |  |  |
 | lillia | 莉莉娅 |  |  |
+| thresh | 锤石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
