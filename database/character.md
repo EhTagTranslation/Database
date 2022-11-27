@@ -4336,6 +4336,7 @@ example:
 | iono | 奇树 | 宝可梦朱紫电系道馆主 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=奇树) |
 | maho himemiya | 姬宫真步 | Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色 | [https://rwiki.jp/pri\_cone/パートナー/姫宮真歩](https://rwiki.jp/pri_cone/パートナー/姫宮真歩) |
 | ahri | 阿狸 |  |  |
+| lillia | 莉莉娅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
