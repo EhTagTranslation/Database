@@ -2040,6 +2040,7 @@ example:
 | genjitsu shugi yuusha no oukoku saikenki | 现实主义勇者的王国重建记 |  | [维基百科](https://zh.wikipedia.org/wiki/現實主義勇者的王國重建記) |
 | zenless zone zero | 绝区零 |  |  |
 | mato seihei no slave | 魔都精兵的奴隶 | 《魔都精兵的奴隶》（日语：魔都精兵のスレイブ）是Takahiro负责原作，竹村洋平负责作画的日本漫画，由2019年1月5日起于少年Jump+连载至今，隔周星期六更新。改编电视动画将于2023年首播。 | [维基百科](https://zh.wikipedia.org/wiki/魔都精兵的奴隸) |
+| bocchi the rock | 孤独摇滚！ |  | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
