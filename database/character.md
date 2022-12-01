@@ -4338,6 +4338,7 @@ example:
 | ahri | 阿狸 |  |  |
 | lillia | 莉莉娅 |  |  |
 | thresh | 锤石 |  |  |
+| sophia nishikinomiya | 苏菲亚·锦之宫 | `anna nishikinomiya`的母亲，时冈学园家长会会长。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
