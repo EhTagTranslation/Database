@@ -2647,7 +2647,7 @@ example:
 | mizuki takehito | みづきたけひと |  | [pixiv](https://www.pixiv.net/users/31309034) [Twitter](https://twitter.com/mzktkht) |
 | takahashi tetsuya | 高桥哲哉 |  | [pixiv](https://www.pixiv.net/users/2695043) [Twitter](https://twitter.com/t_takahashi0830) |
 | hiten | Hiten |  | [pixiv](https://www.pixiv.net/users/490219) [Twitter](https://twitter.com/HitenKei) |
-| inugami kira | 狗神煌 |  | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
+| inugami kira | 狗神煌 | 枕社元老级画师 | [pixiv](https://www.pixiv.net/users/465146) [Twitter](https://twitter.com/kilacco) |
 | korie riko | 梱枝莉子 | 梱枝りこ，梱枝，梱妈，梱枝Riko，画风颇具特色。<br>![图](https://ehgt.org/35/21/35212f1608601d540106e384c05389f698cd3952-314854-600-854-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/245242) [Twitter](https://twitter.com/riko0202) [萌娘百科](https://zh.moegirl.org.cn/梱枝莉子) |
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [Twitter](https://twitter.com/hasuroot) |
 | muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [Twitter](https://twitter.com/muku_apupop) |
