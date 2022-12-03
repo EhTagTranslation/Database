@@ -229,7 +229,7 @@ example:
 | atelier gons | アトリエ GONS |  |  |
 | atelier maruwa | アトリエ丸和 |  |  |
 | atelier ms | Atelier Ms |  |  |
-| kinokonabe hinanjo | きのこなべ避難所 |  |  |
+| kinokonabe-hinanjo | きのこなべ避難所 |  |  |
 | s-size | Sサイズ |  |  |
 | mugen at works | むげん@WORKS |  |  |
 | hyogetsu | 冰月 |  |  |

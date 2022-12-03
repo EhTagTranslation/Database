@@ -329,6 +329,7 @@ example:
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
 | nipple expansion | 乳头膨胀 | 乳头的大小明显增长。可能产生`big nipples`。 |  |
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。<br>![图](# "https://ehgt.org/3c/6b/3c6b94cb5b1d27c3d5bd9bf68c7b79db648fe9a1-419077-768-1024-jpg_250.jpg")![图](# "https://ehgt.org/04/e9/04e9b0eef8d5300f6005f2bd18616c32058dd710-210487-619-900-jpg_250.jpg")![图](# "https://ehgt.org/25/1d/251d253ca9668e4f1c8f55854cb0e1b8cd5c0454-1123823-1680-1260-jpg_250.jpg")![图](# "https://ehgt.org/8b/02/8b02121062922026552366f929c5d351475fe0ae-197939-800-600-jpg_l.jpg") |  |
+| nipple piercing | 乳头穿孔 | 位于乳头或乳晕上的穿孔。需要`piercing`，不应与`clamp`混淆。 |  |
 | nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
@@ -339,6 +340,7 @@ example:
 |  | === 下半身 > 阴部 === |  |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或`masturbation`。经常与`bdsm`配对。 |  |
 | crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
+| genital piercing | 性器穿孔 | 位于生殖器、会阴或肛门的穿孔。需要`piercing`，不应与`cock ring`混淆。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
 | mesuiki | 干高潮 | メスイキ，性行为使对象达到性高潮而对阴茎或阴道没有任何物理刺激。只要直到高潮的性行为不包含对阴茎或阴道的刺激，就可以使用此标签。 |  |
 | multiple orgasms | 连续高潮 | 参与者在一场中连续达到三次以上的性高潮。 |  |

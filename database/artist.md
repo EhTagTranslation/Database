@@ -392,7 +392,7 @@ example:
 | yuuki hagure | 憂姫はぐれ |  |  |
 | paru | パル |  |  |
 | rikatan | りかたん☆ |  |  |
-| jaku denpa | 弱电波 |  |  |
+| jackdempa | 弱电波 |  |  |
 | hiyama izumi | 火山一角 |  |  |
 | kazuma muramasa | 和马村政 |  |  |
 | amatsuka china | 天使ちな |  |  |
