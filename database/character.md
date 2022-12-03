@@ -3279,7 +3279,7 @@ example:
 | jean gunnhildr | 琴·古恩希尔德 |  |  |
 | jean | 琴 |  |  |
 | midori fuse | 布施翠 |  |  |
-| roxy migurdia | 洛琪希·米格路迪亞·格雷拉特 |  |  |
+| roxy migurdia | 洛琪希·米格路迪亚 | 洛琪希·米格路迪亚（日语：ロキシー・ミグルディア）是由理不尽な孫の手创作的轻小说《`mushoku tensei`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
 | ghislaine dedoldia | 基列奴·泰德路迪亚 |  |  |
 | eris boreas greyrat | 爱丽丝·格雷拉特 |  |  |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
