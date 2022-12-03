@@ -12507,6 +12507,7 @@ example:
 | maria planet | マリアプラネット |  |  |
 | uishiro | 初代 |  |  |
 | 140km slash h | 140km/h |  |  |
+| shirokuma terepasu | 白熊テレパス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
