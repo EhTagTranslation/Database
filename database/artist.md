@@ -12248,6 +12248,7 @@ example:
 | mikamin | みかみん |  | [pixiv](https://www.pixiv.net/users/1386632) |
 | nakamori | なかもり |  |  |
 | gittangittan | ギッタンギッタン |  | [pixiv](https://www.pixiv.net/users/21416532) [Fantia](https://fantia.jp/fanclubs/13306) [Twitter](https://twitter.com/gittangittan_r) |
+| kuroda kurota | 黒田くろた |  | [Twitter](https://twitter.com/kurodakurota) |
 
 <!--TEMPLATE:
 |  |  |  |  |
