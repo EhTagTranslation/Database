@@ -539,7 +539,7 @@ example:
 | q-gaku | Q-Gaku |  |  |
 | kemigawa mondo | 検見川もんど |  |  |
 | tadano akira | 只野あきら |  |  |
-| kaisen chuui | 开栓注意 |  |  |
+| kaisen chuui | 开栓注意 |  | [pixiv](https://www.pixiv.net/users/172636) |
 | ozy | オジィ |  |  |
 | sakurai shizuku | 桜井雫 |  |  |
 | kokutou nikke | 黒糖ニッケ |  |  |
