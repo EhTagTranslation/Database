@@ -12247,6 +12247,7 @@ example:
 | squchan | SquChan |  | [pixiv](https://www.pixiv.net/users/2363169) [Patreon](https://www.patreon.com/user?u=533396) |
 | mikamin | みかみん |  | [pixiv](https://www.pixiv.net/users/1386632) |
 | nakamori | なかもり |  |  |
+| gittangittan | ギッタンギッタン |  | [pixiv](https://www.pixiv.net/users/21416532) [Fantia](https://fantia.jp/fanclubs/13306) [Twitter](https://twitter.com/gittangittan_r) |
 
 <!--TEMPLATE:
 |  |  |  |  |
