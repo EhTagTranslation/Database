@@ -1780,7 +1780,7 @@ example:
 | cyocyo | ちょちょ |  |  |
 | emons | えもんず |  |  |
 | saryuu | 沙流 |  |  |
-| tamano kedama | 毛玉牛乳 | 玉之けだま，漫画家，画师。以画`lolicon` 以及魅魔见长。<br>以同人社团`kedama gyuunyuu`活动，由于这个社团名对于以`chinese`为母语来的人来说更好记些，国内一般统称毛玉牛乳老师。<br>![图](https://pbs.twimg.com/profile_images/1196339096802643968/2-C3kq3L_400x400.png)<br>**作者推特头像**<br><br>单行本《僕は小さな淫魔のしもべ》<br>![图](# "https://ehgt.org/6c/04/6c04c9e6d92dd2d3925e1ca24a358d3cd2cc84c3-5923874-2114-3000-png_l.jpg") | [Twitter](https://twitter.com/kedamaa) [Pixiv](https://www.pixiv.net/users/16731) |
+| tamano kedama | 毛玉牛乳 | 玉之けだま，漫画家，画师。以画`lolicon` 以及魅魔见长。<br>以同人社团`kedama gyuunyuu`活动，由于这个社团名对于以中文为母语来的人来说更好记些，国内一般统称毛玉牛乳老师。<br>![图](https://pbs.twimg.com/profile_images/1196339096802643968/2-C3kq3L_400x400.png)<br>**作者推特头像**<br><br>单行本《僕は小さな淫魔のしもべ》<br>![图](# "https://ehgt.org/6c/04/6c04c9e6d92dd2d3925e1ca24a358d3cd2cc84c3-5923874-2114-3000-png_l.jpg") | [Twitter](https://twitter.com/kedamaa) [Pixiv](https://www.pixiv.net/users/16731) |
 | yumano yuuki | 有間乃ユウキ |  |  |
 | kink | きんく |  |  |
 | kamen no hito | 仮面之人 |  |  |
