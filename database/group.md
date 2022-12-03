@@ -12506,6 +12506,7 @@ example:
 | itabira yasai | イタビラ野菜 |  |  |
 | maria planet | マリアプラネット |  |  |
 | uishiro | 初代 |  |  |
+| 140km slash h | 140km/h |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
