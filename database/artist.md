@@ -12246,6 +12246,7 @@ example:
 | madana | まだな |  | [pixiv](https://www.pixiv.net/users/63608651) |
 | squchan | SquChan |  | [pixiv](https://www.pixiv.net/users/2363169) [Patreon](https://www.patreon.com/user?u=533396) |
 | mikamin | みかみん |  | [pixiv](https://www.pixiv.net/users/1386632) |
+| nakamori | なかもり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
