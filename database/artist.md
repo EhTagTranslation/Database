@@ -12249,6 +12249,7 @@ example:
 | nakamori | なかもり |  |  |
 | gittangittan | ギッタンギッタン |  | [pixiv](https://www.pixiv.net/users/21416532) [Fantia](https://fantia.jp/fanclubs/13306) [Twitter](https://twitter.com/gittangittan_r) |
 | kuroda kurota | 黒田くろた |  | [Twitter](https://twitter.com/kurodakurota) |
+| inui hana | 犬居葉菜 |  | [Twitter](https://twitter.com/Hana_Inui) |
 
 <!--TEMPLATE:
 |  |  |  |  |
