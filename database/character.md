@@ -4347,6 +4347,7 @@ example:
 | taiga kagami | 火神大我 |  |  |
 | tetsuya kuroko | 黑子哲也 |  |  |
 | daiki aomine | 青峰大辉 |  |  |
+| haruka nanase | 七濑遥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
