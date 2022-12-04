@@ -4345,6 +4345,7 @@ example:
 | koushi sugawara | 菅原孝支 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Kōshi_Sugawara) |
 | shoyo hinata | 日向翔阳 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Shōyō_Hinata) |
 | taiga kagami | 火神大我 |  |  |
+| tetsuya kuroko | 黑子哲也 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
