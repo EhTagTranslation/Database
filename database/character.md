@@ -4343,6 +4343,7 @@ example:
 | moona hoshinova | Moona Hoshinova | Moona Hoshinova（日语：ムーナ・ホシノヴァ），是Hololive印度尼西亚（Hololive ID）一期生虚拟UP主中的一员，于2020年4月开始活动。 | [维基百科](https://zh.wikipedia.org/wiki/Moona_Hoshinova) [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/Moona_Hoshinova) |
 | miya chinen | 知念实也 |  |  |
 | koushi sugawara | 菅原孝支 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Kōshi_Sugawara) |
+| shoyo hinata | 日向翔阳 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Shōyō_Hinata) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
