@@ -4346,6 +4346,7 @@ example:
 | shoyo hinata | 日向翔阳 |  | [Fandom Wiki](https://haikyuu.fandom.com/wiki/Shōyō_Hinata) |
 | taiga kagami | 火神大我 |  |  |
 | tetsuya kuroko | 黑子哲也 |  |  |
+| daiki aomine | 青峰大辉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
