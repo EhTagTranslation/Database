@@ -4348,6 +4348,7 @@ example:
 | tetsuya kuroko | 黑子哲也 |  |  |
 | daiki aomine | 青峰大辉 |  |  |
 | haruka nanase | 七濑遥 |  |  |
+| rin matsuoka | 松冈凛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
