@@ -12252,6 +12252,7 @@ example:
 | inui hana | 犬居葉菜 |  | [Twitter](https://twitter.com/Hana_Inui) |
 | yukai na factory | 愉快なFactory |  | [pixiv](https://www.pixiv.net/users/30634605) [Twitter](https://twitter.com/in_your_area_Y) |
 | otsunosuke | 乙の助 |  | [Twitter](https://twitter.com/yarakashinosuke) [pixiv](https://www.pixiv.net/users/3430553) [amebaownd](https://otunosuke.amebaownd.com/) |
+| sada sadao | 佐田さだお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
