@@ -101,7 +101,8 @@ example:
 | moonstone cherry | MOONSTONE Cherry | ![logo](http://www.moon-stone.jp/product/ms09/wp-content/uploads/2010/01/cherry_toplogo.gif)<br>MOONSTONE旗下抜作天堂<br>撸死你！撸死你！撸死你！<br>![图](# "https://ehgt.org/42/49/4249ebe09c1003f3ea432adcff311db7b68013bd-130057-320-460-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
 | moonstone honey | MOONSTONE Honey | MOONSTONE 旗下品牌<br>![图](# "https://ehgt.org/4d/ab/4dab0cd6676d786afeea0ef64451410c9d12f94d-237009-500-715-jpg_250.jpg") | [官方网站](http://www.moon-stone.jp) |
 | yuzu soft | ![icon](http://www.yuzu-soft.com/favicon.ico)柚子社 | 柚子社<br>![logo](http://www.yuzu-soft.com/images/common/logo.png)<br>萌萌的画风！<br>![图](https://ehgt.org/54/86/5486c309044d7247180c9de12c5d352735c58cf5-104368-600-425-jpg_250.jpg) | [官方网站](http://www.yuzu-soft.com/) |
-| lump of sugar | ![icon](https://tva1.sinaimg.cn/large/6c84b2d6ly1fzmcpa6c1xg200o00c09x.gif)Lump of Sugar | ![Logo](http://www.lumpofsugar.co.jp/img/common/header_logo.png)<br>中文地区又称「方糖社」或者「角砂糖」，是一家日本GalGame制作公司。<br>会社游戏风格以幻想系恋爱冒险游戏为主。<br>编者按：角色可怜诱人，爱丝袜+萌系少女的不可错过。<br>![图](https://ehgt.org/3d/20/3d20f67d479af1c60b4d621e28d19192199148df-1229168-1280-720-png_l.jpg) | [官方网站](http://www.lumpofsugar.co.jp/) |
+| lump of sugar | ![方糖社图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/lump%20of%20sugar.webp)Lump of Sugar | ![Logo](http://www.lumpofsugar.co.jp/img/common/header_logo.png)<br>中文地区又称「方糖社」或者「角砂糖」，是一家日本GalGame制作公司。<br>会社游戏风格以幻想系恋爱冒险游戏为主。<br>编者按：角色可怜诱人，爱丝袜+萌系少女的不可错过。<br>![图](https://ehgt.org/3d/20/3d20f67d479af1c60b4d621e28d19192199148df-1229168-1280-720-png_l.jpg) | [官方网站](http://www.lumpofsugar.co.jp/) |
+| quince soft | QUINCE SOFT | ![Logo](http://www.lumpofsugar.co.jp/img/common/header_logo.png)<br>QUINCE SOFT是`lump of sugar`所属的一家Galgame公司。社长かわうそP表示成立这个品牌的原因是营造一个更自由的创作环境，于是到现在，三作的创作团队都不一样。官方网站和方糖社共用一个。 | [官方网站](http://www.lumpofsugar.co.jp/) |
 | aquaplus | AQUAPLUS | 又到了《白色相簿》的季节。<br>![图](# "https://ehgt.org/c7/c4/c7c491d4ffc68e35fe5551865197281460d78b6a-202259-1280-720-jpg_l.jpg")<br>《传颂之物》（好想和艾露露在一起）<br>![图](# "https://ehgt.org/6f/c1/6fc19b66f599026004c59d5e057524e6ecd4ae93-3041974-4877-6950-jpg_l.jpg")<br>《To Heart2》<br>![图](# "https://ehgt.org/4b/99/4b99cf599ba8063c753a5e3a3354ac63671fc263-3374761-4846-6958-jpg_l.jpg") | [官方网站](https://aquaplus.jp/) |
 | leaf | Leaf🍃 | Leaf 社是 AQUAPLUS 旗下开发及发售十八禁游戏的厂商和品牌<br>![logo](https://leaf.aquaplus.jp/confirm/images/leaf.png)<br>![图](https://ehgt.org/2a/50/2a505b55f08336e6a411f5387a7dc38c07f5f247-70604-320-452-jpg_250.jpg) | [官方网站](https://leaf.aquaplus.jp/) |
 | key | 🔑Key | Key 会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](https://ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) | [官方网站](http://key.visualarts.gr.jp/) |
@@ -130,14 +131,20 @@ example:
 | candysoft | Candy Soft |  |  |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (\*) |
 | whirlpool | Whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico) | [官方网站](https://whirlpool.co.jp) |
-| giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/zh-cn/戲畫_%28遊戲品牌%29) (\*) |
+| giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。<br>戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/zh-cn/戲畫_%28遊戲品牌%29) (\*) |
 | milksoft | 牛奶软件 |  |  |
+| cygames | Cygames | 株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。 | [官方网站](https://www.cygames.co.jp/) [维基百科](https://zh.wikipedia.org/wiki/Cygames) |
+| keroq | ケロQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [官网](https://www.keroq.co.jp/index02.html) |
+| akatsuki works hibiki | hibiki works | ![](https://lain.bgm.tv/pic/crt/l/8f/80/21374_prsn_MaepW.jpg)<br>AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”） | [HP](https://www.hibiki-site.com) |
+| fairytale | fairytale | FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。<br><br>1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在<br><br>2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。 | [FAIRYTALE](https://zh.wikipedia.org/wiki/FAIRYTALE) [F&C<br>](https://zh.wikipedia.org/wiki/F%26C) |
 |  | ▲ GAL公司 |  |  |
 |  | ▼ 其他游戏公司 |  |  |
 | falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
 | dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
 | kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
+| winged cloud | Winged Cloud | ![图](https://ehgt.org/a3/50/a350fa506ad3fcc53c8f752d0cd508bfad163ecb-51654-336-155-png_l.jpg)<br>Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。 | [维基百科](https://en.wikipedia.org/wiki/Winged_Cloud) |
+| tech gian | TECH GIAN | 《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。<br><br>enterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。 | [维基百科](https://zh.wikipedia.org/wiki/TECH_GIAN) |
 |  | ▲ 其他游戏公司 |  |  |
 |  | ▼ 同人社团 |  |  |
 | electromagneticwave | ElectromagneticWave | ![logo](http://www.ne.jp/asahi/magneticwave/popcan/top5_logo.gif)<br>`moetan` 作者 `pop` 所在的社团<br>![萌单](http://www.ne.jp/asahi/magneticwave/popcan/cafe.jpg) | [社团官方网站](http://www.ne.jp/asahi/magneticwave/popcan/) |
@@ -2236,21 +2243,19 @@ example:
 | hito no fundoshi | 人の裈 | ひとのふんどし，画师`yukiyoshi mamizu`所属社团。 | [HP](http://hitonohundoshi.sakura.ne.jp) |
 | himitsukessya usagi | 秘密结社兔 | 画师`dancyo`所属同人社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41050.html) |
 | nekonecotton | ねこねこっとん |  |  |
-| tech gian | TECH GIAN | 《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。<br><br>enterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。 | [维基百科](https://zh.wikipedia.org/wiki/TECH_GIAN) |
-| fairytale | fairytale | FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。<br><br>1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在<br><br>2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。 | [FAIRYTALE](https://zh.wikipedia.org/wiki/FAIRYTALE) [F&C<br>](https://zh.wikipedia.org/wiki/F%26C) |
 | punipuni no hoppe | ぷにぷにのほっぺ |  |  |
 | houkago inokorigumi | 放課後居残り組 |  |  |
 | hokkyoku hotaru | 北極ホタル |  |  |
 | kikyakudou | 鬼脚堂 |  |  |
 | ikameshi shokudou | 乌贼饭食堂 |  |  |
 | tairikukan dandoudan dan | 大陆间弹道弹团 |  |  |
-| shimobashira koubou | しもばしら工房 |  | [https://ci-en.dlsite.com/creator/4551](https://ci-en.dlsite.com/creator/4551) [Bangumi](https://bgm.tv/person/36481) |
+| shimobashira koubou | しもばしら工房 |  | [官网](https://ci-en.dlsite.com/creator/4551) [Bangumi](https://bgm.tv/person/36481) |
 | muriyari egao | 无理矢理笑颜 |  |  |
 | southbamboo | 南方山竹笋 |  |  |
 | permission | ぱ～みっしょん |  |  |
 | tsuki usagi | 月うさぎ |  | [pixiv](https://www.pixiv.net/users/3440024) [Twitter](https://twitter.com/tukiman02) [HP](https://www.tukiusa00.com/about) |
 | ameiro | あめいろ |  |  |
-| alpharalpha alley | アルファラルファ裏通り |  | [http://alpharalpha.blog117.fc2.com/](http://alpharalpha.blog117.fc2.com/) |
+| alpharalpha alley | アルファラルファ裏通り |  | [官网](http://alpharalpha.blog117.fc2.com/) |
 | thirty saver street 2d shooting | サーティセイバーストリート |  | [Twitter](https://twitter.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
 | ruri ruri kikaku | 瑠璃瑠璃企画 |  |  |
 | amanedou | あまね堂 |  | [Twitter](https://twitter.com/amane191919) |
@@ -2262,7 +2267,6 @@ example:
 | meshi shinja | 饭信者 |  | [pixiv](https://www.pixiv.net/users/73419977) |
 | ishimuraya | 石村屋 |  |  |
 | seika kairaku shoten | 聖華快楽書店 |  |  |
-| winged cloud | Winged Cloud | ![图](https://ehgt.org/a3/50/a350fa506ad3fcc53c8f752d0cd508bfad163ecb-51654-336-155-png_l.jpg)<br>Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。 | [维基百科](https://en.wikipedia.org/wiki/Winged_Cloud) |
 | ringo no naru ki | 林檎のなる木 |  |  |
 | traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [Twitter](https://twitter.com/doujintraya) |
 | kuzuya | 屑屋 |  |  |
@@ -12440,7 +12444,6 @@ example:
 | anata wa onaka ga suiteiru | あなたはお腹がすいている |  |  |
 | yurushite ochinti kyo | 許しておちんち教 |  |  |
 | seiheki kenkyuujo bravo han | 性癖研究所 ブラボー班 |  |  |
-| akatsuki works hibiki | hibiki works | ![](https://lain.bgm.tv/pic/crt/l/8f/80/21374_prsn_MaepW.jpg)<br>AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”） | [HP](https://www.hibiki-site.com) |
 | icchao murasakiimoren new | いっちゃお♪紫芋れんnew |  | [ci-en](https://ci-en.dlsite.com/creator/2450) |
 | otokonoko de asobou | 男の子で遊ぼう |  |  |
 | babaa no mitsuboshi restaurant | ババアの三ツ星レストラン |  |  |
@@ -12462,7 +12465,7 @@ example:
 | dull zodesadehai | ダル・ゾデサデハーイ |  |  |
 | fetishism pocket | フェチズムポケット |  |  |
 | kantou dougakai | 关东动画会 |  |  |
-| fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [http://fsm-cafe.jugem.jp](http://fsm-cafe.jugem.jp) |
+| fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [官网](http://fsm-cafe.jugem.jp) |
 | platinum kinoko | プラチナきのこ |  |  |
 | lunaberry | Lunaberry |  |  |
 | sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [Pixiv](https://www.pixiv.net/users/41510503)<br>[Twitter](https://twitter.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
@@ -12487,7 +12490,6 @@ example:
 | chouzankai | 超斩开 |  |  |
 | kirin planet | キリンプラネット | 満開べえスケ的社团名字。 |  |
 | sonpuushi | 村夫子 |  |  |
-| keroq | ケロQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [https://www.keroq.co.jp/index02.html](https://www.keroq.co.jp/index02.html) |
 | koushoku na reichourui | 好色な霊長類 |  |  |
 | yukinko okeya | 雪ん娘おけ屋 |  |  |
 | momonomi plus | もものみプラス |  |  |
@@ -12497,7 +12499,6 @@ example:
 | pirori kingdom | PiRORI KINGDOM |  |  |
 | kinomiki no mama | 木の幹のまま |  |  |
 | raise wa futanari bishoujo | 来世是扶她美少女 |  |  |
-| cygames | Cygames | 株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。 | [官方网站](https://www.cygames.co.jp/) [维基百科](https://zh.wikipedia.org/wiki/Cygames) |
 | kakuzatou | 角砂糖 |  |  |
 | gyuunyuu shoujo seisakusho | 牛乳少女制作所 |  |  |
 | abukumadou | 阿武隈堂 |  |  |
