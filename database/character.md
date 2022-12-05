@@ -4349,7 +4349,7 @@ example:
 | daiki aomine | 青峰大辉 |  |  |
 | haruka nanase | 七濑遥 |  |  |
 | rin matsuoka | 松冈凛 |  |  |
-| yuki | 雪 | 出自TH05-东方怪绮谈 |  |
+| yuki | 雪 | 出自TH05-东方怪绮谈<br>![图](https://ehgt.org/71/fa/71fa719abf09ef1dc9ca110433739877dc686034-366328-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/31/8d/318d25f2aa15492eab4374dd0efc1885ccfd4b44-1050990-896-1262-png_l.jpg") |  |
 | louise | 露易兹 | 出自TH05-东方怪绮谈 |  |
 
 <!--TEMPLATE: 
