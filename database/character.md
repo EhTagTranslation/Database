@@ -4350,6 +4350,7 @@ example:
 | haruka nanase | 七濑遥 |  |  |
 | rin matsuoka | 松冈凛 |  |  |
 | yuki | 雪 |  |  |
+| louise | 露易兹 | 出自TH05-东方怪绮谈 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
