@@ -52,6 +52,10 @@
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   ehviewer，用爱发电，快乐前行
 
+- [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
+  ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  一個普通的看漫畫 App。
+
 - [EhPanda](https://ehpanda.app)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
@@ -84,10 +88,6 @@
   EhTagBuilder 简称 "ETB"。
 
   翻译实现方式：ETB 先获取 Wiki 数据库网页，获得翻译数据，生成对应格式的 CSS 代码，再由 Stylus 扩展附加到 E 绅士网页上。
-
-- [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
-  ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  一個普通的看漫畫 App。
 
 - [E-HentaiViewer](https://github.com/kayanouriko/E-HentaiViewer)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/kayanouriko/E-HentaiViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
