@@ -28,8 +28,8 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 |  | ▼示例 |  |  |
-| pop | POP | `moetan`作者<br><br>![萌单](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg)<br>![图](https://ehgt.org/ce/3d/ce3d50a2edd03824559b50d895060c3c1d84a61c-531100-1748-2500-jpg_l.jpg) | [twitter](https://twitter.com/popemw2)<br>[Pixiv](https://www.pixiv.net/users/41477) |
-| oouso | 大嘘 |  | [pixiv](https://www.pixiv.net/users/457541) [twitter](https://twitter.com/u_s_o) |
+| pop | POP | `moetan`作者<br>![图](https://ehgt.org/51/9a/519a0723992a0ca8168c248c54506a80083e3130-241567-1293-1733-jpg_l.jpg)<br>![图](https://ehgt.org/ce/3d/ce3d50a2edd03824559b50d895060c3c1d84a61c-531100-1748-2500-jpg_l.jpg) | [twitter](https://twitter.com/popemw2)<br>[Pixiv](https://www.pixiv.net/users/41477) |
+| oouso | 大嘘 | ![图](https://ehgt.org/20/27/2027db19e5423ff0ec9d68319e3bb32936aba50f-2304512-1442-2500-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/457541) [twitter](https://twitter.com/u_s_o) |
 | peko | ぺこ（かにビーム） | ![peko头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](https://ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) | [pixiv](https://www.pixiv.net/users/3439325) |
 | akaza | あかざ | ![akaza头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3twgnxp0lj204q04qglu.jpg)<br>Akaza，袜控，腿型很美<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") | [pixiv](https://www.pixiv.net/users/601089) |
 | ishikei | 石惠 | ![twitter](https://pbs.twimg.com/profile_images/1403170704321761285/nOmScPcR_400x400.jpg)<br><br>**作者推特头像**<br>絵を描いたり猫と遊んだりしてます。<br><br>社团`nisemididoronokai`画师<br><br>![works](# "https://pbs.twimg.com/media/EBRzNz9U8AAEvJf?format=jpg&name=large")<br><br>**BUJIDETA** | [twitter](https://twitter.com/ishi_kei) [个人网站](http://bupo.jp/ishikei/) |
