@@ -32,7 +32,7 @@ example:
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
 | original | 原创 | 用于不包含来自任何已知 IP 的角色或系列的原创作品。仅用于`doujinshi`分类。 |  |
-| touhou project | ![阴阳玉图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/touhou %20project.webp)东方Project | ![博丽灵梦](https://upload.thwiki.cc/thumb/3/3d/博丽灵梦（人妖名鉴）.jpg/450px-博丽灵梦（人妖名鉴）.jpg)<br>乐园的可爱巫女<br>![雾雨魔理沙](https://upload.thwiki.cc/thumb/0/0f/雾雨魔理沙（人妖名鉴）.jpg/450px-雾雨魔理沙（人妖名鉴）.jpg)<br>不成熟的魔法使<br>![ZUN](https://upload.thwiki.cc/thumb/c/c8/ZUN与东方苹果（20191208）.jpg/420px-ZUN与东方苹果（20191208）.jpg)<br>博丽神主 | [东方维基](https://thwiki.cc/东方Project) [萌娘百科](https://zh.moegirl.org.cn/东方Project) |
+| touhou project | ![阴阳玉图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/touhou%20project.webp)东方Project | ![博丽灵梦](https://upload.thwiki.cc/thumb/3/3d/博丽灵梦（人妖名鉴）.jpg/450px-博丽灵梦（人妖名鉴）.jpg)<br>乐园的可爱巫女<br>![雾雨魔理沙](https://upload.thwiki.cc/thumb/0/0f/雾雨魔理沙（人妖名鉴）.jpg/450px-雾雨魔理沙（人妖名鉴）.jpg)<br>不成熟的魔法使<br>![ZUN](https://upload.thwiki.cc/thumb/c/c8/ZUN与东方苹果（20191208）.jpg/420px-ZUN与东方苹果（20191208）.jpg)<br>博丽神主 | [东方维基](https://thwiki.cc/东方Project) [萌娘百科](https://zh.moegirl.org.cn/东方Project) |
 | moetan | 萌单✏️ | ![萌之英语单词](https://tva1.sinaimg.cn/large/6c84b2d6gw1f3614z9jokj205k07ndg1.jpg) |  |
 |  | ▼Key社作品 |  |  |
 | kanon | Kanon❄ | ![图](https://ehgt.org/3e/50/3e50009195d4d8e2fbb0bfb598ab8629147e7ac7-5902895-6968-4868-jpg_l.jpg)![图](https://ehgt.org/8a/d0/8ad040fd592c5d6ce3cd1cf9abae91e03129de83-6613139-3467-2451-png_l.jpg) |  |
