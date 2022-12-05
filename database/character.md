@@ -4352,6 +4352,7 @@ example:
 | yuki | 雪 | 出自TH05-东方怪绮谈<br>![图](https://ehgt.org/71/fa/71fa719abf09ef1dc9ca110433739877dc686034-366328-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/31/8d/318d25f2aa15492eab4374dd0efc1885ccfd4b44-1050990-896-1262-png_l.jpg") |  |
 | louise | 露易兹 | 出自TH05-东方怪绮谈<br>![图](https://ehgt.org/60/86/608695114f39fa15298bcc2270fe5a37ca58f2bf-429316-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/f0/1c/f01c67233479cb85fb74bc1db9b5ad982e2beed9-750108-896-1262-png_l.jpg") |  |
 | ellen | 爱莲 | 出自TH03-东方梦时空<br>后面的女仆<br>![图](https://ehgt.org/a7/c8/a7c8413d68bac764b9247ee5382df92f4f28deff-859308-896-1262-png_l.jpg) |  |
+| kana anaberal | 卡娜·安娜贝拉尔 | 出自TH03-东方梦时空 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
