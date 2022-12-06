@@ -48,9 +48,14 @@
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   EhViewer overhauled with Material Design 3 and more.
-- [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
-  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  ehviewer，用爱发电，快乐前行
+
+- [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/EhViewer-NekoInverter/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  🥥 EhViewer-NekoInverter [白E]
+
+- [EhViewer Mod version by Epix](https://github.com/exzhawk/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/exzhawk/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  A Modified Unofficial E-Hentai Application for Android.
 
 - [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
