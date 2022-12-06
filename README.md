@@ -1,4 +1,4 @@
-# 译文数据库介绍
+# EhTagTranslation 译文数据库
 
 [![Build status](../../workflows/build/badge.svg)](../../actions)
 [![LICENSE](https://img.shields.io/badge/license-by--nc--sa-orange.svg?logo=creative-commons&logoColor=white)](LICENSE.md)
