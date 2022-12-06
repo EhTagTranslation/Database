@@ -12256,6 +12256,7 @@ example:
 | asakura clock | 朝倉クロック |  |  |
 | koromotake | ころもたけ |  |  |
 | hashina tamaki | 葉科たまき |  |  |
+| kusogaki | くそガキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
