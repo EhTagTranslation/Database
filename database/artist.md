@@ -12254,6 +12254,7 @@ example:
 | otsunosuke | 乙の助 |  | [Twitter](https://twitter.com/yarakashinosuke) [pixiv](https://www.pixiv.net/users/3430553) [amebaownd](https://otunosuke.amebaownd.com/) |
 | sada sadao | 佐田さだお |  |  |
 | asakura clock | 朝倉クロック |  |  |
+| koromotake | ころもたけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
