@@ -2045,6 +2045,7 @@ example:
 | kinnikuman | 金肉人 |  | [维基百科](https://zh.wikipedia.org/wiki/金肉人) |
 | ever 17 | Ever17（时空轮回） | 《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Ever17) [维基百科](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity-) |
 | memories off | 告别回忆 | 秋之回忆系列（日语：メモリーズオフシリーズ， 英语：Memories Off）是日本游戏厂商KID公司和5pb.公司（5代以后）开发的一系列恋爱游戏，以及以此衍伸出来的动画，小说、漫画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh/秋之回忆系列) [维基百科](https://zh.wikipedia.org/wiki/告別回憶系列) [HP-tw](http://memoriesoff.jp/since/tw/) [vndb](https://vndb.org/v1152) |
+| shiei no sona-nyl -what a beautiful memories- | 紫影的索纳尼尔 ～何等美好的记忆～ |  | [Bangumi](https://bgm.tv/subject/10957) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
