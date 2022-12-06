@@ -12255,6 +12255,7 @@ example:
 | sada sadao | 佐田さだお |  |  |
 | asakura clock | 朝倉クロック |  |  |
 | koromotake | ころもたけ |  |  |
+| hashina tamaki | 葉科たまき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
