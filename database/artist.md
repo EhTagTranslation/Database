@@ -4688,7 +4688,7 @@ example:
 | chitose | ちとせ |  |  |
 | chitosezaka suzu | 千歳坂すず |  |  |
 | chiune | ちうね |  |  |
-| chiyo | 千代 |  |  |
+| chiyo | 千代 |  | [pixiv](https://www.pixiv.net/users/53622) |
 | chiyoda mikurou | 千代多みく郎 |  |  |
 | chiyomi | chiYOMI |  |  |
 | chizakya | ちざきゃ |  |  |
