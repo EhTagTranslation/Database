@@ -2046,6 +2046,7 @@ example:
 | ever 17 | Ever17（时空轮回） | 《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Ever17) [维基百科](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity-) |
 | memories off | 告别回忆 | 秋之回忆系列（日语：メモリーズオフシリーズ， 英语：Memories Off）是日本游戏厂商KID公司和5pb.公司（5代以后）开发的一系列恋爱游戏，以及以此衍伸出来的动画，小说、漫画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh/秋之回忆系列) [维基百科](https://zh.wikipedia.org/wiki/告別回憶系列) [HP-tw](http://memoriesoff.jp/since/tw/) [vndb](https://vndb.org/v1152) |
 | shiei no sona-nyl -what a beautiful memories- | 紫影的索纳尼尔 ～何等美好的记忆～ |  | [Bangumi](https://bgm.tv/subject/10957) |
+| katawa shoujo | 片轮少女 | 《片轮少女》（英语：Katawa Shoujo，日语：かたわ少女，字面翻译为“残疾少女”）是一款视觉小说类型的同人美少女游戏，由四叶游戏工作室（Four Leaf Studios）开发制作，内容是一名少年与5名拥有不同残疾的美少女一同生活的故事。游戏采用由文字叙述和平面人物图像所组成的传统视觉小说模式，并借由视觉小说引擎Ren'Py以如同冒险游戏的对话框方式运行。《片轮少女》随着故事的进展包含有一些成人内容，但玩家亦能够选择跳过一切性爱场景。同时游戏是极少能够同时支持Windows、Linux与Mac OS X等平台的美少女游戏，并采用了知识共享版权中的CC BY-NC-ND的授权条款。 | [萌娘百科](https://zh.moegirl.org.cn/zh/片轮少女) [维基百科](https://zh.wikipedia.org/wiki/片輪少女) [HP](https://www.katawa-shoujo.com/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
