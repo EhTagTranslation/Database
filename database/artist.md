@@ -3552,7 +3552,7 @@ example:
 | ikutsuki | イクツキ |  | [Twitter](https://twitter.com/ikutsukisakito) |
 | mitarou | ミタロウ |  | [pixiv](https://www.pixiv.net/users/3429573) |
 | higuchi isami | ひぐちいさみ |  |  |
-| yuuki rika | 結城リカ | [pixiv](https://www.pixiv.net/users/275527) [Twitter](https://twitter.com/yuuki_sw) |  |
+| yuuki rika | 結城リカ |  | [Twitter](https://twitter.com/yuuki_sw) [pixiv](https://www.pixiv.net/users/275527) |
 | meicha | 冥茶 |  |  |
 | shinoda kazuhiro | 篠田一宏 |  |  |
 | cure slum | キュアスラム |  |  |
