@@ -12510,6 +12510,7 @@ example:
 | 140km slash h | 140km/h |  |  |
 | shirokuma terepasu | 白熊テレパス |  |  |
 | nipa nipa company | NIPA NIPA COMPANY |  |  |
+| omochi box | OMOCHI BOX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
