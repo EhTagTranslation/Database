@@ -4357,6 +4357,7 @@ example:
 | momo hinamori | 雏森桃 | 护廷十三队五番队副队长 | [Fandom](https://bleach.fandom.com/zh/wiki/雛森桃?variant=zh) |
 | chen hai | 镇海 | 所属作品：`p:azur lane`<br>![](https://azurlane.netojuu.com/images/1/11/Chen_HaiShipyardIcon.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:镇海) |
 | leeloo minai lekatariba-lamina-tchai ekbat de sebat | Leeloo | 所属作品：`p:the fifth element` | [Fandom](https://fifth-element.fandom.com/wiki/Leeloo) |
+| hasshaku-sama | 八尺大人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
