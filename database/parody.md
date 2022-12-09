@@ -2051,6 +2051,7 @@ example:
 | king of glory | 王者荣耀 |  |  |
 | naraka bladepoint | 永劫无间 |  |  |
 | teletubbies | 天线宝宝 |  |  |
+| goddess of victory nikke | 胜利女神：妮姬 | 胜利女神：妮姬(The Goddess of Victory:NIKKE)是由ShiftUp Corp制作的一款Android, iOS 双平台手机游戏。于不同地区以不同的发行商发行。<br><br>此游戏集合射击，育成，收集角色等元素，并以美少女背后身击作焦点。<br><br>此游戏为免费游戏，但提供购买虚拟游戏币，物品等等的付费服务。<br><br>于11月4日正式营运。 | [维基百科](https://zh.wikipedia.org/zh-cn/勝利女神：妮姬) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
