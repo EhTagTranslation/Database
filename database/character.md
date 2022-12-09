@@ -4361,6 +4361,7 @@ example:
 | ushio kofune | 小舟潮 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/5/54/Ushio_Kofune.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/小舟潮) [Fandom](https://summer-time-rendering.fandom.com/wiki/Ushio_Kofune) |
 | moe kazekura | 风仓萌绘 | 风仓萌绘（日语：風倉モエ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。 |  |
 | eiko tsukimi | 月见英子 | 月见英子（日语：月見（つきみ） 英子（えいこ））是由四叶夕卜原作及原案、小川亮作画的一部漫画《派对浪客诸葛孔明》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月见英子) |
+| hitori gotou | 后藤一里 | 后藤一里（日语：後藤（ごとう）ひとり）是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/后藤一里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
