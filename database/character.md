@@ -4358,6 +4358,7 @@ example:
 | chen hai | 镇海 | 所属作品：`p:azur lane`<br>![](https://azurlane.netojuu.com/images/1/11/Chen_HaiShipyardIcon.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:镇海) |
 | leeloo minai lekatariba-lamina-tchai ekbat de sebat | Leeloo | 所属作品：`p:the fifth element` | [Fandom](https://fifth-element.fandom.com/wiki/Leeloo) |
 | hasshaku-sama | 八尺大人 |  |  |
+| ushio kofune | 小舟潮 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/5/54/Ushio_Kofune.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/小舟潮) [Fandom](https://summer-time-rendering.fandom.com/wiki/Ushio_Kofune) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
