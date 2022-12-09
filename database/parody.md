@@ -2049,6 +2049,8 @@ example:
 | katawa shoujo | 片轮少女 | 《片轮少女》（英语：Katawa Shoujo，日语：かたわ少女，字面翻译为“残疾少女”）是一款视觉小说类型的同人美少女游戏，由四叶游戏工作室（Four Leaf Studios）开发制作，内容是一名少年与5名拥有不同残疾的美少女一同生活的故事。游戏采用由文字叙述和平面人物图像所组成的传统视觉小说模式，并借由视觉小说引擎Ren'Py以如同冒险游戏的对话框方式运行。《片轮少女》随着故事的进展包含有一些成人内容，但玩家亦能够选择跳过一切性爱场景。同时游戏是极少能够同时支持Windows、Linux与Mac OS X等平台的美少女游戏，并采用了知识共享版权中的CC BY-NC-ND的授权条款。 | [萌娘百科](https://zh.moegirl.org.cn/zh/片轮少女) [维基百科](https://zh.wikipedia.org/wiki/片輪少女) [HP](https://www.katawa-shoujo.com/) |
 | sound horizon | 泡沫の恋 | 作者：`a:chiyo` | [BOOTH](https://booth.pm/en/items/382193) [pixiv](https://www.pixiv.net/artworks/84753089#1) |
 | king of glory | 王者荣耀 |  |  |
+| naraka bladepoint | 永劫无间 |  |  |
+| teletubbies | 天线宝宝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
