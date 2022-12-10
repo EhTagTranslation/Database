@@ -4786,7 +4786,7 @@ example:
 | from scratch | from SCRATCH |  |  |
 | frontline | ふろんとらいん |  |  |
 | fruitsjam | フルーツJAM |  |  |
-| fry dish | ふらいでぃっしゅ |  |  |
+| fly dish | ふらいでぃっしゅ |  |  |
 | fss | FSS |  |  |
 | fuantei | ふあん亭 |  |  |
 | fudegaki soft | 筆柿そふと |  |  |
@@ -6295,7 +6295,7 @@ example:
 | kageneko | カゲねこ |  |  |
 | kageneko. | かげねこ。 |  |  |
 | kagero | カゲ路 |  |  |
-| kagi node | 鍵のーど |  |  |
+| kaginord | 鍵のーど |  |  |
 | kagimushi | かぎむし |  |  |
 | kagitsuki | 限月 |  |  |
 | kagura hitsuji | 神楽ひつじ |  |  |

@@ -11758,7 +11758,7 @@ example:
 | yoshiron | よしろん |  |  |
 | yoshiten | よし天 |  |  |
 | yoshitora | YOSHITORA |  |  |
-| yoshiwa tomo | 吉輪智 |  |  |
+| momomo momo | 桃萌 百 | 吉輪智 |  |
 | yoshiwo | よしを |  |  |
 | yoshiyuki | ヨシユキ |  |  |
 | yoshizane akihiro | 好実昭博 | YOSHIBOH |  |
