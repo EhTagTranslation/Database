@@ -12260,6 +12260,7 @@ example:
 | aestheticc-meme | ミームクリーム |  | [pixiv](https://www.pixiv.net/users/34090973) |
 | denkou nyako | 電光にゃコ |  | [pixiv](https://www.pixiv.net/users/635015) |
 | hamico | はみこ |  | [Twitter](https://twitter.com/hamico_0320) [pixiv](https://www.pixiv.net/users/221597) |
+| takeru | たける |  | [Twitter](https://twitter.com/takerusilt) |
 
 <!--TEMPLATE:
 |  |  |  |  |
