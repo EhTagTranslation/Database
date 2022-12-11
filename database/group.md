@@ -12511,6 +12511,7 @@ example:
 | shirokuma terepasu | 白熊テレパス |  |  |
 | nipa nipa company | NIPA NIPA COMPANY |  |  |
 | omochi box | OMOCHI BOX |  |  |
+| kinokko | きのっ子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
