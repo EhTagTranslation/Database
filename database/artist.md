@@ -12262,6 +12262,7 @@ example:
 | hamico | はみこ |  | [Twitter](https://twitter.com/hamico_0320) [pixiv](https://www.pixiv.net/users/221597) |
 | takeru | たける |  | [Twitter](https://twitter.com/takerusilt) |
 | yamoge | やもげ |  |  |
+| taguchi monyata | 田口もにゃ太 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
