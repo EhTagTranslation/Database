@@ -12263,6 +12263,7 @@ example:
 | takeru | たける |  | [Twitter](https://twitter.com/takerusilt) |
 | yamoge | やもげ |  |  |
 | taguchi monyata | 田口もにゃ太 |  |  |
+| sushiyama | 寿司山 |  | [Twitter](https://twitter.com/susinoyama) [pixiv](https://www.pixiv.net/users/4686021) |
 
 <!--TEMPLATE:
 |  |  |  |  |
