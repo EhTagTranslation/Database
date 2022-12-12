@@ -4364,6 +4364,7 @@ example:
 | hitori gotou | 后藤一里 | 后藤一里（日语：後藤（ごとう）ひとり）是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/后藤一里) |
 | tsukuyo oono | 大野筑夜 | 大野筑夜（日语：大野ツクヨ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。 |  |
 | mikoto aketa | 緋田美琴 |  |  |
+| nazuna nanakusa | 七草荠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
