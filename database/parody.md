@@ -2054,6 +2054,7 @@ example:
 | goddess of victory nikke | 胜利女神：妮姬 | 胜利女神：妮姬(The Goddess of Victory:NIKKE)是由ShiftUp Corp制作的一款Android, iOS 双平台手机游戏。于不同地区以不同的发行商发行。<br><br>此游戏集合射击，育成，收集角色等元素，并以美少女背后身击作焦点。<br><br>此游戏为免费游戏，但提供购买虚拟游戏币，物品等等的付费服务。<br><br>于11月4日正式营运。 | [维基百科](https://zh.wikipedia.org/zh-cn/勝利女神：妮姬) |
 | identity v | 第五人格 | 《第五人格》（Identity V）是由网易移动游戏公司制作的一款非对称性对抗竞技类手机游戏。 | [萌娘百科](https://zh.moegirl.org.cn/第五人格) |
 | morenatsu | 漏夏 | 《漏夏》或译《咱的夏天》（日语：《漏れなつ。》[1]）是制作团体“漏夏。Project”开发的兽人主题BL游戏。<br>2015年7月20日，官方宣布开发中止，官方网站随后也因开发中止的关系结束营运。<br>![图](https://ehgt.org/c0/96/c0963e55f929bb945df557987ff2c74c6d812a79-144560-966-500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/漏夏) [Fandom](https://morenatsu.fandom.com/wiki/Main_Page) |
+| mad rat dead | 疯老鼠之死 | 疯老鼠之死（マッドラットデッド，Maddo Ratto Deddo）是一款节奏节奏动作类游戏，由日本一软件公司开发和发行。故事讲述的是一只具有时间倒退能力的实验室老鼠，玩家在音乐的节拍下使用各种动作，在时间耗尽之前安全到达每个阶段的终点。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Mad_Rat_Dead) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
