@@ -79,6 +79,7 @@ example:
 | yaoyaoqwq | 软妹摇摇乐 |  | [Twitter](https://twitter.com/chan_p90) |
 | maria desu | Maria Desu |  |  |
 | hidori rose | Hidori Rose |  |  |
+| ai lei jiang | 少女映画 |  |  |
 
 <!--
 Template: 
