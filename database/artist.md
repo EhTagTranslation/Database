@@ -12265,6 +12265,7 @@ example:
 | taguchi monyata | 田口もにゃ太 |  |  |
 | sushiyama | 寿司山 |  | [Twitter](https://twitter.com/susinoyama) [pixiv](https://www.pixiv.net/users/4686021) |
 | kaminari doon | カミナリ・ドーン | kaminari doon | [pixiv](https://www.pixiv.net/users/60693818) [Twitter](https://twitter.com/kaminari_doon) |
+| ayanakitori | アヤナキトリ |  | [pixiv](https://www.pixiv.net/users/41547311) [Twitter](https://twitter.com/ayanakitori) [FANBOX](https://ayanakitori.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
