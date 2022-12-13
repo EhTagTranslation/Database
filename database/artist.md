@@ -12267,6 +12267,7 @@ example:
 | kaminari doon | カミナリ・ドーン | kaminari doon | [pixiv](https://www.pixiv.net/users/60693818) [Twitter](https://twitter.com/kaminari_doon) |
 | ayanakitori | アヤナキトリ |  | [pixiv](https://www.pixiv.net/users/41547311) [Twitter](https://twitter.com/ayanakitori) [FANBOX](https://ayanakitori.fanbox.cc/) |
 | yukoring | 優子鈴 | 優子鈴(ゆこりん) | [pixiv](https://www.pixiv.net/users/1941986) [HP](https://www.yukoring.com/) |
+| fjsmu | fjsmu（ふじしむ） |  | [pixiv](https://www.pixiv.net/users/7569500) [Twitter](https://twitter.com/fjsmu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
