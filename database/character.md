@@ -4366,6 +4366,7 @@ example:
 | mikoto aketa | 緋田美琴 |  |  |
 | nazuna nanakusa | 七草荠 |  |  |
 | revy | 莱薇 | 莱薇（英文：Revy）是广江礼威漫画《黑礁》及其衍生作品的登场角色。<br><br>本名蕾贝卡·李（英文：Rebecca Lee）。 | [萌娘百科](https://zh.moegirl.org.cn/莱薇%28黑礁%29#) |
+| natsumi kurobe | 黑部夏美 | 黑部夏美是由しろまんた创作的漫画《前辈有够烦》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑部夏美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
