@@ -757,7 +757,7 @@ example:
 | tamaki | TAMAKI |  |  |
 | ahemaru | アヘ丸 |  |  |
 | akikusa peperon | 秋草ぺぺろん |  |  |
-| drachef | ドラチェフ |  |  |
+| drachef | ドラチェフ |  | [Twitter](https://twitter.com/dra_tanuking) [pixiv](https://www.pixiv.net/users/2487760) |
 | hikage hinata | 日陰ひなた |  |  |
 | kijima daisyarin | 鬼岛大车轮 |  |  |
 | minikoara | 瑞稀樱花 |  |  |
