@@ -391,7 +391,7 @@ example:
 | daikoukoku shinbun | 大広告新聞 |  |  |
 | yuuki hagure | 憂姫はぐれ |  |  |
 | paru | パル |  |  |
-| rikatan | りかたん☆ |  |  |
+| rikatan | 利华炭☆ | 我是在日本作为插画师进行活动的利华炭☆（りかたん☆）。大家可以直接叫我为利华炭。因为本身非常喜欢点兔，所以目前主要以点兔为中心在进行同人活动。 | [pixiv](https://www.pixiv.net/users/28838) [Twitter](https://twitter.com/rikatantan2nd) [哔哩哔哩](https://space.bilibili.com/3493078700657571) |
 | jackdempa | 弱电波 |  |  |
 | hiyama izumi | 火山一角 |  |  |
 | kazuma muramasa | 和马村政 |  |  |
