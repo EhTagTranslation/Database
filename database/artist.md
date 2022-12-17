@@ -1990,7 +1990,7 @@ example:
 | tanishi mitsuru | タニシミツル |  |  |
 | mizuno koori | 水乃コオリ |  |  |
 | akaiguppy | 全红白子 |  |  |
-| etuzan jakusui | 越山弱衰 |  |  |
+| etuzan jakusui | 越山弱衰 |  | [Twitter](https://twitter.com/hayo_cinema) [pixiv](https://www.pixiv.net/users/120880) |
 | eiji | Eiジ |  |  |
 | oryou | おりょう |  | [pixiv](https://www.pixiv.net/users/24392) [Twitter](https://twitter.com/oryoillust) [Twitter(成人向)](https://twitter.com/oryo) |
 | waguchi shouka | 和口昇火 |  |  |
