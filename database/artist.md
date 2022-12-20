@@ -8871,7 +8871,7 @@ example:
 | np | NP |  |  |
 | npo | んぽ |  |  |
 | ns | NS |  |  |
-| nt robo | NTラボ |  |  |
+| nt robo | NTロボ |  |  |
 | nt00 | NT00 |  |  |
 | nu- | ぬー |  |  |
 | nucomas | ぬこマス |  |  |
