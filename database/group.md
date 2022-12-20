@@ -12516,6 +12516,7 @@ example:
 | mt.sushi | Mt.Sushi |  |  |
 | milk lamp | ミルクランプ |  |  |
 | germanium detroit | ゲルマニウム・デトロイト |  |  |
+| suiren no yado | 水莲之宿 | `asakawa`的同人社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
