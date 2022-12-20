@@ -12270,6 +12270,7 @@ example:
 | fjsmu | fjsmu（ふじしむ） |  | [pixiv](https://www.pixiv.net/users/7569500) [Twitter](https://twitter.com/fjsmu) |
 | tomari | トマリ |  | [Twitter](https://twitter.com/ttomarii) [pixiv](https://www.pixiv.net/users/2088434) |
 | miso tanuki inka teikoku | みそたぬきインカ帝国 |  |  |
+| asakawa | 浅川 | 浅川圭司，漫画家，同人名义为浅川，同人社团为水蓮の宿 | [Twitter](https://twitter.com/asakawakeiji) [pixiv](https://www.pixiv.net/users/14178) |
 
 <!--TEMPLATE:
 |  |  |  |  |
