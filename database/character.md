@@ -4254,7 +4254,7 @@ example:
 | himeko murata | 无量塔姬子 |  |  |
 | seele vollerei | 希儿·芙乐艾 |  |  |
 | cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
-| shinobu kuki | 久岐忍 |  |  |
+| shinobu kuki | 久岐忍 | 久岐忍是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。荒泷派二把手，前「鸣神大社」巫女。 |  |
 | springfield | 春田 |  |  |
 | natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
 | fu hua | 符华 |  |  |
