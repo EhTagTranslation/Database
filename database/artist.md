@@ -3149,7 +3149,7 @@ example:
 | kanda dan | 館田ダン |  | [Twitter](https://twitter.com/done_kanda) [pixiv](https://www.pixiv.net/users/7618326) |
 | mikuni mizuki | みくに瑞貴 |  |  |
 | yamamoto naoki | 山本直树 | 山本直樹 | [Twitter](https://twitter.com/tsugeju) |
-| neromashin | ねろましん | 微重口 | [Twitter](https://twitter.com/neromashin001) |
+| neromashin | ねろましん | 微重口 | [Twitter](https://twitter.com/neromashin001) [pixiv](https://www.pixiv.net/users/1872899) [FANBOX](https://neromashin.fanbox.cc/) [Skeb](https://skeb.jp/@neromashin001) |
 | yuugen | ゆーげん |  | [Twitter](https://twitter.com/Yuugen_99) [pixiv](https://www.pixiv.net/users/806502) |
 | oshio | おしお |  | [Twitter](https://twitter.com/oshioshio_info) [pixiv](https://www.pixiv.net/users/4733565) |
 | torotarou | トロ太郎 |  |  |
