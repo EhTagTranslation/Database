@@ -12271,6 +12271,7 @@ example:
 | tomari | トマリ |  | [Twitter](https://twitter.com/ttomarii) [pixiv](https://www.pixiv.net/users/2088434) |
 | miso tanuki inka teikoku | みそたぬきインカ帝国 |  |  |
 | asakawa | 浅川 | 浅川圭司，漫画家，同人名义为浅川，同人社团为`g:suiren no yado` | [Twitter](https://twitter.com/asakawakeiji) [pixiv](https://www.pixiv.net/users/14178) |
+| fellatrix | fellatrix | ![](https://pbs.twimg.com/profile_images/1430814320569380867/vHtyJPXE_400x400.jpg) | [Twitter](https://twitter.com/FellatrixArt) [pixiv](https://www.pixiv.net/users/987338) [FANBOX](https://fellatrix.fanbox.cc/) [Subscribestar](https://subscribestar.adult/fellatrix) |
 
 <!--TEMPLATE:
 |  |  |  |  |
