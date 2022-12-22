@@ -12517,6 +12517,7 @@ example:
 | milk lamp | ミルクランプ |  |  |
 | germanium detroit | ゲルマニウム・デトロイト |  |  |
 | suiren no yado | 水莲之宿 | `asakawa`的同人社团 |  |
+| tariki honganji | 他力本愿寺 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
