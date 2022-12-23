@@ -12274,6 +12274,7 @@ example:
 | fellatrix | fellatrix | ![](https://pbs.twimg.com/profile_images/1430814320569380867/vHtyJPXE_400x400.jpg) | [Twitter](https://twitter.com/FellatrixArt) [pixiv](https://www.pixiv.net/users/987338) [FANBOX](https://fellatrix.fanbox.cc/) [Subscribestar](https://subscribestar.adult/fellatrix) |
 | bone hiko | 骨彦 |  |  |
 | yuzuhara moke | 柚原もけ |  | [Twitter](https://twitter.com/moke14)<br>[pixiv](https://www.pixiv.net/users/485394) |
+| eryu | えりゅ |  | [Twitter](https://twitter.com/erys65) [pixiv](https://www.pixiv.net/users/7792306) |
 
 <!--TEMPLATE:
 |  |  |  |  |
