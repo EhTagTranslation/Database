@@ -2059,6 +2059,7 @@ example:
 | from argonavis | from ARGONAVIS | 《from ARGONAVIS》是以男子乐队为主题，由Bushiroad制作的基于《BanG Dream!》的全新男子乐队跨媒体企划，以电视动画、游戏、漫画、现实演唱会等形式展开，在2022年2月1日由Bushiroad子公司化，成立专门公司「株式会社ARGONAVIS」来负责此品牌的统筹营运。 | [萌娘百科](https://zh.moegirl.org.cn/zh/From_ARGONAVIS) |
 | god of war | 战神 |  |  |
 | the world ends with you | 美妙世界 |  |  |
+| scarlet nexus | 绯红结系 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
