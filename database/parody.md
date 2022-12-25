@@ -2060,6 +2060,7 @@ example:
 | god of war | 战神 |  |  |
 | the world ends with you | 美妙世界 |  |  |
 | scarlet nexus | 绯红结系 |  |  |
+| dragalia lost | Dragalia Lost ～失落的龙约～ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
