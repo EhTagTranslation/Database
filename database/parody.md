@@ -2061,6 +2061,7 @@ example:
 | the world ends with you | 美妙世界 |  |  |
 | scarlet nexus | 绯红结系 |  |  |
 | dragalia lost | Dragalia Lost ～失落的龙约～ |  |  |
+| kimi ga nozomu eien | 你所期望的永远 |  | [维基百科](https://zh.wikipedia.org/wiki/你所期望的永遠) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
