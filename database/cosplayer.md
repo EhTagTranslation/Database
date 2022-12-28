@@ -80,6 +80,7 @@ example:
 | maria desu | Maria Desu |  |  |
 | hidori rose | Hidori Rose |  |  |
 | ai lei jiang | 少女映画 |  |  |
+| shimotsuki | 霜月shimo |  | [Twitter](https://twitter.com/shimotsukitw) |
 
 <!--
 Template: 
