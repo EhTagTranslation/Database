@@ -2062,6 +2062,7 @@ example:
 | scarlet nexus | 绯红结系 |  |  |
 | dragalia lost | Dragalia Lost ～失落的龙约～ |  |  |
 | kimi ga nozomu eien | 你所期望的永远 |  | [维基百科](https://zh.wikipedia.org/wiki/你所期望的永遠) |
+| matantei loki ragnarok | 魔侦探洛基 | 《魔偵探洛基》（日语：魔探偵ロキ）是日本漫畫家木下櫻創作的日本漫畫以及改編的日本電視動畫。 | [维基百科](https://zh.wikipedia.org/zh/魔偵探洛基) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
