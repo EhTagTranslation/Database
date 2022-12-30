@@ -12276,6 +12276,7 @@ example:
 | yuzuhara moke | 柚原もけ |  | [Twitter](https://twitter.com/moke14)<br>[pixiv](https://www.pixiv.net/users/485394) |
 | eryu | えりゅ |  | [Twitter](https://twitter.com/erys65) [pixiv](https://www.pixiv.net/users/7792306) |
 | micosivaa | 神輿葉 |  | [pixiv](https://www.pixiv.net/users/17787714) [Twitter](https://twitter.com/micosivaa) |
+| doritoru | どりとる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
