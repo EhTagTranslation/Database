@@ -4789,7 +4789,7 @@ example:
 | cura | cura |  |  |
 | cureryuta | キュアリュータ |  |  |
 | custom | カスタム |  |  |
-| cuteg | CUTEG |  |  |
+| cuteg | CUTEG | CUTEG是韩国女性漫画家、插画家。出生于首尔，活跃于韩国和日本。以「cuteg」名义负责轻小说插画，在韩国时会使用「깜쥐」的名义活动。 | [萌娘百科](https://zh.moegirl.org.cn/zh/CUTEG) [pixiv](https://www.pixiv.net/users/103130) |
 | cv1115 | cv1115 |  |  |
 | cylia-the-antelope | Cylia-The-Antelope |  |  |
 | cyorisuke | ちょりすけ |  |  |
