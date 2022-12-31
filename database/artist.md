@@ -3184,7 +3184,7 @@ example:
 | musha sabu | 武者サブ |  | [Twitter](https://twitter.com/musyasabu) [pixiv](https://www.pixiv.net/users/2526989) |
 | sanjuurou | さんじゅうろう |  |  |
 | souji hougu | 掃除朋具 |  | [Twitter](https://twitter.com/srghrg) [pixiv](https://www.pixiv.net/users/4856899) |
-| uousaoh | 魚ウサ王 |  |  |
+| uousaoh | 鱼ウサ王 | ![twitter](https://pbs.twimg.com/profile_images/1209938076794937344/IL1nhvP3_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`uousaohkoku`主笔画师 | [twitter](https://twitter.com/uousaoh2) [pixiv](https://www.pixiv.net/users/21530) |
 | kuroharuto | くろはると |  |  |
 | oomori | 大盛り |  |  |
 | yasson yoshiyuki | やっそん義之 |  | [pixiv](https://www.pixiv.net/users/18520349) [twitter](https://twitter.com/u_miyama) |
