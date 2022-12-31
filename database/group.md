@@ -12520,7 +12520,7 @@ example:
 | tariki honganji | 他力本愿寺 |  |  |
 | ebisujima misato | 戎島実里 |  | [Twitter](https://twitter.com/misat_eb) |
 | jikahatsudensho | 自家発電処 |  |  |
-| signal violet | 紫信号 |  |  |
+| signal violet | Signal:Violet |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
