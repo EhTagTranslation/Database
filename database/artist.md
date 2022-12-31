@@ -12278,6 +12278,7 @@ example:
 | micosivaa | 神輿葉 |  | [pixiv](https://www.pixiv.net/users/17787714) [Twitter](https://twitter.com/micosivaa) |
 | doritoru | どりとる |  |  |
 | nagina | なぎな |  | [pixiv](https://www.pixiv.net/users/31949962) [Twitter](https://twitter.com/Nagi_1907) [HP](https://nagina-info.tumblr.com/) |
+| ura kaizokudan | 裏海俗団 |  | [pixiv](https://www.pixiv.net/users/32231363) [Twitter](https://twitter.com/hnAZvqVKL63Nvg8) |
 
 <!--TEMPLATE:
 |  |  |  |  |
