@@ -1944,7 +1944,7 @@ example:
 | mainichi kenkou seikatsu | 毎日健康生活 |  |  |
 | noramani | のらまに |  |  |
 | w no honnou | Wの本能 |  |  |
-| tokyo prominence tomato | 東京プロミネンストマト |  |  |
+| tokyo prominence tomato | 东京プロミネンストマト | 画师`ogadenmon`所属社团 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37188.html) |
 | gainax | GAINAX |  |  |
 | sister mytory | Sister Mytory |  |  |
 | yubisaki studio | ユビサキスタジオ |  |  |
