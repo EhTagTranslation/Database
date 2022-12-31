@@ -12277,6 +12277,7 @@ example:
 | eryu | えりゅ |  | [Twitter](https://twitter.com/erys65) [pixiv](https://www.pixiv.net/users/7792306) |
 | micosivaa | 神輿葉 |  | [pixiv](https://www.pixiv.net/users/17787714) [Twitter](https://twitter.com/micosivaa) |
 | doritoru | どりとる |  |  |
+| nagina | なぎな |  | [pixiv](https://www.pixiv.net/users/31949962) [Twitter](https://twitter.com/Nagi_1907) [HP](https://nagina-info.tumblr.com/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
