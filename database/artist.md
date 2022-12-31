@@ -9611,7 +9611,7 @@ example:
 | ryutou | 竜湯 |  |  |
 | ryuudou hiromi | 龍堂ひろみ |  |  |
 | ryuuka ryou | りゅうか綾 |  |  |
-| konoshige | コノシゲ | りゅーん |  |
+| konoshige | コノシゲ | りゅーん<br>![](https://pbs.twimg.com/profile_images/1607563706304729089/-gCkVB_-_400x400.jpg) | [Twitter](https://twitter.com/tnsrk612) [Skeb](https://skeb.jp/@tnsrk612) [pixiv](https://www.pixiv.net/en/users/2118155) [FANBOX](https://ryunmod2.fanbox.cc) |
 | ryuuna | りゅうな |  |  |
 | ryuutai niku | 流体肉 |  |  |
 | s | S |  |  |
