@@ -4374,6 +4374,7 @@ example:
 | nekomiya hinata | 猫宫日向 | 猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。<br>![塑料袋战神](https://img.moegirl.org.cn/common/9/9c/Nekomiya_Hinata_Creator002.png) | [萌娘百科](https://zh.moegirl.org.cn/猫宫日向) |
 | himeno ayanokoji | 绫小路姫乃 |  |  |
 | seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive` |  |
+| hanae asagao | 朝颜花绘 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
