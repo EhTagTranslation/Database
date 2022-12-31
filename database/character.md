@@ -4375,6 +4375,7 @@ example:
 | himeno ayanokoji | 绫小路姫乃 |  |  |
 | seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive` |  |
 | hanae asagao | 朝颜花绘 | 所属作品：`p:blue archive` |  |
+| saori joumae | 锭前纱织 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
