@@ -12521,6 +12521,7 @@ example:
 | ebisujima misato | 戎島実里 |  | [Twitter](https://twitter.com/misat_eb) |
 | jikahatsudensho | 自家発電処 |  |  |
 | signal violet | Signal:Violet |  |  |
+| me no sato | 芽の里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
