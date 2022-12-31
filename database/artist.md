@@ -3388,7 +3388,7 @@ example:
 | hirokawa | 広川 | 大人的玩具(大人のおもちや)作者 | [Twitter](https://twitter.com/yanagi_yukito) |
 | kamiya yuu | 榎宮祐 |  | [Twitter](https://twitter.com/yuukamiya68) [pixiv](https://www.pixiv.net/users/19276) |
 | imigimuru | いみぎむる |  | [Twitter](https://twitter.com/imigimuru) [pixiv](https://www.pixiv.net/users/39265042) |
-| kise itsuki | 木瀬樹 |  |  |
+| kise itsuki | 木濑树 | ![twitter](https://pbs.twimg.com/profile_images/1526185415077957632/z7PU4wW3_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kiseitsuki7126) [pixiv](https://www.pixiv.net/users/28988148) |
 | shono kotaro | 宵野小太郎 | 宵野小太郎（日语：宵野 コタロー，12月24日－），日本漫画家。女性。已婚。代表作是目前在《少年Jump+》（集英社）连载的《终末的后宫》。 | [Twitter](https://twitter.com/kotaro_shono) [pixiv](https://www.pixiv.net/users/375178) [维基百科](https://zh.wikipedia.org/wiki/宵野小太郎) |
 | rurudo | rurudo |  | [Twitter](https://twitter.com/rurudo_) [pixiv](https://www.pixiv.net/users/25760573) |
 | ashima takumi | 芦間拓海 |  | [Twitter](https://twitter.com/ashima801) |
