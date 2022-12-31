@@ -12281,6 +12281,7 @@ example:
 | ura kaizokudan | 裏海俗団 |  | [pixiv](https://www.pixiv.net/users/32231363) [Twitter](https://twitter.com/hnAZvqVKL63Nvg8) |
 | tsuda hitokuchi | 津田ヒトクチ | ![](https://p.sda1.dev/9/a99ea1be178c3b52d4f7efb0a6f968ec/image.png) | [Twitter](https://twitter.com/tsuda_hitokuchi) [pixiv](https://www.pixiv.net/users/56349000) |
 | sakura ab | さくらAB |  | [pixiv](https://www.pixiv.net/users/7559074) [Twitter](https://twitter.com/sakuraab636r) |
+| sevengar | せぶんがー | ![twitter](https://pbs.twimg.com/profile_images/1438422867629072388/5yArVfq9_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kvpIa1BN5yxs3IW) [pixiv](https://www.pixiv.net/users/58860928) |
 
 <!--TEMPLATE:
 |  |  |  |  |
