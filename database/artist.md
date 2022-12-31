@@ -12286,6 +12286,7 @@ example:
 | seneto | セネト |  |  |
 | unosero | うのせろ | ![twitter](https://pbs.twimg.com/profile_images/1083229542603358208/P6TQZShF_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/marble_nnn) [pixiv](https://www.pixiv.net/users/27406422) |
 | murasaki shingou | 紫信号 |  |  |
+| meriibe | めりーべ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
