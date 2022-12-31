@@ -4373,6 +4373,7 @@ example:
 | annie leonhart | 阿尼·利昂纳德 | 阿尼·利昂纳德是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿尼·利昂纳德) |
 | nekomiya hinata | 猫宫日向 | 猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。<br>![塑料袋战神](https://img.moegirl.org.cn/common/9/9c/Nekomiya_Hinata_Creator002.png) | [萌娘百科](https://zh.moegirl.org.cn/猫宫日向) |
 | himeno ayanokoji | 绫小路姫乃 |  |  |
+| seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
