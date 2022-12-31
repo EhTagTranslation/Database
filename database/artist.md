@@ -3486,7 +3486,7 @@ example:
 | yuruchin kyouso | ゆるちん教祖 |  |  |
 | mitsuki | ミツ季 |  |  |
 | momono yuuca | もものユーカ |  |  |
-| oyama kina | 大山樹奈 |  |  |
+| oyama kina | 大山樹奈 | ![twitter](https://pbs.twimg.com/profile_images/1585070289099968512/wo5ybWGg_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/kinakoweb) [pixiv](https://www.pixiv.net/users/458111) |
 | ronna | ろんな |  |  |
 | uranokyuu | ウラノキュウ |  |  |
 | 7x2 | 7×2 |  |  |
