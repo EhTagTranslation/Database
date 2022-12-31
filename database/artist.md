@@ -12284,6 +12284,7 @@ example:
 | sevengar | せぶんがー | ![twitter](https://pbs.twimg.com/profile_images/1438422867629072388/5yArVfq9_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kvpIa1BN5yxs3IW) [pixiv](https://www.pixiv.net/users/58860928) |
 | jagi iwa | ジャギ岩 | ![twitter](https://pbs.twimg.com/profile_images/1175278340824952833/OhY5Dah-_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/jagi_iwa) [pixiv](https://www.pixiv.net/users/7687527) |
 | seneto | セネト |  |  |
+| unosero | うのせろ | ![twitter](https://pbs.twimg.com/profile_images/1083229542603358208/P6TQZShF_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/marble_nnn) [pixiv](https://www.pixiv.net/users/27406422) |
 
 <!--TEMPLATE:
 |  |  |  |  |
