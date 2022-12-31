@@ -12282,6 +12282,7 @@ example:
 | tsuda hitokuchi | 津田ヒトクチ | ![](https://p.sda1.dev/9/a99ea1be178c3b52d4f7efb0a6f968ec/image.png) | [Twitter](https://twitter.com/tsuda_hitokuchi) [pixiv](https://www.pixiv.net/users/56349000) |
 | sakura ab | さくらAB |  | [pixiv](https://www.pixiv.net/users/7559074) [Twitter](https://twitter.com/sakuraab636r) |
 | sevengar | せぶんがー | ![twitter](https://pbs.twimg.com/profile_images/1438422867629072388/5yArVfq9_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kvpIa1BN5yxs3IW) [pixiv](https://www.pixiv.net/users/58860928) |
+| jagi iwa | ジャギ岩 | ![twitter](https://pbs.twimg.com/profile_images/1175278340824952833/OhY5Dah-_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/jagi_iwa) [pixiv](https://www.pixiv.net/users/7687527) |
 
 <!--TEMPLATE:
 |  |  |  |  |
