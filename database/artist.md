@@ -8515,7 +8515,7 @@ example:
 | nanami shizuka | ななみ静 |  |  |
 | nanami yasuna | ナナミヤスナ |  |  |
 | nanamiya rin | ななみやりん |  |  |
-| nanamiya tsugumi | 七宮つぐ実 |  |  |
+| nanamiya tsugumi | 七宫つぐ实 | ![twitter](https://pbs.twimg.com/profile_images/1542435269580066816/8mhVqHZq_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/nanatsugumi) [pixiv](https://www.pixiv.net/users/43326) |
 | nanamo | ななも |  |  |
 | nanamomo rio | 七桃りお |  |  |
 | nanana nana | 七名菜奈 |  |  |
