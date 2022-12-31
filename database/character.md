@@ -2804,7 +2804,7 @@ example:
 | mallow | 玛奥 |  |  |
 | melony | 美蓉 |  |  |
 | kama | 迦摩 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。 |  |
-| yu miaoyi | 虞美人 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
+| yu mei-ren | 虞美人 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
 | beni-enma | 红阎魔 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
 | carmilla | 卡米拉 | 在`type-moon`的游戏《`fate grand order`》中登场的女性Servant。职阶为Assassin<br>![图](# "https://ehgt.org/ba/3f/ba3f3347a0ce6d4ae9b2991468db49cf9c823465-2970572-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/卡米拉%28Fate%29) [Mooncell](http://www.fgo.wiki/w/卡米拉) |
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |

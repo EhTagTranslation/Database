@@ -9981,7 +9981,7 @@ example:
 | shaian | しゃいあん |  |  |
 | shain a | 社員A |  |  |
 | shake | しゃけ |  |  |
-| shakekare | 左門しう |  |  |
+| samon shiu | 左門しう |  |  |
 | shakeko | しゃけこ |  |  |
 | shamon | 沙門 |  |  |
 | shamorock heart | シャモロックハート |  |  |
