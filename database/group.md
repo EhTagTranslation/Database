@@ -12525,6 +12525,7 @@ example:
 | shuukyuu 8-ka | 週休8日 |  |  |
 | sagamiokiva | さがみおきば |  |  |
 | bochi bochi no ki | ぼちぼちの木 |  |  |
+| pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
