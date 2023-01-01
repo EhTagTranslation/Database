@@ -12288,6 +12288,7 @@ example:
 | murasaki shingou | 紫信号 |  |  |
 | meriibe | めりーべ |  |  |
 | hoshina mimiwo | 星奈みみヲ |  |  |
+| sakauchi waka | 坂内若 |  | [Twitter](https://twitter.com/sakauchi0) |
 
 <!--TEMPLATE:
 |  |  |  |  |
