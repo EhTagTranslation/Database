@@ -12289,6 +12289,7 @@ example:
 | meriibe | めりーべ |  |  |
 | hoshina mimiwo | 星奈みみヲ |  |  |
 | sakauchi waka | 坂内若 |  | [Twitter](https://twitter.com/sakauchi0) |
+| sagami yuki | さがみおきば |  | [pixiv](https://www.pixiv.net/users/2838601) [Twitter](https://twitter.com/sagamiokiva) |
 
 <!--TEMPLATE:
 |  |  |  |  |
