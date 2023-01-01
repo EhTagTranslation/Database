@@ -398,7 +398,7 @@ example:
 | kirby | 星之卡比 |  |  |
 | sakura quest | 樱花任务 |  |  |
 | aldnoah.zero | ALDNOAH.ZERO |  |  |
-| maoyuu maou yuusha | 魔王勇者 |  |  |
+| maoyuu maou yuusha | 魔王勇者 | 《魔王勇者》（日语：まおゆう）（别名“狼与香辛料第三季”）是由橙乃真希在2channel上即兴创作的一部幻想类轻经济教学小说，并有动画、漫画、广播剧和WEB广播等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔王勇者) |
 | splatoon | 喷射战士 | ![图](https://ehgt.org/a8/78/a878b24da4c4996512e35d61cf7d94a56b70ee07-756252-796-890-png_l.jpg) |  |
 | prunus girl | 樱桃少女 |  |  |
 | king of fighters | 拳皇 |  |  |
