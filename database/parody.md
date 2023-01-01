@@ -2065,6 +2065,7 @@ example:
 | matantei loki ragnarok | 魔侦探洛基 | 《魔偵探洛基》（日语：魔探偵ロキ）是日本漫畫家木下櫻創作的日本漫畫以及改編的日本電視動畫。 | [维基百科](https://zh.wikipedia.org/zh/魔偵探洛基) |
 | washio sumi wa yuusha de aru | 鹫尾须美是勇者 | 《鹫尾须美是勇者》（日语：鷲尾須美は勇者である）是由タカヒロ原作、BUNBUN插画的一部轻小说，并有漫画、动画等衍生作品。是《结城友奈是勇者》的前传，时间为《结城友奈是勇者》的2年前。 | [萌娘百科](https://zh.moegirl.org.cn/zh/鹫尾须美是勇者) |
 | kono healer mendokusai | 这个僧侣有够烦 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/这个医师超麻烦) [维基百科](https://zh.wikipedia.org/zh/這個僧侶有夠煩) |
+| super dimension century orguss | 超时空世纪 | 《超时空世纪》（日语：超時空世紀オーガス）是TBS系自1983年7月3日至1984年4月8日首播的全35话的科幻动画。《`p:super dimension century orguss`》与《`p:macross`》、《`p:choujikuu kidan southern cross`》合称为“超时空系列”。《超时空世纪》是“超时空系列”的第二部动画。 | [维基百科](https://zh.wikipedia.org/wiki/超时空世纪) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
