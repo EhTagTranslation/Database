@@ -4381,6 +4381,7 @@ example:
 | ikuyo kita | 喜多郁代 |  |  |
 | mewtwo | 超梦 |  |  |
 | shion | 紫苑 |  |  |
+| nemu manaka | 真中合欢 | 真中合欢是`clockup`制作的游戏《`p:euphoria`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/clockupeuphoria/images/4/48/Nemu_Portrait.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/真中合欢) [Fandom](https://clockup.fandom.com/wiki/Nemu_Manaka) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
