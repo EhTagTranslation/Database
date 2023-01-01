@@ -6070,7 +6070,7 @@ example:
 | ikeda usao | イケダウサオ |  |  |
 | ikeda yasuhiro | 池田靖宏 |  |  |
 | ikeden | いけでん |  |  |
-| ikelag | ikelag |  |  |
+| ikelag | ikelag |  | [pixiv](https://www.pixiv.net/users/10246839) |
 | iken | イケン |  |  |
 | ikoma ippei | 伊駒一平 |  |  |
 | iktk | イキテク |  |  |
