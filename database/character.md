@@ -4380,6 +4380,7 @@ example:
 | ryou yamada | 山田凉 |  |  |
 | ikuyo kita | 喜多郁代 |  |  |
 | mewtwo | 超梦 |  |  |
+| shion | 紫苑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
