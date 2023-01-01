@@ -4377,6 +4377,7 @@ example:
 | hanae asagao | 朝颜花绘 | 所属作品：`p:blue archive` |  |
 | saori joumae | 锭前纱织 | 所属作品：`p:blue archive` |  |
 | nijika ijichi | 伊地知虹夏 |  |  |
+| ryou yamada | 山田凉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
