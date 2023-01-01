@@ -12523,6 +12523,7 @@ example:
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
 | shuukyuu 8-ka | 週休8日 |  |  |
+| sagamiokiva | さがみおきば |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
