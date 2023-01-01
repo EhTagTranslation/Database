@@ -3714,7 +3714,7 @@ example:
 | makari tohru | 魔狩十织 |  |  |
 | mizoguchi keiji | 沟口凯吉 | 代表作：`sakurasou no pet na kanojo` `p:seishun buta yarou wa bunny girl senpai no yume o minai` | [维基百科](https://zh.wikipedia.org/zh/溝口凱吉) [萌娘百科](https://zh.moegirl.org.cn/���ڿ���) |
 | bing gong asylum | 冰宫Asylum |  | [pixiv](https://www.pixiv.net/users/20569497) [Twitter](https://twitter.com/BGAsylum) |
-| mikimoto haruhiko | 美树本晴彦 |  | [维基百科](https://zh.wikipedia.org/zh/美樹本晴彥) |
+| mikimoto haruhiko | 美树本晴彦 | 美树本晴彦是日本的插画师、漫画家以及动画角色原案，是日本80年代机战大热潮的代表画师。<br>在同为石黒监督的《超时空要塞》里被提拔成人物设定与作画监督而受到注目。而后历经《超时空世纪》《无限地带23》顺遂地累积经历，确定了人气人物设定师的地位。后来转以插画和漫画为工作重心。 | [维基百科](https://zh.wikipedia.org/zh/美樹本晴彥) [萌娘百科](https://zh.moegirl.org.cn/zh/美树本晴彦) [Bangumi](https://bgm.tv/person/300) |
 | asakura ryosuke | 朝仓亮介 | 代表作<br>战×恋<br>魔法的禁书目录：恩底弥翁的奇迹 | [Twitter](https://twitter.com/asakura681) [pixiv](https://www.pixiv.net/users/11115999) |
 | b-river | B-RIVER |  |  |
 | katakura mikki | 片倉みっき |  |  |
