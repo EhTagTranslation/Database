@@ -12290,6 +12290,7 @@ example:
 | hoshina mimiwo | 星奈みみヲ |  |  |
 | sakauchi waka | 坂内若 |  | [Twitter](https://twitter.com/sakauchi0) |
 | sagami yuki | さがみおきば |  | [pixiv](https://www.pixiv.net/users/2838601) [Twitter](https://twitter.com/sagamiokiva) |
+| miyanose you | 宮ノ瀬陽 |  | [Twitter](https://twitter.com/miyanose) [pixiv](https://www.pixiv.net/users/25847) |
 
 <!--TEMPLATE:
 |  |  |  |  |
