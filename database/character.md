@@ -4379,6 +4379,7 @@ example:
 | nijika ijichi | 伊地知虹夏 |  |  |
 | ryou yamada | 山田凉 |  |  |
 | ikuyo kita | 喜多郁代 |  |  |
+| mewtwo | 超梦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
