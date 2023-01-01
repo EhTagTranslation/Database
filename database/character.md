@@ -4385,6 +4385,7 @@ example:
 | rinne byakuya | 白夜凛音 | 白夜凛音是`clockup`旗下游戏《`euphoria`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/clockupeuphoria/images/6/69/Rinne_Portrait.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/白夜凛音) [Fandom](https://clockup.fandom.com/wiki/Rinne_Byakuya) |
 | hanabi yasuraoka | 安乐冈花火 | 安乐冈花火是由横槍メンゴ所创作的漫画《`p:kuzu no honkai`<br>》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/zh/安乐冈花火) |
 | nayuta kani | 可儿那由多 | 可儿那由多是由平坂读创作、カントク负责插画的轻小说《`p:imouto sae ireba ii.`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/可儿那由多) |
+| maou | 魔王（红玉之瞳） | 红玉之瞳（魔王）是橙乃真希创作的小说《`p:maoyuu maou yuusha`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/红玉之瞳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
