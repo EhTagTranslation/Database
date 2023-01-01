@@ -12522,6 +12522,7 @@ example:
 | jikahatsudensho | 自家発電処 |  |  |
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
+| shuukyuu 8-ka | 週休8日 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
