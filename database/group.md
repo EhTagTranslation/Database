@@ -166,7 +166,7 @@ example:
 | otukimi koubo | おつきみ工房 |  | [官方网站](https://otukimikoubou.com) |
 | monsieur | MonsieuR |  |  |
 | orange peels | オレンジピールズ |  | [官方网站](http://www.orchard.topaz.ne.jp/~orepee) |
-| wata 120 percent | 綿120パーセント |  |  |
+| wata 120 percent | 120%棉 | 綿120パーセント |  |
 | watsukiya | わつき屋 |  |  |
 | sotikoti | ソチコチ |  |  |
 | 320bpm | 320BPM |  | [官方网站](http://320bpm.x.fc2.com) |
