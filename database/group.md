@@ -12524,6 +12524,7 @@ example:
 | me no sato | 芽の里 |  |  |
 | shuukyuu 8-ka | 週休8日 |  |  |
 | sagamiokiva | さがみおきば |  |  |
+| bochi bochi no ki | ぼちぼちの木 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
