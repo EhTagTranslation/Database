@@ -12526,6 +12526,7 @@ example:
 | sagamiokiva | さがみおきば |  |  |
 | bochi bochi no ki | ぼちぼちの木 |  |  |
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
+| henry plaza | 半里プラザー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
