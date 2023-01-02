@@ -4389,6 +4389,7 @@ example:
 | tabitha helene orleans de gallia | 塔巴萨 | 塔巴萨是由山口升所创作/制作的《`p:zero no tsukaima`》和《塔巴萨的冒险》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/thefamiliarofzero/images/9/9e/Tabitha.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/塔巴萨) [Fandom](https://thefamiliarofzero.fandom.com/wiki/Charlotte_de_Gallia) |
 | suguru geto | 夏油杰 |  |  |
 | selvaria bles | 塞貝莉雅·布雷斯 | 塞貝莉雅·布雷斯 | [萌娘百科](https://zh.moegirl.org.cn/zh-hant/塞贝莉雅·布雷斯) |
+| arisa eloise beau-regard | 亚里砂·艾洛伊丝·博勒加德 | 所属作品: `p:raramagi honyarara magic` | [萌娘百科](https://zh.moegirl.org.cn/亚里砂·艾洛伊丝·博勒加德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
