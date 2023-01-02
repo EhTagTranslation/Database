@@ -4390,6 +4390,7 @@ example:
 | suguru geto | 夏油杰 |  |  |
 | selvaria bles | 塞貝莉雅·布雷斯 | 塞貝莉雅·布雷斯 | [萌娘百科](https://zh.moegirl.org.cn/zh-hant/塞贝莉雅·布雷斯) |
 | arisa eloise beau-regard | 亚里砂·艾洛伊丝·博勒加德 | 所属作品: `p:raramagi honyarara magic` | [萌娘百科](https://zh.moegirl.org.cn/亚里砂·艾洛伊丝·博勒加德) |
+| wakamo kosaka | 狐坂若藻 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
