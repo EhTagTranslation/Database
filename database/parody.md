@@ -2073,6 +2073,7 @@ example:
 | raramagi honyarara magic | 不确定魔法 |  | [萌娘百科](https://zh.moegirl.org.cn/不确定魔法) [维基百科（日语）](https://ja.wikipedia.org/wiki/ららマジ) |
 | space battleship yamato 2199 | 宇宙战舰大和号2199 | 《宇宙战舰大和号2199》（日语：宇宙戦艦ヤマト2199；英语：Space Battleship Yamato 2199）是由XEBEC制作的一部动画。讲述的是宇宙战舰大和号的航行历程。 | [萌娘百科](https://zh.moegirl.org.cn/宇宙战舰大和号2199) [维基百科](https://zh.wikipedia.org/wiki/宇宙戰艦大和號2199) |
 | power pro kun pocket | 口袋力量棒球 |  | [百度百科](https://baike.baidu.com/item/口袋力量棒球9) [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pro_Kun_Pocket) |
+| anothereidos of dragon vein r | 龙脉·另一种姿态 | 《龙脉•另一种姿态》（日文：龍脈のアナザーエイドス，英文：Anothereidos of Dragon Vein）是Habbit开发的策略塔防游戏，于2021年10月30日首次公开，并于同年12月24日在PC、Android平台上发布。游戏分为全年龄版跟R版，二者的存档互通。 | [萌娘百科](https://zh.moegirl.org.cn/龙脉·另一种姿态) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
