@@ -2067,6 +2067,7 @@ example:
 | kono healer mendokusai | 这个僧侣有够烦 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/这个医师超麻烦) [维基百科](https://zh.wikipedia.org/zh/這個僧侶有夠煩) |
 | super dimension century orguss | 超时空世纪 | 《超时空世纪》（日语：超時空世紀オーガス）是TBS系自1983年7月3日至1984年4月8日首播的全35话的科幻动画。《`p:super dimension century orguss`》与《`p:macross`》、《`p:choujikuu kidan southern cross`》合称为“超时空系列”。《超时空世纪》是“超时空系列”的第二部动画。 | [维基百科](https://zh.wikipedia.org/wiki/超时空世纪) |
 | ouchi ni kaeru made ga mashimaro desu | 回家之前的棉花糖 | ![图](https://ehgt.org/c7/f6/c7f6f566feaefed7756b15f54dd8fb3133153506-603214-1400-966-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/回家之前的棉花糖) [维基百科](https://zh.wikipedia.org/wiki/回家之前的棉花糖) |
+| karakuri circus | 傀儡马戏团 |  | [萌娘百科](https://zh.moegirl.org.cn/傀儡马戏团) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
