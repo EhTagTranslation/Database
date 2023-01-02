@@ -12295,6 +12295,7 @@ example:
 | nakkar | Nakkar |  | [pixiv](https://www.pixiv.net/users/28246124) [Twitter](https://twitter.com/Nakkar7) |
 | bippew | Bippew |  | [pixiv](https://www.pixiv.net/users/10695172) [Twitter](https://twitter.com/idbippew) |
 | omegazero01 | Omegazero01 |  | [pixiv](https://www.pixiv.net/users/36282372) [Twitter](https://twitter.com/Omegazero011) |
+| diesel | でーぜる |  | [pixiv](https://www.pixiv.net/users/1673905) [Twitter](https://twitter.com/diesel_turbo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
