@@ -12293,6 +12293,7 @@ example:
 | miyanose you | 宮ノ瀬陽 |  | [Twitter](https://twitter.com/miyanose) [pixiv](https://www.pixiv.net/users/25847) |
 | tsukiyo | 月夜 |  | [pixiv](https://www.pixiv.net/users/8968) [Twitter](https://twitter.com/tsukiyopoke) |
 | nakkar | Nakkar |  | [pixiv](https://www.pixiv.net/users/28246124) [Twitter](https://twitter.com/Nakkar7) |
+| bippew | Bippew |  | [pixiv](https://www.pixiv.net/users/10695172) [Twitter](https://twitter.com/idbippew) |
 
 <!--TEMPLATE:
 |  |  |  |  |
