@@ -12297,6 +12297,7 @@ example:
 | omegazero01 | Omegazero01 |  | [pixiv](https://www.pixiv.net/users/36282372) [Twitter](https://twitter.com/Omegazero011) |
 | diesel | でーぜる |  | [pixiv](https://www.pixiv.net/users/1673905) [Twitter](https://twitter.com/diesel_turbo) |
 | sincos | サインこす |  | [pixiv](https://www.pixiv.net/users/11229342) [Twitter](https://twitter.com/tansincossin) |
+| lshiki | Lshiki | “Random guy. Thank you for thumbs up. FOLLOW PLZ.<br>你会画画你清高，我是废物我自豪。<br>V我50进二次元<br>pay me 50 into the anime world.<br>23年纯手工画手，数位板手画，零AI零贴图，品质无保障。” | [pixiv](https://www.pixiv.net/users/9871675) [Twitter](https://twitter.com/CpayShiki) |
 
 <!--TEMPLATE:
 |  |  |  |  |
