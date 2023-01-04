@@ -4391,6 +4391,7 @@ example:
 | selvaria bles | 塞貝莉雅·布雷斯 | 塞貝莉雅·布雷斯 | [萌娘百科](https://zh.moegirl.org.cn/zh-hant/塞贝莉雅·布雷斯) |
 | arisa eloise beau-regard | 亚里砂·艾洛伊丝·博勒加德 | 所属作品: `p:raramagi honyarara magic` | [萌娘百科](https://zh.moegirl.org.cn/亚里砂·艾洛伊丝·博勒加德) |
 | wakamo kosaka | 狐坂若藻 | 所属作品：`p:blue archive` |  |
+| high elf archer | 妖精弓手 | 妖精弓手（High Elf Archer）是由蜗牛くも所创作的小说《`p:goblin slayer`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/ee/15/ee155d5a6e227ae3c4da7ccbe81a76be44138fa3-145374-822-1062-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/妖精弓手) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
