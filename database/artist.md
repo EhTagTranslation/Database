@@ -2531,7 +2531,7 @@ example:
 | takemasa takeshi | 武将武 |  |  |
 | akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
 | hisui | 翡翠石 |  |  |
-| sakura yuki | 咲良ゆき |  | [pixiv](https://www.pixiv.net/users/1661253) |
+| sakura yuki | 咲良ゆき | 咲良ゆき / 사쿠라 유키<br>![](https://p.sda1.dev/9/fd4379512a66728f12d9ce9f34e4d0aa/image.png) | [pixiv](https://www.pixiv.net/users/1661253) [Twitter](https://twitter.com/sakula_yuki) [HP](https://www.sakulayuki.net/) |
 | suga hideo | スガヒデオ | スガヒデオ（まーくん） | [pixiv](https://www.pixiv.net/users/59416) |
 | nadaka harutsugu | 南高春告（梅干） |  | [pixiv](https://www.pixiv.net/users/41560) [twitter](https://twitter.com/Ume_boC) |
 | hatori you | 葉鳥侑 |  | [pixiv](https://www.pixiv.net/users/1546998) [twitter](https://twitter.com/Hatori_you0521) |
