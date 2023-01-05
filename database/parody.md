@@ -2076,6 +2076,7 @@ example:
 | anothereidos of dragon vein r | 龙脉·另一种姿态 | 《龙脉•另一种姿态》（日文：龍脈のアナザーエイドス，英文：Anothereidos of Dragon Vein）是Habbit开发的策略塔防游戏，于2021年10月30日首次公开，并于同年12月24日在PC、Android平台上发布。游戏分为全年龄版跟R版，二者的存档互通。 | [萌娘百科](https://zh.moegirl.org.cn/龙脉·另一种姿态) |
 | the saga of darren shan | 向达伦大冒险 | 《向达伦大冒险》（The Saga of Darren Shan）是爱尔兰作家向达伦的系列小说作品，全系列共有12本。小说描写主角向达伦在少年时期变成一个半吸血鬼，在吸血鬼世界的冒险故事。繁体中文版由皇冠出版社出版，已经于2005年4月发行完毕。 | [维基百科](https://zh.wikipedia.org/zh/向達倫大冒險) |
 | delicious party precure | 美味PARTY♡光之美少女 | 《美味PARTY♡光之美少女》（日语：デリシャスパーティ♡プリキュア）是由东映动画制作的《光之美少女系列》动画第十九代作品，于2022年2月6日在日本播映。为令和时代的第三部光之美少女系列作品，并重新恢复在2月第一个星期日开始播放的传统。 | [萌娘百科](https://zh.moegirl.org.cn/美味PARTY_光之美少女) [维基百科](https://zh.wikipedia.org/zh/Delicious_Party_♡_光之美少女) |
+| ai the somnium files | AI：梦境档案 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
