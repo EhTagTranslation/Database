@@ -184,7 +184,7 @@ example:
 | portal | 传送门 | ![图](https://ehgt.org/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |  |
 | the witcher | 巫师 | ![图](https://ehgt.org/eb/bc/ebbc8f12985ac9502e7c7ac6f1d4917a31760f50-90823-647-1000-jpg_250.jpg) |  |
 | the elder scrolls | 上古卷轴 | 老头滚动条 ![图](https://ehgt.org/e0/e0/e0e0bc963d82aa0e34be99f34193a005d0e7430a-319141-1920-1080-jpg_250.jpg) |  |
-| defense of the ancients | 刀塔 | DotA ![图](https://ehgt.org/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg) |  |
+| defense of the ancients | 刀塔 | ![图](https://ehgt.org/33/82/33828dc98d98755632482b85c14488da77ac1304-263409-1280-960-jpg_250.jpg)<br>《遗迹保卫战》（英语：Defense of the Ancients），通常简称DotA，中文也译刀塔，是以《魔兽争霸III》资料片《魔兽争霸III：冰封王座》为基础制作的一系列角色扮演（RPG）类型自定义地图。美国游戏公司Valve开发了续作DOTA 2，于2013年正式发行。 | [维基百科](https://zh.wikipedia.org/zh/DotA) [萌娘百科](https://zh.moegirl.org.cn/DotA2) |
 | re zero kara hajimeru isekai seikatsu | Re：从零开始的异世界生活 | ![Re0](# "https://ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_250.jpg") |  |
 | saenai heroine no sodatekata | 路人女主的养成方法 | ![图](https://ehgt.org/da/db/dadbd1c61eb9be7ee6b7a6fd5096e640d9acaf6a-978065-1027-1500-jpg_l.jpg)![路人女主的养成方法](https://ehgt.org/54/db/54db9289fe26805504ff938136f415edfac4f4ff-690684-1920-1080-jpg_l.jpg)![图](https://ehgt.org/40/2e/402ecfd52cae95bdce70f49174c3248d16aab3f3-272970-850-1269-jpg_l.jpg)![图](# "https://ehgt.org/3b/3b/3b3b573675250df60f675e4eb665dc90d4efbdbf-145059-800-600-jpg_l.jpg")![图](https://ehgt.org/fe/f5/fef55bdfacdf35ad1ac4a0d18048e99ba2d55ad4-544860-1200-675-jpg_l.jpg) |  |
 | koihime musou | 恋姬†无双 | ![图](https://ehgt.org/ce/4f/ce4f54f0a3ad3bc41e5ef8ec37affc68abec1d81-371409-1240-680-png_l.jpg) |  |
