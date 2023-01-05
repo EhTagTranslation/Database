@@ -12530,6 +12530,7 @@ example:
 | shirokuroino | 白黒いの |  |  |
 | riku no kotoutei | 陸の孤島亭 |  |  |
 | kuniku no saku | 狗肉の策 |  |  |
+| taipeijin | 台北人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
