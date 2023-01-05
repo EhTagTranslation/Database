@@ -12529,6 +12529,7 @@ example:
 | henry plaza | 半里プラザー |  |  |
 | shirokuroino | 白黒いの |  |  |
 | riku no kotoutei | 陸の孤島亭 |  |  |
+| kuniku no saku | 狗肉の策 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
