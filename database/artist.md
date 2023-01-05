@@ -4849,7 +4849,7 @@ example:
 | ddal | ddal |  |  |
 | ddg160 | DDG160 |  |  |
 | de | De |  |  |
-| deadnoodles | Deadnoodles |  |  |
+| deadnoodles | ゴミョン | ゴミョン / Deadnooodles | [pixiv](https://www.pixiv.net/users/4077126) [Twitter](https://twitter.com/Deadnooodles) |
 | dear | dear |  |  |
 | dearonnus | Dearonnus |  |  |
 | deburasu | でぶらす |  |  |
