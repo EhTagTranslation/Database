@@ -3093,7 +3093,7 @@ example:
 | morino bambi | 森乃ばんび |  |  |
 | nekoi mie | 猫井ミィ |  |  |
 | ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
-| chomikuplus | Chomikuplus |  |  |
+| chomikuplus | Chomikuplus |  | [pixiv](https://www.pixiv.net/users/7621567) [Twitter](https://twitter.com/Chomikuplus) |
 | fuzui | 不随 |  |  |
 | tokomaya keita | とこまやけいた |  |  |
 | holiday yasumi | 堀出井靖水 |  |  |
