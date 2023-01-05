@@ -10203,7 +10203,7 @@ example:
 | shizuna miyuri | しずなみゆり |  |  |
 | shizuru | シズル |  |  |
 | sho-tan | sho-tan |  |  |
-| sho-yan | しょーやん |  |  |
+| sho-yan | しょーやん |  | [Twitter](https://twitter.com/puringaoisiyo) |
 | shocco | しょこ |  |  |
 | shoco | shoco |  |  |
 | shocora | ショコラ |  |  |
