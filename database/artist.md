@@ -12308,6 +12308,7 @@ example:
 | greem bang | GreemBang |  | [pixiv](https://www.pixiv.net/users/14409210) [Twitter](https://twitter.com/greem_bang) |
 | bibimbub | Bibimbub |  | [pixiv](https://www.pixiv.net/users/44960863) [Twitter](https://twitter.com/Bibimbub15) |
 | kuni-kun | クニくん |  | [pixiv](https://www.pixiv.net/users/9606186) [Twitter](https://twitter.com/kunikune) |
+| mushihara | 虫原 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
