@@ -4394,6 +4394,7 @@ example:
 | high elf archer | 妖精弓手 | 妖精弓手（High Elf Archer）是由蜗牛くも所创作的小说《`p:goblin slayer`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/ee/15/ee155d5a6e227ae3c4da7ccbe81a76be44138fa3-145374-822-1062-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/妖精弓手) |
 | big bad wolf | 大灰狼 | 大灰狼（或称大野狼）是出现在童话故事里面的虚构的角色，以凶险的狼的形象出现在故事里。例如`p:little red riding hood`里的狼。 | [维基百科](https://zh.wikipedia.org/wiki/大灰狼) |
 | nemona | 妮莫 |  |  |
+| little red riding hoods grandmother | 小红帽的外婆 |  | [Fandom](https://thelandofstories.fandom.com/wiki/Red_Riding_Hood%27s_grandmother) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
