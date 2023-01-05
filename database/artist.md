@@ -12301,6 +12301,7 @@ example:
 | asahina yoshitosi | 朝比奈吉利（420号高速道路） | 本体: 朝比奈吉利<br>R18: 420号高速道路 | [Twitter](https://twitter.com/guman_project) [Twitter](https://twitter.com/Hightway_420) [pixiv](https://www.pixiv.net/users/9448719) [HP](https://hightway-420.weebly.com/) |
 | mithril rim | みすりるリム |  | [pixiv](https://www.pixiv.net/users/17239664) |
 | matsunaga kouyou | 松永紅葉 |  | [pixiv](https://www.pixiv.net/users/440400) [Twitter](https://twitter.com/kouyouwp) |
+| muta no yoi oniku | mutaの良いお肉 |  | [pixiv](https://www.pixiv.net/users/597632) [Twitter](https://twitter.com/muta129) |
 
 <!--TEMPLATE:
 |  |  |  |  |
