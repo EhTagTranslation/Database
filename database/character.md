@@ -4399,6 +4399,7 @@ example:
 | layla prismriver | 蕾拉·普莉兹姆利巴 | ![](https://static.wikia.nocookie.net/touhou/images/4/42/LaylaNB2.png) | [THB wiki](https://thwiki.cc/蕾拉·普莉兹姆利巴) |
 | chise waraku | 和乐千世 | 所属作品：`p:blue archive` |  |
 | kaho kuwakami | 桑上嘉穗 | 所属作品：`p:blue archive` |  |
+| ume | 梅 | ![](https://uploads.kcwiki.cn/commons/thumb/7/74/KanMusu443HD.png/218px-KanMusu443HD.png) | [舰娘百科](https://m.kcwiki.cn/wiki/梅) [艦これ wiki](https://en.kancollewiki.net/Ume) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
