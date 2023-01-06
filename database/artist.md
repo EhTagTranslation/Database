@@ -7214,7 +7214,7 @@ example:
 | kumagaya nerico | 熊谷ネリコ |  |  |
 | kumagaya shin | 熊谷しん |  |  |
 | kumaki toshikazu | 熊木十志和 |  |  |
-| kumakichi | 隈吉 |  |  |
+| kumakichi | 熊吉 |  |  |
 | kumano kotaro | くまのこたろ |  |  |
 | kumao | く魔王 |  |  |
 | kumasaku tamizou | クマ作民三 |  |  |
