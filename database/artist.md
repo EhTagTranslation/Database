@@ -12310,6 +12310,7 @@ example:
 | kuni-kun | クニくん |  | [pixiv](https://www.pixiv.net/users/9606186) [Twitter](https://twitter.com/kunikune) |
 | mushihara | 虫原 |  |  |
 | momomomo hakushaku | モモモーモー伯爵 |  | [pixiv](https://www.pixiv.net/users/15474458) [Twitter](https://twitter.com/defanilimmmm) |
+| takaoka sui | 高岡彗 |  | [pixiv](https://www.pixiv.net/users/20343413) [Twitter](https://twitter.com/SuiTakaoka) |
 
 <!--TEMPLATE:
 |  |  |  |  |
