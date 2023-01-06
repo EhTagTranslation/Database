@@ -1079,7 +1079,7 @@ example:
 | chiba toshirou | チバトシロウ |  |  |
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
-| haruhisky | はるきち |  | [pixiv](https://www.pixiv.net/artworks/97708819) |
+| haruhisky | 喜欢凉宫春日 | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很想喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [Twitter](https://twitter.com/haruhisky1) |
 | ichinomiya yuu | 一宫夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [Twitter](https://twitter.com/Inago1919) [Pixiv](https://www.pixiv.net/users/5629962) |
 | maki daikichi | 牧だいきち |  |  |
