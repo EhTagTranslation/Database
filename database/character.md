@@ -4397,6 +4397,7 @@ example:
 | little red riding hoods grandmother | 小红帽的外婆 |  | [Fandom](https://thelandofstories.fandom.com/wiki/Red_Riding_Hood%27s_grandmother) |
 | alhaitham | 艾尔海森 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Character_Alhaitham_Card.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/艾尔海森) [Fandom](https://genshin-impact.fandom.com/wiki/Alhaitham) |
 | layla prismriver | 蕾拉·普莉兹姆利巴 | ![](https://static.wikia.nocookie.net/touhou/images/4/42/LaylaNB2.png) | [THB wiki](https://thwiki.cc/蕾拉·普莉兹姆利巴) |
+| chise waraku | 和乐千世 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
