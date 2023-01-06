@@ -12309,6 +12309,7 @@ example:
 | bibimbub | Bibimbub |  | [pixiv](https://www.pixiv.net/users/44960863) [Twitter](https://twitter.com/Bibimbub15) |
 | kuni-kun | クニくん |  | [pixiv](https://www.pixiv.net/users/9606186) [Twitter](https://twitter.com/kunikune) |
 | mushihara | 虫原 |  |  |
+| momomomo hakushaku | モモモーモー伯爵 |  | [pixiv](https://www.pixiv.net/users/15474458) [Twitter](https://twitter.com/defanilimmmm) |
 
 <!--TEMPLATE:
 |  |  |  |  |
