@@ -4409,6 +4409,7 @@ example:
 | kaname tohyama | 远山金女 | 所属作品: `p:hidan no aria` | [萌娘百科](https://zh.moegirl.org.cn/zh/远山金女) |
 | kinji tohyama | 远山金次 |  | [萌娘百科](https://zh.moegirl.org.cn/远山金次) |
 | riko mine | 峰理子 |  | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
+| shirayuki hotogi | 星伽白雪 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/星伽白雪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
