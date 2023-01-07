@@ -12314,6 +12314,7 @@ example:
 | gatoh ganaha | 我藤がなは | 我藤がなは/Gatoh Ganaha です。(旧：がりぼー/Galibo) | [pixiv](https://www.pixiv.net/users/13023) [Twitter](https://twitter.com/gateaugato1) |
 | shirasu | しらす |  | [pixiv](https://www.pixiv.net/users/72625518) [Twitter](https://twitter.com/shirasuke_0822) |
 | fuyubaru shishamo | しらす（冬原ししゃも） |  | [pixiv](https://www.pixiv.net/users/59036611) [Twitter](https://twitter.com/shirasulatte) |
+| kandata nijou | 神多二丞 |  | [pixiv](https://www.pixiv.net/users/3318333) [Twitter](https://twitter.com/kum02j0) |
 
 <!--TEMPLATE:
 |  |  |  |  |
