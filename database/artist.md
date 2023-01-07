@@ -12315,6 +12315,7 @@ example:
 | shirasu | しらす |  | [pixiv](https://www.pixiv.net/users/72625518) [Twitter](https://twitter.com/shirasuke_0822) |
 | fuyubaru shishamo | しらす（冬原ししゃも） |  | [pixiv](https://www.pixiv.net/users/59036611) [Twitter](https://twitter.com/shirasulatte) |
 | kandata nijou | 神多二丞 |  | [pixiv](https://www.pixiv.net/users/3318333) [Twitter](https://twitter.com/kum02j0) |
+| saipaco. | SAIPACo. |  | [pixiv](https://www.pixiv.net/users/8217051) [Twitter](https://twitter.com/saipaco) |
 
 <!--TEMPLATE:
 |  |  |  |  |
