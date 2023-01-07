@@ -4410,6 +4410,7 @@ example:
 | kinji tohyama | 远山金次 |  | [萌娘百科](https://zh.moegirl.org.cn/远山金次) |
 | riko mine | 峰理子 |  | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
 | shirayuki hotogi | 星伽白雪 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/星伽白雪) |
+| the woodsman | 小红帽中的猎人 | 原文的意思是樵夫，也有版本译为猎人 | [Fandom](https://hero.fandom.com/wiki/The_Woodsman_%28Little_Red_Riding_Hood%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
