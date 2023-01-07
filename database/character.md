@@ -4405,6 +4405,7 @@ example:
 | maria marta cunhel guloso | 玛璐塔小姐 | 所属作品: `p:ku-neru maruta` |  |
 | jenny wakeman | XJ9 | 所属作品: `my life as a teenage robot`<br>![](https://static.wikia.nocookie.net/teenagerobot/images/b/b0/Jenny_wiki_icon.png) | [百度百科](https://baike.baidu.com/item/xj9/7397513) [Fandom](https://teenagerobot.fandom.com/wiki/Jenny_Wakeman_%28XJ-9%29) |
 | aria holmes kanzaki | 神崎·H·亚里亚 | 神崎·H·亚里亚是赤松中学创作的轻小说《`p:hidan no aria`》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/神崎·H·亚里亚) |
+| akari mamiya | 间宫明里 | 间宫明里是赤松中学创作的轻小说《绯弹的亚里亚》以及橘书画子所创作的漫画《绯弹的亚里亚AA》及其衍生作品的登场角色，女主角。初登场于《绯弹的亚里亚AA》第一话，因十分仰慕神崎·H·亚里亚而加入强袭科。间宫家大小姐，掌握着间宫家的祖传秘术。两年前，居住的村子被夹竹桃烧毁而来到东京。希望成为神崎·H·亚里亚的战姐妹。 | [萌娘百科](https://zh.moegirl.org.cn/间宫明里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
