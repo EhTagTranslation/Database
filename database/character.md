@@ -4404,6 +4404,7 @@ example:
 | mayu shikibe | 式部茉优 | 所属作品: `p:riddle joker`<br>![](https://p.sda1.dev/9/35842be7ce500e6508f033b0136c8e30/image.png) | [萌娘百科](https://zh.moegirl.org.cn/式部茉优) |
 | maria marta cunhel guloso | 玛璐塔小姐 | 所属作品: `p:ku-neru maruta` |  |
 | jenny wakeman | XJ9 | 所属作品: `my life as a teenage robot`<br>![](https://static.wikia.nocookie.net/teenagerobot/images/b/b0/Jenny_wiki_icon.png) | [百度百科](https://baike.baidu.com/item/xj9/7397513) [Fandom](https://teenagerobot.fandom.com/wiki/Jenny_Wakeman_%28XJ-9%29) |
+| aria holmes kanzaki | 神崎·H·亚里亚 | 神崎·H·亚里亚是赤松中学创作的轻小说《`p:hidan no aria`》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/神崎·H·亚里亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
