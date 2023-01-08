@@ -4411,6 +4411,7 @@ example:
 | riko mine | 峰理子 |  | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
 | shirayuki hotogi | 星伽白雪 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/星伽白雪) |
 | the woodsman | 小红帽中的猎人 | 原文的意思是樵夫，也有版本译为猎人 | [Fandom](https://hero.fandom.com/wiki/The_Woodsman_%28Little_Red_Riding_Hood%29) |
+| henrietta de tristain | 安丽埃塔 | 安丽埃塔・德・托里斯汀，托里斯汀的公主。17岁。使用水属性魔法。她被她的子民们所爱戴，同时她也是露易丝的老朋友。后来，在阿爾比昂的威尔士王子遭到暗杀后，她成为了托里斯汀的女王，并且下定决心要从阿爾比昂的侵略中保卫托里斯汀。 | [萌娘百科](https://zh.moegirl.org.cn/zh/安丽埃塔·德·托里斯汀) [维基百科](https://zh.wikipedia.org/wiki/零之使魔角色列表) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
