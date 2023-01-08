@@ -12320,6 +12320,7 @@ example:
 | ringo club | りんごくらぶ |  | [pixiv](https://www.pixiv.net/users/1560534) [Twitter](https://twitter.com/000apple) [Twitter](https://twitter.com/apple000juice) |
 | usatsuka eiji | 兔冢英志 | 兔冢英志（兎塚エイジ）是日本插画家、原画家。毕业于大阪产业大学。毕业后进入Visual Art's，以笔名“サワガニ”来进行活动，并以活跃的以插画家“兔冢”的身份进行插画工作。主要作品为《`p:zero no tsukaima`》的插画。 | [维基百科](https://zh.wikipedia.org/zh/兔塚英志) [萌娘百科](https://zh.moegirl.org.cn/zh/兔冢英志) |
 | ishii takamori | 石井高森 |  | [pixiv](https://www.pixiv.net/users/503837) [Twitter](https://twitter.com/ishitakaHG) |
+| coro fae | Coro Fae |  | [pixiv](https://www.pixiv.net/users/60959119) |
 
 <!--TEMPLATE:
 |  |  |  |  |
