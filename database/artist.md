@@ -6489,7 +6489,7 @@ example:
 | kamekichi | かめ吉 |  |  |
 | kameponde | カメポンデ |  |  |
 | kami | kami |  |  |
-| kamimiya | かみみや |  |  |
+| kamimiya | 神宮 | かみみや | [pixiv](https://www.pixiv.net/users/927842) （已注销） |
 | kamidou haruki | 神堂ハルキ |  |  |
 | kamiishi nyny | 上石ニーニー |  |  |
 | kamiishi sono | 神石その |  |  |
