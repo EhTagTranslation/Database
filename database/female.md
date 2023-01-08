@@ -582,7 +582,7 @@ example:
 |  | === 强迫 > 暴力 === |  |  |
 | abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |  |
 | cannibalism | 食人 | 人型生物烹饪或食用其他人形生物。不应与`vore`混淆。 |  |
-| catfight | 猫斗 | 两名女性之间不协调的战斗。不应与`wrestling`混淆。 |  |
+| catfight | 女子互斗 | 两名女性之间不协调的战斗。不应与`wrestling`混淆。 |  |
 | cbt | 虐屌 | CBT, Cock and Ball Torture. 以任何方式折磨阴茎区域。不需要`torture`标签 |  |
 | cuntbusting | 阴道破坏 | 物理攻击阴道的行为。 |  |
 | dismantling | 拆解 | 拆除部件，损毁或破坏机械生物。需要`robot`标签。 |  |
