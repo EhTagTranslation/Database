@@ -12316,6 +12316,7 @@ example:
 | fuyubaru shishamo | しらす（冬原ししゃも） |  | [pixiv](https://www.pixiv.net/users/59036611) [Twitter](https://twitter.com/shirasulatte) |
 | kandata nijou | 神多二丞 |  | [pixiv](https://www.pixiv.net/users/3318333) [Twitter](https://twitter.com/kum02j0) |
 | saipaco. | SAIPACo. |  | [pixiv](https://www.pixiv.net/users/8217051) [Twitter](https://twitter.com/saipaco) |
+| jj.jj | JJ.JJ |  | [pixiv](https://www.pixiv.net/users/11850187) [Twitter](https://twitter.com/pixiv_JJ_JJ) |
 
 <!--TEMPLATE:
 |  |  |  |  |
