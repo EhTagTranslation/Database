@@ -2080,6 +2080,7 @@ example:
 | ku-neru maruta | 吃吃睡睡的玛璐塔 | 《玛塔小姐的饱食日记》（《吃吃睡睡的玛璐塔》）漫画 ，玛璐塔小姐是来自葡萄牙的一名贫穷吃货。一人住在筑龄七十年的公寓里，家中恩格尔系数高得离谱。红茶叉烧肉、鸡油炒饭、面包边单卷等等神奇的食物层出不穷。没钱也要吃得开心！深夜恐怖美食漫画，敬请期待！ | [维基百科（日语）](https://ja.wikipedia.org/wiki/くーねるまるた) [百度百科](https://baike.baidu.com/item/吃吃睡睡的玛璐塔) [Bangumi](https://bgm.tv/subject/77891) |
 | school shock | 雏蜂 | 《雏蜂》是中国漫画家孙恒（化名白猫sunny）创作的科幻战争向漫画，2009年9月15日开始连载。改编动画在2015年的7月23日开始在中国网络放送，并在2015年8月15日登陆日本，成为第一部由中国输入日本的动漫原创作品， | [维基百科](https://zh.wikipedia.org/zh/雛蜂) [萌娘百科](https://zh.moegirl.org.cn/雏蜂) |
 | shinigami bocchan to kuro maid | 死神少爷与黑女仆 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/死神少爷与黑女仆) |
+| 2.43 seiin high school boys volleyball team | 2.43 清阴高中男子排球社 | 《2.43 清阴高中男子排球社》（日语：2.43 清陰高校男子バレー部）是日本作家壁井有可子所著的网络小说系列，连载于集英社旗下网站“文艺Station”（原于RENZABURO连载），亦经集英社出版实体书籍。书名中的“2.43”指男子排球的网高2.43米。由david production制作的改编电视动画由2021年1月起于富士电视台“noitaminA”深夜动画时段播映。 | [维基百科](https://zh.wikipedia.org/wiki/2.43_清陰高中男子排球社) [萌娘百科](https://zh.moegirl.org.cn/zh/2.43_清阴高中男子排球社) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
