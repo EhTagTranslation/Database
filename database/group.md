@@ -12535,6 +12535,7 @@ example:
 | alpaca bokujou | 裏アルパカ牧場 |  |  |
 | pink sakuhin okiba | ピンク作品置き場 |  |  |
 | oden usagi | おでんうさぎ |  |  |
+| omochiya-san | おもちやさん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
