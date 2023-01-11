@@ -12327,7 +12327,7 @@ example:
 | himiya zyo-zu | 比宮じょーず |  | [pixiv](https://www.pixiv.net/users/9609632) [Twitter](https://twitter.com/ramune_himiya) |
 | hinageshi | 雏罂粟 |  |  |
 | unknown showhey | 馬島祥平 |  |  |
-| saito naoki | さいとうなおき |  | [Twitter](https://twitter.com/_naokisaito) |
+| saito naoki | 斋藤直葵 |  | [Twitter](https://twitter.com/_naokisaito) [pixiv](https://www.pixiv.net/users/356481) [Bilibili](https://space.bilibili.com/1688563568) |
 
 <!--TEMPLATE:
 |  |  |  |  |
