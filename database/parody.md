@@ -2084,6 +2084,7 @@ example:
 | elf-san wa yaserarenai. | 精灵小姐瘦不下来 | ![](https://p.sda1.dev/9/91248847e2a0d130e9c916d4a61946f6/image.png) | [mangapedia](https://mangapedia.com/エルフさんは痩せられない。-nn04fmsbz) [pixiv百科](https://dic.pixiv.net/a/エルフさんは痩せられない。) [维基百科（英语）](https://en.wikipedia.org/wiki/Plus-Sized_Elf) |
 | pretty face | 漂亮脸蛋 |  | [维基百科](https://zh.wikipedia.org/wiki/漂亮臉蛋) |
 | yi lian | 忆恋 |  | [vndb](https://vndb.org/v25807) |
+| meili xinshijie i | 美丽新世界i |  | [vndb](https://vndb.org/v24428) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
