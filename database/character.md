@@ -4416,6 +4416,7 @@ example:
 | fianna ray ordesia | 菲雅娜·雷·奥地西亚 | 所属作品: `p:bladedance of elementalers` | [萌娘百科](https://zh.moegirl.org.cn/菲雅娜·雷·奥地西亚) |
 | lady labrynth of the silver castle | 白银城的迷宫主·拉比丽斯 | ![](https://p.sda1.dev/9/fa32de723f4ef717af543db7869a9f3d/image.png) | [Fandom](https://yugioh.fandom.com/zh/wiki/拉比林斯?variant=zh#白银之城的拉比林斯) [Yugi pedia](https://yugipedia.com/wiki/Lovely_Labrynth_of_the_Silver_Castle) |
 | suletta mercury | 斯莱塔·墨丘利 |  |  |
+| miorine rembran | 米奥莉奈·伦布兰 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
