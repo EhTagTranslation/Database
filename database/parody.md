@@ -2083,6 +2083,7 @@ example:
 | 2.43 seiin high school boys volleyball team | 2.43 清阴高中男子排球社 | 《2.43 清阴高中男子排球社》（日语：2.43 清陰高校男子バレー部）是日本作家壁井有可子所著的网络小说系列，连载于集英社旗下网站“文艺Station”（原于RENZABURO连载），亦经集英社出版实体书籍。书名中的“2.43”指男子排球的网高2.43米。由david production制作的改编电视动画由2021年1月起于富士电视台“noitaminA”深夜动画时段播映。 | [维基百科](https://zh.wikipedia.org/wiki/2.43_清陰高中男子排球社) [萌娘百科](https://zh.moegirl.org.cn/zh/2.43_清阴高中男子排球社) |
 | elf-san wa yaserarenai. | 精灵小姐瘦不下来 | ![](https://p.sda1.dev/9/91248847e2a0d130e9c916d4a61946f6/image.png) | [mangapedia](https://mangapedia.com/エルフさんは痩せられない。-nn04fmsbz) [pixiv百科](https://dic.pixiv.net/a/エルフさんは痩せられない。) [维基百科（英语）](https://en.wikipedia.org/wiki/Plus-Sized_Elf) |
 | pretty face | 漂亮脸蛋 |  | [维基百科](https://zh.wikipedia.org/wiki/漂亮臉蛋) |
+| yi lian | 忆恋 |  | [https://vndb.org/v25807](https://vndb.org/v25807) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
