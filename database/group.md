@@ -12534,6 +12534,7 @@ example:
 | shinya koujou | 深夜工場 |  |  |
 | alpaca bokujou | 裏アルパカ牧場 |  |  |
 | pink sakuhin okiba | ピンク作品置き場 |  |  |
+| oden usagi | おでんうさぎ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
