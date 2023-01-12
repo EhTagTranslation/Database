@@ -12330,6 +12330,7 @@ example:
 | saito naoki | 斋藤直葵 |  | [Twitter](https://twitter.com/_naokisaito) [pixiv](https://www.pixiv.net/users/356481) [Bilibili](https://space.bilibili.com/1688563568) |
 | yoshiku | 四々九 |  | [Twitter](https://twitter.com/yoshiku449) [pixiv](https://www.pixiv.net/users/533800) |
 | kakage | かかげ |  | [Twitter](https://twitter.com/kakage0904) [pixiv](https://www.pixiv.net/users/206310) |
+| nibiiro shizuka | 鈍色玄 | ![](https://pbs.twimg.com/profile_images/1545683888093073408/T32dyzCC_400x400.jpg)<br>主要绘制各种兽耳美少女角色 | [pixiv](https://www.pixiv.net/users/1250474)<br>[Twitter](https://twitter.com/nibiiro_SZK000) |
 
 <!--TEMPLATE:
 |  |  |  |  |
