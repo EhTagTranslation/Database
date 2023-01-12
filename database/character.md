@@ -4417,6 +4417,7 @@ example:
 | lady labrynth of the silver castle | 白银城的迷宫主·拉比丽斯 | ![](https://p.sda1.dev/9/fa32de723f4ef717af543db7869a9f3d/image.png) | [Fandom](https://yugioh.fandom.com/zh/wiki/拉比林斯?variant=zh#白银之城的拉比林斯) [Yugi pedia](https://yugipedia.com/wiki/Lovely_Labrynth_of_the_Silver_Castle) |
 | suletta mercury | 斯莱塔·墨丘利 |  |  |
 | miorine rembran | 米奥莉奈·伦布兰 |  |  |
+| nana daiba | 大场奈奈 | 所属作品: `p:shoujo kageki revue starlight`<br>![](https://static.wikia.nocookie.net/revuestarlight/images/0/0e/Nana_Daiba_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/大场奈奈) [Fandom](https://revuestarlight.fandom.com/wiki/Nana_Daiba) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
