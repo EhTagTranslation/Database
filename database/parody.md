@@ -2085,6 +2085,7 @@ example:
 | pretty face | 漂亮脸蛋 |  | [维基百科](https://zh.wikipedia.org/wiki/漂亮臉蛋) |
 | yi lian | 忆恋 |  | [vndb](https://vndb.org/v25807) |
 | meili xinshijie i | 美丽新世界i |  | [vndb](https://vndb.org/v24428) |
+| kage no jitsuryokusha ni naritakute | 我想成为影之强者！ | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/2/29/GardenIntro-LN-V1-EN.jpg) | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/The_Eminence_in_Shadow_Wiki) [维基百科](https://zh.wikipedia.org/zh/我想成為影之強者！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
