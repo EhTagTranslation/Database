@@ -4418,6 +4418,7 @@ example:
 | suletta mercury | 斯莱塔·墨丘利 |  |  |
 | miorine rembran | 米奥莉奈·伦布兰 |  |  |
 | nana daiba | 大场奈奈 | 所属作品: `p:shoujo kageki revue starlight`<br>![](https://static.wikia.nocookie.net/revuestarlight/images/0/0e/Nana_Daiba_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/大场奈奈) [Fandom](https://revuestarlight.fandom.com/wiki/Nana_Daiba) |
+| minegumo | 峰云 | 所属作品: `p:kantai collection`<br>![图](https://ehgt.org/65/f8/65f83b382230e9b5deb0dcf2c5ffaf925bff70a5-102026-595-1052-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/舰队Collection:峰云) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
