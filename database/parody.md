@@ -2086,6 +2086,7 @@ example:
 | yi lian | 忆恋 |  | [vndb](https://vndb.org/v25807) |
 | meili xinshijie i | 美丽新世界i |  | [vndb](https://vndb.org/v24428) |
 | kage no jitsuryokusha ni naritakute | 我想成为影之强者！ | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/2/29/GardenIntro-LN-V1-EN.jpg) | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/The_Eminence_in_Shadow_Wiki) [维基百科](https://zh.wikipedia.org/zh/我想成為影之強者！) |
+| okane ga nai | 欠金情人 | 《欠金情人》（日语：お金がないっ）系列是篠崎一夜的BL小说，香坂透插画，亦为漫画化的作者。 | [Bangumi](https://bgm.tv/subject/103733) [维基百科](https://zh.wikipedia.org/wiki/欠金情人) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
