@@ -2094,6 +2094,7 @@ example:
 | hajimete no orusuban | 第一次看家 | 《第一次看家》（日语：はじめてのおるすばん）是ZERO在2001年12月28日发售的恋爱冒险类型成人游戏。之后改编成其他作品。2020年至2021年期间，mary jane先后推出了本作的两集改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/第一次看家) |
 | nanami to konomi no oshiete a-b-c | ななみとこのみのおしえてA・B・C | 属于`p:hajimete no orusuban`系列 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ななみとこのみのおしえてA・B・C) [Bangumi](https://bgm.tv/subject/43962) |
 | hajimete no oishasan | はじめてのおいしゃさん | `p:hajimete no orusuban`续集 | [https://vndb.org/v1619](https://vndb.org/v1619) [维基百科（日语）](https://ja.wikipedia.org/wiki/はじめてのおいしゃさん) |
+| hajimete no otetsudai | はじめてのおてつだい | 属于`p:hajimete no orusuban`系列 | [https://vndb.org/v1618](https://vndb.org/v1618) [Bangumi](https://bgm.tv/subject/88300) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
