@@ -12536,6 +12536,7 @@ example:
 | pink sakuhin okiba | ピンク作品置き場 |  |  |
 | oden usagi | おでんうさぎ |  |  |
 | omochiya-san | おもちやさん |  |  |
+| shitsuren restaurant for men | 失恋レストラン FOR MEN |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
