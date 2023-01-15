@@ -12332,6 +12332,7 @@ example:
 | kakage | かかげ |  | [Twitter](https://twitter.com/kakage0904) [pixiv](https://www.pixiv.net/users/206310) |
 | nibiiro shizuka | 鈍色玄 | ![](https://pbs.twimg.com/profile_images/1545683888093073408/T32dyzCC_400x400.jpg)<br>主要绘制各种兽耳美少女角色 | [pixiv](https://www.pixiv.net/users/1250474)<br>[Twitter](https://twitter.com/nibiiro_SZK000) |
 | kousaka tohru | 香坂透 | 漫画(香坂 Tohru Kousaka)と小説(篠崎 Hitoyo Shinozaki)を書いています。<br>幻冬舎コミックス様にて「お金がないっ(No Money)」「男しかいない国のアリス」連載中。 | [Twitter](https://twitter.com/sadistic_mode) [维基百科（日语）](https://ja.wikipedia.org/wiki/香坂透) [HP](http://sadistic-mode.or.tv/) |
+| aikolik | AIKOlik |  | [pixiv](https://www.pixiv.net/users/14760875) [Twitter](https://twitter.com/Aikolik) |
 
 <!--TEMPLATE:
 |  |  |  |  |
