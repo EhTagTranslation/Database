@@ -2091,6 +2091,7 @@ example:
 | dodge danpei | 斗球儿弹平 | 《斗球儿弹平》（日语：炎の闘球児 ドッジ弾平）是日本漫画家越田哲弘以躲避球为题材在小学馆《快乐快乐月刊》自1989年连载至1995年的少年漫画。在台湾于无版权时期最早曾由东立出版社以‘导弹神珠’之名发行单行本，而后由青文出版社取得正式授权。后来改编为电视动画在1991年至1992年播放。 | [维基百科](https://zh.wikipedia.org/wiki/鬥球兒彈平) [百度百科](https://baike.baidu.com/item/斗球儿弹平) |
 | sinbad legend of the seven seas | 辛巴达七海传奇 | ![](https://p.sda1.dev/9/16eac921f060787985ad1fe54e7bc2c3/image.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Sinbad:_Legend_of_the_Seven_Seas) |
 | tenshin ranman | 天神乱漫 | 《天神乱漫》（日文：天神乱漫 LUCKY or UNLUCKY!?），是YUZU SOFT于2009年5月29日所发售的第四部恋爱文字冒险游戏。2021年12月24日由YUZUSOFT SOUR发行《天神乱漫 Happy Go Lucky!!》的PC逆移植HD重制版，并使用了与新作《PARQUET》相类似的新UI及系统。 | [萌娘百科](https://zh.moegirl.org.cn/zh/天神乱漫) [维基百科](https://zh.wikipedia.org/wiki/天神亂漫_-LUCKY_or_UNLUCKY!%3F-) |
+| hajimete no orusuban | 第一次看家 | 《第一次看家》（日语：はじめてのおるすばん）是ZERO在2001年12月28日发售的恋爱冒险类型成人游戏。之后改编成其他作品。2020年至2021年期间，mary jane先后推出了本作的两集改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/第一次看家) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
