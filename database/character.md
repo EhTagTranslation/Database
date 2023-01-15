@@ -4421,6 +4421,7 @@ example:
 | minegumo | 峰云 | 所属作品: `p:kantai collection`<br>![图](https://ehgt.org/65/f8/65f83b382230e9b5deb0dcf2c5ffaf925bff70a5-102026-595-1052-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/舰队Collection:峰云) |
 | princess star butterfly | 星蝶公主 | 是作品《公主闯天关》（英语：Star vs. the Forces of Evil）的主要主角。她是另一时空妙尼王国 (Mewni) 的一位十几岁的公主，被她的父母送到地球，以便在字汇智者(Glossaryck) 的监督下学习如何使用皇家魔杖。 | [萌娘百科](https://zh.moegirl.org.cn/星蝶) [维基百科](https://zh.wikipedia.org/wiki/公主闖天關) |
 | kazusa kyouyama | 杏山和纱 | 所属作品：`p:blue archive` |  |
+| mahiru shiina | 椎名真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/椎名真昼) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
