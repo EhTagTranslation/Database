@@ -12537,6 +12537,7 @@ example:
 | oden usagi | おでんうさぎ |  |  |
 | omochiya-san | おもちやさん |  |  |
 | shitsuren restaurant for men | 失恋レストラン FOR MEN |  |  |
+| makuragi zabuton | 枕木ざぶとん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
