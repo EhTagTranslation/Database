@@ -12334,6 +12334,7 @@ example:
 | kousaka tohru | 香坂透 | 漫画(香坂 Tohru Kousaka)と小説(篠崎 Hitoyo Shinozaki)を書いています。<br>幻冬舎コミックス様にて「お金がないっ(No Money)」「男しかいない国のアリス」連載中。 | [Twitter](https://twitter.com/sadistic_mode) [维基百科（日语）](https://ja.wikipedia.org/wiki/香坂透) [HP](http://sadistic-mode.or.tv/) |
 | aikolik | AIKOlik |  | [pixiv](https://www.pixiv.net/users/14760875) [Twitter](https://twitter.com/Aikolik) |
 | 2bls | 2bls |  | [pixiv](https://www.pixiv.net/users/63408688) [Twitter](https://twitter.com/2bls4) |
+| utagawa yosiero | 歌川芳江呂 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
