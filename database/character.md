@@ -4423,6 +4423,7 @@ example:
 | kazusa kyouyama | 杏山和纱 | 所属作品：`p:blue archive` |  |
 | mahiru shiina | 椎名真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/椎名真昼) |
 | margot knight | 玛戈特·奈特 |  |  |
+| malga naruze | 玛伽·成濑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
