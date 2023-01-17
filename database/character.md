@@ -4428,6 +4428,7 @@ example:
 | momosuzu nene | 桃铃音音 | 桃铃音音（日语：桃鈴 ねね／ももすず ねね Momosuzu Nene）是日本的虚拟YouTuber，隶属于Hololive production ，是Hololive的五期生成员之一。于2020年8月13日开始活动。由于粉丝制作的网络迷因，被昵称为“海豹”。<br><br>希望成为偶像，从异世界来的少女。最喜欢唱歌、跳舞和画画。为了成为被人爱戴，每天都努力特训。——官方介绍<br>![](https://upload.wikimedia.org/wikipedia/zh/9/99/Momosuzu_Nene.png) | [萌娘百科](https://zh.moegirl.org.cn/桃铃音音) [维基百科](https://zh.wikipedia.org/zh/桃鈴音音) [HololiveFanWiki](https://hololive.wiki/wiki/Momosuzu_Nene) |
 | omaru polka | 尾丸波尔卡 | 尾丸波尔卡（日语：尾丸ポルカ／おまる ぽるかOmaru Polka）是一名于2020年8月16日在YouTube开始活动的VTuber，业界团体Hololive的成员。<br><br>![](https://static.miraheze.org/hololivewiki/c/c3/Omaru_Polka_-_Portrait_01.png) | [萌娘百科](https://zh.moegirl.org.cn/尾丸波尔卡) [Hololive Fan Wiki<br>](https://hololive.wiki/wiki/Omaru_Polka) [哔哩哔哩](https://space.bilibili.com/624252712) |
 | karnatia seri anabald | 大岛叶多 | 所属作品: `p:kumo desu ga nani ka`<br>![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/5/54/C3.png) | [Fandom](https://kumodesu.fandom.com/wiki/Karnatia) |
+| wang yi | 王异 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
