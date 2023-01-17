@@ -11362,7 +11362,7 @@ example:
 | uzukinoko | うづきのこ |  |  |
 | uzunoki tamaki | 渦の木環 |  |  |
 | uzura no tamago | うずらのたまご |  |  |
-| v-mag | v-mag |  |  |
+| v-mag | v-mag |  | 官网: [https://www.magcan.net/](https://www.magcan.net/)<br>[Twitter](https://twitter.com/v_mag_)<br>[https://t.co/pNOlAansf2](https://t.co/pNOlAansf2) |
 | vae | ヴァエ |  |  |
 | val | val |  |  |
 | valero | ヴァレロ |  |  |
