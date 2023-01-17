@@ -11362,7 +11362,7 @@ example:
 | uzukinoko | うづきのこ |  |  |
 | uzunoki tamaki | 渦の木環 |  |  |
 | uzura no tamago | うずらのたまご |  |  |
-| v-mag | v-mag |  | 官网: [https://www.magcan.net/](https://www.magcan.net/)<br>Twitter: [Twitter](https://twitter.com/v_mag_)<br>Fanbox: [FANBOX](https://v-mag.fanbox.cc/) |
+| v-mag | v-mag | v-mag 是MAG館的画师，日本人。<br>东京都东村山市出生，居住在埼玉县。<br>是一个喜欢超级索尼子的插画师。<br>主要生产和销售 R-18 男性向色情 CG 系列。<br>作品中多出现`prolapse` 、`cervix prolapse`、`gaping`、`big clit`以及 `exhibitionism`。 | 官网: [https://www.magcan.net/](https://www.magcan.net/)<br>Twitter: [Twitter](https://twitter.com/v_mag_)<br>Fanbox: [FANBOX](https://v-mag.fanbox.cc/) |
 | vae | ヴァエ |  |  |
 | val | val |  |  |
 | valero | ヴァレロ |  |  |
