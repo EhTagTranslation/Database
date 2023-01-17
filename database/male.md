@@ -189,6 +189,7 @@ example:
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru-oh | 黄毛 | `gyaru`的男性版本。男性多是不良少年和不良青年等角色，因常以黄色染发和小麦肤色形象出场，故被网友戏称黄毛，常与`dark skin`、`netorare`、`cheating`、`rape`等标签关联，剧情也多是寝取女性、勾引女性出轨、强奸女性、调教、玩弄女性等恶劣行为。在`males only`标签下，常与`tomgirl`标签同时出现，表示为辣妹伪娘角色，既伪娘版本的男性辣妹。 |  |
 | large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与`crotch tattoo`混淆。 |  |
+| lipstick mark | 口红印 | 除面部或颈部外，参与者身上任何地方留下的口红印记（例如来自亲吻、吸吮等）。不适用于性玩具或其他物体上留下的口红痕迹。当口红直接涂在身上时（例如`body writing`）不应使用此标签。 |  |
 | scar | 瘢痕 | 皮肤上的痕迹或灼伤。 必须非常突出。 |  |
 | skinsuit | 人皮衣 | 穿着另一者的皮，其实际上成为穿戴者的皮。一般为用黑魔法将少女杀死变成皮，或高科技生产的能让男性变成女性的皮。不应与`bodysuit`或`animegao`相混淆。<br>![图](https://ehgt.org/97/03/9703837dbabcace22bc8b383a7a017c1397d42af-164824-715-1027-jpg_l.jpg)![图](https://ehgt.org/52/8b/528b1e3af289fefbea220f2c9dcbbf11047145ab-5808937-2124-3031-jpg_l.jpg)![图](https://ehgt.org/ef/da/efdacde3c7ebd28aeaf5f31de61e4c4491cad4af-776928-962-1365-jpg_l.jpg) |  |
 | tanlines | 晒痕 | 浅浅的可见的线，通常来自衣服，由日光浴导致。不得与`dark skin`混淆。<br>![图](# "https://ehgt.org/e8/e8/e8e84e887aae3d27b78b7e1d9531c7bda453b5dd-1178193-1200-1694-jpg_l.jpg") |  |
@@ -451,6 +452,7 @@ example:
 | ninja | 忍者装 | 男性忍者服装。通常是暗色服装和部分轻甲。不应与`kunoichi`混淆。 |  |
 | nun | 修女服 | 按照罗马天主教的秩序，穿着典型的黑色布袍。也可以穿着头巾、念珠和面纱。需要`crossdressing`标签。 |  |
 | nurse | 护士装 | 穿着普通的白色/粉红色的衣服，通常有一个帽子。 |  |
+| painted nails | 美甲 | 手指甲或脚趾甲上的彩色油漆。也可用于彩色假指甲。应该只标记在人类参与者身上。 |  |
 | pantyhose | ![裤袜图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/pantyhose.webp)连裤袜 | 一种通常透明的来保持一个女人的腿和足温暖的内衣。与`stockings`不同，它是一块单一的服装并且能覆盖生殖器区域。需要在性交过程中相当可见。不应与`stockings`混淆。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/8a/2b/8a2b29826d1748cc53f280c5b3be281561bcd41e-686569-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/07/3f/073ff401adc704da01fe49ba7eb2043d862f9083-770927-1059-1500-jpg_l.jpg")![男孩子](# "https://ehgt.org/81/9c/819ca60be00afabe872a9d6b0d917e478d7daf1b-2178593-1508-2130-jpg_l.jpg") |  |
 | pasties | 乳贴 | 覆盖乳头和乳晕的胶布。 |  |
 | piercing | 穿孔 | 任何形式的穿孔，除了那些在耳朵上的。通常在阴蒂或乳头穿环。<br>![恶](## "https://ehgt.org/d4/49/d4491af7f9f96363fc2617e03f50215dc7c64c02-110141-872-1200-jpg_l.jpg")![恶](## "https://ehgt.org/3b/7c/3b7cc33816f57bad560f1d795ca9b1d418ba4b12-157829-652-800-jpg_250.jpg") |  |
