@@ -4424,6 +4424,7 @@ example:
 | mahiru shiina | 椎名真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/椎名真昼) |
 | margot knight | 玛戈特·奈特 |  |  |
 | malga naruze | 玛伽·成濑 |  |  |
+| evangeline a.k. mcdowell | 依文洁琳·安塔娜西亚·凯蒂·麦道威尔 | 伊万杰琳·A·K·麦克道维,，称依文洁琳（エヴァンジェリン）、依文（エヴァ[34]），是赤松健的漫画作品《魔法老师》及其动画版等的登场人物。麻帆良学园中等部2-A以及3-A的学生，座号是26号。<br>![](https://static.wikia.nocookie.net/mahousenseinegima/images/1/1d/Eva.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/依文洁琳·安塔娜西亚·凯蒂·麦道威尔) [维基百科](https://zh.wikipedia.org/wiki/魔法老師角色列表#依文潔琳·安塔娜西亞·凱蒂·麥道威爾) [Fandom](https://negima.fandom.com/wiki/Evangeline_A.K._McDowell) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
