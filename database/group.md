@@ -12538,6 +12538,7 @@ example:
 | omochiya-san | おもちやさん |  |  |
 | shitsuren restaurant for men | 失恋レストラン FOR MEN |  |  |
 | makuragi zabuton | 枕木ざぶとん |  |  |
+| koko de chikubi o hitotsumami | ここで乳首をひとつまみ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
