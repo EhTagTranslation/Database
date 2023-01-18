@@ -4430,6 +4430,7 @@ example:
 | karnatia seri anabald | 大岛叶多 | 所属作品: `p:kumo desu ga nani ka`<br>![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/5/54/C3.png) | [Fandom](https://kumodesu.fandom.com/wiki/Karnatia) |
 | wang yi | 王异 |  |  |
 | hachiroku | 八六 |  | [萌娘百科](https://zh.moegirl.org.cn/八六) |
+| yggdrasil | 尤格多拉希尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
