@@ -4433,6 +4433,7 @@ example:
 | yggdrasil | 尤格多拉希尔 |  |  |
 | otome arisugawa | 有栖川乙女 | 所属作品: `p:aikatsu`<br>![](https://static.wikia.nocookie.net/all-aikatsu/images/c/ce/Otome_torte_final.png) | [萌娘百科](https://zh.moegirl.org.cn/有栖川乙女) [Fandom](https://all-aikatsu.fandom.com/wiki/Otome_Arisugawa) |
 | luo tianyi | 洛天依 |  |  |
+| sensei | 老师 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
