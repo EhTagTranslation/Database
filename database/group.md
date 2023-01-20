@@ -12541,6 +12541,7 @@ example:
 | koko de chikubi o hitotsumami | ここで乳首をひとつまみ |  |  |
 | noumusai | 浓雾菜 |  |  |
 | nyoroman shouji | にょろまん商事 |  |  |
+| praha keisanki | プラハ計算機 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
