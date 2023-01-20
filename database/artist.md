@@ -12339,6 +12339,7 @@ example:
 | haiironpada | 灰色ンパダ |  |  |
 | hanamaluo | ハナマルオ | 代表作: [裙子里面是野兽](https://zh.moegirl.org.cn/裙子里面是野兽) | [Twitter](https://twitter.com/hanamaluon) |
 | kuroto yu | 黒兎ゆう |  | [pixiv](https://www.pixiv.net/users/4384618) [Twitter](https://twitter.com/kurotoyu816) |
+| sugue tetto | スグエ鉄塔 | a.k.a 鉄塔 | [Twitter](https://twitter.com/sugue_304)<br>[pixiv](https://www.pixiv.net/users/12741764) |
 
 <!--TEMPLATE:
 |  |  |  |  |
