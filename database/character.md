@@ -4436,6 +4436,7 @@ example:
 | sensei | 老师 | 目前多用于[碧蓝档案](https://zh.moegirl.org.cn/蔚蓝档案)中的男主。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
 | azuma seren | 东雪莲 |  |  |
 | yaoyao | 瑶瑶 |  |  |
+| monika | 莫妮卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
