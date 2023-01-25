@@ -3117,7 +3117,7 @@ example:
 | ayatsuri-doom | ​文釣DOOM |  |  |
 | ayayabidou | あややび堂 |  |  |
 | azarashi waltz | あざらしワルツ |  |  |
-| azarashisoft | あざらしそふと |  |  |
+| azarashisoft | 海豹社 | あざらしそふと | [Bangumi](https://bgm.tv/person/28386) [HP](http://azarashi-soft.nexton-net.jp/) |
 | azasuke wind | AZASUKE WIND |  |  |
 | azcat | azcat |  |  |
 | azelye | AzeLye |  |  |
