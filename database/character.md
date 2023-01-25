@@ -4437,6 +4437,7 @@ example:
 | azuma seren | 东雪莲 |  |  |
 | yaoyao | 瑶瑶 |  |  |
 | monika | 莫妮卡 |  |  |
+| tania | 塔妮雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
