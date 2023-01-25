@@ -4440,6 +4440,7 @@ example:
 | tania | 塔妮雅 |  |  |
 | barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
 | ameth | 爱梅斯 |  |  |
+| aoi futaba | 双叶碧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
