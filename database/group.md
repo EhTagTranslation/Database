@@ -12543,6 +12543,7 @@ example:
 | nyoroman shouji | にょろまん商事 |  |  |
 | praha keisanki | プラハ計算機 |  |  |
 | mosoya | 毛想屋 |  |  |
+| mikamishi juukou | 三神氏重工 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
