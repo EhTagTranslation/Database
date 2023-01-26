@@ -4445,6 +4445,7 @@ example:
 | goldenglow | 澄闪 | 澄闪是游戏《明日方舟》及其衍生作品的登场角色。<br>![澄闪](https://e-hentai.org/r/6bf53843a0dc44bd5db792f205f9e00075a78c76-7568809-2205-4000-jpg/forumtoken/2442646-24/103609175_p0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:澄闪) [PRTS](https://prts.wiki/w/澄闪) |
 | sara valestin | 莎拉·巴雷斯坦 |  |  |
 | cure cosmo | 尤妮（宇宙天使） |  |  |
+| cure selene | 香久矢圆香（月神天使） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
