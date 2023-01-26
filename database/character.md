@@ -4446,6 +4446,7 @@ example:
 | sara valestin | 莎拉·巴雷斯坦 |  |  |
 | cure cosmo | 尤妮（宇宙天使） |  |  |
 | cure selene | 香久矢圆香（月神天使） |  |  |
+| demeter | 狄蜜特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
