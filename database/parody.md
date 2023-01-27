@@ -2096,6 +2096,7 @@ example:
 | hajimete no oishasan | はじめてのおいしゃさん | `p:hajimete no orusuban`续集 | [https://vndb.org/v1619](https://vndb.org/v1619) [维基百科（日语）](https://ja.wikipedia.org/wiki/はじめてのおいしゃさん) |
 | hajimete no otetsudai | はじめてのおてつだい | 属于`p:hajimete no orusuban`系列 | [https://vndb.org/v1618](https://vndb.org/v1618) [Bangumi](https://bgm.tv/subject/88300) |
 | otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken | 关于我在无意间被隔壁的天使变成废柴这件事 |  | [维基百科](https://zh.wikipedia.org/wiki/關於我在無意間被隔壁的天使變成廢柴這件事) [萌娘百科](https://zh.moegirl.org.cn/关于我在无意间被隔壁的天使变成废柴这件事) |
+| onii-chan wa oshimai | 别当欧尼酱了！ | 男主绪山真寻，一名沉迷工口游戏的自宅警备员，某天醒来发现自己成了实打实的美少女JC，原来是天才科学家兼妹妹绪山美波里把他作为了新药的小白鼠，下药、监视、控制一气呵成。<br>祥和的自宅日常被残酷破坏，真实男主，即使变性了也能开后宫，欢乐向王道性转故事就这样展开了...<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png) | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
