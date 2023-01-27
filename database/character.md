@@ -4447,6 +4447,7 @@ example:
 | cure cosmo | 尤妮（宇宙天使） |  |  |
 | cure selene | 香久矢圆香（月神天使） |  |  |
 | demeter | 狄蜜特 |  |  |
+| haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/zh/柚原春夏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
