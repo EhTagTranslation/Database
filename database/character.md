@@ -4449,6 +4449,7 @@ example:
 | demeter | 狄蜜特 |  |  |
 | haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/zh/柚原春夏) |
 | matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
+| suzu kanade | 花奏铃 | 《`ayakashi triangle`》的登场角色，女主角。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
