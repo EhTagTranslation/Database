@@ -4450,6 +4450,7 @@ example:
 | haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/zh/柚原春夏) |
 | matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
 | suzu kanade | 花奏铃 | 《`ayakashi triangle`》的登场角色，女主角。 |  |
+| mahiro oyama | 绪山真寻 | 是由猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，男主角（♀）。<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了！一讯社_第一卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/绪山真寻) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
