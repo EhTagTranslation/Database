@@ -3793,7 +3793,7 @@ example:
 | bayonetta | 贝优妮塔 |  |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![图](https://ehgt.org/58/e4/58e49e114d5b4593dae6acf6dae88a79d2e222df-135684-610-1309-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
 | neneko | 鈴樹ねね |  | [fanbox](https://nenekoneko.fanbox.cc/) [skeb](https://skeb.jp/@neneko113)<br>[pixiv](https://www.pixiv.net/users/1940163) [Twitter](https://twitter.com/neneko113) |
-| mona | 莫娜 | 全名 阿斯托洛吉斯·莫娜·梅姬斯图斯，神秘的少女占星术士，声称自己是“伟大的占星术士莫娜，游戏中是一个使用法器的水元素角色。拥有与名号相符的不俗实力，博学而高傲。尽管过着拮据、清贫的生活，但她坚决不用占卜来牟利…… 正是这种坚持，导致莫娜总是在为生计发愁。 | [FANBOX](https://genshin-impact.fandom.com/zh/wiki/莫娜) |
+| mona | 莫娜 | 非原神中的莫娜，原神中的莫娜标签应当为c:'mona megistus' |  |
 | komichi akebi | 明日小路 |  |  |
 | alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [Youtube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [Twitter](https://twitter.com/shishirobotan) |
