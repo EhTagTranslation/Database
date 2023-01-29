@@ -2099,7 +2099,7 @@ example:
 | onii-chan wa oshimai | 别当欧尼酱了！ | 男主绪山真寻，一名沉迷工口游戏的自宅警备员，某天醒来发现自己成了实打实的美少女JC，原来是天才科学家兼妹妹绪山美波里把他作为了新药的小白鼠，下药、监视、控制一气呵成。<br>祥和的自宅日常被残酷破坏，真实男主，即使变性了也能开后宫，欢乐向王道性转故事就这样展开了...<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png) | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
-| ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》，又译《妖三角》，是矢吹健太朗创作的漫画。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
+| ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
