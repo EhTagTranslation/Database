@@ -3524,7 +3524,7 @@ example:
 | greko | Greko🔞 |  | [pixiv](https://www.pixiv.net/users/42434066) |
 | onikun | おにくん |  | [pixiv](https://www.pixiv.net/users/29373138) |
 | c ice | C\_ICE |  | [pixiv](https://www.pixiv.net/users/4772317) |
-| saitom | saitom |  | [Twitter](https://twitter.com/_saitom_) [pixiv](https://www.pixiv.net/users/152240) |
+| saitom | 斋藤将嗣 | saitom | [Twitter](https://twitter.com/_saitom_) [pixiv](https://www.pixiv.net/users/152240) |
 | komi zumiko | コミズミコ |  | [Twitter](https://twitter.com/p1zm) [pixiv](https://www.pixiv.net/users/10751) |
 | kawakami masaki | 川上真树 |  |  |
 | hizuki akira | 绯月Akira |  |  |
