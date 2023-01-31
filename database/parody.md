@@ -863,7 +863,7 @@ example:
 | ladies versus butlers | 大小姐×执事！ |  |  |
 | arpeggio of blue steel | 苍蓝钢铁的琶音 |  |  |
 | maken-ki | 魔剑姬！ |  |  |
-| expelled from paradise | 乐园追放 |  |  |
+| expelled from paradise | 乐园追放 -Expelled from Paradise- | 《乐园追放 -Expelled from Paradise-》（日语：楽園追放 -Expelled from Paradise-）是由Nitroplus和东映动画共同制作的一部3DCG动画电影，于2014年11月15日上映。 | [萌娘百科](https://zh.moegirl.org.cn/乐园追放_-Expelled_from_Paradise-) |
 | glasslip | 玻璃之唇 |  |  |
 | hanasaku iroha | 花开伊吕波 |  |  |
 | akaneiro ni somaru saka | 茜色染红的街道 |  |  |
