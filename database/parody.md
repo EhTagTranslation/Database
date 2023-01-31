@@ -2100,6 +2100,7 @@ example:
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
 | ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
+| tensei oujo to tensai reijou no mahou kakumei | 转生公主与天才千金的魔法革命 |  | [萌娘百科](https://zh.moegirl.org.cn/转生王女与天才千金的魔法革命) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
