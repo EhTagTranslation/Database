@@ -2711,7 +2711,7 @@ example:
 | silent magician | 沉默魔术师 |  |  |
 | marcille donato | 玛露西露 | 《迷宫饭》 |  |
 | fumina hoshino | 星野文奈 |  |  |
-| angela balzac | 安吉拉·巴尔扎克 |  |  |
+| angela balzac | 安吉拉·巴尔扎克 | 所属作品: `p:expelled from paradise`<br><br>![](https://static.wikia.nocookie.net/rakuen-tsuiho/images/d/df/Angela_Balzac.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/安吉拉·巴尔扎克) [Fandom](https://rakuen-tsuiho.fandom.com/wiki/Angela_Balzac) |
 | yanagi takayama | 高山柳 |  |  |
 | nako oshimizu | 押水菜子 |  |  |
 | sawa okita | 冲田纱羽 |  |  |
