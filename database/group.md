@@ -12544,6 +12544,7 @@ example:
 | praha keisanki | プラハ計算機 |  |  |
 | mosoya | 毛想屋 |  |  |
 | mikamishi juukou | 三神氏重工 |  |  |
+| kudamonoichizu | 果物一途 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
