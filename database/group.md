@@ -12545,6 +12545,7 @@ example:
 | mosoya | 毛想屋 |  |  |
 | mikamishi juukou | 三神氏重工 |  |  |
 | kudamonoichizu | 果物一途 |  |  |
+| mimitako seijin | 耳タコ星人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
