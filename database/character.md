@@ -4454,6 +4454,7 @@ example:
 | seiun sky | 青云天空（星云天空） | 青云天空是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。 | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
 | curren chan | 真机伶 | 真机伶是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹カレンチャン（Curren Chan）。 | [萌娘百科](https://zh.moegirl.org.cn/真机伶) |
 | symboli rudolf | 鲁道夫象征 | 鲁道夫象征是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
+| admire vega | 爱慕织姬 | 爱慕织姬是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
