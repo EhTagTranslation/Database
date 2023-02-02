@@ -4453,6 +4453,7 @@ example:
 | mahiro oyama | 绪山真寻 | 是由猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，男主角（♀）。<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了！一讯社_第一卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/绪山真寻) |
 | seiun sky | 青云天空（星云天空） | 青云天空是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。 | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
 | curren chan | 真机伶 | 真机伶是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹カレンチャン（Curren Chan）。 | [萌娘百科](https://zh.moegirl.org.cn/真机伶) |
+| symboli rudolf | 鲁道夫象征 | 鲁道夫象征是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
