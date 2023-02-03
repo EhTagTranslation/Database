@@ -2102,6 +2102,7 @@ example:
 | ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
 | tensei oujo to tensai reijou no mahou kakumei | 转生公主与天才千金的魔法革命 |  | [萌娘百科](https://zh.moegirl.org.cn/转生王女与天才千金的魔法革命) |
 | summer camp island | 幽灵与莫莉·麦琪 | 《幽灵与莫莉·麦琪》（英语：The Ghost and Molly McGee）是一部由美国迪士尼电视动画公司制作的恐怖喜剧动画剧集，作者为比尔·莫兹与鲍伯·罗斯，于2021年10月在迪士尼频道与Disney+播映。 | [维基百科](https://zh.wikipedia.org/wiki/幽灵与莫莉·麦琪) |
+| luca | 夏日友晴天 | 《夏日友晴天》（英语：Luca，中国大陆译《夏日友晴天》，香港译《盛夏友晴天》，台湾译《路卡的夏天》）是一部2021年美国3D计算机动画奇幻喜剧片，由皮克斯动画工作室制作，并由迪士尼平台发行负责流媒体发行，华特迪士尼工作室电影负责院线发行。故事的舞台设定于西元1959年的意大利滨海港口城镇，描述居住在附近海域的海怪男孩卢卡伪装成人类探索陆地世界，为了实现梦想与当地居民建立的羁绊和经历的各类事件。 | [维基百科](https://zh.wikipedia.org/zh-sg/路卡的夏天) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
