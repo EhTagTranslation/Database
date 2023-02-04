@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       namespaces:
-        description: 要检查的命名空间，使用“,”分隔，不要加空格
+        description: 要检查的命名空间，使用“,”分隔
         type: string
         required: false
   schedule:
