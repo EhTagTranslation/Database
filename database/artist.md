@@ -5378,7 +5378,7 @@ example:
 | gonza | gonza |  |  |
 | gonzaburo- | ゴンざぶろー |  |  |
 | gorgon | ゴルゴン |  |  |
-| gorgonzola | ごるごんぞーら |  |  |
+| golgonzola | ごるごんぞーら |  |  |
 | goriyaku | ごりやく |  |  |
 | goro | ごろ |  |  |
 | gorogoro | ゴロごろ |  |  |
