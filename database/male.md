@@ -552,6 +552,7 @@ example:
 | tickling | 挠痒 | 接触身体以引发不自主抽搐或笑声的方式。通常用羽毛。 |  |
 |  | === 强迫 > 束缚 === |  |  |
 | bondage | 束缚 | 捆绑或束缚的行为和艺术。是`pillory`、`shibari`、`stuck in wall`和`wooden horse`的前置标签。不需要为`gag`或`leg lock`添加此标签。<br>![图](# "https://ehgt.org/5c/9f/5c9f162f5be7c0b34e7933a877d63d3c974f4497-694501-1024-576-png_l.jpg") |  |
+| fanny packing | 人肉腰包 | 一个人被捆绑、束缚或以其他方式绑在更大的伴侣身上以供性使用。需要`bondage`标签。 |  |
 | harness | 挽具 | 由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与`shibari`或`corset`混淆。 |  |
 | shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要`bondage`标签。 |  |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要`bondage`标签。不应与`glory hole`或`wormhole`混淆。 |  |
