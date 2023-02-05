@@ -12343,6 +12343,7 @@ example:
 | sorayama hajime | 空山基 | 空山基（日语：そらやま はじめ，英语：Hajime Sorayama，1947年2月22日－）是一位日本插画家。1971年，作为自由插画家独立。从那时起，他描绘具情色性和金属质感的女性，以及机械造型的插图，并在世界各地广受好评。他还设计了由索尼开发的娱乐机器人AIBO。 | [维基百科](https://zh.wikipedia.org/zh/空山基) |
 | hotate-chan | ほたてちゃん |  | [FANBOX](https://hotate0731.fanbox.cc/) |
 | akai same | かふぇいん中毒 |  |  |
+| takano tomohiro | 高野友宏 | ![twitter](https://pbs.twimg.com/profile_images/1309454618124931072/sbDuTssb_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/21karaagebo) [pixiv](https://www.pixiv.net/users/23606858) |
 
 <!--TEMPLATE:
 |  |  |  |  |
