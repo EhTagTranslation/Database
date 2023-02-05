@@ -12546,6 +12546,7 @@ example:
 | mikamishi juukou | 三神氏重工 |  |  |
 | kudamonoichizu | 果物一途 |  |  |
 | mimitako seijin | 耳タコ星人 |  |  |
+| nukunuku jima | ぬくぬく島 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
