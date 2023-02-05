@@ -3600,7 +3600,7 @@ example:
 | moejin | 萌尽 |  |  |
 | shinjitsu | 真实 |  |  |
 | yoshiie | 由家 |  |  |
-| nikubou maranoshin | 肉棒魔羅ノ進 |  |  |
+| nikubou maranoshin | 肉棒魔罗之进 | ![twitter](https://pbs.twimg.com/profile_images/1622113634083291139/ZJinIjuL_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/hutosi_ari_11) |
 | goya | 蜜姫モカ |  |  |
 | doji ro | どじろー |  |  |
 | hiro | 博 | 博是日本的漫画家、插画家。![图](https://ehgt.org/72/d7/72d732031a89656b0398a60c48e5d63d8b7e6553-24875-245-245-jpg_l.jpg)<br><br>漫画：<br>水族馆（日语：アクアリウム，芳文社『Manga Time Kirara Carat』，2009年12月号－2011年10月号，全2卷）<br>YUMEKURI（日语：ゆめくり，Media Factory『月刊Comic Alive』，2012年3月号－2017年2月号，全五卷）<br>明日同学的水手服（日语：明日ちゃんのセーラー服，集英社『隔壁的YOUNG JUMP』网络连载，2016年8月2日起每月一回，目前共9卷）<br><br>小说插画：<br>复制的脸与反向少女系列（日语：コピーフェイスとカウンターガールシリーズ，著：仮名堂アレ，GAGAGA文库，2008年8月－2009年9月，全3卷）<br>本田小狼与我（日语：スーパーカブ，著：トネ・コーケン，角川Sneaker文库，2017年5月至今，目前共7+1卷） | [萌娘百科](https://zh.moegirl.org.cn/博) [Twitter](https://twitter.com/siiteiebahiro) [维基百科](https://zh.wikipedia.org/wiki/博) |
