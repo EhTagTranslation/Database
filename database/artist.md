@@ -551,7 +551,7 @@ example:
 | nagai wataru | 長井わたる |  |  |
 | suzuhane suzu | すずはねすず |  |  |
 | tanaka decilitre | 田中竕 |  |  |
-| yahiro | 八寻 |  |  |
+| yahiro | 黑小枝 | ![twitter](https://pbs.twimg.com/profile_images/1470154677761155077/aRysFz6L_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`raid slash`主笔画师，曾用笔名“八寻”。 | [twitter](https://twitter.com/koedaslash) [pixiv](https://www.pixiv.net/users/26109) |
 | sabamu | 鲭梦 |  |  |
 | fujise akira | 藤瀬あきら |  |  |
 | shouryuu | 升龙 |  |  |
