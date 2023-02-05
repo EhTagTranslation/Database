@@ -2848,7 +2848,7 @@ example:
 | necomi | necömi |  | [Twitter](https://twitter.com/necomi_info) [pixiv](https://www.pixiv.net/users/420509) |
 | cona kinaco | 小奈きなこ |  | [Twitter](https://twitter.com/_cnknc_) [pixiv](https://www.pixiv.net/users/3257985) |
 | kamioka chirol | 神岡ちろる |  | [Twitter](https://twitter.com/kami_shun0505) [pixiv](https://www.pixiv.net/users/2973000) |
-| mikoma sanagi | 美駒沙名希 |  | [Twitter](https://twitter.com/MiKomaSanagi) [pixiv](https://www.pixiv.net/users/4365631) |
+| mikoma sanagi | 美驹沙名希 | ![twitter](https://pbs.twimg.com/profile_images/414430107076268034/S6pi6bZd_400x400.png)<br><br>**作者推特头像**<br><br>同人社团`izumiya`主笔画师 | [twitter](https://twitter.com/MiKomaSanagi) [pixiv](https://www.pixiv.net/users/4365631) |
 | nanashiki fuka | 七色風香 |  | [Twitter](https://twitter.com/nanashikifuka) [pixiv](https://www.pixiv.net/users/9852678) |
 | ashita | アシタ |  | [Twitter](https://twitter.com/ast_2017) |
 | midorinocha | みどりのちゃ |  | [Twitter](https://twitter.com/Midorinocha) [pixiv](https://www.pixiv.net/users/80830) |
