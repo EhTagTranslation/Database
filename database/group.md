@@ -2116,7 +2116,7 @@ example:
 | alicesyndrome | AliceSyndrome\* |  |  |
 | uousaohkoku | 鱼ウサ王国 |  |  |
 | konoshiro shinko | コノシロしんこ | 由女性漫画家`karasuma yayoi`（主笔）和`yamagara tasuku`（原案、分镜）组成的同人社团。 | [YouTube](https://www.youtube.com/channel/UCgcFF8HoBgKQfKPgJk1FJaQ/featured) |
-| kansai orange | 関西オレンジ |  |  |
+| kansai orange | 关西オレンジ | 画师`arai kei`所属同人社团 |  |
 | imomuya honpo | いもむや本舗 |  |  |
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
 | okadatei | おかだ亭 |  |  |
