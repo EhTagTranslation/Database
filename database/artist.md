@@ -12349,6 +12349,7 @@ example:
 | ushi kousen | 牛工船 | ![twitter](https://pbs.twimg.com/profile_images/1468739892234448896/8YcNARy3_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《comic Anthurium》作者 | [twitter](https://twitter.com/kaninankotsu) [pixiv](https://www.pixiv.net/users/3048089) |
 | eroi-roe | エロ井ロエ | ![twitter](https://pbs.twimg.com/profile_images/1494340820471668736/W4JMnGLc_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《异世快乐天》作者 | [twitter](https://twitter.com/eroiroe) |
 | camekirin | かめきりん | ![twitter](https://pbs.twimg.com/profile_images/1617087012343009280/OsoaCymY_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/camekirin) |
+| mayonaka taroupho | 真夜中足穗 | ![twitter](https://pbs.twimg.com/profile_images/1096804017718493184/GJ8nPXCL_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/TheMidnight) [pixiv](https://www.pixiv.net/users/10162291) |
 
 <!--TEMPLATE:
 |  |  |  |  |
