@@ -3697,7 +3697,7 @@ example:
 | ginger shuka | 姜糖 | 姜シュカ | [pixiv](https://www.pixiv.net/users/6395677) [Twitter](https://twitter.com/mikaga12) |
 | sazaemu | さざえむ |  | [pixiv](https://www.pixiv.net/users/29680821) [Twitter](https://twitter.com/sazaemu) |
 | gunjou | 群青 |  | [pixiv](https://www.pixiv.net/users/5359885) |
-| takaman | 高饅 |  | [pixiv](https://www.pixiv.net/users/2722726)<br>[Twitter](https://twitter.com/vakan12) |
+| takaman | 高馒 | ![twitter](https://pbs.twimg.com/profile_images/1445279404095991816/HnKxMZOU_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`solo play`主笔画师 | [twitter](https://twitter.com/vakan12) [pixiv](https://www.pixiv.net/users/2722726) |
 | xiaoxi | 小西0619 |  | [Twitter](https://twitter.com/xiaoxi_0619) [pixiv](https://www.pixiv.net/users/12218414) [微博](https://weibo.com/u/5241210893) |
 | arimura daikon | 有村大根 |  |  |
 | tooyama burin | 遠山ブリン |  |  |
