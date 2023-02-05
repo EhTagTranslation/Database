@@ -12548,6 +12548,7 @@ example:
 | mimitako seijin | 耳タコ星人 |  |  |
 | nukunuku jima | ぬくぬく島 |  |  |
 | amagami honpo | 甘啮本铺 | 画师`manno`所属社团 |  |
+| jyuu sensya usagitai | 重战车兔队 | 画师`takano tomohiro`所属同人社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
