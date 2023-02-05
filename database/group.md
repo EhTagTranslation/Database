@@ -1772,7 +1772,7 @@ example:
 | mermerry | メルメリー |  |  |
 | doyagaobyo | どや顔病 |  |  |
 | studio hitoribocchi | スタジオひとりぼっち |  |  |
-| kyokutou koumuten | 極東工務店 |  |  |
+| kyokutou koumuten | 极东工务店 | 画师`kikunosukemaru`所属同人社团 |  |
 | takemasaya | たけまさ屋 |  |  |
 | novelize | NOVELIZE |  |  |
 | konohanaku | 此花区 |  |  |
