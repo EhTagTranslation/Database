@@ -12547,6 +12547,7 @@ example:
 | kudamonoichizu | 果物一途 |  |  |
 | mimitako seijin | 耳タコ星人 |  |  |
 | nukunuku jima | ぬくぬく島 |  |  |
+| amagami honpo | 甘啮本铺 | 画师`manno`所属社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
