@@ -936,7 +936,7 @@ example:
 | sumiya | スミヤ |  | [Twitter](https://twitter.com/sumiya103) [pixiv](https://www.pixiv.net/users/4595) |
 | takashi | タカシ |  |  |
 | ushino kandume | 牛野缶诘 |  |  |
-| yahiro pochi | 八尋ぽち |  | [pixiv](https://www.pixiv.net/users/804550) |
+| yahiro pochi | 八寻ぽち | ![twitter](https://pbs.twimg.com/profile_images/1223323831210610688/y2l5P4hp_400x400.jpg)<br><br>**作者推特头像**<br><br>活跃于《快乐天》杂志的漫画家、同人作者 | [twitter](https://twitter.com/yahiropoti) [pixiv](https://www.pixiv.net/users/804550) |
 | yanyo | やんよ |  |  |
 | yuzuha | ユズハ |  |  |
 | yamagara tasuku | 山雀たすく | 同人社团`konoshiro shinko`所属画师，负责作品原案、分镜。 | [twitter](https://twitter.com/yamagara_tasuku) [pixiv](https://www.pixiv.net/users/218545) |
