@@ -5432,7 +5432,7 @@ example:
 | akatsuki kanten | 暁寒天 |  |  |
 | gyro amarume | ジャイロ余目 |  |  |
 | gyunyu | 牛乳 |  |  |
-| gyuunyuuzaemon | 牛乳左衛門 |  |  |
+| gyuunyuuzaemon | 牛乳左卫门 | ![twitter](https://pbs.twimg.com/profile_images/860686145478209536/0XvUXgv0_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/L4Cat) [pixiv](https://www.pixiv.net/users/1204474) |
 | gyuutei | 牛帝 |  |  |
 | h-h | H・H |  |  |
 | h9 | H9 |  |  |
