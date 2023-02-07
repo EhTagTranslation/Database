@@ -12353,6 +12353,7 @@ example:
 | sharekoube | メカしゃれこうべ | ![twitter](https://pbs.twimg.com/profile_images/1113597545551241217/hCpAK7sP_400x400.png)<br><br>**作者推特头像**<br><br>同人社团`lv426`主笔画师 | [twitter](https://twitter.com/sharekoubeymd2) [pixiv](https://twitter.com/sharekoubeymd2) |
 | mizusane | みづさね | ![twitter](https://pbs.twimg.com/profile_images/520122585657270272/1I1YRpfI_400x400.png)<br><br>**作者推特头像**<br><br>社团`circle mizusane`主笔画师 | [twitter](https://twitter.com/midusane) [pixiv](https://www.pixiv.net/users/85993) |
 | ninda hayo | 忍田波葉 |  |  |
+| delta chimaki | ▲ちまき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
