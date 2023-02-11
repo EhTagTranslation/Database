@@ -12357,6 +12357,7 @@ example:
 | menbou | めんぼー |  |  |
 | uishi poru | 羽衣石ぽる |  |  |
 | momoyama hato | モモヤマハト |  |  |
+| inukami inoji | 犬上いの字 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
