@@ -12356,6 +12356,7 @@ example:
 | delta chimaki | ▲ちまき |  |  |
 | menbou | めんぼー |  |  |
 | uishi poru | 羽衣石ぽる |  |  |
+| momoyama hato | モモヤマハト |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
