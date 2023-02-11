@@ -12554,6 +12554,7 @@ example:
 | milk farm tanaka | ミルクファーム田中 |  |  |
 | agartha houeikyoku | アガルタ放映局 |  |  |
 | menbou renpou | めんぼーれんぽー |  |  |
+| dukeyushimagurodon | 漬けゆしまぐろ丼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
