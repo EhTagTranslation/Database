@@ -33,4 +33,6 @@ jobs:
           echo ::endgroup::
 
       - name: Build
+        env:
+          EH_COOKIE: ${{ secrets.EH_COOKIE }}
         run: node tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}
