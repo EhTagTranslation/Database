@@ -12556,6 +12556,7 @@ example:
 | menbou renpou | めんぼーれんぽー |  |  |
 | dukeyushimagurodon | 漬けゆしまぐろ丼 |  |  |
 | solo play | そろぷれい | 画师`takaman`所属同人社团 |  |
+| niji-teru | 虹照 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
