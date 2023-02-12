@@ -12345,7 +12345,6 @@ example:
 | akai same | かふぇいん中毒 |  |  |
 | takano tomohiro | 高野友宏 | ![twitter](https://pbs.twimg.com/profile_images/1309454618124931072/sbDuTssb_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`jyuu sensya usagitai`主笔画师 | [twitter](https://twitter.com/21karaagebo) [pixiv](https://www.pixiv.net/users/23606858) |
 | ameno shigure | 雨野时雨 | ![twitter](https://pbs.twimg.com/profile_images/1608795805615542272/uQyEpixr_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/ame_shlv) |
-| solo play | そろぷれい | 画师`takaman`所属同人社团 |  |
 | ushi kousen | 牛工船 | ![twitter](https://pbs.twimg.com/profile_images/1468739892234448896/8YcNARy3_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《comic Anthurium》作者 | [twitter](https://twitter.com/kaninankotsu) [pixiv](https://www.pixiv.net/users/3048089) |
 | eroi-roe | エロ井ロエ | ![twitter](https://pbs.twimg.com/profile_images/1494340820471668736/W4JMnGLc_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《异世快乐天》作者 | [twitter](https://twitter.com/eroiroe) |
 | camekirin | かめきりん | ![twitter](https://pbs.twimg.com/profile_images/1617087012343009280/OsoaCymY_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/camekirin) |
