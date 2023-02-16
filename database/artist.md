@@ -12357,6 +12357,7 @@ example:
 | uishi poru | 羽衣石ぽる |  |  |
 | momoyama hato | モモヤマハト |  |  |
 | inukami inoji | 犬上いの字 |  |  |
+| patio | ぱちお |  | [Twitter](https://twitter.com/patioglass)<br>[pixiv](https://www.pixiv.net/users/2188539) |
 
 <!--TEMPLATE:
 |  |  |  |  |
