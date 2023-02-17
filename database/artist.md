@@ -12356,6 +12356,7 @@ example:
 | uishi poru | 羽衣石ぽる |  |  |
 | momoyama hato | モモヤマハト |  |  |
 | inukami inoji | 犬上いの字 |  |  |
+| ichikawa noa | 一河のあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
