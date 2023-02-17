@@ -2960,7 +2960,7 @@ example:
 | nathaniel pennel | Pennel |  | [Twitter](https://twitter.com/pennel_kirei) [pixiv](https://www.pixiv.net/users/512666) |
 | hadron9 | HADRON9 |  | [Twitter](https://twitter.com/hadron9) [Twitter（成年向）](https://twitter.com/v4pAiZAtqGZtmWw) [pixiv](https://www.pixiv.net/users/906208) |
 | supu | すぷ |  | [Twitter](https://twitter.com/w_spread) [pixiv](https://www.pixiv.net/users/3980709) |
-| kitaku | きたく |  | [Twitter](https://twitter.com/kitaku18) [pixiv](https://www.pixiv.net/users/9563241) |
+| kitaku | きたく | 仲町まち | [Twitter](https://twitter.com/kitaku18) [pixiv](https://www.pixiv.net/users/9563241) |
 | shirota dai | 白田太 |  | [Twitter](https://twitter.com/wwshirota) [pixiv](https://www.pixiv.net/users/8642) |
 | moyazou | もや造 |  | [Twitter](https://twitter.com/moyashiseizoujo) [pixiv](https://www.pixiv.net/users/12363124) |
 | kuguri oimo | 九栗おいも |  | [Twitter](https://twitter.com/oimoimo12) [pixiv](https://www.pixiv.net/users/1998) |
@@ -3491,7 +3491,6 @@ example:
 | uranokyuu | ウラノキュウ |  |  |
 | 7x2 | 7×2 |  |  |
 | kurowa | 黒輪 |  |  |
-| nakamachi machi | 仲町まち |  |  |
 | pei | ぺい |  |  |
 | shimazu tekko | 島津鉄甲（raikoh） |  |  |
 | enoki | えのき |  |  |
@@ -12357,7 +12356,6 @@ example:
 | uishi poru | 羽衣石ぽる |  |  |
 | momoyama hato | モモヤマハト |  |  |
 | inukami inoji | 犬上いの字 |  |  |
-| patio | ぱちお |  | [Twitter](https://twitter.com/patioglass)<br>[pixiv](https://www.pixiv.net/users/2188539) |
 
 <!--TEMPLATE:
 |  |  |  |  |
