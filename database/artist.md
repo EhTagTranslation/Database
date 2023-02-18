@@ -12357,6 +12357,7 @@ example:
 | momoyama hato | モモヤマハト |  |  |
 | inukami inoji | 犬上いの字 |  |  |
 | ichikawa noa | 一河のあ |  |  |
+| mary-san | メリサン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
