@@ -4460,6 +4460,7 @@ example:
 | super creek | 超级溪流 | 超级溪流是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
 | cecilia alcott | 塞西莉娅·奥尔卡特 |  | [萌娘百科](https://zh.moegirl.org.cn/塞西莉娅·奥尔卡特) |
 | ling yin huang | 凰铃音 |  | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
+| laura bodewig | 拉芙拉·布迪威伊 |  | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
