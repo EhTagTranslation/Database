@@ -4462,6 +4462,7 @@ example:
 | ling yin huang | 凰铃音 |  | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
 | laura bodewig | 拉芙拉·布迪威伊 |  | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
 | yuu koito | 小糸侑 |  |  |
+| touko nanami | 七海灯子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
