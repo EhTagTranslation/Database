@@ -336,7 +336,7 @@ example:
 | yuuki | 悠宇树 |  |  |
 | ohkami ryosuke | 狼亮辅 |  |  |
 | jitsuma | 儿妻 |  |  |
-| kawaisaw | 可哀想 |  |  |
+| kawaisaw | 可哀想 |  | [pixiv](https://www.pixiv.net/users/1028934) |
 | alpha alf layla | α・アルフライラ |  |  |
 | tori hrami | 鳥ハラミ |  |  |
 | mori marimo | もりまりも |  |  |
