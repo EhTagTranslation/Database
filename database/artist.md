@@ -2615,7 +2615,7 @@ example:
 | aka shio | 朱シオ |  | [Twitter](https://twitter.com/akasiosio) [pixiv](https://www.pixiv.net/users/341747) |
 | tomobe kinuko | 友部キヌコ |  | [Twitter](https://twitter.com/kinuk) [女性向Twitter](https://twitter.com/nunuk0) [pixiv](https://www.pixiv.net/users/462527) |
 | hirasaka makoto | 比良坂真琴 |  | [Twitter](https://twitter.com/hirasaka8) [pixiv](https://www.pixiv.net/users/1207963) [日文维基](https://ja.wikipedia.org/wiki/比良坂真琴) |
-| matsuriuta | 祭唄 | ![祭唄头像](https://i.jpg.dog/file/jpg-dog/c7a2ace5d40ee241390fc23d0b067bff.jpg) | [Twitter](https://twitter.com/maturiuta) [pixiv](https://www.pixiv.net/users/70822) |
+| matsuriuta | 祭唄\|松竜太 | ![祭唄头像](https://i.jpg.dog/file/jpg-dog/c7a2ace5d40ee241390fc23d0b067bff.jpg) | [Twitter1](https://twitter.com/maturiuta) [pixiv1](https://www.pixiv.net/users/70822) [Twitter2](https://twitter.com/matu_ryuta) [pixiv2](https://pixiv.me/matu_ryuta)|
 | momizi-kei | 紅葉-K |  |  |
 | nagayori | 长赖 | ![twitter](https://pbs.twimg.com/profile_images/378800000460092544/4b86924dfdb6c43cb11d1ac339c09ab9_400x400.jpeg)<br><br>**作者推特头像** | [twitter](https://twitter.com/nagayori000) [pixiv](https://www.pixiv.net/users/71617) |
 | toosaka asagi | 遠坂あさぎ | ![遠坂あさぎ头像](https://i.loli.net/2020/05/15/L3lKV6HkTIpPFeu.jpg) | [pixiv](https://www.pixiv.net/users/3302692) [Twitter](https://twitter.com/asagi_0398) |
