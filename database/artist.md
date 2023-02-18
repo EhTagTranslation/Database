@@ -12360,6 +12360,7 @@ example:
 | mary-san | メリサン |  |  |
 | auman zureedus | オーマンズリーダス |  |  |
 | maeshima shigeki | 前嶋重機 |  |  |
+| nanquanzl | 南拳蟑狼 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
