@@ -12358,6 +12358,7 @@ example:
 | inukami inoji | 犬上いの字 |  |  |
 | ichikawa noa | 一河のあ |  |  |
 | mary-san | メリサン |  |  |
+| auman zureedus | オーマンズリーダス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
