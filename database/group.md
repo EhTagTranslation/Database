@@ -12558,6 +12558,7 @@ example:
 | solo play | そろぷれい | 画师`takaman`所属同人社团 |  |
 | niji-teru | 虹照 |  |  |
 | kokumaro chousei tounyuu | こくまろちょうせい豆乳 |  |  |
+| noya | 乃屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
