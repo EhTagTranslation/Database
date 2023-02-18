@@ -2798,7 +2798,7 @@ example:
 | iketaki ganguten | 池泷玩具店 |  |  |
 | akagi kuro | 赤木クロ |  |  |
 | ash yokoshima | Ash横島 |  |  |
-| haitokukan | 背徳漢 |  |  |
+| haitokukan | 背德汉 |  |  |
 | henkuma | 変熊 |  |  |
 | kawashima yoshio | 川島よしお |  |  |
 | kanari tokusaku | 鹿成トクサク |  |  |
