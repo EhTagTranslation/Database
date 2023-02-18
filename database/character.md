@@ -4463,6 +4463,7 @@ example:
 | laura bodewig | 拉芙拉·布迪威伊 |  | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
 | yuu koito | 小糸侑 |  |  |
 | touko nanami | 七海灯子 |  |  |
+| houki shinonono | 篠之之帚 |  | [萌娘百科](https://zh.moegirl.org.cn/篠之之箒) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
