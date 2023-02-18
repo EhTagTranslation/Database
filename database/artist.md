@@ -12359,6 +12359,7 @@ example:
 | ichikawa noa | 一河のあ |  |  |
 | mary-san | メリサン |  |  |
 | auman zureedus | オーマンズリーダス |  |  |
+| maeshima shigeki | 前嶋重機 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
