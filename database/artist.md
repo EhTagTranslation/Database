@@ -12361,6 +12361,7 @@ example:
 | auman zureedus | オーマンズリーダス |  |  |
 | maeshima shigeki | 前嶋重機 |  |  |
 | nanquanzl | 南拳蟑狼 |  |  |
+| janggun | jeneral |  | [pixiv](https://www.pixiv.net/users/58663751) |
 
 <!--TEMPLATE:
 |  |  |  |  |
