@@ -5014,7 +5014,7 @@ example:
 | eman | eman |  |  |
 | emanon123 | emanon123 |  |  |
 | emi | えみ |  |  |
-| emilio | えみりお |  |  |
+| emilio | えみりお |  | [pixiv](https://www.pixiv.net/users/4427149) |
 | emina | emina |  |  |
 | emino | えみの |  |  |
 | emit | えみっと |  |  |
