@@ -12362,6 +12362,7 @@ example:
 | maeshima shigeki | 前嶋重機 |  |  |
 | nanquanzl | 南拳蟑狼 |  |  |
 | janggun | jeneral |  | [pixiv](https://www.pixiv.net/users/58663751) |
+| eros o gutsugutsu nikonda megane | エロスをぐつぐつ煮込んだメガネ |  | [pixiv](https://www.pixiv.net/users/3827990) [Twitter](https://twitter.com/95Lo8Ofmuf3NAKb) |
 
 <!--TEMPLATE:
 |  |  |  |  |
