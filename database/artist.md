@@ -2369,7 +2369,7 @@ example:
 | kaitenfude | 回转笔 |  |  |
 | tachikawa negoro | 立川ねごろ |  |  |
 | emine kendama | 遠峰犬玉 |  |  |
-| masami chie | 柾見ちえ |  |  |
+| masami chie | 柾见ちえ | ![twitter](https://pbs.twimg.com/profile_images/1221471349111058432/hbpizuGO_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/masamichie) [pixiv](https://www.pixiv.net/users/529858) |
 | ryuuki yumi | りゅうき夕海 |  |  |
 | nakano sora | 中乃空 |  | [pixiv](https://www.pixiv.net/users/63652) [Twitter](https://twitter.com/nakano_sora) |
 | napo | ナポ |  |  |
