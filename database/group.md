@@ -6998,7 +6998,7 @@ example:
 | kurusugawa pikumintei | 来栖川ピクミン亭 |  |  |
 | kusanagi-blade | KUSANAGI-BLADE |  |  |
 | kusari | KUSARI |  |  |
-| kusari caterpillar | 鎖キャタピラ |  |  |
+| kusari caterpillar | 锁キャタピラ |  |  |
 | kusari no youjo | 鎖の幼女 |  |  |
 | kusariku | 草陸 |  |  |
 | kushimoto house | くしもとハウス |  |  |
