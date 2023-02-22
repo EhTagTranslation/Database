@@ -2115,7 +2115,7 @@ example:
 | izayoi no kiki | 十六夜のキキ |  |  |
 | wada rco | ワダアルコ |  |  |
 | agobitch nee-san | アゴビッチ姉さん |  |  |
-| kito sakeru | 鬼頭サケル |  |  |
+| kito sakeru | 鬼头サケル | ![twitter](https://pbs.twimg.com/profile_images/1611321432591732736/w3bFsrMp_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/SakeruKito) [pixiv](https://www.pixiv.net/users/9472922) |
 | misa wasabi | 三左わさび |  |  |
 | momoduki suzu | 桃月すず |  |  |
 | picao | ぴかお |  |  |
