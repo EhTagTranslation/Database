@@ -12559,6 +12559,7 @@ example:
 | niji-teru | 虹照 |  |  |
 | kokumaro chousei tounyuu | こくまろちょうせい豆乳 |  |  |
 | noya | 乃屋 |  |  |
+| touhikou | 陶惹好 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
