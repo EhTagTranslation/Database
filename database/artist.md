@@ -1143,7 +1143,7 @@ example:
 | gura nyuutou | ぐら乳頭 |  |  |
 | inomaru | いのまる |  |  |
 | iori yuzuru | 庵让 |  |  |
-| itaba hiroshi | 板場広し |  |  |
+| itaba hiroshi | 板场广志 | ![twitter](https://pbs.twimg.com/profile_images/1248653803/1931____3_400x400.png)<br><br>**作者推特头像**<br><br>漫画家，最初以“板場広し”为笔名进行连载。<br>青年漫画（主要用“広志”名义）和成人漫画（主要用“広し”名义）来进行绘画。<br>在动画师的工作上面则使用本名“伊多波広”名义。 | [twitter](https://twitter.com/itaba_tatamiya) [pixiv]() |
 | james hotate | ジェームスほたて |  |  |
 | jamming | じゃみんぐ |  |  |
 | mitsuki rintarou | 水月林太郎 |  |  |
