@@ -11792,7 +11792,7 @@ example:
 | yozi | YoZi |  |  |
 | yozo | yozo |  |  |
 | yts takana | YTS 鷹那 |  |  |
-| yu | 湯 |  |  |
+| yu | YU | ![twitter](https://pbs.twimg.com/profile_images/1605115957554184192/FoUmoyOA_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/yu0x00) [pixiv](https://www.pixiv.net/users/2339) |
 | yu-ri | YU-RI |  |  |
 | yu-ya | 熊耶 |  |  |
 | yua | 夕海 |  |  |
