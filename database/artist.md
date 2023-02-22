@@ -2872,7 +2872,7 @@ example:
 | nigirimeshi | にぎりめし |  | [Twitter](https://twitter.com/onigirinigirime) [pixiv](https://www.pixiv.net/users/4316232) |
 | minami chisato | 南ちさと（有澤司） |  | [Twitter](https://twitter.com/coupe_minami) [pixiv](https://www.pixiv.net/users/24255) |
 | aotsuki shinobu | 蒼月しのぶ |  | [Twitter](https://twitter.com/MayshWeb) [pixiv](https://www.pixiv.net/users/880794) |
-| oshima aki | 大島あき |  | [Twitter](https://twitter.com/oshimaakkyun) [pixiv](https://www.pixiv.net/users/30706775) |
+| oshima aki | 大岛あき | ![twitter](https://pbs.twimg.com/profile_images/1068085012552024064/YSF_GwNR_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/oshimaakkyun) [pixiv](https://www.pixiv.net/users/30706775) |
 | kimino tomonari | 君野朋成 |  | [Twitter](https://twitter.com/kimino107) [pixiv](https://www.pixiv.net/users/150800) |
 | sune | sune |  | [Twitter](https://twitter.com/sune_01) [pixiv](https://www.pixiv.net/users/1169932) |
 | molgen | モルゲン |  | [Twitter](https://twitter.com/molgen46) [pixiv](https://www.pixiv.net/users/2197747) |
