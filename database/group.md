@@ -12562,6 +12562,7 @@ example:
 | touhikou | 陶惹好 |  |  |
 | yorunobando | 夜のバンド | 画师`mayonaka taroupho`所属同人社团。 |  |
 | shiba no shippo | しばのしっぽ | 画师`shiba aya`所属同人社团 |  |
+| kuusou shoujo kenkyuujo | 空想少女研究所 | 画师`masami chie`所属同人社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
