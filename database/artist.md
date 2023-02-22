@@ -1731,7 +1731,7 @@ example:
 | kani club | 蟹俱乐部 |  |  |
 | tabuchi | たぶち |  |  |
 | nora higuma | 野良ヒグマ |  | [Twitter](https://twitter.com/norahigumax) [pixiv](https://www.pixiv.net/users/22445) |
-| tohyama eight | 東山エイト |  |  |
+| tohyama eight | 东山エイト | ![twitter](https://pbs.twimg.com/profile_images/1230143408812855296/VOh2ESl8_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/eight_tohyama) [pixiv](https://www.pixiv.net/users/9611647) |
 | shakuhachi nameko | 尺八ナメコ |  |  |
 | bai asuka | 呗飞鸟 |  |  |
 | bttamako | 豚たま子 |  |  |
