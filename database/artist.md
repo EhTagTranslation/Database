@@ -9139,7 +9139,7 @@ example:
 | oshousui | 和尚吹 |  |  |
 | osora | 緒空 |  |  |
 | osterei | OSTEREi |  |  |
-| osuzu akiomi | 尾鈴明臣 | ![twitter](https://pbs.twimg.com/profile_images/1329031172/twitterProfilePhoto06_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Osuzu_) [pixiv](https://www.pixiv.net/users/174652) |
+| osuzu akiomi | 尾铃明臣 | ![twitter](https://pbs.twimg.com/profile_images/1329031172/twitterProfilePhoto06_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Osuzu_) [pixiv](https://www.pixiv.net/users/174652) |
 | osyakana | おしゃかな |  |  |
 | otakehiko | 雄竹彦 |  |  |
 | othello | オセロ |  |  |
