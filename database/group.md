@@ -12560,6 +12560,7 @@ example:
 | kokumaro chousei tounyuu | こくまろちょうせい豆乳 |  |  |
 | noya | 乃屋 |  |  |
 | touhikou | 陶惹好 |  |  |
+| yorunobando | 夜のバンド | 画师`mayonaka taroupho`所属同人社团。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
