@@ -12366,6 +12366,7 @@ example:
 | sekkei | 雪景 |  |  |
 | mouja | モウじゃ |  |  |
 | hararame | はららめ | ![twitter](https://pbs.twimg.com/profile_images/1579905321971380225/0_nyROFl_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/hararame) [pixiv](https://www.pixiv.net/users/68637808) |
+| shiba aya | 柴あや | ![twitter](https://pbs.twimg.com/profile_images/1370199627870265348/2JTk8vw7_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`shiba no shippo`主笔画师 | [twitter](https://twitter.com/S_hibaAya) [pixiv](https://www.pixiv.net/users/71559751) |
 
 <!--TEMPLATE:
 |  |  |  |  |
