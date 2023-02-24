@@ -270,7 +270,7 @@ example:
 | tenma femio | 天马ふぇみお |  |  |
 | kurusumin | 来须眠 |  |  |
 | chobi | ちょび |  |  |
-| norakuro nero | 野良黒ネロ |  |  |
+| norakuro nero | 野良黑ネロ |  |  |
 | izumi yuujiro | 泉ゆうじろ～ |  |  |
 | itameshi | 炒饭 |  |  |
 | hiraoka ryuichi | 平冈龙一 |  |  |
