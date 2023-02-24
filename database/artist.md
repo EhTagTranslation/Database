@@ -214,7 +214,7 @@ example:
 | yan-yam | Yan-Yam |  |  |
 | watanabe kenpo | 渡边宪法 |  |  |
 | kamiya zuzu | 神谷ズズ |  |  |
-| tsumumaru hifu | 紡丸ひふ |  |  |
+| tsumumaru hifu | 纺丸ひふ |  |  |
 | yasakani an | ヤサカニ·アン |  |  |
 | ayachi | あやち |  |  |
 | kurori | くろり |  |  |
