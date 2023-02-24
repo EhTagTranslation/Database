@@ -194,7 +194,7 @@ example:
 | kohaku. | こはく。 |  |  |
 | kousaka jun | 香坂纯 |  |  |
 | gerotan | げろたん |  |  |
-| kozakura kumaneko | 小桜クマネコ |  |  |
+| kozakura kumaneko | 小樱クマネコ |  |  |
 | distance | DISTANCE |  |  |
 | kawaraya a-ta | 瓦屋A太 |  |  |
 | usou | 雨草 |  |  |
