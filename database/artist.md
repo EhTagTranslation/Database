@@ -115,7 +115,7 @@ example:
 | bekkankou | べっかんこう |  | [Twitter](https://twitter.com/bekkankou) [个人网站](https://ameblo.jp/bekkankou) [日文维基](https://ja.wikipedia.org/wiki/べっかんこう) |
 | santa matsuri | さんた茉莉 |  | [Twitter](https://twitter.com/santamatsuri) [pixiv](https://www.pixiv.net/users/3426827) |
 | quick wiper | クイック賄派 | ![クイック賄派头像](https://i.loli.net/2020/04/18/QaZ7PHsoKhkfS9j.jpg) | [Twitter](https://twitter.com/quick_waipa) [pixiv](https://www.pixiv.net/users/321750) |
-| jigoku ouji | 地獄王子 | ![地獄王子头像](https://i.loli.net/2020/04/18/l1JGnPYv2QAxVbd.jpg) | [Twitter](https://twitter.com/jigoku_OG) [pixiv](https://www.pixiv.net/users/2078727) [个人网站](http://jigokuouji.blog27.fc2.com) |
+| jigoku ouji | 地狱王子 | ![地獄王子头像](https://i.loli.net/2020/04/18/l1JGnPYv2QAxVbd.jpg) | [twitter](https://twitter.com/jigoku_OG) [pixiv](https://www.pixiv.net/users/2078727) [个人网站](http://jigokuouji.blog27.fc2.com) |
 | kobayashi youkoh | 小林由高 |  | [Twitter](https://twitter.com/alemateorema) [pixiv](https://www.pixiv.net/users/1714956) |
 | saeki tatsuya | 佐伯达也 | ![佐伯達也头像](https://i.loli.net/2020/04/18/cxENSCUbJMBjl2D.jpg) | [Twitter](https://twitter.com/tomita1988) [pixiv](https://www.pixiv.net/users/3938991) |
 | mamo williams | まもウィリアムズ |  | [Twitter](https://twitter.com/mamowilliams) [pixiv](https://www.pixiv.net/users/7859) [日文维基](https://ja.wikipedia.org/wiki/まもウィリアムズ) |
