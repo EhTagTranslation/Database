@@ -204,7 +204,7 @@ example:
 | niimaru yuu | ニイマルユウ |  |  |
 | simon | さいもん |  | [Twitter](https://twitter.com/simon_ns) [pixiv](https://www.pixiv.net/users/476815) |
 | tanaka aji | 田中あじ |  |  |
-| unadon | うな丼 |  |  |
+| unadon | うな井 |  |  |
 | otakumin | オタクミン |  |  |
 | muneshiro | むねしろ |  |  |
 | haruki genia | はるきゲにあ |  |  |
