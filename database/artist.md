@@ -188,7 +188,7 @@ example:
 | interstellar | Interstellar |  |  |
 | mikeou | みけおう |  |  |
 | hinata nao | 日向奈尾 |  | [pixiv](https://www.pixiv.net/users/11887) |
-| sakurazaka tsuchiyu | 桜坂つちゆ |  |  |
+| sakurazaka tsuchiyu | 樱坂つちゆ |  |  |
 | yamakaze ran | やまかぜ嵐 |  |  |
 | anko | あん子 \| あんこ |  |  |
 | kohaku. | こはく。 |  |  |
