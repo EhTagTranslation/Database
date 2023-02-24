@@ -76,7 +76,7 @@ example:
 | watsuki rumi | わつきるみ |  | [Twitter](https://twitter.com/watsukiya) [pixiv](https://www.pixiv.net/users/4016086) [个人网站](https://www.watsuki.com) |
 | soramoti | そらモチ |  | [Twitter](https://twitter.com/soramoti00) [pixv](https://www.pixiv.net/users/82569) [个人网站](http://sorahina.web.fc2.com) |
 | blastbeat | BLASTBEAT |  | [Twitter](https://twitter.com/blast_beat) [pixiv](https://www.pixiv.net/users/56021) |
-| takashina at masato | 高階@聖人 |  | [Twitter](https://twitter.com/47st_people) [pixiv](https://www.pixiv.net/users/6889) |
+| takashina at masato | 高阶@圣人 |  | [Twitter](https://twitter.com/47st_people) [pixiv](https://www.pixiv.net/users/6889) |
 | shibayuki | しばゆき |  | [Twitter](https://twitter.com/famille201) [pixiv](https://www.pixiv.net/users/1531232) |
 | newmen | NeWMeN |  |  |
 | miyasaka miyu | 宮坂みゆ | `miyasaka naco`的姐姐<br>最喜欢吃东西和玩游戏的姐姐<br>![个人资料](https://i.loli.net/2020/04/13/vUnLPWkyIDgoYud.jpg) | [Twitter](https://twitter.com/miyu_miyasaka) [pixiv](https://www.pixiv.net/users/839617) |
