@@ -208,7 +208,7 @@ example:
 | otakumin | オタクミン |  |  |
 | muneshiro | むねしろ |  |  |
 | haruki genia | はるきゲにあ |  |  |
-| ikegami tatsuya | 池上竜矢 |  |  |
+| ikegami tatsuya | 池上龙矢 |  |  |
 | pony r | ポニーR |  |  |
 | sakura yuu | さくら★ゆう |  |  |
 | yan-yam | Yan-Yam |  |  |
