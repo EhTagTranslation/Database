@@ -11024,7 +11024,7 @@ example:
 | toryuu | 十竜 |  |  |
 | tos-tos-f-ski | とすとすFスキー |  |  |
 | tosa | トサ |  |  |
-| tosh | イモネイド寮長 |  |  |
+| tosh | tosh |  |  |
 | toshihiro | トシヒロ |  |  |
 | toshiki yuuji | としきゆうぢ |  |  |
 | toshio | としお |  |  |
