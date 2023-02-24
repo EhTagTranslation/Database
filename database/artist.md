@@ -135,7 +135,7 @@ example:
 | kittsu | キッツ |  | [Twitter](https://twitter.com/22wish) [pixiv](https://www.pixiv.net/users/5240837) |
 | neko toufu | 猫豆腐 | 和歌山县出身，现居东京都练马区。早期以同人创作为主，现在有多个原创系列，在芳文社，角川书局和一讯社都有连载系列。从《深夜雀食堂》开始小有名气，到《别当欧尼酱了》开始被中国网友熟知。 | [Twitter](https://twitter.com/nekotou) [pixiv](https://www.pixiv.net/users/159912) [萌娘百科](https://zh.moegirl.org.cn/zh-hans/猫豆腐) |
 | nagare hyo-go | 流ひょうご |  | [Twitter](https://twitter.com/ryusekido) [pixiv](https://www.pixiv.net/users/700059) |
-| mizuki gyokuran | 瑞姫玉蘭 |  | [Twitter](https://twitter.com/babycrepe87) [pixiv](https://www.pixiv.net/users/34357) |
+| mizuki gyokuran | 瑞姬玉兰 |  | [twitter](https://twitter.com/babycrepe87) [pixiv](https://www.pixiv.net/users/34357) |
 | tenchisouha | 天地争霸 |  | [Twitter](https://twitter.com/zakuro_chinoaji) [pixiv](https://www.pixiv.net/users/5301083) |
 | arui ryou | あるい椋 | ![あるい椋头像](https://i.jpg.dog/file/jpg-dog/06f3ae2be1d99386595328a7be31eef8.png) | [Twitter](https://twitter.com/arui00) [pixiv](https://www.pixiv.net/users/556217) |
 | sasamori tomoe | 笹森トモエ |  | [Twitter](https://twitter.com/sasamomi) [pixiv](https://www.pixiv.net/users/18255) |
