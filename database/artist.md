@@ -152,7 +152,7 @@ example:
 | billion | Billion |  |  |
 | nanao | ななお |  | [Twitter](https://twitter.com/mahayang0128) [pixiv](https://www.pixiv.net/users/119017) |
 | pirontan | ピロンタン |  |  |
-| tokyo yamane | 東京ヤマネ |  | [Twitter](https://twitter.com/tuki_hika) [pixiv](https://www.pixiv.net/users/1492752) |
+| tokyo yamane | 东京0ヤマネ |  | [twitter](https://twitter.com/tuki_hika) [pixiv](https://www.pixiv.net/users/1492752) |
 | yuki higasinakano | ゆーき東中野 |  |  |
 | nosada | 乃定 |  |  |
 | yukibuster z | ユキバスターZ |  | [Twitter](https://twitter.com/yukibusterz1) [pixiv](https://www.pixiv.net/users/2697420) |
