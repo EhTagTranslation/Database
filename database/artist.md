@@ -242,7 +242,7 @@ example:
 | taniguchi-san | 谷口さん |  |  |
 | amou mari | 天羽真理 |  |  |
 | tsuttsu | つっつ |  |  |
-| minarai zouhyou | 見習い雑兵 |  |  |
+| minarai zouhyou | 见习杂兵 |  |  |
 | aya | AYA \| 蓝夜 | ※此条标签可能指向两个作者<br>①同人志创作者 **AYA**<br>同人社团`ojou no yokushitsu`的作画担当之一。<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>![图](https://ehgt.org/1c/2d/1c2d52a48a403fe203fa94607937747798466e18-3923970-3945-5565-jpg_l.jpg)<br>AYA老师目前已不在继续同人创作，在Youtube上以发布绘画实况或初学者教程活动中。<br><br>②画师，成人向同人志创作者 **藍夜**<br>同人社团`twilight dusk`，作品以`lolicon`系居多。<br>![图](# "https://ehgt.org/29/3c/293cb85d1b045796133d5446575bb2ec0abf0954-1195739-1062-1500-jpg_l.jpg") | [藍夜 Pixiv](https://www.pixiv.net/users/220396) [藍夜 Twitter](https://twitter.com/ayasisu)<br>[AYA - Twitter](https://twitter.com/aya_ojo) [AYA - Youtube](https://www.youtube.com/c/星乃RAKUGAKIX) |
 | oi shibako | しばこ（司马淳子） |  |  |
 | sato-satoru | さとーさとる |  |  |
