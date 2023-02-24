@@ -164,7 +164,7 @@ example:
 | minazuki mikka | 水无月三日 |  |  |
 | minazuki juuzou | 水无月十三 | 水無月十三。漫画家。老师画的`ahegao`真的超色<br><br>![PixivIcon](# "https://i.pixiv.cat/user-profile/img/2015/01/04/15/04/56/8802247_d50c3e540cb030dd969c3d01814b855d_170.jpg") | [Twitter](https://twitter.com/k8FW3om1NMPUbZk) [Pixiv](https://www.pixiv.net/users/13246744) |
 | minazuki tooru | 水无月彻 |  |  |
-| minazuki no-mu | 水無月のーむ |  |  |
+| minazuki no-mu | 水无月のーむ |  |  |
 | minazuki satoshi | 水無月サトシ |  |  |
 | minazuki futago | みなづきふたご |  |  |
 | minazuki tsuyuha | 水无月露叶 |  |  |
