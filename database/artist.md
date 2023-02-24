@@ -274,7 +274,7 @@ example:
 | izumi yuujiro | 泉ゆうじろ～ |  |  |
 | itameshi | 炒饭 |  |  |
 | hiraoka ryuichi | 平冈龙一 |  |  |
-| maguro teikoku | まぐろ帝國 |  |  |
+| maguro teikoku | まぐろ帝国 |  |  |
 | pote | ぽて |  |  |
 | karakuchi choucream | 辛口しゅーくりーむ |  |  |
 | mafen | マフェン |  |  |
