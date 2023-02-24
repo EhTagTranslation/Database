@@ -278,7 +278,7 @@ example:
 | pote | ぽて |  |  |
 | karakuchi choucream | 辛口しゅーくりーむ |  |  |
 | mafen | マフェン |  |  |
-| kuroda kuro | 黒田クロ |  |  |
+| kuroda kuro | 黑田クロ |  |  |
 | ooooalikui | おおおおありくい |  |  |
 | juna juna juice | ジュナジュナジュース |  |  |
 | hiro hiroki | ひろひろき |  |  |
