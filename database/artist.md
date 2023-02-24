@@ -173,7 +173,7 @@ example:
 | okumori boy | 奥森ボウイ |  |  |
 | sahara wataru | 砂原涉 |  |  |
 | amano kazumi | 天乃一水 | 天乃一水（别用名：平いっすい）是日本成人向漫画家。<br>![图](https://pbs.twimg.com/profile_images/1189489451451351040/2XUrluXT_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/fc/55/fc5509356683016442da3a9ef6e1ae74cd6606e7-775937-1054-1500-jpg_l.jpg")<br>《兄上がケダモノすぎて迷惑すぎる。 》 | [Twitter](https://twitter.com/amanoissui) [Pixiv](https://twitter.com/amanoissui) |
-| ichiyo moka | 一葉モカ |  |  |
+| ichiyo moka | 一叶モカ |  |  |
 | naturalton | なちゅらるとん |  |  |
 | aono ribbon | 青野りぼん |  | [pixiv](https://www.pixiv.net/users/215798) [Twitter](https://twitter.com/ribbon_aono) |
 | hidaka toworu | ヒダカトヲル |  |  |
