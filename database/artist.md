@@ -180,7 +180,7 @@ example:
 | rara8 | らら8 |  |  |
 | medaka kenichi | 目高健一 |  |  |
 | kanna | かん奈 |  |  |
-| kazabuki poni | 風吹ぽに |  |  |
+| kazabuki poni | 风吹ぽに |  |  |
 | ouma tokiichi | 逢魔刻壹 |  | [Twitter](https://twitter.com/touma00) [pixiv](https://www.pixiv.net/users/23239) |
 | momonoki fum | 百乃木富梦 |  |  |
 | miito shido | 三糸シド |  |  |
