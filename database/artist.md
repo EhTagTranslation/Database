@@ -267,7 +267,7 @@ example:
 | katou chakichi | 加藤茶吉 |  |  |
 | taono kinoko | 汰尾乃きのこ |  |  |
 | aikawa monako | あいかわモナコ |  |  |
-| tenma femio | 天馬ふぇみお |  |  |
+| tenma femio | 天马ふぇみお |  |  |
 | kurusumin | 来须眠 |  |  |
 | chobi | ちょび |  |  |
 | norakuro nero | 野良黒ネロ |  |  |
