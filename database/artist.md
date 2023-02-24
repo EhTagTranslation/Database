@@ -145,7 +145,7 @@ example:
 | kasi | 華師 | ![華師头像](https://i.jpg.dog/file/jpg-dog/d268e06f5d2b6ccb06234fa10582e621.jpg) | [Twitter](https://twitter.com/sitekasi) [pixiv](https://www.pixiv.net/users/124630) |
 | cheru | ちぇる |  |  |
 | umedama nabu | 梅玉奈部 |  | [Twitter](https://twitter.com/umedama_black) |
-| aranmaru | 亞蘭丸 |  | [Twitter](https://twitter.com/rensanma) [pixiv](https://www.pixiv.net/users/367218) |
+| aranmaru | 亚兰丸 |  | [twitter](https://twitter.com/rensanma) [pixiv](https://www.pixiv.net/users/367218) |
 | tachibana omina | 立花オミナ | ![立花オミナ头像](https://i.jpg.dog/file/jpg-dog/2797d0df1e051788f5694e14d9fd5c5c.png) | [Twitter](https://twitter.com/t_omina) [pixiv](https://www.pixiv.net/users/1248038) [日文维基](https://ja.wikipedia.org/wiki/立花オミナ) |
 | ibuki ren | 伊吹莲 |  |  |
 | uran | URAN \| 雨兰 | 雨蘭，别用名：橋本還。漫画家。作品角色主要以`lolicon`为主。<br>作者已上岸，以白泉社出版社创作全年龄向的`lolicon`漫画作品。<br>代表作品《`mujaki no rakuen`》<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2017/12/06/10/30/25/13532416_dbde5a708aebeecbfc05926c78e55299_170.jpg) | [Pixiv](https://www.pixiv.net/users/8072201) [Wikipedia](https://zh.wikipedia.org/wiki/雨蘭) |
