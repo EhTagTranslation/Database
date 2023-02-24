@@ -8990,7 +8990,7 @@ example:
 | ojii | おじい |  |  |
 | ojii-chan | おじいちゃん |  |  |
 | okabayashi beru | 岡林べる |  |  |
-| okada kojiko | 岡田こじ子 |  |  |
+| okada kojiko | 冈田こじ子 |  |  |
 | okada reimi | 冈田れいみ |  |  |
 | okagiri shou | 岡霧硝 |  |  |
 | okama | OKAMA |  |  |
