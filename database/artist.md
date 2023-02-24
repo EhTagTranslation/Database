@@ -292,7 +292,7 @@ example:
 | sadokko | さどっこ |  |  |
 | izumi | 和泉 |  |  |
 | reizei | 冷泉 |  |  |
-| petenshi | ペテン師 |  |  |
+| petenshi | ペテン师 |  |  |
 | maruwa tarou | 丸和太郎 |  | [Twitter](https://twitter.com/maruwatarou) [pixiv](https://www.pixiv.net/users/12088) |
 | fujishima sei1go | 藤岛制1号 |  |  |
 | nanotsuki | なのつき |  |  |
