@@ -260,7 +260,7 @@ example:
 | carn | 夏庵 |  |  |
 | okada kou | 岡田コウ | 岡田コウ是日本的漫画家。女性。主要创作成人向`lolicon`系漫画。<br><br>作者初期一边从事公司办公室的工作，一边创作`yaoi`、`shotacon`系的同人漫画进行活动，2006年受正太系漫画合集《少年嗜好》的提名，商业出道。之后，继续经过接收创作请求，刊登正太系或触手系的合集，开始在男性向的合集和成年漫画杂志《COMIC ino》上发表作品，在2008年辞掉了办公室的工作，成为专业漫画家。<br>2010年，在2channel上举行的投票中，以作品《チュー学生日記》获得色情漫画大赏第一名。<br>![图](https://pbs.twimg.com/profile_images/1026229633283289088/ntSwoT9X_400x400.jpg)<br>**作者推特头像**<br>社团：`okadatei`<br>荣誉作品：《チュー学生日記》<br>![图](# "https://ehgt.org/4e/45/4e455e818167f50d4919b13056a338cd78550cd6-712835-1287-1600-jpg_l.jpg") | [Twitter](https://twitter.com/gazookada) [Pixiv](https://www.pixiv.net/users/406758) |
 | neko pantsu | ねこパンツ |  |  |
-| suzunone rena | 鈴音れな |  | [Twitter](https://twitter.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
+| suzunone rena | 铃音れな |  | [twitter](https://twitter.com/suzunonerena) [pixiv](https://www.pixiv.net/users/748444) |
 | miyabi | 美矢火 | ![twitter](https://pbs.twimg.com/profile_images/1139806826306760704/5xsFg_vY_400x400.png)<br><br>**作者推特头像**<br><br>comic bavel作者，以描绘婀娜多姿的女高中生角色见长。 | [twitter](https://twitter.com/manga_works) [pixiv](https://www.pixiv.net/users/9342232) |
 | pochi. | ぽち。 |  |  |
 | hayami jun | 早见纯 |  |  |
