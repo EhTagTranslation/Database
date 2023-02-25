@@ -4467,6 +4467,7 @@ example:
 | mizuki nakahara | 中原瑞希 | 所属作品: `p:lycoris recoil`<br><br>留着棕色长卷发，带着红框眼镜。前Direct Attack的情报部员，与千束长年合作。总是一边喝酒一边看着结婚杂志。继续当着咖啡店员等待新的邂逅。整天抱怨「没有帅哥」来店里的残念系女子。<br>![](https://static.wikia.nocookie.net/lycoris-recoil/images/1/1e/Mizuki_Nakahara.png) | [萌娘百科](https://zh.moegirl.org.cn/中原瑞希) [Fandom](https://lycoris-recoil.fandom.com/wiki/Mizuki_Nakahara) |
 | senji muramasa | 千子村正 |  |  |
 | hinagiku katsura | 桂雏菊 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/zh/桂雏菊) [维基百科](https://zh.wikipedia.org/wiki/桂雏菊) [Fandom](https://hayatenogotoku.fandom.com/wiki/Hinagiku_Katsura) |
+| isumi saginomiya | 鹭之宫伊澄 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/鹭之宫伊澄) [Fandom](https://hayatenogotoku.fandom.com/wiki/Isumi_Saginomiya) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
