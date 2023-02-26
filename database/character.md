@@ -4469,6 +4469,7 @@ example:
 | hinagiku katsura | 桂雏菊 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/zh/桂雏菊) [维基百科](https://zh.wikipedia.org/wiki/桂雏菊) [Fandom](https://hayatenogotoku.fandom.com/wiki/Hinagiku_Katsura) |
 | isumi saginomiya | 鹭之宫伊澄 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/鹭之宫伊澄) [Fandom](https://hayatenogotoku.fandom.com/wiki/Isumi_Saginomiya) |
 | nagi sanzenin | 三千院凪 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/zh/三千院凪) |
+| marie | 玛丽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
