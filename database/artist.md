@@ -12370,6 +12370,7 @@ example:
 | kiyoshi | キヨシ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56477.html) |
 | shiworiita | シヲリイタ | ![twitter](https://pbs.twimg.com/profile_images/1350128631176069120/qeg7BWqH_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kktakosu) [pixiv](https://www.pixiv.net/users/2417030) |
 | kitakawa touta | 北河トウタ |  |  |
+| okiha | 沖葉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
