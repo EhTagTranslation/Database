@@ -12372,6 +12372,7 @@ example:
 | kitakawa touta | 北河トウタ |  |  |
 | okiha | 沖葉 |  |  |
 | uekura eku | 上倉エク |  | [Twitter](https://twitter.com/ekureea) [pixiv](https://www.pixiv.net/users/299299) |
+| dendoro kakariya | 澱泥カカリヤ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
