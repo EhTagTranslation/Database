@@ -4471,6 +4471,7 @@ example:
 | nagi sanzenin | 三千院凪 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/zh/三千院凪) |
 | marie | 玛丽 |  |  |
 | fuyutsuki | 冬月 | 舰队collection角色 | [https://zh.kcwiki.cn/wiki/冬月](https://zh.kcwiki.cn/wiki/冬月) |
+| tsukasa ayatsuji | 绚辻词 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
