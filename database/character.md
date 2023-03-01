@@ -4473,6 +4473,7 @@ example:
 | fuyutsuki | 冬月 | 舰队collection角色 | [https://zh.kcwiki.cn/wiki/冬月](https://zh.kcwiki.cn/wiki/冬月) |
 | tsukasa ayatsuji | 绚辻词 |  |  |
 | ai nanasaki | 七咲逢 |  |  |
+| haruka morishima | 森岛遥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
