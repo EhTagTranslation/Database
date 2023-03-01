@@ -12373,6 +12373,7 @@ example:
 | okiha | 沖葉 |  |  |
 | uekura eku | 上倉エク |  | [Twitter](https://twitter.com/ekureea) [pixiv](https://www.pixiv.net/users/299299) |
 | dendoro kakariya | 澱泥カカリヤ |  |  |
+| cucchiore | くっきおーれ |  | [pixiv](https://www.pixiv.net/users/15224722) |
 
 <!--TEMPLATE:
 |  |  |  |  |
