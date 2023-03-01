@@ -12374,6 +12374,7 @@ example:
 | uekura eku | 上倉エク |  | [Twitter](https://twitter.com/ekureea) [pixiv](https://www.pixiv.net/users/299299) |
 | dendoro kakariya | 澱泥カカリヤ |  |  |
 | cucchiore | くっきおーれ |  | [pixiv](https://www.pixiv.net/users/15224722) |
+| konbu wakame | 昆布わかめ |  | [Twitter](https://twitter.com/aconbwakame) [pixiv](https://www.pixiv.net/users/1076594) |
 
 <!--TEMPLATE:
 |  |  |  |  |
