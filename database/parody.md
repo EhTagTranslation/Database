@@ -2106,6 +2106,7 @@ example:
 | spy kyoushitsu | 间谍教室 | 《间谍教室》（日语：スパイ教室）是竹町所著的日本轻小说系列，由Tomari担纲插画。2020年1月开始出版至今共12卷（本篇9卷、短篇集3卷），由KADOKAWA旗下的富士见Fantasia文库发行。第32届Fantasia大奖得奖作品。《这本轻小说真厉害！2021》文库类别以及新作类别第2位。 | [维基百科](https://zh.wikipedia.org/wiki/間諜教室) |
 | galaxy cyclone braiger | 银河旋风 | 《银河旋风》（原题：銀河旋風ブライガー）是由国际映画社所制作的机器人动画，并在东京电视台于1981年10月6日至1982年6月25日期间播出，全39集。为“J9系列”三部曲的第一部作品。 | [维基百科](https://zh.wikipedia.org/wiki/銀河旋風) |
 | mahou shoujo nante mouiidesukara. | 魔法少女什么的已经够了啦。 |  |  |
+| tom clancys rainbow six | 彩虹六号 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
