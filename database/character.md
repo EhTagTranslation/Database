@@ -4477,6 +4477,7 @@ example:
 | miya tachibana | 橘美也 |  |  |
 | sae nakata | 中多纱江 |  |  |
 | rihoko sakurai | 樱井梨穂子 |  |  |
+| yukiko amagi | 天城雪子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
