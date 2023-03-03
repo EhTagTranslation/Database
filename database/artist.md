@@ -12375,6 +12375,7 @@ example:
 | dendoro kakariya | 澱泥カカリヤ |  |  |
 | cucchiore | くっきおーれ |  | [pixiv](https://www.pixiv.net/users/15224722) |
 | konbu wakame | 昆布わかめ |  | [Twitter](https://twitter.com/aconbwakame) [pixiv](https://www.pixiv.net/users/1076594) |
+| omusubi korori | 緒結ころり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
