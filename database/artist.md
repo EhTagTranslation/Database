@@ -12378,6 +12378,7 @@ example:
 | omusubi korori | 緒結ころり |  |  |
 | memeyu | めめゆ |  |  |
 | onokana | 斧カナ |  |  |
+| masuda miyaka | 枠田ちさき \| 増田ミヤカ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
