@@ -12377,6 +12377,7 @@ example:
 | konbu wakame | 昆布わかめ |  | [Twitter](https://twitter.com/aconbwakame) [pixiv](https://www.pixiv.net/users/1076594) |
 | omusubi korori | 緒結ころり |  |  |
 | memeyu | めめゆ |  |  |
+| onokana | 斧カナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
