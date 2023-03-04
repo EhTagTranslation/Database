@@ -1350,7 +1350,7 @@ example:
 | nanappe | 七っぺ |  |  |
 | akeyama kitsune | 绯山狐 |  |  |
 | sakura | 樱 | 多个作者：櫻 \| sakura \| さくら<br>sakura：<br>![萌](# "https://ehgt.org/4e/9f/4e9fbfbb3627393542f8d969b300b09cc1f6d95f-1737501-2851-2000-jpg_l.jpg")<br>さくら：<br>![瞎](# "https://ehgt.org/18/0f/180f8c6691fd132261b68376f3f511084bdbd0e9-897960-1100-1567-jpg_l.jpg") |  |
-| yakiniku king | 焼肉キング |  |  |
+| yakiniku king | 烧肉キング |  |  |
 | nekoi hikaru | 猫伊光 |  |  |
 | inanaki shiki | 稻鸣四季 |  |  |
 | tohgarashi hideyu | 唐辛子ひでゆ |  |  |
