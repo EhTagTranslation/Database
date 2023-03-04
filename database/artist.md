@@ -10755,7 +10755,7 @@ example:
 | tariyoshi | たりよし |  |  |
 | taro | taro |  |  |
 | taro-san | たろさん |  |  |
-| taropun | たるプン |  |  |
+| taropun | たろプン | ![twitter](https://pbs.twimg.com/profile_images/1216123523732606978/vwniUMDx_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/taropun) [pixiv](https://www.pixiv.net/users/17003367) |
 | taroro | たろろ |  |  |
 | tarte | タルト |  |  |
 | tarutarugungun | たるたるぐんぐん |  |  |
