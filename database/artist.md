@@ -12382,6 +12382,7 @@ example:
 | arima zin | 有马侭 | ![twitter](https://pbs.twimg.com/profile_images/1414471320104935427/DvAdBhYf_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/arimazin1) [pixiv](https://www.pixiv.net/users/70681466) |
 | silver dog | シルバードッグ |  |  |
 | shihira tatsuya | 四平龙也 |  |  |
+| aoki seishin | 碧木诚心 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
