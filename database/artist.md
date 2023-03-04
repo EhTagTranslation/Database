@@ -6496,7 +6496,7 @@ example:
 | kamikaze miyabi | 神風雅 |  |  |
 | kamimaki enpitsu | 紙巻エンピツ |  |  |
 | kaminaru fuyu | 神鳴る冬 |  |  |
-| kamino ryu-ya | 上乃龍也 |  |  |
+| kamino ryu-ya | 上乃龙也 | ![twitter](https://pbs.twimg.com/profile_images/1028100986299080704/q_mxNeSg_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kaminoryuya) |
 | kamio 96 | 神尾96 |  |  |
 | kamiryou kaduki | 上嶺榎月 |  |  |
 | kamisae ryouya | 上冴良夜 |  |  |
