@@ -6796,7 +6796,7 @@ example:
 | ketama | けたま |  |  |
 | ketarou | 毛太郎 |  |  |
 | ketsudrum | ケツドラム |  |  |
-| keuma | 希有馬 |  |  |
+| keuma | 希有马 |  |  |
 | key | きい |  |  |
 | keyneq | きーねく |  |  |
 | kh | KH |  |  |
