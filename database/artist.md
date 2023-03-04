@@ -11617,7 +11617,7 @@ example:
 | yaomai | やおまい |  |  |
 | yappen | ヤッペン |  |  |
 | yappy | yappy |  |  |
-| yarii shimeta | 槍衣七五三太 |  |  |
+| yarii shimeta | 枪衣七五三太 | ![twitter](https://pbs.twimg.com/profile_images/1399318088256872450/h8vVZRuf_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/yarii753TA) |
 | yas | yas |  |  |
 | yasaka | 弥栄 |  |  |
 | yasaka minato | 八坂ミナト |  |  |
