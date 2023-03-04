@@ -1395,7 +1395,7 @@ example:
 | sorairo inn | 空色イン |  |  |
 | ecchi na taikendan kokuhaku toukou otoko jyuku | エッチな体験談告白投稿男塾 |  |  |
 | kuramochi zukan | 仓持图鉴 |  |  |
-| uran no yakata | 雨蘭の館 |  |  |
+| uran no yakata | 雨兰の馆 | 画师`uran`所属同人社团 |  |
 | tears39 | Tears39 |  |  |
 | milkberry | milkberry | 如月みゆ |  |
 | gyoniku | 鱼肉 |  |  |
