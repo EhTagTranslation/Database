@@ -785,7 +785,7 @@ example:
 | moroha | 乙 |  |  |
 | naitou satoshi | 乃藤悟志 |  |  |
 | oonuki makuri | 大貫まくり |  |  |
-| sabashi renya | 左橋レンヤ |  |  |
+| sabashi renya | 左桥レンヤ | ![twitter](https://pbs.twimg.com/profile_images/1535642520302284802/5sUivJLR_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/renyasabashi) |
 | t.k-1 | T.K-1 |  |  |
 | tachibana surimu | 橘すりむ |  |  |
 | takahashi kobato | 高橋こばと |  |  |
