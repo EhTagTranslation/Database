@@ -6572,7 +6572,7 @@ example:
 | ketchup aji no mayonnaise | ケチャップ味のマヨネーズ |  |  |
 | ketsudon teishoku | ケツ丼定食 |  |  |
 | ketsune cyadokoro | けつね茶処 |  |  |
-| keumaya | 希有馬屋 |  |  |
+| keumaya | 希有马屋 |  |  |
 | keyspa | きーすぱ |  |  |
 | kezukaya | 毛塚屋 |  |  |
 | kf | KF |  |  |
