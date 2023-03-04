@@ -150,7 +150,7 @@ example:
 | electromagneticwave | ElectromagneticWave | ![logo](http://www.ne.jp/asahi/magneticwave/popcan/top5_logo.gif)<br>`moetan` 作者 `pop` 所在的社团<br>![萌单](http://www.ne.jp/asahi/magneticwave/popcan/cafe.jpg) | [社团官方网站](http://www.ne.jp/asahi/magneticwave/popcan/) |
 | usotsukiya | 嘘つき屋 | 大嘘的社团名，袜控，女子高中生画家<br>![大嘘作品](https://ehgt.org/72/3c/723ca0e20e7cbf1b9f83c3a082c37b560de437aa-2602261-1787-2500-jpg_250.jpg) |  |
 | archetype | ARCHETYPE | `akaza`的社团名，袜控。<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") |  |
-| afterschool of the 5th year | 5年目の放課後 | `kantoku`的社团名。<br>![Kantoku作品](https://ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg) |  |
+| afterschool of the 5th year | 5年目の放课后 | ![Kantoku作品](https://ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg)<br><br>画师`kantoku`所属的同人的社团。 |  |
 | tsf no f | TSF的F | 以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](# "https://ehgt.org/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg") |  |
 | number2 | ![Logo](https://user-images.githubusercontent.com/13471233/115440941-e1840900-a242-11eb-9d2f-f5e290589979.png)Number2 | ![Banner](https://user-images.githubusercontent.com/13471233/115440864-ce713900-a242-11eb-9e51-7d239e3e1c5c.png)<br>![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) | [官方网站](http://number2-takuji.com) [Twitter](https://twitter.com/number2_takuji) |
 | plant | PLANT |  |  |
