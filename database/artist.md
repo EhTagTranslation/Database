@@ -4231,7 +4231,7 @@ example:
 | ariko | 亜璃子 |  |  |
 | arima | ありま |  |  |
 | arima jun | 有馬じゅん |  |  |
-| arima keitarou | 有馬啓太郎 |  |  |
+| arima keitarou | 有马启太郎 | ![twitter](https://pbs.twimg.com/profile_images/1485282455334830080/Bd6Aeexc_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/aryiaman) |
 | arima you | 有馬有 |  |  |
 | arima yutaka | 有馬ゆたか |  |  |
 | arimori haru | 在森 晴 |  |  |
