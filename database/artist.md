@@ -12383,6 +12383,7 @@ example:
 | silver dog | シルバードッグ |  |  |
 | shihira tatsuya | 四平龙也 |  |  |
 | aoki seishin | 碧木诚心 |  |  |
+| tachibana takashi | 橘孝志 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
