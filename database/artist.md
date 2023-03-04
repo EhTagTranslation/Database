@@ -2316,7 +2316,7 @@ example:
 | misuroma | みすろま |  |  |
 | kabe umari-ko | 壁埋まり子 |  |  |
 | crowly | くろうり |  |  |
-| sekiya asami | 関谷あさみ | 関谷あさみ是日本漫画家，女性。<br>作品主要以少女或`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/834356718888853504/I4KgVMh2_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/af/0b/af0b43ac52f43e5afa096865d18ecf947fdd04fd-1647346-1057-1500-png_l.jpg")<br>单行本《ラフスケッチ》 | [Twitter](https://twitter.com/fkfk_oftn) |
+| sekiya asami | 关谷あさみ | 女性漫画家。<br>作品主要以少女或`lolicon`系为主。<br><br>![图](https://pbs.twimg.com/profile_images/834356718888853504/I4KgVMh2_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/af/0b/af0b43ac52f43e5afa096865d18ecf947fdd04fd-1647346-1057-1500-png_l.jpg")<br>单行本《ラフスケッチ》 | [twitter](https://twitter.com/fkfk_oftn) |
 | nananana | ナナナナ |  |  |
 | cafekun | cafekun |  | [pixiv](https://www.pixiv.net/users/533550) |
 | hataraki ari | ハタラキ有 |  | [pixiv](https://www.pixiv.net/users/80155) [个人主页](http://www.hatarakiari.com/) |
