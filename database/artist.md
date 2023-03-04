@@ -4232,7 +4232,7 @@ example:
 | arima | ありま |  |  |
 | arima jun | 有马纯 |  |  |
 | arima keitarou | 有马启太郎 | ![twitter](https://pbs.twimg.com/profile_images/1485282455334830080/Bd6Aeexc_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/aryiaman) |
-| arima you | 有馬有 |  |  |
+| arima you | 有马有 |  |  |
 | arima yutaka | 有马ゆたか |  |  |
 | arimori haru | 在森 晴 |  |  |
 | arimura ario | 有村ありお |  |  |
