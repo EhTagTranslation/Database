@@ -10642,7 +10642,7 @@ example:
 | takeshita kenjirou | 竹下けんじろう |  |  |
 | taketora suzume | 竹虎スズメ |  |  |
 | takeu | たけう |  |  |
-| takeuchi reona | 竹内冷於奈 |  |  |
+| takeuchi reona | 竹内玲于奈 |  |  |
 | takeuma | たけうま |  |  |
 | takewakamaru | 武若丸 |  |  |
 | takewan | たけわん |  |  |
