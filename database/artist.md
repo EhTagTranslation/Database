@@ -2437,7 +2437,7 @@ example:
 | kobuichi | 小舞一 | 小舞一（こぶいち）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的梦璃凛画风极其相似（柚子脸元凶）。 | [Twitter](https://twitter.com/kobuichi) |
 | yaneko uta | 弥猫うた |  |  |
 | kirisaki byakko | 雾咲白狐 |  |  |
-| bareisho | 马铃薯 |  |  |
+| bareisho | 马铃薯 | ![twitter](https://pbs.twimg.com/profile_images/1337775408142422018/TMWrGbvL_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/ba_reisho) [HP](https://bareishobatake.wixsite.com/oimobatake) |
 | wakadori nikomi | 若鶏にこみ |  |  |
 | shikitani asuka | 色谷あすか |  | [Twitter](https://twitter.com/sikitani_asuka) [pixiv](https://www.pixiv.net/users/3188698) |
 | furisuku | ふりすく |  |  |
