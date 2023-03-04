@@ -12564,6 +12564,7 @@ example:
 | shiba no shippo | しばのしっぽ | 画师`shiba aya`所属同人社团 |  |
 | futsu-no-tapioca-yasan | ふつうのタピオカやさん |  |  |
 | ushinomaruyaki | ウシノマルヤキ |  |  |
+| silver dog | シルバードッグ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
