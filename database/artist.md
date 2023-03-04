@@ -2754,7 +2754,7 @@ example:
 | john | じょん |  | [pixiv](https://www.pixiv.net/users/4123270) [Twitter](https://twitter.com/soratouenban104) |
 | tamaki kurou | 鐶九朗 |  | [pixiv](https://www.pixiv.net/users/2409) [Twitter](https://twitter.com/tamaki96) |
 | haiba | 灰叶 |  | [pixiv](https://www.pixiv.net/users/9180731) |
-| makita yoshiharu | 巻田佳春 |  | [pixiv](https://www.pixiv.net/users/3869) [Twitter](https://twitter.com/yoshi_makita) |
+| makita yoshiharu | 卷田佳春 | ![twitter](https://pbs.twimg.com/profile_images/1374845190280683522/CUwsJnY0_400x400.jpg)<br><br>**作者推特头像** | [pixiv](https://www.pixiv.net/users/3869) [twitter](https://twitter.com/yoshi_makita) |
 | asahiru yuu | 浅ひるゆう |  | [pixiv](https://www.pixiv.net/users/1026882) [Twitter](https://twitter.com/YOUmacaron) |
 | rokumaru inami | 六丸いなみ |  | [pixiv](https://www.pixiv.net/users/14188853) [Twitter](https://twitter.com/173_roku) |
 | mogu | モグ |  | [pixiv](https://www.pixiv.net/users/2727119) [Twitter](https://twitter.com/MoGu_1i27) |
