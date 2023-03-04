@@ -2741,7 +2741,7 @@ example:
 | oyabe ryo | 小矢部亮 |  | [Twitter表账号](https://twitter.com/nightcoat) [Twitter里账号](https://twitter.com/oybryo08) [pixiv](https://www.pixiv.net/users/12868244) |
 | naoharu | 直晴 | 直晴（浦歩あん） | [Twitter](https://twitter.com/nao_reb) [pixiv](https://www.pixiv.net/users/103836) |
 | tamashii carnival botamochi | 魂カーニバルぼたもち | ![魂カーニバルぼたもち头像](https://i.jpg.dog/file/jpg-dog/3c8d3dfcf7dd06682fc750cd6afa85d5.png) | [Twitter](https://twitter.com/R_botamochi) [pixiv](https://www.pixiv.net/users/1035537) |
-| arima kouichi | 有馬紘一 |  |  |
+| arima kouichi | 有马纮一 | ![twitter](https://pbs.twimg.com/profile_images/1439975133116964866/dfw81CST_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/k1arim8) [pixiv](https://www.pixiv.net/users/2512926) |
 | kamochome | かもちょめ |  |  |
 | horny-oni | Horny-Oni |  |  |
 | sora ni tori ga | 空に鳥が |  |  |
