@@ -12369,7 +12369,7 @@ example:
 | shiba aya | 柴あや | ![twitter](https://pbs.twimg.com/profile_images/1370199627870265348/2JTk8vw7_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`shiba no shippo`主笔画师 | [twitter](https://twitter.com/S_hibaAya) [pixiv](https://www.pixiv.net/users/71559751) |
 | kiyoshi | キヨシ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56477.html) |
 | shiworiita | シヲリイタ | ![twitter](https://pbs.twimg.com/profile_images/1350128631176069120/qeg7BWqH_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kktakosu) [pixiv](https://www.pixiv.net/users/2417030) |
-| kitakawa touta | 北河トウタ |  |  |
+| kitakawa touta | 北河トウタ | ![twitter](https://pbs.twimg.com/profile_images/1417287463630897153/V4c9EQ8V_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kitakawat) |
 | okiha | 沖葉 |  |  |
 | uekura eku | 上倉エク |  | [Twitter](https://twitter.com/ekureea) [pixiv](https://www.pixiv.net/users/299299) |
 | dendoro kakariya | 澱泥カカリヤ |  |  |
