@@ -356,7 +356,7 @@ example:
 | diga tsukune | 奈賀つくね |  |  |
 | cha mirai | 茶みらい |  |  |
 | serizawa | 芹泽 |  |  |
-| toono suika | 遠野すいか |  |  |
+| toono suika | 远野西瓜 | 遠野すいか<br><br>![twitter](https://pbs.twimg.com/profile_images/971049591893213184/UQ8RoebZ_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/suikaMJ) [pixiv](https://www.pixiv.net/users/119317) |
 | pierre yoshio | ピエ～ル☆よしお |  |  |
 | shinji mao | 真慈真雄 |  |  |
 | aoi manabu | あおいまなぶ |  |  |
