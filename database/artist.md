@@ -12378,7 +12378,7 @@ example:
 | omusubi korori | 緒結ころり |  |  |
 | memeyu | めめゆ |  |  |
 | onokana | 斧カナ |  |  |
-| masuda miyaka | 増田ミヤカ |  |  |
+| masuda miyaka | 枠田ちさき | ![twitter](https://pbs.twimg.com/profile_images/1373709940196397059/G7JkQgaq_400x400.jpg)<br><br>**作者推特头像**<br><br>枠田ちさき(wakuta chisaki)与増田ミヤカ(masuda miyaka)非同一作者，ehwiki分类有误。 | [twitter](https://twitter.com/WakutaChisaki) [pixiv](https://www.pixiv.net/users/3444572) |
 | arima zin | 有马侭 | ![twitter](https://pbs.twimg.com/profile_images/1414471320104935427/DvAdBhYf_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/arimazin1) [pixiv](https://www.pixiv.net/users/70681466) |
 | silver dog | シルバードッグ |  |  |
 
