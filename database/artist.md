@@ -10034,7 +10034,7 @@ example:
 | shikanari | シカナリ |  |  |
 | shikata haru | 志方ハル |  |  |
 | shikato miyo | しかとみよ |  |  |
-| shiki satoshi | 士貴智志 |  |  |
+| shiki satoshi | 土贵智志 |  |  |
 | shikigami azuma | しきがみあずま |  |  |
 | shikimura | しきむら |  |  |
 | shikino | シキノ |  |  |
