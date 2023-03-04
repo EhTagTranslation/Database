@@ -3580,7 +3580,7 @@ example:
 | kazepana | かぜぱな |  |  |
 | gyouza teishoku | ギョウザテイショク |  |  |
 | kyouichirou | 狂一郎 |  | [pixiv](https://www.pixiv.net/users/13457553) |
-| kuon michiyoshi | 久遠ミチヨシ |  |  |
+| kuon michiyoshi | 久远道义 | 男女二人的漫画家组合<br><br>![twitter](https://pbs.twimg.com/profile_images/933838566945255424/Y4GfWWwM_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/quon_michi) [HP](https://misskey.io/@quon_michi) |
 | gorgeous mushroom | 绚烂的蘑菇 | [pixiv](https://www.pixiv.net/users/11187954)<br>[Twitter](https://twitter.com/GMMUSHROOM)<br>[微博](https://www.weibo.com/u/3734949131) |  |
 | samneco | 寒猫 | pixiv画师 | [Twitter](https://twitter.com/samnekochan1) [pixiv](https://www.pixiv.net/users/21971914) |
 | yakuhina | yakuhina |  | [pixiv](https://www.pixiv.net/users/785442) |
