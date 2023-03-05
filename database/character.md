@@ -4479,7 +4479,7 @@ example:
 | rihoko sakurai | 樱井梨穂子 |  |  |
 | yukiko amagi | 天城雪子 |  |  |
 | ojou | オジョウ |  |  |
-| hatsumi sega | 濑贺初美 |  | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
+| hatsumi sega | 濑贺初美 | 濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
