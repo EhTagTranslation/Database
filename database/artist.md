@@ -3137,7 +3137,7 @@ example:
 | fuyuichi monme | 冬壱もんめ |  |  |
 | momosawa | ももさわ |  |  |
 | sangatsu sanichi | 三月さんいち |  |  |
-| konnyaku | こんにゃく |  |  |
+| konnyaku | こんにゃく |  | [pixiv](https://www.pixiv.net/users/1391461) |
 | yaminabe | やみなべ |  |  |
 | tenjo ryuka | 天壌りゅか |  |  |
 | nekoya | 猫夜 |  | [pixiv](https://www.pixiv.net/users/579767) [Twitter](https://twitter.com/nekoya3) |
