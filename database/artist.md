@@ -5587,7 +5587,7 @@ example:
 | harukaze koucha | 春風紅茶 |  |  |
 | harukaze unipo | 春風うにぽ |  |  |
 | haruken | ハル犬 |  |  |
-| haruki | 春輝 | ![twitter](https://pbs.twimg.com/profile_images/1192948650705506304/iJ5kUicq_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/haruki_chiku) |
+| haruki | 春辉 | ![twitter](https://pbs.twimg.com/profile_images/1192948650705506304/iJ5kUicq_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/haruki_chiku) |
 | haruma tokihiko | ハルマ刻彦 |  |  |
 | harumari | はるまり |  |  |
 | kasane haruo | かさね春緒 | 春町何時子 |  |
