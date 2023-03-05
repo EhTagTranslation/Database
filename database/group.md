@@ -12131,7 +12131,7 @@ example:
 | yappy-yappy | ヤッピーヤッピー |  |  |
 | yarakashidan | やらかし団 |  |  |
 | yareba dekiru ko. | やればできる娘。 |  |  |
-| yariiya | 槍衣屋 |  |  |
+| yariiya | 枪衣屋 |  |  |
 | yaritaihodai. | やりたいほうだい。 |  |  |
 | yasakanomagatama | 八坂の勾玉 |  |  |
 | yashiromori | ヤシロモリ |  |  |
