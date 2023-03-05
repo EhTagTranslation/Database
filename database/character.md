@@ -4479,6 +4479,7 @@ example:
 | rihoko sakurai | 樱井梨穂子 |  |  |
 | yukiko amagi | 天城雪子 |  |  |
 | ojou | オジョウ |  |  |
+| hatsumi sega | 濑贺初美 |  | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
