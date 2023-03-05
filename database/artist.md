@@ -5304,7 +5304,7 @@ example:
 | gemuo | げむお |  |  |
 | gemurax | じぇーむら |  |  |
 | gemuta | げむた |  |  |
-| gen | GEN |  |  |
+| gen | GEN\|源\|舷 |  |  |
 | gengetsu | 玄月 |  |  |
 | genjirou | 言示弄 |  |  |
 | genjuroh | 元十郎 |  |  |
