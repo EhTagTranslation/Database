@@ -12565,6 +12565,7 @@ example:
 | futsu-no-tapioca-yasan | ふつうのタピオカやさん |  |  |
 | ushinomaruyaki | ウシノマルヤキ |  |  |
 | silver dog | シルバードッグ |  |  |
+| aburanabeshiki | 油锅式 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
