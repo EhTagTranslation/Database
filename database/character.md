@@ -4480,6 +4480,7 @@ example:
 | yukiko amagi | 天城雪子 |  |  |
 | ojou | オジョウ |  |  |
 | hatsumi sega | 濑贺初美 | 濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
+| fujisaki yua | 藤崎由爱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Fujisaki_YUA_Original_Design.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/藤崎由爱) [Fandom](https://virtualyoutuber.fandom.com/wiki/Fujisaki_Yua) [Fandom](https://virtualyoutuber.fandom.com/zh-tw/wiki/藤崎由愛) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
