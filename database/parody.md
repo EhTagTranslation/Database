@@ -2107,6 +2107,7 @@ example:
 | galaxy cyclone braiger | 银河旋风 | 《银河旋风》（原题：銀河旋風ブライガー）是由国际映画社所制作的机器人动画，并在东京电视台于1981年10月6日至1982年6月25日期间播出，全39集。为“J9系列”三部曲的第一部作品。 | [维基百科](https://zh.wikipedia.org/wiki/銀河旋風) |
 | mahou shoujo nante mouiidesukara. | 魔法少女什么的已经够了啦。 |  |  |
 | tom clancys rainbow six | 彩虹六号 |  |  |
+| sangoku rensenki | 三国恋战记~少女的兵法 | 本作为2010年3月发售的乙女向AVG游戏，后来移植ps2，psp，psv等多个平台。故事讲述的是一个高中女生（山田花）因为在图书馆寻找三国志报告题目的相关资料而无意间因为一本书穿越到一个和“三国志”相似的世界，并藉由书的力量以军师身份卷入群雄争霸的三国世界的故事。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/三国恋戦記〜オトメの兵法!〜) [百度百科](https://baike.baidu.com/item/三国恋战记~少女的兵法/46485) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
