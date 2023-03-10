@@ -3,6 +3,6 @@
 
 Push-Location "$PSScriptRoot/.."
 
-node tool create-release . ./publish --strict
+node --enable-source-maps tool create-release . ./publish --strict
 
 Pop-Location

@@ -35,4 +35,4 @@ jobs:
       - name: Build
         env:
           EH_COOKIE: ${{ secrets.EH_COOKIE }}
-        run: node tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}
+        run: node --enable-source-maps tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}

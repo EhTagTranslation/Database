@@ -30,7 +30,7 @@ jobs:
           echo ::endgroup::
 
       - name: Build
-        run: node tool create-release . ./publish
+        run: node --enable-source-maps tool create-release . ./publish
 
       ## prepare releases
       - name: Commit release mirror
@@ -44,7 +44,7 @@ jobs:
           && git commit -am 'Release for https://github.com/EhTagTranslation/Database/commit/${{ github.sha }}'
           && echo "MIRROR_SHA=$(git rev-parse HEAD)" >> $GITHUB_ENV
       - name: Set release note
-        run: node tool github-actions set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
+        run: node --enable-source-maps tool github-actions set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
 
       # publish releases
       - name: Create token
@@ -54,7 +54,7 @@ jobs:
           APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
           APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
           APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
-        run: node tool github-actions generate-token --env=APP_TOKEN
+        run: node --enable-source-maps tool github-actions generate-token --env=APP_TOKEN
       - name: Check latest
         run: |
           LATEST_SHA=$(git ls-remote origin master | cut -f1)
@@ -86,4 +86,4 @@ jobs:
         if: ${{ !env.SKIP }}
         env:
           GITHUB_TOKEN: ${{ env.APP_TOKEN }}
-        run: node tool github-actions delete-releases
+        run: node --enable-source-maps tool github-actions delete-releases

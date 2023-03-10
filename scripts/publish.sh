@@ -2,4 +2,4 @@
 
 cd "$(dirname "$0")/.."
 
-node tool create-release . ./publish --strict
+node --enable-source-maps tool create-release . ./publish --strict
