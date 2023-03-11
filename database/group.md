@@ -12566,6 +12566,7 @@ example:
 | ushinomaruyaki | ウシノマルヤキ |  |  |
 | silver dog | シルバードッグ |  |  |
 | aburanabeshiki | 油锅式 |  |  |
+| gahahahahahaha | がはははははは! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
