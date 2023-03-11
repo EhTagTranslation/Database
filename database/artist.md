@@ -12384,6 +12384,7 @@ example:
 | shihira tatsuya | 四平龙也 |  |  |
 | aoki seishin | 碧木诚心 |  |  |
 | tachibana takashi | 橘孝志 |  |  |
+| sekai ichii | 世界一位 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
