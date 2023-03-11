@@ -12512,7 +12512,7 @@ example:
 | nipa nipa company | NIPA NIPA COMPANY |  |  |
 | omochi box | OMOCHI BOX |  |  |
 | kinokko | きのっ子 |  |  |
-| dark horse comics | 黑马漫画 | 仅次于DC和漫威的第三大漫画公司，是欧美游戏类漫画和设定集的主要出版商，但凡是有黑马漫画出版的内容在E站大多会隐藏或删除画廊。 |  |
+| dark horse comics | 黑马漫画 | 仅次于DC和漫威的第三大漫画公司，是欧美游戏类漫画和设定集的主要出版商，但凡是有黑马漫画出版的内容在E站大多会隐藏或删除图库。 |  |
 | mt.sushi | Mt.Sushi |  |  |
 | milk lamp | ミルクランプ |  |  |
 | germanium detroit | ゲルマニウム・デトロイト |  |  |
