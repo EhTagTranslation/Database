@@ -13,7 +13,7 @@ copyright: >
   对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
   3.0 协议）进行二次分发。
 rules:
-  - 优先写公认的中文翻译，不知道的也可以写日文原名。
+  - 优先写官方的中文名称，当无官方中译时可以使用公认的中文名称，本分类暂不接受日文名称。
   - 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
 example:
   raw: ruri gokou
@@ -4478,7 +4478,6 @@ example:
 | sae nakata | 中多纱江 |  |  |
 | rihoko sakurai | 樱井梨穂子 |  |  |
 | yukiko amagi | 天城雪子 |  |  |
-| ojou | オジョウ |  |  |
 | hatsumi sega | 濑贺初美 | 濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
 | fujisaki yua | 藤崎由爱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Fujisaki_YUA_Original_Design.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/藤崎由爱) [Fandom](https://virtualyoutuber.fandom.com/wiki/Fujisaki_Yua) [Fandom](https://virtualyoutuber.fandom.com/zh-tw/wiki/藤崎由愛) |
 | dante | 但丁 | 卡普空旗下电子游戏鬼泣系列主角 |  |
