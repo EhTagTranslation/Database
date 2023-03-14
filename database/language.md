@@ -28,7 +28,7 @@ copyright: >
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
   - 语言按首字母排序。
-  - 语言列表参考语言标签目录(https://ehwiki.org/wiki/language)。
+  - 语言列表参考[语言标签目录](https://ehwiki.org/wiki/language)。
 example:
   raw: speechless
   name: 无言

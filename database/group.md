@@ -17,7 +17,7 @@ rules:
   - 有官方或公认的中文名称时优先写中文名，否则写日文名。
   - 日文名中有汉字者优先写含汉字的名称。
   - >-
-    可以依据规则(https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但不要混合中文汉字与假名。
+    可以依据[规则](https://zh.wikipedia.org/wiki/Wikipedia:汉字文化圈语言专有名词中译规则#日本语专有名词的中译)将日文名转写为中文名，但**不要混合中文汉字与假名**。
 example:
   raw: twinbox
   name: TwinBox

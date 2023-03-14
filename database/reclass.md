@@ -17,7 +17,7 @@ copyright: >
 
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
-  - 参考图库分类(https://ehwiki.org/wiki/Gallery_Categories)撰写翻译。
+  - 参考[图库分类](https://ehwiki.org/wiki/Gallery_Categories)撰写翻译。
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
