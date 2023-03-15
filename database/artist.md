@@ -8337,7 +8337,7 @@ example:
 | muro | むろ |  |  |
 | muro tomoharu | 室トモハル |  |  |
 | muryou myakudou | 無料脈動 |  |  |
-| musashino sekai | ムサシノセカイ |  |  |
+| musashino sekai | ムサシノセカイ |  | [pixiv](https://www.pixiv.net/users/371613) |
 | musasiya chogenbo | 武蔵屋長元坊 |  |  |
 | muscleman | マッスルマン |  |  |
 | mushanokouji atsune | 武者小路あつね |  |  |
