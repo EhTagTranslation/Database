@@ -2110,6 +2110,7 @@ example:
 | sangoku rensenki | 三国恋战记~少女的兵法 | 本作为2010年3月发售的乙女向AVG游戏，后来移植ps2，psp，psv等多个平台。故事讲述的是一个高中女生（山田花）因为在图书馆寻找三国志报告题目的相关资料而无意间因为一本书穿越到一个和“三国志”相似的世界，并藉由书的力量以军师身份卷入群雄争霸的三国世界的故事。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/三国恋戦記〜オトメの兵法!〜) [百度百科](https://baike.baidu.com/item/三国恋战记~少女的兵法/46485) |
 | epic seven | 第七史诗 |  | [Fandom](https://epic-seven.fandom.com/wiki/Epic_Seven_Wiki) [wiki](https://epic7.gamekee.com/) |
 | godzilla | 哥斯拉 |  |  |
+| cloud meadow | 云端牧场 | 兼具农场模拟器、角色扮演游戏和视觉小说，讲述了学会与怪物盟友合作，以便建立新家园和探索未知土地的故事！ | [HP](https://www.cloudmeadowgame.com/) [Steam](https://steamcommunity.com/app/1223750) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
