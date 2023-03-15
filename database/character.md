@@ -4483,6 +4483,7 @@ example:
 | dante | 但丁 | 卡普空旗下电子游戏鬼泣系列主角 |  |
 | vergil | 维吉尔 | 卡普空旗下电子游戏鬼泣系列角色 |  |
 | hanbei takenaka | 竹中半兵卫 |  |  |
+| kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
