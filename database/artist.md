@@ -12388,6 +12388,7 @@ example:
 | tachibana takashi | 橘孝志 |  |  |
 | sekai ichii | 世界一位 |  |  |
 | maroya kayo | まろや伽夜 |  |  |
+| kobayashi ritz | 小林立 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
