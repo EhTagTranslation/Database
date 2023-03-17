@@ -4485,6 +4485,7 @@ example:
 | hanbei takenaka | 竹中半兵卫 |  |  |
 | kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
+| kisaki | 妃咲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
