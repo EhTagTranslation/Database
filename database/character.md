@@ -4488,6 +4488,7 @@ example:
 | kisaki | 妃咲 |  |  |
 | mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669) |
 | tsurugi kensaki | 剑先剑 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335) |
+| acerola | 阿塞萝拉 | 所属作品: `p:pokemon`<br><br>![](https://static.wikia.nocookie.net/pokemon/images/1/1e/Sun_Moon_Acerola.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/阿塞萝拉) [神奇宝贝百科](https://wiki.52poke.com/zh/阿塞蘿拉) [Fandom](https://pokemon.fandom.com/wiki/Acerola) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
