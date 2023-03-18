@@ -4487,6 +4487,7 @@ example:
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
 | kisaki | 妃咲 |  |  |
 | mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669) |
+| tsurugi kensaki | 剑先剑 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
