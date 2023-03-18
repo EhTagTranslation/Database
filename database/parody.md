@@ -2111,6 +2111,7 @@ example:
 | epic seven | 第七史诗 |  | [Fandom](https://epic-seven.fandom.com/wiki/Epic_Seven_Wiki) [wiki](https://epic7.gamekee.com/) |
 | godzilla | 哥斯拉 |  |  |
 | cloud meadow | 云端牧场 | 兼具农场模拟器、角色扮演游戏和视觉小说，讲述了学会与怪物盟友合作，以便建立新家园和探索未知土地的故事！ | [HP](https://www.cloudmeadowgame.com/) [Steam](https://steamcommunity.com/app/1223750) |
+| ookami kodomo no ame to yuki | 狼的孩子雨和雪 | 《狼的孩子雨和雪》（日语：おおかみこどもの雨と雪）是由细田守导演、Studio地图和MADHOUSE制作的一部动画电影。细田守的第二部长篇原创作品。主题是“亲子”，讲述19岁的少女与“狼人”相遇并相爱，直到他们生下的狼人姐弟成长并独立的13年间发生的故事。<br><br>作品于2012年7月21日在日本上映。 | [萌娘百科](https://zh.moegirl.org.cn/狼的孩子雨和雪) [维基百科](https://zh.wikipedia.org/wiki/狼的孩子雨和雪) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
