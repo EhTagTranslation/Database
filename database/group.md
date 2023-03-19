@@ -12570,6 +12570,7 @@ example:
 | aburanabeshiki | 油锅式 |  |  |
 | gahahahahahaha | がはははははは! |  |  |
 | marshmalloya | ましゅまろや |  |  |
+| nanadou | 七堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
