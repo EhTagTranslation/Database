@@ -4493,6 +4493,7 @@ example:
 | damian desmond | 达米安·德斯蒙 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/3/35/Damian_Desmond_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/达米安·德斯蒙) [Fandom](https://spy-x-family.fandom.com/wiki/Damian_Desmond) |
 | cat noir | 黑猫诺儿 | 阿德里恩·艾格雷斯特 | [Fandom](https://hero.fandom.com/wiki/Cat_Noir) |
 | killua zoldyck | 杰诺·揍敌客 | 所属作品: `p:hunter x hunter` | [Fandom](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) [维基百科（日语）](https://ja.wikipedia.org/wiki/ゾルディック家) |
+| mirai kamiki | 神木未来 | 圣凤学园初中部二年级学生，神木世海的姐姐，同时也是时尚杂志的模特，与弟弟一样，接受过次元霸王流的修炼。<br><br>![](https://static.wikia.nocookie.net/gundam/images/5/55/Mirai_Kamiki_Character_Sheet.png) | [bili游戏百科](https://wiki.biligame.com/gundam/神木未来) [百度百科](https://baike.baidu.com/item/神木未來/16603736) [pixiv](https://dic.pixiv.net/a/カミキ・ミライ) [Fandom](https://gundam.fandom.com/wiki/Mirai_Kamiki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
