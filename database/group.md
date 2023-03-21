@@ -12572,6 +12572,7 @@ example:
 | marshmalloya | ましゅまろや |  |  |
 | nanadou | 七堂 |  |  |
 | ayawasuca | 文忘蚊 |  | [pixiv](https://www.pixiv.net/users/65258852) |
+| sugomori bird | 巣ごもりバード |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
