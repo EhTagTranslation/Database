@@ -4499,6 +4499,7 @@ example:
 | akane isshiki | 一色茜 | 所属作品: `p:vividred operation`<br><br>![](https://static.wikia.nocookie.net/vivid-red-operation/images/f/f9/Akane_isshiki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/一色茜) [Fandom](https://vivid-red-operation.fandom.com/wiki/Akane_Isshiki) |
 | lyza | 莱萨 |  |  |
 | ozen | 奥森 |  |  |
+| marulk | 马璐璐库 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
