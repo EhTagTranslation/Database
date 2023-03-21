@@ -12392,6 +12392,7 @@ example:
 | hiroki | 宏き(Hiroki) | ![宏き(Hiroki)](https://pbs.twimg.com/profile_images/1629882193911910400/BVFDD9Pp_400x400.jpg) | [Twitter](https://twitter.com/hiroki_bzdsk)<br>[Pixiv](https://www.pixiv.net/users/53007605)<br>[Fanbox](https://www.fanbox.cc/@hiroki-bzdsk) |
 | emoto shikeko | えもと しけこ |  |  |
 | gogopanda | ごーごーぱんだ |  |  |
+| naminori kamome | 波乗かもめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
