@@ -12393,6 +12393,7 @@ example:
 | emoto shikeko | えもと しけこ |  |  |
 | gogopanda | ごーごーぱんだ |  |  |
 | naminori kamome | 波乗かもめ |  |  |
+| tyontyon | てょんてょん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
