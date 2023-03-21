@@ -2113,6 +2113,7 @@ example:
 | cloud meadow | 云端牧场 | 兼具农场模拟器、角色扮演游戏和视觉小说，讲述了学会与怪物盟友合作，以便建立新家园和探索未知土地的故事！ | [HP](https://www.cloudmeadowgame.com/) [Steam](https://steamcommunity.com/app/1223750) |
 | ookami kodomo no ame to yuki | 狼的孩子雨和雪 | 《狼的孩子雨和雪》（日语：おおかみこどもの雨と雪）是由细田守导演、Studio地图和MADHOUSE制作的一部动画电影。细田守的第二部长篇原创作品。主题是“亲子”，讲述19岁的少女与“狼人”相遇并相爱，直到他们生下的狼人姐弟成长并独立的13年间发生的故事。<br><br>作品于2012年7月21日在日本上映。 | [萌娘百科](https://zh.moegirl.org.cn/狼的孩子雨和雪) [维基百科](https://zh.wikipedia.org/wiki/狼的孩子雨和雪) |
 | akiba maid sensou | 秋叶原冥途战争 | 1999年的春季，憧憬成为可爱女仆的少女和平奈古美，为追逐梦想来到了竞争激烈的秋叶原，她会遇到怎样的人和事呢？这是Cygames×P.A.WORKS献上的，关于“萌与暴力”的故事。一起萌萌心动吧！<br>![](https://static.wikia.nocookie.net/akibamaidwar/images/0/02/Key_Visual_2.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/秋叶原冥途战争) [维基百科](https://zh.wikipedia.org/zh/秋葉原冥途戰爭) [Fandom](https://akibamaidwar.fandom.com/wiki/Akiba_Maid_War) |
+| kyuuketsuki sugu shinu | 吸血鬼马上死 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/吸血鬼马上死) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
