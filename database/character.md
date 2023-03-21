@@ -4497,6 +4497,7 @@ example:
 | megumi amatsuka | 天使惠 | 所属作品: `p:gj-bu`<br><br>![](https://static.wikia.nocookie.net/gj-bu/images/a/a1/Untitled.png) | [萌娘百科](https://zh.moegirl.org.cn/天使惠) [Fandom](https://gj-bu.fandom.com/wiki/Megumi_Amatsuka) |
 | mao amatsuka | 天使真央 | 所属作品: `p:gj-bu`<br><br>![](https://static.wikia.nocookie.net/gj-bu/images/8/81/Mao.png) | [Fandom](https://gj-bu.fandom.com/wiki/Mao_Amatsuka) [萌娘百科](https://zh.moegirl.org.cn/zh/天使真央) |
 | akane isshiki | 一色茜 | 所属作品: `p:vividred operation`<br><br>![](https://static.wikia.nocookie.net/vivid-red-operation/images/f/f9/Akane_isshiki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/一色茜) [Fandom](https://vivid-red-operation.fandom.com/wiki/Akane_Isshiki) |
+| lyza | 莱萨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
