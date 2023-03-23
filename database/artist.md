@@ -12394,6 +12394,7 @@ example:
 | gogopanda | ごーごーぱんだ |  |  |
 | naminori kamome | 波乗かもめ |  |  |
 | tyontyon | てょんてょん |  |  |
+| soejima shigenori | 副岛成记 | 副岛 成记，日本插画家。《真·女神转生》大系的主要插画家。 | [萌娘百科](https://zh.moegirl.org.cn/zh/副岛成记) |
 
 <!--TEMPLATE:
 |  |  |  |  |
