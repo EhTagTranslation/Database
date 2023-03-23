@@ -4501,6 +4501,7 @@ example:
 | ozen | 奥森 |  |  |
 | marulk | 马璐璐库 |  |  |
 | mother spider demon | 蜘蛛鬼·母亲 | 外貌艳丽的女性。炭治郎等人来到那田蜘蛛山后第一个遭遇的鬼。<br>那田蜘蛛山的鬼家族成员之一。担任累的母亲。<br>虽然担任的是母亲的角色，但是在蜘蛛家族里的立场相当低。 | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛鬼·母亲) |
+| kanako urashima | 浦岛可奈子 | 所属作品: `p:love hina`<br><br>![](https://static.wikia.nocookie.net/lovehina/images/b/b1/AniKanako.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/浦岛可奈子) [Fandom](https://lovehina.fandom.com/wiki/Kanako_Urashima) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
