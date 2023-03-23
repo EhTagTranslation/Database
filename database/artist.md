@@ -8049,7 +8049,7 @@ example:
 | miyakawa hajime | 美夜川はじめ |  |  |
 | miyako no gohan | 京のごはん |  |  |
 | miyama rima | 宮馬りま |  |  |
-| miyama zero | 美山零 |  |  |
+| miyama zero | 美山零 | 美山零（日语：みやま零）是日本的插画家、原画家。居住在大阪市。以笔名“まやせろみ”作为一名剧本家活跃着。主要活跃于同人圈Stray Moon和一些PC游戏原画、近几年以插画家身份担任小说插图和游戏的插图的工作量增加。 | [维基百科](https://zh.wikipedia.org/wiki/美山零) |
 | miyamoto ikusa | みやもといくさ |  |  |
 | miyamoto yuu | みやもとゆう |  |  |
 | miyamu | みやむ |  |  |
