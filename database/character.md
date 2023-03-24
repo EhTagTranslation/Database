@@ -4504,6 +4504,7 @@ example:
 | kanako urashima | 浦岛可奈子 | 所属作品: `p:love hina`<br><br>![](https://static.wikia.nocookie.net/lovehina/images/b/b1/AniKanako.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/浦岛可奈子) [Fandom](https://lovehina.fandom.com/wiki/Kanako_Urashima) |
 | mihari oyama | 绪山美波里 |  |  |
 | white len | 白莲 |  |  |
+| momiji hozuki | 穗月椛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
