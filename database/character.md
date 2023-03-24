@@ -4506,6 +4506,7 @@ example:
 | white len | 白莲 |  |  |
 | momiji hozuki | 穗月椛 |  |  |
 | kaede hozuki | 穗月枫 |  |  |
+| kafka | 卡夫卡 \| 卡芙卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
