@@ -4505,6 +4505,7 @@ example:
 | mihari oyama | 绪山美波里 |  |  |
 | white len | 白莲 |  |  |
 | momiji hozuki | 穗月椛 |  |  |
+| kaede hozuki | 穗月枫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
