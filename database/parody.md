@@ -2117,6 +2117,7 @@ example:
 | devil summoner soul hackers | 恶魔召唤师 | 《恶魔召唤师》系列（日语：デビルサマナー；英语：Devil Summoner）是由Atlus制作并发行的游戏系列，共有5部游戏作品。<br><br>什么叫“恶魔召唤师”？就是与恶魔签订交易契约，利用恶魔为自己做事同时供给恶魔需求之物，和恶魔交易的人类。恶魔召唤师系列顾名思义，就是讲述这个特殊人群的故事。 | [萌娘百科](https://zh.moegirl.org.cn/恶魔召唤师系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/デビルサマナー_ソウルハッカーズ) [百度百科](https://baike.baidu.com/item/恶魔召唤师/1582481) |
 | saikin yatotta maid ga ayashii | 最近雇的女仆有点怪 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/最近雇的女仆有点怪) |
 | benriya saitou-san isekai ni iku | 万事屋斋藤先生转生异世界 |  | [萌娘百科](https://zh.moegirl.org.cn/万事屋斋藤先生转生异世界) |
+| mar | 魔兵传奇 |  | [萌娘百科](https://zh.moegirl.org.cn/魔兵传奇) [维基百科](https://zh.wikipedia.org/zh/MÄR_魔法世界) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
