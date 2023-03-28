@@ -4508,6 +4508,7 @@ example:
 | kaede hozuki | 穗月枫 |  |  |
 | kafka | 卡夫卡 \| 卡芙卡 |  |  |
 | ookanehira | 大包平 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大包平) |
+| uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
