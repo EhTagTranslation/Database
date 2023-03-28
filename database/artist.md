@@ -12396,6 +12396,7 @@ example:
 | tyontyon | てょんてょん |  |  |
 | soejima shigenori | 副岛成记 | 副岛 成记，日本插画家。《`p:shin megami tensei`》大系的主要插画家。 | [萌娘百科](https://zh.moegirl.org.cn/zh/副岛成记) |
 | chisunosuke | ちすの助 |  | [pixiv](https://www.pixiv.net/users/13646867) [Twitter](https://twitter.com/chisunosuke) |
+| sakurayashiki tonkotsu | 桜屋敷とんこつ |  | [pixiv](https://www.pixiv.net/users/22553630) [Twitter](https://twitter.com/syashiki2nd) |
 
 <!--TEMPLATE:
 |  |  |  |  |
