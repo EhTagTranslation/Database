@@ -4509,6 +4509,7 @@ example:
 | kafka | 卡夫卡 \| 卡芙卡 |  |  |
 | ookanehira | 大包平 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大包平) |
 | uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
+| sovetskaya rossiya | 苏维埃罗西亚 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
