@@ -7725,7 +7725,7 @@ example:
 | mica | MICA |  |  |
 | michinakaba | 三血中吐 |  |  |
 | michinoku hitori tabi | みちのく一人旅 |  |  |
-| micro page | みくろぺえじ |  |  |
+| micro page | みくろぺえじ | 画师`kuromotokun`所属社团 |  |
 | microbeurre | Microbeurre |  |  |
 | microbit | Microbit |  |  |
 | microdat | マイクロ脱兎 |  |  |
