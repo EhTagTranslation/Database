@@ -12403,6 +12403,7 @@ example:
 | omitsu | えびおみつ | ![twitter](https://pbs.twimg.com/profile_images/1501027290175897600/WHhZlq0B_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`satou mitsu`所属画师 | [twitter](https://twitter.com/Omitsu_sato) [pixiv](https://www.pixiv.net/users/27599922) |
 | hangetsuban sonshou | 半月板损伤 |  |  |
 | tottotonero tarou. | とっととねろ太郎。 | ![twitter](https://pbs.twimg.com/profile_images/1181027238461853697/0eUsOarw_400x400.png)<br><br>**作者推特头像**<br><br>社团`mannen dokodoko dondodoko`所属画师 | [twitter](https://twitter.com/TottotoNero) [pixiv](https://www.pixiv.net/users/5342006) |
+| nakagomi | 中込 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
