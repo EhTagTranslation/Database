@@ -12576,6 +12576,7 @@ example:
 | gensou pump | 幻想ポンプ | 画师`fukumoto masahisa`所属社团 |  |
 | elizabeth collar | エリザベスカラー | 画师`tobiume sayu`所属社团 |  |
 | toropucchi | とろぷっち | ![twitter](https://pbs.twimg.com/profile_images/1473562632460582912/CJJj_8pg_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Srm5tKdfhWnGY0K) |
+| satou mitsu | さとうみつ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
