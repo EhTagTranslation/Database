@@ -3724,7 +3724,7 @@ example:
 | oko yomiko | 小神よみ子 |  |  |
 | umemotsuzou | 梅モツ蔵 |  |  |
 | nori gorou | のり伍郎 |  |  |
-| 2 | 单行本 | 日文単行本 | [https://e-hentai.org/g/2506632/e1ec8d3d9a/](https://e-hentai.org/g/2506632/e1ec8d3d9a/) |
+| 2 | 单行本 |  |  |
 | 7 | 7 |  |  |
 | 8 | 8 |  |  |
 | 20 | 廿 |  |  |
