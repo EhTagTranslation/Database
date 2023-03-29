@@ -3630,7 +3630,7 @@ example:
 | ranou | 卵の黄身 |  | [pixiv](https://www.pixiv.net/users/35907) [Twitter](https://twitter.com/rannou75) |
 | abso lu | あぶそる |  | [pixiv](https://www.pixiv.net/users/3202270) |
 | kyuusuikei | 給水係 |  |  |
-| sr | 艺术家 |  | [pixiv](https://www.pixiv.net/users/20714093) |
+| sr | SR |  | [pixiv](https://www.pixiv.net/users/20714093) |
 | azure | あずーる |  | [Twitter](https://twitter.com/azure_0608_sub) [pixiv](https://www.pixiv.net/users/5838770) |
 | ishimura | 石村 |  |  |
 | random | 兰田梦 |  | [pixiv](https://www.pixiv.net/users/6810171) |
