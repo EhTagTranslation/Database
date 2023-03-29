@@ -4513,6 +4513,7 @@ example:
 | faruzan | 珐露珊 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/珐露珊) |
 | plana | 普拉娜 |  |  |
 | rio tsukatsuki | 调月莉音 |  |  |
+| kikuri hiroi | 广井菊里 | 由はまじあき所创作的漫画《孤独摇滚！》的登场角色。<br>人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。<br>是最先注意到独真正实力的人。<br>经常为独着想。平日里总是醉醺醺的。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
