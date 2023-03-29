@@ -9377,7 +9377,7 @@ example:
 | ponkotuna potunoya | ぽんこつなぽつの屋 |  |  |
 | ponpon-o | ぽんぽんお |  |  |
 | ponte | Ponte |  |  |
-| pony farm | 仔馬牧場 |  |  |
+| pony farm | 仔马牧场 | 画师`bonnie`所属社团 |  |
 | pony roll | PONY ROLL |  |  |
 | ponyfarm | ポニー牧場 |  |  |
 | ponys bridle | PONY'S BRIDLE |  |  |
