@@ -12574,6 +12574,7 @@ example:
 | ayawasuca | 文忘蚊 |  | [pixiv](https://www.pixiv.net/users/65258852) |
 | sugomori bird | 巣ごもりバード |  |  |
 | gensou pump | 幻想ポンプ | 画师`fukumoto masahisa`所属社团 |  |
+| elizabeth collar | エリザベスカラー | 画师`tobiume sayu`所属社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
