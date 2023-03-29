@@ -12401,6 +12401,7 @@ example:
 | signo mandara | シグノマンダラ | ![twitter](https://pbs.twimg.com/profile_images/1451148079994867714/wg_4qq1F_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/signoMANDARA) [pixiv](https://www.pixiv.net/users/75419849) |
 | tobiume sayu | 飞梅さゆ | ![twitter](https://pbs.twimg.com/profile_images/1377171581726720000/lR7WXpXY_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/LCLC0821162) [pixiv](https://www.pixiv.net/users/60371485) |
 | omitsu | えびおみつ | ![twitter](https://pbs.twimg.com/profile_images/1501027290175897600/WHhZlq0B_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`satou mitsu`所属画师 | [twitter](https://twitter.com/Omitsu_sato) [pixiv](https://www.pixiv.net/users/27599922) |
+| hangetsuban sonshou | 半月板损伤 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
