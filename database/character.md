@@ -4511,6 +4511,7 @@ example:
 | uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
 | sovetskaya rossiya | 苏维埃罗西亚 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
 | faruzan | 珐露珊 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/珐露珊) |
+| plana | 普拉娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
