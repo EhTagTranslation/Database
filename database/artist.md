@@ -12399,6 +12399,7 @@ example:
 | sakurayashiki tonkotsu | 桜屋敷とんこつ |  | [pixiv](https://www.pixiv.net/users/22553630) [Twitter](https://twitter.com/syashiki2nd) |
 | fukumoto masahisa | 福本真久 | ![twitter](https://pbs.twimg.com/profile_images/1551966352839020544/sV9flcGh_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/frozen_pump) |
 | signo mandara | シグノマンダラ | ![twitter](https://pbs.twimg.com/profile_images/1451148079994867714/wg_4qq1F_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/signoMANDARA) [pixiv](https://www.pixiv.net/users/75419849) |
+| tobiume sayu | 飞梅さゆ | ![twitter](https://pbs.twimg.com/profile_images/1377171581726720000/lR7WXpXY_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/LCLC0821162) [pixiv](https://www.pixiv.net/users/60371485) |
 
 <!--TEMPLATE:
 |  |  |  |  |
