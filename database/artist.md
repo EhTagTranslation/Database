@@ -2926,7 +2926,7 @@ example:
 | kitahara aki | 北原亜希 |  | [Twitter](https://twitter.com/aki_kitahara) [pixiv](https://www.pixiv.net/users/511763) |
 | satsuki itsuka | 五月五日 |  | [Twitter](https://twitter.com/satsuki55) [pixiv](https://www.pixiv.net/users/67168) |
 | kawaraya | 瓦爺 |  | [Twitter](https://twitter.com/kawaraya_koh) [pixiv](https://www.pixiv.net/users/14074088) |
-| kamizuki shiki | 守月史貴 |  | [Twitter](https://twitter.com/Kamizuki_S1) [pixiv](https://www.pixiv.net/users/979621) |
+| kamizuki shiki | 守月史贵 | ![twitter](https://pbs.twimg.com/profile_images/1461980576374616072/fblHMs5W_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Kamizuki_S1) [pixiv](https://www.pixiv.net/users/979621) |
 | ponekusan | ポネクサン |  | [Twitter](https://twitter.com/ponekusan) [pixiv](https://www.pixiv.net/users/84450) |
 | akasa tanu | 赤佐たぬ |  | [Twitter](https://twitter.com/akasatanu512) [pixiv](https://www.pixiv.net/users/583159) |
 | takeya | 竹や |  | [Twitter](https://twitter.com/taketatetakeya) [pixiv](https://www.pixiv.net/users/33810203) |
