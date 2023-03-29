@@ -3785,7 +3785,7 @@ example:
 | a.k.a.nyarot | a.k.a.にゃろっと |  |  |
 | a.s. hermes | A.S.ヘルメス |  |  |
 | a1 | A1 |  |  |
-| ababari | ababari |  |  |
+| ababari | ababari | ![twitter](https://pbs.twimg.com/profile_images/1627915109413814272/l0sAPQ0b_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/ugoiteru) [pixiv](https://www.pixiv.net/users/98215) |
 | abara | アバラ |  |  |
 | abazu red | あばずRed |  |  |
 | abc-pauler | abc-pauler |  |  |
