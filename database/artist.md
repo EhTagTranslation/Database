@@ -4515,7 +4515,7 @@ example:
 | bond | ボンド |  |  |
 | bondo | ぼんど |  |  |
 | bonehead | Bonehead |  |  |
-| bonnie | ぼに～ |  |  |
+| bonnie | ぼに～ | ![twitter](https://pbs.twimg.com/profile_images/1509843716894519296/QyCWOmjW_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`pony farm`所属画师 | [twitter](https://twitter.com/bonnie_3404) [pixiv](https://www.pixiv.net/users/711257) |
 | bono | ぼの |  |  |
 | bonske | ぼんすけ |  |  |
 | bonten | 梵典 |  |  |
