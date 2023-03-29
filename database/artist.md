@@ -3123,7 +3123,7 @@ example:
 | horikawa gorou | 堀川悟郎 |  |  |
 | kandenki | 感电器 |  | [Twitter](https://twitter.com/batibatizekkyou)<br>[pixiv](https://www.pixiv.net/users/35107301) |
 | tsukimi ruko | 月見ルコ |  |  |
-| kameyama shiruko | 亀山しるこ | ![twitter](https://pbs.twimg.com/profile_images/1401005712344436737/qf5v0_r6_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://img.dlsite.jp/modpub/images2/work/doujin/RJ206000/RJ205831_img_main.jpg")<br><br>**作品** | [twitter](https://twitter.com/siru5zenzai) [pixiv](https://www.pixiv.net/users/9973882) |
+| kameyama shiruko | 龟山しるこ | ![twitter](https://pbs.twimg.com/profile_images/1401005712344436737/qf5v0_r6_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://img.dlsite.jp/modpub/images2/work/doujin/RJ206000/RJ205831_img_main.jpg")<br><br>**作品** | [twitter](https://twitter.com/siru5zenzai) [pixiv](https://www.pixiv.net/users/9973882) |
 | takimoto yukari | 瀧本ゆかり |  | [pixiv](https://www.pixiv.net/users/18858574) [Twitter](https://twitter.com/karine_yukari) |
 | sakamoto kafka | 阪本KAFKA |  | [Twitter](https://twitter.com/skafka15) [pixiv](https://www.pixiv.net/users/22151083) |
 | itsutsuse | 古川五势（いつつせ） | 海里名：いつつせ<br>上岸名：古川五勢 | [pixiv](https://www.pixiv.net/users/8415301) [Twitter](https://twitter.com/fiveiro) |
