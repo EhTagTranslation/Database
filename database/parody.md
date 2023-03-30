@@ -2121,6 +2121,7 @@ example:
 | kinsou no vermeil | 金装的维尔梅 | 金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～ | [萌娘百科](https://zh.moegirl.org.cn/金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～) |
 | ganbare goemon | 大盗五右卫门 |  | [维基百科](https://zh.wikipedia.org/zh/大盜五右衛門系列) |
 | jikkyou powerful pro yakyuu | 实况力量棒球系列 |  | [维基百科](https://zh.wikipedia.org/zh/實況野球系列) |
+| dolphin wave | 洶湧海豚 | 《Dolphin Wave》（常译作汹涌海豚、海豚波潮等等），为日本游戏开发商株式会社Bullets于2022年推出的手机游戏，并由Marvelous、Honey Parade Games联合出品。 | [维基百科](https://zh.wikipedia.org/zh/洶湧海豚) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
