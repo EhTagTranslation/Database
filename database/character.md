@@ -4514,6 +4514,7 @@ example:
 | plana | 普拉娜 |  |  |
 | rio tsukatsuki | 调月莉音 |  |  |
 | kikuri hiroi | 广井菊里 | 由はまじあき所创作的漫画《孤独摇滚！》的登场角色。<br>人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。<br>是最先注意到独真正实力的人。<br>经常为独着想。平日里总是醉醺醺的。 |  |
+| gintoki sakata | 坂田银时 | ![](https://static.wikia.nocookie.net/gintama/images/b/b9/GinFinal.png)<br><br>万事屋的领导，啥事都做。<br>不定期吃甜食，就会极其焦躁的甜食党。<br>平时看似很没精神、没力气，但实际是个很厉害的武士。<br>原是一名攘夷志士，被称“白夜叉”的恐怖剑术达人，但现在只使用木刀。<br>爱车是一辆轻摩托。 | [萌娘百科](https://zh.moegirl.org.cn/坂田银时) [Fandom](https://gintama.fandom.com/wiki/Sakata_Gintoki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
