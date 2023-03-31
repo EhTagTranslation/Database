@@ -2123,7 +2123,7 @@ example:
 | jikkyou powerful pro yakyuu | 实况力量棒球系列 |  | [维基百科](https://zh.wikipedia.org/zh/實況野球系列) |
 | dolphin wave | 洶湧海豚 | 《Dolphin Wave》（常译作汹涌海豚、海豚波潮等等），为日本游戏开发商株式会社Bullets于2022年推出的手机游戏，并由Marvelous、Honey Parade Games联合出品。 | [维基百科](https://zh.wikipedia.org/zh/洶湧海豚) |
 | suzume no tojimari | 铃芽之旅 |  |  |
-| warframe | 星际战甲 | 《战甲神兵》（英语：Warframe，中国大陆译作“星际战甲”，香港和台湾译作“战甲神兵”，又译作“战争架”）是一个2013年发行的主打PVE的第三人称射击游戏，由加拿大Digital Extremes开发的独立游戏，可在Microsoft Windows、PlayStation 4、Xbox One及任天堂Switch平台上游玩，采用免费游玩模式，目前已可以跨平台连线。 | [HP](https://www.warframe.com/) [维基百科](https://zh.wikipedia.org/zh/戰甲神兵) [萌娘百科](https://zh.moegirl.org.cn/星际战甲) |
+| warframe | 星际战甲 | ![](https://n9e5v4d8.ssl.hwcdn.net/images/logo.png)<br>《战甲神兵》（英语：Warframe，中国大陆译作“星际战甲”，香港和台湾译作“战甲神兵”，又译作“战争架”）是一个2013年发行的主打PVE的第三人称射击游戏，由加拿大Digital Extremes开发的独立游戏，可在Microsoft Windows、PlayStation 4、Xbox One及任天堂Switch平台上游玩，采用免费游玩模式，目前已可以跨平台连线。 | [HP](https://www.warframe.com/) [维基百科](https://zh.wikipedia.org/zh/戰甲神兵) [萌娘百科](https://zh.moegirl.org.cn/星际战甲) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
