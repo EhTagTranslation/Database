@@ -4516,6 +4516,7 @@ example:
 | kikuri hiroi | 广井菊里 | 由はまじあき所创作的漫画《孤独摇滚！》的登场角色。<br>人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。<br>是最先注意到独真正实力的人。<br>经常为独着想。平日里总是醉醺醺的。 |  |
 | gintoki sakata | 坂田银时 | ![](https://static.wikia.nocookie.net/gintama/images/b/b9/GinFinal.png)<br><br>万事屋的领导，啥事都做。<br>不定期吃甜食，就会极其焦躁的甜食党。<br>平时看似很没精神、没力气，但实际是个很厉害的武士。<br>原是一名攘夷志士，被称“白夜叉”的恐怖剑术达人，但现在只使用木刀。<br>爱车是一辆轻摩托。 | [萌娘百科](https://zh.moegirl.org.cn/坂田银时) [Fandom](https://gintama.fandom.com/wiki/Sakata_Gintoki) |
 | toshiro hijikata | 土方十四郎 | ![](https://static.wikia.nocookie.net/gintama/images/b/b0/Hijikata_2017.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/土方十四郎) [Fandom](https://gintama.fandom.com/wiki/Hijikata_Toushirou) |
+| kazamori sasa | 佐佐风守 | 所属作品: `p:un-go`<br><br>![](https://static.wikia.nocookie.net/un-go/images/c/ca/Kazamori.png)<br><br>禁忌的人工智能生命体‧R.A.I.最后存在的个体，也是第一个被制造者佐佐驹守制作出来的生命体。 一开始被驹守以养子的身分带入佐佐家，在驹守假死后掌控佐佐集团，被驹守当做傀儡代理人。 后加入主角团体，积极的参与解决各种事件。 | [萌娘百科](https://zh.moegirl.org.cn/zh/佐佐风守) [Fandom](https://un-go.fandom.com/wiki/Kazamori_Sasa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
