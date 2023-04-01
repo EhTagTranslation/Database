@@ -2126,6 +2126,7 @@ example:
 | warframe | 星际战甲 | ![](https://n9e5v4d8.ssl.hwcdn.net/images/logo.png)<br>《战甲神兵》（英语：Warframe，中国大陆译作“星际战甲”，香港和台湾译作“战甲神兵”，又译作“战争架”）是一个2013年发行的主打PVE的第三人称射击游戏，由加拿大Digital Extremes开发的独立游戏，可在Microsoft Windows、PlayStation 4、Xbox One及任天堂Switch平台上游玩，采用免费游玩模式，目前已可以跨平台连线。 | [HP](https://www.warframe.com/) [维基百科](https://zh.wikipedia.org/zh/戰甲神兵) [萌娘百科](https://zh.moegirl.org.cn/星际战甲) |
 | brok the investigator | 鳄鱼侦探布罗格 | BROK the InvestiGator 是一款由独立法国游戏工作室 COWCAT Games 使用 GameMaker Studio 2 自行开发和发行的独立游戏，该游戏采用了点击式冒险游戏和横向卷轴动作游戏相结合的设计。这款游戏通过 Kickstarter 平台成功筹集到资金。游戏中融合了点和点击冒险、横版过关打斗和角色扮演元素。 | [维基百科（英语）](https://en.wikipedia.org/wiki/BROK_the_InvestiGator) [Steam](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/) |
 | horizon zero dawn | 地平线 零之曙光 |  | [萌娘百科](https://zh.moegirl.org.cn/地平线_零之曙光) [维基百科](https://zh.wikipedia.org/zh/地平線_黎明時分) |
+| un-go | UN-GO | 《UN-GO》是由BONES制作的一部TV动画。于2011年10月开始在在富士电视台的noitaminA栏目播出，共11集。故事原案出自坂口安吾《明治开化 安吾捕物帖》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/UN-GO) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
