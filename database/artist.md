@@ -12405,6 +12405,7 @@ example:
 | tottotonero tarou. | とっととねろ太郎。 | ![twitter](https://pbs.twimg.com/profile_images/1181027238461853697/0eUsOarw_400x400.png)<br><br>**作者推特头像**<br><br>社团`mannen dokodoko dondodoko`所属画师 | [twitter](https://twitter.com/TottotoNero) [pixiv](https://www.pixiv.net/users/5342006) |
 | nakagomi | 中込 |  |  |
 | d. | D. |  | [pixiv](https://www.pixiv.net/users/6881113) [Twitter](https://twitter.com/Ddot2018) |
+| oyu | おゆ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
