@@ -4521,6 +4521,7 @@ example:
 | kanna ogata | 尾刃カンナ | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Kanna_Portrait.png) | [pixiv](https://dic.pixiv.net/a/尾刃カンナ) [Fandom](https://bluearchive.fandom.com/wiki/Ogata_Kanna) |
 | nero | 尼禄 | 卡普空的电子游戏鬼泣4代、5代的男主 |  |
 | deadpool | 死侍 |  |  |
+| lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
