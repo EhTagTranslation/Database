@@ -4520,6 +4520,7 @@ example:
 | kozuki momonosuke | 光月桃之助 | 所属作品: `p:one piece`<br>光月桃之助是现任和之国将军。也是已故九里大名光月家之主——光月御田之子、前将军光月锄烧之孙。 | [Fandom](https://onepiece.fandom.com/zh/wiki/光月桃之助) |
 | kanna ogata | 尾刃カンナ | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Kanna_Portrait.png) | [pixiv](https://dic.pixiv.net/a/尾刃カンナ) [Fandom](https://bluearchive.fandom.com/wiki/Ogata_Kanna) |
 | nero | 尼禄 | 卡普空的电子游戏鬼泣4代、5代的男主 |  |
+| deadpool | 死侍 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
