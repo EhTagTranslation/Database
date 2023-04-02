@@ -2127,6 +2127,7 @@ example:
 | brok the investigator | 鳄鱼侦探布罗格 | BROK the InvestiGator 是一款由独立法国游戏工作室 COWCAT Games 使用 GameMaker Studio 2 自行开发和发行的独立游戏，该游戏采用了点击式冒险游戏和横向卷轴动作游戏相结合的设计。这款游戏通过 Kickstarter 平台成功筹集到资金。游戏中融合了点和点击冒险、横版过关打斗和角色扮演元素。 | [维基百科（英语）](https://en.wikipedia.org/wiki/BROK_the_InvestiGator) [Steam](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/) |
 | horizon zero dawn | 地平线 零之曙光 |  | [萌娘百科](https://zh.moegirl.org.cn/地平线_零之曙光) [维基百科](https://zh.wikipedia.org/zh/地平線_黎明時分) |
 | un-go | UN-GO | 《UN-GO》是由BONES制作的一部TV动画。于2011年10月开始在在富士电视台的noitaminA栏目播出，共11集。故事原案出自坂口安吾《明治开化 安吾捕物帖》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/UN-GO) |
+| inma kourin devil carnival | 淫魔降臨デビル☆カーニバル |  | [Twitter](http://twitter.com/devil_carnival/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
