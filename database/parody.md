@@ -2128,6 +2128,7 @@ example:
 | horizon zero dawn | 地平线 零之曙光 |  | [萌娘百科](https://zh.moegirl.org.cn/地平线_零之曙光) [维基百科](https://zh.wikipedia.org/zh/地平線_黎明時分) |
 | un-go | UN-GO | 《UN-GO》是由BONES制作的一部TV动画。于2011年10月开始在在富士电视台的noitaminA栏目播出，共11集。故事原案出自坂口安吾《明治开化 安吾捕物帖》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/UN-GO) |
 | inma kourin devil carnival | 淫魔降臨デビル☆カーニバル |  | [Twitter](http://twitter.com/devil_carnival/) |
+| ryu ga gotoku | 如龙 | 人中之龙（日版名：龍が如く，英文版名：Like a Dragon，舊稱Yakuza，中国大陆译作“如龙”，香港和台湾译作“人中之龙”）是世嘉制作与发行的动作冒险游戏系列，首作于2005年在PlayStation 2平台上发行。系列作的主要场景常设定在东京都中的虚构地区“神室町”，截至本传6代主线聚焦于极道组织东城会旗下的桐生一马；以桐生为中心描绘黑社会间的冲突，及极道中人各自的生存姿态。自本传7代起转以同为黑帮份子的春日一番作为主角。 | [维基百科](https://zh.wikipedia.org/zh/人中之龍系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/龍が如くスタジオ) [维基百科（英语）](https://en.wikipedia.org/wiki/Ryu_Ga_Gotoku_Studio) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
