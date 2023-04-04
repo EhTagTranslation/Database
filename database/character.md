@@ -4524,6 +4524,7 @@ example:
 | lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 | trish | 翠西 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 | alexis rhodes | 天上院明日香 | 《游戏王GX》中的主要角色之一，天上院吹雪的妹妹。<br><br>[](https://static.wikia.nocookie.net/p__/images/4/4c/Alexis-l.png/revision/latest/scale-to-width-down/350?cb=20190820115733&path-prefix=protagonist) | [萌娘百科](https://zh.moegirl.org.cn/zh/天上院明日香) |
+| cyno | 赛诺 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
