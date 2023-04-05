@@ -12407,6 +12407,7 @@ example:
 | d. | D. |  | [pixiv](https://www.pixiv.net/users/6881113) [Twitter](https://twitter.com/Ddot2018) |
 | oyu | おゆ |  |  |
 | pononozo | ぽののぞ |  | [pixiv](https://www.pixiv.net/users/2284087) [Twitter](https://twitter.com/pononozo) |
+| hirota shimaguni | 浩田岛国 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
