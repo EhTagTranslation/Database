@@ -11968,7 +11968,7 @@ example:
 | web knight | ウェブ乃藤 |  |  |
 | webstudioofflimits | WebStudioOffLimits |  |  |
 | wechselhaft | ヴェクセルハフト |  |  |
-| wednesday | Wednesday |  |  |
+| wednesday | 星期三 |  |  |
 | wendybell | ウェンディベル |  |  |
 | west island | ウエストアイランド |  |  |
 | west vision | ウエストビジョン |  |  |
