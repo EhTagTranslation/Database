@@ -2133,6 +2133,7 @@ example:
 | yomawari | 夜廻 | 《夜迴》（日语：夜廻）是日本一软件开发并发售的恐怖动作冒险游戏，主要讲述寻找失物的少女在午夜街道寻觅的故事。 | [维基百科](https://zh.wikipedia.org/wiki/夜迴) |
 | the addams family | 亚当斯一家 |  | [https://zh.m.wikipedia.org/zh-hans/阿達一族](https://zh.m.wikipedia.org/zh-hans/阿達一族) |
 | thundercats | 霹雳猫 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/霹雳猫) |
+| gargoyles | 夜行神龙 |  | [https://zh.m.wikipedia.org/zh-hans/夜行神龍](https://zh.m.wikipedia.org/zh-hans/夜行神龍) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
