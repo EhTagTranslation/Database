@@ -2135,6 +2135,7 @@ example:
 | thundercats | 霹雳猫 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/霹雳猫) |
 | gargoyles | 夜行神龙 |  | [https://zh.m.wikipedia.org/zh-hans/夜行神龍](https://zh.m.wikipedia.org/zh-hans/夜行神龍) |
 | dora the explorer | 爱探险的朵拉 |  | [https://zh.m.wikipedia.org/zh-hans/愛探險的朵拉](https://zh.m.wikipedia.org/zh-hans/愛探險的朵拉) |
+| gremlins | 小魔怪 |  | [维基百科](https://zh.wikipedia.org/zh-hans/小精靈_%28電影%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
