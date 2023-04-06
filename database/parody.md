@@ -2134,6 +2134,7 @@ example:
 | the addams family | 亚当斯一家 |  | [https://zh.m.wikipedia.org/zh-hans/阿達一族](https://zh.m.wikipedia.org/zh-hans/阿達一族) |
 | thundercats | 霹雳猫 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/霹雳猫) |
 | gargoyles | 夜行神龙 |  | [https://zh.m.wikipedia.org/zh-hans/夜行神龍](https://zh.m.wikipedia.org/zh-hans/夜行神龍) |
+| dora the explorer | 爱探险的朵拉 |  | [https://zh.m.wikipedia.org/zh-hans/愛探險的朵拉](https://zh.m.wikipedia.org/zh-hans/愛探險的朵拉) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
