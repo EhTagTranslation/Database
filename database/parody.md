@@ -2138,6 +2138,7 @@ example:
 | gremlins | 小魔怪 |  | [维基百科](https://zh.wikipedia.org/zh-hans/小精靈_%28電影%29) |
 | lazytown | 懒人小镇 |  | [https://zh.m.wikipedia.org/wiki/懶人小鎮](https://zh.m.wikipedia.org/wiki/懶人小鎮) |
 | deltarune | 三角符文 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/Deltarune) |
+| vampire knight | 吸血鬼骑士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
