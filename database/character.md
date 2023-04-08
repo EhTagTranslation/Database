@@ -4530,6 +4530,7 @@ example:
 | miyako shikimori | 式守都 |  | [萌娘百科](https://zh.moegirl.org.cn/式守都) |
 | yamagishi fuuka | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
 | yukari takeba | 岳羽由加莉 | 岳羽由加莉（日语：岳羽 ゆかり（たけば ゆかり） (Takeba Yukari)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
+| aigis | 埃癸斯 | 埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/埃癸斯%28女神异闻录3%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
