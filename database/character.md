@@ -4518,7 +4518,7 @@ example:
 | toshiro hijikata | 土方十四郎 | ![](https://static.wikia.nocookie.net/gintama/images/b/b0/Hijikata_2017.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/土方十四郎) [Fandom](https://gintama.fandom.com/wiki/Hijikata_Toushirou) |
 | kazamori sasa | 佐佐风守 | 所属作品: `p:un-go`<br><br>![](https://static.wikia.nocookie.net/un-go/images/c/ca/Kazamori.png)<br><br>禁忌的人工智能生命体‧R.A.I.最后存在的个体，也是第一个被制造者佐佐驹守制作出来的生命体。 一开始被驹守以养子的身分带入佐佐家，在驹守假死后掌控佐佐集团，被驹守当做傀儡代理人。 后加入主角团体，积极的参与解决各种事件。 | [萌娘百科](https://zh.moegirl.org.cn/zh/佐佐风守) [Fandom](https://un-go.fandom.com/wiki/Kazamori_Sasa) |
 | kozuki momonosuke | 光月桃之助 | 所属作品: `p:one piece`<br>光月桃之助是现任和之国将军。也是已故九里大名光月家之主——光月御田之子、前将军光月锄烧之孙。 | [Fandom](https://onepiece.fandom.com/zh/wiki/光月桃之助) |
-| kanna ogata | 尾刃カンナ | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Kanna_Portrait.png) | [pixiv](https://dic.pixiv.net/a/尾刃カンナ) [Fandom](https://bluearchive.fandom.com/wiki/Ogata_Kanna) |
+| kanna ogata | 尾刃康娜 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Kanna_Portrait.png) | [pixiv](https://dic.pixiv.net/a/尾刃カンナ) [Fandom](https://bluearchive.fandom.com/wiki/Ogata_Kanna) |
 | nero | 尼禄 | 卡普空的电子游戏鬼泣4代、5代的男主 |  |
 | deadpool | 死侍 |  |  |
 | lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |

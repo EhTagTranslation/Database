@@ -1592,7 +1592,7 @@ example:
 | itachi | いたち |  |  |
 | aya shachou | 彩社长 |  |  |
 | fukumaaya | ふくまーや |  |  |
-| higashide irodori | 东出イロドリ | ![twitter](https://pbs.twimg.com/profile_images/1492708249761562624/r3cP1nmJ_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/H_irodori) [pixiv](https://www.pixiv.net/users/56825214) |
+| higashide irodori | 東出イロドリ | ![twitter](https://pbs.twimg.com/profile_images/1492708249761562624/r3cP1nmJ_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/H_irodori) [pixiv](https://www.pixiv.net/users/56825214) |
 | hiura r | 火浦R |  |  |
 | karube guri | 軽部ぐり |  |  |
 | kusatsu terunyo | 草津てるにょ |  |  |
@@ -2095,7 +2095,7 @@ example:
 | shikkarimono no takashi-kun | しっかり者のタカシくん |  |  |
 | survival knife | サバイバル刃 |  |  |
 | kishiri toworu | ヲルト |  |  |
-| yakitomato | 烧きトマト |  |  |
+| yakitomato | 焼きトマト |  |  |
 | ban kazuyasu | 伴カズヤス |  |  |
 | kaneko toshiaki | かねことしあき |  |  |
 | labui | 羅ぶい |  |  |
@@ -3123,7 +3123,7 @@ example:
 | horikawa gorou | 堀川悟郎 |  |  |
 | kandenki | 感电器 |  | [Twitter](https://twitter.com/batibatizekkyou)<br>[pixiv](https://www.pixiv.net/users/35107301) |
 | tsukimi ruko | 月見ルコ |  |  |
-| kameyama shiruko | 龟山しるこ | ![twitter](https://pbs.twimg.com/profile_images/1401005712344436737/qf5v0_r6_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://img.dlsite.jp/modpub/images2/work/doujin/RJ206000/RJ205831_img_main.jpg")<br><br>**作品** | [twitter](https://twitter.com/siru5zenzai) [pixiv](https://www.pixiv.net/users/9973882) |
+| kameyama shiruko | 亀山しるこ | ![twitter](https://pbs.twimg.com/profile_images/1401005712344436737/qf5v0_r6_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://img.dlsite.jp/modpub/images2/work/doujin/RJ206000/RJ205831_img_main.jpg")<br><br>**作品** | [twitter](https://twitter.com/siru5zenzai) [pixiv](https://www.pixiv.net/users/9973882) |
 | takimoto yukari | 瀧本ゆかり |  | [pixiv](https://www.pixiv.net/users/18858574) [Twitter](https://twitter.com/karine_yukari) |
 | sakamoto kafka | 阪本KAFKA |  | [Twitter](https://twitter.com/skafka15) [pixiv](https://www.pixiv.net/users/22151083) |
 | itsutsuse | 古川五势（いつつせ） | 海里名：いつつせ<br>上岸名：古川五勢 | [pixiv](https://www.pixiv.net/users/8415301) [Twitter](https://twitter.com/fiveiro) |
@@ -3162,7 +3162,7 @@ example:
 | kagura nanaki | 神楽七姫 |  |  |
 | nozomi tsubame | 希望つばめ |  | [Twitter](https://twitter.com/t_nozomi) [pixiv](https://www.pixiv.net/users/232066) |
 | saba satoru | 佐波サトル |  |  |
-| nagashiro rouge | 长代ルージュ | ![twitter](https://pbs.twimg.com/profile_images/1376156712789417990/BK4f6pi3_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
+| nagashiro rouge | 長代ルージュ | ![twitter](https://pbs.twimg.com/profile_images/1376156712789417990/BK4f6pi3_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
 | kuroiwa menou | 黑岩玛瑙 |  |  |
 | isorashi | 五十嵐唱乃 |  |  |
 | minato fumi | 三巷文 |  |  |

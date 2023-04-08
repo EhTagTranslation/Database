@@ -12079,7 +12079,7 @@ example:
 | yakan honpo | 薬缶本舗 |  |  |
 | yakata | 館 |  |  |
 | yaki lemon | 焼きレモン |  |  |
-| yaki tomahawk steak | 烧きトマホークステーキ |  |  |
+| yaki tomahawk steak | 焼きトマホークステーキ |  |  |
 | yakihata nyuugyou | 焼畑乳業 |  |  |
 | yakihebi | やきへび |  |  |
 | yakimisomura | ヤキミソ村 |  |  |
