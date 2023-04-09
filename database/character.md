@@ -4528,7 +4528,7 @@ example:
 | alexia midgar | 阿莱克西亚·米德嘉尔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>米德加尔王国的第二王女。作为米德加尔魔剑士学园的高岭之花，被同学们羡慕着，但在背后对希德恶言恶语，本性也毕露无疑。面对优秀的魔剑士姐姐爱丽丝而感到自卑，但也有着勤奋直率的一面。 |  |
 | wednesday addams | 星期三·亚当斯 |  | [https://zh.m.wikipedia.org/wiki/星期三\_%28电视剧%29](https://zh.m.wikipedia.org/wiki/星期三_%28电视剧%29) |
 | miyako shikimori | 式守都 |  | [萌娘百科](https://zh.moegirl.org.cn/式守都) |
-| yamagishi fuuka | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
+| fuuka yamagishi | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
 | yukari takeba | 岳羽由加莉 | 岳羽由加莉（日语：岳羽 ゆかり（たけば ゆかり） (Takeba Yukari)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
 | aigis | 埃癸斯 | 埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/埃癸斯%28女神异闻录3%29#) |
 
