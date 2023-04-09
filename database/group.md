@@ -12579,6 +12579,7 @@ example:
 | satou mitsu | さとうみつ | 画师`omitsu`所属社团 |  |
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
+| shironekoya | 白猫屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
