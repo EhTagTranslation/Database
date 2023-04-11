@@ -12410,6 +12410,7 @@ example:
 | hirota shimaguni | 浩田岛国 |  |  |
 | mutou tetsu | 武藤铁 |  |  |
 | agachi | あがち |  |  |
+| shiina shinya | 椎名深夜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
