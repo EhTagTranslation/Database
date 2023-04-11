@@ -12580,6 +12580,7 @@ example:
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
 | shironekoya | 白猫屋 |  |  |
+| mugen karaage | 無限からあげ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
