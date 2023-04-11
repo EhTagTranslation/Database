@@ -12581,6 +12581,7 @@ example:
 | uruudoki | うるうどき |  |  |
 | shironekoya | 白猫屋 |  |  |
 | mugen karaage | 無限からあげ |  |  |
+| yonaka works | ヨナカWorks |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
