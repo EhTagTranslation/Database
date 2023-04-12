@@ -2139,6 +2139,7 @@ example:
 | lazytown | 懒人小镇 |  | [https://zh.m.wikipedia.org/wiki/懶人小鎮](https://zh.m.wikipedia.org/wiki/懶人小鎮) |
 | deltarune | 三角符文 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/Deltarune) |
 | vampire knight | 吸血鬼骑士 |  |  |
+| blue reflection | 蔚蓝反射（幻舞少女之剑） | 《BLUE REFLECTION》系列是GUST制作的游戏及后续的跨媒体企划，包括主机游戏、移动端游戏、电视动画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/BLUE_REFLECTION系列) [维基百科](https://zh.wikipedia.org/zh/BLUE_REFLECTION_幻舞少女之劍) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
