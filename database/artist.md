@@ -12412,6 +12412,7 @@ example:
 | agachi | あがち |  |  |
 | shiina shinya | 椎名深夜 |  |  |
 | touketsu | 卜ウケツ |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
+| hoshina meito | 星名めいと | 曾用名meito | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67) |
 
 <!--TEMPLATE:
 |  |  |  |  |
