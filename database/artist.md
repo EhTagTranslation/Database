@@ -12411,6 +12411,7 @@ example:
 | mutou tetsu | 武藤铁 |  |  |
 | agachi | あがち |  |  |
 | shiina shinya | 椎名深夜 |  |  |
+| touketsu | 卜ウケツ |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
