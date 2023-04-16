@@ -554,7 +554,7 @@ example:
 | baltimore | 巴尔的摩 | 美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)） | [碧蓝航线:巴尔的摩](https://zh.moegirl.org.cn/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org.cn/战舰少女:巴尔的摩) |
 |  | ▲ 各种舰娘人物 |  |  |
 |  | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |  |
-| producer | 制作人 |  |  |
+| producer | 制作人 | 一般指 `p:the idolmaster`中的制作人。在偶像大师系列中，玩家扮演的角色基本是以制作人的身份出现在游戏中，以培育偶像为主要游戏内容。由于是玩家本身的角色，为了更有代入感，在游戏中从来没有设定过容貌。因此，在需要固定形象的二次创作中，人们创造了各式各样的制作人形象。 | [萌娘百科](https://zh.moegirl.org.cn/制作人%28偶像大师%29) |
 | haruka amami | 天海春香 |  |  |
 | chihaya kisaragi | 如月千早 |  |  |
 | yukiho hagiwara | 萩原雪步 |  |  |
