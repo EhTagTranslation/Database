@@ -7778,7 +7778,7 @@ example:
 | meiji michiru | 明治ミチル |  |  |
 | meika | めいか |  |  |
 | meiko | めい子 |  |  |
-| meito | meito |  |  |
+| meito | 星名めいと | 曾用名meito | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67) |
 | meiya | メイヤ |  |  |
 | mekabu aji max | めかぶ味MAX |  |  |
 | mekuri | めくり |  |  |
