@@ -582,7 +582,7 @@ example:
 | chieri ogata | 绪方智绘里 |  |  |
 | kyoko igarashi | 五十岚响子 |  |  |
 |  | 柳濑美由纪 |  |  |
-| momoka sakurai | 樱井桃华 |  |  |
+| momoka sakurai | 樱井桃华 | 樱井桃华是BNEI与Cygames开发的手机社群游戏《 `p:the idolmaster`灰姑娘女孩》系列中的萝莉大小姐偶像。 | [萌娘百科](https://zh.moegirl.org.cn/樱井桃华) |
 | yumeko sakurai | 樱井梦子 |  |  |
 |  | 江上椿 |  |  |
 | hasumi nagatomi | 长富莲实 |  |  |
