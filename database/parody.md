@@ -2140,6 +2140,7 @@ example:
 | deltarune | 三角符文 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/Deltarune) |
 | vampire knight | 吸血鬼骑士 |  |  |
 | blue reflection | 蔚蓝反射（幻舞少女之剑） | 《BLUE REFLECTION》系列是GUST制作的游戏及后续的跨媒体企划，包括主机游戏、移动端游戏、电视动画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/BLUE_REFLECTION系列) [维基百科](https://zh.wikipedia.org/zh/BLUE_REFLECTION_幻舞少女之劍) |
+| fumikiri jikan | 平交道时间 | 《平交道时间》（日语：踏切時間）是由里好创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh/平交道时间) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
