@@ -12582,6 +12582,7 @@ example:
 | shironekoya | 白猫屋 |  |  |
 | mugen karaage | 無限からあげ |  |  |
 | yonaka works | ヨナカWorks |  |  |
+| touketsu shamen | 卜ウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
