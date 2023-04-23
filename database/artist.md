@@ -12417,6 +12417,7 @@ example:
 | kuroseimu | クロセイム |  |  |
 | teppo | 鉄歩 |  |  |
 | mochio | 白蜜モチ |  |  |
+| kitagawa zayaku | 北川ざやく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
