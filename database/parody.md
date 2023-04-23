@@ -2143,6 +2143,7 @@ example:
 | fumikiri jikan | 平交道时间 | 《平交道时间》（日语：踏切時間）是由里好创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh/平交道时间) |
 | all out | ALL OUT!! | 《ALL OUT!!》（日语：オールアウト!!）是雨濑栞的橄榄球题材日本漫画作品。本作品描写主角祇园健次为初学者，加入县立神奈川高校（简称“神高”）橄榄球社之后面临各式各样的挑战。 | [萌娘百科](https://zh.moegirl.org.cn/ALL_OUT)!! [维基百科](https://zh.wikipedia.org/zh/ALL_OUT)!! |
 | kuma miko | 熊巫女 |  |  |
+| tsuki ni yorisou otome no sahou | 近月少女的礼仪 | 《近月少女的礼仪》（日语：月に寄りそう乙女の作法）是由Navel制作的一部Galgame，并有近月少女的礼仪2、少女理论及其周边、少女理论及其之后的周边等衍生作品。近朱者赤，近墨者黑，近月者弯 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/近月少女的礼仪) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
