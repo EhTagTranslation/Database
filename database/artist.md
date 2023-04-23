@@ -12415,6 +12415,7 @@ example:
 | hoshina meito | 星名めいと | 曾用名meito | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67) |
 | nanonanno | なのなんの |  | [pixiv](https://www.pixiv.net/users/52362501)<br>[Twitter](https://twitter.com/nanonanno18) |
 | kuroseimu | クロセイム |  |  |
+| teppo | 鉄歩 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
