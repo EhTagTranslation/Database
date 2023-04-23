@@ -10873,7 +10873,7 @@ example:
 | ting | Ting |  |  |
 | tipo | ティーポ |  |  |
 | tira | Tira |  |  |
-| tirotata | Tirotata |  |  |
+| tirotata | ちろたた |  |  |
 | titiduki | チチヅキ |  |  |
 | tiv | Tiv |  |  |
 | tj-type1 | TJ-type1 |  |  |
