@@ -12418,6 +12418,7 @@ example:
 | teppo | 鉄歩 |  |  |
 | mochio | 白蜜モチ |  |  |
 | kitagawa zayaku | 北川ざやく |  |  |
+| saito tsubame | 齋藤燕 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
