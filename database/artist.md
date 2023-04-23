@@ -4195,7 +4195,7 @@ example:
 | appyalpie | あぴゃるぴえ |  |  |
 | aqu | 亜空 |  |  |
 | aqua vit | アクアビット |  |  |
-| aquajet kosuke | AJこーすけ |  |  |
+| kosuke poke | こーすけぽけ |  |  |
 | aqui | AQUI |  |  |
 | ar-mai | ar-mai |  |  |
 | arabiki koshou | あらびき故障 |  |  |
