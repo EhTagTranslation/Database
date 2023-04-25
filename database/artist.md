@@ -12419,6 +12419,7 @@ example:
 | mochio | 白蜜モチ |  |  |
 | kitagawa zayaku | 北川ざやく |  |  |
 | saito tsubame | 齋藤燕 |  |  |
+| aohonoo | 蒼炎 |  | [pixiv](https://www.pixiv.net/users/5282110) |
 
 <!--TEMPLATE:
 |  |  |  |  |
