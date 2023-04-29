@@ -1531,7 +1531,7 @@ example:
 | goto-beido | ゴト・ベイドー |  |  |
 | morikura en | 森仓圆 |  |  |
 | af kuro | アフ黒 |  |  |
-| kaguyuzu | カグユヅ |  |  |
+| kaguyuzu | カグユヅ |  | [pixiv](https://www.pixiv.net/users/5287) [Twitter](https://twitter.com/kaguyuzu) |
 | dsmile | DSマイル |  | [Twitter](https://twitter.com/DSmile9) [pixiv](https://www.pixiv.net/users/795196) |
 | monoto | ものと |  |  |
 | snowmi | すのみ |  |  |
