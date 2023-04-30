@@ -2095,7 +2095,7 @@ example:
 | shikkarimono no takashi-kun | しっかり者のタカシくん |  |  |
 | survival knife | サバイバル刃 |  |  |
 | kishiri toworu | ヲルト |  |  |
-| yakitomato | 烧きトマト |  |  |
+| yakitomato | 八木户マト | ![twitter](https://pbs.twimg.com/profile_images/1336521079406297091/Lcs3NlRw_400x400.jpg)<br><br>**作者推特头像**<br><br>曾用名“焼きトマト”，社团`yaki tomahawk steak`主笔画师 | [twitter](https://twitter.com/yakitomahawk) [pixiv](https://www.pixiv.net/users/13651304) |
 | ban kazuyasu | 伴カズヤス |  |  |
 | kaneko toshiaki | かねことしあき |  |  |
 | labui | 羅ぶい |  |  |
