@@ -12420,6 +12420,7 @@ example:
 | kitagawa zayaku | 北川ざやく |  |  |
 | saito tsubame | 齋藤燕 |  |  |
 | aohonoo | 蒼炎 |  | [pixiv](https://www.pixiv.net/users/5282110) |
+| tamayura banko | 玉ぼん | ![twitter](https://pbs.twimg.com/profile_images/1641043721209942021/T9au5NTf_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/tamabon_mo) [pixiv](https://www.pixiv.net/users/11056668) |
 
 <!--TEMPLATE:
 |  |  |  |  |
