@@ -2146,6 +2146,7 @@ example:
 | tsuki ni yorisou otome no sahou | 近月少女的礼仪 | 《近月少女的礼仪》（日语：月に寄りそう乙女の作法）是由Navel制作的一部Galgame，并有近月少女的礼仪2、少女理论及其周边、少女理论及其之后的周边等衍生作品。近朱者赤，近墨者黑，近月者弯 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/近月少女的礼仪) |
 | witchs weapon | 魔女兵器 |  | [http://www.witchweapon.com/m/](http://www.witchweapon.com/m/)<br>[https://zh.m.wikipedia.org/wiki/魔女兵器](https://zh.m.wikipedia.org/wiki/魔女兵器)<br>[萌娘百科](https://zh.moegirl.org.cn/魔女兵器) |
 | dead by daylight | 黎明杀机 | 《黎明杀机》是一款由比哈维尔互动公司开发，星风工作室发行的非对称竞技生存恐怖游戏。<br>于2016年6月14日以Microsoft Windows版在Steam上首次发售。 |  |
+| sakuna of rice and ruin | 天穗之咲稻姬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
