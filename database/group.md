@@ -10496,7 +10496,7 @@ example:
 | siop | 単一統合作戦計画 |  |  |
 | sippo-soft | SIPPO-SOFT |  |  |
 | siratama nikukyuu | しらたま肉球 |  |  |
-| siratamadon | 白玉丼 |  |  |
+| siratamadon | 白玉井 |  |  |
 | sirius. | SIRIUS. |  |  |
 | sirojio | 白塩 |  |  |
 | siropome | しろぽめ |  |  |
