@@ -12327,7 +12327,7 @@ example:
 | kuroni bokujou | クロニ |  | [pixiv](https://www.pixiv.net/users/4417141) [Twitter](https://twitter.com/KURONI_ranch) |
 | himiya zyo-zu | 比宮じょーず |  | [pixiv](https://www.pixiv.net/users/9609632) [Twitter](https://twitter.com/ramune_himiya) |
 | hinageshi | 雏罂粟 |  |  |
-| unknown showhey | 馬島祥平 |  |  |
+| unknown showhey | 马岛祥平 | ![twitter](https://pbs.twimg.com/profile_images/1243233052135804928/2dJ_FlW1_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/Unknown_ShowHey) [pixiv](https://www.pixiv.net/users/1451261) |
 | saito naoki | 斋藤直葵 |  | [Twitter](https://twitter.com/_naokisaito) [pixiv](https://www.pixiv.net/users/356481) [Bilibili](https://space.bilibili.com/1688563568) |
 | yoshiku | 四々九 |  | [Twitter](https://twitter.com/yoshiku449) [pixiv](https://www.pixiv.net/users/533800) |
 | kakage | かかげ |  | [Twitter](https://twitter.com/kakage0904) [pixiv](https://www.pixiv.net/users/206310) |
