@@ -10140,7 +10140,7 @@ example:
 | shirasu reiji | 白州礼二 |  |  |
 | shirasu youichi | 白須遙一 |  |  |
 | shiratama azuki | 白玉アズキ |  |  |
-| shiratama dango | 白玉団子 |  |  |
+| shiratama dango | 白玉团子 |  |  |
 | shiratama1gou | 白玉一号 |  |  |
 | shiratsuki shiori | 白月しおり |  |  |
 | shirihito | 尻人 |  |  |
