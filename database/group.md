@@ -10160,7 +10160,7 @@ example:
 | seiyou tanka | 西洋短歌 |  |  |
 | seizousha | 性造社 |  |  |
 | sekai chizu wa chi no ato | 世界地図は血の跡 |  |  |
-| sekai kakumei club | 世界革命倶楽部 |  |  |
+| sekai kakumei club | 世界革命俱乐部 |  |  |
 | sekai no hate ni hanataba o. | 世界の果てに花束を。 |  |  |
 | sekai no tomizawa | 世界のTOMIZAWA |  |  |
 | sekai saiko | 世界最古 |  |  |
