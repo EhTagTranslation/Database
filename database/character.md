@@ -4540,6 +4540,7 @@ example:
 | makoto yuuki | 结城理 | 结城理（日语：結城 理（ゆうき まこと） (Yuuki Makoto)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3》的男性主人公。<br>“结城理”为剧场版中的姓名，漫画中名为“有里凑”，舞台剧里则叫“汐见朔也”。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录3%29#) |
 | asuka kurashina | 仓科明日香 | 仓科明日香是sprite原作的游戏、GONZO改编的动画《苍之彼方的四重奏》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/仓科明日香) |
 | ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
+| joey | 乔伊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
