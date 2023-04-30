@@ -9192,7 +9192,7 @@ example:
 | ozawa aoi | オザワアオイ |  |  |
 | ozawa hiyori | 小沢ひより |  |  |
 | ozawa manabu | 緒沢まなぶ |  |  |
-| ozawa reido | 小澤零人 |  |  |
+| ozawa reido | 小泽零人 |  |  |
 | ozawa you | 小沢悠 |  |  |
 | ozora ituki | 大空樹 |  |  |
 | ozuno mahou | 緒図乃真朋 |  |  |
