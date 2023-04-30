@@ -12584,6 +12584,7 @@ example:
 | yonaka works | ヨナカWorks |  |  |
 | touketsu shamen | 卜ウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
 | koutetsu shabon dama | 钢铁しゃぼん玉 | 画师`tamabon`所属社团 |  |
+| hogeramu | ほげらむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
