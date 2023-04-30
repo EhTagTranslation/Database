@@ -1140,7 +1140,7 @@ example:
 | karatakewari | からたけわり |  |  |
 | mifune seijirou | 三船诚二郎 |  |  |
 | natsu no oyatsu | 夏のおやつ |  |  |
-| homura subaru | 焔すばる |  |  |
+| homura subaru | 焰すばる | ![twitter](https://pbs.twimg.com/profile_images/1591958189821632513/u5kFJ7Xi_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Blood_Edge) [pixiv](https://www.pixiv.net/users/4520) |
 | dakouin saburou | 蛇光院三郎 |  |  |
 | gura nyuutou | ぐら乳頭 |  |  |
 | inomaru | いのまる |  |  |
