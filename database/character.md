@@ -4542,6 +4542,7 @@ example:
 | ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
 | joey | 乔伊 |  |  |
 | feng min | 凤敏 |  |  |
+| friedrich der grosse | 腓特烈大帝 |  | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
