@@ -2149,6 +2149,7 @@ example:
 | sakuna of rice and ruin | 天穗之咲稻姬 |  |  |
 | oshi no ko | 我推的孩子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/【我推的孩子】) |
 | tensei shitara ken deshita | 转生就是剑 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/转生就是剑) [维基百科](https://zh.wikipedia.org/zh/轉生就是劍) |
+| juuou mujin no fafnir | 铳皇无尽的法夫纳 |  | [萌娘百科](https://zh.moegirl.org.cn/铳皇无尽的法夫纳) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
