@@ -2148,6 +2148,7 @@ example:
 | dead by daylight | 黎明杀机 | 《黎明杀机》是一款由比哈维尔互动公司开发，星风工作室发行的非对称竞技生存恐怖游戏。<br>于2016年6月14日以Microsoft Windows版在Steam上首次发售。 |  |
 | sakuna of rice and ruin | 天穗之咲稻姬 |  |  |
 | oshi no ko | 我推的孩子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/【我推的孩子】) |
+| tensei shitara ken deshita | 转生就是剑 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/转生就是剑) [维基百科](https://zh.wikipedia.org/zh/轉生就是劍) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
