@@ -1192,7 +1192,7 @@ example:
 | kloah | Kloah |  |  |
 | chirumakuro | ちるまくろ |  |  |
 | fumihiko | ふみひこ |  |  |
-| gustav | ぐすたふ |  |  |
+| gustav | ぐすたふ |  | [Twitter](https://twitter.com/telomereNA)<br>[pixiv](https://www.pixiv.net/users/615) |
 | matsuna hitoshi | 松名一 |  |  |
 | uekan | うえかん |  |  |
 | koga ryouichi | 古贺亮一 |  |  |
