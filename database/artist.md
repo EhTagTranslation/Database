@@ -12426,7 +12426,6 @@ example:
 | saiogauma | 塞翁が马 |  |  |
 | usui yui | 碓氷汐泉 |  | [pixiv](https://www.pixiv.net/users/4141196) [Twitter](https://twitter.com/yui_usui1202) |
 | raiou | raiou |  | [pixiv](https://www.pixiv.net/users/1503044) |
-| chinese | 汉语 | 汉语，又称中文、华语、唐话，或被视为汉藏语系汉语族下之唯一一种语言，或被视为语族。 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
