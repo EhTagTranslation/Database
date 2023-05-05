@@ -2153,6 +2153,7 @@ example:
 | soukyuu no fafner | 苍穹之法芙娜 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/苍穹之法芙娜) |
 | heaven burns red | 绯染天空 | 红烧天堂 | [https://heaven-burns-red.com/](https://heaven-burns-red.com/)<br>[Twitter](https://twitter.com/intent/follow?screen_name=heavenburnsred)<br>[https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA](https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA)<br>[https://lin.ee/h0pDUps](https://lin.ee/h0pDUps)<br>[https://apps.apple.com/jp/app/id1576831351](https://apps.apple.com/jp/app/id1576831351)<br>[https://play.google.com/store/apps/details?id=com.heavenburnsred](https://play.google.com/store/apps/details?id=com.heavenburnsred)<br>[https://store.steampowered.com/app/1973710/\_/?utm\_source=website&utm\_medium=HP&utm\_campaign=steam](https://store.steampowered.com/app/1973710/_/?utm_source=website&utm_medium=HP&utm_campaign=steam)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[https://zh.m.wikipedia.org/wiki/緋染天空\_Heaven\_Burns\_Red](https://zh.m.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
 | fire emblem engage | 火焰之纹章 结合 | 火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/火焰之纹章_结合) |
+| watashi no yuri wa oshigoto desu | 我的百合乃工作是也！ |  | [萌娘百科](https://zh.moegirl.org.cn/zh/我的百合乃工作是也！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
