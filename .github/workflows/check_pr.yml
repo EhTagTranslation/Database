@@ -9,18 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Download tool
-        uses: i3h/download-release-asset@v1.3.3
-        with:
-          owner: EhTagTranslation
-          repo: Editor
-          tag: latest
-          file: release.zip
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Extract tool
-        run: |
-          echo ::group::unzip
-          unzip ./release.zip -d ./tool
-          echo ::endgroup::
+        run: ./scripts/init.sh
 
       - name: Build
         run: node --enable-source-maps tool create-release --strict . ./publish

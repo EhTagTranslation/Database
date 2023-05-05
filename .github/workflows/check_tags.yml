@@ -19,18 +19,7 @@ jobs:
         with:
           fetch-depth: 50
       - name: Download tool
-        uses: i3h/download-release-asset@v1.3.3
-        with:
-          owner: EhTagTranslation
-          repo: Editor
-          tag: latest
-          file: release.zip
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Extract tool
-        run: |
-          echo ::group::unzip
-          unzip ./release.zip -d ./tool
-          echo ::endgroup::
+        run: ./scripts/init.sh
 
       - name: Build
         env:
