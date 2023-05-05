@@ -10160,7 +10160,7 @@ example:
 | seiyou tanka | 西洋短歌 |  |  |
 | seizousha | 性造社 |  |  |
 | sekai chizu wa chi no ato | 世界地図は血の跡 |  |  |
-| sekai kakumei club | 世界革命倶楽部 |  |  |
+| sekai kakumei club | 世界革命俱乐部 |  |  |
 | sekai no hate ni hanataba o. | 世界の果てに花束を。 |  |  |
 | sekai no tomizawa | 世界のTOMIZAWA |  |  |
 | sekai saiko | 世界最古 |  |  |
@@ -10496,7 +10496,7 @@ example:
 | siop | 単一統合作戦計画 |  |  |
 | sippo-soft | SIPPO-SOFT |  |  |
 | siratama nikukyuu | しらたま肉球 |  |  |
-| siratamadon | 白玉丼 |  |  |
+| siratamadon | 白玉井 |  |  |
 | sirius. | SIRIUS. |  |  |
 | sirojio | 白塩 |  |  |
 | siropome | しろぽめ |  |  |
@@ -12079,7 +12079,7 @@ example:
 | yakan honpo | 薬缶本舗 |  |  |
 | yakata | 館 |  |  |
 | yaki lemon | 焼きレモン |  |  |
-| yaki tomahawk steak | 焼きトマホークステーキ |  |  |
+| yaki tomahawk steak | 烧きトマホークステーキ | 画师`yakitomato`所属社团 |  |
 | yakihata nyuugyou | 焼畑乳業 |  |  |
 | yakihebi | やきへび |  |  |
 | yakimisomura | ヤキミソ村 |  |  |
@@ -12504,7 +12504,7 @@ example:
 | kakuzatou | 角砂糖 |  |  |
 | gyuunyuu shoujo seisakusho | 牛乳少女制作所 |  |  |
 | abukumadou | 阿武隈堂 |  |  |
-| hakutamayu | 白玉湯 |  |  |
+| hakutamayu | 白玉汤 |  |  |
 | nodomaru biyori | のどまる日和 |  |  |
 | itabira yasai | イタビラ野菜 |  |  |
 | maria planet | マリアプラネット |  |  |
@@ -12579,6 +12579,12 @@ example:
 | satou mitsu | さとうみつ | 画师`omitsu`所属社团 |  |
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
+| shironekoya | 白猫屋 |  |  |
+| mugen karaage | 無限からあげ |  |  |
+| yonaka works | ヨナカWorks |  |  |
+| touketsu shamen | 卜ウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
+| koutetsu shabon dama | 钢铁しゃぼん玉 | 画师`tamayura banko`所属社团 |  |
+| hogeramu | ほげらむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

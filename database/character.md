@@ -554,7 +554,7 @@ example:
 | baltimore | 巴尔的摩 | 美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)） | [碧蓝航线:巴尔的摩](https://zh.moegirl.org.cn/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org.cn/战舰少女:巴尔的摩) |
 |  | ▲ 各种舰娘人物 |  |  |
 |  | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |  |
-| producer | 制作人 |  |  |
+| producer | 制作人 | 一般指 `p:the idolmaster`中的制作人。在偶像大师系列中，玩家扮演的角色基本是以制作人的身份出现在游戏中，以培育偶像为主要游戏内容。由于是玩家本身的角色，为了更有代入感，在游戏中从来没有设定过容貌。因此，在需要固定形象的二次创作中，人们创造了各式各样的制作人形象。 | [萌娘百科](https://zh.moegirl.org.cn/制作人%28偶像大师%29) |
 | haruka amami | 天海春香 |  |  |
 | chihaya kisaragi | 如月千早 |  |  |
 | yukiho hagiwara | 萩原雪步 |  |  |
@@ -582,7 +582,7 @@ example:
 | chieri ogata | 绪方智绘里 |  |  |
 | kyoko igarashi | 五十岚响子 |  |  |
 |  | 柳濑美由纪 |  |  |
-| momoka sakurai | 樱井桃华 |  |  |
+| momoka sakurai | 樱井桃华 | 樱井桃华是BNEI与Cygames开发的手机社群游戏《 `p:the idolmaster`灰姑娘女孩》系列中的萝莉大小姐偶像。 | [萌娘百科](https://zh.moegirl.org.cn/樱井桃华) |
 | yumeko sakurai | 樱井梦子 |  |  |
 |  | 江上椿 |  |  |
 | hasumi nagatomi | 长富莲实 |  |  |
@@ -4531,6 +4531,22 @@ example:
 | fuuka yamagishi | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
 | yukari takeba | 岳羽由加莉 | 岳羽由加莉（日语：岳羽 ゆかり（たけば ゆかり） (Takeba Yukari)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
 | aigis | 埃癸斯 | 埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/埃癸斯%28女神异闻录3%29#) |
+| celia claire | 瑟莉亚·库列尔 | 所属作品: `p:seirei gensouki` | [萌娘百科](https://zh.moegirl.org.cn/瑟莉亚·库列尔) |
+| hinata tachibana | 橘日向 | 橘日向是由津留崎优所创作的漫画《与变成了异世界美少女的大叔一起冒险》及其衍生作品的女主角。32岁的单身原大叔美少女。身高体重都很平均的平平无奇的男生，从小到大喜欢的女生全都爱慕着好友神宫寺司，自己毫无机会。为了神宫寺能早点结婚而经常拉着他去参加联谊。在一次联谊会上喝得烂醉如泥，抱怨为什么没有女生喜欢自己，与其这样下去，不如变成女孩子算了，在回去的路上，被女神转移到了异世界，变成了倾倒众生的金发碧眼绝世美少女。 | [萌娘百科](https://zh.moegirl.org.cn/橘日向) |
+| conte di cavour | 加富尔伯爵 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:加富尔伯爵) |
+| dhole | 豺 |  |  |
+| senjuro rengoku | 炼狱千寿郎 | 所属作品: `p:kimetsu no yaiba`<br><br>炎柱炼狱杏寿郎的弟弟，待人温文尔雅。原本是作为炎柱的继承人的立场努力锻炼剑术，但发现自身没有成为剑士的才能，而放弃了剑士的道路，决定用自己的方式去寻找帮助别人的道路。 | [萌娘百科](https://zh.moegirl.org.cn/zh/炼狱千寿郎) |
+| female protagonist | 汐见琴音 | 汐见琴音（日语：汐見 琴音（しおみ ことね） (Shiomi Kotone)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3 携带版》的女性主人公。<br>和其他主人公一样，因为在游戏中没有预设名字，所以写成了主人公子，被玩家昵称为“公子”，拆开就是日本平假名的“ハム子”，也就是“哈姆子”(female protagonist)。<br>由于原始标签将kotone shiomi重定向到female protagonist，故名称翻译为汐见琴音而不是哈姆子。 | [萌娘百科](https://zh.moegirl.org.cn/女主人公%28女神异闻录3_便携版%29#) |
+| makoto yuuki | 结城理 | 结城理（日语：結城 理（ゆうき まこと） (Yuuki Makoto)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3》的男性主人公。<br>“结城理”为剧场版中的姓名，漫画中名为“有里凑”，舞台剧里则叫“汐见朔也”。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录3%29#) |
+| asuka kurashina | 仓科明日香 | 仓科明日香是sprite原作的游戏、GONZO改编的动画《苍之彼方的四重奏》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/仓科明日香) |
+| ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
+| joey | 乔伊 |  |  |
+| feng min | 凤敏 |  |  |
+| friedrich der grosse | 腓特烈大帝 |  | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
+| mio naruse | 成濑澪 | 既能干又能干的妹妹，继承前魔王能力的恶魔。和名义上的妹妹成濑万理亚一起，企图欺骗东城迅来实现“父母双亡，有妹有房”，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。傲娇，口头禅是“杀死你一百遍”从她的魔能力场看属于字面意义，对万理亚和刃更例外。但因为主仆契约的关系，对主人心怀愧疚的话，就会马上受到契约的诅咒，产生催淫的效果，从而达到高潮。因此常常为了达到高潮而背叛主人。 | [萌娘百科](https://zh.moegirl.org.cn/zh/成濑澪) |
+| maria naruse | 成濑万理亚 | ![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/8/8f/Maria_01.png) | [萌娘百科](https://zh.moegirl.org.cn/成濑万理亚) [Fandom](https://shinmaimaou.fandom.com/wiki/Maria_Naruse) |
+| frederica baumann | 法兰黛莉卡·鲍曼 | 罗兹瓦尔宅邸的女仆，有四分之一的亚人血统，金发绿瞳的模样还有尖牙<br>![](https://static.wikia.nocookie.net/rezero/images/a/a0/Frederica_Baumann_LN_character_design.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/法兰黛莉卡·鲍曼) |
+| ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |

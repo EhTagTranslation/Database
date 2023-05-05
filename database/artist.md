@@ -1140,7 +1140,7 @@ example:
 | karatakewari | からたけわり |  |  |
 | mifune seijirou | 三船诚二郎 |  |  |
 | natsu no oyatsu | 夏のおやつ |  |  |
-| homura subaru | 焔すばる |  |  |
+| homura subaru | 焰すばる | ![twitter](https://pbs.twimg.com/profile_images/1591958189821632513/u5kFJ7Xi_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Blood_Edge) [pixiv](https://www.pixiv.net/users/4520) |
 | dakouin saburou | 蛇光院三郎 |  |  |
 | gura nyuutou | ぐら乳頭 |  |  |
 | inomaru | いのまる |  |  |
@@ -1192,7 +1192,7 @@ example:
 | kloah | Kloah |  |  |
 | chirumakuro | ちるまくろ |  |  |
 | fumihiko | ふみひこ |  |  |
-| gustav | ぐすたふ |  |  |
+| gustav | ぐすたふ |  | [Twitter](https://twitter.com/telomereNA)<br>[pixiv](https://www.pixiv.net/users/615) |
 | matsuna hitoshi | 松名一 |  |  |
 | uekan | うえかん |  |  |
 | koga ryouichi | 古贺亮一 |  |  |
@@ -1515,7 +1515,7 @@ example:
 | mizukoshi mayu | 水越まゆ |  |  |
 | mitaonsya | MITAONSYA |  |  |
 | tokumi yuiko | 笃见唯子 |  |  |
-| dantetsu | 断铁 |  |  |
+| dantetsu | 断铁（干支門三十四，〇タ） |  |  |
 | inuboshi | 犬星 | 犬星（いぬぼし）是日本漫画家。主要创作成人向的`lolicon`漫画。<br>代表作品：《月見荘のあかり》<br>![图](# "https://ehgt.org/6f/cc/6fcc869ddc87cbfa5e84c146f2de89f206f9edff-1009486-1141-1600-jpg_l.jpg") | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/犬星) |
 | saitou tsukasa | さいとうつかさ |  |  |
 | shinkaida tetsuyarou | 新贝田铁也郎 | 新貝田鉄也郎 是日本的漫画家，人物设计师。其成年向作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/0a/7a/0a7ae96c7ad2a9954f365d99bba9649dd63208a8-1345899-1154-1600-jpg_l.jpg")<br>单行本《女子ショー》 | [Twitter](https://twitter.com/shinkaida) [ニコニコ静画](https://seiga.nicovideo.jp/comic/46442?track=official_pickup) |
@@ -1531,7 +1531,7 @@ example:
 | goto-beido | ゴト・ベイドー |  |  |
 | morikura en | 森仓圆 |  |  |
 | af kuro | アフ黒 |  |  |
-| kaguyuzu | カグユヅ |  |  |
+| kaguyuzu | カグユヅ |  | [pixiv](https://www.pixiv.net/users/5287) [Twitter](https://twitter.com/kaguyuzu) |
 | dsmile | DSマイル |  | [Twitter](https://twitter.com/DSmile9) [pixiv](https://www.pixiv.net/users/795196) |
 | monoto | ものと |  |  |
 | snowmi | すのみ |  |  |
@@ -2095,7 +2095,7 @@ example:
 | shikkarimono no takashi-kun | しっかり者のタカシくん |  |  |
 | survival knife | サバイバル刃 |  |  |
 | kishiri toworu | ヲルト |  |  |
-| yakitomato | 焼きトマト |  |  |
+| yakitomato | 八木户マト | ![twitter](https://pbs.twimg.com/profile_images/1336521079406297091/Lcs3NlRw_400x400.jpg)<br><br>**作者推特头像**<br><br>曾用名“焼きトマト”，社团`yaki tomahawk steak`主笔画师 | [twitter](https://twitter.com/yakitomahawk) [pixiv](https://www.pixiv.net/users/13651304) |
 | ban kazuyasu | 伴カズヤス |  |  |
 | kaneko toshiaki | かねことしあき |  |  |
 | labui | 羅ぶい |  |  |
@@ -4195,7 +4195,7 @@ example:
 | appyalpie | あぴゃるぴえ |  |  |
 | aqu | 亜空 |  |  |
 | aqua vit | アクアビット |  |  |
-| aquajet kosuke | AJこーすけ |  |  |
+| kosuke poke | こーすけぽけ |  |  |
 | aqui | AQUI |  |  |
 | ar-mai | ar-mai |  |  |
 | arabiki koshou | あらびき故障 |  |  |
@@ -7778,7 +7778,7 @@ example:
 | meiji michiru | 明治ミチル |  |  |
 | meika | めいか |  |  |
 | meiko | めい子 |  |  |
-| meito | meito |  |  |
+| meito | 星名めいと | 曾用名meito | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67) |
 | meiya | メイヤ |  |  |
 | mekabu aji max | めかぶ味MAX |  |  |
 | mekuri | めくり |  |  |
@@ -9192,7 +9192,7 @@ example:
 | ozawa aoi | オザワアオイ |  |  |
 | ozawa hiyori | 小沢ひより |  |  |
 | ozawa manabu | 緒沢まなぶ |  |  |
-| ozawa reido | 小澤零人 |  |  |
+| ozawa reido | 小泽零人 |  |  |
 | ozawa you | 小沢悠 |  |  |
 | ozora ituki | 大空樹 |  |  |
 | ozuno mahou | 緒図乃真朋 |  |  |
@@ -10140,7 +10140,7 @@ example:
 | shirasu reiji | 白州礼二 |  |  |
 | shirasu youichi | 白須遙一 |  |  |
 | shiratama azuki | 白玉アズキ |  |  |
-| shiratama dango | 白玉団子 |  |  |
+| shiratama dango | 白玉团子 |  |  |
 | shiratama1gou | 白玉一号 |  |  |
 | shiratsuki shiori | 白月しおり |  |  |
 | shirihito | 尻人 |  |  |
@@ -10873,7 +10873,7 @@ example:
 | ting | Ting |  |  |
 | tipo | ティーポ |  |  |
 | tira | Tira |  |  |
-| tirotata | Tirotata |  |  |
+| tirotata | ちろたた |  |  |
 | titiduki | チチヅキ |  |  |
 | tiv | Tiv |  |  |
 | tj-type1 | TJ-type1 |  |  |
@@ -12327,7 +12327,7 @@ example:
 | kuroni bokujou | クロニ |  | [pixiv](https://www.pixiv.net/users/4417141) [Twitter](https://twitter.com/KURONI_ranch) |
 | himiya zyo-zu | 比宮じょーず |  | [pixiv](https://www.pixiv.net/users/9609632) [Twitter](https://twitter.com/ramune_himiya) |
 | hinageshi | 雏罂粟 |  |  |
-| unknown showhey | 馬島祥平 |  |  |
+| unknown showhey | 马岛祥平 | ![twitter](https://pbs.twimg.com/profile_images/1243233052135804928/2dJ_FlW1_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/Unknown_ShowHey) [pixiv](https://www.pixiv.net/users/1451261) |
 | saito naoki | 斋藤直葵 |  | [Twitter](https://twitter.com/_naokisaito) [pixiv](https://www.pixiv.net/users/356481) [Bilibili](https://space.bilibili.com/1688563568) |
 | yoshiku | 四々九 |  | [Twitter](https://twitter.com/yoshiku449) [pixiv](https://www.pixiv.net/users/533800) |
 | kakage | かかげ |  | [Twitter](https://twitter.com/kakage0904) [pixiv](https://www.pixiv.net/users/206310) |
@@ -12409,6 +12409,24 @@ example:
 | pononozo | ぽののぞ |  | [pixiv](https://www.pixiv.net/users/2284087) [Twitter](https://twitter.com/pononozo) |
 | hirota shimaguni | 浩田岛国 |  |  |
 | mutou tetsu | 武藤铁 |  |  |
+| agachi | あがち |  |  |
+| shiina shinya | 椎名深夜 |  |  |
+| touketsu | 卜ウケツ |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
+| hoshina meito | 星名めいと | 曾用名meito | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67) |
+| nanonanno | なのなんの |  | [pixiv](https://www.pixiv.net/users/52362501)<br>[Twitter](https://twitter.com/nanonanno18) |
+| kuroseimu | クロセイム |  |  |
+| teppo | 鉄歩 |  |  |
+| mochio | 白蜜モチ |  |  |
+| kitagawa zayaku | 北川ざやく |  |  |
+| saito tsubame | 齋藤燕 |  |  |
+| aohonoo | 蒼炎 |  | [pixiv](https://www.pixiv.net/users/5282110) |
+| tamayura banko | 玉ぼん | ![twitter](https://pbs.twimg.com/profile_images/1641043721209942021/T9au5NTf_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`koutetsu shabon dama`主笔画师 | [twitter](https://twitter.com/tamabon_mo) [pixiv](https://www.pixiv.net/users/11056668) |
+| tamaki nao | 玉姫なお | ![twitter](https://pbs.twimg.com/profile_images/1187327544451747841/yuIl3D8T_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/70tamaki) [pixiv](https://www.pixiv.net/users/7764805) |
+| inonaka kawazu | 胃ノ中かわず | ![twitter](https://pbs.twimg.com/profile_images/1619631839177736194/ECoF88NU_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kawazuchanR18) [pixiv](https://www.pixiv.net/users/18815611) |
+| saiogauma | 塞翁が马 |  |  |
+| usui yui | 碓氷汐泉 |  | [pixiv](https://www.pixiv.net/users/4141196) [Twitter](https://twitter.com/yui_usui1202) |
+| raiou | raiou |  | [pixiv](https://www.pixiv.net/users/1503044) |
+| yokoyari mengo | 横枪萌果 | 横枪萌果（日语：横槍メンゴ）是日本的女性漫画家。 | [萌娘百科](https://zh.moegirl.org.cn/横枪萌果) |
 
 <!--TEMPLATE:
 |  |  |  |  |
