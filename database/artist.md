@@ -12420,7 +12420,7 @@ example:
 | kitagawa zayaku | 北川ざやく |  |  |
 | saito tsubame | 齋藤燕 |  |  |
 | aohonoo | 蒼炎 |  | [pixiv](https://www.pixiv.net/users/5282110) |
-| tamayura banko | 玉ぼん | ![twitter](https://pbs.twimg.com/profile_images/1641043721209942021/T9au5NTf_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`koutetsu shabon tama`主笔画师 | [twitter](https://twitter.com/tamabon_mo) [pixiv](https://www.pixiv.net/users/11056668) |
+| tamayura banko | 玉ぼん | ![twitter](https://pbs.twimg.com/profile_images/1641043721209942021/T9au5NTf_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`koutetsu shabon dama`主笔画师 | [twitter](https://twitter.com/tamabon_mo) [pixiv](https://www.pixiv.net/users/11056668) |
 | tamaki nao | 玉姫なお | ![twitter](https://pbs.twimg.com/profile_images/1187327544451747841/yuIl3D8T_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/70tamaki) [pixiv](https://www.pixiv.net/users/7764805) |
 | inonaka kawazu | 胃ノ中かわず | ![twitter](https://pbs.twimg.com/profile_images/1619631839177736194/ECoF88NU_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kawazuchanR18) [pixiv](https://www.pixiv.net/users/18815611) |
 | saiogauma | 塞翁が马 |  |  |
