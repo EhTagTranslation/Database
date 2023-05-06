@@ -4062,7 +4062,7 @@ example:
 | gavial | 嘉维尔 | 嘉维尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嘉维尔) |
 | vigna | 红豆 | 红豆是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红豆) |
 | glaucus | 格劳克斯 | 格劳克斯是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格劳克斯) |
-| vermeil | 红云 | 红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红云) |
+| vermeil | 红云/维尔梅 | 红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。/维尔梅（日语：ヴェルメイ；英语：Vermeil）是漫画作品《金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～》及其衍生作品中的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红云) [萌娘百科](https://zh.moegirl.org.cn/zh/维尔梅) |
 | ansel | 安赛尔 | 安赛尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安赛尔) |
 | ceylon | 锡兰 | 锡兰是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:锡兰) |
 | sicily von claude | 西希莉·冯·克洛德 | 西希莉·冯·克洛德是小说《贤者之孙》及其衍生作品漫画、动画等的登场角色。<br>![](https://s1.ax1x.com/2022/07/29/vPRIHO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西希莉·冯·克洛德) |
