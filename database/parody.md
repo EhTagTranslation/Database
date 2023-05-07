@@ -705,7 +705,7 @@ example:
 | atlantis the lost empire | 亚特兰蒂斯：失落的帝国 |  |  |
 | sengoku otome | 战国少女～桃色异传～ |  |  |
 | monster hunter | 怪物猎人 |  |  |
-| sennen sensou aigis | 千年战争Aigis |  |  |
+| sennen sensou aigis | ![icon](https://aigis1000.jp/images/favicon/favicon.ico)千年战争Aigis |  | [官网](https://aigis1000.jp/) |
 | star ocean 3 | 星之海洋3 |  |  |
 | kokoro connect | 心灵链环 | 恋爱随意链接 |  |
 | robopon | 机甲宝贝 |  |  |
