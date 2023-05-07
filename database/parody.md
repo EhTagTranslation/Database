@@ -2155,6 +2155,7 @@ example:
 | fire emblem engage | 火焰之纹章 结合 | 火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/火焰之纹章_结合) |
 | watashi no yuri wa oshigoto desu | 我的百合乃工作是也！ |  | [萌娘百科](https://zh.moegirl.org.cn/zh/我的百合乃工作是也！) |
 | sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 |  | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
+| sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
