@@ -4553,6 +4553,7 @@ example:
 | dia viekone | 蒂雅·维科尼 | 所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br><br>卢各·图哈德的表姐、魔法启蒙老师、初恋。<br>![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
+| tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
