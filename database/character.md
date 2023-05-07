@@ -4549,6 +4549,7 @@ example:
 | ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
 | toki asuma | 飞鸟马时 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/3/3c/Toki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki) |
 | carol olston | 卡洛兒·奧爾斯頓 |  |  |
+| shiroko terror | 砂狼白子 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/砂狼白子) [Fandom](https://bluearchive.fandom.com/wiki/Shiroko_Terror) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
