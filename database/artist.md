@@ -12115,7 +12115,7 @@ example:
 | yamayoshi tanosuke | 鳥居ヨシツナ |  | [pixiv](https://www.pixiv.net/users/7309260) |
 | melailai | 么赖赖 | ![头像](https://i.pixiv.cat/user-profile/img/2021/12/28/16/45/32/21954150_8e710cb625f3a7bf1e7b6401020de89c_170.jpg) | [Pixiv](https://www.pixiv.net/users/22333059)<br>[Twitter](https://twitter.com/memela75722734)<br>[Bilibili](https://space.bilibili.com/14746289/) |
 | da mao banlangen | 大猫板蓝根 | ![头像](https://i.pixiv.cat/user-profile/img/2020/02/13/21/07/06/17915940_889888fa98d5d576596c673c7323e422_170.jpg) | [pixiv](http://pixiv.net/users/9751291)<br>[twitter](https://twitter.com/nekogarden1)<br>[Bilibili](https://space.bilibili.com/2170413/dynamic) |
-| touwa nikuman | 空72色 | ![](https://i.pixiv.cat/user-profile/img/2021/07/24/20/10/14/21093127_2f0082faff27e5eef953bac8d7f5d313_170.jpg) | [pixiv](https://www.pixiv.net/users/4357504) |
+| touwa nikuman | 空72色 | ![](https://i.pixiv.cat/user-profile/img/2022/07/22/23/38/54/23065515_c1679046f3b30b85dca626b7bc660ecc_170.png) | [pixiv](https://www.pixiv.net/users/4357504) |
 | yushi quetzalli | 羽蛇Quetzalli | ![](https://i.pixiv.cat/user-profile/img/2020/05/01/13/46/54/18452366_e599425e111d12a0a57ef63265724cca_170.jpg) | [pixiv](https://www.pixiv.net/users/20033303) |
 | fukuro daizi | Fukuro袋子 | ![](https://i.pixiv.cat/user-profile/img/2016/01/02/19/17/45/10322961_9e485bfa402dd4a327fde0a5da213eaf_170.jpg) | [pixiv](https://www.pixiv.net/users/4588267) |
 | tsukumo nikyu | 九十九弐級 |  |  |
