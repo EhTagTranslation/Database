@@ -4558,6 +4558,7 @@ example:
 | shinyou | 神鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
 | yawata maru | 八幡丸 \| 云鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:八幡丸) |
 | kishinami | 岸波 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:岸波) |
+| jingei | 迅鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:迅鲸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
