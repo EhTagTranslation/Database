@@ -4556,6 +4556,7 @@ example:
 | tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
 | maryland | 马里兰 |  | [https://zh.kcwiki.cn/wiki/马里兰](https://zh.kcwiki.cn/wiki/马里兰) |
 | shinyou | 神鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
+| yawata maru | 八幡丸 \| 云鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:八幡丸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
