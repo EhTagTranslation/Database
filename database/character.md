@@ -4560,6 +4560,7 @@ example:
 | kishinami | 岸波 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:岸波) |
 | jingei | 迅鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:迅鲸) |
 | chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
+| cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
