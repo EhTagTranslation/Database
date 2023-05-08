@@ -4554,6 +4554,7 @@ example:
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
 | tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
+| maryland | 马里兰 |  | [https://zh.kcwiki.cn/wiki/马里兰](https://zh.kcwiki.cn/wiki/马里兰) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
