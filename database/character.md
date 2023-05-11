@@ -4561,6 +4561,7 @@ example:
 | jingei | 迅鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:迅鲸) |
 | chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
+| queen draco | 所多玛之兽/德拉科 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
