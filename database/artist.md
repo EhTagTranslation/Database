@@ -12430,6 +12430,7 @@ example:
 | alexanderdinh | Alexanderdinh |  |  |
 | toubaru rairu | 桃原らいる |  |  |
 | murao mio | 村生未央 |  |  |
+| toriyaro | トリヤロウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
