@@ -12432,6 +12432,7 @@ example:
 | murao mio | 村生未央 |  |  |
 | toriyaro | トリヤロウ |  |  |
 | umeda nautilus | 梅田ノーチラス |  |  |
+| komura | コムラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
