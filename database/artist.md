@@ -12431,6 +12431,7 @@ example:
 | toubaru rairu | 桃原らいる |  |  |
 | murao mio | 村生未央 |  |  |
 | toriyaro | トリヤロウ |  |  |
+| umeda nautilus | 梅田ノーチラス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
