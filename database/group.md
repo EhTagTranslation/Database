@@ -12586,6 +12586,7 @@ example:
 | koutetsu shabon dama | 钢铁しゃぼん玉 | 画师`tamayura banko`所属社团 |  |
 | hogeramu | ほげらむ |  |  |
 | mizushirazu | みずしらず |  |  |
+| yakitori teishoku | 焼きトリ定食 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
