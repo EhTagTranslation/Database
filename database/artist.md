@@ -12433,7 +12433,7 @@ example:
 | toriyaro | トリヤロウ |  |  |
 | umeda nautilus | 梅田ノーチラス |  |  |
 | komura | コムラ |  |  |
-| dakkoku jiro | 脱壳次郎 |  |  |
+| dakkoku jiro | 脱壳次郎 |  | [pixiv](https://www.pixiv.net/users/58552278) |
 
 <!--TEMPLATE:
 |  |  |  |  |
