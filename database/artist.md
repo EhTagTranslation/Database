@@ -12433,6 +12433,7 @@ example:
 | toriyaro | トリヤロウ |  |  |
 | umeda nautilus | 梅田ノーチラス |  |  |
 | komura | コムラ |  |  |
+| dakkoku jiro | 脱壳次郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
