@@ -5965,7 +5965,7 @@ example:
 | ikasumiya | 烏賊墨屋 |  |  |
 | ikechika | いけちか |  |  |
 | ikeda jun kikakushitsu | 池田淳企画室 |  |  |
-| ikemen teikoku | イケメン帝国 |  |  |
+| ikemen teikoku | イケメン帝国 |  | [pixiv](https://www.pixiv.net/users/1162167) |
 | ikennabi | イケンナビ |  |  |
 | ikibata 49ers | いきばた49ERS |  |  |
 | ikigire shoukai | いきぎれ商会 |  |  |
