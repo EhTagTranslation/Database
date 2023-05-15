@@ -4564,6 +4564,7 @@ example:
 | queen draco | 所多玛之兽/德拉科 |  |  |
 | march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。 |  |
 | himari akeboshi | 明星日鞠 | 所属作品：蔚蓝档案 |  |
+| asta | 艾丝妲 \| 亚斯塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
