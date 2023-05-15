@@ -1692,7 +1692,7 @@ example:
 | 12-sai. | 12岁。 |  | [维基百科](https://zh.wikipedia.org/zh-cn/12歲。) |
 | 13 reasons why | 十三个理由 |  | [维基百科](https://zh.wikipedia.org/zh-cn/漢娜的遺言) |
 | 21 emon | 21卫门 |  | [维基百科](https://zh.wikipedia.org/zh-cn/21衛門) |
-| 22 slash 7 | 22/7 |  | [维基百科](https://zh.wikipedia.org/zh-cn/22%2F7%20%28企劃%29) |
+| nanabun no nijyuuni | 22/7 |  | [维基百科](https://zh.wikipedia.org/zh-cn/22%2F7%20%28企劃%29) |
 | 3-gatsu no lion | 3月的狮子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/3月的獅子) |
 | 300 | 300 |  | [维基百科](https://zh.wikipedia.org/zh-cn/300_%28漫畫%29) |
 | 81diver | 81diver |  | [维基百科](https://zh.wikipedia.org/zh-cn/81diver) |
