@@ -4567,6 +4567,7 @@ example:
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
 | garou | 五郎 | 所属作品: `p:genshin impact`<br><br>忠勇双全的海祇军大将。天生具有野兽般的战斗直觉与顽强意志，能精准找出绝境中的胜机。领导着军备、物资皆不占优的海祇军与幕府军分庭抗礼，力求为活在这片土地上的人们支撑起一片生存之壁。 | [萌娘百科](https://zh.moegirl.org.cn/zh/五郎%28原神%29) |
 | himeko | 姬子 |  |  |
+| herta | 黑塔 | 黑塔是《`honkai star rail`》的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
