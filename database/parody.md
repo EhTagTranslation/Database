@@ -2158,6 +2158,7 @@ example:
 | sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
 | idola phantasy star saga | 梦幻之星·伊多拉传说 | 梦幻之星：伊多拉传说是为了纪念知名角色扮演游戏《`p:phantasy star`》30周年推出的系列最新作。于2018年11月27日上线，2022 年 1 月 12 日停服。<br><br>![](https://p2.bahamut.com.tw/B/2KU/74/3f2df37e33381a664843e1a7ff11nay5.JPG) |  |
 | golden time | 青春纪行 | 《青春纪行》（又译：金色时光，日文：ゴールデンタイム）是由竹宫悠由子创作、驹都英二负责插画的一部轻小说，并有漫画、广播剧、动画和游戏等衍生作品。此作品是竹宫悠由子继《`p:toradora`》后的又一长篇小说。 | [维基百科](https://zh.wikipedia.org/zh/青春紀行) [萌娘百科](https://zh.moegirl.org.cn/青春纪行) |
+| honkai star rail | 崩坏：星穹铁道 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
