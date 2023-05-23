@@ -4573,6 +4573,7 @@ example:
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
 | neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 | nidalee | 奈德丽 |  | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
+| vex | 薇古丝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
