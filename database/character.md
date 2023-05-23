@@ -4571,6 +4571,7 @@ example:
 | stelle | 星 | 星是《`honkai star rail`》的登场角色。 |  |
 | clara | 克拉拉 |  |  |
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
+| neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
