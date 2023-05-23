@@ -4569,6 +4569,7 @@ example:
 | himeko | 姬子 |  |  |
 | herta | 黑塔 | 黑塔是《`honkai star rail`》的登场角色。 |  |
 | stelle | 星 | 星是《`honkai star rail`》的登场角色。 |  |
+| clara | 克拉拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
