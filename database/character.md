@@ -4576,6 +4576,7 @@ example:
 | vex | 薇古丝 |  |  |
 | yuu nishinoya | 西谷夕 |  |  |
 | asahi azumane | 东峰旭 |  |  |
+| zoe | 佐伊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
