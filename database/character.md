@@ -4575,6 +4575,7 @@ example:
 | nidalee | 奈德丽 |  | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
 | vex | 薇古丝 |  |  |
 | yuu nishinoya | 西谷夕 |  |  |
+| asahi azumane | 东峰旭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
