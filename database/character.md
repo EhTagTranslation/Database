@@ -4574,6 +4574,7 @@ example:
 | neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 | nidalee | 奈德丽 |  | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
 | vex | 薇古丝 |  |  |
+| yuu nishinoya | 西谷夕 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
