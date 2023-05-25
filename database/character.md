@@ -4579,6 +4579,7 @@ example:
 | zoe | 佐伊 |  |  |
 | annie | 安妮 |  |  |
 | yanagi uzaki | 宇崎柳 |  |  |
+| baiken | 梅喧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
