@@ -4578,6 +4578,7 @@ example:
 | asahi azumane | 东峰旭 |  |  |
 | zoe | 佐伊 |  |  |
 | annie | 安妮 |  |  |
+| yanagi uzaki | 宇崎柳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
