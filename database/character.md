@@ -4580,6 +4580,7 @@ example:
 | annie | 安妮 |  |  |
 | yanagi uzaki | 宇崎柳 |  |  |
 | baiken | 梅喧 |  |  |
+| asuka kazama | 风间飞鸟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
