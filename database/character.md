@@ -4581,6 +4581,7 @@ example:
 | yanagi uzaki | 宇崎柳 |  |  |
 | baiken | 梅喧 |  |  |
 | asuka kazama | 风间飞鸟 |  |  |
+| lili rochefort | 莉莉·罗舍福尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
