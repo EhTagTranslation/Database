@@ -12589,6 +12589,7 @@ example:
 | yakitori teishoku | 焼きトリ定食 |  |  |
 | dakkoku kidoutai s.a.c | 脱壳机动队 S.A.C |  |  |
 | mitsumitsuniku | ミツミツにく |  |  |
+| akirerushoujo | アキレルショウジョ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
