@@ -4613,6 +4613,7 @@ example:
 | chiyo mihama | 美滨千代 |  |  |
 | riza wildman | 丽莎·瓦德曼 |  |  |
 | hiro hiyorimi | 日和见日郎 |  |  |
+| lillianne von phoenix | 莉莉安奴·冯·菲尼克斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
