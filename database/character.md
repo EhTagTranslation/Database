@@ -4590,6 +4590,7 @@ example:
 | kanako ohno | 大野加奈子 |  |  |
 | makoto kousaka | 高坂真琴 |  |  |
 | kenjirou hato | 波戸贤二郎 |  |  |
+| rika yoshitake | 吉武莉华 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
