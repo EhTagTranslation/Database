@@ -4614,6 +4614,7 @@ example:
 | riza wildman | 丽莎·瓦德曼 |  |  |
 | hiro hiyorimi | 日和见日郎 |  |  |
 | lillianne von phoenix | 莉莉安奴·冯·菲尼克斯 |  |  |
+| sylvia von phoenix | 茜维亚·冯·菲尼克斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
