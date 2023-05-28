@@ -4604,6 +4604,7 @@ example:
 | akari kamigishi | 神岸明 |  |  |
 | ayaka kurusugawa | 来栖川绫香 |  |  |
 | shiho nagaoka | 长冈志保 |  |  |
+| hiroyuki fujita | 藤田浩之 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
