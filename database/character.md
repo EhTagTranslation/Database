@@ -4601,6 +4601,7 @@ example:
 | tomoko hoshina | 保科智子 |  |  |
 | lemmy miyauchi | 宫内蕾咪 |  |  |
 | serika kurusugawa | 来栖川芹香 |  |  |
+| akari kamigishi | 神岸明 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
