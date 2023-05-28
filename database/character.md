@@ -4602,6 +4602,7 @@ example:
 | lemmy miyauchi | 宫内蕾咪 |  |  |
 | serika kurusugawa | 来栖川芹香 |  |  |
 | akari kamigishi | 神岸明 |  |  |
+| ayaka kurusugawa | 来栖川绫香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
