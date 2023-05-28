@@ -4594,6 +4594,7 @@ example:
 | harunobu madarame | 斑目晴信 |  |  |
 | rea sanka | 散华礼弥 |  |  |
 | mero furuya | 降谷萌路 |  |  |
+| judge | 法官 | 少女前线的铁血工造的人形法官 | [http://www.gfwiki.org/w/法官](http://www.gfwiki.org/w/法官)<br>[萌娘百科](https://zh.moegirl.org.cn/少女前线:法官) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
