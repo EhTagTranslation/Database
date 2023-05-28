@@ -4598,6 +4598,7 @@ example:
 | himawari shinomiya | 四宫向日葵 |  |  |
 | wakaba saegusa | 三枝若叶 |  |  |
 | rei kuroki | 黑骑蕾 |  |  |
+| tomoko hoshina | 保科智子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
