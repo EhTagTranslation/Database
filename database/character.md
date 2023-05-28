@@ -4593,6 +4593,7 @@ example:
 | rika yoshitake | 吉武莉华 |  |  |
 | harunobu madarame | 斑目晴信 |  |  |
 | rea sanka | 散华礼弥 |  |  |
+| mero furuya | 降谷萌路 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
