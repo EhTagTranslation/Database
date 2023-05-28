@@ -4611,6 +4611,7 @@ example:
 | sakaki | 榊 |  |  |
 | tomo takino | 泷野智 |  |  |
 | chiyo mihama | 美滨千代 |  |  |
+| riza wildman | 丽莎·瓦德曼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
