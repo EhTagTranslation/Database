@@ -4589,6 +4589,7 @@ example:
 | saki kasukabe | 春日部咲 |  |  |
 | kanako ohno | 大野加奈子 |  |  |
 | makoto kousaka | 高坂真琴 |  |  |
+| kenjirou hato | 波戸贤二郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
