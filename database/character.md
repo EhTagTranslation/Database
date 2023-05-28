@@ -4607,6 +4607,7 @@ example:
 | hiroyuki fujita | 藤田浩之 |  |  |
 | aoi matsubara | 松原葵 |  |  |
 | koyomi mizuhara | 水原历 |  |  |
+| osaka | 大阪 | 春日步 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
