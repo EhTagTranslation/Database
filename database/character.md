@@ -4603,6 +4603,7 @@ example:
 | serika kurusugawa | 来栖川芹香 |  |  |
 | akari kamigishi | 神岸明 |  |  |
 | ayaka kurusugawa | 来栖川绫香 |  |  |
+| shiho nagaoka | 长冈志保 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
