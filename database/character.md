@@ -4600,6 +4600,7 @@ example:
 | rei kuroki | 黑骑蕾 |  |  |
 | tomoko hoshina | 保科智子 |  |  |
 | lemmy miyauchi | 宫内蕾咪 |  |  |
+| serika kurusugawa | 来栖川芹香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
