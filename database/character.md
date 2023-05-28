@@ -4597,6 +4597,7 @@ example:
 | judge | 法官 | 少女前线的铁血工造的人形法官 | [http://www.gfwiki.org/w/法官](http://www.gfwiki.org/w/法官)<br>[萌娘百科](https://zh.moegirl.org.cn/少女前线:法官) |
 | himawari shinomiya | 四宫向日葵 |  |  |
 | wakaba saegusa | 三枝若叶 |  |  |
+| rei kuroki | 黑骑蕾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
