@@ -4582,7 +4582,7 @@ example:
 | baiken | 梅喧 |  |  |
 | asuka kazama | 风间飞鸟 |  |  |
 | lili rochefort | 莉莉·罗舍福尔 |  |  |
-| shizuko kawawa | 河和 静子 | 所属作品：`p:blue archive` |  |
+| shizuko kawawa | 河和静子 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
