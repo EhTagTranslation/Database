@@ -4610,6 +4610,7 @@ example:
 | osaka | 大阪 | 春日步 |  |
 | sakaki | 榊 |  |  |
 | tomo takino | 泷野智 |  |  |
+| chiyo mihama | 美滨千代 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
