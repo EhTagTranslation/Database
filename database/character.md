@@ -4587,6 +4587,7 @@ example:
 | kanji sasahara | 笹原完士 |  |  |
 | chika ogiue | 荻上千佳 |  |  |
 | saki kasukabe | 春日部咲 |  |  |
+| kanako ohno | 大野加奈子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
