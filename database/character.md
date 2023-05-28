@@ -4584,6 +4584,7 @@ example:
 | lili rochefort | 莉莉·罗舍福尔 |  |  |
 | shizuko kawawa | 河和静子 | 所属作品：`p:blue archive` |  |
 | akira kiyosumi | 清澄晶 | 所属作品：`p:blue archive` |  |
+| kanji sasahara | 笹原完士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
