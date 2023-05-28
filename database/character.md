@@ -4609,6 +4609,7 @@ example:
 | koyomi mizuhara | 水原历 |  |  |
 | osaka | 大阪 | 春日步 |  |
 | sakaki | 榊 |  |  |
+| tomo takino | 泷野智 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
