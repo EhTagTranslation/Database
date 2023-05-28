@@ -4592,6 +4592,7 @@ example:
 | kenjirou hato | 波戸贤二郎 |  |  |
 | rika yoshitake | 吉武莉华 |  |  |
 | harunobu madarame | 斑目晴信 |  |  |
+| rea sanka | 散华礼弥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
