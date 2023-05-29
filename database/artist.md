@@ -8253,7 +8253,7 @@ example:
 | mosuke | mosuke |  |  |
 | motchie | もっちー |  |  |
 | moti moti omoti | 餅もちお餅 |  |  |
-| motika | モティカ |  |  |
+| mothica | モティカ |  |  |
 | moto | MoTo |  |  |
 | motobi | もとび |  |  |
 | motoe hiroya | 元永尋也 |  |  |
@@ -8335,7 +8335,6 @@ example:
 | murata. | ムラタ。 |  |  |
 | muren | ムウレン |  |  |
 | muro | むろ |  |  |
-| muro tomoharu | 室トモハル |  |  |
 | muryou myakudou | 無料脈動 |  |  |
 | musashino sekai | ムサシノセカイ |  | [pixiv](https://www.pixiv.net/users/371613) |
 | musasiya chogenbo | 武蔵屋長元坊 |  |  |

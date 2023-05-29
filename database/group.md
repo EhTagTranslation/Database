@@ -8069,7 +8069,7 @@ example:
 | moorusu | モール巣 |  |  |
 | mopuo oyakata | もぷお親方 |  |  |
 | mor | MOR |  |  |
-| moradolog | モラードログ |  |  |
+| moladolog | モラードログ |  |  |
 | morgue | morgue |  |  |
 | mori no kumasan yuugekitai | 森のくまさん遊撃隊 |  |  |
 | mori no mushi | 森の蟲 |  |  |
