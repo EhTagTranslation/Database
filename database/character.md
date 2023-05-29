@@ -4617,6 +4617,7 @@ example:
 | sylvia von phoenix | 茜维亚·冯·菲尼克斯 |  |  |
 | reiri kamura | 嘉村令里 |  |  |
 | taeko minazuki | 水无月妙子 | 所属作品: `p:ai yori aoshi`<br><br>薰在大学里的学妹，摄影部成员，巨乳眼镜冒失娘。 | [Bangumi](https://bgm.tv/character/4586) |
+| amemiya nazuna | 飴宮なずな |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Amemiya_Nazuna) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
