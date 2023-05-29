@@ -4589,7 +4589,7 @@ example:
 | saki kasukabe | 春日部咲 |  |  |
 | kanako ohno | 大野加奈子 |  |  |
 | makoto kousaka | 高坂真琴 |  |  |
-| kenjirou hato | 波戸贤二郎 |  |  |
+| kenjirou hato | 波户贤二郎 |  |  |
 | rika yoshitake | 吉武莉华 |  |  |
 | harunobu madarame | 斑目晴信 |  |  |
 | rea sanka | 散华礼弥 |  |  |
