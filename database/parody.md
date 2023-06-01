@@ -2163,6 +2163,7 @@ example:
 | sankarea | 散华礼弥 |  |  |
 | princess resurrection | 怪物王女 |  |  |
 | world flipper | 世界弹射物语 |  | [萌娘百科](https://zh.moegirl.org.cn/世界弹射物语) |
+| kikai sentai zenkaiger | 机界战队全开者 | 《机界战队全开者》（原题：機界戦隊ゼンカイジャー）是日本东映公司在2021年推出的《超级战队系列》第45部特摄作品，于2021年（令和3年）3月7日起至2022年（令和4年）2月27日每周日早上09:30-10:00在朝日电视台播出，全49集。 | [维基百科](https://zh.wikipedia.org/zh/機界戰隊全開者) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
