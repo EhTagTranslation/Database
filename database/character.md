@@ -4618,6 +4618,7 @@ example:
 | reiri kamura | 嘉村令里 |  |  |
 | taeko minazuki | 水无月妙子 | 所属作品: `p:ai yori aoshi`<br><br>薰在大学里的学妹，摄影部成员，巨乳眼镜冒失娘。 | [Bangumi](https://bgm.tv/character/4586) |
 | amemiya nazuna | 飴宮なずな |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Amemiya_Nazuna) |
+| winter schnee | 温特·雪倪 | Winter Schnee是Schnee Dust Company的主人Jacques Schnee的长女，`c:weiss schnee`的姐姐，现为擎天军队的高层人物，Ironwood将军的副官。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Winter_Schnee) [Fandom](https://rwby.fandom.com/wiki/Winter_Schnee) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
