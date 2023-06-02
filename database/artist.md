@@ -12434,6 +12434,7 @@ example:
 | komura | コムラ |  |  |
 | dakkoku jiro | 脱壳次郎 |  | [pixiv](https://www.pixiv.net/users/58552278) |
 | futatsuno-peanuts | ふたつのピーナツ |  | [pixiv](https://www.pixiv.net/users/74213202) [Twitter](https://twitter.com/2ta_peanuts) |
+| kanzarin | カンザリン |  | [Twitter](https://twitter.com/kanzarinsan) |
 
 <!--TEMPLATE:
 |  |  |  |  |
