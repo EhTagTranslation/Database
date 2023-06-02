@@ -4620,6 +4620,7 @@ example:
 | amemiya nazuna | 飴宮なずな |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Amemiya_Nazuna) |
 | winter schnee | 温特·雪倪 | Winter Schnee是Schnee Dust Company的主人Jacques Schnee的长女，`c:weiss schnee`的姐姐，现为擎天军队的高层人物，Ironwood将军的副官。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Winter_Schnee) [Fandom](https://rwby.fandom.com/wiki/Winter_Schnee) |
 | ruby hoshino | 星野瑠美衣 | 前世天童寺纱利奈为`c:ai hoshino`的狂热女粉丝，患病期间受医生吾郎（星野爱久爱海的前世）照顾，后因绝症不治身亡，享年12岁，转世后成为爱的女儿，仍然保有前世的记忆。在左眼处继承了爱的星星眼，现正致力于作为偶像活动。<br><br>![](https://static.wikia.nocookie.net/oshi_no_ko/images/f/f6/RubyHoshinoAnime.png) | [萌娘百科](https://zh.moegirl.org.cn/星野瑠美衣) [Fandom](https://oshinoko.fandom.com/wiki/Ruby_Hoshino) |
+| roka maniwa | 马庭芦花 | 所属作品: `p:senren banka` | [萌娘百科](https://zh.moegirl.org.cn/zh/马庭芦花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
