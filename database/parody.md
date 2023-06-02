@@ -2165,6 +2165,7 @@ example:
 | world flipper | 世界弹射物语 |  | [萌娘百科](https://zh.moegirl.org.cn/世界弹射物语) |
 | kikai sentai zenkaiger | 机界战队全开者 | 《机界战队全开者》（原题：機界戦隊ゼンカイジャー）是日本东映公司在2021年推出的《超级战队系列》第45部特摄作品，于2021年（令和3年）3月7日起至2022年（令和4年）2月27日每周日早上09:30-10:00在朝日电视台播出，全49集。 | [维基百科](https://zh.wikipedia.org/zh/機界戰隊全開者) |
 | ng knight lamune and 40 | VS骑士 | 《VS骑士40炎》（日语：VS騎士ラムネ&40炎）是一套由1996年4月至1996年9月间，开始在日本播放的动画。 | [维基百科](https://zh.wikipedia.org/wiki/VS騎士檸檬汽水%2640炎) |
+| midnight girls | ミッドナイトガールズR | 让我们被充满个性的怪物们恶作剧并被宠爱吧！一个与环绕你的怪物女孩、天使和堕天使展开的浓厚王道 (?) RPG故事！无论是闹剧般的冒险故事，围绕冲突的严肃故事，还是超色情的情节，你都可以全面享受♪ | [Twitter](https://twitter.com/midnight_girls_) [HP](https://games.dmm.co.jp/detail/midnightGirlsR) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
