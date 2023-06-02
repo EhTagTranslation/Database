@@ -12436,6 +12436,7 @@ example:
 | futatsuno-peanuts | ふたつのピーナツ |  | [pixiv](https://www.pixiv.net/users/74213202) [Twitter](https://twitter.com/2ta_peanuts) |
 | kanzarin | カンザリン |  | [Twitter](https://twitter.com/kanzarinsan) |
 | nemurinemu | ねむりねむ |  | [Twitter](https://twitter.com/Nemuriris) |
+| wusui yangcong | 五岁洋葱 |  | [pixiv](https://www.pixiv.net/users/28184282) [Twitter](https://twitter.com/5Tamanegi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
