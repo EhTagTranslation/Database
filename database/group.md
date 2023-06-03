@@ -12590,6 +12590,7 @@ example:
 | dakkoku kidoutai s.a.c | 脱壳机动队 S.A.C |  |  |
 | mitsumitsuniku | ミツミツにく |  |  |
 | akirerushoujo | アキレルショウジョ |  |  |
+| fuzume | ふずめ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
