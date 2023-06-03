@@ -12591,6 +12591,7 @@ example:
 | mitsumitsuniku | ミツミツにく |  |  |
 | akirerushoujo | アキレルショウジョ |  |  |
 | fuzume | ふずめ |  |  |
+| hitakamoya | ひたかもや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
