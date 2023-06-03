@@ -12440,6 +12440,7 @@ example:
 | yuga | ゆがー |  | [Twitter](https://twitter.com/yugirlpict) |
 | akadashi | 赤だし |  |  |
 | hitakamo | ひたかも |  |  |
+| osaki | オオサキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
