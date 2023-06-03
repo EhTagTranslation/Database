@@ -12439,6 +12439,7 @@ example:
 | wusui yangcong | 五岁洋葱 |  | [pixiv](https://www.pixiv.net/users/28184282) [Twitter](https://twitter.com/5Tamanegi) |
 | yuga | ゆがー |  | [Twitter](https://twitter.com/yugirlpict) |
 | akadashi | 赤だし |  |  |
+| hitakamo | ひたかも |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
