@@ -12444,6 +12444,7 @@ example:
 | usa otome | うさおとめ |  |  |
 | hatsuuni ikura | 初雲丹いくら |  |  |
 | asano yomichi | 朝野よみち |  |  |
+| fuguta-ke | フグタ家 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
