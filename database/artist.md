@@ -12442,6 +12442,7 @@ example:
 | hitakamo | ひたかも |  |  |
 | osaki | オオサキ |  |  |
 | usa otome | うさおとめ |  |  |
+| hatsuuni ikura | 初雲丹いくら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
