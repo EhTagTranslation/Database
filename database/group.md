@@ -12592,6 +12592,7 @@ example:
 | akirerushoujo | アキレルショウジョ |  |  |
 | fuzume | ふずめ |  |  |
 | hitakamoya | ひたかもや |  |  |
+| kasokuiki | 過疎区域 |  | [Twitter](https://twitter.com/in_ksk) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
