@@ -4623,6 +4623,7 @@ example:
 | roka maniwa | 马庭芦花 | 所属作品: `p:senren banka` | [萌娘百科](https://zh.moegirl.org.cn/zh/马庭芦花) |
 | lysithea von cordelia | 莉丝缇亚·冯·科迪利亚 | 所属作品: `p:fire emblem three houses`<br><br>同盟科迪利亚伯爵家的嫡女。在本届入学学生中年龄最小，只有15岁。擅长魔法，是早熟的天才魔法少女，并且毫不骄傲，而是更加努力。她很讨厌被别人当作小孩子看待，不过经常透露出孩子气的一面。<br><br>![](https://static.wikia.nocookie.net/fireemblem/images/d/d5/Lysithea_Heroes.png) | [Fandom](https://fireemblem.fandom.com/wiki/Lysithea) |
 | tamako kitashirakawa | 北白川玉子 | 所属作品: `p:tamako market` | [萌娘百科](https://zh.moegirl.org.cn/zh/北白川玉子) |
+| ui tamaki | 环羽衣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
