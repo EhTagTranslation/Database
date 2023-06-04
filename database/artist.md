@@ -12441,6 +12441,7 @@ example:
 | akadashi | 赤だし |  |  |
 | hitakamo | ひたかも |  |  |
 | osaki | オオサキ |  |  |
+| usa otome | うさおとめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
