@@ -12443,6 +12443,7 @@ example:
 | osaki | オオサキ |  |  |
 | usa otome | うさおとめ |  |  |
 | hatsuuni ikura | 初雲丹いくら |  |  |
+| asano yomichi | 朝野よみち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
