@@ -4625,6 +4625,7 @@ example:
 | tamako kitashirakawa | 北白川玉子 | 所属作品: `p:tamako market` | [萌娘百科](https://zh.moegirl.org.cn/zh/北白川玉子) |
 | ui tamaki | 环羽衣 |  |  |
 | shigure mayoi | 间宵时雨 | 游戏《碧蓝档案》角色，由于向配给食物加入可疑成分而被赤冬联邦学园发配到227号特别班。不知为何，大家喝完她做的果汁总会变得醉醺醺的。 | [https://ba.gamekee.com/577249.html](https://ba.gamekee.com/577249.html) |
+| inori ichinose | 一之濑祈梨 | 所属作品: `p:princess connect`<br><br>![](https://static.wikia.nocookie.net/princess-connect/images/c/c1/Inori-astrum-sprite-normal.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/一之濑祈梨) [Fandom](https://princess-connect.fandom.com/wiki/Inori) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
