@@ -12448,6 +12448,7 @@ example:
 | namahiyu | なまひゆ |  | [pixiv](https://www.pixiv.net/users/13075529) |
 | keise. | 慧瀬。 |  |  |
 | zandoro | ざんどろ |  |  |
+| rinaka moruchi | モルんち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
