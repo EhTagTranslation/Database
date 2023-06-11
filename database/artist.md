@@ -12447,6 +12447,7 @@ example:
 | fuguta-ke | フグタ家 |  |  |
 | namahiyu | なまひゆ |  | [pixiv](https://www.pixiv.net/users/13075529) |
 | keise. | 慧瀬。 |  |  |
+| zandoro | ざんどろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
