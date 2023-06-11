@@ -6377,7 +6377,7 @@ example:
 | kabaya kosuke | 樺矢耕助 |  |  |
 | kabayaki unagi | 蒲焼鰻 |  |  |
 | kabocha head | かぼちゃヘッド |  |  |
-| kabocha torte | 南瓜とるて |  |  |
+| kabocya torute | 南瓜とるて |  |  |
 | kabotyausagi | かぼちゃ兎 |  |  |
 | kabuki shigeyuki | 香吹茂之 |  |  |
 | kaburaya seiden | 鏑矢正伝 |  |  |
