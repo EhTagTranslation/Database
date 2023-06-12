@@ -3379,7 +3379,7 @@ example:
 | takitarou | 滝太郎 |  | [Twitter](https://twitter.com/tackey_tsubasa) [pixiv](https://www.pixiv.net/users/195563) |
 | yangcong chaodasuan | 洋葱炒大蒜 |  |  |
 | tokunou shoutarou | 得能正太郎 | 得能正太郎，日本男性漫画家，插画家。代表作《NEW GAME！》。 | [Twitter](https://twitter.com/tokutaro) [pixiv](https://www.pixiv.net/users/1203800) |
-| tsugumi suzuma | 亚美寿真 | ![twitter](https://pbs.twimg.com/profile_images/1429118300148039681/RnN0wFzw.jpg)<br><br>*作者推特头像（也是本人vtuber形象）*<br><br>擅长画与自己年龄相仿的御姐系角色的美女画师，喜欢玩apex并开设了YouTube频道，每周都有直播游戏，喜欢老师的同学可以关注下。 | [twitter](https://twitter.com/tsugumisuzuma) [youtube](https://youtube.com/channel/UCtKylZV002s4pxVup9yuJ2Q) [pixiv](https://www.pixiv.net/users/6130188) |
+| tsugumi suzuma | 亚美寿真 | ![twitter](https://pbs.twimg.com/profile_images/1625693379530199042/QnFg7MOb_200x200.jpg)<br><br>*作者推特头像（也是本人vtuber形象）*<br><br>擅长画与自己年龄相仿的御姐系角色的美女画师，喜欢玩apex并开设了YouTube频道，每周都有直播游戏，喜欢老师的同学可以关注下。 | [twitter](https://twitter.com/tsugumisuzuma) [youtube](https://youtube.com/channel/UCtKylZV002s4pxVup9yuJ2Q) [pixiv](https://www.pixiv.net/users/6130188) |
 | kakao | kakao |  | [Twitter](https://twitter.com/kakao_3percent) [pixiv](https://www.pixiv.net/users/581994) |
 | akabane | アカバネ |  | [Twitter](https://twitter.com/akabane22) [pixiv](https://www.pixiv.net/users/240431) |
 | miyashiro ryuutarou | 三夜代龙太郎 |  |  |
