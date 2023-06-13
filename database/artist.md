@@ -12449,6 +12449,7 @@ example:
 | keise. | 慧瀬。 |  |  |
 | zandoro | ざんどろ |  |  |
 | rinaka moruchi | モルんち |  |  |
+| tachi | タチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
