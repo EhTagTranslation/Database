@@ -1524,7 +1524,7 @@ example:
 | natsuo monaka | なつおもなか |  |  |
 | binkan argento | びんかんargento |  |  |
 | minagiku | みなぎく |  |  |
-| landolt tamaki | ランドルトたまき |  |  |
+| landolt tamaki | ランドルトたまき |  | [pixiv](https://www.pixiv.net/users/226254) |
 | kisaragi miyu | 如月みゆ |  |  |
 | igumox | 井雲くす |  | [Twitter](https://twitter.com/igumox) [pixiv](https://www.pixiv.net/users/55128) |
 | kuune rin | くうねりん |  |  |
