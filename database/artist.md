@@ -4989,7 +4989,7 @@ example:
 | eguchi chibi | 江口ちび |  |  |
 | ehime mikan | 江姫蜜柑 |  |  |
 | eho | 会帆 |  |  |
-| eigetu | eigetu |  |  |
+| eigetu | eigetu |  | [pixiv](https://www.pixiv.net/users/2247) |
 | eight | エイト |  |  |
 | eikichi | エーキチ |  |  |
 | eiko | エイコ |  |  |
