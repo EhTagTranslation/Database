@@ -12453,6 +12453,7 @@ example:
 | metsubushi | メツブシ | ![画师头像](https://pbs.twimg.com/profile_images/1667971287929724928/-AxTxnsZ_200x200.jpg)<br>去年11月在COMIC E×E40出道的新人画师<br>根据P站小号的身份信息与投稿来看似乎是女画师 | [Twitter](https://twitter.com/mega_muska) [Pixiv](https://www.pixiv.net/users/88974746) |
 | iuui | イウウイ |  | [pixiv](https://www.pixiv.net/users/7484613) |
 | cham22 | cham22 |  | [pixiv](https://www.pixiv.net/users/16456081) |
+| ie | ie |  | [pixiv](https://www.pixiv.net/users/24164271) |
 
 <!--TEMPLATE:
 |  |  |  |  |
