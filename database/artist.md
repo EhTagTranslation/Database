@@ -12454,6 +12454,7 @@ example:
 | iuui | イウウイ |  | [pixiv](https://www.pixiv.net/users/7484613) |
 | cham22 | cham22 |  | [pixiv](https://www.pixiv.net/users/16456081) |
 | ie | ie |  | [pixiv](https://www.pixiv.net/users/24164271) |
+| kokushi | 黑司 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
