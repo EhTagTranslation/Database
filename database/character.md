@@ -4628,6 +4628,7 @@ example:
 | inori ichinose | 一之濑祈梨 | 所属作品: `p:princess connect`<br><br>![](https://static.wikia.nocookie.net/princess-connect/images/c/c1/Inori-astrum-sprite-normal.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/一之濑祈梨) [Fandom](https://princess-connect.fandom.com/wiki/Inori) |
 | natsumi hodaka | 帆高夏海 | 帆高夏海（日语：帆高（ほだか）夏海（なつみ））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆高夏海) |
 | hina tsurugi | 鹤木阳渚 | 鹤木阳渚（日语：鶴木（つるぎ）陽渚（ひな））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鹤木阳渚) |
+| gwen stacy | 格温·斯黛西 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
