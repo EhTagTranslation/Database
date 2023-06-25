@@ -4630,6 +4630,7 @@ example:
 | hina tsurugi | 鹤木阳渚 | 鹤木阳渚（日语：鶴木（つるぎ）陽渚（ひな））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鹤木阳渚) |
 | gwen stacy | 格温·斯黛西 |  |  |
 | reisa uzawa | 宇泽玲纱 |  |  |
+| power | 帕瓦 | 电锯人角色帕瓦 | [萌娘百科](https://mzh.moegirl.org.cn/帕瓦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
