@@ -12456,6 +12456,7 @@ example:
 | ie | ie |  | [pixiv](https://www.pixiv.net/users/24164271) |
 | kokushi | 黑司 |  |  |
 | matsuri seishiro | マツリセイシロウ |  |  |
+| mameroku | 豆六 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
