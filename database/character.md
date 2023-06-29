@@ -4632,6 +4632,7 @@ example:
 | reisa uzawa | 宇泽玲纱 |  |  |
 | power | 帕瓦 | 帕瓦是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/帕瓦) |
 | hirofumi yoshida | 吉田宽文 | 吉田宽文是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/吉田宽文) |
+| silver wolf | 银狼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
