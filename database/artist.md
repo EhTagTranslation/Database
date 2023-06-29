@@ -2284,7 +2284,7 @@ example:
 | yamaya oowemon | 山家大右卫门 |  |  |
 | yuizaki kazuya | ユイザキカズヤ |  | [pixiv](https://www.pixiv.net/users/73798) [Twitter](https://twitter.com/k_yuizaki) [个人主页](http://c-holic.jp/) |
 | shichimenchou | しちめんちょう |  |  |
-| bigshine | ビッグシャイン |  |  |
+| bigshine | ビッグシャイン |  | [pixiv](https://www.pixiv.net/users/8548115) |
 | apoidea | Apoidea |  |  |
 | randou | 乱道 |  |  |
 | midoriiro | 緑いろ |  |  |
