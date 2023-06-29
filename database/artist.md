@@ -9992,7 +9992,7 @@ example:
 | shayo | しゃよー |  |  |
 | shen yan | 哂言 |  |  |
 | shena excel | 椎名エクセル |  |  |
-| shian | しあん |  |  |
+| shian | しあん |  | [pixiv](https://www.pixiv.net/users/16732156) |
 | shiawase 1500 | 幸せ1500 |  |  |
 | shiawase ninaru | 幸瀬になる |  |  |
 | shiawase no katachi | 幸せのかたち |  |  |
