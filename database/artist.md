@@ -12457,6 +12457,7 @@ example:
 | kokushi | 黑司 |  |  |
 | matsuri seishiro | マツリセイシロウ |  |  |
 | mameroku | 豆六 |  |  |
+| chigusa minori | 千種みのり |  | [Twitter](https://twitter.com/minori_chigusa) [pixiv](https://www.pixiv.net/users/41106591) |
 
 <!--TEMPLATE:
 |  |  |  |  |
