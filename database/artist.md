@@ -308,7 +308,7 @@ example:
 | koizumi hitsuji | 小泉ひつじ |  |  |
 | hormone koijirou | ホルモン恋次郎 |  |  |
 | koinu | こいぬ |  |  |
-| kinnotama | またのんき▼ |  |  |
+| kinnotama | またのんき▼ | ![画师蓝鸟头像](https://pbs.twimg.com/profile_images/1672119407743729664/WRncIYRT_200x200.jpg)<br>著名萝莉画师 | [Twitter](https://twitter.com/kinnotamadx) [Pixiv](https://www.pixiv.net/users/467369) |
 | suka | すか |  |  |
 | amazon | 雨存 |  |  |
 | milk jam | みるくジャム |  |  |
