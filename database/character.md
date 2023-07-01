@@ -4635,6 +4635,7 @@ example:
 | silver wolf | 银狼 |  |  |
 | moka akashiya | 赤夜萌香 |  |  |
 | kurumu kurono | 黑乃胡梦 |  |  |
+| mizore shirayuki | 白雪霙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
