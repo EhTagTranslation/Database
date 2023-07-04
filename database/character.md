@@ -4636,6 +4636,7 @@ example:
 | moka akashiya | 赤夜萌香 |  |  |
 | kurumu kurono | 黑乃胡梦 |  |  |
 | mizore shirayuki | 白雪霙 |  |  |
+| nagisa kirifuji | 桐藤渚 | 所属作品：`p:blue archive`<br><br>圣三一学园所属，组成圣三一学生联盟的领袖，也是学生会“茶话会”的主持者。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
