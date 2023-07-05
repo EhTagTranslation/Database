@@ -12460,6 +12460,7 @@ example:
 | chigusa minori | 千種みのり |  | [Twitter](https://twitter.com/minori_chigusa) [pixiv](https://www.pixiv.net/users/41106591) |
 | xiaomu | 筱牧 |  | [pixiv](https://www.pixiv.net/users/49984557)<br>[FANBOX](https://xiaomu314.fanbox.cc/) |
 | petra | 佩城 |  | [pixiv](https://www.pixiv.net/users/14303174)<br>[FANBOX](https://petra.fanbox.cc/) |
+| akano murasaki | アカノムラサキ |  | [pixiv](https://www.pixiv.net/artworks/109253307) |
 
 <!--TEMPLATE:
 |  |  |  |  |
