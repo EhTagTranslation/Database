@@ -4632,7 +4632,7 @@ example:
 | reisa uzawa | 宇泽玲纱 |  |  |
 | power | 帕瓦 | 帕瓦是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/帕瓦) |
 | hirofumi yoshida | 吉田宽文 | 吉田宽文是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/吉田宽文) |
-| silver wolf | 银狼 |  |  |
+| silver wolf | 银狼 | 银狼是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/3/3f/银狼立绘.png/1024px-银狼立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/银狼) |
 | moka akashiya | 赤夜萌香 |  |  |
 | kurumu kurono | 黑乃胡梦 |  |  |
 | mizore shirayuki | 白雪霙 |  |  |
