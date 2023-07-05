@@ -4569,7 +4569,7 @@ example:
 | himeko | 姬子 |  |  |
 | herta | 黑塔 | 黑塔是《`honkai star rail`》的登场角色。 |  |
 | stelle | 星 | 星是《`honkai star rail`》的登场角色。 |  |
-| clara | 克拉拉 |  |  |
+| clara | 克拉拉 | 克拉拉是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/3/39/克拉拉立绘.png/1024px-克拉拉立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28星穹铁道%29) |
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
 | neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 | nidalee | 奈德丽 |  | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
