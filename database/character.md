@@ -4562,7 +4562,7 @@ example:
 | chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
 | queen draco | 所多玛之兽/德拉科 |  |  |
-| march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。 |  |
+| march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
 | himari akeboshi | 明星日鞠 | 所属作品：蔚蓝档案 |  |
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
 | garou | 五郎 | 所属作品: `p:genshin impact`<br><br>忠勇双全的海祇军大将。天生具有野兽般的战斗直觉与顽强意志，能精准找出绝境中的胜机。领导着军备、物资皆不占优的海祇军与幕府军分庭抗礼，力求为活在这片土地上的人们支撑起一片生存之壁。 | [萌娘百科](https://zh.moegirl.org.cn/zh/五郎%28原神%29) |
