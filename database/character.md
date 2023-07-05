@@ -4638,6 +4638,7 @@ example:
 | mizore shirayuki | 白雪霙 |  |  |
 | nagisa kirifuji | 桐藤渚 | 所属作品：`p:blue archive`<br><br>圣三一学园所属，组成圣三一学生联盟的领袖，也是学生会“茶话会”的主持者。 |  |
 | fu xuan | 符玄 | 符玄是由米哈游所制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b2/符玄.jpg) | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
+| qingque | 青雀 | 青雀是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/ab/青雀立绘.jpg/420px-青雀立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青雀) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
