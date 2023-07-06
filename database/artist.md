@@ -7592,7 +7592,7 @@ example:
 | makunouchi | 幕野内 |  |  |
 | makunouchi isami | 幕の内勇 |  |  |
 | makura cover | 枕河馬亜 |  |  |
-| makura no doushi | まくらの同士 |  |  |
+| makura no doushi | まくらの同士 |  | [pixiv](https://www.pixiv.net/users/2637621) |
 | makuwa | ま・くわ |  |  |
 | malaia | マライぁ |  |  |
 | malino | MALINO |  |  |
