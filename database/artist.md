@@ -12466,6 +12466,7 @@ example:
 | radio sensei | ラジオ先生 |  | [Fantia](https://fantia.jp/fanclubs/132545) [pixiv](https://www.pixiv.net/users/36206) [Twitter](https://twitter.com/radio9radio) |
 | suitshark | Suitshark |  | [pixiv](https://www.pixiv.net/en/users/5533009) [Twitter](https://twitter.com/Asuitsuitsyou) [FANBOX](https://suitshark.fanbox.cc/) |
 | honashi | Honashi |  | [pixiv](https://www.pixiv.net/en/users/90579055) [Twitter](https://twitter.com/honashis) [FANBOX](https://honashi.fanbox.cc/) [Patreon](https://www.patreon.com/Hona888) |
+| 961 | 𝟡𝟞𝟙 |  | [pixiv](https://www.pixiv.net/en/users/2787667) [Twitter](https://twitter.com/key_961) [FANBOX](https://key961.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
