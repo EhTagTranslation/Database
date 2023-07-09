@@ -12465,6 +12465,7 @@ example:
 | pentagon | ぺんたごん |  | [pixiv](https://www.pixiv.net/users/10950860) [Twitter](https://twitter.com/RailgunKy) [FANBOX](https://q7k9gorx.fanbox.cc/) |
 | radio sensei | ラジオ先生 |  | [Fantia](https://fantia.jp/fanclubs/132545) [pixiv](https://www.pixiv.net/users/36206) [Twitter](https://twitter.com/radio9radio) |
 | suitshark | Suitshark |  | [pixiv](https://www.pixiv.net/en/users/5533009) [Twitter](https://twitter.com/Asuitsuitsyou) [FANBOX](https://suitshark.fanbox.cc/) |
+| honashi | Honashi |  | [pixiv](https://www.pixiv.net/en/users/90579055) [Twitter](https://twitter.com/honashis) [FANBOX](https://honashi.fanbox.cc/) [Patreon](https://www.patreon.com/Hona888) |
 
 <!--TEMPLATE:
 |  |  |  |  |
