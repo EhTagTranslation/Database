@@ -4640,6 +4640,7 @@ example:
 | fu xuan | 符玄 | 符玄是由米哈游所制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b2/符玄.jpg) | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
 | qingque | 青雀 | 青雀是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/ab/青雀立绘.jpg/420px-青雀立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青雀) |
 | sin mal | 杏·玛尔 | 杏·玛尔是miHoYo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/42/杏·玛尔.png) | [萌娘百科](https://zh.moegirl.org.cn/杏·玛尔) |
+| bailu | 白露 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
