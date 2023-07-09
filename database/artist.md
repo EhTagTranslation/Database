@@ -355,7 +355,7 @@ example:
 | bokujou nushi k | 牧场主K |  |  |
 | youta | 夜歌 \| よう太 | 朝月堂<br>あまとう |  |
 | tsumugi kyuuta | 紬きゅうた |  |  |
-| diga tsukune | 奈賀つくね |  |  |
+| minaga tsukune | 水賀つくね |  |  |
 | cha mirai | 茶みらい |  |  |
 | serizawa | 芹泽 |  |  |
 | toono suika | 远野西瓜 | 遠野すいか<br><br>![twitter](https://pbs.twimg.com/profile_images/971049591893213184/UQ8RoebZ_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/suikaMJ) [pixiv](https://www.pixiv.net/users/119317) |
