@@ -12462,6 +12462,7 @@ example:
 | petra | 佩城 |  | [pixiv](https://www.pixiv.net/users/14303174)<br>[FANBOX](https://petra.fanbox.cc/) |
 | akano murasaki | アカノムラサキ |  | [pixiv](https://www.pixiv.net/artworks/109253307) |
 | wood cube | 小木蹬子 |  | [pixiv](https://www.pixiv.net/users/59046424) |
+| pentagon | ぺんたごん |  | [pixiv](https://www.pixiv.net/users/10950860) [Twitter](https://twitter.com/RailgunKy) [FANBOX](https://q7k9gorx.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
