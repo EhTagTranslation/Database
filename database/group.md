@@ -12597,6 +12597,7 @@ example:
 | tohosanhun | 徒歩三分 | 茶户老师的R18用马甲 | [Twitter](https://twitter.com/tohosanhun)<br>[Twitter](https://twitter.com/tohoni) （本体） |
 | morunchi | モルチ |  |  |
 | gutsutoma | ぐつとま |  |  |
+| kaiten paradogs | 回転ParaDOGs |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
