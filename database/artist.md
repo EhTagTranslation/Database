@@ -12463,6 +12463,7 @@ example:
 | akano murasaki | アカノムラサキ |  | [pixiv](https://www.pixiv.net/artworks/109253307) |
 | wood cube | 小木蹬子 |  | [pixiv](https://www.pixiv.net/users/59046424) |
 | pentagon | ぺんたごん |  | [pixiv](https://www.pixiv.net/users/10950860) [Twitter](https://twitter.com/RailgunKy) [FANBOX](https://q7k9gorx.fanbox.cc/) |
+| radio sensei | ラジオ先生 |  | [Fantia](https://fantia.jp/fanclubs/132545) [pixiv](https://www.pixiv.net/users/36206) [Twitter](https://twitter.com/radio9radio) |
 
 <!--TEMPLATE:
 |  |  |  |  |
