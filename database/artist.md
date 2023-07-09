@@ -12468,6 +12468,7 @@ example:
 | honashi | Honashi |  | [pixiv](https://www.pixiv.net/en/users/90579055) [Twitter](https://twitter.com/honashis) [FANBOX](https://honashi.fanbox.cc/) [Patreon](https://www.patreon.com/Hona888) |
 | 961 | 𝟡𝟞𝟙 |  | [pixiv](https://www.pixiv.net/en/users/2787667) [Twitter](https://twitter.com/key_961) [FANBOX](https://key961.fanbox.cc/) |
 | hayanye r | はやにぇR |  | [pixiv](https://www.pixiv.net/en/users/39182623) [Twitter](https://twitter.com/hayanyeRo) [FANBOX](https://hayanye-r.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/16247) |
+| awamiku | あわこと |  | [pixiv](https://www.pixiv.net/users/38989867) [Twitter](https://twitter.com/awakotodayo) [Skeb](https://skeb.jp/@awakotogogo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
