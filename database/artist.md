@@ -12464,6 +12464,7 @@ example:
 | wood cube | 小木蹬子 |  | [pixiv](https://www.pixiv.net/users/59046424) |
 | pentagon | ぺんたごん |  | [pixiv](https://www.pixiv.net/users/10950860) [Twitter](https://twitter.com/RailgunKy) [FANBOX](https://q7k9gorx.fanbox.cc/) |
 | radio sensei | ラジオ先生 |  | [Fantia](https://fantia.jp/fanclubs/132545) [pixiv](https://www.pixiv.net/users/36206) [Twitter](https://twitter.com/radio9radio) |
+| suitshark | Suitshark |  | [pixiv](https://www.pixiv.net/en/users/5533009) [Twitter](https://twitter.com/Asuitsuitsyou) [FANBOX](https://suitshark.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
