@@ -3650,7 +3650,7 @@ example:
 | chisato arashi | 岚千砂都 |  |  |
 | mia taylor | 米娅·泰勒 |  |  |
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
-| sakura yae | 八重樱 |  |  |
+| sakura yae | 八重樱 | 八重樱是mihoyo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生IP作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cb/八重樱.png)<br>![](https://img.moegirl.org.cn/common/3/39/60211.png) | [萌娘百科](https://zh.moegirl.org.cn/八重樱%28崩坏系列%29) |
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
 | sara kujou | 九条裟罗 | 由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《`p:uma musume pretty derby`》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/醒目飞鹰) |
