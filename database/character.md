@@ -4642,6 +4642,7 @@ example:
 | sin mal | 杏·玛尔 | 杏·玛尔是miHoYo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/42/杏·玛尔.png) | [萌娘百科](https://zh.moegirl.org.cn/杏·玛尔) |
 | bailu | 白露 |  |  |
 | tingyun | 停云 | 停云是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/b/b0/停云.jpg/1024px-停云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/停云) |
+| bronya | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png) | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·兰德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
