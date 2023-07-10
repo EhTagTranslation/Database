@@ -1031,7 +1031,7 @@ example:
 | chell | 雪儿 | ![](https://ehgt.org/b6/f4/b6f4773175594298e196b80b9a67d418666dae41-392822-1920-1080-jpg_250.jpg) |  |
 |  | ▼ Re0 角色 |  |  |
 | emilia | 爱蜜莉雅 | 《Re：从零开始的异世界生活》的女主,嗯女主.<br>![图](https://ehgt.org/c1/8d/c18d33b2a442c52908aad5c057a7fda20be42949-1039868-1000-1252-png_l.jpg) |  |
-| rem | 雷姆 | ![图](https://ehgt.org/2f/97/2f9700e982745ee2d8a8a9f4c807a7dde28b77f0-973087-1000-1295-png_l.jpg)![雷姆](# "https://ehgt.org/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg") |  |
+| rem | 雷姆 | 雷姆是长月达平所创作的轻小说《Re:从零开始的异世界生活》及其衍生作品的登场角色。<br>![图](https://ehgt.org/2f/97/2f9700e982745ee2d8a8a9f4c807a7dde28b77f0-973087-1000-1295-png_l.jpg)![雷姆](# "https://ehgt.org/2d/b5/2db51423ca355a907a6efeb7af9ea6b7387c5b7e-205803-609-830-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/雷姆%28Re:从零开始的异世界生活%29#) |
 |  | 拉姆 | ram 重复项 |  |
 | subaru natsuki | 菜月昴 | ![菜月昴](# "https://ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg") |  |
 | beatrice | 碧翠丝 | ![碧翠丝](# "https://ehgt.org/16/dc/16dcaca304fe6ea989c4b30483ce48f1d908dc29-302210-850-1189-jpg_l.jpg") |  |
