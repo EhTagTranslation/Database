@@ -4259,7 +4259,7 @@ example:
 | natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
 | fu hua | 符华 |  |  |
 | timido cute | 缇米朵·丘忒 |  |  |
-| mobius | 梅比乌斯 |  |  |
+| mobius | 梅比乌斯 | 梅比乌斯是米哈游旗下游戏《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/e/eb/Mobius.png) | [萌娘百科](https://zh.moegirl.org.cn/梅比乌斯) |
 | heizou shikanoin | 鹿野院平藏 |  |  |
 | columbina | 「少女」哥伦比娅 | 《`genshin impact`》的登场角色。愚人众十一执行官第三席。 |  |
 | tartaglia | 「公子」达达利亚 | 《`genshin impact`》的登场角色。愚人众十一执行官末席。 |  |
