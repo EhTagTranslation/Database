@@ -2169,6 +2169,7 @@ example:
 | xenoblade chronicles 3 | 异度神剑3 | 《异度神剑3》（日语：ゼノブレイド3，英语：Xenoblade Chronicles 3）是Monolith Soft开发、任天堂发行的动作角色扮演游戏，于2022年7月29日在Nintendo Switch平台发售，支持简繁中文。<br><br>![](https://static.wikia.nocookie.net/xenoblade/images/d/d6/XC3_box_art.jpg) | [萌娘百科](https://zh.moegirl.org.cn/异度神剑3) [维基百科](https://zh.wikipedia.org/wiki/异度神剑3) |
 | hollow knight | 空洞骑士 |  |  |
 | koutetsu no majo annerose | 钢铁魔女安妮罗杰 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/鋼鉄の魔女アンネローゼ) [Bangumi](https://bgm.tv/subject/43301) |
+| wuqi mitu | 无期迷途 | 《无期迷途》（英语：Path to Nowhere）是由MBCC工作室研发，自意网络发行的以混沌都市为主题的RPG即时策略攻防手游。<br>![](https://img.moegirl.org.cn/common/9/96/无期迷途_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/无期迷途) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
