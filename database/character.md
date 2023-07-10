@@ -1052,7 +1052,7 @@ example:
 | kobato hasegawa | 羽濑川小鸠 | ![羽濑川小鸠](https://ehgt.org/11/e7/11e759c8412af65520dc1f60395d7830090d80a7-50943-315-640-jpg_l.jpg) |  |
 | kodaka hasegawa | 羽濑川小鹰 | ![羽濑川小鹰](https://ehgt.org/d4/1a/d41a9e7e7dd679e39b475793fbcfdf16dc208eb9-74031-550-777-jpg_l.jpg) |  |
 | rika shiguma | 志熊理科 | ![志熊理科](https://ehgt.org/21/df/21dfe1c979d457e0e4aef377c6fd3d897a551dd1-41856-279-640-jpg_l.jpg) |  |
-| sena kashiwazaki | 柏崎星奈 | ![柏崎星奈](https://ehgt.org/96/51/9651737316ee780477e19a384f383f9a34f805a6-36069-271-640-jpg_l.jpg) |  |
+| sena kashiwazaki | 柏崎星奈 | 柏崎星奈是平坂读创作的轻小说《我的朋友很少》及其衍生作品的登场角色，女主角之一。<br>![柏崎星奈](https://ehgt.org/96/51/9651737316ee780477e19a384f383f9a34f805a6-36069-271-640-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/柏崎星奈) |
 | yozora mikazuki | 三日月夜空 | ![三日月夜空](https://ehgt.org/67/40/6740e50cd2d0d66f0562c0ceda07e33a5518096c-41599-265-640-jpg_l.jpg) |  |
 | yukimura kusunoki | 楠幸村 | ![楠幸村](https://ehgt.org/09/fa/09fa969bac3e7bc59d68ea85c80fed67936021aa-34249-260-640-jpg_l.jpg) |  |
 | maria takayama | 高山玛利亚 | ![高山玛利亚](https://ehgt.org/f4/ac/f4acaeaebe7436b9574ebffb0f4ddecc74678c40-57300-401-640-jpg_l.jpg) |  |
