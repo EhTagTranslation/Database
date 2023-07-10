@@ -12470,6 +12470,7 @@ example:
 | hayanye r | はやにぇR |  | [pixiv](https://www.pixiv.net/en/users/39182623) [Twitter](https://twitter.com/hayanyeRo) [FANBOX](https://hayanye-r.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/16247) |
 | awamiku | あわこと |  | [pixiv](https://www.pixiv.net/users/38989867) [Twitter](https://twitter.com/awakotodayo) [Skeb](https://skeb.jp/@awakotogogo) |
 | barakey | バラキー |  | [pixiv](https://www.pixiv.net/users/10743492) [Twitter](https://twitter.com/tanganlover) [FANBOX](https://tanganlover.fanbox.cc/) [Skeb](https://skeb.jp/@TANGANLOVER) [BOOTH](https://barakieru.booth.pm/) |
+| ricerice | 飯桶君 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
