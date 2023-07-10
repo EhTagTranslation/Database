@@ -12335,7 +12335,7 @@ example:
 | aikolik | AIKOlik |  | [pixiv](https://www.pixiv.net/users/14760875) [Twitter](https://twitter.com/Aikolik) |
 | 2bls | 2bls |  | [pixiv](https://www.pixiv.net/users/63408688) [Twitter](https://twitter.com/2bls4) |
 | utagawa yosiero | 歌川芳江呂 |  |  |
-| allenes | ALLENES | ![头像](https://i.pixiv.cat/user-profile/img/2022/08/28/02/45/40/23252305_f9ad51c8dc01f96a0eb61ee128c32679_170.jpg)<br>雪糕画师<br>作品中多出现白色`stockings`、`f:tentacles` | PIXIV:[pixiv](z)<br>Patreon: [Patreon](https://www.patreon.com/Sdkf251)<br>FANBOX: [pixiv](https://www.pixiv.net/fanbox?utm_campaign=www_sidebar&utm_medium=site_flow&utm_so) |
+| allenes | ALLENES | ![头像](https://i.pixiv.cat/user-profile/img/2022/08/28/02/45/40/23252305_f9ad51c8dc01f96a0eb61ee128c32679_170.jpg)<br>雪糕画师<br>作品中多出现白色`stockings`、`f:tentacles` | PIXIV:[pixiv](https://www.pixiv.net/users/8217405)<br>Patreon: [Patreon](https://www.patreon.com/Sdkf251)<br>FANBOX: [pixiv](https://www.pixiv.net/fanbox?utm_campaign=www_sidebar&utm_medium=site_flow&utm_so) |
 | haiironpada | 灰色ンパダ |  |  |
 | hanamaluo | ハナマルオ | 代表作: [裙子里面是野兽](https://zh.moegirl.org.cn/裙子里面是野兽) | [Twitter](https://twitter.com/hanamaluon) |
 | kuroto yu | 黒兎ゆう |  | [pixiv](https://www.pixiv.net/users/4384618) [Twitter](https://twitter.com/kurotoyu816) |
