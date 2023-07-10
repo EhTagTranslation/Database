@@ -4643,6 +4643,7 @@ example:
 | bailu | 白露 |  |  |
 | tingyun | 停云 | 停云是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/b/b0/停云.jpg/1024px-停云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/停云) |
 | bronya | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png) | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·兰德) |
+| seele | 希儿 | 希儿是由米哈游所制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/97/Seele希儿.png) | [萌娘百科](https://zh.moegirl.org.cn/希儿%28星穹铁道%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
