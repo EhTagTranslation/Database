@@ -2171,6 +2171,7 @@ example:
 | koutetsu no majo annerose | 钢铁魔女安妮罗杰 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/鋼鉄の魔女アンネローゼ) [Bangumi](https://bgm.tv/subject/43301) |
 | wuqi mitu | 无期迷途 | 《无期迷途》（英语：Path to Nowhere）是由MBCC工作室研发，自意网络发行的以混沌都市为主题的RPG即时策略攻防手游。<br>![](https://img.moegirl.org.cn/common/9/96/无期迷途_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/无期迷途) |
 | jigokuraku | 地獄樂 |  | [维基百科](https://zh.wikipedia.org/wiki/地獄樂) |
+| tokyo mirage sessions fe | 幻影异闻录♯FE | 幻影异闻录♯FE》（日语：幻影異聞録♯FE，英语：Tokyo Mirage Sessions ♯FE）是Atlus开发、任天堂发行的一款JRPG，于2015年12月26日在Wii U平台发售。移植版《幻影异闻录♯FE Encore》（日语：幻影異聞録♯FE Encore，英语：Tokyo Mirage Sessions ♯FE Encore）于2020年1月17日在Nintendo Switch平台发售，全区支持简繁中文。<br>![](https://img.moegirl.org.cn/common/7/7c/Wii_U_JP_-_Tokyo_Mirage_Sessions_♯FE.jpg) | [萌娘百科](https://zh.moegirl.org.cn/幻影异闻录FE) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
