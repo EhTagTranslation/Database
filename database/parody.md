@@ -2170,6 +2170,7 @@ example:
 | hollow knight | 空洞骑士 |  |  |
 | koutetsu no majo annerose | 钢铁魔女安妮罗杰 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/鋼鉄の魔女アンネローゼ) [Bangumi](https://bgm.tv/subject/43301) |
 | wuqi mitu | 无期迷途 | 《无期迷途》（英语：Path to Nowhere）是由MBCC工作室研发，自意网络发行的以混沌都市为主题的RPG即时策略攻防手游。<br>![](https://img.moegirl.org.cn/common/9/96/无期迷途_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/无期迷途) |
+| jigokuraku | 地獄樂 |  | [维基百科](https://zh.wikipedia.org/wiki/地獄樂) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
