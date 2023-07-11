@@ -4647,7 +4647,7 @@ example:
 | shuuko komi | 古见秀子 | 古见秀子，古见硝子的母亲，是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/74/Komi_Shuko.png) | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
 | kana arima | 有马加奈 | 有马加奈（日语：有馬（ありま）かな）。是由赤坂明创作、横枪萌果作画的漫画《【我推的孩子】》的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/有马加奈彩图.jpg) | [萌娘百科](https://zh.moegirl.org.cn/有马加奈) |
 | mina majikina | 真镜名美奈 | 真镜名美奈（日语：真鏡名 ミナ）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 零》。<br>![](https://img.moegirl.org.cn/common/8/85/19341583.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真镜名美奈) |
-| nyotengu | 女天狗 | 女天狗是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 初登场于DOA5U Arcade。 | [萌娘百科](https://zh.moegirl.org.cn/女天狗%28死或生%29) |
+| nyotengu | 女天狗 | 女天狗是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 初登场于DOA5U Arcade。<br>![](https://img.moegirl.org.cn/common/b/b4/DOA5UA_Nyo-Tengu_Render.png) | [萌娘百科](https://zh.moegirl.org.cn/女天狗%28死或生%29) |
 | yuzuriha | 杠 | 《地獄樂》登场角色 | [Fandom](https://jigokuraku.fandom.com/wiki/Yuzuriha) |
 
 <!--TEMPLATE: 
