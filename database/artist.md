@@ -1660,7 +1660,7 @@ example:
 | oda kenichi | おだけんいち |  |  |
 | toranoe | トラノエ |  |  |
 | kinoebi | KinoeBi |  |  |
-| nanashi | 774 | 漫画家。以R-18作品出道，现已上岸。<br>目前正在连载长篇全年龄向漫画《`ijiranaide nagatoro-san`》<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2014/09/15/15/45/06/8400449_3cb6c503650215f5dd03e58fc8f6012a_170.png) | [Twitter](https://twitter.com/774nanash) [Pixiv](https://www.pixiv.net/users/72342) |
+| nanashi | 774 | ※此条标签可能指向两个作者<br>1.漫画家。以R-18作品出道，现已上岸。社团774ハウス（group:774 house）<br>目前正在连载长篇全年龄向漫画《`ijiranaide nagatoro-san`》<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2014/09/15/15/45/06/8400449_3cb6c503650215f5dd03e58fc8f6012a_170.png)<br><br>2.画师 ナナ紫（ななし）社团まいさい（tag:group:maisai） | 1.[Twitter](https://twitter.com/774nanash) [Pixiv](https://www.pixiv.net/users/72342)<br>2.[pixiv](https://www.pixiv.net/users/1519065) |
 | yokoyama lynch | 横山私刑 |  |  |
 | tamposa | たむポ～サ（TAM） |  |  |
 | tatami | 叠 |  |  |
