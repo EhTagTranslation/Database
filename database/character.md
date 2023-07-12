@@ -4655,7 +4655,7 @@ example:
 | senko | 仙狐 | 仙狐是由リムコロ所创作的漫画《贤惠幼妻仙狐小姐》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/0a/Senko.png) | [萌娘百科](https://zh.moegirl.org.cn/仙狐) |
 | johnny silverhand | 强尼·银手 | 强尼·银手（Johnny Silverhand）是《赛博朋克系列》及其衍生作品的登场角色，首次登场于《赛博朋克2020》<br>![](https://img.moegirl.org.cn/common/2/2f/强尼银手.png) | [萌娘百科](https://zh.moegirl.org.cn/强尼·银手) |
 | david martinez | 大卫·马丁内斯 | 大卫·马丁内斯（日语：デイビッド・マルティネス；英语：David Martinez）是由TRIGGER制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6a/David_Martinez_0920.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大卫·马丁内斯) |
-| gwendolyn | 关德琳 | 关德琳（格温多琳，グウェンドリン，gwendolyn）是游戏《奥丁领域》中的角色。<br>北方大国拉格纳涅布尔的公主，是受人畏惧的“魔王”国王奥丁的次女。<br>![图](https://atlus-vanillaware.jp/osl/resources/images/character/gwendolyn/img.png?v=201601291300)<br>![图](https://bkimg.cdn.bcebos.com/pic/d009b3de9c82d158ccbf632000450ed8bc3eb135e459) | [官网介绍](https://atlus-vanillaware.jp/osl/character/gwendolyn.html) |
+| gwendolyn | 关德琳 | 关德琳（格温多琳，グウェンドリン，gwendolyn）是游戏《奥丁领域》中的角色。<br>北方大国拉格纳涅布尔的公主，是受人畏惧的“魔王”国王奥丁的次女。<br>![图](https://img.moegirl.org.cn/common/e/e8/ODIN格温德琳.png)<br>![图](https://bkimg.cdn.bcebos.com/pic/d009b3de9c82d158ccbf632000450ed8bc3eb135e459) | [官网介绍](https://asia.sega.com/osl/character/gwendolyn.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
