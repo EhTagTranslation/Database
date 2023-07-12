@@ -4656,7 +4656,7 @@ example:
 | johnny silverhand | 强尼·银手 | 强尼·银手（Johnny Silverhand）是《赛博朋克系列》及其衍生作品的登场角色，首次登场于《赛博朋克2020》<br>![](https://img.moegirl.org.cn/common/2/2f/强尼银手.png) | [萌娘百科](https://zh.moegirl.org.cn/强尼·银手) |
 | david martinez | 大卫·马丁内斯 | 大卫·马丁内斯（日语：デイビッド・マルティネス；英语：David Martinez）是由TRIGGER制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6a/David_Martinez_0920.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大卫·马丁内斯) |
 | gwendolyn | 关德琳 | 关德琳（格温多琳，グウェンドリン，gwendolyn）是游戏《奥丁领域》中的角色。<br>北方大国拉格纳涅布尔的公主，是受人畏惧的“魔王”国王奥丁的次女。<br>![图](https://ehgt.org/ef/d8/efd86ec3469ccdc91e68171ad4a3b905d0ff8456-609494-721-1134-png_l.jpg)<br>![图](https://ehgt.org/46/a7/46a7a57f5c43a6a6f645e7c4d377cc8bdd13bac3-3102307-1215-1600-png_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/gwendolyn.html) |
-| oswald | 奥兹华德 | 奥兹华德（オズワルド，Oswald）是游戏《奥丁领域》中的角色。<br>妖精之国林格佛尔德的冷酷战士。<br>![图](https://img.moegirl.org.cn/common/8/8b/ODIN奥兹华德.png)<br>![图](https://bkimg.cdn.bcebos.com/pic/18d8bc3eb13533fa828bb0bd289cea1f4134970aed5b) | [官网介绍](https://asia.sega.com/osl/character/oswald.html) |
+| oswald | 奥兹华德 | 奥兹华德（オズワルド，Oswald）是游戏《奥丁领域》中的角色。<br>妖精之国林格佛尔德的冷酷战士。<br>![图](https://ehgt.org/76/58/765847d259bf5feeaad7dfb64da87a12189dc338-474085-669-992-png_l.jpg)<br>![图](https://ehgt.org/1c/77/1c77d4234e1c58112a8639a8d5e6adf92b1dba80-360186-1205-1671-jpg_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/oswald.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
