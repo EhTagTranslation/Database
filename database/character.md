@@ -4658,6 +4658,7 @@ example:
 | gwendolyn | 关德琳 | 关德琳（格温多琳，グウェンドリン，gwendolyn）是游戏《奥丁领域》中的角色。<br>北方大国拉格纳涅布尔的公主，是受人畏惧的“魔王”国王奥丁的次女。<br>![图](https://ehgt.org/ef/d8/efd86ec3469ccdc91e68171ad4a3b905d0ff8456-609494-721-1134-png_l.jpg)<br>![图](https://ehgt.org/46/a7/46a7a57f5c43a6a6f645e7c4d377cc8bdd13bac3-3102307-1215-1600-png_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/gwendolyn.html) |
 | oswald | 奥兹华德 | 奥兹华德（オズワルド，Oswald）是游戏《奥丁领域》中的角色。<br>妖精之国林格佛尔德的冷酷战士。<br>![图](https://ehgt.org/76/58/765847d259bf5feeaad7dfb64da87a12189dc338-474085-669-992-png_l.jpg)<br>![图](https://ehgt.org/1c/77/1c77d4234e1c58112a8639a8d5e6adf92b1dba80-360186-1205-1671-jpg_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/oswald.html) |
 | mabel rayveil | 梅贝露·蕾贝露 | 梅贝露·蕾贝露是漫画《异世界舅舅》及其衍生作品的主要角色。<br>![](https://img.moegirl.org.cn/common/1/17/MabelStand.png) | [萌娘百科](https://zh.moegirl.org.cn/梅贝露·蕾贝露) |
+| akane kurokawa | 黑川茜 | 黑川茜，艺名黑川茜/黑川赤音，是由赤坂明创作、横枪萌果作画的漫画《我推的孩子》的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cc/黑川茜动画人设图.png) | [萌娘百科](https://zh.moegirl.org.cn/黑川茜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
