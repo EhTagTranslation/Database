@@ -4651,6 +4651,7 @@ example:
 | yuzuriha | 杠 | 《地獄樂》登场角色 | [Fandom](https://jigokuraku.fandom.com/wiki/Yuzuriha) |
 | velvet | 薇尔贝特 | 薇尔贝特（ベルベット）是游戏《奥丁领域》中的角色。<br>因不明原因灭亡，曾经的大国瓦伦泰的公主。<br>![图](https://img.moegirl.org.cn/common/3/32/ODIN维尔贝特.png) | [官网介绍](https://atlus-vanillaware.jp/osl/character/velvet.html) |
 | lucyna kushinada | 露西 | 露西（日语：ルーシー／ルキナ・クシナダ；英语：Lucy / Lucyna Kushinada）是由 TRIGGER 制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cc/Cyberpunk_Lucy.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西%28赛博朋克边缘行者%29#) |
+| w | W | W是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/db/明日方舟立绘_W_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:W) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
