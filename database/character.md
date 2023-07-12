@@ -4660,6 +4660,7 @@ example:
 | mabel rayveil | 梅贝露·蕾贝露 | 梅贝露·蕾贝露是漫画《异世界舅舅》及其衍生作品的主要角色。<br>![](https://img.moegirl.org.cn/common/1/17/MabelStand.png) | [萌娘百科](https://zh.moegirl.org.cn/梅贝露·蕾贝露) |
 | akane kurokawa | 黑川茜 | 黑川茜，艺名黑川茜/黑川赤音，是由赤坂明创作、横枪萌果作画的漫画《我推的孩子》的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cc/黑川茜动画人设图.png) | [萌娘百科](https://zh.moegirl.org.cn/黑川茜) |
 | perona | 佩罗娜 | 佩罗娜是尾田荣一郎创作的漫画《海贼王》及其衍生作品的登场角色。<br>![](https://i.postimg.cc/NfJCbWvH/Perona-Anime-Post-Timeskip-Infobox.webp) |  |
+| suzume iwato | 岩户铃芽 | 岩户铃芽是日本动画监督新海诚所创作的动画电影《铃芽之旅》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/24/Iwado_Suzume.jpg) | [萌娘百科](https://zh.moegirl.org.cn/岩户铃芽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
