@@ -12474,6 +12474,7 @@ example:
 | ahbai | 阿白 |  | [pixiv](https://www.pixiv.net/users/34728119) |
 | parsley | パセリ |  | [Twitter](https://twitter.com/Parsley_F) |
 | ochin-sama | おちんさま |  | [Twitter](https://twitter.com/Ochin_Johansson/media) |
+| takafumi | たかふみ |  | [pixiv](https://www.pixiv.net/users/11720) |
 
 <!--TEMPLATE:
 |  |  |  |  |
