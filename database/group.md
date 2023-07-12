@@ -12599,6 +12599,7 @@ example:
 | gutsutoma | ぐつとま |  |  |
 | kaiten paradogs | 回転ParaDOGs |  |  |
 | umi no sachi teishoku | 海の幸定食 |  |  |
+| tennensuidousui | 天然水道水 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
