@@ -4662,6 +4662,7 @@ example:
 | perona | 佩罗娜 | 佩罗娜是尾田荣一郎创作的漫画《海贼王》及其衍生作品的登场角色。<br>![](https://i.postimg.cc/NfJCbWvH/Perona-Anime-Post-Timeskip-Infobox.webp) |  |
 | suzume iwato | 岩户铃芽 | 岩户铃芽是日本动画监督新海诚所创作的动画电影《铃芽之旅》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/24/Iwado_Suzume.jpg) | [萌娘百科](https://zh.moegirl.org.cn/岩户铃芽) |
 | souta munakata | 宗像草太 | 宗像草太是日本动画监督新海诚所创作的动画电影《铃芽之旅》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/fa/Munakata_Sota.jpg) | [萌娘百科](https://zh.moegirl.org.cn/宗像草太) |
+| tsundere elf | 翠 | 翠，真名为苏扎伊尔吉拉泽加奈尔布泽基尔雷亚格朗塞尔加·艾尔加[4]是漫画《异世界舅舅》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/8/89/Elf.png) | [萌娘百科](https://zh.moegirl.org.cn/翠%28异世界舅舅%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
