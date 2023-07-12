@@ -12472,6 +12472,7 @@ example:
 | barakey | バラキー |  | [pixiv](https://www.pixiv.net/users/10743492) [Twitter](https://twitter.com/tanganlover) [FANBOX](https://tanganlover.fanbox.cc/) [Skeb](https://skeb.jp/@TANGANLOVER) [BOOTH](https://barakieru.booth.pm/) |
 | ricerice | 飯桶君 |  | [pixiv](https://www.pixiv.net/users/21862577) |
 | ahbai | 阿白 |  | [pixiv](https://www.pixiv.net/users/34728119) |
+| parsley | パセリ |  | [Twitter](https://twitter.com/Parsley_F) |
 
 <!--TEMPLATE:
 |  |  |  |  |
