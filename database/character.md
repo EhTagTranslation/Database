@@ -4654,6 +4654,7 @@ example:
 | w | W | W是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/db/明日方舟立绘_W_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:W) |
 | senko | 仙狐 | 仙狐是由リムコロ所创作的漫画《贤惠幼妻仙狐小姐》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/0a/Senko.png) | [萌娘百科](https://zh.moegirl.org.cn/仙狐) |
 | johnny silverhand | 强尼·银手 | 强尼·银手（Johnny Silverhand）是《赛博朋克系列》及其衍生作品的登场角色，首次登场于《赛博朋克2020》<br>![](https://img.moegirl.org.cn/common/2/2f/强尼银手.png) | [萌娘百科](https://zh.moegirl.org.cn/强尼·银手) |
+| david martinez | 大卫·马丁内斯 | 大卫·马丁内斯（日语：デイビッド・マルティネス；英语：David Martinez）是由TRIGGER制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6a/David_Martinez_0920.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大卫·马丁内斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
