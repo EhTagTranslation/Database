@@ -4649,7 +4649,7 @@ example:
 | mina majikina | 真镜名美奈 | 真镜名美奈（日语：真鏡名 ミナ）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 零》。<br>![](https://img.moegirl.org.cn/common/8/85/19341583.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真镜名美奈) |
 | nyotengu | 女天狗 | 女天狗是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 初登场于DOA5U Arcade。<br>![](https://img.moegirl.org.cn/common/b/b4/DOA5UA_Nyo-Tengu_Render.png) | [萌娘百科](https://zh.moegirl.org.cn/女天狗%28死或生%29) |
 | yuzuriha | 杠 | 《地獄樂》登场角色 | [Fandom](https://jigokuraku.fandom.com/wiki/Yuzuriha) |
-| velvet | 薇尔贝特 | 薇尔贝特（ベルベット）是游戏《奥丁领域》中的角色。<br>因不明原因灭亡，曾经的大国瓦伦泰的公主。<br>![](https://img.moegirl.org.cn/common/3/32/ODIN维尔贝特.png) | [官网介绍](https://atlus-vanillaware.jp/osl/character/velvet.html) |
+| velvet | 薇尔贝特 | 薇尔贝特（ベルベット）是游戏《奥丁领域》中的角色。<br>因不明原因灭亡，曾经的大国瓦伦泰的公主。<br>![图](https://img.moegirl.org.cn/common/3/32/ODIN维尔贝特.png) | [官网介绍](https://atlus-vanillaware.jp/osl/character/velvet.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
