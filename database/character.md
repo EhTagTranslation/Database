@@ -2681,7 +2681,7 @@ example:
 | mina ashido | 芦户三奈 |  |  |
 | rebecca | 蕾贝卡 |  |  |
 | amazon | 亚马逊 |  |  |
-| sorceress | 女巫 |  |  |
+| sorceress | 女巫 | 游戏《龙之皇冠》中的角色。<br>![图](https://ehgt.org/d4/9b/d49b2c756d3c7b929a8b3005a8bf7c4649cec001-127531-850-1050-jpg_l.jpg)<br>![图](https://ehgt.org/db/85/db857a5ee857ec6ba6c27ff7f2995140dc3259a6-118637-800-1260-jpg_l.jpg) |  |
 | serena | 莎莉娜 \| 瑟妮娅 | 莎莉娜(日文：セレナ，英文：Serena，TVB粤语版动画官译：塞莉娜，民间常见翻译：塞蕾娜、瑟蕾娜，)是GAME FREAK的游戏《`pokemon`X／Y》及其衍生作品的登场角色，女主角。<br>![图](https://img.moegirl.org.cn/common/thumb/5/58/Hero-Girl-Pokemon-X-and-Y.jpg/280px-Hero-Girl-Pokemon-X-and-Y.jpg)<br><br>瑟妮娅是指角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的妹妹。<br>![图](https://www.dq11.jp/s/pf/characters/_img/senya/chara_2d_sp.png) |  |
 | shauna | 莎娜 |  |  |
 | kiruko otonashi | 音无斩子 |  |  |
