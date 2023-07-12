@@ -508,7 +508,7 @@ example:
 | cygnet | 小天鹅 | 英国海军的小天鹅号驱逐舰（ HMS Cygnet (H83)） | [碧蓝航线:小天鹅](https://zh.moegirl.org.cn/碧蓝航线:小天鹅) |
 | kent | 肯特 | 英国皇家海军肯特号重巡洋舰（ HMS Kent(54)） | [碧蓝航线:肯特](https://zh.moegirl.org.cn/碧蓝航线:肯特) [战舰少女:肯特](https://zh.moegirl.org.cn/战舰少女:肯特) |
 | hammann | 哈曼 |  | [碧蓝航线:哈曼](https://zh.moegirl.org.cn/碧蓝航线:哈曼) [战舰少女:哈曼](https://zh.moegirl.org.cn/战舰少女:哈曼) |
-| mikasa | 三笠 | 旧日本帝国海军的三笠号战列舰（三笠(戦艦)） | [碧蓝航线:三笠](https://zh.moegirl.org.cn/碧蓝航线:三笠) |
+| mikasa | 三笠 | 游戏《碧蓝航线》及其衍生作品的登场角色，旧日本帝国海军的三笠号战列舰（三笠(戦艦)）<br>![](https://img.moegirl.org.cn/common/c/cc/BLHX_70462669_p0.jpg) | [碧蓝航线:三笠](https://zh.moegirl.org.cn/碧蓝航线:三笠) |
 | st. louis | 圣路易斯 | 美国海军布鲁克林级轻巡洋舰八号舰圣路易斯号（USS St. Louis CL-49) | [碧蓝航线:圣路易斯](https://zh.moegirl.org.cn/碧蓝航线:圣路易斯) [战舰少女:圣路易斯](https://zh.moegirl.org.cn/战舰少女:圣路易斯) |
 | san diego | 圣地亚哥 | 美国海军亚特兰大级轻巡洋舰三号舰圣地亚哥号（USS San Diego CL-53） | [碧蓝航线:圣地亚哥](https://zh.moegirl.org.cn/碧蓝航线:圣地亚哥) [战舰少女:圣地亚哥](https://zh.moegirl.org.cn/战舰少女:圣地亚哥) |
 | long island | 长岛 | 名称由来是位于北美洲东海岸边的一个狭长的半岛，属于美国纽约州 | [碧蓝航线:长岛](https://zh.moegirl.org.cn/碧蓝航线:长岛) |
