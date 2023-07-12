@@ -3732,7 +3732,7 @@ example:
 | celestine lucullus | 塞蕾斯汀·卢库勒斯 |  |  |
 | lucario | 路卡利欧 | 路卡利欧（日文︰ルカリオ，英文︰Lucario）是格斗属性和钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/路卡利欧) |
 | eren jaeger | 艾伦·耶格尔 |  |  |
-| mikasa ackerman | 三笠·阿克曼 |  |  |
+| mikasa ackerman | 三笠·阿克曼 | 三笠·阿克曼是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色，女主角。<br>![](https://img.moegirl.org.cn/common/3/3c/140805978669305.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三笠·阿克曼) |
 | armin arlert | 阿明·阿诺德 |  |  |
 | clarisse | 克拉莉丝 |  |  |
 | hilda boreas greyrat | 希尔达·伯雷亚斯·格雷拉特 |  |  |
