@@ -12475,6 +12475,7 @@ example:
 | parsley | パセリ |  | [Twitter](https://twitter.com/Parsley_F) |
 | ochin-sama | おちんさま |  | [Twitter](https://twitter.com/Ochin_Johansson/media) |
 | takafumi | たかふみ |  | [pixiv](https://www.pixiv.net/users/11720) |
+| rkrk12 | rkrk12 |  | [pixiv](https://www.pixiv.net/users/27519319)<br>[FANBOX](https://rkrk12.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
