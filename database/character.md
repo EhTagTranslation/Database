@@ -4666,6 +4666,7 @@ example:
 | sumika fujimiya | 藤宫澄夏 | 藤宫澄夏是漫画《异世界舅舅》及其衍生作品的主要角色。<br>![](https://img.moegirl.org.cn/common/1/10/FujimiyaStand.png) | [萌娘百科](https://zh.moegirl.org.cn/藤宫澄夏) |
 | yousuke shibazaki | 岛㟢阳介 | 岛㟢阳介是漫画《异世界舅舅》及其衍生作品的男主角。<br>![](https://img.moegirl.org.cn/common/7/76/Ojisan.png) | [萌娘百科](https://zh.moegirl.org.cn/岛㟢阳介) |
 | alicia edelsia | 艾丽西亚·伊德露西亚 | 艾丽西亚·伊德露西亚是漫画《异世界舅舅》及其衍生作品的主要角色。<br>![](https://img.moegirl.org.cn/common/1/1e/AliciaStand.png) | [萌娘百科](https://zh.moegirl.org.cn/艾丽西亚·伊德露西亚) |
+| purah | 普尔亚 | 普尔亚是任天堂旗下游戏作品《塞尔达传说 旷野之息》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/f/fa/TotK_Purah.png) | [萌娘百科](https://zh.moegirl.org.cn/普尔亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
