@@ -4670,6 +4670,7 @@ example:
 | touko fukawa | 腐川冬子 | 腐川冬子是游戏《弹丸论破》系列及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/40/腐川冬子.png) | [萌娘百科](https://zh.moegirl.org.cn/腐川冬子) |
 | haru | 春 | 春（日语：ハル）是由板垣巴留所创作漫画《BEASTARS》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/0/04/BEASTARS_main1.png) | [萌娘百科](https://zh.moegirl.org.cn/春%28BEASTARS%29) |
 | rio kastle | 神代璃绪 | 神代璃绪（日语：神代璃緒）是由ぎやろっぷ制作的动画作品《游☆戏☆王ZEXAL》和三好直人，吉田伸合作的漫画作品《游☆戏☆王ZEXAL》及其衍生作品的登场角色. |  |
+| elizabeth liones | 伊丽莎白·里昂妮丝 | 由日本漫画家铃木央所创作的《七大罪》漫画作品及其衍生作品中的登场角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
