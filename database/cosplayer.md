@@ -86,6 +86,7 @@ example:
 | lostwind10 | 猫と爪呸罗呸罗 |  | [Twitter](https://twitter.com/Lostwind10) |
 | xue qi-sama | 雪琪SAMA |  |  |
 | larissa rochefort | Larissa Rochefort |  |  |
+| kitaro | Kitaro绮太郎 |  | [哔哩哔哩](https://space.bilibili.com/2075682/) |
 
 <!--
 Template: 
