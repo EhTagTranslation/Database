@@ -12476,6 +12476,7 @@ example:
 | ochin-sama | おちんさま |  | [Twitter](https://twitter.com/Ochin_Johansson/media) |
 | takafumi | たかふみ |  | [pixiv](https://www.pixiv.net/users/11720) |
 | rkrk12 | rkrk12 |  | [pixiv](https://www.pixiv.net/users/27519319)<br>[FANBOX](https://rkrk12.fanbox.cc/) |
+| yurishima shiro | ゆりしましろ |  | [Twitter](https://twitter.com/yurishima_shiro) [pixiv](https://www.pixiv.net/users/86618946) |
 
 <!--TEMPLATE:
 |  |  |  |  |
