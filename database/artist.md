@@ -12478,6 +12478,7 @@ example:
 | rkrk12 | rkrk12 |  | [pixiv](https://www.pixiv.net/users/27519319)<br>[FANBOX](https://rkrk12.fanbox.cc/) |
 | yurishima shiro | ゆりしましろ |  | [Twitter](https://twitter.com/yurishima_shiro) [pixiv](https://www.pixiv.net/users/86618946) |
 | purumetal | ぷるめたる |  | [Twitter](https://twitter.com/purumetal) [pixiv](https://www.pixiv.net/users/16924708) |
+| nicolai no yome | ニコライの嫁（nicolai） |  | [Twitter](https://twitter.com/nic01ai) [pixiv](https://www.pixiv.net/users/32560534) |
 
 <!--TEMPLATE:
 |  |  |  |  |
