@@ -4672,6 +4672,7 @@ example:
 | rio kastle | 神代璃绪 | 神代璃绪（日语：神代璃緒）是由ぎやろっぷ制作的动画作品《游☆戏☆王ZEXAL》和三好直人，吉田伸合作的漫画作品《游☆戏☆王ZEXAL》及其衍生作品的登场角色.<br>![](https://img.moegirl.org.cn/common/9/99/Chara_rio.png) | [萌娘百科](https://zh.moegirl.org.cn/神代璃绪) |
 | elizabeth liones | 伊丽莎白·里昂妮丝 | 由日本漫画家铃木央所创作的《七大罪》漫画作品及其衍生作品中的登场角色 |  |
 | yanqing | 彦卿 | 彦卿是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/84/彦卿.jpg) | [萌娘百科](https://zh.moegirl.org.cn/彦卿) |
+| seika ijichi | 伊地知星歌 | 伊地知星歌（日语：伊地知（いじち）星歌（せいか））是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊地知星歌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
