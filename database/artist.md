@@ -12480,6 +12480,7 @@ example:
 | purumetal | ぷるめたる |  | [Twitter](https://twitter.com/purumetal) [pixiv](https://www.pixiv.net/users/16924708) |
 | nicolai no yome | ニコライの嫁（nicolai） |  | [Twitter](https://twitter.com/nic01ai) [pixiv](https://www.pixiv.net/users/32560534) |
 | sukusan | SukuSan |  | [pixiv](https://www.pixiv.net/users/10166531) |
+| noya macoto | ノヤマコト | **ノヤマコト** 是日本漫画家、插画师，以社团「乃屋」名义发布东方 Project 题材同人志，以「ウラマコト（里 Macoto）」名义发布捆绑拘束题材插画、漫画。<br><br>![](https://upload.thwiki.cc/f/f0/乃屋banner3.jpg) | [东方维基](https://thwiki.cc/乃屋)<br>[个人主页](https://thwiki.cc/乃屋)<br>Twitter：[ノヤマコト](https://twitter.com/noya_macoto)、[ウラマコト](https://twitter.com/ura_macoto)<br>Pixiv：[ノヤマコト](https://www.pixiv.net/users/153451)、[ウラマコト](https://www.pixiv.net/users/51707037)<br>[Ameba](https://ameblo.jp/noyamacoto/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
