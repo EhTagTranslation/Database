@@ -12601,6 +12601,7 @@ example:
 | umi no sachi teishoku | 海の幸定食 |  |  |
 | tennensuidousui | 天然水道水 |  |  |
 | sorairo koubou | 空色工房 |  |  |
+| kakuran operetta | 攪乱オペレッタ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
