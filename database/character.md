@@ -4676,6 +4676,7 @@ example:
 | rika furude | 古手梨花 | ![](https://static.wikia.nocookie.net/whentheycry/images/f/f3/Rika_mei_school_%281%29.png)<br><br>圭一的学妹，和沙都子同为小学6年级。古手神社的独生女，雏见泽御三家之一，古手家的最后一人。在每年6月的绵流祭担当巫女，被认为是御社神大人的转世，兼具冷静与神秘性，受到村人的喜爱与崇敬。 | [萌娘百科](https://zh.moegirl.org.cn/古手梨花) [Fandom](https://whentheycry.fandom.com/wiki/Furude_Rika) |
 | junko akashi | 赤司淳子 |  |  |
 | black widow | 黑寡妇 | 所属作品: `p:avengers` |  |
+| midna | 米多娜 | 《塞尔达黄昏公主》中的黄昏公主 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
