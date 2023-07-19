@@ -570,7 +570,7 @@ example:
 | makibe kataru | 牧部かたる |  |  |
 | ikeshita maue | 池下真上 |  |  |
 | ikuhana niro | 几花にいろ | ![twitter](https://pbs.twimg.com/profile_images/989343713368334338/QnyounDQ_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/ikuhananiro) |
-| c.r | しーあーる |  |  |
+| c.r | しーあーる |  | [pixiv](https://www.pixiv.net/users/125757) |
 | chimosaku | ちもさく |  |  |
 | otoo | ぉとぉ |  |  |
 | belu | BeLu |  |  |
