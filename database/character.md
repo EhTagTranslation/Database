@@ -4506,7 +4506,7 @@ example:
 | white len | 白莲 |  |  |
 | momiji hozuki | 穗月椛 |  |  |
 | kaede hozuki | 穗月枫 |  |  |
-| kafka | 卡夫卡 \| 卡芙卡 | 卡芙卡是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/0/0d/卡芙卡.jpg/1024px-卡芙卡.jpg) | [萌娘百科](https://zh.moegirl.org.cn/卡芙卡) |
+| kafka | 卡芙卡 \| 卡夫卡 | 卡芙卡是米哈游制作的游戏《`p:honkai star rail`》及其衍生作品的登场角色。<br>![](https://webstatic.hoyoverse.com/upload/op-public/2022/04/11/d1b3460138c3177e3f7b5e458149a98f_3206169365070932548.png)<br><br>卡夫卡是迷迭香是上海鹰角网络科技有限公司制作的游戏《`p:arknights`》及其衍生作品的登场角色。<br>![](https://prts.wiki/images/e/ef/立绘_卡夫卡_1.png) | [卡芙卡](https://zh.moegirl.org.cn/卡芙卡) [卡夫卡](https://prts.wiki/w/卡夫卡) |
 | ookanehira | 大包平 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大包平) |
 | uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
 | sovetskaya rossiya | 苏维埃罗西亚 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
