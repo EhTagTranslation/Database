@@ -4678,6 +4678,7 @@ example:
 | black widow | 黑寡妇 | 所属作品: `p:avengers` |  |
 | midna | 米多娜 | 《塞尔达黄昏公主》中的黄昏公主 |  |
 | arisu sakayanagi | 坂柳有栖 |  | [萌娘百科](https://zh.moegirl.org.cn/坂柳有栖) |
+| griseo | 格蕾修 | 格蕾修是米哈游旗下的《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7a/格蕾修.png) | [萌娘百科](https://zh.moegirl.org.cn/格蕾修) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
