@@ -4677,6 +4677,7 @@ example:
 | junko akashi | 赤司淳子 |  |  |
 | black widow | 黑寡妇 | 所属作品: `p:avengers` |  |
 | midna | 米多娜 | 《塞尔达黄昏公主》中的黄昏公主 |  |
+| arisu sakayanagi | 坂柳有栖 |  | [萌娘百科](https://zh.moegirl.org.cn/坂柳有栖) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
