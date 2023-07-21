@@ -3268,7 +3268,7 @@ example:
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 |  |  |
 | mdr | MDR | MDR是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》（英：Girls' Frontline）及其衍生作品的登场角色。于2018.3.22加入游戏。<br>![MDR](https://p.sda1.dev/1/732ec27d8909a7ce50245792ea853351/image.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:MDR) |
-| keqing | 刻晴 | 刻晴（英语：Keqing／日语：刻晴（こくせい））是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
+| keqing | 刻晴 | 刻晴（英语：Keqing／日语：刻晴（こくせい））是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/34/刻晴.jpg) | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
 | atsuko kagari | 篝敦子 | 从日本而来，志愿成为魔女的少女。因小时候着迷于闪耀夏莉奥的魔法秀，立志成为魔女于是来到了新月魔法学校，虽然不擅长魔法，但会乐观向前地朝着成为夏莉奥那样的魔女而努力。 | [萌娘百科](https://zh.moegirl.org.cn/篝敦子) |
 | diana cavendish | 戴安娜·卡文迪什 | 亚可的同班同学，诞生于英国的名门魔女家系。头脑聪明，拥有高超的魔法能力，被称作露娜诺娃创办以来最优秀的学生。认真且正义感强烈，也因此常与亚可有所冲突实际上是帮忙收烂摊子。 | [萌娘百科](https://zh.moegirl.org.cn/戴安娜·卡文迪什) |
 | eriko kuraishi | 仓石惠理子 | ![惠理子](https://img.moegirl.org.cn/common/thumb/e/ec/Kuraishi_eriko_pc.png/280px-Kuraishi_eriko_pc.png)<br>本名仓石惠理子，隶属于“暮光流星群”，外号“破坏狂”，眼神阴暗，爱做实验，制药天才，能够制造操纵人的药物。虽然是个病娇，但其内心也有温柔的一面。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=仓石惠理子) [bilibili游戏](https://wiki.biligame.com/pcr/惠理子) |
