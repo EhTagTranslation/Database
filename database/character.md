@@ -4681,6 +4681,7 @@ example:
 | griseo | 格蕾修 | 格蕾修是米哈游旗下的《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7a/格蕾修.png) | [萌娘百科](https://zh.moegirl.org.cn/格蕾修) |
 | melina | 梅琳娜 | 梅琳娜（英语：Melina）是由FromSoftware开发，万代南梦宫娱乐发行的动作角色扮演游戏《艾尔登法环》中的登场角色。<br>![](https://img.moegirl.org.cn/common/0/06/艾尔登法环梅琳娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/梅琳娜%28艾尔登法环%29#) |
 | hinoa | 水芸 |  |  |
+| implacable | 怨仇 | 怨仇（Implacable，インプラカブル）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型是英国海军的怨仇号航空母舰（HMS\_Implacable\_(R86)）。<br>![](https://img.moegirl.org.cn/common/d/d1/BLHX_105603144.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:怨仇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
