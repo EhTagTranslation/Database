@@ -4206,7 +4206,7 @@ example:
 | mitsuru kirijo | 桐条美鹤 |  |  |
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
 | kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
-| nilou | 妮露 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?curid=531593) |
+| nilou | 妮露 | 妮露是米哈游研发的游戏《原神（genshin impact）》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f0/原神妮露.jpg) | [萌娘百科](https://zh.moegirl.org.cn/index.php?curid=531593) |
 | princess elsa | 艾莎公主 | 迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。 |  |
 | kristoff bjorgman | 克斯托夫 | 动画电影《冰雪奇缘》系列中的角色 |  |
 | athrun zala | 阿斯兰·萨拉 |  |  |
