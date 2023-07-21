@@ -3276,7 +3276,7 @@ example:
 | makoto kowata | 木幡真琴 |  |  |
 | elaina | 伊蕾娜 |  |  |
 | ganyu | 甘雨 | 甘雨，米哈游出品的游戏《原神》及其衍生作品中的角色，璃月七星的秘书。<br>![](https://img.moegirl.org.cn/common/c/c0/循循守月_甘雨.png) | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
-| jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
+| jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德是米哈游研发的游戏《原神（genshin impact）》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
 | jean | 琴 |  |  |
 | midori fuse | 布施翠 |  |  |
 | roxy migurdia | 洛琪希·米格路迪亚 | 洛琪希·米格路迪亚（日语：ロキシー・ミグルディア）是由理不尽な孫の手创作的轻小说《`mushoku tensei`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
