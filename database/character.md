@@ -4680,7 +4680,7 @@ example:
 | arisu sakayanagi | 坂柳有栖 |  | [萌娘百科](https://zh.moegirl.org.cn/坂柳有栖) |
 | griseo | 格蕾修 | 格蕾修是米哈游旗下的《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7a/格蕾修.png) | [萌娘百科](https://zh.moegirl.org.cn/格蕾修) |
 | melina | 梅琳娜 | 梅琳娜（英语：Melina）是由FromSoftware开发，万代南梦宫娱乐发行的动作角色扮演游戏《艾尔登法环》中的登场角色。<br>![](https://img.moegirl.org.cn/common/0/06/艾尔登法环梅琳娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/梅琳娜%28艾尔登法环%29#) |
-| hinoa | 火芽 |  |  |
+| hinoa | 水芸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
