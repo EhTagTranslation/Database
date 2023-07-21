@@ -4289,7 +4289,7 @@ example:
 | fatui cryo cicin mage | 冰萤术士 |  |  |
 | mirror maiden | 藏镜仕女 |  |  |
 | sirin | 西琳 |  |  |
-| dehya | 迪希雅 |  |  |
+| dehya | 迪希雅 | 迪希雅是由米哈游研发游戏《原神（genshin impact）》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/原神迪希雅.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪希雅) |
 | noa ushio | 生盐诺亚 | 所属作品：`p:blue archive` |  |
 | kokona sunohara | 春原心奈 | 所属作品：`p:blue archive` |  |
 | hasumi hanekawa | 羽川莲见 | 所属作品：`p:blue archive` |  |
