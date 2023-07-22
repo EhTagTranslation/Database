@@ -4930,7 +4930,7 @@ example:
 | dote kabocha | どてかぼちゃ |  |  |
 | dotsuco | dotsuco |  |  |
 | dou yutaka | 堂豊 |  |  |
-| double deck | だぶるでっく |  |  |
+| double deck | だぶるでっく |  | [pixiv](https://www.pixiv.net/users/131502) |
 | doudantsutsuji | 満天星 |  |  |
 | doug winger | Deceased. |  |  |
 | douman ao | 道満青 |  |  |
