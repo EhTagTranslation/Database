@@ -64,6 +64,7 @@ example:
 | nudism | 裸体主义 | 两个或多个角色的生殖器完全暴露在彼此面前，同时没有进行性活动。不要与`exhibitionism`相混淆。 |  |
 |  | == 多人活动 == |  |  |
 | ffm threesome | 女男女3P | ♀♂♀，2 女 1 男 3P。需要`group`标签。 |  |
+| gang rape | 轮奸 | 1 人同时被至少 3 人强奸。需要`group`和`rape`标签。对于双方同意的性行为，使用`harem`标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
 | mmf threesome | 男女男3P | ♂♀♂，2 男 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
 | mmt threesome | 男扶男3P | ♂⚥♂，2 男 1 扶 3P。需要`group`标签。不算`yaoi`。 |  |

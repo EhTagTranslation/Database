@@ -339,6 +339,7 @@ example:
 | urethra insertion | 尿道插入 | 插入尿道的性行为。 |  |
 |  | ==== 下半身 > 阴部 > 阴茎 ==== |  |  |
 | adventitious penis | 畸位阴茎 | 在身体的意想不到的地方至少有一个阴茎（例如手、嘴或尾巴）。`tentacles`和`dicknipples`不算。 |  |
+| ball caressing | 揉蛋 | 轻轻触摸或按摩睾丸。不要与`cbt`混淆。 |  |
 | balls expansion | 睾丸生长 | 睾丸的尺寸增大，可能成为`big balls`。 |  |
 | ball sucking | 吸球 | 用嘴在睾丸上吸吮为乐。<br>![图](# "https://ehgt.org/4c/07/4c072eb0bb5ad98418cc70fa0bd99908c31a3ddb-1561179-1600-2294-png_l.jpg") |  |
 | balljob | 球交 | 通过类似`paizuri`的方式使用睾丸。 |  |
@@ -474,8 +475,8 @@ example:
 | stirrup legwear | 马镫裤 | 踩脚裤，覆盖脚踝但不完全覆盖脚底的腿部衣服。需要`stockings`或`pantyhose`标签。 |  |
 | stockings | ![长筒袜图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/stockings.webp)长筒袜 | 一种通常透明的弹性衣服，覆盖足和腿的下部，但没到生殖器区域。需要至少达到膝盖以上。不应与`pantyhose`和`thigh high boots`标签混淆。<br>![图](# "https://ehgt.org/e3/a6/e3a623baf43a450d519246dc8aa68dc2badcb309-766167-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/15/d4/15d43db0af6c734c4897bc6b3b75a7ace7997f0a-328772-1030-1500-jpg_l.jpg")![图](# "https://ehgt.org/d2/da/d2da0904b6416453227e121824629311e262eab3-823911-1027-1500-jpg_l.jpg")![图](# "https://ehgt.org/63/e0/63e0ef5c8c346c90e446431a7a93b303be6ccae3-797472-1044-1500-jpg_l.jpg")![图](# "https://ehgt.org/9d/2f/9d2f570b229d4a181b2221844f330eaf8db269db-785978-1354-1921-jpg_l.jpg")![图](# "https://ehgt.org/5b/be/5bbe1b113199e66bb47eea5a40101ad4d28e473f-853433-1028-1500-jpg_l.jpg")![图](# "https://ehgt.org/3e/fa/3efa59069c3e5729fe29309b521e671a8c3d8910-1800136-1500-2118-jpg_l.jpg")![图](# "https://ehgt.org/3c/ce/3cce12c7201462f25dd12996e383535445132852-1163049-1200-1694-jpg_l.jpg") |  |
 | straitjacket | 拘束衣 | 一种长袖的躯干服装，可以超越穿用者的手臂，并且可以绑在一起以限制其运动。需要`bondage`标签。 |  |
-| swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |  |
+| swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
 | thigh high boots | 高筒靴 | 高过膝盖的靴子。不应与`stockings`混淆。<br>![图](# "https://ehgt.org/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg")![图](# "https://ehgt.org/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg") |  |
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与`crown`混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
 | tights | 厚连裤袜 | 西方将各种材质的裤袜都称为`tights`，40D 以下的薄裤袜才称为`pantyhose`。<br>![图](https://ehgt.org/12/f2/12f2ce7b89fd25e7ee6dd72ff833ca4efe3623b9-131266-811-1147-jpg_l.jpg) |  |
@@ -487,6 +488,7 @@ example:
 | witch | 女巫装 | 一顶有宽帽檐的高帽，通常穿着布长袍。需要`crossdressing`标签。 |  |
 |  | == 多人活动 == |  |  |
 | double anal | 双插肛门 | 两根阴茎插入一个肛门。不需要再添加`anal`标签。<br>![例：女神異聞錄4同人](# "https://ehgt.org/5d/04/5d04e064763ff1e377450e71773bf8d9c4b68901-122715-640-954-jpg_250.jpg") |  |
+| gang rape | 轮奸 | 1 人同时被至少 3 人强奸。需要`group`和`rape`标签。对于双方同意的性行为，使用`harem`标签。 |  |
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/d3/3b/d33b41953f1feaf94d65e52c79280c7d58b165d8-469256-2151-3037-jpg_250.jpg") |  |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要`group`标签。不用于`rape`的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要`group`标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
