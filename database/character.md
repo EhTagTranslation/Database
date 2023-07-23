@@ -4682,7 +4682,7 @@ example:
 | hinoa | 水芸 |  |  |
 | implacable | 怨仇 | 怨仇（Implacable，インプラカブル）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型是英国海军的怨仇号航空母舰（HMS\_Implacable\_(R86)）。<br>![](https://img.moegirl.org.cn/common/d/d1/BLHX_105603144.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:怨仇) |
 | asuma sarutobi | 猿飞阿斯玛 |  |  |
-| mizuki akiyama | 晓山瑞希 | 世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
+| mizuki akiyama | 晓山瑞希 | ![晓山瑞希](https://cdn.donmai.us/720x720/18/b6/18b697409421ec8ba7cc5d8dfd28fd7f.webp)<br>世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
 | ena shinonome | 东云绘名 | ![绘名](https://cdn.donmai.us/720x720/90/44/904497dd871e4142c381ae9878075559.webp)<br>世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
 
 <!--TEMPLATE: 
