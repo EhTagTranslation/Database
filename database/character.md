@@ -4693,6 +4693,7 @@ example:
 | ichika hoshino | 星乃一歌 |  |  |
 | kohane azusawa | 小豆泽心羽 |  |  |
 | minori hanasato | 花里实乃理 |  |  |
+| nene kusanagi | 草薙宁宁 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
