@@ -12312,8 +12312,7 @@ example:
 | momomomo hakushaku | モモモーモー伯爵 |  | [pixiv](https://www.pixiv.net/users/15474458) [Twitter](https://twitter.com/defanilimmmm) |
 | takaoka sui | 高岡彗 |  | [pixiv](https://www.pixiv.net/users/20343413) [Twitter](https://twitter.com/SuiTakaoka) |
 | gatoh ganaha | 我藤がなは | 我藤がなは/Gatoh Ganaha です。(旧：がりぼー/Galibo) | [pixiv](https://www.pixiv.net/users/13023) [Twitter](https://twitter.com/gateaugato1) |
-| shirasu | しらす |  | [pixiv](https://www.pixiv.net/users/72625518) [Twitter](https://twitter.com/shirasuke_0822) |
-| fuyubaru shishamo | しらす（冬原ししゃも） |  | [pixiv](https://www.pixiv.net/users/59036611) [Twitter](https://twitter.com/shirasulatte) |
+| shirasu | しらす | 冬原ししゃも | [pixiv](https://www.pixiv.net/users/72625518) [Twitter](https://twitter.com/shirasuke_0822) |
 | kandata nijou | 神多二丞 |  | [pixiv](https://www.pixiv.net/users/3318333) [Twitter](https://twitter.com/kum02j0) |
 | saipaco. | SAIPACo. |  | [pixiv](https://www.pixiv.net/users/8217051) [Twitter](https://twitter.com/saipaco) |
 | jj.jj | JJ.JJ |  | [pixiv](https://www.pixiv.net/users/11850187) [Twitter](https://twitter.com/pixiv_JJ_JJ) |

@@ -4643,7 +4643,6 @@ example:
 | bailu | 白露 |  |  |
 | tingyun | 停云 | 停云是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/b/b0/停云.jpg/1024px-停云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/停云) |
 | bronya | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png) | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·兰德) |
-| seele | 希儿 | 希儿是由米哈游所制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/97/Seele希儿.png) | [萌娘百科](https://zh.moegirl.org.cn/希儿%28星穹铁道%29#) |
 | shuuko komi | 古见秀子 | 古见秀子，古见硝子的母亲，是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/74/Komi_Shuko.png) | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
 | kana arima | 有马加奈 | 有马加奈（日语：有馬（ありま）かな）。是由赤坂明创作、横枪萌果作画的漫画《【我推的孩子】》的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/有马加奈彩图.jpg) | [萌娘百科](https://zh.moegirl.org.cn/有马加奈) |
 | mina majikina | 真镜名美奈 | 真镜名美奈（日语：真鏡名 ミナ）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 零》。<br>![](https://img.moegirl.org.cn/common/8/85/19341583.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真镜名美奈) |
