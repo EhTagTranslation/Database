@@ -4696,6 +4696,7 @@ example:
 | nene kusanagi | 草薙宁宁 |  |  |
 | rui kamishiro | 神代类 |  |  |
 | saki tenma | 天马咲希 |  |  |
+| shiho hinomori | 日野森志步 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
