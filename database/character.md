@@ -4692,6 +4692,7 @@ example:
 | honami mochizuki | 望月穗波 |  |  |
 | ichika hoshino | 星乃一歌 |  |  |
 | kohane azusawa | 小豆泽心羽 |  |  |
+| minori hanasato | 花里实乃理 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
