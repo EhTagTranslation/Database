@@ -4685,6 +4685,7 @@ example:
 | mizuki akiyama | 晓山瑞希 | ![晓山瑞希](https://cdn.donmai.us/720x720/18/b6/18b697409421ec8ba7cc5d8dfd28fd7f.webp)<br>世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
 | ena shinonome | 东云绘名 | ![绘名](https://cdn.donmai.us/720x720/90/44/904497dd871e4142c381ae9878075559.webp)<br>世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
 | airi momoi | 桃井爱莉 |  |  |
+| akito shinonome | 东云彰人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
