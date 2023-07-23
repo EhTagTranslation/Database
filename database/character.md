@@ -4695,6 +4695,7 @@ example:
 | minori hanasato | 花里实乃理 |  |  |
 | nene kusanagi | 草薙宁宁 |  |  |
 | rui kamishiro | 神代类 |  |  |
+| saki tenma | 天马咲希 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
