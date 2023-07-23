@@ -4691,6 +4691,7 @@ example:
 | haruka kiritani | 桐谷遥 |  |  |
 | honami mochizuki | 望月穗波 |  |  |
 | ichika hoshino | 星乃一歌 |  |  |
+| kohane azusawa | 小豆泽心羽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
