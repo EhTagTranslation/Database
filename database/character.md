@@ -4687,6 +4687,7 @@ example:
 | airi momoi | 桃井爱莉 |  |  |
 | akito shinonome | 东云彰人 |  |  |
 | an shiraishi | 白石杏 |  |  |
+| emu otori | 凤笑梦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
