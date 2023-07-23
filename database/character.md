@@ -4686,7 +4686,7 @@ example:
 | ena shinonome | 东云绘名 | ![绘名](https://cdn.donmai.us/720x720/90/44/904497dd871e4142c381ae9878075559.webp)<br>世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
 | airi momoi | 桃井爱莉 |  |  |
 | akito shinonome | 东云彰人 |  |  |
-| an shiraishi | 白石杏 |  |  |
+| an shiraishi | 白石 杏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
