@@ -4699,6 +4699,7 @@ example:
 | shiho hinomori | 日野森志步 |  |  |
 | shizuku hinomori | 日野森雫 |  |  |
 | toya aoyagi | 青柳冬弥 |  |  |
+| tsukasa tenma | 天马司 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
