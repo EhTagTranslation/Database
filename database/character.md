@@ -4690,6 +4690,7 @@ example:
 | emu otori | 凤笑梦 |  |  |
 | haruka kiritani | 桐谷遥 |  |  |
 | honami mochizuki | 望月穗波 |  |  |
+| ichika hoshino | 星乃一歌 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
