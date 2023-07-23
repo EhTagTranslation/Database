@@ -4688,6 +4688,7 @@ example:
 | akito shinonome | 东云彰人 |  |  |
 | an shiraishi | 白石杏 |  |  |
 | emu otori | 凤笑梦 |  |  |
+| haruka kiritani | 桐谷遥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
