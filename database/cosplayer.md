@@ -88,6 +88,7 @@ example:
 | larissa rochefort | Larissa Rochefort |  |  |
 | kitaro | Kitaro绮太郎 |  | [哔哩哔哩](https://space.bilibili.com/2075682/) |
 | banbanko | 半半子 |  | [Twitter](https://twitter.com/Banbanko_?s=20) |
+| aninnyan | 桜井宁宁 |  |  |
 
 <!--
 Template: 
