@@ -3656,7 +3656,7 @@ example:
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《`p:uma musume pretty derby`》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/醒目飞鹰) |
 | asuna ichinose | 一之濑明日奈 | 所属作品：`p:blue archive`<br>社团“肃清与扫荡”成员，主要武装为步枪。<br>![](https://p.sda1.dev/8/fd89b05e2ae062ea714a6b970b38cb72/image.png) | [FANDOM](https://bluearchive.fandom.com/wiki/Ichinose_Asuna) |
 | akane murokasa | 室笠茜 |  |  |
-| karin kakudate | 角楯花凛 |  |  |
+| karin kakudate | 角楯花凛 | 角楯花凛 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>所属作品：`p:blue archive` |  |
 | gray wolf | 灰狼 |  |  |
 | brown bear | 棕熊 |  |  |
 | golden snub-nosed monkey | 金丝猴 |  |  |
