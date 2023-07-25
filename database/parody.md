@@ -2174,6 +2174,7 @@ example:
 | tokyo mirage sessions fe | 幻影异闻录♯FE | 幻影异闻录♯FE》（日语：幻影異聞録♯FE，英语：Tokyo Mirage Sessions ♯FE）是Atlus开发、任天堂发行的一款JRPG，于2015年12月26日在Wii U平台发售。移植版《幻影异闻录♯FE Encore》（日语：幻影異聞録♯FE Encore，英语：Tokyo Mirage Sessions ♯FE Encore）于2020年1月17日在Nintendo Switch平台发售，全区支持简繁中文。<br>![](https://img.moegirl.org.cn/common/7/7c/Wii_U_JP_-_Tokyo_Mirage_Sessions_♯FE.jpg) | [萌娘百科](https://zh.moegirl.org.cn/幻影异闻录FE) |
 | odin sphere | 奥丁领域 | 《奥丁领域》（オーディンスフィア；ODIN SPHERE）是香草社开发，由Atlus在2007年发行的2D横向卷轴动作角色扮演游戏。<br>![图](https://ehgt.org/16/75/1675e80ec8745feebbed8b09e60e615b01f7afeb-50171-280-398-jpg_l.jpg)<br>该游戏在2016年推出了HD重制版：《奥丁领域：里普特拉西尔》（オーディンスフィア レイヴスラシル；ODIN SPHERE LEIFTHRASIR）<br>![图](https://ehgt.org/9e/c9/9ec9b2198c418676ad9e19fba9de0faf38274c3d-39734-280-351-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/奥丁领域)，[游戏官网](https://asia.sega.com/osl/) |
 | ga geijutsuka art design class | GA 艺术科美术设计班 | **《GA 艺术科美术设计班》**（日语：GA 芸術科アートデザインクラス）是季游月聪子的四格漫画作品，以某高中美术班“GA”的一年级学生当中充满个性的五个女学生为中心，描写了她们点缀著各种美术知识的上课情况以及环绕着她们的热闹学校生活。<br><br>原作漫画在《COMICぎゅっと!》创刊时开始连载，至第三号废刊为止。后来在芳文社《Manga Time Kirara Carat》2005年8月号连载单篇短篇，并于同年11月号开始连载至2016年2月号（2015年12月）。上连载，已完结。<br><br>另外，也有在虎之穴（とらのあな）的店面发行的广告杂志《とらだよ。》以《GA材料放置场》（GA材置き場）的名义连载。<br><br>![](https://img.moegirl.org.cn/common/5/53/GA艺术科美术设计班.jpg) | [萌娘百科](https://zh.moegirl.org.cn/GA_艺术科美术设计班)<br>[维基百科（中文）](https://zh.wikipedia.org/zh-cn/GA_藝術科美術設計班) |
+| tower of fantasy | 幻塔 | 《幻塔》是由完美世界旗下Hotta Studio工作室开发的动作角色扮演游戏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
