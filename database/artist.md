@@ -9152,7 +9152,7 @@ example:
 | otokam | オトカム |  |  |
 | otokawa kazuki | 乙川カヅキ |  |  |
 | otori | おとり |  |  |
-| ototo | Ototo |  |  |
+| ototo | おとと(ototo) | ![おとと(ototo) Fanbox 头像](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3215255/icon/yL7fMHXBv5vTIgwJcVZuVf52.jpeg) | [Twitter](https://twitter.com/otototo_)<br>[Pixiv](https://www.pixiv.net/users/3215255)<br>[Fanbox](https://ototo.fanbox.cc/) |
 | otou | 尾刀 |  |  |
 | otsuki miharu | 鳴月みはる |  |  |
 | ottoman turks | オスマントル子 |  |  |
