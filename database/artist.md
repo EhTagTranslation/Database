@@ -2801,7 +2801,7 @@ example:
 | akagi kuro | 赤木クロ |  |  |
 | ash yokoshima | Ash横島 |  |  |
 | haitokukan | 背德汉 |  |  |
-| henkuma | 変熊 |  |  |
+| henkuma | 变熊 | ![twitter](https://pbs.twimg.com/profile_images/1580016721901289472/Jl-MlVs5_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/BySQy37qWSoKdg7) |
 | kawashima yoshio | 川島よしお |  |  |
 | kanari tokusaku | 鹿成トクサク |  |  |
 | onigiri unicorn | 鬼斬ゆにこーん |  |  |
