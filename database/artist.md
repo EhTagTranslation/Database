@@ -3671,7 +3671,7 @@ example:
 | mei ichi | 名一 |  | [pixiv](https://www.pixiv.net/users/3765397) [Twitter](https://twitter.com/71naichi71) |
 | sadakage | 貞影 |  | [pixiv](https://www.pixiv.net/users/821219) [Twitter](https://twitter.com/atra_dea) |
 | akako | AKAKO |  | [pixiv](https://www.pixiv.net/users/6538083) |
-| momokumo | 桃雲 |  |  |
+| momokumo | 桃云 | ![twitter](https://pbs.twimg.com/profile_images/1245235698354900996/Yio_0nwX_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/momokumo_) [pixiv](https://www.pixiv.net/users/29502669) |
 | umiyamasoze | 海山そぜ |  |  |
 | cailin020 | Cailin020 |  | [pixiv](https://www.pixiv.net/users/30968899) [Twitter](https://twitter.com/cailin020) |
 | yuzhou | 宇宙 |  | [Twitter](https://twitter.com/POPYZSN/media) [pixiv](https://www.pixiv.net/en/users/8729049) |
