@@ -4701,6 +4701,7 @@ example:
 | toya aoyagi | 青柳冬弥 |  |  |
 | tsukasa tenma | 天马司 |  |  |
 | kouta oyamada | 小山田耕太 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
+| chizuru minamoto | 源千鹤 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
