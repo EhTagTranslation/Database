@@ -12605,6 +12605,7 @@ example:
 | hikoushiki | 飞行式 | 画师`cowbow`所属社团 |  |
 | toyoko daisyouten | 东横大赏典 | 漫画家`yamada kintetsu`所属社团 |  |
 | maimu maimu | まいむ～まいむ | 画师`kudou maimu`所属社团 |  |
+| yakimeshi modoki | やきめしもどき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
