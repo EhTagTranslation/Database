@@ -1592,7 +1592,7 @@ example:
 | itachi | いたち |  |  |
 | aya shachou | 彩社长 |  |  |
 | fukumaaya | ふくまーや |  |  |
-| higashide irodori | 東出イロドリ | ![twitter](https://pbs.twimg.com/profile_images/1492708249761562624/r3cP1nmJ_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/H_irodori) [pixiv](https://www.pixiv.net/users/56825214) |
+| higashide irodori | 东出彩 | ![twitter](https://pbs.twimg.com/profile_images/1492708249761562624/r3cP1nmJ_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/H_irodori) [pixiv](https://www.pixiv.net/users/56825214) |
 | hiura r | 火浦R |  |  |
 | karube guri | 軽部ぐり |  |  |
 | kusatsu terunyo | 草津てるにょ |  |  |
