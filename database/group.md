@@ -2272,7 +2272,7 @@ example:
 | ringo no naru ki | 林檎のなる木 |  |  |
 | traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [Twitter](https://twitter.com/doujintraya) |
 | kuzuya | 屑屋 |  |  |
-| momojiru teien | 桃汁庭園 |  |  |
+| momojiru teien | 桃汁庭园 | 画师`momokumo`所属社团 |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir | ハースニール<br>`misakura nankotsu` | [HP](http://www.harthnir.com/) |
 | yoru no hitsuji | 夜のひつじ |  |  |
