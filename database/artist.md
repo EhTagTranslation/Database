@@ -3184,7 +3184,7 @@ example:
 | mashiraga aki | 猿駕アキ |  | [pixiv](https://www.pixiv.net/users/186647) |
 | midori aoi | みどり葵 |  | [pixiv](https://www.pixiv.net/users/342666) |
 | musha sabu | 武者サブ |  | [Twitter](https://twitter.com/musyasabu) [pixiv](https://www.pixiv.net/users/2526989) |
-| sanjuurou | 三十郎 |  |  |
+| sanjuurou | 三十郎 | 《COMIC X-EROS》作者 |  |
 | souji hougu | 扫除朋具 | ![twitter](https://pbs.twimg.com/profile_images/944283676958801920/IzOMJfgE_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/srghrg) [pixiv](https://www.pixiv.net/users/4856899) |
 | uousaoh | 鱼ウサ王 | ![twitter](https://pbs.twimg.com/profile_images/1209938076794937344/IL1nhvP3_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/uousaoh2) [pixiv](https://www.pixiv.net/users/21530) |
 | kuroharuto | くろはると |  |  |
