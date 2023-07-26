@@ -12492,6 +12492,7 @@ example:
 | uenosuke | ↑野介 |  |  |
 | inoue makito | 井植莳人 |  | [hp](https://wot-dth.net/) [pixiv](https://www.pixiv.net/users/34858) |
 | mudoochi | むどおち |  |  |
+| mori manpei | 森万平 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
