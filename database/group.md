@@ -12606,6 +12606,7 @@ example:
 | toyoko daisyouten | 东横大赏典 | 漫画家`yamada kintetsu`所属社团 |  |
 | maimu maimu | まいむ～まいむ | 画师`kudou maimu`所属社团 |  |
 | yakimeshi modoki | やきめしもどき |  |  |
+| nananto | ななんと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
