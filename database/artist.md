@@ -12489,6 +12489,7 @@ example:
 | kudou maimu | 九童まいむ | ![twitter](https://pbs.twimg.com/profile_images/1392554587454775296/qqD913Vm_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`maimu maimu`主笔画师 | [twitter](https://twitter.com/maim888) [pixiv](https://www.pixiv.net/users/14187268) |
 | iwamoto kuyo | いーなん | ![twitter](https://pbs.twimg.com/profile_images/1454978625598820352/AHSqTmQO_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/EvvjEPfFntGWbb4) [pixiv](https://www.pixiv.net/users/992763) |
 | pilaf modoki | ぴらふもどき |  |  |
+| uenosuke | ↑野介 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
