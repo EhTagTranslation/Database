@@ -11482,7 +11482,7 @@ example:
 | touchable | TOUCHABLE |  |  |
 | touchin hanten | 東珍飯店 |  |  |
 | toudori no su | トウドリの巣 |  |  |
-| touenketsu | 桃園結 |  |  |
+| touenketsu | 桃园结 |  |  |
 | toufuya | 燈風屋 |  |  |
 | tougall kai | 東ガル会 |  |  |
 | touge mine | 峠峰 |  |  |
