@@ -12483,6 +12483,7 @@ example:
 | ryouta | りょうた |  | [pixiv](https://www.pixiv.net/users/3061486) [Twitter](https://twitter.com/ryouta335) |
 | shijiu | いけめる |  | [pixiv](https://www.pixiv.net/users/7057787) |
 | sorimachi toufu | 反町豆腐 | ![反町豆腐头像](https://i.pixiv.cat/user-profile/img/2022/07/29/22/43/09/23101972_ac10b7f8260d78369a6106011217edb7_170.jpg)<br><br>一个经常画百合类作品的画师。<br>作品中有Project Sekai（世界计划）的内容。 | [pixiv](https://www.pixiv.net/users/2914055) |
+| shibatora | 柴寅 | ![twitter](https://pbs.twimg.com/profile_images/1377247125143101444/uQsRKqWU_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Shibatora3) |
 
 <!--TEMPLATE:
 |  |  |  |  |
