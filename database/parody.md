@@ -1707,7 +1707,7 @@ example:
 | acchi kocchi | 一起一起这里那里 |  | [维基百科](https://zh.wikipedia.org/zh-cn/一起一起這裡那裡) |
 | adachi to shimamura | 安达与岛村 |  | [维基百科](https://zh.wikipedia.org/zh-cn/安達與島村) |
 | adventures of the gummi bears | 妙妙熊历险记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/妙妙熊歷險記) |
-| agarest senki | 亚迦雷斯特战记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/亞迦雷斯特戰記) |
+| agarest senki | 亚迦雷斯特战记 | **亚迦雷斯特战记**（日语：アガレスト戦記，英语：*Record of Agarest War*）是先由日本的游戏公司IDEA FACTORY和RED ENTERTAINMENT所开发，后由COMPILE HEART所贩售的奇幻角色扮演游戏。先于2007年9月27日发行PlayStation 3的电视游戏版本，后于2008年11月27日发行Xbox 360的电视游戏版本。在2013年10月3日，由Steam代理移植，发行电脑游戏版本。 | [维基百科](https://zh.wikipedia.org/zh-cn/亞迦雷斯特戰記) |
 | ai no senshi rainbowman | 彩虹化身侠 |  | [维基百科](https://zh.wikipedia.org/zh-cn/彩虹化身侠) |
 | ai shimai | 爱姐妹 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/愛姉妹) [维基百科](https://zh.wikipedia.org/zh-cn/愛姊妹_二人的果實) |
 | ai yori aoshi | 青出于蓝 |  | [维基百科](https://zh.wikipedia.org/zh-cn/青出於藍%20%28漫畫%29) |
