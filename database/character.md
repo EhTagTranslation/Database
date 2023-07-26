@@ -865,7 +865,7 @@ example:
 | asahi serizawa | 芹泽朝阳 |  |  |
 | akira sunazuka | 砂冢明 |  |  |
 | riamu yumemi | 梦见璃亚梦 |  |  |
-| madoka higuchi | 樋口圆香 |  |  |
+| madoka higuchi | 樋口圆香 | 所属作品`p:the idolmaster`<br>樋口圆香（日语：樋口円香）万代南梦宫娱乐旗下的游戏《偶像大师 闪耀色彩》及其衍生作品的毒舌偶像。<br>![](https://img.moegirl.org.cn/common/2/24/MadokaFullR.png) | [萌娘百科](https://zh.moegirl.org.cn/樋口圆香) |
 | koito fukumaru | 福丸小糸 |  |  |
 | toru asakura | 浅仓透 |  |  |
 | hinana ichikawa | 市川雏菜 |  |  |
