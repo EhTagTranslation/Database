@@ -12486,6 +12486,7 @@ example:
 | shibatora | 桃云 | ![twitter](https://pbs.twimg.com/profile_images/1245235698354900996/Yio_0nwX_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`momojiru teien`主笔 | [twitter](https://twitter.com/momokumo_) [pixiv](https://www.pixiv.net/users/29502669) |
 | cowbow | 矼房 | ![twitter](https://pbs.twimg.com/profile_images/1377637597250396166/OztlEMAD_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`hikoushiki`主笔画师。 | [twitter](https://twitter.com/CowBow_kun) [pixiv](https://www.pixiv.net/users/43743237) |
 | yamada kintetsu | 山田金铁 | ![twitter](https://pbs.twimg.com/profile_images/1129158055583551491/vlGnepta_400x400.png)<br><br>**作者推特头像**<br><br>漫画《汗皂交香》作者 | [twitter](https://twitter.com/KintetsuYMD) |
+| kudou maimu | 九童まいむ | ![twitter](https://pbs.twimg.com/profile_images/1392554587454775296/qqD913Vm_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`maimu maimu`主笔画师 | [twitter](https://twitter.com/maim888) [pixiv](https://www.pixiv.net/users/14187268) |
 
 <!--TEMPLATE:
 |  |  |  |  |
