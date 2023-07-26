@@ -12490,6 +12490,7 @@ example:
 | iwamoto kuyo | いーなん | ![twitter](https://pbs.twimg.com/profile_images/1454978625598820352/AHSqTmQO_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/EvvjEPfFntGWbb4) [pixiv](https://www.pixiv.net/users/992763) |
 | pilaf modoki | ぴらふもどき |  |  |
 | uenosuke | ↑野介 |  |  |
+| inoue makito | 井植莳人 |  | [hp](https://wot-dth.net/) [pixiv](https://www.pixiv.net/users/34858) |
 
 <!--TEMPLATE:
 |  |  |  |  |
