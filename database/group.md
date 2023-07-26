@@ -12602,6 +12602,7 @@ example:
 | tennensuidousui | 天然水道水 |  |  |
 | sorairo koubou | 空色工房 |  |  |
 | kakuran operetta | 攪乱オペレッタ |  |  |
+| hikoushiki | 飞行式 | 画师`CowBow`所属社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
