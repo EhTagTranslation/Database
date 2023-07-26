@@ -12484,6 +12484,7 @@ example:
 | shijiu | いけめる |  | [pixiv](https://www.pixiv.net/users/7057787) |
 | sorimachi toufu | 反町豆腐 | ![反町豆腐头像](https://i.pixiv.cat/user-profile/img/2022/07/29/22/43/09/23101972_ac10b7f8260d78369a6106011217edb7_170.jpg)<br><br>一个经常画百合类作品的画师。<br>作品中有Project Sekai（世界计划）的内容。 | [pixiv](https://www.pixiv.net/users/2914055) |
 | shibatora | 桃云 | ![twitter](https://pbs.twimg.com/profile_images/1245235698354900996/Yio_0nwX_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`momojiru teien`主笔 | [twitter](https://twitter.com/momokumo_) [pixiv](https://www.pixiv.net/users/29502669) |
+| cowbow | 矼房 | ![twitter](https://pbs.twimg.com/profile_images/1377637597250396166/OztlEMAD_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`hikoushiki`主笔画师。 | [twitter](https://twitter.com/CowBow_kun) [pixiv](https://www.pixiv.net/users/43743237) |
 
 <!--TEMPLATE:
 |  |  |  |  |
