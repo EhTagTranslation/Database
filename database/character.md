@@ -3287,7 +3287,7 @@ example:
 | alisa reinford | 亚莉莎·莱恩福尔特 | ![图](## "https://ehgt.org/d7/65/d765d0b19c8dd6286c7722fad7a8ad84e24fd7d8-2996204-1654-2339-png_l.jpg")RF（莱恩福尔特）集团的千金，同时也是旧《Ⅶ班》成员之一。<br><br>在《巨硕黄昏》时因地精出现而与母亲和女仆雪伦敌对，但随后以自身的意志让两人重回身边，还奇迹式地见到了亡父弗兰兹。<br><br>现在于担任RF公司第四开发部室长之余，也协助唐古拉姆要塞的拆除手续等克洛斯贝尔再次独立的善后处理工作。<br><br>透过帝国与克洛斯贝尔的事件认识了《特务支援课》的艾莉，两人之间的交情似乎不错。 | [https://trails-game.com/character/alisa-reinford/](https://trails-game.com/character/alisa-reinford/) |
 | fie claussell | 菲·克劳赛尔 | ![图](## "https://ehgt.org/eb/7d/eb7d754a606653bd29a3d8d4777bfee39a68e834-1420768-1213-1701-png_l.jpg")拥有过人的体能，猎兵团《西风旅团》出身的年轻女性游击士。<br><br>从前虽曾以猎兵身分投身于战场，但在遇见游击士莎拉并经历在托尔兹军官学院《Ⅶ班》的生活后，取得了正游击士的资格，和莎拉组成搭档。<br><br>在灾厄《巨硕黄昏》降临时，以女儿的身分见证了猎兵时代对她有养育之恩的路嘉团长之死，下定决心今后要以游击士身分活下去。<br><br>目前则以冠上猎兵时代的《妖精》名号的年轻游击士之姿快速崭露头角，并被协会视为将来性值得期待的成员。 | [https://trails-game.com/character/fie-claussell/](https://trails-game.com/character/fie-claussell/) |
 | alfin reise arnor | 艾尔芬·莱泽·亚诺尔 | ![图](## "https://ehgt.org/10/97/1097c33c1e90faf7d70a5faae1165305ac2d87bf-5932198-2480-3508-jpg_l.jpg")圣亚斯特莱亚女子学院／埃雷波尼亚帝国皇女<br><br>在民间拥有超高人气的埃雷波尼亚帝国皇女。与《旧Ⅶ班》的关系密切，声援著黎恩。<br><br>【兄长的遗物】<br><br>艾尔芬和黎恩一同前往兄长的故乡，执起他的遗物鲁特琴，献上一曲「琥珀之爱」。做好了面对弟弟赛德利克的觉悟。<br><br>【祈祷父亲恢复】<br><br>心情上虽然想守在父亲身边，但现在却有身为皇女必须完成之事，目送前往照料的母亲离开。 | [https://trails-game.com/character/alfin-reise-arnor/](https://trails-game.com/character/alfin-reise-arnor/) |
-| chen hui-chieh | 陈晖洁 |  |  |
+| chen hui-chieh | 陈晖洁 | 陈晖洁(chen hui-chieh) 所属作品`p:arknights`<br>是游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/39/Avg_5_5_chen.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:陈) |
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
 | shizuru hoshino | 星野静流 |  |  |
 | mifuyu ogami | 大神美冬 |  |  |
