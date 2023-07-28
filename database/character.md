@@ -3367,7 +3367,7 @@ example:
 | tsumugi mayumiya | 茧宫纺希 |  | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
 | nozomi sakurai | 樱井望 |  | [萌娘百科](https://zh.moegirl.org.cn/樱井望) |
 | zhongli | 钟离 |  | [萌娘百科](https://zh.moegirl.org.cn/钟离) |
-| ningguang | 凝光 |  | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
+| ningguang | 凝光 | 凝光(英语:ningguang) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2c/凝光.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
 | lappland | 拉普兰德 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拉普兰德) |
 | amber | 安柏 |  | [萌娘百科](https://zh.moegirl.org.cn/安柏) |
 | beidou | 北斗 |  | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
