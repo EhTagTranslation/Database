@@ -3600,7 +3600,7 @@ example:
 | albacore | 大青花鱼 | 美国海军猫鲨级潜艇大青花鱼号（USS Albacore (SS-218)） | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
 | new jersey | 新泽西 | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62）） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/zh-cn/碧蓝航线:让·巴尔) |
-| kokomi sangonomiya | 珊瑚宫心海 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=467821) |
+| kokomi sangonomiya | 珊瑚宫心海 | 珊瑚宫心海(kokomi sangonomiya) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/44/真珠之智_珊瑚宫心海.jpg) | [萌娘百科](https://zh.moegirl.org.cn/_?curid=467821) |
 | kashino | 樫野 | 旧日本帝国海军的㭴野号给兵舰。 | [碧蓝航线:樫野](https://zh.moegirl.org.cn/碧蓝航线:樫野) |
 | chapayev | 恰巴耶夫 | 恰巴耶夫号轻巡洋舰是苏联海军在二战期间至二战后建造的恰巴耶夫级轻巡洋舰的首舰。 | [碧蓝航线:恰巴耶夫](https://zh.moegirl.org.cn/碧蓝航线:恰巴耶夫) |
 | saint louis | 路易九世 | 原型是法国海军的C5方案舰：路易九世 | [碧蓝航线:路易九世](https://zh.moegirl.org.cn/碧蓝航线:路易九世) |
