@@ -12494,6 +12494,7 @@ example:
 | mudoochi | むどおち |  |  |
 | mori manpei | 森万平 |  |  |
 | frogsnake | 蛙记 |  | [pixiv](https://www.pixiv.net/users/8121890) |
+| tearontaron | てぃーろんたろん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |

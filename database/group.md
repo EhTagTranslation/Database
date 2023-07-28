@@ -11186,7 +11186,6 @@ example:
 | team.mk | Team.MK |  |  |
 | teamjoker | TeamJOKER |  |  |
 | teamtgs | teamTGs |  |  |
-| tearontaron | てぃーろんたろん |  |  |
 | tecchitecchi | テッチテッチ |  |  |
 | technibuster | TECHNIBUSTER |  |  |
 | techno break izonshou | テクノブレイク依存症 |  |  |
