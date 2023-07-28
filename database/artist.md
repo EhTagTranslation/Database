@@ -12495,7 +12495,7 @@ example:
 | mori manpei | 森万平 |  |  |
 | frogsnake | 蛙记 |  | [pixiv](https://www.pixiv.net/users/8121890) |
 | tearontaron | てぃーろんたろん |  |  |
-| tonee | Tonee |  | [pixiv](https://www.pixiv.net/users/1583918) [Patreon](https://www.patreon.com/user?u=556390) [FANBOX](https://tonee.fanbox.cc/) |
+| tonee | Tonee |  | [pixiv](https://www.pixiv.net/users/1583918) [Patreon](https://www.patreon.com/toneeartwork) [FANBOX](https://tonee.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
