@@ -3474,7 +3474,7 @@ example:
 | tansuiken | 淡水犬 |  |  |
 | yamakonbu | やまこんぶ |  |  |
 | crew | クルー |  |  |
-| 88 | 88 |  |  |
+| 88 | 88 | ![画师蓝鸟头像](https://pbs.twimg.com/profile_images/1385235478169882625/GzoN6LIo_200x200.jpg)<br>画师，笔下人物的脸很有特点<br>2021年初出道，处女作是刊登于《コミックホットミルク》（COMIC HOTMILK）2021年3月号的《クノ―テン》<br>2023年7月28日发行第一部电子单行本《とろけるささやき》 | [Twitter](https://www.pixiv.net/users/34214417) [Pixiv](https://twitter.com/88moopie) |
 | toujou tsukushi | 東條土筆 |  |  |
 | yamada gogogo | 山田ゴゴゴ |  |  |
 | g-wara | 爺わら |  |  |
