@@ -12493,6 +12493,7 @@ example:
 | inoue makito | 井植莳人 |  | [hp](https://wot-dth.net/) [pixiv](https://www.pixiv.net/users/34858) |
 | mudoochi | むどおち |  |  |
 | mori manpei | 森万平 |  |  |
+| frogsnake | 蛙记 |  | [pixiv](https://www.pixiv.net/users/8121890) |
 
 <!--TEMPLATE:
 |  |  |  |  |
