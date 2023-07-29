@@ -2893,7 +2893,7 @@ example:
 | satomi niiyama | 新山聪美 | 泷昇同一大学的后辈，擅长长笛演奏。在管乐团暑假期间协助指导木管乐器。桥本与泷昇是同辈，但新山是后辈。对泷的亡妻千寻怀有超越同性朋友的情感 |  |
 | fuutarou uesugi | 上杉风太郎 | 上杉风太郎（うえすぎ ふうたろう）是由春場ねぎ创作的漫画《五等分的新娘》及其衍生作品的登场角色。 |  |
 | kanao tsuyuri | 栗花落香奈乎 | 與炭治郎同期的鬼殺隊員，拥有側單馬尾髮型、紫色瞳孔但笑臉迎人但寡言的女劍士，髮飾是恩人胡蝶香奈惠的遺物。天生敏銳觀察力造就了其優秀的「視覺」。「花之呼吸」使用者。蟲柱胡蝶忍的繼子。 |  |
-| shinobu kochou | 蝴蝶忍 | 鬼杀队中的虫柱，鬼杀队医疗设施“蝶屋”的主人。精通药学与毒理学，擅长毒杀。因为力气很小，是柱中唯一一个无法斩下鬼头的剑士，但善于制作毒素来弥补力量的不足。除此之外还经营名为“蝶屋”的医疗设施，负责治疗受重伤的队员 |  |
+| shinobu kochou | 蝴蝶忍 | 胡蝶忍（英语：shinobu kochou）所属作品:`p:kimetsu no yaiba`<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/01/Shinobu_introducing_.png) | [萌娘百科](https://zh.moegirl.org.cn/胡蝶忍) |
 | giyuu tomioka | 富冈义勇 | 使用「水之呼吸」的水柱 |  |
 | mitsuri kanroji | 甘露寺蜜璃 | 甘露寺蜜璃（英语:Mitsuri Kanroji）所属作品:`p:kimetsu no yaiba`<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。<br>![](https://img.moegirl.org.cn/common/4/48/Kimetsu_no_Yaiba_Anime_S3_Teaser1.jpg) | [萌娘百科](https://mzh.moegirl.org.cn/甘露寺蜜璃) |
 | zenitsu agatsuma | 我妻善逸 | 使用雷之呼吸 |  |
