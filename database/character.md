@@ -4276,7 +4276,7 @@ example:
 | kajun faycott | 花隼·法伊科特 |  |  |
 | mai natsume | 麻衣·枣 |  |  |
 | makoto nanaya | 诚·七夜 |  |  |
-| ayato kamisato | 神里绫人 |  |  |
+| ayato kamisato | 神里绫人 | 神里绫人（英语：ayato kamisato）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/fe/磐祭叶守_神里绫人.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神里绫人) |
 | tsubaki yayoi | 椿·弥生 |  |  |
 | lambda-11 | Λ-No.11- | 拉姆达 |  |
 | mu-12 | μ-No.12- | 缪 |  |
