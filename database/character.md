@@ -4395,7 +4395,7 @@ example:
 | big bad wolf | 大灰狼 | 大灰狼（或称大野狼）是出现在童话故事里面的虚构的角色，以凶险的狼的形象出现在故事里。例如`p:little red riding hood`里的狼。 | [维基百科](https://zh.wikipedia.org/wiki/大灰狼) |
 | nemona | 妮莫 |  |  |
 | little red riding hoods grandmother | 小红帽的外婆 |  | [Fandom](https://thelandofstories.fandom.com/wiki/Red_Riding_Hood%27s_grandmother) |
-| alhaitham | 艾尔海森 | ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Character_Alhaitham_Card.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/艾尔海森) [Fandom](https://genshin-impact.fandom.com/wiki/Alhaitham) |
+| alhaitham | 艾尔海森 | 艾尔海森（英语：alhaitham）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b6/艾尔海森立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/艾尔海森) [Fandom](https://genshin-impact.fandom.com/wiki/Alhaitham) |
 | layla prismriver | 蕾拉·普莉兹姆利巴 | ![](https://static.wikia.nocookie.net/touhou/images/4/42/LaylaNB2.png) | [THB wiki](https://thwiki.cc/蕾拉·普莉兹姆利巴) |
 | chise waraku | 和乐千世 | 所属作品：`p:blue archive` |  |
 | kaho kuwakami | 桑上嘉穗 | 所属作品：`p:blue archive` |  |
