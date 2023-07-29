@@ -4263,7 +4263,7 @@ example:
 | heizou shikanoin | 鹿野院平藏 | 鹿野院平藏（英语：heizou shikanoin）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/鹿野院平藏.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鹿野院平藏) |
 | columbina | 「少女」哥伦比娅 | 《`genshin impact`》的登场角色。愚人众十一执行官第三席。 |  |
 | tartaglia | 「公子」达达利亚 | 《`genshin impact`》的登场角色。愚人众十一执行官末席。 |  |
-| gorou | 五郎 |  |  |
+| gorou | 五郎 | 五郎（英语：gorou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7f/Genshin_Gorou_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/五郎%28原神%29#) |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
 | yun jin | 云堇 | 云堇（英语：yun jin）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c3/红毹婵娟_云堇.jpg) | [萌娘百科](https://zh.moegirl.org.cn/云堇) |
 | kloe rinz | 科洛丝·琳希 |  |  |
