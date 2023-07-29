@@ -3636,7 +3636,7 @@ example:
 | ashley graham | 阿什莉·格拉汉姆 | 阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 |  |
 | mutsuki asagi | 浅黄睦月 | 所属作品：`p:blue archive`<br><br>徵信社68的特攻隊長兼突擊隊長。 和稍微能感受到良心譴責的亞瑠不同，這名少女宛如小惡魔般肆無忌憚地為非作歹，愛到處惹是生非。 和亞瑠是老朋友，比任何人清楚她只是在虛張聲勢，但卻不特別為她設想。 |  |
 | ryo matsunaga | 松永凉 |  | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
-| xiangling | 香菱 |  | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
+| xiangling | 香菱 | 香菱（英语：xiangling）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/36/香菱.jpg) | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
 | tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
 | eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
 | shouko komi | 古见硝子 | 古见硝子是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/00/Komi_shouko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/古见硝子) |
