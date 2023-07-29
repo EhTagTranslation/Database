@@ -3056,7 +3056,7 @@ example:
 | raihan | 奇巴纳 |  |  |
 | victor | 小胜 |  |  |
 | hop | 赫普 |  |  |
-| gloria | 小优 |  |  |
+| gloria | 小优 | 小优（日语：ユウリ，英语：Gloria）所属作品:`p:pokemon`<br>是《宝可梦系列》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/39/Gloria_.png) | [萌娘百科](https://zh.moegirl.org.cn/小优%28宝可梦%29#) |
 | allister | 欧尼奥 |  |  |
 | klara | 克拉拉 | 克拉拉（英语：Klara）所属作品：`p:pokemon`<br>![](https://img.moegirl.org.cn/common/3/37/Sword_Shield_Klara.png) | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28宝可梦%29#) |
 | dola | 多拉 | 年龄350岁的上位龙族[火龙（Fire Drake）]，在异世界某处远离人烟的洞窟中守护着财宝，偶尔会翱翔天际打发空余时间。<br><br>在守护财宝里偶然发现了现代的产物（手机等），现在化身为人类的姿态进行着VTuber活动。 | [萌娘百科](https://zh.moegirl.org.cn/多拉%28虚拟UP主%29) |
