@@ -4435,7 +4435,7 @@ example:
 | luo tianyi | 洛天依 |  |  |
 | sensei | 老师 | 目前多用于[碧蓝档案](https://zh.moegirl.org.cn/蔚蓝档案)中的男主。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
 | azuma seren | 东雪莲 |  |  |
-| yaoyao | 瑶瑶 |  |  |
+| yaoyao | 瑶瑶 | 瑶瑶（英语：yaoyao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/52/瑶瑶.jpg) | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
 | monika | 莫妮卡 |  |  |
 | tania | 塔妮雅 |  |  |
 | barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
