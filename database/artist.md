@@ -2001,7 +2001,7 @@ example:
 | masaki kei | 真崎ケイ |  |  |
 | mousou-kun | もうそうくん |  |  |
 | ooishi chuuni | 大石中二 |  |  |
-| mitsudoue | みつどうえ |  |  |
+| mitsudoue | みつどうえ |  | [Twitter](https://twitter.com/mitsudoue_) [Pixiv](https://www.pixiv.net/users/6526081) |
 | watanabe akio | 渡边明夫 |  |  |
 | kiyokawa nijiko | 虚川二次子 |  |  |
 | himuro serika | 冰室芹夏 |  |  |
