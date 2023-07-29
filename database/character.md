@@ -4708,6 +4708,7 @@ example:
 | gobuta | 哥布塔 | 哥布塔(英语:Gobta) 所属作品:`p:tensei shitara slime datta ken`<br>是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/ca/Gobta.png) | [萌娘百科](https://zh.moegirl.org.cn/哥布塔) |
 | hakos baelz | 哈珂斯·贝尔丝 | 哈珂斯·贝尔丝（英语：Hakos Baelz；日语：ハコス・ベールズ）所属社团:`p:hololive`<br>是一名VTuber<br>![](https://img.moegirl.org.cn/common/1/1a/Bae出道贺图.png) | [萌娘百科](https://mzh.moegirl.org.cn/哈珂斯·贝尔丝) |
 | saitama | 琦玉 | 埼玉（英语：saitama）所属作品:`p:one punch man`<br>是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的主人公。<br>![](https://img.moegirl.org.cn/common/8/82/Saitama_Manga.png) | [萌娘百科](https://zh.moegirl.org.cn/埼玉) |
+| rukia kuchiki | 朽木露琪亚 | 朽木露琪亚（英语：rukia kuchiki ) 所属作品:`p:bleach`<br>是久保带人所创作的漫画《死神（BLEACH）》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/b/b5/朽木露琪亚0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/朽木露琪亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
