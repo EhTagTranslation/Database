@@ -4703,6 +4703,7 @@ example:
 | kouta oyamada | 小山田耕太 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
 | chizuru minamoto | 源千鹤 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
 | nozomu ezomori | 犹守望 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
+| anisphia wynn palettia | 艾妮丝菲亚·温·帕雷提亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
