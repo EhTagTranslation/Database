@@ -3412,7 +3412,7 @@ example:
 | musae koyama | 小山梦冴 |  |  |
 | mineko kazama | 风间峰子 |  |  |
 | south dakota | 南达科他 |  |  |
-| mona megistus | 莫娜·梅姬斯图斯 | 阿斯托洛吉斯·莫娜·梅姬斯图斯是《`genshin impact`》及其衍生作品的登场角色，神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。 | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
+| mona megistus | 莫娜·梅姬斯图斯 | 莫娜·梅姬斯图斯（英语：mona megistus）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c6/莫娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
 | aether | 空 | 《`genshin impact`》及其衍生作品的登场角色。可作为玩家的代入角色。 | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | 菲谢尔（英语：fischl）所属作品:`p:genshin impact`<br>是米哈游制作的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/8d/Fischl.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
 | eula lawrence | 优菈·劳伦斯 | 优菈·劳伦斯（英语：eula lawrence）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/浪花骑士_优菈.jpg) | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
