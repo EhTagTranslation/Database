@@ -4376,7 +4376,7 @@ example:
 | seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive` |  |
 | hanae asagao | 朝颜花绘 | 所属作品：`p:blue archive` |  |
 | saori joumae | 锭前纱织 | 所属作品：`p:blue archive` |  |
-| nijika ijichi | 伊地知虹夏 |  |  |
+| nijika ijichi | 伊地知虹夏 | 伊地知虹夏（英语:nijika ijichi）所属作品:`p:bocchi the rock`<br>是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c8/Ijichi_nijika_goods.jpg) | [萌娘百科](https://mzh.moegirl.org.cn/伊地知虹夏) |
 | ryou yamada | 山田凉 |  |  |
 | ikuyo kita | 喜多郁代 |  |  |
 | mewtwo | 超梦 |  |  |
