@@ -2727,7 +2727,7 @@ example:
 | melda deitz | 梅尔达·狄兹 |  |  |
 | yuki mori | 森雪 |  |  |
 | ainz ooal gown | 安兹·乌尔·恭 |  |  |
-| albedo | 雅儿贝德 \| 阿贝多 |  |  |
+| albedo | 雅儿贝德 \| 阿贝多 | 1.雅儿贝德（日语：アルベド 英语：albedo）所属作品:`p:overlord`<br>是丸山くがね所创作的小说《OVERLORD》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/78/L9MpVFj.jpg)<br>2.阿贝多（英语：albedo）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/bf/阿贝多.png) | 1.<br>2.[萌娘百科](https://zh.moegirl.org.cn/阿贝多) |
 | aura bella fiora | 亚乌菈·贝拉·菲欧拉 |  |  |
 | clementine | 克莱门汀 |  |  |
 | mare bello fiore | 马雷·贝罗·菲欧雷 |  |  |
