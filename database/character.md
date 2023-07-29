@@ -3797,7 +3797,7 @@ example:
 | komichi akebi | 明日小路 |  |  |
 | alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [Youtube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [Twitter](https://twitter.com/shishirobotan) |
-| bennett | 班尼特 |  |  |
+| bennett | 班尼特 | 班尼特（英语：bennett）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b3/班尼特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/班尼特) |
 | ruri hoshino | 星野·琉璃 |  | [维基百科](https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters) [萌娘百科](https://zh.moegirl.org.cn/星野琉璃) [Fanbox](https://nadesico.fandom.com/wiki/Ruri_Hoshino) |
 | lanling wang | 兰陵王 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰陵王%28Fate%29) |
 | andrew gilbert mills | 安德鲁·基尔巴特·米尔斯 |  | [萌娘百科](https://zh.moegirl.org.cn/安德鲁·基尔巴特·米尔斯) [Fandom](https://swordartonline.fandom.com/wiki/Andrew_Gilbert_Mills) |
