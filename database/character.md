@@ -69,7 +69,7 @@ example:
 | elly | 艾丽 | 道中曲是著名的 Bad Apple<br>![图](https://ehgt.org/c6/cf/c6cf235bd3a8613ebd6acd195e0875d91e651399-534521-708-1000-jpg_l.jpg)![图](# "https://ehgt.org/d9/90/d990c8ba0bfbd759c051ff34895045fbb450c03d-519089-3200-1920-jpg_l.jpg")![图](# "https://ehgt.org/14/43/14434dcdde05cd12ba9d79929f3e123753ca62e4-3168631-3000-3000-png_l.jpg")![图](# "https://ehgt.org/19/1e/191e2eb5b7cef8474a432ffd7b84f7441e512672-3808315-2508-3541-png_l.jpg") |  |
 | gengetsu | 幻月 | ![图](https://ehgt.org/2b/20/2b204551b3b1c068822af3e7354597cdb6c4baa0-822311-900-1200-png_l.jpg)![图](https://ehgt.org/96/f4/96f4a8935fa846e12c6a012486d22b32cc11d371-3259667-1447-2484-png_l.jpg) |  |
 | mugetsu | 梦月 |  |  |
-| kurumi | 胡桃 |  |  |
+| kurumi | 胡桃 | 胡桃（日语：クルミ 英语：kurumi）所属作品:`p:lycoris recoil`<br>是由A-1 Pictures制作的原创动画《莉可莉丝（Lycoris Recoil）》的登场角色。<br>![](https://img.moegirl.org.cn/common/3/37/Kurumi_anime6.png) | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28莉可丽丝%29) |
 |  | 东方Project >> 旧作 >> 东方怪绮谈 |  |  |
 | yumeko | 梦子 | 《怪绮谈》5面BOSS，服侍魔界之神神绮的女仆，是神绮创造的魔界造物中级别最高的存在。<br>![图](https://ehgt.org/4b/be/4bbe614e571e7388f45522c5798672f2a62f2656-1030475-900-1200-png_l.jpg)![梦子于东方怪绮谈中的造型](https://zh.touhouwiki.net/images/4/4a/Th05yumeko.png)<br>![梦子（怪绮谈）](https://img.moegirl.org.cn/common/f/fe/梦子（怪绮谈）.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/梦子) [东方维基](https://zh.touhouwiki.net/index.php?title=梦子) [THBWiki](https://thwiki.cc/梦子) |
 | shinki | 神绮 | 太太我喜欢你啊<br>![图](https://ehgt.org/db/d2/dbd2daf3eed3249a7fc417ed26d1f6e1dd9fec23-1094828-1111-1590-png_l.jpg)![图](https://ehgt.org/61/ab/61abf715f0d4ba0826c981db6c2adb86e0e0f860-1292470-1413-2000-jpg_l.jpg) |  |
