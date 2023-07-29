@@ -3889,7 +3889,7 @@ example:
 | lu bu | 吕布 | 字奉先，并州五原郡九原（今内蒙古自治区包头市九原区）人，东汉末年武将与军阀。 |  |
 | namiko | 奈美子 |  |  |
 | hass | 莲 |  |  |
-| kazuha kaedehara | 枫原万叶 | 所属作品 `p:genshin impact`<br>![图](https://ehgt.org/0a/cb/0acb776ad4207c848dd7a7c237e36b50eb7fe13b-2154853-2250-2250-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/枫原万叶) [Fandom](https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha) |
+| kazuha kaedehara | 枫原万叶 | 枫原万叶（英语：kazuha kaedehara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/04/原神_枫原万叶.jpg) | [萌娘百科](https://zh.moegirl.org.cn/枫原万叶) [Fandom](https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha) |
 | scaramouche | 「散兵」（国崩） | 散兵（英语：scaramouche）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/db/原神流浪者.jpg) | [萌娘百科](https://zh.moegirl.org.cn/国崩) [Fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
 | himiko | 卑弥呼 |  |  |
 | zenobia | 芝诺比娅 |  |  |
