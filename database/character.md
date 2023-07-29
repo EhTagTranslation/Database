@@ -3421,7 +3421,7 @@ example:
 | xingqiu | 行秋 | 行秋（英语：xingqiu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/91/行秋.jpg) | [萌娘百科](https://zh.moegirl.org.cn/行秋) |
 | lisa minci | 丽莎·敏兹 | 丽莎·敏兹（英语：lisa minci）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/图书管理员_丽莎.jpg) | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
 | noelle | 诺艾尔 | 诺艾尔（英语：noelle）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/未授勋之花_诺艾尔.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
-| sucrose | 砂糖 | 《`genshin impact`》及其衍生作品的登场角色，炼金术天才阿贝多的助手。 | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
+| sucrose | 砂糖 | 砂糖（英语：sucrose）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/砂糖.png) | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
 | diona | 迪奥娜 | 迪奥娜（英语：diona）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/38/迪奥娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
 | rosaria | 罗莎莉亚 | 罗莎莉亚（英语：rosaria）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/56/原神罗莎莉亚.jpg) | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
 | klee | 可莉 | 可莉（英语：klee）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/3e/可莉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
