@@ -3417,7 +3417,7 @@ example:
 | fischl | 菲谢尔 | 菲谢尔（英语：fischl）所属作品:`p:genshin impact`<br>是米哈游制作的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/8d/Fischl.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
 | eula lawrence | 优菈·劳伦斯 | 优菈·劳伦斯（英语：eula lawrence）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/浪花骑士_优菈.jpg) | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
 | barbara pegg | 芭芭拉 | 所属作品：`p:genshin impact`<br>![](https://img.moegirl.org.cn/common/4/41/祈礼牧师_芭芭拉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
-| chongyun | 重云 |  |  |
+| chongyun | 重云 | 重云（英语：chongyun）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/重云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/重云) |
 | xingqiu | 行秋 | 行秋（英语：xingqiu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/91/行秋.jpg) | [萌娘百科](https://zh.moegirl.org.cn/行秋) |
 | lisa minci | 丽莎·敏兹 | 丽莎·敏兹（英语：lisa minci）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/图书管理员_丽莎.jpg) | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
 | noelle | 诺艾尔 | 《原神》及其衍生作品的登场角色，以女仆的身份在骑士团里工作，努力学习着骑士的言行礼仪。 | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
