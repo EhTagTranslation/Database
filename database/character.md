@@ -4715,6 +4715,7 @@ example:
 | kagura mea | 神樂Mea | 神樂Mea（日语：神楽めあ英语：Kagura Mea）是一名VTuber | [萌娘百科](https://zh.moegirl.org.cn/zh-hant/神乐Mea) |
 | gabriel | 加百列 | 加百列（英语：gabriel）所属作品:`p:granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/de/B_2040311000.png) |  |
 | europa | 欧罗巴 | 欧罗巴（英语：europa）所属作品:`p:granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/2/2d/Zoom_3040226000_01.png) |  |
+| neneka utsushimi | 现士实似似花 | 现士实似似花（日语：現士実（うつしみ） 似々花（ねねか）英语：neneka utsushimi）所属作品:`p:princess connect`<br>是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/Neneka-Full.png) | [萌娘百科](https://zh.moegirl.org.cn/现士实似似花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
