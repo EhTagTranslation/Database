@@ -3576,7 +3576,7 @@ example:
 | christie | 克丽丝蒂 |  |  |
 | mila | 米拉 |  |  |
 | hitomi | 瞳 |  |  |
-| raiden shogun | 雷电将军 | 雷电将军是由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。<br>![雷电将军](https://p.sda1.dev/5/f9b3c546a5da475d86c77b1c18e880ca/download.png) | [萌娘百科](https://zh.moegirl.org.cn/雷电影) (\*) |
+| raiden shogun | 雷电将军 | 雷电将军（英语：raiden shogun）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![雷电将军](https://p.sda1.dev/5/f9b3c546a5da475d86c77b1c18e880ca/download.png) | [萌娘百科](https://zh.moegirl.org.cn/雷电影) |
 | musubi | 结 | ![黑猫](https://img.moegirl.org.cn/common/9/98/结.jpg)<br>继承了结女缘之鹡鸰的称号。佐桥皆人最初羽化的鹡鸰。元气系的美少女，拥有本作品中数一数二的巨乳。平时穿着迷你裙风格巫女服装之外还有从佐桥由香里拿到的旧体操服与运动短裤。然后为了取得胜利，且将全部战败的鹡鸰解放为目标每天接受浅间美哉的特训。 性格是明朗快活的天然呆以及讨厌失败。欠缺羞耻心、对自己裸体的情况不以为意而被浅间美哉斥责。相当好战但是对弱者很温柔而且不允许虐待弱者的人。 | [萌娘百科](https://mzh.moegirl.org.cn/结%28鹡鸰女神%29#) |
 | shut | 夏特 |  |  |
 | princess jasmine | 茉莉公主 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
