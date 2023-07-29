@@ -3426,7 +3426,7 @@ example:
 | rosaria | 罗莎莉亚 | 《`genshin impact`》及其衍生作品的登场角色，蒙德城西风教会下属的一名修女。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
 | klee | 可莉 | 《原神》及其衍生作品的登场角色，西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。 | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 |  |  |
-| venti | 温迪 |  |  |
+| venti | 温迪 | 温迪（英语：venti）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/de/高天的歌者_温迪.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/温迪) |
 | xiao | 魈 |  |  |
 | razor | 雷泽 |  |  |
 | suzuran | 铃兰 | 《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:铃兰) |
