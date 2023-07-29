@@ -3327,7 +3327,7 @@ example:
 | yamagami karuta | 山神歌流多 | 山神歌流多 （ 日语：山神 カルタ / やまがみ かるたYagami karuta ）是一名从2019年10月17日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/03/38/0338182779b587cb15387122b6529d25cb466de7-624224-1000-562-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/山神歌流多) |
 | asuka hina | 飞鸟雏 | 飞鸟雏 （日语：飛鳥ひな / あすかひなAsuka Hina）是一名从2018年8月22日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身。<br>![](# "https://ehgt.org/dd/71/dd719522bdc1b5d86da98bc177283a42743cf84e-576116-1000-561-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/飞鸟雏) |
 | hina sorasaki | 空崎日奈 | 所属作品：`p:blue archive`<br>![](https://lain.bgm.tv/pic/crt/l/26/ba/104645_crt_AZ92f.jpg) | [bilibil专栏](https://www.bilibili.com/read/cv9986778/) [Fandom](https://bluearchive.fandom.com/wiki/Sorasaki_Hina) |
-| rimuru tempest | 利姆鲁·特恩佩斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/利姆鲁·特恩佩斯特) |
+| rimuru tempest | 利姆鲁·特恩佩斯特 | 利姆鲁·特恩佩斯特(英语：Rimuru Tempest) 所属作品:`p:tensei shitara slime datta ken`<br><br>是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/利姆鲁·特恩佩斯特) |
 | milim nava | 米莉姆·纳瓦 |  | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
 | kotoko iwanaga | 岩永琴子 |  |  |
 | meme touwa | 藤和女女 |  | [萌娘百科](https://zh.moegirl.org.cn/藤和女女) |
