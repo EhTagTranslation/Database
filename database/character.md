@@ -924,7 +924,7 @@ example:
 |  | ▲ My Little Pony 角色 |  |  |
 |  | ▼ 为美好的世界献上祝福 角色 |  |  |
 | aqua | 阿库娅 | ![阿库娅](https://ehgt.org/2a/51/2a5117d0d525a09f61a266eb09c0e74ef22e5c84-2170540-4098-5664-jpg_l.jpg) |  |
-| megumin | 惠惠 | 惠惠(英语：Megumin) 所属作品:`p:kono subarashii sekai ni syukufuku o`<br>是晓枣所创作的轻小说《为美好的世界献上祝福！》及其衍生作品中的登场角色<br>![惠惠](# "https://ehgt.org/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg") |  |
+| megumin | 惠惠 | 惠惠(英语：Megumin) 所属作品:`p:kono subarashii sekai ni syukufuku o`<br>是晓枣所创作的轻小说《为美好的世界献上祝福！》及其衍生作品中的登场角色<br>![惠惠](# "https://ehgt.org/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg") | [萌娘百科](https://mzh.moegirl.org.cn/惠惠%28为美好的世界献上祝福%29#) |
 | kazuma satou | 佐藤和真 | ![佐藤和真](https://ehgt.org/80/8d/808d6355e2fe9a0ca7a6a64f0d6e2a0f0c5ee213-231521-1050-1492-jpg_l.jpg) |  |
 | darkness | 达克妮丝 | ![达克妮丝](https://ehgt.org/6b/5f/6b5f506e8095683f7278740d2ff1260fc1cd6487-18749400-4266-6043-jpg_l.jpg) |  |
 | yunyun | 悠悠 | ![悠悠](# "https://ehgt.org/5d/51/5d515b84cba5e1b08ff2bed2cedcec87a4e35591-1883545-1300-1800-jpg_l.jpg") |  |
