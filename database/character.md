@@ -4709,6 +4709,7 @@ example:
 | hakos baelz | 哈珂斯·贝尔丝 | 哈珂斯·贝尔丝（英语：Hakos Baelz；日语：ハコス・ベールズ）所属社团:`p:hololive`<br>是一名VTuber<br>![](https://img.moegirl.org.cn/common/1/1a/Bae出道贺图.png) | [萌娘百科](https://mzh.moegirl.org.cn/哈珂斯·贝尔丝) |
 | saitama | 琦玉 | 埼玉（英语：saitama）所属作品:`p:one punch man`<br>是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的主人公。<br>![](https://img.moegirl.org.cn/common/8/82/Saitama_Manga.png) | [萌娘百科](https://zh.moegirl.org.cn/埼玉) |
 | rukia kuchiki | 朽木露琪亚 | 朽木露琪亚（英语：rukia kuchiki ) 所属作品:`p:bleach`<br>是久保带人所创作的漫画《死神（BLEACH）》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/b/b5/朽木露琪亚0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/朽木露琪亚) |
+| dori sangemah bay | 多莉·桑歌玛哈巴依 | 多莉·桑歌玛哈巴依（英语：dori sangemah bay）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/32/原神多莉.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/多莉·桑歌玛哈巴依) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
