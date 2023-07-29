@@ -4704,6 +4704,7 @@ example:
 | chizuru minamoto | 源千鹤 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
 | nozomu ezomori | 犹守望 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/我的狐仙女友) |
 | anisphia wynn palettia | 艾妮丝菲亚·温·帕雷提亚 |  |  |
+| euphyllia magenta | 尤菲莉亚·玛赞塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
