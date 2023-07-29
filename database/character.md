@@ -3275,7 +3275,7 @@ example:
 | monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [美少女花骑士:乌头](https://zh.moegirl.org.cn/index.php?title=美少女花骑士:乌头) |
 | makoto kowata | 木幡真琴 |  |  |
 | elaina | 伊蕾娜 |  |  |
-| ganyu | 甘雨 | 甘雨，米哈游出品的游戏《原神》及其衍生作品中的角色，璃月七星的秘书。<br>![](https://img.moegirl.org.cn/common/c/c0/循循守月_甘雨.png) | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
+| ganyu | 甘雨 | 甘雨（英语：ganyu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c0/循循守月_甘雨.png) | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
 | jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德（英语：jean gunnhildr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
 | jean | 琴 |  |  |
 | midori fuse | 布施翠 |  |  |
