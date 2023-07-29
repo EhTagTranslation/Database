@@ -12496,6 +12496,7 @@ example:
 | frogsnake | 蛙记 |  | [pixiv](https://www.pixiv.net/users/8121890) |
 | tearontaron | てぃーろんたろん |  |  |
 | tonee | Tonee |  | [pixiv](https://www.pixiv.net/users/1583918) [Patreon](https://www.patreon.com/toneeartwork) [FANBOX](https://tonee.fanbox.cc/) |
+| rangu | らんぐ |  | [pixiv](https://www.pixiv.net/users/33844486) [Twitter](https://twitter.com/ran9u) |
 
 <!--TEMPLATE:
 |  |  |  |  |
