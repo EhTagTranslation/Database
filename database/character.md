@@ -4524,7 +4524,7 @@ example:
 | lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 | trish | 翠西 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 | alexis rhodes | 天上院明日香 | 《游戏王GX》中的主要角色之一，天上院吹雪的妹妹。<br><br>[](https://static.wikia.nocookie.net/p__/images/4/4c/Alexis-l.png/revision/latest/scale-to-width-down/350?cb=20190820115733&path-prefix=protagonist) | [萌娘百科](https://zh.moegirl.org.cn/zh/天上院明日香) |
-| cyno | 赛诺 | 赛诺，米哈游出品的游戏《原神》及其衍生作品中的角色，须弥教令院的大风纪官。 |  |
+| cyno | 赛诺 | 赛诺（英语：cyno）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6e/原神赛诺.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/赛诺) |
 | alexia midgar | 阿莱克西亚·米德嘉尔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>米德加尔王国的第二王女。作为米德加尔魔剑士学园的高岭之花，被同学们羡慕着，但在背后对希德恶言恶语，本性也毕露无疑。面对优秀的魔剑士姐姐爱丽丝而感到自卑，但也有着勤奋直率的一面。 |  |
 | wednesday addams | 星期三·亚当斯 |  | [https://zh.m.wikipedia.org/wiki/星期三\_%28电视剧%29](https://zh.m.wikipedia.org/wiki/星期三_%28电视剧%29) |
 | miyako shikimori | 式守都 |  | [萌娘百科](https://zh.moegirl.org.cn/式守都) |
