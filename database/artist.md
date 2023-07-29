@@ -11072,7 +11072,7 @@ example:
 | tsubaki metasu | 椿めたす |  |  |
 | tsubakiya meguru | 椿屋めぐる |  |  |
 | tsubakiyama parry | 椿山パリィ |  |  |
-| tsubasa | ツバサ |  |  |
+| tsubasa | ツバサ |  | [pixiv](https://www.pixiv.net/users/2874136) |
 | tsucaco | tsucaco |  |  |
 | tsuchiya tarou | 土屋太郎 |  |  |
 | tsuda akira | 津田 晶 |  |  |
