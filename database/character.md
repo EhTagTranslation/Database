@@ -4265,7 +4265,7 @@ example:
 | tartaglia | 「公子」达达利亚 | 《`genshin impact`》的登场角色。愚人众十一执行官末席。 |  |
 | gorou | 五郎 |  |  |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
-| yun jin | 云堇 |  |  |
+| yun jin | 云堇 | 云堇（英语：yun jin）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c3/红毹婵娟_云堇.jpg) | [萌娘百科](https://zh.moegirl.org.cn/云堇) |
 | kloe rinz | 科洛丝·琳希 |  |  |
 | anelace elfead | 亚妮拉丝·艾尔菲德 |  |  |
 | scherazard harvey | 雪拉扎德·哈维 |  |  |
