@@ -4254,7 +4254,7 @@ example:
 | himeko murata | 无量塔姬子 |  |  |
 | seele vollerei | 希儿·芙乐艾 | 希儿·芙乐艾是米哈游出品的崩坏系列及其衍生作品的出场角色。由于《崩坏学园2》和《崩坏3》互为平行世界，且角色设定存在很大不同，因此，在萌娘百科，希儿·芙乐艾可以指：<br><br>希儿·芙乐艾(崩坏学园2)———《崩坏学园2》及其衍生作品中的出场角色。<br>希儿·芙乐艾(崩坏3)———《崩坏3》及其衍生作品中的出场角色。<br>![](https://img.moegirl.org.cn/common/c/c1/崩坏学园2希儿立绘.png)<br>![](https://img.moegirl.org.cn/common/3/3a/Seele_c1.png) | [萌娘百科](https://zh.moegirl.org.cn/希儿·芙乐艾) |
 | cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
-| shinobu kuki | 久岐忍 | 久岐忍是由miHoYo研发的游戏《原神》及其衍生作品的登场角色。荒泷派二把手，前「鸣神大社」巫女。 |  |
+| shinobu kuki | 久岐忍 | 久岐忍（英语：shinobu kuki）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1c/原神稻妻久岐忍.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/久岐忍) |
 | springfield | 春田 |  |  |
 | natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
 | fu hua | 符华 |  |  |
