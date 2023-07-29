@@ -3423,7 +3423,7 @@ example:
 | noelle | 诺艾尔 | 《原神》及其衍生作品的登场角色，以女仆的身份在骑士团里工作，努力学习着骑士的言行礼仪。 | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
 | sucrose | 砂糖 | 《`genshin impact`》及其衍生作品的登场角色，炼金术天才阿贝多的助手。 | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
 | diona | 迪奥娜 | 迪奥娜（英语：diona）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/38/迪奥娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
-| rosaria | 罗莎莉亚 | 《`genshin impact`》及其衍生作品的登场角色，蒙德城西风教会下属的一名修女。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
+| rosaria | 罗莎莉亚 | 罗莎莉亚（英语：rosaria）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/56/原神罗莎莉亚.jpg) | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
 | klee | 可莉 | 可莉（英语：klee）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/3e/可莉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 |  |  |
 | venti | 温迪 | 温迪（英语：venti）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/de/高天的歌者_温迪.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/温迪) |
