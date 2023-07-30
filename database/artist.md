@@ -2690,7 +2690,7 @@ example:
 | ikura nagisa | 伊倉ナギサ |  | [pixiv](https://www.pixiv.net/users/883185) [Twitter](https://twitter.com/nagisaikura) |
 | furukawa odoro | 古河おどろ |  | [pixiv](https://www.pixiv.net/users/581146) [Twitter](https://twitter.com/RE_yomawari) |
 | nishiki chizu | 西木地図 |  | [pixiv](https://www.pixiv.net/users/10043376) [Twitter](https://twitter.com/241map) |
-| konka | 绀菓 | ![twitter](https://pbs.twimg.com/profile_images/1343846577266257920/Kai5rTO-_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kon_ka827) [pixiv](https://www.pixiv.net/users/5561441) |
+| konka | 绀菓 | ![twitter](https://pbs.twimg.com/profile_images/1680523312194293760/B1zTha1l_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/kon_ka827) [pixiv](https://www.pixiv.net/users/5561441) |
 | hakomaru | 箱。 |  | [pixiv](https://www.pixiv.net/users/1011344) [Twitter](https://twitter.com/PANDORA_BOX07) |
 | makoto | MAKOTO |  | [pixiv](https://www.pixiv.net/users/154858) [Twitter](https://twitter.com/JahMakoto) |
 | iori | ゐおり |  | [pixiv](https://www.pixiv.net/users/494658) [Twitter](https://twitter.com/sa_ioio) |
