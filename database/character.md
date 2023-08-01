@@ -4717,6 +4717,7 @@ example:
 | europa | 欧罗巴 | 欧罗巴（英语：europa）所属作品:`p:granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/2/2d/Zoom_3040226000_01.png) |  |
 | neneka utsushimi | 现士实似似花 | 现士实似似花（日语：現士実（うつしみ） 似々花（ねねか）英语：neneka utsushimi）所属作品:`p:princess connect`<br>是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/Neneka-Full.png) | [萌娘百科](https://zh.moegirl.org.cn/现士实似似花) |
 | penny | 牡丹 | 牡丹（日语：ボタン，英语：Penny）所属作品:`p:pokemon`<br>是《宝可梦系列》的登场角色。<br>![](https://img.moegirl.org.cn/common/6/66/Penny_PMSV.png) | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
+| arslan | 亚尔斯兰 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
