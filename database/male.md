@@ -601,7 +601,7 @@ example:
 | blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 受孕 | `pregnant`的过程。 |  |
-| mesugaki | 雄小鬼 | オスガキ，`mesugaki`的男性版本。需要`shotacon`标签。 |  |
+| mesugaki | 雄小鬼 | オスガキ，`f:mesugaki`的男性版本。需要`shotacon`标签。 |  |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomgirl | 伪娘 | 通常误认为是女性的男性。常与`crossdressing`同时出现，不应与`shemale`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |
