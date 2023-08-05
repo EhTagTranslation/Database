@@ -4719,6 +4719,7 @@ example:
 | penny | 牡丹 | 牡丹（日语：ボタン，英语：Penny）所属作品:`p:pokemon`<br>是《宝可梦系列》的登场角色。<br>![](https://img.moegirl.org.cn/common/6/66/Penny_PMSV.png) | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
 | arslan | 亚尔斯兰 |  |  |
 | tobio kageyama | 影山飞雄 |  | [萌娘百科](https://zh.moegirl.org.cn/影山飞雄) |
+| kirari momobami | 桃喰绮罗莉 | 桃喰绮罗莉，所属作品:`p:kakegurui`<br>是《狂赌之渊》系列及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/5c/Kirari-momobami-108801.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桃喰绮罗莉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
