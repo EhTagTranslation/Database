@@ -4724,6 +4724,7 @@ example:
 | kishirika kishirisu | 奇希莉卡·奇希里斯 | 奇希莉卡·奇希里斯，所属作品:`p:mushoku tensei`<br>![](https://img.moegirl.org.cn/common/5/56/奇希莉卡·奇希里斯人设图.png) | [萌娘百科](https://zh.moegirl.org.cn/奇希莉卡·奇希里斯) |
 | urushi yaotome | 八乙女漆 | 所属作品:`p:soredemo ayumu wa yosetekuru`<br>![](https://img.moegirl.org.cn/common/a/a8/YaotomeUrushi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八乙女漆) |
 | anne | 安 |  | [萌娘百科](https://zh.moegirl.org.cn/安%28公主连结%29#) |
+| grea | 古蕾雅 |  | [萌娘百科](https://zh.moegirl.org.cn/古蕾雅%28公主连结%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
