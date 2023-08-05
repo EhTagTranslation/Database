@@ -84,6 +84,7 @@ example:
 | demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与`demon girl`或`oni`标签混淆。恶魔不应该被标记为`monster`。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为`wings`标签。<br>![图](# "https://ehgt.org/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg")![图](# "https://ehgt.org/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg") |  |
 | dog boy | 狗男孩 | `dog girl`的男性版本。 |  |
 | draenei | 德莱尼 | `world of warcraft`的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |  |
+| elephant boy | 象男孩 | `elephant girl`的男性版本。 |  |
 | fairy | 仙子🧚‍♂️ | 有翅膀的人或其他生物，往往体型很小。 |  |
 | fox boy | 狐男 | `fox girl`的男性版本。 |  |
 | frog boy | 青蛙男孩 | `frog girl`的男性版本。 |  |
@@ -600,6 +601,7 @@ example:
 | blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 受孕 | `pregnant`的过程。 |  |
+| mesugaki | 雄小鬼 | オスガキ，`mesugaki`的男性版本。需要`shotacon`标签。 |  |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomgirl | 伪娘 | 通常误认为是女性的男性。常与`crossdressing`同时出现，不应与`shemale`混淆。<br>![图](# "https://ehgt.org/cd/fb/cdfb92f1d5c75f3754f3cb656cc468b7799344a6-1466633-1200-1694-jpg_l.jpg") |  |

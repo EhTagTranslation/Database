@@ -86,6 +86,7 @@ example:
 | demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与`demon`或`oni`标签混淆。恶魔女孩不应该被标记为`monster girl`。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为`wings`标签。<br>![图](# "https://ehgt.org/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg")![图](# "https://ehgt.org/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg")![图](# "https://ehgt.org/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg")![图](# "https://ehgt.org/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg") |  |
 | dog girl | 狗女孩 | 有狗耳朵或狗尾巴的女性。<br>![图](# "https://ehgt.org/e5/e6/e5e65c16ea8268534fde3cf1cc08a59176b83f88-1383712-1280-720-png_l.jpg") |  |
 | draenei | 德莱尼 | `world of warcraft`的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |  |
+| elephant girl | 象女孩 | 具有象鼻或象耳的雌性，可能还有其他大象或猛犸象的特征，例如象牙。男性版本见`elephant boy`。 |  |
 | fairy | 仙女🧚‍♀️ | 有翅膀的人或其他生物，往往体型很小。 |  |
 | frog girl | 青蛙女孩 | 身材矮小，皮肤光滑，长爬行动物附肢的女性。可能有`long tongue`。 |  |
 | fox girl | 狐女 | 有狐狸耳朵和尾巴的女孩。 |  |
@@ -629,6 +630,7 @@ example:
 | blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 受孕 | `pregnant`的过程。 |  |
+| mesugaki | 雌小鬼 | メスガキ，表现出傲慢、专横和诱惑的孩子，通常对地位较高的人，无论是年龄还是地位。通常，角色会嘲笑/侮辱/贬低其他角色的反应。需要`lolicon`标签。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/雌小鬼) |
 | prostitution | 卖淫 | 以性换钱的行为。通常包括以某种挑逗的方式穿衣。 |  |
 | teacher | 教师 | 角色作为教师参与。 |  |
 | tomboy | 假小子 | 一个女孩模仿男性的穿着、行为和言辞，但没有掩饰自己的性别。当她试图掩饰自己的性别时，有可能与`crossdressing`共存。 |  |
