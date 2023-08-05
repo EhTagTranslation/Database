@@ -12499,6 +12499,7 @@ example:
 | rangu | らんぐ |  | [pixiv](https://www.pixiv.net/users/33844486) [Twitter](https://twitter.com/ran9u) |
 | icomochi | イコモチ |  | [Twitter](https://twitter.com/rswxx) [pixiv](https://www.pixiv.net/users/801146) |
 | hongshi | 紅世 |  | [pixiv](https://www.pixiv.net/users/44795667) |
+| shibori kasu | 搾り課す |  | [pixiv](https://www.pixiv.net/users/5590667)<br>[Twitter](https://twitter.com/KasuShibori)<br>[Twitter](https://twitter.com/sbrks3) |
 
 <!--TEMPLATE:
 |  |  |  |  |
