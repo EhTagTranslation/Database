@@ -4722,6 +4722,7 @@ example:
 | kirari momobami | 桃喰绮罗莉 | 桃喰绮罗莉，所属作品:`p:kakegurui`<br>是《狂赌之渊》系列及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/5c/Kirari-momobami-108801.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桃喰绮罗莉) |
 | twin turbo | 双涡轮 | 双涡轮是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ツインターボ（Twin Turbo）。<br>身高	146cm<br>体重	无法测量<br>三围	B72·W51·H74<br>生日	4月13日<br>星座	白羊座<br>声优	花井美春 | [萌娘百科](https://zh.moegirl.org.cn/双涡轮) |
 | kishirika kishirisu | 奇希莉卡·奇希里斯 | 奇希莉卡·奇希里斯，所属作品:`p:mushoku tensei`<br>![](https://img.moegirl.org.cn/common/5/56/奇希莉卡·奇希里斯人设图.png) | [萌娘百科](https://zh.moegirl.org.cn/奇希莉卡·奇希里斯) |
+| urushi yaotome | 八乙女漆 | 所属作品:`p:soredemo ayumu wa yosetekuru`<br>![](https://img.moegirl.org.cn/common/a/a8/YaotomeUrushi.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
