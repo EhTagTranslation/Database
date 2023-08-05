@@ -3039,7 +3039,7 @@ example:
 | salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
 | zeta | 泽塔 | ![泽塔](https://huiji-public.huijistatic.com/gbf/uploads/5/5b/Zoom_3040028000_01.png)<br>日文名：ゼタ<br>英文名：Zeta<br>中文译名：泽塔<br>碧蓝幻想Versus人物中文译名：塞达<br>隶属于旨在狩猎星晶兽的“组织”的英勇女战士，也是封印武器“阿尔贝斯之枪”的契约者。<br>和搭档巴萨拉卡一同执行“组织”任务的情况较多，也常发生冲突，但两人绝非关系恶劣，反倒是互相信赖。<br>或许是因为塞达不服输又开朗活泼的性格与巴萨拉卡处事不惊的沉稳性格保持着完美的平衡。<br>擅长以长枪进行中距离猛攻阻止敌人近身，以及可发挥速度优势的空中战。 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040028000) |
 | beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
-| hoshikawa sara | 星川莎拉 | 星川莎拉 （ ほしかわ さら ）是彩虹社所属的，从2019年10月19日在YouTube开始活动的VTuber。 | [萌娘百科](https://zh.moegirl.org.cn/星川莎拉) |
+| hoshikawa sara | 星川莎拉 | 星川莎拉 （ ほしかわ さら ）是彩虹社所属的，从2019年10月19日在YouTube开始活动的VTuber。<br>![](https://img.moegirl.org.cn/common/5/56/Sara_Hoshikawa02.png) | [萌娘百科](https://zh.moegirl.org.cn/星川莎拉) |
 | amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/e/ec/AmaneKanata_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
 | himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名从2020年1月4日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/b/bb/HimemoriLuna_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
 | honma himawari | 本间向日葵🌻 | 本間ひまわり（ほんまひまわり，Honma Himawari）是隶属于`nijisanji`Gamers的`vtuber`，2018年7月6日开始活动。<br>![图](https://ehgt.org/f3/60/f360e432ec7cc60f1c7afc50c40250a187d93cdb-90253-640-640-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/本间向日葵) |
