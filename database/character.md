@@ -4733,6 +4733,7 @@ example:
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive` |  |
 | mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
+| marina ikekura | 池仓玛利娜 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
