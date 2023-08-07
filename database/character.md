@@ -4735,6 +4735,7 @@ example:
 | mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
 | marina ikekura | 池仓玛利娜 | 所属作品：`p:blue archive` |  |
 | eimi izumimoto | 和泉元艾米 | 所属作品：`p:blue archive` |  |
+| megu shimokura | 下仓惠 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
