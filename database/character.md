@@ -4739,6 +4739,7 @@ example:
 | serina sumi | 鹫见芹娜 | 所属作品：`p:blue archive` |  |
 | ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive` |  |
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive` |  |
+| aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
