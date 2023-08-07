@@ -4741,6 +4741,7 @@ example:
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive` |  |
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
 | rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive` |  |
+| michiru chidori | 千鸟满 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
