@@ -4726,6 +4726,7 @@ example:
 | anne | 安 |  | [萌娘百科](https://zh.moegirl.org.cn/安%28公主连结%29#) |
 | grea | 古蕾雅 |  |  |
 | sakurako utazumi | 歌住樱子 | 所属作品：`p:blue archive` |  |
+| miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
