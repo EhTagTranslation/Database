@@ -4729,6 +4729,7 @@ example:
 | miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive` |  |
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive` |  |
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive` |  |
+| saya yakushi | 叶子纱绫 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
