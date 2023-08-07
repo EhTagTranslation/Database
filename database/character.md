@@ -4732,6 +4732,7 @@ example:
 | saya yakushi | 叶子纱绫 | 所属作品：`p:blue archive` |  |
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive` |  |
+| mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
