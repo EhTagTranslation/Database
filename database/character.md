@@ -4745,6 +4745,7 @@ example:
 | reijo kayama | 鹿山丽情 | 所属作品：`p:blue archive` |  |
 | maki konuri | 小涂真纪 | 所属作品：`p:blue archive` |  |
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive` |  |
+| mimori mizuha | 水羽三森 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
