@@ -4747,6 +4747,7 @@ example:
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive` |  |
 | mimori mizuha | 水羽三森 | 所属作品：`p:blue archive` |  |
 | haruka igusa | 伊草遥香 | 所属作品：`p:blue archive` |  |
+| kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
