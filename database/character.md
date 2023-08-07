@@ -4740,6 +4740,7 @@ example:
 | ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive` |  |
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive` |  |
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
+| rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
