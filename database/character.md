@@ -4742,6 +4742,7 @@ example:
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
 | rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive` |  |
 | michiru chidori | 千鸟满 | 所属作品：`p:blue archive` |  |
+| reijo kayama | 鹿山丽情 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
