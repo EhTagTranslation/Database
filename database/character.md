@@ -4749,6 +4749,7 @@ example:
 | haruka igusa | 伊草遥香 | 所属作品：`p:blue archive` |  |
 | kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive` |  |
 | yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive` |  |
+| hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
