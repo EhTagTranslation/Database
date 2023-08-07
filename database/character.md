@@ -4730,6 +4730,7 @@ example:
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive` |  |
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive` |  |
 | saya yakushi | 叶子纱绫 | 所属作品：`p:blue archive` |  |
+| kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
