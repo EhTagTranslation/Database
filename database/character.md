@@ -4725,6 +4725,7 @@ example:
 | urushi yaotome | 八乙女漆 | 所属作品:`p:soredemo ayumu wa yosetekuru`<br>![](https://img.moegirl.org.cn/common/a/a8/YaotomeUrushi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八乙女漆) |
 | anne | 安 |  | [萌娘百科](https://zh.moegirl.org.cn/安%28公主连结%29#) |
 | grea | 古蕾雅 |  |  |
+| sakurako utazumi | 歌住樱子 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
