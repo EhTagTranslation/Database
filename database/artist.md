@@ -5828,7 +5828,7 @@ example:
 | hiroshi | ヒロシ |  |  |
 | hirosue maron | 広末まろん |  |  |
 | hirota masatane | 廣田眞胤 |  |  |
-| hiroto | 啓人 |  |  |
+| hiroto | 启人 |  |  |
 | hiroyama hiroshi | 广山弘 |  |  |
 | hiroyoshi | ヒロヨシ |  |  |
 | hiroyuki | ヒロユキ |  |  |
