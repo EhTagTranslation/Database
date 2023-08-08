@@ -12501,6 +12501,7 @@ example:
 | hongshi | 紅世 |  | [pixiv](https://www.pixiv.net/users/44795667) |
 | shibori kasu | 搾り課す |  | [pixiv](https://www.pixiv.net/users/5590667)<br>[Twitter](https://twitter.com/KasuShibori)<br>[Twitter](https://twitter.com/sbrks3) |
 | sensiya | 千氏夜 | ![画师蓝鸟头像](https://pbs.twimg.com/profile_images/832229749141303296/kbKE7ddA_200x200.jpg)<br>短漫画师，喜欢画纯爱漫画 | [Twitter](https://twitter.com/sensiya_sensya) [Pixiv](https://www.pixiv.net/users/1791017) |
+| aruto naruto | 有人成徒 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
