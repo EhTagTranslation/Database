@@ -4751,6 +4751,7 @@ example:
 | yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive` |  |
 | hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive` |  |
 | cherino renkawa | 连河切里诺 | 所属作品：`p:blue archive` |  |
+| kei tsukishima | 月岛萤 |  | [萌娘百科](https://zh.moegirl.org.cn/月岛萤) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
