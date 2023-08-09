@@ -11401,7 +11401,7 @@ example:
 | wakachiko | わかちこ |  |  |
 | wakaki tamiki | 若木民喜 |  |  |
 | wakamesan | ワカメさん |  |  |
-| wakamiya teresa | 我宮てれさ |  |  |
+| wakamiya teresa | 我宮てれさ |  | [pixiv](https://www.pixiv.net/users/2842810) |
 | wakatsuki | 若月 |  |  |
 | wako | わこ |  |  |
 | wakura | わくら |  |  |
