@@ -4565,7 +4565,7 @@ example:
 | march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
 | himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive` |  |
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
-| garou | 五郎 | 所属作品: `p:genshin impact`<br><br>忠勇双全的海祇军大将。天生具有野兽般的战斗直觉与顽强意志，能精准找出绝境中的胜机。领导着军备、物资皆不占优的海祇军与幕府军分庭抗礼，力求为活在这片土地上的人们支撑起一片生存之壁。 | [萌娘百科](https://zh.moegirl.org.cn/zh/五郎%28原神%29) |
+| garou | 饿狼 | 饿狼（英语:garou）所属作品: `p:one punch man`<br>![](https://img.moegirl.org.cn/common/b/b8/Garou.png) | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
 | himeko | 姬子 | 姬子(英语:himeko) 所属作品`p:honkai star rail`<br>是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/姬子.png) | [萌娘百科](https://zh.moegirl.org.cn/姬子%28星穹铁道%29) |
 | herta | 黑塔 | 黑塔是《`honkai star rail`》的登场角色。 |  |
 | stelle | 星 | 星是《`honkai star rail`》的登场角色。 |  |
