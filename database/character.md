@@ -4755,6 +4755,7 @@ example:
 | izzy izumi | 泉光子郎 |  |  |
 | tai kamiya | 八神太一 |  |  |
 | agumon | 亚古兽 |  |  |
+| hatoba tsugu | 鸠羽伦\|鸠羽嗣 | YouTube上的虚拟YouTuber<br>![](https://img.moegirl.org.cn/common/f/f0/鸠羽伦.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸠羽伦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
