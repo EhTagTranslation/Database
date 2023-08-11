@@ -4753,6 +4753,8 @@ example:
 | cherino renkawa | 连河切里诺 | 所属作品：`p:blue archive` |  |
 | kei tsukishima | 月岛萤 |  | [萌娘百科](https://zh.moegirl.org.cn/月岛萤) |
 | izzy izumi | 泉光子郎 |  |  |
+| tai kamiya | 八神太一 |  |  |
+| agumon | 亚古兽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
