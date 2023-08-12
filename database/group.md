@@ -12606,6 +12606,7 @@ example:
 | maimu maimu | まいむ～まいむ | 画师`kudou maimu`所属社团 |  |
 | yakimeshi modoki | やきめしもどき |  |  |
 | nananto | ななんと |  |  |
+| gogatsu souzaiten | 五月惣菜店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
