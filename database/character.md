@@ -4757,6 +4757,7 @@ example:
 | agumon | 亚古兽 |  |  |
 | hatoba tsugu | 鸠羽伦\|鸠羽嗣 | YouTube上的虚拟YouTuber<br>![](https://img.moegirl.org.cn/common/f/f0/鸠羽伦.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸠羽伦) |
 | autumn blaze | 秋烨 | 小马宝莉里面的麒麟角色 | [萌娘百科](https://zh.moegirl.org.cn/秋烨%28彩虹小马%29#) |
+| lyra heartstrings | 天琴心弦 | 天琴心弦（Lyra Heartstrings）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天琴心弦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
