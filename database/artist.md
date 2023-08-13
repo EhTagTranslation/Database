@@ -12507,6 +12507,7 @@ example:
 | uko | うこ |  | [pixiv](https://www.pixiv.net/users/2990191) |
 | ishimari yuuya | イシマリユウヤ |  |  |
 | mannen junyuuki | 万年授乳期 |  |  |
+| putama | ぷ玉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
