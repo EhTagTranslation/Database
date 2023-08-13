@@ -4756,6 +4756,7 @@ example:
 | tai kamiya | 八神太一 |  |  |
 | agumon | 亚古兽 |  |  |
 | hatoba tsugu | 鸠羽伦\|鸠羽嗣 | YouTube上的虚拟YouTuber<br>![](https://img.moegirl.org.cn/common/f/f0/鸠羽伦.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸠羽伦) |
+| autumn blaze | 秋烨 | 小马宝莉里面的麒麟角色 | [萌娘百科](https://zh.moegirl.org.cn/秋烨%28彩虹小马%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
