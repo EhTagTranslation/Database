@@ -12513,6 +12513,7 @@ example:
 | arisugawa kotone | 有栖川琴音 |  |  |
 | hitonitati | ひとにたち |  |  |
 | ryou | 涼 |  |  |
+| ono elle | える |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
