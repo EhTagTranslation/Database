@@ -12512,6 +12512,7 @@ example:
 | mmchair | MM |  |  |
 | arisugawa kotone | 有栖川琴音 |  |  |
 | hitonitati | ひとにたち |  |  |
+| ryou | 涼 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
