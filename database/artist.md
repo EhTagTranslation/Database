@@ -12508,6 +12508,7 @@ example:
 | ishimari yuuya | イシマリユウヤ |  |  |
 | mannen junyuuki | 万年授乳期 |  |  |
 | putama | ぷ玉 |  |  |
+| waka mochi ta | わかもち太 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
