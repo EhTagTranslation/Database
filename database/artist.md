@@ -12510,6 +12510,7 @@ example:
 | putama | ぷ玉 |  |  |
 | waka mochi ta | わかもち太 |  |  |
 | mmchair | MM |  |  |
+| arisugawa kotone | 有栖川琴音 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
