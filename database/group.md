@@ -12608,6 +12608,7 @@ example:
 | nananto | ななんと |  |  |
 | gogatsu souzaiten | 五月惣菜店 |  |  |
 | syunichi kansuu | しゅにち関数 | null | [fantia](https://www.bing.com/ck/a?!&&p=0a8f60b155e35917JmltdHM9MTY5MTc5ODQwMCZpZ3VpZD0xMWJkYThiZi0yZWQ1LTY2YmUtM2M5My1iYmZkMmYwYzY3NTkmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=11bda8bf-2ed5-66be-3c93-bbfd2f0c6759&psq=しゅにち関数&u=a1aHR0cHM6Ly9mYW50aWEuanAvZmFuY2x1YnMvNTg1Mg&ntb=1) |
+| edamametei | えだまめ亭 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116382) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
