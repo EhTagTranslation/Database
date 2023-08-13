@@ -12511,6 +12511,7 @@ example:
 | waka mochi ta | わかもち太 |  |  |
 | mmchair | MM |  |  |
 | arisugawa kotone | 有栖川琴音 |  |  |
+| hitonitati | ひとにたち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
