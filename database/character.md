@@ -2158,7 +2158,7 @@ example:
 | cure rhythm | 节奏天使 |  |  |
 | siren | 赛莲 |  |  |
 | cure beat | 节拍天使 |  |  |
-| cure muse | 谬思天使 |  |  |
+| cure muse | 缪斯天使 |  |  |
 | maria houjou | 北条真理亚 |  |  |
 | misora minamino | 南野美空 |  |  |
 | cure happy | 快乐天使 |  |  |
