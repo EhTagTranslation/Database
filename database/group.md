@@ -12613,6 +12613,7 @@ example:
 | evolment tycoon | EVOLMENT TYCOON |  |  |
 | utsusumi onsen | うつすみおんせん |  |  |
 | dorayakiya | どらやきや |  |  |
+| kazumiya | かずみ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
