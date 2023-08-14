@@ -12611,6 +12611,7 @@ example:
 | edamametei | えだまめ亭 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116382) |
 | texteater | Texteater |  |  |
 | evolment tycoon | EVOLMENT TYCOON |  |  |
+| utsusumi onsen | うつすみおんせん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
