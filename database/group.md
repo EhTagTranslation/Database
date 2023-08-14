@@ -12612,6 +12612,7 @@ example:
 | texteater | Texteater |  |  |
 | evolment tycoon | EVOLMENT TYCOON |  |  |
 | utsusumi onsen | うつすみおんせん |  |  |
+| dorayakiya | どらやきや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
