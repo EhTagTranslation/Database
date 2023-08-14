@@ -12514,6 +12514,7 @@ example:
 | hitonitati | ひとにたち |  |  |
 | ryou | 涼 |  |  |
 | ono elle | える |  |  |
+| usitora tatumi | 牛虎たつみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
