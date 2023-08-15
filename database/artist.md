@@ -3950,7 +3950,7 @@ example:
 | akiba ryu | 暁葉龍 |  |  |
 | akiba wataru | 秋葉わたる |  |  |
 | akichin | あきちん |  |  |
-| akiduki akina | 秋月秋名 |  |  |
+| akiduki akina | 秋月秋名 |  | [Twitter](https://twitter.com/MUGEN_WORKS) [Pixiv](https://www.pixiv.net/users/42951) |
 | akiduki touya | 秋月十夜 |  |  |
 | akiha chiaki | 秋葉千秋 |  |  |
 | akihazama | akihazama |  |  |
