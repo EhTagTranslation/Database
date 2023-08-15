@@ -4759,6 +4759,7 @@ example:
 | autumn blaze | 秋烨 | 秋烨（Autumn Blaze）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/秋烨%28彩虹小马%29#) |
 | lyra heartstrings | 天琴心弦 | 天琴心弦（Lyra Heartstrings）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天琴心弦) |
 | lopiniatre | 倔强 |  |  |
+| luca ikaruga | 斑鸠路加 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
