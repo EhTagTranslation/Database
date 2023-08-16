@@ -12614,6 +12614,7 @@ example:
 | utsusumi onsen | うつすみおんせん |  |  |
 | dorayakiya | どらやきや |  |  |
 | kazumiya | かずみ屋 |  |  |
+| high land | HIGH:LAND |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
