@@ -12506,7 +12506,7 @@ example:
 | gogatsu unagi | 五月うなぎ |  | [Twitter](https://twitter.com/unagimay) [pixiv](https://www.pixiv.net/users/24262318) |
 | uko | うこ |  | [Twitter](https://twitter.com/uko_______3) [PIxiv](https://www.pixiv.net/users/2990191) |
 | ishimari yuuya | イシマリユウヤ |  |  |
-| mannen junyuuki | 万年授乳期 |  |  |
+| mannen junyuuki | 万年授乳期(ジュニー) |  | [Twitter](https://twitter.com/pai_wa_ii) [Pixiv](https://www.pixiv.net/users/15360833) |
 | putama | ぷ玉 |  |  |
 | waka mochi ta | わかもち太 |  |  |
 | mmchair | MM |  |  |
