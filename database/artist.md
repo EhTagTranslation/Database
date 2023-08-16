@@ -10489,7 +10489,7 @@ example:
 | syowmaru | 翔丸 |  |  |
 | syoyu | しょーゆ |  |  |
 | syu | 川上修一 |  |  |
-| syunichi | しゅにち |  |  |
+| syunichi | しゅにち |  | [Twitter](https://twitter.com/syunichill_) [Pixiv](https://www.pixiv.net/users/7847900) |
 | syunzo | しゅんぞう |  |  |
 | syutaro | 秋太郎 |  |  |
 | t | T |  |  |
