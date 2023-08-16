@@ -12515,6 +12515,7 @@ example:
 | ryou | 涼 |  |  |
 | ono elle | える |  |  |
 | usitora tatumi | 牛虎たつみ |  |  |
+| takashima shoa | 高嶋しょあ |  | [Twitter](https://twitter.com/shoa_tksm) [pixiv](https://www.pixiv.net/users/64208336) |
 
 <!--TEMPLATE:
 |  |  |  |  |
