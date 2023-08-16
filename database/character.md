@@ -4760,6 +4760,7 @@ example:
 | lyra heartstrings | 天琴心弦 | 天琴心弦（Lyra Heartstrings）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天琴心弦) |
 | lopiniatre | 倔强 |  |  |
 | luca ikaruga | 斑鸠路加 |  |  |
+| hare omagari | 小钩晴 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
