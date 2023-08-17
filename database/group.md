@@ -12615,6 +12615,7 @@ example:
 | dorayakiya | どらやきや |  |  |
 | kazumiya | かずみ屋 |  |  |
 | high land | HIGH:LAND |  |  |
+| shibasaki shouji | 柴崎障子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
