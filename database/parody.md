@@ -2178,6 +2178,7 @@ example:
 | ase to sekken | 汗皂交香 | 《汗水和皂香》（日语：あせとせっけん）是山田金铁所著的日本漫画，<br>原为2018年1月4日在《周刊D Morning》增刊号刊载的单篇漫画，获得好评后转为连载，<br>开始连载于《周刊D Morning》2018年第29号，其后剧情进入“同居篇”后改于《Morning》2019年第44号起继续连载，<br>于2021年第6号完结。截至2022年1月，漫画单行本累积发行逾440万本。<br>改编真人电视剧在2022年2月3日至3月31日于每日放送“电视剧特区”深夜时段播出，佐藤宽太、大原优乃双主演，共9集。 | [wiki](https://zh.wikipedia.org/zh-hans/汗水和皂香) |
 | idoly pride | 偶像荣耀 | IDOLY PRIDE（日语：アイドリープライド）是由CyberAgent旗下的QualiArts、MusicRay'n与Straight Edge合作的大型多媒体偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/zh/IDOLY_PRIDE) [维基百科](https://zh.wikipedia.org/zh/偶像荣耀) |
 | nu carnival | 新世界狂欢 |  | [萌娘百科](https://zh.moegirl.org.cn/新世界狂欢) |
+| siren | 死魂曲 | 《死魂曲》（日版名：SIREN，欧版名：Forbidden Siren，又译作“尸人”）为索尼电脑娱乐开发贩售的PlayStation 2专用恐怖游戏。 | [维基百科](https://zh.wikipedia.org/zh/死魂曲) [萌娘百科](https://zh.moegirl.org.cn/死魂曲%28初代%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
