@@ -4761,6 +4761,7 @@ example:
 | lopiniatre | 倔强 |  |  |
 | luca ikaruga | 斑鸠路加 |  |  |
 | hare omagari | 小钩晴 | 所属作品：`p:blue archive` |  |
+| karen aijo | 爱城华恋 |  | [萌娘百科](https://zh.moegirl.org.cn/爱城华恋) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
