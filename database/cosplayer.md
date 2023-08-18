@@ -90,6 +90,7 @@ example:
 | banbanko | 半半子 |  | [Twitter](https://twitter.com/Banbanko_?s=20) |
 | aninnyan | 桜井宁宁 |  |  |
 | nagisa | NAGISA魔物喵 |  |  |
+| katiecakey | Katie Cakey |  |  |
 
 <!--
 Template: 
