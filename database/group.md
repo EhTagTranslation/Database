@@ -12617,6 +12617,7 @@ example:
 | high land | HIGH:LAND |  |  |
 | shibasaki shouji | 柴崎障子 |  |  |
 | ecchi ecchi daifuku | えちえち大福 |  | - [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70597.html) |
+| hoyhoy colo | ホイホイこーろ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
