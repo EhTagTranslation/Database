@@ -12517,6 +12517,7 @@ example:
 | usitora tatumi | 牛虎たつみ |  |  |
 | takashima shoa | 高嶋しょあ |  | [Twitter](https://twitter.com/shoa_tksm) [pixiv](https://www.pixiv.net/users/64208336) |
 | half horse hanma | 半馬ハンマ |  | [Twitter](https://twitter.com/gg980987) [Pixiv](https://www.pixiv.net/users/3049781) |
+| ekimae machinaka | 駅前街中 |  | [pixiv](https://www.pixiv.net/users/38458) [Twitter](https://twitter.com/ekme) |
 
 <!--TEMPLATE:
 |  |  |  |  |
