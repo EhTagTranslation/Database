@@ -9113,7 +9113,7 @@ example:
 | organico | おるがにこ |  |  |
 | orico | オリコ |  |  |
 | orihara kotone | 折原琴音 |  |  |
-| orihi chihiro | 織日ちひろ |  |  |
+| orihi chihiro | 織日ちひろ |  | [pixiv](https://www.pixiv.net/users/5722894) |
 | orikawa | 折川 |  |  |
 | orikuchi hirata | 折口ヒラタ |  |  |
 | orima inaka | 織間いなか |  |  |
