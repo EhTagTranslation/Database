@@ -7851,7 +7851,7 @@ example:
 | miicho | みーちょ |  |  |
 | miiru | みいる |  |  |
 | miitoban | みぃとばん | 肉まんうめぇw |  |
-| mika pikazo | Mika Pikazo |  |  |
+| mika pikazo | Mika Pikazo |  | [pixiv](https://www.pixiv.net/en/users/1039353) [Twitter](https://twitter.com/MikaPikaZo) [https://www.mikapikazo.com/](https://www.mikapikazo.com/) |
 | mika sayaki | みかさやき |  |  |
 | mikagami mamizu | 水鏡まみず |  |  |
 | mikagami sou | 水鏡想 |  |  |
