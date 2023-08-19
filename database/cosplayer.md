@@ -91,6 +91,7 @@ example:
 | aninnyan | 桜井宁宁 |  |  |
 | nagisa | NAGISA魔物喵 |  |  |
 | katiecakey | Katie Cakey |  |  |
+| linzi jiang | 凛子酱 |  | [微博](https://weibo.com/u/2041046824) [Twitter](https://twitter.com/linzi0929) |
 
 <!--
 Template: 
