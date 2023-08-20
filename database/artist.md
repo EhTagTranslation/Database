@@ -7446,7 +7446,7 @@ example:
 | lena a-7 | LENA[A-7] |  |  |
 | lento | 蓮斗 |  |  |
 | leonardo | れオナるド |  |  |
-| leonat | Leonat |  |  |
+| leonat | レオナト |  |  |
 | leopard | レオパルド |  |  |
 | leopon | れおぽん |  |  |
 | level.21 | Level.21 |  |  |
