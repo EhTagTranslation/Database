@@ -4763,6 +4763,7 @@ example:
 | hare omagari | 小钩晴 | 所属作品：`p:blue archive` |  |
 | karen aijo | 爱城华恋 |  | [萌娘百科](https://zh.moegirl.org.cn/爱城华恋) |
 | sawako kuronuma | 黑沼爽子 | 所属作品: `p:kimi ni todoke` | [萌娘百科](https://mzh.moegirl.org.cn/黑沼爽子) |
+| izumi shishidou | 狮子堂泉 |  | [Fandom](https://bluearchive.fandom.com/wiki/Shishidou_Izumi?so=search) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
