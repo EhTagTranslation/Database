@@ -12520,6 +12520,7 @@ example:
 | ekimae machinaka | 駅前街中 |  | [pixiv](https://www.pixiv.net/users/38458) [Twitter](https://twitter.com/ekme) |
 | hoyhoy colo | ホイホイこーろ |  |  |
 | noyama | のやま |  | [pixiv](https://www.pixiv.net/users/44290315) |
+| araizumi rui | 新泉留衣 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
