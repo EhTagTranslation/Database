@@ -2122,7 +2122,7 @@ example:
 | imomuya honpo | いもむや本舗 |  |  |
 | ryuukakusan nodoame | りゅうかくさんのどあめ |  |  |
 | okadatei | おかだ亭 |  |  |
-| niramikko koujou | にらみっ子工場 |  |  |
+| niramikko koujou | にらみっ子工場 |  | [pixiv](https://www.pixiv.net/users/153853) |
 | kaeri no kai 2 | 帰りの会2 | 同人游戏制作社团<br>![图](http://www.usamimi.info/~wakabakaoru/webgate2019.jpg) | [官方网站](http://www.usamimi.info/~wakabakaoru/) |
 | 4h | 4H | `shitou`的同人社团 |  |
 | kaitoushinshidan | 怪盗绅士团 | 怪盗紳士団<br>漫画家`kaishinshi`活动的社团。 |  |
