@@ -5537,7 +5537,7 @@ example:
 | hanchou | 班長 |  |  |
 | handa | handa |  |  |
 | handsofmidaz | handsofmidaz |  |  |
-| hane | ファビ山はね |  |  |
+| hane | HANE |  |  |
 | haneda ikao | 羽田いかお |  |  |
 | hanee | HANEE |  |  |
 | hanekumo | 羽雲 |  |  |
