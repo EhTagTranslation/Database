@@ -4766,6 +4766,7 @@ example:
 | izumi shishidou | 狮子堂泉 |  | [Fandom](https://bluearchive.fandom.com/wiki/Shishidou_Izumi?so=search) |
 | lynette | 琳妮特 | 琳妮特(lynette) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/83/琳妮特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琳妮特) |
 | focalors | 芙宁娜 | 芙宁娜(furina\|focalors)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芙宁娜) |
+| mizuki | 水月 | 水月是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:水月) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
