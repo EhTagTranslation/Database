@@ -4398,7 +4398,7 @@ example:
 | alhaitham | 艾尔海森 | 艾尔海森（英语：alhaitham）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b6/艾尔海森立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/艾尔海森) [Fandom](https://genshin-impact.fandom.com/wiki/Alhaitham) |
 | layla prismriver | 蕾拉·普莉兹姆利巴 | ![](https://static.wikia.nocookie.net/touhou/images/4/42/LaylaNB2.png) | [THB wiki](https://thwiki.cc/蕾拉·普莉兹姆利巴) |
 | chise waraku | 和乐千世 | 所属作品：`p:blue archive` |  |
-| kaho kuwakami | 桑上嘉穗 | 所属作品：`p:blue archive` |  |
+| kaho kuwakami | 桑上果穗 | 所属作品：`p:blue archive` |  |
 | ume | 梅 | ![](https://uploads.kcwiki.cn/commons/thumb/7/74/KanMusu443HD.png/218px-KanMusu443HD.png) | [舰娘百科](https://m.kcwiki.cn/wiki/梅) [艦これ wiki](https://en.kancollewiki.net/Ume) |
 | chisaki mibu | 壬生千咲 | 所属作品: `p:riddle joker`<br>![](https://p.sda1.dev/9/0d7c79dab7f92c376dd8baafa147da9b/image.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/壬生千咲) |
 | mayu shikibe | 式部茉优 | 所属作品: `p:riddle joker`<br>![](https://p.sda1.dev/9/35842be7ce500e6508f033b0136c8e30/image.png) | [萌娘百科](https://zh.moegirl.org.cn/式部茉优) |
