@@ -4729,7 +4729,7 @@ example:
 | miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive` |  |
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive` |  |
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive` |  |
-| saya yakushi | 叶子纱绫 | 所属作品：`p:blue archive` |  |
+| saya yakushi | 药子纱绫 | 所属作品：`p:blue archive` |  |
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive` |  |
 | mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
