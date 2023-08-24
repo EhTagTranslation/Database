@@ -4768,6 +4768,7 @@ example:
 | focalors | 芙宁娜 | 芙宁娜(furina\|focalors)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芙宁娜) |
 | mizuki | 水月 | 水月是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:水月) |
 | ayame kajou | 华城绫女 |  |  |
+| kirche augusta frederica von anhalt zerbst | 丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
