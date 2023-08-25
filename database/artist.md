@@ -12522,6 +12522,7 @@ example:
 | noyama | のやま |  | [pixiv](https://www.pixiv.net/users/44290315) |
 | araizumi rui | 新泉留衣 |  |  |
 | hui yin | 慧骃 |  |  |
+| pineapple panda | 鳳梨ぱんだ |  | [pixiv](https://www.pixiv.net/users/52127842) [Twitter](https://twitter.com/Pineapp_Panda) |
 
 <!--TEMPLATE:
 |  |  |  |  |
