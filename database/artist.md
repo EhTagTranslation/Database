@@ -12524,6 +12524,7 @@ example:
 | hui yin | 慧骃 |  |  |
 | pineapple panda | 鳳梨ぱんだ |  | [pixiv](https://www.pixiv.net/users/52127842) [Twitter](https://twitter.com/Pineapp_Panda) |
 | qiandai yiyu | Qiandai以宇 |  | [pixiv](https://www.pixiv.net/users/68481914) [Twitter](https://twitter.com/qiandaiyiyu) |
+| kacyu | 卡丘 |  | [pixiv](https://www.pixiv.net/users/446045) [Twitter](https://twitter.com/Yzmyu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
