@@ -12526,6 +12526,7 @@ example:
 | qiandai yiyu | Qiandai以宇 |  | [pixiv](https://www.pixiv.net/users/68481914) [Twitter](https://twitter.com/qiandaiyiyu) |
 | kacyu | 卡丘 |  | [pixiv](https://www.pixiv.net/users/446045) [Twitter](https://twitter.com/Yzmyu) |
 | bagelbomb | Bagelbomb |  | [pixiv](https://www.pixiv.net/users/38336998) [Twitter](https://twitter.com/BagelBombed) |
+| kitano yukito | 北乃ゆきと |  | [Twitter](https://twitter.com/Kitanoyukito) [pixiv](https://www.pixiv.net/users/55376764) |
 
 <!--TEMPLATE:
 |  |  |  |  |
