@@ -2180,6 +2180,7 @@ example:
 | nu carnival | 新世界狂欢 |  | [萌娘百科](https://zh.moegirl.org.cn/新世界狂欢) |
 | siren | 死魂曲 | 《死魂曲》（日版名：SIREN，欧版名：Forbidden Siren，又译作“尸人”）为索尼电脑娱乐开发贩售的PlayStation 2专用恐怖游戏。 | [维基百科](https://zh.wikipedia.org/zh/死魂曲) [萌娘百科](https://zh.moegirl.org.cn/死魂曲%28初代%29) |
 | lapis relights | 宝石幻想 光芒重现 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/宝石幻想_光芒重现) [维基百科](https://zh.wikipedia.org/zh/Lapis_Re:Lights_～這個世界的偶像會用魔法～) |
+| franken fran | 疯狂怪医芙兰 | 疯狂怪医芙兰描写了人造少女芙兰运用她的医术帮助人们的故事。芙兰被设定为类似科学怪人那样的人造人。 | [萌娘百科](https://zh.moegirl.org.cn/疯狂怪医芙兰) [维基百科](https://zh.wikipedia.org/zh/瘋狂怪醫芙蘭) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

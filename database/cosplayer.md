@@ -93,6 +93,7 @@ example:
 | katiecakey | Katie Cakey |  |  |
 | linzi jiang | 凛子酱 |  | [微博](https://weibo.com/u/2041046824) [Twitter](https://twitter.com/linzi0929) |
 | cherry neko | 桜桃喵 |  |  |
+| kuuko w | Kuuko W |  | [Twitter](https://twitter.com/Kuukow002) |
 
 <!--
 Template: 
