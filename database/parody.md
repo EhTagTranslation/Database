@@ -2179,6 +2179,7 @@ example:
 | idoly pride | 偶像荣耀 | IDOLY PRIDE（日语：アイドリープライド）是由CyberAgent旗下的QualiArts、MusicRay'n与Straight Edge合作的大型多媒体偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/zh/IDOLY_PRIDE) [维基百科](https://zh.wikipedia.org/zh/偶像荣耀) |
 | nu carnival | 新世界狂欢 |  | [萌娘百科](https://zh.moegirl.org.cn/新世界狂欢) |
 | siren | 死魂曲 | 《死魂曲》（日版名：SIREN，欧版名：Forbidden Siren，又译作“尸人”）为索尼电脑娱乐开发贩售的PlayStation 2专用恐怖游戏。 | [维基百科](https://zh.wikipedia.org/zh/死魂曲) [萌娘百科](https://zh.moegirl.org.cn/死魂曲%28初代%29) |
+| lapis relights | 宝石幻想 光芒重现 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/宝石幻想_光芒重现) [维基百科](https://zh.wikipedia.org/zh/Lapis_Re:Lights_～這個世界的偶像會用魔法～) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
