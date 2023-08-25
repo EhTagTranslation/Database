@@ -3593,12 +3593,12 @@ example:
 | azuma | 吾妻 | 原型为旧日本海军B65型大型巡洋舰（超甲巡），“吾妻”一名为战舰世界研发方Wargaming.net根据旧日本海军命名规则而起。 | [碧蓝航线:吾妻](https://zh.moegirl.org.cn/碧蓝航线:吾妻) |
 | gorgon | 戈尔贡 | 《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/戈耳工%28Fate%29#) |
 | repulse | 反击 | 原型为英国皇家海军的反击号战列巡洋舰,是声望级战列巡洋舰的2号舰 | [碧蓝航线:反击](https://zh.moegirl.org.cn/碧蓝航线:反击) |
-| north carolina | 北卡罗来纳 | 美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)) | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
+| north carolina | 北卡罗来纳 | 美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)） | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
 | washington | 华盛顿 | 美国海军北卡罗来纳级战列舰二号舰华盛顿号（USS Washington BB-56） | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
 | essex | 埃塞克斯 | 美国海军埃塞克斯级航空母舰首舰埃塞克斯号（USS Essex (CV-9)） | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 | albacore | 大青花鱼 | 美国海军猫鲨级潜艇大青花鱼号（USS Albacore (SS-218)） | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
-| new jersey | 新泽西 | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62）） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
+| new jersey | 新泽西 | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62)） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/zh-cn/碧蓝航线:让·巴尔) |
 | kokomi sangonomiya | 珊瑚宫心海 | 珊瑚宫心海(kokomi sangonomiya) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/44/真珠之智_珊瑚宫心海.jpg) | [萌娘百科](https://zh.moegirl.org.cn/_?curid=467821) |
 | kashino | 樫野 | 旧日本帝国海军的㭴野号给兵舰。 | [碧蓝航线:樫野](https://zh.moegirl.org.cn/碧蓝航线:樫野) |
@@ -3685,7 +3685,7 @@ example:
 | azusa shirasu | 白洲梓 | 所属作品：`p:blue archive`<br><br>三一补课部的冰魔女。<br>自从从原本的学校退学后，因为某种原因而就读三一学园，重新致力于学业，明明很怕寂寞，却因为担心对其他学生造成麻烦而主动与人拉开距离，很让补课部的学生为她操心。 |  |
 | hanako urawa | 浦和花子 | 所属作品：`p:blue archive`<br><br>来自三一综合学院补习授业部的感情丰富的少女。<br>看起来像个优雅的淑女，实际上是个开口黄腔就停不下来的问题学生。<br>知道她真面目的补习部部员们，每次在花子身边时都会紧张地左顾右盼。 |  |
 | koharu shimoe | 下江小春 | 下江小春，所属作品:`p:blue archive`<br>是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/7/78/BA_Koharu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/下江小春) |
-| shifuna agato | 雪菲 |  |  |
+| sheffy | 雪菲 |  |  |
 | miko yotsuya | 四谷见子 |  |  |
 | hana yurikawa | 百合川华 |  |  |
 | yuria niguredou | 二暮堂尤利娅 |  |  |
@@ -4708,7 +4708,7 @@ example:
 | gobuta | 哥布塔 | 哥布塔(英语:Gobta) 所属作品:`p:tensei shitara slime datta ken`<br>是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/ca/Gobta.png) | [萌娘百科](https://zh.moegirl.org.cn/哥布塔) |
 | hakos baelz | 哈珂斯·贝尔丝 | 哈珂斯·贝尔丝（英语：Hakos Baelz；日语：ハコス・ベールズ）所属社团:`p:hololive`<br>是一名VTuber<br>![](https://img.moegirl.org.cn/common/1/1a/Bae出道贺图.png) | [萌娘百科](https://mzh.moegirl.org.cn/哈珂斯·贝尔丝) |
 | saitama | 琦玉 | 埼玉（英语：saitama）所属作品:`p:one punch man`<br>是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的主人公。<br>![](https://img.moegirl.org.cn/common/8/82/Saitama_Manga.png) | [萌娘百科](https://zh.moegirl.org.cn/埼玉) |
-| rukia kuchiki | 朽木露琪亚 | 朽木露琪亚（英语：rukia kuchiki ) 所属作品:`p:bleach`<br>是久保带人所创作的漫画《死神（BLEACH）》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/b/b5/朽木露琪亚0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/朽木露琪亚) |
+| rukia kuchiki | 朽木露琪亚 | 朽木露琪亚（英语：rukia kuchiki） 所属作品:`p:bleach`<br>是久保带人所创作的漫画《死神（BLEACH）》及其衍生作品的女主角。<br>![](https://img.moegirl.org.cn/common/b/b5/朽木露琪亚0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/朽木露琪亚) |
 | dori sangemah bay | 多莉·桑歌玛哈巴依 | 多莉·桑歌玛哈巴依（英语：dori sangemah bay）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/32/原神多莉.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/多莉·桑歌玛哈巴依) |
 | baizhu | 白术 | 白术（英语：baizhu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/e/e9/原神白术.jpg) | [萌娘百科](https://zh.moegirl.org.cn/白术) |
 | lewis | 刘易斯 | 刘易斯（英语：lewis）所属作品:`p:girls frontline`<br>是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》及其衍生作品的登场角色<br>![](https://img.moegirl.org.cn/common/6/6e/73460046_p0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:刘易斯) |
@@ -4755,7 +4755,7 @@ example:
 | izzy izumi | 泉光子郎 |  |  |
 | tai kamiya | 八神太一 |  |  |
 | agumon | 亚古兽 |  |  |
-| hatoba tsugu | 鸠羽伦\|鸠羽嗣 | YouTube上的虚拟YouTuber<br>![](https://img.moegirl.org.cn/common/f/f0/鸠羽伦.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸠羽伦) |
+| hatoba tsugu | 鸠羽伦 | 鸠羽伦（鸠羽嗣），YouTube上的虚拟YouTuber<br>![](https://img.moegirl.org.cn/common/f/f0/鸠羽伦.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸠羽伦) |
 | autumn blaze | 秋烨 | 秋烨（Autumn Blaze）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/秋烨%28彩虹小马%29#) |
 | lyra heartstrings | 天琴心弦 | 天琴心弦（Lyra Heartstrings）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天琴心弦) |
 | lopiniatre | 倔强 |  |  |
