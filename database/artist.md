@@ -12521,6 +12521,7 @@ example:
 | hoyhoy colo | ホイホイこーろ |  |  |
 | noyama | のやま |  | [pixiv](https://www.pixiv.net/users/44290315) |
 | araizumi rui | 新泉留衣 |  |  |
+| hui yin | 慧骃 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
