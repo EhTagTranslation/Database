@@ -12527,6 +12527,7 @@ example:
 | kacyu | 卡丘 |  | [pixiv](https://www.pixiv.net/users/446045) [Twitter](https://twitter.com/Yzmyu) |
 | bagelbomb | Bagelbomb |  | [pixiv](https://www.pixiv.net/users/38336998) [Twitter](https://twitter.com/BagelBombed) |
 | kitano yukito | 北乃ゆきと |  | [Twitter](https://twitter.com/Kitanoyukito) [pixiv](https://www.pixiv.net/users/55376764) |
+| haruri | HARURI |  | [pixiv](https://www.pixiv.net/users/14772638) [Twitter](https://twitter.com/HARURI52) |
 
 <!--TEMPLATE:
 |  |  |  |  |
