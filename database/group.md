@@ -12621,6 +12621,7 @@ example:
 | higashinodou | 東ノ堂 |  |  |
 | imagescript | イメージscript |  |  |
 | kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
+| jinsei saboribu | 人生サボり部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
