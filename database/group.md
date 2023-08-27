@@ -12620,6 +12620,7 @@ example:
 | hoyhoy colo | ホイホイこーろ |  |  |
 | higashinodou | 東ノ堂 |  |  |
 | imagescript | イメージscript |  |  |
+| kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
