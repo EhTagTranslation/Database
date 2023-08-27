@@ -5371,7 +5371,7 @@ example:
 | gomatamago | ゴマタマゴ |  |  |
 | gomoku tsukune | ごもくつくね |  |  |
 | gomtang | GomTang |  |  |
-| gomu | ゴム |  |  |
+| gomu | ゴム |  | [Twitter](https://twitter.com/chewinggom) [Pixiv](https://www.pixiv.net/users/136544) |
 | gon | ごん |  |  |
 | gon heihachi | ゴン平八 |  |  |
 | gonbuto | ごんぶと |  |  |
