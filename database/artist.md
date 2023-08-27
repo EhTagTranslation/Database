@@ -2402,7 +2402,7 @@ example:
 | ame arare | 雨あられ |  |  |
 | abi kamesennin | 俺正读 |  |  |
 | futayami | 双暗 |  |  |
-| deadflow | Deadflow（Б） |  | [pixiv](https://www.pixiv.net/users/182552) [Twitter](https://twitter.com/11saicastle) |
+| deadflow | Deadflow（Б） | ![画师头像](https://pbs.twimg.com/profile_images/1204295049606905857/41d-pk2B_200x200.png)<br>画师推特头像 | [pixiv](https://www.pixiv.net/users/182552) [Twitter](https://twitter.com/11saicastle) |
 | yukishizuku | ユキシズク |  |  |
 | mappa ninatta | マッパニナッタ |  |  |
 | ryuuto hisashi | りゅうとひさし |  |  |
