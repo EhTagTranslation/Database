@@ -10359,7 +10359,7 @@ example:
 | stiel | すてぃえる |  |  |
 | stigaya | チガヤ |  |  |
 | stir | ステア |  |  |
-| subachi | すばち |  |  |
+| subachi | すばち |  | [Twitter](https://twitter.com/subachi__) [Pixiv](https://www.pixiv.net/users/22027) |
 | subaru | スバル |  |  |
 | subuina 81r | スブイナ81R |  |  |
 | sudoo kaoru | すどおかおる |  |  |
