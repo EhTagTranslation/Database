@@ -7218,7 +7218,7 @@ example:
 | kumakichi | 熊吉 |  |  |
 | kumano kotaro | くまのこたろ |  |  |
 | kumao | く魔王 |  |  |
-| kumasaku tamizou | クマ作民三 |  |  |
+| kumasaku tamizou | クマ作民三 |  | [Twitter](https://twitter.com/k_dmc8109) [Pixiv](https://www.pixiv.net/users/1008) |
 | kumashiro | くましろ |  |  |
 | kumatora tatsumi | 熊虎たつみ |  |  |
 | kumatyu | クマチュウ |  |  |
