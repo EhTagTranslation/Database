@@ -12622,6 +12622,7 @@ example:
 | imagescript | イメージscript |  |  |
 | kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
 | jinsei saboribu | 人生サボり部 |  |  |
+| mori no michi | 森の道 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
