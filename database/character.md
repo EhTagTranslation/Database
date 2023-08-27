@@ -4769,6 +4769,7 @@ example:
 | mizuki | 水月 | 水月是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:水月) |
 | ayame kajou | 华城绫女 |  |  |
 | kirche augusta frederica von anhalt zerbst | 丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特) |
+| london | 伦敦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
