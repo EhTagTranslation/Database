@@ -12531,6 +12531,7 @@ example:
 | sumina en | 澄名エン |  | [pixiv](https://www.pixiv.net/users/35706033) [Twitter](https://twitter.com/ensumina) |
 | jinja eru | 神社えーる |  | [pixiv](https://www.pixiv.net/users/21680697) [Twitter](https://twitter.com/jinjashurine) |
 | nukeru | ヌケル |  | [pixiv](https://www.pixiv.net/users/58172120) [Twitter](https://twitter.com/nomorenukeru) |
+| musui ethanol | 無水エタノール |  | [pixiv](https://www.pixiv.net/users/41280283) [Twitter](https://twitter.com/GorillArtist) |
 
 <!--TEMPLATE:
 |  |  |  |  |
