@@ -12533,6 +12533,7 @@ example:
 | nukeru | ヌケル |  | [pixiv](https://www.pixiv.net/users/58172120) [Twitter](https://twitter.com/nomorenukeru) |
 | musui ethanol | 無水エタノール |  | [pixiv](https://www.pixiv.net/users/41280283) [Twitter](https://twitter.com/GorillArtist) |
 | mori sinrisk | 森シンリスク |  | [pixiv](https://www.pixiv.net/users/3433) [Twitter](https://twitter.com/sinrisk) |
+| moegi | 萌黄おじさん |  | [Twitter](https://twitter.com/MEG_ojisan) |
 
 <!--TEMPLATE:
 |  |  |  |  |
