@@ -7955,7 +7955,7 @@ example:
 | miniru | miniru |  |  |
 | minna no haipe | みんなのハイペ |  |  |
 | mino kureha | 美濃紅葉 |  |  |
-| minobu gentle | 身延ジェントル |  |  |
+| minobu gentle | 身延ジェントル |  | [pixiv](https://www.pixiv.net/users/366834) |
 | minoda kenichi | みのだけんいち |  |  |
 | minoh rom | 水尾ろむ |  |  |
 | ojigi | 箕吉 | みのきち |  |
