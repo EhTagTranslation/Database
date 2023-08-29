@@ -4770,6 +4770,7 @@ example:
 | ayame kajou | 华城绫女 |  |  |
 | kirche augusta frederica von anhalt zerbst | 丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/丘鲁克·奥古斯都·菲列特利加·封·安哈尔特·泽鲁普斯特) |
 | london | 伦敦 |  |  |
+| enlilta reesehyde bertrand | 贝尔托兰 | 所属作品: `p:kaminaki sekai no kamisama katsudou`<br><br>隶属于帝国军的男性骑士之一，为帝国军第六骑士团的骑士长。被御灵复活后变成了女性。<br><br>![](https://static.wikia.nocookie.net/kamikatsu/images/b/b9/Bertrand-Female.png) | [Fandom](https://kamikatsu.fandom.com/wiki/Bertrand) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
