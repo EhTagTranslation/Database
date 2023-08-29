@@ -12537,6 +12537,7 @@ example:
 | kikomuhito | 着込む人 |  |  |
 | elegant | えれがんと |  | [pixiv](https://www.pixiv.net/users/16333896) [Twitter](https://twitter.com/Elegant1266) |
 | tonyman plus | トニーマン+ |  | [pixiv](https://www.pixiv.net/users/1262834) [Twitter](https://twitter.com/Tonyman_Sister) [HP](http://deadassembly.blog133.fc2.com/) |
+| shimetsuki tanki | 湿月タンキ |  | [pixiv](https://www.pixiv.net/users/43542154) [Twitter](https://twitter.com/simetuki_tanki) |
 
 <!--TEMPLATE:
 |  |  |  |  |
