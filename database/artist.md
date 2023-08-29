@@ -12535,6 +12535,7 @@ example:
 | mori sinrisk | 森シンリスク |  | [pixiv](https://www.pixiv.net/users/3433) [Twitter](https://twitter.com/sinrisk) |
 | moegi | 萌黄おじさん |  |  |
 | kikomuhito | 着込む人 |  |  |
+| elegant | えれがんと |  | [pixiv](https://www.pixiv.net/users/16333896) [Twitter](https://twitter.com/Elegant1266) |
 
 <!--TEMPLATE:
 |  |  |  |  |
