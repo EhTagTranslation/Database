@@ -4773,6 +4773,7 @@ example:
 | enlilta reesehyde bertrand | 贝尔托兰 | 所属作品: `p:kaminaki sekai no kamisama katsudou`<br><br>隶属于帝国军的男性骑士之一，为帝国军第六骑士团的骑士长。被御灵复活后变成了女性。<br><br>![](https://static.wikia.nocookie.net/kamikatsu/images/b/b9/Bertrand-Female.png) | [Fandom](https://kamikatsu.fandom.com/wiki/Bertrand) |
 | momiji akiizumi | 秋泉红叶 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/4b/Momiji_Portrait.png)<br><br>[译名来源](https://zh.moegirl.org.cn/蔚蓝档案/译名对照表) | [Fandom](https://bluearchive.fandom.com/wiki/Akiizumi_Momiji) |
 | howe | 豪 | 豪（Howe，ハウ，하우）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br>其原型为英国海军的豪号战列舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:豪) |
+| aki shino | 志野亚贵 |  | [萌娘百科](https://zh.moegirl.org.cn/志野亚贵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
