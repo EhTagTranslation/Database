@@ -12505,7 +12505,7 @@ example:
 | denbu momo | でんぶ腿 | ![twitter](https://pbs.twimg.com/profile_images/1140466029232975872/FKSpe3yu_400x400.png)<br><br>**作者推特头像** | [twitter](https://twitter.com/denmomo24) [pixiv](https://www.pixiv.net/users/33143687) |
 | gogatsu unagi | 五月うなぎ |  | [Twitter](https://twitter.com/unagimay) [pixiv](https://www.pixiv.net/users/24262318) |
 | uko | うこ |  | [Twitter](https://twitter.com/uko_______3) [PIxiv](https://www.pixiv.net/users/2990191) |
-| ishimari yuuya | イシマリユウヤ |  | [Twitter](https://twitter.com/stein_ball) |
+| ishimari yuuya | イシマリユウヤ |  | [Twitter](https://twitter.com/stein_ball) [Pixiv](https://www.pixiv.net/users/33097) |
 | mannen junyuuki | 万年授乳期(ジュニー) |  | [Twitter](https://twitter.com/pai_wa_ii) [Pixiv](https://www.pixiv.net/users/15360833) |
 | putama | ぷ玉 |  |  |
 | waka mochi ta | わかもち太 |  |  |
