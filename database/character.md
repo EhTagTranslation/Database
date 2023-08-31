@@ -4775,6 +4775,7 @@ example:
 | howe | 豪 | 豪（Howe，ハウ，하우）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br>其原型为英国海军的豪号战列舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:豪) |
 | aki shino | 志野亚贵 |  | [萌娘百科](https://zh.moegirl.org.cn/志野亚贵) |
 | yuri briar | 尤里·布莱尔 |  | [萌娘百科](https://mzh.moegirl.org.cn/尤里·布莱尔) |
+| kotama otose | 音濑小玉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
