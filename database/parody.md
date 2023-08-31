@@ -2182,6 +2182,7 @@ example:
 | lapis relights | 宝石幻想 光芒重现 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/宝石幻想_光芒重现) [维基百科](https://zh.wikipedia.org/zh/Lapis_Re:Lights_～這個世界的偶像會用魔法～) |
 | franken fran | 疯狂怪医芙兰 | 疯狂怪医芙兰描写了人造少女芙兰运用她的医术帮助人们的故事。芙兰被设定为类似科学怪人那样的人造人。 | [萌娘百科](https://zh.moegirl.org.cn/疯狂怪医芙兰) [维基百科](https://zh.wikipedia.org/zh/瘋狂怪醫芙蘭) |
 | kaminaki sekai no kamisama katsudou | 无神世界中的神明活动 |  | [萌娘百科](https://zh.moegirl.org.cn/无神世界中的神明活动) [HP](https://kamikatsu-anime.jp/) [维基百科（日语）](https://ja.wikipedia.org/wiki/神無き世界のカミサマ活動) |
+| shoukan yuusha to f-kei kareshi | 召唤勇者与F系男友 | 『召唤勇者与F系男友』（しょうかんゆうしゃとえふけいかれし、The summoned Brave & Fantasic Boyfriends）是由LifeWonders合同会社于2014年开始提供的智能手机游戏应用程序。简称为『F彼』。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/召喚勇者とF系彼氏) [pixiv](https://dic.pixiv.net/a/召喚勇者とF系彼氏) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
