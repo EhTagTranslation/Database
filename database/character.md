@@ -4679,7 +4679,7 @@ example:
 | arisu sakayanagi | 坂柳有栖 |  | [萌娘百科](https://zh.moegirl.org.cn/坂柳有栖) |
 | griseo | 格蕾修 | 格蕾修是米哈游旗下的《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7a/格蕾修.png) | [萌娘百科](https://zh.moegirl.org.cn/格蕾修) |
 | melina | 梅琳娜 | 梅琳娜（英语：Melina）是由FromSoftware开发，万代南梦宫娱乐发行的动作角色扮演游戏《艾尔登法环》中的登场角色。<br>![](https://img.moegirl.org.cn/common/0/06/艾尔登法环梅琳娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/梅琳娜%28艾尔登法环%29#) |
-| hinoa | 水芸 |  |  |
+| hinoa | 火芽 | 火芽登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。<br><br>负责调配村庄任务的接待员。<br><br>有个担任集会所接待员的双胞胎妹妹。<br><br>温柔善良，总是笑眯眯的，犹如太阳般照耀着村庄。<br><br>她的笑容能够照亮整个遭受灾祸的炎火村。<br><br>常常对成为新手猎人的主角（烈焰）施以援手，关系好得就像家人一般。<br><br>特别喜欢村里的名产“兔团子”，总爱往茶馆跑。<br><br>村庄的任务都由接待员火芽负责介绍。<br><br>阅读更多：火芽（[萌娘百科](https://mzh.moegirl.org.cn/火芽) ）<br>本文引自萌娘百科([萌娘百科](https://mzh.moegirl.org.cn) )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议。 | [萌娘百科](https://mzh.moegirl.org.cn/火芽) |
 | implacable | 怨仇 | 怨仇（Implacable，インプラカブル）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型是英国海军的怨仇号航空母舰（HMS\_Implacable\_(R86)）。<br>![](https://img.moegirl.org.cn/common/d/d1/BLHX_105603144.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:怨仇) |
 | asuma sarutobi | 猿飞阿斯玛 |  |  |
 | mizuki akiyama | 晓山瑞希 | ![晓山瑞希](https://cdn.donmai.us/720x720/18/b6/18b697409421ec8ba7cc5d8dfd28fd7f.webp)<br>世界计划中的角色之一，属于乐团“25时，Nightcord见”。 |  |
