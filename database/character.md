@@ -4776,6 +4776,7 @@ example:
 | aki shino | 志野亚贵 |  | [萌娘百科](https://zh.moegirl.org.cn/志野亚贵) |
 | yuri briar | 尤里·布莱尔 |  | [萌娘百科](https://mzh.moegirl.org.cn/尤里·布莱尔) |
 | kotama otose | 音濑小玉 |  |  |
+| minoto | 水芸 | 水芸登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。<br><br>村庄接待员火芽的双胞胎妹妹。<br><br>沉着冷静，大多时候都面不改色。<br><br>她总是平淡漠然地完成自己的工作，乍看之下很是冷淡，但其实心地善良，还有意外笨拙的一面。 | [萌娘百科](https://mzh.moegirl.org.cn/水芸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
