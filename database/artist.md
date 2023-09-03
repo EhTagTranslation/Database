@@ -12540,6 +12540,7 @@ example:
 | shimetsuki tanki | 湿月タンキ |  | [pixiv](https://www.pixiv.net/users/43542154) [Twitter](https://twitter.com/simetuki_tanki) |
 | yuukey | ゆーきぃ |  |  |
 | wu qing yan hui gang | 无情烟灰缸 |  | [pixiv](https://www.pixiv.net/users/45897157) |
+| yoshimura bitchmotor | 吉村ビッチモーター |  | [Twitter](https://twitter.com/bitchmotor02) [pixiv](https://www.pixiv.net/users/60264338) |
 
 <!--TEMPLATE:
 |  |  |  |  |
