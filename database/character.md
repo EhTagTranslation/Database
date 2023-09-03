@@ -4779,6 +4779,7 @@ example:
 | minoto | 水芸 | 水芸登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。<br><br>村庄接待员火芽的双胞胎妹妹。<br><br>沉着冷静，大多时候都面不改色。<br><br>她总是平淡漠然地完成自己的工作，乍看之下很是冷淡，但其实心地善良，还有意外笨拙的一面。 | [萌娘百科](https://mzh.moegirl.org.cn/水芸) |
 | matikanefukukitaru | 待兼福来 | 待兼福来是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネフクキタル（Matikanefukukitaru）。 | [萌娘百科](https://zh.moegirl.org.cn/待兼福来) |
 | hiyori harusaki | 春咲日和莉 |  |  |
+| rei shijo | 士条怜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
