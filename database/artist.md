@@ -12541,6 +12541,7 @@ example:
 | yuukey | ゆーきぃ |  |  |
 | wu qing yan hui gang | 无情烟灰缸 |  | [pixiv](https://www.pixiv.net/users/45897157) |
 | yoshimura bitchmotor | 吉村ビッチモーター |  | [Twitter](https://twitter.com/bitchmotor02) [pixiv](https://www.pixiv.net/users/60264338) |
+| mochimoon curry | 餅月カレン |  | [pixiv](https://www.pixiv.net/users/69139238) [Twitter](https://twitter.com/MochimoonCurry) |
 
 <!--TEMPLATE:
 |  |  |  |  |
