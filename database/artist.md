@@ -8663,7 +8663,7 @@ example:
 | nekonin | 猫忍 |  |  |
 | nekono lonmiy | 猫乃ろんみい |  |  |
 | nekono matatabi | 猫乃またたび |  |  |
-| nekono shiro | ねこのしろ |  |  |
+| nekono shiro | ねこのしろ |  | [pixiv](https://www.pixiv.net/users/404006) |
 | nekono tamami | 猫野たまみ |  |  |
 | nekonomori maririn | 猫守麻里鈴 |  |  |
 | nekonose hajime | 猫ノ瀬はじめ |  |  |
