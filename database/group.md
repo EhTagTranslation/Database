@@ -12623,6 +12623,7 @@ example:
 | kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
 | jinsei saboribu | 人生サボり部 |  |  |
 | mori no michi | 森の道 |  |  |
+| studio yama roman | スタジオ山ロマン |  | [pixiv](https://www.pixiv.net/users/48779474) [Twitter](https://twitter.com/yamaroman_CG) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
