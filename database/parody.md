@@ -1335,7 +1335,7 @@ example:
 | sokkou seitokai | 速攻学生会 |  |  |
 | shantae | 桑塔 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
 | nekojishi | 家有大猫 |  |  |
-| tomo-chan wa onnanoko | 小智是女孩子 | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/小智是女孩子) (\*) |
+| tomo-chan wa onnanoko | 小智是女孩啦！ | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh/小智是女孩子) [萌娘百科](https://zh.moegirl.org.cn/智酱是女生！) |
 | strawberry panic | 惊爆草莓 | 《惊爆草莓》是日本电击G's杂志（MediaWorks）于2003年11月号开始的读者参与计划。动画版于2006年4月开始在日本地区播放（全26集）。 | [维基百科](https://zh.wikipedia.org/zh-cn/草莓危機) (\*) |
 | isekai izakaya nobu | 异世界居酒屋「阿信」 | 《异世界居酒屋「阿信」》（日语：異世界居酒屋「のぶ」）是由蝉川夏哉创作、転插画的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/异世界居酒屋阿信) (\*\*) |
 | alias carnival | ALIA's CARNIVAL! | 《ALIA's CARNIVAL!》是日本NanaWind在2014年3月28日发售的恋爱冒险类型成人游戏。2015年5月29日发售续作《ALIA's CARNIVAL! Flowering Sky》。2015年10月29日由dramatic create发售PlayStation Vita版《ALIA's CARNIVAL! サクラメント》。2016年5月27日发售合集《ALIA's CARNIVAL! Wパッケージ》。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALIA%27s_CARNIVAL!) (\*) |
