@@ -4784,6 +4784,7 @@ example:
 | junichirou kubota | 久保田淳一郎 | 所属作品: `p:tomo-chan wa onnanoko`<br><br>男主角，上野水高中1年A班学生。从小学时期开始与智交往，曾长期以为对方是男生，和她像好哥们一样相处。虽然平时有些冷淡，但在智面前会表现出天真和孩子气的一面。 |  |
 | misuzu gundou | 群堂美铃 | parody:tomo-chan wa onnanoko<br><br>智和淳一郎的发小，上野水高中1年A班学生。沉着冷静，学业优秀，成绩一直在年级前几名。有非常毒舌的一面，经常对朋友提出辛辣的建议。和淳一郎水火不容。淳一郎初中时的女友，但交往三天就受不了淳一郎的过度健身约会而分手 |  |
 | minato senkawa | 千川凑 | 所属作品: `p:onii-chan wa oshimai`<br><br>绪山真寻的中学同学，和樱田悠太很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。 | [萌娘百科](https://zh.moegirl.org.cn/千川凑) |
+| yuuta sakurada | 樱田悠太 | 所属作品: `p:onii-chan wa oshimai`<br><br>绪山真寻的中学同学，和千川凑很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。 | [萌娘百科](https://zh.moegirl.org.cn/zh/樱田悠太) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
