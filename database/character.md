@@ -4781,6 +4781,7 @@ example:
 | hiyori harusaki | 春咲日和莉 |  |  |
 | rei shijo | 士条怜 |  |  |
 | tomo aizawa | 相泽智 | 所属作品: `p:tomo-chan wa onnanoko`<br><br>女主角，上野水高中1年A班学生。从小就在老家的空手道道场坚持锻炼，现在隶属于男子空手道部。擅长体育和格斗，外表和性格非常男孩子气。喜欢青梅竹马久保田淳一郎。 |  |
+| junichirou kubota | 久保田淳一郎 | 所属作品: `p:tomo-chan wa onnanoko`<br><br>男主角，上野水高中1年A班学生。从小学时期开始与智交往，曾长期以为对方是男生，和她像好哥们一样相处。虽然平时有些冷淡，但在智面前会表现出天真和孩子气的一面。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
