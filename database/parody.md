@@ -2184,6 +2184,7 @@ example:
 | kaminaki sekai no kamisama katsudou | 无神世界中的神明活动 |  | [萌娘百科](https://zh.moegirl.org.cn/无神世界中的神明活动) [HP](https://kamikatsu-anime.jp/) [维基百科（日语）](https://ja.wikipedia.org/wiki/神無き世界のカミサマ活動) |
 | shoukan yuusha to f-kei kareshi | 召唤勇者与F系男友 | 『召唤勇者与F系男友』（しょうかんゆうしゃとえふけいかれし、The summoned Brave & Fantasic Boyfriends）是由LifeWonders合同会社于2014年开始提供的智能手机游戏应用程序。简称为『F彼』。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/召喚勇者とF系彼氏) [pixiv](https://dic.pixiv.net/a/召喚勇者とF系彼氏) |
 | megami device | 女神装置 | 女神装置(メガミデバイス)是由日本寿屋玩具公司(KOTOBUKIYA)发行，结合机械与美少女的组装模型系列。 | [HP](https://www.megamidevice.com/) |
+| skip to loafer | 跳跃和乐福鞋 \| 跃动青春 | 本作讲述了15岁的女高中生美津未从乡下到东京高中求学的校园生活故事。 | [萌娘百科](https://zh.moegirl.org.cn/跳跃和乐福鞋) [维基百科](https://zh.wikipedia.org/zh/躍動青春) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
