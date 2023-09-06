@@ -4780,6 +4780,7 @@ example:
 | matikanefukukitaru | 待兼福来 | 待兼福来是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネフクキタル（Matikanefukukitaru）。 | [萌娘百科](https://zh.moegirl.org.cn/待兼福来) |
 | hiyori harusaki | 春咲日和莉 |  |  |
 | rei shijo | 士条怜 |  |  |
+| tomo aizawa | 相泽智 | 所属作品: `p:tomo-chan wa onnanoko`<br><br>女主角，上野水高中1年A班学生。从小就在老家的空手道道场坚持锻炼，现在隶属于男子空手道部。擅长体育和格斗，外表和性格非常男孩子气。喜欢青梅竹马久保田淳一郎。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
