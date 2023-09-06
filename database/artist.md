@@ -12545,6 +12545,7 @@ example:
 | yukimochi kinako | 幸餅きなこ |  | [pixiv](https://www.pixiv.net/users/12362960) [Twitter](https://twitter.com/kinako_omochi3) |
 | houraku | HOURAKU |  | [pixiv](https://www.pixiv.net/users/24222104) [Twitter](https://twitter.com/HOURAKU777) |
 | nagatsuki misoka | 長月みそか |  |  |
+| wosushi | をすし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
