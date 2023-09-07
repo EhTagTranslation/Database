@@ -2187,6 +2187,7 @@ example:
 | skip to loafer | 跳跃和乐福鞋 \| 跃动青春 | 本作讲述了15岁的女高中生美津未从乡下到东京高中求学的校园生活故事。 | [萌娘百科](https://zh.moegirl.org.cn/跳跃和乐福鞋) [维基百科](https://zh.wikipedia.org/zh/躍動青春) |
 | astral chain | 异界锁链 | 《异界锁链》（日语：アストラルチェイン，英语：Astral Chain）是白金工作室开发、任天堂发行的动作游戏。田浦贵久担任总监，神谷英树担任监制，漫画家桂正和担任角色设计。<br><br>玩家需要操纵角色调查案件，利用武器和雷基恩击败敌人，维护“方舟”的和平。 | [萌娘百科](https://zh.moegirl.org.cn/异界锁链) [维基百科](https://zh.wikipedia.org/wiki/异界锁链) |
 | taiyou no kiba dougram | 太阳之牙 | 《太阳之牙》（原题：太陽の牙ダグラム）是由Sunrise制作的日本的机器人动画。由东京电视台在1981年10月23日至1983年3月25日播放，全75话。 | [维基百科](https://zh.wikipedia.org/wiki/太陽之牙) |
+| natsuiro kiseki | 夏色奇迹 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
