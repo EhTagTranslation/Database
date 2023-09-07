@@ -80,7 +80,7 @@ example:
 | yaoyaoqwq | 软妹摇摇乐 |  | [Twitter](https://twitter.com/chan_p90) |
 | maria desu | Maria Desu |  |  |
 | hidori rose | Hidori Rose |  |  |
-| ai lei jiang | 少女映画 |  |  |
+| ai lei jiang | 少女映画 |  | [Twitter](https://twitter.com/aileijiang996) |
 | shimotsuki | 霜月shimo |  | [Twitter](https://twitter.com/shimotsukitw) |
 | hua qi hana | 花柒Hana |  | [微博](https://weibo.com/u/6248353446) [哔哩哔哩](https://space.bilibili.com/865359/) |
 | lostwind10 | 猫と爪呸罗呸罗 |  | [Twitter](https://twitter.com/Lostwind10) |
