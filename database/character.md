@@ -4786,6 +4786,7 @@ example:
 | minato senkawa | 千川凑 | 所属作品: `p:onii-chan wa oshimai`<br><br>绪山真寻的中学同学，和樱田悠太很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。 | [萌娘百科](https://zh.moegirl.org.cn/千川凑) |
 | yuuta sakurada | 樱田悠太 | 所属作品: `p:onii-chan wa oshimai`<br><br>绪山真寻的中学同学，和千川凑很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。 | [萌娘百科](https://zh.moegirl.org.cn/zh/樱田悠太) |
 | saria | 塞雷娅 | 塞雷娅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:塞雷娅https://zh.moegirl.org.cn/明日方舟:塞雷娅)<br><br>[https://prts.wiki/w/塞雷娅](https://prts.wiki/w/塞雷娅) |
+| saga | 嵯峨 | 嵯（Cuó）峨是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嵯峨)<br><br>[https://prts.wiki/w/嵯峨](https://prts.wiki/w/嵯峨) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
