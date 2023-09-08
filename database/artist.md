@@ -1314,7 +1314,7 @@ example:
 | reiha | 零覇 |  |  |
 | chimaq | チマQ |  |  |
 | magaki ryouta | 間垣りょうた |  |  |
-| yukino minato | 雪野みなと |  |  |
+| yukino minato | 雪野みなと |  | [pixiv](https://www.pixiv.net/users/529489) [Twitter](https://twitter.com/straycat_2018) |
 | maruchang | 丸ちゃん。 |  |  |
 |  | A1 |  |  |
 | sukiyo | スキヨ |  |  |
