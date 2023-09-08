@@ -4788,6 +4788,7 @@ example:
 | saria | 塞雷娅 | 塞雷娅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:塞雷娅https://zh.moegirl.org.cn/明日方舟:塞雷娅)<br><br>[https://prts.wiki/w/塞雷娅](https://prts.wiki/w/塞雷娅) |
 | saga | 嵯峨 | 嵯（Cuó）峨是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嵯峨)<br><br>[https://prts.wiki/w/嵯峨](https://prts.wiki/w/嵯峨) |
 | bagpipe | 风笛 | 风笛是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:风笛)<br><br>[https://prts.wiki/w/风笛](https://prts.wiki/w/风笛) |
+| hoolheyak | 霍尔海雅 | 霍尔海雅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霍尔海雅)<br><br>[https://prts.wiki/w/霍尔海雅](https://prts.wiki/w/霍尔海雅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
