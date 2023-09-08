@@ -3829,7 +3829,6 @@ example:
 | ahe | あへ |  |  |
 | aheen | あへーん |  |  |
 | ahiru | あひる |  |  |
-| aho | aho |  |  |
 | ahobaka | AHOBAKA |  |  |
 | ahorobo | ahorobo |  |  |
 | ahou miya | 阿呆宮 |  |  |
