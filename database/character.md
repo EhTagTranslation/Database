@@ -4785,6 +4785,7 @@ example:
 | misuzu gundou | 群堂美铃 | parody:tomo-chan wa onnanoko<br><br>智和淳一郎的发小，上野水高中1年A班学生。沉着冷静，学业优秀，成绩一直在年级前几名。有非常毒舌的一面，经常对朋友提出辛辣的建议。和淳一郎水火不容。淳一郎初中时的女友，但交往三天就受不了淳一郎的过度健身约会而分手 |  |
 | minato senkawa | 千川凑 | 所属作品: `p:onii-chan wa oshimai`<br><br>绪山真寻的中学同学，和樱田悠太很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。 | [萌娘百科](https://zh.moegirl.org.cn/千川凑) |
 | yuuta sakurada | 樱田悠太 | 所属作品: `p:onii-chan wa oshimai`<br><br>绪山真寻的中学同学，和千川凑很要好，对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。 | [萌娘百科](https://zh.moegirl.org.cn/zh/樱田悠太) |
+| saria | 塞雷娅 | 塞雷娅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:塞雷娅https://zh.moegirl.org.cn/明日方舟:塞雷娅)<br><br>[https://prts.wiki/w/塞雷娅](https://prts.wiki/w/塞雷娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
