@@ -12545,6 +12545,7 @@ example:
 | houraku | HOURAKU |  | [pixiv](https://www.pixiv.net/users/24222104) [Twitter](https://twitter.com/HOURAKU777) |
 | nagatsuki misoka | 長月みそか |  |  |
 | wosushi | をすし |  |  |
+| kiyohara hiro | 清原纮 |  | [Twitter](https://twitter.com/hiro_kiyohara) [pixiv](https://www.pixiv.net/users/22954) |
 
 <!--TEMPLATE:
 |  |  |  |  |
