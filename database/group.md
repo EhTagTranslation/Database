@@ -3164,7 +3164,7 @@ example:
 | bad company | ばっどかんぱにー |  |  |
 | bad end rst | ばっどえんどRST |  |  |
 | bad friend | BAD FRIEND |  |  |
-| bad mushrooms | 壞茸社 |  |  |
+| bad mushrooms | 坏茸社 |  |  |
 | badcore | バッドコア |  |  |
 | badis badis | バジスバジス |  |  |
 | baguri koubou | 馬栗工房 |  |  |
