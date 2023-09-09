@@ -12543,7 +12543,7 @@ example:
 | mochimoon curry | 餅月カレン |  | [pixiv](https://www.pixiv.net/users/69139238) [Twitter](https://twitter.com/MochimoonCurry) |
 | yukimochi kinako | 幸餅きなこ |  | [pixiv](https://www.pixiv.net/users/12362960) [Twitter](https://twitter.com/kinako_omochi3) |
 | houraku | HOURAKU |  | [pixiv](https://www.pixiv.net/users/24222104) [Twitter](https://twitter.com/HOURAKU777) |
-| nagatsuki misoka | 長月みそか |  |  |
+| nagatsuki misoka | 长月みそか | ![twitter](https://pbs.twimg.com/profile_images/1608357078086848513/mot9aFn2_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/misoka09) |
 | wosushi | をすし |  |  |
 | kiyohara hiro | 清原纮 |  | [Twitter](https://twitter.com/hiro_kiyohara) [pixiv](https://www.pixiv.net/users/22954) |
 | yakiuni | 烧きうに |  |  |
