@@ -12529,7 +12529,7 @@ example:
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
 | henry plaza | 半里プラザー |  |  |
 | shirokuroino | 白黒いの |  |  |
-| riku no kotoutei | 陸の孤島亭 |  |  |
+| riku no kotoutei | 陆の孤岛亭 |  |  |
 | kuniku no saku | 狗肉の策 |  |  |
 | taipeijin | 台北人 |  |  |
 | shinya koujou | 深夜工場 |  |  |
