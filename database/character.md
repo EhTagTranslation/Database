@@ -4789,6 +4789,7 @@ example:
 | bagpipe | 风笛 | 风笛是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:风笛)<br><br>[https://prts.wiki/w/风笛](https://prts.wiki/w/风笛) |
 | hoolheyak | 霍尔海雅 | 霍尔海雅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霍尔海雅)<br><br>[https://prts.wiki/w/霍尔海雅](https://prts.wiki/w/霍尔海雅) |
 | dorothy | 多萝西 | 多萝西是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:多萝西)<br><br>[https://prts.wiki/w/多萝西](https://prts.wiki/w/多萝西) |
+| daki | 堕姬 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/堕姬) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
