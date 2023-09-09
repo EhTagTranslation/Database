@@ -952,7 +952,7 @@ example:
 | takei ooki | タケイオーキ |  | [pixiv](https://www.pixiv.net/users/150378) [Twitter](https://twitter.com/o_takei) [个人主页](http://ties-to.sakura.ne.jp/) |
 | azuma tesshin | 东铁神 |  |  |
 | akagi asahito | 赤城あさひと |  |  |
-| benimura karu | 紅村かる |  | [Twitter](https://twitter.com/benny_cal) [pixiv](https://www.pixiv.net/users/551096) |
+| benimura karu | 红村かる | ![twitter](https://pbs.twimg.com/profile_images/990289119199641600/zMj0JXxG_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/benny_cal) [pixiv](https://www.pixiv.net/users/551096) |
 | bota mochito | 牡丹もちと |  | [Twitter](https://twitter.com/botamotito) [pixiv](https://www.pixiv.net/users/3791006) |
 | cuvie | Cuvie |  |  |
 | hazuki yuto | 羽月ユウト |  |  |
