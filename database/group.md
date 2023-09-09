@@ -12626,6 +12626,7 @@ example:
 | studio yama roman | スタジオ山ロマン |  | [pixiv](https://www.pixiv.net/users/48779474) [Twitter](https://twitter.com/yamaroman_CG) |
 | inu ha sakana | 犬は鱼 |  |  |
 | mizukani | みずかに |  |  |
+| one hit wonder | ONE HIT WONDER |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
