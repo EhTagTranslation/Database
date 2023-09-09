@@ -12548,6 +12548,7 @@ example:
 | kiyohara hiro | 清原纮 |  | [Twitter](https://twitter.com/hiro_kiyohara) [pixiv](https://www.pixiv.net/users/22954) |
 | yakiuni | 烧きうに |  |  |
 | inui ayu | 犬井あゆ |  |  |
+| osanai shiina | 小山内しいな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
