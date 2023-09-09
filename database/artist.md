@@ -12546,6 +12546,7 @@ example:
 | nagatsuki misoka | 長月みそか |  |  |
 | wosushi | をすし |  |  |
 | kiyohara hiro | 清原纮 |  | [Twitter](https://twitter.com/hiro_kiyohara) [pixiv](https://www.pixiv.net/users/22954) |
+| yakiuni | 烧きうに |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
