@@ -4791,6 +4791,7 @@ example:
 | dorothy | 多萝西 | 多萝西是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:多萝西)<br><br>[https://prts.wiki/w/多萝西](https://prts.wiki/w/多萝西) |
 | daki | 堕姬 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/堕姬) |
 | professor juniper | 红豆杉博士 |  | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/紅豆杉博士) |
+| hirato | 平户 | 所属作品: `p:kantai collection`<br><br>![](https://static.wikia.nocookie.net/kancolle/images/b/b4/Hirato_Full.png) | [萌娘百科](https://mzh.moegirl.org.cn/舰队Collection:平户) [Fandom](https://kancolle.fandom.com/wiki/Hirato) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
