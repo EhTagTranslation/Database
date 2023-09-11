@@ -3794,7 +3794,7 @@ example:
 | abe ryu | 悪部瑠 |  |  |
 | abe tsukumo | あべつくも |  |  |
 | abeno chaco | 阿倍野ちゃこ |  |  |
-| abi | あび |  |  |
+| abi | あび |  | [Twitter](https://twitter.com/abiabiabimu) [pixiv](https://www.pixiv.net/users/5653510) |
 | abio | あびお |  |  |
 | abmayo | abmayo |  |  |
 | abo | ABO |  |  |
