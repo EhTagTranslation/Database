@@ -4792,6 +4792,7 @@ example:
 | daki | 堕姬 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/堕姬) |
 | professor juniper | 红豆杉博士 |  | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/紅豆杉博士) |
 | hirato | 平户 | 所属作品: `p:kantai collection`<br><br>![](https://static.wikia.nocookie.net/kancolle/images/b/b4/Hirato_Full.png) | [萌娘百科](https://mzh.moegirl.org.cn/舰队Collection:平户) [Fandom](https://kancolle.fandom.com/wiki/Hirato) |
+| dancer of the boreal valley | 冷冽谷的舞娘 | 所属作品: `p:demons souls` | [Fandom](https://darksouls.fandom.com/wiki/Dancer_of_the_Boreal_Valley) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
