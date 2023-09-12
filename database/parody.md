@@ -491,7 +491,7 @@ example:
 | onechambara bikini samurai squad | 忌血的继承者 |  |  |
 | samurai warriors | 战国无双 |  |  |
 | dynasty warriors | 真·三国无双 |  |  |
-| demons souls | 恶魔之魂 |  |  |
+| demons souls | 恶魔之魂 | 《恶魔之魂》（日语：デモンズソウル，英语：Demon's Souls）是一款由日本电子游戏公司From Software开发的PlayStation 3平台独占动作角色扮演游戏。2009年2月在日本地区由索尼电脑娱乐负责发行。这是第一款由游戏制作人宫崎英高主导开发的魂系列游戏。 | [维基百科](https://zh.wikipedia.org/zh/惡魔靈魂) |
 | seiken densetsu | 圣剑传说 |  |  |
 | seiken densetsu 3 | 圣剑传说3 |  |  |
 | kore wa zombie desu ka | 这个是僵尸吗？ |  |  |
