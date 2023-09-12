@@ -4793,6 +4793,7 @@ example:
 | professor juniper | 红豆杉博士 |  | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/紅豆杉博士) |
 | hirato | 平户 | 所属作品: `p:kantai collection`<br><br>![](https://static.wikia.nocookie.net/kancolle/images/b/b4/Hirato_Full.png) | [萌娘百科](https://mzh.moegirl.org.cn/舰队Collection:平户) [Fandom](https://kancolle.fandom.com/wiki/Hirato) |
 | dancer of the boreal valley | 冷冽谷的舞娘 | 所属作品: `p:demons souls` | [Fandom](https://darksouls.fandom.com/wiki/Dancer_of_the_Boreal_Valley) |
+| ayumi momozono | 桃园步美 | 所属作品: `p:pretty cure`<br><br>女主角桃园爱（`c:cure peach`）的母亲。 | [Fandom](https://prettycure.fandom.com/wiki/Momozono_Ayumi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
