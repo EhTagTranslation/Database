@@ -4517,7 +4517,7 @@ example:
 | bonnie | ぼに～ | ![twitter](https://pbs.twimg.com/profile_images/1509843716894519296/QyCWOmjW_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`pony farm`所属画师 | [twitter](https://twitter.com/bonnie_3404) [pixiv](https://www.pixiv.net/users/711257) |
 | bono | ぼの |  |  |
 | bonske | ぼんすけ |  |  |
-| bonten | 梵典 |  |  |
+| bonten | 梵典 |  | [pixiv](https://www.pixiv.net/users/4067971) |
 | bontenkarasu | 梵天鴉 |  |  |
 | bonyuu cheese no natsu | 母乳ち～ずの夏 |  |  |
 | bonzakashi | 盆座 |  |  |
