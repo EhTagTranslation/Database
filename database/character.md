@@ -2133,7 +2133,7 @@ example:
 | cure mint | 薄荷天使 |  |  |
 | cure aqua | 水天使 |  |  |
 | milky rose | 妙奇露丝 |  |  |
-| cure peach | 桃天使 |  |  |
+| cure peach | 桃天使 |  | [萌娘百科](https://zh.moegirl.org.cn/桃园爱) |
 | cure berry | 莓天使 |  |  |
 | cure pine | 凤梨天使 |  |  |
 | eas | 伊丝 |  |  |
