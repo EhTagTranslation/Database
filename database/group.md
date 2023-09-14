@@ -3786,7 +3786,7 @@ example:
 | chou project | 超プロジェクト |  |  |
 | chou the taizenkutsu | 超THE体前屈 |  |  |
 | chou yutori kyouiku | 超ゆとり教育 |  |  |
-| choukyori dandou keisan | 長距離弾道計算 |  |  |
+| choukyori dandou keisan | 长距离弹道计算 |  |  |
 | choushizen kenkyuujo | 超自然研究所 |  |  |
 | christmas | クリスマス |  |  |
 | chroma of wall | 壁の彩度 |  |  |
