@@ -10324,7 +10324,7 @@ example:
 | sou | そう |  |  |
 | sou akiko | 奏亜希子 |  |  |
 | soubi | そーび |  |  |
-| souchou | 曹長 |  |  |
+| souchou | 曹长 |  |  |
 | souda gumi | 創田ぐみ |  |  |
 | souen hiro | 蒼鉛ヒロ |  |  |
 | souichi | そういち |  |  |
