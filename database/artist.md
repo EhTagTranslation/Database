@@ -550,7 +550,7 @@ example:
 | monorino | モノリノ |  |  |
 | tomohiro kai | 智弘カイ |  | [Twitter](https://twitter.com/kai_tomohiro) [pixiv](https://www.pixiv.net/users/2960453) |
 | kuribayashi chris | 栗林クリス |  |  |
-| nagai wataru | 長井わたる |  |  |
+| nagai wataru | 长井わたる |  |  |
 | suzuhane suzu | すずはねすず |  |  |
 | tanaka decilitre | 田中竕 |  |  |
 | yahiro | 黑小枝 | ![twitter](https://pbs.twimg.com/profile_images/1470154677761155077/aRysFz6L_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`raid slash`主笔画师，曾用笔名“八寻”。 | [twitter](https://twitter.com/koedaslash) [pixiv](https://www.pixiv.net/users/26109) |
