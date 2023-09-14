@@ -7683,7 +7683,7 @@ example:
 | masakichi | まさきち |  |  |
 | masama | まさma |  |  |
 | masamu | マサムー |  |  |
-| masanaga | 政長 |  |  |
+| masanaga | 政长 |  |  |
 | masara | まさら |  |  |
 | masaya ichika | 磨鞘一佳 |  |  |
 | masayoshi tomoko | まさよしともこ |  |  |
