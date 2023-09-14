@@ -8410,7 +8410,7 @@ example:
 | nagase yuuki | 长濑佑希 |  |  |
 | nagasode | 長そで |  |  |
 | nagata tsubasa | 永田翼 |  |  |
-| nagatsuki rio | 長月莉緒 |  |  |
+| nagatsuki rio | 长月莉绪 |  |  |
 | nagi mayuko | 凪まゆこ |  |  |
 | nagi wataru | 那木渡 |  |  |
 | nagisa manoa | 渚まのあ |  |  |
