@@ -5610,7 +5610,7 @@ example:
 | haryu | ハリュー |  |  |
 | hase yuu | はせ☆裕 |  |  |
 | hasebe kazunari | 长谷部一成 |  |  |
-| hasebe mitsuhiro | 長谷部臣丈 |  |  |
+| hasebe mitsuhiro | 长谷部臣丈 |  |  |
 | hasebe souutsu | はせべso鬱 |  |  |
 | hasegawa daisuke | ハセガワダイスケ |  |  |
 | hasegawa keita | はせがわけいた |  |  |
