@@ -5352,7 +5352,7 @@ example:
 | goban | ごばん |  |  |
 | goblin | ゴブリン |  |  |
 | goblinboy | kronn |  |  |
-| gochou | 伍長 |  |  |
+| gochou | 伍长 |  |  |
 | gody | Gody |  |  |
 | goggles | goggles |  |  |
 | gohan no otomo | ごはんのおとも |  |  |
