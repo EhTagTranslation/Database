@@ -8408,7 +8408,7 @@ example:
 | nagareboshi purin | 流れ星☆プリン |  |  |
 | nagaro | ながろ |  |  |
 | nagase yuuki | 长濑佑希 |  |  |
-| nagasode | 長そで |  |  |
+| nagasode | 长そで |  |  |
 | nagata tsubasa | 永田翼 |  |  |
 | nagatsuki rio | 长月莉绪 |  |  |
 | nagi mayuko | 凪まゆこ |  |  |
