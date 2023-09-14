@@ -9452,7 +9452,7 @@ example:
 | ren suru | れんする |  |  |
 | rena | れな |  |  |
 | renge | れんげ |  |  |
-| rentaichou | 連隊長 |  |  |
+| rentaichou | 连队长 |  |  |
 | rentan | 煉丹 |  |  |
 | rescar | れすか |  |  |
 | reso | れーそ |  |  |
