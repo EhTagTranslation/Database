@@ -8394,7 +8394,7 @@ example:
 | nadzuka | ナヅカ |  |  |
 | nae | なえ |  |  |
 | nagai kao | 永井佳緒 |  |  |
-| nagai momiage | 長井もみあげ |  |  |
+| nagai momiage | 长井もみあげ |  |  |
 | nagaikusa | 長い草 |  |  |
 | nagamatsu heizo | 永松平蔵 |  |  |
 | nagami mairu | 長海まいる |  |  |
