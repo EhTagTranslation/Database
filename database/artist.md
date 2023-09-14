@@ -944,7 +944,7 @@ example:
 | yamagara tasuku | 山雀たすく | 同人社团`konoshiro shinko`所属画师，负责作品原案、分镜。 | [twitter](https://twitter.com/yamagara_tasuku) [pixiv](https://www.pixiv.net/users/218545) |
 | zumikuni | ズミクニ |  |  |
 | juder | Juder |  |  |
-| nagase yutaka | 長瀬ゆたか |  | [Pixiv](https://www.pixiv.net/users/2585759) |
+| nagase yutaka | 长濑ゆたか |  | [pixiv](https://www.pixiv.net/users/2585759) |
 | yumeno owari | ユメのオワリ |  |  |
 | kamimiya kozue | 神宫梢 |  |  |
 | anzu | 庵ズ |  |  |
