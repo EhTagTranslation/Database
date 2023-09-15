@@ -12553,6 +12553,7 @@ example:
 | daruma jd | だるまJD |  |  |
 | gsus | GSUS |  |  |
 | gucchian | ぐっち庵 |  |  |
+| uekura ryona | 上倉RyoNA |  | [pixiv](https://www.pixiv.net/users/19738723) [Twitter](https://twitter.com/uekura) |
 
 <!--TEMPLATE:
 |  |  |  |  |
