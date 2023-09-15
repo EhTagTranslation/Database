@@ -12627,6 +12627,7 @@ example:
 | inu ha sakana | 犬は鱼 |  |  |
 | mizukani | みずかに |  |  |
 | one hit wonder | ONE HIT WONDER |  |  |
+| fuwafuwa palette | ふわふわパレット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
