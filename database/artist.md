@@ -12550,6 +12550,7 @@ example:
 | inui ayu | 犬井あゆ |  |  |
 | osanai shiina | 小山内しいな |  |  |
 | umino ryo | 海野りょう |  |  |
+| daruma jd | だるまJD |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
