@@ -4794,6 +4794,7 @@ example:
 | hirato | 平户 | 所属作品: `p:kantai collection`<br><br>![](https://static.wikia.nocookie.net/kancolle/images/b/b4/Hirato_Full.png) | [萌娘百科](https://mzh.moegirl.org.cn/舰队Collection:平户) [Fandom](https://kancolle.fandom.com/wiki/Hirato) |
 | dancer of the boreal valley | 冷冽谷的舞娘 | 所属作品: `p:demons souls` | [Fandom](https://darksouls.fandom.com/wiki/Dancer_of_the_Boreal_Valley) |
 | ayumi momozono | 桃园步美 | 所属作品: `p:pretty cure`<br><br>女主角桃园爱（`c:cure peach`）的母亲。 | [Fandom](https://prettycure.fandom.com/wiki/Momozono_Ayumi) |
+| shirayuki mishiro | 白雪深白 | 白雪深白（白雪（しらゆき） みしろ，Shirayuki Mishiro）是从2019年12月6日正式开始活跃在YouTube网站、佃煮海苔男推出的`vtuber`角色，隶属于Noripro（一期生；偶像组）。 | [萌娘百科](https://zh.moegirl.org.cn/白雪深白) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
