@@ -212,6 +212,7 @@ example:
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与`femdom`或`bdsm`配对。<br>![图](# "https://ehgt.org/82/d9/82d91ae4efdbe6d174c0460374b1e39dfd35a1cc-8023863-4135-6065-jpg_l.jpg") |  |
 | facial hair | 胡子 | 下巴，脸颊或上唇上有明显的毛发。 |  |
 | gasmask | 防毒面具 | 覆盖脸部的塑料面罩，包括呼吸管或过滤器。 |  |
+| halo | 光环 | 漂浮在人头顶上方的圆圈或圆盘，通常由光组成。有棱角的平面或圆环也符合条件。附着在人身上的光环也符合条件，但必须与头部保持一定的距离。不适用于并非受古典宗教光环启发的漂浮装饰。 |  |
 | headless | 无头 | 没有头的生物，不包括参与者被斩首的情况。 |  |
 | hood | 帽兜 | 帽兜是一种帽子，覆盖大部分头部与颈部，有时甚至覆盖脸部。帽兜主要覆盖头部的顶部与侧部。 |  |
 | horns | 角 | 人形头部的一个或多个突出的角。不应与`tiara`或`crown`等头饰混淆。 |  |
@@ -340,8 +341,10 @@ example:
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由`large insertions`或者`big penis`引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg") |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
+| ball-less shemale | 无蛋人妖 | 一名有阴茎的女性，目视确认没有阴道和睾丸。需要`shemale`标签。不应与`futanari`混淆。 |  |
 | chastity belt | 贞操带 | 带锁的衣物，旨在防止性交或`masturbation`。经常与`bdsm`配对。 |  |
 | crotch tattoo | 淫纹 | 下腹部到耻骨区域之间的任何明显的标记。<br>![图](# "https://ehgt.org/28/30/2830ab378b95300407159112d4dd88c5ac21e979-567012-1200-1600-jpg_l.jpg") |  |
+| full-packaged futanari | 有蛋扶她 | 具有阴茎的女性，并伴有可见的阴道和睾丸。需要`futanari`标签。不应与`shemale`混淆。 |  |
 | genital piercing | 性器穿孔 | 位于生殖器、会阴或肛门的穿孔。需要`piercing`，不应与`cock ring`混淆。 |  |
 | hairy | 多毛 | 引人注目的大量阴毛。不应与`hairy armpits`混淆。 |  |
 | mesuiki | 干高潮 | メスイキ，性行为使对象达到性高潮而对阴茎或阴道没有任何物理刺激。只要直到高潮的性行为不包含对阴茎或阴道的刺激，就可以使用此标签。 |  |
