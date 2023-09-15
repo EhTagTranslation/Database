@@ -12549,6 +12549,7 @@ example:
 | yakiuni | 烧きうに |  |  |
 | inui ayu | 犬井あゆ |  |  |
 | osanai shiina | 小山内しいな |  |  |
+| umino ryo | 海野りょう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
