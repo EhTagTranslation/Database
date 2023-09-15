@@ -2190,6 +2190,7 @@ example:
 | natsuiro kiseki | 夏色奇迹 |  |  |
 | slam dunk | 灌篮高手 | 《灌篮高手》是日本漫画家井上雄彦创作的以高中篮球为题材的励志型漫画，是《周刊少年Jump》全白金时代（20世纪90年代上半叶）三大台柱漫画之一，也是日本历史上销量最高的漫画之一。上世纪90年代，《灌篮高手》被引进中国，成为在中国影响最深远的动漫作品之一。 | [维基百科](https://zh.wikipedia.org/wiki/灌篮高手) [萌娘百科](https://zh.moegirl.org.cn/灌篮高手) |
 | tenshi souzou re-boot | 天使☆嚣嚣 RE-BOOT! | 《天使☆嚣嚣 RE-BOOT!》是由`yuzu soft`制作的Galgame，于2023年4月28日发售。 | [萌娘百科](https://zh.moegirl.org.cn/天使嚣嚣) [维基百科](https://zh.wikipedia.org/zh/天使☆囂囂_RE-BOOT!) [HP](https://www.yuzu-soft.com/products/ten_sz/) |
+| 2.5-jigen no yuuwaku | 2.5次元的诱惑 | 《2.5次元的诱惑》（日语：2.5次元の誘惑）是由桥本悠创作的一部漫画。 | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
