@@ -12628,6 +12628,7 @@ example:
 | mizukani | みずかに |  |  |
 | one hit wonder | ONE HIT WONDER |  |  |
 | fuwafuwa palette | ふわふわパレット |  |  |
+| marble dog | MARBLE DOG |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
