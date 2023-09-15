@@ -12630,6 +12630,7 @@ example:
 | fuwafuwa palette | ふわふわパレット |  |  |
 | marble dog | MARBLE DOG |  |  |
 | annbrellahouse | あんぶれらはうす |  |  |
+| citric acid1350 | クエン酸1750 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
