@@ -12631,6 +12631,7 @@ example:
 | marble dog | MARBLE DOG |  |  |
 | annbrellahouse | あんぶれらはうす |  |  |
 | citric acid1350 | クエン酸1750 |  |  |
+| tissue bako | ティッシュ箱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
