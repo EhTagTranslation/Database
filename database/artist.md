@@ -12552,6 +12552,7 @@ example:
 | umino ryo | 海野りょう |  |  |
 | daruma jd | だるまJD |  |  |
 | gsus | GSUS |  |  |
+| gucchian | ぐっち庵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
