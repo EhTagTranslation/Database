@@ -12629,6 +12629,7 @@ example:
 | one hit wonder | ONE HIT WONDER |  |  |
 | fuwafuwa palette | ふわふわパレット |  |  |
 | marble dog | MARBLE DOG |  |  |
+| annbrellahouse | あんぶれらはうす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
