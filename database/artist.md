@@ -12556,6 +12556,7 @@ example:
 | uekura ryona | 上倉RyoNA |  | [pixiv](https://www.pixiv.net/users/19738723) [Twitter](https://twitter.com/uekura) |
 | kusothumu | くそつむ |  |  |
 | ashitaba mofu | 明日葉もふ |  |  |
+| yoshitomi akihito | 吉富昭仁 |  | [Twitter](https://twitter.com/yoshi_akihito) |
 
 <!--TEMPLATE:
 |  |  |  |  |
