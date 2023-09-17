@@ -337,7 +337,7 @@ example:
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
-| pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于`impregnation`。<br>![图](# "https://ehgt.org/ea/55/ea558b8de582f8ede8f1fcc3d5dd31b41b52eabf-176359-800-600-jpg_l.jpg")![图](# "https://ehgt.org/8f/76/8f76ebc9dc6dcbc8660da6965caa98d66b0208e9-158245-800-600-jpg_l.jpg")![图](# "https://ehgt.org/90/8b/908bcf9f0614186e584dea400a070bac3fdfd65d-140098-800-600-jpg_l.jpg")![图](# "https://ehgt.org/03/8f/038fe08d0775c523bf865cfaf468f8c73b14d81b-556345-800-600-png_l.jpg")![图](# "https://ehgt.org/57/47/57470b45c00f318c065da2730e81cb18eb2f4fd3-535347-800-600-png_l.jpg")![图](# "https://ehgt.org/b7/69/b769ae1a657918ea041c9e6420de6b66be3b709a-386664-800-600-png_l.jpg")![图](# "https://ehgt.org/65/01/6501de93f3cb8ca6aac86d0c082c37b235346744-168878-713-1000-jpg_l.jpg") |  |
+| pregnant | 怀孕 | 涉及明显怀孕的参与者的性活动或裸体。也允许在非色情画廊中用于视觉上怀孕的人。记住存在规则(presence rule)。如果仅在故事的最后几页显示某人怀孕，则不应对其进行标记，也不应使用它来代替`impregnation`。<br>![图](# "https://ehgt.org/ea/55/ea558b8de582f8ede8f1fcc3d5dd31b41b52eabf-176359-800-600-jpg_l.jpg")![图](# "https://ehgt.org/8f/76/8f76ebc9dc6dcbc8660da6965caa98d66b0208e9-158245-800-600-jpg_l.jpg")![图](# "https://ehgt.org/90/8b/908bcf9f0614186e584dea400a070bac3fdfd65d-140098-800-600-jpg_l.jpg")![图](# "https://ehgt.org/03/8f/038fe08d0775c523bf865cfaf468f8c73b14d81b-556345-800-600-png_l.jpg")![图](# "https://ehgt.org/57/47/57470b45c00f318c065da2730e81cb18eb2f4fd3-535347-800-600-png_l.jpg")![图](# "https://ehgt.org/b7/69/b769ae1a657918ea041c9e6420de6b66be3b709a-386664-800-600-png_l.jpg")![图](# "https://ehgt.org/65/01/6501de93f3cb8ca6aac86d0c082c37b235346744-168878-713-1000-jpg_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由`large insertions`或者`big penis`引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/1b/e8/1be8872a68cc6294d8eba5a0527b410dd96acd9d-6693437-2325-3300-png_l.jpg") |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
@@ -552,7 +552,7 @@ example:
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
 | underwater | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
 |  | === 液体 > 体液 === |  |  |
-| blood | 流血 | 大量流血（如从身体伤口）。不用为`guro`添加此标签。不用于`defloration`导致的流血。 |  |
+| blood | 血液 | 对大量血液（如从身体伤口流出的）的描绘。不用为`guro`添加此标签。同一画廊中不是`guro`的单独实例可以适用。不用于`defloration`导致的流血。画廊只需包含一张此类性质的图片即可获得此标签。 |  |
 | squirting | 潮吹 | 女性大量射出体液。<br>![图](# "https://ehgt.org/d5/ab/d5ab335ef940c63352b62de195efd31371d91716-6571126-2894-4093-jpg_l.jpg") |  |
 |  | ==== 液体 > 体液 > 精液 ==== |  |  |
 | apparel bukkake | 穿衣颜射 | 精液覆盖或装满穿着的衣服或其他配件。穿着的性用具（如`condom`、绳子等）不算。 |  |
@@ -565,7 +565,7 @@ example:
 | menstruation | 经血 | 从阴道流出血液（作为女性月经周期的副产物，不是由创伤造成的）。 |  |
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。<br>![图](# "https://ehgt.org/2d/ac/2dacb99d48fbd5b5bbb53a3d3cb25d899c954149-108808-600-603-jpg_l.jpg")![图](# "https://ehgt.org/9c/c0/9cc05cec719eec0c560da7f39899d478512dbee0-150550-566-800-jpg_l.jpg") |  |
-| scat | 排便💩 | 是`coprophagia`的前置标签。<br>![图](# "https://ehgt.org/94/6f/946feec6f51fbc4ef01727fed88fddac5f42783e-2597644-1968-3549-jpg_l.jpg") |  |
+| scat | 粪便💩 | 任何对粪便的描绘。是`coprophagia`的前置标签。画廊只需包含一张此类性质的图片即可获得此标签。<br>![图](# "https://ehgt.org/94/6f/946feec6f51fbc4ef01727fed88fddac5f42783e-2597644-1968-3549-jpg_l.jpg") |  |
 | scat insertion | 粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
 | sweating | 出汗 | 可见的出汗。不应与`bukkake`或`oil`混淆。 |  |
 | urination | 排尿 | 尿尿。是`piss drinking`的前置标签。<br>![图](# "https://ehgt.org/90/72/90728784008af87a4ef9cd305e1400f8dc9457ef-16284058-4059-2852-png_l.jpg")![图](# "https://ehgt.org/9d/a4/9da4a6b91d3ab5caece51557dad839a971322695-548154-800-600-png_l.jpg")![图](# "https://ehgt.org/f8/88/f8885bc717a3995e01727c070f167acdd047e872-542192-800-600-png_l.jpg")![图](# "https://ehgt.org/07/eb/07eb17f9d7a90e4e0885869314ddb272acbf5608-561496-1126-1600-jpg_l.jpg")![图](# "https://ehgt.org/32/df/32dff92eb3fd29f67c411de9307f2a9e35bd3545-447694-640-480-png_l.jpg") |  |
