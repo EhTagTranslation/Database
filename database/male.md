@@ -326,7 +326,7 @@ example:
 |  | == 躯干 == |  |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
-| pregnant | 怀孕 | 与已经怀孕的角色性交。不用于仅出现怀孕角色的情况，也不用于`impregnation`。<br>![怀孕的男孩子](https://ehgt.org/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](# "https://ehgt.org/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg")![图](# "https://ehgt.org/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg") |  |
+| pregnant | 怀孕 | 涉及明显怀孕的参与者的性活动或裸体。也允许在非色情画廊中用于视觉上怀孕的人。记住存在规则(presence rule)。如果仅在故事的最后几页显示某人怀孕，则不应对其进行标记，也不应使用它来代替`impregnation`。<br>![怀孕的男孩子](https://ehgt.org/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](# "https://ehgt.org/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg")![图](# "https://ehgt.org/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由`large insertions`或者`big penis`引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg") |  |
 |  | == 下半身 == |  |  |
 |  | === 下半身 > 阴部 === |  |  |
@@ -527,7 +527,7 @@ example:
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
 | underwater | 水下 | 在性期间大部分或完全浸没在液体中。 |  |
 |  | === 液体 > 体液 === |  |  |
-| blood | 流血 | 大量流血（如从身体伤口）。不用为`guro`添加此标签。不用于`defloration`导致的流血。 |  |
+| blood | 血液 | 对大量血液（如从身体伤口流出的）的描绘。不用为`guro`添加此标签。同一画廊中不是`guro`的单独实例可以适用。不用于`defloration`导致的流血。画廊只需包含一张此类性质的图片即可获得此标签。 |  |
 |  | ==== 液体 > 体液 > 精液 ==== |  |  |
 | apparel bukkake | 穿衣颜射 | 精液覆盖或装满穿着的衣服或其他配件。穿着的性用具（如`condom`、绳子等）不算。 |  |
 | bukkake | 颜射 | 性主角被精液覆盖，一般不止一个人射精。不局限于性伴侣的脸上，而是在身体的任何部位。<br>ぶっかけ<br>![图](# "https://ehgt.org/b2/79/b279394bc20f4c161248599e3072235bfcfe0133-532335-550-700-png_250.jpg")![图](# "https://ehgt.org/dc/7c/dc7c5ecdecf95fae377d9d9ca3c24af20a215bc4-466128-1510-1200-jpg_250.jpg")![图](# "https://ehgt.org/db/a0/dba0bc32cfd2baa198d3f2a5e3631153c8ccccee-174808-800-600-jpg_250.jpg")![图](# "https://ehgt.org/d8/93/d893c15c583d29d1ba93efe33285591355d76933-131491-700-870-jpg_l.jpg") |  |
@@ -537,7 +537,7 @@ example:
 | internal urination | 内部排尿 | 另一位参与者的尿液在除嘴外的任何孔口内徘徊。通常包括之后释放尿液的过程。 |  |
 | omorashi | 漏尿 | 一个尿急的角色失禁或接近失禁。 |  |
 | public use | 肉便器 | 一个人保持静止，成为公共性交对象，往往被多个性对象同时性交。经常涉及到被用作厕所/小便池，所以被称为肉便器。可能包括或导致`body writing`。 |  |
-| scat | 排便💩 | 是`coprophagia`的前置标签。 |  |
+| scat | 粪便💩 | 任何对粪便的描绘。是`coprophagia`的前置标签。画廊只需包含一张此类性质的图片即可获得此标签。 |  |
 |  | scat insertion粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
 | sweating | 出汗 | 可见的出汗。不应与`bukkake`或`oil`混淆。 |  |
 | urination | 排尿 | 尿尿。是`piss drinking`的前置标签。 |  |
