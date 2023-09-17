@@ -2191,6 +2191,7 @@ example:
 | slam dunk | 灌篮高手 | 《灌篮高手》是日本漫画家井上雄彦创作的以高中篮球为题材的励志型漫画，是《周刊少年Jump》全白金时代（20世纪90年代上半叶）三大台柱漫画之一，也是日本历史上销量最高的漫画之一。上世纪90年代，《灌篮高手》被引进中国，成为在中国影响最深远的动漫作品之一。 | [维基百科](https://zh.wikipedia.org/wiki/灌篮高手) [萌娘百科](https://zh.moegirl.org.cn/灌篮高手) |
 | tenshi souzou re-boot | 天使☆嚣嚣 RE-BOOT! | 《天使☆嚣嚣 RE-BOOT!》是由`yuzu soft`制作的Galgame，于2023年4月28日发售。 | [萌娘百科](https://zh.moegirl.org.cn/天使嚣嚣) [维基百科](https://zh.wikipedia.org/zh/天使☆囂囂_RE-BOOT!) [HP](https://www.yuzu-soft.com/products/ten_sz/) |
 | 2.5-jigen no yuuwaku | 2.5次元的诱惑 | 《2.5次元的诱惑》（日语：2.5次元の誘惑）是由桥本悠创作的一部漫画。 | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
+| golden boy | 黄金小子 | ![黄金小子](https://upload.wikimedia.org/wikipedia/en/a/ac/Golden_Boy_volume_1_cover_jap.png)<br>《黄金小子》是日本漫画家江川达也创作的日本漫画作品，于集英社发行《Super Jump》1992年至1997年连载。《黄金小子II》则在2010年至2011年间短暂连载。该作品后曾改编为OVA动画版，并由北久保弘之执导，于1995年10月27日-1996年6月28日发行，全6话。<br>一名25岁东京大学法学部的中辍生大江锦太郎，在辍学后开始从事各种职业来进行人生的“学习”，并与每个美少女邂逅的搞笑故事。 | [维基百科](https://zh.wikipedia.org/wiki/黃金小子) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
