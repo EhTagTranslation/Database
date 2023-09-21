@@ -4797,6 +4797,7 @@ example:
 | shirayuki mishiro | 白雪深白 | 白雪深白（白雪（しらゆき） みしろ，Shirayuki Mishiro）是从2019年12月6日正式开始活跃在YouTube网站、佃煮海苔男推出的`vtuber`角色，隶属于Noripro（一期生；偶像组）。 | [萌娘百科](https://zh.moegirl.org.cn/白雪深白) |
 | killer bee | 奇拉比 | ![奇拉比](https://static.wikia.nocookie.net/eroninja/images/5/55/Killer.Bee.full.589408.jpg/revision/latest?cb=20180119130934)<br>奇拉比是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。<br>八尾牛鬼的人柱力，完美的八尾人柱力。<br>可以熟练操作尾兽，被称作「最完美的人柱力」。<br>背持七把短剑，能使「八刀流」。<br>口头禅是「～バカヤロー！コノヤロー！」。<br>爱好说唱但不怎么样。<br>四代目雷影的搭档与义弟。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/奇拉比)<br>[fandom](https://naruto.fandom.com/wiki/Killer_B) |
 | jiraiya | 自来也 |  |  |
+| ares | 阿瑞斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
