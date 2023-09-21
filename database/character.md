@@ -4799,6 +4799,7 @@ example:
 | jiraiya | 自来也 |  |  |
 | ares | 阿瑞斯 |  |  |
 | hippolyta | 希波吕忒 |  |  |
+| ms. marvel | 惊奇女士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
