@@ -12558,6 +12558,7 @@ example:
 | ashitaba mofu | 明日葉もふ |  |  |
 | yoshitomi akihito | 吉富昭仁 |  | [Twitter](https://twitter.com/yoshi_akihito) |
 | lestart | lestart |  | [pixiv](https://www.pixiv.net/users/17919012) |
+| shiono | しおの |  | [Twitter](https://twitter.com/shionoo0303) [pixiv](https://www.pixiv.net/users/32918932) |
 
 <!--TEMPLATE:
 |  |  |  |  |
