@@ -12633,6 +12633,7 @@ example:
 | citric acid1350 | クエン酸1750 |  |  |
 | tissue bako | ティッシュ箱 |  |  |
 | mushoku muho | 無色ムホ |  | [pixiv](https://www.pixiv.net/users/43494779) |
+| kushidatelier | クシダトリエ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
