@@ -4803,6 +4803,7 @@ example:
 | io hasekura | 支仓伊绪 |  |  |
 | tuscaloosa | 塔斯卡卢萨 | 塔斯卡卢萨号巡洋舰（USS Tuscaloosa，CA-37）是美国海军新奥尔良级巡洋舰的四号舰。 | [艦これ- 攻略 Wiki-Tuscaloosa](https://wikiwiki.jp/kancolle/Tuscaloosa) |
 | heywood l.e. | 海伍德·L·E | 海伍德·L·爱德华兹号驱逐舰（USS Heywood L.Edwards，DD-663）属于美国海军的弗莱彻级驱逐舰子型舰。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Heywood%20L.E.) |
+| ranger | 突击者 | 突击者号（USS Ranger，CV-4）为美国海军第一艘以航空母舰为目的而设计并制造的军舰，也是美国海军在航母开发黎明期的尝试作品。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Ranger) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
