@@ -6536,7 +6536,6 @@ example:
 | kanano ayu | 奏乃あゆ |  |  |
 | kanaru | かなる |  |  |
 | kanbayashi chico | 神林ちこ |  |  |
-| kanbayashi chiko | 神林ちこ |  |  |
 | kanbayashi makoto | 上林眞 |  |  |
 | kanbe | kanbe |  |  |
 | kanchela | Kanchela |  |  |

@@ -3648,7 +3648,7 @@ example:
 | chaoizum | ちゃおいずむ |  |  |
 | chaos shoujo no mise | カオス少女の店 |  |  |
 | chaos-graphixxx | chaos-graphixxx |  |  |
-| chaos-r | CHAOS-R |  |  |
+| chaos-l | CHAOS-L |  |  |
 | chaotic otome studio | カオティック乙女工房 |  |  |
 | chaotic wolf | Chaotic Wolf |  |  |
 | chapedizo | ちゃぺでぃぞ |  |  |
