@@ -4801,6 +4801,7 @@ example:
 | hippolyta | 希波吕忒 |  |  |
 | ms. marvel | 惊奇女士 |  |  |
 | io hasekura | 支仓伊绪 |  |  |
+| tuscaloosa | 塔斯卡卢萨 | 塔斯卡卢萨号巡洋舰（USS Tuscaloosa，CA-37）是美国海军新奥尔良级巡洋舰的四号舰。 | [https://wikiwiki.jp/kancolle/Tuscaloosa](https://wikiwiki.jp/kancolle/Tuscaloosa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
