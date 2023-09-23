@@ -4806,6 +4806,7 @@ example:
 | ranger | 突击者 | 突击者号（USS Ranger，CV-4）为美国海军第一艘以航空母舰为目的而设计并制造的军舰，也是美国海军在航母开发黎明期的尝试作品。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Ranger) |
 | janus | 雅努斯 | HMS Janus是英国皇家海军的J级驱逐舰（J-class destroyer）5号舰，舰名来自古代罗马神话中的双面门神Janus，该舰是第六艘继承该舰名的皇家海军舰艇。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Janus)<br>[舰队Collection:雅努斯](https://zh.moegirl.org.cn/zh-hant/舰队Collection:雅努斯) |
 | ornn | 奥恩 | 英雄联盟角色 | [https://baike.baidu.com/item/山隐之焰/22069139?fr=ge\_ala](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
+| chong yue | 重岳 | 重岳是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
