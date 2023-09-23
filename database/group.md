@@ -12637,6 +12637,7 @@ example:
 | shiono room | SHIONO ROOM |  |  |
 | nanao heavy industries | 七尾重工 |  |  |
 | hoshoku shoujo | 捕食少女 |  |  |
+| mirakoku | みら国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
