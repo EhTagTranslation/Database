@@ -480,6 +480,7 @@ example:
 | straitjacket | 拘束衣 | 一种长袖的躯干服装，可以超越穿用者的手臂，并且可以绑在一起以限制其运动。需要`bondage`标签。 |  |
 | sundress | 夏装 | 一个轻量级织物的便服，通常宽松。 |  |
 | swimsuit | 泳装 | 参加游泳时穿的特殊衣服。是`bikini`的前置标签。不应与`leotard`或`school swimsuit`混淆。<br>![图](# "https://ehgt.org/c2/03/c20352c3eef33ff74d0db8b8e8ac595b2f789c94-134060-640-945-jpg_l.jpg")![图](# "https://ehgt.org/d8/45/d8459cceb759ec855720320c3f1d7bac2a98529c-864028-1280-720-png_l.jpg")![图](https://ehgt.org/47/3e/473e9e5d169a5db1846a95c123cf21ea386daa6c-580471-800-600-png_l.jpg) |  |
+| tabi socks | 足袋 | 足袋是在大脚趾分开以方便穿人字带木屐的日式短布袜，通常使用没有弹性的棉布制成，长度高到脚踝位置，颜色通常为白色或黑色。 | [萌娘百科](https://zh.moegirl.org.cn/日式短布袜) |
 | thigh high boots | 高筒靴 | 高过膝盖的靴子。不应与`stockings`混淆。<br>![图](# "https://ehgt.org/6c/db/6cdb1c5be83a39c10f567bdd9ff307294d3fa18d-1150727-1024-1501-jpg_l.jpg")![图](# "https://ehgt.org/0d/a2/0da2f8320dc2fb0b8869f0a59a9057678dfba318-3501954-2119-3000-jpg_l.jpg") |  |
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与`crown`混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
 | tights | 厚连裤袜 | 西方将各种材质的裤袜都称为`tights`，40D 以下的薄裤袜才称为`pantyhose`。<br>![图](https://ehgt.org/12/f2/12f2ce7b89fd25e7ee6dd72ff833ca4efe3623b9-131266-811-1147-jpg_l.jpg) |  |
