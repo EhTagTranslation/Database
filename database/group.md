@@ -12638,6 +12638,7 @@ example:
 | nanao heavy industries | 七尾重工 |  |  |
 | hoshoku shoujo | 捕食少女 |  |  |
 | mirakoku | みら国 |  |  |
+| usonoki | ウソノキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
