@@ -12635,6 +12635,7 @@ example:
 | mushoku muho | 無色ムホ |  | [pixiv](https://www.pixiv.net/users/43494779) |
 | kushidatelier | クシダトリエ |  |  |
 | shiono room | SHIONO ROOM |  |  |
+| nanao heavy industries | 七尾重工 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
