@@ -12639,6 +12639,7 @@ example:
 | hoshoku shoujo | 捕食少女 |  |  |
 | mirakoku | みら国 |  |  |
 | usonoki | ウソノキ |  |  |
+| tuyuiri kakinotane | 梅雨入り柿の種 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
