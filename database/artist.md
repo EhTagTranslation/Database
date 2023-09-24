@@ -12561,6 +12561,7 @@ example:
 | semino hazuki | セミノハヅキ |  | [pixiv](https://www.pixiv.net/users/69545118) [Twitter](https://twitter.com/33semino33) |
 | yasumi mirakichi | やすみみらきち |  |  |
 | tsukunendo | つくねんど |  |  |
+| okachimachi tamachi | 御徒町たまち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
