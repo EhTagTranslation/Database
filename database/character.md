@@ -4808,6 +4808,7 @@ example:
 | ornn | 奥恩 | 英雄联盟角色 | [https://baike.baidu.com/item/山隐之焰/22069139?fr=ge\_ala](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
 | chong yue | 重岳 | 重岳是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 | ethan | 伊桑 | 伊桑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
+| ren yamashiro | 山城恋 | 山城戀是由タカヒロ原作、竹村洋平作畫的漫畫《魔都精兵的奴隸》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hk/山城恋) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
