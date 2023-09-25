@@ -2205,6 +2205,7 @@ example:
 | eve burst error | EVE burst error |  | [维基百科（英语）](https://en.wikipedia.org/wiki/EVE_Burst_Error) |
 | mahou shoujo tokushusen asuka | 魔法少女特殊战明日香 |  | [萌娘百科](https://zh.moegirl.org.cn/魔法少女特殊战明日香) [维基百科](https://zh.wikipedia.org/wiki/魔法少女特殊戰明日香) |
 | ponyo | 崖上的波妞 |  | [萌娘百科](https://zh.moegirl.org.cn/崖上的波妞) [https://baike.baidu.com/item/崖上的波妞/832725](https://baike.baidu.com/item/崖上的波妞/832725) |
+| lv1 maou to one room yuusha | LV1魔王与独居废勇者 | 勇者麦克斯历尽艰辛打倒了魔王，然而魔王就算死过一次仍能苏醒。于是，魔王为了亲手打倒勇者，沉睡了十年就急忙苏醒过来…！在这个十年间已极速繁荣发展了的人类社会里，腐烂了的勇者和幼女魔王将会…！ | [萌娘百科](https://zh.moegirl.org.cn/LV1魔王与独居废勇者) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
