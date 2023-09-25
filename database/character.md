@@ -4814,6 +4814,7 @@ example:
 | sairi mikuni | 三国彩里 | 所属作品: `p:tenshi souzou re-boot` |  |
 | kaede kinoshita | 木下枫 | 所属作品: `p:tenshi souzou re-boot` |  |
 | chika shiraishi | 白石千花 | 所属作品: `p:tenshi souzou re-boot` |  |
+| tomoya mashiro | 真白友也 | 真白友也是《`p:ensemble stars`》里的人物之一。就读梦之咲学院一年A班，参加表演社，同时也是偶像团体“Ra✽bits”的成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/真白友也) [Fandom](https://character.fandom.com/zh/wiki/真白友也) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
