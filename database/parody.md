@@ -2207,7 +2207,7 @@ example:
 | ponyo | 崖上的波妞 |  | [萌娘百科](https://zh.moegirl.org.cn/崖上的波妞) [https://baike.baidu.com/item/崖上的波妞/832725](https://baike.baidu.com/item/崖上的波妞/832725) |
 | lv1 maou to one room yuusha | LV1魔王与独居废勇者 | 勇者麦克斯历尽艰辛打倒了魔王，然而魔王就算死过一次仍能苏醒。于是，魔王为了亲手打倒勇者，沉睡了十年就急忙苏醒过来…！在这个十年间已极速繁荣发展了的人类社会里，腐烂了的勇者和幼女魔王将会…！ | [萌娘百科](https://zh.moegirl.org.cn/LV1魔王与独居废勇者) |
 | love live hasunosora jogakuin school idol club | 莲之空女学院学园偶像俱乐部 | 莲之空女学院学园偶像俱乐部（日语：蓮ノ空女学院スクールアイドルクラブ；英语：Hasu No Sora Jogakuin School Idol Club）是2022年2月公布的LoveLive!系列的虚拟学园偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/莲之空女学院学园偶像俱乐部) [维基百科](https://zh.wikipedia.org/wiki/蓮之空女學院學園偶像俱樂部) |
-| little lord fauntleroy | 小公子西迪 | 《小公子西迪》（日语：小公子セディ）是英国作家弗朗西斯·霍奇森·伯内特所写的小说《小勋爵》改编的日本电视动画。是日本动画公司制作的世界名作剧场系列第14部作品。于1988年1月10日～1988年12月25日播放，全43集。 | [萌娘百科](https://zh.moegirl.org.cn/小公子西迪) [维基百科](https://zh.wikipedia.org/wiki/小公子西迪) |
+| little lord fauntleroy | 小公子西迪 | 《小公子西迪》（日语：小公子セディ）是英国作家弗朗西斯·霍奇森·伯内特所写的小说《小勋爵》改编的日本电视动画。是日本动画公司制作的`p:world masterpiece theater`第14部作品。于1988年1月10日～1988年12月25日播放，全43集。 | [萌娘百科](https://zh.moegirl.org.cn/小公子西迪) [维基百科](https://zh.wikipedia.org/wiki/小公子西迪) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
