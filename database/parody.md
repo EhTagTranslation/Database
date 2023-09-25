@@ -773,7 +773,7 @@ example:
 | boruto | 博人传 |  |  |
 | kuromukuro | 黑骸 |  |  |
 | minecraft | 我的世界 | 《我的世界》（英语：Minecraft）是微软旗下Mojang Studios开发的沙盒游戏。游戏中，玩家可以在一个3D世界内与方块进行交互。游戏中的特色功能包括探索世界、采集资源、合成物品及生存冒险等。《我的世界》有多种模式：生存模式中玩家必须维持生命并采集资源以打造自己的世界；创造模式中玩家拥有无限的资源并可自由地创作建筑；而冒险模式中玩家可在其他玩家定制的地图中游玩。 | [官方网站](https://www.minecraft.net/zh-hans) [维基百科](https://zh.wikipedia.org/wiki/我的世界) [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) |
-| world masterpiece theater | 世界名作剧场 |  |  |
+| world masterpiece theater | 世界名作剧场 | 《世界名作剧场》是[日本动画公司](https://zh.moegirl.org.cn/日本动画公司)所制作的日本电视动画系列，内容大多取材自世界各地的儿童文学/青少年文学名著。已有26部作品。首播时间横跨1975年至1997年，富士电视网每周日19:30～20:00首播；期间大约每年一部。<br><br>2007年，日本动画公司决定重开《世界名作剧场》，重开的第一部作品是改编自维克多·雨果名著《悲惨世界》的《悲惨世界 少女珂赛特》，最新的一部作品是于2009年播出的《你好安妮》，之后，《世界名作剧场》又处于中断状态。 | [萌娘百科](https://zh.moegirl.org.cn/世界名作剧场) |
 | the adventures of tom sawyer | 汤姆·索亚历险记 |  |  |
 | les miserables shoujo cosette | 悲惨世界 少女珂赛特 |  |  |
 | lucy of the southern rainbow | 南方彩虹的露西 |  |  |
