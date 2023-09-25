@@ -1764,7 +1764,7 @@ example:
 | haraheridou | はらヘリ堂 |  |  |
 | hitsuji kikaku | ヒツジ企画 |  |  |
 | hiyashi yaki teishoku | 冷やし焼き定食 |  |  |
-| burittohiroba | burittohiroba |  |  |
+| burittohiroba | burittohiroba | `a:ko-yahu`所属社团 | [Twitter](https://twitter.com/burittohiroba) [pixiv](https://www.pixiv.net/users/3424578) |
 | pypyworks | PYPYworks |  |  |
 | lilith lauda laboratory | リリスラウダ研究所 |  |  |
 | slime kikaku | スライム企画 |  |  |
