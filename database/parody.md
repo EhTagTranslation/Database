@@ -2204,6 +2204,7 @@ example:
 | jewelpet sunshine | 宝石宠物 Sunshine | 是《`p:jewelpet tinkle`》的后作，但是，故事中的舞台背景设定与前作并没有关连，是以独立和不同的世界观组成。 | [维基百科](https://zh.wikipedia.org/wiki/寶石寵物_Sunshine) |
 | eve burst error | EVE burst error |  | [维基百科（英语）](https://en.wikipedia.org/wiki/EVE_Burst_Error) |
 | mahou shoujo tokushusen asuka | 魔法少女特殊战明日香 |  | [萌娘百科](https://zh.moegirl.org.cn/魔法少女特殊战明日香) [维基百科](https://zh.wikipedia.org/wiki/魔法少女特殊戰明日香) |
+| ponyo | 崖上的波妞 |  | [萌娘百科](https://zh.moegirl.org.cn/崖上的波妞) [https://baike.baidu.com/item/崖上的波妞/832725](https://baike.baidu.com/item/崖上的波妞/832725) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
