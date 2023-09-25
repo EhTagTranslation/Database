@@ -2203,6 +2203,7 @@ example:
 | jewelpet | 宝石宠物 | 《宝石宠物》（日语：ジュエルペット）是日本的一部电视动画系列，改编自三丽鸥和世嘉玩具共同开发的角色玩具品牌，主要讲述了拥有宝石般眼睛的兔子和熊等可爱的“宝石宠物”们和人类朋友之间故事。 动画于2009年4月5日在大阪电视台、东京电视台全系列播出。 | [萌娘百科](https://zh.moegirl.org.cn/zh/宝石宠物系列) |
 | jewelpet sunshine | 宝石宠物 Sunshine | 是《`p:jewelpet tinkle`》的后作，但是，故事中的舞台背景设定与前作并没有关连，是以独立和不同的世界观组成。 | [维基百科](https://zh.wikipedia.org/wiki/寶石寵物_Sunshine) |
 | eve burst error | EVE burst error |  | [维基百科（英语）](https://en.wikipedia.org/wiki/EVE_Burst_Error) |
+| mahou shoujo tokushusen asuka | 魔法少女特殊战明日香 |  | [萌娘百科](https://zh.moegirl.org.cn/魔法少女特殊战明日香) [维基百科](https://zh.wikipedia.org/wiki/魔法少女特殊戰明日香) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
