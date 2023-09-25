@@ -12562,6 +12562,7 @@ example:
 | yasumi mirakichi | やすみみらきち |  |  |
 | tsukunendo | つくねんど |  |  |
 | okachimachi tamachi | 御徒町たまち |  |  |
+| jmg | JMG |  | [pixiv](https://www.pixiv.net/users/12636439) |
 
 <!--TEMPLATE:
 |  |  |  |  |
