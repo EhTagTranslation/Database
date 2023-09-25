@@ -4810,6 +4810,7 @@ example:
 | ethan | 伊桑 | 伊桑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
 | ren yamashiro | 山城恋 | 山城恋是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/山城恋) |
 | sena himuro | 冰室濑名 | 所属作品: `p:blue archive` |  |
+| amane tanikaze | 谷风天音 | 所属作品: `p:tenshi souzou re-boot`<br><br>主人公的妹妹。和主人公一样，前世是异世界的魔族。<br><br>![](https://t.vndb.org/ch/30/142730.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谷风天音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
