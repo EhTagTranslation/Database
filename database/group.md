@@ -12641,6 +12641,7 @@ example:
 | usonoki | ウソノキ |  |  |
 | tuyuiri kakinotane | 梅雨入り柿の種 |  |  |
 | ueshita | UESHITA |  |  |
+| minmintaro | みんみんたろう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
