@@ -12640,6 +12640,7 @@ example:
 | mirakoku | みら国 |  |  |
 | usonoki | ウソノキ |  |  |
 | tuyuiri kakinotane | 梅雨入り柿の種 |  |  |
+| ueshita | UESHITA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
