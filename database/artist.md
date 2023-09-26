@@ -12563,6 +12563,7 @@ example:
 | tsukunendo | つくねんど |  |  |
 | okachimachi tamachi | 御徒町たまち |  |  |
 | jmg | JMG |  | [pixiv](https://www.pixiv.net/users/12636439) |
+| ueshita | うえした |  | [Twitter](https://twitter.com/ueshita723) [pixiv](https://www.pixiv.net/users/90154) |
 
 <!--TEMPLATE:
 |  |  |  |  |
