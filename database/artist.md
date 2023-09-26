@@ -12564,6 +12564,7 @@ example:
 | okachimachi tamachi | 御徒町たまち |  |  |
 | jmg | JMG |  | [pixiv](https://www.pixiv.net/users/12636439) |
 | ueshita | うえした |  | [Twitter](https://twitter.com/ueshita723) [pixiv](https://www.pixiv.net/users/90154) |
+| mintaro | みんたろう |  | [Twitter](https://twitter.com/min_taroo) [pixiv](https://www.pixiv.net/users/4147718) |
 
 <!--TEMPLATE:
 |  |  |  |  |
