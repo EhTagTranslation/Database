@@ -2335,7 +2335,7 @@ example:
 | kannaduki kanna | 神無月かんな |  |  |
 | endou okito | 袁藤沖人 |  | [Twitter](https://twitter.com/organ70) [个人网站](http://www.okito.jp) |
 | messy | メッシィ |  |  |
-| aomushi | あおむし |  |  |
+| aomushi | あおむし |  | [pixiv](https://www.pixiv.net/users/173199) |
 | zheng | Zheng |  |  |
 | yukimoto shuuji | 雪本愁二 |  |  |
 | omaru gyuunyuu | 牛乳うまお |  |  |
