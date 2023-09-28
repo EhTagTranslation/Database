@@ -4818,6 +4818,7 @@ example:
 | constanze amalie von braunschbank-albrechtsberger | 康斯坦策·阿玛莉·冯·布朗施班克·阿尔布雷希茨贝格 | 所属作品: `p:little witch academia`<br><br>问题儿童三人组之一，身材矮小的德国少女。机械狂，经常违反校规改造机器，并且偷偷贩售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/康斯坦策·阿玛莉·冯·布朗施班克·阿尔布雷希茨贝格) |
 | kaori kyan | 喜屋武香织 |  |  |
 | janna | 迦娜 | 迦恩·阿蕾姆（简称迦娜）是网络游戏《英雄联盟》登场英雄。 | [风暴女神-迦娜](https://games.qq.com/tencent/lol/champions/janna.htm) |
+| fuyu fuiba | 风衣叶冬优 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
