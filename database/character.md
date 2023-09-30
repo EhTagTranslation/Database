@@ -4820,6 +4820,7 @@ example:
 | janna | 迦娜 | 迦恩·阿蕾姆（简称迦娜）是网络游戏《英雄联盟》登场英雄。 | [风暴女神-迦娜](https://games.qq.com/tencent/lol/champions/janna.htm) |
 | fuyu fuiba | 风衣叶冬优 |  |  |
 | jia ran | 嘉然 | 嘉然是一名从2020年11月26日开始在bilibili及抖音活动的虚拟UP主，所属团体为虚拟偶像女团A-SOUL。<br>![](https://img.moegirl.org.cn/common/3/3c/嘉然Diana.jpg) | [萌娘百科](https://zh.moegirl.org.cn/嘉然) |
+| navia | 娜维娅 | 娜维娅(navia)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/娜维娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
