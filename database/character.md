@@ -4824,6 +4824,7 @@ example:
 | clorinde | 克洛琳德 | 克洛琳德(clorinde)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/克洛琳德) |
 | neuvillette | 那维莱特 | 那维莱特(neuvillette)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/95/那维莱特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/那维莱特) |
 | lyney | 林尼 | 林尼(lyney)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/62/林尼愚人众版立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/林尼) |
+| yukiko kudo | 工藤有希子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/工藤有希子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
