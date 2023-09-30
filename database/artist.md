@@ -2024,7 +2024,7 @@ example:
 | kinokomushi | きのこむし |  | [Twitter](https://twitter.com/kinokomusin) [pixiv](https://www.pixiv.net/users/1218811) |
 | ichimura | イチムラ |  |  |
 | crimson | クリムゾン |  | [Twitter](https://twitter.com/crimson_3) [pixiv](https://www.pixiv.net/users/772642) |
-| tanishi | たにし |  |  |
+| tanishi | たにし |  | [pixiv](https://www.pixiv.net/users/1000268) |
 | akizora sawayaka | 秋空さわやか |  |  |
 | izumiya otoha | いづみやおとは |  |  |
 | minamida usuke | 南田U助 |  |  |
