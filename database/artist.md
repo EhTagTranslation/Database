@@ -3071,7 +3071,7 @@ example:
 | wanyanaguda | 完颜阿骨打 | 完顔阿骨打 | [Twitter](https://twitter.com/wanaguda) [pixiv](https://www.pixiv.net/users/8197147/) |
 | kaede | ゆか | 白键系列画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [Twitter](https://twitter.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
-| shobu | 菖蒲 |  |  |
+| shobu | 菖蒲 |  | [pixiv](https://www.pixiv.net/users/2588103) |
 | sakayama shinta | 茶化山心太 | 茶菓山しん太 |  |
 | takasaki keisuke | 高咲圭介 |  |  |
 | ushino naka | うしの菜夏 |  |  |
