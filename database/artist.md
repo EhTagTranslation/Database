@@ -2290,7 +2290,7 @@ example:
 | midoriiro | 緑いろ |  |  |
 | koukou punch | 高校パンチ |  |  |
 | arai kogane | 新井コガネ |  |  |
-| aoin | AOIN |  | [Twitter](https://twitter.com/AoinHatsu) [pixiv](https://www.pixiv.net/users/537853) |
+| aoin | AOIN |  | [Twitter](https://twitter.com/AoinHatsu) [pixiv](https://www.pixiv.net/users/537853) [pixiv](https://www.pixiv.net/users/617289) |
 | takase asagiri | 鷹瀬あさぎり |  |  |
 | ugaromix | Ugaromix |  |  |
 | aizawa hiroshi | あいざわひろし |  | [Twitter](https://twitter.com/aizawahiroshi) [Pixiv](https://www.pixiv.net/users/684233) |
