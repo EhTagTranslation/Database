@@ -6898,7 +6898,7 @@ example:
 | kirimia | きりみあ |  |  |
 | kirimoro | きりもろ |  |  |
 | kirin | きりん |  |  |
-| kirin kakeru | 木鈴カケル |  |  |
+| kirin kakeru | 木铃カケル |  |  |
 | kirino kyousuke | 桐野キョウスケ |  |  |
 | kiriri takanori | 霧李孝徳 |  |  |
 | kirisaki akihito | 霧咲空人 |  |  |
