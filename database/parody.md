@@ -2210,6 +2210,7 @@ example:
 | little lord fauntleroy | 小公子西迪 | 《小公子西迪》（日语：小公子セディ）是英国作家弗朗西斯·霍奇森·伯内特所写的小说《小勋爵》改编的日本电视动画。是日本动画公司制作的`p:world masterpiece theater`第14部作品。于1988年1月10日～1988年12月25日播放，全43集。 | [萌娘百科](https://zh.moegirl.org.cn/小公子西迪) [维基百科](https://zh.wikipedia.org/wiki/小公子西迪) |
 | tensai ouji no akaji kokka saisei jutsu | 天才王子的赤字国家振兴术 |  | [萌娘百科](https://zh.moegirl.org.cn/天才王子的赤字国家重生术) |
 | mardock scramble | 壳中少女 |  | [维基百科](https://zh.wikipedia.org/wiki/壳中少女) [萌娘百科](https://zh.moegirl.org.cn/壳中少女) |
+| grimoire shiritsu grimoire mahou gakuen | 私立格里莫瓦魔法学园 | 《私立格里莫瓦魔法学园》（日语：グリモア～私立グリモワール魔法学園～）是日本手机游戏制作公司Applibot2014年推出的幻想即时卡牌战斗游戏。<br><br>故事讲述了主人公本来是一位非常普通的高中生，但某天却觉醒了“魔法”的力量。由不能自由操控这力量，于是进入魔法学园学习魔法的使用。一边在学园上课，一边对抗“雾之魔物”，与魔法少女们的物语从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/私立格里莫瓦魔法学园) [百度百科](https://baike.baidu.com/item/魔典：私立魔法学园/15087110) [维基百科（日语）](https://ja.wikipedia.org/wiki/グリモア〜私立グリモワール魔法学園〜) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
