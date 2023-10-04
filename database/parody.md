@@ -2209,6 +2209,7 @@ example:
 | love live hasunosora jogakuin school idol club | 莲之空女学院学园偶像俱乐部 | 莲之空女学院学园偶像俱乐部（日语：蓮ノ空女学院スクールアイドルクラブ；英语：Hasu No Sora Jogakuin School Idol Club）是2022年2月公布的LoveLive!系列的虚拟学园偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/莲之空女学院学园偶像俱乐部) [维基百科](https://zh.wikipedia.org/wiki/蓮之空女學院學園偶像俱樂部) |
 | little lord fauntleroy | 小公子西迪 | 《小公子西迪》（日语：小公子セディ）是英国作家弗朗西斯·霍奇森·伯内特所写的小说《小勋爵》改编的日本电视动画。是日本动画公司制作的`p:world masterpiece theater`第14部作品。于1988年1月10日～1988年12月25日播放，全43集。 | [萌娘百科](https://zh.moegirl.org.cn/小公子西迪) [维基百科](https://zh.wikipedia.org/wiki/小公子西迪) |
 | tensai ouji no akaji kokka saisei jutsu | 天才王子的赤字国家振兴术 |  | [萌娘百科](https://zh.moegirl.org.cn/天才王子的赤字国家重生术) |
+| mardock scramble | 壳中少女 |  | [维基百科](https://zh.wikipedia.org/wiki/壳中少女) [萌娘百科](https://zh.moegirl.org.cn/壳中少女) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
