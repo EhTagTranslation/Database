@@ -3118,7 +3118,7 @@ example:
 | aki hinata | 日向秋 |  |  |
 | cheshire | 柴郡 | 柴郡（Cheshire/チェシャー）是bilibili代理的手机游戏《碧蓝航线》及其衍生作品的登场角色，其原型是英国海军的1940年15500吨重巡洋舰改型。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:柴郡) |
 | savage | 暴行 | 游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/明日方舟:暴行) |
-| type 95 | 95式 | 游戏《少女前线》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:95式) |
+| type 95 | 95式 | 游戏《少女前线》及其衍生作品中的登场角色。<br>![](https://www.gfwiki.org/images/e/ec/Pic_95type_HD.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:95式) |
 | aki shiina | 椎名亚树 |  |  |
 | nana sunohara | 春原菜菜 |  |  |
 | ayaka sunohara | 春原彩花 |  |  |
