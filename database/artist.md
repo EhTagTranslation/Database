@@ -12566,7 +12566,7 @@ example:
 | ueshita | うえした |  | [Twitter](https://twitter.com/ueshita723) [pixiv](https://www.pixiv.net/users/90154) |
 | mintaro | みんたろう |  | [Twitter](https://twitter.com/min_taroo) [pixiv](https://www.pixiv.net/users/4147718) |
 | bergyb | 博哥 |  |  |
-| yukimochi | ゆきもち | painter:ゆきもち＠けもケットR-10<br>pid:2523914 | [pixiv](https://www.pixiv.net/users/2523914) |
+| yukimochi | ゆきもち | ![](https://i.pixiv.cat/user-profile/img/2021/05/23/20/26/31/20752444_adc0daedb8f8eb1911582cc475852cc5_170.jpg)<br>painter:ゆきもち＠けもケットR-10<br>pid:2523914 | [pixiv](https://www.pixiv.net/users/2523914) |
 
 <!--TEMPLATE:
 |  |  |  |  |
