@@ -9588,7 +9588,7 @@ example:
 | rux | rux |  |  |
 | rxjx | RxJx |  |  |
 | ryo.k | りょう・K |  |  |
-| ryoattoryo | りょう@涼 |  |  |
+| ryoattoryo | りょう@涼 | ![](https://i.pixiv.cat/user-profile/img/2023/02/19/02/15/49/24049212_870a1cf65355ea1b55895c9a1b9802dd_170.png) | [pixiv](https://www.pixiv.net/users/253975) |
 | ryoji | Ryoji |  |  |
 | ryokunyo | りょうくんよ |  |  |
 | ryokuoushoku | 緑黄色 |  |  |
