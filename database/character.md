@@ -4830,6 +4830,7 @@ example:
 | maidena ange | 梅蒂娜·安洁 | 漫画《不道德公会》角色 |  |
 | noma rune | 诺玛·卢恩 | 漫画《不道德公会》角色 |  |
 | toxico dannar | 毒毒子·达纳 | 漫画《不道德公会》角色 |  |
+| enome north | 艾诺梅·诺斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
