@@ -12570,6 +12570,7 @@ example:
 | jury | じゅらい | ![twitter](https://pbs.twimg.com/profile_images/1516222651991138304/-xdFXqz7_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/jury9016) |
 | yandama | やんだま |  |  |
 | youngjijii | ヤングじじい |  |  |
+| kawazoe taichi | 河添太一 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
