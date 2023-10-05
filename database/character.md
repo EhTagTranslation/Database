@@ -4829,6 +4829,7 @@ example:
 | ganondorf | 加侬多夫 | 加侬多夫是任天堂旗下作品《塞尔达传说》系列的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/加侬多夫) |
 | maidena ange | 梅蒂娜·安洁 | 漫画《不道德公会》角色 |  |
 | noma rune | 诺玛·卢恩 | 漫画《不道德公会》角色 |  |
+| toxico dannar | 毒毒子·达纳 | 漫画《不道德公会》角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
