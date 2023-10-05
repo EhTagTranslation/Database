@@ -3566,7 +3566,7 @@ example:
 | hiyama yuki | 檜山ユキ |  |  |
 | izumi kirifu | 和泉キリフ |  |  |
 | suzuki nago | 铃木和 |  |  |
-| ito fleda | 伊藤達哉Tatsuya Ito | ![头像](https://p.sda1.dev/5/ea2f4778bf775cf41dcbd102c0ab410b/伊藤達哉.jpg) | [pixiv](https://www.pixiv.net/users/7968) [fantia](https://fantia.jp/fanclubs/3587) |
+| ito fleda | 伊藤達哉Tatsuya Ito | ![头像](https://i.pixiv.cat/user-profile/img/2021/12/07/18/50/59/21853492_c8780256faf8a3459a8edb4456cad0da_170.jpg) | [pixiv](https://www.pixiv.net/users/7968) [fantia](https://fantia.jp/fanclubs/3587) |
 | namatsui | なまつい |  |  |
 | mimamoriencyo | みまもり園長 |  |  |
 | yukiyoshi mamizu | ゆきよし真水 | ![twitter](https://pbs.twimg.com/profile_images/1457222583708184576/o3pY9O6H_400x400.jpg)<br><br>**作者推特头像**<br>同人社团`hito no fundoshi`主笔画师。 | [twitter](https://twitter.com/hitonohundoshi) |
