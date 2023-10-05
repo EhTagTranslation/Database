@@ -4827,6 +4827,7 @@ example:
 | yukiko kudo | 工藤有希子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/工藤有希子) |
 | myrtle | 桃金娘 | 桃金娘是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:桃金娘) |
 | ganondorf | 加侬多夫 | 加侬多夫是任天堂旗下作品《塞尔达传说》系列的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/加侬多夫) |
+| maidena ange | 梅蒂娜·安洁 | 漫画《不道德公会》角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
