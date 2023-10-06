@@ -4859,6 +4859,7 @@ example:
 | architect | 建筑师 | `p:girls frontline` | [https://www.gfwiki.org/w/建筑师](https://www.gfwiki.org/w/建筑师) |
 | alchemist | 炼金术士 | `p:girls frontline` | [https://www.gfwiki.org/w/炼金术士](https://www.gfwiki.org/w/炼金术士) |
 | hunter | 猎手 | `p:girls frontline` | [https://www.gfwiki.org/w/猎手](https://www.gfwiki.org/w/猎手) |
+| dreamer | 梦想家 | `p:girls frontline` | [https://www.gfwiki.org/w/梦想家](https://www.gfwiki.org/w/梦想家) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
