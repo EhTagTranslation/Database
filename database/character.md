@@ -4869,6 +4869,7 @@ example:
 | eliza | 伊莱莎 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/5/50/Eliza.png) | [少前百科GFwiki](https://www.gfwiki.org/w/伊莱莎) |
 | m1911 | M1911 | `p:girls frontline` | [https://www.gfwiki.org/w/M1911](https://www.gfwiki.org/w/M1911) |
 | m99 | M99 | `p:girls frontline` | [https://www.gfwiki.org/w/M99](https://www.gfwiki.org/w/M99) |
+| m950a | M950A | `p:girls frontline` | [https://www.gfwiki.org/w/M950A](https://www.gfwiki.org/w/M950A) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
