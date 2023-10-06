@@ -4876,6 +4876,7 @@ example:
 | mauser c96 | C96 | `p:girls frontline` | [https://www.gfwiki.org/w/C96](https://www.gfwiki.org/w/C96) |
 | m37 | M37 | `p:girls frontline` | [https://www.gfwiki.org/w/M37](https://www.gfwiki.org/w/M37) |
 | mac-10 | MAC-10 | `p:girls frontline` | [https://www.gfwiki.org/w/MAC-10](https://www.gfwiki.org/w/MAC-10) |
+| ppsh-41 | PPSh-41 | `p:girls frontline` | [https://www.gfwiki.org/w/PPSh-41](https://www.gfwiki.org/w/PPSh-41) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
