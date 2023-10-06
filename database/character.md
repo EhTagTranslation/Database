@@ -4862,6 +4862,7 @@ example:
 | dreamer | 梦想家 | `p:girls frontline` | [https://www.gfwiki.org/w/梦想家](https://www.gfwiki.org/w/梦想家) |
 | destroyer | 破坏者 | `p:girls frontline` | [https://www.gfwiki.org/w/破坏者](https://www.gfwiki.org/w/破坏者) |
 | beak | 喙 | `p:girls frontline` | [https://www.gfwiki.org/w/喙](https://www.gfwiki.org/w/喙) |
+| k2 | K2 | `p:girls frontline` | [https://www.gfwiki.org/w/K2](https://www.gfwiki.org/w/K2) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
