@@ -7289,7 +7289,7 @@ example:
 | lune comic | ルネコミック |  |  |
 | lune team bitters | ルネ Team Bitters |  |  |
 | lust bit | ルストビット |  |  |
-| lusterise | Lusterise |  |  |
+| lusterise | Lusterise |  | [官方网站](http://lusterise.nexton-net.jp/home.html) |
 | lutein | るていん |  |  |
 | luwen workshop | Luwen Workshop |  |  |
 | luxia continent | るくしあ大陸 |  |  |
