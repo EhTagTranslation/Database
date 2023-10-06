@@ -4835,6 +4835,7 @@ example:
 | executioner | 行裁者 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/c/c6/Pic_Excutioner_LL.png) | [少前百科GFwiki](https://www.gfwiki.org/w/行裁者) |
 | scarecrow | 稻草人 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/b/bd/Pic_Scarecrow_LL.png) | [少前GFwiki](https://www.gfwiki.org/w/稻草人) |
 | hk416 | HK416 | `p:girls frontline` |  |
+| dsr-50 | DSR-50 | `p:girls frontline` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
