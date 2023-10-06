@@ -4856,6 +4856,7 @@ example:
 | ouroboros | 衔尾蛇 | `p:girls frontline` | [https://www.gfwiki.org/w/衔尾蛇](https://www.gfwiki.org/w/衔尾蛇) |
 | intruder | 干扰者 | `p:girls frontline` | [https://www.gfwiki.org/w/干扰者](https://www.gfwiki.org/w/干扰者) |
 | gager | 计量官 | `p:girls frontline` | [https://www.gfwiki.org/w/计量官](https://www.gfwiki.org/w/计量官) |
+| architect | 建筑师 | `p:girls frontline` | [https://www.gfwiki.org/w/建筑师](https://www.gfwiki.org/w/建筑师) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
