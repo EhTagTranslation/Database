@@ -4841,6 +4841,7 @@ example:
 | wa2000 | WA2000 | `p:girls frontline` | [https://www.gfwiki.org/w/WA2000](https://www.gfwiki.org/w/WA2000) |
 | pa-15 | PA-15 | `p:girls frontline` | [https://www.gfwiki.org/w/PA-15](https://www.gfwiki.org/w/PA-15) |
 | agent | 代理人 | `p:girls frontline` | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
+| welrod mkii | 维尔德MkⅡ(维尔德) | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
