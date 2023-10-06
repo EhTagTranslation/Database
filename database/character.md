@@ -4874,6 +4874,7 @@ example:
 | ppk | PPK | `p:girls frontline` | [https://www.gfwiki.org/w/PPK](https://www.gfwiki.org/w/PPK) |
 | p08 | P08 | `p:girls frontline` | [https://www.gfwiki.org/w/P08](https://www.gfwiki.org/w/P08) |
 | mauser c96 | C96 | `p:girls frontline` | [https://www.gfwiki.org/w/C96](https://www.gfwiki.org/w/C96) |
+| m37 | M37 | `p:girls frontline` | [https://www.gfwiki.org/w/M37](https://www.gfwiki.org/w/M37) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
