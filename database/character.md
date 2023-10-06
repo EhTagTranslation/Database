@@ -4894,6 +4894,7 @@ example:
 | m9 | M9 | `p:girls frontline` | [https://www.gfwiki.org/w/M9](https://www.gfwiki.org/w/M9) |
 | tokarev | 托卡列夫 | `p:girls frontline` | [https://www.gfwiki.org/w/托卡列夫](https://www.gfwiki.org/w/托卡列夫) |
 | stechkin | 斯捷奇金 | `p:girls frontline` | [https://www.gfwiki.org/w/斯捷奇金](https://www.gfwiki.org/w/斯捷奇金) |
+| makarov | 马卡洛夫 | `p:girls frontline` | [https://www.gfwiki.org/w/马卡洛夫](https://www.gfwiki.org/w/马卡洛夫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
