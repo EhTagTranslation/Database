@@ -4907,6 +4907,7 @@ example:
 | mp40 | MP40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
 | mp5 | MP5 | `p:girls frontline` | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
 | ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
+| skorpion | 蝎式 | `p:girls frontline` | [http://www.gfwiki.org/w/蝎式](http://www.gfwiki.org/w/蝎式) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
