@@ -4849,6 +4849,7 @@ example:
 | vsk-94 | VSK-94 | `p:girls frontline` | [https://www.gfwiki.org/w/VSK-94](https://www.gfwiki.org/w/VSK-94) |
 | g11 | G11 | `p:girls frontline` | [https://www.gfwiki.org/w/G11](https://www.gfwiki.org/w/G11) |
 | desert eagle | 沙漠之鹰 | `p:girls frontline` | [https://www.gfwiki.org/w/沙漠之鹰](https://www.gfwiki.org/w/沙漠之鹰) |
+| ump9 | UMP9 | `p:girls frontline` | [https://www.gfwiki.org/w/UMP9](https://www.gfwiki.org/w/UMP9) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
