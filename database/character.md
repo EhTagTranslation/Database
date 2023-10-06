@@ -4890,6 +4890,7 @@ example:
 | nagant revolver | 纳甘左轮 | `p:girls frontline`<br>纳甘M1895 | [https://www.gfwiki.org/w/纳甘左轮](https://www.gfwiki.org/w/纳甘左轮) |
 | colt revolver | 柯尔特左轮 | `p:girls frontline` | [https://www.gfwiki.org/w/柯尔特左轮](https://www.gfwiki.org/w/柯尔特左轮) |
 | super-shorty | 超级肖蒂(Super-Shorty) | `p:girls frontline`<br>Super-Shorty | [https://www.gfwiki.org/w/超级肖蒂](https://www.gfwiki.org/w/超级肖蒂) |
+| python | 蟒蛇 | `p:girls frontline` | [https://www.gfwiki.org/w/蟒蛇](https://www.gfwiki.org/w/蟒蛇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
