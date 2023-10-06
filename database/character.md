@@ -4880,6 +4880,7 @@ example:
 | pps-43 | PPS-43 | `p:girls frontline` | [https://www.gfwiki.org/w/PPS-43](https://www.gfwiki.org/w/PPS-43) |
 | pp-90 | PP-90 | `p:girls frontline` | [https://www.gfwiki.org/w/PP-90](https://www.gfwiki.org/w/PP-90) |
 | thunder | 雷电 | `p:girls frontline` | [https://www.gfwiki.org/w/雷电](https://www.gfwiki.org/w/雷电) |
+| negev | 内格夫 | `p:girls frontline` | [https://www.gfwiki.org/w/内格夫](https://www.gfwiki.org/w/内格夫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
