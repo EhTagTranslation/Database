@@ -4884,6 +4884,7 @@ example:
 | st ar-15 | ST AR-15 | `p:girls frontline` | [https://www.gfwiki.org/w/ST\_AR-15](https://www.gfwiki.org/w/ST_AR-15) |
 | m4a1 | M4A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M4A1](https://www.gfwiki.org/w/M4A1) |
 | m4 sopmod ii | M4 SOPMODII(SOP2) | `p:girls frontline` | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
+| m16a1 | M16A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M16A1](https://www.gfwiki.org/w/M16A1) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
