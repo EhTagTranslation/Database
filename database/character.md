@@ -4887,6 +4887,7 @@ example:
 | m16a1 | M16A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M16A1](https://www.gfwiki.org/w/M16A1) |
 | ak-15 | AK-15 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-15](https://www.gfwiki.org/w/AK-15) |
 | rpk-16 | RPK-16 | `p:girls frontline` | [https://www.gfwiki.org/w/RPK-16](https://www.gfwiki.org/w/RPK-16) |
+| nagant revolver | 纳甘左轮 | `p:girls frontline`<br>M1895 | [https://www.gfwiki.org/w/纳甘左轮](https://www.gfwiki.org/w/纳甘左轮) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
