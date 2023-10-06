@@ -4860,6 +4860,7 @@ example:
 | alchemist | 炼金术士 | `p:girls frontline` | [https://www.gfwiki.org/w/炼金术士](https://www.gfwiki.org/w/炼金术士) |
 | hunter | 猎手 | `p:girls frontline` | [https://www.gfwiki.org/w/猎手](https://www.gfwiki.org/w/猎手) |
 | dreamer | 梦想家 | `p:girls frontline` | [https://www.gfwiki.org/w/梦想家](https://www.gfwiki.org/w/梦想家) |
+| destroyer | 破坏者 | `p:girls frontline` | [https://www.gfwiki.org/w/破坏者](https://www.gfwiki.org/w/破坏者) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
