@@ -4843,6 +4843,7 @@ example:
 | agent | 代理人 | `p:girls frontline` | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
 | welrod mkii | 维尔德MkⅡ(维尔德) | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
 | ak-12 | AK-12 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-12](https://www.gfwiki.org/w/AK-12) |
+| an-94 | AN-94 | `p:girls frontline` | [https://www.gfwiki.org/w/AN-94](https://www.gfwiki.org/w/AN-94) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
