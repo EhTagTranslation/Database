@@ -4904,6 +4904,7 @@ example:
 | kriss vector | 维克托(Vector) | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | vector | 维克托(Vector) | `p:girls frontline`<br>与`c:kriss vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | pp-2000 | PP-2000 | `p:girls frontline`<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/PP-2000](http://www.gfwiki.org/w/PP-2000) |
+| mp40 | mp40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
