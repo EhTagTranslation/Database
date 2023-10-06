@@ -4834,7 +4834,7 @@ example:
 | marina katsuragi | 葛城真理奈 | ![](http://lusterise.nexton-net.jp/product/exs-tia3/character/image/chara01/image01.png)<br>![](http://lusterise.nexton-net.jp/product/exs-tia3/character/image/chara01/image03.png)<br>主人公である創真の恋人。<br>高いＰＰを持っており、<br>異世界からの侵略に対してエクスティアに変身して戦う。<br>心優しく、皆の為に戦う芯の強さをもっている。<br>`g:lusterise`<br>`p:kouyoku senki exs-tia` | [官方网站](http://lusterise.nexton-net.jp/product/exs-tia3/character/)(角色简介) |
 | executioner | 行裁者 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/c/c6/Pic_Excutioner_LL.png) | [少前百科GFwiki](https://www.gfwiki.org/w/行裁者) |
 | scarecrow | 稻草人 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/b/bd/Pic_Scarecrow_LL.png) | [少前GFwiki](https://www.gfwiki.org/w/稻草人) |
-| hk416 | HK416 | `p:girls frontline` |  |
+| hk416 | HK416 | `p:girls frontline` | [https://www.gfwiki.org/w/HK416](https://www.gfwiki.org/w/HK416) |
 | dsr-50 | DSR-50 | `p:girls frontline` |  |
 | ots-14 | OTs-14(闪电) | `p:girls frontline` | [https://www.gfwiki.org/w/OTs-14](https://www.gfwiki.org/w/OTs-14) |
 | p90 | P90 | `p:girls frontline` | [https://www.gfwiki.org/w/P90](https://www.gfwiki.org/w/P90) |
