@@ -3829,7 +3829,7 @@ example:
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
 | melusine | 美露莘 | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。 |  |
 | baobhan sith | 芭万·希 | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。 |  |
-| suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米) |
+| suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。<br>`p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米)<br>[少前GFwiki](https://www.gfwiki.org/w/索米) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
 | nonomi izayoi | 十六夜野宫 | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png)<br>十六夜野乃美 | [gamekee](https://ba.gamekee.com/68803.html) [Fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
