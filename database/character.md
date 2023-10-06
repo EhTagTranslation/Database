@@ -4911,6 +4911,7 @@ example:
 | mp7 | MP7 | `p:girls frontline` | [http://www.gfwiki.org/w/MP7](http://www.gfwiki.org/w/MP7) |
 | sten mkii | 司登MkⅡ | `p:girls frontline` | [http://www.gfwiki.org/w/司登MkⅡ](http://www.gfwiki.org/w/司登MkⅡ) |
 | beretta model 38 | 伯莱塔38型 | `p:girls frontline` | [http://www.gfwiki.org/w/伯莱塔38型](http://www.gfwiki.org/w/伯莱塔38型) |
+| micro uzi | 微型乌兹 | `p:girls frontline` | [http://www.gfwiki.org/w/微型乌兹](http://www.gfwiki.org/w/微型乌兹) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
