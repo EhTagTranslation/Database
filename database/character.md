@@ -4872,6 +4872,7 @@ example:
 | m950a | M950A | `p:girls frontline` | [https://www.gfwiki.org/w/M950A](https://www.gfwiki.org/w/M950A) |
 | p38 | P38 | `p:girls frontline` | [https://www.gfwiki.org/w/P38](https://www.gfwiki.org/w/P38) |
 | ppk | PPK | `p:girls frontline` | [https://www.gfwiki.org/w/PPK](https://www.gfwiki.org/w/PPK) |
+| p08 | P08 | `p:girls frontline` | [https://www.gfwiki.org/w/P08](https://www.gfwiki.org/w/P08) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
