@@ -12571,6 +12571,7 @@ example:
 | yandama | やんだま |  |  |
 | youngjijii | ヤングじじい |  |  |
 | kawazoe taichi | 河添太一 |  |  |
+| mochikushi | もちくし |  | [twitter](https://twitter.com/mochikukushi)<br>[pixiv](https://www.pixiv.net/users/4579494) |
 
 <!--TEMPLATE:
 |  |  |  |  |
