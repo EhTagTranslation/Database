@@ -4832,6 +4832,7 @@ example:
 | toxico dannar | 毒毒子·达纳 | 漫画《不道德公会》角色 |  |
 | enome north | 艾诺梅·诺斯 |  |  |
 | marina katsuragi | 葛城真理奈 | ![](http://lusterise.nexton-net.jp/product/exs-tia3/character/image/chara01/image01.png)<br>![](http://lusterise.nexton-net.jp/product/exs-tia3/character/image/chara01/image03.png)<br>主人公である創真の恋人。<br>高いＰＰを持っており、<br>異世界からの侵略に対してエクスティアに変身して戦う。<br>心優しく、皆の為に戦う芯の強さをもっている。<br>`g:lusterise`<br>`p:kouyoku senki exs-tia` | [官方网站](http://lusterise.nexton-net.jp/product/exs-tia3/character/)(角色简介) |
+| executioner | 行裁者 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/c/c6/Pic_Excutioner_LL.png) | [少前百科GFwiki](https://www.gfwiki.org/w/行裁者) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
