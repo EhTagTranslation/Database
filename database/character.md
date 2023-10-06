@@ -4836,6 +4836,7 @@ example:
 | scarecrow | 稻草人 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/b/bd/Pic_Scarecrow_LL.png) | [少前GFwiki](https://www.gfwiki.org/w/稻草人) |
 | hk416 | HK416 | `p:girls frontline` |  |
 | dsr-50 | DSR-50 | `p:girls frontline` |  |
+| ots-14 | OTs-14(闪电) | `p:girls frontline` | [https://www.gfwiki.org/w/OTs-14](https://www.gfwiki.org/w/OTs-14) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
