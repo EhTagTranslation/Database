@@ -4840,6 +4840,7 @@ example:
 | p90 | P90 | `p:girls frontline` | [https://www.gfwiki.org/w/P90](https://www.gfwiki.org/w/P90) |
 | wa2000 | WA2000 | `p:girls frontline` | [https://www.gfwiki.org/w/WA2000](https://www.gfwiki.org/w/WA2000) |
 | pa-15 | PA-15 | `p:girls frontline` | [https://www.gfwiki.org/w/PA-15](https://www.gfwiki.org/w/PA-15) |
+| agent | 代理人 | `p:girls frontline` | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
