@@ -4906,6 +4906,7 @@ example:
 | pp-2000 | PP-2000 | `p:girls frontline`<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/PP-2000](http://www.gfwiki.org/w/PP-2000) |
 | mp40 | MP40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
 | mp5 | MP5 | `p:girls frontline` | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
+| ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
