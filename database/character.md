@@ -4863,6 +4863,7 @@ example:
 | destroyer | 破坏者 | `p:girls frontline` | [https://www.gfwiki.org/w/破坏者](https://www.gfwiki.org/w/破坏者) |
 | beak | 喙 | `p:girls frontline` | [https://www.gfwiki.org/w/喙](https://www.gfwiki.org/w/喙) |
 | k2 | K2 | `p:girls frontline` | [https://www.gfwiki.org/w/K2](https://www.gfwiki.org/w/K2) |
+| g3 | G3 | `p:girls frontline` | [https://www.gfwiki.org/w/G3](https://www.gfwiki.org/w/G3) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
