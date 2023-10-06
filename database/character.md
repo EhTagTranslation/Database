@@ -4837,6 +4837,7 @@ example:
 | hk416 | HK416 | `p:girls frontline` |  |
 | dsr-50 | DSR-50 | `p:girls frontline` |  |
 | ots-14 | OTs-14(闪电) | `p:girls frontline` | [https://www.gfwiki.org/w/OTs-14](https://www.gfwiki.org/w/OTs-14) |
+| p90 | P90 | `p:girls frontline` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
