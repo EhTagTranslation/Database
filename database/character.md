@@ -4902,7 +4902,7 @@ example:
 | m3 | M3 | `p:girls frontline` | [http://www.gfwiki.org/w/M3](http://www.gfwiki.org/w/M3) |
 | fmg-9 | FMG-9 | 少女前线<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/FMG-9](http://www.gfwiki.org/w/FMG-9) |
 | kriss vector | 维克托(Vector) | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
-| vector | 维克托(Vector) | `p:girls frontline`<br>与`c:kriss vector`应指同一角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
+| vector | 维克托(Vector) | `p:girls frontline`<br>与`c:kriss vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
