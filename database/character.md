@@ -4896,6 +4896,7 @@ example:
 | stechkin | 斯捷奇金 | `p:girls frontline` | [https://www.gfwiki.org/w/斯捷奇金](https://www.gfwiki.org/w/斯捷奇金) |
 | makarov | 马卡洛夫 | `p:girls frontline` | [https://www.gfwiki.org/w/马卡洛夫](https://www.gfwiki.org/w/马卡洛夫) |
 | type 92 | 92式 | `p:girls frontline` | [https://www.gfwiki.org/w/92式](https://www.gfwiki.org/w/92式) |
+| astra revolver | 阿斯特拉左轮 | `p:girls frontline` | [http://www.gfwiki.org/w/阿斯特拉左轮](http://www.gfwiki.org/w/阿斯特拉左轮) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
