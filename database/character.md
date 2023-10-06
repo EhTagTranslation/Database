@@ -4867,6 +4867,7 @@ example:
 | g36 | G36 | `p:girls frontline` | [https://www.gfwiki.org/w/G36](https://www.gfwiki.org/w/G36) |
 | g36c | G36C | `p:girls frontline` | [https://www.gfwiki.org/w/G36C](https://www.gfwiki.org/w/G36C) |
 | eliza | 伊莱莎 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/5/50/Eliza.png) | [少前百科GFwiki](https://www.gfwiki.org/w/伊莱莎) |
+| m1911 | M1911 | `p:girls frontline` | [https://www.gfwiki.org/w/M1911](https://www.gfwiki.org/w/M1911) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
