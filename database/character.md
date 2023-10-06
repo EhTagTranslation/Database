@@ -4909,6 +4909,7 @@ example:
 | ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
 | skorpion | 蝎式 | `p:girls frontline` | [http://www.gfwiki.org/w/蝎式](http://www.gfwiki.org/w/蝎式) |
 | mp7 | MP7 | `p:girls frontline` | [http://www.gfwiki.org/w/MP7](http://www.gfwiki.org/w/MP7) |
+| sten mkii | 司登MkⅡ | `p:girls frontline` | [http://www.gfwiki.org/w/司登MkⅡ](http://www.gfwiki.org/w/司登MkⅡ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
