@@ -4913,6 +4913,7 @@ example:
 | beretta model 38 | 伯莱塔38型 | `p:girls frontline` | [http://www.gfwiki.org/w/伯莱塔38型](http://www.gfwiki.org/w/伯莱塔38型) |
 | micro uzi | 微型乌兹 | `p:girls frontline` | [http://www.gfwiki.org/w/微型乌兹](http://www.gfwiki.org/w/微型乌兹) |
 | m45 | m45 | `p:girls frontline` | [http://www.gfwiki.org/w/M45](http://www.gfwiki.org/w/M45) |
+| m1 garand | M1加兰德 | `p:girls frontline` | [http://www.gfwiki.org/w/M1加兰德](http://www.gfwiki.org/w/M1加兰德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
