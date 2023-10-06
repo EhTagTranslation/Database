@@ -4865,6 +4865,7 @@ example:
 | k2 | K2 | `p:girls frontline` | [https://www.gfwiki.org/w/K2](https://www.gfwiki.org/w/K2) |
 | g3 | G3 | `p:girls frontline` | [https://www.gfwiki.org/w/G3](https://www.gfwiki.org/w/G3) |
 | g36 | G36 | `p:girls frontline` | [https://www.gfwiki.org/w/G36](https://www.gfwiki.org/w/G36) |
+| g36c | G36C | `p:girls frontline` | [https://www.gfwiki.org/w/G36C](https://www.gfwiki.org/w/G36C) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
