@@ -4857,6 +4857,7 @@ example:
 | intruder | 干扰者 | `p:girls frontline` | [https://www.gfwiki.org/w/干扰者](https://www.gfwiki.org/w/干扰者) |
 | gager | 计量官 | `p:girls frontline` | [https://www.gfwiki.org/w/计量官](https://www.gfwiki.org/w/计量官) |
 | architect | 建筑师 | `p:girls frontline` | [https://www.gfwiki.org/w/建筑师](https://www.gfwiki.org/w/建筑师) |
+| alchemist | 炼金术士 | `p:girls frontline` | [https://www.gfwiki.org/w/炼金术士](https://www.gfwiki.org/w/炼金术士) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
