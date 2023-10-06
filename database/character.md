@@ -4878,6 +4878,7 @@ example:
 | mac-10 | MAC-10 | `p:girls frontline` | [https://www.gfwiki.org/w/MAC-10](https://www.gfwiki.org/w/MAC-10) |
 | ppsh-41 | PPSh-41 | `p:girls frontline` | [https://www.gfwiki.org/w/PPSh-41](https://www.gfwiki.org/w/PPSh-41) |
 | pps-43 | PPS-43 | `p:girls frontline` | [https://www.gfwiki.org/w/PPS-43](https://www.gfwiki.org/w/PPS-43) |
+| pp-90 | PP-90 | `p:girls frontline` | [https://www.gfwiki.org/w/PP-90](https://www.gfwiki.org/w/PP-90) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
