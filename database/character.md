@@ -4853,6 +4853,7 @@ example:
 | tar-21 | TAR-21 | `p:girls frontline` | [https://www.gfwiki.org/w/TAR-21](https://www.gfwiki.org/w/TAR-21) |
 | aa-12 | AA-12 | `p:girls frontline` | [https://www.gfwiki.org/w/AA-12](https://www.gfwiki.org/w/AA-12) |
 | mk23 | Mk23 | `p:girls frontline` | [https://www.gfwiki.org/w/Mk23](https://www.gfwiki.org/w/Mk23) |
+| ouroboros | 衔尾蛇 | `p:girls frontline` | [https://www.gfwiki.org/w/衔尾蛇](https://www.gfwiki.org/w/衔尾蛇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
