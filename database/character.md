@@ -4897,6 +4897,7 @@ example:
 | makarov | 马卡洛夫 | `p:girls frontline` | [https://www.gfwiki.org/w/马卡洛夫](https://www.gfwiki.org/w/马卡洛夫) |
 | type 92 | 92式 | `p:girls frontline` | [https://www.gfwiki.org/w/92式](https://www.gfwiki.org/w/92式) |
 | astra revolver | 阿斯特拉左轮 | `p:girls frontline` | [http://www.gfwiki.org/w/阿斯特拉左轮](http://www.gfwiki.org/w/阿斯特拉左轮) |
+| glock 17 | 格洛克17 | `p:girls frontline` | [http://www.gfwiki.org/w/格洛克17](http://www.gfwiki.org/w/格洛克17) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
