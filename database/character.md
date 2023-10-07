@@ -4896,14 +4896,11 @@ example:
 | stechkin | 斯捷奇金 | `p:girls frontline` | [https://www.gfwiki.org/w/斯捷奇金](https://www.gfwiki.org/w/斯捷奇金) |
 | makarov | 马卡洛夫 | `p:girls frontline` | [https://www.gfwiki.org/w/马卡洛夫](https://www.gfwiki.org/w/马卡洛夫) |
 | type 92 | 92式 | `p:girls frontline` | [https://www.gfwiki.org/w/92式](https://www.gfwiki.org/w/92式) |
-| astra revolver | 阿斯特拉左轮 | `p:girls frontline`<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/阿斯特拉左轮](http://www.gfwiki.org/w/阿斯特拉左轮) |
 | glock 17 | 格洛克17 | `p:girls frontline` | [http://www.gfwiki.org/w/格洛克17](http://www.gfwiki.org/w/格洛克17) |
 | thompson | 汤姆森 | `p:girls frontline` | [http://www.gfwiki.org/w/汤姆森](http://www.gfwiki.org/w/汤姆森) |
 | m3 | M3 | `p:girls frontline` | [http://www.gfwiki.org/w/M3](http://www.gfwiki.org/w/M3) |
-| fmg-9 | FMG-9 | 少女前线<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/FMG-9](http://www.gfwiki.org/w/FMG-9) |
 | kriss vector | 维克托(Vector) | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | vector | 维克托(Vector) | `p:girls frontline`<br>与`c:kriss vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
-| pp-2000 | PP-2000 | `p:girls frontline`<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/PP-2000](http://www.gfwiki.org/w/PP-2000) |
 | mp40 | MP40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
 | mp5 | MP5 | `p:girls frontline` | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
 | ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
@@ -4914,7 +4911,6 @@ example:
 | micro uzi | 微型乌兹 | `p:girls frontline` | [http://www.gfwiki.org/w/微型乌兹](http://www.gfwiki.org/w/微型乌兹) |
 | m45 | m45 | `p:girls frontline` | [http://www.gfwiki.org/w/M45](http://www.gfwiki.org/w/M45) |
 | m1 garand | M1加兰德 | `p:girls frontline` | [http://www.gfwiki.org/w/M1加兰德](http://www.gfwiki.org/w/M1加兰德) |
-| m1a1 | M1A1 | `p:girls frontline`<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/M1A1](http://www.gfwiki.org/w/M1A1) |
 | 9a-91 | 9A-91 | `p:girls frontline` | [http://www.gfwiki.org/w/9A-91](http://www.gfwiki.org/w/9A-91) |
 | ameli | 阿梅利 | `p:girls frontline` | [http://www.gfwiki.org/w/阿梅利](http://www.gfwiki.org/w/阿梅利) |
 | m200 | M200 | `p:girls frontline` | [http://www.gfwiki.org/w/M200](http://www.gfwiki.org/w/M200) |
