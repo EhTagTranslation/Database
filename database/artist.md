@@ -11306,7 +11306,7 @@ example:
 | uriboh | ウリ坊 |  |  |
 | urin | 卯林 |  |  |
 | urivo | ウリボぅ |  |  |
-| uro | ウロ(雨露?) | urotanc<br>![](https://pbs.twimg.com/profile_images/1534066810383134720/anHUk67n_400x400.jpg) | [Twitter](https://twitter.com/urotanc)<br>[pixiv](https://www.pixiv.net/users/273771) |
+| uro | ウロ(雨露?) | @urotanc<br>![](https://pbs.twimg.com/profile_images/1534066810383134720/anHUk67n_400x400.jpg) | [Twitter](https://twitter.com/urotanc)<br>[pixiv](https://www.pixiv.net/users/273771) |
 | uro-g | Uro-G |  |  |
 | urokozuki | ウロコヅキ |  |  |
 | uron | うろん |  |  |
