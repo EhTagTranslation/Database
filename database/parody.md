@@ -168,7 +168,7 @@ example:
 | maho girls precure | 魔法使 光之美少女! | 《魔法使 光之美少女！》（日语：魔法つかいプリキュア！）是东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十三作，属第十一代光之美少女。2016年2月7日在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/mahotsukai_precure/) |
 | kirakira precure a la mode | 光之美少女 食尚甜心 | 《光之美少女 食尚甜心》（日语：キラキラ☆プリキュアアラモード）是由东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十四作，属第十二代光之美少女。2017年2月5日于朝日放送和朝日电视台播放。<br><br>![动画海报](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [HP](https://www.toei-anim.co.jp/tv/precure_alamode/) |
 | hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと！プリキュア）是由东堂泉制作的魔法少女动画，<br>“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/hugtto_precure/) |
-| star twinkle precure | Star☆Twinkle光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，<br>“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/startwinkle_precure/) |
+| star twinkle precure | 星光闪亮☆光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，<br>“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/startwinkle_precure/) |
 |  | ▲ 光美大军 |  |  |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](# "https://ehgt.org/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg")![图](# "https://ehgt.org/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg") |  |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](https://ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](https://ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |  |
