@@ -12572,6 +12572,7 @@ example:
 | youngjijii | ヤングじじい |  |  |
 | kawazoe taichi | 河添太一 |  |  |
 | mochikushi | もちくし |  | [twitter](https://twitter.com/mochikukushi)<br>[pixiv](https://www.pixiv.net/users/4579494) |
+| shaggy susu | Shaggy SUSU |  | [FANBOX](https://www.fanbox.cc/@shaggysusu) [pixiv](https://www.pixiv.net/users/40138790) [Twitter](https://twitter.com/aiden39439540) [Patreon](https://www.patreon.com/user?u=51386268) |
 
 <!--TEMPLATE:
 |  |  |  |  |
