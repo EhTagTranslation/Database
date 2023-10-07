@@ -45,7 +45,7 @@
   ![UWP][plat-uwp] ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
 
-- [EhViewer-Overhauled（仅维护）](https://github.com/FooIbar/EhViewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本［彩E］停更后的仅维护版本）  
+- [EhViewer-Overhauled（仅维护）](https://github.com/FooIbar/EhViewer)（[EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer) 停更后的仅维护版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/FooIbar/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   The project is in maintenance mode, will only receive bugfixes.
 
