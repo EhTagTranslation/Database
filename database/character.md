@@ -4915,6 +4915,7 @@ example:
 | m45 | m45 | `p:girls frontline` | [http://www.gfwiki.org/w/M45](http://www.gfwiki.org/w/M45) |
 | m1 garand | M1加兰德 | `p:girls frontline` | [http://www.gfwiki.org/w/M1加兰德](http://www.gfwiki.org/w/M1加兰德) |
 | m1a1 | M1A1 | `p:girls frontline`<br>当前E站未检索到该标签使用，官方英译是这个，不知道罗马音还是该角色太冷门 | [http://www.gfwiki.org/w/M1A1](http://www.gfwiki.org/w/M1A1) |
+| 9a-91 | 9A-91 | `p:girls frontline` | [http://www.gfwiki.org/w/9A-91](http://www.gfwiki.org/w/9A-91) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
