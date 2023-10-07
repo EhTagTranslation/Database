@@ -158,7 +158,7 @@ example:
 | futari wa pretty cure | 光之美少女 | 《光之美少女系列》的第一作，属第一代光之美少女。 | [维基百科](https://zh.wikipedia.org/wiki/光之美少女) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
 | futari wa precure splash star | 光之美少女 Splash Star | 《光之美少女 Splash Star》（ふたりはプリキュアSplash Star）是由东映动画所制作的动画作品，<br>为《光之美少女系列》的第三作，属第二代光之美少女。于2006年2月5日起在—2007年1月28日朝日电视台播出。 |  |
 | yes precure 5 | Yes! 光之美少女5 | 《Yes! 光之美少女5》（Yes! プリキュア5）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>《光之美少女系列》的第四作，属第三代光之美少女。2007年2月4日播出。 | [HP](https://www.toei-anim.co.jp/tv/yes_precure5/) |
-| fresh precure | 光之美少女：幸福精灵 | 《光之美少女：幸福精灵》（フレッシュプリキュア！）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>为“光之美少女系列”的第六季作品，属第四代光之美少女。于2009年2月起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/fresh_precure/) |
+| fresh precure | 光之美少女：幸福精灵 | 《光之美少女：幸福精灵》（フレッシュプリキュア！）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>为《光之美少女系列》的第六作，属第四代光之美少女。于2009年2月起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/fresh_precure/) |
 | heartcatch precure | 光之美少女：甜蜜天使！ | 《光之美少女：甜蜜天使！》（ハートキャッチプリキュア！），是由东堂泉所创作的魔法少女动画作品，<br>为“光之美少女系列”的第七季作品，属第五代光之美少女。于2010年2月7日起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/hc_precure/) |
 | suite precure | 光之美少女：美乐天使 | 《光之美少女：美乐天使》（スイートプリキュア♪）是由东堂泉所制作的魔法少女动画作品，<br>“光之美少女系列”的第八辑，属第六代光之美少女。于2011年2月6日开始于朝日电视系播出。 | [HP](https://www.toei-anim.co.jp/tv/suite_precure/) |
 | smile precure | Smile 光之美少女！ | 《Smile 光之美少女！》（スマイルプリキュア！），是由东映动画所制作的魔法少女动画作品，<br>“光之美少女系列”第九作，属第七代光之美少女，于2012年2月5日在朝日电视系播出。 | [HP](https://www.toei-anim.co.jp/tv/smile_precure/) |
