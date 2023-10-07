@@ -4927,6 +4927,7 @@ example:
 | rfb | RFB | `p:girls frontline` | [http://www.gfwiki.org/w/RFB](http://www.gfwiki.org/w/RFB) |
 | art556 | ART556 | `p:girls frontline` | [http://www.gfwiki.org/w/ART556](http://www.gfwiki.org/w/ART556) |
 | florence | 芙洛伦 | `p:girls frontline`<br>云图计划(Neural Cloud) | [GFwiki-云图分部](http://wiki.42lab.cloud/w/芙洛伦) |
+| webley | 韦伯利 | `p:girls frontline` | [http://www.gfwiki.org/w/韦伯利](http://www.gfwiki.org/w/韦伯利) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
