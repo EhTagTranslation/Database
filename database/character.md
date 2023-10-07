@@ -4918,6 +4918,7 @@ example:
 | 9a-91 | 9A-91 | `p:girls frontline` | [http://www.gfwiki.org/w/9A-91](http://www.gfwiki.org/w/9A-91) |
 | ameli | 阿梅利 | `p:girls frontline` | [http://www.gfwiki.org/w/阿梅利](http://www.gfwiki.org/w/阿梅利) |
 | m200 | M200 | `p:girls frontline` | [http://www.gfwiki.org/w/M200](http://www.gfwiki.org/w/M200) |
+| kar98k | Kar98k | `p:girls frontline` | [http://www.gfwiki.org/w/Kar98k](http://www.gfwiki.org/w/Kar98k) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
