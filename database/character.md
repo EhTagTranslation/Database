@@ -4925,6 +4925,7 @@ example:
 | sr-3mp | SR-3MP | `p:girls frontline` | [http://www.gfwiki.org/w/SR-3MP](http://www.gfwiki.org/w/SR-3MP) |
 | k5 | K5 | `p:girls frontline` | [http://www.gfwiki.org/w/K5](http://www.gfwiki.org/w/K5) |
 | rfb | RFB | `p:girls frontline` | [http://www.gfwiki.org/w/RFB](http://www.gfwiki.org/w/RFB) |
+| art556 | ART556 | `p:girls frontline` | [http://www.gfwiki.org/w/ART556](http://www.gfwiki.org/w/ART556) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
