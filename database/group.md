@@ -144,7 +144,7 @@ example:
 | falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
 | dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
-| kadokawa | KADOKAWA \| 角川 | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
+| kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
 | winged cloud | Winged Cloud | ![图](https://ehgt.org/a3/50/a350fa506ad3fcc53c8f752d0cd508bfad163ecb-51654-336-155-png_l.jpg)<br>Winged Cloud是美国的英文视觉小说开发商，以成人作品为主。作品有视觉小说Sakura Spirit系列等。 | [维基百科](https://en.wikipedia.org/wiki/Winged_Cloud) |
 | tech gian | TECH GIAN | 《TECH GIAN》（テックジャイアン）是enterbrain发行的日本成人游戏杂志，1996年9月21日创刊，已于2021年停刊。<br><br>enterbrain（日语：エンターブレイン），现是角川集团制作经手娱乐关连杂志、书籍的品牌。之前隶属于角川控股集团中间持股公司MediaLeaves的旗下。 | [维基百科](https://zh.wikipedia.org/wiki/TECH_GIAN) |
 |  | ▲ 其他游戏公司 |  |  |

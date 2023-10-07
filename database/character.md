@@ -4561,7 +4561,7 @@ example:
 | jingei | 迅鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:迅鲸) |
 | chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
-| queen draco | 所多玛之兽/德拉科 |  |  |
+| queen draco | 妖妃德拉科 |  |  |
 | march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
 | himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive` |  |
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
@@ -4836,12 +4836,12 @@ example:
 | scarecrow | 稻草人 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/b/bd/Pic_Scarecrow_LL.png) | [少前百科GFwiki](https://www.gfwiki.org/w/稻草人) |
 | hk416 | HK416 | `p:girls frontline` | [https://www.gfwiki.org/w/HK416](https://www.gfwiki.org/w/HK416) |
 | dsr-50 | DSR-50 | `p:girls frontline` |  |
-| ots-14 | OTs-14(闪电) | `p:girls frontline` | [https://www.gfwiki.org/w/OTs-14](https://www.gfwiki.org/w/OTs-14) |
+| ots-14 | OTs-14 | OTs-14(闪电) `p:girls frontline` | [https://www.gfwiki.org/w/OTs-14](https://www.gfwiki.org/w/OTs-14) |
 | p90 | P90 | `p:girls frontline` | [https://www.gfwiki.org/w/P90](https://www.gfwiki.org/w/P90) |
 | wa2000 | WA2000 | `p:girls frontline` | [https://www.gfwiki.org/w/WA2000](https://www.gfwiki.org/w/WA2000) |
 | pa-15 | PA-15 | `p:girls frontline`<br>`c:florence` | [https://www.gfwiki.org/w/PA-15](https://www.gfwiki.org/w/PA-15) |
 | agent | 代理人 | `p:girls frontline` | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
-| welrod mkii | 维尔德MkⅡ(维尔德) | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
+| welrod mkii | 维尔德MkⅡ | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
 | ak-12 | AK-12 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-12](https://www.gfwiki.org/w/AK-12) |
 | an-94 | AN-94 | `p:girls frontline` | [https://www.gfwiki.org/w/AN-94](https://www.gfwiki.org/w/AN-94) |
 | kalina | 格琳娜 | `p:girls frontline` | [https://www.gfwiki.org/w/格琳娜](https://www.gfwiki.org/w/格琳娜) |
@@ -4883,13 +4883,13 @@ example:
 | negev | 内格夫 | `p:girls frontline` | [https://www.gfwiki.org/w/内格夫](https://www.gfwiki.org/w/内格夫) |
 | st ar-15 | ST AR-15 | `p:girls frontline` | [https://www.gfwiki.org/w/ST\_AR-15](https://www.gfwiki.org/w/ST_AR-15) |
 | m4a1 | M4A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M4A1](https://www.gfwiki.org/w/M4A1) |
-| m4 sopmod ii | M4 SOPMODII(SOP2) | `p:girls frontline` | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
+| m4 sopmod ii | M4 SOPMODII | M4 SOPMODII(SOP2) `p:girls frontline` | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
 | m16a1 | M16A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M16A1](https://www.gfwiki.org/w/M16A1) |
 | ak-15 | AK-15 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-15](https://www.gfwiki.org/w/AK-15) |
 | rpk-16 | RPK-16 | `p:girls frontline` | [https://www.gfwiki.org/w/RPK-16](https://www.gfwiki.org/w/RPK-16) |
 | nagant revolver | 纳甘左轮 | `p:girls frontline`<br>纳甘M1895 | [https://www.gfwiki.org/w/纳甘左轮](https://www.gfwiki.org/w/纳甘左轮) |
 | colt revolver | 柯尔特左轮 | `p:girls frontline` | [https://www.gfwiki.org/w/柯尔特左轮](https://www.gfwiki.org/w/柯尔特左轮) |
-| super-shorty | 超级肖蒂(Super-Shorty) | `p:girls frontline`<br>Super-Shorty | [https://www.gfwiki.org/w/超级肖蒂](https://www.gfwiki.org/w/超级肖蒂) |
+| super-shorty | 超级肖蒂 | `p:girls frontline`<br>Super-Shorty | [https://www.gfwiki.org/w/超级肖蒂](https://www.gfwiki.org/w/超级肖蒂) |
 | python | 蟒蛇 | `p:girls frontline` | [https://www.gfwiki.org/w/蟒蛇](https://www.gfwiki.org/w/蟒蛇) |
 | m9 | M9 | `p:girls frontline` | [https://www.gfwiki.org/w/M9](https://www.gfwiki.org/w/M9) |
 | tokarev | 托卡列夫 | `p:girls frontline` | [https://www.gfwiki.org/w/托卡列夫](https://www.gfwiki.org/w/托卡列夫) |
@@ -4899,8 +4899,8 @@ example:
 | glock 17 | 格洛克17 | `p:girls frontline` | [http://www.gfwiki.org/w/格洛克17](http://www.gfwiki.org/w/格洛克17) |
 | thompson | 汤姆森 | `p:girls frontline` | [http://www.gfwiki.org/w/汤姆森](http://www.gfwiki.org/w/汤姆森) |
 | m3 | M3 | `p:girls frontline` | [http://www.gfwiki.org/w/M3](http://www.gfwiki.org/w/M3) |
-| kriss vector | 维克托(Vector) | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
-| vector | 维克托(Vector) | `p:girls frontline`<br>与`c:kriss vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
+| kriss vector | 维克托 | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
+| vector | 维克托 | `p:girls frontline`<br>与`c:kriss vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | mp40 | MP40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
 | mp5 | MP5 | `p:girls frontline` | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
 | ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
@@ -4917,7 +4917,7 @@ example:
 | kar98k | Kar98k | `p:girls frontline` | [http://www.gfwiki.org/w/Kar98k](http://www.gfwiki.org/w/Kar98k) |
 | ots-12 | OTs-12 | `p:girls frontline` | [http://www.gfwiki.org/w/OTs-12](http://www.gfwiki.org/w/OTs-12) |
 | tmp | TMP | `p:girls frontline` | [http://www.gfwiki.org/w/TMP](http://www.gfwiki.org/w/TMP) |
-| fn five-seven | FN-57(Five-seveN) | `p:girls frontline` | [http://www.gfwiki.org/w/FN-57](http://www.gfwiki.org/w/FN-57) |
+| fn five-seven | FN-57 | `p:girls frontline` | [http://www.gfwiki.org/w/FN-57](http://www.gfwiki.org/w/FN-57) |
 | sr-3mp | SR-3MP | `p:girls frontline` | [http://www.gfwiki.org/w/SR-3MP](http://www.gfwiki.org/w/SR-3MP) |
 | k5 | K5 | `p:girls frontline` | [http://www.gfwiki.org/w/K5](http://www.gfwiki.org/w/K5) |
 | rfb | RFB | `p:girls frontline` | [http://www.gfwiki.org/w/RFB](http://www.gfwiki.org/w/RFB) |
