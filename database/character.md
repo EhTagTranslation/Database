@@ -4922,6 +4922,7 @@ example:
 | ots-12 | OTs-12 | `p:girls frontline` | [http://www.gfwiki.org/w/OTs-12](http://www.gfwiki.org/w/OTs-12) |
 | tmp | TMP | `p:girls frontline` | [http://www.gfwiki.org/w/TMP](http://www.gfwiki.org/w/TMP) |
 | fn five-seven | FN-57(Five-seveN) | `p:girls frontline` | [http://www.gfwiki.org/w/FN-57](http://www.gfwiki.org/w/FN-57) |
+| sr-3mp | SR-3MP | `p:girls frontline` | [http://www.gfwiki.org/w/SR-3MP](http://www.gfwiki.org/w/SR-3MP) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
