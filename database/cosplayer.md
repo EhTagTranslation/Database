@@ -96,6 +96,7 @@ example:
 | kuuko w | Kuuko W |  | [Twitter](https://twitter.com/Kuukow002) |
 | luo xiaoli miao | 洛璃LoLiSAMA |  |  |
 | yaokoututu | 咬一口兔娘 |  |  |
+| yuki astra | 雪晴Astra |  | [Instagram](https://www.instagram.com/yukiastra_) [微博](https://weibo.com/u/2389901855) [Gumroad](https://app.gumroad.com/yukiastra) [Twitter](https://twitter.com/yukiastra) [脸书](https://www.facebook.com/YukiAstra.Official) |
 
 <!--
 Template: 
