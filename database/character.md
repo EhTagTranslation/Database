@@ -4549,7 +4549,7 @@ example:
 | ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
 | toki asuma | 飞鸟马时 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/3/3c/Toki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki) |
 | carol olston | 卡洛儿·奥尔斯顿 | 漫画《智酱是女生！》的登场角色。 |  |
-| shiroko terror | 砂狼白子(恐怖) | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/砂狼白子) [Fandom](https://bluearchive.fandom.com/wiki/Shiroko_Terror) |
+| shiroko terror | 白子\*恐怖 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png)<br><br>遭到色彩反转之后诞生的砂狼白子变种，灾难级别的存在，最初在序章里登场，之后极长的时间里都没有再出现过，直到最终篇的更新。<br><br>她作为BOSS于最终篇第三章的占领战中登场，官方为其标明的名字是白子（恐怖）(シロコ·テラー/Shiroko Terror)，攻击和防御属性均为一般。<br><br>基于其反转/黑化的特点，她被称为Alter白子、黑化白子等，但最终在玩家间，基于其黑色的形象，被广泛称为“黑子”（クロコ）。此后，在游戏中的BOSS战中出现了“白子\*恐怖”这样的名称，目前官方对她的称呼只有白子、白子（恐怖）、阿努比斯、死神。 | [萌娘百科](https://zh.moegirl.org.cn/zh/砂狼白子) [Fandom](https://bluearchive.fandom.com/wiki/Shiroko_Terror) [基沃托斯古书馆](https://kivo.wiki/data/character/135) |
 | dia viekone | 蒂雅·维科尼 | 所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br><br>卢各·图哈德的表姐、魔法启蒙老师、初恋。<br>![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
