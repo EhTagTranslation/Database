@@ -4921,6 +4921,7 @@ example:
 | kar98k | Kar98k | `p:girls frontline` | [http://www.gfwiki.org/w/Kar98k](http://www.gfwiki.org/w/Kar98k) |
 | ots-12 | OTs-12 | `p:girls frontline` | [http://www.gfwiki.org/w/OTs-12](http://www.gfwiki.org/w/OTs-12) |
 | tmp | TMP | `p:girls frontline` | [http://www.gfwiki.org/w/TMP](http://www.gfwiki.org/w/TMP) |
+| fn five-seven | FN-57(Five-seveN) | `p:girls frontline` | [http://www.gfwiki.org/w/FN-57](http://www.gfwiki.org/w/FN-57) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
