@@ -166,7 +166,7 @@ example:
 | happinesscharge precure | Happiness Charge 光之美少女！ | 《Happiness Charge 光之美少女！》（ハピネスチャージプリキュア！）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”十周年之作，为第十一套作品，属第九代光之美少女。 | [HP](https://www.toei-anim.co.jp/tv/happinesscharge_precure/) |
 | go princess precure | Go! Princess 光之美少女 | 《Go! Princess 光之美少女》（Go！プリンセスプリキュア）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”第十二作，属第十代光之美少女。2015年2月1日在朝日电视台和朝日放送播放。 | [HP](https://www.toei-anim.co.jp/tv/princess_precure/) |
 | maho girls precure | 魔法使 光之美少女! | 《魔法使 光之美少女！》（日语：魔法つかいプリキュア！）是东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十三作，属第十一代光之美少女。2016年2月7日在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/mahotsukai_precure/) |
-| kirakira precure a la mode | KiraKira☆光之美少女A La Mode | 《KIRAKIRA☆光之美少女 A LA MODE》（日语：キラキラ☆プリキュアアラモード）是由东映动画制作的《光之美少女系列》动画第十二代作品，于2017年2月5日－2018年1月28日在日本播映。<br>![](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [萌娘百科](https://zh.moegirl.org.cn/KIRAKIRA_光之美少女_A_LA_MODE) |
+| kirakira precure a la mode | KiraKira☆光之美少女A La Mode | 《KiraKira☆光之美少女A La Mode》（日语：キラキラ☆プリキュアアラモード）是由东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十四作，属第十二代光之美少女。2017年2月5日于朝日放送和朝日电视台播放。<br><br>![动画海报](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [萌娘百科](https://zh.moegirl.org.cn/KIRAKIRA_光之美少女_A_LA_MODE) |
 | hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと!プリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/HUG！光之美少女) (\*) |
 | star twinkle precure | Star☆Twinkle光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/wiki/Star☆Twinkle_光之美少女) (\*) |
 |  | ▲ 光美大军 |  |  |
