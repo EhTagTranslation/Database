@@ -163,7 +163,7 @@ example:
 | suite precure | Suite 光之美少女♪ | 《Suite 光之美少女♪》（スイートプリキュア♪）是由东堂泉所制作的魔法少女动画作品，<br>“光之美少女系列”的第八辑，属第六代光之美少女。于2011年2月6日开始于朝日电视系播出。 | [HP](https://www.toei-anim.co.jp/tv/suite_precure/) |
 | smile precure | Smile 光之美少女！ | 《Smile 光之美少女！》（スマイルプリキュア！），是由东映动画所制作的魔法少女动画作品，<br>“光之美少女系列”第九作，属第七代光之美少女，于2012年2月5日在朝日电视系播出。 | [HP](https://www.toei-anim.co.jp/tv/smile_precure/) |
 | dokidoki precure | 心跳！光之美少女 | 《心跳！光之美少女》（ドキドキ！プリキュア）是由东堂泉所创作的魔法少女动画作品、<br>“光之美少女系列”第十作，属第八代光之美少女，2013年2月3日开始在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/dokidoki_precure/) |
-| happinesscharge precure | Happiness Charge 光之美少女！ | 《Happiness Charge 光之美少女！》（ハピネスチャージプリキュア！）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”十周年之作，为第十一套作品，属第九代光之美少女。 | [HP](https://www.toei-anim.co.jp/tv/happinesscharge_precure/) |
+| happinesscharge precure | 幸福爆发 光之美少女！ | 《幸福爆发 光之美少女！》（ハピネスチャージプリキュア！）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”十周年之作，为第十一套作品，属第九代光之美少女。 | [HP](https://www.toei-anim.co.jp/tv/happinesscharge_precure/) |
 | go princess precure | Go! Princess 光之美少女 | 《Go! Princess 光之美少女》（Go！プリンセスプリキュア）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”第十二作，属第十代光之美少女。2015年2月1日在朝日电视台和朝日放送播放。 | [HP](https://www.toei-anim.co.jp/tv/princess_precure/) |
 | maho girls precure | 魔法使 光之美少女! | 《魔法使 光之美少女！》（日语：魔法つかいプリキュア！）是东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十三作，属第十一代光之美少女。2016年2月7日在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/mahotsukai_precure/) |
 | kirakira precure a la mode | 光之美少女 食尚甜心 | 《光之美少女 食尚甜心》（日语：キラキラ☆プリキュアアラモード）是由东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十四作，属第十二代光之美少女。2017年2月5日于朝日放送和朝日电视台播放。<br><br>![动画海报](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [HP](https://www.toei-anim.co.jp/tv/precure_alamode/) |
