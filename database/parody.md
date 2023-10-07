@@ -2075,7 +2075,7 @@ example:
 | power pro kun pocket | 口袋力量棒球 |  | [百度百科](https://baike.baidu.com/item/口袋力量棒球9) [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pro_Kun_Pocket) |
 | anothereidos of dragon vein r | 龙脉·另一种姿态 | 《龙脉•另一种姿态》（日文：龍脈のアナザーエイドス，英文：Anothereidos of Dragon Vein）是Habbit开发的策略塔防游戏，于2021年10月30日首次公开，并于同年12月24日在PC、Android平台上发布。游戏分为全年龄版跟R版，二者的存档互通。 | [萌娘百科](https://zh.moegirl.org.cn/龙脉·另一种姿态) |
 | the saga of darren shan | 向达伦大冒险 | 《向达伦大冒险》（The Saga of Darren Shan）是爱尔兰作家向达伦的系列小说作品，全系列共有12本。小说描写主角向达伦在少年时期变成一个半吸血鬼，在吸血鬼世界的冒险故事。繁体中文版由皇冠出版社出版，已经于2005年4月发行完毕。 | [维基百科](https://zh.wikipedia.org/zh/向達倫大冒險) |
-| delicious party precure | 美味PARTY♡光之美少女 | 《美味PARTY♡光之美少女》（日语：デリシャスパーティ♡プリキュア）是由东映动画制作的《光之美少女系列》动画第十九代作品，于2022年2月6日在日本播映。为令和时代的第三部光之美少女系列作品，并重新恢复在2月第一个星期日开始播放的传统。 | [萌娘百科](https://zh.moegirl.org.cn/美味PARTY_光之美少女) [维基百科](https://zh.wikipedia.org/zh/Delicious_Party_♡_光之美少女) |
+| delicious party precure | 美味派对♡光之美少女 | 《Delicious Party ♡ 光之美少女》（日语：デリシャスパーティ♡プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十九作，第十七代光之美少女。2022年2月6日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/delicious-party_precure/) |
 | ai the somnium files | AI：梦境档案 |  |  |
 | ku-neru maruta | 吃吃睡睡的玛璐塔 | 《玛塔小姐的饱食日记》（《吃吃睡睡的玛璐塔》）漫画 ，玛璐塔小姐是来自葡萄牙的一名贫穷吃货。一人住在筑龄七十年的公寓里，家中恩格尔系数高得离谱。红茶叉烧肉、鸡油炒饭、面包边单卷等等神奇的食物层出不穷。没钱也要吃得开心！深夜恐怖美食漫画，敬请期待！ | [维基百科（日语）](https://ja.wikipedia.org/wiki/くーねるまるた) [百度百科](https://baike.baidu.com/item/吃吃睡睡的玛璐塔) [Bangumi](https://bgm.tv/subject/77891) |
 | school shock | 雏蜂 | 《雏蜂》是中国漫画家孙恒（化名白猫sunny）创作的科幻战争向漫画，2009年9月15日开始连载。改编动画在2015年的7月23日开始在中国网络放送，并在2015年8月15日登陆日本，成为第一部由中国输入日本的动漫原创作品， | [维基百科](https://zh.wikipedia.org/zh/雛蜂) [萌娘百科](https://zh.moegirl.org.cn/雏蜂) |
