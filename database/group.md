@@ -12646,6 +12646,7 @@ example:
 | mrm lab | MRMラボ |  |  |
 | monkees | モンキーズ |  |  |
 | jalapeno chips | ハラペーニョチップス |  | [dlsite](https://www.dlsite.com/home/circle/profile/=/maker_id/RG71662.html) |
+| yattemiyou | ヤッてみよう! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
