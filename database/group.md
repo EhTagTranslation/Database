@@ -2278,7 +2278,7 @@ example:
 | yoru no hitsuji | 夜のひつじ |  |  |
 | nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
 | momokamasu | ももかます |  | [Twitter](https://twitter.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
-| kumo no ito | 雲之糸 | クモノイト | [Twitter](https://twitter.com/spider_lifeline) [dlsite](https://ci-en.dlsite.com/creator/9356) |
+| kumo no ito | 雲之糸 | クモノイト | [Twitter](https://twitter.com/spider_lifeline) [DLsite](https://ci-en.dlsite.com/creator/9356) |
 | tokachibare | 十勝晴レ |  |  |
 | bomubomuburin | ボムボムブリン |  |  |
 | nisiarea | にしえりあ |  |  |
