@@ -12645,7 +12645,7 @@ example:
 | haimitsutou | 廃蜜灯 |  | [DLsite](https://www.dlsite.com/home-touch/circle/profile/=/from/work.maker/maker_id/RG38833.html) |
 | mrm lab | MRMラボ |  |  |
 | monkees | モンキーズ |  |  |
-| jalapeno chips | ハラペーニョチップス |  | [dlsite](https://www.dlsite.com/home/circle/profile/=/maker_id/RG71662.html) |
+| jalapeno chips | ハラペーニョチップス |  | [DLsite](https://www.dlsite.com/home/circle/profile/=/maker_id/RG71662.html) |
 | yattemiyou | ヤッてみよう! |  |  |
 
 <!--TEMPLATE: 
