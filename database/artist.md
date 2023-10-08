@@ -7776,7 +7776,7 @@ example:
 | meiji michiru | 明治ミチル |  |  |
 | meika | めいか |  |  |
 | meiko | めい子 |  |  |
-| meito | 星名めいと | 与`a:hoshina meito`为同一人<br>![](https://i.pixiv.cat/user-profile/img/2020/07/27/04/32/03/19062569_5455de1a91688c8b64e493b5057d7053_170.png) | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67)<br>[Fantia](https://fantia.jp/fanclubs/12372) |
+| meito | 星名めいと \| めいと | `a:hoshina meito`的曾用名<br>![](https://i.pixiv.cat/user-profile/img/2020/07/27/04/32/03/19062569_5455de1a91688c8b64e493b5057d7053_170.png)<br>めいと<br>@satsuki\_meito<br>![](https://pbs.twimg.com/profile_images/966694917752864768/5P5X-vpy_400x400.jpg) | 星名めいと<br>[pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67)<br>[Fantia](https://fantia.jp/fanclubs/12372)<br>めいと<br>[pixiv](https://www.pixiv.net/users/10200)<br>[Twitter](https://twitter.com/satsuki_meito)<br>[FANBOX](https://maze.fanbox.cc/) |
 | meiya | メイヤ |  |  |
 | mekabu aji max | めかぶ味MAX |  |  |
 | mekuri | めくり |  |  |
