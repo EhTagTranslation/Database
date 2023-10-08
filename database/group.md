@@ -12524,7 +12524,7 @@ example:
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
 | shuukyuu 8-ka | 週休8日 |  |  |
-| sagamiokiva | さがみおきば |  | [dlsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG45062.html) |
+| sagamiokiva | さがみおきば |  | [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG45062.html) |
 | bochi bochi no ki | ぼちぼちの木 |  |  |
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
 | henry plaza | 半里プラザー |  |  |
