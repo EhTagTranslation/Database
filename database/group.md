@@ -7594,7 +7594,7 @@ example:
 | mayugesaien | 眉毛菜園 |  |  |
 | mayugeya | 眉毛屋 |  |  |
 | mazarashi | まざらし |  |  |
-| maze | まぜ |  |  |
+| maze | まぜ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG39153.html) |
 | maze rerijio | 迷図 レリジオ |  |  |
 | mazemono | まぜもの |  |  |
 | mbs truth | メイビーソフトトゥルース |  |  |
