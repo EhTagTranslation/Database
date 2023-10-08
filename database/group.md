@@ -12071,7 +12071,7 @@ example:
 | yagiya | 山羊屋 |  |  |
 | yah-yah-doh | YAH-YAH-DOH |  |  |
 | yajinsei ra-men | 野人性ラーメン |  |  |
-| yajirushi key | 矢印キ→ |  | [Fantia](https://fantia.jp/fanclubs/12372) |
+| yajirushi key | 矢印キー | Fantia是矢印キ→のFantia (星名めいと)<br>DLsite是矢印キー | [Fantia](https://fantia.jp/fanclubs/12372)<br>[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG29379.html) |
 | yajiya | 八至屋 |  |  |
 | yajuu kazoku | 野獣家族 |  |  |
 | yakan hikou | 夜間飛行 |  |  |
