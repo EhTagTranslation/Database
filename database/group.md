@@ -7970,7 +7970,7 @@ example:
 | mogura company | MOGURA COMPANY |  |  |
 | mogura tengu | もぐら天狗 |  |  |
 | moirai | moirai |  |  |
-| mojiya | ＭＯじ屋 |  |  |
+| mojiya | MOじ屋 |  |  |
 | mokkori musume. | もっこり娘。 |  |  |
 | mokugyuutan | もくぎゅうたん。 |  |  |
 | mokumoku | もくもく |  |  |
