@@ -12408,7 +12408,7 @@ example:
 | agachi | あがち |  |  |
 | shiina shinya | 椎名深夜 |  |  |
 | touketsu | 卜ウケツ |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
-| hoshina meito | 星名めいと | 与`a:meito`为同一人<br>![](https://i.pixiv.cat/user-profile/img/2020/07/27/04/32/03/19062569_5455de1a91688c8b64e493b5057d7053_170.png) | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67) |
+| hoshina meito | 星名めいと | 与`a:meito`为同一人<br>![](https://i.pixiv.cat/user-profile/img/2020/07/27/04/32/03/19062569_5455de1a91688c8b64e493b5057d7053_170.png) | [pixiv](https://www.pixiv.net/users/6843920)<br>[Twitter](https://twitter.com/meito_67)<br>[Fantia](https://fantia.jp/fanclubs/12372) |
 | nanonanno | なのなんの |  | [pixiv](https://www.pixiv.net/users/52362501)<br>[Twitter](https://twitter.com/nanonanno18) |
 | kuroseimu | クロセイム |  |  |
 | teppo | 鉄歩 |  |  |
