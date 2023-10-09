@@ -383,7 +383,7 @@ example:
 | dr.bug | Dr.阿虫 | 中国台湾地区右翼漫画家 |  |
 | ameto yuki | あめとゆき |  | [pixiv](https://www.pixiv.net/users/92891) [Twitter](https://twitter.com/ameto_y) [个人主页](http://amenochiyuki.blog43.fc2.com/) |
 | kenkou cross | 健康クロス |  |  |
-| yanagawa rio | やながわ理央 |  |  |
+| yanagawa rio | やながわ理央 | 梁川理央 | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ002590) |
 | kakuzatou | 核座头 |  | [pixiv](https://www.pixiv.net/users/20557975) |
 | kaminagi | 神凪 |  |  |
 | twinbox | TwinBox | 「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。 | [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [个人网站](https://www.twinbox-tb.com) |
