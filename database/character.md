@@ -4931,6 +4931,7 @@ example:
 | izumi nase | 名濑泉 |  |  |
 | kaito kirishima | 雾岛海人 |  |  |
 | ichika takatsuki | 贵月一花 |  |  |
+| magdeburg | 马格德堡 | M级轻巡洋舰马格德堡（马格达莱娜）KMS Magdeburg マクデブルク，手游《碧蓝航线》角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
