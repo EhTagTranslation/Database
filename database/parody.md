@@ -1541,7 +1541,7 @@ example:
 | twelve forever | 永远12岁 |  | [萌娘百科](https://zh.moegirl.org.cn/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
 | little nightmares | 小小噩梦 |  |  |
-| healin good precure | 元气魔法 ♡ 光之美少女 | 《元气魔法 ♡ 光之美少女》（日语：ヒーリングっど♡プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十七作，第十五代光之美少女。2020年2月2日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/healingood_precure/) |
+| healin good precure | 元气魔法♡光之美少女 | 《元气魔法♡光之美少女》（日语：ヒーリングっど♡プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十七作，第十五代光之美少女。2020年2月2日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/healingood_precure/) |
 | uchi no maid ga uzasugiru | 我家的女仆有够烦！ |  |  |
 | flying witch | 飞翔的魔女 |  |  |
 | mushoku tensei | 无职转生 |  |  |
