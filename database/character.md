@@ -4929,6 +4929,7 @@ example:
 | sigewinne | 希格雯 | 希格雯（英语：sigewinne）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希格雯) |
 | mitsuki nase | 名瀬美月 |  |  |
 | izumi nase | 名濑泉 |  |  |
+| kaito kirishima | 雾岛海人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
