@@ -4930,6 +4930,7 @@ example:
 | mitsuki nase | 名瀬美月 |  |  |
 | izumi nase | 名濑泉 |  |  |
 | kaito kirishima | 雾岛海人 |  |  |
+| ichika takatsuki | 贵月一花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
