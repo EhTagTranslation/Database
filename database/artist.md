@@ -4112,7 +4112,7 @@ example:
 | anchors | Anchors |  |  |
 | hamaburicchi | ハマブリッチ | あんだ |  |
 | andoriyu | あんどりゅ～ |  |  |
-| andou hiroyuki | 安藤裕行 |  |  |
+| andou hiroyuki | 安藤裕行 |  | [pixiv](https://www.pixiv.net/users/542692) |
 | andou tomoya | 安藤智也 |  |  |
 | andouyou | アンドウユウ |  |  |
 | andrew | Andrew |  |  |
