@@ -4169,7 +4169,7 @@ example:
 | aonatsusu | 蒼夏酢 |  |  |
 | aono | あおの |  |  |
 | aono akira | 蒼野アキラ |  |  |
-| aono keita | 青野圭太 |  |  |
+| aono keita | 青野圭太 |  | [pixiv](https://www.pixiv.net/users/4093248) |
 | aono yami | 蒼野矢美 |  |  |
 | aonuma shizuma | 蒼沼シズマ |  |  |
 | aoreyo | あおれよ |  |  |
