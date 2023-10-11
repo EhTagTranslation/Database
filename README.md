@@ -65,10 +65,6 @@
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
 
-- [FEhViewer](https://github.com/honjow/FEhViewer)  
-  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  一个由 Flutter 编写的阅读器，支持直连。
-
 - [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
   ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
@@ -109,6 +105,11 @@
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   EhViewer overhauled with Material Design 3 and more.
+  
+- [FEhViewer](https://github.com/honjow/FEhViewer)  
+  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  一个由 Flutter 编写的阅读器，支持直连。
+  
 </details>
 
 ## 开发指南
