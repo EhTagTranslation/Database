@@ -351,15 +351,15 @@ example:
 | cloaca insertion | 泄殖腔插入 | 将任何东西插入泄殖腔。可能援引`retractable penis`标签。不用于插入阴道。 |  |
 | cockphagia | 阴茎吞食 | 被阴茎整个吞食，可能会导致`big penis`。需要`urethra insertion`标签，不要与`vore`或`unbirth`混淆。 |  |
 | cock ring | 锁精环 | 戴在阴茎和/或阴囊轴周围的环。不应与`chastity belt`混淆，但二者可以共存。用作`wormhole`的环不符合条件。 |  |
-| dick growth | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。 |  |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
+| penis enlargement | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
-| retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`dick growth`、`clit growth`或`big clit`混淆。 |  |
+| retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`penis enlargement`、`clit growth`或`big clit`混淆。 |  |
 | smegma | 阴垢 | 在阴茎和包皮之间或阴蒂和阴唇附近潮湿地区存在的各种物质。 |  |
 |  | ==== 下半身 > 阴部 > 阴道 ==== |  |  |
 |  | adventitious vagina畸位阴道 | 在身体的意想不到的地方至少有一个阴道（例如手、嘴或上半身）。 |  |
