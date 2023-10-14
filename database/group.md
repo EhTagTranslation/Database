@@ -12650,6 +12650,7 @@ example:
 | nekonokarintou | ねこのかりんとう |  |  |
 | chikara koso power | 力こそパワー |  |  |
 | chachanako | 茶茶ナコ |  |  |
+| shiro no ie | シロの家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
