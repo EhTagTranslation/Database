@@ -4936,6 +4936,7 @@ example:
 | tea gardner | 真崎杏子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/真崎杏子) |
 | laphicet | 莱菲瑟特 |  |  |
 | eleanor hume | 艾蕾诺亚·修姆 |  |  |
+| magillanica lou mayvin | 玛琪露 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
