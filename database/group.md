@@ -12649,6 +12649,7 @@ example:
 | yattemiyou | ヤッてみよう! |  |  |
 | nekonokarintou | ねこのかりんとう |  |  |
 | chikara koso power | 力こそパワー |  |  |
+| chachanako | 茶茶ナコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
