@@ -1565,7 +1565,7 @@ example:
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/SSSS.DYNAZENON) |
 | yagate kimi ni naru | 终将成为你 |  |  |
 | maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
-| lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin](https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin) |
+| lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [百度百科](https://baike.baidu.com/item/罗德岛战记/84494) |
 | tantei wa mou shindeiru. | 侦探已死 | 《侦探已死》（日语：探偵はもう、死んでいる。，又译：《侦探已经，死了。》），是二语十所著的日本轻小说，由Umibouzu（うみぼうず）担任插画，2019年11月25日起由MF文库J开始出版。改编电视动画于2021年7月4日首播，由ENGI制作。 | [维基百科](https://zh.wikipedia.org/wiki/偵探已經，死了。) [萌娘百科](https://zh.moegirl.org.cn/侦探已经死了) |
 | the secret of kells | 凯尔经的秘密 | 《凯尔经的秘密》取材于爱尔兰基督教插图手抄本《凯尔经》，讲述了一位怀揣理想的少年克服重重困难绘制经书的故事。 |  |
 | anarchy reigns | 极度混乱 | 《极度混乱》（日版名：マックス アナーキー，Max Anarchy，英文版名：Anarchy Reigns）是白金工作室开发，世嘉所发行，以PlayStation 3及XBOX 360为平台的多人动作游戏，于2012年7月5日发行。《极度混乱》是白金工作室首度制作的在线多人联机游戏。 |  |
@@ -2204,7 +2204,7 @@ example:
 | jewelpet sunshine | 宝石宠物 Sunshine | 是《`p:jewelpet tinkle`》的后作，但是，故事中的舞台背景设定与前作并没有关连，是以独立和不同的世界观组成。 | [维基百科](https://zh.wikipedia.org/wiki/寶石寵物_Sunshine) |
 | eve burst error | EVE burst error |  | [维基百科（英语）](https://en.wikipedia.org/wiki/EVE_Burst_Error) |
 | mahou shoujo tokushusen asuka | 魔法少女特殊战明日香 |  | [萌娘百科](https://zh.moegirl.org.cn/魔法少女特殊战明日香) [维基百科](https://zh.wikipedia.org/wiki/魔法少女特殊戰明日香) |
-| ponyo | 崖上的波妞 |  | [萌娘百科](https://zh.moegirl.org.cn/崖上的波妞) [https://baike.baidu.com/item/崖上的波妞/832725](https://baike.baidu.com/item/崖上的波妞/832725) |
+| ponyo | 崖上的波妞 |  | [萌娘百科](https://zh.moegirl.org.cn/崖上的波妞) [百度百科](https://baike.baidu.com/item/崖上的波妞/832725) |
 | lv1 maou to one room yuusha | LV1魔王与独居废勇者 | 勇者麦克斯历尽艰辛打倒了魔王，然而魔王就算死过一次仍能苏醒。于是，魔王为了亲手打倒勇者，沉睡了十年就急忙苏醒过来…！在这个十年间已极速繁荣发展了的人类社会里，腐烂了的勇者和幼女魔王将会…！ | [萌娘百科](https://zh.moegirl.org.cn/LV1魔王与独居废勇者) |
 | love live hasunosora jogakuin school idol club | 莲之空女学院学园偶像俱乐部 | 莲之空女学院学园偶像俱乐部（日语：蓮ノ空女学院スクールアイドルクラブ；英语：Hasu No Sora Jogakuin School Idol Club）是2022年2月公布的LoveLive!系列的虚拟学园偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/莲之空女学院学园偶像俱乐部) [维基百科](https://zh.wikipedia.org/wiki/蓮之空女學院學園偶像俱樂部) |
 | little lord fauntleroy | 小公子西迪 | 《小公子西迪》（日语：小公子セディ）是英国作家弗朗西斯·霍奇森·伯内特所写的小说《小勋爵》改编的日本电视动画。是日本动画公司制作的`p:world masterpiece theater`第14部作品。于1988年1月10日～1988年12月25日播放，全43集。 | [萌娘百科](https://zh.moegirl.org.cn/小公子西迪) [维基百科](https://zh.wikipedia.org/wiki/小公子西迪) |

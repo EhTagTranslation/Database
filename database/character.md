@@ -3131,7 +3131,7 @@ example:
 | gray | 格蕾 | 埃尔梅罗二世（韦伯·维尔维特）的入室弟子，面容与saber相同，可使用圣枪伦戈米尼亚德 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/格蕾) |
 | koyanskaya | 高扬斯卡娅 | 玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [https://wiki.komica.org/T·V·柯楊斯卡雅](https://wiki.komica.org/T·V·柯楊斯卡雅) |
 | mineva lao zabi | 密涅瓦·劳·扎比（汤小美） | 米妮瓦·拉欧·萨比 （ミネバ・ラオ・ザビ / Mineva Lao Zabi，又译为米妮瓦或米妮芭，或汤小美）是动画版机动战士GUNDAM，机动战士Z GUNDAM，机动战士GUNDAM ZZ以及机动战士GUNDAM UC当中的登场人物。生于UC0079年9月2日，是德兹尔·萨比与妻子瑟娜之间的独生女。也是萨比家唯一在一年战争之后还存活的人物。声优：初代TV版与剧场版：无，TV版Ζ与ΖΖ当中为伊藤美纪，UC当中为藤村步。<br><br>阅读更多：薩比家（[萌娘百科](https://zh.moegirl.org.cn/薩比家）)<br>本文引自萌娘百科([萌娘百科](https://zh.moegirl.org.cn))，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0》协议。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/薩比家#米妮瓦·拉歐·薩比) |
-| marida cruz | 玛莉妲·库鲁斯 | 普露12 | [https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
+| marida cruz | 玛莉妲·库鲁斯 | 普露12 | [百度百科](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
 | mizuki usami | 宇佐美瑞希 | 宇佐美瑞希是由いみぎむる所创作的漫画《这个美术社大有问题!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/宇佐美瑞希) |
 | subaru uchimaki | 内卷昴 | 内卷昴是由いみぎむる所创作的漫画《这个美术社大有问题》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/内卷昴) |
@@ -3139,7 +3139,7 @@ example:
 | daisy mo | 墨小菊 | 墨小菊是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。活力四射的邻家发小。<br>![图](https://img.moegirl.org.cn/common/a/aa/14987284392711.jpg) | [萌娘百科](https://zh.moegirl.org.cn/墨小菊) |
 | violet wen | 文芷 | 文芷是山百合旗下绘恋制作组制作的国产恋爱冒险游戏《三色绘恋》的女主角之一。“高贵冷艳”的插班生同桌。<br>![图](https://img.moegirl.org.cn/common/9/95/Https---image.cngal.org-upload-20170629-14987284322843.jpg) | [萌娘百科](https://zh.moegirl.org.cn/文芷) |
 | sunny chih | 迟菓 | 迟菓是山百合文化传播有限公司旗下绘恋Galgame制作组制作游戏《三色绘恋》及《三色绘恋S》中的登场角色，在《三色绘恋》中作为重要角色首次登场，是《三色绘恋S》中的女主角。<br>![图](https://img.moegirl.org.cn/common/1/19/Chiguo.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迟菓) |
-| sarah kerrigan | 莎拉·凯瑞甘 | 莎拉·露伊斯·凯瑞甘——也称为刀锋女王，是暴雪娱乐公司出品的即时战略游戏《星际争霸》系列中的主角之一。 | [https://baike.baidu.com/item/莎拉·凯瑞甘](https://baike.baidu.com/item/莎拉·凯瑞甘) |
+| sarah kerrigan | 莎拉·凯瑞甘 | 莎拉·露伊斯·凯瑞甘——也称为刀锋女王，是暴雪娱乐公司出品的即时战略游戏《星际争霸》系列中的主角之一。 | [百度百科](https://baike.baidu.com/item/莎拉·凯瑞甘) |
 | ozymandias | 奥斯曼狄斯 | 奥斯曼狄斯（拉美西斯二世）是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉美西斯二世%28Fate%29) |
 | paimon | 派蒙 | 派蒙是游戏《原神》的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [萌娘百科](https://zh.moegirl.org.cn/派蒙%28原神%29) |
 | hilbert | 斗也 | 斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
@@ -3319,7 +3319,7 @@ example:
 | sonju | 宋杰 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
 | lucas | 卢卡斯 | 《约定的梦幻岛》避难所篇章配角之一 |  |
 | yugo | 尤格 | 《约定的梦幻岛》避难所篇章配角之一 |  |
-| cecily cambell | 瑟希莉·坎贝尔 | 瑟希莉·坎贝尔是《圣剑锻造师》的女主角。生于历代骑士贵族之家，继承了父亲的剑，并成为了独立贸易都市哈斯曼自卫骑士团的新人骑士。红色短发，个性充满正义感，勇于挑战盗贼及犯罪者。语气非常认真的红发少女，坎贝尔家现任当主。“圣剑的剑鞘”的继承者。 | [https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466](https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466) |
+| cecily cambell | 瑟希莉·坎贝尔 | 瑟希莉·坎贝尔是《圣剑锻造师》的女主角。生于历代骑士贵族之家，继承了父亲的剑，并成为了独立贸易都市哈斯曼自卫骑士团的新人骑士。红色短发，个性充满正义感，勇于挑战盗贼及犯罪者。语气非常认真的红发少女，坎贝尔家现任当主。“圣剑的剑鞘”的继承者。 | [百度百科](https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466) |
 | skadi | 斯卡蒂 | 斯卡蒂是游戏《[明日方舟](https://zh.moegirl.org.cn/明日方舟)》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:斯卡蒂) |
 | suzuhara lulu | 铃原露露 | 铃原露露 （ 日语：鈴原るる / すずはら るるSuzuhara Lulu）是一名从2019年5月1日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>![](# "https://ehgt.org/73/2b/732b603fd856f87c1bc0587262698c6646782f06-948652-827-1494-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/铃原露露) |
 | otogibara era | 御伽原江良 | 御伽原 江良（おとぎばら えら）是于2019年3月10日在Youtube开始活动,隶属于彩虹社的虚拟Youtuber。已于活动二周年2021年3月10日引退。<br>![](# "https://ehgt.org/41/dd/41dd3d18999785d595e464aa93597fea87d4e73f-561732-2090-3022-jpg_250.jpg") | [萌娘百科](https://zh.moegirl.org.cn/御伽原江良) |
@@ -3331,7 +3331,7 @@ example:
 | milim nava | 米莉姆·纳瓦 |  | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
 | kotoko iwanaga | 岩永琴子 |  |  |
 | meme touwa | 藤和女女 |  | [萌娘百科](https://zh.moegirl.org.cn/藤和女女) |
-| makoto niwa | 丹羽真 |  | [https://baike.baidu.com/item/丹羽真/750418](https://baike.baidu.com/item/丹羽真/750418) |
+| makoto niwa | 丹羽真 |  | [百度百科](https://baike.baidu.com/item/丹羽真/750418) |
 | erio touwa | 藤和艾莉欧 | 入间人间所创作的轻小说《电波女与青春男》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/藤和艾莉欧) |
 | langa hasegawa | 驰河兰加 | 动画《SK8 无限滑板》男主角之一。配音为小林千晃。 |  |
 | reki kyan | 喜屋武历 | 动画《SK8 无限滑板》男主角之一。配音为畠中祐。 |  |
@@ -3612,7 +3612,7 @@ example:
 | misogi hodaka | 穗高未奏希 | ![](https://img.moegirl.org.cn/common/thumb/1/16/Hodaka_misogi_pc.png/420px-Hodaka_misogi_pc.png)<br>穗高未奏希（日语：穂高（ほだか） みそぎ，又译穗高禊（xì））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为未奏希（日语：ミソギ）。 | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
 | yuni shingyouji | 真行寺由仁 | 真行寺由仁（日语：真行寺（しんぎょうじ） 由仁（ゆに））是Cygames开发和发行的游戏《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为优妮（日语：ユニ）。 | [萌娘百科](https://zh.moegirl.org.cn/真行寺由仁) |
 | takagi | 高木同学 | 高木同学是由山本崇一朗创作的漫画《擅长捉弄人的高木同学》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/6/61/Takagi_BD2.jpg/800px-Takagi_BD2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高木同学) |
-| stella unibell | 史黛拉·尤尼贝尔 | 史黛拉·尤尼贝尔是游戏《灵魂行者》（Soul Worker）中的角色，她性格天真烂漫，超级我行我素，不论周围的情况如何都以自己的心情优先。有在意的事就忍不住，会说出出乎意料的话。喜欢唱起幽灵和歌来说话，欠缺常识，对“气”很敏感。因为别人的死而有着无法承受的悲伤，有倾向于凭依状态回避状况的倾向。 | [https://baike.baidu.com/item/灵魂武器/4950731](https://baike.baidu.com/item/灵魂武器/4950731) |
+| stella unibell | 史黛拉·尤尼贝尔 | 史黛拉·尤尼贝尔是游戏《灵魂行者》（Soul Worker）中的角色，她性格天真烂漫，超级我行我素，不论周围的情况如何都以自己的心情优先。有在意的事就忍不住，会说出出乎意料的话。喜欢唱起幽灵和歌来说话，欠缺常识，对“气”很敏感。因为别人的死而有着无法承受的悲伤，有倾向于凭依状态回避状况的倾向。 | [百度百科](https://baike.baidu.com/item/灵魂武器/4950731) |
 | hotaru futaba | 双叶萤 | 饿狼MARK OF THE WOLVES中的人物，是一个喜爱拳法的可爱率真少女。 |  |
 | keke tang | 唐可可 |  |  |
 | kasumi yoshizawa | 芳泽霞 | 芳泽霞（日语：芳澤（よしざわ） かすみ）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5 皇家版》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芳泽堇) |
@@ -3760,8 +3760,8 @@ example:
 | naruko yokoshima | 横岛鸣子 |  |  |
 | aoi hinami | 日南葵 | ![](https://p.sda1.dev/5/e2c3ea537baae8be52f1b3f3abfd12a0/chara2_img.png) |  |
 | feena fam earthlight | 菲娜·法姆·阿修莱特 | 菲娜·法姆·阿修莱特（Feena fam Earthlight）是August旗下游戏《更胜黎明前的琉璃色》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/5/e19463143122e42df3a6db71acc0b24f/300px-Feena_Fam_Earthlight.jpg) | [萌娘百科](https://zh.moegirl.org.cn/菲娜·法姆·阿修莱特) |
-| akiko minase | 水濑秋子 | 动画、游戏《Kanon》中的人物。相泽祐一的阿姨，水濑名雪的母亲。 | [https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin](https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin) |
-| yuuichi aizawa | 水濑名雪 | 水濑名雪，Key社制作的游戏及其改编动画《Kanon》中的女主角之一。蓝色长发，温柔善解人意，有时也很迷糊，天然呆的美少女。擅长跑步，是学校里田径社的社长。非常能睡，在毫无征兆的情况下可以站着睡着。 | [https://baike.baidu.com/item/水濑名雪/2251173](https://baike.baidu.com/item/水濑名雪/2251173) |
+| akiko minase | 水濑秋子 | 动画、游戏《Kanon》中的人物。相泽祐一的阿姨，水濑名雪的母亲。 | [百度百科](https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin) |
+| yuuichi aizawa | 水濑名雪 | 水濑名雪，Key社制作的游戏及其改编动画《Kanon》中的女主角之一。蓝色长发，温柔善解人意，有时也很迷糊，天然呆的美少女。擅长跑步，是学校里田径社的社长。非常能睡，在毫无征兆的情况下可以站着睡着。 | [百度百科](https://baike.baidu.com/item/水濑名雪/2251173) |
 | itako tohoku | 东北伊达子 |  |  |
 | una otomachi | 音街鳗 |  |  |
 | kokona aoba | 青羽心夏 | 漫画`yama no susume`中的角色 | [萌娘百科](https://zh.moegirl.org.cn/青羽心夏) |
@@ -3898,7 +3898,7 @@ example:
 | sukuna | 两面宿傩 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/两面宿傩) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) |
 | yuuji itadori | 虎杖悠仁 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/虎杖悠仁) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori) [维基百科（英语）](https://en.wikipedia.org/wiki/Yuji_Itadori) |
 | megumi fushiguro | 伏黑惠 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/伏黑惠) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro) [维基百科（英语）](https://en.wikipedia.org/wiki/Megumi_Fushiguro) |
-| caitlyn | 凯特琳 | 皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。 | [https://baike.baidu.com/item/皮城女警/7770355](https://baike.baidu.com/item/皮城女警/7770355) |
+| caitlyn | 凯特琳 | 皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。 | [百度百科](https://baike.baidu.com/item/皮城女警/7770355) |
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 |  |  |
 | aegir | 埃吉尔 |  |  |
@@ -4805,7 +4805,7 @@ example:
 | heywood l.e. | 海伍德·L·E | 海伍德·L·爱德华兹号驱逐舰（USS Heywood L.Edwards，DD-663）属于美国海军的弗莱彻级驱逐舰子型舰。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Heywood%20L.E.) |
 | ranger | 突击者 | 突击者号（USS Ranger，CV-4）为美国海军第一艘以航空母舰为目的而设计并制造的军舰，也是美国海军在航母开发黎明期的尝试作品。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Ranger) |
 | janus | 雅努斯 | HMS Janus是英国皇家海军的J级驱逐舰（J-class destroyer）5号舰，舰名来自古代罗马神话中的双面门神Janus，该舰是第六艘继承该舰名的皇家海军舰艇。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Janus)<br>[舰队Collection:雅努斯](https://zh.moegirl.org.cn/zh-hant/舰队Collection:雅努斯) |
-| ornn | 奥恩 | 英雄联盟角色 | [https://baike.baidu.com/item/山隐之焰/22069139?fr=ge\_ala](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
+| ornn | 奥恩 | 英雄联盟角色 | [百度百科](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
 | chong yue | 重岳 | 重岳是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 | ethan | 伊桑 | 伊桑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
 | ren yamashiro | 山城恋 | 山城恋是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/山城恋) |
