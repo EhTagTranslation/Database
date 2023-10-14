@@ -3770,7 +3770,7 @@ example:
 | takanashi kiara | 小鸟游琪亚拉 | 小鳥遊 キアラ<br>隶属于HoloEn的Vtuber<br>`hololive`<br>`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/小鳥遊キアラ) (\*) |
 | yumeko jabami | 蛇喰梦子 | 漫画`kakegurui`及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/蛇喰梦子) (\*\*) |
 | reed | 苇草 |  |  |
-| ui kozeki | 古关忧 | 游戏碧蓝档案（Blue Archive）角色，三一综合学园图书委员会委员长。 | [碧蓝档案wiki\_bilibili][https://wiki.biligame.com/bluearchive/ウイ](https://wiki.biligame.com/bluearchive/ウイ) |
+| ui kozeki | 古关忧 | 游戏碧蓝档案（Blue Archive）角色，三一综合学园图书委员会委员长。 | [碧蓝档案wiki\_bilibili](https://wiki.biligame.com/bluearchive/ウイ) |
 | battler ushiromiya | 右代宫战人 | 右代宫战人是07th Expansion所创作的同人游戏《海猫鸣泣之时》及其衍生作品的登场角色。作品的男主角。留弗夫与前妻明日梦之子。<br>![图](https://ehgt.org/fd/d2/fdd2024fd834d03fe73f02022158c563ae2d7937-74888-400-566-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/右代宫战人) |
 | sideroca | 铸铁 | ![立绘\_铸铁\_skin1.png](https://s2.loli.net/2022/04/07/HJ84ceZYdbL52AD.png)<br>《明日方舟》五星干员铸铁 | [PRTS wiki](https://prts.wiki/id/14737)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:铸铁) |
 | utage | 宴 | ![明日方舟立绘\_宴\_skin1.png](https://s2.loli.net/2022/04/07/9NsBIvCJHT1g7Vl.png)<br>《明日方舟》宴 | [PRTS Wiki](https://prts.wiki/w/宴)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:宴) |
