@@ -12651,6 +12651,7 @@ example:
 | chikara koso power | 力こそパワー |  |  |
 | chachanako | 茶茶ナコ |  |  |
 | shiro no ie | シロの家 |  |  |
+| sankaku button | 三角ボタン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
