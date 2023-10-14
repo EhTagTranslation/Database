@@ -12575,6 +12575,7 @@ example:
 | shaggy susu | Shaggy SUSU |  | [FANBOX](https://www.fanbox.cc/@shaggysusu) [pixiv](https://www.pixiv.net/users/40138790) [Twitter](https://twitter.com/aiden39439540) [Patreon](https://www.patreon.com/user?u=51386268) |
 | xiao bai tian | 小白天 | 喜欢绘制少年或男孩。 | [https://x.com/0nQn8YMXpkzgnem?s=09](https://x.com/0nQn8YMXpkzgnem?s=09)<br>[pixiv](https://www.pixiv.net/users/21089872) |
 | suzukawa | 凉河 |  | [Twitter](https://x.com/suzukawa_poo)<br>[pixiv](https://www.pixiv.net/users/4970303) |
+| kizuna | 絆 |  | [Twitter](https://twitter.com/Kizuna_0113) [pixiv](https://www.pixiv.net/users/16034374) |
 
 <!--TEMPLATE:
 |  |  |  |  |
