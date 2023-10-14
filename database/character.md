@@ -4935,6 +4935,7 @@ example:
 | kaveh | 卡维 | 卡维是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/卡维%28原神%29#) |
 | tea gardner | 真崎杏子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/真崎杏子) |
 | laphicet | 莱菲瑟特 |  |  |
+| eleanor hume | 艾蕾诺亚·修姆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
