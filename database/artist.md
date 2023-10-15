@@ -5347,7 +5347,7 @@ example:
 | glastonbury1966 | グラストンベリー1966 |  |  |
 | glycerol takeru | グリセリンたける |  |  |
 | glyserin | グリセ麟 |  |  |
-| gmkj | GMKJ |  |  |
+| gmkj | GMKJ |  | [pixiv](https://www.pixiv.net/users/4212281) [Twitter](https://twitter.com/GMKJ17) |
 | go-1 | Go-1 |  |  |
 | goban | ごばん |  |  |
 | goblin | ゴブリン |  |  |
