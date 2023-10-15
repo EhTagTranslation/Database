@@ -12652,6 +12652,7 @@ example:
 | chachanako | 茶茶ナコ |  |  |
 | shiro no ie | シロの家 |  |  |
 | sankaku button | 三角ボタン |  |  |
+| geppei bunchou | 月餅文蝶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
