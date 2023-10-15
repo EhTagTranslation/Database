@@ -10994,7 +10994,7 @@ example:
 | topo | とぽ |  |  |
 | tora | 虎 |  |  |
 | torai ryuu | 虎井 龍 |  |  |
-| toraisi666 | とらいし666 |  |  |
+| toraisi666 | とらいし666 |  | [pixiv](https://www.pixiv.net/users/2886368) [Twitter](https://twitter.com/toraisix) |
 | torajimaneko | とらじまねこ |  |  |
 | torakichi | とらきち |  |  |
 | toran | とらん |  |  |
