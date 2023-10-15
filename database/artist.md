@@ -1008,7 +1008,7 @@ example:
 | natsume eri | なつめえり |  |  |
 | kuroinu juu | 黑犬兽 |  |  |
 | bakutaso | 爆タソ |  |  |
-| mda starou | MだSたろう |  | [pixiv](https://www.pixiv.net/users/3316400) [Twitter](https://twitter.com/MsMspc) |
+| mda starou | MだSたろう |  | [pixiv](https://www.pixiv.net/users/4212281) [Twitter](https://twitter.com/GMKJ17) |
 | tsuchigayu | 土粥 |  | [pixiv](https://www.pixiv.net/users/4700924) |
 | myu-po | myu-po |  | [pixiv](https://www.pixiv.net/users/172800) |
 | nase | 名濑 |  |  |
