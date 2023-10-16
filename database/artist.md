@@ -2580,7 +2580,7 @@ example:
 | namidame | 泪目 |  |  |
 | higata akatsuki | 阳方晶月 |  |  |
 | kayumidome | かゆみ止め |  |  |
-| naha 78 | 七G |  |  |
+| naha 78 | ナハ78 |  |  |
 | getsuyou yasumi. | 月曜休み。 |  |  |
 | arumamai ayuka plus | 在誠舞あゆか+ |  | [Twitter](https://twitter.com/ArumaAyu) [pixiv](https://www.pixiv.net/users/6754627) |
 | take calcium | 竹刈シウム |  | [pixiv](https://www.pixiv.net/users/16832991) |
