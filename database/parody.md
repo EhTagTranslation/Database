@@ -2213,6 +2213,7 @@ example:
 | grimoire shiritsu grimoire mahou gakuen | 私立格里莫瓦魔法学园 | 《私立格里莫瓦魔法学园》（日语：グリモア～私立グリモワール魔法学園～）是日本手机游戏制作公司Applibot2014年推出的幻想即时卡牌战斗游戏。<br><br>故事讲述了主人公本来是一位非常普通的高中生，但某天却觉醒了“魔法”的力量。由不能自由操控这力量，于是进入魔法学园学习魔法的使用。一边在学园上课，一边对抗“雾之魔物”，与魔法少女们的物语从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/私立格里莫瓦魔法学园) [百度百科](https://baike.baidu.com/item/魔典：私立魔法学园/15087110) [维基百科（日语）](https://ja.wikipedia.org/wiki/グリモア〜私立グリモワール魔法学園〜) |
 | futoku no guild | 不道德公会 | 河添太一所创作的日本漫画，开始连载于《月刊少年GANGAN》2017年7月号。改编电视动画于2022年10月5日首播，动画制作公司是TNK。 |  |
 | kemono jihen | 怪物事变 | 《怪物事变》（日语：けものじへん）是由蓝本松创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/怪物事变) |
+| oounabara to wadanohara | 大海原与大海原 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
