@@ -4941,6 +4941,7 @@ example:
 | jingliu | 镜流 |  |  |
 | dan heng | 丹恒 |  |  |
 | caelus | 穹 |  |  |
+| seele | 希儿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
