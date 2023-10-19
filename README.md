@@ -73,6 +73,10 @@
   ![iOS][plat-ios] ![Android][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/jiangtian616/JHenTai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   使用 Flutter 开发的多端 App，现支持安卓、苹果和 Windows 系统。
 
+- [EhDatabase2Dictionary](https://github.com/HeavySnowJakarta/EhDatabase2Dictionary)  
+  ![Python][plat-python] ![GitHub Release Date](https://img.shields.io/github/release-date/HeavySnowJakarta/EhDatabase2Dictionary?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  将 EhTagTranslation 项目的成果转换为 MDict 等各种格式的词典。
+
 <details>
 
 <summary>
@@ -127,6 +131,7 @@
 [plat-android]: https://img.shields.io/badge/Android-brightgreen.svg?logo=android&logoColor=fff
 [plat-windows]: https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=fff&color=0078D6
 [plat-macos]: https://img.shields.io/badge/macOS-lightgrey.svg?logo=apple&logoColor=fff&color=666
+[plat-python]: https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat
 
 ## 状态
 
