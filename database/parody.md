@@ -2214,6 +2214,7 @@ example:
 | futoku no guild | 不道德公会 | 河添太一所创作的日本漫画，开始连载于《月刊少年GANGAN》2017年7月号。改编电视动画于2022年10月5日首播，动画制作公司是TNK。 |  |
 | kemono jihen | 怪物事变 | 《怪物事变》（日语：けものじへん）是由蓝本松创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/怪物事变) |
 | oounabara to wadanohara | 大海原与大海原 |  |  |
+| zero escape | 极限脱出 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
