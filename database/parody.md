@@ -2215,6 +2215,7 @@ example:
 | kemono jihen | 怪物事变 | 《怪物事变》（日语：けものじへん）是由蓝本松创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/怪物事变) |
 | oounabara to wadanohara | 大海原与大海原 |  |  |
 | zero escape | 极限脱出 |  |  |
+| araburu kisetsu no otome-domo yo | 骚动时节的少女们啊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
