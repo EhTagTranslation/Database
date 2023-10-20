@@ -8878,7 +8878,7 @@ example:
 | nukiyama gaisei | 拔山蓋世 |  |  |
 | nukobao | ぬこばお |  |  |
 | nukoko | ぬここ |  |  |
-| nukui lususu | ぬくいるすす |  |  |
+| nukui lususu | ぬくい味汐 |  |  |
 | numada | 沼田 |  |  |
 | numata chihiro | ぬまたちひろ |  |  |
 | number 55 | number\_55 |  |  |
