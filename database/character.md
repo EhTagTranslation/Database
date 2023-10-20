@@ -4942,6 +4942,7 @@ example:
 | dan heng | 丹恒 |  |  |
 | caelus | 穹 |  |  |
 | pozemka | 鸿雪 | 明日方舟角色 |  |
+| kotori toyomi | 丰见亚都梨 |  | [Fandom](https://bluearchive.fandom.com/wiki/Toyomi_Kotori) [萌娘百科](https://zh.moegirl.org.cn/丰见亚都梨) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
