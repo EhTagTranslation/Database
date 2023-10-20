@@ -2216,6 +2216,7 @@ example:
 | oounabara to wadanohara | 大海原与大海原 |  |  |
 | zero escape | 极限脱出 |  |  |
 | araburu kisetsu no otome-domo yo | 骚动时节的少女们啊 |  |  |
+| yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau | 被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女 |  | [萌娘百科](https://zh.moegirl.org.cn/被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
