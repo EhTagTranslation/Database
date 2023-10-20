@@ -434,7 +434,7 @@ example:
 | garter belt | 吊袜带 | 有夹子的带状内衣，用来拉起易下滑的`stockings`。<br>![图](# "https://ehgt.org/e5/8c/e58c66ab448a6e377f43c58a97b7c7ef46cb0188-726693-1059-1500-jpg_l.jpg") |  |
 | gothic lolita | 哥特萝莉装 | 一种黑暗但有很多褶的服装风格。<br>![图](# "https://ehgt.org/17/ec/17ec0f8fed464572fa43810ed17fa12b2d014a1b-998571-1408-2000-jpg_l.jpg")![图](# "https://ehgt.org/ad/48/ad48584415dacbceb791a805e8eddf05ed9948a9-1049757-1066-1500-jpg_l.jpg") |  |
 | gymshorts | 运动短裤 | 短的运动裤子，颜色和长度可以改变。不应与`bloomers`或`bike shorts`混淆。<br>![图](# "https://ehgt.org/5d/13/5d13fffb1cb16c99d3eb77c53ff3e57985723fa5-3645640-2149-3035-jpg_l.jpg")![图](https://ehgt.org/a1/2f/a12fdf19d1ebdac40a1ca5a00c88374ef6774e30-543473-1024-768-png_l.jpg)![图](https://ehgt.org/39/1e/391e16bc04b9bb369ab9d438172d3366eb6893fb-103453-648-865-jpg_250.jpg) |  |
-|  | haigure高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的女孩，强调阴部的位置。 |  |
+| haigure | 高叉装 | 穿着在胳膊和腿部弯曲的紧身衣服的人，强调阴部的位置。 |  |
 | headphones | 头戴式耳机 | 头上戴耳机或者脖子上挂耳机的人。耳壳必须足够大，可以盖住耳朵。 |  |
 | high heels | 高跟鞋 | 通常是细高跟鞋，将穿着者的脚后跟抬高到脚掌顶部以上。仅适用于高跟鞋，不适用于标准鞋跟，例如普通学校鞋。需要`crossdressing`标签。 |  |
 | hijab | 头巾 | 一个覆盖头部和胸部的面纱，主要用于遮盖头发。需要`crossdressing`标签。 |  |
