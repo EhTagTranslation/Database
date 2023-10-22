@@ -4945,6 +4945,7 @@ example:
 | kotori toyomi | 丰见亚都梨 |  | [Fandom](https://bluearchive.fandom.com/wiki/Toyomi_Kotori) [萌娘百科](https://zh.moegirl.org.cn/丰见亚都梨) |
 | frieren | 芙莉莲 | `p:sousou no frieren`的女主角，打倒了魔王的勇者一行人中的精灵族魔法使，人类族大魔法使伏拉梅的徒弟。其外貌主要特征是绑成双马尾的银色长发和蓝色双眼，精灵族特有的尖耳和白皙的肤色。 | [萌娘百科](https://zh.moegirl.org.cn/芙莉莲) [漫画官网角色介绍](https://websunday.net/work/708) |
 | joshua bright | 约修亚·布莱特 | ![](https://cdn.trails-game.com/wp-content/uploads/2021/06/Joshua_fc.png) | [萌娘百科](https://zh.moegirl.org.cn/约修亚·布莱特)<br>[轨迹系列 – Cafe](https://trails-game.com/character/joshua-bright/) |
+| courier | 讯使 | 讯使是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:讯使) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
