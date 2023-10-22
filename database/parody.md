@@ -2217,6 +2217,7 @@ example:
 | zero escape | 极限脱出 |  |  |
 | araburu kisetsu no otome-domo yo | 骚动时节的少女们啊 |  |  |
 | yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau | 被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女 |  | [萌娘百科](https://zh.moegirl.org.cn/被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女) |
+| doukyuusei | 同级生 | 《同级生》是élf在1992年发售的恋爱游戏类型日本成人游戏，除游戏外，也发售过OVA、小说等相关作品。重制版的中英文版本于2022年4月15日发售。 | [萌娘百科](https://zh.moegirl.org.cn/同级生%28游戏%29) [维基百科](https://zh.wikipedia.org/zh/同级生_%28游戏%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
