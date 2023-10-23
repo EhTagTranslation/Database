@@ -4947,6 +4947,7 @@ example:
 | joshua bright | 约修亚·布莱特 | ![](https://cdn.trails-game.com/wp-content/uploads/2021/06/Joshua_fc.png) | [萌娘百科](https://zh.moegirl.org.cn/约修亚·布莱特)<br>[轨迹系列 – Cafe](https://trails-game.com/character/joshua-bright/) |
 | courier | 讯使 | 讯使是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:讯使) |
 | thorns | 棘刺 | 棘刺是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:棘刺) |
+| issei hyoudou | 兵藤一诚 | 《恶魔高校D×D》及其衍生作品中的男主角 | [萌娘百科](https://mzh.moegirl.org.cn/兵藤一诚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
