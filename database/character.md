@@ -4948,6 +4948,7 @@ example:
 | courier | 讯使 | 讯使是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:讯使) |
 | thorns | 棘刺 | 棘刺是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:棘刺) |
 | issei hyoudou | 兵藤一诚 | 《恶魔高校D×D》及其衍生作品中的男主角 | [萌娘百科](https://mzh.moegirl.org.cn/兵藤一诚) |
+| chizuru shiina | 椎名千鹤 | 椎名 千鶴(しいな ちづる)<br>曲がったことが大嫌いな優等生。<br>優しくてカッコいい月野に恋をしている。 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html)<br>[ACDB WIKI](https://www.animecharactersdatabase.com/characters.php?id=115351) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
