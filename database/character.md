@@ -4951,6 +4951,7 @@ example:
 | chizuru shiina | 椎名千鹤 | 椎名 千鶴(しいな ちづる)<br>曲がったことが大嫌いな優等生。<br>優しくてカッコいい月野に恋をしている。 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html)<br>[ACDB WIKI](https://www.animecharactersdatabase.com/characters.php?id=115351) |
 | miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
 | riven | 锐雯 | 网络游戏《英雄联盟》登场英雄。 |  |
+| zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
