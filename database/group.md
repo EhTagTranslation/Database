@@ -12421,7 +12421,7 @@ example:
 | zukaishiki | ずかいしき |  |  |
 | zuukoku shoukai | ずぅこく商会 |  |  |
 | zuwaigani beam | ズワイガニビーム |  |  |
-| zweidrei | zweidrei |  |  |
+| zweidrei | 中文翻译 | 中文翻译 | 中文翻译 |
 | zyulokuya | 十録屋 |  |  |
 | zyx | ジックス |  |  |
 | ajito529 | アジト529 |  |  |
