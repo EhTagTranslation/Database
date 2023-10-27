@@ -4952,6 +4952,7 @@ example:
 | miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
 | riven | 锐雯 | 网络游戏《英雄联盟》登场英雄。 |  |
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
+| xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [https://baike.baidu.com/item/洁诺薇亚·夸塔](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
