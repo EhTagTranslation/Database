@@ -4953,6 +4953,7 @@ example:
 | riven | 锐雯 | 网络游戏《英雄联盟》登场英雄。 |  |
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
 | xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [https://baike.baidu.com/item/洁诺薇亚·夸塔](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
+| crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe WIKI](https://trails-game.com/character/crow-armbrust/)<br>[萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特)<br>[https://baike.baidu.com/item/克洛·安布斯特/62063303?fromtitle=库洛·阿姆布拉斯特&fromid=15997538](https://baike.baidu.com/item/克洛·安布斯特/62063303?fromtitle=库洛·阿姆布拉斯特&fromid=15997538) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
