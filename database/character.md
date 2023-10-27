@@ -2278,7 +2278,7 @@ example:
 |  | ▼ 火焰之纹章 |  |  |
 | kamui | 卡姆依 |  |  |
 | takumi | 拓海 |  |  |
-| charlotte | 夏洛特\|夏洛蒂 | 1.所属作品:`p:seiken densetsu`<br>2.所属作品:`p:granblue fantasy`<br>3.所属作品:`p:puella magi madoka magica`<br>4.夏洛蒂(charlotte)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | 4.[萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
+| charlotte | 夏洛特 \| 夏洛蒂 | 1. 所属作品:`p:seiken densetsu`<br><br>2. 所属作品:`p:granblue fantasy`<br><br>3. 所属作品:`p:puella magi madoka magica`<br><br>4. 夏洛蒂(charlotte)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | 4. [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
 | ryoma | 龙马 |  |  |
 | orochi | 远吕智 |  |  |
 | elise | 爱丽丝 |  |  |
@@ -4952,7 +4952,7 @@ example:
 | miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
 | riven | 锐雯 | 网络游戏《英雄联盟》登场英雄。 |  |
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
-| xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [https://baike.baidu.com/item/洁诺薇亚·夸塔](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
+| xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 | crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe](https://trails-game.com/character/crow-armbrust/) [萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特) [百度百科](https://baike.baidu.com/item/克洛·安布斯特/62063303) |
 
 <!--TEMPLATE: 
