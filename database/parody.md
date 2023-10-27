@@ -1868,7 +1868,7 @@ example:
 | chalkzone | 粉笔世界 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/ChalkZone) |
 | chaos breaker | 混沌斩断 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/カオスブレイカー) |
 | chaos child | 混沌之子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/混沌之子) |
-| chaos head | 混沌之子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/CHAOS%3BHEAD) |
+| chaos head | 混沌之脑 |  | [维基百科](https://zh.wikipedia.org/zh-cn/CHAOS%3BHEAD) |
 | cheer danshi | 男子啦啦队！！ |  | [维基百科](https://zh.wikipedia.org/zh-cn/男子啦啦隊！！) |
 | chibi maruko-chan | 樱桃小丸子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/櫻桃小丸子) |
 | chibi vampire | 增血鬼果林 |  | [维基百科](https://zh.wikipedia.org/zh-cn/增血鬼果林) |
