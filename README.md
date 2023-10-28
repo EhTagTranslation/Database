@@ -76,6 +76,10 @@
 - [EhDatabase2Dictionary](https://github.com/HeavySnowJakarta/EhDatabase2Dictionary)  
   ![Python][plat-python] ![GitHub Release Date](https://img.shields.io/github/release-date/HeavySnowJakarta/EhDatabase2Dictionary?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   将 EhTagTranslation 项目的成果转换为 MDict 等各种格式的词典。
+  
+- [FEhViewer](https://github.com/3003h/FEhViewer)  
+  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/3003h/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  一个由 Flutter 编写的阅读器，支持直连。
 
 <details>
 
@@ -109,10 +113,6 @@
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   EhViewer overhauled with Material Design 3 and more.
-  
-- [FEhViewer](https://github.com/honjow/FEhViewer)  
-  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  一个由 Flutter 编写的阅读器，支持直连。
   
 </details>
 
