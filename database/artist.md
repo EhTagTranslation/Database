@@ -12586,6 +12586,7 @@ example:
 | sakai | 坂井 |  | [pixiv](https://www.pixiv.net/users/74640170) [Twitter](https://twitter.com/dekadekapokochi) |
 | reiichi | 零壱 |  |  |
 | akichi | 空き地 |  |  |
+| kouzu sousuke | 兴津惣介 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
