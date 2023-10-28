@@ -12587,6 +12587,7 @@ example:
 | reiichi | 零壱 |  |  |
 | akichi | 空き地 |  |  |
 | kouzu sousuke | 兴津惣介 |  |  |
+| lemon snail | Lemon Snail |  | [pixiv](https://www.pixiv.net/users/60588249) |
 
 <!--TEMPLATE:
 |  |  |  |  |
