@@ -12654,6 +12654,7 @@ example:
 | sankaku button | 三角ボタン |  |  |
 | geppei bunchou | 月餅文蝶 |  |  |
 | nullspace | NULLSPACE |  |  |
+| sys-lila | シスリラ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
