@@ -4957,6 +4957,7 @@ example:
 | yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://mzh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
 | fine motion | 美妙姿势 |  |  |
 | air groove | 气槽 |  |  |
+| matikane tannhauser | 待兼诗歌剧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
