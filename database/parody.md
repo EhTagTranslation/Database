@@ -2220,6 +2220,7 @@ example:
 | doukyuusei | 同级生 | 《同级生》是élf在1992年发售的恋爱游戏类型日本成人游戏，除游戏外，也发售过OVA、小说等相关作品。重制版的中英文版本于2022年4月15日发售。 | [萌娘百科](https://zh.moegirl.org.cn/同级生%28游戏%29) [维基百科](https://zh.wikipedia.org/zh/同级生_%28游戏%29) |
 | dohna dohna issho ni warui koto o shiyou | 多娜多娜一起干坏事吧 |  |  |
 | chizuru-chan kaihatsu nikki | 千鹤酱的开发日志 | 千鶴ちゃん開発日記 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html) [ACDB WIKI](https://www.animecharactersdatabase.com/source.php?id=108229) |
+| arc the lad | 妖精战士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
