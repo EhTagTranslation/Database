@@ -7120,7 +7120,7 @@ example:
 | kosugi koutarou | 小杉光太郎 |  |  |
 | kosuke | 小助 |  |  |
 | kosuzu | 小鈴 |  |  |
-| kota | kota |  |  |
+| kota | 耕太 \| コタ \| こた(炬太郎) \| kota´ |  | 耕太：[pixiv](https://www.pixiv.net/users/10277858)<br>コタ(DEAR)：[pixiv](https://www.pixiv.net/users/38845) [Twitter](https://twitter.com/cotarou)<br>コタ(アルミカン)：[pixiv](https://www.pixiv.net/users/2438419) [Twitter](https://twitter.com/kota75_zzz)<br>こた(炬太郎)：[pixiv](https://www.pixiv.net/users/1337291) [Twitter](https://twitter.com/kota_ur0) |
 | kotaru | 瑚樽 |  |  |
 | kotatsu | 虎龍 |  |  |
 | kotatsu tomodachi | コタツトモダチ |  |  |
