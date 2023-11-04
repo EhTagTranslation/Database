@@ -2221,6 +2221,7 @@ example:
 | dohna dohna issho ni warui koto o shiyou | 多娜多娜一起干坏事吧 |  |  |
 | chizuru-chan kaihatsu nikki | 千鹤酱的开发日志 | 千鶴ちゃん開発日記 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html) [ACDB WIKI](https://www.animecharactersdatabase.com/source.php?id=108229) |
 | arc the lad | 妖精战士 |  |  |
+| haiiro teien | 灰色庭园 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
