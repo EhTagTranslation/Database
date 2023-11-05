@@ -4958,7 +4958,7 @@ example:
 | fine motion | 美妙姿势 |  |  |
 | air groove | 气槽 |  |  |
 | matikane tannhauser | 待兼诗歌剧 |  |  |
-| ash ketchum | 小智 | 小智（日文︰サトシ，英文︰Ash Ketchum）是宝可梦动画中宝可梦至宝可梦 旅途的主角，他是一位梦想成为宝可梦大师的十岁少年。在宝可梦 太阳＆月亮的阿罗拉联盟宣传影片中，他被称为全力挑战者（暂译，日文︰ゼンリョクチャレンジャー）。<br>![图](https://s1.52poke.wiki/wiki/thumb/e/ee/SS_小智.png/150px-SS_小智.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/小智（动画）) |
+| ash ketchum | 小智 | 小智（日文︰サトシ，英文︰Ash Ketchum）所属作品:`p:pokemon` 是宝可梦动画中宝可梦至宝可梦 旅途的主角，他是一位梦想成为宝可梦大师的十岁少年。<br>![图](https://s1.52poke.wiki/wiki/thumb/e/ee/SS_小智.png/150px-SS_小智.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/小智（动画）) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
