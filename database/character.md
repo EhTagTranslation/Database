@@ -4959,6 +4959,7 @@ example:
 | air groove | 气槽 |  |  |
 | matikane tannhauser | 待兼诗歌剧 |  |  |
 | ash ketchum | 小智 | 小智（日文︰サトシ，英文︰Ash Ketchum）所属作品:`p:pokemon` 是宝可梦动画中宝可梦至宝可梦 旅途的主角，他是一位梦想成为宝可梦大师的十岁少年。<br>![图](https://s1.52poke.wiki/wiki/thumb/e/ee/SS_小智.png/150px-SS_小智.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/小智（动画）) |
+| jirachi | 基拉祈 | 基拉祈（日文︰ジラーチ，英文︰Jirachi）是钢属性／超能力属性幻之宝可梦。<br>拥有类似星星的外型，背部有两条形似布的构造，腹部有类似眼睛的器官。星角末端有蓝绿色方形构造。眼睛下方有蓝绿色三角形纹路。<br>![图](https://s1.52poke.wiki/wiki/thumb/8/85/385Jirachi.png/300px-385Jirachi.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/基拉祈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
