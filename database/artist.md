@@ -12589,6 +12589,7 @@ example:
 | kouzu sousuke | 兴津惣介 |  |  |
 | lemon snail | Lemon Snail |  | [pixiv](https://www.pixiv.net/users/60588249) |
 | zirba | Zirba |  | [pixiv](https://www.pixiv.net/users/51212838) |
+| fyxfd | 肥油小分队 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
