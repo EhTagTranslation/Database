@@ -12655,6 +12655,7 @@ example:
 | geppei bunchou | 月餅文蝶 |  |  |
 | nullspace | NULLSPACE |  |  |
 | sys-lila | シスリラ |  |  |
+| kaisendon | カイセンドン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
