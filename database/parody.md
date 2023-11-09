@@ -2222,6 +2222,7 @@ example:
 | chizuru-chan kaihatsu nikki | 千鹤酱的开发日志 | 千鶴ちゃん開発日記 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html) [ACDB WIKI](https://www.animecharactersdatabase.com/source.php?id=108229) |
 | arc the lad | 妖精战士 |  |  |
 | haiiro teien | 灰色庭园 |  |  |
+| shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka | 末日时在做什么？有没有空？可以来拯救吗？ | 終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
