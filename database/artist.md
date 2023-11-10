@@ -12593,6 +12593,7 @@ example:
 | karei | かれい |  |  |
 | arashiya | 嵐屋 |  |  |
 | yamamoto yumiko | 山本由美子 |  |  |
+| zurikishi | ずり騎士 |  | [pixiv](https://www.pixiv.net/users/69359432) [Twitter](https://twitter.com/zurikishi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
