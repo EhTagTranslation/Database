@@ -12591,6 +12591,7 @@ example:
 | zirba | Zirba |  | [pixiv](https://www.pixiv.net/users/51212838) |
 | fyxfd | 肥油小分队 |  |  |
 | karei | かれい |  |  |
+| arashiya | 嵐屋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
