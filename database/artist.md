@@ -12592,6 +12592,7 @@ example:
 | fyxfd | 肥油小分队 |  |  |
 | karei | かれい |  |  |
 | arashiya | 嵐屋 |  |  |
+| yamamoto yumiko | 山本由美子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
