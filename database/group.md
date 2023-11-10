@@ -12656,6 +12656,7 @@ example:
 | nullspace | NULLSPACE |  |  |
 | sys-lila | シスリラ |  |  |
 | kaisendon | カイセンドン |  |  |
+| dandan dango | 段々団子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
