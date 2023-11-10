@@ -4964,6 +4964,7 @@ example:
 | billy the kid | 比利·奇德 | 比利·奇德，游戏《绝区零》中的角色，造型帅气倜傥，是个个性吊儿郎当的智能机械人。作为特摄剧《星徽骑士》的狂热粉丝，比利不仅自称星徽骑士，还常常把剧中台词常挂嘴边 | [百度百科](https://baike.baidu.com/item/比利·奇德/61202600) |
 | lloyd bannings | 罗伊德·班宁斯 |  | [轨迹系列 – Cafe](https://trails-game.com/character/lloyd-bannings/)<br>[萌娘百科](https://zh.moegirl.org.cn/罗伊德·班宁斯)<br>[百度百科](https://baike.baidu.com/item/罗伊德·班宁斯)<br>[Fandom](https://kiseki.fandom.com/wiki/Lloyd)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/罗伊德·班宁斯) |
 | agnes claudel | 亚妮艾丝·克劳蒂尔 |  | [轨迹系列 - Café](https://trails-game.com/character/agnes-claudel/)<br>[Fandom](https://kiseki.fandom.com/wiki/Agnes_Claudel)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/亚妮艾丝·克劳蒂尔) |
+| lorelei | 科拿 | 石英高原四天王 | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/科拿) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
