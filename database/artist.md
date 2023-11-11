@@ -12594,6 +12594,7 @@ example:
 | arashiya | 嵐屋 |  |  |
 | yamamoto yumiko | 山本由美子 |  |  |
 | zurikishi | ずり騎士 |  | [pixiv](https://www.pixiv.net/users/69359432) [Twitter](https://twitter.com/zurikishi) |
+| himeno mikan | 姫野蜜柑 |  | [Twitter](https://twitter.com/mikan_himeno) [pixiv](https://www.pixiv.net/users/736188) |
 
 <!--TEMPLATE:
 |  |  |  |  |
