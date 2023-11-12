@@ -12597,6 +12597,7 @@ example:
 | himeno mikan | 姫野蜜柑 |  | [Twitter](https://twitter.com/mikan_himeno) [pixiv](https://www.pixiv.net/users/736188) |
 | fujimura q | 藤村久 |  | [Twitter](https://twitter.com/kamemushiFUJI) [pixiv](https://www.pixiv.net/users/5025734) |
 | kaneko naoya | カネコナオヤ | @nahoyan<br>![](https://pbs.twimg.com/profile_images/1666066504365010945/INTk-9Xa_400x400.jpg)<br>![](https://i.pixiv.cat/user-profile/img/2019/02/25/23/15/06/15449561_61c721956ed59f57aa47ebd23888e3b0_170.jpg) | [pixiv](https://www.pixiv.net/users/3265379)<br>[Twitter](https://twitter.com/nahoyan) |
+| grimgrim | grimgrim |  | [twitter](https://twitter.com/x2_grim/media) [pixiv](https://www.pixiv.net/users/23197974) |
 
 <!--TEMPLATE:
 |  |  |  |  |
