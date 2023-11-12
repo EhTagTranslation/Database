@@ -4433,7 +4433,7 @@ example:
 | baltika | ばるてぃか |  |  |
 | ban | ばん! |  |  |
 | bancha | 番茶 |  |  |
-| bangetsu setsuka | 晩月雪加 |  |  |
+| bangetsu setsuka | 晩月雪加 |  | [pixiv](https://www.pixiv.net/users/27391360) |
 | banjaku | ばんじゃく |  |  |
 | bankokudou | ばんこく堂 |  |  |
 | barbachos | ばるばちょす |  |  |
