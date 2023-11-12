@@ -2356,7 +2356,7 @@ example:
 | yonekura kengo | 米倉けんご |  |  |
 | yosuteinu | 世棄犬 |  |  |
 | hiyoshi hana | 日吉ハナ |  | [Twitter](https://twitter.com/hma_h) [pixiv](https://www.pixiv.net/users/863509) |
-| tabigarasu | 旅烏 |  |  |
+| tabigarasu | 旅乌 |  | [pixiv](https://www.pixiv.net/users/6715949) |
 | tsuge yasuna | つげ安奈 |  |  |
 | hissatsukun | ひっさつくん |  |  |
 | ayakawa riku | あやかわりく |  |  |
