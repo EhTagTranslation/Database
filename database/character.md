@@ -4965,6 +4965,7 @@ example:
 | lloyd bannings | 罗伊德·班宁斯 |  | [轨迹系列 – Cafe](https://trails-game.com/character/lloyd-bannings/)<br>[萌娘百科](https://zh.moegirl.org.cn/罗伊德·班宁斯)<br>[百度百科](https://baike.baidu.com/item/罗伊德·班宁斯)<br>[Fandom](https://kiseki.fandom.com/wiki/Lloyd)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/罗伊德·班宁斯) |
 | agnes claudel | 亚妮艾丝·克劳蒂尔 |  | [轨迹系列 - Café](https://trails-game.com/character/agnes-claudel/)<br>[Fandom](https://kiseki.fandom.com/wiki/Agnes_Claudel)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/亚妮艾丝·克劳蒂尔) |
 | lorelei | 科拿 | 石英高原四天王 | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/科拿) |
+| fern | 菲伦 | 漫画《葬送的芙莉莲》及其衍生作品角色，出自漫画第2话。芙莉莲的徒弟，和她一起旅行的魔法使。被海塔抚养长大的战灾孤儿。冷静的少女，仿佛母亲一般照顾生活方面懒散的芙莉莲。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
