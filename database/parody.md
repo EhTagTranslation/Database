@@ -2224,6 +2224,7 @@ example:
 | haiiro teien | 灰色庭园 |  |  |
 | shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka | 末日时在做什么？有没有空？可以来拯救吗？ | 終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？ |  |
 | flint the time detective | 时空侦探 | 《时空侦探》是于1998年至1999年在东京电视台播映的日本动画，共39集。后由漫画家山中あきら的改编为漫画。 | [维基百科](https://zh.wikipedia.org/zh/時空偵探) [百度百科](https://baike.baidu.com/item/时空侦探) |
+| fumetsu no anata e | 致不灭的你 | 《致不灭的你》（日语：不滅のあなたへ）是日本漫画家大今良时创作的漫画作品。<br><br>作品着墨于一个名为“不死”的神秘存在，它具有不死之身和复制其他生物肉体的能力。讲述了他存在的故事以及他与其他人的相遇与别离。 | [萌娘百科](https://zh.moegirl.org.cn/致不灭的你) [维基百科](https://zh.wikipedia.org/wiki/致不灭的你) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
