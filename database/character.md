@@ -852,7 +852,7 @@ example:
 | chiyuki kuwayama | 桑山千雪 |  |  |
 | tenka osaki | 大崎甜花 |  |  |
 | kaho komiya | 小宫果穂 |  |  |
-| chiyoko sonoda | 园田智代子 |  |  |
+| chiyoko sonoda | 园田智代子 | 所属作品: `p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/园田智代子) |
 | juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
 | rinze morino | 杜野凛世 |  |  |
 | natsuha arisugawa | 有栖川夏叶 |  |  |
