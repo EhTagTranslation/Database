@@ -2223,6 +2223,7 @@ example:
 | arc the lad | 妖精战士 |  |  |
 | haiiro teien | 灰色庭园 |  |  |
 | shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka | 末日时在做什么？有没有空？可以来拯救吗？ | 終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？ |  |
+| flint the time detective | 时空侦探 | 《时空侦探》是于1998年至1999年在东京电视台播映的日本动画，共39集。后由漫画家山中あきら的改编为漫画。 | [维基百科](https://zh.wikipedia.org/zh/時空偵探) [百度百科](https://baike.baidu.com/item/时空侦探) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
