@@ -4966,6 +4966,7 @@ example:
 | agnes claudel | 亚妮艾丝·克劳蒂尔 |  | [轨迹系列 - Café](https://trails-game.com/character/agnes-claudel/)<br>[Fandom](https://kiseki.fandom.com/wiki/Agnes_Claudel)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/亚妮艾丝·克劳蒂尔) |
 | lorelei | 科拿 | 石英高原四天王 | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/科拿) |
 | fern | 菲伦 | 漫画《葬送的芙莉莲》及其衍生作品角色，出自漫画第2话。芙莉莲的徒弟，和她一起旅行的魔法使。被海塔抚养长大的战灾孤儿。冷静的少女，仿佛母亲一般照顾生活方面懒散的芙莉莲。 |  |
+| cure sky | 索拉・哈雷瓦塔尔 | 索拉・哈雷瓦塔尔／天空天使<br><br>所属作品: `p:hirogaru sky precure` | [Fandom](https://prettycure.fandom.com/wiki/Sora_Harewataru) [维基百科](https://zh.wikipedia.org/zh-cn/開闊天空！光之美少女) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
