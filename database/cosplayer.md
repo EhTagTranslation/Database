@@ -99,6 +99,7 @@ example:
 | yuki astra | 雪晴Astra |  | [Instagram](https://www.instagram.com/yukiastra_) [微博](https://weibo.com/u/2389901855) [Gumroad](https://app.gumroad.com/yukiastra) [Twitter](https://twitter.com/yukiastra) [脸书](https://www.facebook.com/YukiAstra.Official) |
 | niannian d | 念念\_D |  | [微博](https://weibo.com/u/3164968121) |
 | tyouduki maryou | 蝶月真綾 |  |  |
+| ringo mitsuki | 林檎蜜纪(林檎蜜紀) | coser | [Twitter](https://twitter.com/ringo_mitsuki) |
 
 <!--
 Template: 
