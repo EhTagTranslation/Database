@@ -4971,6 +4971,7 @@ example:
 | ai sugimoto | 杉本爱 | 画师`a:ozaki miray`创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。 |  |
 | nobara kugisaki | 钉崎野蔷薇 |  |  |
 | maki zenin | 禅院真希 |  |  |
+| usagi saionji | 西园寺兔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
