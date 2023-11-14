@@ -4969,6 +4969,7 @@ example:
 | cure sky | 索拉・哈雷瓦塔尔 | 索拉・哈雷瓦塔尔／天空天使<br><br>所属作品: `p:hirogaru sky precure` | [Fandom](https://prettycure.fandom.com/wiki/Sora_Harewataru) [维基百科](https://zh.wikipedia.org/zh-cn/開闊天空！光之美少女) |
 | chiyari tenkajin | 天火人血枪 | 天火人血枪是日本的“`p:touhou project`”系列弹幕游戏及其衍生作品的登场角色之一。<br><br>首次登场于《东方兽王园》，作为可选自机与敌机登场。 | [萌娘百科](https://zh.moegirl.org.cn/天火人血枪) [THBWiki](https://thwiki.cc/天火人血枪) |
 | ai sugimoto | 杉本爱 | 画师`a:ozaki miray`创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。 |  |
+| nobara kugisaki | 钉崎野蔷薇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
