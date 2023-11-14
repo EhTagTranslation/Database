@@ -2227,6 +2227,7 @@ example:
 | fumetsu no anata e | 致不灭的你 | 《致不灭的你》（日语：不滅のあなたへ）是日本漫画家大今良时创作的漫画作品。<br><br>作品着墨于一个名为“不死”的神秘存在，它具有不死之身和复制其他生物肉体的能力。讲述了他存在的故事以及他与其他人的相遇与别离。 | [萌娘百科](https://zh.moegirl.org.cn/致不灭的你) [维基百科](https://zh.wikipedia.org/wiki/致不灭的你) |
 | shiro seijo to kuro bokushi | 白圣女与黑牧师 | 《白圣女与黑牧师》（日语：白聖女と黒牧師）是和武叶佐乃（和武はざの）所创作的日本漫画，原为和武在其pixiv发表的作品，由2017年4月20日发售的《少年Magazine R》第3号开始连载。后改编电视动画，由动画工房担任动画制作，于2023年7月至9月播映。 | [维基百科](https://zh.wikipedia.org/wiki/白聖女與黑牧師) [萌娘百科](https://zh.moegirl.org.cn/白圣女与黑牧师) |
 | slow loop | SLOW LOOP | 《女孩的钓鱼慢活》（日语：スローループ）是内野舞子的日本漫画作品。于芳文社的杂志《Manga Time Kirara Forward》2018年6月号客串刊载后，于同年11月号开始连载。 | [萌娘百科](https://zh.moegirl.org.cn/Slow_Loop) [维基百科](https://zh.wikipedia.org/zh-cn/SLOW_LOOP-女孩的釣魚慢活-) |
+| taimadou gakuen 35 shiken shoutai | 对魔导学园35试验小队 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
