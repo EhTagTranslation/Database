@@ -2073,7 +2073,7 @@ example:
 | taniguchi | 谷口 |  |  |
 |  | ▼ 爱相随 |  |  |
 | akira yukino | 雪乃玲 |  | [百度百科](https://baike.baidu.com/item/雪乃玲) |
-| manaka takane | 高岭爱花 |  | [萌娘百科](https://zh.moegirl.org.cn/高岭爱花) |
+| manaka takane | 高岭爱花 | 游戏《Love Plus》中的角色。隶属网球社的高中2年级学生。母亲是高岭珠深。家中经营诊所，父是医生，母是护士，本人则是文武双全的大小姐。10月5日出生，A型血。学习成绩优异，擅长打网球，是十野羽高中网球社里的NO.1。性格内向，被他人称为“不是同一个世界的人”。爱吃烤白薯，擅长料理，喜欢兔子和推理小说，尤其喜欢福尔摩斯。 | [萌娘百科](https://zh.moegirl.org.cn/高岭爱花) |
 | nene anegasaki | 姐崎宁宁 |  | [萌娘百科](https://zh.moegirl.org.cn/姐崎宁宁) |
 | rinko kobayakawa | 小早川凛子 |  | [萌娘百科](https://zh.moegirl.org.cn/小早川凛子) |
 |  | ▼ 真爱记录 |  |  |
