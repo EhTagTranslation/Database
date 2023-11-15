@@ -12600,6 +12600,7 @@ example:
 | grimgrim | grimgrim |  | [twitter](https://twitter.com/x2_grim/media) [pixiv](https://www.pixiv.net/users/23197974) |
 | makochan42 | まこちあ |  | [pixiv](https://www.pixiv.net/users/4267954) |
 | wagashi | 和菓子 |  | [pixiv](https://www.pixiv.net/users/4850497) [twitter](https://twitter.com/wagasi012) |
+| kayama yuichiro | 鹿山裕一郎 |  | [pixiv](https://www.pixiv.net/users/15625129) [twitter](https://twitter.com/_sikatya) |
 
 <!--TEMPLATE:
 |  |  |  |  |
