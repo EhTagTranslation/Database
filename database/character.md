@@ -4972,7 +4972,7 @@ example:
 | nobara kugisaki | 钉崎野蔷薇 |  |  |
 | maki zenin | 禅院真希 |  |  |
 | usagi saionji | 西园寺兔 |  |  |
-| principal minami | 南日和子 | “南大鸟”，音乃木坂学园的理事长，南小鸟的母亲。 |  |
+| principal minami | 南日和子 | “南大鸟”，音乃木坂学园的理事长，南小鸟的母亲。 | [https://zhidao.baidu.com/question/812579182642737212.html](https://zhidao.baidu.com/question/812579182642737212.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
