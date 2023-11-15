@@ -593,7 +593,7 @@ example:
 | mura | むら |  |  |
 | tsurusaki takahiro | 鹤崎贵大 |  |  |
 | fusataka sikibu | ふさたか式部 |  |  |
-| kutani | 九手児 |  |  |
+| kutani | 九手児 |  | [pixiv](https://www.pixiv.net/users/10875) |
 | takei masaki | 竹井正树 | 竹井正树，为日本的男性原画家、游戏设计师、插画家、动画师。MADHOUSE出身。 |  |
 | yamaki rin | 山木铃 |  |  |
 | shokushu-san | 触手さん |  |  |
