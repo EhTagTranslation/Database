@@ -4974,6 +4974,7 @@ example:
 | usagi saionji | 西园寺兔 |  |  |
 | principal minami | 南日和子 | “南大鸟”，音乃木坂学园的理事长，南小鸟的母亲。 | [https://zhidao.baidu.com/question/812579182642737212.html](https://zhidao.baidu.com/question/812579182642737212.html) |
 | sumi takane | 高岭珠深 | 高岭爱花的母亲。护士。兼具美貌和知性，几乎没有缺点。与爱操心的父亲相反，支持着爱花的恋爱。 |  |
+| illumi zoldyck | 伊路米·揍敌客 | 伊路米·揍敌客（日语：イルミ·ゾルディック）是由富坚义博所创作的漫画《全职猎人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊路米·揍敌客) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
