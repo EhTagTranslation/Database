@@ -12604,6 +12604,7 @@ example:
 | iranon | 冬灯 |  | [pixiv](https://www.pixiv.net/users/62454088) [twitter](https://twitter.com/Iranon_) [微博](https://weibo.com/5921698035) |
 | takanaga kouhei | 高永浩平 |  |  |
 | shuru-ban | しゅる版 |  | [twitter](https://twitter.com/shuru_draw/media) [pixiv](https://www.pixiv.net/users/54434641) |
+| yoongonji | 尹坤志 | ![](https://pbs.twimg.com/profile_images/1614267045813850118/8joz4Q6q_400x400.jpg)<br><br>韩国著名女性漫画家。 | [Twitter](https://twitter.com/yoongonji)<br>[Namu](https://namu.wiki/w/윤곤지) |
 
 <!--TEMPLATE:
 |  |  |  |  |
