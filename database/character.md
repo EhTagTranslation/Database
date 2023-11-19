@@ -4979,6 +4979,7 @@ example:
 | elbe | 易北 |  |  |
 | anchorage | 安克雷奇 |  |  |
 | jade | 亚德 |  |  |
+| scylla | 斯库拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
