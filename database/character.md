@@ -4978,6 +4978,7 @@ example:
 | charybdis | 卡律布狄斯 |  |  |
 | elbe | 易北 |  |  |
 | anchorage | 安克雷奇 |  |  |
+| jade | 亚德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
