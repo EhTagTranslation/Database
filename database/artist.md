@@ -12603,6 +12603,7 @@ example:
 | kayama yuichiro | 鹿山裕一郎 |  | [pixiv](https://www.pixiv.net/users/15625129) [twitter](https://twitter.com/_sikatya) |
 | iranon | 冬灯 |  | [pixiv](https://www.pixiv.net/users/62454088) [twitter](https://twitter.com/Iranon_) [微博](https://weibo.com/5921698035) |
 | takanaga kouhei | 高永浩平 |  |  |
+| shuru-ban | しゅる版 |  | [twitter](https://twitter.com/shuru_draw/media) [pixiv](https://www.pixiv.net/users/54434641) |
 
 <!--TEMPLATE:
 |  |  |  |  |
