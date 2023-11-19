@@ -4977,6 +4977,7 @@ example:
 | illumi zoldyck | 伊路米·揍敌客 | 伊路米·揍敌客（日语：イルミ·ゾルディック）是由富坚义博所创作的漫画《全职猎人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊路米·揍敌客) |
 | charybdis | 卡律布狄斯 |  |  |
 | elbe | 易北 |  |  |
+| anchorage | 安克雷奇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
