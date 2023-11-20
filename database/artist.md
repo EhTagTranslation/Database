@@ -9321,7 +9321,7 @@ example:
 | popopalt | ぽぽぱると |  |  |
 | nishi shizumu | 西しずむ | ポプラン |  |
 | poriko | ポリ子 |  |  |
-| poriuretan | ポリウレたん |  |  |
+| poriuretan | ポリウレたん |  | [pixiv](https://www.pixiv.net/users/19417472) |
 | poron | ぽろん |  |  |
 | poronatsu | ポロなつ |  |  |
 | porosuke | ぽろすけ |  |  |
