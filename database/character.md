@@ -4295,7 +4295,7 @@ example:
 | hasumi hanekawa | 羽川莲见 | 所属作品：`p:blue archive` |  |
 | hibiki nekozuka | 猫冢响 | 所属作品：`p:blue archive` |  |
 | arona | 阿罗娜 | 所属作品：`p:blue archive` |  |
-| saki sorai | 空井咲希 | 所属作品：`p:blue archive` |  |
+| saki sorai | 空井咲 | 所属作品：`p:blue archive` |  |
 | collei | 柯莱 | 柯莱(英语:collei) 所属作品`p:genshin impact`<br>是游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/原神柯莱.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/柯莱) |
 | lavenza | 拉雯妲 |  |  |
 | von lycaon | 冯·莱卡恩 | 《`zenless zone zero`》的登场角色。 |  |
