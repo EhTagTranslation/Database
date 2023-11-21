@@ -5079,7 +5079,7 @@ example:
 | exeter | エクゼター |  |  |
 | exp | EXP |  |  |
 | ezo renge | えぞれんげ |  |  |
-| f | f |  |  |
+| f | f | f |  |
 | faith | faith |  |  |
 | fan | FAN |  |  |
 | fana | ふぁな |  |  |
