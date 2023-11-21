@@ -159,7 +159,7 @@ example:
 | nosada | 乃定 |  |  |
 | yukibuster z | ユキバスターZ |  | [Twitter](https://twitter.com/yukibusterz1) [pixiv](https://www.pixiv.net/users/2697420) |
 | roga | RoGa |  |  |
-| bonnari | ぼんなり |  |  |
+| bonnari | ぼんなり |  | [pixiv](https://www.pixiv.net/users/5008006) |
 | komone ushio | 相音うしお |  |  |
 | yuriko | 白河子 |  |  |
 | nanno koto | 南野琴 |  |  |
