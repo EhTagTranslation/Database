@@ -4980,6 +4980,7 @@ example:
 | anchorage | 安克雷奇 |  |  |
 | jade | 亚德 |  |  |
 | scylla | 斯库拉 |  |  |
+| algerie | 阿尔及利亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
