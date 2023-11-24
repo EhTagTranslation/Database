@@ -2240,7 +2240,7 @@ example:
 | kobory | 柯波莉 |  |  |
 | eiko adachi | 安达映子 |  |  |
 |  | ▼ 幸运星 |  |  |
-| soujirou izumi | 泉总次郎 |  |  |
+| soujirou izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，`kanata izumi`的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG) |  |
 | kanata izumi | 泉彼方 |  |  |
 | konata izumi | 泉此方 |  |  |
 | miki hiiragi | 柊美纪 |  |  |
@@ -3848,7 +3848,6 @@ example:
 | lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif) |  |
 | raiden | 雷电 | 所属作品：`p:metal gear solid`<br>《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。 | [维基百科](https://zh.wikipedia.org/wiki/合金装备系列角色列表) |
 | tien shinhan | 天津饭 |  |  |
-| soujirou izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，泉彼方的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG) |  |
 | theresa apocalypse | 德丽莎·阿波卡利斯 |  | [萌娘百科](https://zh.moegirl.org.cn/德丽莎·阿波卡利斯%28崩坏3%29#) |
 | rozaliya olenyeva | 萝莎莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/萝莎莉娅·阿琳) |
 | liliya olenyeva | 莉莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/莉莉娅·阿琳) |
