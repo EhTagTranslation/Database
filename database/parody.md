@@ -2229,6 +2229,7 @@ example:
 | slow loop | SLOW LOOP | 《女孩的钓鱼慢活》（日语：スローループ）是内野舞子的日本漫画作品。于芳文社的杂志《Manga Time Kirara Forward》2018年6月号客串刊载后，于同年11月号开始连载。 | [萌娘百科](https://zh.moegirl.org.cn/Slow_Loop) [维基百科](https://zh.wikipedia.org/zh-cn/SLOW_LOOP-女孩的釣魚慢活-) |
 | taimadou gakuen 35 shiken shoutai | 对魔导学园35试验小队 |  |  |
 | ongeki | 音击Ongeki | Sega于2018年7月26日推出的街机音乐游戏<br>![](https://img.moegirl.org.cn/common/thumb/7/77/Ongekibright.jpg/560px-Ongekibright.jpg) | [萌娘百科](https://mzh.moegirl.org.cn/音击#游戏信息) |
+| yamada-kun to lv999 no koi o suru | 和山田进行LV.999的恋爱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
