@@ -4932,7 +4932,7 @@ example:
 | ichika takatsuki | 贵月一花 |  |  |
 | magdeburg | 马格德堡 | M级轻巡洋舰马格德堡（马格达莱娜）KMS Magdeburg マクデブルク，手游《碧蓝航线》角色。 |  |
 | kaveh | 卡维 | 卡维是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/卡维%28原神%29#) |
-| tea gardner | 真崎杏子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/真崎杏子) |
+| tea gardner | 真崎杏子 | 游戏王系列第1作，动画《游戏王 决斗者王国》及其衍生作品中的女主角。<br>武藤游戏的青梅竹马，长相可爱又天然，小时候在因为父亲在纽约工作而在当地生活，看了「黑魔导女孩 贤者之宝石」这出舞台剧深受其感动，决心想成为一名舞者。<br>性格善良，重视友情，一直很关照着在学校里受欺负的游戏，经常和游戏、城之内和本田广一起行动。<br>是武藤游戏的暗恋对象，但因为有一次在汉堡店打工时被越狱犯挟持成为人质时，被暗游戏解救，暗恋着暗游戏。<br>![](https://img.moegirl.org.cn/common/5/52/真崎杏子.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/真崎杏子) |
 | laphicet | 莱菲瑟特 |  |  |
 | eleanor hume | 艾蕾诺亚·修姆 |  |  |
 | magillanica lou mayvin | 玛琪露 |  |  |
