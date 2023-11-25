@@ -12607,6 +12607,7 @@ example:
 | yoongonji | 尹坤志 | ![](https://pbs.twimg.com/profile_images/1614267045813850118/8joz4Q6q_400x400.jpg)<br><br>韩国著名女性漫画家。 | [Twitter](https://twitter.com/yoongonji)<br>[Namu](https://namu.wiki/w/윤곤지) |
 | mobuta | モブ太 |  |  |
 | xiaozi xiao | 笑笑饺子 |  | [twitter](https://twitter.com/GyozaBaby_0214/media) [pixiv](https://www.pixiv.net/users/50634464) |
+| shura | 朱雷 |  | [pixiv](https://www.pixiv.net/users/23353614) |
 
 <!--TEMPLATE:
 |  |  |  |  |
