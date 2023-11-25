@@ -12608,6 +12608,7 @@ example:
 | mobuta | モブ太 |  |  |
 | xiaozi xiao | 笑笑饺子 |  | [twitter](https://twitter.com/GyozaBaby_0214/media) [pixiv](https://www.pixiv.net/users/50634464) |
 | shura | 朱雷 |  | [pixiv](https://www.pixiv.net/users/23353614) |
+| kokonobi | 九尾 | 七尾奈留的徒弟 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
