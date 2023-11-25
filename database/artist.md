@@ -12610,6 +12610,7 @@ example:
 | shura | 朱雷 |  | [pixiv](https://www.pixiv.net/users/23353614) |
 | kokonobi | 九尾 | 七尾奈留的徒弟 |  |
 | pooh | ぷぅ |  | [Twitter](https://twitter.com/Pooh_Piyo) [pixiv](https://www.pixiv.net/users/114344) |
+| irono | ゐろの |  | [Twitter](https://twitter.com/irono_1910) [pixiv](https://www.pixiv.net/users/21474581) |
 
 <!--TEMPLATE:
 |  |  |  |  |
