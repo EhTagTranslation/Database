@@ -12611,6 +12611,7 @@ example:
 | kokonobi | 九尾 | 七尾奈留的徒弟 |  |
 | pooh | ぷぅ |  | [Twitter](https://twitter.com/Pooh_Piyo) [pixiv](https://www.pixiv.net/users/114344) |
 | irono | ゐろの |  | [Twitter](https://twitter.com/irono_1910) [pixiv](https://www.pixiv.net/users/21474581) |
+| isshi pyuma | 一志ピューマ |  | [Twitter](https://twitter.com/pyuma_isshi) [pixiv](https://www.pixiv.net/users/9614294) |
 
 <!--TEMPLATE:
 |  |  |  |  |
