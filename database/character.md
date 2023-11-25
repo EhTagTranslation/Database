@@ -5012,6 +5012,7 @@ example:
 | kaname ohgi | 扇要 | 《叛逆的鲁鲁修》及其衍生作品中的男性角色。<br>华莲所属的反抗势力的队长。与华莲的哥哥，也是前队长的红月直人（红月ナオト） 是好朋友，之后接替红月直人带领着反抗组织。对周遭的人很和善，但却缺乏领导反抗军的统帅与计划能力，其本人也有自觉。因此当ZERO在危机中出现并解救他们时，放下了疑惑支持ZERO。但对ZERO的信任程度似乎还比不上对京都六家的信任。因为救了维蕾塔回家而在某留言版被公认为杂碎，作为第一个信任ZERO的人，同时也是第一个背叛ZERO的人。在结局部分扇要成为新生日本首相。 |  |
 | ruri | 黑咲琉璃 | 游戏王系列的第5部作品《游戏王ARC-V》的女角色。<br>黑咲隼的妹妹，游斗的朋友。生活于超量次元的城市心园，就读于心园开设的黑桃决斗学校。<br>样貌与柊柚子、塞瑞娜、凛三人相似，手上也有戴着类似的手镯。 |  |
 | cornelia li britannia | 柯内莉亚·li·布里塔尼亚 | 《反叛的鲁路修 CODE GEASS》及其衍生作品的女性角色。<br>原神圣布里塔尼亚帝国第二皇女，高级军官，11区前总督。现任黑色骑士团军官，率小队镇守超合众国—吉尔克斯坦王国边境。<br>![](https://2.bp.blogspot.com/-pJM7ayLwTVI/TbFRRUbEmXI/AAAAAAAAABI/8I8DKJWNJBo/s320/39.gif) |  |
+| monica kruszewski | 莫妮卡·库鲁席夫斯基 | 《反叛的鲁路修 CODE GEASS》及其衍生作品的女性角色。<br>Knight of Twelve<br>第十二骑士。金色长发，皮肤白皙，给人楚楚可怜感觉的女性骑士。身着嫩绿色披风，看似纯情可怜、温柔乖巧的女孩子，然而她的力量在帝国当中却屈指可数。<br>![](https://ami.animecharactersdatabase.com/uploads/chars/9180-1651707246.jpg)<br>![](https://i.postimg.cc/sgd8jxTr/9180-280632865.jpg) | [https://bkimg.cdn.bcebos.com/pic/738b4710b912c8fc63fbe534ff039245d688213a](https://bkimg.cdn.bcebos.com/pic/738b4710b912c8fc63fbe534ff039245d688213a) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
