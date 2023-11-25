@@ -4983,6 +4983,7 @@ example:
 | erika | 莉佳 | 莉佳（日语：エリカ）是游戏《宝可梦系列》及其衍生作品的登场角色。![莉佳](https://img.moegirl.org.cn/common/thumb/0/05/莉佳_LPLE.png/238px-莉佳_LPLE.png) |  |
 | juliana | 小青 | 小青（日语：アオイ，英语：Juliana）是《宝可梦系列》的登场角色。![小青](https://img.moegirl.org.cn/common/thumb/c/ce/Pokemon_Scarlet_Main_Character_2.png/280px-Pokemon_Scarlet_Main_Character_2.png) |  |
 | ishizu ishtar | 伊西丝·伊修达尔 | 生日：4月5日<br>年龄：20岁<br>身高：167cm<br>体重：43kg<br>星座：白羊座<br>血型：O型<br>最喜欢吃：Omaari(埃及料理)<br>最讨厌吃：肉料理<br>持有神器：千年项链<br>卡组：现世与冥界的逆转卡组 |  |
+| mai valentine | 孔雀舞 | 日本漫画《游戏王》及其衍生作品中的角色，为美女职业决斗者。本来并不相信同伴，后来在与武藤游戏和城之内克也相遇后改变了自己的看法。<br>使用神鹰女郎 [14] 卡组和亚马逊卡组，有着华丽而大胆的决斗风格，在决斗者中有着一流的水准。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
