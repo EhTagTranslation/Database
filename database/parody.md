@@ -376,7 +376,7 @@ example:
 | tonari no kaibutsu-kun | 邻座的怪同学 |  |  |
 | danganronpa | 弹丸论破 |  |  |
 | koutetsujou no kabaneri | 甲铁城的卡巴内利 |  |  |
-| yu-gi-oh | 游戏王 | 日本漫画家高桥和希所创作的漫画，有动画、游戏等衍生作品。<br>![](https://img.moegirl.org.cn/common/a/a2/游戏王1-6代主角同堂.png) |  |
+| yu-gi-oh | 游戏王 | 日本漫画家高桥和希所创作的漫画，有动画、游戏等衍生作品。<br>![图](https://img.moegirl.org.cn/common/a/a2/游戏王1-6代主角同堂.png) |  |
 | yu-gi-oh 5ds | 游戏王5D's |  |  |
 | yu-gi-oh zexal | 游戏王ZEXAL |  |  |
 | yu-gi-oh arc-v | 游戏王ARC-V |  |  |
