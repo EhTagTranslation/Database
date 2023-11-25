@@ -12612,6 +12612,7 @@ example:
 | pooh | ぷぅ |  | [Twitter](https://twitter.com/Pooh_Piyo) [pixiv](https://www.pixiv.net/users/114344) |
 | irono | ゐろの |  | [Twitter](https://twitter.com/irono_1910) [pixiv](https://www.pixiv.net/users/21474581) |
 | isshi pyuma | 一志ピューマ |  | [Twitter](https://twitter.com/pyuma_isshi) [pixiv](https://www.pixiv.net/users/9614294) |
+| mamerakko | 豆ラッコニキ |  | [Twitter](https://twitter.com/tanakataroukami) [pixiv](https://www.pixiv.net/users/44968193) |
 
 <!--TEMPLATE:
 |  |  |  |  |
