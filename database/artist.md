@@ -12614,6 +12614,7 @@ example:
 | isshi pyuma | 一志ピューマ |  | [Twitter](https://twitter.com/pyuma_isshi) [pixiv](https://www.pixiv.net/users/9614294) |
 | mamerakko | 豆ラッコニキ |  | [Twitter](https://twitter.com/tanakataroukami) [pixiv](https://www.pixiv.net/users/44968193) |
 | amakusa tobari | 天草帳 |  |  |
+| sasaki mutsumi | ささきむつみ |  | [Twitter](https://twitter.com/sasaki_mutsumi) [pixiv](https://www.pixiv.net/users/4698180/artworks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
