@@ -2231,6 +2231,7 @@ example:
 | ongeki | 音击Ongeki | Sega于2018年7月26日推出的街机音乐游戏<br>![](https://img.moegirl.org.cn/common/thumb/7/77/Ongekibright.jpg/560px-Ongekibright.jpg) | [萌娘百科](https://mzh.moegirl.org.cn/音击#游戏信息) |
 | yamada-kun to lv999 no koi o suru | 和山田进行LV.999的恋爱 |  |  |
 | yu-gi-oh sevens | 游戏王SEVENS | 游戏王系列的第7部作品 |  |
+| ore no shikabane wo koeteyuke | 跨越我的尸体 |  | [维基百科](https://zh.wikipedia.org/wiki/降鬼一族) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
