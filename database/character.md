@@ -2566,7 +2566,7 @@ example:
 | ayane | 绫音 |  |  |
 | mai shiranui | 不知火舞 |  |  |
 | naotora ii | 井伊直虎 |  |  |
-| lu lingqi | 吕玲绮 |  |  |
+| lu lingqi | 吕 玲绮 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhurong | 祝融 |  |  |
 | sun shang xiang | 孙尚香 |  |  |
 | nene | 宁宁 |  |  |
