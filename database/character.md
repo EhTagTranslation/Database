@@ -2573,7 +2573,7 @@ example:
 | inahime | 稻姬 |  |  |
 | sima yi | 司马懿 |  |  |
 | wang yuanji | 王元姬 |  |  |
-| yue ying | 黄月英 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
+| yue ying | 黄 月英 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhang chunhua | 张春华 |  |  |
 | zhuge liang | 诸葛亮 |  |  |
 | ranma saotome | 早乙女乱马 |  |  |
@@ -4182,7 +4182,7 @@ example:
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
 | soi fon | 碎蜂 |  |  |
 | guan yinping | 关银屏 |  |  |
-| xing cai | 星彩 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
+| xing cai | 张星彩 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhen ji | 甄姬 |  |  |
 | moriko morioka | 盛冈森子 | `p:netojuu no susume`的女主角，30岁的家里蹲。<br>![](https://static.wikia.nocookie.net/netoju/images/5/59/Mm.jpg) | [萌娘百科](https://zh.moegirl.org.cn/盛冈森子) [Fandom](https://netoju.fandom.com/wiki/Moriko_Morioka) |
 | yuuta sakurai | 樱井优太 | `p:netojuu no susume`的男主角，金发碧眼的英国混血儿，在梅崎商事工作的精英。<br>![](https://static.wikia.nocookie.net/netoju/images/a/ae/Chara_body02.png) | [Fandom](https://netoju.fandom.com/wiki/Yuuta_Sakurai) |
