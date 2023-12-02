@@ -5013,6 +5013,7 @@ example:
 | ruri | 黑咲琉璃 | 游戏王系列的第5部作品《游戏王ARC-V》的女角色。<br>黑咲隼的妹妹，游斗的朋友。生活于超量次元的城市心园，就读于心园开设的黑桃决斗学校。<br>样貌与柊柚子、塞瑞娜、凛三人相似，手上也有戴着类似的手镯。 |  |
 | cornelia li britannia | 柯内莉亚·li·布里塔尼亚 | 《反叛的鲁路修 CODE GEASS》及其衍生作品的女性角色。<br>原神圣布里塔尼亚帝国第二皇女，高级军官，11区前总督。现任黑色骑士团军官，率小队镇守超合众国—吉尔克斯坦王国边境。<br>![](https://2.bp.blogspot.com/-pJM7ayLwTVI/TbFRRUbEmXI/AAAAAAAAABI/8I8DKJWNJBo/s320/39.gif) |  |
 | monica kruszewski | 莫妮卡·库鲁席夫斯基 | 《反叛的鲁路修 CODE GEASS》及其衍生作品的女性角色。<br>Knight of Twelve<br>第十二骑士。金色长发，皮肤白皙，给人楚楚可怜感觉的女性骑士。身着嫩绿色披风，看似纯情可怜、温柔乖巧的女孩子，然而她的力量在帝国当中却屈指可数。<br>![](https://ami.animecharactersdatabase.com/uploads/chars/9180-1651707246.jpg)<br>![](https://i.postimg.cc/sgd8jxTr/9180-280632865.jpg) | [https://bkimg.cdn.bcebos.com/pic/738b4710b912c8fc63fbe534ff039245d688213a](https://bkimg.cdn.bcebos.com/pic/738b4710b912c8fc63fbe534ff039245d688213a) |
+| jessie rasberry | 杰西 | 游戏角色扮演游戏《最终幻想VII》与《最终幻想VII：重制版》中的一个女性角色，她与毕格斯、威吉一起是雪崩的核心成员。反神罗组织的成员，她负责组织中作战物品以及伪造身份的准备工作。作为一名技术专家，为雪崩提供爆炸中使用的炸药、执行任务时使用的小型炸药，对魔晄炉1号和5号的爆炸事件至关重要。她还很会照顾人，见到帅哥就转不开眼睛。尽管她总体上很自信和乐观，但她对爆炸造成的破坏感到内疚。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
