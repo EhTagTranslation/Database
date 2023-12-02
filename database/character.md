@@ -2573,7 +2573,7 @@ example:
 | inahime | 稻姬 |  |  |
 | sima yi | 司马懿 |  |  |
 | wang yuanji | 王元姬 |  |  |
-| yue ying | 月英 |  |  |
+| yue ying | 黄月英 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhang chunhua | 张春华 |  |  |
 | zhuge liang | 诸葛亮 |  |  |
 | ranma saotome | 早乙女乱马 |  |  |
