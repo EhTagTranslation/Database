@@ -5027,6 +5027,7 @@ example:
 | cai wenji | 蔡文姬 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | diao chan | 貂蝉 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | lian shi | 步练师 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
+| aciddrop | 酸糖 | 手机游戏明日方舟干员角色 | [https://prts.wiki/w/酸糖](https://prts.wiki/w/酸糖) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
