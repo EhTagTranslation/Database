@@ -5028,6 +5028,7 @@ example:
 | diao chan | 貂蝉 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | lian shi | 步练师 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | aciddrop | 酸糖 | 手机游戏明日方舟干员角色 | [https://prts.wiki/w/酸糖](https://prts.wiki/w/酸糖) |
+| claudia | Claudia(神羅万象) | 「神羅万象チョコ」シリーズに登場するキャラクター。 | [pixiv](https://dic.pixiv.net/a/クラウディア%28神羅万象%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
