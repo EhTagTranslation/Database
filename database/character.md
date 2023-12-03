@@ -5030,6 +5030,7 @@ example:
 | aciddrop | 酸糖 | 手机游戏明日方舟干员角色 | [https://prts.wiki/w/酸糖](https://prts.wiki/w/酸糖) |
 | claudia | Claudia(神羅万象) | 「神羅万象チョコ」シリーズに登場するキャラクター。 | [pixiv](https://dic.pixiv.net/a/クラウディア%28神羅万象%29) |
 | kozue otomune | 乙宗梢 | 乙宗梢（日语：乙宗 梢，罗马字：Otomune Kozue）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![乙宗梢](https://img.moegirl.org.cn/common/thumb/9/9f/Kozue_img.png/280px-Kozue_img.png) | [萌娘百科](https://zh.moegirl.org.cn/乙宗梢) [Fandom](https://love-live.fandom.com/wiki/Kozue_Otomune) |
+| tsuzuri yugiri | 夕雾缀理 | 夕雾缀理（日语：夕霧 綴理，罗马字：Yugiri Tsuzuri）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![夕雾缀理](https://img.moegirl.org.cn/common/thumb/3/36/Tsuzuri_img.png/280px-Tsuzuri_img.png) | [萌娘百科](https://zh.moegirl.org.cn/夕雾缀理) [Fandom](https://love-live.fandom.com/wiki/Tsuzuri_Yugiri) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
