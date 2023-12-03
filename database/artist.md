@@ -465,7 +465,7 @@ example:
 | kurumiko | 胡桃子 |  |  |
 | hirari | ひらり |  |  |
 | aoi nagisa | 葵渚 |  |  |
-| alde hyde | アルデヒド |  |  |
+| alde hyde | アルデヒド | 醛-アルデヒド-aldehyde | [哔哩哔哩](https://space.bilibili.com/1205070298)<br>pixiv:578571 |
 | mutsuno hexa | 六ツ野へきさ |  |  |
 | takenokoya | 筍屋 |  |  |
 | ankoku tiger | 暗黒タイガー |  |  |
