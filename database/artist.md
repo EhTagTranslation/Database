@@ -12616,6 +12616,7 @@ example:
 | amakusa tobari | 天草帳 |  |  |
 | sasaki mutsumi | ささきむつみ |  | [Twitter](https://twitter.com/sasaki_mutsumi) [pixiv](https://www.pixiv.net/users/4698180/artworks) |
 | murabito toufuten | 村人豆腐店 |  | [pixiv](https://www.pixiv.net/users/5496563) [Twitter](https://twitter.com/murabitoufu) |
+| kuma ashi s | 熊足S |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
