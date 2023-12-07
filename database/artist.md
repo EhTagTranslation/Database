@@ -2196,7 +2196,7 @@ example:
 | zakotsu | 佐骨 |  |  |
 | nidy-2d- | Nidy-2D- |  |  |
 | urico take | 瓜子たけ |  |  |
-| tanohito | たのひと |  |  |
+| tanohito | たのひと |  | [pixiv](https://www.pixiv.net/users/4490511) |
 | kouki kuu | こうきくう |  |  |
 | engawa suguru | エンガワ卓 |  |  |
 | fuji-han | ふじはん |  |  |
