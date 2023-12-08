@@ -5036,6 +5036,7 @@ example:
 | highmore | 海沫 |  |  |
 | mei misaki | 见崎鸣 |  |  |
 | kenma kozume | 孤爪研磨 |  | [萌娘百科](https://zh.moegirl.org.cn/孤爪研磨) |
+| tadashi yamaguchi | 山口忠 |  | [百度百科](https://baike.baidu.com/item/山口忠/4041425)<br>[维基百科](https://zh.wikipedia.org/wiki/排球少年！！角色列表#男子排球社:~:text=盾的结合”。-,山口忠,在高中三年级成为队长。,-缘下力) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
