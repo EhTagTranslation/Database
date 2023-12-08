@@ -5035,6 +5035,7 @@ example:
 | frostleaf | 霜叶 |  |  |
 | highmore | 海沫 |  |  |
 | mei misaki | 见崎鸣 |  |  |
+| kenma kozume | 孤爪研磨 |  | [萌娘百科](https://zh.moegirl.org.cn/孤爪研磨) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
