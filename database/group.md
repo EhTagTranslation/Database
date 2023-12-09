@@ -12660,6 +12660,7 @@ example:
 | mobumomu ntr | モブモムNTR | 作者モブ太用来画NTR作品时的社团名称 |  |
 | ice to choco | あいすとちょこ |  |  |
 | sakura suishou | 桜水晶 |  |  |
+| nekomimi to kuro mask | 猫耳と黒マスク |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
