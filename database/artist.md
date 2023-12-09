@@ -12619,6 +12619,7 @@ example:
 | kuma ashi s | 熊足S |  |  |
 | sasai nakoto | 茶彩なこと |  | [twitter](https://twitter.com/Sasainakoto_18) [pixiv](https://www.pixiv.net/users/38123017) |
 | hina | 氷菜 |  | [Twitter](https://twitter.com/hinakisara) [pixiv](https://www.pixiv.net/users/926687) |
+| yozakura souki | 夜桜ソウキ |  | [Twitter](https://twitter.com/artina328) [pixiv](https://www.pixiv.net/users/14482291) |
 
 <!--TEMPLATE:
 |  |  |  |  |
