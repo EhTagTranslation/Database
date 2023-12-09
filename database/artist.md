@@ -12620,6 +12620,7 @@ example:
 | sasai nakoto | 茶彩なこと |  | [twitter](https://twitter.com/Sasainakoto_18) [pixiv](https://www.pixiv.net/users/38123017) |
 | hina | 氷菜 |  | [Twitter](https://twitter.com/hinakisara) [pixiv](https://www.pixiv.net/users/926687) |
 | yozakura souki | 夜桜ソウキ |  | [Twitter](https://twitter.com/artina328) [pixiv](https://www.pixiv.net/users/14482291) |
+| susukumo nagi | 煤雲なぎ |  | [Twitter](https://twitter.com/susu_nagi) [pixiv](https://www.pixiv.net/users/83943351) |
 
 <!--TEMPLATE:
 |  |  |  |  |
