@@ -7437,7 +7437,7 @@ example:
 | leafy | リーフィ |  |  |
 | lee | LEE |  |  |
 | lefleau | ルフレ王 |  |  |
-| lefthand | レフトハンド |  |  |
+| lefthand | レフトハンド |  | [pxixv](https://www.pixiv.net/users/15975) |
 | leli | レリ |  |  |
 | lem | LEM |  |  |
 | lemon jiru | レモン汁 |  |  |
