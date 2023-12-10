@@ -58,7 +58,7 @@ example:
 | may-be soft | May-Be SOFT | Tech Arts 旗下品牌，画师以`akaza`为主。<br>Tech Arts已破产 | [官方网站](http://www.maybesoft.jp) |
 | squeez | SQUEEZ | Tech Arts 旗下品牌。<br>Tech Arts已破产，原班人马已成立新公司`milk factory`进行活动。 | [官方网站](http://squeez-soft.jp) |
 | milk factory | みるふぁく | 母公司 Tech Arts 破产后，SQUEEZ 原班人马成立的新公司。 | [官方网站](https://milkfactory.jp) |
-| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (\*) |
+| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (日语) [Twitter](https://twitter.com/alice_soft) (日语) [YouTube](https://www.youtube.com/@alicesoftchannel) (日语) (\*) |
 | omega star | ωstar |  |  |
 | norn | Norn |  |  |
 | aries | Aries |  |  |
