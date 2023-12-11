@@ -2232,6 +2232,7 @@ example:
 | yamada-kun to lv999 no koi o suru | 和山田进行LV.999的恋爱 |  |  |
 | yu-gi-oh sevens | 游戏王SEVENS | 游戏王系列的第7部作品 |  |
 | ore no shikabane wo koeteyuke | 跨越我的尸体 |  | [维基百科](https://zh.wikipedia.org/wiki/降鬼一族) |
+| puss in boots the last wish | 穿靴子的猫:最后的愿望 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) [维基百科](https://zh.wikipedia.org/wiki/鞋貓劍客2) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
