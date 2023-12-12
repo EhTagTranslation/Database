@@ -12550,7 +12550,7 @@ example:
 | osanai shiina | 小山内しいな |  |  |
 | umino ryo | 海野りょう |  |  |
 | daruma jd | だるまJD |  |  |
-| gsus | GSUS |  |  |
+| gsus | GSUS |  | [pixiv](https://www.pixiv.net/users/80553046) |
 | gucchian | ぐっち庵 |  |  |
 | uekura ryona | 上倉RyoNA |  | [pixiv](https://www.pixiv.net/users/19738723) [Twitter](https://twitter.com/uekura) |
 | kusothumu | くそつむ |  |  |
