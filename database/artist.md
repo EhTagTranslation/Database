@@ -12627,6 +12627,7 @@ example:
 | rindow masaki | あるでぃ |  |  |
 | orihika | おりひか |  |  |
 | scottie | スコッティ |  |  |
+| makin | まきん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
