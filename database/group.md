@@ -12662,6 +12662,7 @@ example:
 | sakura suishou | 桜水晶 |  |  |
 | nekomimi to kuro mask | 猫耳と黒マスク |  |  |
 | champion soft | Champion Soft | 「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。 | [Twitter](https://twitter.com/alice_soft) [官方网站](http://www.alicesoft.com/) (\*) |
+| dojiro books | どじろーブックス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
