@@ -5038,6 +5038,7 @@ example:
 | kenma kozume | 孤爪研磨 |  | [萌娘百科](https://zh.moegirl.org.cn/孤爪研磨) |
 | tadashi yamaguchi | 山口忠 |  | [百度百科](https://baike.baidu.com/item/山口忠/4041425)<br>[维基百科](https://zh.wikipedia.org/wiki/排球少年！！角色列表#男子排球社:~:text=盾的结合”。-,山口忠,在高中三年级成为队长。,-缘下力) |
 | leon s. kennedy | 里昂·斯科特·肯尼迪 | 里昂·斯科特·肯尼迪（日语：レオン·S·ケネディ，英语：Leon Scott Kennedy）是卡普空制作的生化危机系列中登场的角色之一，为《生化危机2》、《生化危机4》、《生化危机6》的主要角色，同时也是官方电影《恶化》、《诅咒》、《复仇》的主角。 | [萌娘百科](https://zh.moegirl.org.cn/里昂·斯科特·肯尼迪) |
+| sayaka igarashi | 五十岚清华 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
