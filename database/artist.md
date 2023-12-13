@@ -12626,6 +12626,7 @@ example:
 | ichinosono yui | 一之园唯 |  |  |
 | rindow masaki | あるでぃ |  |  |
 | orihika | おりひか |  |  |
+| scottie | スコッティ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
