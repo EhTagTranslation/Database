@@ -12628,6 +12628,7 @@ example:
 | orihika | おりひか |  |  |
 | scottie | スコッティ |  |  |
 | makin | まきん |  |  |
+| myamo | ミャモ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
