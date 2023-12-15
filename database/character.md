@@ -5040,6 +5040,7 @@ example:
 | leon s. kennedy | 里昂·斯科特·肯尼迪 | 里昂·斯科特·肯尼迪（日语：レオン·S·ケネディ，英语：Leon Scott Kennedy）是卡普空制作的生化危机系列中登场的角色之一，为《生化危机2》、《生化危机4》、《生化危机6》的主要角色，同时也是官方电影《恶化》、《诅咒》、《复仇》的主角。 | [萌娘百科](https://zh.moegirl.org.cn/里昂·斯科特·肯尼迪) |
 | sayaka igarashi | 五十岚清华 |  |  |
 | kiba inuzuka | 犬冢牙 | 犬冢牙是漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/犬冢牙) |
+| aang | 安昂 | 安昂（Aang）是Nickelodeon旗下的动画《降世神通·最后的气宗》和《科拉传奇》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/安昂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
