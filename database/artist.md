@@ -12630,6 +12630,7 @@ example:
 | makin | まきん |  |  |
 | myamo | ミャモ |  |  |
 | pedopetton | ぺどぺっとん |  | [pixiv](https://www.pixiv.net/users/39327558) |
+| mikozin | ミコジン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
