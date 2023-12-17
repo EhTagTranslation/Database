@@ -5041,6 +5041,7 @@ example:
 | sayaka igarashi | 五十岚清华 |  |  |
 | kiba inuzuka | 犬冢牙 | 犬冢牙是漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/犬冢牙) |
 | aang | 安昂 | 安昂（Aang）是Nickelodeon旗下的动画《降世神通·最后的气宗》和《科拉传奇》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/安昂) |
+| kyouko kirigiri | 雾切响子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
