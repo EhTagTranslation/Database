@@ -12634,6 +12634,7 @@ example:
 | imajin kouji | イマジン孝二 |  |  |
 | meisuke | めーすけ |  |  |
 | kotobuki mairo | 寿まいろ |  |  |
+| minato yuu | 湊ゆう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
