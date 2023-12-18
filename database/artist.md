@@ -12633,6 +12633,7 @@ example:
 | mikozin | ミコジン |  |  |
 | imajin kouji | イマジン孝二 |  |  |
 | meisuke | めーすけ |  |  |
+| kotobuki mairo | 寿まいろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
