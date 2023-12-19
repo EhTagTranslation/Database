@@ -12636,6 +12636,7 @@ example:
 | kotobuki mairo | 寿まいろ |  |  |
 | minato yuu | 湊ゆう |  |  |
 | ameko | あめこ |  |  |
+| senda hisamaru | せんだ寿丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
