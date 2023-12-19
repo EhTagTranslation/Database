@@ -12671,6 +12671,7 @@ example:
 | cre no monookiba | シーレの物置場 |  |  |
 | studio park | スタジオぱーく |  |  |
 | donut church | ドーナツ教会 |  |  |
+| netsuko | ネツ湖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
