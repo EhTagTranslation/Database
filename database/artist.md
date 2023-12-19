@@ -12641,6 +12641,7 @@ example:
 | ryoutani kana | 両谷哉 |  |  |
 | hoshino rao | 星野らお |  |  |
 | jankey | ジャンキー |  |  |
+| nettsuu | ねっつー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
