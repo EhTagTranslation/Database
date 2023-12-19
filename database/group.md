@@ -12670,6 +12670,7 @@ example:
 | kaitendon | 海転丼 |  |  |
 | cre no monookiba | シーレの物置場 |  |  |
 | studio park | スタジオぱーく |  |  |
+| donut church | ドーナツ教会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
