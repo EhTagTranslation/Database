@@ -12668,6 +12668,7 @@ example:
 | channel zakuro | チャンネルざくろ |  |  |
 | kitsune komachi | きつねこまち |  |  |
 | kaitendon | 海転丼 |  |  |
+| cre no monookiba | シーレの物置場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
