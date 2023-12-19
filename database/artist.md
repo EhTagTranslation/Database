@@ -12639,6 +12639,7 @@ example:
 | senda hisamaru | せんだ寿丸 |  |  |
 | fujiwara noa | 藤原のあ |  |  |
 | ryoutani kana | 両谷哉 |  |  |
+| hoshino rao | 星野らお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
