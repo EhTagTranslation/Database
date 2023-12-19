@@ -5050,6 +5050,7 @@ example:
 | dumon | 德鲁贝 | Dorube （罗马注音）Dumon（海外版英文名）<br>《游戏王ZEXAL》及其衍生作品中的角色，异晶人七皇之一，纳修的挚友。<br>纳修失踪后，剩下七皇的领导。先后派遣基拉古、阿里特、米扎艾尔来到人类世界回收No.卡。由此至终没有一场只属于自己的完整的决斗。自称“异晶人的白盾”（バリアンの白き盾）。在对付与上千主上融合的贝库塔（真月零），为了掩护梅拉古（神代璃绪）光荣牺牲。 |  |
 | ariados | 阿利多斯 | 《宝可梦》及其衍生作品中的宝可梦。<br>虫属性和毒属性的宝可梦，首次登场于游戏《宝可梦 金·银》。 |  |
 | latias | 拉帝亚斯 | 《宝可梦》及其衍生作品中的宝可梦。<br>雌性。龙属性和超能力属性的传说的宝可梦，也是无限宝可梦之一，首次登场于游戏《宝可梦 红宝石·蓝宝石》，其超级进化首次登场于游戏《宝可梦 欧米伽红宝石·阿尔法蓝宝石》。 |  |
+| endministrator | 管理员 |  | cn official website NO.1<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NpCiOn6Ny)<br><br>en official website NO.1<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[Twitter](https://twitter.com/AKEndfield/status/1717391117707325628) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
