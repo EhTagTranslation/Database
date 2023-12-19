@@ -4775,7 +4775,7 @@ example:
 | crazy white | クレイジーホワイト |  |  |
 | cream | Cream |  |  |
 | creek | CREEK |  |  |
-| crepix | crepix | シーレ |  |
+| crepix | シーレ |  |  |
 | cross | クロス |  |  |
 | crossco | くろすこ |  |  |
 | crow | CROW |  |  |
