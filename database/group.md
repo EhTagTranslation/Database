@@ -12672,6 +12672,7 @@ example:
 | studio park | スタジオぱーく |  |  |
 | donut church | ドーナツ教会 |  |  |
 | netsuko | ネツ湖 |  |  |
+| milkdou shoukai | みるく堂商会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
