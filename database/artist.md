@@ -12642,6 +12642,7 @@ example:
 | hoshino rao | 星野らお |  |  |
 | jankey | ジャンキー |  |  |
 | nettsuu | ねっつー |  |  |
+| point takashi | みるく工房 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
