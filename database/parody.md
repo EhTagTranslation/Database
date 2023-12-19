@@ -2234,6 +2234,7 @@ example:
 | ore no shikabane wo koeteyuke | 跨越我的尸体 |  | [维基百科](https://zh.wikipedia.org/wiki/降鬼一族) |
 | puss in boots the last wish | 穿靴子的猫:最后的愿望 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) [维基百科](https://zh.wikipedia.org/wiki/鞋貓劍客2) |
 | fatal frame | 零系列 | 零为日本厂商特库摩开发的恐怖游戏系列，自2001年问世以来，已推出了五部正传作品：《零～zero～》、《零～红蝶～》、《零～刺青之声～》、《零～月蚀的假面～》和《零～濡鸦之巫女～》，一部外传作品《心灵照相机～被附身的笔记本～》。 |  |
+| arknights endfield | 明日方舟：终末地 |  | cn official website<br>[https://endfield.hypergryph.com/](https://endfield.hypergryph.com/)<br><br>en official website<br>[https://endfield.gryphline.com/en-us](https://endfield.gryphline.com/en-us)<br><br>weibo:<br>[微博](https://weibo.com/u/7745672941)<br><br>twitter:<br>[Twitter](https://twitter.com/AKEndfield) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
