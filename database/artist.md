@@ -12643,6 +12643,7 @@ example:
 | jankey | ジャンキー |  |  |
 | nettsuu | ねっつー |  |  |
 | point takashi | みるく工房 |  |  |
+| wakatake | わかたけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
