@@ -12667,6 +12667,7 @@ example:
 | shurashushushu | しゅらしゅしゅしゅ |  |  |
 | channel zakuro | チャンネルざくろ |  |  |
 | kitsune komachi | きつねこまち |  |  |
+| kaitendon | 海転丼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
