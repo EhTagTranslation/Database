@@ -12666,6 +12666,7 @@ example:
 | alwayshp1 | いつも死にかけ | Always HP 1 |  |
 | shurashushushu | しゅらしゅしゅしゅ |  |  |
 | channel zakuro | チャンネルざくろ |  |  |
+| kitsune komachi | きつねこまち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
