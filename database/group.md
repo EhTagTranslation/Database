@@ -12664,6 +12664,7 @@ example:
 | champion soft | Champion Soft | 「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。 | [Twitter](https://twitter.com/alice_soft) [官方网站](http://www.alicesoft.com/) (\*) |
 | dojiro books | どじろーブックス |  |  |
 | alwayshp1 | いつも死にかけ | Always HP 1 |  |
+| shurashushushu | しゅらしゅしゅしゅ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
