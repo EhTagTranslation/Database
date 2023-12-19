@@ -12635,6 +12635,7 @@ example:
 | meisuke | めーすけ |  |  |
 | kotobuki mairo | 寿まいろ |  |  |
 | minato yuu | 湊ゆう |  |  |
+| ameko | あめこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
