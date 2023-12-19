@@ -12640,6 +12640,7 @@ example:
 | fujiwara noa | 藤原のあ |  |  |
 | ryoutani kana | 両谷哉 |  |  |
 | hoshino rao | 星野らお |  |  |
+| jankey | ジャンキー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
