@@ -12673,6 +12673,7 @@ example:
 | donut church | ドーナツ教会 |  |  |
 | netsuko | ネツ湖 |  |  |
 | milkdou shoukai | みるく堂商会 |  |  |
+| airimiash | アイリミアーシュ | 画师`rabu`所属社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
