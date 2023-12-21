@@ -1095,7 +1095,7 @@ example:
 | festa. | ふぇすた。 |  |  |
 | slash yen | /￥ |  |  |
 | pastas estab | PASTA'S ESTAB |  |  |
-| rinjuu circus | 臨終サーカス |  |  |
+| rinjuu circus | 临终马戏团 | 画师`haguhagu`所属社团 |  |
 | ue ni aru mikan | うえにあるみかん |  |  |
 | ruu kikaku | 龙企画 |  |  |
 | hoshizora sutekki | 星空ステッキ |  |  |
