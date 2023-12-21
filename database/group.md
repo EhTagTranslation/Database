@@ -12675,6 +12675,7 @@ example:
 | milkdou shoukai | みるく堂商会 |  |  |
 | airimiash | アイリミアーシュ | 画师`rabu`所属社团 |  |
 | mokkorihan | もっこりはん |  |  |
+| zenjidou shimoneta seizou machine | 全自动下ネタ制造マシーン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
