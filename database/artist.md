@@ -12648,6 +12648,7 @@ example:
 | rabu | ラブ |  |  |
 | uni toshiki | ウニトシキ |  |  |
 | teikuuhikou | 低空飞行 |  |  |
+| iwami yasoya | 石见やそや | ![twitter](https://pbs.twimg.com/profile_images/1607594719500197892/r3UmAHQ9_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/IwamiYasoya) [pixiv](https://www.pixiv.net/users/22078099) |
 
 <!--TEMPLATE:
 |  |  |  |  |
