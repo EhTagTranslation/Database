@@ -1935,7 +1935,7 @@ example:
 | kokusan jk | 国产JK | 国産JK |  |
 | istanbul high sox | イスタンブール・ハイソックス |  |  |
 | chika 7cm | 地下7cm |  |  |
-| secret society m | 秘密結社M |  |  |
+| secret society m | 秘密结社M |  |  |
 | kawaraya-koubou | 瓦屋工房 |  |  |
 | kamishiki | かみしき |  |  |
 | popocket | ぽぽケット |  |  |
