@@ -8568,7 +8568,7 @@ example:
 | naruse makoto | 成瀬真琴 |  |  |
 | naruse mamoru | 成瀬守 |  |  |
 | naruse michi | 成瀬みち |  |  |
-| narushima godou | 成島ゴドー |  |  |
+| narushima godou | 成岛ゴドー |  |  |
 | nas | NAS |  |  |
 | nas-o | NAS-O |  |  |
 | nasake muyou | なさけむよう |  |  |
