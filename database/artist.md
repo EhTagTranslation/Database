@@ -2660,7 +2660,7 @@ example:
 | anapon | あなぽん |  | [pixiv](https://www.pixiv.net/users/1640464) [Twitter](https://twitter.com/anapom) |
 | mashiro shirako | 真白しらこ |  | [Twitter](https://twitter.com/calm_mashiro) [Twitter(R18)](https://twitter.com/calmwhite_r18) [pixiv](https://www.pixiv.net/users/16541647) |
 | yagi the goat | ヤギの人 | ![ヤギの人](https://i.pixiv.cat/user-profile/img/2018/12/31/01/01/14/15193810_c278d82c729fa8a5b68354a87e8ce2b0_170.png)<br>日本画师，擅长画furry。 | [Twitter](https://twitter.com/s1120411) [Pixiv](https://www.pixiv.net/users/12714855) [新浪微博](https://www.weibo.com/u/6445794323) |
-| morimiya masayuki | 森宫正幸 |  |  |
+| morimiya masayuki | 森宫正幸 | 社团`morimiyakan`主笔画师 |  |
 | airandou | あいらんどう | ![twitter](https://pbs.twimg.com/profile_images/1305702380474740736/_eH1PwUG_400x400.jpg)<br><br>**作者推特头像**<br><br>《Comic Lo》资深作者<br><br>![works](# "https://pbs.twimg.com/media/FFpnHofVUAEGJJi?format=jpg&name=small")<br>单行本 | [twitter](https://twitter.com/airandou_) [pixiv](https://www.pixiv.net/users/59106102) |
 | nishizawa 5mm | 西沢5ミリ |  |  |
 | ninoko | にの子 |  | [pixiv](https://www.pixiv.net/users/204506) [Twitter](https://twitter.com/_ninoko) |
