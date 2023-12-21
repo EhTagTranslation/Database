@@ -1718,7 +1718,7 @@ example:
 | muzin syoujo | 無人少女 |  |  |
 | hasuneya | はすねや |  |  |
 | chilly polka | Chilly polka |  |  |
-| morimiyakan | 森宮缶 |  |  |
+| morimiyakan | 森宫缶 | 画师`morimiya masayuki`所属社团 |  |
 | ninokoya | にのこや |  |  |
 | mocha2popcorn | mocha\*2popcorn |  |  |
 | kuronisiki | 黒錦 |  |  |
