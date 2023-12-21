@@ -1150,7 +1150,7 @@ example:
 | san se fang | 三色坊 |  |  |
 | uninigumi | うにに組 |  |  |
 | otomekibun | 乙女気分 |  |  |
-| gasshuukoku netamekoru | 合衆国ネタメコル |  |  |
+| gasshuukoku netamekoru | 合众国ネタメコル |  |  |
 | shallot coco | シャルロット・ココ |  |  |
 | orange restaurant | オレンジレストラン |  |  |
 | astro creep | ASTRO CREEP |  |  |
