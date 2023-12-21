@@ -8340,7 +8340,7 @@ example:
 | mushanokouji atsune | 武者小路あつね |  |  |
 | mushiboy | MUSHIBOY |  |  |
 | musouduki | 梦双月 |  |  |
-| muteki soda | 無敵ソーダ |  |  |
+| muteki soda | 无敌苏打 |  |  |
 | muten | 武天 |  |  |
 | mutou | 無糖 |  |  |
 | mutou hiroki | 武藤裕樹 |  |  |
