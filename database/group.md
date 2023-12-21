@@ -6792,7 +6792,7 @@ example:
 | konekotei | 虎猫亭 |  |  |
 | kongou rikisi | 金剛力士 |  |  |
 | kongs home | kongs home |  |  |
-| koniro drops | 紺色ドロップス |  |  |
+| koniro drops | 绀色ドロップス |  |  |
 | koniro milkiro | 紺色ミルク色 |  |  |
 | konjiki no monde selection | 金色のモンドセレクション |  |  |
 | konjikineko | 金色猫 |  |  |
