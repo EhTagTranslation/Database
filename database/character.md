@@ -5055,6 +5055,7 @@ example:
 | absinthe | 苦艾 |  |  |
 | misha necron | 米夏·涅库罗 |  |  |
 | sentouki - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |
+| kooh | 酷儿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
