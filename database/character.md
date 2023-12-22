@@ -5053,6 +5053,7 @@ example:
 | endministrator | 管理员 |  | cn official website NO.1<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NpCiOn6Ny)<br><br>en official website NO.1<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[Twitter](https://twitter.com/AKEndfield/status/1717391117707325628) |
 | perlica | 佩丽卡 |  | cn official website NO.3<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NqeZGFwWZ)<br><br>en officoal website NO.3<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[Twitter](https://twitter.com/AKEndfield/status/1719187436734218278) |
 | absinthe | 苦艾 |  |  |
+| misha necron | 米夏·涅库罗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
