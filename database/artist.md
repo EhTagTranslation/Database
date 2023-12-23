@@ -12655,6 +12655,7 @@ example:
 | otona no sexy ehon | 大人のSEXY絵本 |  |  |
 | hogeramu | ほげらむ | ![twitter](https://pbs.twimg.com/profile_images/1510941923380326403/6FhJPMtC_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/hogerarara) [pixiv](https://www.pixiv.net/users/78795964) |
 | raikou | raikou | らい公 |  |
+| raku | 乐 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
