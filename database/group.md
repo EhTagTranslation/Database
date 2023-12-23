@@ -12677,6 +12677,7 @@ example:
 | mokkorihan | もっこりはん |  |  |
 | zenjidou shimoneta seizou machine | 全自动下ネタ制造マシーン |  |  |
 | shachi | しゃち |  |  |
+| mittsuman | みっつまん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
