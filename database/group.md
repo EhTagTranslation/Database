@@ -10571,7 +10571,7 @@ example:
 | sobalabo | sobalabo |  |  |
 | sobaworks | sobaworks |  |  |
 | socarrat | socarrat |  |  |
-| soda batake | ソーダ畑 |  |  |
+| soda batake | 苏打畑 |  |  |
 | soda rain | Soda Rain |  |  |
 | sodenosumi | 袖の墨 |  |  |
 | sodomutogomora | ソドムトゴモラ |  |  |
