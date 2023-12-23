@@ -12681,6 +12681,7 @@ example:
 | zyougesayuu | 上下左右 |  |  |
 | rakuenya | 乐园屋 |  |  |
 | torinoya | とりの屋 |  |  |
+| gomikasu tarou | 五味滓太郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
