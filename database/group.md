@@ -12679,6 +12679,7 @@ example:
 | shachi | しゃち |  |  |
 | mittsuman | みっつまん |  |  |
 | zyougesayuu | 上下左右 |  |  |
+| rakuenya | 乐园屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
