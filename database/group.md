@@ -12678,6 +12678,7 @@ example:
 | zenjidou shimoneta seizou machine | 全自动下ネタ制造マシーン |  |  |
 | shachi | しゃち |  |  |
 | mittsuman | みっつまん |  |  |
+| zyougesayuu | 上下左右 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
