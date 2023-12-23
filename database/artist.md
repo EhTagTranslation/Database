@@ -12652,6 +12652,7 @@ example:
 | mittsuman | みっつまん |  |  |
 | chinetsu | ちねつ |  |  |
 | akausu ko | 赤薄红 |  |  |
+| otona no sexy ehon | 大人のSEXY絵本 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
