@@ -12680,6 +12680,7 @@ example:
 | mittsuman | みっつまん |  |  |
 | zyougesayuu | 上下左右 |  |  |
 | rakuenya | 乐园屋 |  |  |
+| torinoya | とりの屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
