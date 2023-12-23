@@ -8502,7 +8502,7 @@ example:
 | nanakawa roduka | 七川楼塚 |  |  |
 | nanaki nana | ナナキナナ |  |  |
 | nanaki seijyu | 七輝静樹 |  |  |
-| nanako | ナナコ／七子 |  |  |
+| nanako | ナナコ |  |  |
 | nanakoro | 七転 |  |  |
 | nanakura nanane | 七座菜々音 |  |  |
 | nanakusa amane | 七草天音 |  |  |
