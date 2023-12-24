@@ -12657,6 +12657,7 @@ example:
 | raikou | raikou | らい公 |  |
 | raku | 乐 |  |  |
 | karaage | 唐扬 |  |  |
+| jinze | 今沢 |  | [pixiv](https://www.pixiv.net/users/9322526) |
 
 <!--TEMPLATE:
 |  |  |  |  |
