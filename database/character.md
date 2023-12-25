@@ -5050,6 +5050,7 @@ example:
 | misha necron | 米夏·涅库罗 |  |  |
 | sentouki - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |
 | kooh | 酷儿 |  | [https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒](https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒) |
+| aaya saitou | 齐藤亚绫 | 16岁。高中二年级。转校新生，在`c:kiiko kawakami`车祸住院期间一直在照顾她，使得纪衣子喜欢上了她，对纪衣子的能力很有兴趣，一次在树下两个人KISS并正式进入了“非常时期”。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
