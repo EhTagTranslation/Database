@@ -12682,6 +12682,7 @@ example:
 | rakuenya | 乐园屋 |  |  |
 | torinoya | とりの屋 |  |  |
 | gomikasu tarou | 五味滓太郎 |  |  |
+| kaoinshou zero | 顔印象零 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
