@@ -12658,6 +12658,7 @@ example:
 | raku | 乐 |  |  |
 | karaage | 唐扬 |  |  |
 | jinze | 今沢 |  | [pixiv](https://www.pixiv.net/users/9322526) |
+| hosigarasu | 干しガラス |  | [pixiv](https://www.pixiv.net/users/6022812) [Twitter](https://twitter.com/_hosigarasu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
