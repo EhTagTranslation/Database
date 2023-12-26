@@ -5051,6 +5051,8 @@ example:
 | sentouki - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |
 | kooh | 酷儿 |  | [https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒](https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒) |
 | aaya saitou | 齐藤亚绫 | 16岁。高中二年级。转校新生，在`c:kiiko kawakami`车祸住院期间一直在照顾她，使得纪衣子喜欢上了她，对纪衣子的能力很有兴趣，一次在树下两个人KISS并正式进入了“非常时期”。 |  |
+| kiiko kawakami | 川上纪衣子 | 17岁。高中二年级。比较体弱的女孩，因一次车祸使得自己获得了能用意念移动物体的不可思议的能力，能力的大小与范围跟物体的重量、体积有关。是个腼腆型的百合向女孩，一直喜欢同班的`c:aaya saitou`。 |  |
+| princess gradriel de valendia | 海拉加德的公主 | 所属作品:`p:etrian odyssey`<br>治理海拉加德公国的王族公主。尽管年幼，但是一位努力支持公国的女性。<br>![](https://sq-atlus.jp/ssq2/character/images/character_princess_large.png) | [公式介绍页](https://sq-atlus.jp/ssq2/character/princess.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
