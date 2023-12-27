@@ -12663,6 +12663,7 @@ example:
 | iketatsu shizuru | 池竜静留 |  |  |
 | kogara tsugumi | 小雀つぐみ |  |  |
 | papipukepo | ぱぴぷけぽ |  |  |
+| yomogi mametaro | よもぎ豆太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
