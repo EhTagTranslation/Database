@@ -12661,6 +12661,7 @@ example:
 | hosigarasu | 干しガラス |  | [pixiv](https://www.pixiv.net/users/6022812) [Twitter](https://twitter.com/_hosigarasu) |
 | koyama harutarou | コヤマハルタロウ |  | [pixiv](https://www.pixiv.net/users/15141344) [Twitter](https://twitter.com/hiphiphiphip_s) |
 | iketatsu shizuru | 池竜静留 |  |  |
+| kogara tsugumi | 小雀つぐみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
