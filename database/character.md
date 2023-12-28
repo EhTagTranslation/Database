@@ -977,7 +977,7 @@ example:
 | ui hirasawa | 平泽忧 | ![平泽忧](# "https://ehgt.org/7e/c1/7ec14c3b1183ca351646513fafea82e4ac272a40-1083644-2144-3030-jpg_l.jpg") |  |
 | yui hirasawa | 平泽唯 | ![平泽唯](https://ehgt.org/52/cc/52cc718dd07fa1da0a3069bdbca1c93a3c8a496d-638009-2448-3829-jpg_l.jpg) |  |
 | nodoka manabe | 真锅和 | ![真锅和](# "https://ehgt.org/71/ef/71efa492c6682f11415ec00d76d472aa9ea39da2-395433-2000-2831-jpg_l.jpg") |  |
-| satoshi tainaka | 田井中聪 | ![田井中聪](# "https://ehgt.org/d1/76/d17632cbec18cc492bb39f20ef3c64723c13f81e-1517181-2090-3000-jpg_l.jpg") |  |
+| satoshi tainaka | 田井中聪 | 《轻音少女》登场男配角之一，在TV版中多次作为配角登场，属于动画原创角色。<br>![田井中聪](# "https://ehgt.org/d1/76/d17632cbec18cc492bb39f20ef3c64723c13f81e-1517181-2090-3000-jpg_l.jpg") |  |
 | sumire saitou | 齐藤堇 | ![齐藤堇](# "https://ehgt.org/c7/d8/c7d89fdaabf86a23aa74d61dca1a9e364171c6fc-6163201-1439-2021-png_250.jpg") |  |
 | megumi sokabe | 曾我部惠 |  |  |
 |  | ▼ 蔷薇十字小剑 角色 |  |  |
