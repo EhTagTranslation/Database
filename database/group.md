@@ -12683,6 +12683,7 @@ example:
 | torinoya | とりの屋 |  |  |
 | gomikasu tarou | 五味滓太郎 |  |  |
 | kaoinshou zero | 顔印象零 |  |  |
+| yasudajuku | 保田塾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
