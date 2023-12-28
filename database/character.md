@@ -5054,6 +5054,7 @@ example:
 | kiiko kawakami | 川上纪衣子 | 17岁。高中二年级。比较体弱的女孩，因一次车祸使得自己获得了能用意念移动物体的不可思议的能力，能力的大小与范围跟物体的重量、体积有关。是个腼腆型的百合向女孩，一直喜欢同班的`c:aaya saitou`。 |  |
 | princess gradriel de valendia | 海拉加德的公主 | 所属作品:`p:etrian odyssey`<br>治理海拉加德公国的王族公主。尽管年幼，但是一位努力支持公国的女性。<br>![](https://sq-atlus.jp/ssq2/character/images/character_princess_large.png) | [公式介绍页](https://sq-atlus.jp/ssq2/character/princess.html) |
 | olivier mira armstrong | 奥利维亚·米拉·阿姆斯特朗 | 《`p:fullmetal alchemist`》中阿姆斯特朗家族年轻一代的长女，阿姆斯特朗少校的姐姐，北方军团的司令官，偶尔会说出弟弟的台词「这是我们阿姆斯特朗家代代相传的……」 | [萌娘百科](https://zh.moegirl.org.cn/奥利维亚·米拉·阿姆斯特朗) |
+| aqua hoshino | 阿库亚（星野爱久爱海） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
