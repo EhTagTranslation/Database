@@ -12666,6 +12666,7 @@ example:
 | yomogi mametaro | よもぎ豆太郎 |  |  |
 | yasuda yasuhiro | 保田やすひろ |  |  |
 | minazuki miyabi | 水無月雅 |  |  |
+| okome taberu | おこめタベル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
