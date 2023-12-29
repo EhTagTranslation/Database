@@ -12685,6 +12685,7 @@ example:
 | kaoinshou zero | 顔印象零 |  |  |
 | yasudajuku | 保田塾 |  |  |
 | mahou no kinoko | 魔法のキノコ |  |  |
+| suihanya | 炊飯屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
