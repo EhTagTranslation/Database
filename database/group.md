@@ -12687,6 +12687,7 @@ example:
 | mahou no kinoko | 魔法のキノコ |  |  |
 | suihanya | 炊飯屋 |  |  |
 | climbcrown | クライムクラウン |  |  |
+| takahiro no ie | たかひろの家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
