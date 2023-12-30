@@ -12671,6 +12671,7 @@ example:
 | az slash hybrid | をん（AZ/HYBRID） |  | [pixiv](https://www.pixiv.net/users/23821) [Twitter](https://twitter.com/wonashybrid) |
 | shirabii | しらび |  | [pixiv](https://www.pixiv.net/users/216403) [Twitter](https://twitter.com/shirabii) |
 | ushio kiyoshi | 潮汐きよし |  |  |
+| yumemi teer | ゆめのつづき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
