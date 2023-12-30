@@ -12667,6 +12667,7 @@ example:
 | yasuda yasuhiro | 保田やすひろ |  |  |
 | minazuki miyabi | 水無月雅 |  |  |
 | okome taberu | おこめタベル |  |  |
+| nagase tooru | 長瀬 徹 |  | [Twitter](https://twitter.com/naganagase0114) [pixiv](https://www.pixiv.net/users/54396773) |
 
 <!--TEMPLATE:
 |  |  |  |  |
