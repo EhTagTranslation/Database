@@ -2237,6 +2237,7 @@ example:
 | arknights endfield | 明日方舟：终末地 |  | cn official website<br>[https://endfield.hypergryph.com/](https://endfield.hypergryph.com/)<br><br>en official website<br>[https://endfield.gryphline.com/en-us](https://endfield.gryphline.com/en-us)<br><br>weibo:<br>[微博](https://weibo.com/u/7745672941)<br><br>twitter:<br>[Twitter](https://twitter.com/AKEndfield) |
 | calabiyau | 卡拉彼丘 |  | [HP](https://klbq.qq.com/) [萌娘百科](https://zh.moegirl.org.cn/卡拉彼丘) [BILIGAME WIKI](https://wiki.biligame.com/klbq) |
 | soltyrei | 曙光少女 |  | [维基百科](https://zh.wikipedia.org/wiki/曙光少女) |
+| meikyuu black company | 异世界迷宫黑心企业 | 二之宫金治因为讨厌当为公司做牛做马的“社畜”，而靠着各种努力与投资，终于达成不工作也有大笔收入的理想目标！<br>然而他因阴错阳差掉进异世界，再度踏入“社畜”的深渊⋯⋯！<br>究竟他能否摆脱“社畜”的悲惨命运呢？ | [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫黑心企业) [维基百科](https://zh.wikipedia.org/wiki/暗黑企業的迷宮) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
