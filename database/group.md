@@ -12688,6 +12688,7 @@ example:
 | suihanya | 炊飯屋 |  |  |
 | climbcrown | クライムクラウン |  |  |
 | takahiro no ie | たかひろの家 |  |  |
+| shiosai | 潮騒 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
