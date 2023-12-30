@@ -12668,6 +12668,7 @@ example:
 | minazuki miyabi | 水無月雅 |  |  |
 | okome taberu | おこめタベル |  |  |
 | nagase tooru | 長瀬 徹 |  | [Twitter](https://twitter.com/naganagase0114) [pixiv](https://www.pixiv.net/users/54396773) |
+| az slash hybrid | をん（AZ/HYBRID） |  | [pixiv](https://www.pixiv.net/users/23821) [Twitter](https://twitter.com/wonashybrid) |
 
 <!--TEMPLATE:
 |  |  |  |  |
