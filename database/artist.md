@@ -12672,6 +12672,7 @@ example:
 | shirabii | しらび |  | [pixiv](https://www.pixiv.net/users/216403) [Twitter](https://twitter.com/shirabii) |
 | ushio kiyoshi | 潮汐きよし |  |  |
 | yumemi teer | 夢見てぇる |  |  |
+| kisaragi sonami | 生肉 |  | [pixiv](https://www.pixiv.net/users/49283008) |
 
 <!--TEMPLATE:
 |  |  |  |  |
