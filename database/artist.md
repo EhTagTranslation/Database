@@ -12673,6 +12673,7 @@ example:
 | ushio kiyoshi | 潮汐きよし |  |  |
 | yumemi teer | 夢見てぇる |  |  |
 | kisaragi sonami | 生肉 |  | [pixiv](https://www.pixiv.net/users/49283008) |
+| nishi yasuaki | 西ヤスアキ |  | [Twitter](https://twitter.com/nishi_ak1) [pixiv](https://www.pixiv.net/users/15129224) |
 
 <!--TEMPLATE:
 |  |  |  |  |
