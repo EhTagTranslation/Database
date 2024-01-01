@@ -6216,7 +6216,7 @@ example:
 | it | イット |  |  |
 | itachou | いたちょう |  |  |
 | itaku | イタク |  |  |
-| itami | 伊丹 |  |  |
+| itami | 伊丹 |  | [pixiv](https://www.pixiv.net/users/9511629) |
 | itamochi | 板餅 |  |  |
 | itaya satoruno | 板谷さとるの |  |  |
 | ithino li | 一ノらい |  |  |
