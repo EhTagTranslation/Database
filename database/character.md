@@ -5061,6 +5061,7 @@ example:
 | karane inda | 院田唐音 | 《超超超超超喜欢你的100个女朋友》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
 | hakari hanazono | 花园羽香里 | 《超超超超超喜欢你的100个女朋友》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
 | mayling shen | 沈美玲 | 少女前线2角色 | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
+| akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
