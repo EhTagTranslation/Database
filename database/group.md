@@ -12689,6 +12689,7 @@ example:
 | climbcrown | クライムクラウン |  |  |
 | takahiro no ie | たかひろの家 |  |  |
 | shiosai | 潮騒 |  |  |
+| touzainanboku | とうざいなんぼく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
