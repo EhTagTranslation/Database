@@ -3595,7 +3595,7 @@ example:
 | yanagi hareta | 晴太 |  |  |
 | houkisei | ほうき星 | ![](https://pbs.twimg.com/profile_images/1419514827643392001/CW3d6ysA_400x400.jpg) | [pixiv](https://pixiv.net/users/70050825)<br>[Twitter](https://twitter.com/houk1se1) |
 | takahama tarou | 高浜太郎 |  |  |
-| ikezaki misa | 池咲弥撒 | hitokui<br>![](https://i.pixiv.cat/user-profile/img/2019/02/09/23/43/03/15372931_9f9c44a4d1404f6e9e641c251d4a3ca3_170.png)<br>ikezakimisa<br>![](https://i.pixiv.cat/user-profile/img/2020/08/14/18/18/08/19179013_6f79bd15706e308543d79b3b552e6047_170.png)<br>@ikezakimisa<br>![](https://pbs.twimg.com/profile_images/1267849871903449089/5K6DASnm_400x400.jpg) | 画师有两个Pixiv帐号<br>(美少年系同人情報アカウントhitokui)[pixiv](https://www.pixiv.net/users/334249)<br>(男性向け/女の子/商業用アカウントikezakimisa)[pixiv](https://www.pixiv.net/users/7928116)<br>[Twitter](https://twitter.com/ikezakimisa)<br>[哔哩哔哩](https://space.bilibili.com/1926603520) |
+| ikezaki misa | 池咲弥撒 | 画师有两个Pixiv帐号<br>hitokui<br>![](https://i.pixiv.cat/user-profile/img/2019/02/09/23/43/03/15372931_9f9c44a4d1404f6e9e641c251d4a3ca3_170.png)<br>ikezakimisa<br>![](https://i.pixiv.cat/user-profile/img/2020/08/14/18/18/08/19179013_6f79bd15706e308543d79b3b552e6047_170.png)<br>@ikezakimisa<br>![](https://pbs.twimg.com/profile_images/1267849871903449089/5K6DASnm_400x400.jpg) | (美少年系同人情報アカウントhitokui)[pixiv](https://www.pixiv.net/users/334249)<br>(男性向け/女の子/商業用アカウントikezakimisa)[pixiv](https://www.pixiv.net/users/7928116)<br>[Twitter](https://twitter.com/ikezakimisa)<br>[哔哩哔哩](https://space.bilibili.com/1926603520) |
 | ikameshi | 乌贼饭 |  |  |
 | sakura romako | 桜ロマ子 |  |  |
 | moejin | 萌尽 |  |  |
