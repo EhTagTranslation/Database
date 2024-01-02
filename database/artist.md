@@ -12674,6 +12674,7 @@ example:
 | yumemi teer | 夢見てぇる |  |  |
 | kisaragi sonami | 生肉 |  | [pixiv](https://www.pixiv.net/users/49283008) |
 | nishi yasuaki | 西ヤスアキ |  | [Twitter](https://twitter.com/nishi_ak1) [pixiv](https://www.pixiv.net/users/15129224) |
+| higashi taishi | 東太子 | 转生成为 [コソコソ丸](https://www.pixiv.net/users/30446632) |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
