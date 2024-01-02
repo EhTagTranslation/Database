@@ -3595,7 +3595,7 @@ example:
 | yanagi hareta | 晴太 |  |  |
 | houkisei | ほうき星 | ![](https://pbs.twimg.com/profile_images/1419514827643392001/CW3d6ysA_400x400.jpg) | [pixiv](https://pixiv.net/users/70050825)<br>[Twitter](https://twitter.com/houk1se1) |
 | takahama tarou | 高浜太郎 |  |  |
-| ikezaki misa | 池咲弥撒 |  |  |
+| ikezaki misa | 池咲弥撒 |  | [哔哩哔哩](https://space.bilibili.com/1926603520) |
 | ikameshi | 乌贼饭 |  |  |
 | sakura romako | 桜ロマ子 |  |  |
 | moejin | 萌尽 |  |  |
