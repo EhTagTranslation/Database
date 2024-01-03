@@ -2240,6 +2240,7 @@ example:
 | meikyuu black company | 异世界迷宫黑心企业 | 二之宫金治因为讨厌当为公司做牛做马的“社畜”，而靠着各种努力与投资，终于达成不工作也有大笔收入的理想目标！<br>然而他因阴错阳差掉进异世界，再度踏入“社畜”的深渊⋯⋯！<br>究竟他能否摆脱“社畜”的悲惨命运呢？ | [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫黑心企业) [维基百科](https://zh.wikipedia.org/wiki/暗黑企業的迷宮) |
 | kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo | 超超超超超喜欢你的100个女朋友 | 中村力斗原作，野泽由纪子作画创作的漫画作品 |  |
 | kimagure orange road | 橙路 | 故事讲述拥有超能力的男主角春日恭介与鲇川圆、桧山光两个女孩之间三角恋情。 | [维基百科](https://zh.wikipedia.org/wiki/橙路) |
+| mahoutsukai no yakusoku | 魔法使的约定 | 《魔法使的约定》（日语：魔法使いの約束）是由coly制作的女性向手机游戏。有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔法使的约定) [维基百科（日语）](https://ja.wikipedia.org/wiki/魔法使いの約束) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
