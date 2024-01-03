@@ -9225,7 +9225,7 @@ example:
 | parmiria | パーミリア |  |  |
 | parua | ぱるあ |  |  |
 | paruparu | ぱるぱる |  |  |
-| pasdar | pasdar |  |  |
+| pasdar | pasdar |  | [pixiv](https://www.pixiv.net/users/3606870) [Twitter](https://twitter.com/pasdar_mt02) |
 | pasera | ぱせら |  |  |
 | pastachin | パスタチン |  |  |
 | pato-chan | パトちゃん |  |  |
