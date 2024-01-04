@@ -12690,6 +12690,7 @@ example:
 | takahiro no ie | たかひろの家 |  |  |
 | shiosai | 潮騒 |  |  |
 | touzainanboku | とうざいなんぼく |  |  |
+| arijigoku | 蚁地狱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
