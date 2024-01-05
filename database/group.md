@@ -12692,6 +12692,7 @@ example:
 | touzainanboku | とうざいなんぼく |  |  |
 | arijigoku | 蚁地狱 |  |  |
 | tianoblue | ティアノブルー |  |  |
+| nerimono koujou | 練り物工場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
