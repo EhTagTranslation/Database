@@ -2306,7 +2306,7 @@ example:
 | sakura saku sakura | 佐倉さくさくら |  |  |
 | akinaro | あきなろ |  |  |
 | hanakawa sugar | 花川シュガー |  |  |
-| urabi | うらび |  |  |
+| urabi | 紅吊うらび |  | [pixiv](https://www.pixiv.net/users/306673) [Twitter](https://twitter.com/urabiyori) |
 | kichirock | キチロク |  |  |
 | wes heartland smith | ウェス·ハートランド·スミス |  |  |
 | pochincoff | ポチンコフ |  |  |
