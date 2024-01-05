@@ -12691,6 +12691,7 @@ example:
 | shiosai | 潮騒 |  |  |
 | touzainanboku | とうざいなんぼく |  |  |
 | arijigoku | 蚁地狱 |  |  |
+| tianoblue | ティアノブルー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
