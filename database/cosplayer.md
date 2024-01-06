@@ -100,6 +100,7 @@ example:
 | niannian d | 念念\_D |  | [微博](https://weibo.com/u/3164968121) |
 | tyouduki maryou | 蝶月真綾 |  |  |
 | ringo mitsuki | 林檎蜜纪(林檎蜜紀) | coser | [Twitter](https://twitter.com/ringo_mitsuki) |
+| tokar | 浵卡Tokar |  |  |
 
 <!--
 Template: 
