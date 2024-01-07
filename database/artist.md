@@ -10871,7 +10871,7 @@ example:
 | tipo | ティーポ |  |  |
 | tira | Tira |  |  |
 | tirotata | ちろたた |  |  |
-| titiduki | チチヅキ |  |  |
+| titiduki | チチヅキ |  | [pixiv](https://www.pixiv.net/users/26809949) |
 | tiv | Tiv |  |  |
 | tj-type1 | TJ-type1 |  |  |
 | tk | TK |  |  |
