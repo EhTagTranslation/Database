@@ -12679,6 +12679,7 @@ example:
 | sushi yuusha toro | 寿司勇者トロ | ホラーとクリーチャーだいすきっ！<br>同人サークル「イニミニマニモ？」でゲーム作ってるよっ！<br>ニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！ | [Twitter](https://twitter.com/toro_yori_ebi)<br>[pixiv](https://www.pixiv.net/users/2938678)<br>[Fantia](https://fantia.jp/fanclubs/22621) |
 | sandbox | 砂场 |  | [pixiv](https://www.pixiv.net/users/2638053) |
 | yunamaro | ゆなまろ |  |  |
+| 810eru | 草葉える | ![](https://pbs.twimg.com/profile_images/1188383436056084480/Ig6MCV0G_400x400.jpg) | [Twitter](https://twitter.com/810eru) [pixiv](https://www.pixiv.net/users/28540587) |
 
 <!--TEMPLATE:
 |  |  |  |  |
