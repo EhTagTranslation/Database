@@ -12680,6 +12680,7 @@ example:
 | sandbox | 砂场 |  | [pixiv](https://www.pixiv.net/users/2638053) |
 | yunamaro | ゆなまろ |  |  |
 | 810eru | 草葉える | ![](https://pbs.twimg.com/profile_images/1188383436056084480/Ig6MCV0G_400x400.jpg) | [Twitter](https://twitter.com/810eru) [pixiv](https://www.pixiv.net/users/28540587) |
+| mochiduki riku | 望月りく |  | [Twitter](https://twitter.com/riku_mochiduki) [pixiv](https://www.pixiv.net/users/89542521) |
 
 <!--TEMPLATE:
 |  |  |  |  |
