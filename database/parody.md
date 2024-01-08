@@ -2241,6 +2241,7 @@ example:
 | kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo | 超超超超超喜欢你的100个女朋友 | 中村力斗原作，野泽由纪子作画创作的漫画作品 |  |
 | kimagure orange road | 橙路 | 故事讲述拥有超能力的男主角春日恭介与鲇川圆、桧山光两个女孩之间三角恋情。 | [维基百科](https://zh.wikipedia.org/wiki/橙路) |
 | mahoutsukai no yakusoku | 魔法使的约定 | 《魔法使的约定》（日语：魔法使いの約束）是由coly制作的女性向手机游戏。有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔法使的约定) [维基百科（日语）](https://ja.wikipedia.org/wiki/魔法使いの約束) |
+| genesis climber mospeada | 机甲创世记 | 《机甲创世记》（日语：機甲創世記モスピーダ）是自1983年10月2日至1984年3月25日间于日本富士电视台播出的25集机器人动画。 | [维基百科](https://zh.wikipedia.org/wiki/太空戰神) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
