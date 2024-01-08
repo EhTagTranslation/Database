@@ -5066,6 +5066,7 @@ example:
 | fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和`mococo abyssgard`（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | mococo abyssgard | 茸茸·阿比斯加德 | `fuwawa abyssgard`（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | hijiri mochizuki | 望月圣 |  |  |
+| eila ilmatar juutilainen | 艾拉·伊尔玛塔尔·尤蒂莱南 | （日语：エイラ・イルマタル・ユーティライネン；英语：Eila Ilmatar Juutilainen）是《强袭魔女》系列作品中出现的角色之一。原型为芬兰王牌飞行员依诺·尤蒂莱南。 | [萌娘百科](https://zh.moegirl.org.cn/艾拉·伊尔玛塔尔·尤蒂莱南) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
