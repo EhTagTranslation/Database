@@ -12694,6 +12694,7 @@ example:
 | tianoblue | ティアノブルー |  |  |
 | nerimono koujou | 練り物工場 |  |  |
 | marosaan | まろ茶庵 |  |  |
+| pachypodium | ぱきぽぢうむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
