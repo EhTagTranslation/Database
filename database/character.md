@@ -5063,8 +5063,9 @@ example:
 | mayling shen | 沈美玲 | 少女前线2角色 | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
 | akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive` |  |
 | kikyou kiryuu | 桐生桔梗 | 所属作品：`p:blue archive` |  |
-| fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
+| fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和`mococo abyssgard`（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | mococo abyssgard | 茸茸·阿比斯加德 | `fuwawa abyssgard`（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
+| hijiri mochizuki | 望月圣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
