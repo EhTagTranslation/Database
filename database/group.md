@@ -12696,6 +12696,7 @@ example:
 | marosaan | まろ茶庵 |  |  |
 | pachypodium | ぱきぽぢうむ |  |  |
 | europia | ゆーろぴあ |  |  |
+| iinchou no yabai yatsu | 委員長のやばいヤツ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
