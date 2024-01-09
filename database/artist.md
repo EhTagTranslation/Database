@@ -798,7 +798,7 @@ example:
 | arsenal | アーセナル |  |  |
 | asagi ryu | あさぎ龍 |  |  |
 | hayano rinta | 早野りんた |  |  |
-| jenigata | ジェニガタ |  |  |
+| jenigata | ジェニガタ |  | [pixiv](https://www.pixiv.net/users/705383) |
 | mita kurumi | みたくるみ |  |  |
 | mutsuki | 睦月 |  |  |
 | shinobu tanei | 志乃武丹英 |  |  |
