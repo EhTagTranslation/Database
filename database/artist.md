@@ -12683,6 +12683,7 @@ example:
 | mochiduki riku | 望月りく |  | [Twitter](https://twitter.com/riku_mochiduki) [pixiv](https://www.pixiv.net/users/89542521) |
 | asoka | あそか |  | [pixiv](https://www.pixiv.net/users/4911) [Twitter](https://twitter.com/asokappa) |
 | komiya yuuta | 小宮裕太 | 职业: 漫画家<br>日本漫画家、插画师。女性。旧笔名为御堂明日香（みどうあすか）。<br>漫画作品皆为成年向漫画。在『漫画ばんがいち』（コアマガジン）不定期登载作品。另外，亦有时担当该杂志的封面及封底。以前也曾担任该公司的《コミック0ex》（现在的《メガミルク》的前身）的封面及封底。<br>以淡淡的笔触描画，其作品特征多为同级生、青梅竹马等。<br><br>曾为みずきえいむ、鈴玉レンリ、Rico、アシオ等漫画家的单行本上描绘嘉宾原稿。 | [https://ja.m.wikipedia.org/wiki/小宮裕太](https://ja.m.wikipedia.org/wiki/小宮裕太)<br>[pixiv](https://www.pixiv.net/users/71144395)<br>[https://www.tumblr.com/trialanderrorlog](https://www.tumblr.com/trialanderrorlog)<br>[http://trialanderrorlog.tumblr.com/](http://trialanderrorlog.tumblr.com/)<br>[https://bangumi.tv/person/14799](https://bangumi.tv/person/14799) |
+| inchou no naka no hito | いんちょ～の中の人 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
