@@ -4478,7 +4478,7 @@ example:
 | hanbei takenaka | 竹中半兵卫 |  |  |
 | kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
-| kisaki | 龙华妃咲 | 碧蓝档案角色 |  |
+| kisaki | 龙华妃咲 | 所属作品:`p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
 | mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669) |
 | tsurugi kensaki | 剑先鹤城 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335) |
 | acerola | 阿塞萝拉 | 所属作品: `p:pokemon`<br><br>![](https://static.wikia.nocookie.net/pokemon/images/1/1e/Sun_Moon_Acerola.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/阿塞萝拉) [神奇宝贝百科](https://wiki.52poke.com/zh/阿塞蘿拉) [Fandom](https://pokemon.fandom.com/wiki/Acerola) |
