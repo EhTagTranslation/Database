@@ -2244,6 +2244,7 @@ example:
 | genesis climber mospeada | 机甲创世记 | 《机甲创世记》（日语：機甲創世記モスピーダ）是自1983年10月2日至1984年3月25日间于日本富士电视台播出的25集机器人动画。 | [维基百科](https://zh.wikipedia.org/wiki/太空戰神) |
 | tottemo luckyman | 幸运超人 | 《幸运超人》（とっても!ラッキーマン）是日本漫画家蒲生洋的英雄搞笑的少年漫画，以及改编电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/行運超人) |
 | super radical gag family | 爱生事家庭 |  | [维基百科](https://zh.wikipedia.org/wiki/愛生事家庭) [维基百科（英语）](https://en.wikipedia.org/wiki/Super_Radical_Gag_Family) |
+| edomae elf | 江户前精灵 | 位于东京中央区月岛的知名神社“高耳神社”，拥有400年以上的历史。其所奉祀的神，是一位在江户时代从异世界召唤来到日本，现在却只会成天待在神社沉迷于游戏、动画、手办，还患有社交恐惧症的家里蹲精灵。神社家的女儿，同时也是新科巫女的小金井小糸，为了侍奉这位精灵神大人伤透了脑筋。而她心中的憧憬，是在十年前一个大雪纷飞的日子里，出现在她眼前的一位全身雪白的女性—— | [萌娘百科](https://zh.moegirl.org.cn/江户前精灵) [维基百科](https://zh.wikipedia.org/wiki/江戶前精靈) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
