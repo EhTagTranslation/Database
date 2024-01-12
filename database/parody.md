@@ -2247,6 +2247,7 @@ example:
 | edomae elf | 江户前精灵 | 位于东京中央区月岛的知名神社“高耳神社”，拥有400年以上的历史。其所奉祀的神，是一位在江户时代从异世界召唤来到日本，现在却只会成天待在神社沉迷于游戏、动画、手办，还患有社交恐惧症的家里蹲精灵。神社家的女儿，同时也是新科巫女的小金井小糸，为了侍奉这位精灵神大人伤透了脑筋。而她心中的憧憬，是在十年前一个大雪纷飞的日子里，出现在她眼前的一位全身雪白的女性—— | [萌娘百科](https://zh.moegirl.org.cn/江户前精灵) [维基百科](https://zh.wikipedia.org/wiki/江戶前精靈) |
 | eizouken ni wa te wo dasu na | 别对映像研出手！ | 本作讲述了想象力天马行空的浅草绿，喜欢赚钱的高个子女孩金森沙耶加，以及作为人气模特但有志成为动画师的水崎燕，三个女高中生一起制作动画的故事。 | [萌娘百科](https://zh.moegirl.org.cn/别对映像研出手！) [维基百科](https://zh.wikipedia.org/wiki/別對映像研出手！) |
 | rikei ga koi ni ochita no de shuomei shite mita. | 理科生坠入情网，故尝试证明。 | 《理科生坠入情网，故尝试证明。》（日语：理系が恋に落ちたので証明してみた。）是山本アリフレッド所绘画的日本漫画作品，原于漫画网站COMIC Meteor刊载短篇，5月25日开始正式连载[1]。2019年1月9日宣布改编电视动画，并于隔年1月11日开始播放。2020年10月17日动画二期制作确定，2022年4月1日开始播放。[2] | [https://zh.m.wikipedia.org/zh-hans/理科生墜入情網，故嘗試證明。](https://zh.m.wikipedia.org/zh-hans/理科生墜入情網，故嘗試證明。)<br>[萌娘百科](https://zh.moegirl.org.cn/zh/理科生坠入情网，故尝试证明。) |
+| yu-gi-oh go rush | 游戏王GO RUSH | 《游戏王GO RUSH》（日语：遊☆戯☆王ゴーラッシュ!!）是一部于2022年开播的日本电视动画，《游戏王》系列的第八部作品，由Bridge制作；2022年4月3日东京电视台首播，接档前作《游戏王SEVENS》。本作为《游戏王SEVENS》的续篇，采用同班人马制作。 | [维基百科](https://zh.wikipedia.org/wiki/遊戲王GO_RUSH) [萌娘百科](https://zh.moegirl.org.cn/游戏王GORUSH!!) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
