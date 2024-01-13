@@ -12697,6 +12697,7 @@ example:
 | pachypodium | ぱきぽぢうむ |  |  |
 | europia | ゆーろぴあ |  |  |
 | iinchou no yabai yatsu | 委員長のやばいヤツ |  |  |
+| gotarou no all night fuck | ゴ太郎 |  | [pixiv](https://www.pixiv.net/users/49916) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
