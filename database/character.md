@@ -5070,6 +5070,7 @@ example:
 | yuuhi oudou | 王道游飞 |  |  |
 | tell kawai | 合羽井英 |  |  |
 | kouko kaga | 加贺香子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/加贺香子) |
+| lisanna strauss | 丽莎娜·斯特劳斯 |  | [萌娘百科](https://zh.moegirl.org.cn/丽莎娜·斯特劳斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
