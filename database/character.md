@@ -4222,7 +4222,7 @@ example:
 | hinata wakaba | 若葉日向 |  |  |
 | chihiro kagami | 各务千寻 | 各务千寻（日语：各務チヒロ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。 |  |
 | perrine h. clostermann | 佩琳·H·克洛斯特曼 | 所属作品: `p:strike witches`<br>![](https://static.wikia.nocookie.net/strikewitches/images/2/2a/Perrine_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/佩琳·H·克洛斯特曼) [Fandom](https://worldwitches.fandom.com/wiki/Perrine_H._Clostermann) |
-| bronya zaychik | 布洛妮娅·扎伊切克 | 布洛妮娅·扎伊切克（ブローニャ・ザイチク，Bronya Zaychik，配音：Hanser（普通话）、阿澄佳奈（日语））<br>西伯利亚的暗杀兵，被可可利亚收养后参与X-10实验导致失去了表情和双腿活动能力。但是获得了名为“重装小兔”的机甲。<br>曾被可可利亚植入芯片控制，后为不再伤害到琪亚娜等朋友而烧毁芯片陷入昏迷，在圣芙蕾雅学院的治疗和符华的帮助下苏醒，现任第一律者。 | [https://zh.m.wikipedia.org/wiki/崩坏3](https://zh.m.wikipedia.org/wiki/崩坏3) |
+| bronya zaychik | 布洛妮娅·扎伊切克 | 所属作品: `p:honkai gakuen`<br><br>西伯利亚的暗杀兵，被可可利亚收养后参与X-10实验导致失去了表情和双腿活动能力。但是获得了名为“重装小兔”的机甲。<br>曾被可可利亚植入芯片控制，后为不再伤害到琪亚娜等朋友而烧毁芯片陷入昏迷，在圣芙蕾雅学院的治疗和符华的帮助下苏醒，现任第一律者。 | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·扎伊切克%28崩坏3%29) |
 | danzou katou | 加藤段藏 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/加藤段藏%28Fate%29) |
 | fubuki nemugaki | 合欢垣吹雪 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ad/Fubuki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nemugaki_Fubuki) |
 | serika kuromi | 黑见芹香 |  |  |
