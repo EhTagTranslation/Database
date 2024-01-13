@@ -5069,6 +5069,7 @@ example:
 | eila ilmatar juutilainen | 艾拉·伊尔玛塔尔·尤蒂莱南 | （日语：エイラ・イルマタル・ユーティライネン；英语：Eila Ilmatar Juutilainen）是《强袭魔女》系列作品中出现的角色之一。原型为芬兰王牌飞行员依诺·尤蒂莱南。 | [萌娘百科](https://zh.moegirl.org.cn/艾拉·伊尔玛塔尔·尤蒂莱南) |
 | yuuhi oudou | 王道游飞 |  |  |
 | tell kawai | 合羽井英 |  |  |
+| kouko kaga | 加贺香子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/加贺香子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
