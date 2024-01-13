@@ -5071,6 +5071,7 @@ example:
 | tell kawai | 合羽井英 |  |  |
 | kouko kaga | 加贺香子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/加贺香子) |
 | lisanna strauss | 丽莎娜·斯特劳斯 |  | [萌娘百科](https://zh.moegirl.org.cn/丽莎娜·斯特劳斯) |
+| mia luna tearmoon | 米雅·卢娜·堤亚穆 | 所属作品: `p:tearmoon teikoku monogatari`<br><br>堤亚穆帝国的第一皇女，在前一个时间轴中是一个昏庸无能的皇女，后来帝国爆发了革命，于十七岁时在逃亡的途中被捕，在地牢中软禁三年后在一片谩骂声中走上断头台，享年20岁。——本该如此，但在醒来后却发现自己回到了12岁，这一次，她为了在第二次的人生中躲过断头台而四处奔走着。 | [萌娘百科](https://zh.moegirl.org.cn/米雅·卢娜·堤亚穆) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
