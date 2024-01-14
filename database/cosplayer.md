@@ -107,6 +107,7 @@ example:
 | sakura noa | 桜のぁ |  |  |
 | yuricha | YURICHA |  |  |
 | na-san | なーさん |  |  |
+| mashiro yuki | 真白ゆき |  |  |
 
 <!--
 Template: 
