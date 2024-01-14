@@ -106,6 +106,7 @@ example:
 | omimi | おみみ |  |  |
 | sakura noa | 桜のぁ |  |  |
 | yuricha | YURICHA |  |  |
+| na-san | なーさん |  |  |
 
 <!--
 Template: 
