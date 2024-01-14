@@ -12688,6 +12688,7 @@ example:
 | yutaka izubuchi | 出渕裕 |  | [百度百科](https://baike.baidu.com/item/出渕裕) [维基百科（日语）](https://ja.wikipedia.org/wiki/出渕裕) |
 | tachibana-ko | 橘子 |  |  |
 | toridamono | トリダモノ |  | [Twitter](https://twitter.com/toridamono) [pixiv](https://www.pixiv.net/en/users/23654) |
+| yoshimura takuya | 吉村拓哉 |  | [Twitter](https://twitter.com/hanari0716) [HP](http://takuyayoshimura.com) |
 
 <!--TEMPLATE:
 |  |  |  |  |
