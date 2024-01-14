@@ -103,6 +103,7 @@ example:
 | tokar | 浵卡Tokar | [Twitter](https://twitter.com/laurus0711?lang=zh-Hant) |  |
 | saotome love | 早乙女らぶ |  |  |
 | tsubomin | つぼみん |  |  |
+| omimi | おみみ |  |  |
 
 <!--
 Template: 
