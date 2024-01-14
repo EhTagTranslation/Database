@@ -2334,7 +2334,7 @@ example:
 | roteri | ろてり |  |  |
 | kannaduki kanna | 神無月かんな |  |  |
 | endou okito | 袁藤沖人 |  | [Twitter](https://twitter.com/organ70) [个人网站](http://www.okito.jp) |
-| messy | メッシィ |  |  |
+| messy | メッシィ |  | [pixiv](https://www.pixiv.net/users/10230244) |
 | aomushi | あおむし |  | [pixiv](https://www.pixiv.net/users/173199) |
 | zheng | Zheng |  |  |
 | yukimoto shuuji | 雪本愁二 |  |  |
