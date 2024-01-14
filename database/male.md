@@ -65,7 +65,7 @@ example:
 | stretching | 拉伸 | 拉伸（如四肢）超出正常人能做到的范围。不要用到任何应该标记为`tentacles`的地方 。 |  |
 | tailjob | 尾交 | 用尾巴模拟性器官。 |  |
 |  | wingjob翼交 | 用翅膀模拟性器官。 |  |
-| wings | 翅膀 | 人类身上明显的翅膀。不应用于`angel`、`demon`、`demon girl`、`fairy`、`harpy`、`monster`或`monster girl`（除非另有意外）。 |  |
+| wings | 翅膀 | 人类身上明显的翅膀。不应用于`fairy`或`harpy`（除非另有意外）。 |  |
 |  | === 身体 > 其他改变 === |  |  |
 | absorption | 吸收 | 吸收某人或某物。可能由`vore`或`unbirth`引发。 |  |
 | petrification | 石化 | 成为雕像/岩石般的形象。 |  |
