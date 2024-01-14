@@ -5078,6 +5078,7 @@ example:
 | lisesharte atismata | 莉姿夏尔蒂·亚提司玛特 | 所属作品: `p:saijaku muhai no bahamut`<br><br>亚提司玛特新王国的公主，爱称是莉夏。真红的神装机龙“迪亚玛特”的操纵者，在学园内以无败而自豪的屈指可数的装甲机龙使者。此外，身为技术者，有着天才的水平。 |  |
 | dantoudai no aura | 阿乌拉 | 所属作品: `p:sousou no frieren`<br><br>魔王直接下属的“七崩贤”之一，绰号“断头台阿乌拉”的魔族。 | [萌娘百科](https://zh.moegirl.org.cn/阿乌拉) |
 | ayano yuugiri | 夕桐绫乃 | 所属作品: `p:engage kiss`<br><br>![图](https://ehgt.org/2c/f7/2cf725b1d6494c5e0d7f7f6546ac55d11bd761e0-319014-880-1300-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夕桐绫乃) |
+| rose oriana | 萝丝·奥里亚纳 | 奥里亚纳王国的公主。米德加尔魔剑士学园的学生会长。作为艺术之国的公主备受期待，但是以自己的意志选择了剑的道路。入学后掌握了学园顶级的实力。在一次事件之后感受到了和希德的命运。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
