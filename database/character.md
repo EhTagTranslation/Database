@@ -5075,6 +5075,7 @@ example:
 | ruan mei | 阮·梅 | 所属作品: `p:honkai star rail`<br><br>气质温婉优雅的学者，「天才俱乐部」#81号会员，生命科学领域的专家。凭借天赋与惊人的执著得到了博识尊的瞩目，在秘密的角落开始了对生命本源的研究与探索。并因此被黑塔邀请，同螺丝咕姆、斯蒂芬联合开发了「模拟宇宙」。私下里，她十分喜爱传统戏剧与点心，对刺绣也很感兴趣。 | [萌娘百科](https://zh.moegirl.org.cn/阮·梅) |
 | li sushang | 李素裳 \| 素裳 | 所属作品: `p:honkai gakuen`、`p:honkai star rail` | [李素裳](https://zh.moegirl.org.cn/李素裳) [素裳](https://zh.moegirl.org.cn/素裳) |
 | prometheus | 普罗米修斯 | 所属作品: `p:megido 72` | [Bangumi](https://bgm.tv/character/129499) |
+| lisesharte atismata | 莉姿夏尔蒂·亚提司玛特 | 所属作品: `p:saijaku muhai no bahamut`<br><br>亚提司玛特新王国的公主，爱称是莉夏。真红的神装机龙“迪亚玛特”的操纵者，在学园内以无败而自豪的屈指可数的装甲机龙使者。此外，身为技术者，有着天才的水平。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
