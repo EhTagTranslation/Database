@@ -12687,6 +12687,7 @@ example:
 | asakura hayate | 朝倉はやて | 朝倉 はやて（あさくら はやて）は、日本のイラストレーター。 | [https://ja.m.wikipedia.org/wiki/朝倉はやて](https://ja.m.wikipedia.org/wiki/朝倉はやて)<br>[http://eveningcalm114.web.fc2.com/](http://eveningcalm114.web.fc2.com/)<br>[http://eveningcalm114.blog81.fc2.com/](http://eveningcalm114.blog81.fc2.com/)<br>[pixiv](https://www.pixiv.net/en/users/423443)<br>[Twitter](https://twitter.com/asakurahayate) |
 | yutaka izubuchi | 出渕裕 |  | [百度百科](https://baike.baidu.com/item/出渕裕) [维基百科（日语）](https://ja.wikipedia.org/wiki/出渕裕) |
 | tachibana-ko | 橘子 |  |  |
+| toridamono | トリダモノ |  | [Twitter](https://twitter.com/toridamono) [pixiv](https://www.pixiv.net/en/users/23654) |
 
 <!--TEMPLATE:
 |  |  |  |  |
