@@ -105,6 +105,7 @@ example:
 | tsubomin | つぼみん |  |  |
 | omimi | おみみ |  |  |
 | sakura noa | 桜のぁ |  |  |
+| yuricha | YURICHA |  |  |
 
 <!--
 Template: 
