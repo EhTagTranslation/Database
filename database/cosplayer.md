@@ -104,6 +104,7 @@ example:
 | saotome love | 早乙女らぶ |  |  |
 | tsubomin | つぼみん |  |  |
 | omimi | おみみ |  |  |
+| sakura noa | 桜のぁ |  |  |
 
 <!--
 Template: 
