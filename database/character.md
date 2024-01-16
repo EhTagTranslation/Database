@@ -5083,6 +5083,7 @@ example:
 | sharon | 莎郎 \| 莎朗·荷莉格蕾尔 | 所属作品: `p:words worth`<br>莎郎，女主角，影之一族的最强女剑士，男主角的未婚妻和青梅竹马。喜欢最强的男性，险遭光之一族国王强奸玷污，后被男主角拯救，与之共赴爱河。<br><br>所属作品: `p:engage kiss`<br>莎朗·荷莉格蕾尔，女主角之一，表面上是支持博爱主义的“星天教会”的修女，实际上是世界最大的驱魔师集团的代理人。 | [莎郎](https://bangumi.tv/character/23847) [莎朗·荷莉格蕾尔](https://zh.moegirl.org.cn/莎朗·荷莉格蕾尔) |
 | warlock | 术士 |  |  |
 | tamaki kotatsu | 環古達 |  |  |
+| brigitte lindholm | 布丽吉塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
