@@ -1937,7 +1937,7 @@ example:
 | hans christian andersen | 汉斯·克里斯蒂安·安徒生 |  |  |
 | hector | 赫克特 |  |  |
 | mochizuki chiyome | 望月千代女 |  |  |
-| osakabehime | 刑部姬 |  |  |
+| osakabehime | 刑部姬 | 刑部姬是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>![刑部姬](https://img.moegirl.org.cn/common/7/7e/Osakabehime_swimsuit.jpg) | [萌娘百科](https://zh.moegirl.org.cn/刑部姬%28Fate%29#) |
 | sakata kintoki | 坂田金时 |  |  |
 | scheherazade | 山鲁佐德 |  |  |
 | suzuka gozen | 铃鹿御前 |  |  |
