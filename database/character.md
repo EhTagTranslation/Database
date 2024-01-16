@@ -3772,7 +3772,7 @@ example:
 | sideroca | 铸铁 | ![立绘\_铸铁\_skin1.png](https://s2.loli.net/2022/04/07/HJ84ceZYdbL52AD.png)<br>《明日方舟》五星干员铸铁 | [PRTS wiki](https://prts.wiki/id/14737)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:铸铁) |
 | utage | 宴 | ![明日方舟立绘\_宴\_skin1.png](https://s2.loli.net/2022/04/07/9NsBIvCJHT1g7Vl.png)<br>《明日方舟》宴 | [PRTS Wiki](https://prts.wiki/w/宴)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:宴) |
 | siege | 推进之王 | ![立绘\_推进之王\_2.png](https://s2.loli.net/2022/04/07/31O5sQepXMFTAUK.png)<br>《明日方舟》推进之王 | [PRTS wiki](https://prts.wiki/id/1770)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:推进之王) |
-| barghest | 巴格斯特（犬魔） |  |  |
+| barghest | 巴格斯特（犬魔） | 妖精骑士高文是TYPE-MOON旗下Fate系列及其衍生作品的登场角色。<br><br>作为妖精的名字是巴格斯特（Barghest）。<br><br>![巴格斯特](https://img.moegirl.org.cn/common/2/21/好似淑女.png) | [萌娘百科](https://zh.moegirl.org.cn/巴格斯特%28Fate%29#) |
 | yellow heart | 黄色之心 |  |  |
 | orange heart | 橙色之心 |  |  |
 | kotonoha katsura | 桂言叶 | ![图](https://ehgt.org/61/fb/61fb96cb43dbe8098937e9f40a699d4bb6208d6b-9343441-2480-3507-png_l.jpg) |  |
