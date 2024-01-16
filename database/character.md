@@ -3296,7 +3296,7 @@ example:
 | okada izou | 冈田以藏 |  |  |
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
 | caenis | 凯妮斯 |  |  |
-| artoria caster | 阿尔托莉雅·卡斯特 |  |  |
+| artoria caster | 阿尔托莉雅·卡斯特 | 游戏《Fate/Grand Order》的登场人物，乃是妖精国不列颠中，来自星之内海的「乐园妖精（阿瓦隆·勒·菲）」。和泛人类史中的亚瑟王阿尔托莉雅·潘德拉贡是有着相同的面容但内在不同的少女。<br>![阿尔托莉雅·卡斯特](https://img.moegirl.org.cn/common/thumb/9/96/84526676_p0.png/375px-84526676_p0.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/阿尔托莉雅·卡斯特) |
 | atlanta | 亚特兰大 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:亚特兰大) |
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
 | qin liangyu | 秦良玉 |  |  |
