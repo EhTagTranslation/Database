@@ -5084,6 +5084,7 @@ example:
 | warlock | 术士 |  |  |
 | tamaki kotatsu | 環古達 |  |  |
 | brigitte lindholm | 布丽吉塔 |  |  |
+| tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
