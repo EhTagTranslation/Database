@@ -2803,7 +2803,7 @@ example:
 | sonia | 索妮亚 |  |  |
 | mallow | 玛奥 |  |  |
 | melony | 美蓉 |  |  |
-| kama | 迦摩 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Assassin。 |  |
+| kama | 迦摩 | 迦摩是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>印度神话中的爱神。本作中以凭依在间桐樱的身上的形态登场。<br><br>“迦摩”在梵语中意为欲望，和希腊罗马神话里的丘比特是类似的存在，手持弓和箭联系姻缘。神话中本是男神。FGO中因为受到凭依在间桐樱身上的帕尔瓦蒂的影响而变成了女性。<br><br>![迦摩](https://img.moegirl.org.cn/common/8/82/迦摩满破.png) | [萌娘百科](https://zh.moegirl.org.cn/迦摩%28Fate%29#迦摩（Assassin）) |
 | yu mei-ren | 虞美人 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
 | beni-enma | 红阎魔 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
 | carmilla | 卡米拉 | 在`type-moon`的游戏《`fate grand order`》中登场的女性Servant。职阶为Assassin<br>![图](# "https://ehgt.org/ba/3f/ba3f3347a0ce6d4ae9b2991468db49cf9c823465-2970572-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/卡米拉%28Fate%29) [Mooncell](http://www.fgo.wiki/w/卡米拉) |
