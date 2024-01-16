@@ -5085,6 +5085,7 @@ example:
 | tamaki kotatsu | 環古達 |  |  |
 | brigitte lindholm | 布丽吉塔 |  |  |
 | tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
+| kamille bidan | 卡缪·比丹 | 翻译别称：卡缪·维丹 | [百度百科](https://baike.baidu.com/item/卡缪·维丹/7154634?fr=ge_ala)<br>[萌娘百科](https://mzh.moegirl.org.cn/卡缪·比丹) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
