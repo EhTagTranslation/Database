@@ -12698,6 +12698,7 @@ example:
 | europia | ゆーろぴあ |  |  |
 | iinchou no yabai yatsu | 委員長のやばいヤツ |  |  |
 | gotarou no all night fuck | ゴ太郎 |  | [pixiv](https://www.pixiv.net/users/49916) |
+| ruri-iro special room | 瑠璃色特別室 | 作者川口蓝的社团名称。 | [个人网站](http://ruriiro-special-room.com/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
