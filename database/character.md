@@ -5086,6 +5086,7 @@ example:
 | brigitte lindholm | 布丽吉塔 |  |  |
 | tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
 | kamille bidan | 卡缪·比丹 | 翻译别称：卡缪·维丹 | [百度百科](https://baike.baidu.com/item/卡缪·维丹/7154634?fr=ge_ala)<br>[萌娘百科](https://mzh.moegirl.org.cn/卡缪·比丹) |
+| delta | 德尔塔 | 德尔塔是由米哈游旗下的《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/德尔塔%28崩坏3%29)<br>[百度百科](https://baike.baidu.com/item/德尔塔/53930746?_swebfr=220011) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
