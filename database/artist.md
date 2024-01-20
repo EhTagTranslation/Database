@@ -9988,7 +9988,7 @@ example:
 | shark yaminabe | シャーク闇鍋 |  |  |
 | sharpffffff | sharpFFFFFF |  |  |
 | shayo | しゃよー |  |  |
-| shen yan | 哂言 |  |  |
+| shen yan | 哂言 |  | [pixiv](https://www.pixiv.net/users/983572) |
 | shena excel | 椎名エクセル |  |  |
 | shian | しあん |  | [pixiv](https://www.pixiv.net/users/16732156) |
 | shiawase 1500 | 幸せ1500 |  |  |
