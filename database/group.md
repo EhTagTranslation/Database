@@ -12701,6 +12701,7 @@ example:
 | ruri-iro special room | 瑠璃色特別室 | 作者川口蓝的社团名称。 | [个人网站](http://ruriiro-special-room.com/) |
 | harmonear | HarmoNeaR |  |  |
 | higedokoro | ひげどころ |  |  |
+| shinjiroya | 信じろや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
