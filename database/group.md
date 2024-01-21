@@ -12702,6 +12702,7 @@ example:
 | harmonear | HarmoNeaR |  |  |
 | higedokoro | ひげどころ |  |  |
 | shinjiroya | 信じろや |  |  |
+| pontaroya | ぽんたろ家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
