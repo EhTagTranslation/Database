@@ -563,7 +563,7 @@ example:
 | ritsuko akizuki | 秋月律子 |  |  |
 | azusa miura | 三浦梓 |  |  |
 | iori minase | 水濑伊织 |  |  |
-| makoto kikuchi | 菊地真 |  |  |
+| makoto kikuchi | 菊地真 |  | [Wiki](https://project-imas.wiki/Makoto_Kikuchi) |
 | ami futami | 双海亚美 |  |  |
 | mami futami | 双海真美 |  |  |
 | miki hoshii | 星井美希 |  |  |
