@@ -663,7 +663,7 @@ example:
 | zero kara hajimeru mahou no sho | 从零开始的魔法书 |  |  |
 | knights of sidonia | 希德尼娅的骑士 |  |  |
 | sket dance | 学园救援团 |  |  |
-| summer wars | 夏日大作战 |  |  |
+| summer wars | 夏日大作战 | 《夏日大作战》（日语：サマーウォーズ，英语：Summer Wars）是于2009年上映的日本科幻暨浪漫电影，其中由细田守担任动画导演，MADHOUSE负责动画制作并由华纳兄弟负责发行。剧本由奥寺佐渡子撰写，并邀请了神木隆之介、樱庭奈奈美、谷村美月、富司纯子和斋藤步等人担任配音演员。地图工作室成立后，作品版权现归于地图工作室[8]。 | [Wiki](https://zh.wikipedia.org/wiki/夏日大作戰) |
 | flcl | 特别的她 |  |  |
 | the girl who leapt through time | 穿越时空的少女 |  |  |
 | inazuma eleven | 闪电十一人 |  |  |
