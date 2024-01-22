@@ -12703,6 +12703,7 @@ example:
 | higedokoro | ひげどころ |  |  |
 | shinjiroya | 信じろや |  |  |
 | pontaroya | ぽんたろ家 |  |  |
+| watochip melonpan | わとちっぷめろんぱん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
