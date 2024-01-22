@@ -8788,7 +8788,7 @@ example:
 | nitta jun | にったじゅん |  |  |
 | nittakumi | 新匠 |  |  |
 | niu | 丹雨 |  |  |
-| niwa | にわ |  |  |
+| niwa | にわ | 紀伊 カンナ（きい カンナ）は日本の漫画家、イラストレーター。「庭」（にわ）名義でも活動している。 | [Wiki](https://ja.wikipedia.org/wiki/紀伊カンナ) |
 | niwa yukari | 丹羽ユカリ |  |  |
 | niwaka yuan | 丹羽香ゆあん |  |  |
 | niwakaame | 俄雨 |  |  |
