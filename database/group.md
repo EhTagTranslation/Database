@@ -12705,6 +12705,7 @@ example:
 | pontaroya | ぽんたろ家 |  |  |
 | watochip melonpan | わとちっぷめろんぱん |  |  |
 | miraiha kireini | ミライハキレイニ |  |  |
+| otonagokko iinkai | おとなごっこ委員会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
