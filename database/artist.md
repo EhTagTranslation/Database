@@ -12694,6 +12694,7 @@ example:
 | kii kanna | 紀伊カンナ |  | [Twitter](https://twitter.com/mioshun0303) |
 | watosu mama | わとす |  | [pixiv](https://www.pixiv.net/users/37774114) [twitter](https://twitter.com/watosu_mama) |
 | wodae | ヲダエ |  | [pixiv](https://www.pixiv.net/users/9273205) [Twitter](https://twitter.com/wodaex) |
+| nagoyaka jirou | なごやか次郎 |  | [Twitter](https://twitter.com/waterr_na) [pixiv](https://www.pixiv.net/users/10490394) |
 
 <!--TEMPLATE:
 |  |  |  |  |
