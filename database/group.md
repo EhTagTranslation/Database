@@ -12704,6 +12704,7 @@ example:
 | shinjiroya | 信じろや |  |  |
 | pontaroya | ぽんたろ家 |  |  |
 | watochip melonpan | わとちっぷめろんぱん |  |  |
+| miraiha kireini | ミライハキレイニ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
