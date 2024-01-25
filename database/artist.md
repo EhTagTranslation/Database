@@ -12695,6 +12695,7 @@ example:
 | watosu mama | わとす |  | [pixiv](https://www.pixiv.net/users/37774114) [twitter](https://twitter.com/watosu_mama) |
 | wodae | ヲダエ |  | [pixiv](https://www.pixiv.net/users/9273205) [Twitter](https://twitter.com/wodaex) |
 | nagoyaka jirou | なごやか次郎 |  | [Twitter](https://twitter.com/waterr_na) [pixiv](https://www.pixiv.net/users/10490394) |
+| kyonta | きょんた | ![](https://i.pixiv.cat/user-profile/img/2021/09/18/23/38/21/21434298_bcf37ff2db0b19044d32724e05889e6b_170.jpg) | [pixiv](https://www.pixiv.net/users/62089628)<br>[Twitter](https://twitter.com/kyonta1234567) |
 
 <!--TEMPLATE:
 |  |  |  |  |
