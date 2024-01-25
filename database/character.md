@@ -5096,6 +5096,7 @@ example:
 | natsuki usami | 宇佐美夏树 | 土生土长的江之岛人。总会对周围的事物有些不满(尤其父亲)，母亲过世，只对妹妹和雪温柔。于钓鱼茶座“Hemming Way”打工，对钓鱼有丰富认识，技巧几近专业，店内拥有“钓鱼王子”的称号。 |  |
 | galleon | 伽莱翁 |  |  |
 | asa mitaka | 三鹰朝 | 藤本树所作漫画《电锯人》第二部女主角。 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/zh-hans/三鹰朝) |
+| sayaka murano | 村野沙耶香 | 村野沙耶香（日语：村野 さやか，罗马字：Murano Sayaka）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![村野沙耶香](https://img.moegirl.org.cn/common/thumb/9/9b/Muranosayaka_img.png/280px-Muranosayaka_img.png) | [萌娘百科](https://zh.moegirl.org.cn/村野沙耶香) [Fandom](https://love-live.fandom.com/wiki/Sayaka_Murano) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
