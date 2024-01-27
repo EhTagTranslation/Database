@@ -12706,6 +12706,7 @@ example:
 | watochip melonpan | わとちっぷめろんぱん |  |  |
 | miraiha kireini | ミライハキレイニ |  |  |
 | otonagokko iinkai | おとなごっこ委員会 |  |  |
+| elica | ELICA |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
