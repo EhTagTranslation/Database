@@ -3098,14 +3098,10 @@ example:
 | todoroki kyoko | 轰京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/轟京子) |
 | suzuki masaru | 铃木胜 | 鈴木勝（Suzuki Masaru）是彩虹社所属的Vitural YouTuber，设定为在虚拟世界出生的永远13岁的少年（中学二年级）。讨厌普通，想要以直播为契机达到帅气之极致，但是经常是瞎忙活。 | [萌娘百科](https://zh.moegirl.org.cn/铃木胜) |
 | ryushen | 绿仙 | 緑仙（緑仙 / Ryuu Shen）是一名从2018年6月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/绿仙) |
-| nakao azuma | 名伽尾吾妻 |  | [萌娘百科](https://zh.moegirl.org.cn/名伽尾吾妻) |
 | morinaka kazaki | 森中花咲 | 森中花咲（Morinaka Kazaki）是隶属彩虹社的虚拟Youtuber。彩虹社10位2期生的其中一人。自称是“かざ”，被观众称为“花咲妈妈”，“幼女Pro”。 | [萌娘百科](https://zh.moegirl.org.cn/森中花咲) |
 | kuzuha | 葛叶 | 葛葉（Kuzuha）是现隶属于彩虹社的虚拟YouTuber，比彩虹社二期生出道时间还要更早，于2018年3月8日以个人势身份开始VTuber活动。在7月30日作为“彩虹社Gamers”第三弹成员和魔界ノりりむ、椎名唯華、雪汝同期正式出道。从2019年开始和其他Gamers成员同“彩虹社一期、二期”、“彩虹社Seeds”合并。<br><br>即使是在彩虹社Gamers中也有着超群的游戏天赋，直播的游戏除PUBG、APEX等热门FPS游戏外，也有影之诗、黑色幸存者、自走棋等策略类游戏以及宝可梦、马力欧卡丁车、任天堂明星大乱斗等任天堂游戏。偶尔会播一些单机独立游戏和Minecraft。 | [萌娘百科](https://zh.moegirl.org.cn/葛叶%28虚拟UP主%29) |
 | kenmochi toya | 剑持刀也 | 剑持刀也（日语：剣持刀也）是にじさんじ旗下的虚拟主播，二期生。 | [萌娘百科](https://zh.moegirl.org.cn/剑持刀也) |
-| hassaku yuzu | 八朔柚子 | 有精神的15岁的初三女生。不擅长恐怖的东西，喜欢看短篇电影。<br>2019年5月7日毕业。 | [萌娘百科](https://zh.moegirl.org.cn/八朔柚子) |
 | hanabatake chaika | 花畑嘉依卡 | 画着非常浓厚的妆的妖精。男大姐。 原名是「チャイカ・ブラウン」。 | [萌娘百科](https://zh.moegirl.org.cn/花畑嘉依卡) |
-| gilzaren iii | 吉尔扎伦三世 | 吉尔扎伦三世 （ ギルザレンⅢ世 / Gilzaren Ⅲ ）是一名从2018年3月19日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/吉尔扎伦三世) |
-| fushimi gaku | 伏见学 | 19歳、大学2年生。性格就像一条狗，喜欢纯粹的乐趣。<br><br>在清晨有名为《おはがく》的定番节目，陪观众度过早餐时间。 | [萌娘百科](https://zh.moegirl.org.cn/伏见学) |
 | fumino tamaki | 文野环 | 文野环 （ 文野環 / Fumino Tamaki）是一名从2018年3月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>别号	野良猫 | [萌娘百科](https://zh.moegirl.org.cn/文野环) |
 | elu | 艾露 | 从妖精之森来的曾经孤高的精灵。<br>来到人类世界，想要和人类成为朋友。穿着印有“I♥東京”的文化T。<br>真名很长。<br>スノー・ホワイト・パラダイス・エルサント・フロウ・ワスレナ・ピュア・プリンセス・リーブル・ラブ・ハイデルン・ドコドコ・ヤッタゼ・ヴァルキュリア・パッション・アールヴ・ノエル・チャコボシ・エルアリア・フロージア・メイドイン・ブルーム・エル (Snow White Paradise El Santo Flow Wasurena Pure Princess Livre Love Heidern Dokodoko Yattaze Valkyria Passion Alfr Noel Chakoboshi Eluaria Frosia Made-in Bloom Elu) | [萌娘百科](https://zh.moegirl.org.cn/艾露) |
 | akabane youko | 赤羽叶子 | 赤羽葉子（Akaba Youko）是隶属于彩虹社Gamers的虚拟YouTuber，高中三年生。粉丝群体名为しかばね。 | [萌娘百科](https://zh.moegirl.org.cn/赤羽叶子) |
