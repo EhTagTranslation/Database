@@ -5099,6 +5099,7 @@ example:
 | utena hiiragi | 柊舞缇娜 | 是小野中彰大所创作的漫画`p:mahou shoujo ni akogarete`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/柊舞缇娜) |
 | chevreuse | 夏沃蕾 | 夏沃蕾是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/19/99/19990ff967ce7353679ccfd3aad1e42800dd14ac-253311-1024-1024-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夏沃蕾) |
 | huohuo | 藿藿 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/藿藿) |
+| lynx landau | 玲可 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
