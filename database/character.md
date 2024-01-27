@@ -5101,6 +5101,7 @@ example:
 | huohuo | 藿藿 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/藿藿) |
 | lynx landau | 玲可 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
 | pelageya sergeyevna | 佩拉格娅·谢尔盖耶夫娜 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佩拉格娅·谢尔盖耶夫娜) |
+| hook | 虎克 | 是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/虎克) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
