@@ -5095,7 +5095,7 @@ example:
 | sayaka murano | 村野沙耶香 | 村野沙耶香（日语：村野 さやか，罗马字：Murano Sayaka）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![村野沙耶香](https://img.moegirl.org.cn/common/thumb/9/9b/Muranosayaka_img.png/280px-Muranosayaka_img.png) | [萌娘百科](https://zh.moegirl.org.cn/村野沙耶香) [Fandom](https://love-live.fandom.com/wiki/Sayaka_Murano) |
 | kaho hinoshita | 日野下花帆 | 日野下花帆（日语：日野下 花帆，罗马字：Hinoshita Kaho）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![日野下花帆](https://img.moegirl.org.cn/common/thumb/d/d7/Kaho_img.png/280px-Kaho_img.png) | [萌娘百科](https://zh.moegirl.org.cn/日野下花帆) [Fandom](https://love-live.fandom.com/wiki/Kaho_Hinoshita) |
 | gravel | 砾 |  |  |
-| ant-man | 蚁人 |  |  |
+| ant-man | 蚁人 | 蚁人（Ant-Man）是美国漫威漫画系列的登场角色，由漫画家史丹·李、杰克·科比与拉里·李伯共同创造。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
