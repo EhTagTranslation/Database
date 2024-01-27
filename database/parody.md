@@ -2257,6 +2257,7 @@ example:
 | seitokai no ichizon | 学生会的一己之见 | 《碧阳学园学生会议事录》（日语：碧陽学園生徒会議事録，英语：Student Council's Discretion）是于富士见Fantasia文库（富士见书房）出版的轻小说。作者是葵关南，插图画师是狗神煌。 | [https://zh.m.wikipedia.org/zh-hans/碧陽學園學生會議事錄](https://zh.m.wikipedia.org/zh-hans/碧陽學園學生會議事錄)<br>[百度百科](https://baike.baidu.com/item/碧阳学园学生会议事录/30475)<br>[萌娘百科](https://zh.moegirl.org.cn/zh/碧阳学园学生会议事录)<br>[https://www.wenku8.net/novel/0/7/index.htm](https://www.wenku8.net/novel/0/7/index.htm) |
 | tsuritama | 钓球 | 钓球（日语：つり球）是由A-1 Pictures制作的日本原创电视动画，于2012年4月12日开始，在富士电视台的noitaminA第2时段播放，同年6月28日播放完毕，全12话。 | [Wiki](https://zh.wikipedia.org/zh-hans/釣球) |
 | mahou shoujo ni akogarete | 憧憬成为魔法少女 |  |  |
+| myo-chan sensei wa kaku katariki | みょーちゃん先生はかく語りき | 常用译名：小美代老师如是说 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
