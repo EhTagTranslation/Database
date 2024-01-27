@@ -9150,7 +9150,7 @@ example:
 | otokam | オトカム |  |  |
 | otokawa kazuki | 乙川カヅキ |  |  |
 | otori | おとり |  |  |
-| ototo | おとと(ototo) | ![おとと(ototo) Fanbox 头像](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3215255/icon/yL7fMHXBv5vTIgwJcVZuVf52.jpeg) | [Twitter](https://twitter.com/otototo_)<br>[Pixiv](https://www.pixiv.net/users/3215255)<br>[Fanbox](https://ototo.fanbox.cc/) |
+| ototo | おとと | ![おとと(ototo) Fanbox 头像](https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3215255/icon/yL7fMHXBv5vTIgwJcVZuVf52.jpeg) | [Twitter](https://twitter.com/otototo_)<br>[Pixiv](https://www.pixiv.net/users/3215255)<br>[Fanbox](https://ototo.fanbox.cc/) |
 | otou | 尾刀 |  |  |
 | otsuki miharu | 鳴月みはる |  |  |
 | ottoman turks | オスマントル子 |  |  |
@@ -12176,7 +12176,7 @@ example:
 | yuuzuki hijiri | 夕月ひじり |  | [pixiv](https://www.pixiv.net/users/21118839) |
 | koumashiro | こうましろ |  | [Twitter](https://twitter.com/itsuwa0815) [pixiv](https://www.pixiv.net/users/4493551) |
 | denpouya chamaru | 伝法谷ちゃまる |  | [Twitter](https://twitter.com/denpo_chamaru) |
-| miazi | miazi(ミアＰ) |  | [Twitter](https://twitter.com/miai850172850) [pixiv](https://www.pixiv.net/users/2551745) [Twitter](https://twitter.com/miazi518009) |
+| miazi | miazi | ミアＰ | [Twitter](https://twitter.com/miai850172850) [pixiv](https://www.pixiv.net/users/2551745) [Twitter](https://twitter.com/miazi518009) |
 | namagome negi | 瑠川ねぎ |  | [pixiv](https://www.pixiv.net/users/64754713) [Twitter](https://twitter.com/negi_musya) |
 | ebi fry teishoku | ぐえー/エビフライ定食 |  | [pixiv](https://www.pixiv.net/users/9815697) [Twitter](https://twitter.com/ebfri0141) [Twitter](https://twitter.com/geee925) |
 | shishido sakura | 宍戸沙玖来 |  | [pixiv](https://www.pixiv.net/users/17557722) [Twitter](https://twitter.com/sakura_ssd) |
@@ -12689,7 +12689,7 @@ example:
 | tachibana-ko | 橘子 |  |  |
 | toridamono | トリダモノ |  | [Twitter](https://twitter.com/toridamono) [pixiv](https://www.pixiv.net/en/users/23654) |
 | yoshimura takuya | 吉村拓哉 |  | [Twitter](https://twitter.com/hanari0716) [HP](http://takuyayoshimura.com) |
-| yuki no arashi | 雪之岚(雪ノ嵐) | 【甲板下的鸽子窝】主催&画师，PIXIVID=17305623 | [pixiv](https://www.pixiv.net/en/users/17305623)<br>[pixiv](https://www.pixiv.net/fanbox/creator/17305623)<br>[FANBOX](https://kyuso379.fanbox.cc/)<br>[https://weidian.com/?userid=1705978422](https://weidian.com/?userid=1705978422)<br>[哔哩哔哩](https://space.bilibili.com/2140986/) |
+| yuki no arashi | 雪之岚 | 雪ノ嵐 【甲板下的鸽子窝】主催&画师，PIXIVID=17305623 | [pixiv](https://www.pixiv.net/en/users/17305623)<br>[pixiv](https://www.pixiv.net/fanbox/creator/17305623)<br>[FANBOX](https://kyuso379.fanbox.cc/)<br>[https://weidian.com/?userid=1705978422](https://weidian.com/?userid=1705978422)<br>[哔哩哔哩](https://space.bilibili.com/2140986/) |
 | yiduan | 异端 | 【甲板下的鸽子窝】主催&画师，PIXIVID=17305623 | [pixiv](https://www.pixiv.net/en/users/17305623)<br>[pixiv](https://www.pixiv.net/fanbox/creator/17305623)<br>[FANBOX](https://kyuso379.fanbox.cc/)<br>[https://weidian.com/?userid=1705978422](https://weidian.com/?userid=1705978422)<br>[哔哩哔哩](https://space.bilibili.com/2140986/) |
 | kii kanna | 紀伊カンナ |  | [Twitter](https://twitter.com/mioshun0303) |
 | watosu mama | わとす |  | [pixiv](https://www.pixiv.net/users/37774114) [twitter](https://twitter.com/watosu_mama) |

@@ -480,7 +480,7 @@ example:
 | ark royal | 皇家方舟 | 英国海军的皇家方舟号航空母舰（ HMS Ark Royal (91)） | [碧蓝航线:皇家方舟](https://zh.moegirl.org.cn/碧蓝航线:皇家方舟) [战舰少女:皇家方舟](https://zh.moegirl.org.cn/战舰少女:皇家方舟) [舰队Collection:皇家方舟](https://zh.moegirl.org.cn/舰队Collection:皇家方舟) |
 | shimushu | 占守 |  | [舰队Collection:占守](https://zh.moegirl.org.cn/舰队Collection:占守) |
 | kunashiri | 国后 |  | [舰队Collection:国后](https://zh.moegirl.org.cn/舰队Collection:国后) |
-| jervis | 贾维斯\|杰维斯 | 1.贾维斯(Jervis)，所属作品:`p:azur lane`<br>![](https://img.moegirl.org.cn/common/a/a0/BLHX_98665161_p0.jpg)<br>2.杰维斯(Jervis)，所属作品:`p:kantai collection`<br>![](https://img.moegirl.org.cn/common/6/63/69400468_p0.jpg) | 1.[碧蓝航线:贾维斯](https://zh.moegirl.org.cn/碧蓝航线:贾维斯)<br>2.[舰队Collection:杰维斯](https://zh.moegirl.org.cn/舰队Collection:杰维斯) |
+| jervis | 贾维斯 \| 杰维斯 | 1.贾维斯(Jervis)，所属作品:`p:azur lane`<br>![](https://img.moegirl.org.cn/common/a/a0/BLHX_98665161_p0.jpg)<br>2.杰维斯(Jervis)，所属作品:`p:kantai collection`<br>![](https://img.moegirl.org.cn/common/6/63/69400468_p0.jpg) | 1.[碧蓝航线:贾维斯](https://zh.moegirl.org.cn/碧蓝航线:贾维斯)<br>2.[舰队Collection:杰维斯](https://zh.moegirl.org.cn/舰队Collection:杰维斯) |
 | suzutsuki | 凉月 |  | [战舰少女:凉月](https://zh.moegirl.org.cn/战舰少女:凉月) [舰队Collection:凉月](https://zh.moegirl.org.cn/舰队Collection:凉月) |
 | etorofu | 择捉 |  | [舰队Collection:择捉](https://zh.moegirl.org.cn/舰队Collection:择捉) |
 | matsuwa | 松轮 |  | [舰队Collection:松轮](https://zh.moegirl.org.cn/舰队Collection:松轮) |
@@ -3137,7 +3137,7 @@ example:
 | ozymandias | 奥斯曼狄斯 | 奥斯曼狄斯（拉美西斯二世）是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉美西斯二世%28Fate%29) |
 | paimon | 派蒙 | 派蒙是游戏《原神》的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [萌娘百科](https://zh.moegirl.org.cn/派蒙%28原神%29) |
 | hilbert | 斗也 | 斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
-| hilda | 希尔达\|斗子 | 希尔达Hilda是一个11岁的蓝发女孩，出自同名同名图画小说系列，以及网飞改编的系列剧集<br><br>斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) [希尔达(剧集)](https://zh.moegirl.org.cn/希尔达) |
+| hilda | 希尔达 \| 斗子 | 希尔达Hilda是一个11岁的蓝发女孩，出自同名同名图画小说系列，以及网飞改编的系列剧集<br><br>斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) [希尔达(剧集)](https://zh.moegirl.org.cn/希尔达) |
 | skyla | 风露 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
 | elisa | 秋子 | `p:pokemon`<br>![](https://s1.52poke.wiki/wiki/thumb/9/9d/秋子.png/220px-秋子.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/秋子) |
 | misty | 小霞 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
