@@ -5108,7 +5108,7 @@ example:
 | ryuko tatsuma | 竜間龍子 | 《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.10 “龙骑英雄” 龙九<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/2/20/Ryuko_Tatsuma_Hero_Costume_%28Anime%29.png) |  |
 | itsuka kendou | 拳藤一佳 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0d/Itsuka_Kendo_Anime_Hero_Costume.png) |  |
 | nejire hado | 波動龙卷 | 波動ねじれ<br>《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/9/97/Nejire_Hado_Anime.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a9/Nejire_Hado_Hero_Costume_Anime_Action.png) |  |
-| setsuna tokage | 取蔭切奈 | 《我的英雄学院》女英雄。<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0a/Setsuna_Tokage_PE_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a5/Setsuna_Tokage_Hero_Costume_%28Anime%29.png) |  |
+| setsuna tokage | 取蔭切奈 | 《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0a/Setsuna_Tokage_PE_Uniform.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a5/Setsuna_Tokage_Hero_Costume_%28Anime%29.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
