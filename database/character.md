@@ -2638,7 +2638,7 @@ example:
 | misao shinohara | 筱原美纱绪 |  |  |
 | sasami iwakura | 岩仓砂沙美 |  |  |
 | maam | 玛姆 |  |  |
-| momo yaoyorozu | 八百万百 |  |  |
+| momo yaoyorozu | 八百万百 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/e/eb/Momo_Yaoyorozu_Full_Body_School_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ac/Momo_Yaoyorozu_Hero_Costume_Anime_Action.png) |  |
 | ochako uraraka | 丽日御茶子 | ![丽日御茶子](https://p.sda1.dev/5/d0b96de3b1ec56883f0ca29c398a7445/220px-Uraraka_Ochako1.png)<br>丽日御茶子是堀越耕平所创作的漫画《我的英雄学院》及其衍生的动画等作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/丽日御茶子) |
 | tsuyu asui | 蛙吹梅雨 |  |  |
 | izana shinatose | 科户濑伊札那 |  |  |
