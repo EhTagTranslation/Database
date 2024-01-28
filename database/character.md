@@ -5104,7 +5104,7 @@ example:
 | hook | 虎克 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/虎克) |
 | yukong | 驭空 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
 | guinaifen | 桂乃芬 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/桂乃芬) |
-| rumi usagiyama | 兔山留美 | 兎山ルミ。<br>英雄公告牌日本榜单 NO.5 “兔子英雄” 米尔科 |  |
+| rumi usagiyama | 兔山留美 | 兎山ルミ。<br>英雄公告牌日本榜单 NO.5 “兔子英雄” 米尔科<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/1/13/Rumi_Usagiyama_Hero_Costume_Full_%28Anime%29.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
