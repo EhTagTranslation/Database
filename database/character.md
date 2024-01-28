@@ -2524,7 +2524,7 @@ example:
 |  | ▼ 五等分的新娘 |  |  |
 | ichika nakano | 中野一花 |  |  |
 | nino nakano | 中野二乃 |  |  |
-| miku nakano | 中野三玖 |  |  |
+| miku nakano | 中野三玖 | 中野三玖（日语：中野（なかの） 三玖（みく））是由春場ねぎ创作的漫画《五等分的新娘》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2e/72959861_p0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/中野三玖) |
 | yotsuba nakano | 中野四叶 |  |  |
 | itsuki nakano | 中野五月 |  |  |
 |  | ▼ hololive | 猴楼 live |  |
