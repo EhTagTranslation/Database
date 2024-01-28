@@ -5116,6 +5116,7 @@ example:
 | kinoko komori | 小森希乃子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ae/Kinoko_Komori_Hero_Costume_%28Anime%29.png) |  |
 | pony tsunotori | 角取ポニー | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Pony_Tsunotori_Anime_Profile.png) |  |
 | reiko yanagi | 柳レイ子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Reiko_Yanagi_PE_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/55/Reiko_Yanagi_Hero_Costume_%28Anime%29.png) |  |
+| yui kodai | 小大唯 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a8/Yui_Kodai_PE_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0d/Yui_Kodai_Hero_Costume_%28Anime%29.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
