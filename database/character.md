@@ -5114,6 +5114,7 @@ example:
 | tooru hagakure | 葉隠透 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png) |  |
 | ibara shiozaki | 塩崎茨 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/b/bd/Ibara_Shiozaki_PE_Uniform.png) |  |
 | kinoko komori | 小森希乃子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ae/Kinoko_Komori_Hero_Costume_%28Anime%29.png) |  |
+| pony tsunotori | 角取ポニー | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Pony_Tsunotori_Anime_Profile.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
