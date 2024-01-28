@@ -5121,6 +5121,7 @@ example:
 | moe kamiji | 上路萌 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/5c/Moe_Kamiji_Hero_Costume_Full_%28Anime%29.png) |  |
 | mei hatsume | 発目明 | 《我的英雄学院》女英雄。<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c5/Mei_Hatsume_Anime_Profile.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c7/Mei_Hatsume_One%27s_Justice_2_Artwork.png) |  |
 | mashirao ojiro | 尾白猿夫 | 《我的英雄学院》男英雄 |  |
+| nemuri kayama | 香山睡 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/7/7c/Nemuri_Kayama_Hero_Costume_%28Anime%29.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
