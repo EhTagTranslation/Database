@@ -5112,6 +5112,7 @@ example:
 | lady nagant | 筒美火伊那 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/65/Kaina_Tsutsumi_Villain_Costume_%28Anime%29.png) |  |
 | kyoka jiro | 耳郎響香 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Kyoka_Jiro_Full_Body_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/68/Kyoka_Jiro_Action_2.png) |  |
 | tooru hagakure | 葉隠透 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png) |  |
+| ibara shiozaki | 塩崎茨 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/b/bd/Ibara_Shiozaki_PE_Uniform.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
