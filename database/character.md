@@ -2678,7 +2678,7 @@ example:
 | hugo | 雨果 |  |  |
 | nel zelpher | 奈露 |  |  |
 | sadi-chan | 小萨蒂 |  |  |
-| mina ashido | 芦户三奈 |  |  |
+| mina ashido | 芦户三奈 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/05/Mina_Ashido_School_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/89/Mina_Ashido_Hero_Costume_Anime_Action.png) |  |
 | rebecca | 蕾贝卡 |  |  |
 | amazon | 亚马逊 |  |  |
 | sorceress | 女巫 | 游戏《龙之皇冠》中的角色。<br>![图](https://ehgt.org/d4/9b/d49b2c756d3c7b929a8b3005a8bf7c4649cec001-127531-850-1050-jpg_l.jpg)<br>![图](https://ehgt.org/db/85/db857a5ee857ec6ba6c27ff7f2995140dc3259a6-118637-800-1260-jpg_l.jpg) |  |
