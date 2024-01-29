@@ -5122,7 +5122,7 @@ example:
 | mei hatsume | 発目明 | 《我的英雄学院》女英雄。<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c5/Mei_Hatsume_Anime_Profile.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c7/Mei_Hatsume_One%27s_Justice_2_Artwork.png) |  |
 | mashirao ojiro | 尾白猿夫 | 《我的英雄学院》男英雄 |  |
 | nemuri kayama | 香山睡 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/7/7c/Nemuri_Kayama_Hero_Costume_%28Anime%29.png) |  |
-| chiori | 千织 | 千织是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/95/8a/958a79200b154fc39eef3fb1bf056f4642cb6f91-2756938-1600-2406-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/千织) |
+| chiori | 千织 | 千织是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/2b/84/2b84a0532f9ce56b430773036530e72702280b9b-93367-600-600-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/千织) |
 | shuro yabuki | 箭吹棕榈 | ![](https://i.pixiv.cat/c/600x600/img-master/img/2023/11/21/19/12/07/113591819_p0_master1200.jpg) |  |
 
 <!--TEMPLATE: 
