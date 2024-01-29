@@ -4221,7 +4221,7 @@ example:
 | bronya zaychik | 布洛妮娅·扎伊切克 | 所属作品: `p:honkai gakuen`<br><br>西伯利亚的暗杀兵，被可可利亚收养后参与X-10实验导致失去了表情和双腿活动能力。但是获得了名为“重装小兔”的机甲。<br>曾被可可利亚植入芯片控制，后为不再伤害到琪亚娜等朋友而烧毁芯片陷入昏迷，在圣芙蕾雅学院的治疗和符华的帮助下苏醒，现任第一律者。 | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·扎伊切克%28崩坏3%29) |
 | danzou katou | 加藤段藏 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/加藤段藏%28Fate%29) |
 | fubuki nemugaki | 合欢垣吹雪 | ![](https://static.wikia.nocookie.net/blue-archive/images/a/ad/Fubuki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nemugaki_Fubuki) |
-| serika kuromi | 黑见芹香 |  |  |
+| serika kuromi | 黑见芹香 | 黑见芹香是 Nexon 发行的游戏`p:blue archive`及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑见茜香) |
 | ayane okusora | 奥空绫音 |  |  |
 | mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
 | sword maiden | 剑之圣女 |  |  |
