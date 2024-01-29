@@ -5125,6 +5125,7 @@ example:
 | chiori | 千织 | 千织是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/2b/84/2b84a0532f9ce56b430773036530e72702280b9b-93367-600-600-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/千织) |
 | shuro yabuki | 箭吹棕榈 | ![](https://i.pixiv.cat/c/600x600/img-master/img/2023/11/21/19/12/07/113591819_p0_master1200.jpg) |  |
 | blade | 刃 | 刃是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刃) |
+| astesia | 星极 | 星极是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星极) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
