@@ -4928,7 +4928,7 @@ example:
 | magillanica lou mayvin | 玛琪露 |  |  |
 | topaz | 托帕 | 托帕（英语：topaz）所属作品:`honkai star rail`<br>是由米哈游研发的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/托帕) |
 | jingliu | 镜流 | 镜流（jingliu）所属作品`p:honkai star rail` |  |
-| dan heng | 丹恒 |  |  |
+| dan heng | 丹恒 | 丹恒是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丹恒) |
 | caelus | 穹 |  |  |
 | pozemka | 鸿雪 | 明日方舟角色 |  |
 | kotori toyomi | 丰见亚都梨 | 丰见亚都梨是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br><br>![丰见亚都梨](https://img.moegirl.org.cn/common/8/84/BA_Kotori_ML.png) | [Fandom](https://bluearchive.fandom.com/wiki/Toyomi_Kotori) [萌娘百科](https://zh.moegirl.org.cn/丰见亚都梨) |
