@@ -350,7 +350,7 @@ example:
 | chikuma | 筑摩 |  | [舰队Collection:筑摩](https://zh.moegirl.org.cn/舰队Collection:筑摩) |
 | hiyou | 飞鹰 | 旧日本帝国海军的飞鹰号空母（飛鷹(空母)） | [碧蓝航线:飞鹰](https://zh.moegirl.org.cn/碧蓝航线:飞鹰) [战舰少女:飞鹰](https://zh.moegirl.org.cn/战舰少女:飞鹰) [舰队Collection:飞鹰](https://zh.moegirl.org.cn/舰队Collection:飞鹰) |
 | junyou | 隼鹰 | 旧日本帝国海军的隼鹰号空母（隼鷹(空母)） | [碧蓝航线:隼鹰](https://zh.moegirl.org.cn/碧蓝航线:隼鹰) [战舰少女:隼鹰](https://zh.moegirl.org.cn/战舰少女:隼鹰) [舰队Collection:隼鹰](https://zh.moegirl.org.cn/舰队Collection:隼鹰) |
-| oboro | 胧 |  | [舰队Collection:胧](https://zh.moegirl.org.cn/舰队Collection:胧) |
+| oboro | 胧 | ~~合用标签~~<br>1. 舰队Collection 的 胧<br>2. 对魔忍阿萨姬 的 胧 | [舰队Collection:胧](https://zh.moegirl.org.cn/舰队Collection:胧) |
 | sazanami | 涟 |  | [舰队Collection:涟](https://zh.moegirl.org.cn/舰队Collection:涟) |
 | akatsuki | 晓 | 旧日本帝国海军的晓号驱逐舰（暁(吹雪型駆逐艦)） | [碧蓝航线:晓](https://zh.moegirl.org.cn/碧蓝航线:晓) [战舰少女:晓](https://zh.moegirl.org.cn/战舰少女:晓) [舰队Collection:晓](https://zh.moegirl.org.cn/舰队Collection:晓) |
 | hibiki | 响 | 旧日本帝国海军的响号驱逐舰（响(吹雪型駆逐艦)） | [碧蓝航线:响](https://zh.moegirl.org.cn/碧蓝航线:响) [战舰少女:响](https://zh.moegirl.org.cn/战舰少女:响) [舰队Collection:响](https://zh.moegirl.org.cn/舰队Collection:响) |
