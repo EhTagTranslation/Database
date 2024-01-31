@@ -12707,6 +12707,7 @@ example:
 | miraiha kireini | ミライハキレイニ |  |  |
 | otonagokko iinkai | おとなごっこ委員会 |  |  |
 | elica | ELICA |  |  |
+| gojihan | 五时半 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
