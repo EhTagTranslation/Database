@@ -5128,6 +5128,7 @@ example:
 | astesia | 星极 | 星极是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星极) |
 | ichika | 仲正一花 | 仲正一花是 Nexon 发行的游戏`p:blue archive`及其衍生作品中的登场角色。 |  |
 | nodoka amami | 天见和香 | 所属作品：`p:blue archive` |  |
+| shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
