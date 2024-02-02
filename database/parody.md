@@ -2258,6 +2258,7 @@ example:
 | tsuritama | 钓球 | 钓球（日语：つり球）是由A-1 Pictures制作的日本原创电视动画，于2012年4月12日开始，在富士电视台的noitaminA第2时段播放，同年6月28日播放完毕，全12话。 | [Wiki](https://zh.wikipedia.org/zh-hans/釣球) |
 | mahou shoujo ni akogarete | 憧憬成为魔法少女 |  |  |
 | myo-chan sensei wa kaku katariki | みょーちゃん先生はかく語りき | 常用译名：小美代老师如是说 |  |
+| kusuriya no hitorigoto | 药师少女的独语 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/药师少女的独语) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
