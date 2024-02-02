@@ -5134,6 +5134,7 @@ example:
 | yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive` |  |
 | yakumo aramaki | 荒牧八云 | 所属作品: `p:blue archive` |  |
 | kasumi kinugawa | 鬼怒川霞 | 所属作品: `p:blue archive` |  |
+| niya amachi | 天地妮娅 | 所属作品: `p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
