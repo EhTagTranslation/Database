@@ -5131,6 +5131,7 @@ example:
 | shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
 | iris | 艾莉丝 |  |  |
 | momoka yuragi | 由良木桃香 | 所属作品: `p:blue archive` |  |
+| yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
