@@ -5132,6 +5132,7 @@ example:
 | iris | 艾莉丝 |  |  |
 | momoka yuragi | 由良木桃香 | 所属作品: `p:blue archive` |  |
 | yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive` |  |
+| yakumo aramaki | 荒牧八云 | 所属作品: `p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
