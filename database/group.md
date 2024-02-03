@@ -12708,6 +12708,7 @@ example:
 | otonagokko iinkai | おとなごっこ委員会 |  |  |
 | elica | ELICA |  |  |
 | gojihan | 五时半 |  |  |
+| netorare no tami | ネトラレの民 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
