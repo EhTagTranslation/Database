@@ -5135,6 +5135,7 @@ example:
 | yakumo aramaki | 荒牧八云 | 所属作品: `p:blue archive` |  |
 | kasumi kinugawa | 鬼怒川霞 | 所属作品: `p:blue archive` |  |
 | niya amachi | 天地妮娅 | 所属作品: `p:blue archive` |  |
+| fiammetta | 菲亚梅塔 | 明日方舟干员 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
