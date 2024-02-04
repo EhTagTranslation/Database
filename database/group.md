@@ -12709,6 +12709,7 @@ example:
 | elica | ELICA |  |  |
 | gojihan | 五时半 |  |  |
 | netorare no tami | ネトラレの民 |  |  |
+| 7 rensa | 7连锁 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
