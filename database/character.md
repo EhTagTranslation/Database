@@ -5105,21 +5105,21 @@ example:
 | yukong | 驭空 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
 | guinaifen | 桂乃芬 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/桂乃芬) |
 | rumi usagiyama | 兔山留美 | 兎山ルミ。<br>《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.5 “兔子英雄” 米尔科<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/1/13/Rumi_Usagiyama_Hero_Costume_Full_%28Anime%29.png) |  |
-| ryuko tatsuma | 竜間龍子 | 《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.10 “龙骑英雄” 龙九<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/2/20/Ryuko_Tatsuma_Hero_Costume_%28Anime%29.png) |  |
+| ryuko tatsuma | 龙间龙子 | 《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.10 “龙骑英雄” 龙九<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/2/20/Ryuko_Tatsuma_Hero_Costume_%28Anime%29.png) |  |
 | itsuka kendou | 拳藤一佳 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0d/Itsuka_Kendo_Anime_Hero_Costume.png) |  |
-| nejire hado | 波动龙卷 | 波動ねじれ<br>《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/9/97/Nejire_Hado_Anime.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a9/Nejire_Hado_Hero_Costume_Anime_Action.png) |  |
-| setsuna tokage | 取蔭切奈 | 《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0a/Setsuna_Tokage_PE_Uniform.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a5/Setsuna_Tokage_Hero_Costume_%28Anime%29.png) |  |
+| nejire hado | 波动螺卷 | 波動ねじれ<br>《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/9/97/Nejire_Hado_Anime.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a9/Nejire_Hado_Hero_Costume_Anime_Action.png) |  |
+| setsuna tokage | 取荫切奈 | 《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0a/Setsuna_Tokage_PE_Uniform.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a5/Setsuna_Tokage_Hero_Costume_%28Anime%29.png) |  |
 | lady nagant | 筒美火伊那 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/65/Kaina_Tsutsumi_Villain_Costume_%28Anime%29.png) |  |
-| kyoka jiro | 耳郎響香 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Kyoka_Jiro_Full_Body_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/68/Kyoka_Jiro_Action_2.png) |  |
-| tooru hagakure | 葉隠透 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png) |  |
+| kyoka jiro | 耳郎响香 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Kyoka_Jiro_Full_Body_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/68/Kyoka_Jiro_Action_2.png) |  |
+| tooru hagakure | 叶隐透 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png) |  |
 | ibara shiozaki | 塩崎茨 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/b/bd/Ibara_Shiozaki_PE_Uniform.png) |  |
 | kinoko komori | 小森希乃子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ae/Kinoko_Komori_Hero_Costume_%28Anime%29.png) |  |
-| pony tsunotori | 角取ポニー | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Pony_Tsunotori_Anime_Profile.png) |  |
-| reiko yanagi | 柳レイ子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Reiko_Yanagi_PE_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/55/Reiko_Yanagi_Hero_Costume_%28Anime%29.png) |  |
+| pony tsunotori | 角取波尼 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Pony_Tsunotori_Anime_Profile.png) |  |
+| reiko yanagi | 柳玲子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Reiko_Yanagi_PE_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/55/Reiko_Yanagi_Hero_Costume_%28Anime%29.png) |  |
 | yui kodai | 小大唯 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a8/Yui_Kodai_PE_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0d/Yui_Kodai_Hero_Costume_%28Anime%29.png) |  |
 | mount lady | 岳山优 | 岳山優.<br>《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.23 “山岭女侠”岳山优<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/5c/Yu_Takeyama_Hero_Costume_%28Anime%29.png) |  |
 | moe kamiji | 上路萌 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/5/5c/Moe_Kamiji_Hero_Costume_Full_%28Anime%29.png) |  |
-| mei hatsume | 発目明 | 《我的英雄学院》女英雄。<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c5/Mei_Hatsume_Anime_Profile.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c7/Mei_Hatsume_One%27s_Justice_2_Artwork.png) |  |
+| mei hatsume | 发目明 | 《我的英雄学院》女英雄。<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c5/Mei_Hatsume_Anime_Profile.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/c/c7/Mei_Hatsume_One%27s_Justice_2_Artwork.png) |  |
 | mashirao ojiro | 尾白猿夫 | 《我的英雄学院》男英雄 |  |
 | nemuri kayama | 香山睡 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/7/7c/Nemuri_Kayama_Hero_Costume_%28Anime%29.png) |  |
 | chiori | 千织 | 千织是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/2b/84/2b84a0532f9ce56b430773036530e72702280b9b-93367-600-600-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/千织) |
@@ -5137,7 +5137,7 @@ example:
 | niya amachi | 天地妮娅 | 所属作品: `p:blue archive` |  |
 | fiammetta | 菲亚梅塔 | 明日方舟干员 | [https://prts.wiki/w/菲亚梅塔](https://prts.wiki/w/菲亚梅塔) |
 | shu | 黍 | 明日方舟干员 | [https://prts.wiki/w/黍](https://prts.wiki/w/黍) |
-| hahari hanazono | 花園羽羽里 | 由中村力斗創作、野澤ゆき子作畫的漫畫《超超超超超喜歡你的100個女朋友》及其衍生作品的登場角色。<br><br>「花園羽羽里」名字由來：<br>「花園」請看「花園羽香里」條目中的「花園」，「羽羽里（ははり）」中的羽羽（はは）諧音就是「母親（はは）」。<br><br>花園羽香里的母親，和女兒一樣都有驚人的戀愛腦。<br>銘戶芽衣的救命恩人，雙方十分重視彼此。<br>花園集團的董事長，兼任花之蜜大學校集團的理事長。經商天才，錢財無數，是戀太郎家族幾乎所有大型活動的贊助者。<br>母性泛濫，十分喜歡小嬰兒，尤其喜歡給人換紙尿褲。常常抱着進入嬰兒狀態的土呂瀞騎士華。<br>喜歡可愛的東西，尤其喜歡給可愛的人換裝，包括給戀太郎換女裝。<br>胸圍達到了I罩杯。<br>儘管年近30，但穿上JK制服時仍會被當作高三的學生。 |  |
+| hahari hanazono | 花园羽羽里 | 由中村力斗創作、野澤ゆき子作畫的漫畫《超超超超超喜歡你的100個女朋友》及其衍生作品的登場角色。<br><br>「花園羽羽里」名字由來：<br>「花園」請看「花園羽香里」條目中的「花園」，「羽羽里（ははり）」中的羽羽（はは）諧音就是「母親（はは）」。<br><br>花園羽香里的母親，和女兒一樣都有驚人的戀愛腦。<br>銘戶芽衣的救命恩人，雙方十分重視彼此。<br>花園集團的董事長，兼任花之蜜大學校集團的理事長。經商天才，錢財無數，是戀太郎家族幾乎所有大型活動的贊助者。<br>母性泛濫，十分喜歡小嬰兒，尤其喜歡給人換紙尿褲。常常抱着進入嬰兒狀態的土呂瀞騎士華。<br>喜歡可愛的東西，尤其喜歡給可愛的人換裝，包括給戀太郎換女裝。<br>胸圍達到了I罩杯。<br>儘管年近30，但穿上JK制服時仍會被當作高三的學生。 | [萌娘百科](https://zh.moegirl.org.cn/zh/花园羽羽里) |
 | naoto hachiouji | 八王子直人 | 八王子直人，是由ナナシ创作的漫画`p:ijiranaide nagatoro-san`及其衍生作品中的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/不要欺負我，長瀞同學) |
 
 <!--TEMPLATE: 
