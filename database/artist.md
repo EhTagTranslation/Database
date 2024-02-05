@@ -10095,7 +10095,7 @@ example:
 | shinnosuke | 慎之介 |  |  |
 | shinobu | シノブ |  |  |
 | shinobu akira | 篠部秋良 |  |  |
-| shinobu neko | 忍猫 |  |  |
+| ninbyo nin | 忍猫 |  |  |
 | shinobu shou | 哀側翔 |  |  |
 | shinocco | しのっこ |  |  |
 | shinogi kei | しのぎけい |  |  |
