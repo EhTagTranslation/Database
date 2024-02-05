@@ -5053,7 +5053,7 @@ example:
 | aqua hoshino | 阿库亚（星野爱久爱海） |  |  |
 | miyako saitou | 齐藤京子 | 齐藤美弥子。<br>《【我推的孩子】》及其衍生作品中的角色。莓pro事务所社长齐藤一护的妻子。在爱死后接手了丈夫所在的事务所，并收养了露比和阿库亚。 |  |
 | airi kurimura | 栗村爱莉 | 所属作品: `p:blue archive` |  |
-| rentarou aijou | 爱城恋太郎 | 爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《超超超超超喜欢你的100个女朋友》的男主角。 |  |
+| rentarou aijou | 爱城恋太郎 | 爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》的男主角。 |  |
 | karane inda | 院田唐音 | 《超超超超超喜欢你的100个女朋友》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
 | hakari hanazono | 花园羽香里 | 《超超超超超喜欢你的100个女朋友》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
 | mayling shen | 沈美玲 | 少女前线2角色 | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
