@@ -62,7 +62,7 @@ jobs:
           directory: ./publish
           repository: EhTagTranslation/DatabaseReleases
       - name: Upload release
-        uses: ncipollo/release-action@v1.13.0
+        uses: ncipollo/release-action@v1.14.0
         if: ${{ !env.SKIP }}
         with:
           artifacts: ./publish/*
