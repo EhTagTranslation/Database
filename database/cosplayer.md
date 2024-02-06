@@ -108,6 +108,7 @@ example:
 | yuricha | YURICHA |  |  |
 | na-san | なーさん |  |  |
 | mashiro yuki | 真白ゆき |  |  |
+| alina becker | Alina Becker |  |  |
 
 <!--
 Template: 
