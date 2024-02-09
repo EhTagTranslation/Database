@@ -5141,6 +5141,7 @@ example:
 | naoto hachiouji | 八王子直人 | 八王子直人，是由ナナシ创作的漫画`p:ijiranaide nagatoro-san`及其衍生作品中的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/不要欺負我，長瀞同學) |
 | xianyun | 闲云（留云借风真君） | 闲云，又名留云借风真君，是游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/57/ce/57ce8170091f1b4634a6b4cbc8c18ceca817d5c4-1564112-2250-2250-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/闲云) |
 | aizawa ema | 蓝泽艾玛 | 蓝泽艾玛（藍沢エマ / あいざわ えまAizawa Ema）是一名于2021年9月14日活动开始的虚拟UP主，所属日本业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/zh/蓝泽艾玛) [Fandom](https://virtualyoutuber.fandom.com/wiki/Aizawa_Ema) |
+| kurumi noah | 胡桃诺娅 | 胡桃诺娅 （胡桃のあ）是一名从2020年3月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。<br><br>非常爱笑爱哭的男性口吻Vtuber、天真浪漫的声音和性格让周围的人都会有一副笑颜。游戏中进取心很强，总是朝着更高的目标前进。 | [萌娘百科](https://zh.moegirl.org.cn/zh/胡桃诺娅) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kurumi_Noah) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
