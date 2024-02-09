@@ -5140,6 +5140,7 @@ example:
 | hahari hanazono | 花园羽羽里 | 花园羽羽里（日语：花園（はなぞの） 羽々里（ははり））是由中村力斗创作、野澤ゆき子作画的漫画《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》及其衍生作品的登场角色。<br><br>“花园羽羽里”名字由来：“花园”请看“花园羽香里”条目中的“花园”，“羽羽里（ははり）”中的羽羽（はは）谐音就是“母亲（はは）”。<br><br>生日（5.12）的含义：2019年（漫画开始连载的那一年）的母亲节。 | [萌娘百科](https://zh.moegirl.org.cn/zh/花园羽羽里) |
 | naoto hachiouji | 八王子直人 | 八王子直人，是由ナナシ创作的漫画`p:ijiranaide nagatoro-san`及其衍生作品中的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/不要欺負我，長瀞同學) |
 | xianyun | 闲云（留云借风真君） | 闲云，又名留云借风真君，是游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/57/ce/57ce8170091f1b4634a6b4cbc8c18ceca817d5c4-1564112-2250-2250-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/闲云) |
+| aizawa ema | 蓝泽艾玛 | 蓝泽艾玛（藍沢エマ / あいざわ えまAizawa Ema）是一名于2021年9月14日活动开始的虚拟UP主，所属日本业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/zh/蓝泽艾玛) [Fandom](https://virtualyoutuber.fandom.com/wiki/Aizawa_Ema) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
