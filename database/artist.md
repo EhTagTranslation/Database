@@ -12702,6 +12702,7 @@ example:
 | nyaon | にゃおん |  | [pixiv](https://www.pixiv.net/users/286510) [Twitter](https://twitter.com/nya_on/) |
 | fuugetsu makoto | 楓月誠 |  | [Twitter](https://twitter.com/whogets) [pixiv](https://www.pixiv.net/users/32669) |
 | rebutsu | りぶつ |  | [Twitter](https://twitter.com/re_Butsu) [pixiv](https://www.pixiv.net/users/25821965) |
+| choi moz | ちょいもず |  | [Twitter](https://twitter.com/moz_choi/) [pixiv](https://www.pixiv.net/users/67102863) |
 
 <!--TEMPLATE:
 |  |  |  |  |
