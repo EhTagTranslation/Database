@@ -4750,7 +4750,7 @@ example:
 | lopiniatre | 倔强 |  |  |
 | luca ikaruga | 斑鸠路加 |  |  |
 | hare omagari | 小钩晴 | 所属作品：`p:blue archive` |  |
-| karen aijo | 爱城华恋 |  | [萌娘百科](https://zh.moegirl.org.cn/爱城华恋) |
+| karen aijo | 爱城华恋 | 所属作品: `p:shoujo kageki revue starlight`<br><br>幼年时观赏Revue『Starlight』后为之心动，因而走上舞台之路的舞台少女。随时精神饱满，声音宏亮，但非常不习惯早起练习。与交换了『命运』的青梅竹马神乐光一起参加神秘的Revue。 | [萌娘百科](https://zh.moegirl.org.cn/爱城华恋) |
 | sawako kuronuma | 黑沼爽子 | 所属作品: `p:kimi ni todoke` | [萌娘百科](https://mzh.moegirl.org.cn/黑沼爽子) |
 | izumi shishidou | 狮子堂泉 |  | [Fandom](https://bluearchive.fandom.com/wiki/Shishidou_Izumi?so=search) |
 | lynette | 琳妮特 | 琳妮特(lynette) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/83/琳妮特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琳妮特) |
