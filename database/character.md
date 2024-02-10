@@ -5148,6 +5148,7 @@ example:
 | futaba isurugi | 石动双叶 | 所属作品: `p:shoujo kageki revue starlight`<br><br>`c:kaoruko hanayagi`的青梅竹马，为了陪伴她而就读圣翔音乐学园，与众不同的舞台少女。虽然说话毒辣但其实很温柔，嘴上抱怨归抱怨，但凡事还是都以香子为优先。个子虽小，不过运动能力相当高，擅长实战学来的武打戏。 | [萌娘百科](https://zh.moegirl.org.cn/石动双叶) |
 | kaoruko hanayagi | 花柳香子 | 所属作品: `p:shoujo kageki revue starlight`<br><br>日本舞掌门人的孙女，歌谣与舞蹈才能卓越的和风舞台少女。是天生的大小姐，生活起居的大小事全都仰赖`c:futaba isurugi`帮忙处理。随时笑容满面，但机谋深算，私底下非常讲究得失。其华美的京都腔为她的一大特征。 | [萌娘百科](https://zh.moegirl.org.cn/花柳香子) |
 | mahiru tsuyuzaki | 露崎真昼 | 所属作品: `p:shoujo kageki revue starlight`<br><br>在舞台上活泼地载歌载舞，但其实平常很稳重内向的舞台少女。是`c:karen aijo`的室友，一直很向往她开朗积极的个性。然而当华恋的青梅竹马`c:hikari kagura`出现后，让她的心情复杂了起来…… | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
+| shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
