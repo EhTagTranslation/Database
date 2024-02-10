@@ -12701,6 +12701,7 @@ example:
 | 892 | 八9二 |  | [pixiv](https://www.pixiv.net/users/72706066)<br>[FANBOX](https://yk892.fanbox.cc/)<br>[Twitter](https://twitter.com/892yk333s)<br>[Skeb](https://skeb.jp/@892yk333s) |
 | nyaon | にゃおん |  | [pixiv](https://www.pixiv.net/users/286510) [Twitter](https://twitter.com/nya_on/) |
 | fuugetsu makoto | 楓月誠 |  | [Twitter](https://twitter.com/whogets) [pixiv](https://www.pixiv.net/users/32669) |
+| rebutsu | りぶつ |  | [Twitter](https://twitter.com/re_Butsu) [pixiv](https://www.pixiv.net/users/25821965) |
 
 <!--TEMPLATE:
 |  |  |  |  |
