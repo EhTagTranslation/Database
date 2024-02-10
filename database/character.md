@@ -5143,6 +5143,7 @@ example:
 | aizawa ema | 蓝泽艾玛 | 蓝泽艾玛（藍沢エマ / あいざわ えまAizawa Ema）是一名于2021年9月14日活动开始的虚拟UP主，所属日本业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/zh/蓝泽艾玛) [Fandom](https://virtualyoutuber.fandom.com/wiki/Aizawa_Ema) |
 | kurumi noah | 胡桃诺娅 | 胡桃诺娅 （胡桃のあ）是一名从2020年3月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。<br><br>非常爱笑爱哭的男性口吻Vtuber、天真浪漫的声音和性格让周围的人都会有一副笑颜。游戏中进取心很强，总是朝着更高的目标前进。 | [萌娘百科](https://zh.moegirl.org.cn/zh/胡桃诺娅) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kurumi_Noah) |
 | atsushi murasakibara | 紫原敦 | 所属作品: `p:kuroko no basuke`<br><br>阳泉高校的中锋，曾是奇迹的世代的中锋。除了紫色及肩长发外，他最醒目的特征是超过两米的身高，自小因身材高大而理所当然地打起篮球，虽然没有干劲也不喜欢篮球，但有很高的才能。他特别擅长防守，不过如果他没有干劲、便不会去阻挡对手进攻。他也讨厌那些热爱打篮球的人，也经常会表示自己「很无聊」，因此在中学时、他与黑子经常因为对篮球的观点不同而争论。 | [萌娘百科](https://zh.moegirl.org.cn/zh/紫原敦) |
+| junna hoshimi | 星见纯那 | 所属作品: `p:shoujo kageki revue starlight`<br><br>同学年当中成绩最好的资优生，同时也担任班长。判断力、分析力都相当杰出，但反而因此常常想太多。不顾双亲反对走上舞台之路，但因自己与天分出众的真矢等人有所差距而烦恼不已的舞台少女。 | [萌娘百科](https://zh.moegirl.org.cn/星见纯那) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
