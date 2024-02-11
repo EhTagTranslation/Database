@@ -7936,7 +7936,7 @@ example:
 | mochi kiss junkie | もちxoジャンキー |  |  |
 | mochi mochi | もちもち |  |  |
 | mochi mochi mikan | もちもちみかん |  |  |
-| mochi-ya | もち屋 |  |  |
+| mochi-ya | 餅屋 |  | [HP](http://mochiya.sakura.ne.jp) |
 | mochimochi carnevale | もちもちCarnevale |  |  |
 | mochimochi dou | もちもち堂 |  |  |
 | mochimochitaiyo | もちもちたいよう |  |  |
