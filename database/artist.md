@@ -12704,6 +12704,7 @@ example:
 | rebutsu | りぶつ |  | [Twitter](https://twitter.com/re_Butsu) [pixiv](https://www.pixiv.net/users/25821965) |
 | choi moz | ちょいもず |  | [Twitter](https://twitter.com/moz_choi/) [pixiv](https://www.pixiv.net/users/67102863) |
 | miyazaki usagi | みやざきうさぎ |  |  |
+| touchuu kasou | 冬蟲夏草 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
