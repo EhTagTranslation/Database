@@ -12712,7 +12712,7 @@ example:
 | 7 rensa | 7连锁 |  |  |
 | citrusniper | シトラスナイパー |  |  |
 | unadon | うなどぅーむ |  |  |
-| torii-za | 鳥居ヨシツナ \| 山吉 田之助 |  | [Twitter](https://twitter.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
+| torii-za | 鳥居座 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
