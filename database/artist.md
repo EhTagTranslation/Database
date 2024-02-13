@@ -12706,6 +12706,7 @@ example:
 | miyazaki usagi | みやざきうさぎ |  |  |
 | touchuu kasou | 冬虫夏草 |  |  |
 | cbmus | cbmus |  | [twitter](https://twitter.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
+| torii yoshitsuna | 鳥居ヨシツナ \| 山吉 田之助 |  | [Twitter](https://twitter.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 
 <!--TEMPLATE:
 |  |  |  |  |
