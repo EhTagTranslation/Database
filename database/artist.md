@@ -12705,6 +12705,7 @@ example:
 | choi moz | ちょいもず |  | [Twitter](https://twitter.com/moz_choi/) [pixiv](https://www.pixiv.net/users/67102863) |
 | miyazaki usagi | みやざきうさぎ |  |  |
 | touchuu kasou | 冬虫夏草 |  |  |
+| cbmus | cbmus |  | [twitter](https://twitter.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
 
 <!--TEMPLATE:
 |  |  |  |  |
