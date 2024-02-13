@@ -12712,6 +12712,7 @@ example:
 | 7 rensa | 7连锁 |  |  |
 | citrusniper | シトラスナイパー |  |  |
 | unadon | うなどぅーむ |  |  |
+| torii-za | 鳥居座 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
