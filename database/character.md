@@ -5149,6 +5149,7 @@ example:
 | kaoruko hanayagi | 花柳香子 | 所属作品: `p:shoujo kageki revue starlight`<br><br>日本舞掌门人的孙女，歌谣与舞蹈才能卓越的和风舞台少女。是天生的大小姐，生活起居的大小事全都仰赖`c:futaba isurugi`帮忙处理。随时笑容满面，但机谋深算，私底下非常讲究得失。其华美的京都腔为她的一大特征。 | [萌娘百科](https://zh.moegirl.org.cn/花柳香子) |
 | mahiru tsuyuzaki | 露崎真昼 | 所属作品: `p:shoujo kageki revue starlight`<br><br>在舞台上活泼地载歌载舞，但其实平常很稳重内向的舞台少女。是`c:karen aijo`的室友，一直很向往她开朗积极的个性。然而当华恋的青梅竹马`c:hikari kagura`出现后，让她的心情复杂了起来…… | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
 | shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
+| anastasia hoshin | 安娜塔西亚·合辛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
