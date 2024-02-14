@@ -5150,6 +5150,7 @@ example:
 | mahiru tsuyuzaki | 露崎真昼 | 所属作品: `p:shoujo kageki revue starlight`<br><br>在舞台上活泼地载歌载舞，但其实平常很稳重内向的舞台少女。是`c:karen aijo`的室友，一直很向往她开朗积极的个性。然而当华恋的青梅竹马`c:hikari kagura`出现后，让她的心情复杂了起来…… | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
 | shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
 | anastasia hoshin | 安娜塔西亚·合辛 |  |  |
+| stark | 休塔尔克 | 休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/休塔尔克) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
