@@ -5151,6 +5151,7 @@ example:
 | shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
 | anastasia hoshin | 安娜塔西亚·合辛 |  |  |
 | stark | 休塔尔克 | 休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/休塔尔克) |
+| aiba uiha | 相羽初叶 | 相羽初叶（相羽ういは / Aiba Uiha）是一名从2019年7月28日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/相羽初叶) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
