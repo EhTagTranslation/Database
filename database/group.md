@@ -12713,6 +12713,7 @@ example:
 | citrusniper | シトラスナイパー |  |  |
 | unadon | うなどぅーむ |  |  |
 | torii-za | 鳥居座 |  |  |
+| sokuochi shoujo | 即オチ少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
