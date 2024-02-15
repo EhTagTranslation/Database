@@ -9203,7 +9203,7 @@ example:
 | paleatus | paleatus |  |  |
 | pan koojo | パン☆工場 |  |  |
 | pana | PANA |  |  |
-| panbai | 旁白 |  |  |
+| panbai | PANBAI 旁白 |  | [Twitter](https://twitter.com/PANBAI2) [Twitter](https://twitter.com/PANBAI31) [pixiv](https://www.pixiv.net/users/260148) |
 | panda | ぱんだ |  |  |
 | pandacorya | ぱんだこりゃ |  |  |
 | pandain | パンダィン |  |  |
