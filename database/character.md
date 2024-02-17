@@ -5153,6 +5153,7 @@ example:
 | stark | 休塔尔克 | 休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/休塔尔克) |
 | aiba uiha | 相羽初叶 | 相羽初叶（相羽ういは / Aiba Uiha）是一名从2019年7月28日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/相羽初叶) |
 | sherlock shellingford | 夏洛克·雪莉福德 | 所属作品: `p:tantei opera milky holmes`<br><br>Milky Holmes一员, 名称来自亚瑟·柯南·道尔作品中的名探侦夏洛克·福尔摩斯和其使用过的假称 「シェリンフォード（Shellingford）」, 简而言之是福尔摩斯的后代。<br><br>![](https://static.wikia.nocookie.net/tanteioperamilkyholmes/images/0/05/Shholmes.png) | [萌娘百科](https://zh.moegirl.org.cn/夏洛克·雪莉福德) [Fandom](https://hero.fandom.com/wiki/Sherlock_Shellingford) |
+| sodachi oikura | 老仓育 | 所属作品: `p:bakemonogatari`<br><br>`c:koyomi araragi`的高中一年级同班同学，班长。喜欢别人称呼自己为数学家“欧拉”。从登场开始就非常讨厌`c:koyomi araragi`。<br><br>![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/1a/OwariOikura2.png) | [萌娘百科](https://zh.moegirl.org.cn/老仓育) [Fandom](https://bakemonogatari.fandom.com/wiki/Sodachi_Oikura) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
