@@ -5155,6 +5155,7 @@ example:
 | sherlock shellingford | 夏洛克·雪莉福德 | 所属作品: `p:tantei opera milky holmes`<br><br>Milky Holmes一员, 名称来自亚瑟·柯南·道尔作品中的名探侦夏洛克·福尔摩斯和其使用过的假称 「シェリンフォード（Shellingford）」, 简而言之是福尔摩斯的后代。<br><br>![](https://static.wikia.nocookie.net/tanteioperamilkyholmes/images/0/05/Shholmes.png) | [萌娘百科](https://zh.moegirl.org.cn/夏洛克·雪莉福德) [Fandom](https://hero.fandom.com/wiki/Sherlock_Shellingford) |
 | sodachi oikura | 老仓育 | 所属作品: `p:bakemonogatari`<br><br>`c:koyomi araragi`的高中一年级同班同学，班长。喜欢别人称呼自己为数学家“欧拉”。从登场开始就非常讨厌`c:koyomi araragi`。<br><br>![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/1a/OwariOikura2.png) | [萌娘百科](https://zh.moegirl.org.cn/老仓育) [Fandom](https://bakemonogatari.fandom.com/wiki/Sodachi_Oikura) |
 | smolder | 斯莫得 |  |  |
+| touka satomi | 里见灯花 |  | [pixiv](https://dic.pixiv.net/a/里見灯花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
