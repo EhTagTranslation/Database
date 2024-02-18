@@ -12709,6 +12709,7 @@ example:
 | torii yoshitsuna | 鳥居ヨシツナ \| 山吉 田之助 |  | [Twitter](https://twitter.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 | mannack | まんなく |  | [pixiv](https://www.pixiv.net/users/29759565) |
 | miwerjooggetser | 無名老圖 |  | [pixiv](https://www.pixiv.net/users/1176892) [twitter](https://twitter.com/ojiojiojisaaan) |
+| shimohara | しもはら |  | [pixiv](https://www.pixiv.net/users/17341989) [Twitter](https://twitter.com/shimohr) |
 
 <!--TEMPLATE:
 |  |  |  |  |
