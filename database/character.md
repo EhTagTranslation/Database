@@ -5156,6 +5156,7 @@ example:
 | sodachi oikura | 老仓育 | 所属作品: `p:bakemonogatari`<br><br>`c:koyomi araragi`的高中一年级同班同学，班长。喜欢别人称呼自己为数学家“欧拉”。从登场开始就非常讨厌`c:koyomi araragi`。<br><br>![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/1a/OwariOikura2.png) | [萌娘百科](https://zh.moegirl.org.cn/老仓育) [Fandom](https://bakemonogatari.fandom.com/wiki/Sodachi_Oikura) |
 | smolder | 斯莫得 |  |  |
 | touka satomi | 里见灯花 |  | [pixiv](https://dic.pixiv.net/a/里見灯花) |
+| firefly | 流萤 | 流萤是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/流萤) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
