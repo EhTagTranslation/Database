@@ -12711,6 +12711,7 @@ example:
 | miwerjooggetser | 無名老圖 |  | [pixiv](https://www.pixiv.net/users/1176892) [twitter](https://twitter.com/ojiojiojisaaan) |
 | shimohara | しもはら |  | [pixiv](https://www.pixiv.net/users/17341989) [Twitter](https://twitter.com/shimohr) |
 | kazutake hazano | 和武はざの |  | [Twitter](https://twitter.com/TEIGI_3) [pixiv](https://www.pixiv.net/users/1893126) |
+| kanpancake | kanpancake |  | [pixiv](https://www.pixiv.net/users/17689453) |
 
 <!--TEMPLATE:
 |  |  |  |  |
