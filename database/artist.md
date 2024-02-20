@@ -12712,6 +12712,7 @@ example:
 | shimohara | しもはら |  | [pixiv](https://www.pixiv.net/users/17341989) [Twitter](https://twitter.com/shimohr) |
 | kazutake hazano | 和武はざの |  | [Twitter](https://twitter.com/TEIGI_3) [pixiv](https://www.pixiv.net/users/1893126) |
 | kanpancake | kanpancake |  | [pixiv](https://www.pixiv.net/users/17689453) |
+| satoh sugar | 砂藤シュガー |  | [Twitter](https://twitter.com/satohsugar) |
 
 <!--TEMPLATE:
 |  |  |  |  |
