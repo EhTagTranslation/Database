@@ -12713,6 +12713,7 @@ example:
 | kazutake hazano | 和武はざの |  | [Twitter](https://twitter.com/TEIGI_3) [pixiv](https://www.pixiv.net/users/1893126) |
 | kanpancake | kanpancake |  | [pixiv](https://www.pixiv.net/users/17689453) |
 | satoh sugar | 砂藤シュガー |  | [Twitter](https://twitter.com/satohsugar) |
+| okura-chan | おくらちゃん | ![](https://pbs.twimg.com/profile_images/1698578452872560640/2KeVpRws_400x400.jpg)<br>↑作者推特头像<br><br>萝莉画师 | [twitter](https://twitter.com/6ya56) [pixiv](https://www.pixiv.net/users/75618515) |
 
 <!--TEMPLATE:
 |  |  |  |  |
