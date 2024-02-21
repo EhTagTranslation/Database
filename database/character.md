@@ -5158,6 +5158,7 @@ example:
 | touka satomi | 里见灯花 |  | [pixiv](https://dic.pixiv.net/a/里見灯花) |
 | firefly | 流萤 | 流萤是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/流萤) |
 | black swan | 黑天鹅 | 黑天鹅是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
+| gaming yip | 嘉明 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
