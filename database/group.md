@@ -12717,6 +12717,7 @@ example:
 | nora nee-sama | Nora姉様 |  |  |
 | ochaban | お茶番 |  |  |
 | shaft | SHAFT | 1975年，原于虫Production担任上色的若尾博司成立“有限会社SHAFT”，初期亦只外接动画的上色工作。直到1980年代，该社尝试为动画作统包工作。<br>主要作品有: 不可思议的教室 向阳素描 再见！绝望先生 ef系列 物语系列 荒川爆笑团 魔法少女小圆 3月的狮子等 | [萌娘百科](https://zh.moegirl.org.cn/SHAFT) [HP](https://www.shaft-web.co.jp/) |
+| kagayaku hoshizuna | 輝く星砂 |  | [Pixiv] ([pixiv](https://www.pixiv.net/users/12592835)) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
