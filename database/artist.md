@@ -12716,6 +12716,7 @@ example:
 | okura-chan | おくらちゃん | ![](https://pbs.twimg.com/profile_images/1698578452872560640/2KeVpRws_400x400.jpg)<br>↑作者推特头像<br><br>萝莉画师 | [twitter](https://twitter.com/6ya56) [pixiv](https://www.pixiv.net/users/75618515) |
 | bannou | 万能 |  | [pixiv](https://www.pixiv.net/users/11925621) |
 | rokita | ろきた |  | [pixiv](https://www.pixiv.net/users/4088632) [twitter](https://twitter.com/RRRokita) |
+| naruya shin | なるやしん | ![](https://pbs.twimg.com/profile_images/1688899653537079296/aI1-7QeY_400x400.jpg)<br>↑作者推特头像 | [pixiv](https://www.pixiv.net/users/5027179/illustrations) [twitter](https://twitter.com/TakanaruyA_0227/media) |
 
 <!--TEMPLATE:
 |  |  |  |  |
