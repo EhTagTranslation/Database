@@ -5160,7 +5160,7 @@ example:
 | black swan | 黑天鹅 | 黑天鹅是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
 | gaming yip | 嘉明 |  |  |
 | dunyarzad homayani | 迪娜泽黛 | 是由米哈游所制作的游戏`p:genshin impact`及其衍生作品的登场角色<br>![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
-| sparkle | 花火 |  |  |
+| sparkle | 花火 | 花火是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/花火%28星穹铁道%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
