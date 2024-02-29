@@ -2624,7 +2624,7 @@ example:
 | momoco | ももこ | ![ももこ头像](https://i.loli.net/2020/11/05/ZikrTLwYuFPS8Ey.jpg) | [pixiv](https://www.pixiv.net/users/1113943) [Twitter](https://twitter.com/momoco_haru) |
 | ashima | アシマ | ![アシマ头像](https://i.loli.net/2020/05/15/ufZNSmM9btLaYCX.jpg) | [pixiv](https://www.pixiv.net/users/2642047) [Twitter](https://twitter.com/roro046) [个人主页](https://ashima-flourish.tumblr.com/) |
 | suzumori | 铃森 |  |  |
-| kimishima ao | 君岛青 |  | [pixiv](https://www.pixiv.net/users/86328) [Twitter](https://twitter.com/kimishima_ao) |
+| kimishima ao | 君岛青 |  | [萌娘百科](https://zh.moegirl.org.cn/君岛青) [pixiv](https://www.pixiv.net/users/86328) [Twitter](https://twitter.com/kimishima_ao) |
 | motiduki siina | 望月椎那 |  | [pixiv](https://www.pixiv.net/users/40614) [Twitter](https://twitter.com/siina_motiduki) [微博](https://weibo.com/u/5973956576) |
 | kino | kino |  | [pixiv](https://www.pixiv.net/users/40912) [Twitter](https://twitter.com/kinogin) |
 | mitha | Mitha |  | [pixiv](https://www.pixiv.net/users/283135) [Twitter](https://twitter.com/usa_mitha) |
