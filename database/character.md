@@ -1426,7 +1426,7 @@ example:
 | hideyoshi kinoshita | 木下秀吉 |  |  |
 | yuuko kinoshita | 木下优子 |  |  |
 | mizuki himeji | 姬路瑞希 |  |  |
-| minami shimada | 岛田美波 |  |  |
+| minami shimada | 岛田美波 | 《笨蛋测试召唤兽》里的女角色 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/岛田美波) |
 | hazuki shimada | 岛田叶月 |  |  |
 | yuuji sakamoto | 坂本雄二 |  |  |
 | shouko kirishima | 雾岛翔子 |  |  |
