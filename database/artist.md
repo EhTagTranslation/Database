@@ -12719,6 +12719,7 @@ example:
 | naruya shin | なるやしん | ![](https://pbs.twimg.com/profile_images/1688899653537079296/aI1-7QeY_400x400.jpg)<br>↑作者推特头像 | [pixiv](https://www.pixiv.net/users/5027179/illustrations) [twitter](https://twitter.com/TakanaruyA_0227/media) |
 | tamura-chan | 田村ちゃん |  | [pixiv](https://www.pixiv.net/en/artworks/110816352) [Twitter](https://twitter.com/tamuratyandayo3) |
 | nyum | にゅむ |  | [pixiv](https://www.pixiv.net/users/6018940) [Twitter](https://twitter.com/nyum_serori) |
+| tsunako | つなこ |  | [Twitter](https://twitter.com/panda_kabe) [pixiv](https://www.pixiv.net/users/14028509) |
 
 <!--TEMPLATE:
 |  |  |  |  |
