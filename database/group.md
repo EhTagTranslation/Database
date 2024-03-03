@@ -12721,6 +12721,7 @@ example:
 | chikyuujin | ちきゅうじん |  |  |
 | nyum production | にゅむproduction |  |  |
 | heppoko usagi cafe | へっぽこうさぎ＊cafe |  | [Twitter](https://twitter.com/cure_cherish) [Twitter](https://twitter.com/cure_cherish_) [HP](https://moco.pupu.jp/usacafe/) |
+| asakasha doujin | 朝花社同人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
