@@ -12720,6 +12720,7 @@ example:
 | tamura-chan | 田村ちゃん |  | [pixiv](https://www.pixiv.net/en/artworks/110816352) [Twitter](https://twitter.com/tamuratyandayo3) |
 | nyum | にゅむ |  | [pixiv](https://www.pixiv.net/users/6018940) [Twitter](https://twitter.com/nyum_serori) |
 | tsunako | つなこ |  | [Twitter](https://twitter.com/panda_kabe) [pixiv](https://www.pixiv.net/users/14028509) |
+| amagai tarou | おるだん |  | [Twitter](https://twitter.com/ordan) [pixiv](https://www.pixiv.net/users/9427) |
 
 <!--TEMPLATE:
 |  |  |  |  |
