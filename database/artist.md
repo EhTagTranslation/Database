@@ -2254,7 +2254,7 @@ example:
 | ishikawa sae | 石川沙绘 |  |  |
 | nagihashi coko | なぎはしここ |  |  |
 | u-jin | 游人 |  |  |
-| piripun | ぴりぷん |  |  |
+| piripun | ぴりぷん |  | [pixiv](https://www.pixiv.net/users/83576012) |
 | akabashi | アカバシ |  |  |
 | mataro | 魔太郎 |  |  |
 | kekocha | けこちゃ |  |  |
