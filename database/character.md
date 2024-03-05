@@ -5164,6 +5164,7 @@ example:
 | senadina | 希娜狄雅 | 「你好，世界！」诞生自数据之海的少女，对身边的一切都很感兴趣。在寻梦的旅途中，她将和你一道，经历各式各样的冒险，结识各式各样的伙伴。对了——如果深夜时分她还来找你，记得要带她去吃烧烤。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/希娜狄雅)<br>[https://bbs.mihoyo.com/bh3/wiki/content/3071/detail?visit\_device=mobile&bbs\_presentation\_style=no\_header](https://bbs.mihoyo.com/bh3/wiki/content/3071/detail?visit_device=mobile&bbs_presentation_style=no_header) |
 | satoshi mizukami | 水上敏志 | 所属作品: `p:world trigger` |  |
 | secelia dote | 塞西莉亚·多特 |  | [百度百科](https://baike.baidu.com/item/塞西莉亚·多特/63369768)<br>[水星的魔女 Wiki Fandom](https://g-witch.fandom.com/zh/wiki/塞西莉亚·多特) |
+| gon freecss | 杰·富力士 | 傑·富力士（日語：ゴン・フリークス）是由富堅義博所創作的漫畫《全職獵人》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/杰·富力士) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
