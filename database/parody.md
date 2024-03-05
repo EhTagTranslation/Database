@@ -640,7 +640,7 @@ example:
 | seiren | 清恋 |  |  |
 | oniisama e... | 亲亲天使心 | 青涩花园、少女梦、给哥哥的一封信 |  |
 | long riders | 长骑美眉 |  |  |
-| flower knight girl | 美少女花骑士 | 《美少女花骑士》（FLOWER KNIGHT GIRL、日语：フラワーナイトガール）是由Your Games开发，DMM.com运营的美少女战略卡牌类网页游戏。 |  |
+| flower knight girl | 美少女花骑士 | 《美少女花骑士》（FLOWER KNIGHT GIRL、日语：フラワーナイトガール）是由Your Games开发，DMM.com运营的美少女战略卡牌类网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/美少女花骑士) |
 | mitsudomoe | 超元气三姐妹 |  |  |
 | no-rin | 农林 |  |  |
 | space battleship yamato | 宇宙战舰大和号 |  |  |
