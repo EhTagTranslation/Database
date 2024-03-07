@@ -83,11 +83,7 @@
 
 <details>
 
-<summary>
-
-#### 已停止维护的项目
-
-</summary>
+<summary><strong>已停止维护的项目</strong></summary>
 
 - [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
   ![WEB][plat-web] ![UserScript][plat-userscript]
