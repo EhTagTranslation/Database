@@ -12723,6 +12723,7 @@ example:
 | amagai tarou | おるだん |  | [Twitter](https://twitter.com/ordan) [pixiv](https://www.pixiv.net/users/9427) |
 | takota konu | 蛸田こぬ | ![twitter](https://pbs.twimg.com/profile_images/1741355124390539264/w7TtVWSu_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/takotkonu) |
 | made rokuri | 迄ロクリ |  |  |
+| charin | チャリン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
