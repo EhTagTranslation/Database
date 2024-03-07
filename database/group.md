@@ -12723,6 +12723,7 @@ example:
 | heppoko usagi cafe | へっぽこうさぎ＊cafe |  | [Twitter](https://twitter.com/cure_cherish) [Twitter](https://twitter.com/cure_cherish_) [HP](https://moco.pupu.jp/usacafe/) |
 | asakasha doujin | 朝花社同人 |  |  |
 | maisou no soko | 埋葬ノ底 |  |  |
+| kyuryo koen | 丘陵公園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
