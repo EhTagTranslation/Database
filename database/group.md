@@ -12724,6 +12724,7 @@ example:
 | asakasha doujin | 朝花社同人 |  |  |
 | maisou no soko | 埋葬ノ底 |  |  |
 | kyuryo koen | 丘陵公園 |  |  |
+| chairoiyatsu | ちゃいろいやつ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
