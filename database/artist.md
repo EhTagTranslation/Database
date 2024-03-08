@@ -12725,6 +12725,7 @@ example:
 | made rokuri | 迄ロクリ |  |  |
 | charin | チャリン |  |  |
 | usodi | ウソヂ |  |  |
+| chairoino | 茶色いの |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
