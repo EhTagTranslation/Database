@@ -12726,6 +12726,7 @@ example:
 | charin | チャリン |  |  |
 | usodi | ウソヂ |  |  |
 | chairoino | 茶色いの |  |  |
+| sugiyama | 杉山 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
