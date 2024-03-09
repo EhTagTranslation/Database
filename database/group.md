@@ -12725,6 +12725,7 @@ example:
 | maisou no soko | 埋葬ノ底 |  |  |
 | kyuryo koen | 丘陵公園 |  |  |
 | chairoiyatsu | ちゃいろいやつ |  |  |
+| surudoiman no irutokoro | するどいマンのいるところ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
