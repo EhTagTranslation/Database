@@ -12727,6 +12727,7 @@ example:
 | usodi | ウソヂ |  |  |
 | chairoino | 茶色いの |  |  |
 | sugiyama | 杉山 |  |  |
+| antifreez3 | 天凉多喝防冻液 |  | [FANBOX](https://antifreez3.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/15849699) |
 
 <!--TEMPLATE:
 |  |  |  |  |
