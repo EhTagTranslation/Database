@@ -2261,6 +2261,7 @@ example:
 | kusuriya no hitorigoto | 药师少女的独语 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/药师少女的独语) |
 | equestria girls | 小马宝莉：魔法公主 | 《彩虹小马：魔法公主》（英语：My Little Pony: Equestria Girls）为美国动画片《小马宝莉：友谊就是魔法》的衍生系列电影。该电影与电视剧的人物较为不同，人物以相似于对应于小马利亚小马配色与个性的人类作为形象。 | [维基百科](https://zh.wikipedia.org/wiki/彩虹小馬：小馬國女孩系列) |
 | palworld | 幻兽帕普 |  |  |
+| limbus company | 边狱公司 | 《边狱公司》（英语：Limbus Company，别称《边狱巴士公司》或《边狱巴士》）是由Project Moon制作并发行的回合制策略RPG类游戏，于2023年2月27日公测，是脑叶公司与废墟图书馆的同世界观续作。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/边狱公司) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
