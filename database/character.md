@@ -5166,6 +5166,7 @@ example:
 | secelia dote | 塞西莉亚·多特 |  | [百度百科](https://baike.baidu.com/item/塞西莉亚·多特/63369768)<br>[水星的魔女 Wiki Fandom](https://g-witch.fandom.com/zh/wiki/塞西莉亚·多特) |
 | gon freecss | 杰·富力士 | 傑·富力士（日語：ゴン・フリークス）是由富堅義博所創作的漫畫《全職獵人》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/杰·富力士) |
 | davi artman | ダヴィ・アートマン | 漫画家あらと安里が運営するバーチャルyoutuber「ダヴィ・アートマン」です。 | [YouTube](https://www.youtube.com/channel/UC2dJpxRY3LdQMasgyxPpQ3g) [Twitter](https://twitter.com/DaviArtman) |
+| meteion | 梅蒂恩 |  | [梅蒂恩](https://ff14.huijiwiki.com/wiki/梅蒂恩) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
