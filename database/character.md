@@ -5167,6 +5167,7 @@ example:
 | gon freecss | 杰·富力士 | 傑·富力士（日語：ゴン・フリークス）是由富堅義博所創作的漫畫《全職獵人》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/杰·富力士) |
 | davi artman | ダヴィ・アートマン | 漫画家あらと安里が運営するバーチャルyoutuber「ダヴィ・アートマン」です。 | [YouTube](https://www.youtube.com/channel/UC2dJpxRY3LdQMasgyxPpQ3g) [Twitter](https://twitter.com/DaviArtman) |
 | meteion | 梅蒂恩 |  | [梅蒂恩](https://ff14.huijiwiki.com/wiki/梅蒂恩) |
+| emil sinclair | 辛克莱 | 辛克莱（Sinclair）是《边狱巴士公司》及其衍生作品的登场角色。原型来源小说《德米安：埃米尔·辛克莱的彷徨少年时》。 | [萌娘百科](https://zh.moegirl.org.cn/辛克莱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
