@@ -12729,6 +12729,7 @@ example:
 | sugiyama | 杉山 |  |  |
 | antifreez3 | 天凉多喝防冻液 |  | [FANBOX](https://antifreez3.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/15849699) |
 | norihito | 仁人 |  | [pixiv](https://www.pixiv.net/users/97877) [Twitter](https://twitter.com/norihito) |
+| ogatatei | 緒方てい | Tei Ogata<br>Manga artist<br><br>Born: Osaka | [Twitter](https://twitter.com/ogatatei?lang=en)<br>[Instagram](https://www.instagram.com/ogatatei/)<br>[pixiv](https://www.pixiv.net/en/users/339001) |
 
 <!--TEMPLATE:
 |  |  |  |  |
