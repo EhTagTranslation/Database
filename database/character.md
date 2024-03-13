@@ -5171,6 +5171,7 @@ example:
 | yi sang | 李箱 | 李箱（Yi Sang）是《边狱巴士公司》及其衍生作品的登场角色。原型朝鲜象征派诗人、小说家金海卿。 | [萌娘百科](https://zh.moegirl.org.cn/李箱) |
 | ichika nakamasa | 仲正一花 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/仲正一花) |
 | gary oak | 小茂 | 小茂（日文︰オーキド・シゲル Okido Shigeru，英文︰Gary Oak），本名大木·茂，是和小智一起长大的朋友，也是小智的第一个劲敌。他是大木博士的孙子，曾是宝可梦训练家，现为研究员，梦想是成为像他爷爷一样的宝可梦博士。在宝可梦 旅途中，他是梦幻计划（日文︰プロジェクト・ミュウ）的挑战者之一。 | [https://wiki.52poke.com/zh-hans/小茂（動畫）](https://wiki.52poke.com/zh-hans/小茂（動畫）) |
+| red | 赤红 | 赤红是任天堂旗下游戏宝可梦中，第一世代游戏与第三世代火红叶绿中的主角，也是红的游戏主角的第一个默认名。是第一世代及火红·叶绿中的男性主人公。 | [萌娘百科](https://zh.moegirl.org.cn/zh/赤红) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
