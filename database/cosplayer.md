@@ -109,6 +109,7 @@ example:
 | na-san | なーさん |  |  |
 | mashiro yuki | 真白ゆき |  |  |
 | alina becker | Alina Becker |  |  |
+| shizuku honami | 穂南しずく |  |  |
 
 <!--
 Template: 
