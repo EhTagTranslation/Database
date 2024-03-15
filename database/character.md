@@ -5173,6 +5173,7 @@ example:
 | gary oak | 小茂 | 小茂（日文︰オーキド・シゲル Okido Shigeru，英文︰Gary Oak），本名大木·茂，是和小智一起长大的朋友，也是小智的第一个劲敌。他是大木博士的孙子，曾是宝可梦训练家，现为研究员，梦想是成为像他爷爷一样的宝可梦博士。在宝可梦 旅途中，他是梦幻计划（日文︰プロジェクト・ミュウ）的挑战者之一。 | [https://wiki.52poke.com/zh-hans/小茂（動畫）](https://wiki.52poke.com/zh-hans/小茂（動畫）) |
 | red | 赤红 | 赤红是任天堂旗下游戏宝可梦中，第一世代游戏与第三世代火红叶绿中的主角，也是红的游戏主角的第一个默认名。是第一世代及火红·叶绿中的男性主人公。 | [萌娘百科](https://zh.moegirl.org.cn/zh/赤红) |
 | ryuuge kisaki | 龙华妃咲 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
+| coralie 6626 planck | 科拉莉·6626·普朗克 | 所属作品:`p:honkai gakuen` | [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Coralie_6626_Planck) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
