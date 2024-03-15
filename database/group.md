@@ -12726,6 +12726,7 @@ example:
 | kyuryo koen | 丘陵公園 |  |  |
 | chairoiyatsu | ちゃいろいやつ |  |  |
 | surudoiman no irutokoro | するどいマンのいるところ |  |  |
+| kinkai 100 kg | 金塊100kg |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
