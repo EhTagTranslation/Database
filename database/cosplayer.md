@@ -113,6 +113,7 @@ example:
 | lmusicl | lMusicl |  |  |
 | masako yume | Masako Yume |  |  |
 | ain nguyen | Ain Nguyễn |  | [Instagram](https://www.instagram.com/i_aint_nguyen/) |
+| oniksiya sofinikum | Oniksiya Sofinikum |  | [Instagram](https://www.instagram.com/oniksiya_sofinikum/) |
 
 <!--
 Template: 
