@@ -5174,6 +5174,7 @@ example:
 | ami nonomura | 野野村亚美 | 野々村亜美是成人动漫《`p:cream lemon`》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。 | [Fandom](https://cream-lemon.fandom.com/wiki/Ami_Nonomura) [pixiv](https://dic.pixiv.net/a/野々村亜美) |
 | indomitable | 不挠 | 不挠（不撓，Indomitable，インドミタブル，인도미터블）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`azur lane`》及其衍生作品中的登场角色。<br>其原型为英国皇家海军光辉级航空母舰4号舰不挠号。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:不挠) |
 | kurumi tsuchimikado | 土御门胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/土御门胡桃) |
+| ada wong | 艾达·王 | 艾达·王（英语：Ada Wong）是Capcom旗下的游戏《`resident evil`》及其衍生作品的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/艾達·王) [萌娘百科](https://zh.moegirl.org.cn/艾达·王) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
