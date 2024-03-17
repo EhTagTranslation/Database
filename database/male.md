@@ -76,6 +76,7 @@ example:
 | bat boy | 蝙蝠男 | `bat girl`的男性版本。 |  |
 | bear boy | 狗熊男 | 有圆形耳朵和其他熊的特征的男性。 |  |
 | bee boy | 蜂男 | `bee girl`的男性版本。 |  |
+| bird boy | 鸟男 | `bird girl`的男性版本。 |  |
 | bunny boy | 兔子男孩 | `bunny girl`的男性版本。 |  |
 | catboy | 猫男 | `catgirl`的男性版本。 |  |
 | centaur | 半人马 | 一半是人，一半是马。 |  |
@@ -584,11 +585,13 @@ example:
 | selfcest | 自交 | 同一个人的两个版本间的性行为。通常发生在一个角色和其`gender change`之间。 |  |
 | solo action | 自摸 | 一个角色自己从事性活动。使用物品（例如杂志、`sex toys`、`exhibitionism`）作为刺激是可以接受的。<br>![](# "https://ehgt.org/de/17/de170cd498d3d7d7fa5b6fd92123a7b27218a10f-423358-600-847-jpg_l.jpg") |  |
 | table masturbation | 桌角自慰 | 通过摩擦桌角来自慰。不需要`masturbation`标签。<br>![图](# "https://ehgt.org/a3/6f/a36f1888c987f8f4e462465a81ea105e2b592fa6-680567-1200-1800-jpg_l.jpg") |  |
-|  | == 残疾 == |  |  |
+|  | == Disability == | == 残疾 == |  |
 | blind | 失明 | 眼睛根本不能发挥作用的人。不应与`blindfold`混淆。 |  |
 | handicapped | 残疾 | 一个不能依靠自己的力量移动自己的一个或多个肢体的人。不应与`amputee`或`bondage`混淆。 |  |
 | mute | 哑巴 | 一个不能说话的人。不应用于不愿说话的人或戴`gag`的人。不用于`speechless`图库。 |  |
-|  | == 性别 == |  |  |
+|  | == Consumption == | == 消费 == |  |
+| full tour | 消化道游览 | 一个角色被另一个角色整个吞下，穿过其消化系统，然后从肛门活着出来。只计算出现角色穿过消化系统的页面。可能援引`vore`标签。不应与`all the way through`混淆。 |  |
+|  | == Gender == | == 性别 == |  |
 | cuntboy | 人妖♀ | 有阴道而不是阴茎的男性。男性与`cuntboy`间的性行为不应添加`yaoi`或`males only`标签。如果男性拥有阴道和阴茎，请使用`otokofutanari`。 |  |
 | feminization | 女性化 | 一个男人将他的生活习惯变为一个异装癖（例如通过训练或`mind control`）或将他的身体改变为`shemale`/`futanari`。在任何一种情况下，该人必须采取表现出或被视为更女性化。 |  |
 | gender change | 性转换 | 一个角色通过任何方式改变了他们通常的性别。（例如：`gender morph`，`possession`和`body swap`）。<br>不应与`crossdressing`混淆。女性变为`futanari`不符合条件。<br>![我要成为XXX](# "https://ehgt.org/f7/e1/f7e1fa9f70a46036b162aeaf52646323327e5752-1116921-1014-1455-jpg_l.jpg") |  |
