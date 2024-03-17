@@ -5172,6 +5172,7 @@ example:
 | red | 赤红 | 赤红是任天堂旗下游戏宝可梦中，第一世代游戏与第三世代火红叶绿中的主角，也是红的游戏主角的第一个默认名。是第一世代及火红·叶绿中的男性主人公。 | [萌娘百科](https://zh.moegirl.org.cn/zh/赤红) |
 | coralie 6626 planck | 科拉莉·6626·普朗克 | 所属作品:`p:honkai gakuen` | [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Coralie_6626_Planck) |
 | ami nonomura | 野野村亚美 | 野々村亜美是成人动漫《`p:cream lemon`》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。 | [Fandom](https://cream-lemon.fandom.com/wiki/Ami_Nonomura) [pixiv](https://dic.pixiv.net/a/野々村亜美) |
+| indomitable | 不挠 | 不挠（不撓，Indomitable，インドミタブル，인도미터블）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`azur lane`》及其衍生作品中的登场角色。<br>其原型为英国皇家海军光辉级航空母舰4号舰不挠号。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:不挠) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
