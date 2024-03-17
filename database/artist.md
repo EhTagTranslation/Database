@@ -1461,7 +1461,7 @@ example:
 | upanishi. | うぱ西。 |  |  |
 | shimazu isami | 島津いさみ |  |  |
 | arumajiki | 或真じき |  |  |
-| uru | Uru |  |  |
+| uru | Uru |  | [pixiv](https://www.pixiv.net/users/9659570) |
 | higashitotsuka raisuta | 東戸塚らいすた |  |  |
 | nizimoto hirok | 虹元ひろk |  |  |
 | kinnikku | キンニック |  |  |
