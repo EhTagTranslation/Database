@@ -5175,6 +5175,7 @@ example:
 | ryuuge kisaki | 龙华妃咲 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
 | coralie 6626 planck | 科拉莉·6626·普朗克 | 所属作品:`p:honkai gakuen` | [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Coralie_6626_Planck) |
 | ami nonomura | 野野村亚美 | 野々村亜美是成人动漫《`p:cream lemon`》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。 | [Fandom](https://cream-lemon.fandom.com/wiki/Ami_Nonomura) [pixiv](https://dic.pixiv.net/a/野々村亜美) |
+| bronya rand | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/布洛妮娅·兰德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
