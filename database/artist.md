@@ -2339,7 +2339,7 @@ example:
 | zheng | Zheng |  |  |
 | yukimoto shuuji | 雪本愁二 |  |  |
 | omaru gyuunyuu | 牛乳うまお |  |  |
-| nekonekokoneko | ねこねここねこ | ねこねここねこ（二見パラン） | [pixiv](https://www.pixiv.net/users/2973809) |
+| futami paran | 二見パラン | 二見パラン（ねこねここねこ） | [pixiv](https://www.pixiv.net/users/2973809) |
 | torajima tao | 虎島タオ |  | [twitter](https://twitter.com/torajimatao) |
 | mr.takealook | Mr.takealook |  |  |
 | isobe maki | イソベマキ |  |  |
@@ -3701,7 +3701,7 @@ example:
 | takaman | 高馒 | ![twitter](https://pbs.twimg.com/profile_images/1445279404095991816/HnKxMZOU_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`solo play`主笔画师 | [twitter](https://twitter.com/vakan12) [pixiv](https://www.pixiv.net/users/2722726) |
 | xiaoxi | 小西0619 |  | [Twitter](https://twitter.com/xiaoxi_0619) [pixiv](https://www.pixiv.net/users/12218414) [微博](https://weibo.com/u/5241210893) |
 | arimura daikon | 有村大根 |  |  |
-| tooyama burin | 遠山ブリン |  |  |
+| toyama burin | 遠山ブリン |  |  |
 | tsukai you | 塚井ヨウ | 似乎已封笔<br>![twitter](https://ehgt.org/4d/07/4d0716b7c1c09632df5366a121d85f92c4f8ea06-56060-373-373-jpg_l.jpg) | [Twitter](https://twitter.com/bktohs3) [pixiv](https://www.pixiv.net/users/351549) |
 | botan m | 牡丹M |  | [Twitter](https://twitter.com/botan_emu) |
 | syouwaru | 性悪 |  |  |
@@ -8045,7 +8045,7 @@ example:
 | miyagoe yoshitsuki | 宮越良月 |  |  |
 | miyahara mimikaki | みやはらみみかき |  |  |
 | miyakawa hajime | 美夜川はじめ |  |  |
-| miyako no gohan | 京のごはん |  |  |
+| kyou no gohan | 京のごはん |  |  |
 | miyama rima | 宮馬りま |  |  |
 | miyama zero | 美山零 | 美山零（日语：みやま零）是日本的插画家、原画家。居住在大阪市。以笔名“まやせろみ”作为一名剧本家活跃着。主要活跃于同人圈Stray Moon和一些PC游戏原画、近几年以插画家身份担任小说插图和游戏的插图的工作量增加。 | [维基百科](https://zh.wikipedia.org/wiki/美山零) |
 | miyamoto ikusa | みやもといくさ |  |  |
@@ -12109,7 +12109,6 @@ example:
 | hatoba akane | 波止場茜 |  |  |
 | hachi no hachihachi | はちの八八 |  |  |
 | rhasta | 牛乳重工 |  | [pixiv](https://www.pixiv.net/users/9746051) |
-| yamayoshi tanosuke | 鳥居ヨシツナ |  | [pixiv](https://www.pixiv.net/users/7309260) |
 | melailai | 么赖赖 | ![头像](https://i.pixiv.cat/user-profile/img/2021/12/28/16/45/32/21954150_8e710cb625f3a7bf1e7b6401020de89c_170.jpg) | [Pixiv](https://www.pixiv.net/users/22333059)<br>[Twitter](https://twitter.com/memela75722734)<br>[Bilibili](https://space.bilibili.com/14746289/) |
 | da mao banlangen | 大猫板蓝根 | ![头像](https://i.pixiv.cat/user-profile/img/2020/02/13/21/07/06/17915940_889888fa98d5d576596c673c7323e422_170.jpg) | [pixiv](http://pixiv.net/users/9751291)<br>[twitter](https://twitter.com/nekogarden1)<br>[Bilibili](https://space.bilibili.com/2170413/dynamic) |
 | touwa nikuman | 空72色 | ![](https://i.pixiv.cat/user-profile/img/2022/07/22/23/38/54/23065515_c1679046f3b30b85dca626b7bc660ecc_170.png) | [pixiv](https://www.pixiv.net/users/4357504) |
@@ -12706,7 +12705,7 @@ example:
 | miyazaki usagi | みやざきうさぎ |  |  |
 | touchuu kasou | 冬虫夏草 |  |  |
 | cbmus | cbmus |  | [twitter](https://twitter.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
-| torii yoshitsuna | 鳥居ヨシツナ \| 山吉 田之助 |  | [Twitter](https://twitter.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
+| torii yoshitsuna | 鳥居ヨシツナ | 鳥居ヨシツナ（山吉田之助） | [Twitter](https://twitter.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 | mannack | まんなく |  | [pixiv](https://www.pixiv.net/users/29759565) |
 | miwerjooggetser | 無名老圖 |  | [pixiv](https://www.pixiv.net/users/1176892) [twitter](https://twitter.com/ojiojiojisaaan) |
 | shimohara | しもはら |  | [pixiv](https://www.pixiv.net/users/17341989) [Twitter](https://twitter.com/shimohr) |

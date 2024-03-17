@@ -318,7 +318,7 @@ example:
 | dark nipples | 暗色乳头 | 暗色的乳头，有时与`pregnant`有关。不应用于`dark skin`的人。 |  |
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头。 |  |
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](# "https://ehgt.org/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg") |  |
-|  | multiple nipples多乳头 | 每只乳房有多于一个乳头。 |  |
+| 多乳头 | multiple nipples | 每只乳房有多于一个乳头。 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。 |  |
 | nipple piercing | 乳头穿孔 | 位于乳头或乳晕上的穿孔。需要`piercing`，不应与`clamp`混淆。 |  |

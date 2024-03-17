@@ -1106,7 +1106,7 @@ example:
 | kyouran kazoku nikki | 狂乱家族日记 | 《狂乱家族日记》是日日日在Fami通文库出版的轻小说。插画家为x6suke。第六届Enterbrain“Entame大奖”佳作。 |  |
 | 2x2 shinobuden | 酷伊忍者传 | 动画《酷伊忍者传》（2x2 = Shinobuden）改编自古贺亮一发表在《月刊Comic电击大王》，发刊号2000年8月号 - 2006年3月号的漫画作品。全12集。 |  |
 | marriage royale | 皇家新娘 | 《皇家新娘》是由著名美少女游戏厂商Navel，连同美少女动漫游戏杂志《電撃G's magazine》协力制作，在加上读者参与诞生的企划，企划于2006年展开，其中一大特色在于里面的女主角都是从读者投稿选拔出来的地区女生，同名漫画《皇家新娘 棱镜物语》于09年连载，PSP游戏版如今亦正式呈现在玩家的眼前。 |  |
-| beat angel escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer) (\*) |
+| choukou tenshi escalayer | 超昂天使 Escalayer | 《超昂天使 Escalayer》（日语：超昂天使エスカレイヤー -Beat Angel Escalayer-）是日本ALICESOFT在2002年8月2日发售的冒险类型成人游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/超昂天使_Escalayer) (\*) |
 | mahou senshi sweet knights | 魔法战士 Sweet Knights |  |  |
 | read or die | R.O.D | 《R.O.D》（日语：リード・オア・ダイ，英文：Read or Die）是仓田英之创作的奇幻与冒险轻小说，描述“The Paper”这位大英图书馆的特务，出版社为集英社Super Dash文库，目前出版至第11集，并且预计于第12集结束整个故事系列。 | [维基百科](https://zh.wikipedia.org/zh-cn/R.O.D) (\*) |
 | uchuu no stellvia | 宇宙星路 | 宇宙学园（中国大陆译名：宇宙星路）是以未来太阳系为舞台的日本科幻动画作品，讲述主角片瀬志麻在宇宙学院Stellvia的成长历程。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙學園) (\*) |

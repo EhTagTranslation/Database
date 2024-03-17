@@ -4474,7 +4474,7 @@ example:
 | hanbei takenaka | 竹中半兵卫 |  |  |
 | kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
-| kisaki | 龙华妃咲 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
+| ryuuge kisaki | 龙华妃咲 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
 | mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669) |
 | tsurugi kensaki | 剑先鹤城 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335) |
 | acerola | 阿塞萝拉 | 所属作品: `p:pokemon`<br><br>![](https://static.wikia.nocookie.net/pokemon/images/1/1e/Sun_Moon_Acerola.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/阿塞萝拉) [神奇宝贝百科](https://wiki.52poke.com/zh/阿塞蘿拉) [Fandom](https://pokemon.fandom.com/wiki/Acerola) |
@@ -4631,7 +4631,7 @@ example:
 | sin mal | 杏·玛尔 | 杏·玛尔是miHoYo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/42/杏·玛尔.png) | [萌娘百科](https://zh.moegirl.org.cn/杏·玛尔) |
 | bailu | 白露 |  |  |
 | tingyun | 停云 | 停云（英语：tingyun）所属作品:`p:honkai star rail`<br>是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/b/b0/停云.jpg/1024px-停云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/停云) |
-| bronya | 布洛妮娅 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png) | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·兰德) |
+| bronya rand | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/布洛妮娅·兰德) |
 | shuuko komi | 古见秀子 | 古见秀子，古见硝子的母亲，是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/74/Komi_Shuko.png) | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
 | kana arima | 有马加奈 | 有马加奈（日语：有馬（ありま）かな）。是由赤坂明创作、横枪萌果作画的漫画《【我推的孩子】》的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/有马加奈彩图.jpg) | [萌娘百科](https://zh.moegirl.org.cn/有马加奈) |
 | mina majikina | 真镜名美奈 | 真镜名美奈（日语：真鏡名 ミナ）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 零》。<br>![](https://img.moegirl.org.cn/common/8/85/19341583.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真镜名美奈) |
@@ -5126,7 +5126,7 @@ example:
 | shuro yabuki | 箭吹棕榈 | 所属作品: `p:blue archive`<br>![](https://i.pixiv.cat/c/600x600/img-master/img/2023/11/21/19/12/07/113591819_p0_master1200.jpg) |  |
 | blade | 刃 | 刃是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刃) |
 | astesia | 星极 | 星极是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星极) |
-| ichika | 仲正一花 | 仲正一花是 Nexon 发行的游戏`p:blue archive`及其衍生作品中的登场角色。 |  |
+| ichika nakamasa | 仲正一花 | 仲正一花是 Nexon 发行的游戏`p:blue archive`及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/仲正一花) |
 | nodoka amami | 天见和香 | 所属作品：`p:blue archive` |  |
 | shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
 | iris | 艾莉丝 |  |  |
@@ -5168,13 +5168,10 @@ example:
 | meteion | 梅蒂恩 |  | [梅蒂恩](https://ff14.huijiwiki.com/wiki/梅蒂恩) |
 | emil sinclair | 辛克莱 | 辛克莱（Sinclair）是《边狱巴士公司》及其衍生作品的登场角色。原型来源小说《德米安：埃米尔·辛克莱的彷徨少年时》。 | [萌娘百科](https://zh.moegirl.org.cn/辛克莱) |
 | yi sang | 李箱 | 李箱（Yi Sang）是《边狱巴士公司》及其衍生作品的登场角色。原型朝鲜象征派诗人、小说家金海卿。 | [萌娘百科](https://zh.moegirl.org.cn/李箱) |
-| ichika nakamasa | 仲正一花 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/仲正一花) |
 | gary oak | 小茂 | 小茂（日文︰オーキド・シゲル Okido Shigeru，英文︰Gary Oak），本名大木·茂，是和小智一起长大的朋友，也是小智的第一个劲敌。他是大木博士的孙子，曾是宝可梦训练家，现为研究员，梦想是成为像他爷爷一样的宝可梦博士。在宝可梦 旅途中，他是梦幻计划（日文︰プロジェクト・ミュウ）的挑战者之一。 | [https://wiki.52poke.com/zh-hans/小茂（動畫）](https://wiki.52poke.com/zh-hans/小茂（動畫）) |
 | red | 赤红 | 赤红是任天堂旗下游戏宝可梦中，第一世代游戏与第三世代火红叶绿中的主角，也是红的游戏主角的第一个默认名。是第一世代及火红·叶绿中的男性主人公。 | [萌娘百科](https://zh.moegirl.org.cn/zh/赤红) |
-| ryuuge kisaki | 龙华妃咲 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
 | coralie 6626 planck | 科拉莉·6626·普朗克 | 所属作品:`p:honkai gakuen` | [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Coralie_6626_Planck) |
 | ami nonomura | 野野村亚美 | 野々村亜美是成人动漫《`p:cream lemon`》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。 | [Fandom](https://cream-lemon.fandom.com/wiki/Ami_Nonomura) [pixiv](https://dic.pixiv.net/a/野々村亜美) |
-| bronya rand | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/布洛妮娅·兰德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
