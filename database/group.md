@@ -12727,6 +12727,7 @@ example:
 | chairoiyatsu | ちゃいろいやつ |  |  |
 | surudoiman no irutokoro | するどいマンのいるところ |  |  |
 | kinkai 100 kg | 金塊100kg |  |  |
+| mukyou no utopia | 梦境的 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
