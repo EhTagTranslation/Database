@@ -12731,6 +12731,7 @@ example:
 | ogatatei | 緒方てい | Tei Ogata<br>Manga artist<br><br>Born: Osaka | [Twitter](https://twitter.com/ogatatei?lang=en)<br>[Instagram](https://www.instagram.com/ogatatei/)<br>[pixiv](https://www.pixiv.net/en/users/339001) |
 | aota sora | あおたそら |  |  |
 | 4uu | 4UU |  |  |
+| miginer | みぎなー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
