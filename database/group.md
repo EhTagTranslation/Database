@@ -12729,6 +12729,7 @@ example:
 | kinkai 100 kg | 金塊100kg |  |  |
 | mukyou no utopia | 梦境的 |  |  |
 | nomiyagumi | ノミヤ組 |  |  |
+| manaita koujou | まな板工場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
