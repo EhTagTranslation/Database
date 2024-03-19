@@ -5175,6 +5175,7 @@ example:
 | indomitable | 不挠 | 不挠（不撓，Indomitable，インドミタブル，인도미터블）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`azur lane`》及其衍生作品中的登场角色。<br>其原型为英国皇家海军光辉级航空母舰4号舰不挠号。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:不挠) |
 | kurumi tsuchimikado | 土御门胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/土御门胡桃) |
 | ada wong | 艾达·王 | 艾达·王（英语：Ada Wong）是Capcom旗下的游戏《`resident evil`》及其衍生作品的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/艾達·王) [萌娘百科](https://zh.moegirl.org.cn/艾达·王) |
+| yamato takeru | 日本武尊(Fate) | 日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/日本武尊%28Fate%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
