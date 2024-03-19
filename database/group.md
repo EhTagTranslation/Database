@@ -12730,6 +12730,7 @@ example:
 | mukyou no utopia | 梦境的 |  |  |
 | nomiyagumi | ノミヤ組 |  |  |
 | manaita koujou | まな板工場 |  |  |
+| choukenkouya | 超健康屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
