@@ -2264,6 +2264,7 @@ example:
 | limbus company | 边狱公司 | 《边狱公司》（英语：Limbus Company，别称《边狱巴士公司》或《边狱巴士》）是由Project Moon制作并发行的回合制策略RPG类游戏，于2023年2月27日公测，是脑叶公司与废墟图书馆的同世界观续作。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/边狱公司) |
 | trigun | 枪神 | 《枪神》（トライガン，Trigun）是一个由内藤泰弘创作及插图的日本漫画系列，于1996年至2008年间连载。台湾东立曾出版前两册，第一集于1999年9月出版，译《太空游侠》。 | [维基百科](https://zh.wikipedia.org/wiki/槍神Trigun) [萌娘百科](https://zh.moegirl.org.cn/枪神) |
 | saimin seishidou | 催眠性指导 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/催眠性指導) |
+| tekkaman blade | 宇宙骑士BLADE | 《宇宙骑士铁甲人利刃》（日语：宇宙の騎士テッカマンブレード）是一部日本动画。于1992年2月18日至1993年2月2日于东京电视台放映。这部动画的前身是1975年的动画宇宙骑士铁甲人（宇宙の騎士テッカマン），但故事上和这部没关系。其主要人物曾在本作的倒数第二集客串登场。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙騎士BLADE) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
