@@ -12733,6 +12733,7 @@ example:
 | 4uu | 4UU |  |  |
 | miginer | みぎなー |  |  |
 | kenko shindan-chan | 健康診断ちゃん |  | [pixiv](https://www.pixiv.net/users/83271858) [twitter](https://twitter.com/kenko_shindan_/media) |
+| hibari | 雲雀ひな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
