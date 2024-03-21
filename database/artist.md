@@ -1472,7 +1472,7 @@ example:
 | shinozuka george | 筱塚酿二 |  |  |
 | miotama | みおたま |  |  |
 | kido keiji | 城户敬司 |  |  |
-| terada ochiko | 寺田落子 |  |  |
+| terada ochiko | 寺田落子 |  | [pixiv](https://www.pixiv.net/users/277281) |
 | chimi | ちみ |  |  |
 | haruyukiko | はるゆきこ |  |  |
 | horitomo | ほりとも |  |  |
