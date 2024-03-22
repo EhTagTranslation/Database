@@ -12734,6 +12734,7 @@ example:
 | miginer | みぎなー |  |  |
 | kenko shindan-chan | 健康診断ちゃん |  | [pixiv](https://www.pixiv.net/users/83271858) [twitter](https://twitter.com/kenko_shindan_/media) |
 | hibari | 雲雀ひな |  |  |
+| neko no youchuu | 猫の幼虫 |  | [pixiv](https://www.pixiv.net/users/72601466) [Twitter](https://twitter.com/Neko_No_Yochu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
