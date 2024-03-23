@@ -5178,6 +5178,7 @@ example:
 | yamato takeru | 日本武尊(Fate) | 日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/日本武尊%28Fate%29#) |
 | wriothesley | 莱欧斯利 | 莱欧斯利是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯利) |
 | rin uehara | 上原燐 |  |  |
+| himeno | 姬野 | 出自《电锯人》 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
