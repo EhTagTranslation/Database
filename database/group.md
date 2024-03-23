@@ -12731,6 +12731,7 @@ example:
 | nomiyagumi | ノミヤ組 |  |  |
 | manaita koujou | まな板工場 |  |  |
 | choukenkouya | 超健康屋 |  |  |
+| namekuzu | なめくず |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
