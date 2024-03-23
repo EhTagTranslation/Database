@@ -12737,6 +12737,7 @@ example:
 | neko no youchuu | 猫の幼虫 |  | [pixiv](https://www.pixiv.net/users/72601466) [Twitter](https://twitter.com/Neko_No_Yochu) |
 | to hegemonikon | ト！ヘーゲモニコン |  |  |
 | agagaga | あがががが |  | [pixiv](https://www.pixiv.net/users/45062643) |
+| namekuji | なめくじ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
