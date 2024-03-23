@@ -12738,6 +12738,7 @@ example:
 | to hegemonikon | ト！ヘーゲモニコン |  |  |
 | agagaga | あがががが |  | [pixiv](https://www.pixiv.net/users/45062643) |
 | namekuji | なめくじ |  |  |
+| bonnou obaa-chan | 煩悩おばあちゃん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
