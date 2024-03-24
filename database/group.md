@@ -12733,6 +12733,7 @@ example:
 | choukenkouya | 超健康屋 |  |  |
 | namekuzu | なめくず |  |  |
 | yuujikouji | ゆうじこうじ |  |  |
+| kuwaiya | くわい屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
