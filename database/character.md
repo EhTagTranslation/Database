@@ -3219,7 +3219,7 @@ example:
 | zatanna zatara | 扎塔娜·扎塔拉 |  | [萌娘百科](https://zh.moegirl.org.cn/扎塔娜·扎塔拉) |
 | starfire | 星火 |  | [萌娘百科](https://zh.moegirl.org.cn/星火) |
 | supergirl | 超级少女 |  | [百度百科](https://baike.baidu.com/item/超级少女/16786875) |
-| superwoman | 超级女侠 |  | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
+| superwoman | 超级女侠／女超人／超女 | 超级女侠／女超人／超女 | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
 | batwoman | 蝙蝠女侠 |  | [百度百科](https://baike.baidu.com/item/蝙蝠女侠/430714) |
 | batgirl | 蝙蝠少女 |  | [百度百科](https://baike.baidu.com/item/蝙蝠少女/19823997) |
 | barbara gordon | 芭芭拉·戈登 |  | [百度百科](https://baike.baidu.com/item/芭芭拉·戈登) |
