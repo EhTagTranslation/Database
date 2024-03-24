@@ -12732,6 +12732,7 @@ example:
 | manaita koujou | まな板工場 |  |  |
 | choukenkouya | 超健康屋 |  |  |
 | namekuzu | なめくず |  |  |
+| yuujikouji | ゆうじこうじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
