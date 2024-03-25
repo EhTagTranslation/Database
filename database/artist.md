@@ -12740,6 +12740,7 @@ example:
 | namekuji | なめくじ |  |  |
 | bonnou obaa-chan | 煩悩おばあちゃん |  |  |
 | neneneg | ねねねじ |  | [pixiv](https://www.pixiv.net/users/63861743) |
+| otemoto | おてもと |  | [pixiv](https://www.pixiv.net/users/3344891) |
 
 <!--TEMPLATE:
 |  |  |  |  |
