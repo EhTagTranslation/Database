@@ -12727,7 +12727,7 @@ example:
 | chairoiyatsu | ちゃいろいやつ |  |  |
 | surudoiman no irutokoro | するどいマンのいるところ |  |  |
 | kinkai 100 kg | 金塊100kg |  |  |
-| mukyou no utopia | 梦境的Utopia |  |  |
+| mukyou no utopia | 梦境的Utopia |  | [Twitter](https://twitter.com/utopia211008) |
 | nomiyagumi | ノミヤ組 |  |  |
 | manaita koujou | まな板工場 |  |  |
 | choukenkouya | 超健康屋 |  |  |
