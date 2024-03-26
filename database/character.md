@@ -5182,6 +5182,7 @@ example:
 | tomori takamatsu | 高松灯 | 日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 |  |
 | anon chihaya | 千早爱音 |  |  |
 | soyo nagasaki | 长崎爽世 |  |  |
+| taki shiina | 椎名立希 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
