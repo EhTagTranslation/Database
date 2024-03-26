@@ -10011,7 +10011,7 @@ example:
 | shigatake | シガタケ |  |  |
 | shigatsu sekito | 卯月赤人 |  |  |
 | shigehira | 茂平 | shige |  |
-| shigekix | しげきっくす |  |  |
+| shigekix | しげきっくす |  | [pixiv](https://www.pixiv.net/users/2656323) |
 | shigi azusa | 鴫あずさ |  |  |
 | shiguchi satoshi | シグチサトシ |  |  |
 | shigunyan | しぐにゃん |  |  |
