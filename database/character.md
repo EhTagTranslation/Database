@@ -5180,6 +5180,7 @@ example:
 | rin uehara | 上原燐 |  |  |
 | himeno | 姬野 | 出自《电锯人》 |  |
 | tomori takamatsu | 高松灯 | 日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 |  |
+| anon chihaya | 千早爱音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
