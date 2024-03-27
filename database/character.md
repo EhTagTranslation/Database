@@ -5183,6 +5183,7 @@ example:
 | anon chihaya | 千早爱音 |  |  |
 | soyo nagasaki | 长崎爽世 |  |  |
 | taki shiina | 椎名立希 |  |  |
+| penance | 斥罪 | 出自游戏《明日方舟》，本名拉维妮娅·法尔科内。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/斥罪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
