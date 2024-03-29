@@ -80,6 +80,7 @@ example:
 | bunny boy | 兔子男孩 | `bunny girl`的男性版本。 |  |
 | catboy | 猫男 | `catgirl`的男性版本。 |  |
 | centaur | 半人马 | 一半是人，一半是马。 |  |
+| corpse | 尸体 | 一具死尸。尸体本身不需要具有恋物特征（例如裸体）。不应用于`zombie`。`necrophilia`需要此标签。不需要`snuff`标签，`snuff`标签要求参与者明显被杀害。 |  |
 | cowman | 牛男 | `cowgirl`的男性版本，不要与`bull`混淆。 |  |
 | deer boy | 鹿男孩 | `deer girl`的男性版本。 |  |
 | demon | 恶魔 | 男性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与`demon girl`或`oni`标签混淆。恶魔不应该被标记为`monster`。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为`wings`标签。<br>![图](# "https://ehgt.org/9c/a0/9ca0ad80a352aa0a4fa9959a9183c765f8703f1f-89592-640-920-jpg_l.jpg")![图](# "https://ehgt.org/14/29/142956c0c2d54fb5796a2a0b74b1f83fac55d568-268136-1024-1280-jpg_250.jpg") |  |
@@ -105,7 +106,7 @@ example:
 | monkey boy | 猴男孩 | `monkey girl`的男性版本。 |  |
 | monster | 怪物 | 任何不是人类、`robot`、`demon`、动物或`furry`的角色。 |  |
 | mouse boy | 鼠男孩 | `mouse girl`的男性版本。 |  |
-| necrophilia | 奸尸 | 涉及尸体的性行为。 |  |
+| necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon`混淆。<br>![图](# "https://ehgt.org/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg") |  |
 | orc | 半兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与`pig man`或`pig girl`混淆。 |  |
 | otter boy | 水獭男孩 | `otter girl`的男性版本。 |  |
@@ -126,7 +127,7 @@ example:
 | tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上`monster`标签。 |  |
 | vampire | 吸血鬼🧛‍♂️ | 有尖尖的牙齿，饮血为生。 |  |
 | wolf boy | 狼男孩 | `wolf girl`的男性版本。 |  |
-| zombie | 僵尸🧟‍♂️ | 与僵尸性交。 |  |
+| zombie | 丧尸🧟‍♂️ | 传说中能活动的尸体。需要`monster`标签。不应援引`necrophilia`标签。 |  |
 |  | ==== 身体 > 生物 > 动物 ==== |  |  |
 | animal on animal | 兽兽 | 动物间性交。 |  |
 | animal on furry | 兽毛 | 动物与`furry`角色间的性行为。 |  |

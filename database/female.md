@@ -83,6 +83,7 @@ example:
 | bunny girl | 兔女郎 | 兔耳朵，偶尔也有一个蓬松的尾巴。<br>![图](# "https://ehgt.org/16/bc/16bcf8d035b9389e224781c734d08ae3ae8638c3-370774-1120-1200-jpg_l.jpg")![图](# "https://ehgt.org/99/7f/997f63f62a76733d7060ef745325447dbe33b755-527280-700-1036-png_l.jpg")![图](# "https://ehgt.org/c9/39/c939e1c0f8c802ec3876c1460df31448d5e73e3e-89587-800-600-jpg_l.jpg")![图](# "https://ehgt.org/08/ed/08ed83ec7db51d18fd3468667cfea901ded8ecd2-121580-425-600-jpg_l.jpg") |  |
 | catgirl | 猫女 | 有猫耳，可能有猫尾或其他猫的特征。<br>![图](# "https://ehgt.org/39/d4/39d4a263d6f06be95f138f7ee0e1ed7993876994-678569-990-1390-jpg_l.jpg")![图](# "https://ehgt.org/2e/0e/2e0e8fd5f2e6b1d4d2f31e40b187f8b06107b765-3046287-2460-3500-jpg_l.jpg")![图](# "https://ehgt.org/dc/01/dc010d2b558cf4036b5a6111681d4ed2ac99e783-1080664-2304-3341-jpg_l.jpg")![图](https://ehgt.org/e9/6a/e96af793867c816635619d2c78164f16c00fcd46-2743004-1920-1080-png_l.jpg) |  |
 | centaur | 半人马 | 一半是人，一半是马。 |  |
+| corpse | 尸体 | 一具死尸。尸体本身不需要具有恋物特征（例如裸体）。不应用于`zombie`。`necrophilia`需要此标签。不需要`snuff`标签，`snuff`标签要求参与者明显被杀害。 |  |
 | cowgirl | 牛女孩 | 有牛的特征（如耳朵、牛角、牛铃和尾巴）的女孩，常与巨乳配对。 |  |
 | deer girl | 鹿女孩 | 有鹿或驯鹿的尾巴和角的女性。男性版本见`deer boy`。 |  |
 | demon girl | 恶魔女孩 | 女性恶魔或者具有较强恶魔般外观的人形生物（翅膀，角，尖尾，皮肤异色等）。不能与`demon`或`oni`标签混淆。恶魔女孩不应该被标记为`monster girl`。只有恶魔翅膀，但没有其他的恶魔特征的角色仅限定为`wings`标签。<br>![图](# "https://ehgt.org/b8/09/b809ef8279cfef1555daea03b99eaac66c0d4cdf-378608-1048-1480-jpg_l.jpg")![图](# "https://ehgt.org/11/2a/112a272361e55f950260f049e4eb013984343f2a-278878-560-420-jpg_l.jpg")![图](# "https://ehgt.org/91/48/9148e0ee2347e0094c71d883d92929ef04a161ca-7583915-4280-3000-jpg_l.jpg")![图](# "https://ehgt.org/25/4d/254d47b1ae01c1b996e5570b4166bbb7a3b19e8a-6754903-1600-2245-png_l.jpg") |  |
@@ -107,7 +108,7 @@ example:
 | monkey girl | 猴女孩 | 有猴子的耳朵，通常也有猴子的尾巴或其他特征。 |  |
 | monster girl | 魔物娘 | `monster`的女性版本。 |  |
 | mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 |  |
-| necrophilia | 奸尸 | 涉及尸体的性行为。 |  |
+| necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon girl`混淆。<br>![图](https://ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](# "https://ehgt.org/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg")![图](# "https://ehgt.org/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg") |  |
 | orc | 半兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与`pig man`或`pig girl`混淆。 |  |
 | otter girl | 水獭女孩 | 雌性，具有长矛状长尾，圆耳朵和水獭的其他特征。 鼻口、颈部和躯干通常颜色较浅。 |  |
@@ -129,7 +130,7 @@ example:
 | tentacles | 触手 | 用于性目的的长而柔软的卷须。当没有明显的所有者时不应加上`monster`标签。<br>![图](# "https://ehgt.org/6b/78/6b78b39c64557236940c2747c705bda688294725-4744631-2894-4093-png_l.jpg")![图](# "https://ehgt.org/26/93/2693d20d30c7123bb860b0cb8b9c6732c545dc60-1429170-1200-1600-jpg_l.jpg") |  |
 | vampire | 吸血鬼🧛‍♀️ | 有尖尖的牙齿，饮血为生。 |  |
 | wolf girl | 狼女孩 | 有尖耳朵、浓密的尾巴或狼的其他特征。 |  |
-| zombie | 僵尸🧟‍♀️ | 与僵尸性交。 |  |
+| zombie | 丧尸🧟‍♀️ | 传说中能活动的尸体。需要`monster girl`标签。不应援引`necrophilia`标签。 |  |
 |  | ==== 身体 > 生物 > 动物 ==== |  |  |
 | animal on animal | 兽兽 | 动物间性交。 |  |
 | animal on furry | 兽毛 | 动物与`furry`角色间的性行为。 |  |
