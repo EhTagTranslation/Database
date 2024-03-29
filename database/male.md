@@ -319,7 +319,7 @@ example:
 | dark nipples | 暗色乳头 | 暗色的乳头，有时与`pregnant`有关。不应用于`dark skin`的人。 |  |
 | dicknipples | 阴茎乳头 | 阴茎形状的乳头。 |  |
 | inverted nipples | 乳头内陷 | 缩回乳房内的乳头。 通常通过刺激或拉动带出。<br>![对于男孩子好像看不出什么嘛](# "https://ehgt.org/fd/6c/fd6caeba67f9db0fdfdf6bd98aee3091ac186220-2138147-2125-3000-jpg_l.jpg") |  |
-| 多乳头 | multiple nipples | 每只乳房有多于一个乳头。 |  |
+| multiple nipples | 多乳头 | 每只乳房有多于一个乳头。 |  |
 | nipple birth | 乳头出产 | 通过乳头分娩。不应用于`eggs`。 |  |
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。 |  |
 | nipple piercing | 乳头穿孔 | 位于乳头或乳晕上的穿孔。需要`piercing`，不应与`clamp`混淆。 |  |
@@ -486,7 +486,7 @@ example:
 | tiara | 宝冠 | 半圆形礼服头带，款式可能不同，但靠近额头。经常由君主和魔女穿。不应与`crown`混淆。<br>![](https://ehgt.org/78/20/7820910ee88a0d5db820aceb371542babd9801e5-1100921-1920-1080-jpg_l.jpg) |  |
 | tights | 厚连裤袜 | 西方将各种材质的裤袜都称为`tights`，40D 以下的薄裤袜才称为`pantyhose`。<br>![图](https://ehgt.org/12/f2/12f2ce7b89fd25e7ee6dd72ff833ca4efe3623b9-131266-811-1147-jpg_l.jpg) |  |
 | tracksuit | 运动服 | 合成材料制成的匹配的衬衫和裤子，意在诱发出汗，用于锻炼或运动。只需有一部分衣服在性期间留下。 |  |
-|  | transparent clothing透明服装 | 穿着时覆盖裆部或胸部区域的任何类型的透明服装。只适用于在这两个区域设计透明的服装。<br>不用于`pantyhose`或`wet clothes`。不要与`exposed clothing`混淆。 |  |
+| transparent clothing | 透明服装 | 穿着时覆盖裆部或胸部区域的任何类型的透明服装。只适用于在这两个区域设计透明的服装。<br>不用于`pantyhose`或`wet clothes`。不要与`exposed clothing`混淆。 |  |
 | waiter | 男侍者装 | 女侍者装的男性版本。不应与`waitress`或`butler`混淆。 |  |
 | waitress | 女侍者装 | 在餐厅工作的女孩穿的制服; 通常浅色的衣服，有时包括围裙或裙子。不应与`waiter`或`maid`混淆。需要`crossdressing`标签。 |  |
 | wet clothes | 湿身 | 由于水或其他液体导致潮湿透明的衣服。 |  |

@@ -3219,7 +3219,7 @@ example:
 | zatanna zatara | 扎塔娜·扎塔拉 |  | [萌娘百科](https://zh.moegirl.org.cn/扎塔娜·扎塔拉) |
 | starfire | 星火 |  | [萌娘百科](https://zh.moegirl.org.cn/星火) |
 | supergirl | 超级少女 |  | [百度百科](https://baike.baidu.com/item/超级少女/16786875) |
-| superwoman | 超级女侠／女超人／超女 | 超级女侠／女超人／超女 | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
+| superwoman | 超级女侠 | 超级女侠／女超人／超女 | [百度百科](https://baike.baidu.com/item/超级女侠/19824448) |
 | batwoman | 蝙蝠女侠 |  | [百度百科](https://baike.baidu.com/item/蝙蝠女侠/430714) |
 | batgirl | 蝙蝠少女 |  | [百度百科](https://baike.baidu.com/item/蝙蝠少女/19823997) |
 | barbara gordon | 芭芭拉·戈登 |  | [百度百科](https://baike.baidu.com/item/芭芭拉·戈登) |
@@ -4474,7 +4474,6 @@ example:
 | hanbei takenaka | 竹中半兵卫 |  |  |
 | kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
-| ryuuge kisaki | 龙华妃咲 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
 | mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669) |
 | tsurugi kensaki | 剑先鹤城 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335) |
 | acerola | 阿塞萝拉 | 所属作品: `p:pokemon`<br><br>![](https://static.wikia.nocookie.net/pokemon/images/1/1e/Sun_Moon_Acerola.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/阿塞萝拉) [神奇宝贝百科](https://wiki.52poke.com/zh/阿塞蘿拉) [Fandom](https://pokemon.fandom.com/wiki/Acerola) |
@@ -5050,12 +5049,12 @@ example:
 | kiiko kawakami | 川上纪衣子 | 17岁。高中二年级。比较体弱的女孩，因一次车祸使得自己获得了能用意念移动物体的不可思议的能力，能力的大小与范围跟物体的重量、体积有关。是个腼腆型的百合向女孩，一直喜欢同班的`c:aaya saitou`。 |  |
 | princess gradriel de valendia | 海拉加德的公主 | 所属作品:`p:etrian odyssey`<br>治理海拉加德公国的王族公主。尽管年幼，但是一位努力支持公国的女性。<br>![](https://sq-atlus.jp/ssq2/character/images/character_princess_large.png) | [公式介绍页](https://sq-atlus.jp/ssq2/character/princess.html) |
 | olivier mira armstrong | 奥利维亚·米拉·阿姆斯特朗 | 《`p:fullmetal alchemist`》中阿姆斯特朗家族年轻一代的长女，阿姆斯特朗少校的姐姐，北方军团的司令官，偶尔会说出弟弟的台词「这是我们阿姆斯特朗家代代相传的……」 | [萌娘百科](https://zh.moegirl.org.cn/奥利维亚·米拉·阿姆斯特朗) |
-| aqua hoshino | 阿库亚（星野爱久爱海） |  |  |
+| aqua hoshino | 星野爱久爱海（阿库亚） |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/星野爱久爱海) |
 | miyako saitou | 齐藤京子 | 齐藤美弥子。<br>《【我推的孩子】》及其衍生作品中的角色。莓pro事务所社长齐藤一护的妻子。在爱死后接手了丈夫所在的事务所，并收养了露比和阿库亚。 |  |
 | airi kurimura | 栗村爱莉 | 所属作品: `p:blue archive` |  |
 | rentarou aijou | 爱城恋太郎 | 爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》的男主角。 |  |
-| karane inda | 院田唐音 | 《超超超超超喜欢你的100个女朋友》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
-| hakari hanazono | 花园羽香里 | 《超超超超超喜欢你的100个女朋友》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
+| karane inda | 院田唐音 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
+| hakari hanazono | 花园羽香里 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
 | mayling shen | 沈美玲 | 少女前线2角色 | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
 | akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive` |  |
 | kikyou kiryuu | 桐生桔梗 | 所属作品：`p:blue archive` |  |
@@ -5078,7 +5077,7 @@ example:
 | vladilena milize | 芙拉蒂蕾娜·米利杰 | 所属作品: `p:86`<br><br>本名芙拉蒂蕾娜·米利杰。圣玛格诺利亚共和国军人，是一名十六岁便晋升少校的精英。出身白银种旧封建贵族的大小姐。和大多数麻木不仁的圣玛格诺利亚国民不同，拒绝将“八六”视为用过即弃的工具。 | [萌娘百科](https://zh.moegirl.org.cn/芙拉蒂蕾娜·米利杰) |
 | sharon | 莎郎 \| 莎朗·荷莉格蕾尔 | 所属作品: `p:words worth`<br>莎郎，女主角，影之一族的最强女剑士，男主角的未婚妻和青梅竹马。喜欢最强的男性，险遭光之一族国王强奸玷污，后被男主角拯救，与之共赴爱河。<br><br>所属作品: `p:engage kiss`<br>莎朗·荷莉格蕾尔，女主角之一，表面上是支持博爱主义的“星天教会”的修女，实际上是世界最大的驱魔师集团的代理人。 | [莎郎](https://bangumi.tv/character/23847) [莎朗·荷莉格蕾尔](https://zh.moegirl.org.cn/莎朗·荷莉格蕾尔) |
 | warlock | 术士 |  |  |
-| tamaki kotatsu | 環古達 |  |  |
+| tamaki kotatsu | 环古达 |  |  |
 | brigitte lindholm | 布丽吉塔 |  |  |
 | tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
 | kamille bidan | 卡缪·比丹 | 翻译别称：卡缪·维丹 | [百度百科](https://baike.baidu.com/item/卡缪·维丹/7154634?fr=ge_ala)<br>[萌娘百科](https://mzh.moegirl.org.cn/卡缪·比丹) |
@@ -5175,7 +5174,7 @@ example:
 | indomitable | 不挠 | 不挠（不撓，Indomitable，インドミタブル，인도미터블）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`azur lane`》及其衍生作品中的登场角色。<br>其原型为英国皇家海军光辉级航空母舰4号舰不挠号。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:不挠) |
 | kurumi tsuchimikado | 土御门胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/土御门胡桃) |
 | ada wong | 艾达·王 | 艾达·王（英语：Ada Wong）是Capcom旗下的游戏《`resident evil`》及其衍生作品的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/艾達·王) [萌娘百科](https://zh.moegirl.org.cn/艾达·王) |
-| yamato takeru | 日本武尊(Fate) | 日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/日本武尊%28Fate%29#) |
+| yamato takeru | 日本武尊 | 日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/日本武尊%28Fate%29#) |
 | wriothesley | 莱欧斯利 | 莱欧斯利是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯利) |
 | rin uehara | 上原燐 |  |  |
 | himeno | 姬野 | 出自《电锯人》 |  |
@@ -5184,8 +5183,8 @@ example:
 | soyo nagasaki | 长崎爽世 |  |  |
 | taki shiina | 椎名立希 |  |  |
 | penance | 斥罪 | 出自游戏《明日方舟》，本名拉维妮娅·法尔科内。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/斥罪) |
-| kisaki ryuuge | 龙华咲妃 | 所属作品：蔚蓝档案(blue archive)<br>山海经高级中学的学生会『玄龙门』会长，被部下称为门主大人，被山海经众人所尊敬和敬畏。<br>与娇小和幼态的外表相反，她说话的风格十分古典，自称为“妾身”。<br>玄龙门是一个以中国黑帮为原型的组织，非常重视古老的传统。虽然是学生会，但据说是一个为了保密而毫不容情像影子一般的组织。作为玄龙门顶端领袖的她，被人称为「山海经的黑色君主」。散发着让周围人畏惧的独特的威压感，虽然看上去还是个小孩子，但却有着与会长地位相符的气势。实际上，她在管理和运营组织方面做的非常出色，利用在山海经发生的问题，为自己创造有利的局面，仿佛一切都在她的掌握之中，是一个头脑敏锐的人。<br>尽管给人的印象是重视传统的黑帮组织会长，但她个人却非常珍视山海经的大家，对于因理念不合而产生冲突的玄武商会，她也将其视作「山海经的一份子」。尽管是组织的最高层，有时也会亲自（伪装成玄龙门的普通成员）前往现场，并说：“有些东西是坐在椅子上看不到的。”<br>很在意自己的身高，为了长高，她努力练习万岁体操，但是却没有效果。 | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) |
-| takane miyoshi | 三善贵音 | 所属作品: 蔚蓝档案(blue archive) | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png) |
+| kisaki ryuuge | 龙华妃咲 | 所属作品: `p:blue archive`<br>山海经高级中学的学生会『玄龙门』会长，被部下称为门主大人，被山海经众人所尊敬和敬畏。<br>与娇小和幼态的外表相反，她说话的风格十分古典，自称为“妾身”。<br>玄龙门是一个以中国黑帮为原型的组织，非常重视古老的传统。虽然是学生会，但据说是一个为了保密而毫不容情像影子一般的组织。作为玄龙门顶端领袖的她，被人称为「山海经的黑色君主」。散发着让周围人畏惧的独特的威压感，虽然看上去还是个小孩子，但却有着与会长地位相符的气势。实际上，她在管理和运营组织方面做的非常出色，利用在山海经发生的问题，为自己创造有利的局面，仿佛一切都在她的掌握之中，是一个头脑敏锐的人。<br>尽管给人的印象是重视传统的黑帮组织会长，但她个人却非常珍视山海经的大家，对于因理念不合而产生冲突的玄武商会，她也将其视作「山海经的一份子」。尽管是组织的最高层，有时也会亲自（伪装成玄龙门的普通成员）前往现场，并说：“有些东西是坐在椅子上看不到的。”<br>很在意自己的身高，为了长高，她努力练习万岁体操，但是却没有效果。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html) |
+| takane miyoshi | 三善贵音 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png) |  |
 | kiriko kamori | 家守雾子 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/家守雾子) |
 | genji | 源氏 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/岛田源氏) |
 
