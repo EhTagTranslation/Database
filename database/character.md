@@ -5187,6 +5187,7 @@ example:
 | takane miyoshi | 三善贵音 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png) |  |
 | kiriko kamori | 家守雾子 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/家守雾子) |
 | genji | 源氏 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/岛田源氏) |
+| ichigo kurosaki | 黑崎一护 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
