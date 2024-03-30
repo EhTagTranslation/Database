@@ -2266,7 +2266,7 @@ example:
 | shadan katsudoh | 遮断活動 |  |  |
 | tougen shokken | 桃幻食研 |  |  |
 | ciel-arc | しえるあーく |  |  |
-| meshi shinja | 饭信者 |  | [pixiv](https://www.pixiv.net/users/73419977) |
+| meshi shinja | 饭信者 |  | [pixiv](https://www.pixiv.net/users/73419977) [Twitter](https://twitter.com/mesisinja)  [FANBOX](https://mesisinja.fanbox.cc/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50797.html) |
 | ishimuraya | 石村屋 |  |  |
 | seika kairaku shoten | 圣华快乐书店 |  |  |
 | ringo no naru ki | 林檎のなる木 |  |  |
