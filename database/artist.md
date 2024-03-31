@@ -12743,6 +12743,7 @@ example:
 | otemoto | おてもと |  | [pixiv](https://www.pixiv.net/users/3344891) |
 | yamato hotaru | ヤマト蛍 |  |  |
 | kakure area | 影おじ | ![](https://pbs.twimg.com/profile_images/1440361839640989701/BcT06xRc_400x400.jpg)<br>作者推特头像 | [pixiv](https://www.pixiv.net/users/6570768) [twitter](https://twitter.com/kakushi_eria_b) |
+| muromaki | ムロマキ |  | [Twitter](https://twitter.com/mrmk_z/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
