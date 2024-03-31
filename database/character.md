@@ -5189,6 +5189,7 @@ example:
 | genji | 源氏 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/岛田源氏) |
 | ichigo kurosaki | 黑崎一护 |  |  |
 | retsu unohana | 卯之花烈 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/卯之花烈) |
+| rui yashio | 八潮瑠唯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
