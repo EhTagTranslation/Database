@@ -5190,6 +5190,7 @@ example:
 | ichigo kurosaki | 黑崎一护 |  |  |
 | retsu unohana | 卯之花烈 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/卯之花烈) |
 | rui yashio | 八潮瑠唯 |  |  |
+| miles morales | 迈尔斯·莫拉雷斯 | 漫威漫画系列登场角色 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/迈尔斯·莫拉雷斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
