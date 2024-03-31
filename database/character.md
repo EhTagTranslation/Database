@@ -5191,6 +5191,7 @@ example:
 | retsu unohana | 卯之花烈 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/卯之花烈) |
 | rui yashio | 八潮瑠唯 |  |  |
 | miles morales | 迈尔斯·莫拉雷斯 | 漫威漫画系列登场角色 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/迈尔斯·莫拉雷斯) |
+| stella | 星 | 开拓者是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/开拓者•毁灭)<br>[百度百科](https://baike.baidu.com/item/开拓者/59235148)<br>[Fandom](https://honkai-star-rail.fandom.com/zh/wiki/开拓者?variant=zh)<br>[萌娘百科](https://zh.moegirl.org.cn/zh-hans/开拓者) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
