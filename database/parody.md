@@ -1633,7 +1633,7 @@ example:
 | elden ring | 艾尔登法环 | 《艾尔登法环》（英语：Elden Ring，日语：エルデンリング）是由FromSoftware开发，万代南梦宫娱乐发行的一款动作角色扮演游戏，发行于Microsoft Windows、PlayStation 4、PlayStation 5、Xbox One和Xbox Series X/S平台。本作于2019年6月10日在E3电子娱乐展上正式公布，2022年2月25日发售。 | [官方网站](https://www.eldenring.jp/) [萌娘百科](https://zh.moegirl.org.cn/艾尔登法环) |
 | otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta... | 转生成为了只有乙女游戏破灭Flag的邪恶大小姐 | 《转生成为了只有乙女游戏破灭Flag的邪恶大小姐》（日语：乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…）是由山口悟创作、ひだかなみ插画的一部轻小说，并有漫画等衍生作品。<br>![](https://p.sda1.dev/5/bca517b0b7bf4e4cdcdef3738cea302d/Otomegame_anime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/转生成为了只有乙女游戏破灭Flag的邪恶大小姐) |
 | osomatsu-san | 阿松 | 《阿松》（日语：おそ松くん）是由赤冢不二夫创作的一部搞笑题材的漫画，有动画、真人电影等衍生作品。<br>![](https://p.sda1.dev/5/144cf51c8ffb283256031cab7a88076e/796px-Osomatsu-san_S3_kv.jpg) | [阿松(作品)](https://zh.moegirl.org.cn/阿松%28作品%29) |
-| arena of valor | 王者荣耀 |  |  |
+| arena of valor | 传说对决 |  | [维基百科](https://zh.wikipedia.org/wiki/傳說對決)<br>[Fandom](https://arenaofvalor.fandom.com/wiki/Arena_of_Valor_Wiki) |
 | douluo continent | 斗罗大陆 | 唐家三少创作的玄幻小说。 |  |
 | grand blue | 碧蓝之海 |  |  |
 | blue submarine no. 6 | 青之6号 | 《青之6号》（日语：青の6号）是小泽晓的漫画作品。1967年在“周刊少年Sunday”连载，之后由GONZO制作OVA。 | [维基百科](https://zh.wikipedia.org/zh/青之6號) |
