@@ -1145,7 +1145,7 @@ example:
 | gura nyuutou | ぐら乳頭 |  |  |
 | inomaru | いのまる |  |  |
 | iori yuzuru | 庵让 |  |  |
-| itaba hiroshi | 板场广志 | ![twitter](https://pbs.twimg.com/profile_images/1248653803/1931____3_400x400.png)<br><br>**作者推特头像**<br><br>漫画家，最初以“板場広し”为笔名进行连载。<br>青年漫画（主要用“広志”名义）和成人漫画（主要用“広し”名义）来进行绘画。<br>在动画师的工作上面则使用本名“伊多波広”名义。 | [twitter](https://twitter.com/itaba_tatamiya) [pixiv]() |
+| itaba hiroshi | 板场广志 | ![twitter](https://pbs.twimg.com/profile_images/1248653803/1931____3_400x400.png)<br><br>**作者推特头像**<br><br>漫画家，最初以“板場広し”为笔名进行连载。<br>青年漫画（主要用“広志”名义）和成人漫画（主要用“広し”名义）来进行绘画。<br>在动画师的工作上面则使用本名“伊多波広”名义。 | [twitter](https://twitter.com/itaba_tatamiya) |
 | james hotate | ジェームスほたて |  |  |
 | jamming | じゃみんぐ |  |  |
 | mitsuki rintarou | 水月林太郎 |  |  |
@@ -2463,7 +2463,7 @@ example:
 | amagasa ikuta | 雨暈郁太 |  |  |
 | sukesaburou | 助三郎 |  |  |
 | jiraiya | 児雷也 |  |  |
-| kuromotokun | 黑本君 | ![twitter](https://pbs.twimg.com/profile_images/1628815883975168001/DQXYSKOO_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`micro page`主笔画师 | [twitter]() [pixiv]() |
+| kuromotokun | 黑本君 | ![twitter](https://pbs.twimg.com/profile_images/1628815883975168001/DQXYSKOO_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`micro page`主笔画师 | |
 | gomano lio | 胡麻乃りお |  | [Twitter](https://twitter.com/gomalio_y) [pixiv](https://www.pixiv.net/users/431880) |
 | shiratama moti | 白玉もち |  | [pixiv](https://www.pixiv.net/users/297323) [Twitter](https://twitter.com/shira_tama_2gou) |
 | shiratama yomogi | しらたま よもぎ |  | [Twitter](https://twitter.com/shiratama9) [pixiv](https://www.pixiv.net/users/11355) |
