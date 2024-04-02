@@ -10412,7 +10412,7 @@ example:
 | sumeragi kou | すめらぎこう |  |  |
 | sumeragi seisuke | 皇征介 |  |  |
 | sumeragi yuusuke | 皇裕介 |  |  |
-| sumeshi | 酢飯 |  |  |
+| sumeshi | すめし |  |  |
 | sumihey | すみ兵 |  |  |
 | sumio | すみおー |  |  |
 | sumisaki yuduna | 住咲ゆづな |  |  |
