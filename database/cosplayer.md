@@ -45,7 +45,7 @@ example:
 | lenfried | lenfried | lenfried（れんふりーど），又称莲姐、莲妹，日本著名COSER，HeruHeru3社团成员。自C74起开始在各届Comic Market上发售自己的cos写真集作品后，深受广大粉丝喜爱。其代表作品有《东方恋莲録》、《枫帐》等。 |  |
 | xidaidai | 习呆呆 |  |  |
 | senluo caituan | 森萝财团 |  | [Twitter](https://twitter.com/senluocaituan) |
-| pigma | Pigman | `m:tomgirl` | [patreon](https://www.patreon.com/pigman) |
+| pigma | Pigman | `m:tomgirl` | [Patreon](https://www.patreon.com/pigman) |
 | abaoyeshituniang | 阿包也是兔娘 |  | [bilibili](https://space.bilibili.com/384435799) |
 | kimmie mi | 蜜蜜子 |  | [Twitter](https://twitter.com/mimizikimmie) [微博](https://weibo.com/u/7297128193) [bilibili](https://space.bilibili.com/474643478) |
 | aqua area | 水淼Aqua |  | [Twitter](https://twitter.com/aqua28551264) |
@@ -68,7 +68,7 @@ example:
 | rio-chan | 愛瀬りおな | Old name seem to have been Aise Riona (愛瀬りおな) but they have gone by many names りおりおちゃん, りおちゃん, 璃緒ちゃん, りお, りおりお, riona, りおな, 愛瀬くりぃむ店, 愛瀬りおな | [Twitter](https://twitter.com/riorio0701) [Getchhu](https://dl.getchu.com/search/dojin_circle_detail.php?id=4338) |
 | siao ding | 小丁 |  |  |
 | franxcos | FranXcos |  |  |
-| junkenstein | Junkenstein |  | [patreon](ttps://www.patreon.com/junkenstein) [Instagram](https://www.instagram.com/junkenstein/) |
+| junkenstein | Junkenstein |  | [Patreon](ttps://www.patreon.com/junkenstein) [Instagram](https://www.instagram.com/junkenstein/) |
 | helly von valentine | Helly von Valentine |  | [Twitter](https://twitter.com/hellyvalentine_) |
 | penkarui | Penkarui |  |  |
 | mizhimaoqiu | 蜜汁猫裘 |  | [Twitter](https://mobile.twitter.com/meeu228744495) |

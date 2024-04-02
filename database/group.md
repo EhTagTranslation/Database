@@ -58,7 +58,7 @@ example:
 | may-be soft | May-Be SOFT | Tech Arts 旗下品牌，画师以`akaza`为主。<br>Tech Arts已破产 | [官方网站](http://www.maybesoft.jp) |
 | squeez | SQUEEZ | Tech Arts 旗下品牌。<br>Tech Arts已破产，原班人马已成立新公司`milk factory`进行活动。 | [官方网站](http://squeez-soft.jp) |
 | milk factory | みるふぁく | 母公司 Tech Arts 破产后，SQUEEZ 原班人马成立的新公司。 | [官方网站](https://milkfactory.jp) |
-| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALICESOFT) [官方网站](http://www.alicesoft.com/) (日语) [Twitter](https://twitter.com/alice_soft) (日语) [YouTube](https://www.youtube.com/@alicesoftchannel) (日语) (\*) |
+| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/wiki/ALICESOFT) [官方网站](http://www.alicesoft.com/) (日语) [Twitter](https://twitter.com/alice_soft) (日语) [YouTube](https://www.youtube.com/@alicesoftchannel) (日语) (\*) |
 | omega star | ωstar |  |  |
 | norn | Norn |  |  |
 | aries | Aries |  |  |
@@ -73,11 +73,11 @@ example:
 | skyfish poco | SkyFish poco |  |  |
 | chelseasoft | Chelseasoft |  |  |
 | sphere | Sphere |  |  |
-| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/zh-cn/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
+| hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
 | smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
 | asa project | ASa Project |  | [官方网站](http://www.asa-pro.com/top.html) (\*) |
 | rosebleu | Rosebleu |  |  |
-| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
+| clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
 | honey soft | HONEY SOFT |  |  |
 | appetite | アパタイト |  |  |
 | pakopako soft | ぱこぱこそふと |  |  |
@@ -110,7 +110,7 @@ example:
 | key | 🔑Key | Key 会社<br>![logo](http://key.visualarts.gr.jp/common/logo.gif)<br>神作工厂<br>![图](https://ehgt.org/9c/f3/9cf34e2a965583459c5b466b2b732bd2380bf9da-198132-1122-1600-jpg_250.jpg) | [官方网站](http://key.visualarts.gr.jp/) |
 | alcot | ALcot | ![logo](http://www.alcot.biz/img/logo.png)<br>画风棒<br>![图](https://ehgt.org/ea/e9/eae900f8b36399c9b2bef3635829ff1f0252bee5-6200881-2470-3480-png_250.jpg) | [官方网站](http://www.alcot.biz/) |
 | alcot honey comb | ALcot Honey Comb | ![logo](http://e.hiphotos.baidu.com/baike/w%3D268%3Bg%3D0/sign=63a5f1e08026cffc692ab8b4813a2dad/4ec2d5628535e5dd33f122a674c6a7efcf1b62ee.jpg)<br>ALcot 旗下品牌<br>![图](https://ehgt.org/dc/8a/dc8ad8858eff60123144936beda060fb4e6c6bd1-116605-320-460-jpg_250.jpg) | [官方网站](hhttp://www.h-comb.biz/) |
-| august | AUGUST | AUGUST（オーガスト）是日本叶月株式会社旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。<br>![图](https://ehgt.org/45/a6/45a62a87e7ea4496033b9e24fd60228ba07546aa-75238-320-490-jpg_l.jpg)![图](https://ehgt.org/a0/27/a027f455298046a8a89cc2048b8eed79bf341621-151465-350-500-jpg_l.jpg) | [官方网站](http://august-soft.com/) [维基百科](https://zh.wikipedia.org/zh-cn/AUGUST) (\*) |
+| august | AUGUST | AUGUST（オーガスト）是日本叶月株式会社旗下专责开发贩售成人游戏的品牌，目前加入以戏画为首的Partner Brand。在网络上常常以八月来称呼该公司。<br>![图](https://ehgt.org/45/a6/45a62a87e7ea4496033b9e24fd60228ba07546aa-75238-320-490-jpg_l.jpg)![图](https://ehgt.org/a0/27/a027f455298046a8a89cc2048b8eed79bf341621-151465-350-500-jpg_l.jpg) | [官方网站](http://august-soft.com/) [维基百科](https://zh.wikipedia.org/wiki/AUGUST) (\*) |
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org.cn/Feng) [官方网站](http://www.feng.jp/) (\*\*) |
 | frontwing | FrontWing | FrontWing是一家于2000年成立的日本成人游戏公司。<br>《魔界天使》系列<br>![图](https://ehgt.org/e9/5c/e95c9f224df3b10a1b4abdcb80abdbf8f99d696d-162659-640-480-jpg_l.jpg)![图](https://ehgt.org/c8/b0/c8b0c1166971d2a52ee4ad822b925a3ad3817eda-91664-800-600-jpg_l.jpg)<br>灰色系列<br>![图](https://ehgt.org/db/24/db244a8ef416fe798d52fdeb41255c6b531b0ca6-60857-352-500-jpg_l.jpg)![图](https://ehgt.org/7f/29/7f298694d6119bd657231034cd03b8f7c670a99a-113136-320-460-jpg_l.jpg)![图](https://ehgt.org/43/53/435307984b8e29fe0a604a7de2a2b9f990c3baf0-110607-320-460-jpg_l.jpg) | [官方网站](http://frontwing.jp/) |
 | atelier d | Atelier D |  |  |
@@ -133,7 +133,7 @@ example:
 | candysoft | Candy Soft |  |  |
 | ricotta | Ricotta | Ricotta（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的成人游戏品牌。品牌名称Ricotta是一种意大利原产的奶制品。 | [维基百科](https://zh.wikipedia.org/wiki/Ricotta) [官方网站](http://www.ricotta-soft.jp/) (\*) |
 | whirlpool | Whirlpool | ![logo](https://whirlpool.co.jp/favicon.ico) | [官方网站](https://whirlpool.co.jp) |
-| giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。<br>戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/zh-cn/戲畫_%28遊戲品牌%29) (\*) |
+| giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。<br>戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/wiki/戲畫_%28遊戲品牌%29) (\*) |
 | milksoft | 牛奶软件 |  |  |
 | cygames | Cygames | 株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。 | [官方网站](https://www.cygames.co.jp/) [维基百科](https://zh.wikipedia.org/wiki/Cygames) |
 | keroq | ケロQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [官网](https://www.keroq.co.jp/index02.html) |
@@ -141,7 +141,7 @@ example:
 | fairytale | fairytale | FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。<br><br>1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在<br><br>2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。 | [FAIRYTALE](https://zh.wikipedia.org/wiki/FAIRYTALE) [F&C<br>](https://zh.wikipedia.org/wiki/F%26C) |
 |  | ▲ GAL公司 |  |  |
 |  | ▼ 其他游戏公司 |  |  |
-| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/zh-cn/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
+| falcom | Falcom | 日本Falcom股份有限公司（日语：日本ファルコム株式会社；英语：Nihon Falcom Corporation）是主要开发及贩售电脑游戏软体的日本公司，其代表作品有《Dragon Slayer系列》、《伊苏系列》和《英雄传说系列》等。 | [维基百科](https://zh.wikipedia.org/wiki/日本Falcom) [官方网站](http://www.falcom.co.jp/) (\*) |
 | softstar | 大宇资讯 | ![logo](http://www.softstar.net.cn/Public/static/root/img/logo.jpg)<br>仙剑奇侠传系列、轩辕剑系列等作品。 | [官方网站](http://www.softstar.net.cn) |
 | dmm.com | DMM.com | ![logo](http://p.dmm.com/p/common/header/logo/logo_com.png)<br>DMM，可以简单理解为日本当前最为火爆的页游平台。DMM Games参与开发并在自家平台上发行的产品《舰队Collection》是时下日本最火的页游 | [官方网站](http://www.dmm.com) |
 | kadokawa | KADOKAWA | ![](http://www.kadokawa.co.jp/common/img/logo_kadokawa.png)<br>KADOKAWA公司（日语：株式会社KADOKAWA；英语：KADOKAWA CORPORATION）是一家日本出版公司，为角川多玩国的子公司，也是KADOKAWA集团的核心，拥有包含角川书店在内的诸多品牌。 | [维基百科](https://zh.wikipedia.org/wiki/KADOKAWA) [官方网站](http://www.kadokawa.co.jp) (\*) |
@@ -305,7 +305,7 @@ example:
 | sakananekobeya | 鱼猫部屋 |  |  |
 | white drop | ホワイトドロップ |  |  |
 | dieselmine | ディーゼルマイン |  |  |
-| ojou no yokushitsu | お嬢の浴室 | ![图](https://ehgt.org/61/83/61839b5be9d395226cd990bab3c38261914a6ec9-289342-1500-800-jpg_l.jpg)<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>社团代表人：鉄人（参照标签`tetsujin`）<br>[Twitter](https://twitter.com/tetsujinybc) [Pixiv](https://www.pixiv.net/users/19383935)<br>初代作画担当：AYA （参照标签`aya`）<br>[Twitter](https://twitter.com/aya_ojo) [Youtube](https://www.youtube.com/c/星乃RAKUGAKIX)<br>C90后二代目作画担当：ひよさん（参照标签`hiyoko`）<br>[Twitter](https://twitter.com/hiyogeki) [Pixiv](https://www.pixiv.net/users/463143) | [官方网站](https://ojounoyokushitsu.tumblr.com) |
+| ojou no yokushitsu | お嬢の浴室 | ![图](https://ehgt.org/61/83/61839b5be9d395226cd990bab3c38261914a6ec9-289342-1500-800-jpg_l.jpg)<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>社团代表人：鉄人（参照标签`tetsujin`）<br>[Twitter](https://twitter.com/tetsujinybc) [pixiv](https://www.pixiv.net/users/19383935)<br>初代作画担当：AYA （参照标签`aya`）<br>[Twitter](https://twitter.com/aya_ojo) [YouTube](https://www.youtube.com/c/星乃RAKUGAKIX)<br>C90后二代目作画担当：ひよさん（参照标签`hiyoko`）<br>[Twitter](https://twitter.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) | [官方网站](https://ojounoyokushitsu.tumblr.com) |
 | nagiyamasugi | ナギヤマスギ |  | [pixiv](https://www.pixiv.net/users/62628) [官方网站](http://nagiyamasugi.com) |
 | awatake | あわたけ |  |  |
 | gasobook | GASOBooK!! |  |  |
@@ -909,7 +909,7 @@ example:
 | datenshi no ana | 墮天使の坑 |  |  |
 | mix fry | みっくすふらい |  |  |
 | kokonokaya | 九日屋 |  |  |
-| orangemaru | OrangeMaru | **社团LOGO**<br>![twitter](https://pbs.twimg.com/profile_images/676052483978866690/93JShOhZ_400x400.png)<br><br>以日韩画师`yd`、`jp06`、`ame`三人为首的人气同人社团<br><br>**社团作品一览**<br>![works](# "https://pbs.twimg.com/media/E7YFHs4VEAMjlfg?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJI4UUAUSF5V?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJ8JUUAE3Cf7?format=jpg&name=large") | [twitter](https://twitter.com/orangemaru_) [pixiv](https://www.pixiv.net/users/736905) |
+| orangemaru | OrangeMaru | **社团LOGO**<br>![twitter](https://pbs.twimg.com/profile_images/676052483978866690/93JShOhZ_400x400.png)<br><br>以日韩画师`yd`、`jp06`、`ame`三人为首的人气同人社团<br><br>**社团作品一览**<br>![works](# "https://pbs.twimg.com/media/E7YFHs4VEAMjlfg?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJI4UUAUSF5V?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJ8JUUAE3Cf7?format=jpg&name=large") | [Twitter](https://twitter.com/orangemaru_) [pixiv](https://www.pixiv.net/users/736905) |
 | ishikawa pro | 石川プロ |  |  |
 | neyukidou | 根雪堂 |  |  |
 | o.n art works | O.N Art Works |  |  |
@@ -1042,7 +1042,7 @@ example:
 | ruman-dou | るまん堂 |  |  |
 | kaientai | 絵援隊 |  |  |
 | atugi de 5 | 厚木で5時 |  |  |
-| sol-fa-soft | sol-fa-soft | sol-fa-soft 成人向同人游戏创作社团。<br>主要创作以`lolicon`、`exhibitionism`相关的同人游戏以及插画集。<br>主要参与作者一览：<br>`anyanko`<br>`shouji ayumu`<br>`tanaha`<br>`kiyose` | [官方网站](http://www.solfa.jp/) [Twitter](https://twitter.com/kiri_sol) [Pixiv](https://www.pixiv.net/users/868490) |
+| sol-fa-soft | sol-fa-soft | sol-fa-soft 成人向同人游戏创作社团。<br>主要创作以`lolicon`、`exhibitionism`相关的同人游戏以及插画集。<br>主要参与作者一览：<br>`anyanko`<br>`shouji ayumu`<br>`tanaha`<br>`kiyose` | [官方网站](http://www.solfa.jp/) [Twitter](https://twitter.com/kiri_sol) [pixiv](https://www.pixiv.net/users/868490) |
 | right away | Right away |  |  |
 | pianiishimo | ピアニッシモ |  |  |
 | ijimaya | イジマヤ |  |  |
@@ -2135,7 +2135,7 @@ example:
 | tenkaichi babys | 天下一Babys | 井之本理佳子和好友BENNY'S一起创立同人团体“天下一Babys”，在Comic Market发售同人志。 | [BENNY'S - 维基百科](https://zh.wikipedia.org/wiki/BENNY%27S)  [井之本理佳子 - 维基百科](https://zh.wikipedia.org/wiki/井之本理佳子) (\*) |
 | beniya | 红屋 |  |  |
 | sashichigai-dan | 挿し違い団 |  | [官方网站](http://sashitigai-dan.la.coocan.jp/) |
-| yasai batake | 諏訪やさい |  | [Pixiv](https://www.pixiv.net/users/13477002) [Twitter](https://twitter.com/yasai_023) |
+| yasai batake | 諏訪やさい |  | [pixiv](https://www.pixiv.net/users/13477002) [Twitter](https://twitter.com/yasai_023) |
 | ichimi-zanmai | 一味三昧 |  |  |
 | sugar berry syrup | Sugar＊Berry＊Syrup |  |  |
 | kousei | コウセイ |  |  |
@@ -2261,12 +2261,12 @@ example:
 | thirty saver street 2d shooting | サーティセイバーストリート |  | [Twitter](https://twitter.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
 | ruri ruri kikaku | 瑠璃瑠璃企画 |  |  |
 | amanedou | あまね堂 |  | [Twitter](https://twitter.com/amane191919) |
-| esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [Twitter](https://twitter.com/explorador_sei) [fanbox](https://esperanzasei.fanbox.cc/) |
+| esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [Twitter](https://twitter.com/explorador_sei) [FANBOX](https://esperanzasei.fanbox.cc/) |
 | tamago no kimi | 卵の黄身 |  |  |
 | shadan katsudoh | 遮断活動 |  |  |
 | tougen shokken | 桃幻食研 |  |  |
 | ciel-arc | しえるあーく |  |  |
-| meshi shinja | 饭信者 |  | [Twitter](https://twitter.com/mesisinja) [Pixiv](https://www.pixiv.net/users/73419977) [FANBOX](https://mesisinja.fanbox.cc/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50797.html) [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200098/) |
+| meshi shinja | 饭信者 |  | [Twitter](https://twitter.com/mesisinja) [pixiv](https://www.pixiv.net/users/73419977) [FANBOX](https://mesisinja.fanbox.cc/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50797.html) [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200098/) |
 | ishimuraya | 石村屋 |  |  |
 | seika kairaku shoten | 圣华快乐书店 |  |  |
 | ringo no naru ki | 林檎のなる木 |  |  |
@@ -12469,7 +12469,7 @@ example:
 | fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [官网](http://fsm-cafe.jugem.jp) |
 | platinum kinoko | プラチナきのこ |  |  |
 | lunaberry | Lunaberry |  |  |
-| sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [Pixiv](https://www.pixiv.net/users/41510503)<br>[Twitter](https://twitter.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
+| sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [pixiv](https://www.pixiv.net/users/41510503)<br>[Twitter](https://twitter.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
 | xx koubou | ××工房 |  |  |
 | hengen monogatari | 変幻物語 |  |  |
 | straight lemon kajuu 100 | ストレートレモン果汁100 |  |  |
@@ -12483,7 +12483,7 @@ example:
 | petanko bokujo | ぺたんこ牧場 |  |  |
 | chanbara kishidan | ちゃんばら騎士団 |  |  |
 | gensou kagetourou | 幻想影燈籠 |  |  |
-| chou rojiura gasshuukoku | 超路地裏合衆国 |  | [booth](https://superbackstates.booth.pm/) |
+| chou rojiura gasshuukoku | 超路地裏合衆国 |  | [BOOTH](https://superbackstates.booth.pm/) |
 | random footwork | ランダムフットワーク |  |  |
 | chabatake ni haeta takenoko | 茶畑に生えた筍 |  |  |
 | mizuyakinko | 水屋金库 |  |  |
@@ -12574,7 +12574,7 @@ example:
 | sugomori bird | 巣ごもりバード |  |  |
 | gensou pump | 幻想ポンプ | 画师`fukumoto masahisa`所属社团 |  |
 | elizabeth collar | エリザベスカラー | 画师`tobiume sayu`所属社团 |  |
-| toropucchi | とろぷっち | ![twitter](https://pbs.twimg.com/profile_images/1473562632460582912/CJJj_8pg_400x400.jpg)<br><br>**作者推特头像** | [twitter](https://twitter.com/Srm5tKdfhWnGY0K) |
+| toropucchi | とろぷっち | ![twitter](https://pbs.twimg.com/profile_images/1473562632460582912/CJJj_8pg_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/Srm5tKdfhWnGY0K) |
 | satou mitsu | さとうみつ | 画师`omitsu`所属社团 |  |
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
