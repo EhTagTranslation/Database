@@ -12734,6 +12734,7 @@ example:
 | namekuzu | なめくず |  |  |
 | yuujikouji | ゆうじこうじ |  |  |
 | kuwaiya | くわい屋 |  |  |
+| sumeshiya-san | すめし屋さん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
