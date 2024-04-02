@@ -12748,6 +12748,7 @@ example:
 | kogyoku | 红玉 |  |  |
 | fake enn | Fake Enn |  | [Pixiv](https://www.pixiv.net/users/33045612) |
 | actuale | ActualE |  |  |
+| throtem | トロテム |  | [FANBOX](https://throtem.fanbox.cc/) [pixiv](https://www.pixiv.net/users/4984458) [Twitter](https://twitter.com/Throtem_) |
 
 <!--TEMPLATE:
 |  |  |  |  |
