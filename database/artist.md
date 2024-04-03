@@ -12749,6 +12749,7 @@ example:
 | fake enn | Fake Enn |  | [pixiv](https://www.pixiv.net/users/33045612) |
 | actuale | ActualE |  | [pixiv](https://www.pixiv.net/users/17345102) [Patreon](https://www.patreon.com/EkusuAkshuru) |
 | throtem | トロテム |  | [FANBOX](https://throtem.fanbox.cc/) [pixiv](https://www.pixiv.net/users/4984458) [Twitter](https://twitter.com/Throtem_) |
+| hiro hirono | ヒロ広野 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
