@@ -12735,6 +12735,7 @@ example:
 | yuujikouji | ゆうじこうじ |  |  |
 | kuwaiya | くわい屋 |  |  |
 | sumeshiya-san | すめし屋さん |  |  |
+| yumemimochi honpo | 夢みもち本舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
