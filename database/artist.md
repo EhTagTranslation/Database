@@ -12751,6 +12751,7 @@ example:
 | throtem | トロテム |  | [FANBOX](https://throtem.fanbox.cc/) [pixiv](https://www.pixiv.net/users/4984458) [Twitter](https://twitter.com/Throtem_) |
 | hiro hirono | ヒロ広野 |  |  |
 | asama hinami | 浅間ひなみ |  |  |
+| katase shou | かたせ湘 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
