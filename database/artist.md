@@ -12752,6 +12752,7 @@ example:
 | hiro hirono | ヒロ広野 |  |  |
 | asama hinami | 浅間ひなみ |  |  |
 | katase shou | かたせ湘 |  |  |
+| garagara tarou | ガラガラ太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
