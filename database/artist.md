@@ -12753,6 +12753,7 @@ example:
 | asama hinami | 浅間ひなみ |  |  |
 | katase shou | かたせ湘 |  |  |
 | garagara tarou | ガラガラ太郎 |  |  |
+| sorenari no ishi | それなりの石 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
