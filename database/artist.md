@@ -12754,6 +12754,7 @@ example:
 | katase shou | かたせ湘 |  |  |
 | garagara tarou | ガラガラ太郎 |  |  |
 | sorenari no ishi | それなりの石 |  |  |
+| toxic ramen | 劇毒拉麵 | R18G像素画师 | [pixiv](https://www.pixiv.net/users/19013729) |
 
 <!--TEMPLATE:
 |  |  |  |  |
