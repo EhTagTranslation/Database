@@ -5194,6 +5194,7 @@ example:
 | stella | 星 | 开拓者是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/开拓者•毁灭)<br>[百度百科](https://baike.baidu.com/item/开拓者/59235148)<br>[Fandom](https://honkai-star-rail.fandom.com/zh/wiki/开拓者?variant=zh)<br>[萌娘百科](https://zh.moegirl.org.cn/开拓者) |
 | asahi ohka | 樱花朝日 |  |  |
 | miyo murosaki | 室崎美夜 |  |  |
+| konan | 小南 | 火影忍者中晓组织女成员 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
