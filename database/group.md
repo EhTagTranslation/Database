@@ -12738,6 +12738,7 @@ example:
 | yumemimochi honpo | 夢みもち本舗 |  |  |
 | kikumonza | 菊門座 |  |  |
 | uru uru onsen | うるうる温泉 |  |  |
+| sourou yarou a-team | 早漏野郎Aチーム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
