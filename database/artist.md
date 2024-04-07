@@ -6898,7 +6898,7 @@ example:
 | kirimia | きりみあ |  |  |
 | kirimoro | きりもろ |  |  |
 | kirin | きりん |  |  |
-| kirin kakeru | 木铃カケル |  |  |
+| kirin kakeru | 木鈴カケル |  |  |
 | kirino kyousuke | 桐野キョウスケ |  |  |
 | kiriri takanori | 霧李孝徳 |  |  |
 | kirisaki akihito | 霧咲空人 |  |  |
@@ -7161,7 +7161,6 @@ example:
 | kouno you | 河野曜 |  |  |
 | kounose akara | 神瀬あから |  |  |
 | kounosu | こうのす |  |  |
-| kouri | 木鈴カケル |  |  |
 | kousaka donten | 高坂曇天 |  |  |
 | kousaki | 光崎 |  |  |
 | kou siryou | 黄支亮 |  |  |
