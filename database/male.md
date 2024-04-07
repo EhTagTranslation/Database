@@ -41,11 +41,12 @@ example:
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
-|  | == 年龄 == |  |  |
+|  | == Age == | == 年龄 == |  |
 | age progression | 年龄增长 | 年龄迅速增长。 |  |
 | age regression | 返老还童 | 幼化，返老还童，通常是调教中的一环。不要与`shrinking`混淆。 |  |
 | dilf | 熟男 | 看上去像30-50岁的男性，不一定是`father`。不得与`old man`混淆。 |  |
 | infantilism | 幼稚型 | 将成年人当作小孩对待。 |  |
+| kodomo doushi | 两小无猜 | 儿童间的性行为，所有参与者都为儿童。需要`shotacon`标签。 |  |
 | old man | 老人 | 看起来在50岁以上的男性，不得与`dilf`混淆。 |  |
 | shotacon | 正太 | 小男孩。<br>![举例](# "https://ehgt.org/8d/e4/8de4084018d6fd26f7fb8843dfdba5949835ac02-219707-1128-1600-jpg_l.jpg")![图](# "https://ehgt.org/b4/f2/b4f27457519a0eb55cbc231c34152084d8351cd3-543154-1000-1458-jpg_l.jpg")![图](# "https://ehgt.org/3a/46/3a466e7dc00e27d80e8d6be4674b08c6b8efb25f-304032-1067-1514-jpg_l.jpg") |  |
 | toddlercon | 幼儿 | 学步的儿童。 |  |
