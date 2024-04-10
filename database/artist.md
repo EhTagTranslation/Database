@@ -8899,7 +8899,7 @@ example:
 | nyakaaki | にゃかあき |  |  |
 | nyake | にゃけ |  |  |
 | nyakki | にゃっき |  |  |
-| nyakkuru | ニャックル |  |  |
+| nyakkuru | ニャックル |  | [pixiv](https://www.pixiv.net/users/916361) |
 | nyamal | にゃまる |  |  |
 | nyamota | にゃもた |  |  |
 | nyamu | にゃむ |  |  |
