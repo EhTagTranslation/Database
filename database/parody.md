@@ -2267,6 +2267,7 @@ example:
 | tekkaman blade | 宇宙骑士BLADE | 《宇宙骑士铁甲人利刃》（日语：宇宙の騎士テッカマンブレード）是一部日本动画。于1992年2月18日至1993年2月2日于东京电视台放映。这部动画的前身是1975年的动画宇宙骑士铁甲人（宇宙の騎士テッカマン），但故事上和这部没关系。其主要人物曾在本作的倒数第二集客串登场。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙騎士BLADE) |
 | koikatsu | 恋活！ |  | [维基百科](https://zh.wikipedia.org/wiki/恋活！) |
 | debby the corsifa wa makezugirai | Debby·the·Corsifa不愿败北 | 黛比．扎．可露西法討厭認輸 デビィ・ザ・コルシファは負けず嫌い | [Bangumi](https://bgm.tv/subject/353203) |
+| 101 dalmatians | 101忠狗 |  | [萌娘百科](https://zh.moegirl.org.cn/101忠狗) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
