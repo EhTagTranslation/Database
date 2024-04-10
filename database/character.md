@@ -5196,6 +5196,7 @@ example:
 | miyo murosaki | 室崎美夜 |  |  |
 | konan | 小南 | 火影忍者中晓组织女成员 |  |
 | shadowo tto shark | 夏朵 | 《`p:debby the corsifa wa makezugirai`》的女配角，社恐大只女。 |  |
+| sonic the hedgehog | 刺猬索尼克 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
