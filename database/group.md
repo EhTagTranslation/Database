@@ -12741,6 +12741,7 @@ example:
 | sourou yarou a-team | 早漏野郎Aチーム |  |  |
 | wakaba syokei | 若葉祥慶 |  |  |
 | honyuubin | ほ乳びん |  |  |
+| im moralist | I'm moralist |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
