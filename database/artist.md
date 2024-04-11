@@ -11891,7 +11891,7 @@ example:
 | yurihara aki | 百合原明 |  |  |
 | yurikawa | ゆりかわ |  |  |
 | yuririn | ゆりりん |  |  |
-| yuriwhale | Yuriwhale |  |  |
+| yuriwhale | Yuriwhale |  | [pixiv](https://www.pixiv.net/users/3234083) |
 | yusa ikuyoshi | 遊佐育美 |  |  |
 | yusui | ゆすい |  |  |
 | yusura | 山桜桃 |  |  |
