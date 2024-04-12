@@ -5198,6 +5198,7 @@ example:
 | shadowo tto shark | 夏朵 | 《`p:debby the corsifa wa makezugirai`》的女配角，社恐大只女。 |  |
 | sonic the hedgehog | 刺猬索尼克 |  |  |
 | megumi fujishima | 藤岛慈 |  |  |
+| rurino osawa | 大泽瑠璃乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
