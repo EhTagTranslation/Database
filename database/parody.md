@@ -529,7 +529,7 @@ example:
 | battle programmer shirase | 战争程序员白濑 |  |  |
 | kung fu panda | 功夫熊猫 |  |  |
 | star vs. the forces of evil | 星蝶公主 |  |  |
-| the amazing world of gumball | 阿甘妙世界 |  |  |
+| the amazing world of gumball | 阿甘妙世界 | 《阿甘妙世界》（英语：The Amazing World of Gumball）是部美国英国动画喜剧，由位于英国伦敦的卡通频道欧洲工作室制作，2011年开始在美国卡通频道播出。班·波克勒特及英国电影和电视艺术学院奖项得奖者 麦克·格雷夫斯（Mic Graves）担任导演。 | [维基百科](https://zh.wikipedia.org/wiki/阿甘妙世界) |
 | wakfu | 沃土 |  | [萌娘百科](https://zh.moegirl.org.cn/沃土) |
 | wander over yonder | 宇宙小奇兵 |  |  |
 | batman | 蝙蝠侠 |  |  |
