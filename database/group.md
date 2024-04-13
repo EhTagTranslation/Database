@@ -12744,7 +12744,7 @@ example:
 | im moralist | I'm moralist |  |  |
 | palcomix | Palcomix |  |  |
 | naporitan | ナポりたん |  |  |
-| charon | LAPUTA \| charon | 3D漫画作者，现名改为：LAPUTA，原名为：charon |  |
+| charon | LAPUTA | 3D漫画作者，现名改为：LAPUTA，原名为：charon |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
