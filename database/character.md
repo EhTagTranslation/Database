@@ -5201,6 +5201,7 @@ example:
 | rurino osawa | 大泽瑠璃乃 |  |  |
 | giselle gewelle | 吉赛尔·茱艾尔 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) |
 | jun sazanami | 漣 ジュン |  |  |
+| ben tennyson | 田小班 | Ben Tennyson，全名Benjamin "Ben" Kirby Tennyson |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
