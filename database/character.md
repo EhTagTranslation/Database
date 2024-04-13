@@ -5202,6 +5202,7 @@ example:
 | giselle gewelle | 吉赛尔·茱艾尔 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) |
 | jun sazanami | 漣 ジュン |  |  |
 | ben tennyson | 田小班 | 田小班（Benjamin Kirby "Ben" Tennyson/本杰明·柯比·“本”·田尼森）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小班) |
+| gwen tennyson | 田小玟 | 田小玟（Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
