@@ -358,7 +358,7 @@ example:
 | nier | 尼尔 |  |  |
 | nier automata | 尼尔：机械纪元 |  |  |
 | psycho-pass | 心理测量者 |  |  |
-| ben 10 | 少年骇客 |  |  |
+| ben 10 | Ben 10 | 《Ben 10》为美国时代华纳公司旗下卡通频道工作室（英语：Cartoon Network Studios）的电视动画，于2005年推出，是Ben 10系列主剧情的第一套系列作，原译《少年骇客》。 | [维基百科](https://zh.wikipedia.org/wiki/少年駭客) |
 | hey arnold | 嘿，阿诺德！ |  |  |
 | bungou stray dogs | 文豪Stray Dogs |  |  |
 | gugure kokkuri-san | 银仙 |  |  |
