@@ -12760,6 +12760,7 @@ example:
 | crazy dad | CrazyDad3D |  |  |
 | pig king | PigKing |  |  |
 | nia | にあ |  | [pixiv](https://www.pixiv.net/users/909090) |
+| nanakotu | なな骨 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
