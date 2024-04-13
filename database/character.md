@@ -5199,6 +5199,7 @@ example:
 | sonic the hedgehog | 刺猬索尼克 |  |  |
 | megumi fujishima | 藤岛慈 |  |  |
 | rurino osawa | 大泽瑠璃乃 |  |  |
+| giselle gewelle | 吉赛尔·茱艾尔 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
