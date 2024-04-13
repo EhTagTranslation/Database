@@ -12743,6 +12743,7 @@ example:
 | honyuubin | ほ乳びん |  |  |
 | im moralist | I'm moralist |  |  |
 | palcomix | Palcomix |  |  |
+| naporitan | ナポりたん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
