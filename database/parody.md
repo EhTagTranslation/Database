@@ -2268,6 +2268,7 @@ example:
 | koikatsu | 恋活！ |  | [维基百科](https://zh.wikipedia.org/wiki/恋活！) |
 | debby the corsifa wa makezugirai | Debby·the·Corsifa不愿败北 | 黛比．扎．可露西法討厭認輸 デビィ・ザ・コルシファは負けず嫌い | [Bangumi](https://bgm.tv/subject/353203) |
 | 101 dalmatians | 101忠狗 |  | [萌娘百科](https://zh.moegirl.org.cn/101忠狗) |
+| helluva boss | 极恶老大 | 《极恶老大》（英语：Helluva Boss）是由薇薇安•梅德拉诺主创、纺锤之马工作室制作的歌舞喜剧动画。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
