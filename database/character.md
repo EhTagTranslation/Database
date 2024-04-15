@@ -5205,6 +5205,7 @@ example:
 | gwen tennyson | 田小玟 | 田小玟（Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
 | virtuosa | 塑心（阿尔图罗） | 出自游戏《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/塑心) |
 | viviana droste | 薇薇安娜·德罗斯特 | 出自游戏《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/薇薇安娜) |
+| meowscarada | 魔幻假面喵 | 魔幻假面喵浅绿色的毛发覆盖了它的大部分身体，腿部则是深绿色的，身后还有一条毛茸茸的短尾巴。它有一双粉色眼睛，脸上有着的面具状的深绿色长毛。它的每只手上都有三根手指、绿色的指甲和粉红色的肉垫。它的脖子上有一个花瓣形状的粉色领子和斗篷相连。披风外侧的毛发是黑色的，而内侧则是绿色。 | [https://wiki.52poke.com/wiki/魔幻假面喵](https://wiki.52poke.com/wiki/魔幻假面喵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
