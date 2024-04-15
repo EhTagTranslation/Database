@@ -5220,7 +5220,7 @@ example:
 | millie | 米莉 | 米莉（Millie）：原生小恶魔，IMP公司的员工，近战能手。与摩西是夫妻关系。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | diane foxington | 黛安·狐辛顿 | 黛安·狐辛顿（Diane Foxington）<br>新上任的加州州长，功夫十分了得，以前是名为“赤红之爪”的小偷，及后洗心革面。 | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
 | mr. mason wolf | 狼先生 | 狼先生（Mr. Wolf）<br>“坏蛋联盟”成员之一，开车高手，拥有一台黑色跑车，计划每次联盟进行抢劫、盗窃等的行动计划，希望藉着盗取“年度最佳好人奖”奖杯：金色海豚，以名留青史。 | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
-| shion karanomori | 唐之杜志恩 | CV：泽城美雪<br>安全局刑事课综合分析室的分析官。<br>利用各种各样的情报分析数据来支援并辅佐执行官、监视官们的搜查行动，曾被狡啮慎也称为“情报女神”。<br>是一位健谈的魔鬼身材美女，同时自己也是一名潜在犯。<br>与六合冢弥生是一对女同恋人。 |  |
+| shion karanomori | 唐之杜志恩 | CV：泽城美雪<br>安全局刑事课综合分析室的分析官。<br>利用各种各样的情报分析数据来支援并辅佐执行官、监视官们的搜查行动，曾被狡啮慎也称为“情报女神”。<br>是一位健谈的魔鬼身材美女，同时自己也是一名潜在犯。<br>与六合冢弥生是一对女同恋人。<br>![](https://cdn.suruga-ya.com/database/pics_light/game/gl836198.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
