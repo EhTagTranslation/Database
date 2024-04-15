@@ -5215,6 +5215,7 @@ example:
 | night stalker | 夜枭 | 同样出自包若斯博士之手，由郊狼和响尾蛇的DNA拼合而成 | [萌娘百科](https://zh.moegirl.org.cn/思想体#夜枭（Night_stalker）) |
 | stolas | 斯托拉斯 | 斯托拉斯·盖提亚（Stolas·Goetia）：原生贵族，盖提亚家族的继承人，亲王，拥有一本具有神奇魔力的魔法书，与丝黛拉·盖提亚为夫妻关系，有一女奥克塔薇娅·盖提亚。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | blitzo | 比利兹 | 比利兹（Blitzø，旧名比利兹欧 Blitzo）：原生小恶魔，IMP公司的老板，人称老大。创业前曾在马戏团做过小丑，内心反感这段往事。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
+| loona | 露娜 | 露娜（Loona）：地狱犬，比利兹的养女，IMP公司的前台，同时掌握使用亲王魔法书穿越至人类世界的能力。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
