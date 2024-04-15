@@ -12747,6 +12747,7 @@ example:
 | charon | LAPUTA | 3D漫画作者，现名改为：LAPUTA，原名为：charon |  |
 | tawawa delivery | たわわデリバリー |  |  |
 | patapo | ぱーたぽ |  |  |
+| chae | ちゃえ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
