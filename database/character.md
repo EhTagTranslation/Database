@@ -5219,6 +5219,7 @@ example:
 | moxxie | 摩西 | 摩西（Moxxie）：原生小恶魔，IMP公司的员工，神枪手兼武器专家，同时是地道的歌剧迷，对一切艺术都特别崇拜。与米莉是夫妻关系。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | millie | 米莉 | 米莉（Millie）：原生小恶魔，IMP公司的员工，近战能手。与摩西是夫妻关系。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | diane foxington | 黛安·狐辛顿 | 黛安·狐辛顿（Diane Foxington）<br>新上任的加州州长，功夫十分了得，以前是名为“赤红之爪”的小偷，及后洗心革面。 | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
+| mr. mason wolf | 狼先生 | 狼先生（Mr. Wolf）<br>“坏蛋联盟”成员之一，开车高手，拥有一台黑色跑车，计划每次联盟进行抢劫、盗窃等的行动计划，希望藉着盗取“年度最佳好人奖”奖杯：金色海豚，以名留青史。 | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
