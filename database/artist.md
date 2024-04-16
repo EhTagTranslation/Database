@@ -4139,7 +4139,7 @@ example:
 | anyama takemi | 案山たけみ |  |  |
 | anzu hime | あんず姫 |  |  |
 | ao | 蒼 |  |  |
-| ao banana | 青ばなな |  |  |
+| ao banana | 青ばなな |  | [pixiv](https://www.pixiv.net/users/1059758) |
 | ao madousi | 蒼惑う子 |  |  |
 | aogen genda | 青木ゲンダ |  |  |
 | aohashi ame | 青橋雨 |  |  |
