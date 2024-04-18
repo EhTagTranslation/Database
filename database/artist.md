@@ -12770,6 +12770,7 @@ example:
 | mamaloni | mamaloni |  | [pixiv](https://www.pixiv.net/users/36226075) |
 | thiccwithaq | ThiccWithaQ |  | [Twitter](https://twitter.com/ThiccWithaQ) |
 | kimkun0162 | kimkun0162 |  | [FANBOX](https://kimkun0162.fanbox.cc/) |
+| kurono yuzuko | 黒乃柚子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
