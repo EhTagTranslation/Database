@@ -12772,6 +12772,7 @@ example:
 | kimkun0162 | kimkun0162 |  | [FANBOX](https://kimkun0162.fanbox.cc/) |
 | kurono yuzuko | 黒乃柚子 |  |  |
 | aoi sakura | 青い桜 |  |  |
+| sekki kettle | 石器ケトル |  | [pixiv](https://www.pixiv.net/users/1781649) |
 
 <!--TEMPLATE:
 |  |  |  |  |
