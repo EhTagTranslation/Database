@@ -12748,6 +12748,7 @@ example:
 | tawawa delivery | たわわデリバリー |  |  |
 | patapo | ぱーたぽ |  |  |
 | chae | ちゃえ |  |  |
+| modokashiwc | もどかしWC |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
