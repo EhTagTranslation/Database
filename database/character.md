@@ -5225,6 +5225,7 @@ example:
 | garan no gabimaru | 画眉丸 | 漫画《地狱乐》及其衍生作品中登场的男角色，是最强忍者，素有无心画眉丸之称。<br><br>忍术高超，人见人怕，却因为背叛、逃离师门而被捕入狱，并被判了死刑，但因对自己妻子有极高思慕之心而得以在众多酷刑下存活。<br><br>后答应左切请求，为再次与妻子结相见，选择与其他死刑犯踏上了寻找长生药的旅途。 |  |
 | azki | AZKi |  |  |
 | jade chan | 小玉 | 《成龙历险记》中的小玉 | [Fandom](https://hero.fandom.com/wiki/Jade_Chan) |
+| alex power | 亚历山大·鲍尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
