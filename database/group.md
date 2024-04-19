@@ -12750,6 +12750,7 @@ example:
 | chae | ちゃえ |  |  |
 | modokashiwc | もどかしWC |  |  |
 | tufos | Tufos |  |  |
+| nekochiwawa. | ネコチワワ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
