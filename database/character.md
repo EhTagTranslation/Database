@@ -5228,6 +5228,7 @@ example:
 | alex power | 亚历山大·鲍尔 |  |  |
 | jack power | 杰克·鲍尔 |  |  |
 | katie power | 凯瑟琳·鲍尔 |  |  |
+| julie power | 朱莉·鲍尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
