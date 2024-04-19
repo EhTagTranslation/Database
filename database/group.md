@@ -12749,6 +12749,7 @@ example:
 | patapo | ぱーたぽ |  |  |
 | chae | ちゃえ |  |  |
 | modokashiwc | もどかしWC |  |  |
+| tufos | Tufos |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
