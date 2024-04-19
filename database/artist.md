@@ -12775,6 +12775,7 @@ example:
 | sekki kettle | 石器ケトル |  | [pixiv](https://www.pixiv.net/users/1781649) |
 | howako | ほわこ |  |  |
 | yotogi | よとぎ |  | [pixiv](https://www.pixiv.net/users/16410302) |
+| yamito | やみと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
