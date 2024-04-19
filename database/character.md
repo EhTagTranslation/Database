@@ -5227,6 +5227,7 @@ example:
 | jade chan | 小玉 | 《成龙历险记》中的小玉 | [Fandom](https://hero.fandom.com/wiki/Jade_Chan) |
 | alex power | 亚历山大·鲍尔 |  |  |
 | jack power | 杰克·鲍尔 |  |  |
+| katie power | 凯瑟琳·鲍尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
