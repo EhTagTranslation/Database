@@ -5231,6 +5231,7 @@ example:
 | julie power | 朱莉·鲍尔 |  |  |
 | yukina himeragi | 姬柊雪菜 |  | [萌娘百科](https://zh.moegirl.org.cn/姬柊雪菜) |
 | muimi sonoue | 园上矛依未 |  | [萌娘百科](https://zh.moegirl.org.cn/园上矛依未) |
+| minori yasumori | 安守实梨 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
