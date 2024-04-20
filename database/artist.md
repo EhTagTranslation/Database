@@ -12776,6 +12776,7 @@ example:
 | howako | ほわこ |  |  |
 | yotogi | よとぎ |  | [pixiv](https://www.pixiv.net/users/16410302) |
 | yamito | やみと |  |  |
+| noodlenood | Noodle |  | [Patreon](https://www.patreon.com/noodlenood) |
 
 <!--TEMPLATE:
 |  |  |  |  |
