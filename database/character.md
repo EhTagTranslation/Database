@@ -5234,6 +5234,7 @@ example:
 | minori yasumori | 安守实梨 |  |  |
 | kikyou kushida | 栉田桔梗 |  |  |
 | rouge the bat | 露姬 |  | [百度百科](https://baike.baidu.com/item/露姬/1330479) |
+| amy rose | 艾米·罗斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
