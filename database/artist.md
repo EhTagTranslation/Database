@@ -12779,6 +12779,7 @@ example:
 | noodlenood | Noodle |  | [Patreon](https://www.patreon.com/noodlenood) |
 | naitou kirara | 内藤キララ |  |  |
 | ngtvisualstudio | NGTVisualStudio |  | [Patreon](https://patreon.com/ngtvisualstudio) |
+| daimong | 大文G |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
