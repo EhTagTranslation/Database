@@ -5238,6 +5238,7 @@ example:
 | miles tails prower | 塔尔斯 |  | [维基百科](https://zh.wikipedia.org/wiki/塔尔斯) |
 | hikari tachibana | 光明 | 所属作品：蔚蓝档案(blue archive)<br>对策委员会第3章中登场的海兰德铁道学园的学生，隶属于名为“中央控制中心”的海兰德学生会。<br>海兰德与奈芙蒂斯集团有业务合作，这次阿拜多斯的事情似乎由她们负责。 | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_456/h_1017/829/399789/2024/3/11/453194.png) |
 | nozomi tachibana | 希望 | 所属作品：蔚蓝档案(blue archive) | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_526/h_1020/829/399789/2024/3/11/258411.png) |
+| mary saotome | 早乙女芽亚里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
