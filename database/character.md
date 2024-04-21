@@ -5235,6 +5235,7 @@ example:
 | kikyou kushida | 栉田桔梗 |  |  |
 | rouge the bat | 露姬 |  | [百度百科](https://baike.baidu.com/item/露姬/1330479) |
 | amy rose | 艾米·罗斯 |  |  |
+| miles tails prower | 塔尔斯 |  | [维基百科](https://zh.wikipedia.org/wiki/塔尔斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
