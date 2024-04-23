@@ -4914,7 +4914,7 @@ example:
 | webley | 韦伯利 | `p:girls frontline` | [http://www.gfwiki.org/w/韦伯利](http://www.gfwiki.org/w/韦伯利) |
 | ifrit | 伊芙利特 | 伊芙利特是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊芙利特) |
 | kabane kusaka | 日下夏羽 | 日下夏羽是由蓝本松所创作的漫画《怪物事变》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日下夏羽) |
-| sigewinne | 希格雯 | 希格雯（英语：sigewinne）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希格雯) |
+| sigewinne | 希格雯 | 希格雯（英语：sigewinne）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://ehgt.org/1a/2a/1a2a2b76a4acef33125527816991dbb30b5143e7-1462346-1500-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/希格雯) |
 | mitsuki nase | 名瀬美月 |  |  |
 | izumi nase | 名濑泉 |  |  |
 | kaito kirishima | 雾岛海人 |  |  |
