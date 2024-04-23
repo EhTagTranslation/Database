@@ -5245,6 +5245,7 @@ example:
 | ibuki tanga | 丹花伊吹 |  |  |
 | shinobu kudo | 工藤忍 |  |  |
 | gwen | 格温 |  |  |
+| princess bubblegum | 泡泡糖公主 |  | [维基百科](https://zh.wikipedia.org/wiki/泡泡糖公主) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
