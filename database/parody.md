@@ -473,7 +473,7 @@ example:
 | the fifth element | 第五元素 |  |  |
 | terminator | 终结者 |  |  |
 | yurikuma arashi | 百合熊风暴 |  |  |
-| adventure time | 探险时光 |  |  |
+| adventure time | 探险活宝 |  | [维基百科](https://zh.wikipedia.org/wiki/探險活寶) |
 | strike the blood | 噬血狂袭 |  |  |
 | valkyrie drive | 女武神驱动 |  |  |
 | saber marionette | 机械女神 |  |  |
