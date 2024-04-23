@@ -12782,6 +12782,7 @@ example:
 | daimong | 大文G |  |  |
 | fujun nyuushi | 黒森ヤガ |  |  |
 | alfre-tori | あるふれっ鳥 |  | [FANBOX](https://www.fanbox.cc/@alfre-tori) |
+| incase | InCase |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
