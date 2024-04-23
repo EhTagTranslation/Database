@@ -1504,7 +1504,7 @@ example:
 | ponz | ぽん酢 |  |  |
 | arekusa mahone | 荒草まほん | 荒草まほん 是日本成人向同人志创作者，插画师。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1399597412495224839/h6oSH216_400x400.png)<br>**作者推特头像**<br>![图](# "https://ehgt.org/80/7a/807aab9214bbd267548261f9b6d4373e2d8f2c1d-4797534-4259-5735-jpg_l.jpg")<br>同人本《SMILE FOR YOU EX (スマイルプリキュア!)》 | [Twitter](https://twitter.com/mahoone) [pixiv](https://www.pixiv.net/users/476409) |
 | akasa ai | あかさあい |  |  |
-| mizu umi | 瑞海 |  |  |
+| mizu umi | 瑞海 |  | [pixiv](https://www.pixiv.net/users/10385328) |
 | hisato | ひさと |  |  |
 | gyuunyuu nomio | 牛乳乃澪 | 牛乳のみお<br>日本漫画家<br>牛乳乃澪出身自北海道，2012年12月2日起在《NicoNico静画》上连载作品《`joshi shougakusei hajimemashita`》，浏览人数达400万，受到萝莉控漫画读者欢迎。<br>[今天开始当女子小学生 - 维基百科](https://zh.wikipedia.org/wiki/今天開始當小學女生P！)<br><br>[[ニコニコ静画]女子小学生はじめました ](https://seiga.nicovideo.jp/comic/3770)<br>![图](# "https://ehgt.org/b7/8d/b78da5440c2e3871bb1d59e3602170f4c168e560-934221-1600-2265-jpg_l.jpg")<br><br>原创同人本《ちじょじょじょ》痴女小学生系列<br>![图](# "https://ehgt.org/41/a1/41a13723f5a6f92827485e657090afec67b3c655-1169474-2110-3000-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/10431460) [维基百科](https://zh.wikipedia.org/wiki/牛乳乃澪) |
 | konkichi | 绀吉 |  |  |
