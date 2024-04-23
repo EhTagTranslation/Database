@@ -12780,6 +12780,7 @@ example:
 | naitou kirara | 内藤キララ |  |  |
 | ngtvisualstudio | NGTVisualStudio |  | [Patreon](https://patreon.com/ngtvisualstudio) |
 | daimong | 大文G |  |  |
+| fujun nyuushi | 黒森ヤガ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
