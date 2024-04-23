@@ -12781,6 +12781,7 @@ example:
 | ngtvisualstudio | NGTVisualStudio |  | [Patreon](https://patreon.com/ngtvisualstudio) |
 | daimong | 大文G |  |  |
 | fujun nyuushi | 黒森ヤガ |  |  |
+| alfre-tori | あるふれっ鳥 |  | [FANBOX](https://www.fanbox.cc/@alfre-tori) |
 
 <!--TEMPLATE:
 |  |  |  |  |
