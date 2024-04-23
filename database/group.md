@@ -12751,6 +12751,7 @@ example:
 | modokashiwc | もどかしWC |  |  |
 | tufos | Tufos |  |  |
 | nekochiwawa. | ネコチワワ。 |  |  |
+| nikujiru shinkou | 霧中夜行 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
