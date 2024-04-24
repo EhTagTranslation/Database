@@ -2270,6 +2270,7 @@ example:
 | 101 dalmatians | 101忠狗 |  | [萌娘百科](https://zh.moegirl.org.cn/101忠狗) |
 | helluva boss | 极恶老大 | 《极恶老大》（英语：Helluva Boss）是由薇薇安•梅德拉诺主创、纺锤之马工作室制作的歌舞喜剧动画。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | power pack | 超能小队 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pack) |
+| the amazing digital circus | 神奇数字马戏团 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
