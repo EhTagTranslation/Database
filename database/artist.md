@@ -9946,7 +9946,7 @@ example:
 | seo haruto | 瀬尾春人 |  |  |
 | seo tatsuya | 瀬尾辰也 |  |  |
 | sera tooru | 瀬良透 |  |  |
-| serakichi. | 世罗吉。 |  |  |
+| serakichi. | 世罗吉。 |  | [pixiv](https://www.pixiv.net/users/2196994) |
 | seres ryu | セレス龍 |  |  |
 | seresu | せれす |  |  |
 | seri nazuna | せりなずな |  |  |
