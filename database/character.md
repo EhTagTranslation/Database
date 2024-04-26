@@ -5246,6 +5246,7 @@ example:
 | shinobu kudo | 工藤忍 |  |  |
 | gwen | 格温 |  |  |
 | princess bubblegum | 泡泡糖公主 |  | [维基百科](https://zh.wikipedia.org/wiki/泡泡糖公主) |
+| plume | 翎羽 | 出自游戏《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
