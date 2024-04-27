@@ -5254,7 +5254,7 @@ example:
 | homer simpson | 霍默·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/霍默·辛普森) |
 | moe szyslak | 莫·希斯拉克 |  | [维基百科](https://zh.wikipedia.org/wiki/莫·希斯拉克) |
 | bart simpson | 巴特·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/巴特·辛普森) |
-| sideshow bob | 杂耍家鲍伯 |  | [维基百科](https://zh.wikipedia.org/wiki/雜耍家鮑伯) |
+| sideshow bob | 杂耍家鲍伯 | 杂耍家鲍伯（英语：Sideshow Bob），本名罗伯 特·昂德当克·特威利格（英语：Robert Onderdonk Terwilliger），是美国动画电视剧《`p:the simpsons`》中的虚构配角。 | [维基百科](https://zh.wikipedia.org/wiki/雜耍家鮑伯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
