@@ -5259,6 +5259,7 @@ example:
 | maggie simpson | 玛吉·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/玛吉·辛普森) |
 | edna krabappel | 埃德娜·克拉巴佩尔 |  | [维基百科](https://zh.wikipedia.org/wiki/埃德娜·克拉巴佩尔) |
 | patty bouvier | 帕蒂·布维尔 |  | [维基百科](https://zh.wikipedia.org/wiki/帕蒂和塞尔玛) |
+| selma bouvier | 塞尔玛·布维尔 |  | [维基百科](https://zh.wikipedia.org/wiki/帕蒂和塞尔玛) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
