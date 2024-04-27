@@ -5251,6 +5251,7 @@ example:
 | makoto tachibana | 橘真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/橘真琴) |
 | lisa simpson | 莉萨·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/莉萨·辛普森) |
 | marge simpson | 玛琦·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/玛琦·辛普森) |
+| homer simpson | 霍默·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/霍默·辛普森) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
