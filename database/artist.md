@@ -12785,6 +12785,7 @@ example:
 | incase | InCase |  | [Twitter](https://twitter.com/InCaseArt) |
 | ishikawa hirodi | 石川ヒロヂ |  |  |
 | hisamaru hajime | 久丸一 |  |  |
+| asakura shimoichi | 麻倉下市 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
