@@ -12784,6 +12784,7 @@ example:
 | alfre-tori | あるふれっ鳥 |  | [FANBOX](https://www.fanbox.cc/@alfre-tori) |
 | incase | InCase |  | [Twitter](https://twitter.com/InCaseArt) |
 | ishikawa hirodi | 石川ヒロヂ |  |  |
+| hisamaru hajime | 久丸一 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
