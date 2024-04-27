@@ -5249,6 +5249,7 @@ example:
 | plume | 翎羽 | 出自游戏《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
 | catapult | 空爆 | 明日方舟 游戏角色 |  |
 | makoto tachibana | 橘真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/橘真琴) |
+| lisa simpson | 莉萨·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/莉萨·辛普森) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
