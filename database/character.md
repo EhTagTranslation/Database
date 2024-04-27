@@ -5236,7 +5236,7 @@ example:
 | rouge the bat | 露姬 |  | [百度百科](https://baike.baidu.com/item/露姬/1330479) |
 | amy rose | 艾米·罗斯 |  |  |
 | miles tails prower | 塔尔斯 |  | [维基百科](https://zh.wikipedia.org/wiki/塔尔斯) |
-| hikari tachibana | 橘光明 | 所属作品：蔚蓝档案(blue archive)<br>对策委员会第3章中登场的海兰德铁道学园的学生，隶属于名为“中央控制中心”的海兰德学生会。<br>海兰德与奈芙蒂斯集团有业务合作，这次阿拜多斯的事情似乎由她们负责。 | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_456/h_1017/829/399789/2024/3/11/453194.png) |
+| hikari tachibana | 橘光明 | 所属作品：蔚蓝档案(blue archive)<br>对策委员会第3章中登场的海兰德铁道学园的学生，隶属于名为“中央控制中心”的海兰德学生会。<br>海兰德与奈芙蒂斯集团有业务合作，这次阿拜多斯的事情似乎由她们负责。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_456/h_1017/829/399789/2024/3/11/453194.png) |  |
 | nozomi tachibana | 橘希望 | 所属作品：蔚蓝档案(blue archive) | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_526/h_1020/829/399789/2024/3/11/258411.png) |
 | mary saotome | 早乙女芽亚里 |  |  |
 | ririka momobami | 桃喰莉莉香 | 漫画《狂赌之渊》及其衍生作品中的女角色。<br>　　私立百花王学园学生会副会长，一直戴着面具，身份神秘。实为桃喰绮罗莉的双胞胎姐妹，但性格与绮罗莉截然相反。<br>　　银色长发，自幼时起一直带着藏有变声器的银色假面。缺乏自我，一直听从桃喰绮罗莉的命令行事，并以面具掩饰自己的柔弱与自卑，戴上假面后态度会变得强硬。<br>　　平时总跟随在绮罗莉身边，基本保持沉默。赌技高超，但一直隐藏实力。因为身份神秘的缘故，跟绮罗莉对调身份也不会被人发现。 |  |
