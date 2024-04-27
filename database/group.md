@@ -12753,6 +12753,7 @@ example:
 | nekochiwawa. | ネコチワワ。 |  |  |
 | nikujiru shinkou | 霧中夜行 |  |  |
 | asakurag plus | AsakuraG+ |  |  |
+| nishi no tora | 西ノ虎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
