@@ -12786,6 +12786,7 @@ example:
 | ishikawa hirodi | 石川ヒロヂ |  |  |
 | hisamaru hajime | 久丸一 |  |  |
 | asakura shimoichi | 麻倉下市 |  |  |
+| croc | Croc |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
