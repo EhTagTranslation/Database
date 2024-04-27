@@ -12754,6 +12754,7 @@ example:
 | nikujiru shinkou | 霧中夜行 |  |  |
 | asakurag plus | AsakuraG+ |  |  |
 | nishi no tora | 西ノ虎 |  |  |
+| noir auto | ノワールオート |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
