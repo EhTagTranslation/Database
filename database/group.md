@@ -12752,6 +12752,7 @@ example:
 | tufos | Tufos |  |  |
 | nekochiwawa. | ネコチワワ。 |  |  |
 | nikujiru shinkou | 霧中夜行 |  |  |
+| asakurag plus | AsakuraG+ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
