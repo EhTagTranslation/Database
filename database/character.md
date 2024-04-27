@@ -5256,6 +5256,7 @@ example:
 | bart simpson | 巴特·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/巴特·辛普森) |
 | sideshow bob | 杂耍家鲍伯 | 杂耍家鲍伯（英语：Sideshow Bob），本名罗伯 特·昂德当克·特威利格（英语：Robert Onderdonk Terwilliger），是美国动画电视剧《`p:the simpsons`》中的虚构配角。 | [维基百科](https://zh.wikipedia.org/wiki/雜耍家鮑伯) |
 | cookie kwan | 曲奇·关 |  |  |
+| maggie simpson | 玛吉·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/玛吉·辛普森) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
