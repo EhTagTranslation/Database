@@ -7782,7 +7782,7 @@ example:
 | romulo mancin | Romulo Mancin | Melkor |  |
 | melodic core. | 石月めろこあ |  |  |
 | melon22 | めろん22 |  |  |
-| melonleaf | メロソリーフ |  |  |
+| meloso leaf | メロソリーフ |  |  |
 | melu | Melu |  |  |
 | meme | めめ |  |  |
 | memeo | 女々男 |  |  |
@@ -10853,7 +10853,7 @@ example:
 | tetumiya | 鉄宮 |  |  |
 | thanat | たなと |  |  |
 | the fall guy | フォール・ガイ |  |  |
-| the orz | the\_orz |  |  |
+| walter wolf | うぉるたーうるふ | the\_orz |  |
 | thor | THOR |  |  |
 | tickzou | てぃくぞー |  |  |
 | tid | TID |  |  |
