@@ -5254,6 +5254,7 @@ example:
 | homer simpson | 霍默·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/霍默·辛普森) |
 | moe szyslak | 莫·希斯拉克 |  | [维基百科](https://zh.wikipedia.org/wiki/莫·希斯拉克) |
 | bart simpson | 巴特·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/巴特·辛普森) |
+| sideshow bob | 杂耍家鲍伯 |  | [维基百科](https://zh.wikipedia.org/wiki/雜耍家鮑伯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
