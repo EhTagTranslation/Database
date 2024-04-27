@@ -12787,6 +12787,7 @@ example:
 | hisamaru hajime | 久丸一 |  |  |
 | asakura shimoichi | 麻倉下市 |  |  |
 | croc | Croc |  |  |
+| takami itsu | 高見乙 |  | [Twitter](https://twitter.com/tkm_i2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
