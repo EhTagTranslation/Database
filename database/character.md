@@ -5262,6 +5262,7 @@ example:
 | selma bouvier | 塞尔玛·布维尔 |  | [维基百科](https://zh.wikipedia.org/wiki/帕蒂和塞尔玛) |
 | natsumi onitsuka | 鬼塚夏美 |  |  |
 | wien margarete | 维恩·玛格丽特 |  |  |
+| shellin burgundy | 谢林·勃艮第 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
