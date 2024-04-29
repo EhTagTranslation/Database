@@ -12791,6 +12791,7 @@ example:
 | kaza midori | 可座ミドリ |  |  |
 | kahmasu | かーます |  |  |
 | ginen | 銀塩 |  |  |
+| saitou renji | 西東レンジ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
