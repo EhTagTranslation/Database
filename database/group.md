@@ -12756,6 +12756,7 @@ example:
 | nishi no tora | 西ノ虎 |  |  |
 | noir auto | ノワールオート |  |  |
 | yuuki saien | ユーキ菜園 |  |  |
+| ginshio honpo | 銀しお本舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
