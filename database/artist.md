@@ -12789,6 +12789,7 @@ example:
 | croc | Croc |  |  |
 | takami itsu | 高見乙 |  | [Twitter](https://twitter.com/tkm_i2) |
 | kaza midori | 可座ミドリ |  |  |
+| kahmasu | かーます |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
