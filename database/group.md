@@ -12755,6 +12755,7 @@ example:
 | asakurag plus | AsakuraG+ |  |  |
 | nishi no tora | 西ノ虎 |  |  |
 | noir auto | ノワールオート |  |  |
+| yuuki saien | ユーキ菜園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
