@@ -5269,6 +5269,7 @@ example:
 | karamatsu matsuno | 松野空松 |  |  |
 | onpu segawa | 濑川音符 | 日本动画《小魔女DoReMi》中的角色 |  |
 | doremi harukaze | 春风DoReMi | 日本动画《小魔女DoReMi》中的角色。 |  |
+| ichimatsu-matsuno | 松野一松 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
