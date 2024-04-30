@@ -12792,6 +12792,7 @@ example:
 | kahmasu | かーます |  |  |
 | ginen | 銀塩 |  |  |
 | saitou renji | 西東レンジ |  |  |
+| suzuro aruki | スズロアルキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
