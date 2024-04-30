@@ -5267,6 +5267,7 @@ example:
 | makoto-tachibana | 橘真琴 | 日本轻小说《High☆Speed!》及其衍生动画作品《free!》和续作的登场人物。 |  |
 | belldandy | 贝露丹蒂 | 日本漫画《我的女神》及其衍生作品中的女主角。 |  |
 | karamatsu matsuno | 松野空松 |  |  |
+| onpu segawa | 濑川音符 | 日本动画《小魔女DoReMi》中的角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
