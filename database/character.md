@@ -5264,6 +5264,7 @@ example:
 | wien margarete | 维恩·玛格丽特 |  |  |
 | shellin burgundy | 谢林·勃艮第 |  |  |
 | levi ackerman | 利威尔·阿克曼 | 日本漫画《进击的巨人》及其衍生作品中的角色。 |  |
+| makoto-tachibana | 橘真琴 | 日本轻小说《High☆Speed!》及其衍生动画作品《free!》和续作的登场人物。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
