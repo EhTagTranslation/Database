@@ -5263,6 +5263,7 @@ example:
 | natsumi onitsuka | 鬼塚夏美 |  |  |
 | wien margarete | 维恩·玛格丽特 |  |  |
 | shellin burgundy | 谢林·勃艮第 |  |  |
+| levi ackerman | 利威尔·阿克曼 | 日本漫画《进击的巨人》及其衍生作品中的角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
