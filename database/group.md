@@ -12757,6 +12757,7 @@ example:
 | noir auto | ノワールオート |  |  |
 | yuuki saien | ユーキ菜園 |  |  |
 | ginshio honpo | 銀しお本舗 |  |  |
+| kitsune no nijibiya | 狐の虹火屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
