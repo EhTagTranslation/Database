@@ -3428,7 +3428,7 @@ example:
 | meiko shiraki | 白木芽衣子 |  |  |
 | luz noceda | 露丝·诺西达 |  |  |
 | toph bei fong | 北方·托芙 |  |  |
-| robin | 罗宾 | 罗宾DC漫画中的超级英雄，是蝙蝠侠的搭档及助手。又称“神奇小子”。 |  |
+| robin | 罗宾 \| 知更鸟 | 罗宾DC漫画中的超级英雄，是蝙蝠侠的搭档及助手。又称“神奇小子”。<br><br>知更鸟是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/知更鸟%28星穹铁道%29#) |
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 |  |  |
 | makima | 玛奇玛 |  |  |
