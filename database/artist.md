@@ -12794,6 +12794,7 @@ example:
 | saitou renji | 西東レンジ |  |  |
 | suzuro aruki | スズロアルキ |  |  |
 | moritama | もりたま |  |  |
+| inainaka | 不在中 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
