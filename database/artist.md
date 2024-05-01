@@ -12793,6 +12793,7 @@ example:
 | ginen | 銀塩 |  |  |
 | saitou renji | 西東レンジ |  |  |
 | suzuro aruki | スズロアルキ |  |  |
+| moritama | もりたま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
