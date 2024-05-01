@@ -5270,6 +5270,7 @@ example:
 | onpu segawa | 濑川音符 | 日本动画《小魔女DoReMi》中的角色 |  |
 | doremi harukaze | 春风DoReMi | 日本动画《小魔女DoReMi》中的角色。 |  |
 | ichimatsu-matsuno | 松野一松 |  |  |
+| ubel | 尤贝尔 | 尤贝尔是由山田钟人原作、アベツカサ作画的漫画`p:sousou no frieren`及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/55/Frieren_anime_尤贝尔.png) | [萌娘百科](https://zh.moegirl.org.cn/尤贝尔%28葬送的芙莉莲%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
