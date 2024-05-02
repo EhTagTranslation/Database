@@ -11204,7 +11204,7 @@ example:
 | teisoku sonic | 低速ソニック |  |  |
 | teito bouei ryodan | 帝都防衛旅団 |  |  |
 | teketo | TEKETO |  |  |
-| tekireiki ni shokuchuudoku | 適齢期に食中毒 |  |  |
+| tekireiki ni shokuchuudoku | 适龄期に食中毒 | 画师`a:sawamura ao`所属同人社团。 |  |
 | tekitou | 適当 |  |  |
 | tekkamaki | 鉄華巻 |  |  |
 | tekken dynamite | 鉄拳ダイナマイト |  |  |
