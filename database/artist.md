@@ -3164,7 +3164,7 @@ example:
 | saba satoru | 佐波サトル |  |  |
 | nagashiro rouge | 長代ルージュ | ![twitter](https://pbs.twimg.com/profile_images/1376156712789417990/BK4f6pi3_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
 | kuroiwa menou | 黑岩玛瑙 |  |  |
-| isorashi | 五十嵐唱乃 |  |  |
+| isorashi | 五十岚唱乃 | ![twitter](https://pbs.twimg.com/profile_images/1256777432230576129/IqCTfsLD_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/isorashi) |
 | minato fumi | 三巷文 |  |  |
 | hashida mamoru | 桥田镇 |  |  |
 | hiryuu ran | 飞龙乱 |  |  |
