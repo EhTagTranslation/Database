@@ -9872,7 +9872,7 @@ example:
 | sawaki saki | 澤木沙樹 |  |  |
 | sawako | サワコ |  |  |
 | sawamura | 澤村 |  |  |
-| sawamura ao | 泽村青 |  |  |
+| sawamura ao | 泽村青 | ![twitter](https://pbs.twimg.com/profile_images/1762572354759380992/S-8CDU9H_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/sawamura_ao) [pixiv](https://www.pixiv.net/users/8615118) |
 | sawamura kina | さわむらきな |  |  |
 | sawarano goan | さわらの五庵 |  |  |
 | sawasaki | 沢崎 |  |  |
