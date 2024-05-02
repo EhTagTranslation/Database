@@ -12797,6 +12797,7 @@ example:
 | inainaka | 不在中 |  |  |
 | nizigensan | ニジィー | ![twitter](https://pbs.twimg.com/profile_images/1691785458165116928/X23dfRTt_400x400.png)<br><br>**作者推特头像**<br><br>社团`g:ura no hikidashi`主笔画师 | [Twitter](https://twitter.com/urano_hikidashi) [pixiv](https://www.pixiv.net/users/21288594) |
 | yaruku | ヤルク |  |  |
+| jeattle | ジアトー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
