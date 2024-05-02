@@ -2273,7 +2273,7 @@ example:
 | kirihara you | 桐原湧 |  |  |
 | mdakoki | M田K樹 |  |  |
 | ooyoko yamaame | 大横山饴 |  |  |
-| ryokuchaism | 緑茶イズム |  |  |
+| ryokuchaism | 绿茶イズム | ![twitter](https://pbs.twimg.com/profile_images/1461906673212215296/BLLceckP_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/SQbridge) [pixiv](https://www.pixiv.net/users/9402246) |
 | shiden akira | しでん晶 |  |  |
 | soborogo | ソボロゴ |  |  |
 | syoukaki | 消火器 |  |  |
