@@ -2271,6 +2271,7 @@ example:
 | helluva boss | 极恶老大 | 《极恶老大》（英语：Helluva Boss）是由薇薇安•梅德拉诺主创、纺锤之马工作室制作的歌舞喜剧动画。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | power pack | 超能小队 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pack) |
 | the amazing digital circus | 神奇数字马戏团 |  |  |
+| night shift nurses | 夜勤病栋 | 由Mink公司从1999年12月22日开始制作发售的日本成人游戏，主要描叙发生在医院里关于里面护士的鬼畜调教的故事。<br>除了电脑游戏外，另有OVA版本的发行。Mink解散后改由FG REMAKE于2024年2月22日发售重制版《夜勤病栋Remake》。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
