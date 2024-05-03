@@ -12799,6 +12799,7 @@ example:
 | yaruku | ヤルク |  |  |
 | jeattle | ジアトー |  |  |
 | yoshio ereki | よしおエレキ | ![twitter](https://pbs.twimg.com/profile_images/1715140983980204032/cjCuGrnv_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/yoshioereki) [pixiv](https://www.pixiv.net/users/48437512) |
+| ueda metawo | 上田メタヲ | ![twitter](https://pbs.twimg.com/profile_images/1017787284999979008/HMvulebx_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/metawo_ueda) |
 
 <!--TEMPLATE:
 |  |  |  |  |
