@@ -8933,7 +8933,7 @@ example:
 | oboroduki yamiya | 朧月闇夜 |  |  |
 | oborotsuki kakeru | 朧月カケル |  |  |
 | obyaa | おびゃー |  |  |
-| ocha | おちゃ |  |  |
+| ocha | お茶 |  |  |
 | ochatan | おちゃたん |  |  |
 | ochatsumi | オチャツミ |  |  |
 | ochi ai | 越智愛 |  |  |
