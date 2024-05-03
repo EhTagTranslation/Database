@@ -12759,6 +12759,7 @@ example:
 | ginshio honpo | 銀しお本舗 |  |  |
 | kitsune no nijibiya | 狐の虹火屋 |  |  |
 | juubako seisakujo | 重箱製作所 |  |  |
+| mandara ryuuseigun | マンダラ流星群 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
