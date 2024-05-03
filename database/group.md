@@ -12760,6 +12760,7 @@ example:
 | kitsune no nijibiya | 狐の虹火屋 |  |  |
 | juubako seisakujo | 重箱製作所 |  |  |
 | mandara ryuuseigun | マンダラ流星群 |  |  |
+| chimimou land | ちみもうらんど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
