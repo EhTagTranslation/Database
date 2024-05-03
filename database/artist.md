@@ -12392,7 +12392,7 @@ example:
 | chisunosuke | ちすの助 |  | [pixiv](https://www.pixiv.net/users/13646867) [Twitter](https://twitter.com/chisunosuke) |
 | sakurayashiki tonkotsu | 桜屋敷とんこつ |  | [pixiv](https://www.pixiv.net/users/22553630) [Twitter](https://twitter.com/syashiki2nd) |
 | fukumoto masahisa | 福本真久 | ![twitter](https://pbs.twimg.com/profile_images/1551966352839020544/sV9flcGh_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/frozen_pump) |
-| signo mandara | シグノマンダラ | ![twitter](https://pbs.twimg.com/profile_images/1451148079994867714/wg_4qq1F_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/signoMANDARA) [pixiv](https://www.pixiv.net/users/75419849) |
+| signo mandara | シグノマンダラ | ![twitter](https://pbs.twimg.com/profile_images/1747499166371299328/YgipsnCv_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/signoMANDARA) [pixiv](https://www.pixiv.net/users/75419849) |
 | tobiume sayu | 飞梅さゆ | ![twitter](https://pbs.twimg.com/profile_images/1377171581726720000/lR7WXpXY_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/LCLC0821162) [pixiv](https://www.pixiv.net/users/60371485) |
 | omitsu | えびおみつ | ![twitter](https://pbs.twimg.com/profile_images/1501027290175897600/WHhZlq0B_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`satou mitsu`所属画师 | [Twitter](https://twitter.com/Omitsu_sato) [pixiv](https://www.pixiv.net/users/27599922) |
 | hangetsuban sonshou | 半月板损伤 |  |  |
