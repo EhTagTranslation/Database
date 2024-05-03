@@ -12798,6 +12798,7 @@ example:
 | nizigensan | ニジィー | ![twitter](https://pbs.twimg.com/profile_images/1691785458165116928/X23dfRTt_400x400.png)<br><br>**作者推特头像**<br><br>社团`g:ura no hikidashi`主笔画师 | [Twitter](https://twitter.com/urano_hikidashi) [pixiv](https://www.pixiv.net/users/21288594) |
 | yaruku | ヤルク |  |  |
 | jeattle | ジアトー |  |  |
+| yoshio ereki | よしおエレキ | ![twitter](https://pbs.twimg.com/profile_images/1715140983980204032/cjCuGrnv_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/yoshioereki) [pixiv](https://www.pixiv.net/users/48437512) |
 
 <!--TEMPLATE:
 |  |  |  |  |
