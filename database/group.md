@@ -7979,7 +7979,7 @@ example:
 | mokuzou zabuton | モクゾウザブトン |  |  |
 | molamola.software | Molamola.software |  |  |
 | molfo | molfo |  |  |
-| molossan | 喪loss庵 |  |  |
+| molossan | 丧loss庵 |  |  |
 | molotov cocktail | モロトフカクテル |  |  |
 | molten club | モルテンクラブ |  |  |
 | moment silicon | 木綿シリコン |  |  |
