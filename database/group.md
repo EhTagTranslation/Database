@@ -12763,6 +12763,7 @@ example:
 | chimimou land | ちみもうらんど |  |  |
 | neyagurui | ねやぐるい |  |  |
 | tsurutsuru udon club | ツルツルおうどん俱乐部 |  |  |
+| tabehoudai | 食べ放題 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
