@@ -1218,7 +1218,7 @@ example:
 | amatarou | 天太郎 |  |  |
 | aoi hitori | 葵ヒトリ |  |  |
 | aoten | 青点 |  |  |
-| clone ningen | clone人間 |  |  |
+| clone ningen | clone人间 |  |  |
 | dowman sayman | 道满晴明 |  |  |
 | kagura moromi | 神楽もろみ | ![图](# "https://ehgt.org/82/54/82541ab0d47883d3a6a9bf473a2601acfc791fad-728574-1063-1500-jpg_l.jpg") | [Twitter](https://www.pixiv.net/users/15398550) |
 | mikaze takashi | 水风天 |  |  |
