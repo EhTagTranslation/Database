@@ -1526,7 +1526,7 @@ example:
 | minagiku | みなぎく |  |  |
 | landolt tamaki | ランドルトたまき |  | [pixiv](https://www.pixiv.net/users/226254) |
 | kisaragi miyu | 如月みゆ |  |  |
-| igumox | 井雲くす |  | [Twitter](https://twitter.com/igumox) [pixiv](https://www.pixiv.net/users/55128) |
+| igumox | 井云くす | ![twitter](https://pbs.twimg.com/profile_images/1223528833447419905/W74w33tz_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/igumox) [pixiv](https://www.pixiv.net/users/55128) |
 | kuune rin | くうねりん |  |  |
 | goto-beido | ゴト・ベイドー |  |  |
 | morikura en | 森仓圆 |  |  |
