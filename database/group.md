@@ -12766,6 +12766,7 @@ example:
 | tabehoudai | 食べ放題 |  |  |
 | yururiya. | ゆるり屋。 |  |  |
 | chokuretsu reactor | 直列りあくとる |  |  |
+| kaminarisama | カミナリサマ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
