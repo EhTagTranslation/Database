@@ -12762,6 +12762,7 @@ example:
 | mandara ryuuseigun | マンダラ流星群 |  |  |
 | chimimou land | ちみもうらんど |  |  |
 | neyagurui | ねやぐるい |  |  |
+| tsurutsuru udon club | ツルツルおうどん俱乐部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
