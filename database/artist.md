@@ -12802,6 +12802,7 @@ example:
 | ueda metawo | 上田メタヲ | ![twitter](https://pbs.twimg.com/profile_images/1017787284999979008/HMvulebx_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/metawo_ueda) |
 | ematsuko | エマツコ |  |  |
 | kimineko | 君ねこ |  |  |
+| toono esuke | 远野えすけ | ![twitter](https://pbs.twimg.com/profile_images/1755603556097560576/uk4FxYHg_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/aihasinda2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
