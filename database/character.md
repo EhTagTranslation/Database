@@ -5273,6 +5273,7 @@ example:
 | takeru taiga | 大河武 |  |  |
 | ikoma | 生驹 | TV动画《甲铁城的卡巴内利》及其衍生作品中的角色，男主角 。住在以炼铁和蒸汽机的生产为业的显金驿的蒸汽锻冶少年。<br>为了打倒卡巴内，和朋友逞生一起开发了独自的武器“贯筒”。虽然受到众人的轻视，但期盼着有朝一日能让人们对自己刮目相看。 |  |
 | juufuutei raden | 儒乌风亭螺钿 |  |  |
+| chitose kisaragi | 如月千岁 | 万代南梦宫发行的游戏《超级机器人大战V》的原创角色。<br>本作女主角，第三特殊战略研究所防卫队的队员，并无实战经验。<br>有活泼开朗的性格，让周围的人们感受她的安心乐意。<br><br>![](https://static.wikia.nocookie.net/superrobotwars/images/1/1e/SRWV-Chitose.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
