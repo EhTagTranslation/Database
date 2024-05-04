@@ -12761,6 +12761,7 @@ example:
 | juubako seisakujo | 重箱製作所 |  |  |
 | mandara ryuuseigun | マンダラ流星群 |  |  |
 | chimimou land | ちみもうらんど |  |  |
+| neyagurui | ねやぐるい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
