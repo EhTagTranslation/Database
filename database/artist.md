@@ -12804,6 +12804,7 @@ example:
 | kimineko | 君ねこ |  |  |
 | toono esuke | 远野えすけ | ![twitter](https://pbs.twimg.com/profile_images/1755603556097560576/uk4FxYHg_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/aihasinda2) |
 | ozu satoru | を图さとる | ![twitter](https://pbs.twimg.com/profile_images/1725376830193201152/Ot31RIzQ_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/ozsatoru) [pixiv](https://www.pixiv.net/users/98073184) |
+| ainame | あいなめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
