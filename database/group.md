@@ -12764,6 +12764,7 @@ example:
 | neyagurui | ねやぐるい |  |  |
 | tsurutsuru udon club | ツルツルおうどん俱乐部 |  |  |
 | tabehoudai | 食べ放題 |  |  |
+| yururiya. | ゆるり屋。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
