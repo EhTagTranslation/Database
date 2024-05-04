@@ -5359,7 +5359,7 @@ example:
 | goji | ゴジ |  |  |
 | gojou kurota | 五條くろた |  |  |
 | gojou shino | ごじょう忍 |  |  |
-| gokuraku jouko | 極楽浄子 |  |  |
+| gokuraku jouko | 极乐浄子 |  | [pixiv](https://www.pixiv.net/users/10224360) |
 | gokurou | ごくろう |  |  |
 | golden | ゴールデン |  |  |
 | golgi bon | ゴルジイ本 |  |  |
