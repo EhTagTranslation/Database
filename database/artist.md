@@ -12809,6 +12809,7 @@ example:
 | akatsuki usagi | あかつき兎 |  |  |
 | umako | ウマ子 |  |  |
 | kumamoto aichi | 熊本愛知 |  |  |
+| arata | アラタ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
