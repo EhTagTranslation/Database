@@ -12810,6 +12810,7 @@ example:
 | umako | ウマ子 |  |  |
 | kumamoto aichi | 熊本愛知 |  |  |
 | arata | アラタ |  |  |
+| yumemi gachi | 夢ミガチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
