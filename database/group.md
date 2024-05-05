@@ -12767,6 +12767,7 @@ example:
 | yururiya. | ゆるり屋。 |  |  |
 | chokuretsu reactor | 直列りあくとる |  |  |
 | kaminarisama | カミナリサマ |  |  |
+| hoshikuzu pot-au-feu | 星屑ぽとふ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
