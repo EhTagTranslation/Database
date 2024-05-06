@@ -12768,6 +12768,7 @@ example:
 | chokuretsu reactor | 直列りあくとる |  |  |
 | kaminarisama | カミナリサマ |  |  |
 | hoshikuzu pot-au-feu | 星屑ぽとふ |  |  |
+| binzoko | BINZOKO |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
