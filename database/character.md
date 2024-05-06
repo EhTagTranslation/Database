@@ -5275,6 +5275,7 @@ example:
 | juufuutei raden | 儒乌风亭螺钿 |  |  |
 | chitose kisaragi | 如月千岁 | 万代南梦宫发行的游戏《超级机器人大战V》的原创角色。<br>本作女主角，第三特殊战略研究所防卫队的队员，并无实战经验。<br>有活泼开朗的性格，让周围的人们感受她的安心乐意。<br><br>![](https://static.wikia.nocookie.net/superrobotwars/images/1/1e/SRWV-Chitose.png) |  |
 | erik | 卡缪 | 卡缪是游戏《勇者斗恶龙11》中的角色。 | [百度百科](https://baike.baidu.com/item/卡缪/56449810?fr=aladdin) |
+| mika schmidt | 米卡·施密特 | 米卡是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>米卡属于“施密特”（Schmidt）家族，因此其全名大概率为”米卡·施密特”，但游戏内目前没有直接出现米卡的全名。 | [萌娘百科](https://zh.moegirl.org.cn/米卡%28原神%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
