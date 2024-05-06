@@ -12811,6 +12811,7 @@ example:
 | kumamoto aichi | 熊本愛知 |  |  |
 | arata | アラタ |  |  |
 | yumemi gachi | 夢ミガチ |  |  |
+| sinobiin | しのびん |  | [pixiv](https://www.pixiv.net/users/24153850) [Twitter](https://twitter.com/4nobin) |
 
 <!--TEMPLATE:
 |  |  |  |  |
