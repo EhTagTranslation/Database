@@ -12769,6 +12769,7 @@ example:
 | kaminarisama | カミナリサマ |  |  |
 | hoshikuzu pot-au-feu | 星屑ぽとふ |  |  |
 | binzoko | BINZOKO |  |  |
+| flower classe | ふらわーくらっせ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
