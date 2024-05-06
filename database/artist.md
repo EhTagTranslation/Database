@@ -12812,6 +12812,7 @@ example:
 | arata | アラタ |  |  |
 | yumemi gachi | 夢ミガチ |  |  |
 | sinobiin | しのびん |  | [pixiv](https://www.pixiv.net/users/24153850) [Twitter](https://twitter.com/4nobin) |
+| funnyaka | フンニャカ |  | [pixiv](https://www.pixiv.net/users/4517134)  [Twitter](https://twitter.com/funnyaka7) |
 
 <!--TEMPLATE:
 |  |  |  |  |
