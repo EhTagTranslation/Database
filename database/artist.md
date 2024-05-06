@@ -12813,6 +12813,7 @@ example:
 | yumemi gachi | 夢ミガチ |  |  |
 | sinobiin | しのびん |  | [pixiv](https://www.pixiv.net/users/24153850) [Twitter](https://twitter.com/4nobin) |
 | funnyaka | フンニャカ |  | [pixiv](https://www.pixiv.net/users/4517134)  [Twitter](https://twitter.com/funnyaka7) |
+| yonaka ao | よなかあお |  | [pixiv](https://www.pixiv.net/users/3357827) [Twitter](https://twitter.com/aoi_illust_2077) |
 
 <!--TEMPLATE:
 |  |  |  |  |
