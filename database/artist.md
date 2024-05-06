@@ -373,7 +373,7 @@ example:
 | mango pudding | まんごープリン |  |  |
 | wakamiya santa | 若宫参太 |  |  |
 | shungiku tenudon | 春菊天うどん | ![头像](https://img.pawoo.net/accounts/avatars/000/053/526/original/38ae71111a611df8.png) | [pixiv](https://www.pixiv.net/users/5921803) [pawoo](https://pawoo.net/@shungikuten) |
-| mikaduki neko | 三日月ネコ |  |  |
+| mikaduki neko | 三日月ネコ |  | [pixiv](https://www.pixiv.net/users/573106) |
 | aihara shouta | 相原翔太 |  |  |
 | mimofu | みもふ |  |  |
 | takatuki nato | 鷹月ナト |  |  |
