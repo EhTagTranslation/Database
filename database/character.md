@@ -5296,6 +5296,7 @@ example:
 | maud pie | 石灰派 |  |  |
 | nurse redheart | 红心护士 |  |  |
 | pear butter | 金梨果酱 |  |  |
+| toriel | 托丽尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
