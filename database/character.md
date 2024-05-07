@@ -5278,6 +5278,7 @@ example:
 | mika schmidt | 米卡·施密特 | 米卡是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>米卡属于“施密特”（Schmidt）家族，因此其全名大概率为”米卡·施密特”，但游戏内目前没有直接出现米卡的全名。 | [萌娘百科](https://zh.moegirl.org.cn/米卡%28原神%29#) |
 | van gogh | 梵高 |  |  |
 | shousetsu yui | 由井正雪 |  |  |
+| xu fu | 徐福 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
