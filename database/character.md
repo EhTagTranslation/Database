@@ -5291,6 +5291,7 @@ example:
 | tempest shadow | 狂风暗影 |  |  |
 | zecora | 泽科拉 |  |  |
 | coco pommel | 可可·帕梅 |  |  |
+| flurry heart | 凝心雪儿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
