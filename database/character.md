@@ -5289,6 +5289,7 @@ example:
 | king sombra | 黑晶王 |  |  |
 | stellar flare | 星辰闪耀 |  |  |
 | tempest shadow | 狂风暗影 |  |  |
+| zecora | 泽科拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
