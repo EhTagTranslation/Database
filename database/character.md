@@ -5293,6 +5293,7 @@ example:
 | coco pommel | 可可·帕梅 |  |  |
 | flurry heart | 凝心雪儿 |  |  |
 | limestone pie | 石青派 |  |  |
+| maud pie | 石灰派 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
