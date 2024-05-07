@@ -5308,6 +5308,7 @@ example:
 | lynn loud | 琳恩·劳德 |  |  |
 | rita loud | 丽塔·劳德 |  |  |
 | clyde mcbride | 克莱德·麦克布莱德 |  |  |
+| lori loud | 罗丽·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
