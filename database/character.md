@@ -5286,6 +5286,7 @@ example:
 | adagio dazzle | 阿达吉奥·达佐 |  |  |
 | aria blaze | 阿里亚·布雷兹 |  |  |
 | cheerilee | 车厘子 |  |  |
+| king sombra | 黑晶王 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
