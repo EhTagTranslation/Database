@@ -5298,6 +5298,7 @@ example:
 | pear butter | 金梨果酱 |  |  |
 | toriel | 托丽尔 |  |  |
 | frisk | 福 |  |  |
+| lana loud | 拉娜·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
