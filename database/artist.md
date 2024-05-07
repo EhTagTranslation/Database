@@ -12818,6 +12818,7 @@ example:
 | bonnouji yura | 烦恼寺ゆら |  | [pixiv](https://www.pixiv.net/users/72797489) |
 | kuware | クワレ |  |  |
 | izumida izumi | 泉田一角 |  |  |
+| yurashima | ゆらしま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
