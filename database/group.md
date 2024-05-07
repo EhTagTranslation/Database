@@ -12771,6 +12771,7 @@ example:
 | binzoko | BINZOKO |  |  |
 | flower classe | ふらわーくらっせ |  |  |
 | iro murasaki | やみつきハグハグ |  |  |
+| minshuku izmd | 民宿IZMD |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
