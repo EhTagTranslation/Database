@@ -5306,6 +5306,7 @@ example:
 | luan loud | 卢安·劳德 |  |  |
 | luna loud | 露娜·劳德 |  |  |
 | lynn loud | 琳恩·劳德 |  |  |
+| rita loud | 丽塔·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
