@@ -5287,6 +5287,7 @@ example:
 | aria blaze | 阿里亚·布雷兹 |  |  |
 | cheerilee | 车厘子 |  |  |
 | king sombra | 黑晶王 |  |  |
+| stellar flare | 星辰闪耀 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
