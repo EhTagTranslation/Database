@@ -5288,6 +5288,7 @@ example:
 | cheerilee | 车厘子 |  |  |
 | king sombra | 黑晶王 |  |  |
 | stellar flare | 星辰闪耀 |  |  |
+| tempest shadow | 狂风暗影 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
