@@ -5281,7 +5281,7 @@ example:
 | xu fu | 徐福 |  |  |
 | okuni | 出云阿国 |  |  |
 | do-s | 弩S |  |  |
-| fiona frost | 菲奥娜·弗洛斯特 |  | [萌娘百科](https://zh.moegirl.org.cn/菲奥娜·弗洛斯特) |
+| fiona frost | 菲奥娜·弗洛斯特 | 菲奥娜·弗洛斯特是漫画《`p:spy x family`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/菲奥娜·弗洛斯特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
