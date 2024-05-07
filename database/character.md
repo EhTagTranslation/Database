@@ -5280,6 +5280,7 @@ example:
 | shousetsu yui | 由井正雪 |  |  |
 | xu fu | 徐福 |  |  |
 | okuni | 出云阿国 |  |  |
+| do-s | 弩S |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
