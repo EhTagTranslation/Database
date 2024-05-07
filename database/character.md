@@ -5310,6 +5310,7 @@ example:
 | clyde mcbride | 克莱德·麦克布莱德 |  |  |
 | lori loud | 罗丽·劳德 |  |  |
 | lily loud | 莉莉·劳德 |  |  |
+| lucy loud | 露西·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
