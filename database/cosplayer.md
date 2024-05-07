@@ -118,6 +118,7 @@ example:
 | hana bunny | Hana Bunny |  |  |
 | tsunnyanchan | Tsunnyanchan |  |  |
 | rynkerbelle | Rynkerbelle |  |  |
+| cattashaa | Cattashaa |  |  |
 
 <!--
 Template: 
