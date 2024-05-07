@@ -5294,6 +5294,7 @@ example:
 | flurry heart | 凝心雪儿 |  |  |
 | limestone pie | 石青派 |  |  |
 | maud pie | 石灰派 |  |  |
+| nurse redheart | 红心护士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
