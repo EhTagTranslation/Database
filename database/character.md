@@ -5292,6 +5292,7 @@ example:
 | zecora | 泽科拉 |  |  |
 | coco pommel | 可可·帕梅 |  |  |
 | flurry heart | 凝心雪儿 |  |  |
+| limestone pie | 石青派 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
