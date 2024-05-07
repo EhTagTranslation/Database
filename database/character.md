@@ -5302,6 +5302,7 @@ example:
 | leni loud | 兰妮·劳德 |  |  |
 | lincoln loud | 林肯·劳德 |  |  |
 | lisa loud | 莉萨·劳德 |  |  |
+| lola loud | 萝拉·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
