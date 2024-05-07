@@ -5311,6 +5311,7 @@ example:
 | lori loud | 罗丽·劳德 |  |  |
 | lily loud | 莉莉·劳德 |  |  |
 | lucy loud | 露西·劳德 |  |  |
+| lynn loud sr. | 老林恩·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
