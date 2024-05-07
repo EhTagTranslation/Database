@@ -5297,6 +5297,7 @@ example:
 | nurse redheart | 红心护士 |  |  |
 | pear butter | 金梨果酱 |  |  |
 | toriel | 托丽尔 |  |  |
+| frisk | 福 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
