@@ -5312,6 +5312,7 @@ example:
 | lily loud | 莉莉·劳德 |  |  |
 | lucy loud | 露西·劳德 |  |  |
 | lynn loud sr. | 老林恩·劳德 |  |  |
+| claire redfield | 克莱尔·雷德菲尔德 |  | [萌娘百科](https://zh.moegirl.org.cn/克莱尔·雷德菲尔德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
