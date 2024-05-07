@@ -895,7 +895,7 @@ example:
 |  | ▼ My Little Pony 角色 |  |  |
 | applejack | 苹果杰克 |  |  |
 | fluttershy | 小蝶 |  |  |
-| pinkie pie | 萍琪·派 |  |  |
+| pinkie pie | 萍琪派 |  |  |
 | rainbow dash | 云宝黛茜 |  |  |
 | rarity | 瑞瑞 |  |  |
 | twilight sparkle | 暮光闪闪 |  |  |
