@@ -12819,6 +12819,7 @@ example:
 | kuware | クワレ |  |  |
 | izumida izumi | 泉田一角 |  |  |
 | yurashima | ゆらしま |  | [pixiv](https://www.pixiv.net/users/14503246) [Twitter](https://twitter.com/yurashimayura) |
+| aoyagi kabota | 青柳カボた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
