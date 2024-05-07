@@ -12817,6 +12817,7 @@ example:
 | scaf | SCAF（すかーふ） |  | [pixiv](https://www.pixiv.net/users/7086692) |
 | bonnouji yura | 烦恼寺ゆら |  | [pixiv](https://www.pixiv.net/users/72797489) |
 | kuware | クワレ |  |  |
+| izumida izumi | 泉田一角 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
