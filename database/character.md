@@ -5303,6 +5303,7 @@ example:
 | lincoln loud | 林肯·劳德 |  |  |
 | lisa loud | 莉萨·劳德 |  |  |
 | lola loud | 萝拉·劳德 |  |  |
+| luan loud | 卢安·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
