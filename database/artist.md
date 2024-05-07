@@ -11142,7 +11142,7 @@ example:
 | tsusauto | 津差宇土 |  |  |
 | tsutsumi | 包 |  |  |
 | tsutsumi akari | つつみあかり |  |  |
-| tsutsumori | 筒森 |  |  |
+| tsutsumori | 筒森 |  | [pixiv](https://www.pixiv.net/users/854157) |
 | tsuwabuki raishi | 石蕗らいし |  |  |
 | tsuyoshi | 津義 |  |  |
 | tsuzuki kazuhiko | 都築和彦 |  |  |
