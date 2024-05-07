@@ -5279,6 +5279,7 @@ example:
 | van gogh | 梵高 |  |  |
 | shousetsu yui | 由井正雪 |  |  |
 | xu fu | 徐福 |  |  |
+| okuni | 出云阿国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
