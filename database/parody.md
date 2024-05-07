@@ -946,7 +946,7 @@ example:
 | predator | 铁血战士 |  |  |
 | underworld | 黑夜传说 |  |  |
 | danny phantom | 幻影丹尼 |  |  |
-| the loud house | 喧闹一家亲 |  |  |
+| the loud house | 喧闹一家亲 |  | [萌娘百科](https://zh.moegirl.org.cn/喧闹一家亲) |
 | nodame cantabile | 交响情人梦 |  |  |
 | another | Another | 《Another》（简体中文译名《替身》）是绫辻行人创作的一部长篇推理小说。<br><br>故事讲述了夜见山镇的夜见山北中学的一个古老传说，据说二十六年前，该学校的三年三班有一位叫“misaki”的人气学生突然死亡，班上的老师和同学无法接受这个事实，众人决定到毕业之前仍想像「misaki」还活着般度过每一天。结果该做法从中召唤回了死者。此后诅咒开始了，三年三班成为了死者的还魂之所，每届三年三班都会莫名其妙多出一个“多余的人”，该“多余的人”是该班级曾经死掉的人，死亡降临到了班上的每一个人，而只有让死者“回归死亡”，才可以停止灾厄……<br><br>![](https://p.sda1.dev/13/f3ea3f239d44d1cc722dbad955f523e4/Another.webp) | [维基百科](https://zh.wikipedia.org/wiki/Another) [萌娘百科](https://zh.moegirl.org.cn/Another) |
 | valkyria chronicles | 战场女武神 |  |  |
