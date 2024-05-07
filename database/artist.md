@@ -451,7 +451,7 @@ example:
 | rie-chan 14-sai | りえちゃん14歳 |  |  |
 | fukori | フコリ |  |  |
 | shinyashiki | 新屋敷 |  |  |
-| kanzume | KANZUME |  |  |
+| kanzume | KANZUME |  | [piixiv](https://www.pixiv.net/users/29981) |
 | kishimen | きしめん |  |  |
 | ken-1 | Ken-1 |  | [Twitter](https://twitter.com/clowns_ken1) [pixiv](https://www.pixiv.net/users/32288) |
 | midoh tsukasa | 御堂つかさ |  |  |
