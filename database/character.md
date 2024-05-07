@@ -5299,6 +5299,7 @@ example:
 | toriel | 托丽尔 |  |  |
 | frisk | 福 |  |  |
 | lana loud | 拉娜·劳德 |  |  |
+| leni loud | 兰妮·劳德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
