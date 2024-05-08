@@ -12772,6 +12772,7 @@ example:
 | flower classe | ふらわーくらっせ |  |  |
 | iro murasaki | やみつきハグハグ |  |  |
 | minshuku izmd | 民宿IZMD |  |  |
+| youyouan | 葉々庵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
