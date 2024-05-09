@@ -5317,6 +5317,7 @@ example:
 | kukulkan | 库库尔坎 |  |  |
 | iori miyamoto | 宫本伊织 |  |  |
 | kirara yozakura | 夜樱绮罗罗 |  |  |
+| britomart | 布里托玛特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
