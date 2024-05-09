@@ -5316,6 +5316,7 @@ example:
 | albert wesker | 阿尔伯特·威斯克 |  |  |
 | kukulkan | 库库尔坎 |  |  |
 | iori miyamoto | 宫本伊织 |  |  |
+| kirara yozakura | 夜樱绮罗罗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
