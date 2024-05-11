@@ -12775,6 +12775,7 @@ example:
 | youyouan | 葉々庵 |  |  |
 | kurumaya koudou | クルマヤ公道 |  |  |
 | harugakita | はるがきた |  |  |
+| imoimolatte | いもいもラテ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
