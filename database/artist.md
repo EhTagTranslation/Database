@@ -12822,6 +12822,7 @@ example:
 | aoyagi kabota | 青柳カボた |  |  |
 | phathusa | Phathusa |  |  |
 | kitsune maru | きつね丸 |  |  |
+| tsukushi haru | 筑紫はる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
