@@ -5320,6 +5320,7 @@ example:
 | britomart | 布里托玛特 |  |  |
 | rex | 莱克斯 | 莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) |
 | shizuka mikazuki | 三日月闲 | 漫画《僵尸百分百》女主角 |  |
+| la pluma | 羽毛笔 | 手机游戏明日方舟女干员 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
