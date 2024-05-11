@@ -12776,6 +12776,7 @@ example:
 | kurumaya koudou | クルマヤ公道 |  |  |
 | harugakita | はるがきた |  |  |
 | imoimolatte | いもいもラテ |  |  |
+| kitahara koubou | 北原工房。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
