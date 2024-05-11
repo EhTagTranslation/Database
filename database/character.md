@@ -5318,6 +5318,7 @@ example:
 | iori miyamoto | 宫本伊织 |  |  |
 | kirara yozakura | 夜樱绮罗罗 |  |  |
 | britomart | 布里托玛特 |  |  |
+| rex | 莱克斯 | 莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
