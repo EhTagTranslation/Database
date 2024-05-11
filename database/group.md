@@ -12774,6 +12774,7 @@ example:
 | minshuku izmd | 民宿IZMD |  |  |
 | youyouan | 葉々庵 |  |  |
 | kurumaya koudou | クルマヤ公道 |  |  |
+| harugakita | はるがきた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
