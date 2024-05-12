@@ -12778,6 +12778,7 @@ example:
 | imoimolatte | いもいもラテ |  |  |
 | kitahara koubou | 北原工房。 |  |  |
 | smile foran company | すまいるふぉらんかんぱにぃ。 |  |  |
+| kozuki sousaku dokoro | 甲月創作処 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
