@@ -12777,6 +12777,7 @@ example:
 | harugakita | はるがきた |  |  |
 | imoimolatte | いもいもラテ |  |  |
 | kitahara koubou | 北原工房。 |  |  |
+| smile foran company | すまいるふぉらんかんぱにぃ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
