@@ -12824,6 +12824,7 @@ example:
 | kitsune maru | きつね丸 |  |  |
 | tsukushi haru | 筑紫はる |  |  |
 | lao gong | 老攻 |  | [pixiv](https://www.pixiv.net/users/44535714) |
+| kozuki | 甲月 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
