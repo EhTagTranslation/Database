@@ -3035,7 +3035,7 @@ example:
 | kanon daiba | 台场夏音 | 误射姬 |  |
 | marnie | 玛俐 | 玛俐（日文︰マリィ，英文︰Marnie）是《剑／盾》中登场的角色，为主角的劲敌之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 | taokaka | 桃卡卡 |  |  |
-| medusa lily | 美杜莎(Lancer) | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org.cn/美杜莎%28Fate%29) |
+| medusa lily | 美杜莎（Lancer） | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org.cn/美杜莎%28Fate%29) |
 | salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
 | zeta | 泽塔 | ![泽塔](https://huiji-public.huijistatic.com/gbf/uploads/5/5b/Zoom_3040028000_01.png)<br>日文名：ゼタ<br>英文名：Zeta<br>中文译名：泽塔<br>碧蓝幻想Versus人物中文译名：塞达<br>隶属于旨在狩猎星晶兽的“组织”的英勇女战士，也是封印武器“阿尔贝斯之枪”的契约者。<br>和搭档巴萨拉卡一同执行“组织”任务的情况较多，也常发生冲突，但两人绝非关系恶劣，反倒是互相信赖。<br>或许是因为塞达不服输又开朗活泼的性格与巴萨拉卡处事不惊的沉稳性格保持着完美的平衡。<br>擅长以长枪进行中距离猛攻阻止敌人近身，以及可发挥速度优势的空中战。 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040028000) |
 | beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
