@@ -12825,6 +12825,7 @@ example:
 | tsukushi haru | 筑紫はる |  |  |
 | lao gong | 老攻 |  | [pixiv](https://www.pixiv.net/users/44535714) |
 | kozuki | 甲月 |  |  |
+| yunkaiming | 云开明 |  | [pixiv](https://www.pixiv.net/users/19935159) [Twitter](https://twitter.com/ZhangDiiiii) |
 
 <!--TEMPLATE:
 |  |  |  |  |
