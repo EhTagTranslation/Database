@@ -1929,7 +1929,7 @@ example:
 | sella | 塞拉 |  |  |
 | euryale | 尤瑞艾莉（二姐） | 游戏`fate grand order`及其衍生作品中的出场人物。希腊神话中戈耳工三姊妹的次女。<br>![图](https://ehgt.org/df/38/df38db00349b92e67010304cf7b310ee48c0f04d-2871405-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尤瑞艾莉%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/尤瑞艾莉) |
 | shiki ryougi | 两仪式 | ![图](https://ehgt.org/39/6a/396a0c4d0cb0ad982c1ab74cb2ee7993db9e4e1a-1666909-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/b8/42/b84245fa93af8346e1bbe64499c92b0795946d57-1436434-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/两仪式) [Saber - Mooncell](http://www.fgo.wiki/w/两仪式) [Assassin - Mooncell](http://www.fgo.wiki/w/两仪式%28Assassin%29) |
-| stheno | 斯忒诺 | ![图](https://ehgt.org/10/ff/10ff76ba80d7fac50c8c0d2e29f30241c8a2ebfb-2936321-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/斯忒诺%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯忒诺) |
+| stheno | 斯忒诺（大姐） | ![图](https://ehgt.org/10/ff/10ff76ba80d7fac50c8c0d2e29f30241c8a2ebfb-2936321-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/斯忒诺%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯忒诺) |
 | mordred pendragon | 莫德雷德·潘德拉贡 | ![图](https://ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](https://ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/莫德雷德) |
 | queen of sheba | 示巴女王 |  |  |
 | wu zetian | 武则天 | ![图](# "https://ehgt.org/f2/71/f2712e3f466c0dc6210e03f5611af2a27e094d4f-1955013-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/武则天%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/不夜城的Assassin) |
