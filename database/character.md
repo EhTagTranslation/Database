@@ -5338,6 +5338,7 @@ example:
 | fuuma kotarou | 风魔小太郎 |  |  |
 | boggart | 博格特 |  |  |
 | tezcatlipoca | 特斯卡特利波卡（烟雾镜） |  |  |
+| arjuna | 阿周那 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
