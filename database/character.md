@@ -5335,6 +5335,7 @@ example:
 | aesc the savior | 救世主梣 |  |  |
 | morgan | 摩根 |  |  |
 | aphrodite | 阿佛洛狄忒 |  |  |
+| fuuma kotarou | 风魔小太郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
