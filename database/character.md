@@ -5348,6 +5348,7 @@ example:
 | kojiro sasaki | 佐佐木小次郎 |  |  |
 | james moriarty | 詹姆斯·莫里亚蒂 |  |  |
 | hajime saitou | 斋藤一 |  |  |
+| goredolf musik | 戈尔德鲁夫·穆吉克 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
