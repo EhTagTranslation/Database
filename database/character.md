@@ -5329,6 +5329,7 @@ example:
 | locusta | 洛库斯塔 |  |  |
 | wandjina | 旺吉娜 |  |  |
 | tlaloc | 特拉洛克 |  |  |
+| black cat | 费莉西亚‧哈代（黑猫） |  | [萌娘百科](https://zh.moegirl.org.cn/黑猫%28漫威%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
