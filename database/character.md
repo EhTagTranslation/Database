@@ -5344,6 +5344,7 @@ example:
 | oberon | 奥伯龙 |  |  |
 | ashiya douman | 芦屋道满 |  |  |
 | robin hood | 罗宾汉 |  |  |
+| ryouma sakamoto | 坂本龙马 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
