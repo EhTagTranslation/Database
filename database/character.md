@@ -5327,6 +5327,7 @@ example:
 | shinsaku takasugi | 高杉晋作 |  |  |
 | nagayoshi mori | 森长可 |  |  |
 | locusta | 洛库斯塔 |  |  |
+| wandjina | 旺吉娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
