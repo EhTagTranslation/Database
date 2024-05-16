@@ -5331,6 +5331,7 @@ example:
 | tlaloc | 特拉洛克 |  |  |
 | black cat | 费莉西亚‧哈代（黑猫） |  | [萌娘百科](https://zh.moegirl.org.cn/黑猫%28漫威%29#) |
 | spider-man | 蜘蛛侠 |  | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛侠) |
+| mary jane watson | 玛丽•简•沃森 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪莉·珍·華生) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
