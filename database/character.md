@@ -5345,6 +5345,7 @@ example:
 | ashiya douman | 芦屋道满 |  |  |
 | robin hood | 罗宾汉 |  |  |
 | ryouma sakamoto | 坂本龙马 |  |  |
+| kojiro sasaki | 佐佐木小次郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
