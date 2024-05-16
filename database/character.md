@@ -1968,7 +1968,7 @@ example:
 | nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 | ![图](# "https://ehgt.org/dc/2b/dc2bba6bee0a93a81ada9f70bdaf8ad08dfb8450-2243286-1024-1448-png_l.jpg") | [Mooncell](http://www.fgo.wiki/w/尼禄·克劳狄乌斯〔新娘〕) [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#) |
 | chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰)<br>[茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
-| artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕（泳装） |  |  |
+| artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕（Rider） |  |  |
 | katsushika hokusai | 葛饰北斋（阿荣） | ![图](https://ehgt.org/e8/cc/e8ccea19028bed78c6fafa4710cf7b5da057cc16-2657507-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/葛饰北斋) [萌娘百科](https://zh.moegirl.org.cn/葛饰北斋%28Fate%29#) |
 | saint martha | 玛尔达 | ![图](https://ehgt.org/54/3d/543d726588b7b40ffc89612938edad9dfc1b232a-2396129-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛尔达%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛尔达) |
 | murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
@@ -3804,7 +3804,7 @@ example:
 | rita rossweisse | 丽塔·洛丝薇瑟 | 丽塔·洛丝薇瑟（日语：リタ・ロスヴァイセ）是miHoYo旗下游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丽塔·洛丝薇瑟) [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Rita_Rossweisse) |
 | yor forger | 约尔·福杰 |  | [萌娘百科](https://zh.moegirl.org.cn/约尔·福杰) |
 | misaki tobisawa | 鸢泽美咲 | 鸢泽美咲是游戏《苍之彼方的四重奏》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/鸢泽美咲) [Fandom](https://aokana.fandom.com/wiki/Misaki_Tobisawa) |
-| morgan le fay | 摩根·勒·菲 | 游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。<br><br>![摩根](https://img.moegirl.org.cn/common/6/64/Morganlefay.jpg) | [萌娘百科](https://zh.moegirl.org.cn/摩根%28Fate/Grand_Order%29#) |
+| morgan le fay | 摩根·勒·菲 | 游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。<br>![摩根](https://media.fgo.wiki/9/9f/モルガン初始.png) | [萌娘百科](https://zh.moegirl.org.cn/摩根%28Fate/Grand_Order%29#) |
 | nishizono chigusa | 西园千草 | 西园千草是一名从2020年08月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/西园千草) |
 | sherry birkin | 雪莉·柏金 | 初登场于《生化危机2》，该作故事的核心人物。后登场于《生化危机 暗黑编年史》、《生化危机 浣熊市行动》、《生化危机6》。除此之外，在《生化危机6》以及《生化危机2 重制版》中雪莉是可操纵游玩的女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/雪莉·柏金) [Fandom](https://residentevil.fandom.com/wiki/Sherry_Birkin) |
 | ratna petit | 拉特娜·葡蒂 | 拉特娜·葡蒂是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉特娜·葡蒂) |
