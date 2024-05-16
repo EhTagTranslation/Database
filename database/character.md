@@ -5341,6 +5341,7 @@ example:
 | arjuna | 阿周那 |  |  |
 | ashwatthama | 马嘶 |  |  |
 | shirou amakusa | 天草四郎 |  |  |
+| oberon | 奥伯龙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
