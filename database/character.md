@@ -5328,6 +5328,7 @@ example:
 | nagayoshi mori | 森长可 |  |  |
 | locusta | 洛库斯塔 |  |  |
 | wandjina | 旺吉娜 |  |  |
+| tlaloc | 特拉洛克 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
