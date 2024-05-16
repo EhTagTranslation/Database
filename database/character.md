@@ -5339,6 +5339,7 @@ example:
 | boggart | 博格特 |  |  |
 | tezcatlipoca | 特斯卡特利波卡（烟雾镜） |  |  |
 | arjuna | 阿周那 |  |  |
+| ashwatthama | 马嘶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
