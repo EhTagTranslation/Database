@@ -5350,6 +5350,7 @@ example:
 | hajime saitou | 斋藤一 |  |  |
 | goredolf musik | 戈尔德鲁夫·穆吉克 |  |  |
 | edward teach | 爱德华·蒂奇（黑胡子） |  |  |
+| habetrot | 哈贝特洛特（哈贝喵） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
