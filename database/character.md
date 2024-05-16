@@ -5342,6 +5342,7 @@ example:
 | ashwatthama | 马嘶 |  |  |
 | shirou amakusa | 天草四郎 |  |  |
 | oberon | 奥伯龙 |  |  |
+| ashiya douman | 芦屋道满 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
