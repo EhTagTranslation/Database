@@ -2096,7 +2096,7 @@ example:
 | hajimete no oishasan | はじめてのおいしゃさん | `p:hajimete no orusuban`续集 | [https://vndb.org/v1619](https://vndb.org/v1619) [维基百科（日语）](https://ja.wikipedia.org/wiki/はじめてのおいしゃさん) |
 | hajimete no otetsudai | はじめてのおてつだい | 属于`p:hajimete no orusuban`系列 | [https://vndb.org/v1618](https://vndb.org/v1618) [Bangumi](https://bgm.tv/subject/88300) |
 | otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken | 关于我在无意间被隔壁的天使变成废柴这件事 |  | [维基百科](https://zh.wikipedia.org/wiki/關於我在無意間被隔壁的天使變成廢柴這件事) [萌娘百科](https://zh.moegirl.org.cn/关于我在无意间被隔壁的天使变成废柴这件事) |
-| onii-chan wa oshimai | 别当哥哥了！（别当欧尼酱了！） | ![cover](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png)<br><br>《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），<br>是由日本漫画家猫豆腐创作的同人性转喜剧漫画。<br>作品最初在日本插画网站pixiv连载，后niconico静画也同步更新。<br>2018年1月27日作者自费出版本作的繁体中文电子版，并提供方便简体中文用户购买的方式。<br>作者曾经授权布卡漫画连载简体中文电子版，布卡漫画破产后改在bilibili漫画继续连载。<br>2018年6月27日起由一迅社进行商业化出版单行本。2019年6月号开始在《月刊ComicREX》连载。<br>截止2022年12月，商业版累计发行册数突破100万部。<br>改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。 | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
+| onii-chan wa oshimai | 别当欧尼酱了！ | ![cover](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png)<br><br>《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），<br>是由日本漫画家猫豆腐创作的同人性转喜剧漫画。<br>作品最初在日本插画网站pixiv连载，后niconico静画也同步更新。<br>2018年1月27日作者自费出版本作的繁体中文电子版，并提供方便简体中文用户购买的方式。<br>作者曾经授权布卡漫画连载简体中文电子版，布卡漫画破产后改在bilibili漫画继续连载。<br>2018年6月27日起由一迅社进行商业化出版单行本。2019年6月号开始在《月刊ComicREX》连载。<br>截止2022年12月，商业版累计发行册数突破100万部。<br>改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。 | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
 | ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
