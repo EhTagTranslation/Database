@@ -5334,6 +5334,7 @@ example:
 | mary jane watson | 玛丽•简•沃森 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪莉·珍·華生) |
 | aesc the savior | 救世主梣 |  |  |
 | morgan | 摩根 |  |  |
+| aphrodite | 阿佛洛狄忒 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
