@@ -5343,6 +5343,7 @@ example:
 | shirou amakusa | 天草四郎 |  |  |
 | oberon | 奥伯龙 |  |  |
 | ashiya douman | 芦屋道满 |  |  |
+| robin hood | 罗宾汉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
