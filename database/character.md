@@ -5347,6 +5347,7 @@ example:
 | ryouma sakamoto | 坂本龙马 |  |  |
 | kojiro sasaki | 佐佐木小次郎 |  |  |
 | james moriarty | 詹姆斯·莫里亚蒂 |  |  |
+| hajime saitou | 斋藤一 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
