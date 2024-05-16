@@ -5326,6 +5326,7 @@ example:
 | wuxian | 无限 | 无限是由MTJJ所创作的《罗小黑战记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/无限%28罗小黑战记%29#) |
 | shinsaku takasugi | 高杉晋作 |  |  |
 | nagayoshi mori | 森长可 |  |  |
+| locusta | 洛库斯塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
