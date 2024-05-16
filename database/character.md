@@ -5340,6 +5340,7 @@ example:
 | tezcatlipoca | 特斯卡特利波卡（烟雾镜） |  |  |
 | arjuna | 阿周那 |  |  |
 | ashwatthama | 马嘶 |  |  |
+| shirou amakusa | 天草四郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
