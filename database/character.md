@@ -5333,6 +5333,7 @@ example:
 | spider-man | 蜘蛛侠 |  | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛侠) |
 | mary jane watson | 玛丽•简•沃森 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪莉·珍·華生) |
 | aesc the savior | 救世主梣 |  |  |
+| morgan | 摩根 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
