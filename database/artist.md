@@ -12830,6 +12830,7 @@ example:
 | k | K |  | [pixiv](https://www.pixiv.net/users/81433570) |
 | sha | 千醇 |  |  |
 | nezumi | 鼠 |  |  |
+| krs | KRS |  | [pixiv](https://www.pixiv.net/users/20546) |
 
 <!--TEMPLATE:
 |  |  |  |  |
