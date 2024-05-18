@@ -2497,7 +2497,7 @@ example:
 | hatomizu | ハト水 |  | [pixiv](https://www.pixiv.net/users/7043383) |
 | hiroya | 广弥 |  |  |
 | amamiya | アマミヤ |  | [pixiv](https://www.pixiv.net/users/5565322) |
-| nedia | ねでぃあ |  | [pixiv](https://pixiv.net/users/4072067) |
+| nedia | ねでぃあ |  | [pixiv](https://www.pixiv.net/users/4072067) |
 | aiki | Aiki |  | [pixiv](https://www.pixiv.net/users/44728703) |
 | mumei | Mumei |  |  |
 | tefun | てふん |  |  |
@@ -3511,7 +3511,7 @@ example:
 | shingo. | Shingo. |  |  |
 | nedokoro mitsuki | ねどころみつき |  |  |
 | hoshi to lucky | ほしとラッキー |  |  |
-| fuzichoco | 藤原 | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[pixiv](http://www.pixiv.net/member.php?id=27517)<br>[X](https://x.com/fuzichoco) |
+| fuzichoco | 藤原 | 藤原（日语：藤ちょこ（ふじちょこ），1990年9月30日－），日本女性插画家、漫画家。日本美术专门学校的特别讲义讲师。 | [Homepage](https://www.fuzichoco.com/)<br>[pixiv](https://www.pixiv.net/member.php?id=27517)<br>[X](https://x.com/fuzichoco) |
 | yuiga naoha | 由雅なおは |  |  |
 | tousen | 冬扇 |  |  |
 | edogawa roman | 江戸川浪漫 |  |  |
@@ -3537,7 +3537,7 @@ example:
 | betm | 杯面 |  | [pixiv](https://www.pixiv.net/users/3110062)  [X](https://x.com/beitemian) [微博](https://weibo.com/5657120464) |
 | bttn | bttn | ![头像](https://pbs.twimg.com/profile_images/1442118739424546820/400LyRPk_200x200.jpg) | [pixiv](https://www.pixiv.net/users/4606746) [X](https://x.com/batsusuke_x) [哔哩哔哩](https://space.bilibili.com/549459834/dynamic) |
 | hao | はお | ![头像](https://pbs.twimg.com/profile_images/1518251950755958784/zC52J_Xw_400x400.jpg) | [pixiv](https://www.pixiv.net/users/54370838) [X](https://x.com/haozz_) |
-| wool | うーる |  | [pixiv](https://pixiv.net/users/25813488) [X](https://x.com/wool_mint) |
+| wool | うーる |  | [pixiv](https://www.pixiv.net/users/25813488) [X](https://x.com/wool_mint) |
 | dainyu | 代入 |  | [X](https://x.com/dainyudougumo) [pixiv](https://www.pixiv.net/users/2179140) |
 | koshino | こしの |  |  |
 | haiki | はいき |  | [X](https://x.com/haiki396g) [pixiv](https://www.pixiv.net/users/1656135) |
@@ -3592,7 +3592,7 @@ example:
 | kantamaki yui | 環々唯 |  |  |
 | emu emuo | えむえむお |  |  |
 | yanagi hareta | 晴太 |  |  |
-| houkisei | ほうき星 | ![](https://pbs.twimg.com/profile_images/1419514827643392001/CW3d6ysA_400x400.jpg) | [pixiv](https://pixiv.net/users/70050825)<br>[X](https://x.com/houk1se1) |
+| houkisei | ほうき星 | ![](https://pbs.twimg.com/profile_images/1419514827643392001/CW3d6ysA_400x400.jpg) | [pixiv](https://www.pixiv.net/users/70050825)<br>[X](https://x.com/houk1se1) |
 | takahama tarou | 高浜太郎 |  |  |
 | ikezaki misa | 池咲弥撒 | 画师有两个Pixiv帐号<br>hitokui<br>![](https://i.pixiv.cat/user-profile/img/2019/02/09/23/43/03/15372931_9f9c44a4d1404f6e9e641c251d4a3ca3_170.png)<br>ikezakimisa<br>![](https://i.pixiv.cat/user-profile/img/2020/08/14/18/18/08/19179013_6f79bd15706e308543d79b3b552e6047_170.png)<br>@ikezakimisa<br>![](https://pbs.twimg.com/profile_images/1267849871903449089/5K6DASnm_400x400.jpg) | (美少年系同人情報アカウントhitokui)[pixiv](https://www.pixiv.net/users/334249)<br>(男性向け/女の子/商業用アカウントikezakimisa)[pixiv](https://www.pixiv.net/users/7928116)<br>[X](https://x.com/ikezakimisa)<br>[哔哩哔哩](https://space.bilibili.com/1926603520) |
 | ikameshi | 乌贼饭 |  |  |
@@ -3644,7 +3644,7 @@ example:
 | borisu | ボリス |  | [FANBOX](https://borisnoborhys.fanbox.cc/) [pawoo](https://pawoo.net/@borisn) [nijie](https://nijie.info/members.php?id=80505) [pixiv](https://www.pixiv.net/users/5375435) [X](https://x.com/boris_noborhys) |
 | kunisaki kei | 国崎蛍 | 萝莉画师 | [X](https://x.com/lh_kunikei) |
 | torimogura | とりもぐら |  | [FANBOX](https://tori-mogura.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/224374) [pixiv](https://www.pixiv.net/users/62546282) [X](https://x.com/bird_ssssss) |
-| ihara asta | 伊原あす太 |  | [pixiv](http://www.pixiv.net/member.php?id=702078) [X](https://x.com/youmoumofumofu) |
+| ihara asta | 伊原あす太 |  | [pixiv](https://www.pixiv.net/member.php?id=702078) [X](https://x.com/youmoumofumofu) |
 | yasu | yasu |  | [pixiv](https://www.pixiv.net/users/392399) [X](https://x.com/yasu26937978) |
 | akadama | 红玉 |  | [pixiv](https://www.pixiv.net/users/2720186) |
 | shiranami kouki | 白波航希 | 白波航希（白浜コータ）<br>Z-Less | [pixiv](https://www.pixiv.net/users/64377) |
@@ -12108,7 +12108,7 @@ example:
 | hachi no hachihachi | はちの八八 |  |  |
 | rhasta | 牛乳重工 |  | [pixiv](https://www.pixiv.net/users/9746051) |
 | melailai | 么赖赖 | ![头像](https://i.pixiv.cat/user-profile/img/2021/12/28/16/45/32/21954150_8e710cb625f3a7bf1e7b6401020de89c_170.jpg) | [pixiv](https://www.pixiv.net/users/22333059)<br>[X](https://x.com/memela75722734)<br>[Bilibili](https://space.bilibili.com/14746289/) |
-| da mao banlangen | 大猫板蓝根 | ![头像](https://i.pixiv.cat/user-profile/img/2020/02/13/21/07/06/17915940_889888fa98d5d576596c673c7323e422_170.jpg) | [pixiv](http://pixiv.net/users/9751291)<br>[X](https://x.com/nekogarden1)<br>[Bilibili](https://space.bilibili.com/2170413/dynamic) |
+| da mao banlangen | 大猫板蓝根 | ![头像](https://i.pixiv.cat/user-profile/img/2020/02/13/21/07/06/17915940_889888fa98d5d576596c673c7323e422_170.jpg) | [pixiv](https://www.pixiv.net/users/9751291)<br>[X](https://x.com/nekogarden1)<br>[Bilibili](https://space.bilibili.com/2170413/dynamic) |
 | touwa nikuman | 空72色 | ![](https://i.pixiv.cat/user-profile/img/2022/07/22/23/38/54/23065515_c1679046f3b30b85dca626b7bc660ecc_170.png) | [pixiv](https://www.pixiv.net/users/4357504) |
 | yushi quetzalli | 羽蛇Quetzalli | ![](https://i.pixiv.cat/user-profile/img/2020/05/01/13/46/54/18452366_e599425e111d12a0a57ef63265724cca_170.jpg) | [pixiv](https://www.pixiv.net/users/20033303) |
 | fukuro daizi | Fukuro袋子 | ![](https://i.pixiv.cat/user-profile/img/2016/01/02/19/17/45/10322961_9e485bfa402dd4a327fde0a5da213eaf_170.jpg) | [pixiv](https://www.pixiv.net/users/4588267) |
@@ -12570,7 +12570,7 @@ example:
 | kawazoe taichi | 河添太一 |  |  |
 | mochikushi | もちくし |  | [X](https://x.com/mochikukushi)<br>[pixiv](https://www.pixiv.net/users/4579494) |
 | shaggy susu | Shaggy SUSU |  | [FANBOX](https://www.fanbox.cc/@shaggysusu) [pixiv](https://www.pixiv.net/users/40138790) [X](https://x.com/aiden39439540) [Patreon](https://www.patreon.com/user?u=51386268) |
-| xiao bai tian | 小白天 | 喜欢绘制少年或男孩。 | [https://x.com/0nQn8YMXpkzgnem?s=09](https://x.com/0nQn8YMXpkzgnem?s=09)<br>[pixiv](https://www.pixiv.net/users/21089872) |
+| xiao bai tian | 小白天 | 喜欢绘制少年或男孩。 | [X](https://x.com/0nQn8YMXpkzgnem?s=09)<br>[pixiv](https://www.pixiv.net/users/21089872) |
 | suzukawa | 凉河 |  | [X](https://x.com/suzukawa_poo)<br>[pixiv](https://www.pixiv.net/users/4970303) |
 | kizuna | 絆 |  | [X](https://x.com/Kizuna_0113) [pixiv](https://www.pixiv.net/users/16034374) |
 | natsume yochiki | よちき |  | [X](https://x.com/NatsumeYochiki) [pixiv](https://www.pixiv.net/users/66979543) |
@@ -12714,7 +12714,7 @@ example:
 | bannou | 万能 |  | [pixiv](https://www.pixiv.net/users/11925621) |
 | rokita | ろきた |  | [pixiv](https://www.pixiv.net/users/4088632) [X](https://x.com/RRRokita) |
 | naruya shin | なるやしん | ![](https://pbs.twimg.com/profile_images/1688899653537079296/aI1-7QeY_400x400.jpg)<br>↑作者推特头像 | [pixiv](https://www.pixiv.net/users/5027179/illustrations) [X](https://x.com/TakanaruyA_0227/media) |
-| tamura-chan | 田村ちゃん |  | [pixiv](https://www.pixiv.net/artworks/110816352) [X](https://x.com/tamuratyandayo3) |
+| tamura-chan | 田村ちゃん |  | [pixiv](https://www.pixiv.net/users/51434016) [X](https://x.com/tamuratyandayo3) [Skeb](https://skeb.jp/@TsxlGalvJZg7TUS)  [FANBOX](https://www.fanbox.cc/@tamuratyan) [Fantia](https://fantia.jp/fanclubs/23903) |
 | nyum | にゅむ |  | [pixiv](https://www.pixiv.net/users/6018940) [X](https://x.com/nyum_serori) |
 | tsunako | つなこ |  | [X](https://x.com/panda_kabe) [pixiv](https://www.pixiv.net/users/14028509) |
 | amagai tarou | おるだん |  | [X](https://x.com/ordan) [pixiv](https://www.pixiv.net/users/9427) |
