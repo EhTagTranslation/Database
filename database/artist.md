@@ -5089,7 +5089,7 @@ example:
 | fechi | ふぇっちー |  |  |
 | feiren | feiren |  |  |
 | femto | ふぇむと |  |  |
-| fence 14 | フェンス14 |  |  |
+| fence 14 | 柵野14 |  | [pixiv](https://www.pixiv.net/users/24328727) |
 | ferdinand | フェルディナン |  |  |
 | feriko | フェリコ |  |  |
 | fes | ふぇす |  |  |
