@@ -12827,6 +12827,7 @@ example:
 | blue striker | Blue Striker |  |  |
 | fred perry | Fred Perry |  |  |
 | matemi | Matemi |  |  |
+| zourik | Zourik |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
