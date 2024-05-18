@@ -5363,6 +5363,7 @@ example:
 | snoopy | 史努比 |  | [维基百科](https://zh.wikipedia.org/wiki/史努比) |
 | charlie brown | 查理·布朗 |  | [维基百科](https://zh.wikipedia.org/wiki/查理·布朗) |
 | sally brown | 莎莉·布朗 |  | [维基百科](https://zh.wikipedia.org/wiki/莎莉·布朗) |
+| linus van pelt | 莱纳斯·潘贝鲁特 |  | [维基百科](https://zh.wikipedia.org/wiki/奈勒斯·潘貝魯特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
