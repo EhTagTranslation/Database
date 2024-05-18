@@ -12831,6 +12831,7 @@ example:
 | sha | 千醇 |  |  |
 | nezumi | 鼠 |  |  |
 | krs | KRS |  | [pixiv](https://www.pixiv.net/users/20546) |
+| nicorima | nicorima |  | [pixiv](https://www.pixiv.net/users/9202534) [Twitter](https://twitter.com/25lima_1) [FANBOX](https://nicorima.fanbox.cc/) [Patreon](https://www.patreon.com/nicorima) |
 
 <!--TEMPLATE:
 |  |  |  |  |
