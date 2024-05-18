@@ -2127,7 +2127,7 @@ example:
 | brok the investigator | 鳄鱼侦探布罗格 | BROK the InvestiGator 是一款由独立法国游戏工作室 COWCAT Games 使用 GameMaker Studio 2 自行开发和发行的独立游戏，该游戏采用了点击式冒险游戏和横向卷轴动作游戏相结合的设计。这款游戏通过 Kickstarter 平台成功筹集到资金。游戏中融合了点和点击冒险、横版过关打斗和角色扮演元素。 | [维基百科（英语）](https://en.wikipedia.org/wiki/BROK_the_InvestiGator) [Steam](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/) |
 | horizon zero dawn | 地平线 零之曙光 |  | [萌娘百科](https://zh.moegirl.org.cn/地平线_零之曙光) [维基百科](https://zh.wikipedia.org/wiki/地平線_黎明時分) |
 | un-go | UN-GO | 《UN-GO》是由BONES制作的一部TV动画。于2011年10月开始在在富士电视台的noitaminA栏目播出，共11集。故事原案出自坂口安吾《明治开化 安吾捕物帖》。 | [萌娘百科](https://zh.moegirl.org.cn/UN-GO) |
-| inma kourin devil carnival | 淫魔降臨デビル☆カーニバル |  | [Twitter](http://twitter.com/devil_carnival/) |
+| inma kourin devil carnival | 淫魔降临Devil Carnival | 淫魔降臨デビル☆カーニバル | [Twitter](http://twitter.com/devil_carnival/) |
 | ryu ga gotoku | 如龙 | 人中之龙（日版名：龍が如く，英文版名：Like a Dragon，舊稱Yakuza，中国大陆译作“如龙”，香港和台湾译作“人中之龙”）是世嘉制作与发行的动作冒险游戏系列，首作于2005年在PlayStation 2平台上发行。系列作的主要场景常设定在东京都中的虚构地区“神室町”，截至本传6代主线聚焦于极道组织东城会旗下的桐生一马；以桐生为中心描绘黑社会间的冲突，及极道中人各自的生存姿态。自本传7代起转以同为黑帮份子的春日一番作为主角。 | [维基百科](https://zh.wikipedia.org/wiki/人中之龍系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/龍が如くスタジオ) [维基百科（英语）](https://en.wikipedia.org/wiki/Ryu_Ga_Gotoku_Studio) |
 | atomic heart | 原子之心 | 《原子之心》（英语：Atomic Heart）是一款由塞浦路斯工作室Mundfish的俄罗斯分部开发的动作角色扮演与第一人称射击游戏。 | [维基百科](https://zh.wikipedia.org/wiki/原子之心) [HP](https://mundfish.com/) |
 | yomawari | 夜廻 | 《夜迴》（日语：夜廻）是日本一软件开发并发售的恐怖动作冒险游戏，主要讲述寻找失物的少女在午夜街道寻觅的故事。 | [维基百科](https://zh.wikipedia.org/wiki/夜迴) |
