@@ -2454,7 +2454,7 @@ example:
 | kanata | 彼方 |  |  |
 | eika | 艾卡 |  |  |
 |  | ▼ バーチャルYouTuber |  |  |
-| kizuna ai | 绊爱 | ~~人工智障 ~~<br>绊爱（日语：キズナアイ；英语：Kizuna AI）是一个日本`vtuber`，也是公认的第一个`vtuber`。其人物设计由`morikura en`创作。<br>※因在早期游戏实况视频中的各种失误操作和理解缓慢，与本身“人工智能”角色设定形成反差。被网友们调侃为“人工智障”<br>![绊爱](https://p.sda1.dev/5/caf436616b32656d6eee750c482b01d1/Kizuna_AI_-_SCP_Foundation_2.png) | [维基百科](https://zh.wikipedia.org/wiki/絆愛) [<br>A.I.Channel](https://www.youtube.com/c/AIChannel) [A.I.Games](https://www.youtube.com/c/AIGamesdayo) [Twitter](https://twitter.com/aichan_nel) |
+| kizuna ai | 绊爱 | ~~人工智障 ~~<br>绊爱（日语：キズナアイ；英语：Kizuna AI）是一个日本`vtuber`，也是公认的第一个`vtuber`。其人物设计由`morikura en`创作。<br>※因在早期游戏实况视频中的各种失误操作和理解缓慢，与本身“人工智能”角色设定形成反差。被网友们调侃为“人工智障”<br>![绊爱](https://p.sda1.dev/5/caf436616b32656d6eee750c482b01d1/Kizuna_AI_-_SCP_Foundation_2.png) | [维基百科](https://zh.wikipedia.org/wiki/絆愛) [A.I.Channel](https://www.youtube.com/c/AIChannel) [A.I.Games](https://www.youtube.com/c/AIGamesdayo) [X](https://x.com/aichan_nel) |
 | kaguya luna | 辉夜月 |  |  |
 | mirai akari | Mirai Akari |  |  |
 | nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为`vtuber`活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org.cn/Nekomasu) |
@@ -3028,9 +3028,9 @@ example:
 | akari akaza | 赤座灯里 | 阿卡林，漫画`yuruyuri`中及其衍生作品中的登场角色。<br>![图](https://ehgt.org/39/c3/39c39b3fa3da04f0ae43f3fb85cade5a44f5fd1f-12142069-4370-6000-jpg_l.jpg)<br>![图](# "https://ehgt.org/8c/eb/8ceb4ea4c2b8fad7706f932f2f499a8d5b90b734-6105080-1200-1695-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/赤座灯里) (\*\*) |
 | kyouko toshinou | 岁纳京子 | 漫画`yuruyuri`及其衍生作品中的角色。<br>京子是赤座灯里和船见结衣的朋友，在作品开始时为十四岁，为七森中学二年级的学生，与结衣同年，比灯里大一岁。拥有黄色长发刘海及眉，头绑深红色蝴蝶结，蓝色瞳孔，外观近似萝莉。<br>![图](https://ehgt.org/24/03/2403d3e55a804b8c94be22d7403520a354510985-12236267-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/岁纳京子) (\*\*) |
 | reisalin stout | 莱莎琳·斯托特 | ![莱莎琳·斯托特](https://img.moegirl.org.cn/common/thumb/5/51/A21_Ryza.png/280px-A21_Ryza.png)<br>莱莎琳·斯托特（Reisalin Stout）是光荣特库摩游戏旗下工作室GUST所制作的炼金工房系列游戏里，《莱莎的炼金工房》三部曲的主角。<br>平凡的少女，没有特征也是特征。为人以义不容辞见称，对认定不正确的事绝不轻易妥协，其行动略为男子气爱好自由奔放的性格。 | [萌娘百科](https://zh.moegirl.org.cn/莱莎琳·斯托特) |
-| kudou chitose | 久远千岁 | 久远千岁（日语：久遠千歳）是一名于2019年1月10日在YouTube开始活动的`vtuber`，业界团体彩虹社的成员。于2019年8月31日引退。<br>![久远千岁](https://img.moegirl.org.cn/common/thumb/e/e8/久远千岁.jpg/166px-久远千岁.jpg) | [Twitter](https://twitter.com/kudou_chitose) [YouTube](https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg) [萌娘百科](https://zh.moegirl.org.cn/久远千岁) |
-| higuchi kaede | 樋口枫 | 樋口楓（Higuchi Kaede）是隶属于彩虹社的`vtuber`，高中二年生。粉丝群体名为枫组，命名来源似乎是模仿宝塚歌剧团的“〇〇组”。<br>![樋口枫](https://img.moegirl.org.cn/common/thumb/5/57/1480764.c24aa8.jpg/133px-1480764.c24aa8.jpg) | [Twitter](https://twitter.com/Higuchikaede) [YouTube](https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A) [萌娘百科](https://zh.moegirl.org.cn/樋口枫) [日文维基](https://ja.wikipedia.org/wiki/樋口楓) |
-| tsukino mito | 月之美兔 | 月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。<br>![月之美兔](https://img.moegirl.org.cn/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png) | [Twitter](https://twitter.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A) [萌娘百科](https://zh.moegirl.org.cn/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
+| kudou chitose | 久远千岁 | 久远千岁（日语：久遠千歳）是一名于2019年1月10日在YouTube开始活动的`vtuber`，业界团体彩虹社的成员。于2019年8月31日引退。<br>![久远千岁](https://img.moegirl.org.cn/common/thumb/e/e8/久远千岁.jpg/166px-久远千岁.jpg) | [X](https://x.com/kudou_chitose) [YouTube](https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg) [萌娘百科](https://zh.moegirl.org.cn/久远千岁) |
+| higuchi kaede | 樋口枫 | 樋口楓（Higuchi Kaede）是隶属于彩虹社的`vtuber`，高中二年生。粉丝群体名为枫组，命名来源似乎是模仿宝塚歌剧团的“〇〇组”。<br>![樋口枫](https://img.moegirl.org.cn/common/thumb/5/57/1480764.c24aa8.jpg/133px-1480764.c24aa8.jpg) | [X](https://x.com/Higuchikaede) [YouTube](https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A) [萌娘百科](https://zh.moegirl.org.cn/樋口枫) [日文维基](https://ja.wikipedia.org/wiki/樋口楓) |
+| tsukino mito | 月之美兔 | 月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。<br>![月之美兔](https://img.moegirl.org.cn/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png) | [X](https://x.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A) [萌娘百科](https://zh.moegirl.org.cn/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
 | yui kusano | 草野优衣 | 《公主连结Re:Dive》登场角色，ID为优衣（日语：ユイ），本名草野优衣 | [萌娘百科](https://zh.moegirl.org.cn/草野优衣) |
 | kanon daiba | 台场夏音 | 误射姬 |  |
 | marnie | 玛俐 | 玛俐（日文︰マリィ，英文︰Marnie）是《剑／盾》中登场的角色，为主角的劲敌之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
@@ -3239,8 +3239,8 @@ example:
 | talia al ghul | 塔利亚·艾尔·古尔 |  |  |
 | vixen | 雌狐 |  |  |
 | le malin | 恶毒 | 恶毒(MNF Le Malin/ ル・マラン)自由法国海军的恶毒号驱逐舰（French destroyer Le Malin） | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:恶毒) |
-| suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 铃木雏](https://twitter.com/HinaSuzuki_HH) |
-| tanaka hime | 田中姬 | 田中姬<br><br>出身不明，据说在流浪的时候被田中工务店捡到，于是从此以后就住在田中工务店. | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 田中姬](https://twitter.com/HimeTanaka_HH) |
+| suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 铃木雏](https://x.com/HinaSuzuki_HH) |
+| tanaka hime | 田中姬 | 田中姬<br><br>出身不明，据说在流浪的时候被田中工务店捡到，于是从此以后就住在田中工务店. | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 田中姬](https://x.com/HimeTanaka_HH) |
 | nobukatsu oda | 织田信胜 |  |  |
 | okita souji alter | 冲田总司Alter |  | [Mooncell-FGO中文Wiki](https://fgo.wiki/w/冲田总司〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/魔神Saber) |
 | frostnova | 霜星 | ![我的白兔兔啊](https://img.moegirl.org.cn/common/2/21/Ak_char_1505_frstar_1.png)<br>[整合运动](https://zh.moegirl.org.cn/明日方舟:整合运动)法术部队干部，雪怪小队队长，“[爱国者](https://zh.moegirl.org.cn/明日方舟:爱国者)”的养女，第四章和第六章的封面人物。<br>在切尔诺伯格分城与罗德岛初次遭遇并开战，战斗中与罗德岛的博士被困于地下，与其吐露心声。<br><br>之后前往龙门接应梅菲斯特时因过度使用源石技艺导致时日无多，雪怪小队为了让霜星能够见爱国者最后一面主动殿后而全员阵亡。苏醒后得知此事的的霜星主动留下来阻截追来的阿米娅一行人，并使出了超规格的源石技艺，令阿米娅、煌和灰喉都难以招架。最终由于耗尽体力，用于维生的晶体破碎而倒地，在博士的怀里说出“愿意加入罗德岛”的誓言后含笑而逝。<br><br>遗体被博士带回罗德岛处理防止结晶粉尘化。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霜星) |
@@ -3435,7 +3435,7 @@ example:
 | denji | 电次 | 早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 |  |
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | 烟绯（英语：yanfei）所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/智明无邪·烟绯.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
-| gawr gura | 噶呜·古拉 | 噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。<br>![GoogleIcon](https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj) | [YouTube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [Twitter](https://twitter.com/gawrgura) |
+| gawr gura | 噶呜·古拉 | 噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。<br>![GoogleIcon](https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj) | [YouTube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [X](https://x.com/gawrgura) |
 | enoch | 伊诺库 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-3.gif&img_id=1522721112)<br>![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-4.gif&img_id=) |  |
 | veronica | 维罗妮卡 | 角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的姐姐。<br>![图](https://www.dq11.jp/s/pf/characters/_img/veronica/chara_2d_sp.png)<br>![图](https://ehgt.org/ba/96/ba965ab08caa3b1224a6f4fc467a9edd48aa2a29-23084-680-383-jpg_l.jpg) |  |
 | murasaki yatsu | 八津紫 |  |  |
@@ -3785,11 +3785,11 @@ example:
 | jeanne | 贞德 |  |  |
 | bayonetta | 贝优妮塔 |  |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![图](https://ehgt.org/58/e4/58e49e114d5b4593dae6acf6dae88a79d2e222df-135684-610-1309-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
-| neneko | 鈴樹ねね |  | [FANBOX](https://nenekoneko.fanbox.cc/) [Skeb](https://skeb.jp/@neneko113)<br>[pixiv](https://www.pixiv.net/users/1940163) [Twitter](https://twitter.com/neneko113) |
+| neneko | 鈴樹ねね |  | [FANBOX](https://nenekoneko.fanbox.cc/) [Skeb](https://skeb.jp/@neneko113)<br>[pixiv](https://www.pixiv.net/users/1940163) [X](https://x.com/neneko113) |
 | mona | 莫娜 | 所属作品:p:warioware,`p:super mario brothers`<br>![](https://ehgt.org/22/f6/22f6401e39c12ad116367276b23de930794f420d-194685-868-1234-jpg_l.jpg) |  |
 | komichi akebi | 明日小路 |  |  |
 | alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
-| shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [YouTube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [Twitter](https://twitter.com/shishirobotan) |
+| shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [YouTube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [X](https://x.com/shishirobotan) |
 | bennett | 班尼特 | 班尼特（英语：bennett）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b3/班尼特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/班尼特) |
 | ruri hoshino | 星野·琉璃 |  | [维基百科](https://en.wikipedia.org/wiki/List_of_Martian_Successor_Nadesico_characters) [萌娘百科](https://zh.moegirl.org.cn/星野琉璃) [Fanbox](https://nadesico.fandom.com/wiki/Ruri_Hoshino) |
 | lanling wang | 兰陵王 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰陵王%28Fate%29) |
@@ -4227,7 +4227,7 @@ example:
 | sword maiden | 剑之圣女 |  |  |
 | chigusa kisaragi | 如月千种 |  |  |
 | dobrynya nikitich | 多布雷尼亚·尼基季奇 |  |  |
-| aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [Twitter](https://twitter.com/aratsuka_ogami) |
+| aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [X](https://x.com/aratsuka_ogami) |
 | nishikata | 西片 |  |  |
 | nezha | 哪吒 |  |  |
 | carol malus dienheim | 卡萝·马尔斯·狄恩海姆 | 所属作品: `p:senki zesshou symphogear` |  |
@@ -5039,8 +5039,8 @@ example:
 | dumon | 德鲁贝 | Dorube （罗马注音）Dumon（海外版英文名）<br>《游戏王ZEXAL》及其衍生作品中的角色，异晶人七皇之一，纳修的挚友。<br>纳修失踪后，剩下七皇的领导。先后派遣基拉古、阿里特、米扎艾尔来到人类世界回收No.卡。由此至终没有一场只属于自己的完整的决斗。自称“异晶人的白盾”（バリアンの白き盾）。在对付与上千主上融合的贝库塔（真月零），为了掩护梅拉古（神代璃绪）光荣牺牲。 |  |
 | ariados | 阿利多斯 | 《宝可梦》及其衍生作品中的宝可梦。<br>虫属性和毒属性的宝可梦，首次登场于游戏《宝可梦 金·银》。 |  |
 | latias | 拉帝亚斯 | 《宝可梦》及其衍生作品中的宝可梦。<br>雌性。龙属性和超能力属性的传说的宝可梦，也是无限宝可梦之一，首次登场于游戏《宝可梦 红宝石·蓝宝石》，其超级进化首次登场于游戏《宝可梦 欧米伽红宝石·阿尔法蓝宝石》。 |  |
-| endministrator | 管理员 |  | cn official website NO.1<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NpCiOn6Ny)<br><br>en official website NO.1<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[Twitter](https://twitter.com/AKEndfield/status/1717391117707325628) |
-| perlica | 佩丽卡 |  | cn official website NO.3<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NqeZGFwWZ)<br><br>en officoal website NO.3<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[Twitter](https://twitter.com/AKEndfield/status/1719187436734218278) |
+| endministrator | 管理员 |  | cn official website NO.1<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NpCiOn6Ny)<br><br>en official website NO.1<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[X](https://x.com/AKEndfield/status/1717391117707325628) |
+| perlica | 佩丽卡 |  | cn official website NO.3<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NqeZGFwWZ)<br><br>en officoal website NO.3<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[X](https://x.com/AKEndfield/status/1719187436734218278) |
 | absinthe | 苦艾 |  |  |
 | misha necron | 米夏·涅库罗 |  |  |
 | sentouki - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |

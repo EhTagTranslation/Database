@@ -24,7 +24,7 @@ example:
   intro: |
     「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。
   links: >
-    [Twitter](https://twitter.com/digimon215)
+    [X](https://x.com/digimon215)
     [pixiv](https://www.pixiv.net/users/264932)
     [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com)
 ---
@@ -58,7 +58,7 @@ example:
 | may-be soft | May-Be SOFT | Tech Arts 旗下品牌，画师以`akaza`为主。<br>Tech Arts已破产 | [官方网站](http://www.maybesoft.jp) |
 | squeez | SQUEEZ | Tech Arts 旗下品牌。<br>Tech Arts已破产，原班人马已成立新公司`milk factory`进行活动。 | [官方网站](http://squeez-soft.jp) |
 | milk factory | みるふぁく | 母公司 Tech Arts 破产后，SQUEEZ 原班人马成立的新公司。 | [官方网站](https://milkfactory.jp) |
-| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/wiki/ALICESOFT) [官方网站](http://www.alicesoft.com/) (日语) [Twitter](https://twitter.com/alice_soft) (日语) [YouTube](https://www.youtube.com/@alicesoftchannel) (日语) (\*) |
+| alicesoft | ALICESOFT | 爱丽丝软件（AliceSoft，有时亦作Alice Soft，アリスソフト）是隶属于冠军软件公司（Champion Soft，チャンピオンソフト）的成人游戏品牌，于1989年成立。 | [维基百科](https://zh.wikipedia.org/wiki/ALICESOFT) [官方网站](http://www.alicesoft.com/) (日语) [X](https://x.com/alice_soft) (日语) [YouTube](https://www.youtube.com/@alicesoftchannel) (日语) (\*) |
 | omega star | ωstar |  |  |
 | norn | Norn |  |  |
 | aries | Aries |  |  |
@@ -154,7 +154,7 @@ example:
 | archetype | ARCHETYPE | `akaza`的社团名，袜控。<br>![Akaza作品](# "https://ehgt.org/11/17/11178f56c948ea4caade26839057ec9c5ae65e36-691109-1409-2000-jpg_250.jpg") |  |
 | afterschool of the 5th year | 5年目の放课后 | ![Kantoku作品](https://ehgt.org/8d/53/8d53fa5744869ad31d94189938d0f9a93d996f21-2008842-2492-3500-jpg_l.jpg)<br><br>画师`kantoku`所属的同人的社团。 |  |
 | tsf no f | TSF的F | 以F为中心的“TSF的F社团”，以变身性转换作品为主![F的作品](# "https://ehgt.org/6e/15/6e1509306e069bea87b39b83821c9fff99c89dca-7153718-4299-6071-jpg_l.jpg") |  |
-| number2 | ![Logo](https://user-images.githubusercontent.com/13471233/115440941-e1840900-a242-11eb-9d2f-f5e290589979.png)Number2 | ![Banner](https://user-images.githubusercontent.com/13471233/115440864-ce713900-a242-11eb-9e51-7d239e3e1c5c.png)<br>![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) | [官方网站](http://number2-takuji.com) [Twitter](https://twitter.com/number2_takuji) |
+| number2 | ![Logo](https://user-images.githubusercontent.com/13471233/115440941-e1840900-a242-11eb-9d2f-f5e290589979.png)Number2 | ![Banner](https://user-images.githubusercontent.com/13471233/115440864-ce713900-a242-11eb-9e51-7d239e3e1c5c.png)<br>![Number2](https://ehgt.org/5c/2d/5c2db0cbf62529b4dc0ec012aa3cf431d2136999-1711821-1281-1800-jpg_l.jpg) | [官方网站](http://number2-takuji.com) [X](https://x.com/number2_takuji) |
 | plant | PLANT |  |  |
 | opaque | Opaque |  |  |
 | shiroganeya | しろがね屋 |  |  |
@@ -191,14 +191,14 @@ example:
 | shoot the moon | シュート・ザ・ムーン |  |  |
 | kansai gyogyou kyoudou kumiai | 关西渔业协同组合 |  |  |
 | rainwaterserver | RainWaterServer |  | [官方网站](http://medianstripparty.blog.fc2.com) |
-| lily lily rose | Lily Lily Rose |  | [Twitter](https://twitter.com/tappe33) [pixiv](https://www.pixiv.net/users/3917786) [官方网站](http://lilylilyrose.net) |
+| lily lily rose | Lily Lily Rose |  | [X](https://x.com/tappe33) [pixiv](https://www.pixiv.net/users/3917786) [官方网站](http://lilylilyrose.net) |
 | himura nyuugyou | 比村乳业 |  |  |
 | raijinkai | 雷神会 |  |  |
 | miyamaya | 深山屋 |  |  |
 | onna kishi no shiro | 女騎士の城 |  |  |
-| yonsai books | 四才ブックス |  | [Twitter](https://twitter.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
+| yonsai books | 四才ブックス |  | [X](https://x.com/4saibooksOGATA) [pixiv](https://www.pixiv.net/users/83095) |
 | pastel wing | PASTEL WING |  | [官方网站](http://pastelwing.net) |
-| ajisaidenden | アジサイデンデン |  | [Twitter](https://twitter.com/ajisaidenden_cm) [官方网站](http://ajisaidenden.x.fc2.com) |
+| ajisaidenden | アジサイデンデン |  | [X](https://x.com/ajisaidenden_cm) [官方网站](http://ajisaidenden.x.fc2.com) |
 | attendance number 26 | 出席番号26 |  | [官方网站](http://attendancenumber26.blog137.fc2.com) |
 | yu-yu-tei | 悠々亭 |  |  |
 | circle ohigetan | サークル尾髭丹 |  |  |
@@ -211,7 +211,7 @@ example:
 | nakayohi mogudan | なかよひモグダン |  |  |
 | suteuka no koya | すてうかの小屋 |  |  |
 | at ism | @ism |  |  |
-| twinbox | TwinBox | 「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。 | [Twitter](https://twitter.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com) |
+| twinbox | TwinBox | 「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。 | [X](https://x.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com) |
 | ame nochi yuki | あめ のち ゆき |  |  |
 | mataro | 魔太郎 |  |  |
 | otonano do-wa | 大人の寓話 |  |  |
@@ -305,7 +305,7 @@ example:
 | sakananekobeya | 鱼猫部屋 |  |  |
 | white drop | ホワイトドロップ |  |  |
 | dieselmine | ディーゼルマイン |  |  |
-| ojou no yokushitsu | お嬢の浴室 | ![图](https://ehgt.org/61/83/61839b5be9d395226cd990bab3c38261914a6ec9-289342-1500-800-jpg_l.jpg)<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>社团代表人：鉄人（参照标签`tetsujin`）<br>[Twitter](https://twitter.com/tetsujinybc) [pixiv](https://www.pixiv.net/users/19383935)<br>初代作画担当：AYA （参照标签`aya`）<br>[Twitter](https://twitter.com/aya_ojo) [YouTube](https://www.youtube.com/c/星乃RAKUGAKIX)<br>C90后二代目作画担当：ひよさん（参照标签`hiyoko`）<br>[Twitter](https://twitter.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) | [官方网站](https://ojounoyokushitsu.tumblr.com) |
+| ojou no yokushitsu | お嬢の浴室 | ![图](https://ehgt.org/61/83/61839b5be9d395226cd990bab3c38261914a6ec9-289342-1500-800-jpg_l.jpg)<br>该社团作品特点是，将热门作品的女性角色，以`fist of the north star`中的男性角色的脸貌特征和画风画出来，其中部分也结合了`fist of the north star`的相关剧情。<br>社团代表人：鉄人（参照标签`tetsujin`）<br>[X](https://x.com/tetsujinybc) [pixiv](https://www.pixiv.net/users/19383935)<br>初代作画担当：AYA （参照标签`aya`）<br>[X](https://x.com/aya_ojo) [YouTube](https://www.youtube.com/c/星乃RAKUGAKIX)<br>C90后二代目作画担当：ひよさん（参照标签`hiyoko`）<br>[X](https://x.com/hiyogeki) [pixiv](https://www.pixiv.net/users/463143) | [官方网站](https://ojounoyokushitsu.tumblr.com) |
 | nagiyamasugi | ナギヤマスギ |  | [pixiv](https://www.pixiv.net/users/62628) [官方网站](http://nagiyamasugi.com) |
 | awatake | あわたけ |  |  |
 | gasobook | GASOBooK!! |  |  |
@@ -909,7 +909,7 @@ example:
 | datenshi no ana | 墮天使の坑 |  |  |
 | mix fry | みっくすふらい |  |  |
 | kokonokaya | 九日屋 |  |  |
-| orangemaru | OrangeMaru | **社团LOGO**<br>![twitter](https://pbs.twimg.com/profile_images/676052483978866690/93JShOhZ_400x400.png)<br><br>以日韩画师`yd`、`jp06`、`ame`三人为首的人气同人社团<br><br>**社团作品一览**<br>![works](# "https://pbs.twimg.com/media/E7YFHs4VEAMjlfg?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJI4UUAUSF5V?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJ8JUUAE3Cf7?format=jpg&name=large") | [Twitter](https://twitter.com/orangemaru_) [pixiv](https://www.pixiv.net/users/736905) |
+| orangemaru | OrangeMaru | **社团LOGO**<br>![X](https://pbs.twimg.com/profile_images/676052483978866690/93JShOhZ_400x400.png)<br><br>以日韩画师`yd`、`jp06`、`ame`三人为首的人气同人社团<br><br>**社团作品一览**<br>![works](# "https://pbs.twimg.com/media/E7YFHs4VEAMjlfg?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJI4UUAUSF5V?format=jpg&name=large")![works](# "https://pbs.twimg.com/media/E7YFJ8JUUAE3Cf7?format=jpg&name=large") | [X](https://x.com/orangemaru_) [pixiv](https://www.pixiv.net/users/736905) |
 | ishikawa pro | 石川プロ |  |  |
 | neyukidou | 根雪堂 |  |  |
 | o.n art works | O.N Art Works |  |  |
@@ -989,7 +989,7 @@ example:
 | tri-moon | TRI-MOON! |  |  |
 | algolagnia | アルゴラグニア |  |  |
 | arestica | ARESTICA |  |  |
-| hapoi-dokoro | はぽい処 |  | [Twitter](https://twitter.com/hapoi_dokoro) [官方网站](http://hapoi.sakura.ne.jp/index-d.html) |
+| hapoi-dokoro | はぽい処 |  | [X](https://x.com/hapoi_dokoro) [官方网站](http://hapoi.sakura.ne.jp/index-d.html) |
 | route1 | ROUTE1 |  |  |
 | chural-an | ちゅらる庵 |  |  |
 | monaka udon | もなかうどん |  |  |
@@ -1042,7 +1042,7 @@ example:
 | ruman-dou | るまん堂 |  |  |
 | kaientai | 絵援隊 |  |  |
 | atugi de 5 | 厚木で5時 |  |  |
-| sol-fa-soft | sol-fa-soft | sol-fa-soft 成人向同人游戏创作社团。<br>主要创作以`lolicon`、`exhibitionism`相关的同人游戏以及插画集。<br>主要参与作者一览：<br>`anyanko`<br>`shouji ayumu`<br>`tanaha`<br>`kiyose` | [官方网站](http://www.solfa.jp/) [Twitter](https://twitter.com/kiri_sol) [pixiv](https://www.pixiv.net/users/868490) |
+| sol-fa-soft | sol-fa-soft | sol-fa-soft 成人向同人游戏创作社团。<br>主要创作以`lolicon`、`exhibitionism`相关的同人游戏以及插画集。<br>主要参与作者一览：<br>`anyanko`<br>`shouji ayumu`<br>`tanaha`<br>`kiyose` | [官方网站](http://www.solfa.jp/) [X](https://x.com/kiri_sol) [pixiv](https://www.pixiv.net/users/868490) |
 | right away | Right away |  |  |
 | pianiishimo | ピアニッシモ |  |  |
 | ijimaya | イジマヤ |  |  |
@@ -1466,7 +1466,7 @@ example:
 | da hootch | DA HOOTCH |  |  |
 | hooliganism | 集团暴力 |  |  |
 | eroquis | EROQUIS! |  |  |
-| 18master | 18マスター |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34182.html) [Twitter](https://twitter.com/elcpehsscjwxjsf) |
+| 18master | 18マスター |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34182.html) [X](https://x.com/elcpehsscjwxjsf) |
 | date in vitro | Date in vitro |  |  |
 | yamanotesen | 山手线 |  |  |
 | lovewn outpost | Lovewn Outpost |  |  |
@@ -1764,7 +1764,7 @@ example:
 | haraheridou | はらヘリ堂 |  |  |
 | hitsuji kikaku | ヒツジ企画 |  |  |
 | hiyashi yaki teishoku | 冷やし焼き定食 |  |  |
-| burittohiroba | burittohiroba | `a:ko-yahu`所属社团 | [Twitter](https://twitter.com/burittohiroba) [pixiv](https://www.pixiv.net/users/3424578) |
+| burittohiroba | burittohiroba | `a:ko-yahu`所属社团 | [X](https://x.com/burittohiroba) [pixiv](https://www.pixiv.net/users/3424578) |
 | pypyworks | PYPYworks |  |  |
 | lilith lauda laboratory | リリスラウダ研究所 |  |  |
 | slime kikaku | スライム企画 |  |  |
@@ -1806,7 +1806,7 @@ example:
 | pannomimi | ぱんのみみ |  | [官方网站](http://pannomimi.net) |
 | sweet avenue | Sweet Avenue |  | [官方网站](http://sweet-avenue.jp) |
 | atelier stars | あとりえスターズ |  | [旧官方网站](http://blog.livedoor.jp/arito_arayuru) [新官方网站](https://arito-arayuru.hateblo.jp) |
-| wildstyle | wildstyle |  | [Twitter](https://twitter.com/wildstyle6666) [官方网站](http://wildstyle6666.blog.fc2.com) |
+| wildstyle | wildstyle |  | [X](https://x.com/wildstyle6666) [官方网站](http://wildstyle6666.blog.fc2.com) |
 | monofille | モノフィーユ |  |  |
 | cassiopeia | CASSIOPEIA |  |  |
 | keepon | keepON |  |  |
@@ -1817,7 +1817,7 @@ example:
 | tokyoboogienight | 桃京武戯夜 |  |  |
 | taco | TACO |  | [官方网站](http://www.t-a-c-o.com) |
 | pirokobo | ピロコボ |  | [官方网站](http://www.pirokobo.com/blog) |
-| fujitsubo-machine | 富士壺機械 |  | [Twitter](https://twitter.com/fujitsubo_m) [官方网站](http://www.fujitsubo-machine.jp) |
+| fujitsubo-machine | 富士壺機械 |  | [X](https://x.com/fujitsubo_m) [官方网站](http://www.fujitsubo-machine.jp) |
 | kokusai tenjijou uramon | 国際展示場裏門 |  |  |
 | daifuku | 大福 |  |  |
 | misaki | 三崎 |  |  |
@@ -1909,7 +1909,7 @@ example:
 | watari laboratory | 渡里laboratory |  |  |
 | wappururun | わっぷるるん |  |  |
 | anzen chitai | 安全地带 |  |  |
-| loli seiyouken | 萝莉西洋剑 | 社团名称 | [Twitter](https://twitter.com/PANBAI2) |
+| loli seiyouken | 萝莉西洋剑 | 社团名称 | [X](https://x.com/PANBAI2) |
 | shimizuan | 清水庵 |  |  |
 | sakusei kenkyuujo | 搾精研究所 |  |  |
 | in the sky | In The Sky |  |  |
@@ -1917,7 +1917,7 @@ example:
 | molamola | Molamola |  | [官方网站](https://nimoko.tumblr.com) |
 | masochist high | マゾヒスト・ハイ |  |  |
 | onsoku | おんそく |  | [官方网站](http://onsoku.dou-jin.com) |
-| ringoen | RINGOEN |  | [Twitter](https://twitter.com/ringoen_apple) [BOOTH](https://ringoen.booth.pm) |
+| ringoen | RINGOEN |  | [X](https://x.com/ringoen_apple) [BOOTH](https://ringoen.booth.pm) |
 | koibito wa kuroi neko | コイビトハクロイネコ |  | [官方网站](http://kokorourahara.sakura.ne.jp) |
 | hz-box | Hz-box |  |  |
 | waterfall | Waterfall |  | [官方网站](http://unmoral.sakura.ne.jp/waterfall.html) |
@@ -1927,7 +1927,7 @@ example:
 | rireba | リレバ |  | [官方网站](http://rireba.net/index.html) |
 | crerpsucre | CrerpSucre |  | [官方网站](https://crerp1113.wixsite.com/crerp-sucre) |
 | indo no kyuuden | いんどの宮殿! |  |  |
-| kacchuu musume | 甲冑娘 |  | [Twitter](https://twitter.com/kacchu_musume) [官方网站](https://kacchu.net) |
+| kacchuu musume | 甲冑娘 |  | [X](https://x.com/kacchu_musume) [官方网站](https://kacchu.net) |
 | 110-groove | 110-GROOVE |  |  |
 | yuuki kagoubutsu | 有機化合物 |  | [官方网站](http://yuuki.kagou.main.jp) [THBWiki](https://thwiki.cc/有機化合物) |
 | a gokuburi | A極振り |  |  |
@@ -2029,7 +2029,7 @@ example:
 | mousou bijutsubu | 妄想美術部 |  |  |
 | yuruyakatou | ゆるやか島 |  |  |
 | p.a. works | P.A.Works |  |  |
-| commamion | 狐狸恩 | コンマミオン<br>[“狐狸恩”为官方中文名](https://twitter.com/commamion1/status/1181484491543470081) | [Twitter](https://twitter.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
+| commamion | 狐狸恩 | コンマミオン<br>[“狐狸恩”为官方中文名](https://x.com/commamion1/status/1181484491543470081) | [X](https://x.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
 | gantai shoujo chudoku | 眼帯少女中毒 |  | [官方网站](https://gantaigirl.org/) |
 | alice syndrome | アリスシンドローム |  |  |
 | pale light | PALE LIGHT |  |  |
@@ -2088,7 +2088,7 @@ example:
 | tsukimi dojin | 月見道神 |  |  |
 | sakanaya | 魚屋 |  |  |
 | tonyu bokujo | 豆乳牧場 |  |  |
-| kanai | 仮名居 |  | [pixiv](https://www.pixiv.net/users/49213396) [Twitter](https://twitter.com/8_HoneycomB_8) |
+| kanai | 仮名居 |  | [pixiv](https://www.pixiv.net/users/49213396) [X](https://x.com/8_HoneycomB_8) |
 | tateyoko issen | 縦横一線 |  |  |
 | ohoshisamadou | おほしさま堂 |  |  |
 | pure plastic | 純情プラスチック |  |  |
@@ -2135,7 +2135,7 @@ example:
 | tenkaichi babys | 天下一Babys | 井之本理佳子和好友BENNY'S一起创立同人团体“天下一Babys”，在Comic Market发售同人志。 | [BENNY'S - 维基百科](https://zh.wikipedia.org/wiki/BENNY%27S)  [井之本理佳子 - 维基百科](https://zh.wikipedia.org/wiki/井之本理佳子) (\*) |
 | beniya | 红屋 |  |  |
 | sashichigai-dan | 挿し違い団 |  | [官方网站](http://sashitigai-dan.la.coocan.jp/) |
-| yasai batake | 諏訪やさい |  | [pixiv](https://www.pixiv.net/users/13477002) [Twitter](https://twitter.com/yasai_023) |
+| yasai batake | 諏訪やさい |  | [pixiv](https://www.pixiv.net/users/13477002) [X](https://x.com/yasai_023) |
 | ichimi-zanmai | 一味三昧 |  |  |
 | sugar berry syrup | Sugar＊Berry＊Syrup |  |  |
 | kousei | コウセイ |  |  |
@@ -2255,30 +2255,30 @@ example:
 | muriyari egao | 无理矢理笑颜 |  |  |
 | southbamboo | 南方山竹笋 |  |  |
 | permission | ぱ～みっしょん |  |  |
-| tsuki usagi | 月うさぎ |  | [pixiv](https://www.pixiv.net/users/3440024) [Twitter](https://twitter.com/tukiman02) [HP](https://www.tukiusa00.com/about) |
+| tsuki usagi | 月うさぎ |  | [pixiv](https://www.pixiv.net/users/3440024) [X](https://x.com/tukiman02) [HP](https://www.tukiusa00.com/about) |
 | ameiro | あめいろ |  |  |
 | alpharalpha alley | アルファラルファ裏通り |  | [官网](http://alpharalpha.blog117.fc2.com/) |
-| thirty saver street 2d shooting | サーティセイバーストリート |  | [Twitter](https://twitter.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
+| thirty saver street 2d shooting | サーティセイバーストリート |  | [X](https://x.com/30saverw) [pixiv](https://www.pixiv.net/users/4781191) |
 | ruri ruri kikaku | 瑠璃瑠璃企画 |  |  |
-| amanedou | あまね堂 |  | [Twitter](https://twitter.com/amane191919) |
-| esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [Twitter](https://twitter.com/explorador_sei) [FANBOX](https://esperanzasei.fanbox.cc/) |
+| amanedou | あまね堂 |  | [X](https://x.com/amane191919) |
+| esperanza | 真田成 |  | [pixiv](https://www.pixiv.net/users/64246524) [X](https://x.com/explorador_sei) [FANBOX](https://esperanzasei.fanbox.cc/) |
 | tamago no kimi | 卵の黄身 |  |  |
 | shadan katsudoh | 遮断活動 |  |  |
 | tougen shokken | 桃幻食研 |  |  |
 | ciel-arc | しえるあーく |  |  |
-| meshi shinja | 饭信者 |  | [Twitter](https://twitter.com/mesisinja) [pixiv](https://www.pixiv.net/users/73419977) [FANBOX](https://mesisinja.fanbox.cc/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50797.html) [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200098/) |
+| meshi shinja | 饭信者 |  | [X](https://x.com/mesisinja) [pixiv](https://www.pixiv.net/users/73419977) [FANBOX](https://mesisinja.fanbox.cc/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50797.html) [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200098/) |
 | ishimuraya | 石村屋 |  |  |
 | seika kairaku shoten | 圣华快乐书店 |  |  |
 | ringo no naru ki | 林檎のなる木 |  |  |
-| traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [Twitter](https://twitter.com/doujintraya) |
+| traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [X](https://x.com/doujintraya) |
 | kuzuya | 屑屋 |  |  |
 | momojiru teien | 桃汁庭园 | 画师`momokumo`所属社团 |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir | ハースニール<br>`misakura nankotsu` | [HP](http://www.harthnir.com/) |
 | yoru no hitsuji | 夜のひつじ |  |  |
 | nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
-| momokamasu | ももかます |  | [Twitter](https://twitter.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
-| kumo no ito | 雲之糸 | クモノイト | [Twitter](https://twitter.com/spider_lifeline) [DLsite](https://ci-en.dlsite.com/creator/9356) |
+| momokamasu | ももかます |  | [X](https://x.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
+| kumo no ito | 雲之糸 | クモノイト | [X](https://x.com/spider_lifeline) [DLsite](https://ci-en.dlsite.com/creator/9356) |
 | tokachibare | 十勝晴レ |  |  |
 | bomubomuburin | ボムボムブリン |  |  |
 | nisiarea | にしえりあ |  |  |
@@ -7421,7 +7421,7 @@ example:
 | makoto shiyaka | 間琴しや架 |  |  |
 | makoto skip | まこと☆スキップ |  |  |
 | maku | Maku |  |  |
-| makura | 枕 | 枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。 | [https://www.keromakura.net/](https://www.keromakura.net/)<br>[http://www.makura-soft.com/](http://www.makura-soft.com/)<br>[Twitter](https://twitter.com/keromakurastaff)<br>[YouTube](https://www.youtube.com/user/makurasoft)<br>[萌娘百科](https://zh.moegirl.org.cn/枕) |
+| makura | 枕 | 枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。 | [https://www.keromakura.net/](https://www.keromakura.net/)<br>[http://www.makura-soft.com/](http://www.makura-soft.com/)<br>[X](https://x.com/keromakurastaff)<br>[YouTube](https://www.youtube.com/user/makurasoft)<br>[萌娘百科](https://zh.moegirl.org.cn/枕) |
 | makuriya | まくりや |  |  |
 | makushiro | マクシロ |  |  |
 | malus pumila | まるすぷみら |  |  |
@@ -12469,7 +12469,7 @@ example:
 | fusuma cafe | ふすま喫茶 | 水中花火的东方同人社团名称 | [官网](http://fsm-cafe.jugem.jp) |
 | platinum kinoko | プラチナきのこ |  |  |
 | lunaberry | Lunaberry |  |  |
-| sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [pixiv](https://www.pixiv.net/users/41510503)<br>[Twitter](https://twitter.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
+| sakura no tomoru hie | 桜の灯る日へ | 熟女画师。 | [pixiv](https://www.pixiv.net/users/41510503)<br>[X](https://x.com/sakuranotomoru)<br>[Fantia](https://fantia.jp/fanclubs/22949) |
 | xx koubou | ××工房 |  |  |
 | hengen monogatari | 変幻物語 |  |  |
 | straight lemon kajuu 100 | ストレートレモン果汁100 |  |  |
@@ -12519,7 +12519,7 @@ example:
 | germanium detroit | ゲルマニウム・デトロイト |  |  |
 | suiren no yado | 水莲之宿 | `asakawa`的同人社团 |  |
 | tariki honganji | 他力本愿寺 |  |  |
-| ebisujima misato | 戎島実里 |  | [Twitter](https://twitter.com/misat_eb) |
+| ebisujima misato | 戎島実里 |  | [X](https://x.com/misat_eb) |
 | jikahatsudensho | 自家発電処 |  |  |
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
@@ -12574,14 +12574,14 @@ example:
 | sugomori bird | 巣ごもりバード |  |  |
 | gensou pump | 幻想ポンプ | 画师`fukumoto masahisa`所属社团 |  |
 | elizabeth collar | エリザベスカラー | 画师`tobiume sayu`所属社团 |  |
-| toropucchi | とろぷっち | ![twitter](https://pbs.twimg.com/profile_images/1473562632460582912/CJJj_8pg_400x400.jpg)<br><br>**作者推特头像** | [Twitter](https://twitter.com/Srm5tKdfhWnGY0K) |
+| toropucchi | とろぷっち | ![X](https://pbs.twimg.com/profile_images/1473562632460582912/CJJj_8pg_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/Srm5tKdfhWnGY0K) |
 | satou mitsu | さとうみつ | 画师`omitsu`所属社团 |  |
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
 | shironekoya | 白猫屋 |  |  |
 | mugen karaage | 無限からあげ |  |  |
 | yonaka works | ヨナカWorks |  |  |
-| touketsu shamen | 卜ウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[Twitter](https://twitter.com/two_ketsu) |
+| touketsu shamen | 卜ウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[X](https://x.com/two_ketsu) |
 | koutetsu shabon dama | 钢铁しゃぼん玉 | 画师`tamayura banko`所属社团 |  |
 | hogeramu | ほげらむ |  |  |
 | mizushirazu | みずしらず |  |  |
@@ -12591,9 +12591,9 @@ example:
 | akirerushoujo | アキレルショウジョ |  |  |
 | fuzume | ふずめ |  |  |
 | hitakamoya | ひたかもや |  |  |
-| kasokuiki | 過疎区域 |  | [Twitter](https://twitter.com/in_ksk) |
+| kasokuiki | 過疎区域 |  | [X](https://x.com/in_ksk) |
 | khaos distance | カオス距離 |  |  |
-| tohosanhun | 徒歩三分 | 茶户老师的R18用马甲 | [Twitter](https://twitter.com/tohosanhun)<br>[Twitter](https://twitter.com/tohoni) （本体） |
+| tohosanhun | 徒歩三分 | 茶户老师的R18用马甲 | [X](https://x.com/tohosanhun)<br>[X](https://x.com/tohoni) （本体） |
 | morunchi | モルチ |  |  |
 | gutsutoma | ぐつとま |  |  |
 | kaiten paradogs | 回転ParaDOGs |  |  |
@@ -12623,7 +12623,7 @@ example:
 | kawaiso nanoha nukeru | かわいそうなのは抜ける |  |  |
 | jinsei saboribu | 人生サボり部 |  |  |
 | mori no michi | 森の道 |  |  |
-| studio yama roman | スタジオ山ロマン |  | [pixiv](https://www.pixiv.net/users/48779474) [Twitter](https://twitter.com/yamaroman_CG) |
+| studio yama roman | スタジオ山ロマン |  | [pixiv](https://www.pixiv.net/users/48779474) [X](https://x.com/yamaroman_CG) |
 | inu ha sakana | 犬は鱼 |  |  |
 | mizukani | みずかに |  |  |
 | one hit wonder | ONE HIT WONDER |  |  |
@@ -12661,7 +12661,7 @@ example:
 | ice to choco | あいすとちょこ |  |  |
 | sakura suishou | 桜水晶 |  |  |
 | nekomimi to kuro mask | 猫耳と黒マスク |  |  |
-| champion soft | Champion Soft | 「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。 | [Twitter](https://twitter.com/alice_soft) [官方网站](http://www.alicesoft.com/) (\*) |
+| champion soft | Champion Soft | 「冠军软件公司」（Champion Soft，チャンピオンソフト）现在以成人游戏品牌「爱丽丝软件」（AliceSoft，有时亦作Alice Soft，アリスソフト）活动中，于1983年（昭和58年）3月成立。 | [X](https://x.com/alice_soft) [官方网站](http://www.alicesoft.com/) (\*) |
 | dojiro books | どじろーブックス |  |  |
 | alwayshp1 | いつも死にかけ | Always HP 1 |  |
 | shurashushushu | しゅらしゅしゅしゅ |  |  |
@@ -12720,14 +12720,14 @@ example:
 | kagayaku hoshizuna | 輝く星砂 |  | [Pixiv] ([pixiv](https://www.pixiv.net/users/12592835)) |
 | chikyuujin | ちきゅうじん |  |  |
 | nyum production | にゅむproduction |  |  |
-| heppoko usagi cafe | へっぽこうさぎ＊cafe |  | [Twitter](https://twitter.com/cure_cherish) [Twitter](https://twitter.com/cure_cherish_) [HP](https://moco.pupu.jp/usacafe/) |
+| heppoko usagi cafe | へっぽこうさぎ＊cafe |  | [X](https://x.com/cure_cherish) [X](https://x.com/cure_cherish_) [HP](https://moco.pupu.jp/usacafe/) |
 | asakasha doujin | 朝花社同人 |  |  |
 | maisou no soko | 埋葬ノ底 |  |  |
 | kyuryo koen | 丘陵公園 |  |  |
 | chairoiyatsu | ちゃいろいやつ |  |  |
 | surudoiman no irutokoro | するどいマンのいるところ |  |  |
 | kinkai 100 kg | 金塊100kg |  |  |
-| mukyou no utopia | 梦境的Utopia |  | [Twitter](https://twitter.com/utopia211008) |
+| mukyou no utopia | 梦境的Utopia |  | [X](https://x.com/utopia211008) |
 | nomiyagumi | ノミヤ組 |  |  |
 | manaita koujou | まな板工場 |  |  |
 | choukenkouya | 超健康屋 |  |  |
