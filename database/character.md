@@ -5352,6 +5352,7 @@ example:
 | edward teach | 爱德华·蒂奇 | （黑胡子） |  |
 | habetrot | 哈贝特洛特 | （哈贝喵） |  |
 | velma dinkley | 维尔玛·丁克利 |  |  |
+| daphne blake | 达芙妮·布雷克 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
