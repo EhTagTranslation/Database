@@ -12779,6 +12779,7 @@ example:
 | smile foran company | すまいるふぉらんかんぱにぃ。 |  |  |
 | kozuki sousaku dokoro | 甲月創作処 |  |  |
 | nezumi no haha | 鼠の母 |  |  |
+| hachihachihachi | 蜂蜂蜂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
