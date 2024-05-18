@@ -12774,6 +12774,12 @@ example:
 | minshuku izmd | 民宿IZMD |  |  |
 | youyouan | 葉々庵 |  |  |
 | kurumaya koudou | クルマヤ公道 |  |  |
+| harugakita | はるがきた |  |  |
+| imoimolatte | いもいもラテ |  |  |
+| kitahara koubou | 北原工房。 |  |  |
+| smile foran company | すまいるふぉらんかんぱにぃ。 |  |  |
+| kozuki sousaku dokoro | 甲月創作処 |  |  |
+| nezumi no haha | 鼠の母 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

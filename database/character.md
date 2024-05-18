@@ -1863,8 +1863,8 @@ example:
 | tamamo no mae | 玉藻前 | ![图](https://ehgt.org/b4/d0/b4d03c16074ba239f2db9803b18ac0338bb0596b-2147833-1024-1448-png_l.jpg)![图](https://ehgt.org/e1/9a/e19a1476369f421f9309919fd3cbf4c7b4680eaa-2123750-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玉藻前%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玉藻前) |
 | shielder | 玛修·基列莱特 | 指《Fate/Grand Order》中的 玛修·基列莱特<br>![图](https://ehgt.org/e7/5d/e75dfa3a1f89d481425f9f35172608d69a33abcb-1891324-1024-1448-png_l.jpg)![图](https://ehgt.org/f1/0a/f10a567d7d1c2cd2bbad9ea6d7885017c2395e91-1752646-1024-1448-png_l.jpg) |  |
 | saber lily | Saber Lily | 白Saber<br>![图](https://ehgt.org/f6/4d/f64d13239c074960d5db17553990fb64109c2de9-2161639-1024-1448-png_l.jpg)![图](https://ehgt.org/4c/4d/4c4da8143dbcd81fa997015555214dfb108271ed-5862547-4079-5188-jpg_l.jpg)![图](https://ehgt.org/3b/c3/3bc38ca7fd88516195e9ac55fe691629440f2656-111792-600-900-jpg_l.jpg)![图](https://ehgt.org/cc/0b/cc0bc76863b033ac2157fabb29ef6e3847e3495a-4900451-4112-5193-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| artoria pendragon | 阿尔托莉雅·潘德拉贡 | 指 FGO 中 artoria pendragon [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
-| artoria pendragon alter | 阿尔托莉雅·潘德拉贡Alter | 指 FGO 中 artoria pendragon alter [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| artoria pendragon | 阿尔托莉雅·潘德拉贡（Lancer） | 指 FGO 中 artoria pendragon [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
+| artoria pendragon alter | 阿尔托莉雅·潘德拉贡〔Alter〕（Lancer） | 指 FGO 中 artoria pendragon alter [lancer] | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | souji okita | 冲田总司 | 樱Saber、冲太(おき太)、和服Saber<br>![图](https://ehgt.org/07/f1/07f10e04dc0bfa540f16577b5ac8037153870d15-2099903-1024-1448-png_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) [萌娘百科](https://zh.moegirl.org.cn/冲田总司%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/冲田总司) |
 | red saber | 尼禄·克劳狄乌斯 | ![图](https://ehgt.org/ba/d4/bad4cad9d8fa543223ca75206dd2c32d35568b4a-2253494-1024-1448-png_l.jpg)![图](https://ehgt.org/8c/2f/8c2fa674554c8c25082fd23ae6a1af2afe14d040-2370897-1024-1448-png_l.jpg)![图](https://ehgt.org/7b/b5/7bb59a05a5ca6d98ed41c7c90b0a1738dc2ca7b0-3528081-3000-4270-jpg_l.jpg) | [各种 Saber 的标签](https://ehwiki.org/wiki/Talk:saber) |
 | ayako mitsuzuri | 美缀绫子 |  |  |
@@ -1888,11 +1888,11 @@ example:
 | astolfo | 阿斯托尔福（阿福） | 这么可爱，一定是——<br>![图](# "https://ehgt.org/46/67/4667a37959d9250b0bb98ee260065f78e951bfc2-1451907-2080-3000-jpg_l.jpg")![图](# "https://ehgt.org/3e/80/3e80fa00ea1061bb93a861d73d250ff038200454-1094945-895-1145-jpg_l.jpg")![图](# "https://ehgt.org/b7/c6/b7c6abcd936f8dd3152846904e4574f014f7b272-471789-653-900-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/阿斯托尔福%28Fate%29) |
 | protagonist | 主人公 |  |  |
 | minamoto no raikou | 源赖光 |  |  |
-| meltryllis | 溶解莉莉丝 |  | [萌娘百科](https://zh.moegirl.org.cn/溶解莉莉丝) |
-| passionlip | 帕森莉普（热情迷唇） |  |  |
+| meltryllis | 梅尔特莉莉丝 | 溶解莉莉丝(Meltryllis)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在游戏《Fate/EXTRA CCC》中首次登场。<br>![Meltryllis](https://media.fgo.wiki/e/ef/莉莉丝卡面4.png) | [萌娘百科](https://zh.moegirl.org.cn/溶解莉莉丝) |
+| passionlip | 帕森莉普 | 热情迷唇(Passionlip)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。在游戏《Fate/EXTRA CCC》中首次登场。<br>![Passionlip](https://media.fgo.wiki/b/bf/Lip四.png) | [萌娘百科](https://zh.moegirl.org.cn/热情迷唇) |
 | ushiwakamaru | 牛若丸 | ![图](https://ehgt.org/fc/57/fc57b2eb6d754dece69bdacf9d0ce14d65004321-2219263-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/牛若丸%28Fate%29) [Mooncell](http://www.fgo.wiki/w/牛若丸) |
 | jack the ripper | 开膛手杰克 | ![图](https://ehgt.org/f9/b3/f9b361b13e36d89d8f7804f98a6616299cbf3e05-2237855-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/开膛手杰克%28Fate/Apocrypha%29#) [Mooncell](http://www.fgo.wiki/w/开膛手杰克) |
-| jeanne alter | 贞德Alter | 黑贞<br>![图](https://ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](https://ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/贞德〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/贞德_Alter) |
+| jeanne alter | 贞德〔Alter〕 | 黑贞<br>![图](https://ehgt.org/6e/12/6e12345b1e75c07b025dacbc44171ac0667bd644-1646520-1024-1448-png_l.jpg)![图](https://ehgt.org/ab/22/ab2245577d106bb45c3a6f26de2927c3d797421d-1886633-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/贞德〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/贞德_Alter) |
 | nitocris | 尼托克丽丝 | ![图](https://ehgt.org/b1/3c/b13c41f47299835cd54c76588899432795737151-1670821-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尼托克丽丝%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/尼托克丽丝) |
 | alice kuonji | 久远寺有珠 |  |  |
 | aoko aozaki | 苍崎青子 |  |  |
@@ -1929,7 +1929,7 @@ example:
 | sella | 塞拉 |  |  |
 | euryale | 尤瑞艾莉（二姐） | 游戏`fate grand order`及其衍生作品中的出场人物。希腊神话中戈耳工三姊妹的次女。<br>![图](https://ehgt.org/df/38/df38db00349b92e67010304cf7b310ee48c0f04d-2871405-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尤瑞艾莉%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/尤瑞艾莉) |
 | shiki ryougi | 两仪式 | ![图](https://ehgt.org/39/6a/396a0c4d0cb0ad982c1ab74cb2ee7993db9e4e1a-1666909-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/b8/42/b84245fa93af8346e1bbe64499c92b0795946d57-1436434-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/两仪式) [Saber - Mooncell](http://www.fgo.wiki/w/两仪式) [Assassin - Mooncell](http://www.fgo.wiki/w/两仪式%28Assassin%29) |
-| stheno | 斯忒诺 | ![图](https://ehgt.org/10/ff/10ff76ba80d7fac50c8c0d2e29f30241c8a2ebfb-2936321-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/斯忒诺%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯忒诺) |
+| stheno | 斯忒诺 | （大姐）![图](https://ehgt.org/10/ff/10ff76ba80d7fac50c8c0d2e29f30241c8a2ebfb-2936321-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/斯忒诺%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯忒诺) |
 | mordred pendragon | 莫德雷德·潘德拉贡 | ![图](https://ehgt.org/c9/92/c9927b32786010b9d4e0c3343cd83f8c9f671762-1878349-1024-1448-png_l.jpg)![图](https://ehgt.org/99/8f/998fb9247f614f825a9ed7ec811ac70668f72164-1928537-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莫德雷德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/莫德雷德) |
 | queen of sheba | 示巴女王 |  |  |
 | wu zetian | 武则天 | ![图](# "https://ehgt.org/f2/71/f2712e3f466c0dc6210e03f5611af2a27e094d4f-1955013-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/武则天%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/不夜城的Assassin) |
@@ -1968,7 +1968,7 @@ example:
 | nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 | ![图](# "https://ehgt.org/dc/2b/dc2bba6bee0a93a81ada9f70bdaf8ad08dfb8450-2243286-1024-1448-png_l.jpg") | [Mooncell](http://www.fgo.wiki/w/尼禄·克劳狄乌斯〔新娘〕) [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#) |
 | chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰)<br>[茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
-| artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕 |  |  |
+| artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕（Rider） |  |  |
 | katsushika hokusai | 葛饰北斋（阿荣） | ![图](https://ehgt.org/e8/cc/e8ccea19028bed78c6fafa4710cf7b5da057cc16-2657507-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/葛饰北斋) [萌娘百科](https://zh.moegirl.org.cn/葛饰北斋%28Fate%29#) |
 | saint martha | 玛尔达 | ![图](https://ehgt.org/54/3d/543d726588b7b40ffc89612938edad9dfc1b232a-2396129-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛尔达%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛尔达) |
 | murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
@@ -3035,7 +3035,7 @@ example:
 | kanon daiba | 台场夏音 | 误射姬 |  |
 | marnie | 玛俐 | 玛俐（日文︰マリィ，英文︰Marnie）是《剑／盾》中登场的角色，为主角的劲敌之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 | taokaka | 桃卡卡 |  |  |
-| medusa lily | 美杜莎(Lancer) | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org.cn/美杜莎%28Fate%29) |
+| medusa lily | 美杜莎（Lancer） | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org.cn/美杜莎%28Fate%29) |
 | salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
 | zeta | 泽塔 | ![泽塔](https://huiji-public.huijistatic.com/gbf/uploads/5/5b/Zoom_3040028000_01.png)<br>日文名：ゼタ<br>英文名：Zeta<br>中文译名：泽塔<br>碧蓝幻想Versus人物中文译名：塞达<br>隶属于旨在狩猎星晶兽的“组织”的英勇女战士，也是封印武器“阿尔贝斯之枪”的契约者。<br>和搭档巴萨拉卡一同执行“组织”任务的情况较多，也常发生冲突，但两人绝非关系恶劣，反倒是互相信赖。<br>或许是因为塞达不服输又开朗活泼的性格与巴萨拉卡处事不惊的沉稳性格保持着完美的平衡。<br>擅长以长枪进行中距离猛攻阻止敌人近身，以及可发挥速度优势的空中战。 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040028000) |
 | beatrix | 贝阿朵丽丝 | 碧蓝幻想角色 | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030261000) |
@@ -3768,7 +3768,7 @@ example:
 | sideroca | 铸铁 | ![立绘\_铸铁\_skin1.png](https://s2.loli.net/2022/04/07/HJ84ceZYdbL52AD.png)<br>《明日方舟》五星干员铸铁 | [PRTS wiki](https://prts.wiki/id/14737)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:铸铁) |
 | utage | 宴 | ![明日方舟立绘\_宴\_skin1.png](https://s2.loli.net/2022/04/07/9NsBIvCJHT1g7Vl.png)<br>《明日方舟》宴 | [PRTS Wiki](https://prts.wiki/w/宴)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:宴) |
 | siege | 推进之王 | ![立绘\_推进之王\_2.png](https://s2.loli.net/2022/04/07/31O5sQepXMFTAUK.png)<br>《明日方舟》推进之王 | [PRTS wiki](https://prts.wiki/id/1770)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:推进之王) |
-| barghest | 巴格斯特（妖高） | 妖精骑士高文是TYPE-MOON旗下Fate系列及其衍生作品的登场角色。<br><br>作为妖精的名字是巴格斯特（Barghest）。<br><br>![巴格斯特](https://img.moegirl.org.cn/common/2/21/好似淑女.png) | [萌娘百科](https://zh.moegirl.org.cn/巴格斯特%28Fate%29#) |
+| barghest | 巴格斯特 | （妖高）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·高文的灵基之名的妖精骑士。作为妖精的名字是巴格斯特。<br>![巴格斯特](https://media.fgo.wiki/7/77/バーゲスト满破.png) | [萌娘百科](https://zh.moegirl.org.cn/巴格斯特%28Fate%29#) |
 | yellow heart | 黄色之心 |  |  |
 | orange heart | 橙色之心 |  |  |
 | kotonoha katsura | 桂言叶 | ![图](https://ehgt.org/61/fb/61fb96cb43dbe8098937e9f40a699d4bb6208d6b-9343441-2480-3507-png_l.jpg) |  |
@@ -3804,7 +3804,7 @@ example:
 | rita rossweisse | 丽塔·洛丝薇瑟 | 丽塔·洛丝薇瑟（日语：リタ・ロスヴァイセ）是miHoYo旗下游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丽塔·洛丝薇瑟) [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Rita_Rossweisse) |
 | yor forger | 约尔·福杰 |  | [萌娘百科](https://zh.moegirl.org.cn/约尔·福杰) |
 | misaki tobisawa | 鸢泽美咲 | 鸢泽美咲是游戏《苍之彼方的四重奏》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/鸢泽美咲) [Fandom](https://aokana.fandom.com/wiki/Misaki_Tobisawa) |
-| morgan le fay | 摩根勒菲 | 游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。<br><br>![摩根](https://img.moegirl.org.cn/common/6/64/Morganlefay.jpg) | [萌娘百科](https://zh.moegirl.org.cn/摩根%28Fate/Grand_Order%29#) |
+| morgan le fay | 摩根·勒·菲 | 游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。<br>![摩根](https://media.fgo.wiki/4/4f/モルガン满破.png) | [萌娘百科](https://zh.moegirl.org.cn/摩根%28Fate/Grand_Order%29#) |
 | nishizono chigusa | 西园千草 | 西园千草是一名从2020年08月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/西园千草) |
 | sherry birkin | 雪莉·柏金 | 初登场于《生化危机2》，该作故事的核心人物。后登场于《生化危机 暗黑编年史》、《生化危机 浣熊市行动》、《生化危机6》。除此之外，在《生化危机6》以及《生化危机2 重制版》中雪莉是可操纵游玩的女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/雪莉·柏金) [Fandom](https://residentevil.fandom.com/wiki/Sherry_Birkin) |
 | ratna petit | 拉特娜·葡蒂 | 拉特娜·葡蒂是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉特娜·葡蒂) |
@@ -3820,8 +3820,8 @@ example:
 | crimvael | 克莉姆 | 《异种族风俗娘评鉴指南》中的天使 |  |
 | samus aran | 萨姆斯·亚兰 | 《密特罗德》（《银河战士》）系列的主角。初登场于1986年的FC游戏《密特罗德》（METROID），是电子游戏史上首个可由玩家操控的女性角色。 |  |
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
-| melusine | 美露莘（妖兰） | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。 |  |
-| baobhan sith | 芭万·希（妖崔） | FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。<br>![芭万·希](https://img.moegirl.org.cn/common/5/5e/妖精骑士崔斯坦一破.png) | [萌娘百科](https://zh.moegirl.org.cn/芭万·希%28Fate%29#) |
+| melusine | 美露莘 | （妖兰）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。<br>![美露莘](https://media.fgo.wiki/0/0b/メリュジーヌ满破.png) | [萌娘百科](https://zh.moegirl.org.cn/梅柳齐娜) |
+| baobhan sith | 芭万·希 | （妖崔）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。<br>![芭万·希](https://media.fgo.wiki/6/62/バーヴァン・シー满破.png) | [萌娘百科](https://zh.moegirl.org.cn/芭万·希%28Fate%29#) |
 | suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。<br>`p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米)<br>[少前GFwiki](https://www.gfwiki.org/w/索米) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
@@ -4152,7 +4152,7 @@ example:
 | aomi yanagisako | 柳迫碧美 |  |  |
 | airi | 爱莉 |  |  |
 | melona | 美萝娜 |  |  |
-| merlin prototype | 梅林prototype |  | [https://fgo.wiki/w/阿瓦隆女士](https://fgo.wiki/w/阿瓦隆女士) |
+| merlin prototype | 梅林〔Prototype〕 | （阿瓦隆女士） | [https://fgo.wiki/w/阿瓦隆女士](https://fgo.wiki/w/阿瓦隆女士) |
 | shuna | 朱菜 | 所属作品 `p:tensei shitara slime datta ken`<br>![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Shuna_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/朱菜) [Fandom](https://tensura.fandom.com/wiki/Shuna) |
 | lenalee lee | 利娜莉·李 | 李娜丽·李（日语：リナリー‧リー；英语：Lenalee Lee）是星野桂创作的漫画《`p:d.gray-man`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/dgrayman/images/6/6b/Lenalee_2006.png) | [萌娘百科](https://zh.moegirl.org.cn/李娜丽·李) [Fandom](https://dgrayman.fandom.com/wiki/Lenalee_Lee) |
 | natsuru senou | 濑能名津流 |  |  |
@@ -4272,7 +4272,7 @@ example:
 | nu-13 | ν-No.13- | 纽恩 |  |
 | jin kisaragi | 琴恩·如月 |  |  |
 | erice utsumi | 宇津见绘里濑 |  |  |
-| emiya alter | 卫宫Alter |  |  |
+| emiya alter | 卫宫〔Alter〕 |  |  |
 | shinoa hiiragi | 柊筱娅 |  |  |
 | fatui electro cicin mage | 雷萤术士 |  |  |
 | fatui cryo cicin mage | 冰萤术士 |  |  |
@@ -4549,7 +4549,7 @@ example:
 | jingei | 迅鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:迅鲸) |
 | chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
-| queen draco | 妖妃德拉科 |  |  |
+| queen draco | 妖妃德拉科 | （兽尼禄） |  |
 | march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
 | himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive` |  |
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
@@ -5318,6 +5318,39 @@ example:
 | iori miyamoto | 宫本伊织 |  |  |
 | kirara yozakura | 夜樱绮罗罗 |  |  |
 | britomart | 布里托玛特 |  |  |
+| rex | 莱克斯 | 莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) |
+| shizuka mikazuki | 三日月闲 | 漫画《僵尸百分百》女主角 |  |
+| la pluma | 羽毛笔 | 手机游戏明日方舟女干员 |  |
+| if | 爱耶芙 | 爱耶芙(IDEA FACTORY/アイエフ)，是游戏《超次元游戏海王星》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱耶芙) |
+| luo xiaohei | 罗小黑 | 罗小黑是MTJJ执导的国产动画《罗小黑战记》的主人公。<br><br>罗小黑是一只通体漆黑的可爱小猫，本体是猫妖，可变为人形后并和其他人正常交流。 | [萌娘百科](https://zh.moegirl.org.cn/罗小黑) |
+| wuxian | 无限 | 无限是由MTJJ所创作的《罗小黑战记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/无限%28罗小黑战记%29#) |
+| shinsaku takasugi | 高杉晋作 |  |  |
+| nagayoshi mori | 森长可 |  |  |
+| locusta | 洛库斯塔 |  |  |
+| wandjina | 旺吉娜 |  |  |
+| tlaloc | 特拉洛克 | （雨神） |  |
+| black cat | 费莉西亚‧哈代（黑猫） |  | [萌娘百科](https://zh.moegirl.org.cn/黑猫%28漫威%29#) |
+| spider-man | 蜘蛛侠 |  | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛侠) |
+| mary jane watson | 玛丽•简•沃森 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪莉·珍·華生) |
+| aesc the savior | 救世主梣 |  |  |
+| morgan | 摩根 |  |  |
+| aphrodite | 阿佛洛狄忒 |  |  |
+| fuuma kotarou | 风魔小太郎 |  |  |
+| boggart | 博格特 |  |  |
+| tezcatlipoca | 特斯卡特利波卡 | （烟雾镜） |  |
+| arjuna | 阿周那 |  |  |
+| ashwatthama | 马嘶 |  |  |
+| shirou amakusa | 天草四郎 |  |  |
+| oberon | 奥伯龙 |  |  |
+| ashiya douman | 芦屋道满 |  |  |
+| robin hood | 罗宾汉 |  |  |
+| ryouma sakamoto | 坂本龙马 |  |  |
+| kojiro sasaki | 佐佐木小次郎 |  |  |
+| james moriarty | 詹姆斯·莫里亚蒂 |  |  |
+| hajime saitou | 斋藤一 |  |  |
+| goredolf musik | 戈尔德鲁夫·穆吉克 |  |  |
+| edward teach | 爱德华·蒂奇 | （黑胡子） |  |
+| habetrot | 哈贝特洛特 | （哈贝喵） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
