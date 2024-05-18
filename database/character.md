@@ -5356,6 +5356,7 @@ example:
 | brock | 小刚 | 小刚（タケシ）是游戏《`pokemon`》系列及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小刚) |
 | vulpix | 六尾 |  | [萌娘百科](https://zh.moegirl.org.cn/六尾) |
 | zoroark | 索罗亚克 |  | [萌娘百科](https://zh.moegirl.org.cn/索罗亚克) |
+| yveltal | 伊裴尔塔尔 |  | [萌娘百科](https://zh.moegirl.org.cn/伊裴尔塔尔娘) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
