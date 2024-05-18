@@ -2839,7 +2839,7 @@ example:
 | kyouka hikawa | 冰川镜华 | ![](https://img.moegirl.org.cn/common/thumb/9/92/Hikawa_kyouka_pc.png/420px-Hikawa_kyouka_pc.png)<br>冰川镜华（日语：氷川（ひかわ） 鏡華（きょうか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为镜华（日语：キョウカ）。 | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
-| saren sasaki | 佐佐木咲恋 | ![佐佐木咲恋](https://ehgt.org/90/56/9056281b64c3ab47cca0237afc534349702359ce-3425005-2180-3000-jpg_250.jpg)<br>佐佐木咲恋是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为咲恋。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木咲恋) |
+| saren sasaki | 佐佐木咲恋 | ![佐佐木咲恋](# "https://ehgt.org/90/56/9056281b64c3ab47cca0237afc534349702359ce-3425005-2180-3000-jpg_250.jpg")<br>佐佐木咲恋是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为咲恋。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木咲恋) |
 | niyon | 妮欧 |  |  |
 | yuel | 尤艾尔 |  |  |
 | societte | 苏丝雅 |  |  |
