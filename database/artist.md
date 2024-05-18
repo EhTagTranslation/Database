@@ -12824,6 +12824,7 @@ example:
 | toshizou | としぞう |  | [pixiv](https://www.pixiv.net/users/13835102) |
 | izhardraws | IzharDraws |  |  |
 | jay naylor | Jay Naylor |  |  |
+| blue striker | Blue Striker |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
