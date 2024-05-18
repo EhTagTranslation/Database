@@ -2074,7 +2074,7 @@ example:
 | berosu | べろす |  |  |
 | silly | しりー |  | [pixiv](https://www.pixiv.net/users/2774175) |
 | sekiri | せきり |  |  |
-| midorino tanuki | 翠野タヌキ \| アーティスト |  | [Twitter](https://twitter.com/midorino_kemono) [pixiv](https://www.pixiv.net/users/16859821) |
+| midorino tanuki | 翠野タヌキ |  | [Twitter](https://twitter.com/midorino_kemono) [pixiv](https://www.pixiv.net/users/16859821) |
 | kanna hisashi | かんな久 |  |  |
 | kitahara eiji | 北原エイジ |  |  |
 | aoi miharu | 蒼井ミハル |  |  |
@@ -12822,16 +12822,6 @@ example:
 | aoyagi kabota | 青柳カボた |  |  |
 | phathusa | Phathusa |  |  |
 | kitsune maru | きつね丸 |  |  |
-| tsukushi haru | 筑紫はる |  |  |
-| lao gong | 老攻 |  | [pixiv](https://www.pixiv.net/users/44535714) |
-| kozuki | 甲月 |  |  |
-| yunkaiming | 云开明 |  | [pixiv](https://www.pixiv.net/users/19935159) [Twitter](https://twitter.com/ZhangDiiiii) |
-| tonton | tonton |  | [pixiv](https://www.pixiv.net/users/681077) |
-| k | K |  | [pixiv](https://www.pixiv.net/users/81433570) |
-| sha | 千醇 |  |  |
-| nezumi | 鼠 |  |  |
-| krs | KRS |  | [pixiv](https://www.pixiv.net/users/20546) |
-| nicorima | nicorima |  | [pixiv](https://www.pixiv.net/users/9202534) [Twitter](https://twitter.com/25lima_1) [FANBOX](https://nicorima.fanbox.cc/) [Patreon](https://www.patreon.com/nicorima) |
 
 <!--TEMPLATE:
 |  |  |  |  |
