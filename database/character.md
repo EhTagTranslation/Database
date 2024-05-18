@@ -5360,6 +5360,7 @@ example:
 | groudon | 固拉多 |  | [萌娘百科](https://zh.moegirl.org.cn/固拉多) |
 | charizard | 喷火龙 |  | [萌娘百科](https://zh.moegirl.org.cn/喷火龙) |
 | korra | 科拉 |  |  |
+| snoopy | 史努比 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
