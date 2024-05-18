@@ -5357,6 +5357,7 @@ example:
 | vulpix | 六尾 |  | [萌娘百科](https://zh.moegirl.org.cn/六尾) |
 | zoroark | 索罗亚克 |  | [萌娘百科](https://zh.moegirl.org.cn/索罗亚克) |
 | yveltal | 伊裴尔塔尔 |  | [萌娘百科](https://zh.moegirl.org.cn/伊裴尔塔尔娘) |
+| groudon | 固拉多 |  | [萌娘百科](https://zh.moegirl.org.cn/固拉多) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
