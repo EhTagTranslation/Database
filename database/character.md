@@ -5354,6 +5354,7 @@ example:
 | velma dinkley | 维尔玛·丁克利 |  |  |
 | daphne blake | 达芙妮·布雷克 |  |  |
 | brock | 小刚 | 小刚（タケシ）是游戏《`pokemon`》系列及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小刚) |
+| vulpix | 六尾 |  | [萌娘百科](https://zh.moegirl.org.cn/六尾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
