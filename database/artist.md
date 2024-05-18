@@ -12828,6 +12828,7 @@ example:
 | fred perry | Fred Perry |  |  |
 | matemi | Matemi |  |  |
 | zourik | Zourik |  |  |
+| garabatoz | Garabatoz |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
