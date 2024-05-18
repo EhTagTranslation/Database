@@ -12825,6 +12825,7 @@ example:
 | izhardraws | IzharDraws |  |  |
 | jay naylor | Jay Naylor |  |  |
 | blue striker | Blue Striker |  |  |
+| fred perry | Fred Perry |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
