@@ -22,9 +22,8 @@ example:
   intro: |
     ![大嘘头像](https://tva1.sinaimg.cn/large/6c84b2d6gy1fjkes482gzj204q04qmxx.jpg)
     袜控，尻控，女子高中生(误)画家。
-  links: >
-    [X](https://x.com/u_s_o)
-    [pixiv](https://www.pixiv.net/users/457541)
+  links: |
+    [X](https://x.com/u_s_o) [pixiv](https://www.pixiv.net/users/457541)
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |

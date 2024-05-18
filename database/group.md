@@ -24,8 +24,7 @@ example:
   intro: |
     「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。
   links: >
-    [X](https://x.com/digimon215)
-    [pixiv](https://www.pixiv.net/users/264932)
+    [X](https://x.com/digimon215) [pixiv](https://www.pixiv.net/users/264932)
     [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com)
 ---
 

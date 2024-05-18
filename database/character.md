@@ -3265,8 +3265,8 @@ example:
 | keqing | 刻晴 | 刻晴（英语：keqing）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/34/刻晴.jpg) | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
 | atsuko kagari | 篝敦子 | 从日本而来，志愿成为魔女的少女。因小时候着迷于闪耀夏莉奥的魔法秀，立志成为魔女于是来到了新月魔法学校，虽然不擅长魔法，但会乐观向前地朝着成为夏莉奥那样的魔女而努力。 | [萌娘百科](https://zh.moegirl.org.cn/篝敦子) |
 | diana cavendish | 戴安娜·卡文迪什 | 亚可的同班同学，诞生于英国的名门魔女家系。头脑聪明，拥有高超的魔法能力，被称作露娜诺娃创办以来最优秀的学生。认真且正义感强烈，也因此常与亚可有所冲突实际上是帮忙收烂摊子。 | [萌娘百科](https://zh.moegirl.org.cn/戴安娜·卡文迪什) |
-| eriko kuraishi | 仓石惠理子 | ![惠理子](https://img.moegirl.org.cn/common/thumb/e/ec/Kuraishi_eriko_pc.png/280px-Kuraishi_eriko_pc.png)<br>本名仓石惠理子，隶属于“暮光流星群”，外号“破坏狂”，眼神阴暗，爱做实验，制药天才，能够制造操纵人的药物。虽然是个病娇，但其内心也有温柔的一面。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=仓石惠理子) [bilibili游戏](https://wiki.biligame.com/pcr/惠理子) |
-| monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [美少女花骑士:乌头](https://zh.moegirl.org.cn/index.php?title=美少女花骑士:乌头) |
+| eriko kuraishi | 仓石惠理子 | ![惠理子](https://img.moegirl.org.cn/common/thumb/e/ec/Kuraishi_eriko_pc.png/280px-Kuraishi_eriko_pc.png)<br>本名仓石惠理子，隶属于“暮光流星群”，外号“破坏狂”，眼神阴暗，爱做实验，制药天才，能够制造操纵人的药物。虽然是个病娇，但其内心也有温柔的一面。 | [萌娘百科](https://zh.moegirl.org.cn/仓石惠理子) [bilibili游戏](https://wiki.biligame.com/pcr/惠理子) |
+| monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/美少女花骑士:乌头) |
 | makoto kowata | 木幡真琴 |  |  |
 | elaina | 伊蕾娜 |  |  |
 | ganyu | 甘雨 | 甘雨（英语：ganyu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c0/循循守月_甘雨.png) | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
@@ -3822,7 +3822,7 @@ example:
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
 | melusine | 美露莘 | （妖兰）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。作为妖精的名字是美露莘。<br>![美露莘](https://media.fgo.wiki/0/0b/メリュジーヌ满破.png) | [萌娘百科](https://zh.moegirl.org.cn/梅柳齐娜) |
 | baobhan sith | 芭万·希 | （妖崔）FGO 2.6中，妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。作为妖精的名字是芭万·希。<br>![芭万·希](https://media.fgo.wiki/6/62/バーヴァン・シー满破.png) | [萌娘百科](https://zh.moegirl.org.cn/芭万·希%28Fate%29#) |
-| suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。<br>`p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=少女前线:索米)<br>[少前GFwiki](https://www.gfwiki.org/w/索米) |
+| suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。<br>`p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:索米) [少前GFwiki](https://www.gfwiki.org/w/索米) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
 | nonomi izayoi | 十六夜野宫 | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png)<br>十六夜野乃美 | [gamekee](https://ba.gamekee.com/68803.html) [Fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
@@ -3993,7 +3993,7 @@ example:
 | samira | 莎弥拉 |  |  |
 | katarina du couteau | 卡特琳娜·杜·克卡奥 |  |  |
 | kaltsit | 凯尔希 | 明日方舟主要角色之一，原型猞猁。 |  |
-| maho hiyajo | 比屋定真帆 | 比屋定真帆 ![](https://i0.hdslb.com/bfs/article/8e9412351c56c2abf0396b4d9525e9848c5a7321.jpg@750w_584h_progressive.webp) 是MAGES.所制作的游戏《命运石之门 0》及其衍生作品的登场角色。LabMem No.009，牧濑红莉栖所属大学的前辈研究员。Amadeus的红莉栖曾如此评价："我只不过是平凡之人的代表，真帆前辈才是真正的'上帝宠儿（Amadeus）'。” | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=比屋定真帆&mobileaction=toggle_view_desktop) |
+| maho hiyajo | 比屋定真帆 | 比屋定真帆 ![](https://i0.hdslb.com/bfs/article/8e9412351c56c2abf0396b4d9525e9848c5a7321.jpg@750w_584h_progressive.webp) 是MAGES.所制作的游戏《命运石之门 0》及其衍生作品的登场角色。LabMem No.009，牧濑红莉栖所属大学的前辈研究员。Amadeus的红莉栖曾如此评价："我只不过是平凡之人的代表，真帆前辈才是真正的'上帝宠儿（Amadeus）'。” | [萌娘百科](https://zh.moegirl.org.cn/比屋定真帆) |
 | venom | 毒液 |  |  |
 | katarina claes | 卡塔莉娜·库莱耶思 |  |  |
 | maria campbell | 玛丽亚·坎贝尔 |  |  |
@@ -4006,7 +4006,7 @@ example:
 | platinum | 白金 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:白金) |
 | rise kujikawa | 久慈川理世 |  |  |
 | yuu narukami | 鸣上悠 |  |  |
-| itaru hashida | 桥田至 | 东京电机大学一年级。凶真高中时代的友人，两人也在同一所大学上学。因为出色的编程和黑客技术，被冈伦称为「吾之右臂」（My favourite right arm）的未来道具研究所的主要战力之一。<br><br>典型肥宅，常常使用2ch用语，自称"变态绅士"，以不同的契机让天真的真由理说些不良语言。是个从2次元到3次元甚至到无机物都能萌上的家伙。最近萌的对象是在女仆咖啡厅『女仆皇后+喵 2』打工的菲利斯。<br><br>偶尔出现在句尾的"常考"是"请用常识去考虑"的意思。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=桥田至&mobileaction=toggle_view_desktop) |
+| itaru hashida | 桥田至 | 东京电机大学一年级。凶真高中时代的友人，两人也在同一所大学上学。因为出色的编程和黑客技术，被冈伦称为「吾之右臂」（My favourite right arm）的未来道具研究所的主要战力之一。<br><br>典型肥宅，常常使用2ch用语，自称"变态绅士"，以不同的契机让天真的真由理说些不良语言。是个从2次元到3次元甚至到无机物都能萌上的家伙。最近萌的对象是在女仆咖啡厅『女仆皇后+喵 2』打工的菲利斯。<br><br>偶尔出现在句尾的"常考"是"请用常识去考虑"的意思。 | [萌娘百科](https://zh.moegirl.org.cn/桥田至) |
 | tenten | 天天 | ![](https://img.moegirl.org.cn/common/thumb/b/bb/天天.jpg/280px-天天.jpg)<br>《火影忍者》及其衍生作品的登场角色 |  |
 | hoshiguma | 星熊 |  |  |
 | flamebringer | 炎客 |  |  |
@@ -4098,7 +4098,7 @@ example:
 | kagome higurashi | 日暮戈薇 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/2d/fa/2dfa838ed0c61f6631f8b804cd9da48bcd8893f0-31916-280-418-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/日暮戈薇) |
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
 | hitomi shizuki | 志筑仁美 |  |  |
-| nakoruru | 娜可露露 |  | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=娜可露露&variant=zh-tw&mobileaction=toggle_view_desktop) |
+| nakoruru | 娜可露露 |  | [萌娘百科](https://zh.moegirl.org.cn/娜可露露) |
 | tomo yamanobe | 山边灯 |  |  |
 | calamity jane | 灾星简 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灾星简%28Fate%29)<br>[https://fgo.wiki/w/灾星简](https://fgo.wiki/w/灾星简) |
 | charlotte corday | 夏洛特·科黛 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·科黛%28Fate%29)<br>[https://fgo.wiki/w/夏洛特·科黛](https://fgo.wiki/w/夏洛特·科黛) |
@@ -4195,7 +4195,7 @@ example:
 | mitsuru kirijo | 桐条美鹤 |  |  |
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
 | kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
-| nilou | 妮露 | 妮露（英语：nilou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f0/原神妮露.jpg) | [萌娘百科](https://zh.moegirl.org.cn/index.php?curid=531593) |
+| nilou | 妮露 | 妮露（英语：nilou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f0/原神妮露.jpg) | [萌娘百科](https://zh.moegirl.org.cn/妮露%28原神%29) |
 | princess elsa | 艾莎公主 | 迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。 |  |
 | kristoff bjorgman | 克斯托夫 | 动画电影《冰雪奇缘》系列中的角色 |  |
 | athrun zala | 阿斯兰·萨拉 |  |  |
@@ -4322,7 +4322,7 @@ example:
 | scorbunny | 炎兔儿 | 炎兔儿（日文︰ヒバニー，英文︰Scorbunny）是火属性宝可梦，是伽勒尔地区最初的伙伴之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/炎兔儿) |
 | zekrom | 捷克罗姆 | 捷克罗姆（日文︰ゼクロム，英文︰Zekrom）是龙属性和电属性传说的宝可梦。它是传说的龙宝可梦之一。它的设计者是杉森建。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷克罗姆) |
 | zeraora | 捷拉奥拉 | 捷拉奥拉（日文︰ゼラオラ，英文︰Zeraora）是电属性的幻之宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷拉奥拉) |
-| iono | 奇树 | 所属作品:`p:pokemon`<br>宝可梦朱紫电系道馆主<br>![](https://img.moegirl.org.cn/common/6/6f/Iono.png) | [萌娘百科](https://zh.moegirl.org.cn/index.php?title=奇树) |
+| iono | 奇树 | 所属作品:`p:pokemon`<br>宝可梦朱紫电系道馆主<br>![](https://img.moegirl.org.cn/common/6/6f/Iono.png) | [萌娘百科](https://zh.moegirl.org.cn/奇树) |
 | maho himemiya | 姬宫真步 | Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色 | [https://rwiki.jp/pri\_cone/パートナー/姫宮真歩](https://rwiki.jp/pri_cone/パートナー/姫宮真歩) |
 | ahri | 阿狸 |  |  |
 | lillia | 莉莉娅 |  |  |
