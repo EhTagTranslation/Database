@@ -1377,7 +1377,7 @@ example:
 | bravest warriors | 无惧勇士 | 《无惧勇士》（英文：Bravest Warriors）是一部美国线上系列动画，原创为《探险活宝》的作者潘得顿·沃德，由Breehn Burns指导。此系列由Frederator Studios在所属的卡通宿醉YouTube频道上出品。 | [维基百科](https://zh.wikipedia.org/wiki/無懼勇士) (\*) |
 | candy candy | 小甜甜 | 《小甜甜》（原题：キャンディ♥キャンディ，英文：Candy Candy）是日本漫画家五十岚优美子担任原画，儿童文学作家水木杏子（名木田惠子）为原作的少女漫画作品，亦为以同漫画改编的电视动画主题歌（作词：名木田恵子、作曲：渡辺岳夫）曲名。 | [维基百科](https://zh.wikipedia.org/wiki/小甜甜) (\*) |
 | moana | 海洋奇缘 | 《海洋奇缘》（英语：Moana），是一部2016年美国音乐奇幻喜剧冒险电影。华特迪士尼动画工作室制作、华特迪士尼影业所发行，由《小美人鱼》、《阿拉丁》和《公主与青蛙》的导演罗恩·克莱蒙兹和约翰·马斯克联合执导。本片是第56部迪士尼经典动画长片。主要配音员有奥丽依·卡拉瓦霍、道恩·强森、芮秋·豪斯、泰姆拉·莫里森、杰梅奈·克莱门特、妮可·舒辛格及阿兰·图代克。 | [维基百科](https://zh.wikipedia.org/wiki/海洋奇缘) (\*) |
-| scooby-doo | 叔比狗 | 《叔比狗》（Scooby-Doo，或译作史酷比）是一系列知名美国动画。电视动画首播于1969年。最初的系列叔比狗，你在哪里！（Scooby-Doo, Where Are You!）由美国动画公司汉纳-巴伯拉制片公司的Joe Ruby和Ken Spears两人于1969年创作。台湾现在由卡通频道播出。 | [维基百科](https://zh.wikipedia.org/wiki/史酷比) (\*) |
+| scooby-doo | 史酷比 | 《史酷比》（英语：Scooby-Doo，或译作史酷比、狗狗震）是由汉纳巴伯拉动画制作、乔·鲁比、肯·斯皮尔斯所创作，华纳兄弟探索发行的美国动画系列，最初的系列《史酷比，你在哪里！》于1969年播出，并在之后改编为其他媒体，例如电视剧、真人电影、电子游戏和周边商品等领域。 | [维基百科](https://zh.wikipedia.org/wiki/史酷比) (\*) |
 | miraculous ladybug | 瓢虫少女 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Miraculous:_Tales_of_Ladybug_%26_Cat_Noir) |
 | inazuma eleven go | 闪电十一人GO |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Inazuma_Eleven_GO_%28manga%29) |
 | mushibugyo | 虫奉行 | 《虫奉行》（日语：ムシブギョー / 蟲奉行）是日本漫画家福田宏原本在《周刊少年Sunday超》上连载的日本漫画作品。之后人气上升转至《周刊少年Sunday》上连载。作品名称也从〈虫奉行〉改名为〈常驻战阵!!虫奉行〉，故事内容也因应从月刊转战周刊而做了调动与变更。进而作品有月刊时期与现在周刊时期两种风格。 | [维基百科](https://zh.wikipedia.org/wiki/蟲奉行) (\*) |
