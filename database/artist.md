@@ -12832,6 +12832,7 @@ example:
 | koyubita beru | こゆびた べる |  |  |
 | shiroha | しろ羽 |  |  |
 | ex alnam | EXアルナム |  |  |
+| koohii koucha maru | コーヒー紅茶丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
