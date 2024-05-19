@@ -12829,6 +12829,7 @@ example:
 | matemi | Matemi |  |  |
 | zourik | Zourik |  |  |
 | garabatoz | Garabatoz |  |  |
+| koyubita beru | こゆびた べる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
