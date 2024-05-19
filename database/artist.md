@@ -12833,6 +12833,7 @@ example:
 | shiroha | しろ羽 |  |  |
 | ex alnam | EXアルナム |  |  |
 | koohii koucha maru | コーヒー紅茶丸 |  |  |
+| handplug | HandPlug |  | [pixiv](https://www.pixiv.net/users/1560530) |
 
 <!--TEMPLATE:
 |  |  |  |  |
