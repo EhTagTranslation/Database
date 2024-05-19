@@ -12830,6 +12830,7 @@ example:
 | zourik | Zourik |  |  |
 | garabatoz | Garabatoz |  |  |
 | koyubita beru | こゆびた べる |  |  |
+| shiroha | しろ羽 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
