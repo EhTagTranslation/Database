@@ -12831,6 +12831,7 @@ example:
 | garabatoz | Garabatoz |  |  |
 | koyubita beru | こゆびた べる |  |  |
 | shiroha | しろ羽 |  |  |
+| ex alnam | EXアルナム |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
