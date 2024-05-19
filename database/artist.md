@@ -12836,6 +12836,7 @@ example:
 | handplug | HandPlug |  | [pixiv](https://www.pixiv.net/users/1560530) |
 | ro-g | Ro\_G |  | [pixiv](https://www.pixiv.net/users/1348115) |
 | vicky | ビッキー |  | [pixiv](https://www.pixiv.net/users/796850) [FANBOX](https://www.fanbox.cc/@vicky-ox) |
+| kondo yume | 魂童夢 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
