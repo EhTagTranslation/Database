@@ -12702,7 +12702,7 @@ example:
 | choi moz | ちょいもず |  | [X](https://x.com/moz_choi/) [pixiv](https://www.pixiv.net/users/67102863) |
 | miyazaki usagi | みやざきうさぎ |  |  |
 | touchuu kasou | 冬虫夏草 |  |  |
-| cbmus | cbmus |  | [X](https://x.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
+| cbmus | Cbmus |  | [X](https://x.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
 | torii yoshitsuna | 鳥居ヨシツナ | 鳥居ヨシツナ（山吉田之助） | [X](https://x.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 | mannack | まんなく |  | [pixiv](https://www.pixiv.net/users/29759565) |
 | miwerjooggetser | 無名老圖 |  | [pixiv](https://www.pixiv.net/users/1176892) [X](https://x.com/ojiojiojisaaan) |
