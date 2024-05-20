@@ -5355,7 +5355,7 @@ example:
 | daphne blake | 达芙妮·布雷克 |  |  |
 | brock | 小刚 | 小刚（タケシ）是游戏《`pokemon`》系列及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小刚) |
 | vulpix | 六尾 |  | [萌娘百科](https://zh.moegirl.org.cn/六尾) |
-| zoroark | 索罗亚克 |  | [萌娘百科](https://zh.moegirl.org.cn/索罗亚克) |
+| zoroark | 索罗亚克 | 索罗亚克的外貌如同一只双脚行走的灰色狐狸，头上深红色的鬃毛覆盖了后背，同时，它的鬃毛上还有深灰色的毛发，而在接近鬃毛末端的地方还有一种类似头花的蓝色珍珠状物体。索罗亚克胸口处的黑色毛发覆盖至肩部，它的爪子、耳朵为红色，而嘴角、眼的附近的毛发也同样是红色，它的手有三个手指，与腿一样也只有三个脚趾。洗翠索罗亚克身体颜色为灰色，且多处有红色椭圆形花纹，耳朵顶端为红色，散乱的头发为白色和红色。眼眶为红色，眼睛为黄色。 | [https://wiki.52poke.com/wiki/索罗亚克](https://wiki.52poke.com/wiki/索罗亚克) |
 | yveltal | 伊裴尔塔尔 |  | [萌娘百科](https://zh.moegirl.org.cn/伊裴尔塔尔娘) |
 | groudon | 固拉多 |  | [萌娘百科](https://zh.moegirl.org.cn/固拉多) |
 | charizard | 喷火龙 |  | [萌娘百科](https://zh.moegirl.org.cn/喷火龙) |
