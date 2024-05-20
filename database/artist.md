@@ -12838,6 +12838,7 @@ example:
 | vicky | ビッキー |  | [pixiv](https://www.pixiv.net/users/796850) [FANBOX](https://www.fanbox.cc/@vicky-ox) |
 | kondo yume | 魂童夢 |  |  |
 | namonaki | なもなき |  |  |
+| villainchin | VillainChin | 作者推特头像↓<br>![](https://pbs.twimg.com/profile_images/1697623426071154689/qwG69bDD_400x400.jpg) | [pixiv](https://www.pixiv.net/users/92344897) [twitter](https://x.com/villianchin) |
 
 <!--TEMPLATE:
 |  |  |  |  |
