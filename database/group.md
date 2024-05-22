@@ -12783,6 +12783,7 @@ example:
 | sakuranbo nouen | さくらんぼ農園 |  |  |
 | nurupon | ぬるポン |  |  |
 | waifusplit | WaifuSplit |  |  |
+| shirasu latte | しらすラテ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
