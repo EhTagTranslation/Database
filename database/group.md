@@ -12782,6 +12782,7 @@ example:
 | hachihachihachi | 蜂蜂蜂 |  |  |
 | sakuranbo nouen | さくらんぼ農園 |  |  |
 | nurupon | ぬるポン |  |  |
+| waifusplit | WaifuSplit |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
