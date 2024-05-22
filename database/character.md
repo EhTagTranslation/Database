@@ -5368,6 +5368,7 @@ example:
 | patricia reichardt | 薄荷·派蒂 |  | [维基百科](https://zh.wikipedia.org/wiki/派伯敏特·佩蒂) |
 | marcie | 玛西 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪西_%28花生漫畫%29) |
 | franky franklin | 弗兰克·富兰克林 |  | [萌娘百科](https://zh.moegirl.org.cn/弗兰克·富兰克林) |
+| cheryl | 芽米 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
