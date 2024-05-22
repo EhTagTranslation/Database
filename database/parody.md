@@ -2277,6 +2277,7 @@ example:
 | reverse 1999 | 重返未来：1999 | 《重返未来：1999》（英语：Reverse:1999）是由广州深蓝互动网络科技有限公司开发的策略RPG及收集养成游戏。 | [萌娘百科](https://zh.moegirl.org.cn/重返未来：1999) |
 | peanuts | 花生 | 《花生》（英语：Peanuts）是一部美国报纸连环漫画，作者为查尔斯·舒尔茨（Charles M. Schulz）。《花生》是漫画发展史上首部多个角色系列漫画，从1950年10月2日开始发行，到2000年2月13日作者病逝为止，共连载17,897幅。漫画中以`c:snoopy`、`c:charlie brown`、`c:sally brown`、`c:linus van pelt`、`c:lucy van pelt`、施洛德（Schroeder）、`c:patricia reichardt`、`c:marcie`、和富兰克林（Franklin）等几位小学生为主要角色，以小孩生活为题材，观察这个简单又复杂的世界。 | [维基百科](https://zh.wikipedia.org/wiki/花生漫畫) |
 | fortnite | 堡垒之夜 |  | [维基百科](https://zh.wikipedia.org/wiki/堡垒之夜) |
+| doom | 毁灭战士 | 毁灭战士系列（Doom），是由id Software开发的第一人称射击电子游戏系列，在电子游戏界中被普遍视作第一人称射击游戏的开拓者之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
