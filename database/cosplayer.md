@@ -119,6 +119,7 @@ example:
 | tsunnyanchan | Tsunnyanchan |  |  |
 | rynkerbelle | Rynkerbelle |  |  |
 | cattashaa | Cattashaa |  |  |
+| potato godzilla | Potato Godzilla |  |  |
 
 <!--
 Template: 
