@@ -5369,6 +5369,7 @@ example:
 | marcie | 玛西 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪西_%28花生漫畫%29) |
 | franky franklin | 弗兰克·富兰克林 |  | [萌娘百科](https://zh.moegirl.org.cn/弗兰克·富兰克林) |
 | cheryl | 芽米 |  |  |
+| yangyang | 秧秧 | 所属作品:`p:wuthering waves`<br>是由库洛游戏开发的游戏《鸣潮》中的角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
