@@ -1600,7 +1600,7 @@ example:
 | kakuzato-ichi | 核座头市 |  |  |
 | poppenheim | ぽっぺんはいむ |  |  |
 | chitei no nikuya | 地底の肉屋 |  |  |
-| manaita | まないた |  |  |
+| manaita | まないた |  | [pixiv](https://www.pixiv.net/users/13983329) |
 | mizore nabe | みぞれ鍋 |  |  |
 | onefes jikkou iinkai | オネフェス実行委員会 |  |  |
 | isuwie-ya | イスィ屋 |  |  |
