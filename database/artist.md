@@ -12843,6 +12843,7 @@ example:
 | lsc5 | LSC5 |  |  |
 | kanitama | カニタマ |  |  |
 | smallflyingrat | 小飛鼠 |  |  |
+| sanhualishuwu | 三花栗鼠屋 |  | [pixiv](https://www.pixiv.net/users/1194931) |
 
 <!--TEMPLATE:
 |  |  |  |  |
