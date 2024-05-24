@@ -12842,6 +12842,7 @@ example:
 | katou roca | カトウロカ |  |  |
 | lsc5 | LSC5 |  |  |
 | kanitama | カニタマ |  |  |
+| smallflyingrat | 小飛鼠 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
