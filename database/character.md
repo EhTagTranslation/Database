@@ -5372,6 +5372,7 @@ example:
 | yangyang | 秧秧 | 所属作品:`p:wuthering waves`<br>是由库洛游戏开发的游戏《鸣潮》中的角色。 |  |
 | pachirisu | 帕奇利兹 | 帕奇利兹像一只松鼠，它的耳朵是蓝色的，下面延伸出了条纹，脸颊两侧有黄色的电气袋，有一道蓝色条纹一直从脑袋顶上经过背部到尾巴，末尾突出了三根尖状物。雌性帕奇利兹头部的条纹更短。 | [https://wiki.52poke.com/wiki/帕奇利兹#:~:text=帕奇利兹（日文︰,电屬性寶可夢。](https://wiki.52poke.com/wiki/帕奇利兹#:~:text=帕奇利兹（日文︰,电屬性寶可夢。) |
 | guitar meimei | 吉他妹妹 |  |  |
+| kaede fuyou | 芙蓉枫 |  | [萌娘百科](https://zh.moegirl.org.cn/芙蓉枫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
