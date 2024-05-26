@@ -12845,6 +12845,7 @@ example:
 | smallflyingrat | 小飛鼠 |  |  |
 | sanhualishuwu | 三花栗鼠屋 |  | [pixiv](https://www.pixiv.net/users/1194931) |
 | haishima shioji | はいしま潮路 |  |  |
+| dokuro deluxe | ドクロ Deluxe |  | [pixiv](https://www.pixiv.net/users/34682567) |
 
 <!--TEMPLATE:
 |  |  |  |  |
