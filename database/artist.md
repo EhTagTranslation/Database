@@ -12844,6 +12844,7 @@ example:
 | kanitama | カニタマ |  |  |
 | smallflyingrat | 小飛鼠 |  |  |
 | sanhualishuwu | 三花栗鼠屋 |  | [pixiv](https://www.pixiv.net/users/1194931) |
+| haishima shioji | はいしま潮路 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
