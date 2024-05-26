@@ -2424,7 +2424,7 @@ example:
 | naruto uzumaki | 漩涡鸣人 |  |  |
 | minato namikaze | 波风水门 |  |  |
 | hinata hyuga | 日向雏田 |  |  |
-| kushina uzumaki | 漩涡奇奈 |  |  |
+| kushina uzumaki | 漩涡玖辛奈 |  |  |
 | kakashi hatake | 旗木卡卡西 |  |  |
 | shikamaru nara | 奈良鹿丸 |  |  |
 | hashirama senju | 千手柱间 |  |  |
