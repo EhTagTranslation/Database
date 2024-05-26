@@ -5374,6 +5374,7 @@ example:
 | guitar meimei | 吉他妹妹 |  |  |
 | kaede fuyou | 芙蓉枫 |  | [萌娘百科](https://zh.moegirl.org.cn/芙蓉枫) |
 | charlemagne | 查理曼 |  |  |
+| mandricardo | 曼迪卡尔多 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
