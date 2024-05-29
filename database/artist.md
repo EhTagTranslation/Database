@@ -12849,6 +12849,7 @@ example:
 | fetio | フェチ男 |  |  |
 | kaisenbatake no yuu | 海鮮畑の遊 |  |  |
 | yamamoto fcn | 山本fcn |  |  |
+| takotokite | たことかいと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
