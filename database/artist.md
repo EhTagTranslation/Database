@@ -12848,6 +12848,7 @@ example:
 | dokuro deluxe | ドクロ Deluxe |  | [pixiv](https://www.pixiv.net/users/34682567) |
 | fetio | フェチ男 |  |  |
 | kaisenbatake no yuu | 海鮮畑の遊 |  |  |
+| yamamoto fcn | 山本fcn |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
