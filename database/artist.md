@@ -12847,6 +12847,7 @@ example:
 | haishima shioji | はいしま潮路 |  |  |
 | dokuro deluxe | ドクロ Deluxe |  | [pixiv](https://www.pixiv.net/users/34682567) |
 | fetio | フェチ男 |  |  |
+| kaisenbatake no yuu | 海鮮畑の遊 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
