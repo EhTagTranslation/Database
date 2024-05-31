@@ -5387,6 +5387,7 @@ example:
 | jim possible | 帕吉姆 |  |  |
 | tim possible | 帕提姆 |  |  |
 | joss possible | 帕乔丝 |  |  |
+| rufus | 拉夫斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
