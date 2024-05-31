@@ -12850,6 +12850,7 @@ example:
 | kaisenbatake no yuu | 海鮮畑の遊 |  |  |
 | yamamoto fcn | 山本fcn |  |  |
 | takotokite | たことかいと |  |  |
+| shane ballard | Shane Ballard |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
