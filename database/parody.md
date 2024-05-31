@@ -2280,6 +2280,7 @@ example:
 | doom | 毁灭战士 | 毁灭战士系列（Doom），是由id Software开发的第一人称射击电子游戏系列，在电子游戏界中被普遍视作第一人称射击游戏的开拓者之一。 |  |
 | snowbreak containment zone | 尘白禁区 | 《尘白禁区》是由西山居狸花猫工作室开发和发行的轻科幻3D美少女射击游戏。<br>![](https://img.moegirl.org.cn/common/c/ce/尘白禁区_icon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尘白禁区) |
 | wuthering waves | 鸣潮 | 《鸣潮》是由库洛游戏开发的一款开放世界动作游戏。<br>![](https://ehgt.org/8a/83/8a83a628dd08ed1e7dade968bc10082d860ddbe1-166733-316-316-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣潮) |
+| baldurs gate | 博德之门 |  | [维基百科](https://zh.wikipedia.org/wiki/博德之门系列) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
