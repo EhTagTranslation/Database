@@ -12851,6 +12851,7 @@ example:
 | yamamoto fcn | 山本fcn |  |  |
 | takotokite | たことかいと |  |  |
 | shane ballard | Shane Ballard |  |  |
+| deathpulse | Deathpulse |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
