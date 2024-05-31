@@ -12852,6 +12852,7 @@ example:
 | takotokite | たことかいと |  |  |
 | shane ballard | Shane Ballard |  |  |
 | deathpulse | Deathpulse |  |  |
+| poland | Poland |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
