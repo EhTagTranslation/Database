@@ -534,7 +534,7 @@ example:
 | wander over yonder | 宇宙小奇兵 |  |  |
 | batman | 蝙蝠侠 |  |  |
 | resident evil | 生化危机 | 台湾译作“恶灵古堡”，由日本卡普空公司推出，以恐怖惊悚与第三人称射击为主要内容。 |  |
-| kim possible | 麻辣女孩 |  |  |
+| kim possible | 麻辣女孩 |  | [维基百科](https://zh.wikipedia.org/wiki/麻辣女孩) |
 | jinrui wa suitai shimashita | 人类衰退之后 |  |  |
 | miss machiko | 真知子老师 |  |  |
 | gaogaigar | 勇者王 |  |  |
