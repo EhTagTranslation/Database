@@ -12856,6 +12856,7 @@ example:
 | renderpretender | RenderPretender |  |  |
 | andava | Andava | Andava（Lilandy） |  |
 | lilith-fetish | Lilith-Fetish |  |  |
+| dire lilith | Dire Lilith |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
