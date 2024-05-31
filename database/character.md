@@ -5380,6 +5380,7 @@ example:
 | kim possible | 帕金姆 |  |  |
 | ron stoppable | 冲不停 |  |  |
 | shego | 席果 |  |  |
+| bonnie rockwaller | 邦妮罗克威 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
