@@ -12784,6 +12784,7 @@ example:
 | nurupon | ぬるポン |  |  |
 | waifusplit | WaifuSplit |  |  |
 | shirasu latte | しらすラテ |  |  |
+| metrobay comix | Metrobay Comix |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
