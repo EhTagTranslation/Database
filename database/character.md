@@ -5381,6 +5381,7 @@ example:
 | ron stoppable | 冲不停 |  |  |
 | shego | 席果 |  |  |
 | bonnie rockwaller | 邦妮罗克威 |  |  |
+| dr. drakken | 怪博士杜肯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
