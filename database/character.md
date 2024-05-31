@@ -5379,6 +5379,7 @@ example:
 | ace taffy | 永雏塔菲 | 永雏塔菲是一名个人势虚拟偶像。2021年6月至今，她主要在视频网站哔哩哔哩通过直播、动态与动画投稿的方式开展虚拟主播活动；同时也在视频网站YouTube、抖音以及社交网站微博、Twitter等多个网络平台进行虚拟偶像活动。 | [萌娘百科](https://zh.moegirl.org.cn/永雏塔菲) |
 | kim possible | 帕金姆 |  |  |
 | ron stoppable | 冲不停 |  |  |
+| shego | 席果 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
