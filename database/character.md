@@ -5382,6 +5382,7 @@ example:
 | shego | 席果 |  |  |
 | bonnie rockwaller | 邦妮罗克威 |  |  |
 | dr. drakken | 怪博士杜肯 |  |  |
+| ann possible | 帕医生 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
