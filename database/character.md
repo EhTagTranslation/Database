@@ -5390,6 +5390,8 @@ example:
 | rufus | 拉夫斯 |  |  |
 | catwoman | 猫女 |  | [维基百科](https://zh.wikipedia.org/wiki/猫女) |
 | tom | 汤姆 |  |  |
+| jerry | 杰瑞 |  |  |
+| ultrawoman | 女奥特曼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
