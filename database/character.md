@@ -5397,6 +5397,7 @@ example:
 | regensburg | 雷根斯堡 | 格劳登茨级小巡洋舰的末舰 | [https://moegirl.icu/碧蓝航线:雷根斯堡](https://moegirl.icu/碧蓝航线:雷根斯堡)<br>[维基百科](https://zh.wikipedia.org/wiki/雷根斯堡号小巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/雷根斯堡) |
 | trieste | 的里雅斯特 | 特伦托级二号舰，的里雅斯特号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/的里雅斯特https://en.wikipedia.org/wiki/Italian_cruiser_Trieste) |
 | gascogne | 加斯科涅 | 黎塞留级四号舰加斯科涅号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/加斯科涅)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:加斯科涅) |
+| downes | 唐斯 | 马汉级十二号舰唐斯号 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:加斯科涅)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:唐斯)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Downes_%28DD-375%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
