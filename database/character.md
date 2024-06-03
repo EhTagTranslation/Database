@@ -5398,6 +5398,7 @@ example:
 | trieste | 的里雅斯特 | 特伦托级二号舰，的里雅斯特号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/的里雅斯特https://en.wikipedia.org/wiki/Italian_cruiser_Trieste) |
 | gascogne | 加斯科涅 | 黎塞留级四号舰加斯科涅号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/加斯科涅)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:加斯科涅) |
 | downes | 唐斯 | 马汉级十二号舰唐斯号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/唐斯)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:唐斯)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Downes_%28DD-375%29) |
+| volga | 伏尔加 | 苏联海军Pr.72型航空母舰伏尔加 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/伏尔加#cite_note-2)<br>[https://wiki.lesta.ru/ru/Navy:Авианосец\_проекта\_72](https://wiki.lesta.ru/ru/Navy:Авианосец_проекта_72) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
