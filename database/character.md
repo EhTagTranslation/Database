@@ -5392,7 +5392,7 @@ example:
 | tom | 汤姆 |  |  |
 | jerry | 杰瑞 |  |  |
 | ultrawoman | 女奥特曼 |  |  |
-| king george v | 英王乔治五世 | 英国1939年建造的英王乔治五世级战列舰首舰 | [百度百科](https://baike.baidu.com/item/英王乔治五世号战列舰) |
+| king george v | 英王乔治五世 | 英国1939年下水的英王乔治五世级战列舰首舰 | [百度百科](https://baike.baidu.com/item/英王乔治五世号战列舰)<br>[https://moegirl.icu/碧蓝航线:英王乔治五世](https://moegirl.icu/碧蓝航线:英王乔治五世)<br>[https://moegirl.icu/战舰少女:英王乔治五世](https://moegirl.icu/战舰少女:英王乔治五世)<br>[https://moegirl.icu/钢铁少女:乔治五世](https://moegirl.icu/钢铁少女:乔治五世) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
