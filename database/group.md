@@ -12785,6 +12785,7 @@ example:
 | waifusplit | WaifuSplit |  |  |
 | shirasu latte | しらすラテ |  |  |
 | metrobay comix | Metrobay Comix |  |  |
+| mono stellar | Mono\*Stellar |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
