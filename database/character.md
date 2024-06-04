@@ -5401,6 +5401,7 @@ example:
 | volga | 伏尔加 | 苏联海军Pr.72型航空母舰伏尔加 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/伏尔加#cite_note-2)<br>[https://wiki.lesta.ru/ru/Navy:Авианосец\_проекта\_72](https://wiki.lesta.ru/ru/Navy:Авианосец_проекта_72) |
 | yorktown | 约克城 | 约克城级航空母舰首舰 | [百度百科](https://baike.baidu.com/item/约克城号航空母舰/1415902) [维基百科](https://zh.wikipedia.org/wiki/約克鎮號航空母艦_%28CV-5%29) [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:约克城) [BILIGAME WIKI](https://wiki.biligame.com/blhx/约克城) |
 | drake | 德雷克 | 《战舰世界》根据1939年重巡方案丘吉尔型所设计的德雷克号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/德雷克) [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:德雷) [https://www.secretprojects.co.uk/threads/royal-navy-big-cruiser-designs.36861/](https://www.secretprojects.co.uk/threads/royal-navy-big-cruiser-designs.36861/) |
+| sandy cheeks | 珊迪·奇克斯 | 《海绵宝宝》中的人物 | [https://en.m.wikipedia.org/wiki/Sandy\_Cheeks](https://en.wikipedia.org/wiki/Sandy_Cheeks) [百度百科](https://baike.baidu.com/item/珊迪·奇克斯/6837270) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
