@@ -12863,6 +12863,7 @@ example:
 | shintaro | しんたろ |  |  |
 | haiba nemumi | 灰刃ねむみ |  |  |
 | mohu2factory | モフ2製作所 |  |  |
+| tadano comina | 但野こみな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
