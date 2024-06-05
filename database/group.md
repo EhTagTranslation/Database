@@ -12786,6 +12786,7 @@ example:
 | shirasu latte | しらすラテ |  |  |
 | metrobay comix | Metrobay Comix |  |  |
 | mono stellar | Mono\*Stellar |  |  |
+| cominaya | こみな屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
