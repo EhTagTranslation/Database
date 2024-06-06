@@ -12787,6 +12787,7 @@ example:
 | metrobay comix | Metrobay Comix |  |  |
 | mono stellar | Mono\*Stellar |  |  |
 | cominaya | こみな屋 |  |  |
+| agenasu | 揚げナス(仮) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
