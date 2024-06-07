@@ -5402,6 +5402,7 @@ example:
 | yorktown | 约克城 | 约克城级航空母舰首舰 | [百度百科](https://baike.baidu.com/item/约克城号航空母舰/1415902) [维基百科](https://zh.wikipedia.org/wiki/約克鎮號航空母艦_%28CV-5%29) [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:约克城) [BILIGAME WIKI](https://wiki.biligame.com/blhx/约克城) |
 | drake | 德雷克 | 《战舰世界》根据1939年重巡方案丘吉尔型所设计的德雷克号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/德雷克) [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:德雷) [https://www.secretprojects.co.uk/threads/royal-navy-big-cruiser-designs.36861/](https://www.secretprojects.co.uk/threads/royal-navy-big-cruiser-designs.36861/) |
 | sandy cheeks | 珊迪·奇克斯 | 《海绵宝宝》中的人物 | [https://en.m.wikipedia.org/wiki/Sandy\_Cheeks](https://en.wikipedia.org/wiki/Sandy_Cheeks) [百度百科](https://baike.baidu.com/item/珊迪·奇克斯/6837270) |
+| ishmael | 以实玛利 | 以实玛利（Ishmael）是《边狱公司》及其衍生作品的登场角色。原型来源小说《白鲸记》 | [萌娘百科](https://zh.moegirl.org.cn/以实玛利)<br>[边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/以实玛利) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
