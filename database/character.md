@@ -5406,6 +5406,7 @@ example:
 | gloucester | 格罗斯特 | 格罗斯特级格洛斯特号 | [维基百科（英语）](https://en.wikipedia.org/wiki/HMS_Gloucester_%2862%29) [BILIGAME WIKI](https://wiki.biligame.com/blhx/格罗斯特) |
 | bishamonten | 毘沙门天 |  | [萌娘百科](https://zh.moegirl.org.cn/毘沙门天) |
 | jessica rabbit | 兔子杰茜卡 | `p:who framed roger rabbit` |  |
+| roger rabbit | 兔子罗杰 | `p:who framed roger rabbit` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
