@@ -5410,6 +5410,7 @@ example:
 | betty boop | 贝蒂娃娃 |  | [维基百科](https://zh.wikipedia.org/wiki/贝蒂娃娃) |
 | ankha | 尼罗 | 埃及猫 |  |
 | isabelle | 西施惠 |  | [维基百科](https://zh.wikipedia.org/wiki/西施惠) |
+| cream the rabbit | 可利姆·芮比 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
