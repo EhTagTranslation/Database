@@ -3287,7 +3287,7 @@ example:
 | biroon jr. | びろーんJr. |  |  |
 | biroudo kairou | びろうど廻廊 |  |  |
 | biruban | びるばん |  |  |
-| bishamon | びしゃもん。 |  |  |
+| bishamon. | びしゃもん。 |  |  |
 | bishoujo labo | 美少女ラボ |  |  |
 | bishoujo netto | 美少女ネット |  |  |
 | bishoujo suishin iinkai | 美少女推進委員会 |  |  |
