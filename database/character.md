@@ -5412,6 +5412,7 @@ example:
 | isabelle | 西施惠 |  | [维基百科](https://zh.wikipedia.org/wiki/西施惠) |
 | cream the rabbit | 可利姆·芮比 |  |  |
 | vanilla the rabbit | 瓦妮拉·芮比 |  |  |
+| blaze the cat | 布蕾姿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
