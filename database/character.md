@@ -5234,7 +5234,7 @@ example:
 | minori yasumori | 安守实梨 |  |  |
 | kikyou kushida | 栉田桔梗 |  |  |
 | rouge the bat | 露姬 |  | [百度百科](https://baike.baidu.com/item/露姬/1330479) |
-| amy rose | 艾米·罗斯 |  |  |
+| amy rose | 艾咪·罗斯 |  | [索尼克百科](https://sonicpedia.org/wiki/艾咪・罗斯) |
 | miles tails prower | 塔尔斯 |  | [维基百科](https://zh.wikipedia.org/wiki/塔尔斯) |
 | hikari tachibana | 橘光明 | 所属作品：`blue archive`<br>对策委员会第3章中登场的海兰德铁道学园的学生，隶属于名为“中央控制中心”的海兰德学生会。<br>海兰德与奈芙蒂斯集团有业务合作，这次阿拜多斯的事情似乎由她们负责。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_456/h_1017/829/399789/2024/3/11/453194.png) |  |
 | nozomi tachibana | 橘希望 | 所属作品：`blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_526/h_1020/829/399789/2024/3/11/258411.png) |  |
