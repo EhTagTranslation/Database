@@ -5409,6 +5409,7 @@ example:
 | roger rabbit | 兔子罗杰 | `p:who framed roger rabbit` |  |
 | betty boop | 贝蒂娃娃 |  | [维基百科](https://zh.wikipedia.org/wiki/贝蒂娃娃) |
 | ankha | 尼罗 | 埃及猫 |  |
+| isabelle | 西施惠 |  | [维基百科](https://zh.wikipedia.org/wiki/西施惠) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
