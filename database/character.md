@@ -5407,6 +5407,7 @@ example:
 | bishamonten | 毘沙门天 |  | [萌娘百科](https://zh.moegirl.org.cn/毘沙门天) |
 | jessica rabbit | 兔子杰茜卡 | `p:who framed roger rabbit` |  |
 | roger rabbit | 兔子罗杰 | `p:who framed roger rabbit` |  |
+| betty boop | 贝蒂娃娃 |  | [维基百科](https://zh.wikipedia.org/wiki/贝蒂娃娃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
