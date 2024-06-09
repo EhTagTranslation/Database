@@ -5404,7 +5404,7 @@ example:
 | sandy cheeks | 珊迪·奇克斯 | 《海绵宝宝》中的人物 | [https://en.m.wikipedia.org/wiki/Sandy\_Cheeks](https://en.wikipedia.org/wiki/Sandy_Cheeks) [百度百科](https://baike.baidu.com/item/珊迪·奇克斯/6837270) |
 | ishmael | 以实玛利 | 以实玛利（Ishmael）是《边狱公司》及其衍生作品的登场角色。原型来源小说《白鲸记》 | [萌娘百科](https://zh.moegirl.org.cn/以实玛利)<br>[边狱公司中文维基](https://limbuscompany.huijiwiki.com/wiki/以实玛利) |
 | gloucester | 格罗斯特 | 格罗斯特级格洛斯特号 | [维基百科（英语）](https://en.wikipedia.org/wiki/HMS_Gloucester_%2862%29) [BILIGAME WIKI](https://wiki.biligame.com/blhx/格罗斯特) |
-| bishamonten | 毘沙门天 |  |  |
+| bishamonten | 毘沙门天 |  | [萌娘百科](https://zh.moegirl.org.cn/毘沙门天) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
