@@ -5408,6 +5408,7 @@ example:
 | jessica rabbit | 兔子杰茜卡 | `p:who framed roger rabbit` |  |
 | roger rabbit | 兔子罗杰 | `p:who framed roger rabbit` |  |
 | betty boop | 贝蒂娃娃 |  | [维基百科](https://zh.wikipedia.org/wiki/贝蒂娃娃) |
+| ankha | 尼罗 | 埃及猫 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
