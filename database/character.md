@@ -5413,7 +5413,7 @@ example:
 | cream the rabbit | 可利姆 |  | [索尼克百科](https://sonicpedia.org/wiki/可利姆) |
 | vanilla the rabbit | 瓦妮菈 |  | [索尼克百科](https://sonicpedia.org/wiki/瓦妮菈) |
 | blaze the cat | 布蕾姿 |  | [索尼克百科](https://sonicpedia.org/wiki/布蕾姿) |
-| duca degli abruzzi | 阿布鲁齐公爵号轻巡洋舰 | 雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号 | [维基百科](https://zh.wikipedia.org/wiki/阿布魯齊公爵號輕巡洋艦https://wiki.biligame.com/blhx/阿布鲁齐公爵) |
+| duca degli abruzzi | 阿布鲁齐公爵号轻巡洋舰 | 雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号 | [维基百科]([维基百科](https://zh.wikipedia.org/wiki/阿布魯齊公爵號輕巡洋) [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿布鲁齐公爵)) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
