@@ -5417,7 +5417,7 @@ example:
 | lunacub | 子月 |  | [https://prts.wiki/w/子月](https://prts.wiki/w/子月) |
 | dagda | 达哥达 |  | [https://prts.wiki/w/达格达](https://prts.wiki/w/达格达) |
 | harmonie | 和弦 |  | [https://prts.wiki/w/和弦](https://prts.wiki/w/和弦) |
-| beanstalk | 豆苗 |  | [https://prts.wiki/w/豆苗](https://prts.wiki/w/豆苗) |
+| beanstalk | 豆苗 | 明日方舟的豆苗<br>![](https://media.prts.wiki/9/98/半身像_豆苗_1.png) | [PRTS](https://prts.wiki/w/豆苗) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
