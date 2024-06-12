@@ -5416,6 +5416,7 @@ example:
 | duca degli abruzzi | 阿布鲁齐公爵号轻巡洋舰 | 雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号 | [维基百科]([维基百科](https://zh.wikipedia.org/wiki/阿布魯齊公爵號輕巡洋) [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿布鲁齐公爵)) |
 | lunacub | 子月 |  | [https://prts.wiki/w/子月](https://prts.wiki/w/子月) |
 | dagda | 达哥达 |  | [https://prts.wiki/w/达格达](https://prts.wiki/w/达格达) |
+| harmonie | 和弦 |  | [https://prts.wiki/w/和弦](https://prts.wiki/w/和弦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
