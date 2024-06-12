@@ -5415,7 +5415,7 @@ example:
 | blaze the cat | 布蕾姿 |  | [索尼克百科](https://sonicpedia.org/wiki/布蕾姿) |
 | duca degli abruzzi | 阿布鲁齐公爵号轻巡洋舰 | 雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号 | [维基百科]([维基百科](https://zh.wikipedia.org/wiki/阿布魯齊公爵號輕巡洋) [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿布鲁齐公爵)) |
 | lunacub | 子月 |  | [https://prts.wiki/w/子月](https://prts.wiki/w/子月) |
-| dagda | 达哥达 | 明日方舟的达哥达<br>![](https://media.prts.wiki/5/5c/半身像_达格达_1.png) | [PRTS](https://prts.wiki/w/达格达) |
+| dagda | 达哥达 | 达哥达是游戏《明日方舟》及其衍生作品的登场角色<br>![](https://media.prts.wiki/5/5c/半身像_达格达_1.png) | [PRTS](https://prts.wiki/w/达格达) |
 | harmonie | 和弦 |  | [https://prts.wiki/w/和弦](https://prts.wiki/w/和弦) |
 | beanstalk | 豆苗 | 明日方舟的豆苗<br>![](https://media.prts.wiki/9/98/半身像_豆苗_1.png) | [PRTS](https://prts.wiki/w/豆苗) |
 
