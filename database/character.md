@@ -5041,7 +5041,7 @@ example:
 | latias | 拉帝亚斯 | 《宝可梦》及其衍生作品中的宝可梦。<br>雌性。龙属性和超能力属性的传说的宝可梦，也是无限宝可梦之一，首次登场于游戏《宝可梦 红宝石·蓝宝石》，其超级进化首次登场于游戏《宝可梦 欧米伽红宝石·阿尔法蓝宝石》。 |  |
 | endministrator | 管理员 |  | cn official website NO.1<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NpCiOn6Ny)<br><br>en official website NO.1<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[X](https://x.com/AKEndfield/status/1717391117707325628) |
 | perlica | 佩丽卡 |  | cn official website NO.3<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NqeZGFwWZ)<br><br>en officoal website NO.3<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[X](https://x.com/AKEndfield/status/1719187436734218278) |
-| absinthe | 苦艾 |  |  |
+| absinthe | 苦艾 |  | [PRTS](https://prts.wiki/w/苦艾) |
 | misha necron | 米夏·涅库罗 |  |  |
 | sentouki - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |
 | kooh | 酷儿 |  | [https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒](https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒) |
