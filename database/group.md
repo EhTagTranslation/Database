@@ -12788,6 +12788,7 @@ example:
 | mono stellar | Mono\*Stellar |  |  |
 | cominaya | こみな屋 |  |  |
 | agenasu | 揚げナス(仮) |  |  |
+| miracleburn | みらくるバーン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
