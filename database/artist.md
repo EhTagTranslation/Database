@@ -12873,6 +12873,7 @@ example:
 | tslove | tslove |  | [pixiv](https://www.pixiv.net/users/3130418) |
 | the kite | TheKite |  | [X](https://x.com/The__Kite) |
 | ujihara shitone | 蛆孕茵 |  |  |
+| nodo | nodo | 泰国画师 | [X](https://x.com/puzenketsu?lang=zh) |
 
 <!--TEMPLATE:
 |  |  |  |  |
