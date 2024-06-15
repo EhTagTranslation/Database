@@ -9135,7 +9135,7 @@ example:
 | oshimugi | 押麦 |  |  |
 | oshousui | 和尚吹 |  |  |
 | osora | 緒空 |  |  |
-| osterei | OSTEREi |  |  |
+| osterei | OSTEREi | OSTEREi（おー） | [pixiv](https://www.pixiv.net/users/13219808) |
 | osuzu akiomi | 尾铃明臣 | ![X](https://pbs.twimg.com/profile_images/1329031172/twitterProfilePhoto06_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/Osuzu_) [pixiv](https://www.pixiv.net/users/174652) |
 | osyakana | おしゃかな |  |  |
 | otakehiko | 雄竹彦 |  |  |
