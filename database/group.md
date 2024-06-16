@@ -12789,6 +12789,7 @@ example:
 | cominaya | こみな屋 |  |  |
 | agenasu | 揚げナス(仮) |  |  |
 | miracleburn | みらくるバーン |  |  |
+| ice coffee | 冷珈琲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
