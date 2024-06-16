@@ -8575,7 +8575,7 @@ example:
 | nashinori tunnel | 梨憲タヌル |  |  |
 | nashiru | なしる |  |  |
 | nassukun | ナッス君 |  |  |
-| nasu | 茄子 |  |  |
+| nasu | なす |  | [X](https://x.com/777nasu) [pixiv](https://www.pixiv.net/users/5932201) |
 | nasu hanahana | 那須花花 |  |  |
 | nasukichi | 茄子吉 |  |  |
 | nasuo | なすお |  |  |
