@@ -12790,6 +12790,7 @@ example:
 | agenasu | 揚げナス(仮) |  |  |
 | miracleburn | みらくるバーン |  |  |
 | ice coffee | 冷珈琲 |  |  |
+| nasu homu | なすほーむ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
