@@ -2804,7 +2804,7 @@ example:
 | kawashima yoshio | 川島よしお |  |  |
 | kanari tokusaku | 鹿成トクサク |  |  |
 | onigiri unicorn | 鬼斬ゆにこーん |  |  |
-| namae renraku | なまえ れんらく |  |  |
+| namae renraku | なまえ れんらく | ![X](https://pbs.twimg.com/profile_images/1688526554371100672/fYH7bW8w_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/catcar0983) [pixiv](https://www.pixiv.net/users/2447851) |
 | kouda tomohiro | 幸田朋弘 |  |  |
 | senbei | 煎饼 |  |  |
 | corundum | こらんだむ |  | [X](https://x.com/corundum_box) [pixiv](https://www.pixiv.net/users/17778544) |
