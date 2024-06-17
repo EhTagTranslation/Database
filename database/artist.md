@@ -9286,7 +9286,7 @@ example:
 | piston | ぴすとん |  |  |
 | piyo | PiYo |  |  |
 | piyopiyo | ぴよぴよ |  |  |
-| pizanuko | ぴざぬこ |  |  |
+| pizanuko | ぴざぬこ | ![X](https://pbs.twimg.com/profile_images/1213752868903145473/tE41EdRN_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/pizaru) [pixiv](https://www.pixiv.net/users/49100) |
 | pizi2 gou | pizi2号 |  |  |
 | pj-1 | PJ-1 |  |  |
 | plasma beach | プラズマビーチ |  |  |
