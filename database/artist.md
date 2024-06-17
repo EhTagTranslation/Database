@@ -7026,7 +7026,7 @@ example:
 | koharuko | こはるこ |  |  |
 | kohinata ryou | 小日向 諒 |  |  |
 | kohitsuji | こひつじ |  |  |
-| kohri ms | こおりみず |  |  |
+| kohri ms | こおりみず | ![X](https://pbs.twimg.com/profile_images/833923445805027329/TEPeQYxt_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kohri_Ms) [pixiv](https://www.pixiv.net/users/23011197) |
 | koike sadaji | 小池定路 |  |  |
 | koishikawa | 小石川 |  |  |
 | koishikawa hibiki | 小石川響 |  |  |
