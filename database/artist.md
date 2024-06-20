@@ -12876,6 +12876,7 @@ example:
 | nodo | nodo | 泰国画师 | [X](https://x.com/puzenketsu?lang=zh) |
 | comiching | こみちん |  |  |
 | rosuuri | Rosuuri |  | [X](https://x.com/rosuuri) [pixiv](https://www.pixiv.net/users/2993192) [homepage](https://www.rosuuri.com/info) |
+| otogiri fua | おとぎりふあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
