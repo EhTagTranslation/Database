@@ -12791,6 +12791,7 @@ example:
 | miracleburn | みらくるバーン |  |  |
 | ice coffee | 冷珈琲 |  |  |
 | nasu homu | なすほーむ |  |  |
+| hitaki nikomiya | ひたき煮込み屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
