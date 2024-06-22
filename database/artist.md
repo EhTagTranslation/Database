@@ -12879,6 +12879,7 @@ example:
 | otogiri fua | おとぎりふあ |  |  |
 | pirates cat | パイレーツキャット |  |  |
 | boshi | ぼし |  |  |
+| hitaki ni | ひたき煮 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
