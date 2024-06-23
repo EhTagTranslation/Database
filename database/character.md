@@ -5422,6 +5422,7 @@ example:
 | ranmaru mori | 森兰丸（谜之兰丸X） |  |  |
 | taisui xingjun | 太岁星君 |  |  |
 | nemo marine | 尼莫水兵 |  |  |
+| jun gotou | 五岛润 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
