@@ -1374,7 +1374,7 @@ example:
 | eo masaka | EOまさか |  |  |
 | hanabi | HANABi |  |  |
 | kakizaki kousei | 垣崎コウセイ |  |  |
-| miyamoto issa | 宫元一佐 |  |  |
+| miyamoto issa | 宮元一佐 |  |  |
 | murasaki nyaa | 紫☆にゃ～ |  |  |
 | okyuuri | おきゅうり |  |  |
 | parabola | ぱらボら |  |  |
