@@ -5423,7 +5423,7 @@ example:
 | taisui xingjun | 太岁星君 |  |  |
 | nemo marine | 尼莫水兵 |  |  |
 | jun gotou | 五岛润 |  |  |
-| typhon | 提丰 | 提丰是游戏《明日方舟》及其衍生作品的登场角色 | [PRTS](https://prts.wiki/w/提丰) |
+| typhon | 提丰 | 提丰是游戏《明日方舟》及其衍生作品的登场角色<br>![](https://media.prts.wiki/5/51/半身像_提丰_1.png) | [PRTS](https://prts.wiki/w/提丰) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
