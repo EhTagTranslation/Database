@@ -4746,7 +4746,7 @@ example:
 | cohen | cohen |  |  |
 | coin rand | コインRAND |  |  |
 | colin | COLIN |  |  |
-| collagen | コラーゲン |  |  |
+| collagen | コラーゲン/藩滑るめる |  |  |
 | colonel aki | Colonel AKI |  |  |
 | color | COLOR |  |  |
 | colulun | こるるん |  |  |
