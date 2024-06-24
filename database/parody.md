@@ -2282,6 +2282,7 @@ example:
 | wuthering waves | 鸣潮 | 《鸣潮》是由库洛游戏开发的一款开放世界动作游戏。<br>![](https://ehgt.org/8a/83/8a83a628dd08ed1e7dade968bc10082d860ddbe1-166733-316-316-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣潮) |
 | baldurs gate | 博德之门 |  | [维基百科](https://zh.wikipedia.org/wiki/博德之门系列) |
 | tenshi no 3p | 天使的3P |  |  |
+| apex legends | Apex英雄 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
