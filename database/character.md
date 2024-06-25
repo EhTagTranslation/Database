@@ -2949,7 +2949,7 @@ example:
 | ai hayasaka | 早坂爱 |  |  |
 | kaguya shinomiya | 四宫辉夜 |  |  |
 | miyuki shirogane | 白银御行 |  |  |
-| chika fujiwara | 藤原千花 |  |  |
+| chika fujiwara | 藤原千花 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5e/Chika_Fujiwara_Anime.jpg)<br>藤原千花（日語：藤原 千花／ふじわら ちか Fujiwara Chika）是漫畫系列《輝夜姬想讓人告白～天才們的戀愛頭腦戰～》（下簡稱《輝夜姬》）的虛構角色，由赤坂明所創。 |  |
 | soushi miketsukami | 御狐神双炽 |  |  |
 | maya tendo | 天堂真矢 | 圣翔音乐学园99期生，演员育成科，学号18号。知名舞台演员与当红歌星的女儿，演剧界的名门出身。拥有完美的身材与高昂的声音。虽然天赋异禀，却并不会不思进取，是个以更高的高度为目标而不断努力的孤高舞台少女。<br>![Maya Tendo profile](https://img.moegirl.org.cn/common/1/10/Maya_Tendo_profile.png) | [萌娘百科](https://zh.moegirl.org.cn/天堂真矢) |
 | seto miyako | 濑户美夜子 |  |  |
