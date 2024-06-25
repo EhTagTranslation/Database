@@ -2616,7 +2616,7 @@ example:
 | lemon giboshi | 拟宝珠柠檬 |  |  |
 | iroha | 伊吕波 | 格斗游戏《侍魂》中的一位女性角色 |  |
 | arle nadja | 阿露露 | 《噗哟噗哟》登场角色 |  |
-| tifa lockhart | 蒂法·洛克哈特 |  |  |
+| tifa lockhart | 蒂法·洛克哈特 | ![](https://moegirl.uk/images/2/2f/蒂法·洛克哈特（最终幻想VII重制版宣传图）.png)<br>本名:	ティファ·ロックハート/Tifa Lockhart<br>別號:	耶路撒冷<br>髮色:	黑褐髮<br>瞳色:	紅瞳<br>身高:	167cm<br>三圍:	92-60-88 |  |
 | aerith gainsborough | 艾瑞丝·盖恩斯巴勒 |  |  |
 | yuffie kisaragi | 尤菲·如月 |  |  |
 | fumie hashimoto | 桥本文惠 |  |  |
