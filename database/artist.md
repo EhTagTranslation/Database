@@ -4982,7 +4982,7 @@ example:
 | edo shigezu | 江戸しげズ |  |  |
 | edoya pochi | 江戸屋ぽち |  |  |
 | efink | EFINK |  |  |
-| egami | エガミ |  |  |
+| egami | えがみ | 現在リクエスト停止中です。<br>成人向けの絵も描きます。よろしくお願いします。<br><br>I'm drawing R-18 pictures of animation and game characters.<br>I'm not accepting commissions for illustrations.<br><br>お仕事のご依頼は現在募集しておりません。 | [FANBOX](https://egami.fanbox.cc/)<br>[Fantia](https://fantia.jp/fanclubs/478546)<br>[Twitter](https://x.com/Egami_Mal)<br>[Mastodon](https://baraag.net/@egami_mal)<br>[nijie(ニジエ)](https://nijie.info/members.php?id=1808906) |
 | eguchi | 江口 |  |  |
 | eguchi chibi | 江口ちび |  |  |
 | ehime mikan | 江姫蜜柑 |  |  |
