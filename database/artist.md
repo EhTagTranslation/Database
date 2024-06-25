@@ -12547,7 +12547,7 @@ example:
 | osanai shiina | 小山内しいな |  |  |
 | umino ryo | 海野りょう |  |  |
 | daruma jd | だるまJD |  |  |
-| gsus | GSUS |  | [pixiv](https://www.pixiv.net/users/80553046) |
+| gsus | GSUS | 台灣绘师<br>![](https://i.pixiv.cat/user-profile/img/2022/06/10/03/28/03/22854418_9298d6cb4f13db646f9defedc0fa3595_170.jpg) | [pixiv](https://www.pixiv.net/users/80553046) [FANBOX](https://www.fanbox.cc/@gsus) [Patreon](https://www.patreon.com/Gsusart2222) [X](https://x.com/Gsusart2222) |
 | gucchian | ぐっち庵 |  |  |
 | uekura ryona | 上倉RyoNA |  | [pixiv](https://www.pixiv.net/users/19738723) [X](https://x.com/uekura) |
 | kusothumu | くそつむ |  |  |
