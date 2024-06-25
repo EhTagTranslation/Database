@@ -12880,6 +12880,7 @@ example:
 | pirates cat | パイレーツキャット |  |  |
 | boshi | ぼし |  |  |
 | hitaki ni | ひたき煮 |  |  |
+| kaji makoto | カジマコト |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
