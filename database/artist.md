@@ -3391,7 +3391,7 @@ example:
 | imigimuru | いみぎむる |  | [X](https://x.com/imigimuru) [pixiv](https://www.pixiv.net/users/39265042) |
 | kise itsuki | 木濑树 | ![X](https://pbs.twimg.com/profile_images/1526185415077957632/z7PU4wW3_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kiseitsuki7126) [pixiv](https://www.pixiv.net/users/28988148) |
 | shono kotaro | 宵野小太郎 | 宵野小太郎（日语：宵野 コタロー，12月24日－），日本漫画家。女性。已婚。代表作是目前在《少年Jump+》（集英社）连载的《终末的后宫》。 | [X](https://x.com/kotaro_shono) [pixiv](https://www.pixiv.net/users/375178) [维基百科](https://zh.wikipedia.org/wiki/宵野小太郎) |
-| rurudo | rurudo |  | [X](https://x.com/rurudo_) [pixiv](https://www.pixiv.net/users/25760573) |
+| rurudo | rurudo | ![](https://i.pixiv.cat/user-profile/img/2019/08/17/14/45/17/16155114_04f98b7c691a20eea9cc18711523df64_170.png)<br>喜歡的食物:<br>鮭魚乾、所有搭配酒的小菜<br>討厭的食物:<br>所有甜食(奶油泡芙除外)、麻婆豆腐、茶碗蒸、茄子 | [X](https://x.com/rurudo_) [pixiv](https://www.pixiv.net/users/25760573) [Web](https://rurudot.net/) |
 | ashima takumi | 芦間拓海 |  | [X](https://x.com/ashima801) |
 | nishigori atsushi | 锦织敦史 |  |  |
 | nanashimushi | ななし虫 |  |  |
