@@ -3802,7 +3802,7 @@ example:
 | ai ohto | 大户爱 | 大户爱（日语：大戸（おおと） アイ）是由野岛伸司原案及剧本、若林信担任监督，并由CloverWorks制作的原创动画《奇蛋物语／WONDER EGG PRIORITY》及其衍生作品中的登场角色。<br><br>14岁。患有虹彩异色症的少女。<br><br>现在因为某种原因没能去学校。时常穿着有向日葵图样的黄色连帽衫。<br><br>决胜词是「我已经……怒不可遏了！」<br><br>家中的门牌号是4-303。 | [萌娘百科](https://zh.moegirl.org.cn/大户爱) |
 | kurumi ebisuzawa | 惠飞须泽胡桃 | 惠飞须泽胡桃（胡一铲）是漫画《学园孤岛》及其衍生作品的登场角色。<br>![图](https://ehgt.org/df/1f/df1fc57e74762508484fba428111a6f11120fbc2-404983-322-1173-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/惠飞须泽胡桃) |
 | rita rossweisse | 丽塔·洛丝薇瑟 | 丽塔·洛丝薇瑟（日语：リタ・ロスヴァイセ）是miHoYo旗下游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丽塔·洛丝薇瑟) [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Rita_Rossweisse) |
-| yor forger | 约尔·福杰 | 約兒·佛傑是由遠藤達哉創作的漫畫《SPY×FAMILY 間諜家家酒》及其衍生作品的登場角色。<br>[](https://img.moegirl.org.cn/common/thumb/2/27/Yor_Forger.jpg/420px-Yor_Forger.jpg) | [萌娘百科](https://zh.moegirl.org.cn/约尔·福杰) |
+| yor forger | 约尔·福杰 | 約兒·佛傑是由遠藤達哉創作的漫畫《SPY×FAMILY 間諜家家酒》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/2/27/Yor_Forger.jpg) | [萌娘百科](https://zh.moegirl.org.cn/约尔·福杰) |
 | misaki tobisawa | 鸢泽美咲 | 鸢泽美咲是游戏《苍之彼方的四重奏》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/鸢泽美咲) [Fandom](https://aokana.fandom.com/wiki/Misaki_Tobisawa) |
 | morgan le fay | 摩根·勒·菲 | 游戏《Fate/Grand Order》的登场人物，作为自止境的奥克尼而来横扫不列颠并君临天下，支配妖精国不列颠长达2017年的女王登场。<br>![摩根](https://media.fgo.wiki/4/4f/モルガン满破.png) | [萌娘百科](https://zh.moegirl.org.cn/摩根%28Fate/Grand_Order%29#) |
 | nishizono chigusa | 西园千草 | 西园千草是一名从2020年08月10日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/西园千草) |
