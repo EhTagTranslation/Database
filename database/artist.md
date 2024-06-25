@@ -12053,7 +12053,7 @@ example:
 | ryokuchamichi | 緑茶みち |  |  |
 | mamimi | Mamimi | ![图](https://ehgt.org/e8/8a/e88a97e5ba587e5997fc65f76f925b9416fa3f97-52276-159-170-png_l.jpg) | [pixiv](https://www.pixiv.net/users/17151277) [X](https://x.com/mamimi_2nd) |
 | mujin bensin | 無人 | ![图](https://ehgt.org/5f/b6/5fb6c7411f63b0647f2832264b6a3c207ae1e6b2-25435-170-170-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/1436637) [X](https://x.com/Mujinbensin) [Twitter R18](https://x.com/KanaNote_Art) |
-| jima | じま | JIMA | [X](https://x.com/opopowa1) [FANBOX](https://b0o367po.fanbox.cc/) |
+| jima | じま | JIMA<br>![](https://pbs.twimg.com/profile_images/1267072725572415490/5jPoi_lZ_400x400.jpg) | [X](https://x.com/opopowa1) [FANBOX](https://b0o367po.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/84283) |
 | miyama tsubakime | 美山椿芽 |  | [pixiv](https://www.pixiv.net/users/19737878) [X](https://x.com/MACY89066820) |
 | haku89 | haku89 | ![图](https://ehgt.org/a0/87/a0874929279a13314051f76a9086d4b3b510334c-29874-168-170-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/9153585) [X](https://x.com/real_haku89) |
 | shengtian | 升天 |  | [pixiv](https://www.pixiv.net/users/43383935) |
