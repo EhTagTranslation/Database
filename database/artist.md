@@ -2529,7 +2529,7 @@ example:
 | habara meguru | 羽原メグル |  |  |
 | hanabusa satoshi | はなぶささとし |  |  |
 | hado | はあど | ![PixivIcon](https://i.pixiv.cat/user-profile/img/2016/07/08/21/34/39/11171724_f5ab61ef128e088fa086d2f4f6fb84f7_170.png) | [pixiv](https://www.pixiv.net/users/18934609) |
-| takemasa takeshi | 武将武 |  |  |
+| takemasa takeshi | 武将武 | ![X](https://pbs.twimg.com/profile_images/1256841879255048192/z8BOUiX-_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/takemasatakeshi) [pixiv](https://www.pixiv.net/users/25111) |
 | akabeko | あかべこ |  | [pixiv](https://www.pixiv.net/users/115348) |
 | hisui | 翡翠石 |  |  |
 | sakura yuki | 咲良ゆき | 咲良ゆき / 사쿠라 유키<br>![](https://p.sda1.dev/9/fd4379512a66728f12d9ce9f34e4d0aa/image.png) | [pixiv](https://www.pixiv.net/users/1661253) [X](https://x.com/sakula_yuki) [HP](https://www.sakulayuki.net/) |
