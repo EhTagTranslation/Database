@@ -5425,6 +5425,7 @@ example:
 | jun gotou | 五岛润 |  |  |
 | typhon | 提丰 | 提丰是游戏《明日方舟》及其衍生作品的登场角色<br>![](https://media.prts.wiki/5/51/半身像_提丰_1.png) | [PRTS](https://prts.wiki/w/提丰) |
 | yurine hanazono | 花园百合铃 | 花園百合鈴（花園ゆりね）是由ユキヲ所創作的漫畫《邪神與廚二病少女》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/5/54/花园百合铃_动画.jpeg) |  |
+| yinlin | 吟霖 | 吟霖是库洛制作的游戏`p:wuthering waves`的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
