@@ -5427,6 +5427,7 @@ example:
 | yurine hanazono | 花园百合铃 | 花園百合鈴（花園ゆりね）是由ユキヲ所創作的漫畫《邪神與廚二病少女》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/5/54/花园百合铃_动画.jpeg) |  |
 | yinlin | 吟霖 | 吟霖是库洛制作的游戏`p:wuthering waves`的登场角色。 |  |
 | jinshi | 壬氏 | 壬氏是是由日向夏创作、しのとうこ插画的轻小说`p:kusuriya no hitorigoto`及其衍生的动画等作品的登场角色。 |  |
+| jinhsi | 今汐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
