@@ -12884,6 +12884,7 @@ example:
 | matrix16 | Matrix16 | 大家好,<br>希望各位喜歡我的作品<br>如果想約稿的話請透過PIXIV，電子信箱或推特...等等<br>![頭像](https://pbs.twimg.com/profile_images/1514839662355181571/eEQ9UwIX_400x400.jpg) | [pixiv](https://www.pixiv.net/users/9374007) [X](https://x.com/matriks_16) [FANBOX](https://matrix16.fanbox.cc/) [Gumroad](https://matrix16.gumroad.com/) |
 | cyi | CYI | ![](https://pbs.twimg.com/profile_images/1761008573071634432/npUYlotD_400x400.jpg)<br>女畫家 | [Patreon](https://www.patreon.com/CYI)<br>[pixiv](https://www.pixiv.net/users/5366076)<br>[X](https://x.com/cyicheng)<br>[FANBOX](https://cyi.fanbox.cc/)<br>[Gumroad](https://cyi.gumroad.com/) |
 | choipiro | ちょいぴろ | ![X](https://pbs.twimg.com/profile_images/1795140288928989184/GXQLWoe-_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/moz_choi) [pixiv](https://www.pixiv.net/users/67102863) |
+| shimizu tomomi | 清水ともみ | 清水智美女士是日本前速滑运动员，现在以漫画的形式活跃在维护人权前线，向世界宣传中共对东突厥斯坦的维吾尔人施行的人权侵害。漫画以真实的受害群体的个人经历为原型，描述种种中共犯罪恶行。出版的著作有：《谁也不敢提起那个国名》，《我生上发生的事》的一系列漫画。内容被翻译成多国语言。 | [Twitter](https://x.com/swim_shu)<br>[pixiv](https://www.pixiv.net/users/40063519) |
 
 <!--TEMPLATE:
 |  |  |  |  |
