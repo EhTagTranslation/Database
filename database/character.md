@@ -5428,6 +5428,7 @@ example:
 | yinlin | 吟霖 | 吟霖是库洛制作的游戏`p:wuthering waves`的登场角色。 |  |
 | jinshi | 壬氏 | 壬氏是是由日向夏创作、しのとうこ插画的轻小说`p:kusuriya no hitorigoto`及其衍生的动画等作品的登场角色。 |  |
 | jinhsi | 今汐 |  |  |
+| aversa | 茵巴丝 | 火焰纹章：觉醒中的女性反派 | [https://guide.fire-emblem-heroes.com/zh/10005003000306-2/](https://guide.fire-emblem-heroes.com/zh/10005003000306-2/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
