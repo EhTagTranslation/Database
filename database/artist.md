@@ -12166,7 +12166,7 @@ example:
 | kizaki masuta | 季崎ますた |  |  |
 | komera | こめら |  |  |
 | kurotane | くろたね |  | [pixiv](https://www.pixiv.net/users/10759063) |
-| toushiki yubune | 橙織ゆぶね |  |  |
+| toushiki yubune | 橙織ゆぶね | ![X](https://pbs.twimg.com/profile_images/1698167060583600128/2hHm4Lvm_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/sukima3G) [pixiv](https://www.pixiv.net/users/4017871) |
 | shimada panda | しま田ぱんだ |  |  |
 | kakei kei | 花兄けい |  |  |
 | kudou hisashi | くどうひさし |  |  |
