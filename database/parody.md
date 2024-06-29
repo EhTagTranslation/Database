@@ -2283,6 +2283,7 @@ example:
 | baldurs gate | 博德之门 |  | [维基百科](https://zh.wikipedia.org/wiki/博德之门系列) |
 | tenshi no 3p | 天使的3P |  |  |
 | apex legends | Apex英雄 |  |  |
+| brawl stars | 荒野乱斗 | 芬兰电子游戏开发商Supercell公司开发和发布的一款的手机实时战略第三人称射击游戏。 | [维基百科](https://zh.wikipedia.org/wiki/荒野亂鬥) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
