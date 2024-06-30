@@ -12794,6 +12794,7 @@ example:
 | hitaki nikomiya | ひたき煮込み屋 |  |  |
 | tori salt | トリソルト |  |  |
 | archa1c | アルカ一区 |  |  |
+| tehakusen | テハクセン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
