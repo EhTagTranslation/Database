@@ -12891,6 +12891,7 @@ example:
 | huwahuwa raidou | ふわふわらいどう |  |  |
 | mother kiisuke | マザーきーすけ |  |  |
 | kurihara sakura | 栗原さくら |  |  |
+| washoku | 和食 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
