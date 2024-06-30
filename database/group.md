@@ -12795,6 +12795,7 @@ example:
 | tori salt | トリソルト |  |  |
 | archa1c | アルカ一区 |  |  |
 | tehakusen | テハクセン |  |  |
+| waniwanipanic | わにわにぱにっく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
