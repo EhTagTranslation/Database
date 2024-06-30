@@ -12796,6 +12796,7 @@ example:
 | archa1c | アルカ一区 |  |  |
 | tehakusen | テハクセン |  |  |
 | waniwanipanic | わにわにぱにっく |  |  |
+| morelia standard | もれりあすたんだーど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
