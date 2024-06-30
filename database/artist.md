@@ -12892,6 +12892,7 @@ example:
 | mother kiisuke | マザーきーすけ |  |  |
 | kurihara sakura | 栗原さくら |  |  |
 | washoku | 和食 |  |  |
+| wanitaroo. | わにたろー。 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
