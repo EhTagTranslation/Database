@@ -12890,6 +12890,7 @@ example:
 | toriuchi | トリウチ |  |  |
 | huwahuwa raidou | ふわふわらいどう |  |  |
 | mother kiisuke | マザーきーすけ |  |  |
+| kurihara sakura | 栗原さくら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
