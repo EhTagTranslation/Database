@@ -12798,6 +12798,7 @@ example:
 | waniwanipanic | わにわにぱにっく |  |  |
 | morelia standard | もれりあすたんだーど |  |  |
 | orutama | オルタマ |  |  |
+| gelatin koubou | ゼラチン工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
