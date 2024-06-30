@@ -12889,6 +12889,7 @@ example:
 | nada shio | なだソルト |  |  |
 | toriuchi | トリウチ |  |  |
 | huwahuwa raidou | ふわふわらいどう |  |  |
+| mother kiisuke | マザーきーすけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
