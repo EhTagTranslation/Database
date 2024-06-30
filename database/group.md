@@ -12797,6 +12797,7 @@ example:
 | tehakusen | テハクセン |  |  |
 | waniwanipanic | わにわにぱにっく |  |  |
 | morelia standard | もれりあすたんだーど |  |  |
+| orutama | オルタマ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
