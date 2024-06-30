@@ -5431,6 +5431,7 @@ example:
 | aversa | 茵巴丝 | 火焰纹章：觉醒中的女性反派 | [https://guide.fire-emblem-heroes.com/zh/10005003000306-2/](https://guide.fire-emblem-heroes.com/zh/10005003000306-2/) |
 | ethan winters | 伊森·温特斯 | 生化危机7.8角色 | [百度百科](https://baike.baidu.com/item/伊森·温特斯/20799755) |
 | avenger | 安哥拉曼纽 |  |  |
+| jtf mob | 正义实现委员会杂鱼酱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
