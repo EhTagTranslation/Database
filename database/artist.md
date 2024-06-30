@@ -12893,6 +12893,7 @@ example:
 | kurihara sakura | 栗原さくら |  |  |
 | washoku | 和食 |  |  |
 | wanitaroo. | わにたろー。 |  |  |
+| paingumi | パイングミ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
