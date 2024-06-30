@@ -12888,6 +12888,7 @@ example:
 | umai | 馬胃 |  |  |
 | nada shio | なだソルト |  |  |
 | toriuchi | トリウチ |  |  |
+| huwahuwa raidou | ふわふわらいどう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
