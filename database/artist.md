@@ -9353,7 +9353,7 @@ example:
 | punita | ぷにた |  |  |
 | puniyama meroro | ぷにやまめろろ |  |  |
 | punyon | プニョン |  |  |
-| puranpuman | ぷらんぷまん |  |  |
+| puranpuman | ぷらんぷまん |  | [pixiv](https://www.pixiv.net/users/237934) |
 | purapa | ぷらぱ |  |  |
 | pureinn | pureinn |  |  |
 | puriko | プリ子 |  |  |
