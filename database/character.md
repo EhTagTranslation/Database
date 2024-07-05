@@ -5432,6 +5432,7 @@ example:
 | ethan winters | 伊森·温特斯 | 生化危机7.8角色 | [百度百科](https://baike.baidu.com/item/伊森·温特斯/20799755) |
 | avenger | 安哥拉曼纽 |  |  |
 | jtf mob | 正义实现委员会杂鱼酱 |  |  |
+| mana nekomiya | 猫宫又奈 | 猫宫又奈是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猫宫又奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
