@@ -12894,6 +12894,7 @@ example:
 | washoku | 和食 |  |  |
 | wanitaroo. | わにたろー。 |  |  |
 | paingumi | パイングミ |  |  |
+| baret | バレット |  | [pixiv](https://www.pixiv.net/users/5776280) |
 
 <!--TEMPLATE:
 |  |  |  |  |
