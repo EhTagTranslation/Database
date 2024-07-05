@@ -5433,6 +5433,7 @@ example:
 | avenger | 安哥拉曼纽 |  |  |
 | jtf mob | 正义实现委员会杂鱼酱 |  |  |
 | mana nekomiya | 猫宫又奈 | 猫宫又奈是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猫宫又奈) |
+| verina | 维里奈 | 维里奈是库洛制作的游戏`p:wuthering waves`的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/维里奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
