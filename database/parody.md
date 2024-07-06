@@ -2038,7 +2038,7 @@ example:
 | mobile suit gundam the witch from mercury | 机动战士高达 水星的魔女 |  | [维基百科](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_水星的魔女) |
 | shijou saikyou no daimaou murabito a ni tensei suru | 史上最强大魔王转生为村民A |  | [维基百科](https://zh.wikipedia.org/wiki/史上最強大魔王轉生為村民A) |
 | genjitsu shugi yuusha no oukoku saikenki | 现实主义勇者的王国重建记 |  | [维基百科](https://zh.wikipedia.org/wiki/現實主義勇者的王國重建記) |
-| zenless zone zero | 绝区零 |  |  |
+| zenless zone zero | 绝区零 | 《绝区零》是由米哈游自研的全新动作游戏。它的故事发生在被神秘的超自然灾害「空洞」所侵袭的近未来。在这灾祸频仍的世界里，崛起了一座另类的城市——「新艾利都」。这座最后的「绿洲」掌握了与「空洞」共生的技术，盘踞着错综复杂的势力，它混乱、喧嚣、危险又充满活力。而你将成为串联起空洞与都市的关键少数派，名为「绳匠」的特殊职业人士。这里正等待着见证你的故事。<br>![](https://img.moegirl.org.cn/common/3/3e/ZZZ_miYoYo_logo.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绝区零) |
 | mato seihei no slave | 魔都精兵的奴隶 | 《魔都精兵的奴隶》（日语：魔都精兵のスレイブ）是Takahiro负责原作，竹村洋平负责作画的日本漫画，由2019年1月5日起于少年Jump+连载至今，隔周星期六更新。改编电视动画将于2023年首播。 | [维基百科](https://zh.wikipedia.org/wiki/魔都精兵的奴隸) |
 | bocchi the rock | 孤独摇滚！ | 《孤独摇滚！》（日语：ぼっち・ざ・ろっく！；英语：Bocchi the rock）是日本漫画家はまじあき创作的漫画作品，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
 | scp foundation | SCP基金会 | SCP基金会是一个虚构的特工组织，作为同名互联网接龙小说创作项目中的主要要素。在该虚构宇宙中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个体、地点或物体（统称为“异常”），其宗旨为“控制”（Secure），“收容”（Contain），“保护”（Protect）。在现实世界中，SCP基金会是一个基于网站社区的协同写作小说项目，其文章包含多种类型的元素和风格，如科学幻想、都市奇幻和恐怖小说。 | [维基百科](https://zh.wikipedia.org/wiki/SCP基金会) |
