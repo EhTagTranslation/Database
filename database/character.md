@@ -3006,7 +3006,7 @@ example:
 | kiritan tohoku | 东北切蒲英 | 东北切蒲英（日语：東北きりたん）是SSS合同会社发表的东北支援角色，是以日本秋田县北部的鹿角市的地方美食切蒲英（日语：“きりたんぽ”）为原型而设定的角色。同时具有UTAU、 NEUTRINO、CeVIO AI歌唱音源和VOICEROID语音声源。CV：茜屋日海夏 | [萌娘百科](https://zh.moegirl.org.cn/东北切蒲英) |
 | rikka takarada | 宝多六花 |  |  |
 | anastasia nikolaevna romanova | 阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 |  |  |
-| miko iino | 伊井野弥子 |  |  |
+| miko iino | 伊井野弥子 | 伊井野弥子别名小弥，女，漫画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》及其衍生作品中的角色，里女主。原型为《竹取物语》中的石作皇子。 | [萌娘百科](https://zh.moegirl.org.cn/伊井野弥子) |
 | yuu ishigami | 石上优 |  |  |
 | sasaki saku | 笹木咲 | 高中二年生，非常喜欢游戏和水族馆的悠悠性格的关西人。喜欢的生物是伞章鱼（扁面蛸）还有也喜欢熊猫（黑白生物）。虚拟大阪出身十六岁人。直播风格大胆，但只要遇见陌生人就会丧失语言能力。在第一次动画的自我介绍非常突然的模仿了一种水生动物箱鲀随后光速谢罪。奠定了熊猫人的路线必定不平凡。对任系游戏有着超常的热爱，擅长游戏《喷射战士2》，直播类型主要是游戏实况为主。<br>![SasakiSaku](https://img.moegirl.org.cn/common/thumb/4/47/SasakiSaku.png/112px-SasakiSaku.png) | [萌娘百科](https://zh.moegirl.org.cn/笹木咲) [日文维基](https://ja.wikipedia.org/wiki/笹木咲) |
 | arulumaya | 阿露露梅娅 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/b/ba/Zoom_3040019000_03.png/288px-Zoom_3040019000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040019000) |
