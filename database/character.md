@@ -5438,7 +5438,7 @@ example:
 | hishi miracle | 菱钻奇宝 | 菱钻奇宝是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ヒシミラクル（Hishi Miracle）。 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/菱钻奇宝) |
 | akeno misaki | 岬明乃 | 岬明乃是原创动画《高校舰队》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岬明乃) |
 | kaoru mashiko | 益子薰 | 益子薰是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/益子薰) |
-| sana futaba | 二叶莎奈 | 二叶莎奈，动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/二叶莎奈) |
+| sana futaba | 燕结芽 | 燕结芽是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/燕结芽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
