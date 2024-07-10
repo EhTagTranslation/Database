@@ -12799,6 +12799,7 @@ example:
 | morelia standard | もれりあすたんだーど |  |  |
 | orutama | オルタマ |  |  |
 | gelatin koubou | ゼラチン工房 |  |  |
+| marukuramaru | まる鞍丸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
