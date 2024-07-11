@@ -299,7 +299,7 @@ example:
 | kaga | 加贺 | 旧日本帝国海军的加贺号航空母舰 | [碧蓝航线:加贺](https://zh.moegirl.org.cn/碧蓝航线:加贺) [战舰少女:加贺](https://zh.moegirl.org.cn/战舰少女:加贺) [舰队Collection:加贺](https://zh.moegirl.org.cn/舰队Collection:加贺) |
 | souryuu | 苍龙 | 旧日本帝国海军苍龙号航空母舰（苍龙 (空母)） | [碧蓝航线:苍龙](https://zh.moegirl.org.cn/碧蓝航线:苍龙) [战舰少女:苍龙](https://zh.moegirl.org.cn/战舰少女:苍龙) [舰队Collection:苍龙](https://zh.moegirl.org.cn/舰队Collection:苍龙) |
 | hiryuu | 飞龙 | 旧日本帝国海军飞龙号航空母舰（飞龙 (空母)） | [碧蓝航线:飞龙](https://zh.moegirl.org.cn/碧蓝航线:飞龙) [战舰少女:飞龙](https://zh.moegirl.org.cn/战舰少女:飞龙) [舰队Collection:飞龙](https://zh.moegirl.org.cn/舰队Collection:飞龙) |
-| shimakaze | 岛风 |  | [战舰少女:岛风](https://zh.moegirl.org.cn/战舰少女:岛风) [舰队Collection:岛风](https://zh.moegirl.org.cn/舰队Collection:岛风) |
+| shimakaze | 岛风 |  | [战舰少女:岛风](https://zh.moegirl.org.cn/战舰少女:岛风) [舰队Collection:岛风](https://zh.moegirl.org.cn/舰队Collection:岛风) [碧蓝航线:岛风](https://wiki.biligame.com/blhx/岛风) |
 | fubuki | 吹雪 | 旧日本帝国海军的特I型吹雪级驱逐舰一号舰“吹雪”号（吹雪(吹雪型駆逐艦)） | [碧蓝航线:吹雪](https://zh.moegirl.org.cn/碧蓝航线:吹雪) [战舰少女:吹雪](https://zh.moegirl.org.cn/战舰少女:吹雪) [舰队Collection:吹雪](https://zh.moegirl.org.cn/舰队Collection:吹雪) |
 | shirayuki | 白雪 |  | [战舰少女:白雪](https://zh.moegirl.org.cn/战舰少女:白雪) [舰队Collection:白雪](https://zh.moegirl.org.cn/舰队Collection:白雪) |
 | hatsuyuki | 初雪 |  | [战舰少女:初雪](https://zh.moegirl.org.cn/战舰少女:初雪) [舰队Collection:初雪](https://zh.moegirl.org.cn/舰队Collection:初雪) |
