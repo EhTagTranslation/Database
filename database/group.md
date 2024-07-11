@@ -12799,7 +12799,7 @@ example:
 | morelia standard | もれりあすたんだーど |  |  |
 | orutama | オルタマ |  |  |
 | gelatin koubou | ゼラチン工房 |  |  |
-| marukuramaru | まる鞍丸 |  |  |
+| marukuramaru | まる鞍丸 |  | [FANBOX](https://kurasss000.fanbox.cc/) |
 | shigaeya | しがえ屋 |  |  |
 | nemaki wa sailor fuku | 寝間着はセーラー服 |  |  |
 
