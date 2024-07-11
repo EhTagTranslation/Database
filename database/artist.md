@@ -12897,6 +12897,7 @@ example:
 | baret | バレット |  | [pixiv](https://www.pixiv.net/users/5776280) |
 | otsumoon | 乙むん |  | [X](https://x.com/otsumoon) [pixiv](https://www.pixiv.net/users/62501553) |
 | marukura | まる鞍 |  | [FANBOX](https://kurasss000.fanbox.cc/) |
+| ide shota | 胃出ショータ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
