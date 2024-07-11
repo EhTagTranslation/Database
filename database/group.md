@@ -12800,6 +12800,7 @@ example:
 | orutama | オルタマ |  |  |
 | gelatin koubou | ゼラチン工房 |  |  |
 | marukuramaru | まる鞍丸 |  |  |
+| shigaeya | しがえ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
