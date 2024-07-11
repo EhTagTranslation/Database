@@ -12801,6 +12801,7 @@ example:
 | gelatin koubou | ゼラチン工房 |  |  |
 | marukuramaru | まる鞍丸 |  |  |
 | shigaeya | しがえ屋 |  |  |
+| nemaki wa sailor fuku | 寝間着はセーラー服 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
