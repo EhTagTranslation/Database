@@ -12895,6 +12895,7 @@ example:
 | wanitaroo. | わにたろー。 |  |  |
 | paingumi | パイングミ |  |  |
 | baret | バレット |  | [pixiv](https://www.pixiv.net/users/5776280) |
+| otsumoon | 乙むん |  | [X](https://x.com/otsumoon) [pixiv](https://www.pixiv.net/users/62501553) |
 
 <!--TEMPLATE:
 |  |  |  |  |
