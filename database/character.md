@@ -5440,6 +5440,7 @@ example:
 | kaoru mashiko | 益子薰 | 益子薰是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/益子薰) |
 | sana futaba | 燕结芽 | 燕结芽是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/燕结芽) |
 | talulah | 塔露拉 | 塔露拉·雅特利亚斯，游戏《明日方舟》及其衍生作品中的角色，整合运动的前领导人，也是整合运动曾经的精神道标，是她将整合运动从无所作为的感染者地下组织变成了泰拉最大的感染者革命组织。 | [萌娘百科](https://zh.moegirl.org.cn/塔露拉·雅特利亚斯) |
+| hajime hinata | 日向创 | 日向创是Spike Chunsoft旗下的游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日向创) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
