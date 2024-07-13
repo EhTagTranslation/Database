@@ -12802,6 +12802,7 @@ example:
 | marukuramaru | まる鞍丸 |  | [FANBOX](https://kurasss000.fanbox.cc/) |
 | shigaeya | しがえ屋 |  |  |
 | nemaki wa sailor fuku | 寝間着はセーラー服 |  |  |
+| mochigometei | もちごめ亭 |  | [X](https://x.com/amatuji_) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
