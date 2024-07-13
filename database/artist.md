@@ -12901,6 +12901,7 @@ example:
 | habe rin | 羽部凛 |  | [pixiv](https://www.pixiv.net/users/64053) |
 | doshima | どうしま |  | [pixiv](https://www.pixiv.net/users/325475) |
 | amatsuji | あまつじ |  | [X](https://x.com/amatuji_) |
+| huyumitsu | ふゆみつ |  | [X](https://x.com/huyumitsu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
