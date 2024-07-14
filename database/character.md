@@ -5445,6 +5445,7 @@ example:
 | wise | 哲 \| 华兹 | 哲是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br><br>华兹是井中だちま创作的轻小说`p:tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka`及其衍生作品中的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/哲) |
 | ellen joe | 艾莲·乔 | 艾莲·乔是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莲·乔) |
 | ben bigger | 本·比格 | 本·比格是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/本·比格) |
+| corin wickes | 可琳·威克斯 | 可琳·威克斯是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/可琳·威克斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
