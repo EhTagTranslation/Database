@@ -5446,6 +5446,7 @@ example:
 | ellen joe | 艾莲·乔 | 艾莲·乔是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莲·乔) |
 | ben bigger | 本·比格 | 本·比格是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/本·比格) |
 | corin wickes | 可琳·威克斯 | 可琳·威克斯是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/可琳·威克斯) |
+| grace howard | 格莉丝·霍华德 | 格莉丝·霍华德是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/格莉丝·霍华德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
