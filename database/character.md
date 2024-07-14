@@ -3846,7 +3846,7 @@ example:
 | liliya olenyeva | 莉莉娅·阿琳 |  | [萌娘百科](https://zh.moegirl.org.cn/莉莉娅·阿琳) |
 | torte | 托蒂 |  | [萌娘百科](https://zh.moegirl.org.cn/托蒂) |
 | nausicaa | 娜乌西卡 |  |  |
-| belle | 贝儿 | 出处：`beauty and the beast` |  |
+| belle | 贝儿 \| 铃 | 贝尔，出处：`beauty and the beast`<br>铃，是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/铃%28绝区零%29#) |
 | shun sunohara | 春原瞬 | 春原シュン<br>所属作品：`p:blue archive`<br><br>![图](https://ehgt.org/56/97/5697691d4e06f2f8eb73776afcf891408f21c12a-140709-1316-740-jpg_l.jpg) | [pixiv百科事典](https://dic.pixiv.net/a/春原シュン) [Fandom](https://bluearchive.fandom.com/wiki/Sunohara_Shun) [bilibil专栏](https://www.bilibili.com/read/cv10262377) |
 | surtr | 史尔特尔 | 明日方舟角色 |  |
 | mostima | 莫斯提马 | 明日方舟角色 |  |
