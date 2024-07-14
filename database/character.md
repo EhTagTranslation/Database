@@ -5443,6 +5443,7 @@ example:
 | hajime hinata | 日向创 | 日向创是Spike Chunsoft旗下的游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日向创) |
 | nagito komaeda | 狛枝凪斗 | 狛枝凪斗是Spike旗下游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/狛枝凪斗) |
 | wise | 哲 \| 华兹 | 哲是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br><br>华兹是井中だちま创作的轻小说`p:tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka`及其衍生作品中的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/哲) |
+| ellen joe | 艾莲·乔 | 艾莲·乔是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莲·乔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
