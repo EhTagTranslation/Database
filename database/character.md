@@ -5449,6 +5449,7 @@ example:
 | grace howard | 格莉丝·霍华德 | 格莉丝·霍华德是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/格莉丝·霍华德) |
 | anby demara | 安比·德玛拉 | 安比·德玛拉是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安比·德玛拉) |
 | encore | 安可 | 安可是库洛制作的游戏`p:wuthering waves`的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安可%28鸣潮%29#) |
+| nayuki minase | 水瀬名雪 | 水瀨名雪是Key出品的Galgame《Kanon》的登場人物，女主角之一。<br>![](https://img.moegirl.org.cn/common/c/c8/Kanon-Nayuki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水濑名雪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
