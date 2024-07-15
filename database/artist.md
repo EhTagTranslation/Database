@@ -10770,7 +10770,7 @@ example:
 | tatsuneko | たつねこ |  |  |
 | tatsunosuke yukiya | 逹之介ユキヤ |  |  |
 | tatsuoka miyoshi | 龍岡巳葦 |  |  |
-| tatsuya | tatsuya |  |  |
+| tatsuya | 立つ屋 |  | [pixiv](https://www.pixiv.net/users/97717527) |
 | tatunokosso | タツノコッソ |  |  |
 | tau | tau |  |  |
 | tavor | Tavor |  |  |
