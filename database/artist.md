@@ -12908,6 +12908,7 @@ example:
 | kinoshita kou | 木ノ下コウ |  | [pixiv](https://www.pixiv.net/users/38052419) |
 | idaten funisuke | いだ天ふにすけ |  | [pixiv](https://www.pixiv.net/users/38539862) |
 | yasiro osa | やしろおさ |  |  |
+| murai toyo | むらいとよ |  | [pixiv](https://www.pixiv.net/users/5647770) |
 
 <!--TEMPLATE:
 |  |  |  |  |
