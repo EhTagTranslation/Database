@@ -12910,6 +12910,7 @@ example:
 | yasiro osa | やしろおさ |  |  |
 | murai toyo | むらいとよ |  | [pixiv](https://www.pixiv.net/users/5647770) |
 | kaitou nyanko | 解凍にゃんこ |  | [pixiv](https://www.pixiv.net/users/6614636) |
+| toki garasu | 時烏 |  | [pixiv](https://www.pixiv.net/users/74427928) |
 
 <!--TEMPLATE:
 |  |  |  |  |
