@@ -12803,6 +12803,7 @@ example:
 | shigaeya | しがえ屋 |  |  |
 | nemaki wa sailor fuku | 寝間着はセーラー服 |  |  |
 | mochigometei | もちごめ亭 |  | [X](https://x.com/amatuji_) |
+| ikkyuu nyuukon | 一球入魂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
