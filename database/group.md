@@ -12804,6 +12804,7 @@ example:
 | nemaki wa sailor fuku | 寝間着はセーラー服 |  |  |
 | mochigometei | もちごめ亭 |  | [X](https://x.com/amatuji_) |
 | ikkyuu nyuukon | 一球入魂 |  |  |
+| meichougijuku | 鳴鳥義塾 |  | [pixiv](https://www.pixiv.net/users/74427928) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
