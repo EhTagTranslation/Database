@@ -120,6 +120,7 @@ example:
 | rynkerbelle | Rynkerbelle |  |  |
 | cattashaa | Cattashaa |  |  |
 | potato godzilla | Potato Godzilla |  |  |
+| miyamoto sakura | 宮本桜 |  | [X](https://x.com/sakuracyan_) |
 
 <!--
 Template: 
