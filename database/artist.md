@@ -12911,6 +12911,7 @@ example:
 | murai toyo | むらいとよ |  | [pixiv](https://www.pixiv.net/users/5647770) |
 | kaitou nyanko | 解凍にゃんこ |  | [pixiv](https://www.pixiv.net/users/6614636) |
 | toki garasu | 時烏 |  | [pixiv](https://www.pixiv.net/users/74427928) |
+| ichino milk | いちのみるく |  | [pixiv](https://www.pixiv.net/users/21156056) |
 
 <!--TEMPLATE:
 |  |  |  |  |
