@@ -12806,6 +12806,7 @@ example:
 | ikkyuu nyuukon | 一球入魂 |  |  |
 | meichougijuku | 鳴鳥義塾 |  | [pixiv](https://www.pixiv.net/users/74427928) |
 | marumitei | まる巳亭 |  | [X](https://x.com/marumitei) |
+| madakoya | まだ子屋 |  | [pixiv](https://www.pixiv.net/users/62276183) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
