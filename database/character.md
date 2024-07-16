@@ -227,7 +227,7 @@ example:
 | miyoi okunoda | 奥野田美宵 | ![图](https://ehgt.org/c6/e9/c6e9ff71defa2625b227847a4cb6be61a7fd9ae0-351556-906-1280-jpg_l.jpg)![图](https://ehgt.org/68/21/6821563b0ce03491f5385a11c2a748385311bbb7-287736-850-1200-jpg_l.jpg)![图](https://ehgt.org/65/5e/655ec1ac167e3eedb743d97841b0ddf8b4553d78-211355-850-1200-jpg_l.jpg)![图](# "https://ehgt.org/c4/fa/c4fac73e8e059f0b389a6845b9bbf8fc0b37e8b7-1110866-1484-1814-png_l.jpg")![图](# "https://ehgt.org/ca/61/ca61e0eca3ba9696c829cfe26b84f51b0fae12e5-2471870-1447-2047-png_l.jpg")![图](# "https://ehgt.org/23/b7/23b75db244f7bca00ea7e180620ee90c80bdd64a-733198-3193-1920-jpg_l.jpg") |  |
 |  | 东方Project >> 音乐CD及出版品 >> 音乐CD(秘封俱乐部) |  |  |
 | renko usami | 宇佐见莲子 | ![图](https://ehgt.org/3e/04/3e04983e63b0c71e0a893f35f9f69cc8a6c046a3-9674627-4317-6060-jpg_l.jpg) |  |
-| maribel han | 玛艾露贝莉·赫恩(梅莉) | 梅莉![图](https://ehgt.org/89/01/8901b92ebbe487432fed25db3f1601083b02cc3a-9419959-4307-6083-jpg_l.jpg) |  |
+| maribel han | 玛艾露贝莉·赫恩 | 梅莉![图](https://ehgt.org/89/01/8901b92ebbe487432fed25db3f1601083b02cc3a-9419959-4307-6083-jpg_l.jpg) |  |
 |  | 东方Project >> 二次创作人物 |  |  |
 | hakurei miko | 先代巫女 |  |  |
 |  | ▲东方Project 人物 |  |  |
@@ -2193,7 +2193,6 @@ example:
 | cure flora | 花神天使 |  |  |
 | cure mermaid | 人鱼天使 |  |  |
 | cure twinkle | 闪亮天使 |  |  |
-| towa akagi | 红城永久 |  |  |
 | cure scarlet | 赤红天使 |  |  |
 | cure miracle | 奇迹天使 |  |  |
 | cure magical | 魔法天使 |  |  |
@@ -5335,7 +5334,7 @@ example:
 | aesc the savior | 救世主梣 |  |  |
 | morgan | 摩根 |  |  |
 | aphrodite | 阿佛洛狄忒 |  |  |
-| fuuma kotarou | 风魔小太郎 |  |  |
+| kotarou fuuma | 风魔小太郎 |  |  |
 | boggart | 博格特 |  |  |
 | tezcatlipoca | 特斯卡特利波卡 | （烟雾镜） |  |
 | arjuna | 阿周那 |  |  |
@@ -5449,7 +5448,7 @@ example:
 | grace howard | 格莉丝·霍华德 | 格莉丝·霍华德是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/格莉丝·霍华德) |
 | anby demara | 安比·德玛拉 | 安比·德玛拉是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安比·德玛拉) |
 | encore | 安可 | 安可是库洛制作的游戏`p:wuthering waves`的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安可%28鸣潮%29#) |
-| nayuki minase | 水瀬名雪 | 水瀨名雪是Key出品的Galgame《Kanon》的登場人物，女主角之一。<br>![](https://img.moegirl.org.cn/common/c/c8/Kanon-Nayuki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水濑名雪) |
+| nayuki minase | 水濑名雪 | 水濑名雪是Key出品的Galgame《Kanon》的登场人物，女主角之一。<br>![](https://img.moegirl.org.cn/common/c/c8/Kanon-Nayuki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水濑名雪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
