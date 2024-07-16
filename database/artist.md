@@ -12912,6 +12912,7 @@ example:
 | kaitou nyanko | 解凍にゃんこ |  | [pixiv](https://www.pixiv.net/users/6614636) |
 | toki garasu | 時烏 |  | [pixiv](https://www.pixiv.net/users/74427928) |
 | ichino milk | いちのみるく |  | [pixiv](https://www.pixiv.net/users/21156056) |
+| madako | まだ子 |  | [pixiv](https://www.pixiv.net/users/62276183) |
 
 <!--TEMPLATE:
 |  |  |  |  |
