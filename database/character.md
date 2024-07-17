@@ -5452,6 +5452,7 @@ example:
 | taira no kagekiyo | 平景清 | 游戏《Fate/Grand Order》的登场人物，Avenger职阶的从者。<br>![](https://img.moegirl.org.cn/common/3/3d/粉色沙滩.png) | [萌娘百科](https://zh.moegirl.org.cn/平景清%28Fate%29#) |
 | misora nagare | 流美空 |  |  |
 | akino toudou | 藤堂秋乃 |  |  |
+| kuuka tomi | 远见空花 |  | [萌娘百科](https://zh.moegirl.org.cn/远见空花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
