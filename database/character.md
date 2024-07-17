@@ -3284,7 +3284,7 @@ example:
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
 | shizuru hoshino | 星野静流 |  |  |
 | mifuyu ogami | 大神美冬 |  |  |
-| tamaki miyasaka | 宫坂珠希 |  |  |
+| tamaki miyasaka | 宫坂珠希 |  | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
 | yuuki | 佑树 |  |  |
 | yaya | 夜夜 |  | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
 | parvati | 帕尔瓦蒂 |  |  |
