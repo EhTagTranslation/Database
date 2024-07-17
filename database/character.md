@@ -2793,7 +2793,7 @@ example:
 | mai sakurajima | 樱岛麻衣 |  |  |
 | ai mizuno | 水野爱 | ![水野爱](# "https://ehgt.org/39/e1/39e1a12210420aa8b6763c4d989c946c38b0ff5c-271185-573-1118-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/水野爱) |
 | yuuma kuga | 空闲游真 | 空闲游真，日本漫画《境界触发者》中的主人公之一。 | [百度百科](https://baike.baidu.com/item/空闲游真) |
-| kokkoro | 可可萝 |  |  |
+| kokkoro | 可可萝 |  | [萌娘百科](https://zh.moegirl.org.cn/枣可萝) |
 | holo | 赫萝 | 赫萝是《狼与香辛料》的女主角 | [萌娘百科](https://zh.moegirl.org.cn/赫萝) |
 | marie rose | 玛丽·萝丝 | 玛丽·萝丝（Marie Rose，又译萝丝·玛丽）是日本游戏公司KOEI TECMO GAMES在PS3,PS4,XBOX 360,XBOX ONE,XBOX ONE S,PC平台上开发的游戏《死或生》（又译《生死格斗》）的第五代中的可选操作角色。 | [百度百科](https://baike.baidu.com/item/玛丽·萝丝/18400032) |
 | helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/海莲娜%28死或生%29) |
