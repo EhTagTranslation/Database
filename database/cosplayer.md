@@ -122,6 +122,7 @@ example:
 | potato godzilla | Potato Godzilla |  |  |
 | miyamoto sakura | 宮本桜 |  | [X](https://x.com/sakuracyan_) |
 | kokuhui | 玉汇 |  | [X](https://x.com/yuuhuia) |
+| feng jiang jiang | 封疆疆 | 中国coser | [X](https://x.com/Dolly48226855)<br>[微博](https://weibo.com/u/5107081493) |
 
 <!--
 Template: 
