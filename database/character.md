@@ -3659,7 +3659,7 @@ example:
 | metera | 美黛拉 | ![梅忒拉](http://asia.sega.com/versus.granbluefantasy/assets/images/pc/common/characters/full_metera.png)<br>日文名：メーテラ<br>英文名：Metera<br>中文译名：美黛拉<br>碧蓝幻想Versus人物中文译名：梅忒拉<br>天赋异禀的艾伦族女性。<br>熟练运用可射出无限箭矢的“魔导弓”，并能以“飞翔术”不靠任何工具翱翔天空的天才。<br>出生在以守护神殿为使命的家族，因厌倦无聊的生活而离开故乡的森林，随心所欲地漫步各地。<br>轨迹变幻莫测、无穷无尽的魔导箭矢正如梅忒拉其人，<br>被其锁定的目标皆无法逃脱被贯穿的命运。 | [碧蓝幻想Versus](http://asia.sega.com/versus.granbluefantasy/#metera)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040072000) |
 | sutera | 斯黛拉 | ![斯黛拉](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3040303000_01.png)<br>日文名：スーテラ<br>英文名：Sutera | [碧蓝幻想官网](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=38)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040303000) |
 | chieru kazama | 风间千爱瑠 |  | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
-| hanako kuroe | 黑江花子 |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
+| hanako kuroe | 黑江花子(克罗依) |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
 | kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 | makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 |  | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
