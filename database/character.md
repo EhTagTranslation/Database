@@ -5450,6 +5450,7 @@ example:
 | encore | 安可 | 安可是库洛制作的游戏`p:wuthering waves`的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安可%28鸣潮%29#) |
 | nayuki minase | 水濑名雪 | 水濑名雪是Key出品的Galgame《Kanon》的登场人物，女主角之一。<br>![](https://img.moegirl.org.cn/common/c/c8/Kanon-Nayuki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水濑名雪) |
 | taira no kagekiyo | 平景清 | 游戏《Fate/Grand Order》的登场人物，Avenger职阶的从者。<br>![](https://img.moegirl.org.cn/common/3/3d/粉色沙滩.png) | [萌娘百科](https://zh.moegirl.org.cn/平景清%28Fate%29#) |
+| misora nagare | 流美空 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
