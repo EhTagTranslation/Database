@@ -3603,7 +3603,7 @@ example:
 | koharu nanakura | 七仓小春 |  |  |
 | ako saotome | 早乙女亚子 |  |  |
 | misogi hodaka | 穗高未奏希 | ![](https://img.moegirl.org.cn/common/thumb/1/16/Hodaka_misogi_pc.png/420px-Hodaka_misogi_pc.png)<br>穗高未奏希（日语：穂高（ほだか） みそぎ，又译穗高禊（xì））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为未奏希（日语：ミソギ）。 | [萌娘百科](https://zh.moegirl.org.cn/穗高未奏希) |
-| yuni shingyouji | 真行寺由仁 | 真行寺由仁（日语：真行寺（しんぎょうじ） 由仁（ゆに））是Cygames开发和发行的游戏《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为优妮（日语：ユニ）。 | [萌娘百科](https://zh.moegirl.org.cn/真行寺由仁) |
+| yuni shingyouji | 真行寺由仁（优妮） | 真行寺由仁（日语：真行寺（しんぎょうじ） 由仁（ゆに））是Cygames开发和发行的游戏《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为优妮（日语：ユニ）。 | [萌娘百科](https://zh.moegirl.org.cn/真行寺由仁) |
 | takagi | 高木同学 | 高木同学是由山本崇一朗创作的漫画《擅长捉弄人的高木同学》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/6/61/Takagi_BD2.jpg/800px-Takagi_BD2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高木同学) |
 | stella unibell | 史黛拉·尤尼贝尔 | 史黛拉·尤尼贝尔是游戏《灵魂行者》（Soul Worker）中的角色，她性格天真烂漫，超级我行我素，不论周围的情况如何都以自己的心情优先。有在意的事就忍不住，会说出出乎意料的话。喜欢唱起幽灵和歌来说话，欠缺常识，对“气”很敏感。因为别人的死而有着无法承受的悲伤，有倾向于凭依状态回避状况的倾向。 | [百度百科](https://baike.baidu.com/item/灵魂武器/4950731) |
 | hotaru futaba | 双叶萤 | 饿狼MARK OF THE WOLVES中的人物，是一个喜爱拳法的可爱率真少女。 |  |
