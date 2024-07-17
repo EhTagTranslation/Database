@@ -5453,6 +5453,7 @@ example:
 | misora nagare | 流美空 |  |  |
 | akino toudou | 藤堂秋乃 |  |  |
 | kuuka tomi | 远见空花 |  | [萌娘百科](https://zh.moegirl.org.cn/远见空花) |
+| yori kazemiya | 风宫依里 |  | [萌娘百科](https://zh.moegirl.org.cn/风宫依里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
