@@ -2284,6 +2284,7 @@ example:
 | tenshi no 3p | 天使的3P |  |  |
 | apex legends | Apex英雄 |  |  |
 | brawl stars | 荒野乱斗 | 芬兰电子游戏开发商Supercell公司开发和发布的一款的手机实时战略第三人称射击游戏。 | [维基百科](https://zh.wikipedia.org/wiki/荒野亂鬥) |
+| yoru no kurage wa oyogenai | 夜晚的水母不会游泳 | 《夜晚的水母不会游泳》（日语：夜のクラゲは泳げない）是由动画工房制作的一部原创动画，于2024年4月6日播出。<br>![](https://img.moegirl.org.cn/common/b/ba/Yorukura_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夜晚的水母不会游泳) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
