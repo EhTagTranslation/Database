@@ -5457,6 +5457,7 @@ example:
 | hindenburg | 兴登堡 | 《战舰世界》的德国X级银币重巡洋舰 | [https://wiki.lesta.ru/ru/Navy:Hindenburg](https://wiki.lesta.ru/ru/Navy:Hindenburg)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/兴登堡) |
 | renge fuwa | 不破莲华 | 所属作品：`p:blue archive` |  |
 | dio brando | 迪奥·布兰度 | 迪奥·布兰度（日语：ディオ・ブランドー；英语：Dio Brando）（第一部）/DIO（日语：ディオ）（第三部以后）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第一部《幻影之血》和第三部《星尘斗士》的最终BOSS。<br>![](https://img.moegirl.org.cn/common/1/1b/DIO_3.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪奥·布兰度) |
+| jotaro kujo | 空条承太郎 | 空条承太郎（日语：空条（くうじょう）承太郎（じょうたろう））是荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第三部《星尘斗士》的主角。<br>![](https://img.moegirl.org.cn/common/6/67/空条承太郎同人1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空条承太郎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
