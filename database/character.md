@@ -5455,6 +5455,7 @@ example:
 | kuuka tomi | 远见空花 |  | [萌娘百科](https://zh.moegirl.org.cn/远见空花) |
 | yori kazemiya | 风宫依里 |  | [萌娘百科](https://zh.moegirl.org.cn/风宫依里) |
 | hindenburg | 兴登堡 | 《战舰世界》的德国X级银币重巡洋舰 | [https://wiki.lesta.ru/ru/Navy:Hindenburg](https://wiki.lesta.ru/ru/Navy:Hindenburg)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/兴登堡) |
+| renge fuwa | 不破莲华 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
