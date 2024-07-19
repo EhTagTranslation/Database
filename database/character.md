@@ -5430,7 +5430,7 @@ example:
 | aversa | 茵巴丝 | 火焰纹章：觉醒中的女性反派 | [https://guide.fire-emblem-heroes.com/zh/10005003000306-2/](https://guide.fire-emblem-heroes.com/zh/10005003000306-2/) |
 | ethan winters | 伊森·温特斯 | 生化危机7.8角色 | [百度百科](https://baike.baidu.com/item/伊森·温特斯/20799755) |
 | avenger | 安哥拉曼纽 |  |  |
-| jtf mob | 正义实现委员会杂鱼酱 |  |  |
+| jtf mob | 正义实现委员会杂鱼酱 | 所属作品：`p:blue archive` |  |
 | mana nekomiya | 猫宫又奈 | 猫宫又奈是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猫宫又奈) |
 | verina | 维里奈 | 维里奈是库洛制作的游戏`p:wuthering waves`的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/维里奈) |
 | agnes digital | 爱丽数码 | 爱丽数码是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アグネスデジタル（Agnes Digital）。 | [ピクシブ百科事典][pixiv](https://dic.pixiv.net/a/アグネスデジタル%28ウマ娘%29)<br>[萌娘百科][萌娘百科](https://zh.moegirl.org.cn/爱丽数码#google_vignette) |
