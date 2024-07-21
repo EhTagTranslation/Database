@@ -12914,6 +12914,7 @@ example:
 | ichino milk | いちのみるく |  | [pixiv](https://www.pixiv.net/users/21156056) |
 | madako | まだ子 |  | [pixiv](https://www.pixiv.net/users/62276183) |
 | osakana arichi | 御魚ありち | ![X](https://pbs.twimg.com/profile_images/1794331950251200512/5RhqBv_4_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/osakana_arich) [pixiv](https://www.pixiv.net/users/29995972) |
+| suzusimo | すずしも | ![X](https://pbs.twimg.com/profile_images/1432985236086743041/wTrXUu4N_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/_Suzushimo) [pixiv](https://www.pixiv.net/users/10338936) |
 
 <!--TEMPLATE:
 |  |  |  |  |
