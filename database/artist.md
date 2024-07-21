@@ -12913,6 +12913,7 @@ example:
 | toki garasu | 時烏 |  | [pixiv](https://www.pixiv.net/users/74427928) |
 | ichino milk | いちのみるく |  | [pixiv](https://www.pixiv.net/users/21156056) |
 | madako | まだ子 |  | [pixiv](https://www.pixiv.net/users/62276183) |
+| osakana arichi | 御魚ありち | ![X](https://pbs.twimg.com/profile_images/1794331950251200512/5RhqBv_4_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/osakana_arich) [pixiv](https://www.pixiv.net/users/29995972) |
 
 <!--TEMPLATE:
 |  |  |  |  |
