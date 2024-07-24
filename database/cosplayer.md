@@ -124,6 +124,7 @@ example:
 | kokuhui | 玉汇 |  | [X](https://x.com/yuuhuia) |
 | feng jiang jiang | 封疆疆 | 中国coser | [X](https://x.com/Dolly48226855)<br>[微博](https://weibo.com/u/5107081493) |
 | baozoumoziaa | 抱走莫子 | 中国Coser | [X](https://x.com/mozi0228) |
+| xia xia zi | 夏夏子 |  | [X](https://x.com/natsuko233) |
 
 <!--
 Template: 
