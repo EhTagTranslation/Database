@@ -12917,6 +12917,7 @@ example:
 | suzusimo | すずしも | ![X](https://pbs.twimg.com/profile_images/1432985236086743041/wTrXUu4N_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/_Suzushimo) [pixiv](https://www.pixiv.net/users/10338936) |
 | sima | 志真 |  | [pixiv](https://www.pixiv.net/users/7955) |
 | yumeki banana | 夢木ばなな |  |  |
+| ruutyan | るち餡 |  | [pixiv](https://www.pixiv.net/users/11659204) |
 
 <!--TEMPLATE:
 |  |  |  |  |
