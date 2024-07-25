@@ -5468,6 +5468,7 @@ example:
 | hiro shinosawa | 筱泽广 | 篠泽广是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/5/5d/Imas_gakuen_cidol-shro-3-000_0-landscape.png/1280px-Imas_gakuen_cidol-shro-3-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/篠泽广) |
 | yan qing | 燕青 |  |  |
 | kaede akamatsu | 赤松枫 | 赤松 楓<br>《弹丸论破V3》女主角，超高校级的钢琴演奏家 |  |
+| chiaki nanami | 七海千秋 | 《超级弹丸论破2：再會了絕望學園》的女角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
