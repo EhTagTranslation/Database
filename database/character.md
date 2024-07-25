@@ -3367,7 +3367,7 @@ example:
 | hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 | lumine | 荧 | 《原神》及其衍生作品的登场角色。可作为玩家的代入角色。故国覆灭，与哥哥空一起在无数的世界之间漂流的旅行者。 | [萌娘百科](https://zh.moegirl.org.cn/荧) |
 | hu tao | 胡桃 | 胡桃（英语：hu tao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/16/雪霁梅香_胡桃.jpg) | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
-| kallen stadtfeld | 卡莲·休坦菲尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
+| kallen stadtfeld | 卡莲·休坦菲尔特 | 《叛逆的鲁鲁修》女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 | suzaku kururugi | 枢木朱雀 |  | [萌娘百科](https://zh.moegirl.org.cn/枢木朱雀) |
 | nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
 | kou | 蔻 |  | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
