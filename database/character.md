@@ -5467,6 +5467,7 @@ example:
 | haruka hanabishi | 花菱春香 | 花菱春香（日语：花菱（はなびし） はるか）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/花菱春香) |
 | hiro shinosawa | 筱泽广 | 篠泽广是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/5/5d/Imas_gakuen_cidol-shro-3-000_0-landscape.png/1280px-Imas_gakuen_cidol-shro-3-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/篠泽广) |
 | yan qing | 燕青 |  |  |
+| kaede akamatsu | 赤松枫 | 赤松 楓<br>《弹丸论破V3》女主角，超高校级的钢琴演奏家 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
