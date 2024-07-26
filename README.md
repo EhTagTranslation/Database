@@ -115,7 +115,7 @@
 
 参见 [Wiki/开发指南](../../wiki/开发指南)。
 
-下游项目使用本项目数据库前，请在本项目[提交一份附上项目的简介或地址的 Issue](../../issues/new?labels=数据库使用&template=db-use.md&title=数据库使用+-+%5B项目名称%5D)。
+下游项目使用本项目数据库前，请在本项目[提交一份附上项目的简介或地址的 Issue](../../issues/new?labels=数据库使用&projects=&template=db-use.yml&title=数据库使用+-+%5B项目名称%5D)。
 
 [plat-web]: https://img.shields.io/badge/WEB-yellow.svg?logo=javascript&logoColor=fff&color=yellow
 [plat-userscript]: https://img.shields.io/badge/UserScript-yellow.svg?logo=tampermonkey&logoColor=fff&color=00485B
