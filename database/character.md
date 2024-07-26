@@ -4323,7 +4323,7 @@ example:
 | zeraora | 捷拉奥拉 | 捷拉奥拉（日文︰ゼラオラ，英文︰Zeraora）是电属性的幻之宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷拉奥拉) |
 | iono | 奇树 | 所属作品:`p:pokemon`<br>宝可梦朱紫电系道馆主<br>![](https://img.moegirl.org.cn/common/6/6f/Iono.png) | [萌娘百科](https://zh.moegirl.org.cn/奇树) |
 | maho himemiya | 姬宫真步 | Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色 | [https://rwiki.jp/pri\_cone/パートナー/姫宮真歩](https://rwiki.jp/pri_cone/パートナー/姫宮真歩) |
-| ahri | 阿狸 |  |  |
+| ahri | 阿狸 | 阿狸是游戏《英雄联盟》的登场英雄。<br>![](https://img.moegirl.org.cn/common/thumb/b/b7/61294123_p0_master1200.jpg/420px-61294123_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿狸%28英雄联盟%29#) |
 | lillia | 莉莉娅 |  |  |
 | thresh | 锤石 |  |  |
 | sophia nishikinomiya | 苏菲亚·锦之宫 | `anna nishikinomiya`的母亲，时冈学园家长会会长。 |  |
