@@ -5470,6 +5470,7 @@ example:
 | kaede akamatsu | 赤松枫 | 赤松 楓<br>《弹丸论破V3》女主角，超高校级的钢琴演奏家 |  |
 | chiaki nanami | 七海千秋 | 《超级弹丸论破2：再會了絕望學園》的女角色 |  |
 | briar | 贝蕾亚 | 贝蕾亚是网络游戏《英雄联盟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d9/狂厄蔷薇_贝蕾亚.jpg/1920px-狂厄蔷薇_贝蕾亚.jpg) | [萌娘百科](https://zh.moegirl.org.cn/贝蕾亚) |
+| soda | 索达 | 索达，手游《胜利女神：妮姬》中的角色。<br>![](https://bkimg.cdn.bcebos.com/pic/4bed2e738bd4b31c8701377fe480307f9e2f060852e2) | [百度百科](https://baike.baidu.com/item/索达/62624723) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
