@@ -12921,6 +12921,7 @@ example:
 | announ | 暗ノ吽 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ021465) |
 | shien | しえん |  | [pixiv](https://www.pixiv.net/users/43943119) |
 | kibi anmitsu | 吉備あんみつ |  | [pixiv](https://www.pixiv.net/users/2510266) |
+| nozora yuzu | 望宙ゆず |  | [pixiv](https://www.pixiv.net/users/40565545) |
 
 <!--TEMPLATE:
 |  |  |  |  |
