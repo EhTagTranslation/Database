@@ -12918,6 +12918,7 @@ example:
 | sima | 志真 |  | [pixiv](https://www.pixiv.net/users/7955) |
 | yumeki banana | 夢木ばなな |  |  |
 | ruutyan | るち餡 |  | [pixiv](https://www.pixiv.net/users/11659204) |
+| announ | 暗ノ吽 |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ021465) |
 
 <!--TEMPLATE:
 |  |  |  |  |
