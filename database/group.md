@@ -12810,6 +12810,7 @@ example:
 | 4c-fantasy | 四色绮想 | 4C-Fantasy（四色绮想）是VIONA私人名义成立的综合同人社团，以游戏主题同人绘本、桌游、周边为主要内容开展企划，工作内容包括自主企划制作、设计印刷制作业务、代理服务，全国各大展会直参（含港台）。 | [https://4cfantasy.weebly.com/](https://4cfantasy.weebly.com/) |
 | mekimekitei | めきめき亭 |  |  |
 | anmitsutei | あんみつ亭 |  | [pixiv](https://www.pixiv.net/users/2510266) |
+| tokumei kibounu | 匿名キボンヌ |  | [X](https://x.com/tokumeikibounu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
