@@ -12927,6 +12927,7 @@ example:
 | setagaya 45rou | せたがや四五郎 |  |  |
 | fujisaki | ふじさき |  |  |
 | shinraku kogome | 聖 コゴメ |  |  |
+| consome | 紺そめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
