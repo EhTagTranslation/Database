@@ -12924,6 +12924,7 @@ example:
 | nozora yuzu | 望宙ゆず |  | [pixiv](https://www.pixiv.net/users/40565545) |
 | aburi saamon maru | 炙りサーモン丸 |  |  |
 | shiranai hitoshi | しらないひとし |  |  |
+| setagaya 45rou | せたがや四五郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
