@@ -12926,6 +12926,7 @@ example:
 | shiranai hitoshi | しらないひとし |  |  |
 | setagaya 45rou | せたがや四五郎 |  |  |
 | fujisaki | ふじさき |  |  |
+| shinraku kogome | 聖 コゴメ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
