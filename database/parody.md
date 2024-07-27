@@ -353,7 +353,7 @@ example:
 | black rock shooter | 黑岩射手 |  |  |
 | dragons crown | 龙之皇冠 | 《龙之皇冠》（ドラゴンズクラウン，Dragons Crown）是香草社开发、由Atlus在2013年发行的2D幻想风格、动作角色扮演游戏。<br>该游戏于2018年推出了强化版《龙之皇冠 Pro》。<br>![图](https://ehgt.org/18/36/1836df9a1f8be1958b75479b84a759c51c77fab5-131812-536-618-jpg_l.jpg) | [游戏官网](http://dragons-crown.com/) |
 | noir | 黑街二人组 |  |  |
-| guilty crown | 罪恶王冠 |  |  |
+| guilty crown | 罪恶王冠 | 《罪恶王冠》（日语：ギルティクラウン）是2011年10月放送的一部以“超能力。少女。乱斗。”为题材的原创动画。<br>![](https://img.moegirl.org.cn/common/9/97/GC_meizhongjian.jpg) | [萌娘百科](https://zh.moegirl.org.cn/罪恶王冠) |
 | nana | 娜娜 |  |  |
 | nier | 尼尔 |  |  |
 | nier automata | 尼尔：机械纪元 |  |  |
