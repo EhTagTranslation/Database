@@ -12925,6 +12925,7 @@ example:
 | aburi saamon maru | 炙りサーモン丸 |  |  |
 | shiranai hitoshi | しらないひとし |  |  |
 | setagaya 45rou | せたがや四五郎 |  |  |
+| fujisaki | ふじさき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
