@@ -12220,7 +12220,7 @@ example:
 | mukaino kei | 向野圭衣 | 萝莉漫画家 | [X](https://x.com/mukainokei)<br>[Skeb](https://skeb.jp/@mukaino) |
 | sogom | 裕珍 |  | [pixiv](https://www.pixiv.net/users/17648188) [X](https://x.com/kyjsogom) |
 | bk-mita | 灰濁クロム |  | [pixiv](https://www.pixiv.net/users/2154012) [X](https://x.com/BK_mita) |
-| sanjiro | さんじろ♨ |  |  |
+| sanjiro | さんじろ♨ | 人外/魔物娘本画师 | [X](https://x.com/kaeritai07)<br>[pixiv](https://www.pixiv.net/users/831187) |
 | atelier30 | Atelier30 |  | [pixiv](https://www.pixiv.net/users/52819016) |
 | magnificent sexy gals | Magnificent |  | [pixiv](https://www.pixiv.net/users/61229086) |
 | yoshinari you | 吉成曜 | 1992年加入动画公司MADHOUSE，开始参与制作动画，同年退出加入动画公司GAINAX。直至2011年前一直在GAINAX参与动画制作。现就职于TRIGGER。《新世纪福音战士》中担当机甲作画监督和原画，剧场版则担当原画和作画监督候补。 | [维基百科](https://zh.wikipedia.org/wiki/吉成曜) |
