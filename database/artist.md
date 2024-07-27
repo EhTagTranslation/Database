@@ -11888,7 +11888,7 @@ example:
 | yuriaki | ユリアキ |  |  |
 | yurige | ゆりげ |  |  |
 | yurihara aki | 百合原明 |  |  |
-| yurikawa | ゆりかわ |  |  |
+| yurikawa | 百合川 |  |  |
 | yuririn | ゆりりん |  |  |
 | yuriwhale | Yuriwhale |  | [pixiv](https://www.pixiv.net/users/3234083) |
 | yusa ikuyoshi | 遊佐育美 |  |  |
