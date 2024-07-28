@@ -5477,6 +5477,7 @@ example:
 | acheron | 黄泉 | 黄泉是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f9/黄泉立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
 | asanagi | 朝凪 | 朝凪是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>![](https://patchwiki.biligame.com/images/blhx/thumb/b/be/rswq3s9pxsgc170owpeuf6ujoc5zdto.jpg/525px-朝凪立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
 | toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
+| curtana | 卡提那 | 二次元游戏《交错战线》中的一个角色 | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/卡提那) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
