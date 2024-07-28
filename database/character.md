@@ -5475,6 +5475,7 @@ example:
 | inori yuzuriha | 楪祈 | 楪祈（Yè Qí）是动画《罪恶王冠》及其衍生作品的登场人物。<br>![](https://img.moegirl.org.cn/common/thumb/0/02/22367243.jpg/800px-22367243.jpg) | [萌娘百科](https://zh.moegirl.org.cn/楪祈) |
 | kotone fujita | 藤田琴音 | 藤田琴音是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/ce/Imas_gakuen_cidol-fktn-3-001_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/藤田琴音) |
 | acheron | 黄泉 | 黄泉是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f9/黄泉立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
+| asanagi | 朝凪 | 朝凪是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>![](https://patchwiki.biligame.com/images/blhx/thumb/b/be/rswq3s9pxsgc170owpeuf6ujoc5zdto.jpg/525px-朝凪立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
