@@ -12812,6 +12812,7 @@ example:
 | anmitsutei | あんみつ亭 |  | [pixiv](https://www.pixiv.net/users/2510266) |
 | tokumei kibounu | 匿名キボンヌ |  | [X](https://x.com/tokumeikibounu) |
 | poipoi ramen | ぽいぽいラーメン |  |  |
+| ore no sasakure | 俺のささくれ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
