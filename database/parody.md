@@ -2289,6 +2289,7 @@ example:
 | girls band cry | 少女哭泣乐队 | 《GIRLS BAND CRY》（日语：ガールズバンドクライ），简称gbc或少哭（日语：ガルクラ），是由东映动画、agehasprings和环球音乐联合策划制作的一部原创动画，以及衍生跨媒体企划。<br>![](https://img.moegirl.org.cn/common/4/4c/GBC_togetoge.png) | [萌娘百科](https://zh.moegirl.org.cn/GIRLS_BAND_CRY) |
 | helldivers | 绝地潜兵 | 《绝地潜兵》（Helldivers）是由Arrowhead Game Studios开发，Sony Computer Entertainment出版的俯视角射击游戏。<br>![](https://img.moegirl.org.cn/common/0/01/Helldiver_Cover.webp) | [萌娘百科](https://zh.moegirl.org.cn/绝地潜兵) |
 | tokidoki bosotto russia-go de dereru tonari no aalya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | 《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/f/f4/Roshidere_chara02.png) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
+| cross core | 交错战线 | 一款机甲科幻题材的二次元风格手游 | [https://www.megagamelog.com/#home](https://www.megagamelog.com/#home) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
