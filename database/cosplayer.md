@@ -126,6 +126,7 @@ example:
 | baozoumoziaa | 抱走莫子 | 中国Coser | [X](https://x.com/mozi0228) |
 | xia xia zi | 夏夏子 |  | [X](https://x.com/natsuko233) |
 | caomeiyuyi | 草莓羽衣 |  | [X](https://x.com/caomeiyuyi) |
+| purinpuppy | 屿鱼 |  | [X](https://x.com/Yukako_yuyu) |
 
 <!--
 Template: 
