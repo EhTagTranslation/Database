@@ -12929,6 +12929,7 @@ example:
 | shinraku kogome | 聖 コゴメ |  |  |
 | consome | 紺そめ |  |  |
 | fuuzasa | ウラザサ |  |  |
+| yukinpo dida | ゆきんぽでぃだ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
