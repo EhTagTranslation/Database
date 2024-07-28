@@ -12928,6 +12928,7 @@ example:
 | fujisaki | ふじさき |  |  |
 | shinraku kogome | 聖 コゴメ |  |  |
 | consome | 紺そめ |  |  |
+| fuuzasa | ウラザサ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
