@@ -12930,6 +12930,7 @@ example:
 | consome | 紺そめ |  |  |
 | fuuzasa | ウラザサ |  |  |
 | yukinpo dida | ゆきんぽでぃだ |  |  |
+| garasu hokou | 硝子歩行 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
