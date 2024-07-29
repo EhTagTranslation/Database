@@ -12814,6 +12814,7 @@ example:
 | poipoi ramen | ぽいぽいラーメン |  |  |
 | ore no sasakure | 俺のささくれ |  |  |
 | akasa seiheki kenkyuujo | 赤佐性癖研究所 |  |  |
+| aheazif | アヘアジフ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
