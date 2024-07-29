@@ -12933,7 +12933,7 @@ example:
 | garasu hokou | 硝子歩行 |  |  |
 | hoshitani kyo | 星谷京 |  |  |
 | higashimidou hisagi | 東御堂ひさぎ |  |  |
-| tsuruga | 鹤贺 |  |  |
+| tsuruga | 鹤贺 |  | [pixiv](https://www.pixiv.net/users/5193360) |
 
 <!--TEMPLATE:
 |  |  |  |  |
