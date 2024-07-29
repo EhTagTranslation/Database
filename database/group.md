@@ -12813,6 +12813,7 @@ example:
 | tokumei kibounu | 匿名キボンヌ |  | [X](https://x.com/tokumeikibounu) |
 | poipoi ramen | ぽいぽいラーメン |  |  |
 | ore no sasakure | 俺のささくれ |  |  |
+| akasa seiheki kenkyuujo | 赤佐性癖研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
