@@ -12932,6 +12932,7 @@ example:
 | yukinpo dida | ゆきんぽでぃだ |  |  |
 | garasu hokou | 硝子歩行 |  |  |
 | hoshitani kyo | 星谷京 |  |  |
+| higashimidou hisagi | 東御堂ひさぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
