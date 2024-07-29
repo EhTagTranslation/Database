@@ -12934,6 +12934,7 @@ example:
 | hoshitani kyo | 星谷京 |  |  |
 | higashimidou hisagi | 東御堂ひさぎ |  |  |
 | tsuruga | 鹤贺 |  | [pixiv](https://www.pixiv.net/users/5193360) |
+| taira rurit | 平るりっと |  | [pixiv](https://www.pixiv.net/users/47183653) |
 
 <!--TEMPLATE:
 |  |  |  |  |
