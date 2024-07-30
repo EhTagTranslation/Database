@@ -12816,6 +12816,7 @@ example:
 | akasa seiheki kenkyuujo | 赤佐性癖研究所 |  |  |
 | aheazif | アヘアジフ |  |  |
 | temperature | テンプレチャー |  |  |
+| teriniku | テリにく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
