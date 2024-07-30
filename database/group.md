@@ -12815,6 +12815,7 @@ example:
 | ore no sasakure | 俺のささくれ |  |  |
 | akasa seiheki kenkyuujo | 赤佐性癖研究所 |  |  |
 | aheazif | アヘアジフ |  |  |
+| temperature | テンプレチャー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
