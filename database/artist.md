@@ -2611,7 +2611,7 @@ example:
 | kobato neneko | 小鳩ねねこ |  |  |
 | marota | 麻吕太 |  |  |
 | maineko ruru | 舞猫ルル |  |  |
-| kanroame | 甘露アメ |  |  |
+| kanroame | 甘露アメ |  | [pixiv](https://www.pixiv.net/users/42039) [X](https://x.com/xxtenkirinxx) |
 | shaa | しゃあ | ![しゃあ头像](https://i.jpg.dog/file/jpg-dog/f51e8f5ec6ffc24d42a7ef093e1ae240.jpg) | [X](https://x.com/nekoshaa) [编辑部Twitter](https://x.com/Hitsuji_Shuki2) [pixiv](https://www.pixiv.net/users/9777680) |
 | aka shio | 朱シオ |  | [X](https://x.com/akasiosio) [pixiv](https://www.pixiv.net/users/341747) |
 | tomobe kinuko | 友部キヌコ |  | [X](https://x.com/kinuk) [女性向Twitter](https://x.com/nunuk0) [pixiv](https://www.pixiv.net/users/462527) |
