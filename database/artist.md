@@ -12936,6 +12936,7 @@ example:
 | tsuruga | 鹤贺 |  | [pixiv](https://www.pixiv.net/users/5193360) |
 | taira rurit | 平るりっと |  | [pixiv](https://www.pixiv.net/users/47183653) |
 | ishi no shita | 石の下 |  | [X](https://x.com/kuraizimezime) |
+| okusaka maeue | 奥坂前上 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
