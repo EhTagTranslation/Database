@@ -5717,7 +5717,7 @@ example:
 | hida tatsuo | 飛田竜夫 |  |  |
 | hidaka ryou | ヒダカリョウ |  |  |
 | hidari pory5n | 左ポリ5ン |  |  |
-| hidarikiki | 左利き |  |  |
+| hidarikiki | 左利き |  | [pixiv](https://www.pixiv.net/users/92527) |
 | hide | \_\_\_hide\_\_\_ |  |  |
 | hidori | 日鳥 |  |  |
 | higashiyama sion | 東山しをん |  |  |
