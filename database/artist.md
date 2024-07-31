@@ -12942,6 +12942,7 @@ example:
 | oekaki ojisan | お絵かきおじさん |  | [X](https://x.com/oeoji_jp) |
 | pochitaro | ぽちたろ |  | [X](https://x.com/pochin_taro) [pixiv](https://www.pixiv.net/users/81546678) |
 | siokaze sango | 潮風サンゴ |  | [X](https://x.com/siokaze_sango) [pixiv](https://www.pixiv.net/users/225901) |
+| kanzaki kureha | 神崎紅葉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
