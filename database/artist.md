@@ -12938,6 +12938,7 @@ example:
 | ishi no shita | 石の下 |  | [X](https://x.com/kuraizimezime) |
 | okusaka maeue | 奥坂前上 |  |  |
 | fujizarashi | ふじざらし |  |  |
+| ogino satoshi | オギノサトシ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
