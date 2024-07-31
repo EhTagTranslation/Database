@@ -5331,7 +5331,7 @@ example:
 | black cat | 费莉西亚‧哈代（黑猫） |  | [萌娘百科](https://zh.moegirl.org.cn/黑猫%28漫威%29#) |
 | spider-man | 蜘蛛侠 |  | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛侠) |
 | mary jane watson | 玛丽•简•沃森 |  | [维基百科](https://zh.wikipedia.org/wiki/瑪莉·珍·華生) |
-| aesc the savior | 救世主梣 |  |  |
+| aesc the savior | 救世主梣 | 救世主梣（雨之魔女梣）是TYPE-MOON旗下手机游戏《Fate/Grand Order》的八周年活动从者，职阶为魔术师。<br>![](https://bkimg.cdn.bcebos.com/pic/b21c8701a18b87d6277f08ef615f3f381f30e82457b1?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/救世主梣（雨之魔女梣）?fromModule=lemma_search-box) |
 | morgan | 摩根 |  |  |
 | aphrodite | 阿佛洛狄忒 |  |  |
 | kotarou fuuma | 风魔小太郎 |  |  |
