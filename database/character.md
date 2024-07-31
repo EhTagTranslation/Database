@@ -40,7 +40,7 @@ example:
 | jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org.cn/圣女%28Fate%29) [碧蓝航线:圣女贞德](https://zh.moegirl.org.cn/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org.cn/战舰少女:圣女贞德) |
 | katsuragi | 葛城 |  | [闪乱神乐:葛城](https://zh.moegirl.org.cn/闪乱神乐:葛城) [舰队Collection:葛城](https://zh.moegirl.org.cn/舰队Collection:葛城) |
 | kasumi | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)）<br><br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org.cn/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org.cn/舰队Collection:霞) |
-| leo | 丽王 \| 利昂 | ![](https://ehgt.org/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br><br>`fire emblem if` 角色 |  |
+| leo | 丽王 \| 利昂 | ![](https://ehgt.org/8f/b3/8fb3fa4e236756abd40adeeb6fd7806860bb427f-42655-384-480-jpg_l.jpg)<br><br>`fire emblem fates` 角色 |  |
 | haruna | 榛名 \| 春奈 | 旧日本帝国海军的榛名号战列巡洋舰（榛名（Haruna））![榛名](# "https://ehgt.org/46/0a/460a848cb9a5c2cad258752db0fb80f863faf150-1427635-1422-2000-jpg_250.jpg")<br><br>春奈是轻小说《`kore wa zombie desu ka`》及其衍生的漫画、动画等作品的登场角色。![春奈](# "http://p6.qhmsg.com/t011d470cc84d514d9c.jpg") | [碧蓝航线:榛名](https://zh.moegirl.org.cn/碧蓝航线:榛名) [战舰少女:榛名](https://zh.moegirl.org.cn/战舰少女:榛名) [舰队Collection:榛名](https://zh.moegirl.org.cn/舰队Collection:榛名) |
 | chitose | 千岁 | ![](https://ehgt.org/ce/1a/ce1a2a948f1a1c4eb6f36672da51dacf2b95c43a-49028-384-480-jpg_l.jpg)<br>No.049 千岁![千岁](# "https://img.moegirl.org.cn/common/thumb/c/c9/43876295.jpg/250px-43876295.jpg")P站ID:43876295 |  |
 | murakumo | 丛 \| 丛云 | ![](https://ehgt.org/a6/c0/a6c04cb51e12ba24916cc7ad36dcac6841efe66f-65154-288-360-jpg_l.jpg)<br><br>No.015 丛云![丛云](# "https://ehgt.org/e5/3c/e53c7d890b6a916c91e704fce1811b8ed33276b3-744537-1433-2020-jpg_250.jpg") | [舰队Collection:丛云](https://zh.moegirl.org.cn/舰队Collection:丛云) |
@@ -3659,7 +3659,7 @@ example:
 | metera | 美黛拉 | ![梅忒拉](http://asia.sega.com/versus.granbluefantasy/assets/images/pc/common/characters/full_metera.png)<br>日文名：メーテラ<br>英文名：Metera<br>中文译名：美黛拉<br>碧蓝幻想Versus人物中文译名：梅忒拉<br>天赋异禀的艾伦族女性。<br>熟练运用可射出无限箭矢的“魔导弓”，并能以“飞翔术”不靠任何工具翱翔天空的天才。<br>出生在以守护神殿为使命的家族，因厌倦无聊的生活而离开故乡的森林，随心所欲地漫步各地。<br>轨迹变幻莫测、无穷无尽的魔导箭矢正如梅忒拉其人，<br>被其锁定的目标皆无法逃脱被贯穿的命运。 | [碧蓝幻想Versus](http://asia.sega.com/versus.granbluefantasy/#metera)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040072000) |
 | sutera | 斯黛拉 | ![斯黛拉](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3040303000_01.png)<br>日文名：スーテラ<br>英文名：Sutera | [碧蓝幻想官网](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=38)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040303000) |
 | chieru kazama | 风间千爱瑠 |  | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
-| hanako kuroe | 黑江花子(克罗依) |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
+| hanako kuroe | 黑江花子（克罗依） |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
 | kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 | makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 |  | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
@@ -3746,7 +3746,7 @@ example:
 | siesta | 谢丝塔 | 谢丝塔（日语：シエスタ）是由二语十所创作的轻小说《侦探已死》及其衍生作品的登场角色。“谢丝塔”是她的代号，意为西班牙语“午睡”(Siesta)。 | [萌娘百科](https://zh.moegirl.org.cn/谢丝塔) |
 | rebecca bluegarden | 蕾贝卡·布鲁加甸 | 蕾贝卡·布鲁加甸是日本漫画家真岛浩创作之漫画《伊甸星原》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/蕾贝卡·布鲁加甸) |
 | aria von reiji asuna | 岭司 | 伊织政在街上遇到的神秘少年。蛮横、任性、脾气暴躁，几乎没有一般人应有的常识。在诚为其解决一起误会后，给了他一颗宝石「阿利斯达之星」，并扬言只要诚向宝石祈祷，自己就会现身替他解决问题。<br>![](https://bkimg.cdn.bcebos.com/pic/a8014c086e061d95e9d7384c78f40ad162d9ca35?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto) | [岭司](https://baike.baidu.com/item/嶺司/15866549) |
-| kokawa asuka | 甲河明日香 | 小粉红，主角的人棍义肢小忠犬，阿莎姬的养女。于《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍，也是第1个跟主角本垒后就同意为其生育后代的女忍。心中其实很渴望获得家人的关爱。(凭借其强大个人暗杀技能帮助主角稳住了内部危机，进而得到了主角的更多强化与关怀，为日后重返《对魔忍》位面完成最终复仇 奠定了基础) | [https://vndb.org/c10757](https://vndb.org/c10757) |
+| asuka koukawa | 甲河明日香 | 小粉红，主角的人棍义肢小忠犬，阿莎姬的养女。于《对魔忍阿莎姬3》作为女二首次登场。对魔忍位面中男主首次探险便救下的女忍，也是第1个跟主角本垒后就同意为其生育后代的女忍。心中其实很渴望获得家人的关爱。(凭借其强大个人暗杀技能帮助主角稳住了内部危机，进而得到了主角的更多强化与关怀，为日后重返《对魔忍》位面完成最终复仇 奠定了基础) | [https://vndb.org/c10757](https://vndb.org/c10757) |
 | mutio | 妙迪奥 | ミューティオ，cv - 长沢美树，来自漫画/OVA动画《青之6号》 |  |
 | yotsuba koiwai | 小岩井四叶 |  |  |
 | torako | 虎子 |  |  |

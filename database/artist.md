@@ -1929,7 +1929,7 @@ example:
 | koizumi amane | 恋泉天音 |  | [X](https://x.com/amane_koizumi) |
 | stikyfinkaz | StikyfinkaZ |  |  |
 | shirasagi rokuwa | 白鹭六羽 |  |  |
-| sato daiji | 大慈 |  |  |
+| armadillo daiji | 大慈 |  | [pixiv](https://www.pixiv.net/users/3646291) |
 | akeno minato | 绯野湊 |  |  |
 | hanabana tsubomi | 華々つぼみ |  |  |
 | soyosoyo | SOYOSOYO |  |  |
@@ -10266,7 +10266,7 @@ example:
 | sizma | SIZMA |  |  |
 | skemaid | スケメイド |  |  |
 | sknr | SKNR |  |  |
-| skpresents | skpresents |  |  |
+| katochin | カトチン |  | [pixiv](https://www.pixiv.net/users/72615) |
 | sl8-all | SL8-all |  |  |
 | smile yuu | スマイル幽 |  |  |
 | so-ma | そーま |  |  |

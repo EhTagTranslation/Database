@@ -311,22 +311,24 @@ example:
 | urara meirochou | Urara迷路帖 |  |  |
 | ranma 12 | 乱马½ |  |  |
 | yosuga no sora | 缘之空 |  |  |
+| gintama | 银魂 |  |  |
+| panty and stocking with garterbelt | 吊带袜天使 |  |  |
 |  | ▼火焰之纹章 系列 |  |  |
-| fire emblem if | 火焰之纹章 if |  |  |
+| fire emblem fates | 火焰之纹章 if | 日版名：ファイアーエムブレムif，英文版名：Fire Emblem Fates | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章if) |
 | fire emblem | 火焰之纹章 |  |  |
 | fire emblem awakening | 火焰之纹章 觉醒 |  |  |
 | fire emblem gaiden | 火焰之纹章外传 |  |  |
-| fire emblem seisen no keifu | 火焰之纹章 圣战之系谱 |  |  |
+| fire emblem genealogy of the holy war | 火焰之纹章 圣战之系谱 |  | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章_圣战之系谱) |
 | fire emblem thracia 776 | 火焰之纹章 多拉基亚776 |  |  |
-| fire emblem fuuin no tsurugi | 火焰之纹章 封印之剑 |  |  |
-| fire emblem rekka no ken | 火焰之纹章 烈火之剑 |  |  |
+| fire emblem the binding blade | 火焰之纹章 封印之剑 |  | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章_封印之剑) |
+| fire emblem the blazing blade | 火焰之纹章 烈火之剑 |  | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章_烈火之剑) |
 | fire emblem the sacred stones | 火焰之纹章 圣魔之光石 |  |  |
 | fire emblem path of radiance | 火焰之纹章 苍炎之轨迹 |  |  |
 | fire emblem radiant dawn | 火焰之纹章 晓之女神 |  |  |
 | fire emblem mystery of the emblem | 火焰之纹章 纹章之谜 |  |  |
 | fire emblem heroes | 火焰之纹章 英雄 |  |  |
-| gintama | 银魂 |  |  |
-| panty and stocking with garterbelt | 吊带袜天使 |  |  |
+| fire emblem three houses | 火焰之纹章 风花雪月 |  | [萌娘百科](https://zh.moegirl.org.cn/火焰之纹章_风花雪月) |
+| fire emblem engage | 火焰之纹章 结合 | 火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。 | [萌娘百科](https://zh.moegirl.org.cn/火焰之纹章_结合) |
 |  | ▼假面骑士 系列 |  |  |
 | kamen rider | 假面骑士 |  |  |
 | kamen rider decade | 假面骑士Decade |  |  |
@@ -1475,7 +1477,6 @@ example:
 | hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/一个人的OO小日子) (\*\*) |
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/恋爱小行星) (\*\*) |
 | koi wa ameagari no you ni | 恋如雨止 |  |  |
-| fire emblem three houses | 火焰之纹章 风花雪月 |  | [萌娘百科](https://zh.moegirl.org.cn/火焰之纹章_风花雪月) |
 | kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。 | [萌娘百科](https://zh.moegirl.org.cn/租借女友) (\*\*) |
 | 15 bishoujo hyouryuuki | 15美少女漂流记 |  |  |
 | ore no natsuyasumi | 我的暑假 | 《我的暑假》（日语：ぼくのなつやすみ）是2000年6月22日由索尼电脑娱乐发售的PlayStation平台专用游戏。制作公司为Millennium Kitchen。约1年后的2001年6月14日推出廉价版的PlayStation the Best版。 | [维基百科](https://zh.wikipedia.org/wiki/我的暑假) |
@@ -2152,7 +2153,6 @@ example:
 | juuou mujin no fafnir | 铳皇无尽的法夫纳 |  | [萌娘百科](https://zh.moegirl.org.cn/铳皇无尽的法夫纳) |
 | soukyuu no fafner | 苍穹之法芙娜 |  | [萌娘百科](https://zh.moegirl.org.cn/苍穹之法芙娜) |
 | heaven burns red | 炽焰天穹 | ![](https://heaven-burns-red.com/assets/images/common/img_appicon.png)<br>《Heaven Burns Red》（日语：ヘブンバーンズレッド）是由WFS和Key共同制作的手机游戏，2022年2月10日推出。这是麻枝准睽违15年有参与制作的新作游戏。广告标语是“忆深切恸（最上の、切なさを。）”。<br>备注：最初没有官方中文译名时有人机翻为天堂红烧，对调后为红烧天堂，至今仍有很多人使用该非官方译名，绯染天空为繁中官方译名，简中为炽焰天穹 | [官方网站](https://heaven-burns-red.com/)<br>[X](https://x.com/intent/follow?screen_name=heavenburnsred)<br>[YouTube](https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA)<br>[Line](https://lin.ee/h0pDUps)<br>[App Store](https://apps.apple.com/jp/app/id1576831351)<br>[Google Play Store](https://play.google.com/store/apps/details?id=com.heavenburnsred)<br>[Steam](https://store.steampowered.com/app/1973710/_/?utm_source=website&utm_medium=HP&utm_campaign=steam)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[维基百科](https://zh.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
-| fire emblem engage | 火焰之纹章 结合 | 火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。 | [萌娘百科](https://zh.moegirl.org.cn/火焰之纹章_结合) |
 | watashi no yuri wa oshigoto desu | 我的百合乃工作是也！ |  | [萌娘百科](https://zh.moegirl.org.cn/我的百合乃工作是也！) |
 | sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 |  | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
 | sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
