@@ -12947,6 +12947,7 @@ example:
 | saitoh maho | 斎藤まほ |  |  |
 | liyoosa | りゆさ |  | [pixiv](https://www.pixiv.net/users/81070283) |
 | oekaki kaki | おえかきかき |  |  |
+| horori | horori |  | [pixiv](https://www.pixiv.net/users/13156030) |
 
 <!--TEMPLATE:
 |  |  |  |  |
