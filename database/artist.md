@@ -12939,6 +12939,7 @@ example:
 | okusaka maeue | 奥坂前上 |  |  |
 | fujizarashi | ふじざらし |  |  |
 | ogino satoshi | オギノサトシ |  |  |
+| oekaki ojisan | お絵かきおじさん |  | [X](https://x.com/oeoji_jp) |
 
 <!--TEMPLATE:
 |  |  |  |  |
