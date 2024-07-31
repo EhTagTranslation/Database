@@ -5479,6 +5479,7 @@ example:
 | toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
 | curtana | 卡提那 | 二次元游戏《交错战线》中的一个角色 | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/卡提那) |
 | alisa mikhailovna kujou | 艾莉莎·米哈伊罗夫纳·九条 | 艾莉莎·米哈伊罗夫纳·九条（日语：アリサ・ミハイロヴナ・九条）是轻小说《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f4/Roshidere_chara02.png) | [萌娘百科](https://zh.moegirl.org.cn/艾莉莎·米哈伊罗夫纳·九条) |
+| lingyang | 凌阳 | 凌阳是库洛制作的游戏《鸣潮》及的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/凌阳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
