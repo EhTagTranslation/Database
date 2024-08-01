@@ -12817,6 +12817,7 @@ example:
 | aheazif | アヘアジフ |  |  |
 | temperature | テンプレチャー |  |  |
 | teriniku | テリにく |  |  |
+| sesame dou | せさみ堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
