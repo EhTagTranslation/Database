@@ -12948,6 +12948,7 @@ example:
 | liyoosa | りゆさ |  | [pixiv](https://www.pixiv.net/users/81070283) |
 | oekaki kaki | おえかきかき |  |  |
 | horori | horori |  | [pixiv](https://www.pixiv.net/users/13156030) |
+| non-sugar | ノンシュガー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
