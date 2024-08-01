@@ -12951,6 +12951,7 @@ example:
 | non-sugar | ノンシュガー |  |  |
 | niui | niui |  | [pixiv](https://www.pixiv.net/users/50161358) |
 | almondman | アーモンドマン |  | [pixiv](https://www.pixiv.net/users/39013721) |
+| yawano yawa | 柔乃やわ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
