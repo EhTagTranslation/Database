@@ -12954,6 +12954,7 @@ example:
 | yawano yawa | 柔乃やわ |  |  |
 | efuri | えふり |  | [pixiv](https://www.pixiv.net/users/21997192) |
 | suzushiro nerita | 鈴白ねりた |  |  |
+| momoshika fujiko | ももしか藤子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
