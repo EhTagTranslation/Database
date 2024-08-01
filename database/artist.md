@@ -12952,6 +12952,7 @@ example:
 | niui | niui |  | [pixiv](https://www.pixiv.net/users/50161358) |
 | almondman | アーモンドマン |  | [pixiv](https://www.pixiv.net/users/39013721) |
 | yawano yawa | 柔乃やわ |  |  |
+| efuri | えふり |  | [pixiv](https://www.pixiv.net/users/21997192) |
 
 <!--TEMPLATE:
 |  |  |  |  |
