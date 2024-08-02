@@ -12959,6 +12959,7 @@ example:
 | nekoshoko | 猫しょこ |  | [pixiv](https://www.pixiv.net/users/32045169) |
 | usagihara kuro | 兎原クロ |  | [pixiv](https://www.pixiv.net/users/7112385) |
 | aiga | アイガ |  |  |
+| hoshino minami | 星乃みなみ |  | [pixiv](https://www.pixiv.net/users/86309228) |
 
 <!--TEMPLATE:
 |  |  |  |  |
