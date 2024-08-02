@@ -7156,7 +7156,7 @@ example:
 | lilije drug | リリェドラッグ |  |  |
 | lilim | LiLiM |  |  |
 | lilim darkness | リリムダークネス |  |  |
-| lilium | LILIUM |  |  |
+| lilium | りーりうむ |  |  |
 | lilium auratum | Lilium auratum |  |  |
 | liliya | リリ舎 |  |  |
 | lilliput | リリパット |  |  |
