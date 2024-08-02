@@ -12956,6 +12956,7 @@ example:
 | suzushiro nerita | 鈴白ねりた |  |  |
 | momoshika fujiko | ももしか藤子 |  |  |
 | kidoban | 木户番 |  | [pixiv](https://www.pixiv.net/users/16359940) [X](https://x.com/slowcurve555) |
+| nekoshoko | 猫しょこ |  | [pixiv](https://www.pixiv.net/users/32045169) |
 
 <!--TEMPLATE:
 |  |  |  |  |
