@@ -12820,6 +12820,7 @@ example:
 | sesame dou | せさみ堂 |  |  |
 | fujikane haruyo | 藤鉄はるよ |  | [pixiv](https://www.pixiv.net/users/71363923) |
 | mochi to shiawase | モチと幸せ |  |  |
+| awaya | あわや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
