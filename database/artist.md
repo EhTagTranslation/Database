@@ -1900,7 +1900,7 @@ example:
 | takuwan | たくわん |  |  |
 | tsukiwani | 月わに |  |  |
 | jyun | JYUN |  |  |
-| nokoppa | のこっぱ |  |  |
+| nokoppa | のこっぱ |  | [pixiv](https://www.pixiv.net/users/13157) |
 | aru ra une | アル・ラ・ウネ |  |  |
 | aranasi | 新良梨 |  |  |
 | maki yoshitaka | 真木佳刚 |  |  |
