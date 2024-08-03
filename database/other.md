@@ -54,7 +54,7 @@ example:
 | comic | 西方漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
 | extraneous ads | 外部广告 | 未出现在原始作品中的一张或多张第三方广告/横幅。不应与`watermarked`或`scanmark`混淆。与作品的上传/扫描/上色/去码相关的广告（捐赠链接、网站或委托链接）不符合条件。不适用于原始作品中本就包含的广告。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
-| full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。不用于 CG 集、`imageset`和`3d`图库。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
+| full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。<br>不用于非`artbook`CG 集（无论是否为`western`CG 集）、`imageset`和`3d`图库，因为非彩色图像很少出现。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
 | game sprite | 像素画 | 角色的低分辨率图形，常常是`animated`。 |  |
 | how to | 教程 | 关于如何绘画或设计的教学图像。 |  |
 | multipanel sequence | 多格序列 | 从固定角度描绘性活动的一系列画格。每页至少需要 2 个连续的画格。 |  |
@@ -94,7 +94,7 @@ example:
 | watermarked | 水印 | 由带有水印的复制品组成的图库，为与内容的创作、扫描、着色或翻译无关的网站做广告。不用于相关方添加的水印。有关上述内容，参见`scanmark`。 |  |
 |  | === 技术 > 格式 === |  |  |
 | anthology | 选集 | 多个作者共同完成的完整的书（杂志）。`incomplete`的选集和`artbook`不算在内。 |  |
-| artbook | 画集 | 有特定标题的图像集合的出版书籍，非官方的收集图不算。不用于`incomplete`的作品。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
+| artbook | 画集 | 已出版书籍中关于某一主题的图像集合，通常强调艺术家的角色或设计元素，而不是性或故事内容。<br>源于亚洲的色情艺术书籍归入`artistcg`类别。<br>![图](https://ehgt.org/23/4b/234be456cccada7c6f543c19c9dfa8f900233d73-1892170-2400-3000-jpg_250.jpg)![图](https://ehgt.org/3b/7c/3b7cf59d56240435702abe0271616d86583d6891-844895-1641-2340-jpg_250.jpg) |  |
 | goudoushi | 合作本 | 包含了多位艺术家的作品，都是以人物、原作、癖好等单一主题为中心的自费出版的书。主要用在`doujinshi`和`non-h`分类。`incomplete`作品不算。 |  |
 | novel | 小说 | 大部分页面为不包含图片的纯文本。 |  |
 | soushuuhen | 总集篇 | 由单一作者自行出版，包含复数作品的书籍，主要为`doujinshi`或者`non-h`图库. |  |
