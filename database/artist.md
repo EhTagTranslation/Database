@@ -12965,6 +12965,7 @@ example:
 | maruco | マルコ |  | [pixiv](https://www.pixiv.net/users/3159439) |
 | contllenge | コントレンジ |  | [X](https://x.com/Contllenge) |
 | guusuka | ぐうすか |  | [pixiv](https://www.pixiv.net/users/526306) |
+| dekigokoro | 出来心 |  | [pixiv](https://www.pixiv.net/users/50677952) |
 
 <!--TEMPLATE:
 |  |  |  |  |
