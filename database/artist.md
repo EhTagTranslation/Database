@@ -12962,6 +12962,7 @@ example:
 | hoshino minami | 星乃みなみ |  | [pixiv](https://www.pixiv.net/users/86309228) |
 | ema | えま |  |  |
 | bodoyama | ボド山 |  | [pixiv](https://www.pixiv.net/users/58102537) |
+| maruco | マルコ |  | [pixiv](https://www.pixiv.net/users/3159439) |
 
 <!--TEMPLATE:
 |  |  |  |  |
