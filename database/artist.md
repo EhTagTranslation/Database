@@ -12964,6 +12964,7 @@ example:
 | bodoyama | ボド山 |  | [pixiv](https://www.pixiv.net/users/58102537) |
 | maruco | マルコ |  | [pixiv](https://www.pixiv.net/users/3159439) |
 | contllenge | コントレンジ |  | [X](https://x.com/Contllenge) |
+| guusuka | ぐうすか |  | [pixiv](https://www.pixiv.net/users/526306) |
 
 <!--TEMPLATE:
 |  |  |  |  |
