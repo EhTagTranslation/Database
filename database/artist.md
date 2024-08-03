@@ -12966,6 +12966,7 @@ example:
 | contllenge | コントレンジ |  | [X](https://x.com/Contllenge) |
 | guusuka | ぐうすか |  | [pixiv](https://www.pixiv.net/users/526306) |
 | dekigokoro | 出来心 |  | [pixiv](https://www.pixiv.net/users/50677952) |
+| binetsu | びねつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
