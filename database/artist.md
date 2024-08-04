@@ -12971,6 +12971,7 @@ example:
 | shiroi yoru | 白い夜 |  |  |
 | edachi hoho | えだちほほ |  |  |
 | yuzhe s | 愚者s |  |  |
+| sango | 参号 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
