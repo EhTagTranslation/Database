@@ -12968,6 +12968,7 @@ example:
 | dekigokoro | 出来心 |  | [pixiv](https://www.pixiv.net/users/50677952) |
 | binetsu | びねつ |  |  |
 | nishimoto rou | 西本ろう |  |  |
+| shiroi yoru | 白い夜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
