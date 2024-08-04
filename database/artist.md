@@ -12969,6 +12969,7 @@ example:
 | binetsu | びねつ |  |  |
 | nishimoto rou | 西本ろう |  |  |
 | shiroi yoru | 白い夜 |  |  |
+| edachi hoho | えだちほほ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
