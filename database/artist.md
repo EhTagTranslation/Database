@@ -12972,6 +12972,7 @@ example:
 | edachi hoho | えだちほほ |  |  |
 | yuzhe s | 愚者s |  |  |
 | sango | 参号 |  |  |
+| yoshinao | よしなお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
