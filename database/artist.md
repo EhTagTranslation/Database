@@ -12973,6 +12973,7 @@ example:
 | yuzhe s | 愚者s |  |  |
 | sango | 参号 |  |  |
 | yoshinao | よしなお |  |  |
+| romm | ろむむ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
