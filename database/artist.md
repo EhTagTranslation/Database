@@ -12974,6 +12974,7 @@ example:
 | sango | 参号 |  |  |
 | yoshinao | よしなお |  |  |
 | romm | ろむむ |  |  |
+| kasuya mako | 粕谷まこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
