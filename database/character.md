@@ -3631,7 +3631,7 @@ example:
 | ryo matsunaga | 松永凉 |  | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
 | xiangling | 香菱 | 香菱（英语：xiangling）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/36/香菱.jpg) | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
 | tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
-| eunectes | 森蚺 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:森蚺) |
+| eunectes | 森蚺 | 森蚺，本名祖玛玛，是游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6d/明日方舟立绘_森蚺_1.png) | [萌娘百科](https://zh.moegirl.org.cn/森蚺) |
 | shouko komi | 古见硝子 | 古见硝子是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/00/Komi_shouko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/古见硝子) |
 | hitohito tadano | 只野仁人 |  |  |
 | itto arataki | 荒泷一斗 | 荒泷一斗（英语：itto arataki）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
