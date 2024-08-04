@@ -1129,7 +1129,7 @@ example:
 | yumoteliuce | ユモテリウス |  |  |
 | ichihaya | いちはや |  |  |
 | oboro | 胧 |  |  |
-| takayanagi katsuya | 高柳カツヤ |  |  |
+| takayanagi katsuya | 高柳カツヤ |  | [X](https://x.com/hatsujohki) |
 | hori hiroaki | 堀博昭 |  |  |
 | yuugiri | 夕雾 |  |  |
 | eba | EBA |  |  |
