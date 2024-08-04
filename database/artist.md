@@ -12967,6 +12967,7 @@ example:
 | guusuka | ぐうすか |  | [pixiv](https://www.pixiv.net/users/526306) |
 | dekigokoro | 出来心 |  | [pixiv](https://www.pixiv.net/users/50677952) |
 | binetsu | びねつ |  |  |
+| nishimoto rou | 西本ろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
