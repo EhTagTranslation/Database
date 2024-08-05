@@ -12823,6 +12823,7 @@ example:
 | awaya | あわや |  |  |
 | mumumu | むむむ |  |  |
 | shoshosho frontier | 処庶所フロンティア |  |  |
+| teishibou new | 低脂肪NEW |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
