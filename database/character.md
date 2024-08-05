@@ -5483,6 +5483,7 @@ example:
 | atalanta alter | 阿塔兰忒〔Alter〕 | 阿塔兰忒是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在轻小说《Fate/Apocrypha》中初次登场。<br><br>用自身的宝具卡吕冬毛皮变身后的模样。也叫阿塔兰忒·变身。<br>![](https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4c7395e93e5d3572c10df629a?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/阿塔兰忒〔Alter〕/53928351) |
 | surcouf | 絮库夫 | 絮库夫（速科夫，Surcouf，シュルクーフ，쉬르쿠프 ）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为自由法国海军的巡洋潜艇“絮库夫”号(French submarine Surcouf)。<br>![](https://img.moegirl.org.cn/common/9/90/BLHX_xukufu.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:絮库夫) |
 | yunli | 云璃 | 云璃是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2b/Yunli.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/云璃) |
+| saint cecilia | 塞西莉亚 | 塞西莉亚（日语：セシリア；英语：Cecilia）是由和武叶佐乃所创作的漫画《白圣女与黑牧师》及其衍生作品的登场角色，为本作女主角。<br><br>![](https://img.moegirl.org.cn/common/0/0c/塞西莉亚_白圣女与黑牧师.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塞西莉亚%28白圣女与黑牧师%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
