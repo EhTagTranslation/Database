@@ -5394,7 +5394,7 @@ example:
 | king george v | 英王乔治五世 | 英国1939年下水的英王乔治五世级战列舰首舰 | [百度百科](https://baike.baidu.com/item/英王乔治五世号战列舰)<br>[https://moegirl.icu/碧蓝航线:英王乔治五世](https://moegirl.icu/碧蓝航线:英王乔治五世)<br>[https://moegirl.icu/战舰少女:英王乔治五世](https://moegirl.icu/战舰少女:英王乔治五世)<br>[https://moegirl.icu/钢铁少女:乔治五世](https://moegirl.icu/钢铁少女:乔治五世) |
 | golden hind | 金鹿号 | 盖伦型三桅帆船 | [百度百科](https://baike.baidu.com/item/金鹿号/1333376)<br>[https://moegirl.icu/碧蓝航线:金鹿号](https://moegirl.icu/碧蓝航线:金鹿号)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/金鹿号) |
 | regensburg | 雷根斯堡 | 格劳登茨级小巡洋舰的末舰 | [https://moegirl.icu/碧蓝航线:雷根斯堡](https://moegirl.icu/碧蓝航线:雷根斯堡)<br>[维基百科](https://zh.wikipedia.org/wiki/雷根斯堡号小巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/雷根斯堡) |
-| trieste | 的里雅斯特 | 特伦托级二号舰，的里雅斯特号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/的里雅斯特https://en.wikipedia.org/wiki/Italian_cruiser_Trieste) |
+| trieste | 的里雅斯特 | 的里雅斯特（的里雅斯德，Trieste，トリエステ，트리에스테）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原形为特伦托级重巡洋舰2号舰的里雅斯特<br>![](https://img.moegirl.org.cn/common/thumb/4/48/BLHX_diliyasite.png/1226px-BLHX_diliyasite.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:的里雅斯特)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/的里雅斯特) |
 | gascogne | 加斯科涅 | 黎塞留级四号舰加斯科涅号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/加斯科涅)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:加斯科涅) |
 | downes | 唐斯 | 马汉级十二号舰唐斯号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/唐斯)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:唐斯)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Downes_%28DD-375%29) |
 | volga | 伏尔加 | 苏联海军Pr.72型航空母舰伏尔加 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/伏尔加#cite_note-2)<br>[https://wiki.lesta.ru/ru/Navy:Авианосец\_проекта\_72](https://wiki.lesta.ru/ru/Navy:Авианосец_проекта_72) |
