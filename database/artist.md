@@ -10453,7 +10453,7 @@ example:
 | suzuki shina | 鈴木志奈 |  |  |
 | suzuki sinobu | 鈴木忍 |  |  |
 | suzuki takeo | 鈴木岳生 |  |  |
-| suzuki toto | すずきとと |  |  |
+| suzuki toto | すずきとと |  | [pixiv](https://www.pixiv.net/users/5719413) [X](https://x.com/suzukitoto0323) |
 | suzumaru | すずまる |  |  |
 | suzumiya | 涼御夜 |  |  |
 | suzumiya kazuki | 涼宮和貴 |  |  |
