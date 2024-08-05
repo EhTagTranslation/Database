@@ -12822,6 +12822,7 @@ example:
 | mochi to shiawase | モチと幸せ |  |  |
 | awaya | あわや |  |  |
 | mumumu | むむむ |  |  |
+| shoshosho frontier | 処庶所フロンティア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
