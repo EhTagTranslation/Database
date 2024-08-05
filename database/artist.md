@@ -12977,6 +12977,7 @@ example:
 | kasuya mako | 粕谷まこ |  |  |
 | tsuruta bungaku | 鶴田文学 |  |  |
 | nanase makoto | 七瀬真琴 |  |  |
+| uehara taichi | 上原た壱 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
