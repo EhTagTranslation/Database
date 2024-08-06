@@ -12980,6 +12980,7 @@ example:
 | uehara taichi | 上原た壱 |  |  |
 | kozuki | 甲月 |  |  |
 | templus | TeMたす |  |  |
+| aoena | アオエナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
