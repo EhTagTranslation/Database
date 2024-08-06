@@ -4404,7 +4404,7 @@ example:
 | fianna ray ordesia | 菲雅娜·雷·奥地西亚 | 所属作品: `p:bladedance of elementalers` | [萌娘百科](https://zh.moegirl.org.cn/菲雅娜·雷·奥地西亚) |
 | lady labrynth of the silver castle | 白银城的迷宫主·拉比丽斯 | ![](https://p.sda1.dev/9/fa32de723f4ef717af543db7869a9f3d/image.png) | [Fandom](https://yugioh.fandom.com/zh/wiki/拉比林斯?variant=zh#白银之城的拉比林斯) [Yugi pedia](https://yugipedia.com/wiki/Lovely_Labrynth_of_the_Silver_Castle) |
 | suletta mercury | 斯莱塔·墨丘利 |  |  |
-| miorine rembran | 米奥莉奈·伦布兰 |  |  |
+| miorine rembran | 米奥莉奈·伦布兰 | 米奥莉奈·伦布兰（日语：ミオリネ・レンブラン；英语：Miorine Rembran），是电视动画《机动战士高达 水星的魔女》中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/de/米奥莉奈·伦布兰_人物原设立绘.png/800px-米奥莉奈·伦布兰_人物原设立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/米奥莉奈·伦布兰) |
 | nana daiba | 大场奈奈 | 所属作品: `p:shoujo kageki revue starlight`<br>![](https://static.wikia.nocookie.net/revuestarlight/images/0/0e/Nana_Daiba_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/大场奈奈) [Fandom](https://revuestarlight.fandom.com/wiki/Nana_Daiba) |
 | minegumo | 峰云 | 所属作品: `p:kantai collection`<br>![图](https://ehgt.org/65/f8/65f83b382230e9b5deb0dcf2c5ffaf925bff70a5-102026-595-1052-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:峰云) |
 | princess star butterfly | 星蝶公主 | 是作品《公主闯天关》（英语：Star vs. the Forces of Evil）的主要主角。她是另一时空妙尼王国 (Mewni) 的一位十几岁的公主，被她的父母送到地球，以便在字汇智者(Glossaryck) 的监督下学习如何使用皇家魔杖。 | [萌娘百科](https://zh.moegirl.org.cn/星蝶) [维基百科](https://zh.wikipedia.org/wiki/公主闖天關) |
