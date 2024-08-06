@@ -12825,6 +12825,7 @@ example:
 | shoshosho frontier | 処庶所フロンティア |  |  |
 | teishibou new | 低脂肪NEW |  |  |
 | shimasoft | しまそふと |  |  |
+| littlehopper | りとるほっぱー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
