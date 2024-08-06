@@ -12981,6 +12981,7 @@ example:
 | kozuki | 甲月 |  |  |
 | templus | TeMたす |  |  |
 | aoena | アオエナ |  |  |
+| senoo hibiteru | 瀬尾日々照 | ![X](https://pbs.twimg.com/profile_images/1753312899983089664/bL_h-Vdu_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/hibiteru_senoo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
