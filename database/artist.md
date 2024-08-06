@@ -3891,7 +3891,7 @@ example:
 | akaga hirotaka | 赤賀博隆 |  |  |
 | akage no un | 赤毛のUN |  |  |
 | akagi gisho | アカギギショウ |  |  |
-| akagi rio | 赤木リオ |  |  |
+| akagi rio | 赤木リオ |  | [pixiv](https://www.pixiv.net/users/6686004) [X](https://x.com/rioakagi) |
 | akaguchi yuuda | 赤口ユウダ |  |  |
 | akahira kirin | あかひらきりん |  |  |
 | akai hoya | 赤井ほや |  |  |
