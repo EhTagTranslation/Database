@@ -12979,6 +12979,7 @@ example:
 | nanase makoto | 七瀬真琴 |  |  |
 | uehara taichi | 上原た壱 |  |  |
 | kozuki | 甲月 |  |  |
+| templus | TeMたす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
