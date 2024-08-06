@@ -12826,6 +12826,7 @@ example:
 | teishibou new | 低脂肪NEW |  |  |
 | shimasoft | しまそふと |  |  |
 | littlehopper | りとるほっぱー |  |  |
+| sakaetenai desu. | さかえてないです。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
