@@ -850,7 +850,7 @@ example:
 | sakuya shirase | 白濑咲耶 |  |  |
 | amana osaki | 大崎甘奈 |  |  |
 | chiyuki kuwayama | 桑山千雪 |  |  |
-| tenka osaki | 大崎甜花 |  |  |
+| tenka osaki | 大崎甜花 | 大崎甜花（日语：大崎（おおさき） 甜花（てんか））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的干物女双子姐偶像。<br>![](https://img.moegirl.org.cn/common/f/f3/DXgI3C5VoAE-_YF.png) | [萌娘百科](https://zh.moegirl.org.cn/大崎甜花) |
 | kaho komiya | 小宫果穂 |  |  |
 | chiyoko sonoda | 园田智代子 | 所属作品: `p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/园田智代子) |
 | juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
