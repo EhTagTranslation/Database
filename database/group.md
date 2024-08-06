@@ -12827,6 +12827,7 @@ example:
 | shimasoft | しまそふと |  |  |
 | littlehopper | りとるほっぱー |  |  |
 | sakaetenai desu. | さかえてないです。 |  |  |
+| ebiten kaido | 海老天街道 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
