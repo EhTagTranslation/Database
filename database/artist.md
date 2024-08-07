@@ -12625,7 +12625,7 @@ example:
 | orihika | おりひか |  |  |
 | scottie | スコッティ |  |  |
 | makin | まきん |  |  |
-| myamo | ミャモ |  |  |
+| myamo | ミャモ |  | [pixiv](https://www.pixiv.net/users/10215) [X](https://x.com/omaym1234) |
 | pedopetton | ぺどぺっとん |  | [pixiv](https://www.pixiv.net/users/39327558) |
 | mikozin | ミコジン |  |  |
 | imajin kouji | イマジン孝二 |  |  |
