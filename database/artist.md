@@ -476,7 +476,7 @@ example:
 | 100yen locker | 100円ロッカー |  |  |
 | hana hook | 华フック |  |  |
 | taki minashika | 滝美梨香 |  |  |
-| hirame | ヒラメ \| 比目鱼 | ★F<br>龟鱼派 |  |
+| hirame | ヒラメ \| 比目鱼 | ★F<br>龟鱼派 | [pixiv](https://www.pixiv.net/users/480469) |
 | minakami rinka | 水上凛香 |  |  |
 | andou shuki | 安藤周记 |  |  |
 | nakata shunpei | 中田春平 |  |  |
