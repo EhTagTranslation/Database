@@ -12987,6 +12987,7 @@ example:
 | sanatuki | さなつき |  | [pixiv](https://www.pixiv.net/users/41042507) |
 | amai meiden | 雨居めいでん |  |  |
 | otaki | おたき |  |  |
+| unomiki | うのみき |  | [pixiv](https://www.pixiv.net/users/34590136) |
 
 <!--TEMPLATE:
 |  |  |  |  |
