@@ -12828,6 +12828,7 @@ example:
 | littlehopper | りとるほっぱー |  |  |
 | sakaetenai desu. | さかえてないです。 |  |  |
 | ebiten kaido | 海老天街道 |  |  |
+| negiyashiki | ねぎやしき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
