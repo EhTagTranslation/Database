@@ -127,6 +127,7 @@ example:
 | xia xia zi | 夏夏子 |  | [X](https://x.com/natsuko233) |
 | caomeiyuyi | 草莓羽衣 |  | [X](https://x.com/caomeiyuyi) |
 | purinpuppy | 屿鱼 |  | [X](https://x.com/Yukako_yuyu) |
+| makachan | 麻花酱 |  | [X](https://x.com/Makachan_02) |
 
 <!--
 Template: 
