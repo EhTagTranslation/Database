@@ -12830,6 +12830,7 @@ example:
 | ebiten kaido | 海老天街道 |  |  |
 | negiyashiki | ねぎやしき |  |  |
 | yorutake | よるたけ |  |  |
+| kawasu shuppan | 川洲出版 | 推特名称カワ洲(川洲出版)，在DLsite社团名是川洲出版，尚未搜到社团成员的具体名字。 | [http://twpf.jp/kkaawwaass](http://twpf.jp/kkaawwaass) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
