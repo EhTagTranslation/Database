@@ -12829,6 +12829,7 @@ example:
 | sakaetenai desu. | さかえてないです。 |  |  |
 | ebiten kaido | 海老天街道 |  |  |
 | negiyashiki | ねぎやしき |  |  |
+| yorutake | よるたけ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
