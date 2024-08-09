@@ -4126,7 +4126,7 @@ example:
 | anma | 安間 |  |  |
 | anmitsu sou | あんみつ草 |  |  |
 | ann | Ann |  |  |
-| annie | あにぃ |  |  |
+| annie | あにぃ |  | [pixiv](https://www.pixiv.net/users/176501) [X](https://x.com/trueblue_annie) |
 | annin | 杏仁 |  |  |
 | annjeria | あんじぇりあ |  |  |
 | annkoku daimaou | 暗黒大魔王 |  |  |
