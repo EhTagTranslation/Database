@@ -12993,6 +12993,7 @@ example:
 | sozoremi | そぞれみ |  | [pixiv](https://www.pixiv.net/users/15624263) |
 | nanohana | nanohana |  | [pixiv](https://www.pixiv.net/users/31651057) [X](https://x.com/Circle_November) |
 | kamogawa akira | 鴨川彰 |  | [X](https://x.com/kamoakira0) [pixiv](https://www.pixiv.net/users/616357) |
+| ame no machi | 雨の町 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
