@@ -5486,6 +5486,7 @@ example:
 | saint cecilia | 塞西莉亚 | 塞西莉亚（日语：セシリア；英语：Cecilia）是由和武叶佐乃所创作的漫画《白圣女与黑牧师》及其衍生作品的登场角色，为本作女主角。<br><br>![](https://img.moegirl.org.cn/common/0/0c/塞西莉亚_白圣女与黑牧师.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塞西莉亚%28白圣女与黑牧师%29#) |
 | sona buvelle | 娑娜·布维尔 | 娑娜是网络游戏《英雄联盟》登场英雄。<br>![](https://img.moegirl.org.cn/common/e/ec/琴瑟仙女_娑娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/娑娜·布维尔) |
 | dokibird | Dokibird | Dokibird是一名从2020年5月4日开始在Twitch与YouTube活动的个人势虚拟UP主。2021年5月16日宣布毕业后，在2024年2月5日宣布再次开始活动。<br>![](https://img.moegirl.org.cn/common/thumb/1/18/Dokibird立绘1.jpg/800px-Dokibird立绘1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Dokibird) |
+| navia caspar | 娜维娅·卡萨帕 | 娜维娅·卡萨帕是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br><br>![](https://img.moegirl.org.cn/common/thumb/6/63/娜维娅.jpg/1024px-娜维娅.jpg) | [萌娘百科](https://zh.moegirl.org.cn/娜维娅·卡萨帕) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
