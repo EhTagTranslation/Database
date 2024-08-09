@@ -4966,7 +4966,7 @@ example:
 | elbe | 易北 |  |  |
 | anchorage | 安克雷奇 |  |  |
 | jade | 亚德 |  |  |
-| scylla | 斯库拉 |  |  |
+| scylla | 斯库拉 | 斯库拉（Scylla，シラ，스킬라）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型是英国海军的英雄号驱逐舰（HMS\_Scylla\_(98)）。<br><br>![](https://img.moegirl.org.cn/common/thumb/0/06/BLHX_105957369.png/800px-BLHX_105957369.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:斯库拉) |
 | algerie | 阿尔及利亚 |  |  |
 | erika | 莉佳 | 莉佳（日语：エリカ）是游戏《宝可梦系列》及其衍生作品的登场角色。![莉佳](https://img.moegirl.org.cn/common/thumb/0/05/莉佳_LPLE.png/238px-莉佳_LPLE.png) |  |
 | juliana | 小青 | 小青（日语：アオイ，英语：Juliana）是《宝可梦系列》的登场角色。![小青](https://img.moegirl.org.cn/common/thumb/c/ce/Pokemon_Scarlet_Main_Character_2.png/280px-Pokemon_Scarlet_Main_Character_2.png) |  |
