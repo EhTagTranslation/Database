@@ -12995,6 +12995,7 @@ example:
 | ame no machi | 雨の町 |  |  |
 | mukone | むこね |  |  |
 | tappa suzuki | タッパー鈴木 |  |  |
+| tom smith | Tom Smith |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
