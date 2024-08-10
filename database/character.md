@@ -5497,6 +5497,7 @@ example:
 | slippy toad | 史利比·陶德 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#史利比·陶德) |
 | laios thorden | 莱欧斯 | 莱欧斯（日语：ライオス）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的主人公。<br><br>![](https://img.moegirl.org.cn/common/thumb/e/e9/莱欧斯_chr.png/420px-莱欧斯_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯) |
 | chilchuck tims | 齐尔查克 | 齐尔查克·蒂姆斯（日语：チルチャック・ティムズ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/5/5b/齐尔查克_chr.png/420px-齐尔查克_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/齐尔查克) |
+| senshi | 森西 | 伊兹甘达的森西（日语：センシ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6a/森西_chr.png/420px-森西_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/森西) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
