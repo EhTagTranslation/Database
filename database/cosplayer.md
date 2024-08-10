@@ -129,6 +129,7 @@ example:
 | purinpuppy | 屿鱼 |  | [X](https://x.com/Yukako_yuyu) |
 | makachan | 麻花酱 |  | [X](https://x.com/Makachan_02) |
 | shimizu yuno | 清水由乃 |  | [X](https://x.com/qsyn0101) |
+| tomoyo jiang | Tomoyo酱 |  | [X](https://x.com/TTTomoyojiang) |
 
 <!--
 Template: 
