@@ -12985,7 +12985,7 @@ example:
 | tsunonigau | ツノニガウ | ![X](https://pbs.twimg.com/profile_images/1814389463621218308/Ae8lE607_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/tnngur) |
 | sanatuki | さなつき |  | [pixiv](https://www.pixiv.net/users/41042507) |
 | amai meiden | 雨居めいでん |  |  |
-| otaki | おたき |  |  |
+| otaki | おたき |  | [X](https://x.com/otakikin) |
 | unomiki | うのみき |  | [pixiv](https://www.pixiv.net/users/34590136) |
 | nandemona | なんでもな |  | [pixiv](https://www.pixiv.net/users/77216832) |
 | xiujia yihuizi | 休嫁一慧 |  |  |
