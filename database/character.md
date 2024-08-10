@@ -5494,6 +5494,7 @@ example:
 | falco lombardi | 法尔科·兰巴帝 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#法爾科·蘭巴帝) |
 | panther caroso | 巴萨·卡尔罗兹 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#巴薩·卡爾羅茲) |
 | peppy hare | 派比·海尔 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#派比·海爾) |
+| slippy toad | 史利比·陶德 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#史利比·陶德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
