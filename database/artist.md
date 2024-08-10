@@ -12997,6 +12997,7 @@ example:
 | tappa suzuki | タッパー鈴木 |  |  |
 | tom smith | Tom Smith |  |  |
 | bryam | Bryam |  |  |
+| yair | Yair |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
