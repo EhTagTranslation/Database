@@ -12995,6 +12995,7 @@ example:
 | kamogawa akira | 鴨川彰 |  | [X](https://x.com/kamoakira0) [pixiv](https://www.pixiv.net/users/616357) |
 | ame no machi | 雨の町 |  |  |
 | mukone | むこね |  |  |
+| tappa suzuki | タッパー鈴木 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
