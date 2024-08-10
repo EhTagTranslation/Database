@@ -5492,6 +5492,7 @@ example:
 | fox mccloud | 火狐·麦克劳德 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#火狐·麥克勞德) |
 | wolf odonnell | 沃尔夫·欧唐纳 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#沃爾夫·歐唐納) |
 | falco lombardi | 法尔科·兰巴帝 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#法爾科·蘭巴帝) |
+| panther caroso | 巴萨·卡尔罗兹 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#巴薩·卡爾羅茲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
