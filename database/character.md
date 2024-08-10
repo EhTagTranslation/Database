@@ -5488,6 +5488,7 @@ example:
 | dokibird | Dokibird | Dokibird是一名从2020年5月4日开始在Twitch与YouTube活动的个人势虚拟UP主。2021年5月16日宣布毕业后，在2024年2月5日宣布再次开始活动。<br>![](https://img.moegirl.org.cn/common/thumb/1/18/Dokibird立绘1.jpg/800px-Dokibird立绘1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Dokibird) |
 | navia caspar | 娜维娅·卡萨帕 | 娜维娅·卡萨帕是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br><br>![](https://img.moegirl.org.cn/common/thumb/6/63/娜维娅.jpg/1024px-娜维娅.jpg) | [萌娘百科](https://zh.moegirl.org.cn/娜维娅·卡萨帕) |
 | shizuru kousaka | 高坂静流 | 高坂静流是一位专注于单独执行危险潜入任务的经验丰富的对魔忍。她不仅才貌双全，通晓六国语言，还拥有两个博士学位以及数十个领域的专业知识，能够化身为各种背景的人物进行潜入。她具备高度的隐秘技术和高超的战斗能力，是忍法木遁术的使用者。<br><br>她的绰号是“花の静流”。她能够操控植物，在战斗时，她不使用特定的武器，而是从掌心召唤出强力的玫瑰鞭来进行战斗。她为人举止轻盈，是一位成熟的女性，凭借妖艳的魅力在潜入任务中也能吸引男性的注意。然而，她丰盈的胸部和臀部过度激发性冲动，也成为她的一大烦恼。 | [https://www.lilith-soft.com/chara/detail/261](https://www.lilith-soft.com/chara/detail/261) |
+| krystal | 克莉斯塔尔 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#克莉斯塔爾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
