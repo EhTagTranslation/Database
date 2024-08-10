@@ -208,6 +208,7 @@ example:
 | brain fuck | 脑交🧠 | 涉及大脑的性行为。 |  |
 | cockslapping | 屌掴 | 用阴茎打人（通常是脸）。 |  |
 | crown | 王冠👑 | 圆形仪式头饰，放在头顶上。 通常由君主戴。不应与`tiara`混淆。 |  |
+| ear fuck | 耳交👂 | 插入耳朵的性交。 |  |
 | elf | 精灵🧝‍♂️ | 通常有尖耳朵和苗条的身体。 |  |
 | facesitting | 坐脸 | 坐在另一个人的脸上。可能部分窒息或口腔接触肛门/生殖器区域。有时与`femdom`或`bdsm`配对。 |  |
 | facial hair | 胡子 | 下巴，脸颊或上唇上有明显的毛发。 |  |
@@ -409,7 +410,7 @@ example:
 | animegao | 头壳 | 包括描绘角色面具的全身服装。不应与`bodysuit`和`skinsuit`标签混淆。当头壳的性别与其穿戴者的性别不同时，需要`crossdressing`标签。<br>![图](https://ehgt.org/a8/13/a813802cbf8f80e8aa793719413c617a58770c37-123560-594-800-jpg_l.jpg)![图](https://ehgt.org/98/3d/983ddeb44b327f9eed7e0d7ffe0631c8762e7a5d-102186-640-800-jpg_l.jpg)![图](https://ehgt.org/e9/e2/e9e2592e4c2719da61d2fea6dd4f7dee68297b00-145357-715-1027-jpg_l.jpg) |  |
 | apron | 围裙 | 做饭时为了保护常穿的服装。通常为色情目的穿带。<br>![图](# "https://ehgt.org/f2/5b/f25bb5eb2eaa2ff2e04a195a9cdce314b74646e7-613200-1024-576-png_l.jpg") |  |
 | bandages | 绷带 | 一条布或类似材料被包裹在身上，至少覆盖身体的10％。 |  |
-|  | bandaid创可贴 | 创可贴位于阴部或乳头上。 |  |
+| bandaid | 创可贴 | 创可贴位于阴部或乳头上。 |  |
 | bike shorts | 自行车短裤 | 短的、有弹性的、紧身贴合腿部（但穿着更像是内衣），旨在提高骑自行车时候的舒适度。不应与`hotpants`混淆。<br>![](# "https://ehgt.org/82/4e/824ec565d33ed51ec89ab98a5689087e29e695e8-682260-1024-600-png_l.jpg")![图](# "https://ehgt.org/63/c3/63c39f00c8dc1b442c5618c20143c5c4ff59028a-369056-1120-1600-jpg_l.jpg")![图](# "https://ehgt.org/a8/44/a8448e102eb338cc80fc0a403d8bce0188a8723f-880865-1063-1500-jpg_l.jpg")![图](# "https://ehgt.org/4c/28/4c2824b5314fb0c0eeb9137c78c23dde02aca682-931040-2044-3020-jpg_l.jpg") |  |
 | bikini | 比基尼👙 | 两件式泳装，涵盖生殖器和乳房。两片可以串联起来（也称为弹弓比基尼(slingshot bikini)），但更通常完全分开。需要`swimsuit`标签。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/3c/86/3c86e8a7a57a161b4f6b921b0fe20e44107dc27a-2841047-4720-7002-jpg_l.jpg")![图](# "https://ehgt.org/1c/d1/1cd1b7436cfeb211ffd7ab261b1e8794f17e91c4-702687-1024-600-png_l.jpg")<br>弹弓比基尼▼<br>![图](# "https://ehgt.org/b4/bf/b4bf73ba923825741cbdc3d2154d81f8ed978705-1535220-1200-1657-jpg_l.jpg") |  |
 | bloomers | 布鲁马 | 主要为日本女学生的运动短裤。通常蓝色或红色。不应与`bike shorts`混淆。需要`crossdressing`标签。<br>![图](# "https://ehgt.org/8d/26/8d26deeac824e0aa61362914fc7a511a1cd979a9-410334-1067-1500-jpg_l.jpg")![图](# "https://ehgt.org/8e/e6/8ee67f9bf6981ff4e5102243ae738f0f9105eced-666108-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/24/56/245663e10ffaf8b57cb37c0d54de040fa598cba8-656435-1059-1500-jpg_l.jpg")![图](# "https://ehgt.org/fc/37/fc37dcee39e91c0751bd89fc9ca83472fe7e43a8-720803-1920-2720-jpg_l.jpg") |  |

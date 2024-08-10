@@ -108,8 +108,9 @@ example:
 |  | == Contextual == | == 上下文 == |  |
 |  | === Contextual > Gallery-Wide === | === 上下文 > 全图库 === |  |
 | kodomo only | 仅儿童 | 整个图库中所有的性、恋物或亲密互动都仅限于儿童之间。需要至少两个孩子互相互动。需要`shotacon`或`lolicon`标签 |  |
-| nudity only | 仅裸体 | 整个图库中没有性行为，但有裸体图片。 |  |
 | no penetration | 无插入 | 没有任何东西插入阴道，肛门或任何其他身体开口。嘴是唯一的例外。不用于`non-h`图库和`nudity only`图库。 |  |
+| nudity only | 仅裸体 | 整个图库中没有性行为，但有裸体图片。 |  |
+| object insertion only | 仅物体插入 | 所有插入阴道、肛门、口腔或任何其他身体开口的行为都严格通过无生命物体（在任何时候）进行，例如`sex toys`或肛塞。任何通过身体部位（例如阴茎、手指、脚或触手）插入身体开口的行为都会使标签失效。不应在`no penetration`画廊上标记。 |  |
 
 <!--
 Template:
