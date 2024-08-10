@@ -5495,6 +5495,7 @@ example:
 | panther caroso | 巴萨·卡尔罗兹 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#巴薩·卡爾羅茲) |
 | peppy hare | 派比·海尔 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#派比·海爾) |
 | slippy toad | 史利比·陶德 |  | [维基百科](https://zh.wikipedia.org/wiki/星際火狐系列角色列表#史利比·陶德) |
+| laios thorden | 莱欧斯 | 莱欧斯（日语：ライオス）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的主人公。<br><br>![](https://img.moegirl.org.cn/common/thumb/e/e9/莱欧斯_chr.png/420px-莱欧斯_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
