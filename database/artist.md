@@ -12998,6 +12998,7 @@ example:
 | tom smith | Tom Smith |  |  |
 | bryam | Bryam |  |  |
 | yair | Yair |  |  |
+| kadath | Kadath |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
