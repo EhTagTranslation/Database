@@ -2708,7 +2708,7 @@ example:
 | king | 琼 |  |  |
 | dark magician girl | 黑魔术少女 |  |  |
 | silent magician | 沉默魔术师 |  |  |
-| marcille donato | 玛露西露 | 《迷宫饭》 |  |
+| marcille donato | 玛露西尔 | 玛露西尔（日语：マルシル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/af/玛露西尔_chr.png/420px-玛露西尔_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/玛露西尔) |
 | fumina hoshino | 星野文奈 |  |  |
 | angela balzac | 安吉拉·巴尔扎克 | 所属作品: `p:expelled from paradise`<br><br>![](https://static.wikia.nocookie.net/rakuen-tsuiho/images/d/df/Angela_Balzac.jpg) | [萌娘百科](https://zh.moegirl.org.cn/安吉拉·巴尔扎克) [Fandom](https://rakuen-tsuiho.fandom.com/wiki/Angela_Balzac) |
 | yanagi takayama | 高山柳 |  |  |
