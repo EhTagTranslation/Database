@@ -13001,6 +13001,7 @@ example:
 | kadath | Kadath |  |  |
 | viktria | Zummeng |  |  |
 | the-shadow-of-light | The-Shadow-of-Light |  |  |
+| ono miren | 小野未練 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
