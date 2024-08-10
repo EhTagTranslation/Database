@@ -13000,6 +13000,7 @@ example:
 | yair | Yair |  |  |
 | kadath | Kadath |  |  |
 | viktria | Zummeng |  |  |
+| the-shadow-of-light | The-Shadow-of-Light |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
