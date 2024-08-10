@@ -12996,6 +12996,7 @@ example:
 | mukone | むこね |  |  |
 | tappa suzuki | タッパー鈴木 |  |  |
 | tom smith | Tom Smith |  |  |
+| bryam | Bryam |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
