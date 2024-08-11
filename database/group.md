@@ -12836,6 +12836,7 @@ example:
 | blacknwhite | BlackNWhite |  |  |
 | torunitaranai | とるにたらない |  |  |
 | shinya koubou | 深夜工房 |  |  |
+| aruminikarubi | あるみにカルビ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
