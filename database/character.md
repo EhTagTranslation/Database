@@ -5498,6 +5498,7 @@ example:
 | laios thorden | 莱欧斯 | 莱欧斯（日语：ライオス）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的主人公。<br><br>![](https://img.moegirl.org.cn/common/thumb/e/e9/莱欧斯_chr.png/420px-莱欧斯_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯) |
 | chilchuck tims | 齐尔查克 | 齐尔查克·蒂姆斯（日语：チルチャック・ティムズ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/5/5b/齐尔查克_chr.png/420px-齐尔查克_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/齐尔查克) |
 | senshi | 森西 | 伊兹甘达的森西（日语：センシ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6a/森西_chr.png/420px-森西_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/森西) |
+| jing yuan | 景元 | 景元是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/景元) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
