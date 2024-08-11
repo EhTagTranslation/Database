@@ -5500,6 +5500,7 @@ example:
 | senshi | 森西 | 伊兹甘达的森西（日语：センシ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6a/森西_chr.png/420px-森西_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/森西) |
 | jing yuan | 景元 | 景元是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/景元) |
 | hwah jah | 华甲 | 华甲（Hwah Jah，華甲，화지아）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/f/f9/BLHX_huajia_2_hx.png/1024px-BLHX_huajia_2_hx.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:华甲) |
+| kento nanami | 七海建人 | 七海建人（日语：七海（ななみ） 建人（けんと））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/37/咒术回战_11.jpg) | [萌娘百科](https://zh.moegirl.org.cn/七海建人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
