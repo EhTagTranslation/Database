@@ -130,6 +130,7 @@ example:
 | makachan | 麻花酱 |  | [X](https://x.com/Makachan_02) |
 | shimizu yuno | 清水由乃 |  | [X](https://x.com/qsyn0101) |
 | tomoyo jiang | Tomoyo酱 |  | [X](https://x.com/TTTomoyojiang) |
+| tao liang azhai | 桃良阿宅 |  |  |
 
 <!--
 Template: 
