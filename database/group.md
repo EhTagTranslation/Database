@@ -12835,6 +12835,7 @@ example:
 | lilith | 莉莉丝 |  | [维基百科](https://zh.wikipedia.org/wiki/莉莉丝_%28公司%29) |
 | blacknwhite | BlackNWhite |  |  |
 | torunitaranai | とるにたらない |  |  |
+| shinya koubou | 深夜工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
