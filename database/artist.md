@@ -13005,6 +13005,7 @@ example:
 | deer kid | Deerkid |  |  |
 | onaka | ONAKA | ![X](https://pbs.twimg.com/profile_images/1550530898332127232/qeVtsEVh_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ero_kingdom_ceo) [pixiv](https://www.pixiv.net/users/90844938) |
 | ushikani gassen | 牛蟹合戦 |  | [X](https://x.com/cowcowCrab) [pixiv](https://www.pixiv.net/users/69381850) |
+| yoruneko | 夜猫 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
