@@ -13008,6 +13008,7 @@ example:
 | yoruneko | 夜猫 |  |  |
 | gotarou | ゴ太郎 |  |  |
 | ion | 伊翁 |  |  |
+| sanukiyan | さぬきやん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
