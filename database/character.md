@@ -3677,7 +3677,7 @@ example:
 | hifumi ajitani | 阿慈谷日富美 | 所属作品：`p:blue archive`<br><br>三一补课部感情丰富的少女。<br>虽然外貌和成绩都不出众，但为人圆滑且品性善良，很受人欢迎。<br>会仔细听周围人们的烦恼及心事，但有时也会因此而无意中被卷入情绪漩涡惹起麻烦。 |  |
 | azusa shirasu | 白洲梓 | 所属作品：`p:blue archive`<br><br>三一补课部的冰魔女。<br>自从从原本的学校退学后，因为某种原因而就读三一学园，重新致力于学业，明明很怕寂寞，却因为担心对其他学生造成麻烦而主动与人拉开距离，很让补课部的学生为她操心。 |  |
 | hanako urawa | 浦和花子 | 所属作品：`p:blue archive`<br><br>来自三一综合学院补习授业部的感情丰富的少女。<br>看起来像个优雅的淑女，实际上是个开口黄腔就停不下来的问题学生。<br>知道她真面目的补习部部员们，每次在花子身边时都会紧张地左顾右盼。 |  |
-| koharu shimoe | 下江小春 | 下江小春，所属作品:`p:blue archive`<br>是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/7/78/BA_Koharu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/下江小春) |
+| koharu shimoe | 下江小春 | 下江小春，所属作品:`p:blue archive`<br>![](https://img.moegirl.org.cn/common/7/78/BA_Koharu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/下江小春) |
 | sheffy | 雪菲 |  | [萌娘百科](https://zh.moegirl.org.cn/阿贺斗紫布菜) |
 | miko yotsuya | 四谷见子 |  |  |
 | hana yurikawa | 百合川华 |  |  |
