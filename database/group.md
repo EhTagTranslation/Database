@@ -12840,6 +12840,7 @@ example:
 | slime no kanmuri | すらいむのかんむり |  |  |
 | ohanabatake | 御花畑 |  |  |
 | penguin senbanchi | ペンギン千番地 |  |  |
+| furashirushi | ふら印 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
