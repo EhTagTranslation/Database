@@ -12837,6 +12837,7 @@ example:
 | torunitaranai | とるにたらない |  |  |
 | shinya koubou | 深夜工房 |  |  |
 | aruminikarubi | あるみにカルビ |  |  |
+| slime no kanmuri | すらいむのかんむり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
