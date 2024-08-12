@@ -4569,7 +4569,7 @@ example:
 | baiken | 梅喧 |  |  |
 | asuka kazama | 风间飞鸟 |  |  |
 | lili rochefort | 莉莉·罗舍福尔 |  |  |
-| shizuko kawawa | 河和静子 | 所属作品：`p:blue archive` |  |
+| shizuko kawawa | 河和静子 | 所属作品：`p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/6/63/Shizuko_Portrait.png/revision/latest?cb=20220209171413) | [Fandom](https://bluearchive.fandom.com/wiki/Kawawa_Shizuko) |
 | akira kiyosumi | 清澄晶 | 所属作品：`p:blue archive` |  |
 | kanji sasahara | 笹原完士 |  |  |
 | chika ogiue | 荻上千佳 |  |  |
