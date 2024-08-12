@@ -13010,6 +13010,7 @@ example:
 | ion | 伊翁 |  |  |
 | sanukiyan | さぬきやん |  |  |
 | tsukisiro | 月代 |  |  |
+| kunabishi | くなびし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
