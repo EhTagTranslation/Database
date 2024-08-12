@@ -4550,7 +4550,7 @@ example:
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
 | queen draco | 妖妃德拉科 | （兽尼禄） |  |
 | march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
-| himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive` |  |
+| himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/thumb/4/4c/BA_Himari.png/800px-BA_Himari.png) | [萌娘百科](https://zh.moegirl.org.cn/明星日鞠) |
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
 | garou | 饿狼 | 饿狼（英语:garou）所属作品: `p:one punch man`<br>![](https://img.moegirl.org.cn/common/b/b8/Garou.png) | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
 | himeko | 姬子 | 姬子(英语:himeko) 所属作品`p:honkai star rail`<br>是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/姬子.png) | [萌娘百科](https://zh.moegirl.org.cn/姬子%28星穹铁道%29) |
