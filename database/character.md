@@ -4281,7 +4281,7 @@ example:
 | noa ushio | 生盐乃爱 | 生盐乃爱（日语：生塩ノア）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/3/35/BA_Noa.png) | [萌娘百科](https://zh.moegirl.org.cn/生盐乃爱) |
 | kokona sunohara | 春原心菜 | 春原心菜（日语：春原 ココナ）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/8/88/BA_Pic_Kokona_101385011.jpg/420px-BA_Pic_Kokona_101385011.jpg) | [萌娘百科](https://zh.moegirl.org.cn/春原心菜) |
 | hasumi hanekawa | 羽川莲见 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/f/f5/BA_Hasumi_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/羽川莲实) |
-| hibiki nekozuka | 猫冢响 | 所属作品：`p:blue archive` |  |
+| hibiki nekozuka | 猫冢响 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/e/ee/BA_Hibiki_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/猫冢响) |
 | arona | 阿罗娜 | 所属作品：`p:blue archive` |  |
 | saki sorai | 空井咲 | 所属作品：`p:blue archive` |  |
 | collei | 柯莱 | 柯莱(英语:collei) 所属作品`p:genshin impact`<br>是游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/原神柯莱.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/柯莱) |
