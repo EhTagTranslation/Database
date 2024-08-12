@@ -4361,7 +4361,7 @@ example:
 | annie leonhart | 阿尼·利昂纳德 | 阿尼·利昂纳德是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿尼·利昂纳德) |
 | nekomiya hinata | 猫宫日向 | 猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。<br>![塑料袋战神](https://img.moegirl.org.cn/common/9/9c/Nekomiya_Hinata_Creator002.png) | [萌娘百科](https://zh.moegirl.org.cn/猫宫日向) |
 | himeno ayanokoji | 绫小路姫乃 |  |  |
-| seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive` |  |
+| seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/1/12/BA_Seia.png) | [萌娘百科](https://zh.moegirl.org.cn/百合园圣亚) |
 | hanae asagao | 朝颜花绘 | 所属作品：`p:blue archive` |  |
 | saori joumae | 锭前纱织 | 所属作品：`p:blue archive` |  |
 | nijika ijichi | 伊地知虹夏 | 伊地知虹夏（英语:nijika ijichi）所属作品:`p:bocchi the rock`<br>是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c8/Ijichi_nijika_goods.jpg) | [萌娘百科](https://zh.moegirl.org.cn/伊地知虹夏) |
