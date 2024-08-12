@@ -4215,7 +4215,7 @@ example:
 | vajra | 瓦姬拉 | 碧蓝幻想中的角色 |  |
 | tighnari | 提纳里 | 提纳里（英语：tighnari）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/72/原神提纳里.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
 | hinata wakaba | 若葉日向 |  |  |
-| chihiro kagami | 各务千寻 | 各务千寻（日语：各務チヒロ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。 |  |
+| chihiro kagami | 各务千寻 | 各务千寻（日语：各務チヒロ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7b/BA_Chihiro.png) | [萌娘百科](https://zh.moegirl.org.cn/各务千寻) |
 | perrine h. clostermann | 佩琳·H·克洛斯特曼 | 所属作品: `p:strike witches`<br>![](https://static.wikia.nocookie.net/strikewitches/images/2/2a/Perrine_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/佩琳·H·克洛斯特曼) [Fandom](https://worldwitches.fandom.com/wiki/Perrine_H._Clostermann) |
 | bronya zaychik | 布洛妮娅·扎伊切克 | 所属作品: `p:honkai gakuen`<br><br>西伯利亚的暗杀兵，被可可利亚收养后参与X-10实验导致失去了表情和双腿活动能力。但是获得了名为“重装小兔”的机甲。<br>曾被可可利亚植入芯片控制，后为不再伤害到琪亚娜等朋友而烧毁芯片陷入昏迷，在圣芙蕾雅学院的治疗和符华的帮助下苏醒，现任第一律者。 | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·扎伊切克%28崩坏3%29) |
 | danzou katou | 加藤段藏 |  | [萌娘百科](https://zh.moegirl.org.cn/加藤段藏%28Fate%29) |
