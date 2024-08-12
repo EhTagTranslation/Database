@@ -12839,6 +12839,7 @@ example:
 | aruminikarubi | あるみにカルビ |  |  |
 | slime no kanmuri | すらいむのかんむり |  |  |
 | ohanabatake | 御花畑 |  |  |
+| penguin senbanchi | ペンギン千番地 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
