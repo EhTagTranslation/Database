@@ -12838,6 +12838,7 @@ example:
 | shinya koubou | 深夜工房 |  |  |
 | aruminikarubi | あるみにカルビ |  |  |
 | slime no kanmuri | すらいむのかんむり |  |  |
+| ohanabatake | 御花畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
