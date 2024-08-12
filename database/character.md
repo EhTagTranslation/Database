@@ -4278,7 +4278,7 @@ example:
 | mirror maiden | 藏镜仕女 |  |  |
 | sirin | 西琳 |  |  |
 | dehya | 迪希雅 | 迪希雅（英语：dehya）所属作品:`p:genshin impact`<br>是由米哈游研发游戏《原神（genshin impact）》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/原神迪希雅.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪希雅) |
-| noa ushio | 生盐诺亚 | 所属作品：`p:blue archive` |  |
+| noa ushio | 生盐乃爱 | 生盐乃爱（日语：生塩ノア）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/3/35/BA_Noa.png) | [萌娘百科](https://zh.moegirl.org.cn/生盐乃爱) |
 | kokona sunohara | 春原心奈 | 所属作品：`p:blue archive` |  |
 | hasumi hanekawa | 羽川莲见 | 所属作品：`p:blue archive` |  |
 | hibiki nekozuka | 猫冢响 | 所属作品：`p:blue archive` |  |
