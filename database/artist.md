@@ -13012,6 +13012,7 @@ example:
 | tsukisiro | 月代 |  |  |
 | kunabishi | くなびし |  |  |
 | furau | ふらう |  |  |
+| kurokawa ryoichi | 黒川リョーイチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
