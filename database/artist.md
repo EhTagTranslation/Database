@@ -13009,6 +13009,7 @@ example:
 | gotarou | ゴ太郎 |  |  |
 | ion | 伊翁 |  |  |
 | sanukiyan | さぬきやん |  |  |
+| tsukisiro | 月代 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
