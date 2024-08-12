@@ -13007,6 +13007,7 @@ example:
 | ushikani gassen | 牛蟹合戦 |  | [X](https://x.com/cowcowCrab) [pixiv](https://www.pixiv.net/users/69381850) |
 | yoruneko | 夜猫 |  |  |
 | gotarou | ゴ太郎 |  |  |
+| ion | 伊翁 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
