@@ -13011,6 +13011,7 @@ example:
 | sanukiyan | さぬきやん |  |  |
 | tsukisiro | 月代 |  |  |
 | kunabishi | くなびし |  |  |
+| furau | ふらう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
