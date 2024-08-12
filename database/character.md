@@ -5502,6 +5502,7 @@ example:
 | hwah jah | 华甲 | 华甲（Hwah Jah，華甲，화지아）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/f/f9/BLHX_huajia_2_hx.png/1024px-BLHX_huajia_2_hx.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:华甲) |
 | kento nanami | 七海建人 | 七海建人（日语：七海（ななみ） 建人（けんと））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/37/咒术回战_11.jpg) | [萌娘百科](https://zh.moegirl.org.cn/七海建人) |
 | nagusa goryou | 御稜名草 | 所属作品：`p:blue archive` |  |
+| utaha shiraishi | 白石咏叶 | 白石咏叶（日语：白石ウタハ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/8/8c/BA_Utaha.png) | [萌娘百科](https://zh.moegirl.org.cn/白石咏叶) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
