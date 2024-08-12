@@ -4363,7 +4363,7 @@ example:
 | himeno ayanokoji | 绫小路姫乃 |  |  |
 | seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/1/12/BA_Seia.png) | [萌娘百科](https://zh.moegirl.org.cn/百合园圣亚) |
 | hanae asagao | 朝颜花绘 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/4/48/BA_Hanae.png) | [萌娘百科](https://zh.moegirl.org.cn/朝颜花绘) |
-| saori joumae | 锭前纱织 | 所属作品：`p:blue archive` |  |
+| saori joumae | 锭前纱织 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/thumb/6/63/BA_Saori.png/800px-BA_Saori.png) | [萌娘百科](https://zh.moegirl.org.cn/锭前纱织) |
 | nijika ijichi | 伊地知虹夏 | 伊地知虹夏（英语:nijika ijichi）所属作品:`p:bocchi the rock`<br>是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c8/Ijichi_nijika_goods.jpg) | [萌娘百科](https://zh.moegirl.org.cn/伊地知虹夏) |
 | ryou yamada | 山田凉 |  |  |
 | ikuyo kita | 喜多郁代 |  |  |
