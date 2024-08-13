@@ -13013,6 +13013,7 @@ example:
 | kunabishi | くなびし |  |  |
 | furau | ふらう |  |  |
 | kurokawa ryoichi | 黒川リョーイチ |  |  |
+| chinton | チントン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
