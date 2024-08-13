@@ -12841,6 +12841,7 @@ example:
 | ohanabatake | 御花畑 |  |  |
 | penguin senbanchi | ペンギン千番地 |  |  |
 | furashirushi | ふら印 |  |  |
+| ushikani gassen | 牛蟹合戦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
