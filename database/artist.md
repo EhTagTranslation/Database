@@ -10004,7 +10004,7 @@ example:
 | shidaka akikuni | しだかあきくに |  |  |
 | shidatsu takayuki | 紫妲たかゆき |  |  |
 | shieko | しえこ |  |  |
-| shift | shift |  |  |
+| shift | shift |  | [pixiv](https://www.pixiv.net/users/389873) |
 | shigaoka touki | 志峨丘トウキ |  |  |
 | shigatake | シガタケ |  |  |
 | shigatsu sekito | 卯月赤人 |  |  |
