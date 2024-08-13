@@ -13018,6 +13018,7 @@ example:
 | inumiso | イヌミソ |  |  |
 | cosmic | こずみっく |  |  |
 | kagamino mochiko | 鏡乃もちこ |  |  |
+| ereere | ereere |  | [pixiv](https://www.pixiv.net/users/12474236) [X](https://x.com/ereereererere) |
 
 <!--TEMPLATE:
 |  |  |  |  |
