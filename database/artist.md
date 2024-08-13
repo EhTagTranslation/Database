@@ -1613,7 +1613,7 @@ example:
 | nimu | ニム |  |  |
 | okayusan | おかゆさん |  |  |
 | wakai ikuo | 若井いくお |  |  |
-| z-ton | Zトン |  |  |
+| z-ton | Zトン |  | [pixiv](https://www.pixiv.net/users/14168) [X](https://x.com/Ztn0555) |
 | hanpera | はんぺら |  |  |
 | hirono azuma | 広乃あずま |  |  |
 | ikeda matamune | 池田又心 |  |  |
