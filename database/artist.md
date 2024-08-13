@@ -8118,7 +8118,7 @@ example:
 | mm | えむえむ |  |  |
 | mmmnomu | むむむのム |  |  |
 | mnk | MNK |  |  |
-| mo | もっさん |  |  |
+| mo | も |  |  |
 | moai tentyou | モアイ店長 |  |  |
 | moccyi | モッチィー |  |  |
 | mochi ice | もちアイス |  |  |
