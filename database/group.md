@@ -12842,6 +12842,7 @@ example:
 | penguin senbanchi | ペンギン千番地 |  |  |
 | furashirushi | ふら印 |  |  |
 | ushikani gassen | 牛蟹合戦 |  |  |
+| tsukuten | つくてん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
