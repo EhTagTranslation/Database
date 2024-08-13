@@ -13017,6 +13017,7 @@ example:
 | saiou ga ushi | 塞翁が牛 |  | [pixiv](https://www.pixiv.net/users/14647672) [X](https://x.com/SAIO_GA_USHI) |
 | inumiso | イヌミソ |  |  |
 | cosmic | こずみっく |  |  |
+| kagamino mochiko | 鏡乃もちこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
