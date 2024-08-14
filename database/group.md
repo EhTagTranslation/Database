@@ -12848,6 +12848,7 @@ example:
 | shoujo rakugakichuu | 少女落描中 |  |  |
 | ikebukuro distillery | 池袋蒸留所 |  |  |
 | honeyroad | Bee導師 |  |  |
+| golden bazooka | ゴールデンバズーカ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
