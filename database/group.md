@@ -12843,6 +12843,7 @@ example:
 | furashirushi | ふら印 |  |  |
 | ushikani gassen | 牛蟹合戦 |  |  |
 | tsukuten | つくてん |  |  |
+| pomepome kokuuken | ポメポメコクウケン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
