@@ -12845,6 +12845,7 @@ example:
 | tsukuten | つくてん |  |  |
 | pomepome kokuuken | ポメポメコクウケン |  |  |
 | porcini | ぽるちーに |  |  |
+| shoujo rakugakichuu | 少女落描中 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
