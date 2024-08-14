@@ -13022,6 +13022,7 @@ example:
 | lakilolom | らきろろむ |  | [pixiv](https://www.pixiv.net/users/5261554) |
 | akahoshi jake | 赤星ジェイク |  |  |
 | mabanna | マバンナ |  |  |
+| hakonnbu | 歯昆布 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
