@@ -12844,6 +12844,7 @@ example:
 | ushikani gassen | 牛蟹合戦 |  |  |
 | tsukuten | つくてん |  |  |
 | pomepome kokuuken | ポメポメコクウケン |  |  |
+| porcini | ぽるちーに |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
