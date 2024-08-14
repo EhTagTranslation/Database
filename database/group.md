@@ -12849,6 +12849,7 @@ example:
 | ikebukuro distillery | 池袋蒸留所 |  |  |
 | honeyroad | Bee導師 |  |  |
 | golden bazooka | ゴールデンバズーカ |  |  |
+| nature carute | 天然養殖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
