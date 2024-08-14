@@ -5507,6 +5507,7 @@ example:
 | sumika shiun | 紫云清夏 | 紫雲清夏（しうん すみか），《学园偶像大师》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/紫云清夏) |
 | zhou yu | 周瑜 |  |  |
 | zheng chenggong | 郑成功 |  |  |
+| qingyi | 青衣 | 青衣是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/35/3b/353b3f69cb1332556ab610ab44e4c54ee8c86659-2998411-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青衣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
