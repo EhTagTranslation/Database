@@ -6809,7 +6809,7 @@ example:
 | kichiku hiroshi | 鬼畜広子 |  |  |
 | kidmo | Kidmo |  |  |
 | kidou muichi | 綺堂無一 |  |  |
-| kidouchi kon | Kidouchi\_Kon |  |  |
+| kidouchi kon | 木戸内紺 |  |  |
 | kiduki erika | 季月えりか |  |  |
 | kieyza | 喜栄座 |  |  |
 | kigetu miya | キゲツミヤ |  |  |
