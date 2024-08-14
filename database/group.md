@@ -12850,6 +12850,7 @@ example:
 | honeyroad | Bee導師 |  |  |
 | golden bazooka | ゴールデンバズーカ |  |  |
 | nature carute | 天然養殖 |  |  |
+| crazy brain pulse | くれいじーぶれいんぱるす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
