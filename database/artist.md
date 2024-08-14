@@ -13027,6 +13027,7 @@ example:
 | himajin no izu | 暇人のいず |  |  |
 | huruga yuudai | フルガユウダイ |  |  |
 | kuzumoti | くずもち |  |  |
+| aizawa uji | 相沢U字 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
