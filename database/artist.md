@@ -13021,6 +13021,7 @@ example:
 | ereere | ereere |  | [pixiv](https://www.pixiv.net/users/12474236) [X](https://x.com/ereereererere) |
 | lakilolom | らきろろむ |  | [pixiv](https://www.pixiv.net/users/5261554) |
 | akahoshi jake | 赤星ジェイク |  |  |
+| mabanna | マバンナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
