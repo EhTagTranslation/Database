@@ -13023,6 +13023,7 @@ example:
 | akahoshi jake | 赤星ジェイク |  |  |
 | mabanna | マバンナ |  |  |
 | hakonnbu | 歯昆布 |  |  |
+| hanaji sensei | 鼻血先生 |  | [pixiv](https://www.pixiv.net/users/3282857) |
 
 <!--TEMPLATE:
 |  |  |  |  |
