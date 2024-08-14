@@ -11880,7 +11880,7 @@ example:
 | yunoki yu | 柚木ユウ |  |  |
 | yunopanchako | ゆのぱんちゃこ |  |  |
 | yunosuke | ゆのすけ |  |  |
-| yurarin | yurarin |  |  |
+| yurarin | 遊来りん |  |  |
 | yurei | ゆーれー |  |  |
 | yuri kamome | 友梨かもめ |  |  |
 | yuri tamashii | 百合魂 |  |  |
