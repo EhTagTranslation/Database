@@ -13026,6 +13026,7 @@ example:
 | hanaji sensei | 鼻血先生 |  | [pixiv](https://www.pixiv.net/users/3282857) |
 | himajin no izu | 暇人のいず |  |  |
 | huruga yuudai | フルガユウダイ |  |  |
+| kuzumoti | くずもち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
