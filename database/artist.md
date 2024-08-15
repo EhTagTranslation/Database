@@ -10412,7 +10412,7 @@ example:
 | sumeragi yuusuke | 皇裕介 |  |  |
 | sumeshi | すめし |  |  |
 | sumihey | すみ兵 |  |  |
-| sumio | すみおー |  |  |
+| sumio | すみおー |  | [pixiv](https://www.pixiv.net/users/3719089) [X](https://x.com/sumio617) |
 | sumisaki yuduna | 住咲ゆづな |  |  |
 | sumisumi | スミスミ |  |  |
 | sumitomo | すみとも |  |  |
