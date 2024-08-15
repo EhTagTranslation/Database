@@ -13029,6 +13029,7 @@ example:
 | kuzumoti | くずもち |  |  |
 | aizawa uji | 相沢U字 |  |  |
 | atori | あとり |  |  |
+| kurumi nasu | くるみなす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
