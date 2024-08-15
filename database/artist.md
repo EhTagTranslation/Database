@@ -13030,6 +13030,7 @@ example:
 | aizawa uji | 相沢U字 |  |  |
 | atori | あとり |  |  |
 | kurumi nasu | くるみなす |  |  |
+| rioreori | リオレオリ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
