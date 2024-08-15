@@ -13031,6 +13031,7 @@ example:
 | atori | あとり |  |  |
 | kurumi nasu | くるみなす |  |  |
 | rioreori | リオレオリ |  |  |
+| cyberboi | Cyberboi |  | [pixiv](https://www.pixiv.net/users/34199870) [X](https://x.com/CyberBoi14) [Patreon](https://www.patreon.com/cyberboi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
