@@ -2291,6 +2291,7 @@ example:
 | tokidoki bosotto russia-go de dereru tonari no aalya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | 《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/f/f4/Roshidere_chara02.png) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
 | cross core | 交错战线 | 一款机甲科幻题材的二次元风格手游 | [https://www.megagamelog.com/#home](https://www.megagamelog.com/#home) |
 | seitokai ni mo ana wa aru | 脑洞学生会 | 《脑洞学生会》（日语：生徒会にも穴はある！）是由むちまろ创作的一部四格漫画。<br>![](https://img.moegirl.org.cn/common/2/28/脑洞学生会_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/脑洞学生会) |
+| wan sheng jie | 万圣街 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
