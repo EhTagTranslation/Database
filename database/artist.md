@@ -7331,7 +7331,7 @@ example:
 | kuroshiki | 玄式 |  |  |
 | kurosirogurei | 黒白ぐれい |  |  |
 | kurosu | 黒須 |  |  |
-| kurosuke | 黒すけ |  |  |
+| kurosuke | 黒すけ |  | [pixiv](https://www.pixiv.net/users/5704) [X](https://x.com/idomizuya) |
 | kurota | くろた |  |  |
 | kurota nichiru | 黒田にちる |  |  |
 | kurotama | くろたま |  |  |
