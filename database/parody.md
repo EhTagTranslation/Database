@@ -2292,6 +2292,7 @@ example:
 | cross core | 交错战线 | 一款机甲科幻题材的二次元风格手游 | [https://www.megagamelog.com/#home](https://www.megagamelog.com/#home) |
 | seitokai ni mo ana wa aru | 脑洞学生会 | 《脑洞学生会》（日语：生徒会にも穴はある！）是由むちまろ创作的一部四格漫画。<br>![](https://img.moegirl.org.cn/common/2/28/脑洞学生会_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/脑洞学生会) |
 | wan sheng jie | 万圣街 |  |  |
+| make heroine ga oosugiru | 败犬女主太多了！ | 《败犬女主太多了！》（負けヒロインが多すぎる！-マケイン-，又译败北女角太多了！） | [漫画官网][https://urasunday.com/title/1993/181855](https://urasunday.com/title/1993/181855)<br>[动画官网][https://makeine-anime.com/](https://makeine-anime.com/)<br>[维基百科][维基百科](https://zh.wikipedia.org/wiki/敗北女角太多了！)<br>[萌娘百科][萌娘百科](https://zh.moegirl.org.cn/败犬女主也太多了！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
