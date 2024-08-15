@@ -5510,6 +5510,7 @@ example:
 | qingyi | 青衣 | 青衣是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/35/3b/353b3f69cb1332556ab610ab44e4c54ee8c86659-2998411-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青衣) |
 | kinako | 黄豆粉 |  |  |
 | chika komari | 小鞠知花 | 石蕗高中一年级生，温水的同级同学，文艺部部员，性格有点自卑，但长相端正，且身形娇小的腐女 |  |
+| kazuhiko nukumizu | 温水和彦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
