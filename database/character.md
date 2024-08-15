@@ -5512,6 +5512,7 @@ example:
 | chika komari | 小鞠知花 | 石蕗高中一年级生，温水的同级同学，文艺部部员，性格有点自卑，但长相端正，且身形娇小的腐女 |  |
 | kazuhiko nukumizu | 温水和彦 |  |  |
 | fumiya tomozaki | 友崎文也 | 就读关友高中二年级，另一个身份是线上连机对战游戏《AttaFami》全日本第一的玩家“nanashi”。 |  |
+| minami nanami | 七海深奈实 | 关友高中二年级，友崎的同班同学，留着马尾的美少女，班上的现充之一。身高162cm。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
