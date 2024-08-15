@@ -1081,7 +1081,7 @@ example:
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
 | haruhisky | 春日喜欢 | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很想喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [X](https://x.com/haruhisky1) |
-| ichinomiya yuu | 一宫夕羽 |  |  |
+| ichinomiya yuu | 一宮夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [X](https://x.com/Inago1919) [pixiv](https://www.pixiv.net/users/5629962) |
 | maki daikichi | 牧だいきち |  |  |
 | raita | 来太 |  |  |
