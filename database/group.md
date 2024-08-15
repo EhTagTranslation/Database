@@ -12852,6 +12852,7 @@ example:
 | nature carute | 天然養殖 |  |  |
 | crazy brain pulse | くれいじーぶれいんぱるす |  |  |
 | nuts koumuten | ナッツ工務店 |  |  |
+| faunas | ファウナス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
