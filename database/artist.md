@@ -13028,6 +13028,7 @@ example:
 | huruga yuudai | フルガユウダイ |  |  |
 | kuzumoti | くずもち |  |  |
 | aizawa uji | 相沢U字 |  |  |
+| atori | あとり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
