@@ -13032,7 +13032,7 @@ example:
 | kurumi nasu | くるみなす |  |  |
 | rioreori | リオレオリ |  |  |
 | cyberboi | Cyberboi |  | [pixiv](https://www.pixiv.net/users/34199870) [X](https://x.com/CyberBoi14) [Patreon](https://www.patreon.com/cyberboi) |
-| hatome | はとめ | 老师天堂头像↓<br>![](https://pbs.twimg.com/profile_images/1824411184944291840/i44Aoldy_400x400.jpg) | [X](https://x.com/hatomehonpo) [pixiv](https://www.pixiv.net/users/65904984) |
+| hatome | はとめ | 老师推特头像↓<br>![](https://pbs.twimg.com/profile_images/1824411184944291840/i44Aoldy_400x400.jpg) | [X](https://x.com/hatomehonpo) [pixiv](https://www.pixiv.net/users/65904984) |
 
 <!--TEMPLATE:
 |  |  |  |  |
