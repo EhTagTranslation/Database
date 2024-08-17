@@ -12901,7 +12901,7 @@ example:
 | doshima | どうしま |  | [pixiv](https://www.pixiv.net/users/325475) |
 | amatsuji | あまつじ |  | [X](https://x.com/amatuji_) |
 | huyumitsu | ふゆみつ |  | [X](https://x.com/huyumitsu) |
-| yakinikuteishoku | 焼肉定食 |  | [pixiv](https://www.pixiv.net/users/6433123) |
+| yakinikuteishoku | 烧肉定食 |  | [pixiv](https://www.pixiv.net/users/6433123) |
 | hoshisaka ami | 星坂網 |  | [pixiv](https://www.pixiv.net/users/5722222) |
 | pyomaru | ぴょまる |  |  |
 | kinoshita kou | 木ノ下コウ |  | [pixiv](https://www.pixiv.net/users/38052419) |
