@@ -5522,6 +5522,7 @@ example:
 | mariya mikhailovna kujou | 玛利亚·米哈伊罗夫纳·九条 | 比艾莉莎大一岁的姐姐，担任学生会书记。<br>因为身材出众、温柔美丽，在校内的人气很高，被称为“学园的圣母”。不过似乎有男友，所有向她表白的男孩都因此铩羽而归。<br><br>![](https://img.moegirl.org.cn/common/b/bc/Roshidere_chara04.png) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
 | yuki suou | 周防有希 | 周防有希（日语：すおう ゆき）是由灿々SUN所创作的小说《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9c/Yuki_Suou_2.png) | [萌娘百科](https://zh.moegirl.org.cn/周防有希) |
 | ayase mitsukasa | 三司绫濑 | 三司绫濑（日语：三司（みつかさ） あやせ）是柚子社所创作的美少女游戏《RIDDLE JOKER》的登场角色，女主角之一。<br><br>![](https://img.moegirl.org.cn/common/6/61/三司绫濑_角色歌专辑封面.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三司绫濑) |
+| kachina | 卡齐娜 | 卡齐娜是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/25/41/2541152aadad86257259d46809186fbb9aee07cb-1530047-1500-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/卡齐娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
