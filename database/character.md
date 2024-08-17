@@ -5520,6 +5520,7 @@ example:
 | ayano kimishima | 君岛绫乃 | 君島綾乃（日語：きみしま あやの）是由燦々SUN所創作的輕小說《不時輕聲地以俄語遮羞的鄰座艾莉同學》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/thumb/2/2b/动画君岛.png/420px-动画君岛.png) | [萌娘百科](https://zh.moegirl.org.cn/君岛绫乃) |
 | chisaki sarashina | 更科茅咲 | 更科茅咲是由灿々SUN所创作的《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br><br>学生会副会长，剑道部队长。<br>![](https://anibase.net/files/c4c968f2ee3fc1f23cd7c9fa0c2e0c3e/360) | [anibase](https://anibase.net/zh-hans/character/mRJMm/更科茅咲) |
 | mariya mikhailovna kujou | 玛利亚·米哈伊罗夫纳·九条 | 比艾莉莎大一岁的姐姐，担任学生会书记。<br>因为身材出众、温柔美丽，在校内的人气很高，被称为“学园的圣母”。不过似乎有男友，所有向她表白的男孩都因此铩羽而归。<br><br>![](https://img.moegirl.org.cn/common/b/bc/Roshidere_chara04.png) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
+| yuki suou | 周防有希 | 周防有希（日语：すおう ゆき）是由灿々SUN所创作的小说《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9c/Yuki_Suou_2.png) | [萌娘百科](https://zh.moegirl.org.cn/周防有希) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
