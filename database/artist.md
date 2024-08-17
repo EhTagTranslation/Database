@@ -10525,7 +10525,7 @@ example:
 | tahara anco | 田原あんこ |  |  |
 | tahibo | 誰罷慕 |  |  |
 | tai | 泰 |  |  |
-| tai0201 | 帯 |  |  |
+| tai0201 | 楠木帯 |  |  |
 | taiki | 大気 |  |  |
 | taiki ken | 大気KEN |  |  |
 | taikuu jikan | 滞空時間 |  |  |
