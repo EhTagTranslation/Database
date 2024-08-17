@@ -12854,6 +12854,7 @@ example:
 | nuts koumuten | ナッツ工務店 |  |  |
 | faunas | ファウナス |  |  |
 | hatome honpo | はとめ本舗 | はとめ本舗 是 [はとめ](https://x.com/hatomehonpo/media) 老师所在社团名称 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56216.html) |
+| dorayakiza | どらやき座 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
