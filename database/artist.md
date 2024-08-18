@@ -13042,6 +13042,7 @@ example:
 | sinogi asa | しのぎあさ |  | [Twitter](https://x.com/kiratiwawa777) [pixiv](https://www.pixiv.net/users/77009344) |
 | pizza | ぴっつぁ |  | [pixiv](https://www.pixiv.net/users/36808773) [X](https://x.com/Pizzaniacompany) |
 | ijou | Ijou |  | [pixiv](https://www.pixiv.net/users/3013164) [X](https://x.com/aa_Ijou) |
+| yuzu lemon | 柚子れもん |  | [pixiv](https://www.pixiv.net/users/70315180) [X](https://x.com/yuzulemon2891) |
 
 <!--TEMPLATE:
 |  |  |  |  |
