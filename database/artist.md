@@ -2526,7 +2526,7 @@ example:
 | sahara gensei | 佐原玄清 |  |  |
 | hino hino | 緋乃ひの |  |  |
 | tsukuru | 作 |  |  |
-| habara meguru | 羽原メグル |  |  |
+| habara meguru | 羽原メグル |  | [pixiv](https://www.pixiv.net/users/4365678) [X](https://x.com/habarag) |
 | hanabusa satoshi | はなぶささとし |  |  |
 | hado | はあど | ![PixivIcon](https://i.pixiv.cat/user-profile/img/2016/07/08/21/34/39/11171724_f5ab61ef128e088fa086d2f4f6fb84f7_170.png) | [pixiv](https://www.pixiv.net/users/18934609) |
 | takemasa takeshi | 武将武 | ![X](https://pbs.twimg.com/profile_images/1256841879255048192/z8BOUiX-_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/takemasatakeshi) [pixiv](https://www.pixiv.net/users/25111) |
