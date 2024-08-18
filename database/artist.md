@@ -13036,6 +13036,7 @@ example:
 | hayasaka | はやさか |  |  |
 | uraho an | 浦歩あん |  |  |
 | hamachika | はまちか |  | [Twitter](https://x.com/hamagachikai) |
+| yazawa mana | やざわまな |  | [Twitter](https://x.com/yazawa_mana) [pixiv](https://www.pixiv.net/users/26741057) |
 
 <!--TEMPLATE:
 |  |  |  |  |
