@@ -7132,7 +7132,7 @@ example:
 | kotoduki z | 琴月絶人 |  |  |
 | kotoeri iroha | ことえりいろは |  |  |
 | kotogi raura | 虎兎木蘭浦 |  |  |
-| kotojima motoki | 琴島もとき |  |  |
+| kotojima motoki | 琴島もとき |  | [pixiv](https://www.pixiv.net/users/46587) [X](https://x.com/MotokichiSsk) |
 | kotomuke fuurin | 平国風鈴 |  |  |
 | kotono wakako | 琴の若子 |  |  |
 | kotori aiko | コトリアイコ |  |  |
