@@ -13040,6 +13040,7 @@ example:
 | kurosawa karura | 黒澤カルラ |  | [Twitter](https://x.com/karurakurosawa) [pixiv](https://www.pixiv.net/users/32658067) |
 | mokutan | 木炭 |  | [Twitter](https://x.com/hirahatamokutan) [pixiv](https://www.pixiv.net/users/3985613) |
 | sinogi asa | しのぎあさ |  | [Twitter](https://x.com/kiratiwawa777) [pixiv](https://www.pixiv.net/users/77009344) |
+| pizza | ぴっつぁ |  | [pixiv](https://www.pixiv.net/users/36808773) [X](https://x.com/Pizzaniacompany) |
 
 <!--TEMPLATE:
 |  |  |  |  |
