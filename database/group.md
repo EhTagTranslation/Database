@@ -12857,6 +12857,7 @@ example:
 | dorayakiza | どらやき座 |  |  |
 | seinyanko gakuen | 聖にゃんこ学園 |  |  |
 | mana channel | まなちゃんねる |  |  |
+| teiyouryou neko | 低用量ねこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
