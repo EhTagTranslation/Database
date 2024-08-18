@@ -12352,7 +12352,7 @@ example:
 | momoyama hato | モモヤマハト |  |  |
 | inukami inoji | 犬上いの字 |  |  |
 | ichikawa noa | 一河のあ |  |  |
-| mary-san | メリサン |  |  |
+| mary-san | メリサン |  | [pixiv](https://www.pixiv.net/users/10234184) [X](https://x.com/mary_san16) |
 | auman zureedus | オーマンズリーダス |  |  |
 | maeshima shigeki | 前嶋重機 |  |  |
 | nanquanzl | 南拳蟑狼 |  |  |
