@@ -13037,6 +13037,7 @@ example:
 | uraho an | 浦歩あん |  |  |
 | hamachika | はまちか |  | [Twitter](https://x.com/hamagachikai) |
 | yazawa mana | やざわまな |  | [Twitter](https://x.com/yazawa_mana) [pixiv](https://www.pixiv.net/users/26741057) |
+| kurosawa karura | 黒澤カルラ |  | [Twitter](https://x.com/karurakurosawa) [pixiv](https://www.pixiv.net/users/32658067) |
 
 <!--TEMPLATE:
 |  |  |  |  |
