@@ -12860,6 +12860,7 @@ example:
 | teiyouryou neko | 低用量ねこ |  |  |
 | mankai zenseki | 满开全席 |  |  |
 | charcoal tail | Charcoal Tail |  |  |
+| hyper kettle yesterday | ハイパーケトルイエスタデイ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
