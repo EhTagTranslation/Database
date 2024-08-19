@@ -1776,7 +1776,7 @@ example:
 | inazuma | INAZUMA |  |  |
 | tomatto | とまっと |  |  |
 | gabri-l | 雅舞罹-L |  |  |
-| amagaeru | あまがえる |  |  |
+| amagaeru | あまがえる |  | [pixiv](https://www.pixiv.net/users/2306302) [X](https://x.com/Amaga_e_ru) |
 | batta | Batta |  |  |
 | cyocyo | ちょちょ |  |  |
 | emons | えもんず |  |  |
