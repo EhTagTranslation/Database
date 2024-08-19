@@ -211,7 +211,7 @@ example:
 | haruki genia | はるきゲにあ |  |  |
 | ikegami tatsuya | 池上龙矢 |  |  |
 | pony r | ポニーR |  |  |
-| sakura yuu | さくら★ゆう |  |  |
+| sakura yuu | 桜ゆう |  | [pixiv](https://www.pixiv.net/users/70563248) |
 | yan-yam | Yan-Yam |  |  |
 | watanabe kenpo | 渡边宪法 |  |  |
 | kamiya zuzu | 神谷ズズ |  |  |
