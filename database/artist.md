@@ -3699,7 +3699,7 @@ example:
 | gunjou | 群青 |  | [pixiv](https://www.pixiv.net/users/5359885) |
 | takaman | 高馒 | ![X](https://pbs.twimg.com/profile_images/1445279404095991816/HnKxMZOU_400x400.jpg)<br><br>**作者推特头像**<br><br>同人社团`solo play`主笔画师 | [X](https://x.com/vakan12) [pixiv](https://www.pixiv.net/users/2722726) |
 | xiaoxi | 小西0619 |  | [X](https://x.com/xiaoxi_0619) [pixiv](https://www.pixiv.net/users/12218414) [微博](https://weibo.com/u/5241210893) |
-| arimura daikon | 有村大根 |  |  |
+| arimura daikon | 有村大根 | ![X](https://pbs.twimg.com/profile_images/1419196015110807553/yVoxJh3z_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/daikon_am) [pixiv](https://www.pixiv.net/users/15583732) |
 | toyama burin | 遠山ブリン |  |  |
 | tsukai you | 塚井ヨウ | 似乎已封笔<br>![X](https://ehgt.org/4d/07/4d0716b7c1c09632df5366a121d85f92c4f8ea06-56060-373-373-jpg_l.jpg) | [X](https://x.com/bktohs3) [pixiv](https://www.pixiv.net/users/351549) |
 | botan m | 牡丹M |  | [X](https://x.com/botan_emu) |
