@@ -13044,6 +13044,7 @@ example:
 | ijou | Ijou |  | [pixiv](https://www.pixiv.net/users/3013164) [X](https://x.com/aa_Ijou) |
 | yuzu lemon | 柚子れもん |  | [pixiv](https://www.pixiv.net/users/70315180) [X](https://x.com/yuzulemon2891) |
 | ayano val | 絢乃ばる |  |  |
+| akosuke | あこ助 |  | [pixiv](https://www.pixiv.net/users/2626917) [X](https://x.com/akokotoliver) |
 
 <!--TEMPLATE:
 |  |  |  |  |
