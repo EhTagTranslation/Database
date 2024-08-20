@@ -13049,6 +13049,7 @@ example:
 | starraisins | 星レーズン |  |  |
 | bef | お肉が食べたい午前二時 |  |  |
 | mizushima irohasu | 水嶋イロハス |  |  |
+| wolf ameno | 雨野うるふ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
