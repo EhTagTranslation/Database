@@ -12865,6 +12865,7 @@ example:
 | wafuu | わ風 |  |  |
 | unahouse | うなハウス |  |  |
 | shinki sakusei file do m | 新規搾精ファイル・ド・M |  |  |
+| owakari itadaketa darou ka | お解りいただけただろうか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
