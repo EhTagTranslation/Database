@@ -12866,6 +12866,7 @@ example:
 | unahouse | うなハウス |  |  |
 | shinki sakusei file do m | 新規搾精ファイル・ド・M |  |  |
 | owakari itadaketa darou ka | お解りいただけただろうか |  |  |
+| coscoteikoku | こすこ帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
