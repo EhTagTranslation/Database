@@ -10877,7 +10877,7 @@ example:
 | tks | TKS |  |  |
 | tnsk | TNSK |  |  |
 | tobari | とばり |  |  |
-| tobimura | 鳶村 |  |  |
+| tobimura | 鳶村 |  | [pixiv](https://www.pixiv.net/users/15474574) [X](https://x.com/tobimura128) |
 | tobunda jet | 飛ぶんだジェット |  |  |
 | toby | だぶるあーる |  |  |
 | tocky | Tocky |  |  |
