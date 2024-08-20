@@ -2036,7 +2036,7 @@ example:
 | xpray | Xpray |  |  |
 | shika yuno | 椎架ゆの |  |  |
 | azarashi | アザラシ |  |  |
-| syamonabe | シャモナベ |  |  |
+| syamonabe | シャモナベ |  | [pixiv](https://www.pixiv.net/users/5928132) |
 | tyagama | 茶釜 |  |  |
 | tkp | TKP |  |  |
 | yakumo ginjirou | 八云银次郎 |  |  |
