@@ -2294,6 +2294,7 @@ example:
 | wan sheng jie | 万圣街 |  |  |
 | make heroine ga oosugiru | 败犬女主太多了！ | 《败犬女主太多了！》（負けヒロインが多すぎる！-マケイン-，又译败北女角太多了！） | [漫画官网][https://urasunday.com/title/1993/181855](https://urasunday.com/title/1993/181855)<br>[动画官网][https://makeine-anime.com/](https://makeine-anime.com/)<br>[维基百科][维基百科](https://zh.wikipedia.org/wiki/敗北女角太多了！)<br>[萌娘百科][萌娘百科](https://zh.moegirl.org.cn/败犬女主也太多了！) |
 | tokidoki bosotto russia-go de dereru tonari no alya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | 《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/3/35/Roshidere.jpg) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
+| doupo cangqiong | 斗破苍穹 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
