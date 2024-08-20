@@ -8800,7 +8800,7 @@ example:
 | nmi | Nみ |  |  |
 | nno | nno |  |  |
 | no.gomes | NO.ゴメス |  |  |
-| noa | noa |  |  |
+| noa | ノア |  | [pixiv](https://www.pixiv.net/users/5264743) [X](https://x.com/noa1122) |
 | noah | のあ |  |  |
 | nobi nobita | 野火ノビタ | 榎本ナリコ |  |
 | nobita | ノビタ |  |  |
