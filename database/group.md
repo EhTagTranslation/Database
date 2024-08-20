@@ -12862,6 +12862,7 @@ example:
 | charcoal tail | Charcoal Tail |  |  |
 | hyper kettle yesterday | ハイパーケトルイエスタデイ |  |  |
 | sakura mikan hoikuen | 桜みかん保育園 |  | [pixiv](https://www.pixiv.net/users/49890562) |
+| wafuu | わ風 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
