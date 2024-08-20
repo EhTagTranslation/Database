@@ -3076,7 +3076,7 @@ example:
 | ushino naka | うしの菜夏 |  |  |
 | doskoinpo | doskoinpo |  | [X](https://x.com/doskoinpo) [pixiv](https://www.pixiv.net/users/2960920) |
 | rin yuu | リン☆ユウ | ![リン☆ユウ头像](https://i.loli.net/2021/03/15/pwNIo8hZDFGSH9y.jpg) | [X](https://x.com/rin7914) [pixiv](https://www.pixiv.net/users/4754550) |
-| mushi | 小虫 |  | [pixiv](https://www.pixiv.net/users/492107)<br>[X](https://x.com/Mushi024) |
+| mushi | ムシ |  | [pixiv](https://www.pixiv.net/users/492107)<br>[X](https://x.com/Mushi024) |
 | trigger | TRIGGER |  |  |
 | miwabe sakura | みわべさくら |  | [X](https://x.com/sakurapion) [pixiv](https://www.pixiv.net/users/4816744) |
 | shirisensha | 尻戦車 |  | [pixiv](https://www.pixiv.net/users/15238698) |
