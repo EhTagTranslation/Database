@@ -13055,6 +13055,7 @@ example:
 | tikuwa zyousyou | ちくわ丞相 |  | [pixiv](https://www.pixiv.net/users/10149137) [X](https://x.com/tikuwazyousyou) [X(R18)](https://x.com/zyousyour18) |
 | napopasu | ナポパス |  | [Twitter](https://x.com/napopasu) [pixiv](https://www.pixiv.net/users/66447152) |
 | biyon | びよん |  | [Twitter](https://x.com/oko0ge) [pixiv](https://www.pixiv.net/users/2210965) |
+| nago | なご |  | [Twitter](https://x.com/ng_suzuki3) [pixiv](https://www.pixiv.net/artworks/70817958) |
 
 <!--TEMPLATE:
 |  |  |  |  |
