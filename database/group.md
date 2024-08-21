@@ -12875,6 +12875,7 @@ example:
 | oniku ga tabetai gozen niji | お肉が食べたい午前二時 |  |  |
 | yukai mangasha | ゆかいまんが社 |  |  |
 | tsundere ham katsu volcano | ツンデレハムカツボルケーノ |  |  |
+| gekkouchou | 月光帳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
