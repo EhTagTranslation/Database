@@ -13062,6 +13062,7 @@ example:
 | mayuge | まゆげ |  |  |
 | gekkou | 月光 |  |  |
 | tsumiki | ツミキ |  |  |
+| tanakala | タナカラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
