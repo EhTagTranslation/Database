@@ -12877,6 +12877,7 @@ example:
 | tsundere ham katsu volcano | ツンデレハムカツボルケーノ |  |  |
 | gekkouchou | 月光帳 |  |  |
 | tanajou | 棚上 |  |  |
+| maruantei | 丸杏亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
