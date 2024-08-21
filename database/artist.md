@@ -13060,6 +13060,7 @@ example:
 | momonipu | ももにぷ |  | [Twitter](https://x.com/momonipu) [pixiv](https://www.pixiv.net/users/24449776) |
 | hatsuyasumi | はつやすみ |  |  |
 | mayuge | まゆげ |  |  |
+| gekkou | 月光 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
