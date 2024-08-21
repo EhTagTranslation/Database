@@ -5510,7 +5510,7 @@ example:
 | qingyi | 青衣 | 青衣是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/35/3b/353b3f69cb1332556ab610ab44e4c54ee8c86659-2998411-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青衣) |
 | kinako | 黄豆粉 |  |  |
 | chika komari | 小鞠知花 | 石蕗高中一年级生，温水的同级同学，文艺部部员，性格有点自卑，但长相端正，且身形娇小的腐女 |  |
-| kazuhiko nukumizu | 温水和彦 |  |  |
+| kazuhiko nukumizu | 温水和彦 | 温水和彦（日语：温水（ぬくみず） 和彦（かずひこ））是雨森焚火著作、いみぎむる负责插画的轻小说《败犬女主也太多了！》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6d/Nukumizu_Kazuhiko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/温水和彦) |
 | fumiya tomozaki | 友崎文也 | 就读关友高中二年级，另一个身份是线上连机对战游戏《AttaFami》全日本第一的玩家“nanashi”。 |  |
 | minami nanami | 七海深奈实 | 关友高中二年级，友崎的同班同学，留着马尾的美少女，班上的现充之一。身高162cm。 |  |
 | anna yanami | 八奈见杏菜 | 八奈见杏菜（日语：八奈見（やなみ） 杏菜（あんな））是雨森焚火著作、いみぎむる负责插画的轻小说《败犬女主也太多了！》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/0/0d/Yanami_Anna_face.jpg/1920px-Yanami_Anna_face.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
