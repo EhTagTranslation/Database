@@ -12871,6 +12871,7 @@ example:
 | root nanajuugo | √75 |  |  |
 | spangle opera | スパンコールオペラ |  |  |
 | amayadori | 雨宿り |  |  |
+| gesutarte houkai | ゲスタルト崩壊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
