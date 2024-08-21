@@ -5513,7 +5513,7 @@ example:
 | kazuhiko nukumizu | 温水和彦 |  |  |
 | fumiya tomozaki | 友崎文也 | 就读关友高中二年级，另一个身份是线上连机对战游戏《AttaFami》全日本第一的玩家“nanashi”。 |  |
 | minami nanami | 七海深奈实 | 关友高中二年级，友崎的同班同学，留着马尾的美少女，班上的现充之一。身高162cm。 |  |
-| anna yanami | 八奈见杏菜 | 石蕗高中一年级生，温水的同班同学，长相可爱的残念系美少女，爱吃鬼，食量很大，11月29日生日。 |  |
+| anna yanami | 八奈见杏菜 | 八奈见杏菜（日语：八奈見（やなみ） 杏菜（あんな））是雨森焚火著作、いみぎむる负责插画的轻小说《败犬女主也太多了！》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/0/0d/Yanami_Anna_face.jpg/1920px-Yanami_Anna_face.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
 | lemon yakishio | 烧盐柠檬 | 石蕗高中一年级生，温水的同班同学，田径部王牌部员，性格天真烂漫的爽朗系美少女。 |  |
 | kayo hinazuki | 雏月加代 |  |  |
 | changli | 长离 | 长离，游戏《鸣潮》中的角色，今州令尹参事，前明庭中政省长史。<br>长离是终生浴火，总有一日会将己身燃烧殆尽的策士，善于洞察并利用人性引敌入局。作为今汐的老师，她温柔耐心、循循善诱。为达成夙愿，她将自己置身棋局，与时间博弈，也与毁灭博弈。 | [萌娘百科](https://zh.moegirl.org.cn/长离) |
