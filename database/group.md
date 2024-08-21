@@ -12876,6 +12876,7 @@ example:
 | yukai mangasha | ゆかいまんが社 |  |  |
 | tsundere ham katsu volcano | ツンデレハムカツボルケーノ |  |  |
 | gekkouchou | 月光帳 |  |  |
+| tanajou | 棚上 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
