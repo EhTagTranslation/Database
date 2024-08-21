@@ -12872,6 +12872,7 @@ example:
 | spangle opera | スパンコールオペラ |  |  |
 | amayadori | 雨宿り |  |  |
 | gesutarte houkai | ゲスタルト崩壊 |  |  |
+| oniku ga tabetai gozen niji | お肉が食べたい午前二時 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
