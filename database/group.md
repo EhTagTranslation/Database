@@ -12868,6 +12868,7 @@ example:
 | owakari itadaketa darou ka | お解りいただけただろうか |  |  |
 | coscoteikoku | こすこ帝国 |  |  |
 | sugomori. | 巣ごもり。 |  |  |
+| root nanajuugo | √75 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
