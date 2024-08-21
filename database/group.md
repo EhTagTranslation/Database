@@ -12870,6 +12870,7 @@ example:
 | sugomori. | 巣ごもり。 |  |  |
 | root nanajuugo | √75 |  |  |
 | spangle opera | スパンコールオペラ |  |  |
+| amayadori | 雨宿り |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
