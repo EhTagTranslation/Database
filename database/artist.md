@@ -13056,6 +13056,7 @@ example:
 | napopasu | ナポパス |  | [Twitter](https://x.com/napopasu) [pixiv](https://www.pixiv.net/users/66447152) |
 | biyon | びよん |  | [Twitter](https://x.com/oko0ge) [pixiv](https://www.pixiv.net/users/2210965) |
 | nago | なご |  | [Twitter](https://x.com/ng_suzuki3) [pixiv](https://www.pixiv.net/artworks/70817958) |
+| amakasa | 雨かさ |  | [Twitter](https://x.com/cheese_3k) |
 
 <!--TEMPLATE:
 |  |  |  |  |
