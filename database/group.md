@@ -12873,6 +12873,7 @@ example:
 | amayadori | 雨宿り |  |  |
 | gesutarte houkai | ゲスタルト崩壊 |  |  |
 | oniku ga tabetai gozen niji | お肉が食べたい午前二時 |  |  |
+| yukai mangasha | ゆかいまんが社 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
