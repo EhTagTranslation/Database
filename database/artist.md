@@ -13061,6 +13061,7 @@ example:
 | hatsuyasumi | はつやすみ |  |  |
 | mayuge | まゆげ |  |  |
 | gekkou | 月光 |  |  |
+| tsumiki | ツミキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
