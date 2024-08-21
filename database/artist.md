@@ -13053,6 +13053,7 @@ example:
 | hiiragi hiiro | ひいらぎひろ |  |  |
 | fumm tarou | ふむたろう |  | [pixiv](https://www.pixiv.net/users/813051) [X](https://x.com/fumm31051) |
 | tikuwa zyousyou | ちくわ丞相 |  | [pixiv](https://www.pixiv.net/users/10149137) [X](https://x.com/tikuwazyousyou) [X(R18)](https://x.com/zyousyour18) |
+| napopasu | ナポパス |  | [Twitter](https://x.com/napopasu) [pixiv](https://www.pixiv.net/users/66447152) |
 
 <!--TEMPLATE:
 |  |  |  |  |
