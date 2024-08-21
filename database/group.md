@@ -5560,7 +5560,7 @@ example:
 | hellenism | へれニズム |  |  |
 | hellfragrance | ヘルフレグランス |  |  |
 | hello girls | Hello Girls! |  |  |
-| hellter skelter | ヘルタースケルター |  |  |
+| hellter skelter | HELLTER SKELTER |  |  |
 | helmet ga naosemasen | ヘルメットが直せません |  |  |
 | hemelopa | HeMeLoPa |  |  |
 | henderson | HENDERSON |  |  |
