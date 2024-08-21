@@ -13063,6 +13063,7 @@ example:
 | gekkou | 月光 |  |  |
 | tsumiki | ツミキ |  |  |
 | tanakala | タナカラ |  |  |
+| hatsuden pengin | 発電ペンギン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
