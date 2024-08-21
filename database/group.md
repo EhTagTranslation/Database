@@ -12869,6 +12869,7 @@ example:
 | coscoteikoku | こすこ帝国 |  |  |
 | sugomori. | 巣ごもり。 |  |  |
 | root nanajuugo | √75 |  |  |
+| spangle opera | スパンコールオペラ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
