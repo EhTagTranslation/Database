@@ -13059,6 +13059,7 @@ example:
 | amakasa | 雨かさ |  | [Twitter](https://x.com/cheese_3k) |
 | momonipu | ももにぷ |  | [Twitter](https://x.com/momonipu) [pixiv](https://www.pixiv.net/users/24449776) |
 | hatsuyasumi | はつやすみ |  |  |
+| mayuge | まゆげ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
