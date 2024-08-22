@@ -12482,7 +12482,7 @@ example:
 | petanko bokujo | ぺたんこ牧場 |  |  |
 | chanbara kishidan | ちゃんばら騎士団 |  |  |
 | gensou kagetourou | 幻想影燈籠 |  |  |
-| chou rojiura gasshuukoku | 超路地裏合衆国 |  | [BOOTH](https://superbackstates.booth.pm/) |
+| chou rojiura gasshuukoku | 超路地里合众国 |  | [BOOTH](https://superbackstates.booth.pm/) |
 | random footwork | ランダムフットワーク |  |  |
 | chabatake ni haeta takenoko | 茶畑に生えた筍 |  |  |
 | mizuyakinko | 水屋金库 |  |  |
