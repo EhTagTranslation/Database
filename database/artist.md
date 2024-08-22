@@ -13064,6 +13064,7 @@ example:
 | tsumiki | ツミキ |  |  |
 | tanakala | タナカラ |  |  |
 | hatsuden pengin | 発電ペンギン |  |  |
+| novice tori | のーびす鸟 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
