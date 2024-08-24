@@ -5528,6 +5528,7 @@ example:
 | tokiyuki hojo | 北条时行 |  |  |
 | yorishige suwa | 诹访赖重 |  |  |
 | shizuku | 雫 |  |  |
+| the flash | 闪电侠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
