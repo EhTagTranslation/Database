@@ -2295,6 +2295,7 @@ example:
 | make heroine ga oosugiru | 败犬女主太多了！ | 《败犬女主也太多了！》（日语：負けヒロインが多すぎる！）是雨森焚火著作、いみぎむる负责插画、GAGAGA文库所属的轻小说。<br>![](https://img.moegirl.org.cn/common/9/9e/負けヒロインが多すぎる！.jpg) | [漫画官网](https://urasunday.com/title/1993/181855)<br>[动画官网](https://makeine-anime.com/)<br>[维基百科](https://zh.wikipedia.org/wiki/敗北女角太多了！)<br>[萌娘百科](https://zh.moegirl.org.cn/败犬女主也太多了！) |
 | tokidoki bosotto russia-go de dereru tonari no alya-san | 不时轻声地以俄语遮羞的邻座艾莉同学 | 《不时轻声地以俄语遮羞的邻座艾莉同学》（日语：時々ボソッとロシア語でデレる隣のアーリャさん，简称ろしでれ）是由燦々SUN所撰写， ももこ负责插画，KADOKAWA出版的一部小说，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/3/35/Roshidere.jpg) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
 | doupo cangqiong | 斗破苍穹 |  |  |
+| nige jouzu no wakagimi | 擅长逃跑的殿下 | 《擅长逃跑的殿下》(逃げ上手の若君，又译少主溜得快) | [官网地址](https://www.shonenjump.com/j/rensai/nigejozu.html)<br>[维基百科](https://zh.wikipedia.org/wiki/擅長逃跑的殿下)<br>[萌娘百科](https://zh.moegirl.org.cn/擅长逃跑的殿下) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
