@@ -13066,6 +13066,7 @@ example:
 | hatsuden pengin | 発電ペンギン |  |  |
 | novice tori | のーびす鸟 |  |  |
 | dion | DION |  | [pixiv](https://www.pixiv.net/users/92966311) [X](https://x.com/dio_nand) |
+| ricochet | リコシェット |  | [pixiv](https://www.pixiv.net/users/66409778) [X](https://x.com/RIKOSYEGOSUB) |
 
 <!--TEMPLATE:
 |  |  |  |  |
