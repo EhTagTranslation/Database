@@ -12502,7 +12502,7 @@ example:
 | uko | うこ |  | [X](https://x.com/uko_______3) [pixiv](https://www.pixiv.net/users/2990191) |
 | ishimari yuuya | イシマリユウヤ |  | [X](https://x.com/stein_ball) [pixiv](https://www.pixiv.net/users/33097) |
 | mannen junyuuki | 万年授乳期(ジュニー) |  | [X](https://x.com/pai_wa_ii) [pixiv](https://www.pixiv.net/users/15360833) |
-| putama | ぷ玉 |  |  |
+| putama | ぷ玉 |  | [pixiv](https://www.pixiv.net/users/57068482) [X](https://x.com/Putama_P) |
 | waka mochi ta | わかもち太 |  |  |
 | mmchair | MM |  |  |
 | arisugawa kotone | 有栖川琴音 |  |  |
