@@ -5524,6 +5524,7 @@ example:
 | ayase mitsukasa | 三司绫濑 | 三司绫濑（日语：三司（みつかさ） あやせ）是柚子社所创作的美少女游戏《RIDDLE JOKER》的登场角色，女主角之一。<br><br>![](https://img.moegirl.org.cn/common/6/61/三司绫濑_角色歌专辑封面.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三司绫濑) |
 | kachina | 卡齐娜 | 卡齐娜是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/25/41/2541152aadad86257259d46809186fbb9aee07cb-1530047-1500-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/卡齐娜) |
 | niyaniya kyouju | 笑面教授 |  | [pixiv](https://www.pixiv.net/tags/ニヤニヤ教授/artworks) |
+| kojiro nezu | 根津弧次郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
