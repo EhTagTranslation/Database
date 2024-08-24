@@ -5527,6 +5527,7 @@ example:
 | kojiro nezu | 根津弧次郎 |  |  |
 | tokiyuki hojo | 北条时行 |  |  |
 | yorishige suwa | 诹访赖重 |  |  |
+| shizuku | 雫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
