@@ -5525,6 +5525,7 @@ example:
 | kachina | 卡齐娜 | 卡齐娜是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/25/41/2541152aadad86257259d46809186fbb9aee07cb-1530047-1500-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/卡齐娜) |
 | niyaniya kyouju | 笑面教授 |  | [pixiv](https://www.pixiv.net/tags/ニヤニヤ教授/artworks) |
 | kojiro nezu | 根津弧次郎 |  |  |
+| tokiyuki hojo | 北条时行 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
