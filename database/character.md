@@ -5526,6 +5526,7 @@ example:
 | niyaniya kyouju | 笑面教授 |  | [pixiv](https://www.pixiv.net/tags/ニヤニヤ教授/artworks) |
 | kojiro nezu | 根津弧次郎 |  |  |
 | tokiyuki hojo | 北条时行 |  |  |
+| yorishige suwa | 诹访赖重 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
