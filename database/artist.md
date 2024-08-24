@@ -4105,7 +4105,7 @@ example:
 | ana-chan s | 穴ちゃんS |  |  |
 | anachans | 穴ちゃんS |  |  |
 | anago | Anago |  |  |
-| anakuro | あなくろ |  |  |
+| anakuro | あなくろ |  | [pixiv](https://www.pixiv.net/users/1440738) [X](https://x.com/analogkenshi) |
 | anan yutaka | 阿南ゆたか |  |  |
 | anapom | あなぽん |  |  |
 | anchors | Anchors |  |  |
