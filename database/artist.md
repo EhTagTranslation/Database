@@ -7432,7 +7432,7 @@ example:
 | lazuli | らずり |  |  |
 | lbl | LBL |  |  |
 | leaf | Leaf |  |  |
-| leafy | リーフィ |  |  |
+| leafy | リーフィ |  | [pixiv](https://www.pixiv.net/users/8304622) [X](https://x.com/kistuneya) [X(社团)](https://x.com/kitsuneya2) |
 | lee | LEE |  |  |
 | lefleau | ルフレ王 |  |  |
 | lefthand | レフトハンド |  | [pxixv](https://www.pixiv.net/users/15975) |
