@@ -5529,6 +5529,7 @@ example:
 | yorishige suwa | 诹访赖重 |  |  |
 | shizuku | 雫 |  |  |
 | the flash | 闪电侠 |  |  |
+| gentildonna | 贵妇人 | 贵妇人是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ジェンティルドンナ（Gentildonna）。 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/贵妇人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
