@@ -13072,6 +13072,7 @@ example:
 | enishi | えにし |  | [pixiv](https://www.pixiv.net/users/41738951) [X](https://x.com/enishi96) |
 | shikou shiki | 紫紅シキ |  | [Twitter](https://x.com/ShikouShiki) [pixiv](https://www.pixiv.net/users/21918720) |
 | tateyama keita | 館山けーた |  | [Twitter](https://x.com/o4510_9chi9) [FANBOX](https://katayuriyuri.fanbox.cc/) |
+| yamaguchi kyo | 樱井亚矢子 |  | [Twitter](https://x.com/kyo_anzuya) [pixiv](https://www.pixiv.net/users/57001) |
 
 <!--TEMPLATE:
 |  |  |  |  |
