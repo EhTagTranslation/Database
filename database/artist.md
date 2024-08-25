@@ -13068,6 +13068,7 @@ example:
 | dion | DION |  | [pixiv](https://www.pixiv.net/users/92966311) [X](https://x.com/dio_nand) |
 | ricochet | リコシェット |  | [pixiv](https://www.pixiv.net/users/66409778) [X](https://x.com/RIKOSYEGOSUB) |
 | tem10 | Tem10 |  | [pixiv](https://www.pixiv.net/users/10512285) |
+| simao | simao |  | [pixiv](https://www.pixiv.net/users/49759620) [X](https://x.com/x_x36131422) |
 
 <!--TEMPLATE:
 |  |  |  |  |
