@@ -13069,6 +13069,7 @@ example:
 | ricochet | リコシェット |  | [pixiv](https://www.pixiv.net/users/66409778) [X](https://x.com/RIKOSYEGOSUB) |
 | tem10 | Tem10 |  | [pixiv](https://www.pixiv.net/users/10512285) |
 | simao | simao |  | [pixiv](https://www.pixiv.net/users/49759620) [X](https://x.com/x_x36131422) |
+| enishi | えにし |  | [pixiv](https://www.pixiv.net/users/41738951) [X](https://x.com/enishi96) |
 
 <!--TEMPLATE:
 |  |  |  |  |
