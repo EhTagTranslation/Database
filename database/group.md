@@ -12878,6 +12878,7 @@ example:
 | gekkouchou | 月光帳 |  |  |
 | tanajou | 棚上 |  |  |
 | maruantei | 丸杏亭 |  |  |
+| shikoushoku | 嗜好色 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
