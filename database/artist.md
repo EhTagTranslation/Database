@@ -13071,6 +13071,7 @@ example:
 | simao | simao |  | [pixiv](https://www.pixiv.net/users/49759620) [X](https://x.com/x_x36131422) |
 | enishi | えにし |  | [pixiv](https://www.pixiv.net/users/41738951) [X](https://x.com/enishi96) |
 | shikou shiki | 紫紅シキ |  | [Twitter](https://x.com/ShikouShiki) [pixiv](https://www.pixiv.net/users/21918720) |
+| tateyama keita | 館山けーた |  | [Twitter](https://x.com/o4510_9chi9) [FANBOX](https://katayuriyuri.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
