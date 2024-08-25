@@ -12879,6 +12879,7 @@ example:
 | tanajou | 棚上 |  |  |
 | maruantei | 丸杏亭 |  |  |
 | shikoushoku | 嗜好色 |  |  |
+| anzuya | あんず屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
