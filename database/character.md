@@ -5534,6 +5534,7 @@ example:
 | vivlos | 强击 | 强击是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ヴィブロス（Vivlos）。 | [萌娘百科](https://zh.moegirl.org.cn/强击) |
 | oguri cap | 小栗帽 | 小栗帽是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色，漫画《赛马娘 芦毛灰姑娘》的主人公。原型为日本纯血竞赛马匹オグリキャップ（Oguri Cap）。 | [萌娘百科](https://zh.moegirl.org.cn/小栗帽) |
 | kindred | 千珏 | 千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园，而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。至于是哪一面，完全出自个人的抉择。 | [萌娘百科](https://zh.moegirl.org.cn/千珏) |
+| jane doe | 简·杜 | 简·杜是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/c2/88/c2886f518c9b47c97ce4f07e274c32c1c70f5064-3379261-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/简·杜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
