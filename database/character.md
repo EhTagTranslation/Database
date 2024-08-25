@@ -5530,6 +5530,7 @@ example:
 | shizuku | 雫 |  |  |
 | the flash | 闪电侠 |  |  |
 | gentildonna | 贵妇人 | 贵妇人是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ジェンティルドンナ（Gentildonna）。 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/贵妇人) |
+| yamanin zephyr | 也文摄辉 | 也文摄辉是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ヤマニンゼファー（Yamanin Zephyr）。 | [萌娘百科](https://zh.moegirl.org.cn/也文摄辉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
