@@ -12086,7 +12086,7 @@ example:
 | nagatsuki hatsuka | 長月はつか |  | [doujinshi](https://www.doujinshi.org/browse/author/120499/) [X](https://x.com/tk_nagatsuki) |
 | kotobuki haruki | 琴吹はるき |  | [X](https://x.com/kotobuki_haruki) [pixiv](https://www.pixiv.net/users/9632774) |
 | kou kou ax | 口口AX |  | [pixiv](https://www.pixiv.net/users/12364994) |
-| madoka tsukumo | 円つくも |  | [pixiv](https://www.pixiv.net/users/29392312) |
+| madoka tsukumo | 円つくも |  | [pixiv](https://www.pixiv.net/users/29392312) [X](https://x.com/MadoTsuku) |
 | takeda hinata | 武田日向 | 武田日向（1978年8月11日－2017年1月），日本女性漫画家。连背景和小物品都能细致描绘的实力派漫画家。代表作为《可爱动物日记》和日本直木赏作家樱庭一树的系列推理小说《`gosick`》插图版的插画，最后的作品为《`ikoku meiro no croisee`》。 | [维基百科](https://zh.wikipedia.org/wiki/武田日向) [萌娘百科](https://zh.moegirl.org.cn/武田日向) |
 | tsuyuri inu | 栗花落淫雨 |  | [pixiv](https://www.pixiv.net/users/52738094) [X](https://x.com/kurihana0414) |
 | minagi koh | 海凪コウ |  | [X](https://x.com/KOH_Minagi) [pixiv](https://www.pixiv.net/users/1336451) |
