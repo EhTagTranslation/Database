@@ -12336,7 +12336,7 @@ example:
 | sugue tetto | スグエ鉄塔 | a.k.a 鉄塔 | [X](https://x.com/sugue_304)<br>[pixiv](https://www.pixiv.net/users/12741764) |
 | sorayama hajime | 空山基 | 空山基（日语：そらやま はじめ，英语：Hajime Sorayama，1947年2月22日－）是一位日本插画家。1971年，作为自由插画家独立。从那时起，他描绘具情色性和金属质感的女性，以及机械造型的插图，并在世界各地广受好评。他还设计了由索尼开发的娱乐机器人AIBO。 | [维基百科](https://zh.wikipedia.org/wiki/空山基) |
 | hotate-chan | ほたてちゃん |  | [FANBOX](https://hotate0731.fanbox.cc/) |
-| akai same | かふぇいん中毒 |  |  |
+| akai same | かふぇいん中毒 |  | [pixiv](https://www.pixiv.net/users/96636899) [X](https://x.com/caffeine_0128) |
 | takano tomohiro | 高野友宏 | ![X](https://pbs.twimg.com/profile_images/1309454618124931072/sbDuTssb_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`jyuu sensya usagitai`主笔画师 | [X](https://x.com/21karaagebo) [pixiv](https://www.pixiv.net/users/23606858) |
 | ameno shigure | 雨野时雨 | ![X](https://pbs.twimg.com/profile_images/1608795805615542272/uQyEpixr_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ame_shlv) |
 | ushi kousen | 牛工船 | ![X](https://pbs.twimg.com/profile_images/1468739892234448896/8YcNARy3_400x400.jpg)<br><br>**作者推特头像**<br><br>杂志《comic Anthurium》作者 | [X](https://x.com/kaninankotsu) [pixiv](https://www.pixiv.net/users/3048089) |
