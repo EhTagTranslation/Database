@@ -5538,6 +5538,7 @@ example:
 | finana ryugu | 龍宮Finana |  | [萌娘百科](https://zh.moegirl.org.cn/龙宫Finana) |
 | poplar taneshima | 種島白楊 |  | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
 | saki hanami | 花海咲季 | 花海咲季是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a0/花海咲季_1st_Single「Fighting_My_Way」.jpg/800px-花海咲季_1st_Single「Fighting_My_Way」.jpg) | [萌娘百科](https://zh.moegirl.org.cn/花海咲季) |
+| umika satohama | 里浜海香 | 所属作品：`p:blue archive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
