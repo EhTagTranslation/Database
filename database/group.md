@@ -12880,6 +12880,7 @@ example:
 | maruantei | 丸杏亭 |  |  |
 | shikoushoku | 嗜好色 |  |  |
 | anzuya | あんず屋 |  |  |
+| komorebi palette | 木漏れ陽ぱれっと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
