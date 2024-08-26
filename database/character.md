@@ -5539,6 +5539,7 @@ example:
 | poplar taneshima | 種島白楊 |  | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
 | saki hanami | 花海咲季 | 花海咲季是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a0/花海咲季_1st_Single「Fighting_My_Way」.jpg/800px-花海咲季_1st_Single「Fighting_My_Way」.jpg) | [萌娘百科](https://zh.moegirl.org.cn/花海咲季) |
 | umika satohama | 里浜海香 | 所属作品：`p:blue archive` |  |
+| spas-12 | SPAS-12 \| 塞布丽娜 | `p:girls frontline`<br>![](https://gfwiki.org/images/a/ab/Pic_SPAS12_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_SabrinaSSR.png) | [少前百科GFwiki](https://gfwiki.org/w/SPAS-12)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/SabrinaSSR) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
