@@ -13076,6 +13076,7 @@ example:
 | niichi | にいち |  |  |
 | uni piano | 雲丹ピアノ |  |  |
 | isegawa yasutaka | いせぽん |  | [pixiv](https://www.pixiv.net/users/274594) [X(大号)](https://x.com/_nanashina_) [X(小号)](https://x.com/isepom999) |
+| masco | Masco |  | [pixiv](https://www.pixiv.net/users/58076733) [X](https://x.com/masco_xxx) |
 
 <!--TEMPLATE:
 |  |  |  |  |
