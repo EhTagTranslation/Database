@@ -4880,7 +4880,7 @@ example:
 | python | 蟒蛇 | `p:girls frontline` | [https://www.gfwiki.org/w/蟒蛇](https://www.gfwiki.org/w/蟒蛇) |
 | m9 | M9 | `p:girls frontline` | [https://www.gfwiki.org/w/M9](https://www.gfwiki.org/w/M9) |
 | tokarev | 托卡列夫 | `p:girls frontline` | [https://www.gfwiki.org/w/托卡列夫](https://www.gfwiki.org/w/托卡列夫) |
-| stechkin | 斯捷奇金 | `p:girls frontline` | [https://www.gfwiki.org/w/斯捷奇金](https://www.gfwiki.org/w/斯捷奇金) |
+| stechkin | 斯捷奇金 \| 科谢尼娅 | `p:girls frontline`<br>![](https://gfwiki.org/images/0/0b/Pic_APSMod_HD.png)<br>少女前线:云图计划<br>![](https://img.moegirl.org.cn/common/c/c5/云图计划-科谢尼娅-默认投影.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_KseniaSR.png) | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:斯捷奇金)<br>[萌娘百科](https://zh.moegirl.org.cn/科谢尼娅)<br>[少前百科GFwiki](https://www.gfwiki.org/w/斯捷奇金)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/index.php?title=科谢尼娅)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/KseniaSR) |
 | makarov | 马卡洛夫 | `p:girls frontline` | [https://www.gfwiki.org/w/马卡洛夫](https://www.gfwiki.org/w/马卡洛夫) |
 | type 92 | 92式 | `p:girls frontline` | [https://www.gfwiki.org/w/92式](https://www.gfwiki.org/w/92式) |
 | glock 17 | 格洛克17 | `p:girls frontline` | [http://www.gfwiki.org/w/格洛克17](http://www.gfwiki.org/w/格洛克17) |
