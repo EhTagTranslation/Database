@@ -13075,6 +13075,7 @@ example:
 | yamaguchi kyo | 樱井亚矢子 |  | [Twitter](https://x.com/kyo_anzuya) [pixiv](https://www.pixiv.net/users/57001) |
 | niichi | にいち |  |  |
 | uni piano | 雲丹ピアノ |  |  |
+| isegawa yasutaka | いせぽん |  | [pixiv](https://www.pixiv.net/users/274594) [X(大号)](https://x.com/_nanashina_) [X(小号)](https://x.com/isepom999) |
 
 <!--TEMPLATE:
 |  |  |  |  |
