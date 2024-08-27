@@ -3329,7 +3329,7 @@ example:
 | osanpo suisou | おさんぽ水槽 |  | [X](https://x.com/mposui) [pixiv](https://www.pixiv.net/users/42222748) |
 | ohaguro dobu | 御歯黒溝（桜シロウ） | ![图](# "https://ehgt.org/bf/16/bf16a78b7fc923d05c7efa60ee0ae7af9e52d9b1-1779675-2130-3020-jpg_l.jpg") | [X](https://x.com/siro_skr) [pixiv](https://www.pixiv.net/users/5965688) |
 | makio | マキオ |  | [X](https://x.com/nekodaisukimko) |
-| mikaduchi | みかづち |  |  |
+| mikaduchi | みかづち |  | [pixiv](https://www.pixiv.net/users/2689509) [X](https://x.com/ZEUS1858322) |
 | ogu | おぐ | 单行本《おしっこのところでしたいの! 》<br>![图](# "https://ehgt.org/a0/72/a072bfb2ba15df0ca9b3ae6c923c9272b3cd7906-768134-1021-1500-jpg_l.jpg") | [X](https://x.com/Shizzko_Takio) [pixiv](https://www.pixiv.net/users/136937) |
 | 13 | 13 |  | [pixiv](https://www.pixiv.net/users/40255) [X](https://x.com/ichimi_131) |
 | aoki kanji | 青木干治 | 青木幹治为日本的漫画家。居住于日本大阪府。主要在成人向漫画杂志活动。<br><br>单行本《Only You》<br>![图](# "https://ehgt.org/18/a1/18a19ef0672220750efb63df2ae294c70967f1b5-510054-3772-1600-jpg_l.jpg") | [维基百科](https://ja.wikipedia.org/wiki/青木幹治) [X](https://x.com/kanji_a) [pixiv](https://www.pixiv.net/users/941231) |
