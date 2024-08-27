@@ -4851,7 +4851,7 @@ example:
 | beak | 喙 | `p:girls frontline` | [https://www.gfwiki.org/w/喙](https://www.gfwiki.org/w/喙) |
 | k2 | K2 | `p:girls frontline` | [https://www.gfwiki.org/w/K2](https://www.gfwiki.org/w/K2) |
 | g3 | G3 | `p:girls frontline` | [https://www.gfwiki.org/w/G3](https://www.gfwiki.org/w/G3) |
-| g36 | G36 | `p:girls frontline` | [https://www.gfwiki.org/w/G36](https://www.gfwiki.org/w/G36) |
+| g36 | G36 \| 桑朵莱希 | `p:girls frontline`<br>![](https://gfwiki.org/images/d/d3/Pic_G36_HD.png)<br>少女前线:云图计划<br>![](https://img.moegirl.org.cn/common/thumb/b/b9/云图计划-桑朵莱希-扩容投影.png/1000px-云图计划-桑朵莱希-扩容投影.png)<br>桑朵莱希·淬翼<br>![](http://wiki.42lab.cloud/images/6/63/Lpic_centaureissisp.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_CentaureissiSSR.png) | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:G36)<br>[萌娘百科](https://zh.moegirl.org.cn/桑朵莱希)<br>[少前百科GFwiki](https://www.gfwiki.org/w/G36)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/桑朵莱希)<br>[42LAB-云图计划专题百科-桑朵莱希·淬翼](http://wiki.42lab.cloud/w/桑朵莱希·淬翼)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/CentaureissiSSR) |
 | g36c | G36C | `p:girls frontline` | [https://www.gfwiki.org/w/G36C](https://www.gfwiki.org/w/G36C) |
 | eliza | 伊莱莎 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/5/50/Eliza.png) | [少前百科GFwiki](https://www.gfwiki.org/w/伊莱莎) |
 | m1911 | M1911 | `p:girls frontline` | [https://www.gfwiki.org/w/M1911](https://www.gfwiki.org/w/M1911) |
