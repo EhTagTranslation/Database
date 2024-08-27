@@ -4831,7 +4831,7 @@ example:
 | welrod mkii | 维尔德MkⅡ | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
 | ak-12 | AK-12 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-12](https://www.gfwiki.org/w/AK-12) |
 | an-94 | AN-94 | `p:girls frontline` | [https://www.gfwiki.org/w/AN-94](https://www.gfwiki.org/w/AN-94) |
-| kalina | 格琳娜 | `p:girls frontline` | [https://www.gfwiki.org/w/格琳娜](https://www.gfwiki.org/w/格琳娜) |
+| kalina | 格琳娜 | `p:girls frontline`<br>![](https://gfwiki.org/images/e/ef/NPC_Kalina.png) | [https://www.gfwiki.org/w/格琳娜](https://www.gfwiki.org/w/格琳娜) |
 | ump45 | UMP45 | `p:girls frontline` | [https://www.gfwiki.org/w/UMP45](https://www.gfwiki.org/w/UMP45) |
 | vsk-94 | VSK-94 | `p:girls frontline` | [https://www.gfwiki.org/w/VSK-94](https://www.gfwiki.org/w/VSK-94) |
 | g11 | G11 | `p:girls frontline` | [https://www.gfwiki.org/w/G11](https://www.gfwiki.org/w/G11) |
