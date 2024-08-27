@@ -4823,7 +4823,7 @@ example:
 | scarecrow | 稻草人 | `p:girls frontline`铁血工造人形<br>![](https://www.gfwiki.org/images/b/bd/Pic_Scarecrow_LL.png) | [少前百科GFwiki](https://www.gfwiki.org/w/稻草人) |
 | hk416 | HK416 | `p:girls frontline` | [https://www.gfwiki.org/w/HK416](https://www.gfwiki.org/w/HK416) |
 | dsr-50 | DSR-50 | `p:girls frontline` |  |
-| ots-14 | OTs-14 | OTs-14(闪电) `p:girls frontline` | [https://www.gfwiki.org/w/OTs-14](https://www.gfwiki.org/w/OTs-14) |
+| ots-14 | OTs-14 \| 闪电 | `p:girls frontline`<br>![](https://gfwiki.org/images/6/66/Pic_OTs14_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_GrozaSR.png) | [少前百科GFwiki](https://www.gfwiki.org/w/OTs-14)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/GrozaSR) |
 | p90 | P90 | `p:girls frontline` | [https://www.gfwiki.org/w/P90](https://www.gfwiki.org/w/P90) |
 | wa2000 | WA2000 | `p:girls frontline` | [https://www.gfwiki.org/w/WA2000](https://www.gfwiki.org/w/WA2000) |
 | pa-15 | PA-15 | `p:girls frontline`<br>`c:florence` | [https://www.gfwiki.org/w/PA-15](https://www.gfwiki.org/w/PA-15) |
