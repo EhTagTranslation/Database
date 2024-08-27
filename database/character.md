@@ -5541,6 +5541,7 @@ example:
 | umika satohama | 里浜海香 | 所属作品：`p:blue archive` |  |
 | spas-12 | SPAS-12 \| 塞布丽娜 | `p:girls frontline`<br>![](https://gfwiki.org/images/a/ab/Pic_SPAS12_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_SabrinaSSR.png) | [少前百科GFwiki](https://gfwiki.org/w/SPAS-12)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/SabrinaSSR) |
 | ak-alfa | AK-阿尔法(alfa) \| 托洛洛 | `p:girls frontline`<br>![](https://gfwiki.org/images/9/93/Pic_AKAlfa_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_TololoSSR.png) | [少前百科GFwiki](https://gfwiki.org/w/AK-阿尔法)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/TololoSSR) |
+| type 97 | 97式 \| 绛雨 | `p:girls frontline`<br>![](https://gfwiki.org/images/1/11/Pic_97type_HD.png)<br>少女前线:云图计划<br>![](http://wiki.42lab.cloud/images/0/02/Lpic_jiangyu_p2.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_JiangyuSSR.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:97式)<br>[少前百科GFwiki](https://gfwiki.org/w/97式)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/绛雨)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/JiangyuSSR) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
