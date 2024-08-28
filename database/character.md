@@ -5555,6 +5555,7 @@ example:
 | lwmmg | LWMMG \| 拉姆 | `p:girls frontline`<br>![](https://iopwiki.com/images/6/60/LWMMG_costume2.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/wRfZESo4pe4e5mx2AiAkwkTKIIMPj7jrqOLXusWXJwt_LvfGlBiIOPBLsHlNOHuLP-d6G3UtnLSreDucpc1q-O_R79yKv6YcadDuFmVsfzzsg660teb5mCOyelFIRB74L01cTt1Q2c9f-Qim-tkKLg.webp) | [少前百科GFwiki](https://gfwiki.org/w/LWMMG#MOD3)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/拉姆) |
 | qbu-88 | QBU-88 \| 缠枝 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e8/QBU-88.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/FM1Idh6MIToFQ8STWPJO3RgnpMiv2jdUZ3cdbawsfVl-AeBK08OIrtkXmnhMJUJk-b1zTBpyIYPaom8ZbAudxXSqn8ZIRMs8scohXCcJt0HLAhSMOUaLvF7hVxNohMR3uHFW-pxNPGI1zYLD8AOIvA.webp) | [少前百科GFwiki](https://gfwiki.org/w/QBU-88)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/缠枝) |
 | type 64 | 64式 \| 薮春 | `p:girls frontline`<br>![](https://iopwiki.com/images/2/2e/Type_64_costume3.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/-XDXSm4WRRc0DUIyrwypSAQSdvVLNnc5ActQyTFdGfi4UrEaTHJ9HrWdl8yZutnq-HYFfckBk_sMUJzS-9OPBlr2krJcpZj-kfQJGYEyXqOsV7NUqMLQbSgrjDxBwxKa9YWyQU7_J_GEu-2SpoYe7g.webp) | [少前百科GFwiki](https://gfwiki.org/w/64式)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/薮春) |
+| howa type 64 | 64式自 | `p:girls frontline`<br>![](https://iopwiki.com/images/b/bd/Howa_Type_64.png) | [少前百科GFwiki](https://gfwiki.org/w/64式自) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
