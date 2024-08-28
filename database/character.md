@@ -5559,6 +5559,7 @@ example:
 | fnc | FNC \| 巧可 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ec/FNC.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/mVKVZztnmW3faaVda9YXuAofAcqKds78gt99SyYbL0jce05anABMdQpvhPPx9iadMhAYtQvl18HWhWA5Z4-qn-_ou1vbrKPPhs3oNGTxMAUbA5z2fw3VANliFqcq_ZeaLqz3g1ThLu72JPhtz1u-VQ.webp) | [少前百科GFwiki](https://gfwiki.org/w/FNC)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/巧可) |
 | zb-26 | ZB26 | `p:girls frontline`<br>![](https://iopwiki.com/images/3/39/ZB-26.png) | [少前百科GFwiki](https://gfwiki.org/w/ZB26) |
 | zas m21 | Zas M21 | `p:girls frontline`<br>![](https://iopwiki.com/images/4/4e/Zas_M21.png) |  |
+| xm8 | XM8 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/eb/XM8_costume2.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
