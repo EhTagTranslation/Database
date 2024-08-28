@@ -5564,6 +5564,7 @@ example:
 | x95 | X95 | `p:girls frontline`<br>![](https://iopwiki.com/images/7/74/X95.png) |  |
 | vhs | VHS | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ea/VHS.png) |  |
 | sier | 希尔 | `p:girls frontline`<br>人类<br>![](https://iopwiki.com/images/7/78/Character_Profile_Sier.png) |  |
+| thelema nutriscu | 瑟莉姆 | 瑟莉姆是由米哈游制作的游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/瑟莉姆·努特里斯科)<br>[百度百科](https://baike.baidu.com/item/瑟莉姆/64161278)<br>[Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Thelema_Nutriscu)<br>[Fandom](https://honkaiimpact3.fandom.com/wiki/Thelema_Nutriscu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
