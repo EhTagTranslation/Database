@@ -5571,7 +5571,7 @@ example:
 | general liu | 刘氏步枪 | `p:girls frontline`<br>![](https://gfwiki.org/images/3/3f/Pic_GeneralLiu_HD.png) | [少前百科GFwiki](https://gfwiki.org/w/刘氏步枪) |
 | angelica | 安洁莉娅 \| 安琪莉珂 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(简称:安洁莉娅或安洁)<br>人类<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png)<br>`p:gunslinger girl`<br>安琪莉珂(别称:安洁莉卡、安洁丽卡) | [百度百科](https://baike.baidu.com/item/安洁丽卡/4884549?lemmaId=3939051&lemmaTitle=神枪少女&fromModule=lemma_inlink&bk_fr=chain_title&timestamp=1724855087757)<br>[少前百科GFwiki](https://gfwiki.org/w/安洁莉娅)<br>[萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
 | helianthus | 赫丽安图丝 | `p:girls frontline`<br>赫丽安图丝(通称赫丽安)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:赫丽安图丝) |
-| anna viktorovna tsoi | 安娜·维克多洛夫纳·崔 | `p:girls frontline`<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
+| anna viktorovna tsoi | 安娜·维克多洛夫纳·崔 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(通称安洁莉娅或安洁)<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png)<br>`c:angelica`中的安洁莉娅为同一人 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
