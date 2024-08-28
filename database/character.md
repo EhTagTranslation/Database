@@ -5562,6 +5562,7 @@ example:
 | xm8 | XM8 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/eb/XM8_costume2.png) |  |
 | xm3 | XM3 | `p:girls frontline`<br>![](https://iopwiki.com/images/8/8e/XM3_costume1.png) |  |
 | x95 | X95 | `p:girls frontline`<br>![](https://iopwiki.com/images/7/74/X95.png) |  |
+| vhs | VHS | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ea/VHS.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
