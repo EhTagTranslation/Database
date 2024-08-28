@@ -5578,6 +5578,7 @@ example:
 | carcano m9138 | 卡尔卡诺M91/38 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M91/38) |
 | carcano m1891 | 卡尔卡诺M1891 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M1891) |
 | contender | 竞争者 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:竞争者) |
+| dandelion | 丹德莱 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:丹德莱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
