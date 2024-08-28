@@ -5565,6 +5565,7 @@ example:
 | vhs | VHS | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ea/VHS.png) |  |
 | sier | 希尔 | `p:girls frontline`<br>人类<br>![](https://iopwiki.com/images/7/78/Character_Profile_Sier.png) |  |
 | thelema nutriscu | 瑟莉姆 | 瑟莉姆是由米哈游制作的游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/瑟莉姆·努特里斯科)<br>[百度百科](https://baike.baidu.com/item/瑟莉姆/64161278)<br>[Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Thelema_Nutriscu)<br>[Fandom](https://honkaiimpact3.fandom.com/wiki/Thelema_Nutriscu) |
+| songque | 松雀 | 松雀是由米哈游制作的游戏《崩坏3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/松雀)<br>[https://bbs.mihoyo.com/bh3/wiki/content/3509/detail?visit\_device=mobile&bbs\_presentation\_style=no\_header](https://bbs.mihoyo.com/bh3/wiki/content/3509/detail?visit_device=mobile&bbs_presentation_style=no_header)<br>[Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Songque)<br>[Fandom](https://honkaiimpact3.fandom.com/wiki/Songque) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
