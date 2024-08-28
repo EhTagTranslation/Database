@@ -5563,7 +5563,7 @@ example:
 | xm3 | XM3 | `p:girls frontline`<br>![](https://iopwiki.com/images/8/8e/XM3_costume1.png) |  |
 | x95 | X95 | `p:girls frontline`<br>![](https://iopwiki.com/images/7/74/X95.png) |  |
 | vhs | VHS | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ea/VHS.png) |  |
-| sier | 希尔 | `p:girls frontline`<br>![](https://iopwiki.com/images/7/78/Character_Profile_Sier.png) |  |
+| sier | 希尔 | `p:girls frontline`<br>人类<br>![](https://iopwiki.com/images/7/78/Character_Profile_Sier.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
