@@ -5579,6 +5579,7 @@ example:
 | carcano m1891 | 卡尔卡诺M1891 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M1891) |
 | contender | 竞争者 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:竞争者) |
 | dandelion | 丹德莱 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:丹德莱) |
+| type 100 | 樱花 | `p:girls frontline`<br>![](https://iopwiki.com/images/a/ad/Type_100_costume5.png) | [少前百科GFwiki](https://gfwiki.org/w/樱花#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Type_100) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
