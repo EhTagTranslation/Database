@@ -5569,7 +5569,7 @@ example:
 | mei ling | mei ling |  |  |
 | vepley | 维普蕾 | `p:girls frontline`<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_VepleySSR.png) | [少前2Wiki](https://gf2.mcc.wiki/doll/VepleySSR) |
 | general liu | 刘氏步枪 | `p:girls frontline`<br>![](https://gfwiki.org/images/3/3f/Pic_GeneralLiu_HD.png) | [少前百科GFwiki](https://gfwiki.org/w/刘氏步枪) |
-| angelica | 安洁莉娅 \| 安琪莉珂 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(简称:安洁莉娅)<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png)<br>`p:gunslinger girl`<br>安琪莉珂(别称:安洁莉卡、安洁丽卡)<br>[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukLT18irc5wlBGIXPW9F-W7DeNqhpQWMOGBLxMWtajW7AoAeQznLGpMIW1xp8KM\_Scb8&usqp=CAU.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukLT18irc5wlBGIXPW9F-W7DeNqhpQWMOGBLxMWtajW7AoAeQznLGpMIW1xp8KM_Scb8&usqp=CAU.png) | [百度百科](https://baike.baidu.com/item/安洁丽卡/4884549?lemmaId=3939051&lemmaTitle=神枪少女&fromModule=lemma_inlink&bk_fr=chain_title&timestamp=1724855087757) |
+| angelica | 安洁莉娅 \| 安琪莉珂 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(简称:安洁莉娅或安洁)<br>人类<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png)<br>`p:gunslinger girl`<br>安琪莉珂(别称:安洁莉卡、安洁丽卡) | [百度百科](https://baike.baidu.com/item/安洁丽卡/4884549?lemmaId=3939051&lemmaTitle=神枪少女&fromModule=lemma_inlink&bk_fr=chain_title&timestamp=1724855087757)<br>[少前百科GFwiki](https://gfwiki.org/w/安洁莉娅)<br>[萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
