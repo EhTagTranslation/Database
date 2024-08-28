@@ -5549,6 +5549,7 @@ example:
 | makoto hanuma | 羽沼真琴 |  |  |
 | falcon | 隼 \| 莎克拉戈 | `p:girls frontline`<br>![](https://gfwiki.org/images/5/52/Pic_FalconMod.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/smHrp5clmDQefSMbwraB-n3V3RQCf7WYot-A2hiIKqNUkyCwZc9dh8oNdVPoz4vDQ-DUl5OpvFTemqvo7ETUn1zWB7uFYfVHb5zxuz1Qrq3qKHIwN9BaF_-VJ8h-w7N2bXX6xzrz1BpXdkjNP3uHSw.webp) | [少前百科GFwiki](https://gfwiki.org/w/隼#MOD3)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/莎克拉戈) |
 | mg36 | MG36 \| 莉丝 | `p:girls frontline`<br>![](https://gfwiki.org/images/3/33/Pic_MG36_HD.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/ZQM9Rayl8695j-gX2rAP3PGim_m3OxYG2v9l6o8_JGtbkWUCpe-9NWy2Vmsx65Jm8ZNK0gQk80_vi4qT1jCK3WkQ_ejd7SN2nSBomwauPSFlHvvItpyp-eHi4slv1CCLFDsPUWZ3JhR_QmYkbZ2UtQ.webp) | [少前百科GFwiki](https://gfwiki.org/w/MG36)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/莉丝) |
+| idw | IDW \| 贝蒂 | `p:girls frontline`<br>![](https://gfwiki.org/images/9/97/Pic_IDWMod_HD.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/dn6rqHqowAXe2S1q0gyHmrnzJdoVMqrHXX9H3K4JMKzS5lYliOihsW5jpXW8YbCLQcuKhB3GrXgxVVHF7aA5wKgSL9Ir5geHnzrGubJFdvNjkWTsgZmqEYWavBTGsAMmh0TCLBU97XzWIAnHQRisUQ.webp)<br>逆向坍塌:面包房行动<br>![](https://i0.hdslb.com/bfs/archive/a3dfccb5ac826f7d7bd568c9f18e88ab9c35c60f.jpg@480w_270h_1c.png) | [少前百科GFwiki](https://gfwiki.org/w/IDW#MOD3)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/贝蒂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
