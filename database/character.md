@@ -5547,6 +5547,7 @@ example:
 | persicaria | 帕斯卡莉亚 \| 帕斯卡 | `p:girls frontline`<br>帕斯卡莉亚<br>![](https://gfwiki.org/images/6/69/Pic_NPC-Persica_J.png)<br>少女前线:云图计划<br>帕斯卡<br>![](https://patchwiki.biligame.com/images/42lab/f/fd/d24rn7lnkz2ew2fm8zuylfu49hxvbkz.png)<br>帕斯卡·执锋<br>![](https://i.namu.wiki/i/l9fcGn6Ob4FLMmmE6dWsya52W7BQECblLb3CGR9NEFzlflLr0UstUHaE-6ngjAw_Ob8dI7rsvhSmKqUlFJ3R-Z1kkBu6aK9qOGJZxnsHLqYe0sFt6FBZxouhsyuNNqK4VUilgHflZIveD3dLVp67AQ.webp) | [少前百科GFwiki](https://gfwiki.org/w/帕斯卡)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/帕斯卡)<br>[42LAB-云图计划专题百科-帕斯卡·执锋](http://wiki.42lab.cloud/w/帕斯卡·执锋) |
 | g28 | G28 \| 比悠卡 | `p:girls frontline`<br>![](https://gfwiki.org/images/2/2c/Pic_G28_HD.png)<br>少女前线2:追放<br>剧情已登场，比悠卡 | [少前百科GFwiki](https://gfwiki.org/w/G28) |
 | makoto hanuma | 羽沼真琴 |  |  |
+| falcon | 隼 \| 莎克拉戈 | `p:girls frontline`<br>![](https://gfwiki.org/images/5/52/Pic_FalconMod.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/smHrp5clmDQefSMbwraB-n3V3RQCf7WYot-A2hiIKqNUkyCwZc9dh8oNdVPoz4vDQ-DUl5OpvFTemqvo7ETUn1zWB7uFYfVHb5zxuz1Qrq3qKHIwN9BaF_-VJ8h-w7N2bXX6xzrz1BpXdkjNP3uHSw.webp) | [少前百科GFwiki](https://gfwiki.org/w/隼#MOD3)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/莎克拉戈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
