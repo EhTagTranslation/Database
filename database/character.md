@@ -5548,6 +5548,7 @@ example:
 | g28 | G28 \| 比悠卡 | `p:girls frontline`<br>![](https://gfwiki.org/images/2/2c/Pic_G28_HD.png)<br>少女前线2:追放<br>剧情已登场，比悠卡 | [少前百科GFwiki](https://gfwiki.org/w/G28) |
 | makoto hanuma | 羽沼真琴 |  |  |
 | falcon | 隼 \| 莎克拉戈 | `p:girls frontline`<br>![](https://gfwiki.org/images/5/52/Pic_FalconMod.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/smHrp5clmDQefSMbwraB-n3V3RQCf7WYot-A2hiIKqNUkyCwZc9dh8oNdVPoz4vDQ-DUl5OpvFTemqvo7ETUn1zWB7uFYfVHb5zxuz1Qrq3qKHIwN9BaF_-VJ8h-w7N2bXX6xzrz1BpXdkjNP3uHSw.webp) | [少前百科GFwiki](https://gfwiki.org/w/隼#MOD3)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/莎克拉戈) |
+| mg36 | MG36 \| 莉丝 | `p:girls frontline`<br>![](https://gfwiki.org/images/3/33/Pic_MG36_HD.png)<br>少女前线:云图计划<br>![](https://i.namu.wiki/i/ZQM9Rayl8695j-gX2rAP3PGim_m3OxYG2v9l6o8_JGtbkWUCpe-9NWy2Vmsx65Jm8ZNK0gQk80_vi4qT1jCK3WkQ_ejd7SN2nSBomwauPSFlHvvItpyp-eHi4slv1CCLFDsPUWZ3JhR_QmYkbZ2UtQ.webp) | [少前百科GFwiki](https://gfwiki.org/w/MG36)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/莉丝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
