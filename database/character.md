@@ -5560,6 +5560,7 @@ example:
 | zb-26 | ZB26 | `p:girls frontline`<br>![](https://iopwiki.com/images/3/39/ZB-26.png) | [少前百科GFwiki](https://gfwiki.org/w/ZB26) |
 | zas m21 | Zas M21 | `p:girls frontline`<br>![](https://iopwiki.com/images/4/4e/Zas_M21.png) |  |
 | xm8 | XM8 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/eb/XM8_costume2.png) |  |
+| xm3 | XM3 | `p:girls frontline`<br>![](https://iopwiki.com/images/8/8e/XM3_costume1.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
