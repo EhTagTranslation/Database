@@ -5585,6 +5585,7 @@ example:
 | cx4 storm | Cx4 风暴 | `p:girls frontline`<br>![](https://iopwiki.com/images/f/fd/Cx4_Storm.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:Cx4_风暴) |
 | px4 storm | Px4 风暴 | `p:girls frontline`<br>![](https://iopwiki.com/images/3/3f/Px4_Storm_costume5.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:Px4_风暴) |
 | nyto white | 白捏托 | `p:girls frontline`<br>帕拉蒂斯<br>![](https://iopwiki.com/images/0/0d/Nyto_White.png) | [IOP Wiki](https://iopwiki.com/wiki/Nyto_White) |
+| nyto black | 黑捏托 | `p:girls frontline`<br>帕拉蒂斯<br>![](https://iopwiki.com/images/4/42/Nyto_Black.png)<br>![](https://iopwiki.com/images/a/a5/Nyto_Interrogator.png) | [IOP Wiki](https://iopwiki.com/wiki/Nyto_Black) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
