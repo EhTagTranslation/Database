@@ -5588,6 +5588,7 @@ example:
 | nyto black | 黑捏托 | `p:girls frontline`<br>帕拉蒂斯<br>![](https://iopwiki.com/images/4/42/Nyto_Black.png)<br>![](https://iopwiki.com/images/a/a5/Nyto_Interrogator.png) | [IOP Wiki](https://iopwiki.com/wiki/Nyto_Black) |
 | nimogen | 妮莫金 | `p:girls frontline`<br>帕斯蒂斯<br>![](https://iopwiki.com/images/9/9e/Nimogen.png) | [IOP Wiki](https://iopwiki.com/wiki/Nimogen) |
 | mercurows | 墨丘萝丝 | `p:girls frontline`<br>帕斯蒂斯<br>![](https://iopwiki.com/images/7/79/Mercurows.png) | [少前百科GFwiki](https://gfwiki.org/w/墨丘萝丝)<br>[IOP Wiki](https://iopwiki.com/wiki/Mercurows) |
+| lee-enfield | 李-恩菲尔德 | `p:girls frontline`<br>![](https://iopwiki.com/images/c/c5/Lee-Enfield_costume4.png) | [少前百科GFwiki](https://gfwiki.org/w/李·恩菲尔德#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Lee-Enfield) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
