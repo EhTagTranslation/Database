@@ -5596,6 +5596,7 @@ example:
 | honey badger | 蜜獾 | `p:girls frontline`<br>![](https://iopwiki.com/images/0/04/Honey_Badger.png) | [少前百科GFwiki](https://gfwiki.org/w/蜜獾)<br>[IOP Wiki](https://iopwiki.com/wiki/Honey_Badger) |
 | grizzly mkv | 灰熊Mk V | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e0/Grizzly_MkV.png) | [少前百科GFwiki](https://gfwiki.org/w/灰熊MkⅤ)<br>[IOP Wiki](https://iopwiki.com/wiki/Grizzly_MkV) |
 | gepard m1 | 猎豹M1 | `p:girls frontline`<br>![](https://iopwiki.com/images/d/d0/Gepard_M1_costume4.png) | [少前百科GFwiki](https://gfwiki.org/w/猎豹M1)<br>[IOP Wiki](https://iopwiki.com/wiki/Gepard_M1) |
+| galil | 加利尔 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e0/Galil_costume1.png) | [少前百科GFwiki](https://gfwiki.org/w/加利尔#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Galil) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
