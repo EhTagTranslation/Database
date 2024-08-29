@@ -5582,6 +5582,7 @@ example:
 | type 100 | 樱花 | `p:girls frontline`<br>![](https://iopwiki.com/images/a/ad/Type_100_costume5.png) | [少前百科GFwiki](https://gfwiki.org/w/樱花#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Type_100) |
 | gentiane | 简缇娅 | `p:girls frontline`<br>人类<br>![](https://iopwiki.com/images/e/e9/Anime_Gentiane.jpg)<br>![](https://iopwiki.com/images/5/53/Gentiane_Character_Sheet.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:指挥官)<br>[IOP Wiki](https://iopwiki.com/wiki/Gentiane) |
 | ribeyrolles | 利贝罗勒 | `p:girls frontline`<br>![](https://iopwiki.com/images/9/91/Ribeyrolles_costume1.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:利贝罗勒) |
+| cx4 storm | Cx4 风暴 | `p:girls frontline`<br>![](https://iopwiki.com/images/f/fd/Cx4_Storm.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:Cx4_风暴) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
