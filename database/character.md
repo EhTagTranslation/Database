@@ -5591,7 +5591,7 @@ example:
 | lee-enfield | 李-恩菲尔德 | `p:girls frontline`<br>![](https://iopwiki.com/images/c/c5/Lee-Enfield_costume4.png) | [少前百科GFwiki](https://gfwiki.org/w/李·恩菲尔德#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Lee-Enfield) |
 | kolibri | 蜂鸟 | `p:girls frontline`<br>![](https://iopwiki.com/images/3/3e/Kolibri.png) | [少前百科GFwiki](https://gfwiki.org/w/蜂鸟)<br>[IOP Wiki](https://iopwiki.com/wiki/Kolibri) |
 | jericho | 杰里科 | `p:girls frontline`<br>![](https://iopwiki.com/images/a/ae/Jericho.png) | [少前百科GFwiki](https://gfwiki.org/w/杰里科)<br>[IOP Wiki](https://iopwiki.com/wiki/Jericho) |
-| isomer white | 失格异构体 | `p:girls frontline`<br>帕拉蒂斯捏托<br>![](https://iopwiki.com/images/b/b6/Isomer_White.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:失格异构体)<br>[少前百科GFwiki](https://gfwiki.org/w/失格异构体)<br>[IOP Wiki](https://iopwiki.com/wiki/Isomer_White) |
+| isomer white | 失格异构体 | `p:girls frontline`<br>![](https://iopwiki.com/images/b/b6/Isomer_White.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:失格异构体)<br>[少前百科GFwiki](https://gfwiki.org/w/失格异构体)<br>[IOP Wiki](https://iopwiki.com/wiki/Isomer_White) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
