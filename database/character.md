@@ -5590,6 +5590,7 @@ example:
 | mercurows | 墨丘萝丝 | `p:girls frontline`<br>帕斯蒂斯<br>![](https://iopwiki.com/images/7/79/Mercurows.png) | [少前百科GFwiki](https://gfwiki.org/w/墨丘萝丝)<br>[IOP Wiki](https://iopwiki.com/wiki/Mercurows) |
 | lee-enfield | 李-恩菲尔德 | `p:girls frontline`<br>![](https://iopwiki.com/images/c/c5/Lee-Enfield_costume4.png) | [少前百科GFwiki](https://gfwiki.org/w/李·恩菲尔德#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Lee-Enfield) |
 | kolibri | 蜂鸟 | `p:girls frontline`<br>![](https://iopwiki.com/images/3/3e/Kolibri.png) | [少前百科GFwiki](https://gfwiki.org/w/蜂鸟)<br>[IOP Wiki](https://iopwiki.com/wiki/Kolibri) |
+| jericho | 杰里科 | `p:girls frontline`<br>![](https://iopwiki.com/images/a/ae/Jericho.png) | [少前百科GFwiki](https://gfwiki.org/w/杰里科)<br>[IOP Wiki](https://iopwiki.com/wiki/Jericho) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
