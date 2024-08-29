@@ -5054,7 +5054,7 @@ example:
 | rentarou aijou | 爱城恋太郎 | 爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》的男主角。 |  |
 | karane inda | 院田唐音 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
 | hakari hanazono | 花园羽香里 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
-| mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放角色 | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
+| mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放<br>人类<br>![](https://iopwiki.com/images/8/8d/GFL2_Mayling_character_sheet.jpg) | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
 | akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive` |  |
 | kikyou kiryuu | 桐生桔梗 | 所属作品：`p:blue archive` |  |
 | fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和`mococo abyssgard`（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
