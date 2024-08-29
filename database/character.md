@@ -5594,7 +5594,7 @@ example:
 | isomer white | 失格异构体 | `p:girls frontline`<br>![](https://iopwiki.com/images/b/b6/Isomer_White.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:失格异构体)<br>[少前百科GFwiki](https://gfwiki.org/w/失格异构体)<br>[IOP Wiki](https://iopwiki.com/wiki/Isomer_White) |
 | howa type 89 | 89式自 | `p:girls frontline`<br>![](https://iopwiki.com/images/4/4a/Howa_Type_89.png) | [少前百科GFwiki](https://gfwiki.org/w/89式自)<br>[IOP Wiki](https://iopwiki.com/wiki/Howa_Type_89) |
 | honey badger | 蜜獾 | `p:girls frontline`<br>![](https://iopwiki.com/images/0/04/Honey_Badger.png) | [少前百科GFwiki](https://gfwiki.org/w/蜜獾)<br>[IOP Wiki](https://iopwiki.com/wiki/Honey_Badger) |
-| grizzly mkv | 灰熊MkV | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e0/Grizzly_MkV.png) | [少前百科GFwiki](https://gfwiki.org/w/灰熊MkⅤ)<br>[IOP Wiki](https://iopwiki.com/wiki/Grizzly_MkV) |
+| grizzly mkv | 灰熊Mk V | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e0/Grizzly_MkV.png) | [少前百科GFwiki](https://gfwiki.org/w/灰熊MkⅤ)<br>[IOP Wiki](https://iopwiki.com/wiki/Grizzly_MkV) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
