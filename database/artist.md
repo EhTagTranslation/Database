@@ -13080,6 +13080,7 @@ example:
 | amatani haruka | アマタニハルカ |  |  |
 | togami | とがみ | ![推特头像](https://pbs.twimg.com/profile_images/1409050696859537413/rhQk7qc2_400x400.jpg) | [pixiv](https://www.pixiv.net/users/11193158) [X](https://x.com/Togami_80526/media) |
 | mochizuki hall | 望月ハル |  | [pixiv](https://www.pixiv.net/users/3132244) [X](https://x.com/MochiHALL2) |
+| tomozero | トモゼロ |  | [pixiv](https://www.pixiv.net/users/1022437) [X](https://x.com/tmzr_ovo_) |
 
 <!--TEMPLATE:
 |  |  |  |  |
