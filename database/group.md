@@ -12882,6 +12882,7 @@ example:
 | anzuya | あんず屋 |  |  |
 | komorebi palette | 木漏れ陽ぱれっと |  |  |
 | uni piano gakudan | 雲丹ピアノ |  |  |
+| mochi mochi bomb | もちもち爆弾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
