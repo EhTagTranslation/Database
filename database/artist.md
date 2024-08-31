@@ -13082,6 +13082,7 @@ example:
 | mochizuki hall | 望月ハル |  | [pixiv](https://www.pixiv.net/users/3132244) [X](https://x.com/MochiHALL2) |
 | tomozero | トモゼロ |  | [pixiv](https://www.pixiv.net/users/1022437) [X](https://x.com/tmzr_ovo_) |
 | iwami kiyoko | 岩见树代子 |  | [Twitter](https://x.com/okome103) |
+| aoiro 3-gou | 青色3号 |  | [X](https://x.com/aoiro_3_) [pixiv](https://www.pixiv.net/users/327209) |
 
 <!--TEMPLATE:
 |  |  |  |  |
