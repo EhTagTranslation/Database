@@ -13083,6 +13083,7 @@ example:
 | tomozero | トモゼロ |  | [pixiv](https://www.pixiv.net/users/1022437) [X](https://x.com/tmzr_ovo_) |
 | iwami kiyoko | 岩见树代子 |  | [Twitter](https://x.com/okome103) |
 | aoiro 3-gou | 青色3号 |  | [X](https://x.com/aoiro_3_) [pixiv](https://www.pixiv.net/users/327209) |
+| okita yuuho | 冲田有帆 |  | [X](https://x.com/okitayuuho) |
 
 <!--TEMPLATE:
 |  |  |  |  |
