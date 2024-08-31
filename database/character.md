@@ -5599,6 +5599,7 @@ example:
 | galil | 加利尔 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e0/Galil_costume1.png) | [少前百科GFwiki](https://gfwiki.org/w/加利尔#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Galil) |
 | bren | 布伦 | `p:girls frontline`<br>![](https://iopwiki.com/images/2/27/Bren_costume1.png) | [少前百科GFwiki](https://gfwiki.org/w/布伦#MOD3)<br>[IOP Wiki](https://iopwiki.com/wiki/Bren) |
 | aug para | AUG SMG | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e3/AUG_Para.png) | [少前百科GFwiki](https://gfwiki.org/w/AUG_SMG)<br>[IOP Wiki](https://iopwiki.com/wiki/AUG_Para) |
+| raora panthera | 拉欧拉·潘特拉 | 拉欧拉·潘特拉（英语：Raora Panthera，日语：ラオーラ・パンテーラ）是一名于2024年6月19日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -正义-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉欧拉·潘特拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
