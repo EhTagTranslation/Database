@@ -12404,7 +12404,7 @@ example:
 | mutou tetsu | 武藤铁 |  |  |
 | agachi | あがち |  |  |
 | shiina shinya | 椎名深夜 |  |  |
-| touketsu | 卜ウケツ |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[X](https://x.com/two_ketsu) |
+| touketsu | トウケツ |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[X](https://x.com/two_ketsu) |
 | hoshina meito | 星名めいと | 曾用名`a:meito`<br>![](https://i.pixiv.cat/user-profile/img/2020/07/27/04/32/03/19062569_5455de1a91688c8b64e493b5057d7053_170.png) | [pixiv](https://www.pixiv.net/users/6843920)<br>[X](https://x.com/meito_67)<br>[Fantia](https://fantia.jp/fanclubs/12372) |
 | nanonanno | なのなんの |  | [pixiv](https://www.pixiv.net/users/52362501)<br>[X](https://x.com/nanonanno18) |
 | kuroseimu | クロセイム |  |  |
