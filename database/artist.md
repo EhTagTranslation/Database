@@ -13086,6 +13086,7 @@ example:
 | okita yuuho | 冲田有帆 |  | [X](https://x.com/okitayuuho) |
 | tsukushi haru | 筑紫はる |  | [X](https://x.com/tsukushi_haru_) [pixiv](https://www.pixiv.net/users/41943145) |
 | shiinyan | しいにゃん |  | [X](https://x.com/shiinyan417one2) [pixiv](https://www.pixiv.net/users/3264072) |
+| geboku kazuaki | げぼくカズアキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
