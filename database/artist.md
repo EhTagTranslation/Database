@@ -2852,7 +2852,7 @@ example:
 | mikoma sanagi | 美驹沙名希 | ![X](https://pbs.twimg.com/profile_images/414430107076268034/S6pi6bZd_400x400.png)<br><br>**作者推特头像**<br><br>同人社团`izumiya`主笔画师 | [X](https://x.com/MiKomaSanagi) [pixiv](https://www.pixiv.net/users/4365631) |
 | nanashiki fuka | 七色風香 |  | [X](https://x.com/nanashikifuka) [pixiv](https://www.pixiv.net/users/9852678) |
 | ashita | アシタ |  | [X](https://x.com/ast_2017) |
-| midorinocha | みどりのちゃ |  | [X](https://x.com/Midorinocha) [pixiv](https://www.pixiv.net/users/80830) |
+| midorinocha | みどりのちや |  | [X](https://x.com/Midorinocha) [pixiv](https://www.pixiv.net/users/80830) |
 | tsurukawa yashiro | 鶴川社 |  | [X](https://x.com/Nullgame846) [pixiv](https://www.pixiv.net/users/17041975) |
 | samizu gumi | さみずぐみ |  | [X](https://x.com/gelatin_yeah) [pixiv](https://www.pixiv.net/users/323052) |
 | seijin | せーじん |  | [X](https://x.com/ssm_seijin) [pixiv](https://www.pixiv.net/users/1684223) |
