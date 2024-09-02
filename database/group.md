@@ -12883,6 +12883,7 @@ example:
 | komorebi palette | 木漏れ陽ぱれっと |  |  |
 | uni piano gakudan | 雲丹ピアノ |  |  |
 | mochi mochi bomb | もちもち爆弾 |  |  |
+| ogura nougyou | 小倉農業 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
