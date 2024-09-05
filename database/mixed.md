@@ -75,10 +75,12 @@ example:
 | shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
 | ttm threesome | 扶扶男3P | ⚥♂⚥，2 扶 1 男 3P。需要`group`标签。不算`yaoi`。 |  |
 | twins | 双胞胎 | 双胞胎与第三者或双胞胎间性交。可能是`group`。 |  |
-|  | == 上下文 == |  |  |
+|  | == Contextual == | == 上下文 == |  |
 |  | === 上下文 > 亲属 === |  |  |
 | incest | 乱伦 | 亲属之间的性行为，包括无血缘关系的人。 |  |
 | inseki | 姻亲 | 无血缘关系的亲属之间的性行为。需要`incest`标签。 |  |
+|  | == Low Presence == | == 低存在 == |  |
+| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
 
 <!--
 Template: 

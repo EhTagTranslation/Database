@@ -327,8 +327,9 @@ example:
 | nipple fuck | 乳穴性交 | 将阴茎/玩具通过乳头插入乳房。不应与`paizuri`混淆。 |  |
 | nipple piercing | 乳头穿孔 | 位于乳头或乳晕上的穿孔。需要`piercing`，不应与`clamp`混淆。 |  |
 | nipple stimulation | 乳头刺激 | 刺激乳头（如用手指、性玩具或工具挤压或摩擦乳头）。<br>不应标记为`breast feeding`。 |  |
-|  | == 躯干 == |  |  |
+|  | == Torso == | == 躯干 == |  |
 | cumflation | 精液膨胀 | 胃部由于充满精液而像气球一样向外扩展。需要`inflation`标签。不应与`pregnant`、`stomach deformation`或`weight gain`相混淆。 |  |
+| navel birth | 肚脐出产 | 生物通过肚脐分娩。通常发生在`pregnant`之后。图库只需要包含一张这种性质的图片就需要打上此标签。不应用于`eggs`。 |  |
 | navel fuck | 肚脐奸 | 插入肚脐。 |  |
 | pregnant | 怀孕 | 涉及明显怀孕的参与者的性活动或裸体。也允许在非色情图库中用于视觉上怀孕的人。记住存在规则(presence rule)。如果仅在故事的最后几页显示某人怀孕，则不应对其进行标记，也不应使用它来代替`impregnation`。<br>![怀孕的男孩子](https://ehgt.org/6c/4f/6c4f880efb12f8390ada92ee9cf8cafa4318912d-1576847-1977-1400-jpg_l.jpg)![图](# "https://ehgt.org/09/d3/09d30092661171fa6ac94312f92b7138d1841fe9-2217337-1724-2453-jpg_l.jpg")![图](# "https://ehgt.org/e5/2c/e52c2c22e5b83a9256cae5ae9a8c8d81aa29fb2d-1491910-1680-1680-png_l.jpg") |  |
 | stomach deformation | 腹部变形 | 固体从腹内向外推压，并出现一个可见突起。通常由`large insertions`或者`big penis`引起。<br>![胃部变型](# "https://ehgt.org/6d/31/6d315c58e72ac24279c4a89ae783f177b0f222a6-226565-850-1199-jpg_250.jpg")![图](# "https://ehgt.org/d6/43/d643ca00b7aea8c841f14c372909dbeffeffd409-1595458-2098-3000-jpg_l.jpg") |  |
@@ -546,8 +547,10 @@ example:
 |  | scat insertion粪便插入 | 描写粪便正在或已经插入口腔或肛门以外的孔道。<br>需要`scat`标签。 |  |
 | sweating | 出汗 | 可见的出汗。不应与`bukkake`或`oil`混淆。 |  |
 | urination | 排尿 | 尿尿。是`piss drinking`的前置标签。 |  |
-|  | == 强迫 == |  |  |
+|  | == Force == | == 强迫 == |  |
+| blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
 | chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 |  |
+| confinement | 监禁 | 一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。 |  |
 | rape | 强奸 | 强迫或非自愿性行为。 |  |
 |  | === 强迫 > 虐待 === |  |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
@@ -606,8 +609,7 @@ example:
 |  | == 技术 == |  |  |
 | first person perspective | 第一人称视角 | 透过角色的眼睛观察。 |  |
 | x-ray | 透视 | 内部器官通过皮肤或从内部可见。<br>![图](# "https://ehgt.org/a0/81/a0819f63c83f90fab00cbac9e94497cdd7a6fe49-1292852-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg")![图](# "https://ehgt.org/c9/b1/c9b1daa9ad849b7a3c1e77e44fc65809a21e734c-668677-1920-2720-jpg_l.jpg") |  |
-|  | == 上下文 == |  |  |
-| blackmail | 要挟 | 通过威胁或披露信息迫使他人提供性爱的行为。 |  |
+|  | == Contextual == | == 上下文 == |  |
 | coach | 教练 | 身体训练的指导者。 |  |
 | impregnation | 受孕 | `pregnant`的过程。 |  |
 | mesugaki | 雄小鬼 | オスガキ，`f:mesugaki`的男性版本。需要`shotacon`标签。 |  |
@@ -620,7 +622,7 @@ example:
 | widower | 鳏夫 | `widow`的男性版本。 |  |
 | yandere | 病娇 | 动机来自于强迫的爱的精神病的行为。包括骚扰或劫持感兴趣的人；恐吓或伤害感知到的对手。如果有任何性活动，此人必须直接参与其中。 |  |
 | yaoi | 男同 | やおい，至少两个男性之间的性行为。<br>![例：夏目友人帳同人](# "https://ehgt.org/0d/90/0d908ce865720a1c4b04a114ea4807cdc31080f5-188031-776-1100-jpg_250.jpg") |  |
-|  | === 上下文 > 全图库 === |  |  |
+|  | === Contextual > Gallery-Wide === | === 上下文 > 全图库 === |  |
 | males only | 纯男性⚣ | 在图库中的所有性行为、迷恋或亲密的性交互之间都严格限定为男性。要求至少两个男性进行交互。`cuntboy`不算在内。<br>![例：黒執事同人](# "https://ehgt.org/0d/43/0d4360e87c36a348a2ac55e6c6d4345ff43239a6-566081-1132-1600-jpg_250.jpg") |  |
 | pussyboys only | 纯扶他 | 在图库中的所有性行为、迷恋或亲密的性交互之间都严格限定为`cuntboy`或`otokofutanari`。要求至少两个扶他进行交互。 |  |
 | sole male | 单男主 | 只有一个男性参与了整个图库的所有性爱或恋物癖活动。`cuntboy`不算在内。 |  |
@@ -645,13 +647,14 @@ example:
 | hidden sex | 隐蔽性交 | 性行为发生在第三方的面前，但不被看见。 |  |
 | humiliation | 屈辱 | 在未参与的观众面前，以性方式非正当地侮辱人。 |  |
 | voyeurism | 偷窥 | 对从事性行为（也包括脱衣和如厕）的人进行偷窥。 |  |
-|  | == 低存在 == |  |  |
+|  | == Low Presence == | == 低存在 == |  |
 | low bestiality | 低存在兽交 | 表示`bestiality`的情况没有通过存在规则(presence rule)。需要`bestiality`标签。 |  |
 | low guro | 低存在猎奇 | 表示`guro`的情况没有通过存在规则(presence rule)。需要`guro`标签。 |  |
+| low incest | 低存在乱伦 | 表示`incest`的情况没有通过存在规则(presence rule)。需要`incest`标签。 |  |
 | low scat | 低存在排便 | 表示`scat`的情况没有通过存在规则(presence rule)。需要`scat`标签。 |  |
 | low shotacon | 低存在正太 | 表示`shotacon`的情况没有通过存在规则(presence rule)。需要`shotacon`标签。 |  |
 | low smegma | 低存在阴垢 | 表示`smegma`的情况没有通过存在规则(presence rule)。需要`smegma`标签。 |  |
-|  | == 高存在 == |  |  |
+|  | == High Presence == | == 高存在 == |  |
 | focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
