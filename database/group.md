@@ -6824,7 +6824,6 @@ example:
 | koropot | ころぽっと |  |  |
 | kororofu | コロロフ |  |  |
 | koruri-ya | こるり屋 |  |  |
-| kosuko teikoku | こすこ帝国 |  |  |
 | kosuru buta | こする豚 |  |  |
 | kotacyuya | こたちゅ屋 |  |  |
 | kotake souhonke | 小武総本家 |  |  |
@@ -10475,7 +10474,7 @@ example:
 | silver bullet | Silver Bullet |  |  |
 | silver way | 銀色宇宙(仮) |  |  |
 | silverfox | 銀狐 |  |  |
-| silverrice | シルバーライス |  |  |
+| silver rice | シルバーライス |  |  |
 | silverstone | SilverStone |  |  |
 | simasima system | しましましすてむ |  |  |
 | simfrill | シンプリル |  |  |

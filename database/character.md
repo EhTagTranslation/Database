@@ -2817,7 +2817,7 @@ example:
 | kudryavka noumi | 能美·库特莉亚芙卡 | ![](https://p.sda1.dev/5/faba7b5140c150f9540c80cb1c0eb9c8/character8_main_img.png) | [萌娘百科](https://zh.moegirl.org.cn/能美库特莉亚芙卡) |
 | yuuko shionji | 紫苑寺有子 |  | [萌娘百科](https://zh.moegirl.org.cn/紫苑寺有子) |
 | narumi fujishima | 藤岛鸣海 |  |  |
-| sister cleaire | 修女克蕾雅 |  |  |
+| sister claire | 修女克蕾雅 |  |  |
 | momo chiyoda | 千代田桃 |  |  |
 | yuko yoshida | 吉田优子 |  |  |
 | reines el-melloi archisorte | 莱妮丝·埃尔梅罗·阿奇佐尔缇 |  |  |

@@ -4911,7 +4911,7 @@ example:
 | donan | どなん |  |  |
 | donburako | 丼ﾌﾞﾗｺ |  |  |
 | donburi | 丼 |  |  |
-| done | どね |  |  |
+| babalilo | ばばりろ | どね |  |
 | donguri | 団栗 |  |  |
 | donkey | DONKEY |  |  |
 | donki | どんき |  |  |
@@ -9574,7 +9574,7 @@ example:
 | ruratto | るらっと |  |  |
 | ruri erika | 瑠璃えりか |  |  |
 | ruri rarako | 瑠璃ららこ |  |  |
-| ruri tsubame | 瑠璃燕 |  |  |
+| rurien | 瑠璃燕 |  |  |
 | rurimaru | 瑠璃丸 |  |  |
 | ruroo | るろお |  |  |
 | rururu | 流×3♪ |  |  |
