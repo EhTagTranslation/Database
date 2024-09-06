@@ -2296,6 +2296,7 @@ example:
 | doupo cangqiong | 斗破苍穹 |  |  |
 | nige jouzu no wakagimi | 擅长逃跑的殿下 | 《擅长逃跑的殿下》(逃げ上手の若君，又译少主溜得快) | [官网地址](https://www.shonenjump.com/j/rensai/nigejozu.html)<br>[维基百科](https://zh.wikipedia.org/wiki/擅長逃跑的殿下)<br>[萌娘百科](https://zh.moegirl.org.cn/擅长逃跑的殿下) |
 | the flash | 闪电侠 |  |  |
+| wonderful precure | 美妙宠物 光之美少女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
