@@ -12501,7 +12501,7 @@ example:
 | kakuzatou | 角砂糖 |  |  |
 | gyuunyuu shoujo seisakusho | 牛乳少女制作所 |  |  |
 | abukumadou | 阿武隈堂 |  |  |
-| hakutamayu | 白玉汤 |  | [pixiv](https://www.pixiv.net/users/10454319)<br>[X](https://x.com/WAMH5248) |
+| hakutamayu | 白玉汤 | エロ漫画描いてます！ 『俺の上京性生活』などなど！ | [pixiv](https://www.pixiv.net/users/10454319)<br>[X](https://x.com/WAMH5248) |
 | nodomaru biyori | のどまる日和 |  |  |
 | itabira yasai | イタビラ野菜 |  |  |
 | maria planet | マリアプラネット |  |  |
