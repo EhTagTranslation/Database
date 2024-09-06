@@ -13088,6 +13088,7 @@ example:
 | shiinyan | しいにゃん |  | [X](https://x.com/shiinyan417one2) [pixiv](https://www.pixiv.net/users/3264072) |
 | geboku kazuaki | げぼくカズアキ |  |  |
 | momota tetsu | 桃田テツ |  |  |
+| nise neko | 偽猫 | 东方project同人作者。 | [X](https://x.com/niseneko21)<br>[pixiv](https://www.pixiv.net/users/1705403) |
 
 <!--TEMPLATE:
 |  |  |  |  |
