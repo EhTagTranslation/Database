@@ -12373,7 +12373,7 @@ example:
 | omusubi korori | 緒結ころり |  |  |
 | memeyu | めめゆ |  |  |
 | yoki kana | 斧カナ |  |  |
-| masuda miyaka | 枠田ちさき | ![X](https://pbs.twimg.com/profile_images/1373709940196397059/G7JkQgaq_400x400.jpg)<br><br>**作者推特头像**<br><br>枠田ちさき(wakuta chisaki)与増田ミヤカ(masuda miyaka)非同一作者，ehwiki分类有误。 | [X](https://x.com/WakutaChisaki) [pixiv](https://www.pixiv.net/users/3444572) |
+| masuda miyaka | 枠田ちさき | ![X](https://pbs.twimg.com/profile_images/1824476860157399042/MEmjIH_M_400x400.jpg)<br><br>**作者推特头像**<br><br>枠田ちさき(wakuta chisaki)与増田ミヤカ(masuda miyaka)非同一作者，ehwiki分类有误。 | [X](https://x.com/WakutaChisaki) [pixiv](https://www.pixiv.net/users/3444572) |
 | arima zin | 有马侭 | ![X](https://pbs.twimg.com/profile_images/1414471320104935427/DvAdBhYf_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/arimazin1) [pixiv](https://www.pixiv.net/users/70681466) |
 | silver dog | シルバードッグ |  |  |
 | shihira tatsuya | 四平龙也 |  |  |
