@@ -5601,6 +5601,7 @@ example:
 | aug para | AUG SMG | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e3/AUG_Para.png) | [少前百科GFwiki](https://gfwiki.org/w/AUG_SMG)<br>[IOP Wiki](https://iopwiki.com/wiki/AUG_Para) |
 | raora panthera | 拉欧拉·潘特拉 | 拉欧拉·潘特拉（英语：Raora Panthera，日语：ラオーラ・パンテーラ）是一名于2024年6月19日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -正义-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉欧拉·潘特拉) |
 | niyah | 尼娅 | 异度之刃2角色<br>[萌娘百科](https://zh.moegirl.org.cn/尼娅%28异度神剑%29) |  |
+| ichijou ririka | 一条莉々華 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
