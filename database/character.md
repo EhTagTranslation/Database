@@ -5618,6 +5618,7 @@ example:
 | kanon konomori | 小之森夏音 | ![小之森夏音](https://lain.bgm.tv/pic/crt/l/d0/27/68237_crt_Zy4is.jpg?r=1551084625) |  |
 | kinako nanobana | 菜花黄名子 | ![](https://i.pixiv.cat/c/600x600/img-master/img/2013/01/11/00/33/42/32778460_p0_master1200.jpg) |  |
 | lulu | 仙灵女巫 (璐璐) | ![](https://game.gtimg.cn/images/lol/act/img/skin/big_84aa3898-f8fb-408f-88be-d2fb0ea5f7b3.jpg) |  |
+| koyori tanemura | 种村小依 | ![种村小依](https://lain.bgm.tv/pic/crt/l/aa/4b/68236_crt_4b62b.jpg?r=1547003421) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
