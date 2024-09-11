@@ -5617,6 +5617,7 @@ example:
 | d killer wife | D:杀手妻子 | ![D:杀手妻子立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2024/2/11/395283.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>为了取得目标的情报，D伪装成年轻妻子。<br>完美演绎了温柔贤淑的妻子角色。 | [Gamekee](https://www.gamekee.com/nikke/616356.html) [DotGG](https://dotgg.gg/nikke/characters/d-killer-wife) |
 | kanon konomori | 小之森夏音 | ![小之森夏音](https://lain.bgm.tv/pic/crt/l/d0/27/68237_crt_Zy4is.jpg?r=1551084625) |  |
 | kinako nanobana | 种村小依 | ![种村小依](https://lain.bgm.tv/pic/crt/l/aa/4b/68236_crt_4b62b.jpg?r=1547003421) |  |
+| lulu | 仙灵女巫 (璐璐) | ![](https://game.gtimg.cn/images/lol/act/img/skin/big_84aa3898-f8fb-408f-88be-d2fb0ea5f7b3.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
