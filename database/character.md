@@ -5610,6 +5610,7 @@ example:
 | crown | 皇冠 | ![皇冠立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2024/3/29/734658.png)<br>《胜利女神：妮姬》游戏角色，隶属企业：朝圣者<br>隶属于白骑士部队的朝圣者。自称为国王，正在招募王国的臣民。她的目标是实现臣民的愿望。 | [Gamekee](https://www.gamekee.com/nikke/621270.html) [DotGG](https://dotgg.gg/nikke/characters/crown) |
 | red hood | 小红帽 | ![小红帽立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2023/10/6/5338.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>最晚加入女神部队的童话型号。喜欢听老音乐、个性豪爽的妮姬。她的红色头发，红色围巾，红色外套让人印象深刻。 | [Gamekee](https://www.gamekee.com/nikke/604398.html) [DotGG](https://dotgg.gg/nikke/characters/red-hood) |
 | viper | 毒蛇 | ![毒蛇立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/257919/2023/0/10/267483.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>外来者部队的军师。<br>凭藉三寸不烂之舌和美色，将外缘区的所有人都玩弄于股掌之中。 | [Gamekee](https://www.gamekee.com/nikke/580714.html) [DotGG](https://dotgg.gg/nikke/characters/viper) |
+| neon | 尼恩 | ![尼恩立绘](https://static.dotgg.gg/nikke/characters/c011_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>为火力而生，为火力而死，这个时代真正的火力狂人。<br>隶属于反击部队，她是间谍这件事已经成了众所周知的秘密。 | [Gamekee](https://www.gamekee.com/nikke/92084.html) [DotGG](https://dotgg.gg/nikke/characters/neon) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
