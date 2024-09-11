@@ -5604,7 +5604,7 @@ example:
 | ichijou ririka | 一条莉々華 |  |  |
 | crow | 克拉乌 | 外来者部队的队长。<br>来自混乱的外缘区。<br>冷静外表下隐藏着疯狂的一面，就像一颗不定时炸弹，随时可能会爆炸。 | [Gamekee][https://www.gamekee.com/nikke/163879.html](https://www.gamekee.com/nikke/163879.html)<br>[DotGG][https://dotgg.gg/nikke/characters/crow](https://dotgg.gg/nikke/characters/crow) |
 | rapi | 拉毗 | 稳重的【问题少女】，总是为【什么是妮姬】而苦恼。<br>作为隶属于反击部队的妮姬，早已在充满个性的队友中占据中心位置。 | [Gamekee][https://www.gamekee.com/nikke/92082.html](https://www.gamekee.com/nikke/92082.html)<br>[DotGG][https://dotgg.gg/nikke/characters/rapi](https://dotgg.gg/nikke/characters/rapi) |
-| anis | 阿妮斯 | ![阿妮斯立绘]![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_419/h_881/1253/57/2022/7/5/181289.png)<br>在绝望的世界中，深谙生存之道的少女。<br>和不苟言笑的拉毗与性格跳脱的尼恩一样，是活跃反击部队气氛的成员。 | 在绝望的世界中，深谙生存之道的少女。<br>和不苟言笑的拉毗与性格跳脱的尼恩一样，是活跃反击部队气氛的成员。 |
+| anis | 阿妮斯 | ![阿妮斯立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_419/h_881/1253/57/2022/7/5/181289.png)<br>在绝望的世界中，深谙生存之道的少女。<br>和不苟言笑的拉毗与性格跳脱的尼恩一样，是活跃反击部队气氛的成员。 | 在绝望的世界中，深谙生存之道的少女。<br>和不苟言笑的拉毗与性格跳脱的尼恩一样，是活跃反击部队气氛的成员。 |
 
 <!--TEMPLATE: 
 |  |  |  |  |
