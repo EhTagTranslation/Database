@@ -5608,6 +5608,7 @@ example:
 | helm | 海伦 | ![海伦立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/236746/2022/10/15/524342.png)<br>宙斯盾部队队长。同时也是水路两用全能战舰【赞美号】的舰长。<br>期盼着能早日出海建功立业。 | [Gamekee](https://www.gamekee.com/nikke/171728.html) |
 | scarlet | 红莲 | ![红莲立绘](https://static.dotgg.gg/nikke/characters/c222_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>沉醉于美酒与风雅，隶属于开拓者部队的流浪剑客。<br>所使用的剑是一种近战专用武器，但在实际战斗中毫无用处。 | [Gamekee](https://www.gamekee.com/nikke/152335.html) [DotGG](https://dotgg.gg/nikke/characters/scarlet) |
 | crown | 皇冠 | ![皇冠立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2024/3/29/734658.png)<br>《胜利女神：妮姬》游戏角色，隶属企业：朝圣者<br>隶属于白骑士部队的朝圣者。自称为国王，正在招募王国的臣民。她的目标是实现臣民的愿望。 | [Gamekee](https://www.gamekee.com/nikke/621270.html) [DotGG](https://dotgg.gg/nikke/characters/crown) |
+| red hood | 小红帽 | ![小红帽立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2023/10/6/5338.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>最晚加入女神部队的童话型号。喜欢听老音乐、个性豪爽的妮姬。她的红色头发，红色围巾，红色外套让人印象深刻。 | [Gamekee](https://www.gamekee.com/nikke/604398.html) [DotGG](https://dotgg.gg/nikke/characters/red-hood) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
