@@ -5603,6 +5603,7 @@ example:
 | niyah | 尼娅 | 异度之刃2角色<br>[萌娘百科](https://zh.moegirl.org.cn/尼娅%28异度神剑%29) |  |
 | ichijou ririka | 一条莉々華 |  |  |
 | crow | 克拉乌 | 外来者部队的队长。<br>来自混乱的外缘区。<br>冷静外表下隐藏着疯狂的一面，就像一颗不定时炸弹，随时可能会爆炸。 | [Gamekee][https://www.gamekee.com/nikke/163879.html](https://www.gamekee.com/nikke/163879.html)<br>[DotGG][https://dotgg.gg/nikke/characters/crow](https://dotgg.gg/nikke/characters/crow) |
+| rapi | 拉毗 | 稳重的【问题少女】，总是为【什么是妮姬】而苦恼。<br>作为隶属于反击部队的妮姬，早已在充满个性的队友中占据中心位置。 | [Gamekee][https://www.gamekee.com/nikke/92082.html](https://www.gamekee.com/nikke/92082.html)<br>[DotGG][https://dotgg.gg/nikke/characters/rapi](https://dotgg.gg/nikke/characters/rapi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
