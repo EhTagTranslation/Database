@@ -5619,6 +5619,7 @@ example:
 | kinako nanobana | 菜花黄名子 | ![](https://i.pixiv.cat/c/600x600/img-master/img/2013/01/11/00/33/42/32778460_p0_master1200.jpg) |  |
 | lulu | 仙灵女巫 (璐璐) | ![](https://game.gtimg.cn/images/lol/act/img/skin/big_84aa3898-f8fb-408f-88be-d2fb0ea5f7b3.jpg) |  |
 | koyori tanemura | 种村小依 | ![种村小依](https://lain.bgm.tv/pic/crt/l/aa/4b/68236_crt_4b62b.jpg?r=1547003421) |  |
+| tsukuyo inaba | 因幡月夜 | ![因幡月夜](https://static.wikia.nocookie.net/busou-shoujo-machiavellianism/images/4/4e/Inaba.jpg/revision/latest/scale-to-width-down/1000?cb=20180903082844) | [YouTube](https://www.youtube.com/watch?v=2HBPHNlW_D4) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
