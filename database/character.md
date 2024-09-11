@@ -5602,6 +5602,7 @@ example:
 | raora panthera | 拉欧拉·潘特拉 | 拉欧拉·潘特拉（英语：Raora Panthera，日语：ラオーラ・パンテーラ）是一名于2024年6月19日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -正义-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉欧拉·潘特拉) |
 | niyah | 尼娅 | 异度之刃2角色<br>[萌娘百科](https://zh.moegirl.org.cn/尼娅%28异度神剑%29) |  |
 | ichijou ririka | 一条莉々華 |  |  |
+| crow | 克拉乌 | 外来者部队的队长。<br>来自混乱的外缘区。<br>冷静外表下隐藏着疯狂的一面，就像一颗不定时炸弹，随时可能会爆炸。 | [Gamekee][https://www.gamekee.com/nikke/163879.html](https://www.gamekee.com/nikke/163879.html)<br>[DotGG][https://dotgg.gg/nikke/characters/crow](https://dotgg.gg/nikke/characters/crow) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
