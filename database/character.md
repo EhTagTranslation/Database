@@ -5613,6 +5613,7 @@ example:
 | neon | 尼恩 | ![尼恩立绘](https://static.dotgg.gg/nikke/characters/c011_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>为火力而生，为火力而死，这个时代真正的火力狂人。<br>隶属于反击部队，她是间谍这件事已经成了众所周知的秘密。 | [Gamekee](https://www.gamekee.com/nikke/92084.html) [DotGG](https://dotgg.gg/nikke/characters/neon) |
 | rupee | 露菲 | ![露菲立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/4408/2022/10/15/289772.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>性格开朗的的购物狂。为了宣传购物的快乐，经营上线购物网站及电视购物频道。<br>达兰特部队的人气偶像。 | [Gamekee](https://www.gamekee.com/nikke/170851.html) [DotGG](https://dotgg.gg/nikke/characters/rupee) |
 | noise | 诺伊斯 | ![诺伊斯立绘](https://static.dotgg.gg/nikke/characters/c430_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>对每件事都全力以赴的创作歌手。<br>以这首迅速窜红的热门歌曲，一跃成为当红明星。隶属于首席女歌手部队。 | [Gamekee](https://www.gamekee.com/nikke/163884.html) [DotGG](https://dotgg.gg/nikke/characters/noise) |
+| elegg | 伊莱格 | ![伊莱格立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2024/1/27/651558.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>隶属于电力冲击部队的妮姬。<br>电子产品动力源方面的专家。<br>兴趣是在有屏幕的所有装置上安装经典的FPS游戏《BOOM》。 | [Gamekee](https://www.gamekee.com/nikke/615258.html) [DotGG](https://dotgg.gg/nikke/characters/elegg) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
