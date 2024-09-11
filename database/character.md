@@ -5470,7 +5470,7 @@ example:
 | kaede akamatsu | 赤松枫 | 赤松 楓<br>《弹丸论破V3》女主角，超高校级的钢琴演奏家 |  |
 | chiaki nanami | 七海千秋 | 《超级弹丸论破2：再會了絕望學園》的女角色 |  |
 | briar | 贝蕾亚 \| 白蕾雅 | 贝蕾亚是网络游戏《英雄联盟》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d9/狂厄蔷薇_贝蕾亚.jpg/1920px-狂厄蔷薇_贝蕾亚.jpg)<br><br>白蕾雅（日文︰ブライア，英文︰Briar）是《朱／紫》中的登场角色。<br>![](https://s1.52poke.com/wiki/thumb/1/1e/白蕾雅_SV.png/100px-白蕾雅_SV.png) | [萌娘百科](https://zh.moegirl.org.cn/贝蕾亚)<br>[宝可梦百科](https://wiki.52poke.com/zh-hans/白蕾雅) |
-| soda | 索达 | 索达，手游《胜利女神：妮姬》中的角色。<br>![](https://bkimg.cdn.bcebos.com/pic/4bed2e738bd4b31c8701377fe480307f9e2f060852e2) | [百度百科](https://baike.baidu.com/item/索达/62624723) |
+| soda | 索达 | ![索达立绘](https://static.dotgg.gg/nikke/characters/c312_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>脸上永远挂着阳光般的笑容，她是专属女仆部队专门负责家务的女仆。<br>即使偶尔会出现一点小小的失误，不过，让所有人充满幸福的索达永远面带微笑。 | [百度百科](https://baike.baidu.com/item/索达/62624723) [Gamekee](https://www.gamekee.com/nikke/583173.html) [DotGG](https://dotgg.gg/nikke/characters/soda) |
 | zhu yuan | 朱鸢 | 朱鸢是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/bc/d4/bcd49b884dea02bf179d52c7102b0cc0e721c5e0-527277-1440-1865-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/朱鸢) |
 | inori yuzuriha | 楪祈 | 楪祈（Yè Qí）是动画《罪恶王冠》及其衍生作品的登场人物。<br>![](https://img.moegirl.org.cn/common/thumb/0/02/22367243.jpg/800px-22367243.jpg) | [萌娘百科](https://zh.moegirl.org.cn/楪祈) |
 | kotone fujita | 藤田琴音 | 藤田琴音是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/ce/Imas_gakuen_cidol-fktn-3-001_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/藤田琴音) |
