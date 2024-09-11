@@ -5606,6 +5606,7 @@ example:
 | rapi | 拉毗 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1023/h_1023/1253/4408/2022/9/25/156851.png)<br>稳重的【问题少女】，总是为【什么是妮姬】而苦恼。<br>作为隶属于反击部队的妮姬，早已在充满个性的队友中占据中心位置。 | [Gamekee](https://www.gamekee.com/nikke/92082.html) [DotGG](https://dotgg.gg/nikke/characters/rapi) |
 | anis | 阿妮斯 | ![阿妮斯立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_419/h_881/1253/57/2022/7/5/181289.png)<br>在绝望的世界中，深谙生存之道的少女。<br>和不苟言笑的拉毗与性格跳脱的尼恩一样，是活跃反击部队气氛的成员。 | [Gamekee](https://www.gamekee.com/nikke/152348.html) |
 | helm | 海伦 | ![海伦立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/236746/2022/10/15/524342.png)<br>宙斯盾部队队长。同时也是水路两用全能战舰【赞美号】的舰长。<br>期盼着能早日出海建功立业。 | [Gamekee](https://www.gamekee.com/nikke/171728.html) |
+| scarlet | 红莲 | ![红莲立绘](https://static.dotgg.gg/nikke/characters/c222_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>沉醉于美酒与风雅，隶属于开拓者部队的流浪剑客。<br>所使用的剑是一种近战专用武器，但在实际战斗中毫无用处。 | [Gamekee](https://www.gamekee.com/nikke/152335.html) [DotGG](https://dotgg.gg/nikke/characters/scarlet) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
