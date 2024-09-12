@@ -5643,6 +5643,7 @@ example:
 | jackal | 豺狼 | ![豺狼立绘](https://static.dotgg.gg/nikke/characters/c111_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>隶属于外来者部队的妮姬。<br>是克拉乌忠实的狗。<br>只要克拉乌一声令下，她就会随时冲锋向前，撕咬一切。 | [Gamekee](https://www.gamekee.com/nikke/580711.html) [DotGG](https://dotgg.gg/nikke/characters/jackal) |
 | laplace | 拉普拉斯 | ![拉普拉斯立绘](https://static.dotgg.gg/nikke/characters/c100_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>米西利斯最强部队墨提斯的队长。<br>自诣为方舟英雄，也拥有名副其实的力量。 | [Gamekee](https://www.gamekee.com/nikke/576409.html) [DotGG](https://dotgg.gg/nikke/characters/laplace) |
 | modernia | 神罚 | ![神罚立绘](https://static.dotgg.gg/nikke/characters/c260_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>单纯和蔼的人类叛徒。<br>被誉为女王精锐的异端者之一。 | [Gamekee](https://www.gamekee.com/nikke/576623.html) [DotGG](https://dotgg.gg/nikke/characters/modernia) |
+| china kuramoto | 仓本千奈 |  | [萌娘百科](https://zh.moegirl.org.cn/仓本千奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
