@@ -5645,6 +5645,7 @@ example:
 | modernia | 神罚 | ![神罚立绘](https://static.dotgg.gg/nikke/characters/c260_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>单纯和蔼的人类叛徒。<br>被誉为女王精锐的异端者之一。 | [Gamekee](https://www.gamekee.com/nikke/576623.html) [DotGG](https://dotgg.gg/nikke/characters/modernia) |
 | china kuramoto | 仓本千奈 |  | [萌娘百科](https://zh.moegirl.org.cn/仓本千奈) |
 | daitou | 大东 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大东) |
+| ukuru | 鹈来 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
