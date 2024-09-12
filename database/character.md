@@ -5628,6 +5628,7 @@ example:
 | brid | 布丽德 | ![布丽德立绘](https://static.dotgg.gg/nikke/characters/c070_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>工作狂，完美主义者，在无限轨道部队担任驾驶员。<br>她的驾驶能力在方舟里显然是最高超的。 | [Gamekee](https://www.gamekee.com/nikke/163874.html) [DotGG](https://dotgg.gg/nikke/characters/brid) |
 | tia | 蒂亚 | ![蒂亚立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_4418/h_4418/1253/4408/2023/8/27/542556.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>隶属于毕业班耀眼珍珠部队的妮姬。<br>为甜点保持最赤诚之心的美食家。<br>她的梦想是有一天能亲眼见到龙，并许下愿望。 | [Gamekee](https://www.gamekee.com/nikke/600940.html) [DotGG](https://dotgg.gg/nikke/characters/tia) |
 | ludmilla | 鲁德米拉 | ![鲁德米拉立绘](https://static.dotgg.gg/nikke/characters/c190_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>隶属于无极限部队的妮姬，驻扎在寒冷的北方地带营救迷路的妮姬们。<br>但她所接触的机械全都会…… | [Gamekee](https://www.gamekee.com/nikke/152339.html) [DotGG](https://dotgg.gg/nikke/characters/ludmilla) |
+| noir | 诺亚尔 | ![诺亚尔立绘](https://static.dotgg.gg/nikke/characters/c271_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>隶属于777部队的妮姬，同时也是金币之战的招牌明星。<br>与白色兔女郎布兰儿是双胞胎姐妹，诺亚尔是两人中的姐姐。<br>容易害羞，非常关心且喜爱着个性大方又充满自信的布兰儿。 | [Gamekee](https://www.gamekee.com/nikke/591253.html) [DotGG](https://dotgg.gg/nikke/characters/noir) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
