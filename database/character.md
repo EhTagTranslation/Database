@@ -5633,6 +5633,7 @@ example:
 | naga | 娜嘉 | ![娜嘉立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_4418/h_4418/1253/4408/2023/8/27/626020.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>她是毕业班耀眼珍珠部队的精神支柱。<br>像姐姐一样一直照顾着总是丢三落四的蒂亚。<br>平时表现很成熟，但看到自己喜欢的饰品，<br>会展露出冲动消费和过度消费的一面。 | [Gamekee](https://www.gamekee.com/nikke/600935.html) [DotGG](https://dotgg.gg/nikke/characters/naga) |
 | exia | 艾可希雅 | ![艾可希雅立绘](https://static.dotgg.gg/nikke/characters/c210_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>隶属于协议部队的天才骇客。<br>玩游戏也很有一手，无论什么游戏都要拿第一。 | [Gamekee](https://www.gamekee.com/nikke/92089.html) [DotGG](https://dotgg.gg/nikke/characters/exia) |
 | marian | 玛丽安 | ![玛丽安立绘](https://static.dotgg.gg/nikke/characters/c013_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>银枪部队成员之一，性格十分善良，为了帮助有需要的人，会毫不犹豫地牺牲自己。<br>因执行任务时运输机被毁而意外拯救主角，后被反击小队和谢芙蒂发现其早已被莱彻洗脑，运输机为内部摧毁而非被击坠，在游戏第一章结尾被主角亲手击碎大脑。<br>后被莱彻女王复活，洗脑再造后，失去记忆，变成朝圣者神罚。 | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Marian/Story) |
+| yuni | 尤妮 | ![尤妮立绘](https://static.dotgg.gg/nikke/characters/c160_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>有虐待狂倾向的少女。<br>拥有可以控制他人感知的能力，沟通时喜欢为对方带来痛苦。隶属于警备卫士部队。 | [Gamekee](https://www.gamekee.com/nikke/152336.html) [DotGG](https://dotgg.gg/nikke/characters/yuni) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
