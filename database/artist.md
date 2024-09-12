@@ -11543,7 +11543,7 @@ example:
 | yamaguchi shunichi | 山口俊一 |  |  |
 | yamaguchi ugou | やまぐち羽轟 |  |  |
 | yamai | 山井 |  |  |
-| yamai sakatarou | 山井坂太郎 or 山井逆太郎 |  |  |
+| yamai sakatarou | 山井逆太郎 | 山井逆太郎(山井坂太郎) |  |
 | yamaimo torotoro | 山いもとろとろ |  |  |
 | yamaishi | 山石 |  |  |
 | yamaishi joe | 山石ジョウ |  |  |
