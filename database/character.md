@@ -5639,6 +5639,7 @@ example:
 | cocoa | 可可 | ![](https://static.dotgg.gg/nikke/characters/c311_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>专属女仆部队里受宠的老幺，同时也是女仆长。<br>她带着自己对专业的独到理解，担任着女仆的工作。 | [Gamekee](https://www.gamekee.com/nikke/582159.html) [DotGG](https://dotgg.gg/nikke/characters/cocoa) |
 | volume | 沃纶姆 | ![沃纶姆立绘](https://static.dotgg.gg/nikke/characters/c431_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>一名总能引起话题的嘻哈歌手，隶属于首席女歌手部队。<br>她的标志性特点是华丽的外表，和让人觉得无礼的我行我素作风。 | [Gamekee](https://www.gamekee.com/nikke/163876.html) [DotGG](https://dotgg.gg/nikke/characters/volume) |
 | sin | 森 | ![森立绘](https://static.dotgg.gg/nikke/characters/c401_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>拥有以语言来洗脑对手的能力，是真善美部队的领导者。<br>她将这种能力再结合话术，巧妙地应用，把对手变成自己的傀儡。 | [Gamekee](https://www.gamekee.com/nikke/580947.html) [DotGG](https://dotgg.gg/nikke/characters/sin) |
+| yulha | 尤尔夏 | ![尤尔夏立绘](https://static.dotgg.gg/nikke/characters/c171_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>尤尔夏是中央政府的妮姬部队「三角部队」的领导者。<br>中央政府直属的三角部队活动范围比其他部队更广，因此审批的流程也更加复杂，这项工作由尤尔夏全权负责。<br>她非常珍惜、重视三角部队。她的所有工作都是为了更全面保护三角部队。她的办公和战斗能力都非常出色，但是性格比较苛刻。<br>她被某些人称呼为「鬼」，但其实最害怕鬼的就是她自己。<br>对恐惧的忍耐度也很低。 | [Gamekee](https://www.gamekee.com/nikke/170841.html) [DotGG](https://dotgg.gg/nikke/characters/yulha) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
