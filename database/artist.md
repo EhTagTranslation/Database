@@ -439,7 +439,7 @@ example:
 | harasho | はらしょ |  |  |
 | nishimu | にしむ |  |  |
 | narita koh | 成田コウ |  |  |
-| shiden | しでん |  |  |
+| shiden | しでん | しでん / 治屋武しでん | [pixiv](https://www.pixiv.net/users/134033) |
 | mira | みら \| 未镜 | peachpulsar<br>MirrorWorld |  |
 | fuusen club | 風船クラブ |  |  |
 | shioroku | シオロク |  |  |
