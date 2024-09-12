@@ -5637,6 +5637,7 @@ example:
 | marciana | 玛律恰那 | ![玛律恰那立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_4418/h_4418/1253/4408/2023/8/26/791783.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>M.M.R.附属高中充满理性而又不失完美主义的老师。<br>一直致力于提供学生们最好的教育。<br>同时有着喜爱可爱事物的少女的一面。 | [Gamekee](https://www.gamekee.com/nikke/600802.html) [DotGG](https://dotgg.gg/nikke/characters/marciana) |
 | diesel | 迪塞尔 | ![迪塞尔立绘](https://static.dotgg.gg/nikke/characters/c072_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>无限轨道部队的队长。<br>态度亲切，总是随身携带草莓糖，为迷路的乘客引导。 | [Gamekee](https://www.gamekee.com/nikke/152337.html) [DotGG](https://dotgg.gg/nikke/characters/diesel) |
 | cocoa | 可可 | ![](https://static.dotgg.gg/nikke/characters/c311_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>专属女仆部队里受宠的老幺，同时也是女仆长。<br>她带着自己对专业的独到理解，担任着女仆的工作。 | [Gamekee](https://www.gamekee.com/nikke/582159.html) [DotGG](https://dotgg.gg/nikke/characters/cocoa) |
+| volume | 沃纶姆 | ![沃纶姆立绘](https://static.dotgg.gg/nikke/characters/c431_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>一名总能引起话题的嘻哈歌手，隶属于首席女歌手部队。<br>她的标志性特点是华丽的外表，和让人觉得无礼的我行我素作风。 | [Gamekee](https://www.gamekee.com/nikke/163876.html) [DotGG](https://dotgg.gg/nikke/characters/volume) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
