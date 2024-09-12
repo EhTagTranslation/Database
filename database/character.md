@@ -5630,6 +5630,7 @@ example:
 | ludmilla | 鲁德米拉 | ![鲁德米拉立绘](https://static.dotgg.gg/nikke/characters/c190_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>隶属于无极限部队的妮姬，驻扎在寒冷的北方地带营救迷路的妮姬们。<br>但她所接触的机械全都会…… | [Gamekee](https://www.gamekee.com/nikke/152339.html) [DotGG](https://dotgg.gg/nikke/characters/ludmilla) |
 | noir | 诺亚尔 | ![诺亚尔立绘](https://static.dotgg.gg/nikke/characters/c271_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>隶属于777部队的妮姬，同时也是金币之战的招牌明星。<br>与白色兔女郎布兰儿是双胞胎姐妹，诺亚尔是两人中的姐姐。<br>容易害羞，非常关心且喜爱着个性大方又充满自信的布兰儿。 | [Gamekee](https://www.gamekee.com/nikke/591253.html) [DotGG](https://dotgg.gg/nikke/characters/noir) |
 | privaty | 普丽瓦蒂 | ![普丽瓦蒂立绘](https://static.dotgg.gg/nikke/characters/c170_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>总是装做不在乎，但其实很照顾同伴们的少女。<br>是三角部队王牌。 | [Gamekee](https://www.gamekee.com/nikke/152329.html) [DotGG](https://dotgg.gg/nikke/characters/privaty) |
+| naga | 娜嘉 | ![娜嘉立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_4418/h_4418/1253/4408/2023/8/27/626020.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>她是毕业班耀眼珍珠部队的精神支柱。<br>像姐姐一样一直照顾着总是丢三落四的蒂亚。<br>平时表现很成熟，但看到自己喜欢的饰品，<br>会展露出冲动消费和过度消费的一面。 | [Gamekee](https://www.gamekee.com/nikke/600935.html) [DotGG](https://dotgg.gg/nikke/characters/naga) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
