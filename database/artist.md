@@ -5077,7 +5077,7 @@ example:
 | ezo renge | えぞれんげ |  |  |
 | f | f | f |  |
 | faith | faith |  |  |
-| fan | FAN |  |  |
+| fan | FAN |  | [pixiv](https://www.pixiv.net/users/1434758) |
 | fana | ふぁな |  |  |
 | faust | FAUST |  |  |
 | fct | FCT |  |  |
