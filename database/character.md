@@ -5620,6 +5620,7 @@ example:
 | lulu | 仙灵女巫 (璐璐) | ![](https://game.gtimg.cn/images/lol/act/img/skin/big_84aa3898-f8fb-408f-88be-d2fb0ea5f7b3.jpg) |  |
 | koyori tanemura | 种村小依 | ![种村小依](https://lain.bgm.tv/pic/crt/l/aa/4b/68236_crt_4b62b.jpg?r=1547003421) |  |
 | tsukuyo inaba | 因幡月夜 | ![因幡月夜](https://static.wikia.nocookie.net/busou-shoujo-machiavellianism/images/4/4e/Inaba.jpg/revision/latest/scale-to-width-down/1000?cb=20180903082844) | [YouTube](https://www.youtube.com/watch?v=2HBPHNlW_D4) |
+| eunhwa | 银华 | ![银华立绘](https://static.dotgg.gg/nikke/characters/c092_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>傲慢而又冷漠的特种部队队长。<br>靠着追求完美的性格，带领特种部队取得最强的地位。 | [Gamekee](https://www.gamekee.com/nikke/152338.html) [DotGG](https://dotgg.gg/nikke/characters/eunhwa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
