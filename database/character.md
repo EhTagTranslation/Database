@@ -5647,6 +5647,7 @@ example:
 | daitou | 大东 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大东) |
 | ukuru | 鹈来 |  |  |
 | shounan | 昭南 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:昭南) |
+| inagi | 稻木 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
