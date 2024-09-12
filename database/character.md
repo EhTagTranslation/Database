@@ -5601,7 +5601,7 @@ example:
 | aug para | AUG SMG | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e3/AUG_Para.png) | [少前百科GFwiki](https://gfwiki.org/w/AUG_SMG)<br>[IOP Wiki](https://iopwiki.com/wiki/AUG_Para) |
 | raora panthera | 拉欧拉·潘特拉 | 拉欧拉·潘特拉（英语：Raora Panthera，日语：ラオーラ・パンテーラ）是一名于2024年6月19日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -正义-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/拉欧拉·潘特拉) |
 | niyah | 尼娅 | 异度之刃2角色<br>[萌娘百科](https://zh.moegirl.org.cn/尼娅%28异度神剑%29) |  |
-| ichijou ririka | 一条莉々華 |  |  |
+| ichijou ririka | 一条莉莉华 |  |  |
 | crow | 克拉乌 | ![克拉乌立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_947/1253/72324/2022/7/5/726226.png)<br>外来者部队的队长。<br>来自混乱的外缘区。<br>冷静外表下隐藏着疯狂的一面，就像一颗不定时炸弹，随时可能会爆炸。 | [Gamekee](https://www.gamekee.com/nikke/163879.html) [DotGG](https://dotgg.gg/nikke/characters/crow) |
 | rapi | 拉毗 | ![拉毗立绘](https://static.dotgg.gg/nikke/characters/c010_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：极乐净土<br>稳重的【问题少女】，总是为【什么是妮姬】而苦恼。<br>作为隶属于反击部队的妮姬，早已在充满个性的队友中占据中心位置。 | [Gamekee](https://www.gamekee.com/nikke/92082.html) [DotGG](https://dotgg.gg/nikke/characters/rapi) |
 | anis | 阿妮斯 | ![阿妮斯立绘](https://static.dotgg.gg/nikke/characters/c012_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>在绝望的世界中，深谙生存之道的少女。<br>和不苟言笑的拉毗与性格跳脱的尼恩一样，是活跃反击部队气氛的成员。 | [Gamekee](https://www.gamekee.com/nikke/152348.html) [DotGG](https://dotgg.gg/nikke/characters/anis) |

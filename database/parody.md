@@ -2298,7 +2298,7 @@ example:
 | the flash | 闪电侠 |  |  |
 | wonderful precure | 美妙宠物 光之美少女 |  |  |
 | katsute mahou shoujo to aku wa tekitai shite ita. | 魔法少女与邪恶曾经敌对。 |  | [维基百科](https://zh.wikipedia.org/wiki/曾經、魔法少女和邪惡相互為敵。) |
-| maplestory | 冒险岛 (新楓之谷) | 《冒险岛》（韩语：메이플스토리，英语：MapleStory）是一款横向卷轴平面动作操作的免费大型多人在线角色扮演游戏，由韩国Wizet开发。 | [维基百科](https://zh.wikipedia.org/wiki/新楓之谷) |
+| maplestory | 冒险岛 | 《冒险岛(新楓之谷)》（韩语：메이플스토리，英语：MapleStory）是一款横向卷轴平面动作操作的免费大型多人在线角色扮演游戏，由韩国Wizet开发。 | [维基百科](https://zh.wikipedia.org/wiki/新楓之谷) |
 | tengoku daimakyou | 天国大魔境 |  |  |
 
 <!--TEMPLATE: 

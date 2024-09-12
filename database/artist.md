@@ -3767,7 +3767,6 @@ example:
 | 4shi | 4氏 |  |  |
 | 4why | 4why |  |  |
 | 5jack | 5jack |  |  |
-| 666zarike | Contact |  |  |
 | 77gl | 77gl |  |  |
 | 78rr | だぶるあーる |  |  |
 | 7c | 7c |  |  |
@@ -4012,7 +4011,6 @@ example:
 | al eas | アル・イース |  |  |
 | alapi | あらぴ |  |  |
 | alber | Alber |  |  |
-| albert-aet | Contact |  |  |
 | ganassa | Ganassa |  |  |
 | alex | あれっくす |  |  |
 | alfabravo | アルファブラボー |  |  |
@@ -4215,7 +4213,6 @@ example:
 | arashiyama tsugumoto | 嵐山次元 |  |  |
 | arata mai | 新米 |  |  |
 | aratagawa nikei | 荒田川にけい |  |  |
-| arbuzbudesh | Contact |  |  |
 | arcana rude | あるかな(るど) |  |  |
 | arch enemy | あーちえねみー |  |  |
 | arciealbano | arciealbano |  |  |
@@ -6329,7 +6326,6 @@ example:
 | jitsuyou shinshiki | 実用新式 |  |  |
 | jjj | JJJ |  |  |
 | jjune | JJune |  |  |
-| joey hentai | Contact |  |  |
 | john k. pe-ta | ジョン・K・ペー太 |  |  |
 | johnnie | じょにぃ |  |  |
 | johnny | じょにー |  |  |
@@ -7483,11 +7479,9 @@ example:
 | lummy | Lummy |  |  |
 | lumper sheider | LumperSheider |  |  |
 | luphis | luphis |  |  |
-| lurkergg | Contact |  |  |
 | lutein | Lutein |  |  |
 | luu | Luu |  |  |
 | lux | Lux |  |  |
-| luxianne | Contact |  |  |
 | lvi | LVI |  |  |
 | m | M |  |  |
 | m-max | M-MAX |  |  |
@@ -9412,7 +9406,6 @@ example:
 | rami | らみ |  |  |
 | ramii | らみぃ |  |  |
 | ramototu | ラモトツ |  |  |
-| rampant404 | Contact |  |  |
 | ramu | らむ |  |  |
 | ran | RAN |  |  |
 | ranaecho | ranaECHO |  |  |
