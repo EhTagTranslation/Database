@@ -5646,6 +5646,7 @@ example:
 | china kuramoto | 仓本千奈 |  | [萌娘百科](https://zh.moegirl.org.cn/仓本千奈) |
 | daitou | 大东 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大东) |
 | ukuru | 鹈来 |  |  |
+| shounan | 昭南 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:昭南) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
