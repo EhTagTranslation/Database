@@ -3211,7 +3211,7 @@ example:
 | link | 林克 |  | [萌娘百科](https://zh.moegirl.org.cn/林克) |
 | wonder woman | 神奇女侠 |  |  |
 | she-ra | 希瑞 |  | [萌娘百科](https://zh.moegirl.org.cn/希瑞) |
-| rapunzel | 长发公主 |  |  |
+| rapunzel | 长发公主 | ![长发公主立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/4408/2022/10/15/701333.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>长发公主主要能力为治疗和保存。<br>出于不明原因，她似乎只保留了一部分过去的记忆。<br>这是一位脑海中总是充满香艳画面的危险修女。<br>无论何时何地都无法停止她那想入非非的幻想。 | [Gamekee](https://www.gamekee.com/nikke/170850.html) [DotGG](https://dotgg.gg/nikke/characters/rapunzel) |
 | hulk | 浩克 |  |  |
 | star girl | 逐星女 |  | [百度百科](https://baike.baidu.com/item/逐星女/1392703) |
 | harley quinn | 哈莉·奎茵 |  | [萌娘百科](https://zh.moegirl.org.cn/哈莉·奎茵) |
