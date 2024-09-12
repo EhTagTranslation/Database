@@ -5624,6 +5624,7 @@ example:
 | mary | 梅里 | ![梅里立绘](https://static.dotgg.gg/nikke/characters/c130_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>有能力非常体贴的医生<br>在六翼天使部队中被称为白衣天使，但对那些不听话的患者…… | [Gamekee](https://www.gamekee.com/nikke/152343.html) [DotGG](https://dotgg.gg/nikke/characters/mary) |
 | guilty | 吉尔提 | ![吉尔提立绘](https://static.dotgg.gg/nikke/characters/c400_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>隶属于真善美部队的妮姬。<br>拥有绝对强大的臂力。<br>在短短两周内，她摧毁了四十几名妮姬的身体；也因为这项罪名，被囚禁在更生馆中。 | [Gamekee](https://www.gamekee.com/nikke/580946.html) [DotGG](https://dotgg.gg/nikke/characters/guilty) |
 | mihara | 米哈拉 | ![米哈拉立绘](https://static.dotgg.gg/nikke/characters/c161_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>面容清秀的被虐狂。<br>痛楚能让她觉得自己活着。<br>隶属于警备卫士部队，与同伴尤妮关系很好。 | [Gamekee](https://www.gamekee.com/nikke/152349.html) [DotGG](https://dotgg.gg/nikke/characters/mihara) |
+| bay | 贝伊 | ![贝伊立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2024/3/17/97940.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>方舟的啦啦队，倒带部队的队长。<br>虽然患有视线恐惧症，但只要有人需要应援和鼓励的时候，就会变得非常热情。 | [Gamkee](https://www.gamekee.com/nikke/620123.html) [DotGG](https://dotgg.gg/nikke/characters/bay) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
