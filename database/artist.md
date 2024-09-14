@@ -1076,7 +1076,7 @@ example:
 | tetsuna | テツナ |  |  |
 | kazan no you | 火山の楊 |  |  |
 | mtu | MtU |  |  |
-| alp | あるぷ |  |  |
+| alp | あるぷ | 成人向け漫画家。サークル「リンゴヤ」 | [X](https://x.com/alp315)<br>[pixiv](https://www.pixiv.net/users/1746953) |
 | chiba toshirou | チバトシロウ |  |  |
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
