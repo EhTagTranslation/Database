@@ -13085,6 +13085,7 @@ example:
 | sasanoma nibi | 笹ノ間にび |  |  |
 | minestrone | ミネストローネ |  |  |
 | shigeatsu nagata | 重厚长太 |  |  |
+| shikiniki | 式二季 |  | [pixiv](https://www.pixiv.net/users/95895692) |
 
 <!--TEMPLATE:
 |  |  |  |  |
