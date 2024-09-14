@@ -13084,6 +13084,7 @@ example:
 | nise neko | 偽猫 | 东方project同人作者。 | [X](https://x.com/niseneko21)<br>[pixiv](https://www.pixiv.net/users/1705403) |
 | sasanoma nibi | 笹ノ間にび |  |  |
 | minestrone | ミネストローネ |  |  |
+| shigeatsu nagata | 重厚长太 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
