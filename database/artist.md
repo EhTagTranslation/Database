@@ -13087,6 +13087,7 @@ example:
 | shigeatsu nagata | 重厚长太 |  |  |
 | shikiniki | 式二季 |  | [pixiv](https://www.pixiv.net/users/95895692) |
 | ryuda kosei | 竜田光生 |  |  |
+| hibino sho | 日比野翔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
