@@ -1176,7 +1176,7 @@ example:
 | ng010 | NG010 |  |  |
 | silver meteor | SILVER METEOR |  |  |
 | houmitsudou | 方密堂 |  |  |
-| tennenseki | 天然石 | 这是日本原画师硯和MOMO的社团（2007- ） | [维基百科（日语）](https://ja.wikipedia.org/wiki/硯_%28イラストレーター%29)<br>[pixiv](https://www.pixiv.net/users/423256)<br>[X](https://x.com/suzuri99)<br>[X](https://x.com/suzuri99) |
+| tennenseki | 天然石 | 这是日本原画师硯和MOMO的社团（2007- ） | [维基百科（日语）](https://ja.wikipedia.org/wiki/硯_%28イラストレーター%29)<br>[pixiv](https://www.pixiv.net/users/423256)<br>[X](https://x.com/suzuri99) |
 | artienne | アルティエーヌ |  |  |
 | under the honey shine | Under The Honey Shine |  |  |
 | infinity-force | INFINITY-FORCE |  |  |
