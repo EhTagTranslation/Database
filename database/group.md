@@ -12885,6 +12885,7 @@ example:
 | ogura nougyou | 小倉農業 |  |  |
 | soup oishii | スープおいしい |  |  |
 | simpleclass | しんぷるくらす |  |  |
+| triple lettuce burger | トリプルレタスバーガー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
