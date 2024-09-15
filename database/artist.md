@@ -10457,7 +10457,7 @@ example:
 | suzunokei | スズノケイ |  |  |
 | suzunomoku | すずのもく |  |  |
 | suzurame | スズラメ |  |  |
-| suzuri | 石見すずり |  |  |
+| suzuri | 石見すずり(硯) | 硯（石見すずり，すずり，4月13日 - ）是游戏创作者（图形设计师・原画师）、插画师。隶属于月相株式会社（MoonPhase co. Ltd）（ケロQ / 枕），来自神奈川县横滨市，拥有自己的社团 ”天然石“，其中成员为硯与MOMO。<br><br>曾是一名图形设计师，但在『モエかん』发行后，转为了原画师。<br>他被称为业内最好的生存游戏（サバイバルゲーム）爱好者之一。<br>曾作为玩家出现在 Grancrest Replay Live Series Live Factory『グランクレスト・リプレイ ライブシリーズ ライブ・ファクトリー』 中。<br>为明镜シスイ的轻小说《军武宅转生魔法世界，靠现代武器开军队后宫!?》（日语：軍オタが魔法世界に転生したら、現代兵器で軍隊ハーレムを作っちゃいました!?）绘制插画 | [维基百科（日语）](https://ja.wikipedia.org/wiki/硯_%28イラストレーター%29)<br>[X](https://x.com/suzuri99)<br>[pixiv](https://www.pixiv.net/users/423256)<br>[维基百科](https://zh.wikipedia.org/wiki/軍武宅轉生魔法世界，靠現代武器開軍隊後宮!%3F)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/軍オタが魔法世界に転生したら、現代兵器で軍隊ハーレムを作っちゃいました!%3F)<br>[X](https://x.com/suzuri99) |
 | suzusato rinka | 鈴里厘花 |  |  |
 | suzusawa aki | 鈴沢秋 |  |  |
 | suzuse | 涼瀬 |  |  |
