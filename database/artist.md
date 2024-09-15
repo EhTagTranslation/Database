@@ -13088,6 +13088,7 @@ example:
 | shikiniki | 式二季 |  | [pixiv](https://www.pixiv.net/users/95895692) |
 | ryuda kosei | 竜田光生 |  |  |
 | hibino sho | 日比野翔 |  |  |
+| ateoyh | ATEOYH |  | [Twitter](https://x.com/ATEOYH) [pixiv](https://www.pixiv.net/users/36383995) |
 
 <!--TEMPLATE:
 |  |  |  |  |
