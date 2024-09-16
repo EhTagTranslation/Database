@@ -3041,7 +3041,7 @@ example:
 | andoryu | 安堂流 |  | [X](https://x.com/andrew_andoryu) [pixiv](https://www.pixiv.net/users/14880747) |
 | commamion | 狐狸恩 | コンマミオン<br>[“狐狸恩”为官方中文名](https://x.com/commamion1/status/1181484491543470081) | [X](https://x.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
 | numa | numa \| 沼 | numa：[pixiv](https://www.pixiv.net/users/10797247)<br>沼：`commamion`的同人志用笔名 | numa：[pixiv](https://www.pixiv.net/users/10797247)<br>沼：[X](https://x.com/commamion1/) [pixiv](https://www.pixiv.net/users/4498959) |
-| amagappa shoujogun | 雨がっぱ少女群 | 常年连载于COMIC LO等杂志，画风细腻剧情纯爱居多，lo本后多是对少女进行分尸之类的猎奇项为主，而后又发布女性嫌弃婚姻吃里扒外的现实题材，不知是受到何种打击。 | [X](https://x.com/michiluhome) [pixiv](https://www.pixiv.net/users/1183648) |
+| amagappa shoujogun | 雨がっぱ少女群 | 雨がっば少女群（雨衣少女群）是日本著名萝莉成人漫画作者，常年连载于COMIC LO等杂志，画风细腻，作品以纯爱居多，剧情感人且深刻，具有极强的感染力和延伸力。在2009年5月18日LO作家限定涂鸦揭示板上，他公布了一则关于漫画单行本进入完结状态的消息，在画完了8月某杂志的东西以后就暂时告别雨衣少女群这个笔名之后此人将暂时隐退进修。2015年开始往恐怖题材转型，后于漫画杂志「リョナキング」连载血腥猎奇的短篇故事。现改名为雨群活动，以作画身份连载正常向社会题材漫画「ぼくたちの離婚」。 | [X](https://x.com/michiluhome) [pixiv](https://www.pixiv.net/users/1183648) |
 | suzumi raika | 凉海来夏 | 涼海来夏 | [X](https://x.com/raika_suzumi) [pixiv](https://www.pixiv.net/users/8375334) |
 | aramaki echizen | 荒卷越前 | 荒巻越前 | [X](https://x.com/maki_pei) [pixiv](https://www.pixiv.net/users/1318857) |
 | nakada rumi | 中田瑠美 |  | [X](https://x.com/nakada_rumi) [pixiv](https://www.pixiv.net/users/96432) |
