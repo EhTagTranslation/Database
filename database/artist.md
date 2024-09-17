@@ -519,7 +519,7 @@ example:
 | youki akira | 优希辉 |  |  |
 | matsuda k | マツダK |  |  |
 | amanatsu aki | 甘夏あき |  |  |
-| magukappu | 马克杯 |  |  |
+| magukappu | 马克杯 |  | [pixiv](https://www.pixiv.net/users/75567) |
 | michiyon | みちよん |  |  |
 | hijiri tsukasa | 圣☆司 |  |  |
 | tsukino jyogi | 月野定规 |  |  |
