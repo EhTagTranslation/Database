@@ -2301,6 +2301,7 @@ example:
 | maplestory | 冒险岛 | 《冒险岛(新楓之谷)》（韩语：메이플스토리，英语：MapleStory）是一款横向卷轴平面动作操作的免费大型多人在线角色扮演游戏，由韩国Wizet开发。 | [维基百科](https://zh.wikipedia.org/wiki/新楓之谷) |
 | tengoku daimakyou | 天国大魔境 |  |  |
 | black myth wukong | 黑神话：悟空 |  | [萌娘百科](https://zh.moegirl.org.cn/黑神话：悟空) |
+| h2o footprints in the sand | H2O 沙中足迹 |  | [https://zh.m.wikipedia.org/wiki/H2O\_-FOOTPRINTS\_IN\_THE\_SAND-](https://zh.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND-)<br>[https://www.makura-soft.com/h2o/](https://www.makura-soft.com/h2o/)<br>[https://www.makura-soft.com/AAA/index.htm](https://www.makura-soft.com/AAA/index.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/H2O_-沙中足迹-http://m.iqiyi.com/lib/m_206265214.html)<br>[百度百科](https://baike.baidu.com/item/H2O%20赤砂印记/17021792) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
