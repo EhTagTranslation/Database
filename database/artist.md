@@ -13090,6 +13090,7 @@ example:
 | hibino sho | 日比野翔 |  |  |
 | ateoyh | ATEOYH |  | [Twitter](https://x.com/ATEOYH) [pixiv](https://www.pixiv.net/users/36383995) |
 | izumi asuka | 泉飛鳥 |  |  |
+| koruse | こるせ |  | [Twitter](https://x.com/korusee) [pixiv](https://www.pixiv.net/users/3335331) |
 
 <!--TEMPLATE:
 |  |  |  |  |
