@@ -12887,6 +12887,7 @@ example:
 | simpleclass | しんぷるくらす |  |  |
 | triple lettuce burger | トリプルレタスバーガー |  |  |
 | yama danchi | やまだんち |  | [pixiv](https://www.pixiv.net/users/80841396) |
+| studio iwashi | スタジオいわし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
