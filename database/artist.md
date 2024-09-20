@@ -3706,7 +3706,7 @@ example:
 | syouwaru | 性悪 |  |  |
 | indo curry | 印度咖喱 |  |  |
 | hirasawa zen | 平沢Zen |  |  |
-| shimuro itaru | 至室 |  |  |
+| shimuro itaru | 至室 |  | [pixiv](https://www.pixiv.net/users/751568) |
 | mishiro shizuku | 水白しずく |  |  |
 | gedou danshaku | 外道男爵 |  |  |
 | nero augustus | 尼禄奥古斯都 |  | [pixiv](https://www.pixiv.net/users/20216811) |
