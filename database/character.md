@@ -3272,7 +3272,7 @@ example:
 | jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德（英语：jean gunnhildr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
 | jean | 琴 |  |  |
 | midori fuse | 布施翠 |  |  |
-| roxy migurdia | 洛琪希·米格路迪亚 | 洛琪希·米格路迪亚（日语：ロキシー・ミグルディア）是由理不尽な孫の手创作的轻小说《`mushoku tensei`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
+| roxy migurdia | 洛琪希·米格路迪亚 | 洛琪希·米格路迪亚（日语：ロキシー・ミグルディア）是由理不尽な孫の手创作的轻小说《`mushoku tensei`》及其衍生作品的登场角色。<br>![](https://mushokutensei.jp/wp-content/themes/mushoku_re/img/character/img_meikyu01.png) | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
 | ghislaine dedoldia | 基列奴·泰德路迪亚 |  |  |
 | eris boreas greyrat | 艾莉丝·伯雷亚斯·格雷拉特 | 艾莉丝·伯雷亚斯·格雷拉特，所属作品:`p:mushoku tensei`<br>轻小说《无职转生～到了异世界就拿出真本事～》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/e/ee/艾莉丝伯雷亚斯格雷拉特人设图.png) | [萌娘百科](https://zh.moegirl.org.cn/艾莉丝·伯雷亚斯·格雷拉特) |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
