@@ -1077,7 +1077,7 @@ example:
 | kazan no you | 火山の楊 |  |  |
 | mtu | MtU |  |  |
 | alp | あるぷ | 成人向け漫画家。サークル「リンゴヤ」 | [X](https://x.com/alp315)<br>[pixiv](https://www.pixiv.net/users/1746953) |
-| chiba toshirou | チバトシロウ |  |  |
+| chiba toshirou | チバトシロウ |  | [pixiv](https://www.pixiv.net/users/1226571) |
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
 | haruhisky | 春日喜欢 | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很想喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [X](https://x.com/haruhisky1) |
