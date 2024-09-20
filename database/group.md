@@ -10769,7 +10769,6 @@ example:
 | studio claim | STUDIO CLAIM |  |  |
 | studio cute | Studio Cute |  |  |
 | studio d-suke | STUDIO D-Suke |  |  |
-| studio daiya | スタジオ・ダイヤ |  |  |
 | studio daiya alt | スタジオ・ダイヤ・オルタ |  |  |
 | studio dellforce | STUDIOデルフォース |  |  |
 | studio dia | スタジオ・ダイア |  |  |

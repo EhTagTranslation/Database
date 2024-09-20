@@ -5575,7 +5575,7 @@ example:
 | haruchika | ハルチカ |  |  |
 | haruemon | ハルゑもん |  |  |
 | harufumi | ハルフミ |  |  |
-| haruharu haruto | 春々春兎 |  |  |
+| harubaru haruto | 春々春兎 |  |  |
 | haruhina murasaki | 春雛紫 |  |  |
 | haruichigo | はるいちご |  |  |
 | haruka | はるか |  |  |

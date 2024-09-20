@@ -784,7 +784,6 @@ example:
 | momoko suou | 周防桃子 |  |  |
 | matsuri tokugawa | 德川茉莉 |  |  |
 | megumi tokoro | 所惠美 |  |  |
-| fuuka toyokawa | 丰川风花 |  |  |
 | iku nakatani | 中谷育 |  |  |
 | yuriko nanao | 七尾百合子 |  |  |
 | chizuru nikaido | 二阶堂千鹤 |  |  |
