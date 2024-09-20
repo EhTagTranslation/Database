@@ -2785,7 +2785,7 @@ example:
 | cinderella | 辛德瑞拉 | 童话故事《灰姑娘》中的女主人公角色名 |  |
 | noa himesaka | 姬坂乃爱 | 小学5年级，与日向同年的转学生。星野家隔壁的邻居，称宫子为“宫小姐”。极度自恋，觉得自己很可爱，也喜欢别人称赞自己很可爱，会因为宫子对花的可爱称赞多于自己而感到忌妒。<br>![图](https://img.moegirl.org.cn/common/8/81/Himesakanoa.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬坂乃爱) |
 | miyako hoshino | 星野宫子 | 星野日向的姐姐，大学1年级，设计专业科系，宅女。个性内向怕生，不擅与人交际。对白咲花一见钟情，遇到与花有关的事情会很兴奋。擅长制作COSPLAY服与甜点。<br>![图](https://img.moegirl.org.cn/common/e/ea/B03533fa828ba61e8870797d4c34970a314e59c1.png) | [萌娘百科](https://zh.moegirl.org.cn/星野宫子) |
-| hana shirosaki | 白咲花 | 小学5年级，日向的同学。称宫子为“姐姐”，对宫子的初次印象是个危险的人。个性冷静，非常喜欢吃甜点，谈到甜点就会变得很兴奋。审美观与常人不同，喜欢各种奇怪卡通人物的周边产品。 | [萌娘百科](https://zh.moegirl.org.cn/白咲花) |
+| hana shirosaki | 白咲花 | 小学5年级，日向的同学。称宫子为“姐姐”，对宫子的初次印象是个危险的人。个性冷静，非常喜欢吃甜点，谈到甜点就会变得很兴奋。审美观与常人不同，喜欢各种奇怪卡通人物的周边产品。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/02/31/66728_crt_UE3eu.jpg?r=1547649407) | [萌娘百科](https://zh.moegirl.org.cn/白咲花) |
 | hinata hoshino | 星野日向 | 小学5年级，星野宫子的妹妹，花的同学。称宫子为“宫姐”。个性开朗活泼，姐控，十分喜欢宫子，认为宫子无所不能，喜欢跟人夸奖宫子，导致宫子在别人眼中是个完美形象的人。常要求跟宫子一起睡觉，但睡相非常的差。<br>![图](https://img.moegirl.org.cn/common/7/77/星野日向.jpg) | [萌娘百科](https://zh.moegirl.org.cn/星野日向) |
 | may | 小遥 | 精灵宝可梦，超世代（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小遙（動畫）) |
 | dawn | 小光 | 精灵宝可梦，钻石&珍珠（女主角） | [神奇宝贝百科](https://wiki.52poke.com/wiki/小光（动画）) |
