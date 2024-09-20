@@ -2219,7 +2219,7 @@ example:
 | karen araragi | 阿良良木火怜 |  |  |
 | tsukihi araragi | 阿良良木月火 |  |  |
 | kiss-shot acerola-orion heart-under-blade | 姬丝秀忒·雅赛劳拉莉昂·刃下心 |  |  |
-| shinobu oshino | 忍野忍 |  |  |
+| shinobu oshino | 忍野忍 | ![](https://www.monogatari-series.com/nisemonogatari/chara/img/chara09.gif) |  |
 | ougi oshino | 忍野扇 |  |  |
 | meme oshino | 忍野咩咩 |  |  |
 | nadeko sengoku | 千石抚子 |  |  |
