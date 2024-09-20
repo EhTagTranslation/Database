@@ -1306,7 +1306,7 @@ example:
 | chihiro sengoku | 千石千寻 |  |  |
 |  | ▼ 龙与虎 角色 |  |  |
 | ryuuji takasu | 高须龙儿 |  |  |
-| taiga aisaka | 逢坂大河 |  |  |
+| taiga aisaka | 逢坂大河 | ![](https://www.tv-tokyo.co.jp/contents/toradora/images/chara/taiga.gif) |  |
 | minori kushieda | 栉枝实乃梨 |  |  |
 | ami kawashima | 川岛亚美 |  |  |
 | yasuko takasu | 高须泰子 |  |  |
