@@ -1378,7 +1378,7 @@ example:
 | misaka-imouto | 御坂妹妹 |  |  |
 | last order | 最后之作 |  |  |
 | index librorum prohibitorum | 茵蒂克丝 |  |  |
-| kuroko shirai | 白井黑子 |  |  |
+| kuroko shirai | 白井黑子 | ![](https://toaru-project.com/railgun_t/core_sys/images/contents/00000009/base/l1.png) |  |
 | misaki shokuhou | 食蜂操祈 |  |  |
 | mitsuko kongou | 婚后光子 |  |  |
 | kinuho wannai | 湾内绢保 |  |  |
