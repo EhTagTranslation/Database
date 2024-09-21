@@ -8311,7 +8311,7 @@ example:
 | murakami | 村上 |  |  |
 | murakami masaki | 村上雅貴 |  |  |
 | murakumo | 村雲 |  |  |
-| muramurabito | 村々村 |  |  |
+| muramurabito | 村々人 |  |  |
 | muranako | ムラナコ |  |  |
 | murasaki | むらさき |  |  |
 | murasaki akari | むらさきあかり |  |  |
