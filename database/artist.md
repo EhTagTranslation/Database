@@ -11922,7 +11922,7 @@ example:
 | yuumi takako | 夕海たかこ |  |  |
 | yuumyago | ゆうみゃご |  |  |
 | yuunagi show | 夕凪ショウ |  |  |
-| yuuno | ゆうの |  |  |
+| yuuno | ゆうの |  | [pixiv])([pixiv](https://www.pixiv.net/users/1522328)) |
 | yuunyan | ゆうにゃん |  |  |
 | yuuri | 遊離 |  |  |
 | yuurin | 佑りん |  |  |
