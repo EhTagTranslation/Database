@@ -13093,6 +13093,7 @@ example:
 | koruse | こるせ |  | [Twitter](https://x.com/korusee) [pixiv](https://www.pixiv.net/users/3335331) |
 | keine | KEINE |  | [pixiv](https://www.pixiv.net/users/27825577) |
 | ume fumi | 梅枫味 |  | [X](https://x.com/umeefumi) [pixiv](https://www.pixiv.net/users/53714969) |
+| urasuji samurai | 裏筋侍 |  | [X](https://x.com/urasujisamurai) [pixiv](https://www.pixiv.net/users/16637738) |
 
 <!--TEMPLATE:
 |  |  |  |  |
