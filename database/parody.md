@@ -2302,6 +2302,7 @@ example:
 | tengoku daimakyou | 天国大魔境 |  |  |
 | black myth wukong | 黑神话：悟空 |  | [萌娘百科](https://zh.moegirl.org.cn/黑神话：悟空) |
 | h2o footprints in the sand | H2O 沙中足迹 |  | [https://zh.m.wikipedia.org/wiki/H2O\_-FOOTPRINTS\_IN\_THE\_SAND-](https://zh.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND-)<br>[https://www.makura-soft.com/h2o/](https://www.makura-soft.com/h2o/)<br>[https://www.makura-soft.com/AAA/index.htm](https://www.makura-soft.com/AAA/index.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/H2O_-沙中足迹-http://m.iqiyi.com/lib/m_206265214.html)<br>[百度百科](https://baike.baidu.com/item/H2O%20赤砂印记/17021792) |
+| shikanoko nokonoko koshitantan | 鹿乃子乃子虎视眈眈 | 《鹿乃子乃子虎视眈眈》（日语：しかのこのこのここしたんたん）是おしおしお创作的一部搞笑漫画，有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/6/62/鹿乃子乃子虎视眈眈01.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鹿乃子乃子虎视眈眈) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
