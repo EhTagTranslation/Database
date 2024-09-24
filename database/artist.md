@@ -12340,7 +12340,7 @@ example:
 | mizusane | みづさね | ![X](https://pbs.twimg.com/profile_images/520122585657270272/1I1YRpfI_400x400.png)<br><br>**作者推特头像**<br><br>社团`circle mizusane`主笔画师 | [X](https://x.com/midusane) [pixiv](https://www.pixiv.net/users/85993) |
 | ninda hayo | 忍田波葉 |  |  |
 | delta chimaki | ▲ちまき | ![X](https://pbs.twimg.com/profile_images/1616471431956795392/DIi75FXZ_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/chimakidelta) |
-| menbou | めんぼー |  |  |
+| menbou | めんぼー | ![X](https://pbs.twimg.com/profile_images/1628015494350651393/Gg35w15F_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/menbowFederat) [pixiv](https://www.pixiv.net/users/4116954) |
 | uishi poru | 羽衣石ぽる |  |  |
 | momoyama hato | モモヤマハト |  |  |
 | inukami inoji | 犬上いの字 |  |  |
