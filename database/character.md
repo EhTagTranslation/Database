@@ -1401,7 +1401,7 @@ example:
 | itsuwa | 五和 |  |  |
 | lucia | 露琪亚 |  |  |
 | agnese sanctis | 雅妮丝·桑提斯 |  |  |
-| angelene | 安洁莉娜 | 明日方舟六星凝滞师 | [https://prts.wiki/w/安洁莉娜](https://prts.wiki/w/安洁莉娜) |
+| angelene | 安洁莉娜 | 魔法禁书目录 |  |
 | eiga kanmi | 甘味荣华 |  |  |
 | febrie | 菲布理 |  |  |
 | janie | 珍妮 |  |  |
