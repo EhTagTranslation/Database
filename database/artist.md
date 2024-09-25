@@ -2450,7 +2450,7 @@ example:
 | kanekiyo miwa | 兼清みわ |  |  |
 | gayarou | ☆画野朗 |  |  |
 | yashiro seika | 八城惺架 |  | [X](https://x.com/yashiro_seika) [pixiv](https://www.pixiv.net/users/柑橘少女) |
-| tokiwa midori | 常磐緑 |  |  |
+| tokiwa midori | 常磐绿 |  | [X](https://x.com/amanatsu_mikan7) [pixiv](https://www.pixiv.net/users/5156833) |
 | tsubaki jushirou | 椿十四郎 | 椿 十四郎（つばき じゅうしろう、1978年4月14日 - )是日本成人向漫画家。<br>作品以`lolicon`系和兄妹`incest`为主。<br>![图](https://pbs.twimg.com/profile_images/939057661869305856/V-F6mz69_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/f8/4f/f84f121a24d187eb39a3322e834b5b5e7f0f1273-238728-1125-1600-jpg_l.jpg")<br>《アネ♥LOVER》 | [X](https://x.com/jushirou) [pixiv](https://www.pixiv.net/users/17111) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/椿十四郎) |
 | tukinowagamo | 月ノ輪ガモ |  |  |
 | uron rei | ウーロン・レイ |  |  |
