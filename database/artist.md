@@ -13100,6 +13100,7 @@ example:
 | clara.v | clara鳴晴 | 来自台湾，女性插画师。邮箱：vincent.orz@gmail.com | [pixiv](https://www.pixiv.net/users/2112070)<br>[脸书](https://www.facebook.com/clara.seimei)<br>[X](https://x.com/clara_v_)<br>[https://clara0-0v.mystrikingly.com/](https://clara0-0v.mystrikingly.com/)<br>[YouTube](https://www.youtube.com/user/claraAmamiya)<br>[http://blog.yam.com/spellhoeler](http://blog.yam.com/spellhoeler)<br>[http://denmoe.com](http://denmoe.com)<br>[https://www.twitch.tv/clara\_0\_0v](https://www.twitch.tv/clara_0_0v) |
 | shipuoru | しぷおる |  | [X](https://x.com/shipuolu2) [pixiv](https://www.pixiv.net/users/92250638) |
 | mochiji | モチヂ |  | [X](https://x.com/mcg_OHkamotOH) [pixiv](https://www.pixiv.net/users/5724126) |
+| mushipan | むしパン |  | [X](https://x.com/mushitate_pan) |
 
 <!--TEMPLATE:
 |  |  |  |  |
