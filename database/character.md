@@ -5656,6 +5656,7 @@ example:
 | horn | 号角 | 明日方舟六星重装干员号角 | [https://prts.wiki/w/号角#干员信息](https://prts.wiki/w/号角#干员信息) |
 | whisperain | 絮雨 | 明日方舟五星疗养师 | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
 | andreana | 安哲拉 | 明日方舟五星神射手 | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
+| degenbrecher | 锏 | 明日方舟六星剑豪 | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
