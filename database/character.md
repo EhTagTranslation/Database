@@ -5654,6 +5654,7 @@ example:
 | futaba igarashi | 五十岚双叶 | ![隐](# "https://ehgt.org/0e/50/0e50ad75e402ba871662be568a605eafa68d968f-1550126-1450-1590-png_l.jpg")<br>![隐](# "https://img3.gelbooru.com/images/58/b0/58b0de5f9689e5c53880d4e5763236ff.png") |  |
 | wanderer | 流浪者 | 流浪者是游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/流浪者%28原神%29#) |
 | horn | 号角 | 明日方舟六星重装干员号角 | [https://prts.wiki/w/号角#干员信息](https://prts.wiki/w/号角#干员信息) |
+| whisperain | 絮雨 | 明日方舟五星疗养师 | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
