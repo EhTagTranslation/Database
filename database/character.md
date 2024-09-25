@@ -5655,6 +5655,7 @@ example:
 | wanderer | 流浪者 | 流浪者是游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/流浪者%28原神%29#) |
 | horn | 号角 | 明日方舟六星重装干员号角 | [https://prts.wiki/w/号角#干员信息](https://prts.wiki/w/号角#干员信息) |
 | whisperain | 絮雨 | 明日方舟五星疗养师 | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
+| andreana | 安哲拉 | 明日方舟五星神射手 | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
