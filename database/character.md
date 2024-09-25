@@ -5657,6 +5657,7 @@ example:
 | whisperain | 絮雨 | 明日方舟五星疗养师 | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
 | andreana | 安哲拉 | 明日方舟五星神射手 | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
 | degenbrecher | 锏 | 明日方舟六星剑豪 | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
+| saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
