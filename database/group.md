@@ -715,7 +715,7 @@ example:
 | kuroquis | クロッキー!! |  |  |
 | tmzf no circle | TMZFのサークル |  |  |
 | miniature magic | みにちゅあまじっく |  |  |
-| tinker bell | てぃんかーべる |  |  |
+| tinker bell | てぃんかーべる(白夜茶会) |  |  |
 | just-k | JUST-K |  |  |
 | justice-flame | JUSTICE-FLAME |  |  |
 | yakumi benishouga | 药味红生姜 |  |  |
