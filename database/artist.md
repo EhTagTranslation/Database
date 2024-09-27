@@ -13104,7 +13104,7 @@ example:
 | kiriha | 桐叶 | 桐叶是日本的Galgame原画师，曾隶属于UGUISU KAGURA。2022年10月21日宣布8月时已从UGUISU KAGURA退社，并不再以“桐叶”名义活动。同人社团桐一葉的主宰。 | [https://moegirl.uk/index.php?title=桐叶%28画师%29&variant=zh-sg](https://moegirl.uk/index.php?title=桐叶%28画师%29&variant=zh-sg) |
 | nakata yumi | 中田由美 | 女性画师，从成人向转为了一般向 |  |
 | tamima | たみま |  | [pixiv](https://www.pixiv.net/users/18131292) [X](https://x.com/tamima0307) |
-| amaki | あまき |  | Pixiv: [pixiv](https://www.pixiv.net/users/14849343)<br>Twitter: [X](https://x.com/amaki_2083) |
+| amaki | あまき |  | [pixiv](https://www.pixiv.net/users/14849343) [X](https://x.com/amaki_2083) |
 
 <!--TEMPLATE:
 |  |  |  |  |
