@@ -3805,7 +3805,7 @@ example:
 | abzome | エビゾメ |  |  |
 | acbins | あくびんす |  |  |
 | accio | あっちょ |  |  |
-| ace | エース |  |  |
+| ace | A士 | 台湾画师 |  |
 | acht | アハト |  |  |
 | achumuchi | あちゅむち |  |  |
 | aco | Aco |  |  |
