@@ -13105,6 +13105,7 @@ example:
 | nakata yumi | 中田由美 | 女性画师，从成人向转为了一般向 |  |
 | tamima | たみま |  | [pixiv](https://www.pixiv.net/users/18131292) [X](https://x.com/tamima0307) |
 | amaki | あまき |  | [pixiv](https://www.pixiv.net/users/14849343) [X](https://x.com/amaki_2083) |
+| puru | puru |  | [pixiv](https://www.pixiv.net/users/14038103) |
 
 <!--TEMPLATE:
 |  |  |  |  |
