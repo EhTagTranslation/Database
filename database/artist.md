@@ -13107,6 +13107,7 @@ example:
 | amaki | あまき |  | [pixiv](https://www.pixiv.net/users/14849343) [X](https://x.com/amaki_2083) |
 | puru | puru |  | [pixiv](https://www.pixiv.net/users/14038103) |
 | sheryama | シャーやま |  |  |
+| hoshara | ほしゃら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
