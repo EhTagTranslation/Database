@@ -13108,6 +13108,7 @@ example:
 | puru | puru |  | [pixiv](https://www.pixiv.net/users/14038103) |
 | sheryama | シャーやま |  |  |
 | hoshara | ほしゃら |  |  |
+| panna | ぱんな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
