@@ -13109,6 +13109,7 @@ example:
 | sheryama | シャーやま |  |  |
 | hoshara | ほしゃら |  |  |
 | panna | ぱんな |  |  |
+| sabuustar | さぶ～☆ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
