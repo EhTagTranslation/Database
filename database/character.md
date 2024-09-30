@@ -4864,7 +4864,7 @@ example:
 | mac-10 | MAC-10 | `p:girls frontline` | [https://www.gfwiki.org/w/MAC-10](https://www.gfwiki.org/w/MAC-10) |
 | ppsh-41 | PPSh-41 \| 波波沙 | `p:girls frontline`<br>![](https://gfwiki.org/images/9/92/Pic_PPsh41Mod_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_PapashaSSR.png) | [少前百科GFwiki](https://www.gfwiki.org/w/PPSh-41)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/PapashaSSR) |
 | pps-43 | PPS-43 | `p:girls frontline` | [https://www.gfwiki.org/w/PPS-43](https://www.gfwiki.org/w/PPS-43) |
-| pp-90 | PP-90 | `p:girls frontline` | [https://www.gfwiki.org/w/PP-90](https://www.gfwiki.org/w/PP-90) |
+| pp-90 | PP90 \| 乌琪 | `p:girls frontline`<br><br>少女前线2:追放<br>乌琪即将登场 | [https://www.gfwiki.org/w/PP-90](https://www.gfwiki.org/w/PP-90) |
 | thunder | 雷电 | `p:girls frontline` | [https://www.gfwiki.org/w/雷电](https://www.gfwiki.org/w/雷电) |
 | negev | 内格夫 | `p:girls frontline` | [https://www.gfwiki.org/w/内格夫](https://www.gfwiki.org/w/内格夫) |
 | st ar-15 | ST AR-15 | `p:girls frontline` | [https://www.gfwiki.org/w/ST\_AR-15](https://www.gfwiki.org/w/ST_AR-15) |
