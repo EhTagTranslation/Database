@@ -5660,6 +5660,7 @@ example:
 | saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
 | pekoras mother | 佩克拉妈妈 |  |  |
 | unzen | 云仙 | 1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
+| pp90 | PP90 \| 乌琪 | `p:girls frontline`<br><br>少女前线2:追放<br>乌琪即将登场 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
