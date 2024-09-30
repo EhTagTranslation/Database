@@ -4902,7 +4902,7 @@ example:
 | m200 | M200 | `p:girls frontline` | [http://www.gfwiki.org/w/M200](http://www.gfwiki.org/w/M200) |
 | kar98k | Kar98k | `p:girls frontline` | [http://www.gfwiki.org/w/Kar98k](http://www.gfwiki.org/w/Kar98k) |
 | ots-12 | OTs-12 | `p:girls frontline` | [http://www.gfwiki.org/w/OTs-12](http://www.gfwiki.org/w/OTs-12) |
-| tmp | TMP | `p:girls frontline` | [http://www.gfwiki.org/w/TMP](http://www.gfwiki.org/w/TMP) |
+| tmp | TMP \| 哈卜茜 | `p:girls frontline`<br><br>少女前线2:追放<br>哈卜茜即将登场 | [http://www.gfwiki.org/w/TMP](http://www.gfwiki.org/w/TMP) |
 | fn five-seven | FN-57 | `p:girls frontline` | [http://www.gfwiki.org/w/FN-57](http://www.gfwiki.org/w/FN-57) |
 | sr-3mp | SR-3MP | `p:girls frontline` | [http://www.gfwiki.org/w/SR-3MP](http://www.gfwiki.org/w/SR-3MP) |
 | k5 | K5 | `p:girls frontline` | [http://www.gfwiki.org/w/K5](http://www.gfwiki.org/w/K5) |
