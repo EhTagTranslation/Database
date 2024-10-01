@@ -12890,6 +12890,7 @@ example:
 | urasujibeya | 裏筋部屋 |  |  |
 | tamima-ya | たみま屋 |  |  |
 | yotsuba no suisou | 四ツ葉ノ水槽 |  |  |
+| gamanuntaka | がまぬんたか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
