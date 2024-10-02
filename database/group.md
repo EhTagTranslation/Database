@@ -12891,6 +12891,7 @@ example:
 | tamima-ya | たみま屋 |  |  |
 | yotsuba no suisou | 四ツ葉ノ水槽 |  |  |
 | gamanuntaka | がまぬんたか |  |  |
+| kisei toukyoku | 規制当局 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
