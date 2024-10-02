@@ -13111,6 +13111,7 @@ example:
 | panna | ぱんな |  |  |
 | sabuustar | さぶ～☆ |  |  |
 | mokuyama hito | 木山ひと |  |  |
+| kurotsuki machi | 黒月マチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
