@@ -5668,6 +5668,7 @@ example:
 | lloyd de saloum | 罗伊德·迪·萨卢姆 | 「第七王子」罗伊德·迪·萨卢姆（ロイド·ディ·サルーム（Lloyd-di-Salume）)<br><br>![](https://img.moegirl.org.cn/common/3/38/转生七王子的魔法全解_漫画单行_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/转生七王子的魔法全解) |
 | reina aharen | 阿波连玲奈 |  |  |
 | suzune horikita | 堀北铃音 |  |  |
+| fauna | 塞莱希·法娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
