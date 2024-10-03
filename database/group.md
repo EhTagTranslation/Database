@@ -12892,6 +12892,7 @@ example:
 | yotsuba no suisou | 四ツ葉ノ水槽 |  |  |
 | gamanuntaka | がまぬんたか |  |  |
 | kisei toukyoku | 規制当局 |  |  |
+| houkago highball land | 放課後ハイボールランド |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
