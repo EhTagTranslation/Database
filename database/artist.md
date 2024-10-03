@@ -328,7 +328,7 @@ example:
 | miharu | 美春 \| ミハル | FAKESTAR<br>TTT |  |
 | mush | むっしゅ |  |  |
 | haneinu | 跳犬 |  |  |
-| misaki takahiro | 三崎高博 |  |  |
+| misaki takahiro | はぶらえる |  |  |
 | sada ko-ji | さだこーじ |  |  |
 | mikami mika | 三上ミカ |  |  |
 | nagare ippon | 流一本 |  |  |
