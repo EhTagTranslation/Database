@@ -5662,6 +5662,7 @@ example:
 | unzen | 云仙 | 1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
 | pp90 | PP90 \| 乌琪 | `p:girls frontline`<br><br>少女前线2:追放<br>乌琪即将登场 |  |
 | mualani | 玛拉妮 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛拉妮) |
+| shiori fujisaki | 藤崎诗织 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
