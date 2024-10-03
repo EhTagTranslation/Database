@@ -2304,6 +2304,7 @@ example:
 | h2o footprints in the sand | H2O 沙中足迹 |  | [https://zh.m.wikipedia.org/wiki/H2O\_-FOOTPRINTS\_IN\_THE\_SAND-](https://zh.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND-)<br>[https://www.makura-soft.com/h2o/](https://www.makura-soft.com/h2o/)<br>[https://www.makura-soft.com/AAA/index.htm](https://www.makura-soft.com/AAA/index.htm)<br>[萌娘百科](https://zh.moegirl.org.cn/H2O_-沙中足迹-http://m.iqiyi.com/lib/m_206265214.html)<br>[百度百科](https://baike.baidu.com/item/H2O%20赤砂印记/17021792) |
 | shikanoko nokonoko koshitantan | 鹿乃子乃子虎视眈眈 | 《鹿乃子乃子虎视眈眈》（日语：しかのこのこのここしたんたん）是おしおしお创作的一部搞笑漫画，有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/6/62/鹿乃子乃子虎视眈眈01.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鹿乃子乃子虎视眈眈) |
 | tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu | 转生七王子的魔法全解 | 《转生七王子的魔法全解》（日语：転生したら第七王子だったので、気ままに魔術を極めます）是由谦虚なサークル著作，发布于成为小说家吧的小说，并有漫画、动画改编作品。<br>![](https://img.moegirl.org.cn/common/thumb/3/38/转生七王子的魔法全解_漫画单行_1.jpg/450px-转生七王子的魔法全解_漫画单行_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/转生七王子的魔法全解) |
+| dandadan | 当哒当 | 《当哒当》是由龙幸伸创作的一部漫画。原名《ダンダダン》<br>常见译名：<br>超自然武装当哒当<br>胆大党<br>DAN DA DAN<br><br>![](https://img.moegirl.org.cn/common/3/33/Dandadan_KV.webp) | [萌娘百科](https://zh.moegirl.org.cn/当哒当) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
