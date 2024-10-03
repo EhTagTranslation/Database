@@ -5667,6 +5667,7 @@ example:
 | ririsa amano | 天乃莉莉紗 | 天乃莉莉纱（天乃（あまの） リリサ）是由桥本悠创作的一部漫画《2.5次元的誘惑》中的登场人物。（日語：2.5次元の誘惑（リリサ））<br>![](https://img.moegirl.org.cn/common/1/1f/Ririsa_Anime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
 | lloyd de saloum | 罗伊德·迪·萨卢姆 | 「第七王子」罗伊德·迪·萨卢姆（ロイド·ディ·サルーム（Lloyd-di-Salume）)<br><br>![](https://img.moegirl.org.cn/common/3/38/转生七王子的魔法全解_漫画单行_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/转生七王子的魔法全解) |
 | reina aharen | 阿波连玲奈 |  |  |
+| suzune horikita | 堀北铃音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
