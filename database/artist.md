@@ -13115,6 +13115,7 @@ example:
 | mameneko | まめ猫 | 这是一只起水泡的吸塑猫。 | [pixiv](https://www.pixiv.net/users/14924165)<br>[X](https://x.com/mameneko_funyaa) |
 | richard bahman | リヒャルト・バフマン |  |  |
 | boukoku daitouryou | 某国大統領 |  |  |
+| yuuki fuumi | 有機風味 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
