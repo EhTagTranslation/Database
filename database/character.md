@@ -5664,6 +5664,7 @@ example:
 | mualani | 玛拉妮 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛拉妮) |
 | shiori fujisaki | 藤崎诗织 |  |  |
 | kiwi araga | 阿良河基维 | 阿良河基维（日语：阿良河（あらが） キウィ）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/24/阿良河基维人设.webp) | [萌娘百科](https://zh.moegirl.org.cn/阿良河基维) |
+| ririsa amano | 天乃莉莉紗 | 天乃莉莉纱（天乃（あまの） リリサ）是由桥本悠创作的一部漫画《2.5次元的誘惑》中的登场人物。（日語：2.5次元の誘惑（リリサ））<br>![](https://img.moegirl.org.cn/common/1/1f/Ririsa_Anime.jpg) | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
