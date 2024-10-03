@@ -13117,6 +13117,7 @@ example:
 | boukoku daitouryou | 某国大統領 |  |  |
 | yuuki fuumi | 有機風味 |  |  |
 | nonohara miki | 野々原幹(野野原干) | [维基百科](https://zh.wikipedia.org/wiki/野野原幹)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/野々原幹)<br>[https://dyon.sakura.ne.jp/dyondiary/](https://dyon.sakura.ne.jp/dyondiary/) |  |
+| yumejidake | ユメジダケ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
