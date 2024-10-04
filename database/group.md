@@ -12893,6 +12893,7 @@ example:
 | gamanuntaka | がまぬんたか |  |  |
 | kisei toukyoku | 規制当局 |  |  |
 | houkago highball land | 放課後ハイボールランド |  |  |
+| meifu madou | めーふまどー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
