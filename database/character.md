@@ -5671,6 +5671,7 @@ example:
 | fauna | 塞莱希·法娜 |  |  |
 | momo ayase | 綾瀬桃 | 绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f7039b56a9b41ffa513d27976898?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/绫濑桃/63774516) |
 | andrew graves | 安德鲁·格雷夫斯 | 《安迪和莱利的棺材》中男主角，阿什利·格雷夫斯的哥哥 |  |
+| mrs. graves | 格雷夫斯太太 | 《安迪和莱利的棺材》中兄妹的母亲 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
