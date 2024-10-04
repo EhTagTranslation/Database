@@ -5675,6 +5675,7 @@ example:
 | ashley graves | 阿什利·格雷夫斯 | 《安迪和莱利的棺材》中的女主，安德鲁·格雷夫斯的妹妹 |  |
 | greythroat | 灰喉 | 【代号】灰喉<br>【性别】女<br>【战斗经验】三年<br>【出身地】未公开<br>【生日】11月14日<br>【种族】黎博利<br>【身高】162cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者 | [https://prts.wiki/w/灰喉](https://prts.wiki/w/灰喉) |
 | pepe | 佩佩 | 【代号】佩佩<br>【性别】女<br>【战斗经验】三年<br>【出身地】萨尔贡<br>【生日】6月12日<br>【种族】菲林<br>【身高】155cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/佩佩](https://prts.wiki/w/佩佩) |
+| proviso | 但书 | 【代号】但书<br>【性别】女<br>【战斗经验】没有战斗经验<br>【出身地】卡西米尔<br>【生日】10月30日<br>【种族】库兰塔<br>【身高】165cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/但书](https://prts.wiki/w/但书) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
