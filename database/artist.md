@@ -13120,6 +13120,7 @@ example:
 | yumejidake | ユメジダケ |  |  |
 | morino koala | 森乃こあら |  |  |
 | genmai | 玄米 |  | [pixiv](https://www.pixiv.net/users/4749437) |
+| satsuki usa | 皐月ウサ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
