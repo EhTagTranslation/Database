@@ -9016,7 +9016,7 @@ example:
 | otohimedou | 乙姫堂 |  |  |
 | otoko no roman | 男のROMAN |  |  |
 | otokonoko club | おとこの娘倶楽部 |  |  |
-| otokonoko daisuki iinchou | 男の娘大好き委員長 |  |  |
+| otokonoko daisuki iinchou | ショタモブモム |  |  |
 | otokonoko soft | 男の娘ソフト |  |  |
 | otokonoko to onnanoko | 男の子と女の子 |  |  |
 | otome half line | 乙女ハーフライン |  |  |
