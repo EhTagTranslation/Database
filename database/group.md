@@ -12895,6 +12895,7 @@ example:
 | houkago highball land | 放課後ハイボールランド |  |  |
 | meifu madou | めーふまどー |  |  |
 | nani kashira no shokushu | なにかしらの触手 |  |  |
+| satsuki no usa koya | サツキのウサ小屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
