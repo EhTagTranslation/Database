@@ -7218,7 +7218,7 @@ example:
 | kumimon | kumimon |  |  |
 | kumisan | くみさん |  |  |
 | kumoi takashi | 菅野タカシ | くもいたかし |  |
-| kunaboto | クナボト |  |  |
+| kunaboto | クナボト |  | [pixiv](https://www.pixiv.net/users/19953236) |
 | kuni | クニ |  |  |
 | kunifuto | くにふと |  |  |
 | kunoichi | くノ壱 |  |  |
