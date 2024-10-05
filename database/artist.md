@@ -13121,6 +13121,7 @@ example:
 | morino koala | 森乃こあら |  |  |
 | genmai | 玄米 |  | [pixiv](https://www.pixiv.net/users/4749437) |
 | satsuki usa | サツキのウサ小屋 |  |  |
+| kamishiro piyo | 神代ぴよ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
