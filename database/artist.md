@@ -13122,6 +13122,7 @@ example:
 | genmai | 玄米 |  | [pixiv](https://www.pixiv.net/users/4749437) |
 | satsuki usa | サツキのウサ小屋 |  |  |
 | kamishiro piyo | 神代ぴよ |  |  |
+| tachibana kou | 橘こお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
