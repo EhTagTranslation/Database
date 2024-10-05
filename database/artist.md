@@ -5208,7 +5208,7 @@ example:
 | fumihiro | ふみひろ |  |  |
 | fumikage | 文影 |  |  |
 | fumikiri | ふみきり |  |  |
-| fumio | ふみお |  |  |
+| fumio | フミオ |  | [X](https://x.com/urafmo) [pixiv](https://www.pixiv.net/users/1135956) |
 | fumitani yasunori | フミタニヤスノリ |  |  |
 | fumiya | 文哉 |  |  |
 | fumizuki misoka | 文月みそか |  |  |
