@@ -2715,7 +2715,7 @@ example:
 | kageyama kuroto | 景山玄都 |  |  |
 | netarou | ねたろう |  | [pixiv](https://www.pixiv.net/users/305613) |
 | itou eight | 伊藤エイト |  |  |
-| sajipen | さじペん |  |  |
+| sajipen | さじぺん |  | [X](https://x.com/sajipen) [pixiv](https://www.pixiv.net/users/24954002) |
 | dam | だむ |  |  |
 | ko-yahu | こーやふ |  | [pixiv](https://www.pixiv.net/users/3424578) [X](https://x.com/burittohiroba) |
 | toufu | とうふ |  | [pixiv](https://www.pixiv.net/users/3902314) [X](https://x.com/tofu_bam) |
