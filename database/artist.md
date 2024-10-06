@@ -13124,6 +13124,7 @@ example:
 | kamishiro piyo | 神代ぴよ |  |  |
 | tachibana kou | 橘こお |  |  |
 | kutsushita danshaku | 靴下男爵 |  |  |
+| taniyama-san | 谷山さん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
