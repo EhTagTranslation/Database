@@ -13127,6 +13127,7 @@ example:
 | taniyama-san | 谷山さん |  |  |
 | kannagi rei | かんなぎれい |  |  |
 | luicent | るいせんと |  | [X](https://x.com/llluicent)<br>[pixiv](https://www.pixiv.net/users/4742132) |
+| dnwls3010 | ふわり |  | [X](https://x.com/dnwls3010)<br>[pixiv](https://www.pixiv.net/users/9212166) |
 
 <!--TEMPLATE:
 |  |  |  |  |
