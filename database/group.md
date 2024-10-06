@@ -12899,6 +12899,7 @@ example:
 | jikabi baisen | 直火焙煎 |  |  |
 | junk food | じゃんくふぅど |  |  |
 | jiko moratorium | 自己モラトリアム |  |  |
+| buster app | ばすたーあっぷ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
