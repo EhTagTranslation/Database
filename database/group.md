@@ -12897,6 +12897,7 @@ example:
 | nani kashira no shokushu | なにかしらの触手 |  |  |
 | satsuki no usa koya | サツキのウサ小屋 |  |  |
 | jikabi baisen | 直火焙煎 |  |  |
+| junk food | じゃんくふぅど |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
