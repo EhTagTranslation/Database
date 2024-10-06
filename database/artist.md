@@ -13130,6 +13130,7 @@ example:
 | dnwls3010 | ふわり |  | [X](https://x.com/dnwls3010)<br>[pixiv](https://www.pixiv.net/users/9212166) |
 | rucaco | るかこ |  | [pixiv](https://www.pixiv.net/users/9155411)<br>[X](https://x.com/_rucaco_) |
 | kazesaki furea | 風咲ふれあ |  |  |
+| teritama potekora | 照玉ぽてこら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
