@@ -13123,6 +13123,7 @@ example:
 | satsuki usa | サツキのウサ小屋 |  |  |
 | kamishiro piyo | 神代ぴよ |  |  |
 | tachibana kou | 橘こお |  |  |
+| kutsushita danshaku | 靴下男爵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
