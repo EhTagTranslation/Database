@@ -13126,6 +13126,7 @@ example:
 | kutsushita danshaku | 靴下男爵 |  |  |
 | taniyama-san | 谷山さん |  |  |
 | kannagi rei | かんなぎれい |  |  |
+| luicent | るいせんと |  | [X](https://x.com/llluicent)<br>[pixiv](https://www.pixiv.net/users/4742132) |
 
 <!--TEMPLATE:
 |  |  |  |  |
