@@ -12900,6 +12900,7 @@ example:
 | junk food | じゃんくふぅど |  |  |
 | jiko moratorium | 自己モラトリアム |  |  |
 | buster app | ばすたーあっぷ |  |  |
+| ofuro haitta erai | お風呂入ったえらい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
