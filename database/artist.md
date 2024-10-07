@@ -13138,6 +13138,7 @@ example:
 | nanohana kohina | なのはなこひな |  |  |
 | annin doufu | 杏仁豆腐 |  | [pixiv](https://www.pixiv.net/users/16630)<br>[X](https://x.com/annin_oiko) |
 | surada mami | すらだまみ |  | [X](https://x.com/Syura_mami) |
+| oomiya | お一みや |  | [X](https://x.com/oomiya) |
 
 <!--TEMPLATE:
 |  |  |  |  |
