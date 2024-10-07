@@ -13136,6 +13136,7 @@ example:
 | yukiko | 雪子 |  | [X](https://x.com/aoiyukiko)<br>[萌娘百科](https://zh.moegirl.org.cn/雪子%28漫画家%29#) |
 | shintarou | しんたろー |  | [X](https://x.com/shintarozamurai)<br>[pixiv](https://www.pixiv.net/users/178198) |
 | nanohana kohina | なのはなこひな |  |  |
+| annin doufu | 杏仁豆腐 |  | [pixiv](https://www.pixiv.net/users/16630)<br>[X](https://x.com/annin_oiko) |
 
 <!--TEMPLATE:
 |  |  |  |  |
