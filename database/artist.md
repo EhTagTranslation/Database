@@ -13143,6 +13143,7 @@ example:
 | shinjou ruru | 新条るる |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/新条るる) |
 | chochomi | チョチョミ |  |  |
 | ikamatsu | 烏賊松 |  |  |
+| yodogawa yuo | 淀川ゆお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
