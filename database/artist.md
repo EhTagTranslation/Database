@@ -13132,6 +13132,7 @@ example:
 | kazesaki furea | 風咲ふれあ |  |  |
 | teritama potekora | 照玉ぽてこら |  |  |
 | akabane aomori | 赤羽アオモリ |  |  |
+| yusano | ゆさの |  | [pixiv](https://www.pixiv.net/users/126858)<br>[X](https://x.com/yusano) |
 
 <!--TEMPLATE:
 |  |  |  |  |
