@@ -13140,6 +13140,7 @@ example:
 | surada mami | すらだまみ |  | [X](https://x.com/Syura_mami) |
 | oomiya | お一みや |  | [X](https://x.com/oomiya) |
 | hatopopoko | ハトポポコ |  | [X](https://x.com/hatopopoko)<br>[pixiv](https://www.pixiv.net/users/91645) |
+| shinjou ruru | 新条るる |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/新条るる) |
 
 <!--TEMPLATE:
 |  |  |  |  |
