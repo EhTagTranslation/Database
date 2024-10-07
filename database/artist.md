@@ -13135,6 +13135,7 @@ example:
 | yusano | ゆさの |  | [pixiv](https://www.pixiv.net/users/126858)<br>[X](https://x.com/yusano) |
 | yukiko | 雪子 |  | [X](https://x.com/aoiyukiko)<br>[萌娘百科](https://zh.moegirl.org.cn/雪子%28漫画家%29#) |
 | shintarou | しんたろー |  | [X](https://x.com/shintarozamurai)<br>[pixiv](https://www.pixiv.net/users/178198) |
+| nanohana kohina | なのはなこひな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
