@@ -12903,6 +12903,7 @@ example:
 | ofuro haitta erai | お風呂入ったえらい |  |  |
 | 187 seibutsu | 187生物 |  |  |
 | futari bocchi no solitude | ふたりぼっちのSolitude |  |  |
+| sarukome | サルコメ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
