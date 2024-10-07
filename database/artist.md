@@ -13131,6 +13131,7 @@ example:
 | rucaco | るかこ |  | [pixiv](https://www.pixiv.net/users/9155411)<br>[X](https://x.com/_rucaco_) |
 | kazesaki furea | 風咲ふれあ |  |  |
 | teritama potekora | 照玉ぽてこら |  |  |
+| akabane aomori | 赤羽アオモリ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
