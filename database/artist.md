@@ -13144,6 +13144,7 @@ example:
 | chochomi | チョチョミ |  |  |
 | ikamatsu | 烏賊松 |  |  |
 | yodogawa yuo | 淀川ゆお |  |  |
+| washuu | わしゅう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
