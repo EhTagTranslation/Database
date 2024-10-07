@@ -13145,6 +13145,7 @@ example:
 | ikamatsu | 烏賊松 |  |  |
 | yodogawa yuo | 淀川ゆお |  |  |
 | washuu | わしゅう |  |  |
+| annin musou | 杏仁無双 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
