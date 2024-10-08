@@ -2595,7 +2595,7 @@ example:
 | warrior | 战士 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
 | asuka langley soryu | 惣流·明日香·兰格雷 |  |  |
 | lucina | 露琪娜 |  |  |
-| cynthia | 竹兰 \| 辛西娅 |  |  |
+| cynthia | 竹兰 \| 辛西娅 | 竹兰（又译希罗娜，日文︰シロナ Shirona，英文︰Cynthia）是GAME FREAK旗下的游戏《宝可梦系列》及其衍生作品的登场角色。<br>![](https://p6.itc.cn/q_70/images03/20211006/e4a0b2924eb1403c928a6effac5b65b6.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/竹兰) |
 | hikari horaki | 洞木光 |  |  |
 | rei ayanami | 绫波丽 | 绫波丽（台湾译绫波零）是动画《新世纪福音战士》及其衍生的EVA系列的漫画、游戏等作品的登场角色，第一女主角。<br>![](https://p.sda1.dev/5/a36f92fc796d26e25985a100ce2e63e2/Ayanami_Rei.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绫波丽) |
 | milly | 米蕾尤 | 《勇者斗恶龙怪兽篇》《勇者斗恶龙VI 幻之大地》中角色 |  |
