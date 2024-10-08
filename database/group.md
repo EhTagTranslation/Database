@@ -12904,6 +12904,7 @@ example:
 | 187 seibutsu | 187生物 |  |  |
 | futari bocchi no solitude | ふたりぼっちのSolitude |  |  |
 | sarukome | サルコメ |  |  |
+| unidentified flying baumkuchen | 未確認飛行ばーむくーへん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
