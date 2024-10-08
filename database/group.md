@@ -12905,6 +12905,7 @@ example:
 | futari bocchi no solitude | ふたりぼっちのSolitude |  |  |
 | sarukome | サルコメ |  |  |
 | unidentified flying baumkuchen | 未確認飛行ばーむくーへん |  |  |
+| setsugetsuhuuka | 雪月楓花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
