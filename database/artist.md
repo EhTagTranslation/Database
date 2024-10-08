@@ -13146,6 +13146,7 @@ example:
 | yodogawa yuo | 淀川ゆお |  |  |
 | washuu | わしゅう |  |  |
 | annin musou | 杏仁無双 |  |  |
+| take shinshi | たけ紳士 |  | [pixiv](https://www.pixiv.net/users/7333944)<br>[X](https://x.com/takeshinshi_v2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
