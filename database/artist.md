@@ -13147,6 +13147,7 @@ example:
 | washuu | わしゅう |  |  |
 | annin musou | 杏仁無双 |  |  |
 | take shinshi | たけ紳士 |  | [pixiv](https://www.pixiv.net/users/7333944)<br>[X](https://x.com/takeshinshi_v2) |
+| nanase kokono | 七瀬玖 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
