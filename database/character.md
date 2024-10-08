@@ -5681,6 +5681,7 @@ example:
 | gundo mirei | 郡道美玲 | 郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。 | [萌娘百科](https://zh.moegirl.org.cn/郡道美玲) |
 | catura | 夏托拉 | 日文名：シャトラ | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3020074000) |
 | korisu morino | 杜乃可莉丝 | 杜乃可莉丝（日语：杜乃（もりの） こりす）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://pbs.twimg.com/media/GG26PBJbAAABK1L?format=jpg&name=900x900) | [萌娘百科](https://zh.moegirl.org.cn/杜乃可莉丝) |
+| heian maru | 平安丸 | 平安丸是《舰队收藏》中的角色。<br><br>（日语：平安丸／へいあんまる Heian-maru）曾为日本邮船公司所有之货客兼用轮船。于1951年已经建造有第2代货物船“平安丸”，本项只解说第1代的“平安丸”货客船。<br>2021年5月8日，与活动一起实装，由潜水母舰与潜艇一起消耗道具发动的特殊攻击<br><br>![](https://uploads.kcwiki.cn/commons/b/b5/KanMusu544HDIllust.png) | [舰队百科](https://zh.kcwiki.cn/wiki/平安丸#.E5.B9.B3.E5.AE.89.E4.B8.B8)<br>[维基百科](https://zh.wikipedia.org/wiki/平安丸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
