@@ -5684,6 +5684,7 @@ example:
 | heian maru | 平安丸 | 平安丸是《舰队收藏》中的角色。<br><br>（日语：平安丸／へいあんまる Heian-maru）曾为日本邮船公司所有之货客兼用轮船。于1951年已经建造有第2代货物船“平安丸”，本项只解说第1代的“平安丸”货客船。<br>2021年5月8日，与活动一起实装，由潜水母舰与潜艇一起消耗道具发动的特殊攻击<br><br>![](https://uploads.kcwiki.cn/commons/b/b5/KanMusu544HDIllust.png) | [舰队百科](https://zh.kcwiki.cn/wiki/平安丸#.E5.B9.B3.E5.AE.89.E4.B8.B8)<br>[维基百科](https://zh.wikipedia.org/wiki/平安丸) |
 | reinforce zwei | 琳芙斯II | 日本动画《魔法少女奈叶A's》及其衍生作品中角色<br><br>琳芙斯Ⅱ是日本动画《魔法少女奈叶A’s》及其衍生作品中的角色，由野上由加奈配音。<br>琳芙斯II是暗之书事件结束之后出生的“融合骑”，是八神家最小的孩子。特殊情况时，会辅助疾风的魔法来行使。<br><br>![](https://bkimg.cdn.bcebos.com/pic/a08b87d6277f9e2f96b652ae1330e924b999f391?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [萌娘百科](https://zh.moegirl.org.cn/琳芙斯)<br>[百度百科](https://baike.baidu.com/item/琳芙斯II/15796) |
 | seiko yoshida | 吉田清子 | 吉田清子是由伊藤いづも所创作的漫画《街角魔族》及其衍生作品中的登场角色。<br><br>![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIaQ8qdUPT_cDIBqLdf3IqUduBAj0EEWkjxTKaXbLlfD7RFKgb) | [萌娘百科](https://zh.moegirl.org.cn/吉田清子) |
+| arthur pendragon | 亚瑟·潘德拉贡 | 亚瑟·潘德拉贡是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。在《Fate/Prototype》及前传《Fate/Prototype 苍银的碎片》中登场。<br><br>![](https://img.moegirl.org.cn/common/thumb/2/25/旧剑灵基再临Ⅳ.png/420px-旧剑灵基再临Ⅳ.png) | [萌娘百科](https://zh.moegirl.org.cn/亚瑟·潘德拉贡%28Fate%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
