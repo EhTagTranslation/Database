@@ -5679,6 +5679,7 @@ example:
 | ines | 伊内丝 | 【代号】伊内丝<br>【性别】女<br>【战斗经验】十九年<br>【出身地】卡兹戴尔<br>【生日】2月19日<br>【种族】未公开<br>【身高】168cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为感染者。 | [https://prts.wiki/w/伊内丝](https://prts.wiki/w/伊内丝) |
 | qiubai | 仇白 | 【代号】仇白<br>【性别】女<br>【战斗经验】十年<br>【出身地】炎<br>【生日】5月14日<br>【种族】埃拉菲亚<br>【身高】178cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/仇白#干员档案](https://prts.wiki/w/仇白#干员档案) |
 | gundo mirei | 郡道美玲 | 郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。 | [萌娘百科](https://zh.moegirl.org.cn/郡道美玲) |
+| catura | 夏托拉 | 日文名：シャトラ | [灰机wiki](url=https://gbf.huijiwiki.com/wiki/Char/3020074000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
