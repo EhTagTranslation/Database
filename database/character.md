@@ -5680,6 +5680,7 @@ example:
 | qiubai | 仇白 | 【代号】仇白<br>【性别】女<br>【战斗经验】十年<br>【出身地】炎<br>【生日】5月14日<br>【种族】埃拉菲亚<br>【身高】178cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/仇白#干员档案](https://prts.wiki/w/仇白#干员档案) |
 | gundo mirei | 郡道美玲 | 郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。 | [萌娘百科](https://zh.moegirl.org.cn/郡道美玲) |
 | catura | 夏托拉 | 日文名：シャトラ | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3020074000) |
+| korisu morino | 杜乃可莉丝 | 杜乃可莉丝（日语：杜乃（もりの） こりす）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://pbs.twimg.com/media/GG26PBJbAAABK1L?format=jpg&name=900x900) | [萌娘百科](https://zh.moegirl.org.cn/杜乃可莉丝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
