@@ -13150,6 +13150,7 @@ example:
 | nanase kokono | 七瀬玖 |  |  |
 | matsumoto kichidi | 松本きちぢ |  | [pixiv](https://www.pixiv.net/users/1778103) |
 | tachikawa natsuki | 太刀川七月 |  |  |
+| kotakemaru | 小竹丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
