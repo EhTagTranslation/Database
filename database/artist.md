@@ -13153,6 +13153,7 @@ example:
 | kotakemaru | 小竹丸 |  |  |
 | nekomugi | 猫麦 |  | [X](https://x.com/09ra_19ra)<br>[pixiv](https://www.pixiv.net/users/39802677) |
 | yuyuco | ゆゆこ |  | [X](https://x.com/yuyucocco_)<br>[pixiv](https://www.pixiv.net/users/31027429) |
+| karya | かりゃー |  | [X](https://x.com/tori_buta_ushi_)<br>[pixiv](https://www.pixiv.net/users/30694668) |
 
 <!--TEMPLATE:
 |  |  |  |  |
