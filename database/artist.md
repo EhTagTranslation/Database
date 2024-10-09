@@ -13155,6 +13155,7 @@ example:
 | yuyuco | ゆゆこ |  | [X](https://x.com/yuyucocco_)<br>[pixiv](https://www.pixiv.net/users/31027429) |
 | karya | かりゃー |  | [X](https://x.com/tori_buta_ushi_)<br>[pixiv](https://www.pixiv.net/users/30694668) |
 | kanora | かのら |  | [X](https://x.com/kanora)<br>[pixiv](https://www.pixiv.net/users/3959389) |
+| metako | めた子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
