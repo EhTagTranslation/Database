@@ -12906,6 +12906,7 @@ example:
 | sarukome | サルコメ |  |  |
 | unidentified flying baumkuchen | 未確認飛行ばーむくーへん |  |  |
 | setsugetsuhuuka | 雪月楓花 |  |  |
+| putama koubou | ぷ玉工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
