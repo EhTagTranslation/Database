@@ -13156,6 +13156,7 @@ example:
 | karya | かりゃー |  | [X](https://x.com/tori_buta_ushi_)<br>[pixiv](https://www.pixiv.net/users/30694668) |
 | kanora | かのら |  | [X](https://x.com/kanora)<br>[pixiv](https://www.pixiv.net/users/3959389) |
 | metako | めた子 |  |  |
+| hiroki00 | Hiro潶 |  | [pixiv](https://www.pixiv.net/users/56015531)<br>[X](https://x.com/mimogulu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
