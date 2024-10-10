@@ -5690,6 +5690,7 @@ example:
 | subaru awa | 安和昴 | 安和昴（日语：安和（あわ） すばる）是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为绿色。<br>![](https://img.moegirl.org.cn/common/d/d9/GBC_character_subaru.webp) | [萌娘百科](https://zh.moegirl.org.cn/安和昴) |
 | momoka kawaragi | 河原木桃香 | 河原木桃香（日语：河原木（かわらぎ） 桃香（ももか））是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为浅蓝色。<br>![](https://img.moegirl.org.cn/common/0/0c/GBC_character_momoka.webp) | [萌娘百科](https://zh.moegirl.org.cn/河原木桃香) |
 | rupa | RUPA | RUPA是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为黄色。<br>![](https://img.moegirl.org.cn/common/thumb/b/b6/GBC_character_rupa.webp/345px-GBC_character_rupa.webp.png) | [萌娘百科](https://zh.moegirl.org.cn/RUPA) |
+| tomo ebizuka | 海老冢智 | 海老冢智（日语：海老塚（えびづか） 智（とも））是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为粉红色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d4/GBC_character_tomo.webp/345px-GBC_character_tomo.webp.png) | [萌娘百科](https://zh.moegirl.org.cn/海老冢智) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
