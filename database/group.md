@@ -12908,6 +12908,7 @@ example:
 | setsugetsuhuuka | 雪月楓花 |  |  |
 | putama koubou | ぷ玉工房 |  |  |
 | natsukian | 七月庵 |  |  |
+| kikiki no kikki | きききのきっき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
