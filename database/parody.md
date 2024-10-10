@@ -2307,6 +2307,7 @@ example:
 | dandadan | 当哒当 | 《当哒当》是由龙幸伸创作的一部漫画。原名《ダンダダン》<br>常见译名：<br>超自然武装当哒当<br>胆大党<br>DAN DA DAN<br><br>![](https://img.moegirl.org.cn/common/3/33/Dandadan_KV.webp) | [萌娘百科](https://zh.moegirl.org.cn/当哒当) |
 | the coffin of andy and leyley | 安迪和莱利的棺材 | 《安迪和莱利的棺材》是一款由 Nemlei 开发并由 Kit9 Studio 为Microsoft Windows发行的心理恐怖冒险游戏。该游戏最初是在Itch.io上发布的演示版，后来在Steam上进行了扩展并以抢先体验状态发布。游戏的当前版本包含四个计划剧集中的两个，后两个目前正在开发中。该剧讲述了安德鲁·格雷夫斯和阿什利·格雷夫斯兄弟姐妹的故事，他们在试图在反乌托邦世界中生存的同时犯下了各种罪行，发现自己与彼此处于一种相互依赖的关系。 | [维基百科（英语）](https://en.wikipedia.org/wiki/The_Coffin_of_Andy_and_Leyley#cite_note-SteamStore-7) |
 | kanpani girls | 企业少女 | 《企业少女》日语：かんぱに☆ガールズ，简称《社长》，是由DMM GAMES开发、DMM.com提供及营运中的网页游戏。<br><br>![](https://img.moegirl.org.cn/common/9/95/Hggujgjhfjh.jpg) | [萌娘百科](https://zh.moegirl.org.cn/企业少女)<br>[X](https://x.com/kanpani_STAFF) |
+| tenkafuma | 天下布魔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
