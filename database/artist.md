@@ -13158,6 +13158,7 @@ example:
 | metako | めた子 |  |  |
 | hiroki00 | Hiro潶 |  | [pixiv](https://www.pixiv.net/users/56015531)<br>[X](https://x.com/mimogulu) |
 | keganin | 毛蟹ん |  | [X](https://x.com/kegani_umai) |
+| yuzu kiro | ゆずきいろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
