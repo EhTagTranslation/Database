@@ -13161,6 +13161,7 @@ example:
 | yuzu kiro | ゆずきいろ |  |  |
 | nekoma kotomitsu | 猫間ことみつ \| 猫間ことみ |  |  |
 | particular | ぱてくらー |  |  |
+| karashina en | カラシナ円 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
