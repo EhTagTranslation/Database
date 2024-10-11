@@ -2308,6 +2308,7 @@ example:
 | the coffin of andy and leyley | 安迪和莱利的棺材 | 《安迪和莱利的棺材》是一款由 Nemlei 开发并由 Kit9 Studio 为Microsoft Windows发行的心理恐怖冒险游戏。该游戏最初是在Itch.io上发布的演示版，后来在Steam上进行了扩展并以抢先体验状态发布。游戏的当前版本包含四个计划剧集中的两个，后两个目前正在开发中。该剧讲述了安德鲁·格雷夫斯和阿什利·格雷夫斯兄弟姐妹的故事，他们在试图在反乌托邦世界中生存的同时犯下了各种罪行，发现自己与彼此处于一种相互依赖的关系。 | [维基百科（英语）](https://en.wikipedia.org/wiki/The_Coffin_of_Andy_and_Leyley#cite_note-SteamStore-7) |
 | kanpani girls | 企业少女 | 《企业少女》日语：かんぱに☆ガールズ，简称《社长》，是由DMM GAMES开发、DMM.com提供及营运中的网页游戏。<br><br>![](https://img.moegirl.org.cn/common/9/95/Hggujgjhfjh.jpg) | [萌娘百科](https://zh.moegirl.org.cn/企业少女)<br>[X](https://x.com/kanpani_STAFF) |
 | tenkafuma | 天下布魔 |  |  |
+| kaitou tenshi twin angel | 快盗天使双胞胎 | 《快盗天使双胞胎》（日语：快盗天使ツインエンジェル；英语：Kaito Tenshi Twin Angel，时常简称为快盗天使）是由TRIVY公司制作的角子机。机台的看板娘便是最初快盗天使角色的原型。后随着机台型号的演变而甚至有了漫画的连载及动画的制作。<br>![](https://m.media-amazon.com/images/I/61ZVAQ5mrWL.jpg) | [萌娘百科](https://zh.moegirl.org.cn/快盗天使双胞胎) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
