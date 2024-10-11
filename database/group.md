@@ -12910,6 +12910,7 @@ example:
 | natsukian | 七月庵 |  |  |
 | kikiki no kikki | きききのきっき |  |  |
 | nekomaya | ねこまや |  |  |
+| kurage no suizou | くらげのすいそう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
