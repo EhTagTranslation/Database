@@ -13163,6 +13163,7 @@ example:
 | particular | ぱてくらー |  |  |
 | karashina en | カラシナ円 |  |  |
 | hagakure kurage | 葉隠くらげ |  |  |
+| tamon sakaki | 多紋サカキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
