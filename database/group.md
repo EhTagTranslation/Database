@@ -12911,6 +12911,7 @@ example:
 | kikiki no kikki | きききのきっき |  |  |
 | nekomaya | ねこまや |  |  |
 | kurage no suizou | くらげのすいそう |  |  |
+| neko no youchuu kansatsukai | 猫の幼虫観察会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
