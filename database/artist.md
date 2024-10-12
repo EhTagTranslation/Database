@@ -13165,6 +13165,7 @@ example:
 | hagakure kurage | 葉隠くらげ |  |  |
 | tamon sakaki | 多紋サカキ |  |  |
 | asano tooru | あさの透 |  |  |
+| uiri | ういり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
