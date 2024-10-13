@@ -13167,6 +13167,7 @@ example:
 | asano tooru | あさの透 |  |  |
 | uiri | ういり |  |  |
 | fujiyoshi | ふじよし |  |  |
+| harumachi uro | 春待うろ |  | [pixiv](https://www.pixiv.net/users/30927610)<br>[X](https://x.com/uro_harumachi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
