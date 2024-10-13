@@ -13166,6 +13166,7 @@ example:
 | tamon sakaki | 多紋サカキ |  |  |
 | asano tooru | あさの透 |  |  |
 | uiri | ういり |  |  |
+| fujiyoshi | ふじよし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
