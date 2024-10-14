@@ -132,6 +132,7 @@ example:
 | tomoyo jiang | Tomoyo酱 |  | [X](https://x.com/TTTomoyojiang) |
 | tao liang azhai | 桃良阿宅 |  |  |
 | guaxichan | 瓜希酱 |  |  |
+| ying lili | 樱梨梨 | 中国Cosplayer | [X](https://x.com/Eririchyan) |
 
 <!--
 Template: 
