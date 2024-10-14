@@ -57,7 +57,7 @@ example:
 | okita rinka | 冲田凛花 |  | [X](https://x.com/okitarinka01) |
 | nekokoyoshi | 爆机少女喵小吉 |  | [X](https://x.com/nekokoyoshi_) |
 | akemi101xoxo | Akemi101xoxo |  |  |
-| hoshilily | 星之迟迟 | 墨白影画工作室成员，COSER<br>喜欢扮演游戏明日方舟、碧蓝航线里面的角色，还原的也非常棒！<br>星之迟迟，知名动漫博主，98年陕西妹子，也是一位coser，活跃微博人气不错。<br>生日：2000-09-20 | 微博：[微博](https://weibo.com/hoshilily)<br>推特：[X](https://x.com/hoshilily1)<br>ins：[Instagram](https://www.instagram.com/hoshilily_cos/)<br>微店：[https://weidian.com/?userid=1324330066](https://weidian.com/?userid=1324330066) |
+| hoshilily | 星之迟迟 | 墨白影画工作室成员，COSER<br>喜欢扮演游戏明日方舟、碧蓝航线里面的角色，还原的也非常棒！<br>星之迟迟，知名动漫博主，93年甘肃妹子，也是一位coser，活跃微博人气不错。<br>（资料来源于网上，可能已经过时） | 微博：[微博](https://weibo.com/hoshilily)<br>推特：[X](https://x.com/hoshilily1)<br>ins：[Instagram](https://www.instagram.com/hoshilily_cos/)<br>微店：[https://weidian.com/?userid=1324330066](https://weidian.com/?userid=1324330066) |
 | yurikodxd | YurikoDxD |  |  |
 | yuuforia | Yuuforia |  |  |
 | lovelyspacekitten | LovelySpaceKitten |  |  |
