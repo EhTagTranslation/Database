@@ -5694,6 +5694,7 @@ example:
 | yukari ayase | 绫濑由加莉 |  | [萌娘百科](https://zh.moegirl.org.cn/绫濑由加莉) |
 | hiromi seki | 关裕美 |  | [萌娘百科](https://zh.moegirl.org.cn/关裕美) |
 | swiftsure | 确捷 |  | [BILIGAME WIKI](https://wiki.biligame.com/blhx/确捷) |
+| ume hanami | 花海佑芽 |  | [萌娘百科](https://zh.moegirl.org.cn/花海佑芽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
