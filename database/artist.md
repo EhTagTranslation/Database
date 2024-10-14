@@ -13170,6 +13170,7 @@ example:
 | harumachi uro | 春待うろ |  | [pixiv](https://www.pixiv.net/users/30927610)<br>[X](https://x.com/uro_harumachi) |
 | yorune | ヨルネ |  | [X](https://x.com/yoruninerune) [pixiv](https://www.pixiv.net/users/80898830) |
 | kurosaki shun | 黒咲俊 |  |  |
+| isoi | あいそい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
