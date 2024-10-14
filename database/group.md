@@ -12914,6 +12914,7 @@ example:
 | neko no youchuu kansatsukai | 猫の幼虫観察会 |  |  |
 | fumotonoya | 梺乃屋 |  |  |
 | yorunineru | ヨルニネル |  |  |
+| usaginoheya | ウサギノヘヤ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
