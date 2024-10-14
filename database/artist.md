@@ -13171,6 +13171,7 @@ example:
 | yorune | ヨルネ |  | [X](https://x.com/yoruninerune) [pixiv](https://www.pixiv.net/users/80898830) |
 | kurosaki shun | 黒咲俊 |  |  |
 | isoi | あいそい |  |  |
+| maij chichico | 明治乳子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
