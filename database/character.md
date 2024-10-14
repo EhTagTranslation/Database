@@ -5695,6 +5695,7 @@ example:
 | hiromi seki | 关裕美 |  | [萌娘百科](https://zh.moegirl.org.cn/关裕美) |
 | swiftsure | 确捷 |  | [BILIGAME WIKI](https://wiki.biligame.com/blhx/确捷) |
 | ume hanami | 花海佑芽 |  | [萌娘百科](https://zh.moegirl.org.cn/花海佑芽) |
+| yusei fudo | 不动游星 | 动画/漫画《游戏王5D's》及其衍生作品的登场角色。<br><br>头脑聪明，看起来是一位很冷酷的人，其实是一位关心朋友、内心热情的青年，为出场“World·Riding-Duel· Grand Prix”（世界骑乘决斗大奖赛）用自己的手巧妙地组装出了一台“D /轮”（摩托车）。在手臂上有着龙头样式原为龙尾样式的龙印。<br><br>看重朋友们的友情，在后期嘴炮里经常会出现“绊”（きずな）/“羁绊”（きはん）来表达感情，于是得名“绊厨”。<br><br>OP中和俺の嫁黑蔷薇魔女十六夜秋同框的场景，配合歌词和剧情，使得两人的配对CP呼声是游戏王系列的BG向CP中呼声最高的ED5画面里和秋姐的一幕差点变成官方发糖，可惜大结局还是走了牛尾线。 | [萌娘百科](https://zh.moegirl.org.cn/不动游星) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
