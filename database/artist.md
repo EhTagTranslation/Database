@@ -13172,6 +13172,7 @@ example:
 | kurosaki shun | 黒咲俊 |  |  |
 | isoi | あいそい |  |  |
 | maij chichico | 明治乳子 |  |  |
+| guremasu | ぐれます |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
