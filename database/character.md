@@ -5699,6 +5699,7 @@ example:
 | tsubasa kazanari | 风鸣翼 |  | [萌娘百科](https://zh.moegirl.org.cn/风鸣翼) |
 | elon musk | 埃隆·马斯克 |  | [Wikipedia](https://zh.wikipedia.org/wiki/埃隆·马斯克) |
 | kearsarge | 奇尔沙治 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:奇尔沙治) |
+| feixiao | 飞霄 | 飞霄是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/飞霄) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
