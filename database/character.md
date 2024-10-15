@@ -5705,6 +5705,7 @@ example:
 | miyabi hoshimi | 星见雅 | 星见雅是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/de/d3/ded3478af3a5d7e231a8b7e3368b911c253f53b6-2584467-1440-1920-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/星见雅) |
 | camellya | 椿 | 椿是库洛制作的游戏《鸣潮》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椿%28鸣潮%29#) |
 | koseki bijou | 古石ビジュ― |  | [hololive官网](https://hololive.hololivepro.com/talents/koseki-bijou/) |
+| luciana auxesis theodoro de montefio | 露西 | 露西亚娜·奥克希斯·提奥多·德·蒙特夫，简称露西，是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/1c/1d/1c1db16f6d42e791094e7942cb8aeae39536b48f-3133414-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西亚娜·奥克希斯·提奥多·德·蒙特夫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
