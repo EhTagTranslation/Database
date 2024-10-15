@@ -5704,6 +5704,7 @@ example:
 | burnice white | 柏妮思·怀特 | 柏妮思·怀特是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/16/bf/16bfbb552bc0075d4ae709c981f3b42cd5fc1e79-3383435-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/柏妮思·怀特) |
 | miyabi hoshimi | 星见雅 | 星见雅是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/de/d3/ded3478af3a5d7e231a8b7e3368b911c253f53b6-2584467-1440-1920-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/星见雅) |
 | camellya | 椿 | 椿是库洛制作的游戏《鸣潮》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椿%28鸣潮%29#) |
+| koseki bijou | 古石ビジュ― |  | [hololive官网](https://hololive.hololivepro.com/talents/koseki-bijou/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
