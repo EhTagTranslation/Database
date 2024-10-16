@@ -133,6 +133,7 @@ example:
 | tao liang azhai | 桃良阿宅 |  |  |
 | guaxichan | 瓜希酱 |  |  |
 | ying lili | 樱梨梨 | 中国Cosplayer | [X](https://x.com/Eririchyan) |
+| rissoft | 前羽rr | 中国Cosplayer | [ins](https://www.instagram.com/rissoft_/)<br>[X](https://x.com/rissoft344)<br>[Bilibili](https://space.bilibili.com/808942/) |
 
 <!--
 Template: 
