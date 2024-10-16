@@ -5707,6 +5707,7 @@ example:
 | koseki bijou | 古石ビジュ― |  | [hololive官网](https://hololive.hololivepro.com/talents/koseki-bijou/) |
 | luciana auxesis theodoro de montefio | 露西 | 露西亚娜·奥克希斯·提奥多·德·蒙特夫，简称露西，是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/1c/1d/1c1db16f6d42e791094e7942cb8aeae39536b48f-3133414-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西亚娜·奥克希斯·提奥多·德·蒙特夫) |
 | tomoki kuroki | 黑木智贵 |  |  |
+| muelsyse | 缪尔赛思 |  | [https://prts.wiki/w/缪尔赛思](https://prts.wiki/w/缪尔赛思) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
