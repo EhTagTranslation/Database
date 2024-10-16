@@ -5709,6 +5709,7 @@ example:
 | tomoki kuroki | 黑木智贵 |  |  |
 | muelsyse | 缪尔赛思 |  | [https://prts.wiki/w/缪尔赛思](https://prts.wiki/w/缪尔赛思) |
 | manticore | 狮蝎 |  | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
+| mogador | 莫加多尔 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
