@@ -13173,6 +13173,7 @@ example:
 | isoi | あいそい |  |  |
 | maij chichico | 明治乳子 |  |  |
 | guremasu | ぐれます |  |  |
+| alpha91 | Alpha91 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
