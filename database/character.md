@@ -4444,7 +4444,7 @@ example:
 | admire vega | 爱慕织姬 | ![](https://moegirl.icu/media/thumb/UPDCH_AdmireVega_00.png/580px-UPDCH_AdmireVega_00.png)<br>爱慕织姬是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
 | yorha commander | 寄葉指揮官 |  |  |
 | cidala | 辛妲拉 | 来自游戏[碧蓝幻想（Granblue Fantasy）](https://zh.moegirl.org.cn/碧蓝幻想)。<br><br>守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。以风水掌控运势，决定场面吉凶。只要身边有了这对姐妹，无论走向何方，前途都会大吉大利吧。 | [碧蓝幻想WIKI](https://gbf.huijiwiki.com/wiki/Char/3040377000) |
-| super creek | 超级溪流 | 超级溪流是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
+| super creek | 超级溪流 | ![](https://moegirl.icu/media/thumb/UPDCH_SuperCreek_00.png/580px-UPDCH_SuperCreek_00.png)<br>超级溪流是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
 | cecilia alcott | 塞西莉娅·奥尔卡特 |  | [萌娘百科](https://zh.moegirl.org.cn/塞西莉娅·奥尔卡特) |
 | ling yin huang | 凰铃音 |  | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
 | laura bodewig | 拉芙拉·布迪威伊 |  | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
