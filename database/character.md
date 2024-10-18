@@ -5717,6 +5717,7 @@ example:
 | koleda belobog | 珂蕾妲·贝洛伯格 | 《绝区零》及其衍生作品的登场角色。白祇重工的头儿，年纪轻轻的掌舵人。别号：珂蕾妲、小不点、社长。 | [萌娘百科](https://zh.moegirl.org.cn/珂蕾妲·贝洛伯格) |
 | satono crown | 里见皇冠 |  | [萌娘百科](https://zh.moegirl.org.cn/里见皇冠) |
 | zenno rob roy | 荒漠英雄 |  | [萌娘百科](https://zh.moegirl.org.cn/荒漠英雄) |
+| copano rickey | 小林历奇 |  | [萌娘百科](https://zh.moegirl.org.cn/小林历奇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
