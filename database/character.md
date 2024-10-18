@@ -2484,7 +2484,7 @@ example:
 | hidetoshi dekisugi | 出木杉英才 |  |  |
 |  | ▼ 赛马娘 |  |  |
 | daiwa scarlet | 大和赤骥 |  |  |
-| gold ship | 黄金船 |  |  |
+| gold ship | 黄金船 | 黄金船是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色及虚拟UP主。原型为日本纯血竞赛马匹ゴールドシップ（Gold Ship）。<br>![](https://moegirl.icu/media/thumb/UPDCH_GoldShip_00.png/580px-UPDCH_GoldShip_00.png) | [萌娘百科](https://moegirl.icu/黄金船) |
 | hishi amazon | 菱亚马逊 |  |  |
 | mejiro mcqueen | 目白麦昆 | 目白麦昆是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロマックイーン（Mejiro McQueen）。<br>![](https://moegirl.icu/media/thumb/UPDCH_MejiroMcQueen_00.png/580px-UPDCH_MejiroMcQueen_00.png) | [萌娘百科](https://moegirl.icu/目白麦昆) |
 | silence suzuka | 无声铃鹿 |  |  |
