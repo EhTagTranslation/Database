@@ -2485,7 +2485,7 @@ example:
 |  | ▼ 赛马娘 |  |  |
 | daiwa scarlet | 大和赤骥 | ![](https://moegirl.icu/media/thumb/UPDCH_DaiwaScarlet_00.png/580px-UPDCH_DaiwaScarlet_00.png)<br>大和赤骥是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ダイワスカーレット（Daiwa Scarlet）。 | [萌娘百科](https://moegirl.icu/大和赤骥) |
 | gold ship | 黄金船 | 黄金船是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色及虚拟UP主。原型为日本纯血竞赛马匹ゴールドシップ（Gold Ship）。<br>![](https://moegirl.icu/media/thumb/UPDCH_GoldShip_00.png/580px-UPDCH_GoldShip_00.png) | [萌娘百科](https://moegirl.icu/黄金船) |
-| hishi amazon | 菱亚马逊 |  |  |
+| hishi amazon | 菱亚马逊 | ![](https://moegirl.icu/media/thumb/UPDCH_HishiAmazon_00.png/580px-UPDCH_HishiAmazon_00.png)<br>菱亚马逊是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为于美国出生的纯血竞赛马匹ヒシアマゾン（Hishi Amazon）。 | [萌娘百科](https://moegirl.icu/菱亚马逊) |
 | mejiro mcqueen | 目白麦昆 | 目白麦昆是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロマックイーン（Mejiro McQueen）。<br>![](https://moegirl.icu/media/thumb/UPDCH_MejiroMcQueen_00.png/580px-UPDCH_MejiroMcQueen_00.png) | [萌娘百科](https://moegirl.icu/目白麦昆) |
 | silence suzuka | 无声铃鹿 | 无声铃鹿是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サイレンススズカ（Silence Suzuka）。<br>![](https://moegirl.icu/media/thumb/UPDCH_SilenceSuzuka_00.png/580px-UPDCH_SilenceSuzuka_00.png) | [萌娘百科](https://moegirl.icu/无声铃鹿) |
 | special week | 特别周 | ![](https://moegirl.icu/media/thumb/UPDCH_SpecialWeek_00.png/580px-UPDCH_SpecialWeek_00.png)<br>特别周是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スペシャルウィーク（Special Week）。 | [萌娘百科](https://moegirl.icu/特别周) |
