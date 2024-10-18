@@ -5725,6 +5725,7 @@ example:
 | transcend | 创升 |  | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/创升) |
 | sweep tosho | 东商变革 | 东商变革是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スイープトウショウ（Sweep Tosho）。 | [萌娘百科](https://zh.moegirl.org.cn/东商变革) |
 | verxina | 极峰 | 极峰是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ヴィルシーナ（Verxina）。 | [萌娘百科](https://zh.moegirl.org.cn/极峰) |
+| still in love | 爱如往昔 | 爱如往昔是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スティルインラヴ（Still in Love）。 | [萌娘百科](https://zh.moegirl.org.cn/爱如往昔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
