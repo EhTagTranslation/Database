@@ -5712,6 +5712,7 @@ example:
 | mogador | 莫加多尔 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
 | xilonen | 希诺宁 |  | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
+| citlali | 茜特菈莉 |  | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
