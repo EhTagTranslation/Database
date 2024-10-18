@@ -5713,6 +5713,7 @@ example:
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
 | xilonen | 希诺宁 |  | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
 | citlali | 茜特菈莉 |  | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉) |
+| neo universe | 新宇宙 |  | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/新宇宙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
