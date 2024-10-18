@@ -5757,6 +5757,7 @@ example:
 | anshinzawa sasami | 安心泽刺刺美 | ![](https://moegirl.icu/media/UPDCH_AnshinzawaSasami_00.png)<br>安心泽刺刺美（日语：安心沢（あんしんざわ）刺々美（ささみ））是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。 | [萌娘百科](https://moegirl.icu/安心泽刺刺美) |
 | marvelous sunday | 美丽周日 | ![](https://moegirl.icu/media/thumb/UPDCH_MarvelousSunday_00.png/580px-UPDCH_MarvelousSunday_00.png)<br>美丽周日是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マーベラスサンデー（Marvelous Sunday）。 | [萌娘百科](https://moegirl.icu/美丽周日) |
 | suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>美波铃奈（日语：美波（みなみ） 鈴奈（すずな））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为铃奈（日语：スズナ）。 | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
+| suzume amano | 天野铃莓 | ![](https://moegirl.uk/images/7/7a/Suzume_prin_cone.png)<br>天野铃莓（日语：天野（あまの） すずめ）是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为铃莓（日语：スズメ）。 | [萌娘百科](https://moegirl.uk/天野铃莓) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
