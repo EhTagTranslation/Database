@@ -5754,6 +5754,7 @@ example:
 | sirius symboli | 天狼星象征 | ![](https://moegirl.icu/media/thumb/UPDCH_SiriusSymboli_00.png/580px-UPDCH_SiriusSymboli_00.png)<br>天狼星象征是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シリウスシンボリ（Sirius Symboli）。 | [萌娘百科](https://moegirl.icu/天狼星象征) |
 | mejiro palmer | 目白善信 | ![](https://moegirl.icu/media/thumb/UPDCH_MejiroPalmer_00.png/580px-UPDCH_MejiroPalmer_00.png)<br>目白善信是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロパーマー（Mejiro Palmer）。 | [萌娘百科](https://moegirl.icu/目白善信) |
 | symboli kris s | 吉兆 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliKrisS_00.png/580px-UPDCH_SymboliKrisS_00.png)<br>吉兆是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリクリスエス（Symboli Kris S）。 | [萌娘百科](https://moegirl.icu/吉兆) |
+| anshinzawa sasami | 安心泽刺刺美 | ![](https://moegirl.icu/media/UPDCH_AnshinzawaSasami_00.png)<br>安心泽刺刺美（日语：安心沢（あんしんざわ）刺々美（ささみ））是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。 | [萌娘百科](https://moegirl.icu/安心泽刺刺美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
