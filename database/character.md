@@ -5748,6 +5748,7 @@ example:
 | t.m. opera o | 好歌剧 | 好歌剧是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹テイエムオペラオー（T.M. Opera O）。 | [萌娘百科](https://zh.moegirl.org.cn/好歌剧) |
 | air shakur | 空中神宫 | 空中神宫是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹エアシャカール（Air Shakur）。 | [萌娘百科](https://zh.moegirl.org.cn/空中神宫) |
 | sakura laurel | 樱花桂冠 | 樱花桂冠是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サクラローレル（Sakura Laurel）。<br>![](https://img.moegirl.org.cn/common/thumb/3/3b/樱花桂冠_pid102870188.png/360px-樱花桂冠_pid102870188.png) | [萌娘百科](https://zh.moegirl.org.cn/樱花桂冠) |
+| dantsu flame | 烈焰快驹 | ![](https://static.wikia.nocookie.net/umamusume/images/1/19/Dantsu_Flame_%28Main%29.png)<br>烈焰快驹是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ダンツフレーム（Dantsu Flame）。 | [Fandom](https://umamusume.fandom.com/wiki/Dantsu_Flame) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
