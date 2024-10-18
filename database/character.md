@@ -5730,7 +5730,7 @@ example:
 | winning ticket | 胜利奖券 | ![](https://moegirl.icu/media/thumb/UPDCH_WinningTicket_00.png/580px-UPDCH_WinningTicket_00.png)<br>胜利奖券是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ウイニングチケット（Winning Ticket）。 | [萌娘百科](https://zh.moegirl.org.cn/胜利奖券) |
 | mejiro dober | 目白多伯 | ![](https://moegirl.icu/media/thumb/UPDCH_MejiroDober_00.png/580px-UPDCH_MejiroDober_00.png)<br>目白多伯是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロドーベル（Mejiro Dober）。 | [萌娘百科](https://zh.moegirl.org.cn/目白多伯) |
 | cheval grand | 高尚骏逸 | ![](https://moegirl.icu/media/thumb/UPDCH_ChevalGrand_00.png/580px-UPDCH_ChevalGrand_00.png)<br>高尚骏逸是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シュヴァルグラン（Cheval Grand）。 | [萌娘百科](https://zh.moegirl.org.cn/高尚骏逸) |
-| aston machan | 真弓快车 | 真弓快车是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アストンマーチャン（Aston Machan）。 | [萌娘百科](https://zh.moegirl.org.cn/真弓快车) |
+| aston machan | 真弓快车 | ![](https://moegirl.icu/media/thumb/UPDCH_AstonMachan_00.png/580px-UPDCH_AstonMachan_00.png)<br>真弓快车是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アストンマーチャン（Aston Machan）。 | [萌娘百科](https://zh.moegirl.org.cn/真弓快车) |
 | daiichi ruby | 第一红宝石 | 第一红宝石是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ダイイチルビー（Daiichi Ruby）。 | [萌娘百科](https://zh.moegirl.org.cn/第一红宝石) |
 | mejiro bright | 目白光明 | 目白光明是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロブライト（Mejiro Bright）。 | [萌娘百科](https://zh.moegirl.org.cn/目白光明) |
 | mejiro ramonu | 目白高峰 | 目白高峰是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロラモーヌ（Mejiro Ramonu）。 | [萌娘百科](https://zh.moegirl.org.cn/目白高峰) |
