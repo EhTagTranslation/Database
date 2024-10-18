@@ -5755,6 +5755,7 @@ example:
 | mejiro palmer | 目白善信 | ![](https://moegirl.icu/media/thumb/UPDCH_MejiroPalmer_00.png/580px-UPDCH_MejiroPalmer_00.png)<br>目白善信是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロパーマー（Mejiro Palmer）。 | [萌娘百科](https://moegirl.icu/目白善信) |
 | symboli kris s | 吉兆 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliKrisS_00.png/580px-UPDCH_SymboliKrisS_00.png)<br>吉兆是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリクリスエス（Symboli Kris S）。 | [萌娘百科](https://moegirl.icu/吉兆) |
 | anshinzawa sasami | 安心泽刺刺美 | ![](https://moegirl.icu/media/UPDCH_AnshinzawaSasami_00.png)<br>安心泽刺刺美（日语：安心沢（あんしんざわ）刺々美（ささみ））是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。 | [萌娘百科](https://moegirl.icu/安心泽刺刺美) |
+| marvelous sunday | 美丽周日 | ![](https://moegirl.icu/media/thumb/UPDCH_MarvelousSunday_00.png/580px-UPDCH_MarvelousSunday_00.png)<br>美丽周日是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マーベラスサンデー（Marvelous Sunday）。 | [萌娘百科](https://moegirl.icu/美丽周日) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
