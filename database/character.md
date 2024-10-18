@@ -5741,6 +5741,7 @@ example:
 | ikuno dictus | 生野狄杜斯 | 生野狄杜斯是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹イクノディクタス（Ikuno Dictus）。 | [萌娘百科](https://zh.moegirl.org.cn/生野狄杜斯) |
 | kawakami princess | 川上公主 | 川上公主是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹カワカミプリンセス（Kawakami Princess）。 | [萌娘百科](https://zh.moegirl.org.cn/川上公主) |
 | tosen jordan | 东瀛佐敦 | 东瀛佐敦是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹トーセンジョーダン（Tosen Jordan）。 | [萌娘百科](https://zh.moegirl.org.cn/东瀛佐敦) |
+| sakura chiyono o | 樱花千代王 | 樱花千代王是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サクラチヨノオー（Sakura Chiyono O）。 | [萌娘百科](https://zh.moegirl.org.cn/樱花千代王) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
