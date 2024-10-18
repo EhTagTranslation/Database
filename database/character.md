@@ -5744,6 +5744,7 @@ example:
 | sakura chiyono o | 樱花千代王 | 樱花千代王是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サクラチヨノオー（Sakura Chiyono O）。 | [萌娘百科](https://zh.moegirl.org.cn/樱花千代王) |
 | sakura bakushin o | 樱花进王 | 樱花进王是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サクラバクシンオー（Sakura Bakushin O）。 | [萌娘百科](https://zh.moegirl.org.cn/樱花进王) |
 | inari one | 稻荷一 | 稻荷一是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹イナリワン（Inari One）。 | [萌娘百科](https://zh.moegirl.org.cn/稻荷一) |
+| tamamo cross | 玉藻十字 | 玉藻十字是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹タマモクロス（Tamamo Cross）。 | [萌娘百科](https://zh.moegirl.org.cn/玉藻十字) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
