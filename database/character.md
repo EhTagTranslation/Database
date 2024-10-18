@@ -5751,6 +5751,7 @@ example:
 | dantsu flame | 烈焰快驹 | ![](https://static.wikia.nocookie.net/umamusume/images/1/19/Dantsu_Flame_%28Main%29.png)<br>烈焰快驹是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ダンツフレーム（Dantsu Flame）。 | [Fandom](https://umamusume.fandom.com/wiki/Dantsu_Flame) |
 | shinko windy | 新光风 | ![](https://moegirl.icu/media/thumb/UPDCH_ShinkoWindy_00.png/580px-UPDCH_ShinkoWindy_00.png)<br>新光风是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンコウウインディ（Shinko Windy）。 | [萌娘百科](https://moegirl.icu/新光风) |
 | wonder acute | 奇锐骏 | ![](https://moegirl.icu/media/thumb/UPDCH_WonderAcute_00.png/580px-UPDCH_WonderAcute_00.png)<br>奇锐骏是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ワンダーアキュート（Wonder Acute）。 | [萌娘百科](https://zh.moegirl.org.cn/奇锐骏) |
+| sirius symboli | 天狼星象征 | ![](https://moegirl.icu/media/thumb/UPDCH_SiriusSymboli_00.png/580px-UPDCH_SiriusSymboli_00.png)<br>天狼星象征是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シリウスシンボリ（Sirius Symboli）。 | [萌娘百科](https://moegirl.icu/天狼星象征) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
