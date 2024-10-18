@@ -5714,6 +5714,7 @@ example:
 | xilonen | 希诺宁 |  | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
 | citlali | 茜特菈莉 |  | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉) |
 | neo universe | 新宇宙 |  | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/新宇宙) |
+| koleda belobog | 珂蕾妲·贝洛伯格 | 《绝区零》及其衍生作品的登场角色。白祇重工的头儿，年纪轻轻的掌舵人。别号：珂蕾妲、小不点、社长。 | [萌娘百科](https://zh.moegirl.org.cn/珂蕾妲·贝洛伯格) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
