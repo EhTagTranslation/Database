@@ -4440,7 +4440,7 @@ example:
 | mahiro oyama | 绪山真寻 | 是由猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，男主角（♀）。<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了！一讯社_第一卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绪山真寻) |
 | seiun sky | 青云天空 | 青云天空是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。<br>![](https://moegirl.icu/media/thumb/UPDCH_SeiunSky_00.png/580px-UPDCH_SeiunSky_00.png) | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
 | curren chan | 真机伶 | ![](https://moegirl.icu/media/thumb/UPDCH_CurrenChan_00.png/580px-UPDCH_CurrenChan_00.png)<br>真机伶是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹カレンチャン（Curren Chan）。 | [萌娘百科](https://zh.moegirl.org.cn/真机伶) |
-| symboli rudolf | 鲁道夫象征 | 鲁道夫象征是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
+| symboli rudolf | 鲁道夫象征 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliRudolf_00.png/580px-UPDCH_SymboliRudolf_00.png)<br>鲁道夫象征是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
 | admire vega | 爱慕织姬 | 爱慕织姬是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
 | yorha commander | 寄葉指揮官 |  |  |
 | cidala | 辛妲拉 | 来自游戏[碧蓝幻想（Granblue Fantasy）](https://zh.moegirl.org.cn/碧蓝幻想)。<br><br>守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。以风水掌控运势，决定场面吉凶。只要身边有了这对姐妹，无论走向何方，前途都会大吉大利吧。 | [碧蓝幻想WIKI](https://gbf.huijiwiki.com/wiki/Char/3040377000) |
