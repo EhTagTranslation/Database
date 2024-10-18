@@ -2490,7 +2490,7 @@ example:
 | silence suzuka | 无声铃鹿 | 无声铃鹿是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サイレンススズカ（Silence Suzuka）。<br>![](https://moegirl.icu/media/thumb/UPDCH_SilenceSuzuka_00.png/580px-UPDCH_SilenceSuzuka_00.png) | [萌娘百科](https://moegirl.icu/无声铃鹿) |
 | special week | 特别周 | ![](https://moegirl.icu/media/thumb/UPDCH_SpecialWeek_00.png/580px-UPDCH_SpecialWeek_00.png)<br>特别周是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スペシャルウィーク（Special Week）。 | [萌娘百科](https://moegirl.icu/特别周) |
 | tokai teio | 东海帝王 | ![](https://moegirl.icu/media/thumb/UPDCH_TokaiTeio_00.png/580px-UPDCH_TokaiTeio_00.png)<br>东海帝王是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹トウカイテイオー（Tokai Teio）。<br>身高	150cm<br>体重	无增减<br>三围	B77·W54·H76<br>生日	4月20日<br>星座	白羊座 | [萌娘百科](https://zh.moegirl.org.cn/东海帝王) |
-| taiki shuttle | 大树快车 |  |  |
+| taiki shuttle | 大树快车 | ![](https://moegirl.icu/media/thumb/UPDCH_TaikiShuttle_00.png/580px-UPDCH_TaikiShuttle_00.png)<br>大树快车是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为于美国出生的纯血竞赛马匹タイキシャトル（Taiki Shuttle）。 | [萌娘百科](https://moegirl.icu/大树快车) |
 |  | ▼ 超次元游戏海王星 |  |  |
 |  | 超次元游戏海王星 > 女神 |  |  |
 | neptune | 涅普迪努 | 所属作品：`p:hyperdimension neptunia`<br>![图](https://ehgt.org/ed/27/ed27fdb040337b6148c37d5fcdcff6c440c379f0-2430335-4877-6950-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/涅普缇努) |
