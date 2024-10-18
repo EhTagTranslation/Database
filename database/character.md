@@ -5721,6 +5721,7 @@ example:
 | hokko tarumae | 北港火山 |  | [萌娘百科](https://zh.moegirl.org.cn/北港火山) |
 | yayoi akikawa | 秋川弥生 |  | [萌娘百科](https://zh.moegirl.org.cn/秋川弥生) |
 | yukino bijin | 雪之美人 |  | [萌娘百科](https://zh.moegirl.org.cn/雪之美人) |
+| nishino flower | 西野花 |  | [萌娘百科](https://zh.moegirl.org.cn/西野花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
