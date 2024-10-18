@@ -5746,6 +5746,7 @@ example:
 | inari one | 稻荷一 | 稻荷一是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹イナリワン（Inari One）。 | [萌娘百科](https://zh.moegirl.org.cn/稻荷一) |
 | tamamo cross | 玉藻十字 | 玉藻十字是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹タマモクロス（Tamamo Cross）。 | [萌娘百科](https://zh.moegirl.org.cn/玉藻十字) |
 | t.m. opera o | 好歌剧 | 好歌剧是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹テイエムオペラオー（T.M. Opera O）。 | [萌娘百科](https://zh.moegirl.org.cn/好歌剧) |
+| air shakur | 空中神宫 | 空中神宫是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹エアシャカール（Air Shakur）。 | [萌娘百科](https://zh.moegirl.org.cn/空中神宫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
