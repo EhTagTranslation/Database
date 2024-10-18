@@ -5719,6 +5719,7 @@ example:
 | zenno rob roy | 荒漠英雄 |  | [萌娘百科](https://zh.moegirl.org.cn/荒漠英雄) |
 | copano rickey | 小林历奇 |  | [萌娘百科](https://zh.moegirl.org.cn/小林历奇) |
 | hokko tarumae | 北港火山 |  | [萌娘百科](https://zh.moegirl.org.cn/北港火山) |
+| yayoi akikawa | 秋川弥生 |  | [萌娘百科](https://zh.moegirl.org.cn/秋川弥生) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
