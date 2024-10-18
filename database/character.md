@@ -5715,7 +5715,7 @@ example:
 | citlali | 茜特菈莉 |  | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉) |
 | neo universe | 新宇宙 | 新宇宙是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ネオユニヴァース（Neo Universe）。<br>![](https://img.moegirl.org.cn/common/thumb/b/bf/UPDCH_NeoUniverse_00.png/580px-UPDCH_NeoUniverse_00.png) | [萌娘百科](https://zh.moegirl.org.cn/新宇宙%28赛马娘_Pretty_Derby%29#) |
 | koleda belobog | 珂蕾妲·贝洛伯格 | 《绝区零》及其衍生作品的登场角色。白祇重工的头儿，年纪轻轻的掌舵人。别号：珂蕾妲、小不点、社长。 | [萌娘百科](https://zh.moegirl.org.cn/珂蕾妲·贝洛伯格) |
-| satono crown | 里见皇冠 |  | [萌娘百科](https://zh.moegirl.org.cn/里见皇冠) |
+| satono crown | 里见皇冠 | 里见皇冠是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サトノクラウン（Satono Crown）。<br>![](https://img.moegirl.org.cn/common/thumb/1/14/UPDCH_SatonoCrown_00.png/580px-UPDCH_SatonoCrown_00.png) | [萌娘百科](https://zh.moegirl.org.cn/里见皇冠) |
 | zenno rob roy | 荒漠英雄 |  | [萌娘百科](https://zh.moegirl.org.cn/荒漠英雄) |
 | copano rickey | 小林历奇 |  | [萌娘百科](https://zh.moegirl.org.cn/小林历奇) |
 | hokko tarumae | 北港火山 |  | [萌娘百科](https://zh.moegirl.org.cn/北港火山) |
