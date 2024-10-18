@@ -5718,7 +5718,7 @@ example:
 | satono crown | 里见皇冠 | 里见皇冠是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹サトノクラウン（Satono Crown）。<br>![](https://img.moegirl.org.cn/common/thumb/1/14/UPDCH_SatonoCrown_00.png/580px-UPDCH_SatonoCrown_00.png) | [萌娘百科](https://zh.moegirl.org.cn/里见皇冠) |
 | zenno rob roy | 荒漠英雄 | 荒漠英雄是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ゼンノロブロイ（Zenno Rob Roy）。<br>![](https://img.moegirl.org.cn/common/thumb/2/27/UPDCH_ZennoRobRoy_00.png/679px-UPDCH_ZennoRobRoy_00.png) | [萌娘百科](https://zh.moegirl.org.cn/荒漠英雄) |
 | copano rickey | 小林历奇 | 小林历奇是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹コパノリッキー（Copano Rickey）。<br>![](https://moegirl.icu/media/thumb/UPDCH_CopanoRickey_00.png/580px-UPDCH_CopanoRickey_00.png) | [萌娘百科](https://zh.moegirl.org.cn/小林历奇) |
-| hokko tarumae | 北港火山 |  | [萌娘百科](https://zh.moegirl.org.cn/北港火山) |
+| hokko tarumae | 北港火山 | 北港火山是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ホッコータルマエ（Hokko Tarumae）。<br>![](https://moegirl.icu/media/thumb/UPDCH_HokkoTarumae_00.png/580px-UPDCH_HokkoTarumae_00.png) | [萌娘百科](https://zh.moegirl.org.cn/北港火山) |
 | yayoi akikawa | 秋川弥生 |  | [萌娘百科](https://zh.moegirl.org.cn/秋川弥生) |
 | yukino bijin | 雪之美人 |  | [萌娘百科](https://zh.moegirl.org.cn/雪之美人) |
 | nishino flower | 西野花 | 西野花是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ニシノフラワー（Nishino Flower）。 | [萌娘百科](https://zh.moegirl.org.cn/西野花) |
