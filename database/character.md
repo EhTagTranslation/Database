@@ -5736,6 +5736,7 @@ example:
 | mejiro ramonu | 目白高峰 | 目白高峰是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロラモーヌ（Mejiro Ramonu）。 | [萌娘百科](https://zh.moegirl.org.cn/目白高峰) |
 | ines fujin | 艾尼斯风神 | 艾尼斯风神是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アイネスフウジン（Ines Fujin）。 | [萌娘百科](https://zh.moegirl.org.cn/艾尼斯风神) |
 | narita top road | 成田路 | 成田路是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ナリタトップロード（Narita Top Road）。 | [萌娘百科](https://zh.moegirl.org.cn/成田路) |
+| daring tact | 谋勇兼备 | 谋勇兼备是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹デアリングタクト（Daring Tact）。 | [萌娘百科](https://zh.moegirl.org.cn/谋勇兼备) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
