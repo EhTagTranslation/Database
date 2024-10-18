@@ -5718,6 +5718,7 @@ example:
 | satono crown | 里见皇冠 |  | [萌娘百科](https://zh.moegirl.org.cn/里见皇冠) |
 | zenno rob roy | 荒漠英雄 |  | [萌娘百科](https://zh.moegirl.org.cn/荒漠英雄) |
 | copano rickey | 小林历奇 |  | [萌娘百科](https://zh.moegirl.org.cn/小林历奇) |
+| hokko tarumae | 北港火山 |  | [萌娘百科](https://zh.moegirl.org.cn/北港火山) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
