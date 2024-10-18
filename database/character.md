@@ -5734,6 +5734,7 @@ example:
 | daiichi ruby | 第一红宝石 | 第一红宝石是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ダイイチルビー（Daiichi Ruby）。 | [萌娘百科](https://zh.moegirl.org.cn/第一红宝石) |
 | mejiro bright | 目白光明 | 目白光明是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロブライト（Mejiro Bright）。 | [萌娘百科](https://zh.moegirl.org.cn/目白光明) |
 | mejiro ramonu | 目白高峰 | 目白高峰是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹メジロラモーヌ（Mejiro Ramonu）。 | [萌娘百科](https://zh.moegirl.org.cn/目白高峰) |
+| ines fujin | 艾尼斯风神 | 艾尼斯风神是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アイネスフウジン（Ines Fujin）。 | [萌娘百科](https://zh.moegirl.org.cn/艾尼斯风神) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
