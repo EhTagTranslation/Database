@@ -4941,7 +4941,7 @@ example:
 | xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 | crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe](https://trails-game.com/character/crow-armbrust/) [萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特) [百度百科](https://baike.baidu.com/item/克洛·安布斯特/62063303) |
 | yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://zh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
-| fine motion | 美妙姿势 |  |  |
+| fine motion | 美妙姿势 | ![](https://moegirl.icu/media/thumb/UPDCH_FineMotion_00.png/580px-UPDCH_FineMotion_00.png)<br>美妙姿势是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为于爱尔兰出生的纯血竞赛马匹ファインモーション（Fine Motion）。 | [萌娘百科](https://moegirl.icu/美妙姿势) |
 | air groove | 气槽 |  |  |
 | matikane tannhauser | 待兼诗歌剧 | ![](https://moegirl.icu/media/thumb/UPDCH_Matikanetannhauser_00.png/580px-UPDCH_Matikanetannhauser_00.png)<br>待兼诗歌剧是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネタンホイザ（Matikanetannhauser）。 | [萌娘百科](https://moegirl.icu/待兼诗歌剧) |
 | ash ketchum | 小智 | 小智（日文︰サトシ，英文︰Ash Ketchum）所属作品:`p:pokemon` 是宝可梦动画中宝可梦至宝可梦 旅途的主角，他是一位梦想成为宝可梦大师的十岁少年。<br>![图](https://s1.52poke.wiki/wiki/thumb/e/ee/SS_小智.png/150px-SS_小智.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/小智（动画）) |
