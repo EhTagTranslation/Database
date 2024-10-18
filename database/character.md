@@ -5722,6 +5722,7 @@ example:
 | yayoi akikawa | 秋川弥生 |  | [萌娘百科](https://zh.moegirl.org.cn/秋川弥生) |
 | yukino bijin | 雪之美人 |  | [萌娘百科](https://zh.moegirl.org.cn/雪之美人) |
 | nishino flower | 西野花 | 西野花是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ニシノフラワー（Nishino Flower）。 | [萌娘百科](https://zh.moegirl.org.cn/西野花) |
+| transcend | 创升 |  | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/创升) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
