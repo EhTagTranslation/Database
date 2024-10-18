@@ -12915,6 +12915,7 @@ example:
 | fumotonoya | 梺乃屋 |  |  |
 | yorunineru | ヨルニネル |  |  |
 | usaginoheya | ウサギノヘヤ |  |  |
+| inmou choregi salad | 陰毛チョレギサラダ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
