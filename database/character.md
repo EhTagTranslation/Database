@@ -5764,6 +5764,7 @@ example:
 | nanaka tanno | 丹野七七香 | ![](https://moegirl.uk/images/3/36/Nanaka_prin_cone.png)<br>丹野七七香（日语：丹野（たんの） 七々香（ななか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为七七香（日语：ナナカ）。 | [萌娘百科](https://moegirl.uk/丹野七七香) |
 | ruka tachiarai | 太刀洗流夏 | ![](https://moegirl.uk/images/8/89/Ruka_prin_cone.png)<br>太刀洗流夏（日语：太刀洗（たちあらい） 流夏（るか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为流夏（日语：ルカ）。 | [萌娘百科](https://moegirl.uk/太刀洗流夏) |
 | mitsuki yoigahama | 宵滨深月 | ![](https://moegirl.uk/images/f/f0/Mitsuki_prin_cone.png)<br>宵滨深月（日语：宵ヶ浜（よいがはま） 深月（みつき））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为深月（日语：ミツキ）。 | [萌娘百科](https://moegirl.uk/宵滨深月) |
+| rin morichika | 森近铃 | ![](https://moegirl.uk/images/5/54/Rin_prin_cone.png)<br>森近铃（日语：森近（もりちか） 鈴（りん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为铃（日语：リン）。 | [萌娘百科](https://moegirl.uk/森近铃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
