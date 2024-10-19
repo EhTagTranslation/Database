@@ -12920,6 +12920,7 @@ example:
 | nagatsukitei | 長月亭 |  |  |
 | genki colors | ゲンキカラーズ | ゲンキカラーズ |  |
 | nekolovelandou | ねこらぶらん堂 |  |  |
+| muchipanya | むちぱん屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
