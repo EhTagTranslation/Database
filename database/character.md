@@ -5761,6 +5761,7 @@ example:
 | tomo mikuma | 御久间智 | ![](https://moegirl.uk/images/2/27/Tomo_prin_cone.png)<br>御久间智（日语：御久間（みくま） 智（とも））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为智（日语：トモ）。 | [萌娘百科](https://moegirl.uk/御久间智) |
 | jun shirogane | 白银纯 | ![](https://moegirl.uk/images/6/60/Jun_prin_cone.png)<br>白银纯（日语：白銀（しろがね） 純（じゅん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为纯（日语：ジュン）。 | [萌娘百科](https://moegirl.uk/白银纯) |
 | misaki tamaizumi | 玉泉美咲 | ![](https://moegirl.uk/images/d/d6/Misaki_prin_cone.png)<br>玉泉美咲（日语：玉泉（たまいずみ） 美咲（みさき））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美咲（日语：ミサキ）。 | [萌娘百科](https://moegirl.uk/玉泉美咲) |
+| nanaka tanno | 丹野七七香 | ![](https://moegirl.uk/images/3/36/Nanaka_prin_cone.png)<br>丹野七七香（日语：丹野（たんの） 七々香（ななか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为七七香（日语：ナナカ）。 | [萌娘百科](https://moegirl.uk/丹野七七香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
