@@ -5769,6 +5769,7 @@ example:
 | precia wiseman | 普雷西娅・怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
 | quria | 久央璃亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/4/43/fwap3641s1qz8ss8ihn5o6cxcgz3abb.png/178px-可璃亚（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/可璃亚（堕天使）) |
 | yume kuchinashi | 栀子梦 | 栀子梦，是游戏《蔚蓝档案》中的学生。前阿拜多斯学生会成员。<br>![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f962d11f01322dd42a29340ffd?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/栀子梦/64386409) |
+| riki naoe | 直枝理树 | ![](https://static.wikia.nocookie.net/littlebusters/images/9/98/Riki_Icon.png) | [萌娘百科](https://zh.moegirl.org.cn/直枝理树) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
