@@ -5767,6 +5767,7 @@ example:
 | rin morichika | 森近铃 | ![](https://moegirl.uk/images/5/54/Rin_prin_cone.png)<br>森近铃（日语：森近（もりちか） 鈴（りん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为铃（日语：リン）。 | [萌娘百科](https://moegirl.uk/森近铃) |
 | riri tokugawa | 德川莉莉 | ![](https://moegirl.uk/images/1/15/Tokukawa_Riri_PCR.png)<br>德川莉莉（日语：徳川（とくかわ） 莉々（りり））是Cygames开发和发行的游戏《公主连结Re:Dive》的登场角色。在游戏世界内的ID为莉莉（日语：リリ）。 | [萌娘百科](https://moegirl.uk/德川莉莉) |
 | precia wiseman | 普雷西娅・怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
+| quria | 久央璃亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/4/43/fwap3641s1qz8ss8ihn5o6cxcgz3abb.png/178px-可璃亚（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/可璃亚（堕天使）) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
