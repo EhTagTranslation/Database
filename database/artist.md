@@ -13176,6 +13176,7 @@ example:
 | alpha91 | Alpha91 |  |  |
 | marumaromi | まるまろみ |  |  |
 | inchore | 陰ちょれ |  |  |
+| bujidearu | ぶじである |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
