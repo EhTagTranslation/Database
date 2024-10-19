@@ -13182,6 +13182,7 @@ example:
 | matanuki | またぬき |  | [FANBOX](https://matanukinuki.fanbox.cc/) [pixiv](https://www.pixiv.net/users/52280646) [X](https://x.com/matanukinuki24) |
 | nekojima | ねこじま |  |  |
 | muchipan | むちぱん |  |  |
+| kiwami ichiman dageki | 極一万打撃 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
