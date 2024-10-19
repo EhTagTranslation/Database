@@ -12919,6 +12919,7 @@ example:
 | kabuto 3-gou | カブト3号 |  |  |
 | nagatsukitei | 長月亭 |  |  |
 | genki colors | ゲンキカラーズ | ゲンキカラーズ |  |
+| nekolovelandou | ねこらぶらん堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
