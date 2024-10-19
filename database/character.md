@@ -5759,6 +5759,7 @@ example:
 | suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>美波铃奈（日语：美波（みなみ） 鈴奈（すずな））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为铃奈（日语：スズナ）。 | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
 | suzume amano | 天野铃莓 | ![](https://moegirl.uk/images/7/7a/Suzume_prin_cone.png)<br>天野铃莓（日语：天野（あまの） すずめ）是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为铃莓（日语：スズメ）。 | [萌娘百科](https://moegirl.uk/天野铃莓) |
 | tomo mikuma | 御久间智 | ![](https://moegirl.uk/images/2/27/Tomo_prin_cone.png)<br>御久间智（日语：御久間（みくま） 智（とも））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为智（日语：トモ）。 | [萌娘百科](https://moegirl.uk/御久间智) |
+| jun shirogane | 白银纯 | ![](https://moegirl.uk/images/6/60/Jun_prin_cone.png)<br>白银纯（日语：白銀（しろがね） 純（じゅん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为纯（日语：ジュン）。 | [萌娘百科](https://moegirl.uk/白银纯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
