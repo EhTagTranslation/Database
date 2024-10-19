@@ -13183,6 +13183,7 @@ example:
 | nekojima | ねこじま |  |  |
 | muchipan | むちぱん |  |  |
 | kiwami ichiman dageki | 極一万打撃 |  |  |
+| mizunashi tomo | 水梨 朋 |  | [pixiv](https://www.pixiv.net/artworks/58822174) |
 
 <!--TEMPLATE:
 |  |  |  |  |
