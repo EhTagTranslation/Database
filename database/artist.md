@@ -13178,6 +13178,7 @@ example:
 | inchore | 陰ちょれ |  |  |
 | bujidearu | ぶじである |  |  |
 | nyamome | にゃもめ |  |  |
+| amami hachiware | あまみはちわれ | あまみ はちわれ |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
