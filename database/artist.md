@@ -13177,6 +13177,7 @@ example:
 | marumaromi | まるまろみ |  |  |
 | inchore | 陰ちょれ |  |  |
 | bujidearu | ぶじである |  |  |
+| nyamome | にゃもめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
