@@ -12921,6 +12921,7 @@ example:
 | genki colors | ゲンキカラーズ | ゲンキカラーズ |  |
 | nekolovelandou | ねこらぶらん堂 |  |  |
 | muchipanya | むちぱん屋 |  |  |
+| nippa ichiba | 新羽市場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
