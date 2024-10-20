@@ -5772,6 +5772,7 @@ example:
 | riki naoe | 直枝理树 | ![](https://static.wikia.nocookie.net/littlebusters/images/9/98/Riki_Icon.png) | [萌娘百科](https://zh.moegirl.org.cn/直枝理树) |
 | sayaka saeki | 佐伯沙弥香 |  |  |
 | haru edamoto | 枝元阳 |  |  |
+| miku emori | 絵守未來 | 待っているなら沸かすぜフォロワー！美少女アートと革新技術"X ART"のマスコットキャラクター。 主に絵師さん向けの「絵を描く仕事を創る仕事」をしています。 FANBOXで全てをさらけ出しています。 | [Instagram](https://www.instagram.com/miku.emori/)<br>[https://www.threads.net/@miku.emori](https://www.threads.net/@miku.emori)<br>[X](https://x.com/miku_emori)<br>[FANBOX](https://emorimiku.fanbox.cc/)<br>[https://www.illustrationweek.net/](https://www.illustrationweek.net/)<br>[https://www.emorimiku.com/](https://www.emorimiku.com/)<br>[https://www.xart.jp/](https://www.xart.jp/)<br>[https://emorimiku.shop/](https://emorimiku.shop/)<br>[https://shop.geekjack.net/zh/pages/miku-emori?srsltid=AfmBOoppNqIc1\_kC54fB-ELViRUMRPfueMM9L-PdZeQi0zSjB4fuP1QG](https://shop.geekjack.net/zh/pages/miku-emori?srsltid=AfmBOoppNqIc1_kC54fB-ELViRUMRPfueMM9L-PdZeQi0zSjB4fuP1QG)<br>[https://www.alicetea.co.jp/](https://www.alicetea.co.jp/)<br>[X](https://x.com/EmuAlice)<br>[X](https://x.com/XARTmuse)<br>[X](https://x.com/xart_jp) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
