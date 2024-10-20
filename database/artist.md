@@ -13185,6 +13185,7 @@ example:
 | kiwami ichiman dageki | 極一万打撃 |  |  |
 | mizunashi tomo | 水梨 朋 |  | [pixiv](https://www.pixiv.net/artworks/58822174) |
 | miyazen | みやぜん |  | [pixiv](https://www.pixiv.net/users/7195724)<br>[X](https://x.com/v4l215ool) |
+| kitamimaki kei | 北御牧庆 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
