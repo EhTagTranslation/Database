@@ -13188,7 +13188,7 @@ example:
 | kitamimaki kei | 北御牧庆 |  |  |
 | yoruhoshi owl | 夜星アウル(夜星猫头鹰) |  |  |
 | oshiro shiroo | 尾白白尾 |  |  |
-| torriet | Torriet-トリエット- | 🖤Visual Novel - Four Lights<br>韩语使用 | [X](https://x.com/Tiamant_Torriet)<br>[https://store.onstove.com/ko/games/1802](https://store.onstove.com/ko/games/1802)<br>[https://store.steampowered.com/app/2444660/\_\_\_\_1\_Iruka\_Route/](https://store.steampowered.com/app/2444660/____1_Iruka_Route/)<br>[FANBOX](https://tiamant-torriet.fanbox.cc/)<br>[Gumroad](https://torriet.gumroad.com/)<br>[https://fanding.kr/@TiamantTorriet/](https://fanding.kr/@TiamantTorriet/)<br>[pixiv](https://www.pixiv.net/users/59375709) |
+| torriet | Torriet-トリエット- | 🖤Visual Novel - Four Lights<br>韩语使用 | [X](https://x.com/Tiamant_Torriet)<br>[https://store.onstove.com/ko/games/1802](https://store.onstove.com/ko/games/1802)<br>[https://store.steampowered.com/app/2444660/\_\_\_\_1\_Iruka\_Route/](https://store.steampowered.com/app/2444660/____1_Iruka_Route/)<br>[FANBOX](https://tiamant-torriet.fanbox.cc/)<br>[Gumroad](https://torriet.gumroad.com/)<br>[https://fanding.kr/@TiamantTorriet/](https://fanding.kr/@TiamantTorriet/)<br>[pixiv](https://www.pixiv.net/users/59375709)<br>[https://skebetter.com/author/1137045511712567296/illust](https://skebetter.com/author/1137045511712567296/illust) |
 
 <!--TEMPLATE:
 |  |  |  |  |
