@@ -12923,6 +12923,7 @@ example:
 | muchipanya | むちぱん屋 |  |  |
 | nippa ichiba | 新羽市場 |  |  |
 | toketa ice no futa no ura | 溶けたアイスのふたの裏 |  |  |
+| koharu biyori | こはるびより |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
