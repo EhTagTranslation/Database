@@ -13186,6 +13186,7 @@ example:
 | mizunashi tomo | 水梨 朋 |  | [pixiv](https://www.pixiv.net/artworks/58822174) |
 | miyazen | みやぜん |  | [pixiv](https://www.pixiv.net/users/7195724)<br>[X](https://x.com/v4l215ool) |
 | kitamimaki kei | 北御牧庆 |  |  |
+| yoruhoshi owl | 夜星アウル(夜星猫头鹰) |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
