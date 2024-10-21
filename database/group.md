@@ -12924,6 +12924,7 @@ example:
 | nippa ichiba | 新羽市場 |  |  |
 | toketa ice no futa no ura | 溶けたアイスのふたの裏 |  |  |
 | koharu biyori | こはるびより |  |  |
+| kemomimi-chan ya | ケモミミちゃん屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
