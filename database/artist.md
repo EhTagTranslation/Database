@@ -13191,6 +13191,7 @@ example:
 | torriet | Torriet-トリエット- | 🖤Visual Novel - Four Lights<br>韩语使用 | [X](https://x.com/Tiamant_Torriet)<br>[https://store.onstove.com/ko/games/1802](https://store.onstove.com/ko/games/1802)<br>[https://store.steampowered.com/app/2444660/\_\_\_\_1\_Iruka\_Route/](https://store.steampowered.com/app/2444660/____1_Iruka_Route/)<br>[FANBOX](https://tiamant-torriet.fanbox.cc/)<br>[Gumroad](https://torriet.gumroad.com/)<br>[https://fanding.kr/@TiamantTorriet/](https://fanding.kr/@TiamantTorriet/)<br>[pixiv](https://www.pixiv.net/users/59375709)<br>[https://skebetter.com/author/1137045511712567296/illust](https://skebetter.com/author/1137045511712567296/illust)<br>[Instagram](https://www.instagram.com/tiamant_torriet) |
 | sano hiyori | 茶乃ひより |  | [pixiv](https://www.pixiv.net/users/52644245)<br>[X](https://x.com/sn_hiyori) |
 | sencha bashira | 煎茶柱 |  | [pixiv](https://www.pixiv.net/users/99314862) |
+| kisaragi ai | 如月藍 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
