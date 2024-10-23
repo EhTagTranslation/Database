@@ -5774,6 +5774,7 @@ example:
 | haru edamoto | 枝元阳 |  |  |
 | miku emori | 絵守未來(绘守未来) | 待っているなら沸かすぜフォロワー！美少女アートと革新技術"X ART"のマスコットキャラクター。 主に絵師さん向けの「絵を描く仕事を創る仕事」をしています。 FANBOXで全てをさらけ出しています。<br><br>"絵守未來"（Emori Mirai）是一个虚拟角色，而不是现实中的画师。"絵守未來"是由日本的「pixiv」推出的虚拟YouTuber（VTuber），她的角色设计与背景是由 pixiv 官方策划与运营的。她的名字中“絵守”可以理解为“守护画作”的意思，这与她的定位有关，她象征着支持艺术创作者，特别是插画师和画师社区。她经常与创作者们进行互动，并通过她的频道分享与艺术相关的内容。<br><br>因此，她的存在更多是作为一个虚拟形象，用于推广与支持艺术创作的相关活动。 | [Instagram](https://www.instagram.com/miku.emori/)<br>[https://www.threads.net/@miku.emori](https://www.threads.net/@miku.emori)<br>[X](https://x.com/miku_emori)<br>[FANBOX](https://emorimiku.fanbox.cc/)<br>[https://www.illustrationweek.net/](https://www.illustrationweek.net/)<br>[https://www.emorimiku.com/](https://www.emorimiku.com/)<br>[https://www.xart.jp/](https://www.xart.jp/)<br>[https://emorimiku.shop/](https://emorimiku.shop/)<br>[https://shop.geekjack.net/zh/pages/miku-emori?srsltid=AfmBOoppNqIc1\_kC54fB-ELViRUMRPfueMM9L-PdZeQi0zSjB4fuP1QG](https://shop.geekjack.net/zh/pages/miku-emori?srsltid=AfmBOoppNqIc1_kC54fB-ELViRUMRPfueMM9L-PdZeQi0zSjB4fuP1QG)<br>[https://www.alicetea.co.jp/](https://www.alicetea.co.jp/)<br>[X](https://x.com/EmuAlice)<br>[X](https://x.com/XARTmuse)<br>[X](https://x.com/xart_jp)<br>[YouTube](https://www.youtube.com/@user-zw9mi9gn2r) |
 | shimiko endou | 圆堂志美子 | ![](https://moegirl.icu/media/BA_Shimiko.png)<br>圆堂志美子是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。 | [萌娘百科](https://moegirl.icu/圆堂志美子) |
+| melissa mao | 梅丽莎·毛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
