@@ -13192,6 +13192,7 @@ example:
 | sano hiyori | 茶乃ひより |  | [pixiv](https://www.pixiv.net/users/52644245)<br>[X](https://x.com/sn_hiyori) |
 | sencha bashira | 煎茶柱 |  | [pixiv](https://www.pixiv.net/users/99314862) |
 | kisaragi ai | 如月藍 |  |  |
+| sunaba suzume | 砂場すずめ |  | [X](https://x.com/snba_szme) [pixiv](https://www.pixiv.net/users/34426633) |
 
 <!--TEMPLATE:
 |  |  |  |  |
