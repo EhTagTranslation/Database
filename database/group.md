@@ -12926,6 +12926,7 @@ example:
 | koharu biyori | こはるびより |  |  |
 | kemomimi-chan ya | ケモミミちゃん屋 |  |  |
 | fukurasuzume | ふくらすずめ |  |  |
+| fuuzen lamp | 風前ランプ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
