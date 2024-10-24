@@ -5792,6 +5792,7 @@ example:
 | rock lee | 洛克李 |  |  |
 | kankuro | 勘九郎 |  |  |
 | gaara | 我爱罗 |  |  |
+| neji hyuga | 日向宁次 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
