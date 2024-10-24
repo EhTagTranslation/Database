@@ -5785,6 +5785,7 @@ example:
 | suigetsu hozuki | 鬼灯水月 |  |  |
 | kaguya ootsutsuki | 大筒木辉夜 |  |  |
 | konohamaru sarutobi | 猿飞木叶丸 |  |  |
+| sumire kakei | 笕堇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
