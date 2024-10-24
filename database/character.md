@@ -5793,6 +5793,7 @@ example:
 | kankuro | 勘九郎 |  |  |
 | gaara | 我爱罗 |  |  |
 | neji hyuga | 日向宁次 |  |  |
+| shino aburame | 油女志乃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
