@@ -5791,6 +5791,7 @@ example:
 | might guy | 迈特凯 |  |  |
 | rock lee | 洛克李 |  |  |
 | kankuro | 勘九郎 |  |  |
+| gaara | 我爱罗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
