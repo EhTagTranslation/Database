@@ -5783,6 +5783,7 @@ example:
 | obito uchiha | 宇智波带土 |  |  |
 | karin uzumaki | 漩涡香燐 |  |  |
 | suigetsu hozuki | 鬼灯水月 |  |  |
+| kaguya ootsutsuki | 大筒木辉夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
