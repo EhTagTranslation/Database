@@ -5782,6 +5782,7 @@ example:
 | rin nohara | 野原琳 |  |  |
 | obito uchiha | 宇智波带土 |  |  |
 | karin uzumaki | 漩涡香燐 |  |  |
+| suigetsu hozuki | 鬼灯水月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
