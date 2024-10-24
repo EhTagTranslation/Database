@@ -5777,6 +5777,7 @@ example:
 | melissa mao | 梅丽莎·毛 |  |  |
 | diane | 黛安娜 |  |  |
 | rappa | 乱破 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Character_Rappa_Splash_Art.png)<br>乱破是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乱破) |
+| lingsha | 灵砂 | 灵砂是米哈游制作的游戏崩坏：星穹铁道及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灵砂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
