@@ -5786,6 +5786,7 @@ example:
 | kaguya ootsutsuki | 大筒木辉夜 |  |  |
 | konohamaru sarutobi | 猿飞木叶丸 |  |  |
 | sumire kakei | 笕堇 |  |  |
+| iruka umino | 海野伊鲁卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
