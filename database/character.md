@@ -5781,6 +5781,7 @@ example:
 | mikoto uchiha | 宇智波美琴 | ![宇智波美琴]<br>![](https://img.moegirl.org.cn/common/f/f1/Yuzhibomeiqin.jpg)<br>鼬和佐助的母親，宇智波富岳的妻子，漩渦玖辛奈的好友 | [萌娘百科](https://zh.moegirl.org.cn/���ǲ�����) |
 | rin nohara | 野原琳 |  |  |
 | obito uchiha | 宇智波带土 |  |  |
+| karin uzumaki | 漩涡香燐 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
