@@ -5789,6 +5789,7 @@ example:
 | iruka umino | 海野伊鲁卡 |  |  |
 | kabuto yakushi | 药师兜 |  |  |
 | might guy | 迈特凯 |  |  |
+| rock lee | 洛克李 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
