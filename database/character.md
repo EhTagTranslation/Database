@@ -5787,6 +5787,7 @@ example:
 | konohamaru sarutobi | 猿飞木叶丸 |  |  |
 | sumire kakei | 笕堇 |  |  |
 | iruka umino | 海野伊鲁卡 |  |  |
+| kabuto yakushi | 药师兜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
