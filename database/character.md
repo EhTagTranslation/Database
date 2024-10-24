@@ -5794,6 +5794,7 @@ example:
 | gaara | 我爱罗 |  |  |
 | neji hyuga | 日向宁次 |  |  |
 | shino aburame | 油女志乃 |  |  |
+| kin tsuchi | 琴·槌 | 《火影忍者》及其衍生作品中的女性角色，音隐村的下忍。 | [萌娘百科](https://zh.moegirl.org.cn/琴·槌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
