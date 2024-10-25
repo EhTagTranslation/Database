@@ -13194,6 +13194,7 @@ example:
 | kisaragi ai | 如月藍 |  |  |
 | sunaba suzume | 砂場すずめ |  | [X](https://x.com/snba_szme) [pixiv](https://www.pixiv.net/users/34426633) |
 | nerima hakase | 練馬博士 |  |  |
+| imotarou | いもたろう | ![X](https://pbs.twimg.com/profile_images/1609450036798316544/ddS6Ktkf_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/imoimodarake) |
 
 <!--TEMPLATE:
 |  |  |  |  |
