@@ -2296,7 +2296,7 @@ example:
 | doupo cangqiong | 斗破苍穹 |  |  |
 | nige jouzu no wakagimi | 擅长逃跑的殿下 | 《擅长逃跑的殿下》(逃げ上手の若君，又译少主溜得快) | [官网地址](https://www.shonenjump.com/j/rensai/nigejozu.html)<br>[维基百科](https://zh.wikipedia.org/wiki/擅長逃跑的殿下)<br>[萌娘百科](https://zh.moegirl.org.cn/擅长逃跑的殿下) |
 | the flash | 闪电侠 |  |  |
-| wonderful precure | 美妙宠物 光之美少女 |  |  |
+| wonderful precure | 美妙宠物 光之美少女 | 《美妙宠物 光之美少女》（日语：わんだふるぷりきゅあ！，英语：WonderfulPrecure!，简称“わんぷり”）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第二十一作，第十九代光之美少女，2024年2月4日在全日本新闻网的电视台播放。 |  |
 | katsute mahou shoujo to aku wa tekitai shite ita. | 魔法少女与邪恶曾经敌对。 |  | [维基百科](https://zh.wikipedia.org/wiki/曾經、魔法少女和邪惡相互為敵。) |
 | maplestory | 冒险岛 | 《冒险岛(新楓之谷)》（韩语：메이플스토리，英语：MapleStory）是一款横向卷轴平面动作操作的免费大型多人在线角色扮演游戏，由韩国Wizet开发。 | [维基百科](https://zh.wikipedia.org/wiki/新楓之谷) |
 | tengoku daimakyou | 天国大魔境 |  |  |
