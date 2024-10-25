@@ -13203,6 +13203,7 @@ example:
 | hako reema | 箱れぇま |  |  |
 | kohri | こーり |  |  |
 | poruna | poruna |  |  |
+| sankurowa | サンクロワ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
