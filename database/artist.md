@@ -13206,6 +13206,7 @@ example:
 | sankurowa | サンクロワ |  |  |
 | tatapopo | tatapopo |  |  |
 | tsuruomi | つるおみ |  |  |
+| zutako | づ蛸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
