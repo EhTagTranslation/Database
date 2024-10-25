@@ -13200,6 +13200,7 @@ example:
 | kanonhou | 加农炮 |  |  |
 | miki chika | みきちか |  |  |
 | enoka | 江ノカ |  |  |
+| hako reema | 箱れぇま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
