@@ -8961,7 +8961,7 @@ example:
 | oguramansai | 小倉萬采 |  |  |
 | ohakotome | おはことめ |  |  |
 | ohanabatake run | 御花畑るん |  |  |
-| ohara makoto | おはら誠 |  |  |
+| ohara makoto | おはら诚 |  |  |
 | ohiensis | オヒエンシス |  |  |
 | ohio-shuu riki | オハイオ州力 |  |  |
 | ohiru | 電SUKE |  |  |
