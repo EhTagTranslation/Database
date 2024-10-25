@@ -13193,6 +13193,7 @@ example:
 | sencha bashira | 煎茶柱 |  | [pixiv](https://www.pixiv.net/users/99314862) |
 | kisaragi ai | 如月藍 |  |  |
 | sunaba suzume | 砂場すずめ |  | [X](https://x.com/snba_szme) [pixiv](https://www.pixiv.net/users/34426633) |
+| nerima hakase | 練馬博士 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
