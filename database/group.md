@@ -12887,7 +12887,7 @@ example:
 | triple lettuce burger | トリプルレタスバーガー |  |  |
 | yama danchi | やまだんち |  | [pixiv](https://www.pixiv.net/users/80841396) |
 | studio iwashi | スタジオいわし |  |  |
-| urasujibeya | 里筋部屋 | ![twitter]()<br><br>**作者推特头像**<br><br>画师`urasuji samurai`所属社团 |  |
+| urasujibeya | 里筋部屋 | 画师`urasuji samurai`所属社团 |  |
 | tamima-ya | たみま屋 |  |  |
 | yotsuba no suisou | 四ツ葉ノ水槽 |  |  |
 | gamanuntaka | がまぬんたか |  |  |
