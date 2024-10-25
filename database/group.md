@@ -12685,7 +12685,7 @@ example:
 | suihanya | 炊飯屋 |  |  |
 | climbcrown | クライムクラウン |  |  |
 | takahiro no ie | たかひろの家 |  |  |
-| shiosai | 潮騒 |  |  |
+| shiosai | 潮骚 |  |  |
 | touzainanboku | とうざいなんぼく |  |  |
 | arijigoku | 蚁地狱 |  |  |
 | tianoblue | ティアノブルー |  |  |
