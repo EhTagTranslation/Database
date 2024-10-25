@@ -3155,7 +3155,7 @@ example:
 | oshio | おしお |  | [X](https://x.com/oshioshio_info) [pixiv](https://www.pixiv.net/users/4733565) |
 | torotarou | トロ太郎 |  |  |
 | mishima kurone | 三岛黑音 | 三嶋くろね<br><br>喜欢白发娘，以擅长画白发娘而闻名。 | [X](https://x.com/mishima_kurone) [pixiv](https://www.pixiv.net/users/1184799) [萌娘百科](https://zh.moegirl.org.cn/三岛黑音) |
-| himuro shunsuke | 氷室しゅんすけ |  | [pixiv](https://www.pixiv.net/users/65165) [X](https://x.com/himuron) |
+| himuro shunsuke | 冰室しゅんすけ | ![twitter](https://pbs.twimg.com/profile_images/1142322110871683072/jCVxvOWx_400x400.png)<br><br>**作者推特头像** | [pixiv](https://www.pixiv.net/users/65165) [X](https://x.com/himuron) |
 | haikome | 灰米 |  | [pixiv](https://www.pixiv.net/users/46068676) [X](https://x.com/Haikome?s=09) |
 | bizen dorobune | 備前泥舟 |  | [pixiv](https://www.pixiv.net/users/7341) [X](https://x.com/zendoro) |
 | kagura nanaki | 神楽七姫 |  |  |
