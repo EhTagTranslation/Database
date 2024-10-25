@@ -3905,7 +3905,7 @@ example:
 | akan tare | 阿寒たれ |  |  |
 | akanagi | AKANAGI |  |  |
 | akanagi youto | 紅薙遥兎 |  |  |
-| akane | あかね |  |  |
+| akane | 茜 |  |  |
 | akane shuuhei | 茜しゅうへい |  |  |
 | akane souichi | 明音そーいち |  |  |
 | akaneman | 明寝マン |  |  |
