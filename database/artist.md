@@ -1593,7 +1593,7 @@ example:
 | fukumaaya | ふくまーや |  |  |
 | higashide irodori | 东出彩 | ![X](https://pbs.twimg.com/profile_images/1492708249761562624/r3cP1nmJ_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/H_irodori) [pixiv](https://www.pixiv.net/users/56825214) |
 | hiura r | 火浦R |  |  |
-| karube guri | 軽部ぐり |  |  |
+| karube guri | 轻部ぐり | ![twitter](https://pbs.twimg.com/profile_images/1276767276755152897/82pGl11A_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/GBI63aQaMAAjdou?format=jpg&name=large") | [twitter](https://x.com/karube_g) |
 | kusatsu terunyo | 草津てるにょ |  |  |
 | mario | まりお |  |  |
 | puniiyu | ぷにいゆ |  |  |
