@@ -13204,6 +13204,7 @@ example:
 | kohri | こーり |  |  |
 | poruna | poruna |  |  |
 | sankurowa | サンクロワ |  |  |
+| tatapopo | tatapopo |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
