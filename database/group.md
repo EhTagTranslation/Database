@@ -12927,6 +12927,7 @@ example:
 | kemomimi-chan ya | ケモミミちゃん屋 |  |  |
 | fukurasuzume | ふくらすずめ |  |  |
 | fuuzen lamp | 風前ランプ |  |  |
+| tokyo manga kenkyuujo | 東京漫画研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
