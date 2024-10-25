@@ -12931,6 +12931,7 @@ example:
 | rockydou | ロッキー堂 |  |  |
 | gyuutan teishoku e no koi | 牛タン定食への恋 |  |  |
 | omuretsu server | オムレツサーバー |  |  |
+| kanons november | Kanon's November |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
