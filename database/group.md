@@ -11847,7 +11847,7 @@ example:
 | v112cr | ぶい112CR |  |  |
 | vachicalist | Vachicalist |  |  |
 | vadass | Vadass |  |  |
-| vagina dentata | 有齒女陰 |  |  |
+| vagina dentata | 有齿女阴 |  |  |
 | valiant | VALIAN党 |  |  |
 | valkyria | わるきゅ～れ |  |  |
 | valrhona | VALRHONA |  |  |
