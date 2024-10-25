@@ -13201,6 +13201,7 @@ example:
 | miki chika | みきちか |  |  |
 | enoka | 江ノカ |  |  |
 | hako reema | 箱れぇま |  |  |
+| kohri | こーり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
