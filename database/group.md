@@ -12929,6 +12929,7 @@ example:
 | fuuzen lamp | 風前ランプ |  |  |
 | tokyo manga kenkyuujo | 東京漫画研究所 |  |  |
 | rockydou | ロッキー堂 |  |  |
+| gyuutan teishoku e no koi | 牛タン定食への恋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
