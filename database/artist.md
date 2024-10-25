@@ -13205,6 +13205,7 @@ example:
 | poruna | poruna |  |  |
 | sankurowa | サンクロワ |  |  |
 | tatapopo | tatapopo |  |  |
+| tsuruomi | つるおみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
