@@ -13207,6 +13207,7 @@ example:
 | tatapopo | tatapopo |  |  |
 | tsuruomi | つるおみ |  |  |
 | zutako | づ蛸 |  |  |
+| ae | ae |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
