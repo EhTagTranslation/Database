@@ -13195,7 +13195,7 @@ example:
 | sunaba suzume | 砂場すずめ |  | [X](https://x.com/snba_szme) [pixiv](https://www.pixiv.net/users/34426633) |
 | nerima hakase | 練馬博士 |  |  |
 | imotarou | いもたろう | ![X](https://pbs.twimg.com/profile_images/1609450036798316544/ddS6Ktkf_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/imoimodarake) |
-| kasetsu makoto | 霞雪诚 |  |  |
+| kasetsu makoto | 有齿女阴 | 画师`hirota masatane`所属同人社团 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
