@@ -13202,6 +13202,7 @@ example:
 | enoka | 江ノカ |  |  |
 | hako reema | 箱れぇま |  |  |
 | kohri | こーり |  |  |
+| poruna | poruna |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
