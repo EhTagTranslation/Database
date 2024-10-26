@@ -12946,6 +12946,7 @@ example:
 | showa shojo | 昭和少女 |  |  |
 | tankonbu. | たんこんぶ。 |  |  |
 | tamani wa shinruchuu | たまには杏露酒 |  |  |
+| tamamo-ya | たまも屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
