@@ -5822,7 +5822,7 @@ example:
 | hirooki | 博海城 |  |  |
 | hiroshi | ヒロシ |  |  |
 | hirosue maron | 広末まろん |  |  |
-| hirota masatane | 广田真胤 | ![twitter](https://pbs.twimg.com/profile_images/1196010745487486976/1AZ8OJFN_400x400.png)<br><br>**作者推特头像**<br><br>社团`kasetsu makoto`主笔画师<br><br>![works](# "https://pbs.twimg.com/media/GTo0acrbcAAGLlc?format=jpg&name=large") | [twitter](https://x.com/hirotamasatane) [HP](http://vaginadentata.sblo.jp/) |
+| hirota masatane | 广田真胤 | ![twitter](https://pbs.twimg.com/profile_images/1196010745487486976/1AZ8OJFN_400x400.png)<br><br>**作者推特头像**<br><br>社团`vagina dentata`主笔画师<br><br>![works](# "https://pbs.twimg.com/media/GTo0acrbcAAGLlc?format=jpg&name=large") | [twitter](https://x.com/hirotamasatane) [HP](http://vaginadentata.sblo.jp/) |
 | hiroto | 启人 |  |  |
 | hiroyama hiroshi | 广山弘 |  |  |
 | hiroyoshi | ヒロヨシ |  |  |
