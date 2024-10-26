@@ -12940,6 +12940,7 @@ example:
 | tabibitto | たびびっと |  |  |
 | hakutoutei | 白桃亭 |  |  |
 | iyashiyu | 愈し汤 |  |  |
+| yumemizato | 夢見里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
