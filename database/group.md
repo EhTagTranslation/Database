@@ -12934,6 +12934,7 @@ example:
 | kanons november | Kanon's November |  |  |
 | sanbalkin | サンバルキン |  |  |
 | muramura murason | むらむら村ソン |  |  |
+| doushoku | どうしょく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
