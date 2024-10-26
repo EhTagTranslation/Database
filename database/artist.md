@@ -13223,6 +13223,7 @@ example:
 | pizza yorozu | ピザ萬 |  |  |
 | airt | えあとかいり |  |  |
 | tankobu | Tankobu |  |  |
+| kumajiro | くまじろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
