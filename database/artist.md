@@ -2268,7 +2268,7 @@ example:
 | jagayamatarawo | じゃが山たらヲ |  | [X](https://x.com/jagatara00) [pixiv](https://www.pixiv.net/users/3073199) |
 | kasei | かせい |  |  |
 | kayanoi ino | 茅乃井いの |  |  |
-| kiiroi tamago | 黄色的蛋 | きいろいたまご<br>成人向漫画家。<br>![图](https://pbs.twimg.com/profile_images/1256478213145899008/5RWuYvIN_400x400.jpg)<br>**作者推特头像**<br>单行本《性春ホリック》<br>![图](# "https://ehgt.org/45/a1/45a17e37114a069cfb91cb52f21d34a10539927a-876089-1057-1500-jpg_l.jpg") | [X](https://x.com/tamagokiiro) [pixiv](https://www.pixiv.net/users/1218369) |
+| kiiroi tamago | きいろいたまご | きいろいたまご<br>成人向漫画家。<br>![图](https://pbs.twimg.com/profile_images/1256478213145899008/5RWuYvIN_400x400.jpg)<br>**作者推特头像**<br>单行本《性春ホリック》<br>![图](# "https://ehgt.org/45/a1/45a17e37114a069cfb91cb52f21d34a10539927a-876089-1057-1500-jpg_l.jpg") | [X](https://x.com/tamagokiiro) [pixiv](https://www.pixiv.net/users/1218369) |
 | kirihara you | 桐原湧 |  |  |
 | mdakoki | M田K樹 |  |  |
 | ooyoko yamaame | 大横山饴 |  |  |
