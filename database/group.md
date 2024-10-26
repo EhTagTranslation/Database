@@ -12935,6 +12935,7 @@ example:
 | sanbalkin | サンバルキン |  |  |
 | muramura murason | むらむら村ソン |  |  |
 | doushoku | どうしょく |  |  |
+| platinum cape | プラチナケイプ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
