@@ -5660,7 +5660,6 @@ example:
 | saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
 | pekoras mother | 佩克拉妈妈 |  |  |
 | unzen | 云仙 | 1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
-| pp90 | PP90 \| 乌琪 | `p:girls frontline`<br><br>少女前线2:追放<br>乌琪即将登场 |  |
 | mualani | 玛拉妮 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛拉妮) |
 | shiori fujisaki | 藤崎诗织 |  |  |
 | kiwi araga | 阿良河基维 | 阿良河基维（日语：阿良河（あらが） キウィ）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/24/阿良河基维人设.webp) | [萌娘百科](https://zh.moegirl.org.cn/阿良河基维) |
@@ -5675,7 +5674,6 @@ example:
 | ashley graves | 阿什利·格雷夫斯 | 《安迪和莱利的棺材》中的女主，安德鲁·格雷夫斯的妹妹 |  |
 | greythroat | 灰喉 | 【代号】灰喉<br>【性别】女<br>【战斗经验】三年<br>【出身地】未公开<br>【生日】11月14日<br>【种族】黎博利<br>【身高】162cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者 | [https://prts.wiki/w/灰喉](https://prts.wiki/w/灰喉) |
 | pepe | 佩佩 | 【代号】佩佩<br>【性别】女<br>【战斗经验】三年<br>【出身地】萨尔贡<br>【生日】6月12日<br>【种族】菲林<br>【身高】155cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/佩佩](https://prts.wiki/w/佩佩) |
-| proviso | 但书 | 【代号】但书<br>【性别】女<br>【战斗经验】没有战斗经验<br>【出身地】卡西米尔<br>【生日】10月30日<br>【种族】库兰塔<br>【身高】165cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/但书](https://prts.wiki/w/但书) |
 | ines | 伊内丝 | 【代号】伊内丝<br>【性别】女<br>【战斗经验】十九年<br>【出身地】卡兹戴尔<br>【生日】2月19日<br>【种族】未公开<br>【身高】168cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为感染者。 | [https://prts.wiki/w/伊内丝](https://prts.wiki/w/伊内丝) |
 | qiubai | 仇白 | 【代号】仇白<br>【性别】女<br>【战斗经验】十年<br>【出身地】炎<br>【生日】5月14日<br>【种族】埃拉菲亚<br>【身高】178cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/仇白#干员档案](https://prts.wiki/w/仇白#干员档案) |
 | gundo mirei | 郡道美玲 | 郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。 | [萌娘百科](https://zh.moegirl.org.cn/郡道美玲) |

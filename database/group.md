@@ -4365,7 +4365,6 @@ example:
 | doumou | DOUMOU |  |  |
 | doushia | ドーシア |  |  |
 | doushin chaya | 童心茶屋 |  |  |
-| doutei shokudou | 童貞食堂 |  |  |
 | douwa-kensetsu | 童話建設 |  |  |
 | doux | DOUX |  |  |
 | downbeat | downbeat |  |  |
@@ -5724,7 +5723,7 @@ example:
 | hitujinoki | ひつじの木 |  |  |
 | hiwatari honpo | 樋渡本舗 |  |  |
 | hiyashi asia | ヒヤシアジア |  |  |
-| hiyashi chuuka hajimemashita | 冷し中華おわりました |  |  |
+| hiyashi chuuka owarimashita | 冷し中華おわりました |  |  |
 | hiyashichuuka hajimemashita | 冷やし中華はじめました |  |  |
 | hiyocco | HIYOCCO |  |  |
 | hiyoko box | ひよこBOX |  |  |
@@ -11077,7 +11076,6 @@ example:
 | takeuma no tomo | 竹馬の友 |  |  |
 | takeya | たけ家 |  |  |
 | takeyabu | タケヤブ |  |  |
-| takeyamaya | 茸山屋 |  |  |
 | takimoto doujou | 滝本道場 |  |  |
 | takion melo | 瀧音MELO |  |  |
 | takitate | 炊きたて |  |  |
@@ -11338,7 +11336,7 @@ example:
 | titania | てぃたーにあ |  |  |
 | titano-makhia | ティタノマキア |  |  |
 | tiusan kingdom | ちうさんキングダム |  |  |
-| tk jesus | TKジーザス |  |  |
+| tk jesus | TKジーザス | 茸山屋 |  |
 | tk-brand | TK-Brand |  |  |
 | tk-bros | TK-BROS |  |  |
 | tkciao | tkciao |  |  |
@@ -12934,7 +12932,7 @@ example:
 | kanons november | Kanon's November |  |  |
 | sanbalkin | サンバルキン |  |  |
 | muramura murason | むらむら村ソン |  |  |
-| doushoku | どうしょく |  |  |
+| doushoku | どうしょく | 童貞食堂 |  |
 | platinum cape | プラチナケイプ |  |  |
 | unadondon | うな井井 |  |  |
 | tabibitto | たびびっと |  |  |
