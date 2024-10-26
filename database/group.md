@@ -12944,6 +12944,7 @@ example:
 | rotstudio | Rot Studio |  |  |
 | ayrt koubou | えあと工房 |  |  |
 | showa shojo | 昭和少女 |  |  |
+| tankonbu. | たんこんぶ。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
