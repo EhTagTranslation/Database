@@ -2446,7 +2446,7 @@ example:
 | tomoe yousuke | 巴八丞 |  |  |
 | tokita alumi | 鴇田アルミ |  |  |
 | poshi | ぽし |  | [pixiv](https://www.pixiv.net/users/8926) [X](https://x.com/hginmoku_poshi) |
-| haguruma | 歯車 |  |  |
+| haguruma | 齿车 |  |  |
 | kanekiyo miwa | 兼清みわ |  |  |
 | gayarou | ☆画野朗 |  |  |
 | yashiro seika | 八城惺架 |  | [X](https://x.com/yashiro_seika) [pixiv](https://www.pixiv.net/users/柑橘少女) |
