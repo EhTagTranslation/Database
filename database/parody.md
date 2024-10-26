@@ -2309,6 +2309,7 @@ example:
 | kanpani girls | 企业少女 | 《企业少女》日语：かんぱに☆ガールズ，简称《社长》，是由DMM GAMES开发、DMM.com提供及营运中的网页游戏。<br><br>![](https://img.moegirl.org.cn/common/9/95/Hggujgjhfjh.jpg) | [萌娘百科](https://zh.moegirl.org.cn/企业少女)<br>[X](https://x.com/kanpani_STAFF) |
 | tenkafuma | 天下布魔 |  |  |
 | kaitou tenshi twin angel | 快盗天使双胞胎 | 《快盗天使双胞胎》（日语：快盗天使ツインエンジェル；英语：Kaito Tenshi Twin Angel，时常简称为快盗天使）是由TRIVY公司制作的角子机。机台的看板娘便是最初快盗天使角色的原型。后随着机台型号的演变而甚至有了漫画的连载及动画的制作。<br>![](https://m.media-amazon.com/images/I/61ZVAQ5mrWL.jpg) | [萌娘百科](https://zh.moegirl.org.cn/快盗天使双胞胎) |
+| kaijin kaihatsubu no kuroitsu-san | 怪人开发部的黑井津 | 《怪人开发部的黑井津》（日语：怪人開発部の黒井津さん；英语：Miss Kuroitsu from the Monster Development Department）是水崎弘明于2019年4月17日在网络漫画平台COMIC Meteor上发表的单篇漫画，并于2020年10月7日起在同网站上开始正式连载。本作亦有改编动画。<br>![](https://img.moegirl.org.cn/common/thumb/9/9c/怪人开发部的黑井津_第1卷.jpg/420px-怪人开发部的黑井津_第1卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/怪人开发部的黑井津) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
