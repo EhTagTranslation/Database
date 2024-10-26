@@ -10948,7 +10948,7 @@ example:
 | tomihero | トミヒロ |  |  |
 | tomisawa chinatsu | とみさわ千夏 |  |  |
 | tomite | とみて |  |  |
-| tomiyama akiji | 兎耳山アキジ |  |  |
+| tomiyama akiji | 兔耳山アキジ |  |  |
 | tomiyoshi | トミヨシ |  |  |
 | tomneko | 吐夢猫 |  |  |
 | tomo takino | 智タキノ |  |  |
