@@ -12942,6 +12942,7 @@ example:
 | iyashiyu | 愈し汤 |  |  |
 | yumemizato | 夢見里 |  |  |
 | chidori ashi | ちどりあし |  |  |
+| shounen brief kenkyuujo | 少年ブリーフ研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
