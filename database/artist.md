@@ -13212,6 +13212,7 @@ example:
 | akitsu tombo | 秋津Tombo! |  |  |
 | cotton | コットン |  |  |
 | tabiguchi kouji | 旅口工路 |  |  |
+| takezumi | ケケ炭 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
