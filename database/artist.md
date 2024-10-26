@@ -13208,6 +13208,7 @@ example:
 | tsuruomi | つるおみ |  |  |
 | zutako | づ蛸 |  |  |
 | ae | ae |  |  |
+| egaki numa | 江垣沼 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
