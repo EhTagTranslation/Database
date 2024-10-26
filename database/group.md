@@ -12941,6 +12941,7 @@ example:
 | hakutoutei | 白桃亭 |  |  |
 | iyashiyu | 愈し汤 |  |  |
 | yumemizato | 夢見里 |  |  |
+| chidori ashi | ちどりあし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
