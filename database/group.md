@@ -12517,7 +12517,7 @@ example:
 | suiren no yado | 水莲之宿 | `asakawa`的同人社团 |  |
 | tariki honganji | 他力本愿寺 |  |  |
 | ebisujima misato | 戎島実里 |  | [X](https://x.com/misat_eb) |
-| jikahatsudensho | 自家発電処 |  |  |
+| jikahatsudensho | 自家发电处 |  |  |
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
 | shuukyuu 8-ka | 週休8日 |  |  |
