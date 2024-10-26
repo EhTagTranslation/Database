@@ -12945,6 +12945,7 @@ example:
 | ayrt koubou | えあと工房 |  |  |
 | showa shojo | 昭和少女 |  |  |
 | tankonbu. | たんこんぶ。 |  |  |
+| tamani wa shinruchuu | たまには杏露酒 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
