@@ -12944,6 +12944,7 @@ example:
 | chidori ashi | ちどりあし |  |  |
 | shounen brief kenkyuujo | 少年ブリーフ研究所 |  |  |
 | rotstudio | Rot Studio |  |  |
+| ayrt koubou | えあと工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
