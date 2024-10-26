@@ -13209,6 +13209,7 @@ example:
 | zutako | づ蛸 |  |  |
 | ae | ae |  |  |
 | egaki numa | 江垣沼 |  |  |
+| akitsu tombo | 秋津Tombo! |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
