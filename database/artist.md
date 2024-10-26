@@ -13220,6 +13220,7 @@ example:
 | mozukuzu | もずくず |  |  |
 | amamoru | あまもる |  |  |
 | rot | ろっと |  |  |
+| pizza yorozu | ピザ萬 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
