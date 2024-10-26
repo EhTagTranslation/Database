@@ -12938,6 +12938,7 @@ example:
 | platinum cape | プラチナケイプ |  |  |
 | unadondon | うな井井 |  |  |
 | tabibitto | たびびっと |  |  |
+| hakutoutei | 白桃亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
