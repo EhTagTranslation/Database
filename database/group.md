@@ -12939,6 +12939,7 @@ example:
 | unadondon | うな井井 |  |  |
 | tabibitto | たびびっと |  |  |
 | hakutoutei | 白桃亭 |  |  |
+| iyashiyu | 愈し汤 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
