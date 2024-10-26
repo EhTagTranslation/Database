@@ -13221,6 +13221,7 @@ example:
 | amamoru | あまもる |  |  |
 | rot | ろっと |  |  |
 | pizza yorozu | ピザ萬 |  |  |
+| airt | えあとかいり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
