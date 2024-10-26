@@ -13219,6 +13219,7 @@ example:
 | denji houniki | 電磁砲二期 |  |  |
 | mozukuzu | もずくず |  |  |
 | amamoru | あまもる |  |  |
+| rot | ろっと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
