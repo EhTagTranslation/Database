@@ -12937,6 +12937,7 @@ example:
 | doushoku | どうしょく |  |  |
 | platinum cape | プラチナケイプ |  |  |
 | unadondon | うな井井 |  |  |
+| tabibitto | たびびっと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
