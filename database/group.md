@@ -2236,7 +2236,7 @@ example:
 | bakayaro | ばかやろう |  |  |
 | nanimoshinai | NANIMOSHINAI |  | [官方网站](http://tthp.x.fc2.com) |
 | mokumokusei | モクモクセイ |  |  |
-| junjou harinezumi | 純情ハリネズミ |  |  |
+| junjou harinezumi | 纯情ハリネズミ |  |  |
 | miniomlet ongakudan | ミニオムレツ音楽団 |  |  |
 | baiuzensen | 梅雨前線 |  |  |
 | nagomiyasan | なごみやさん |  |  |
