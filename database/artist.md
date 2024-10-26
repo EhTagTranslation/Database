@@ -7119,7 +7119,7 @@ example:
 | kotaru | 瑚樽 |  |  |
 | kotatsu | 小龍 | こたつ | [Danbooru](https://danbooru.donmai.us/posts?tags=koyuki_%28kotatsu358%29)<br>[pixiv](https://www.pixiv.net/users/8780063)<br>[X](https://x.com/koyuki8612)<br>[Fantia](https://fantia.jp/fanclubs/92524)<br>[FANBOX](https://kotatsu358.fanbox.cc/)<br>[X](https://x.com/kota2comic) |
 | kotatsu tomodachi | コタツトモダチ |  | [pixiv](https://www.pixiv.net/users/1081085) |
-| koto | koto |  |  
+| koto | koto |  |  |
 | kotobuki | kotobuki |  |  |
 | kotobuki hajime | ことぶきはじめ |  |  |
 | kotobuki maimu | ことぶきまいむ |  |  |
@@ -13222,6 +13222,7 @@ example:
 | rot | ろっと |  |  |
 | pizza yorozu | ピザ萬 |  |  |
 | airt | えあとかいり |  |  |
+| tankobu | Tankobu |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
