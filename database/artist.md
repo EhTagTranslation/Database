@@ -13218,6 +13218,7 @@ example:
 | fangqiao yepo | 坊橋夜泊 |  |  |
 | denji houniki | 電磁砲二期 |  |  |
 | mozukuzu | もずくず |  |  |
+| amamoru | あまもる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
