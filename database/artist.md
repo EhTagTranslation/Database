@@ -13214,6 +13214,7 @@ example:
 | tabiguchi kouji | 旅口工路 |  |  |
 | takezumi | ケケ炭 |  |  |
 | tsuyuno minaduki | 梅雨野みなづき |  |  |
+| baku p | ばくP |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
