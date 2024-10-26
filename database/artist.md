@@ -13211,6 +13211,7 @@ example:
 | egaki numa | 江垣沼 |  |  |
 | akitsu tombo | 秋津Tombo! |  |  |
 | cotton | コットン |  |  |
+| tabiguchi kouji | 旅口工路 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
