@@ -12936,6 +12936,7 @@ example:
 | muramura murason | むらむら村ソン |  |  |
 | doushoku | どうしょく |  |  |
 | platinum cape | プラチナケイプ |  |  |
+| unadondon | うな井井 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
