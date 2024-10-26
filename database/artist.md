@@ -13210,6 +13210,7 @@ example:
 | ae | ae |  |  |
 | egaki numa | 江垣沼 |  |  |
 | akitsu tombo | 秋津Tombo! |  |  |
+| cotton | コットン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
