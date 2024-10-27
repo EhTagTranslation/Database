@@ -11430,7 +11430,7 @@ example:
 | watanabe yoshimasa | わたなべよしまさ |  |  |
 | watanabe yuuna | 渡辺ゆうな |  |  |
 | watanuki kaname | 四月朔日要 |  |  |
-| watanuki lon | 綿貫ろん |  |  |
+| watanuki lon | 棉贯ろん |  |  |
 | watao | わたお |  |  |
 | watarai | 度会 |  |  |
 | wataru | 渉 |  |  |
