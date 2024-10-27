@@ -13236,6 +13236,7 @@ example:
 | ice reizou | 爱须冷藏 |  |  |
 | annomike | あんのみけ |  |  |
 | shiono kou | 汐乃コウ |  |  |
+| katsu aki | 克亚树 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
