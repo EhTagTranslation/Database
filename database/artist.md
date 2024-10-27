@@ -12781,7 +12781,7 @@ example:
 | takami itsu | 高見乙 |  | [X](https://x.com/tkm_i2) |
 | kaza midori | 可座ミドリ |  |  |
 | kahmasu | かーます |  |  |
-| ginen | 銀塩 |  |  |
+| ginen | 银盐 |  |  |
 | saitou renji | 西東レンジ |  |  |
 | suzuro aruki | スズロアルキ |  |  |
 | moritama | もりたま |  |  |
