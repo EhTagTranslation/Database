@@ -12957,6 +12957,7 @@ example:
 | ichinichi futsuka | いちにちふつか |  |  |
 | peanuts koubou | ピーナッツ工房 |  |  |
 | mizuarai no kai | 水洗いの会 |  |  |
+| senpuku basho | 潜伏場所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
