@@ -13232,6 +13232,7 @@ example:
 | imamori | 今森 |  |  |
 | natsuo tsunao | 夏生ツナオ |  |  |
 | tsunao | つなお |  |  |
+| kokonoka toka | 九日とおか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
