@@ -13239,6 +13239,7 @@ example:
 | katsu aki | 克亚树 |  |  |
 | keoya | ケオヤ |  |  |
 | kuga tsuniya | 玖珂ツニヤ |  |  |
+| yukimuramaru | ゆきむら丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
