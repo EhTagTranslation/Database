@@ -13225,6 +13225,7 @@ example:
 | tankobu | Tankobu |  |  |
 | kumajiro | くまじろ |  |  |
 | amano teru | 天乃辉 |  |  |
+| archipelago | あーきぺらご |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
