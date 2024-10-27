@@ -13240,6 +13240,7 @@ example:
 | keoya | ケオヤ |  |  |
 | kuga tsuniya | 玖珂ツニヤ |  |  |
 | yukimuramaru | ゆきむら丸 |  |  |
+| mr.peanut | Mr.Peanut |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
