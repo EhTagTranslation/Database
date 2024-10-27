@@ -13228,6 +13228,7 @@ example:
 | archipelago | あーきぺらご |  |  |
 | umagome rakure | 甜米らくれ | ![twitter](https://pbs.twimg.com/profile_images/1395818135421259778/qHjarpbP_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/uma_raclette) |
 | suzuki shungyou | 铃木春晓 |  |  |
+| shion katsugi | 紫苑かつぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
