@@ -12954,6 +12954,7 @@ example:
 | katugi-ya | かつぎ屋 |  |  |
 | mad capsule | MAD CAPSULE |  |  |
 | juicy hassaku | ジューシーはっさく |  |  |
+| ichinichi futsuka | いちにちふつか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
