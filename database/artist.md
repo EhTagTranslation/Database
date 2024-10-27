@@ -13233,6 +13233,7 @@ example:
 | natsuo tsunao | 夏生ツナオ |  |  |
 | tsunao | つなお |  |  |
 | kokonoka toka | 九日とおか |  |  |
+| ice reizou | 爱须冷藏 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
