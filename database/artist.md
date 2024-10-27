@@ -12657,7 +12657,7 @@ example:
 | yasuda yasuhiro | 保田やすひろ |  |  |
 | minazuki miyabi | 水無月雅 |  |  |
 | okome taberu | おこめタベル |  |  |
-| nagase tooru | 長瀬 徹 |  | [X](https://x.com/naganagase0114) [pixiv](https://www.pixiv.net/users/54396773) |
+| nagase tooru | 长濑彻 | ![X](https://pbs.twimg.com/profile_images/1450021655766466560/pz1Klcvk_400x400.jpg)<br><br>**作者X头像** | [X](https://x.com/naganagase0114) [pixiv](https://www.pixiv.net/users/54396773) |
 | az slash hybrid | をん（AZ/HYBRID） |  | [pixiv](https://www.pixiv.net/users/23821) [X](https://x.com/wonashybrid) |
 | shirabii | しらび |  | [pixiv](https://www.pixiv.net/users/216403) [X](https://x.com/shirabii) |
 | ushio kiyoshi | 潮汐きよし |  |  |
