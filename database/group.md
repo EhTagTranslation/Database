@@ -12947,7 +12947,7 @@ example:
 | tankonbu. | たんこんぶ。 |  |  |
 | tamani wa shinruchuu | たまには杏露酒 |  |  |
 | tamamo-ya | たまも屋 |  |  |
-| teruterugirl | てるてるがーる |  |  |
+| teruterugirl | 天乃辉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
