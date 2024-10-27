@@ -1256,7 +1256,7 @@ example:
 | kai hiroyuki | 甲斐ひろゆき |  |  |
 | kihiru | きひる |  |  |
 | kogaku kazuya | 虎顎かずや |  |  |
-| kokonoki nao | ここのき奈緒 |  |  |
+| kokonoki nao | ここのき奈绪 |  |  |
 | naz | NAZ | 漫画家。二次创作中，主要是以`kantai collection`为原作的`exhibitionism`作品。<br>原创作品中，也包含有`exhibitionism`<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2020/10/14/18/55/36/19510955_99a1644d94d0c9a1988d2394a2aa20fb_170.png) | [X](https://x.com/N_A_Z_) [pixiv](https://www.pixiv.net/users/1295112) |
 | neriwasabi | ねりわさび |  |  |
 | yonyon | よんよん |  |  |
