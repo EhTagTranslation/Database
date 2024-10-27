@@ -13237,6 +13237,7 @@ example:
 | annomike | あんのみけ |  |  |
 | shiono kou | 汐乃コウ |  |  |
 | katsu aki | 克亚树 |  |  |
+| keoya | ケオヤ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
