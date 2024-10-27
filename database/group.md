@@ -7928,7 +7928,7 @@ example:
 | mobris | MOBRIS |  |  |
 | mocchimochiya | もっちもち屋 |  |  |
 | mocchomudake | モッチョム茸 |  |  |
-| mochi dog laboratory | 餅犬製作所 |  |  |
+| mochi dog laboratory | 餅犬製作所饼犬 |  |  |
 | mochi hasamiuchi da | 餅はさみ撃ちだっ! |  |  |
 | mochi kiss junkie | もちxoジャンキー |  |  |
 | mochi mochi | もちもち |  |  |
