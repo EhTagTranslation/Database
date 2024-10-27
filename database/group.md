@@ -1902,7 +1902,7 @@ example:
 | narumiya | 成宮 |  |  |
 | circle-fiore | サークルフィオレ |  |  |
 | popopo | ぽぽぽ |  |  |
-| toushitu catapult | 糖質過多ぱると |  |  |
+| toushitu catapult | 糖质过多ぱると |  |  |
 | ojopie sentimental | おじょぱいセンチメンタル |  |  |
 | dokutoku no m | 独特のM |  |  |
 | watari laboratory | 渡里laboratory |  |  |
