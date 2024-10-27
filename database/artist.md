@@ -13231,6 +13231,7 @@ example:
 | shion katsugi | 紫苑かつぎ |  |  |
 | imamori | 今森 |  |  |
 | natsuo tsunao | 夏生ツナオ |  |  |
+| tsunao | つなお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
