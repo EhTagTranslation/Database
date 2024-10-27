@@ -5928,7 +5928,7 @@ example:
 | ichino nijou | いちのにじょう |  |  |
 | ichinose | 一ノ瀬 |  |  |
 | ichiokumangenjaya | 一億万軒茶屋 |  |  |
-| ichiokunen wakusei | 1億年惑星 |  |  |
+| ichiokunen wakusei | 1亿年惑星 |  |  |
 | ichiya neko no yume | 一夜猫の夢 |  |  |
 | ichiya teikoku | 壱屋帝国 |  |  |
 | ichiyonroku | イチヨンロク |  |  |
