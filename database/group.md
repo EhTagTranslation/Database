@@ -4868,7 +4868,7 @@ example:
 | furuike | furuike |  |  |
 | furuya | ふる屋 |  |  |
 | fushigi dou | フシギ堂 |  |  |
-| fushinsya guilty | 不審者罪 |  |  |
+| fushinsya guilty | 不审者罪 |  |  |
 | fushizen doubutsu hogodantai | 不自然動物保護団体 |  |  |
 | fusions | Fusions |  |  |
 | fusuido | 封粋堂 |  |  |
