@@ -6471,7 +6471,7 @@ example:
 | kashinoki | カシノ木 |  |  |
 | kashitsuki | 菓子つき |  |  |
 | kashiwa-ya | かしわ屋 |  |  |
-| kasou genjitsu | 禍葬現実 |  |  |
+| kasou genjitsu | 祸葬现实 |  |  |
 | kasozama | 過疎座間 |  |  |
 | kassam rocketer | Kassam rocketer |  |  |
 | kasshoku amazoness | 褐色アマゾネス |  |  |
