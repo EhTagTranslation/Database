@@ -4121,7 +4121,7 @@ example:
 | aniki | アニキ |  |  |
 | anji | 杏二 |  |  |
 | ankoromochi | あんころもち |  |  |
-| anma | 安間 |  |  |
+| anma | 安间 |  |  |
 | anmitsu sou | あんみつ草 |  |  |
 | ann | Ann |  |  |
 | annie | あにぃ |  | [pixiv](https://www.pixiv.net/users/176501) [X](https://x.com/trueblue_annie) |
