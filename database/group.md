@@ -12951,6 +12951,7 @@ example:
 | shimanami | しまなみ |  |  |
 | rakure cheese koubou | らくれチーズ工房 | 画师`umagome rakure`所属社团 |  |
 | akatsuki oboezu | あかつきおぼえず |  |  |
+| katugi-ya | かつぎ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
