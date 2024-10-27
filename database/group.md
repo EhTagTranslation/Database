@@ -12955,6 +12955,7 @@ example:
 | mad capsule | MAD CAPSULE |  |  |
 | juicy hassaku | ジューシーはっさく |  |  |
 | ichinichi futsuka | いちにちふつか |  |  |
+| peanuts koubou | ピーナッツ工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
