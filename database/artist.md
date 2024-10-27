@@ -6071,7 +6071,7 @@ example:
 | ikoma ippei | 伊駒一平 |  |  |
 | iktk | イキテク |  |  |
 | iku | 郁 |  |  |
-| ikue fuji | 幾枝風児 |  |  |
+| ikue fuji | 几枝风儿 |  |  |
 | ikuhashi muiko | 郁橋むいこ |  |  |
 | ikuma satsuki | 伊久間さつき |  |  |
 | ikuno harusame | 生野ハルサメ |  |  |
