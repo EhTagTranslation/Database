@@ -12953,6 +12953,7 @@ example:
 | akatsuki oboezu | あかつきおぼえず |  |  |
 | katugi-ya | かつぎ屋 |  |  |
 | mad capsule | MAD CAPSULE |  |  |
+| juicy hassaku | ジューシーはっさく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
