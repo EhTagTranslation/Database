@@ -13226,6 +13226,7 @@ example:
 | kumajiro | くまじろ |  |  |
 | amano teru | 天乃辉 |  |  |
 | archipelago | あーきぺらご |  |  |
+| umagome rakure | 甜米らくれ | ![twitter](https://pbs.twimg.com/profile_images/1395818135421259778/qHjarpbP_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/uma_raclette) |
 
 <!--TEMPLATE:
 |  |  |  |  |
