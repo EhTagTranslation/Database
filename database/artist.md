@@ -13235,6 +13235,7 @@ example:
 | kokonoka toka | 九日とおか |  |  |
 | ice reizou | 爱须冷藏 |  |  |
 | annomike | あんのみけ |  |  |
+| shiono kou | 汐乃コウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
