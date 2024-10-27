@@ -12948,6 +12948,7 @@ example:
 | tamani wa shinruchuu | たまには杏露酒 |  |  |
 | tamamo-ya | たまも屋 |  |  |
 | teruterugirl | 天乃辉 |  |  |
+| shimanami | しまなみ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
