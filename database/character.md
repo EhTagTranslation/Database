@@ -5796,6 +5796,7 @@ example:
 | haku | 白 |  |  |
 | zabuza momochi | 桃地再不斩 |  |  |
 | veldora tempest | 维鲁德拉·特恩佩斯特 | 维鲁德拉·特恩佩斯特是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d4/Veldora_Tempest_human.jpg/1024px-Veldora_Tempest_human.jpg) | [萌娘百科](https://zh.moegirl.org.cn/维鲁德拉·特恩佩斯特) |
+| mavuika | 玛薇卡 | 玛薇卡是米哈游创作的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛薇卡) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
