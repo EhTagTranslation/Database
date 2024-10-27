@@ -11821,7 +11821,7 @@ example:
 | yukimai | ゆきまい |  |  |
 | yukimaro yukky | ゆきまろゆっきー |  |  |
 | yukimaru. | 雪丸。 |  |  |
-| yukimi | 由木彌 |  |  |
+| yukimi | 由木弥 |  |  |
 | yukimi iris | 雪味あいりす |  |  |
 | yukimino yukio | 雪見野ユキオ |  |  |
 | yukimitsu | ゆきみつ |  |  |
