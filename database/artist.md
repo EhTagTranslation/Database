@@ -13224,6 +13224,7 @@ example:
 | airt | えあとかいり |  |  |
 | tankobu | Tankobu |  |  |
 | kumajiro | くまじろ |  |  |
+| amano teru | 天乃辉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
