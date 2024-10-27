@@ -12949,6 +12949,7 @@ example:
 | tamamo-ya | たまも屋 |  |  |
 | teruterugirl | 天乃辉 |  |  |
 | shimanami | しまなみ |  |  |
+| rakure cheese koubou | らくれチーズ工房 | 画师`umagome rakure`所属社团 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
