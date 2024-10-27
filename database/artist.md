@@ -13241,6 +13241,7 @@ example:
 | kuga tsuniya | 玖珂ツニヤ |  |  |
 | yukimuramaru | ゆきむら丸 |  |  |
 | mr.peanut | Mr.Peanut |  |  |
+| hannin b | 犯人B |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
