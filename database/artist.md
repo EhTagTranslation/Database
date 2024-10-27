@@ -5614,7 +5614,7 @@ example:
 | hasei agana | ハセイアガナ |  |  |
 | hasekura | 支倉 |  |  |
 | hasekura chiaki | 支倉ちあき |  |  |
-| hasekura noise | 支倉ノイズ |  |  |
+| hasekura noise | 支仓ノイズ |  |  |
 | hash | hash |  |  |
 | hashi cube | 土師キューブ |  |  |
 | hashiba yachi | 端葉やち |  |  |
