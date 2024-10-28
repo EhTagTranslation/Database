@@ -5179,7 +5179,7 @@ example:
 | tomori takamatsu | 高松灯 | 高松灯（日语：高松（たかまつ） 燈（ともり））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高松灯) |
 | anon chihaya | 千早爱音 | 千早爱音（日语：千早（ちはや） 愛音（あのん））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/千早爱音) |
 | soyo nagasaki | 长崎爽世 | 长崎爽世（日语：長崎（ながさき） そよ）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/0c/Soyo230916.png) | [萌娘百科](https://zh.moegirl.org.cn/长崎爽世) |
-| taki shiina | 椎名立希 |  |  |
+| taki shiina | 椎名立希 | 椎名立希（日语：椎名（しいな） 立希（たき））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椎名立希) |
 | penance | 斥罪 | 出自游戏《明日方舟》，本名拉维妮娅·法尔科内。 | [萌娘百科](https://zh.moegirl.org.cn/斥罪) |
 | kisaki ryuuge | 龙华妃咲 | 龙华妃咲是由Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html)<br>[萌娘百科](https://zh.moegirl.org.cn/龙华妃咲) |
 | takane miyoshi | 三善贵音 | 所属作品: `p:blue archive`<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png) |  |
