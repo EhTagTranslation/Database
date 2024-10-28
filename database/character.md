@@ -5828,6 +5828,7 @@ example:
 | emerald herald | 朝圣绿袍妹 夏娜罗特 |  |  |
 | crossbreed priscilla | 半龙女普莉希拉 |  |  |
 | yuria | 尤利娅 |  |  |
+| maneater mildred | 吃人的米鲁德雷特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
