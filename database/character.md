@@ -5823,6 +5823,7 @@ example:
 | eien no joou marika | 永恒女王玛莉卡 |  |  |
 | rennala | 蕾娜拉 |  |  |
 | fire keeper | 防火女 |  |  |
+| gwynevere | 葛温艾薇雅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
