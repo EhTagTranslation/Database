@@ -5846,6 +5846,7 @@ example:
 | lapis lazuli | 青金石 |  |  |
 | gloria martinez | 葛洛莉亚·马丁内斯 |  |  |
 | yato | 夜刀 |  |  |
+| noir corne | 黑角 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
