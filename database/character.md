@@ -5827,6 +5827,7 @@ example:
 | solaire of astora | 太阳战士索拉尔 |  |  |
 | emerald herald | 朝圣绿袍妹 夏娜罗特 |  |  |
 | crossbreed priscilla | 半龙女普莉希拉 |  |  |
+| yuria | 尤利娅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
