@@ -5801,6 +5801,7 @@ example:
 | euphemia li britannia | 尤菲米娅·li·布里塔尼亚 | ![尤菲米娅·li·布里塔尼亚](https://img.moegirl.org.cn/common/0/07/Youfeimiya_01.PNG)<br>尤菲米婭·li·布里塔尼亞（ユーフェミア・リ・ブリタニア）（Euphemia li Britannia），神聖布里塔尼亞帝國第三公主，生於皇曆2001年10月11日，死於皇曆2017年12月10日。<br>第二公主柯內莉亞·li·布里塔尼亞的親妹妹，從小備受姐姐寵愛。與魯路修·vi·布里塔尼亞為異母兄妹，並互為初戀。 | [萌娘百科](https://zh.moegirl.org.cn/尤菲米婭·li·布里塔尼亞) |
 | minawa andou | 安藤美奈和 |  |  |
 | sayoko shinozaki | 筱崎咲世子 |  |  |
+| whip | 薇普 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
