@@ -5847,6 +5847,7 @@ example:
 | gloria martinez | 葛洛莉亚·马丁内斯 |  |  |
 | yato | 夜刀 |  |  |
 | noir corne | 黑角 |  |  |
+| nayuta | 那由多 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
