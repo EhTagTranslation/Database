@@ -5849,6 +5849,7 @@ example:
 | noir corne | 黑角 |  |  |
 | nayuta | 那由多 |  |  |
 | saori kido | 雅典娜 城户沙织 |  |  |
+| athena | 雅典娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
