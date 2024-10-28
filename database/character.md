@@ -5810,6 +5810,7 @@ example:
 | midnight | 午夜[DC漫画] |  |  |
 | sumire otohana | 乙花堇 |  |  |
 | marina | 饭田 [斯普拉遁] |  |  |
+| cecile croomy | 塞希尔·柯尔米 | 塞希尔·柯尔米，日本动画片《Code Geass 反叛的鲁路修》及其衍生作品中的角色。<br>塞希尔·柯尔米，兰斯洛特开发群成员，中尉军衔，兼具同情心与坚韧，对朱雀有好感，是Zero镇魂曲的关键协助者之一， |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
