@@ -5808,6 +5808,7 @@ example:
 | alma armas | 阿尔玛·阿玛斯 |  |  |
 | bambietta basterbine | 邦比爱塔·芭丝塔拜姻 |  |  |
 | midnight | 午夜[DC漫画] |  |  |
+| sumire otohana | 乙花堇 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
