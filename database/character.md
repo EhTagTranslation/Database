@@ -5838,6 +5838,7 @@ example:
 | sakiko togawa | 丰川祥子 | 丰川祥子（日语：豊川（とがわ） 祥子（さきこ））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丰川祥子) |
 | falin thorden | 法琳 | 法琳·图丁（日语：ファリン・トーデン）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/法琳) |
 | priscilla | 普莉希拉 |  |  |
+| saeko busujima | 毒岛冴子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
