@@ -5802,6 +5802,7 @@ example:
 | minawa andou | 安藤美奈和 |  |  |
 | sayoko shinozaki | 筱崎咲世子 |  |  |
 | whip | 薇普 |  |  |
+| bocchi hitori | 一里波知 | ![](https://img.moegirl.org.cn/common/2/29/Bocchi_T.JPG)<br>一里波知（日語：一里（ひとり） ぼっち）是由カツヲ所創作的漫畫《一個人的OO小日子》及其衍生作品的登場角色。名字意為「一個人」（一人ぼっち） | [萌娘百科](https://zh.moegirl.org.cn/一里波知) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
