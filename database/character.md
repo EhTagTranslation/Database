@@ -5834,6 +5834,7 @@ example:
 | garl vinland | 卡尔•文兰 |  |  |
 | maiden in black | 黑衣少女 |  |  |
 | maiden astraea | 少女雅思兰莉亚 |  |  |
+| umiri yahata | 椎名立希 | 椎名立希（日语：椎名（しいな） 立希（たき））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椎名立希) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
