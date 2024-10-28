@@ -5177,7 +5177,7 @@ example:
 | rin uehara | 上原燐 |  |  |
 | himeno | 姬野 | 出自《电锯人》 |  |
 | tomori takamatsu | 高松灯 | 高松灯（日语：高松（たかまつ） 燈（ともり））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高松灯) |
-| anon chihaya | 千早爱音 |  |  |
+| anon chihaya | 千早爱音 | 千早爱音（日语：千早（ちはや） 愛音（あのん））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/千早爱音) |
 | soyo nagasaki | 长崎爽世 | 长崎爽世（日语：長崎（ながさき） そよ）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/0c/Soyo230916.png) | [萌娘百科](https://zh.moegirl.org.cn/长崎爽世) |
 | taki shiina | 椎名立希 |  |  |
 | penance | 斥罪 | 出自游戏《明日方舟》，本名拉维妮娅·法尔科内。 | [萌娘百科](https://zh.moegirl.org.cn/斥罪) |
