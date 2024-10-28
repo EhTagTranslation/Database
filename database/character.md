@@ -5825,6 +5825,7 @@ example:
 | fire keeper | 防火女 |  |  |
 | gwynevere | 葛温艾薇雅 |  |  |
 | solaire of astora | 太阳战士索拉尔 |  |  |
+| emerald herald | 朝圣绿袍妹 夏娜罗特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
