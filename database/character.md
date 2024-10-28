@@ -5821,6 +5821,7 @@ example:
 | malenia | 玛莲妮亚 | 玛莲妮亚是角色扮演游戏《艾尔登法环》中的角色。 |  |
 | marika | 玛莉卡 | 玛莉卡（Marika）是《艾尔登法环》中的人物角色，别名永恒女王。 |  |
 | eien no joou marika | 永恒女王玛莉卡 |  |  |
+| rennala | 蕾娜拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
