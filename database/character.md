@@ -5833,6 +5833,7 @@ example:
 | plain doll | 人偶妹 |  |  |
 | garl vinland | 卡尔•文兰 |  |  |
 | maiden in black | 黑衣少女 |  |  |
+| maiden astraea | 少女雅思兰莉亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
