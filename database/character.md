@@ -5824,6 +5824,7 @@ example:
 | rennala | 蕾娜拉 |  |  |
 | fire keeper | 防火女 |  |  |
 | gwynevere | 葛温艾薇雅 |  |  |
+| solaire of astora | 太阳战士索拉尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
