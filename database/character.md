@@ -5848,6 +5848,7 @@ example:
 | yato | 夜刀 |  |  |
 | noir corne | 黑角 |  |  |
 | nayuta | 那由多 |  |  |
+| saori kido | 雅典娜 城户沙织 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
