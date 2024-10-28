@@ -5840,6 +5840,7 @@ example:
 | priscilla | 普莉希拉 |  |  |
 | saeko busujima | 毒岛冴子 |  |  |
 | quelaag | 克拉格 |  |  |
+| steven universe | 史蒂文宇宙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
