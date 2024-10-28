@@ -5804,6 +5804,7 @@ example:
 | whip | 薇普 |  |  |
 | bocchi hitori | 一里波知 | ![](https://img.moegirl.org.cn/common/2/29/Bocchi_T.JPG)<br>一里波知（日語：一里（ひとり） ぼっち）是由カツヲ所創作的漫畫《一個人的OO小日子》及其衍生作品的登場角色。名字意為「一個人」（一人ぼっち） | [萌娘百科](https://zh.moegirl.org.cn/一里波知) |
 | esdeath | 艾斯德斯 | ![](https://img.moegirl.org.cn/common/c/c7/斩赤红之瞳-9卷.png)<br>艾斯德斯（日語：エスデス；英語：Esdeath）是タカヒロ原作、田代哲也作畫的漫畫《斬赤紅之瞳》及其衍生作品的登場角色。<br>動漫《斬·赤紅之瞳！》中的重要人物。和布德大將軍齊名的超S戰鬥狂人，整個帝國中最年輕且最強的將軍，現在為特殊警察組織「狩人」的領導者。從小心中弱肉強食的思想就根深蒂固，擁有難以匹敵的恐怖實力，持有的冰之帝具「魔神顯現·惡魔之粹·」被Night Raid領導者娜潔希坦認為是最強帝具般的存在。非常喜歡塔茲米。 | [萌娘百科](https://zh.moegirl.org.cn/艾斯德斯) |
+| noel niihashi | 新桥诺艾尔 | 日本漫画《burn the witch》及其衍生作品中的女主角<br>新桥诺艾尔（新橋のえる Noel Niihashi），日本漫画《burn the witch》及其衍生作品中的女主角之一，“Wing Bind”的1等保护官，所属于笛吹队。被前辈的妮内称为“尼哈”。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
