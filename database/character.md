@@ -5843,6 +5843,7 @@ example:
 | steven universe | 史蒂文宇宙 |  |  |
 | spinel | 尖晶石 |  |  |
 | soukaku | 苍角 | 苍角是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/ab/d5/abd510e73ea4af8a37b01cb45ff28a42c0d65b42-1578769-1440-1920-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/苍角) |
+| lapis lazuli | 青金石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
