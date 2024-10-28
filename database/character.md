@@ -5807,6 +5807,7 @@ example:
 | noel niihashi | 新桥诺艾尔 | 日本漫画《burn the witch》及其衍生作品中的女主角<br>新桥诺艾尔（新橋のえる Noel Niihashi），日本漫画《burn the witch》及其衍生作品中的女主角之一，“Wing Bind”的1等保护官，所属于笛吹队。被前辈的妮内称为“尼哈”。 |  |
 | alma armas | 阿尔玛·阿玛斯 |  |  |
 | bambietta basterbine | 邦比爱塔·芭丝塔拜姻 |  |  |
+| midnight | 午夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
