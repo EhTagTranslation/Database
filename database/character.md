@@ -5841,6 +5841,7 @@ example:
 | saeko busujima | 毒岛冴子 |  |  |
 | quelaag | 克拉格 |  |  |
 | steven universe | 史蒂文宇宙 |  |  |
+| spinel | 尖晶石 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
