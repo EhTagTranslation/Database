@@ -5851,6 +5851,7 @@ example:
 | saori kido | 雅典娜 城户沙织 |  |  |
 | athena | 雅典娜 |  |  |
 | hades | 哈迪斯 |  |  |
+| rie kawai | 河合理恵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
