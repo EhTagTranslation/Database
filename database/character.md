@@ -5829,6 +5829,7 @@ example:
 | crossbreed priscilla | 半龙女普莉希拉 |  |  |
 | yuria | 尤利娅 |  |  |
 | maneater mildred | 吃人的米鲁德雷特 |  |  |
+| sif | 希夫 | 希夫，角色扮演游戏《黑暗之魂》中的角色。与深渊漫步者亚尔特留斯作伴的大狼，即便它的主人早已逝去，也始终守护着主人的坟墓。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
