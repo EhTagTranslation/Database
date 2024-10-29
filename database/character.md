@@ -5856,6 +5856,7 @@ example:
 | gate opener alice | 女皇之门 开门人 爱丽丝 |  |  |
 | cure prism | 稜镜天使 |  |  |
 | raana kaname | 要乐奈 | 要乐奈（日语：要（かなめ） 楽奈（らーな））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/要乐奈) |
+| zundamon | 俊达萌 | 俊达萌（日语：ずんだもん）是SSS合同会社发表的东北支援角色。拥有VOICEVOX与VOICEPEAK朗读声库、UTAU、NEUTRINO、CeVIO及VoiSona歌声合成声库以及Seiren Voice、MMVC等多种变声器可选声线。<br>![](https://img.moegirl.org.cn/common/thumb/7/73/Nu_zundamon.jpg/1920px-Nu_zundamon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/俊达萌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
