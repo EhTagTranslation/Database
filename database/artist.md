@@ -13242,6 +13242,7 @@ example:
 | yukimuramaru | ゆきむら丸 |  |  |
 | mr.peanut | Mr.Peanut |  |  |
 | hannin b | 犯人B |  |  |
+| wariko | わり子 |  | [X](https://x.com/irhriko) |
 
 <!--TEMPLATE:
 |  |  |  |  |
