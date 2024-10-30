@@ -3125,7 +3125,7 @@ example:
 | kameyama shiruko | 龟山しるこ | ![X](https://pbs.twimg.com/profile_images/1401005712344436737/qf5v0_r6_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://img.dlsite.jp/modpub/images2/work/doujin/RJ206000/RJ205831_img_main.jpg")<br><br>**作品** | [X](https://x.com/siru5zenzai) [pixiv](https://www.pixiv.net/users/9973882) |
 | takimoto yukari | 瀧本ゆかり |  | [pixiv](https://www.pixiv.net/users/18858574) [X](https://x.com/karine_yukari) |
 | sakamoto kafka | 阪本KAFKA |  | [X](https://x.com/skafka15) [pixiv](https://www.pixiv.net/users/22151083) |
-| itsutsuse | 古川五势（いつつせ） | 海里名：いつつせ<br>上岸名：古川五勢 | [pixiv](https://www.pixiv.net/users/8415301) [X](https://x.com/fiveiro) |
+| itsutsuse | いつつせ | 一般向笔名：古川五勢 | [pixiv](https://www.pixiv.net/users/8415301) [X](https://x.com/fiveiro) |
 | chiyingzai | 帜瑛 |  | [pixiv](https://www.pixiv.net/users/1102289) [X](https://x.com/chiyingzai) |
 | isako rokuroh | 井硲六郎 |  |  |
 | nigiri usagi | にぎりうさぎ |  | [X](https://x.com/mutyumutyudenbu) [pixiv](https://www.pixiv.net/users/45081727) |
