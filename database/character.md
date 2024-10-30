@@ -5859,6 +5859,7 @@ example:
 | zundamon | 俊达萌 | 俊达萌（日语：ずんだもん）是SSS合同会社发表的东北支援角色。拥有VOICEVOX与VOICEPEAK朗读声库、UTAU、NEUTRINO、CeVIO及VoiSona歌声合成声库以及Seiren Voice、MMVC等多种变声器可选声线。<br>![](https://img.moegirl.org.cn/common/thumb/7/73/Nu_zundamon.jpg/1920px-Nu_zundamon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/俊达萌) |
 | lilja katsuragi | 葛城莉莉娅 |  |  |
 | hanako arasaka | 荒坂华子 |  | [萌娘百科](https://zh.moegirl.org.cn/荒坂华子) |
+| misty olszewski | 米丝蒂·奥尔谢夫斯基 |  | [https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基](https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
