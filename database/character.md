@@ -5860,6 +5860,7 @@ example:
 | lilja katsuragi | 葛城莉莉娅 |  |  |
 | hanako arasaka | 荒坂华子 |  | [萌娘百科](https://zh.moegirl.org.cn/荒坂华子) |
 | misty olszewski | 米丝蒂·奥尔谢夫斯基 |  | [https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基](https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基) |
+| rogue amendiares | 罗格·阿曼迪亚斯 |  | [https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯](https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
