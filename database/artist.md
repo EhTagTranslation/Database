@@ -13243,6 +13243,7 @@ example:
 | mr.peanut | Mr.Peanut |  |  |
 | hannin b | 犯人B |  |  |
 | wariko | わり子 |  | [X](https://x.com/irhriko) |
+| hiramaru akira | 平丸あきら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
