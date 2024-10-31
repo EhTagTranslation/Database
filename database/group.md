@@ -12958,6 +12958,7 @@ example:
 | peanuts koubou | ピーナッツ工房 |  |  |
 | mizuarai no kai | 水洗いの会 |  |  |
 | senpuku basho | 潜伏場所 |  |  |
+| kajuu gamu | 荷重ガム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
