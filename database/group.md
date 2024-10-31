@@ -12961,6 +12961,7 @@ example:
 | kajuu gamu | 荷重ガム |  |  |
 | nankyoku himawari | 南極ひまわり |  |  |
 | sabamintoya | さばみんと屋 |  |  |
+| marcapaginas | マルカパヒナス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
