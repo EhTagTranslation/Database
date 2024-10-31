@@ -12959,6 +12959,7 @@ example:
 | mizuarai no kai | 水洗いの会 |  |  |
 | senpuku basho | 潜伏場所 |  |  |
 | kajuu gamu | 荷重ガム |  |  |
+| nankyoku himawari | 南極ひまわり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
