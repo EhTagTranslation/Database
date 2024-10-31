@@ -13244,6 +13244,7 @@ example:
 | hannin b | 犯人B |  |  |
 | wariko | わり子 |  | [X](https://x.com/irhriko) |
 | hiramaru akira | 平丸あきら |  |  |
+| aotsubaki toto | 青椿トト |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
