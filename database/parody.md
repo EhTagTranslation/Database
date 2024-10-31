@@ -2312,6 +2312,7 @@ example:
 | kaijin kaihatsubu no kuroitsu-san | 怪人开发部的黑井津 | 《怪人开发部的黑井津》（日语：怪人開発部の黒井津さん；英语：Miss Kuroitsu from the Monster Development Department）是水崎弘明于2019年4月17日在网络漫画平台COMIC Meteor上发表的单篇漫画，并于2020年10月7日起在同网站上开始正式连载。本作亦有改编动画。<br>![](https://img.moegirl.org.cn/common/thumb/9/9c/怪人开发部的黑井津_第1卷.jpg/420px-怪人开发部的黑井津_第1卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/怪人开发部的黑井津) |
 | bloodborne | 血源诅咒 |  |  |
 | the ghost and molly mcgee | 幽灵与莫莉 |  |  |
+| loopers | LOOPERS(时廻者) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
