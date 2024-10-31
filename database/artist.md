@@ -13246,6 +13246,7 @@ example:
 | hiramaru akira | 平丸あきら |  |  |
 | aotsubaki toto | 青椿トト |  |  |
 | gasuba ana | がすばあな |  |  |
+| minegami aya | 峰上绫 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
