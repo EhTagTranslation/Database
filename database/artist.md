@@ -13252,6 +13252,7 @@ example:
 | sunagimo dx | すなぎもDX |  |  |
 | hanawakaba | 華若葉 |  | [homepage](https://hanayanagoyaka.com/) [pixiv](https://www.pixiv.net/users/1699416) |
 | muuran | むーらん |  | [X](https://x.com/M_uu418) [pixiv](https://www.pixiv.net/users/9930155) |
+| negi | NEGI |  | [X](https://x.com/ulogbe) [xfolio](https://xfolio.jp/en/portfolio/ulogbe) |
 
 <!--TEMPLATE:
 |  |  |  |  |
