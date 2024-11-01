@@ -12963,6 +12963,7 @@ example:
 | sabamintoya | さばみんと屋 |  |  |
 | marcapaginas | マルカパヒナス |  |  |
 | tricera koubou | トリケラ工房 |  |  |
+| hanayanagoyaka | はなやなごやか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
