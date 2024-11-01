@@ -5863,6 +5863,7 @@ example:
 | rogue amendiares | 罗格·阿曼迪亚斯 |  | [https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯](https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯) |
 | piper wheel | 派派·韦尔 | 派派·韦尔是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/54/c1/54c1ccae125822d2cdac187cb36e29fc086e522d-3104460-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/派派·韦尔) |
 | mia fujikawa | 藤川美亚 |  |  |
+| vulpisfoglia | 忍冬 | 所属作品 `p:arknights` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
