@@ -12962,6 +12962,7 @@ example:
 | nankyoku himawari | 南極ひまわり |  |  |
 | sabamintoya | さばみんと屋 |  |  |
 | marcapaginas | マルカパヒナス |  |  |
+| tricera koubou | トリケラ工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
