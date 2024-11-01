@@ -13253,6 +13253,7 @@ example:
 | hanawakaba | 華若葉 |  | [homepage](https://hanayanagoyaka.com/) [pixiv](https://www.pixiv.net/users/1699416) |
 | muuran | むーらん |  | [X](https://x.com/M_uu418) [pixiv](https://www.pixiv.net/users/9930155) |
 | negi | NEGI |  | [X](https://x.com/ulogbe) [xfolio](https://xfolio.jp/en/portfolio/ulogbe) |
+| akagi sakyuu | 赤城砂丘 | 扶她漫画创作者 | [pixiv](https://www.pixiv.net/users/22387006)<br>[X](https://x.com/akagi_not_sakyu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
