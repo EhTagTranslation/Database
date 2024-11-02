@@ -5865,6 +5865,7 @@ example:
 | mia fujikawa | 藤川美亚 |  |  |
 | vulpisfoglia | 忍冬 | 所属作品 `p:arknights` |  |
 | kirie kagarino | 篝之雾枝 |  |  |
+| rinami himesaki | 姫崎莉波 | ![](https://gakuen.idolmaster-official.jp/assets/img/idol/rinami/thumb.png) | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/rinami/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
