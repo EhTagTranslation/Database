@@ -13255,6 +13255,7 @@ example:
 | negi | NEGI |  | [X](https://x.com/ulogbe) [xfolio](https://xfolio.jp/en/portfolio/ulogbe) |
 | akagi sakyuu | 赤城砂丘 | 扶她漫画创作者 | [pixiv](https://www.pixiv.net/users/22387006)<br>[X](https://x.com/akagi_not_sakyu) |
 | hamachi | ハマチ | ![头像](https://i.pixiv.cat/user-profile/img/2022/05/14/23/00/44/22711082_a557e3f99aa5d2b6c2e465e8d56e465a_170.png) | [X](https://x.com/sushi_teikoku) [pixiv](https://www.pixiv.net/users/49752837) [Misskey](https://misskey.io/@sushi_teikoku) |
+| uruaki | うるあき | ![头像](https://i.pixiv.cat/user-profile/img/2020/09/26/22/07/05/19420217_a4cdd6a35e8c49379d3007592377c905_170.png) | [X](https://x.com/furusa5481) [pixiv](https://www.pixiv.net/users/8254325) |
 
 <!--TEMPLATE:
 |  |  |  |  |
