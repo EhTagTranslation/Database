@@ -2314,6 +2314,7 @@ example:
 | the ghost and molly mcgee | 幽灵与莫莉 |  |  |
 | loopers | LOOPERS(时廻者) |  |  |
 | koe no katachi | 声之形 | 《声之形》（日语：聲の形；英语：A Silent Voice / The Shape of Voice(注)）是由大今良时创作的一部漫画，于《周刊少年Magazine》2013年36、37合并号开始连载，至2014年51号完结；并有动画电影等衍生作品。<br>![](https://moegirl.icu/media/Koe_no_Katachi_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/声之形) |
+| huyao xiao hongniang | 狐妖小红娘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
