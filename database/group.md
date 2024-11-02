@@ -12964,6 +12964,7 @@ example:
 | marcapaginas | マルカパヒナス |  |  |
 | tricera koubou | トリケラ工房 |  |  |
 | hanayanagoyaka | はなやなごやか |  |  |
+| daidai shikibu | 橙式部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
