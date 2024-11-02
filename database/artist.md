@@ -13259,6 +13259,7 @@ example:
 | uematuda | うえまつだ | ![头像](https://i.pixiv.cat/user-profile/img/2021/06/13/00/13/00/20863133_35c91039f41835f528e6b900f42c40e8_170.jpg) | [X](https://x.com/uematuda_108) [pixiv](https://www.pixiv.net/artworks/93849972) |
 | hachigo | ハチゴ |  | [Twitter](https://x.com/hatigo0805) [pixiv](https://www.pixiv.net/users/41458967) |
 | konjisha | 空集社 |  |  |
+| lemon yoshinobu | 柠檬庆喜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
