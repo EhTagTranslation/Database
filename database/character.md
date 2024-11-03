@@ -5868,6 +5868,7 @@ example:
 | rinami himesaki | 姫崎莉波 | ![](https://gakuen.idolmaster-official.jp/assets/img/idol/rinami/thumb.png) | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/rinami/) |
 | saya | 沙耶 | nitro+视觉小说游戏《沙耶之歌》女主角 |  |
 | ginko momose | 百生吟子 | 百生吟子（日语：百生 吟子，罗马字：Momose Ginko）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/百生吟子) |
+| hime anyoji | 安养寺姬芽 | 安养寺姬芽（日语：安養寺 姫芽，罗马字：Anyoji Hime）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安养寺姬芽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
