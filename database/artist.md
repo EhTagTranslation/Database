@@ -13260,6 +13260,7 @@ example:
 | hachigo | ハチゴ |  | [Twitter](https://x.com/hatigo0805) [pixiv](https://www.pixiv.net/users/41458967) |
 | konjisha | 空集社 |  |  |
 | lemon yoshinobu | 柠檬庆喜 |  |  |
+| shitagokoro poyo | 下心ぽよ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
