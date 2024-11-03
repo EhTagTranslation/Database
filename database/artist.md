@@ -13261,6 +13261,7 @@ example:
 | konjisha | 空集社 |  |  |
 | lemon yoshinobu | 柠檬庆喜 |  |  |
 | shitagokoro poyo | 下心ぽよ |  |  |
+| altica | あるちか |  | [pixiv](https://www.pixiv.net/users/84460844) |
 
 <!--TEMPLATE:
 |  |  |  |  |
