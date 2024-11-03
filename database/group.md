@@ -1893,7 +1893,7 @@ example:
 | perorimeshi. | ぺろり飯。 |  |  |
 | coupe pain ginga | こっぺぱん銀河 |  |  |
 | kimi no tomodachi. | 君の友達。 |  |  |
-| mugendai | 無限大 |  |  |
+| mugendai | ムゲンダイ |  |  |
 | sanshikisumire | さんしきすみれ |  |  |
 | beruennea | ベルエンネーア |  |  |
 | orange tile | オレンジタイル |  |  |
