@@ -7718,7 +7718,7 @@ example:
 | mgt | MGT |  |  |
 | mgw | MGW |  |  |
 | mi | mi |  |  |
-| miburi | 美武里 |  |  |
+| miburi | ミッブリー |  |  |
 | mica | MICA |  |  |
 | michinakaba | 三血中吐 |  |  |
 | michinoku hitori tabi | みちのく一人旅 |  |  |
