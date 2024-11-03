@@ -12965,6 +12965,7 @@ example:
 | tricera koubou | トリケラ工房 |  |  |
 | hanayanagoyaka | はなやなごやか |  |  |
 | daidai shikibu | 橙式部 |  |  |
+| shokushu gitei | 触手義弟 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
