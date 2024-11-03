@@ -12966,6 +12966,7 @@ example:
 | hanayanagoyaka | はなやなごやか |  |  |
 | daidai shikibu | 橙式部 |  |  |
 | shokushu gitei | 触手義弟 |  |  |
+| yawaraka aomame no on salad | 柔らか青豆の温サラダ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
