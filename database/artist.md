@@ -13272,6 +13272,7 @@ example:
 | bajitohfu | 馬耳東風 |  |  |
 | yomosugara | よもすがら |  |  |
 | kishuu yuki | 稀周悠希 |  |  |
+| kuroi mimei | 黒井みめい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
