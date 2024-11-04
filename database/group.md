@@ -12972,6 +12972,7 @@ example:
 | nekonohosomiti | ねこの細道 |  |  |
 | hyoushigi | 拍子木 |  |  |
 | torino sunakimo | とりのすなきも |  |  |
+| tonburi | とんぶり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
