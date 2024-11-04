@@ -12969,6 +12969,7 @@ example:
 | yawaraka aomame no on salad | 柔らか青豆の温サラダ |  |  |
 | youkandou | ようかん堂 |  |  |
 | dasei seikatsu suishin iinkai | 怠惰生活推進委員会 |  |  |
+| nekonohosomiti | ねこの細道 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
