@@ -13270,6 +13270,7 @@ example:
 | becchan | べっちゃん |  |  |
 | nekono fuguri | 猫乃ふぐり |  |  |
 | bajitohfu | 馬耳東風 |  |  |
+| yomosugara | よもすがら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
