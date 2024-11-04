@@ -13273,6 +13273,7 @@ example:
 | yomosugara | よもすがら |  |  |
 | kishuu yuki | 稀周悠希 |  |  |
 | kuroi mimei | 黒井みめい |  |  |
+| miyoshi hiromi | 三好ひろみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
