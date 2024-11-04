@@ -13269,6 +13269,7 @@ example:
 | hinata hibari | ひなたひばり |  |  |
 | becchan | べっちゃん |  |  |
 | nekono fuguri | 猫乃ふぐり |  |  |
+| bajitohfu | 馬耳東風 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
