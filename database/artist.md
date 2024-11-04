@@ -13266,6 +13266,7 @@ example:
 | tsutsuda pipeman | 筒田パイプマン |  |  |
 | tsunashima shirou | 綱島志朗 | ![綱島志朗头像](https://i.pixiv.cat/user-profile/img/2015/02/04/16/48/13/8927688_049ac1d50ee4910bc03e85ce619d805e_170.jpg)<br>“我对漫画有所感激,如果没有成为漫画家,我就会变成猎奇性侵者了”（伪） | [pixiv](https://www.pixiv.net/users/5017800)<br>[X](https://x.com/k2batto) |
 | asao masakazu | 麻生昌和 |  |  |
+| hinata hibari | ひなたひばり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
