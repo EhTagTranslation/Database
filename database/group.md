@@ -12970,6 +12970,7 @@ example:
 | youkandou | ようかん堂 |  |  |
 | dasei seikatsu suishin iinkai | 怠惰生活推進委員会 |  |  |
 | nekonohosomiti | ねこの細道 |  |  |
+| hyoushigi | 拍子木 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
