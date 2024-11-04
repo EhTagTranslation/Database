@@ -13268,6 +13268,7 @@ example:
 | asao masakazu | 麻生昌和 |  |  |
 | hinata hibari | ひなたひばり |  |  |
 | becchan | べっちゃん |  |  |
+| nekono fuguri | 猫乃ふぐり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
