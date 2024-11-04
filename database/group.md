@@ -12973,6 +12973,7 @@ example:
 | hyoushigi | 拍子木 |  |  |
 | torino sunakimo | とりのすなきも |  |  |
 | tonburi | とんぶり |  |  |
+| rei-mei nordlingen | 黎明ネルトリンゲン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
