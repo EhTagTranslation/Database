@@ -12971,6 +12971,7 @@ example:
 | dasei seikatsu suishin iinkai | 怠惰生活推進委員会 |  |  |
 | nekonohosomiti | ねこの細道 |  |  |
 | hyoushigi | 拍子木 |  |  |
+| torino sunakimo | とりのすなきも |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
