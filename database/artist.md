@@ -13271,6 +13271,7 @@ example:
 | nekono fuguri | 猫乃ふぐり |  |  |
 | bajitohfu | 馬耳東風 |  |  |
 | yomosugara | よもすがら |  |  |
+| kishuu yuki | 稀周悠希 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
