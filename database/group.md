@@ -12974,6 +12974,7 @@ example:
 | torino sunakimo | とりのすなきも |  |  |
 | tonburi | とんぶり |  |  |
 | rei-mei nordlingen | 黎明ネルトリンゲン |  |  |
+| banjimas | ばんじます |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
