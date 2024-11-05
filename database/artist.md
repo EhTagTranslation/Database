@@ -13275,6 +13275,7 @@ example:
 | kuroi mimei | 黒井みめい |  |  |
 | miyoshi hiromi | 三好ひろみ |  |  |
 | natsuzame | ナツザメ |  | [Twitter](https://x.com/natu_zame) [pixiv](https://www.pixiv.net/users/17686320) |
+| gouta | ゴウタ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
