@@ -12975,6 +12975,7 @@ example:
 | tonburi | とんぶり |  |  |
 | rei-mei nordlingen | 黎明ネルトリンゲン |  |  |
 | banjimas | ばんじます |  |  |
+| ookina gomibako | おおきなごみ箱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
