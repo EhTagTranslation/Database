@@ -13277,6 +13277,7 @@ example:
 | natsuzame | ナツザメ |  | [Twitter](https://x.com/natu_zame) [pixiv](https://www.pixiv.net/users/17686320) |
 | gouta | ゴウタ |  |  |
 | oki nagomi | 大吉なごみ |  |  |
+| satoimoya | さといも屋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
