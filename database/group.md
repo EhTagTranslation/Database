@@ -12977,6 +12977,7 @@ example:
 | banjimas | ばんじます |  |  |
 | ookina gomibako | おおきなごみ箱 |  |  |
 | kotori no shokuji | 小鳥の食事 |  |  |
+| tororo kombu | とろろ昆布 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
