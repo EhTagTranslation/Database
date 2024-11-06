@@ -13283,6 +13283,7 @@ example:
 | haruhiruri | はるひるり |  | [pixiv](https://www.pixiv.net/users/43539829)<br>[X](https://x.com/haruhiruri) |
 | ebihara beniko | 海老原べにこ |  | [pixiv](https://www.pixiv.net/users/1607576) |
 | sacro | さくろ |  |  |
+| komizuki | 古弥月 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
