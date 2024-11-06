@@ -12984,6 +12984,7 @@ example:
 | petit keroq | ぷちけろ/プチケロQ | keroq的迷你独立附属社团，但很久没有新作品了。风格具有keroq和makura的中间过渡感。 | [https://keromakura.net/](https://keromakura.net/) |
 | benimaru suisan | べにまる水産 |  |  |
 | sakurarium | サクラリウム |  |  |
+| soranekoyohou | そらねこよほう |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
