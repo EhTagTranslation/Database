@@ -13278,6 +13278,7 @@ example:
 | gouta | ゴウタ |  |  |
 | oki nagomi | 大吉なごみ |  |  |
 | satoimoya | さといも屋 |  |  |
+| yozuki mofu | 夜月もふ |  | [pixiv](https://www.pixiv.net/artworks/118094696)<br>[X](https://x.com/ydkmofu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
