@@ -12980,6 +12980,7 @@ example:
 | tororo kombu | とろろ昆布 |  |  |
 | densetsu no udon | でんせつのうどん |  |  |
 | nekodofu | ねこどうふ |  |  |
+| torikago step | とりかごすてっぷ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
