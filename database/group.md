@@ -12976,6 +12976,7 @@ example:
 | rei-mei nordlingen | 黎明ネルトリンゲン |  |  |
 | banjimas | ばんじます |  |  |
 | ookina gomibako | おおきなごみ箱 |  |  |
+| kotori no shokuji | 小鳥の食事 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
