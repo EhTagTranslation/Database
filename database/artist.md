@@ -13285,6 +13285,7 @@ example:
 | sacro | さくろ |  |  |
 | komizuki | 古弥月 |  |  |
 | pukyunosuke | ぷきゅのすけ |  |  |
+| motsunuki | もつぬき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
