@@ -5872,6 +5872,7 @@ example:
 | ophelia phamrsolone | 奥菲莉娅·法姆索罗涅 |  |  |
 | sigurd | 齐格鲁德 |  |  |
 | mao arimura | 有村麻央 |  | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/mao/) |
+| soldier 11 | 11号 | 米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/11号) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
