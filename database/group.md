@@ -12985,6 +12985,7 @@ example:
 | benimaru suisan | べにまる水産 |  |  |
 | sakurarium | サクラリウム |  |  |
 | soranekoyohou | そらねこよほう |  |  |
+| motsunuki hormone | もつぬきほるもん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
