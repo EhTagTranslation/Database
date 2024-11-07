@@ -13287,6 +13287,7 @@ example:
 | pukyunosuke | ぷきゅのすけ |  |  |
 | motsunuki | もつぬき |  |  |
 | nakamori ai | 中森 愛 |  |  |
+| goto kasumi | 五藤加純 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
