@@ -4828,7 +4828,7 @@ example:
 | pa-15 | PA-15 \| 芙洛伦 | `p:girls frontline`<br>![](https://gfwiki.org/images/f/f0/Pic_PA15_HD.png)<br>少女前线:云图计划`c:florence`<br>![](https://patchwiki.biligame.com/images/42lab/0/0b/lm5v7ibbc77e9ymziq4wv1j1h27n6yx.png) | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:PA-15)<br>[萌娘百科](https://zh.moegirl.org.cn/芙洛伦)<br>[少前百科GFwiki](https://www.gfwiki.org/w/PA-15)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/芙洛伦) |
 | agent | 代理人 | `p:girls frontline` | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
 | welrod mkii | 维尔德MkⅡ | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
-| ak-12 | AK-12 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-12](https://www.gfwiki.org/w/AK-12) |
+| ak-12 | AK-12 \| 露契娅 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-12](https://www.gfwiki.org/w/AK-12) |
 | an-94 | AN-94 \| 安提娅 | `p:girls frontline` | [https://www.gfwiki.org/w/AN-94](https://www.gfwiki.org/w/AN-94) |
 | kalina | 格琳娜 | `p:girls frontline`<br>![](https://gfwiki.org/images/e/ef/NPC_Kalina.png)<br>少女前线2:追放<br>![](https://iopwiki.com/images/4/40/GFL2_Kalina.png) | [少前百科GFwiki](https://www.gfwiki.org/w/格琳娜) |
 | ump45 | UMP45 \| 莱娅 | `p:girls frontline`<br>![](https://iopwiki.com/images/d/d7/UMP45.png)<br>少女前线2:追放<br>剧情已登场，莱娅 | [少前百科GFwiki](https://www.gfwiki.org/w/UMP45) |
