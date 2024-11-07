@@ -4871,7 +4871,7 @@ example:
 | m4a1 | M4A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M4A1](https://www.gfwiki.org/w/M4A1) |
 | m4 sopmod ii | M4 SOPMODII | M4 SOPMODII(SOP2) `p:girls frontline` | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
 | m16a1 | M16A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M16A1](https://www.gfwiki.org/w/M16A1) |
-| ak-15 | AK-15 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-15](https://www.gfwiki.org/w/AK-15) |
+| ak-15 | AK-15 \| 艾尔文 | `p:girls frontline` | [https://www.gfwiki.org/w/AK-15](https://www.gfwiki.org/w/AK-15) |
 | rpk-16 | RPK-16 \| 蕾娜特 | `p:girls frontline` | [https://www.gfwiki.org/w/RPK-16](https://www.gfwiki.org/w/RPK-16) |
 | nagant revolver | 纳甘左轮 \| 纳甘 | `p:girls frontline`<br>纳甘M1895<br>![](https://gfwiki.org/images/5/52/Pic_M1895_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_NagantSR.png) | [少前百科GFwiki](https://www.gfwiki.org/w/纳甘左轮)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/NagantSR) |
 | colt revolver | 柯尔特左轮 | `p:girls frontline` | [https://www.gfwiki.org/w/柯尔特左轮](https://www.gfwiki.org/w/柯尔特左轮) |
