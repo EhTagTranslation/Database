@@ -12988,6 +12988,7 @@ example:
 | motsunuki hormone | もつぬきほるもん |  |  |
 | teikuu ms combo | 低空MSコンボ |  |  |
 | katakori youtsuu dry eye | 肩こり腰痛ドライアイ |  |  |
+| miracle syrup | みらくるしろっぷ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
