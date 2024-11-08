@@ -3527,7 +3527,7 @@ example:
 | saitom | 斋藤将嗣 | saitom<br><br>![X](https://pbs.twimg.com/profile_images/1474387416413016065/KQlnOVBf_400x400.jpg)<br><br>**作者推特头像** | [twitter1](https://x.com/_saitom_) [twitter2](https://x.com/_saitomasatsugu) [pixiv](https://www.pixiv.net/users/152240) |
 | komi zumiko | コミズミコ |  | [X](https://x.com/p1zm) [pixiv](https://www.pixiv.net/users/10751) |
 | kawakami masaki | 川上真树 |  | [pixiv](https://www.pixiv.net/users/5773248) |
-| hizuki akira | 绯月Akira |  |  |
+| hizuki akira | 緋月アキラ |  |  |
 | cream cod | 奶油鳕鱼 |  |  |
 | yasuyuki | やすゆき |  |  |
 | hisama kumako | ひさまくまこ |  |  |
