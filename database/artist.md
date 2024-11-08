@@ -13289,6 +13289,7 @@ example:
 | nakamori ai | 中森 愛 |  |  |
 | goto kasumi | 五藤加純 |  |  |
 | harenochi sakana | 晴のちsakana |  | [pixiv](https://www.pixiv.net/users/3595551)<br>[X](https://x.com/osakana_p_p) |
+| echihiro | えちひろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
