@@ -12989,6 +12989,7 @@ example:
 | teikuu ms combo | 低空MSコンボ |  |  |
 | katakori youtsuu dry eye | 肩こり腰痛ドライアイ |  |  |
 | miracle syrup | みらくるしろっぷ |  |  |
+| fukkaru tiger | フッ軽タイガー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
