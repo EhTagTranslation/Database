@@ -13293,6 +13293,7 @@ example:
 | shitimirin | 七味鈴 |  |  |
 | fujisaki fujiko | 藤咲ふじこ |  |  |
 | arurumo | あるるも |  |  |
+| yukitora | ゆきトラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
