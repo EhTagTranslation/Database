@@ -3716,7 +3716,7 @@ example:
 | dusk | 夕 | 夕是手机游戏《明日方舟》中的六星术师职业扩散术师分支干员 |  |
 | sabrina | 娜姿 |  |  |
 | nagao kagetora | 长尾景虎 |  |  |
-| shirabe tsukuyomi | 月读调 |  |  |
+| shirabe tsukuyomi | 月读调 | 月读调是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
 | chris yukine | 雪音克莉丝 | 雪音克莉丝是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
 | hibiki tachibana | 立花响 | 立花响是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/立花响) |
 | miku kohinata | 小日向未来 |  |  |
