@@ -13294,6 +13294,7 @@ example:
 | fujisaki fujiko | 藤咲ふじこ |  |  |
 | arurumo | あるるも |  |  |
 | yukitora | ゆきトラ |  |  |
+| kurisaki king | 栗崎きんぐ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
