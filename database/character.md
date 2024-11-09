@@ -5876,6 +5876,7 @@ example:
 | alexandrina sebastiane | 亚历山德丽娜·莎芭丝缇安 | 米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。<br>别号	丽娜 | [萌娘百科](https://zh.moegirl.org.cn/亚历山德丽娜·莎芭丝缇安) |
 | maizuru | 舞鹤 | 舞鹤（日语：マイヅル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 |  |
 | yanagi tsukishiro | 月城柳 | 米哈游制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月城柳) |
+| maria cadenzavna eve | 玛丽亚·卡登扎夫娜·伊芙 | 玛丽亚·卡登扎夫娜·伊芙是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛丽亚·卡登扎夫娜·伊芙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
