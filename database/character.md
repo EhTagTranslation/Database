@@ -3719,7 +3719,7 @@ example:
 | shirabe tsukuyomi | 月读调 | 月读调是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
 | chris yukine | 雪音克莉丝 | 雪音克莉丝是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
 | hibiki tachibana | 立花响 | 立花响是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/立花响) |
-| miku kohinata | 小日向未来 |  |  |
+| miku kohinata | 小日向未来 | 小日向未来是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小日向未来) |
 | gardevoir | 沙奈朵 |  | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
 | celestine lucullus | 塞蕾斯汀·卢库勒斯 |  |  |
 | lucario | 路卡利欧 | 路卡利欧（日文︰ルカリオ，英文︰Lucario）是格斗属性和钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/路卡利欧) |
