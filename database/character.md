@@ -2829,7 +2829,7 @@ example:
 | ginko sora | 空银子 |  |  |
 | chariot | 战轮妖精 |  |  |
 | strength | 力量 |  |  |
-| kirika akatsuki | 晓切歌 |  |  |
+| kirika akatsuki | 晓切歌 | 晓切歌是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/晓切歌) |
 | asuha chigusa | 千种明日叶 |  |  |
 | kasumi chigusa | 千种霞 |  |  |
 | ange katrina | 安洁·卡特莉娜 |  |  |
