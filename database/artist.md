@@ -13291,6 +13291,7 @@ example:
 | harenochi sakana | 晴のちsakana |  | [pixiv](https://www.pixiv.net/users/3595551)<br>[X](https://x.com/osakana_p_p) |
 | echihiro | えちひろ |  |  |
 | shitimirin | 七味鈴 |  |  |
+| fujisaki fujiko | 藤咲ふじこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
