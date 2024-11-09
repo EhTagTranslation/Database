@@ -12990,6 +12990,7 @@ example:
 | katakori youtsuu dry eye | 肩こり腰痛ドライアイ |  |  |
 | miracle syrup | みらくるしろっぷ |  |  |
 | fukkaru tiger | フッ軽タイガー |  |  |
+| uten kekkou | 雨天決行 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
