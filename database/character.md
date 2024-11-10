@@ -5878,6 +5878,7 @@ example:
 | yanagi tsukishiro | 月城柳 | 米哈游制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月城柳) |
 | maria cadenzavna eve | 玛丽亚·卡登扎夫娜·伊芙 | 玛丽亚·卡登扎夫娜·伊芙是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛丽亚·卡登扎夫娜·伊芙) |
 | elfnein | 艾芙奈恩 | 艾芙奈恩是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾芙奈恩) |
+| taoqi | 桃祈 | 桃祈是库洛制作的游戏`p:wuthering waves`的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
