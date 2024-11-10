@@ -1734,7 +1734,7 @@ example:
 | nora higuma | 野良ヒグマ |  | [X](https://x.com/norahigumax) [pixiv](https://www.pixiv.net/users/22445) |
 | tohyama eight | 东山エイト | ![X](https://pbs.twimg.com/profile_images/1230143408812855296/VOh2ESl8_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/eight_tohyama) [pixiv](https://www.pixiv.net/users/9611647) |
 | shakuhachi nameko | 尺八ナメコ |  |  |
-| bai asuka | 呗飞鸟 |  |  |
+| bai asuka | 唄飛鳥 |  |  |
 | bttamako | 豚たま子 |  |  |
 | eggplantex | 茄子EX |  |  |
 | kouno aya | 煌乃あや |  |  |
