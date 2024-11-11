@@ -12991,6 +12991,7 @@ example:
 | miracle syrup | みらくるしろっぷ |  |  |
 | fukkaru tiger | フッ軽タイガー |  |  |
 | uten kekkou | 雨天決行 |  |  |
+| y-kr | Y-KR |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
