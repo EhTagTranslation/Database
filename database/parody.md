@@ -2317,7 +2317,7 @@ example:
 | huyao xiao hongniang | 狐妖小红娘 |  |  |
 | kowarekake no orgel | 快要坏掉的八音盒 | 《萌单》作者POP的另一原创作品<br>![图](https://ehgt.org/ba/38/ba382b2eb6c435a8432aa32aaa2daa77ca0ef697-1847283-2106-3006-jpg_l.jpg) |  |
 | koikishi purely kiss | 恋骑士Purely☆Kiss | 《恋骑士 Purely☆Kiss》是AKABEiSOFT2公司的分公司エフォルダムソフト在2011年9月30日发售的恋爱冒险类型成人游戏。2014年4月エフォルダムソフト宣告解散，游戏的版权移交给AKABEiSOFT2公司的AKABEiSOFT3。OVA则是由PinkPineapple在2013年7月26日开始发售. | [维基百科](https://zh.wikipedia.org/wiki/戀騎士_Purely☆Kiss)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/恋騎士_Purely☆Kiss) |
-| saimin yuugi | 催眠游戏(催眠遊戯) | Sayori紗由里/纱由里老师原画 |  |
+| saimin yuugi | 催眠游戏(催眠遊戯) | Sayori紗由里/纱由里老师原画游戏<br>group:staffing スタッフィング | [https://2dfan.com/subjects/1771](https://2dfan.com/subjects/1771) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
