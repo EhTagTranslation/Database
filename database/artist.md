@@ -13297,6 +13297,7 @@ example:
 | kurisaki king | 栗崎きんぐ |  |  |
 | utsumi iota | 内海ι |  | [pixiv](https://www.pixiv.net/users/69500280) |
 | onesota shuu | オネソタ州 |  |  |
+| fuumin | ふーみん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
