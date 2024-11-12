@@ -12994,6 +12994,7 @@ example:
 | y-kr | Y-KR |  |  |
 | kumo no furusu | 雲の古巣 |  |  |
 | tsukimi yagura | 月見櫓 |  |  |
+| tetsubou shounen | 鉄棒少年 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
