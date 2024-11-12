@@ -13303,6 +13303,7 @@ example:
 | nanika iru | なにかいる |  |  |
 | mamiyahara hitoshige | 真宮原ヒトシゲ |  |  |
 | natsushi | 夏師 |  |  |
+| moguchobi | もぐちょび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
