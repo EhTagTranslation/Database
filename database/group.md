@@ -12999,6 +12999,7 @@ example:
 | josou bouzu danshi kenkyuujo | 女装坊主男子研究所 |  |  |
 | constructor | こんすとらくた |  |  |
 | strawberryplut | ストロベリープルト |  |  |
+| kochunoten | こちゅうのてん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
