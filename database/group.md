@@ -12992,6 +12992,7 @@ example:
 | fukkaru tiger | フッ軽タイガー |  |  |
 | uten kekkou | 雨天決行 |  |  |
 | y-kr | Y-KR |  |  |
+| kumo no furusu | 雲の古巣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
