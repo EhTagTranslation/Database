@@ -12995,6 +12995,7 @@ example:
 | kumo no furusu | 雲の古巣 |  |  |
 | tsukimi yagura | 月見櫓 |  |  |
 | tetsubou shounen | 鉄棒少年 |  |  |
+| toshiue onee-san tengoku | 年上おねーさん天国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
