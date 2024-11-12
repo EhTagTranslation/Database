@@ -13304,6 +13304,7 @@ example:
 | mamiyahara hitoshige | 真宮原ヒトシゲ |  |  |
 | natsushi | 夏師 |  |  |
 | moguchobi | もぐちょび |  |  |
+| yuzugaeru | ゆずがえる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
