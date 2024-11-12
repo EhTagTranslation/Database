@@ -13308,6 +13308,7 @@ example:
 | cabocha | 南瓜 |  |  |
 | suzune mia | すずねみあ |  |  |
 | yuduka | ゆーづか |  |  |
+| tina | ティナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
