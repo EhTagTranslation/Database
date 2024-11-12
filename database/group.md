@@ -13000,6 +13000,7 @@ example:
 | constructor | こんすとらくた |  |  |
 | strawberryplut | ストロベリープルト |  |  |
 | kochunoten | こちゅうのてん |  |  |
+| raspberry doll | ラズベリー☆ドール |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
