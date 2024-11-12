@@ -13305,6 +13305,7 @@ example:
 | natsushi | 夏師 |  |  |
 | moguchobi | もぐちょび |  |  |
 | yuzugaeru | ゆずがえる |  |  |
+| cabocha | 南瓜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
