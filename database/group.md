@@ -12993,6 +12993,7 @@ example:
 | uten kekkou | 雨天決行 |  |  |
 | y-kr | Y-KR |  |  |
 | kumo no furusu | 雲の古巣 |  |  |
+| tsukimi yagura | 月見櫓 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
