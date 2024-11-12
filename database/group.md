@@ -13001,6 +13001,7 @@ example:
 | strawberryplut | ストロベリープルト |  |  |
 | kochunoten | こちゅうのてん |  |  |
 | raspberry doll | ラズベリー☆ドール |  |  |
+| itonouri | いとのうり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
