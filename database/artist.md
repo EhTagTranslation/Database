@@ -13302,6 +13302,7 @@ example:
 | shidare madara | しだれ斑 |  |  |
 | nanika iru | なにかいる |  |  |
 | mamiyahara hitoshige | 真宮原ヒトシゲ |  |  |
+| natsushi | 夏師 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
