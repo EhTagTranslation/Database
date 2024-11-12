@@ -13300,6 +13300,7 @@ example:
 | fuumin | ふーみん |  |  |
 | yukiru | ユキル |  |  |
 | shidare madara | しだれ斑 |  |  |
+| nanika iru | なにかいる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
