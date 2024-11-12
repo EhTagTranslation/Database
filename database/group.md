@@ -12998,6 +12998,7 @@ example:
 | toshiue onee-san tengoku | 年上おねーさん天国 |  |  |
 | josou bouzu danshi kenkyuujo | 女装坊主男子研究所 |  |  |
 | constructor | こんすとらくた |  |  |
+| strawberryplut | ストロベリープルト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
