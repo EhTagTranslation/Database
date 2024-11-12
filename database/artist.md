@@ -13299,6 +13299,7 @@ example:
 | onesota shuu | オネソタ州 |  |  |
 | fuumin | ふーみん |  |  |
 | yukiru | ユキル |  |  |
+| shidare madara | しだれ斑 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
