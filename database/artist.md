@@ -13307,6 +13307,7 @@ example:
 | yuzugaeru | ゆずがえる |  |  |
 | cabocha | 南瓜 |  |  |
 | suzune mia | すずねみあ |  |  |
+| yuduka | ゆーづか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
