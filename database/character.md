@@ -5880,6 +5880,7 @@ example:
 | elfnein | 艾芙奈恩 | 艾芙奈恩是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾芙奈恩) |
 | taoqi | 桃祈 | 桃祈是库洛制作的游戏`p:wuthering waves`的登场角色。 |  |
 | miyo harada | 原田美世 |  | [萌娘百科](https://zh.moegirl.org.cn/原田美世) |
+| shouko nishimiya | 西宮硝子 | 西宮硝子是大今良時所創作的漫畫《聲之形》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/4/40/Nishimiya_Shouko_Side.png) | [萌娘百科](https://zh.moegirl.org.cn/西宫硝子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
