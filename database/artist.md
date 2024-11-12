@@ -13306,6 +13306,7 @@ example:
 | moguchobi | もぐちょび |  |  |
 | yuzugaeru | ゆずがえる |  |  |
 | cabocha | 南瓜 |  |  |
+| suzune mia | すずねみあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
