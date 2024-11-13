@@ -13310,6 +13310,7 @@ example:
 | yuduka | ゆーづか |  |  |
 | tina | ティナ |  |  |
 | takurowo | タクロヲ |  |  |
+| tabun | たぶん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
