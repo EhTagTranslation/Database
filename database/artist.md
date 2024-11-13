@@ -13313,6 +13313,7 @@ example:
 | tabun | たぶん |  |  |
 | matsuri juro | 祭十郎 |  |  |
 | guro tsuki | グロツキ |  |  |
+| minamo ruri | 水面ルリ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
