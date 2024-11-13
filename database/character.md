@@ -5093,7 +5093,7 @@ example:
 | kaho hinoshita | 日野下花帆 | 日野下花帆（日语：日野下 花帆，罗马字：Hinoshita Kaho）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![日野下花帆](https://img.moegirl.org.cn/common/thumb/d/d7/Kaho_img.png/280px-Kaho_img.png) | [萌娘百科](https://zh.moegirl.org.cn/日野下花帆) [Fandom](https://love-live.fandom.com/wiki/Kaho_Hinoshita) |
 | gravel | 砾 |  |  |
 | ant-man | 蚁人 | 蚁人（Ant-Man）是美国漫威漫画系列的登场角色，由漫画家史丹·李、杰克·科比与拉里·李伯共同创造。 |  |
-| utena hiiragi | 柊舞缇娜 | 是小野中彰大所创作的漫画`p:mahou shoujo ni akogarete`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/柊舞缇娜) |
+| utena hiiragi | 柊舞缇娜 | 柊舞缇娜（日语：柊（ひいらぎ） うてな）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://bkimg.cdn.bcebos.com/pic/ac345982b2b7d0a20cf427838ab861094b36acaf2c2c?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [萌娘百科](https://zh.moegirl.org.cn/柊舞缇娜) |
 | chevreuse | 夏沃蕾 | 夏沃蕾是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/19/99/19990ff967ce7353679ccfd3aad1e42800dd14ac-253311-1024-1024-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夏沃蕾) |
 | huohuo | 藿藿 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/藿藿) |
 | lynx landau | 玲可 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
