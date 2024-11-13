@@ -13312,6 +13312,7 @@ example:
 | takurowo | タクロヲ |  |  |
 | tabun | たぶん |  |  |
 | matsuri juro | 祭十郎 |  |  |
+| guro tsuki | グロツキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
