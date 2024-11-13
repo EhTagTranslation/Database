@@ -13003,6 +13003,7 @@ example:
 | raspberry doll | ラズベリー☆ドール |  |  |
 | itonouri | いとのうり |  |  |
 | takurowo-dou | タクロヲ堂 |  |  |
+| osoracu | おそら区 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
