@@ -13309,6 +13309,7 @@ example:
 | suzune mia | すずねみあ |  |  |
 | yuduka | ゆーづか |  |  |
 | tina | ティナ |  |  |
+| takurowo | タクロヲ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
