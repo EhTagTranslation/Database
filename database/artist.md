@@ -13311,6 +13311,7 @@ example:
 | tina | ティナ |  |  |
 | takurowo | タクロヲ |  |  |
 | tabun | たぶん |  |  |
+| matsuri juro | 祭十郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
