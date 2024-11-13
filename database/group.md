@@ -13002,6 +13002,7 @@ example:
 | kochunoten | こちゅうのてん |  |  |
 | raspberry doll | ラズベリー☆ドール |  |  |
 | itonouri | いとのうり |  |  |
+| takurowo-dou | タクロヲ堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
