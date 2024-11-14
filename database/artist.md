@@ -10757,7 +10757,7 @@ example:
 | tatejima. | 縦縞。 |  |  |
 | tateno tomoki | タテノトモキ |  |  |
 | sennohito. | 線の人。 |  |  |
-| tatsuhiko | たつひこ |  |  |
+| tatsuhiko | たつひこ/達一文字 |  |  |
 | tatsumiya motokazu | たつみやもとかず |  |  |
 | tatsumu kyou | 龍武京 |  |  |
 | tatsuneko | たつねこ |  |  |
