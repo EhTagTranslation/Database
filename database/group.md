@@ -13005,6 +13005,7 @@ example:
 | takurowo-dou | タクロヲ堂 |  |  |
 | osoracu | おそら区 |  |  |
 | maikage | 舞影 |  |  |
+| banana style | ばななすたいる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
