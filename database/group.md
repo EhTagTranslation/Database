@@ -13007,6 +13007,7 @@ example:
 | maikage | 舞影 |  |  |
 | banana style | ばななすたいる |  |  |
 | sugarmilk | SugarMilk |  |  |
+| alma | ALMA=リンゴ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
