@@ -13319,6 +13319,7 @@ example:
 | hatori mia | 羽鳥みあ |  |  |
 | miyazaki uno | 宮崎うの |  |  |
 | mutagawa | 無田川 |  |  |
+| hiiragi ringo | 柊林檎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
