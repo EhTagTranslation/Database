@@ -6340,7 +6340,7 @@ example:
 | jude | jude |  |  |
 | jumping dogeza | ジャンピング土下座 |  |  |
 | jungfrau | Jungfrau |  |  |
-| junji | じゅんじぃ |  |  |
+| junji | じゅんジィ |  |  |
 | junko | 淳子 |  |  |
 | jura | 樹羅 |  |  |
 | juri reiqa | 樹莉麗華 |  |  |
