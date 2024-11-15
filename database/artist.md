@@ -13321,6 +13321,7 @@ example:
 | mutagawa | 無田川 |  |  |
 | hiiragi ringo | 柊林檎 |  |  |
 | yozora shiba | 夜空柴 |  |  |
+| asane ken | 朝寝ケン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
