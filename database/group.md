@@ -9464,7 +9464,7 @@ example:
 | psycodelicious | PSYCODELICIOUS |  |  |
 | ptd | PTD |  |  |
 | ptislands | ptislands |  |  |
-| public planet | ぱぶりっくぷらねっと |  |  |
+| public planet | Public Planet |  |  |
 | pucchies | ぷっち~ず |  |  |
 | pucchu | ぷっちゅ |  |  |
 | puchi momo club | ぷちもも倶楽部 |  |  |
