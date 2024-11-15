@@ -13007,7 +13007,7 @@ example:
 | maikage | 舞影 |  |  |
 | banana style | ばななすたいる |  |  |
 | sugarmilk | SugarMilk |  |  |
-| alma | ALMA=リンゴ |  |  |
+| alma | ALMA=リンゴ | 作品你和我与伊甸园的苹果<br>母公司为Orbit |  |
 | orbit | Orbit | 代表作桃华月惮<br>旗下公司ALMA作品你和我与伊甸园的苹果 |  |
 
 <!--TEMPLATE: 
