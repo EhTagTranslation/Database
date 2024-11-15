@@ -13008,7 +13008,7 @@ example:
 | banana style | ばななすたいる |  |  |
 | sugarmilk | SugarMilk |  |  |
 | alma | ALMA=リンゴ |  |  |
-| orbit | Orbit |  |  |
+| orbit | Orbit | 代表作桃华月惮<br>旗下公司ALMA作品你和我与伊甸园的苹果 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
