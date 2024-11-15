@@ -13006,6 +13006,7 @@ example:
 | osoracu | おそら区 |  |  |
 | maikage | 舞影 |  |  |
 | banana style | ばななすたいる |  |  |
+| sugarmilk | SugarMilk |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
