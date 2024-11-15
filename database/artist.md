@@ -13320,6 +13320,7 @@ example:
 | miyazaki uno | 宮崎うの |  |  |
 | mutagawa | 無田川 |  |  |
 | hiiragi ringo | 柊林檎 |  |  |
+| yozora shiba | 夜空柴 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
