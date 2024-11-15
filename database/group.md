@@ -13008,6 +13008,7 @@ example:
 | banana style | ばななすたいる |  |  |
 | sugarmilk | SugarMilk |  |  |
 | alma | ALMA=リンゴ |  |  |
+| orbit | Orbit |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
