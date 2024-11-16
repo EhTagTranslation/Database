@@ -13326,6 +13326,7 @@ example:
 | nikumen | 肉メン |  |  |
 | tokowan | とこわん |  |  |
 | 3huro | ひげた |  |  |
+| higeta | ひげた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
