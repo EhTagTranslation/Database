@@ -13327,6 +13327,7 @@ example:
 | tokowan | とこわん |  |  |
 | 3huro | ひげた |  |  |
 | higeta | ひげた |  |  |
+| issyoukin | 一升金 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
