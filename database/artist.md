@@ -13325,7 +13325,7 @@ example:
 | sawa yuzu | 砂和ゆず |  |  |
 | nikumen | 肉メン |  |  |
 | tokowan | とこわん |  |  |
-| 3huro | 三風呂 |  |  |
+| 3huro | ひげた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
