@@ -844,7 +844,7 @@ example:
 | meguru hachimiya | 八宫缭 |  |  |
 | mamimi tanaka | 田中摩美美 |  |  |
 | kiriko yukoku | 幽谷雾子 |  |  |
-| kogane tsukioka | 月冈恋钟 |  |  |
+| kogane tsukioka | 月冈恋钟 | 月冈恋钟（日语：月岡（つきおか） 恋鐘（こがね））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的天然方言偶像。<br>![](https://img.moegirl.org.cn/common/thumb/3/3b/Tsukiokakogane.png/630px-Tsukiokakogane.png) | [萌娘百科](https://zh.moegirl.org.cn/月冈恋钟) |
 | yuika mitsumine | 三峰结华 |  |  |
 | sakuya shirase | 白濑咲耶 |  |  |
 | amana osaki | 大崎甘奈 | 大崎甘奈（日语：大崎（おおさき） 甘奈（あまな））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的乙女双子妹偶像。<br>![](https://img.moegirl.org.cn/common/thumb/b/b1/OSAKI_AMANA3.png/800px-OSAKI_AMANA3.png) | [萌娘百科](https://zh.moegirl.org.cn/大崎甘奈) |
