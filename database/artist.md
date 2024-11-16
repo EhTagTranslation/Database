@@ -13322,6 +13322,7 @@ example:
 | hiiragi ringo | 柊林檎 |  |  |
 | yozora shiba | 夜空柴 |  |  |
 | asane ken | 朝寝ケン |  |  |
+| sawa yuzu | 砂和ゆず |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
