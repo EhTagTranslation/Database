@@ -13324,6 +13324,7 @@ example:
 | asane ken | 朝寝ケン |  |  |
 | sawa yuzu | 砂和ゆず |  |  |
 | nikumen | 肉メン |  |  |
+| tokowan | とこわん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
