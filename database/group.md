@@ -11102,7 +11102,7 @@ example:
 | tamarun | タマラン |  |  |
 | tamashii max | 魂MAX |  |  |
 | tamashu | 珠秋 |  |  |
-| tamatebako | 珠手箱 |  |  |
+| tamatebako | タマて箱 |  |  |
 | tameshigaki | ためしがき |  |  |
 | tamokuteki hall | たもくてきほーる |  |  |
 | tamokuteki kuukan | 多目的空間 |  |  |
