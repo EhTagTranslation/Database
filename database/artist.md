@@ -13329,6 +13329,7 @@ example:
 | higeta | ひげた |  |  |
 | issyoukin | 一升金 |  |  |
 | nipio | にびO |  |  |
+| urashima totasu | 浦島とーたす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
