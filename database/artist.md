@@ -13328,6 +13328,7 @@ example:
 | 3huro | ひげた |  |  |
 | higeta | ひげた |  |  |
 | issyoukin | 一升金 |  |  |
+| nipio | にびO |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
