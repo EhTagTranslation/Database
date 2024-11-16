@@ -2314,7 +2314,7 @@ example:
 | the ghost and molly mcgee | 幽灵与莫莉 |  |  |
 | loopers | LOOPERS(时廻者) |  |  |
 | koe no katachi | 声之形 | 《声之形》（日语：聲の形；英语：A Silent Voice / The Shape of Voice(注)）是由大今良时创作的一部漫画，于《周刊少年Magazine》2013年36、37合并号开始连载，至2014年51号完结；并有动画电影等衍生作品。<br>![](https://moegirl.icu/media/Koe_no_Katachi_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/声之形) |
-| huyao xiao hongniang | 狐妖小红娘 |  |  |
+| huyao xiao hongniang | 狐妖小红娘 | 《狐妖小红娘》是漫画家庹小新主笔的纯爱系奇幻漫画，先后连载于漫画SHOW和腾讯动漫。有动画、游戏、电视剧等衍生作品。<br>![](https://img.moegirl.org.cn/common/e/ee/狐妖小红娘动画.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/狐妖小红娘) |
 | kowarekake no orgel | 快要坏掉的八音盒 | 《萌单》作者POP的另一原创作品<br>![图](https://ehgt.org/ba/38/ba382b2eb6c435a8432aa32aaa2daa77ca0ef697-1847283-2106-3006-jpg_l.jpg) |  |
 | koikishi purely kiss | 恋骑士Purely☆Kiss | 《恋骑士 Purely☆Kiss》是AKABEiSOFT2公司的分公司エフォルダムソフト在2011年9月30日发售的恋爱冒险类型成人游戏。2014年4月エフォルダムソフト宣告解散，游戏的版权移交给AKABEiSOFT2公司的AKABEiSOFT3。OVA则是由PinkPineapple在2013年7月26日开始发售. | [维基百科](https://zh.wikipedia.org/wiki/戀騎士_Purely☆Kiss)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/恋騎士_Purely☆Kiss) |
 | saimin yuugi | 催眠游戏(催眠遊戯) | Sayori紗由里/纱由里老师原画游戏<br>group:staffing スタッフィング | [https://2dfan.com/subjects/1771](https://2dfan.com/subjects/1771) |
