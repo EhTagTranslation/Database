@@ -9393,7 +9393,7 @@ example:
 | raitei | 雷丁 |  |  |
 | raiun | らいうん |  |  |
 | rajii | らじー |  |  |
-| rakia | rakiA |  |  |
+| rakia | rakiA |  | [pixiv](https://www.pixiv.net/users/3122206) |
 | rakko | らっこ |  |  |
 | rakkyo | ラッキョ |  |  |
 | rakuda torino | 楽田トリノ |  |  |
