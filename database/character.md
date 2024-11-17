@@ -5888,6 +5888,7 @@ example:
 | kaoruko tenkawa | 天川薰子 | 天川薰子（日语：天川（てんかわ） 薫子（かおるこ））是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://c-ssl.dtstatic.com/uploads/blog/202402/17/n6SX2vx4T9gDPjn.thumb.700_0.jpg_webp) | [萌娘百科](https://zh.moegirl.org.cn/天川薰子) |
 | zenjuubou sugitani | 杉谷善住坊 |  |  |
 | tushan honghong | 涂山红红 | 涂山红红是由漫画家小新所创作的漫画《狐妖小红娘》及其衍生作品的登场角色，女主角。<br>![](https://img.moegirl.org.cn/common/thumb/2/25/狐妖小红娘_%2832%29.jpg/800px-狐妖小红娘_%2832%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/涂山红红) |
+| yuka nakano | 中野有香 | 中野有香（日語：中野（なかの） 有香（ゆか））是BNEI與Cygames開發的手機社群遊戲《偶像大師 灰姑娘女孩》系列中的Osu!空手道偶像。<br>![](https://img.moegirl.org.cn/common/a/a7/［Nothing_but_You］中野有香.png) | [萌娘百科](https://zh.moegirl.org.cn/中野有香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
