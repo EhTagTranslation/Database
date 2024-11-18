@@ -13330,6 +13330,7 @@ example:
 | issyoukin | 一升金 |  |  |
 | nipio | にびO |  |  |
 | urashima totasu | 浦島とーたす |  |  |
+| proudbanana | 驕傲香蕉 |  | [X](https://x.com/ProudBanana_1)<br>[pixiv](https://www.pixiv.net/users/5233382) |
 
 <!--TEMPLATE:
 |  |  |  |  |
