@@ -7144,7 +7144,7 @@ example:
 | kouenji rei | 紅園寺麗 |  |  |
 | kougami | 鴻上 |  |  |
 | kougi | KOUGI |  |  |
-| kouguchi moto | 工口本 |  |  |
+| kouguchi moto | こうぐちもと |  |  |
 | kouhaku | 紅白 |  |  |
 | kouma hidehito | 慌麻秀仁 |  |  |
 | koume satsuki | 小梅さつき |  |  |
