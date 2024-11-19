@@ -13332,6 +13332,7 @@ example:
 | urashima totasu | 浦島とーたす |  |  |
 | proudbanana | 驕傲香蕉 |  | [X](https://x.com/ProudBanana_1)<br>[pixiv](https://www.pixiv.net/users/5233382) |
 | yingyi xsu | 影依望远镜 |  | [X](https://x.com/ying0yi) |
+| sanshoku nerune | 三食ねるね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
