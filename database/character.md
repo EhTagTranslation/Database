@@ -5195,7 +5195,7 @@ example:
 | konan | 小南 | 火影忍者中晓组织女成员 |  |
 | shadowo tto shark | 夏朵 | 《`p:debby the corsifa wa makezugirai`》的女配角，社恐大只女。 |  |
 | sonic the hedgehog | 刺猬索尼克 |  |  |
-| megumi fujishima | 藤岛慈 |  |  |
+| megumi fujishima | 藤岛慈 | 藤岛慈（日语：藤島 慈，罗马字：Fujishima Megumi）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![藤岛慈](https://img.moegirl.org.cn/common/thumb/2/25/Megumi_img1.png/280px-Megumi_img1.png) | [萌娘百科](https://zh.moegirl.org.cn/藤岛慈) [Fandom](https://love-live.fandom.com/wiki/Megumi_Fujishima) |
 | rurino osawa | 大泽瑠璃乃 |  |  |
 | giselle gewelle | 吉赛尔·茱艾尔 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) |
 | jun sazanami | 涟纯 |  | [萌娘百科](https://zh.moegirl.org.cn/涟纯) |
