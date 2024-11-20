@@ -13339,6 +13339,7 @@ example:
 | yahagi wakahiko | 矢矧稚彦 |  |  |
 | ksyum | けーしむ |  |  |
 | deco | で子 |  |  |
+| piro mayu | ぴろまゆ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
