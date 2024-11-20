@@ -1219,7 +1219,7 @@ example:
 | aoten | 青点 |  |  |
 | clone ningen | clone人间 |  |  |
 | dowman sayman | 道满晴明 |  |  |
-| kagura moromi | 神楽もろみ | ![图](# "https://ehgt.org/82/54/82541ab0d47883d3a6a9bf473a2601acfc791fad-728574-1063-1500-jpg_l.jpg") | [X](https://www.pixiv.net/users/15398550) |
+| kagura moromi | 神乐もろみ | ![图](# "https://ehgt.org/82/54/82541ab0d47883d3a6a9bf473a2601acfc791fad-728574-1063-1500-jpg_l.jpg") | [X](https://www.pixiv.net/users/15398550) |
 | mikaze takashi | 水风天 |  |  |
 | kurogane kenn | 玄铁绚 |  | [X](https://x.com/kuroganium) [pixiv](https://www.pixiv.net/users/273993) |
 | momo youkan | ももようかん |  |  |
