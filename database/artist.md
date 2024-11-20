@@ -13343,6 +13343,7 @@ example:
 | amano shuninta | 天野しゅにんた |  |  |
 | kaoming | カオミン | ![X](https://pbs.twimg.com/profile_images/1531930952402087936/h-bkS1wZ_400x400.jpg)<br><br>**作者X头像** | [X](https://x.com/kaoming775) [pixiv](https://www.pixiv.net/users/1236873) |
 | x36marubox | X36丸ボックス |  |  |
+| hazakura satsuki | はざくらさつき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
