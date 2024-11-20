@@ -3148,7 +3148,7 @@ example:
 | hoshii nasake | 星井情 |  | [pixiv](https://www.pixiv.net/users/54419549) |
 | amezawa koma | 飴沢狛 |  | [pixiv](https://www.pixiv.net/users/1203575) [X](https://x.com/ponnzuame) |
 | kanda dan | 館田ダン |  | [X](https://x.com/done_kanda) [pixiv](https://www.pixiv.net/users/7618326) |
-| mikuni mizuki | みくに瑞貴 |  |  |
+| mikuni mizuki | みくに瑞贵 | ![X](https://pbs.twimg.com/profile_images/1411896120603660289/u2GI1NOR_400x400.jpg)<br><br>**作者X头像**<br><br>上岸笔名：四叶真 | [X](https://x.com/yotsuba_mikuni) [pixiv](https://www.pixiv.net/users/432033) |
 | yamamoto naoki | 山本直树 | 山本直樹 | [X](https://x.com/tsugeju) |
 | neromashin | ねろましん | 微重口 | [X](https://x.com/neromashin001) [pixiv](https://www.pixiv.net/users/1872899) [FANBOX](https://neromashin.fanbox.cc/) [Skeb](https://skeb.jp/@neromashin001) |
 | yuugen | ゆーげん |  | [X](https://x.com/Yuugen_99) [pixiv](https://www.pixiv.net/users/806502) |
