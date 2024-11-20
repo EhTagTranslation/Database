@@ -13348,6 +13348,7 @@ example:
 | shinonome 108 | 東雲108 |  |  |
 | creep | 苦怕Creep |  | [pixiv](https://www.pixiv.net/users/10829062) [X](https://x.com/Creep41347922) [bilibili](https://space.bilibili.com/438790493/dynamic) |
 | kabu usagi | カブウサギ |  | [pixiv](https://www.pixiv.net/users/63665992) |
+| mabo nasu | 麻婆ナス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
