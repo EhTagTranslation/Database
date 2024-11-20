@@ -13338,6 +13338,7 @@ example:
 | yamamoto ahiru | 山本AHIRU |  |  |
 | yahagi wakahiko | 矢矧稚彦 |  |  |
 | ksyum | けーしむ |  |  |
+| deco | で子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
