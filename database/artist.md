@@ -13337,6 +13337,7 @@ example:
 | fukemachi | ふけまち |  |  |
 | yamamoto ahiru | 山本AHIRU |  |  |
 | yahagi wakahiko | 矢矧稚彦 |  |  |
+| ksyum | けーしむ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
