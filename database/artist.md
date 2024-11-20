@@ -13335,6 +13335,7 @@ example:
 | sanshoku nerune | 三食ねるね |  |  |
 | lillly | Lillly |  |  |
 | fukemachi | ふけまち |  |  |
+| yamamoto ahiru | 山本AHIRU |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
