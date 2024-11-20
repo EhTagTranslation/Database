@@ -746,7 +746,7 @@ example:
 | rihito akane | りひと茜 |  |  |
 | abe inori | 阿部いのり |  |  |
 | akuochisukii sensei | アクオチスキー先生 |  |  |
-| ameyama denshin | 雨山电信 |  |  |
+| ameyama denshin | 雨山電信 |  |  |
 | aoyama mayama | 青山まやま |  |  |
 | bitch goigostar | ビッチ☆ゴイゴスター |  |  |
 | danbo | ダンボ | 崎森ダン |  |
