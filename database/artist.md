@@ -13340,6 +13340,7 @@ example:
 | ksyum | けーしむ |  |  |
 | deco | で子 |  |  |
 | piro mayu | ぴろまゆ |  |  |
+| amano shuninta | 天野しゅにんた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
