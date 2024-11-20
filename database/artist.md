@@ -720,7 +720,7 @@ example:
 | asakura mitsuru | 朝仓满 |  |  |
 | hase tsubura | 长谷圆 |  |  |
 | herohero tom | へろへろTom |  |  |
-| hoshino ryuichi | 星野龙一 |  |  |
+| hoshino ryuichi | 星野竜一 |  |  |
 | inoue nanaki | 井上七树 |  |  |
 | macaroni and cheese | マカロニandチーズ |  |  |
 | mozu k | もずK |  |  |
