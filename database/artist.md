@@ -13345,6 +13345,7 @@ example:
 | x36marubox | X36丸ボックス |  |  |
 | hazakura satsuki | はざくらさつき |  |  |
 | tata | たた |  |  |
+| shinonome 108 | 東雲108 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
