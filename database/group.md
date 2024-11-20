@@ -13012,6 +13012,7 @@ example:
 | noa no hakobune | ノアの方舟 |  |  |
 | sanshoku nerune | 三食ねるね |  |  |
 | j9 kagekidan | J9歌剧团 |  |  |
+| tatahot | TATAHOT |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
