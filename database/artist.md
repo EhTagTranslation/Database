@@ -13350,6 +13350,7 @@ example:
 | kabu usagi | カブウサギ |  | [pixiv](https://www.pixiv.net/users/63665992) |
 | mabo nasu | 麻婆ナス |  |  |
 | uwa bami | 卯和馬実 |  |  |
+| ajura | あじゅら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
