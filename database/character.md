@@ -5891,6 +5891,7 @@ example:
 | yuka nakano | 中野有香 | 中野有香（日語：中野（なかの） 有香（ゆか））是BNEI與Cygames開發的手機社群遊戲《偶像大師 灰姑娘女孩》系列中的Osu!空手道偶像。<br>![](https://img.moegirl.org.cn/common/a/a7/［Nothing_but_You］中野有香.png) | [萌娘百科](https://zh.moegirl.org.cn/中野有香) |
 | cai lin | 彩鳞 | 美杜莎，又名彩鳞，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的女主角之一<br>![](https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7ef2cca01c4f3faaf51f2de6660?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/美杜莎/13006740) |
 | caper | 跃跃 | 明日方舟干员 |  |
+| superman | 超人 |  | [萌娘百科](https://zh.moegirl.org.cn/超人%28DC漫画%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
