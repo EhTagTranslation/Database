@@ -13353,6 +13353,7 @@ example:
 | ajura | あじゅら |  |  |
 | sugina miki | 杉菜水姬 | ![头像](https://pbs.twimg.com/profile_images/1398199691972464641/gmId_AfX_400x400.jpg)<br>Innocent Grey的代表，喜欢神秘题材，但更喜欢内心温柔、略微S倾向的黑长直女性。 | [X](https://x.com/mikisugina) |
 | ichikawa saasha | 市川小纱 | ![市川小纱头像](https://lain.bgm.tv/r/400/pic/crt/l/7b/16/6892_prsn_b512Y.jpg) |  |
+| seishoujo | 圣少女 | ![圣少女头像](https://lain.bgm.tv/r/400/pic/crt/l/28/55/7920_prsn_sC6En.jpg)<br>ゲームクリエイター（原画家、シナリオライター）。京都府京都市出身。 | [X](https://x.com/seishoujo_park) |
 
 <!--TEMPLATE:
 |  |  |  |  |
