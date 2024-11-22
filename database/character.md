@@ -5895,6 +5895,7 @@ example:
 | sethos | 赛索斯 | 赛索斯是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛索斯) |
 | triss merigold | 特莉丝·梅莉葛德 | [萌娘百科](https://zh.moegirl.org.cn/特莉丝·梅莉葛德) |  |
 | yennefer | 叶奈法 |  | [萌娘百科](https://zh.moegirl.org.cn/叶奈法) |
+| ciri | 希里 | 希里，即希里雅·菲欧娜·艾伦·丽安伦（英语：Cirilla Fiona Elen Riannon），是安杰伊·萨普科夫斯基所著系列小说《猎魔人》以及CD Projekt RED所制作的改编游戏《巫师3:狂猎》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希里雅·菲欧娜·艾伦·丽安伦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
