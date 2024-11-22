@@ -1980,7 +1980,7 @@ example:
 | jagabata | じゃがバター |  |  |
 | ryuuseidou honpo | 龍正堂本舗 |  |  |
 | tonzura douchuu | とんずら道中 |  |  |
-| kuromahou kenkyuujo | 黒魔法研究所 |  |  |
+| kuromahou kenkyuujo | 黑魔法研究所 |  |  |
 | hotel negresco | Hotel Negresco |  |  |
 | kuzunoha | 屑乃葉 |  |  |
 | moni | moni |  |  |
