@@ -3014,7 +3014,7 @@ example:
 | kamaboko | 釜ボコ |  |  |
 | mountainhan | 山含 |  | [pixiv](https://www.pixiv.net/users/1951517) [X](https://x.com/EddieHanTaiwan) [Facebook](https://www.facebook.com/MountainHan2) |
 | ahugan sugita | アフガン杉田 |  |  |
-| kurebayashi asami | 暮林あさ美 |  |  |
+| kurebayashi asami | 暮林あさ美 | ![X](https://pbs.twimg.com/profile_images/1822878306309648384/RyrbhcjR_400x400.jpg)<br><br>**作者X头像** | [X](https://x.com/a_kurebayashi4) |
 | oshiro | 阿白 |  |  |
 | hakaishin | 破坏神 | 破壊神 | [pixiv](https://www.pixiv.net/users/965802) |
 | muryotaro | むりょたろ |  | [X](https://x.com/muryou_tada) [pixiv](https://www.pixiv.net/users/1642433) |
