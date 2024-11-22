@@ -6421,7 +6421,7 @@ example:
 | kagura yuuki | かぐらゆうき |  |  |
 | kagura yuuto | 神乐优人 |  |  |
 | kagurazaka nagu | 神楽坂なぐ |  |  |
-| kagurazaka saki | 神楽坂沙希 |  |  |
+| kagurazaka saki | 神乐坂沙希 |  |  |
 | kahasina | 川科 |  |  |
 | kahlua suzuki | カルーア鈴木 |  |  |
 | kai | 改 |  |  |
