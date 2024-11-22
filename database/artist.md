@@ -13359,6 +13359,7 @@ example:
 | ragii | 裸戏慰 |  |  |
 | tenno | 转ノ |  |  |
 | wakuwaku kitchen | わくわくキッチン |  |  |
+| asakatsu teishoku | あさかつ定食 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
