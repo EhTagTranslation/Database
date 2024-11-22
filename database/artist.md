@@ -3158,7 +3158,7 @@ example:
 | himuro shunsuke | 冰室しゅんすけ | ![twitter](https://pbs.twimg.com/profile_images/1142322110871683072/jCVxvOWx_400x400.png)<br><br>**作者推特头像** | [pixiv](https://www.pixiv.net/users/65165) [X](https://x.com/himuron) |
 | haikome | 灰米 |  | [pixiv](https://www.pixiv.net/users/46068676) [X](https://x.com/Haikome?s=09) |
 | bizen dorobune | 備前泥舟 |  | [pixiv](https://www.pixiv.net/users/7341) [X](https://x.com/zendoro) |
-| kagura nanaki | 神楽七姫 |  |  |
+| kagura nanaki | 神乐七姬 |  |  |
 | nozomi tsubame | 希望つばめ |  | [X](https://x.com/t_nozomi) [pixiv](https://www.pixiv.net/users/232066) |
 | saba satoru | 佐波サトル |  |  |
 | nagashiro rouge | 長代ルージュ | ![X](https://pbs.twimg.com/profile_images/1376156712789417990/BK4f6pi3_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
