@@ -13014,6 +13014,7 @@ example:
 | j9 kagekidan | J9歌剧团 |  |  |
 | tatahot | TATAHOT |  |  |
 | higashikoiwa hutomomo uchuu kenkyuujo | 东小岩ふともも宇宙研究所 |  |  |
+| tai doujinshi doukoukai | タイ同人誌同好会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
