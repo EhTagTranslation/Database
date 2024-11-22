@@ -13361,6 +13361,7 @@ example:
 | wakuwaku kitchen | わくわくキッチン |  |  |
 | asakatsu teishoku | あさかつ定食 |  |  |
 | hazuki ten | 叶月テン |  |  |
+| pdxen | PDXen |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
