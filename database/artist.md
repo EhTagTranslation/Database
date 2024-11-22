@@ -12189,7 +12189,7 @@ example:
 | renetan | レネタン |  | [pixiv](https://www.pixiv.net/users/47662894) [X](https://x.com/JunkIMG) |
 | hi | Hi |  | [pixiv](https://www.pixiv.net/users/32041146) [X](https://x.com/bigfootlalafell) |
 | kitsune choukan | きつね長官 |  | [pixiv](https://www.pixiv.net/users/2839983) [X](https://x.com/fox_secretary) |
-| kagura kurumi | 神楽くるみ |  | [pixiv](https://www.pixiv.net/users/1117949) [X](https://x.com/kagurakurumi) [HP](https://kkurumi.wixsite.com/pinkhome) |
+| kagura kurumi | 神乐くるみ |  | [pixiv](https://www.pixiv.net/users/1117949) [X](https://x.com/kagurakurumi) [HP](https://kkurumi.wixsite.com/pinkhome) |
 | yaemugura | 八重葎 |  |  |
 | pottsness | pottsness |  | [pixiv](https://www.pixiv.net/users/59336265) [X](https://x.com/pottsness) [Skeb](https://skeb.jp/@pottsness) |
 | kimyou chourui | 奇妙鸟类 |  |  |
