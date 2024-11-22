@@ -13357,6 +13357,7 @@ example:
 | krdsan | KRDsan |  |  |
 | polier | POLIER |  |  |
 | ragii | 裸戏慰 |  |  |
+| tenno | 转ノ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
