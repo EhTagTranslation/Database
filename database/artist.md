@@ -6413,7 +6413,7 @@ example:
 | kagome | 籠目 |  |  |
 | kagura | 神乐 |  |  |
 | kagura kazuto | 神楽一刀 |  |  |
-| kagura momiji | 神楽紅葉 |  |  |
+| kagura momiji | 神乐红叶 |  |  |
 | kagura nisiki | 神楽弐式 |  |  |
 | kagura takeshi | 神楽武志 |  |  |
 | kagura tsukune | 神楽つくね |  |  |
