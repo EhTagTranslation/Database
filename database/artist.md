@@ -6412,7 +6412,7 @@ example:
 | kagiyama ryuta | 鍵山りゅうた |  |  |
 | kagome | 籠目 |  |  |
 | kagura | 神乐 |  |  |
-| kagura kazuto | 神楽一刀 |  |  |
+| kagura kazuto | 神乐一刀 |  |  |
 | kagura momiji | 神乐红叶 |  |  |
 | kagura nisiki | 神楽弐式 |  |  |
 | kagura takeshi | 神乐武志 |  |  |
