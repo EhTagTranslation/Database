@@ -6419,7 +6419,7 @@ example:
 | kagura tsukune | 神楽つくね |  |  |
 | kagura yutakamaru | 神乐雄隆丸 |  |  |
 | kagura yuuki | かぐらゆうき |  |  |
-| kagura yuuto | 神楽優人 |  |  |
+| kagura yuuto | 神乐优人 |  |  |
 | kagurazaka nagu | 神楽坂なぐ |  |  |
 | kagurazaka saki | 神楽坂沙希 |  |  |
 | kahasina | 川科 |  |  |
