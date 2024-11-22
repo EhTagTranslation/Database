@@ -13358,6 +13358,7 @@ example:
 | polier | POLIER |  |  |
 | ragii | 裸戏慰 |  |  |
 | tenno | 转ノ |  |  |
+| wakuwaku kitchen | わくわくキッチン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
