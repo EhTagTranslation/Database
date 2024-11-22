@@ -13362,6 +13362,7 @@ example:
 | asakatsu teishoku | あさかつ定食 |  |  |
 | hazuki ten | 叶月テン |  |  |
 | pdxen | PDXen |  |  |
+| psyche | プシュケーLo |  | [X](https://x.com/psyche047) [pixiv](https://www.pixiv.net/users/942719) |
 
 <!--TEMPLATE:
 |  |  |  |  |
