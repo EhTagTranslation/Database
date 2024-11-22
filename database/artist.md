@@ -6420,7 +6420,7 @@ example:
 | kagura yutakamaru | 神乐雄隆丸 |  |  |
 | kagura yuuki | かぐらゆうき |  |  |
 | kagura yuuto | 神乐优人 |  |  |
-| kagurazaka nagu | 神楽坂なぐ |  |  |
+| kagurazaka nagu | 神乐坂なぐ |  |  |
 | kagurazaka saki | 神乐坂沙希 |  |  |
 | kahasina | 川科 |  |  |
 | kahlua suzuki | カルーア鈴木 |  |  |
