@@ -13013,6 +13013,7 @@ example:
 | sanshoku nerune | 三食ねるね |  |  |
 | j9 kagekidan | J9歌剧团 |  |  |
 | tatahot | TATAHOT |  |  |
+| higashikoiwa hutomomo uchuu kenkyuujo | 东小岩ふともも宇宙研究所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
