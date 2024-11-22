@@ -13360,6 +13360,7 @@ example:
 | tenno | 转ノ |  |  |
 | wakuwaku kitchen | わくわくキッチン |  |  |
 | asakatsu teishoku | あさかつ定食 |  |  |
+| hazuki ten | 叶月テン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
