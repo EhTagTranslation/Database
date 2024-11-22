@@ -5893,6 +5893,7 @@ example:
 | caper | 跃跃 | 明日方舟干员 |  |
 | superman | 超人 |  | [萌娘百科](https://zh.moegirl.org.cn/超人%28DC漫画%29#) |
 | sethos | 赛索斯 | 赛索斯是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛索斯) |
+| triss merigold | 特莉丝·梅莉葛德 | [萌娘百科](https://zh.moegirl.org.cn/特莉丝·梅莉葛德) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
