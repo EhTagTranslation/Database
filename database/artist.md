@@ -13356,6 +13356,7 @@ example:
 | seishoujo | 圣少女 | ![圣少女头像](https://lain.bgm.tv/r/400/pic/crt/l/28/55/7920_prsn_sC6En.jpg)<br>ゲームクリエイター（原画家、シナリオライター）。京都府京都市出身。 | [X](https://x.com/seishoujo_park) |
 | krdsan | KRDsan |  |  |
 | polier | POLIER |  |  |
+| ragii | 裸戏慰 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
