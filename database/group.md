@@ -6298,7 +6298,7 @@ example:
 | kaginord | 鍵のーど |  |  |
 | kagimushi | かぎむし |  |  |
 | kagitsuki | 限月 |  |  |
-| kagura hitsuji | 神楽ひつじ |  |  |
+| kagura hitsuji | 神乐ひつじ |  |  |
 | kaguradou | かぐら堂 |  |  |
 | kaguyahime | かぐや姫 |  |  |
 | kahlua milk | かるーあみるく |  |  |
