@@ -13016,6 +13016,7 @@ example:
 | higashikoiwa hutomomo uchuu kenkyuujo | 东小岩ふともも宇宙研究所 |  | [pixiv](https://www.pixiv.net/users/101730726) |
 | tai doujinshi doukoukai | タイ同人誌同好会 |  |  |
 | kure no genki na goaisatsu | 暮れの元气なご挨拶 | 画师`kurebayashi asami`所属社团<br><br>![works](https://pbs.twimg.com/media/GZvWu9dagAAY4ww?format=jpg&name=4096x4096) |  |
+| wakuwaku dining | WAKUWAKU DINING |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
