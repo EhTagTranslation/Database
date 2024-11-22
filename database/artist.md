@@ -6415,7 +6415,7 @@ example:
 | kagura kazuto | 神楽一刀 |  |  |
 | kagura momiji | 神乐红叶 |  |  |
 | kagura nisiki | 神楽弐式 |  |  |
-| kagura takeshi | 神楽武志 |  |  |
+| kagura takeshi | 神乐武志 |  |  |
 | kagura tsukune | 神楽つくね |  |  |
 | kagura yutakamaru | 神楽雄隆丸 |  |  |
 | kagura yuuki | かぐらゆうき |  |  |
