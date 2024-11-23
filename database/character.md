@@ -5898,6 +5898,7 @@ example:
 | ciri | 希里 | 希里，即希里雅·菲欧娜·艾伦·丽安伦（英语：Cirilla Fiona Elen Riannon），是安杰伊·萨普科夫斯基所著系列小说《猎魔人》以及CD Projekt RED所制作的改编游戏《巫师3:狂猎》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希里雅·菲欧娜·艾伦·丽安伦) |
 | mizuchi miyadeguchi | 宫出口瑞灵 | 宫出口瑞灵是东方Project系列中的官方角色，首次登场于东方智灵奇传，担任智灵奇传的反派角色。 | [https://thwiki.cc/宫出口瑞灵](https://thwiki.cc/宫出口瑞灵) |
 | kaori miyazono | 宫园薰 | ![小薰](https://cho-animedia.jp/imgs/p/4i9dnYHcCN43tBa-eYkdtFrMc8LMwsPExcbH/783081.jpg)<br>宫园薰（宮園（みやぞの） かをり）是新川直司所创作的漫画《四月是你的谎言》及其衍生作品的登场角色。(也是我老婆） | [百度百科](https://baike.baidu.com/item/宫园薰/13389018)<br>[萌娘百科](https://zh.moegirl.org.cn/宫园薰)<br>[维基百科(中文)](https://zh.wikipedia.org/wiki/四月是你的謊言)<br>[维基百科(日文)](https://ja.wikipedia.org/wiki/四月は君の嘘)<br>[维基百科(英文)](https://en.wikipedia.org/wiki/Your_Lie_in_April) |
+| nayuta tenkawa | 天川那由多 | （日语：天川（てんかわ） なゆた）<br>猫豆腐创作的漫画《别当欧尼酱了！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天川那由多) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
