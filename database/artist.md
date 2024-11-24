@@ -11732,7 +11732,7 @@ example:
 | yoshii toshinari | 由衣利成 |  |  |
 | yoshiizumi hana | よしいずみはな |  |  |
 | yoshijima ataru | よしじまあたる |  |  |
-| yoshiki | YOSHIKI | 遠藤良危 |  |
+| yoshiki | 遠藤良危 |  |  |
 | yoshimiya chitose | 義宮ちとせ |  |  |
 | yoshimoto ayumu | 芳本あゆむ |  |  |
 | yoshimune | よしむね |  |  |
