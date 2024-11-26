@@ -5901,6 +5901,7 @@ example:
 | nayuta tenkawa | 天川那由多 | （日语：天川（てんかわ） なゆた）<br>猫豆腐创作的漫画《别当欧尼酱了！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天川那由多) |
 | lucy heartfilia | 露西·哈特菲利亚 | 《妖精的尾巴》中的女主角 |  |
 | sakuya sumeragi | 皇咲夜 |  |  |
+| the shorekeeper | 守岸人 | 《鸣潮》角色 | [萌娘百科](https://zh.moegirl.org.cn/守岸人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
