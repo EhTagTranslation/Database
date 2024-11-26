@@ -13019,6 +13019,7 @@ example:
 | wakuwaku dining | WAKUWAKU DINING |  |  |
 | asakatsu | あさかつ |  |  |
 | komatsuna salad | 小松菜サラダ |  |  |
+| takeno no nedoko | 竹野の寝床 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
