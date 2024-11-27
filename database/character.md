@@ -5153,7 +5153,7 @@ example:
 | sodachi oikura | 老仓育 | 所属作品: `p:bakemonogatari`<br><br>`c:koyomi araragi`的高中一年级同班同学，班长。喜欢别人称呼自己为数学家“欧拉”。从登场开始就非常讨厌`c:koyomi araragi`。<br><br>![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/1a/OwariOikura2.png) | [萌娘百科](https://zh.moegirl.org.cn/老仓育) [Fandom](https://bakemonogatari.fandom.com/wiki/Sodachi_Oikura) |
 | smolder | 斯莫得 |  |  |
 | touka satomi | 里见灯花 |  | [pixiv](https://dic.pixiv.net/a/里見灯花) |
-| firefly | 流萤 | 流萤是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/流萤) |
+| firefly | 流萤 | 流萤是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。<br><br>![](https://img.moegirl.org.cn/common/thumb/5/54/流萤与开拓者的合照_星版.png/1920px-流萤与开拓者的合照_星版.png) | [萌娘百科](https://zh.moegirl.org.cn/流萤) |
 | black swan | 黑天鹅 | 黑天鹅是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
 | gaming yip | 嘉明 |  |  |
 | dunyarzad homayani | 迪娜泽黛 | 是由米哈游所制作的游戏`p:genshin impact`及其衍生作品的登场角色<br>![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
