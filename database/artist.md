@@ -233,7 +233,7 @@ example:
 | ginyou haru | 银曜晴 |  | [pixiv](https://www.pixiv.net/users/1161317) [bilibili](https://space.bilibili.com/2053677746) |
 | shiina | シイナ |  |  |
 | mikuta | みくた |  |  |
-| shibasaki syouzi | 柴崎しょうじ（柴崎ショージ） |  | [X](https://x.com/Siba_Syoji) |
+| shibasaki syouzi | 柴崎障子 |  | [X](https://x.com/Siba_Syoji) |
 | tempo gensui | 天蓬元帅 |  |  |
 | mafuyu | 真冬 |  |  |
 | kakugari kyoudai | カクガリ兄弟 |  |  |
