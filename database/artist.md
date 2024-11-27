@@ -2488,7 +2488,7 @@ example:
 | chacharan | 茶々らん |  | [pixiv](https://www.pixiv.net/users/25930775) [X](https://x.com/chacharan33) |
 | isuwie | イスィ |  |  |
 | misaoka | みさおか |  | [pixiv](https://www.pixiv.net/users/290106) |
-| ootori mahiro | 鳳まひろ |  |  |
+| ootori mahiro | 凤まひろ |  |  |
 | yaya hinata | 稍日向 |  |  |
 | koeda shiro | こえだしろ |  |  |
 | honjou hideaki | 本条秀明 |  |  |
