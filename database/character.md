@@ -5902,6 +5902,7 @@ example:
 | lucy heartfilia | 露西·哈特菲利亚 | 《妖精的尾巴》中的女主角 |  |
 | sakuya sumeragi | 皇咲夜 |  |  |
 | the shorekeeper | 守岸人 | 《鸣潮》角色 | [萌娘百科](https://zh.moegirl.org.cn/守岸人) |
+| yuuki sakuna | 结城昨奈/結城さくな | ![](https://img.moegirl.org.cn/common/thumb/b/b3/结城Sakuna信息栏.jpg/560px-结城Sakuna信息栏.jpg)<br>结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。 | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
