@@ -10446,7 +10446,7 @@ example:
 | shuuchuugouu keihou | 集中豪雨警報 |  |  |
 | shuukan freaks | 収監フリークス |  |  |
 | shuukyuu itsukasei | 週休五日制 |  |  |
-| shuusei patch 3gb | 修正パッチ3GB |  |  |
+| shuusei patch 3gb | 修正パッチ3GB |  | [X](https://x.com/kq89nju2)<br>[pixiv](https://www.pixiv.net/users/10552397) |
 | shyness over drive | SHYNESS OVER DRIVE |  |  |
 | shyo chiku bai | 笑畜売 |  |  |
 | side buy side | Side Buy Side |  |  |
