@@ -6559,7 +6559,7 @@ example:
 | kanimura ebio | かに村えびお |  |  |
 | kanitaro | かに太郎 |  |  |
 | kanitoon | 蟹丹 |  |  |
-| kanju | kanju |  |  |
+| kanju | kanju |  | [X](https://x.com/kq89nju2)<br>[pixiv](https://www.pixiv.net/users/10552397) |
 | kanka | カンカ |  |  |
 | kanko | かんこ |  |  |
 | kanmimitsu | 甘味みつ |  |  |
