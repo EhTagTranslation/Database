@@ -2564,7 +2564,7 @@ example:
 | inui waon | 乾和音 |  |  |
 | majima shiroyuki | 间岛白幸 |  |  |
 | sougetsu nonono | 草月野々乃 |  |  |
-| wantan meo | 云吞めお | ![X](https://pbs.twimg.com/profile_images/1430473206448594946/rAMXizox_400x400.jpg)<br><br>**作者推特头像**<br><br>comic快乐天作者，曾分别以“担々めお（一般向作品）”，“雲呑めお（成年向作品）”为名活动，现统一使用“雲呑めお”的笔名。 | [X](https://x.com/wantan_meo) [pixiv](https://www.pixiv.net/users/395400) |
+| wantan meo | 雲呑めお | ![X](https://pbs.twimg.com/profile_images/1430473206448594946/rAMXizox_400x400.jpg)<br><br>**作者推特头像**<br><br>comic快乐天作者，曾分别以“担々めお（一般向作品）”，“雲呑めお（成年向作品）”为名活动，现统一使用“雲呑めお”的笔名。 | [X](https://x.com/wantan_meo) [pixiv](https://www.pixiv.net/users/395400) |
 | kemuri haku | 煙ハク |  |  |
 | kani biimu | かにビーム | ![peko pixiv头像](https://tva1.sinaimg.cn/large/6c84b2d6gw1f35z6x8izpj204q04qq34.jpg)<br>亲吻那朵花百合系列作者<br>![peko作品](https://ehgt.org/50/59/5059df7b65603a3224d1ddaba5026ddeb13ec367-188670-707-1000-jpg_250.jpg) | [X](https://x.com/kani_biimu) [pixiv](https://www.pixiv.net/users/3439325) |
 | watanohara | わたのはら |  |  |
