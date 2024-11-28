@@ -13366,6 +13366,7 @@ example:
 | tachi iyashi | 館いやし |  |  |
 | ririko | 粉红黏黏怪 |  |  |
 | minami fumika | 南文夏 |  |  |
+| kuse | くせ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
