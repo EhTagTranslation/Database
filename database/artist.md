@@ -13377,6 +13377,7 @@ example:
 | niizuma potepu | 新妻ぽてぷ |  |  |
 | kikuazami kaoru | 菊薊薫 |  |  |
 | pupunezumi | ぷぷねずみ |  |  |
+| zero jirou | ぜろじろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
