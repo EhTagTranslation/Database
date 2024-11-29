@@ -13376,6 +13376,7 @@ example:
 | ayase mio | 綾瀬水音 |  |  |
 | niizuma potepu | 新妻ぽてぷ |  |  |
 | kikuazami kaoru | 菊薊薫 |  |  |
+| pupunezumi | ぷぷねずみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
