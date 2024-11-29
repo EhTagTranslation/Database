@@ -13374,6 +13374,7 @@ example:
 | garoudo | ガロウド |  |  |
 | nanamachi | ナナマチ |  |  |
 | ayase mio | 綾瀬水音 |  |  |
+| niizuma potepu | 新妻ぽてぷ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
