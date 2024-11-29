@@ -13380,6 +13380,7 @@ example:
 | zero jirou | ぜろじろう |  |  |
 | ashida ex | 芦田 EX |  |  |
 | onoda barao | 斧田ばら男 |  |  |
+| batsu kakeru peke | ばつかけるぺけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
