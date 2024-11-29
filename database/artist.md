@@ -13368,6 +13368,7 @@ example:
 | minami fumika | 南文夏 |  |  |
 | kuse | くせ |  |  |
 | tebasaki chikin | 手羽咲ちきん |  |  |
+| shiniku haguki | 歯肉はぐき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
