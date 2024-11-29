@@ -13369,6 +13369,7 @@ example:
 | kuse | くせ |  |  |
 | tebasaki chikin | 手羽咲ちきん |  |  |
 | shiniku haguki | 歯肉はぐき |  |  |
+| torimune | とりむね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
