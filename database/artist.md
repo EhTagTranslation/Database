@@ -13371,6 +13371,7 @@ example:
 | shiniku haguki | 歯肉はぐき |  |  |
 | torimune | とりむね |  |  |
 | sunaba yuu | 砂場遊 |  |  |
+| garoudo | ガロウド |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
