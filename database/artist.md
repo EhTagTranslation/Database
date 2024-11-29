@@ -13373,6 +13373,7 @@ example:
 | sunaba yuu | 砂場遊 |  |  |
 | garoudo | ガロウド |  |  |
 | nanamachi | ナナマチ |  |  |
+| ayase mio | 綾瀬水音 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
