@@ -13367,6 +13367,7 @@ example:
 | ririko | 粉红黏黏怪 |  |  |
 | minami fumika | 南文夏 |  |  |
 | kuse | くせ |  |  |
+| tebasaki chikin | 手羽咲ちきん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
