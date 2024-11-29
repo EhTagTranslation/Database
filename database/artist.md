@@ -13372,6 +13372,7 @@ example:
 | torimune | とりむね |  |  |
 | sunaba yuu | 砂場遊 |  |  |
 | garoudo | ガロウド |  |  |
+| nanamachi | ナナマチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
