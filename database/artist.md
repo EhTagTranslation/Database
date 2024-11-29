@@ -13378,6 +13378,7 @@ example:
 | kikuazami kaoru | 菊薊薫 |  |  |
 | pupunezumi | ぷぷねずみ |  |  |
 | zero jirou | ぜろじろう |  |  |
+| ashida ex | 芦田 EX |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
