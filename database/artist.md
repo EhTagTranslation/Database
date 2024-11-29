@@ -1069,7 +1069,7 @@ example:
 | rakujin | らくじん |  |  |
 | syuuen | 终焉 |  |  |
 | harazaki takuma | はらざきたくま |  |  |
-| hashimura aoki | 桥村青树 |  |  |
+| hashimura aoki | 橋村青樹 |  |  |
 | malcorond | まるころんど | 漫画家。作品主要以`lolicon`、`tanlines`为主。<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2018/05/02/15/32/36/14170514_94670ef43da8c97ae653ea667d3845c0_170.jpg) | [X](https://x.com/malcorond2) [pixiv](https://www.pixiv.net/users/4342957) [Fc2Blog](http://malcorond.blog.fc2.com/) |
 | marugari santarou | 丸刈参太郎 |  |  |
 | poncocchan | ぽんこっちゃん |  |  |
