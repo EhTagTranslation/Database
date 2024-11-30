@@ -4888,7 +4888,7 @@ example:
 | kriss vector | 维克托 | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | vector | 维克托 | `p:girls frontline`<br>与`c:kriss vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | mp40 | MP40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
-| mp5 | MP5 | `p:girls frontline` | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
+| mp5 | MP5 \| 佩莉 | `p:girls frontline`<br><br>少女前线2:追放<br>佩莉 | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
 | ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
 | skorpion | 蝎式 | `p:girls frontline` | [http://www.gfwiki.org/w/蝎式](http://www.gfwiki.org/w/蝎式) |
 | mp7 | MP7 \| 奇塔 | `p:girls frontline`<br>![](https://gfwiki.org/images/0/09/Pic_MP7_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_CheetaSR.png) | [少前百科GFwiki](http://www.gfwiki.org/w/MP7)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/CheetaSR) |
