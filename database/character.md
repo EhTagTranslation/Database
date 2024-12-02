@@ -5905,6 +5905,7 @@ example:
 | yuuki sakuna | 结城昨奈/結城さくな | ![結城](https://img.moegirl.org.cn/common/thumb/b/b3/结城Sakuna信息栏.jpg/560px-结城Sakuna信息栏.jpg)<br>结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。 | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
 | noko shikanoko | 鹿乃子乃子 |  |  |
 | torako koshi | 虎视虎子 |  |  |
+| shangri-la | 香格里拉 | 香格里拉是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色 | [维基百科](https://zh.wikipedia.org/wiki/香格里拉號航空母艦)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:香格里拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
