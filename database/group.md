@@ -13021,6 +13021,7 @@ example:
 | komatsuna salad | 小松菜サラダ |  |  |
 | takeno no nedoko | 竹野の寝床 |  |  |
 | yamatomochi | ヤマともち |  |  |
+| amai shoujo koubou | アマイ少女工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
