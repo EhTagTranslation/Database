@@ -13386,6 +13386,7 @@ example:
 | thalia | Thalia |  |  |
 | ceo neet | neet社长/ニート社長 |  |  |
 | kokureki | 黒礫 |  |  |
+| ookami hika | 绯华/緋華 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
