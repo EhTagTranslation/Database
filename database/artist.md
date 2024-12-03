@@ -13382,6 +13382,7 @@ example:
 | onoda barao | 斧田ばら男 |  |  |
 | batsu kakeru peke | ばつかけるぺけ |  |  |
 | yagicom | ヤギコム | ![X](https://pbs.twimg.com/profile_images/1839216812455518208/3hum96zt_400x400.jpg)<br>**作者X头像**<br><br>![works](# "https://pbs.twimg.com/media/GYtT6cpaUAAqEDJ?format=jpg&name=large") | [X](https://x.com/yagicomeon) [pixiv](https://www.pixiv.net/users/62519521) |
+| xuemian dousha | 雪绵豆沙 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
