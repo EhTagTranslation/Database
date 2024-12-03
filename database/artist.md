@@ -13385,6 +13385,7 @@ example:
 | xuemian dousha | 雪绵豆沙 |  |  |
 | thalia | Thalia |  |  |
 | ceo neet | neet社长/ニート社長 |  |  |
+| kokureki | 黒礫 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
