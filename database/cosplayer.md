@@ -135,6 +135,7 @@ example:
 | ying lili | 樱梨梨 | 中国Cosplayer | [X](https://x.com/Eririchyan) |
 | rissoft | 前羽rr | 中国Cosplayer | [ins](https://www.instagram.com/rissoft_/)<br>[X](https://x.com/rissoft344)<br>[Bilibili](https://space.bilibili.com/808942/) |
 | oni hitomi | 鬼瞳 | 台湾Coser | [X](https://x.com/abc12692) |
+| hualing hana | 花铃 |  |  |
 
 <!--
 Template: 
