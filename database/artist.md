@@ -10308,7 +10308,7 @@ example:
 | sorato | そらと |  |  |
 | sorawa reo | そらわれお |  |  |
 | sorono | sorono |  |  |
-| soso | そそ |  |  |
+| soso | そそ/ソソ |  |  |
 | soso-zagri | そそざぐり |  |  |
 | sot | sot |  |  |
 | sou | そう |  |  |
