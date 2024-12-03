@@ -13389,6 +13389,7 @@ example:
 | ookami hika | 绯华/緋華 |  |  |
 | kakao rantan | カカオ・ランタン |  |  |
 | goulianlian | 狗脸脸dogface |  |  |
+| rea loixacra | REA Loixacra |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
