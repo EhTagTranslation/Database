@@ -13391,6 +13391,7 @@ example:
 | goulianlian | 狗脸脸dogface |  |  |
 | rea loixacra | REA Loixacra |  |  |
 | watage modoki | わたげもどき |  | [X](https://x.com/Mofumofu_0512) [pixiv](https://www.pixiv.net/users/472767) |
+| kurashiki teruko | めきめき |  | [X](https://x.com/mekimekix) [pixiv](https://www.pixiv.net/users/608774/artworks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
