@@ -13395,6 +13395,7 @@ example:
 | 2c equals galore | 2C=がろあ |  | [X](https://x.com/galore_2c/) |
 | hashimoto mitsu | ハシモトミツ |  | [X](https://x.com/hsmtmtmtmt) |
 | runoba umiya | Runoba海屋 |  | [X](https://x.com/kbc_2929) |
+| doco | Doco |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
