@@ -13396,6 +13396,7 @@ example:
 | hashimoto mitsu | ハシモトミツ |  | [X](https://x.com/hsmtmtmtmt) |
 | runoba umiya | Runoba海屋 |  | [X](https://x.com/kbc_2929) |
 | doco | Doco |  |  |
+| basoba | ばそば |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
