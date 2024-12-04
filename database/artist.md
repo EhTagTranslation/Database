@@ -13397,6 +13397,7 @@ example:
 | runoba umiya | Runoba海屋 |  | [X](https://x.com/kbc_2929) |
 | doco | Doco |  |  |
 | basoba | ばそば |  |  |
+| shittori bouzu | しっとりボウズ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
