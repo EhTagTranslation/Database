@@ -13024,6 +13024,7 @@ example:
 | amai shoujo koubou | アマイ少女工房 |  |  |
 | kakao pod | カカオポッド |  |  |
 | purupuru tamagodoufu | ぷるぷる卵豆腐 |  |  |
+| honnokimochiya | ホンノキモチヤ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
