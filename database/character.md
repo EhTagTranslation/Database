@@ -5909,6 +5909,7 @@ example:
 | hiyori sarugaki | 猿柿日世里 | 猿柿日世里，日本漫画《境·界》及其衍生作品中的角色。原护廷十三队十二番队副队长，技术开发局研究室主任。百余年前遭蓝染惣右介等人陷害而隐居在现世，成为假面军势的成员之一。讨厌死神，所以在空座町大战落幕后拒绝回归尸魂界。 | [百度百科](https://baike.baidu.com/item/猿柿日世里/2402064?fr=ge_ala) |
 | makoto tamasaka | 玉坂真琴 |  |  |
 | archetto | 空弦 | 所属作品 `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/空弦) |
+| aisha | 爱莎 | 艾尔之光游戏角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
