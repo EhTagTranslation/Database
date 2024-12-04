@@ -13392,6 +13392,7 @@ example:
 | rea loixacra | REA Loixacra |  |  |
 | watage modoki | わたげもどき |  | [X](https://x.com/Mofumofu_0512) [pixiv](https://www.pixiv.net/users/472767) |
 | kurashiki teruko | めきめき |  | [X](https://x.com/mekimekix) [pixiv](https://www.pixiv.net/users/608774/artworks) |
+| 2c equals galore | 2C=がろあ |  | [X](https://x.com/galore_2c/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
