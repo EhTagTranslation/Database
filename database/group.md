@@ -13025,6 +13025,7 @@ example:
 | kakao pod | カカオポッド |  |  |
 | purupuru tamagodoufu | ぷるぷる卵豆腐 |  |  |
 | honnokimochiya | ホンノキモチヤ |  |  |
+| ebizoridan | えびぞり団 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
