@@ -2628,7 +2628,7 @@ example:
 | kino | kino |  | [pixiv](https://www.pixiv.net/users/40912) [X](https://x.com/kinogin) |
 | mitha | Mitha |  | [pixiv](https://www.pixiv.net/users/283135) [X](https://x.com/usa_mitha) |
 | tateha | 立羽 |  | [pixiv](https://www.pixiv.net/users/20352) [X](https://x.com/tateha_MG) |
-| yano mitsuki | 夜ノみつき/夜之美月 |  | [pixiv](https://www.pixiv.net/users/44234) [X](https://x.com/mituk1) |
+| yano mitsuki | 夜之美月 | 夜ノみつき | [pixiv](https://www.pixiv.net/users/44234) [X](https://x.com/mituk1) |
 | fukahire | フカヒレ | ![フカヒレ头像](https://i.loli.net/2020/05/14/adAO95xecL34ziV.jpg) | [pixiv](https://www.pixiv.net/users/58338) [X](https://x.com/fuka_hire) [个人主页](https://fukahire-ruinon.tumblr.com/) |
 | takano yuki | 鷹乃ゆき |  | [pixiv](https://www.pixiv.net/users/49348) [X](https://x.com/takano_yuki) [个人主页](http://allegromistic.blog51.fc2.com/) |
 | suimya | すいみゃ |  | [pixiv](https://www.pixiv.net/users/25386) [X](https://x.com/suimya) [个人主页](https://www.suimya.com/) |

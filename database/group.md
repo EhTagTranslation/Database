@@ -74,7 +74,7 @@ example:
 | sphere | Sphere |  |  |
 | hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
 | smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
-| asa project | ASa Project/颜艺社 |  | [官方网站](http://www.asa-pro.com/top.html) (\*) |
+| asa project | ASa Project | 颜艺社 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
 | rosebleu | Rosebleu |  |  |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
 | honey soft | HONEY SOFT |  |  |
