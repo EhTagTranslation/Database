@@ -13398,6 +13398,7 @@ example:
 | doco | Doco |  |  |
 | basoba | ばそば |  |  |
 | shittori bouzu | しっとりボウズ |  |  |
+| tukigi kousuke | 月木浩介（月木） |  | [Fantia](https://fantia.jp/fanclubs/491908) |
 
 <!--TEMPLATE:
 |  |  |  |  |
