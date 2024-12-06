@@ -13399,6 +13399,7 @@ example:
 | basoba | ばそば |  |  |
 | shittori bouzu | しっとりボウズ |  |  |
 | tukigi kousuke | 月木浩介（月木） |  | [Fantia](https://fantia.jp/fanclubs/491908) |
+| nakamura taiyaki | 中村たいやき |  | [pixiv](https://www.pixiv.net/users/2239312) [X](https://x.com/tiyk_nkmr/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
