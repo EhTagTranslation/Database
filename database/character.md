@@ -5911,6 +5911,7 @@ example:
 | archetto | 空弦 | 所属作品 `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/空弦) |
 | aisha | 爱莎 | 艾尔之光游戏角色 |  |
 | reze | 蕾塞 | レゼ<br>藤本树创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/蕾塞) |
+| lexington | 列克星敦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
