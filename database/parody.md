@@ -2321,6 +2321,7 @@ example:
 | taimanin rpg | 対魔忍RPG |  |  |
 | ura sekai picnic | 里世界郊游 | 《里世界郊游》（日语：裏世界ピクニック）是宫泽伊织（著作）和shirakaba（插画）创作的以都市传说为基础的SF百合冒险小说，并有漫画、动画形式的衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/里世界郊游) |
 | gyakuten majo saiban | 逆转魔女裁判 |  |  |
+| luminous witches | 光辉魔女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
