@@ -5914,6 +5914,7 @@ example:
 | lexington | 列克星敦 |  |  |
 | chikagi katsuragi | 桂木千键 |  |  |
 | hibiki hibino | 日比乃响 |  |  |
+| kazuradrop | 糖果藤蔓 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
