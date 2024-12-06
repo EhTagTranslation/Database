@@ -5913,6 +5913,7 @@ example:
 | reze | 蕾塞 | レゼ<br>藤本树创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/蕾塞) |
 | lexington | 列克星敦 |  |  |
 | chikagi katsuragi | 桂木千键 |  |  |
+| hibiki hibino | 日比乃响 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
