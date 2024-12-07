@@ -13026,6 +13026,7 @@ example:
 | purupuru tamagodoufu | ぷるぷる卵豆腐 |  |  |
 | honnokimochiya | ホンノキモチヤ |  |  |
 | ebizoridan | えびぞり団 |  |  |
+| junsei chuurenpoutou | 纯正九莲宝灯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
