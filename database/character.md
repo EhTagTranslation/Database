@@ -5916,6 +5916,7 @@ example:
 | hibiki hibino | 日比乃响 |  |  |
 | kazuradrop | 糖果藤蔓 |  |  |
 | tutankhamun | 图坦卡蒙 |  |  |
+| tony tony chopper | 乔巴 | 托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
