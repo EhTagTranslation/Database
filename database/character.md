@@ -5918,6 +5918,7 @@ example:
 | tutankhamun | 图坦卡蒙 |  |  |
 | tony tony chopper | 乔巴 | 托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。 |  |
 | nancy lee | 南希·李 | 南希·李（日语：ナンシー・リー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/南希·李) |
+| dragon yukano | 龙·由佳乃 | 龙·由佳乃（日语：ドラゴン・ユカノ）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/龙·由佳乃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
