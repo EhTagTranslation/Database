@@ -13027,6 +13027,7 @@ example:
 | honnokimochiya | ホンノキモチヤ |  |  |
 | ebizoridan | えびぞり団 |  |  |
 | junsei chuurenpoutou | 纯正九莲宝灯 |  |  |
+| nagosuzu infinity | ナゴスズ∞ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
