@@ -13400,6 +13400,7 @@ example:
 | shittori bouzu | しっとりボウズ |  |  |
 | tukigi kousuke | 月木浩介（月木） |  | [Fantia](https://fantia.jp/fanclubs/491908) |
 | nakamura taiyaki | 中村たいやき |  | [pixiv](https://www.pixiv.net/users/2239312) [X](https://x.com/tiyk_nkmr/) |
+| payochiyo | ぱょちょ |  | [X](https://x.com/payochiyo) [pixiv](https://www.pixiv.net/users/63438284) |
 
 <!--TEMPLATE:
 |  |  |  |  |
