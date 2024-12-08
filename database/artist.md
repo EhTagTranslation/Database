@@ -4701,7 +4701,7 @@ example:
 | chomo | ちょも |  |  |
 | chonko | ちよんこ |  |  |
 | chou creme | シュークリーム |  |  |
-| chou shippaisaku | 超失敗作 |  |  |
+| chou shippaisaku | 超失败作 |  |  |
 | chouniku | 超肉 |  |  |
 | chourui | 鳥類 |  |  |
 | chouzetsu yarou | 超絶野朗 |  |  |
