@@ -13403,6 +13403,7 @@ example:
 | payochiyo | ぱょちょ |  | [X](https://x.com/payochiyo) [pixiv](https://www.pixiv.net/users/63438284) |
 | otoduki moduku | 音月もづく |  | [X](https://x.com/otodukunyan) |
 | akisaka yamoka | あきさかやもか |  | [X](https://x.com/yamoyamo18) [pixiv](https://www.pixiv.net/users/380483) |
+| kuma pantsu | くまパンツ |  | [pixiv](https://www.pixiv.net/users/40300723) [X](https://x.com/kumaopantu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
