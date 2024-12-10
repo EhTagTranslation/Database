@@ -13411,6 +13411,7 @@ example:
 | narumieru | なるみえる |  | [X](https://x.com/Narumieru_18) [pixiv](https://www.pixiv.net/users/70067414) |
 | toyasu aina | 十安愛七 |  | [pixiv](https://www.pixiv.net/users/32465500) [X](https://x.com/toyasu_aina) |
 | sinoa | 紫のあ |  | [pixiv](https://www.pixiv.net/users/16939390) [X](https://x.com/sinoa_ster) |
+| xipa | Xipa |  | [pixiv](https://www.pixiv.net/users/75450767) |
 
 <!--TEMPLATE:
 |  |  |  |  |
