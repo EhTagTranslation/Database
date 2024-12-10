@@ -13410,6 +13410,7 @@ example:
 | guts shihan | ガッツ師範 |  | [pixiv](https://www.pixiv.net/users/13670924) [X](https://x.com/guts_pp) |
 | narumieru | なるみえる |  | [X](https://x.com/Narumieru_18) [pixiv](https://www.pixiv.net/users/70067414) |
 | toyasu aina | 十安愛七 |  | [pixiv](https://www.pixiv.net/users/32465500) [X](https://x.com/toyasu_aina) |
+| sinoa | 紫のあ |  | [pixiv](https://www.pixiv.net/users/16939390) [X](https://x.com/sinoa_ster) |
 
 <!--TEMPLATE:
 |  |  |  |  |
