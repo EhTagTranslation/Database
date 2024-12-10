@@ -13406,6 +13406,7 @@ example:
 | kuma pantsu | くまパンツ |  | [pixiv](https://www.pixiv.net/users/40300723) [X](https://x.com/kumaopantu) |
 | sumidumi | スミヅミ |  | [pixiv](https://www.pixiv.net/users/73475097) [X](https://x.com/sumiddu) |
 | kawaguchi ran | 川口蓝 |  | [个人主页](https://ruriiro-special-room.com/)<br>[pixiv](https://www.pixiv.net/users/44656655) |
+| katase nano | かたせなの |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
