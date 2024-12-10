@@ -13408,6 +13408,7 @@ example:
 | kawaguchi ran | 川口蓝 |  | [个人主页](https://ruriiro-special-room.com/)<br>[pixiv](https://www.pixiv.net/users/44656655) |
 | katase nano | かたせなの |  |  |
 | guts shihan | ガッツ師範 |  | [pixiv](https://www.pixiv.net/users/13670924) [X](https://x.com/guts_pp) |
+| narumieru | なるみえる |  | [X](https://x.com/Narumieru_18) [pixiv](https://www.pixiv.net/users/70067414) |
 
 <!--TEMPLATE:
 |  |  |  |  |
