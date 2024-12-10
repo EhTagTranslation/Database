@@ -13407,6 +13407,7 @@ example:
 | sumidumi | スミヅミ |  | [pixiv](https://www.pixiv.net/users/73475097) [X](https://x.com/sumiddu) |
 | kawaguchi ran | 川口蓝 |  | [个人主页](https://ruriiro-special-room.com/)<br>[pixiv](https://www.pixiv.net/users/44656655) |
 | katase nano | かたせなの |  |  |
+| guts shihan | ガッツ師範 |  | [pixiv](https://www.pixiv.net/users/13670924) [X](https://x.com/guts_pp) |
 
 <!--TEMPLATE:
 |  |  |  |  |
