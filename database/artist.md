@@ -4041,7 +4041,7 @@ example:
 | amama | あまま |  |  |
 | amami fuu | 天海ふう |  |  |
 | amami ryouko | あまみりょうこ |  |  |
-| amamiya iria | 雨宮杁亜 |  |  |
+| amamiya iria | 雨宫杁亚 |  |  |
 | amamiya tsumugi | 雨宮ツムギ |  |  |
 | amamiya yuki | 雨宮結鬼 |  |  |
 | amamizu | amamizu |  |  |
