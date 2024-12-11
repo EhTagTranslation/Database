@@ -5139,7 +5139,7 @@ example:
 | fujikawa daichi | 藤川大智 |  |  |
 | fujikawa riko | 藤川梨子 |  |  |
 | fujikawa satoshi | 不二河聡 |  |  |
-| fujiko | ふじこ |  |  |
+| fujiko | ふじ子 |  |  |
 | fujiku yuima | 藤久ゆいま |  |  |
 | fujikura ryune | 藤倉琉音 |  |  |
 | fujimaru arikui | ふぢまるありくい |  |  |
