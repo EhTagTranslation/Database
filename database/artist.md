@@ -13414,6 +13414,7 @@ example:
 | xipa | Xipa |  | [pixiv](https://www.pixiv.net/users/75450767) |
 | serei teru | せれいてる |  |  |
 | azumaya yukiko | アズマヤユキコ |  |  |
+| hamaguchi mitama | 滨口味たま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
