@@ -13416,6 +13416,7 @@ example:
 | azumaya yukiko | アズマヤユキコ |  |  |
 | hamaguchi mitama | 滨口味たま |  |  |
 | kirinama | きりなま |  |  |
+| magurono yukinao | スタンダードアザラシ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
