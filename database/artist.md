@@ -13415,6 +13415,7 @@ example:
 | serei teru | せれいてる |  |  |
 | azumaya yukiko | アズマヤユキコ |  |  |
 | hamaguchi mitama | 滨口味たま |  |  |
+| kirinama | きりなま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
