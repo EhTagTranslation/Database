@@ -13413,6 +13413,7 @@ example:
 | sinoa | 紫のあ |  | [pixiv](https://www.pixiv.net/users/16939390) [X](https://x.com/sinoa_ster) |
 | xipa | Xipa |  | [pixiv](https://www.pixiv.net/users/75450767) |
 | serei teru | せれいてる |  |  |
+| azumaya yukiko | アズマヤユキコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
