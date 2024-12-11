@@ -13417,6 +13417,7 @@ example:
 | hamaguchi mitama | 滨口味たま |  |  |
 | kirinama | きりなま |  |  |
 | magurono yukinao | スタンダードアザラシ |  |  |
+| sangai | 算涯 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
