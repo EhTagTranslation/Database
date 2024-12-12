@@ -13418,7 +13418,7 @@ example:
 | kirinama | きりなま |  |  |
 | magurono yukinao | スタンダードアザラシ |  |  |
 | sangai | 算涯 |  |  |
-| super nagoyaka | すーぱーなごやか |  |  |
+| super nagoyaka | すーぱーなごやか |  | [pixiv](https://www.pixiv.net/users/10490394) |
 
 <!--TEMPLATE:
 |  |  |  |  |
