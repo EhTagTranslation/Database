@@ -13032,6 +13032,7 @@ example:
 | toukarachi | とうからち |  | [pixiv](https://www.pixiv.net/users/92716427) [X](https://x.com/toukarachi_10) |
 | himegoto jukujo | ひめごと熟女 |  |  |
 | tiga. | てぃが。 |  |  |
+| sonna no ato no matsuri ja nai desu ka | そんなのあとの祭りじゃないですか |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
