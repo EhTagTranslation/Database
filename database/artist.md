@@ -13420,6 +13420,7 @@ example:
 | sangai | 算涯 |  |  |
 | super nagoyaka | すーぱーなごやか |  | [pixiv](https://www.pixiv.net/users/10490394) |
 | morigami | 森神 |  |  |
+| syroh | Syroh |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
