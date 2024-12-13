@@ -4239,7 +4239,7 @@ example:
 | arisaka ako | 有坂あこ |  |  |
 | arisato natsuki | ありさと奈月 |  |  |
 | arisawa masaharu | 有沢柾春 |  |  |
-| arisue tsukasa | 有末つかさ |  |  |
+| arisue tsukasa | 有末司/有末つかさ |  |  |
 | ariyas honda | 本田有保 |  |  |
 | ariyoshi gen | 蟻吉げん |  |  |
 | ark waver | あるくでんぱ |  |  |
