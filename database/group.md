@@ -13034,6 +13034,7 @@ example:
 | tiga. | てぃが。 |  |  |
 | sonna no ato no matsuri ja nai desu ka | そんなのあとの祭りじゃないですか |  |  |
 | ouun | 桜雲 |  |  |
+| nekome koi | 猫目恋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
