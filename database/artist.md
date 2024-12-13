@@ -13421,6 +13421,7 @@ example:
 | super nagoyaka | すーぱーなごやか |  | [pixiv](https://www.pixiv.net/users/10490394) |
 | morigami | 森神 |  |  |
 | syroh | Syroh |  |  |
+| haduki gyokuto | 叶月玉兔/葉月玉兎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
