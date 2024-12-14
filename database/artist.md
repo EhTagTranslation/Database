@@ -13424,6 +13424,7 @@ example:
 | haduki gyokuto | 叶月玉兔/葉月玉兎 |  |  |
 | uyuki | 卯雪 |  | [pixiv](https://www.pixiv.net/users/600356) [X](https://x.com/uyuki) |
 | moeyama p-man | 萌山ぴーまん |  |  |
+| drasdr7513 | 龍龍 |  | [X](https://x.com/Drasdr7513) [pixiv](https://www.pixiv.net/users/22563791) |
 
 <!--TEMPLATE:
 |  |  |  |  |
