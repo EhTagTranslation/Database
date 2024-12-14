@@ -4835,7 +4835,7 @@ example:
 | vsk-94 | VSK-94 | `p:girls frontline` | [https://www.gfwiki.org/w/VSK-94](https://www.gfwiki.org/w/VSK-94) |
 | g11 | G11 \| 米什缇 | `p:girls frontline`<br>![](https://gfwiki.org/images/e/ee/Pic_G11Mod_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_MishtySSR.png) | [少前百科GFwiki](https://www.gfwiki.org/w/G11)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/MishtySSR) |
 | desert eagle | 沙漠之鹰 | `p:girls frontline` | [https://www.gfwiki.org/w/沙漠之鹰](https://www.gfwiki.org/w/沙漠之鹰) |
-| ump9 | UMP9 \| 莱娜 | `p:girls frontline`<br>![](https://img.moegirl.org.cn/common/thumb/e/e2/Pic_UMP9.png/1000px-Pic_UMP9.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_LennaSSR.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:UMP9)<br>[少前百科GFwiki](https://www.gfwiki.org/w/UMP9)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/LennaSSR) |
+| ump9 | UMP9 \| 莱娜 | `p:girls frontline`<br>![](https://img.moegirl.org.cn/common/thumb/e/e2/Pic_UMP9.png/1000px-Pic_UMP9.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_LennaSSR.png)<br>猫咪：怪盗 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:UMP9)<br>[少前百科GFwiki](https://www.gfwiki.org/w/UMP9)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/LennaSSR) |
 | tar-21 | TAR-21 | `p:girls frontline` | [https://www.gfwiki.org/w/TAR-21](https://www.gfwiki.org/w/TAR-21) |
 | aa-12 | AA-12 | `p:girls frontline` | [https://www.gfwiki.org/w/AA-12](https://www.gfwiki.org/w/AA-12) |
 | mk23 | Mk23 | `p:girls frontline` | [https://www.gfwiki.org/w/Mk23](https://www.gfwiki.org/w/Mk23) |
