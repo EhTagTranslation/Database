@@ -13427,6 +13427,7 @@ example:
 | drasdr7513 | 龍龍 |  | [X](https://x.com/Drasdr7513) [pixiv](https://www.pixiv.net/users/22563791) |
 | arayuki | 沐雪Arayuki |  |  |
 | mashiko | ましこ |  |  |
+| nanahara mitsuru | 七原みつる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
