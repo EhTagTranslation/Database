@@ -13423,6 +13423,7 @@ example:
 | syroh | Syroh |  |  |
 | haduki gyokuto | 叶月玉兔/葉月玉兎 |  |  |
 | uyuki | 卯雪 |  | [pixiv](https://www.pixiv.net/users/600356) [X](https://x.com/uyuki) |
+| moeyama p-man | 萌山ぴーまん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
