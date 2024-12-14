@@ -13037,6 +13037,7 @@ example:
 | nekome koi | 猫目恋 |  |  |
 | momoiro onsen | 桃色温泉 |  |  |
 | studio macaron | studioマカロン |  |  |
+| longlong de cangku | 龍龍的仓库 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
