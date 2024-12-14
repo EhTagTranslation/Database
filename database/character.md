@@ -4891,7 +4891,7 @@ example:
 | mp5 | MP5 \| 佩莉 | `p:girls frontline`<br><br>少女前线2:追放<br>佩莉 | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
 | ro635 | RO635 | `p:girls frontline` | [http://www.gfwiki.org/w/RO635](http://www.gfwiki.org/w/RO635) |
 | skorpion | 蝎式 | `p:girls frontline` | [http://www.gfwiki.org/w/蝎式](http://www.gfwiki.org/w/蝎式) |
-| mp7 | MP7 \| 奇塔 | `p:girls frontline`<br>![](https://gfwiki.org/images/0/09/Pic_MP7_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_CheetaSR.png) | [少前百科GFwiki](http://www.gfwiki.org/w/MP7)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/CheetaSR) |
+| mp7 | MP7 \| 奇塔 | `p:girls frontline`<br>![](https://gfwiki.org/images/0/09/Pic_MP7_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_CheetaSR.png)<br>猫咪：发明家 | [少前百科GFwiki](http://www.gfwiki.org/w/MP7)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/CheetaSR) |
 | sten mkii | 司登MkⅡ | `p:girls frontline` | [http://www.gfwiki.org/w/司登MkⅡ](http://www.gfwiki.org/w/司登MkⅡ) |
 | beretta model 38 | 伯莱塔38型 | `p:girls frontline` | [http://www.gfwiki.org/w/伯莱塔38型](http://www.gfwiki.org/w/伯莱塔38型) |
 | micro uzi | 微型乌兹 | `p:girls frontline` | [http://www.gfwiki.org/w/微型乌兹](http://www.gfwiki.org/w/微型乌兹) |
