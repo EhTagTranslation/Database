@@ -4885,7 +4885,7 @@ example:
 | glock 17 | 格洛克17 | `p:girls frontline` | [http://www.gfwiki.org/w/格洛克17](http://www.gfwiki.org/w/格洛克17) |
 | thompson | 汤姆森 | `p:girls frontline` | [http://www.gfwiki.org/w/汤姆森](http://www.gfwiki.org/w/汤姆森) |
 | m3 | M3 | `p:girls frontline` | [http://www.gfwiki.org/w/M3](http://www.gfwiki.org/w/M3) |
-| kriss vector | 维克托 | `p:girls frontline`<br>与`c:vector`应指相同角色 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
+| kriss vector | 维克托 | `p:girls frontline`<br>与`c:vector`应指相同角色<br>少女前线2：追放<br>猫咪：鸿运 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | vector | 维克托 | `p:girls frontline`<br>与`c:kriss vector`应指相同角色<br>少女前线2：追放<br>猫咪：鸿运 | [http://www.gfwiki.org/w/维克托](http://www.gfwiki.org/w/维克托) |
 | mp40 | MP40 | `p:girls frontline` | [http://www.gfwiki.org/w/MP40](http://www.gfwiki.org/w/MP40) |
 | mp5 | MP5 \| 佩莉 | `p:girls frontline`<br><br>少女前线2:追放<br>佩莉 | [http://www.gfwiki.org/w/MP5](http://www.gfwiki.org/w/MP5) |
