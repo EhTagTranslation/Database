@@ -4862,7 +4862,7 @@ example:
 | mauser c96 | C96 | `p:girls frontline` | [https://www.gfwiki.org/w/C96](https://www.gfwiki.org/w/C96) |
 | m37 | M37 | `p:girls frontline` | [https://www.gfwiki.org/w/M37](https://www.gfwiki.org/w/M37) |
 | mac-10 | MAC-10 | `p:girls frontline` | [https://www.gfwiki.org/w/MAC-10](https://www.gfwiki.org/w/MAC-10) |
-| ppsh-41 | PPSh-41 \| 波波沙 | `p:girls frontline`<br>![](https://gfwiki.org/images/9/92/Pic_PPsh41Mod_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_PapashaSSR.png) | [少前百科GFwiki](https://www.gfwiki.org/w/PPSh-41)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/PapashaSSR) |
+| ppsh-41 | PPSh-41 \| 波波沙 | `p:girls frontline`<br>![](https://gfwiki.org/images/9/92/Pic_PPsh41Mod_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_PapashaSSR.png)<br>猫咪：心心 | [少前百科GFwiki](https://www.gfwiki.org/w/PPSh-41)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/PapashaSSR) |
 | pps-43 | PPS-43 | `p:girls frontline` | [https://www.gfwiki.org/w/PPS-43](https://www.gfwiki.org/w/PPS-43) |
 | pp-90 | PP-90 \| 乌琪 | `p:girls frontline`<br><br>少女前线2:追放<br>乌琪即将登场 | [https://www.gfwiki.org/w/PP-90](https://www.gfwiki.org/w/PP-90) |
 | thunder | 雷电 | `p:girls frontline` | [https://www.gfwiki.org/w/雷电](https://www.gfwiki.org/w/雷电) |
