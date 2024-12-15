@@ -3537,7 +3537,7 @@ example:
 | betm | 杯面 |  | [pixiv](https://www.pixiv.net/users/3110062)  [X](https://x.com/beitemian) [微博](https://weibo.com/5657120464) |
 | bttn | bttn | ![头像](https://pbs.twimg.com/profile_images/1442118739424546820/400LyRPk_200x200.jpg) | [pixiv](https://www.pixiv.net/users/4606746) [X](https://x.com/batsusuke_x) [哔哩哔哩](https://space.bilibili.com/549459834/dynamic) |
 | hao | はお | ![头像](https://pbs.twimg.com/profile_images/1518251950755958784/zC52J_Xw_400x400.jpg) | [pixiv](https://www.pixiv.net/users/54370838) [X](https://x.com/haozz_) |
-| wool | うーる |  | [pixiv](https://www.pixiv.net/users/25813488) [X](https://x.com/wool_mint) |
+| wool | うーる |  | [pixiv](https://www.pixiv.net/users/25813488) [X](https://x.com/wool_forest7) |
 | dainyu | 代入 |  | [X](https://x.com/dainyudougumo) [pixiv](https://www.pixiv.net/users/2179140) |
 | koshino | こしの |  |  |
 | haiki | はいき |  | [X](https://x.com/haiki396g) [pixiv](https://www.pixiv.net/users/1656135) |
