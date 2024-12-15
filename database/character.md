@@ -5926,6 +5926,7 @@ example:
 | ajani goldmane | 金鬃阿耶尼 |  |  |
 | ink-eyes | 墨目 | 万智牌角色 |  |
 | liliana vess | 茜卓纳拉 |  |  |
+| chandra nalaar | 茜卓纳拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
