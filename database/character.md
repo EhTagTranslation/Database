@@ -5923,6 +5923,7 @@ example:
 | cz75 | CZ75 \| 绯 | `p:girls frontline`<br>少女前线2：追放<br>猫咪：小救星 |  |
 | yuuko kanoe | 庚夕子 |  |  |
 | hana suzuki | 铃木羽那 | 铃木羽那（日语：鈴木（すずき） 羽那（はな））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的绝对纯白天然撩偶像。 | [萌娘百科](https://zh.moegirl.org.cn/铃木羽那) |
+| ajani goldmane | 金鬃阿耶尼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
