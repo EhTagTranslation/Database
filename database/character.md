@@ -5927,6 +5927,7 @@ example:
 | ink-eyes | 墨目 | 万智牌角色 |  |
 | liliana vess | 莉莲娜维斯 |  |  |
 | chandra nalaar | 茜卓纳拉 |  |  |
+| nissa revane | 妮莎瑞文 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
