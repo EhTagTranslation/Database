@@ -5618,7 +5618,7 @@ example:
 | hash | hash |  |  |
 | hashi cube | 土師キューブ |  |  |
 | hashiba yachi | 端葉やち |  |  |
-| hashikure | はしくれ |  |  |
+| hashikure | はしくれ |  | [X](https://x.com/kirehashi_89) |
 | hashimo yuki | 羽霜ゆき |  |  |
 | hashimoto | 橋本 |  |  |
 | hashinoha | はしのは |  |  |
