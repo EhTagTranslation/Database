@@ -2323,6 +2323,7 @@ example:
 | gyakuten majo saiban | 逆转魔女裁判 |  |  |
 | luminous witches | 光辉魔女 |  |  |
 | ninja slayer | 忍者杀手 | 《忍者杀手》（英语：Ninja Slayer，日语：ニンジャスレイヤー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的一部赛博朋克忍者动作小说。 | [萌娘百科](https://zh.moegirl.org.cn/忍者杀手) |
+| magic the gathering | 万智牌 | 《万智牌》（Magic: The Gathering）是由数学博士理查德·加菲设计的世界首款集换式卡牌游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
