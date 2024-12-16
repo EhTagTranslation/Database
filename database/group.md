@@ -2204,7 +2204,7 @@ example:
 | zombie to yukaina nakamatachi | ぞんびと愉快な仲間たち |  |  |
 | anmitsuyomogitei | あんみつよもぎ亭 |  |  |
 | golden complex | 金色complex |  |  |
-| kannko bokujyo | 缶子牧場 |  | [pixiv](https://www.pixiv.net/users/8307536) |
+| kannko bokujyo | 缶子牧场 |  | [pixiv](https://www.pixiv.net/users/8307536) |
 | sencyairo | sencyairo |  |  |
 | himeya | 姫屋 |  |  |
 | doanobu | どあのぶ |  |  |
