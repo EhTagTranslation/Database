@@ -13428,6 +13428,7 @@ example:
 | arayuki | 沐雪Arayuki |  |  |
 | mashiko | ましこ |  |  |
 | nanahara mitsuru | 七原みつる |  |  |
+| osanai nii | 小山内にい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
