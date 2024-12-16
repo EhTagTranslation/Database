@@ -13432,6 +13432,7 @@ example:
 | evan yang | Evan☆揚 |  |  |
 | evanyi | EVANYI |  |  |
 | utsunomiya tsumire | 宇都宮つみれ |  |  |
+| shikimi bibi | 志木見ビビ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
