@@ -13415,7 +13415,7 @@ example:
 | serei teru | せれいてる |  |  |
 | azumaya yukiko | アズマヤユキコ |  |  |
 | hamaguchi mitama | 滨口味たま |  |  |
-| kirinama | きりなま |  |  |
+| kirinama | 桐生 | 别名：きりなま |  |
 | magurono yukinao | スタンダードアザラシ |  |  |
 | sangai | 算涯 |  |  |
 | super nagoyaka | すーぱーなごやか |  | [pixiv](https://www.pixiv.net/users/10490394) |
