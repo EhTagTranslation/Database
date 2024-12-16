@@ -13038,6 +13038,7 @@ example:
 | momoiro onsen | 桃色温泉 |  |  |
 | studio macaron | studioマカロン |  |  |
 | longlong de cangku | 龍龍的仓库 |  |  |
+| nounai hokanko | 脑内补完库 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
