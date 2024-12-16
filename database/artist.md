@@ -13040,7 +13040,7 @@ example:
 | akosuke | あこ助 |  | [pixiv](https://www.pixiv.net/users/2626917) [X](https://x.com/akokotoliver) |
 | 38 | 38 |  | [pixiv](https://www.pixiv.net/users/30570055) [X](https://x.com/thirty8ght) |
 | starraisins | 星レーズン |  |  |
-| bef | お肉が食べたい午前二時 |  |  |
+| bef | べふ |  |  |
 | mizushima irohasu | 水嶋イロハス |  |  |
 | wolf ameno | 雨野うるふ |  |  |
 | hiiragi hiiro | ひいらぎひろ |  |  |
