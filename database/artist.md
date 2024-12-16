@@ -13431,6 +13431,7 @@ example:
 | osanai nii | 小山内にい |  |  |
 | evan yang | Evan☆揚 |  |  |
 | evanyi | EVANYI |  |  |
+| utsunomiya tsumire | 宇都宮つみれ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
