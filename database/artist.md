@@ -13429,6 +13429,7 @@ example:
 | mashiko | ましこ |  |  |
 | nanahara mitsuru | 七原みつる |  |  |
 | osanai nii | 小山内にい |  |  |
+| evan yang | Evan☆揚 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
