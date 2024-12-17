@@ -13433,6 +13433,7 @@ example:
 | evanyi | EVANYI |  |  |
 | utsunomiya tsumire | 宇都宮つみれ |  |  |
 | shikimi bibi | 志木見ビビ |  |  |
+| jyt | JYT/绝缘体 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
