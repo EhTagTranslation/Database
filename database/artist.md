@@ -13435,6 +13435,7 @@ example:
 | shikimi bibi | 志木見ビビ |  |  |
 | jyt | JYT/绝缘体 |  |  |
 | mizuno yun | 水野 |  | [X](https://x.com/mizuno_yun) [pixiv](https://www.pixiv.net/users/132763) |
+| anayama | 穴山 |  | [X](https://x.com/ana3rdo) [pixiv](https://www.pixiv.net/users/1156793) |
 
 <!--TEMPLATE:
 |  |  |  |  |
