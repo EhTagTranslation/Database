@@ -13434,6 +13434,7 @@ example:
 | utsunomiya tsumire | 宇都宮つみれ |  |  |
 | shikimi bibi | 志木見ビビ |  |  |
 | jyt | JYT/绝缘体 |  |  |
+| mizuno yun | 水野 |  | [X](https://x.com/mizuno_yun) [pixiv](https://www.pixiv.net/users/132763) |
 
 <!--TEMPLATE:
 |  |  |  |  |
