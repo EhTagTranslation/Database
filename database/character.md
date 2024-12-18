@@ -5938,6 +5938,7 @@ example:
 | delia ketchum | 花子 | 日语：ハナコ<br>英语：Delia Ketchum<br>《宝可梦系列》的登场角色，小智的妈妈。 |  |
 | satsuki kyougoku | 京极皋月 | 日语：京極 サツキ<br>《蔚蓝档案》及其衍生作品中的登场角色。 |  |
 | lisia | 琉琪亚 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/琉琪亞_ORAS.png/280px-琉琪亞_ORAS.png)<br>日语：ルチア<br>游戏《宝可梦系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/琉琪亚) |
+| coral | 珊瑚 | 日语：サンゴ<br>《宝可梦系列》及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
