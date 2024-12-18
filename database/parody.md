@@ -2325,6 +2325,7 @@ example:
 | ninja slayer | 忍者杀手 | 《忍者杀手》（英语：Ninja Slayer，日语：ニンジャスレイヤー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的一部赛博朋克忍者动作小说。 | [萌娘百科](https://zh.moegirl.org.cn/忍者杀手) |
 | magic the gathering | 万智牌 | 《万智牌》（Magic: The Gathering）是由数学博士理查德·加菲设计的世界首款集换式卡牌游戏。 |  |
 | silent hill | 寂静岭 | 科乐美发行的惊悚游戏系列 | [维基百科](https://zh.wikipedia.org/wiki/寂静岭系列) |
+| kaii to otome to kamikakushi | 怪异与少女与神隐 | 日语：怪異と乙女と神隠し<br>ぬじま创作的漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/怪异与少女与神隐) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
