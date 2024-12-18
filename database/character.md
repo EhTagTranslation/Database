@@ -5936,6 +5936,7 @@ example:
 | carmine | 丹瑜 | ![](https://img.moegirl.org.cn/common/f/fd/Carmine_SV.png)<br>日语：ゼイユ<br>英语：Carmine<br>《宝可梦系列》的登场角色。<br>《宝可梦 朱／紫》DLC《零之秘宝》中初次登场。<br>蓝莓学园的在校生。<br>性格倔强、略微任性。<br>与弟弟乌栗来自北上乡。<br>拙于表达但总是关心着弟弟。<br>有着黑色长发，内层为红发的特征。<br>最初对于来自其他地区来的人，会较为冷漠。 | [萌娘百科](https://zh.moegirl.org.cn/丹瑜) |
 | dendra | 凰檗 | 日语：キハダ<br>英语：Dendra<br>《宝可梦系列》的登场角色。<br>《宝可梦 朱／紫》中初次登场，橘子学院／葡萄学院的对战学老师。<br>称呼主角为「转学生」。<br>喜欢的属性是肌肉结实的格斗属性。<br>兴趣是练肌肉。<br>和莉普是从小就认识的朋友。 | [萌娘百科](https://zh.moegirl.org.cn/凰檗) |
 | delia ketchum | 花子 | 日语：ハナコ<br>英语：Delia Ketchum<br>《宝可梦系列》的登场角色，小智的妈妈。 |  |
+| satsuki kyougoku | 京极皋月 | 日语：京極 サツキ<br>《蔚蓝档案》及其衍生作品中的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
