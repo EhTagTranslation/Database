@@ -5535,7 +5535,7 @@ example:
 | kindred | 千珏 | 千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园，而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。至于是哪一面，完全出自个人的抉择。 | [萌娘百科](https://zh.moegirl.org.cn/千珏) |
 | jane doe | 简·杜 | 简·杜是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/c2/88/c2886f518c9b47c97ce4f07e274c32c1c70f5064-3379261-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/简·杜) |
 | finana ryugu | 龍宮Finana |  | [萌娘百科](https://zh.moegirl.org.cn/龙宫Finana) |
-| poplar taneshima | 種島白楊 |  | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
+| poplar taneshima | 种岛白杨 | 種島ぽぷら（たねしま　ぽぷら）<br>《迷糊餐厅》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
 | saki hanami | 花海咲季 | 花海咲季是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a0/花海咲季_1st_Single「Fighting_My_Way」.jpg/800px-花海咲季_1st_Single「Fighting_My_Way」.jpg) | [萌娘百科](https://zh.moegirl.org.cn/花海咲季) |
 | umika satohama | 里浜海香 | 所属作品：`p:blue archive` |  |
 | spas-12 | SPAS-12 \| 塞布丽娜 | `p:girls frontline`<br>![](https://gfwiki.org/images/a/ab/Pic_SPAS12_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_SabrinaSSR.png)<br>猫咪：阿芙佳朵，配饰：红色系带 | [少前百科GFwiki](https://gfwiki.org/w/SPAS-12)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/SabrinaSSR) |
