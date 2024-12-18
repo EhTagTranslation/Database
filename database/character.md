@@ -5930,6 +5930,7 @@ example:
 | nissa revane | 妮莎瑞文 |  |  |
 | the fourth sister | 四姐 | ![四姐](https://img1.gamersky.com/upimg/pic/2024/08/21/202408211819228255_small.jpg)<br>电子游戏《黑神话：悟空》中盘丝岭区域的蜘蛛精，紫蛛儿的四女 | [悟空wiki](https://wiki.biligame.com/wukong/四姐) |
 | owari | 尾张（鳂） | ![尾张](https://i.pixiv.cat/img-original/img/2023/12/11/20/25/45/114143756_p0.jpg)<br>《碧蓝航线》及其衍生作品的登场角色，原型是旧日本帝国海军的纪伊级战列舰2号舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:尾张) |
+| renee costa | 蕾涅·科斯塔 | 《机动战士高达 水星的魔女》登场角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
