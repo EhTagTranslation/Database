@@ -5940,6 +5940,7 @@ example:
 | lisia | 琉琪亚 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/琉琪亞_ORAS.png/280px-琉琪亞_ORAS.png)<br>日语：ルチア<br>游戏《宝可梦系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/琉琪亚) |
 | coral | 珊瑚 | 日语：サンゴ<br>《宝可梦系列》及其衍生作品的登场角色。 |  |
 | lacey | 紫竽 | 日文︰タロ<br>英文︰Lacey<br>《宝可梦系列》及其衍生作品的登场角色。 |  |
+| sumireko ogawa | 绪川堇子 | 日语：緒川（おがわ） 菫子（すみれこ）<br>《怪异与少女与神隐》的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
