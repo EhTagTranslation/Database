@@ -5932,6 +5932,7 @@ example:
 | owari | 尾张（鳂） | ![尾张](https://i.pixiv.cat/img-original/img/2023/12/11/20/25/45/114143756_p0.jpg)<br>《碧蓝航线》及其衍生作品的登场角色，原型是旧日本帝国海军的纪伊级战列舰2号舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:尾张) |
 | renee costa | 蕾涅·科斯塔 | 《机动战士高达 水星的魔女》登场角色 |  |
 | katy | 阿枫 | ![](https://img.moegirl.org.cn/common/5/55/Katy_SV.png)<br>日语：カエデ<br>英语：Katy<br>《宝可梦系列》的登场角色。<br>《宝可梦 朱／紫》中初次登场。<br>帕底亚地区圆模镇的虫属性道馆馆主兼甜点师。<br>有着「与虫相伴甜点师」的称号。<br>经营著派舒蕾·慕滋的店长。 | [萌娘百科](https://zh.moegirl.org.cn/阿枫) |
+| nanako shichigusa | 七千草菜菜子 | 《菜菜子解体诊书》的女主角，16岁女仆兼实习护士。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
