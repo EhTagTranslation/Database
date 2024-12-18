@@ -5928,6 +5928,7 @@ example:
 | liliana vess | 莉莲娜维斯 |  |  |
 | chandra nalaar | 茜卓纳拉 |  |  |
 | nissa revane | 妮莎瑞文 |  |  |
+| the fourth sister | 四姐 | 电子游戏《黑神话：悟空》中盘丝岭区域的蜘蛛精，紫蛛儿的四女 | [悟空wiki](https://wiki.biligame.com/wukong/四姐) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
