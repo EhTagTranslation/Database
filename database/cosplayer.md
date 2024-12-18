@@ -95,7 +95,7 @@ example:
 | cherry neko | 桜桃喵 |  |  |
 | kuuko w | Kuuko W |  | [X](https://x.com/Kuukow002) |
 | luo xiaoli miao | 洛璃LoLiSAMA |  |  |
-| yaokoututu | 咬一口兔娘 |  |  |
+| yaokoututu | 咬一口兔娘 | ![兔娘](https://pbs.twimg.com/profile_images/1820916985120620544/xf5XjSBT_400x400.jpg)<br>中国大陆Coser | [X](https://x.com/Moist_Bunny)<br>[微博](https://weibo.com/u/7815982641) |
 | yuki astra | 雪晴Astra |  | [Instagram](https://www.instagram.com/yukiastra_) [微博](https://weibo.com/u/2389901855) [Gumroad](https://app.gumroad.com/yukiastra) [X](https://x.com/yukiastra) [脸书](https://www.facebook.com/YukiAstra.Official) |
 | niannian d | 念念\_D |  | [微博](https://weibo.com/u/3164968121) |
 | tyouduki maryou | 蝶月真綾 |  |  |
