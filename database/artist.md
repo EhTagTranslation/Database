@@ -13437,6 +13437,7 @@ example:
 | mizuno yun | 水野 |  | [X](https://x.com/mizuno_yun) [pixiv](https://www.pixiv.net/users/132763) |
 | anayama | 穴山 |  | [X](https://x.com/ana3rdo) [pixiv](https://www.pixiv.net/users/1156793) |
 | kotorakku | ことらっく |  |  |
+| parum | Parum |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
