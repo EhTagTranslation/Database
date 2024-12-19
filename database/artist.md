@@ -2651,7 +2651,7 @@ example:
 | inugami kira | 狗神煌 | 枕社元老级画师 | [pixiv](https://www.pixiv.net/users/465146) [X](https://x.com/kilacco) |
 | korie riko | 梱枝莉子 | 梱枝りこ，梱枝，梱妈，梱枝Riko，画风颇具特色。<br>![图](https://ehgt.org/35/21/35212f1608601d540106e384c05389f698cd3952-314854-600-854-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/245242) [X](https://x.com/riko0202) [萌娘百科](https://zh.moegirl.org.cn/梱枝莉子) |
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [X](https://x.com/hasuroot) |
-| muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [X](https://x.com/muku_apupop) |
+| muku | muku/ぎゅうひもち |  | [pixiv](https://www.pixiv.net/users/1592600) [X](https://x.com/muku_apupop) |
 | kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [X](https://x.com/Trg_AKT) |
 | natsuki yuu | なつきゆう |  | [pixiv](https://www.pixiv.net/users/226893) [X](https://x.com/natsukiyuu) |
 | pan | ぱん |  | [pixiv](https://www.pixiv.net/users/178311) [X](https://x.com/panno_mimi) |
