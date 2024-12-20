@@ -13441,6 +13441,7 @@ example:
 | amano mitara | 甘乃みたら |  |  |
 | huca | huca |  | [pixiv](https://www.pixiv.net/users/16002030) |
 | eploov | EPLOOV |  | [pixiv](https://www.pixiv.net/users/14859534) |
+| izumi makoto | 泉水真琴 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
