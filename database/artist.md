@@ -13438,6 +13438,7 @@ example:
 | anayama | 穴山 |  | [X](https://x.com/ana3rdo) [pixiv](https://www.pixiv.net/users/1156793) |
 | kotorakku | ことらっく |  |  |
 | parum | Parum |  |  |
+| amano mitara | 甘乃みたら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
