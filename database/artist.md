@@ -13439,6 +13439,7 @@ example:
 | kotorakku | ことらっく |  |  |
 | parum | Parum |  |  |
 | amano mitara | 甘乃みたら |  |  |
+| huca | huca |  | [pixiv](https://www.pixiv.net/users/16002030) |
 
 <!--TEMPLATE:
 |  |  |  |  |
