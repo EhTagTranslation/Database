@@ -13442,6 +13442,7 @@ example:
 | huca | huca |  | [pixiv](https://www.pixiv.net/users/16002030) |
 | eploov | EPLOOV |  | [pixiv](https://www.pixiv.net/users/14859534) |
 | izumi makoto | 泉水真琴 |  |  |
+| kawai maria | 河井まりあ/河井玛丽亚 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
