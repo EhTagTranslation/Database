@@ -13042,6 +13042,7 @@ example:
 | tera stellar | Tera Stellar |  |  |
 | anayama radio | 穴山ラジオ |  |  |
 | maskdo | マスク堂 |  |  |
+| eat-in | いーといん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
