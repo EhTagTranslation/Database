@@ -288,7 +288,7 @@ example:
 | wa | WA |  |  |
 | satou kuuki | 左藤空气 |  |  |
 | kouzuki hajime | 香月一花 |  |  |
-| furukawa remon | 古川れもん/古川柠檬 |  |  |
+| furukawa remon | 古川れもん/古川柠檬 | 女性原画师<br>Furukawa Remon, born February 4th, is a Japanese adult game artist from Saitama, Japan. |  |
 | nukunuku batten | ぬくぬくばってん |  |  |
 | sadokko | さどっこ |  |  |
 | izumi | 和泉 |  |  |
