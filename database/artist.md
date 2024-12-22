@@ -13445,6 +13445,7 @@ example:
 | kawai maria | 河井まりあ/河井玛丽亚 |  |  |
 | mochizuki kei | 望月けい |  | [pixiv](https://www.pixiv.net/users/1193008)<br>[pixiv](https://www.pixiv.net/fanbox/creator/1193008)<br>[http://www.nicovideo.jp/mylist/39722981](http://www.nicovideo.jp/mylist/39722981) |
 | campyo master | かんぴょ うマスター/观表大师 |  |  |
+| mero | めろ/mero |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
