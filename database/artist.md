@@ -13447,6 +13447,7 @@ example:
 | campyo master | かんぴょ うマスター/观表大师 |  |  |
 | mero | めろ/mero |  |  |
 | amisawa kenkyuujo | 網澤研究所 |  |  |
+| alicegawa chisato | 有栖川千里 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
