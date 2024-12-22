@@ -113,7 +113,7 @@ example:
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org.cn/Feng) [官方网站](http://www.feng.jp/) (\*\*) |
 | frontwing | FrontWing | FrontWing是一家于2000年成立的日本成人游戏公司。<br>《魔界天使》系列<br>![图](https://ehgt.org/e9/5c/e95c9f224df3b10a1b4abdcb80abdbf8f99d696d-162659-640-480-jpg_l.jpg)![图](https://ehgt.org/c8/b0/c8b0c1166971d2a52ee4ad822b925a3ad3817eda-91664-800-600-jpg_l.jpg)<br>灰色系列<br>![图](https://ehgt.org/db/24/db244a8ef416fe798d52fdeb41255c6b531b0ca6-60857-352-500-jpg_l.jpg)![图](https://ehgt.org/7f/29/7f298694d6119bd657231034cd03b8f7c670a99a-113136-320-460-jpg_l.jpg)![图](https://ehgt.org/43/53/435307984b8e29fe0a604a7de2a2b9f990c3baf0-110607-320-460-jpg_l.jpg) | [官方网站](http://frontwing.jp/) |
 | atelier d | Atelier D |  |  |
-| atelier kaguya | Atelier KAGUYA |  |  |
+| atelier kaguya | Atelier KAGUYA/竹子社 |  |  |
 | atelier kaguya honky-tonk pumpkin | Atelier KAGUYA Honky-Tonk Pumpkin |  |  |
 | atelier kaguya team gassa-q | Atelier KAGUYA TEAM Gassa-Q |  |  |
 | atelier kaguya team heartbeat | Atelier KAGUYA TEAM HEARTBEAT |  |  |
