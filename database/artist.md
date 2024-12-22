@@ -288,7 +288,7 @@ example:
 | wa | WA |  |  |
 | satou kuuki | 左藤空气 |  |  |
 | kouzuki hajime | 香月一花 |  |  |
-| furukawa remon | 古川れもん |  |  |
+| furukawa remon | 古川れもん/古川柠檬 |  |  |
 | nukunuku batten | ぬくぬくばってん |  |  |
 | sadokko | さどっこ |  |  |
 | izumi | 和泉 |  |  |
