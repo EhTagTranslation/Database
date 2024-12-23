@@ -5947,6 +5947,7 @@ example:
 | haruki ikuta | 郁田阳希 | 郁田阳希（日语：郁田（いくた） はるき）是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的软绵绵Colorful偶像。 | [萌娘百科](https://zh.moegirl.org.cn/郁田阳希) |
 | hiyoko saionji | 西园寺日寄子 |  | [萌娘百科](https://zh.moegirl.org.cn/西园寺日寄子) |
 | kazuichi soda | 小泉真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/小泉真昼) |
+| mahiru koizumi | 小泉真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/小泉真昼) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
