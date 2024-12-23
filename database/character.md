@@ -5951,6 +5951,7 @@ example:
 | sonia nevermind | 索尼娅·内瓦曼德 |  | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) |
 | teruteru hanamura | 花村辉辉 |  | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) |
 | mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
+| shiona | シオナ(Harmonia) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
