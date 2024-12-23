@@ -2327,6 +2327,7 @@ example:
 | silent hill | 寂静岭 | 科乐美发行的惊悚游戏系列 | [维基百科](https://zh.wikipedia.org/wiki/寂静岭系列) |
 | kaii to otome to kamikakushi | 怪异与少女与神隐 | 日语：怪異と乙女と神隠し<br>ぬじま创作的漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/怪异与少女与神隐) |
 | koi iro marriage | 恋色Marriage |  |  |
+| harmonia | Harmonia |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
