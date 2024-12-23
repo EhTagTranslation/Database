@@ -13044,6 +13044,7 @@ example:
 | maskdo | マスク堂 |  |  |
 | eat-in | いーといん |  |  |
 | amisawa kenkyuujo | 網澤研究所 |  |  |
+| kokuchou | 黑鸟/黒鳥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
