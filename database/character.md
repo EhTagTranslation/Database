@@ -5949,6 +5949,7 @@ example:
 | kazuichi soda | 左右田和一 |  | [萌娘百科](https://zh.moegirl.org.cn/左右田和一) |
 | mahiru koizumi | 小泉真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/小泉真昼) |
 | sonia nevermind | 索尼娅·内瓦曼德 |  | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) |
+| teruteru hanamura | 花村辉辉 |  | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
