@@ -2447,7 +2447,7 @@ example:
 | tokita alumi | 鴇田アルミ |  |  |
 | poshi | ぽし |  | [pixiv](https://www.pixiv.net/users/8926) [X](https://x.com/hginmoku_poshi) |
 | haguruma | 齿车 |  |  |
-| kanekiyo miwa | 兼清みわ |  |  |
+| kanekiyo miwa | 兼清みわ | 代表作: 仓野家的双子事情，间宫家的五胞胎事情 |  |
 | gayarou | ☆画野朗 |  |  |
 | yashiro seika | 八城惺架 |  | [X](https://x.com/yashiro_seika) [pixiv](https://www.pixiv.net/users/柑橘少女) |
 | tokiwa midori | 常磐绿 |  | [X](https://x.com/amanatsu_mikan7) [pixiv](https://www.pixiv.net/users/5156833) |
