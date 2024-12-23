@@ -484,7 +484,7 @@ example:
 | full high kick | ふるはいきっく |  |  |
 | punipuni doumei | ぷにぷに同盟 |  | [官方网站](http://www2.odn.ne.jp/~crepe/) |
 | sokomono suisou | 底物水槽 |  |  |
-| shiratamaco | しらたまこ |  |  |
+| shiratamaco | しらたまこ/白玉子(白玉社) |  |  |
 | oreteki18kin | 俺的十八禁 |  |  |
 | dl mate | DLメイト |  |  |
 | kaminagi-tei | 神凪邸 |  |  |
