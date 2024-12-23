@@ -5948,6 +5948,7 @@ example:
 | hiyoko saionji | 西园寺日寄子 |  | [萌娘百科](https://zh.moegirl.org.cn/西园寺日寄子) |
 | kazuichi soda | 左右田和一 |  | [萌娘百科](https://zh.moegirl.org.cn/左右田和一) |
 | mahiru koizumi | 小泉真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/小泉真昼) |
+| sonia nevermind | 索尼娅·内瓦曼德 |  | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
