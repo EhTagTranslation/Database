@@ -1509,7 +1509,7 @@ example:
 | irotoridori no sekai | 五彩斑斓的世界 |  | [维基百科](https://zh.wikipedia.org/wiki/五彩斑斕的世界) |
 | tokyo xanadu | 东京迷城 |  |  |
 | terra battle | 地球战争 |  |  |
-| summer pockets | Summer Pockets | 《Summer Pockets》（日语：サマーポケッツ，日语简称：サマポケ，中文名：夏日口袋）是由Key制作的一部游戏。 | [游戏官网](http://key.visualarts.gr.jp/summer/) [萌娘百科](https://zh.moegirl.org.cn/Summer_Pockets) (\*\*) |
+| summer pockets | Summer Pockets/夏日口袋 | 《Summer Pockets》（日语：サマーポケッツ，日语简称：サマポケ，中文名：夏日口袋）是由Key制作的一部游戏。 | [游戏官网](http://key.visualarts.gr.jp/summer/) [萌娘百科](https://zh.moegirl.org.cn/Summer_Pockets) (\*\*) |
 | the tatami galaxy | 四叠半神话大系 |  |  |
 | glitch techs | 电玩先锋 |  |  |
 | the owl house | 猫头鹰魔法社 |  | [萌娘百科](https://zh.moegirl.org.cn/猫头鹰魔法社) |
