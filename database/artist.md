@@ -13454,6 +13454,7 @@ example:
 | hiru-kun no ami | ヒル君の網 |  | [pixiv](https://www.pixiv.net/users/16833855) [X](https://x.com/SHIer_Artworks) |
 | inagaki miiko | 稲垣みいこ |  |  |
 | kimura yuu | キ村由宇 |  |  |
+| yuiragi chikage | 結城ちかげ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
