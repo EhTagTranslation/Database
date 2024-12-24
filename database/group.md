@@ -13048,6 +13048,7 @@ example:
 | smile | スミレ/SMILE |  |  |
 | nyan nyan | 娘娘 |  |  |
 | mosoparadox | 妄想パラドックス |  |  |
+| hidarimigi | ヒダリミギ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
