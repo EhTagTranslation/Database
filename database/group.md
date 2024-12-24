@@ -13046,6 +13046,7 @@ example:
 | amisawa kenkyuujo | 網澤研究所 |  |  |
 | kokuchou | 黑鸟/黒鳥 |  |  |
 | smile | スミレ/SMILE |  |  |
+| nyan nyan | 娘娘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
