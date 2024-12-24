@@ -13456,6 +13456,7 @@ example:
 | kimura yuu | キ村由宇 |  |  |
 | yuiragi chikage | 結城ちかげ |  |  |
 | nitouhen | 二等边 |  |  |
+| okadate imari | 冈馆いまり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
