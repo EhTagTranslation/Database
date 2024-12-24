@@ -13458,6 +13458,7 @@ example:
 | nitouhen | 二等边 |  |  |
 | okadate imari | 冈馆いまり |  |  |
 | hontani kanae | ほんたにかなえ |  |  |
+| toranosuke | とらのすけ/虎之助 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
