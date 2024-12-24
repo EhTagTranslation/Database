@@ -13451,6 +13451,7 @@ example:
 | kamunika | かむにか |  |  |
 | akinoko | AKINOKO. |  |  |
 | togami masaki | 刀神真咲 |  |  |
+| hiru-kun no ami | ヒル君の網 |  | [pixiv](https://www.pixiv.net/users/16833855) [X](https://x.com/SHIer_Artworks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
