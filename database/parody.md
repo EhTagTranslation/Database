@@ -2328,7 +2328,7 @@ example:
 | kaii to otome to kamikakushi | 怪异与少女与神隐 | 日语：怪異と乙女と神隠し<br>ぬじま创作的漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/怪异与少女与神隐) |
 | koi iro marriage | 恋色Marriage |  |  |
 | harmonia | Harmonia |  |  |
-| onii-chan asa made zutto gyutte shite yoru made motto ecchi shite | 哥哥，早上起床之前都要抱紧我哦！/哥哥、早上起床之前要一直抱紧我哦！ | 动漫版封面<br>![妹1](https://s3.aaaaa.io/images/dm/49303f7ca5d1637da92ba50b17526baa.jpg)<br>![妹2](https://s3.aaaaa.io/images/dm/cfd1dcd9dc1f4c85bc320237f8c123c8.jpg)<br>![妹3](https://s3.aaaaa.io/images/dm/170ba7912298fac0e1025d0d32b1ae77.jpg)<br>![妹4](https://s3.aaaaa.io/images/dm/62d745ee79f9c54e3d8ab8ad051a5d83.jpg)<br>游戏截图<br>![妹控狂喜.jpg](https://www.z4a.net/images/2021/07/14/20191227093025480.png) |  |
+| onii-chan asa made zutto gyutte shite yoru made motto ecchi shite | 哥哥，早上起床之前都要抱紧我哦！/哥哥、早上起床之前要一直抱紧我哦！ | Tinkle Position游戏会社<br>Originated from: Galette.<br>Formed by former Galette staff.<br>Suspended development of new games in December 2019 ([http://tinkle-position.com/thanks/](http://tinkle-position.com/thanks/)).<br>游戏封面<br>![妹控狂喜.jpg](https://t.vndb.org/cv/88/92488.jpg)<br>![萝莉控狂喜.jpg](https://t.vndb.org/cv/30/38530.jpg)<br>动漫版封面<br>![妹1](https://s3.aaaaa.io/images/dm/49303f7ca5d1637da92ba50b17526baa.jpg)<br>![妹2](https://s3.aaaaa.io/images/dm/cfd1dcd9dc1f4c85bc320237f8c123c8.jpg)<br>![妹3](https://s3.aaaaa.io/images/dm/170ba7912298fac0e1025d0d32b1ae77.jpg)<br>![妹4](https://s3.aaaaa.io/images/dm/62d745ee79f9c54e3d8ab8ad051a5d83.jpg) | [官网地址](https://vndb.org/p5837)<br>[VNDB](https://vndb.org/p5837)<br>[VNDB](https://vndb.org/v22345)<br>[VNDB](https://vndb.org/v25492) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
