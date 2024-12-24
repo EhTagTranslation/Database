@@ -5952,6 +5952,7 @@ example:
 | teruteru hanamura | 花村辉辉 |  | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) |
 | mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
 | shiona | シオナ(Harmonia) |  |  |
+| yoichi isagi | 洁世一 |  | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
