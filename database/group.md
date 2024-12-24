@@ -13047,6 +13047,7 @@ example:
 | kokuchou | 黑鸟/黒鳥 |  |  |
 | smile | スミレ/SMILE |  |  |
 | nyan nyan | 娘娘 |  |  |
+| mosoparadox | 妄想パラドックス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
