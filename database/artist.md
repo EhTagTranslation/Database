@@ -715,7 +715,7 @@ example:
 | piero | PIえろ |  |  |
 | saida kazuaki | さいだ一明 | 喜欢过膝袜的成人向漫画家。<br>参考标签：`stockings`<br>※注意老师名字中的一横是汉字的“一”，而非长音符号“ー”<br><br>单行本《股ひらいて・腰ふって》<br>![图](# "https://ehgt.org/2f/80/2f8015a046f360ede7f90fb95d4a353139183dcb-379599-1128-1600-jpg_l.jpg") | [X](https://x.com/saida_kazuaki) |
 | sayryu | 性龙 |  |  |
-| tsukasawa | 塚泽 |  |  |
+| tsukasawa | 塚泽 |  | [pixiv](https://www.pixiv.net/users/897293) |
 | yukiguni omaru | 雪國おまる |  |  |
 | asakura mitsuru | 朝仓满 |  |  |
 | hase tsubura | 长谷圆 |  |  |
