@@ -5953,6 +5953,7 @@ example:
 | mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
 | shiona | シオナ(Harmonia) |  |  |
 | yoichi isagi | 洁世一 |  | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
+| kurusu natsume | 来栖夏芽 | 来栖夏芽 （ 日语：来栖夏芽 / くるすなつめKurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
