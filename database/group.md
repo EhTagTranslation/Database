@@ -5881,7 +5881,7 @@ example:
 | hyouketsu mikan | 氷結蜜柑 |  |  |
 | hyper houbokujou | ハイパー放牧場 |  |  |
 | hyper summer wars | ハイパーサマーウォーズ |  |  |
-| hyperiyon | はいぺりよん |  |  |
+| hyperiyon | はいぺりよん(Hyperion) | 代表作(?): 3M -Marionettes manipulate the marionette-<br>而后有画风较平和作品: COLOR OF WHITE<br>S.I.S.T.A.R.S: KISS OF TRINITY 等 |  |
 | hypnotic angel | Hypnotic Angel |  |  |
 | hypnotisms | hypnotisms |  |  |
 | hyspaniplus | HyspaniPlus |  |  |
