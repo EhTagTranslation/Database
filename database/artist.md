@@ -13455,6 +13455,7 @@ example:
 | inagaki miiko | 稲垣みいこ |  |  |
 | kimura yuu | キ村由宇 |  |  |
 | yuiragi chikage | 結城ちかげ |  |  |
+| nitouhen | 二等边 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
