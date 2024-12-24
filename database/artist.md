@@ -13457,6 +13457,7 @@ example:
 | yuiragi chikage | 結城ちかげ |  |  |
 | nitouhen | 二等边 |  |  |
 | okadate imari | 冈馆いまり |  |  |
+| hontani kanae | ほんたにかなえ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
