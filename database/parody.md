@@ -2328,7 +2328,7 @@ example:
 | kaii to otome to kamikakushi | 怪异与少女与神隐 | 日语：怪異と乙女と神隠し<br>ぬじま创作的漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/怪异与少女与神隐) |
 | koi iro marriage | 恋色Marriage |  |  |
 | harmonia | Harmonia |  |  |
-| onii-chan asa made zutto gyutte shite yoru made motto ecchi shite | 哥哥，早上起床之前都要抱紧我哦！ | ![妹控狂喜.jpg](https://www.z4a.net/images/2021/07/14/20191227093025480.png) |  |
+| onii-chan asa made zutto gyutte shite yoru made motto ecchi shite | 哥哥，早上起床之前都要抱紧我哦！/哥哥、早上起床之前要一直抱紧我哦！ | ![妹控狂喜.jpg](https://www.z4a.net/images/2021/07/14/20191227093025480.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
