@@ -13450,6 +13450,7 @@ example:
 | alicegawa chisato | 有栖川千里 |  |  |
 | kamunika | かむにか |  |  |
 | akinoko | AKINOKO. |  |  |
+| togami masaki | 刀神真咲 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
