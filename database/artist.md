@@ -13459,6 +13459,7 @@ example:
 | okadate imari | 冈馆いまり |  |  |
 | hontani kanae | ほんたにかなえ |  |  |
 | toranosuke | とらのすけ/虎之助 |  |  |
+| takashima | 田貸魔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
