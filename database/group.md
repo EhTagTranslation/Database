@@ -898,7 +898,7 @@ example:
 | j.o.n.g. | ジョング |  |  |
 | hitomishiri | ひとみしり |  |  |
 | mieow | Mieow |  |  |
-| kariya | 刈屋 |  |  |
+| kariya | 刈屋 |  | [pixiv](https://www.pixiv.net/users/3992667) |
 | kichiku koubou | 鬼畜工房 |  |  |
 | zettai shoujo | 绝对少女 |  |  |
 | circle roman hikou | サークル浪漫飛行 |  |  |
