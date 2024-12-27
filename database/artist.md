@@ -5202,7 +5202,7 @@ example:
 | fukutoku saori | 福徳紗織 |  |  |
 | fukuzawa yukine | 福沢ゆきね |  |  |
 | fume | fume |  |  |
-| fumi | ふみ |  |  |
+| fumi | ふみー |  |  |
 | fumi haru | ふみはる |  |  |
 | fumicha | 史茶 |  |  |
 | fumihiro | ふみひろ |  |  |
