@@ -987,7 +987,7 @@ example:
 | ichimatsu | いちまつ |  |  |
 | ishikawa shisuke | 石川シスケ |  |  |
 | itou ei | いとうえい |  |  |
-| karma tatsurou | かるま龍狼 |  | [X](https://x.com/tatsuro_karma) [pixiv](https://www.pixiv.net/users/66431071) |
+| karma tatsurou | かるま龙狼 |  | [X](https://x.com/tatsuro_karma) [pixiv](https://www.pixiv.net/users/66431071) |
 | kizuka kazuki | きづかかずき |  | [pixiv](https://www.pixiv.net/users/260287) |
 | koppori nama beer | こっぽり生ビール |  |  |
 | mojarin | もじゃりん |  |  |
