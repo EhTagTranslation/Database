@@ -927,7 +927,7 @@ example:
 | esuke | えーすけ | ![X](https://pbs.twimg.com/profile_images/1855190872461303808/-_RgYIRl_400x400.jpg)<br><br>**作者推特头像**<br><br>comic快乐天作者，擅长描绘眼神迷离、色气的女高中生。至今已出版6册单行本。<br><br>![works](# "https://i.pixiv.cat/img-original/img/2018/03/10/09/44/14/67659504_p0.jpg")![works](# "https://i.pixiv.cat/img-original/img/2019/04/19/21/36/18/74276969_p0.jpg")![works](# "https://i.pixiv.cat/img-original/img/2020/03/13/06/33/38/80079491_p1.jpg")![works](# "https://i.pixiv.cat/img-original/img/2021/07/14/11/15/23/91233604_p0.jpg")<br><br>**单行本** (查看封面需登录[pixiv](https://www.pixiv.net)) | [X](https://x.com/esukebe) [pixiv](https://www.pixiv.net/users/1265845) |
 | gintarou | ぎん太郎 |  |  |
 | hardboiled yoshiko | ハードボイルドよし子 |  |  |
-| hinahara emi | 雛原えみ |  |  |
+| hinahara emi | 雏原えみ |  |  |
 | hitori | 火鸟 |  |  |
 | karasuma yayoi | 乌丸弥生 | ![X](https://pbs.twimg.com/profile_images/1542206326670970880/-EZ123Ts_400x400.jpg)<br><br>**作者推特头像**<br><br>女性同人社团`konoshiro shinko`主笔之一，<br>小学馆里Sunday《正后方的神威》 [HP](https://urasunday.com/title/1218) 连载中。 | [X](https://x.com/myayoi62) [pixiv](https://www.pixiv.net/users/987287) |
 | napata | なぱた |  | [X](https://x.com/okawr) [pixiv](https://www.pixiv.net/users/6757) |
