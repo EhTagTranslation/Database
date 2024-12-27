@@ -12745,7 +12745,7 @@ example:
 | garagara tarou | ガラガラ太郎 |  |  |
 | sorenari no ishi | それなりの石 |  |  |
 | toxic ramen | 劇毒拉麵 | R18G像素画师 | [pixiv](https://www.pixiv.net/users/19013729) |
-| kudaraji hatsuka | 百済児廿日 |  |  |
+| kudaraji hatsuka | 百济儿廿日 |  |  |
 | rim | りむ |  | [pixiv](https://www.pixiv.net/users/64720483) |
 | hinahara hajime | 雛原肇 |  |  |
 | crazy dad | CrazyDad3D |  |  |
