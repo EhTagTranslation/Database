@@ -13461,6 +13461,7 @@ example:
 | toranosuke | とらのすけ/虎之助 |  |  |
 | takashima | 田貸魔 |  |  |
 | croriin | Croriin |  |  |
+| sawatashi yun | さわたしゆん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
