@@ -13462,6 +13462,7 @@ example:
 | takashima | 田貸魔 |  |  |
 | croriin | Croriin |  |  |
 | sawatashi yun | さわたしゆん |  |  |
+| yochi ryota | よちリョウタ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
