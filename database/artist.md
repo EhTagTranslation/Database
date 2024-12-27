@@ -13460,6 +13460,7 @@ example:
 | hontani kanae | ほんたにかなえ |  |  |
 | toranosuke | とらのすけ/虎之助 |  |  |
 | takashima | 田貸魔 |  |  |
+| croriin | Croriin |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
