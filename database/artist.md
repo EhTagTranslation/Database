@@ -13467,6 +13467,7 @@ example:
 | yuunagi seshina | 夕凪セシナ |  |  |
 | kmvt | kmvt |  | [pixiv](https://www.pixiv.net/users/17039192) |
 | umetori uriri | 梅鳥うりり |  |  |
+| fairy ai | ふぇありぃあい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
