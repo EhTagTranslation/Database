@@ -13464,6 +13464,7 @@ example:
 | sawatashi yun | さわたしゆん |  |  |
 | yochi ryota | よちリョウタ |  |  |
 | niliu chahui | 逆流茶会 |  |  |
+| yuunagi seshina | 夕凪セシナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
