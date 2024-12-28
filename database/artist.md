@@ -3000,7 +3000,7 @@ example:
 | kenichi | ケンイチ |  | [X](https://x.com/kenken_kenichi) [pixiv](https://www.pixiv.net/users/477293) |
 | mashu | ましゅー |  | [X](https://x.com/mashu_003) [pixiv](https://www.pixiv.net/users/15305293) |
 | na-ga | Na-Ga |  | [X](https://x.com/iktd13_) |
-| sakurazawa izumi | 桜沢いづみ |  | [X](https://x.com/_sakurazawa_) [pixiv](https://www.pixiv.net/users/125969) |
+| sakurazawa izumi | 樱泽泉/桜沢いづみ |  | [X](https://x.com/_sakurazawa_) [pixiv](https://www.pixiv.net/users/125969) |
 | hinayuki usa | ヒナユキウサ |  | [X](https://x.com/hina0x0) [pixiv](https://www.pixiv.net/users/228997) |
 | amamitu kousuke | 甘蜜こうすけ |  |  |
 | atiki | Aちき |  | [X](https://x.com/atikix) [pixiv](https://www.pixiv.net/users/1655331) |
