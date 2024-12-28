@@ -13049,6 +13049,7 @@ example:
 | nyan nyan | 娘娘 |  |  |
 | mosoparadox | 妄想パラドックス |  |  |
 | hidarimigi | ヒダリミギ |  |  |
+| black lacquer | Black Lacquer |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
