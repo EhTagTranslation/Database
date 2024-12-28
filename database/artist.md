@@ -9787,7 +9787,7 @@ example:
 | saranaru takami | 皿成高味 |  |  |
 | saranoki chikara | 沙羅木力 |  |  |
 | sarashina ryouichi | 更科了一 |  |  |
-| sarfata | さふぁ太 |  |  |
+| sarfata | さふぁ太 |  | [pixiv](https://www.pixiv.net/users/8808588) [X](https://x.com/sarfatation_2) |
 | sarikyou | サリキョウ |  |  |
 | saru | saru |  |  |
 | saru pikkoro | サル・ピッコロ |  |  |
