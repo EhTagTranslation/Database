@@ -3000,7 +3000,7 @@ example:
 | kenichi | ケンイチ |  | [X](https://x.com/kenken_kenichi) [pixiv](https://www.pixiv.net/users/477293) |
 | mashu | ましゅー |  | [X](https://x.com/mashu_003) [pixiv](https://www.pixiv.net/users/15305293) |
 | na-ga | Na-Ga |  | [X](https://x.com/iktd13_) |
-| sakurazawa izumi | 樱泽泉/桜沢いづみ |  | [X](https://x.com/_sakurazawa_) [pixiv](https://www.pixiv.net/users/125969) |
+| sakurazawa izumi | 樱泽泉/桜沢いづみ | ![クドネシリカ封面](https://cdn.myportfolio.com/ebccbaa18a61679c15127f393473e4dd/d8e48920-0ceb-4cda-9d3b-297340f33f0e.jpg?h=6aaa19cdcfbdf5a078f03047bae2f43f)<br>很元老的画师, 画风软萌Q弹.<br>备注: 曾为Cutlass (C大)负责编写的NOeファン限定配信小説『クドネシリカ』绘制插图, 并与NOeSIS系列作品世界线设定相同, 有过联动 | [X](https://x.com/_sakurazawa_) [pixiv](https://www.pixiv.net/users/125969) |
 | hinayuki usa | ヒナユキウサ |  | [X](https://x.com/hina0x0) [pixiv](https://www.pixiv.net/users/228997) |
 | amamitu kousuke | 甘蜜こうすけ |  |  |
 | atiki | Aちき |  | [X](https://x.com/atikix) [pixiv](https://www.pixiv.net/users/1655331) |
