@@ -3000,7 +3000,7 @@ example:
 | kenichi | ケンイチ |  | [X](https://x.com/kenken_kenichi) [pixiv](https://www.pixiv.net/users/477293) |
 | mashu | ましゅー |  | [X](https://x.com/mashu_003) [pixiv](https://www.pixiv.net/users/15305293) |
 | na-ga | Na-Ga |  | [X](https://x.com/iktd13_) |
-| sakurazawa izumi | 樱泽泉/桜沢いづみ | ![クドネシリカ封面](https://cdn.myportfolio.com/ebccbaa18a61679c15127f393473e4dd/d8e48920-0ceb-4cda-9d3b-297340f33f0e.jpg?h=6aaa19cdcfbdf5a078f03047bae2f43f)<br>很元老的画师, 画风软萌Q弹.<br>备注: 曾为Cutlass (C大)负责编写的NOeファン限定配信小説『クドネシリカ』绘制插图, 并与NOeSIS系列作品世界线设定相同, 有过联动. | [X](https://x.com/_sakurazawa_) [pixiv](https://www.pixiv.net/users/125969) |
+| sakurazawa izumi | 樱泽泉/桜沢いづみ | ![クドネシリカ封面](https://cdn.myportfolio.com/ebccbaa18a61679c15127f393473e4dd/d8e48920-0ceb-4cda-9d3b-297340f33f0e.jpg?h=6aaa19cdcfbdf5a078f03047bae2f43f)<br>很元老的女老师, 画风软萌Q弹.<br>备注: 曾为Cutlass (C大)负责编写的NOeファン限定配信小説『クドネシリカ』绘制插图, 并与NOeSIS系列作品世界线设定相同, 有过联动. | [Xitter](https://x.com/_sakurazawa_)<br>[P站](https://www.pixiv.net/users/125969)<br>[Pixiv Fanbox](https://sakurazawa.fanbox.cc/)<br>[日亚作者页](https://www.amazon.co.jp/stores/桜沢-いづみ/author/B004LURUIU)<br>[日亚作品页](https://www.amazon.co.jp/-/zh/dp/4840229457)<br>[个人主页](http://9ch.sakura.ne.jp/web/)<br>[Circle](https://portal.circle.ms/Circle/Index/10018911)<br>[维基百科(日文)](https://ja.wikipedia.org/wiki/桜沢いづみ)<br>[Xitter娃号](https://x.com/sakurado0)<br>[Instagram](https://www.instagram.com/saku7400/)<br>[Pawoo(可能停用)](https://pawoo.net/oauth_authentications/125969)<br>[BOOTH](https://chronolog.booth.pm/) |
 | hinayuki usa | ヒナユキウサ |  | [X](https://x.com/hina0x0) [pixiv](https://www.pixiv.net/users/228997) |
 | amamitu kousuke | 甘蜜こうすけ |  |  |
 | atiki | Aちき |  | [X](https://x.com/atikix) [pixiv](https://www.pixiv.net/users/1655331) |
