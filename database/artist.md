@@ -13469,6 +13469,7 @@ example:
 | umetori uriri | 梅鳥うりり |  |  |
 | fairy ai | ふぇありぃあい |  |  |
 | kuro urushi | 黑漆 |  |  |
+| kronosaurs | クロノトカゲ |  | [X](https://x.com/Krono_saurus) |
 
 <!--TEMPLATE:
 |  |  |  |  |
