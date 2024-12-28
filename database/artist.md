@@ -13470,6 +13470,7 @@ example:
 | fairy ai | ふぇありぃあい |  |  |
 | kuro urushi | 黑漆 |  |  |
 | kronosaurs | クロノトカゲ |  | [X](https://x.com/Krono_saurus) |
+| ooyun | 然先生(然学生) | ![G41](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>代表作: 少女前线如何使用娃娃系列 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
