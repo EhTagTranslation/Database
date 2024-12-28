@@ -5955,7 +5955,7 @@ example:
 | yoichi isagi | 洁世一 |  | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
 | kurusu natsume | 来栖夏芽 | 来栖夏芽 （ 日语：来栖夏芽 / くるすなつめKurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 | misuzu kamio | 神尾观铃 | AIR女主角之一 (也就是封面上的黄色单马尾) |  |
-| g41 | G41/(忠犬) | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg) |  |
+| g41 | G41/(忠犬) | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>少女前线 Heckler & Koch 小狐狸 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
