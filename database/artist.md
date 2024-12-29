@@ -13466,7 +13466,7 @@ example:
 | niliu chahui | 逆流茶会 |  |  |
 | yuunagi seshina | 夕凪セシナ |  |  |
 | kmvt | kmvt |  | [pixiv](https://www.pixiv.net/users/17039192) |
-| umetori uriri | 梅鳥うりり |  |  |
+| umetori uriri | 梅鳥うりり(福永ユミ) |  |  |
 | fairy ai | ふぇありぃあい |  |  |
 | kuro urushi | 黑漆 |  |  |
 | kronosaurs | クロノトカゲ |  | [X](https://x.com/Krono_saurus) |
