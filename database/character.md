@@ -5961,6 +5961,7 @@ example:
 | roronoa zoro | 罗罗诺亚・索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
 | sanji vinsmoke | 文斯莫克·山治 | 草帽一伙的厨师，路飞的第四位伙伴（严谨点来说是第三位，因为在打败阿龙前娜美与路飞仅仅只是“合作”关系），主力战斗员之一。 | [萌娘百科](https://zh.moegirl.org.cn/山治) |
 | zorro | 索隆 |  |  |
+| ryoutarou tsuboi | 壶井辽太郎 （克莱因） | 壶井辽太郎 （克莱因）是轻小说《刀剑神域》（《Sword Art Online》）及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
