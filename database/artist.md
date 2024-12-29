@@ -9475,7 +9475,7 @@ example:
 | rikume | rikume |  |  |
 | rikusu | リクス |  |  |
 | rikuto | 六兎 |  |  |
-| rimukoro | リムコロ |  |  |
+| rimukoro | リムコロ | ![](https://pbs.twimg.com/profile_images/1816043576431894528/c7jvuu3l_400x400.jpg)<br>《贤惠幼妻仙狐小姐》漫画作者，档案上线笑面教授当天开始画涩图(笑 | [Twitter](https://x.com/uni9rimu) [Twitter](https://x.com/rimukoro?lang=ja) [pixiv](https://www.pixiv.net/users/910381) |
 | rimviolet | rimviolet |  |  |
 | rin | rin |  |  |
 | rindoh | 竜瞳 |  |  |
