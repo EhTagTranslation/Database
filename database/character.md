@@ -5958,6 +5958,7 @@ example:
 | g41 | HKG41/(忠犬) | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>少女前线 Heckler & Koch 小狐狸 |  |
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
 | tachibana hinano | 橘雏乃 | 橘雏乃 （橘 ひなの）是一名从2020年8月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/橘雏乃) |
+| roronoa zoro | 罗罗诺亚・索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
