@@ -13473,6 +13473,7 @@ example:
 | ooyun | 然先生(然学生) | ![G41](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>代表作: 少女前线[如何使用娃娃]系列本 | [P站](https://www.pixiv.net/users/8046610)<br>[Xitter小号](https://x.com/yun_ooyun)<br>[Xitter大号](https://x.com/chinchilla_yeon)<br>[Patreon](https://www.patreon.com/c/ooyun/posts)<br>[Instagram](https://www.instagram.com/chinchilla_yeon)<br>[B站](https://space.bilibili.com/3493279276468910) |
 | pectoriah | pectoriah |  | [pixiv](https://www.pixiv.net/users/93527925) |
 | bechu | BECHU |  |  |
+| zasetsuou | 挫折王 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
