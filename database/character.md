@@ -5959,6 +5959,7 @@ example:
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
 | tachibana hinano | 橘雏乃 | 橘雏乃 （橘 ひなの）是一名从2020年8月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/橘雏乃) |
 | roronoa zoro | 罗罗诺亚・索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
+| sanji vinsmoke | 文斯莫克·山治 | 草帽一伙的厨师，路飞的第四位伙伴（严谨点来说是第三位，因为在打败阿龙前娜美与路飞仅仅只是“合作”关系），主力战斗员之一。 | [萌娘百科](https://zh.moegirl.org.cn/山治) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
