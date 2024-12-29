@@ -2007,7 +2007,7 @@ example:
 | freelance | FREELANCE |  |  |
 | nekono oyashiro | ねこのおやしろ |  |  |
 | croix crown | croix crown |  |  |
-| chronolog | CHRONOLOG |  |  |
+| chronolog | CHRONOLOG | 樱泽泉/桜沢いづみ的同人社团 |  |
 | fururi. | ふるり。 |  |  |
 | amamitu hakushi | 甘蜜博士 |  |  |
 | masaru dot com | マサルドットコム |  |  |
