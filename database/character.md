@@ -1696,7 +1696,7 @@ example:
 | black leopard | 黑豹 |  |  |
 | leopard | 豹 |  |  |
 | south african giraffe | 南非长颈鹿 |  |  |
-| sabre tiger | 剑齿虎 |  |  |
+| saber tiger | 剑齿虎 |  |  |
 | japanese crested ibis | 朱鹮 |  |  |
 |  | ▼ 缘之空 |  |  |
 | sora kasugano | 春日野穹 |  |  |
