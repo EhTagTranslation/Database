@@ -13050,6 +13050,7 @@ example:
 | mosoparadox | 妄想パラドックス |  |  |
 | hidarimigi | ヒダリミギ |  |  |
 | black lacquer | Black Lacquer |  |  |
+| fukufuku | Fuku Fuku! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
