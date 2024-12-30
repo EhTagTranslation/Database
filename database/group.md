@@ -74,7 +74,7 @@ example:
 | sphere | Sphere |  |  |
 | hook | HOOKSOFT | HOOKSOFT是日本ロボプランニング公司的游戏品牌，主要发售恋爱冒险类型的成人游戏。最早原名为HOOK，于2000年4月成立，并在2008年12月2日重整后改为现名。SMEE、ASa Project与TJR(已活动休止)是其姐妹品牌。目前是Partner Brand（パートナーブランド）的加盟品牌之一。 | [维基百科](https://zh.wikipedia.org/wiki/HOOKSOFT) [官方网站](http://www.hook-net.jp/htm/index_02.htm) (\*) |
 | smee | SMEE |  | [官方网站](http://www.hook-net.jp/smee/) |
-| asa project | ASa Project(颜艺社) | 颜艺社 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
+| asa project | ASa Project | 颜艺社 | [官方网站](http://www.asa-pro.com/top.html) (\*) |
 | rosebleu | Rosebleu |  |  |
 | clochette | Clochette | Clochette（日语：クロシェット）社位于东京都台东区浅草，为日本公司ブランエール（BLANC AILE）旗下的成人游戏品牌。自2007年开始活跃，开发浪漫喜剧性质的校园风格的游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Clochette) [官方网站](http://www.clochette-soft.jp/) (\*) |
 | honey soft | HONEY SOFT |  |  |
@@ -113,7 +113,7 @@ example:
 | feng | feng | feng 是一家位于日本千叶县市川市的游戏制作公司（白玫瑰有限公司）。名字来源于汉字里的风的拼音。 | [萌娘百科](https://zh.moegirl.org.cn/Feng) [官方网站](http://www.feng.jp/) (\*\*) |
 | frontwing | FrontWing | FrontWing是一家于2000年成立的日本成人游戏公司。<br>《魔界天使》系列<br>![图](https://ehgt.org/e9/5c/e95c9f224df3b10a1b4abdcb80abdbf8f99d696d-162659-640-480-jpg_l.jpg)![图](https://ehgt.org/c8/b0/c8b0c1166971d2a52ee4ad822b925a3ad3817eda-91664-800-600-jpg_l.jpg)<br>灰色系列<br>![图](https://ehgt.org/db/24/db244a8ef416fe798d52fdeb41255c6b531b0ca6-60857-352-500-jpg_l.jpg)![图](https://ehgt.org/7f/29/7f298694d6119bd657231034cd03b8f7c670a99a-113136-320-460-jpg_l.jpg)![图](https://ehgt.org/43/53/435307984b8e29fe0a604a7de2a2b9f990c3baf0-110607-320-460-jpg_l.jpg) | [官方网站](http://frontwing.jp/) |
 | atelier d | Atelier D |  |  |
-| atelier kaguya | Atelier KAGUYA/竹子社 |  |  |
+| atelier kaguya | Atelier KAGUYA | 竹子社 |  |
 | atelier kaguya honky-tonk pumpkin | Atelier KAGUYA Honky-Tonk Pumpkin |  |  |
 | atelier kaguya team gassa-q | Atelier KAGUYA TEAM Gassa-Q |  |  |
 | atelier kaguya team heartbeat | Atelier KAGUYA TEAM HEARTBEAT |  |  |
@@ -135,7 +135,7 @@ example:
 | giga | 戏画 | ![logo](http://www.web-giga.com/top/favicon.ico)戏画（戯画）是位于日本大阪的游戏制造商TGL的18禁游戏品牌。关联公司有猫猫软体（ねこねこソフト）、AUGUST（オーガスト）、HOOKSOFT、牛奶软体（みるくそふと）等。<br>戏画及其子公司プレカノ于2022年11月22日宣布将于2023年3月31日起停止旗下作品的开发与发行。 | [官方网站](https://www.web-giga.com/) [维基百科](https://zh.wikipedia.org/wiki/戲畫_%28遊戲品牌%29) (\*) |
 | milksoft | 牛奶软件 |  |  |
 | cygames | Cygames | 株式会社Cygames（在台注册译为赛杰思）是日本的一间游戏开发公司，于2011年成立。以开发社交网络游戏和手机游戏为主。 | [官方网站](https://www.cygames.co.jp/) [维基百科](https://zh.wikipedia.org/wiki/Cygames) |
-| keroq | ケロQ/KeroQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [官网](https://www.keroq.co.jp/index02.html) |
+| keroq | ケロQ | KeroQ于1998年成立，最初名称为“ケロキュウ”，于2005年改名为现在名称。公司董事长为SCA-自。 | [官网](https://www.keroq.co.jp/index02.html) |
 | akatsuki works hibiki | hibiki works | ![](https://lain.bgm.tv/pic/crt/l/8f/80/21374_prsn_MaepW.jpg)<br>AKABEiSOFT2旗下游戏品牌hibiki works（包括原 “暁WORKS響SIDE”） | [HP](https://www.hibiki-site.com) |
 | fairytale | fairytale | FAIRYTALE（フェアリーテール）是F&C的一个十八禁游戏品牌。原本是从JAST独立的キララ公司以及改名后的IDES的品牌。<br><br>1987年キララ时代发售了首部作品《ふぇありぃてぃる》，1989年COCKTAIL SOFT发布首作以后，作为组成F&C的两支柱之一的シリアス系品牌而存在<br><br>2001年F&C重组后也大致上存在，重组是由两品牌合并分割成三个，改变前后也可认为是不同的品牌。此外，也有改编前的リアル系品牌RED-ZONE（レッドゾーン）以及サスペンス系品牌HARDCOVER（ハードカバー），改编后分成了花月组、月星组。 | [FAIRYTALE](https://zh.wikipedia.org/wiki/FAIRYTALE) [F&C<br>](https://zh.wikipedia.org/wiki/F%26C) |
 |  | ▲ GAL公司 |  |  |
@@ -484,7 +484,7 @@ example:
 | full high kick | ふるはいきっく |  |  |
 | punipuni doumei | ぷにぷに同盟 |  | [官方网站](http://www2.odn.ne.jp/~crepe/) |
 | sokomono suisou | 底物水槽 |  |  |
-| shiratamaco | しらたまこ/白玉子(白玉社) |  |  |
+| shiratamaco | 白玉子 |  |  |
 | oreteki18kin | 俺的十八禁 |  |  |
 | dl mate | DLメイト |  |  |
 | kaminagi-tei | 神凪邸 |  |  |
@@ -715,7 +715,7 @@ example:
 | kuroquis | クロッキー!! |  |  |
 | tmzf no circle | TMZFのサークル |  |  |
 | miniature magic | みにちゅあまじっく |  |  |
-| tinker bell | てぃんかーべる(白夜茶会) |  |  |
+| tinker bell | 白夜茶会 | てぃんかーべる |  |
 | just-k | JUST-K |  |  |
 | justice-flame | JUSTICE-FLAME |  |  |
 | yakumi benishouga | 药味红生姜 |  |  |
@@ -2007,7 +2007,7 @@ example:
 | freelance | FREELANCE |  |  |
 | nekono oyashiro | ねこのおやしろ |  |  |
 | croix crown | croix crown |  |  |
-| chronolog | CHRONOLOG | 樱泽泉/桜沢いづみ的同人社团 |  |
+| chronolog | CHRONOLOG | `sakurazawa izumi`的同人社团 |  |
 | fururi. | ふるり。 |  |  |
 | amamitu hakushi | 甘蜜博士 |  |  |
 | masaru dot com | マサルドットコム |  |  |
@@ -2274,7 +2274,7 @@ example:
 | momojiru teien | 桃汁庭园 | 画师`momokumo`所属社团 |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir | ハースニール<br>`misakura nankotsu` | [HP](http://www.harthnir.com/) |
-| yoru no hitsuji | 夜のひつじ/夜羊社(夜羊舍) |  |  |
+| yoru no hitsuji | 夜のひつじ | 夜羊社 |  |
 | nawairo sonata | 縄色ソナタ | `a:haneru`  `a:himitsu` (不确定是否准确，求考证) |  |
 | momokamasu | ももかます |  | [X](https://x.com/jwxvlhsnfpjonfh) [pixiv](https://www.pixiv.net/users/14943872) |
 | kumo no ito | 雲之糸 | クモノイト | [X](https://x.com/spider_lifeline) [DLsite](https://ci-en.dlsite.com/creator/9356) |
@@ -5881,7 +5881,7 @@ example:
 | hyouketsu mikan | 氷結蜜柑 |  |  |
 | hyper houbokujou | ハイパー放牧場 |  |  |
 | hyper summer wars | ハイパーサマーウォーズ |  |  |
-| hyperiyon | はいぺりよん(Hyperion) | 代表作(?): 3M -Marionettes manipulate the marionette-<br>而后有画风较平和作品: COLOR OF WHITE<br>S.I.S.T.A.R.S: KISS OF TRINITY 等 |  |
+| hyperiyon | はいぺりよん | 代表作(?): 3M -Marionettes manipulate the marionette-<br>而后有画风较平和作品: COLOR OF WHITE<br>S.I.S.T.A.R.S: KISS OF TRINITY 等 |  |
 | hypnotic angel | Hypnotic Angel |  |  |
 | hypnotisms | hypnotisms |  |  |
 | hyspaniplus | HyspaniPlus |  |  |
@@ -7418,7 +7418,7 @@ example:
 | makoto shiyaka | 間琴しや架 |  |  |
 | makoto skip | まこと☆スキップ |  |  |
 | maku | Maku |  |  |
-| makura | 枕社/The Pillow/MAKURA | 枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。 | [https://www.keromakura.net/](https://www.keromakura.net/)<br>[http://www.makura-soft.com/](http://www.makura-soft.com/)<br>[X](https://x.com/keromakurastaff)<br>[YouTube](https://www.youtube.com/user/makurasoft)<br>[萌娘百科](https://zh.moegirl.org.cn/枕) |
+| makura | MAKURA | 枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。 | [https://www.keromakura.net/](https://www.keromakura.net/)<br>[http://www.makura-soft.com/](http://www.makura-soft.com/)<br>[X](https://x.com/keromakurastaff)<br>[YouTube](https://www.youtube.com/user/makurasoft)<br>[萌娘百科](https://zh.moegirl.org.cn/枕) |
 | makuriya | まくりや |  |  |
 | makushiro | マクシロ |  |  |
 | malus pumila | まるすぷみら |  |  |
@@ -10470,7 +10470,7 @@ example:
 | silky to yukai na nakama-tachi | しるきーと愉快な仲間たち |  |  |
 | silmaril | しるまりる |  |  |
 | silver bloom | SILVER BLOOM |  |  |
-| silver bullet | Silver Bullet/银色子弹 | ![SB](https://web.archive.org/web/20120130151617im_/http://www.silverbullet.jp/img/info_bsize_imo.jpg)<br>![妹-🔒-](https://web.archive.org/web/20120923130555im_/http://www.silverbullet.jp/imobilizer/img/h2_main.jpg) |  |
+| silver bullet | 银色子弹 | ![SB](https://web.archive.org/web/20120130151617im_/http://www.silverbullet.jp/img/info_bsize_imo.jpg)<br>![妹-🔒-](https://web.archive.org/web/20120923130555im_/http://www.silverbullet.jp/imobilizer/img/h2_main.jpg) |  |
 | silver way | 銀色宇宙(仮) |  |  |
 | silverfox | 銀狐 |  |  |
 | silver rice | シルバーライス |  |  |
@@ -11672,7 +11672,7 @@ example:
 | ugeman | うげ漫 |  |  |
 | ugokuna pharmacy theta | うごくな薬局θ |  |  |
 | ugou no shuu | 烏合ノ衆 |  |  |
-| uguisu kagura | ウグイスカグラ(日本莺)/胃痛社/纸魔社 |  |  |
+| uguisu kagura | ウグイスカグラ | 日本莺/胃痛社/纸魔社 |  |
 | uguisuya | 莺屋 |  |  |
 | uhii | うひい |  |  |
 | uirokai | ういろうかい |  |  |

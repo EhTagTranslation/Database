@@ -288,7 +288,7 @@ example:
 | wa | WA |  |  |
 | satou kuuki | 左藤空气 |  |  |
 | kouzuki hajime | 香月一花 |  |  |
-| furukawa remon | 古川れもん/古川柠檬 | 女性原画师，Lass Pixy主力原画<br>Furukawa Remon, born February 4th, is a Japanese adult game artist from Saitama, Japan. |  |
+| furukawa remon | 古川柠檬 | 古川れもん，女性原画师，Lass Pixy主力原画<br>Furukawa Remon, born February 4th, is a Japanese adult game artist from Saitama, Japan. |  |
 | nukunuku batten | ぬくぬくばってん |  |  |
 | sadokko | さどっこ |  |  |
 | izumi | 和泉 |  |  |
@@ -376,7 +376,7 @@ example:
 | aihara shouta | 相原翔太 |  |  |
 | mimofu | みもふ |  |  |
 | takatuki nato | 鷹月ナト |  |  |
-| shiratama | 白玉/しらたま | 白玉老师画超级可爱的萝莉 | [pixiv](https://www.pixiv.net/users/705370) [X](https://x.com/shiratamacaron) [个人主页](http://shiratamaco.com/) |
+| shiratama | 白玉 | 白玉老师画超级可爱的萝莉 | [pixiv](https://www.pixiv.net/users/705370) [X](https://x.com/shiratamacaron) [个人主页](http://shiratamaco.com/) |
 | nohara hiromi | 野原ひろみ |  |  |
 | higashino mikan | 東野みかん |  |  |
 | dr.bug | Dr.阿虫 | 中国台湾地区右翼漫画家 |  |
@@ -2317,7 +2317,7 @@ example:
 | misuroma | みすろま |  |  |
 | kabe umari-ko | 壁埋まり子 |  |  |
 | crowly | くろうり |  |  |
-| sekiya asami | 関谷あさみ/关谷麻美 | 女性漫画家。<br>作品主要以少女或`lolicon`系为主。<br><br>![图](https://pbs.twimg.com/profile_images/834356718888853504/I4KgVMh2_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/af/0b/af0b43ac52f43e5afa096865d18ecf947fdd04fd-1647346-1057-1500-png_l.jpg")<br>单行本《ラフスケッチ》 | [X](https://x.com/fkfk_oftn) |
+| sekiya asami | 关谷麻美 | 関谷あさみ，女性漫画家。<br>作品主要以少女或`lolicon`系为主。<br><br>![图](https://pbs.twimg.com/profile_images/834356718888853504/I4KgVMh2_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/af/0b/af0b43ac52f43e5afa096865d18ecf947fdd04fd-1647346-1057-1500-png_l.jpg")<br>单行本《ラフスケッチ》 | [X](https://x.com/fkfk_oftn) |
 | nananana | ナナナナ |  |  |
 | cafekun | cafekun |  | [pixiv](https://www.pixiv.net/users/533550) |
 | hataraki ari | ハタラキ有 |  | [pixiv](https://www.pixiv.net/users/80155) [个人主页](http://www.hatarakiari.com/) |
@@ -2651,7 +2651,7 @@ example:
 | inugami kira | 狗神煌 | 枕社元老级画师 | [pixiv](https://www.pixiv.net/users/465146) [X](https://x.com/kilacco) |
 | korie riko | 梱枝莉子 | 梱枝りこ，梱枝，梱妈，梱枝Riko，画风颇具特色。<br>![图](https://ehgt.org/35/21/35212f1608601d540106e384c05389f698cd3952-314854-600-854-jpg_l.jpg) | [pixiv](https://www.pixiv.net/users/245242) [X](https://x.com/riko0202) [萌娘百科](https://zh.moegirl.org.cn/梱枝莉子) |
 | hasune | はすね |  | [pixiv](https://www.pixiv.net/users/3494650) [X](https://x.com/hasuroot) |
-| muku | muku/むく•ぎゅうひもち |  | [pixiv](https://www.pixiv.net/users/1592600) [X](https://x.com/muku_apupop) |
+| muku | muku |  | [pixiv](https://www.pixiv.net/users/1592600) [X](https://x.com/muku_apupop) |
 | kurou | 九郎 |  | [pixiv](https://www.pixiv.net/users/136872) [X](https://x.com/Trg_AKT) |
 | natsuki yuu | なつきゆう |  | [pixiv](https://www.pixiv.net/users/226893) [X](https://x.com/natsukiyuu) |
 | pan | ぱん |  | [pixiv](https://www.pixiv.net/users/178311) [X](https://x.com/panno_mimi) |
@@ -3000,7 +3000,7 @@ example:
 | kenichi | ケンイチ |  | [X](https://x.com/kenken_kenichi) [pixiv](https://www.pixiv.net/users/477293) |
 | mashu | ましゅー |  | [X](https://x.com/mashu_003) [pixiv](https://www.pixiv.net/users/15305293) |
 | na-ga | Na-Ga |  | [X](https://x.com/iktd13_) |
-| sakurazawa izumi | 樱泽泉/桜沢いづみ | ![クドネシリカ封面](https://cdn.myportfolio.com/ebccbaa18a61679c15127f393473e4dd/d8e48920-0ceb-4cda-9d3b-297340f33f0e.jpg?h=6aaa19cdcfbdf5a078f03047bae2f43f)<br>很元老的女老师, 画风软萌Q弹.<br>备注: 曾为Cutlass (C大)负责编写的NOeファン限定配信小説『クドネシリカ』绘制插图, 并与NOeSIS系列作品世界线设定相同, 有过联动.<br>![0](http://cutlass.qee.jp/data/top08.jpg)<br>![1](http://www.noefan.com/img/title.jpg)<br>![2](http://www.noefan.com/img/noesis_novel_title.jpg) | [Xitter](https://x.com/_sakurazawa_) [P站](https://www.pixiv.net/users/125969) [Pixiv Fanbox](https://sakurazawa.fanbox.cc/) [日亚作者页](https://www.amazon.co.jp/stores/桜沢-いづみ/author/B004LURUIU) [日亚作品页](https://www.amazon.co.jp/-/zh/dp/4840229457) [个人主页](http://9ch.sakura.ne.jp/web/) [Circle](https://portal.circle.ms/Circle/Index/10018911) [维基百科(日文)](https://ja.wikipedia.org/wiki/桜沢いづみ) [Xitter娃号](https://x.com/sakurado0) [Instagram](https://www.instagram.com/saku7400/) [Pawoo(可能停用)](https://pawoo.net/oauth_authentications/125969) [BOOTH](https://chronolog.booth.pm/) |
+| sakurazawa izumi | 樱泽泉 | 桜沢いづみ![クドネシリカ封面](https://cdn.myportfolio.com/ebccbaa18a61679c15127f393473e4dd/d8e48920-0ceb-4cda-9d3b-297340f33f0e.jpg?h=6aaa19cdcfbdf5a078f03047bae2f43f)<br>很元老的女老师, 画风软萌Q弹.<br>备注: 曾为Cutlass (C大)负责编写的NOeファン限定配信小説『クドネシリカ』绘制插图, 并与NOeSIS系列作品世界线设定相同, 有过联动.<br>![0](http://cutlass.qee.jp/data/top08.jpg)<br>![1](http://www.noefan.com/img/title.jpg)<br>![2](http://www.noefan.com/img/noesis_novel_title.jpg) | [Xitter](https://x.com/_sakurazawa_) [P站](https://www.pixiv.net/users/125969) [Pixiv Fanbox](https://sakurazawa.fanbox.cc/) [日亚作者页](https://www.amazon.co.jp/stores/桜沢-いづみ/author/B004LURUIU) [日亚作品页](https://www.amazon.co.jp/-/zh/dp/4840229457) [个人主页](http://9ch.sakura.ne.jp/web/) [Circle](https://portal.circle.ms/Circle/Index/10018911) [维基百科(日文)](https://ja.wikipedia.org/wiki/桜沢いづみ) [Xitter娃号](https://x.com/sakurado0) [Instagram](https://www.instagram.com/saku7400/) [Pawoo(可能停用)](https://pawoo.net/oauth_authentications/125969) [BOOTH](https://chronolog.booth.pm/) |
 | hinayuki usa | ヒナユキウサ |  | [X](https://x.com/hina0x0) [pixiv](https://www.pixiv.net/users/228997) |
 | amamitu kousuke | 甘蜜こうすけ |  |  |
 | atiki | Aちき |  | [X](https://x.com/atikix) [pixiv](https://www.pixiv.net/users/1655331) |
@@ -3476,7 +3476,7 @@ example:
 | 88 | 88 | ![画师蓝鸟头像](https://pbs.twimg.com/profile_images/1385235478169882625/GzoN6LIo_200x200.jpg)<br>画师，笔下人物的脸很有特点<br>2021年初出道，处女作是刊登于《コミックホットミルク》（COMIC HOTMILK）2021年3月号的《クノ―テン》<br>2023年7月28日发行第一部电子单行本《とろけるささやき》 | [X](https://www.pixiv.net/users/34214417) [Pixiv](https://x.com/88moopie) |
 | toujou tsukushi | 東條土筆 |  |  |
 | yamada gogogo | 山田ゴゴゴ |  |  |
-| g-wara | 爺わら/ねいび |  |  |
+| g-wara | 爺わら |  |  |
 | ibarame hisa | 茨芽ヒサ |  |  |
 | aoyama kiiro. | あおやまきいろ。 |  |  |
 | ushiro muki | 丑露ムキ |  |  |
@@ -4239,7 +4239,7 @@ example:
 | arisaka ako | 有坂あこ |  |  |
 | arisato natsuki | ありさと奈月 |  |  |
 | arisawa masaharu | 有沢柾春 |  |  |
-| arisue tsukasa | 有末司/有末つかさ |  |  |
+| arisue tsukasa | 有末司 | 有末つかさ |  |
 | ariyas honda | 本田有保 |  |  |
 | ariyoshi gen | 蟻吉げん |  |  |
 | ark waver | あるくでんぱ |  |  |
@@ -8227,7 +8227,7 @@ example:
 | moritake | モリタケ |  |  |
 | moritan | もりたん |  |  |
 | moriyama rikka | 森山六花 | 杜山リルカ |  |
-| moriyama shijimi | 森山しじみ/森山志美 | ![Pure Marriage 后宫篇贺图](https://www.ryuugames.com/wp-content/uploads/2020/09/masterup-pure-marriage-harem.png)<br>Moriyama Shijimi is a Japanese illustrator. Was part of Lass until December 2016, but will still working on all Pure Marriage games.<br>曾隶属于Lass，并在2016年之后依然作为主力原画为Lass附属Lass Pixy绘制了 Pure Marriage 红线物语系列。(Xitter被关注次数小于3030, 2024/12/23) | [pixiv](https://www.pixiv.net/users/464124)<br>[X](https://x.com/siji_min)<br>[http://sijimin92.blog27.fc2.com/](http://sijimin92.blog27.fc2.com/)<br>[https://vndb.org/s2456](https://vndb.org/s2456) |
+| moriyama shijimi | 森山志美 | 森山しじみ![Pure Marriage 后宫篇贺图](https://www.ryuugames.com/wp-content/uploads/2020/09/masterup-pure-marriage-harem.png)<br>Moriyama Shijimi is a Japanese illustrator. Was part of Lass until December 2016, but will still working on all Pure Marriage games.<br>曾隶属于Lass，并在2016年之后依然作为主力原画为Lass附属Lass Pixy绘制了 Pure Marriage 红线物语系列。(Xitter被关注次数小于3030, 2024/12/23) | [pixiv](https://www.pixiv.net/users/464124)<br>[X](https://x.com/siji_min)<br>[http://sijimin92.blog27.fc2.com/](http://sijimin92.blog27.fc2.com/)<br>[https://vndb.org/s2456](https://vndb.org/s2456) |
 | morochin-san | もろちんさん |  |  |
 | morokoshitaroh | morokoshitaroh |  |  |
 | morota | もろた |  |  |
@@ -10757,7 +10757,7 @@ example:
 | tatejima. | 縦縞。 |  |  |
 | tateno tomoki | タテノトモキ |  |  |
 | sennohito. | 線の人。 |  |  |
-| tatsuhiko | たつひこ/達一文字/PTD/龙彦 |  |  |
+| tatsuhiko | たつひこ | 達一文字/PTD/龙彦 |  |
 | tatsumiya motokazu | たつみやもとかず |  |  |
 | tatsumu kyou | 龍武京 |  |  |
 | tatsuneko | たつねこ |  |  |
@@ -13458,7 +13458,7 @@ example:
 | nitouhen | 二等边 |  |  |
 | okadate imari | 冈馆いまり |  |  |
 | hontani kanae | ほんたにかなえ |  |  |
-| toranosuke | とらのすけ/虎之助 |  |  |
+| toranosuke | 虎之助 | とらのすけ |  |
 | takashima | 田貸魔 |  |  |
 | croriin | Croriin |  |  |
 | sawatashi yun | さわたしゆん |  |  |

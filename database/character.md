@@ -1869,7 +1869,7 @@ example:
 | ayako mitsuzuri | 美缀绫子 |  |  |
 | kane himuro | 冰室钟 |  |  |
 | kaede makidera | 莳寺枫 |  |  |
-| gudao | 藤丸立香(咕哒男) | 藤丸立香/主人公是TYPE-MOON旗下的游戏《`p:fate grand order`》及其衍生作品的登场角色，玩家视角的主角。<br>咕哒子是FGO官方漫画中使用的昵称。已经成为官方默认的主人公昵称。在另一部型月作品Chibichuki!中，也直接以咕哒子之名出现。<br>![](https://static.wikia.nocookie.net/typemoon/images/c/c6/Anniversary_Blonde.png) | [萌娘百科](https://zh.moegirl.org.cn/藤丸立香) [Fandom](https://typemoon.fandom.com/wiki/Ritsuka_Fujimaru) |
+| gudao | 咕哒男 | 藤丸立香/主人公是TYPE-MOON旗下的游戏《`p:fate grand order`》及其衍生作品的登场角色，玩家视角的主角。<br>咕哒子是FGO官方漫画中使用的昵称。已经成为官方默认的主人公昵称。在另一部型月作品Chibichuki!中，也直接以咕哒子之名出现。<br>![](https://static.wikia.nocookie.net/typemoon/images/c/c6/Anniversary_Blonde.png) | [萌娘百科](https://zh.moegirl.org.cn/藤丸立香) [Fandom](https://typemoon.fandom.com/wiki/Ritsuka_Fujimaru) |
 | gudako | 咕哒子 |  |  |
 | kiyohime | 清姬 | ![图](https://ehgt.org/13/45/1345b2b677182094579b1c9197496df78d2b2b08-2068714-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/清姬%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/清姬) |
 | alexander | 亚历山大 |  |  |
@@ -4242,7 +4242,7 @@ example:
 | seele vollerei | 希儿·芙乐艾 | 希儿·芙乐艾，所属作品:`p:honkai gakuen`; `p:honkai star rail`<br>是米哈游出品的崩坏系列（包括《崩坏:星穹铁道》）及其衍生作品的出场角色<br>希儿·芙乐艾(崩坏学园2)———《崩坏学园2》及其衍生作品中的出场角色。<br>希儿·芙乐艾(崩坏3)———《崩坏3》及其衍生作品中的出场角色。<br>希儿(崩坏：星穹铁道)———《崩坏:星穹铁道》及其衍生作品中的出场角色。<br>![](https://img.moegirl.org.cn/common/c/c1/崩坏学园2希儿立绘.png)<br>![](https://img.moegirl.org.cn/common/3/3a/Seele_c1.png)<br>![](https://img.moegirl.org.cn/common/9/97/Seele希儿.png) | [萌娘百科](https://zh.moegirl.org.cn/希儿·芙乐艾)<br>[萌娘百科](https://zh.moegirl.org.cn/希儿%28星穹铁道%29#) |
 | cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
 | shinobu kuki | 久岐忍 | 久岐忍（英语：shinobu kuki）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1c/原神稻妻久岐忍.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/久岐忍) |
-| springfield | 春田/M1903 | `p:girls frontline`<br>少女前线2：追放<br>猫咪：蓝山，配饰：方糖围裙 | [https://www.gfwiki.org/w/春田](https://www.gfwiki.org/w/春田) |
+| springfield | 春田 | `p:girls frontline`<br>少女前线2：追放<br>猫咪：蓝山，配饰：方糖围裙 | [https://www.gfwiki.org/w/春田](https://www.gfwiki.org/w/春田) |
 | natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
 | fu hua | 符华 |  |  |
 | timido cute | 缇米朵·丘忒 |  |  |
@@ -5953,7 +5953,7 @@ example:
 | yoichi isagi | 洁世一 |  | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
 | kurusu natsume | 来栖夏芽 | 来栖夏芽 （ 日语：来栖夏芽 / くるすなつめKurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 | misuzu kamio | 神尾观铃 | AIR女主角之一 (也就是封面上的黄色单马尾) |  |
-| g41 | HKG41/(忠犬) | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>少女前线 Heckler & Koch 小狐狸 |  |
+| g41 | G41 | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>少女前线 Heckler & Koch 小狐狸 |  |
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
 | tachibana hinano | 橘雏乃 | 橘雏乃 （橘 ひなの）是一名从2020年8月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/橘雏乃) |
 | roronoa zoro | 罗罗诺亚·索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
