@@ -1129,7 +1129,7 @@ example:
 |  | ▼ 变态王子与不笑猫 角色 |  |  |
 | azusa azuki | 小豆梓 |  |  |
 | youto yokodera | 横寺阳人 |  |  |
-| tsukiko tsutsukakushi | 筒隐月子 |  |  |
+| tsukiko tsutsukakushi | 筒隐月子 | ![Tsutsukakushi tsukiko](https://img.moegirl.org.cn/common/3/3d/Tsutsukakushi_tsukiko.jpg)<br>筒隐月子是[相乐总](https://zh.moegirl.org.cn/相乐总)创作的轻小说《[变态王子与不笑猫](https://zh.moegirl.org.cn/变态王子与不笑猫)》及其衍生作品的登场角色，女主角之一. | [萌娘百科](https://zh.moegirl.org.cn/筒隐月子)<br>[百度百科](https://baike.baidu.com/item/筒隐月子/220573) |
 | tsukushi tsutsukakushi | 筒隐筑紫 |  |  |
 | mai maimaki | 舞牧麻衣 |  |  |
 | emanuella porlallora | 艾米（艾玛努艾勒·波鲁勒劳拉） |  |  |
