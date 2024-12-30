@@ -7418,7 +7418,7 @@ example:
 | makoto shiyaka | 間琴しや架 |  |  |
 | makoto skip | まこと☆スキップ |  |  |
 | maku | Maku |  |  |
-| makura | MAKURA | 枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。 | [https://www.keromakura.net/](https://www.keromakura.net/)<br>[http://www.makura-soft.com/](http://www.makura-soft.com/)<br>[X](https://x.com/keromakurastaff)<br>[YouTube](https://www.youtube.com/user/makurasoft)<br>[萌娘百科](https://zh.moegirl.org.cn/枕) |
+| makura | MAKURA | 枕于2004年由SCA-自出于两线体制发展公司的考虑创立，核心staff与KeroQ基本相同，但相较于KeroQ较为核心向的作品风格，枕的作品相对更符合较多玩家的口味。名称含有“梦的道具”的寓意。 | [Moonphase官网](https://www.keromakura.net/)<br>[枕官网](http://www.makura-soft.com/)<br>[X](https://x.com/keromakurastaff)<br>[YouTube](https://www.youtube.com/user/makurasoft)<br>[萌娘百科](https://zh.moegirl.org.cn/枕) |
 | makuriya | まくりや |  |  |
 | makushiro | マクシロ |  |  |
 | malus pumila | まるすぷみら |  |  |
