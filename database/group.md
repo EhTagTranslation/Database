@@ -13051,6 +13051,7 @@ example:
 | hidarimigi | ヒダリミギ |  |  |
 | black lacquer | Black Lacquer |  |  |
 | fukufuku | Fuku Fuku! |  |  |
+| joutyohuantei | 情緒不安定 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
