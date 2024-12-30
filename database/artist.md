@@ -13477,6 +13477,7 @@ example:
 | zasetsuou | 挫折王 |  |  |
 | litora | りとら |  | [pixiv](https://www.pixiv.net/users/6159628) [X](https://x.com/psy_soda) |
 | r ken | Rけん |  | [VNDB](https://vndb.org/s4014) |
+| rken | Rけん | [VNDB](https://vndb.org/s4014) |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
