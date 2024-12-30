@@ -13478,6 +13478,7 @@ example:
 | litora | りとら |  | [pixiv](https://www.pixiv.net/users/6159628) [X](https://x.com/psy_soda) |
 | r ken | Rけん |  | [VNDB](https://vndb.org/s4014) |
 | rken | Rけん |  | [VNDB](https://vndb.org/s4014) |
+| nekoyashiki pushio | 猫屋敷ぷしお（ぬこぷし） |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
