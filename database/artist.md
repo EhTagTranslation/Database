@@ -13479,6 +13479,7 @@ example:
 | r ken | Rけん |  | [VNDB](https://vndb.org/s4014) |
 | rken | Rけん |  | [VNDB](https://vndb.org/s4014) |
 | nekoyashiki pushio | 猫屋敷ぷしお（ぬこぷし） |  |  |
+| kirimitsu | 桐光 |  | [pixiv](https://www.pixiv.net/users/31018422) [X](https://x.com/kirimmitsu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
