@@ -108,6 +108,7 @@ example:
 | mermaid | 美人鱼🧜‍♀️ | 上半身是人，下半身是鱼。 |  |
 | monkey girl | 猴女孩 | 有猴子的耳朵，通常也有猴子的尾巴或其他特征。 |  |
 | monster girl | 魔物娘 | `monster`的女性版本。 |  |
+| moth girl | 蛾娘 | 具有蛾类特征的女性类人生物，包括羽毛状触角。常见特征还包括颈部或身体其他部位的毛发和深色巩膜。需要`insect girl`标签。 |  |
 | mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 |  |
 | necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon girl`混淆。<br>![图](https://ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](# "https://ehgt.org/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg")![图](# "https://ehgt.org/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg") |  |
@@ -120,7 +121,8 @@ example:
 | robot | 机器人🤖 | 机械的人形。 |  |
 | shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。 通常也有锋利的牙齿。 |  |
 | sheep girl | 羊女孩 | 有羊毛和羊角的女性。 |  |
-| slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和`monster`标签。 |  |
+| skeleton | 骷髅 | 身体由骨头组成，几乎没有皮肤的生物。也可能包括头部。需要`monster girl`标签。不应用于`x-ray`拍摄。不应与`zombie`或`necrophilia`混淆。 |  |
+| slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和`monster girl`标签。 |  |
 | slime girl | 史莱姆女孩 | 身体由粘性物体组成的女性。不得与`slime`混淆。 |  |
 | snail girl | 蜗牛女孩 | 头部有一组或多组触手状触角和蛞蝓状躯干。不应与`insect girl`混淆。 需要`monster girl`标签。 |  |
 | snake girl | 蛇女 | 蛇和女性的混合体。 |  |
@@ -190,6 +192,7 @@ example:
 | tall girl | 高个女 | 高个的女性，至少比其他角色高一个头。不应对`giantess`添加该标签。不在其他角色为`shotacon`、`lolicon`、`minigirl`、`miniguy`或`midget`时对普通体型女性使用。 |  |
 |  | === 身体 > 皮肤 === |  |  |
 | albino | 白化 | 红眼和颜色极浅的皮肤。 |  |
+| bite mark | 咬痕 | 个人被咬后留在皮肤上的牙印。仅适用于咬伤留下的痕迹，咬伤行为本身不计入存在。当咬伤是为了吞噬受害者时，例如`cannibalism`，则不适用。 |  |
 | body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“肉便器”等贬义词语。不应与`body painting`混淆。<br>![图](# "https://ehgt.org/83/29/83298e7215cb2ca5e4d7d312385a355796e32c1d-252581-567-800-jpg_l.jpg") |  |
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与`body writing`混淆。<br>![图](# "https://ehgt.org/0a/43/0a43c6624ee32e6e35ec85639dea712e8dc5eced-2619393-1812-2560-jpg_l.jpg")![图](# "https://ehgt.org/2c/e1/2ce1e69969b7d80d47a3bc1e071bbe87ed1fcd85-576865-1120-1600-jpg_l.jpg")![图](# "https://ehgt.org/01/3b/013bf3f6b731ef04cfa72b30e8708e887e5240d7-9015914-2124-2900-png_l.jpg") |  |
 | dark skin | 黑皮 | 棕色或黑色的肤色。不应与`tanlines`混淆。<br>![图](# "https://ehgt.org/92/76/927631cd39fcd83a4009307daedf7f6f11ac6570-4933769-2450-3510-jpg_l.jpg") |  |
@@ -254,7 +257,8 @@ example:
 | possession | 附身 | 参与者的身体被外部的思想所占据，实际上被剥夺了自己的意志。<br>不应与`mind control`或`body swap`混淆。 |  |
 | shared senses | 感官共享 | 分享感官与某物或某人。不得与`wormhole`混淆。 |  |
 | sleeping | 睡觉 | 与未醒之人的性交。可能算作`rape`。 |  |
-|  | === 头部 > 眼睛 === |  |  |
+|  | === Head > Eyes === | === 头部 > 眼睛 === |  |
+| additional eyes | 多眼 | 超过 2 只眼睛在人形生物的身体某处或附着在人形生物的身体上。 |  |
 | blindfold | 遮眼布 | 以遮住视线为目的的眼罩。<br>![图](# "https://ehgt.org/8a/63/8a633d74431032eb6b29a3276635c6691b1edb46-863726-1280-720-png_l.jpg")![图](# "https://ehgt.org/0b/13/0b1328ca3c33ab789b2e79c269c501252931b870-626328-800-600-png_l.jpg") |  |
 | closed eyes | 闭眼 | 闭眼的角色。不用于`sleeping`的角色，而是用于装睡的角色。 |  |
 | crying | 流泪 | 流出眼泪。它们必须从脸上流下来或从眼睛里掉下来。 |  |
@@ -579,13 +583,14 @@ example:
 | chikan | 痴汉 | 以性方式抚摸别人的行为。经常在火车或公共汽车上发生。 |  |
 | confinement | 监禁 | 一个人被强行关押在室内环境中，并被强行用于各种性目的。此场景必须由至少一名俘虏故意创造，并且必须持续至少两个晚上。不用于自愿被监禁的情况。被监禁者必须在某个时候意识到这种情况。如果上下文提示没有明确表明囚禁时间，则不应使用标签。 |  |
 | rape | 强奸 | 强迫或非自愿性行为。 |  |
-|  | === 强迫 > 虐待 === |  |  |
+|  | === Force  > Sadomasochism === | === 强迫 > 虐待 === |  |
 | bdsm | 调教 | 一种至少有一个人占主导地位的生活方式，至少有一个人是顺从的。 不需要`bondage`或`torture`标签，但可能是其原因。 |  |
 | femdom | 女性主导 | 女性性统治。通常目标是一个男性，但也可以是另一个女性。<br>![图](# "https://ehgt.org/fe/10/fe106d3ed844baa0fa9c3c27e6f6f76c3f574283-7200923-4131-6083-jpg_l.jpg")![图](# "https://ehgt.org/13/ee/13ee13abfce6bdd005b3d75722968de2b5b9451b-677128-1024-768-png_l.jpg") |  |
 | domination loss | 统治丢失 | 有明确的性主导关系，之后主导关系发生明显反转的情况。 |  |
 | food on body | 女体盛 | 食物（尤其是寿司）放在裸露的身体上。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
 | human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于`milking`或繁殖。 通常涉及`bondage`。<br>![图](# "https://ehgt.org/2a/67/2a67af653bdcd2e959ab73ba66d25dd39dd56694-1558795-1280-960-png_l.jpg") |  |
+| property tag | 财产标签 | 将个人物化为他人财产的标签、条形码、纹身或火印。 |  |
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |
 | petplay | 人宠 | 像宠物一样对待人。不应与`human cattle`和`slave`混淆。常是`bdsm`的一环。<br>![图](# "https://ehgt.org/5c/81/5c812d630ffb5fb55ca789bc6231de648a5c66ab-541664-800-600-png_l.jpg")![图](# "https://ehgt.org/10/cb/10cb6a72533df96d4696c070f42d0d272867c3b7-615868-800-600-png_l.jpg")![图](# "https://ehgt.org/fa/e1/fae1d3224900eb05db965c1156dd346856ce2445-284459-640-480-png_l.jpg")![图](# "https://ehgt.org/ad/47/ad478842b887a06c1d82f0887487980c8ba6110c-529901-800-600-png_l.jpg")![图](# "https://ehgt.org/d8/88/d888dd4769c704e8f836438baa805185384921b5-601549-800-600-png_l.jpg") |  |
 | slave | 奴隶 | 为了性目的强迫一个人被奴役。自愿时使用`bdsm`。不要与`petplay`或`human cattle`混淆。 |  |
