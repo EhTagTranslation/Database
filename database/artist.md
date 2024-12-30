@@ -13116,7 +13116,7 @@ example:
 | richard bahman | リヒャルト・バフマン |  |  |
 | boukoku daitouryou | 某国大統領 |  |  |
 | yuuki fuumi | 有機風味 |  |  |
-| nonohara miki | 野々原幹(野野原干) | [维基百科](https://zh.wikipedia.org/wiki/野野原幹)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/野々原幹)<br>[https://dyon.sakura.ne.jp/dyondiary/](https://dyon.sakura.ne.jp/dyondiary/) |  |
+| nonohara miki | 野野原干 | 野々原幹 | [维基百科](https://zh.wikipedia.org/wiki/野野原幹) [维基百科（日语）](https://ja.wikipedia.org/wiki/野々原幹) [https://dyon.sakura.ne.jp/dyondiary/](https://dyon.sakura.ne.jp/dyondiary/) |
 | yumejidake | ユメジダケ |  |  |
 | morino koala | 森乃こあら |  |  |
 | genmai | 玄米 |  | [pixiv](https://www.pixiv.net/users/4749437) |
@@ -13159,7 +13159,7 @@ example:
 | hiroki00 | Hiro潶 |  | [pixiv](https://www.pixiv.net/users/56015531)<br>[X](https://x.com/mimogulu) |
 | keganin | 毛蟹ん |  | [X](https://x.com/kegani_umai) |
 | yuzu kiro | ゆずきいろ |  |  |
-| nekoma kotomitsu | 猫間ことみつ \| 猫間ことみ |  |  |
+| nekoma kotomitsu | 猫間ことみつ |  |  |
 | particular | ぱてくらー |  |  |
 | karashina en | カラシナ円 |  |  |
 | hagakure kurage | 葉隠くらげ |  |  |
@@ -13186,7 +13186,7 @@ example:
 | mizunashi tomo | 水梨 朋 |  | [pixiv](https://www.pixiv.net/artworks/58822174) |
 | miyazen | みやぜん |  | [pixiv](https://www.pixiv.net/users/7195724)<br>[X](https://x.com/v4l215ool) |
 | kitamimaki kei | 北御牧庆 |  |  |
-| yoruhoshi owl | 夜星アウル(夜星猫头鹰) |  |  |
+| yoruhoshi owl | 夜星猫头鹰 | 夜星アウル |  |
 | oshiro shiroo | 尾白白尾 |  |  |
 | torriet | Torriet-トリエット- | 🖤Visual Novel - Four Lights<br>韩语使用 | [X](https://x.com/Tiamant_Torriet)<br>[https://store.onstove.com/ko/games/1802](https://store.onstove.com/ko/games/1802)<br>[https://store.steampowered.com/app/2444660/\_\_\_\_1\_Iruka\_Route/](https://store.steampowered.com/app/2444660/____1_Iruka_Route/)<br>[FANBOX](https://tiamant-torriet.fanbox.cc/)<br>[Gumroad](https://torriet.gumroad.com/)<br>[https://fanding.kr/@TiamantTorriet/](https://fanding.kr/@TiamantTorriet/)<br>[pixiv](https://www.pixiv.net/users/59375709)<br>[https://skebetter.com/author/1137045511712567296/illust](https://skebetter.com/author/1137045511712567296/illust)<br>[Instagram](https://www.instagram.com/tiamant_torriet) |
 | sano hiyori | 茶乃ひより |  | [pixiv](https://www.pixiv.net/users/52644245)<br>[X](https://x.com/sn_hiyori) |
@@ -13286,7 +13286,7 @@ example:
 | komizuki | 古弥月 |  |  |
 | pukyunosuke | ぷきゅのすけ |  |  |
 | motsunuki | もつぬき |  |  |
-| nakamori ai | 中森 愛 |  |  |
+| nakamori ai | 中森愛 |  |  |
 | goto kasumi | 五藤加純 |  |  |
 | harenochi sakana | 晴のちsakana |  | [pixiv](https://www.pixiv.net/users/3595551)<br>[X](https://x.com/osakana_p_p) |
 | echihiro | えちひろ |  |  |
@@ -13384,9 +13384,9 @@ example:
 | yagicom | ヤギコム | ![X](https://pbs.twimg.com/profile_images/1839216812455518208/3hum96zt_400x400.jpg)<br>**作者X头像**<br><br>![works](# "https://pbs.twimg.com/media/GYtT6cpaUAAqEDJ?format=jpg&name=large") | [X](https://x.com/yagicomeon) [pixiv](https://www.pixiv.net/users/62519521) |
 | xuemian dousha | 雪绵豆沙 |  |  |
 | thalia | Thalia |  |  |
-| ceo neet | neet社长/ニート社長 |  |  |
+| ceo neet | neet社长 | ニート社長 |  |
 | kokureki | 黒礫 |  |  |
-| ookami hika | 绯华/緋華 |  |  |
+| ookami hika | 绯华 | 緋華 |  |
 | kakao rantan | カカオ・ランタン |  |  |
 | goulianlian | 狗脸脸dogface |  |  |
 | rea loixacra | REA Loixacra |  |  |
@@ -13398,7 +13398,7 @@ example:
 | doco | Doco |  |  |
 | basoba | ばそば |  |  |
 | shittori bouzu | しっとりボウズ |  |  |
-| tukigi kousuke | 月木浩介（月木） |  | [Fantia](https://fantia.jp/fanclubs/491908) |
+| tukigi kousuke | 月木浩介 |  | [Fantia](https://fantia.jp/fanclubs/491908) |
 | nakamura taiyaki | 中村たいやき |  | [pixiv](https://www.pixiv.net/users/2239312) [X](https://x.com/tiyk_nkmr/) |
 | payochiyo | ぱょちょ |  | [X](https://x.com/payochiyo) [pixiv](https://www.pixiv.net/users/63438284) |
 | otoduki moduku | 音月もづく |  | [X](https://x.com/otodukunyan) |
@@ -13421,7 +13421,7 @@ example:
 | super nagoyaka | すーぱーなごやか |  | [pixiv](https://www.pixiv.net/users/10490394) |
 | morigami | 森神 |  |  |
 | syroh | Syroh |  |  |
-| haduki gyokuto | 叶月玉兔/葉月玉兎 |  |  |
+| haduki gyokuto | 叶月玉兔 | 葉月玉兎 |  |
 | uyuki | 卯雪 |  | [pixiv](https://www.pixiv.net/users/600356) [X](https://x.com/uyuki) |
 | moeyama p-man | 萌山ぴーまん |  |  |
 | drasdr7513 | 龍龍 |  | [X](https://x.com/Drasdr7513) [pixiv](https://www.pixiv.net/users/22563791) |
@@ -13442,10 +13442,10 @@ example:
 | huca | huca |  | [pixiv](https://www.pixiv.net/users/16002030) |
 | eploov | EPLOOV |  | [pixiv](https://www.pixiv.net/users/14859534) |
 | izumi makoto | 泉水真琴 |  |  |
-| kawai maria | 河井まりあ/河井玛丽亚 |  |  |
+| kawai maria | 河井玛丽亚 | 河井まりあ |  |
 | mochizuki kei | 望月けい |  | [pixiv](https://www.pixiv.net/users/1193008)<br>[pixiv](https://www.pixiv.net/fanbox/creator/1193008)<br>[http://www.nicovideo.jp/mylist/39722981](http://www.nicovideo.jp/mylist/39722981) |
-| campyo master | かんぴょ うマスター/观表大师 |  |  |
-| mero | めろ/mero |  |  |
+| campyo master | 观表大师 | かんぴょ うマスター |  |
+| mero | めろ | mero |  |
 | amisawa kenkyuujo | 網澤研究所 |  |  |
 | alicegawa chisato | 有栖川千里 |  |  |
 | kamunika | かむにか |  |  |
@@ -13466,11 +13466,12 @@ example:
 | niliu chahui | 逆流茶会 |  |  |
 | yuunagi seshina | 夕凪セシナ |  |  |
 | kmvt | kmvt |  | [pixiv](https://www.pixiv.net/users/17039192) |
-| umetori uriri | 梅鳥うりり(福永ユミ) |  |  |
+| umetori uriri | 梅鳥うりり |  |  |
+| fukunaga yumi | 福永ユミ |  |  |
 | fairy ai | ふぇありぃあい |  |  |
 | kuro urushi | 黑漆 |  |  |
 | kronosaurs | クロノトカゲ |  | [X](https://x.com/Krono_saurus) |
-| ooyun | 然先生(然学生) | ![G41](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>代表作: 少女前线[如何使用娃娃]系列本 | [P站](https://www.pixiv.net/users/8046610)<br>[Xitter小号](https://x.com/yun_ooyun)<br>[Xitter大号](https://x.com/chinchilla_yeon)<br>[Patreon](https://www.patreon.com/c/ooyun/posts)<br>[Instagram](https://www.instagram.com/chinchilla_yeon)<br>[B站](https://space.bilibili.com/3493279276468910) |
+| ooyun | 然先生 | ![G41](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>代表作: 少女前线[如何使用娃娃]系列本 | [P站](https://www.pixiv.net/users/8046610)<br>[Xitter小号](https://x.com/yun_ooyun)<br>[Xitter大号](https://x.com/chinchilla_yeon)<br>[Patreon](https://www.patreon.com/c/ooyun/posts)<br>[Instagram](https://www.instagram.com/chinchilla_yeon)<br>[B站](https://space.bilibili.com/3493279276468910) |
 | pectoriah | pectoriah |  | [pixiv](https://www.pixiv.net/users/93527925) |
 | bechu | BECHU |  |  |
 | zasetsuou | 挫折王 |  |  |

@@ -5668,7 +5668,7 @@ example:
 | reina aharen | 阿波连玲奈 |  |  |
 | suzune horikita | 堀北铃音 |  |  |
 | fauna | 塞莱希·法娜 |  |  |
-| momo ayase | 綾瀬桃 | 绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f7039b56a9b41ffa513d27976898?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/绫濑桃/63774516) |
+| momo ayase | 绫濑桃 | 绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f7039b56a9b41ffa513d27976898?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/绫濑桃/63774516) |
 | andrew graves | 安德鲁·格雷夫斯 | 《安迪和莱利的棺材》中男主角，阿什利·格雷夫斯的哥哥 |  |
 | mrs. graves | 格雷夫斯太太 | 《安迪和莱利的棺材》中兄妹的母亲 |  |
 | ashley graves | 阿什利·格雷夫斯 | 《安迪和莱利的棺材》中的女主，安德鲁·格雷夫斯的妹妹 |  |
@@ -5702,7 +5702,6 @@ example:
 | burnice white | 柏妮思·怀特 | 柏妮思·怀特是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/16/bf/16bfbb552bc0075d4ae709c981f3b42cd5fc1e79-3383435-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/柏妮思·怀特) |
 | miyabi hoshimi | 星见雅 | 星见雅是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/de/d3/ded3478af3a5d7e231a8b7e3368b911c253f53b6-2584467-1440-1920-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/星见雅) |
 | camellya | 椿 | 椿是库洛制作的游戏《鸣潮》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椿%28鸣潮%29#) |
-| koseki bijou | 古石ビジュ― |  | [hololive官网](https://hololive.hololivepro.com/talents/koseki-bijou/) |
 | luciana auxesis theodoro de montefio | 露西 | 露西亚娜·奥克希斯·提奥多·德·蒙特夫，简称露西，是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/1c/1d/1c1db16f6d42e791094e7942cb8aeae39536b48f-3133414-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西亚娜·奥克希斯·提奥多·德·蒙特夫) |
 | tomoki kuroki | 黑木智贵 |  |  |
 | muelsyse | 缪尔赛思 |  | [https://prts.wiki/w/缪尔赛思](https://prts.wiki/w/缪尔赛思) |
@@ -5764,7 +5763,7 @@ example:
 | mitsuki yoigahama | 宵滨深月 | ![](https://moegirl.uk/images/f/f0/Mitsuki_prin_cone.png)<br>宵滨深月（日语：宵ヶ浜（よいがはま） 深月（みつき））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为深月（日语：ミツキ）。 | [萌娘百科](https://moegirl.uk/宵滨深月) |
 | rin morichika | 森近铃 | ![](https://moegirl.uk/images/5/54/Rin_prin_cone.png)<br>森近铃（日语：森近（もりちか） 鈴（りん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为铃（日语：リン）。 | [萌娘百科](https://moegirl.uk/森近铃) |
 | riri tokugawa | 德川莉莉 | ![](https://moegirl.uk/images/1/15/Tokukawa_Riri_PCR.png)<br>德川莉莉（日语：徳川（とくかわ） 莉々（りり））是Cygames开发和发行的游戏《公主连结Re:Dive》的登场角色。在游戏世界内的ID为莉莉（日语：リリ）。 | [萌娘百科](https://moegirl.uk/德川莉莉) |
-| precia wiseman | 普雷西娅・怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
+| precia wiseman | 普雷西娅·怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
 | quria | 久央璃亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/4/43/fwap3641s1qz8ss8ihn5o6cxcgz3abb.png/178px-可璃亚（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/可璃亚（堕天使）) |
 | yume kuchinashi | 栀子梦 | 栀子梦，是游戏《蔚蓝档案》中的学生。前阿拜多斯学生会成员。<br>![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f962d11f01322dd42a29340ffd?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/栀子梦/64386409) |
 | riki naoe | 直枝理树 | ![](https://static.wikia.nocookie.net/littlebusters/images/9/98/Riki_Icon.png) | [萌娘百科](https://zh.moegirl.org.cn/直枝理树) |
@@ -5807,9 +5806,9 @@ example:
 | noel niihashi | 新桥诺艾尔 | 日本漫画《burn the witch》及其衍生作品中的女主角<br>新桥诺艾尔（新橋のえる Noel Niihashi），日本漫画《burn the witch》及其衍生作品中的女主角之一，“Wing Bind”的1等保护官，所属于笛吹队。被前辈的妮内称为“尼哈”。 |  |
 | alma armas | 阿尔玛·阿玛斯 |  |  |
 | bambietta basterbine | 邦比爱塔·芭丝塔拜姻 |  |  |
-| midnight | 午夜[DC漫画] |  |  |
+| midnight | 午夜 |  |  |
 | sumire otohana | 乙花堇 |  |  |
-| marina | 饭田 [斯普拉遁] |  |  |
+| marina | 饭田 |  |  |
 | cecile croomy | 塞希尔·柯尔米 | 塞希尔·柯尔米，日本动画片《Code Geass 反叛的鲁路修》及其衍生作品中的角色。<br>塞希尔·柯尔米，兰斯洛特开发群成员，中尉军衔，兼具同情心与坚韧，对朱雀有好感，是Zero镇魂曲的关键协助者之一， |  |
 | jeremiah gottwald | 杰雷米亚·哥特瓦尔德 | 杰雷米亚·哥特瓦尔德Jeremiah Gottwald，原本是克洛维斯的部下。年齢是28歳。名门出身，原是不列颠纯血主义者纯血派头头的男军官。有著边境伯的爵位，对11区（日本人）们非常蔑视。<br>对于鲁路修的母亲玛丽安娜皇妃极为忠诚，知晓鲁路修的真实身份后，即使是因其身败名裂，也毫不犹豫的向鲁路修效忠 |  |
 | nina einstein | 妮娜·爱因斯坦 | 妮娜·爱因斯坦，小说《Code Geass 反叛的鲁鲁修》及其衍生作品中登场的人物。[1]布里塔尼亚人，精通物理学，原是阿什弗德学园高中部二年级学生、学生会所属人员。 |  |
@@ -5880,9 +5879,9 @@ example:
 | elfnein | 艾芙奈恩 | 艾芙奈恩是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾芙奈恩) |
 | taoqi | 桃祈 | 桃祈是库洛制作的游戏`p:wuthering waves`的登场角色。 |  |
 | miyo harada | 原田美世 |  | [萌娘百科](https://zh.moegirl.org.cn/原田美世) |
-| shouko nishimiya | 西宮硝子 | 西宮硝子是大今良時所創作的漫畫《聲之形》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/4/40/Nishimiya_Shouko_Side.png) | [萌娘百科](https://zh.moegirl.org.cn/西宫硝子) |
+| shouko nishimiya | 西宫硝子 | 西宮硝子是大今良時所創作的漫畫《聲之形》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/4/40/Nishimiya_Shouko_Side.png) | [萌娘百科](https://zh.moegirl.org.cn/西宫硝子) |
 | naoka ueno | 植野直花 | 植野直花是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6f/Ueno-img.png/320px-Ueno-img.png) | [萌娘百科](https://zh.moegirl.org.cn/植野直花) |
-| shouya ishida | 石田將也 | 石田將也（日語：石田 将也）是由大今良時所創作的漫畫《聲之形》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/8/82/Shoya-img.png) | [萌娘百科](https://zh.moegirl.org.cn/石田将也) |
+| shouya ishida | 石田将也 | 石田將也（日語：石田 将也）是由大今良時所創作的漫畫《聲之形》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/8/82/Shoya-img.png) | [萌娘百科](https://zh.moegirl.org.cn/石田将也) |
 | yuzuru nishimiya | 西宫结弦 | 西宫结弦是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br><br>![](https://pbs.twimg.com/media/EtcKehbXcAEwKvt?format=jpg&name=900x900) | [萌娘百科](https://zh.moegirl.org.cn/西宫结弦) |
 | sayo minakami | 水神小夜 | 水神小夜（日语：水神（みなかみ） 小夜（さよ））是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://i.pixiv.cat/img-master/img/2024/11/01/23/23/57/116177494_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水神小夜) |
 | kaoruko tenkawa | 天川薰子 | 天川薰子（日语：天川（てんかわ） 薫子（かおるこ））是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://c-ssl.dtstatic.com/uploads/blog/202402/17/n6SX2vx4T9gDPjn.thumb.700_0.jpg_webp) | [萌娘百科](https://zh.moegirl.org.cn/天川薰子) |
@@ -5902,7 +5901,7 @@ example:
 | lucy heartfilia | 露西·哈特菲利亚 | 《妖精的尾巴》中的女主角 |  |
 | sakuya sumeragi | 皇咲夜 |  |  |
 | the shorekeeper | 守岸人 | 《鸣潮》角色 | [萌娘百科](https://zh.moegirl.org.cn/守岸人) |
-| yuuki sakuna | 结城昨奈/結城さくな | ![結城](https://img.moegirl.org.cn/common/thumb/b/b3/结城Sakuna信息栏.jpg/560px-结城Sakuna信息栏.jpg)<br>结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。 | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
+| yuuki sakuna | 结城昨奈 | ![結城](https://img.moegirl.org.cn/common/thumb/b/b3/结城Sakuna信息栏.jpg/560px-结城Sakuna信息栏.jpg)<br>结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。 | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
 | noko shikanoko | 鹿乃子乃子 |  |  |
 | torako koshi | 虎视虎子 |  |  |
 | shangri-la | 香格里拉 | 香格里拉是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色 | [维基百科](https://zh.wikipedia.org/wiki/香格里拉號航空母艦)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:香格里拉) |
@@ -5951,17 +5950,16 @@ example:
 | sonia nevermind | 索尼娅·内瓦曼德 |  | [萌娘百科](https://zh.moegirl.org.cn/索尼娅·内瓦曼德) |
 | teruteru hanamura | 花村辉辉 |  | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) |
 | mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
-| shiona | シオナ(Harmonia) |  |  |
 | yoichi isagi | 洁世一 |  | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
 | kurusu natsume | 来栖夏芽 | 来栖夏芽 （ 日语：来栖夏芽 / くるすなつめKurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 | misuzu kamio | 神尾观铃 | AIR女主角之一 (也就是封面上的黄色单马尾) |  |
 | g41 | HKG41/(忠犬) | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>少女前线 Heckler & Koch 小狐狸 |  |
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
 | tachibana hinano | 橘雏乃 | 橘雏乃 （橘 ひなの）是一名从2020年8月14日在Youtube平台开始活动的虚拟UP主，所属于业界团体VSPO!。 | [萌娘百科](https://zh.moegirl.org.cn/橘雏乃) |
-| roronoa zoro | 罗罗诺亚・索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
+| roronoa zoro | 罗罗诺亚·索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
 | sanji vinsmoke | 文斯莫克·山治 | 草帽一伙的厨师，路飞的第四位伙伴（严谨点来说是第三位，因为在打败阿龙前娜美与路飞仅仅只是“合作”关系），主力战斗员之一。 | [萌娘百科](https://zh.moegirl.org.cn/山治) |
 | zorro | 索隆 |  |  |
-| ryoutarou tsuboi | 壶井辽太郎 （克莱因） | 壶井辽太郎 （克莱因）是轻小说《刀剑神域》（《Sword Art Online》）及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
+| ryoutarou tsuboi | 壶井辽太郎（克莱因） | 壶井辽太郎 （克莱因）是轻小说《刀剑神域》（《Sword Art Online》）及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
