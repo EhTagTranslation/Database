@@ -13481,6 +13481,7 @@ example:
 | nekoyashiki pushio | 猫屋敷ぷしお（ぬこぷし） |  |  |
 | kirimitsu | 桐光 |  | [pixiv](https://www.pixiv.net/users/31018422) [X](https://x.com/kirimmitsu) |
 | prywinko | Prywinko |  | [X](https://x.com/prywinkoart) [pixiv](https://www.pixiv.net/users/11035409) |
+| olive | おりーぶ/橄榄 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
