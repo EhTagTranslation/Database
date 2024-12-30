@@ -2417,7 +2417,7 @@ example:
 | yuzuna hiyo | 柚子奈ひよ |  | [X](https://x.com/yuzuna_hiyo) [pixiv](https://www.pixiv.net/users/3411827) |
 | kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
-| shiromochi sakura | 白もち桜 |  | [pixiv](https://www.pixiv.net/users/6837882) [X](https://x.com/sakura_siromoti) |
+| shiromochi sakura | 白もち桜/白饼樱 |  | [pixiv](https://www.pixiv.net/users/6837882) [X](https://x.com/sakura_siromoti) |
 | shimao kazu | 嶋尾和 |  |  |
 | kanou ryuuji | 叶竜児 |  |  |
 | yatanukikey | やたぬき圭 |  |  |
