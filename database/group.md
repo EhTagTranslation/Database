@@ -13052,6 +13052,7 @@ example:
 | black lacquer | Black Lacquer |  |  |
 | fukufuku | Fuku Fuku! |  |  |
 | joutyohuantei | 情緒不安定 |  |  |
+| rokuchounome | 六丁の目/六丁目 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
