@@ -13125,7 +13125,7 @@ example:
 | tachibana kou | 橘こお |  |  |
 | kutsushita danshaku | 靴下男爵 |  |  |
 | taniyama-san | 谷山さん |  |  |
-| kannagi rei | かんなぎれい |  |  |
+| kannagi rei | 神薙丽 |  |  |
 | luicent | るいせんと |  | [X](https://x.com/llluicent)<br>[pixiv](https://www.pixiv.net/users/4742132) |
 | dnwls3010 | ふわり |  | [X](https://x.com/dnwls3010)<br>[pixiv](https://www.pixiv.net/users/9212166) |
 | rucaco | るかこ |  | [pixiv](https://www.pixiv.net/users/9155411)<br>[X](https://x.com/_rucaco_) |
