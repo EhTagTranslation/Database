@@ -190,7 +190,7 @@ example:
 | mikeou | みけおう |  |  |
 | hinata nao | 日向奈尾 |  | [pixiv](https://www.pixiv.net/users/11887) |
 | sakurazaka tsuchiyu | 樱坂千由 | 桜坂 つちゆ，日本男性插画师，游戏原画师，隶属MOONSTONE（月光石）。百合爱好者 | [https://vndb.org/s4202](https://vndb.org/s4202)<br>[http://recruit413.blog117.fc2.com/](http://recruit413.blog117.fc2.com/)<br>[X](https://x.com/tsutyu13)<br>[pixiv](https://www.pixiv.net/users/101186) |
-| yamakaze ran | やまかぜ嵐 |  |  |
+| yamakaze ran | 山风岚 |  |  |
 | anko | あん子 \| あんこ |  |  |
 | kohaku. | こはく。 |  |  |
 | kousaka jun | 香坂纯 |  |  |
