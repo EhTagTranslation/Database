@@ -13486,6 +13486,7 @@ example:
 | aona masao | 苍鱼真青 |  |  |
 | kazami haruki | 风见春树 |  |  |
 | riv | Riv |  |  |
+| gairou | ガイロウ |  | [X](https://x.com/TakaKuan) [pixiv](https://www.pixiv.net/users/1339827) |
 
 <!--TEMPLATE:
 |  |  |  |  |
