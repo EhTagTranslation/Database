@@ -13055,6 +13055,7 @@ example:
 | rokuchounome | 六丁の目/六丁目 |  |  |
 | arisugawa no miya | 有栖川ノ宮 |  |  |
 | lillian | Lilian |  |  |
+| hachinosu | 蜂巣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
