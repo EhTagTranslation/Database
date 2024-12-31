@@ -13054,6 +13054,7 @@ example:
 | joutyohuantei | 情緒不安定 |  |  |
 | rokuchounome | 六丁の目/六丁目 |  |  |
 | arisugawa no miya | 有栖川ノ宮 |  |  |
+| lillian | Lilian |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
