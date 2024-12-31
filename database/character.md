@@ -5961,6 +5961,7 @@ example:
 | zorro | 索隆 |  |  |
 | ryoutarou tsuboi | 壶井辽太郎（克莱因） | 壶井辽太郎 （克莱因）是轻小说《刀剑神域》（《Sword Art Online》）及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
 | masazumi honda | 本多·正纯 |  |  |
+| shizuku lulu | 雫るる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
