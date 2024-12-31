@@ -10649,7 +10649,7 @@ example:
 | takorice | たこらいす |  |  |
 | takotyu | たこちゅう |  |  |
 | takoya kiki | 多胡屋きき |  |  |
-| takoyaki | たこ焼き |  |  |
+| takoyaki | 章鱼烧 |  |  |
 | takto | TAKTO |  |  |
 | taku | タク |  |  |
 | taku hiraku | 拓ヒラク |  |  |
