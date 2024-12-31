@@ -13485,6 +13485,7 @@ example:
 | hanamori | はな森 |  | [X](https://x.com/hanamori59ya)<br>[pixiv](https://www.pixiv.net/users/9205975) |
 | aona masao | 苍鱼真青 |  |  |
 | kazami haruki | 风见春树 |  |  |
+| riv | Riv |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
