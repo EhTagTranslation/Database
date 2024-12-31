@@ -10470,7 +10470,7 @@ example:
 | silky to yukai na nakama-tachi | しるきーと愉快な仲間たち |  |  |
 | silmaril | しるまりる |  |  |
 | silver bloom | SILVER BLOOM |  |  |
-| silver bullet | 银色子弹 | ![SB](https://web.archive.org/web/20120130151617im_/http://www.silverbullet.jp/img/info_bsize_imo.jpg)<br>![妹-🔒-](https://web.archive.org/web/20120923130555im_/http://www.silverbullet.jp/imobilizer/img/h2_main.jpg) |  |
+| silver bullet | 银色子弹 | ![妹びらいざー！封面](https://img.achost.top/uploads/subjects/packages/cb069973a952a2db680534f56cef58e4.jpg)<br>![SB](https://web.archive.org/web/20120130151617im_/http://www.silverbullet.jp/img/info_bsize_imo.jpg)<br>![妹-🔒-](https://web.archive.org/web/20120923130555im_/http://www.silverbullet.jp/imobilizer/img/h2_main.jpg) |  |
 | silver way | 銀色宇宙(仮) |  |  |
 | silverfox | 銀狐 |  |  |
 | silver rice | シルバーライス |  |  |
