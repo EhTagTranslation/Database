@@ -2332,6 +2332,7 @@ example:
 | blue lock | 蓝色监狱 |  | [维基百科](https://zh.wikipedia.org/wiki/BLUE_LOCK_藍色監獄)<br>[萌娘百科](https://zh.moegirl.org.cn/蓝色监狱) |
 | tondemo skill de isekai hourou meshi | 超常技能开启奇幻世界美食之旅 |  | [萌娘百科](https://zh.moegirl.org.cn/拥有超常技能的异世界流浪美食家) [维基百科](https://zh.wikipedia.org/wiki/擁有超常技能的異世界流浪美食家) |
 | amagami-san chi no enmusubi | 结缘甘神家 |  |  |
+| kandagawa jet girls | 神田川JET GIRLS |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
