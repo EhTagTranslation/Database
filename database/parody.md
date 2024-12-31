@@ -2333,6 +2333,7 @@ example:
 | tondemo skill de isekai hourou meshi | 超常技能开启奇幻世界美食之旅 |  | [萌娘百科](https://zh.moegirl.org.cn/拥有超常技能的异世界流浪美食家) [维基百科](https://zh.wikipedia.org/wiki/擁有超常技能的異世界流浪美食家) |
 | amagami-san chi no enmusubi | 结缘甘神家 |  |  |
 | kandagawa jet girls | 神田川JET GIRLS |  |  |
+| ninja hattori-kun | 忍者服部君 | 《忍者服部君》（香港译作“忍者小灵精”，台湾译作“忍者哈特利”）作者是藤子不二雄Ⓐ。<br><br>哈特利甘藏是一名修行的伊贺流少年忍者，从伊贺到东京市区，并寄居在三叶家。作品描述哈特利与家中独子健一的友情等，并介绍（或创作）许多忍术，由于忍者出现在现代社会而引来骚动，亦牵涉到两大忍者流派—伊贺流与甲贺流的对立。内容轻松风趣，符合藤子不二雄一直以来的“少年遇上不可思议的人物”之公式故事。 | [维基百科](https://zh.wikipedia.org/wiki/忍者小靈精) [百度百科](https://baike.baidu.com/item/忍者服部君) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
