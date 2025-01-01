@@ -5675,7 +5675,7 @@ example:
 | hinatabokko club | ひなたぼっこ倶楽部 |  |  |
 | hinauta | ひなうた |  |  |
 | hinjyaku | HINJYAKU |  |  |
-| hinoenma haken jimukyoku | 催眠すし屋 |  |  |
+| hinoenma haken jimukyoku | ヒノエンマ派遣事務局 |  |  |
 | hinoiti | ヒノイティ |  |  |
 | hinokiburo | 檜風呂 |  |  |
 | hinokist | hinokist |  |  |
