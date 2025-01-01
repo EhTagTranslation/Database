@@ -7837,7 +7837,7 @@ example:
 | minobu gentle | 身延ジェントル |  |  |
 | minobuya | みのぶ屋 |  |  |
 | minomushitei | みのむし亭 |  |  |
-| minori | Minori | 中二社, 在中国知名度最高的作品是[Eden\*+Mosaic], 后逐渐转型向[巨乳](https://ehwiki.org/wiki/big_breasts)和[超乳](https://ehwiki.org/wiki/huge_breasts)系作品... |  |
+| minori | Minori | ![Xitter头像](https://pbs.twimg.com/profile_images/524210042002612226/9DlFhKKl_400x400.jpeg)<br>also known as 中二社, 巨乳社. 在中国知名度最高的作品是[Eden\*+Mosaic], 后逐渐转型向[巨乳](https://ehwiki.org/wiki/big_breasts)和[超乳](https://ehwiki.org/wiki/huge_breasts)系作品...<br>名称来源于西文单词minority, 意思为少数派, 本社(已倒: 02/18/2019)格言是: We always keep minority spirits. | [VNDB](https://vndb.org/p27) [官网(现MangaGamer)](http://www.minori.ph/) [维基百科(英文)](https://en.wikipedia.org/wiki/Minori_%28company%29) [维基百科(中文)](https://zh.wikipedia.org/wiki/Minori) [维基百科(日文)](https://ja.wikipedia.org/wiki/Minori) [wikidata](https://www.wikidata.org/wiki/Q307403) [Xitter](https://x.com/nekoten_yuuna) [MobyGames](https://www.mobygames.com/company/22502/minori/) [VNStat](https://vnstat.net/developer/27) |
 | minori kenkyuujo | みのり研究所 |  |  |
 | minors escort | マイナーズエスコート |  |  |
 | minpee | みんペー |  |  |
