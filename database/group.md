@@ -7837,7 +7837,7 @@ example:
 | minobu gentle | 身延ジェントル |  |  |
 | minobuya | みのぶ屋 |  |  |
 | minomushitei | みのむし亭 |  |  |
-| minori | minori |  |  |
+| minori | Minori | 中二社, 在中国知名度最高的作品是[Eden\*+Mosaic], 后逐渐转型向[巨乳](https://ehwiki.org/wiki/big_breasts)和[超乳](https://ehwiki.org/wiki/huge_breasts)系作品... |  |
 | minori kenkyuujo | みのり研究所 |  |  |
 | minors escort | マイナーズエスコート |  |  |
 | minpee | みんペー |  |  |
