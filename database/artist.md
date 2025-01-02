@@ -7805,7 +7805,7 @@ example:
 | mezashi gohan | めざしごはん |  |  |
 | mhs | MHS |  |  |
 | mia | みあ |  |  |
-| mibry | MIBRY |  |  |
+| mibry | MIBRY |  | [pixiv](https://www.pixiv.net/users/2367541) |
 | micchan | みっちゃん |  |  |
 | michael f91 | マイコーF91 |  |  |
 | michairu | ミ茶いる |  |  |
