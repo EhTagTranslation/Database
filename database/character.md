@@ -5963,6 +5963,8 @@ example:
 | masazumi honda | 本多·正纯 |  |  |
 | shizuku lulu | 雫るる |  |  |
 | rumia tingel | 露米娅·汀洁尔 | 所属作品: `p:rokudenashi majutsu koushi to akashic records`<br><br>阿尔扎诺帝国魔术学院2年2班学生，个性清纯又温柔，在男生中很受欢迎，被称为“大天使”。擅长以法医咒文和净化咒文为中心的白魔术，不过其他的实技就不擅长了。 | [萌娘百科](https://zh.moegirl.org.cn/露米娅·汀洁尔) |
+| sistine fibel | 希丝缇娜·菲伊贝鲁 | 所属作品: `p:rokudenashi majutsu koushi to akashic records`<br><br>フィジテ地区大地主菲伊贝鲁家的千金，下任当家。和鲁米亚同为阿尔扎诺帝国魔术学院二年二班的魔术学士。一板一眼的优秀学生。银发美少女。鲁米娅他们平时用西丝蒂作为爱称，而格伦则是用白猫的昵称。 | [萌娘百科](https://zh.moegirl.org.cn/希丝缇娜·菲伊贝鲁) |
+| akame | 赤瞳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
