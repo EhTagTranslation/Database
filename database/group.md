@@ -774,7 +774,7 @@ example:
 | bakutaso switch | 爆タソスイッチ |  |  |
 | miyuuhodoh | 美游穗堂 |  |  |
 | 7cm | 7センチ |  |  |
-| nisemididoronokai | 偽MIDI泥の会 |  |  |
+| nisemididoronokai | 伪MIDI泥の会 |  |  |
 | veronica no ha | ヴェロニカの歯 |  |  |
 | jet-black baselarde | 漆黒のバゼラード |  |  |
 | juicebox koujou | ジュースボックス工場 |  |  |
