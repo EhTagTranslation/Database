@@ -1120,7 +1120,7 @@ example:
 | atage | あたげ |  |  |
 | ebina ebi | 海老名えび |  |  |
 | kisen | 奇仙 |  |  |
-| kyockcho | 局长 | ![X](https://pbs.twimg.com/profile_images/1520678936967286784/uIgPl03L_400x400.jpg)<br>きょくちょ | [X](https://x.com/kyockcho) [pixiv](https://www.pixiv.net/users/22782) |
+| kyockcho | 局长 | きょくちょ | [X](https://x.com/kyockcho) [pixiv](https://www.pixiv.net/users/22782) |
 | maumen | まうめん |  |  |
 | nukunuku | ぬくぬく |  |  |
 | sumiyoshi | すみよし |  |  |
