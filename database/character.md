@@ -5966,6 +5966,7 @@ example:
 | sistine fibel | 希丝缇娜·菲伊贝鲁 | 所属作品: `p:rokudenashi majutsu koushi to akashic records`<br><br>フィジテ地区大地主菲伊贝鲁家的千金，下任当家。和鲁米亚同为阿尔扎诺帝国魔术学院二年二班的魔术学士。一板一眼的优秀学生。银发美少女。鲁米娅他们平时用西丝蒂作为爱称，而格伦则是用白猫的昵称。 | [萌娘百科](https://zh.moegirl.org.cn/希丝缇娜·菲伊贝鲁) |
 | akame | 赤瞳 |  |  |
 | erza scarlet | 艾露莎·舒卡勒托 |  |  |
+| kari kamiya | 八神光 | 也译作八神嘉儿，《数码宝贝大冒险》中主角八神太一的妹妹，第八位被选召的孩子。 | [萌娘百科](https://zh.moegirl.org.cn/八神光%28数码宝贝%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
