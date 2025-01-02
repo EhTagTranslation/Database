@@ -5962,6 +5962,7 @@ example:
 | ryoutarou tsuboi | 壶井辽太郎（克莱因） | 壶井辽太郎 （克莱因）是轻小说《刀剑神域》（《Sword Art Online》）及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
 | masazumi honda | 本多·正纯 |  |  |
 | shizuku lulu | 雫るる |  |  |
+| rumia tingel | 露米娅·汀洁尔 | 所属作品: `p:rokudenashi majutsu koushi to akashic records`<br><br>阿尔扎诺帝国魔术学院2年2班学生，个性清纯又温柔，在男生中很受欢迎，被称为“大天使”。擅长以法医咒文和净化咒文为中心的白魔术，不过其他的实技就不擅长了。 | [萌娘百科](https://zh.moegirl.org.cn/露米娅·汀洁尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
