@@ -2110,7 +2110,7 @@ example:
 | ikaros | 伊卡洛斯 |  |  |
 | nymph | 妮姆芙 |  |  |
 | astraea | 阿斯特蕾亚 |  |  |
-| chaos | 卡奥斯 |  |  |
+| chaos | 卡奥斯 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/魔剑卡奥斯)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Chaos) |
 | sohara mitsuki | 见月楚原 |  |  |
 | hiyori kazane | 风音日和 |  |  |
 | mikako satsukitane | 五月田根美香子 |  |  |
