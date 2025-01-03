@@ -13493,6 +13493,7 @@ example:
 | ishii hisao | 石井久雄 |  |  |
 | misaki jun | 箕崎准 |  |  |
 | kaburana | かぶらな |  |  |
+| sasami | 木下沙沙美 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
