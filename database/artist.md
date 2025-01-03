@@ -8227,7 +8227,7 @@ example:
 | moritake | モリタケ |  |  |
 | moritan | もりたん |  |  |
 | moriyama rikka | 森山六花 | 杜山リルカ |  |
-| moriyama shijimi | 森山志美 | ![Pure Marriage 后宫篇贺图](https://www.ryuugames.com/wp-content/uploads/2020/09/masterup-pure-marriage-harem.png)<br>Moriyama Shijimi is a Japanese illustrator. Was part of Lass until December 2016, but will still working on all Pure Marriage games.<br>森山しじみ曾隶属于Lass，并在2016年之后依然作为主力原画为Lass附属Lass Pixy绘制了 Pure Marriage 红线物语系列。(Xitter被关注次数小于3030, 2024/12/23) | [P站](https://www.pixiv.net/users/464124)<br>[Xitter](https://x.com/siji_min)<br>[PH](http://sijimin92.blog27.fc2.com/)<br>[VNDB](https://vndb.org/s2456) |
+| moriyama shijimi | 森山志美 | ![Pure Marriage 后宫篇贺图](https://www.ryuugames.com/wp-content/uploads/2020/09/masterup-pure-marriage-harem.png)<br>Moriyama Shijimi is a Japanese illustrator. Was part of Lass until December 2016, but will still working on all Pure Marriage games.<br>森山しじみ曾隶属于Lass，并在2016年之后依然作为主力原画为Lass附属Lass Pixy绘制了 Pure Marriage 红线物语系列。(Xitter被关注次数小于3030, 2024/12/23) | [P站](https://www.pixiv.net/users/464124) [Xitter](https://x.com/siji_min) [PH](http://sijimin92.blog27.fc2.com/) [VNDB](https://vndb.org/s2456) |
 | morochin-san | もろちんさん |  |  |
 | morokoshitaroh | morokoshitaroh |  |  |
 | morota | もろた |  |  |
