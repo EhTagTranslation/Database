@@ -5976,6 +5976,7 @@ example:
 | menad shisei | 美娜多·希瑟 | `p:rance` |  |
 | reset kalar | 莉赛特·卡拉 | `p:rance` |  |
 | rizna lanfbitt | 利兹娜·兰菲比特 | `p:rance` |  |
+| nagi su ragarl | 娜姬·斯·拉卡鲁 | `p:rance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
