@@ -5973,6 +5973,7 @@ example:
 | rance | 兰斯 | `p:rance` |  |
 | shizuka masou | 魔想志津香 | `p:rance` |  |
 | kouhime | 织田香 | `p:rance` |  |
+| menad shisei | 美娜多·希瑟 | `p:rance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
