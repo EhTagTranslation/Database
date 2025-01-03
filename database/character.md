@@ -5996,6 +5996,7 @@ example:
 | warg | 瓦古·赤 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/5/5f/Warg-X_%288%29.png/1280px-Warg-X_%288%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/e/ec/Warg_-_Kichikuou.png) | [萌娘百科](https://zh.moegirl.org.cn/瓦古·赤) |
 | elena flower | 艾莲娜·弗拉维 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/6/68/Elena_Normal_-_Rance_IX.png)<br>![](https://static.wikitide.net/alicesoftwiki/e/e4/Elena_Flower_-_Kichikuou.png)<br>![](https://img.moegirl.org.cn/common/e/ea/决战艾莲娜1.png) | [萌娘百科](https://zh.moegirl.org.cn/艾莲娜·弗拉维)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Elena_Flower) |
 | heidi pankrau | 海蒂·庞库拉乌 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/e/e1/Heidi-portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/海蒂·庞库拉乌)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Heidi_Pankrau) |
+| nimitz leak | 尼米兹·丽科 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/f/f1/Nimitz-X-Portrait.png/1280px-Nimitz-X-Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/尼米兹·丽科)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Nimitz_Leak) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
