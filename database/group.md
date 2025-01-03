@@ -12308,7 +12308,7 @@ example:
 | yuuji wonder | ゆうじワンダー |  |  |
 | yuujiro | 遊字路 |  |  |
 | yuuk web | yuuk web |  |  |
-| yuukai kinshi | 誘拐禁止 |  |  |
+| yuukai kinshi | 诱拐禁止 |  |  |
 | yuukakumin | 遊廓民 |  |  |
 | yuukan madam | 勇敢マダム |  |  |
 | yuukari soft | ゆ～かりそふと |  |  |
