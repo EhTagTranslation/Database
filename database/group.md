@@ -13058,6 +13058,7 @@ example:
 | hachinosu | 蜂巣 |  |  |
 | peassoft | PeasSoft |  |  |
 | apocalypse nibitashi | アポカリプス煮浸し |  |  |
+| hitsuji no koshoten | 羊の古書店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
