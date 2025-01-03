@@ -5993,6 +5993,7 @@ example:
 | lia parapara leazas | 莉亚·帕拉帕拉·利萨斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/1/1a/Lia-X-Portrait.png/1280px-Lia-X-Portrait.png)<br>![](https://static.wikitide.net/alicesoftwiki/8/8e/Lia-01_%281%29.png) | [萌娘百科](https://zh.moegirl.org.cn/莉亚·帕拉帕拉·利萨斯) |
 | wichita skate | 维吉塔·斯科特 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/7/73/Wichita-X-Website.png)<br>![](https://static.wikitide.net/alicesoftwiki/3/32/Ch_22.jpg)<br>![](https://static.wikitide.net/alicesoftwiki/8/86/Wichita-Kichikuou-portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/维吉塔·斯科特) |
 | silky | 希尔基·特里蕾森 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/0/09/Silky-X_%285%29.png/1280px-Silky-X_%285%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/3/39/Silky_Kichikuou_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/希尔基) |
+| warg | 瓦古·赤 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/5/5f/Warg-X_%288%29.png/1280px-Warg-X_%288%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/e/ec/Warg_-_Kichikuou.png) | [萌娘百科](https://zh.moegirl.org.cn/瓦古·赤) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
