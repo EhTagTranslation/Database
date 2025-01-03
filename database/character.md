@@ -5984,6 +5984,7 @@ example:
 | maria custard | 玛利亚·卡斯塔多 | `p:rance`<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/玛利亚·卡斯塔多_03.png/560px-玛利亚·卡斯塔多_03.png) | [萌娘百科](https://zh.moegirl.org.cn/玛利亚·卡斯塔多) |
 | el mofus | 艾尔·莫福斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/a/a0/El-male-full.png)<br>![](https://static.wikitide.net/alicesoftwiki/8/84/El-female-full.png) | [AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/El_Mofus) |
 | sill plain | 希露·普莱恩 | `p:rance`<br>![](https://img.moegirl.org.cn/common/e/e5/希露立绘R10.png) | [萌娘百科](https://zh.moegirl.org.cn/希露·普莱恩) |
+| kenshin uesugi | 上杉谦信(兰斯系列) | `p:rance`<br>![](https://img.moegirl.org.cn/common/1/1b/上杉谦信_兰斯.webp) | [萌娘百科-上杉谦信(兰斯系列)](https://zh.moegirl.org.cn/上杉谦信%28兰斯系列%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
