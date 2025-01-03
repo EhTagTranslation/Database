@@ -5970,6 +5970,7 @@ example:
 | rika nonaka | 牧野留姬 | 《数码宝贝3：驯兽师之王》的女主角 | [萌娘百科](https://zh.moegirl.org.cn/牧野留姬) |
 | kaede saitou | 斋藤枫 |  |  |
 | chinatsu kano | 鹿野千夏 |  |  |
+| rance | 兰斯 | `p:rance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
