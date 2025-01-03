@@ -5989,6 +5989,7 @@ example:
 | satella | 萨特拉 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/萨特拉) |
 | sen tokugawa | 德川千 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/战姬) |
 | magic the gandhi | 玛吉珂·甘地 | `p:rance`<br>![](https://img.moegirl.org.cn/common/3/36/玛吉珂·甘地.png) | [萌娘百科](https://zh.moegirl.org.cn/玛吉珂·甘地) |
+| gele | 姬尔 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/0/08/Demon_King_Gele_2.png) | [萌娘百科](https://zh.moegirl.org.cn/姬尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
