@@ -7935,7 +7935,7 @@ example:
 | minato akira | 湊晶 |  |  |
 | minato yoshihiro | 湊良弘 |  |  |
 | minatoya shunsaku | 湊谷俊作 |  |  |
-| minatsuki alumi | 水月あるみ |  |  |
+| minatsuki alumi | 水月あるみ | 女性原画师 |  |
 | minatsuki hina | みなつきひな |  |  |
 | minazoi kuina | 水添水鶏 |  |  |
 | minazuki akira | 水無月あきら |  |  |
