@@ -13057,6 +13057,7 @@ example:
 | lillian | Lilian |  |  |
 | hachinosu | 蜂巣 |  |  |
 | peassoft | PeasSoft |  |  |
+| apocalypse nibitashi | アポカリプス煮浸し |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
