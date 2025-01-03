@@ -7091,7 +7091,7 @@ example:
 | lapiz lazuli kouseki | ラピスラズリ鉱石 |  |  |
 | laplacedotcom | らぷらすどっとこむ |  |  |
 | laplacian | Laplacian |  |  |
-| lass | ラス |  |  |
+| lass | Lass |  |  |
 | lass pixy | Lass Pixy |  |  |
 | last eden | LAST EDEN |  |  |
 | last resort | ラストリゾート |  |  |
