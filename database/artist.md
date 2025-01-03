@@ -12922,7 +12922,7 @@ example:
 | consome | 紺そめ |  |  |
 | fuuzasa | ウラザサ |  |  |
 | yukinpo dida | ゆきんぽでぃだ |  |  |
-| garasu hokou | 硝子歩行 |  |  |
+| garasu hokou | 硝子步行 |  |  |
 | hoshitani kyo | 星谷京 |  |  |
 | higashimidou hisagi | 東御堂ひさぎ |  |  |
 | tsuruga | 鹤贺 | ![X](https://pbs.twimg.com/profile_images/1672365170738499585/UY0OsT7t_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/CGylger_0010) [pixiv](https://www.pixiv.net/users/5193360) |
