@@ -6001,6 +6001,7 @@ example:
 | cafe artful | 卡菲·阿托弗露 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/c/c0/Cafe-X-Website.png)<br>![](https://static.wikitide.net/alicesoftwiki/d/d3/Café_Artul_-_Rance_Quest.png) | [萌娘百科](https://zh.moegirl.org.cn/卡菲·阿托弗露)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Café_Artful) |
 | seiko ayase | 绫濑星子 |  |  |
 | ran nanjou | 南条兰 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/9/9f/Nanjou-Ran-portrait.png) | [AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Nanjou_Ran) |
+| suzume | 铃女 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/a/ab/Suzume-Sengoku_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/9/98/Suzume-Quest_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/thumb/9/97/Suzume-X.png/1280px-Suzume-X.png)<br>![](https://static.wikitide.net/alicesoftwiki/thumb/0/04/Ghost-Suzume-X.png/1280px-Ghost-Suzume-X.png) | [萌娘百科](https://zh.moegirl.org.cn/铃女)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Suzume) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
