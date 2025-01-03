@@ -2924,7 +2924,7 @@ example:
 | wasavi 8 | wasavi\_8 |  | [X](https://x.com/wasavi_8) [pixiv](https://www.pixiv.net/users/1518356) |
 | kitahara aki | 北原亚希 | ![X](https://pbs.twimg.com/profile_images/1490972333472813056/sTVkrpTd_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/aki_kitahara) [pixiv](https://www.pixiv.net/users/511763) |
 | satsuki itsuka | 五月五日 |  | [X](https://x.com/satsuki55) [pixiv](https://www.pixiv.net/users/67168) |
-| kawaraya | 瓦爺 |  | [X](https://x.com/kawaraya_koh) [pixiv](https://www.pixiv.net/users/14074088) |
+| kawaraya | 瓦爷 |  | [X](https://x.com/kawaraya_koh) [pixiv](https://www.pixiv.net/users/14074088) |
 | kamizuki shiki | 守月史贵 | ![X](https://pbs.twimg.com/profile_images/1461980576374616072/fblHMs5W_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/Kamizuki_S1) [pixiv](https://www.pixiv.net/users/979621) |
 | ponekusan | ポネクサン |  | [X](https://x.com/ponekusan) [pixiv](https://www.pixiv.net/users/84450) |
 | akasa tanu | 赤佐たぬ |  | [X](https://x.com/akasatanu512) [pixiv](https://www.pixiv.net/users/583159) |
