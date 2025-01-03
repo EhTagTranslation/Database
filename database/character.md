@@ -5999,6 +5999,7 @@ example:
 | nimitz leak | 尼米兹·丽科 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/f/f1/Nimitz-X-Portrait.png/1280px-Nimitz-X-Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/尼米兹·丽科)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Nimitz_Leak) |
 | crook mofus | 库鲁库·莫福斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/2/2c/Crook-X-Portrait.png/1280px-Crook-X-Portrait.png)<br>![](https://static.wikitide.net/alicesoftwiki/7/76/Crook-Quest_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/thumb/d/d8/Crook-Part-2-Portrait.png/1280px-Crook-Part-2-Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/库鲁库·莫福斯)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Crook_Mofus) |
 | cafe artful | 卡菲·阿托弗露 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/c/c0/Cafe-X-Website.png)<br>![](https://static.wikitide.net/alicesoftwiki/d/d3/Café_Artul_-_Rance_Quest.png) | [萌娘百科](https://zh.moegirl.org.cn/卡菲·阿托弗露)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Café_Artful) |
+| seiko ayase | 绫濑星子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
