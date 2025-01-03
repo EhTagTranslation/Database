@@ -5997,6 +5997,7 @@ example:
 | elena flower | 艾莲娜·弗拉维 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/6/68/Elena_Normal_-_Rance_IX.png)<br>![](https://static.wikitide.net/alicesoftwiki/e/e4/Elena_Flower_-_Kichikuou.png)<br>![](https://img.moegirl.org.cn/common/e/ea/决战艾莲娜1.png) | [萌娘百科](https://zh.moegirl.org.cn/艾莲娜·弗拉维)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Elena_Flower) |
 | heidi pankrau | 海蒂·庞库拉乌 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/e/e1/Heidi-portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/海蒂·庞库拉乌)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Heidi_Pankrau) |
 | nimitz leak | 尼米兹·丽科 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/f/f1/Nimitz-X-Portrait.png/1280px-Nimitz-X-Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/尼米兹·丽科)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Nimitz_Leak) |
+| crook mofus | 库鲁库·莫福斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/2/2c/Crook-X-Portrait.png/1280px-Crook-X-Portrait.png)<br>![](https://static.wikitide.net/alicesoftwiki/7/76/Crook-Quest_%281%29.png) | [萌娘百科](https://zh.moegirl.org.cn/库鲁库·莫福斯)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Crook_Mofus) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
