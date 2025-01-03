@@ -5975,6 +5975,7 @@ example:
 | kouhime | 织田香 | `p:rance` |  |
 | menad shisei | 美娜多·希瑟 | `p:rance` |  |
 | reset kalar | 莉赛特·卡拉 | `p:rance` |  |
+| rizna lanfbitt | 利兹娜·兰菲比特 | `p:rance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
