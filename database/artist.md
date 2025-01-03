@@ -13488,7 +13488,7 @@ example:
 | riv | Riv |  |  |
 | gairou | ガイロウ |  | [X](https://x.com/TakaKuan) [pixiv](https://www.pixiv.net/users/1339827) |
 | bionics nattou | バイオニクス納豆 |  |  |
-| bee doushi | Bee導師 | 社团`honeyroad`主笔画师 | [pixiv](https://www.pixiv.net/users/9347101) [X](https://x.com/_beverb) |
+| bee doushi | Bee导师 | 社团`honeyroad`主笔画师 | [pixiv](https://www.pixiv.net/users/9347101) [X](https://x.com/_beverb) |
 | nekko | ねっこ |  |  |
 | ishii hisao | 石井久雄 |  |  |
 | misaki jun | 箕崎准 |  |  |
