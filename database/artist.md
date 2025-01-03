@@ -3071,7 +3071,7 @@ example:
 | kaede | ゆか | 白键系列画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [X](https://x.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
 | shobu | 菖蒲 |  | [pixiv](https://www.pixiv.net/users/2588103) |
-| sakayama shinta | 茶化山心太 | 茶菓山しん太 |  |
+| sakayama shinta | 茶菓山しん太 |  |  |
 | takasaki keisuke | 高咲圭介 |  |  |
 | ushino naka | うしの菜夏 |  |  |
 | doskoinpo | doskoinpo |  | [X](https://x.com/doskoinpo) [pixiv](https://www.pixiv.net/users/2960920) |
