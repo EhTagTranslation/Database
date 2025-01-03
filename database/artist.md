@@ -3385,7 +3385,7 @@ example:
 | meganei | メガねぃ | ![X](https://pbs.twimg.com/profile_images/1196262215298371584/DgVn-TEf_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/EiChfxfVoAAa6VT?format=jpg&name=medium")<br><br>单行本 | [X](https://x.com/nei_etc) [pixiv](https://www.pixiv.net/users/10591980) |
 | tamatanuki | たまたぬき |  |  |
 | asabi miho | 山葵美保 |  |  |
-| matsumiya kiseri | 茉宮祈芹 |  | [X](https://x.com/kiseri0502) [pixiv](https://www.pixiv.net/users/465979) |
+| matsumiya kiseri | 茉宫祈芹 |  | [X](https://x.com/kiseri0502) [pixiv](https://www.pixiv.net/users/465979) |
 | hirokawa | 広川 | 大人的玩具(大人のおもちや)作者 | [X](https://x.com/yanagi_yukito) |
 | kamiya yuu | 榎宮祐 |  | [X](https://x.com/yuukamiya68) [pixiv](https://www.pixiv.net/users/19276) |
 | imigimuru | いみぎむる |  | [X](https://x.com/imigimuru) [pixiv](https://www.pixiv.net/users/39265042) |
