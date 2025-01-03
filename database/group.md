@@ -12843,7 +12843,7 @@ example:
 | porcini | ぽるちーに |  |  |
 | shoujo rakugakichuu | 少女落描中 |  |  |
 | ikebukuro distillery | 池袋蒸留所 |  |  |
-| honeyroad | honeyroad |  |  |
+| honeyroad | HoneyRoad |  |  |
 | golden bazooka | ゴールデンバズーカ |  |  |
 | nature carute | 天然養殖 |  |  |
 | crazy brain pulse | くれいじーぶれいんぱるす |  |  |
