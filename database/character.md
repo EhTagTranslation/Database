@@ -5977,6 +5977,7 @@ example:
 | reset kalar | 莉赛特·卡拉 | `p:rance` |  |
 | rizna lanfbitt | 利兹娜·兰菲比特 | `p:rance` |  |
 | nagi su ragarl | 娜姬·斯·拉卡鲁 | `p:rance` |  |
+| isoroku yamamoto | 山本五十六(兰斯系列) | `p:rance` | [萌娘百科-山本五十六(兰斯系列)](https://zh.moegirl.org.cn/山本五十六%28兰斯系列%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
