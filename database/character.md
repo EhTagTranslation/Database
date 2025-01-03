@@ -6005,6 +6005,7 @@ example:
 | omachi | 町 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/b/bc/Omachi-portrait.png)<br>![](https://static.wikitide.net/alicesoftwiki/e/ee/Omachi-face.png) | [AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Omachi) |
 | urza pranaice | 乌鲁泽·普拉纳爱斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/2/26/Urza-face.png)<br>![](https://static.wikitide.net/alicesoftwiki/d/db/Urza-Reborn.png)<br>![](https://img.moegirl.org.cn/common/f/fc/乌鲁泽·普拉纳艾斯军装.png)<br>![](https://img.moegirl.org.cn/common/0/09/乌鲁泽轮椅立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/乌鲁泽·普拉纳爱斯)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Urza_Pranaice) |
 | maris amaryllis | 玛丽斯·阿玛莉莉丝 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/5/53/Maris-01_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/0/08/Maris-01_%282%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/a/ae/Maris-Kichikuou_%281%29.png) | [萌娘百科](https://zh.moegirl.org.cn/玛丽斯·阿玛莉莉丝)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Maris_Amaryllis) |
+| pinecone | 松果 | 松果，本名米娜，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/松果) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
