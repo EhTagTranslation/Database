@@ -5988,6 +5988,7 @@ example:
 | pastel kalar | 帕斯特尔·卡拉 | `p:rance`<br>![](https://img.moegirl.org.cn/common/thumb/9/96/决战帕斯特尔.png/1280px-决战帕斯特尔.png) | [萌娘百科](https://zh.moegirl.org.cn/帕斯特尔·卡拉) |
 | satella | 萨特拉 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/萨特拉) |
 | sen tokugawa | 德川千 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/战姬) |
+| magic the gandhi | 玛吉珂·甘地 | `p:rance`<br>![](https://img.moegirl.org.cn/common/3/36/玛吉珂·甘地.png) | [萌娘百科](https://zh.moegirl.org.cn/玛吉珂·甘地) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
