@@ -5987,6 +5987,7 @@ example:
 | kenshin uesugi | 上杉谦信(兰斯系列) | `p:rance`<br>![](https://img.moegirl.org.cn/common/1/1b/上杉谦信_兰斯.webp) | [萌娘百科-上杉谦信(兰斯系列)](https://zh.moegirl.org.cn/上杉谦信%28兰斯系列%29#) |
 | pastel kalar | 帕斯特尔·卡拉 | `p:rance`<br>![](https://img.moegirl.org.cn/common/thumb/9/96/决战帕斯特尔.png/1280px-决战帕斯特尔.png) | [萌娘百科](https://zh.moegirl.org.cn/帕斯特尔·卡拉) |
 | satella | 萨特拉 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/萨特拉) |
+| sen tokugawa | 德川千 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/战姬) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
