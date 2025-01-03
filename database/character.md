@@ -5978,6 +5978,7 @@ example:
 | rizna lanfbitt | 利兹娜·兰菲比特 | `p:rance` |  |
 | nagi su ragarl | 娜姬·斯·拉卡鲁 | `p:rance` |  |
 | isoroku yamamoto | 山本五十六(兰斯系列) | `p:rance` | [萌娘百科-山本五十六(兰斯系列)](https://zh.moegirl.org.cn/山本五十六%28兰斯系列%29#) |
+| la hawzel | 拉·哈泽璐 | `p:rance`<br>与兰斯10译名不同 | [萌娘百科](https://zh.moegirl.org.cn/拉·哈泽璐) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
