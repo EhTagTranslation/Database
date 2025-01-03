@@ -5974,6 +5974,7 @@ example:
 | shizuka masou | 魔想志津香 | `p:rance` |  |
 | kouhime | 织田香 | `p:rance` |  |
 | menad shisei | 美娜多·希瑟 | `p:rance` |  |
+| reset kalar | 莉赛特·卡拉 | `p:rance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
