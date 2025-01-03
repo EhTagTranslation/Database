@@ -13492,6 +13492,7 @@ example:
 | nekko | ねっこ |  |  |
 | ishii hisao | 石井久雄 |  |  |
 | misaki jun | 箕崎准 |  |  |
+| kaburana | かぶらな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
