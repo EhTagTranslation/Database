@@ -5972,6 +5972,7 @@ example:
 | chinatsu kano | 鹿野千夏 |  |  |
 | rance | 兰斯 | `p:rance` |  |
 | shizuka masou | 魔想志津香 | `p:rance` |  |
+| kouhime | 织田香 | `p:rance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
