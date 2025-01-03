@@ -13494,6 +13494,7 @@ example:
 | misaki jun | 箕崎准 |  |  |
 | kaburana | かぶらな |  |  |
 | sasami | 木下沙沙美 |  |  |
+| chiba sadoru | 千叶鞍 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
