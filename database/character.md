@@ -5968,6 +5968,7 @@ example:
 | erza scarlet | 艾露莎·舒卡勒托 |  |  |
 | kari kamiya | 八神光 | 也译作八神嘉儿，《数码宝贝大冒险》中主角八神太一的妹妹，第八位被选召的孩子。 | [萌娘百科](https://zh.moegirl.org.cn/八神光%28数码宝贝%29) |
 | rika nonaka | 牧野留姬 | 《数码宝贝3：驯兽师之王》的女主角 | [萌娘百科](https://zh.moegirl.org.cn/牧野留姬) |
+| kaede saitou | 斋藤枫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
