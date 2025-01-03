@@ -13490,6 +13490,7 @@ example:
 | bionics nattou | バイオニクス納豆 |  |  |
 | bee doushi | Bee導師 | 社团`honeyroad`主笔画师 | [pixiv](https://www.pixiv.net/users/9347101) [X](https://x.com/_beverb) |
 | nekko | ねっこ |  |  |
+| ishii hisao | 石井久雄 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
