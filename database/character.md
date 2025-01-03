@@ -5980,6 +5980,7 @@ example:
 | isoroku yamamoto | 山本五十六(兰斯系列) | `p:rance` | [萌娘百科-山本五十六(兰斯系列)](https://zh.moegirl.org.cn/山本五十六%28兰斯系列%29#) |
 | la hawzel | 拉·哈泽璐 | `p:rance`<br>与兰斯10译名不同 | [萌娘百科](https://zh.moegirl.org.cn/拉·哈泽璐) |
 | sheila helman | 希拉·赫尔曼 | `p:rance`<br>![](https://img.moegirl.org.cn/common/9/9d/决战希拉.png) | [萌娘百科](https://zh.moegirl.org.cn/希拉·赫尔曼) |
+| kanami kentou | 见当加奈美 | `p:rance`<br>![](https://img.moegirl.org.cn/common/c/cc/见当加奈美_忍者服_R01.png) | [萌娘百科](https://zh.moegirl.org.cn/见当加奈美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
