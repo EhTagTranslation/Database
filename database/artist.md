@@ -13495,6 +13495,7 @@ example:
 | kaburana | かぶらな |  |  |
 | sasami | 木下沙沙美 |  |  |
 | chiba sadoru | 千叶鞍 |  |  |
+| akebi konoha | 明日このは |  | [pixiv](https://www.pixiv.net/users/22255071) [X](https://x.com/konoha_akebi) |
 
 <!--TEMPLATE:
 |  |  |  |  |
