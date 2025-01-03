@@ -12714,7 +12714,7 @@ example:
 | made rokuri | 迄ロクリ |  |  |
 | charin | チャリン |  |  |
 | usodi | ウソヂ |  |  |
-| chairoino | 茶色いの |  | [X](https://x.com/nerinnerinno/) [pixiv](https://www.pixiv.net/users/740547) |
+| chairoino | 茶色いの |  | [X-商业](https://x.com/nerinnerinno/) [X-同人](https://x.com/nerinerinerino) [pixiv](https://www.pixiv.net/users/740547) |
 | sugiyama | 杉山 |  |  |
 | antifreez3 | 天凉多喝防冻液 |  | [FANBOX](https://antifreez3.fanbox.cc/)<br>[pixiv](https://www.pixiv.net/users/15849699) |
 | norihito | 仁人 |  | [pixiv](https://www.pixiv.net/users/97877) [X](https://x.com/norihito) |
