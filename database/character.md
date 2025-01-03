@@ -6003,6 +6003,7 @@ example:
 | ran nanjou | 南条兰 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/9/9f/Nanjou-Ran-portrait.png) | [AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Nanjou_Ran) |
 | suzume | 铃女 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/a/ab/Suzume-Sengoku_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/9/98/Suzume-Quest_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/thumb/9/97/Suzume-X.png/1280px-Suzume-X.png)<br>![](https://static.wikitide.net/alicesoftwiki/thumb/0/04/Ghost-Suzume-X.png/1280px-Ghost-Suzume-X.png) | [萌娘百科](https://zh.moegirl.org.cn/铃女)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Suzume) |
 | omachi | 町 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/b/bc/Omachi-portrait.png)<br>![](https://static.wikitide.net/alicesoftwiki/e/ee/Omachi-face.png) | [AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Omachi) |
+| urza pranaice | 乌鲁泽·普拉纳爱斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/2/26/Urza-face.png)<br>![](https://static.wikitide.net/alicesoftwiki/d/db/Urza-Reborn.png)<br>![](https://img.moegirl.org.cn/common/f/fc/乌鲁泽·普拉纳艾斯军装.png)<br>![](https://img.moegirl.org.cn/common/0/09/乌鲁泽轮椅立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/乌鲁泽·普拉纳爱斯)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Urza_Pranaice) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
