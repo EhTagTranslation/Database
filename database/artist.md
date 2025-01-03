@@ -1372,7 +1372,7 @@ example:
 | takebayashi takeshi | 武林武士 |  |  |
 | umemaru | うめ丸 |  |  |
 | eo masaka | EOまさか |  |  |
-| hanabi | HANABi |  |  |
+| hanabi | HANABi |  | [pixiv](https://www.pixiv.net/users/270669) |
 | kakizaki kousei | 垣崎コウセイ |  |  |
 | miyamoto issa | 宮元一佐 |  |  |
 | murasaki nyaa | 紫☆にゃ～ |  |  |
