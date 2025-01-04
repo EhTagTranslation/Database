@@ -13498,6 +13498,7 @@ example:
 | akebi konoha | 明日このは |  | [pixiv](https://www.pixiv.net/users/22255071) [X](https://x.com/konoha_akebi) |
 | choco dice | ちょこだいす |  | [X](https://x.com/dice_choco) [pixiv](https://www.pixiv.net/users/32930770) |
 | fueru nattou | 増える納豆 |  | [pixiv](https://www.pixiv.net/users/9053979) |
+| benzhu | Benzhu |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
