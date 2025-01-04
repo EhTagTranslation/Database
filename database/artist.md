@@ -13499,6 +13499,7 @@ example:
 | choco dice | ちょこだいす |  | [X](https://x.com/dice_choco) [pixiv](https://www.pixiv.net/users/32930770) |
 | fueru nattou | 増える納豆 |  | [pixiv](https://www.pixiv.net/users/9053979) |
 | benzhu | Benzhu |  | [P站](https://www.pixiv.net/users/107524485) |
+| meishouhen | 名称片 |  | [pixiv](https://www.pixiv.net/users/17105902) [X](https://x.com/_2p_h) |
 
 <!--TEMPLATE:
 |  |  |  |  |
