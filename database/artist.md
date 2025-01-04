@@ -13503,6 +13503,7 @@ example:
 | muchimo | むちも |  | [pixiv](https://www.pixiv.net/users/14399515) [X](https://x.com/mottirimuttiri) |
 | kanae kanaeco | 鼎かなえこ |  | [pixiv](https://www.pixiv.net/users/2205626) [X](https://x.com/kanaeco25) |
 | isana | 勇魚 |  |  |
+| harukake kakeru | 春风翔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
