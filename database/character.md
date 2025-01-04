@@ -6009,6 +6009,7 @@ example:
 | yuuri wakasa | 若狭悠里 | 学园孤岛女主人公之一 |  |
 | miki naoki | 直树美纪 | 学园孤岛女主人公之一 |  |
 | yuki takeya | 丈枪由纪 | 学园孤岛女主人公之一 |  |
+| erika hatami | 旗见绘里香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
