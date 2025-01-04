@@ -13502,6 +13502,7 @@ example:
 | meishouhen | 名称片 |  | [pixiv](https://www.pixiv.net/users/17105902) [X](https://x.com/_2p_h) |
 | muchimo | むちも |  | [pixiv](https://www.pixiv.net/users/14399515) [X](https://x.com/mottirimuttiri) |
 | kanae kanaeco | 鼎かなえこ |  | [pixiv](https://www.pixiv.net/users/2205626) [X](https://x.com/kanaeco25) |
+| isana | 勇魚 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
