@@ -13060,6 +13060,7 @@ example:
 | apocalypse nibitashi | アポカリプス煮浸し |  |  |
 | hitsuji no koshoten | 羊の古書店 |  |  |
 | korokoro saikoro | ころころサイコロ |  |  |
+| dangai zeppeki | 断崖絶癖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
