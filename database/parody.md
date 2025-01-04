@@ -2336,6 +2336,7 @@ example:
 | ninja hattori-kun | 忍者服部君 | 《忍者服部君》（香港译作“忍者小灵精”，台湾译作“忍者哈特利”）作者是藤子不二雄Ⓐ。<br><br>哈特利甘藏是一名修行的伊贺流少年忍者，从伊贺到东京市区，并寄居在三叶家。作品描述哈特利与家中独子健一的友情等，并介绍（或创作）许多忍术，由于忍者出现在现代社会而引来骚动，亦牵涉到两大忍者流派—伊贺流与甲贺流的对立。内容轻松风趣，符合藤子不二雄一直以来的“少年遇上不可思议的人物”之公式故事。 | [维基百科](https://zh.wikipedia.org/wiki/忍者小靈精) [百度百科](https://baike.baidu.com/item/忍者服部君) |
 | twinkle crusaders | 闪耀十字军 |  |  |
 | ao no hako | 青之箱 |  |  |
+| okujou no yurirei-san | 屋上的百合灵 | 《屋上的百合灵》（日语：屋上の百合霊さん，英语：Kindred Spirits on the Roof(注)）是一部由Liar-soft开发，MangaGamer发行的百合向文字冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/屋上的百合灵) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
