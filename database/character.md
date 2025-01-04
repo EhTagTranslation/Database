@@ -6008,6 +6008,7 @@ example:
 | pinecone | 松果 | 松果，本名米娜，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/松果) |
 | yuuri wakasa | 若狭悠里 | 学园孤岛女主人公之一 |  |
 | miki naoki | 直树美纪 |  |  |
+| yuki takeya | 丈枪由纪 | 学园孤岛女主人公之一 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
