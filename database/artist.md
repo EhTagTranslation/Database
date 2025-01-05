@@ -3985,7 +3985,7 @@ example:
 | akitani | 明谷 |  |  |
 | akito | あきと |  |  |
 | akitsuki hirozumi | 秋月ひろずみ |  |  |
-| akitsuki karasu | 榎本ひでひら |  |  |
+| akitsuki karasu | 秋月からす |  |  |
 | akiyama | あきやま |  |  |
 | akiyama kenta | あきやまけんた |  |  |
 | akiyama yuuzi | 秋山裕治 |  |  |
