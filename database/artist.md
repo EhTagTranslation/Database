@@ -13504,6 +13504,7 @@ example:
 | kanae kanaeco | 鼎かなえこ |  | [pixiv](https://www.pixiv.net/users/2205626) [X](https://x.com/kanaeco25) |
 | isana | 勇魚 |  |  |
 | harukake kakeru | 春风翔 |  |  |
+| aoba | 青叶 | ![](https://i.pixiv.cat/user-profile/img/2015/02/01/19/11/46/8915784_195448026b18f94cc64851ba1a04327e_170.jpg)<br>经常创作一些包含少女石化、冻结、猎奇、改造、触手等恋物元素的作品。也喜欢涉及寝取题材的内容。不过普通的萌系作品也很喜欢。此外，也喜欢创作被后入的女孩子w。 | [pixiv](https://www.pixiv.net/users/133221) |
 
 <!--TEMPLATE:
 |  |  |  |  |
