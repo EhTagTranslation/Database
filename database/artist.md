@@ -3748,7 +3748,7 @@ example:
 | 33297 | 33297 |  |  |
 | 0-g | 0-G |  |  |
 | 0bake | 0BAKE |  |  |
-| 0k0j0 | 0k0j0 |  |  |
+| 0k0j0 | 0k0j0 |  | [pixiv](https://www.pixiv.net/users/60084) |
 | 10-shion | 10-Shion |  |  |
 | 10mo | 10mo |  |  |
 | 10nin | 10nin |  |  |
