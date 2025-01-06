@@ -13062,6 +13062,7 @@ example:
 | korokoro saikoro | ころころサイコロ |  |  |
 | dangai zeppeki | 断崖絶癖 |  |  |
 | cat or fox | Cat or Fox! |  |  |
+| akaneiro no kinmokusei | 茜色ノ金木犀 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
