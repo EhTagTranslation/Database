@@ -13106,7 +13106,7 @@ example:
 | tamima | たみま |  | [pixiv](https://www.pixiv.net/users/18131292) [X](https://x.com/tamima0307) |
 | amaki | あまき |  | [pixiv](https://www.pixiv.net/users/14849343) [X](https://x.com/amaki_2083) |
 | puru | puru |  | [pixiv](https://www.pixiv.net/users/14038103) |
-| sheryama | シャーやま |  |  |
+| sheryama | シャーやま |  | [pixiv](https://www.pixiv.net/users/41843853) |
 | hoshara | ほしゃら |  |  |
 | panna | ぱんな |  |  |
 | sabuustar | さぶ～☆ |  |  |
