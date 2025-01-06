@@ -13061,6 +13061,7 @@ example:
 | hitsuji no koshoten | 羊の古書店 |  |  |
 | korokoro saikoro | ころころサイコロ |  |  |
 | dangai zeppeki | 断崖絶癖 |  |  |
+| cat or fox | Cat or Fox! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
