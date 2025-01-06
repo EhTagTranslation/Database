@@ -6011,6 +6011,7 @@ example:
 | yuki takeya | 丈枪由纪 | 学园孤岛女主人公之一 |  |
 | erika hatami | 旗见绘里香 |  |  |
 | kanae itou | 伊藤香苗 |  | [pixiv](https://dic.pixiv.net/a/伊藤香苗) |
+| juri ushimaki | 牛牧茱莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
