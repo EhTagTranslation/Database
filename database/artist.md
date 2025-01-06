@@ -13466,7 +13466,7 @@ example:
 | niliu chahui | 逆流茶会 |  |  |
 | yuunagi seshina | 夕凪セシナ |  |  |
 | kmvt | kmvt |  | [pixiv](https://www.pixiv.net/users/17039192) |
-| umetori uriri | 梅鳥うりり(福永ユミ) |  |  |
+| umetori uriri | 梅鳥うりり(福永ユミ) | 女性原画师 |  |
 | fukunaga yumi | 福永ユミ |  |  |
 | fairy ai | ふぇありぃあい |  |  |
 | kuro urushi | 黑漆 |  |  |
