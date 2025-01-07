@@ -3655,7 +3655,7 @@ example:
 | nemu | ネム |  | [pixiv](https://www.pixiv.net/users/572664) [X](https://x.com/fO6KQFCQBeYPpXb) |
 | yoshika | ヨシカ |  |  |
 | uduki takeru | 卯月たける |  |  |
-| yunagi amane | 憂凪あまね |  |  |
+| yunagi amane | 忧凪天音 |  |  |
 | nusmusbim | ナスムスビム |  |  |
 | tatsu tairagi | 燵成 |  |  |
 | doemutan | どえむたん |  |  |
