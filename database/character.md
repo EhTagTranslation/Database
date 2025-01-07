@@ -6015,6 +6015,7 @@ example:
 | akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
 | jace beleren | 杰斯贝连 | 《万智牌》角色 |  |
 | aira shiratori | 白鸟爱罗 |  |  |
+| ken takakura | 高仓健 | 日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的男主角。因为热衷神秘学事物而被小桃称作“超然仔”（オカルン） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
