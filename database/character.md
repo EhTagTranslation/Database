@@ -6014,6 +6014,7 @@ example:
 | juri ushimaki | 牛牧茱莉 |  |  |
 | akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
 | jace beleren | 杰斯贝连 | 《万智牌》角色 |  |
+| aira shiratori | 白鸟爱罗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
