@@ -13414,7 +13414,7 @@ example:
 | xipa | Xipa |  | [pixiv](https://www.pixiv.net/users/75450767) |
 | serei teru | せれいてる |  |  |
 | azumaya yukiko | アズマヤユキコ |  |  |
-| hamaguchi mitama | 滨口味たま |  |  |
+| hamaguchi mitama | 滨口味たま |  | [X](https://x.com/hamaguchimitama) |
 | kirinama | 桐生 | 别名：きりなま |  |
 | magurono yukinao | スタンダードアザラシ |  |  |
 | sangai | 算涯 |  |  |
