@@ -6012,6 +6012,7 @@ example:
 | erika hatami | 旗见绘里香 |  |  |
 | kanae itou | 伊藤香苗 |  | [pixiv](https://dic.pixiv.net/a/伊藤香苗) |
 | juri ushimaki | 牛牧茱莉 |  |  |
+| akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
