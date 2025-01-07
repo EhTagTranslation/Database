@@ -1997,7 +1997,7 @@ example:
 | waguchi shouka | 和口昇火 |  |  |
 | tenzen miyabi | 天渐雅 |  |  |
 | windart | WindArt |  |  |
-| masaki kei | 真崎ケイ |  |  |
+| masaki kei | 真崎圭 |  |  |
 | mousou-kun | もうそうくん |  |  |
 | ooishi chuuni | 大石中二 |  |  |
 | mitsudoue | みつどうえ |  | [X](https://x.com/mitsudoue_) [pixiv](https://www.pixiv.net/users/6526081) |
