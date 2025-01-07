@@ -4310,7 +4310,7 @@ example:
 | ashi o | Ashi\_O |  |  |
 | ashiashi | あしあし |  |  |
 | ashisyun | 芦俊 |  |  |
-| ashita cha | 明日茶 |  |  |
+| ashita cha | 明日茶 |  | [pixiv](https://www.pixiv.net/users/429855) |
 | ashling | あしゅりんぐ |  |  |
 | ashura kumo | 阿修羅クモ |  |  |
 | asio | アシオ |  |  |
