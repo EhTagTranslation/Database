@@ -2630,7 +2630,7 @@ example:
 | tateha | 立羽 |  | [pixiv](https://www.pixiv.net/users/20352) [X](https://x.com/tateha_MG) |
 | yano mitsuki | 夜之美月 | 夜ノみつき | [pixiv](https://www.pixiv.net/users/44234) [X](https://x.com/mituk1) |
 | fukahire | フカヒレ | ![フカヒレ头像](https://i.loli.net/2020/05/14/adAO95xecL34ziV.jpg) | [pixiv](https://www.pixiv.net/users/58338) [X](https://x.com/fuka_hire) [个人主页](https://fukahire-ruinon.tumblr.com/) |
-| takano yuki | 鷹乃ゆき |  | [pixiv](https://www.pixiv.net/users/49348) [X](https://x.com/takano_yuki) [个人主页](http://allegromistic.blog51.fc2.com/) |
+| takano yuki | 鹰乃由崎 |  | [pixiv](https://www.pixiv.net/users/49348) [X](https://x.com/takano_yuki) [个人主页](http://allegromistic.blog51.fc2.com/) |
 | suimya | すいみゃ |  | [pixiv](https://www.pixiv.net/users/25386) [X](https://x.com/suimya) [个人主页](https://www.suimya.com/) |
 | shirokuma a | シロクマA | ![シロクマA头像](https://i.jpg.dog/file/jpg-dog/b65f97e1de278782b5d6712b89ebd262.png) | [X](https://x.com/Merufena) [pixiv](https://www.pixiv.net/users/357034) [个人网站](https://www.plurk.com/Merufena) |
 | karory | karory |  | [pixiv](https://www.pixiv.net/users/18095070) [X](https://x.com/karory) [个人主页](http://karory.net/) |
