@@ -13509,6 +13509,7 @@ example:
 | amane soh | 雨音响 | 日本男性游戏设计师和插画家 |  |
 | amane hibiki | 雨音响 | 日本男性游戏设计师和插画家 |  |
 | 6a sang | ロクエさん |  | [pixiv](https://www.pixiv.net/users/216414) [X](https://x.com/6A_sang) |
+| erory | イロリ |  | [pixiv](https://www.pixiv.net/users/33787318) [X](https://x.com/erory6/media) |
 
 <!--TEMPLATE:
 |  |  |  |  |
