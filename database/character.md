@@ -2008,7 +2008,7 @@ example:
 | hayate yagami | 八神疾风 | 八神疾风是《魔法少女奈叶》系列作品及其衍生作品的登场角色。<br><br>八神疾风是暗之书事件的中心人物，时空管理局的魔导师，擅长贝尔卡式广域·远程魔法，拥有庞大的魔力，但并不擅长魔力的精密控制。<br>![](https://i.imgur.com/xAg9p5g.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八神疾风) |
 | shamal | 莎玛尔 |  |  |
 | signum | 希格纳姆 |  |  |
-| vita | 维塔 |  |  |
+| vita | 薇塔(崩坏3) | 坏女人, 来自崩坏三第二部 |  |
 | reinforce | 琳芙斯 |  |  |
 | fuka reventon | 风香·雷文顿 |  |  |
 | corona timil | 珂罗娜·缇米尔 |  |  |
