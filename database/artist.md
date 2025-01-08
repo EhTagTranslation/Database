@@ -577,7 +577,7 @@ example:
 | hashimoto takashi | 桥本隆 | 桥本タカシ，日本著名原画家、画师。 |  |
 | suzuhira hiro | 铃平广 | 原名铃木千裕， 工作职务为小说等刊物画插绘。主要作品有《银盘万花筒》插画，《空罐少女》插画，《Stellar Theater》原画担当，《命运的齿轮Wheel of Fortune》原画担当 |  |
 | nishimata aoi | 西又葵 | 日本著名的游戏担当和漫画家。 |  |
-| hadumi rio | 羽純りお |  |  |
+| hadumi rio | 羽纯里约 |  |  |
 | matsushita makako | 松下まかこ |  |  |
 | sakura hanpen | 桜はんぺん |  |  |
 | hatori piyoko | 羽鳥ぴよこ |  |  |
