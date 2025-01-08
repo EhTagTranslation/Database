@@ -380,7 +380,7 @@ example:
 | nohara hiromi | 野原ひろみ |  |  |
 | higashino mikan | 東野みかん |  |  |
 | dr.bug | Dr.阿虫 | 中国台湾地区右翼漫画家 |  |
-| ameto yuki | あめとゆき |  | [pixiv](https://www.pixiv.net/users/92891) [X](https://x.com/ameto_y) [个人主页](http://amenochiyuki.blog43.fc2.com/) |
+| ameto yuki | 糖果由崎 |  | [pixiv](https://www.pixiv.net/users/92891) [X](https://x.com/ameto_y) [个人主页](http://amenochiyuki.blog43.fc2.com/) |
 | kenkou cross | 健康クロス |  |  |
 | yanagawa rio | やながわ理央 | 梁川理央 | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ002590) |
 | kakuzatou | 核座头 |  | [pixiv](https://www.pixiv.net/users/20557975) |
