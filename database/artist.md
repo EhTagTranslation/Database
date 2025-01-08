@@ -13512,6 +13512,7 @@ example:
 | erory | イロリ |  | [pixiv](https://www.pixiv.net/users/33787318) [X](https://x.com/erory6/media) |
 | kisaragi yuu | 如月优 |  |  |
 | syayuri | 纱由里 |  |  |
+| yamada taishi | 山田たいし |  | [pixiv](https://www.pixiv.net/users/14930280) [X](https://x.com/OlOlmarul) |
 
 <!--TEMPLATE:
 |  |  |  |  |
