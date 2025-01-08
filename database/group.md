@@ -13064,6 +13064,7 @@ example:
 | cat or fox | Cat or Fox! |  |  |
 | akaneiro no kinmokusei | 茜色ノ金木犀 |  |  |
 | etoiles | Etoiles |  |  |
+| 6a seeds | ロクエク・シーズ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
