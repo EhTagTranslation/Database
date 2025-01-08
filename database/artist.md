@@ -13508,6 +13508,7 @@ example:
 | hashimoto yuuichi | 桥本佑一 |  |  |
 | amane soh | 雨音响 | 日本男性游戏设计师和插画家 |  |
 | amane hibiki | 雨音响 | 日本男性游戏设计师和插画家 |  |
+| 6a sang | ロクエさん |  | [pixiv](https://www.pixiv.net/users/216414) [X](https://x.com/6A_sang) |
 
 <!--TEMPLATE:
 |  |  |  |  |
