@@ -13511,6 +13511,7 @@ example:
 | 6a sang | ロクエさん |  | [pixiv](https://www.pixiv.net/users/216414) [X](https://x.com/6A_sang) |
 | erory | イロリ |  | [pixiv](https://www.pixiv.net/users/33787318) [X](https://x.com/erory6/media) |
 | kisaragi yuu | 如月优 |  |  |
+| syayuri | 纱由里 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
