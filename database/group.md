@@ -654,7 +654,7 @@ example:
 | the dungeon in yarn | The Dungeon In Yarn |  |  |
 | white datura | White Datura |  |  |
 | hanekaze | HANEKAZE |  |  |
-| stardust cradle | すたーだすとくれいどる |  |  |
+| stardust cradle | すたーだすとくれいどる | 星尘摇篮, **女性**原画师`a:nagayama yuunon`的同人社团口巴. |  |
 | unagiyasan | うなぎやさん |  |  |
 | hana zakuro | 花柘榴 |  |  |
 | smith koumuten | スミス工務店 |  |  |
