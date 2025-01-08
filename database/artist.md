@@ -2420,7 +2420,7 @@ example:
 | shiromochi sakura | 白もち桜/白饼樱 |  | [pixiv](https://www.pixiv.net/users/6837882) [X](https://x.com/sakura_siromoti) |
 | shimao kazu | 嶋尾和 |  |  |
 | kanou ryuuji | 叶竜児 |  |  |
-| yatanukikey | やたぬき圭 |  |  |
+| yatanukikey | 弥贯圭 |  |  |
 | maihara matsuge | 舞原マツゲ |  |  |
 | genzou kokuto | 幻像黒兎 |  |  |
 | yamashita kurowo | 山下クロヲ |  |  |
