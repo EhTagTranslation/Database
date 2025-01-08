@@ -2337,6 +2337,7 @@ example:
 | twinkle crusaders | 闪耀十字军 |  |  |
 | ao no hako | 青之箱 |  |  |
 | okujou no yurirei-san | 屋上的百合灵 | 《屋上的百合灵》（日语：屋上の百合霊さん，英语：Kindred Spirits on the Roof(注)）是一部由Liar-soft开发，MangaGamer发行的百合向文字冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/屋上的百合灵) |
+| jinki | 人机 | 《人机系列》（日语：ジンキシリーズ）是纲岛志朗创作的日本漫画系列作品，后来陆续改编成电视动画、电子游戏、小说。 | [维基百科](https://zh.wikipedia.org/wiki/人機系列) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
