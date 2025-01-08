@@ -1183,7 +1183,7 @@ example:
 | spiritus tarou | スピリタス太郎 |  |  |
 | tel | 朝峰テル |  | [X](https://x.com/tel0coffeemaker) [pixiv](https://www.pixiv.net/users/2869005) |
 | tomomimi shimon | ともみみしもん |  |  |
-| mitsumomo mam | 蜜桃まむ |  |  |
+| mitsumomo mam | 蜜桃妈妈 |  |  |
 | lolisin | ろりしn |  |  |
 | miyako hito | ミヤコヒト |  |  |
 | sola bozu | 空坊主 |  |  |
