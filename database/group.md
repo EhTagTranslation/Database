@@ -3859,7 +3859,7 @@ example:
 | circle yuki | サークルゆき |  |  |
 | circle den | 田 |  |  |
 | circled 1 | ① |  |  |
-| circus | サーカス |  |  |
+| circus | サーカス | 马戏团社 |  |
 | circus fetish | サーカス・フェティッシュ |  |  |
 | citron | CITRON |  |  |
 | citron love | CITRON LOVE |  |  |
