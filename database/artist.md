@@ -6410,7 +6410,7 @@ example:
 | kagiana | 鍵穴 |  |  |
 | kagimushi | かぎむし |  |  |
 | kagiyama ryuta | 鍵山りゅうた |  |  |
-| kagome | 籠目 |  |  |
+| kagome | 龙目 |  |  |
 | kagura | 神乐 |  |  |
 | kagura kazuto | 神乐一刀 |  |  |
 | kagura momiji | 神乐红叶 |  |  |
