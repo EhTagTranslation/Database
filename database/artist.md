@@ -2557,7 +2557,7 @@ example:
 | kurihara kenshirou | 栗原ケンシロウ |  |  |
 | matsumotoke | 松本家御愛用 |  |  |
 | utamaro | 歌麿 |  |  |
-| tadima yoshikadu | たぢまよしかづ |  | [X](https://x.com/taditadi) [pixiv](https://www.pixiv.net/users/25332) [个人网站](http://nekomarudow.com) [Facebook](https://www.facebook.com/people/たぢま-よしかづ/100029764654083) |
+| tadima yoshikadu | たぢまよしかづ | 田岛芳和 | [X](https://x.com/taditadi) [pixiv](https://www.pixiv.net/users/25332) [个人网站](http://nekomarudow.com) [Facebook](https://www.facebook.com/people/たぢま-よしかづ/100029764654083) |
 | puuakachan | プーアカちゃん |  | [X](https://x.com/puakachan) [pixiv](https://www.pixiv.net/users/385307) [个人网站](https://pupuakachan.tumblr.com) |
 | wataame | わたあめ |  | [X](https://x.com/watapome) [pixiv](https://www.pixiv.net/users/3596363) |
 | aduki | あづき |  | [X](https://x.com/aduk1) [pixiv](https://www.pixiv.net/users/3697911) |
