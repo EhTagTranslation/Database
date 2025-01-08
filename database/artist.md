@@ -13135,7 +13135,7 @@ example:
 | yusano | ゆさの |  | [pixiv](https://www.pixiv.net/users/126858)<br>[X](https://x.com/yusano) |
 | yukiko | 雪子 |  | [X](https://x.com/aoiyukiko)<br>[萌娘百科](https://zh.moegirl.org.cn/雪子%28漫画家%29#) |
 | shintarou | しんたろー |  | [X](https://x.com/shintarozamurai)<br>[pixiv](https://www.pixiv.net/users/178198) |
-| nanohana kohina | なのはなこひな |  |  |
+| nanohana kohina | 菜花小雏 |  |  |
 | annin doufu | 杏仁豆腐 |  | [pixiv](https://www.pixiv.net/users/16630)<br>[X](https://x.com/annin_oiko) |
 | surada mami | すらだまみ |  | [X](https://x.com/Syura_mami) |
 | oomiya | お一みや |  | [X](https://x.com/oomiya) |
