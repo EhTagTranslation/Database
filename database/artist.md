@@ -380,7 +380,7 @@ example:
 | nohara hiromi | 野原ひろみ |  |  |
 | higashino mikan | 東野みかん |  |  |
 | dr.bug | Dr.阿虫 | 中国台湾地区右翼漫画家 |  |
-| ameto yuki | 糖果由崎 | 女性原画师, 画风是其标志性的**Tareme**(down-tuned)的大眼睛, 同人社团是`g:ame nochi yuki` | [P站](https://www.pixiv.net/users/92891) [Xitter](https://x.com/ameto_y) [PH](http://amenochiyuki.blog43.fc2.com/) [维基百科(日文)](https://ja.wikipedia.org/wiki/あめとゆき) [Wikidata](https://www.wikidata.org/wiki/Q16263782) |
+| ameto yuki | 糖果由崎 | 女性原画师, 来自东京, 画风是其标志性的**Tareme**(down-tuned)的大眼睛, 同人社团是`g:ame nochi yuki` | [P站](https://www.pixiv.net/users/92891) [Xitter](https://x.com/ameto_y) [PH](http://amenochiyuki.blog43.fc2.com/) [维基百科(日文)](https://ja.wikipedia.org/wiki/あめとゆき) [Wikidata](https://www.wikidata.org/wiki/Q16263782) |
 | kenkou cross | 健康クロス |  |  |
 | yanagawa rio | やながわ理央 | 梁川理央 | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ002590) |
 | kakuzatou | 核座头 |  | [pixiv](https://www.pixiv.net/users/20557975) |
