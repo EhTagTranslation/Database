@@ -3970,7 +3970,7 @@ example:
 | cotton color | コットンカラー |  |  |
 | cotton house | こっとん堂 |  |  |
 | cotton pop | Cotton Pop |  |  |
-| cottontail | cottontail |  |  |
+| cottontail | cottontail | `a:nanohana kohina`的同人社团 |  |
 | countack | カウンタック |  |  |
 | counter attack | COUNTER ATTACK |  |  |
 | counter-censorship | COUNTER-CENSORSHIP |  |  |
