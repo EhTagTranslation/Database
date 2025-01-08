@@ -640,7 +640,7 @@ example:
 | yohane | ヨハネ |  | [Twitter-东方](https://x.com/YfJohanne) [Twitter-非东方](https://x.com/Itumade3) [pixiv](https://www.pixiv.net/users/10430161) |
 | akiduki tsukasa | 秋月つかさ |  |  |
 | hanamiya natsuka | 花宮なつか |  | [pixiv](https://www.pixiv.net/users/4218982) [X](https://x.com/natsuka_03) |
-| nagayama yuunon | 永山由乃 | **永山ゆうのん,** 同人社团`g:stardust cradle`的女性原画师口巴. | [X](https://x.com/yama913) [pixiv](https://www.pixiv.net/users/149587) |
+| nagayama yuunon | 永山由乃 | **永山ゆうのん,** 同人社团`g:stardust cradle`的女性原画师口巴, 笔下的少女大眼睛多为Tarame. | [Xitter](https://x.com/yama913) [P站](https://www.pixiv.net/users/149587) [VNDB](https://vndb.org/s11552) [维基百科(日文)](https://ja.wikipedia.org/wiki/永山ゆうのん) [Wikidata](https://www.wikidata.org/wiki/Q55526614) [HP](https://star-cradle.itigo.jp/) |
 | sakura denbu | 樱田麸 |  |  |
 | sin-go | Sin-Go |  |  |
 | tsunagami | つながみ |  |  |
