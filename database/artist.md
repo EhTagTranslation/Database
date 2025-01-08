@@ -13135,7 +13135,7 @@ example:
 | yusano | ゆさの |  | [pixiv](https://www.pixiv.net/users/126858)<br>[X](https://x.com/yusano) |
 | yukiko | 雪子 |  | [X](https://x.com/aoiyukiko)<br>[萌娘百科](https://zh.moegirl.org.cn/雪子%28漫画家%29#) |
 | shintarou | しんたろー |  | [X](https://x.com/shintarozamurai)<br>[pixiv](https://www.pixiv.net/users/178198) |
-| nanohana kohina | 菜花小雏 |  |  |
+| nanohana kohina | 菜花小雏 | **なのはなこひな**是同人社团`g:cottontail`的原画师, 出身于北海道, 现居关东地区. | [P站](https://www.pixiv.net/users/27132) [Xitter](https://x.com/cottontail0112) [HP](https://www.cottontail0112.net/) |
 | annin doufu | 杏仁豆腐 |  | [pixiv](https://www.pixiv.net/users/16630)<br>[X](https://x.com/annin_oiko) |
 | surada mami | すらだまみ |  | [X](https://x.com/Syura_mami) |
 | oomiya | お一みや |  | [X](https://x.com/oomiya) |
