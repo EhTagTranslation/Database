@@ -640,7 +640,7 @@ example:
 | yohane | ヨハネ |  | [Twitter-东方](https://x.com/YfJohanne) [Twitter-非东方](https://x.com/Itumade3) [pixiv](https://www.pixiv.net/users/10430161) |
 | akiduki tsukasa | 秋月つかさ |  |  |
 | hanamiya natsuka | 花宮なつか |  | [pixiv](https://www.pixiv.net/users/4218982) [X](https://x.com/natsuka_03) |
-| nagayama yuunon | 永山ゆうのん |  | [X](https://x.com/yama913) [pixiv](https://www.pixiv.net/users/149587) |
+| nagayama yuunon | 永山由乃 | 永山ゆうのん | [X](https://x.com/yama913) [pixiv](https://www.pixiv.net/users/149587) |
 | sakura denbu | 樱田麸 |  |  |
 | sin-go | Sin-Go |  |  |
 | tsunagami | つながみ |  |  |
