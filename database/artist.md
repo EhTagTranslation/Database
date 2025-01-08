@@ -13513,6 +13513,7 @@ example:
 | kisaragi yuu | 如月优 |  |  |
 | syayuri | 纱由里 |  |  |
 | yamada taishi | 山田たいし |  | [pixiv](https://www.pixiv.net/users/14930280) [X](https://x.com/OlOlmarul) |
+| yoruge | よるげ |  | [X](https://x.com/5domenosyoziki?t=k1gPPhKcSS4BqvTlmEXYhQ) |
 
 <!--TEMPLATE:
 |  |  |  |  |
