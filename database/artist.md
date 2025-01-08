@@ -361,7 +361,7 @@ example:
 | pierre yoshio | ピエ～ル☆よしお |  |  |
 | shinji mao | 真慈真雄 |  |  |
 | aoi manabu | あおいまなぶ |  |  |
-| izumi tsubasu | 和泉つばす |  |  |
+| izumi tsubasu | 和泉翼 | 和泉つばす |  |
 | sakai hamachi | 堺はまち |  |  |
 | kannazuki nem | 神無月ねむ |  |  |
 | sakurabe notos | 桜部のとす |  |  |
