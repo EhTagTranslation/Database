@@ -211,7 +211,7 @@ example:
 | suteuka no koya | すてうかの小屋 |  |  |
 | at ism | @ism |  |  |
 | twinbox | TwinBox | 「TwinBox」是`hanahanamaki`和`sousouman`共同的同人社团名称，同时也是商业活动的笔名。 | [X](https://x.com/digimon215) [pixiv](https://www.pixiv.net/users/264932) [微博](https://weibo.com/u/5189316437) [官方网站](https://www.twinbox-tb.com) |
-| ame nochi yuki | あめ のち ゆき |  |  |
+| ame nochi yuki | あめ のち ゆき | 女性原画师`a:ameto yuki`的同人社团 |  |
 | mataro | 魔太郎 |  |  |
 | otonano do-wa | 大人の寓話 |  |  |
 | tsukuru no mori kabushikigaisha | ツクルノモリ株式会社 |  |  |
