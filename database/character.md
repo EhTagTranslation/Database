@@ -6017,6 +6017,7 @@ example:
 | aira shiratori | 白鸟爱罗 |  |  |
 | ken takakura | 高仓健 | 日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的男主角。因为热衷神秘学事物而被小桃称作“超然仔”（オカルン） |  |
 | fubuki azuma | 东风舞希 | 是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/东风舞希) |
+| sky striker ace - raye | 闪刀姬-零衣 | 游戏王OCG知名卡组系列角色之一 | [萌娘百科](https://zh.moegirl.org.cn/闪刀姬-零衣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
