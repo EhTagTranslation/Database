@@ -10716,7 +10716,7 @@ example:
 | tange rin | 丹下凛 |  |  |
 | tango-tango | tango-tango |  |  |
 | taniguchi daisuke | 谷口大介 |  |  |
-| tanihara natsuki | たにはらなつき |  |  |
+| tanihara natsuki | 谷原夏希 |  |  |
 | tanimura marika | 谷村まりか |  |  |
 | tanizakura shidare | 谷桜しだれ |  |  |
 | tanken harahara | 探検はらはら |  |  |
