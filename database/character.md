@@ -6021,6 +6021,7 @@ example:
 | felicia mitsuki | 深月菲莉希亚 | 深月菲莉希亚是动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》中的登场角色。在主线故事开始前作为“魔法少女佣兵”而独自生活着。 | [萌娘百科](https://zh.moegirl.org.cn/深月菲莉希亚) |
 | shiki wakana | 若菜四季 | ![](https://img.moegirl.org.cn/common/3/36/若菜四季_立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/若菜四季) |
 | kinako sakurakoji | 樱小路希奈子 | ![](https://p.sda1.dev/21/606ef1181c007e1b9388055d30ae46c2/image.png) | [萌娘百科](https://zh.moegirl.org.cn/樱小路希奈子) |
+| karlach cliffgate | 卡菈克·克里夫加特 | 游戏《博德之门3》 中的起源角色之一 | [萌娘百科](https://zh.moegirl.org.cn/博德之门3#.E5.8D.A1.E8.8F.88.E5.85.8B) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
