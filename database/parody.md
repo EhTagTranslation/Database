@@ -1611,7 +1611,7 @@ example:
 | kumo desu ga nani ka | 转生成蜘蛛又怎样！ |  | [维基百科](https://zh.wikipedia.org/wiki/轉生成蜘蛛又怎樣！) |
 | kuma kuma kuma bear | 熊熊勇闯异世界 | 《熊熊勇闯异世界》改编自くまなの创作的同名小说 | [萌娘百科](https://zh.moegirl.org.cn/熊熊勇闯异世界) [维基百科](https://zh.wikipedia.org/wiki/熊熊勇闯异世界) |
 | marco to ginga ryuu | 丸子与银河龙 | 游戏：丸子与银河龙 | [维基百科](https://zh.wikipedia.org/wiki/マルコと銀河竜_〜MARCO_%26_GALAXY_DRAGON〜) |
-| moyashimon | 萌菌物语 | 《萌菌物语》（もやしもん、TALES OF AGRICULTURE），是日本漫画家石川雅之所画的漫画作品，自2004年16号开始在《Evening》上连载到2013年10号为止，之后移籍至《月刊Morning two》于2013年8月号连载再开直到2014年3月号连载结束。2007年10月改编为日本电视动画，获得不错的收视率。获选为2007年第十一回文化厅媒体艺术祭动画部门推荐的作品。2012年7月播放第二季动画，标题定为《萌菌物语Returns》（もやしもん リターンズ）。 | [维基百科](https://zh.wikipedia.org/wiki/農大菌物語) |
+| moyashimon | 萌菌物语 | 《萌菌物语》（日语：もやしもん）是由石川雅之创作的一部漫画，并有动画、电视剧等衍生作品。<br><br>作品描写了农大学生的生活。拥有用肉眼看见“菌”能力的少年泽木直保和青梅竹马伪娘结城萤进入某农业大学，并且了解了许多跟菌相关的知识，也因为直保的特殊能力而招惹许多事情。在每集动画中的片尾都有“菌剧场”。<br><br>该动画曾在日本农林水产省美食文化赏中获金奖。 | [萌娘百科](https://zh.moegirl.org.cn/萌菌物语) [维基百科](https://zh.wikipedia.org/wiki/農大菌物語) |
 | wonder egg priority | 奇蛋物语 |  | [维基百科](https://zh.wikipedia.org/wiki/奇蛋物语) |
 | love live superstar | ![LL](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/love%20live.webp)Love Live! Superstar!! | 《Love Live! Superstar!!》（日语：ラブライブ！スーパースター!!），是以Liella!为主角、日昇制作的改编电视动画，也是《`love live`》动画系列第四作。 | [维基百科](https://zh.wikipedia.org/wiki/Love_Live!_Superstar!!) (\*) |
 | tales of arise | 破晓传说 |  |  |
