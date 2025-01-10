@@ -13517,6 +13517,7 @@ example:
 | na shacho | 无八千代 |  |  |
 | sasaki musashi | 佐佐木武藏 |  |  |
 | monaka curl | 最中かーる |  |  |
+| saishow | 最小 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
