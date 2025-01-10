@@ -4174,7 +4174,7 @@ example:
 | zhen ji | 甄姬 |  |  |
 | moriko morioka | 盛冈森子 | `p:netojuu no susume`的女主角，30岁的家里蹲。<br>![](https://static.wikia.nocookie.net/netoju/images/5/59/Mm.jpg) | [萌娘百科](https://zh.moegirl.org.cn/盛冈森子) [Fandom](https://netoju.fandom.com/wiki/Moriko_Morioka) |
 | yuuta sakurai | 樱井优太 | `p:netojuu no susume`的男主角，金发碧眼的英国混血儿，在梅崎商事工作的精英。<br>![](https://static.wikia.nocookie.net/netoju/images/a/ae/Chara_body02.png) | [Fandom](https://netoju.fandom.com/wiki/Yuuta_Sakurai) |
-| lily | 莉莉 | 所属作品: `p:netojuu no susume`<br>`moriko morioka`在游戏中的角色，蓝发蓝瞳的骑士，被戏称「残念系帅哥」，在公会里因紫丁香谣传，被认为是正在找工作的大学生。在公会队伍里担任主坦。 | [Fandom](https://netoju.fandom.com/wiki/Lily) |
+| lily | 莉莉 | 所属作品: `p:netojuu no susume`<br>`moriko morioka`在游戏中的角色，蓝发蓝瞳的骑士，被戏称「残念系帅哥」，在公会里因紫丁香谣传，被认为是正在找工作的大学生。在公会队伍里担任主坦。<br><br>所属作品: `p:spy kyoushitsu` | [Fandom](https://netoju.fandom.com/wiki/Lily)<br>[萌娘百科](https://zh.moegirl.org.cn/莉莉%28间谍教室%29#) |
 | hinata kuraue | 仓上日向 | 所属作品: `p:yama no susume` | [萌娘百科](https://zh.moegirl.org.cn/仓上日向) |
 | aoi yukimura | 雪村葵 | 所属作品: `p:yama no susume` | [萌娘百科](https://zh.moegirl.org.cn/雪村葵) |
 | furen e lustario | 芙莲·E·露丝塔莉欧 | 芙莲·E·露丝塔莉欧（日语：フレン·E·ルスタリオ）是隶属于`p:nijisanji`的虚拟YouTuber。<br>![](https://pbs.twimg.com/media/EmJtw3UVMAUVAeJ.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芙莲·E·露丝塔莉欧) [wikiwiki](https://wikiwiki.jp/nijisanji/フレン・E・ルスタリオ) [Fandom](https://virtualyoutuber.fandom.com/wiki/Furen_E_Lustario) |
