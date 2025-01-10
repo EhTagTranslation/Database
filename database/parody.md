@@ -2347,6 +2347,7 @@ example:
 | gag manga biyori | 搞笑漫画日和 | 《搞笑漫画日和》（日语：ギャグマンガ日和）是日本漫画家增田康介创作的日本漫画作品。<br><br>电视动画共有四部，最新的一部是为纪念漫画连载11周年于2010年1月开始播放的第4季动画“搞笑漫画日和+”。每集动画的长度约为5分钟。<br><br>是中日许多网络流行语和表情包的来源。 | [维基百科](https://zh.wikipedia.org/wiki/搞笑漫畫日和) [萌娘百科](https://zh.moegirl.org.cn/搞笑漫画日和) |
 | megami no cafe terrace | 女神咖啡厅 | 在东京求学的粕壁隼，因为接到奶奶的死讯而回到了阔别三年的老家，却发现奶奶所经营的咖啡厅里竟然住着五个女孩子。他本想拆掉这家店，与过去一刀两断，却在跟这五个女孩子相处过程中想起了奶奶开店的初衷，打消了拆除老店的想法，并决定和这五个女生一起重新开始经营这家店。 | [维基百科](https://zh.wikipedia.org/wiki/女神咖啡廳) [萌娘百科](https://zh.moegirl.org.cn/女神咖啡厅) |
 | megami-ryou no ryoubo-kun. | 女神宿舍的管理员。 |  | [维基百科](https://zh.wikipedia.org/wiki/女神宿舍的管理員。) [萌娘百科](https://zh.moegirl.org.cn/女神宿舍的管理员。) |
+| green green | 钟之音学院 | 《钟之音学院》（Green Green，日语：グリーングリーン）是由日本的GROOVER制作于2001年10月5日发售的恋爱冒险类型成人游戏，钟之音学院系列的第一作，2013年由OVERDRIVE发售重制版《钟之音学院 OVERDRIVE EDITION》。除了发售游戏外也改编成电视动画、OVA、漫画、小说发售。 | [维基百科](https://zh.wikipedia.org/wiki/青青校樹_%28遊戲%29) [维基百科（英语）](https://en.wikipedia.org/wiki/Green_Green_%28TV_series%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
