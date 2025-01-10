@@ -3180,7 +3180,7 @@ example:
 | tanya von degurechaff | 谭雅·提古雷查夫 |  |  |
 | viktoriya ivanovna serebryakov | 维夏 |  |  |
 | takamiya rion | 鹰宫莉音 | 鹰宫莉音是一名从2018年8月9日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身，人前扮演着优等生大小姐的角色，私人里是让人感觉总是没在正确地方思考的笨蛋角色，因为对人前扮演感到疲累，为了打发时间而开始直播。<br>主要以杂谈和游戏直播为主，偶尔组织了不少有意思的大型联动企划。 | [萌娘百科](https://zh.moegirl.org.cn/鹰宫莉音) |
-| ruka sarashina | 更科瑠夏 |  |  |
+| ruka sarashina | 更科瑠夏 | 所属作品: `p:kanojo okarishimasu` | [萌娘百科](https://zh.moegirl.org.cn/更科瑠夏) |
 | sumi sakurasawa | 樱泽墨 |  |  |
 | mami nanami | 七海麻美 |  |  |
 | frankenstein | 弗兰肯斯坦（肯娘） | ![图](https://ehgt.org/3e/45/3e45e940bea6ad7176bd1ad4c109c988fcc177f9-1761526-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/弗兰肯斯坦%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/弗兰肯斯坦) |
