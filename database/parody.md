@@ -2352,6 +2352,7 @@ example:
 | chiyu mahou no machigatta tsukaikata | 治愈魔法的错误使用方法 |  | [萌娘百科](https://zh.moegirl.org.cn/治愈魔法的错误使用法～奔赴战场的回复要员～) [维基百科](https://zh.wikipedia.org/wiki/治癒魔法的錯誤使用法～奔赴戰場的回復要員～) |
 | dosanko gal wa namaramenkoi | 北海道辣妹贼拉可爱 |  | [萌娘百科](https://zh.moegirl.org.cn/北海道辣妹贼拉可爱) [维基百科](https://zh.wikipedia.org/wiki/北海道辣妹金古錐) |
 | ore dake haireru kakushi dungeon | 只有我能进入的隐藏迷宫 | 只有我能进入的隐藏迷宫～低调锻炼化身世界最强～ | [维基百科](https://zh.wikipedia.org/wiki/只有我能進入的隱藏迷宮) [萌娘百科](https://zh.moegirl.org.cn/只有我能进入的隐藏迷宫～低调锻炼化身世界最强～) |
+| yumemiru danshi wa genjitsushugisha | 满怀美梦的少年是现实主义者 |  | [维基百科](https://zh.wikipedia.org/wiki/滿懷美夢的少年是現實主義者) [萌娘百科](https://zh.moegirl.org.cn/满怀美梦的少年是现实主义者) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
