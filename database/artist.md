@@ -13518,6 +13518,7 @@ example:
 | sasaki musashi | 佐佐木武藏 |  |  |
 | monaka curl | 最中かーる |  |  |
 | saishow | 最小 |  |  |
+| henbor | HenBor |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
