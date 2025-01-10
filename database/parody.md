@@ -2348,6 +2348,7 @@ example:
 | megami no cafe terrace | 女神咖啡厅 | 在东京求学的粕壁隼，因为接到奶奶的死讯而回到了阔别三年的老家，却发现奶奶所经营的咖啡厅里竟然住着五个女孩子。他本想拆掉这家店，与过去一刀两断，却在跟这五个女孩子相处过程中想起了奶奶开店的初衷，打消了拆除老店的想法，并决定和这五个女生一起重新开始经营这家店。 | [维基百科](https://zh.wikipedia.org/wiki/女神咖啡廳) [萌娘百科](https://zh.moegirl.org.cn/女神咖啡厅) |
 | megami-ryou no ryoubo-kun. | 女神宿舍的管理员。 |  | [维基百科](https://zh.wikipedia.org/wiki/女神宿舍的管理員。) [萌娘百科](https://zh.moegirl.org.cn/女神宿舍的管理员。) |
 | green green | 钟之音学院 | 《钟之音学院》（Green Green，日语：グリーングリーン）是由日本的GROOVER制作于2001年10月5日发售的恋爱冒险类型成人游戏，钟之音学院系列的第一作，2013年由OVERDRIVE发售重制版《钟之音学院 OVERDRIVE EDITION》。除了发售游戏外也改编成电视动画、OVA、漫画、小说发售。 | [维基百科](https://zh.wikipedia.org/wiki/青青校樹_%28遊戲%29) [维基百科（英语）](https://en.wikipedia.org/wiki/Green_Green_%28TV_series%29) |
+| hagure yuusha no estetica | 无赖勇者的鬼畜美学 | 《无赖勇者的鬼畜美学》（日语：はぐれ勇者の鬼畜美学）是上栖缀人的轻小说，由HJ文库于2010年5月发行。插图由卵之黄身担当。<br><br>本作描述为了讨伐魔王被丢到异世界的青年成功完成任务后，回到原本世界的故事。不以异世界冒险做为舞台，而是以描写在异世界的冒险结束后的后话为故事的特征。 | [维基百科](https://zh.wikipedia.org/wiki/無賴勇者的鬼畜美學) [萌娘百科](https://zh.moegirl.org.cn/无赖勇者的鬼畜美学) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
