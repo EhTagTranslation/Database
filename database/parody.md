@@ -2339,6 +2339,7 @@ example:
 | okujou no yurirei-san | 屋上的百合灵 | 《屋上的百合灵》（日语：屋上の百合霊さん，英语：Kindred Spirits on the Roof(注)）是一部由Liar-soft开发，MangaGamer发行的百合向文字冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/屋上的百合灵) |
 | jinki | 人机 | 《人机系列》（日语：ジンキシリーズ）是纲岛志朗创作的日本漫画系列作品，后来陆续改编成电视动画、电子游戏、小说。 | [维基百科](https://zh.wikipedia.org/wiki/人機系列) |
 | isekai nonbiri nouka | 异世界悠闲农家 |  | [维基百科](https://zh.wikipedia.org/wiki/異世界悠閒農家) [萌娘百科](https://zh.moegirl.org.cn/异世界悠闲农家) |
+| pon no michi | 碰之道 | 《碰之道》（日语：ぽんのみち）是OLM制作的日本电视动画，于2024年1月至3月在每日放送、TBS等频道播出。<br><br>描写以广岛、尾道市的雀庄为游乐场所的女子高中生们，时而玩耍、做饭、喝茶和麻将的日常。 | [维基百科](https://zh.wikipedia.org/wiki/碰之道) [萌娘百科](https://zh.moegirl.org.cn/碰之道) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
