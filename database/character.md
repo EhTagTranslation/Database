@@ -6029,6 +6029,7 @@ example:
 | venus | 启明星 | 启明星是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的NPC角色。 |  |
 | nano eiai | 荣逢凪乃 | ![](https://img.moegirl.org.cn/common/e/e6/荣逢凪乃.png)<br>日语：栄逢（えいあい） 凪乃（なの）<br>中村力斗创作、野泽由纪子作画的漫画《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荣逢凪乃) |
 | sayaka kirasaka | 煌坂纱矢华 | 所属作品: `p:strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/煌坂纱矢华) |
+| priestess | 普瑞赛斯 / 女神官 | 所属作品: `p:arknights`<br>自称“语言学家”，是源石的创造者之一，曾经与博士亲密无间。一般被认定为与博士一起创造了凯尔希（Ama-10）。<br><br>所属作品: `p:goblin slayer`<br>15岁时离开地母神的神殿当上冒险者。在白瓷等级时就与哥布林杀手组成搭档的人类女主角。心性温柔的少女，协助着哥布林杀手，常使用神迹辅助其战斗。在初次偕同团队进入洞穴探险，遭遇团队全灭事件被哥布林杀手解救后，开始养成在法袍里著盔甲防卫的习惯。 | [萌娘百科](https://zh.moegirl.org.cn/普瑞赛斯)<br>[萌娘百科](https://zh.moegirl.org.cn/女神官) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
