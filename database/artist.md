@@ -13516,6 +13516,7 @@ example:
 | yoruge | よるげ |  | [X](https://x.com/5domenosyoziki?t=k1gPPhKcSS4BqvTlmEXYhQ) |
 | na shacho | 无八千代 |  |  |
 | sasaki musashi | 佐佐木武藏 |  |  |
+| monaka curl | 最中かーる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
