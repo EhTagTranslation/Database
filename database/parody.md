@@ -2351,6 +2351,7 @@ example:
 | hagure yuusha no estetica | 无赖勇者的鬼畜美学 | 《无赖勇者的鬼畜美学》（日语：はぐれ勇者の鬼畜美学）是上栖缀人的轻小说，由HJ文库于2010年5月发行。插图由卵之黄身担当。<br><br>本作描述为了讨伐魔王被丢到异世界的青年成功完成任务后，回到原本世界的故事。不以异世界冒险做为舞台，而是以描写在异世界的冒险结束后的后话为故事的特征。 | [维基百科](https://zh.wikipedia.org/wiki/無賴勇者的鬼畜美學) [萌娘百科](https://zh.moegirl.org.cn/无赖勇者的鬼畜美学) |
 | chiyu mahou no machigatta tsukaikata | 治愈魔法的错误使用方法 |  | [萌娘百科](https://zh.moegirl.org.cn/治愈魔法的错误使用法～奔赴战场的回复要员～) [维基百科](https://zh.wikipedia.org/wiki/治癒魔法的錯誤使用法～奔赴戰場的回復要員～) |
 | dosanko gal wa namaramenkoi | 北海道辣妹贼拉可爱 |  | [萌娘百科](https://zh.moegirl.org.cn/北海道辣妹贼拉可爱) [维基百科](https://zh.wikipedia.org/wiki/北海道辣妹金古錐) |
+| ore dake haireru kakushi dungeon | 只有我能进入的隐藏迷宫 | 只有我能进入的隐藏迷宫～低调锻炼化身世界最强～ | [维基百科](https://zh.wikipedia.org/wiki/只有我能進入的隱藏迷宮) [萌娘百科](https://zh.moegirl.org.cn/只有我能进入的隐藏迷宫～低调锻炼化身世界最强～) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
