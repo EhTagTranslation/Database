@@ -6028,6 +6028,7 @@ example:
 | b. jenet | B・珍妮特 | `p:fatal fury` | [维基百科（日语）](https://ja.wikipedia.org/wiki/B.ジェニー) |
 | venus | 启明星 | 启明星是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的NPC角色。 |  |
 | nano eiai | 荣逢凪乃 | ![](https://img.moegirl.org.cn/common/e/e6/荣逢凪乃.png)<br>日语：栄逢（えいあい） 凪乃（なの）<br>中村力斗创作、野泽由纪子作画的漫画《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荣逢凪乃) |
+| sayaka kirasaka | 煌坂纱矢华 | 所属作品: `p:strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/煌坂纱矢华) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
