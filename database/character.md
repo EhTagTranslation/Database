@@ -6033,6 +6033,7 @@ example:
 | homura kougetsu | 焰·皋月 | 所属作品: `p:edens zero` | [维基百科](https://zh.wikipedia.org/wiki/EDENS_ZERO角色列表) |
 | miku | 未来 | Miku (ミク, Miku )是`p:darling in the franxx`中的主角之一。她曾是第十三种植园的寄生虫，代号为“390” ，与`c:zorome`组成男女搭档，驾驶名为青葙号的FRANXX。<br><br>外表漂亮，为自己的身材感到自豪的美少女。开朗而天真烂漫，但却很任性且不服输。 | [Fandom](https://darling-in-the-franxx.fandom.com/wiki/Miku) |
 | zorome | 纯位数 | 纯位数(ゾロメ, Zorome )是DARLING in the FRANXX 中的主角之一。他曾是第十三种植园的寄生虫，代号为“666” ，他与`c:miku`组成男女搭档，驾驶名为青葙号的FRANXX。 | [Fandom](https://darling-in-the-franxx.fandom.com/wiki/Zorome) |
+| minami fuyuki | 冬木美波 | 所属作品: `p:dosanko gal wa namaramenkoi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
