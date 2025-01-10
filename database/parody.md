@@ -2353,6 +2353,7 @@ example:
 | dosanko gal wa namaramenkoi | 北海道辣妹贼拉可爱 |  | [萌娘百科](https://zh.moegirl.org.cn/北海道辣妹贼拉可爱) [维基百科](https://zh.wikipedia.org/wiki/北海道辣妹金古錐) |
 | ore dake haireru kakushi dungeon | 只有我能进入的隐藏迷宫 | 只有我能进入的隐藏迷宫～低调锻炼化身世界最强～ | [维基百科](https://zh.wikipedia.org/wiki/只有我能進入的隱藏迷宮) [萌娘百科](https://zh.moegirl.org.cn/只有我能进入的隐藏迷宫～低调锻炼化身世界最强～) |
 | yumemiru danshi wa genjitsushugisha | 满怀美梦的少年是现实主义者 |  | [维基百科](https://zh.wikipedia.org/wiki/滿懷美夢的少年是現實主義者) [萌娘百科](https://zh.moegirl.org.cn/满怀美梦的少年是现实主义者) |
+| solo leveling | 我独自升级 | 《我独自升级》（英语：Solo Leveling）是由韩国作家Chugong担任原作、原案的小说，并有漫画、动画等衍生作品。<br><br>10年前，世界与其他次元链接的“门”被打开，各种魔物不断出现，于是乎能力各异的猎魔者也随之出现，被称为“猎人”。程肖宇是一名实力最弱的E级猎人，在一次挑战任务中，遇到了可怕的隐藏挑战。生死存亡之际，他居然获得了升级系统！在系统的利用下，他能成为最强猎人吗？ | [维基百科](https://zh.wikipedia.org/wiki/我獨自升級) [维基百科](https://zh.wikipedia.org/wiki/我獨自升級_%28動畫%29) [萌娘百科](https://zh.moegirl.org.cn/我独自升级) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
