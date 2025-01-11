@@ -6035,6 +6035,7 @@ example:
 | zorome | 纯位数 | 纯位数(ゾロメ, Zorome )是DARLING in the FRANXX 中的主角之一。他曾是第十三种植园的寄生虫，代号为“666” ，他与`c:miku`组成男女搭档，驾驶名为青葙号的FRANXX。 | [Fandom](https://darling-in-the-franxx.fandom.com/wiki/Zorome) |
 | minami fuyuki | 冬木美波 | 所属作品: `p:dosanko gal wa namaramenkoi` |  |
 | wendy marvell | 温蒂·玛贝尔 | 所属作品: `p:fairy tail` | [萌娘百科](https://zh.moegirl.org.cn/温蒂·玛贝尔) |
+| helia | 赫丽雅 | 崩坏三第二部女主角之一 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
