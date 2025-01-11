@@ -13522,6 +13522,7 @@ example:
 | shiori shii | 栞しい |  | [pixiv](https://www.pixiv.net/users/12450448) [X](https://x.com/4ori_41) |
 | slash-ex | SlashEX |  |  |
 | ya-kun | やーくん |  |  |
+| eluthel | 艾路塞尔 |  | [微博](https://weibo.com/u/1836767531)<br>[pixiv](https://www.pixiv.net/users/599170)<br>[X](https://x.com/eluthel) |
 
 <!--TEMPLATE:
 |  |  |  |  |
