@@ -13520,6 +13520,7 @@ example:
 | saishow | 最小 |  |  |
 | henbor | HenBor |  |  |
 | shiori shii | 栞しい |  | [pixiv](https://www.pixiv.net/users/12450448) [X](https://x.com/4ori_41) |
+| slash-ex | SlashEX |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
