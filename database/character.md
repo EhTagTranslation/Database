@@ -3298,7 +3298,7 @@ example:
 | hayase nagatoro | 长瀞早濑 | 长瀞早濑（日语：長瀞（ながとろ） 早瀬（はやせ））是由ナナシ创作的漫画《不要欺负我，长瀞同学》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/长瀞早濑) |
 | texas | 德克萨斯 | 明日方舟干员之一 | [http://prts.wiki/w/德克萨斯](http://prts.wiki/w/德克萨斯) |
 | yuuta hibiki | 响裕太 |  |  |
-| emma | 艾玛 | 《约定的梦幻岛》主角三人组——女主角 |  |
+| emma | 艾玛/永真 | 《约定的梦幻岛》主角三人组——女主角<br><br>也可指游戏`p:sekiro shadows die twice`中的女角色 |  |
 | norman | 诺曼 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
 | ray | 莱伊 | 明日方舟六星猎手 | [https://prts.wiki/w/莱伊](https://prts.wiki/w/莱伊) |
 | gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
