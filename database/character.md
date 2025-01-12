@@ -6038,6 +6038,7 @@ example:
 | helia | 赫丽雅 | 崩坏三第二部女主角之一 |  |
 | genichiro ashina | 苇名弦一郎 |  |  |
 | kuro | 神子九郎 |  |  |
+| nobeta | 诺贝塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
