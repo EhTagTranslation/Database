@@ -5753,7 +5753,7 @@ example:
 | himekuri | ヒめくり |  |  |
 | himemiya aoi | 姫宮葵 |  |  |
 | himemiya aya | 姫宮あや |  |  |
-| himemiya nina | ひめみやにいな |  |  |
+| himemiya nina | 宮祈にいな/ひめみやにいな |  |  |
 | himeno | ひめの |  |  |
 | himeoka yuki | 姫岡幸忌 |  |  |
 | himori tsukineko | 妃杜つきねこ |  |  |
