@@ -9583,7 +9583,7 @@ example:
 | ryoji | Ryoji |  |  |
 | ryokunyo | りょうくんよ |  |  |
 | ryokuoushoku | 緑黄色 |  |  |
-| ryokusiki | 緑式 |  |  |
+| ryokusiki | 绿式 | 緑式 |  |
 | ryokutya | ryokutya |  |  |
 | ryomaru | りょまる |  |  |
 | ryome gantai | 両目眼帯 |  |  |
