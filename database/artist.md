@@ -423,7 +423,7 @@ example:
 | oomori yoshiharu | おおもりよしはる |  |  |
 | amedamacon | 飴玉コン |  | [X](https://x.com/amedamacon) [pixiv](https://www.pixiv.net/users/1992163) |
 | eisen | 英战 |  |  |
-| harigane shinshi | 針金紳士 |  |  |
+| harigane shinshi | 针金绅士 | 針金紳士 |  |
 | kazuhiro | 一弘 |  |  |
 | lobster | ロブ☆スター |  |  |
 | magifuro konnyaku | magifuro蒟蒻 |  |  |
