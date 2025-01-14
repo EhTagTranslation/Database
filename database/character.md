@@ -4448,7 +4448,7 @@ example:
 | cecilia alcott | 塞西莉娅·奥尔卡特 |  | [萌娘百科](https://zh.moegirl.org.cn/塞西莉娅·奥尔卡特) |
 | ling yin huang | 凰铃音 |  | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
 | laura bodewig | 拉芙拉·布迪威伊 |  | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
-| yuu koito | 小糸侑 |  |  |
+| yuu koito | 小糸侑 | `p:yagate kimi ni naru`中的主角。高中1年级，学生会的成员。入学时因为老师的建议去参观了学生会，并在那结识了`c:touko nanami`等人。性格开朗，但也有怕麻烦的一面。<br><br>在最终话中成为大学生并解下了自己高中时代的辫子。和灯子还在继续交往这件事没有给除姐姐以外的家人说明。做出选择很困难这件事上还是没有改变，升学与就职相关的烦恼会与灯子商量。 | [萌娘百科](https://zh.moegirl.org.cn/小糸侑) |
 | touko nanami | 七海灯子 |  |  |
 | houki shinonono | 篠之之帚 |  | [萌娘百科](https://zh.moegirl.org.cn/篠之之箒) |
 | mizuki nakahara | 中原瑞希 | 所属作品: `p:lycoris recoil`<br><br>留着棕色长卷发，带着红框眼镜。前Direct Attack的情报部员，与千束长年合作。总是一边喝酒一边看着结婚杂志。继续当着咖啡店员等待新的邂逅。整天抱怨「没有帅哥」来店里的残念系女子。<br>![](https://static.wikia.nocookie.net/lycoris-recoil/images/1/1e/Mizuki_Nakahara.png) | [萌娘百科](https://zh.moegirl.org.cn/中原瑞希) [Fandom](https://lycoris-recoil.fandom.com/wiki/Mizuki_Nakahara) |
