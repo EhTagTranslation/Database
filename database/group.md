@@ -13066,6 +13066,7 @@ example:
 | etoiles | Etoiles |  |  |
 | 6a seeds | ロクエク・シーズ |  |  |
 | gal prince | Gal Prince |  |  |
+| kogado studio | 工画堂工作室 | 工画堂スタジオ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
