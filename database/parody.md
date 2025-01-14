@@ -411,7 +411,7 @@ example:
 | queens blade | 女王之刃 |  |  |
 | sekirei | 鹡鸰女神 |  |  |
 | yuuki yuuna wa yuusha de aru | 结城友奈是勇者 |  |  |
-| blazblue | 苍翼默示录 | 《苍翼默示录》系列（日语：ブレイブルー）是由日本亚克系统制作的一款2D格斗游戏，并有《XBlaze》、《Blazblue Bloodedge Experience》等衍生作品。英文标题名「BLAZBLUE」，是将「Brave（勇者）」「Blaze（炎）」「Blue（青）」的意思相互融合的造语，是本作的故事剧情中的核心词语。 |  |
+| blazblue | 苍翼默示录 | 《苍翼默示录》系列（日语：ブレイブルー）是由日本亚克系统制作的一款2D格斗游戏，并有《XBlaze》、《Blazblue Bloodedge Experience》等衍生作品。英文标题名「BLAZBLUE」，是将「Brave（勇者）」「Blaze（炎）」「Blue（青）」的意思相互融合的造语，是本作的故事剧情中的核心词语。 | [萌娘百科](https://zh.moegirl.org.cn/苍翼默示录系列) |
 | frame arms girl | 机甲少女 |  |  |
 | busou shinki | 武装神姬 |  |  |
 | bayonetta | 猎天使魔女 | 三大ACT之一，任天堂独占系列。 |  |
