@@ -3530,7 +3530,7 @@ example:
 | hizuki akira | 緋月アキラ |  |  |
 | cream cod | 奶油鳕鱼 |  |  |
 | yasuyuki | やすゆき |  |  |
-| hisama kumako | ひさまくまこ |  |  |
+| hisama kumako | 久间熊子 | ひさまくまこ |  |
 | mikisai | みきさい |  | [X](https://x.com/mikisaidayo) [pixiv](https://www.pixiv.net/users/22547711) |
 | kisaragi yuri | きさらぎゆり |  | [X](https://x.com/kisaragi_h29) [pixiv](https://www.pixiv.net/users/3197898) |
 | ichikawa halu | いちかわはる |  |  |
