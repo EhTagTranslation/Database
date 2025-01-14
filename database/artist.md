@@ -13525,6 +13525,7 @@ example:
 | eluthel | 艾路塞尔 |  | [微博](https://weibo.com/u/1836767531)<br>[pixiv](https://www.pixiv.net/users/599170)<br>[X](https://x.com/eluthel) |
 | chuuou higashiguchi | 中央东口 | 中央東口<br>代表作: 沙耶之歌 |  |
 | narashika asuka | 成鹿明日香 | ならしかあすか, 伪娘画师 |  |
+| sai gakai | 肩引こ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
