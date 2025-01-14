@@ -1532,7 +1532,7 @@ example:
 | an an shokudou | あん♪あん♪食堂 |  |  |
 | hurupontei | ふるぽん亭 |  |  |
 | samidaregiri | 五月雨斬り |  |  |
-| harigane shinshi doumei | 針金紳士同盟 |  |  |
+| harigane shinshi doumei | 针金绅士同盟 | 針金紳士同盟 |  |
 | dessert time | Dessert Time |  |  |
 | fuka fuka | 不可不可 |  |  |
 | suzuki dogezaemon | 铃木土下座卫门 |  |  |
