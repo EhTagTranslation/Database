@@ -6039,6 +6039,7 @@ example:
 | genichiro ashina | 苇名弦一郎 |  |  |
 | kuro | 神子九郎 |  |  |
 | nobeta | 诺贝塔 |  |  |
+| rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
