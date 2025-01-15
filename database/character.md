@@ -6041,6 +6041,7 @@ example:
 | nobeta | 诺贝塔 |  |  |
 | rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 | sakura ritsuki | 桜凛月 |  |  |
+| natsumi kyouno | 镜野七罪 | 约会大作战中的女角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
