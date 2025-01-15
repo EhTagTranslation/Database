@@ -2686,7 +2686,7 @@ example:
 | miyasu risa | ミヤスリサ |  | [pixiv](https://www.pixiv.net/users/110271) [X](https://x.com/Risaly_) |
 | konomi | konomi |  | [pixiv](https://www.pixiv.net/users/171980) [X](https://x.com/konominoco) |
 | bokkun | ぼっくん |  | [pixiv](https://www.pixiv.net/users/2370288) [X](https://x.com/bokkun168) |
-| ikura nagisa | 伊倉ナギサ |  | [pixiv](https://www.pixiv.net/users/883185) [X](https://x.com/nagisaikura) |
+| ikura nagisa | 伊仓渚 | 伊倉ナギサ | [pixiv](https://www.pixiv.net/users/883185) [X](https://x.com/nagisaikura) |
 | furukawa odoro | 古河おどろ |  | [pixiv](https://www.pixiv.net/users/581146) [X](https://x.com/RE_yomawari) |
 | nishiki chizu | 西木地図 |  | [pixiv](https://www.pixiv.net/users/10043376) [X](https://x.com/241map) |
 | konka | 绀菓 | ![X](https://pbs.twimg.com/profile_images/1680523312194293760/B1zTha1l_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kon_ka827) [pixiv](https://www.pixiv.net/users/5561441) |
