@@ -10005,7 +10005,7 @@ example:
 | shigekix | しげきっくす |  | [pixiv](https://www.pixiv.net/users/2656323) |
 | shigi azusa | 鴫あずさ |  |  |
 | shiguchi satoshi | シグチサトシ |  |  |
-| shigunyan | しぐにゃん |  |  |
+| shigunyan | 寺于苗 | しぐにゃん |  |
 | shigure kyou | しぐれ卿 |  |  |
 | shigure ryuunosuke | 時雨龍之介 |  |  |
 | shihou | 志方 |  |  |
