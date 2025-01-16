@@ -6042,7 +6042,7 @@ example:
 | rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 | sakura ritsuki | 桜凛月 |  |  |
 | natsumi kyouno | 镜野七罪 | 约会大作战中的女角色 |  |
-| otogi | 音葵 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_805/h_1186/829/399789/2024/4/14/508341.png)SRT特殊学园FOX小队的狙击手，代号为FOX4。 | [Gamekee](https://www.gamekee.com/ba/591005.html) |
+| otogi | 音葵 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_805/h_1186/829/399789/2024/4/14/508341.png)SRT特殊学园FOX小队的狙击手，代号为FOX4。 | [Gamekee百科](https://www.gamekee.com/ba/591005.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
