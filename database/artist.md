@@ -3676,7 +3676,7 @@ example:
 | yuzhou | 宇宙 |  | [X](https://x.com/POPYZSN/media) [pixiv](https://www.pixiv.net/users/8729049) |
 | tantan | たん旦 | 《【朗报】成为我未婚妻的土妹子，在家里却可爱无比。》插画作者 | [pixiv](https://www.pixiv.net/users/23396) [X](https://x.com/tangented_) |
 | rana yume | らな夢 |  | [pixiv](https://www.pixiv.net/users/13405281) [X](https://x.com/wIGIJPstl5dqjy8) |
-| sen | SeN | 现居东京都，拥有自己的社团`g:astronomy`, 笔下的角色无论是否萝莉体态都很有肉感，可爱系画风（喜欢画`f:ahegao`） | [P站](https://www.pixiv.net/users/110243) [X](https://x.com/sen_astronomy) [HP](https://allmylinks.com/sen-astronomy) [Portal](https://portal.circle.ms/Circle/Index/10001565) |
+| sen | SeN | 现居东京都，拥有自己的社团`g:astronomy`, 笔下的角色无论是否萝莉体态都很有肉感，可爱系画风（喜欢画`f:ahegao`） | [P站](https://www.pixiv.net/users/110243) [X](https://x.com/sen_astronomy) [HP](https://allmylinks.com/sen-astronomy) [Portal](https://portal.circle.ms/Circle/Index/10001565) [VNDB](https://vndb.org/s5156) |
 | oumikun | 近江训 |  |  |
 | fukai ryousuke | 深井涼介 |  | [pixiv](https://www.pixiv.net/users/43177) [X](https://x.com/fpworks) |
 | hmongt | hmongt | hmongt（HM） | [HP](https://hmongt.gumroad.com/) [http://pixiv.me/hmongt](http://pixiv.me/hmongt) [X](https://x.com/HM_Hmongt) |
