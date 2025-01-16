@@ -13526,6 +13526,7 @@ example:
 | chuuou higashiguchi | 中央东口 | 中央東口<br>代表作: 沙耶之歌 |  |
 | narashika asuka | 成鹿明日香 | ならしかあすか, 伪娘画师 |  |
 | sai gakai | 肩引こ |  |  |
+| djheycha | DJ喜茶 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
