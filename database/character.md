@@ -6045,6 +6045,7 @@ example:
 | otogi | 音葵 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_805/h_1186/829/399789/2024/4/14/508341.png)SRT特殊学园FOX小队的狙击手，代号为FOX4。 | [Gamekee百科](https://www.gamekee.com/ba/591005.html) |
 | ein | 无 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_305/h_885/829/191981/2024/6/2/253483.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607316.html) |
 | ohr | 光 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_908/829/191981/2024/6/2/711028.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607318.html) |
+| sof | 限 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_893/829/191981/2024/6/2/334254.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607320.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
