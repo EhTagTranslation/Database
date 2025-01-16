@@ -2357,6 +2357,7 @@ example:
 | lv2 kara cheat datta motoyuusha kouho no mattari isekai life | 从Lv2开始开外挂的前勇者候补过着悠哉异世界生活 |  | [维基百科](https://zh.wikipedia.org/wiki/從Lv2開始開外掛的前勇者候補過著悠哉異世界生活) [萌娘百科](https://zh.moegirl.org.cn/从Lv2开始开外挂的前勇者候补过着悠哉异世界生活) |
 | one room hiatari futsuu tenshi-tsuki | 单人房、日照一般、附天使。 |  | [维基百科](https://zh.wikipedia.org/wiki/單人房、日照一般、附天使。) [萌娘百科](https://zh.moegirl.org.cn/单人房、日照一般、附天使。) |
 | shukufuku no campanella | 祝福的钟声 |  |  |
+| wonderland wars | Wonderland Wars |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
