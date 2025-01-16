@@ -1562,7 +1562,7 @@ example:
 | sdorica | Sdorica |  | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) |
 | kaifuku jutsushi no yarinaoshi | 回复术士的重启人生 |  | [维基百科](https://zh.wikipedia.org/wiki/回復術士的重啟人生) |
 | sd gundam sangokuden | SD高达三国传 |  | [维基百科](https://en.wikipedia.org/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors) |
-| promare | 普罗米亚 |  |  |
+| promare | 普罗米亚 | 《普罗米亚》（日语：プロメア，英语：Promare）是一部由今石洋之导演、中岛一基编剧、TRIGGER制作的日本原创动画电影，于2019年5月24日在日本公映。剧情为“烈焰急救队”的新人队员加罗·提莫斯，与身为能操控火焰的变异人组织“狂燃派”首领里奥·福蒂亚，两人赌上信念的战斗。 | [维基百科](https://zh.wikipedia.org/wiki/普羅米亞) [萌娘百科](https://zh.moegirl.org.cn/普罗米亚) |
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/SSSS.DYNAZENON) |
 | yagate kimi ni naru | 终将成为你 | 故事以“远见东高中”为舞台，主轴为不会对他人产生特殊好感与因自我厌恶不会接受别人善意的两位少女之间的故事。 | [萌娘百科](https://zh.moegirl.org.cn/终将成为你) [维基百科](https://zh.wikipedia.org/wiki/終將成為妳) |
 | maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
