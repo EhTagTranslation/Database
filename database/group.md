@@ -10259,7 +10259,7 @@ example:
 | shichiyou | 七陽 |  |  |
 | shichiyou souryuujin | 七曜蒼龍陣 |  |  |
 | shigaraki ceramic | シガラキセラミック |  |  |
-| shigunyan | しぐにゃん |  |  |
+| shigunyan | 寺于苗 | しぐにゃん |  |
 | shigure ebi | しぐれえび |  |  |
 | shigureya | しぐれや |  |  |
 | shihai shoujo | 支配少女 |  |  |
