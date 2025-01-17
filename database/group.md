@@ -13068,6 +13068,7 @@ example:
 | gal prince | Gal Prince |  |  |
 | kogado studio | 工画堂工作室 | 工画堂スタジオ |  |
 | shunga tarou | 春画太郎 |  |  |
+| turuturuodeco | つるつるおでこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
