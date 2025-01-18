@@ -5369,7 +5369,7 @@ example:
 | cheryl | 芽米 |  |  |
 | yangyang | 秧秧 | 所属作品:`p:wuthering waves`<br>是由库洛游戏开发的游戏《鸣潮》中的角色。 |  |
 | pachirisu | 帕奇利兹 | 帕奇利兹像一只松鼠，它的耳朵是蓝色的，下面延伸出了条纹，脸颊两侧有黄色的电气袋，有一道蓝色条纹一直从脑袋顶上经过背部到尾巴，末尾突出了三根尖状物。雌性帕奇利兹头部的条纹更短。 | [https://wiki.52poke.com/wiki/帕奇利兹#:~:text=帕奇利兹（日文︰,电屬性寶可夢。](https://wiki.52poke.com/wiki/帕奇利兹#:~:text=帕奇利兹（日文︰,电屬性寶可夢。) |
-| guitar meimei | 吉他妹妹 | 创造者: `artist:hitomio16` |  |
+| guitar meimei | 吉他妹妹 | 创造者: `a:hitomio16` |  |
 | kaede fuyou | 芙蓉枫 |  | [萌娘百科](https://zh.moegirl.org.cn/芙蓉枫) |
 | charlemagne | 查理曼 |  |  |
 | mandricardo | 曼迪卡尔多 |  |  |
@@ -6049,6 +6049,7 @@ example:
 | gamma | 伽马 | 《想要成为影之实力者》中七阴的一员 |  |
 | yuuna yunohana | 幽奈 | 《汤摇庄的幽奈同学》中的女主角 |  |
 | akari hoshizaki | 星咲明里 | 所属作品: `p:ongeki` | [萌娘百科](https://zh.moegirl.org.cn/星咲明里) |
+| type-37 daika | 37式黛卡 | `p:last origin`<br>伞妹<br>![](https://static.wikia.nocookie.net/lastorigin/images/a/a2/Daika.png)<br>未和谐版<br>![](https://static.wikia.nocookie.net/lastorigin/images/7/77/Daika_Skin_1.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/e/ea/Daika_Skin_1_Damaged.png)<br>和谐版<br>![](https://static.wikia.nocookie.net/lastorigin/images/c/cb/Daika_Skin_1_Censored.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/2/2a/Daika_Skin_1_Damaged_Censored.png) | [https://www.gamekee.com/lo/8955.html](https://www.gamekee.com/lo/8955.html)<br>[Fandom](https://lastorigin.fandom.com/wiki/Daika)<br>[https://en.namu.wiki/w/37식%20다이카](https://en.namu.wiki/w/37식%20다이카) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
