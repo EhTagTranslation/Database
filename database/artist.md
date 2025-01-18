@@ -13527,6 +13527,7 @@ example:
 | narashika asuka | 成鹿明日香 | ならしかあすか, 伪娘画师 |  |
 | sai gakai | 肩引こ |  |  |
 | djheycha | DJ喜茶 |  |  |
+| rozea | Rozea |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
