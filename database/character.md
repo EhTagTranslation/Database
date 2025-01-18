@@ -6048,6 +6048,7 @@ example:
 | sof | 限 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_893/829/191981/2024/6/2/334254.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607320.html) |
 | gamma | 伽马 | 《想要成为影之实力者》中七阴的一员 |  |
 | yuuna yunohana | 幽奈 | 《汤摇庄的幽奈同学》中的女主角 |  |
+| akari hoshizaki | 星咲明里 | 所属作品: `p:ongeki` | [萌娘百科](https://zh.moegirl.org.cn/星咲明里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
