@@ -13070,6 +13070,7 @@ example:
 | shunga tarou | 春画太郎 |  |  |
 | turuturuodeco | つるつるおでこ |  |  |
 | funmatsu maccha | 粉末抹茶 |  |  |
+| mentaipark | めんたいぱぁく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
