@@ -6051,6 +6051,7 @@ example:
 | akari hoshizaki | 星咲明里 | 所属作品: `p:ongeki` | [萌娘百科](https://zh.moegirl.org.cn/星咲明里) |
 | type-37 daika | 37式黛卡 | `p:last origin`<br>伞妹<br>![](https://static.wikia.nocookie.net/lastorigin/images/a/a2/Daika.png)<br>未和谐版<br>![](https://static.wikia.nocookie.net/lastorigin/images/7/77/Daika_Skin_1.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/e/ea/Daika_Skin_1_Damaged.png)<br>和谐版<br>![](https://static.wikia.nocookie.net/lastorigin/images/c/cb/Daika_Skin_1_Censored.png)<br>![](https://static.wikia.nocookie.net/lastorigin/images/2/2a/Daika_Skin_1_Damaged_Censored.png) | [https://www.gamekee.com/lo/8955.html](https://www.gamekee.com/lo/8955.html)<br>[Fandom](https://lastorigin.fandom.com/wiki/Daika)<br>[https://en.namu.wiki/w/37식%20다이카](https://en.namu.wiki/w/37식%20다이카) |
 | kosuzu kachimachi | 徒町小铃 | 徒町小铃（日语：徒町 小鈴，罗马字：Kachimachi Kosuzu）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/徒町小铃) |
+| asari neo | 根緒亜紗里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
