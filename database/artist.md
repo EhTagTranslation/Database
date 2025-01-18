@@ -13528,6 +13528,7 @@ example:
 | sai gakai | 肩引こ |  |  |
 | djheycha | DJ喜茶 |  |  |
 | rozea | Rozea |  |  |
+| inasotsu | いなそつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
