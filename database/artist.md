@@ -13529,6 +13529,7 @@ example:
 | djheycha | DJ喜茶 |  |  |
 | rozea | Rozea |  |  |
 | inasotsu | いなそつ |  |  |
+| hitomio16 | hitomio拾六 | 原创角色「`c:guitar meimei`」和「升玖老师」 | [X](https://x.com/hitomio16) [pixiv](https://www.pixiv.net/users/12696075) |
 
 <!--TEMPLATE:
 |  |  |  |  |
