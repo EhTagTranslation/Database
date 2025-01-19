@@ -13071,6 +13071,7 @@ example:
 | turuturuodeco | つるつるおでこ |  |  |
 | funmatsu maccha | 粉末抹茶 |  |  |
 | mentaipark | めんたいぱぁく |  |  |
+| muchi muchi museum | ムチムチ美術館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
