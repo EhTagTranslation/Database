@@ -2364,6 +2364,7 @@ example:
 | akudama drive | 全员恶玉 |  | [维基百科](https://zh.wikipedia.org/wiki/全員惡玉) [萌娘百科](https://zh.moegirl.org.cn/恶棍DRIVE) |
 | undead unluck | 不死不幸 |  | [维基百科](https://zh.wikipedia.org/wiki/不死不運) [萌娘百科](https://zh.moegirl.org.cn/不死不幸) |
 | aether gazer | 深空之眼 | 《深空之眼》（代号：弥弥尔）是一款由厦门勇仕所开发的同屏连携3D动作游戏。游戏在2022年4月22日在中国大陆地区公测。<br><br>《深空之眼》为动作角色扮演，玩家将扮演一名新人管理员从修正者（Modifier）中自由搭配三人小队进行作战，每名修正者攻击方式各异且拥有不同的攻击属性。 | [维基百科](https://zh.wikipedia.org/wiki/深空之眼) [萌娘百科](https://zh.moegirl.org.cn/深空之眼) |
+| sakamoto days | 坂本日常 |  | [维基百科](https://zh.wikipedia.org/wiki/SAKAMOTO_DAYS_坂本日常) [萌娘百科](https://zh.moegirl.org.cn/坂本日常) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
