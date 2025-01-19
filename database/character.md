@@ -6057,6 +6057,7 @@ example:
 | shiori novella | 诗织·诺薇拉 | 诗织·诺薇拉（英语：Shiori Novella，日语：シオリ・ノヴェラ）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/诗织·诺薇拉) [hololive官网介绍](https://hololive.hololivepro.com/talents/shiori-novella/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Shiori_Novella) |
 | koseki bijou | 古石碧珠 | 古石碧珠（英语：Koseki Bijou，日语：古石 ビジュ―／こせき びじゅー）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/古石碧珠) [hololive官网介绍](https://hololive.hololivepro.com/en/talents/koseki-bijou/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Koseki_Bijou) |
 | skirk | 丝柯克 |  |  |
+| hanya | 寒鸦 | 《崩坏星穹铁道》中的女性角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
