@@ -2359,6 +2359,7 @@ example:
 | shukufuku no campanella | 祝福的钟声 |  |  |
 | wonderland wars | Wonderland Wars |  |  |
 | isekai meikyuu de harem o | 异世界迷宫里的后宫生活 |  | [维基百科](https://zh.wikipedia.org/wiki/異世界迷宮裡的後宮生活) [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫里的后宫生活) |
+| seiken gakuin no maken tsukai | 圣剑学院的魔剑使 |  | [维基百科](https://zh.wikipedia.org/wiki/聖劍學院的魔劍使) [萌娘百科](https://zh.moegirl.org.cn/圣剑学院的魔剑使) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
