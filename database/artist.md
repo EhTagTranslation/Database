@@ -13537,6 +13537,7 @@ example:
 | shinyatai sanpo | 深夜帯散歩 |  | [X](https://x.com/shinyataisanpo) |
 | shine nabyss | シャイン・ナビス |  | [X](https://x.com/shine_nabyss2) |
 | bekkan | 別館 |  | [pixiv](https://www.pixiv.net/users/70692554) [X](https://x.com/_anannex) |
+| koukoku | 古宇谷（コウコク） |  | [pixiv](https://www.pixiv.net/users/48143) [X](https://x.com/koukoku0716) |
 
 <!--TEMPLATE:
 |  |  |  |  |
