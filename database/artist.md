@@ -13533,6 +13533,7 @@ example:
 | qingming tongzi | 青冥童子 |  | [pixiv](https://www.pixiv.net/users/1037543) [X](https://x.com/nicolasking6) |
 | mebunryo | めぶんりょう |  | [pixiv](https://www.pixiv.net/users/2401221) [X](https://x.com/mebunryo2) |
 | nakushita kanjou | かんぜう |  | [pixiv](https://www.pixiv.net/users/97006737) [X](https://x.com/kan_zeu) |
+| bigxixi | BIG玺子 |  | [pixiv](https://www.pixiv.net/users/26690900) [哔哩哔哩](https://space.bilibili.com/1649837) [微博](https://m.weibo.cn/u/5892607017) [X](https://x.com/BIGxixii) |
 
 <!--TEMPLATE:
 |  |  |  |  |
