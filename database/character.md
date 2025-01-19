@@ -2230,7 +2230,7 @@ example:
 | yotsugi ononoki | 斧乃木余接 |  |  |
 |  | ▼ 甘城光辉游乐园 |  |  |
 | seiya kanie | 可儿江西也 |  |  |
-| isuzu sento | 千斗五十铃 |  |  |
+| isuzu sento | 千斗五十铃 | 所属作品: `p:amagi brilliant park`<br><br>因其在C87以一己之力单挑以众舰娘为首的前任几届本子王，荣升为新任本子王。 | [萌娘百科](https://zh.moegirl.org.cn/千斗五十铃) |
 | latifa fleuranza | 拉媞珐·芙尔兰札 |  |  |
 | salama | 萨拉玛 |  |  |
 | sylphy | 西尔菲 |  |  |
