@@ -13072,6 +13072,7 @@ example:
 | funmatsu maccha | 粉末抹茶 |  |  |
 | mentaipark | めんたいぱぁく |  |  |
 | muchi muchi museum | ムチムチ美術館 |  |  |
+| hakuhoukoubou | 白鳳工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
