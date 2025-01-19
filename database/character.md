@@ -6060,6 +6060,7 @@ example:
 | hanya | 寒鸦 | 《崩坏星穹铁道》中的女性角色 |  |
 | rukkhadevata | 大慈树王 |  |  |
 | mizuki yumemizuki | 梦见月瑞希 | 《原神》中的女性角色 |  |
+| shinju inui | 乾心寿 | 乾心寿（日语：乾（いぬい） 心寿（しんじゅ））是由福田晋一创作的漫画《更衣人偶坠入爱河》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/2/20/Inui_Shinju_anime.png) | [萌娘百科](https://zh.moegirl.org.cn/乾心寿) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
