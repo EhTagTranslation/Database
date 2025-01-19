@@ -13536,6 +13536,7 @@ example:
 | bigxixi | BIG玺子 |  | [pixiv](https://www.pixiv.net/users/26690900) [哔哩哔哩](https://space.bilibili.com/1649837) [微博](https://m.weibo.cn/u/5892607017) [X](https://x.com/BIGxixii) |
 | shinyatai sanpo | 深夜帯散歩 |  | [X](https://x.com/shinyataisanpo) |
 | shine nabyss | シャイン・ナビス |  | [X](https://x.com/shine_nabyss2) |
+| bekkan | 別館 |  | [pixiv](https://www.pixiv.net/users/70692554) [X](https://x.com/_anannex) |
 
 <!--TEMPLATE:
 |  |  |  |  |
