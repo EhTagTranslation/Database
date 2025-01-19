@@ -6053,6 +6053,7 @@ example:
 | kosuzu kachimachi | 徒町小铃 | 徒町小铃（日语：徒町 小鈴，罗马字：Kachimachi Kosuzu）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/徒町小铃) |
 | asari neo | 根緒亜紗里 |  |  |
 | kikoru shinomiya | 四之宫奇可露 | 所属作品: `p:kaijuu 8-gou` | [Fandom](https://kaiju-no-8.fandom.com/wiki/Kikoru_Shinomiya) |
+| nerissa ravencroft | 纳瑞莎·雷文克罗夫特 | 纳瑞莎·雷文克罗夫特（英语：Nerissa Ravencroft，日语：ネリッサ・レイヴンクロフト）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/纳瑞莎·雷文克罗夫特) [hololive官网介绍](https://hololive.hololivepro.com/talents/nerissa-ravencroft/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Nerissa_Ravencroft) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
