@@ -599,7 +599,7 @@ example:
 | wazakita | わざきた |  |  |
 | erodezain koubou | エロデザイン工房 |  |  |
 | coffee-kizoku | 咖啡贵族 | ![X](https://pbs.twimg.com/profile_images/715710493835440128/VpVhA8JL_400x400.jpg)<br><br>**作者推特头像** | [pixiv](https://www.pixiv.net/users/92448) |
-| rindou | 龙胆 |  |  |
+| rindou | 竜胆/三峯みね |  | [pixiv](https://www.pixiv.net/users/32082122) [X](https://x.com/rindou_ringdong) |
 | iruma kamiri | いるまかみり |  |  |
 | zakkin | 杂菌 |  |  |
 | aotsu umihito | 蒼津ウミヒト |  |  |
