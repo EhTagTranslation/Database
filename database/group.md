@@ -13073,6 +13073,7 @@ example:
 | mentaipark | めんたいぱぁく |  |  |
 | muchi muchi museum | ムチムチ美術館 |  |  |
 | hakuhoukoubou | 白鳳工房 |  |  |
+| ishiyaki imo | いしやきいも |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
