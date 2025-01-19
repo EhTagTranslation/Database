@@ -2362,6 +2362,7 @@ example:
 | seiken gakuin no maken tsukai | 圣剑学院的魔剑使 |  | [维基百科](https://zh.wikipedia.org/wiki/聖劍學院的魔劍使) [萌娘百科](https://zh.moegirl.org.cn/圣剑学院的魔剑使) |
 | kaijuu 8-gou | 怪兽8号 |  | [维基百科](https://zh.wikipedia.org/wiki/怪獸8號) [萌娘百科](https://zh.moegirl.org.cn/怪兽8号) |
 | akudama drive | 全员恶玉 |  | [维基百科](https://zh.wikipedia.org/wiki/全員惡玉) [萌娘百科](https://zh.moegirl.org.cn/恶棍DRIVE) |
+| undead unluck | 不死不幸 |  | [维基百科](https://zh.wikipedia.org/wiki/不死不運) [萌娘百科](https://zh.moegirl.org.cn/不死不幸) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
