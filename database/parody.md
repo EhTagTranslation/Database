@@ -501,7 +501,7 @@ example:
 | terra formars | 火星异种 |  |  |
 | spirited away | 千与千寻 |  |  |
 | el hazard | 神秘的世界 |  |  |
-| langrisser | 梦幻模拟战 |  |  |
+| langrisser | 梦幻模拟战 | 《梦幻模拟战系列》（日语：ラングリッサーシリーズ；英语：Langrisser Series），是由日本电脑系统公司NCS旗下的Masaya和Career Soft开发的战棋游戏系列。共5部正传。 | [萌娘百科](https://zh.moegirl.org.cn/梦幻模拟战系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/ラングリッサーシリーズ) |
 | slayers | 秀逗魔导士 |  |  |
 | grendizer | UFO机器人 古连泰沙 |  |  |
 | keroro gunsou | Keroro军曹 |  |  |
