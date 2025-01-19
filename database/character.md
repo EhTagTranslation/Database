@@ -6055,6 +6055,7 @@ example:
 | kikoru shinomiya | 四之宫奇可露 | 所属作品: `p:kaijuu 8-gou` | [Fandom](https://kaiju-no-8.fandom.com/wiki/Kikoru_Shinomiya) |
 | nerissa ravencroft | 纳瑞莎·雷文克罗夫特 | 纳瑞莎·雷文克罗夫特（英语：Nerissa Ravencroft，日语：ネリッサ・レイヴンクロフト）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/纳瑞莎·雷文克罗夫特) [hololive官网介绍](https://hololive.hololivepro.com/talents/nerissa-ravencroft/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Nerissa_Ravencroft) |
 | shiori novella | 诗织·诺薇拉 | 诗织·诺薇拉（英语：Shiori Novella，日语：シオリ・ノヴェラ）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/诗织·诺薇拉) [hololive官网介绍](https://hololive.hololivepro.com/talents/shiori-novella/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Shiori_Novella) |
+| koseki bijou | 古石碧珠 | 古石碧珠（英语：Koseki Bijou，日语：古石 ビジュ―／こせき びじゅー）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/古石碧珠) [hololive官网介绍](https://hololive.hololivepro.com/en/talents/koseki-bijou/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Koseki_Bijou) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
