@@ -6059,6 +6059,7 @@ example:
 | skirk | 丝柯克 |  |  |
 | hanya | 寒鸦 | 《崩坏星穹铁道》中的女性角色 |  |
 | rukkhadevata | 大慈树王 |  |  |
+| mizuki yumemizuki | 梦见月瑞希 | 《原神》中的女性角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
