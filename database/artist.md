@@ -3460,7 +3460,7 @@ example:
 | oshino | 推乃 |  |  |
 | shiramizu mizuchi | 白瑞みずち |  | [X](https://x.com/maguroyoukai) [pixiv](https://www.pixiv.net/users/1601595) |
 | majima tetsurou | 真島てつろー |  | [X](https://x.com/Tetsu__TTR) [pixiv](https://www.pixiv.net/users/16798951) |
-| super zombie | すーぱーぞんび | ![画师头像](https://pbs.twimg.com/profile_images/1478036805224382469/I0DiSe6K_200x200.jpg)<br>画师推特头像 | [X](https://x.com/yamayo) [pixiv](https://www.pixiv.net/users/38461) |
+| super zombie | 超级僵尸 | すーぱーぞんび<br>![画师头像](https://pbs.twimg.com/profile_images/1478036805224382469/I0DiSe6K_200x200.jpg)<br>画师推特头像 | [X](https://x.com/yamayo) [pixiv](https://www.pixiv.net/users/38461) |
 | seuma | せうま |  |  |
 | ryoma | きただりょうま |  | [X](https://x.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) |
 | kannko | 缶子 | 大奶画家 音乐发烧友 非常大烧 设备已达7位数 | [X](https://x.com/orz_can) [pixiv](https://www.pixiv.net/users/8307536) |
