@@ -13540,7 +13540,7 @@ example:
 | koukoku | 古宇谷（コウコク） |  | [pixiv](https://www.pixiv.net/users/48143) [X](https://x.com/koukoku0716) |
 | ishida | いしだ |  | [pixiv](https://www.pixiv.net/users/39639) [X](https://x.com/ewoageru_akaunt/) |
 | xianyumiao cat | 咸鱼喵CAT |  | [pixiv](https://www.pixiv.net/users/3041039) [X](https://x.com/OtakuCat1992) [哔哩哔哩](https://space.bilibili.com/123150/) |
-| sekihaku keu | 迹帛けう | `group:takotsubo-tei sekihaku` | [X](https://x.com/Keu_Sekihaku) |
+| sekihaku keu | 迹帛けう | `g:takotsubo-tei sekihaku` | [X](https://x.com/Keu_Sekihaku) [pixiv](https://www.pixiv.net/users/8193827) |
 
 <!--TEMPLATE:
 |  |  |  |  |
