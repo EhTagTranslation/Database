@@ -12680,7 +12680,7 @@ example:
 | toridamono | トリダモノ |  | [X](https://x.com/toridamono) [pixiv](https://www.pixiv.net/users/23654) |
 | yoshimura takuya | 吉村拓哉 |  | [X](https://x.com/hanari0716) [HP](http://takuyayoshimura.com) |
 | yuki no arashi | 雪之岚 | 雪ノ嵐 【甲板下的鸽子窝】主催&画师，PIXIVID=17305623 | [pixiv](https://www.pixiv.net/users/17305623)<br>[pixiv](https://www.pixiv.net/fanbox/creator/17305623)<br>[FANBOX](https://kyuso379.fanbox.cc/)<br>[https://weidian.com/?userid=1705978422](https://weidian.com/?userid=1705978422)<br>[哔哩哔哩](https://space.bilibili.com/2140986/) |
-| yiduan | 异端 | 【甲板下的鸽子窝】主催&画师，PIXIVID=17305623 | [pixiv](https://www.pixiv.net/users/17305623)<br>[pixiv](https://www.pixiv.net/fanbox/creator/17305623)<br>[FANBOX](https://kyuso379.fanbox.cc/)<br>[https://weidian.com/?userid=1705978422](https://weidian.com/?userid=1705978422)<br>[哔哩哔哩](https://space.bilibili.com/2140986/) |
+| yiduan | 异端 | 【甲板下的鸽子窝】主催&画师，PIXIVID=17305623 | [pixiv](https://www.pixiv.net/users/17305623) [X](https://x.com/arashiyiduan) [哔哩哔哩](https://space.bilibili.com/2140986/) |
 | kii kanna | 紀伊カンナ |  | [X](https://x.com/mioshun0303) |
 | watosu mama | わとす |  | [pixiv](https://www.pixiv.net/users/37774114) [X](https://x.com/watosu_mama) |
 | wodae | ヲダエ |  | [pixiv](https://www.pixiv.net/users/9273205) [X](https://x.com/wodaex) |
