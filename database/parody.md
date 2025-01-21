@@ -2365,6 +2365,7 @@ example:
 | undead unluck | 不死不幸 |  | [维基百科](https://zh.wikipedia.org/wiki/不死不運) [萌娘百科](https://zh.moegirl.org.cn/不死不幸) |
 | aether gazer | 深空之眼 | 《深空之眼》（代号：弥弥尔）是一款由厦门勇仕所开发的同屏连携3D动作游戏。游戏在2022年4月22日在中国大陆地区公测。<br><br>《深空之眼》为动作角色扮演，玩家将扮演一名新人管理员从修正者（Modifier）中自由搭配三人小队进行作战，每名修正者攻击方式各异且拥有不同的攻击属性。 | [维基百科](https://zh.wikipedia.org/wiki/深空之眼) [萌娘百科](https://zh.moegirl.org.cn/深空之眼) |
 | sakamoto days | 坂本日常 |  | [维基百科](https://zh.wikipedia.org/wiki/SAKAMOTO_DAYS_坂本日常) [萌娘百科](https://zh.moegirl.org.cn/坂本日常) |
+| ghosts n goblins | 魔界村 | 《魔界村》（日版名：魔界村，英文版名：Ghosts 'n Goblins）是卡普空于1985年推出的大型电玩动作游戏，后来在1986年6月13日移植到FC上。<br><br>故事开头亚瑟（Arthur）和公主两人在墓地约会，突然之间天色大变，撒旦（Satan）出现掳走公主，亚瑟穿上铠甲拿起长矛前往魔界打倒魔物们后救出公主。<br>本作以恐怖为大宗，出现的怪物造型以当时来说颇为可怕，而且以困难度出名，之后推出的作品均无法与之比拟。 | [维基百科](https://zh.wikipedia.org/wiki/魔界村_%28遊戲%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
