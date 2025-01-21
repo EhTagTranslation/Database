@@ -6062,6 +6062,7 @@ example:
 | mizuki yumemizuki | 梦见月瑞希 | 《原神》中的女性角色 |  |
 | shinju inui | 乾心寿 | 乾心寿（日语：乾（いぬい） 心寿（しんじゅ））是由福田晋一创作的漫画《更衣人偶坠入爱河》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/2/20/Inui_Shinju_anime.png) | [萌娘百科](https://zh.moegirl.org.cn/乾心寿) |
 | carlotta | 柯莱塔 | 《鸣潮》中的女性角色 |  |
+| sayori | 纱世里 | 所属作品: `p:doki doki literature club`<br><br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/c/ca/Sayori_Illustration.png) | [萌娘百科](https://zh.moegirl.org.cn/纱世里) [Fandom](https://doki-doki-literature-club.fandom.com/zh/wiki/纱世里（Sayori）) [维基百科（英语）](https://en.wikipedia.org/wiki/Sayori_%28Doki_Doki_Literature_Club!%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
