@@ -13542,6 +13542,7 @@ example:
 | xianyumiao cat | 咸鱼喵CAT |  | [pixiv](https://www.pixiv.net/users/3041039) [X](https://x.com/OtakuCat1992) [哔哩哔哩](https://space.bilibili.com/123150/) |
 | sekihaku keu | 迹帛けう | `g:takotsubo-tei sekihaku` | [X](https://x.com/Keu_Sekihaku) [pixiv](https://www.pixiv.net/users/8193827) |
 | tunamayo | TunaMaYo | TunaMaYo/ 참치마요 | [pixiv](https://www.pixiv.net/users/5004992) [X](https://x.com/dsasd751) |
+| chiyo mako | 千夜真子 |  | [pixiv](https://www.pixiv.net/users/64131639) |
 
 <!--TEMPLATE:
 |  |  |  |  |
