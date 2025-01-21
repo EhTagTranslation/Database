@@ -6067,6 +6067,7 @@ example:
 | cure nyammy | 猫屋敷麻友 | 刚搬来动物小镇的少女。彩妆＆杂货店“PrettyHolic”的独生女，私立湾岸第二中学2年1班。搬家前就读小泉学园。经常且喜欢感性看待各种事物。生日为11月5日，结缘日（縁結びの日）。喜欢浅绿色，也喜欢吃饼干。 | [萌娘百科](https://zh.moegirl.org.cn/猫屋敷麻友) [Fandom](https://prettycure.fandom.com/wiki/Nekoyashiki_Yuki) |
 | millia rage | 米莉亚·蕾姬 | 所属作品: `p:guilty gear` | [维基百科（日语）](https://ja.wikipedia.org/wiki/ミリア・レイジ) |
 | kei karuizawa | 轻井泽惠 | 轻小说《欢迎来到实力主义至上的教室》中的女性角色，金发辣妹。曾与绫小路清隆是恋人关系。 |  |
+| an94 | AN-94 \| 安提娅 | `p:girls frontline`<br>同`c:an-94` | [少前百科GFwiki](https://www.gfwiki.org/w/AN-94) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
