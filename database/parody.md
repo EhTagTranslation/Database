@@ -1618,7 +1618,7 @@ example:
 | osananajimi ga zettai ni makenai love comedy | 青梅竹马绝对不会输的恋爱喜剧 |  |  |
 | buried stars | 深埋之星 | 《深埋之星》（BURIED STARS）是一款以现场直播选秀崩塌现场为背景的冒险游戏，发售于2021年11月，由韩国游戏公司LINE Games Corporation进行发行。 | [https://buried-stars.com/](https://buried-stars.com/) |
 | gunbuster | 飞跃巅峰 | 庵野秀明1988年导演作品 |  |
-| 13 sentinels aegis rim | 十三机兵防卫圈 |  |  |
+| 13 sentinels aegis rim | 十三机兵防卫圈 | 《十三机兵防卫圈》（日语：十三機兵防衛圏，英语：13 Sentinels: Aegis Rim）是一款由Vanillaware开发的2D科幻冒险游戏。<br><br>13名主角有着截然不同的剧情风格和故事内容，其中包含许多经典科幻场景的重现，以及许多经典ACG作品名场面的致敬。这些剧情每一个都与主线牢牢联系着，互相交错，共同编织出了《十三机兵防卫圈》错综复杂又逻辑明晰的故事。 | [维基百科](https://zh.wikipedia.org/wiki/十三机兵防卫圈) [萌娘百科](https://zh.moegirl.org.cn/十三机兵防卫圈) |
 | infinite space | 无限航路 |  |  |
 | tonari no kyuuketsuki-san | 邻家索菲 | ![图](https://ehgt.org/76/5d/765d2160ae3ca5f03e2d1d766015563e3cf75162-1682679-866-1256-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/隔壁的吸血鬼美眉) |
 | rabi ribi | Rabi-Ribi |  |  |
