@@ -6070,7 +6070,7 @@ example:
 | an94 | AN-94 \| 安提娅 | `p:girls frontline`<br>同`c:an-94` | [少前百科GFwiki](https://www.gfwiki.org/w/AN-94) |
 | yuki-onna | 雪女 | 这应该不是某个作品中的角色，更偏向于一种人设 |  |
 | makiatto | 玛琦朵 | `p:girls frontline`<br>同`c:wa2000`<br>![](https://gfwiki.org/images/c/ce/Pic_WA2000_HD.png)<br>Girls' Frontline 2: Exilium<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_MacqiatoSSR.png)<br>猫咪：佣兵，配饰：小提琴包背带 | [少前百科GFwiki](https://www.gfwiki.org/w/WA2000)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/MacqiatoSSR) |
-| kyouko machi | 町京子 | 无头骑士。1年B班。头与身体分离的亚人，最远曾分离约600公里。祖先是传承于爱尔兰的妖精，在现在的世界似乎是仅存3人。成绩优秀。喜欢他人抱住自己的头，喜欢高桥老师，把头取下后身体里会冒出不热的火焰，情绪激动的时候火焰会变成喷射状态，学霸，一开始虽然是父亲的要求，但是后来喜欢上了学习，成绩一直处在上游，至少有一次曾拿过全校第一。 |  |
+| kyouko machi | 町京子 | 所属作品: `p:demi-chan wa kataritai`<br><br>无头骑士。1年B班。头与身体分离的亚人，最远曾分离约600公里。祖先是传承于爱尔兰的妖精，在现在的世界似乎是仅存3人。成绩优秀。喜欢他人抱住自己的头，喜欢高桥老师，把头取下后身体里会冒出不热的火焰，情绪激动的时候火焰会变成喷射状态，学霸，一开始虽然是父亲的要求，但是后来喜欢上了学习，成绩一直处在上游，至少有一次曾拿过全校第一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
