@@ -590,7 +590,7 @@ example:
 | genji tsuushin agedama | 电脑小奇侠 |  |  |
 | dennou coil | 电脑线圈 |  |  |
 | god eater | 噬神者 |  |  |
-| demi-chan wa kataritai | 亚人酱有话要说 |  |  |
+| demi-chan wa kataritai | 亚人酱有话要说 |  | [维基百科](https://zh.wikipedia.org/wiki/亞人醬有話要說) [萌娘百科](https://zh.moegirl.org.cn/亚人酱有话要说) |
 | akazukin chacha | 小红帽恰恰 |  |  |
 | idol janshi suchie-pai | 美少女雀士 |  |  |
 | twin angels | 淫兽圣战 |  |  |
