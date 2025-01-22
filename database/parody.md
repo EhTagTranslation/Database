@@ -2369,6 +2369,7 @@ example:
 | strider | 出击飞龙 |  | [维基百科](https://zh.wikipedia.org/wiki/出擊飛龍) |
 | the jungle book | 森林王子 | 《森林王子》（英语：The Jungle Book）是一部由华特迪士尼制作公司于1967年制作并发行的动画电影。它为第19部华特迪士尼经典动画长片。改编自吉卜林的同名小说《丛林之书》（另译：丛林奇谭、森林王子）。<br><br>主角是名为“毛克利”的人类男孩和名叫“巴鲁”的大熊。 电影，像书，讲述了叙述人类小男孩毛克利从小在森林中被狼群养大，和动物朋友们在森林里中的冒险过程。 | [维基百科](https://zh.wikipedia.org/wiki/森林王子) |
 | popn music | Pop'n music | Pop'n music，又称为动感音乐或者流行音乐（日语：ポップンミュージック）是科乐美游戏公司所研发的一款音乐游戏。因其拥有欢快的音乐、明亮的颜色以及卡通的角色图片而得名。该游戏属于Bemani系列，于1998年推出，在日本街头有许多街机的版本。 | [维基百科](https://zh.wikipedia.org/wiki/Pop%27n_music) [萌娘百科](https://zh.moegirl.org.cn/Pop%27n_music) |
+| kamen rider gotchard | 假面骑士Gotchard | 《假面骑士歌查德》（日语：仮面ライダーガッチャード，英语：Kamen Rider Gotchard）。于2023年播出，全剧共50话。本作标语为“抓住！最好的GOTCHA！”。“假面骑士歌查德”亦是本作主角假面骑士的名字。本作是“令和假面骑士”系列第五作，主角为第40位假面骑士。 | [维基百科](https://zh.wikipedia.org/wiki/假面騎士GOTCHARD) [萌娘百科](https://zh.moegirl.org.cn/假面骑士Gotchard) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
