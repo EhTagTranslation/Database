@@ -2373,6 +2373,7 @@ example:
 | kamen rider revice | 假面骑士Revice | 《假面骑士Revice》（日语：仮面ライダーリバイス；英语：Kamen Rider Revice）是石之森章太郎原作，于2021年播出的日本特摄电视剧。是“令和假面骑士”系列第三作、假面骑士系列的50周年纪念作。主角同时也是第38位假面骑士。面骑士利维斯是作为主角假面骑士及搭档假面骑士合在一起后的名字。 | [萌娘百科](https://zh.moegirl.org.cn/假面骑士Revice) [维基百科](https://zh.wikipedia.org/wiki/假面騎士REVICE) |
 | kamen rider saber | 假面骑士Saber | 《假面骑士圣刃》（原题：仮面ライダーセイバー），又名《假面骑士Saber》，是日本东映制作的《假面骑士系列》第2部令和系列特摄作品，于2020年播出的日本特摄电视剧。主角同时也是第37位假面骑士。 | [萌娘百科](https://zh.moegirl.org.cn/假面骑士圣刃) [维基百科](https://zh.wikipedia.org/wiki/假面騎士聖刃) |
 | super sentai | 超级战队 | 超级战队系列是由电影公司东映从1975年起制作的一系列特摄电视剧，并有小说、漫画、游戏、动画等衍生作品。<br><br>日本三大特摄系列之一，另外两个系列分别是《奥特曼系列》和《假面骑士系列》，值得一提的是后者和战队系列同属东映旗下。除此之外战队和骑士系列还和同样为东映旗下的动画《光之美少女系列》并称“东映御三家”，且这三大系列在周日的播放时段正好紧挨着。除此之外三大系列时常也会互相联动。<br><br>![](https://p.sda1.dev/21/7fa2a01d0735e09ef6054e1ba200478e/image.png) | [维基百科](https://zh.wikipedia.org/wiki/超級戰隊系列) [萌娘百科](https://zh.moegirl.org.cn/超级战队系列) |
+| brave sword x blaze soul | 勇气之剑 × 火焰之魂 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレイブソード×ブレイズソウル) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
