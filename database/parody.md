@@ -2371,6 +2371,7 @@ example:
 | popn music | Pop'n music | Pop'n music，又称为动感音乐或者流行音乐（日语：ポップンミュージック）是科乐美游戏公司所研发的一款音乐游戏。因其拥有欢快的音乐、明亮的颜色以及卡通的角色图片而得名。该游戏属于Bemani系列，于1998年推出，在日本街头有许多街机的版本。 | [维基百科](https://zh.wikipedia.org/wiki/Pop%27n_music) [萌娘百科](https://zh.moegirl.org.cn/Pop%27n_music) |
 | kamen rider gotchard | 假面骑士Gotchard | 《假面骑士歌查德》（日语：仮面ライダーガッチャード，英语：Kamen Rider Gotchard）。于2023年播出，全剧共50话。本作标语为“抓住！最好的GOTCHA！”。“假面骑士歌查德”亦是本作主角假面骑士的名字。本作是“令和假面骑士”系列第五作，主角为第40位假面骑士。<br><br>![](https://p.sda1.dev/21/23a4e9e22796a4c0a9155a3600813ed9/假面骑士Gotchard海报.jpg) | [维基百科](https://zh.wikipedia.org/wiki/假面騎士GOTCHARD) [萌娘百科](https://zh.moegirl.org.cn/假面骑士Gotchard) |
 | kamen rider revice | 假面骑士Revice | 《假面骑士Revice》（日语：仮面ライダーリバイス；英语：Kamen Rider Revice）是石之森章太郎原作，于2021年播出的日本特摄电视剧。是“令和假面骑士”系列第三作、假面骑士系列的50周年纪念作。主角同时也是第38位假面骑士。面骑士利维斯是作为主角假面骑士及搭档假面骑士合在一起后的名字。 | [萌娘百科](https://zh.moegirl.org.cn/假面骑士Revice) [维基百科](https://zh.wikipedia.org/wiki/假面騎士REVICE) |
+| kamen rider saber | 假面骑士Saber | 《假面骑士圣刃》（原题：仮面ライダーセイバー），又名《假面骑士Saber》，是日本东映制作的《假面骑士系列》第2部令和系列特摄作品，于2020年播出的日本特摄电视剧。主角同时也是第37位假面骑士。 | [萌娘百科](https://zh.moegirl.org.cn/假面骑士圣刃) [维基百科](https://zh.wikipedia.org/wiki/假面騎士聖刃) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
