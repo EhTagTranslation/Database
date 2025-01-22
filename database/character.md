@@ -4554,7 +4554,7 @@ example:
 | garou | 饿狼 | 饿狼（英语:garou）所属作品: `p:one punch man`<br>![](https://img.moegirl.org.cn/common/b/b8/Garou.png) | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
 | himeko | 姬子 | 姬子(英语:himeko) 所属作品`p:honkai star rail`<br>是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/姬子.png) | [萌娘百科](https://zh.moegirl.org.cn/姬子%28星穹铁道%29) |
 | herta | 黑塔 | 黑塔是《`honkai star rail`》的登场角色。 |  |
-| stelle | 星 | 星是《`honkai star rail`》的登场角色。 |  |
+| stelle | 星（开拓者） | 星是《`honkai star rail`》的登场角色。<br><br>登上星穹列车的少年/少女。<br>为了消除星核带来的危机，选择与星穹列车同行。 | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
 | clara | 克拉拉(崩坏：星穹铁道) | 克拉拉是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/3/39/克拉拉立绘.png/1024px-克拉拉立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28星穹铁道%29) |
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
 | neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
