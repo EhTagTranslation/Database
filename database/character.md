@@ -6068,6 +6068,7 @@ example:
 | millia rage | 米莉亚·蕾姬 | 所属作品: `p:guilty gear` | [维基百科（日语）](https://ja.wikipedia.org/wiki/ミリア・レイジ) |
 | kei karuizawa | 轻井泽惠 | 轻小说《欢迎来到实力主义至上的教室》中的女性角色，金发辣妹。曾与绫小路清隆是恋人关系。 |  |
 | an94 | AN-94 \| 安提娅 | `p:girls frontline`<br>同`c:an-94` | [少前百科GFwiki](https://www.gfwiki.org/w/AN-94) |
+| yuki-onna | 雪女 | 这应该不是某个作品中的角色，更偏向于一种人设 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
