@@ -13543,6 +13543,7 @@ example:
 | sekihaku keu | 迹帛けう | `g:takotsubo-tei sekihaku` | [X](https://x.com/Keu_Sekihaku) [pixiv](https://www.pixiv.net/users/8193827) |
 | tunamayo | TunaMaYo | TunaMaYo/ 참치마요 | [pixiv](https://www.pixiv.net/users/5004992) [X](https://x.com/dsasd751) |
 | chiyo mako | 千夜真子 |  | [pixiv](https://www.pixiv.net/users/64131639) |
+| muramasa mikado | 村正みかど |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/村正みかど) [X](https://x.com/muramasamikado) [pixiv](https://www.pixiv.net/users/1557360) |
 
 <!--TEMPLATE:
 |  |  |  |  |
