@@ -4848,7 +4848,7 @@ example:
 | dreamer | 梦想家 | `p:girls frontline` | [https://www.gfwiki.org/w/梦想家](https://www.gfwiki.org/w/梦想家) |
 | destroyer | 破坏者 | `p:girls frontline` | [https://www.gfwiki.org/w/破坏者](https://www.gfwiki.org/w/破坏者) |
 | beak | 喙 | `p:girls frontline` | [https://www.gfwiki.org/w/喙](https://www.gfwiki.org/w/喙) |
-| k2 | K2 | `p:girls frontline` | [https://www.gfwiki.org/w/K2](https://www.gfwiki.org/w/K2) |
+| k2 | K2 \| 幼熙 | `p:girls frontline` | [少前百科GFwiki](https://www.gfwiki.org/w/K2) |
 | g3 | G3 | `p:girls frontline` | [https://www.gfwiki.org/w/G3](https://www.gfwiki.org/w/G3) |
 | g36 | G36 \| 桑朵莱希 | `p:girls frontline`<br>![](https://gfwiki.org/images/d/d3/Pic_G36_HD.png)<br>少女前线:云图计划<br>![](https://iopwiki.com/images/1/11/Centaureissi_base2.png)<br>桑朵莱希·淬翼<br>![](https://iopwiki.com/images/b/b5/Centaureissi_-_Unbound_Wings.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_CentaureissiSSR.png)<br>猫咪：执事 | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:G36)<br>[萌娘百科](https://zh.moegirl.org.cn/桑朵莱希)<br>[少前百科GFwiki](https://www.gfwiki.org/w/G36)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/桑朵莱希)<br>[42LAB-云图计划专题百科-桑朵莱希·淬翼](http://wiki.42lab.cloud/w/桑朵莱希·淬翼)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/CentaureissiSSR) |
 | g36c | G36C | `p:girls frontline` | [https://www.gfwiki.org/w/G36C](https://www.gfwiki.org/w/G36C) |
