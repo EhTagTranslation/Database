@@ -6074,6 +6074,7 @@ example:
 | yae amagami | ‌甘神夜重 |  |  |
 | yuna amagami | 甘神夕奈 |  |  |
 | asahi amagami | ‌甘神朝姬 |  |  |
+| mirajane strauss | 米拉杰·斯特劳斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
