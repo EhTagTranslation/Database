@@ -13548,6 +13548,7 @@ example:
 | kamiyama sumu | 神山すむ |  |  |
 | tukinon | 月音 | 代表作: 灯穗奇谭 |  |
 | yoshida seiji | 吉田诚治 | 吉田 誠治 |  |
+| enozuderu | えのずでる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
