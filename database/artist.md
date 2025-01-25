@@ -7501,7 +7501,7 @@ example:
 | macchaume | 抹茶梅 |  |  |
 | macchi | まっち |  |  |
 | macchuu | まっちゅう |  |  |
-| machi | マチ |  |  |
+| machi | Machi馬吉 |  | [pixiv](https://www.pixiv.net/users/4632856) [X](https://x.com/_Machi0910) |
 | machi gaita | 街凱太 |  |  |
 | machi machiko | 町マチコ |  |  |
 | machigi ruru | 街樹るる |  |  |
