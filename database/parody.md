@@ -1492,7 +1492,7 @@ example:
 | mahjong soul | 雀魂麻将 | 《雀魂麻将》是猫粮工作室开发的一款多人在线日本竞技麻将网络游戏。 | [萌娘百科](https://zh.moegirl.org.cn/雀魂麻将) (\*\*) |
 | genshin impact | ![icon](https://p.sda1.dev/5/d3c970768e4b7e4d63ead4e46f28aa03/1.jpg)原神 | 《原神》是miHoYo研发的一款开放世界冒险游戏。 | [官网](https://ys.mihoyo.com/)  [维基百科](https://zh.wikipedia.org/wiki/原神) [萌娘百科](https://zh.moegirl.org.cn/原神) |
 | mobile suit gundam the 08th ms team | 机动战士高达 第08MS小队 |  |  |
-| hoshizora no memoria | 星空的记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/星空的回憶_-Wish_upon_a_shooting_star-#cite_note-shootingStar-1) |
+| hoshizora no memoria | 星空的记忆 | ![](https://p.sda1.dev/21/33b474d02bebd1220d7e3c556e614a4e/image.png) | [维基百科](https://zh.wikipedia.org/wiki/星空的回憶_-Wish_upon_a_shooting_star-) [萌娘百科](https://zh.moegirl.org.cn/星空的记忆) |
 | bocchi kaibutsu to moumoku shoujo | 孤独怪物与盲少女 |  |  |
 | choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu | 超人高中生们即便在异世界也能从容生存！ | 《超人高中生们即便在异世界也能从容生存!》（日语：超人高校生たちは異世界でも余裕で生き抜くようです！）是由海空りく创作、さくらねこ插画的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/超人高中生们即便在异世界也能从容生存!) (\*\*) |
 | maou-sama retry | 重来吧，魔王大人！ |  |  |
