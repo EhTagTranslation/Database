@@ -2375,6 +2375,7 @@ example:
 | super sentai | 超级战队 | 超级战队系列是由电影公司东映从1975年起制作的一系列特摄电视剧，并有小说、漫画、游戏、动画等衍生作品。<br><br>日本三大特摄系列之一，另外两个系列分别是《奥特曼系列》和《假面骑士系列》，值得一提的是后者和战队系列同属东映旗下。除此之外战队和骑士系列还和同样为东映旗下的动画《光之美少女系列》并称“东映御三家”，且这三大系列在周日的播放时段正好紧挨着。除此之外三大系列时常也会互相联动。<br><br>![](https://p.sda1.dev/21/7fa2a01d0735e09ef6054e1ba200478e/image.png) | [维基百科](https://zh.wikipedia.org/wiki/超級戰隊系列) [萌娘百科](https://zh.moegirl.org.cn/超级战队系列) |
 | brave sword x blaze soul | 勇气之剑 × 火焰之魂 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレイブソード×ブレイズソウル) |
 | fear and hunger | 恐惧与饥饿 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Fear_%26_Hunger) |
+| fireball | 火球 | 火球（日语：ファイアボール，英语：Fireball）是日本迪士尼制作的3DCG动画短片，每话片长在2分钟左右。<br><br>本作描绘了遥远的未来，一个普通的星球上，一所与世隔绝的城堡中，两名机器人——弗里盖琉公爵的女儿多罗丝赛露与其管家凯迪西多尼斯之间琐碎的日常故事。 | [维基百科](https://zh.wikipedia.org/wiki/火球_%28动画%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
