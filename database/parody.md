@@ -1506,7 +1506,7 @@ example:
 | chainsaw man | 电锯人 | 《链锯人》是作者藤本树作画的漫画作品，2018年12月3日开始连载于《周刊少年JUMP》。 |  |
 | josou sanmyaku | 女装山脉 | 《女装山脉》（日语：女装山脈）为`nounai kanojo`于2011年6月17日发售的恋爱冒险类型成人游戏，2021年4月9由JAST USA发售英文版。作品以`tomgirl`为主题，其特征是作品中没有真正的女性登场（`males only`）。<br><br>![图](# "https://ehgt.org/74/2e/742e961cee17748095f21f8e57f546b6b07dc556-206428-1000-500-jpg_l.jpg") | [官方网站🇯🇵](http://www.noukano.com/3myaku/index.htm) [维基百科](https://zh.wikipedia.org/wiki/女裝山脈) [萌娘百科](https://zh.moegirl.org.cn/女装山脉) |
 | penguin highway | 企鹅公路 |  |  |
-| irotoridori no sekai | 五彩斑斓的世界 |  | [维基百科](https://zh.wikipedia.org/wiki/五彩斑斕的世界) |
+| irotoridori no sekai | 五彩斑斓的世界 | ![](https://p.sda1.dev/21/49082179ee03a518a44bb6bd14297517/image.png) | [维基百科](https://zh.wikipedia.org/wiki/五彩斑斕的世界) [萌娘百科](https://zh.moegirl.org.cn/五彩斑斓的世界) |
 | tokyo xanadu | 东京迷城 |  |  |
 | terra battle | 地球战争 |  |  |
 | summer pockets | Summer Pockets/夏日口袋 | 《Summer Pockets》（日语：サマーポケッツ，日语简称：サマポケ，中文名：夏日口袋）是由Key制作的一部游戏。 | [游戏官网](http://key.visualarts.gr.jp/summer/) [萌娘百科](https://zh.moegirl.org.cn/Summer_Pockets) (\*\*) |
