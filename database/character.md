@@ -6077,6 +6077,7 @@ example:
 | mirajane strauss | 米拉杰·斯特劳斯 |  |  |
 | nanashi mumei | 七诗无铭 |  |  |
 | tetsunosuke ichimura | 市村铁之助 | 市村铁之助（1854年—1873年？）为美浓大垣藩出身的新选组队士。 | [维基百科](https://zh.wikipedia.org/wiki/市村鐵之助) |
+| seliph | 神威 | 《火焰纹章》系列男角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
