@@ -13549,6 +13549,7 @@ example:
 | tukinon | 月音 | 代表作: 灯穗奇谭 |  |
 | yoshida seiji | 吉田诚治 | 吉田 誠治 |  |
 | enozuderu | えのずでる |  |  |
+| huhuhu | フフフ |  | [pixiv](https://www.pixiv.net/users/4672564) [X](https://x.com/huhuhu4949) |
 
 <!--TEMPLATE:
 |  |  |  |  |
