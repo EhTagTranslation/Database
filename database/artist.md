@@ -1933,7 +1933,7 @@ example:
 | akeno minato | 绯野湊 |  |  |
 | hanabana tsubomi | 華々つぼみ |  |  |
 | soyosoyo | SOYOSOYO |  |  |
-| sasorigatame | さそりがため | 同人社团`g:dragon kitchen`. |  |
+| sasorigatame | さそりがため | 男性原画师, 曾为`g:marmalade`工作<br>![朝霞 汐](https://t.vndb.org/ch/35/68735.jpg)<br>有同人社团`g:dragon kitchen`. | [VNDB](https://vndb.org/s2277) [HP](https://web.archive.org/web/20111225193728/http://www.geocities.jp:80/hou_para/) [Xitter](https://x.com/sasorigatame) [AniDB](https://anidb.net/cr28619) [P站](https://www.pixiv.net/member.php?id=3810781) |
 | chong wuxin | 虫无心 |  |  |
 | shiitakemiya donco | 椎茸宮どんこ |  |  |
 | minase kuru | 水瀬くうる |  |  |
