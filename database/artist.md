@@ -1933,7 +1933,7 @@ example:
 | akeno minato | 绯野湊 |  |  |
 | hanabana tsubomi | 華々つぼみ |  |  |
 | soyosoyo | SOYOSOYO |  |  |
-| sasorigatame | さそりがため |  |  |
+| sasorigatame | さそりがため | 同人社团`g:dragon kitchen`. |  |
 | chong wuxin | 虫无心 |  |  |
 | shiitakemiya donco | 椎茸宮どんこ |  |  |
 | minase kuru | 水瀬くうる |  |  |
