@@ -9682,7 +9682,7 @@ example:
 | sakakibara kaorunaoko | 榊原薫奈緒子 |  |  |
 | sakakibara keisuke | 榊原圭介 |  |  |
 | sakamoto sarutomunto nerima | 坂本サルトムント練馬 |  |  |
-| sakana | 魚 |  |  |
+| sakana | 鱼 | 魚 |  |
 | sakana tomomi | 魚ともみ |  |  |
 | sakasana | さかさな |  |  |
 | sakata kintoki | 坂田金時 |  |  |
