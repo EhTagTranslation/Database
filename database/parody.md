@@ -2376,6 +2376,7 @@ example:
 | brave sword x blaze soul | 勇气之剑 × 火焰之魂 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレイブソード×ブレイズソウル) |
 | fear and hunger | 恐惧与饥饿 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Fear_%26_Hunger) |
 | fireball | 火球 | 火球（日语：ファイアボール，英语：Fireball）是日本迪士尼制作的3DCG动画短片，每话片长在2分钟左右。<br><br>本作描绘了遥远的未来，一个普通的星球上，一所与世隔绝的城堡中，两名机器人——弗里盖琉公爵的女儿多罗丝赛露与其管家凯迪西多尼斯之间琐碎的日常故事。 | [维基百科](https://zh.wikipedia.org/wiki/火球_%28动画%29) |
+| astralair no shiroki towa | 星辰恋曲的白色永恒 | ![本](https://t.vndb.org/cv/31/101331.jpg)<br>![FD](https://t.vndb.org/cv/57/97957.jpg) | [VNDB本编](https://vndb.org/v12984) [VNDB FD](https://vndb.org/v19294) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
