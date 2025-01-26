@@ -1238,7 +1238,7 @@ example:
 | sanbyaku rokujuu do | -三百六十度- |  |  |
 | armadillo | Armadillo |  |  |
 | spec.c | spec.C |  |  |
-| dragon kitchen | Dragon Kitchen |  |  |
+| dragon kitchen | Dragon Kitchen | 男性原画师`a:sasorigatame`的同人社团. |  |
 | shirukke no ooi zakuro | 汁っけの多い柘榴 |  |  |
 | chocolate cube | CHOCOLATE CUBE |  |  |
 | furafura toxin | ふらふらトキシン |  |  |
