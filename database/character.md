@@ -3707,7 +3707,7 @@ example:
 | shinku | 真红 |  |  |
 | hina ichigo | 雏莓 |  |  |
 | souseiseki | 苍星石 |  |  |
-| hood | 胡德 | 海军上将级胡德号战列巡洋舰(HMS Hood) | [维基百科](https://zh.wikipedia.org/wiki/胡德号战列巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/胡德)<br>[https://www.zjsnrwiki.com/wiki/胡德](https://www.zjsnrwiki.com/wiki/胡德) |
+| hood | 胡德 | 海军上将级胡德号战列巡洋舰(HMS Hood 舷号：51) | [维基百科](https://zh.wikipedia.org/wiki/胡德号战列巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/胡德)<br>[https://www.zjsnrwiki.com/wiki/胡德](https://www.zjsnrwiki.com/wiki/胡德) |
 | mrs. yuigahama | 由比滨妈妈 |  |  |
 | mudrock | 泥岩 | 明日方舟六星重装泥岩 |  |
 | nian | 年 | 明日方舟角色年 |  |
