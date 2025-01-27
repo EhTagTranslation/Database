@@ -8553,7 +8553,7 @@ example:
 | narukami x | 鳴神X |  |  |
 | narumi | ナルみ |  |  |
 | narumi meiko | 鳴海鳴子 |  |  |
-| narumi yuu | 鳴海ゆう |  |  |
+| narumi yuu | 鸣海优 | 鳴海ゆう |  |
 | narusawa aya | 鳴沢綾 |  |  |
 | narusawa sora | 成沢 空 |  |  |
 | naruse | なるせ |  |  |
