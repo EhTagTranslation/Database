@@ -6080,6 +6080,7 @@ example:
 | seliph | 神威 | 《火焰纹章》系列男角色 |  |
 | koala | 克尔拉 | 克尔拉，日本漫画《航海王》及其衍生作品中的角色。在甚平的记忆中首次登场，原本是天龙人的奴隶，15年前被费舍尔·泰格解放，后来被太阳海贼团护送回家，是“人类与鱼人间的桥梁”。13岁时加入革命军。 |  |
 | cupitan | 库皮坦 | 碧蓝幻想中的女性角色 |  |
+| pittsburgh | 匹兹堡 | 游戏碧蓝航线中的角色，原型为匹兹堡号重巡洋舰（CA-72） | [维基百科（英语）](https://en.wikipedia.org/wiki/USS_Pittsburgh_%28CA-72%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/匹兹堡) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
