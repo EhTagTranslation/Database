@@ -1787,7 +1787,7 @@ example:
 | rosetta | 萝赛塔 | 主人公等人在ルーマシー群岛时相遇的谜之美女。因为中意主人公等人而加入同行行列。貌似知道格兰父亲的样子，谜样的美女。超然而难以捉摸，十分亲切地关照格兰。 |  |
 | sturm | 斯特姆 |  |  |
 | vira | 维拉 |  |  |
-| vampy | 斑比 |  | [萌娘百科](https://zh.moegirl.org.cn/斑比) |
+| vampy | 斑比 | vampire-->vampy, 巴哈姆特之怒, 碧蓝幻想, 影之诗, 公主连结! Re:Dive, 等作品中均有出场. | [萌娘百科](https://zh.moegirl.org.cn/斑比) |
 |  | ▼ 魔卡少女樱 |  |  |
 | sakura kinomoto | 木之本樱 |  |  |
 | touya kinomoto | 木之本桃矢 |  |  |
