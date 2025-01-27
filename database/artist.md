@@ -2479,7 +2479,7 @@ example:
 | tsukishima yuuko | 月嶋ゆうこ |  | [pixiv](https://www.pixiv.net/users/78088) |
 | tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
 | kamisyakujii yubeshi | 紙石神井ゆべし |  | [pixiv](https://www.pixiv.net/users/283710) [X](https://x.com/kamisyakujii) |
-| kurosu gatari | 黑巢ガタリ | ![X](https://pbs.twimg.com/profile_images/1264757144823328768/4sZi3nP1.jpg)<br><br>**作者推特头像** | [X](https://x.com/kurosugatari?s=09) [pixiv](https://www.pixiv.net/users/13472044) |
+| kurosu gatari | 黒巣ガタリ | ![X](https://pbs.twimg.com/profile_images/1264757144823328768/4sZi3nP1.jpg)<br><br>**作者推特头像** | [X](https://x.com/kurosugatari?s=09) [pixiv](https://www.pixiv.net/users/13472044) |
 | doku denpa | 毒でんぱ |  |  |
 | dokiyuri | どきゆり |  | [pixiv](https://www.pixiv.net/users/160122) |
 | tamagoro | たまごろー |  |  |
