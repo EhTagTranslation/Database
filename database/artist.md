@@ -8505,7 +8505,7 @@ example:
 | nanami shizuka | ななみ静 |  |  |
 | nanami yasuna | ナナミヤスナ |  |  |
 | nanamiya rin | ななみやりん |  |  |
-| nanamiya tsugumi | 七宫つぐ实 | ![X](https://pbs.twimg.com/profile_images/1542435269580066816/8mhVqHZq_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/nanatsugumi) [pixiv](https://www.pixiv.net/users/43326) |
+| nanamiya tsugumi | 七宫津实 | 七宮つぐ実, 代表作为其笔下的`c:akatsuki` `c:hibiki`系列本(这两位在与`c:teitoku`的3p本中经常嘴对嘴进行`f:cum swap`)<br>![1](https://ehgt.org/61/a7/61a720b60256bfb5aeb99b2067ec43137e909f3e-648960-1000-1451-jpg_l.jpg)<br>![2](https://ehgt.org/a3/71/a3717deadd63ed86fb6b2b24f26da2a101602e04-2451265-2829-4037-jpg_l.jpg)<br>![3](https://ehgt.org/c2/cc/c2cc49de3f51ad325bbb9aab94f2b99bd95dae96-5056508-2824-4000-jpg_l.jpg)<br>![响](https://ehgt.org/d2/05/d2056ada2661b73f9044c20783087966acffcc13-762326-2105-3000-jpg_l.jpg)<br>![晓](https://ehgt.org/e9/a9/e9a9b9eb1962fefdb4e5e314e4fa48cfe40080c2-4169631-2110-3000-jpg_l.jpg)<br><br>**作者推特头像**<br>![X](https://pbs.twimg.com/profile_images/1542435269580066816/8mhVqHZq_400x400.jpg) | [X](https://x.com/nanatsugumi) [pixiv](https://www.pixiv.net/users/43326) |
 | nanamo | ななも |  |  |
 | nanamomo rio | 七桃りお |  |  |
 | nanana nana | 七名菜奈 |  |  |
