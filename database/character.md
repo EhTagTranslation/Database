@@ -6085,6 +6085,7 @@ example:
 | pennsylvania | 宾夕法尼亚 | 游戏碧蓝航线和舰队少女R中的宾夕法尼亚，原型为宾夕法尼亚号（USS BB-38） | [维基百科](https://zh.wikipedia.org/wiki/賓夕法尼亞號戰艦)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Pennsylvania_%28BB-38%29)<br>[https://www.zjsnrwiki.com/wiki/宾夕法尼亚](https://www.zjsnrwiki.com/wiki/宾夕法尼亚)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/宾夕法尼亚) |
 | z9 | Z9 | 游戏碧蓝航线中的Z9，原型为Z-9沃尔夫冈·岑克尔号驱逐舰（KMS Z-9 Wolfgang Zenker） | [维基百科](https://zh.wikipedia.org/wiki/Z-9沃尔夫冈·岑克尔号驱逐舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/Z9) |
 | blucher | 布吕歇尔 | 游戏碧蓝航线和战舰少女R中的角色，原型为希佩尔海军上将级布吕歇尔号重巡洋舰（KMS Blücher) | [维基百科](https://zh.wikipedia.org/wiki/布呂歇爾號重巡洋艦)<br>[https://www.zjsnrwiki.com/wiki/布吕歇尔%28重巡洋舰%29](https://www.zjsnrwiki.com/wiki/布吕歇尔%28重巡洋舰%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/布吕歇尔) |
+| shiroha naruse | 鸣濑白羽 | 鸣濑白羽（日语：鳴瀬（なるせ） しろは）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/Gallery_cg_01_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣濑白羽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
