@@ -2379,6 +2379,7 @@ example:
 | astralair no shiroki towa | 星辰恋曲的白色永恒 | ![本](https://t.vndb.org/cv/31/101331.jpg)<br>![FD](https://t.vndb.org/cv/57/97957.jpg) | [VNDB本编](https://vndb.org/v12984) [VNDB FD](https://vndb.org/v19294) |
 | g senjou no maou | G线上的魔王 | G線上の魔王 |  |
 | tokyo necro suicide mission | 冻京NECRO 自杀任务 | 凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION |  |
+| virtual on | Virtual On | 视频游戏系列 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
