@@ -13552,6 +13552,7 @@ example:
 | huhuhu | フフフ |  | [pixiv](https://www.pixiv.net/users/4672564) [X](https://x.com/huhuhu4949) |
 | shida kazuhiro | 司田一弘 | 司田 カズヒロ, `g:favorite`社主力画师, 代表作星辰恋曲的白色永恒, 五彩斑斓的世界, 星空的记忆, etc. | [VNDB](https://vndb.org/s1997) |
 | kamiya maaya | 上谷真绫 | 上谷真綾 |  |
+| drs | Drs | ![](https://pbs.twimg.com/profile_images/1864828722941169667/tOmRpc1T_400x400.jpg)<br>↑作者推特头像 | [pixiv](https://www.pixiv.net/users/99922406) [X](https://x.com/drs01601683698) |
 
 <!--TEMPLATE:
 |  |  |  |  |
