@@ -5543,7 +5543,7 @@ example:
 | hanini | はにーに |  |  |
 | haniwa pao | 埴輪ぱお |  |  |
 | hankkwo | H@nk²wo |  |  |
-| hankotsu max | 反骨MAX |  |  |
+| hankotsu max | 反骨MAX | 同人社团`g:shiohama workshop` |  |
 | hanma akira | 範馬アキラ |  |  |
 | hans | hans |  |  |
 | hansharu | 半しゃる |  |  |
