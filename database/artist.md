@@ -13556,6 +13556,7 @@ example:
 | narumi suzune | 鸣海铃音 |  |  |
 | oosaki shinya | 大崎真也 | 大崎 シンヤ |  |
 | akira roji | 秋良ろじ |  |  |
+| nishima nakamichi | 仁嶋中道 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
