@@ -13555,6 +13555,7 @@ example:
 | drs | Drs | ![](https://pbs.twimg.com/profile_images/1864828722941169667/tOmRpc1T_400x400.jpg)<br>↑作者推特头像 | [pixiv](https://www.pixiv.net/users/99922406) [X](https://x.com/drs01601683698) |
 | narumi suzune | 鸣海铃音 |  |  |
 | oosaki shinya | 大崎真也 | 大崎 シンヤ |  |
+| akira roji | 秋良ろじ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
