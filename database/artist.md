@@ -1309,7 +1309,7 @@ example:
 | yokoshima takemaru | 邪武丸 |  |  |
 |  | ふろくま |  |  |
 | hawa | はわ |  |  |
-| tomose shunsaku | トモセシュンサク |  |  |
+| tomose shunsaku | 知世俊作 | トモセシュンサク |  |
 | reiha | 零覇 |  |  |
 | chimaq | チマQ |  |  |
 | magaki ryouta | 間垣りょうた |  |  |
