@@ -13558,7 +13558,7 @@ example:
 | akira roji | 秋良ろじ |  |  |
 | nishima nakamichi | 仁嶋中道 |  |  |
 | shimesaba kohada | 〆鯖コハダ |  | [VNDB](https://vndb.org/s6483) |
-| amakawa akito | 天河慊人 | あまかわあきと, 天河 慊人, 男性原画师 |  |
+| amakawa akito | 天河慊人 | あまかわあきと, 天河 慊人, 男性原画师 | [VNDB](https://vndb.org/s7033) |
 
 <!--TEMPLATE:
 |  |  |  |  |
