@@ -401,7 +401,7 @@ example:
 | gibuchoko | ぎヴちょこ |  |  |
 | sinbo tamaran | 神保玉兰 |  |  |
 | kaenuco | かえぬこ | ![](https://pbs.twimg.com/profile_images/1561283766730911744/2tB0oTKu_400x400.jpg) | [X](https://x.com/kaenuco/media) [pixiv](https://www.pixiv.net/users/6993449) [FANBOX](https://kaenuco.fanbox.cc/) [Skeb](https://skeb.jp/@kaenuco) [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78522/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47291.html) |
-| arikawa satoru | 有河サトル |  |  |
+| arikawa satoru | 有河悟 | 有河サトル |  |
 | yui toshiki | 唯登诗树 |  |  |
 | kitahara tomoe | 北原朋萌。 |  |  |
 | kizaki yuuri | 树崎祐里 |  |  |
