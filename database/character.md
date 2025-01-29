@@ -6087,6 +6087,7 @@ example:
 | blucher | 布吕歇尔 | 游戏碧蓝航线和战舰少女R中的角色，原型为希佩尔海军上将级布吕歇尔号重巡洋舰（KMS Blücher) | [维基百科](https://zh.wikipedia.org/wiki/布呂歇爾號重巡洋艦)<br>[https://www.zjsnrwiki.com/wiki/布吕歇尔%28重巡洋舰%29](https://www.zjsnrwiki.com/wiki/布吕歇尔%28重巡洋舰%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/布吕歇尔) |
 | shiroha naruse | 鸣濑白羽 | 鸣濑白羽（日语：鳴瀬（なるせ） しろは）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/Gallery_cg_01_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣濑白羽) |
 | ao sorakado | 空门苍 | 空门苍（日语：空門（そらかど） 蒼（あお））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/89/Sorakado_Ao1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空门苍) |
+| kamome kushima | 久岛鸥 | 久岛鸥（日语：久島（くしま） 鴎（かもめ））是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/Kushima_Kamome1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/久岛鸥) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
