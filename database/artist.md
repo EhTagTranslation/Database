@@ -13557,6 +13557,7 @@ example:
 | oosaki shinya | 大崎真也 | 大崎 シンヤ |  |
 | akira roji | 秋良ろじ |  |  |
 | nishima nakamichi | 仁嶋中道 |  |  |
+| shimesaba kohada | 〆鯖コハダ |  | [VNDB](https://vndb.org/s6483) |
 
 <!--TEMPLATE:
 |  |  |  |  |
