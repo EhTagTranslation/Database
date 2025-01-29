@@ -6092,6 +6092,7 @@ example:
 | izumo kamiki | 神木出云 |  | [Bangumi](https://bgm.tv/character/13461) |
 | rin okumura | 奥村燐 |  | [萌娘百科](https://zh.moegirl.org.cn/奥村燐) |
 | shiemi moriyama | 杜山诗惠美 |  | [Bangumi](https://bgm.tv/character/10758) |
+| shura kirigakure | 雾隐修拉 |  | [百度百科](https://baike.baidu.com/item/雾隐修拉/7113896) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
