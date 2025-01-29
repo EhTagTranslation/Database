@@ -2476,7 +2476,7 @@ example:
 | kohinata hoshimi | 小日向ほしみ |  | [pixiv](https://www.pixiv.net/users/2913676) [X](https://x.com/deepstarhoshimi) |
 | yudzuki hina | 遊月ひな |  | [pixiv](https://www.pixiv.net/users/550398) [X](https://x.com/nekorop) |
 | sakura ani | 桜あに |  | [pixiv](https://www.pixiv.net/users/201323) [X](https://x.com/sakura_hama) |
-| tsukishima yuuko | 月岛优子 | 月嶋ゆうこ, 女性原画师 | [pixiv](https://www.pixiv.net/users/78088) [VNDB](https://vndb.org/s5461) |
+| tsukishima yuuko | 月岛优子 | 月嶋ゆうこ, 女性原画师, 生日是3月29日 | [pixiv](https://www.pixiv.net/users/78088) [VNDB](https://vndb.org/s5461) |
 | tomoshibi hidekazu | 赤提灯 |  | [pixiv](https://www.pixiv.net/users/4057) |
 | kamisyakujii yubeshi | 紙石神井ゆべし |  | [pixiv](https://www.pixiv.net/users/283710) [X](https://x.com/kamisyakujii) |
 | kurosu gatari | 黒巣ガタリ | ![X](https://pbs.twimg.com/profile_images/1264757144823328768/4sZi3nP1.jpg)<br><br>**作者推特头像** | [X](https://x.com/kurosugatari?s=09) [pixiv](https://www.pixiv.net/users/13472044) |
