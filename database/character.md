@@ -6093,6 +6093,7 @@ example:
 | rin okumura | 奥村燐 |  | [萌娘百科](https://zh.moegirl.org.cn/奥村燐) |
 | shiemi moriyama | 杜山诗惠美 |  | [Bangumi](https://bgm.tv/character/10758) |
 | shura kirigakure | 雾隐修拉 |  | [百度百科](https://baike.baidu.com/item/雾隐修拉/7113896) |
+| tinasha farsas | 缇娜夏 | Unnamed Memory 无名记忆 女主角 | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
