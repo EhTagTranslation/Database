@@ -13557,7 +13557,7 @@ example:
 | oosaki shinya | 大崎真也 | 大崎 シンヤ |  |
 | akira roji | 秋良ろじ |  |  |
 | nishima nakamichi | 仁嶋中道 |  |  |
-| shimesaba kohada | 〆鯖コハダ |  | [VNDB](https://vndb.org/s6483) |
+| shimesaba kohada | 染鲭小鳍 | 〆鯖コハダ | [VNDB](https://vndb.org/s6483) |
 | amakawa akito | 天河慊人 | あまかわあきと, 天河 慊人, 男性原画师 | [VNDB](https://vndb.org/s7033) |
 | lunalia | 瑠奈璃亚 | 瑠奈 璃亜 |  |
 | yaezaki rai | 八重咲らい |  |  |
