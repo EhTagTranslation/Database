@@ -6094,6 +6094,7 @@ example:
 | shiemi moriyama | 杜山诗惠美 |  | [Bangumi](https://bgm.tv/character/10758) |
 | shura kirigakure | 雾隐修拉 |  | [百度百科](https://baike.baidu.com/item/雾隐修拉/7113896) |
 | tinasha farsas | 缇娜夏 | Unnamed Memory 无名记忆 女主角 | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶) |
+| sanhua | 散华 | 散华，《鸣潮》中的角色，由宋媛媛、松田利冴、珍妮弗·阿默尔配音。<br>散华是会带来灾难的修罗，也是寡言的守护者，散华所观察到的世界和正常认知存在较大差异，体温也低于常人，可以降低四周气温，召唤冰雪。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
