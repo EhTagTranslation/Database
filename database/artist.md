@@ -13563,6 +13563,7 @@ example:
 | yaezaki rai | 八重咲らい |  |  |
 | narumi yu | 鸣海优 | 这是一个重复标签, 相当于`a:narumi yuu` |  |
 | kimoshi | きもし |  | [pixiv](https://www.pixiv.net/users/12593773) [X](https://x.com/Kimoshiv2) |
+| yufuck | ゆfuck |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
