@@ -6099,6 +6099,7 @@ example:
 | kaya ogasawara | 小笠原香耶 |  |  |
 | louhi | 娄希 |  |  |
 | hatsuho kazami | 风见初穗 |  | [Bangumi](https://bgm.tv/character/3488) |
+| astra yao | 耀嘉音 | 耀嘉音是由米哈游所制作的游戏p:`zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/耀嘉音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
