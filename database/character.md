@@ -6097,6 +6097,7 @@ example:
 | sanhua | 散华 | 散华，《鸣潮》中的角色，由宋媛媛、松田利冴、珍妮弗·阿默尔配音。<br>散华是会带来灾难的修罗，也是寡言的守护者，散华所观察到的世界和正常认知存在较大差异，体温也低于常人，可以降低四周气温，召唤冰雪。 |  |
 | jacques de molay | 雅克·德·莫莱 | 日语：ジャック・ド・モレー<br>TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。Foreigner职阶的从者，圣殿骑士团第23任大团长，同时也是最后一任大团长。 | [萌娘百科](https://zh.moegirl.org.cn/雅克·德·莫莱%28Fate/Grand_Order%29#) |
 | kaya ogasawara | 小笠原香耶 |  |  |
+| louhi | 娄希 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
