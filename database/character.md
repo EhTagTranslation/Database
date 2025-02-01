@@ -6098,6 +6098,7 @@ example:
 | jacques de molay | 雅克·德·莫莱 | 日语：ジャック・ド・モレー<br>TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。Foreigner职阶的从者，圣殿骑士团第23任大团长，同时也是最后一任大团长。 | [萌娘百科](https://zh.moegirl.org.cn/雅克·德·莫莱%28Fate/Grand_Order%29#) |
 | kaya ogasawara | 小笠原香耶 |  |  |
 | louhi | 娄希 |  |  |
+| hatsuho kazami | 风见初穗 |  | [Bangumi](https://bgm.tv/character/3488) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
