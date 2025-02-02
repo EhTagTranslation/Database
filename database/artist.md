@@ -13568,7 +13568,7 @@ example:
 | edajima denki | 江田島電気 |  |  |
 | yuuki setsuna | 优木雪菜 |  |  |
 | tsukimori hiro | 月杜寻 | 月杜 尋，成人游戏原画师，为`g:purple software`工作。 |  |
-| koku | 克/COQ | 克，或称COQ，是`g:purple software`的主力原画师。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
+| koku | 克/COQ | 克，或称COQ(读作koku)，是`g:purple software`的主力原画师。你所熟知的`p:hapymaher`中的小恶魔Naitou Maia 内藤 舞亜 就是祂设计的。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
 
 <!--TEMPLATE:
 |  |  |  |  |
