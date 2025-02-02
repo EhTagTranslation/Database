@@ -6110,6 +6110,7 @@ example:
 | lilina | 莉莉娜 |  |  |
 | goldmary | 戈尔德玛莉 |  |  |
 | alear | 琉尔 |  |  |
+| micaiah | 米卡娅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
