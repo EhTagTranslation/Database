@@ -13567,6 +13567,7 @@ example:
 | guguta | 咕咕挞 |  | [pixiv](https://www.pixiv.net/users/16508184) [哔哩哔哩](https://space.bilibili.com/3724949) |
 | edajima denki | 江田島電気 |  |  |
 | yuuki setsuna | 优木雪菜 |  |  |
+| tsukimori hiro | 月杜寻 | 月杜 尋，成人游戏原画师，为`g:purple software`工作。 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
