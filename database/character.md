@@ -6111,6 +6111,7 @@ example:
 | goldmary | 戈尔德玛莉 |  |  |
 | alear | 琉尔 |  |  |
 | micaiah | 米卡娅 |  |  |
+| yunaka | 尤娜卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
