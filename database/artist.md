@@ -13566,6 +13566,7 @@ example:
 | yufuck | ゆfuck |  |  |
 | guguta | 咕咕挞 |  | [pixiv](https://www.pixiv.net/users/16508184) [哔哩哔哩](https://space.bilibili.com/3724949) |
 | edajima denki | 江田島電気 |  |  |
+| yuuki setsuna | 优木雪菜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
