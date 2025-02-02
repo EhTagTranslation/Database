@@ -6118,7 +6118,7 @@ example:
 | ophelia | 奥菲利亚 |  |  |
 | peri | 皮埃里 |  |  |
 | nyx | 尼克斯 |  |  |
-| amatsuka uto | 天使兔跳 | 天使うと（Amatsuka Uto），是`p:hololive`的一名`f:vtuber`。 |  |
+| amatsuka uto | 天使兔跳 | 「天使うと（Amatsuka Uto）」，是`p:hololive`的一名`f:vtuber`。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
