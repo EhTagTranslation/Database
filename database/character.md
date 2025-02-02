@@ -6117,6 +6117,7 @@ example:
 | velouria | 维罗妮卡 |  |  |
 | ophelia | 奥菲利亚 |  |  |
 | peri | 皮埃里 |  |  |
+| nyx | 尼克斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
