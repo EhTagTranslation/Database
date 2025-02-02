@@ -6116,6 +6116,7 @@ example:
 | nina | 贝璐卡 |  |  |
 | velouria | 维罗妮卡 |  |  |
 | ophelia | 奥菲利亚 |  |  |
+| peri | 皮埃里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
