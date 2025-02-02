@@ -6109,6 +6109,7 @@ example:
 | lapis | 菈琵思 |  |  |
 | lilina | 莉莉娜 |  |  |
 | goldmary | 戈尔德玛莉 |  |  |
+| alear | 琉尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
