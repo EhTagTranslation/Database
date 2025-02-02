@@ -6108,6 +6108,7 @@ example:
 | azura | 阿库娅 |  |  |
 | lapis | 菈琵思 |  |  |
 | lilina | 莉莉娜 |  |  |
+| goldmary | 戈尔德玛莉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
