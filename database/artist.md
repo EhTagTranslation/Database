@@ -13571,6 +13571,7 @@ example:
 | koku | 克/COQ | 克，或称COQ(读作koku)，是`g:purple software`的主力原画师。你所熟知的`p:hapymaher`中的妹妹小恶魔Naitou Maia 内藤 舞亜 就是祂设计的。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
 | freng | freng |  |  |
 | tsukushi aria | 月紫亚里亚 | Hololive vtuber，月紫アリア |  |
+| nabi | なび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
