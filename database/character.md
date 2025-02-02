@@ -6104,6 +6104,7 @@ example:
 | iris midgar | 爱丽丝 米德加尔 |  |  |
 | shiori katase | 片濑诗织里 |  |  |
 | hisui e. fiore | 翡翠·E·菲奥雷 |  |  |
+| celine | 赛琳 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
