@@ -6103,6 +6103,7 @@ example:
 | tomoe | 巴 | 巴，女，日本轻小说《月光下的异世界之旅》及其衍生作品中的角色。 |  |
 | iris midgar | 爱丽丝 米德加尔 |  |  |
 | shiori katase | 片濑诗织里 |  |  |
+| hisui e. fiore | 翡翠·E·菲奥雷 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
