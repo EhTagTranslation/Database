@@ -2381,6 +2381,7 @@ example:
 | tokyo necro suicide mission | 冻京NECRO 自杀任务 | 凍京NECRO＜トウキョウ・ネクロ＞ SUICIDE MISSION |  |
 | virtual on | Virtual On | 视频游戏系列 |  |
 | unnamed memory | 无名记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶) |
+| tsuki ga michibiku isekai douchuu | 月光下的异世界之旅 | 由日本轻小说家あずみ圭著作的轻小说《月光下的异世界之旅》。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
