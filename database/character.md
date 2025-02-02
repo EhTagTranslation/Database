@@ -6114,6 +6114,7 @@ example:
 | yunaka | 尤娜卡 |  |  |
 | pulchra fellini | 波可娜·费雷尼 | 波可娜是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/波可娜·费雷尼) |
 | nina | 贝璐卡 |  |  |
+| velouria | 维罗妮卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
