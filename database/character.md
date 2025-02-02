@@ -6106,6 +6106,7 @@ example:
 | hisui e. fiore | 翡翠·E·菲奥雷 |  |  |
 | celine | 赛琳 |  |  |
 | azura | 阿库娅 |  |  |
+| lapis | 菈琵思 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
