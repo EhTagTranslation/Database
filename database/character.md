@@ -6102,6 +6102,7 @@ example:
 | astra yao | 耀嘉音 | 耀嘉音是由米哈游所制作的游戏p:`zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/耀嘉音) |
 | tomoe | 巴 | 巴，女，日本轻小说《月光下的异世界之旅》及其衍生作品中的角色。 |  |
 | iris midgar | 爱丽丝 米德加尔 |  |  |
+| shiori katase | 片濑诗织里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
