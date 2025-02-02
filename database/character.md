@@ -6107,6 +6107,7 @@ example:
 | celine | 赛琳 |  |  |
 | azura | 阿库娅 |  |  |
 | lapis | 菈琵思 |  |  |
+| lilina | 莉莉娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
