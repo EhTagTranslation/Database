@@ -6120,6 +6120,7 @@ example:
 | nyx | 尼克斯 |  |  |
 | amatsuka uto | 天使兔跳 | 「天使うと（Amatsuka Uto）」，是`p:hololive`的一名`f:vtuber`。 |  |
 | aurora | 极光 | 极光，本名洛拉，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/极光%28明日方舟%29) |
+| evelyn chevalier | 伊芙琳·舒瓦利耶 | 伊芙琳·舒瓦利耶是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊芙琳·舒瓦利耶) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
