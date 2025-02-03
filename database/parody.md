@@ -2385,6 +2385,7 @@ example:
 | hapymaher | 幸福噩梦 | Hapymaher（幸福噩梦），是`g:purple software`开发的游戏系列，也是其代表作之一 |  |
 | sakura moyu. | 樱花、萌放。 | `g:favorite`的游戏 |  |
 | uchi no kaisha no chiisai senpai no hanashi | 公司里的小小前辈 |  |  |
+| joker game | JOKER GAME | 小丑游戏，《JOKER GAME》（日语：ジョーカー・ゲーム），是日本小说家柳广司创作的推理小说、间谍小说。 包含续作在内，常以“D机关系列”（D機関シリーズ）做为总称。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
