@@ -6119,6 +6119,7 @@ example:
 | peri | 皮埃里 |  |  |
 | nyx | 尼克斯 |  |  |
 | amatsuka uto | 天使兔跳 | 「天使うと（Amatsuka Uto）」，是`p:hololive`的一名`f:vtuber`。 |  |
+| aurora | 极光 | 极光，本名洛拉，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/极光%28明日方舟%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
