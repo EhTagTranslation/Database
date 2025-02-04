@@ -13573,6 +13573,7 @@ example:
 | tsukushi aria | 月紫亚里亚 | 「月紫アリア（Tsukushi Aria）」，是`p:hololive`的一名`f:vtuber`。 |  |
 | nabi | なび |  |  |
 | tokutokup | 特特P |  |  |
+| tutikure | つちくれ |  | [pixiv](https://www.pixiv.net/users/2816506) [X](https://x.com/nitutituti) |
 
 <!--TEMPLATE:
 |  |  |  |  |
