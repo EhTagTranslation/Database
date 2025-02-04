@@ -736,7 +736,7 @@ example:
 | watsuki ayamo | わつき彩雲 |  |  |
 | yataro | やたろー |  |  |
 | poco | ポコ |  |  |
-| mucha | むちゃ |  |  |
+| mucha | むちゃ \| ミュシャ |  |  |
 | fujimaru | 藤丸 |  |  |
 | gechu | ゲッチュ |  |  |
 | owanta | Owanta |  |  |
