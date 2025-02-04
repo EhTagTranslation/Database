@@ -6124,6 +6124,7 @@ example:
 | aisha greyrat | 爱夏·格雷拉特 |  | [萌娘百科](https://zh.moegirl.org.cn/爱夏·格雷拉特) |
 | ariel anemoi asura | 爱丽儿·阿涅摩伊·阿斯拉 |  | [萌娘百科](https://zh.moegirl.org.cn/爱丽儿·阿涅摩伊·阿斯拉) |
 | linia dedoldia | 莉妮亚娜·泰德路迪亚 |  | [萌娘百科](https://zh.moegirl.org.cn/莉妮亚娜·泰德路迪亚) |
+| norn greyrat | 诺伦·格雷拉特 |  | [萌娘百科](https://zh.moegirl.org.cn/诺伦·格雷拉特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
