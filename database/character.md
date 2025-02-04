@@ -6127,6 +6127,7 @@ example:
 | norn greyrat | 诺伦·格雷拉特 |  | [萌娘百科](https://zh.moegirl.org.cn/诺伦·格雷拉特) |
 | pursena adoldia | 普尔塞娜·亚德路迪亚 |  | [萌娘百科](https://zh.moegirl.org.cn/普尔塞娜·亚德路迪亚) |
 | hiyori shiina | 椎名日和 | 轻小说《欢迎来到实力主义至上的教室》中的女性角色，原C班，是文静的文学少女，和绫小路清隆是关系很好的书友。对绫小路情愫暗生。 |  |
+| freminet | 菲米尼 | `p:genshin impact`男角色，精通潜水之道。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
