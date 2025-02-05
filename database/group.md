@@ -13077,6 +13077,7 @@ example:
 | pigeon nest under deck | 甲板下的鸽子窝 | `a:yiduan`&`yuki no arashi` | [哔哩哔哩](https://space.bilibili.com/2140986) |
 | takotsubo-tei sekihaku | たこつぼ亭迹帛 | `a:sekihaku keu` | [X](https://x.com/Keu_Sekihaku/status/1874118667673469418) |
 | syakunage | しゃくなげ |  |  |
+| jast usa | JAST USA | 步兵游戏贩卖网站 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
