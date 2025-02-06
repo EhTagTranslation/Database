@@ -5311,7 +5311,7 @@ example:
 | gennosuke | 源之助 |  |  |
 | genshi | GENSHI |  |  |
 | george | ジョージ |  |  |
-| geppei | 月餅 |  |  |
+| geppei | 月饼 |  |  |
 | gero | げろ |  |  |
 | shimaki ika | 風巻いか | GEROIKA |  |
 | gesho ichirou | げしょ一郎 |  |  |
