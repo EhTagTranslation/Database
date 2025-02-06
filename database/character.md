@@ -271,7 +271,7 @@ example:
 |  | ▲ Love Live 人物 |  |  |
 |  | ▼ 各种舰娘人物 | 迟早有一天我要死在船（chuang）上<br>看了一下[萌娘百科上的人物图鉴](https://zh.moegirl.org.cn/舰队Collection/图鉴/舰娘#)，发现有\*\*200+\*\*个，让我死了吧<br>以下人物按编号排序<br>[你游](https://zh.moegirl.org.cn/碧蓝航线)要火 |  |
 | rensouhou-chan | 连装炮酱 |  |  |
-| chiyoda | 千代田 | No.050 千代田![千代田](# "https://img.moegirl.org.cn/common/thumb/4/44/E90705a6.jpg/250px-E90705a6.jpg") |  |
+| chiyoda | 千代田 | 碧蓝航线：原型为 IJN 千岁级航空母舰二番舰 千代田号<br>所属作品: `p:azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/20/kfr9fzixyn0otu7cbxrjvfs7pjqtxsi.jpg/350px-千代田立绘.jpg)<br>舰队Collection：待补充 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/千代田) |
 | akebono | 曙 | No.068 曙![曙](# "https://ehgt.org/cb/73/cb735b9a0ae422facb8b2b8e76fd72f211f1a0b5-774084-2104-3000-jpg_250.jpg") |  |
 | ushio | 潮 | No.070 |  |
 | ikazuchi | 雷 | No.073 雷![雷](# "https://ehgt.org/15/dc/15dc0a548124bf81e466339bfc55edfb8ae57d21-4153439-2122-3000-jpg_250.jpg") |  |
