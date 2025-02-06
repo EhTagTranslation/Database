@@ -11092,7 +11092,7 @@ example:
 | tsukino wakuma | 月野輪熊 |  |  |
 | tsukino yuuya | 月野悠也 |  |  |
 | tsukinose maro | 月之瀬まろ |  |  |
-| tsukishima kai | 月島改 |  |  |
+| tsukishima kai | 月岛改 |  |  |
 | tsukishima mist | 月島ミスト |  |  |
 | tsukishima takafuyu | 月島隆冬 |  |  |
 | tsukuba kensuu | つくばケンスウ |  |  |
