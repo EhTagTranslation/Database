@@ -13078,6 +13078,7 @@ example:
 | takotsubo-tei sekihaku | たこつぼ亭迹帛 | `a:sekihaku keu` | [X](https://x.com/Keu_Sekihaku/status/1874118667673469418) |
 | syakunage | しゃくなげ |  |  |
 | jast usa | JAST USA | 步兵游戏贩卖网站 |  |
+| yoga dojo | ヨガ道場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
