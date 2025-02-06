@@ -13080,6 +13080,7 @@ example:
 | jast usa | JAST USA | 步兵游戏贩卖网站 |  |
 | yoga dojo | ヨガ道場 |  |  |
 | parasute | みずのウロ（ぷらすて） |  |  |
+| misanga | ミサンガ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
