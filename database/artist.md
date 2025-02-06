@@ -11152,7 +11152,7 @@ example:
 | tukikage nemu | 月影ネム |  |  |
 | tukise mizuna | 月瀬水無 |  |  |
 | tukisiro saya | 月白沙耶 |  |  |
-| tukito | 月兎 |  |  |
+| tukito | 月兔 |  |  |
 | tukumo keiichi | 九十九K1 |  |  |
 | tukusi hirokazu | 土筆ヒロカズ |  |  |
 | tulip | ちゅーりっふ。 |  |  |
