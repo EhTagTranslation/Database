@@ -13081,6 +13081,7 @@ example:
 | yoga dojo | ヨガ道場 |  |  |
 | parasute | みずのウロ（ぷらすて） |  |  |
 | misanga | ミサンガ |  |  |
+| panda ekisu | パンダエキス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
