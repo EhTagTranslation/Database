@@ -13576,6 +13576,7 @@ example:
 | tutikure | つちくれ |  | [pixiv](https://www.pixiv.net/users/2816506) [X](https://x.com/nitutituti) |
 | limama | 李妈妈 |  |  |
 | ichi matsuru | 惟千茉鶴 |  |  |
+| masami atabe | まさみあたべ |  | [X](https://x.com/u_atabe16) [pixiv](https://www.pixiv.net/users/53264128/artworks) [FANBOX](https://atabe.fanbox.cc) |
 
 <!--TEMPLATE:
 |  |  |  |  |
