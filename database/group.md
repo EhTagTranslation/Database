@@ -7336,7 +7336,7 @@ example:
 | machinery | マシーナリー |  |  |
 | machwing | マッハウイング |  |  |
 | maclona | まっ黒な |  |  |
-| macneil koubou | マクニエル工房 |  |  |
+| makunieru workshop | マクニエル工房 |  |  |
 | macolulu | マコルル |  |  |
 | macrown | macrown |  |  |
 | macv-sog | MACV-SOG |  |  |
@@ -8628,7 +8628,7 @@ example:
 | niyodo blue | NIYODO BLUE |  |  |
 | nizeru | 煮ぜる |  |  |
 | niziyumedokoro | 虹夢処 |  |  |
-| nna timun | んつぁてぃむん |  |  |
+| ntuateimun | んつぁてぃむん |  |  |
 | nnz dan | NNZ団 |  |  |
 | no actor | NO ACTOR |  |  |
 | no brand | NO BRAND |  |  |
@@ -12872,7 +12872,7 @@ example:
 | yukai mangasha | ゆかいまんが社 |  |  |
 | tsundere ham katsu volcano | ツンデレハムカツボルケーノ |  |  |
 | gekkouchou | 月光帳 |  |  |
-| tanajou | 棚上 |  |  |
+| tanaue | 棚上 |  |  |
 | maruantei | 丸杏亭 |  |  |
 | shikoushoku | 嗜好色 |  |  |
 | anzuya | あんず屋 |  |  |
@@ -13014,7 +13014,7 @@ example:
 | j9 kagekidan | J9歌剧团 |  |  |
 | tatahot | TATAHOT |  |  |
 | higashikoiwa hutomomo uchuu kenkyuujo | 东小岩ふともも宇宙研究所 |  | [pixiv](https://www.pixiv.net/users/101730726) |
-| tai doujinshi doukoukai | タイ同人誌同好会 |  |  |
+| thai doujinshi doukoukai | タイ同人誌同好会 |  |  |
 | kure no genki na goaisatsu | 暮れの元气なご挨拶 | 画师`kurebayashi asami`所属社团<br><br>![works](https://pbs.twimg.com/media/GZvWu9dagAAY4ww?format=jpg&name=4096x4096) |  |
 | wakuwaku dining | WAKUWAKU DINING |  |  |
 | asakatsu | あさかつ |  |  |

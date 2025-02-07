@@ -682,7 +682,7 @@ example:
 | tanabe kyou | 田边京 | 田辺京<br>男性插图画师及漫画家。以画`lolicon`为主，角色多为痴女型萝莉。<br>作者特别喜欢`bakemonogatari`，对`shinobu oshino`情有独钟，创作了大量的小忍二次创作插画（包括一般向以及R-18）。<br>![图](# "https://ehgt.org/e7/a9/e7a9c5c68ddf024bca1991fc403e324972ce8b3a-250658-1414-1000-jpg_l.jpg")<br>代表作品：<br>物语系列同人本《寝取語 》系列<br>![图](# "https://ehgt.org/80/bb/80bb2105ba35a226f6120c4b2e8dc25d064e15f5-886067-1427-2008-jpg_l.jpg")<br><br>原创单行本《ぷ痴っくす》<br>![图](# "https://ehgt.org/56/48/56483fab132e7ac1787c38f4d9a6942ae1b7d388-327561-1057-1500-jpg_l.jpg") | [X](https://x.com/tanabe90457309) [pixiv](https://www.pixiv.net/users/8542) |
 | kiai neko | 樺島あきら | 曾用名：きいろ猫(kiiro neko)<br>现用名：樺島あきら(kabashima akira)<br>作品以`exhibitionism`题材为主，早期作品包含大量`scat`描写，重口注意！<br>代表作品：私が変態になった理由<br>![图](# "https://ehgt.org/40/d7/40d7739d91f3b1974736ec45f04c381bbef2af0a-980888-3507-2480-jpg_l.jpg") | [作者个人博客](http://nonormal.sakura.ne.jp/) |
 | charu | 茶琉 | 露出少女遊戯/露出少女日記系列作者。<br>代表作品：露出少女遊戯<br>![图](# "https://ehgt.org/45/6e/456ec9a0d39a4b229b4f5113e08895b18c2d7c95-1122101-2150-3035-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/125256) |
-| tamahagane | 茶琉/たまはがね | 露出少女異譚系列画作者，萝莉露出。<br>代表作品：露出少女異譚<br>![图](# "https://ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/1551500) |
+| tamahagane | たまはがね | 露出少女異譚系列画作者，萝莉露出。<br>代表作品：露出少女異譚<br>![图](# "https://ehgt.org/be/75/be75aba1508e3ec24918f8e0fccad0d937a3ac70-1758527-5636-3951-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/1551500) |
 | nakani | なかに | なかに【すぺ】<br>画风独特，极具表现力。剧情发展犹如破竹。看本子笑出声系列。<br>代表作品：まるだしすたー<br>![图](# "https://ehgt.org/8f/67/8f679921298411cb837d5f75d771300f84a71e89-470051-1058-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/18899) [X](https://x.com/nakanikki) |
 | mizuryu kei | 水龙敬 | 人类性解放的先驱者，作品多以`group`为主。<br>代表作品：おいでよ水龍敬ランド(水龙敬乐园系列)<br>![图](# "https://ehgt.org/c5/a9/c5a92a74efbb2452bb88bb86d6f0ef9c091d5e83-435856-800-1119-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/321517) |
 | oyari ashito | 大枪苇人 | ![头像](https://tva1.sinaimg.cn/large/006vdozLgw1f6k9m4eu8kj30qf0qgtem.jpg)<br>![图](# "https://ehgt.org/96/16/9616e663a0ab59efe63b58f1e521b180d9ddf718-1853743-2560-3627-jpg_l.jpg")![图](# "https://ehgt.org/a5/c2/a5c218921b59bda67ff863e0d34887a76f7f4e95-1042660-2103-3000-jpg_l.jpg")![图](https://ehgt.org/8b/6b/8b6b9319d4c5e05f24fc9a7ef1f067942e72f2db-1402612-1768-2500-jpg_l.jpg)![图](https://ehgt.org/b7/9a/b79a6333074400bfa77bcde9fd36d3db1eaa3f25-811640-2560-3627-jpg_l.jpg)![图](# "https://ehgt.org/a7/71/a771f39250f3f09bce382bac136e2eeb5097741a-57289-500-339-jpg_l.jpg")![图](https://ehgt.org/09/9c/099c6e952e978dd1d0b461e4973eb3782644d16b-1239240-2560-3604-jpg_l.jpg)![图](# "https://ehgt.org/3a/a4/3aa4c591e438ebfca64ac3169cbaf5e43173c2ab-2370206-3488-4800-jpg_l.jpg")![图](https://ehgt.org/5a/72/5a7205a46264facaa2a4f323bb4872162d2c2b6a-433311-1687-2400-jpg_l.jpg)![图](https://ehgt.org/c1/a2/c1a28b30d33b8bd5d825681f345086780c1a7095-1220782-3000-4250-jpg_l.jpg) | [个人主页](https://oyariashito.net) [微博](http://weibo.com/oyariashito) |
@@ -2417,7 +2417,7 @@ example:
 | yuzuna hiyo | 柚子奈ひよ |  | [X](https://x.com/yuzuna_hiyo) [pixiv](https://www.pixiv.net/users/3411827) |
 | kojiki ohji | 古事记王子 |  |  |
 | tamakake | たまかけ |  |  |
-| shiromochi sakura | 白もち桜/白饼樱 |  | [pixiv](https://www.pixiv.net/users/6837882) [X](https://x.com/sakura_siromoti) |
+| shiromochi sakura | 白饼樱 | 白もち桜 | [pixiv](https://www.pixiv.net/users/6837882) [X](https://x.com/sakura_siromoti) |
 | shimao kazu | 嶋尾和 |  |  |
 | kanou ryuuji | 叶竜児 |  |  |
 | yatanukikey | 弥贯圭 |  |  |
@@ -3112,7 +3112,7 @@ example:
 | ukanmuri | うかんむり |  |  |
 | momotomato | 桃とまと |  |  |
 | muchin | むーちん |  |  |
-| hou | 蜂様 (ほう) |  |  |
+| hou | ほう |  |  |
 | nakamura b-ta | 中村べーた |  |  |
 | lengsediaokafei | 冷色调咖啡 |  | [pixiv](https://www.pixiv.net/users/10783995)<br>[微博](https://weibo.com/p/1005055297506056) |
 | naruse hirofumi | 鸣濑ひろふみ | ![X](https://pbs.twimg.com/profile_images/901009603453833216/_k7BL00P_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/hirofumi_naruse) [pixiv](https://www.pixiv.net/users/226615) |
@@ -3289,7 +3289,7 @@ example:
 | hanamaki kaeru | 花巻かえる | 成人向漫画家。在《月刊Web男の娘・れくしょんっ！ 》《オトコノコHEAVEN》上投稿作品中。<br>作品以`tomgirl`为主。<br>![图](https://pbs.twimg.com/profile_images/1242847085331800064/lwzPMX2E_400x400.jpg)<br>**作者推特头像**<br><br>单行本《キミの連れ子に恋してる。》<br>![图](# "https://ehgt.org/34/ee/34ee5ab6cf8cce033f48d503743075d5445c6af6-3004882-1057-1500-jpg_l.jpg") | [X](https://x.com/hanamaki_kaeru) [pixiv](https://www.pixiv.net/users/92915) |
 | bennys | BENNY'S | BENNY'S（べにー）为日本漫画家。主要画成人漫画、BL漫画。另外也和好友`inomoto rikako`一起创立同人团体“`tenkaichi babys`”、也会在Comic Market等贩售其同人志。<br>因为画风有如少女漫画般纤细清新而且和好友井之本理佳子相似，所以常有人把她们两人当成是同一个人.(\*)<br><br>其作品既多以`shotacon`或`tomgirl`为主。<br>单行本《小悪魔♥天使ちゃん》<br>![图](# "https://ehgt.org/dc/1d/dc1d56e2cafa3919672be4eedf091f4342057e1c-1984567-1058-1500-jpg_l.jpg") | [维基百科](https://zh.wikipedia.org/wiki/BENNY%27S) (\*) [X](https://x.com/mt_bennys)<br>[Pixiv男性向](https://www.pixiv.net/users/55441762) [Pixiv女性向](https://www.pixiv.net/users/55439786) |
 | inaba cozy | 稻叶COZY | 稲葉COZY<br>”喜欢戴眼镜后性格认真的，时而又是高材生，时而又是扭曲的最终BOSS的类型角色的腐女子。“（翻译自推特简介）<br><br>以男性向的`shotacon`系漫画创作为工作。<br>单行本《めとられ 》<br>![图](# "https://ehgt.org/63/3b/633b1c4423b28295b0b59157939d6670380e25e3-804703-1168-1654-jpg_l.jpg") | [X](https://x.com/z_panzer) |
-| oie kaeru | 御家かえる\|胃ノ中かわず | 单行本《ヤりたいざかり♡男の娘》<br>![图](# "https://ehgt.org/4e/ff/4effade71eed3ab02bee10b34bf3bbd4d7708eca-2115645-1128-1600-jpg_l.jpg") | [X](https://x.com/gohome_kun) [pixiv](https://www.pixiv.net/users/18815611) |
+| oie kaeru | 御家かえる（胃ノ中かわず） | 单行本《ヤりたいざかり♡男の娘》<br>![图](# "https://ehgt.org/4e/ff/4effade71eed3ab02bee10b34bf3bbd4d7708eca-2115645-1128-1600-jpg_l.jpg") | [X](https://x.com/kawazuchanR18) [X](https://x.com/gohome_kun) [pixiv](https://www.pixiv.net/users/18815611) |
 | chinzurena | チンズリーナ | 在《好色少年》、《オトコノコ時代》、《コミックマショウ》等杂志以及《オトコのコHEAVEN》选集上投稿雌堕`shotacon`、`tomgirl`的成人向色情漫画☆<br><br>![图](https://pbs.twimg.com/profile_images/1045185830422175744/zf69rGdd_400x400.jpg)<br>**作者推特头像**<br><br>单行本《メスイキ おちんぴっく2020》<br>![图](# "https://ehgt.org/80/42/8042d2f3ae3e079d196a3c1a104e7cfc91bce86d-1390510-1128-1600-jpg_l.jpg") | [X](https://x.com/CHINZURI) [pixiv](https://www.pixiv.net/users/130023) |
 | palco nagashima | パルコ長嶋 | パルコ長嶋为日本漫画家。女性。<br>主要执笔成年向漫画。以`futanari`、`yaoi`、`shotacon`等多种种类创作漫画作品。(\*)<br><br>单行本《男の娘がヤリたそうにこっちを見ている！》<br>![图](# "https://ehgt.org/b5/cf/b5cf214003e733faab65a17d82b89d68043d6d3a-764983-1128-1600-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/27468518) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/パルコ長嶋) (\*) |
 | ponpon itai | ぽんぽんイタイ | 成年向漫画家。在商业杂志Comic LO、以及同人社团活动。<br>![图](https://pbs.twimg.com/profile_images/980720085408014336/fuRVlgJG_400x400.jpg)<br>**作者推特头像**<br>单行本《プチらぶ★きんぐだむ》<br>![图](# "https://ehgt.org/d3/56/d356c7b41197e84ab54bc68571fa4b429aca1bfe-1945610-1057-1500-jpg_l.jpg") | [X](https://x.com/pon_pon_itai) [pixiv](https://www.pixiv.net/users/2594226) |
@@ -3685,7 +3685,7 @@ example:
 | kashieda subaru | 貸江田昴 |  | [pixiv](https://www.pixiv.net/tags/貸江田昴) |
 | uranoa | うらのあ |  | [pixiv](https://www.pixiv.net/users/524697) |
 | tisen | 撥撥 (Tisen) |  | [pixiv](https://www.pixiv.net/users/12553645) [X](https://x.com/Tisenokk) |
-| chamu | 雅茶木HZ | a:chamu | [pixiv](https://www.pixiv.net/users/60598390) |
+| chamu | 雅茶木HZ |  | [pixiv](https://www.pixiv.net/users/60598390) |
 | owari | おわり |  | [pixiv](https://www.pixiv.net/users/3105) [X](https://x.com/chishimaowari) |
 | zoharwolf | Zoharwolf | Programmer; Game dev; Sunday painter(NSFW🔞); 中文🆗 English🆗 Esperanto🐣. The game director of `nekojishi` and Kelipot(形骸骑士). | [pixiv](https://www.pixiv.net/users/693677) [X](https://x.com/zohar_wolf) |
 | ushi no shita | 牛の舌 |  | [X](https://x.com/usnst_) [pixiv](https://www.pixiv.net/users/8157984) |
@@ -4743,7 +4743,7 @@ example:
 | cohen | cohen |  |  |
 | coin rand | コインRAND |  |  |
 | colin | COLIN |  |  |
-| collagen | コラーゲン/藩滑るめる |  |  |
+| collagen | コラーゲン | 藩滑るめる |  |
 | colonel aki | Colonel AKI |  |  |
 | color | COLOR |  |  |
 | colulun | こるるん |  |  |
@@ -5753,7 +5753,7 @@ example:
 | himekuri | ヒめくり |  |  |
 | himemiya aoi | 姫宮葵 |  |  |
 | himemiya aya | 姫宮あや |  |  |
-| himemiya nina | 宮祈にいな/ひめみやにいな | 投稿内容涵盖男性向和女性向 | [投掷棉花糖](https://marshmallow-qa.com/idig2ptihnp0iyf?t=SXSR1A&utm_medium=url_text&utm_source=promotion) [P站](https://www.pixiv.net/users/126948) [Xitter](https://x.com/nina0819) [Links](https://lit.link/mngt) |
+| himemiya nina | 宮祈にいな | ひめみやにいな 投稿内容涵盖男性向和女性向 | [投掷棉花糖](https://marshmallow-qa.com/idig2ptihnp0iyf?t=SXSR1A&utm_medium=url_text&utm_source=promotion) [P站](https://www.pixiv.net/users/126948) [Xitter](https://x.com/nina0819) [Links](https://lit.link/mngt) |
 | himeno | ひめの |  |  |
 | himeoka yuki | 姫岡幸忌 |  |  |
 | himori tsukineko | 妃杜つきねこ |  |  |
@@ -10308,7 +10308,7 @@ example:
 | sorato | そらと |  |  |
 | sorawa reo | そらわれお |  |  |
 | sorono | sorono |  |  |
-| soso | そそ/ソソ |  |  |
+| soso | ソソ |  |  |
 | soso-zagri | そそざぐり |  |  |
 | sot | sot |  |  |
 | sou | そう |  |  |
@@ -11144,7 +11144,6 @@ example:
 | tsuzuri | 水瀬修 |  |  |
 | tt | tt |  |  |
 | ttl | ttl |  |  |
-| ttomm | TTOMM |  |  |
 | ttuunn | つん |  |  |
 | tukamori syuuji | ツカモリシュウジ |  |  |
 | tukazi | つかぢ |  |  |
@@ -11545,7 +11544,6 @@ example:
 | yamai | 山井 |  |  |
 | yamai sakatarou | 山井逆太郎 | 山井逆太郎(山井坂太郎) |  |
 | yamaimo torotoro | 山いもとろとろ |  |  |
-| yamaishi | 山石 |  |  |
 | yamaishi joe | 山石ジョウ |  |  |
 | yamaiso | やまいそ |  |  |
 | yamakawa yuu | 山河勇 |  |  |
@@ -12408,7 +12406,6 @@ example:
 | aohonoo | 蒼炎 |  | [pixiv](https://www.pixiv.net/users/5282110) |
 | tamayura banko | 玉ぼん | ![X](https://pbs.twimg.com/profile_images/1641043721209942021/T9au5NTf_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`koutetsu shabon dama`主笔画师 | [X](https://x.com/tamabon_mo) [pixiv](https://www.pixiv.net/users/11056668) |
 | tamaki nao | 玉姫なお | ![X](https://pbs.twimg.com/profile_images/1187327544451747841/yuIl3D8T_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/70tamaki) [pixiv](https://www.pixiv.net/users/7764805) |
-| inonaka kawazu | 胃ノ中かわず | ![X](https://pbs.twimg.com/profile_images/1619631839177736194/ECoF88NU_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/kawazuchanR18) [pixiv](https://www.pixiv.net/users/18815611) |
 | saiogauma | 塞翁が马 |  |  |
 | usui yui | 碓氷汐泉 |  | [pixiv](https://www.pixiv.net/users/4141196) [X](https://x.com/yui_usui1202) |
 | raiou | raiou |  | [pixiv](https://www.pixiv.net/users/1503044) |
@@ -13466,7 +13463,7 @@ example:
 | niliu chahui | 逆流茶会 |  |  |
 | yuunagi seshina | 夕凪セシナ |  |  |
 | kmvt | kmvt |  | [pixiv](https://www.pixiv.net/users/17039192) |
-| umetori uriri | 梅鳥うりり(福永ユミ) | 女性原画师 |  |
+| umetori uriri | 梅鳥うりり | 女性原画师 |  |
 | fukunaga yumi | 福永ユミ |  |  |
 | fairy ai | ふぇありぃあい |  |  |
 | kuro urushi | 黑漆 |  |  |
@@ -13481,7 +13478,7 @@ example:
 | nekoyashiki pushio | 猫屋敷ぷしお（ぬこぷし） |  |  |
 | kirimitsu | 桐光 |  | [pixiv](https://www.pixiv.net/users/31018422) [X](https://x.com/kirimmitsu) |
 | prywinko | Prywinko |  | [X](https://x.com/prywinkoart) [pixiv](https://www.pixiv.net/users/11035409) |
-| olive | おりーぶ/橄榄 |  |  |
+| olive | 橄榄 | おりーぶ |  |
 | hanamori | はな森 |  | [X](https://x.com/hanamori59ya)<br>[pixiv](https://www.pixiv.net/users/9205975) |
 | aona masao | 苍鱼真青 |  |  |
 | kazami haruki | 风见春树 |  |  |
@@ -13537,7 +13534,7 @@ example:
 | shinyatai sanpo | 深夜帯散歩 |  | [X](https://x.com/shinyataisanpo) |
 | shine nabyss | シャイン・ナビス |  | [X](https://x.com/shine_nabyss2) |
 | bekkan | 別館 |  | [pixiv](https://www.pixiv.net/users/70692554) [X](https://x.com/_anannex) |
-| koukoku | 古宇谷（コウコク） |  | [pixiv](https://www.pixiv.net/users/48143) [X](https://x.com/koukoku0716) |
+| koukoku | 古宇谷 | コウコク | [pixiv](https://www.pixiv.net/users/48143) [X](https://x.com/koukoku0716) |
 | ishida | いしだ |  | [pixiv](https://www.pixiv.net/users/39639) [X](https://x.com/ewoageru_akaunt/) |
 | xianyumiao cat | 咸鱼喵CAT |  | [pixiv](https://www.pixiv.net/users/3041039) [X](https://x.com/OtakuCat1992) [哔哩哔哩](https://space.bilibili.com/123150/) |
 | sekihaku keu | 迹帛けう | `g:takotsubo-tei sekihaku` | [X](https://x.com/Keu_Sekihaku) [pixiv](https://www.pixiv.net/users/8193827) |
@@ -13568,9 +13565,8 @@ example:
 | edajima denki | 江田島電気 |  |  |
 | yuuki setsuna | 优木雪菜 |  |  |
 | tsukimori hiro | 月杜寻 | 月杜 尋，成人游戏原画师，为`g:purple software`工作。 |  |
-| koku | 克/COQ | 克，或称COQ(读作koku)，是`g:purple software`的主力原画师。你所熟知的`p:hapymaher`中的妹妹小恶魔Naitou Maia 内藤 舞亜 就是祂设计的。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
+| koku | 克 | 克，或称COQ(读作koku)，是`g:purple software`的主力原画师。你所熟知的`p:hapymaher`中的妹妹小恶魔Naitou Maia 内藤 舞亜 就是祂设计的。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
 | freng | freng |  |  |
-| tsukushi aria | 月紫亚里亚 | 「月紫アリア（Tsukushi Aria）」，是`p:hololive`的一名`f:vtuber`。 |  |
 | nabi | なび |  |  |
 | tokutokup | 特特P |  |  |
 | tutikure | つちくれ |  | [pixiv](https://www.pixiv.net/users/2816506) [X](https://x.com/nitutituti) |
