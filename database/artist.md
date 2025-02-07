@@ -13579,6 +13579,7 @@ example:
 | masami atabe | まさみあたべ |  | [X](https://x.com/u_atabe16) [pixiv](https://www.pixiv.net/users/53264128/artworks) [FANBOX](https://atabe.fanbox.cc) |
 | dochashiko | どちゃしこ |  |  |
 | dorozumi | どろずみ |  |  |
+| trotonope | TROTONOPE爾灣 |  | [pixiv](https://www.pixiv.net/users/50542818) [X](https://x.com/ivinetope) |
 
 <!--TEMPLATE:
 |  |  |  |  |
