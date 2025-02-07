@@ -1965,7 +1965,7 @@ example:
 | bb | BB | ![图](https://ehgt.org/83/85/83858c592f8bd02bf042ea95546f1b2b5753a8d1-2164528-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/BB%28Fate%29#) |
 | bradamante | 布拉达曼特 |  |  |
 | nero claudius bride | 尼禄·克劳狄乌斯〔新娘〕 | ![图](# "https://ehgt.org/dc/2b/dc2bba6bee0a93a81ada9f70bdaf8ad08dfb8450-2243286-1024-1448-png_l.jpg") | [Mooncell](http://www.fgo.wiki/w/尼禄·克劳狄乌斯〔新娘〕) [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#) |
-| chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰)<br>[茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
+| chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰) [茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕（Rider） |  |  |
 | katsushika hokusai | 葛饰北斋（阿荣） | ![图](https://ehgt.org/e8/cc/e8ccea19028bed78c6fafa4710cf7b5da057cc16-2657507-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/葛饰北斋) [萌娘百科](https://zh.moegirl.org.cn/葛饰北斋%28Fate%29#) |
@@ -6130,6 +6130,7 @@ example:
 | freminet | 菲米尼 | `p:genshin impact`男角色，精通潜水之道。 |  |
 | mutsumi wakaba | 若叶睦 | 若叶睦（日语：若葉（わかば） 睦（むつみ））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/若叶睦) |
 | sunflower | 向日葵 |  |  |
+| penelopea | 绿影侠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
