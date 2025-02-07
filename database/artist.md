@@ -2722,7 +2722,7 @@ example:
 | kuriyuzu kuryuu | 栗柚くりゅー |  | [pixiv](https://www.pixiv.net/users/285568) [X](https://x.com/kuryu_lv100) |
 | homu | homu |  | [pixiv](https://www.pixiv.net/users/6463948) [X](https://x.com/homu_k1) |
 | kamelie | Kamelie |  | [pixiv](https://www.pixiv.net/users/362833) [X](https://x.com/Kamelie12) |
-| nicoby | にこびぃ |  | [pixiv](https://www.pixiv.net/users/2382127) [X](https://x.com/nicoby69) |
+| nicoby | にこびぃ |  | [pixiv](https://www.pixiv.net/users/2382127) [X](https://x.com/nicoby0609) |
 | mitsuba choco | 三つ葉ちょこ |  | [pixiv](https://www.pixiv.net/users/8532469) [X](https://x.com/fu_choco2) |
 | miyama | 箕山 | ![](https://pbs.twimg.com/profile_images/1238820540271349767/N-zXlgII_400x400.jpg) | [pixiv](https://www.pixiv.net/users/3277555) [X](https://x.com/u_miyama) |
 | ayagi daifuku | 綾城大福 |  | [pixiv](https://www.pixiv.net/users/106903) [X](https://x.com/IN_THE_MOCHI) |
