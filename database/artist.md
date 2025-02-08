@@ -12454,7 +12454,7 @@ example:
 | hayanye r | はやにぇR |  | [pixiv](https://www.pixiv.net/users/39182623) [X](https://x.com/hayanyeRo) [FANBOX](https://hayanye-r.fanbox.cc/) [Fantia](https://fantia.jp/fanclubs/16247) |
 | awamiku | あわこと |  | [pixiv](https://www.pixiv.net/users/38989867) [X](https://x.com/awakotodayo) [Skeb](https://skeb.jp/@awakotogogo) |
 | barakey | バラキー |  | [pixiv](https://www.pixiv.net/users/10743492) [X](https://x.com/tanganlover) [FANBOX](https://tanganlover.fanbox.cc/) [Skeb](https://skeb.jp/@TANGANLOVER) [BOOTH](https://barakieru.booth.pm/) |
-| ricerice | 饭桶君 | 飯桶君 | [pixiv](https://www.pixiv.net/users/21862577) |
+| ricerice | 饭桶君 | 飯桶君，cg产量高的画师 | [pixiv](https://www.pixiv.net/users/21862577) |
 | ahbai | 阿白 |  | [pixiv](https://www.pixiv.net/users/34728119) |
 | parsley | パセリ |  | [X](https://x.com/Parsley_F) |
 | ochin-sama | おちんさま |  | [X](https://x.com/Ochin_Johansson/media) |
