@@ -6133,6 +6133,7 @@ example:
 | penelopea | 绿影侠 |  |  |
 | aglaea | 阿格莱雅 | 阿格莱雅是《`p:honkai star rail`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿格莱雅) |
 | kaguya urushibara | 漆原辉夜 | 漆原辉夜（暂译），山海经高等学院的学生。京剧部的部长。<br><br>初次登场于活动剧情“梦华月骚”。 | [Fandom](https://bluearchive.fandom.com/wiki/Urushibara_Kaguya) [百度百科](https://baike.baidu.com/item/漆原辉夜) |
+| lan yan | 蓝砚 | 所属作品: `p:genshin impact`<br><br>![](https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Lan_Yan_Card.png) | [萌娘百科](https://zh.moegirl.org.cn/蓝砚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
