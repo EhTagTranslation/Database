@@ -13577,6 +13577,7 @@ example:
 | dorozumi | どろずみ |  |  |
 | trotonope | TROTONOPE爾灣 |  | [pixiv](https://www.pixiv.net/users/50542818) [X](https://x.com/ivinetope) |
 | kosmos beta | Kosmos β |  | [pixiv](https://www.pixiv.net/users/52200937) |
+| kurarome | くらろめ |  | [pixiv](https://www.pixiv.net/users/34740285) [X](https://x.com/tukutuki) |
 
 <!--TEMPLATE:
 |  |  |  |  |
