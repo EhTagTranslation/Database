@@ -13160,7 +13160,7 @@ example:
 | particular | ぱてくらー |  |  |
 | karashina en | カラシナ円 |  |  |
 | hagakure kurage | 葉隠くらげ |  |  |
-| tamon sakaki | 多纹サカキ |  |  |
+| tamon sakaki | 多紋サカキ |  |  |
 | asano tooru | あさの透 |  |  |
 | uiri | ういり |  |  |
 | fujiyoshi | ふじよし |  |  |
