@@ -13582,6 +13582,7 @@ example:
 | choujirooo | 超ジロー |  |  |
 | warubo | わるボ |  | [pixiv](https://www.pixiv.net/users/15863054) [X](https://x.com/warui_salamence) |
 | siose tamotsu | シオセタモツ |  |  |
+| sugane fleen | スガネフリーン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
