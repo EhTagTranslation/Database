@@ -13082,6 +13082,7 @@ example:
 | parasute | みずのウロ（ぷらすて） |  |  |
 | misanga | ミサンガ |  |  |
 | panda ekisu | パンダエキス |  |  |
+| weiss children | ヴァイスチルドレン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
