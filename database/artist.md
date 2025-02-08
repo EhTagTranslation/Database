@@ -13579,6 +13579,7 @@ example:
 | kosmos beta | Kosmos β |  | [pixiv](https://www.pixiv.net/users/52200937) |
 | kurarome | くらろめ |  | [pixiv](https://www.pixiv.net/users/34740285) [X](https://x.com/tukutuki) |
 | higeneko | 胡子猫 | ひげ猫 |  |
+| choujirooo | 超ジロー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
