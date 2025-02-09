@@ -13583,6 +13583,7 @@ example:
 | warubo | わるボ |  | [pixiv](https://www.pixiv.net/users/15863054) [X](https://x.com/warui_salamence) |
 | siose tamotsu | シオセタモツ |  |  |
 | sugane fleen | スガネフリーン |  |  |
+| natsume mila | 棗Mila |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
