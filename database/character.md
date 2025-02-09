@@ -6139,6 +6139,7 @@ example:
 | shampoo | 珊璞 | 珊璞是高桥留美子所创作的漫画《乱马1/2》乱码及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/SHAMPOO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/珊璞) |
 | tribbie | 缇宝 | 缇宝是《`p:honkai star rail`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 | trianne | 缇安 | 缇安是《`p:honkai star rail`》的登场角色，与`c:tribbie`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
+| trinnon | 缇宁 | 缇宁是《`p:honkai star rail`》的登场角色，与`c:tribbie`、`c:trianne`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
