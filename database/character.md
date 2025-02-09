@@ -6141,6 +6141,7 @@ example:
 | trianne | 缇安 | 缇安是《`p:honkai star rail`》的登场角色，与`c:tribbie`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 | trinnon | 缇宁 | 缇宁是《`p:honkai star rail`》的登场角色，与`c:tribbie`、`c:trianne`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 | castorice | 遐蝶 | 遐蝶是《`p:honkai star rail`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/遐蝶) |
+| biscione | 比肖内 | 比肖内是FGO在日服2025年1月的我的小小龙种活动同期实装的五星枪阶从者 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
