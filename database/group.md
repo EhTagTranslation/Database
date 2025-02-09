@@ -13083,6 +13083,7 @@ example:
 | misanga | ミサンガ |  |  |
 | panda ekisu | パンダエキス |  |  |
 | weiss children | ヴァイスチルドレン |  |  |
+| fairytale hardcover | フェアリーテールHARDCOVER |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
