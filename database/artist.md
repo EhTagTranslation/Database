@@ -13585,6 +13585,7 @@ example:
 | sugane fleen | スガネフリーン |  |  |
 | natsume mila | 棗Mila |  |  |
 | imakane kei | いまかねけい |  |  |
+| masumi | ますみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
