@@ -13084,6 +13084,7 @@ example:
 | panda ekisu | パンダエキス |  |  |
 | weiss children | ヴァイスチルドレン |  |  |
 | fairytale hardcover | フェアリーテールHARDCOVER |  |  |
+| stereorange | stereorange | bolze./stereorange |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
