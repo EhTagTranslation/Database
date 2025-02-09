@@ -13584,6 +13584,7 @@ example:
 | siose tamotsu | シオセタモツ |  |  |
 | sugane fleen | スガネフリーン |  |  |
 | natsume mila | 棗Mila |  |  |
+| imakane kei | いまかねけい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
