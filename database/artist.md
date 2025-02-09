@@ -13586,6 +13586,7 @@ example:
 | natsume mila | 棗Mila |  |  |
 | imakane kei | いまかねけい |  |  |
 | masumi | ますみ |  |  |
+| ogano momomo | 小鹿野ももも |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
