@@ -6138,6 +6138,7 @@ example:
 | ryoga hibiki | 响良牙 | 响良牙是日本漫画家高桥留美子作品《乱马1/2》中的人物，由山寺宏一、雷霆配音。<br>响良牙，16岁，是长期处于休学状态的路痴高中生，使用我流拳法的武术家。<br>![](https://bkimg.cdn.bcebos.com/pic/c8ea15ce36d3d5396c804e0b3687e950342ab0bd?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/响良牙) |
 | shampoo | 珊璞 | 珊璞是高桥留美子所创作的漫画《乱马1/2》乱码及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/SHAMPOO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/珊璞) |
 | tribbie | 缇宝 | 缇宝是《`p:honkai star rail`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
+| trianne | 缇安 | 缇安是《`p:honkai star rail`》的登场角色，与`c:tribbie`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
