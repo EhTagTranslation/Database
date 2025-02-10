@@ -13587,6 +13587,7 @@ example:
 | imakane kei | いまかねけい |  |  |
 | masumi | ますみ |  |  |
 | ogano momomo | 小鹿野ももも |  |  |
+| keishirou | けい志ろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
