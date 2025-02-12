@@ -13589,6 +13589,7 @@ example:
 | ogano momomo | 小鹿野ももも |  |  |
 | keishirou | けい志ろう |  |  |
 | chouya waneko | 蝶屋わねこ |  | [X](https://x.com/Altheavin) [pixiv](https://www.pixiv.net/users/2278791) |
+| yunkaiming | 云开明 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
