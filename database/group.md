@@ -13087,6 +13087,7 @@ example:
 | stereorange | stereorange | bolze./stereorange |  |
 | meitei works | 酩酊works |  |  |
 | chouya waneko | 蝶屋和猫 |  |  |
+| horenso metro | ほうれん草メトロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
