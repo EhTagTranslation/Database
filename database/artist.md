@@ -13588,6 +13588,7 @@ example:
 | masumi | ますみ |  |  |
 | ogano momomo | 小鹿野ももも |  |  |
 | keishirou | けい志ろう |  |  |
+| chouya waneko | 蝶屋わねこ |  | [X](https://x.com/Altheavin) |
 
 <!--TEMPLATE:
 |  |  |  |  |
