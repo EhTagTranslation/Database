@@ -6144,6 +6144,7 @@ example:
 | biscione | 比肖内 | 比肖内是FGO在日服2025年1月的我的小小龙种活动同期实装的五星枪阶从者 |  |
 | the herta | 大黑塔 | 大黑塔 (The Herta) 是米哈游制作的游戏《`p:honkai star rail`》及其衍生作品的登场角色。<br>![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/a4xh2fqj236rw5pdcy88vcr2fban63x.png/800px-大黑塔立绘.png) | [BILIGAME WIKI](https://wiki.biligame.com/sr/大黑塔) |
 | xueyi | 雪衣 |  | [萌娘百科](https://zh.moegirl.org.cn/雪衣) |
+| scene | 稀音 | 稀音是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/稀音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
