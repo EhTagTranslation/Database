@@ -2389,6 +2389,7 @@ example:
 | soulworker | 灵魂武器 | 《灵魂武器》是由韩国游戏开发公司Lion Games开发的一款动漫风格的动作手游，于2016年发行。该作是一款以能力者为题材的全3D动作MMORPG。 |  |
 | tayutama | 游魂 | 游魂系列，是`g:lump of sugar`的系列作品游戏，目前推出了两款本篇和分别对应的FD |  |
 | kuroiwa medaka ni watashi no kawaii ga tsuujinai | 我的可爱对黑岩目高不管用 | 《我的可爱对黑岩目高不管用》是作者久世兰创作的漫画作品，2021年2月17日连载于周刊杂志《周刊少年Magazine》。该作简体中文电子版由哔哩哔哩漫画代理发行。 |  |
+| tensei kizoku no isekai boukenroku | 转生贵族的异世界冒险录～不知自重的众神使徒～ | 《转生贵族的异世界冒险录～不知自重的诸神的使徒～》（日语：転生貴族の異世界冒険録～自重を知らない神々の使徒～；英语：Wonderful adventure in Another world! "God… That's going too far!!" he said…）是由夜州创作的一部轻小说，并有漫画、动画等衍生作品。<br><br>阅读更多：转生贵族的异世界冒险录～不知自重的诸神的使徒～ | [萌娘百科](https://zh.moegirl.org.cn/转生贵族的异世界冒险录～不知自重的诸神的使徒～) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
