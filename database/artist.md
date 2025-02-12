@@ -13590,6 +13590,7 @@ example:
 | keishirou | けい志ろう |  |  |
 | chouya waneko | 蝶屋わねこ |  | [X](https://x.com/Altheavin) [pixiv](https://www.pixiv.net/users/2278791) |
 | yunkaiming | 云开明 |  |  |
+| kasuga ae | 春日あえ |  | [X](https://x.com/sioyuu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
