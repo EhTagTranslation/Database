@@ -2552,7 +2552,7 @@ example:
 | takehana note | 竹花ノート |  |  |
 | sakuraba hikaru | 桜庭光 |  | [pixiv](https://www.pixiv.net/users/1423422)<br>[Fanbox](https://www.pixiv.net/fanbox/creator/1423422)<br>[X](https://x.com/loveindoghikaru) |
 | wolflong | ╰狼龍 |  | [X](https://x.com/wolflong88) [pixiv](https://www.pixiv.net/users/2086437) |
-| toyosaki shu | 豊咲 |  | [pixiv](https://www.pixiv.net/users/7710679) [X](https://x.com/_toyosak1) |
+| toyosaki shu | 一咲 | 豊咲 | [pixiv](https://www.pixiv.net/users/7710679) [X](https://x.com/_toyosak1) |
 | mutou koucha | 无糖红茶 |  | [pixiv](https://www.pixiv.net/users/29033553) [X](https://x.com/mutoukoutya610) |
 | kurihara kenshirou | 栗原ケンシロウ |  |  |
 | matsumotoke | 松本家御愛用 |  |  |
