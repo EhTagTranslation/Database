@@ -6146,6 +6146,7 @@ example:
 | xueyi | 雪衣 |  | [萌娘百科](https://zh.moegirl.org.cn/雪衣) |
 | scene | 稀音 | 稀音是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/稀音) |
 | sizzles jelly queen | SizzlesJellyQueen |  | [YouTube](https://www.youtube.com/@sizzlesjellyqueen) [X](https://x.com/sizzlesjellyqn) [HP](https://www.sizzles.gg/) |
+| kei shindou | 真堂圭 | 来自悠久之翼 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
