@@ -6150,6 +6150,7 @@ example:
 | miyako miyamura | 宫村宫子 | 来自悠久之翼 |  |
 | yuuko amamiya | 雨宫优子 | 来自悠久之翼 |  |
 | chihiro shindou | 新藤千寻 | 来自悠久之翼 |  |
+| mizuki hayama | 羽山瑞希 | 来自悠久之翼 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
