@@ -6155,6 +6155,7 @@ example:
 | haruki kitahara | 北原春希 |  | [萌娘百科](https://zh.moegirl.org.cn/北原春希) [Fandom](https://white-album-2.fandom.com/wiki/Haruki_Kitahara) |
 | rina ogata | 绪方理奈 |  | [萌娘百科](https://zh.moegirl.org.cn/绪方理奈) |
 | chiaki izumi | 和泉千晶 |  | [萌娘百科](https://zh.moegirl.org.cn/和泉千晶) [Fandom](https://white-album-2.fandom.com/wiki/Chiaki_Izumi) |
+| mari kazaoka | 风冈麻理 | 开樱社任职的杂志编辑，`c:haruki kitahara`的直属上司。 | [萌娘百科](https://zh.moegirl.org.cn/风冈麻理) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
