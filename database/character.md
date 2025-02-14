@@ -6151,6 +6151,7 @@ example:
 | yuuko amamiya | 雨宫优子 | 来自悠久之翼 |  |
 | chihiro shindou | 新藤千寻 | 来自悠久之翼 |  |
 | mizuki hayama | 羽山瑞希 | 来自悠久之翼 |  |
+| setsuna ogiso | 小木曾雪菜 |  | [萌娘百科](https://zh.moegirl.org.cn/小木曾雪菜) [Fandom](https://white-album-2.fandom.com/wiki/Setsuna_Ogiso) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
