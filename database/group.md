@@ -13088,6 +13088,7 @@ example:
 | meitei works | 酩酊works |  |  |
 | chouya waneko | 蝶屋和猫 |  |  |
 | horenso metro | ほうれん草メトロ |  |  |
+| devils tongue | Devil’s Tongue |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
