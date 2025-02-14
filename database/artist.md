@@ -6037,7 +6037,7 @@ example:
 | ie gami | いえがみ |  |  |
 | ieda kirizen | 家田キリゼン |  |  |
 | ifnil | IFNIL |  |  |
-| ifpark | ifpark |  |  |
+| ifpark | ifpark |  | [Twitter](https://x.com/ifpark) [pixiv](https://www.pixiv.net/users/15002) |
 | ifuji shinsen | いふじシンセン |  |  |
 | igakino agenasu | 井垣野あげなす |  |  |
 | igan seijin | 胃がん星人 |  |  |
