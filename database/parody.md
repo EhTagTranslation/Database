@@ -2392,6 +2392,7 @@ example:
 | tensei kizoku no isekai boukenroku | 转生贵族的异世界冒险录～不知自重的众神使徒～ | 《转生贵族的异世界冒险录～不知自重的诸神的使徒～》（日语：転生貴族の異世界冒険録～自重を知らない神々の使徒～；英语：Wonderful adventure in Another world! "God… That's going too far!!" he said…）是由夜州创作的一部轻小说，并有漫画、动画等衍生作品。<br><br>阅读更多：转生贵族的异世界冒险录～不知自重的诸神的使徒～ | [萌娘百科](https://zh.moegirl.org.cn/转生贵族的异世界冒险录～不知自重的诸神的使徒～) |
 | natsumes book of friends | 夏目友人帐 |  | [维基百科](https://zh.wikipedia.org/wiki/夏目友人帳) [萌娘百科](https://zh.moegirl.org.cn/夏目友人帐) |
 | kurokami | 黑神 |  | [维基百科](https://zh.wikipedia.org/wiki/黑神) |
+| chrome shelled regios | 钢壳都市雷吉欧斯 |  | [维基百科](https://zh.wikipedia.org/wiki/鋼殼都市雷吉歐斯) [萌娘百科](https://zh.moegirl.org.cn/钢壳都市雷吉欧斯) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
