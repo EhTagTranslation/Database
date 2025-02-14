@@ -13592,6 +13592,7 @@ example:
 | yunkaiming | 云开明 |  |  |
 | kasuga ae | 春日あえ |  | [X](https://x.com/sioyuu) |
 | comodox | comodox | I'm form Thailand,nice to meet everyone,Please say easy english to me! (use translater) | [pixiv](https://www.pixiv.net/users/4252792) [X](https://x.com/cmdxca) |
+| yuki asuka | 雪あすか |  | [Twitter](https://x.com/askyqd) [pixiv](https://www.pixiv.net/users/23779717) |
 
 <!--TEMPLATE:
 |  |  |  |  |
