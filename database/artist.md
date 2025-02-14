@@ -13594,6 +13594,7 @@ example:
 | comodox | comodox | I'm form Thailand,nice to meet everyone,Please say easy english to me! (use translater) | [pixiv](https://www.pixiv.net/users/4252792) [X](https://x.com/cmdxca) |
 | yuki asuka | 雪あすか |  | [Twitter](https://x.com/askyqd) [pixiv](https://www.pixiv.net/users/23779717) |
 | betock | betock |  | [Twitter](https://x.com/betockIwm) [pixiv](https://www.pixiv.net/users/14069924) |
+| jakelian | Jakelian |  | [pixiv](https://www.pixiv.net/users/7262570) |
 
 <!--TEMPLATE:
 |  |  |  |  |
