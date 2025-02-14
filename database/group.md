@@ -13093,6 +13093,7 @@ example:
 | torinosu | 鸟之巢 |  |  |
 | kyou majo | 京まじょ！ |  |  |
 | yokaranu yakara | よからヌ夜空 |  |  |
+| yamaneko box | 山猫BOX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
