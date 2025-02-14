@@ -6159,7 +6159,7 @@ example:
 | kazusa touma | 冬马和纱 |  | [萌娘百科](https://zh.moegirl.org.cn/冬马和纱) [Fandom](https://white-album-2.fandom.com/wiki/Kazusa_Touma) |
 | yuki morikawa | 森川由绮 | `p:white album`中`c:touya fujii`的恋人，绪方工作室旗下的女子大学生偶像。 | [萌娘百科](https://zh.moegirl.org.cn/森川由绮) |
 | touya fujii | 藤井冬弥 |  | [百度百科](https://baike.baidu.com/item/藤井冬彌) |
-| chizuru kashiwagi | 柏木千鹤 | 所属作品: `p:kizuato`<br><br>主人公的堂姐，四姐妹中的长女。虽然去年春天刚从大学毕业，但因为养父的去世，她不可避免地担负起照顾这个家的重任。 | [百度百科](https://baike.baidu.com/item/柏木千鶴) [萌娘百科](https://zh.moegirl.org.cn/痕%28Leaf%29) |
+| chizuru kashiwagi | 柏木千鹤 | 所属作品: `p:kizuato`<br><br>主人公的堂姐，四姐妹中的长女。虽然去年春天刚从大学毕业，但因为养父的去世，她不可避免地担负起照顾这个家的重任。 | [百度百科](https://baike.baidu.com/item/柏木千鶴) [萌娘百科](https://zh.moegirl.org.cn/痕%28Leaf%29) [Fandom](https://fightingchars.fandom.com/wiki/Chizuru_Kashiwagi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
