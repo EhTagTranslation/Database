@@ -13092,6 +13092,7 @@ example:
 | rampel | らんぺる |  |  |
 | torinosu | 鸟之巢 |  |  |
 | kyou majo | 京まじょ！ |  |  |
+| yokaranu yakara | よからヌ夜空 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
