@@ -6153,6 +6153,7 @@ example:
 | mizuki hayama | 羽山瑞希 | 来自悠久之翼 |  |
 | setsuna ogiso | 小木曾雪菜 |  | [萌娘百科](https://zh.moegirl.org.cn/小木曾雪菜) [Fandom](https://white-album-2.fandom.com/wiki/Setsuna_Ogiso) |
 | haruki kitahara | 北原春希 |  | [萌娘百科](https://zh.moegirl.org.cn/北原春希) [Fandom](https://white-album-2.fandom.com/wiki/Haruki_Kitahara) |
+| rina ogata | 绪方理奈 |  | [萌娘百科](https://zh.moegirl.org.cn/绪方理奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
