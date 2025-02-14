@@ -13091,6 +13091,7 @@ example:
 | devils tongue | Devil’s Tongue |  |  |
 | rampel | らんぺる |  |  |
 | torinosu | 鸟之巢 |  |  |
+| kyou majo | 京まじょ！ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
