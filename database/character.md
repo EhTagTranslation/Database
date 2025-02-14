@@ -6154,6 +6154,7 @@ example:
 | setsuna ogiso | 小木曾雪菜 |  | [萌娘百科](https://zh.moegirl.org.cn/小木曾雪菜) [Fandom](https://white-album-2.fandom.com/wiki/Setsuna_Ogiso) |
 | haruki kitahara | 北原春希 |  | [萌娘百科](https://zh.moegirl.org.cn/北原春希) [Fandom](https://white-album-2.fandom.com/wiki/Haruki_Kitahara) |
 | rina ogata | 绪方理奈 |  | [萌娘百科](https://zh.moegirl.org.cn/绪方理奈) |
+| chiaki izumi | 和泉千晶 |  | [萌娘百科](https://zh.moegirl.org.cn/和泉千晶) [Fandom](https://white-album-2.fandom.com/wiki/Chiaki_Izumi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
