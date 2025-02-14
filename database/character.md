@@ -6161,6 +6161,7 @@ example:
 | touya fujii | 藤井冬弥 |  | [百度百科](https://baike.baidu.com/item/藤井冬彌) |
 | chizuru kashiwagi | 柏木千鹤 | 所属作品: `p:kizuato`<br><br>主人公的堂姐，四姐妹中的长女。虽然去年春天刚从大学毕业，但因为养父的去世，她不可避免地担负起照顾这个家的重任。 | [百度百科](https://baike.baidu.com/item/柏木千鶴) [萌娘百科](https://zh.moegirl.org.cn/痕%28Leaf%29) [Fandom](https://fightingchars.fandom.com/wiki/Chizuru_Kashiwagi) |
 | shouto todoroki | 轰焦冻 | 所属作品: `p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/轰焦冻) |
+| popess johanna | 女教皇若安 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
