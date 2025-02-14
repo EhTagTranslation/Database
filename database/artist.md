@@ -13595,6 +13595,7 @@ example:
 | yuki asuka | 雪あすか |  | [Twitter](https://x.com/askyqd) [pixiv](https://www.pixiv.net/users/23779717) |
 | betock | betock |  | [Twitter](https://x.com/betockIwm) [pixiv](https://www.pixiv.net/users/14069924) |
 | jakelian | Jakelian |  | [pixiv](https://www.pixiv.net/users/7262570) |
+| yokara | よから |  | [Twitter](https://x.com/Yokara_Yakara) [Twitter(R18)](https://x.com/YokaranuYakara) [pixiv](https://www.pixiv.net/users/34298517/artworks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
