@@ -440,7 +440,7 @@ example:
 | nishimu | にしむ |  |  |
 | narita koh | 成田コウ |  |  |
 | shiden | しでん | しでん / 治屋武しでん | [pixiv](https://www.pixiv.net/users/134033) |
-| mira | みら \| 未镜 | peachpulsar<br>MirrorWorld |  |
+| mira | みら \| 未镜 | peachpulsar<br>MirrorWorld | [Twitter(みら)](https://x.com/peachpulsar) [pixiv(みら)](https://www.pixiv.net/users/5935009)<br>[Twitter(未镜)](https://x.com/mitumi_mira) [pixiv(未镜)](https://www.pixiv.net/users/1046271) |
 | fuusen club | 風船クラブ |  |  |
 | shioroku | シオロク |  |  |
 | kaname aomame | 要青豆 |  |  |
