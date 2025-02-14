@@ -13596,6 +13596,7 @@ example:
 | betock | betock |  | [Twitter](https://x.com/betockIwm) [pixiv](https://www.pixiv.net/users/14069924) |
 | jakelian | Jakelian |  | [pixiv](https://www.pixiv.net/users/7262570) |
 | yokara | よから |  | [Twitter](https://x.com/Yokara_Yakara) [Twitter(R18)](https://x.com/YokaranuYakara) [pixiv](https://www.pixiv.net/users/34298517/artworks) |
+| partner | ぱるとねる |  | [pixiv](https://www.pixiv.net/users/15353659) [X](https://x.com/act_partner) |
 
 <!--TEMPLATE:
 |  |  |  |  |
