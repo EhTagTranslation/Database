@@ -13089,6 +13089,7 @@ example:
 | chouya waneko | 蝶屋和猫 |  |  |
 | horenso metro | ほうれん草メトロ |  |  |
 | devils tongue | Devil’s Tongue |  |  |
+| rampel | らんぺる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
