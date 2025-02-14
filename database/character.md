@@ -6156,6 +6156,7 @@ example:
 | rina ogata | 绪方理奈 |  | [萌娘百科](https://zh.moegirl.org.cn/绪方理奈) |
 | chiaki izumi | 和泉千晶 |  | [萌娘百科](https://zh.moegirl.org.cn/和泉千晶) [Fandom](https://white-album-2.fandom.com/wiki/Chiaki_Izumi) |
 | mari kazaoka | 风冈麻理 | 开樱社任职的杂志编辑，`c:haruki kitahara`的直属上司。 | [萌娘百科](https://zh.moegirl.org.cn/风冈麻理) [Fandom](https://white-album-2.fandom.com/wiki/Mari_Kazaoka) |
+| kazusa touma | 冬马和纱 |  | [萌娘百科](https://zh.moegirl.org.cn/冬马和纱) [Fandom](https://white-album-2.fandom.com/wiki/Kazusa_Touma) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
