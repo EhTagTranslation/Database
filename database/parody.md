@@ -604,7 +604,7 @@ example:
 | gokujou seitokai | 极上学生会 |  |  |
 | show by rock | Show By Rock!! |  |  |
 | star fox | 星际火狐 |  |  |
-| white album | 白色相簿❄ |  |  |
+| white album | 白色相簿❄ |  | [白色相簿1](https://zh.moegirl.org.cn/白色相簿%28游戏%29) [白色相簿2](https://zh.moegirl.org.cn/白色相簿2) |
 | tenchi muyo | 天地无用！ |  |  |
 | variable geo | 格斗女神 | 姬武神传说 |  |
 | ashita no nadja | 明日的娜嘉 |  |  |
