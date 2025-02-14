@@ -13090,6 +13090,7 @@ example:
 | horenso metro | ほうれん草メトロ |  |  |
 | devils tongue | Devil’s Tongue |  |  |
 | rampel | らんぺる |  |  |
+| torinosu | 鸟之巢 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
