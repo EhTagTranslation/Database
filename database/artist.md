@@ -13599,6 +13599,7 @@ example:
 | partner | ぱるとねる |  | [pixiv](https://www.pixiv.net/users/15353659) [X](https://x.com/act_partner) |
 | nanase miori | ナナセミオリ |  | [X](https://x.com/yamanekobox) [pixiv](https://www.pixiv.net/users/739284) |
 | kinagi rea | きなぎれあ |  |  |
+| norisuke | 乃莉助 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
