@@ -13598,6 +13598,7 @@ example:
 | yokara | よから |  | [Twitter](https://x.com/Yokara_Yakara) [Twitter(R18)](https://x.com/YokaranuYakara) [pixiv](https://www.pixiv.net/users/34298517/artworks) |
 | partner | ぱるとねる |  | [pixiv](https://www.pixiv.net/users/15353659) [X](https://x.com/act_partner) |
 | nanase miori | ナナセミオリ |  | [X](https://x.com/yamanekobox) [pixiv](https://www.pixiv.net/users/739284) |
+| kinagi rea | きなぎれあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
