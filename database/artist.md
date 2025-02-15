@@ -4409,7 +4409,7 @@ example:
 | b.tarou | B.たろう |  |  |
 | b1h | B1H |  |  |
 | bach | Bach |  |  |
-| backfischalter | 伸長に関する考察 |  |  |
+| backfischalter | 伸長に関する考察 |  | [pixiv](https://www.pixiv.net/users/10189189) [FANBOX](https://www.fanbox.cc/@girlsresidence) [Fantia](https://fantia.jp/fanclubs/1419) |
 | bacon | ベーコン |  |  |
 | badbamboo | badbamboo |  |  |
 | badhand | BadHanD |  |  |
