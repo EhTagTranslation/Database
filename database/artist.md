@@ -13603,6 +13603,7 @@ example:
 | kontetsu | こんてつ |  |  |
 | accter | accter |  | [pixiv](https://www.pixiv.net/users/11325572) [X](https://x.com/ccvaccter) |
 | naoyuki | なおゆき |  |  |
+| gin-chan | 銀ちゃん |  | [pixiv](https://www.pixiv.net/users/3793447) |
 
 <!--TEMPLATE:
 |  |  |  |  |
