@@ -13094,6 +13094,7 @@ example:
 | kyou majo | 京まじょ！ |  |  |
 | yokaranu yakara | よからヌ夜空 |  |  |
 | yamaneko box | 山猫BOX |  |  |
+| chirimen naoyuki | ちりめんなおゆき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
