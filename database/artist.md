@@ -7416,7 +7416,7 @@ example:
 | lamb | Lamb |  |  |
 | lamcha | ラム茶 |  |  |
 | langerhans | ランゲルハンス |  |  |
-| lantana | ランタナ |  |  |
+| lantana | ランタナ |  | [pixiv](https://www.pixiv.net/users/13643399) |
 | laomeng | LaoMeng |  |  |
 | lapiness | lapiness |  |  |
 | larua | ラルア |  |  |
