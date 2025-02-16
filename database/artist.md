@@ -13602,6 +13602,7 @@ example:
 | norisuke | 乃莉助 |  |  |
 | kontetsu | こんてつ |  |  |
 | accter | accter |  | [pixiv](https://www.pixiv.net/users/11325572) [X](https://x.com/ccvaccter) |
+| naoyuki | なおゆき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
