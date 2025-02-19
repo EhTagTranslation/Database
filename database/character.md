@@ -6163,6 +6163,7 @@ example:
 | shouto todoroki | 轰焦冻 | 所属作品: `p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/轰焦冻) |
 | popess johanna | 女教皇若安 |  |  |
 | sae chabashira | 茶柱佐枝 | 茶柱佐枝，日本轻小说《欢迎来到实力至上主义的教室》及其衍生作品中的登场人物，由佐藤利奈配音。D班冷淡女教师，日本史教授，因D班未竟辉煌而消极教学，与闺蜜星之宫知惠同窗，外表职业干练，内心天真。 |  |
+| hae-in cha | 车慧仁 | 《我独自升级》中的女角色。强大的S级猎人。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
