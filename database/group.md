@@ -13095,6 +13095,7 @@ example:
 | yokaranu yakara | よからヌ夜空 |  |  |
 | yamaneko box | 山猫BOX |  |  |
 | chirimen naoyuki | ちりめんなおゆき |  |  |
+| haru tanuki-ya | 春狸屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
