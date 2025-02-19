@@ -11141,7 +11141,7 @@ example:
 | tsuzuki masumi | つづきますみ |  |  |
 | tsuzura | つづら |  |  |
 | tsuzurao kaya | 九尾かや |  |  |
-| tsuzuri | 水瀬修 |  |  |
+| tsuzuri | 綴り |  |  |
 | tt | tt |  |  |
 | ttl | ttl |  |  |
 | ttuunn | つん |  |  |
