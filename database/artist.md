@@ -411,7 +411,7 @@ example:
 | kawata hisashi | カワタヒサシ |  |  |
 | mitsumi misato | みつみ美里 |  |  |
 | nakamura takeshi | なかむらたけし |  |  |
-| minase syu | 水濑修 |  |  |
+| minase syu | 水瀬修 |  |  |
 | yoshiura kazuya | 由浦カズヤ |  |  |
 | erect sawaru | エレクトさわる |  | [pixiv](https://www.pixiv.net/users/374953) [X](https://x.com/erectman) |
 | katsurai yoshiaki | 桂井よしあき |  |  |
