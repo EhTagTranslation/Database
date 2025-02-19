@@ -6162,6 +6162,7 @@ example:
 | chizuru kashiwagi | 柏木千鹤 | 所属作品: `p:kizuato`<br><br>主人公的堂姐，四姐妹中的长女。虽然去年春天刚从大学毕业，但因为养父的去世，她不可避免地担负起照顾这个家的重任。 | [百度百科](https://baike.baidu.com/item/柏木千鶴) [萌娘百科](https://zh.moegirl.org.cn/痕%28Leaf%29) [Fandom](https://fightingchars.fandom.com/wiki/Chizuru_Kashiwagi) |
 | shouto todoroki | 轰焦冻 | 所属作品: `p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/轰焦冻) |
 | popess johanna | 女教皇若安 |  |  |
+| sae chabashira | 茶柱佐枝 | 茶柱佐枝，日本轻小说《欢迎来到实力至上主义的教室》及其衍生作品中的登场人物，由佐藤利奈配音。D班冷淡女教师，日本史教授，因D班未竟辉煌而消极教学，与闺蜜星之宫知惠同窗，外表职业干练，内心天真。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
