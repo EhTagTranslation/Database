@@ -6174,6 +6174,7 @@ example:
 | arias the labrynth butler | 白银城的执事 阿里安斯 |  | [萌娘百科](https://zh.moegirl.org.cn/白银之城的执事_阿里亚斯) |
 | traptrix allomerus | 树栖蚁之虫惑魔 |  |  |
 | traptrix nepenthes | 蜜笼之虫惑魔 |  |  |
+| diabellstar the black witch | 黑魔女 迪亚贝尔斯塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
