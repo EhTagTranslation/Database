@@ -6204,6 +6204,7 @@ example:
 | yami yugi | 阿图姆（暗游戏） |  |  |
 | yuuya sakaki | 榊游矢 |  |  |
 | seto kaiba | 海马濑人 |  |  |
+| inko midoriya | 绿谷引子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
