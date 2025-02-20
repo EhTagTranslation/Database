@@ -6189,6 +6189,7 @@ example:
 | evil twin lil-la | 邪恶★双子 璃拉 |  |  |
 | fallen of albaz | 阿尔白斯之落胤 （ 阿不思的落胤 ） |  |  |
 | swordsoul of mo ye | 相剑师－莫邪 |  |  |
+| pa-san | 音响师（PA桑） |  | [萌娘百科](https://zh.moegirl.org.cn/音响师) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
