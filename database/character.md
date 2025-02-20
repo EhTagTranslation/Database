@@ -6184,6 +6184,7 @@ example:
 | witchcrafter madame verre | 魔女工艺掌门・玻璃匠薇儿 （ 魔女术师傅·玻璃女巫 ） |  |  |
 | dinomorphia kentregina | 恐啡肽骇龙・肯特莱钉娜 |  |  |
 | i p masquerena | I：P百变莱娜 |  |  |
+| live twin ki-sikil | 直播☆双子 姬丝吉尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
