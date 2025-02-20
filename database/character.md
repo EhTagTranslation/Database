@@ -6199,6 +6199,7 @@ example:
 | sky striker ace - roze | 闪刀姬－萝杰（ 闪刀姬-露世 ） |  |  |
 | rei saotome | 早乙女礼 |  |  |
 | jun manjoume | 万丈目准 |  |  |
+| dark magician | 黑魔导（ 黑魔术师 ） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
