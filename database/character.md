@@ -6178,6 +6178,7 @@ example:
 | traptrix pinguicula | 蜜堇之虫惑魔 |  | [萌娘百科](https://zh.moegirl.org.cn/蜜堇之虫惑魔) |
 | tearlaments kitkallos | 泪冠哀歌・琪多卡洛斯 |  |  |
 | tearlaments scheiren | 泪冠哀歌・赛莲 |  |  |
+| tour guide from the underworld | 魔界发现世行死亡向导 （ 由魔界到现世的死亡导游 ） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
