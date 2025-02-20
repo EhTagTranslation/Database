@@ -6183,6 +6183,7 @@ example:
 | witchcrafter haine | 魔女工艺・裁缝海涅 |  |  |
 | witchcrafter madame verre | 魔女工艺掌门・玻璃匠薇儿 （ 魔女术师傅·玻璃女巫 ） |  |  |
 | dinomorphia kentregina | 恐啡肽骇龙・肯特莱钉娜 |  |  |
+| i p masquerena | I：P百变莱娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
