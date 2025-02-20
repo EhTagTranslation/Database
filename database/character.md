@@ -6201,6 +6201,7 @@ example:
 | jun manjoume | 万丈目准 |  |  |
 | dark magician | 黑魔导（ 黑魔术师 ） |  |  |
 | yugi mutou | 武藤游戏 |  |  |
+| yami yugi | 阿图姆（暗游戏） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
