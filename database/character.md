@@ -6197,6 +6197,7 @@ example:
 | mystical elf | 圣精灵 |  |  |
 | yubel | 尤贝尔 |  |  |
 | sky striker ace - roze | 闪刀姬－萝杰（ 闪刀姬-露世 ） |  |  |
+| rei saotome | 早乙女礼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
