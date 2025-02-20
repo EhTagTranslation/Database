@@ -6213,6 +6213,7 @@ example:
 | helen parr | 巴荷莉 |  |  |
 | princess anna | 安娜公主 |  |  |
 | mimikyu | 谜拟丘 |  |  |
+| nurse joy | 乔伊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
