@@ -6185,6 +6185,7 @@ example:
 | dinomorphia kentregina | 恐啡肽骇龙・肯特莱钉娜 |  |  |
 | i p masquerena | I：P百变莱娜 |  |  |
 | live twin ki-sikil | 直播☆双子 姬丝吉尔 |  |  |
+| evil twin ki-sikil | 邪恶★双子 姬丝吉尔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
