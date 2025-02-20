@@ -6215,6 +6215,7 @@ example:
 | mimikyu | 谜拟丘 |  |  |
 | nurse joy | 乔伊 |  |  |
 | officer jenny | 君莎 |  |  |
+| james | 小次郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
