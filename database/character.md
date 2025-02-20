@@ -6209,6 +6209,7 @@ example:
 | tomoko shiretoko | 知床知子 |  |  |
 | shino sousaki | 送崎信乃（曼德勒猫） |  |  |
 | elesis | 艾丽希斯 |  |  |
+| maya natsume | 枣真夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
