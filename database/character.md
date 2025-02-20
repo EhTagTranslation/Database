@@ -6212,6 +6212,7 @@ example:
 | maya natsume | 枣真夜 |  |  |
 | helen parr | 巴荷莉 |  |  |
 | princess anna | 安娜公主 |  |  |
+| mimikyu | 谜拟丘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
