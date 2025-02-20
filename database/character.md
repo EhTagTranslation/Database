@@ -6191,6 +6191,7 @@ example:
 | swordsoul of mo ye | 相剑师－莫邪 |  |  |
 | pa-san | 音响师（PA桑） |  | [萌娘百科](https://zh.moegirl.org.cn/音响师) |
 | the iris swordsoul | 妖眼的相剑师 |  |  |
+| witchcrafter genni | 魔女工艺・万能杰妮（ 魔女术熟练工 ） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
