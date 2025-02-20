@@ -2705,7 +2705,7 @@ example:
 | crimson viper | 深红毒蛇 |  |  |
 | blue mary | 布鲁玛丽 |  |  |
 | king | 琼 |  |  |
-| dark magician girl | 黑魔术少女 |  |  |
+| dark magician girl | 黑魔导女孩（黑魔术少女） |  |  |
 | silent magician | 沉默魔术师 |  |  |
 | marcille donato | 玛露西尔 | 玛露西尔（日语：マルシル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/af/玛露西尔_chr.png/420px-玛露西尔_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/玛露西尔) |
 | fumina hoshino | 星野文奈 |  |  |
