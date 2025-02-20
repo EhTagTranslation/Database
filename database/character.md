@@ -6177,6 +6177,7 @@ example:
 | diabellstar the black witch | 黑魔女 迪亚贝尔斯塔 |  |  |
 | traptrix pinguicula | 蜜堇之虫惑魔 |  | [萌娘百科](https://zh.moegirl.org.cn/蜜堇之虫惑魔) |
 | tearlaments kitkallos | 泪冠哀歌・琪多卡洛斯 |  |  |
+| tearlaments scheiren | 泪冠哀歌・赛莲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
