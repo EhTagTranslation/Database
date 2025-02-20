@@ -6206,6 +6206,7 @@ example:
 | seto kaiba | 海马濑人 |  |  |
 | inko midoriya | 绿谷引子 |  |  |
 | ryuko tsuchikawa | 皮克茜-鲍勃 |  |  |
+| tomoko shiretoko | 知床知子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
