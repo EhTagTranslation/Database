@@ -6214,6 +6214,7 @@ example:
 | princess anna | 安娜公主 |  |  |
 | mimikyu | 谜拟丘 |  |  |
 | nurse joy | 乔伊 |  |  |
+| officer jenny | 君莎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
