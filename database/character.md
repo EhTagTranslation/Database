@@ -6200,6 +6200,7 @@ example:
 | rei saotome | 早乙女礼 |  |  |
 | jun manjoume | 万丈目准 |  |  |
 | dark magician | 黑魔导（ 黑魔术师 ） |  |  |
+| yugi mutou | 武藤游戏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
