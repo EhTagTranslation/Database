@@ -1564,7 +1564,7 @@ example:
 | lasto | らすと～ | らすと～是日本同人志创作者，插画师。作品以成人向，`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1318749400961675265/x8Rtd1cT_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/65/8d/658d8df73b6818611ea12661ab34987aa850545c-924086-2080-3025-jpg_l.jpg")<br>同人本《妹が風呂場で思いっきり いじくり回してきた。》 | [X](https://x.com/SKhorosho) [pixiv](https://www.pixiv.net/users/45454) |
 | yoroduya hyakuhachi | 万屋百八 |  |  |
 | takapiko | たかぴこ |  |  |
-| kobayashi chisato | 小林ちさと |  |  |
+| kobayashi chisato | 小林ちさと |  | [pixiv](https://www.pixiv.net/users/3016) |
 | siomidu | しおみづ |  | [X](https://x.com/siomidu) [pixiv](https://www.pixiv.net/users/483782) |
 | fudou ran | 不动乱 |  |  |
 | ikuya daikokudou | 几夜大黑堂 |  | [pixiv](https://www.pixiv.net/users/464765) |
