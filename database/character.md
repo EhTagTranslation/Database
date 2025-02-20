@@ -6187,6 +6187,7 @@ example:
 | live twin ki-sikil | 直播☆双子 姬丝吉尔 |  |  |
 | evil twin ki-sikil | 邪恶★双子 姬丝吉尔 |  |  |
 | evil twin lil-la | 邪恶★双子 璃拉 |  |  |
+| fallen of albaz | 阿尔白斯之落胤 （ 阿不思的落胤 ） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
