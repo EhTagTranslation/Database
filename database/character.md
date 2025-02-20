@@ -6180,6 +6180,7 @@ example:
 | tearlaments scheiren | 泪冠哀歌・赛莲 |  |  |
 | tour guide from the underworld | 魔界发现世行死亡向导 （ 由魔界到现世的死亡导游 ） |  |  |
 | tri-brigade kitt | 铁兽战线 姬特 |  |  |
+| witchcrafter haine | 魔女工艺・裁缝海涅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
