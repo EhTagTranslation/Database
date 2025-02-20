@@ -6208,6 +6208,7 @@ example:
 | ryuko tsuchikawa | 皮克茜-鲍勃 |  |  |
 | tomoko shiretoko | 知床知子 |  |  |
 | shino sousaki | 送崎信乃（曼德勒猫） |  |  |
+| elesis | 艾丽希斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
