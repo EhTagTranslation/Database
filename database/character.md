@@ -6216,6 +6216,7 @@ example:
 | nurse joy | 乔伊 |  |  |
 | officer jenny | 君莎 |  |  |
 | james | 小次郎 |  |  |
+| jessie | 武藏 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
