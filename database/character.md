@@ -6193,6 +6193,7 @@ example:
 | the iris swordsoul | 妖眼的相剑师 |  |  |
 | witchcrafter genni | 魔女工艺・万能杰妮（ 魔女术熟练工 ） |  |  |
 | witchcrafter potterie | 魔女工艺・陶艺玻特丽（ 魔女术工匠·陶器女巫 ） |  |  |
+| gagaga girl | 我我我女孩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
