@@ -13605,6 +13605,7 @@ example:
 | naoyuki | なおゆき |  |  |
 | gin-chan | 銀ちゃん |  | [pixiv](https://www.pixiv.net/users/3793447) |
 | iren | iren |  | [X](https://x.com/iren_lovel) [pixiv](https://www.pixiv.net/users/34209175) [HP](https://linktr.ee/iren_lovel) |
+| mizuse noa | 水聖のあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
