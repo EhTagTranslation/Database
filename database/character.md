@@ -6217,6 +6217,7 @@ example:
 | officer jenny | 君莎 |  |  |
 | james | 小次郎 |  |  |
 | jessie | 武藏 |  |  |
+| varesa | 瓦雷莎 | 瓦雷莎是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
