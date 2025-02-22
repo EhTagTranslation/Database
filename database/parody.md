@@ -2395,6 +2395,7 @@ example:
 | kurokami | 黑神 |  | [维基百科](https://zh.wikipedia.org/wiki/黑神) |
 | chrome shelled regios | 钢壳都市雷吉欧斯 |  | [维基百科](https://zh.wikipedia.org/wiki/鋼殼都市雷吉歐斯) [萌娘百科](https://zh.moegirl.org.cn/钢壳都市雷吉欧斯) |
 | ga-rei | 食灵-零- |  | [萌娘百科](https://zh.moegirl.org.cn/食灵-零-) [维基百科](https://zh.wikipedia.org/wiki/食靈) |
+| jin ping mei | 金瓶梅 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
