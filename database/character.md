@@ -6218,6 +6218,7 @@ example:
 | jessie | 武藏 |  |  |
 | varesa | 瓦雷莎 | 瓦雷莎是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎) |
 | land | 兰托 | ![](https://img.moegirl.org.cn/common/thumb/1/15/Frieren_anime_兰托.png/280px-Frieren_anime_兰托.png)<br>日语：ラント<br>漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰托) |
+| iselda | 伊塞尔达 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
