@@ -364,6 +364,7 @@ example:
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。 |  |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
+| penis bumps | 阴茎凸起 | 阴茎上的皮肤凸起，通常是通过疣或皮下珠穿孔形成的。 |  |
 | penis enlargement | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
@@ -389,6 +390,7 @@ example:
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致`inflation`。<br>![图](# "https://ehgt.org/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg") |  |
 | farting | 放屁 | 明显的放屁行为。 |  |
 | multiple assjob | 多重尻交 | 多个阴茎参与的尻交。需要`assjob`标签。 |  |
+| multiple tails | 多尾 | 拥有多于一条尾巴。尾巴应从身体上长出。单个尾巴分裂出多个尾巴尖不符合条件，除非是在靠近尾巴根的地方分裂。需要`furry`或`tail`标签。 |  |
 | pegging | 爆菊 | 男性被`strap-on`或`sex toys`插入肛门。不用于`dickgirl on male`的情况。 |  |
 | spanking | 打屁股 | `torture`某人的屁股以获得性快感。 |  |
 | tail | 尾巴 | 一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。<br>![图](# "https://ehgt.org/83/1e/831ed92ca96e4d16c446593537571ba9cd720c7d-1860666-2122-3014-jpg_l.jpg") |  |
@@ -561,6 +563,7 @@ example:
 | food on body | 男体盛 | 食物（尤其是寿司）放在裸露的身体上。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
 | human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于`milking`或繁殖。 通常涉及`bondage`。<br>![图](# "https://ehgt.org/05/54/0554ee554c6c968e71649186dda0698c2566af85-1152023-1063-1500-jpg_l.jpg") |  |
+| ruined orgasm | 高潮泡汤 | 在参与者达到高潮之前停止刺激。然后参与者必须达到高潮，通常质量和强度低于平时，而无需任何进一步的刺激。存在从刺激开始到毁掉的高潮发生时计算。不要与`orgasm denial`相混淆。 |  |
 | property tag | 财产标签 | 将个人物化为他人财产的标签、条形码、纹身或火印。 |  |
 | josou seme | 女装攻 | 一个异装癖或`tomgirl`在性行为中占据主导地位。<br>![图](# "https://ehgt.org/57/92/5792d8bc3dafad5c2395c00a29fc2adee47d93c3-703088-1024-576-png_l.jpg") |  |
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |

@@ -376,6 +376,7 @@ example:
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。<br>![图](# "https://ehgt.org/af/08/af08cede45aee8604822bd506e4f3d5f9e859131-506871-1279-1800-jpg_l.jpg")![图](# "https://ehgt.org/be/27/be276e5d1eac1989737b0cd4d5726c92e20c45cd-711048-1500-1060-jpg_l.jpg") |  |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/db/4f/db4ff92cbf0336e3582f75f8fc977a3a6b546cc0-48539-600-845-jpg_l.jpg")![图](# "https://ehgt.org/b2/70/b2705dfdf0897c9d30340cffa8cdb246ee34eac3-57806-600-852-jpg_l.jpg")![图](# "https://ehgt.org/67/10/67102fa792ec050c41f6bf07a1d4a71e32089e3f-56861-600-841-jpg_l.jpg")![图](# "https://ehgt.org/5e/e4/5ee402423f4b507ec8c3a8a24e783f4f9201df3e-115878-1200-850-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
+| penis bumps | 阴茎凸起 | 阴茎上的皮肤凸起，通常是通过疣或皮下珠穿孔形成的。 |  |
 | penis enlargement | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
@@ -408,6 +409,7 @@ example:
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致`inflation`。<br>![图](# "https://ehgt.org/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg") |  |
 | farting | 放屁 | 明显的放屁行为。 |  |
 | multiple assjob | 多重尻交 | 多个阴茎参与的尻交。需要`assjob`标签。 |  |
+| multiple tails | 多尾 | 拥有多于一条尾巴。尾巴应从身体上长出。单个尾巴分裂出多个尾巴尖不符合条件，除非是在靠近尾巴根的地方分裂。需要`furry`或`tail`标签。 |  |
 | spanking | 打屁股 | `torture`某人的屁股以获得性快感。<br>![图](# "https://ehgt.org/36/d9/36d9fc5c9deb92f51a1cf57cba1fd7193f54f407-209213-744-1052-jpg_l.jpg") |  |
 | tail | 尾巴 | 一个突出的灵活附肢，是身体的一部分，通常从躯干的后部突出。不适用于没有腿的身体。<br>![图](# "https://ehgt.org/83/1e/831ed92ca96e4d16c446593537571ba9cd720c7d-1860666-2122-3014-jpg_l.jpg") |  |
 | tailphagia | 尾巴吞食 | 被尾巴整个吞食。不要与`vore`混淆。 |  |
@@ -590,6 +592,7 @@ example:
 | food on body | 女体盛 | 食物（尤其是寿司）放在裸露的身体上。 |  |
 | forniphilia | 人体家具 | 用人类作为家具。 |  |
 | human cattle | 人类饲养 | 人类作为牲畜饲养，通常用于`milking`或繁殖。 通常涉及`bondage`。<br>![图](# "https://ehgt.org/2a/67/2a67af653bdcd2e959ab73ba66d25dd39dd56694-1558795-1280-960-png_l.jpg") |  |
+| ruined orgasm | 高潮泡汤 | 在参与者达到高潮之前停止刺激。然后参与者必须达到高潮，通常质量和强度低于平时，而无需任何进一步的刺激。存在从刺激开始到毁掉的高潮发生时计算。不要与`orgasm denial`相混淆。 |  |
 | property tag | 财产标签 | 将个人物化为他人财产的标签、条形码、纹身或火印。 |  |
 | orgasm denial | 高潮禁止 | 用工具或其他手段防止某人达到高潮。 |  |
 | petplay | 人宠 | 像宠物一样对待人。不应与`human cattle`和`slave`混淆。常是`bdsm`的一环。<br>![图](# "https://ehgt.org/5c/81/5c812d630ffb5fb55ca789bc6231de648a5c66ab-541664-800-600-png_l.jpg")![图](# "https://ehgt.org/10/cb/10cb6a72533df96d4696c070f42d0d272867c3b7-615868-800-600-png_l.jpg")![图](# "https://ehgt.org/fa/e1/fae1d3224900eb05db965c1156dd346856ce2445-284459-640-480-png_l.jpg")![图](# "https://ehgt.org/ad/47/ad478842b887a06c1d82f0887487980c8ba6110c-529901-800-600-png_l.jpg")![图](# "https://ehgt.org/d8/88/d888dd4769c704e8f836438baa805185384921b5-601549-800-600-png_l.jpg") |  |

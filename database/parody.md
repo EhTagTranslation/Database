@@ -31,7 +31,8 @@ example:
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
 | -------- | ---- | ---- | -------- |
-| original | 原创 | 适用于不包含任何已知媒体/系列中角色或内容的同人志或艺术家CG。<br><br>此标签不得用于"同人志"或"艺术家CG"类别之外。 |  |
+| original | 原创 | 适用于不包含任何已知媒体/系列中角色或内容的`doujinshi`或`artistcg`。此标签不得用于`doujinshi`或`artistcg`类别之外。 |  |
+| various | 多作品 | 一种`doujinshi`或`artistcg`，其中包含的戏仿在结合时呈现出存在感，但单独的戏仿或角色则没有存在感。不因非戏仿内容而被取消资格，但因任何有效`character`或其他有效`parody`标签而被取消资格。此标签不得用于`doujinshi`或`artistcg`类别之外。 |  |
 | touhou project | ![阴阳玉图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/touhou%20project.webp)东方Project | ![博丽灵梦](https://upload.thwiki.cc/thumb/3/3d/博丽灵梦（人妖名鉴）.jpg/450px-博丽灵梦（人妖名鉴）.jpg)<br>乐园的可爱巫女<br>![雾雨魔理沙](https://upload.thwiki.cc/thumb/0/0f/雾雨魔理沙（人妖名鉴）.jpg/450px-雾雨魔理沙（人妖名鉴）.jpg)<br>不成熟的魔法使<br>![ZUN](https://upload.thwiki.cc/thumb/c/c8/ZUN与东方苹果（20191208）.jpg/420px-ZUN与东方苹果（20191208）.jpg)<br>博丽神主 | [东方维基](https://thwiki.cc/东方Project) [萌娘百科](https://zh.moegirl.org.cn/东方Project) |
 | moetan | 萌单✏️ | ![图](https://ehgt.org/86/53/865337b1c1aeb034f817b7ac06e456075125dfd4-209273-1080-1586-jpg_l.jpg) |  |
 |  | ▼Key社作品 |  |  |
