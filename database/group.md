@@ -13096,6 +13096,7 @@ example:
 | yamaneko box | 山猫BOX |  |  |
 | chirimen naoyuki | ちりめんなおゆき |  |  |
 | haru tanuki-ya | 春狸屋 |  |  |
+| taihen na hentai | たいへんなへんたい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
