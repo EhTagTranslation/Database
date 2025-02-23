@@ -13609,6 +13609,7 @@ example:
 | dhimetoro | ディメトロ |  |  |
 | akinashi koyomi | 秋梨こよみ \| 春夏冬こよみ |  |  |
 | kerenme | ケレンメ |  |  |
+| kasoku | 加速 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
