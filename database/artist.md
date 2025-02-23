@@ -13608,6 +13608,7 @@ example:
 | mizuse noa | 水聖のあ |  |  |
 | dhimetoro | ディメトロ |  |  |
 | akinashi koyomi | 秋梨こよみ \| 春夏冬こよみ |  |  |
+| kerenme | ケレンメ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
