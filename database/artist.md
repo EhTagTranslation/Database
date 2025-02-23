@@ -13607,7 +13607,7 @@ example:
 | iren | iren |  | [X](https://x.com/iren_lovel) [pixiv](https://www.pixiv.net/users/34209175) [HP](https://linktr.ee/iren_lovel) |
 | mizuse noa | 水聖のあ |  |  |
 | dhimetoro | ディメトロ |  |  |
-| akinashi koyomi | 秋梨こよみ\|春夏冬こよみ |  |  |
+| akinashi koyomi | 秋梨こよみ \| 春夏冬こよみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
