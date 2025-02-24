@@ -2397,6 +2397,7 @@ example:
 | ga-rei | 食灵-零- |  | [萌娘百科](https://zh.moegirl.org.cn/食灵-零-) [维基百科](https://zh.wikipedia.org/wiki/食靈) |
 | jin ping mei | 金瓶梅 |  |  |
 | eiken | 巨乳学园 |  | [维基百科](https://zh.wikipedia.org/wiki/巨乳學園) |
+| medalist | 金牌得主（舞冰的祈愿） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
