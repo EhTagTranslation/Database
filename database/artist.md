@@ -7696,7 +7696,7 @@ example:
 | matatabi | またたび |  |  |
 | match | マッチ |  |  |
 | matetsu | まてつ |  |  |
-| mato | まと |  |  |
+| mato | まと |  | [pixiv](https://www.pixiv.net/users/5892889) |
 | matoba | 的場 |  |  |
 | maton | マトン |  |  |
 | matou | まとう |  |  |
