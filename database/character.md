@@ -6223,6 +6223,7 @@ example:
 | inori yuitsuka | 结束祈 |  |  |
 | roxanne | 罗克珊 |  |  |
 | kou ichinomiya | 市之宫行 | 所属作品: `p:arakawa under the bridge` | [萌娘百科](https://zh.moegirl.org.cn/市之宫行) |
+| jean colbert | 柯尔贝尔 | 所属作品: `p:zero no tsukaima` | [Fandom](https://zeronotsukaima.fandom.com/wiki/Jean_Colbert) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
