@@ -6221,6 +6221,7 @@ example:
 | iselda | 伊塞尔达 |  |  |
 | iansan | 伊安珊 | 伊安珊是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊安珊) |
 | inori yuitsuka | 结束祈 |  |  |
+| roxanne | 罗克珊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
