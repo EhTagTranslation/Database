@@ -13098,6 +13098,7 @@ example:
 | haru tanuki-ya | 春狸屋 |  |  |
 | taihen na hentai | たいへんなへんたい |  |  |
 | ebiharami | エビハラミ |  |  |
+| shirudakuya | 汁濁屋 |  | [X](https://x.com/youandguy) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
