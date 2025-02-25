@@ -13610,6 +13610,7 @@ example:
 | akinashi koyomi | 秋梨こよみ \| 春夏冬こよみ |  |  |
 | kerenme | ケレンメ |  |  |
 | kasoku | 加速 |  |  |
+| tanaka naburu | NABURU |  | [HP](http://tanakanaburu.run.buttobi.net) [有害図書企画](https://x.com/youandguy) |
 
 <!--TEMPLATE:
 |  |  |  |  |
