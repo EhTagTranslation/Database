@@ -2398,6 +2398,7 @@ example:
 | jin ping mei | 金瓶梅 |  |  |
 | eiken | 巨乳学园 |  | [维基百科](https://zh.wikipedia.org/wiki/巨乳學園) |
 | medalist | 金牌得主（舞冰的祈愿） |  |  |
+| arakawa under the bridge | 荒川爆笑团 |  | [维基百科](https://zh.wikipedia.org/wiki/荒川爆笑團) [萌娘百科](https://zh.moegirl.org.cn/荒川爆笑团) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
