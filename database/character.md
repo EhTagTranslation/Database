@@ -6224,7 +6224,7 @@ example:
 | roxanne | 罗克珊 |  |  |
 | kou ichinomiya | 市之宫行 | 所属作品: `p:arakawa under the bridge` | [萌娘百科](https://zh.moegirl.org.cn/市之宫行) |
 | jean colbert | 柯尔贝尔 | 所属作品: `p:zero no tsukaima` | [Fandom](https://zeronotsukaima.fandom.com/wiki/Jean_Colbert) |
-| california | 加利福尼亚 | 《碧蓝航线》《战舰少女R》中的角色，原型为田纳西级二号舰加利福尼亚号战列舰。 | [维基百科](https://zh.wikipedia.org/wiki/加利福尼亞號戰)<br>[碧蓝航线：[BILIGAME WIKI](https://wiki.biligame.com/blhx/加利福尼亚)]<br>[战舰少女R：[https://www.zjsnrwiki.com/wiki/加利福尼亚](https://www.zjsnrwiki.com/wiki/加利福尼亚)] |
+| california | 加利福尼亚 | 《碧蓝航线》《战舰少女R》中的角色，原型为田纳西级二号舰加利福尼亚号战列舰。 | [维基百科（英语）](https://en.wikipedia.org/wiki/USS_California_%28BB-44%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/加利福尼亚)<br>[https://www.zjsnrwiki.com/wiki/加利福尼亚](https://www.zjsnrwiki.com/wiki/加利福尼亚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
