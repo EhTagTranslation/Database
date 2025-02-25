@@ -6225,6 +6225,7 @@ example:
 | kou ichinomiya | 市之宫行 | 所属作品: `p:arakawa under the bridge` | [萌娘百科](https://zh.moegirl.org.cn/市之宫行) |
 | jean colbert | 柯尔贝尔 | 所属作品: `p:zero no tsukaima` | [Fandom](https://zeronotsukaima.fandom.com/wiki/Jean_Colbert) |
 | california | 加利福尼亚 | 《碧蓝航线》《战舰少女R》中的角色，原型为田纳西级二号舰加利福尼亚号战列舰。<br>所属作品: `p:azur lane` | [维基百科](https://zh.wikipedia.org/wiki/加利福尼亞號戰)<br>[碧蓝航线：[BILIGAME WIKI](https://wiki.biligame.com/blhx/加利福尼亚)]<br>[战舰少女R：[https://www.zjsnrwiki.com/wiki/加利福尼亚](https://www.zjsnrwiki.com/wiki/加利福尼亚)] |
+| vittorio veneto | 维托里奥·维内托 | 《碧蓝航线》《战舰少女R》中的角色，原型为维托里奥·维内托级高速战列舰的旗舰维托里奥·维内托号 | [维基百科（英语）](https://en.wikipedia.org/wiki/Italian_battleship_Vittorio_Veneto)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/维托里奥·维内托)<br>[https://www.zjsnrwiki.com/wiki/维内托](https://www.zjsnrwiki.com/wiki/维内托) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
