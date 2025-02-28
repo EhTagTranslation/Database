@@ -13619,6 +13619,7 @@ example:
 | hatte miina | 八手美以菜 |  |  |
 | denpa yukkuri | でんぱゆっくり |  |  |
 | nekoshiro memo | 猫代メモ |  |  |
+| yuuto | ゆうと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
