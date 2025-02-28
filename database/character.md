@@ -6229,6 +6229,7 @@ example:
 | voroshilov | 伏罗希洛夫 | 《碧蓝航线》《战舰少女R》中的角色，原型为基洛夫级巡洋舰二号舰伏罗希洛夫号<br>所属作品: `p:azur lane` | [维基百科（英语）](https://en.wikipedia.org/wiki/Soviet_cruiser_Voroshilov)<br>[https://www.zjsnrwiki.com/wiki/伏罗希洛夫](https://www.zjsnrwiki.com/wiki/伏罗希洛夫)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/伏罗希洛夫) |
 | fortune | 命运女神 | 《碧蓝航线》中的角色，原型为F级驱逐舰之一的财富号<br>所属作品: `p:azur lane` | [维基百科（英语）](https://en.wikipedia.org/wiki/HMS_Fortune_%28H70%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/命运女神) |
 | masachika kuze | 久世政近 | 《`p:tokidoki bosotto russia-go de dereru tonari no alya-san`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久世政近) |
+| cantarella | 坎特蕾拉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
