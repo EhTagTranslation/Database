@@ -9246,7 +9246,7 @@ example:
 | philan | Philan |  |  |
 | philly | Philly |  |  |
 | phoenicia masako | フェニキア雅子 |  |  |
-| pi-ko | ぴーこ |  |  |
+| pi-ko | ぴーこ/日衣子 |  |  |
 | pia pia | Pia☆Pia |  |  |
 | piano | ぴあの |  |  |
 | piaroo | Piaroo |  |  |
