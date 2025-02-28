@@ -13626,6 +13626,7 @@ example:
 | shuuhen kouichi | 周辺コウイチ |  |  |
 | kuba yodomu | 紅端よどむ |  |  |
 | kuriame kururu | 栗飴くるる |  |  |
+| usanomura kamekichi | 兎ノ村亀吉 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
