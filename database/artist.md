@@ -13624,6 +13624,7 @@ example:
 | itou usagi | いとううさぎ |  |  |
 | nakano hitomi | 中埜人見 |  |  |
 | shuuhen kouichi | 周辺コウイチ |  |  |
+| kuba yodomu | 紅端よどむ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
