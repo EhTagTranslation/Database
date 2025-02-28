@@ -2589,7 +2589,7 @@ example:
 | anon 2-okunen | あのん2亿年 | ![X](https://pbs.twimg.com/profile_images/1843913215329394688/TrbU-qR8_400x400.jpg)<br><br>**作者X头像**<br><br>社团`anons flood myth`所属画师<br><br>![works](# "https://pbs.twimg.com/media/GCaQ8o8aMAAkFsE?format=jpg&name=small") | [X](https://x.com/anon200million2) [pixiv](https://www.pixiv.net/users/9760628) |
 | zikataro | 自家太郎 |  |  |
 | footaro | 辻風太郎 |  |  |
-| mokuzu | もくず |  | [Twitter本账号](https://x.com/mokuzzzzz) [Twitter表账号](https://x.com/mokuzzz_k) [Twitter里账号](https://x.com/mokuxxxxx) [pixiv](https://www.pixiv.net/users/4868893) [个人网站](https://mokuzzzzz.tumblr.com) |
+| mokuzu | もくず \| くずのもくず |  | [Twitter本账号](https://x.com/mokuzzzzz) [Twitter表账号](https://x.com/mokuzzz_k) [Twitter里账号](https://x.com/mokuxxxxx) [pixiv](https://www.pixiv.net/users/4868893) [个人网站](https://mokuzzzzz.tumblr.com) |
 | mizuno kurage | 水乃くらげ |  | [X](https://x.com/Mizuno_LR) [pixiv](https://www.pixiv.net/users/3272927) |
 | aoi | あおい |  | [X](https://x.com/wobumi) [pixiv](https://www.pixiv.net/users/240943) |
 | uguisu mochi | うぐいす餅 |  | [X](https://x.com/3535carrot) [pixiv](https://www.pixiv.net/users/3386759) |
