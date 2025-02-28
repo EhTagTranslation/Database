@@ -772,7 +772,7 @@ example:
 | katsura airi | 桂あいり |  |  |
 | koori | 粉织 |  |  |
 | red-rum | RED-RUM |  |  |
-| ryoh-zoh | 椋藏 |  |  |
+| ryoh-zoh | 椋蔵 |  |  |
 | shouji nigou | 庄司二号 |  | [X](https://x.com/syoujinigou) [pixiv](https://www.pixiv.net/users/499426) |
 | henrybird | 半里バード9 |  | [Pixiv（长期无更新）](https://www.pixiv.net/users/10886057) [X](https://x.com/henrybird99) |
 | homing | ホーミング |  |  |
