@@ -13623,6 +13623,7 @@ example:
 | mukimoto koko | 剥元ここ |  |  |
 | itou usagi | いとううさぎ |  |  |
 | nakano hitomi | 中埜人見 |  |  |
+| shuuhen kouichi | 周辺コウイチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
