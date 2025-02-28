@@ -13620,6 +13620,7 @@ example:
 | denpa yukkuri | でんぱゆっくり |  |  |
 | nekoshiro memo | 猫代メモ |  |  |
 | yuuto | ゆうと |  |  |
+| mukimoto koko | 剥元ここ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
