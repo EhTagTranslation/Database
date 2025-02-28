@@ -5370,7 +5370,7 @@ example:
 | gon | ごん |  |  |
 | gon heihachi | ゴン平八 |  |  |
 | gonbuto | ごんぶと |  |  |
-| gonta | ゴンタ |  |  |
+| gonta | ゴンタ \| ごんた |  |  |
 | gonza | gonza |  |  |
 | gonzaburo- | ゴンざぶろー |  |  |
 | gorgon | ゴルゴン |  |  |
