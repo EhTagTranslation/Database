@@ -13628,6 +13628,7 @@ example:
 | kuriame kururu | 栗飴くるる |  |  |
 | usanomura kamekichi | 兎ノ村亀吉 |  |  |
 | fujiwara kyosuke | 藤原恭輔 |  |  |
+| kuramoto zen | 倉本膳 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
