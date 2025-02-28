@@ -13621,6 +13621,7 @@ example:
 | nekoshiro memo | 猫代メモ |  |  |
 | yuuto | ゆうと |  |  |
 | mukimoto koko | 剥元ここ |  |  |
+| itou usagi | いとううさぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
