@@ -13622,6 +13622,7 @@ example:
 | yuuto | ゆうと |  |  |
 | mukimoto koko | 剥元ここ |  |  |
 | itou usagi | いとううさぎ |  |  |
+| nakano hitomi | 中埜人見 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
