@@ -13627,6 +13627,7 @@ example:
 | kuba yodomu | 紅端よどむ |  |  |
 | kuriame kururu | 栗飴くるる |  |  |
 | usanomura kamekichi | 兎ノ村亀吉 |  |  |
+| fujiwara kyosuke | 藤原恭輔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
