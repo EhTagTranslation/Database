@@ -13100,6 +13100,7 @@ example:
 | ebiharami | エビハラミ |  |  |
 | shirudakuya | 汁濁屋 |  | [X](https://x.com/youandguy) |
 | uneunesuruzo | うねうねするぞ |  |  |
+| beans mame | ビーンズ豆 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
