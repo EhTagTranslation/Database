@@ -615,7 +615,7 @@ example:
 | ultraman | 奥特曼 |  |  |
 | we bare bears | 咱们裸熊 |  |  |
 | gravity falls | 怪诞小镇 |  |  |
-| karakai jouzu no takagi-san | 擅长捉弄人的高木同学 |  |  |
+| karakai jouzu no takagi-san | 擅长捉弄的高木同学 |  | [萌娘百科](https://zh.moegirl.org.cn/擅长捉弄的高木同学) |
 | goshogun | 战国魔神豪将军 |  |  |
 | plawres sanshiro | 无敌三四郎 |  |  |
 | hime-chans ribbon | 缎带魔法少女 | 百变小姬子 |  |
