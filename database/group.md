@@ -12418,7 +12418,7 @@ example:
 | zuwaigani beam | ズワイガニビーム |  |  |
 | zweidrei | zweidrei |  |  |
 | zyulokuya | 十録屋 |  |  |
-| zyx | ジックス |  |  |
+| zyx | ジックス |  | [HP](http://www.zyx-game.co.jp/) |
 | ajito529 | アジト529 |  |  |
 | miomix | miomix; |  |  |
 | hinobashi seifukukan | 日野橋制服館 |  |  |
