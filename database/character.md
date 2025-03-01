@@ -6231,6 +6231,7 @@ example:
 | masachika kuze | 久世政近 | 《`p:tokidoki bosotto russia-go de dereru tonari no alya-san`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久世政近) |
 | cantarella | 坎特蕾拉 |  |  |
 | phoebe | 菲比 |  |  |
+| chi nishikata | 西片千 |  | [萌娘百科](https://zh.moegirl.org.cn/西片千) [Fandom](https://karakai-jouzu-no-takagi-san.fandom.com/wiki/Chi_Nishikata) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
