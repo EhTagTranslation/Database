@@ -13630,6 +13630,7 @@ example:
 | fujiwara kyosuke | 藤原恭輔 |  |  |
 | kuramoto zen | 倉本膳 |  |  |
 | kozuki kanna | 湖月神無 |  |  |
+| tsurukame mayo | 鶴亀まよ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
