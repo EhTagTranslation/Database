@@ -13103,6 +13103,7 @@ example:
 | beans mame | ビーンズ豆 |  |  |
 | bishojojisan | 美少女おじさん |  |  |
 | yankee ha mama | ヤンキーはママ |  |  |
+| hikarino | ヒカリノ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
