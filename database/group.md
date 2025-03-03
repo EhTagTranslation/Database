@@ -13104,6 +13104,7 @@ example:
 | bishojojisan | 美少女おじさん |  |  |
 | yankee ha mama | ヤンキーはママ |  |  |
 | hikarino | ヒカリノ |  |  |
+| koubou no sabaki | 光芒の裁き |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
