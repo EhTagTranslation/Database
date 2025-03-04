@@ -13632,6 +13632,7 @@ example:
 | kozuki kanna | 湖月神無 |  |  |
 | tsurukame mayo | 鶴亀まよ |  |  |
 | bisho oji | びしょおじ |  |  |
+| mutou shio | 無糖しお |  | [X](https://x.com/mutou_shio) |
 
 <!--TEMPLATE:
 |  |  |  |  |
