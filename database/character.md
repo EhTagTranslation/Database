@@ -6235,6 +6235,7 @@ example:
 | monarch | 君主 | 《碧蓝航线》中的君主，以英王乔治五世级战列舰的废稿设计的战列舰。<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/君主)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/King_George_V-class_battleship_%281939%29)<br>[https://wiki.wargaming.net/en/Ship:Monarch](https://wiki.wargaming.net/en/Ship:Monarch) |
 | principal | 校长(出包王女) | 《出包王女》中主角所在的学校校长 |  |
 | istina | 真理 |  | [萌娘百科](https://zh.moegirl.org.cn/真理%28明日方舟%29#) |
+| otonose kanade | 音乃瀬奏 | 音乃濑奏（日语：音乃瀬奏／おとのせかなでOtonose Kanade）是一名于2023年9月4日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『ReGLOSS』。<br>![](https://img.moegirl.org.cn/common/thumb/c/c2/OtonoseKanadeDebut.jpg/800px-OtonoseKanadeDebut.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音乃濑奏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
