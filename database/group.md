@@ -13105,6 +13105,7 @@ example:
 | yankee ha mama | ヤンキーはママ |  |  |
 | hikarino | ヒカリノ |  |  |
 | koubou no sabaki | 光芒の裁き |  |  |
+| yori manga seisakusho | より漫画制作所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
