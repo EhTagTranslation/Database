@@ -13633,6 +13633,7 @@ example:
 | tsurukame mayo | 鶴亀まよ |  |  |
 | bisho oji | びしょおじ |  |  |
 | mutou shio | 無糖しお |  | [X](https://x.com/mutou_shio) |
+| yori man | よりマン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
