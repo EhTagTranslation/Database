@@ -11481,7 +11481,7 @@ example:
 | xxzero | xxzero |  |  |
 | y | Y |  |  |
 | ya | ヤッ |  |  |
-| yabuki mao | 矢吹マオ |  |  |
+| yabuki mao | 矢吹マオ \| 森下真央 |  |  |
 | yabuno uguisu | やぶのうぐいす |  |  |
 | yaburebouki akuta | 破箒芥 |  |  |
 | yac | YAC |  |  |
