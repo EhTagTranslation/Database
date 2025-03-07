@@ -13634,6 +13634,7 @@ example:
 | bisho oji | びしょおじ |  |  |
 | mutou shio | 無糖しお |  | [X](https://x.com/mutou_shio) |
 | yori man | よりマン |  |  |
+| mochitose aguri | 餅千歳あぐり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
