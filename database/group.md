@@ -13106,6 +13106,7 @@ example:
 | hikarino | ヒカリノ |  |  |
 | koubou no sabaki | 光芒の裁き |  |  |
 | yori manga seisakusho | より漫画制作所 |  |  |
+| gyoza baby | 餃子ベビー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
