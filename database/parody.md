@@ -2402,6 +2402,7 @@ example:
 | mamotte shugogetten | 守护月天 |  | [维基百科](https://zh.wikipedia.org/wiki/守護月天) [萌娘百科](https://zh.moegirl.org.cn/守护月天) |
 | popolocrois | 波波罗古洛伊斯物语 |  | [维基百科](https://zh.wikipedia.org/wiki/波波羅古洛伊斯物語) |
 | jubei-chan | 十兵卫 |  | [维基百科](https://zh.wikipedia.org/wiki/十兵衛) |
+| aharen-san wa hakarenai | 测不准的阿波连同学 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
