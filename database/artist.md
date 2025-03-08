@@ -13636,6 +13636,7 @@ example:
 | yori man | よりマン |  |  |
 | mochitose aguri | 餅千歳あぐり |  |  |
 | ashina mellow | 芦名めろう |  |  |
+| chano | 茶野 |  | [pixiv](https://www.pixiv.net/users/38521) [X](https://x.com/Y_TYago9986) |
 
 <!--TEMPLATE:
 |  |  |  |  |
