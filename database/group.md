@@ -13108,6 +13108,7 @@ example:
 | yori manga seisakusho | より漫画制作所 |  |  |
 | gyoza baby | 餃子ベビー |  |  |
 | nurume no coffee | ぬるめの珈琲 |  |  |
+| jun tokutyu kuromask | 準特注くろますく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
