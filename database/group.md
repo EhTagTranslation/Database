@@ -13109,6 +13109,7 @@ example:
 | gyoza baby | 餃子ベビー |  |  |
 | nurume no coffee | ぬるめの珈琲 |  |  |
 | jun tokutyu kuromask | 準特注くろますく |  |  |
+| kanmigokoro | 甘味心 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
