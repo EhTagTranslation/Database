@@ -13639,6 +13639,7 @@ example:
 | chano | 茶野 |  | [pixiv](https://www.pixiv.net/users/38521) [X](https://x.com/Y_TYago9986) |
 | gan | 雁氷 |  | [X](https://x.com/nicknikg86) [pixiv](https://www.pixiv.net/users/577076) |
 | kuro 5ma | 黒5Ma |  |  |
+| punching namatamago | パンチング生卵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
