@@ -13640,6 +13640,7 @@ example:
 | gan | 雁氷 |  | [X](https://x.com/nicknikg86) [pixiv](https://www.pixiv.net/users/577076) |
 | kuro 5ma | 黒5Ma |  |  |
 | punching namatamago | パンチング生卵 |  |  |
+| gyuusuke | G祐介 | Gユウスケ |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
