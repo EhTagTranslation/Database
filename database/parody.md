@@ -2403,6 +2403,7 @@ example:
 | popolocrois | 波波罗古洛伊斯物语 |  | [维基百科](https://zh.wikipedia.org/wiki/波波羅古洛伊斯物語) |
 | jubei-chan | 十兵卫 |  | [维基百科](https://zh.wikipedia.org/wiki/十兵衛) |
 | aharen-san wa hakarenai | 测不准的阿波连同学 |  |  |
+| dies irae | 末日审判书 -查拉图斯特拉如是说- | Dies irae -Also sprach Zarathustra- |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
