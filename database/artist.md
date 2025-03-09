@@ -6472,7 +6472,7 @@ example:
 | kakugari ani | カクガリ兄 |  |  |
 | kakuka | かくか |  |  |
 | kakutou oukoku | 格闘王国 |  |  |
-| kakuzato yun | 角砂糖ゆん |  |  |
+| kakuzato yun | 角砂糖ゆん \| すがる春 |  |  |
 | kakyouin chiroru | 華京院ちろる |  |  |
 | kamado | かまど |  |  |
 | kamata | かまた |  |  |
