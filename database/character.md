@@ -6237,6 +6237,7 @@ example:
 | istina | 真理 |  | [萌娘百科](https://zh.moegirl.org.cn/真理%28明日方舟%29#) |
 | otonose kanade | 音乃瀬奏 | 音乃濑奏（日语：音乃瀬奏／おとのせかなでOtonose Kanade）是一名于2023年9月4日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『ReGLOSS』。<br>![](https://img.moegirl.org.cn/common/thumb/c/c2/OtonoseKanadeDebut.jpg/800px-OtonoseKanadeDebut.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音乃濑奏) |
 | mayer | 梅尔 | 梅尔，本名梅尔·斯托尼，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/梅尔%28明日方舟%29) |
+| shadowheart | 影心 | 游戏《博德之门3》的起源角色之一 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
