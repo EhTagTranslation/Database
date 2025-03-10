@@ -6239,6 +6239,7 @@ example:
 | mayer | 梅尔 | 梅尔，本名梅尔·斯托尼，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/梅尔%28明日方舟%29) |
 | shadowheart | 影心 | 游戏《博德之门3》的起源角色之一 |  |
 | sena juo | 十王星南 | 十王星南是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/9/99/Imas_gakuen_cidol-jsna-3-000_1-full.png/520px-Imas_gakuen_cidol-jsna-3-000_1-full.png) | [萌娘百科](https://zh.moegirl.org.cn/十王星南) |
+| mainz | 美因茨 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:美因茨) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
