@@ -1545,7 +1545,7 @@ example:
 | little nightmares | 小小噩梦 |  |  |
 | healin good precure | 元气魔法♡光之美少女 | 《元气魔法♡光之美少女》（日语：ヒーリングっど♡プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十七作，第十五代光之美少女。2020年2月2日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/healingood_precure/) |
 | uchi no maid ga uzasugiru | 我家的女仆有够烦！ |  |  |
-| flying witch | 飞翔的魔女 |  |  |
+| flying witch | 飞翔的魔女 |  | [萌娘百科](https://zh.moegirl.org.cn/飞翔的魔女) |
 | mushoku tensei | 无职转生 | ![](https://s2.loli.net/2024/09/14/CqUlgKwTrbxBadk.jpg) |  |
 | tanaka-kun wa itsumo kedaruge | 田中君总是如此慵懒 | 《田中君总是如此慵懒》（日语：田中くんはいつもけだるげ）是由ウダノゾミ创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/田中君总是如此慵懒) |
 | yakusoku no neverland | 约定的梦幻岛 | ![约定的梦幻岛](https://img.moegirl.org.cn/common/thumb/3/33/约定的梦幻岛1_.jpg/300px-约定的梦幻岛1_.jpg)![图](https://ehgt.org/d0/e1/d0e15816deb3baa6abbb38b8bb0c2ebfe51b9cac-256519-768-687-jpg_l.jpg)<br>一个讲述了主角骑着"艾玛"电动车进行"诺曼"底登陆的"雷"人故事（误） | [萌娘百科](https://zh.moegirl.org.cn/约定的梦幻岛) |
