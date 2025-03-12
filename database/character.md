@@ -3265,7 +3265,7 @@ example:
 | diana cavendish | 戴安娜·卡文迪什 | 亚可的同班同学，诞生于英国的名门魔女家系。头脑聪明，拥有高超的魔法能力，被称作露娜诺娃创办以来最优秀的学生。认真且正义感强烈，也因此常与亚可有所冲突实际上是帮忙收烂摊子。 | [萌娘百科](https://zh.moegirl.org.cn/戴安娜·卡文迪什) |
 | eriko kuraishi | 仓石惠理子 | ![惠理子](https://img.moegirl.org.cn/common/thumb/e/ec/Kuraishi_eriko_pc.png/280px-Kuraishi_eriko_pc.png)<br>本名仓石惠理子，隶属于“暮光流星群”，外号“破坏狂”，眼神阴暗，爱做实验，制药天才，能够制造操纵人的药物。虽然是个病娇，但其内心也有温柔的一面。 | [萌娘百科](https://zh.moegirl.org.cn/仓石惠理子) [bilibili游戏](https://wiki.biligame.com/pcr/惠理子) |
 | monkshood | 乌头 | 乌头(Aconite)是网页RPG游戏《美少女花骑士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/美少女花骑士:乌头) |
-| makoto kowata | 木幡真琴 |  |  |
+| makoto kowata | 木幡真琴 | 所属作品: `p:flying witch` | [萌娘百科](https://zh.moegirl.org.cn/木幡真琴) |
 | elaina | 伊蕾娜 |  |  |
 | ganyu | 甘雨 | 甘雨（英语：ganyu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c0/循循守月_甘雨.png) | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
 | jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德（英语：jean gunnhildr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
