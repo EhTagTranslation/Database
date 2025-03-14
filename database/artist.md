@@ -13641,6 +13641,7 @@ example:
 | kuro 5ma | 黒5Ma |  |  |
 | punching namatamago | パンチング生卵 |  |  |
 | gyuusuke | G祐介 | Gユウスケ |  |
+| masutabe shou | 増多部翔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
