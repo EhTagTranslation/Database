@@ -12681,7 +12681,7 @@ example:
 | kii kanna | 紀伊カンナ |  | [X](https://x.com/mioshun0303) |
 | watosu mama | わとす |  | [pixiv](https://www.pixiv.net/users/37774114) [X](https://x.com/watosu_mama) |
 | wodae | ヲダエ |  | [pixiv](https://www.pixiv.net/users/9273205) [X](https://x.com/wodaex) |
-| nagoyaka jirou | なごやか次郎 |  | [X](https://x.com/waterr_na) [pixiv](https://www.pixiv.net/users/10490394) |
+| nagoyaka jirou | なごやか次郎 |  | [X](https://x.com/nago_jiro) [pixiv](https://www.pixiv.net/users/10490394) |
 | kyonta | きょんた | ![](https://i.pixiv.cat/user-profile/img/2021/09/18/23/38/21/21434298_bcf37ff2db0b19044d32724e05889e6b_170.jpg) | [pixiv](https://www.pixiv.net/users/62089628)<br>[X](https://x.com/kyonta1234567) |
 | amakawa gumi | 甘皮ぐみ |  | [pixiv](https://www.pixiv.net/users/87901108) [X](https://x.com/AmaKawa0616) |
 | blvefo9 | blvefo9 |  | [X](https://x.com/blvefo9) [pixiv](https://pixiv.me/blvefo9) |
