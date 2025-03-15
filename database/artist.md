@@ -13642,6 +13642,7 @@ example:
 | punching namatamago | パンチング生卵 |  |  |
 | gyuusuke | G祐介 | Gユウスケ |  |
 | masutabe shou | 増多部翔 |  |  |
+| bekkou kansoku | べっこう観測 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
