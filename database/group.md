@@ -13112,6 +13112,7 @@ example:
 | kanmigokoro | 甘味心 |  |  |
 | tohonifun | 徒歩二分 |  |  |
 | gokunama kinringo | 極生きんりんご |  |  |
+| bekkou kansoku | べっこう観測 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
