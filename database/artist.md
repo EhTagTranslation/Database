@@ -13643,6 +13643,7 @@ example:
 | gyuusuke | G祐介 | Gユウスケ |  |
 | masutabe shou | 増多部翔 |  |  |
 | bekkou kansoku | べっこう観測 |  |  |
+| gyuutan | 牛タン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
