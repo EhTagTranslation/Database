@@ -13645,6 +13645,7 @@ example:
 | bekkou kansoku | べっこう観測 |  |  |
 | gyuutan | 牛タン |  |  |
 | jukkaku komado | 十角小窓 |  | [pixiv](https://www.pixiv.net/users/13771030) |
+| hiraga daidai | 平賀だいだい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
