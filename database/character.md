@@ -6243,6 +6243,7 @@ example:
 | chinatsu kuramoto | 仓本千夏 | 所属作品: `p:flying witch`<br>`c:makoto kowata`的表妹，`c:kei kuramoto`的妹妹。好奇心旺盛又活泼的小学生。 | [萌娘百科](https://zh.moegirl.org.cn/仓本千夏) [Fandom](https://flying-witch.fandom.com/wiki/Chinatsu_Kuramoto) |
 | kei kuramoto | 仓本圭 | 所属作品: `p:flying witch` |  |
 | takeda shingen | 武田信玄（武田晴信） |  |  |
+| serie | 赛丽艾 | 所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
