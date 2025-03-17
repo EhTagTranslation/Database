@@ -12444,7 +12444,7 @@ example:
 | chigusa minori | 千種みのり |  | [X](https://x.com/minori_chigusa) [pixiv](https://www.pixiv.net/users/41106591) |
 | xiaomu | 筱牧 |  | [pixiv](https://www.pixiv.net/users/49984557)<br>[FANBOX](https://xiaomu314.fanbox.cc/) |
 | petra | 佩城 |  | [pixiv](https://www.pixiv.net/users/14303174)<br>[FANBOX](https://petra.fanbox.cc/) |
-| akano murasaki | アカノムラサキ |  | [pixiv](https://www.pixiv.net/artworks/109253307) |
+| akano murasaki | アカノムラサキ |  | [X](https://x.com/6urasakey) [pixiv](https://www.pixiv.net/users/12727563) |
 | wood cube | 小木蹬子 |  | [pixiv](https://www.pixiv.net/users/59046424) |
 | pentagon | ぺんたごん |  | [pixiv](https://www.pixiv.net/users/10950860) [X](https://x.com/RailgunKy) [FANBOX](https://q7k9gorx.fanbox.cc/) |
 | radio sensei | ラジオ先生 |  | [Fantia](https://fantia.jp/fanclubs/132545) [pixiv](https://www.pixiv.net/users/36206) [X](https://x.com/radio9radio) |
