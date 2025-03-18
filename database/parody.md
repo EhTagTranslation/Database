@@ -2404,6 +2404,7 @@ example:
 | jubei-chan | 十兵卫 |  | [维基百科](https://zh.wikipedia.org/wiki/十兵衛) |
 | aharen-san wa hakarenai | 测不准的阿波连同学 |  |  |
 | dies irae | 末日审判书 -查拉图斯特拉如是说- | Dies irae -Also sprach Zarathustra- |  |
+| seven of seven | 七人之奈奈 |  | [萌娘百科](https://zh.moegirl.org.cn/七人之奈奈) [维基百科](https://zh.wikipedia.org/wiki/七小花) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
