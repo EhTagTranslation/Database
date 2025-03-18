@@ -6246,6 +6246,7 @@ example:
 | serie | 赛丽艾 | 所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
 | sousuke aizen | 蓝染惣右介 | 所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/蓝染惣右介) |
 | francesca lucchini | 弗兰西斯卡·鲁奇尼 | 所属作品: `p:brave witches` | [萌娘百科](https://zh.moegirl.org.cn/弗兰西斯卡·鲁奇尼) [Fandom](https://worldwitches.fandom.com/wiki/Francesca_Lucchini) |
+| rover | 漂泊者 | 所属作品: `p:wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
