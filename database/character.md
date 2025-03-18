@@ -6248,6 +6248,7 @@ example:
 | francesca lucchini | 弗兰西斯卡·鲁奇尼 | 所属作品: `p:brave witches` | [萌娘百科](https://zh.moegirl.org.cn/弗兰西斯卡·鲁奇尼) [Fandom](https://worldwitches.fandom.com/wiki/Francesca_Lucchini) |
 | rover | 漂泊者 | 所属作品: `p:wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
 | ascalon | 阿斯卡纶 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
+| ling | 令 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/令%28明日方舟%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
