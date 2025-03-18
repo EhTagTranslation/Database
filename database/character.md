@@ -6244,6 +6244,7 @@ example:
 | kei kuramoto | 仓本圭 | 所属作品: `p:flying witch` |  |
 | takeda shingen | 武田信玄（武田晴信） |  |  |
 | serie | 赛丽艾 | 所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
+| sousuke aizen | 蓝染惣右介 | 所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/蓝染惣右介) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
