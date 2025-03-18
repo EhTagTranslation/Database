@@ -6245,6 +6245,7 @@ example:
 | takeda shingen | 武田信玄（武田晴信） |  |  |
 | serie | 赛丽艾 | 所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
 | sousuke aizen | 蓝染惣右介 | 所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/蓝染惣右介) |
+| francesca lucchini | 弗兰西斯卡·鲁奇尼 | 所属作品: `p:brave witches` | [萌娘百科](https://zh.moegirl.org.cn/弗兰西斯卡·鲁奇尼) [Fandom](https://worldwitches.fandom.com/wiki/Francesca_Lucchini) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
