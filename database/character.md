@@ -6249,6 +6249,7 @@ example:
 | rover | 漂泊者 | 所属作品: `p:wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
 | ascalon | 阿斯卡纶 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
 | ling | 令 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/令%28明日方舟%29) |
+| gladiia | 歌蕾蒂娅 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/歌蕾蒂娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
