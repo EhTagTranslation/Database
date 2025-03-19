@@ -2990,7 +2990,7 @@ example:
 | belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 |  |  |
 | hibiki tsukahara | 冢原响 |  |  |
 | junichi tachibana | 橘纯一 |  |  |
-| mafuyu kirisu | 桐须真冬 |  |  |
+| mafuyu kirisu | 桐须真冬 |  | [萌娘百科](https://zh.moegirl.org.cn/桐须真冬) |
 | nariyuki yuiga | 唯我成幸 |  |  |
 | alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《`sword art online`》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7a/Alice9.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·滋贝鲁库) |
 | selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小说《`sword art online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛鲁卡·滋贝鲁库) |
