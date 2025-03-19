@@ -981,7 +981,7 @@ example:
 | soredemo machi wa mawatteiru | 女仆咖啡厅 | 纵然如此小镇仍在转动 |  |
 | happy tree friends | 欢乐树的朋友们 |  |  |
 | kare kano | 他和她的事情 | 男女跷跷板 |  |
-| spongebob squarepants | 海绵宝宝 |  |  |
+| spongebob squarepants | 海绵宝宝 |  | [维基百科](https://zh.wikipedia.org/wiki/海綿寶寶) [萌娘百科](https://zh.moegirl.org.cn/海绵宝宝) |
 | wizard of oz | 绿野仙踪 |  |  |
 | cream lemon | 乳霜柠檬 | 《Cream Lemon》（日语：くりいむレモン，译作“奶油柠檬”“奶霜柠檬”或“乳霜柠檬”），是一日本成人动画系列。Cream Lemon被认为是日本成人动画的先驱。该系列始于1984年发行的原创动画录像带（OVA），有复数个故事，涵盖了许多不同的类型，如幻想、科幻和恐怖，但故事性不强。首要主题是各种类型的性爱，常出现荒谬的性行为。 | [维基百科](https://zh.wikipedia.org/wiki/乳霜柠檬) |
 | dream c club | 梦幻俱乐部 |  |  |
