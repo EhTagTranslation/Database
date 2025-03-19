@@ -2406,6 +2406,7 @@ example:
 | dies irae | 末日审判书 -查拉图斯特拉如是说- | Dies irae -Also sprach Zarathustra- |  |
 | seven of seven | 七人之奈奈 |  | [萌娘百科](https://zh.moegirl.org.cn/七人之奈奈) [维基百科](https://zh.wikipedia.org/wiki/七小花) |
 | futari ecchi | 夫妻成长日记 | 男主小野田真通过相亲结识她的妻子小野田优良，故事则围绕这对新婚夫妻和他们的邻居、亲人的日常生活和性生活展开。 | [维基百科](https://zh.wikipedia.org/wiki/夫妻成長日記) [萌娘百科](https://zh.moegirl.org.cn/夫妻成长日记) |
+| jutaijima | 受胎岛 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/受胎島) [Fandom](https://limho.fandom.com/zh/wiki/受胎岛) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
