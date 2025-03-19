@@ -6250,6 +6250,7 @@ example:
 | ascalon | 阿斯卡纶 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
 | ling | 令 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/令%28明日方舟%29) |
 | gladiia | 歌蕾蒂娅 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/歌蕾蒂娅) |
+| spongebob squarepants | 海绵宝宝 |  | [萌娘百科](https://zh.moegirl.org.cn/海绵宝宝%28角色%29) [维基百科](https://zh.wikipedia.org/wiki/海绵宝宝_%28角色%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
