@@ -10763,7 +10763,7 @@ example:
 | tatsuneko | たつねこ |  |  |
 | tatsunosuke yukiya | 逹之介ユキヤ |  |  |
 | tatsuoka miyoshi | 龍岡巳葦 |  |  |
-| tatsuya | 立つ屋 |  | [pixiv](https://www.pixiv.net/users/97717527) |
+| tatsuya | 立つ屋 | 该标签为立つ屋与tatsuya共用 | [立つ屋/pixiv](https://www.pixiv.net/users/97717527) [立つ屋/twitter](https://x.com/s6pillars) [tatsuya/pixiv](https://www.pixiv.net/artworks/128174460) [tatsuya/twitter](https://x.com/guild_tatsuya) |
 | tatunokosso | タツノコッソ |  |  |
 | tau | tau |  |  |
 | tavor | Tavor |  |  |
