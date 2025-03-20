@@ -6261,6 +6261,7 @@ example:
 | keiichi maebara | 前原圭一 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/前原圭一) |
 | sasaki | 佐佐木 | 所属作品: `p:the melancholy of haruhi suzumiya`<br><br>在《凉宫春日的分裂》中正式登场，是阿虚国三时的挚友，被古泉认为是「十人看到有八个会迷上她的『有魅力的女性』」。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木%28凉宫春日系列%29) |
 | chiaki motomiya | 元宫千秋 |  | [萌娘百科](https://zh.moegirl.org.cn/元宫千秋) [Fandom](https://bluearchive.fandom.com/wiki/Motomiya_Chiaki) |
+| louisville | 路易斯维尔 | 原型为路易斯维尔号条约型重巡洋舰（CA-28）<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/路易斯维尔)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Louisville_%28CA-28%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
