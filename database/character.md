@@ -6253,6 +6253,9 @@ example:
 | spongebob squarepants | 海绵宝宝 |  | [萌娘百科](https://zh.moegirl.org.cn/海绵宝宝%28角色%29) [维基百科](https://zh.wikipedia.org/wiki/海绵宝宝_%28角色%29) |
 | queen grimhilde | 邪恶皇后 |  | [Fandom](https://disney.fandom.com/zh/wiki/邪惡皇后) [维基百科（英语）](https://en.wikipedia.org/wiki/Evil_Queen_%28Disney%29) |
 | rena ryuuguu | 龙宫礼奈 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/龙宫礼奈) |
+| miyo takano | 鹰野三四 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/鹰野三四) |
+| mion sonozaki | 园崎魅音 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/园崎魅音) |
+| hanyuu | 羽入 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/羽入) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
