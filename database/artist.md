@@ -13654,6 +13654,7 @@ example:
 | fractal underground studio | Fractal Underground Studio |  |  |
 | lokulo no mawasimono | ろくろの回し者 |  | [pixiv](https://www.pixiv.net/users/44843763) [X](https://x.com/medexiti2000) |
 | juanha | 卷哈 |  | [pixiv](https://www.pixiv.net/users/37709544) [X](https://x.com/Juanha666) |
+| ryukishi07 | 龙骑士07 |  | [萌娘百科](https://zh.moegirl.org.cn/龙骑士07) [维基百科](https://zh.wikipedia.org/wiki/龍騎士07) |
 
 <!--TEMPLATE:
 |  |  |  |  |
