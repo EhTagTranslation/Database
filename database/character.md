@@ -3223,7 +3223,7 @@ example:
 | barbara gordon | 芭芭拉·戈登 |  | [百度百科](https://baike.baidu.com/item/芭芭拉·戈登) |
 | blackfire | 黑火 |  | [百度百科](https://baike.baidu.com/item/黑火/22077069) |
 | bruce wayne | 布鲁斯·韦恩 |  | [百度百科](https://baike.baidu.com/item/布鲁斯·韦恩/9892496) |
-| jinx | 金克斯 |  |  |
+| jinx | 金克丝 | 金克丝是网络游戏《英雄联盟》登场英雄 | [萌娘百科](https://zh.moegirl.org.cn/金克丝) |
 | lex luthor | 莱克斯·卢瑟 |  |  |
 | poison ivy | 毒藤女 |  |  |
 | raven | 渡鸦 |  | [百度百科](https://baike.baidu.com/item/渡鸦/19910624) |
