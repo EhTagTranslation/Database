@@ -6256,6 +6256,7 @@ example:
 | miyo takano | 鹰野三四 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/鹰野三四) |
 | mion sonozaki | 园崎魅音 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/园崎魅音) |
 | hanyuu | 羽入 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/羽入) |
+| shion sonozaki | 园崎诗音 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/园崎诗音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
