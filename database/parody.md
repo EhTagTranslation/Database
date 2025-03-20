@@ -2409,6 +2409,7 @@ example:
 | jutaijima | 受胎岛 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/受胎島) [Fandom](https://limho.fandom.com/zh/wiki/受胎岛) |
 | sengoku basara | 战国BASARA |  | [维基百科](https://zh.wikipedia.org/wiki/戰國BASARA系列) [维基百科（英语）](https://en.wikipedia.org/wiki/Devil_Kings) |
 | mobile suit gundam hathaways flash | 机动战士高达 闪光的哈萨维 |  | [维基百科](https://zh.wikipedia.org/wiki/机动战士GUNDAM_闪光的哈萨维) [萌娘百科](https://zh.moegirl.org.cn/机动战士高达_闪光的哈萨维) |
+| tales of destiny 2 | 宿命传说2 |  | [维基百科](https://zh.wikipedia.org/wiki/命運傳奇2) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
