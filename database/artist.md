@@ -13652,6 +13652,7 @@ example:
 | owari ningen | おわりにんげん |  |  |
 | 2l cola | 2L可乐 |  | [pixiv](https://www.pixiv.net/users/20488958) |
 | fractal underground studio | Fractal Underground Studio |  |  |
+| lokulo no mawasimono | ろくろの回し者 |  | [pixiv](https://www.pixiv.net/users/44843763) [X](https://x.com/medexiti2000) |
 
 <!--TEMPLATE:
 |  |  |  |  |
