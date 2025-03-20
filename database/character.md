@@ -5658,7 +5658,7 @@ example:
 | andreana | 安哲拉 | 明日方舟五星神射手 | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
 | degenbrecher | 锏 | 明日方舟六星剑豪 | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
 | saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
-| pekoras mother | 佩克拉妈妈 |  |  |
+| pekoras mother | 佩克拉妈咪 | `c:usada pekora`的现实中的母亲，2024年4月1日作为愚人节企划正式出道。 | [Fandom](https://omniversal-battlefield.fandom.com/wiki/Pekomama) |
 | unzen | 云仙 | 1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
 | mualani | 玛拉妮 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛拉妮) |
 | shiori fujisaki | 藤崎诗织 |  |  |
