@@ -6257,6 +6257,7 @@ example:
 | mion sonozaki | 园崎魅音 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/园崎魅音) |
 | hanyuu | 羽入 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/羽入) |
 | shion sonozaki | 园崎诗音 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/园崎诗音) |
+| satoshi houjou | 北条悟史 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/北条悟史) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
