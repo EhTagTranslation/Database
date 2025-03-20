@@ -2065,7 +2065,7 @@ example:
 | emiri kimidori | 喜绿江美里 |  |  |
 | mikuru asahina | 朝比奈实玖瑠 |  |  |
 | ryoko asakura | 朝仓凉子 |  |  |
-| tsuruya | 鹤屋 |  |  |
+| tsuruya | 鹤屋 | 所属作品: `p:the melancholy of haruhi suzumiya` | [萌娘百科](https://zh.moegirl.org.cn/鹤屋) |
 | yuki nagato | 长门有希 |  |  |
 | itsuki koizumi | 古泉一树 |  |  |
 | kunikida | 国木田 |  |  |
