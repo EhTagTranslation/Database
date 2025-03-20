@@ -2271,7 +2271,7 @@ example:
 | 101 dalmatians | 101忠狗 |  | [萌娘百科](https://zh.moegirl.org.cn/101忠狗) |
 | helluva boss | 极恶老大 | 《极恶老大》（英语：Helluva Boss）是由薇薇安•梅德拉诺主创、纺锤之马工作室制作的歌舞喜剧动画。 | [萌娘百科](https://zh.moegirl.org.cn/极恶老大) |
 | power pack | 超能小队 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pack) |
-| the amazing digital circus | 神奇数字马戏团 |  |  |
+| the amazing digital circus | 神奇数字马戏团 | 《神奇数字马戏团》是一部电脑动画黑色喜剧网络剧集。该系列于2023年10月13日首播在GLITCH的YouTube频道上。该作品受到了普遍好评，并成为该频道在YouTube上最多观看的影片，并在两个月内累积超过2亿次观看。短片还获得了安妮奖提名。 | [维基百科](https://zh.wikipedia.org/wiki/驚奇數位馬戲團) |
 | night shift nurses | 夜勤病栋 | 由Mink公司从1999年12月22日开始制作发售的日本成人游戏，主要描叙发生在医院里关于里面护士的鬼畜调教的故事。<br>除了电脑游戏外，另有OVA版本的发行。Mink解散后改由FG REMAKE于2024年2月22日发售重制版《夜勤病栋Remake》。 |  |
 | library of ruina | 废墟图书馆 | 《废墟图书馆》（英文：Library of Ruina）是由Project Moon制作并发行的一款以“图书馆战斗模拟”为概念的模拟策略卡牌游戏。 | [萌娘百科](https://zh.moegirl.org.cn/废墟图书馆)<br>[维基百科](https://zh.wikipedia.org/wiki/廢墟圖書館) |
 | dark gathering | 黑暗集会 |  |  |
