@@ -6271,6 +6271,7 @@ example:
 | yuu kotegawa | 古手川游 | `yui kotegawa`的哥哥。登场时为19岁。 | [百度百科](https://baike.baidu.com/item/古手川游) [维基百科](https://zh.wikipedia.org/wiki/出包王女角色列表#古手川家) [Fandom](https://toloveru.fandom.com/wiki/Kotegawa_Yū) |
 | mikuru natsuki | 夏树实玖瑠 | 所属作品: `p:aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/夏树实玖瑠) |
 | michiko tanaka | 田中满子 |  | [萌娘百科](https://zh.moegirl.org.cn/田中满子) [Fandom](https://mahoako.fandom.com/wiki/Tanaka_Michiko) |
+| ichigo morino | 森野莓 | 所属作品: `p:onegai teacher` | [百度百科](https://baike.baidu.com/item/森野莓) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
