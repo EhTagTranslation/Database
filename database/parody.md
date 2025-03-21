@@ -2415,6 +2415,7 @@ example:
 | triton of the sea | 小飞龙 | 海王子 | [维基百科](https://zh.wikipedia.org/wiki/海王子) |
 | getter robo | 盖塔机器人 |  | [维基百科](https://zh.wikipedia.org/wiki/蓋特機器人) [萌娘百科](https://zh.moegirl.org.cn/盖塔机器人列传) |
 | muteki koujin daitarn 3 | 无敌钢人泰坦3 | 《无敌钢人泰坦3》（日语：無敵鋼人ダイターン3）是日本日昇（现称日昇动画）制作的日本的机器人动画。在1978年于名古屋电视台放映。 | [维基百科](https://zh.wikipedia.org/wiki/无敌钢人泰坦3) |
+| mobile suit gundam gquuuuuux | 机动战士高达：跨时之战 |  | [维基百科](https://zh.wikipedia.org/wiki/機動戰士Gundam_GQuuuuuuX) [萌娘百科](https://zh.moegirl.org.cn/机动战士高达_GQuuuuuuX) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
