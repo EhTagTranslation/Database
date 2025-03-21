@@ -2431,7 +2431,7 @@ example:
 | giuniu | ぎうにう | ![ぎうにう](https://i.pixiv.cat/user-profile/img/2014/08/20/01/34/30/8288195_4f79cd90fce0c2abde7413133e7bf88b_170.jpg)<br><br>![２コマなアホちゃん](https://i.pixiv.cat/img-original/img/2018/08/11/03/36/09/70135294_p0.png) | [画师推特](https://x.com/g1un1u) [pixiv](https://www.pixiv.net/users/265292) |
 | sabusuka | サブスカ | MUJINCOMICS作者 | [画师推特](https://x.com/sabusuka) [pixiv](https://www.pixiv.net/users/13316) |
 | senji | 煎路 |  |  |
-| komowata haruka | こもわた遥華 |  |  |
+| komowata haruka | 菰绵遥华 | 代表作品为柚子社的Noble☆works之后所有作品的SD原画和Eternal的辉光翼战记系列的SD原画。 | [萌娘百科](https://zh.moegirl.org.cn/菰绵遥华) |
 | murakami suigun | 村上水军 |  |  |
 | takanae kyourin | 高苗京鈴 |  |  |
 | shirabe shiki | 調四季 |  |  |
