@@ -2414,6 +2414,7 @@ example:
 | project a-ko | A子计划 | 《A子计划》（日语：プロジェクトA子）是1986年日本动作喜剧科幻动画电影。故事讲述一个红发水手服少女摩神英子（A子）从高中校园到外太空的奇妙冒险。 | [维基百科](https://zh.wikipedia.org/wiki/A子计划) |
 | triton of the sea | 小飞龙 | 海王子 | [维基百科](https://zh.wikipedia.org/wiki/海王子) |
 | getter robo | 盖塔机器人 |  | [维基百科](https://zh.wikipedia.org/wiki/蓋特機器人) [萌娘百科](https://zh.moegirl.org.cn/盖塔机器人列传) |
+| muteki koujin daitarn 3 | 无敌钢人泰坦3 | 《无敌钢人泰坦3》（日语：無敵鋼人ダイターン3）是日本日昇（现称日昇动画）制作的日本的机器人动画。在1978年于名古屋电视台放映。 | [维基百科](https://zh.wikipedia.org/wiki/无敌钢人泰坦3) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
