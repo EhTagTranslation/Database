@@ -2412,6 +2412,7 @@ example:
 | tales of destiny 2 | 宿命传说2 |  | [维基百科](https://zh.wikipedia.org/wiki/命運傳奇2) |
 | sound voltex | 音律炫动 | SOUND VOLTEX | [萌娘百科](https://zh.moegirl.org.cn/SOUND_VOLTEX) [维基百科](https://zh.wikipedia.org/wiki/SOUND_VOLTEX) |
 | project a-ko | A子计划 | 《A子计划》（日语：プロジェクトA子）是1986年日本动作喜剧科幻动画电影。故事讲述一个红发水手服少女摩神英子（A子）从高中校园到外太空的奇妙冒险。 | [维基百科](https://zh.wikipedia.org/wiki/A子计划) |
+| triton of the sea | 小飞龙 | 海王子 | [维基百科](https://zh.wikipedia.org/wiki/海王子) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
