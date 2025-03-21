@@ -2420,6 +2420,7 @@ example:
 | green akizora no screen | GREEN ～秋空的Screen～ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/GREEN_〜秋空のスクリーン〜) [vndb](https://vndb.org/v973) |
 | patlabor | 机动警察 |  | [维基百科](https://zh.wikipedia.org/wiki/機動警察) [萌娘百科](https://zh.moegirl.org.cn/机动警察) |
 | vampire master dark crimson | 暗夜吸血鬼 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Vampire_Master_Dark_Crimson) |
+| sumomomo momomo | 地上最强新娘 |  | [维基百科](https://zh.wikipedia.org/wiki/地上最强新娘) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
