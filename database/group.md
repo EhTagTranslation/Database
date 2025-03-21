@@ -13113,6 +13113,7 @@ example:
 | tohonifun | 徒歩二分 |  |  |
 | gokunama kinringo | 極生きんりんご |  |  |
 | bekkou kansoku | べっこう観測 |  |  |
+| yaseuma lo-ru | やせうまロール |  | [HP](https://www.yaseuma-loru.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
