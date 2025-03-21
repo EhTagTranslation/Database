@@ -2418,6 +2418,7 @@ example:
 | mobile suit gundam gquuuuuux | 机动战士高达：跨时之战 |  | [维基百科](https://zh.wikipedia.org/wiki/機動戰士Gundam_GQuuuuuuX) [萌娘百科](https://zh.moegirl.org.cn/机动战士高达_GQuuuuuuX) |
 | lovers koi ni ochitara... | LOVERS～恋に落ちたら・・・～ | 《LOVERS ～当坠入爱河时…～》（ラヴァーズ ～こいにおちたら…～）是由Jellyfish于2003年10月10日发售的一款18禁恋爱动画冒险游戏。本作是Jellyfish曾以旧名海月制作所发行并广受好评的《Love Escalator》的重制版。 | [vndb](https://vndb.org/v549) [维基百科（日语）](https://ja.wikipedia.org/wiki/ラブ・エスカレーター#LOVERS_〜恋に落ちたら…〜) |
 | green akizora no screen | GREEN ～秋空的Screen～ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/GREEN_〜秋空のスクリーン〜) [vndb](https://vndb.org/v973) |
+| patlabor | 机动警察 |  | [维基百科](https://zh.wikipedia.org/wiki/機動警察) [萌娘百科](https://zh.moegirl.org.cn/机动警察) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
