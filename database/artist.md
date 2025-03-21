@@ -13658,6 +13658,7 @@ example:
 | setsuna rin | 刹那凛 |  | [pixiv](https://www.pixiv.net/users/4827657) [X](https://x.com/SR_okunonuko) |
 | hr555 | 666（hr555） |  | [pixiv](https://www.pixiv.net/users/74353944) |
 | tksn | つくすん |  | [pixiv](https://www.pixiv.net/users/94138) [X](https://x.com/tksn01) |
+| akaishizawa takashi | 赤石沢贵士 |  | [X](https://x.com/akaishizawa711) |
 
 <!--TEMPLATE:
 |  |  |  |  |
