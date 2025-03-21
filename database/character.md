@@ -6264,6 +6264,8 @@ example:
 | louisville | 路易斯维尔 | 原型为路易斯维尔号条约型重巡洋舰（CA-28）<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/路易斯维尔)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Louisville_%28CA-28%29) |
 | prinz heinrich | 海恩里希亲王 | 原型为德意志帝国海军P级装甲舰海因里希亲王号<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海因里希亲王)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/SMS_Prinz_Heinrich) |
 | tsumugi shinonome | 东云纺 |  | [萌娘百科](https://zh.moegirl.org.cn/东云纺) |
+| mia kashiwagi | 柏木美亚 |  | [萌娘百科](https://zh.moegirl.org.cn/柏木美亚) |
+| chinatsu hinata | 日向千夏 |  | [萌娘百科](https://zh.moegirl.org.cn/日向千夏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
