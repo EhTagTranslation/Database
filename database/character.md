@@ -6263,6 +6263,7 @@ example:
 | chiaki motomiya | 元宫千秋 |  | [萌娘百科](https://zh.moegirl.org.cn/元宫千秋) [Fandom](https://bluearchive.fandom.com/wiki/Motomiya_Chiaki) |
 | louisville | 路易斯维尔 | 原型为路易斯维尔号条约型重巡洋舰（CA-28）<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/路易斯维尔)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Louisville_%28CA-28%29) |
 | prinz heinrich | 海恩里希亲王 | 原型为德意志帝国海军P级装甲舰海因里希亲王号<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海因里希亲王)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/SMS_Prinz_Heinrich) |
+| tsumugi shinonome | 东云纺 |  | [萌娘百科](https://zh.moegirl.org.cn/东云纺) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
