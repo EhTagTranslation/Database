@@ -13656,6 +13656,7 @@ example:
 | juanha | 卷哈 |  | [pixiv](https://www.pixiv.net/users/37709544) [X](https://x.com/Juanha666) |
 | ryukishi07 | 龙骑士07 |  | [萌娘百科](https://zh.moegirl.org.cn/龙骑士07) [维基百科](https://zh.wikipedia.org/wiki/龍騎士07) |
 | setsuna rin | 刹那凛 |  | [pixiv](https://www.pixiv.net/users/4827657) [X](https://x.com/SR_okunonuko) |
+| hr555 | 666（hr555） |  | [pixiv](https://www.pixiv.net/users/74353944) |
 
 <!--TEMPLATE:
 |  |  |  |  |
