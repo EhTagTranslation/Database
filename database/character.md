@@ -6269,6 +6269,7 @@ example:
 | kaguya hoshikawa | 星河辉耶 | 所属作品: `c:amane tanikaze` | [萌娘百科](https://zh.moegirl.org.cn/星河辉耶) |
 | kurumi kohibari | 小云雀来海 | 所属作品: `p:tenshi souzou re-boot` | [萌娘百科](https://zh.moegirl.org.cn/小云雀来海) |
 | yuu kotegawa | 古手川游 | `yui kotegawa`的哥哥。登场时为19岁。 | [百度百科](https://baike.baidu.com/item/古手川游) [维基百科](https://zh.wikipedia.org/wiki/出包王女角色列表#古手川家) [Fandom](https://toloveru.fandom.com/wiki/Kotegawa_Yū) |
+| mikuru natsuki | 夏树实玖瑠 | 所属作品: `p:aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/夏树实玖瑠) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
