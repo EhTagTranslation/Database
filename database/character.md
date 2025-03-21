@@ -6267,6 +6267,7 @@ example:
 | mia kashiwagi | 柏木美亚 |  | [萌娘百科](https://zh.moegirl.org.cn/柏木美亚) |
 | chinatsu hinata | 日向千夏 |  | [萌娘百科](https://zh.moegirl.org.cn/日向千夏) |
 | kaguya hoshikawa | 星河辉耶 | 所属作品: `c:amane tanikaze` | [萌娘百科](https://zh.moegirl.org.cn/星河辉耶) |
+| kurumi kohibari | 小云雀来海 | 所属作品: `p:tenshi souzou re-boot` | [萌娘百科](https://zh.moegirl.org.cn/小云雀来海) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
