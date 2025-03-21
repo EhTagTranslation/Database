@@ -1649,7 +1649,7 @@ example:
 | sasagawa iko | 佐々川いこ |  |  |
 | wancho | わんちょ |  |  |
 | kajishima masaki | 梶岛正树 | 梶岛正树（1962年3月15日－）是冈山县出身的动画师、角色设定和动画原作者。 | [维基百科](https://zh.wikipedia.org/wiki/梶島正樹) (\*) |
-| muririn | 梦璃凛 | 梦璃凛（むりりん）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的小舞一画风极其相似（柚子脸元凶）。 | [X](https://x.com/muriitame) |
+| muririn | 梦璃凛 | 梦璃凛（むりりん）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的小舞一画风极其相似（柚子脸元凶）。 | [X](https://x.com/muriitame) [萌娘百科](https://zh.moegirl.org.cn/梦璃凛) |
 | lilithlauda | リリスラウダ | 漫画家。作品以`lolicon`为主。<br>![图](# "https://ehgt.org/5f/9e/5f9ee0b28b9750e7fe8c5e7afbfb2424fc049f96-1435902-1714-2462-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/4957) [个人网站](http://llauda.sakura.ne.jp/) |
 | miyase mahiro | 宮瀬まひろ |  |  |
 | tajima yuki | 田岛有纪 |  |  |
