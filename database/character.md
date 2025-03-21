@@ -6266,6 +6266,7 @@ example:
 | tsumugi shinonome | 东云纺 |  | [萌娘百科](https://zh.moegirl.org.cn/东云纺) |
 | mia kashiwagi | 柏木美亚 |  | [萌娘百科](https://zh.moegirl.org.cn/柏木美亚) |
 | chinatsu hinata | 日向千夏 |  | [萌娘百科](https://zh.moegirl.org.cn/日向千夏) |
+| kaguya hoshikawa | 星河辉耶 | 所属作品: `c:amane tanikaze` | [萌娘百科](https://zh.moegirl.org.cn/星河辉耶) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
