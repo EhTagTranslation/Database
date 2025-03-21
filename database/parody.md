@@ -1033,7 +1033,7 @@ example:
 | viper gts | 蝰蛇GTS |  |  |
 | dragon age | 龙腾世纪 |  |  |
 | nyan koi | 猫愿三角恋 |  |  |
-| another lady innocent | Front Innocent | Another Lady Innocent (フロントイノセント Front Innocent) is the title of a hentai anime directed by Satoshi Urushihara in 2004, based on his artbook Lady Innocent and was released in Japan under the title Front Innocent. |  |
+| another lady innocent | Front Innocent |  | [Bangumi](https://bgm.tv/subject/3206) [维基百科（日语）](https://ja.wikipedia.org/wiki/フロントイノセント) |
 | historys strongest disciple kenichi | 史上最强弟子兼一 |  |  |
 | growlanser | 梦幻骑士 |  |  |
 | kono bijutsubu ni wa mondai ga aru | 这个美术社大有问题！ | 《这个美术社大有问题！》（日语：この美術部には問題がある！）是由いみぎむる创作的一部漫画，并有动画等衍生作品。 |  |
