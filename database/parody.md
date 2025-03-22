@@ -2421,6 +2421,7 @@ example:
 | patlabor | 机动警察 |  | [维基百科](https://zh.wikipedia.org/wiki/機動警察) [萌娘百科](https://zh.moegirl.org.cn/机动警察) |
 | vampire master dark crimson | 暗夜吸血鬼 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Vampire_Master_Dark_Crimson) |
 | sumomomo momomo | 地上最强新娘 |  | [维基百科](https://zh.wikipedia.org/wiki/地上最强新娘) |
+| criminal girls | 罪恶少女 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/クリミナルガールズ) [Steam](https://store.steampowered.com/app/409850/Criminal_Girls_Invite_Only/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
