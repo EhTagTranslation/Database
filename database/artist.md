@@ -13666,6 +13666,7 @@ example:
 | minamax | みなまっくす |  |  |
 | nawofu | ナヲフ |  |  |
 | negito ron | 葱戸ロン |  |  |
+| ojou | オジョウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
