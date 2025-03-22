@@ -13664,6 +13664,7 @@ example:
 | manakano sashi | 真中野さし |  |  |
 | moyanosuke | もやのすけ |  |  |
 | minamax | みなまっくす |  |  |
+| nawofu | ナヲフ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
