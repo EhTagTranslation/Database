@@ -13660,6 +13660,7 @@ example:
 | tksn | つくすん |  | [pixiv](https://www.pixiv.net/users/94138) [X](https://x.com/tksn01) |
 | akaishizawa takashi | 赤石沢贵士 |  | [X](https://x.com/akaishizawa711) |
 | muchimuchi chamuchi | 無知無知ちゃむち |  | [X](https://x.com/muchmuch111) |
+| machida poyo | 町田ぽよ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
