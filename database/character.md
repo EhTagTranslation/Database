@@ -680,7 +680,7 @@ example:
 | minami nitta | 新田美波 |  |  |
 |  | 水野翠 |  |  |
 |  | 冈崎泰叶 |  |  |
-| kanade hayami | 速水奏 |  |  |
+| kanade hayami | 速水奏 | 速水奏（日语：速水（はやみ） 奏（かなで））是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的神秘偶像。 | [萌娘百科](https://zh.moegirl.org.cn/速水奏) |
 | izumi ohishi | 大石泉 |  |  |
 | chizuru matsuo | 松尾千鹤 |  |  |
 | arisu tachibana | 橘爱丽丝 |  |  |
