@@ -13661,6 +13661,7 @@ example:
 | akaishizawa takashi | 赤石沢贵士 |  | [X](https://x.com/akaishizawa711) |
 | muchimuchi chamuchi | 無知無知ちゃむち |  | [X](https://x.com/muchmuch111) |
 | machida poyo | 町田ぽよ |  |  |
+| manakano sashi | 真中野さし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
