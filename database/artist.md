@@ -13667,6 +13667,7 @@ example:
 | nawofu | ナヲフ |  |  |
 | negito ron | 葱戸ロン |  |  |
 | ojou | オジョウ |  |  |
+| romupi | ROMUPI |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
