@@ -13663,6 +13663,7 @@ example:
 | machida poyo | 町田ぽよ |  |  |
 | manakano sashi | 真中野さし |  |  |
 | moyanosuke | もやのすけ |  |  |
+| minamax | みなまっくす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
