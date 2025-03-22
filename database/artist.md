@@ -13662,6 +13662,7 @@ example:
 | muchimuchi chamuchi | 無知無知ちゃむち |  | [X](https://x.com/muchmuch111) |
 | machida poyo | 町田ぽよ |  |  |
 | manakano sashi | 真中野さし |  |  |
+| moyanosuke | もやのすけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
