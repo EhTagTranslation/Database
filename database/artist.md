@@ -13665,6 +13665,7 @@ example:
 | moyanosuke | もやのすけ |  |  |
 | minamax | みなまっくす |  |  |
 | nawofu | ナヲフ |  |  |
+| negito ron | 葱戸ロン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
