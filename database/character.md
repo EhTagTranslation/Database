@@ -6276,6 +6276,7 @@ example:
 | nyamu yutenji | 祐天寺若麦 | 祐天寺若麦（日语：祐天寺（ゆうてんじ） にゃむ）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/祐天寺若麦) |
 | clay | 克雷伊 |  |  |
 | mabayu aki | 爱生眩 | 爱生眩是动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》篇章《魔法少女小圆 Scene0》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱生眩) |
+| junko kaname | 鹿目询子 | 鹿目询子（日语：鹿目（かなめ）詢子（じゅんこ））是动画《魔法少女小圆》系列及其衍生作品的登场角色。<br><br>鹿目圆的母亲。 | [萌娘百科](https://zh.moegirl.org.cn/鹿目询子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
