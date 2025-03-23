@@ -2424,6 +2424,7 @@ example:
 | criminal girls | 罪恶少女 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/クリミナルガールズ) [Steam](https://store.steampowered.com/app/409850/Criminal_Girls_Invite_Only/) |
 | michiko to hatchin | 道子与哈金 |  | [维基百科](https://zh.wikipedia.org/wiki/道子與哈金) |
 | kemeko deluxe | 钢铁新娘 |  | [维基百科](https://zh.wikipedia.org/wiki/钢铁新娘) |
+| super gals | 辣妹当家 |  | [维基百科](https://zh.wikipedia.org/wiki/辣妹當家) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
