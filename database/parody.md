@@ -2422,6 +2422,7 @@ example:
 | vampire master dark crimson | 暗夜吸血鬼 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Vampire_Master_Dark_Crimson) |
 | sumomomo momomo | 地上最强新娘 |  | [维基百科](https://zh.wikipedia.org/wiki/地上最强新娘) |
 | criminal girls | 罪恶少女 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/クリミナルガールズ) [Steam](https://store.steampowered.com/app/409850/Criminal_Girls_Invite_Only/) |
+| michiko to hatchin | 道子与哈金 |  | [维基百科](https://zh.wikipedia.org/wiki/道子與哈金) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
