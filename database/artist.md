@@ -13668,6 +13668,7 @@ example:
 | negito ron | 葱戸ロン |  |  |
 | ojou | オジョウ |  |  |
 | romupi | ROMUPI |  |  |
+| anteiru | あんている | あんている/ Anteiru | [X](https://x.com/anteiru3939) [pixiv](https://www.pixiv.net/users/78912866) |
 
 <!--TEMPLATE:
 |  |  |  |  |
