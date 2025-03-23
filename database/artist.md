@@ -13670,6 +13670,7 @@ example:
 | romupi | ROMUPI |  |  |
 | anteiru | あんている | あんている/ Anteiru | [X](https://x.com/anteiru3939) [pixiv](https://www.pixiv.net/users/78912866) |
 | kaedeko | 楓子 | 《ガキ巨乳》系列作者 | [X](https://x.com/Kaedeko111)<br>[pixiv](https://www.pixiv.net/users/20871532)<br>[FANBOX](https://kaedeko.fanbox.cc) |
+| turumiya mimi | 鶴宮みみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
