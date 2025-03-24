@@ -13675,6 +13675,7 @@ example:
 | inukai rippo | 犬飼りっぽ |  | [pixiv](https://www.pixiv.net/users/1496320) [X](https://x.com/ripo_day) |
 | usagi piyoko | 兎ぴよこ |  | [pixiv](https://www.pixiv.net/users/42703226) [X](https://x.com/harapeco_usap) |
 | xiao chai hu | 小柴胡 |  | [pixiv](https://www.pixiv.net/users/78258142) |
+| suzuki senpai | 铃木先辈 | 鈴木先輩 | [pixiv](https://www.pixiv.net/users/16796662) |
 
 <!--TEMPLATE:
 |  |  |  |  |
