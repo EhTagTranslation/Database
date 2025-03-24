@@ -6286,6 +6286,7 @@ example:
 | kirin toudou | 刀藤绮凛 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/刀藤绮凛) |
 | saya sasamiya | 沙沙宫纱夜 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/沙沙宫纱夜) |
 | nephelia | 涅菲莉亚 | 所属作品: `p:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii` | [萌娘百科](https://zh.moegirl.org.cn/涅菲莉亚) |
+| kyouko hori | 堀京子 | 所属作品: `horimiya` | [萌娘百科](https://zh.moegirl.org.cn/堀京子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
