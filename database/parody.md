@@ -2427,6 +2427,7 @@ example:
 | super gals | 辣妹当家 |  | [维基百科](https://zh.wikipedia.org/wiki/辣妹當家) |
 | geten no hana | 下天之华 |  | [维基百科](https://zh.wikipedia.org/wiki/下天之華) [萌娘百科](https://zh.moegirl.org.cn/下天之华) [Fandom](https://koei.fandom.com/wiki/Geten_no_Hana) |
 | closers | CLOSERS |  | [维基百科](https://zh.wikipedia.org/wiki/CLOSERS) |
+| maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii | 身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？ |  | [维基百科](https://zh.wikipedia.org/wiki/身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？) [萌娘百科](https://zh.moegirl.org.cn/身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
