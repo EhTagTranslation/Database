@@ -13672,6 +13672,7 @@ example:
 | kaedeko | 楓子 | 《ガキ巨乳》系列作者 | [X](https://x.com/Kaedeko111)<br>[pixiv](https://www.pixiv.net/users/20871532)<br>[FANBOX](https://kaedeko.fanbox.cc) |
 | turumiya mimi | 鶴宮みみ |  |  |
 | juzu dengaku | 数珠田楽 |  |  |
+| inukai rippo | 犬飼りっぽ |  | [pixiv](https://www.pixiv.net/users/1496320) [X](https://x.com/ripo_day) |
 
 <!--TEMPLATE:
 |  |  |  |  |
