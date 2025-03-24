@@ -6284,6 +6284,7 @@ example:
 | claudia enfield | 克劳蒂雅·恩菲尔德 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/克劳蒂雅·恩菲尔德) |
 | julis-alexia von riessfeld | 尤莉丝·爱雷克西亚·冯·里斯妃特 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/尤莉丝·爱雷克西亚·冯·里斯妃特) |
 | kirin toudou | 刀藤绮凛 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/刀藤绮凛) |
+| saya sasamiya | 沙沙宫纱夜 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/沙沙宫纱夜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
