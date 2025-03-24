@@ -6282,6 +6282,7 @@ example:
 | hotaru | 萤 | 所属作品: `p:geten no hana`<br><br>战国时代的女忍者，来自伊贺。<br>因双亲过世伤心不已，由师父百地尚光收养并将其训练为忍者。 | [维基百科](https://zh.wikipedia.org/wiki/下天之華#人物介紹) |
 | adam smasher | 亚当·重锤 | 所属作品: `p:cyberpunk` | [Fandom](https://cyberpunk.fandom.com/wiki/Adam_Smasher) [萌娘百科](https://zh.moegirl.org.cn/亚当·重锤) |
 | claudia enfield | 克劳蒂雅·恩菲尔德 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/克劳蒂雅·恩菲尔德) |
+| julis-alexia von riessfeld | 尤莉丝·爱雷克西亚·冯·里斯妃特 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/尤莉丝·爱雷克西亚·冯·里斯妃特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
