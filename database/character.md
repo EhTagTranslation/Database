@@ -6280,6 +6280,7 @@ example:
 | asaba tokisaki | 朱鹭咲浅羽 | 朱鹭咲浅羽是`a:niliu chahui`的看板娘之一，是看板娘中较为年幼的妹妹，爱捉弄人的少女。秉持着游戏人生的乐天态度，对姐姐以外的人并没有交往的兴趣，更多是当做自己的玩具来看待。 | [萌娘百科](https://zh.moegirl.org.cn/朱鹭咲浅羽) |
 | mio tokisaki | 朱鹭咲澪 | 朱鹭咲澪是`a:niliu chahui`的看板娘之一，是看板娘中较为年长的姐姐，发色是银白色的三无少女，天性温柔，不明白情感为何物。 | [萌娘百科](https://zh.moegirl.org.cn/朱鹭咲澪) |
 | hotaru | 萤 | 所属作品: `p:geten no hana`<br><br>战国时代的女忍者，来自伊贺。<br>因双亲过世伤心不已，由师父百地尚光收养并将其训练为忍者。 | [维基百科](https://zh.wikipedia.org/wiki/下天之華#人物介紹) |
+| adam smasher | 亚当·重锤 | 所属作品: `p:cyberpunk` | [Fandom](https://cyberpunk.fandom.com/wiki/Adam_Smasher) [萌娘百科](https://zh.moegirl.org.cn/亚当·重锤) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
