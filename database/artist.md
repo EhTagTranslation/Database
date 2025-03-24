@@ -13676,6 +13676,7 @@ example:
 | usagi piyoko | 兎ぴよこ |  | [pixiv](https://www.pixiv.net/users/42703226) [X](https://x.com/harapeco_usap) |
 | xiao chai hu | 小柴胡 |  | [pixiv](https://www.pixiv.net/users/78258142) |
 | suzuki senpai | 铃木先辈 | 鈴木先輩 | [pixiv](https://www.pixiv.net/users/16796662) |
+| wesley morse | Wesley Morse |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wesley_Morse) |
 
 <!--TEMPLATE:
 |  |  |  |  |
