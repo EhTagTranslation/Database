@@ -80,7 +80,7 @@ example:
 | honey soft | HONEY SOFT |  |  |
 | appetite | アパタイト |  |  |
 | pakopako soft | ぱこぱこそふと |  |  |
-| neko neko soft | 猫猫软件 |  |  |
+| neko neko soft | 猫猫社 | 猫猫社（日语：ねこねこソフト；英语：NekoNeko Soft）是日本Soldier Blue有限公司旗下的一家制作Galgame的游戏公司。母体是同人软件社团Stage-nana。主要作品有《120日元系列》、《水色》 | [萌娘百科](https://zh.moegirl.org.cn/NekoNeko_Soft) |
 | abhar | ABHAR |  |  |
 | abhar tronc | ABHAR Tronc |  |  |
 | incarose | インカローズ | ![](http://incarose-soft.com/image/incarose1.png) | [官方网站](http://incarose-soft.com) |
