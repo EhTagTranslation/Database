@@ -13673,6 +13673,7 @@ example:
 | turumiya mimi | 鶴宮みみ |  |  |
 | juzu dengaku | 数珠田楽 |  |  |
 | inukai rippo | 犬飼りっぽ |  | [pixiv](https://www.pixiv.net/users/1496320) [X](https://x.com/ripo_day) |
+| usagi piyoko | 兎ぴよこ |  | [pixiv](https://www.pixiv.net/users/42703226) [X](https://x.com/harapeco_usap) |
 
 <!--TEMPLATE:
 |  |  |  |  |
