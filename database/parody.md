@@ -1279,7 +1279,7 @@ example:
 | chinpui | 大耳鼠 | 大耳鼠（チンプイ）（或译作超能大耳兽、大耳獸之比、大耳兽芝比、大耳獸普普、金普依、外星小叮叮）是藤子·F·不二雄较晚期所著的一部漫画及动画。 | [维基百科](https://zh.wikipedia.org/wiki/大耳鼠) (\*) |
 | pani poni dash | 不可思议的教室 | 《不可思议的教室》（日文：ぱにぽに）是一部校园喜剧式的幻想系漫画，作者是氷川へきる。曾连载于漫画杂志月刊GFantasy，现已完结。 | [维基百科](https://zh.wikipedia.org/wiki/嬉皮笑園) (\*) |
 | suigetsu | 水月 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/水月_%28ゲーム%29) |
-| mizuiro | 水色 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ) |
+| mizuiro | 水色 |  | [萌娘百科](https://zh.moegirl.org.cn/水色) [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ) |
 | dragonaut | 龙鸣 | 《龙鸣》（日文：ドラゴノーツ -ザ・レゾナンス-、DRAGONAUT THE RESONANCE，简称：DRAGONAUT）是2007年10月3日播出的日本电视动画，由GONZO制作。 | [维基百科](https://zh.wikipedia.org/wiki/龙鸣) (\*) |
 | under night in-birth | 夜下降生 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/UNDER_NIGHT_IN-BIRTH) |
 | world trigger | 境界触发者 | 《境界触发者》（日语：ワールドトリガー，英语：World Trigger）是日本漫画家苇原大介创作的漫画作品。于《周刊少年Jump》（集英社）2013年11号开始连载。《宝岛少年》（东立）则是从2013年28号开始连载。2016年11月因作者身体因素，无限期休刊中。2014年5月公布改编为动画，并于同年10月播放。 | [维基百科](https://zh.wikipedia.org/wiki/境界觸發者) (\*) |
