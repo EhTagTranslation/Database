@@ -7086,7 +7086,7 @@ example:
 | konmori | こんもり |  |  |
 | konno chikata | 紺野チカ太 |  |  |
 | konnyaku yukko | 蒟蒻ゆっこ |  |  |
-| kono | 河野 |  |  |
+| kono | 河野 |  | [pixiv](https://www.pixiv.net/users/28750536) [X](https://x.com/yuri_kotone_ero) |
 | konode minoru | このでみのる |  |  |
 | konoi iko | 木井いこ |  |  |
 | konoma waho | このま和歩 |  |  |
