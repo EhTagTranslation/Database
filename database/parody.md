@@ -2425,6 +2425,7 @@ example:
 | michiko to hatchin | 道子与哈金 |  | [维基百科](https://zh.wikipedia.org/wiki/道子與哈金) |
 | kemeko deluxe | 钢铁新娘 |  | [维基百科](https://zh.wikipedia.org/wiki/钢铁新娘) |
 | super gals | 辣妹当家 |  | [维基百科](https://zh.wikipedia.org/wiki/辣妹當家) |
+| geten no hana | 下天之华 |  | [维基百科](https://zh.wikipedia.org/wiki/下天之華) [萌娘百科](https://zh.moegirl.org.cn/下天之华) [Fandom](https://koei.fandom.com/wiki/Geten_no_Hana) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
