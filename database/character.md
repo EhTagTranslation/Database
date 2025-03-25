@@ -6290,6 +6290,7 @@ example:
 | mutsuki shindou | 进藤睦月 | 所属作品: `p:mizuiro`<br><br>蓝色短发。戴着风中飘舞的红丝带。眼睛是红色的。<br>8月14日出生。AB型血，身高159cm。三围B84/W57/H83。<br>和皋月是双胞胎姐妹。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ#主な登場人物) [萌娘百科](https://zh.moegirl.org.cn/水色#STAFF) |
 | leona | 蕾欧娜 | 所属作品: `p:granblue fantasy`或`p:league of legends` | 曙光女神 [萌娘百科](https://zh.moegirl.org.cn/蕾欧娜%28英雄联盟%29) [Fandom](https://leagueoflegendstwn.fandom.com/wiki/雷歐娜)<br><br>碧蓝幻想 [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030241000) [GBF.WIKI](https://gbf.wiki/Leona) |
 | tenka izumo | 出云天花 | 出云天花，漫画《魔都精兵的奴隶》及其衍生作品中的角色，魔防队六番组组长 |  |
+| kyouka uzen | 羽前京香 | 羽前京香，漫画《魔都精兵的奴隶》及其衍生作品中的角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
