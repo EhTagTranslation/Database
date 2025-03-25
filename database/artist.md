@@ -13361,7 +13361,7 @@ example:
 | pdxen | PDXen |  |  |
 | psyche | プシュケーLo |  | [X](https://x.com/psyche047) [pixiv](https://www.pixiv.net/users/942719) |
 | tachi iyashi | 館いやし |  |  |
-| ririko | 粉红黏黏怪 |  |  |
+| ririko | 粉红黏黏怪 |  | [pixiv](https://www.pixiv.net/users/108211955) |
 | minami fumika | 南文夏 |  |  |
 | kuse | くせ |  |  |
 | tebasaki chikin | 手羽咲ちきん |  |  |
