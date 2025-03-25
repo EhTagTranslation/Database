@@ -6291,6 +6291,7 @@ example:
 | leona | 蕾欧娜 | 所属作品: `p:granblue fantasy`或`p:league of legends` | 曙光女神 [萌娘百科](https://zh.moegirl.org.cn/蕾欧娜%28英雄联盟%29) [Fandom](https://leagueoflegendstwn.fandom.com/wiki/雷歐娜)<br><br>碧蓝幻想 [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030241000) [GBF.WIKI](https://gbf.wiki/Leona) |
 | tenka izumo | 出云天花 | 出云天花，漫画《魔都精兵的奴隶》及其衍生作品中的角色，魔防队六番组组长 |  |
 | kyouka uzen | 羽前京香 | 羽前京香，漫画《魔都精兵的奴隶》及其衍生作品中的角色。 |  |
+| reina akatsuki | 晓零菜 | 晓零菜，日本作家三云岳斗所著轻小说以及动漫作品《噬血狂袭》的人物。 [1]容貌和雪菜几乎一样，但拥有比同龄的雪菜还要大的胸部。继承了古城不死的诅咒，以及拥有和雪菜几乎一样的容貌。<br>「晓之帝国」的公主，母亲是狮子王机关的剑巫姬柊雪菜，父亲是号称「世界最强吸血鬼」的第四真祖晓古城。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
