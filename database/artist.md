@@ -13677,6 +13677,7 @@ example:
 | xiao chai hu | 小柴胡 |  | [pixiv](https://www.pixiv.net/users/78258142) |
 | suzuki senpai | 铃木先辈 | 鈴木先輩 | [pixiv](https://www.pixiv.net/users/16796662) |
 | wesley morse | Wesley Morse |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wesley_Morse) |
+| tou tou | 糖tou |  | [pixiv](https://www.pixiv.net/users/22628045) [X](https://x.com/l_ract) [weibo](https://weibo.cn/u/6418827015) |
 
 <!--TEMPLATE:
 |  |  |  |  |
