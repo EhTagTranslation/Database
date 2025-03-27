@@ -3240,7 +3240,7 @@ example:
 | suzuki hina | 铃木雏 | 铃木雏<br><br>身份不明，是从天空中掉落下来的少女，和hime(田中姬)一起住在田中工务店，衣服上有着和hime(田中姬)同样的家纹 | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 铃木雏](https://x.com/HinaSuzuki_HH) |
 | tanaka hime | 田中姬 | 田中姬<br><br>出身不明，据说在流浪的时候被田中工务店捡到，于是从此以后就住在田中工务店. | [萌娘百科: 田中姬铃木雏](https://zh.moegirl.org.cn/田中姬铃木雏)<br>[Twitter: 田中姬](https://x.com/HimeTanaka_HH) |
 | nobukatsu oda | 织田信胜 |  |  |
-| okita souji alter | 冲田总司Alter |  | [Mooncell-FGO中文Wiki](https://fgo.wiki/w/冲田总司〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/魔神Saber) |
+| okita souji alter | 冲田总司〔Alter〕 |  | [Mooncell-FGO中文Wiki](https://fgo.wiki/w/冲田总司〔Alter〕) [萌娘百科](https://zh.moegirl.org.cn/魔神Saber) |
 | frostnova | 霜星 | ![我的白兔兔啊](https://img.moegirl.org.cn/common/2/21/Ak_char_1505_frstar_1.png)<br>[整合运动](https://zh.moegirl.org.cn/明日方舟:整合运动)法术部队干部，雪怪小队队长，“[爱国者](https://zh.moegirl.org.cn/明日方舟:爱国者)”的养女，第四章和第六章的封面人物。<br>在切尔诺伯格分城与罗德岛初次遭遇并开战，战斗中与罗德岛的博士被困于地下，与其吐露心声。<br><br>之后前往龙门接应梅菲斯特时因过度使用源石技艺导致时日无多，雪怪小队为了让霜星能够见爱国者最后一面主动殿后而全员阵亡。苏醒后得知此事的的霜星主动留下来阻截追来的阿米娅一行人，并使出了超规格的源石技艺，令阿米娅、煌和灰喉都难以招架。最终由于耗尽体力，用于维生的晶体破碎而倒地，在博士的怀里说出“愿意加入罗德岛”的誓言后含笑而逝。<br><br>遗体被博士带回罗德岛处理防止结晶粉尘化。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霜星) |
 | achikita chinami | うさぎ工房 |  |  |
 | athena asamiya | 麻宫雅典娜 |  | [萌娘百科](https://zh.moegirl.org.cn/麻宫雅典娜) |
