@@ -6295,6 +6295,7 @@ example:
 | grace | 格莉丝·霍华德 | 格莉丝·霍华德，游戏《绝区零》中的角色，白祇重工干部之一，热心、温柔、聪明且理性。 |  |
 | fuuko izumo | 出云风子 | 所属作品: `p:undead unluck` | [萌娘百科](https://zh.moegirl.org.cn/出云风子) |
 | alina clover | 阿莉娜·克洛瓦 | 所属作品: `p:girumasu` | [萌娘百科](https://zh.moegirl.org.cn/阿莉娜·克洛瓦) [Fandom](https://dengeki.fandom.com/wiki/Alina_Clover) |
+| rindo chihaya | 轮堂千速 | 轮堂千速（日语：輪堂 千速／りんどう ちはやRindo Chihaya）是一名于2024年11月7日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『FLOW GLOW』。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Rindo_Chihaya) [萌娘百科](https://zh.moegirl.org.cn/轮堂千速) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
