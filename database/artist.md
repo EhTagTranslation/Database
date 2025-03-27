@@ -13679,6 +13679,7 @@ example:
 | wesley morse | Wesley Morse |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Wesley_Morse) |
 | tou tou | 糖tou |  | [pixiv](https://www.pixiv.net/users/22628045) [X](https://x.com/l_ract) [weibo](https://weibo.cn/u/6418827015) |
 | makulu | Lumakulu | 同`a:makura no doushi`<br><br>[参见](https://repo.e-hentai.org/tools/tagapprove?tagid=510762) |  |
+| shouchan | 摩霧彰 |  | [pixiv](https://www.pixiv.net/users/735129) [X](https://x.com/misty_sho) |
 
 <!--TEMPLATE:
 |  |  |  |  |
