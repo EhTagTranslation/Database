@@ -6294,6 +6294,7 @@ example:
 | reina akatsuki | 晓零菜 | 晓零菜，日本作家三云岳斗所著轻小说以及动漫作品《噬血狂袭》的人物。 [1]容貌和雪菜几乎一样，但拥有比同龄的雪菜还要大的胸部。继承了古城不死的诅咒，以及拥有和雪菜几乎一样的容貌。<br>「晓之帝国」的公主，母亲是狮子王机关的剑巫姬柊雪菜，父亲是号称「世界最强吸血鬼」的第四真祖晓古城。 |  |
 | grace | 格莉丝·霍华德 | 格莉丝·霍华德，游戏《绝区零》中的角色，白祇重工干部之一，热心、温柔、聪明且理性。 |  |
 | fuuko izumo | 出云风子 | 所属作品: `p:undead unluck` | [萌娘百科](https://zh.moegirl.org.cn/出云风子) |
+| alina clover | 阿莉娜·克洛瓦 | 所属作品: `p:girumasu` | [萌娘百科](https://zh.moegirl.org.cn/阿莉娜·克洛瓦) [Fandom](https://dengeki.fandom.com/wiki/Alina_Clover) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
