@@ -13681,6 +13681,7 @@ example:
 | makulu | Lumakulu | 同`a:makura no doushi`<br><br>[参见](https://repo.e-hentai.org/tools/tagapprove?tagid=510762) |  |
 | shouchan | 摩霧彰 |  | [X](https://x.com/misty_sho) [pixiv](https://www.pixiv.net/users/735129) |
 | hinata aosuke | 日向あお助 |  |  |
+| natsume uraraka | 棗麗 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
