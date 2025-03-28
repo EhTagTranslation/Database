@@ -6297,6 +6297,7 @@ example:
 | alina clover | 阿莉娜·克洛瓦 | 所属作品: `p:girumasu` | [萌娘百科](https://zh.moegirl.org.cn/阿莉娜·克洛瓦) [Fandom](https://dengeki.fandom.com/wiki/Alina_Clover) |
 | rindo chihaya | 轮堂千速 | 轮堂千速（日语：輪堂 千速／りんどう ちはやRindo Chihaya）是一名于2024年11月7日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『FLOW GLOW』。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Rindo_Chihaya) [萌娘百科](https://zh.moegirl.org.cn/轮堂千速) |
 | marie antoinette alter | 玛丽·安托瓦内特〔Alter〕（黑蛋糕） |  |  |
+| zani | 赞妮 | 游戏《鸣潮》及其衍生作品中的角色，来自黎那汐塔，埃费拉德银行的员工。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
