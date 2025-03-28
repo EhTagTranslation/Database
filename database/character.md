@@ -6300,6 +6300,7 @@ example:
 | zani | 赞妮 | 游戏《鸣潮》及其衍生作品中的角色，来自黎那汐塔，埃费拉德银行的员工。 |  |
 | lieselotte sherlock | 莉瑟罗特・沙尔洛克 | 塞丽娜的双胞胎姐姐，金发双马尾，穿着较少，身穿黑色的外衣以及黑色过膝皮靴。原王立图书馆二席检阅官，拥有怠惰的“书库”，术式为“数秘术”。被莉莉斯称为：不惜犯下禁忌，也要强行连接“永劫图书馆”的罪人。 就是半年前事件中被称为幽灵的"姐姐"。可以吸取他人魔力和研究成果。 |  |
 | beta | 贝塔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第二席。银白色头发和蓝色眼睛的精灵。对暗影抱持敬畏之心，每次事件都会撰写进自己的英雄谭「暗影大人战记」。 |  |
+| sophie neuenmuller | 苏菲·诺伊恩缪拉 | 所属作品: `p:atelier sophie` | [萌娘百科](https://zh.moegirl.org.cn/苏菲·诺伊恩缪拉) [Fandom](https://atelier.fandom.com/wiki/Sophie_Neuenmuller) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
