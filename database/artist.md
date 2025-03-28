@@ -13683,6 +13683,7 @@ example:
 | hinata aosuke | 日向あお助 |  |  |
 | natsume uraraka | 棗麗 |  |  |
 | chida yuki | ちだゆうき |  |  |
+| todoroki kangoku | 轰かんごく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
