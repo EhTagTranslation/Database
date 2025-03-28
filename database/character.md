@@ -5522,7 +5522,7 @@ example:
 | yuki suou | 周防有希 | 周防有希（日语：すおう ゆき）是由灿々SUN所创作的小说《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9c/Yuki_Suou_2.png) | [萌娘百科](https://zh.moegirl.org.cn/周防有希) |
 | ayase mitsukasa | 三司绫濑 | 三司绫濑（日语：三司（みつかさ） あやせ）是柚子社所创作的美少女游戏《RIDDLE JOKER》的登场角色，女主角之一。<br><br>![](https://img.moegirl.org.cn/common/6/61/三司绫濑_角色歌专辑封面.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三司绫濑) |
 | kachina | 卡齐娜 | 卡齐娜是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>![](https://ehgt.org/25/41/2541152aadad86257259d46809186fbb9aee07cb-1530047-1500-1500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/卡齐娜) |
-| niyaniya kyouju | 笑面教授 | 所属作品：`p:blue archive` | [pixiv](https://www.pixiv.net/tags/ニヤニヤ教授/artworks) |
+| niyaniya kyouju | 笑面教授 | 所属作品：`p:blue archive`<br><br>本名不明，真实身份不明，行动目的不明。<br><br>被认为是基沃托斯犯罪界的佼佼者，明面上的身份是黑市的情报贩子。从不亲自出面与人交流，只会通过远程通讯与人交易，据说只要给她足够的金钱，她就一定能制定完美的计划。<br><br>头脑极佳，拥有极强的谋划能力，会将战场视为棋盘，计划开始前就会做足一切调查并设计好每一个环节，即使陷入不利局面也会设法挽回损失。 | [萌娘百科](https://zh.moegirl.org.cn/笑面教授) |
 | kojiro nezu | 根津弧次郎 |  |  |
 | tokiyuki hojo | 北条时行 |  |  |
 | yorishige suwa | 诹访赖重 |  |  |
