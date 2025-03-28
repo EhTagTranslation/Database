@@ -6298,6 +6298,7 @@ example:
 | rindo chihaya | 轮堂千速 | 轮堂千速（日语：輪堂 千速／りんどう ちはやRindo Chihaya）是一名于2024年11月7日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『FLOW GLOW』。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Rindo_Chihaya) [萌娘百科](https://zh.moegirl.org.cn/轮堂千速) |
 | marie antoinette alter | 玛丽·安托瓦内特〔Alter〕（黑蛋糕） |  |  |
 | zani | 赞妮 | 游戏《鸣潮》及其衍生作品中的角色，来自黎那汐塔，埃费拉德银行的员工。 |  |
+| lieselotte sherlock | 莉瑟罗特・沙尔洛克 | 塞丽娜的双胞胎姐姐，金发双马尾，穿着较少，身穿黑色的外衣以及黑色过膝皮靴。原王立图书馆二席检阅官，拥有怠惰的“书库”，术式为“数秘术”。被莉莉斯称为：不惜犯下禁忌，也要强行连接“永劫图书馆”的罪人。 就是半年前事件中被称为幽灵的"姐姐"。可以吸取他人魔力和研究成果。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
