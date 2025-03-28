@@ -13682,6 +13682,7 @@ example:
 | shouchan | 摩霧彰 |  | [X](https://x.com/misty_sho) [pixiv](https://www.pixiv.net/users/735129) |
 | hinata aosuke | 日向あお助 |  |  |
 | natsume uraraka | 棗麗 |  |  |
+| chida yuki | ちだゆうき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
