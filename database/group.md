@@ -13116,6 +13116,7 @@ example:
 | yaseuma lo-ru | やせうまロール |  | [HP](https://www.yaseuma-loru.com) |
 | bullfrog lab | うしがえるラボ |  |  |
 | runabare | るなばれ |  |  |
+| koukishin | 光輝心 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
