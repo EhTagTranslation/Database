@@ -1640,7 +1640,7 @@ example:
 | mamabe mami | 眞々部まみ |  |  |
 | sakusyaaya | 作者文 |  | [pixiv](https://www.pixiv.net/users/2082705) |
 | ruschuto | るしゅーと |  |  |
-| murata range | 村田蓮爾 | 村田莲尔（1968年10月2日－），是日本的插画家兼设计师。出身于大阪府。其作品喜欢强调复古的质感和设计，尤其偏爱装饰艺术时期的风格。人物方面，最常描绘的则是短发美少女和苦涩的中年男子。 | [维基百科](https://zh.wikipedia.org/wiki/村田蓮爾) (\*) |
+| murata range | 村田莲尔 | 村田莲尔（1968年10月2日－），是日本的插画家兼设计师。出身于大阪府。其作品喜欢强调复古的质感和设计，尤其偏爱装饰艺术时期的风格。人物方面，最常描绘的则是短发美少女和苦涩的中年男子。 | [维基百科](https://zh.wikipedia.org/wiki/村田蓮爾) [萌娘百科](https://zh.moegirl.org.cn/村田莲尔) |
 | haguhagu | はぐはぐ |  |  |
 | reitou mikan | れいとうみかん |  |  |
 | ruuen rouga | 龙炎狼牙 |  |  |
