@@ -6302,6 +6302,7 @@ example:
 | beta | 贝塔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第二席。银白色头发和蓝色眼睛的精灵。对暗影抱持敬畏之心，每次事件都会撰写进自己的英雄谭「暗影大人战记」。 |  |
 | sophie neuenmuller | 苏菲·诺伊恩缪拉 | 所属作品: `p:atelier sophie` | [萌娘百科](https://zh.moegirl.org.cn/苏菲·诺伊恩缪拉) [Fandom](https://atelier.fandom.com/wiki/Sophie_Neuenmuller) |
 | orie takadate | 高楯欧丽叶 | 所属作品: p:`tenshi souzou re-boot` |  |
+| mint | 薄绿 | 薄绿是游戏《明日方舟》及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
