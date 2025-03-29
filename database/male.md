@@ -272,7 +272,7 @@ example:
 | nose hook | 鼻吊钩 | 用钩子把鼻孔向上拉，打开鼻孔。 经常与`bondage`配对。 |  |
 | smell | 气味 | 发出强烈，耸人听闻的气味的行为。 |  |
 |  | === 头部 > 嘴 === |  |  |
-|  | adventitious mouth畸位口 | 在身体的意想不到的地方至少有一个嘴（例如手、躯干或尾巴）。 |  |
+| adventitious mouth | 畸位口 | 在身体的意想不到的地方至少有一个嘴（例如手、躯干或尾巴）。 |  |
 | big lips | 大嘴唇💋 | 异常大的嘴唇。嘴唇的高度必须超过人眼的高度才能符合条件。 |  |
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与`ball sucking`混淆。是`blowjob face`、`deepthroat`的前置标签。<br>![图](# "https://ehgt.org/05/78/057878e28779bc0d2972428bc45f7953338ee8e7-618322-1024-576-png_l.jpg")![图](# "https://ehgt.org/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg")![图](# "https://ehgt.org/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg") |  |
 | blowjob face | 口交颜 | 拉长的嘴唇和嘴区域，像管子套在阴茎或口交过程中的对象上。需要`blowjob`标签。<br>![图](# "https://ehgt.org/1f/cb/1fcbdcaa3e81a591db1feac10944d83f231584f4-406010-902-711-jpg_l.jpg")![图](# "https://ehgt.org/22/8d/228deba22ffc6b1398f34fb7ab46227d481ff4e3-906144-1747-2480-jpg_l.jpg")![图](# "https://ehgt.org/70/fa/70fa1bd3a650d213596e84a000ab097f3602b5c1-296142-799-699-jpg_l.jpg") |  |

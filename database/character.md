@@ -3968,8 +3968,7 @@ example:
 | edmond dantes | 爱德蒙·唐泰斯（岩窟王） |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
 | ariane glenys maple | 阿里安 | 所属作品：`gaikotsu kishi-sama tadaima isekai e odekakechuu` | [Fandom](https://skeleton-knight-in-another-world.fandom.com/wiki/Ariane) |
 | yukihana lamy | 雪花菈米 | ![图](https://ehgt.org/63/20/63200e27cbcfd1d7f1f616925788ad5028728f1a-185684-828-1200-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/雪花菈米) |
-| scarlet witch | 绯红女巫 |  | [维基百科](https://zh.wikipedia.org/wiki/緋紅女巫) |
-| wanda maximoff | 旺达 | 旺达·马克西莫夫<br><br>漫威超级英雄之一 | [维基百科（英语）](https://en.wikipedia.org/wiki/Wanda_Maximoff_%28Marvel_Cinematic_Universe%29) |
+| scarlet witch | 绯红女巫 | 旺达·马克西莫夫<br><br>漫威超级英雄之一 | [维基百科](https://zh.wikipedia.org/wiki/緋紅女巫) |
 | camie utsushimi | 现见凯米 | 现见凯米是漫画《我的英雄学院》及其衍生作品的登场角色。![现见凯米](https://i.imgur.com/P9McCHS.jpg) | [萌娘百科](https://zh.moegirl.org.cn/现见凯米) |
 | tsubame koyasu | 子安燕 |  | [萌娘百科](https://zh.moegirl.org.cn/子安燕) |
 | akari acura | 阿卡莉·亚裘拉 | 所属作品：`p:hitsugi no chaika`<br><br>![](https://static.wikia.nocookie.net/hitsugimenochaika/images/7/7d/Akari.png) | [Fandom](https://hitsugimenochaika.fandom.com/wiki/Akari_Acura) |
