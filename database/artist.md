@@ -13684,6 +13684,7 @@ example:
 | natsume uraraka | 棗麗 |  |  |
 | chida yuki | ちだゆうき |  |  |
 | todoroki kangoku | 轰かんごく |  |  |
+| ray oriha | レイ=オリハ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
