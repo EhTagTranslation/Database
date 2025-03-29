@@ -2961,7 +2961,7 @@ example:
 | nathaniel pennel | Pennel |  | [X](https://x.com/pennel_kirei) [pixiv](https://www.pixiv.net/users/512666) |
 | hadron9 | HADRON9 |  | [X](https://x.com/hadron9) [Twitter（成年向）](https://x.com/v4pAiZAtqGZtmWw) [pixiv](https://www.pixiv.net/users/906208) |
 | supu | すぷ |  | [X](https://x.com/w_spread) [pixiv](https://www.pixiv.net/users/3980709) |
-| kitaku | きたく | 仲町まち | [X](https://x.com/kitaku18) [pixiv](https://www.pixiv.net/users/9563241) |
+| kitaku | きたく | 仲町まち | [X (きたく)](https://x.com/ktk_er18) [X (仲町まち)](https://x.com/knomon19) [pixiv](https://www.pixiv.net/users/9563241) |
 | shirota dai | 白田太 |  | [X](https://x.com/wwshirota) [pixiv](https://www.pixiv.net/users/8642) |
 | moyazou | もや造 |  | [X](https://x.com/moyashiseizoujo) [pixiv](https://www.pixiv.net/users/12363124) |
 | kuguri oimo | 九栗おいも |  | [X](https://x.com/oimoimo12) [pixiv](https://www.pixiv.net/users/1998) |
