@@ -13685,6 +13685,7 @@ example:
 | chida yuki | ちだゆうき |  |  |
 | todoroki kangoku | 轰かんごく |  |  |
 | ray oriha | レイ=オリハ |  |  |
+| chousetsu | ちょうせつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
