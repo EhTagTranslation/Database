@@ -2428,6 +2428,7 @@ example:
 | geten no hana | 下天之华 |  | [维基百科](https://zh.wikipedia.org/wiki/下天之華) [萌娘百科](https://zh.moegirl.org.cn/下天之华) [Fandom](https://koei.fandom.com/wiki/Geten_no_Hana) |
 | closers | CLOSERS |  | [维基百科](https://zh.wikipedia.org/wiki/CLOSERS) |
 | maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii | 身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？ |  | [维基百科](https://zh.wikipedia.org/wiki/身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？) [萌娘百科](https://zh.moegirl.org.cn/身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？) |
+| girumasu | 虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS |  | [维基百科](https://zh.wikipedia.org/wiki/%E9%9B%96%E7%84%B6%E6%98%AF%E5%85%AC%E6%9C%83%E7%9A%84%E6%AB%83%E6%AA%AF%E5%B0%8F%E5%A7%90%EF%BC%8C%E4%BD%86%E5%9B%A0%E7%82%BA%E4%B8%8D%E6%83%B3%E5%8A%A0%E7%8F%AD%E6%89%80%E4%BB%A5%E6%89%93%E7%AE%97%E7%8D%A8%E8%87%AA%E8%A8%8E%E4%BC%90%E8%BF%B7%E5%AE%AE%E9%A0%AD%E7%9B%AE) [萌娘百科](https://zh.moegirl.org.cn/%E8%99%BD%E7%84%B6%E6%98%AF%E5%85%AC%E4%BC%9A%E6%9F%9C%E5%8F%B0%E5%B0%8F%E5%A7%90%EF%BC%8C%E4%BD%86%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%AE%A8%E5%8E%8C%E5%8A%A0%E7%8F%AD%E6%89%80%E4%BB%A5%E8%A6%81%E5%8E%BB%E5%8D%95%E6%8C%91BOSS) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
