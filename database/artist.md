@@ -13692,6 +13692,7 @@ example:
 | fukuki tete | 鰒生てて |  |  |
 | gareki noyama | がれきのやま |  |  |
 | hachi mega | 八メガ |  |  |
+| keishouryaku | 敬称略 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
