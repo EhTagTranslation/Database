@@ -13689,6 +13689,7 @@ example:
 | erocchi | エロッチ |  |  |
 | gozenchu | 娯禅宙 |  |  |
 | fukamichi ranou | 深道卵黄 |  |  |
+| fukuki tete | 鰒生てて |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
