@@ -13687,6 +13687,7 @@ example:
 | ray oriha | レイ=オリハ |  |  |
 | chousetsu | ちょうせつ |  |  |
 | erocchi | エロッチ |  |  |
+| gozenchu | 娯禅宙 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
