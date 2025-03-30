@@ -13693,6 +13693,7 @@ example:
 | gareki noyama | がれきのやま |  |  |
 | hachi mega | 八メガ |  |  |
 | keishouryaku | 敬称略 |  |  |
+| tokisudeni osushi | ときすでにおすし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
