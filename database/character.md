@@ -6303,6 +6303,7 @@ example:
 | orie takadate | 高楯欧丽叶 | 所属作品: `p:tenshi souzou re-boot` |  |
 | mint | 薄绿 | 薄绿是游戏《明日方舟》及其衍生作品的登场角色。 |  |
 | almond eye | 杏目 |  |  |
+| maya yotsuba | 四叶真夜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
