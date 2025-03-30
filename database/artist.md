@@ -13686,6 +13686,7 @@ example:
 | todoroki kangoku | 轰かんごく |  |  |
 | ray oriha | レイ=オリハ |  |  |
 | chousetsu | ちょうせつ |  |  |
+| erocchi | エロッチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
