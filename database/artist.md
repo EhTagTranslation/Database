@@ -13691,6 +13691,7 @@ example:
 | fukamichi ranou | 深道卵黄 |  |  |
 | fukuki tete | 鰒生てて |  |  |
 | gareki noyama | がれきのやま |  |  |
+| hachi mega | 八メガ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
