@@ -13688,6 +13688,7 @@ example:
 | chousetsu | ちょうせつ |  |  |
 | erocchi | エロッチ |  |  |
 | gozenchu | 娯禅宙 |  |  |
+| fukamichi ranou | 深道卵黄 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
