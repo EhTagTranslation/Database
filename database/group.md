@@ -13117,6 +13117,7 @@ example:
 | bullfrog lab | うしがえるラボ |  |  |
 | runabare | るなばれ |  |  |
 | koukishin | 光輝心 |  |  |
+| loli chahan | ロリチャーハン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
