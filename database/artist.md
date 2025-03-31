@@ -13696,6 +13696,7 @@ example:
 | tokisudeni osushi | ときすでにおすし |  |  |
 | hon | 本 |  | [pixiv](https://www.pixiv.net/users/3892256) |
 | obake | obake |  | [pixiv](https://www.pixiv.net/users/19487132) [X](https://x.com/obake59518434) |
+| zuikou kou | 瑞弘コウ |  | [X](https://x.com/hashihirok80881) [pixiv](https://www.pixiv.net/users/93385318) |
 
 <!--TEMPLATE:
 |  |  |  |  |
