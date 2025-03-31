@@ -13694,6 +13694,7 @@ example:
 | hachi mega | 八メガ |  |  |
 | keishouryaku | 敬称略 |  |  |
 | tokisudeni osushi | ときすでにおすし |  |  |
+| hon | 本 |  | [pixiv](https://www.pixiv.net/users/3892256) |
 
 <!--TEMPLATE:
 |  |  |  |  |
