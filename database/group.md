@@ -13118,6 +13118,7 @@ example:
 | runabare | るなばれ |  |  |
 | koukishin | 光輝心 |  |  |
 | loli chahan | ロリチャーハン |  |  |
+| hashibiroko | ハシビロ湖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
