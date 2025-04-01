@@ -6305,6 +6305,7 @@ example:
 | almond eye | 杏目 |  |  |
 | maya yotsuba | 四叶真夜 |  |  |
 | suzune amano | 天乃铃音 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/天乃铃音) |
+| tsubaki mikoto | 美琴椿 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/美琴椿) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
