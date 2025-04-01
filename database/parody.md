@@ -2430,6 +2430,7 @@ example:
 | maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii | 身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？ |  | [维基百科](https://zh.wikipedia.org/wiki/身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？) [萌娘百科](https://zh.moegirl.org.cn/身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？) |
 | girumasu | 虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS |  | [维基百科](https://zh.wikipedia.org/wiki/雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目) [萌娘百科](https://zh.moegirl.org.cn/虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS) |
 | crusher joe | 宇宙先锋 | 高千穗遥同名系列小说改编，安彦良和初监督动画。<br><br>长达四年的制作，于1983年3月12日上映的剧场版动画，与《幻魔大战》《`space battleship yamato` 完结篇》同期上映。<br><br>故事发生在2160年，在人类得以移民太阳系外的未来。从事于宇宙中的便利屋，被称作Crusher的主角Joe一行人，突然收到了一个特殊的委托——护送一位处于冷冻睡眠中的病重的大小姐前往行星Miccola…… | [Bangumi](https://bgm.tv/subject/74199) [维基百科（日语）](https://ja.wikipedia.org/wiki/クラッシャージョウ) |
+| puella magi suzune magica | 魔法少女铃音 | 《魔法少女铃音》是《魔法少女小圆》系列所属外传漫画，由GAN创作。<br><br>健康元气地在报社当着住宿员工的中学生，铃音。一直充满笑容的生活背后，还有着秘密的另一面。<br>那就是、魔法少女的暗杀者。 | [萌娘百科](https://zh.moegirl.org.cn/魔法少女铃音) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
