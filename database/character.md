@@ -6306,6 +6306,7 @@ example:
 | maya yotsuba | 四叶真夜 |  |  |
 | suzune amano | 天乃铃音 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/天乃铃音) |
 | tsubaki mikoto | 美琴椿 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/美琴椿) |
+| junia | 阿玛琉莉斯 | 所属作品: `p:puella magi madoka magica side story magia record`<br><br>古罗马时期，作为侍女侍奉于庞贝的名门望族的魔法少女。在经历了因天灾毁灭城镇的悲剧后，许下愿望，重生于3年前的过去。为了改变历史，将人们从惨剧中拯救出来，便在罗马和平时期为此奔走努力。顺带一提，她有喜欢棋盘游戏的隐秘爱好。 | [萌娘百科](https://zh.moegirl.org.cn/阿玛琉莉丝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
