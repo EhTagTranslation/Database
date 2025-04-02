@@ -2433,6 +2433,7 @@ example:
 | puella magi suzune magica | 魔法少女铃音 | 《魔法少女铃音》是《魔法少女小圆》系列所属外传漫画，由GAN创作。<br><br>健康元气地在报社当着住宿员工的中学生，铃音。一直充满笑容的生活背后，还有着秘密的另一面。<br>那就是、魔法少女的暗杀者。 | [萌娘百科](https://zh.moegirl.org.cn/魔法少女铃音) |
 | senjou no fuga | 战场的赋格曲 | 英文名为Fuga: Melodies of Steel，《战场的赋格曲》是CyberConnect2开发的角色扮演游戏，于2018年2月1日宣布制作，并于2021年7月29日在PlayStation 4、PlayStation 5、Nintendo Switch、Steam、Epic Games Store、Xbox One、Xbox Series X、Xbox Series S平台上发售。游戏为CyberConnect2“CyberConnect Creative Challenge Competition”计划下的“复仇三部作”的第1作，其世界观沿袭《猫犬协奏曲》《Solatorobo 飞向CODA》。为了救回被抓走的家人，玩家在游戏中将操纵各个孩子们驾驶名为“塔拉尼斯”的巨大坦克进行冒险。 | [官网地址](https://www.cc2.co.jp/fuga/) [百度百科](https://baike.baidu.com/item/战场的赋格曲/58054613) [维基百科](https://zh.wikipedia.org/wiki/戰場的賦格曲) |
 | sentai red isekai de boukensha ni naru | 红战士在异世界成了冒险者 |  | [百度百科](https://baike.baidu.com/item/红战士在异世界成了冒险者/65426940) |
+| windbreaker | WIND BREAKER 防风铃 |  | [维基百科](https://zh.wikipedia.org/wiki/WIND_BREAKER—防風少年—) [萌娘百科](https://zh.moegirl.org.cn/WIND_BREAKER_防风铃) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
