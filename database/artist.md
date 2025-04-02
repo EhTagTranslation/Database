@@ -13698,6 +13698,7 @@ example:
 | obake | obake |  | [pixiv](https://www.pixiv.net/users/19487132) [X](https://x.com/obake59518434) |
 | zuikou kou | 瑞弘コウ |  | [X](https://x.com/hashihirok80881) [pixiv](https://www.pixiv.net/users/93385318) |
 | satou aji | 砂糖鯵 |  | [X](https://x.com/satou_aji11) [pixiv](https://www.pixiv.net/users/8502090) |
+| shirakumo zen | 白雲ゼン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
