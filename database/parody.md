@@ -348,7 +348,7 @@ example:
 | my hero academia | 我的英雄学院 |  |  |
 | shinmai maou no testament | 新妹魔王的契约者 |  |  |
 | youjo senki | 幼女战记 |  |  |
-| touken ranbu | 刀剑乱舞 |  |  |
+| touken ranbu | 刀剑乱舞 | 《刀剑乱舞》是日本游戏开发商EXNOA LLC与游戏制作公司NITRO PLUS合作开发的卡牌养成策略游戏，日服由DMM.com发行。 | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞) |
 | teen titans | 少年泰坦 |  |  |
 | undertale | 传说之下 |  |  |
 | five nights at freddys | 玩具熊的五夜后宫 | 《玩具熊的五夜后宫系列》（英语：Five Night's at Freddy's Series）是由Scott Cawthon创作从2014年开始发行的游戏《玩具熊的五夜后宫》相关的游戏/书籍系列。<br><br>该系列主要包括九款电子游戏，这些游戏发生在与虚构家庭比萨饼餐厅连锁店“费斯熊佛莱迪的比萨饼餐厅”相关的地点，在大多数游戏中，玩家扮演夜班员工的角色，必须利用工具，如安全摄影机、灯光、门和通风口，来保护自己免受在夜间变得移动且敌对的机器人偶角色的威胁。系列的故事情节逐渐通过录音、小游戏和游戏中的彩蛋揭示。 | [萌娘百科](https://zh.moegirl.org.cn/玩具熊的五夜后宫系列) [萌娘百科](https://zh.moegirl.org.cn/玩具熊的五夜后宫%28游戏%29) [维基百科](https://zh.wikipedia.org/wiki/佛萊迪餐館之五夜驚魂系列) [维基百科](https://zh.wikipedia.org/wiki/佛萊迪餐館之五夜驚魂_%28遊戲%29) |
