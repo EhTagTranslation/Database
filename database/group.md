@@ -13120,6 +13120,7 @@ example:
 | loli chahan | ロリチャーハン |  |  |
 | hashibiroko | ハシビロ湖 |  |  |
 | home not found | 家が見つかりません |  |  |
+| kirikirimai | 切切枚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
