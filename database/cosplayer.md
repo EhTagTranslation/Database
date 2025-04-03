@@ -140,6 +140,7 @@ example:
 | xing lan | 星澜是澜澜叫澜妹呀 |  |  |
 | aoi momoko | Momoko葵葵 |  |  |
 | enako | えなこ | enakorin |  |
+| da da juan juan xiao juan | 大大卷卷小卷 |  |  |
 
 <!--
 Template: 
