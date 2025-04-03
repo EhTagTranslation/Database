@@ -2435,6 +2435,7 @@ example:
 | sentai red isekai de boukensha ni naru | 红战士在异世界成了冒险者 |  | [百度百科](https://baike.baidu.com/item/红战士在异世界成了冒险者/65426940) |
 | windbreaker | WIND BREAKER 防风铃 |  | [维基百科](https://zh.wikipedia.org/wiki/WIND_BREAKER—防風少年—) [萌娘百科](https://zh.moegirl.org.cn/WIND_BREAKER_防风铃) |
 | natsu no ame | 夏之雨 |  | [维基百科](https://zh.wikipedia.org/wiki/夏之雨) |
+| sakura musubi | 樱花结 |  | [维基百科](https://zh.wikipedia.org/wiki/樱花结) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
