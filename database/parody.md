@@ -2438,6 +2438,7 @@ example:
 | sakura musubi | 樱花结 |  | [维基百科](https://zh.wikipedia.org/wiki/樱花结) |
 | your diary | your diary |  | [维基百科](https://zh.wikipedia.org/wiki/Your_diary) [萌娘百科](https://zh.moegirl.org.cn/Your_diary) |
 | amesarasa | 雨之布～雨君之恋 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アメサラサ_〜雨と、不思議な君に、恋をする〜) [百度百科](https://baike.baidu.com/item/雨之布) |
+| cafe sourire | CAFE SOURIRE |  | [萌娘百科](https://zh.moegirl.org.cn/CAFE_SOURIRE) [维基百科（日语）](https://ja.wikipedia.org/wiki/CAFE_SOURIRE) [百度百科](https://baike.baidu.com/item/CAFE%20SOURIRE) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
