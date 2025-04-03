@@ -2436,6 +2436,7 @@ example:
 | windbreaker | WIND BREAKER 防风铃 |  | [维基百科](https://zh.wikipedia.org/wiki/WIND_BREAKER—防風少年—) [萌娘百科](https://zh.moegirl.org.cn/WIND_BREAKER_防风铃) |
 | natsu no ame | 夏之雨 |  | [维基百科](https://zh.wikipedia.org/wiki/夏之雨) |
 | sakura musubi | 樱花结 |  | [维基百科](https://zh.wikipedia.org/wiki/樱花结) |
+| your diary | your diary |  | [维基百科](https://zh.wikipedia.org/wiki/Your_diary) [萌娘百科](https://zh.moegirl.org.cn/Your_diary) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
