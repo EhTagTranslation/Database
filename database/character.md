@@ -6311,6 +6311,7 @@ example:
 | namazuo toushirou | 鲶尾藤四郎 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:鲶尾藤四郎) |
 | honebami toushirou | 骨喰藤四郎 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:骨喰藤四郎) |
 | shiori shiomiya | 汐宫栞 | 所属作品: `p:the world god only knows` | [萌娘百科](https://zh.moegirl.org.cn/汐宫栞) |
+| najimi osana | 长名奈津美 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
