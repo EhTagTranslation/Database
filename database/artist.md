@@ -13699,6 +13699,7 @@ example:
 | zuikou kou | 瑞弘コウ |  | [X](https://x.com/hashihirok80881) [pixiv](https://www.pixiv.net/users/93385318) |
 | satou aji | 砂糖鯵 |  | [X](https://x.com/satou_aji11) [pixiv](https://www.pixiv.net/users/8502090) |
 | shirakumo zen | 白雲ゼン |  |  |
+| sasaria | 沙々々 | 与同名艺术家a:sasasa区分开。 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
