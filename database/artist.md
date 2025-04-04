@@ -13700,6 +13700,7 @@ example:
 | satou aji | 砂糖鯵 |  | [X](https://x.com/satou_aji11) [pixiv](https://www.pixiv.net/users/8502090) |
 | shirakumo zen | 白雲ゼン |  |  |
 | sasaria | 沙々々 | 与同名艺术家a:sasasa区分开。 |  |
+| tennen inari | 天然いなり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
