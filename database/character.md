@@ -6314,6 +6314,7 @@ example:
 | najimi osana | 长名奈津美 |  |  |
 | boothill | 波提欧 | 所属作品: `p:honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/波提欧) [萌娘百科](https://zh.moegirl.org.cn/波提欧) |
 | angelina kudou shields | 安洁莉娜·库都·希尔兹 | 所属作品: `p:mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/安洁莉娜·库都·希尔兹) |
+| iyo | 壹与 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
