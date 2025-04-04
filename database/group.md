@@ -13122,6 +13122,7 @@ example:
 | home not found | 家が見つかりません |  |  |
 | kirikirimai | 切切枚 |  |  |
 | inari koubou | いなり工房 |  |  |
+| yakitori umihal | やきとり海春 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
