@@ -6095,7 +6095,7 @@ example:
 | imari | 伊万里 |  |  |
 | imawano lem | 忌野Lem |  |  |
 | imazon | 今ゾン |  |  |
-| imiju | 寒天 |  |  |
+| imiju | 忌呪 |  |  |
 | imotarei | イモタレ |  |  |
 | imozuka panikuru | 芋塚ぱにくる |  |  |
 | imperial boy | 帝国少年 |  |  |
