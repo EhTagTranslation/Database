@@ -13123,6 +13123,7 @@ example:
 | kirikirimai | 切切枚 |  |  |
 | inari koubou | いなり工房 |  |  |
 | yakitori umihal | やきとり海春 |  |  |
+| kamikuraryuu doukoukai | 神倉流同好会 |  | [X](https://x.com/hisamikouta) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
