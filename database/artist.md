@@ -13701,6 +13701,7 @@ example:
 | shirakumo zen | 白雲ゼン |  |  |
 | sasaria | 沙々々 | 与同名艺术家a:sasasa区分开。 |  |
 | tennen inari | 天然いなり |  |  |
+| daitai taida | だいたい怠惰 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
