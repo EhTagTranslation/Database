@@ -13125,6 +13125,7 @@ example:
 | yakitori umihal | やきとり海春 |  |  |
 | kamikuraryuu doukoukai | 神倉流同好会 |  | [X](https://x.com/hisamikouta) |
 | heisei strawberry | 平成ストロベリー |  |  |
+| morioka syachu | 盛岡社中 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
