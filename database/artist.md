@@ -13705,6 +13705,7 @@ example:
 | domoran spika | 奴裳嵐すぴか |  |  |
 | rapa | らぱ☆ |  |  |
 | tarara | たらら |  |  |
+| yamazaki zetsu | 山崎舌 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
