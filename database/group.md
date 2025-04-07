@@ -13126,6 +13126,7 @@ example:
 | kamikuraryuu doukoukai | 神倉流同好会 |  | [X](https://x.com/hisamikouta) |
 | heisei strawberry | 平成ストロベリー |  |  |
 | morioka syachu | 盛岡社中 |  |  |
+| tarara no karaage | たららのからあげ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
