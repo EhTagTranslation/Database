@@ -13706,6 +13706,7 @@ example:
 | rapa | らぱ☆ |  |  |
 | tarara | たらら |  |  |
 | yamazaki zetsu | 山崎舌 |  |  |
+| retsuriko oomori | れつりこ大盛り |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
