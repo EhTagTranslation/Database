@@ -13707,6 +13707,7 @@ example:
 | tarara | たらら |  |  |
 | yamazaki zetsu | 山崎舌 |  |  |
 | retsuriko oomori | れつりこ大盛り |  |  |
+| nishiogi | 西荻 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
