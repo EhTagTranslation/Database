@@ -13127,6 +13127,7 @@ example:
 | heisei strawberry | 平成ストロベリー |  |  |
 | morioka syachu | 盛岡社中 |  |  |
 | tarara no karaage | たららのからあげ |  |  |
+| sankotsu yoga club | 散骨ヨガ倶楽部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
