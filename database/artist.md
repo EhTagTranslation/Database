@@ -13703,6 +13703,7 @@ example:
 | tennen inari | 天然いなり |  |  |
 | daitai taida | だいたい怠惰 |  |  |
 | domoran spika | 奴裳嵐すぴか |  |  |
+| rapa | らぱ☆ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
