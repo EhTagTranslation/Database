@@ -13704,6 +13704,7 @@ example:
 | daitai taida | だいたい怠惰 |  |  |
 | domoran spika | 奴裳嵐すぴか |  |  |
 | rapa | らぱ☆ |  |  |
+| tarara | たらら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
