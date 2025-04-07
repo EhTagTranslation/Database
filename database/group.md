@@ -13124,6 +13124,7 @@ example:
 | inari koubou | いなり工房 |  |  |
 | yakitori umihal | やきとり海春 |  |  |
 | kamikuraryuu doukoukai | 神倉流同好会 |  | [X](https://x.com/hisamikouta) |
+| heisei strawberry | 平成ストロベリー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
