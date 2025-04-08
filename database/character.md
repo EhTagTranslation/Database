@@ -6316,6 +6316,7 @@ example:
 | angelina kudou shields | 安洁莉娜·库都·希尔兹 | 所属作品: `p:mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/安洁莉娜·库都·希尔兹) |
 | iyo | 壹与 |  |  |
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
+| igarashi rika | 五十岚梨花 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
