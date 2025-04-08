@@ -6318,6 +6318,7 @@ example:
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
 | igarashi rika | 五十岚梨花 |  |  |
 | todo kohaku | 东堂琥珀 |  |  |
+| trigger | 扳机 | 扳机是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/扳机) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
