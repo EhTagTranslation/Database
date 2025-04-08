@@ -6319,6 +6319,7 @@ example:
 | igarashi rika | 五十岚梨花 |  |  |
 | todo kohaku | 东堂琥珀 |  |  |
 | trigger | 扳机 | 扳机是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/扳机) |
+| astgenne | 星源 | 星源，本名埃琳娜·乌比卡，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星源) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
