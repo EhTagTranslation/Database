@@ -6323,6 +6323,7 @@ example:
 | poncirus | 青枳 | 青枳，本名安麦尔·安蒂萝丝，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/青枳) |
 | lin yuhsia | 林 | 林，本名林雨霞，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
 | nightmare | 夜魔 | 夜魔，本名瑞贝尔·帕斯贝莱蒂·葛罗莉亚，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜魔%28明日方舟%29) |
+| kotori kanbe | 神户小鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/神户小鸟) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
