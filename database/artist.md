@@ -13708,6 +13708,7 @@ example:
 | yamazaki zetsu | 山崎舌 |  |  |
 | retsuriko oomori | れつりこ大盛り |  |  |
 | nishiogi | 西荻 |  |  |
+| mara jou daisuke | マラ嬢ダイ輔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
