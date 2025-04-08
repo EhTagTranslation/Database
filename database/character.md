@@ -6317,6 +6317,7 @@ example:
 | iyo | 壹与 |  |  |
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
 | igarashi rika | 五十岚梨花 |  |  |
+| todo kohaku | 东堂琥珀 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
