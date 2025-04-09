@@ -637,7 +637,7 @@ example:
 | fortune arterial | FORTUNE ARTERIAL |  |  |
 | princess holiday | 公主假日 ~回转苹果亭的一千零一夜~ |  |  |
 | tsuki wa higashi ni hi wa nishi ni | 东月西阳 | 夜月东升暮日西沉 |  |
-| daitoshokan no hitsujikai | 大图书馆的牧羊人 |  |  |
+| daitoshokan no hitsujikai | 大图书馆的牧羊人 | 《大图书馆的牧羊人》（日语：大図書館の羊飼い）是一部由`august`创作的游戏。 | [萌娘百科](https://zh.moegirl.org.cn/大图书馆的牧羊人) [维基百科](https://zh.wikipedia.org/wiki/大圖書館的牧羊人) |
 | aiyoku no eustia | 秽翼的尤斯蒂娅 |  |  |
 | rokka no yuusha | 六花的勇者 |  |  |
 | seiren | 清恋 |  |  |
