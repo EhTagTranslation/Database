@@ -6324,6 +6324,7 @@ example:
 | lin yuhsia | 林 | 林，本名林雨霞，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
 | nightmare | 夜魔 | 夜魔，本名瑞贝尔·帕斯贝莱蒂·葛罗莉亚，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜魔%28明日方舟%29) |
 | kotori kanbe | 神户小鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/神户小鸟) |
+| vivian | 薇薇安 | 所属作品: `p:zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/薇薇安%28绝区零%29) [Fandom](https://zenless-zone-zero.fandom.com/wiki/Vivian) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
