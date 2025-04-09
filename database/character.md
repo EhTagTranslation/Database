@@ -6330,6 +6330,7 @@ example:
 | sasami sasasegawa | 笹濑川佐佐美 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/笹濑川佐佐美) |
 | tsugumi shirasaki | 白崎绪美 | 所属作品: `p:daitoshokan no hitsujikai` | [萌娘百科](https://zh.moegirl.org.cn/白崎绪美) |
 | theresa | 特蕾西娅 | 特蕾西娅是鹰角网络制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/特蕾西娅%28明日方舟%29) |
+| orsola aquinas | 奥索拉·阿奎纳 | 所属作品: `p:toaru project` | [萌娘百科](https://zh.moegirl.org.cn/奥索拉·阿奎纳) [Fandom](https://toarumajutsunoindex.fandom.com/wiki/Orsola_Aquinas) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
