@@ -6328,6 +6328,7 @@ example:
 | seth lowell | 赛斯·洛威尔 | 赛斯·洛威尔是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛斯·洛威尔) |
 | yuiko kurugaya | 来谷唯湖 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/来谷唯湖) |
 | sasami sasasegawa | 笹濑川佐佐美 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/笹濑川佐佐美) |
+| tsugumi shirasaki | 白崎绪美 | 所属作品: `p:daitoshokan no hitsujikai` | [萌娘百科](https://zh.moegirl.org.cn/白崎绪美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
