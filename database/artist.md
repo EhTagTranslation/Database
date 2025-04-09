@@ -13709,6 +13709,7 @@ example:
 | retsuriko oomori | れつりこ大盛り |  |  |
 | nishiogi | 西荻 |  |  |
 | mara jou daisuke | マラ嬢ダイ輔 |  |  |
+| natsuno io | 夏野イオ |  | [X](https://x.com/natsuno_io) |
 
 <!--TEMPLATE:
 |  |  |  |  |
