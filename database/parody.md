@@ -2442,6 +2442,7 @@ example:
 | magical suite prism nana | 魔幻组曲 棱镜娜娜 |  | [维基百科](https://zh.wikipedia.org/wiki/魔幻組曲_稜鏡娜娜) |
 | solatorobo | 天空机器人 | 全名 Solatorobo それからCODAへ ；英文名 Solatorobo: Red the Hunter；别名 苍空骑士～飞向CODA～<br>《天空机器人》是由CyberConnect2制作、NBGI负责发售推出的ARPG游戏。 | [百度百科](https://baike.baidu.com/item/Solatorobo%20然后飞向CODA/63340596) [WikiFur](https://zh.wikifur.com/wiki/天空机器人) [维基百科](https://zh.wikipedia.org/wiki/蒼空騎士～飛向CODA～) |
 | shinseiki inma seiden | 新世紀淫魔聖伝 |  |  |
+| majestic prince | 银河机攻队 MAJESTIC PRINCE |  | [维基百科](https://zh.wikipedia.org/wiki/銀河機攻隊_莊嚴皇子) [百度百科](http://baike.baidu.com/item/银河机攻队MAJESTIC%20PRINCE) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
