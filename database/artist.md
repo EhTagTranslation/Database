@@ -13190,7 +13190,7 @@ example:
 | sencha bashira | 煎茶柱 | ![twitter](https://pbs.twimg.com/profile_images/1815052006811398145/-vU2EIw8_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/senchabashira) [pixiv](https://www.pixiv.net/users/99314862) |
 | kisaragi ai | 如月蓝 |  |  |
 | sunaba suzume | 砂場すずめ |  | [X](https://x.com/snba_szme) [pixiv](https://www.pixiv.net/users/34426633) |
-| nerima hakase | 練馬博士 |  |  |
+| nerima hakase | 练马博士 |  |  |
 | imotarou | いもたろう | ![X](https://pbs.twimg.com/profile_images/1609450036798316544/ddS6Ktkf_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/imoimodarake) |
 | kasetsu makoto | 霞雪诚 |  |  |
 | chomoran | チョモラン |  |  |
