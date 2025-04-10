@@ -12965,7 +12965,7 @@ example:
 | romm | ろむむ |  |  |
 | kasuya mako | 粕谷まこ |  |  |
 | tsuruta bungaku | 鹤田文学 |  |  |
-| nanase makoto | 七瀬真琴 |  |  |
+| nanase makoto | 七濑真琴 |  |  |
 | uehara taichi | 上原た壱 |  |  |
 | kozuki | 甲月 |  |  |
 | templus | TeMたす |  | [pixiv](https://www.pixiv.net/users/1640552) [X](https://x.com/templus11) |
