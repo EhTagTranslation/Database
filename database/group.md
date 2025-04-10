@@ -12968,7 +12968,7 @@ example:
 | shokushu gitei | 触手义弟 |  |  |
 | yawaraka aomame no on salad | 柔らか青豆の温サラダ |  |  |
 | youkandou | ようかん堂 |  |  |
-| dasei seikatsu suishin iinkai | 怠惰生活推進委員会 |  |  |
+| dasei seikatsu suishin iinkai | 怠惰生活推进委员会 |  |  |
 | nekonohosomiti | ねこの細道 |  |  |
 | hyoushigi | 拍子木 |  |  |
 | torino sunakimo | とりのすなきも |  |  |
