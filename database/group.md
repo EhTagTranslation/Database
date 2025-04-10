@@ -12965,7 +12965,7 @@ example:
 | tricera koubou | トリケラ工房 |  |  |
 | hanayanagoyaka | はなやなごやか |  |  |
 | daidai shikibu | 橙式部 |  |  |
-| shokushu gitei | 触手義弟 |  |  |
+| shokushu gitei | 触手义弟 |  |  |
 | yawaraka aomame no on salad | 柔らか青豆の温サラダ |  |  |
 | youkandou | ようかん堂 |  |  |
 | dasei seikatsu suishin iinkai | 怠惰生活推進委員会 |  |  |
