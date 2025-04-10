@@ -12993,7 +12993,7 @@ example:
 | uten kekkou | 雨天決行 |  |  |
 | y-kr | Y-KR |  |  |
 | kumo no furusu | 雲の古巣 |  |  |
-| tsukimi yagura | 月見櫓 |  |  |
+| tsukimi yagura | 月见橹 |  |  |
 | tetsubou shounen | 鉄棒少年 |  |  |
 | toshiue onee-san tengoku | 年上おねーさん天国 |  |  |
 | josou bouzu danshi kenkyuujo | 女装坊主男子研究所 |  |  |
