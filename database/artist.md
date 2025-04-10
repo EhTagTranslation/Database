@@ -2459,7 +2459,7 @@ example:
 | shindou | しんどう |  |  |
 | kikurage | きくらげ |  |  |
 | sanom | 鎖ノム |  |  |
-| amagasa ikuta | 雨暈郁太 |  |  |
+| amagasa ikuta | 雨晕郁太 |  |  |
 | sukesaburou | 助三郎 |  |  |
 | jiraiya | 児雷也 |  |  |
 | kuromotokun | 黑本君 | ![X](https://pbs.twimg.com/profile_images/1628815883975168001/DQXYSKOO_400x400.jpg)<br><br>**作者推特头像**<br><br>社团`micro page`主笔画师 |  |
