@@ -13370,7 +13370,7 @@ example:
 | sunaba yuu | 砂场游 |  |  |
 | garoudo | ガロウド |  |  |
 | nanamachi | ナナマチ |  |  |
-| ayase mio | 綾瀬水音 |  |  |
+| ayase mio | 绫濑水音 |  |  |
 | niizuma potepu | 新妻ぽてぷ |  |  |
 | kikuazami kaoru | 菊薊薫 |  |  |
 | pupunezumi | ぷぷねずみ |  |  |
