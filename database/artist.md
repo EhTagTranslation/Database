@@ -13315,7 +13315,7 @@ example:
 | kurasawa moko | 倉澤もこ |  |  |
 | hatori mia | 羽鳥みあ |  |  |
 | miyazaki uno | 宮崎うの |  |  |
-| mutagawa | 無田川 |  |  |
+| mutagawa | 无田川 |  |  |
 | hiiragi ringo | 柊林檎 |  |  |
 | yozora shiba | 夜空柴 |  |  |
 | asane ken | 朝寝ケン |  |  |
