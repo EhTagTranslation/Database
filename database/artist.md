@@ -12964,7 +12964,7 @@ example:
 | yoshinao | よしなお |  |  |
 | romm | ろむむ |  |  |
 | kasuya mako | 粕谷まこ |  |  |
-| tsuruta bungaku | 鶴田文学 |  |  |
+| tsuruta bungaku | 鹤田文学 |  |  |
 | nanase makoto | 七瀬真琴 |  |  |
 | uehara taichi | 上原た壱 |  |  |
 | kozuki | 甲月 |  |  |
