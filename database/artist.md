@@ -13710,6 +13710,7 @@ example:
 | nishiogi | 西荻 |  |  |
 | mara jou daisuke | マラ嬢ダイ輔 |  |  |
 | natsuno io | 夏野イオ | `g:august`所属画师 | [X](https://x.com/natsuno_io) [Bangumi](https://bgm.tv/person/29813) |
+| oza | お坐 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
