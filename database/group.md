@@ -13110,7 +13110,7 @@ example:
 | nurume no coffee | ぬるめの珈琲 |  |  |
 | jun tokutyu kuromask | 準特注くろますく |  |  |
 | kanmigokoro | 甘味心 |  |  |
-| tohonifun | 徒歩二分 |  |  |
+| tohonifun | 徒步二分 |  |  |
 | gokunama kinringo | 極生きんりんご |  |  |
 | bekkou kansoku | べっこう観測 |  |  |
 | yaseuma lo-ru | やせうまロール |  | [HP](https://www.yaseuma-loru.com) |
