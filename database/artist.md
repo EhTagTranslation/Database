@@ -13372,7 +13372,7 @@ example:
 | nanamachi | ナナマチ |  |  |
 | ayase mio | 绫濑水音 |  |  |
 | niizuma potepu | 新妻ぽてぷ |  |  |
-| kikuazami kaoru | 菊薊薫 |  |  |
+| kikuazami kaoru | 菊蓟薰 |  |  |
 | pupunezumi | ぷぷねずみ |  |  |
 | zero jirou | ぜろじろう |  |  |
 | ashida ex | 芦田 EX |  |  |
