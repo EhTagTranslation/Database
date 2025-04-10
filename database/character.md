@@ -3753,7 +3753,7 @@ example:
 | aoi hinami | 日南葵 | ![](https://p.sda1.dev/5/e2c3ea537baae8be52f1b3f3abfd12a0/chara2_img.png) |  |
 | feena fam earthlight | 菲娜·法姆·阿修莱特 | 菲娜·法姆·阿修莱特（Feena fam Earthlight）是August旗下游戏《更胜黎明前的琉璃色》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/5/e19463143122e42df3a6db71acc0b24f/300px-Feena_Fam_Earthlight.jpg) | [萌娘百科](https://zh.moegirl.org.cn/菲娜·法姆·阿修莱特) |
 | akiko minase | 水濑秋子 | 动画、游戏《Kanon》中的人物。相泽祐一的阿姨，水濑名雪的母亲。 | [百度百科](https://baike.baidu.com/item/水濑秋子/10785282?fr=aladdin) |
-| yuuichi aizawa | 水濑名雪 | 水濑名雪，Key社制作的游戏及其改编动画《Kanon》中的女主角之一。蓝色长发，温柔善解人意，有时也很迷糊，天然呆的美少女。擅长跑步，是学校里田径社的社长。非常能睡，在毫无征兆的情况下可以站着睡着。 | [百度百科](https://baike.baidu.com/item/水濑名雪/2251173) |
+| yuuichi aizawa | 相泽祐一 | 相泽祐一是Key出品的Galgame《Kanon》的登场人物，为作品的男主角。 | [萌娘百科](https://zh.moegirl.org.cn/相泽祐一) |
 | itako tohoku | 东北伊达子 | 東北イタコ |  |
 | una otomachi | 音街鳗 |  |  |
 | kokona aoba | 青羽心夏 | 漫画`yama no susume`中的角色 | [萌娘百科](https://zh.moegirl.org.cn/青羽心夏) |
