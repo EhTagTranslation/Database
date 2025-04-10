@@ -6024,7 +6024,7 @@ example:
 | ichino | いちの |  |  |
 | ichinomiya kazusa | 一ノ宮かずさ |  |  |
 | ichinose | イチノセ |  |  |
-| ichiokunen wakusei | 1億年惑星 |  |  |
+| ichiokunen wakusei | 1亿年惑星 |  |  |
 | ichiro | 一滝 |  |  |
 | ichitaka | いちたか |  |  |
 | ichiya | 一夜 |  |  |
