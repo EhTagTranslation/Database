@@ -13627,7 +13627,7 @@ example:
 | kuba yodomu | 紅端よどむ |  |  |
 | kuriame kururu | 栗飴くるる |  |  |
 | usanomura kamekichi | 兎ノ村亀吉 |  |  |
-| fujiwara kyosuke | 藤原恭輔 |  |  |
+| fujiwara kyosuke | 藤原恭辅 |  |  |
 | kuramoto zen | 仓本膳 |  |  |
 | kozuki kanna | 湖月神无 |  |  |
 | tsurukame mayo | 鶴亀まよ |  |  |
