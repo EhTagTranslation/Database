@@ -13128,6 +13128,7 @@ example:
 | morioka syachu | 盛岡社中 |  |  |
 | tarara no karaage | たららのからあげ |  |  |
 | sankotsu yoga club | 散骨ヨガ倶楽部 |  |  |
+| futo fukutsu | フトーフクツ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
