@@ -13266,7 +13266,7 @@ example:
 | hinata hibari | ひなたひばり |  |  |
 | becchan | べっちゃん |  |  |
 | nekono fuguri | 猫乃ふぐり |  |  |
-| bajitohfu | 馬耳東風 |  |  |
+| bajitohfu | 马耳东风 |  |  |
 | yomosugara | よもすがら |  |  |
 | kishuu yuki | 稀周悠希 |  |  |
 | kuroi mimei | 黒井みめい |  |  |
