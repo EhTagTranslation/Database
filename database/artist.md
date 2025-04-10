@@ -3579,7 +3579,7 @@ example:
 | ame | 雨 | ![X](https://pbs.twimg.com/profile_images/1343240345950175234/fNw_1b6w_400x400.jpg)<br><br>**作者推特头像**<br><br>在日韩国同人画师，社团`orangemaru`的三位主笔之一，有着三人中最多的twitter粉丝 | [X](https://x.com/la__pioggia) [pixiv](https://www.pixiv.net/users/4595297) |
 | jp06 | JP06 | ![X](https://pbs.twimg.com/profile_images/1387630970933633025/JraLkYJ1_400x400.jpg)<br><br>**作者推特头像**<br><br>在日韩国同人画师,社团`orangemaru`主笔之一 | [X](https://x.com/jpmaruroku) [pixiv](https://www.pixiv.net/users/1074517) |
 | kazepana | かぜぱな |  |  |
-| gyouza teishoku | 餃子定食 |  |  |
+| gyouza teishoku | 饺子定食 |  |  |
 | kyouichirou | 狂一郎 |  | [pixiv](https://www.pixiv.net/users/13457553) |
 | kuon michiyoshi | 久远道义 | 男女二人的漫画家组合<br><br>![X](https://pbs.twimg.com/profile_images/933838566945255424/Y4GfWWwM_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/quon_michi) [HP](https://misskey.io/@quon_michi) |
 | gorgeous mushroom | 绚烂的蘑菇 | [pixiv](https://www.pixiv.net/users/11187954)<br>[X](https://x.com/GMMUSHROOM)<br>[微博](https://www.weibo.com/u/3734949131) |  |
