@@ -12845,7 +12845,7 @@ example:
 | ikebukuro distillery | 池袋蒸留所 |  |  |
 | honeyroad | HoneyRoad |  |  |
 | golden bazooka | ゴールデンバズーカ |  |  |
-| nature carute | 天然養殖 |  |  |
+| nature carute | 天然养殖 |  |  |
 | crazy brain pulse | くれいじーぶれいんぱるす |  |  |
 | nuts koumuten | ナッツ工務店 |  |  |
 | faunas | ファウナス |  |  |
