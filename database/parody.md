@@ -2319,7 +2319,7 @@ example:
 | kowarekake no orgel | 快要坏掉的八音盒 | 《萌单》作者POP的另一原创作品<br>![图](https://ehgt.org/ba/38/ba382b2eb6c435a8432aa32aaa2daa77ca0ef697-1847283-2106-3006-jpg_l.jpg) |  |
 | koikishi purely kiss | 恋骑士Purely☆Kiss | 《恋骑士 Purely☆Kiss》是AKABEiSOFT2公司的分公司エフォルダムソフト在2011年9月30日发售的恋爱冒险类型成人游戏。2014年4月エフォルダムソフト宣告解散，游戏的版权移交给AKABEiSOFT2公司的AKABEiSOFT3。OVA则是由PinkPineapple在2013年7月26日开始发售. | [维基百科](https://zh.wikipedia.org/wiki/戀騎士_Purely☆Kiss)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/恋騎士_Purely☆Kiss) |
 | saimin yuugi | 催眠游戏 | Sayori紗由里/纱由里老师原画游戏<br>group:staffing スタッフィング | [https://2dfan.com/subjects/1771](https://2dfan.com/subjects/1771) |
-| taimanin rpg | 対魔忍RPG |  |  |
+| taimanin rpg | 对魔忍RPG |  |  |
 | ura sekai picnic | 里世界郊游 | 《里世界郊游》（日语：裏世界ピクニック）是宫泽伊织（著作）和shirakaba（插画）创作的以都市传说为基础的SF百合冒险小说，并有漫画、动画形式的衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/里世界郊游) |
 | gyakuten majo saiban | 逆转魔女裁判 |  |  |
 | luminous witches | 光辉魔女 |  |  |
