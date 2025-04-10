@@ -13111,7 +13111,7 @@ example:
 | kurotsuki machi | 黒月マチ |  |  |
 | mameneko | まめ猫 | 这是一只起水泡的吸塑猫。 | [pixiv](https://www.pixiv.net/users/14924165)<br>[X](https://x.com/mameneko_funyaa) |
 | richard bahman | リヒャルト・バフマン |  |  |
-| boukoku daitouryou | 某国大統領 |  |  |
+| boukoku daitouryou | 某国大统领 |  |  |
 | yuuki fuumi | 有機風味 |  |  |
 | nonohara miki | 野野原干 | 野々原幹 | [维基百科](https://zh.wikipedia.org/wiki/野野原幹) [维基百科（日语）](https://ja.wikipedia.org/wiki/野々原幹) [https://dyon.sakura.ne.jp/dyondiary/](https://dyon.sakura.ne.jp/dyondiary/) |
 | yumejidake | ユメジダケ |  |  |
