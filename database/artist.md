@@ -13299,7 +13299,7 @@ example:
 | shidare madara | しだれ斑 |  |  |
 | nanika iru | なにかいる |  | [pixiv](https://www.pixiv.net/users/1977144) [X](https://x.com/majiyanka) |
 | mamiyahara hitoshige | 真宮原ヒトシゲ |  |  |
-| natsushi | 夏師 |  |  |
+| natsushi | 夏师 |  |  |
 | moguchobi | もぐちょび |  |  |
 | yuzugaeru | ゆずがえる |  |  |
 | cabocha | 南瓜 |  |  |
