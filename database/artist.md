@@ -13456,7 +13456,7 @@ example:
 | okadate imari | 冈馆いまり |  |  |
 | hontani kanae | ほんたにかなえ |  |  |
 | toranosuke | 虎之助 | とらのすけ |  |
-| takashima | 田貸魔 |  |  |
+| takashima | 田贷魔 |  |  |
 | croriin | Croriin |  |  |
 | sawatashi yun | さわたしゆん |  |  |
 | yochi ryota | よちリョウタ |  |  |
