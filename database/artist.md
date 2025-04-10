@@ -13367,7 +13367,7 @@ example:
 | tebasaki chikin | 手羽咲ちきん |  |  |
 | shiniku haguki | 歯肉はぐき |  |  |
 | torimune | とりむね |  |  |
-| sunaba yuu | 砂場遊 |  |  |
+| sunaba yuu | 砂场游 |  |  |
 | garoudo | ガロウド |  |  |
 | nanamachi | ナナマチ |  |  |
 | ayase mio | 綾瀬水音 |  |  |
