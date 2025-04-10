@@ -12938,7 +12938,7 @@ example:
 | tabibitto | たびびっと |  |  |
 | hakutoutei | 白桃亭 |  |  |
 | iyashiyu | 愈し汤 |  |  |
-| yumemizato | 夢見里 |  |  |
+| yumemizato | 梦见里 |  |  |
 | chidori ashi | ちどりあし |  |  |
 | shounen brief kenkyuujo | 少年ブリーフ研究所 |  |  |
 | rotstudio | Rot Studio |  |  |
