@@ -5880,7 +5880,7 @@ example:
 | miyo harada | 原田美世 |  | [萌娘百科](https://zh.moegirl.org.cn/原田美世) |
 | shouko nishimiya | 西宫硝子 | 西宫硝子是大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/40/Nishimiya_Shouko_Side.png) | [萌娘百科](https://zh.moegirl.org.cn/西宫硝子) |
 | naoka ueno | 植野直花 | 植野直花是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6f/Ueno-img.png/320px-Ueno-img.png) | [萌娘百科](https://zh.moegirl.org.cn/植野直花) |
-| shouya ishida | 石田将也 | 石田將也（日語：石田 将也）是由大今良時所創作的漫畫《聲之形》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/8/82/Shoya-img.png) | [萌娘百科](https://zh.moegirl.org.cn/石田将也) |
+| shouya ishida | 石田将也 | 石田将也（日语：石田 将也）是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br><br>![](https://img.moegirl.org.cn/common/8/82/Shoya-img.png) | [萌娘百科](https://zh.moegirl.org.cn/石田将也) |
 | yuzuru nishimiya | 西宫结弦 | 西宫结弦是由大今良时所创作的漫画《声之形》及其衍生作品的登场角色。<br><br>![](https://pbs.twimg.com/media/EtcKehbXcAEwKvt?format=jpg&name=900x900) | [萌娘百科](https://zh.moegirl.org.cn/西宫结弦) |
 | sayo minakami | 水神小夜 | 水神小夜（日语：水神（みなかみ） 小夜（さよ））是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://i.pixiv.cat/img-master/img/2024/11/01/23/23/57/116177494_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水神小夜) |
 | kaoruko tenkawa | 天川薰子 | 天川薰子（日语：天川（てんかわ） 薫子（かおるこ））是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://c-ssl.dtstatic.com/uploads/blog/202402/17/n6SX2vx4T9gDPjn.thumb.700_0.jpg_webp) | [萌娘百科](https://zh.moegirl.org.cn/天川薰子) |
