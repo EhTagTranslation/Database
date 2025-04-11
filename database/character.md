@@ -6333,6 +6333,7 @@ example:
 | orsola aquinas | 奥索拉·阿奎纳 | 所属作品: `p:toaru project` | [萌娘百科](https://zh.moegirl.org.cn/奥索拉·阿奎纳) [Fandom](https://toarumajutsunoindex.fandom.com/wiki/Orsola_Aquinas) |
 | neuro-sama | Neuro-sama（神经元大人） | ![](https://upload.wikimedia.org/wikipedia/zh/d/d0/Neurosama_new_model.png) | [维基百科](https://zh.wikipedia.org/wiki/Neuro-sama) [萌娘百科](https://zh.moegirl.org.cn/Neuro-sama) |
 | yuki nonaka | 野中柚希 | 所属作品: `p:shinmai maou no testament` | [Fandom](https://shinmaimaou.fandom.com/wiki/Yuki_Nonaka) |
+| basara toujou | 东城刃更 | 所属作品: `p:shinmai maou no testament` | [Fandom](https://shinmaimaou.fandom.com/wiki/Basara_Toujou) [百度百科](https://baike.baidu.com/item/東城刃更) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
