@@ -2444,6 +2444,7 @@ example:
 | shinseiki inma seiden | 新世纪淫魔圣传 |  |  |
 | majestic prince | 银河机攻队 MAJESTIC PRINCE |  | [维基百科](https://zh.wikipedia.org/wiki/銀河機攻隊_莊嚴皇子) [百度百科](http://baike.baidu.com/item/银河机攻队MAJESTIC%20PRINCE) |
 | kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen | 你与我最后的战场，亦或是世界起始的圣战 |  | [维基百科](https://zh.wikipedia.org/wiki/你與我最後的戰場，亦或是世界起始的聖戰) [萌娘百科](https://zh.moegirl.org.cn/这是你与我的最后战场，或是开创世界的圣战) |
+| campione | 弑神者 |  | [维基百科](https://zh.wikipedia.org/wiki/Campione_弒神者！) [萌娘百科](https://zh.moegirl.org.cn/弑神者%28小说%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
