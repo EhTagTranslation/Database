@@ -6336,6 +6336,7 @@ example:
 | basara toujou | 东城刃更 | 所属作品: `p:shinmai maou no testament` | [Fandom](https://shinmaimaou.fandom.com/wiki/Basara_Toujou) [百度百科](https://baike.baidu.com/item/東城刃更) |
 | erica blandelli | 艾丽卡·布朗特里 | 所属作品: `p:campione` | [萌娘百科](https://zh.moegirl.org.cn/艾丽卡·布朗特里) [维基百科](https://zh.wikipedia.org/wiki/Campione_弒神者！角色列表#主要角色) |
 | claire harvey | 克蕾亚·哈维 | 所属作品: `p:hundred` | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記#主要角色) |
+| kazemaru | 风丸 | 风丸是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/风丸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
