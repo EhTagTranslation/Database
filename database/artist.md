@@ -12638,7 +12638,7 @@ example:
 | iwami yasoya | 石见やそや | ![X](https://pbs.twimg.com/profile_images/1607594719500197892/r3UmAHQ9_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/IwamiYasoya) [pixiv](https://www.pixiv.net/users/22078099) |
 | mittsuman | みっつまん |  |  |
 | chinetsu | ちねつ |  |  |
-| akausu ko | 赤薄红 |  |  |
+| akausu ko | 赤薄紅 |  |  |
 | otona no sexy ehon | 大人のSEXY絵本 |  |  |
 | hogeramu | ほげらむ | ![X](https://pbs.twimg.com/profile_images/1510941923380326403/6FhJPMtC_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/hogerarara) [pixiv](https://www.pixiv.net/users/78795964) |
 | raikou | らい公 |  |  |
