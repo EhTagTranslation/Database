@@ -13395,7 +13395,7 @@ example:
 | doco | Doco |  |  |
 | basoba | ばそば |  |  |
 | shittori bouzu | しっとりボウズ |  |  |
-| tukigi kousuke | 月木浩介 |  | [Fantia](https://fantia.jp/fanclubs/491908) |
+| tukigi kousuke | 槻木こうすけ |  | [Fantia](https://fantia.jp/fanclubs/491908) |
 | nakamura taiyaki | 中村たいやき |  | [pixiv](https://www.pixiv.net/users/2239312) [X](https://x.com/tiyk_nkmr/) |
 | payochiyo | ぱょちょ |  | [X](https://x.com/payochiyo) [pixiv](https://www.pixiv.net/users/63438284) |
 | otoduki moduku | 音月もづく |  | [X](https://x.com/otodukunyan) |
