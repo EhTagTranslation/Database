@@ -13129,6 +13129,7 @@ example:
 | tarara no karaage | たららのからあげ |  |  |
 | sankotsu yoga club | 散骨ヨガ倶楽部 |  |  |
 | futo fukutsu | フトーフクツ |  |  |
+| mugimeshiya | むぎめしや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
