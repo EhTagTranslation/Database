@@ -13713,6 +13713,7 @@ example:
 | oza | お坐 |  |  |
 | natsumugi | なつむぎ |  |  |
 | futomomo daimaou | ふともも大魔王 |  |  |
+| ookuma nekosuke | 大熊猫介 |  | [X](https://x.com/panda_ookuma) [维基百科（日语）](https://ja.wikipedia.org/wiki/大熊猫介) |
 
 <!--TEMPLATE:
 |  |  |  |  |
