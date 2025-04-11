@@ -13712,6 +13712,7 @@ example:
 | natsuno io | 夏野イオ | `g:august`所属画师 | [X](https://x.com/natsuno_io) [Bangumi](https://bgm.tv/person/29813) |
 | oza | お坐 |  |  |
 | natsumugi | なつむぎ |  |  |
+| futomomo daimaou | ふともも大魔王 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
