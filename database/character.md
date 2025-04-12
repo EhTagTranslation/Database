@@ -6338,6 +6338,7 @@ example:
 | claire harvey | 克蕾亚·哈维 | 所属作品: `p:hundred` | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記#主要角色) |
 | kazemaru | 风丸 | 风丸是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/风丸) |
 | alsace | 阿尔萨斯 | 原型为法国设计的阿尔萨斯级战列舰，是黎塞留级的改进方案。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿尔萨斯)<br>[维基百科](https://zh.wikipedia.org/wiki/阿爾薩斯級戰列艦) |
+| makoto naegi | 苗木诚 | 《弹丸论破：希望学院和绝望高中生》的主人公，在《超级弹丸论破2：再见绝望学园》、弹丸论破前传小说zero、特典小说IF中都有登场。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
