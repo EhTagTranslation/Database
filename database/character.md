@@ -6337,6 +6337,7 @@ example:
 | erica blandelli | 艾丽卡·布朗特里 | 所属作品: `p:campione` | [萌娘百科](https://zh.moegirl.org.cn/艾丽卡·布朗特里) [维基百科](https://zh.wikipedia.org/wiki/Campione_弒神者！角色列表#主要角色) |
 | claire harvey | 克蕾亚·哈维 | 所属作品: `p:hundred` | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記#主要角色) |
 | kazemaru | 风丸 | 风丸是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/风丸) |
+| alsace | 阿尔萨斯 | 原型为法国设计的阿尔萨斯级战列舰，是黎塞留级的改进方案。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿尔萨斯)<br>[维基百科](https://zh.wikipedia.org/wiki/阿爾薩斯級戰列艦) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
