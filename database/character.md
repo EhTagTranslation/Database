@@ -6341,6 +6341,7 @@ example:
 | makoto naegi | 苗木诚 | 《弹丸论破：希望学院和绝望高中生》的主人公，在《超级弹丸论破2：再见绝望学园》、弹丸论破前传小说zero、特典小说IF中都有登场。 |  |
 | solution epsilon | 索琉香·爱普史龙 |  |  |
 | narberal gamma | 娜贝拉尔·伽玛 |  |  |
+| lupusregina beta | 露普斯蕾琪娜·贝塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
