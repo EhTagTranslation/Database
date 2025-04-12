@@ -6342,6 +6342,7 @@ example:
 | solution epsilon | 索琉香·爱普史龙 |  |  |
 | narberal gamma | 娜贝拉尔·伽玛 |  |  |
 | lupusregina beta | 露普斯蕾琪娜·贝塔 |  |  |
+| renner theiere chardelon ryle vaiself | 拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
