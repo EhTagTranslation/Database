@@ -13434,7 +13434,7 @@ example:
 | mizuno yun | 水野 |  | [X](https://x.com/mizuno_yun) [pixiv](https://www.pixiv.net/users/132763) |
 | anayama | 穴山 |  | [X](https://x.com/ana3rdo) [pixiv](https://www.pixiv.net/users/1156793) |
 | kotorakku | ことらっく |  |  |
-| parum | Parum | 代表作：轻小说插图 被称为孤高之花的英国美少女成为我的继妹以后笨拙地依赖我 ネコクロ |  |
+| parum | Parum |  | [pixiv](https://www.pixiv.net/users/43259598) [X](https://x.com/Parum__39) |
 | amano mitara | 甘乃みたら |  |  |
 | huca | huca |  | [pixiv](https://www.pixiv.net/users/16002030) |
 | eploov | EPLOOV |  | [pixiv](https://www.pixiv.net/users/14859534) |
