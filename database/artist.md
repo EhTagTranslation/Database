@@ -13714,6 +13714,7 @@ example:
 | natsumugi | なつむぎ |  |  |
 | futomomo daimaou | ふともも大魔王 |  |  |
 | ookuma nekosuke | 大熊猫介 |  | [X](https://x.com/panda_ookuma) [维基百科（日语）](https://ja.wikipedia.org/wiki/大熊猫介) |
+| minghe canyue | 冥河残月 | 画师<br>本人无简介 | [X](https://x.com/minghecanyue) |
 
 <!--TEMPLATE:
 |  |  |  |  |
