@@ -13130,6 +13130,7 @@ example:
 | sankotsu yoga club | 散骨ヨガ倶楽部 |  |  |
 | futo fukutsu | フトーフクツ |  |  |
 | mugimeshiya | むぎめしや |  |  |
+| melt syndrome | メルトシンドローム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
