@@ -13718,6 +13718,7 @@ example:
 | fujimura ramu | 藤村らむ |  |  |
 | jaaku | 邪悪 |  |  |
 | tianoblue | ティアノブルー |  |  |
+| repamido | れぱみど |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
