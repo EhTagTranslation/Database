@@ -13719,6 +13719,7 @@ example:
 | jaaku | 邪悪 |  |  |
 | tianoblue | ティアノブルー |  |  |
 | repamido | れぱみど |  |  |
+| domon | ドモン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
