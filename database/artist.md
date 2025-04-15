@@ -13720,6 +13720,7 @@ example:
 | tianoblue | ティアノブルー |  |  |
 | repamido | れぱみど |  |  |
 | domon | ドモン |  |  |
+| tomura suisen | 戸村水仙 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
