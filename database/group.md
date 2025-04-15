@@ -13132,6 +13132,7 @@ example:
 | mugimeshiya | むぎめしや |  |  |
 | melt syndrome | メルトシンドローム |  |  |
 | fkrfactory | FKRfactory |  |  |
+| kurosumi yakousho | イタリ屋×黒墨夜行書 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
