@@ -13721,6 +13721,7 @@ example:
 | repamido | れぱみど |  |  |
 | domon | ドモン |  |  |
 | tomura suisen | 戸村水仙 |  |  |
+| fukura hagi | 吹浦ハギ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
