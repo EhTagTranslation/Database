@@ -13131,6 +13131,7 @@ example:
 | futo fukutsu | フトーフクツ |  |  |
 | mugimeshiya | むぎめしや |  |  |
 | melt syndrome | メルトシンドローム |  |  |
+| fkrfactory | FKRfactory |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
