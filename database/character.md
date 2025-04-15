@@ -6345,6 +6345,7 @@ example:
 | renner theiere chardelon ryle vaiself | 拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙 |  |  |
 | pardofelis | 帕朵菲利斯 | 崩坏三登场角色，逐火之蛾十二英桀末位。<br>名称来源为 拉丁语 felicitas somnium. (幸福之梦）。 |  |
 | maiden | 梅登 | 梅登，手游《胜利女神：妮姬》中的角色。<br>梅登是一名外界部队的SSR品质妮姬，定位为火力型，武器为霰弹枪。 |  |
+| cartethyia | 卡提希娅 | 卡提希娅是库洛制作的游戏《鸣潮》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7d/卡提希娅-昔我悲伤，今却歌唱.png) | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
