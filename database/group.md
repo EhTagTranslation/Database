@@ -13133,6 +13133,7 @@ example:
 | melt syndrome | メルトシンドローム |  |  |
 | fkrfactory | FKRfactory |  |  |
 | kurosumi yakousho | イタリ屋×黒墨夜行書 |  |  |
+| nedia region | えぬりーじょん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
