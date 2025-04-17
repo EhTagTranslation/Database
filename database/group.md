@@ -13136,6 +13136,7 @@ example:
 | nedia region | えぬりーじょん |  |  |
 | hayaku jk ni naritai | はやくJKになりたい |  |  |
 | aihara workshop | 和原工房 |  |  |
+| toumin daikon | 冬眠だいこん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
