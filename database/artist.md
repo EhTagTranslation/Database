@@ -5420,7 +5420,7 @@ example:
 | gust-san | ガストさん |  |  |
 | guy | GUY |  |  |
 | gyakushuu takeshi | 逆襲武士 |  |  |
-| gyarin | ぎゃりん |  |  |
+| gyarin | ぎゃりん |  | [pixiv](https://www.pixiv.net/users/1632236) |
 | gyoko | 漁港 |  |  |
 | gyokro | ぎょくろ |  |  |
 | gyonikun | 魚肉ん |  |  |
