@@ -13722,6 +13722,7 @@ example:
 | domon | ドモン |  |  |
 | tomura suisen | 戸村水仙 |  |  |
 | fukura hagi | 吹浦ハギ |  |  |
+| aihara you | 和原ヨウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
