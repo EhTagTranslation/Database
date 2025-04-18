@@ -13724,6 +13724,7 @@ example:
 | fukura hagi | 吹浦ハギ |  |  |
 | aihara you | 和原ヨウ |  |  |
 | amaguri | 甘guri |  |  |
+| aronyan | あろにゃん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
