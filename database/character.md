@@ -6347,6 +6347,7 @@ example:
 | maiden | 梅登 | 梅登，手游《胜利女神：妮姬》中的角色。<br>梅登是一名外界部队的SSR品质妮姬，定位为火力型，武器为霰弹枪。 |  |
 | cartethyia | 卡提希娅 | 卡提希娅是库洛制作的游戏《鸣潮》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7d/卡提希娅-昔我悲伤，今却歌唱.png) | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅) |
 | honami ichinose | 一之濑帆波 |  |  |
+| himmel | 辛美尔 |  | [萌娘百科](https://zh.moegirl.org.cn/辛美尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
