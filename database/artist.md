@@ -13725,6 +13725,7 @@ example:
 | aihara you | 和原ヨウ |  |  |
 | amaguri | 甘guri |  |  |
 | aronyan | あろにゃん |  |  |
+| super koneko | スーパー子猫 |  | [pixiv](https://www.pixiv.net/users/14861825) |
 
 <!--TEMPLATE:
 |  |  |  |  |
