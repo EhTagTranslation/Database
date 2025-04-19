@@ -141,6 +141,7 @@ example:
 | aoi momoko | Momoko葵葵 |  |  |
 | enako | えなこ | enakorin |  |
 | da da juan juan xiao juan | 大大卷卷小卷 |  |  |
+| rakuraku | 落落Raku |  |  |
 
 <!--
 Template: 
