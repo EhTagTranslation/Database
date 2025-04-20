@@ -7241,7 +7241,7 @@ example:
 | kurasaki aya | 倉崎あや |  |  |
 | kurasawa kyosyo | 倉澤京章 |  |  |
 | kurata ichiro | 倉田いち朗 |  |  |
-| kurata muto | 武藤久良 |  |  |
+| kurata muto | 倉田むと |  |  |
 | kurata shinji | 倉田シンジ |  |  |
 | kuratsuka riko | 倉塚りこ |  |  |
 | kuraya | 蔵屋 |  |  |
