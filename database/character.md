@@ -6351,6 +6351,7 @@ example:
 | sense | 赞泽 |  |  |
 | oz vessalius | 奥兹‧贝萨流士 |  |  |
 | gilbert nightray | 基尔巴特·奈特雷伊 |  |  |
+| sharon rainsworth | 夏萝·兰兹华斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
