@@ -1560,7 +1560,7 @@ example:
 | oide yo mizuryuu kei land | 欢迎光临！水龙敬乐园 |  |  |
 | shuriken sentai ninninger | 手里剑战队忍忍者 |  | [维基百科](https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者) |
 | hajimete no hitozuma | 第一次的人妻体验 |  |  |
-| sdorica | Sdorica |  | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) |
+| sdorica | Sdorica 万象物语 | 《Sdorica 万象物语》（日语：スドリカ，英语：Sdorica）是一款由雷亚游戏开发兼发行的角色扮演游戏，于2018年4月19日在Android和iOS平台上发行（多语言版），采用免费下载及商城内购制。 | [维基百科](https://zh.wikipedia.org/wiki/Sdorica) [萌娘百科](https://zh.moegirl.org.cn/万象物语) |
 | kaifuku jutsushi no yarinaoshi | 回复术士的重启人生 |  | [维基百科](https://zh.wikipedia.org/wiki/回復術士的重啟人生) |
 | sd gundam sangokuden | SD高达三国传 |  | [维基百科](https://en.wikipedia.org/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors) |
 | promare | 普罗米亚 | 《普罗米亚》（日语：プロメア，英语：Promare）是一部由今石洋之导演、中岛一基编剧、TRIGGER制作的日本原创动画电影，于2019年5月24日在日本公映。剧情为“烈焰急救队”的新人队员加罗·提莫斯，与身为能操控火焰的变异人组织“狂燃派”首领里奥·福蒂亚，两人赌上信念的战斗。 | [维基百科](https://zh.wikipedia.org/wiki/普羅米亞) [萌娘百科](https://zh.moegirl.org.cn/普罗米亚) |
