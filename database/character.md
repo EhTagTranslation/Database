@@ -6355,6 +6355,7 @@ example:
 | xerxes break | 扎古席兹·布雷克 |  |  |
 | reim lunettes | 雷姆·鲁内杰 |  |  |
 | koujirou shinomiya | 四宫小次郎 |  |  |
+| misogi kumagawa | 球磨川禊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
