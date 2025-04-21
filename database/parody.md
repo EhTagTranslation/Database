@@ -2445,6 +2445,7 @@ example:
 | majestic prince | 银河机攻队 MAJESTIC PRINCE |  | [维基百科](https://zh.wikipedia.org/wiki/銀河機攻隊_莊嚴皇子) [百度百科](http://baike.baidu.com/item/银河机攻队MAJESTIC%20PRINCE) |
 | kimi to boku no saigo no senjou aruiwa sekai ga hajimaru seisen | 你与我最后的战场，亦或是世界起始的圣战 |  | [维基百科](https://zh.wikipedia.org/wiki/你與我最後的戰場，亦或是世界起始的聖戰) [萌娘百科](https://zh.moegirl.org.cn/这是你与我的最后战场，或是开创世界的圣战) |
 | campione | 弑神者 |  | [维基百科](https://zh.wikipedia.org/wiki/Campione_弒神者！) [萌娘百科](https://zh.moegirl.org.cn/弑神者%28小说%29) |
+| pandora hearts | 潘多拉之心 | 《潘多拉之心》（日语：パンドラハーツ，英语：Pandora Hearts）是望月淳创作的日本漫画作品。于《月刊GFantasy》（史克威尔艾尼克斯）2006年6月号开始连载，于2015年6月27日完结。2007年12月发售广播剧CD；2008年11月底决定改编成动画，2009年4月至9月播放。 | [维基百科](https://zh.wikipedia.org/wiki/潘朵拉之心) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
