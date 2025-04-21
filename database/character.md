@@ -6349,6 +6349,7 @@ example:
 | honami ichinose | 一之濑帆波 |  |  |
 | himmel | 辛美尔 |  | [萌娘百科](https://zh.moegirl.org.cn/辛美尔) |
 | sense | 赞泽 |  |  |
+| oz vessalius | 奥兹‧贝萨流士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
