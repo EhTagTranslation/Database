@@ -1165,7 +1165,7 @@ example:
 | urushihara satoshi | 漆原智志 | 漆原智志（本名，日语：うるし原 智志，1966年2月9日－）是广岛县出身的男性动画师、人物设计师、漫画家。隶属Office Earthwork。 | [维基百科](https://zh.wikipedia.org/wiki/漆原智志) [个人博客](http://blog.livedoor.jp/uruchi1/) (\*) |
 | yukijirushi | 逝印 |  |  |
 | riichu | りいちゅ |  |  |
-| momo no suidousui | モモの水道水 |  |  |
+| momo no suidousui | モモの水道水 |  | [pixiv](https://www.pixiv.net/users/482367) |
 | kamitsurugi ouka | 神剑樱花 |  |  |
 | kantaka | かんたか |  |  |
 | katagiri hinata | 片桐雏太 |  |  |
