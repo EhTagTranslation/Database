@@ -6359,6 +6359,7 @@ example:
 | mabel pines | 梅宝·派恩斯 |  | [萌娘百科](https://zh.moegirl.org.cn/梅宝·派恩斯) |
 | dipper pines | 迪普·派恩斯 |  |  |
 | wendy corduroy | 温蒂·克多莱 |  |  |
+| pacifica northwest | 帕西菲卡·诺斯韦斯特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
