@@ -2448,6 +2448,7 @@ example:
 | pandora hearts | 潘多拉之心 | 《潘多拉之心》（日语：パンドラハーツ，英语：Pandora Hearts）是望月淳创作的日本漫画作品。于《月刊GFantasy》（史克威尔艾尼克斯）2006年6月号开始连载，于2015年6月27日完结。2007年12月发售广播剧CD；2008年11月底决定改编成动画，2009年4月至9月播放。 | [维基百科](https://zh.wikipedia.org/wiki/潘朵拉之心) |
 | knights college | Knights College -骑士学院- | 《Knights College-骑士学院-》是一款以骑士团候补生们生活的『骑士学院』为舞台的、兽人题材的视觉小说。 | [Steam](https://store.steampowered.com/app/1510030/Knights_College/) |
 | dislyte | 众神派对 | 《众神派对》（英语：Dislyte），又称神觉者。由莉莉丝游戏开发并发行于2022年5月10日的3D回合制战略角色扮演手游。 | [官网地址（国服）](https://zspd.lilith.com/) [官网地址（国际服）](https://dislyte.farlightgames.com/) [维基百科](https://zh.wikipedia.org/wiki/眾神派對) |
+| bobs burgers | 开心汉堡店 |  | [维基百科](https://zh.wikipedia.org/wiki/开心汉堡店) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
