@@ -812,7 +812,6 @@ example:
 | isawa nohri | いさわのーり |  |  |
 | kinomoto anzu | 木之本杏 | きのもと杏<br>成人向漫画家，作品以`lolicon`系为主。<br>单行本《ちいさいほうがエッチでしょ♡》<br>![图](# "https://ehgt.org/1d/bb/1dbb7f2d52d2f735457fbf131625a7ce956f62f2-1504925-1057-1500-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/12873561) |
 | misumi tsubaki | 三澄ツバキ |  |  |
-| nekodanshaku | 猫男爵 |  |  |
 | oosawa ofuda | 大沢おふだ |  |  |
 | ryoumoto hatsumi | 岭本八美 | 嶺本八美（りょうもとはつみ） 日本成年向漫画家。作品以`lolicon`系为主。<br>![图](# "https://ehgt.org/ec/f0/ecf0de75231e9dcfa5b1ea5abb96371659b540f1-983519-1057-1500-jpg_l.jpg") | [X](https://x.com/ryoumoto008) [pixiv](https://www.pixiv.net/users/1093101) |
 | salad | さらだ |  |  |
@@ -10629,7 +10628,7 @@ example:
 | takese nono | 高瀬乃々 |  |  |
 | takeshima eku | 竹嶋えく |  |  |
 | takeshisu | タケシス |  |  |
-| takeshita kenjirou | 竹下けんじろう |  |  |
+| takeshita kenjirou | 猫男爵 | 竹下堅次朗/竹下けんじろう |  |
 | taketora suzume | 竹虎スズメ |  |  |
 | takeu | たけう |  |  |
 | takeuchi reona | 竹内玲于奈 |  |  |
@@ -12891,7 +12890,7 @@ example:
 | doshima | どうしま |  | [pixiv](https://www.pixiv.net/users/325475) |
 | amatsuji | あまつじ |  | [X](https://x.com/amatuji_) |
 | huyumitsu | ふゆみつ |  | [X](https://x.com/huyumitsu) |
-| yakinikuteishoku | 烧肉定食 |  | [pixiv](https://www.pixiv.net/users/6433123) |
+| yakiniku teishoku | 烧肉定食 |  | [pixiv](https://www.pixiv.net/users/6433123) |
 | hoshisaka ami | 星坂網 |  | [pixiv](https://www.pixiv.net/users/5722222) |
 | pyomaru | ぴょまる |  |  |
 | kinoshita kou | 木ノ下コウ |  | [pixiv](https://www.pixiv.net/users/38052419) |

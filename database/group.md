@@ -12079,7 +12079,6 @@ example:
 | yakimisomura | ヤキミソ村 |  |  |
 | yakimorokoshi | やきもろこし |  |  |
 | yakinasu teishoku | 焼き茄子定食 |  |  |
-| yakiniku teishoku | 焼肉定食 |  |  |
 | yakinikuya yusi | 焼肉屋由史 |  |  |
 | yakisaba teishoku | 焼鯖定食 |  |  |
 | yakisaketeishoku | 焼鮭定食 |  |  |
