@@ -190,12 +190,13 @@ example:
 | minigirl | 迷你女孩 | 手掌大小的女性。 |  |
 | shrinking | 缩小 | 变矮，有可能成为`minigirl`。 |  |
 | tall girl | 高个女 | 高个的女性，至少比其他角色高一个头。不应对`giantess`添加该标签。不在其他角色为`shotacon`、`lolicon`、`minigirl`、`miniguy`或`midget`时对普通体型女性使用。 |  |
-|  | === 身体 > 皮肤 === |  |  |
+|  | === Body > Skin === | === 身体 > 皮肤 === |  |
 | albino | 白化 | 红眼和颜色极浅的皮肤。 |  |
 | bite mark | 咬痕 | 个人被咬后留在皮肤上的牙印。仅适用于咬伤留下的痕迹，咬伤行为本身不计入存在。当咬伤是为了吞噬受害者时，例如`cannibalism`，则不适用。 |  |
 | body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“肉便器”等贬义词语。不应与`body painting`混淆。<br>![图](# "https://ehgt.org/83/29/83298e7215cb2ca5e4d7d312385a355796e32c1d-252581-567-800-jpg_l.jpg") |  |
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与`body writing`混淆。<br>![图](# "https://ehgt.org/0a/43/0a43c6624ee32e6e35ec85639dea712e8dc5eced-2619393-1812-2560-jpg_l.jpg")![图](# "https://ehgt.org/2c/e1/2ce1e69969b7d80d47a3bc1e071bbe87ed1fcd85-576865-1120-1600-jpg_l.jpg")![图](# "https://ehgt.org/01/3b/013bf3f6b731ef04cfa72b30e8708e887e5240d7-9015914-2124-2900-png_l.jpg") |  |
 | dark skin | 黑皮 | 棕色或黑色的肤色。不应与`tanlines`混淆。<br>![图](# "https://ehgt.org/92/76/927631cd39fcd83a4009307daedf7f6f11ac6570-4933769-2450-3510-jpg_l.jpg") |  |
+| depth grading | 深度分级 | 在人体上刻下的文字或标记，用于测量插入深度。通常从胯部开始，也可能出现在喉咙或阴茎上。 |  |
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru | 辣妹 | 各种用来尽可能看起来不是日本人的方式，包括美黑、漂发、美甲、浓妆、假睫毛。 |  |
 | large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与`crotch tattoo`混淆。 |  |
@@ -374,10 +375,12 @@ example:
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![例](# "https://ehgt.org/f0/6b/f06b6e20561fb57f07eb768d416761ceba6b5088-738821-1111-1554-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse girl`或`sex toys`。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。<br>![图](# "https://ehgt.org/af/08/af08cede45aee8604822bd506e4f3d5f9e859131-506871-1279-1800-jpg_l.jpg")![图](# "https://ehgt.org/be/27/be276e5d1eac1989737b0cd4d5726c92e20c45cd-711048-1500-1060-jpg_l.jpg") |  |
+| knotted penis | 龟头球 | 有龟头球（狗结）的阴茎。不用于犬科动物（例如`dog`、`wolf`、`fox`）或`sex toys`。 | [维基百科](https://zh.wikipedia.org/wiki/龜頭球) |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/db/4f/db4ff92cbf0336e3582f75f8fc977a3a6b546cc0-48539-600-845-jpg_l.jpg")![图](# "https://ehgt.org/b2/70/b2705dfdf0897c9d30340cffa8cdb246ee34eac3-57806-600-852-jpg_l.jpg")![图](# "https://ehgt.org/67/10/67102fa792ec050c41f6bf07a1d4a71e32089e3f-56861-600-841-jpg_l.jpg")![图](# "https://ehgt.org/5e/e4/5ee402423f4b507ec8c3a8a24e783f4f9201df3e-115878-1200-850-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
 | penis bumps | 阴茎凸起 | 阴茎上的皮肤凸起，通常是通过疣或皮下珠穿孔形成的。 |  |
 | penis enlargement | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
+| penis reduction | 阴茎缩小 | 阴茎尺寸的任何显著减小。可能导致`small penis`。不应与勃起功能障碍混淆。参与者突然完全失去阴茎不算在内。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
 | retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`penis enlargement`、`clit growth`或`big clit`混淆。 |  |
@@ -698,4 +701,5 @@ example:
 |  | == High Presence == | == 高存在 == |  |
 | focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+| focus cunnilingus | 高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |

@@ -186,12 +186,13 @@ example:
 | miniguy | 迷你男孩 | `minigirl`的男性版本。 |  |
 | shrinking | 缩小 | 变矮，有可能成为`miniguy`。 |  |
 | tall man | 高个男 | 高个的男性，至少比其他角色高一个头。不应对`giant`添加该标签。不在其他角色为`shotacon`、`lolicon`、`minigirl`、`miniguy`或`midget`时对普通体型男性使用。 |  |
-|  | === 身体 > 皮肤 === |  |  |
+|  | === Body > Skin === | === 身体 > 皮肤 === |  |
 | albino | 白化 | 红眼和颜色极浅的皮肤。 |  |
 | bite mark | 咬痕 | 个人被咬后留在皮肤上的牙印。仅适用于咬伤留下的痕迹，咬伤行为本身不计入存在。当咬伤是为了吞噬受害者时，例如`cannibalism`，则不适用。 |  |
 | body writing | 身体写作 | 在人身上发出的各种文字或图画，通常包括诸如“荡妇”或“肉便器”等贬义词语。不应与`body painting`混淆。 |  |
 | body painting | 身体绘画 | 在脸或身体上大面积地绘画。不应与`body writing`混淆。 |  |
 | dark skin | 黑皮 | 棕色或黑色的肤色。不应与`tanlines`混淆。<br>![黑子的篮球同人](# "https://ehgt.org/63/34/63346ef7e7c5d3be46a89383b8300d121f408864-527921-1062-1536-jpg_250.jpg") |  |
+| depth grading | 深度分级 | 在人体上刻下的文字或标记，用于测量插入深度。通常从胯部开始，也可能出现在喉咙或阴茎上。 |  |
 | freckles | 雀斑 | 在皮肤表面上彼此靠近的许多小的色素斑点。通常在脸上，但也可以在身体的其他地方。 |  |
 | gyaru-oh | 黄毛 | `gyaru`的男性版本。男性多是不良少年和不良青年等角色，因常以黄色染发和小麦肤色形象出场，故被网友戏称黄毛，常与`dark skin`、`netorare`、`cheating`、`rape`等标签关联，剧情也多是寝取女性、勾引女性出轨、强奸女性、调教、玩弄女性等恶劣行为。在`males only`标签下，常与`tomgirl`标签同时出现，表示为辣妹伪娘角色，既伪娘版本的男性辣妹。 |  |
 | large tattoo | 全身纹身 | 皮肤上的永久标记/图案，通常用墨水完成。必须足够突出以覆盖至少一半肢体或脸部。也可由许多小型纹身累积以满足条件。不应与`crotch tattoo`混淆。 |  |
@@ -362,10 +363,12 @@ example:
 | frottage | 阴茎摩擦🤺 | 两根及以上的阴茎相互摩擦。<br>![图](# "https://ehgt.org/a5/71/a571dee39168c1e3297eaf6a55d2d4fe2c9de446-1172542-1200-1694-jpg_l.jpg") |  |
 | horse cock | 马根 | 马形状的阴茎，很可能是`big penis`。不用于`centaur`、`horse`、`horse boy`或`sex toys`。 |  |
 | huge penis | 巨根 | 巨大的阴茎，长度至少等于其所有者的躯干。需要`big penis`标签。 |  |
+| knotted penis | 龟头球 | 有龟头球（狗结）的阴茎。不用于犬科动物（例如`dog`、`wolf`、`fox`）或`sex toys`。 | [维基百科](https://zh.wikipedia.org/wiki/龜頭球) |
 | multiple penises | 鸡鸡复鸡鸡 | 多于一根阴茎。不用于`tentacles`形的阴茎。<br>![图](# "https://ehgt.org/e1/f8/e1f808c6ddfd8d9b1a3c790149165073d3d98052-95479-695-900-jpg_l.jpg") |  |
 | penis birth | 阴茎出产 | 通过阴茎产下生物。不用于`eggs`。 |  |
 | penis bumps | 阴茎凸起 | 阴茎上的皮肤凸起，通常是通过疣或皮下珠穿孔形成的。 |  |
 | penis enlargement | 阴茎生长 | 阴茎异常生长的过程，可能产生`big penis`。不应该与正常的勃起混淆，也不适用`gender change`标签。 |  |
+| penis reduction | 阴茎缩小 | 阴茎尺寸的任何显著减小。可能导致`small penis`。不应与勃起功能障碍混淆。参与者突然完全失去阴茎不算在内。 |  |
 | phimosis | 包茎 | 包皮极大地覆盖了阴茎。即使阴茎已经勃起，也应该几乎完全覆盖。 |  |
 | prostate massage | 前列腺按摩 | 通常涉及摩擦睾丸附近的肛门壁。 |  |
 | retractable penis | 可伸缩阴茎 | 生殖器区域的一个孔口，整个阴茎缩回并从中露出。角色的阴茎必须在某个点完全或部分缩回，标签才符合条件。<br>不要与`penis enlargement`、`clit growth`或`big clit`混淆。 |  |
@@ -665,4 +668,5 @@ example:
 |  | == High Presence == | == 高存在 == |  |
 | focus anal | 高存在肛交 | 图库超过 50% 的内容为`anal`。需要`anal`标签。 |  |
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
+|  | focus cunnilingus高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
