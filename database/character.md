@@ -2555,7 +2555,7 @@ example:
 | amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/e/ec/AmaneKanata_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
 | kiryu coco | 桐生可可 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Kiryu_Coco_-_Portrait.png) |  |
 | tsunomaki watame | 角卷绵芽 | ![](https://static.miraheze.org/hololivewiki/0/05/Tsunomaki_Watame_-_Portrait_01.png) | [Fandom](https://virtualyoutuber.fandom.com/wiki/Tsunomaki_Watame) [hololive wiki](https://hololive.wiki/wiki/Tsunomaki_Watame) [萌娘百科](https://zh.moegirl.org.cn/角卷绵芽) |
-| tokoyami towa | 常暗永远 | 常暗永远是隶属于`hololive`的vtuber<br>`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/常闇トワ) (\*)<br>[Towa Ch. 常闇トワ - youtube](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) |
+| tokoyami towa | 常暗永远 | 常暗永远是隶属于`hololive`的`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/常闇トワ)<br>[Towa Ch. 常闇トワ - youtube](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) |
 | himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名从2020年1月4日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/b/bb/HimemoriLuna_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
