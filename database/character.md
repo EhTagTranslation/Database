@@ -6360,6 +6360,7 @@ example:
 | dipper pines | 迪普·派恩斯 |  |  |
 | wendy corduroy | 温蒂·克多莱 |  |  |
 | pacifica northwest | 帕西菲卡·诺斯韦斯特 |  |  |
+| gideon gleeful | 吉登恩·葛里夫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
