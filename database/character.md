@@ -6357,6 +6357,7 @@ example:
 | koujirou shinomiya | 四宫小次郎 |  |  |
 | misogi kumagawa | 球磨川禊 |  |  |
 | mabel pines | 梅宝·派恩斯 |  | [萌娘百科](https://zh.moegirl.org.cn/梅宝·派恩斯) |
+| dipper pines | 迪普·派恩斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
