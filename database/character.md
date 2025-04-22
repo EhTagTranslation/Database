@@ -6363,6 +6363,7 @@ example:
 | gideon gleeful | 吉登恩·葛里夫 |  |  |
 | bill cipher | 比尔·赛弗 |  |  |
 | katara | 卡塔拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/卡塔拉) |
+| azula | 阿祖拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/阿祖拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
