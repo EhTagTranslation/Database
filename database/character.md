@@ -6364,6 +6364,7 @@ example:
 | bill cipher | 比尔·赛弗 |  |  |
 | katara | 卡塔拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/卡塔拉) |
 | azula | 阿祖拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/阿祖拉) |
+| marco diaz | 马可·迪亚兹 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
