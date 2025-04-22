@@ -4939,7 +4939,7 @@ example:
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
 | xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 | crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe](https://trails-game.com/character/crow-armbrust/) [萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特) [百度百科](https://baike.baidu.com/item/克洛·安布斯特/62063303) |
-| yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://zh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
+| yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [灰机wiki](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://zh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
 | fine motion | 美妙姿势 | ![](https://moegirl.icu/media/thumb/UPDCH_FineMotion_00.png/580px-UPDCH_FineMotion_00.png)<br>美妙姿势是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为于爱尔兰出生的纯血竞赛马匹ファインモーション（Fine Motion）。 | [萌娘百科](https://moegirl.icu/美妙姿势) |
 | air groove | 气槽 | ![](https://moegirl.icu/media/thumb/UPDCH_AirGroove_00.png/580px-UPDCH_AirGroove_00.png)<br>气槽是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹エアグルーヴ（Air Groove）。 | [萌娘百科](https://moegirl.icu/气槽) |
 | matikane tannhauser | 待兼诗歌剧 | ![](https://moegirl.icu/media/thumb/UPDCH_Matikanetannhauser_00.png/580px-UPDCH_Matikanetannhauser_00.png)<br>待兼诗歌剧是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネタンホイザ（Matikanetannhauser）。 | [萌娘百科](https://moegirl.icu/待兼诗歌剧) |
@@ -5857,8 +5857,8 @@ example:
 | zundamon | 俊达萌 | 俊达萌（日语：ずんだもん）是SSS合同会社发表的东北支援角色。拥有VOICEVOX与VOICEPEAK朗读声库、UTAU、NEUTRINO、CeVIO及VoiSona歌声合成声库以及Seiren Voice、MMVC等多种变声器可选声线。<br>![](https://img.moegirl.org.cn/common/thumb/7/73/Nu_zundamon.jpg/1920px-Nu_zundamon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/俊达萌) |
 | lilja katsuragi | 葛城莉莉娅 |  |  |
 | hanako arasaka | 荒坂华子 |  | [萌娘百科](https://zh.moegirl.org.cn/荒坂华子) |
-| misty olszewski | 米丝蒂·奥尔谢夫斯基 |  | [https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基](https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基) |
-| rogue amendiares | 罗格·阿曼迪亚斯 |  | [https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯](https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯) |
+| misty olszewski | 米丝蒂·奥尔谢夫斯基 |  | [灰机wiki](https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基) |
+| rogue amendiares | 罗格·阿曼迪亚斯 |  | [灰机wiki](https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯) |
 | piper wheel | 派派·韦尔 | 派派·韦尔是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/54/c1/54c1ccae125822d2cdac187cb36e29fc086e522d-3104460-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/派派·韦尔) |
 | mia fujikawa | 藤川美亚 |  |  |
 | vulpisfoglia | 忍冬 | 所属作品 `p:arknights` |  |
@@ -6365,6 +6365,7 @@ example:
 | katara | 卡塔拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/卡塔拉) |
 | azula | 阿祖拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/阿祖拉) |
 | marco diaz | 马可·迪亚兹 |  |  |
+| nachoneko | 甘城なつき(Vtuber) | 这是可爱猫猫画师老师`artist:"amashiro natsuki$"`自己的Vtuber角色Nachoneko（暂无官方中译名），但她的主业仍是插画师而非直播主。她曾和自己角色设计的YouTube上关注度最高的Hololive EN Vtuber`c:gawr gura`一起打过游戏。<br><br>维基百科内容：“Nachoneko”是甘城なつき在作为Vtuber活动之前在游戏中使用的名称，不过在以插画师身份活动时使用的名称仍然是甘城なつき。她的主职仍是插画师而非直播主。<br><br>她于2013年11月开始在X（前Twitter）上活动，并于2014年7月19日创建YouTube频道。在成为Vtuber之前，Nachoneko偶尔会在她的Twitch频道上进行直播。<br><br>Nachoneko在一条推文中正式确认了她将于2021年6月15日以VTuber身份出道的计划，并在推文中展示了她的完整VTuber模型。<br><br>Nachoneko于2021年6月17日首次使用她的VTuber模型（尽管是静态图像），当时她正在和噶呜·古拉一起玩《马里奥赛车8 豪华版》。她在2021年9月5日首次亮相。 | [https://zh.m.wikipedia.org/zh-cn/Nachoneko](https://zh.wikipedia.org/wiki/Nachoneko)<br>[X](https://x.com/amsrntk3) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
