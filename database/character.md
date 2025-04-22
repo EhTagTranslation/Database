@@ -6362,6 +6362,7 @@ example:
 | pacifica northwest | 帕西菲卡·诺斯韦斯特 |  |  |
 | gideon gleeful | 吉登恩·葛里夫 |  |  |
 | bill cipher | 比尔·赛弗 |  |  |
+| katara | 卡塔拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/卡塔拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
