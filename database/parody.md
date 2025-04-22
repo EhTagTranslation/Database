@@ -1946,7 +1946,7 @@ example:
 | grappler baki | 刃牙 | 刃牙系列为日本漫画家板垣恵介创作的经典格斗漫画。 | [Fandom](https://baki.fandom.com/wiki/Baki_Wiki) [维基百科](https://zh.wikipedia.org/wiki/刃牙) [萌娘百科](https://zh.moegirl.org.cn/刃牙) |
 | mayonaka no tantei nightwalker | 真夜中的侦探 |  |  |
 | boku no kokoro no yabai yatsu | 我内心的糟糕念头 | ![](https://upload.wikimedia.org/wikipedia/zh/3/3f/我內心的糟糕念頭.jpg) | [维基百科](https://zh.wikipedia.org/wiki/我內心的糟糕念頭) [myanimelist](https://myanimelist.net/manga/112807/Boku_no_Kokoro_no_Yabai_Yatsu) |
-| inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru | 单马尾表弟 (暂译) | 田舎に帰るとやけになついた褐色ポニテショタがいる<br>![](https://cdn.myanimelist.net/images/manga/1/217656.jpg) | [myanimelist](https://myanimelist.net/manga/119337/Inaka_ni_Kaeru_to_Yakeni_Natsuita_Kasshoku_Ponytail_Shota_ga_Iru) |
+| inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru | 单马尾表弟 | 田舎に帰るとやけになついた褐色ポニテショタがいる<br>![](https://cdn.myanimelist.net/images/manga/1/217656.jpg) | [myanimelist](https://myanimelist.net/manga/119337/Inaka_ni_Kaeru_to_Yakeni_Natsuita_Kasshoku_Ponytail_Shota_ga_Iru) |
 | paripi koumei | 派对浪客诸葛孔明 |  | [萌娘百科](https://zh.moegirl.org.cn/派对浪客诸葛孔明) [维基百科](https://zh.wikipedia.org/wiki/派對咖孔明) |
 | sore ga seiyuu | 那就是声优！ |  | [萌娘百科](https://zh.moegirl.org.cn/那就是声优) |
 | advance of zeta | ADVANCE OF Ζ 提坦斯的旗下 |  | [维基百科](https://ja.wikipedia.org/wiki/ADVANCE_OF_Ζ_ティターンズの旗のもとに) [维基百科](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_提坦斯的旗下) |
@@ -2015,7 +2015,7 @@ example:
 | munou na nana | 无能力者娜娜 |  | [萌娘百科](https://zh.moegirl.org.cn/无能力者娜娜) |
 | nurarihyon no mago | 滑头鬼之孙 | 《滑头鬼之孙》（日语：ぬらりひょんの孫，罗马字：Nurarihyon no Mago，英语：Nura: Rise of the Yokai Clan）是椎桥宽创作的以妖怪为题材的少年漫画作品，并有电视动画等衍生作品。<br><br>台版的官方译名为《妖怪少爷》。港版的官方译名为《百鬼小当家》。 | [萌娘百科](https://zh.moegirl.org.cn/滑头鬼之孙) |
 | bomber girl | 轰炸女孩 | 《轰炸女孩》是由Konami开发的视频游戏，于2018年8月30日在日本商场发行。它是《炸弹人》系列的衍生产品，游戏形式与以前版本相似，最显着的区别在于角色都是以美少女魔幻风格描绘的兽娘。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Bombergirl) |
-| burn the witch | 龙与魔女（BURN THE WITCH） | ![](https://cdn.myanimelist.net/images/anime/1993/108967l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/BURN_THE_WITCH) |
+| burn the witch | 龙与魔女 | ![](https://cdn.myanimelist.net/images/anime/1993/108967l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/BURN_THE_WITCH) |
 | hataraku onii-san | 打工小哥 |  |  |
 | tomica kizuna gattai earth granner | 极速牵绊 地球先锋队 |  | [维基百科](https://zh.wikipedia.org/wiki/Tomica_Earth_Granner_地球防衛隊) |
 | netojuu no susume | 网络胜利组 | 辞掉工作成为尼特族的`moriko morioka`，因原本游玩的线上游戏停止营运，而后在新找到的线上游戏“Fruits de Mer”中遇见了化身为“`lily`”的`yuuta sakurai`，故事从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/网络胜利组) [维基百科](https://zh.wikipedia.org/wiki/網路勝利組) |
@@ -2045,7 +2045,7 @@ example:
 | bocchi the rock | 孤独摇滚！ | 《孤独摇滚！》（日语：ぼっち・ざ・ろっく！；英语：Bocchi the rock）是日本漫画家はまじあき创作的漫画作品，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
 | scp foundation | SCP基金会 | SCP基金会是一个虚构的特工组织，作为同名互联网接龙小说创作项目中的主要要素。在该虚构宇宙中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个体、地点或物体（统称为“异常”），其宗旨为“控制”（Secure），“收容”（Contain），“保护”（Protect）。在现实世界中，SCP基金会是一个基于网站社区的协同写作小说项目，其文章包含多种类型的元素和风格，如科学幻想、都市奇幻和恐怖小说。 | [维基百科](https://zh.wikipedia.org/wiki/SCP基金会) |
 | kinnikuman | 金肉人 |  | [维基百科](https://zh.wikipedia.org/wiki/金肉人) |
-| ever 17 | Ever17（时空轮回） | 《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。 | [萌娘百科](https://zh.moegirl.org.cn/Ever17) [维基百科](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity-) |
+| ever 17 | 时空轮回 | 《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。 | [萌娘百科](https://zh.moegirl.org.cn/Ever17) [维基百科](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity-) |
 | memories off | 告别回忆 | 秋之回忆系列（日语：メモリーズオフシリーズ， 英语：Memories Off）是日本游戏厂商KID公司和5pb.公司（5代以后）开发的一系列恋爱游戏，以及以此衍伸出来的动画，小说、漫画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/秋之回忆系列) [维基百科](https://zh.wikipedia.org/wiki/告別回憶系列) [HP-tw](http://memoriesoff.jp/since/tw/) [vndb](https://vndb.org/v1152) |
 | shiei no sona-nyl -what a beautiful memories- | 紫影的索纳尼尔 ～何等美好的记忆～ |  | [Bangumi](https://bgm.tv/subject/10957) |
 | katawa shoujo | 片轮少女 | 《片轮少女》（英语：Katawa Shoujo，日语：かたわ少女，字面翻译为“残疾少女”）是一款视觉小说类型的同人美少女游戏，由四叶游戏工作室（Four Leaf Studios）开发制作，内容是一名少年与5名拥有不同残疾的美少女一同生活的故事。游戏采用由文字叙述和平面人物图像所组成的传统视觉小说模式，并借由视觉小说引擎Ren'Py以如同冒险游戏的对话框方式运行。《片轮少女》随着故事的进展包含有一些成人内容，但玩家亦能够选择跳过一切性爱场景。同时游戏是极少能够同时支持Windows、Linux与Mac OS X等平台的美少女游戏，并采用了知识共享版权中的CC BY-NC-ND的授权条款。 | [萌娘百科](https://zh.moegirl.org.cn/片轮少女) [维基百科](https://zh.wikipedia.org/wiki/片輪少女) [HP](https://www.katawa-shoujo.com/) |
@@ -2141,7 +2141,7 @@ example:
 | lazytown | 懒人小镇 |  | [https://zh.m.wikipedia.org/wiki/懶人小鎮](https://zh.wikipedia.org/wiki/懶人小鎮) |
 | deltarune | 三角符文 |  | [萌娘百科](https://zh.moegirl.org.cn/Deltarune) |
 | vampire knight | 吸血鬼骑士 |  |  |
-| blue reflection | 蔚蓝反射（幻舞少女之剑） | 《BLUE REFLECTION》系列是GUST制作的游戏及后续的跨媒体企划，包括主机游戏、移动端游戏、电视动画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/BLUE_REFLECTION系列) [维基百科](https://zh.wikipedia.org/wiki/BLUE_REFLECTION_幻舞少女之劍) |
+| blue reflection | 蔚蓝反射 | 《BLUE REFLECTION》系列是GUST制作的游戏及后续的跨媒体企划，包括主机游戏、移动端游戏、电视动画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/BLUE_REFLECTION系列) [维基百科](https://zh.wikipedia.org/wiki/BLUE_REFLECTION_幻舞少女之劍) |
 | fumikiri jikan | 平交道时间 | 《平交道时间》（日语：踏切時間）是由里好创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/平交道时间) |
 | all out | ALL OUT!! | 《ALL OUT!!》（日语：オールアウト!!）是雨濑栞的橄榄球题材日本漫画作品。本作品描写主角祇园健次为初学者，加入县立神奈川高校（简称“神高”）橄榄球社之后面临各式各样的挑战。 | [萌娘百科](https://zh.moegirl.org.cn/ALL_OUT)!! [维基百科](https://zh.wikipedia.org/wiki/ALL_OUT)!! |
 | kuma miko | 熊巫女 |  |  |
@@ -2259,7 +2259,7 @@ example:
 | tsuritama | 钓球 | 钓球（日语：つり球）是由A-1 Pictures制作的日本原创电视动画，于2012年4月12日开始，在富士电视台的noitaminA第2时段播放，同年6月28日播放完毕，全12话。 | [Wiki](https://zh.wikipedia.org/wiki/釣球) |
 | mahou shoujo ni akogarete | 憧憬成为魔法少女 |  |  |
 | myo-chan sensei wa kaku katariki | 小美代老师如是说 | みょーちゃん先生はかく語りき |  |
-| kusuriya no hitorigoto | 药屋少女的呢喃（药师少女的独语） |  | [萌娘百科](https://zh.moegirl.org.cn/药师少女的独语) |
+| kusuriya no hitorigoto | 药屋少女的呢喃 | 药师少女的独语 | [萌娘百科](https://zh.moegirl.org.cn/药师少女的独语) |
 | equestria girls | 小马宝莉：魔法公主 | 《彩虹小马：魔法公主》（英语：My Little Pony: Equestria Girls）为美国动画片《小马宝莉：友谊就是魔法》的衍生系列电影。该电影与电视剧的人物较为不同，人物以相似于对应于小马利亚小马配色与个性的人类作为形象。 | [维基百科](https://zh.wikipedia.org/wiki/彩虹小馬：小馬國女孩系列) |
 | palworld | 幻兽帕普 |  |  |
 | limbus company | 边狱公司 | 《边狱公司》（英语：Limbus Company，别称《边狱巴士公司》或《边狱巴士》）是由Project Moon制作并发行的回合制策略RPG类游戏，于2023年2月27日公测，是脑叶公司与废墟图书馆的同世界观续作。 | [萌娘百科](https://zh.moegirl.org.cn/边狱公司) |
@@ -2314,7 +2314,7 @@ example:
 | bloodborne | 血源诅咒 |  |  |
 | the ghost and molly mcgee | 幽灵与莫莉 |  |  |
 | loopers | LOOPERS | 时廻者 |  |
-| koe no katachi | 声之形 | 《声之形》（日语：聲の形；英语：A Silent Voice / The Shape of Voice(注)）是由大今良时创作的一部漫画，于《周刊少年Magazine》2013年36、37合并号开始连载，至2014年51号完结；并有动画电影等衍生作品。<br>![](https://moegirl.icu/media/Koe_no_Katachi_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/声之形) |
+| koe no katachi | 声之形 | 《声之形》（日语：聲の形；英语：A Silent Voice / The Shape of Voice）是由大今良时创作的一部漫画，于《周刊少年Magazine》2013年36、37合并号开始连载，至2014年51号完结；并有动画电影等衍生作品。<br>![](https://moegirl.icu/media/Koe_no_Katachi_KV.jpg) | [萌娘百科](https://zh.moegirl.org.cn/声之形) |
 | huyao xiao hongniang | 狐妖小红娘 | 《狐妖小红娘》是漫画家庹小新主笔的纯爱系奇幻漫画，先后连载于漫画SHOW和腾讯动漫。有动画、游戏、电视剧等衍生作品。<br>![](https://img.moegirl.org.cn/common/e/ee/狐妖小红娘动画.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/狐妖小红娘) |
 | kowarekake no orgel | 快要坏掉的八音盒 | 《萌单》作者POP的另一原创作品<br>![图](https://ehgt.org/ba/38/ba382b2eb6c435a8432aa32aaa2daa77ca0ef697-1847283-2106-3006-jpg_l.jpg) |  |
 | koikishi purely kiss | 恋骑士Purely☆Kiss | 《恋骑士 Purely☆Kiss》是AKABEiSOFT2公司的分公司エフォルダムソフト在2011年9月30日发售的恋爱冒险类型成人游戏。2014年4月エフォルダムソフト宣告解散，游戏的版权移交给AKABEiSOFT2公司的AKABEiSOFT3。OVA则是由PinkPineapple在2013年7月26日开始发售. | [维基百科](https://zh.wikipedia.org/wiki/戀騎士_Purely☆Kiss)<br>[维基百科（日语）](https://ja.wikipedia.org/wiki/恋騎士_Purely☆Kiss) |
@@ -2337,7 +2337,7 @@ example:
 | ninja hattori-kun | 忍者服部君 | 《忍者服部君》（香港译作“忍者小灵精”，台湾译作“忍者哈特利”）作者是藤子不二雄Ⓐ。<br><br>哈特利甘藏是一名修行的伊贺流少年忍者，从伊贺到东京市区，并寄居在三叶家。作品描述哈特利与家中独子健一的友情等，并介绍（或创作）许多忍术，由于忍者出现在现代社会而引来骚动，亦牵涉到两大忍者流派—伊贺流与甲贺流的对立。内容轻松风趣，符合藤子不二雄一直以来的“少年遇上不可思议的人物”之公式故事。 | [维基百科](https://zh.wikipedia.org/wiki/忍者小靈精) [百度百科](https://baike.baidu.com/item/忍者服部君) |
 | twinkle crusaders | 闪耀十字军 |  |  |
 | ao no hako | 青之箱 |  |  |
-| okujou no yurirei-san | 屋上的百合灵 | 《屋上的百合灵》（日语：屋上の百合霊さん，英语：Kindred Spirits on the Roof(注)）是一部由Liar-soft开发，MangaGamer发行的百合向文字冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/屋上的百合灵) |
+| okujou no yurirei-san | 屋上的百合灵 | 《屋上的百合灵》（日语：屋上の百合霊さん，英语：Kindred Spirits on the Roof）是一部由Liar-soft开发，MangaGamer发行的百合向文字冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/屋上的百合灵) |
 | jinki | 人机 | 《人机系列》（日语：ジンキシリーズ）是纲岛志朗创作的日本漫画系列作品，后来陆续改编成电视动画、电子游戏、小说。 | [维基百科](https://zh.wikipedia.org/wiki/人機系列) |
 | isekai nonbiri nouka | 异世界悠闲农家 |  | [维基百科](https://zh.wikipedia.org/wiki/異世界悠閒農家) [萌娘百科](https://zh.moegirl.org.cn/异世界悠闲农家) |
 | pon no michi | 碰之道 | 《碰之道》（日语：ぽんのみち）是OLM制作的日本电视动画，于2024年1月至3月在每日放送、TBS等频道播出。<br><br>描写以广岛、尾道市的雀庄为游乐场所的女子高中生们，时而玩耍、做饭、喝茶和麻将的日常。 | [维基百科](https://zh.wikipedia.org/wiki/碰之道) [萌娘百科](https://zh.moegirl.org.cn/碰之道) |
@@ -2397,7 +2397,7 @@ example:
 | ga-rei | 食灵-零- |  | [萌娘百科](https://zh.moegirl.org.cn/食灵-零-) [维基百科](https://zh.wikipedia.org/wiki/食靈) |
 | jin ping mei | 金瓶梅 |  |  |
 | eiken | 巨乳学园 |  | [维基百科](https://zh.wikipedia.org/wiki/巨乳學園) |
-| medalist | 金牌得主（舞冰的祈愿） |  |  |
+| medalist | 金牌得主 | 常用译名：舞冰的祈愿 | [维基百科](https://zh.wikipedia.org/wiki/金牌得主) |
 | arakawa under the bridge | 荒川爆笑团 |  | [维基百科](https://zh.wikipedia.org/wiki/荒川爆笑團) [萌娘百科](https://zh.moegirl.org.cn/荒川爆笑团) |
 | mamotte shugogetten | 守护月天 |  | [维基百科](https://zh.wikipedia.org/wiki/守護月天) [萌娘百科](https://zh.moegirl.org.cn/守护月天) |
 | popolocrois | 波波罗古洛伊斯物语 |  | [维基百科](https://zh.wikipedia.org/wiki/波波羅古洛伊斯物語) |

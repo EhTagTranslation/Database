@@ -2976,7 +2976,7 @@ example:
 | mankai kaika | 满开开花 |  | [pixiv](https://www.pixiv.net/users/49906039) |
 | kumatora | 天空太一 |  |  |
 | teshima nari. | 手島nari |  | [X](https://x.com/_17meisai23) [pixiv](https://www.pixiv.net/users/14993224) |
-| amashiro natsuki | 甘城なつき(Illustrator) |  | [X](https://x.com/amsrntk3) [pixiv](https://www.pixiv.net/users/3036679) |
+| amashiro natsuki | 甘城なつき |  | [X](https://x.com/amsrntk3) [pixiv](https://www.pixiv.net/users/3036679) |
 | tumiki akeno | 積木あけの |  | [X](https://x.com/AkenoTumiki) [pixiv](https://www.pixiv.net/users/3455661) |
 | miwano rag | 美和野らぐ |  | [X](https://x.com/rag_ragko) [pixiv](https://www.pixiv.net/users/7324626) |
 | shigure ui | しぐれうい |  | [X](https://x.com/ui_shig) [pixiv](https://www.pixiv.net/users/431873) |
