@@ -13731,6 +13731,7 @@ example:
 | cothswoller | Cothswoller |  |  |
 | linda sejic | Linda Šejic |  |  |
 | linda | LINDA |  |  |
+| asanine luno | 朝仁寝ルノ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
