@@ -6363,7 +6363,6 @@ example:
 | katara | 卡塔拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/卡塔拉) |
 | azula | 阿祖拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/阿祖拉) |
 | marco diaz | 马可·迪亚兹 |  |  |
-| nachoneko | 甘城なつき(Vtuber) | 这是可爱猫猫画师老师`artist:"amashiro natsuki$"`自己的Vtuber角色Nachoneko（暂无官方中译名），但她的主业仍是插画师而非直播主。她曾和自己角色设计的YouTube上关注度最高的Hololive EN Vtuber`c:gawr gura`一起打过游戏。<br><br>中文维基百科内容：“Nachoneko”是甘城なつき在作为Vtuber活动之前在游戏中使用的名称，不过在以插画师身份活动时使用的名称仍然是甘城なつき。她的主职仍是插画师而非直播主。<br><br>她于2013年11月开始在X（前Twitter）上活动，并于2014年7月19日创建YouTube频道。在成为Vtuber之前，Nachoneko偶尔会在她的Twitch频道上进行直播。<br><br>Nachoneko在一条推文中正式确认了她将于2021年6月15日以VTuber身份出道的计划，并在推文中展示了她的完整VTuber模型。<br><br>Nachoneko于2021年6月17日首次使用她的VTuber模型（尽管是静态图像），当时她正在和噶呜·古拉一起玩《马里奥赛车8 豪华版》。她在2021年9月5日首次亮相。 | [https://zh.m.wikipedia.org/zh-cn/Nachoneko](https://zh.wikipedia.org/wiki/Nachoneko)<br>[X](https://x.com/amsrntk3) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
