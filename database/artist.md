@@ -13729,6 +13729,7 @@ example:
 | geulimykun | GeulimYKUN |  | [pixiv](https://www.pixiv.net/users/4610406) |
 | mochizuki jun | 望月淳 |  |  |
 | cothswoller | Cothswoller |  |  |
+| linda sejic | Linda Šejic |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
