@@ -13137,6 +13137,7 @@ example:
 | aihara workshop | 和原工房 |  |  |
 | toumin daikon | 冬眠だいこん |  |  |
 | ringo ameya | りんご飴屋 |  |  |
+| mobius unleashed | Mobius Unleashed |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
