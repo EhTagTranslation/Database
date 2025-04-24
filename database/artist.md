@@ -2989,7 +2989,7 @@ example:
 | kyougoku shin | 京極しん |  |  |
 | yamamori | 山森 |  | [X](https://x.com/machidaco) |
 | daki makura | 滝まくら |  |  |
-| nagishiro mito | 凪白みと |  | [X](https://x.com/lemon_mito) [pixiv](https://www.pixiv.net/users/8189060) |
+| nagishiro mito | 凪白水户 | 凪白みと, 是虚拟狐狸`c:shirakami fubuki`的妈妈. | [X](https://x.com/lemon_mito) [pixiv](https://www.pixiv.net/users/8189060) |
 | minase nagi | みなせなぎ |  | [X](https://x.com/nagi_37se) [pixiv](https://www.pixiv.net/users/894387) |
 | nii manabu | 仁井学 |  | [X](https://x.com/aleos696) [pixiv](https://www.pixiv.net/users/17089321) |
 | o-zicha | おーじ茶 |  | [X](https://x.com/Ozicha) [pixiv](https://www.pixiv.net/users/122233) |
