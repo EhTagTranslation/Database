@@ -13734,6 +13734,7 @@ example:
 | asanine luno | 朝仁寝ルノ |  |  |
 | yasuhiro | ヤスヒロ |  |  |
 | katsura yoshihiro | 桂よしひろ |  |  |
+| hibari hina | 雲雀ひな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
