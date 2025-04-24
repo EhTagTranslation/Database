@@ -13735,6 +13735,7 @@ example:
 | katsura yoshihiro | 桂よしひろ |  |  |
 | hibari hina | 雲雀ひな |  |  |
 | outotsu den | 凹凸でん |  |  |
+| nayuta takumi | 那由他琢己 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
