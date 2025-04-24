@@ -13732,6 +13732,7 @@ example:
 | linda sejic | Linda Šejic |  |  |
 | linda | LINDA |  |  |
 | asanine luno | 朝仁寝ルノ |  |  |
+| yasuhiro | ヤスヒロ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
