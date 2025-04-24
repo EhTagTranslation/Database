@@ -13141,6 +13141,7 @@ example:
 | sakyu syogkun | 砂丘将軍 |  |  |
 | denshiko | でんしこ! |  |  |
 | units | units |  |  |
+| esseknuck | えっせなっく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
