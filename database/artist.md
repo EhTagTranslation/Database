@@ -13734,6 +13734,7 @@ example:
 | yasuhiro | ヤスヒロ |  |  |
 | katsura yoshihiro | 桂よしひろ |  |  |
 | hibari hina | 雲雀ひな |  |  |
+| outotsu den | 凹凸でん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
