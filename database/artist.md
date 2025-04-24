@@ -13737,6 +13737,7 @@ example:
 | outotsu den | 凹凸でん |  |  |
 | nayuta takumi | 那由他琢己 |  |  |
 | kuro maihana | 黒舞花 | Dark Maihana |  |
+| knuck | なっく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
