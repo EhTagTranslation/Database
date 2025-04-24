@@ -12593,7 +12593,7 @@ example:
 | yoongonji | 尹坤志 | ![](https://pbs.twimg.com/profile_images/1614267045813850118/8joz4Q6q_400x400.jpg)<br><br>韩国著名女性漫画家。 | [X](https://x.com/yoongonji)<br>[Namu](https://namu.wiki/w/윤곤지) |
 | mobuta | モブ太 |  |  |
 | xiaozi xiao | 笑笑饺子 |  | [X](https://x.com/GyozaBaby_0214/media) [pixiv](https://www.pixiv.net/users/50634464) |
-| shura | 朱雷 |  | [pixiv](https://www.pixiv.net/users/23353614) |
+| shura | しゅら |  | [pixiv](https://www.pixiv.net/users/23353614) |
 | kokonobi | 九尾 | 七尾奈留的徒弟 |  |
 | pooh | ぷぅ |  | [X](https://x.com/Pooh_Piyo) [pixiv](https://www.pixiv.net/users/114344) |
 | irono | ゐろの |  | [X](https://x.com/irono_1910) [pixiv](https://www.pixiv.net/users/21474581) |
