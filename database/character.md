@@ -6365,6 +6365,7 @@ example:
 | marco diaz | 马可·迪亚兹 |  |  |
 | claude claudel | 克洛德·克劳戴 |  |  |
 | yune | 汤音 |  |  |
+| nachoneko | Nachoneko | Nachoneko, 是猫猫画师`a:amashiro natsuki`老师本人的vtuber人物(和本体一样都是猫猫). | [YouTube](https://www.youtube.com/@Nachoneko_dayo/)<br>[Twitch](https://www.twitch.tv/nacho_dayo)<br>[X](https://www.x.com/amsrntk3)<br>[HP](https://www.amashiro.com) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
