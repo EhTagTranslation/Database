@@ -6364,6 +6364,7 @@ example:
 | azula | 阿祖拉 |  | [灰机wiki](https://avatar.huijiwiki.com/wiki/阿祖拉) |
 | marco diaz | 马可·迪亚兹 |  |  |
 | claude claudel | 克洛德·克劳戴 |  |  |
+| yune | 汤音 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
