@@ -13142,6 +13142,7 @@ example:
 | denshiko | でんしこ! |  |  |
 | units | units |  |  |
 | esseknuck | えっせなっく |  |  |
+| naminori navy | 波乗りネイビー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
