@@ -13739,6 +13739,7 @@ example:
 | kuro maihana | 黒舞花 | Dark Maihana |  |
 | knuck | なっく |  |  |
 | ebinavy | エビネイビー |  |  |
+| chouriin | 調理員 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
