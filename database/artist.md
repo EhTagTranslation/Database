@@ -13740,6 +13740,7 @@ example:
 | knuck | なっく |  |  |
 | ebinavy | エビネイビー |  |  |
 | chouriin | 調理員 |  |  |
+| myuu | ミュー |  | [pixiv](https://www.pixiv.net/users/476249) |
 
 <!--TEMPLATE:
 |  |  |  |  |
