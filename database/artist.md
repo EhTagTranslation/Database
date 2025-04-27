@@ -13742,6 +13742,7 @@ example:
 | chouriin | 調理員 |  |  |
 | myuu | ミュー |  | [pixiv](https://www.pixiv.net/users/476249) |
 | hakujitsu mamire | 白日まみれ |  | [pixiv](https://www.pixiv.net/users/92799842) [X](https://x.com/tonton8879) |
+| inukaki | いぬかき |  | [pixiv](https://www.pixiv.net/users/62150400) [X](https://x.com/inukaki11) |
 
 <!--TEMPLATE:
 |  |  |  |  |
