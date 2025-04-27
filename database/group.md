@@ -13143,6 +13143,7 @@ example:
 | units | units |  |  |
 | esseknuck | えっせなっく |  |  |
 | naminori navy | 波乗りネイビー |  |  |
+| yoru no okazu shokudou | 夜ノヲカズ食堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
