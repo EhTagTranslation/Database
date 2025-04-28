@@ -13146,6 +13146,7 @@ example:
 | yoru no okazu shokudou | 夜ノヲカズ食堂 |  |  |
 | mamekkusei | マメック星 |  |  |
 | namako production | なまこぷろだくしょん |  |  |
+| natsu no seikatsu | なつのせいかつ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
