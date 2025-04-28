@@ -13145,6 +13145,7 @@ example:
 | naminori navy | 波乗りネイビー |  |  |
 | yoru no okazu shokudou | 夜ノヲカズ食堂 |  |  |
 | mamekkusei | マメック星 |  |  |
+| namako production | なまこぷろだくしょん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
