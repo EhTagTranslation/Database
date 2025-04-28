@@ -6371,6 +6371,7 @@ example:
 | riruru | 莉露露 | 游戏美好的每一天，终之空登场角色，是个扶他（魔法少）女 |  |
 | firewhistle | 火哨 |  |  |
 | ump40 | UMP40 \| 莱妮 | `p:girls frontline`<br><br>少女前线2追放 |  |
+| fleurdelys | 芙露提莉斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
