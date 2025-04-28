@@ -13147,6 +13147,7 @@ example:
 | mamekkusei | マメック星 |  |  |
 | namako production | なまこぷろだくしょん |  |  |
 | natsu no seikatsu | なつのせいかつ |  |  |
+| strong shuzou | ストロング酒造 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
