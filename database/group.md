@@ -13148,6 +13148,7 @@ example:
 | namako production | なまこぷろだくしょん |  |  |
 | natsu no seikatsu | なつのせいかつ |  |  |
 | strong shuzou | ストロング酒造 |  |  |
+| narukami hanten | なるかみ飯店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
