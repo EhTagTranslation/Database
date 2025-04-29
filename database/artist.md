@@ -13747,6 +13747,7 @@ example:
 | gachou | 蛾蝶 |  | [pixiv](https://www.pixiv.net/users/5826547) |
 | konno | 紺野 |  |  |
 | higa yukari | 緋賀ゆかり |  |  |
+| kirisawa saki | 桐沢咲 | 桐沢さき |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
