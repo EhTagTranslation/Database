@@ -6377,6 +6377,7 @@ example:
 | hajime iwaizumi | 岩泉一 |  | [Fandom](https://haikyuu.fandom.com/wiki/Hajime_Iwaizumi) |
 | tooru oikawa | 及川彻 |  | [Fandom](https://haikyuu.fandom.com/wiki/Tōru_Oikawa) |
 | sukeban smg | 女番长(smg) |  |  |
+| harusaki nodoka | 春先和香 | 春先和香（日语：春先 のどか／はるさき のどかHarusaki Nodoka）是Hololive旗下进行支援的工作人员，于2022年4月1日开始活动。 | [萌娘百科](https://zh.moegirl.org.cn/春先和香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
