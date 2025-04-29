@@ -6376,6 +6376,7 @@ example:
 | noel | 诺耶尔 | 诺耶尔（日语：ノエル）是由Type-Moon所制作的游戏《月姬 -A piece of blue glass moon-》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/诺耶尔) |
 | hajime iwaizumi | 岩泉一 |  | [Fandom](https://haikyuu.fandom.com/wiki/Hajime_Iwaizumi) |
 | tooru oikawa | 及川彻 |  | [Fandom](https://haikyuu.fandom.com/wiki/Tōru_Oikawa) |
+| sukeban smg | 女番长(smg) |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
