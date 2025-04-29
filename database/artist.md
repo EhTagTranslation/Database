@@ -13746,6 +13746,7 @@ example:
 | shouri no oushi rei | 勝利の雄牛レイ |  |  |
 | gachou | 蛾蝶 |  | [pixiv](https://www.pixiv.net/users/5826547) |
 | konno | 紺野 |  |  |
+| higa yukari | 緋賀ゆかり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
