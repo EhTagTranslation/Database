@@ -6371,7 +6371,7 @@ example:
 | riruru | 莉露露 | 游戏美好的每一天，终之空登场角色，是个扶他（魔法少）女 |  |
 | firewhistle | 火哨 |  |  |
 | ump40 | UMP40 \| 莱妮 | `p:girls frontline`<br><br>少女前线2追放 |  |
-| fleurdelys | 芙露提莉斯 |  |  |
+| fleurdelys | 芙露德莉斯 | 芙露德莉斯，游戏《鸣潮》中的角色。<br><br>「英白拉多」与「利维亚坦」纠缠融合后，卡提希娅与其共鸣，成为了修会认证的岁主共鸣者，得名芙露德莉斯。<br><br>![](https://wuthering.wiki/img/monster_340000120.png) | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅) |
 | cecilia immergreen | 塞西莉亞·伊默格林 |  |  |
 | noel | 诺耶尔 | 诺耶尔（日语：ノエル）是由Type-Moon所制作的游戏《月姬 -A piece of blue glass moon-》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/诺耶尔) |
 
