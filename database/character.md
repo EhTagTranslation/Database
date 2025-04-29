@@ -6372,6 +6372,7 @@ example:
 | firewhistle | 火哨 |  |  |
 | ump40 | UMP40 \| 莱妮 | `p:girls frontline`<br><br>少女前线2追放 |  |
 | fleurdelys | 芙露提莉斯 |  |  |
+| cecilia immergreen | 塞西莉亞·伊默格林 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
