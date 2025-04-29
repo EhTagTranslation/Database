@@ -13745,6 +13745,7 @@ example:
 | inukaki | いぬかき |  | [pixiv](https://www.pixiv.net/users/62150400) [X](https://x.com/inukaki11) |
 | shouri no oushi rei | 勝利の雄牛レイ |  |  |
 | gachou | 蛾蝶 |  | [pixiv](https://www.pixiv.net/users/5826547) |
+| konno | 紺野 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
