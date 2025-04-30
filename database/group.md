@@ -13150,6 +13150,7 @@ example:
 | strong shuzou | ストロング酒造 |  |  |
 | narukami hanten | なるかみ飯店 |  |  |
 | uchidome | ウチドメ |  |  |
+| yukemuri hitsuji | ゆけむりひつじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
