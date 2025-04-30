@@ -13748,6 +13748,7 @@ example:
 | konno | 紺野 |  |  |
 | higa yukari | 緋賀ゆかり |  |  |
 | kirisawa saki | 桐沢咲 | 桐沢さき |  |
+| lao gong | 老攻 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
