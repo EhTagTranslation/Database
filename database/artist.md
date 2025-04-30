@@ -13749,6 +13749,7 @@ example:
 | higa yukari | 緋賀ゆかり |  |  |
 | kirisawa saki | 桐沢咲 | 桐沢さき |  |
 | lao gong | 老攻 |  |  |
+| nanashi no hitsuji | 名無しの羊 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
