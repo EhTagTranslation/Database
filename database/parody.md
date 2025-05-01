@@ -2449,6 +2449,7 @@ example:
 | knights college | Knights College -骑士学院- | 《Knights College-骑士学院-》是一款以骑士团候补生们生活的『骑士学院』为舞台的、兽人题材的视觉小说。 | [Steam](https://store.steampowered.com/app/1510030/Knights_College/) |
 | dislyte | 众神派对 | 《众神派对》（英语：Dislyte），又称神觉者。由莉莉丝游戏开发并发行于2022年5月10日的3D回合制战略角色扮演手游。 | [官网地址（国服）](https://zspd.lilith.com/) [官网地址（国际服）](https://dislyte.farlightgames.com/) [维基百科](https://zh.wikipedia.org/wiki/眾神派對) |
 | bobs burgers | 开心汉堡店 |  | [维基百科](https://zh.wikipedia.org/wiki/开心汉堡店) |
+| murder drones | 无机杀手 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
