@@ -6381,6 +6381,7 @@ example:
 | sora haruno | 樱乃空 |  | [萌娘百科](https://zh.moegirl.org.cn/樱乃空) |
 | sayaka maizono | 舞园沙耶香 | 舞园沙耶香（日语：舞园（まいぞの） さやか）是日本游戏公司spike推出的游戏《弹丸论破：希望学院和绝望高中生》及同名动画中的角色。 | [萌娘百科](https://zh.moegirl.org.cn/舞园沙耶香) |
 | golding | 戈尔丁 |  |  |
+| rouji chante | 卢吉·尚特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
