@@ -13151,6 +13151,7 @@ example:
 | narukami hanten | なるかみ飯店 |  |  |
 | uchidome | ウチドメ |  |  |
 | yukemuri hitsuji | ゆけむりひつじ |  |  |
+| chaseta no niwa | ちゃせたの庭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
