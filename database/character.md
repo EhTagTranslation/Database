@@ -6385,6 +6385,7 @@ example:
 | plusle | 正电拍拍 |  |  |
 | minun | 负电拍拍 |  |  |
 | tama sakai | 多摩境 |  |  |
+| roka shibasaki | 芦花柴崎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
