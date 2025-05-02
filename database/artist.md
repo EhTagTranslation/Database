@@ -13754,6 +13754,7 @@ example:
 | kagura wsk | かぐーら |  |  |
 | chaseta | 茶世太 |  |  |
 | nako sir | なこ汁 |  |  |
+| chero | ちぇろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
