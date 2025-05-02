@@ -6386,6 +6386,7 @@ example:
 | minun | 负电拍拍 |  |  |
 | tama sakai | 多摩境 |  |  |
 | roka shibasaki | 柴崎芦花 |  |  |
+| kenji kazama | 风间坚次 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
