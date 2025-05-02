@@ -13752,6 +13752,7 @@ example:
 | nanashi no hitsuji | 名無しの羊 |  |  |
 | aster crowley | Aster Crowley |  |  |
 | kagura wsk | かぐーら |  |  |
+| chaseta | 茶世太 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
