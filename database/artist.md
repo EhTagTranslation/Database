@@ -13753,6 +13753,7 @@ example:
 | aster crowley | Aster Crowley |  |  |
 | kagura wsk | かぐーら |  |  |
 | chaseta | 茶世太 |  |  |
+| nako sir | なこ汁 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
