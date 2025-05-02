@@ -6384,6 +6384,7 @@ example:
 | rouji chante | 卢吉·尚特 |  |  |
 | plusle | 正电拍拍 |  |  |
 | minun | 负电拍拍 |  |  |
+| tama sakai | 境多摩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
