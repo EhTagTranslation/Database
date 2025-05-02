@@ -13755,6 +13755,7 @@ example:
 | chaseta | 茶世太 |  |  |
 | nako sir | なこ汁 |  |  |
 | chero | ちぇろ |  |  |
+| rikoping2000 | りこぴん2000 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
