@@ -13751,6 +13751,7 @@ example:
 | lao gong | 老攻 |  |  |
 | nanashi no hitsuji | 名無しの羊 |  |  |
 | aster crowley | Aster Crowley |  |  |
+| kagura wsk | かぐーら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
