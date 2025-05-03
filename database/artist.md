@@ -13758,6 +13758,7 @@ example:
 | rikoping2000 | りこぴん2000 |  |  |
 | sirotategosha | 白楯误射 | 白楯誤射 |  |
 | gendai x | 哏呔X |  | [pixiv](https://www.pixiv.net/users/25141366) |
+| shinima | しにま |  | [pixiv](https://www.pixiv.net/users/32812997) [X](https://x.com/1x1_3818) |
 
 <!--TEMPLATE:
 |  |  |  |  |
