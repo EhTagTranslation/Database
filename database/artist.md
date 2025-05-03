@@ -13756,6 +13756,7 @@ example:
 | nako sir | なこ汁 |  |  |
 | chero | ちぇろ |  |  |
 | rikoping2000 | りこぴん2000 |  |  |
+| sirotategosha | 白楯误射 | 白楯誤射 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
