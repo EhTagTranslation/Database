@@ -13761,6 +13761,7 @@ example:
 | shinima | しにま |  | [pixiv](https://www.pixiv.net/users/32812997) [X](https://x.com/1x1_3818) |
 | fishinloli | フィッシンローリ |  | [X](https://x.com/fishinloli0820/) [FANBOX](https://www.fanbox.cc/@fishinloli) |
 | moririn-monson | モリリン・モンソン |  |  |
+| hakuhi | 剥皮 |  | [pixiv](https://www.pixiv.net/users/296713) |
 
 <!--TEMPLATE:
 |  |  |  |  |
