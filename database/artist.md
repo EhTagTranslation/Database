@@ -13757,6 +13757,7 @@ example:
 | chero | ちぇろ |  |  |
 | rikoping2000 | りこぴん2000 |  |  |
 | sirotategosha | 白楯误射 | 白楯誤射 |  |
+| gendai x | 哏呔X |  | [pixiv](https://www.pixiv.net/users/25141366) |
 
 <!--TEMPLATE:
 |  |  |  |  |
