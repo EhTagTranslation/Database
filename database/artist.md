@@ -13759,6 +13759,7 @@ example:
 | sirotategosha | 白楯误射 | 白楯誤射 |  |
 | gendai x | 哏呔X |  | [pixiv](https://www.pixiv.net/users/25141366) |
 | shinima | しにま |  | [pixiv](https://www.pixiv.net/users/32812997) [X](https://x.com/1x1_3818) |
+| fishinloli | フィッシンローリ |  | [X](https://x.com/fishinloli0820/) [FANBOX](https://www.fanbox.cc/@fishinloli) |
 
 <!--TEMPLATE:
 |  |  |  |  |
