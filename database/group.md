@@ -13152,6 +13152,7 @@ example:
 | uchidome | ウチドメ |  |  |
 | yukemuri hitsuji | ゆけむりひつじ |  |  |
 | chaseta no niwa | ちゃせたの庭 |  |  |
+| nanka no su | 何かの巣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
