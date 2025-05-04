@@ -13763,6 +13763,7 @@ example:
 | moririn-monson | モリリン・モンソン |  |  |
 | hakuhi | 剥皮 |  | [pixiv](https://www.pixiv.net/users/296713) |
 | takarama otoko | 高良間男 |  | [X](https://x.com/Pizza__Mania) |
+| kojima lala | 仔縞楽々 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
