@@ -6388,6 +6388,7 @@ example:
 | roka shibasaki | 柴崎芦花 |  |  |
 | kenji kazama | 风间坚次 |  |  |
 | karen himemiya | 姬宫华恋 |  | [百度百科](https://baike.baidu.com/item/姬宫华恋/64464235) |
+| kaju nukumizu | 温水佳树 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
