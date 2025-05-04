@@ -6387,6 +6387,7 @@ example:
 | tama sakai | 多摩境 |  |  |
 | roka shibasaki | 柴崎芦花 |  |  |
 | kenji kazama | 风间坚次 |  |  |
+| karen himemiya | 姬宫华恋 |  | [百度百科](https://baike.baidu.com/item/姬宫华恋/64464235) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
