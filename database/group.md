@@ -13153,6 +13153,7 @@ example:
 | yukemuri hitsuji | ゆけむりひつじ |  |  |
 | chaseta no niwa | ちゃせたの庭 |  |  |
 | nanka no su | 何かの巣 |  |  |
+| shibire na memai | 痺れな目眩 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
