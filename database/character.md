@@ -6389,6 +6389,7 @@ example:
 | kenji kazama | 风间坚次 |  |  |
 | karen himemiya | 姬宫华恋 |  | [百度百科](https://baike.baidu.com/item/姬宫华恋/64464235) |
 | kaju nukumizu | 温水佳树 |  |  |
+| uzuki kou | 卯月コウ | 卯月コウ（英譯：Uzuki Kou，中譯：卯月光）是一位日本男性虛擬Youtuber，為いちから株式会社旗下にじさんじSEEDs的虛擬Liver成員之一，於2018年6月6日在Mirrativ開始活動。 | [https://wikiwiki.jp/nijisanji/卯月コウ](https://wikiwiki.jp/nijisanji/卯月コウ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
