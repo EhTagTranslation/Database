@@ -2450,6 +2450,7 @@ example:
 | dislyte | 众神派对 | 《众神派对》（英语：Dislyte），又称神觉者。由莉莉丝游戏开发并发行于2022年5月10日的3D回合制战略角色扮演手游。 | [官网地址（国服）](https://zspd.lilith.com/) [官网地址（国际服）](https://dislyte.farlightgames.com/) [维基百科](https://zh.wikipedia.org/wiki/眾神派對) |
 | bobs burgers | 开心汉堡店 |  | [维基百科](https://zh.wikipedia.org/wiki/开心汉堡店) |
 | murder drones | 无机杀手 |  |  |
+| puniru wa kawaii slime | 可爱史莱姆噗尼露 | 《可爱史莱姆噗尼露》（日语：ぷにるはかわいいスライム）是由日本漫画家まえだくん创作的漫画，有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/可爱史莱姆噗尼露) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
