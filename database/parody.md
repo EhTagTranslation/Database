@@ -2451,6 +2451,7 @@ example:
 | bobs burgers | 开心汉堡店 |  | [维基百科](https://zh.wikipedia.org/wiki/开心汉堡店) |
 | murder drones | 无机杀手 |  |  |
 | puniru wa kawaii slime | 可爱史莱姆噗尼露 | 《可爱史莱姆噗尼露》（日语：ぷにるはかわいいスライム）是由日本漫画家まえだくん创作的漫画，有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/可爱史莱姆噗尼露) |
+| haite kudasai takamine-san | 鹰峰同学请穿上衣服 | 柊裕一的漫画作品 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
