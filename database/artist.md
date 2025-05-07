@@ -13765,6 +13765,7 @@ example:
 | takarama otoko | 高良間男 |  | [X](https://x.com/Pizza__Mania) |
 | kojima lala | 仔縞楽々 |  |  |
 | aoi kojika | あおいこじか |  |  |
+| fuji norihiro | 藤のりひろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
