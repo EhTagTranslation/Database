@@ -6394,6 +6394,7 @@ example:
 | yuuri kozukata | 不来方夕莉 | 《零：濡鸦之巫女》中的角色 |  |
 | shio koube | 神户盐 |  |  |
 | satou matsuzaka | 松板砂糖 |  |  |
+| lemuen | 蕾缪安 | 手游《明日方舟》干员蕾缪安 | [萌娘百科](https://zh.moegirl.org.cn/蕾缪安) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
