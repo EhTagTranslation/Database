@@ -6393,6 +6393,7 @@ example:
 | takane takamine | 鹰峰高岭 |  |  |
 | yuuri kozukata | 不来方夕莉 | 《零：濡鸦之巫女》中的角色 |  |
 | shio koube | 神户盐 |  |  |
+| satou matsuzaka | 松板砂糖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
