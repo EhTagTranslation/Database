@@ -2453,6 +2453,7 @@ example:
 | puniru wa kawaii slime | 可爱史莱姆噗尼露 | 《可爱史莱姆噗尼露》（日语：ぷにるはかわいいスライム）是由日本漫画家まえだくん创作的漫画，有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/可爱史莱姆噗尼露) |
 | haite kudasai takamine-san | 鹰峰同学请穿上衣服 | 柊裕一的漫画作品 |  |
 | girls frontline neural cloud | 少女前线：云图计划 |  |  |
+| happy sugar life | 砂糖的幸福生活 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
