@@ -13157,6 +13157,7 @@ example:
 | seiun neopolis | 青雲ネオポリス |  |  |
 | morokoshi batake | もろこし畑 |  |  |
 | imokenpi kinenbi | いもけんぴ記念日 |  |  |
+| chocomint potatochips | チョコミントポテトチップス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
