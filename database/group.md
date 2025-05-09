@@ -13155,6 +13155,7 @@ example:
 | nanka no su | 何かの巣 |  |  |
 | shibire na memai | 痺れな目眩 |  |  |
 | seiun neopolis | 青雲ネオポリス |  |  |
+| morokoshi batake | もろこし畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
