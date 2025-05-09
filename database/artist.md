@@ -13767,6 +13767,7 @@ example:
 | aoi kojika | あおいこじか |  |  |
 | fuji norihiro | 藤のりひろ |  |  |
 | conpota-ju | こんぽたーじゅ |  |  |
+| min poteito | みんぽていと |  | [pixiv](https://www.pixiv.net/users/2658619) [X](https://x.com/ptcreamint) |
 
 <!--TEMPLATE:
 |  |  |  |  |
