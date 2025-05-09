@@ -142,6 +142,7 @@ example:
 | enako | えなこ | enakorin |  |
 | da da juan juan xiao juan | 大大卷卷小卷 |  |  |
 | rakuraku | 落落Raku |  |  |
+| zhuimingyou | 日奈娇 | 日奈娇，人气Coser，特点是大眼睛幼态脸，图包都是4K原图。 | [X](https://x.com/naijiaojiao) |
 
 <!--
 Template: 
