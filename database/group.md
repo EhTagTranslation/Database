@@ -13156,6 +13156,7 @@ example:
 | shibire na memai | 痺れな目眩 |  |  |
 | seiun neopolis | 青雲ネオポリス |  |  |
 | morokoshi batake | もろこし畑 |  |  |
+| imokenpi kinenbi | いもけんぴ記念日 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
