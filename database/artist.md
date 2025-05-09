@@ -13766,6 +13766,7 @@ example:
 | kojima lala | 仔縞楽々 |  |  |
 | aoi kojika | あおいこじか |  |  |
 | fuji norihiro | 藤のりひろ |  |  |
+| conpota-ju | こんぽたーじゅ)] |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
