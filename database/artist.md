@@ -13768,6 +13768,7 @@ example:
 | fuji norihiro | 藤のりひろ |  |  |
 | conpota-ju | こんぽたーじゅ |  |  |
 | min poteito | みんぽていと |  | [pixiv](https://www.pixiv.net/users/2658619) [X](https://x.com/ptcreamint) |
+| numata shizumu | 沼田しずむ |  | [pixiv](https://www.pixiv.net/users/10179850) [X](https://x.com/numatashizumu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
