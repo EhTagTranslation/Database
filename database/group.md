@@ -13158,6 +13158,7 @@ example:
 | imokenpi kinenbi | いもけんぴ記念日 |  |  |
 | chocomint potatochips | チョコミントポテトチップス |  |  |
 | haien kikan | 排煙機関 |  |  |
+| fisticuffsclub | FC倶楽部 |  | [pixiv](https://www.pixiv.net/users/26325262)  [FANBOX](https://fisticuffsclub.fanbox.cc/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
