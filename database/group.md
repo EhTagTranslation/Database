@@ -13158,6 +13158,7 @@ example:
 | morokoshi batake | もろこし畑 |  |  |
 | imokenpi kinenbi | いもけんぴ記念日 |  |  |
 | chocomint potatochips | チョコミントポテトチップス |  |  |
+| haien kikan | 排煙機関 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
