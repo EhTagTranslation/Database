@@ -4689,10 +4689,9 @@ example:
 | chizakya | ちざきゃ |  |  |
 | chizu | ちず |  |  |
 | chizuru | ちづる |  |  |
-| chocco coronetto | チョココロネット |  |  |
+| choco coronet | チョココロネット |  |  |
 | chocho | チョチョ |  |  |
 | choco | CHOCO |  |  |
-| choco coronet | チョココロネット |  |  |
 | chocomint | ちょこみんと |  |  |
 | chocore | ちょこれ |  |  |
 | choko yarou | ちょこ野郎 |  |  |
@@ -9222,7 +9221,6 @@ example:
 | pato-chan | パトちゃん |  |  |
 | patori | ぱとり |  |  |
 | patricia | パトリシア |  |  |
-| patrick hateman | Patrick Hateman |  |  |
 | pd | Pd |  |  |
 | peach | Peach |  |  |
 | peat lock | ぴーと・ろっく |  |  |
@@ -9430,7 +9428,7 @@ example:
 | reika | 零花 |  |  |
 | reimei | 黎明 |  |  |
 | reine | レーヌ |  |  |
-| reishiki aria | 零式アリア |  |  |
+| zeroshiki aria | 零式アリア |  |  |
 | rekisitaihoonoji | レキシタイふのじ |  |  |
 | reku | れく |  |  |
 | rela | Rela |  |  |

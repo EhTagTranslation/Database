@@ -3754,7 +3754,6 @@ example:
 | cho-jin hakaba | 超人墓場 |  |  |
 | choco biscuits | ちょこ★びすけっつ |  |  |
 | choco box | choco BOX |  |  |
-| choco croissant | チョコクロワッサン |  |  |
 | choco zakura | ちょこざくら |  |  |
 | choco-banana | ちょこばなな。 |  |  |
 | chocobits | Chocobits |  |  |
