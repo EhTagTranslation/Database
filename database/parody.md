@@ -2454,6 +2454,7 @@ example:
 | haite kudasai takamine-san | 鹰峰同学请穿上衣服 | 柊裕一的漫画作品 |  |
 | girls frontline neural cloud | 少女前线：云图计划 |  |  |
 | happy sugar life | 砂糖的幸福生活 |  |  |
+| captain tsubasa | 足球小将 |  | [维基百科](https://zh.wikipedia.org/wiki/足球小將) [萌娘百科](https://zh.moegirl.org.cn/足球小将) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
