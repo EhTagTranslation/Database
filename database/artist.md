@@ -13770,6 +13770,7 @@ example:
 | gekimabu | 激マブ |  |  |
 | natsume tsuna | 夏目つな |  |  |
 | kamasu | kamasu |  | [X](https://x.com/kamasu489659) |
+| motaki | もたき |  | [pixiv](https://www.pixiv.net/users/45045831) [X](https://x.com/motaki_taki) |
 
 <!--TEMPLATE:
 |  |  |  |  |
