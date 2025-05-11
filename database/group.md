@@ -13160,6 +13160,7 @@ example:
 | haien kikan | 排煙機関 |  |  |
 | fisticuffsclub | FC倶楽部 |  | [pixiv](https://www.pixiv.net/users/26325262)  [FANBOX](https://fisticuffsclub.fanbox.cc/) |
 | hentaikey | HentaiKey |  |  |
+| yawaraka seinikuten | 滑らか精肉店 | `a:kamasu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
