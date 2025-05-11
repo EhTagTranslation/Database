@@ -13769,6 +13769,7 @@ example:
 | numata shizumu | 沼田しずむ |  | [pixiv](https://www.pixiv.net/users/10179850) [X](https://x.com/numatashizumu) |
 | gekimabu | 激マブ |  |  |
 | natsume tsuna | 夏目つな |  |  |
+| kamasu | kamasu |  | [X](https://x.com/kamasu489659) |
 
 <!--TEMPLATE:
 |  |  |  |  |
