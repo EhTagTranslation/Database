@@ -6400,6 +6400,7 @@ example:
 | kabru | 卡布尔 |  |  |
 | cattleya | 卡特莱娜 |  |  |
 | escoffier | 爱可菲 |  |  |
+| pina asahina | 朝比奈菲娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
