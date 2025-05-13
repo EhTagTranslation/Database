@@ -1534,7 +1534,7 @@ example:
 | justice league | 正义联盟 |  |  |
 | avalon code | 创世法典 |  |  |
 | doctor who | 神秘博士 |  |  |
-| rune factory | 符文工房 |  |  |
+| rune factory | 符文工房 |  | [萌娘百科](https://zh.moegirl.org.cn/符文工厂系列) |
 | coraline | 鬼妈妈 |  |  |
 | dororo | 多罗罗 |  |  |
 | sekiro shadows die twice | 只狼：影逝二度 |  |  |
