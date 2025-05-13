@@ -2457,6 +2457,7 @@ example:
 | captain tsubasa | 足球小将 |  | [维基百科](https://zh.wikipedia.org/wiki/足球小將) [萌娘百科](https://zh.moegirl.org.cn/足球小将) |
 | do it yourself | Do It Yourself!! |  | [萌娘百科](https://zh.moegirl.org.cn/Do_It_Yourself!!) |
 | blue comet spt layzner | 苍蓝流星SPT雷兹纳 | 苍蓝流星 | [维基百科](https://zh.wikipedia.org/wiki/蒼藍流星) |
+| himesama goumon no jikan desu | 公主大人，接下来是“拷问”时间 |  | [维基百科](https://zh.wikipedia.org/wiki/公主殿下，“拷问”的时间到了) [萌娘百科](https://zh.moegirl.org.cn/公主大人的“拷问”时间) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
