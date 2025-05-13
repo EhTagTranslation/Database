@@ -6401,6 +6401,7 @@ example:
 | cattleya | 卡特莱娜 |  |  |
 | escoffier | 爱可菲 |  |  |
 | pina asahina | 朝比奈菲娜 |  |  |
+| princess | 公主 | 所属作品: `p:himesama goumon no jikan desu`<br><br>本作主角。本名不明。金发碧眼，头上还有一个小王冠。既是王女，又是国王军第三骑士团的团长。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
