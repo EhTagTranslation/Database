@@ -6402,6 +6402,7 @@ example:
 | escoffier | 爱可菲 |  |  |
 | pina asahina | 朝比奈菲娜 |  |  |
 | princess | 公主 | 所属作品: `p:himesama goumon no jikan desu`<br><br>本作主角。本名不明。金发碧眼，头上还有一个小王冠。既是王女，又是国王军第三骑士团的团长。 |  |
+| torture tortura | 绝顶之惨叫姬·折磨小姐 | 所属作品: `p:himesama goumon no jikan desu`<br><br>魔王军首席拷问官，妙龄女性恶魔，负责拷问公主来获得对魔王军有利的情报。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
