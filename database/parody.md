@@ -1534,7 +1534,7 @@ example:
 | justice league | 正义联盟 |  |  |
 | avalon code | 创世法典 |  |  |
 | doctor who | 神秘博士 |  |  |
-| rune factory | 符文工房 | 《符文工厂》系列（日语：ルーンファクトリー，英语：Rune Factory），是由Neverland开发，Marvelous发行的模拟经营类系列游戏，《符文工厂5》后转为由HAKAMA开发。该游戏最早在2006年8月24日于Nintendo DS平台发行。本作原是牧场物语系列的外传作品，在《符文工厂2》后成为独立系列。 | [萌娘百科](https://zh.moegirl.org.cn/符文工厂系列) |
+| rune factory | 符文工房 | 《符文工厂》系列（日语：ルーンファクトリー，英语：Rune Factory），是由Neverland开发，Marvelous发行的模拟经营类系列游戏，《符文工厂5》后转为由HAKAMA开发。该游戏最早在2006年8月24日于Nintendo DS平台发行。本作原是牧场物语系列的外传作品，在《符文工厂2》后成为独立系列。 | [萌娘百科](https://zh.moegirl.org.cn/符文工厂系列) [维基百科](https://zh.wikipedia.org/wiki/符文工廠系列) |
 | coraline | 鬼妈妈 |  |  |
 | dororo | 多罗罗 |  |  |
 | sekiro shadows die twice | 只狼：影逝二度 |  |  |
