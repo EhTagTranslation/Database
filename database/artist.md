@@ -3461,7 +3461,7 @@ example:
 | majima tetsurou | 真島てつろー |  | [X](https://x.com/Tetsu__TTR) [pixiv](https://www.pixiv.net/users/16798951) |
 | super zombie | 超级僵尸 | すーぱーぞんび<br>![画师头像](https://pbs.twimg.com/profile_images/1478036805224382469/I0DiSe6K_200x200.jpg)<br>画师推特头像 | [X](https://x.com/yamayo) [pixiv](https://www.pixiv.net/users/38461) |
 | seuma | せうま |  |  |
-| ryoma | きただりょうま |  | [X](https://x.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) |
+| ryoma | 北田竜馬 | ![ユメオチ~ユメで僕らは恋にオチる~](https://www.tongli.com.tw/ComicImages/Images/JC1326/JC1326001/JC1326001.jpg) | [X](https://x.com/R_Kitada) [pixiv](https://www.pixiv.net/users/151716) [东立](https://www.tongli.com.tw/BooksDetail.aspx?Bd=JC1326001) |
 | kannko | 缶子 | 大奶画家 音乐发烧友 非常大烧 设备已达7位数 | [X](https://x.com/orz_can) [pixiv](https://www.pixiv.net/users/8307536) |
 | sencha | せんちゃ | ![せんちゃ头像](https://s2.loli.net/2022/01/04/fOnAZIVW52RlqCr.jpg) | [X](https://x.com/ukiukisoda) [pixiv](https://www.pixiv.net/users/3388329) |
 | miyazaki hayao | 宫崎骏 |  |  |
