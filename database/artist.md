@@ -13773,6 +13773,7 @@ example:
 | motaki | もたき |  | [pixiv](https://www.pixiv.net/users/45045831) [X](https://x.com/motaki_taki) |
 | momi yuro | 揉ゆろ |  | [pixiv](https://www.pixiv.net/users/4315557) [X](https://x.com/momi_yuro) |
 | shinozaki ui | 篠崎うい |  | [pixiv](https://www.pixiv.net/users/16890775) [X](https://x.com/shinozakiui) |
+| yatsuki hiyori | 八樹ひより |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
