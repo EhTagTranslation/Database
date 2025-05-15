@@ -6405,6 +6405,7 @@ example:
 | torture tortura | 绝顶之惨叫姬·折磨小姐 | 所属作品: `p:himesama goumon no jikan desu`<br><br>魔王军首席拷问官，妙龄女性恶魔，负责拷问公主来获得对魔王军有利的情报。 |  |
 | provence | 普罗旺斯 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/普罗旺斯) [Fandom](https://arknights.fandom.com/wiki/Provence) [BILIGAME WIKI](https://wiki.biligame.com/arknights/普罗旺斯) |
 | zebstrika | 雷电斑马 |  |  |
+| dp-12 | DP-12 | 所属作品: `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:DP-12) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
