@@ -2459,6 +2459,7 @@ example:
 | blue comet spt layzner | 苍蓝流星SPT雷兹纳 | 苍蓝流星 | [维基百科](https://zh.wikipedia.org/wiki/蒼藍流星) |
 | himesama goumon no jikan desu | 公主大人，接下来是“拷问”时间 |  | [维基百科](https://zh.wikipedia.org/wiki/公主殿下，“拷问”的时间到了) [萌娘百科](https://zh.moegirl.org.cn/公主大人的“拷问”时间) |
 | rune factory 4 | 符文工厂4 | 《符文工厂4》（日语：ルーンファクトリー4，英语：Rune Factory 4）是符文工厂系列第六部作品，由Neverland制作、Marvelous于2012年7月19日发行的任天堂3DS专用游戏。 | [维基百科](https://zh.wikipedia.org/wiki/符文工廠4) |
+| suki na ko ga megane wo wasureta | 喜欢的人忘记戴眼镜了 |  | [维基百科](https://zh.wikipedia.org/wiki/我喜歡的女孩忘記戴眼鏡) [萌娘百科](https://zh.moegirl.org.cn/喜欢的人忘记戴眼镜了) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
