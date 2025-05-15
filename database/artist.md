@@ -13775,6 +13775,7 @@ example:
 | shinozaki ui | 篠崎うい |  | [pixiv](https://www.pixiv.net/users/16890775) [X](https://x.com/shinozakiui) |
 | yatsuki hiyori | 八樹ひより |  |  |
 | gulp | 5⁹5⁹ |  |  |
+| bera | Bera |  | [X](https://x.com/belishocked) [pixiv](https://www.pixiv.net/users/3912325) |
 
 <!--TEMPLATE:
 |  |  |  |  |
