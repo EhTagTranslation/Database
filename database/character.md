@@ -6407,6 +6407,7 @@ example:
 | zebstrika | 雷电斑马 |  |  |
 | dp-12 | DP-12 | 所属作品: `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:DP-12) |
 | ai mie | 三重爱 | 所属作品: `p:suki na ko ga megane wo wasureta` | [萌娘百科](https://zh.moegirl.org.cn/三重爱) |
+| tomari onitsuka | 鬼冢冬毬 | 所属作品: `p:love live superstar`<br><br>结丘女子高等学校第三届学生，学园偶像组合Liella!成员。是2023年4月28日新公布加入Liella!的两名三期生成员之一。`natsumi onitsuka`的妹妹。 | [Fandom](https://love-live.fandom.com/wiki/Tomari_Onitsuka) [萌娘百科](https://zh.moegirl.org.cn/鬼冢冬毬) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
