@@ -5255,7 +5255,7 @@ example:
 | edna krabappel | 埃德娜·克拉巴佩尔 |  | [维基百科](https://zh.wikipedia.org/wiki/埃德娜·克拉巴佩尔) |
 | patty bouvier | 帕蒂·布维尔 |  | [维基百科](https://zh.wikipedia.org/wiki/帕蒂和塞尔玛) |
 | selma bouvier | 塞尔玛·布维尔 |  | [维基百科](https://zh.wikipedia.org/wiki/帕蒂和塞尔玛) |
-| natsumi onitsuka | 鬼塚夏美 |  |  |
+| natsumi onitsuka | 鬼冢夏美 | 所属作品: `p:love live superstar`<br><br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一。`tomari onitsuka`的姐姐。 | [萌娘百科](https://zh.moegirl.org.cn/鬼冢夏美) [Fandom](https://love-live.fandom.com/wiki/Natsumi_Onitsuka) |
 | wien margarete | 维恩·玛格丽特 |  |  |
 | shellin burgundy | 谢林·勃艮第 |  |  |
 | levi ackerman | 利威尔·阿克曼 | 日本漫画《进击的巨人》及其衍生作品中的角色。 |  |
