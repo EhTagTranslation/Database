@@ -13777,6 +13777,7 @@ example:
 | gulp | 5⁹5⁹ |  |  |
 | bera | Bera |  | [X](https://x.com/belishocked) [pixiv](https://www.pixiv.net/users/3912325) |
 | necotaki | 猫滝 |  | [X](https://x.com/neconotaki) [pixiv](https://www.pixiv.net/users/64961797) |
+| saki rinku | 咲凛玖 |  | [pixiv](https://www.pixiv.net/users/46624621) |
 
 <!--TEMPLATE:
 |  |  |  |  |
