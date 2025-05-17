@@ -13780,6 +13780,7 @@ example:
 | saki rinku | 咲凛玖 |  | [pixiv](https://www.pixiv.net/users/46624621) |
 | matsumoto jikyuuryoku | 松本持久力 |  | [pixiv](https://www.pixiv.net/users/32810756) [X](https://x.com/jikyuryoku_mat) |
 | yamamura umi | 山村うみ |  |  |
+| kutsukake | くつかけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
