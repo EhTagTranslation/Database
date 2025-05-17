@@ -1831,7 +1831,7 @@ example:
 | brave 10 | BRAVE10 |  | [维基百科](https://zh.wikipedia.org/wiki/BRAVE10) |
 | brave express might gaine | 勇者特急队 |  | [维基百科](https://zh.wikipedia.org/wiki/勇者特急隊) |
 | brave fencer musashi | 勇敢的剑士 武藏传 |  | [维基百科](https://zh.wikipedia.org/wiki/勇敢的剑士%20武藏传) |
-| brave nine | Brave Nine |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブラウンダスト) |
+| brave nine | 棕色尘埃 | 《Brave Nine》是一款策略回合制RPG游戏，有着多达300多名个性迥异的佣兵角色，和令人眼花缭乱的高质量美术原画水平。本款游戏战斗控制方式简单易行，战斗结果取决于佣兵的攻击顺序与战位策略。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブラウンダスト) [HP](https://www.browndust2.com/zh-tw/) [Steam](https://store.steampowered.com/app/2442230/Brown_Dust/) |
 | brave story | 勇者物语 |  | [维基百科](https://zh.wikipedia.org/wiki/勇者物語) |
 | bravestarr | 布雷斯塔警长 |  | [维基百科](https://zh.wikipedia.org/wiki/布雷斯塔警长) |
 | breakers | BREAKERS |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/ブレイカーズ_%28テレビゲーム%29) |
