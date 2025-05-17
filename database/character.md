@@ -6414,6 +6414,7 @@ example:
 | ishigami nozomi | 石神望 | 石神望是一名从2023年1月19日在YouTube平台开始活动的VTuber，所属于业界团体`nijisanji`。<br><br>恶魔与人类的混血儿<br>以这样的设定在SNS上活动着。<br>虽然其实只是个人类，但相信自己的身体里寄宿着魔力。<br>左手上的绷带封印着恶魔之力。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Ishigami_Nozomi) [萌娘百科](https://zh.moegirl.org.cn/石神望) |
 | alpha | 阿尔法 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>“七影”首席，15岁。精灵族金长发的女性。英雄奥莉薇的后裔。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Alpha) |
 | red shoes | 红舞鞋 | 所属作品: `p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Shoes) |
+| suisui | 水水 | ![](https://img.exloli.org/559bfb4423.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
