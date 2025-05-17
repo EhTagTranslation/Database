@@ -13093,7 +13093,7 @@ example:
 | yokaranu yakara | よからヌ夜空 |  |  |
 | yamaneko box | 山猫BOX |  |  |
 | chirimen naoyuki | ちりめんなおゆき |  |  |
-| haru tanuki-ya | 春狸屋 |  |  |
+| haru tanuki-ya | 春狸屋 |  | [pixiv](https://www.pixiv.net/users/68049177) |
 | taihen na hentai | たいへんなへんたい |  |  |
 | ebiharami | エビハラミ |  |  |
 | shirudakuya | 汁濁屋 |  | [X](https://x.com/youandguy) |
