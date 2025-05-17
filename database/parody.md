@@ -2462,6 +2462,7 @@ example:
 | suki na ko ga megane wo wasureta | 喜欢的人忘记戴眼镜了 |  | [维基百科](https://zh.wikipedia.org/wiki/我喜歡的女孩忘記戴眼鏡) [萌娘百科](https://zh.moegirl.org.cn/喜欢的人忘记戴眼镜了) |
 | liz to aoi tori | 莉兹与青鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/莉兹与青鸟) |
 | eiyuu-ou bu o kiwameru tame tenseisu | 英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ |  | [维基百科](https://zh.wikipedia.org/wiki/英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～) [萌娘百科](https://zh.moegirl.org.cn/英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士～) |
+| onimusha | 鬼武者 |  | [维基百科](https://zh.wikipedia.org/wiki/鬼武者系列) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
