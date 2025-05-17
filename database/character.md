@@ -6415,6 +6415,7 @@ example:
 | alpha | 阿尔法 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>“七影”首席，15岁。精灵族金长发的女性。英雄奥莉薇的后裔。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Alpha) |
 | red shoes | 红舞鞋 | 所属作品: `p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Shoes) |
 | suisui | 水水 | ![](https://img.exloli.org/559bfb4423.webp) |  |
+| arshes nei | 安雪丝·奈伊 | 所属作品: `p:bastard`<br><br>黑暗妖精与人类的混血儿，四天王唯一的女性。自小被妖精族抛弃后被达克·休奈达收为养女，称号是“雷帝”。昵称达克·休奈达“达休”，既是他的女儿，又是他的情人。只有达克·休奈达才能直呼她“安雪”。 | [Fandom](https://bastard.fandom.com/wiki/Arshes_Nei) [维基百科](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－#四天王) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
