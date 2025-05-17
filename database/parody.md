@@ -2467,6 +2467,7 @@ example:
 | heavy metal l-gaim | 重战机 |  | [维基百科](https://zh.wikipedia.org/wiki/重戰機) |
 | ufo princess valkyrie | 圆盘皇女 |  | [维基百科](https://zh.wikipedia.org/wiki/圓盤皇女) |
 | bastard | BASTARD!! －暗黑的破坏神－ | 《BASTARD!! －暗黑的破坏神－》（日语：BASTARD!! －暗黒の破壊神－）是日本漫画家萩原一至创作的日本漫画作品。于1988年开始在集英社《周刊少年Jump》上进行连载。原型为1987年荻原获得6周连续新锐短篇资格而在《Jump》刊登的短篇《WIZARD!!〜爆炎的征服者〜》。 | [维基百科](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－) |
+| catherine | 凯瑟琳 | 《凯瑟琳》是由Atlus开发，并于2011年2月17日发售的平台解谜冒险游戏。本作为Atlus首款高清游戏。<br><br>爱，结束了吗？要么登上顶峰，要么坠落而亡。 | [维基百科](https://zh.wikipedia.org/wiki/凱薩琳_%28遊戲%29)  [萌娘百科](https://zh.moegirl.org.cn/凯瑟琳%28游戏%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
