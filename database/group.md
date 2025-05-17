@@ -13166,6 +13166,7 @@ example:
 | torihamu holic | とりはむほりっく |  |  |
 | gakugakuya-san | がくがく屋さん |  |  |
 | chouhei sanchi no segare | 徴兵さんちの倅 |  |  |
+| kimura rongaku | 木村论学 | 木村論学 | [pixiv](https://www.pixiv.net/users/1958880) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
