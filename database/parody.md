@@ -2464,6 +2464,7 @@ example:
 | eiyuu-ou bu o kiwameru tame tenseisu | 英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ |  | [维基百科](https://zh.wikipedia.org/wiki/英雄王，為了窮盡武道而轉生～而後成為世界最強見習騎士♀～) [萌娘百科](https://zh.moegirl.org.cn/英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士～) |
 | onimusha | 鬼武者 |  | [维基百科](https://zh.wikipedia.org/wiki/鬼武者系列) |
 | kara no shoujo | 壳之少女 | 《壳之少女》（日语：殻ノ少女）是Innocent Grey在2008年7月4日发售的文字冒险类型日本成人游戏，《虚之少女》的前作。<br><br>以昭和31年3月战后的东京为舞台，侦探主人公追查猎奇杀人事件的推理冒险游戏。登场人物超过30人，游戏中玩家会接触到“侦探系统”及“笔记系统”，其中侦探系统由“基本部分”、“探索部分”、“搜查部分”、“推理部分”4个部分组成；笔记系统则有“人物名单”、“证据列表”、“搜查笔录”、“地图”、“关系图”共5项。 | [维基百科](https://zh.wikipedia.org/wiki/殼之少女) [萌娘百科](https://zh.moegirl.org.cn/壳之少女) |
+| heavy metal l-gaim | 重战机 |  | [维基百科](https://zh.wikipedia.org/wiki/重戰機) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
