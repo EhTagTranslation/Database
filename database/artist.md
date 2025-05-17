@@ -13781,6 +13781,7 @@ example:
 | matsumoto jikyuuryoku | 松本持久力 |  | [pixiv](https://www.pixiv.net/users/32810756) [X](https://x.com/jikyuryoku_mat) |
 | yamamura umi | 山村うみ |  |  |
 | kutsukake | くつかけ |  |  |
+| jared999d | Jared999d |  | [X](https://x.com/jared999d3dx) [Patreon](https://www.patreon.com/jared999d) |
 
 <!--TEMPLATE:
 |  |  |  |  |
