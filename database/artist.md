@@ -4315,7 +4315,7 @@ example:
 | asio | アシオ |  |  |
 | asitaba tomorou | 明日葉友婁 |  |  |
 | aska takuya | 飛鳥拓哉 |  |  |
-| asou | 阿宗 |  |  |
+| asou | 麻生 |  |  |
 | asou shin | 麻生シン |  |  |
 | aspara daisuke | アスパラダイスケ |  |  |
 | assteka | あずてか |  |  |
