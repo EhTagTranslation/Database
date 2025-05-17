@@ -2466,6 +2466,7 @@ example:
 | kara no shoujo | 壳之少女 | 《壳之少女》（日语：殻ノ少女）是Innocent Grey在2008年7月4日发售的文字冒险类型日本成人游戏，《虚之少女》的前作。<br><br>以昭和31年3月战后的东京为舞台，侦探主人公追查猎奇杀人事件的推理冒险游戏。登场人物超过30人，游戏中玩家会接触到“侦探系统”及“笔记系统”，其中侦探系统由“基本部分”、“探索部分”、“搜查部分”、“推理部分”4个部分组成；笔记系统则有“人物名单”、“证据列表”、“搜查笔录”、“地图”、“关系图”共5项。 | [维基百科](https://zh.wikipedia.org/wiki/殼之少女) [萌娘百科](https://zh.moegirl.org.cn/壳之少女) |
 | heavy metal l-gaim | 重战机 |  | [维基百科](https://zh.wikipedia.org/wiki/重戰機) |
 | ufo princess valkyrie | 圆盘皇女 |  | [维基百科](https://zh.wikipedia.org/wiki/圓盤皇女) |
+| bastard | BASTARD!! －暗黑的破坏神－ | 《BASTARD!! －暗黑的破坏神－》（日语：BASTARD!! －暗黒の破壊神－）是日本漫画家萩原一至创作的日本漫画作品。于1988年开始在集英社《周刊少年Jump》上进行连载。原型为1987年荻原获得6周连续新锐短篇资格而在《Jump》刊登的短篇《WIZARD!!〜爆炎的征服者〜》。 | [维基百科](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
