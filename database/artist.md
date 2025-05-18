@@ -13783,6 +13783,7 @@ example:
 | kutsukake | くつかけ |  |  |
 | jared999d | Jared999d |  | [X](https://x.com/jared999d3dx) [Patreon](https://www.patreon.com/jared999d) |
 | rosaku | 六作 |  |  |
+| nabara shouko | 名原しょうこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
