@@ -6227,7 +6227,7 @@ example:
 | fortune | 命运女神 | 《碧蓝航线》中的角色，原型为F级驱逐舰之一的财富号<br>所属作品: `p:azur lane` | [维基百科（英语）](https://en.wikipedia.org/wiki/HMS_Fortune_%28H70%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/命运女神) |
 | masachika kuze | 久世政近 | 《`p:tokidoki bosotto russia-go de dereru tonari no alya-san`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久世政近) |
 | cantarella | 坎特蕾拉 |  |  |
-| phoebe | 菲比 |  |  |
+| phoebe | 菲比 | 所属作品: `wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/菲比) |
 | chi nishikata | 西片千 |  | [萌娘百科](https://zh.moegirl.org.cn/西片千) [Fandom](https://karakai-jouzu-no-takagi-san.fandom.com/wiki/Chi_Nishikata) |
 | monarch | 君主 | 《碧蓝航线》中的君主，以英王乔治五世级战列舰的废稿设计的战列舰。<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/君主)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/King_George_V-class_battleship_%281939%29)<br>[https://wiki.wargaming.net/en/Ship:Monarch](https://wiki.wargaming.net/en/Ship:Monarch) |
 | principal | 校长(出包王女) | 《出包王女》中主角所在的学校校长 |  |
