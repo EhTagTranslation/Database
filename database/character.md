@@ -6420,6 +6420,7 @@ example:
 | shiron the windragon | 斯朗（风龙） | 所属作品：`legendz`<br>斯朗（シロン/Shiron）是作品《苏生龙王传说》的角色。风龙，平时看起来像只小仓鼠，变身后成为传说中的风龙（Windragon）。 |  |
 | newbie succubus | 萝莉魅魔 | 所属作品: `p:kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/萝莉魅魔) |
 | epsilon | 伊普西龙 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第五席。具有魔力操作天赋的精灵。另一方面，对自己的小孩体型感到自卑，使用史莱姆战斗装束来掩饰自己的身材。 | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
+| cid kagenou | 暗影 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>希德·卡盖诺/暗影（シド・カゲノー／シャドウ）<br>憧憬「影之实力者」、追求力量的转生少年。表面上是乡下贵族卡盖诺男爵家的二男，在米德加尔魔剑士学园享受着“龙套”生活，但背地里却作为影之组织「暗影庭园」的盟主暗影，与「黑暗教团」对峙着（以这样的设定遨游）。 | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Cid_Kagenou) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
