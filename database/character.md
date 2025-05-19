@@ -6419,6 +6419,7 @@ example:
 | cardigan | 卡缇 | 卡缇是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡缇) |
 | shiron the windragon | 斯朗（风龙） | 所属作品：`legendz`<br>斯朗（シロン/Shiron）是作品《苏生龙王传说》的角色。风龙，平时看起来像只小仓鼠，变身后成为传说中的风龙（Windragon）。 |  |
 | newbie succubus | 萝莉魅魔 | 所属作品: `p:kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/萝莉魅魔) |
+| epsilon | 伊普西龙 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第五席。具有魔力操作天赋的精灵。另一方面，对自己的小孩体型感到自卑，使用史莱姆战斗装束来掩饰自己的身材。 | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
