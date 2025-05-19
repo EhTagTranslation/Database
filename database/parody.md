@@ -1345,7 +1345,7 @@ example:
 | tesagure bukatsu-mono | 摸索吧！部活剧 | 摸索吧！部活剧（てさぐれ!部活もの，てさぐれ ぶかつもの）是日本原创动画作品。2013年10月至12月在日本电视台播放第一季，2014年1月播出第二季《摸索吧！部活剧 Encore》（てさぐれ!部活もの あんこーる）。 | [维基百科](https://zh.wikipedia.org/wiki/摸索吧！部活剧) (\*) |
 | dna2 | DNA² | 《DNA²》是日本漫画家桂正和创作的科幻漫画以及改编的动画作品，1993年至1994年连载于《周刊少年Jump》，单行本全5卷。 | [维基百科](https://zh.wikipedia.org/wiki/DNA²) (\*) |
 | guardians of the galaxy | 银河护卫队 | 银河护卫队（英语：Guardians of the Galaxy）出现在由漫威漫画从2008年开始出版的虚构外太空的超级英雄团队。由Dan Abnett及Andy Lanning组成制作团队，从各种作家和艺术家来创造现有和以前不相关的人物。初始团队有星爵、火箭浣熊、类星体 (漫威)、亚当术士、卡魔拉、“毁灭者”德拉克斯、格鲁特。 | [维基百科](https://zh.wikipedia.org/wiki/星際異攻隊_%282008年%29) (\*) |
-| legendz | 龙王传说 | 《龙王传说》（日语：レジェンズ 甦る竜王伝説） 是讲述一种名为传说兽王的怪物和四个小朋友的故事。由大地丙太郎监制的动画。由Studio Gallop制作及发行，于2004年发行，共50集。 | [维基百科](https://zh.wikipedia.org/wiki/龍王傳說) (\*) |
+| legendz | 龙王传说（苏生龙王传说） | 《龙王传说》（日语：レジェンズ 甦る竜王伝説）（大陆常用译名：苏生龙王传说） 是讲述一种名为传说兽王的怪物和四个小朋友的故事。由大地丙太郎监制的动画。由Studio Gallop制作及发行，于2004年发行，共50集。 | [维基百科](https://zh.wikipedia.org/wiki/龍王傳說) (\*) [百度百科](https://baike.baidu.com/item/LEGENDZ%20苏生龙王传说/62432355) |
 | cross ange | 天使与龙的轮舞 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b0/《CROSSANGE_天使與龍的輪舞》海報.jpg) |  |
 | dungeon fighter online | 地下城与勇士 | 地下城与勇士，又称Dungeon & Fighter（D&F，韩国服的英文称呼）；Dungeon and Fighter（DNF，中国服的英文称呼），日本称“Arad战记”，美国称Dungeon Fighter Online（DFO），是一款韩国Neople（后被NEXON收购）开发的2D横板ACT类网络游戏。日本在2009年4月放映以该游戏为基础的电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/地下城与勇士) (\*) |
 | warhammer | 战锤 | 战锤幻想（Warhammer Fantasy），又称战锤，是一款由英国游戏公司Games Workshop所制作的多个桌上游戏的奇幻世界背景，这些游戏中最出名的是战棋游戏战锤幻想战役和桌上角色扮演游戏的战锤幻想角色扮演游戏，亦有电脑游戏根基于此，例如《战锤Online》。还有一个与其相关的用科学幻想做为背景的游戏，《战锤40000》(简称40K)。 | [维基百科](https://zh.wikipedia.org/wiki/戰鎚_%28設定%29) (\*) |
