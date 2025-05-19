@@ -2384,7 +2384,7 @@ example:
 | unnamed memory | 无名记忆 |  | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶) |
 | tsuki ga michibiku isekai douchuu | 月光下的异世界之旅 | 由日本轻小说家あずみ圭著作的轻小说《月光下的异世界之旅》。 |  |
 | hapymaher | 幸福噩梦 | Hapymaher（幸福噩梦），是`g:purple software`开发的游戏系列，也是其代表作之一 |  |
-| sakura moyu. | 樱花、萌放。 | `g:favorite`的游戏 |  |
+| sakura moyu. | 樱花、萌放。 | `g:favorite`的游戏 | [萌娘百科](https://zh.moegirl.org.cn/樱花，萌放。) |
 | uchi no kaisha no chiisai senpai no hanashi | 公司里的小小前辈 |  |  |
 | joker game | JOKER GAME | 小丑游戏，《JOKER GAME》（日语：ジョーカー・ゲーム），是日本小说家柳广司创作的推理小说、间谍小说。 包含续作在内，常以“D机关系列”（D機関シリーズ）做为总称。 |  |
 | soulworker | 灵魂武器 | 《灵魂武器》是由韩国游戏开发公司Lion Games开发的一款动漫风格的动作手游，于2016年发行。该作是一款以能力者为题材的全3D动作MMORPG。 |  |
