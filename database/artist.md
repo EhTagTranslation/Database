@@ -13785,6 +13785,7 @@ example:
 | rosaku | 六作 |  |  |
 | nabara shouko | 名原しょうこ |  |  |
 | lapis | らぴぃす |  |  |
+| oretahone | おれたほね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
