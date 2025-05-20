@@ -4488,7 +4488,7 @@ example:
 | mihari oyama | 绪山美波里 | 绪山美波里（おやま みはり）是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，绪山真寻的妹妹，跳级进入大学，进行着奇怪研究的天才科学家。<br>在中学时代是在田径大会上留下记录的文武全才，被真寻评价为过于有能的妹妹。实际上相当兄控，为了让真寻从家里蹲的废柴尼特族毕业，把他变成了“女孩子”并暗中支持着她。<br>![绪山美波里](https://img.moegirl.org.cn/common/2/24/绪山美波里_总集篇1_封面.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/绪山美波里) |
 | white len | 白莲 |  |  |
 | momiji hozuki | 穗月椛 |  |  |
-| kaede hozuki | 穗月枫 |  |  |
+| kaede hozuki | 穗月枫 | 穗月枫（ほづき かえで）是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，美波里中学时代的同级生和现役女高中生。<br>是个有着辣妹外表的性格开朗的姐姐。擅长料理，喜欢时尚和化妆。因为给妹妹（椛）照顾得很好，也很擅长对付懒懒散散的真寻，被认为是值得信赖的姐姐。<br>![穗月枫](https://img.moegirl.org.cn/common/5/58/HozukiKaede.jpg) | [萌娘百科](https://zh.moegirl.org.cn/穗月枫) |
 | kafka | 卡芙卡 \| 卡夫卡 | 卡芙卡是米哈游制作的游戏《`p:honkai star rail`》及其衍生作品的登场角色。<br>![](https://webstatic.hoyoverse.com/upload/op-public/2022/04/11/d1b3460138c3177e3f7b5e458149a98f_3206169365070932548.png)<br><br>卡夫卡是上海鹰角网络科技有限公司制作的游戏《`p:arknights`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/mrfz/images/2/20/Kafka.png) | [卡芙卡](https://zh.moegirl.org.cn/卡芙卡) [卡夫卡](https://prts.wiki/w/卡夫卡) |
 | ookanehira | 大包平 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大包平) |
 | uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
