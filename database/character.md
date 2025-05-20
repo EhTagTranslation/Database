@@ -4485,7 +4485,7 @@ example:
 | marulk | 马璐璐库 |  |  |
 | mother spider demon | 蜘蛛鬼·母亲 | 外貌艳丽的女性。炭治郎等人来到那田蜘蛛山后第一个遭遇的鬼。<br>那田蜘蛛山的鬼家族成员之一。担任累的母亲。<br>虽然担任的是母亲的角色，但是在蜘蛛家族里的立场相当低。 | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛鬼·母亲) |
 | kanako urashima | 浦岛可奈子 | 所属作品: `p:love hina`<br><br>![](https://static.wikia.nocookie.net/lovehina/images/b/b1/AniKanako.jpg) | [萌娘百科](https://zh.moegirl.org.cn/浦岛可奈子) [Fandom](https://lovehina.fandom.com/wiki/Kanako_Urashima) |
-| mihari oyama | 绪山美波里 | 绪山美波里（おやま みはり）是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，绪山真寻的妹妹，跳级进入大学，进行着奇怪研究的天才科学家。<br>在中学时代是在田径大会上留下记录的文武全才，被真寻评价为过于有能的妹妹。实际上相当兄控，为了让真寻从家里蹲的废柴尼特族毕业，把他变成了“女孩子”并暗中支持着她。<br>![绪山美波里](https://img.moegirl.org.cn/common/2/24/绪山美波里_总集篇1_封面.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/绪山美波里) |
+| mihari oyama | 绪山美波里 | 绪山美波里（おやま みはり）是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色（官方繁中译名：绪山哨），绪山真寻的妹妹，跳级进入大学，进行着奇怪研究的天才科学家。<br>在中学时代是在田径大会上留下记录的文武全才，被真寻评价为过于有能的妹妹。实际上相当兄控，为了让真寻从家里蹲的废柴尼特族毕业，把他变成了“女孩子”并暗中支持着她。<br>![绪山美波里](https://img.moegirl.org.cn/common/2/24/绪山美波里_总集篇1_封面.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/绪山美波里) |
 | white len | 白莲 |  |  |
 | momiji hozuki | 穗月椛 |  |  |
 | kaede hozuki | 穗月枫 | 穗月枫（ほづき かえで）是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，美波里中学时代的同级生和现役女高中生。<br>是个有着辣妹外表的性格开朗的姐姐。擅长料理，喜欢时尚和化妆。因为给妹妹（椛）照顾得很好，也很擅长对付懒懒散散的真寻，被认为是值得信赖的姐姐。<br>![穗月枫](https://img.moegirl.org.cn/common/5/58/HozukiKaede.jpg) | [萌娘百科](https://zh.moegirl.org.cn/穗月枫) |
