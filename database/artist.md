@@ -13787,6 +13787,7 @@ example:
 | lapis | らぴぃす |  |  |
 | oretahone | おれたほね |  |  |
 | amayadori chika | 雨宿チカ |  |  |
+| tachibana lita | 橘りた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
