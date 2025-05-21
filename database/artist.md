@@ -13786,6 +13786,7 @@ example:
 | nabara shouko | 名原しょうこ |  |  |
 | lapis | らぴぃす |  |  |
 | oretahone | おれたほね |  |  |
+| amayadori chika | 雨宿チカ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
