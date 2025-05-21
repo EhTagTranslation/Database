@@ -6427,6 +6427,7 @@ example:
 | naga the serpent | 白蛇娜卡 |  |  |
 | tsukasa akeuraji | 明浦路司 |  |  |
 | jun yodaka | 夜鹰纯 |  |  |
+| yuriko kitahara | 北原百合子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
