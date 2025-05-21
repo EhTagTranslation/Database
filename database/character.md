@@ -6424,6 +6424,7 @@ example:
 | eta | 希妲 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第七席。负责研究的精灵。拥有出色的技术，作为建筑师也很优秀，但是为人我行我素，一旦睡着就很难起来，睡相也很差，睡着会滚来滚去。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Eta) [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
 | mona kawai | 川井百奈 |  |  |
 | lux | 拉克丝 |  |  |
+| naga the serpent | 白蛇娜卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
