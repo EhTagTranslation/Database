@@ -6425,6 +6425,7 @@ example:
 | mona kawai | 川井百奈 |  |  |
 | lux | 拉克丝 |  |  |
 | naga the serpent | 白蛇娜卡 |  |  |
+| tsukasa akeuraji | 明浦路司 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
