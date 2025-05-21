@@ -13170,6 +13170,7 @@ example:
 | rosaku koubou | ろっさく工房 |  |  |
 | momo no sake | ももの酒 |  |  |
 | momoen | 桃園 |  |  |
+| otofu catastrophe | お豆腐カタストロフィ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
