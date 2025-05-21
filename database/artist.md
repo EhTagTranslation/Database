@@ -5934,7 +5934,7 @@ example:
 | hoshizaki ryuu | 星崎龍 |  |  |
 | hoshizora | 星空 |  |  |
 | hosikawa tukimi | 星川月海 |  |  |
-| hosizora mikoto | 星空美琴 | 特别爱画游佐梢。 | [pixiv](https://www.pixiv.net/artworks/127253376) |
+| hosizora mikoto | 星空美琴 | 星空ミコト，作品主要以萝莉（lolicon）为主，特别爱画游佐梢。 | [pixiv](https://www.pixiv.net/artworks/127253376) |
 | hosoi kouzou | 細井コウゾウ |  |  |
 | hosokawa fuziemon | 細川ふじえもん |  |  |
 | hot | HOT |  |  |
