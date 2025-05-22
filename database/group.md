@@ -13171,6 +13171,7 @@ example:
 | momo no sake | ももの酒 |  |  |
 | momoen | 桃園 |  |  |
 | otofu catastrophe | お豆腐カタストロフィ |  |  |
+| shingouya | 信号屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
