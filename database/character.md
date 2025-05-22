@@ -6429,6 +6429,7 @@ example:
 | jun yodaka | 夜鹰纯 |  |  |
 | yuriko kitahara | 北原百合子 |  |  |
 | kaname chidori | 千鸟要 |  |  |
+| kasumi tendo | 天道霞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
