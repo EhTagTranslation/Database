@@ -6428,6 +6428,7 @@ example:
 | tsukasa akeuraji | 明浦路司 |  |  |
 | jun yodaka | 夜鹰纯 |  |  |
 | yuriko kitahara | 北原百合子 |  |  |
+| kaname chidori | 千鸟要 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
