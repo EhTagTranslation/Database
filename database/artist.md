@@ -8687,7 +8687,7 @@ example:
 | neo kusano | NEO草野 |  |  |
 | neon ui | 音遠うい |  |  |
 | neoneet | 寝起新人 |  |  |
-| nepuka | 根深 |  |  |
+| nepuka | ネプカ |  |  |
 | nerima marine | ねりままりね |  |  |
 | nerio | ねりお |  |  |
 | nero | nero |  |  |
