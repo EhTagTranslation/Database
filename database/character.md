@@ -6430,6 +6430,7 @@ example:
 | yuriko kitahara | 北原百合子 |  |  |
 | kaname chidori | 千鸟要 |  |  |
 | kasumi tendo | 天道霞 |  |  |
+| asagi aiba | 蓝羽浅葱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
