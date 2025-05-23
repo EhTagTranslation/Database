@@ -13789,6 +13789,7 @@ example:
 | amayadori chika | 雨宿チカ |  |  |
 | tachibana lita | 橘りた |  |  |
 | kokonotsu | ここのつ |  |  |
+| usui rikaon | 雨水RikaON |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
