@@ -11741,7 +11741,7 @@ example:
 | yoshiragi | ヨシラギ |  |  |
 | yoshiron | よしろん |  |  |
 | yoshiten | よし天 |  |  |
-| yoshitora | YOSHITORA |  |  |
+| yoshitora | よしとら（YOSHITORA） |  |  |
 | momomo momo | 桃萌 百 | 吉輪智 | [pixiv](https://www.pixiv.net/users/45039349) [FANBOX](https://momomomomo00.fanbox.cc/) |
 | yoshiwo | よしを |  |  |
 | yoshiyuki | ヨシユキ |  |  |
