@@ -2471,6 +2471,7 @@ example:
 | the road to el dorado | 勇闯黄金城 | 《勇闯黄金城》是一部由美国梦工厂制片公司制作，于2000年上映的美国动作、冒险、喜剧电影。电影的配乐则由艾尔顿·约翰和蒂姆·赖斯，及作曲家汉斯·季默完成。电影讲述两名骗子杜立欧与密格为了寻找传说中的黄金城的宝藏，所延伸的冒险经历。 | [维基百科](https://zh.wikipedia.org/wiki/勇闯黄金城) |
 | rignetta-san no bouken | 莉吉妮塔的冒險 |  | [MyAnimeList](https://myanimelist.net/anime/59118/Reginetta-san_no_Bouken) [AniDB](https://anidb.net/anime/18647) |
 | stellar blade | 剑星 |  |  |
+| kimi to idol precure | キミとアイドルプリキュア♪ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
