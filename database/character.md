@@ -6435,6 +6435,7 @@ example:
 | elmerulia frixell | 艾尔梅露莉亚·菲立克塞尔 | 所属作品: `p:atelier lulua` | [萌娘百科](https://zh.moegirl.org.cn/艾尔梅露莉亚·菲立克塞尔) [Fandom](https://atelier.fandom.com/wiki/Elmerulia_Frixell) |
 | maki gamou | 蒲生真紀 |  |  |
 | ruka kayamori | 茅森月歌 |  |  |
+| yuki izumi | 和泉由希 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
