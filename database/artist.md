@@ -13790,6 +13790,7 @@ example:
 | tachibana lita | 橘りた |  |  |
 | kokonotsu | ここのつ |  |  |
 | usui rikaon | 雨水RikaON |  |  |
+| ogura | 小倉 |  | [X](https://x.com/ogura_ari) |
 
 <!--TEMPLATE:
 |  |  |  |  |
