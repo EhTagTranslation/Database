@@ -13791,6 +13791,7 @@ example:
 | kokonotsu | ここのつ |  |  |
 | usui rikaon | 雨水RikaON |  |  |
 | ogura | 小倉 |  | [X](https://x.com/ogura_ari) |
+| doranoyama | どらのやま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
