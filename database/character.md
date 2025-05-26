@@ -6438,6 +6438,7 @@ example:
 | yuki izumi | 和泉由希 |  |  |
 | hyacine | 风堇 | 崩坏：星穹铁道记忆命途角色 | [萌娘百科](https://zh.moegirl.org.cn/风堇) |
 | janne grenoble | 珍妮 格雷诺布尔 | 所属作品: `p:inda no himekishi janne` | [vndb](https://vndb.org/c27771) |
+| nanao hibiya | 奈奈绪响谷 | 所属作品: `p:nanatsu no maken ga shihai suru` | [百度百科](https://baike.baidu.com/item/奈奈绪·响谷) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
