@@ -6437,6 +6437,7 @@ example:
 | ruka kayamori | 茅森月歌 |  |  |
 | yuki izumi | 和泉由希 |  |  |
 | hyacine | 风堇 | 崩坏：星穹铁道记忆命途角色 | [萌娘百科](https://zh.moegirl.org.cn/风堇) |
+| janne grenoble | 珍妮 格雷诺布尔 | 所属作品: `p:inda no himekishi janne` | [vndb](https://vndb.org/c27771) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
