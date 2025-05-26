@@ -6440,6 +6440,7 @@ example:
 | janne grenoble | 珍妮 格雷诺布尔 | 所属作品: `p:inda no himekishi janne` | [vndb](https://vndb.org/c27771) |
 | nanao hibiya | 奈奈绪响谷 | 所属作品: `p:nanatsu no maken ga shihai suru` | [百度百科](https://baike.baidu.com/item/奈奈绪·响谷) |
 | mari satsuki | 佐月麻里 |  |  |
+| adelheid kanzaki | 神崎阿迪尔海德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
