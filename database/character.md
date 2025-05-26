@@ -6436,6 +6436,7 @@ example:
 | maki gamou | 蒲生真紀 |  |  |
 | ruka kayamori | 茅森月歌 |  |  |
 | yuki izumi | 和泉由希 |  |  |
+| hyacine | 风堇 | 崩坏：星穹铁道记忆命途角色 | [萌娘百科](https://zh.moegirl.org.cn/风堇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
