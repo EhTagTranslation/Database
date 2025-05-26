@@ -2472,6 +2472,7 @@ example:
 | rignetta-san no bouken | 莉吉妮塔的冒險 |  | [MyAnimeList](https://myanimelist.net/anime/59118/Reginetta-san_no_Bouken) [AniDB](https://anidb.net/anime/18647) |
 | stellar blade | 剑星 |  |  |
 | kimi to idol precure | キミとアイドルプリキュア♪ |  |  |
+| she-ra and the princesses of power | 神娃之伊莎莉亚战记 | 《神娃之伊莎莉亚战记》（英语：She-Ra and the Princesses of Power）是由ND·史蒂文森开发并由梦工厂制作的美式卡通连续剧。由Netflix发展，剧集描述了一名能化为神娃的少女阿多拉带领一群其他魔法公主反抗邪恶的千面魔和他的千面族。 | [维基百科](https://zh.wikipedia.org/wiki/神娃之伊莎莉亞戰記) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
