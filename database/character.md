@@ -6442,6 +6442,7 @@ example:
 | mari satsuki | 佐月麻里 |  |  |
 | adelheid kanzaki | 神崎阿迪尔海德 |  |  |
 | capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 |  |  |
+| jin-ah sung | 程肖雅丨水筱葵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
