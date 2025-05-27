@@ -6441,6 +6441,7 @@ example:
 | nanao hibiya | 奈奈绪响谷 | 所属作品: `p:nanatsu no maken ga shihai suru` | [百度百科](https://baike.baidu.com/item/奈奈绪·响谷) |
 | mari satsuki | 佐月麻里 |  |  |
 | adelheid kanzaki | 神崎阿迪尔海德 |  |  |
+| capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
