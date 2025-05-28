@@ -13796,6 +13796,7 @@ example:
 | asato maaru | 杏里まある |  |  |
 | ayama | あ山 |  | [pixiv](https://www.pixiv.net/users/99570392) [X](https://x.com/a_yam2m) |
 | ruruepa | るるえぱ |  |  |
+| yokoya manjirou | よこやまんじろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
