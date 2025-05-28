@@ -13172,6 +13172,7 @@ example:
 | momoen | 桃園 |  |  |
 | otofu catastrophe | お豆腐カタストロフィ |  |  |
 | shingouya | 信号屋 |  |  |
+| ajiyama | アジ山 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
