@@ -13793,6 +13793,7 @@ example:
 | ogura | 小倉 |  | [X](https://x.com/ogura_ari) |
 | doranoyama | どらのやま |  |  |
 | yoshimizu | よしみず |  |  |
+| asato maaru | 杏里まある |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
