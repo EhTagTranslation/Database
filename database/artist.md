@@ -13794,6 +13794,7 @@ example:
 | doranoyama | どらのやま |  |  |
 | yoshimizu | よしみず |  |  |
 | asato maaru | 杏里まある |  |  |
+| ayama | あ山 |  | [pixiv](https://www.pixiv.net/users/99570392) [X](https://x.com/a_yam2m) |
 
 <!--TEMPLATE:
 |  |  |  |  |
