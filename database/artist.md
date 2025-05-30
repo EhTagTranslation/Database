@@ -13799,6 +13799,7 @@ example:
 | yokoya manjirou | よこやまんじろう |  |  |
 | yamazaki umetarou | 山咲梅太郎 |  |  |
 | maru tamanegi | 丸玉ねぎ |  |  |
+| minakami mizuya | 水上みずや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
