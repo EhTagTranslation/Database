@@ -13801,6 +13801,7 @@ example:
 | maru tamanegi | 丸玉ねぎ |  |  |
 | minakami mizuya | 水上みずや |  |  |
 | ohara mochisuke | 小原モチスケ |  |  |
+| hamazi aki | はまじあき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
