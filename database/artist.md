@@ -13802,6 +13802,7 @@ example:
 | minakami mizuya | 水上みずや |  |  |
 | ohara mochisuke | 小原モチスケ |  |  |
 | hamazi aki | はまじあき |  |  |
+| aidi hushi | 爱迪护士 |  | [pixiv](https://www.pixiv.net/users/12600626)<br>[FANBOX](https://www.fanbox.cc/@aidy-nuns) |
 
 <!--TEMPLATE:
 |  |  |  |  |
