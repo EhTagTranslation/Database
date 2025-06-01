@@ -13805,6 +13805,7 @@ example:
 | aidi hushi | 爱迪护士 |  | [pixiv](https://www.pixiv.net/users/12600626)<br>[FANBOX](https://www.fanbox.cc/@aidy-nuns) |
 | doogge | Doogge |  | [pixiv](https://www.pixiv.net/users/68896356) [X](https://x.com/dooggechan) |
 | hanimemeo | ハニメメオ |  |  |
+| mochisaka mitsuki | 妖精タヌモチ \| もちさかみつき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
