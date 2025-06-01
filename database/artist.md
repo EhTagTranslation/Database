@@ -2202,7 +2202,7 @@ example:
 | buchou chinke | 部長ちんけ |  |  |
 | asakura kukuri | アサクラククリ |  |  |
 | nanao naru | 七尾奈留 |  |  |
-| kirishima ayu | 雾岛鲇 |  |  |
+| kirishima ayu | 霧島鮎 |  |  |
 | keita naruzawa | Keita Naruzawa |  |  |
 | amami sen | 天观仙 |  |  |
 | juujou tatami | 十畳たたみ |  |  |
