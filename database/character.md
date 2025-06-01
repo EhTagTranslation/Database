@@ -6452,6 +6452,7 @@ example:
 | alisaie leveilleur | 阿莉塞·莱韦耶勒尔 |  | [百度百科](https://baike.baidu.com/item/阿莉塞·莱韦耶勒尔/60480914) |
 | i-no | 茵诺 |  |  |
 | hikaru shidou | 狮堂光 |  |  |
+| froleytia capistrano | 芙萝蕾缇雅·卡彼斯特拉诺 |  | [百度百科](https://baike.baidu.com/item/芙萝蕾缇雅·卡彼斯特拉诺/14901057) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
