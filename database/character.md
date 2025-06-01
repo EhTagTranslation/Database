@@ -785,7 +785,7 @@ example:
 | matsuri tokugawa | 德川茉莉 |  |  |
 | megumi tokoro | 所惠美 |  |  |
 | iku nakatani | 中谷育 |  |  |
-| yuriko nanao | 七尾百合子 |  |  |
+| yuriko nanao | 七尾百合子 | 日语：七尾（ななお） 百合子（ゆりこ）<br>BNEI开发、GREE运营的手机社群游戏《偶像大师 百万现场》和BNEI开发运营的手机音乐游戏《偶像大师 百万现场 剧场时光》中的妄想文学少女偶像。 | [萌娘百科](https://zh.moegirl.org.cn/七尾百合子) |
 | chizuru nikaido | 二阶堂千鹤 |  |  |
 | miya miyao | 宫尾美也 |  |  |
 | roco handa | 伴田路子 |  |  |
