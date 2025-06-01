@@ -1889,7 +1889,7 @@ example:
 | kuroshibe | クロシベ |  |  |
 | akise | 秋濑 |  |  |
 | fukuguri yuuto | 栗福みのる |  |  |
-| futaba yae | 双叶八重 |  |  |
+| futaba yae | 双葉八重 |  |  |
 | koorizu | コオリズ |  |  |
 | kumataro | 隈太郎 |  |  |
 | mokkouyou bond | 木工用ボンド |  |  |
