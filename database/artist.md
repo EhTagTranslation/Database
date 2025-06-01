@@ -10559,7 +10559,7 @@ example:
 | takako | タカコ |  |  |
 | takaku shouko | 高久尚子 |  |  |
 | takaku toshihiko | 高久としひこ |  |  |
-| takaku tubby | 高句タビー |  |  |
+| takaku tubby | 高句タビー \| シロノマヒロ |  |  |
 | takamiya | たかみや |  |  |
 | takamiya sakura | 鷹宮沙玖羅 |  |  |
 | takamori3 | たかもり3 |  |  |
