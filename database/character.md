@@ -6448,6 +6448,7 @@ example:
 | theresia van astrea | 特蕾西亚·范·阿斯特雷亚 | 所属作品: `p:re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/特蕾西亚·范·阿斯特雷亚) [Fandom](https://rezero.fandom.com/wiki/Theresia_van_Astrea) |
 | mayuki hiiragi | 柊真雪 | 所属作品: `p:hinako note` | [萌娘百科](https://zh.moegirl.org.cn/柊真雪) |
 | juvia lockser | 朱比亚·罗克丝 | 朱比亚·罗克丝，日本漫画《妖精的尾巴》及其衍生作品中的角色，魔导师公会妖精的尾巴中的魔导士。人称：“雨女。<br>原“幽鬼支配者”工会，“四元素”之一的水元素。幽鬼公会解散后加入妖精的尾巴。 | [百度百科](https://baike.baidu.com/item/朱比亚·罗克丝/3521000) |
+| yixuan | 仪玄 | ![](https://img.moegirl.org.cn/common/7/7a/仪玄新图.png)<br>米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/仪玄) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
