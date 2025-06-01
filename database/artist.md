@@ -1888,7 +1888,7 @@ example:
 | kumaco | くまこ |  |  |
 | kuroshibe | クロシベ |  |  |
 | akise | 秋濑 |  |  |
-| fukuguri yuuto | 福栗悠斗 |  |  |
+| fukuguri yuuto | 栗福みのる |  |  |
 | futaba yae | 双叶八重 |  |  |
 | koorizu | コオリズ |  |  |
 | kumataro | 隈太郎 |  |  |
