@@ -2386,7 +2386,7 @@ example:
 | arakure | あらくれ |  |  |
 | seto yuuki | 世徒ゆうき |  |  |
 | yami kota | やみこた |  |  |
-| kakumayu | カクマユ |  |  |
+| kakumayu | カクマユ |  | [pixiv](https://www.pixiv.net/users/1049727) |
 | sorairo len | 空色れん |  |  |
 | yamiochi umekichi | 闇堕ち梅吉 |  |  |
 | namaribou nayonayo | 铅棒なよなよ |  |  |
