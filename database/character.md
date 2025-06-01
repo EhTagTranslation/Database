@@ -6451,6 +6451,7 @@ example:
 | yixuan | 仪玄 | ![](https://img.moegirl.org.cn/common/7/7a/仪玄新图.png)<br>米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/仪玄) |
 | alisaie leveilleur | 阿莉塞·莱韦耶勒尔 |  | [百度百科](https://baike.baidu.com/item/阿莉塞·莱韦耶勒尔/60480914) |
 | i-no | 茵诺 |  |  |
+| hikaru shidou | 狮堂光 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
