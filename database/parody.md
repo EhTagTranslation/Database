@@ -2475,6 +2475,7 @@ example:
 | she-ra and the princesses of power | 神娃之伊莎莉亚战记 | 《神娃之伊莎莉亚战记》（英语：She-Ra and the Princesses of Power）是由ND·史蒂文森开发并由梦工厂制作的美式卡通连续剧。由Netflix发展，剧集描述了一名能化为神娃的少女阿多拉带领一群其他魔法公主反抗邪恶的千面魔和他的千面族。 | [维基百科](https://zh.wikipedia.org/wiki/神娃之伊莎莉亞戰記) |
 | inda no himekishi janne | 淫堕的姫骑士贞德 | 《淫堕的姬骑士贞德》（日语原名：淫堕の姫騎士ジャンヌ）是筑摩十幸创作的官能小说。第一卷于2005年11月30日由二次元Dream Novels（Kill Time Communication）发行。<br><br>本作后来被改编为成人游戏《淫堕的姬骑士贞德 ～被注入食人魔之子的高贵公主！～》，于2006年7月28日由catwalk NERO发售，并在此基础上又推出了成人动画。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/淫堕の姫騎士ジャンヌ#アダルトアニメ) [vndb](https://vndb.org/v2903) |
 | nanatsu no maken ga shihai suru | 七魔剑支配天下 |  | [维基百科](https://zh.wikipedia.org/wiki/七魔劍支配天下) [萌娘百科](https://zh.moegirl.org.cn/七魔剑支配天下) |
+| no straight roads | 曲途 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/No_Straight_Roads) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
