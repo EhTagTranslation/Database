@@ -1046,7 +1046,7 @@ example:
 | pianiishimo | ピアニッシモ |  |  |
 | ijimaya | イジマヤ |  |  |
 | inariya | 稻荷屋 |  |  |
-| triple head | とりぷるへっど |  |  |
+| triple head | とりぷるへっど |  | [pixiv](https://www.pixiv.net/users/4893925) |
 | tamaya | 珠屋 |  |  |
 | nigatsu umare | 二月生まれ |  |  |
 | ninja yashiki | 忍者屋敷 |  |  |
