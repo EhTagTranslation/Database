@@ -6456,6 +6456,7 @@ example:
 | alicia | 阿莉莎 | 游戏《碧蓝幻想》中的角色 | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040474000) |
 | anna respighi | 安娜‧雷斯比奇 |  |  |
 | mylanndah arkar walder | 米兰达‧阿卡‧瓦尔卡 |  |  |
+| lahrri feldnunt | 拉丽·菲尔德南多 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
