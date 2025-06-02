@@ -13806,6 +13806,7 @@ example:
 | doogge | Doogge |  | [pixiv](https://www.pixiv.net/users/68896356) [X](https://x.com/dooggechan) |
 | hanimemeo | ハニメメオ |  |  |
 | mochisaka mitsuki | 妖精タヌモチ \| もちさかみつき |  |  |
+| tamayura tatara | 玉響多々良 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
