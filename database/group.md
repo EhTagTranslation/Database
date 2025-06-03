@@ -13174,6 +13174,7 @@ example:
 | shingouya | 信号屋 |  |  |
 | ajiyama | アジ山 |  |  |
 | minamo zuki | 水面月 |  |  |
+| tororodon | とろろどん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
