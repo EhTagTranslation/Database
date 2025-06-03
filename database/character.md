@@ -6459,6 +6459,7 @@ example:
 | lahrri feldnunt | 拉丽·菲尔德南多 |  |  |
 | ravel phoenix | 蕾维儿·菲尼克斯 | 蕾维儿·菲尼克斯，日本轻小说及动漫作品《High School D×D》及其衍生作品中的角色之一 | [百度百科](https://baike.baidu.com/item/蕾维儿·菲尼克斯/22139897) |
 | bready | 布蕾德 |  | [百度百科](https://baike.baidu.com/item/布蕾德/65574654) |
+| mana | 玛娜 |  | [百度百科](https://baike.baidu.com/item/玛娜/65574471) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
