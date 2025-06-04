@@ -13809,6 +13809,7 @@ example:
 | tamayura tatara | 玉響多々良 |  |  |
 | sumiya zeniko | 澄谷ゼニコ |  |  |
 | yuuki konefu | 遊亀こねふ |  |  |
+| masaki seimei | 真崎清明 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
