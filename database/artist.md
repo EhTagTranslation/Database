@@ -13810,6 +13810,7 @@ example:
 | sumiya zeniko | 澄谷ゼニコ |  |  |
 | yuuki konefu | 遊亀こねふ |  |  |
 | masaki seimei | 真崎清明 |  |  |
+| byakudan | ビャクダン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
