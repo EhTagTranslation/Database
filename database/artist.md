@@ -13811,6 +13811,7 @@ example:
 | yuuki konefu | 遊亀こねふ |  |  |
 | masaki seimei | 真崎清明 |  |  |
 | byakudan | ビャクダン |  |  |
+| dasshifunnyuu | 脱脂粉乳 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
