@@ -13808,6 +13808,7 @@ example:
 | mochisaka mitsuki | 妖精タヌモチ \| もちさかみつき |  |  |
 | tamayura tatara | 玉響多々良 |  |  |
 | sumiya zeniko | 澄谷ゼニコ |  |  |
+| yuuki konefu | 遊亀こねふ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
