@@ -13813,6 +13813,7 @@ example:
 | byakudan | ビャクダン |  |  |
 | dasshifunnyuu | 脱脂粉乳 |  |  |
 | suiroh | 垂狼 |  | [X](https://x.com/suiroh125042361) [pixiv](https://www.pixiv.net/users/18600938) |
+| momoroco | ももろこ |  | [pixiv](https://www.pixiv.net/users/18673882) |
 
 <!--TEMPLATE:
 |  |  |  |  |
