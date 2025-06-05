@@ -13176,6 +13176,7 @@ example:
 | minamo zuki | 水面月 |  |  |
 | tororodon | とろろどん |  |  |
 | dasshifunnyuu teishoku | 脱脂粉乳定食 |  |  |
+| ryoushi ookami | 量子オオカミ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
