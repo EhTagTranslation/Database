@@ -2478,6 +2478,7 @@ example:
 | no straight roads | 曲途 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/No_Straight_Roads) |
 | himitsu no aipri | 秘密的偶像公主 | 本作为《美妙系列》的第五作。 | [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主) [萌娘百科](https://zh.moegirl.org.cn/秘密的偶像公主) |
 | shachiku-san wa youjo yuurei ni iyasaretai. | 社畜小姐想被幽灵幼女治愈。 |  | [维基百科](https://zh.wikipedia.org/wiki/社畜想被幼女幽靈療癒。) [萌娘百科](https://zh.moegirl.org.cn/社畜小姐想被幽灵幼女治愈。) |
+| shadows house | 影宅 |  | [维基百科](https://zh.wikipedia.org/wiki/影宅) [萌娘百科](https://zh.moegirl.org.cn/影宅) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
