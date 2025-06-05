@@ -2476,6 +2476,7 @@ example:
 | inda no himekishi janne | 淫堕的姫骑士贞德 | 《淫堕的姬骑士贞德》（日语原名：淫堕の姫騎士ジャンヌ）是筑摩十幸创作的官能小说。第一卷于2005年11月30日由二次元Dream Novels（Kill Time Communication）发行。<br><br>本作后来被改编为成人游戏《淫堕的姬骑士贞德 ～被注入食人魔之子的高贵公主！～》，于2006年7月28日由catwalk NERO发售，并在此基础上又推出了成人动画。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/淫堕の姫騎士ジャンヌ#アダルトアニメ) [vndb](https://vndb.org/v2903) |
 | nanatsu no maken ga shihai suru | 七魔剑支配天下 |  | [维基百科](https://zh.wikipedia.org/wiki/七魔劍支配天下) [萌娘百科](https://zh.moegirl.org.cn/七魔剑支配天下) |
 | no straight roads | 曲途 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/No_Straight_Roads) |
+| himitsu no aipri | 秘密的偶像公主 | 本作为《美妙系列》的第五作。 | [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主) [萌娘百科](https://zh.moegirl.org.cn/秘密的偶像公主) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
