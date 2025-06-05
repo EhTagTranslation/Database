@@ -2477,6 +2477,7 @@ example:
 | nanatsu no maken ga shihai suru | 七魔剑支配天下 |  | [维基百科](https://zh.wikipedia.org/wiki/七魔劍支配天下) [萌娘百科](https://zh.moegirl.org.cn/七魔剑支配天下) |
 | no straight roads | 曲途 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/No_Straight_Roads) |
 | himitsu no aipri | 秘密的偶像公主 | 本作为《美妙系列》的第五作。 | [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主) [萌娘百科](https://zh.moegirl.org.cn/秘密的偶像公主) |
+| shachiku-san wa youjo yuurei ni iyasaretai. | 社畜小姐想被幽灵幼女治愈。 |  | [维基百科](https://zh.wikipedia.org/wiki/社畜想被幼女幽靈療癒。) [萌娘百科](https://zh.moegirl.org.cn/社畜小姐想被幽灵幼女治愈。) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
