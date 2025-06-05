@@ -13177,6 +13177,7 @@ example:
 | tororodon | とろろどん |  |  |
 | dasshifunnyuu teishoku | 脱脂粉乳定食 |  |  |
 | ryoushi ookami | 量子オオカミ |  |  |
+| rimu-chan chi | りむちゃんち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
