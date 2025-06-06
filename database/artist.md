@@ -6540,7 +6540,7 @@ example:
 | kaneda shotaro | 金田正太郎 |  |  |
 | kanei yoh | 鐘井楊 |  |  |
 | kaneko ako | 金子アコ |  |  |
-| kaneko rin | 金子鈴 |  |  |
+| kaneko lin | 金子鈴 |  |  |
 | kaneneko | カネ-ネコ |  |  |
 | kanesada keishi | 兼処敬士 |  |  |
 | kaneta | かねた |  |  |
@@ -8091,7 +8091,6 @@ example:
 | mizuno poppo | 水翠野ポッポ |  |  |
 | mizuno sao | 水野早桜 |  |  |
 | mizunoe nemone | 壬星ねもね | 水ノ依ぱぴ子 |  |
-| mizusaka saki | 水坂早希 |  |  |
 | mizusawa | 水澤 |  |  |
 | mizusawa mimori | 水沢深森 |  |  |
 | mizusawa nagi | 水沢凪 |  |  |
@@ -10461,7 +10460,6 @@ example:
 | suzushiro nazuna | 蘿蔔なずな |  |  |
 | suzushiro yutaka | すずしろゆたか |  |  |
 | suzushiro | すずしろ |  |  |
-| suzuta yume | 鈴田ゆめ |  |  |
 | swa | SWA |  |  |
 | swakichi | すわきち |  |  |
 | syanal | しゃーなる |  |  |
