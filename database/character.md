@@ -6462,6 +6462,7 @@ example:
 | mana | 玛娜 |  | [百度百科](https://baike.baidu.com/item/玛娜/65574471) |
 | plymouth | 普利茅斯 |  |  |
 | mitsuki hoshikawa | 星川未月 | 所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
+| yat sen | 逸仙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
