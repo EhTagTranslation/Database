@@ -13816,6 +13816,7 @@ example:
 | shamakho | 沙マコ |  |  |
 | ripple moon | 漣漪月影 | 來自於臺灣的獸人藝術創作者。<br>主要創作為獸人男同性向創作 | [Patreon](https://www.patreon.com/c/ripple_moon)<br>[X](https://x.com/h155296) |
 | shirauokei | 白鱼京 |  |  |
+| oisuke | おい助 |  | [pixiv](https://www.pixiv.net/users/190429) |
 
 <!--TEMPLATE:
 |  |  |  |  |
