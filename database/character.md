@@ -6463,6 +6463,7 @@ example:
 | plymouth | 普利茅斯 |  |  |
 | mitsuki hoshikawa | 星川未月 | 所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
 | yat sen | 逸仙 |  |  |
+| phainon | 白厄 | 白厄是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/白厄) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
