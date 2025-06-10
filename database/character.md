@@ -6465,6 +6465,7 @@ example:
 | yat sen | 逸仙 |  |  |
 | phainon | 白厄 | 白厄是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/白厄) |
 | candace flynn | 凯蒂丝‧福林 | 所属作品: `p:phineas and ferb` | [萌娘百科](https://zh.moegirl.org.cn/凯蒂丝·杰士德·福林) [Fandom](https://phineasandferb.fandom.com/wiki/Candace_Flynn) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
+| isabella garcia-shapiro | 伊莎贝拉·格拉希夏普罗 | 所属作品: `p:phineas and ferb` | [Fandom](https://phineasandferb.fandom.com/zh/wiki/伊莎貝拉·格拉希夏普羅) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
