@@ -13818,6 +13818,7 @@ example:
 | shirauokei | 白鱼京 |  |  |
 | oisuke | おい助 |  | [pixiv](https://www.pixiv.net/users/190429) |
 | yoshino keiko | 吉野惠子 |  |  |
+| tsukigime jin | 月極仁 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
