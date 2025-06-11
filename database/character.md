@@ -6468,6 +6468,7 @@ example:
 | isabella garcia-shapiro | 伊莎贝拉·格拉希夏普罗 | 所属作品: `p:phineas and ferb` | [Fandom](https://phineasandferb.fandom.com/zh/wiki/伊莎貝拉·格拉希夏普羅) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
 | rei nomasa | 野正丽 | 所属作品: `p:blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Nomasa_Rei) [萌娘百科](https://zh.moegirl.org.cn/野正丽) |
 | ju fufu | 橘福福 |  |  |
+| natsuki minamiya | 南宫那月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
