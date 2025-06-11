@@ -13819,6 +13819,7 @@ example:
 | oisuke | おい助 |  | [pixiv](https://www.pixiv.net/users/190429) |
 | yoshino keiko | 吉野惠子 |  |  |
 | tsukigime jin | 月極仁 |  |  |
+| sasaki yukinojo | 佐佐木雪之丞 |  | [pixiv](https://www.pixiv.net/users/47229) [X](https://x.com/sasayuknojo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
