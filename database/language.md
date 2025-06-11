@@ -29,6 +29,7 @@ copyright: >
 rules:
   - 语言按首字母排序。
   - 语言列表参考[语言标签目录](https://ehwiki.org/wiki/language)。
+  - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
   raw: speechless
   name: 无言

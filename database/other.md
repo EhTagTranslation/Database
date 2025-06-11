@@ -28,6 +28,7 @@ rules:
   - >-
     为方便查找理解同类性癖的标签，请尽量按[恋物标签分类](https://ehwiki.org/wiki/Fetish_Listing)归类存放，将类别写成注释。
   - 若有属于多个分类的，放入最相关的那一个分类。
+  - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 example:
   raw: anaglyph
   name: 红蓝3D
