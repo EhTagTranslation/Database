@@ -18,6 +18,7 @@ copyright: >
   本文的其他内容，遵循知识共享(Creative Commons) 署名-非商业性使用-相同方式共享 3.0 协议提供。
 rules:
   - 参考[图库分类](https://ehwiki.org/wiki/Gallery_Categories/Chinese)撰写翻译。
+  - 为提高图片可用性，以及减轻萌娘百科服务器压力，引用来自萌娘百科的图片时请使用图床，如[流浪图床](https://p.sda1.dev/)。
 ---
 
 | 原始标签 | 名称 | 描述 | 外部链接 |
