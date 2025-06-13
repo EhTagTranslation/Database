@@ -13181,6 +13181,7 @@ example:
 | rimu-chan chi | りむちゃんち |  |  |
 | fukuneko mofumofu | 福猫モフモフ |  |  |
 | conium socrates | ドクニンジンソクラテス |  |  |
+| masumasu soul gorilla | ますますソウルゴリラ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
