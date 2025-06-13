@@ -6474,6 +6474,7 @@ example:
 | fenris | 芬里斯 | 所属作品: `p:dragon age` | [Fandom](https://dragonage.fandom.com/wiki/Fenris) |
 | hina chono | 蝶野雏 | 青之箱女主之一，荣明学园高中1年级生，韵律体操部社员。<br>与大喜、笠原国中三年都同班故彼此熟识，喜欢捉弄大喜、以此取乐。<br>父亲是前日本体操选手代表，本身也是体操界的明星选手。 |  |
 | yuri lowell | 由利·罗威尔 |  |  |
+| flynn scifo | 弗林·西佛 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
