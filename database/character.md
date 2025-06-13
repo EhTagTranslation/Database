@@ -6471,6 +6471,7 @@ example:
 | ju fufu | 橘福福 |  |  |
 | natsuki minamiya | 南宫那月 |  |  |
 | chifusa manyuu | 魔乳千房 | 魔乳千房是日本漫画《魔乳秘剑帖》及其衍生作品中登场的核心角色，作为魔乳本家头领的末子被选为魔乳流继承者，拥有通过“乳斩”吸收他人乳房能量强化自身的特殊能力。 | [百度百科](https://baike.baidu.com/item/魔乳千房/7298335?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=d0746a7dee69e6e3262632c5&lemmaIdFrom=60850) |
+| fenris | 芬里斯 | 所属作品: `p:dragon age` | [Fandom](https://dragonage.fandom.com/wiki/Fenris) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
