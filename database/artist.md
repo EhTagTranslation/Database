@@ -13823,6 +13823,7 @@ example:
 | sasaki yukinojo | 佐佐木雪之丞 |  | [pixiv](https://www.pixiv.net/users/47229) [X](https://x.com/sasayuknojo) |
 | msg | 益ギガス |  |  |
 | tobe | Tobe |  | [pixiv](https://www.pixiv.net/users/30803725) |
+| tenkomori | 森てんこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
