@@ -9905,7 +9905,7 @@ example:
 | sekihara | せきはら |  |  |
 | sekino takehiro | 関野武弘 |  |  |
 | sekiyu | 石油 |  |  |
-| sella | せら |  |  |
+| sella | 世良 |  | [pixiv](https://www.pixiv.net/users/23019) |
 | semahiro | せまひろ |  |  |
 | semimaru semi | 蝉丸せみ |  |  |
 | semino yuu | 蝉のゆう |  |  |
