@@ -13824,6 +13824,7 @@ example:
 | msg | 益ギガス |  |  |
 | tobe | Tobe |  | [pixiv](https://www.pixiv.net/users/30803725) |
 | tenkomori | 森てんこ |  |  |
+| gachi mouchou | ガチ盲腸 |  | [pixiv](https://www.pixiv.net/users/71765882) [X](https://x.com/gachimocho) |
 
 <!--TEMPLATE:
 |  |  |  |  |
