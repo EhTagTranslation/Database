@@ -6479,6 +6479,7 @@ example:
 | minami kotobuki | 寿美奈美 |  | [百度百科](https://baike.baidu.com/item/寿美奈美/62056705) |
 | zuo le | 左乐 | 左乐是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/左乐) |
 | tosa | 土佐 |  | [百度百科](https://baike.baidu.com/item/土佐/59042731) |
+| sorahoshi kirame | 空星煌 | 空星煌是`p:nijisanji`所属的，于2020年7月11日在YouTube开始活动的VTuber。<br><br>梦想在大舞台上大显身手的高中生。　　<br>为了用自己的力量实现梦想，跃入了这个世界。　　<br>现在的目标是让相关的人都能露出笑容。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Sorahoshi_Kirame) [萌娘百科](https://zh.moegirl.org.cn/空星煌) [HP](https://www.nijisanji.jp/talents/l/kirame-sorahoshi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
