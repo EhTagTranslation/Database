@@ -13827,6 +13827,7 @@ example:
 | gachi mouchou | ガチ盲腸 |  | [pixiv](https://www.pixiv.net/users/71765882) [X](https://x.com/gachimocho) |
 | gyuunyuukeepaa | 牛乳ケーパー |  | [X](https://x.com/gyuunyuukeepaa) [pixiv](https://www.pixiv.net/users/27342228) |
 | kinoko gohan | きのこごはん |  | [pixiv](https://www.pixiv.net/users/109001298/artworks) [X](https://x.com/kinokogohan001) |
+| asamiya kia | 麻宫骑亚 | 麻宫骑亚，日本漫画家、动画师。男性。本名和作为动画师使用的名字菊池通隆（きくち みちたか）。Artistcrew所属。代表作有《魔法阵都市》、《快杰蒸汽侦探团》、《超跑靓女 My Favorite Carrera》等。 | [维基百科](https://zh.wikipedia.org/wiki/麻宮騎亞) [X](https://x.com/kia_asamiya) |
 
 <!--TEMPLATE:
 |  |  |  |  |
