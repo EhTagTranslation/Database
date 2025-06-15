@@ -13825,6 +13825,7 @@ example:
 | tobe | Tobe |  | [pixiv](https://www.pixiv.net/users/30803725) |
 | tenkomori | 森てんこ |  |  |
 | gachi mouchou | ガチ盲腸 |  | [pixiv](https://www.pixiv.net/users/71765882) [X](https://x.com/gachimocho) |
+| gyuunyuukeepaa | 牛乳ケーパー |  | [X](https://x.com/gyuunyuukeepaa) [pixiv](https://www.pixiv.net/users/27342228) |
 
 <!--TEMPLATE:
 |  |  |  |  |
