@@ -6476,6 +6476,7 @@ example:
 | yuri lowell | 由利·罗威尔 |  |  |
 | flynn scifo | 弗林·西佛 |  |  |
 | percival | 帕西瓦尔 |  |  |
+| minami kotobuki | 寿美奈美 |  | [百度百科](https://baike.baidu.com/item/寿美奈美/62056705) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
