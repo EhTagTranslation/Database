@@ -6477,6 +6477,7 @@ example:
 | flynn scifo | 弗林·西佛 |  |  |
 | percival | 帕西瓦尔 |  |  |
 | minami kotobuki | 寿美奈美 |  | [百度百科](https://baike.baidu.com/item/寿美奈美/62056705) |
+| zuo le | 左乐 | 左乐是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/左乐) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
