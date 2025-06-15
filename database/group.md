@@ -13182,6 +13182,7 @@ example:
 | fukuneko mofumofu | 福猫モフモフ |  |  |
 | conium socrates | ドクニンジンソクラテス |  |  |
 | masumasu soul gorilla | ますますソウルゴリラ |  |  |
+| gachimochogura | がちもちょぐら |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
