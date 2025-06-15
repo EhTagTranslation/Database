@@ -2483,6 +2483,7 @@ example:
 | crosscode | 远星物语 |  | [维基百科](https://zh.wikipedia.org/wiki/遠星物語) |
 | love live bluebird | ![LL](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/love%20live.webp)生如百戏难！LOVELIVE! BLUEBIRD | 生如百戏难！LOVELIVE! BLUEBIRD（日语：イキヅライブ！ LOVELIVE! BLUEBIRD；英语：IKIZULIVE! LOVELIVE! BLUEBIRD）是2025年2月公布的LoveLive!系列的学园偶像企划。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Ikizuraibu!_Love_Live!_Bluebird) [萌娘百科](https://zh.moegirl.org.cn/生如百戏难！LOVELIVE!_BLUEBIRD) [Fandom](https://love-live.fandom.com/wiki/Ikizu_Live!_LOVE_LIVE!_BLUEBIRD)<br>[企划官网](https://www.lovelive-anime.jp/lovehigh) |
 | manyuu hikenchou | 魔乳秘劍帖 |  |  |
+| shangri-la frontier | 香格里拉边境～粪作猎人向神作游戏发起挑战 |  | [百度百科](https://baike.baidu.com/item/香格里拉边境～粪作猎人向神作游戏发起挑战～/63424625) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
