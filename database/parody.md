@@ -2486,6 +2486,7 @@ example:
 | shangri-la frontier | 香格里拉边境～粪作猎人向神作游戏发起挑战 |  | [百度百科](https://baike.baidu.com/item/香格里拉边境～粪作猎人向神作游戏发起挑战～/63424625) |
 | dragon poker | 龙族扑克 |  | [百度百科](https://baike.baidu.com/item/龍族撲克) |
 | project zomboid | 僵尸毁灭工程 |  | [维基百科](https://zh.wikipedia.org/wiki/僵尸毁灭工程) |
+| liars bar | 骗子酒吧 |  | [tvtropes.org](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LiarsBar) [Steam](https://store.steampowered.com/app/3097560/Liars_Bar/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
