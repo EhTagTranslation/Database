@@ -2488,6 +2488,7 @@ example:
 | project zomboid | 僵尸毁灭工程 |  | [维基百科](https://zh.wikipedia.org/wiki/僵尸毁灭工程) |
 | liars bar | 骗子酒吧 |  | [tvtropes.org](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LiarsBar) [Steam](https://store.steampowered.com/app/3097560/Liars_Bar/) |
 | steam detectives | 快杰蒸汽侦探团 |  | [维基百科](https://zh.wikipedia.org/wiki/快傑蒸汽偵探團) |
+| utau | UTAU |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
