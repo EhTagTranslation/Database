@@ -13184,6 +13184,7 @@ example:
 | masumasu soul gorilla | ますますソウルゴリラ |  |  |
 | gachimochogura | がちもちょぐら |  |  |
 | tsukigime | 月極 |  |  |
+| hiyokokan | ひよこ缶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
