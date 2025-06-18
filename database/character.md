@@ -6483,6 +6483,7 @@ example:
 | suzumiya suzume | 雀宮すずめ |  | [X](https://x.com/suzumiyasuzume) [哔哩哔哩](https://space.bilibili.com/6610851) |
 | teto kasane | 重音teto |  |  |
 | shu ouma | 樱满集 |  |  |
+| hare menjoume | 校条祭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
