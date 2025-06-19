@@ -6484,6 +6484,7 @@ example:
 | teto kasane | 重音teto |  |  |
 | shu ouma | 樱满集 |  |  |
 | hare menjoume | 校条祭 |  |  |
+| vivian banshee | 薇薇安 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
