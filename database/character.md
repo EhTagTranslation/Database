@@ -6323,7 +6323,7 @@ example:
 | lin yuhsia | 林 | 林，本名林雨霞，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
 | nightmare | 夜魔 | 夜魔，本名瑞贝尔·帕斯贝莱蒂·葛罗莉亚，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜魔%28明日方舟%29) |
 | kotori kanbe | 神户小鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/神户小鸟) |
-| vivian | 薇薇安 | 所属作品: `p:zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/薇薇安%28绝区零%29) [Fandom](https://zenless-zone-zero.fandom.com/wiki/Vivian) |
+| vivian | 薇薇安 | 此标签并非指代绝区零内角色`c:vivian banshee` |  |
 | seth lowell | 赛斯·洛威尔 | 赛斯·洛威尔是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛斯·洛威尔) |
 | yuiko kurugaya | 来谷唯湖 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/来谷唯湖) |
 | sasami sasasegawa | 笹濑川佐佐美 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/笹濑川佐佐美) |
