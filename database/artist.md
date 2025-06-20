@@ -13831,6 +13831,7 @@ example:
 | kashiwamori tama | 柏森たま。 |  |  |
 | pietro | ぴえとろ |  |  |
 | sukoyakagumi | 健康组 | すこやかグミ |  |
+| carpsukidayo | 吉本 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
