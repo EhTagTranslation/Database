@@ -13187,6 +13187,7 @@ example:
 | hiyokokan | ひよこ缶 |  |  |
 | glowmercury | GlowMercury |  |  |
 | alluvial comet | 藤川フレ |  |  |
+| negiumaya | ねぎうま屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
