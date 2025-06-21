@@ -4056,7 +4056,7 @@ example:
 | ivy valentine | 艾薇 |  |  |
 | taki | 多喜 |  |  |
 | yuzu hanaoka | 花冈柚子 |  |  |
-| iroha natsume | 枣伊吕波 |  |  |
+| iroha natsume | 枣伊吕波 | 日语：棗（なつめ） イロハ<br>Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/枣伊吕波) |
 | sasara kusugawa | 久寿川莎莎菈 |  |  |
 | maako asagiri | 朝雾麻亚子 |  |  |
 | amane | 亚麻音 |  |  |
