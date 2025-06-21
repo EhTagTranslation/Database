@@ -2489,6 +2489,7 @@ example:
 | liars bar | 骗子酒吧 |  | [tvtropes.org](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LiarsBar) [Steam](https://store.steampowered.com/app/3097560/Liars_Bar/) |
 | steam detectives | 快杰蒸汽侦探团 |  | [维基百科](https://zh.wikipedia.org/wiki/快傑蒸汽偵探團) |
 | utau | UTAU |  |  |
+| arcaea | 韵律源点 | 音游 | [https://arcaea.lowiro.com/](https://arcaea.lowiro.com/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
