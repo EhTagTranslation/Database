@@ -6486,7 +6486,7 @@ example:
 | hare menjoume | 校条祭 |  |  |
 | vivian banshee | 薇薇安 |  |  |
 | lain paterson | 兰·帕特森 | ![](https://img.moegirl.org.cn/common/e/eb/Lain_Paterson.jpg)<br>日语: レイン・パターソン<br>英语: Lain Paterson<br>隶属于彩虹社的VTuber | [萌娘百科](https://zh.moegirl.org.cn/兰·帕特森) |
-| usugumo | 薄云 | 所属作品: `p:kantai collection` | [https://m.kcwiki.cn/wiki/薄云](https://m.kcwiki.cn/wiki/薄云) [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:薄云) |
+| usugumo | 薄云 | 所属作品: `p:kantai collection` | [舰娘百科](https://m.kcwiki.cn/wiki/薄云) [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:薄云) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
