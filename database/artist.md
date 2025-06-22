@@ -317,7 +317,7 @@ example:
 | umi suzume | 雨美すずめ |  |  |
 | michiking | 米奇王 |  | [pixiv](https://www.pixiv.net/users/2361345) [X](https://x.com/mitibmg20) |
 | otabe sakura | おたべさくら |  |  |
-| ryo | RYO | RYO \| RYÖ \| りょう \| ryo | [pixiv](https://www.pixiv.net/users/73432) [X](https://x.com/sora0ryu) |
+| ryo | RYO | RYO \| RYÖ \| りょう \| ryo | [pixiv](https://www.pixiv.net/users/4012904) [X](https://x.com/Ryo_w)<br>[pixiv](https://www.pixiv.net/users/73432) [X](https://x.com/sora0ryu) |
 | minori kenshirou | 实验四郎 |  |  |
 | umemura | 梅村 |  |  |
 | peter mitsuru | ペーター・ミツル |  |  |
