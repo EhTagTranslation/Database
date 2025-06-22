@@ -13188,6 +13188,7 @@ example:
 | glowmercury | GlowMercury |  |  |
 | alluvial comet | 藤川フレ |  |  |
 | negiumaya | ねぎうま屋 |  |  |
+| fuaku yuu | 不悪遊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
