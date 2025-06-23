@@ -13190,6 +13190,7 @@ example:
 | negiumaya | ねぎうま屋 |  |  |
 | fuaku yuu | 不悪遊 |  |  |
 | hyogashi aquarium | 氷菓子アクアリウム |  |  |
+| nico nico genki | にこにこげんき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
