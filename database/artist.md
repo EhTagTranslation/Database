@@ -13833,6 +13833,7 @@ example:
 | sukoyakagumi | 健康组 | すこやかグミ |  |
 | carpsukidayo | 吉本 |  |  |
 | negiuma | ねぎうま |  | [pixiv](https://www.pixiv.net/users/98113112)<br>[X](https://x.com/negiumaya) |
+| rum raisin | ラムレーズン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
