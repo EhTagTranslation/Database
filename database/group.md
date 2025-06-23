@@ -13189,6 +13189,7 @@ example:
 | alluvial comet | 藤川フレ |  |  |
 | negiumaya | ねぎうま屋 |  |  |
 | fuaku yuu | 不悪遊 |  |  |
+| hyogashi aquarium | 氷菓子アクアリウム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
