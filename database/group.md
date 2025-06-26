@@ -13191,6 +13191,7 @@ example:
 | fuaku yuu | 不悪遊 |  |  |
 | hyogashi aquarium | 氷菓子アクアリウム |  |  |
 | nico nico genki | にこにこげんき |  |  |
+| fusen | ふせん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
