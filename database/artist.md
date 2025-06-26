@@ -13836,6 +13836,7 @@ example:
 | rum raisin | ラムレーズン |  |  |
 | oku | オク |  |  |
 | samegami | 雨神 |  |  |
+| hinasumire | ひなすみれ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
