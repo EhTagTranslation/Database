@@ -13835,6 +13835,7 @@ example:
 | negiuma | ねぎうま |  | [pixiv](https://www.pixiv.net/users/98113112)<br>[X](https://x.com/negiumaya) |
 | rum raisin | ラムレーズン |  |  |
 | oku | オク |  |  |
+| samegami | 雨神 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
