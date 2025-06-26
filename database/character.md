@@ -6493,6 +6493,7 @@ example:
 | mei ebino | 江火野芽衣 | 江火野芽衣是《初恋僵尸》的主角之一，与作品主人公久留目太郎是青梅竹马。 | [Fandom](https://hatsukoi-zombie.fandom.com/wiki/Mei_Ebino) |
 | outis | 奥提斯 | 奥提斯（Outis）是《边狱巴士公司》及其衍生作品的登场角色。原型来源史诗《奥德赛》。 | [萌娘百科](https://zh.moegirl.org.cn/奥提斯)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/奥提斯) |
 | lilith | 莉莉丝 |  |  |
+| ryoshu | 良秀 | 良秀（Ryoshu）是《邊獄巴士公司》及其衍生作品的登場角色。原型來源小說《地獄變》 | [萌娘百科](https://zh.moegirl.org.cn/良秀)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/良秀) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
