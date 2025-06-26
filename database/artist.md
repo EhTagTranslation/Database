@@ -13834,6 +13834,7 @@ example:
 | carpsukidayo | 吉本 |  |  |
 | negiuma | ねぎうま |  | [pixiv](https://www.pixiv.net/users/98113112)<br>[X](https://x.com/negiumaya) |
 | rum raisin | ラムレーズン |  |  |
+| oku | オク |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
