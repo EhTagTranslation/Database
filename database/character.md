@@ -6500,6 +6500,7 @@ example:
 | mirabel aalton | 米拉贝尔·亚尔顿 |  | [https://trails-game.com/character/mirabel-aalton/](https://trails-game.com/character/mirabel-aalton/) |
 | justine | 芮丝汀娜 |  | [萌娘百科](https://zh.moegirl.org.cn/芮丝汀娜) |
 | roselia millstein | 罗赛莉亚·米尔斯汀 |  | [萌娘百科](https://zh.moegirl.org.cn/罗赛莉亚·米尔斯汀) |
+| elaine auclair | 艾蕾因·奥克雷尔 |  | [萌娘百科](https://zh.moegirl.org.cn/艾蕾因·奥克雷尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
