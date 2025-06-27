@@ -6498,6 +6498,7 @@ example:
 | irene | 艾丽妮 | 艾丽妮是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾丽妮) |
 | feri al-fayed | 菲莉·阿尔法德 |  | [萌娘百科](https://zh.moegirl.org.cn/菲莉·阿尔法德) |
 | mirabel aalton | 米拉贝尔·亚尔顿 |  | [https://trails-game.com/character/mirabel-aalton/](https://trails-game.com/character/mirabel-aalton/) |
+| justine | 芮丝汀娜 |  | [萌娘百科](https://zh.moegirl.org.cn/芮丝汀娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
