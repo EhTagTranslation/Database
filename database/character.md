@@ -6494,6 +6494,7 @@ example:
 | outis | 奥提斯 | 奥提斯（Outis）是《边狱巴士公司》及其衍生作品的登场角色。原型来源史诗《奥德赛》。 | [萌娘百科](https://zh.moegirl.org.cn/奥提斯)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/奥提斯) |
 | lilith | 莉莉丝 |  |  |
 | ryoshu | 良秀 | 良秀（Ryoshu）是《邊獄巴士公司》及其衍生作品的登場角色。原型來源小說《地獄變》 | [萌娘百科](https://zh.moegirl.org.cn/良秀)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/良秀) |
+| arisa | 亚里沙 | 游戏《影之诗》中的角色，为妖精职业的主战者 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
