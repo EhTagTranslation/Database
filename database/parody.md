@@ -2493,6 +2493,7 @@ example:
 | hatsukoi zombie | 初恋僵尸 | 《初恋僵尸》（日语：初恋ゾンビ）是峰浪了所创作的日本漫画，于《周刊少年Sunday》2015年第46号至2019年第17号期间连载。这是作者继《隐藏的另一面》后的第二部连载漫画，也是其在杂志连载的首部作品。 | [维基百科](https://zh.wikipedia.org/wiki/初戀殭屍)、[萌娘百科](https://zh.moegirl.org.cn/初恋僵尸)、[Fandom](https://hatsukoi-zombie.fandom.com/wiki/Hatsukoi_Zombie_Manga) |
 | yarinaoshi reijou wa ryuutei heika wo kouryakuchuu | 重生大小姐正在攻略龙帝陛下 |  | [萌娘百科](https://zh.moegirl.org.cn/重生大小姐正在攻略龙帝陛下) |
 | gakuen alice | 爱丽丝学园 |  |  |
+| a hat in time | 时光之帽 |  | [维基百科](https://zh.wikipedia.org/wiki/时光之帽) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
