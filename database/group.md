@@ -13192,6 +13192,7 @@ example:
 | hyogashi aquarium | 氷菓子アクアリウム |  |  |
 | nico nico genki | にこにこげんき |  |  |
 | fusen | ふせん |  |  |
+| kaiten kikan | 回転キカン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
