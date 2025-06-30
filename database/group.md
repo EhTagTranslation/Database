@@ -13193,6 +13193,7 @@ example:
 | nico nico genki | にこにこげんき |  |  |
 | fusen | ふせん |  |  |
 | kaiten kikan | 回転キカン |  |  |
+| morigami no yashiro | 森神的社 | 森神の社 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
