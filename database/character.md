@@ -6503,6 +6503,7 @@ example:
 | elaine auclair | 艾蕾因·奥克雷尔 |  | [萌娘百科](https://zh.moegirl.org.cn/艾蕾因·奥克雷尔) |
 | banri tada | 多田万里 | 所属作品: `p:golden time` | [Fandom](https://goldentime.fandom.com/wiki/Banri_Tada) [萌娘百科](https://zh.moegirl.org.cn/多田万里) |
 | inojin yamanaka | 山中井阵 | 日本漫画《火影忍者》系列及其衍生作品中的男性角色，在漫画700回中首次出场。井阵出身木叶隐村的山中一族，是佐井与山中井野的儿子。 |  |
+| kendall perkins | 肯黛尔·柏金 | 奇克的同班同学，跟“大魔王”罗纳多交往（后来喜欢奇克）。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
