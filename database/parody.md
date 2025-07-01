@@ -2496,6 +2496,7 @@ example:
 | a hat in time | 时光之帽 |  | [维基百科](https://zh.wikipedia.org/wiki/时光之帽) |
 | invader zim | 外星入侵者ZIM |  | [萌娘百科](https://zh.moegirl.org.cn/外星入侵者Zim) |
 | tower of god | 神之塔 |  |  |
+| kick buttowski suburban daredevil | 冒险王奇克 | 《冒险王奇克》（英语：Kick Buttowski: Suburban Daredevil），是一部美国电视动画片，由桑德罗·柯沙罗创作，迪士尼电视动画公司制作。该剧讲述了一个名叫奇克·巴斯基的小男孩在他忠诚的朋友甘特的帮助下立志成为世界上最伟大的冒险者的故事。 | [维基百科](https://zh.wikipedia.org/wiki/冒險王奇克) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
