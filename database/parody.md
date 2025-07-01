@@ -2495,6 +2495,7 @@ example:
 | gakuen alice | 爱丽丝学园 |  | [维基百科](https://zh.wikipedia.org/wiki/學園愛麗絲) |
 | a hat in time | 时光之帽 |  | [维基百科](https://zh.wikipedia.org/wiki/时光之帽) |
 | invader zim | 外星入侵者ZIM |  | [萌娘百科](https://zh.moegirl.org.cn/外星入侵者Zim) |
+| tower of god | 神之塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
