@@ -13194,6 +13194,7 @@ example:
 | fusen | ふせん |  |  |
 | kaiten kikan | 回転キカン |  |  |
 | morigami no yashiro | 森神的社 | 森神の社 |  |
+| line out | ラインアウト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
