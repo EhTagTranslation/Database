@@ -13841,6 +13841,7 @@ example:
 | keihh | Keihh |  | [pixiv](https://www.pixiv.net/users/16015726) [X](https://x.com/keihh1) |
 | rita | りた |  |  |
 | eggutarto | エッグタルト |  |  |
+| flasher | ふらっしゃー |  | [pixiv](https://www.pixiv.net/users/102659495) [X](https://x.com/flasher_illust) |
 
 <!--TEMPLATE:
 |  |  |  |  |
