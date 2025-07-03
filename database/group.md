@@ -11341,7 +11341,7 @@ example:
 | tk-bros | TK-BROS |  |  |
 | tkciao | tkciao |  |  |
 | tkspower | TKSpower |  |  |
-| tlg | ねこのこね |  |  |
+| tlg | TLG |  |  |
 | tmg | TMG |  |  |
 | tmtkdou | TMTK堂 |  |  |
 | tnc. | TNC. |  |  |
