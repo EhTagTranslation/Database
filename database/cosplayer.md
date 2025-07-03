@@ -147,6 +147,7 @@ example:
 | shiraga yanko | Shiraga Yanko |  |  |
 | byoru | Byoru |  |  |
 | mianbing xianer | 面饼仙儿 |  |  |
+| una cosplayer | 角色扮演者 |  |  |
 
 <!--
 Template: 
