@@ -4529,7 +4529,7 @@ example:
 | bourne | ボーン |  |  |
 | bouto | 帽都 |  |  |
 | bov | bov |  |  |
-| bowalia | タケユウ |  |  |
+| bowalia | bowalia |  | [pixiv](https://www.pixiv.net/users/57650) |
 | bowcan | ぼーかん |  |  |
 | bowieknife | ボウイナイフ |  |  |
 | brave | brave |  |  |
