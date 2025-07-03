@@ -6505,6 +6505,7 @@ example:
 | inojin yamanaka | 山中井阵 | 日本漫画《火影忍者》系列及其衍生作品中的男性角色，在漫画700回中首次出场。井阵出身木叶隐村的山中一族，是佐井与山中井野的儿子。 |  |
 | kendall perkins | 肯黛尔·柏金 | 奇克的同班同学，跟“大魔王”罗纳多交往（后来喜欢奇克）。 |  |
 | amane suou | 周防天音 |  |  |
+| eblana dublinn | 死芒（爱布拉娜·都柏林） |  | [PRTS Wiki](https://prts.wiki/w/死芒) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
