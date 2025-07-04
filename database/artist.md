@@ -13842,6 +13842,7 @@ example:
 | rita | りた |  |  |
 | eggutarto | エッグタルト |  |  |
 | flasher | ふらっしゃー |  | [pixiv](https://www.pixiv.net/users/102659495) [X](https://x.com/flasher_illust) |
+| zurita | ずり太 |  | [pixiv](https://www.pixiv.net/artworks/131654653) [X](https://x.com/Oyazuly) |
 
 <!--TEMPLATE:
 |  |  |  |  |
