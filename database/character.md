@@ -6514,6 +6514,7 @@ example:
 | buena vista | 迷人景致 |  |  |
 | win variation | 凯旋芭蕾 |  |  |
 | yume irido | 伊理户结女 |  |  |
+| uta | 乌塔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
