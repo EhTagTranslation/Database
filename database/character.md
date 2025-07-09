@@ -6512,6 +6512,7 @@ example:
 | kisara | 木更 |  |  |
 | anira | 阿妮拉 |  |  |
 | buena vista | 迷人景致 |  |  |
+| win variation | 凯旋芭蕾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
