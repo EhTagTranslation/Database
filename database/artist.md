@@ -13845,6 +13845,7 @@ example:
 | zurita | ずり太 |  | [pixiv](https://www.pixiv.net/artworks/131654653) [X](https://x.com/Oyazuly) |
 | onkyu | オンキュウ |  |  |
 | momico | もみ子 |  | [X](https://x.com/momico_co18) [pixiv](https://www.pixiv.net/users/17625607) |
+| shioya coluli | 塩屋こるり |  | [pixiv](https://www.pixiv.net/users/94192667) [X](https://x.com/saltyacurry/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
