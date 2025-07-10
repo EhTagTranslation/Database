@@ -13198,6 +13198,7 @@ example:
 | tamazushi | 珠寿司 |  |  |
 | haizuriya | はいずり屋 |  |  |
 | tetsuyashiki | 铁屋敷 | 画师`kontetsu`所属社团 |  |
+| shioyamachicurry | 塩屋町curry |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
