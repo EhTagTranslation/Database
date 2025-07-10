@@ -6515,6 +6515,7 @@ example:
 | win variation | 凯旋芭蕾 |  |  |
 | yume irido | 伊理户结女 |  |  |
 | uta | 乌塔 |  |  |
+| terakomari gandesblood | 黛拉可玛莉·岗德森布莱德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
