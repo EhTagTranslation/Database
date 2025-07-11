@@ -13203,6 +13203,7 @@ example:
 | sugar milk syndrome | 糖耐综合征 |  |  |
 | haruiro | ハルイロ |  |  |
 | kitashirakawa die hard | 北白川虎胆龙威 |  |  |
+| harvest moon | 丰收之月 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
