@@ -13862,6 +13862,7 @@ example:
 | shigatsu shiduki | 四月しづき |  |  |
 | takato suzunosuke | たかとうすずのすけ |  |  |
 | rakura | らくら |  |  |
+| ranfu | らんふ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
