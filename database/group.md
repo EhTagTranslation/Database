@@ -13211,6 +13211,7 @@ example:
 | sashi minasu | さしみなす |  |  |
 | gunyuukakkyo | グンユウカッキョ |  |  |
 | dehumidification room | 除湿部屋 |  |  |
+| fuwafuwa party night | ふわふわぱーりない |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
