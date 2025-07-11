@@ -7681,7 +7681,7 @@ example:
 | meringue | めれんげ |  |  |
 | merino | めりの |  |  |
 | merkmal | めるくまーる |  |  |
-| meromero melon | xoxoメロン |  |  |
+| meromero melon | xoxo蜜瓜 |  |  |
 | meromerofactory xl | メロメロファクトリーXL |  |  |
 | meronpanchu | めろんぱんちゅ |  |  |
 | meroro | meroro |  |  |
