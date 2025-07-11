@@ -13857,6 +13857,7 @@ example:
 | kakido | かきど |  |  |
 | monaka ouji | モナカ王子 |  |  |
 | sakura no roko | 櫻ノろこ |  |  |
+| baisi | 白糸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
