@@ -13859,6 +13859,7 @@ example:
 | sakura no roko | 櫻ノろこ |  |  |
 | baisi | 白糸 |  |  |
 | gumpuu | グンプウ |  |  |
+| shigatsu shiduki | 四月しづき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
