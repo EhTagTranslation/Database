@@ -13210,6 +13210,7 @@ example:
 | kijitora tei | きじとら亭 |  |  |
 | sashi minasu | さしみなす |  |  |
 | gunyuukakkyo | グンユウカッキョ |  |  |
+| dehumidification room | 除湿部屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
