@@ -13856,6 +13856,7 @@ example:
 | rarigo | ラリったゴリラ |  |  |
 | kakido | かきど |  |  |
 | monaka ouji | モナカ王子 |  |  |
+| sakura no roko | 櫻ノろこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
