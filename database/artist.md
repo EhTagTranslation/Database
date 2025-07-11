@@ -13860,6 +13860,7 @@ example:
 | baisi | 白糸 |  |  |
 | gumpuu | グンプウ |  |  |
 | shigatsu shiduki | 四月しづき |  |  |
+| takato suzunosuke | たかとうすずのすけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
