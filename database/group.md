@@ -13215,6 +13215,7 @@ example:
 | tosen heavy industry | 东泉重工 |  |  |
 | samurai gekko | サムライゲッコー |  |  |
 | montage | モンタージュ |  |  |
+| rakura club | 楽らクラブ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
