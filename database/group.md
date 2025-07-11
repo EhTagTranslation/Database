@@ -13208,6 +13208,7 @@ example:
 | pressed glass | プレスドグラス |  |  |
 | k.cap inc. | 椎日けえ |  |  |
 | kijitora tei | きじとら亭 |  |  |
+| sashi minasu | さしみなす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
