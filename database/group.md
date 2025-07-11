@@ -13212,6 +13212,7 @@ example:
 | gunyuukakkyo | グンユウカッキョ |  |  |
 | dehumidification room | 除湿部屋 |  |  |
 | fuwafuwa party night | ふわふわぱーりない |  |  |
+| tosen heavy industry | 东泉重工 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
