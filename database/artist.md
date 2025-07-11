@@ -13863,6 +13863,7 @@ example:
 | takato suzunosuke | たかとうすずのすけ |  |  |
 | rakura | らくら |  |  |
 | ranfu | らんふ |  |  |
+| nagito | なぎと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
