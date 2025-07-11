@@ -13851,6 +13851,7 @@ example:
 | haruna hisui | 春名翡翠 |  |  |
 | kusunoki majiri | やまのみき |  |  |
 | burisuke | ぶりすけ |  |  |
+| kouda hayato | 国府田隼人 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
