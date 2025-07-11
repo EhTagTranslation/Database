@@ -13853,6 +13853,7 @@ example:
 | burisuke | ぶりすけ |  |  |
 | kouda hayato | 国府田隼人 |  |  |
 | sanada ikki | 真田一辉 |  |  |
+| rarigo | ラリったゴリラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
