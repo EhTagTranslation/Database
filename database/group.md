@@ -13200,7 +13200,7 @@ example:
 | tetsuyashiki | 铁屋敷 | 画师`kontetsu`所属社团 |  |
 | shioyamachicurry | 塩屋町curry |  |  |
 | megitune works | めぎつねワークス |  |  |
-| sugar milk syndrome | 糖耐综合征 |  |  |
+| sugar milk syndrome | 糖乳病 |  |  |
 | haruiro | ハルイロ |  |  |
 | kitashirakawa die hard | 北白川虎胆龙威 |  |  |
 | harvest moon | 丰收之月 |  |  |
