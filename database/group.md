@@ -13207,6 +13207,7 @@ example:
 | bukimi no tanigoto aishitai | せんちめんたるはやし |  |  |
 | pressed glass | プレスドグラス |  |  |
 | k.cap inc. | 椎日けえ |  |  |
+| kijitora tei | きじとら亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
