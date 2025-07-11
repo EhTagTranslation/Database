@@ -13861,6 +13861,7 @@ example:
 | gumpuu | グンプウ |  |  |
 | shigatsu shiduki | 四月しづき |  |  |
 | takato suzunosuke | たかとうすずのすけ |  |  |
+| rakura | らくら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
