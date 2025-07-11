@@ -13201,6 +13201,7 @@ example:
 | shioyamachicurry | 塩屋町curry |  |  |
 | megitune works | めぎつねワークス |  |  |
 | sugar milk syndrome | 糖耐综合征 |  |  |
+| haruiro | ハルイロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
