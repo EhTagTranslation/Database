@@ -4581,7 +4581,7 @@ example:
 | capriccio | かぷりっちょ |  |  |
 | capriccyo | カプリッチョ |  |  |
 | cara subato | 空すばと |  |  |
-| caramel dow | きゃらめる堂 |  |  |
+| caramel dow | きゃらめる堂 |  | [pixiv](https://www.pixiv.net/users/289098) |
 | carbon rice | カーボン飯 |  |  |
 | carlos toshiki | カルロスとしき |  |  |
 | carnelian | CARNELIAN |  |  |
