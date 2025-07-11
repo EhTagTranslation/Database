@@ -13204,6 +13204,7 @@ example:
 | haruiro | ハルイロ |  |  |
 | kitashirakawa die hard | 北白川虎胆龙威 |  |  |
 | harvest moon | 丰收之月 |  |  |
+| bukimi no tanigoto aishitai | 不気味の谷ごと愛したい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
