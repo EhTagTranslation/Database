@@ -13855,6 +13855,7 @@ example:
 | sanada ikki | 真田一辉 |  |  |
 | rarigo | ラリったゴリラ |  |  |
 | kakido | かきど |  |  |
+| monaka ouji | モナカ王子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
