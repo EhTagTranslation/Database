@@ -1291,7 +1291,7 @@ example:
 | nekomata naomi | ねこまたなおみ |  |  |
 | kiichi | きいち |  |  |
 | norve watanabe | なーべ渡辺 |  |  |
-| jin | Jin |  |  |
+| jin | 迅 |  |  |
 | luv p | Luv P |  |  |
 | rozer | ROZER |  |  |
 | mame danuki | まめだぬき |  |  |
