@@ -13864,6 +13864,7 @@ example:
 | rakura | らくら |  |  |
 | ranfu | らんふ |  |  |
 | nagito | なぎと |  |  |
+| hasumi | はすみ | はすみ是一名日本画师 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
