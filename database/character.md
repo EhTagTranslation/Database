@@ -6516,6 +6516,7 @@ example:
 | yume irido | 伊理户结女 |  |  |
 | uta | 乌塔 |  |  |
 | terakomari gandesblood | 黛拉可玛莉·岗德森布莱德 |  |  |
+| nihilego | 虚吾伊德 | 虚吾伊德是究极异兽的一种，代号为“ＵＢ０１：寄生物”。<br><br>虚吾伊德有着类似铃形水母的身体。半透明的上伞面周围环绕着一些白色的六角星标记，波浪形的伞缘呈亮蓝色。 | [https://www.pokemon.com/br/pokedex/nihilego](https://www.pokemon.com/br/pokedex/nihilego) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
