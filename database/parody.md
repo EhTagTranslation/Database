@@ -2500,6 +2500,7 @@ example:
 | watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta | 我们不可能成为恋人！绝对不行。 | 由みかみてれん创作、竹嶋えく负责角色原案和插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/我怎么可能成为你的恋人，不行不行！（※不是不可能！？）)<br>[维基百科](https://zh.wikipedia.org/wiki/我們不可能成為戀人！絕對不行。（※似乎可行？）) |
 | mamahaha no tsurego ga motokano datta | 继母的拖油瓶是我的前女友 |  |  |
 | hikikomari kyuuketsuki no monmon | 家里蹲吸血姬的苦闷 |  |  |
+| gimai seikatsu | 关于我在无意间被隔壁的天使变成废柴这件事 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
