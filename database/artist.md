@@ -5210,7 +5210,7 @@ example:
 | fumio | フミオ |  | [X](https://x.com/urafmo) [pixiv](https://www.pixiv.net/users/1135956) |
 | fumitani yasunori | フミタニヤスノリ |  |  |
 | fumiya | 文哉 |  |  |
-| fumizuki misoka | 文月みそか |  |  |
+| fumizuki misoka | 文月晦日 \| 文月みそか |  |  |
 | fumotono mikoto | 梺乃みこと |  |  |
 | funabori nariaki | 船堀斉晃 |  |  |
 | funakura | ふなくら |  |  |
