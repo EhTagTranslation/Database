@@ -6519,6 +6519,7 @@ example:
 | nihilego | 虚吾伊德 | 虚吾伊德是究极异兽的一种，代号为“ＵＢ０１：寄生物”。<br><br>虚吾伊德有着类似铃形水母的身体。半透明的上伞面周围环绕着一些白色的六角星标记，波浪形的伞缘呈亮蓝色。 | [https://www.pokemon.com/br/pokedex/nihilego](https://www.pokemon.com/br/pokedex/nihilego) |
 | saki ayase | 绫濑沙季 |  |  |
 | erika amano | 天野艾丽嘉 |  |  |
+| sachi umino | 海野凪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
