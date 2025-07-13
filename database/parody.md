@@ -2501,6 +2501,7 @@ example:
 | mamahaha no tsurego ga motokano datta | 继母的拖油瓶是我的前女友 |  |  |
 | hikikomari kyuuketsuki no monmon | 家里蹲吸血姬的苦闷 |  |  |
 | gimai seikatsu | 关于我在无意间被隔壁的天使变成废柴这件事 |  |  |
+| kakkou no iinazuke | 杜鹃的婚约 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
