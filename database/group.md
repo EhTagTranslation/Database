@@ -13217,6 +13217,7 @@ example:
 | montage | モンタージュ |  |  |
 | rakura club | 楽らクラブ |  |  |
 | itohanana | イトハナナ |  |  |
+| shirasudon | しらすどん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
