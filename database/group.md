@@ -13216,6 +13216,7 @@ example:
 | samurai gekko | サムライゲッコー |  |  |
 | montage | モンタージュ |  |  |
 | rakura club | 楽らクラブ |  |  |
+| itohanana | イトハナナ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
