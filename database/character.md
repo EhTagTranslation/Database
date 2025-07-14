@@ -6521,6 +6521,7 @@ example:
 | erika amano | 天野艾丽嘉 |  |  |
 | sachi umino | 海野凪 |  |  |
 | banri shiunji | 紫云寺万里 | 所属作品: `c:banri tada`<br><br>大一学生，长女。虽然是一名成熟稳重的女性，但是喜欢捉弄弟弟、妹妹们。 |  |
+| la folia rihavein | 拉·芙利亚·利哈瓦因 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
