@@ -2502,6 +2502,7 @@ example:
 | hikikomari kyuuketsuki no monmon | 家里蹲吸血姬的苦闷 |  |  |
 | gimai seikatsu | 关于我在无意间被隔壁的天使变成废柴这件事 |  |  |
 | kakkou no iinazuke | 杜鹃的婚约 |  |  |
+| shiunji-ke no kodomotachi | 紫云寺家的兄弟姐妹 |  | [维基百科](https://zh.wikipedia.org/wiki/紫雲寺家的兄弟姊妹) [萌娘百科](https://zh.moegirl.org.cn/紫云寺家的孩子们) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
