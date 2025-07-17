@@ -6484,7 +6484,7 @@ example:
 | teto kasane | 重音teto |  |  |
 | shu ouma | 樱满集 |  |  |
 | hare menjou | 校条祭 |  |  |
-| vivian banshee | 薇薇安 |  |  |
+| vivian banshee | 薇薇安·班希 | 薇薇安是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/薇薇安·班希) |
 | lain paterson | 兰·帕特森 | ![](https://img.moegirl.org.cn/common/e/eb/Lain_Paterson.jpg)<br>日语: レイン・パターソン<br>英语: Lain Paterson<br>隶属于彩虹社的VTuber | [萌娘百科](https://zh.moegirl.org.cn/兰·帕特森) |
 | usugumo | 薄云 | 所属作品: `p:kantai collection` | [舰娘百科](https://m.kcwiki.cn/wiki/薄云) [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:薄云) |
 | sweety | 红豆 | 绝区零饮茶仙店员<br>![](https://img.picui.cn/free/2025/06/21/6856c34d62fd4.png) | [萌娘百科](https://zh.moegirl.org.cn/红豆%28绝区零%29) |
