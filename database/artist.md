@@ -13866,6 +13866,7 @@ example:
 | nagito | なぎと |  |  |
 | hasumi | はすみ | はすみ是一名日本画师 |  |
 | ikisugi shokudou | イキスギ食堂 |  |  |
+| robo mikan | ロボみかん |  | [pixiv](https://www.pixiv.net/users/86949714) |
 
 <!--TEMPLATE:
 |  |  |  |  |
