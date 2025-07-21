@@ -6523,6 +6523,7 @@ example:
 | banri shiunji | 紫云寺万里 | 所属作品: `c:banri tada`<br><br>大一学生，长女。虽然是一名成熟稳重的女性，但是喜欢捉弄弟弟、妹妹们。 |  |
 | la folia rihavein | 拉·芙利亚·利哈瓦因 |  |  |
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
+| chisa | 千咲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
