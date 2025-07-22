@@ -6526,6 +6526,7 @@ example:
 | chisa | 千咲 |  |  |
 | baizhi | 白芷 |  |  |
 | alice thymefield | 爱丽丝·泰姆菲尔德 | 是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 |  |
+| noren mitsuoka | 蜜冈乃莲 |  | [维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
