@@ -6525,6 +6525,7 @@ example:
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 千咲 |  |  |
 | baizhi | 白芷 |  |  |
+| alice thymefield | 爱丽丝·泰姆菲尔德 | 是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
