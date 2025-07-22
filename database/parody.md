@@ -2504,6 +2504,7 @@ example:
 | kakkou no iinazuke | 杜鹃的婚约 |  |  |
 | shiunji-ke no kodomotachi | 紫云寺家的兄弟姐妹 |  | [维基百科](https://zh.wikipedia.org/wiki/紫雲寺家的兄弟姊妹) [萌娘百科](https://zh.moegirl.org.cn/紫云寺家的孩子们) |
 | kamisama ni natta hi | 成神之日 | key社动画作品 |  |
+| total drama island | 孤岛生存大乱斗 | 加拿大真人秀动画 | [维基百科（英语）](https://en.wikipedia.org/wiki/Total_Drama_Island) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
