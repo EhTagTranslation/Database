@@ -49,7 +49,7 @@ example:
 | animal on animal | 兽兽 | 动物间性交。 |  |
 |  | == 头部 == |  |  |
 |  | === 头部 > 思维 === |  |  |
-| body swap | 换身 | 灵魂互换，该标签不应与`possession`混淆也不能标为`gender change`。 |  |
+| body swap | 换身 | 与另一名参与者交换身体。<br>不应与`possession`混淆。 |  |
 |  | === 头部 > 嘴 === |  |  |
 | multimouth blowjob | 多口口交 | 涉及一个阴茎和两个或多个嘴的性行为。需要`blowjob`标签。不应与`double blowjob`混淆。 |  |
 |  | == 手臂 == |  |  |
