@@ -13873,6 +13873,7 @@ example:
 | miwa kitsune | 三輪きつね |  |  |
 | naosuke | 星ナオスケ |  |  |
 | igusa | 胃草 |  |  |
+| cobaco mimiz | 小箱みみず |  | [X](https://x.com/coba3333mimiz) [pixiv](https://www.pixiv.net/users/64863918) |
 
 <!--TEMPLATE:
 |  |  |  |  |
