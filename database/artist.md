@@ -13872,6 +13872,7 @@ example:
 | gustave dore | 古斯塔夫•多雷 | 伪基百科：保罗·古斯塔夫·路易·克里斯多佛·多雷（法语：Paul Gustave Louis Christophe Doré，法语：[ɡys.tav dɔ.ʁe]，1832年1月6日—1883年1月23日），通称古斯塔夫·多雷，19世纪法国艺术家、版画家、漫画家、插画家和木雕雕刻家。 |  |
 | miwa kitsune | 三輪きつね |  |  |
 | naosuke | 星ナオスケ |  |  |
+| igusa | 胃草 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
