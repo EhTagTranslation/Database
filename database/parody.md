@@ -2506,6 +2506,7 @@ example:
 | kamisama ni natta hi | 成神之日 | key社动画作品 |  |
 | total drama island | 孤岛生存大乱斗 | 加拿大真人秀动画 | [维基百科（英语）](https://en.wikipedia.org/wiki/Total_Drama_Island) |
 | kill blue | 杀手青春 |  | [百度百科](https://baike.baidu.com/item/杀手青春/63365757)<br>[维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
+| konohana kitan | 此花绮谭 | このはな綺譚 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
