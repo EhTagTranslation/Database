@@ -13218,6 +13218,7 @@ example:
 | rakura club | 楽らクラブ |  |  |
 | itohanana | イトハナナ |  |  |
 | shirasudon | しらすどん |  |  |
+| akashiba honpo | 赤柴本舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
