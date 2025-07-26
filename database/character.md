@@ -6528,6 +6528,7 @@ example:
 | alice thymefield | 爱丽丝·泰姆菲尔德 | 是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 |  |
 | noren mitsuoka | 蜜冈乃莲 |  | [维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 | hermione | 赫敏 | 赫敏（Hermione ，ハーマイオニー，허마이오니）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的赫敏号轻巡洋舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/赫敏)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:赫敏) |
+| empress | 仲裁者·恩普雷斯·III | 仲裁者·恩普雷斯·III（女皇）是碧蓝航线中的虚构角色，隶属于仲裁机关，责任是维持世界稳定……之类的 | ![](https://zh.moegirl.org.cn/File:BLHX_empress.png)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:仲裁者·恩普雷斯·III)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/仲裁者·恩普雷斯·III) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
