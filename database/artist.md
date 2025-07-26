@@ -13876,6 +13876,7 @@ example:
 | cobaco mimiz | 小箱みみず |  | [X](https://x.com/coba3333mimiz) [pixiv](https://www.pixiv.net/users/64863918) |
 | noda guri | 野田ぐり |  |  |
 | mochimochi yusaku | 餅望ゆさく |  | [pixiv](https://www.pixiv.net/users/28503880) [X](https://x.com/Yusaku_Mochi2) |
+| kadose ara | 門瀬粗 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
