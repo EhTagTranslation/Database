@@ -6529,6 +6529,7 @@ example:
 | noren mitsuoka | 蜜冈乃莲 |  | [维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 | hermione | 赫敏 | 赫敏（Hermione ，ハーマイオニー，허마이오니）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的赫敏号轻巡洋舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/赫敏)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:赫敏) |
 | empress | 仲裁者·恩普雷斯·III | 仲裁者·恩普雷斯·III（女皇）是碧蓝航线中的虚构角色，隶属于仲裁机关，责任是维持世界稳定……之类的 | ![](https://zh.moegirl.org.cn/File:BLHX_empress.png)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:仲裁者·恩普雷斯·III)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/仲裁者·恩普雷斯·III) |
+| san jacinto | 圣哈辛托 | 圣哈辛托号是独立级轻型航空母舰九号舰（CVL-30），也是轻巡改装护航航空母舰。<br>说句题外话，老布什曾在这艘航母上服役，还险些丧命。 | [维基百科](https://zh.wikipedia.org/wiki/聖哈辛托號航空母艦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/圣哈辛托)<br>[https://www.zjsnrwiki.com/wiki/圣哈辛托](https://www.zjsnrwiki.com/wiki/圣哈辛托) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
