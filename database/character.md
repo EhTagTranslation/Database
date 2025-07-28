@@ -6531,6 +6531,7 @@ example:
 | empress | 仲裁者·恩普雷斯·III | 仲裁者·恩普雷斯·III（女皇）是碧蓝航线中的虚构角色，隶属于仲裁机关，责任是维持世界稳定……之类的 | ![](https://zh.moegirl.org.cn/File:BLHX_empress.png)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:仲裁者·恩普雷斯·III)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/仲裁者·恩普雷斯·III) |
 | san jacinto | 圣哈辛托 | 圣哈辛托号是独立级轻型航空母舰九号舰（CVL-30），也是轻巡改装护航航空母舰。<br>说句题外话，老布什曾在这艘航母上服役，还险些丧命。 | [维基百科](https://zh.wikipedia.org/wiki/聖哈辛托號航空母艦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/圣哈辛托)<br>[https://www.zjsnrwiki.com/wiki/圣哈辛托](https://www.zjsnrwiki.com/wiki/圣哈辛托) |
 | michiru matsushima | 松岛满 | frontwing灰色系列作品女主之一 |  |
+| kazuki kazami | 风见一姬 | 風見一姫，萝莉姐姐，冷淡，白发紫瞳，味甘，不可食用是frontwing公司灰色系列作品女主角之一，男主风见雄二的姐姐。我好喜欢她啊！！！ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
