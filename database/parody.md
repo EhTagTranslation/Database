@@ -2507,6 +2507,7 @@ example:
 | total drama island | 孤岛生存大乱斗 | 加拿大真人秀动画 | [维基百科（英语）](https://en.wikipedia.org/wiki/Total_Drama_Island) |
 | kill blue | 杀手青春 |  | [百度百科](https://baike.baidu.com/item/杀手青春/63365757)<br>[维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 | konohana kitan | 此花绮谭 | このはな綺譚 |  |
+| grisaia phantom trigger | 灰色：幻影扳机 | frontwing灰色系列作品，时间线在灰色的乐园数年后 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
