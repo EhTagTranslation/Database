@@ -425,7 +425,7 @@ example:
 | puzzle and dragons | ![钻石](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/puzzle%20and%20dragons.webp)智龙迷城 | 《龙族拼图》（日语：パズル&ドラゴンズ，英语：Puzzle & Dragons，中国大陆译作“智龙迷城”，港台译作“龙族拼图”）是日本Gungho线上娱乐开发的智慧型手机游戏。此游戏是一个结合了角色扮演游戏及宝石消除游戏元素进行战斗的益智游戏。宝石消除的游戏模式是参考Dungeon Raid设计的，和宝石方块类似；而游戏的战斗模式则与神奇宝贝系列相似。此游戏于台港澳受关注，并因此引致不少疑似抄袭其游戏模式的手机游戏出现。包括台港澳地区另一大受欢迎的游戏《神魔之塔》等。<br>游戏曾获6个类别的“Fami通Award 2012”奖项、“CEDEC AWARDS 2012”最佳游戏设计奖、“Fami通Award 2013”优秀奖、Google Play 2014上半年度最佳卡牌游戏、2014巴哈姆特游戏大赏手机暨平板游戏金赏等殊荣。<br>![logo](https://pad.gungho.jp/member/common/img/top_v2/logo.png)![图](https://ehgt.org/d5/8b/d58ba39868d868672d0cc8f82635a6f81f35761b-248224-1024-886-jpg_l.jpg)![图](# "https://ehgt.org/af/4f/af4f916057e82146ed2e1505db8061618cad3404-74510-600-399-jpg_l.jpg") | [日版官方网站](https://pad.gungho.jp/member/index.html) [日版官方推特](https://x.com/pad_sexy) |
 | senki zesshou symphogear | 战姬绝唱Symphogear | 戦姫絶唱シンフォギア |  |
 | shaman king | 通灵王 |  |  |
-| gegege no kitarou | 怪怪怪的鬼太郎 |  |  |
+| gegege no kitarou | 咯咯咯鬼太郎 |  |  |
 | marmalade boy | 橘子酱男孩 |  |  |
 | esper mami | 超能力魔美 |  |  |
 | fushigi no umi no nadia | 蓝宝石之谜 |  |  |
