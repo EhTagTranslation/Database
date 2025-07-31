@@ -6536,6 +6536,7 @@ example:
 | shimanto | 四万十 | 四万十(虒)（Shimanto，四万十（しまんと））是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型“四万十号轻巡洋舰”为战舰世界研发方Wargaming.net根据日本采用三联装150mm五式高平两用炮设计方案轻巡洋舰自行设计并命名。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/四万十)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:四万十) |
 | agnes | 阿妮埃斯 |  |  |
 | hanako-san | 花子小姐 |  |  |
+| kitarou | 鬼太郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
