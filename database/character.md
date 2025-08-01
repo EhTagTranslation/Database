@@ -5553,7 +5553,7 @@ example:
 | qbu-88 | QBU-88 \| 缠枝 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/e8/QBU-88.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/2/26/Chanzhi.png) | [少前百科GFwiki](https://gfwiki.org/w/QBU-88)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/缠枝) |
 | type 64 | 64式 \| 薮春 | `p:girls frontline`<br>![](https://iopwiki.com/images/2/2e/Type_64_costume3.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/e/ec/Souchun.png) | [少前百科GFwiki](https://gfwiki.org/w/64式)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/薮春) |
 | howa type 64 | 64式自 | `p:girls frontline`<br>![](https://iopwiki.com/images/b/bd/Howa_Type_64.png) | [少前百科GFwiki](https://gfwiki.org/w/64式自) |
-| fnc | FNC \| 巧可 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ec/FNC.png)<br>少女前线:云图计划<br>![](https://iopwiki.com/images/e/ed/Choco_base2.png) | [少前百科GFwiki](https://gfwiki.org/w/FNC)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/巧可) |
+| fnc | FNC \| 巧可 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/ec/FNC.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/e/ed/Choco_base2.png) | [少前百科GFwiki](https://gfwiki.org/w/FNC)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/巧可) |
 | zb-26 | ZB26 | `p:girls frontline`<br>![](https://iopwiki.com/images/3/39/ZB-26.png) | [少前百科GFwiki](https://gfwiki.org/w/ZB26) |
 | zas m21 | Zas M21 | `p:girls frontline`<br>![](https://iopwiki.com/images/4/4e/Zas_M21.png) |  |
 | xm8 | XM8 | `p:girls frontline`<br>![](https://iopwiki.com/images/e/eb/XM8_costume2.png) |  |
