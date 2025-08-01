@@ -4906,7 +4906,7 @@ example:
 | k5 | K5 | `p:girls frontline` | [http://www.gfwiki.org/w/K5](http://www.gfwiki.org/w/K5) |
 | rfb | RFB | `p:girls frontline` | [http://www.gfwiki.org/w/RFB](http://www.gfwiki.org/w/RFB) |
 | art556 | ART556 | `p:girls frontline` | [http://www.gfwiki.org/w/ART556](http://www.gfwiki.org/w/ART556) |
-| florence | 芙洛伦 \| 芙罗伦斯 | `p:girls frontline`<br>云图计划(Neural Cloud)<br>`c:pa-15`<br>![芙洛伦](https://42lab.cdn.sunborngame.com/website/officialWebsite/imgs/pc/index/roll/roll2_1_q.png)<br>`p:granblue fantasy`<br>![芙罗伦斯](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/3/35/Zoom_3040299000_01.png/600px-Zoom_3040299000_01.png) | [42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/芙洛伦)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/船员手册/芙罗伦斯) |
+| florence | 芙洛伦 \| 芙罗伦斯 | `p:girls frontline`<br>`p:girls frontline neural cloud`<br>`c:pa-15`<br>![芙洛伦](https://42lab.cdn.sunborngame.com/website/officialWebsite/imgs/pc/index/roll/roll2_1_q.png)<br>少女前线2:追放<br><br>`p:granblue fantasy`<br>![芙罗伦斯](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/3/35/Zoom_3040299000_01.png/600px-Zoom_3040299000_01.png) | [42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/芙洛伦)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/船员手册/芙罗伦斯) |
 | webley | 韦伯利 | `p:girls frontline` | [http://www.gfwiki.org/w/韦伯利](http://www.gfwiki.org/w/韦伯利) |
 | ifrit | 伊芙利特 | 伊芙利特是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊芙利特) |
 | kabane kusaka | 日下夏羽 | 日下夏羽是由蓝本松所创作的漫画《怪物事变》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日下夏羽) |
