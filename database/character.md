@@ -5567,7 +5567,7 @@ example:
 | vepley | 维普蕾 | `p:girls frontline`<br>少女前线2：追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_VepleySSR.png)<br>猫咪：艾兜 | [少前2Wiki](https://gf2.mcc.wiki/doll/VepleySSR) |
 | general liu | 刘氏步枪 | `p:girls frontline`<br>![](https://gfwiki.org/images/3/3f/Pic_GeneralLiu_HD.png) | [少前百科GFwiki](https://gfwiki.org/w/刘氏步枪) |
 | angelica | 安洁莉娅 \| 安琪莉珂 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(通称:安洁莉娅或安洁)<br>与`c:anna viktorovna tsoi`为同一人<br>人类<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png)<br>`p:gunslinger girl`<br>安琪莉珂(别称:安洁莉卡、安洁丽卡) | [百度百科](https://baike.baidu.com/item/安洁丽卡/4884549?lemmaId=3939051&lemmaTitle=神枪少女&fromModule=lemma_inlink&bk_fr=chain_title&timestamp=1724855087757)<br>[少前百科GFwiki](https://gfwiki.org/w/安洁莉娅)<br>[萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
-| helianthus | 赫丽安图丝 | `p:girls frontline`<br>赫丽安图丝(通称赫丽安)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:赫丽安图丝) |
+| helianthus | 赫丽安图丝 | `p:girls frontline`<br>少女前线2:追放<br>赫丽安图丝(通称赫丽安)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:赫丽安图丝) |
 | anna viktorovna tsoi | 安娜·维克多洛夫纳·崔 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(通称:安洁莉娅或安洁)<br>与`c:angelica`的安洁莉娅为同一人<br>人类<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png) | [少前百科GFwiki](https://gfwiki.org/w/安洁莉娅)<br>[萌娘百科](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
 | ballista | 芭莉斯塔 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:芭莉斯塔) |
 | berezovich kryuger | 伯鲁泽维奇·克鲁格 | `p:girls frontline`<br>伯鲁泽维奇·克鲁格(简称克鲁格)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:克鲁格) |
