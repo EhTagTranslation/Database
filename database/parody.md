@@ -1049,7 +1049,7 @@ example:
 | battle spirits | 战斗之魂 |  |  |
 | galaxy express 999 | 银河铁道999 |  |  |
 | gaiking | 新大空魔龙 | 《新大空魔龙》，是从2005年11月12日到2006年9月24日在朝日电视播放的机器人动画。由东映动画制作。从2006年4月开始在BS朝日等播放。 |  |
-| girls frontline | ![](https://p.sda1.dev/22/6b45bfc1e9b9924749db8a29c5fb6f18/image.png) 少女前线 | 《少女前线》是由散爆网络（即云母组）独立研发，暗冬网络所代理发行的国人原创二次元枪娘养成战术手游。<br><br>相关作品: 《云图计划》《少女前线2：追放》《面包房少女》《逆向坍塌：面包房行动》 | [萌娘百科](https://zh.moegirl.org.cn/少女前线) [官方网站](https://gfcn-mobile.sunborngame.com/) |
+| girls frontline | ![](https://p.sda1.dev/22/6b45bfc1e9b9924749db8a29c5fb6f18/image.png) 少女前线 | 《少女前线》是由散爆网络（即云母组）独立研发，暗冬网络所代理发行的国人原创二次元枪娘养成战术手游。<br><br>相关作品: (`p:girls frontline neural cloud`)《少女前线2：追放》《面包房少女》《逆向坍塌：面包房行动》 | [萌娘百科](https://zh.moegirl.org.cn/少女前线) [官方网站](https://gfcn-mobile.sunborngame.com/) |
 | zettai karen children | 绝对可怜CHILDREN |  |  |
 | selector infected wixoss | 选择感染者WIXOSS |  |  |
 | chain chronicle | 锁链战记 | 《锁链战记》（日语：“チェインクロニクル”，简称“チェンクロ”；英语：“Chain Chronicle”；汉语也作“锁链编年史”、“锁链年代记”）为世嘉网络（SEGA Networks）于2013年针对智能手机市场所开发的道具收费式手机线上电子角色扮演游戏。该游戏在日本由世嘉运营；盛大网络取得该游戏的中国、台湾、香港、澳门及韩国这五个亚洲地区的代理权，并将台湾与港澳版本交予其子公司移动怪兽运营。 |  |
