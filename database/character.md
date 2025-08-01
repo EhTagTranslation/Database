@@ -5570,7 +5570,7 @@ example:
 | helianthus | 赫丽安图丝 | `p:girls frontline`<br>少女前线2:追放<br>赫丽安图丝(通称赫丽安)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:赫丽安图丝) |
 | anna viktorovna tsoi | 安娜·维克多洛夫纳·崔 | `p:girls frontline`<br>安娜·维克多洛夫纳·崔(通称:安洁莉娅或安洁)<br>与`c:angelica`的安洁莉娅为同一人<br>人类<br>![](https://gfwiki.org/images/b/b2/NPC-Ange.png) | [少前百科GFwiki](https://gfwiki.org/w/安洁莉娅)<br>[萌娘百科](https://zh.moegirl.org.cn/少女前线:安洁莉娅) |
 | ballista | 芭莉斯塔 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:芭莉斯塔) |
-| berezovich kryuger | 伯鲁泽维奇·克鲁格 | `p:girls frontline`<br>伯鲁泽维奇·克鲁格(简称克鲁格)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:克鲁格) |
+| berezovich kryuger | 伯鲁泽维奇·克鲁格 | `p:girls frontline`<br>少女前线2:追放<br>伯鲁泽维奇·克鲁格(简称克鲁格)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:克鲁格) |
 | bren ten | 布伦·坦 | `p:girls frontline` | [少前百科GFwiki](https://gfwiki.org/w/布伦·坦) |
 | carcano m9138 | 卡尔卡诺M91/38 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M91/38) |
 | carcano m1891 | 卡尔卡诺M1891 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M1891) |
