@@ -126,7 +126,7 @@ example:
 | atelier sakura mount position | 樱花工作室 Mount Position |  |  |
 | atelier sakura extra | 樱花工作室 eXtra |  |  |
 | abel software | AbelSoftware |  |  |
-| type-moon | 🌙TYPE-MOON | EX咖喱棒！<br>![图](https://ehgt.org/b5/cf/b5cfbf85de09ec9d8594fe37f87f43bb90c781ff-36026-320-389-jpg_l.jpg) |  |
+| type-moon | ![](https://typemoon.com/img/tm-logo02.png)TYPE-MOON | TYPE-MOON，即型月，最初为以剧本家奈须蘑菇、画师武内崇为核心的同人社团，由蘑菇与武内二人的社团竹帚演变而来。2003年，在创作新作Fate时，由于同人社团的局限性，决定商业化。同人社团TYPE-MOON解散，公司Notes.成立，武内崇担任社长，TYPE-MOON作为Notes.公司的品牌而继续存在。通常会认为“现Notes.公司=旧TYPE-MOON社团”。<br>其下代表作有《`p:kara no kyoukai`》《`p:tsukihime`》《`p:fate stay night`》《`p:mahou tsukai no yoru`》《`p:fate grand order`》<br>![](https://cache.typemoon.com/images/i9220050dcddb66f6493146665f46cb59mg)![](https://cache.typemoon.com/images/i7afad18cf1dfc07961d4aa7283c77c90mg)![](https://cache.typemoon.com/images/i7419729e365d5862864daf5eb0a71151mg)![](https://cache.typemoon.com/images/i9a413dfd1b812694b4fe16c8a9785946mg)![](https://www.karanokyoukai.com/img/main/a1.jpg) |  |
 | nitroplus | Nitro+ |  |  |
 | 5pb | 5pb. |  |  |
 | aniseed | AniSeed |  |  |
