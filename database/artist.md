@@ -13881,6 +13881,7 @@ example:
 | shiben | 史本 |  |  |
 | ctrlz77 | ctrlz77 |  | [pixiv](https://www.pixiv.net/users/6134554)<br>[FANBOX](https://how.fanbox.cc/) |
 | mochida koyubi | 餅田こゆび |  | [X](https://x.com/mochikoyu) [pixiv](https://www.pixiv.net/users/2228369) |
+| yuimisu | ゆいみす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
