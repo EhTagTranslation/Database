@@ -10450,7 +10450,7 @@ example:
 | suzumiya kiriha | 鈴宮きりは |  |  |
 | suzumori uina | 鈴森ういな |  |  |
 | suzune rai | 鈴根らい |  |  |
-| suzune yuuji | 鈴音ゆうじ |  |  |
+| suzune yuuji | 鈴音ゆうじ \| おいもとじろう |  |  |
 | suzunokei | スズノケイ |  |  |
 | suzunomoku | すずのもく |  |  |
 | suzurame | スズラメ |  |  |
