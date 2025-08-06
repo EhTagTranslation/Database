@@ -13883,6 +13883,7 @@ example:
 | mochida koyubi | 餅田こゆび |  | [X](https://x.com/mochikoyu) [pixiv](https://www.pixiv.net/users/2228369) |
 | yuimisu | ゆいみす |  |  |
 | yagihitsuji | 山羊羊 |  |  |
+| okkuu tarou | 億劫太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
