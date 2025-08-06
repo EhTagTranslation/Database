@@ -6543,6 +6543,7 @@ example:
 | phrolova | 弗洛洛 |  |  |
 | kiyohime lancer | 清姬Alter [Lancer] |  |  |
 | yuzuha ukinami | 浮波柚叶 |  |  |
+| aino | 爱诺 | 是由米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱诺%28原神%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
