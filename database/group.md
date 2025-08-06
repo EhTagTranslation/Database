@@ -13219,6 +13219,7 @@ example:
 | itohanana | イトハナナ |  |  |
 | shirasudon | しらすどん |  |  |
 | akashiba honpo | 赤柴本舗 |  |  |
+| yagihitsuji nikusenmonten | 山羊羊肉専門店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
