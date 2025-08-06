@@ -6541,6 +6541,7 @@ example:
 | mukuro hoshimiya | 星宫六喰 |  |  |
 | sophia valentine | 索菲娅•瓦伦丁 | 彩虹社vtuber |  |
 | phrolova | 弗洛洛 |  |  |
+| kiyohime lancer | 清姬Alter [Lancer] |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
