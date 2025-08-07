@@ -7172,7 +7172,7 @@ example:
 | kozakura botan | 小桜ぼたん |  |  |
 | kozakura ryou | 小桜りょう |  |  |
 | kozara | 小皿 |  |  |
-| kozi | kozi |  |  |
+| kozi | kozi |  | [pixiv](https://www.pixiv.net/users/6447934) |
 | kozirow | Kozirow |  |  |
 | kozou | 小僧 |  |  |
 | kozue akari | こずえあかり |  |  |
