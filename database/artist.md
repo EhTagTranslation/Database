@@ -10210,7 +10210,7 @@ example:
 | shri | shri |  |  |
 | shrine | シュライン |  |  |
 | shu cream | シュクリム |  |  |
-| shuffle | shuffle |  |  |
+| shuffle | shuffle |  | [pixiv](https://www.pixiv.net/users/1876202) |
 | shuga | しゅがぁ |  |  |
 | shuma | しゅま |  |  |
 | shunjou shuusuke | 春城秋介 |  |  |
