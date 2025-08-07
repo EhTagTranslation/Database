@@ -12583,7 +12583,7 @@ example:
 | dakkoku kidoutai s.a.c | 脱壳机动队 S.A.C |  |  |
 | mitsumitsuniku | ミツミツにく |  |  |
 | akirerushoujo | アキレルショウジョ |  |  |
-| fuzume | ふずめ |  |  |
+| fuzume | ふずめ |  | [pixiv](https://www.pixiv.net/users/62756888) |
 | hitakamoya | ひたかもや |  |  |
 | kasokuiki | 過疎区域 |  | [X](https://x.com/in_ksk) |
 | khaos distance | カオス距離 |  |  |
