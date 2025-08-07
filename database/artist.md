@@ -3190,7 +3190,7 @@ example:
 | oomori | 大盛り |  |  |
 | yasson yoshiyuki | やっそん義之 |  | [pixiv](https://www.pixiv.net/users/18520349) [X](https://x.com/u_miyama) |
 | hiyori mizuki | 陽寄瑞貴 | Comic Lo作家 | [pixiv](https://www.pixiv.net/users/4793451) [X](https://x.com/HiyoriMizuki) |
-| fushoku | 腐蝕 | ![twitter头像](https://pbs.twimg.com/profile_images/612548989632692224/eUn9Cx9V_400x400.jpg)<br>作者推特头像 | [pixiv](https://www.pixiv.net/users/6352070) [X](https://x.com/fushoku) |
+| fushoku | 腐蚀 | ![twitter头像](https://pbs.twimg.com/profile_images/612548989632692224/eUn9Cx9V_400x400.jpg)<br>作者推特头像 | [pixiv](https://www.pixiv.net/users/6352070) [X](https://x.com/fushoku) |
 | coupe | こっぺ | ![](https://pbs.twimg.com/profile_images/1230827745241731075/KsmpnTim_400x400.jpg) | [pixiv](https://www.pixiv.net/users/48381) [X](https://x.com/coupe50ch) |
 | panchira steak | ぱんちらステーキ |  | [X](https://x.com/panpansute) |
 | saizu nitou gunsou | 才津二等軍曹 | ![twitter头像](https://pbs.twimg.com/profile_images/1380524702754426884/NRVM7YEV_400x400.jpg)<br>**作者twitter头像** | [X](https://x.com/sgtsize) [pixiv](https://www.pixiv.net/users/14954015) |
