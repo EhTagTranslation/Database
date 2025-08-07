@@ -6544,6 +6544,7 @@ example:
 | kiyohime lancer | 清姬Alter [Lancer] |  |  |
 | yuzuha ukinami | 浮波柚叶 |  |  |
 | aino | 爱诺 | 是由米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱诺%28原神%29) |
+| kriemhild | 克里姆希尔德 | ![克里姆希尔德](https://p.sda1.dev/26/79d7e0f42bcc5911cd1c1bf657bf6aea/1000012951.png)<br>克里姆希尔德是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
