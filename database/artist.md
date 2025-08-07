@@ -13884,6 +13884,7 @@ example:
 | yuimisu | ゆいみす |  |  |
 | yagihitsuji | 山羊羊 |  |  |
 | okkuu tarou | 億劫太郎 |  |  |
+| uniyukke | 雲丹肉膾 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
