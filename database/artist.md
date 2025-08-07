@@ -10909,7 +10909,7 @@ example:
 | tokiwa kanenari | 常磐兼成 | ときわたみき |  |
 | tokiwa wako | ときわようこ |  |  |
 | tokiwa youko | 常葉ヨウコ |  |  |
-| tokiwa yutaka | ときわゆたか |  |  |
+| tokiwa yutaka | ときわゆたか |  | [pixiv](https://www.pixiv.net/users/144431) |
 | tokizumi emishi | 時積恵美之 |  |  |
 | tokkou kujira | 特攻くじら |  |  |
 | tokonaru | トコナル |  |  |
