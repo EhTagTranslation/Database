@@ -13222,6 +13222,7 @@ example:
 | yagihitsuji nikusenmonten | 山羊羊肉専門店 |  |  |
 | mara nekonabe | 麻辣猫鍋 |  |  |
 | tarou project | 太郎プロジェクト |  |  |
+| tgcomics | TG Comics |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
