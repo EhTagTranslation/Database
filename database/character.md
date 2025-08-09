@@ -6547,6 +6547,7 @@ example:
 | kriemhild | 克里姆希尔德 | ![克里姆希尔德](https://p.sda1.dev/26/79d7e0f42bcc5911cd1c1bf657bf6aea/1000012951.png)<br>克里姆希尔德是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 |  |
 | enkidu | 恩奇都 | ![恩奇都](https://p.sda1.dev/26/767a6df4fcb11e0a7c719f19d8eafe7c/1000012954.png)<br>恩奇都是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。<br>原型为现今人类历史上最古老的叙事诗《吉尔伽美什史诗》里的重要人物，古代美索不达米亚（Mesopotamia）地区苏美尔（Sumer）王朝的都市国家乌鲁克（Uruk）之王吉尔伽美什的敌人和唯一的挚友，与其一同经历了诸多冒险。 |  |
 | violet parr | 巴小倩 |  | [维基百科](https://zh.wikipedia.org/wiki/巴小倩) |
+| yuna | 尤娜 |  | [萌娘百科](https://zh.moegirl.org.cn/尤娜%28最终幻想%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
