@@ -13886,6 +13886,7 @@ example:
 | okkuu tarou | 億劫太郎 |  |  |
 | uniyukke | 雲丹肉膾 |  |  |
 | kuroda shohei | 阿賀まりの |  | [X](https://x.com/agamarino2nd) [pixiv](https://www.pixiv.net/users/2559023) |
+| ore tarou | 俺太郎 |  | [X](https://x.com/ore_tarou3) |
 
 <!--TEMPLATE:
 |  |  |  |  |
