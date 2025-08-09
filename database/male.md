@@ -273,7 +273,7 @@ example:
 | nose fuck | 鼻交 | 插入鼻孔的性交。 |  |
 | nose hook | 鼻吊钩 | 用钩子把鼻孔向上拉，打开鼻孔。 经常与`bondage`配对。 |  |
 | smell | 气味 | 发出强烈，耸人听闻的气味的行为。 |  |
-|  | === 头部 > 嘴 === |  |  |
+|  | === Head > Mouth === | === 头部 > 嘴 === |  |
 | adventitious mouth | 畸位口 | 在身体的意想不到的地方至少有一个嘴（例如手、躯干或尾巴）。 |  |
 | big lips | 大嘴唇💋 | 异常大的嘴唇。嘴唇的高度必须超过人眼的高度才能符合条件。 |  |
 | blowjob | 口交 | 涉及的嘴和阴茎的性行为。不要与`ball sucking`混淆。是`blowjob face`、`deepthroat`的前置标签。<br>![图](# "https://ehgt.org/05/78/057878e28779bc0d2972428bc45f7953338ee8e7-618322-1024-576-png_l.jpg")![图](# "https://ehgt.org/7a/51/7a512a677167e0230a73a0a2069e3f2bf39fc21d-342730-572-600-png_250.jpg")![图](# "https://ehgt.org/31/a6/31a67addc473e13246d34d39201dd82f1e8dcf78-507258-600-513-png_l.jpg") |  |
@@ -293,6 +293,7 @@ example:
 | rimjob | 舔肛 | 使用舌头舔肛门使性觉醒。<br>![图](# "https://ehgt.org/c0/ac/c0ac00407728601a1928be03f0fff314b08e0884-493476-1024-576-png_l.jpg") |  |
 | saliva | 唾液 | 将相当数量的口腔分泌物用于性目的。舔食或吐痰不算在内。 |  |
 | smoking | 吸烟🚬 | 一种物质（通常是烟草）被点燃，其烟雾在性行为期间被品尝或吸入。性行为前后的吸烟不算在内。 |  |
+| split tongue | 分叉舌 | 舌头分裂为两部分的参与者。不适用于受伤或刚造成的伤口。 |  |
 | tooth brushing | 刷牙 | 通过刷牙使性觉醒。 |  |
 | unusual teeth | 异齿 | 利齿、龅牙、牙缝或缺牙。不用与非人形和`shark boy`。 |  |
 | vomit | 呕吐🤮 | 胃内容物通过口或鼻反流。 |  |
