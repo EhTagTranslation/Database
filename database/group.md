@@ -13223,6 +13223,7 @@ example:
 | mara nekonabe | 麻辣猫鍋 |  |  |
 | tarou project | 太郎プロジェクト |  |  |
 | tgcomics | TG Comics |  |  |
+| yoneya | よねや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
