@@ -13224,6 +13224,7 @@ example:
 | tarou project | 太郎プロジェクト |  |  |
 | tgcomics | TG Comics |  |  |
 | yoneya | よねや |  |  |
+| tokonatsu sanshouuo | 常夏山椒魚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
