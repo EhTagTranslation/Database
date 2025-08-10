@@ -13895,6 +13895,7 @@ example:
 | thetransformistress | TheTransformistress |  |  |
 | pandoras box | Pandora's Box | PBX |  |
 | ruuwanmm | るぅ1mm |  |  |
+| chirota rochi | チロ田ろち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
