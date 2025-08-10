@@ -13896,6 +13896,7 @@ example:
 | pandoras box | Pandora's Box | PBX |  |
 | ruuwanmm | るぅ1mm |  |  |
 | chirota rochi | チロ田ろち |  |  |
+| pegina | ぺぎな |  | [X](https://x.com/peginazill) [pixiv](https://www.pixiv.net/users/5187015) |
 
 <!--TEMPLATE:
 |  |  |  |  |
