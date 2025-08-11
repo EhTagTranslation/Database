@@ -6549,6 +6549,7 @@ example:
 | violet parr | 巴小倩 |  | [维基百科](https://zh.wikipedia.org/wiki/巴小倩) |
 | yuna | 尤娜 |  | [萌娘百科](https://zh.moegirl.org.cn/尤娜%28最终幻想%29#) |
 | she-hulk | 女浩克 |  |  |
+| manchester | 曼彻斯特 | ![](https://img.moegirl.org.cn/common/1/18/BLHX_manchesite.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的曼彻斯特号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:曼彻斯特#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
