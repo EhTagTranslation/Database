@@ -13900,6 +13900,7 @@ example:
 | anabuki bouhatei | 穴吹防波堤 |  |  |
 | sushizumi | スシズミ |  |  |
 | engawa | えんがわ |  |  |
+| dosukoi annin | どすこい杏仁 |  | [X](https://x.com/soraikuzoooo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
