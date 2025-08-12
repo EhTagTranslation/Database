@@ -13225,6 +13225,7 @@ example:
 | tgcomics | TG Comics |  |  |
 | yoneya | よねや |  |  |
 | tokonatsu sanshouuo | 常夏山椒魚 |  |  |
+| toriaezu milk | とりあえずミルク |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
