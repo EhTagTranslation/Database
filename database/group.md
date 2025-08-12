@@ -13227,6 +13227,7 @@ example:
 | tokonatsu sanshouuo | 常夏山椒魚 |  |  |
 | toriaezu milk | とりあえずミルク |  |  |
 | engawatei | えんがわ亭 |  |  |
+| sankaku batsumaru | 三角罰丸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
