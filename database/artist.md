@@ -13897,6 +13897,7 @@ example:
 | ruuwanmm | るぅ1mm |  |  |
 | chirota rochi | チロ田ろち |  |  |
 | pegina | ぺぎな |  | [X](https://x.com/peginazill) [pixiv](https://www.pixiv.net/users/5187015) |
+| anabuki bouhatei | 穴吹防波堤 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
