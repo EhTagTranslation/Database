@@ -13226,6 +13226,7 @@ example:
 | yoneya | よねや |  |  |
 | tokonatsu sanshouuo | 常夏山椒魚 |  |  |
 | toriaezu milk | とりあえずミルク |  |  |
+| engawatei | えんがわ亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
