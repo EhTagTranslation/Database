@@ -6552,6 +6552,7 @@ example:
 | manchester | 曼彻斯特 | ![](https://img.moegirl.org.cn/common/1/18/BLHX_manchesite.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的曼彻斯特号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:曼彻斯特#) |
 | suffren | 絮弗伦 | ![](https://patchwiki.biligame.com/images/blhx/thumb/9/95/5gxwy16r20g9mh4plxdit853kkpqvch.jpg/525px-絮弗伦立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为法国海军絮弗伦级重巡洋舰一号舰絮弗伦号（French cruiser Suffren）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:絮弗伦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/絮弗伦) |
 | evernight | 长夜月 | 长夜月是《崩坏：星穹铁道》中的一位自机角色。<br>長夜月 | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/长夜月) |
+| ai sorakado | 空门蓝 | 空門藍是由Key製作的遊戲《Summer Pockets》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/0/02/Summer_Pockets-Sorakado_Ai2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空门蓝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
