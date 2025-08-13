@@ -13228,6 +13228,7 @@ example:
 | toriaezu milk | とりあえずミルク |  |  |
 | engawatei | えんがわ亭 |  |  |
 | sankaku batsumaru | 三角罰丸 |  |  |
+| sarasara chazuke | さらさらちゃづけ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
