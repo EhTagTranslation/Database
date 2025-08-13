@@ -13230,6 +13230,7 @@ example:
 | sankaku batsumaru | 三角罰丸 |  |  |
 | sarasara chazuke | さらさらちゃづけ |  |  |
 | bonnou sousaku | 煩悩創作 |  |  |
+| mori no hito | 森の人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
