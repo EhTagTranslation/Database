@@ -13903,6 +13903,7 @@ example:
 | dosukoi annin | どすこい杏仁 |  | [X](https://x.com/soraikuzoooo) |
 | torifune | トリフネ |  | [pixiv](https://www.pixiv.net/users/34011301) \| [X](https://x.com/torifune24) |
 | sacha | さちゃ |  | [pixiv](https://www.pixiv.net/users/111032) |
+| calamity | カラミティ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
