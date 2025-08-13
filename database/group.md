@@ -13232,6 +13232,7 @@ example:
 | bonnou sousaku | 煩悩創作 |  |  |
 | mori no hito | 森の人 |  |  |
 | yuunagi promenade | 夕凪プロムナード |  |  |
+| nekketsu nezumojuku | 熱血ねずも塾 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
