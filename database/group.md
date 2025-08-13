@@ -1247,7 +1247,7 @@ example:
 | kuroneko smith | 黒猫スミス |  |  |
 | rukonosu | 龙虎乃巢 |  |  |
 | samoyedest | サモエデスト |  |  |
-| yuunabe shinkouchuu | 夕锅进行中 |  |  |
+| yuunabe shinkouchuu | 夕锅进行中 | 夕鍋進行中 |  |
 | royal milk | Royalみるく |  |  |
 | nanohanatea | なのはなtea\* |  |  |
 | sound sticker | サウンドステッカー |  |  |
