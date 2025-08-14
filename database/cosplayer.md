@@ -149,6 +149,7 @@ example:
 | mianbing xianer | 面饼仙儿 |  |  |
 | una cosplayer | 角色扮演者 |  |  |
 | fangqiao yepo | 坊桥夜泊 | 坊橋夜泊 |  |
+| jiuqi | 九柒喵 | 中国Cosplayer | [X](https://x.com/jiuqiqiqiqim) |
 
 <!--
 Template: 
