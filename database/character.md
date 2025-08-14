@@ -6554,6 +6554,7 @@ example:
 | evernight | 长夜月 | 长夜月是《崩坏：星穹铁道》中的一位自机角色。<br>長夜月 | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/长夜月) |
 | ai sorakado | 空门蓝 | 空門藍是由Key製作的遊戲《Summer Pockets》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/0/02/Summer_Pockets-Sorakado_Ai2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空门蓝) |
 | tsumugi wenders | 䌷文德斯 | 䌷文德斯（日语：紬 ヴェンダース）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b3/Tsumugi_Wenders1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/䌷文德斯) |
+| gneisenau | 格奈森瑙 | ![](https://img.moegirl.org.cn/common/8/80/BLHX_genaisennao.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为纳粹德国海军的格奈森瑙号战列巡洋舰（Gneisenau (Schiff, 1936)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:格奈森瑙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
