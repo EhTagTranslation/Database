@@ -6556,6 +6556,7 @@ example:
 | tsumugi wenders | 䌷文德斯 | 䌷文德斯（日语：紬 ヴェンダース）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b3/Tsumugi_Wenders1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/䌷文德斯) |
 | gneisenau | 格奈森瑙 | ![](https://img.moegirl.org.cn/common/8/80/BLHX_genaisennao.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为纳粹德国海军的格奈森瑙号战列巡洋舰（Gneisenau (Schiff, 1936)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:格奈森瑙) |
 | albion | 阿尔比恩 | ![](https://img.moegirl.org.cn/common/thumb/0/06/BLHX_aerbien.png/1305px-BLHX_aerbien.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的阿尔比恩号航空母舰（HMS Albion (R07)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:阿尔比恩) |
+| imadake dabuchi tabemi | 现在就吃双层芝士汉堡 | いまだけダブチ食べ美 | [维基百科（日语）](https://ja.wikipedia.org/wiki/いまだけダブチ食べ美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
