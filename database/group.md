@@ -13235,6 +13235,7 @@ example:
 | nekketsu nezumojuku | 熱血ねずも塾 |  |  |
 | yawaraka toge robot | やわらかトゲロボット |  |  |
 | manjuu kowai | まんじゅうこわい |  |  |
+| natto cola | 納豆コーラ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
