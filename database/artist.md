@@ -13906,6 +13906,7 @@ example:
 | calamity | カラミティ |  |  |
 | umiwashi | うみわし |  |  |
 | yuumi | ゆうみ |  | [pixiv](https://www.pixiv.net/users/421971) [X](https://x.com/yuumi_ngcy) |
+| molta | もるた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
