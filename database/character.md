@@ -6559,6 +6559,7 @@ example:
 | imadake dabuchi tabemi | 现在就吃双层芝士汉堡 | いまだけダブチ食べ美 | [维基百科（日语）](https://ja.wikipedia.org/wiki/いまだけダブチ食べ美) |
 | suzumi morizuki | 守月铃美 | 守月铃美是 NEXON Games 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/2/21/BA_Suzumi_ML.png)<br>守月スズミ | [萌娘百科](https://zh.moegirl.org.cn/守月铃美) |
 | shiki kamiyama | 神山识 | 神山识（日语：神山識）是由Key制作的游戏《Summer Pockets REFLECTION BLUE》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/30/Gallery_cg_07_l.png) | [萌娘百科](https://zh.moegirl.org.cn/神山识) |
+| miki nomura | 野村美希 | 野村美希（野村美希）是由Key所制作的《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1c/美希RB.png) | [萌娘百科](https://zh.moegirl.org.cn/野村美希) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
