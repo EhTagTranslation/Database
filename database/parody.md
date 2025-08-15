@@ -2508,6 +2508,7 @@ example:
 | kill blue | 杀手青春 |  | [百度百科](https://baike.baidu.com/item/杀手青春/63365757)<br>[维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 | konohana kitan | 此花绮谭 | このはな綺譚 |  |
 | grisaia phantom trigger | 灰色：幻影扳机 | frontwing灰色系列作品，时间线在灰色的乐园数年后 |  |
+| b-robo kabutack | 铁甲小宝 | 《铁甲小宝》（日文：ビーロボカブタック）是1997年2月23日至1998年3月1日于日本朝日电视台播放的全52集特摄电视剧。该剧是日本金属英雄系列的第16个作品，东映为主要制作方。引进后译名定为铁甲小宝。原设定为“重甲战队系列”第三作，是“金属英雄系列”第1部儿童向特摄剧。 | [维基百科](https://zh.wikipedia.org/wiki/铁甲小宝) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
