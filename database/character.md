@@ -6560,7 +6560,7 @@ example:
 | suzumi morizuki | 守月铃美 | 守月铃美是 NEXON Games 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/2/21/BA_Suzumi_ML.png)<br>守月スズミ | [萌娘百科](https://zh.moegirl.org.cn/守月铃美) |
 | shiki kamiyama | 神山识 | 神山识（日语：神山識）是由Key制作的游戏《Summer Pockets REFLECTION BLUE》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/30/Gallery_cg_07_l.png) | [萌娘百科](https://zh.moegirl.org.cn/神山识) |
 | miki nomura | 野村美希 | 野村美希（野村美希）是由Key所制作的《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1c/美希RB.png) | [萌娘百科](https://zh.moegirl.org.cn/野村美希) |
-| miki nakano | 中野美树 | 《铁甲小宝》中角色。21岁，朝日町的女巡警。最喜欢的食物是糯米丸子。个性无理，散漫。最后辞掉警察工作，回到了乡下。 | [百度百科](https://baike.baidu.com/item/中野美树/64273455) |
+| miki nakano | 中野美树 | ![](https://inews.gtimg.com/om_bt/OSKJG9UBj7RCFngPgvC1i8EuAkOsnD-rqAmJOKDAI9wxIAA/641)<br>《铁甲小宝》中角色。21岁，朝日町的女巡警。最喜欢的食物是糯米丸子。个性无理，散漫。最后辞掉警察工作，回到了乡下。 | [百度百科](https://baike.baidu.com/item/中野美树/64273455) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
