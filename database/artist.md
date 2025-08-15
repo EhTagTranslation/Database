@@ -13905,6 +13905,7 @@ example:
 | sacha | さちゃ |  | [pixiv](https://www.pixiv.net/users/111032) |
 | calamity | カラミティ |  |  |
 | umiwashi | うみわし |  |  |
+| yuumi | ゆうみ |  | [pixiv](https://www.pixiv.net/users/421971) [X](https://x.com/yuumi_ngcy) |
 
 <!--TEMPLATE:
 |  |  |  |  |
