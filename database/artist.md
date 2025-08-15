@@ -6307,7 +6307,7 @@ example:
 | jii | ぢぃ |  |  |
 | jii jii sachira | じーじー☆さちら |  |  |
 | jiji | じじ |  |  |
-| jils | JILS |  |  |
+| jils | JILS | じるす | [pixiv](https://www.pixiv.net/users/430189) |
 | jimi sakita | ジミサキタ |  |  |
 | jimo | じも |  |  |
 | jinbaku-ryuoh | 神爆龍王 |  |  |
