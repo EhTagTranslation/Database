@@ -2509,6 +2509,7 @@ example:
 | konohana kitan | 此花绮谭 | このはな綺譚 |  |
 | grisaia phantom trigger | 灰色：幻影扳机 | frontwing灰色系列作品，时间线在灰色的乐园数年后 |  |
 | b-robo kabutack | 铁甲小宝 | 《铁甲小宝》（日文：ビーロボカブタック）是1997年2月23日至1998年3月1日于日本朝日电视台播放的全52集特摄电视剧。该剧是日本金属英雄系列的第16个作品，东映为主要制作方。引进后译名定为铁甲小宝。原设定为“重甲战队系列”第三作，是“金属英雄系列”第1部儿童向特摄剧。 | [维基百科](https://zh.wikipedia.org/wiki/铁甲小宝) |
+| perfect blue | 未麻的部屋 | ![](https://upload.wikimedia.org/wikipedia/zh/8/8a/Perfect_Blue_ACG.jpg)<br>《未麻的部屋》（日语：パーフェクトブルー，英语：Perfect Blue）是一部由MADHOUSE制作，今敏执导，于1997年8月5日首映的日本心理惊悚动画电影[2][3]，该电影剧情根据竹内义和的小说《Perfect Blue：完全变态》（『パーフェクトブルー 完全変態』）所改编，是今敏执导的首部动画电影，故事讲述偶像团体“CHAM!”中的成员雾越未麻转型为演员所发生的故事。 | [维基百科](https://zh.wikipedia.org/wiki/藍色恐懼) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
