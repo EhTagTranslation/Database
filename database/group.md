@@ -13236,6 +13236,7 @@ example:
 | yawaraka toge robot | やわらかトゲロボット |  |  |
 | manjuu kowai | まんじゅうこわい |  |  |
 | natto cola | 納豆コーラ |  |  |
+| aizuki amagasaten | 藍月雨傘店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
