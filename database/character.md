@@ -6563,6 +6563,7 @@ example:
 | miki nakano | 中野美树 | ![](https://inews.gtimg.com/om_bt/OSKJG9UBj7RCFngPgvC1i8EuAkOsnD-rqAmJOKDAI9wxIAA/641)<br>《铁甲小宝》中角色。21岁，朝日町的女巡警。最喜欢的食物是糯米丸子。个性无理，散漫。最后辞掉警察工作，回到了乡下。 | [百度百科](https://baike.baidu.com/item/中野美树/64273455) |
 | mima kirigoe | 雾越未麻 | 《未麻的部屋》中心人物，出生于山口县，在家中饲养热带鱼当作宠物。<br>原本是偶像团体“CHAM！”的成员之一，在活跃了两年，但在办公室的决策下单飞，转行演员之路。 | [维基百科](https://zh.wikipedia.org/wiki/藍色恐懼) |
 | cerydra | 刻律德菈 | 刻律德菈是《崩坏：星穹铁道》中的一位可游玩角色。 原黄金裔 第一次逐火之旅召集人 第二位半神 | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/刻律德菈) |
+| hysilens | 海瑟音 | 海瑟音是《崩壞：星穹鐵道》中的一位可遊玩角色。<br>hysilens<br>![](https://static.wikia.nocookie.net/honkai-star-rail/images/d/d3/角色_海瑟音_遊戲立繪.png/revision/latest/scale-to-width-down/1000?cb=20250701033844&path-prefix=zh) | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/海瑟音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
