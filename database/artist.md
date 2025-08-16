@@ -13913,6 +13913,7 @@ example:
 | aizuki kaname | 藍月要 |  |  |
 | shimizu daigorou | 純水大五郎 |  |  |
 | sumi kichi | 角角吉 | sumi kichi |  |
+| asla | アスラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
