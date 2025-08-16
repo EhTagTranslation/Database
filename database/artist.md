@@ -13911,6 +13911,7 @@ example:
 | kyutai x | 球体-x |  |  |
 | shinkoui | 杏行为 | シン行為 | [pixiv](https://www.pixiv.net/users/40716915) |
 | aizuki kaname | 藍月要 |  |  |
+| shimizu daigorou | 純水大五郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
