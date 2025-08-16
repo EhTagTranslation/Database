@@ -13238,6 +13238,7 @@ example:
 | natto cola | 納豆コーラ |  |  |
 | aizuki amagasaten | 藍月雨傘店 |  |  |
 | sin mal-chan doukoukai | シン·マールちゃん同好会 |  |  |
+| happy mayonnaise | ハッピーマヨネーズ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
