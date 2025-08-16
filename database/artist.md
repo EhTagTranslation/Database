@@ -13909,6 +13909,7 @@ example:
 | molta | もるた |  |  |
 | tatanpo | たたんぽ |  |  |
 | kyutai x | 球体-x |  |  |
+| shinkoui | 杏行为 | シン行為 | [pixiv](https://www.pixiv.net/users/40716915) |
 
 <!--TEMPLATE:
 |  |  |  |  |
