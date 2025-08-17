@@ -13915,6 +13915,7 @@ example:
 | sumi kichi | 角角吉 | sumi kichi |  |
 | asla | アスラ |  |  |
 | nasubi ninja | なすびニンジャ |  |  |
+| dk. senie | Dκ. Senie |  | [pixiv](https://www.pixiv.net/users/2306287) |
 
 <!--TEMPLATE:
 |  |  |  |  |
