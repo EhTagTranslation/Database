@@ -8551,7 +8551,7 @@ example:
 | narukami x | 鳴神X |  |  |
 | narumi | ナルみ |  |  |
 | narumi meiko | 鳴海鳴子 |  |  |
-| narumi yuu | 鸣海优 | 鳴海ゆう |  |
+| narumi yuu | 成海优 | 成海優，区别于narumi yu(鳴海ゆう)，请勿混淆。 | [pixiv](https://www.pixiv.net/users/17695) |
 | narusawa aya | 鳴沢綾 |  |  |
 | narusawa sora | 成沢 空 |  |  |
 | naruse | なるせ |  |  |
