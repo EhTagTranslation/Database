@@ -13914,6 +13914,7 @@ example:
 | shimizu daigorou | 純水大五郎 |  |  |
 | sumi kichi | 角角吉 | sumi kichi |  |
 | asla | アスラ |  |  |
+| nasubi ninja | なすびニンジャ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
