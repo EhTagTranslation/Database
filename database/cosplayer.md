@@ -154,6 +154,7 @@ example:
 | nyako | Nyako喵子 |  |  |
 | hachi | Hachi小芭 |  |  |
 | umeko j | Umeko J |  |  |
+| arashi heartgramm | Arashi Heartgramm |  |  |
 
 <!--
 Template: 
