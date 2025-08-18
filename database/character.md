@@ -6576,6 +6576,7 @@ example:
 | rakshasi | 铁扇公主 |  |  |
 | professor oak | 大木博士 |  |  |
 | vanellope von schweetz | 云妮洛普·凡史威兹 |  |  |
+| taffyta muttonfudge | 太妃糖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
