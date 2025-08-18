@@ -2513,6 +2513,7 @@ example:
 | wreck it ralph | 无敌破坏王 |  |  |
 | ruby gillman teenage kraken | 变身吉妹 |  |  |
 | clarence | 我爱阿噗 |  |  |
+| elden ring nightreign | 艾尔登法环黑夜君临 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
