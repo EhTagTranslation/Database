@@ -2437,7 +2437,7 @@ example:
 | shirabe shiki | 調四季 |  |  |
 | kobuichi | 小舞一 | 小舞一（こぶいち）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的梦璃凛画风极其相似（柚子脸元凶）。 | [X](https://x.com/kobuichi) |
 | yaneko uta | 弥猫うた |  | [pixiv](https://www.pixiv.net/users/10594960) [X](https://x.com/atu_okenay) |
-| kirisaki byakko | 雾咲白狐 |  |  |
+| kirisaki byakko | 雾咲白狐 |  | [pixiv](https://www.pixiv.net/users/147437) |
 | bareisho | 马铃薯 | ![X](https://pbs.twimg.com/profile_images/1337775408142422018/TMWrGbvL_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/ba_reisho) [HP](https://bareishobatake.wixsite.com/oimobatake) |
 | wakadori nikomi | 若鶏にこみ |  |  |
 | shikitani asuka | 色谷あすか |  | [X](https://x.com/sikitani_asuka) [pixiv](https://www.pixiv.net/users/3188698) |
