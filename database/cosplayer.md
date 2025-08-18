@@ -150,6 +150,7 @@ example:
 | una cosplayer | 角色扮演者 |  |  |
 | fangqiao yepo | 坊桥夜泊 | 坊橋夜泊 |  |
 | jiuqi | 九柒喵 | 中国Cosplayer | [X](https://x.com/jiuqiqiqiqim) |
+| blacqkl | 白莉爱吃巧克力 |  |  |
 
 <!--
 Template: 
