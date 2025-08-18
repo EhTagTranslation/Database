@@ -6579,6 +6579,7 @@ example:
 | taffyta muttonfudge | 太妃糖 |  |  |
 | massachusetts | 马萨诸塞 | ![](https://img.moegirl.org.cn/common/thumb/8/82/BLHX_masazhusai.png/1255px-BLHX_masazhusai.png)<br>《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型为美国海军南达科他级战列舰三号舰马萨诸塞号（USS Massachusetts (BB-59)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:马萨诸塞) |
 | kongiku | 绀菊 |  |  |
+| okoi | 阿恋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
