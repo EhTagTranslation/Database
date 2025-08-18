@@ -2512,6 +2512,7 @@ example:
 | perfect blue | 未麻的部屋 | ![](https://upload.wikimedia.org/wikipedia/zh/8/8a/Perfect_Blue_ACG.jpg)<br>《未麻的部屋》（日语：パーフェクトブルー，英语：Perfect Blue）是一部由MADHOUSE制作，今敏执导，于1997年8月5日首映的日本心理惊悚动画电影[2][3]，该电影剧情根据竹内义和的小说《Perfect Blue：完全变态》（『パーフェクトブルー 完全変態』）所改编，是今敏执导的首部动画电影，故事讲述偶像团体“CHAM!”中的成员雾越未麻转型为演员所发生的故事。 | [维基百科](https://zh.wikipedia.org/wiki/藍色恐懼) |
 | wreck it ralph | 无敌破坏王 |  |  |
 | ruby gillman teenage kraken | 变身吉妹 |  |  |
+| clarence | 我爱阿噗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
