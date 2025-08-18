@@ -13916,6 +13916,7 @@ example:
 | asla | アスラ |  |  |
 | nasubi ninja | なすびニンジャ |  |  |
 | dk. senie | Dκ. Senie |  | [pixiv](https://www.pixiv.net/users/2306287) |
+| monota | ものた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
