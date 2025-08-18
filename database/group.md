@@ -13240,6 +13240,7 @@ example:
 | sin mal-chan doukoukai | シン·マールちゃん同好会 |  |  |
 | happy mayonnaise | ハッピーマヨネーズ |  |  |
 | echie kokufuku aka | えち絵克服アカ |  |  |
+| shirokujichu | 白九時中 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
