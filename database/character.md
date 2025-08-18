@@ -6571,6 +6571,7 @@ example:
 | squidward tentacles | 章鱼哥 |  |  |
 | pearl krabs | 珍珍 |  |  |
 | man ray | 射线恶魔 |  |  |
+| pingping | 萍萍 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
