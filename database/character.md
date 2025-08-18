@@ -6568,6 +6568,7 @@ example:
 | narciso anasui | 纳鲁西索·安纳苏 | 纳鲁西索·安纳苏（日语：ナルシソ・アナスイ；英语：Narciso Anasui）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b4/Chara_Pos_Anasui.png) | [萌娘百科](https://zh.moegirl.org.cn/纳鲁西索·安纳苏) |
 | patrick star | 派大星 |  |  |
 | karen | 凯伦 |  |  |
+| squidward tentacles | 章鱼哥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
