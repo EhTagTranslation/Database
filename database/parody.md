@@ -2514,6 +2514,7 @@ example:
 | ruby gillman teenage kraken | 变身吉妹 |  |  |
 | clarence | 我爱阿噗 |  |  |
 | elden ring nightreign | 艾尔登法环黑夜君临 |  |  |
+| black survival | 黑色幸存者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
