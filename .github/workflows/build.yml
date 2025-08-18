@@ -73,7 +73,7 @@ jobs:
           body: ${{ env.RELEASE_BODY }}
           token: ${{ env.APP_TOKEN }}
           commit: ${{ github.sha }}
-          tag: ${{ format('v6.{0}.{1}', github.run_number, github.run_attempt) }}
+          tag: ${{ format('v7.{0}.{1}', github.run_number, github.run_attempt) }}
       - name: Clean releases
         if: ${{ !env.SKIP }}
         env:
