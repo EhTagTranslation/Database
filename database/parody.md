@@ -2515,6 +2515,7 @@ example:
 | clarence | 我爱阿噗 |  |  |
 | elden ring nightreign | 艾尔登法环黑夜君临 |  |  |
 | black survival | 黑色幸存者 |  |  |
+| ruri no houseki | 琉璃的宝石 |  | [维基百科](https://zh.wikipedia.org/wiki/琉璃的寶石) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
