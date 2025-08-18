@@ -13918,6 +13918,7 @@ example:
 | dk. senie | Dκ. Senie |  | [pixiv](https://www.pixiv.net/users/2306287) |
 | monota | ものた |  |  |
 | microa | Microa |  |  |
+| irokohaku | 色琥珀 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
