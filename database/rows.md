@@ -11,6 +11,7 @@ rules:
 | female | 女性 | 女性角色相关的恋物标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/female.md) |
 | male | 男性 | 男性角色相关的恋物标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/male.md) |
 | mixed | 混合 | 两性/中性的恋物标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/mixed.md) |
+| location | 地点 | 与性行为相关的场景。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/location.md) |
 | language | 语言 | 作品的语言。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/language.md) |
 | other | 其他 | 经过确认的技术标签。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/other.md) |
 | group | 团队 | 制作社团或公司。 | [数据库页面](https://github.com/EhTagTranslation/Database/blob/master/database/group.md) |

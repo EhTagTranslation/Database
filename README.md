@@ -10,6 +10,7 @@
 [![female](https://img.shields.io/endpoint?color=deeppink&url=https://ehtt.fly.dev/database/female/~badge)](https://ehtt.vercel.app/list/female)
 [![male](https://img.shields.io/endpoint?color=slateblue&url=https://ehtt.fly.dev/database/male/~badge)](https://ehtt.vercel.app/list/male)
 [![mixed](https://img.shields.io/endpoint?color=maroon&url=https://ehtt.fly.dev/database/mixed/~badge)](https://ehtt.vercel.app/list/mixed)
+[![location](https://img.shields.io/endpoint?color=forestgreen&url=https://ehtt.fly.dev/database/location/~badge)](https://ehtt.vercel.app/list/location)
 [![language](https://img.shields.io/endpoint?color=deepskyblue&url=https://ehtt.fly.dev/database/language/~badge)](https://ehtt.vercel.app/list/language)
 [![other](https://img.shields.io/endpoint?color=lightgray&url=https://ehtt.fly.dev/database/other/~badge)](https://ehtt.vercel.app/list/other)
 [![group](https://img.shields.io/endpoint?color=darkkhaki&url=https://ehtt.fly.dev/database/group/~badge)](https://ehtt.vercel.app/list/group)
@@ -51,7 +52,7 @@
 
 - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/EhViewer-NekoInverter/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  🥥 EhViewer-NekoInverter [白E]
+  🥥 EhViewer-NekoInverter [白 E]
 
 - [EhViewer Mod version by Epix](https://github.com/exzhawk/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/exzhawk/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
@@ -59,7 +60,7 @@
 
 - [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  EhViewer_CN_SXJ [绿E]
+  EhViewer_CN_SXJ [绿 E]
 
 - [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
@@ -76,7 +77,6 @@
 - [EhDatabase2Dictionary](https://github.com/HeavySnowJakarta/EhDatabase2Dictionary)  
   ![Python][plat-python] ![GitHub Release Date](https://img.shields.io/github/release-date/HeavySnowJakarta/EhDatabase2Dictionary?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   将 EhTagTranslation 项目的成果转换为 MDict 等各种格式的词典。
-  
 - [FEhViewer](https://github.com/3003h/FEhViewer)  
   ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/3003h/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个由 Flutter 编写的阅读器，支持直连。
@@ -103,16 +103,16 @@
   An Unofficial E-Hentai Application for Android.
 
 - [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
- ![Android][plat-android]  
- An E-Hentai Application for Android.
+  ![Android][plat-android]  
+  An E-Hentai Application for Android.
 
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  EhViewer overhauled with Material Design 3 and more.  
+  EhViewer overhauled with Material Design 3 and more.
 
 - [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
-  ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
+ ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+ 一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 </details>
 
 ## 开发指南
