@@ -6572,6 +6572,7 @@ example:
 | pearl krabs | 珍珍 |  |  |
 | man ray | 射线恶魔 |  |  |
 | pingping | 萍萍 |  |  |
+| kang-jin star | 亢金龙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
