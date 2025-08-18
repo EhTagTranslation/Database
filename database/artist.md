@@ -548,7 +548,7 @@ example:
 | makuwauni | まくわうに |  |  |
 | seki | 赤 |  |  |
 | monorino | モノリノ |  |  |
-| tomohiro kai | 智弘カイ |  | [X](https://x.com/kai_tomohiro) [pixiv](https://www.pixiv.net/users/2960453) |
+| tomohiro kai | 智弘カイ | ![X](https://pbs.twimg.com/profile_images/1764527712616820736/38qsPUja_400x400.jpg)<br><br>**作者X头像**<br>同人社团`ink complex` 主笔画师，《COMIC快乐天BEAST》杂志作者。 | [X](https://x.com/kai_tomohiro) [pixiv](https://www.pixiv.net/users/2960453) |
 | kuribayashi chris | 栗林クリス |  |  |
 | nagai wataru | 长井わたる |  |  |
 | suzuhane suzu | すずはねすず |  |  |
