@@ -152,6 +152,7 @@ example:
 | jiuqi | 九柒喵 | 中国Cosplayer | [X](https://x.com/jiuqiqiqiqim) |
 | blacqkl | 白莉爱吃巧克力 |  |  |
 | nyako | Nyako喵子 |  |  |
+| hachi | Hachi小芭 |  |  |
 
 <!--
 Template: 
