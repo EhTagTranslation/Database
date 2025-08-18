@@ -6569,6 +6569,7 @@ example:
 | patrick star | 派大星 |  |  |
 | karen | 凯伦 |  |  |
 | squidward tentacles | 章鱼哥 |  |  |
+| pearl krabs | 珍珍 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
