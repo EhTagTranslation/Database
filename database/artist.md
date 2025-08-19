@@ -13920,6 +13920,7 @@ example:
 | microa | Microa |  |  |
 | irokohaku | 色琥珀 |  |  |
 | shake chazuke | しゃけちゃづけ |  |  |
+| ishinose | イシノセ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
