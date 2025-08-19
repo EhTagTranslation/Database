@@ -13921,6 +13921,7 @@ example:
 | irokohaku | 色琥珀 |  |  |
 | shake chazuke | しゃけちゃづけ |  |  |
 | ishinose | イシノセ |  |  |
+| soda mizu | そーだみず |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
