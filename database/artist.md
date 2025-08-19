@@ -13919,6 +13919,7 @@ example:
 | monota | ものた |  |  |
 | microa | Microa |  |  |
 | irokohaku | 色琥珀 |  |  |
+| shake chazuke | しゃけちゃづけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
