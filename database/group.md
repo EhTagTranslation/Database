@@ -13242,6 +13242,7 @@ example:
 | echie kokufuku aka | えち絵克服アカ |  |  |
 | shirokujichu | 白九時中 |  |  |
 | kairaku | 快楽 |  |  |
+| petra-beta | Petra-β |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
