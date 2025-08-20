@@ -6581,6 +6581,7 @@ example:
 | kongiku | 绀菊 |  |  |
 | okoi | 阿恋 |  |  |
 | tomoe sashiro | 佐城智惠 | 佐城智惠是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/e/ec/BA_Tomoe-ml.png)<br>佐城トモエ | [萌娘百科](https://zh.moegirl.org.cn/佐城智惠) |
+| chien wu | 建武 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/72/3jqi0phcnuyb6q3yvq2epruty2riede.jpg/525px-建武立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:建武) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
