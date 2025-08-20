@@ -11,6 +11,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
       - id: app-token
         uses: actions/create-github-app-token@v2
         with:
