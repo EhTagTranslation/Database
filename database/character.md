@@ -4608,7 +4608,7 @@ example:
 | lysithea von cordelia | 莉丝缇亚·冯·科迪利亚 | 所属作品: `p:fire emblem three houses`<br><br>同盟科迪利亚伯爵家的嫡女。在本届入学学生中年龄最小，只有15岁。擅长魔法，是早熟的天才魔法少女，并且毫不骄傲，而是更加努力。她很讨厌被别人当作小孩子看待，不过经常透露出孩子气的一面。<br><br>![](https://static.wikia.nocookie.net/fireemblem/images/d/d5/Lysithea_Heroes.png) | [Fandom](https://fireemblem.fandom.com/wiki/Lysithea) |
 | tamako kitashirakawa | 北白川玉子 | 所属作品: `p:tamako market` | [萌娘百科](https://zh.moegirl.org.cn/北白川玉子) |
 | ui tamaki | 环羽衣 |  |  |
-| shigure mayoi | 间宵时雨 | 游戏`p:blue archive`角色，由于向配给食物加入可疑成分而被赤冬联邦学园发配到227号特别班。不知为何，大家喝完她做的果汁总会变得醉醺醺的。 | [https://ba.gamekee.com/577249.html](https://ba.gamekee.com/577249.html) |
+| shigure mayoi | 间宵时雨 | 游戏`p:blue archive`角色，由于向配给食物加入可疑成分而被赤冬联邦学园发配到227号特别班。不知为何，大家喝完她做的果汁总会变得醉醺醺的。 | [蔚蓝档案WIKI](https://ba.gamekee.com/577249.html) |
 | inori ichinose | 一之濑祈梨 | 所属作品: `p:princess connect`<br><br>![](https://static.wikia.nocookie.net/princess-connect/images/c/c1/Inori-astrum-sprite-normal.png) | [萌娘百科](https://zh.moegirl.org.cn/一之濑祈梨) [Fandom](https://princess-connect.fandom.com/wiki/Inori) |
 | natsumi hodaka | 帆高夏海 | 帆高夏海（日语：帆高（ほだか）夏海（なつみ））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆高夏海) |
 | hina tsurugi | 鹤木阳渚 | 鹤木阳渚（日语：鶴木（つるぎ）陽渚（ひな））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鹤木阳渚) |
