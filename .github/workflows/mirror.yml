@@ -24,3 +24,4 @@ jobs:
           github_token: ${{ steps.app-token.outputs.token }}
           force: true
           repository: EhTagTranslation/DatabaseReleases
+          branch: master
