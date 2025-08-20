@@ -13243,6 +13243,7 @@ example:
 | shirokujichu | 白九時中 |  |  |
 | kairaku | 快楽 |  |  |
 | petra-beta | Petra-β |  |  |
+| ray-raw | Ray-Raw |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
