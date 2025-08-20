@@ -1,0 +1,24 @@
+name: mirror
+
+on:
+  push:
+    branches:
+      - release
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+      - id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_KEY }}
+      - name: Push release mirror repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ steps.app-token.outputs.token }}
+          force: true
+          repository: EhTagTranslation/DatabaseReleases

@@ -48,23 +48,6 @@ jobs:
             echo "::warning::已经有新的版本提交，取消发布"
             echo "SKIP=true" >> $GITHUB_ENV
           fi
-      - name: Create token
-        if: ${{ github.repository == 'EhTagTranslation/Database' && !env.SKIP }}
-        env:
-          APP_ID: ${{ secrets.APP_ID }}
-          APP_KEY: ${{ secrets.APP_KEY }}
-          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
-          APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
-          APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
-        run: node --enable-source-maps tool github-actions generate-token --env=APP_TOKEN
-      - name: Push release mirror repo
-        uses: ad-m/github-push-action@master
-        if: ${{ github.repository == 'EhTagTranslation/Database' && !env.SKIP }}
-        with:
-          github_token: ${{ env.APP_TOKEN }}
-          force: true
-          directory: ./publish
-          repository: EhTagTranslation/DatabaseReleases
       - name: Push release mirror branch
         uses: ad-m/github-push-action@master
         if: ${{ !env.SKIP }}
