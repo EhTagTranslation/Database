@@ -13924,6 +13924,7 @@ example:
 | vierzeck | Vierzeck |  |  |
 | yzr | YZR |  | [pixiv](https://www.pixiv.net/users/8164124)<br>[FANBOX](https://yzr.fanbox.cc/)<br>[X](https://x.com/YZR_99) |
 | fuya | Fuya |  | [pixiv](https://www.pixiv.net/users/1334928) |
+| loooyd | Loooyd |  | [pixiv](https://www.pixiv.net/users/16725499)<br>[X](https://x.com/LoooydArt) |
 
 <!--TEMPLATE:
 |  |  |  |  |
