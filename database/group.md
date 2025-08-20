@@ -13245,6 +13245,7 @@ example:
 | petra-beta | Petra-β |  |  |
 | ray-raw | Ray-Raw |  |  |
 | paiwohasa-mu | パイオハサーム |  |  |
+| q doujin | Q同人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
