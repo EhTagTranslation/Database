@@ -13244,6 +13244,7 @@ example:
 | kairaku | 快楽 |  |  |
 | petra-beta | Petra-β |  |  |
 | ray-raw | Ray-Raw |  |  |
+| paiwohasa-mu | パイオハサーム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
