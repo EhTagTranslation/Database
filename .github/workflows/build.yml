@@ -70,3 +70,26 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node --enable-source-maps tool github-actions delete-releases
+
+  mirror:
+    runs-on: ubuntu-latest
+    if: ${{ github.repository == 'EhTagTranslation/Database' }}
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: release
+          persist-credentials: false
+      - id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_KEY }}
+          repositories: DatabaseReleases
+      - name: Push release mirror repo
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ steps.app-token.outputs.token }}
+          force: true
+          repository: EhTagTranslation/DatabaseReleases
+          branch: master
