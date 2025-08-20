@@ -1,9 +1,8 @@
 name: mirror
 
 on:
-  push:
-    branches:
-      - release
+  release:
+    types: [published]
 
 jobs:
   build:
@@ -12,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
+          ref: release
           persist-credentials: false
       - id: app-token
         uses: actions/create-github-app-token@v2
