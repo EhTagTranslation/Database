@@ -6585,6 +6585,7 @@ example:
 | sindel | 辛黛尔 |  |  |
 | mileena | 美莲娜 |  |  |
 | cassie cage | 凯西・凯吉 |  |  |
+| sonya blade | 索尼娅・布雷德 | 刀锋索尼娅 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
