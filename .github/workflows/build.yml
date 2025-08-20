@@ -48,6 +48,15 @@ jobs:
             echo "::warning::已经有新的版本提交，取消发布"
             echo "SKIP=true" >> $GITHUB_ENV
           fi
+      - name: Upload release
+        uses: ncipollo/release-action@v1.18.0
+        if: ${{ !env.SKIP }}
+        with:
+          artifacts: ./publish/*
+          name: ${{ env.RELEASE_NAME }}
+          body: ${{ env.RELEASE_BODY }}
+          commit: ${{ github.sha }}
+          tag: ${{ format('v7.{0}.{1}', github.run_number, github.run_attempt) }}
       - name: Create token
         if: ${{ github.repository == 'EhTagTranslation/Database' && !env.SKIP }}
         env:
@@ -73,15 +82,6 @@ jobs:
           directory: ./publish
           repository: ${{ github.repository }}
           branch: release
-      - name: Upload release
-        uses: ncipollo/release-action@v1.18.0
-        if: ${{ !env.SKIP }}
-        with:
-          artifacts: ./publish/*
-          name: ${{ env.RELEASE_NAME }}
-          body: ${{ env.RELEASE_BODY }}
-          commit: ${{ github.sha }}
-          tag: ${{ format('v7.{0}.{1}', github.run_number, github.run_attempt) }}
       - name: Clean releases
         if: ${{ !env.SKIP }}
         env:
