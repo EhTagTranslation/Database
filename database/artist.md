@@ -13926,6 +13926,7 @@ example:
 | fuya | Fuya |  | [pixiv](https://www.pixiv.net/users/1334928) |
 | loooyd | Loooyd |  | [pixiv](https://www.pixiv.net/users/16725499)<br>[X](https://x.com/LoooydArt) |
 | kisaragi tyuta | 如月宙太 |  |  |
+| penguinteatea | PenguinTeaTea |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
