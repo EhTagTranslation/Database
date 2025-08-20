@@ -13922,6 +13922,7 @@ example:
 | shake chazuke | しゃけちゃづけ |  |  |
 | ishinose | イシノセ |  |  |
 | soda mizu | そーだみず |  |  |
+| vierzeck | Vierzeck |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
