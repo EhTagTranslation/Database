@@ -76,4 +76,6 @@ jobs:
           tag: ${{ format('v7.{0}.{1}', github.run_number, github.run_attempt) }}
       - name: Clean releases
         if: ${{ !env.SKIP }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node --enable-source-maps tool github-actions delete-releases
