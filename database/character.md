@@ -4418,7 +4418,7 @@ example:
 | yggdrasil | 尤格多拉希尔 |  |  |
 | otome arisugawa | 有栖川乙女 | 所属作品: `p:aikatsu`<br>![](https://static.wikia.nocookie.net/all-aikatsu/images/c/ce/Otome_torte_final.png) | [萌娘百科](https://zh.moegirl.org.cn/有栖川乙女) [Fandom](https://all-aikatsu.fandom.com/wiki/Otome_Arisugawa) |
 | luo tianyi | 洛天依 |  |  |
-| sensei | 老师 | [碧蓝档案](https://zh.moegirl.org.cn/蔚蓝档案)玩家自己，即故事中的男主。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
+| sensei | 老师 | `p:blue archive`玩家自己，即故事中的男主。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
 | azuma seren | 东雪莲 |  |  |
 | yaoyao | 瑶瑶 | 瑶瑶（英语：yaoyao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/52/瑶瑶.jpg) | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
 | monika | 莫妮卡 | 所属作品: `p:granblue fantasy`<br>![](https://p.sda1.dev/21/8f8814663ecd7ded1eb04c9b939fd985/image.png)<br><br>所属作品: `p:doki doki literature club`<br>![](https://p.sda1.dev/21/be4b908a441a0ac3d5c4b89b1f554a0b/image.png)<br>**唯一**女主角 | [莫妮卡(碧蓝幻想)](https://gbf.wiki/Monika)<br>[莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
