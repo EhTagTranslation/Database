@@ -6,9 +6,8 @@ on:
     types: [published]
 
 jobs:
-  build:
+  mirror:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v5
         with:
@@ -19,6 +18,7 @@ jobs:
         with:
           app-id: ${{ secrets.APP_ID }}
           private-key: ${{ secrets.APP_KEY }}
+          repositories: DatabaseReleases
       - name: Push release mirror repo
         uses: ad-m/github-push-action@master
         with:
