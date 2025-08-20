@@ -6584,6 +6584,7 @@ example:
 | chien wu | 建武 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/72/3jqi0phcnuyb6q3yvq2epruty2riede.jpg/525px-建武立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:建武) |
 | sindel | 辛黛尔 |  |  |
 | mileena | 美莲娜 |  |  |
+| cassie cage | 凯西・凯吉 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
