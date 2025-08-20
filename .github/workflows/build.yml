@@ -74,6 +74,7 @@ jobs:
   mirror:
     runs-on: ubuntu-latest
     if: ${{ github.repository == 'EhTagTranslation/Database' }}
+    needs: build
 
     steps:
       - uses: actions/checkout@v5
