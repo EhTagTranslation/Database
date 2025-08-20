@@ -4941,7 +4941,7 @@ example:
 | yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [灰机wiki](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://zh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
 | fine motion | 美妙姿势 | ![](https://moegirl.icu/media/thumb/UPDCH_FineMotion_00.png/580px-UPDCH_FineMotion_00.png)<br>美妙姿势是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为于爱尔兰出生的纯血竞赛马匹ファインモーション（Fine Motion）。 | [萌娘百科](https://moegirl.icu/美妙姿势) |
 | air groove | 气槽 | ![](https://moegirl.icu/media/thumb/UPDCH_AirGroove_00.png/580px-UPDCH_AirGroove_00.png)<br>气槽是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹エアグルーヴ（Air Groove）。 | [萌娘百科](https://moegirl.icu/气槽) |
-| matikane tannhauser | 待兼诗歌剧 | ![](https://moegirl.icu/media/thumb/UPDCH_Matikanetannhauser_00.png/580px-UPDCH_Matikanetannhauser_00.png)<br>待兼诗歌剧是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネタンホイザ（Matikanetannhauser）。 | [萌娘百科](https://moegirl.icu/待兼诗歌剧) |
+| matikanetannhauser | 待兼诗歌剧 | ![](https://moegirl.icu/media/thumb/UPDCH_Matikanetannhauser_00.png/580px-UPDCH_Matikanetannhauser_00.png)<br>待兼诗歌剧是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹マチカネタンホイザ（Matikanetannhauser）。 | [萌娘百科](https://moegirl.icu/待兼诗歌剧) |
 | ash ketchum | 小智 | 小智（日文︰サトシ，英文︰Ash Ketchum）所属作品:`p:pokemon` 是宝可梦动画中宝可梦至宝可梦 旅途的主角，他是一位梦想成为宝可梦大师的十岁少年。<br>![图](https://s1.52poke.wiki/wiki/thumb/e/ee/SS_小智.png/150px-SS_小智.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/小智（动画）) |
 | jirachi | 基拉祈 | 基拉祈（日文︰ジラーチ，英文︰Jirachi）是钢属性／超能力属性幻之宝可梦。<br>拥有类似星星的外型，背部有两条形似布的构造，腹部有类似眼睛的器官。星角末端有蓝绿色方形构造。眼睛下方有蓝绿色三角形纹路。<br>![图](https://s1.52poke.wiki/wiki/thumb/8/85/385Jirachi.png/300px-385Jirachi.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/基拉祈) |
 | mew | 梦幻 | 梦幻（日文︰ミュウ，英文︰Mew）是超能力属性幻之宝可梦<br>外表像一只粉红色小猫，尾长约为身高的两倍，尾尖为橄榄形。蓝色的大眼睛呈三角形。<br>![图](https://media.52poke.com/wiki/thumb/b/b1/151Mew.png/600px-151Mew.png?20230613115515) | [神奇宝贝百科](https://wiki.52poke.com/wiki/梦幻) |
@@ -5668,7 +5668,7 @@ example:
 | fauna | 塞莱希·法娜 |  |  |
 | momo ayase | 绫濑桃 | 绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f7039b56a9b41ffa513d27976898?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/绫濑桃/63774516) |
 | andrew graves | 安德鲁·格雷夫斯 | 《安迪和莱利的棺材》中男主角，阿什利·格雷夫斯的哥哥 |  |
-| mrs. graves | 格雷夫斯太太 | 《安迪和莱利的棺材》中兄妹的母亲 |  |
+| renee graves | 蕾妮·格雷夫斯 | 《安迪和莱利的棺材》中兄妹的母亲 |  |
 | ashley graves | 阿什利·格雷夫斯 | 《安迪和莱利的棺材》中的女主，安德鲁·格雷夫斯的妹妹 |  |
 | greythroat | 灰喉 | 【代号】灰喉<br>【性别】女<br>【战斗经验】三年<br>【出身地】未公开<br>【生日】11月14日<br>【种族】黎博利<br>【身高】162cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者 | [https://prts.wiki/w/灰喉](https://prts.wiki/w/灰喉) |
 | pepe | 佩佩 | 【代号】佩佩<br>【性别】女<br>【战斗经验】三年<br>【出身地】萨尔贡<br>【生日】6月12日<br>【种族】菲林<br>【身高】155cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者。 | [https://prts.wiki/w/佩佩](https://prts.wiki/w/佩佩) |

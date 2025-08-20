@@ -8975,7 +8975,6 @@ example:
 | ohtsuki suzuki | 大槻涼樹 |  |  |
 | oimo | おいも |  |  |
 | oimori yura | 及森ゆうら |  |  |
-| oimoto jirou | おいもとじろう |  |  |
 | ojii | おじい |  |  |
 | ojii-chan | おじいちゃん |  |  |
 | okabayashi beru | 岡林べる |  |  |
@@ -10450,7 +10449,7 @@ example:
 | suzumiya kiriha | 鈴宮きりは |  |  |
 | suzumori uina | 鈴森ういな |  |  |
 | suzune rai | 鈴根らい |  |  |
-| suzune yuuji | 鈴音ゆうじ \| おいもとじろう |  |  |
+| suzune yuuji | 鈴音ゆうじ（おいもとじろう） |  |  |
 | suzunokei | スズノケイ |  |  |
 | suzunomoku | すずのもく |  |  |
 | suzurame | スズラメ |  |  |
