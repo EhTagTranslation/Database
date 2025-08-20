@@ -3433,7 +3433,7 @@ example:
 | takama | 高天 |  | [pixiv](https://www.pixiv.net/users/54645875) |
 | pesshin | ペッシン |  | [pixiv](https://www.pixiv.net/users/4143710/) |
 | tomatojigoku | とまとじごく |  |  |
-| midori | みどり |  |  |
+| midori | みどり |  | [pixiv](https://www.pixiv.net/users/76139) [X](https://x.com/midori14) |
 | ponponmaru | ぽんぽんまる |  | [pixiv](https://www.pixiv.net/users/1532605) |
 | hame dragon | ハメドラゴン |  |  |
 | ziran | ZIRAN |  |  |
