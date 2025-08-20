@@ -703,7 +703,7 @@ example:
 | the big o | 魅影巨神 |  |  |
 | the lion king | 狮子王 |  |  |
 | frozen | 冰雪奇缘 |  |  |
-| mortal kombat | 格斗之王 |  |  |
+| mortal kombat | 真人快打 | 新加坡译《铁汉斗拳魔》，台湾译《魔宫帝国》，电影译作《格斗之王》 |  |
 | aladdin | 阿拉丁 |  |  |
 | the little mermaid | 小美人鱼 |  |  |
 | atlantis the lost empire | 亚特兰蒂斯：失落的帝国 |  |  |
