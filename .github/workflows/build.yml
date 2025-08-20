@@ -39,15 +39,6 @@ jobs:
         run: node --enable-source-maps tool github-actions set-release-note --mirror-sha '${{ env.MIRROR_SHA }}'
 
       # publish releases
-      - name: Create token
-        if: ${{ github.repository == 'EhTagTranslation/Database' }}
-        env:
-          APP_ID: ${{ secrets.APP_ID }}
-          APP_KEY: ${{ secrets.APP_KEY }}
-          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
-          APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
-          APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
-        run: node --enable-source-maps tool github-actions generate-token --env=APP_TOKEN
       - name: Check latest
         run: |
           LATEST_SHA=$(git ls-remote origin master | cut -f1)
@@ -57,7 +48,16 @@ jobs:
             echo "::warning::已经有新的版本提交，取消发布"
             echo "SKIP=true" >> $GITHUB_ENV
           fi
-      - name: Push release mirror
+      - name: Create token
+        if: ${{ github.repository == 'EhTagTranslation/Database' && !env.SKIP }}
+        env:
+          APP_ID: ${{ secrets.APP_ID }}
+          APP_KEY: ${{ secrets.APP_KEY }}
+          APP_INSTALLATION_ID: ${{ secrets.APP_INSTALLATION_ID }}
+          APP_CLIENT_ID: ${{ secrets.APP_CLIENT_ID }}
+          APP_CLIENT_SECRET: ${{ secrets.APP_CLIENT_SECRET }}
+        run: node --enable-source-maps tool github-actions generate-token --env=APP_TOKEN
+      - name: Push release mirror repo
         uses: ad-m/github-push-action@master
         if: ${{ github.repository == 'EhTagTranslation/Database' && !env.SKIP }}
         with:
@@ -65,6 +65,14 @@ jobs:
           force: true
           directory: ./publish
           repository: EhTagTranslation/DatabaseReleases
+      - name: Push release mirror branch
+        uses: ad-m/github-push-action@master
+        if: ${{ !env.SKIP }}
+        with:
+          force: true
+          directory: ./publish
+          repository: ${{ github.repository }}
+          branch: release
       - name: Upload release
         uses: ncipollo/release-action@v1.18.0
         if: ${{ !env.SKIP }}
@@ -77,5 +85,5 @@ jobs:
       - name: Clean releases
         if: ${{ !env.SKIP }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: node --enable-source-maps tool github-actions delete-releases
