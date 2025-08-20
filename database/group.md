@@ -13246,6 +13246,7 @@ example:
 | ray-raw | Ray-Raw |  |  |
 | paiwohasa-mu | パイオハサーム |  |  |
 | q doujin | Q同人 |  |  |
+| tooka chaya | 十日茶屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
