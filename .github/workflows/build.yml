@@ -40,6 +40,7 @@ jobs:
 
       # publish releases
       - name: Create token
+        if: ${{ github.repository == 'EhTagTranslation/Database' }}
         env:
           APP_ID: ${{ secrets.APP_ID }}
           APP_KEY: ${{ secrets.APP_KEY }}
@@ -58,7 +59,7 @@ jobs:
           fi
       - name: Push release mirror
         uses: ad-m/github-push-action@master
-        if: ${{ !env.SKIP }}
+        if: ${{ github.repository == 'EhTagTranslation/Database' && !env.SKIP }}
         with:
           github_token: ${{ env.APP_TOKEN }}
           force: true
@@ -71,11 +72,8 @@ jobs:
           artifacts: ./publish/*
           name: ${{ env.RELEASE_NAME }}
           body: ${{ env.RELEASE_BODY }}
-          token: ${{ env.APP_TOKEN }}
           commit: ${{ github.sha }}
           tag: ${{ format('v7.{0}.{1}', github.run_number, github.run_attempt) }}
       - name: Clean releases
         if: ${{ !env.SKIP }}
-        env:
-          GITHUB_TOKEN: ${{ env.APP_TOKEN }}
         run: node --enable-source-maps tool github-actions delete-releases
