@@ -13922,6 +13922,7 @@ example:
 | ishinose | イシノセ |  |  |
 | soda mizu | そーだみず |  |  |
 | vierzeck | Vierzeck |  |  |
+| yzr | YZR |  | [pixiv](https://www.pixiv.net/users/8164124)<br>[FANBOX](https://yzr.fanbox.cc/)<br>[X](https://x.com/YZR_99) |
 
 <!--TEMPLATE:
 |  |  |  |  |
