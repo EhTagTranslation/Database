@@ -39,7 +39,7 @@ jobs:
       - name: Build
         env:
           EH_COOKIE: ${{ secrets.EH_COOKIE }}
-        run: >
+        run:
           node --enable-source-maps tool
             create-release . ./publish
               --strict
