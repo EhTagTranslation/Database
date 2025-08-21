@@ -13928,6 +13928,7 @@ example:
 | kisaragi tyuta | 如月宙太 |  |  |
 | penguinteatea | PenguinTeaTea |  |  |
 | baba arumi | 马场あるみ |  |  |
+| tricky | トリッキー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
