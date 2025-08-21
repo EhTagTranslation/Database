@@ -13927,6 +13927,7 @@ example:
 | loooyd | Loooyd |  | [pixiv](https://www.pixiv.net/users/16725499)<br>[X](https://x.com/LoooydArt) |
 | kisaragi tyuta | 如月宙太 |  |  |
 | penguinteatea | PenguinTeaTea |  |  |
+| baba arumi | 马场あるみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
