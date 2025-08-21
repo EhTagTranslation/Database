@@ -16,11 +16,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # 如果需要在 Fork 上运行，删除以下条件
+    # 如果需要在 Fork 定时上运行，删除以下条件
     # 为了减少对 EH 服务器的压力，建议删除所有无需覆盖的翻译
-    # 并设置合适的 `EH_COOKIE` 以增加配额
+    # 并在 https://github.com/<OWNER>/<REPO>/settings/secrets/actions 设置合适的 `EH_COOKIE` 以增加配额
     # 参考 https://github.com/EhTagTranslation/Editor/blob/e102b273afb4b57c98840e4a293d28421caf9215/src/shared/ehentai/http/config.ts#L21-L28
-    if: ${{ github.repository == 'EhTagTranslation/Database' }}
+    if: ${{ github.repository == 'EhTagTranslation/Database' || github.event_name == 'workflow_dispatch' }}
 
     steps:
       - uses: actions/checkout@v5
