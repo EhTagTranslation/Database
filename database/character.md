@@ -6587,6 +6587,7 @@ example:
 | cassie cage | 凯西・凯吉 |  |  |
 | sonya blade | 索尼娅・布雷德 | 刀锋索尼娅 |  |
 | meguru inaba | 因幡巡 | 因幡巡是YUZU SOFT所创作的美少女游戏《魔女的夜宴》的登场角色，女主角之一。<br>![](https://img.moegirl.org.cn/common/thumb/2/2c/因幡巡立绘.png/320px-因幡巡立绘.png)<br>因幡めぐる | [萌娘百科](https://zh.moegirl.org.cn/因幡巡) |
+| rurudo lion | Rurudo Lion | 女性画师rurudo的虚拟形象 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
