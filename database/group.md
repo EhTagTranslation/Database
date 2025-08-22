@@ -13250,6 +13250,7 @@ example:
 | arumike | あるみ家 |  |  |
 | raid socks | レイドソックス |  |  |
 | neko no mimi | ねこのみみ |  |  |
+| maron shugi | マロン主義 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
