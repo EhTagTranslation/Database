@@ -6588,6 +6588,7 @@ example:
 | sonya blade | 索尼娅・布雷德 | 刀锋索尼娅 |  |
 | meguru inaba | 因幡巡 | 因幡巡是YUZU SOFT所创作的美少女游戏《魔女的夜宴》的登场角色，女主角之一。<br>![](https://img.moegirl.org.cn/common/thumb/2/2c/因幡巡立绘.png/320px-因幡巡立绘.png)<br>因幡めぐる | [萌娘百科](https://zh.moegirl.org.cn/因幡巡) |
 | rurudo lion | Rurudo Lion | 女性画师rurudo的虚拟形象 |  |
+| tan otori | 尾鸟绽 | 尾鸟绽（日语：尾鳥（おとり） 綻（たん））是由无知麻吕创作的漫画《脑洞学生会》的登场角色。<br>尾鳥綻<br>![](https://img.moegirl.org.cn/common/5/53/Otori_Tan.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尾鸟绽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
