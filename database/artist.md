@@ -13929,6 +13929,7 @@ example:
 | penguinteatea | PenguinTeaTea |  |  |
 | baba arumi | 马场あるみ |  |  |
 | tricky | トリッキー |  |  |
+| nichijou | 日常 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
