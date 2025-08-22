@@ -13251,6 +13251,7 @@ example:
 | raid socks | レイドソックス |  |  |
 | neko no mimi | ねこのみみ |  |  |
 | maron shugi | マロン主義 |  |  |
+| sunagimo shortcake | 砂肝ショートケーキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
