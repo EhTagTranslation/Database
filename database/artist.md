@@ -2075,7 +2075,7 @@ example:
 | sekiri | せきり |  |  |
 | midorino tanuki | 翠野タヌキ |  | [pixiv](https://www.pixiv.net/users/16859821) |
 | kanna hisashi | かんな久 |  |  |
-| kitahara eiji | 北原エイジ |  |  |
+| kitahara eiji | 北原エイジ |  | [pixiv](https://www.pixiv.net/users/10693021) |
 | aoi miharu | 蒼井ミハル |  |  |
 | arinotowatari | ありのとわたり |  |  |
 | dagashi | 駄菓子 |  |  |
