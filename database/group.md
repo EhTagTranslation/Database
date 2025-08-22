@@ -13249,6 +13249,7 @@ example:
 | tooka chaya | 十日茶屋 |  |  |
 | arumike | あるみ家 |  |  |
 | raid socks | レイドソックス |  |  |
+| neko no mimi | ねこのみみ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
