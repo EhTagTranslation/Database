@@ -13253,6 +13253,7 @@ example:
 | maron shugi | マロン主義 |  |  |
 | sunagimo shortcake | 砂肝ショートケーキ |  |  |
 | mimizuki mimizuku. | ミミ好きミミ尽ク |  |  |
+| shizuma no ie | しづまの家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
