@@ -13252,6 +13252,7 @@ example:
 | neko no mimi | ねこのみみ |  |  |
 | maron shugi | マロン主義 |  |  |
 | sunagimo shortcake | 砂肝ショートケーキ |  |  |
+| mimizuki mimizuku. | ミミ好きミミ尽ク |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
