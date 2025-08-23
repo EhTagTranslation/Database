@@ -13932,7 +13932,7 @@ example:
 | nichijou | 日常 |  |  |
 | naruse miyabi | 成瀬みやび |  | [pixiv](https://www.pixiv.net/users/8967815) [X](https://x.com/creamiyabi_0303) |
 | lionneko | れおねこ |  |  |
-| shizuma | しづま |  |  |
+| shizuma | しづま |  | [pixiv](https://www.pixiv.net/users/18787849) |
 
 <!--TEMPLATE:
 |  |  |  |  |
