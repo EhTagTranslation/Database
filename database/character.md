@@ -2728,7 +2728,7 @@ example:
 | aura bella fiora | 亚乌菈·贝拉·菲欧拉 |  |  |
 | clementine | 克莱门汀 |  |  |
 | mare bello fiore | 马雷·贝罗·菲欧雷 |  |  |
-| shalltear bloodfallen | 夏提雅·布拉德弗伦 |  |  |
+| shalltear bloodfallen | 夏提雅·布拉德弗伦 | 夏提雅·布拉德弗伦（シャルティア・ブラッドフォールン），又译夏尔提亚，性别为女，是日本轻小说家丸山くがね著作的轻小说《Overlord》及其衍生作品中的角色。动漫由上坂堇、费丽茜娅·安吉尔配音。<br>夏提雅·布拉德弗伦，140厘米，是佩罗罗奇诺所创建的NPC，职务为纳萨力克地下大坟墓地下第一至三层的守护者。<br>![](https://img.moegirl.org.cn/common/thumb/8/81/Shalltear_Bloodfallen.png/420px-Shalltear_Bloodfallen.png) | [[萌娘百科](https://zh.moegirl.org.cn/夏提雅·布拉德弗伦#.E6.A6.82.E5.86.B5)] |
 | ai | 爱 |  |  |
 | ai kagano | 加贺野爱 |  |  |
 | mayu | 美格 |  |  |
