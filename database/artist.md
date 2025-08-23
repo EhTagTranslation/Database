@@ -2982,7 +2982,7 @@ example:
 | miwano rag | 美和野らぐ |  | [X](https://x.com/rag_ragko) [pixiv](https://www.pixiv.net/users/7324626) |
 | shigure ui | しぐれうい |  | [X](https://x.com/ui_shig) [pixiv](https://www.pixiv.net/users/431873) |
 | nanahara fuyuki | 七原冬雪 |  |  |
-| fukuinu | 福犬 |  |  |
+| fukuinu | 福犬 |  | [pixiv](https://www.pixiv.net/users/37574662) |
 | shotan | しょたん |  | [X](https://x.com/DENTAN_san) [pixiv](https://www.pixiv.net/users/8720985) |
 | ezoshika | エゾシカ |  | [X](https://x.com/ezoshika_gg) [pixiv](https://www.pixiv.net/users/14340273) |
 | taketori zaiku | 竹取细工 |  |  |
