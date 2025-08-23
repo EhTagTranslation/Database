@@ -6591,6 +6591,7 @@ example:
 | tan otori | 尾鸟绽 | 尾鸟绽（日语：尾鳥（おとり） 綻（たん））是由无知麻吕创作的漫画《脑洞学生会》的登场角色。<br>尾鳥綻<br>![](https://img.moegirl.org.cn/common/5/53/Otori_Tan.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尾鸟绽) |
 | houjou | 北条 | 北条（Houjou）是《擅长捉弄的高木同学》中的女性配角。她目前是土庄町立土庄中学校二年级的学生，与西片和高木等角色同班。同学们称她为“学校里最漂亮的女孩”，这使她性格更加成熟。她也因喜欢成熟的男生而闻名，但尽管如此，滨口仍然是她的主要恋爱对象。 | [Fandom](https://karakai-jouzu-no-takagi-san.fandom.com/wiki/Houjou) |
 | nefelpitou | 尼菲比特 |  |  |
+| goreinu | 果列奴 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
