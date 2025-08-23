@@ -13933,6 +13933,7 @@ example:
 | naruse miyabi | 成瀬みやび |  | [pixiv](https://www.pixiv.net/users/8967815) [X](https://x.com/creamiyabi_0303) |
 | lionneko | れおねこ |  |  |
 | shizuma | しづま |  | [pixiv](https://www.pixiv.net/users/18787849) |
+| shasha inu | しゃしゃ犬 |  | [pixiv](https://www.pixiv.net/users/100972173) |
 
 <!--TEMPLATE:
 |  |  |  |  |
