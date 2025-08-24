@@ -13934,6 +13934,7 @@ example:
 | lionneko | れおねこ |  |  |
 | shizuma | しづま |  | [pixiv](https://www.pixiv.net/users/18787849) |
 | shasha inu | しゃしゃ犬 |  | [pixiv](https://www.pixiv.net/users/100972173) |
+| h2 | 英知通 (h2) |  | [X](https://x.com/h209851219) |
 
 <!--TEMPLATE:
 |  |  |  |  |
