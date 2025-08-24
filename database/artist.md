@@ -10014,7 +10014,7 @@ example:
 | shijima yukio | 四島由紀夫 |  |  |
 | shijimi | しじみ |  |  |
 | shijokko | しじょっこ |  |  |
-| shijou mako | 士嬢マコ(・c\_・ ) |  |  |
+| shijou mako | 士嬢マコ |  |  |
 | shijou sadafumi | 四条定史 |  |  |
 | shikage nagi | しかげなぎ |  |  |
 | shikanari | シカナリ |  |  |
