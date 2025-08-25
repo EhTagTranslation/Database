@@ -13255,6 +13255,7 @@ example:
 | mimizuki mimizuku. | ミミ好きミミ尽ク |  |  |
 | shizuma no ie | しづまの家 |  |  |
 | kyabiramuuru | キャビラムール |  |  |
+| one or eight | ワンオアエイト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
