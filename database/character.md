@@ -6593,6 +6593,7 @@ example:
 | nefelpitou | 尼菲比特 |  |  |
 | goreinu | 果列奴 |  |  |
 | ororon | 欧洛伦 | 欧洛伦是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![欧洛伦](https://img.moegirl.org.cn/common/thumb/e/e0/原神_欧洛伦.png/420px-原神_欧洛伦.png) | [萌娘百科](https://zh.moegirl.org.cn/欧洛伦) |
+| mikari tachibana | 橘美花莉 | ![](https://img.moegirl.org.cn/common/e/ec/动画人设图_橘美花莉.webp)<br>![](https://img.moegirl.org.cn/common/thumb/8/8f/动画人设图_橘美花莉_cos.webp/1024px-动画人设图_橘美花莉_cos.webp.png)<br>《2.5次元的诱惑》中出场角色。高中一年级，莉莉纱的同班同学。<br>人气模特，无论相貌还是身材都十分出众。<br>在粉丝之间有“美花琳”的爱称。<br>对青梅竹马的奥村十年来一心一意，但奥村对三次元女子不感兴趣，一直没有察觉到。 | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
