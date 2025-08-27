@@ -13938,6 +13938,7 @@ example:
 | odochi | おどち |  |  |
 | an-telin | an-telin |  | [pixiv](https://www.pixiv.net/users/18800957) |
 | bonbaie | 盆場家 |  | [pixiv](https://www.pixiv.net/users/20361119) |
+| baiqin hyakkin | 百禽Hyakkin |  | [X](https://x.com/hyakkinkunu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
