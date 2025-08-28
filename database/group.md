@@ -13257,6 +13257,7 @@ example:
 | kyabiramuuru | キャビラムール |  |  |
 | one or eight | ワンオアエイト |  |  |
 | tonikakuushi | イチヒ |  |  |
+| hiyashi makura | ひやしまくら |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
