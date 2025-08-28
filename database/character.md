@@ -6601,6 +6601,7 @@ example:
 | villager | 村民 |  |  |
 | ender dragon | 末影龙 |  |  |
 | jenny | 珍妮 |  |  |
+| ari | 阿里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
