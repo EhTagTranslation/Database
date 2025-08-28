@@ -6613,6 +6613,7 @@ example:
 | boise | 博伊西（树城） | ![](https://p.sda1.dev/26/776511aa0c9ed66bb3c8e24392209cd8/image.png)<br>《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型为美国海军布鲁克林级轻巡洋舰六号舰博伊西号（USS Boise CL-47)。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:博伊西) |
 | sussex | 苏塞克斯 | ![](https://p.sda1.dev/26/9cb77a47914681a8c213d42fcb78ab8c/image.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国皇家海军苏塞克斯号重巡洋舰（HMS Sussex(96)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏塞克斯) |
 | angelica rapha redgrave | 安洁莉卡·拉法·雷德格里夫 | 轻小说《乙女游戏的世界对路人角色很不友好》及其衍生作品中的角色。 |  |
+| nonoa miyamae | 宫前乃乃亚 | 轻小说《不时轻声地以俄语遮羞的邻座艾莉同学》及衍生作品中的角色。谷山沙也加的儿时玩伴。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
