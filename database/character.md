@@ -6602,6 +6602,7 @@ example:
 | ender dragon | 末影龙 |  |  |
 | jenny | 珍妮 |  |  |
 | ari | 阿里 |  |  |
+| zombie | 僵尸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
