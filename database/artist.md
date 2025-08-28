@@ -9860,7 +9860,7 @@ example:
 | sawaki saki | 澤木沙樹 |  |  |
 | sawako | サワコ |  |  |
 | sawamura | 澤村 |  |  |
-| sawamura ao | 沢村青 | ![X](https://pbs.twimg.com/profile_images/1802033976187682816/56E-SC6P_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/sawamura_ao) [pixiv](https://www.pixiv.net/users/8615118) |
+| sawamura ao | 泽村青 | ![X](https://pbs.twimg.com/profile_images/1802033976187682816/56E-SC6P_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/sawamura_ao) [pixiv](https://www.pixiv.net/users/8615118) |
 | sawamura kina | さわむらきな |  |  |
 | sawarano goan | さわらの五庵 |  |  |
 | sawasaki | 沢崎 |  |  |
