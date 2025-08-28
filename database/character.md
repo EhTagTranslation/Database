@@ -6611,6 +6611,7 @@ example:
 | silvervale | 樱花狼灵 | 活跃于游戏与 VTuber 领域的创作者，以游戏体验分享、个人日常及互动直播为主要内容，特色在于融合樱花狼灵角色设定的趣味性表达。 |  |
 | lu shaotang | 陆少糖 | 陆少糖，漫画《坂本日常》及其衍生作品中的角色。坂本商店的成员。双亲被敌对组织杀害后被坂本太郎救出，有着过人的拳法。 |  |
 | boise | 博伊西（树城） | ![](https://p.sda1.dev/26/776511aa0c9ed66bb3c8e24392209cd8/image.png)<br>《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型为美国海军布鲁克林级轻巡洋舰六号舰博伊西号（USS Boise CL-47)。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:博伊西) |
+| sussex | 苏塞克斯 | ![](https://p.sda1.dev/26/9cb77a47914681a8c213d42fcb78ab8c/image.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国皇家海军苏塞克斯号重巡洋舰（HMS Sussex(96)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏塞克斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
