@@ -6603,6 +6603,7 @@ example:
 | jenny | 珍妮 |  |  |
 | ari | 阿里 |  |  |
 | zombie | 僵尸 |  |  |
+| rana | 拉娜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
