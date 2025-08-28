@@ -6599,6 +6599,7 @@ example:
 | steve | 史蒂夫 |  |  |
 | alex | 艾莉克斯 |  |  |
 | villager | 村民 |  |  |
+| ender dragon | 末影龙 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
