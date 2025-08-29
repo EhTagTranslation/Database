@@ -3549,7 +3549,7 @@ example:
 | ai yashajin | 夜叉神天衣 | 夜叉神天衣是由白鸟士郎创作、しらび负责插画的轻小说《`ryuuou no oshigoto`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜叉神天衣) (\*\*) |
 | inuyama tamaki | 犬山玉姬 |  |  |
 | aliza | 阿莉莎 |  |  |
-| sarasa | 萨拉萨 \| 莎拉莎 | 轻小说《新人炼金术师的店铺经营》中的女主角![](https://img.moegirl.org.cn/common/thumb/2/20/Management_of_novice_alchemist_%281%29.jpg/450px-Management_of_novice_alchemist_%281%29.jpg) |  |
+| sarasa | 萨拉萨 |  |  |
 | hallessena | 哈蕾泽娜 |  |  |
 | izmir | 伊休米尔 |  |  |
 | razia | 拉丝缇娜 |  |  |
