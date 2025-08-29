@@ -1372,7 +1372,7 @@ example:
 | aisa himegami | 姬神秋沙 |  |  |
 | mii konori | 固法美伟 |  |  |
 | seiri fukiyose | 吹寄制理 |  |  |
-| kaori kanzaki | 神裂火织 |  |  |
+| kaori kanzaki | 神裂火织 | 神裂火织是镰池和马创作的轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/f/fd/Kanzaki_Kaori.jpg/420px-Kanzaki_Kaori.jpg) [萌娘百科](https://zh.moegirl.org.cn/神裂火织) |
 | komoe tsukuyomi | 月咏小萌 |  |  |
 | misaka-imouto | 御坂妹妹 |  |  |
 | last order | 最后之作 |  |  |
