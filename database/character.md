@@ -6637,6 +6637,7 @@ example:
 | yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | 由冬原パトラ所创作的小说《带着智能手机闯荡异世界。》及其衍生作品的登场角色。贝尔法斯特王国的公主。望月冬夜的后宫之一。 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png) [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
 | mei mei | 冥冥 | 芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。五条悟的前辈，原东京都立咒术高专的辅助监督，1级咒术师；现为自由职业咒术师，在日本拥有多家企业的股份。通过家系入学高专。 | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
 | shizuku yaegashi | 八重㭴雫 | 白米良所创作的小说/游戏《平凡职业造就世界最强》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/9/9c/ありふれた職業で世界最強5.jpg/420px-ありふれた職業で世界最強5.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八重㭴雫) |
+| rei miyamoto | 宫本丽 | 漫画《学园默示录》及其衍生作品的登场角色，女主角之一。![](https://img.moegirl.org.cn/common/thumb/a/a2/Miyamoto_rei.png/420px-Miyamoto_rei.png) | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
