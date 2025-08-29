@@ -6646,6 +6646,7 @@ example:
 | kaguya | 辉夜 | Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/c/cf/Kaguya黑兽个人2.jpg/420px-Kaguya黑兽个人2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/辉夜%28黑兽%29#) |
 | prim fiorire | 普莉姆·菲尔丽热 | Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/6/6a/Prim黑兽个人2.jpg/420px-Prim黑兽个人2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/普莉姆·菲尔丽热) |
 | modeus | 墨狄斯 | 墨狄斯(Modeus)是由 Vanripper 所制作发行的游戏 Helltaker 及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/d/db/Mod_txwsy.png/420px-Mod_txwsy.png) | [萌娘百科](https://zh.moegirl.org.cn/墨狄斯%28Helltaker%29#) |
+| haruka takamori | 鹰守遥 | 鹰守遥是由游戏《超昂闪忍遥》塑造的虚拟人物，设定为穿越时空的上弦众闪耀忍者，以追捕诅咒党为首要目标 。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
