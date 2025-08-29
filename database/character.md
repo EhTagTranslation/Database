@@ -345,7 +345,7 @@ example:
 | ashigara | 足柄 | 旧日本帝国海军的足柄号重巡洋舰足柄 | [碧蓝航线:足柄](https://zh.moegirl.org.cn/碧蓝航线:足柄) [舰队Collection:足柄](https://zh.moegirl.org.cn/舰队Collection:足柄) |
 | haguro | 羽黑 |  | [战舰少女:羽黑](https://zh.moegirl.org.cn/战舰少女:羽黑) [舰队Collection:羽黑](https://zh.moegirl.org.cn/舰队Collection:羽黑) |
 | takao | 高雄 | 旧日本帝国海军高雄级重巡洋舰一番舰高雄号（高雄 (重巡洋舰)） | [碧蓝航线:高雄](https://zh.moegirl.org.cn/碧蓝航线:高雄) [战舰少女:高雄](https://zh.moegirl.org.cn/战舰少女:高雄) [舰队Collection:高雄](https://zh.moegirl.org.cn/舰队Collection:高雄) |
-| atago | 爱宕 | 旧日本帝国海军高雄级重巡洋舰二番舰爱宕号（爱宕 (重巡洋舰)） | [碧蓝航线:爱宕](https://zh.moegirl.org.cn/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org.cn/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org.cn/舰队Collection:爱宕) |
+| atago | 爱宕 | 移动设备游戏《碧蓝航线》及其衍生作品的登场角色。其原型为旧日本帝国海军高雄级重巡洋舰二番舰爱宕号（爱宕 (重巡洋舰)）。<br>\|<br>角川游戏所开发的卡牌类网页游戏《舰队Collection》（艦隊これくしょん -艦これ-）及其衍生作品的登场角色。<br>\|<br>手机游戏《战舰少女》及其衍生作品的登场角色 | ![](https://img.moegirl.org.cn/common/thumb/f/ff/BLHX_63456400.jpg/355px-BLHX_63456400.jpg)<br>[碧蓝航线:爱宕](https://zh.moegirl.org.cn/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org.cn/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org.cn/舰队Collection:爱宕) |
 | choukai | 鸟海 | 旧日本帝国海军高雄级重巡洋舰四番舰鸟海号（鳥海(重巡洋艦)） | [碧蓝航线:鸟海](https://zh.moegirl.org.cn/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org.cn/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org.cn/舰队Collection:鸟海) |
 | tone | 利根 |  | [舰队Collection:利根](https://zh.moegirl.org.cn/舰队Collection:利根) |
 | chikuma | 筑摩 |  | [舰队Collection:筑摩](https://zh.moegirl.org.cn/舰队Collection:筑摩) |
