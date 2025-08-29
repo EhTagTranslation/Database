@@ -6628,6 +6628,7 @@ example:
 | akane hououji | 凤凰寺红叶 | 濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/2/20/女神咖啡厅-hououji.png/420px-女神咖啡厅-hououji.png) [萌娘百科](https://zh.moegirl.org.cn/凤凰寺红叶) |
 | ouka makuzawa | 幕泽樱花 | 由濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/1/18/女神咖啡厅--makuzawa.png/420px-女神咖啡厅--makuzawa.png) [萌娘百科](https://zh.moegirl.org.cn/幕泽樱花) |
 | riho tsukishima | 月岛流星 | 由濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/7/75/女神咖啡厅-tsukishima.png/420px-女神咖啡厅-tsukishima.png) [萌娘百科](https://zh.moegirl.org.cn/月岛流星) |
+| rin onigawara | 鬼瓦轮 | 是由黑神游夜原作、神崎かるな作画的漫画《武装少女Machiavellism》衍生作品的登场角色。“天下五剑”之首，所使剑术十分注重对呼吸的运用，故而斩击力度相当之大，是五剑中首屈一指的力量派。性格冲动易怒，因为母亲的关系羞于将自己的素容展现于世，一直习惯戴面具。 | ![](https://img.moegirl.org.cn/common/d/d6/鬼瓦轮.png) [萌娘百科](https://zh.moegirl.org.cn/鬼瓦轮) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
