@@ -13941,7 +13941,7 @@ example:
 | baiqin hyakkin | 百禽Hyakkin |  | [X](https://x.com/hyakkinkunu) |
 | qr | QR |  | [X](https://x.com/qr_req)<br>[pixiv](https://www.pixiv.net/users/35504747) |
 | inaba reito | 稲葉れいと |  | [X](https://x.com/InabaReito)<br>[pixiv](https://www.pixiv.net/users/34377290) |
-| kajiking | 家事王 |  | [X](https://x.com/kajiking1) |
+| kajiking | 家事王 |  | [X](https://x.com/kajiking1)<br>[pixiv](https://www.pixiv.net/users/2313835) |
 
 <!--TEMPLATE:
 |  |  |  |  |
