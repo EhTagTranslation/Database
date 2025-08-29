@@ -6631,6 +6631,7 @@ example:
 | rin onigawara | 鬼瓦轮 | 是由黑神游夜原作、神崎かるな作画的漫画《武装少女Machiavellism》衍生作品的登场角色。“天下五剑”之首，所使剑术十分注重对呼吸的运用，故而斩击力度相当之大，是五剑中首屈一指的力量派。性格冲动易怒，因为母亲的关系羞于将自己的素容展现于世，一直习惯戴面具。 | ![](https://img.moegirl.org.cn/common/d/d6/鬼瓦轮.png) [萌娘百科](https://zh.moegirl.org.cn/鬼瓦轮) |
 | yukana yame | 八女由佳奈 | 八女由佳奈是由植野メグル创作的漫画《第一次的辣妹》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/八女由佳奈) |
 | mylene rapha holfort | 米莲努·拉法·霍尔佛特 | 日本轻小说《乙女游戏的世界对路人角色很不友好》及其衍生作品中的角色。剧中第一美女。 | ![](https://img.moegirl.org.cn/common/thumb/6/6e/Mobusekai11.jpg/150px-Mobusekai11.jpg) [百度百科](https://baike.baidu.com/item/米莲努·拉法·霍尔佛特/60243238) |
+| arcana | 阿尔卡纳 | 手机游戏《重返未来：1999》中的角色，重塑之手首领，芝加哥事件、维也纳事件、阿派朗事件的罪魁祸首，第一次大决战中在遭受真空弹轰炸后一度被重塑之手各分支尊为“受苦者”，在南极事件中被成功复活。 | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
