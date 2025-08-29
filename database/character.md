@@ -3531,7 +3531,7 @@ example:
 | kouzou akizuki | 秋月孝三 | 秋月孝三是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色 |  |
 | marina akizuki | 秋月真理奈 | 秋月真理奈是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/鬼父) (\*\*) |
 | sana kuranaka | 仓中纱奈 | 仓中纱奈是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色 |  |
-| airi akitsuki | 秋月爱莉 | 秋月爱莉是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/秋月爱莉) (\*\*) |
+| airi akitsuki | 秋月爱莉 | 秋月爱莉是Blue Gale社制作发行的galgame《`oni chichi`》系列及其衍生作品的登场角色，女主角之一。 | ![](https://img.moegirl.org.cn/common/0/08/Airi_Akitsuki.jpg) [萌娘百科](https://zh.moegirl.org.cn/秋月爱莉) (\*\*) |
 | amu hinamori | 日奈森亚梦 |  |  |
 | utau hoshina | 月咏歌呗 |  |  |
 | rima mashiro | 真城璃茉 |  |  |
