@@ -2517,6 +2517,7 @@ example:
 | black survival | 黑色幸存者 |  |  |
 | ruri no houseki | 琉璃的宝石 |  | [维基百科](https://zh.wikipedia.org/wiki/琉璃的寶石) |
 | kawarazaki-ke no ichizoku | 河原崎家的一族 |  |  |
+| nageki no bourei ha intai shitai | 叹气的亡灵想隐退 | 《叹息的亡灵想隐退～最弱猎人的最强队伍育成术～》是由日本作家槻影创作、チーコ负责插画的轻小说作品，改编为同名漫画及电视动画《叹气的亡灵想隐退》![](https://img.moegirl.org.cn/common/thumb/e/ed/叹息亡灵1.jpg/420px-叹息亡灵1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/叹气的亡灵想隐退_～最弱猎人的最强队伍育成术～) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
