@@ -6633,6 +6633,7 @@ example:
 | mylene rapha holfort | 米莲努·拉法·霍尔佛特 | 日本轻小说《乙女游戏的世界对路人角色很不友好》及其衍生作品中的角色。剧中第一美女。 | ![](https://img.moegirl.org.cn/common/thumb/6/6e/Mobusekai11.jpg/150px-Mobusekai11.jpg) [百度百科](https://baike.baidu.com/item/米莲努·拉法·霍尔佛特/60243238) |
 | arcana | 阿尔卡纳 | 手机游戏《重返未来：1999》中的角色，重塑之手首领，芝加哥事件、维也纳事件、阿派朗事件的罪魁祸首，第一次大决战中在遭受真空弹轰炸后一度被重塑之手各分支尊为“受苦者”，在南极事件中被成功复活。 | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
 | shushu suruga | 骏河朱朱 | 骏河朱朱是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/5/56/Mato_Seihei_no_Slave_02.jpg/420px-Mato_Seihei_no_Slave_02.jpg) [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
+| yuuki wakura | 和仓优希 | 和仓优希是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
