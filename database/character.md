@@ -6627,6 +6627,7 @@ example:
 | hee-jin park | 朴熙真 |  |  |
 | akane hououji | 凤凰寺红叶 | 濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/2/20/女神咖啡厅-hououji.png/420px-女神咖啡厅-hououji.png) [萌娘百科](https://zh.moegirl.org.cn/凤凰寺红叶) |
 | ouka makuzawa | 幕泽樱花 | 由濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/1/18/女神咖啡厅--makuzawa.png/420px-女神咖啡厅--makuzawa.png) [萌娘百科](https://zh.moegirl.org.cn/幕泽樱花) |
+| riho tsukishima | 月岛流星 | 由濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/7/75/女神咖啡厅-tsukishima.png/420px-女神咖啡厅-tsukishima.png) [萌娘百科](https://zh.moegirl.org.cn/月岛流星) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
