@@ -13260,6 +13260,7 @@ example:
 | hiyashi makura | ひやしまくら |  |  |
 | midareuchi | 乱れ击ち |  |  |
 | otogidou | オトギ堂 |  |  |
+| shirokuma dango | しろくまだんご |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
