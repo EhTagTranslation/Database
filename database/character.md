@@ -6635,6 +6635,7 @@ example:
 | shushu suruga | 骏河朱朱 | 骏河朱朱是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/5/56/Mato_Seihei_no_Slave_02.jpg/420px-Mato_Seihei_no_Slave_02.jpg) [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
 | yuuki wakura | 和仓优希 | 和仓优希是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
 | yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | 由冬原パトラ所创作的小说《带着智能手机闯荡异世界。》及其衍生作品的登场角色。贝尔法斯特王国的公主。望月冬夜的后宫之一。 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png) [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
+| mei mei | 冥冥 | 芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。五条悟的前辈，原东京都立咒术高专的辅助监督，1级咒术师；现为自由职业咒术师，在日本拥有多家企业的股份。通过家系入学高专。 | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
