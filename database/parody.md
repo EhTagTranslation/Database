@@ -2265,7 +2265,7 @@ example:
 | palworld | 幻兽帕普 |  |  |
 | limbus company | 边狱公司 | 《边狱公司》（英语：Limbus Company，别称《边狱巴士公司》或《边狱巴士》）是由Project Moon制作并发行的回合制策略RPG类游戏，于2023年2月27日公测，是脑叶公司与废墟图书馆的同世界观续作。 | [萌娘百科](https://zh.moegirl.org.cn/边狱公司) |
 | trigun | 枪神 | 《枪神》（トライガン，Trigun）是一个由内藤泰弘创作及插图的日本漫画系列，于1996年至2008年间连载。台湾东立曾出版前两册，第一集于1999年9月出版，译《太空游侠》。 | [维基百科](https://zh.wikipedia.org/wiki/槍神Trigun) [萌娘百科](https://zh.moegirl.org.cn/枪神) |
-| saimin seishidou | 催眠性指导 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/催眠性指導) |
+| saimin seishidou | 催眠性指导 | 由画家爱上陆创作的系列漫画。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/催眠性指導) |
 | tekkaman blade | 宇宙骑士BLADE | 《宇宙骑士铁甲人利刃》（日语：宇宙の騎士テッカマンブレード）是一部日本动画。于1992年2月18日至1993年2月2日于东京电视台放映。这部动画的前身是1975年的动画宇宙骑士铁甲人（宇宙の騎士テッカマン），但故事上和这部没关系。其主要人物曾在本作的倒数第二集客串登场。 | [维基百科](https://zh.wikipedia.org/wiki/宇宙騎士BLADE) |
 | koikatsu | 恋活！ | 《恋活！》（日语：コイカツ！）是由ILLUSION制作的3D恋爱模拟类型日本成人游戏，于2018年4月27日发售。 | [维基百科](https://zh.wikipedia.org/wiki/恋活！) [萌娘百科](https://zh.moegirl.org.cn/恋活！) |
 | debby the corsifa wa makezugirai | Debby·the·Corsifa不愿败北 | 黛比．扎．可露西法討厭認輸 デビィ・ザ・コルシファは負けず嫌い | [Bangumi](https://bgm.tv/subject/353203) |
