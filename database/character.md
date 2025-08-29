@@ -6642,7 +6642,7 @@ example:
 | iuno | 尤诺 | 尤诺是库洛制作的游戏《鸣潮》的登场角色。<br>![](https://bkimg.cdn.bcebos.com/pic/d53f8794a4c27d1ed21b0f96a38fba6eddc451da9215?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/尤诺/65734292) \| [萌娘百科](https://zh.moegirl.org.cn/尤诺%28鸣潮%29#) |
 | tino shade | 蒂诺·薛德 | 莉兹的弟子兼被认定为等级4的盗贼。是和可爱的外表相反备受期待的优秀年轻猎人，现在并没有加入特定队伍而solo活动中。![](https://img.moegirl.org.cn/common/thumb/4/44/叹息亡灵C2.jpg/150px-叹息亡灵C2.jpg) |  |
 | ninym ralei | 妮妮姆·拉雷 | 鸟羽彻创作的小说《天才王子的赤字国家重生术》及其衍生作品中登场的角色。拥有通透亮丽的银白长发和有如火焰般的红色眼瞳的少女，弱小国家纳特拉王国的王太子维恩的首席辅佐官、从小就侍奉他的贴身随从。<br>![](https://img.moegirl.org.cn/common/5/55/Tensaiouji_Ninym.png)<br>![](https://img.moegirl.org.cn/common/thumb/d/db/妮妮姆_1.jpg/1024px-妮妮姆_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/妮妮姆·拉雷) |
-| mariabelle | 玛莉亚贝尔 | まきしま鈴木 所写的轻小说《欢迎来到日本，妖精小姐》中的角色。长年未出过妖精之森但在与卡兹西霍相遇后世界就发生了改变。虽然因被卡兹西霍的穿越世界能力波及而来到了现代日本，不过沉醉在了日本的食物与文化之中。<br>![](https://img.moegirl.org.cn/common/9/95/玛莉亚贝尔.jpg) |  |
+| mariabelle | 玛莉亚贝尔 | まきしま鈴木 所写的轻小说《欢迎来到日本，妖精小姐》中的角色。长年未出过妖精之森但在与卡兹西霍相遇后世界就发生了改变。虽然因被卡兹西霍的穿越世界能力波及而来到了现代日本，不过沉醉在了日本的食物与文化之中。<br>![](https://img.moegirl.org.cn/common/9/95/玛莉亚贝尔.jpg)<br><br>动画《爱有些沉重的黑暗精灵从异世界追过来了》中的角色。一个有着热情而略带痴迷的爱情的黑暗精灵。<br>![](https://sevenseasentertainment.com/wp-content/uploads/2024/06/yandereDarkElfM1_site.jpg) | [萌娘百科](https://zh.moegirl.org.cn/欢迎来到日本，妖精小姐。) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
