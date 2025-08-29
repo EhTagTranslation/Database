@@ -13940,6 +13940,7 @@ example:
 | bonbaie | 盆場家 |  | [pixiv](https://www.pixiv.net/users/20361119) |
 | baiqin hyakkin | 百禽Hyakkin |  | [X](https://x.com/hyakkinkunu) |
 | qr | QR |  | [X](https://x.com/qr_req)<br>[pixiv](https://www.pixiv.net/users/35504747) |
+| inaba reito | 稲葉れいと |  | [X](https://x.com/InabaReito)<br>[pixiv](https://www.pixiv.net/users/34377290) |
 
 <!--TEMPLATE:
 |  |  |  |  |
