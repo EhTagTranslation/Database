@@ -5973,7 +5973,7 @@ example:
 | kouhime | 织田香 | `p:rance` |  |
 | menad shisei | 美娜多·希瑟 | `p:rance` |  |
 | reset kalar | 莉赛特·卡拉 | `p:rance` |  |
-| rizna lanfbitt | 利兹娜·兰菲比特 | `p:rance` |  |
+| rizna lanfbitt | 利兹娜·兰菲比特 | 利兹娜·兰菲比特是AliceSoft旗下游戏《兰斯系列》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/c/cb/利兹娜·兰菲比特与哈尼景胜.jpg/420px-利兹娜·兰菲比特与哈尼景胜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/利兹娜·兰菲比特) |
 | nagi su ragarl | 娜姬·斯·拉卡鲁 | `p:rance` |  |
 | isoroku yamamoto | 山本五十六 | `p:rance` | [萌娘百科-山本五十六(兰斯系列)](https://zh.moegirl.org.cn/山本五十六%28兰斯系列%29#) |
 | la hawzel | 拉·哈泽璐 | `p:rance`<br>与兰斯10译名不同 | [萌娘百科](https://zh.moegirl.org.cn/拉·哈泽璐) |
