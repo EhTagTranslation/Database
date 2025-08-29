@@ -422,7 +422,7 @@ example:
 | ryuuhou | 龙凤 | 旧日本帝国海军的龙凤号航空母舰（龙凤 (空母)）） | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
-| amagi | 天城 | 日本帝国海军的天城级巡洋战列舰1号舰天城号（ 天城号） | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
+| amagi | 天城 | 移动设备游戏《碧蓝航线》及其衍生作品的登场角色。原型为日本帝国海军的天城级巡洋战列舰1号舰天城号（ 天城号）\|<br>轻小说《我是星际国家的恶德领主！》及其衍生动画中的核心角色，黎恩专属的AI女仆机器人 | ![](https://img.moegirl.org.cn/common/thumb/e/ec/BLHX_78564311_p0.jpg/404px-BLHX_78564311_p0.jpg) [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
 |  | 葛城 |  | [舰队Collection:葛城](https://zh.moegirl.org.cn/舰队Collection:葛城) |
 | harusame | 春雨 |  | [舰队Collection:春雨](https://zh.moegirl.org.cn/舰队Collection:春雨) |
 | hayashimo | 早霜 |  | [舰队Collection:早霜](https://zh.moegirl.org.cn/舰队Collection:早霜) |
