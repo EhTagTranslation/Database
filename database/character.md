@@ -1390,7 +1390,7 @@ example:
 | kazari uiharu | 初春饰利 |  |  |
 | accelerator | 一方通行 |  |  |
 | oriana thomson | 欧莉安娜·汤姆森 |  |  |
-| shizuri mugino | 麦野沉利 |  |  |
+| shizuri mugino | 麦野沉利 | 统帅暗部组织“道具”的女王，学园都市排名第四位的超能力者。 | [萌娘百科](https://zh.moegirl.org.cn/麦野沉利) |
 | rikou takitsubo | 泷壶理后 |  |  |
 | saiai kinuhata | 绢旗最爱 |  |  |
 | frenda seivelun | 芙兰达·塞维伦 |  |  |
