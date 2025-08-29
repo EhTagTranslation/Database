@@ -12107,7 +12107,7 @@ example:
 | sisyamo 2 percent | sisyamo2% | 专注嘴上功夫的画师<br>![图](# "https://ehgt.org/96/77/96773afe704296115b565e6dba8450e64cd0cc8c-151544-640-480-jpg_l.jpg") | [pixiv](https://www.pixiv.net/users/2632419) |
 | metacora | めたこら |  |  |
 | kangoku meika | 監獄銘菓 |  |  |
-| souseki | 層積 |  |  |
+| souseki | 层积 |  |  |
 | manno | まんの |  |  |
 | tamada heijun | 玉田平準 |  | [pixiv](https://www.pixiv.net/users/10427188) |
 | nagai go | 永井豪 | 永井豪，原名永井洁，1945年9月6日出生于石川县轮岛市。代表作有“破廉耻学园”、“恶魔人”、“魔神Z”、“盖塔机器人”、“甜心战士”等。作品“凄之王”在1980年获得了第四届讲谈社漫画赏。 |  |
