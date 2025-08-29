@@ -6626,6 +6626,7 @@ example:
 | mai ouduka | 王塚真唯 | 由みかみてれん所创作的轻小说《我怎么可能成为你的恋人，不行不行！（※不是不可能！？）》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/8/89/王塚真唯stand.png/300px-王塚真唯stand.png) [萌娘百科](https://zh.moegirl.org.cn/王冢真唯) |
 | hee-jin park | 朴熙真 |  |  |
 | akane hououji | 凤凰寺红叶 | 濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/2/20/女神咖啡厅-hououji.png/420px-女神咖啡厅-hououji.png) [萌娘百科](https://zh.moegirl.org.cn/凤凰寺红叶) |
+| ouka makuzawa | 幕泽樱花 | 由濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/1/18/女神咖啡厅--makuzawa.png/420px-女神咖啡厅--makuzawa.png) [萌娘百科](https://zh.moegirl.org.cn/幕泽樱花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
