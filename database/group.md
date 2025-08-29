@@ -13259,6 +13259,7 @@ example:
 | tonikakuushi | イチヒ |  |  |
 | hiyashi makura | ひやしまくら |  |  |
 | midareuchi | 乱れ击ち |  |  |
+| otogidou | オトギ堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
