@@ -6640,6 +6640,7 @@ example:
 | rei miyamoto | 宫本丽 | 漫画《学园默示录》及其衍生作品的登场角色，女主角之一。![](https://img.moegirl.org.cn/common/thumb/a/a2/Miyamoto_rei.png/420px-Miyamoto_rei.png) | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
 | yukino mifuyu | 雪乃深冬 |  |  |
 | iuno | 尤诺 | 尤诺是库洛制作的游戏《鸣潮》的登场角色。<br>![](https://bkimg.cdn.bcebos.com/pic/d53f8794a4c27d1ed21b0f96a38fba6eddc451da9215?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/尤诺/65734292) \| [萌娘百科](https://zh.moegirl.org.cn/尤诺%28鸣潮%29#) |
+| tino shade | 蒂诺·薛德 | 莉兹的弟子兼被认定为等级4的盗贼。是和可爱的外表相反备受期待的优秀年轻猎人，现在并没有加入特定队伍而solo活动中。![](https://img.moegirl.org.cn/common/thumb/4/44/叹息亡灵C2.jpg/150px-叹息亡灵C2.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
