@@ -6624,6 +6624,7 @@ example:
 | guild girl | 柜台小姐 | 冒险公会的柜台小姐。<br><br>总是熟练地优先将退治哥布林的任务委托给哥布林杀手。和哥布林杀手一直周旋于如何对付哥布林。<br><br>在新人时期就与刚成为冒险者的哥布林杀手认识，对哥布林杀手芳心暗许。 | [萌娘百科](https://zh.moegirl.org.cn/柜台小姐) |
 | aki adagaki | 安达垣爱姬 | 安达垣爱姬是由竹冈叶月原作、Tiv作画的一部漫画《政宗君的复仇》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安达垣爱姬#) ![](https://img.moegirl.org.cn/common/thumb/0/0d/Adagakiaki.jpg/420px-Adagakiaki.jpg) |
 | mai ouduka | 王塚真唯 | 由みかみてれん所创作的轻小说《我怎么可能成为你的恋人，不行不行！（※不是不可能！？）》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/8/89/王塚真唯stand.png/300px-王塚真唯stand.png) [萌娘百科](https://zh.moegirl.org.cn/王冢真唯) |
+| hee-jin park | 朴熙真 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
