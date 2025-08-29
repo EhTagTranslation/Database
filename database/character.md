@@ -6645,6 +6645,7 @@ example:
 | mariabelle | 玛莉亚贝尔 | まきしま鈴木 所写的轻小说《欢迎来到日本，妖精小姐》中的角色。长年未出过妖精之森但在与卡兹西霍相遇后世界就发生了改变。虽然因被卡兹西霍的穿越世界能力波及而来到了现代日本，不过沉醉在了日本的食物与文化之中。<br>![](https://img.moegirl.org.cn/common/9/95/玛莉亚贝尔.jpg)<br><br>动画《爱有些沉重的黑暗精灵从异世界追过来了》中的角色。一个有着热情而略带痴迷的爱情的黑暗精灵。<br>![](https://sevenseasentertainment.com/wp-content/uploads/2024/06/yandereDarkElfM1_site.jpg) | [萌娘百科](https://zh.moegirl.org.cn/欢迎来到日本，妖精小姐。) |
 | kaguya | 辉夜 | Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/c/cf/Kaguya黑兽个人2.jpg/420px-Kaguya黑兽个人2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/辉夜%28黑兽%29#) |
 | prim fiorire | 普莉姆·菲尔丽热 | Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/6/6a/Prim黑兽个人2.jpg/420px-Prim黑兽个人2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/普莉姆·菲尔丽热) |
+| modeus | 墨狄斯 | 墨狄斯(Modeus)是由 Vanripper 所制作发行的游戏 Helltaker 及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/d/db/Mod_txwsy.png/420px-Mod_txwsy.png) | [萌娘百科](https://zh.moegirl.org.cn/墨狄斯%28Helltaker%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
