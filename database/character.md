@@ -6634,6 +6634,7 @@ example:
 | arcana | 阿尔卡纳 | 手机游戏《重返未来：1999》中的角色，重塑之手首领，芝加哥事件、维也纳事件、阿派朗事件的罪魁祸首，第一次大决战中在遭受真空弹轰炸后一度被重塑之手各分支尊为“受苦者”，在南极事件中被成功复活。 | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
 | shushu suruga | 骏河朱朱 | 骏河朱朱是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/5/56/Mato_Seihei_no_Slave_02.jpg/420px-Mato_Seihei_no_Slave_02.jpg) [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
 | yuuki wakura | 和仓优希 | 和仓优希是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
+| yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | 由冬原パトラ所创作的小说《带着智能手机闯荡异世界。》及其衍生作品的登场角色。贝尔法斯特王国的公主。望月冬夜的后宫之一。 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png) [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
