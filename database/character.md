@@ -6619,6 +6619,7 @@ example:
 | ajisai sena | 濑名紫阳花 | 全身都散发着柔和气质的美少女，常常被玲奈子称作“天使”。身高是158公分。<br>经常代替工作中的父母照顾两个弟弟。很擅长料理。 |  |
 | renako amaori | 甘织玲奈子 | 长相、头脑、运动能力都一般的女孩。身高是158公分。<br>原本过着孤独的国中生活，但在看到小学同学的SNS，得知原来的朋友过着充实的生活后，决定在高中改变。 |  |
 | yuzu | 柊柚子 | 柊柚子/RAY是GALLOP制作的电视动画《游戏王ARC-V》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/柊柚子) |
+| panty anarchy | 潘迪 | 潘迪是GAINAX制作的动画《Panty & Stocking with Garterbelt》的登场角色。天使姊妹中的姐姐，性格为色气系的大小姐向。名字的意思是“内裤”。女王大人，开放纵欲，比起恶灵似乎更喜欢跟男人SEX相关的事。人送称号“婊子天使”。 | [萌娘百科](https://zh.moegirl.org.cn/Panty) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
