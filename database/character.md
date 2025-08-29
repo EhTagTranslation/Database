@@ -4687,7 +4687,7 @@ example:
 | kouta oyamada | 小山田耕太 |  | [萌娘百科](https://zh.moegirl.org.cn/我的狐仙女友) |
 | chizuru minamoto | 源千鹤 |  | [萌娘百科](https://zh.moegirl.org.cn/我的狐仙女友) |
 | nozomu ezomori | 犹守望 |  | [萌娘百科](https://zh.moegirl.org.cn/我的狐仙女友) |
-| anisphia wynn palettia | 艾妮丝菲亚·温·帕雷提亚 |  |  |
+| anisphia wynn palettia | 艾妮丝菲亚·温·帕雷提亚 | 由鴉ぴえろ所创作的小说《转生王女与天才千金的魔法革命》及其衍生作品的登场角色。帕雷提亚王国的王女。五岁时觉醒了前世在现代社会的记忆，十分憧憬现在的世界所特有的魔法。 | ![](https://img.moegirl.org.cn/common/thumb/3/3f/艾尼斯菲亚.png/420px-艾尼斯菲亚.png) [萌娘百科](https://zh.moegirl.org.cn/艾妮丝菲亚·温·帕雷提亚) |
 | euphyllia magenta | 尤菲莉亚·玛赞塔 |  |  |
 | gobuta | 哥布塔 | 哥布塔(英语:Gobta) 所属作品:`p:tensei shitara slime datta ken`<br>是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/ca/Gobta.png) | [萌娘百科](https://zh.moegirl.org.cn/哥布塔) |
 | hakos baelz | 哈珂斯·贝尔丝 | 哈珂斯·贝尔丝（英语：Hakos Baelz；日语：ハコス・ベールズ）所属社团:`p:hololive`<br>是一名VTuber<br>![](https://img.moegirl.org.cn/common/1/1a/Bae出道贺图.png) | [萌娘百科](https://zh.moegirl.org.cn/哈珂斯·贝尔丝) |
