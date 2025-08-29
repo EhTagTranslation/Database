@@ -13258,6 +13258,7 @@ example:
 | one or eight | ワンオアエイト |  |  |
 | tonikakuushi | イチヒ |  |  |
 | hiyashi makura | ひやしまくら |  |  |
+| midareuchi | 乱れ击ち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
