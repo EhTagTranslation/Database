@@ -13943,7 +13943,7 @@ example:
 | inaba reito | 稲葉れいと |  | [X](https://x.com/InabaReito)<br>[pixiv](https://www.pixiv.net/users/34377290) |
 | kajiking | 家事王 |  | [X](https://x.com/kajiking1)<br>[pixiv](https://www.pixiv.net/users/2313835) |
 | periodo | ピリオド |  |  |
-| kan-non ritsu | 观音りつ |  |  |
+| kan-non ritsu | 观音リツ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
