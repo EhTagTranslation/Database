@@ -2825,7 +2825,7 @@ example:
 | maria balthasar | 玛利亚·巴尔塔札尔 |  |  |
 | emeralda kasim | 艾美拉达·卡西姆 |  |  |
 | ai hinatsuru | 雏鹤爱 |  |  |
-| ginko sora | 空银子 |  |  |
+| ginko sora | 空银子 | 由白鸟士郎创作、しらび负责插画的轻小说《龙王的工作！》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/8/88/空银子.png) | [萌娘百科](https://zh.moegirl.org.cn/空银子) |
 | chariot | 战轮妖精 |  |  |
 | strength | 力量 |  |  |
 | kirika akatsuki | 晓切歌 | 晓切歌是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/晓切歌) |
