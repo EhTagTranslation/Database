@@ -13944,6 +13944,7 @@ example:
 | kajiking | 家事王 |  | [X](https://x.com/kajiking1)<br>[pixiv](https://www.pixiv.net/users/2313835) |
 | periodo | ピリオド |  |  |
 | kan-non ritsu | 观音リツ |  |  |
+| san p. dro | San P.dro |  | [X](https://x.com/san_phidr0)<br>[pixiv](https://www.pixiv.net/users/94295754)<br>[FANBOX](http://sanphidro.fanbox.cc/)<br>[Patreon](https://www.patreon.com/sanphidro) |
 
 <!--TEMPLATE:
 |  |  |  |  |
