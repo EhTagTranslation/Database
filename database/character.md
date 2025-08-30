@@ -6654,7 +6654,7 @@ example:
 | sakurada hane | 樱田羽 | 个人势 VTuber | [X](https://x.com/SakuradaHane)<br>[pixiv](https://www.pixiv.net/users/70374572)<br>[FANBOX](http://sakuradahane.fanbox.cc/)<br>[YouTube](http://youtube.com/@Hane) |
 | ai enma | 阎魔爱 |  |  |
 | serena fuoco le brillante de la grazia | 塞蕾娜·胡奥科·尔·布里兰特·德·拉·格拉齐亚 | 塞蕾娜·胡奥科·尔·布里兰特·德·拉·格拉齐亚，游戏《violated princess》及《violated heroine》中的角色。<br>塞蕾娜·胡奥科·尔·布里兰特·德·拉·格拉齐亚，传承了几百年的大贵族——格拉齐亚大公的后代，从小拥有丰富的学识与优秀的教养，以及作为贵族的强烈自尊心，很在意自己个子矮。为了寻找遗失的独角兽(vh中为传家宝)，她独自一人离开家踏上了旅程。 [1] [3]之后她在混乱的“自由都市”中经历了重重磨难，所幸凭借着运气，力量，谨慎与心怀善意的少数朋友的帮助，不仅没有失去自己的贞洁，自由与纯真，最终也找回了失物，还诛杀了许多残忍疯狂的邪恶之人与扭曲魔物。<br>在《violated princess》的故事完结之后，塞蕾娜因为杀灭了可怕的魔物——黑色史莱姆而名声大噪，她的父亲也因为优秀的表现而得以跻身王位继承人之列。之前在自由都市的旅途磨炼了塞蕾娜的心智，精进了塞蕾娜的武艺，一切似乎都在往好的一面发展。<br>然而在前作里，塞蕾娜所诛杀的最强敌人也不过只是黑帮老大，死去婴儿的执念之流罢了。而如今，更多更强的敌人被这颗冉冉升起的璀璨宝石所吸引，贪婪地觊觎着年幼的王女…… | [百度百科](https://baike.baidu.com/item/塞蕾娜·胡奥科·尔·布里兰特·德·拉·格拉齐亚/63479806) |
-| sarasa feed | 莎拉莎 | 轻小说《新人炼金术师的店铺经营》中的女主角。![](https://img.moegirl.org.cn/common/thumb/2/20/Management_of_novice_alchemist_%281%29.jpg/600px-Management_of_novice_alchemist_%281%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/新人炼金术师的店铺经营) |
+| sarasa feed | 莎拉莎·菲朵 | 轻小说《新人炼金术师的店铺经营》中的女主角。![](https://img.moegirl.org.cn/common/thumb/c/c0/莎拉萨·菲朵_stand.png/420px-莎拉萨·菲朵_stand.png) | [萌娘百科](https://zh.moegirl.org.cn/莎拉萨·菲朵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
