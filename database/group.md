@@ -13262,6 +13262,7 @@ example:
 | otogidou | オトギ堂 |  |  |
 | shirokuma dango | しろくまだんご |  |  |
 | muru no honbako | ムルの本箱 |  |  |
+| lose | Lose |  | [X](https://x.com/news_lose)<br>[http://www.lose.jp/official/](http://www.lose.jp/official/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
