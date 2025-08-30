@@ -1759,7 +1759,7 @@ example:
 | freya | 芙蕾雅 |  |  |
 | hephaistos | 赫菲斯托丝 |  |  |
 | liliruca arde | 莉莉露卡·厄德 |  |  |
-| ryuu lion | 琉·璃昂 |  |  |
+| ryuu lion | 琉·璃昂 | 大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/e/e2/琉外传.jpg) |  |
 | loki | 洛基 |  |  |
 | syr flova | 希儿·福罗瓦 |  |  |
 |  | ▼ 魔法少女小圆 |  |  |
