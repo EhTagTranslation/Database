@@ -6651,6 +6651,7 @@ example:
 | koshimizu toru | 小清水透 |  |  |
 | kikuchiyo mibu | 壬生菊千代 | ![](https://p.sda1.dev/26/4f90671e7281b03b5be5808c88996c00/image.png)<br>《多娜多娜》的女主角之一，东云派的首领，壬生家族的长女，背负着必须打倒亚总义的家族使命。 | [萌娘百科](https://zh.moegirl.org.cn/壬生菊千代) |
 | morgana | 莫甘娜 |  |  |
+| sakurada hane | 樱田羽 | 个人势 VTuber | [X](https://x.com/SakuradaHane)<br>[pixiv](https://www.pixiv.net/users/70374572)<br>[FANBOX](http://sakuradahane.fanbox.cc/)<br>[YouTube](http://youtube.com/@Hane) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
