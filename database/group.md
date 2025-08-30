@@ -13261,6 +13261,7 @@ example:
 | midareuchi | 乱れ击ち |  |  |
 | otogidou | オトギ堂 |  |  |
 | shirokuma dango | しろくまだんご |  |  |
+| muru no honbako | ムルの本箱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
