@@ -13954,7 +13954,7 @@ example:
 | umehisa | 梅久 |  | [pixiv](https://www.pixiv.net/users/32837832)<br>[X](https://x.com/umehisa4559) |
 | greatnaosuke | 良い直助 |  | [X](https://x.com/greatnaosuke) |
 | saki kaori | 咲香里 |  |  |
-| you yue yue | 幼月月 |  |  |
+| you yue yue | 幼月月 |  | [pixiv](https://www.pixiv.net/users/10344581)<br>[FANBOX](https://www.fanbox.cc/@youyueyuee)<br>[X](https://x.com/youyuetk) |
 
 <!--TEMPLATE:
 |  |  |  |  |
