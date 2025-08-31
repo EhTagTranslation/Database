@@ -6662,6 +6662,7 @@ example:
 | atri | 亚托莉 | ANIPLEX.EXE企划发行的由Front Wing和枕社联合制作的视觉小说《ATRI -My Dear Moments-》的女主角，夏生从海底打捞起来的机器人少女 。![](https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png) | [萌娘百科](https://zh.moegirl.org.cn/亚托莉) |
 | huyan zhuo | 呼延灼 |  |  |
 | ronova | 若娜瓦 | 死之执政 |  |
+| yuki kaai | 歌爱雪 | 日语：歌愛（かあい） ユキ<br>AHS社制造的小歌姬，以VOCALOID2软件推出市场（现已升级至V4），是一名只有9岁的小学生，音源也是由一位小学生（小loli）提供。 | [萌娘百科](https://zh.moegirl.org.cn/歌爱雪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
