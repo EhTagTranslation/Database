@@ -13947,7 +13947,6 @@ example:
 | san p. dro | San P. dro |  | [X](https://x.com/san_phidr0)<br>[pixiv](https://www.pixiv.net/users/94295754)<br>[FANBOX](http://sanphidro.fanbox.cc/)<br>[Patreon](https://www.patreon.com/sanphidro) |
 | sukima nozoki | 隙間 覗 |  | [pixiv](https://www.pixiv.net/users/67984961)<br>[FANBOX](https://asadorekyuri12.fanbox.cc/) |
 | akisuko | あきすこ |  |  |
-| chinese | 汉语 | ![无可奉告](https://p.sda1.dev/22/cadefcd7c05bc2c5fcf3d32e0db894a0/68747470733a2f2f747661312e73696e61696d672e636e2f6c617267652f3663383462326436677731663434646132756774726a323072733071676169722e6a7067.jpg)<br>汉语，又称中文、华语、唐话，或被视为汉藏语系汉语族下之唯一一种语言，或被视为语族。 | [萌娘百科](https://zh.moegirl.org.cn/index.php?search=汉语) [https://zh.m.wikipedia.org/wiki/汉语](https://zh.wikipedia.org/wiki/汉语) |
 | chongqi shu | 充气薯 | P站：[pixiv](https://www.pixiv.net/users/12588281)<br>推特：[X](https://x.com/CQS42804592) |  |
 
 <!--TEMPLATE:
