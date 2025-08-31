@@ -6661,6 +6661,7 @@ example:
 | marianne von edmund | 玛莉安奴·冯·艾德蒙 | 游戏《火焰之纹章 风花雪月》及其衍生作品的登场角色之一。![](https://img.moegirl.org.cn/common/thumb/7/73/玛莉安奴-五年前.png/420px-玛莉安奴-五年前.png) | [萌娘百科](https://zh.moegirl.org.cn/玛莉安奴·冯·艾德蒙) |
 | atri | 亚托莉 | ANIPLEX.EXE企划发行的由Front Wing和枕社联合制作的视觉小说《ATRI -My Dear Moments-》的女主角，夏生从海底打捞起来的机器人少女 。![](https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png) | [萌娘百科](https://zh.moegirl.org.cn/亚托莉) |
 | huyan zhuo | 呼延灼 |  |  |
+| ronova | 若娜瓦 | 死之执政 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
