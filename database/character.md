@@ -6658,6 +6658,7 @@ example:
 | danjin | 丹瑾 | 游戏《鸣潮》中的女性角色。![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/b/bc/675m44g9cj3pcsdeittzw0fb208al2m.png/511px-Mc_wiki_role_danjin_x1500.png) |  |
 | yomi isayama | 谏山黄泉 | 漫画《食灵》及其衍生作品中的角色。![](https://lain.bgm.tv/r/400/pic/crt/l/97/3a/11188_crt_APC9A.jpg) |  |
 | durga | 杜尔迦 | TYPE-MOON旗下手机游戏《Fate/Grand Order》中的五星弓兵角色。![](https://media.fgo.wiki/thumb/2/22/杜尔伽初始.png/428px-杜尔伽初始.png) | [https://fgo.wiki/w/杜尔伽](https://fgo.wiki/w/杜尔伽) |
+| marianne von edmund | 玛莉安奴·冯·艾德蒙 | 游戏《火焰之纹章 风花雪月》及其衍生作品的登场角色之一。![](https://img.moegirl.org.cn/common/thumb/7/73/玛莉安奴-五年前.png/420px-玛莉安奴-五年前.png) | [萌娘百科](https://zh.moegirl.org.cn/玛莉安奴·冯·艾德蒙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
