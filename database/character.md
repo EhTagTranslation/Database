@@ -749,7 +749,7 @@ example:
 | yuko hori | 堀裕子 |  |  |
 | kai nishijima | 西岛櫂 |  |  |
 |  | 冴岛清美 |  |  |
-| risa matoba | 的场梨沙 |  |  |
+| risa matoba | 的场梨沙 | BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的火辣父控小学生偶像。![](https://img.moegirl.org.cn/common/c/c2/301067_risa.png) ![](https://img.moegirl.org.cn/common/thumb/4/40/SSR［ビビッド★エゴイスト］的場梨沙%2B.png/870px-SSR［ビビッド★エゴイスト］的場梨沙%2B.png) |  |
 | tokiko zaizen | 财前时子 |  |  |
 | shin sato | 佐藤心 |  |  |
 | yoshino yorita | 依田芳乃 |  |  |
