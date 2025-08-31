@@ -12609,7 +12609,7 @@ example:
 | rindow masaki | あるでぃ |  |  |
 | orihika | おりひか |  |  |
 | scottie | スコッティ |  |  |
-| makin | まきん |  |  |
+| makin | まきん |  | [FANBOX](https://www.fanbox.cc/@makin)<br>[pixiv](https://www.pixiv.net/users/3119679) |
 | myamo | ミャモ |  | [pixiv](https://www.pixiv.net/users/10215) [X](https://x.com/omaym1234) |
 | pedopetton | ぺどぺっとん |  | [pixiv](https://www.pixiv.net/users/39327558) |
 | mikozin | ミコジン |  |  |
