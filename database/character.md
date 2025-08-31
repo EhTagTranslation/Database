@@ -2832,7 +2832,7 @@ example:
 | asuha chigusa | 千种明日叶 |  |  |
 | kasumi chigusa | 千种霞 |  |  |
 | ange katrina | 安洁·卡特莉娜 |  |  |
-| cagliostro | 卡莉奥斯特萝 | 一般指《碧蓝幻想》及衍生作品中的登场角色。日文名为カリオストロ，别号老男人。<br>也可能指《战姬绝唱》中登场的角色卡里奥斯特罗。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝幻想:卡里奥斯特罗)<br>[萌娘百科](https://zh.moegirl.org.cn/卡里奥斯特罗%28战姬绝唱%29#) |
+| cagliostro | 卡莉奥斯特萝 | ①《碧蓝幻想》及衍生作品中的登场角色。日文名为カリオストロ，别号老男人。![](https://huiji-public.huijistatic.com/gbf/uploads/4/4a/Zoom_3710058000_01.png)<br>②动画《战姬绝唱》第四季中登场的角色。![](https://lain.bgm.tv/r/400/pic/crt/l/47/a4/54852_crt_LOtB1.jpg?r=1563013706) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝幻想:卡里奥斯特罗)<br>[萌娘百科](https://zh.moegirl.org.cn/卡里奥斯特罗%28战姬绝唱%29#) |
 | kyouka hikawa | 冰川镜华 | ![](https://img.moegirl.org.cn/common/thumb/9/92/Hikawa_kyouka_pc.png/420px-Hikawa_kyouka_pc.png)<br>冰川镜华（日语：氷川（ひかわ） 鏡華（きょうか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为镜华（日语：キョウカ）。 | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
