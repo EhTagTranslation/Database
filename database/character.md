@@ -5940,7 +5940,7 @@ example:
 | sumireko ogawa | 绪川堇子 | 日语：緒川（おがわ） 菫子（すみれこ）<br>《怪异与少女与神隐》的登场角色。 |  |
 | cogita | 吾思 | ![](https://img.moegirl.org.cn/common/thumb/c/cb/PLA_Cogita.png/256px-PLA_Cogita.png)<br>日语：コギト<br>英语：Cogita<br>《宝可梦系列》的登场角色。<br>《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>主角会在某个契机与她相遇，是位谜团重重、充满神秘感的成熟女性。<br>生活在几乎无人知晓的古昔隐居地。<br>知晓不少传说宝可梦相关的事。<br>持有现形镜，可以照出真实，让宝可梦变回原来样子的神奇镜子。<br>据本人所述，与“相当厉害的宝可梦”非常亲密。<br>名字的由来是コギト，拉丁文中的Cogito。 | [萌娘百科](https://zh.moegirl.org.cn/吾思) |
 | sanae yamada | 山田早苗 | 日语：やまだ さなえ<br>樱井纪雄创作的漫画《我心里危险的东西》及其衍生作品中的登场角色，山田杏奈的母亲。 |  |
-| serval landau | 希露瓦·朗道 | 英：Serval Landau<br>日：セーバル·ランドゥー<br>《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希露瓦·朗道) |
+| serval landau | 希露瓦·朗道 | 英：Serval Landau<br>日：セーバル·ランドゥー<br>《崩坏：星穹铁道》及其衍生作品的登场角色。![](https://patchwiki.biligame.com/images/sr/thumb/c/cf/rq1jk29rxmp7ko6fk11wi5l1eq43qxh.png/1050px-希露瓦立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/希露瓦·朗道) |
 | haruki ikuta | 郁田阳希 | 郁田阳希（日语：郁田（いくた） はるき）是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的软绵绵Colorful偶像。 | [萌娘百科](https://zh.moegirl.org.cn/郁田阳希) |
 | hiyoko saionji | 西园寺日寄子 |  | [萌娘百科](https://zh.moegirl.org.cn/西园寺日寄子) |
 | kazuichi soda | 左右田和一 |  | [萌娘百科](https://zh.moegirl.org.cn/左右田和一) |
