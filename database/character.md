@@ -6663,6 +6663,7 @@ example:
 | huyan zhuo | 呼延灼 |  |  |
 | ronova | 若娜瓦 | 死之执政 |  |
 | yuki kaai | 歌爱雪 | 日语：歌愛（かあい） ユキ<br>AHS社制造的小歌姬，以VOCALOID2软件推出市场（现已升级至V4），是一名只有9岁的小学生，音源也是由一位小学生（小loli）提供。 | [萌娘百科](https://zh.moegirl.org.cn/歌爱雪) |
+| poppy | 波琵 | 日语：ポピー<br>英语：Poppy<br>《宝可梦系列》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/波琵) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
