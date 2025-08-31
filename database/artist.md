@@ -13952,6 +13952,7 @@ example:
 | fujii akiko | ふじいあきこ |  |  |
 | sasaki kazuyuki | 佐咲和由喜 |  |  |
 | umehisa | 梅久 |  | [pixiv](https://www.pixiv.net/users/32837832)<br>[X](https://x.com/umehisa4559) |
+| greatnaosuke | 良い直助 |  | [X](https://x.com/greatnaosuke) |
 
 <!--TEMPLATE:
 |  |  |  |  |
