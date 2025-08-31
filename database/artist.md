@@ -13949,6 +13949,7 @@ example:
 | akisuko | あきすこ |  |  |
 | chongqi shu | 充气薯 | P站：[pixiv](https://www.pixiv.net/users/12588281)<br>推特：[X](https://x.com/CQS42804592) |  |
 | izumi taichi | 泉たいち |  |  |
+| fujii akiko | ふじいあきこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
