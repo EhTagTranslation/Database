@@ -362,7 +362,7 @@ example:
 | hatsushimo | 初霜 | 旧日本帝国海军的初霜号驱逐舰（初霜(初春型駆逐艦)） | [碧蓝航线:初霜](https://zh.moegirl.org.cn/碧蓝航线:初霜) [舰队Collection:初霜](https://zh.moegirl.org.cn/舰队Collection:初霜) |
 | shiratsuyu | 白露 | 旧日本帝国海军的白露号驱逐舰（白露(白露型駆逐艦)） | [碧蓝航线:白露](https://zh.moegirl.org.cn/碧蓝航线:白露) [战舰少女:白露](https://zh.moegirl.org.cn/战舰少女:白露) [舰队Collection:白露](https://zh.moegirl.org.cn/舰队Collection:白露) |
 | shigure | 时雨 | 旧日本帝国海军的白露级驱逐舰二号舰“时雨”（时雨 (白露型驱逐舰)） | [碧蓝航线:时雨](https://zh.moegirl.org.cn/碧蓝航线:时雨) [战舰少女:时雨](https://zh.moegirl.org.cn/战舰少女:时雨) [舰队Collection:时雨](https://zh.moegirl.org.cn/舰队Collection:时雨) |
-| murasame | 村雨 |  | [战舰少女:村雨](https://zh.moegirl.org.cn/战舰少女:村雨) [舰队Collection:村雨](https://zh.moegirl.org.cn/舰队Collection:村雨) |
+| murasame | 丛雨 \| 村雨 | ①柚子社所创作的美少女游戏《千恋＊万花》的登场角色，女主角之一。![](https://img.moegirl.org.cn/common/thumb/8/85/叢雨_角色專輯封面.jpg/375px-叢雨_角色專輯封面.jpg)<br><br>②移动端游戏《战舰少女collection》中的驱逐舰角色。![](https://uploads.kcwiki.cn/commons/thumb/6/68/KanMusu298Illust.png/114px-KanMusu298Illust.png) | [战舰少女:村雨](https://zh.moegirl.org.cn/战舰少女:村雨) [舰队Collection:村雨](https://zh.moegirl.org.cn/舰队Collection:村雨)<br>[萌娘百科](https://zh.moegirl.org.cn/丛雨) |
 | yuudachi | 夕立 | 旧日本帝国海军的白露级驱逐舰四号舰“夕立”（夕立 (白露型驱逐舰)） | [碧蓝航线:夕立](https://zh.moegirl.org.cn/碧蓝航线:夕立) [战舰少女:夕立](https://zh.moegirl.org.cn/战舰少女:夕立) [舰队Collection:夕立](https://zh.moegirl.org.cn/舰队Collection:夕立) |
 | samidare | 五月雨 |  | [舰队Collection:五月雨](https://zh.moegirl.org.cn/舰队Collection:五月雨) |
 | suzukaze | 凉风 |  | [舰队Collection:凉风](https://zh.moegirl.org.cn/舰队Collection:凉风) |
