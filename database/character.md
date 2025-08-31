@@ -4164,7 +4164,7 @@ example:
 | kobeni higashiyama | 东山小红 | 所属作品: `p:chainsaw man`<br>![](https://static.wikia.nocookie.net/chainsaw-man/images/a/ab/Kobeniscarownercolored.png) | [萌娘百科](https://zh.moegirl.org.cn/东山小红) |
 | hildegarde | 希尔迪嘉露塔 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
 | aoi kunieda | 邦枝葵 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
-| sajuna inui | 乾纱寿叶 | 所属作品: `p:sono bisque doll wa koi o suru` | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
+| sajuna inui | 乾纱寿叶 | 所属作品: `p:sono bisque doll wa koi o suru`![](https://lain.bgm.tv/r/400/pic/crt/l/6a/36/102584_crt_77p9o.jpg?r=1636978595) | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
 | soi fon | 碎蜂 |  |  |
 | guan yinping | 关银屏 |  |  |
