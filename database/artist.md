@@ -5806,7 +5806,7 @@ example:
 | hirno | Hirno |  |  |
 | hiro kari | ひろ(仮) |  |  |
 | hiro kazuki | 比呂カズキ |  |  |
-| hirob816 | HiRoB816 |  |  |
+| hirob816 | ひろびー |  |  |
 | hiroe rei | 広江礼威 | れっどべあ |  |
 | hirogoori akio | 広郡明生 |  |  |
 | hiroichi | ヒロイチ |  |  |
