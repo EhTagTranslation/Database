@@ -6666,6 +6666,7 @@ example:
 | poppy | 波琵 | 日语：ポピー<br>英语：Poppy<br>《宝可梦系列》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/波琵) |
 | tsumugi kasukabe | 春日部䌷 | 春日部䌷（日语：春日部つむぎ）是由春日部筑紫所创作的应援埼玉县的虚拟形象。拥有VOICEVOX和VOCALOID声库。<br>![春日部](https://p.sda1.dev/26/06c382fe48c41e6671ada920b206e975/Kasukabe_Tsumugi.png) | [萌娘百科](https://zh.moegirl.org.cn/春日部䌷#.E7.94.BB.E5.BB.8A) |
 | eclipse | 伊柯利普斯 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/593603.html?style=style1) |
+| morpeah | 墨菲亚 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/632282.html?tab=fzjn&style=style1) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
