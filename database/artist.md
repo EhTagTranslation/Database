@@ -1975,7 +1975,7 @@ example:
 | abe yoshitoshi | 安倍吉俊 |  |  |
 | son hee-joon | 손희준 | 233 |  |
 | herurun | へるるん |  |  |
-| hoshino | 星乃 |  |  |
+| hoshino | ホシノ |  |  |
 | zyugoya | 十五夜 |  |  |
 | yamaoka koutetsurou | 山冈钢铁郎 |  |  |
 | henreader | へんりいだ | 单行本《もっと! はつこいりぼん。》<br>![图](# "https://ehgt.org/15/b5/15b53ac3d21261728f4d40be233bbb61dabf8fcf-3732048-3351-4948-jpg_l.jpg") | [X](https://x.com/henreaderh_) [pixiv](https://www.pixiv.net/users/2278911) |
