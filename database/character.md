@@ -6669,6 +6669,7 @@ example:
 | morpeah | 墨菲亚 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/632282.html?tab=fzjn&style=style1) |
 | sameko saba | 鲨鱼子Saba | ![](https://upload.wikimedia.org/wikipedia/zh/c/c1/Samekosaba.png)<br>美国个人势英语虚拟YouTuber。 | [维基百科](https://zh.wikipedia.org/wiki/鯊魚子Saba) |
 | augusta | 奥古斯塔 | 游戏《鸣潮》及其衍生作品中的角色。 |  |
+| riselia ray crystalia | 黎榭莉亚·雷·克里斯塔利亚 | 就读于圣剑学院的贵族女孩。 第 18 小队队长。 在调查废墟的任务中，打破了雷欧尼斯的封印，唤醒了他。![](https://lain.bgm.tv/r/400/pic/crt/l/1c/50/126029_crt_8NMZm.jpg?r=1690203687) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
