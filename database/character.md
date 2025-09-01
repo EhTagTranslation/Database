@@ -6668,6 +6668,7 @@ example:
 | eclipse | 伊柯利普斯 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/593603.html?style=style1) |
 | morpeah | 墨菲亚 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/632282.html?tab=fzjn&style=style1) |
 | sameko saba | 鲨鱼子Saba | ![](https://upload.wikimedia.org/wikipedia/zh/c/c1/Samekosaba.png)<br>美国个人势英语虚拟YouTuber。 | [维基百科](https://zh.wikipedia.org/wiki/鯊魚子Saba) |
+| augusta | 奥古斯塔 | 游戏《鸣潮》及其衍生作品中的角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
