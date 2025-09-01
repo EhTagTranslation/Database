@@ -13955,6 +13955,7 @@ example:
 | greatnaosuke | 良い直助 |  | [X](https://x.com/greatnaosuke) |
 | saki kaori | 咲香里 |  |  |
 | you yue yue | 幼月月 |  | [pixiv](https://www.pixiv.net/users/10344581)<br>[FANBOX](https://www.fanbox.cc/@youyueyuee)<br>[X](https://x.com/youyuetk) |
+| umibara yuta | 海原ゆた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
