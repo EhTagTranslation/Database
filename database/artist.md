@@ -231,7 +231,7 @@ example:
 | kylin | Kylin |  |  |
 | morishima kon | 森岛康 | 森岛コン | [pixiv](https://www.pixiv.net/users/2634234) [X](https://x.com/kon_004) |
 | mdo-h | 无道睿智 | 無道叡智<br>![PixivIcon](https://i.pixiv.cat/user-profile/img/2021/04/05/10/26/29/20480805_9f04fce0df0b9effba821335b892e257_170.png) | [X](https://x.com/mdoh02) [pixiv](https://www.pixiv.net/users/4144) [FANBOX](https://mdo-h.fanbox.cc/) |
-| ginyou haru | 銀曜ハル |  |  |
+| ginyou haru | 银曜ハル |  |  |
 | shiina | シイナ |  |  |
 | mikuta | みくた |  |  |
 | shibasaki syouzi | 柴崎ショージ | 其他笔名：柴崎しょうじ | [X](https://x.com/Siba_Syoji) |
