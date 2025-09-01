@@ -1127,7 +1127,7 @@ example:
 | umeko | うめ子 |  |  |
 | yamada yuuya | ヤマダユウヤ | ![X](https://pbs.twimg.com/profile_images/688924522590814208/gBTyouE0_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/yamakawayamada) [pixiv](https://www.pixiv.net/users/33611) |
 | yumoteliuce | ユモテリウス |  |  |
-| ichihaya | いちはや |  | [pixiv](https://www.pixiv.net/users/10704)<br>[X](https://x.com/188_sch)<br>[Tumblr](https://ichihayasch.tumblr.com) |
+| ichihaya | いちはや | 萝莉控 | [Tumblr](https://ichihayasch.tumblr.com)<br>[X](https://x.com/188_sch)<br>[Fantia](https://fantia.jp/fanclubs/3743)<br>[pixiv](https://www.pixiv.net/users/10704)<br>[BOOTH](https://188.booth.pm/) |
 | oboro | 胧 |  |  |
 | takayanagi katsuya | 高柳カツヤ |  | [X](https://x.com/hatsujohki) |
 | hori hiroaki | 堀博昭 |  |  |
