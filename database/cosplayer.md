@@ -159,6 +159,7 @@ example:
 | yamisung | Yamisung |  |  |
 | demon mika | Demon Mika |  |  |
 | yamazaki reina | 山崎レイナ |  |  |
+| naitao | 奶桃 |  |  |
 
 <!--
 Template: 
