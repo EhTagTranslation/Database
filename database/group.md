@@ -13267,6 +13267,7 @@ example:
 | mochiki sengyoten | もちき鮮魚店 |  |  |
 | koromoya | 衣屋 |  |  |
 | acesulfame kei | あせするふぁむ系 |  |  |
+| sukebe hatsudenjo | すけべ发电所 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
