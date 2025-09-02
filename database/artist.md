@@ -10895,7 +10895,7 @@ example:
 | toki | トキ |  |  |
 | tokiai haya | 伽藍快 |  |  |
 | tokihama jiro | 時浜次郎 |  |  |
-| tokimachi eisei | トキマチ★エイセイ |  |  |
+| tokimachi eisei | トキマチ★エイセイ |  | [pixiv](https://www.pixiv.net/users/283275) |
 | tokimal yoshihisa | 時丸佳久 |  |  |
 | tokino | 時乃 |  |  |
 | tokinobutt | ときのぶっと |  |  |
