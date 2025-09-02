@@ -13958,6 +13958,7 @@ example:
 | umibara yuta | 海原ゆた |  |  |
 | oomugi | 大麥 |  |  |
 | mizuki gen | 水木玄 |  |  |
+| okuma | 奥马 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
