@@ -13266,6 +13266,7 @@ example:
 | dodeca vitamin | ドデカビタミン |  |  |
 | mochiki sengyoten | もちき鮮魚店 |  |  |
 | koromoya | 衣屋 |  |  |
+| acesulfame kei | あせするふぁむ系 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
