@@ -6671,6 +6671,7 @@ example:
 | augusta | 奥古斯塔 | 游戏《鸣潮》及其衍生作品中的角色。 |  |
 | riselia ray crystalia | 黎榭莉亚·雷·克里斯塔利亚 | 就读于圣剑学院的贵族女孩。 第 18 小队队长。 在调查废墟的任务中，打破了雷欧尼斯的封印，唤醒了他。![](https://lain.bgm.tv/r/400/pic/crt/l/1c/50/126029_crt_8NMZm.jpg?r=1690203687) |  |
 | glorious | 光荣 | ![](https://p.sda1.dev/26/074f1b2691d7ce7b7ee5761f9d816868/image.png)<br>《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型为英国皇家海军的原大型轻巡洋舰/轻型战列巡洋舰、后改装为舰队航母的光荣号航空母舰（HMS Glorious）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:光荣) |
+| aliceliese lou nebulis ix | 爱丽丝莉洁·露·涅比利斯 九世 | 轻小说《你与我最后的战场，亦或是世界起始的圣战》中的女主角，17岁。涅比里斯皇厅的第二王女。使用冰系星灵力量的强大星灵使，被帝国冠以“冰祸的魔女”这一畏称。![](https://lain.bgm.tv/r/400/pic/crt/l/00/21/72423_crt_eS9s9.jpg?r=1701605070) | [Bangumi](https://bgm.tv/character/72423) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
