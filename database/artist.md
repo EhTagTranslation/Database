@@ -13047,7 +13047,7 @@ example:
 | gekkou | 月光 |  |  |
 | tsumiki | ツミキ |  |  |
 | tanakala | タナカラ |  |  |
-| hatsuden pengin | 発電ペンギン |  |  |
+| hatsuden pengin | 发电企鹅 |  |  |
 | novice tori | のーびす鸟 |  |  |
 | dion | DION |  | [pixiv](https://www.pixiv.net/users/92966311) [X](https://x.com/dio_nand) |
 | ricochet | リコシェット |  | [pixiv](https://www.pixiv.net/users/66409778) [X](https://x.com/RIKOSYEGOSUB) |
