@@ -3414,7 +3414,7 @@ example:
 | noelle | 诺艾尔 | 诺艾尔（英语：noelle）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/未授勋之花_诺艾尔.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
 | sucrose | 砂糖 | 砂糖（英语：sucrose）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/砂糖.png) | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
 | diona | 迪奥娜 | 迪奥娜（英语：diona）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/38/迪奥娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
-| rosaria | 罗莎莉亚 | 罗莎莉亚（英语：rosaria）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/56/原神罗莎莉亚.jpg) | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
+| rosaria | 罗莎莉亚 | ![](https://patchwiki.biligame.com/images/ys/b/b6/r1wkenadal2tp82dhfbxhz566ofiyvs.png)<br>罗莎莉亚（英语：rosaria）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>除了打扮哪里都不像神职人员的修女。冷淡的言行中透着锐利。总是单独行动。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
 | klee | 可莉 | 可莉（英语：klee）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/3e/可莉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 | 辛焱（英语：xinyan）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7c/辛焱%28大陆官服%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/辛焱) |
 | venti | 温迪 | 温迪（英语：venti）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/de/高天的歌者_温迪.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/温迪) |
