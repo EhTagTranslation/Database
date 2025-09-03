@@ -3646,7 +3646,7 @@ example:
 | sara kujou | 九条裟罗 | 九条裟罗（英语：sara kujou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/d2/Genshin_kujo_sara_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/九条裟罗) |
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《`p:uma musume pretty derby`》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/醒目飞鹰) |
 | asuna ichinose | 一之濑明日奈 | 所属作品：`p:blue archive`<br>社团“肃清与扫荡”成员，主要武装为步枪。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/94828/2021/10/4/250501.png) | [Fandom](https://bluearchive.fandom.com/wiki/Ichinose_Asuna) |
-| akane murokasa | 室笠茜 | 室笠朱音 / 室笠茜是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/c/cc/BA_Akane_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/室笠朱音) |
+| akane murokasa | 室笠茜 | 室笠朱音 / 室笠茜是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。千年科学学校所属，秘密组织「C&C」的特工。<br>![](https://patchwiki.biligame.com/images/ba/c/cd/3o24acgomsaiuu9kza8ci8gcxiw6kqn.png)<br>![](https://img.moegirl.org.cn/common/c/cc/BA_Akane_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/室笠朱音) |
 | karin kakudate | 角楯花凛 | 角楯花凛 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>所属作品：`p:blue archive` |  |
 | gray wolf | 灰狼 |  |  |
 | brown bear | 棕熊 |  |  |
