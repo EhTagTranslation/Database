@@ -5706,7 +5706,7 @@ example:
 | manticore | 狮蝎 |  | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
 | mogador | 莫加多尔 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
-| xilonen | 希诺宁 |  | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
+| xilonen | 希诺宁 | ![](https://patchwiki.biligame.com/images/ys/2/21/r68ykvcqtsshriop2u7onp2euuh8ev8.png)<br>纳茨卡延的铸名师，善于在工作的重担与舒适的生活之间找到平衡点。 | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
 | citlali | 茜特菈莉 | ![](https://patchwiki.biligame.com/images/ys/e/e0/srjrwy2mjj6raqil39tftplz86v5uvt.png)<br>所属作品: `genshin impact`<br>烟谜主的大萨满，令所有族人敬畏的黑曜石奶奶。 | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉) |
 | neo universe | 新宇宙 | ![](https://moegirl.icu/media/thumb/UPDCH_NeoUniverse_00.png/580px-UPDCH_NeoUniverse_00.png)<br>新宇宙是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ネオユニヴァース（Neo Universe）。 | [萌娘百科](https://zh.moegirl.org.cn/新宇宙%28赛马娘_Pretty_Derby%29#) |
 | koleda belobog | 珂蕾妲·贝洛伯格 | 《绝区零》及其衍生作品的登场角色。白祇重工的头儿，年纪轻轻的掌舵人。别号：珂蕾妲、小不点、社长。 | [萌娘百科](https://zh.moegirl.org.cn/珂蕾妲·贝洛伯格) |
