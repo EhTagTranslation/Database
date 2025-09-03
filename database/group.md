@@ -13268,6 +13268,7 @@ example:
 | koromoya | 衣屋 |  |  |
 | acesulfame kei | あせするふぁむ系 |  |  |
 | sukebe hatsudenjo | すけべ发电所 |  |  |
+| katakana de velokisss | 平仮名で、べろきす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
