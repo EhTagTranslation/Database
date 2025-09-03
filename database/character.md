@@ -1059,7 +1059,7 @@ example:
 |  | ▼ 闪乱神乐 角色 |  |  |
 | ageha | 扬羽 | ![](https://ehgt.org/82/3e/823e07b1218cf49207b09340534ad0175dc4c6e2-286069-384-480-png_l.jpg) |  |
 | aimu | 蓝梦 | ![](https://ehgt.org/31/3e/313eefbe54a223a05b1da924ac1cca2eeff737b0-48502-384-480-jpg_l.jpg) |  |
-| aria | 亚璃亚 | ![](https://ehgt.org/b7/25/b725422163b6b9e4b6838b7442e627ccff8e36cc-40685-384-480-jpg_l.jpg) |  |
+| aria | 亚璃亚 \| 艾丽娅 | ①亚璃亚![](https://img.moegirl.org.cn/common/thumb/d/d7/闪乱神乐-亚璃亚.jpg/420px-闪乱神乐-亚璃亚.jpg)<br>《闪乱神乐》系列的登场角色。市立咲芸大学附属高校，高中3年级。<br><br>②艾丽娅![](https://img.moegirl.org.cn/common/thumb/6/61/精灵艾丽娅.png/270px-精灵艾丽娅.png)<br>銀翼のぞみ担任原作、夜ノみつき负责插画的小说《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》中的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
 | ashiya | 芦屋 | ![](https://ehgt.org/73/d2/73d23bf0a118d460125c91b896868f27264f280d-47258-384-480-jpg_l.jpg) |  |
 | asuka | 飞鸟 | ![](https://ehgt.org/13/bb/13bb29196ae02fa0a274ff1134cf77a608c90cfc-55122-384-480-jpg_l.jpg) |  |
 | ayame | 菖蒲 | ![](https://ehgt.org/f6/d7/f6d7951b09c665c3dd3b98e08df89b2256db1ecd-41932-384-480-jpg_l.jpg) |  |
