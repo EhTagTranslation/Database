@@ -5227,7 +5227,7 @@ example:
 | julie power | 朱莉·鲍尔 |  |  |
 | yukina himeragi | 姬柊雪菜 |  | [萌娘百科](https://zh.moegirl.org.cn/姬柊雪菜) |
 | muimi sonoue | 园上矛依未 |  | [萌娘百科](https://zh.moegirl.org.cn/园上矛依未) |
-| minori yasumori | 安守实梨 |  |  |
+| minori yasumori | 安守实梨 | 红冬联邦学园所属，工务部的部长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/43758/2025/5/13/920266.png) |  |
 | kikyou kushida | 栉田桔梗 |  |  |
 | rouge the bat | 露姬 |  | [百度百科](https://baike.baidu.com/item/露姬/1330479) |
 | amy rose | 艾咪·罗斯 |  | [索尼克百科](https://sonicpedia.org/wiki/艾咪・罗斯) |
