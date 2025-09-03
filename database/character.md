@@ -4076,7 +4076,7 @@ example:
 | rhea | 蕾雅 |  |  |
 | byleth eisner | 贝雷丝·艾斯纳 |  |  |
 | hoshino takanashi | 小鸟游星野 | 所属作品：`p:blue archive`<br><br>阿拜多斯高等学校的前副会长，现在是担任对策委员会的委员长的慵懒少女。拥有老人似的口癖特征，平日喜欢游手好闲。虽然因为偷懒会常常被委员会的伙伴说教，可一旦执行任务，就会为了守护伙伴而奋斗在最前线。<br>![](https://patchwiki.biligame.com/images/ba/f/f4/kwv08gawtndos2ftli5jn35j1htby4g.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4f/a1vfkijzou4p9i1cgn8iyc56lp9yh6x.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hoshino) |
-| miyu kasumizawa | 霞泽美游 | 霞泽美游（日语：霞沢ミユ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a7/BA_Miyu_ML.png/1280px-BA_Miyu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/霞泽美游) |
+| miyu kasumizawa | 霞泽美游 | 霞泽美游（日语：霞沢ミユ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。SRT特殊学园所属，RABBIT小队的狙击手。<br>![](https://patchwiki.biligame.com/images/ba/d/d0/mrxabie2s384ijjwc2a4wkab2eccmg6.png)<br>![](https://img.moegirl.org.cn/common/thumb/a/a7/BA_Miyu_ML.png/1280px-BA_Miyu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/霞泽美游)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Miyu) |
 | midori saiba | 才羽绿 | 所属作品：`p:blue archive`<br>千年科学学校所属，游戏开发部的插画家。<br>和双胞胎姊姊桃井一起在游戏开发部开发游戏。<br>![](https://patchwiki.biligame.com/images/ba/2/2d/emri5ceuyg91ib7xppdr8ijlpvg3rjv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Midori) |
 | momoi saiba | 才羽桃井 | 所属作品：`p:blue archive`<br><br>千年学园，游戏开发部的编剧。和双胞胎妹妹绿一起在游戏开发部开发游戏。 个性爽快开朗，和生性内向的妹妹不太合得来。但她们对游戏充满热情，两人在这方面意气相投，是独一无二的好搭档。 |  |
 | kaede isami | 勇美枫 | 所属作品：`p:blue archive`<br><br>百鬼夜行联合学园所属，修行部的元气部员。<br>原本是乡下的淘气孩子，突然遇到了来自修行部的两人，憧憬着那样的身影而入了部。<br>虽然夜以继日都在不停钻研修行，但这大部分不知为何都引来了麻烦的样子…![](https://patchwiki.biligame.com/images/ba/c/c0/1j2kaec2fnh8nodzsv7cfxdiq0m3bt9.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kaede) |
