@@ -5423,7 +5423,7 @@ example:
 | yurine hanazono | 花园百合铃 | 花園百合鈴（花園ゆりね）是由ユキヲ所創作的漫畫《邪神與廚二病少女》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/5/54/花园百合铃_动画.jpeg) |  |
 | yinlin | <p>吟霖</p> | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/0/06/oam1qsmo53qrj0tq4cwv3kfdn0na6bi.png/574px-Mc_wiki_role_yinlin_x1500.png)<p>吟霖是库洛制作的游戏<abbr title="wuthering waves" ns="parody">鸣潮</abbr>的登场角色。</p><br>吟霖是天生的共鸣者，也曾是治安署的优秀巡尉。但现在却因为一起案件被消去了夜归身份，只能在暗处独自调查着潜藏的罪恶。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/吟霖) |
 | jinshi | 壬氏 | 壬氏是是由日向夏创作、しのとうこ插画的轻小说`p:kusuriya no hitorigoto`及其衍生的动画等作品的登场角色。 |  |
-| jinhsi | 今汐 | 今汐是库洛制作的游戏`p:wuthering waves`的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/今汐) |
+| jinhsi | 今汐 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/b/bc/o1upzayanl3qwzzimfljo6e1zejanuj.png/550px-角色_今汐_立绘.png)<br>今汐是库洛制作的游戏`p:wuthering waves`的登场角色。<br>今令尹今汐，万丈天光被她化作点点辉芒，温柔地照亮人们的愿望。<br>命运向她指明神灵的方向，但她脚下的道路，仍然通向人类的未来。 | [萌娘百科](https://zh.moegirl.org.cn/今汐)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/今汐) |
 | aversa | 茵巴丝 | 火焰纹章：觉醒中的女性反派 | [https://guide.fire-emblem-heroes.com/zh/10005003000306-2/](https://guide.fire-emblem-heroes.com/zh/10005003000306-2/) |
 | ethan winters | 伊森·温特斯 | 生化危机7.8角色 | [百度百科](https://baike.baidu.com/item/伊森·温特斯/20799755) |
 | avenger | 安哥拉曼纽 |  |  |
