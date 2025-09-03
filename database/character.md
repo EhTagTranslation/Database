@@ -4566,7 +4566,7 @@ example:
 | baiken | 梅喧 |  |  |
 | asuka kazama | 风间飞鸟 |  |  |
 | lili rochefort | 莉莉·罗舍福尔 |  |  |
-| shizuko kawawa | 河和静子 | 所属作品：`p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/6/63/Shizuko_Portrait.png/revision/latest?cb=20220209171413) | [Fandom](https://bluearchive.fandom.com/wiki/Kawawa_Shizuko) |
+| shizuko kawawa | 河和静子 | 所属作品：`p:blue archive`百鬼夜行联合学园所属，庆典运营委员会的委员长。<br>![](https://patchwiki.biligame.com/images/ba/5/5b/hsh03j5zm3k57epuxt8udzpsr0xf797.png)<br>![](https://patchwiki.biligame.com/images/ba/4/40/l4y240rfbcer6tbr8l1xxlsfxlfpx9n.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kawawa_Shizuko)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Shizuko) |
 | akira kiyosumi | 清澄晶 | 所属作品：`p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/e/e6/Akira_Mask_Portrait.png/revision/latest?cb=20230610131917) | [Fandom](https://bluearchive.fandom.com/wiki/Kiyosumi_Akira) |
 | kanji sasahara | 笹原完士 |  |  |
 | chika ogiue | 荻上千佳 |  |  |
