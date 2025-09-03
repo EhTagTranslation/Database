@@ -4718,7 +4718,7 @@ example:
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive` |  |
 | mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
 | marina ikekura | 池仓玛丽娜 | 池仓玛丽娜是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/e9/BA_Marina_ML.png/1280px-BA_Marina_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/池仓玛丽娜) |
-| eimi izumimoto | 和泉元艾米 | 所属作品：`p:blue archive` |  |
+| eimi izumimoto | 和元泉艾米 | 所属作品：`p:blue archive`千年科学学校所属，特异现象搜查部的成员。<br>![](https://patchwiki.biligame.com/images/ba/c/c9/labxdukagfampj52tifctfwuce2nsex.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Eimi) |
 | megu shimokura | 下仓惠 | 所属作品：`p:blue archive` |  |
 | serina sumi | 鹫见芹娜 | 圣三一综合学园所属，献身于救护骑士团的温柔少女。![](https://patchwiki.biligame.com/images/ba/0/05/irkytlzqnd9m35zn49l8277qdbfp7ao.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Serina) |
 | ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive` |  |
