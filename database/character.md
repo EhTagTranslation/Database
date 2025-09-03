@@ -4730,7 +4730,7 @@ example:
 | maki konuri | 小涂真纪 | 所属作品：`p:blue archive` |  |
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive` |  |
 | mimori mizuha | 水羽三森 | 所属作品：`p:blue archive` |  |
-| haruka igusa | 伊草遥香 | 所属作品：`p:blue archive` |  |
+| haruka igusa | 伊草遥香 | 所属作品：`p:blue archive`格黑娜学园所属，便利屋68的普通社员。![](https://patchwiki.biligame.com/images/ba/e/ee/swbse283usqpys5mriagbkfm6x3wiox.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Haruka) |
 | kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive` |  |
 | yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive` |  |
 | hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive` |  |
