@@ -2500,7 +2500,7 @@ example:
 | watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta | 我们不可能成为恋人！绝对不行。 | 由みかみてれん创作、竹嶋えく负责角色原案和插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/我怎么可能成为你的恋人，不行不行！（※不是不可能！？）)<br>[维基百科](https://zh.wikipedia.org/wiki/我們不可能成為戀人！絕對不行。（※似乎可行？）) |
 | mamahaha no tsurego ga motokano datta | 继母的拖油瓶是我的前女友 |  |  |
 | hikikomari kyuuketsuki no monmon | 家里蹲吸血姬的苦闷 |  |  |
-| gimai seikatsu | 关于我在无意间被隔壁的天使变成废柴这件事 |  |  |
+| gimai seikatsu | 义妹生活 | ![](https://img.moegirl.org.cn/common/thumb/0/07/义妹生活1.jpg/420px-义妹生活1.jpg)<br>《义妹生活》是Hiten插画的轻小说作品，作者是三河Ghost，其原型是在YouTube更新的同名有声作品，但相比于YouTube版调整了时间线，增加了新角色。 |  |
 | kakkou no iinazuke | 杜鹃的婚约 |  |  |
 | shiunji-ke no kodomotachi | 紫云寺家的兄弟姐妹 |  | [维基百科](https://zh.wikipedia.org/wiki/紫雲寺家的兄弟姊妹) [萌娘百科](https://zh.moegirl.org.cn/紫云寺家的孩子们) |
 | kamisama ni natta hi | 成神之日 | key社动画作品 |  |
