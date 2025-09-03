@@ -6677,7 +6677,7 @@ example:
 | maki oze | 茉希尾濑 | 大久保笃创作的漫画《炎炎消防队》及其衍生作品的登场角色。第8特殊消防队、第二世代能力者、一等消防官。<br>原先是军人，故格斗技术优异。虽然外表炫酷，但却非常喜欢恋爱这个话题，脑袋里如同‘少女的花田’一样的残念美人 。![](https://img.moegirl.org.cn/common/thumb/e/e6/Character_main4.png/150px-Character_main4.png) | [百度百科](https://baike.baidu.com/item/茉希尾濑)<br>[萌娘百科](https://zh.moegirl.org.cn/茉希尾濑) |
 | lisa isaribi | 丽莎渔边 | 日本漫画《炎炎消防队》及其衍生作品中的人物。第三世代能力者，使用的能力是火焰触角，可释放渔火。![](https://lain.bgm.tv/r/400/pic/crt/l/05/e9/73165_crt_u55Oy.jpg?r=1573886346) | [Bangumi](https://bgm.tv/character/73165) |
 | joo-hee lee | 李晓希 \| 观月绘里 | 韩国漫画《我独自升级》及其衍生作品中的B级猎人，职业为治疗师，容易被恐惧支配，担心总是在任务中受伤的程肖宇 。 | [百度百科](https://baike.baidu.com/item/李晓希) |
-| song-yi han | 韩宋伊 | E级猎人，程肖雅的同班同学。 |  |
+| song-yi han | 韩宋伊 | 韩国漫画《我独自升级》中登场的角色。<br>E级猎人，程肖雅的同班同学。<br>![](https://img.moegirl.org.cn/common/thumb/6/6b/Solo_Leveling_Anime_Han_Song-Yi_2.jpg/150px-Solo_Leveling_Anime_Han_Song-Yi_2.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
