@@ -4734,7 +4734,7 @@ example:
 | kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive` |  |
 | yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive` |  |
 | hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive` |  |
-| cherino renkawa | 连河切里诺 | 所属作品：`p:blue archive` |  |
+| cherino renkawa | 连河切里诺 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，蛮横孩子气的学生会长。![](https://patchwiki.biligame.com/images/ba/6/64/247f0m1q5vxmcmevvmddr3axv3hdfnf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Cherino) |
 | kei tsukishima | 月岛萤 |  | [萌娘百科](https://zh.moegirl.org.cn/月岛萤) |
 | izzy izumi | 泉光子郎 |  |  |
 | tai kamiya | 八神太一 |  |  |
