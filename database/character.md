@@ -4420,7 +4420,7 @@ example:
 | luo tianyi | 洛天依 |  |  |
 | sensei | 老师 | `p:blue archive`玩家自己，即故事中的男主。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
 | azuma seren | 东雪莲 |  |  |
-| yaoyao | 瑶瑶 | 瑶瑶（英语：yaoyao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/52/瑶瑶.jpg) | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
+| yaoyao | 瑶瑶 | ![](https://patchwiki.biligame.com/images/ys/7/7e/5d1rrp2h3r1c2p8ut3evp1wp7qyj14k.png)<br>瑶瑶（英语：yaoyao）所属作品:`p:genshin impact`<br>歌尘浪市真君膝下最年幼的弟子，温柔体贴的「小大人」。 | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
 | monika | 莫妮卡 | 所属作品: `p:granblue fantasy`<br>![](https://p.sda1.dev/21/8f8814663ecd7ded1eb04c9b939fd985/image.png)<br><br>所属作品: `p:doki doki literature club`<br>![](https://p.sda1.dev/21/be4b908a441a0ac3d5c4b89b1f554a0b/image.png)<br>**唯一**女主角 | [莫妮卡(碧蓝幻想)](https://gbf.wiki/Monika)<br>[莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
 | tania | 塔妮雅 |  |  |
 | barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
