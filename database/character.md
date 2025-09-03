@@ -3616,7 +3616,7 @@ example:
 | tae takemi | 武见妙 | 武见妙（日语：武見（タケミ） 妙（タエ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/武见妙) |
 | chihaya mifune | 御船千早 | 御船千早（日语：御船（ミフネ） 千早（チハヤ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/御船千早) |
 | hifumi togo | 东乡一二三 | 东乡一二三（日语：東郷（トウゴウ） 一二三（ヒフミ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/东乡一二三) |
-| yae miko | 八重神子 | 八重神子（英语：yae miko）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/db/浮世笑百姿_八重神子.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八重神子) |
+| yae miko | 八重神子 | ![](https://patchwiki.biligame.com/images/ys/3/3d/hy9x8mzx00o8oj5iysddzh36r460eo5.png)<br>八重神子（英语：yae miko）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>鸣神大社的宫司大人，兼任「八重堂」总编。艳丽动人的外表下藏着令人意想不到的聪慧与狡黠。 | [萌娘百科](https://zh.moegirl.org.cn/八重神子) |
 | yoimiya naganohara | 宵宫 | 宵宫（英语：yoimiya naganohara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f9/Genshin_yomiya_intro.jpg) | [萌娘百科\_宵宫](https://zh.moegirl.org.cn/宵宫) |
 | kei yuuki | 结城萤 |  |  |
 | tadayasu sawaki | 泽木直保 |  |  |
