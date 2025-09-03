@@ -4613,7 +4613,7 @@ example:
 | natsumi hodaka | 帆高夏海 | 帆高夏海（日语：帆高（ほだか）夏海（なつみ））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆高夏海) |
 | hina tsurugi | 鹤木阳渚 | 鹤木阳渚（日语：鶴木（つるぎ）陽渚（ひな））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鹤木阳渚) |
 | gwen stacy | 格温·斯黛西 |  |  |
-| reisa uzawa | 宇泽玲纱 | 所属作品: `p:blue archive` |  |
+| reisa uzawa | 宇泽玲纱 | 所属作品: `p:blue archive`<br>三一综合学院所属，自警团的成员，在三一的各地出没，进行着维持治安的活动。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/86082/2025/5/12/731476.png) |  |
 | power | 帕瓦 | 帕瓦是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帕瓦) |
 | hirofumi yoshida | 吉田宽文 | 吉田宽文是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/吉田宽文) |
 | silver wolf | 银狼 | 银狼是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/3/3f/银狼立绘.png/1024px-银狼立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/银狼) |
