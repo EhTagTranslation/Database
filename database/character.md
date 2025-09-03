@@ -1328,7 +1328,7 @@ example:
 | yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>冰芽川四糸（ひめかわ よしの），是橘公司所著、つなこ负责插画的轻小说《约会大作战》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
 | kotori itsuka | 五河琴里 | ![](https://pic.cangku.moe/images/2025/09/04/1y5Uo.md.webp) |  |
 | kaguya yamai | 八舞耶俱矢 | ![](https://pic.cangku.moe/images/2025/09/04/1yksq.md.webp) |  |
-| yuzuru yamai | 八舞夕弦 |  |  |
+| yuzuru yamai | 八舞夕弦 | ![](https://pic.cangku.moe/images/2025/09/04/1ylBp.md.webp) |  |
 | miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp) |  |
 | tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp) |  |
 | shido itsuka | 五河士道 |  |  |
