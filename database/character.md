@@ -6295,7 +6295,7 @@ example:
 | alina clover | 阿莉娜·克洛瓦 | 所属作品: `p:girumasu` | [萌娘百科](https://zh.moegirl.org.cn/阿莉娜·克洛瓦) [Fandom](https://dengeki.fandom.com/wiki/Alina_Clover) |
 | rindo chihaya | 轮堂千速 | 轮堂千速（日语：輪堂 千速／りんどう ちはやRindo Chihaya）是一名于2024年11月7日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『FLOW GLOW』。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Rindo_Chihaya) [萌娘百科](https://zh.moegirl.org.cn/轮堂千速) |
 | marie antoinette alter | 玛丽·安托瓦内特〔Alter〕 |  |  |
-| zani | 赞妮 | 游戏《鸣潮》及其衍生作品中的角色，来自黎那汐塔，埃费拉德银行的员工。 |  |
+| zani | 赞妮 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/b/b7/9relhfe7txqu4dmjpmxhz7u71d82q25.png/514px-角色_赞妮_立绘.png)<br>游戏《鸣潮》及其衍生作品中的角色，来自黎那汐塔，埃费拉德银行的员工。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/赞妮) |
 | lieselotte sherlock | 莉瑟罗特・沙尔洛克 | 塞丽娜的双胞胎姐姐，金发双马尾，穿着较少，身穿黑色的外衣以及黑色过膝皮靴。原王立图书馆二席检阅官，拥有怠惰的“书库”，术式为“数秘术”。被莉莉斯称为：不惜犯下禁忌，也要强行连接“永劫图书馆”的罪人。 就是半年前事件中被称为幽灵的"姐姐"。可以吸取他人魔力和研究成果。 |  |
 | beta | 贝塔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第二席。银白色头发和蓝色眼睛的精灵。对暗影抱持敬畏之心，每次事件都会撰写进自己的英雄谭「暗影大人战记」。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Beta) |
 | sophie neuenmuller | 苏菲·诺伊恩缪拉 | 所属作品: `p:atelier sophie` | [萌娘百科](https://zh.moegirl.org.cn/苏菲·诺伊恩缪拉) [Fandom](https://atelier.fandom.com/wiki/Sophie_Neuenmuller) |
