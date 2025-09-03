@@ -691,7 +691,7 @@ example:
 | haru yuuki | 结城晴 |  |  |
 | fumika sagisawa | 鹭泽文香 | 鹭泽文香（日语：鷺沢（さぎさわ） 文香（ふみか））是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的文学少女偶像。<br><br>![鹭泽文香](https://img.moegirl.org.cn/common/thumb/7/7c/35850324_m.jpg/250px-35850324_m.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鹭泽文香) |
 |  | 八神牧野 |  |  |
-| layla | 莱拉 \| 莱依拉 | 1.莱依拉（英语：layla）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/19/原神莱依拉.jpeg)<br><br>2.莱拉（日语：ライラ；英语：layla）所属作品:`p:the idolmaster`<br>《偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/16/［ラビアシュリータ］ライラ.jpg) | 1.[萌娘百科](https://zh.moegirl.org.cn/莱依拉)<br>2.[萌娘百科](https://zh.moegirl.org.cn/莱拉%28灰姑娘女孩%29#) |
+| layla | 莱拉 \| 莱依拉 | ①莱依拉（英语：layla）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。专攻理论星相学的梨多梵谛学院学生。时常梦游，长期缺觉，饱受睡眠问题困扰。<br>![](https://patchwiki.biligame.com/images/ys/8/88/ruzi3iy9p9mn4u5bjamjv9dpn6ew1vw.png)<br><br>②莱拉（日语：ライラ；英语：layla）所属作品:`p:the idolmaster`<br>《偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/16/［ラビアシュリータ］ライラ.jpg) | 1.[萌娘百科](https://zh.moegirl.org.cn/莱依拉)<br>2.[萌娘百科](https://zh.moegirl.org.cn/莱拉%28灰姑娘女孩%29#) |
 | asuka ninomiya | 二宫飞鸟 |  |  |
 | nanami asari | 浅利七海 |  |  |
 |  | 桐生司 |  |  |
