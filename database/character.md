@@ -4405,7 +4405,7 @@ example:
 | nana daiba | 大场奈奈 | 所属作品: `p:shoujo kageki revue starlight`<br>![](https://static.wikia.nocookie.net/revuestarlight/images/0/0e/Nana_Daiba_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/大场奈奈) [Fandom](https://revuestarlight.fandom.com/wiki/Nana_Daiba) |
 | minegumo | 峰云 | 所属作品: `p:kantai collection`<br>![图](https://ehgt.org/65/f8/65f83b382230e9b5deb0dcf2c5ffaf925bff70a5-102026-595-1052-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:峰云) |
 | princess star butterfly | 星蝶公主 | 是作品《公主闯天关》（英语：Star vs. the Forces of Evil）的主要主角。她是另一时空妙尼王国 (Mewni) 的一位十几岁的公主，被她的父母送到地球，以便在字汇智者(Glossaryck) 的监督下学习如何使用皇家魔杖。 | [萌娘百科](https://zh.moegirl.org.cn/星蝶) [维基百科](https://zh.wikipedia.org/wiki/公主闖天關) |
-| kazusa kyouyama | 杏山和纱 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/thumb/2/27/BA_Kazusa_ML.png/420px-BA_Kazusa_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/杏山千纱) |
+| kazusa kyouyama | 杏山和纱 | 所属作品：`p:blue archive`圣三一综合学园所属，个性温和的放学后甜点部成员。<br>![](https://patchwiki.biligame.com/images/ba/5/59/hujp5s66zom8qhd640z0qfkttqsxfou.png) | [萌娘百科](https://zh.moegirl.org.cn/杏山千纱)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kazusa) |
 | mahiru shiina | 椎名真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/椎名真昼) |
 | margot knight | 玛戈特·奈特 |  |  |
 | malga naruze | 玛伽·成濑 |  |  |
