@@ -5124,7 +5124,7 @@ example:
 | ichika nakamasa | 仲正一花 | 仲正一花是 Nexon 发行的游戏`p:blue archive`及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/仲正一花) |
 | nodoka amami | 天见和香 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，目前停学，被禁闭在旧校舍的227特别班。<br>![](https://patchwiki.biligame.com/images/ba/7/71/bw2hsp5agnruk5c1f2wqjsy6hyo7x3r.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4d/cy9z3uf36303j8768ztf47hq1w2elo7.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Nodoka) |
 | shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
-| iris | 艾莉丝 |  |  |
+| iris | 艾莉丝 \| 爱丽丝 | ①《炎炎消防队》及其衍生动画中的虚构角色![](https://lain.bgm.tv/r/400/pic/crt/l/90/6b/68396_crt_b5WxY.jpg?r=1678796731) | [百度百科](https://baike.baidu.com/item/爱丽丝/23315803) |
 | momoka yuragi | 由良木桃香 | 所属作品: `p:blue archive` |  |
 | yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive` |  |
 | yakumo aramaki | 荒牧八云 | 所属作品: `p:blue archive` |  |
