@@ -4731,7 +4731,7 @@ example:
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive` |  |
 | mimori mizuha | 水羽三森 | 所属作品：`p:blue archive` |  |
 | haruka igusa | 伊草遥香 | 所属作品：`p:blue archive`格黑娜学园所属，便利屋68的普通社员。![](https://patchwiki.biligame.com/images/ba/e/ee/swbse283usqpys5mriagbkfm6x3wiox.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Haruka) |
-| kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive` |  |
+| kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive`瓦尔基里警察学校所属，生活安全局的热血系学生。<br>![](https://patchwiki.biligame.com/images/ba/9/92/m9xvaaxz2yobge7lgvjshoo8ecw90ce.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kirino) |
 | yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive` |  |
 | hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive`阿里乌斯分校所属，阿里乌斯特殊小队的少女，略显胆小又显得有些忧郁的女孩。![](https://patchwiki.biligame.com/images/ba/3/33/3pn6oggseul7ercyw3oprkhymvcql18.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hiyori) |
 | cherino renkawa | 连河切里诺 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，蛮横孩子气的学生会长。![](https://patchwiki.biligame.com/images/ba/6/64/247f0m1q5vxmcmevvmddr3axv3hdfnf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Cherino) |
