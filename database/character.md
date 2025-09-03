@@ -4720,7 +4720,7 @@ example:
 | marina ikekura | 池仓玛丽娜 | Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。红冬联邦学园所属，维持治安的安保委员会的委员长。<br>![](https://patchwiki.biligame.com/images/ba/c/c0/8od0suem8f6pouddomkv5eefck0fbxz.png)<br>![](https://img.moegirl.org.cn/common/thumb/e/e9/BA_Marina_ML.png/1280px-BA_Marina_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/池仓玛丽娜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Marina) |
 | eimi izumimoto | 和元泉艾米 | 所属作品：`p:blue archive`千年科学学校所属，特异现象搜查部的成员。<br>![](https://patchwiki.biligame.com/images/ba/c/c9/labxdukagfampj52tifctfwuce2nsex.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Eimi) |
 | megu shimokura | 下仓惠 | 所属作品：`p:blue archive` |  |
-| serina sumi | 鹫见芹娜 | 圣三一综合学园所属，献身于救护骑士团的温柔少女。![](https://patchwiki.biligame.com/images/ba/0/05/irkytlzqnd9m35zn49l8277qdbfp7ao.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Serina) |
+| serina sumi | 鹫见芹娜 | 圣三一综合学园所属，献身于救护骑士团的温柔少女。<br>![](https://patchwiki.biligame.com/images/ba/0/05/irkytlzqnd9m35zn49l8277qdbfp7ao.png)<br>![](https://patchwiki.biligame.com/images/ba/8/82/rfy59f0mc11xpqvnwdslmy3mrzusq7j.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Serina) |
 | ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive` |  |
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive` |  |
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
