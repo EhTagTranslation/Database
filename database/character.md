@@ -4715,7 +4715,7 @@ example:
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的神秘少女，总是带着防毒面具，无法窥见她的表情。![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
 | saya yakushi | 药子纱绫 | 所属作品：`p:blue archive` |  |
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
-| mine aomori | 苍森美弥 | 所属作品：`p:blue archive` |  |
+| mine aomori | 苍森美弥 | 所属作品：`p:blue archive`<br><br>圣三一综合学园所属，救护骑士团的团长，内心坚定且诚实，但也有激进一面的白衣战士。<br>![](https://patchwiki.biligame.com/images/ba/3/32/1icwfswm5ihotm1q3qcrn8iyg43x6yc.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mine) |
 | mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
 | marina ikekura | 池仓玛丽娜 | Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。红冬联邦学园所属，维持治安的安保委员会的委员长。<br>![](https://patchwiki.biligame.com/images/ba/c/c0/8od0suem8f6pouddomkv5eefck0fbxz.png)<br>![](https://img.moegirl.org.cn/common/thumb/e/e9/BA_Marina_ML.png/1280px-BA_Marina_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/池仓玛丽娜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Marina) |
 | eimi izumimoto | 和元泉艾米 | 所属作品：`p:blue archive`千年科学学校所属，特异现象搜查部的成员。<br>![](https://patchwiki.biligame.com/images/ba/c/c9/labxdukagfampj52tifctfwuce2nsex.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Eimi) |
