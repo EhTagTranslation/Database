@@ -4210,7 +4210,7 @@ example:
 | shokudaikiri mitsutada | 烛台切光忠 |  |  |
 | horikawa kunihiro | 堀川国广 |  |  |
 | vajra | 瓦姬拉 | 碧蓝幻想中的角色 |  |
-| tighnari | 提纳里 | 提纳里（英语：tighnari）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/72/原神提纳里.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
+| tighnari | 提纳里 | ![](https://patchwiki.biligame.com/images/ys/8/80/7y1f48wp8fc0tfsjoeqb1zp4tupfi35.png)<br>提纳里（英语：tighnari）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>精通植物学的少年学者，现于道成林任巡林官一职。直率热忱，擅长教导脑瓜糊涂的人。 | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
 | hinata wakaba | 若叶日向 | 圣三一综合学园所属，修女会里认真且坚毅的少女。![](https://patchwiki.biligame.com/images/ba/9/99/2g8jalljb6inxqhwjk9k53fsitrvo2b.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hinata) |
 | chihiro kagami | 各务千寻 | 各务千寻（日语：各務チヒロ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。千年科学学校所属，黑客集团「真理部」的副部长。<br>![](https://img.moegirl.org.cn/common/7/7b/BA_Chihiro.png) | [萌娘百科](https://zh.moegirl.org.cn/各务千寻)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Chihiro) |
 | perrine h. clostermann | 佩琳·H·克洛斯特曼 | 所属作品: `p:strike witches`<br>![](https://static.wikia.nocookie.net/strikewitches/images/2/2a/Perrine_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/佩琳·H·克洛斯特曼) [Fandom](https://worldwitches.fandom.com/wiki/Perrine_H._Clostermann) |
