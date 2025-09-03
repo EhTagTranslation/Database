@@ -3413,7 +3413,7 @@ example:
 | lisa minci | 丽莎·敏兹 | 丽莎·敏兹（英语：lisa minci）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/图书管理员_丽莎.jpg) | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
 | noelle | 诺艾尔 | 诺艾尔（英语：noelle）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/未授勋之花_诺艾尔.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
 | sucrose | 砂糖 | 砂糖（英语：sucrose）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/砂糖.png) | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
-| diona | 迪奥娜 | 迪奥娜（英语：diona）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/38/迪奥娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
+| diona | 迪奥娜 | ![](https://patchwiki.biligame.com/images/ys/4/4b/s05kf5ihu4jzzstv5axzjpramvy9dx9.png)<br><p>迪奥娜（英语：diona）所属作品:<abbr title="genshin impact" ns="parody">原神</abbr><br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。	<br>遗传了稀薄的「非人」血统的少女,「猫尾酒馆」的超人气调酒师。 | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
 | rosaria | 罗莎莉亚 | ![](https://patchwiki.biligame.com/images/ys/b/b6/r1wkenadal2tp82dhfbxhz566ofiyvs.png)<br>罗莎莉亚（英语：rosaria）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>除了打扮哪里都不像神职人员的修女。冷淡的言行中透着锐利。总是单独行动。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
 | klee | 可莉 | 可莉（英语：klee）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/3e/可莉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 | 辛焱（英语：xinyan）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7c/辛焱%28大陆官服%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/辛焱) |
