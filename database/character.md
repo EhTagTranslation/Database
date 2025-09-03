@@ -4250,7 +4250,7 @@ example:
 | tartaglia | 「公子」达达利亚 | 达达利亚（英语：tartaglia）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2c/公子_达达利亚.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/达达利亚) |
 | gorou | 五郎 | 五郎（英语：gorou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7f/Genshin_Gorou_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/五郎%28原神%29#) |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
-| yun jin | 云堇 | 云堇（英语：yun jin）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c3/红毹婵娟_云堇.jpg) | [萌娘百科](https://zh.moegirl.org.cn/云堇) |
+| yun jin | 云堇 | ![](https://patchwiki.biligame.com/images/ys/a/aa/jyxi5vjit6z3sdws78l7nmucrrmgm4u.png)<br>云堇（英语：yun jin）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>集剧作与演唱能力于一身的璃月戏曲名角。风格自成一派，雅致柔美，恰如其人。 | [萌娘百科](https://zh.moegirl.org.cn/云堇) |
 | kloe rinz | 科洛丝·琳希 |  |  |
 | anelace elfead | 亚妮拉丝·艾尔菲德 |  |  |
 | scherazard harvey | 雪拉扎德·哈维 |  |  |
