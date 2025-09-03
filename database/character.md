@@ -6684,6 +6684,7 @@ example:
 | ciaccona | 夏空 | ![](https://pic.cangku.moe/images/2025/09/04/1yomE.th.webp)<br>黎那汐塔的吟游诗人——夏空。她为神明而歌，也为平凡的人类而歌。<br>她于旅途中记录着故事，传唱着故事，与故事的主人，故事的观众一同欢笑、感动、流泪。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/夏空) |
 | lupa | 露帕 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/8/8b/9psbu0nhrkejgb9pohgse6nftw839mp.png/650px-角色_露帕_立绘.png)<br>七丘的角斗士，万众瞩目的明星选手。<br>热情率直，如孤狼般具有野性的少女。若是能够一直享受竞技纯粹的快乐，露帕无畏在这赛场燃烧殆尽。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/露帕) |
 | mio takamiya | 崇宫澪 | ![](https://pic.cangku.moe/images/2025/09/04/1y6zI.md.webp) |  |
+| rinne sonogami | 园神凛祢 | ![](https://pic.cangku.moe/images/2025/09/04/11QKv.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11S0D.webp)<br>游戏《约会大作战凛祢乌托邦》及其衍生作品中的女主角 | [百度百科](https://baike.baidu.com/item/园神凛祢/4369102) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
