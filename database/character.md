@@ -6538,7 +6538,7 @@ example:
 | hanako-san | 花子小姐 |  |  |
 | kitarou | 鬼太郎 |  |  |
 | cyrene | 昔涟 | 往昔的涟漪，岁月的半神（，白厄的青梅竹马）<br>以下文本来自Gemini搜索结果优化：昔兰尼（Cyrene）是利比亚境内的一座古希腊城市，也译作古利奈。它是利比亚东部昔兰尼加地区（Cyrenaica）五个希腊城市中最古老且最重要的一个。昔兰尼建于公元前630年，由锡拉岛的殖民者建立。﻿<br>昔兰尼在历史上曾以出口罗盘草（Silphium）而闻名，这种植物被用作堕胎药，对城市的经济非常重要。这座城市在公元365年的一场大地震后，经济衰退，逐渐衰落，最终于公元643年被阿拉伯人占领。﻿<br>除了作为古城，昔兰尼也是一个希腊神话中的人物，她是国王Hypseus的女儿，也是阿波罗的妻子，并以她的名字命名了城市和地区，维基百科说，具体可以参考【{维基百科}】的介绍。 |  |
-| mukuro hoshimiya | 星宫六喰 |  |  |
+| mukuro hoshimiya | 星宫六喰 | ![](https://pic.cangku.moe/images/2025/09/04/1yNvk.md.webp) |  |
 | sophia valentine | 索菲娅•瓦伦丁 | 彩虹社vtuber |  |
 | phrolova | 弗洛洛 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/9/99/0bbzw7afgtwtu2rz5lx6h7400u324mr.png/585px-角色_弗洛洛_立绘.png)<br>游走于生死之间的残星会会监，神秘而危险的指挥家……<br>她沉默地挥舞指挥棒，手中调律频率演奏出的“灵魂”旋律，既可塑造美好的世界，也可唤来千军万马。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/弗洛洛) |
 | kiyohime lancer | 清姬Alter [Lancer] |  |  |
