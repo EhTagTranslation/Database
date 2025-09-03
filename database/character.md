@@ -4710,7 +4710,7 @@ example:
 | anne | 安 |  | [萌娘百科](https://zh.moegirl.org.cn/安%28公主连结%29#) |
 | grea | 古蕾雅 |  |  |
 | sakurako utazumi | 歌住樱子 | 所属作品：`p:blue archive` |  |
-| miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive` |  |
+| miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的队长。<br>![](https://patchwiki.biligame.com/images/ba/b/bf/bdf7sfptkn9oefpgbwo5s8zaduuz17y.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Miyako) |
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive` |  |
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的神秘少女，总是带着防毒面具，无法窥见她的表情。![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
 | saya yakushi | 药子纱绫 | 所属作品：`p:blue archive` |  |
