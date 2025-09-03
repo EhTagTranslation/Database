@@ -4732,7 +4732,7 @@ example:
 | mimori mizuha | 水羽三森 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，修行部温柔的副部长。<br>![](https://patchwiki.biligame.com/images/ba/a/a7/kq4xllmtjvqyzkz8khfg54x6p64t7op.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mimori) |
 | haruka igusa | 伊草遥香 | 所属作品：`p:blue archive`格黑娜学园所属，便利屋68的普通社员。![](https://patchwiki.biligame.com/images/ba/e/ee/swbse283usqpys5mriagbkfm6x3wiox.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Haruka) |
 | kirino nakatsukasa | 中务桐乃 | 所属作品：`p:blue archive`瓦尔基里警察学校所属，生活安全局的热血系学生。<br>![](https://patchwiki.biligame.com/images/ba/9/92/m9xvaaxz2yobge7lgvjshoo8ecw90ce.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kirino) |
-| yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive` |  |
+| yoshimi ibaragi | 伊原木好美 | 所属作品：`p:blue archive`<br>圣三一综合学园所属，放学后甜点部的部员。<br>![](https://patchwiki.biligame.com/images/ba/d/d2/33rhgsig74oywap6nbf96bh4szlfw0p.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yoshimi) |
 | hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive`阿里乌斯分校所属，阿里乌斯特殊小队的少女，略显胆小又显得有些忧郁的女孩。![](https://patchwiki.biligame.com/images/ba/3/33/3pn6oggseul7ercyw3oprkhymvcql18.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hiyori) |
 | cherino renkawa | 连河切里诺 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，蛮横孩子气的学生会长。![](https://patchwiki.biligame.com/images/ba/6/64/247f0m1q5vxmcmevvmddr3axv3hdfnf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Cherino) |
 | kei tsukishima | 月岛萤 |  | [萌娘百科](https://zh.moegirl.org.cn/月岛萤) |
