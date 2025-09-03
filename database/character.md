@@ -3756,7 +3756,7 @@ example:
 | itako tohoku | 东北伊达子 | 東北イタコ |  |
 | una otomachi | 音街鳗 |  |  |
 | kokona aoba | 青羽心夏 | 漫画`yama no susume`中的角色 | [萌娘百科](https://zh.moegirl.org.cn/青羽心夏) |
-| sayu | 早柚 | 早柚（英语：sayu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6e/Genshin_sayu_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早柚) |
+| sayu | 早柚 | ![](https://patchwiki.biligame.com/images/ys/a/a8/6ue1stov5j93gzmxasay9nkihtfyls4.png)<br>早柚（英语：sayu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>属于「终末番」的忍者。身形小巧，总像没睡饱一样。 | [萌娘百科](https://zh.moegirl.org.cn/早柚) |
 | takanashi kiara | 小鸟游琪亚拉 | 小鳥遊 キアラ<br>隶属于`hololive` HoloEn 的`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/小鳥遊キアラ) (\*) |
 | yumeko jabami | 蛇喰梦子 | 漫画`kakegurui`及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/蛇喰梦子) (\*\*) |
 | reed | 苇草 |  |  |
