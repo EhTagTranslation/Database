@@ -3259,7 +3259,7 @@ example:
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 |  |  |
 | mdr | MDR \| 卡萝 | MDR是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》（英：Girls' Frontline）及其衍生作品的登场角色。于2018.3.22加入游戏。`p:girls frontline`<br>![](https://www.gfwiki.org/images/7/72/Pic_MDR_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/8/83/Kuro_base2.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:MDR)<br>[少前百科GFwiki](https://gfwiki.org/w/MDR)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/卡萝) |
-| keqing | 刻晴 | 刻晴（英语：keqing）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/34/刻晴.jpg) | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
+| keqing | 刻晴 | ![](https://patchwiki.biligame.com/images/ys/2/21/p163qpi54cviea6v8eohvfh9kuqn90p.png)<br>刻晴（英语：keqing）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>璃月七星之一，玉衡星。对「帝君一言而决的璃月」颇有微词——但实际上，神挺欣赏她这样的人。 | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
 | atsuko kagari | 篝敦子 | 从日本而来，志愿成为魔女的少女。因小时候着迷于闪耀夏莉奥的魔法秀，立志成为魔女于是来到了新月魔法学校，虽然不擅长魔法，但会乐观向前地朝着成为夏莉奥那样的魔女而努力。 | [萌娘百科](https://zh.moegirl.org.cn/篝敦子) |
 | diana cavendish | 戴安娜·卡文迪什 | 亚可的同班同学，诞生于英国的名门魔女家系。头脑聪明，拥有高超的魔法能力，被称作露娜诺娃创办以来最优秀的学生。认真且正义感强烈，也因此常与亚可有所冲突实际上是帮忙收烂摊子。 | [萌娘百科](https://zh.moegirl.org.cn/戴安娜·卡文迪什) |
 | eriko kuraishi | 仓石惠理子 | ![惠理子](https://img.moegirl.org.cn/common/thumb/e/ec/Kuraishi_eriko_pc.png/280px-Kuraishi_eriko_pc.png)<br>本名仓石惠理子，隶属于“暮光流星群”，外号“破坏狂”，眼神阴暗，爱做实验，制药天才，能够制造操纵人的药物。虽然是个病娇，但其内心也有温柔的一面。 | [萌娘百科](https://zh.moegirl.org.cn/仓石惠理子) [bilibili游戏](https://wiki.biligame.com/pcr/惠理子) |
