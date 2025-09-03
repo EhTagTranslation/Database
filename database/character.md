@@ -4276,7 +4276,7 @@ example:
 | sirin | 西琳 |  |  |
 | dehya | 迪希雅 | 迪希雅（英语：dehya）所属作品:`p:genshin impact`<br>是由米哈游研发游戏《原神（genshin impact）》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/原神迪希雅.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪希雅) |
 | noa ushio | 生盐诺亚 | 所属作品：`p:blue archive`<br>生盐诺亚（日语：生塩ノア）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/3/35/BA_Noa.png) | [萌娘百科](https://zh.moegirl.org.cn/生盐乃爱) |
-| kokona sunohara | 春原心奈 | 春原心奈（日语：春原 ココナ）是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/8/88/BA_Pic_Kokona_101385011.jpg/420px-BA_Pic_Kokona_101385011.jpg) | [萌娘百科](https://zh.moegirl.org.cn/春原心菜) |
+| kokona sunohara | 春原心奈 | Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。山海经高级中学所属，担任教育支援部「梅花园」教官的一年级生。<br>![](https://patchwiki.biligame.com/images/ba/1/19/ndcxtkm6b4qd39aib5q52hand2g8nw2.png) | [萌娘百科](https://zh.moegirl.org.cn/春原心菜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kokona) |
 | hasumi hanekawa | 羽川莲见 | 圣三一综合学园所属，正义实现委员会的二号人物。![](https://patchwiki.biligame.com/images/ba/f/f6/f988398nxg88eacafiwbs41f8gco93s.png)<br>![](https://patchwiki.biligame.com/images/ba/0/0a/3zcbszpi88ehxvmgmqbkof69chbmez7.png) | [萌娘百科](https://zh.moegirl.org.cn/羽川莲实)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Students) |
 | hibiki nekozuka | 猫塚响 | 所属作品：`p:blue archive`千年科学学校所属，工程部的部员。<br>![](https://patchwiki.biligame.com/images/ba/d/de/0zivzoe10gjafsq5t1wali6nuypngta.png)<br>![](https://patchwiki.biligame.com/images/ba/3/38/pouy5hlhzeeieuux3b44s4cdqtg3r2l.png) | [萌娘百科](https://zh.moegirl.org.cn/猫冢响)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Hibiki) |
 | arona | 阿罗娜 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/c/c2/BA_Arona.png) | [萌娘百科](https://zh.moegirl.org.cn/阿洛娜) |
