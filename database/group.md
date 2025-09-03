@@ -7475,7 +7475,7 @@ example:
 | manten hoshizora | 満天星空 |  |  |
 | mantobi | まんとび |  |  |
 | many b | Many B |  |  |
-| manymanyrain | 雨晕郁太 |  | [pixiv](https://www.pixiv.net/users/27932472) |
+| manymanyrain | manymanyrain |  | [pixiv](https://www.pixiv.net/users/27932472) |
 | manzokudou | 満足堂 |  |  |
 | maple-go | maple号 |  |  |
 | marabians | マラビアンズ |  |  |
