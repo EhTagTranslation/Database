@@ -6685,6 +6685,7 @@ example:
 | lupa | 露帕 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/8/8b/9psbu0nhrkejgb9pohgse6nftw839mp.png/650px-角色_露帕_立绘.png)<br>七丘的角斗士，万众瞩目的明星选手。<br>热情率直，如孤狼般具有野性的少女。若是能够一直享受竞技纯粹的快乐，露帕无畏在这赛场燃烧殆尽。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/露帕) |
 | mio takamiya | 崇宫澪 | ![](https://pic.cangku.moe/images/2025/09/04/1y6zI.md.webp) |  |
 | rinne sonogami | 园神凛祢 | ![](https://pic.cangku.moe/images/2025/09/04/11QKv.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11S0D.webp)<br>游戏《约会大作战凛祢乌托邦》及其衍生作品中的女主角 | [百度百科](https://baike.baidu.com/item/园神凛祢/4369102) |
+| mena | 梅姆 | ![](https://gbf.wiki/images/thumb/2/2c/Npc_zoom_3990608000_01.png/720px-Npc_zoom_3990608000_01.png)<br>《碧蓝幻想》中登场的女性NPC。三姐妹中最小的一个，也是莱文的天空骑士。自称是家里最好的格斗者，因为是家里唯一的格斗者。她渴望姐姐们的赞美，但严厉的训诫和电击惩罚却是家常便饭。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
