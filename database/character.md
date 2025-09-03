@@ -3386,7 +3386,7 @@ example:
 | batman | 蝙蝠侠 |  |  |
 | galo thymos | 加洛·提莫斯 |  |  |
 | lio fotia | 里奥·福蒂亚 |  |  |
-| qiqi | 七七 | 七七（英语：qiqi）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/8e/Qiqi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/七七) |
+| qiqi | 七七 | ![](https://patchwiki.biligame.com/images/ys/9/9e/a07s0rx81ej83mtw5btgms66dwirfxq.png)<br>七七（英语：qiqi）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>药庐“不卜庐”的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。曾因“仙缘”而拥有了被凡间称作僵尸的不死之身，外表永远停留在了逝去那年，年龄不可考。 | [萌娘百科](https://zh.moegirl.org.cn/七七) |
 | mujina | 貉 | ![貉](https://img.moegirl.org.cn/common/thumb/f/f8/Mujina_visual.png/280px-Mujina_visual.png)<br>貉是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>主张怪兽主导世界的集团「怪兽优生思想」的成员。怪兽使。<br><br>穿着白色军装，左臂上有青色的四条线。棕发蓝瞳的女子。<br><br>战斗意志很低下，总是想着早点完事离开摸鱼下班 | [萌娘百科](https://zh.moegirl.org.cn/貉%28SSSS.DYNAZENON%29#) |
 | yume minami | 南梦芽 | ![南梦芽](https://img.moegirl.org.cn/common/thumb/a/a9/YUME_MINAMI.png/280px-YUME_MINAMI.png)<br>南梦芽是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>蓬的同班同学。棕发绿瞳的高中生。 | [萌娘百科](https://zh.moegirl.org.cn/南梦芽) |
 | yomogi asanaka | 麻中蓬 | ![麻中蓬](https://img.moegirl.org.cn/common/thumb/a/ac/Yomogi_visual.png/280px-Yomogi_visual.png)<br>麻中蓬是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>东京都立不如归台高中的高中一年生。<br>意外帮助了差点饿死的失马，并被对方当成了恩人和朋友。<br>自身正在做便利店的兼职。 | [萌娘百科](https://zh.moegirl.org.cn/麻中蓬) |
