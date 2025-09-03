@@ -3358,7 +3358,7 @@ example:
 | tsumugi mayumiya | 茧宫纺希 |  | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
 | nozomi sakurai | 樱井望 |  | [萌娘百科](https://zh.moegirl.org.cn/樱井望) |
 | zhongli | 钟离 | 钟离（英语：zhongli）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9b/钟离.jpg) | [萌娘百科](https://zh.moegirl.org.cn/钟离) |
-| ningguang | 凝光 | 凝光(英语:ningguang) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2c/凝光.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
+| ningguang | 凝光 | ![](https://patchwiki.biligame.com/images/ys/3/38/2ydmdrrld0u8s2h8u6qjun63qcr090n.png)<br>凝光(英语:ningguang) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>「璃月七星」中的「天权」，其名下财富之多，全大陆鲜有人能望其项背。 | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
 | lappland | 拉普兰德 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拉普兰德) |
 | amber | 安柏 | ![](https://patchwiki.biligame.com/images/ys/c/c7/buteho7ur6wupaj4a38vh1zem3xycdl.png)<br>安柏（英语：amber）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>永远充满活力的女孩，骑士团最优秀，同时也是最后的侦察骑士。 | [萌娘百科](https://zh.moegirl.org.cn/安柏%28原神%29#) |
 | beidou | 北斗 | 北斗（英语：beidou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/67/北斗.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
