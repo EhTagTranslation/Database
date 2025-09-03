@@ -6059,7 +6059,7 @@ example:
 | rukkhadevata | 大慈树王 |  |  |
 | mizuki yumemizuki | 梦见月瑞希 | ![](https://patchwiki.biligame.com/images/ys/6/6f/l9s7pilrk0smm4fbc90rac1p0yxqqb9.png)<br>《原神》中的女性角色。「秋沙钱汤」的股东，梦貘一族的心理诊疗师，致力于驱散噩梦，为人们带来安宁的心境。 |  |
 | shinju inui | 乾心寿 | 乾心寿（日语：乾（いぬい） 心寿（しんじゅ））是由福田晋一创作的漫画《更衣人偶坠入爱河》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/2/20/Inui_Shinju_anime.png) | [萌娘百科](https://zh.moegirl.org.cn/乾心寿) |
-| carlotta | 柯莱塔 | 《鸣潮》中的女性角色 |  |
+| carlotta | 珂莱塔 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/0/07/dy6csyi7882lsek9q95odqe263nkchf.png/578px-角色_珂莱塔_立绘.png)<br>《鸣潮》中的女性角色。莫塔里家族的二小姐，不被教条限制的艺术投资人。<br>明面上，珂莱塔游走在交际与交易中，暗地里，她则为家族处理着不可明说的“麻烦”。<br>一颗“宝石”的绽放，一场生命的凋零，她以自我为名，给予现实另一向度的重塑。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/珂莱塔) |
 | sayori | 纱世里 | 所属作品: `p:doki doki literature club`<br><br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/c/ca/Sayori_Illustration.png) | [萌娘百科](https://zh.moegirl.org.cn/纱世里) [Fandom](https://doki-doki-literature-club.fandom.com/zh/wiki/纱世里（Sayori）) [维基百科（英语）](https://en.wikipedia.org/wiki/Sayori_%28Doki_Doki_Literature_Club!%29) |
 | cure lillian | 猫屋敷雪 | 突然出现的神秘光之美少女，其真实身份是真结饲养的白猫，也是彩妆＆杂货店“PrettyHolic”的招牌猫，后来当着真结等人的面正式曝光。私立湾岸第二中学2年1班。名字的由来是因为真结和雪的初次相遇是在下雪天。生日为12月21日，鳕宝日（はんぺんの日）。中文昵称为“小雪”。 | [Fandom](https://prettycure.fandom.com/wiki/Nekoyashiki_Mayu) [萌娘百科](https://zh.moegirl.org.cn/猫屋敷雪) |
 | cure nyammy | 猫屋敷麻友 | 刚搬来动物小镇的少女。彩妆＆杂货店“PrettyHolic”的独生女，私立湾岸第二中学2年1班。搬家前就读小泉学园。经常且喜欢感性看待各种事物。生日为11月5日，结缘日（縁結びの日）。喜欢浅绿色，也喜欢吃饼干。 | [萌娘百科](https://zh.moegirl.org.cn/猫屋敷麻友) [Fandom](https://prettycure.fandom.com/wiki/Nekoyashiki_Yuki) |
