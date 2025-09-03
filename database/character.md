@@ -4090,7 +4090,7 @@ example:
 | tsubaki kasuga | 春日椿 | 所属作品：`p:blue archive`<br><br>百鬼夜行联合学院所属，修行部部长。以“更安稳、更完美的睡眠”为目标经常修行。所达到极致的状态，无论坐着还是站着，甚至可以边吃饭边睡觉。人称【睡美人】。虽然总是迷迷糊糊的，但一到晚上就会为了守护城市而暗中活动。 |  |
 | mika misono | 圣园未花 | 所属作品：`p:blue archive`<br>圣三一综合学园所属，曾担任构成了圣三一的学生联合「Pater(圣父)」派的领袖。<br>![](https://patchwiki.biligame.com/images/ba/3/30/ecjp8ed0adr7do6cupqi69e0vvovo8a.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mika) |
 | ako amau | 天雨亚子 | 所属作品：`p:blue archive`<br>格黑娜学园所属，风纪委员会的行政官，就像是风纪委员日奈的秘书。<br>![](https://patchwiki.biligame.com/images/ba/3/3c/rbxt7nbf8bnh67mavgqubixtyrp358d.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Students) |
-| natsu yutori | 柚鸟夏 | 所属作品：`p:blue archive`<br><br>三一放学后的甜点部的一员。<br>这位是放学后甜品部的麻烦制造第一名以及自称浪漫家的夏同学！<br>抱着「想和大家一起分享浪漫」的心情、经常说出爆炸性发言并把周围的事物都牵扯进来，「浪漫」的定义也经常变化着的样子... |  |
+| natsu yutori | 柚鸟夏 | 所属作品：`p:blue archive`<br><br>三一放学后的甜点部的一员。<br>这位是放学后甜品部的麻烦制造第一名以及自称浪漫家的夏同学！<br>抱着「想和大家一起分享浪漫」的心情、经常说出爆炸性发言并把周围的事物都牵扯进来，「浪漫」的定义也经常变化着的样子...<br>![](https://patchwiki.biligame.com/images/ba/5/57/4u5cylm2z53wntks3t3vstcg3phasax.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Natsu) |
 | kagome higurashi | 日暮戈薇 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/2d/fa/2dfa838ed0c61f6631f8b804cd9da48bcd8893f0-31916-280-418-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/日暮戈薇) |
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
 | hitomi shizuki | 志筑仁美 |  |  |
