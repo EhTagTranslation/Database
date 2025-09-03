@@ -6214,7 +6214,7 @@ example:
 | officer jenny | 君莎 |  |  |
 | james | 小次郎 |  |  |
 | jessie | 武藏 |  |  |
-| varesa | 瓦雷莎 | 瓦雷莎是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎) |
+| varesa | 瓦雷莎 | ![](https://patchwiki.biligame.com/images/ys/c/c0/3t1d3v64a6d0gpa7zjlf1yjti2csfok.png)<br>瓦雷莎是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。悠悠哉哉，无比松弛的「沃陆之邦」战士兼果园主，喜欢充满力量的英雄，还有巨量美食！ | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎) |
 | land | 兰托 | ![](https://img.moegirl.org.cn/common/thumb/1/15/Frieren_anime_兰托.png/280px-Frieren_anime_兰托.png)<br>日语：ラント<br>漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰托) |
 | iselda | 伊塞尔达 |  |  |
 | iansan | 伊安珊 | 伊安珊是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊安珊) |
