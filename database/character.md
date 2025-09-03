@@ -4055,7 +4055,7 @@ example:
 | youtouhime | 妖刀姬 |  |  |
 | ivy valentine | 艾薇 |  |  |
 | taki | 多喜 |  |  |
-| yuzu hanaoka | 花冈柚子 |  |  |
+| yuzu hanaoka | 花冈柚子 | 千年科学学校所属，游戏开发部的部长。<br>![](https://patchwiki.biligame.com/images/ba/6/6c/3mbqaum18gcpwhh29gf84yialfawmgf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yuzu) |
 | iroha natsume | 枣伊吕波 | 格黑娜学园所属，「万魔殿」的议员之一。![](https://patchwiki.biligame.com/images/ba/9/98/e9y91bx4q1smkuuv3nwlmjnlxc2bip9.png) | [萌娘百科](https://zh.moegirl.org.cn/枣伊吕波)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Iroha) |
 | sasara kusugawa | 久寿川莎莎菈 |  |  |
 | maako asagiri | 朝雾麻亚子 |  |  |
