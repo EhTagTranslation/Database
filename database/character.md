@@ -5793,7 +5793,7 @@ example:
 | haku | 白 |  |  |
 | zabuza momochi | 桃地再不斩 |  |  |
 | veldora tempest | 维鲁德拉·特恩佩斯特 | 维鲁德拉·特恩佩斯特是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d4/Veldora_Tempest_human.jpg/1024px-Veldora_Tempest_human.jpg) | [萌娘百科](https://zh.moegirl.org.cn/维鲁德拉·特恩佩斯特) |
-| mavuika | 玛薇卡 | 玛薇卡是米哈游创作的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛薇卡) |
+| mavuika | 玛薇卡 | ![](https://patchwiki.biligame.com/images/ys/8/8d/kodchd9iqqn2hfq8b1cucckhpdcaqqi.png)<br>玛薇卡是米哈游创作的游戏《原神》及其衍生作品的登场角色。纳塔的领袖，继承「基扬戈兹」之古名，誓以圣火为战争国度照亮未来。 | [萌娘百科](https://zh.moegirl.org.cn/玛薇卡) |
 | misuzu hataya | 秦谷美铃 | ![](https://project-imas.wiki/images/thumb/2/25/MisuzuHataya.png/500px-MisuzuHataya.png)<br>秦谷美铃（Hataya Misuzu  ）是手机游戏《学园偶像大师》中的角色之一。 | [IMAS WIKI](https://project-imas.wiki/Misuzu_Hataya) |
 | euphemia li britannia | 尤菲米娅·li·布里塔尼亚 | ![尤菲米娅·li·布里塔尼亚](https://img.moegirl.org.cn/common/0/07/Youfeimiya_01.PNG)<br>尤菲米婭·li·布里塔尼亞（ユーフェミア・リ・ブリタニア）（Euphemia li Britannia），神聖布里塔尼亞帝國第三公主，生於皇曆2001年10月11日，死於皇曆2017年12月10日。<br>第二公主柯內莉亞·li·布里塔尼亞的親妹妹，從小備受姐姐寵愛。與魯路修·vi·布里塔尼亞為異母兄妹，並互為初戀。 | [萌娘百科](https://zh.moegirl.org.cn/尤菲米婭·li·布里塔尼亞) |
 | minawa andou | 安藤美奈和 |  |  |
