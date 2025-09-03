@@ -4547,7 +4547,7 @@ example:
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
 | queen draco | 妖妃德拉科 | 原作：《Fate/Grand Order》<br>被某个平行世界的迦勒底打倒的第六之兽——的一角。<br>自『堕落』之理诞生之物。<br>据说当该时代繁荣到顶峰的都市腐败之时，<br>就会为了品尝其恶性滋味而出现。<br>其名为所多玛之兽。<br>乃是新约圣经中毁灭了巴比伦的兽。<br><br>![](https://img.moegirl.org.cn/common/e/e7/所多玛之兽／德拉科初始.png) | [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#Fate.2FGrand_Order_2) |
 | march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
-| himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/thumb/4/4c/BA_Himari.png/800px-BA_Himari.png) | [萌娘百科](https://zh.moegirl.org.cn/明星日鞠) |
+| himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive`千年科学学校所属，原黑客集团「真理部」部长，现任特异现象搜查部部长。<br>![](https://patchwiki.biligame.com/images/ba/8/89/pd0ih0rnng2q0ms3aonh5pps55peofz.png) | [萌娘百科](https://zh.moegirl.org.cn/明星日鞠)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Himari) |
 | asta | 艾丝妲 \| 亚斯塔 |  |  |
 | garou | 饿狼 | 饿狼（英语:garou）所属作品: `p:one punch man`<br>![](https://img.moegirl.org.cn/common/b/b8/Garou.png) | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
 | himeko | 姬子 | 姬子(英语:himeko) 所属作品`p:honkai star rail`<br>是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/姬子.png) | [萌娘百科](https://zh.moegirl.org.cn/姬子%28星穹铁道%29) |
