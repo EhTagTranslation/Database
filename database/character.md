@@ -4280,7 +4280,7 @@ example:
 | hasumi hanekawa | 羽川莲见 | 圣三一综合学园所属，正义实现委员会的二号人物。![](https://patchwiki.biligame.com/images/ba/f/f6/f988398nxg88eacafiwbs41f8gco93s.png)<br>![](https://patchwiki.biligame.com/images/ba/0/0a/3zcbszpi88ehxvmgmqbkof69chbmez7.png) | [萌娘百科](https://zh.moegirl.org.cn/羽川莲实)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Students) |
 | hibiki nekozuka | 猫塚响 | 所属作品：`p:blue archive`千年科学学校所属，工程部的部员。<br>![](https://patchwiki.biligame.com/images/ba/d/de/0zivzoe10gjafsq5t1wali6nuypngta.png)<br>![](https://patchwiki.biligame.com/images/ba/3/38/pouy5hlhzeeieuux3b44s4cdqtg3r2l.png) | [萌娘百科](https://zh.moegirl.org.cn/猫冢响)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Hibiki) |
 | arona | 阿罗娜 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/c/c2/BA_Arona.png) | [萌娘百科](https://zh.moegirl.org.cn/阿洛娜) |
-| saki sorai | 空井咲 | 所属作品：`p:blue archive`<br>![](https://img.moegirl.org.cn/common/thumb/0/0c/BA_Saki.png/351px-BA_Saki.png) | [萌娘百科](https://zh.moegirl.org.cn/空井咲) |
+| saki sorai | 空井咲 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的先锋。<br>![](https://patchwiki.biligame.com/images/ba/2/2b/esjduum72f2g9s1lf6h9ff7jsnlf2fo.png) | [萌娘百科](https://zh.moegirl.org.cn/空井咲)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Saki) |
 | collei | 柯莱 | 柯莱(英语:collei) 所属作品`p:genshin impact`<br>是游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/原神柯莱.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/柯莱) |
 | lavenza | 拉雯妲 |  |  |
 | von lycaon | 冯·莱卡恩 | 《`zenless zone zero`》的登场角色。 |  |
