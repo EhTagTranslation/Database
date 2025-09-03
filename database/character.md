@@ -3783,7 +3783,7 @@ example:
 | bayonetta | 贝优妮塔 |  |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![图](https://ehgt.org/58/e4/58e49e114d5b4593dae6acf6dae88a79d2e222df-135684-610-1309-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
 | neneko | 鈴樹ねね |  | [FANBOX](https://nenekoneko.fanbox.cc/) [Skeb](https://skeb.jp/@neneko113)<br>[pixiv](https://www.pixiv.net/users/1940163) [X](https://x.com/neneko113) |
-| mona | 莫娜 | 所属作品:p:warioware,`p:super mario brothers`<br>![](https://ehgt.org/22/f6/22f6401e39c12ad116367276b23de930794f420d-194685-868-1234-jpg_l.jpg) |  |
+| mona | 麦姆  \| 莫娜 | ①![](https://gbf.wiki/images/thumb/3/3f/Npc_zoom_3990607000_01.png/720px-Npc_zoom_3990607000_01.png)<br>《碧蓝幻想》中登场的女性NPC。三姐妹中的老二，也是莱文的天空骑士。这位开朗的乐观主义者的任务是进行闪电治疗，她时刻特别体贴米娜的病情。她是三姐妹中头脑最冷静的一位。<br>②<br>![](https://ehgt.org/22/f6/22f6401e39c12ad116367276b23de930794f420d-194685-868-1234-jpg_l.jpg)<br>所属作品:p:warioware,`p:super mario brothers` |  |
 | komichi akebi | 明日小路 |  |  |
 | alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [YouTube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [X](https://x.com/shishirobotan) |
