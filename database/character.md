@@ -4712,7 +4712,7 @@ example:
 | sakurako utazumi | 歌住樱子 | 所属作品：`p:blue archive` |  |
 | miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive` |  |
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive` |  |
-| atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive` |  |
+| atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的神秘少女，总是带着防毒面具，无法窥见她的表情。![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
 | saya yakushi | 药子纱绫 | 所属作品：`p:blue archive` |  |
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive` |  |
