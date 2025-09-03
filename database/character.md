@@ -4724,7 +4724,7 @@ example:
 | ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive` |  |
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive` |  |
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
-| rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive` |  |
+| rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive`<br>山海经高级中学所属，美食街「玄武商会」的会长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/13/465025.png) |  |
 | michiru chidori | 千鸟满 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，忍术研究部部长，浑身上下总是充满了毫无根据的自信。<br>![](https://patchwiki.biligame.com/images/ba/c/c0/rpd9bs81a5123pspcncmgrugzur3o38.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Michiru) |
 | reijo kayama | 鹿山丽情 | 所属作品：`p:blue archive` |  |
 | maki konuri | 小涂真纪 | 所属作品：`p:blue archive`<br>千年科学学校所属，黑客集团「真理部」的部员。<br>![](https://patchwiki.biligame.com/images/ba/b/bd/di760yd2imsjuh51kcjrtr7mgf65dmv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Maki) |
