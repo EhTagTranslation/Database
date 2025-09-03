@@ -6679,6 +6679,7 @@ example:
 | joo-hee lee | 李晓希 \| 观月绘里 | 韩国漫画《我独自升级》及其衍生作品中登场的女性角色。<br>B级猎人，职业为治疗师，容易被恐惧支配，担心总是在任务中受伤的程肖宇 。<br>![](https://img.moegirl.org.cn/common/thumb/e/ef/Solo_Leveling_c10_face1.png/150px-Solo_Leveling_c10_face1.png) | [百度百科](https://baike.baidu.com/item/李晓希) |
 | song-yi han | 韩宋伊 | 韩国漫画《我独自升级》中登场的角色。<br>E级猎人，程肖雅的同班同学。<br>![](https://img.moegirl.org.cn/common/thumb/6/6b/Solo_Leveling_Anime_Han_Song-Yi_2.jpg/150px-Solo_Leveling_Anime_Han_Song-Yi_2.jpg) |  |
 | gina | 吉娜 | 韩国漫画《我独自升级》中登场的角色。<br>A级猎人，汉特斯公会成员，魔法攻击型职业。 |  |
+| jianxin | 鉴心 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/c/c5/9zxy9x4z9xwy9k1qfxz4gesjx5q40pm.png/601px-角色_鉴心_立绘.png)<br>一生只追求武术极致的道士，实力莫测、抱朴守一的风仪拳传人。拥有将周围环境气韵化为内在，形成涤净力场的能力。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/鉴心) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
