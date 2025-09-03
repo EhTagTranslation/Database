@@ -6344,7 +6344,7 @@ example:
 | renner theiere chardelon ryle vaiself | 拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙 |  |  |
 | pardofelis | 帕朵菲利斯 | 崩坏三登场角色，逐火之蛾十二英桀末位。<br>名称来源为 拉丁语 felicitas somnium. (幸福之梦）。 |  |
 | maiden | 梅登 | 梅登，手游《胜利女神：妮姬》中的角色。<br>梅登是一名外界部队的SSR品质妮姬，定位为火力型，武器为霰弹枪。 |  |
-| cartethyia | 卡提希娅 | 卡提希娅是库洛制作的游戏《鸣潮》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7d/卡提希娅-昔我悲伤，今却歌唱.png) | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅) |
+| cartethyia | 卡提希娅 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/e/e0/r52fa0bvjnd5dmtjwccpehvj3wtx24g.png/516px-角色_卡提希娅_立绘.png)<br>卡提希娅是库洛制作的游戏《鸣潮》的登场角色。<br>于黎那汐塔四处旅行的流浪骑士卡提希娅。她是曾经的圣女，是神之容器，是风潮之王。她曾被唤作芙露德莉斯，但现在，她只是一介自由自在的流浪骑士。 | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/卡提希娅) |
 | honami ichinose | 一之濑帆波 |  |  |
 | himmel | 辛美尔 |  | [萌娘百科](https://zh.moegirl.org.cn/辛美尔) |
 | sense | 赞泽 |  |  |
