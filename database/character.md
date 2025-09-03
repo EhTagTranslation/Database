@@ -2275,7 +2275,7 @@ example:
 |  | ▼ 火焰之纹章 |  |  |
 | kamui | 卡姆依 |  |  |
 | takumi | 拓海 |  |  |
-| charlotte | 夏洛特 \| 夏洛蒂 | 1. 所属作品:`p:seiken densetsu`<br><br>2. 所属作品:`p:granblue fantasy`<br><br>3. 所属作品:`p:puella magi madoka magica`<br><br>4. 夏洛蒂(charlotte)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。 | 4. [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
+| charlotte | 夏洛特 \| 夏洛蒂 | 1. 所属作品:`p:seiken densetsu`<br><br>2. 所属作品:`p:granblue fantasy`<br><br>3. 所属作品:`p:puella magi madoka magica`<br><br>4. 夏洛蒂(charlotte)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。![](https://patchwiki.biligame.com/images/ys/7/7d/h1dvbabbpt35oo3ils94hv21nbwz4fc.png) | 4. [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
 | ryoma | 龙马 |  |  |
 | orochi | 远吕智 |  |  |
 | elise | 爱丽丝 |  |  |
