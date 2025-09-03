@@ -1332,7 +1332,7 @@ example:
 | miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp) |  |
 | tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp) |  |
 | shido itsuka | 五河士道 |  |  |
-| reine murasame | 村雨令音 |  |  |
+| reine murasame | 村雨令音 | ![](https://pic.cangku.moe/images/2025/09/04/1yhli.md.webp) |  |
 |  | ▼ 腹黑妹妹控兄记 角色 |  |  |
 | mayuka kondou | 近藤茧佳 |  |  |
 | nao takanashi | 高梨奈绪 |  |  |
