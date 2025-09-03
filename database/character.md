@@ -3363,7 +3363,7 @@ example:
 | amber | 安柏 | 安柏（英语：amber）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9d/Genshin_Amber_intro_fixed.png) | [萌娘百科](https://zh.moegirl.org.cn/安柏%28原神%29#) |
 | beidou | 北斗 | 北斗（英语：beidou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/67/北斗.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
 | hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
-| lumine | 荧 | 《原神》及其衍生作品的登场角色。可作为玩家的代入角色。故国覆灭，与哥哥空一起在无数的世界之间漂流的旅行者。 | [萌娘百科](https://zh.moegirl.org.cn/荧) |
+| lumine | 荧 | ![](https://patchwiki.biligame.com/images/ys/1/1a/s5vmqg34ajw042j1c5l05nw13rogd4g.png)<br>《原神》及其衍生作品的登场角色。可作为玩家的代入角色。故国覆灭，与哥哥空一起在无数的世界之间漂流的旅行者。 | [萌娘百科](https://zh.moegirl.org.cn/荧) |
 | hu tao | 胡桃 | 胡桃（英语：hu tao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/16/雪霁梅香_胡桃.jpg) | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
 | kallen stadtfeld | 卡莲·休坦菲尔特 | 《叛逆的鲁鲁修》女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 | suzaku kururugi | 枢木朱雀 |  | [萌娘百科](https://zh.moegirl.org.cn/枢木朱雀) |
