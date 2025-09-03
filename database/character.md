@@ -6688,6 +6688,7 @@ example:
 | mena | 梅姆 | ![](https://gbf.wiki/images/thumb/2/2c/Npc_zoom_3990608000_01.png/720px-Npc_zoom_3990608000_01.png)<br>《碧蓝幻想》中登场的女性NPC。三姐妹中最小的一个，也是莱文的天空骑士。自称是家里最好的格斗者，因为是家里唯一的格斗者。她渴望姐姐们的赞美，但严厉的训诫和电击惩罚却是家常便饭。 |  |
 | mina | 麦姆 | ![](https://gbf.wiki/images/thumb/b/b8/Npc_zoom_3030176000_01.png/720px-Npc_zoom_3030176000_01.png)<br>《碧蓝幻想》中登场的女性NPC。<br>作为天空骑士团的副队长，米娜是他们教团中唯一掌控水元素力量的人。当他们的首领离开时，她接管了指挥权，赢得了他们的尊重。但她似乎没有注意到她的制服具有多大的魅力。 |  |
 | haruka shino | 遥（紫野遥） | ![](https://patchwiki.biligame.com/images/arknights/e/e8/nfbi953jxvx16lnsgjfr5p1rxxmrw5q.png)<br>遥，在东国南院有相当名气的艺人。本名紫野遥，艺名羽生萌萌香。 | [BILIGAME WIKI](https://wiki.biligame.com/arknights/遥) |
+| mulberry | 桑葚 | ![](https://patchwiki.biligame.com/images/arknights/f/f4/l5gy69ekq7qi6tdzksu1dxphh0uptps.png)<br>桑葚是手机游戏《明日方舟》中的五星医疗职业行医分支干员。 | [BILIGAME WIKI](https://wiki.biligame.com/arknights/桑葚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
