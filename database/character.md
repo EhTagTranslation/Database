@@ -4713,7 +4713,7 @@ example:
 | miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的队长。<br>![](https://patchwiki.biligame.com/images/ba/b/bf/bdf7sfptkn9oefpgbwo5s8zaduuz17y.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Miyako) |
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive` |  |
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的神秘少女，总是带着防毒面具，无法窥见她的表情。![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
-| saya yakushi | 药子纱绫 | 所属作品：`p:blue archive` |  |
+| saya yakushi | 药子纱绫 | 所属作品：`p:blue archive`<br>山海经高级中学所属的天才发明家。<br>![](https://patchwiki.biligame.com/images/ba/b/bf/ortudded3zii1i5w3ty7ffvujamr7pp.png)<br>![](https://patchwiki.biligame.com/images/ba/c/ca/l3of75sdbvdbagrmt93dmxpiwmcjqaz.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Saya) |
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive` |  |
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive`<br><br>圣三一综合学园所属，救护骑士团的团长，内心坚定且诚实，但也有激进一面的白衣战士。<br>![](https://patchwiki.biligame.com/images/ba/3/32/1icwfswm5ihotm1q3qcrn8iyg43x6yc.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mine) |
 | mina konoe | 近卫弥奈 | 所属作品：`p:blue archive` |  |
