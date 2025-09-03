@@ -3410,7 +3410,7 @@ example:
 | barbara pegg | 芭芭拉·佩奇 | 芭芭拉（英语：barbara pegg）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/41/祈礼牧师_芭芭拉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
 | chongyun | 重云 | 重云（英语：chongyun）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/重云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/重云) |
 | xingqiu | 行秋 | 行秋（英语：xingqiu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/91/行秋.jpg) | [萌娘百科](https://zh.moegirl.org.cn/行秋) |
-| lisa minci | 丽莎·敏兹 | 丽莎·敏兹（英语：lisa minci）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/图书管理员_丽莎.jpg) | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
+| lisa minci | 丽莎·敏兹 | ![](https://patchwiki.biligame.com/images/ys/7/70/q3oapvjdcr344dr90kvvulvp24e98o6.png)<br>丽莎·敏兹（英语：lisa minci）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br><br>慵懒而博学的图书管理员，须弥教令院「两百年一见」的天才毕业生。 | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
 | noelle | 诺艾尔 | 诺艾尔（英语：noelle）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/未授勋之花_诺艾尔.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/诺艾尔%28原神%29#) |
 | sucrose | 砂糖 | 砂糖（英语：sucrose）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/砂糖.png) | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
 | diona | 迪奥娜 | ![](https://patchwiki.biligame.com/images/ys/4/4b/s05kf5ihu4jzzstv5axzjpramvy9dx9.png)<br><p>迪奥娜（英语：diona）所属作品:<abbr title="genshin impact" ns="parody">原神</abbr><br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。	<br>遗传了稀薄的「非人」血统的少女,「猫尾酒馆」的超人气调酒师。 | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
