@@ -3406,7 +3406,7 @@ example:
 | mona megistus | 莫娜·梅姬斯图斯 | 莫娜·梅姬斯图斯（英语：mona megistus）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c6/莫娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
 | aether | 空 | 《`genshin impact`》及其衍生作品的登场角色。可作为玩家的代入角色。 | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | 菲谢尔（英语：fischl）所属作品:`p:genshin impact`<br>是米哈游制作的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/8d/Fischl.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
-| eula lawrence | 优菈·劳伦斯 | 优菈·劳伦斯（英语：eula lawrence）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a9/浪花骑士_优菈.jpg) | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
+| eula lawrence | 优菈·劳伦斯 | ![](https://patchwiki.biligame.com/images/ys/5/50/ej8v3104cmwt4lk4iciq4u5fab2h0se.png)<br>优菈·劳伦斯（英语：eula lawrence）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>古老家族出身的「浪花骑士」，西风骑士团游击小队队长。身为旧贵族后裔却加入了堪称死对头的西风骑士团，该事件至今仍是蒙德一大谜团。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
 | barbara pegg | 芭芭拉·佩奇 | 芭芭拉（英语：barbara pegg）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/41/祈礼牧师_芭芭拉.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
 | chongyun | 重云 | 重云（英语：chongyun）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/重云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/重云) |
 | xingqiu | 行秋 | 行秋（英语：xingqiu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/91/行秋.jpg) | [萌娘百科](https://zh.moegirl.org.cn/行秋) |
