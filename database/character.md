@@ -3361,7 +3361,7 @@ example:
 | ningguang | 凝光 | ![](https://patchwiki.biligame.com/images/ys/3/38/2ydmdrrld0u8s2h8u6qjun63qcr090n.png)<br>凝光(英语:ningguang) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>「璃月七星」中的「天权」，其名下财富之多，全大陆鲜有人能望其项背。 | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
 | lappland | 拉普兰德 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拉普兰德) |
 | amber | 安柏 | ![](https://patchwiki.biligame.com/images/ys/c/c7/buteho7ur6wupaj4a38vh1zem3xycdl.png)<br>安柏（英语：amber）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>永远充满活力的女孩，骑士团最优秀，同时也是最后的侦察骑士。 | [萌娘百科](https://zh.moegirl.org.cn/安柏%28原神%29#) |
-| beidou | 北斗 | 北斗（英语：beidou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/67/北斗.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
+| beidou | 北斗 | ![](https://patchwiki.biligame.com/images/ys/5/5d/f7ak6xcy4b8jpx28yesn9hft9j2g83p.png)<br>北斗（英语：beidou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>武装船队「南十字」的首领，豪快的大姐头。 | [萌娘百科](https://zh.moegirl.org.cn/北斗%28原神%29) |
 | hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 | lumine | 荧 | ![](https://patchwiki.biligame.com/images/ys/1/1a/s5vmqg34ajw042j1c5l05nw13rogd4g.png)<br>《原神》及其衍生作品的登场角色。可作为玩家的代入角色。故国覆灭，与哥哥空一起在无数的世界之间漂流的旅行者。 | [萌娘百科](https://zh.moegirl.org.cn/荧) |
 | hu tao | 胡桃 | ![](https://patchwiki.biligame.com/images/ys/f/f8/81z6247pn39kw3iyhss34977vlkxgvd.png)<br>胡桃（英语：hu tao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。 | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
