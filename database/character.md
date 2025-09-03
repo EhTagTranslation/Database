@@ -4274,7 +4274,7 @@ example:
 | fatui cryo cicin mage | 冰萤术士 |  |  |
 | mirror maiden | 藏镜仕女 |  |  |
 | sirin | 西琳 |  |  |
-| dehya | 迪希雅 | 迪希雅（英语：dehya）所属作品:`p:genshin impact`<br>是由米哈游研发游戏《原神（genshin impact）》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1d/原神迪希雅.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪希雅) |
+| dehya | 迪希雅 | ![](https://patchwiki.biligame.com/images/ys/8/83/46sk6niudrigkaco19g2cea3rz3lddj.png)<br>迪希雅（英语：dehya）所属作品:`p:genshin impact`<br>横行须弥沙漠地佣兵组织「镀金旅团」的成员，勇敢而又强大的战士，在「镀金旅团」内部声名赫赫。 | [萌娘百科](https://zh.moegirl.org.cn/迪希雅) |
 | noa ushio | 生盐诺亚 | 所属作品：`p:blue archive`<br>千年科学学校所属，学生会「研讨会」的书记。<br>![](https://img.moegirl.org.cn/common/3/35/BA_Noa.png) | [萌娘百科](https://zh.moegirl.org.cn/生盐乃爱)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Noa) |
 | kokona sunohara | 春原心奈 | Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。山海经高级中学所属，担任教育支援部「梅花园」教官的一年级生。<br>![](https://patchwiki.biligame.com/images/ba/1/19/ndcxtkm6b4qd39aib5q52hand2g8nw2.png) | [萌娘百科](https://zh.moegirl.org.cn/春原心菜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kokona) |
 | hasumi hanekawa | 羽川莲见 | 圣三一综合学园所属，正义实现委员会的二号人物。![](https://patchwiki.biligame.com/images/ba/f/f6/f988398nxg88eacafiwbs41f8gco93s.png)<br>![](https://patchwiki.biligame.com/images/ba/0/0a/3zcbszpi88ehxvmgmqbkof69chbmez7.png) | [萌娘百科](https://zh.moegirl.org.cn/羽川莲实)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Students) |
