@@ -3617,7 +3617,7 @@ example:
 | chihaya mifune | 御船千早 | 御船千早（日语：御船（ミフネ） 千早（チハヤ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/御船千早) |
 | hifumi togo | 东乡一二三 | 东乡一二三（日语：東郷（トウゴウ） 一二三（ヒフミ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/东乡一二三) |
 | yae miko | 八重神子 | ![](https://patchwiki.biligame.com/images/ys/3/3d/hy9x8mzx00o8oj5iysddzh36r460eo5.png)<br>八重神子（英语：yae miko）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>鸣神大社的宫司大人，兼任「八重堂」总编。艳丽动人的外表下藏着令人意想不到的聪慧与狡黠。 | [萌娘百科](https://zh.moegirl.org.cn/八重神子) |
-| yoimiya naganohara | 宵宫 | 宵宫（英语：yoimiya naganohara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f9/Genshin_yomiya_intro.jpg) | [萌娘百科\_宵宫](https://zh.moegirl.org.cn/宵宫) |
+| yoimiya naganohara | 宵宫 | ![](https://patchwiki.biligame.com/images/ys/c/ca/ak7wbwvs5dohk0o00ta1p16cw7mqhy5.png)<br>宵宫（英语：yoimiya naganohara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>「长野原烟花店」店长，「夏祭的女王」，将人们的愿望寄托于烟花中的能工巧匠。 | [萌娘百科\_宵宫](https://zh.moegirl.org.cn/宵宫) |
 | kei yuuki | 结城萤 |  |  |
 | tadayasu sawaki | 泽木直保 |  |  |
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
