@@ -6580,7 +6580,7 @@ example:
 | massachusetts | 马萨诸塞 | ![](https://img.moegirl.org.cn/common/thumb/8/82/BLHX_masazhusai.png/1255px-BLHX_masazhusai.png)<br>《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型为美国海军南达科他级战列舰三号舰马萨诸塞号（USS Massachusetts (BB-59)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:马萨诸塞) |
 | kongiku | 绀菊 |  |  |
 | okoi | 阿恋 |  |  |
-| tomoe sashiro | 佐城智惠 | 佐城智惠是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/e/ec/BA_Tomoe-ml.png)<br>佐城トモエ | [萌娘百科](https://zh.moegirl.org.cn/佐城智惠) |
+| tomoe sashiro | 佐城巴 | 佐城智惠是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色，红冬联邦学园所属，是红冬事务局的秘书室长，也是切里诺的首席副手。<br>![](https://patchwiki.biligame.com/images/ba/a/a6/8mvb5dmef4vqamhouvbcvm1lfbkxshu.png)<br>![](https://img.moegirl.org.cn/common/e/ec/BA_Tomoe-ml.png)<br>佐城トモエ | [萌娘百科](https://zh.moegirl.org.cn/佐城智惠)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tomoe) |
 | chien wu | 建武 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/72/3jqi0phcnuyb6q3yvq2epruty2riede.jpg/525px-建武立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:建武) |
 | sindel | 辛黛尔 |  |  |
 | mileena | 美莲娜 |  |  |
