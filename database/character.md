@@ -4187,7 +4187,7 @@ example:
 | shinn asuka | 真·飞鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/真·飞鸟) [Fandom](https://gundam.fandom.com/wiki/Shinn_Asuka) |
 | yuzuki seo | 濑尾结月 |  |  |
 | saki yoshida | 吉田咲 |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) |
-| nahida | 纳西妲 | 纳西妲（英语：nahida）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/43/原神纳西妲.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/纳西妲) |
+| nahida | 纳西妲 | ![](https://patchwiki.biligame.com/images/ys/8/8b/4yertrpn6kxsnf2z3ila4xmewuz67qn.png)<br>纳西妲（英语：nahida）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>深居净善宫的笼中之鸟，只能在梦中将世界尽收眼底。 | [萌娘百科](https://zh.moegirl.org.cn/纳西妲) |
 | mitsuru kirijo | 桐条美鹤 |  |  |
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
 | kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
