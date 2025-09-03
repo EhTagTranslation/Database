@@ -2466,7 +2466,7 @@ example:
 | lunamaria hawke | 露娜玛丽亚·霍克 | ![头像](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/4a36acaf2edda3cc115d864f01e93901213f9227.jpg) |  |
 | flay allster | 芙蕾·阿尔斯塔 |  |  |
 | cagalli yula athha | 卡嘉莉·尤拉·阿斯哈 | ![头像](https://upload.wikimedia.org/wikipedia/zh/b/b1/Cagalli.jpg) |  |
-| lacus clyne | 拉克丝·克莱茵 | ![头像](https://img.moegirl.org.cn/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) |  |
+| lacus clyne | 拉克丝·克莱茵 | 日本动画《机动战士高达SEED》《机动战士高达SEED DESTINY》以及《机动战士高达SEED FREEDOM》的主要女性角色。PLANT殖民星前任议长希格尔·克莱茵之女，擅长唱歌，有“PLANT第一歌姬”之称。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/b0/3e/2216_crt_aAAdF.jpg)<br>![头像](https://img.moegirl.org.cn/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) | [百度百科](https://baike.baidu.com/item/拉克丝·克莱茵/9244612) |
 |  | ▼ 无彩限的怪灵世界 |  |  |
 | haruhiko ichijou | 一条晴彦 |  |  |
 | mai kawakami | 川神舞 |  |  |
