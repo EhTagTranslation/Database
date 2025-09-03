@@ -4062,7 +4062,7 @@ example:
 | amane | 亚麻音 |  |  |
 | setsu | 雪 |  |  |
 | mian | 魅杏 |  |  |
-| yuuka hayase | 早濑优香 | 早濑优香（英语：yuuka hayase） 所属作品:`p:blue archive`<br>是Nexon发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/e/eb/BA_Yuuka_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/早濑优香) |
+| yuuka hayase | 早濑优香 | 早濑优香（英语：yuuka hayase） 所属作品:`p:blue archive`<br>千年科学学校所属，学生会「研讨会」的会计。<br>![](https://patchwiki.biligame.com/images/ba/b/be/bymqxehha85uhhmiqqb0akwwku0k2wu.png)<br>![](https://patchwiki.biligame.com/images/ba/0/03/90l7iswuns3snk8ek0niue8t76c1ni9.png)<br>![](https://img.moegirl.org.cn/common/e/eb/BA_Yuuka_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/早濑优香)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Yuuka) |
 | azusa hanai | 花井梓 |  |  |
 | maria momoe | 百枝麻里亚 |  |  |
 | kraft lawrence | 克拉福·罗伦斯 |  |  |
