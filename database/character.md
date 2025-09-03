@@ -6227,7 +6227,7 @@ example:
 | voroshilov | 伏罗希洛夫 | 《碧蓝航线》《战舰少女R》中的角色，原型为基洛夫级巡洋舰二号舰伏罗希洛夫号<br>所属作品: `p:azur lane` | [维基百科（英语）](https://en.wikipedia.org/wiki/Soviet_cruiser_Voroshilov)<br>[https://www.zjsnrwiki.com/wiki/伏罗希洛夫](https://www.zjsnrwiki.com/wiki/伏罗希洛夫)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/伏罗希洛夫) |
 | fortune | 命运女神 | 《碧蓝航线》中的角色，原型为F级驱逐舰之一的财富号<br>所属作品: `p:azur lane` | [维基百科（英语）](https://en.wikipedia.org/wiki/HMS_Fortune_%28H70%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/命运女神) |
 | masachika kuze | 久世政近 | 《`p:tokidoki bosotto russia-go de dereru tonari no alya-san`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/久世政近) |
-| cantarella | 坎特蕾拉 |  |  |
+| cantarella | 坎特蕾拉 | ![](https://pic.cangku.moe/images/2025/09/04/1yMk1.th.webp)<br>翡萨烈现任家主，「毒药」坎特蕾拉。<br>神秘、高贵、美艳、剧毒……她居于山巅的冠冕，而山崖间流淌着的，都是由她编织的幻梦。 | [Fandom](https://wutheringwaves.fandom.com/wiki/Cantarella) |
 | phoebe | 菲比 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/3/3c/3mkr5f7pmqp2yend3iwqutfy5k1oehl.png/481px-角色_菲比_立绘.png)<br>所属作品: `wuthering waves`<br>隐海修会的教士菲比，友善而虔诚的圣职者少女，以纯粹之心修习，认真践行着身为教士的一切职责。她的祈祷恰如她手中的光芒，柔和明亮，为人们带来温暖与安宁。 | [萌娘百科](https://zh.moegirl.org.cn/菲比)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/菲比) |
 | chi nishikata | 西片千 |  | [萌娘百科](https://zh.moegirl.org.cn/西片千) [Fandom](https://karakai-jouzu-no-takagi-san.fandom.com/wiki/Chi_Nishikata) |
 | monarch | 君主 | 《碧蓝航线》中的君主，以英王乔治五世级战列舰的废稿设计的战列舰。<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/君主)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/King_George_V-class_battleship_%281939%29)<br>[https://wiki.wargaming.net/en/Ship:Monarch](https://wiki.wargaming.net/en/Ship:Monarch) |
