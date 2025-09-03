@@ -6524,7 +6524,7 @@ example:
 | la folia rihavein | 拉·芙利亚·利哈瓦因 |  |  |
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 千咲 |  |  |
-| baizhi | 白芷 |  |  |
+| baizhi | 白芷 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/5b/r0wr4fjaqwv1pv5a48nzk9a0hwfueq4.png/524px-Mc_wiki_role_baizhi_x1500.png)<br>兼具条理性和执行力的华胥研究员。<br>看似冷淡疏离，实则不难接近，只是理性思维主导，习惯了严谨而精准地采取行动。<br>求知之路未有止境，在人类彻底解开”回音”的谜题前，白芷绝不会停下研究的步伐，哪怕这将耗费她的一生。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/白芷) |
 | alice thymefield | 爱丽丝·泰姆菲尔德 | 是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 |  |
 | noren mitsuoka | 蜜冈乃莲 |  | [维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 | hermione | 赫敏 | 赫敏（Hermione ，ハーマイオニー，허마이오니）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的赫敏号轻巡洋舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/赫敏)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:赫敏) |
