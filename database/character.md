@@ -3822,7 +3822,7 @@ example:
 | suomi | 索米 | 索米M/31，又称索米KP/-31（KP即Konepistooli，芬兰语中“自动手枪”之意），索米KP31或索米M/31，是芬兰在1930-1931年间设计的冲锋枪。她是在M/22原型枪与KP/-26的基础上改进而成并于1931年左右问世。由于“索米”（Suomi）在芬兰语中意为“芬兰”，因此有时M1931也被称为芬兰冲锋枪。<br>`p:girls frontline`<br>![](https://gfwiki.org/images/0/09/Pic_KP31_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_SuomiSSR.png)<br>猫咪：死亡天使 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:索米)<br>[少前GFwiki](https://www.gfwiki.org/w/索米)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/SuomiSSR) |
 | guilmon | 基尔兽 |  |  |
 | impmon | 小妖兽 |  |  |
-| nonomi izayoi | 十六夜野宫 | 所属: 对策委员会<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/4408/2021/10/5/651684.png)<br>十六夜野乃美 | [gamekee](https://ba.gamekee.com/68803.html) [Fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi) |
+| nonomi izayoi | 十六夜野宫 | 阿拜多斯高等学校所属，阿拜多斯对策委员会的成员。<br>![](https://patchwiki.biligame.com/images/ba/1/19/p0707lviicnwxo3ynp5pwm9cbpxrgex.png)<br>![](https://patchwiki.biligame.com/images/ba/9/93/7y71euv3yaaaxx9tqcrlwly6zadocmi.png) | [gamekee](https://ba.gamekee.com/68803.html) [Fandom](https://bluearchive.fandom.com/wiki/Izayoi_Nonomi)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Nonomi) |
 | yuuma toutetsu | 饕餮尤魔 | 饕餮尤魔是日本的《东方Project》系列弹幕游戏及其衍生作品的登场角色之一。<br>初登场于《东方刚欲异闻》，作为最终面BOSS登场。 | [https://thwiki.cc/饕餮尤魔](https://thwiki.cc/饕餮尤魔)<br>[萌娘百科](https://zh.moegirl.org.cn/饕餮尤魔) |
 | miyuki kobayakawa | 小早川美幸 | 小早川美幸是藤岛康介所创作的漫画《`youre under arrest`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/yua/images/8/84/Miyuki_Kobayakawa.jpg) |  |
 | natsumi tsujimoto | 辻本夏实 | ![](https://static.wikia.nocookie.net/yua/images/a/a7/Natsumi_Tsujimoto.jpg) |  |
