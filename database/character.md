@@ -2736,7 +2736,7 @@ example:
 | farrah | 法拉 |  |  |
 | zooey | 佐伊 |  |  |
 | natsu dragneel | 纳兹·多拉格尼尔 |  |  |
-| kirara | 绮良良 | 绮良良（英语：kirara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2b/原神绮良良.jpg) | 1.[萌娘百科](https://zh.moegirl.org.cn/绮良良) |
+| kirara | 绮良良 | ![](https://patchwiki.biligame.com/images/ys/2/28/4clwisy16drv8tjlv7zu39dnqx8id9t.png)<br>绮良良（英语：kirara）所属作品:`p:genshin impact`<br>稻妻快递公司「狛荷屋」的送货员，一只热爱自己工作、向往人类社会的「猫又」。 | 1.[萌娘百科](https://zh.moegirl.org.cn/绮良良) |
 | tamaki kousaka | 向坂环 |  |  |
 | sellma | 罗克珊努 |  |  |
 | ruida | 莉卡 |  |  |
