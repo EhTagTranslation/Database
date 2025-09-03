@@ -3831,7 +3831,7 @@ example:
 | rin natsume | 枣铃 | 枣铃（なつめ りん），是Visual Art's旗下品牌`key`创作的游戏《`little busters`》系列及其衍生作品的登场角色，女主角之一。<br>![](https://static.wikia.nocookie.net/littlebusters/images/4/43/Rin_Icon.png) |  |
 | kobeni yonomori | 夜之森小红 | 夜之森小红是漫画《未确认进行式》及其衍生的动画作品的登场角色，女主角。<br>![夜之森小红](https://lain.bgm.tv/pic/crt/l/61/12/21418_crt_cqedS.jpg)<br>拥有巨乳安产型的身材，但本人相当介意这种体型，体质虚弱。<br>小时候就已经见过白夜，但之后因为发生事故，而遗忘了这件事。<br>家事万能，并负责制作三餐。 | [Bangumi](https://bgm.tv/character/21418) [萌娘百科](https://zh.moegirl.org.cn/夜之森小红) |
 | sheryl nome | 雪露·诺姆 | 所属作品：`macross frontier`<br>![](https://static.wikia.nocookie.net/macross/images/1/18/Sherylsan3.jpg) |  |
-| iori shiromi | 银镜伊织 | 所属作品：`p:blue archive`<br><br>格黑娜学园（ゲヘナ学園） | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori) |
+| iori shiromi | 银镜伊织 | 所属作品：`p:blue archive`<br>格黑娜学园所属，风纪委员会冷酷的专家。<br>![](https://patchwiki.biligame.com/images/ba/5/5c/f7coz94tvkhvfuw7ovu1zv0g6d8y51k.png)<br>![](https://patchwiki.biligame.com/images/ba/7/7b/ljqklgoxj7b1rrl6c2kr7tfpcknks1j.png) | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Iori) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
 | enji todoroki | 轰炎司 |  |  |
 | nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png) |  |
