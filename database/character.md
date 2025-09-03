@@ -1330,7 +1330,7 @@ example:
 | kaguya yamai | 八舞耶俱矢 |  |  |
 | yuzuru yamai | 八舞夕弦 |  |  |
 | miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp) |  |
-| tohka yatogami | 夜刀神十香 |  |  |
+| tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp) |  |
 | shido itsuka | 五河士道 |  |  |
 | reine murasame | 村雨令音 |  |  |
 |  | ▼ 腹黑妹妹控兄记 角色 |  |  |
