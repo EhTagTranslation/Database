@@ -6057,7 +6057,7 @@ example:
 | skirk | 丝柯克 | ![](https://patchwiki.biligame.com/images/ys/d/d0/ehtz002534qqe7cfgtpxvbxir5b2oxg.png)<br>曾现身于深渊裂隙和原始胎海的来访者，教导达达利亚武技的老师。孤身一人的女武者。 |  |
 | hanya | 寒鸦 | 《崩坏星穹铁道》中的女性角色 |  |
 | rukkhadevata | 大慈树王 |  |  |
-| mizuki yumemizuki | 梦见月瑞希 | 《原神》中的女性角色 |  |
+| mizuki yumemizuki | 梦见月瑞希 | ![](https://patchwiki.biligame.com/images/ys/6/6f/l9s7pilrk0smm4fbc90rac1p0yxqqb9.png)<br>《原神》中的女性角色。「秋沙钱汤」的股东，梦貘一族的心理诊疗师，致力于驱散噩梦，为人们带来安宁的心境。 |  |
 | shinju inui | 乾心寿 | 乾心寿（日语：乾（いぬい） 心寿（しんじゅ））是由福田晋一创作的漫画《更衣人偶坠入爱河》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/2/20/Inui_Shinju_anime.png) | [萌娘百科](https://zh.moegirl.org.cn/乾心寿) |
 | carlotta | 柯莱塔 | 《鸣潮》中的女性角色 |  |
 | sayori | 纱世里 | 所属作品: `p:doki doki literature club`<br><br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/c/ca/Sayori_Illustration.png) | [萌娘百科](https://zh.moegirl.org.cn/纱世里) [Fandom](https://doki-doki-literature-club.fandom.com/zh/wiki/纱世里（Sayori）) [维基百科（英语）](https://en.wikipedia.org/wiki/Sayori_%28Doki_Doki_Literature_Club!%29) |
