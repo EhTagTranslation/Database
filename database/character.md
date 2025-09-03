@@ -3268,7 +3268,7 @@ example:
 | elaina | 伊蕾娜 |  |  |
 | ganyu | 甘雨 | ![](https://patchwiki.biligame.com/images/ys/d/da/80cmpy7ubhja1o81nx67709701et0fe.png)<br>甘雨（英语：ganyu）所属作品:<abbr title="genshin impact" ns="parody">原神</abbr><br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>月海亭的秘书，体内流淌着仙兽「麒麟」的血脉。 | [萌娘百科](https://zh.moegirl.org.cn/甘雨) |
 | jean gunnhildr | 琴·古恩希尔德 | 琴·古恩希尔德（英语：jean gunnhildr）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b7/Genshin_Jean_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/琴·古恩希尔德) |
-| jean | 琴 |  |  |
+| jean | 琴 | ![](https://patchwiki.biligame.com/images/ys/9/9a/ody6lh5cnr39xb6u7taf4eo85oj7855.png)<br>正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/琴) |
 | midori fuse | 布施翠 |  |  |
 | roxy migurdia | 洛琪希·米格路迪亚 | 洛琪希·米格路迪亚（日语：ロキシー・ミグルディア）是由理不尽な孫の手创作的轻小说《`mushoku tensei`》及其衍生作品的登场角色。<br>![](https://mushokutensei.jp/wp-content/themes/mushoku_re/img/character/img_meikyu01.png) | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
 | ghislaine dedoldia | 基列奴·泰德路迪亚 |  |  |
