@@ -6009,7 +6009,7 @@ example:
 | yuki takeya | 丈枪由纪 | 学园孤岛女主人公之一 |  |
 | erika hatami | 旗见绘里香 |  |  |
 | kanae itou | 伊藤香苗 |  | [pixiv](https://dic.pixiv.net/a/伊藤香苗) |
-| juri ushimaki | 牛牧茱莉 |  |  |
+| juri ushimaki | 牛牧朱莉 | 格黑娜学园所属，是担当学生食堂管理的料理部的一员。![](https://patchwiki.biligame.com/images/ba/a/a8/50mg312uikrrzjc6ap1hqwf34jd2hmp.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Juri) |
 | akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
 | jace beleren | 杰斯贝连 | 《万智牌》角色 |  |
 | aira shiratori | 白鸟爱罗 |  |  |
