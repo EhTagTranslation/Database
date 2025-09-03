@@ -3680,7 +3680,7 @@ example:
 | miko yotsuya | 四谷见子 |  |  |
 | hana yurikawa | 百合川华 |  |  |
 | yuria niguredou | 二暮堂尤利娅 |  |  |
-| shenhe | 申鹤 | 申鹤（英语：shenhe）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9a/孤辰茕怀_申鹤.jpg) | [萌娘百科](https://zh.moegirl.org.cn/申鹤) |
+| shenhe | 申鹤 | ![](https://patchwiki.biligame.com/images/ys/a/a8/skhfkgcgbldvk62j66x9wc1tqcamx2u.png)<br>申鹤（英语：shenhe）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>气质出尘的仙家子弟。隐修在璃月群山之间，个性也如仙人般淡漠疏离。 | [萌娘百科](https://zh.moegirl.org.cn/申鹤) |
 | futaba marui | 丸井双叶 | 《超元气三姐妹》三胞胎姐妹中的次女，性格天真活泼，运动神经超群，力气之大连父亲都能轻松举起，是个喜欢爸爸的天真孩子。 |  |
 | mitsuba marui | 丸井三叶 | 《超元气三姐妹》三胞胎姐妹中的长女，性格超S，很在意自己的体型，所以常常会减肥。 |  |
 | hitoha marui | 丸井一叶 | 《超元气三姐妹》三胞胎姐妹中的幺女，性格阴暗，处事冷静，有严重的惧高症，看到血会晕倒。 |  |
