@@ -5805,7 +5805,7 @@ example:
 | alma armas | 阿尔玛·阿玛斯 |  |  |
 | bambietta basterbine | 邦比爱塔·芭丝塔拜姻 |  |  |
 | midnight | 午夜 |  |  |
-| sumire otohana | 乙花堇 |  |  |
+| sumire otohana | 乙花堇 | 千年科学学校所属，锻炼部的部长。![](https://patchwiki.biligame.com/images/ba/9/9d/db4dyt0yrqig7l0gw05pihz7qszqzrv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sumire) |
 | marina | 饭田 |  |  |
 | cecile croomy | 塞希尔·柯尔米 | 塞希尔·柯尔米，日本动画片《Code Geass 反叛的鲁路修》及其衍生作品中的角色。<br>塞希尔·柯尔米，兰斯洛特开发群成员，中尉军衔，兼具同情心与坚韧，对朱雀有好感，是Zero镇魂曲的关键协助者之一， |  |
 | jeremiah gottwald | 杰雷米亚·哥特瓦尔德 | 杰雷米亚·哥特瓦尔德Jeremiah Gottwald，原本是克洛维斯的部下。年齢是28歳。名门出身，原是不列颠纯血主义者纯血派头头的男军官。有著边境伯的爵位，对11区（日本人）们非常蔑视。<br>对于鲁路修的母亲玛丽安娜皇妃极为忠诚，知晓鲁路修的真实身份后，即使是因其身败名裂，也毫不犹豫的向鲁路修效忠 |  |
