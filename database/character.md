@@ -4075,7 +4075,7 @@ example:
 | edelgard von hresvelg | 艾黛尔贾特·冯·弗雷斯贝尔古 |  |  |
 | rhea | 蕾雅 |  |  |
 | byleth eisner | 贝雷丝·艾斯纳 |  |  |
-| hoshino takanashi | 小鸟游星野 | 所属作品：`p:blue archive`<br><br>阿拜多斯高等学校的前副会长，现在是担任对策委员会的委员长的慵懒少女。拥有老人似的口癖特征，平日喜欢游手好闲。虽然因为偷懒会常常被委员会的伙伴说教，可一旦执行任务，就会为了守护伙伴而奋斗在最前线。<br>![](https://i.ytimg.com/vi/ef2lg0at1Fc/maxresdefault.jpg) |  |
+| hoshino takanashi | 小鸟游星野 | 所属作品：`p:blue archive`<br><br>阿拜多斯高等学校的前副会长，现在是担任对策委员会的委员长的慵懒少女。拥有老人似的口癖特征，平日喜欢游手好闲。虽然因为偷懒会常常被委员会的伙伴说教，可一旦执行任务，就会为了守护伙伴而奋斗在最前线。<br>![](https://patchwiki.biligame.com/images/ba/f/f4/kwv08gawtndos2ftli5jn35j1htby4g.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4f/a1vfkijzou4p9i1cgn8iyc56lp9yh6x.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hoshino) |
 | miyu kasumizawa | 霞泽美游 | 霞泽美游（日语：霞沢ミユ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a7/BA_Miyu_ML.png/1280px-BA_Miyu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/霞泽美游) |
 | midori saiba | 才羽绿 | 所属作品：`p:blue archive`<br><br>千年学园，游戏开发部的插画家。<br>和双胞胎姊姊桃井一起在游戏开发部开发游戏。<br>性格内向。虽然和天性活泼的姊姊合不来，但关系很好，她们对游戏充满热情，两人在这方面意气相投，是独一无二的好搭档。 |  |
 | momoi saiba | 才羽桃井 | 所属作品：`p:blue archive`<br><br>千年学园，游戏开发部的编剧。和双胞胎妹妹绿一起在游戏开发部开发游戏。 个性爽快开朗，和生性内向的妹妹不太合得来。但她们对游戏充满热情，两人在这方面意气相投，是独一无二的好搭档。 |  |
