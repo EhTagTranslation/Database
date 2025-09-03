@@ -6400,7 +6400,7 @@ example:
 | sylvia van hossen | 希尔薇娅·范·霍森 | ![希尔薇](https://jqcuwuk.qqabwhqzoesl.hath.network/h/019df34cc3991e712a409302b482bf9f15dbe61b-45611-426-600-jpg/keystamp=1746856200-2eec20969f;fileindex=10156905;xres=2400/5ceb028d6b1b2dfb4ca86f27eae85567.jpg)<br>公主恋人的第二女主角，OVA希尔薇篇的女主角。 | [vndb](https://vndb.org/v765) |
 | kabru | 卡布尔 |  |  |
 | cattleya | 卡特莱娜 |  |  |
-| escoffier | 爱可菲 |  |  |
+| escoffier | 爱可菲 | ![](https://patchwiki.biligame.com/images/ys/c/c7/qlfxbsepdgxynho8ddci4ff7qo7u6gh.png)<br>闻名枫丹的前德波大饭店主厨，有着「甜点大校」荣誉的「技术料理」先驱，对烹饪的要求无比严格。 |  |
 | pina asahina | 朝比奈菲娜 | 百鬼夜行联合学园所属，憧憬着任侠的少女。<br>![](https://patchwiki.biligame.com/images/ba/4/45/3eprles93avfrd77xofqksmf9pdn0q3.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Pina) |
 | princess | 公主 | 所属作品: `p:himesama goumon no jikan desu`<br>本作主角。本名不明。金发碧眼，头上还有一个小王冠。既是王女，又是国王军第三骑士团的团长。<br><br>所属作品: `p:7th dragon`<br>南海女神的后裔，她激励盟友并剥夺敌人的力量。擅长通过歌唱技巧提供支持，还可以用鞭子控制敌人。 | [第七龙神](https://w.atwiki.jp/7thdragon/pages/19.html) |
 | torture tortura | 绝顶之惨叫姬·折磨小姐 | 所属作品: `p:himesama goumon no jikan desu`<br><br>魔王军首席拷问官，妙龄女性恶魔，负责拷问公主来获得对魔王军有利的情报。 |  |
