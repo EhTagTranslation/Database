@@ -6674,6 +6674,7 @@ example:
 | aliceliese lou nebulis ix | 爱丽丝莉洁·露·涅比利斯 九世 | 轻小说《你与我最后的战场，亦或是世界起始的圣战》中的女主角，17岁。涅比里斯皇厅的第二王女。使用冰系星灵力量的强大星灵使，被帝国冠以“冰祸的魔女”这一畏称。![](https://lain.bgm.tv/r/400/pic/crt/l/00/21/72423_crt_eS9s9.jpg?r=1701605070) | [Bangumi](https://bgm.tv/character/72423) |
 | claire kagenou | 克蕾娅·卡盖诺 | 乡下贵族卡盖诺男爵家的长女。希德的姐姐。家系里以魔力强化肉体来进行战斗的骑士世代辈出，而自己也有着这方面的才能。没有发现希德的真正实力，认为他是个「不可靠的弟弟」。![](https://lain.bgm.tv/r/400/pic/crt/l/ab/fe/115780_crt_Jz2bL.jpg?r=1675248725) | [Bangumi](https://bgm.tv/character/115780) |
 | alicia arcturus | 艾丽西娅·阿尔库托鲁斯 | 别名「艾里斯的姬骑士」。Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/a/a8/Alicia_Arcturus黑兽个人2.jpg/420px-Alicia_Arcturus黑兽个人2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾丽西娅·阿尔库托鲁斯) |
+| maki oze | 茉希尾濑 | 大久保笃创作的漫画《炎炎消防队》及其衍生作品的登场角色。第8特殊消防队、第二世代能力者、一等消防官。<br>原先是军人，故格斗技术优异。虽然外表炫酷，但却非常喜欢恋爱这个话题，脑袋里如同‘少女的花田’一样的残念美人 。![](https://img.moegirl.org.cn/common/thumb/e/e6/Character_main4.png/150px-Character_main4.png) | [百度百科](https://baike.baidu.com/item/茉希尾濑)<br>[萌娘百科](https://zh.moegirl.org.cn/茉希尾濑) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
