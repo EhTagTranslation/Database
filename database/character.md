@@ -3574,7 +3574,7 @@ example:
 | aladdin | 阿拉丁 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
 | ariel | 爱丽儿 | 华特迪士尼第28部动画电影《小美人鱼》及其衍生作品中的主角。 |  |
 | platelet | 血小板 |  |  |
-| ayaka kamisato | 神里绫华 | 神里绫华（英语：ayaka kamisato）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/79/Genshin_ayaka_intro.jpg) | [萌娘百科](https://zh.moegirl.org.cn/神里绫华) [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
+| ayaka kamisato | 神里绫华 | ![](https://patchwiki.biligame.com/images/ys/2/2d/5t7bdjldztvz7uws8rlc7qszqmklj5k.png)<br>神里绫华（英语：ayaka kamisato）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。 | [萌娘百科](https://zh.moegirl.org.cn/神里绫华) [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
 | shounagon sei | 清少纳言 | 清少纳言通常是指`type-moon`旗下Fate系列及其衍生作品中登场的角色，在游戏《`fate grand order`》初登场。<br><br>其出典于真实历史人物 清少纳言，是日本平安时期的女作家、歌人。姓清原，名不可考。以随笔集「枕草子」闻名。 | [萌娘百科](https://zh.moegirl.org.cn/清少纳言%28Fate%29) (\*\*) |
 | ritsuko akagi | 赤木律子 | 动漫《新世纪福音战士》中的角色。 |  |
 | yui ikari | 碇唯 | 《新世纪福音战士》中的角色 |  |
