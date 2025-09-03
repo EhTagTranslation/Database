@@ -4727,7 +4727,7 @@ example:
 | rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive` |  |
 | michiru chidori | 千鸟满 | 所属作品：`p:blue archive` |  |
 | reijo kayama | 鹿山丽情 | 所属作品：`p:blue archive` |  |
-| maki konuri | 小涂真纪 | 所属作品：`p:blue archive` |  |
+| maki konuri | 小涂真纪 | 所属作品：`p:blue archive`<br>千年科学学校所属，黑客集团「真理部」的部员。<br>![](https://patchwiki.biligame.com/images/ba/b/bd/di760yd2imsjuh51kcjrtr7mgf65dmv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Maki) |
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive` |  |
 | mimori mizuha | 水羽三森 | 所属作品：`p:blue archive` |  |
 | haruka igusa | 伊草遥香 | 所属作品：`p:blue archive`格黑娜学园所属，便利屋68的普通社员。![](https://patchwiki.biligame.com/images/ba/e/ee/swbse283usqpys5mriagbkfm6x3wiox.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Haruka) |
