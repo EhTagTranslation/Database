@@ -4089,7 +4089,7 @@ example:
 | neru mikamo | 美甘妮露 | 美甘妮露是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>所属作品：`p:blue archive`<br><br>千禧科技学园所属，承包商「C&C」的领头。<br>乍一看只是在女仆服外面套着特攻衫的不良少女，但实际上是作为千禧年最强战斗能力的代理人。<br>![](https://img.moegirl.org.cn/common/a/aa/BA_Neru_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/美甘宁瑠) |
 | tsubaki kasuga | 春日椿 | 所属作品：`p:blue archive`<br><br>百鬼夜行联合学院所属，修行部部长。以“更安稳、更完美的睡眠”为目标经常修行。所达到极致的状态，无论坐着还是站着，甚至可以边吃饭边睡觉。人称【睡美人】。虽然总是迷迷糊糊的，但一到晚上就会为了守护城市而暗中活动。 |  |
 | mika misono | 圣园未花 | 所属作品：`p:blue archive`<br><br>三一综合学园茶会（学生会）的主办者之一，性格活跃开朗，擅长营造谈话气氛，不擅长政治，讨厌格黑娜。和圣亚、渚是很好的朋友。 |  |
-| ako amau | 天雨亚子 | 所属作品：`p:blue archive`<br><br>格黑娜学园的学生，是格黑娜学园风纪委员会的行政官<br>对风纪委员长来说是秘书一样的存在，乍一看她给人一种亲切善良的印象，但处理违反规则的学生却毫不留情。 她总是跟在风纪委员长的身旁，尽全力辅佐着她。虽然她也被少数敌视风纪委员会的成员称为“委员长的狗”，但本人表面上并没有太过于在意。 |  |
+| ako amau | 天雨亚子 | 所属作品：`p:blue archive`<br>格黑娜学园所属，风纪委员会的行政官，就像是风纪委员日奈的秘书。<br>![](https://patchwiki.biligame.com/images/ba/3/3c/rbxt7nbf8bnh67mavgqubixtyrp358d.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Students) |
 | natsu yutori | 柚鸟夏 | 所属作品：`p:blue archive`<br><br>三一放学后的甜点部的一员。<br>这位是放学后甜品部的麻烦制造第一名以及自称浪漫家的夏同学！<br>抱着「想和大家一起分享浪漫」的心情、经常说出爆炸性发言并把周围的事物都牵扯进来，「浪漫」的定义也经常变化着的样子... |  |
 | kagome higurashi | 日暮戈薇 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/2d/fa/2dfa838ed0c61f6631f8b804cd9da48bcd8893f0-31916-280-418-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/日暮戈薇) |
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
