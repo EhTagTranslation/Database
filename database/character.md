@@ -5498,7 +5498,7 @@ example:
 | jing yuan | 景元 | 景元是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/景元) |
 | hwah jah | 华甲 | 华甲（Hwah Jah，華甲，화지아）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/f/f9/BLHX_huajia_2_hx.png/1024px-BLHX_huajia_2_hx.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:华甲) |
 | kento nanami | 七海建人 | 七海建人（日语：七海（ななみ） 建人（けんと））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/37/咒术回战_11.jpg) | [萌娘百科](https://zh.moegirl.org.cn/七海建人) |
-| nagusa goryou | 御稜名草 | 所属作品：`p:blue archive` |  |
+| nagusa goryou | 御稜名草 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院·百花缭乱纷争调停委员会，原百花缭乱委员会副委员长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/953797.png) |  |
 | utaha shiraishi | 白石歌原 | 白石歌原（日语：白石ウタハ）是Nexon发行的游戏蔚蓝档案及其衍生作品中的登场角色。千年科学学校所属，工程部的部长。<br>![](https://patchwiki.biligame.com/images/ba/4/4b/oly2g7xbfoxlqgysqsksf0beeo63y0k.png)<br>![](https://patchwiki.biligame.com/images/ba/8/8d/051ga0b80pf3wd1yhvvgmzazz2opbr1.png) | [萌娘百科](https://zh.moegirl.org.cn/白石咏叶)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Utaha) |
 | namari | 娜玛莉 | 娜玛莉，是九井谅子创作的漫画《迷宫饭》及其衍生作品角色。<br>![](https://bkimg.cdn.bcebos.com/pic/dc54564e9258d109b3defae6f700dbbf6c81800ae715?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/娜玛莉/63935734) |
 | sumika shiun | 紫云清夏 | 紫雲清夏（しうん すみか），《学园偶像大师》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/紫云清夏) |
