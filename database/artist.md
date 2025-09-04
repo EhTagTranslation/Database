@@ -13970,6 +13970,7 @@ example:
 | azuma ryo | あずま涼 | 主に陰毛と腋毛と潮吹きとマン屁です | [X](https://x.com/azumaryo18) [pixiv](https://www.pixiv.net/users/35581935) |
 | tabbto | オアシス |  |  |
 | moria | もりあ |  |  |
+| sakatami | さかたみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
