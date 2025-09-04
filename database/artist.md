@@ -13973,6 +13973,7 @@ example:
 | sakatami | さかたみ |  |  |
 | kiyama haru | 紀山ハル |  |  |
 | jakky | ジャッキー |  |  |
+| doctor masube | ドクトルますべ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
