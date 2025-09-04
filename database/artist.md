@@ -13963,6 +13963,7 @@ example:
 | tenrai x | てんらいX |  | [X](https://x.com/trmsasasa) [pixiv](https://www.pixiv.net/users/66739067) |
 | takizawa taki | 滝沢タキ | 好きなジャンルは異種姦、蟲姦、獣、触手、ふたなりなどです | [X](https://x.com/tatataeroeroero) [pixiv](https://www.pixiv.net/users/3001816) |
 | ikacream | いかくりーむ | 女の子を描くのが大好きです | [X](https://x.com/ikacream05) [pixiv](https://www.pixiv.net/users/94931363) |
+| jianrenjiuda | 见人就打 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
