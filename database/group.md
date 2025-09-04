@@ -13275,6 +13275,7 @@ example:
 | tokyo ereki studio | 東京電気スタジオ |  |  |
 | maid-tou | めいど党 |  |  |
 | haitoku no mori | はいとくのもり |  |  |
+| shibaiinu nisei | シバイーヌ二世 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
