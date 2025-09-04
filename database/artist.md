@@ -13971,6 +13971,7 @@ example:
 | tabbto | オアシス |  |  |
 | moria | もりあ |  |  |
 | sakatami | さかたみ |  |  |
+| kiyama haru | 紀山ハル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
