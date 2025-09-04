@@ -13276,6 +13276,7 @@ example:
 | maid-tou | めいど党 |  |  |
 | haitoku no mori | はいとくのもり |  |  |
 | shibaiinu nisei | シバイーヌ二世 |  |  |
+| mirinkou | ミリンコウ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
