@@ -13961,6 +13961,7 @@ example:
 | okuma | 奥马 |  |  |
 | m hakase | M博士 | [pixiv](https://www.pixiv.net/users/29464462)<br>[FANBOX](https://mhakase.fanbox.cc/)<br>[Fantia](https://fantia.jp/fanclubs/171538)<br>[X](https://x.com/m_hakase_lab) |  |
 | tenrai x | てんらいX |  | [X](https://x.com/trmsasasa) [pixiv](https://www.pixiv.net/users/66739067) |
+| takizawa taki | 滝沢タキ | 好きなジャンルは異種姦、蟲姦、獣、触手、ふたなりなどです | [X](https://x.com/tatataeroeroero) [pixiv](https://www.pixiv.net/users/3001816) |
 
 <!--TEMPLATE:
 |  |  |  |  |
