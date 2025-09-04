@@ -62,7 +62,7 @@ jobs:
           repository: ${{ github.repository }}
           branch: release
       - name: Upload release
-        uses: ncipollo/release-action@v1.19.1
+        uses: ncipollo/release-action@v1.20.0
         if: ${{ !env.SKIP }}
         with:
           artifacts: ./publish/*
