@@ -13969,6 +13969,7 @@ example:
 | upimayo | ウぴまヨ | 絵を描くオタク🤗サブ垢 | [X](https://x.com/nas_x) [pixiv](https://www.pixiv.net/users/186732) |
 | azuma ryo | あずま涼 | 主に陰毛と腋毛と潮吹きとマン屁です | [X](https://x.com/azumaryo18) [pixiv](https://www.pixiv.net/users/35581935) |
 | tabbto | オアシス |  |  |
+| moria | もりあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
