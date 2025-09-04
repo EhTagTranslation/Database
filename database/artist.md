@@ -13972,6 +13972,7 @@ example:
 | moria | もりあ |  |  |
 | sakatami | さかたみ |  |  |
 | kiyama haru | 紀山ハル |  |  |
+| jakky | ジャッキー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
