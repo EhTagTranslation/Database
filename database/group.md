@@ -13277,6 +13277,7 @@ example:
 | haitoku no mori | はいとくのもり |  |  |
 | shibaiinu nisei | シバイーヌ二世 |  |  |
 | mirinkou | ミリンコウ |  |  |
+| yachou | 野鳥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
