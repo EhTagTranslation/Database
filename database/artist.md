@@ -13974,6 +13974,7 @@ example:
 | kiyama haru | 紀山ハル |  |  |
 | jakky | ジャッキー |  |  |
 | doctor masube | ドクトルますべ |  |  |
+| choukutetsushitsugan | 超苦鉄質岩 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
