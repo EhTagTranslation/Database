@@ -13968,6 +13968,7 @@ example:
 | hisha | 飛者 | 东方Project同人画师<br>![](https://p.sda1.dev/26/7897bf15316f7ac5198b6d2e94dea7f6/FMMaVieagAAxG2f.jpg) | [X](https://x.com/Uwata_h)<br>[pixiv](https://www.pixiv.net/users/23800170)<br>[FANBOX](https://hisha.fanbox.cc) |
 | upimayo | ウぴまヨ | 絵を描くオタク🤗サブ垢 | [X](https://x.com/nas_x) [pixiv](https://www.pixiv.net/users/186732) |
 | azuma ryo | あずま涼 | 主に陰毛と腋毛と潮吹きとマン屁です | [X](https://x.com/azumaryo18) [pixiv](https://www.pixiv.net/users/35581935) |
+| tabbto | オアシス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
