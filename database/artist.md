@@ -13975,6 +13975,7 @@ example:
 | jakky | ジャッキー |  |  |
 | doctor masube | ドクトルますべ |  |  |
 | choukutetsushitsugan | 超苦鉄質岩 |  |  |
+| bloiler yachou | ブロイラー野鳥 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
