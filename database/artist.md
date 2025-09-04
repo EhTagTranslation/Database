@@ -13964,6 +13964,7 @@ example:
 | takizawa taki | 滝沢タキ | 好きなジャンルは異種姦、蟲姦、獣、触手、ふたなりなどです | [X](https://x.com/tatataeroeroero) [pixiv](https://www.pixiv.net/users/3001816) |
 | ikacream | いかくりーむ | 女の子を描くのが大好きです | [X](https://x.com/ikacream05) [pixiv](https://www.pixiv.net/users/94931363) |
 | jianrenjiuda | 见人就打 |  |  |
+| hourai nepenthes | 蓬莱ネペンテス | 百合えっち漫画描き | [X](https://x.com/nepeeeeeeen_359) [pixiv](https://www.pixiv.net/users/16351181) |
 
 <!--TEMPLATE:
 |  |  |  |  |
