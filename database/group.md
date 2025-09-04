@@ -13271,6 +13271,7 @@ example:
 | katakana de velokisss | 平仮名で、べろきす |  |  |
 | shinkai-kajuen | 深海果樹園 |  |  |
 | aparachiya | アパラチ屋 |  |  |
+| himonoya | 干物屋 | 飛者的同人社团，主要作品为东方Project二次创作 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=112486](https://www.melonbooks.co.jp/circle/index.php?circle_id=112486) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
