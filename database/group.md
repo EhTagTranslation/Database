@@ -13270,6 +13270,7 @@ example:
 | sukebe hatsudenjo | すけべ发电所 |  |  |
 | katakana de velokisss | 平仮名で、べろきす |  |  |
 | shinkai-kajuen | 深海果樹園 |  |  |
+| aparachiya | アパラチ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
