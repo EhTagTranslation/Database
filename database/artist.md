@@ -13965,6 +13965,7 @@ example:
 | ikacream | いかくりーむ | 女の子を描くのが大好きです | [X](https://x.com/ikacream05) [pixiv](https://www.pixiv.net/users/94931363) |
 | jianrenjiuda | 见人就打 |  |  |
 | hourai nepenthes | 蓬莱ネペンテス | 百合えっち漫画描き | [X](https://x.com/nepeeeeeeen_359) [pixiv](https://www.pixiv.net/users/16351181) |
+| hisha | 飛者 | 东方Project同人画师<br>![](https://p.sda1.dev/26/7897bf15316f7ac5198b6d2e94dea7f6/FMMaVieagAAxG2f.jpg) | [X](https://x.com/Uwata_h)<br>[pixiv](https://www.pixiv.net/users/23800170)<br>[FANBOX](https://hisha.fanbox.cc) |
 
 <!--TEMPLATE:
 |  |  |  |  |
