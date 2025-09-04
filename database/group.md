@@ -13272,7 +13272,7 @@ example:
 | shinkai-kajuen | 深海果樹園 |  |  |
 | aparachiya | アパラチ屋 |  |  |
 | himonoya | 干物屋 | 飛者的同人社团，主要作品为东方Project二次创作 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=112486](https://www.melonbooks.co.jp/circle/index.php?circle_id=112486) |
-| tokyo ereki studio | 東京電気スタジオ |  |  |
+| tokyo ereki studio | 東京電気スタジオ | 同人作家。主に陰毛と腋毛と潮吹きとマン屁です | [X](https://x.com/azumaryo18) [pixiv](https://www.pixiv.net/users/35581935) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
