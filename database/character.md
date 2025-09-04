@@ -6689,6 +6689,7 @@ example:
 | mina | 麦姆 | ![](https://gbf.wiki/images/thumb/b/b8/Npc_zoom_3030176000_01.png/720px-Npc_zoom_3030176000_01.png)<br>《碧蓝幻想》中登场的女性NPC。<br>作为天空骑士团的副队长，米娜是他们教团中唯一掌控水元素力量的人。当他们的首领离开时，她接管了指挥权，赢得了他们的尊重。但她似乎没有注意到她的制服具有多大的魅力。 |  |
 | haruka shino | 遥（紫野遥） | ![](https://patchwiki.biligame.com/images/arknights/e/e8/nfbi953jxvx16lnsgjfr5p1rxxmrw5q.png)<br>遥，在东国南院有相当名气的艺人。本名紫野遥，艺名羽生萌萌香。 | [BILIGAME WIKI](https://wiki.biligame.com/arknights/遥) |
 | mulberry | 桑葚 | ![](https://patchwiki.biligame.com/images/arknights/f/f4/l5gy69ekq7qi6tdzksu1dxphh0uptps.png)<br>桑葚是手机游戏《明日方舟》中的五星医疗职业行医分支干员。 | [BILIGAME WIKI](https://wiki.biligame.com/arknights/桑葚) |
+| nicole watterson | 妮蔻·沃特森 | 甘宝、达尔文和安安的妈妈，是一只蓝色的猫。在镇上的彩虹工厂上班。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
