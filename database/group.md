@@ -13273,6 +13273,7 @@ example:
 | aparachiya | アパラチ屋 |  |  |
 | himonoya | 干物屋 | 飛者的同人社团，主要作品为东方Project二次创作 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=112486](https://www.melonbooks.co.jp/circle/index.php?circle_id=112486) |
 | tokyo ereki studio | 東京電気スタジオ |  |  |
+| maid-tou | めいど党 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
