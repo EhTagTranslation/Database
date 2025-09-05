@@ -13278,6 +13278,7 @@ example:
 | shibaiinu nisei | シバイーヌ二世 |  |  |
 | mirinkou | ミリンコウ |  |  |
 | yachou | 野鳥 |  |  |
+| oshaburi tengoku | おしゃぶり天国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
