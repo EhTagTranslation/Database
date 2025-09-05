@@ -2521,6 +2521,7 @@ example:
 | shinmai renkinjutsushi no tenpo keiei | 新人炼金术师的店铺经营 | 由いつきみずほ创作的轻小说。![](https://img.moegirl.org.cn/common/thumb/2/20/Management_of_novice_alchemist_%281%29.jpg/450px-Management_of_novice_alchemist_%281%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/新人炼金术师的店铺经营) |
 | atri | 亚托莉-我挚爱的时光 | 讲述了因小时候的事故而失去一条腿的少年斑鸠夏生，和沉睡在棺材般装置中的神奇少女亚托莉相遇而展开的故事。![](https://img.moegirl.org.cn/common/thumb/b/b4/ATRIheader.jpg/420px-ATRIheader.jpg) |  |
 | katainaka no ossan kensei ni naru | 乡下大叔成为剑圣 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/43/506258_4m4PH.jpg)<br>改编自佐賀崎しげる创作的网络小说作品《乡下大叔成为剑圣 ～只是区区乡下剑术师傅，成大器的弟子们却不肯放过我～》 | [Bangumi](https://bgm.tv/subject/506258) |
+| dakara boku wa h ga dekinai | 美少女死神还我H之魂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/36/29650_OSPDd.jpg)<br>日本小说家橘ぱん著作、桂井よしあき插画的轻小说 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
