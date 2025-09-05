@@ -5657,7 +5657,7 @@ example:
 | degenbrecher | 锏 | 明日方舟六星剑豪 | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
 | saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
 | pekoras mother | 佩克拉妈咪 | `c:usada pekora`的现实中的母亲，2024年4月1日作为愚人节企划正式出道。 | [Fandom](https://omniversal-battlefield.fandom.com/wiki/Pekomama) |
-| unzen | 云仙 | 1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
+| unzen | 云仙 \| 猃 | ![](https://patchwiki.biligame.com/images/blhx/thumb/d/d7/ovrwhjshngqr3l9f3tus5dnutkd2eqp.jpg/525px-云仙立绘.jpg)<br>《碧蓝航线》中的舰娘。<br>1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
 | mualani | 玛拉妮 | ![](https://patchwiki.biligame.com/images/ys/0/0e/6ytuso69fejc3fqy93jm37jauzn2zbc.png)<br>米哈游研发的游戏《原神》及其衍生作品的登场角色。纳塔远近闻名的向导，水上用品商店的经营者，精通各类水上运动的逐浪客。 | [萌娘百科](https://zh.moegirl.org.cn/玛拉妮) |
 | shiori fujisaki | 藤崎诗织 |  |  |
 | kiwi araga | 阿良河基维 | 阿良河基维（日语：阿良河（あらが） キウィ）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/24/阿良河基维人设.webp) | [萌娘百科](https://zh.moegirl.org.cn/阿良河基维) |
