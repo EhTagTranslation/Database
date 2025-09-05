@@ -541,7 +541,7 @@ example:
 | kouwan seiki | 港湾栖姬 |  | [舰队Collection:港湾栖姬](https://zh.moegirl.org.cn/舰队Collection:港湾栖姬) |
 | chuukan seiki | 中间栖姬 |  | [舰队Collection:中间栖姬](https://zh.moegirl.org.cn/舰队Collection:中间栖姬) |
 | hikoujouki | 飞行场姬 |  | [舰队Collection:飞行场姬](https://zh.moegirl.org.cn/舰队Collection:飞行场姬) |
-| lion | 狮 |  | [战舰少女:狮](https://zh.moegirl.org.cn/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org.cn/战舰少女:狮%28战列巡洋舰%29) |
+| lion | 狮 | ![](https://patchwiki.biligame.com/images/blhx/thumb/a/a0/oia6ei9zb2i8rb28wg1v94vafclo51z.jpg/525px-狮立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。 | [战舰少女:狮](https://zh.moegirl.org.cn/战舰少女:狮) [战舰少女:狮(战列巡洋舰)](https://zh.moegirl.org.cn/战舰少女:狮%28战列巡洋舰%29) |
 | kagero | 阳炎 | 旧日本帝国海军的阳炎号驱逐舰（陽炎(陽炎型駆逐艦)） | [碧蓝航线:阳炎](https://zh.moegirl.org.cn/碧蓝航线:阳炎) [战舰少女:阳炎](https://zh.moegirl.org.cn/战舰少女:阳炎) [舰队Collection:阳炎](https://zh.moegirl.org.cn/舰队Collection:阳炎) |
 | el condor pasa | 神鹰 |  | [赛马娘:神鹰](https://zh.moegirl.org.cn/神鹰) [战舰少女:神鹰](https://zh.moegirl.org.cn/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
 | perth | 珀斯 |  | [舰队Collection:珀斯](https://zh.moegirl.org.cn/舰队Collection:珀斯) |
