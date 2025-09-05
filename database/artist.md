@@ -13978,6 +13978,7 @@ example:
 | bloiler yachou | ブロイラー野鳥 |  |  |
 | shishamo | ししゃも |  |  |
 | yuetsu saru | 愉悦さる |  |  |
+| nantoka | なンとか |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
