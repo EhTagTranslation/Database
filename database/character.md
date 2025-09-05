@@ -6520,7 +6520,7 @@ example:
 | saki ayase | 绫濑沙季 |  |  |
 | erika amano | 天野艾丽嘉 |  |  |
 | sachi umino | 海野凪 |  |  |
-| banri shiunji | 紫云寺万里 | 所属作品: `c:banri tada`<br><br>大一学生，长女。虽然是一名成熟稳重的女性，但是喜欢捉弄弟弟、妹妹们。 |  |
+| banri shiunji | 紫云寺万里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/75/161345_crt_147xO.jpg?r=1741355430)<br>紫云寺家的长女，18 岁的大学一年级学生。<br>她正在一所名牌大学学习护理学。 她在姐妹中特别以美丽著称，温柔温柔的性格深受年长和年轻人的欢迎。 | [Bangumi](https://bgm.tv/character/161345) |
 | la folia rihavein | 拉·芙利亚·利哈瓦因 |  |  |
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 千咲 |  |  |
