@@ -13977,6 +13977,7 @@ example:
 | choukutetsushitsugan | 超苦鉄質岩 |  |  |
 | bloiler yachou | ブロイラー野鳥 |  |  |
 | shishamo | ししゃも |  |  |
+| yuetsu saru | 愉悦さる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
