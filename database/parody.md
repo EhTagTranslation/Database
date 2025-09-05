@@ -586,7 +586,7 @@ example:
 | welcome to the n.h.k. | 欢迎加入NHK！ |  |  |
 | sakurako-san no ashimoto ni wa shitai ga umatteiru | 樱子小姐的脚下埋着尸体 |  |  |
 | shimoneta to iu gainen ga sonzai shinai taikutsu na sekai | 下流梗不存在的灰暗世界 | 《下流梗不存在的灰暗世界》（日语：下ネタという概念が存在しない退屈な世界）又称没有黄段子存在的无聊世界被戒色吧控制的可怕世界世界的错。世界：怪我咯？是由日本轻小说家赤城大空著作、霜月八日插画的轻小说作品，曾荣获第六届小学馆轻小说大赏优秀赏。改编漫画作者为柚木N’。由节操社改编的动画于2015年7月开始放送。 | [萌娘百科](https://zh.moegirl.org.cn/下流梗不存在的灰暗世界) |
-| kyonyuu fantasy | 巨乳幻想 |  |  |
+| kyonyuu fantasy | 巨乳幻想 | ![](https://file.cangku.moe/images/cd473b72c7ddde697a6ae55028dc6252.webp) |  |
 | puyo puyo | 噗哟噗哟 | 魔法气泡 |  |
 | kaku-san-sei million arthur | 扩散性百万亚瑟王 | 一直被模仿，〇〇被超越。由SE带来的手游冲击游戏机的风向。 |  |
 | genji tsuushin agedama | 电脑小奇侠 |  |  |
