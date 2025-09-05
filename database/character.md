@@ -552,7 +552,7 @@ example:
 | bremerton | 布莱默顿 | 美国海军巴尔的摩级重巡洋舰九号舰布雷默顿号（USS Bremerton (CA-130)） | [碧蓝航线:布莱默顿](https://zh.moegirl.org.cn/碧蓝航线:布莱默顿) |
 | roon | 罗恩 | 原型是《战舰世界》原创的军舰 | [碧蓝航线:罗恩](https://zh.moegirl.org.cn/碧蓝航线:罗恩) |
 | dido | 黛朵 | 英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | [碧蓝航线:黛朵](https://zh.moegirl.org.cn/碧蓝航线:黛朵) [战舰少女:黛朵](https://zh.moegirl.org.cn/战舰少女:黛朵) |
-| baltimore | 巴尔的摩 | 美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)） | [碧蓝航线:巴尔的摩](https://zh.moegirl.org.cn/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org.cn/战舰少女:巴尔的摩) |
+| baltimore | 巴尔的摩 | ![](https://patchwiki.biligame.com/images/blhx/thumb/6/60/rtztrhlvk7scto3zrhnpos27eepboz1.jpg/525px-巴尔的摩立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)） | [碧蓝航线:巴尔的摩](https://zh.moegirl.org.cn/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org.cn/战舰少女:巴尔的摩) |
 |  | ▲ 各种舰娘人物 |  |  |
 |  | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |  |
 | producer | 制作人 | 一般指 `p:the idolmaster`中的制作人。在偶像大师系列中，玩家扮演的角色基本是以制作人的身份出现在游戏中，以培育偶像为主要游戏内容。由于是玩家本身的角色，为了更有代入感，在游戏中从来没有设定过容貌。因此，在需要固定形象的二次创作中，人们创造了各式各样的制作人形象。 | [萌娘百科](https://zh.moegirl.org.cn/制作人%28偶像大师%29) |
