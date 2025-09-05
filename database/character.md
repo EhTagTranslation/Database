@@ -3889,7 +3889,7 @@ example:
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 |  |  |
 | aegir | 埃吉尔 |  |  |
-| shinano | 信浓 | ![](https://patchwiki.biligame.com/images/blhx/thumb/6/66/pqzhgas84hebtddal3kf8n9ibp79moc.jpg/525px-信浓立绘.jpg)<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
+| shinano | 信浓 | ![](https://patchwiki.biligame.com/images/blhx/thumb/6/66/pqzhgas84hebtddal3kf8n9ibp79moc.jpg/525px-信浓立绘.jpg)<br>《碧蓝航线》中的角色。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 |  |  |
 | pamiat merkuria | 水星纪念 |  |  |
 | nurnberg | 纽伦堡 |  |  |
