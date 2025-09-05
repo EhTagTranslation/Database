@@ -5704,7 +5704,7 @@ example:
 | tomoki kuroki | 黑木智贵 |  |  |
 | muelsyse | 缪尔赛思 |  | [https://prts.wiki/w/缪尔赛思](https://prts.wiki/w/缪尔赛思) |
 | manticore | 狮蝎 |  | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
-| mogador | 莫加多尔 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
+| mogador | 莫加多尔 | ![](https://patchwiki.biligame.com/images/blhx/thumb/4/48/fgr1rdjw1akjva4dcr1g04xfoto4nbc.jpg/525px-莫加多尔立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
 | xilonen | 希诺宁 | ![](https://patchwiki.biligame.com/images/ys/2/21/r68ykvcqtsshriop2u7onp2euuh8ev8.png)<br>纳茨卡延的铸名师，善于在工作的重担与舒适的生活之间找到平衡点。 | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
 | citlali | 茜特菈莉 | ![](https://patchwiki.biligame.com/images/ys/e/e0/srjrwy2mjj6raqil39tftplz86v5uvt.png)<br>所属作品: `genshin impact`<br>烟谜主的大萨满，令所有族人敬畏的黑曜石奶奶。 | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉) |
