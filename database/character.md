@@ -1988,7 +1988,7 @@ example:
 | alicia rue | 亚丽莎·露 | ![图](https://ehgt.org/0c/75/0c75f246c8d3bbad5bcf3aef6e7d82e850da37e9-550241-624-717-png_l.jpg)![图](https://ehgt.org/00/b8/00b83e961cbec01b8fec6e2e667866377f0f0956-190994-700-700-jpg_l.jpg) |  |
 | sakuya | 朔夜 | 刀剑神域·妖精之舞（ALO）中的人物<br>![图](https://ehgt.org/04/6e/046e654a7e79d0451f0c63e3ea8195534a55a2f5-482788-599-876-jpg_l.jpg)![图](https://ehgt.org/62/e7/62e78940b9da175f7a5defbb63ebeaab6baeae82-1346497-1240-1723-jpg_l.jpg) |  |
 |  | ▼ 加速世界 |  |  |
-| kuroyukihime | 黑雪姬 |  |  |
+| kuroyukihime | 黑雪姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ee/14/15498_crt_qBQu4.jpg?r=1489718547)<br>梅乡中学国中三年级学生。梅乡中学的学生会副会长，因为外表亮丽而被称为黑雪公主。 |  |
 | haruyuki arita | 有田春雪 |  |  |
 | yuniko kouzuki | 上月由仁子 | 上月由仁子是川原礫所创作的輕小说《加速世界》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/上月由仁子) |
 | chiyuri kurashima | 仓岛千百合 |  |  |
