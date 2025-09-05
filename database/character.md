@@ -991,7 +991,7 @@ example:
 | keika kawasaki | 川崎桂花 |  |  |
 | yoshiteru zaimokuza | 材木座义辉 |  |  |
 | yukino yukinoshita | 雪之下雪乃 | ![](https://img.moegirl.org.cn/common/5/51/Yukino1.png)<br>雪之下雪乃是渡航所著轻小说《我的青春恋爱喜剧果然有问题》及衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪之下雪乃) |
-| iroha isshiki | 一色彩羽 | ![一色彩羽](https://ehgt.org/40/d1/40d1439e4d21088aa45ca10f9a60f3714dc56a5c-142351-960-544-jpg_l.jpg) |  |
+| iroha isshiki | 一色彩羽 | ![](https://img.moegirl.org.cn/common/d/df/Isshiki_Iroha.png)<br>渡航所著轻小说《我的青春恋爱喜剧果然有问题》及衍生作品中登场的人物之一。 | [萌娘百科](https://zh.moegirl.org.cn/一色伊吕波) |
 | hayato hayama | 叶山隼人 | ![叶山隼人](https://ehgt.org/82/ad/82ad7938b569e9034d6f62be5ea192196b31a193-687472-1920-2883-jpg_l.jpg) |  |
 | saika totsuka | 户冢彩加 | ![户冢彩加](https://ehgt.org/4d/b1/4db1072304b66f66fc8a641ecb908a7eefee63e7-854698-1920-2812-jpg_l.jpg) |  |
 | haruno yukinoshita | 雪之下阳乃 | ![雪之下阳乃](# "https://ehgt.org/a2/e1/a2e10e6ab8a7e258f170e06799cba4fb496013d2-4469908-2130-3000-jpg_l.jpg") |  |
