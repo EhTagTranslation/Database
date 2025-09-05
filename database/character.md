@@ -412,7 +412,7 @@ example:
 | urakaze | 浦风 | 旧日本帝国海军的浦风号驱逐舰（浦風(陽炎型駆逐艦)） | [碧蓝航线:浦风](https://zh.moegirl.org.cn/碧蓝航线:浦风) [舰队Collection:浦风](https://zh.moegirl.org.cn/舰队Collection:浦风) |
 | tanikaze | 谷风 | 旧日本帝国海军的谷风号驱逐舰（谷風(陽炎型駆逐艦)） | [碧蓝航线:谷风](https://zh.moegirl.org.cn/碧蓝航线:谷风) [舰队Collection:谷风](https://zh.moegirl.org.cn/舰队Collection:谷风) |
 | hamakaze | 滨风 | 旧日本帝国海军的浜风号驱逐舰（浜風(陽炎型駆逐艦)） | [碧蓝航线:滨风](https://zh.moegirl.org.cn/碧蓝航线:滨风) [舰队Collection:滨风](https://zh.moegirl.org.cn/舰队Collection:滨风) |
-| bismarck | 俾斯麦 | 纳粹德国海军的俾斯麦号战列舰（German battleship Bismarck） | [碧蓝航线:俾斯麦](https://zh.moegirl.org.cn/碧蓝航线:俾斯麦) [战舰少女:俾斯麦](https://zh.moegirl.org.cn/战舰少女:俾斯麦) [舰队Collection:俾斯麦](https://zh.moegirl.org.cn/舰队Collection:俾斯麦) |
+| bismarck | 俾斯麦 | ![](https://patchwiki.biligame.com/images/blhx/thumb/8/8b/kgxiy9o48r2k6igot2e2m7n4arvv9y5.jpg/525px-俾斯麦Zwei换装.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为纳粹德国海军的俾斯麦号战列舰（German battleship Bismarck） | [碧蓝航线:俾斯麦](https://zh.moegirl.org.cn/碧蓝航线:俾斯麦) [战舰少女:俾斯麦](https://zh.moegirl.org.cn/战舰少女:俾斯麦) [舰队Collection:俾斯麦](https://zh.moegirl.org.cn/舰队Collection:俾斯麦) |
 | z1 | Z1 | 德国海军1934级Z1驱逐舰(Zerstörer Leberecht Maaß) | [碧蓝航线:Z1](https://zh.moegirl.org.cn/碧蓝航线:Z1) [战舰少女:Z1](https://zh.moegirl.org.cn/战舰少女:Z1) [舰队Collection:Z1](https://zh.moegirl.org.cn/舰队Collection:Z1) |
 | prinz eugen | 欧根亲王 | 德国海军希佩尔海军上将级重巡洋舰的3号舰欧根亲王（Prinz Eugen (Schiff, 1938)） | [碧蓝航线:欧根亲王](https://zh.moegirl.org.cn/碧蓝航线:欧根亲王) [战舰少女:欧根亲王](https://zh.moegirl.org.cn/战舰少女:欧根亲王) [舰队Collection:欧根亲王](https://zh.moegirl.org.cn/舰队Collection:欧根亲王) |
 | amatsukaze | 天津风 |  | [战舰少女:天津风](https://zh.moegirl.org.cn/战舰少女:天津风) [舰队Collection:天津风](https://zh.moegirl.org.cn/舰队Collection:天津风) |
