@@ -493,7 +493,7 @@ example:
 | maestrale | 西北风 |  | [舰队Collection:西北风](https://zh.moegirl.org.cn/舰队Collection:西北风) |
 | fletcher | 弗莱彻 | 美国海军弗莱彻级驱逐舰首舰弗莱彻（USS Fletcher DD-445） | [碧蓝航线:弗莱彻](https://zh.moegirl.org.cn/碧蓝航线:弗莱彻) [战舰少女:弗莱彻](https://zh.moegirl.org.cn/战舰少女:弗莱彻) [舰队Collection:弗莱彻](https://zh.moegirl.org.cn/舰队Collection:弗莱彻) |
 | unicorn | 独角兽 | 英国皇家海军独角兽号航母（HMS Unicorn(I72)） | [碧蓝航线:独角兽](https://zh.moegirl.org.cn/碧蓝航线:独角兽) [战舰少女:独角兽](https://zh.moegirl.org.cn/战舰少女:独角兽) |
-| belfast | 贝尔法斯特 | 英国海军的贝尔法斯特号轻巡洋舰（ HMS Belfast (C35)） | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org.cn/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org.cn/战舰少女:贝尔法斯特) |
+| belfast | 贝尔法斯特 | ![](https://patchwiki.biligame.com/images/blhx/4/42/eeo7007z941756616857bijv30sufja.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为英国海军的贝尔法斯特号轻巡洋舰（ HMS Belfast (C35)） | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org.cn/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org.cn/战舰少女:贝尔法斯特) |
 | illustrious | 光辉 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/2d/i9nwhca31abqj7cc9f793hs74yp6b4y.jpg/525px-光辉立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为英国海军的光辉号装甲航空母舰（HMS Illustrious R.87） | [碧蓝航线:光辉](https://zh.moegirl.org.cn/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org.cn/战舰少女:光辉) |
 | terror | 恐怖 | 英国海军的恐怖号浅水重炮舰（HMS Terror (I03)） | [碧蓝航线:恐怖](https://zh.moegirl.org.cn/碧蓝航线:恐怖) |
 | vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org.cn/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org.cn/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org.cn/战舰少女:吸血鬼%28派趣服%29) |
