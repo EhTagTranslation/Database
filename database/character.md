@@ -3589,7 +3589,7 @@ example:
 | essex | 埃塞克斯 | 美国海军埃塞克斯级航空母舰首舰埃塞克斯号（USS Essex (CV-9)） | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 | albacore | 大青花鱼 | 美国海军猫鲨级潜艇大青花鱼号（USS Albacore (SS-218)） | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
-| new jersey | 新泽西 | 美国海军衣阿华级战列舰二号舰新泽西号（USS NEW JERSEY (BB-62)） | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
+| new jersey | 新泽西 | 美国海军衣阿华级战列舰二号舰新泽西号<br>![](https://patchwiki.biligame.com/images/blhx/thumb/1/17/hs3ide853h9blea5652de3tczehx5mn.jpg/525px-新泽西换装2.jpg) | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/碧蓝航线:让·巴尔) |
 | kokomi sangonomiya | 珊瑚宫心海 | ![](https://patchwiki.biligame.com/images/ys/c/c4/tgx4rcscilxq7sjvnpc47pko176owxp.png)<br>珊瑚宫心海(kokomi sangonomiya) 所属作品:`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>海衹岛的「现人神巫女」，统管海祇岛各项事宜的少女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=467821) |
 | kashino | 㭴野 | 㭴（jiān）野（Kashino，樫野（かしの），카시노）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品中的登场角色。<br><br>其原型为旧日本帝国海军的樫野号给兵舰。<br>![](https://img.moegirl.org.cn/common/thumb/8/84/BLHX_98634614_p0.jpg/800px-BLHX_98634614_p0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:㭴野) |
