@@ -13980,6 +13980,7 @@ example:
 | yuetsu saru | 愉悦さる |  |  |
 | nantoka | なンとか |  |  |
 | nanameno hayuta | 七芽乃はゆた |  |  |
+| takafuji | 髙藤 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
