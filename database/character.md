@@ -4240,7 +4240,7 @@ example:
 | seele vollerei | 希儿·芙乐艾 | 希儿·芙乐艾，所属作品:`p:honkai gakuen`; `p:honkai star rail`<br>是米哈游出品的崩坏系列（包括《崩坏:星穹铁道》）及其衍生作品的出场角色<br>希儿·芙乐艾(崩坏学园2)———《崩坏学园2》及其衍生作品中的出场角色。<br>希儿·芙乐艾(崩坏3)———《崩坏3》及其衍生作品中的出场角色。<br>希儿(崩坏：星穹铁道)———《崩坏:星穹铁道》及其衍生作品中的出场角色。<br>![](https://img.moegirl.org.cn/common/c/c1/崩坏学园2希儿立绘.png)<br>![](https://img.moegirl.org.cn/common/3/3a/Seele_c1.png)<br>![](https://img.moegirl.org.cn/common/9/97/Seele希儿.png) | [萌娘百科](https://zh.moegirl.org.cn/希儿·芙乐艾)<br>[萌娘百科](https://zh.moegirl.org.cn/希儿%28星穹铁道%29#) |
 | cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
 | shinobu kuki | 久岐忍 | ![](https://patchwiki.biligame.com/images/ys/2/2e/a1uwcgjdfzq91yayyf2h3vzzhxl82fk.png)<br>久岐忍（英语：shinobu kuki）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>干练可靠的「荒泷派」的副手——特别注明：干练可靠形容的不是「荒泷派」而是副手。 | [萌娘百科](https://zh.moegirl.org.cn/久岐忍) |
-| springfield | 春田 | `p:girls frontline`<br>少女前线2：追放<br>猫咪：蓝山，配饰：方糖围裙 | [https://www.gfwiki.org/w/春田](https://www.gfwiki.org/w/春田) |
+| springfield | 春田 | ![](https://gfwiki.org/images/f/f3/Pic_M1903_HD.png)<br>《少女前线》中的战术人形。<br>原型为斯普林菲尔德M1903步枪,也称为春田步枪。美军在世界第一次大战时的制式步枪，在二次世界大战中依然大量配备。 | [https://www.gfwiki.org/w/春田](https://www.gfwiki.org/w/春田) |
 | natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
 | fu hua | 符华 |  |  |
 | timido cute | 缇米朵·丘忒 |  |  |
