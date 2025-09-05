@@ -6595,7 +6595,7 @@ example:
 | ororon | 欧洛伦 | 欧洛伦是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![欧洛伦](https://img.moegirl.org.cn/common/thumb/e/e0/原神_欧洛伦.png/420px-原神_欧洛伦.png) | [萌娘百科](https://zh.moegirl.org.cn/欧洛伦) |
 | mikari tachibana | 橘美花莉 | ![](https://img.moegirl.org.cn/common/e/ec/动画人设图_橘美花莉.webp)<br>![](https://img.moegirl.org.cn/common/thumb/8/8f/动画人设图_橘美花莉_cos.webp/1024px-动画人设图_橘美花莉_cos.webp.png)<br>《2.5次元的诱惑》中出场角色。高中一年级，莉莉纱的同班同学。<br>人气模特，无论相貌还是身材都十分出众。<br>在粉丝之间有“美花琳”的爱称。<br>对青梅竹马的奥村十年来一心一意，但奥村对三次元女子不感兴趣，一直没有察觉到。 | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
 | emilie | 艾梅莉埃 | ![](https://patchwiki.biligame.com/images/ys/6/61/tixmb998eyafd8tr6potqe5j3pt761b.png)<br>艾梅莉埃，米哈游出品的游戏《原神》及其衍生作品中的角色，行踪如香水一般无从触及与挽留的枫丹调香师 ，将秘密藏于瓶中之人 。 |  |
-| ouka shiunji | 紫云寺讴华 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fd/1e/161146_crt_tD676.jpg?r=1741355433)<br>紫云寺家三女，16岁的高二学生。<br>兼任田径社和游泳社的主力选手，在学业上成绩仅次于清叶，是一个文武双全且努力的少女。无论男女都很受欢迎。<br>虽然对双胞胎的新有时比较严厉，但对他充满信任。 | [Bangumi](https://bgm.tv/character/161146) |
+| ouka shiunji | 紫云寺讴华 | ![](https://i.pixiv.cat/img-original/img/2025/08/15/08/48/04/133901907_p70.jpg)<br>紫云寺家三女，16岁的高二学生。<br>兼任田径社和游泳社的主力选手，在学业上成绩仅次于清叶，是一个文武双全且努力的少女。无论男女都很受欢迎。<br>虽然对双胞胎的新有时比较严厉，但对他充满信任。 | [Bangumi](https://bgm.tv/character/161146) |
 | steve | 史蒂夫 |  |  |
 | alex | 艾莉克斯 |  |  |
 | villager | 村民 |  |  |
