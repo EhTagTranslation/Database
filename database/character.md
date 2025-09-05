@@ -497,7 +497,7 @@ example:
 | illustrious | 光辉 | 英国海军的光辉号装甲航空母舰（HMS Illustrious R.87） | [碧蓝航线:光辉](https://zh.moegirl.org.cn/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org.cn/战舰少女:光辉) |
 | terror | 恐怖 | 英国海军的恐怖号浅水重炮舰（HMS Terror (I03)） | [碧蓝航线:恐怖](https://zh.moegirl.org.cn/碧蓝航线:恐怖) |
 | vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org.cn/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org.cn/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org.cn/战舰少女:吸血鬼%28派趣服%29) |
-| laffey | 拉菲 | 美国海军本森级驱逐舰七号舰拉菲号（USS Laffey DD-459） | [碧蓝航线:拉菲](https://zh.moegirl.org.cn/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org.cn/战舰少女:拉菲%28DD-459%29) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org.cn/战舰少女:拉菲%28DD-724%29) |
+| laffey | 拉菲 | ![](https://patchwiki.biligame.com/images/blhx/thumb/a/ab/lkcv1xnx9poclwae8ztdoiiyobwbdxo.jpg/525px-拉菲II换装.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为美国海军本森级驱逐舰七号舰拉菲号（USS Laffey DD-459） | [碧蓝航线:拉菲](https://zh.moegirl.org.cn/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org.cn/战舰少女:拉菲%28DD-459%29) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org.cn/战舰少女:拉菲%28DD-724%29) |
 | eldridge | 埃尔德里奇 | 美国海军坎农级护航驱逐舰埃尔德里奇号（USS Eldridge (DE-173)） | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org.cn/碧蓝航线:埃尔德里奇) [战舰少女:德里](https://zh.moegirl.org.cn/战舰少女:德里) |
 | prince of wales | 威尔士亲王 | 英国海军的威尔士亲王号战列舰（HMS Prince of Wales 53） | [碧蓝航线:威尔士亲王](https://zh.moegirl.org.cn/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org.cn/战舰少女:威尔士亲王) |
 | sheffield | 谢菲尔德 | 英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)）英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)） | [碧蓝航线:谢菲尔德](https://zh.moegirl.org.cn/碧蓝航线:谢菲尔德) [碧蓝航线:谢菲尔德%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:谢菲尔德%28μ兵装%29) [战舰少女:谢菲尔德](https://zh.moegirl.org.cn/战舰少女:谢菲尔德) |
