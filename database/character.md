@@ -3425,7 +3425,7 @@ example:
 | meiko shiraki | 白木芽衣子 |  |  |
 | luz noceda | 露丝·诺西达 |  |  |
 | toph bei fong | 北方·托芙 |  |  |
-| robin | 知更鸟 \| 罗宾 | 知更鸟是米哈游制作的游戏`p:honkai star rail`登场的角色。<br><br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
+| robin | 知更鸟 \| 罗宾 | ![](https://i.pixiv.cat/img-master/img/2024/05/05/14/03/00/118451061_p0_master1200.jpg)<br>知更鸟是米哈游制作的游戏`p:honkai star rail`登场的角色。<br>\|<br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 |  |  |
 | makima | 玛奇玛 |  |  |
