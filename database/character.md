@@ -401,7 +401,7 @@ example:
 | noshiro | 能代 | 旧日本海军的能代号巡洋舰 | [碧蓝航线:能代](https://zh.moegirl.org.cn/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org.cn/舰队Collection:能代) |
 | yahagi | 矢矧 |  | [舰队Collection:矢矧](https://zh.moegirl.org.cn/舰队Collection:矢矧) |
 | sakawa | 酒匂 |  | [舰队Collection:酒匂](https://zh.moegirl.org.cn/舰队Collection:酒匂) |
-| musashi | 武藏 |  | [舰队Collection:武藏](https://zh.moegirl.org.cn/舰队Collection:武藏) |
+| musashi | 武藏 | ![](https://patchwiki.biligame.com/images/blhx/thumb/f/f6/0wfabudfnxluzwf6pmsdyo0c3quhftl.jpg/525px-武藏立绘.jpg)<br>所属作品: `p:azur lane` | [舰队Collection:武藏](https://zh.moegirl.org.cn/舰队Collection:武藏) |
 | taihou | 大凤 | 旧日本帝国海军的装甲航空母舰大凤号(大鳳(空母)) | [碧蓝航线:大凤](https://zh.moegirl.org.cn/碧蓝航线:大凤) [战舰少女:大凤](https://zh.moegirl.org.cn/战舰少女:大凤) [舰队Collection:大凤](https://zh.moegirl.org.cn/舰队Collection:大凤) |
 | katori | 香取 |  | [战舰少女:香取](https://zh.moegirl.org.cn/战舰少女:香取) [舰队Collection:香取](https://zh.moegirl.org.cn/舰队Collection:香取) |
 | i-401 | 伊401 |  | [舰队Collection:伊401](https://zh.moegirl.org.cn/舰队Collection:伊401) |
