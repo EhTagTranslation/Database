@@ -13979,6 +13979,7 @@ example:
 | shishamo | ししゃも |  |  |
 | yuetsu saru | 愉悦さる |  |  |
 | nantoka | なンとか |  |  |
+| nanameno hayuta | 七芽乃はゆた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
