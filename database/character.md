@@ -6691,6 +6691,7 @@ example:
 | mulberry | 桑葚 | ![](https://patchwiki.biligame.com/images/arknights/f/f4/l5gy69ekq7qi6tdzksu1dxphh0uptps.png)<br>桑葚是手机游戏《明日方舟》中的五星医疗职业行医分支干员。 | [BILIGAME WIKI](https://wiki.biligame.com/arknights/桑葚) |
 | nicole watterson | 妮蔻·沃特森 | 甘宝、达尔文和安安的妈妈，是一只蓝色的猫。在镇上的彩虹工厂上班。 |  |
 | tina howard | 蒂娜·霍华德 | ![](https://lain.bgm.tv/r/400/pic/crt/l/69/12/149753_crt_tTbdg.jpg?r=1751037811)<br>霍华德公爵家的次女。<br>虽出生在四大公爵家，却无法使用任何魔法，而被当成“霍华德家的禁忌之子”蔑视。即使如此仍不放弃进入王立学校就读，而接受了亚连的指导。有着努力不懈与好胜心强的一面。 |  |
+| lisara restall | 莉萨拉·雷斯托 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/8c/16397_crt_95aAK.jpg?r=1551006265) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
