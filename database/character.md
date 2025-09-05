@@ -3661,7 +3661,7 @@ example:
 | kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 | makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 |  | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
-| mythra | 光 |  | [萌娘百科](https://zh.moegirl.org.cn/光%28异度神剑%29#) |
+| mythra | 光 | ![](https://zoycbewnml.hath.network/om/196606201/49202a186bf097b1a9120fa3ca466e4f58ad4f5b-168262-1152-1608-wbp/5dcb11cd48d7eec8e1d3d03cdf03ec3e02547bb1-100450-800-1117-wbp/800/6jf5vj73b35owe1r99d/Mythra_7.webp)<br>游戏《异度神剑2》的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/光%28异度神剑%29#) |
 | pyra | 焰 | 游戏《异度神剑2》的登场角色，女主角之一。被世人称作「天之圣杯」的传说级“异刃”，由幽界的神明所直接创造的亚种生命体，外形与年轻丰满的人类女性无异，却是有着令凡夫俗子望而却步的能力的强大存在，与年轻的打捞员少年·莱克斯结下深刻牵绊的少女。![](https://img.moegirl.org.cn/common/thumb/6/63/XC2_Pyra.png/201px-XC2_Pyra.png) | [萌娘百科](https://zh.moegirl.org.cn/焰%28异度神剑%29#) |
 | cucouroux | 库库鲁 | ![库库鲁](https://huiji-public.huijistatic.com/gbf/uploads/f/f7/Zoom_3030155000_01.png)<br>日文名：ククル<br>英文名：Cucouroux | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030155000) |
 | jessica | 杰西卡 | ![杰西卡](https://huiji-public.huijistatic.com/gbf/uploads/0/05/Zoom_3040227000_01.png)<br>日文名：ジェシカ<br>英文名：Jessica | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030159000) |
