@@ -516,7 +516,7 @@ example:
 | javelin | 标枪 | 英国皇家海军的标枪号驱逐舰（HMS Javelin (F61)） | [碧蓝航线:标枪](https://zh.moegirl.org.cn/碧蓝航线:标枪) [战舰少女:标枪](https://zh.moegirl.org.cn/战舰少女:标枪) |
 | nelson | 纳尔逊 | 英国海军的纳尔逊号战列舰（ HMS Nelson (28)） | [碧蓝航线:纳尔逊](https://zh.moegirl.org.cn/碧蓝航线:纳尔逊) [战舰少女:纳尔逊](https://zh.moegirl.org.cn/战舰少女:纳尔逊) [舰队Collection:纳尔逊](https://zh.moegirl.org.cn/舰队Collection:纳尔逊) |
 | rodney | 罗德尼 | 英国海军的罗德尼号战列舰（ HMS Rodney (29)） | [碧蓝航线:罗德尼](https://zh.moegirl.org.cn/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org.cn/战舰少女:罗德尼) |
-| enterprise | 企业 | 美国海军约克城级航空母舰二号舰企业号（ USS Enterprise (CV-6)） | [碧蓝航线:企业](https://zh.moegirl.org.cn/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org.cn/战舰少女:企业) |
+| enterprise | 企业 | ![](https://patchwiki.biligame.com/images/blhx/thumb/1/1e/34w5d7zg8od4ejtw0dy4bwpmj9n5prb.jpg/525px-企业换装9.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为美国海军约克城级航空母舰二号舰企业号（ USS Enterprise (CV-6)） | [碧蓝航线:企业](https://zh.moegirl.org.cn/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org.cn/战舰少女:企业) |
 | queen elizabeth | 伊丽莎白女王 | 英国海军的伊丽莎白女王号战列舰（HMS Queen Elizabeth (1913)） | [碧蓝航线:伊丽莎白女王](https://zh.moegirl.org.cn/碧蓝航线:伊丽莎白女王) [战舰少女:伊丽莎白女王](https://zh.moegirl.org.cn/战舰少女:伊丽莎白女王) |
 | victorious | 胜利 | 同名的英国皇家海军的胜利号装甲航空母舰（HMS Victorious R38） | [碧蓝航线:胜利](https://zh.moegirl.org.cn/碧蓝航线:胜利) |
 | ajax | 阿贾克斯 | 英国海军的阿贾克斯号轻巡洋舰（ HMS Ajax (22)） | [碧蓝航线:阿贾克斯](https://zh.moegirl.org.cn/碧蓝航线:阿贾克斯) [战舰少女:阿贾克斯](https://zh.moegirl.org.cn/战舰少女:阿贾克斯) |
