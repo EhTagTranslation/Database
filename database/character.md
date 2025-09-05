@@ -291,7 +291,7 @@ example:
 | ta-class | 战舰TA级 |  |  |
 | wo-class | 空母WO级 | wo酱![空母ヲ级](# "https://ehgt.org/c2/ff/c2fff508b2664099300961bb06ea3180c7a8442d-1119222-1411-2000-jpg_250.jpg") |  |
 | teitoku | 提督 |  | [战舰少女:提督](https://zh.moegirl.org.cn/战舰少女:提督) |
-| nagato | 长门 | 旧日本帝国海军的长门级战列舰1号舰“长门”（長門(戦艦)） | [碧蓝航线:长门](https://zh.moegirl.org.cn/碧蓝航线:长门) [战舰少女:长门](https://zh.moegirl.org.cn/战舰少女:长门) [舰队Collection:长门](https://zh.moegirl.org.cn/舰队Collection:长门) |
+| nagato | 长门 \| 鲨 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/72/6kzftth6w20hlj9k43cw27gp2c3gz1h.jpg/525px-长门换装5.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为旧日本帝国海军的长门级战列舰1号舰“长门”（長門(戦艦)） | [碧蓝航线:长门](https://zh.moegirl.org.cn/碧蓝航线:长门) [战舰少女:长门](https://zh.moegirl.org.cn/战舰少女:长门) [舰队Collection:长门](https://zh.moegirl.org.cn/舰队Collection:长门) |
 | mutsu | 陆奥 | 旧日本帝国海军的陆奥号战列舰（ 陆奥(战舰)） | [碧蓝航线:陆奥](https://zh.moegirl.org.cn/碧蓝航线:陆奥) [战舰少女:陆奥](https://zh.moegirl.org.cn/战舰少女:陆奥) [舰队Collection:陆奥](https://zh.moegirl.org.cn/舰队Collection:陆奥) |
 | ise | 伊势 | 旧日本帝国海军的伊势号战列舰（伊勢(戦艦)） | [碧蓝航线:伊势](https://zh.moegirl.org.cn/碧蓝航线:伊势) [战舰少女:伊势](https://zh.moegirl.org.cn/战舰少女:伊势) [战舰少女:伊势](https://zh.moegirl.org.cn/战舰少女:伊势) [舰队Collection:伊势](https://zh.moegirl.org.cn/舰队Collection:伊势) |
 | hyuuga | 日向 | 旧日本帝国海军的日向号战列舰（日向(戦艦)） | [碧蓝航线:日向](https://zh.moegirl.org.cn/碧蓝航线:日向) [战舰少女:日向](https://zh.moegirl.org.cn/战舰少女:日向) [战舰少女:日向](https://zh.moegirl.org.cn/战舰少女:日向) [舰队Collection:日向](https://zh.moegirl.org.cn/舰队Collection:日向) |
