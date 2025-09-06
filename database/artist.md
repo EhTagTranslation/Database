@@ -13983,6 +13983,7 @@ example:
 | takafuji | 髙藤 |  |  |
 | doremo | どれも |  | [FANBOX](https://www.fanbox.cc/@doremo) [pixiv](https://www.pixiv.net/users/4749556) [X](https://x.com/_doremo) |
 | dishwasher1910 | D.I.S.H |  | [pixiv](https://www.pixiv.net/users/13408193) [X](https://x.com/Dishwasher1910) |
+| honobo yukotogaketo | ほのぼ悠琴がけと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
