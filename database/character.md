@@ -4793,7 +4793,7 @@ example:
 | chong yue | 重岳 | 重岳是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 | ethan | 伊桑 | 伊桑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
 | ren yamashiro | 山城恋 | ![](https://i.pixiv.cat/img-original/img/2025/04/04/11/19/36/128937174_p2.jpg)<br>山城恋是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山城恋) |
-| sena himuro | 冰室濑名 | 游戏《蔚蓝档案》中的角色。<br>格黑娜学园所属。急救医学部的部长。<br>![](https://patchwiki.biligame.com/images/ba/2/20/qhdlcq4fwlpftxzxn3y8j3p9gibe3v9.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sena)<br>[萌娘百科](https://zh.moegirl.org.cn/冰室濑奈) |
+| sena himuro | 冰室濑名 | 游戏《蔚蓝档案》中的角色。<br>格黑娜学园所属。急救医学部的部长。<br>![](https://patchwiki.biligame.com/images/ba/2/20/qhdlcq4fwlpftxzxn3y8j3p9gibe3v9.png)<br>![](https://img.moegirl.org.cn/common/b/b5/BA_Sena_Casual.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sena)<br>[萌娘百科](https://zh.moegirl.org.cn/冰室濑奈) |
 | amane tanikaze | 谷风天音 | 所属作品: `p:tenshi souzou re-boot`<br><br>主人公的妹妹。和主人公一样，前世是异世界的魔族。<br><br>![](https://t.vndb.org/ch/30/142730.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谷风天音) |
 | sairi mikuni | 三国彩里 | 所属作品: `p:tenshi souzou re-boot` |  |
 | kaede kinoshita | 木下枫 | 所属作品: `p:tenshi souzou re-boot` |  |
