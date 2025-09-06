@@ -4721,7 +4721,7 @@ example:
 | eimi izumimoto | 和元泉艾米 | 所属作品：`p:blue archive`千年科学学校所属，特异现象搜查部的成员。<br>![](https://patchwiki.biligame.com/images/ba/c/c9/labxdukagfampj52tifctfwuce2nsex.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Eimi) |
 | megu shimokura | 下仓惠 | 所属作品：`p:blue archive`<br>格黑娜学园所属，温泉开发部的核心成员，开发现场的作业班长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_695/h_1344/829/43637/2025/6/24/155246.png) |  |
 | serina sumi | 鹫见芹娜 | 圣三一综合学园所属，献身于救护骑士团的温柔少女。<br>![](https://patchwiki.biligame.com/images/ba/0/05/irkytlzqnd9m35zn49l8277qdbfp7ao.png)<br>![](https://patchwiki.biligame.com/images/ba/8/82/rfy59f0mc11xpqvnwdslmy3mrzusq7j.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Serina) |
-| ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive` |  |
+| ayumu iwabitsu | 岩柜步梦 | ![](https://img.moegirl.org.cn/common/thumb/0/01/BA_Ayumu.png/420px-BA_Ayumu.png)<br>所属作品：`p:blue archive` |  |
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive` |  |
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive` |  |
 | rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive`<br>山海经高级中学所属，美食街「玄武商会」的会长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/13/465025.png) |  |
