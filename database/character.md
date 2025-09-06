@@ -4657,7 +4657,7 @@ example:
 | yanqing | 彦卿 | 彦卿是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/8/84/彦卿.jpg) | [萌娘百科](https://zh.moegirl.org.cn/彦卿) |
 | seika ijichi | 伊地知星歌 | 伊地知星歌（日语：伊地知（いじち）星歌（せいか））是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊地知星歌) |
 | rika furude | 古手梨花 | ![](https://static.wikia.nocookie.net/whentheycry/images/f/f3/Rika_mei_school_%281%29.png)<br><br>圭一的学妹，和沙都子同为小学6年级。古手神社的独生女，雏见泽御三家之一，古手家的最后一人。在每年6月的绵流祭担当巫女，被认为是御社神大人的转世，兼具冷静与神秘性，受到村人的喜爱与崇敬。 | [萌娘百科](https://zh.moegirl.org.cn/古手梨花) [Fandom](https://whentheycry.fandom.com/wiki/Furude_Rika) |
-| junko akashi | 赤司淳子 | 游戏《蔚蓝档案》中的角色。<br>格黑娜学园所属，美食研究会的假正经暴食家。<br>![](https://patchwiki.biligame.com/images/ba/e/e6/d6rc33prquv3fwjmaiz0blwh0gno2ev.png)<br>![](https://patchwiki.biligame.com/images/ba/6/67/sjj5f3mlpxmgujmp57qtt6yl3recjzy.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Junko) |
+| junko akashi | 赤司淳子 | 所属作品：`p:blue archive`<br>格黑娜学园所属，美食研究会的假正经暴食家。<br>![](https://patchwiki.biligame.com/images/ba/e/e6/d6rc33prquv3fwjmaiz0blwh0gno2ev.png)<br>![](https://patchwiki.biligame.com/images/ba/6/67/sjj5f3mlpxmgujmp57qtt6yl3recjzy.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Junko) |
 | black widow | 黑寡妇 | 所属作品: `p:avengers` |  |
 | midna | 米多娜 | 《塞尔达黄昏公主》中的黄昏公主 |  |
 | arisu sakayanagi | 坂柳有栖 | 衣笠彰梧创作的轻小说《欢迎来到实力至上主义的教室》及其衍生作品中的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/0/06/Sakayanagi_Arisu.jpg/420px-Sakayanagi_Arisu.jpg) [萌娘百科](https://zh.moegirl.org.cn/坂柳有栖) |
