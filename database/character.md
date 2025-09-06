@@ -3760,7 +3760,7 @@ example:
 | takanashi kiara | 小鸟游琪亚拉 | 小鳥遊 キアラ<br>隶属于`hololive` HoloEn 的`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/小鳥遊キアラ) (\*) |
 | yumeko jabami | 蛇喰梦子 | 漫画`kakegurui`及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/蛇喰梦子) (\*\*) |
 | reed | 苇草 |  |  |
-| ui kozeki | 古关忧 | 游戏`p:blue archive`角色，圣三一综合学园所属，图书委员会的委员长。<br>![](https://patchwiki.biligame.com/images/ba/3/34/jb9xcem9udkouifyodzrgd9y8glb4t3.png) | [碧蓝档案wiki\_bilibili](https://wiki.biligame.com/bluearchive/ウイ) |
+| ui kozeki | 古关忧 | 游戏《蔚蓝档案》中的角色。三一综合学园下属，图书委员会的委员长。<br>深爱着书本的少女，同时也有些厌世。<br>![](https://img.moegirl.org.cn/common/2/2b/BA_Ui_ML.png)<br>![](https://patchwiki.biligame.com/images/ba/3/34/jb9xcem9udkouifyodzrgd9y8glb4t3.png)<br>![](https://img.moegirl.org.cn/common/8/82/BA_Ui_Swimsuit.png) | [碧蓝档案wiki\_bilibili](https://wiki.biligame.com/bluearchive/ウイ)<br>[萌娘百科](https://zh.moegirl.org.cn/古关忧) |
 | battler ushiromiya | 右代宫战人 | 右代宫战人是07th Expansion所创作的同人游戏《海猫鸣泣之时》及其衍生作品的登场角色。作品的男主角。留弗夫与前妻明日梦之子。<br>![图](https://ehgt.org/fd/d2/fdd2024fd834d03fe73f02022158c563ae2d7937-74888-400-566-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/右代宫战人) |
 | sideroca | 铸铁 | ![立绘\_铸铁\_skin1.png](https://s2.loli.net/2022/04/07/HJ84ceZYdbL52AD.png)<br>《明日方舟》五星干员铸铁 | [PRTS wiki](https://prts.wiki/id/14737)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:铸铁) |
 | utage | 宴 | ![明日方舟立绘\_宴\_skin1.png](https://s2.loli.net/2022/04/07/9NsBIvCJHT1g7Vl.png)<br>《明日方舟》宴 | [PRTS Wiki](https://prts.wiki/w/宴)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:宴) |
