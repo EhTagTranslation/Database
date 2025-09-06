@@ -13986,6 +13986,7 @@ example:
 | honobo yukotogaketo | ほのぼ悠琴がけと |  |  |
 | ooide-kun | オーイデくん |  |  |
 | vel | Vel |  |  |
+| eco heeky | えこひいき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
