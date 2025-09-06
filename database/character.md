@@ -4744,7 +4744,7 @@ example:
 | lyra heartstrings | 天琴心弦 | 天琴心弦（Lyra Heartstrings）是动画《彩虹小马》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天琴心弦) |
 | lopiniatre | 倔强 |  |  |
 | luca ikaruga | 斑鸠路加 |  |  |
-| hare omagari | 小钩晴 | 所属作品：`p:blue archive`千年科学学校所属，黑客集团「真理部」的工程师。![](https://patchwiki.biligame.com/images/ba/a/ae/ku3bexvxntjs8ig8thmfrur07altzpb.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hare) |
+| hare omagari | 小钩晴 | 所属作品：`p:blue archive`<br>千年科学学校所属，黑客集团「真理部」的工程师。<br>![](https://patchwiki.biligame.com/images/ba/a/ae/ku3bexvxntjs8ig8thmfrur07altzpb.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hare) |
 | karen aijo | 爱城华恋 | 所属作品: `p:shoujo kageki revue starlight`<br><br>幼年时观赏Revue『Starlight』后为之心动，因而走上舞台之路的舞台少女。随时精神饱满，声音宏亮，但非常不习惯早起练习。与交换了『命运』的青梅竹马神乐光一起参加神秘的Revue。 | [萌娘百科](https://zh.moegirl.org.cn/爱城华恋) |
 | sawako kuronuma | 黑沼爽子 | 所属作品: `p:kimi ni todoke` | [萌娘百科](https://zh.moegirl.org.cn/黑沼爽子) |
 | izumi shishidou | 狮子堂泉 | 格黑娜学园所属，美食研究会的一员，什么都吃得多的贪吃少女。![](https://patchwiki.biligame.com/images/ba/5/54/g0vbu5unk3sqd8gmodfnrcklojd7z51.png)<br>![](https://patchwiki.biligame.com/images/ba/d/df/3knnpy2285qy4gq65qnud6w372g3qrb.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shishidou_Izumi?so=search)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Izumi) |
