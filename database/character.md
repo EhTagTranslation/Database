@@ -4218,7 +4218,7 @@ example:
 | danzou katou | 加藤段藏 |  | [萌娘百科](https://zh.moegirl.org.cn/加藤段藏%28Fate%29) |
 | fubuki nemugaki | 合欢垣吹雪 | 所属作品: `p:blue archive`<br>瓦尔基里警察学校所属，生活安全局的懒人学生。<br>![](https://static.wikia.nocookie.net/blue-archive/images/a/ad/Fubuki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nemugaki_Fubuki)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Fubuki) |
 | serika kuromi | 黑见芹香 | Nexon 发行的游戏`p:blue archive`及其衍生作品中的登场角色。阿拜多斯高等学校所属，阿拜多斯对策委员会的有些难以相处的会计负责人。<br>![](https://patchwiki.biligame.com/images/ba/c/cd/qw92noipsp5pncuaceslzys3g9tp6ar.png)<br>![](https://patchwiki.biligame.com/images/ba/9/9c/hlkn8lkqd9fxmo155iik5gzye32mm2u.png) | [萌娘百科](https://zh.moegirl.org.cn/黑见茜香)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Serika) |
-| ayane okusora | 奥空绫音 | 所属作品: `p:blue archive`阿拜多斯高等学校所属，阿拜多斯对策委员会的认真书记。![](https://patchwiki.biligame.com/images/ba/6/60/rglrvrv124fnn8ha1v3ixnnnozltn71.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Ayane) |
+| ayane okusora | 奥空绫音 | 所属作品: `p:blue archive`<br>阿拜多斯高等学校所属，阿拜多斯对策委员会的认真书记。<br>![](https://patchwiki.biligame.com/images/ba/6/60/rglrvrv124fnn8ha1v3ixnnnozltn71.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Ayane) |
 | mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
 | sword maiden | 剑之圣女 |  |  |
 | chigusa kisaragi | 如月千种 |  |  |
