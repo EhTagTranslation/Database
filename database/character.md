@@ -6126,7 +6126,7 @@ example:
 | pursena adoldia | 普尔塞娜·亚德路迪亚 |  | [萌娘百科](https://zh.moegirl.org.cn/普尔塞娜·亚德路迪亚) |
 | hiyori shiina | 椎名日和 | 轻小说《欢迎来到实力主义至上的教室》中的女性角色，原C班，是文静的文学少女，和绫小路清隆是关系很好的书友。对绫小路情愫暗生。 |  |
 | freminet | 菲米尼 | `p:genshin impact`男角色，精通潜水之道。 |  |
-| mutsumi wakaba | 若叶睦 | 若叶睦（日语：若葉（わかば） 睦（むつみ））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/若叶睦) |
+| mutsumi wakaba | 若叶睦 | ![](https://patchwiki.biligame.com/images/arknights/0/04/beiqeodjplz7qh014munejo9am2cwu2.png)<br>若叶睦（日语：若葉（わかば） 睦（むつみ））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/若叶睦) |
 | sunflower | 向日葵 |  |  |
 | penelopea | 绿影侠 |  |  |
 | aglaea | 阿格莱雅 | 阿格莱雅是《`p:honkai star rail`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿格莱雅) |
