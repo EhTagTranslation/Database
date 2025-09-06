@@ -4344,7 +4344,7 @@ example:
 | leeloo minai lekatariba-lamina-tchai ekbat de sebat | Leeloo | 所属作品：`p:the fifth element` | [Fandom](https://fifth-element.fandom.com/wiki/Leeloo) |
 | hasshaku-sama | 八尺大人 |  |  |
 | ushio kofune | 小舟潮 | ![](https://static.wikia.nocookie.net/summer-time-rendering/images/5/54/Ushio_Kofune.png) | [萌娘百科](https://zh.moegirl.org.cn/小舟潮) [Fandom](https://summer-time-rendering.fandom.com/wiki/Ushio_Kofune) |
-| moe kazekura | 风仓萌绘 | 风仓萌绘（日语：風倉モエ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。SRT特殊学院所属、RABBIT小队的装备操作员， 呼号「RABBIT3」。<br>![](https://patchwiki.biligame.com/images/ba/0/02/9enodw442ovojdhxdeurikxrokd3157.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Moe) |
+| moe kazekura | 风仓萌绘 | 所属作品：`p:blue archive`<br>SRT特殊学院所属、RABBIT小队的装备操作员， 呼号「RABBIT3」。<br>![](https://patchwiki.biligame.com/images/ba/0/02/9enodw442ovojdhxdeurikxrokd3157.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Moe) |
 | eiko tsukimi | 月见英子 | 月见英子（日语：月見（つきみ） 英子（えいこ））是由四叶夕卜原作及原案、小川亮作画的一部漫画《派对浪客诸葛孔明》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月见英子) |
 | hitori gotou | 后藤一里 | 后藤一里（日语：後藤（ごとう）ひとり）是由はまじあき所创作的漫画《孤独摇滚！》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/后藤一里) |
 | tsukuyo oono | 大野月咏 | 大野月咏 \| 大野筑夜（日语：大野ツクヨ）是 Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。百鬼夜行联合学园所属，忍术研究部的部员。<br>![](https://patchwiki.biligame.com/images/ba/1/12/73j6lohh6qm3r5wre6zkfdulfut0y0b.png) | [萌娘百科](https://zh.moegirl.org.cn/大野月夜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tsukuyo) |
