@@ -3647,7 +3647,7 @@ example:
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《`p:uma musume pretty derby`》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/醒目飞鹰) |
 | asuna ichinose | 一之濑明日奈 | 所属作品：`p:blue archive`<br>千年科学学园所属，秘密组织「C&C」的特务。<br>代号为「Zero One」,是透过卓越且如同动物般的感觉与直觉度过无数难关的老手。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/94828/2021/10/4/250501.png)<br>![](https://img.moegirl.org.cn/common/b/b9/BA_Asuna_Bunny.png) | [Fandom](https://bluearchive.fandom.com/wiki/Ichinose_Asuna)<br>[萌娘百科](https://zh.moegirl.org.cn/一之濑明日奈) |
 | akane murokasa | 室笠茜 | 所属作品：`p:blue archive`<br>千年科学学校所属，秘密组织「C&C」的特工。<br>![](https://patchwiki.biligame.com/images/ba/c/cd/3o24acgomsaiuu9kza8ci8gcxiw6kqn.png)<br>![](https://img.moegirl.org.cn/common/c/cc/BA_Akane_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/室笠朱音) |
-| karin kakudate | 角楯花凛 | 游戏《蔚蓝档案》中的角色。<br>千年科学学园所属，秘密组织「C&C」的特务。代号是「Zero Two」，使用强大的武力负责后援。<br>![](https://patchwiki.biligame.com/images/ba/5/53/f9ujtwmzny630ochst639vddsnyi8eb.png)<br>![](https://patchwiki.biligame.com/images/ba/e/e3/a9f32pvfkuyefnkzfs5ndv3gfzi5alt.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Karin) |
+| karin kakudate | 角楯花凛 | 所属作品：`p:blue archive`<br>千年科学学园所属，秘密组织「C&C」的特务。代号是「Zero Two」，使用强大的武力负责后援。<br>![](https://patchwiki.biligame.com/images/ba/5/53/f9ujtwmzny630ochst639vddsnyi8eb.png)<br>![](https://patchwiki.biligame.com/images/ba/e/e3/a9f32pvfkuyefnkzfs5ndv3gfzi5alt.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Karin) |
 | gray wolf | 灰狼 |  |  |
 | brown bear | 棕熊 |  |  |
 | golden snub-nosed monkey | 金丝猴 |  |  |
