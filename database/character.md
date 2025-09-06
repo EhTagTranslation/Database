@@ -5118,7 +5118,7 @@ example:
 | mashirao ojiro | 尾白猿夫 | 《我的英雄学院》男英雄 |  |
 | nemuri kayama | 香山睡 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/7/7c/Nemuri_Kayama_Hero_Costume_%28Anime%29.png) |  |
 | chiori | 千织 | ![](https://patchwiki.biligame.com/images/ys/6/6b/i4gqk9xqqpngo5z2yph372obd25qhju.png)<br>千织是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>「千织屋」的老板。枫丹著名服装设计师。 | [萌娘百科](https://zh.moegirl.org.cn/千织) |
-| shuro yabuki | 箭吹棕榈 | ![](https://img.moegirl.org.cn/common/1/14/BA_Shuro.png)<br>游戏《蔚蓝档案》中的角色。<br>棕榈的光环呈品红色环状外加三个类似“筋斗云”环绕在其周边。<br><br>处于劣势时会骂骂咧咧或者撒娇痛哭。 | [萌娘百科](https://zh.moegirl.org.cn/箭吹棕榈) |
+| shuro yabuki | 箭吹棕榈 | 所属作品：`p:blue archive`<br>棕榈的光环呈品红色环状外加三个类似“筋斗云”环绕在其周边。<br>处于劣势时会骂骂咧咧或者撒娇痛哭。<br>![](https://img.moegirl.org.cn/common/1/14/BA_Shuro.png) | [萌娘百科](https://zh.moegirl.org.cn/箭吹棕榈) |
 | blade | 刃 | 刃是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刃) |
 | astesia | 星极 | 星极是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星极) |
 | ichika nakamasa | 仲正一花 | 所属作品：`p:blue archive`<br>总是挂着温和表情的三一综合学园所属，正义实现委员会的一员。<br>![](https://img.moegirl.org.cn/common/5/56/BA_Ichika.png)<br>![](https://img.moegirl.org.cn/common/e/ec/BA_Ichika_Swimsuit.png) | [萌娘百科](https://zh.moegirl.org.cn/仲正一花) |
