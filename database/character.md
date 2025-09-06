@@ -6231,7 +6231,7 @@ example:
 | phoebe | 菲比 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/3/3c/3mkr5f7pmqp2yend3iwqutfy5k1oehl.png/481px-角色_菲比_立绘.png)<br>所属作品: `wuthering waves`<br>隐海修会的教士菲比，友善而虔诚的圣职者少女，以纯粹之心修习，认真践行着身为教士的一切职责。她的祈祷恰如她手中的光芒，柔和明亮，为人们带来温暖与安宁。 | [萌娘百科](https://zh.moegirl.org.cn/菲比)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/菲比) |
 | chi nishikata | 西片千 |  | [萌娘百科](https://zh.moegirl.org.cn/西片千) [Fandom](https://karakai-jouzu-no-takagi-san.fandom.com/wiki/Chi_Nishikata) |
 | monarch | 君主 | 《碧蓝航线》中的君主，以英王乔治五世级战列舰的废稿设计的战列舰。<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/君主)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/King_George_V-class_battleship_%281939%29)<br>[https://wiki.wargaming.net/en/Ship:Monarch](https://wiki.wargaming.net/en/Ship:Monarch) |
-| principal | 校长(出包王女) | 《出包王女》中主角所在的学校校长 |  |
+| principal | 校长 | 《`p:to love-ru`》中主角所在的学校校长 |  |
 | istina | 真理 |  | [萌娘百科](https://zh.moegirl.org.cn/真理%28明日方舟%29#) |
 | otonose kanade | 音乃濑奏 | 音乃濑奏（日语：音乃瀬奏／おとのせかなでOtonose Kanade）是一名于2023年9月4日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『ReGLOSS』。<br>![](https://img.moegirl.org.cn/common/thumb/c/c2/OtonoseKanadeDebut.jpg/800px-OtonoseKanadeDebut.jpg) | [萌娘百科](https://zh.moegirl.org.cn/音乃濑奏) |
 | mayer | 梅尔 | 梅尔，本名梅尔·斯托尼，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/梅尔%28明日方舟%29) |
