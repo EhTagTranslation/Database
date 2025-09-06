@@ -2523,6 +2523,7 @@ example:
 | katainaka no ossan kensei ni naru | 乡下大叔成为剑圣 | ![](https://lain.bgm.tv/r/400/pic/cover/l/5f/43/506258_4m4PH.jpg)<br>改编自佐賀崎しげる创作的网络小说作品《乡下大叔成为剑圣 ～只是区区乡下剑术师傅，成大器的弟子们却不肯放过我～》 | [Bangumi](https://bgm.tv/subject/506258) |
 | dakara boku wa h ga dekinai | 美少女死神还我H之魂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/36/29650_OSPDd.jpg)<br>日本小说家橘ぱん著作、桂井よしあき插画的轻小说 |  |
 | saikyou tank no meikyuu kouryaku | 最强肉盾的迷宫攻略 |  | [萌娘百科](https://zh.moegirl.org.cn/最强肉盾的迷宫攻略) |
+| yoshinaga-san chi no gargoyle | 吉永家的石像怪 |  | [维基百科](https://zh.wikipedia.org/wiki/吉永家的石像怪) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
