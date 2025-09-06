@@ -5052,7 +5052,7 @@ example:
 | karane inda | 院田唐音 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
 | hakari hanazono | 花园羽香里 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
 | mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放<br>人类<br>![](https://iopwiki.com/images/8/8d/GFL2_Mayling_character_sheet.jpg) | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
-| akari wanibuchi | 鳄渊亚伽里 | 游戏《蔚蓝档案》中的角色。<br>格黑娜学园所属，美食研究会的部员。<br>与看似年幼的外表不同，却是在基沃托斯的大胃王比赛稳坐第一的常胜将军。<br>![](https://img.moegirl.org.cn/common/8/87/BA_Akari.png) | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
+| akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive`<br>格黑娜学园所属，美食研究会的部员。<br>与看似年幼的外表不同，却是在基沃托斯的大胃王比赛稳坐第一的常胜将军。<br>![](https://img.moegirl.org.cn/common/8/87/BA_Akari.png) | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
 | kikyou kiryuu | 桐生桔梗 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的作战参谋。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/146205.png) |  |
 | fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和`mococo abyssgard`（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | mococo abyssgard | 茸茸·阿比斯加德 | `fuwawa abyssgard`（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
