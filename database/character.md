@@ -6270,7 +6270,7 @@ example:
 | mikuru natsuki | 夏树实玖瑠 | 所属作品: `p:aikatsu` | [萌娘百科](https://zh.moegirl.org.cn/夏树实玖瑠) |
 | michiko tanaka | 田中满子 |  | [萌娘百科](https://zh.moegirl.org.cn/田中满子) [Fandom](https://mahoako.fandom.com/wiki/Tanaka_Michiko) |
 | ichigo morino | 森野莓 | 所属作品: `p:onegai teacher` | [百度百科](https://baike.baidu.com/item/森野莓) |
-| uika misumi | 三角初华 | 三角初华（日语：三角（みすみ） 初華（ういか））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/三角初华) |
+| uika misumi | 三角初华 | ![](https://patchwiki.biligame.com/images/arknights/1/11/p6dnxwdyfhj5p2izztffkfj3nmcjt07.png)<br>三角初华（日语：三角（みすみ） 初華（ういか））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/三角初华) |
 | nyamu yutenji | 祐天寺若麦 | 祐天寺若麦（日语：祐天寺（ゆうてんじ） にゃむ）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/祐天寺若麦) |
 | clay | 克雷伊 |  |  |
 | mabayu aki | 爱生眩 | 爱生眩是动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》篇章《魔法少女小圆 Scene0》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱生眩) |
