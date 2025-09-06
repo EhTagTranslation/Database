@@ -13985,6 +13985,7 @@ example:
 | dishwasher1910 | D.I.S.H |  | [pixiv](https://www.pixiv.net/users/13408193) [X](https://x.com/Dishwasher1910) |
 | honobo yukotogaketo | ほのぼ悠琴がけと |  |  |
 | ooide-kun | オーイデくん |  |  |
+| vel | Vel |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
