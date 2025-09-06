@@ -5831,7 +5831,7 @@ example:
 | garl vinland | 卡尔•文兰 |  |  |
 | maiden in black | 黑衣少女 |  |  |
 | maiden astraea | 少女雅思兰莉亚 |  |  |
-| umiri yahata | 八幡海铃 | 八幡海铃（日语：八幡（やはた） 海鈴（うみり））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/八幡海铃) |
+| umiri yahata | 八幡海铃 | ![](https://patchwiki.biligame.com/images/arknights/c/c1/8tk4u3tb2ft0myzfybmsgr0wxlqmjlp.png)<br>八幡海铃（日语：八幡（やはた） 海鈴（うみり））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/八幡海铃) |
 | sakiko togawa | 丰川祥子 | ![](https://patchwiki.biligame.com/images/arknights/6/63/dndg0061x4ywpxxz73evj71lfqeh7st.png)<br>丰川祥子（日语：豊川（とがわ） 祥子（さきこ））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丰川祥子) |
 | falin thorden | 法琳 | 法琳·图丁（日语：ファリン・トーデン）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/法琳) |
 | priscilla | 普莉希拉 |  |  |
