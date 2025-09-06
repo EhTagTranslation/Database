@@ -98,8 +98,9 @@ example:
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。 |  |
 | giraffe girl | 长颈鹿娘 | 有长颈鹿的耳朵和尾巴的女孩，通常在衣服或毛皮上有黄色和棕色斑点。可能有长脖子。 |  |
 | ghost | 幽灵👻 | 与非物质的存在性交。 |  |
-| goblin | 哥布林 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
+| goblin | 哥布林 | 幻想生物，通常身高约为正常人的 1/2 至 3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
 | harpy | 鸟人 | 鸟与人类的混合体。<br>![图](https://ehgt.org/b3/19/b31970c580540268ffb22e158c90927ab411acea-375579-800-600-jpg_l.jpg) |  |
+| hedgehog girl | 刺猬娘 | 具有刺猬特征的女性，拥有实际的刺或类似刺的毛发，通常还具有一个深色尖端的长吻。 |  |
 | horse girl | 马女孩 | 拥有马尾或其他马的特征的女性。 |  |
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
 | hyena girl | 鬣狗女孩 | 具有鬣狗特征的女性类人生物，例如大圆/尖耳朵和半厚毛尾巴。通常被描绘为具有条状或点状的皮毛或更深色的四肢。不应与`dog girl`混淆。 |  |
@@ -411,6 +412,7 @@ example:
 | ass expansion | 臀部膨胀 | 臀部变大的过程，可能成为`big ass`。不需要`transformation`标签。 |  |
 | assjob | 尻交 | 屁股沟性交，不插入。不应与`anal`混淆。<br>![图](# "https://ehgt.org/12/d5/12d548648c0e9ca572296531823ab38c1e777824-310836-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/f5/fd/f5fd37a39de4fec5161df6e381f305964673c31b-599712-1024-600-png_l.jpg")![图](# "https://ehgt.org/0c/4a/0c4ae784b128d7842fb8a315595e8ac06c623a88-602649-710-994-jpg_l.jpg") |  |
 | big ass | 大屁股 | 至少比角色的头部大 2.5 倍。 |  |
+| butt plug | 肛塞 | 一种插入肛门的性玩具，设计用于对肛门施加压力以获得性快感。具有一个喇叭形的底座，通常尖端较细。需要`anal`和`sex toys`标签。 |  |
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致`inflation`。<br>![图](# "https://ehgt.org/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg") |  |
 | farting | 放屁 | 明显的放屁行为。 |  |
 | multiple assjob | 多重尻交 | 多个阴茎参与的尻交。需要`assjob`标签。 |  |
@@ -567,7 +569,7 @@ example:
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与`stuck in wall`、寻欢`glory hole`、`shared senses`混淆。 |  |
 |  | == 液体 == |  |  |
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
-| underwater | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
+| underwater sex | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
 |  | === 液体 > 体液 === |  |  |
 | blood | 血液 | 对大量血液（如从身体伤口流出的）的描绘。不用为`guro`添加此标签。同一图库中不是`guro`的单独实例可以适用。不用于`defloration`导致的流血。图库只需包含一张此类性质的图片即可获得此标签。 |  |
 | squirting | 潮吹 | 女性大量射出体液。<br>![图](# "https://ehgt.org/d5/ab/d5ab335ef940c63352b62de195efd31371d91716-6571126-2894-4093-jpg_l.jpg") |  |

@@ -95,8 +95,9 @@ example:
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。<br>![图](# "https://ehgt.org/13/5c/135ce05b78b1d4170e51ed09bca35a6308b4905a-1500979-914-1300-jpg_l.jpg")![图](# "https://ehgt.org/39/6e/396e00043bbf49abfe7355dabca5d89d0cf8d63e-3424740-1410-2000-png_l.jpg") |  |
 | giraffe boy | 长颈鹿男 | `giraffe girl`的男性版本。 |  |
 | ghost | 幽灵👻 | 与非物质的存在性交。 |  |
-| goblin | 哥布林 | 幻想生物，通常身高约为正常人的1/2至3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
+| goblin | 哥布林 | 幻想生物，通常身高约为正常人的 1/2 至 3/4。 通常有厚鼻子，尖耳朵，大嘴和小而锋利的牙齿。 |  |
 | harpy | 鸟人 | 鸟与人类的混合体。 |  |
+| hedgehog boy | 刺猬男 | `hedgehog girl`的男性版本。 |  |
 | horse boy | 马男孩 | `horse girl`的男性版本。 |  |
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
 | hyena boy | 鬣狗男孩 | `hyena girl`的男性版本。 |  |
@@ -392,6 +393,7 @@ example:
 | ass expansion | 臀部膨胀 | 臀部变大的过程，可能成为`big ass`。不需要`transformation`标签。 |  |
 | assjob | 尻交 | 屁股沟性交，不插入。不应与`anal`混淆。<br>![图](# "https://ehgt.org/12/d5/12d548648c0e9ca572296531823ab38c1e777824-310836-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/f5/fd/f5fd37a39de4fec5161df6e381f305964673c31b-599712-1024-600-png_l.jpg")![图](# "https://ehgt.org/0c/4a/0c4ae784b128d7842fb8a315595e8ac06c623a88-602649-710-994-jpg_l.jpg") |  |
 | big ass | 大屁股 | 至少比角色的头部大 2.5 倍。 |  |
+| butt plug | 肛塞 | 一种插入肛门的性玩具，设计用于对肛门施加压力以获得性快感。具有一个喇叭形的底座，通常尖端较细。需要`anal`和`sex toys`标签。 |  |
 | enema | 灌肠 | 液体或空气注入肛门。可能会导致`inflation`。<br>![图](# "https://ehgt.org/ac/2c/ac2c4786b46d0b66d2433513a59ff8695ae6e9e9-792772-1061-1500-jpg_l.jpg") |  |
 | farting | 放屁 | 明显的放屁行为。 |  |
 | multiple assjob | 多重尻交 | 多个阴茎参与的尻交。需要`assjob`标签。 |  |
@@ -542,7 +544,7 @@ example:
 | wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与`stuck in wall`、`glory hole`、`shared senses`混淆。 |  |
 |  | == 液体 == |  |  |
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
-| underwater | 水下 | 在性期间大部分或完全浸没在液体中。 |  |
+| underwater sex | 水下 | 在性期间大部分或完全浸没在液体中。 |  |
 |  | === 液体 > 体液 === |  |  |
 | blood | 血液 | 对大量血液（如从身体伤口流出的）的描绘。不用为`guro`添加此标签。同一图库中不是`guro`的单独实例可以适用。不用于`defloration`导致的流血。图库只需包含一张此类性质的图片即可获得此标签。 |  |
 |  | ==== 液体 > 体液 > 精液 ==== |  |  |
