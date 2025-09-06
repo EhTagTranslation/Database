@@ -4496,7 +4496,7 @@ example:
 | sovetskaya rossiya | 苏维埃罗西亚 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
 | faruzan | 珐露珊 | ![](https://patchwiki.biligame.com/images/ys/4/45/oz62sh2pgru1l9ea43qlvrdvyogdfun.png)<br>珐露珊（英语：faruzan）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>来自「一百年前」的学者，喜欢以前辈自居，对各类古老文字与古典机关都颇有研究。 | [萌娘百科](https://zh.moegirl.org.cn/珐露珊) |
 | plana | 普拉娜 | 所属作品: `p:blue archive`<br>普雷纳帕特斯所持的什亭之箱的操作系统OS。<br>在最终篇第4章『普雷纳帕特斯最终决战』中，进入了老师的什亭之箱，与阿罗娜一起创造了奇迹，让老师平安生还。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_646/h_1230/829/191981/2024/10/8/655010.png) |  |
-| rio tsukatsuki | 调月莉音 | 所属作品: `p:blue archive` |  |
+| rio tsukatsuki | 调月莉音 | ![](https://img.moegirl.org.cn/common/1/11/BA_Rio.png)<br>游戏《蔚蓝档案》中的角色。<br>千年科学学园所属，学生会「研讨会」的会长。<br><br>期望着千年与世界的安全。为了实现心愿不择手段的结果，使其获得了「大姐头」的名号。拥有独特的品味与感性，仅有部分学生才知道的「前卫君」也是他品味的冰山一角。 | [萌娘百科](https://zh.moegirl.org.cn/调月莉音) |
 | kikuri hiroi | 广井菊里 | 由はまじあき所创作的漫画《孤独摇滚！》的登场角色。<br>人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。<br>是最先注意到独真正实力的人。<br>经常为独着想。平日里总是醉醺醺的。 |  |
 | gintoki sakata | 坂田银时 | ![](https://static.wikia.nocookie.net/gintama/images/b/b9/GinFinal.png)<br><br>万事屋的领导，啥事都做。<br>不定期吃甜食，就会极其焦躁的甜食党。<br>平时看似很没精神、没力气，但实际是个很厉害的武士。<br>原是一名攘夷志士，被称“白夜叉”的恐怖剑术达人，但现在只使用木刀。<br>爱车是一辆轻摩托。 | [萌娘百科](https://zh.moegirl.org.cn/坂田银时) [Fandom](https://gintama.fandom.com/wiki/Sakata_Gintoki) |
 | toshiro hijikata | 土方十四郎 | ![](https://static.wikia.nocookie.net/gintama/images/b/b0/Hijikata_2017.png) | [萌娘百科](https://zh.moegirl.org.cn/土方十四郎) [Fandom](https://gintama.fandom.com/wiki/Hijikata_Toushirou) |
