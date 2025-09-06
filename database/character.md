@@ -5763,7 +5763,7 @@ example:
 | riri tokugawa | 德川莉莉 | ![](https://moegirl.uk/images/1/15/Tokukawa_Riri_PCR.png)<br>德川莉莉（日语：徳川（とくかわ） 莉々（りり））是Cygames开发和发行的游戏《公主连结Re:Dive》的登场角色。在游戏世界内的ID为莉莉（日语：リリ）。 | [萌娘百科](https://moegirl.uk/德川莉莉) |
 | precia wiseman | 普雷西娅·怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
 | quria | 久央璃亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/4/43/fwap3641s1qz8ss8ihn5o6cxcgz3abb.png/178px-可璃亚（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/可璃亚（堕天使）) |
-| yume kuchinashi | 栀子梦 | 栀子梦，是游戏《蔚蓝档案》中的学生。前阿拜多斯学生会成员。<br>![](https://bkimg.cdn.bcebos.com/pic/8644ebf81a4c510fd9f962d11f01322dd42a29340ffd?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/栀子梦/64386409) |
+| yume kuchinashi | 栀子梦 | ![](https://img.moegirl.org.cn/common/0/04/BA_Yume.png)<br>游戏《蔚蓝档案》中的角色。<br>前阿拜多斯学生会的会长，总是挂着笑容。性格天真烂漫，总是冒冒失失的。喜欢幻想，相信着奇迹发生。<br><br>身上总是伤痕累累，在四肢都贴了不少的创可贴，也因此右脚鞋带松脱，左脚袜子松垮。 | [百度百科](https://baike.baidu.com/item/栀子梦/64386409) |
 | riki naoe | 直枝理树 | ![](https://static.wikia.nocookie.net/littlebusters/images/9/98/Riki_Icon.png) | [萌娘百科](https://zh.moegirl.org.cn/直枝理树) |
 | sayaka saeki | 佐伯沙弥香 |  |  |
 | haru edamoto | 枝元阳 |  |  |
