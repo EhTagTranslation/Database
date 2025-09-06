@@ -5179,7 +5179,7 @@ example:
 | soyo nagasaki | 长崎爽世 | 长崎爽世（日语：長崎（ながさき） そよ）是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/0c/Soyo230916.png) | [萌娘百科](https://zh.moegirl.org.cn/长崎爽世) |
 | taki shiina | 椎名立希 | 椎名立希（日语：椎名（しいな） 立希（たき））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椎名立希) |
 | penance | 斥罪 | 出自游戏《明日方舟》，本名拉维妮娅·法尔科内。 | [萌娘百科](https://zh.moegirl.org.cn/斥罪) |
-| kisaki ryuuge | 龙华妃咲 | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png)<br>山海经高级中学所属，掌管学园所有事务的学生会「玄龙门」的会长，或称门主。<br>游戏《蔚蓝档案》中的角色。<br>老派而具威严的说话方式，加上带有神秘感的形象，是名散发着难以接近气质的少女。本人则十分善用这种形象来执行职务。 | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html)<br>[萌娘百科](https://zh.moegirl.org.cn/龙华妃咲) |
+| kisaki ryuuge | 龙华妃咲 | 所属作品：`p:blue archive`<br>山海经高级中学所属，掌管学园所有事务的学生会「玄龙门」的会长，或称门主。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html)<br>[萌娘百科](https://zh.moegirl.org.cn/龙华妃咲) |
 | takane miyoshi | 三善贵音 | ![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png)<br>游戏《蔚蓝档案》中的角色。<br>红冬联邦学园出版部的部员。负责给红冬事务局机关杂志《红熊》撰写社论，自称阅读过所有红冬联邦学园出版过的刊物。 | [百度百科](https://baike.baidu.com/item/三善贵音/65687019) |
 | kiriko kamori | 家守雾子 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/家守雾子) |
 | genji | 源氏 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/岛田源氏) |
