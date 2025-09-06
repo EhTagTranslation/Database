@@ -6258,7 +6258,7 @@ example:
 | satoshi houjou | 北条悟史 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/北条悟史) |
 | keiichi maebara | 前原圭一 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/前原圭一) |
 | sasaki | 佐佐木 | 所属作品: `p:the melancholy of haruhi suzumiya`<br><br>在《凉宫春日的分裂》中正式登场，是阿虚国三时的挚友，被古泉认为是「十人看到有八个会迷上她的『有魅力的女性』」。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木%28凉宫春日系列%29) |
-| chiaki motomiya | 元宫千秋 | 日语：元宮（もとみや） チアキ<br>NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/元宫千秋) [Fandom](https://bluearchive.fandom.com/wiki/Motomiya_Chiaki) |
+| chiaki motomiya | 元宫千秋 | 所属作品：`p:blue archive`<br>格黑娜学园所属，永远保持活泼开朗的「万魔殿」议员兼书记。<br>出于兴趣而发行了《周刊万魔殿》，并致力于向更多学生宣传万魔殿的活动情报与伊吹的可爱之处。<br>![](https://img.moegirl.org.cn/common/3/3a/BA_Chiaki.png) | [萌娘百科](https://zh.moegirl.org.cn/元宫千秋) [Fandom](https://bluearchive.fandom.com/wiki/Motomiya_Chiaki) |
 | louisville | 路易斯维尔 | 原型为路易斯维尔号条约型重巡洋舰（CA-28）<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/路易斯维尔)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Louisville_%28CA-28%29) |
 | prinz heinrich | 海恩里希亲王 | 原型为德意志帝国海军P级装甲舰海因里希亲王号<br>所属作品: `p:azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海因里希亲王)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/SMS_Prinz_Heinrich) |
 | tsumugi shinonome | 东云纺 |  | [萌娘百科](https://zh.moegirl.org.cn/东云纺) |
