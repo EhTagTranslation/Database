@@ -3934,7 +3934,7 @@ example:
 | madoka amahane | 天羽圆香 | ![](https://img.moegirl.org.cn/common/8/8d/20170531211501_srT8A.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/天羽圆香) |
 | hime shiratori | 白鸟姬 | ![](https://img.moegirl.org.cn/common/7/7b/白鸟姬.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/白鸟姬) |
 | sussurro | 苏苏洛 | 《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
-| alice tendou | 天童爱丽丝 | Nexon 发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。![](https://patchwiki.biligame.com/images/ba/e/ef/0tb6g9wy2xbvpumygpbecd77dw09qvg.png) | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
+| alice tendou | 天童爱丽丝 | 游戏《蔚蓝档案》中的角色。隶属千年学园游戏开发部的成员。<br>在废墟发现的来历不明的少女。包含年龄在内，所有情报都无法推断。现在跟着绿和桃井玩游戏，已经变成重度游戏狂热者了。<br>![](https://patchwiki.biligame.com/images/ba/e/ef/0tb6g9wy2xbvpumygpbecd77dw09qvg.png) | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
 | hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
 | chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |  |
 | anko kitashirakawa | 北白川馅子 | 所属作品: `p:tamako market`<br>![图](https://ehgt.org/49/98/49988733b649315e51a337ed939d34791c62ef69-35312-270-600-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北白川馅子) [Fandom](https://tamakomarket.fandom.com/wiki/Anko_Kitashirakawa) |
