@@ -5125,7 +5125,7 @@ example:
 | nodoka amami | 天见和香 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，目前停学，被禁闭在旧校舍的227特别班。<br>![](https://patchwiki.biligame.com/images/ba/7/71/bw2hsp5agnruk5c1f2wqjsy6hyo7x3r.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4d/cy9z3uf36303j8768ztf47hq1w2elo7.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Nodoka) |
 | shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
 | iris | 艾莉丝 \| 爱丽丝 | ①《炎炎消防队》及其衍生动画中的虚构角色![](https://lain.bgm.tv/r/400/pic/crt/l/90/6b/68396_crt_b5WxY.jpg?r=1678796731) | [百度百科](https://baike.baidu.com/item/爱丽丝/23315803) |
-| momoka yuragi | 由良木桃香 | 所属作品: `p:blue archive` |  |
+| momoka yuragi | 由良木桃香 | ![](https://img.moegirl.org.cn/common/2/2f/BA_Momoka.png)<br>游戏《蔚蓝档案》中的角色。<br>联邦学生会的一员。<br><br>完全不想好好工作，麻烦的事情全都扔给夏莱。<br><br>总是在吃着什么，说话的时候也不放下手中的明太子薯片。<br><br>是个十足的懒人，但完全不在意外界的评价。 | [萌娘百科](https://zh.moegirl.org.cn/由良木桃香) |
 | yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive`<br><br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的1年级学生。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/522528.png) |  |
 | yakumo aramaki | 荒牧八云 | 所属作品: `p:blue archive` |  |
 | kasumi kinugawa | 鬼怒川霞 | 所属作品: `p:blue archive` |  |
