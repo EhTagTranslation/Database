@@ -13279,6 +13279,7 @@ example:
 | mirinkou | ミリンコウ |  |  |
 | yachou | 野鳥 |  |  |
 | oshaburi tengoku | おしゃぶり天国 |  |  |
+| tana kara marriage | 棚からマリアージュ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
