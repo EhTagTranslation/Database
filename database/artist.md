@@ -7114,7 +7114,7 @@ example:
 | kosugi koutarou | 小杉光太郎 |  |  |
 | kosuke | 小助 |  |  |
 | kosuzu | 小鈴 |  |  |
-| kota | 耕太 \| コタ \| こた(炬太郎) \| kota´ |  | 耕太：[pixiv](https://www.pixiv.net/users/10277858)<br>コタ(DEAR)：[pixiv](https://www.pixiv.net/users/38845) [X](https://x.com/cotarou)<br>コタ(アルミカン)：[pixiv](https://www.pixiv.net/users/2438419) [X](https://x.com/kota75_zzz)<br>こた(炬太郎)：[pixiv](https://www.pixiv.net/users/1337291) [X](https://x.com/kota_ur0) |
+| kota | 耕太 \| コタ \| こた \| kota |  | 耕太：[pixiv](https://www.pixiv.net/users/10277858)<br>コタ(DEAR)：[pixiv](https://www.pixiv.net/users/38845) [X](https://x.com/cotarou)<br>コタ(アルミカン)：[pixiv](https://www.pixiv.net/users/2438419) [X](https://x.com/kota75_zzz)<br>こた(炬太郎)：[pixiv](https://www.pixiv.net/users/1337291) [X](https://x.com/kota_ur0)<br>kota：[Patreon](https://www.patreon.com/u41910126) |
 | kotaru | 瑚樽 |  |  |
 | kotatsu | 小龍 | こたつ | [Danbooru](https://danbooru.donmai.us/posts?tags=koyuki_%28kotatsu358%29)<br>[pixiv](https://www.pixiv.net/users/8780063)<br>[X](https://x.com/koyuki8612)<br>[Fantia](https://fantia.jp/fanclubs/92524)<br>[FANBOX](https://kotatsu358.fanbox.cc/)<br>[X](https://x.com/kota2comic) |
 | kotatsu tomodachi | コタツトモダチ |  | [pixiv](https://www.pixiv.net/users/1081085) |
