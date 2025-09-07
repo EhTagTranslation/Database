@@ -13990,6 +13990,7 @@ example:
 | tonomiya | 殿宮 |  |  |
 | ecoruby | 絵子るび |  |  |
 | shinozaki kyoko | 篠崎キョーコ |  |  |
+| sera shousa | せら少佐 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
