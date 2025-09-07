@@ -13987,6 +13987,7 @@ example:
 | ooide-kun | オーイデくん |  |  |
 | vel | Vel |  |  |
 | eco heeky | えこひいき |  |  |
+| tonomiya | 殿宮 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
