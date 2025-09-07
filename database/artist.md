@@ -13988,6 +13988,7 @@ example:
 | vel | Vel |  |  |
 | eco heeky | えこひいき |  |  |
 | tonomiya | 殿宮 |  |  |
+| ecoruby | 絵子るび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
