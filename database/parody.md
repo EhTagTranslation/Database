@@ -2524,6 +2524,7 @@ example:
 | dakara boku wa h ga dekinai | 美少女死神还我H之魂 | ![](https://lain.bgm.tv/r/400/pic/cover/l/fc/36/29650_OSPDd.jpg)<br>日本小说家橘ぱん著作、桂井よしあき插画的轻小说 |  |
 | saikyou tank no meikyuu kouryaku | 最强肉盾的迷宫攻略 |  | [萌娘百科](https://zh.moegirl.org.cn/最强肉盾的迷宫攻略) |
 | yoshinaga-san chi no gargoyle | 吉永家的石像怪 |  | [维基百科](https://zh.wikipedia.org/wiki/吉永家的石像怪) |
+| kaoru hana wa rin to saku | 薰香花朵凛然绽放 | 三香见SAKA创作的漫画作品。<br>这是一段“近在咫尺却又遥不可及”的二人编织的、为青春染上绚丽色彩的校园故事。<br>![](https://lain.bgm.tv/r/400/pic/cover/l/0c/26/355555_F43Vf.jpg) | [百度百科](https://baike.baidu.com/item/薰香花朵凛然绽放/64906826) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
