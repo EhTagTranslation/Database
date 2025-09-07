@@ -13992,6 +13992,7 @@ example:
 | shinozaki kyoko | 篠崎キョーコ |  |  |
 | sera shousa | せら少佐 |  |  |
 | yoshi yoshiyuki | 芳よしゆき |  |  |
+| ddugyu | DDUGYU |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
