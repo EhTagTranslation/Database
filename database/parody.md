@@ -2525,6 +2525,7 @@ example:
 | saikyou tank no meikyuu kouryaku | 最强肉盾的迷宫攻略 |  | [萌娘百科](https://zh.moegirl.org.cn/最强肉盾的迷宫攻略) |
 | yoshinaga-san chi no gargoyle | 吉永家的石像怪 |  | [维基百科](https://zh.wikipedia.org/wiki/吉永家的石像怪) |
 | kaoru hana wa rin to saku | 薰香花朵凛然绽放 | 三香见SAKA创作的漫画作品。<br>这是一段“近在咫尺却又遥不可及”的二人编织的、为青春染上绚丽色彩的校园故事。<br>![](https://lain.bgm.tv/r/400/pic/cover/l/0c/26/355555_F43Vf.jpg) | [百度百科](https://baike.baidu.com/item/薰香花朵凛然绽放/64906826) |
+| fuufu ijou koibito miman. | 夫妇以上，恋人未满 | 金丸祐基创作的青年漫画。<br>![](https://lain.bgm.tv/pic/cover/l/17/ce/239336_Hl4hH.jpg?_gl=1*t5wk21*_ga*MzI0MjkyMTY2LjE3NTcyODkyNTY.*_ga_1109JLGMHN*czE3NTcyODkyNTYkbzEkZzEkdDE3NTcyODkyOTgkajE4JGwwJGgw) | [萌娘百科](https://zh.moegirl.org.cn/夫妇以上，恋人未满。) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
