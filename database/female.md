@@ -105,6 +105,7 @@ example:
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
 | hyena girl | 鬣狗女孩 | 具有鬣狗特征的女性类人生物，例如大圆/尖耳朵和半厚毛尾巴。通常被描绘为具有条状或点状的皮毛或更深色的四肢。不应与`dog girl`混淆。 |  |
 | insect girl | 昆虫女孩 | 有触角，往往有一个壳或甲壳躯干。 |  |
+| kangaroo girl | 袋鼠女孩 | 一位有着长耳朵、粗长尾巴，可能还有其他袋鼠特征的女性。 |  |
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 |  |
 | lizard girl | 蜥蜴女孩 | 有爬行动物的鳞片和尾巴的女孩。 |  |
 | mermaid | 美人鱼🧜‍♀️ | 上半身是人，下半身是鱼。 |  |
@@ -537,6 +538,7 @@ example:
 | group | 乱交 | 两个以上的人同时进行性行为。是它们的前置标签：`harem`、`layer cake`、`mtf threesome`、`mmt threesome`、`mmf threesome`、`ttm threesome`、`ttf threesome`、`ffm threesome`和`fft threesome`等 3P 标签。其中 t 为变性人(transsexual)，包含`futanari`和`shemale`，这里为了书写方便用“扶”代指。两个或两个以上的伴侣有单独性行为或一群女孩站在周围不算。<br>![图](# "https://ehgt.org/eb/8a/eb8a92af97e65f81c552ca217fea67262afa0e24-2159382-1381-2000-jpg_l.jpg") |  |
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要`group`标签。不用于`rape`的情况。<br>![图](# "https://ehgt.org/94/17/9417b61532f2ed887c641908ce8add643bd3a1c1-761611-1024-600-png_l.jpg")![图](# "https://ehgt.org/ff/ab/ffabb9a8f387bf7b1dd33091051abb437a41191c-224336-800-600-jpg_l.jpg")![图](# "https://ehgt.org/31/00/3100b5db3a188ed611ed60730ac0d92cc7f0efdd-297872-800-600-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要`group`标签。<br>![图](# "https://ehgt.org/6b/dc/6bdc2973ee102b91685e686e6605fc48c16d1621-201446-1024-600-jpg_l.jpg")![图](# "https://ehgt.org/02/20/02200b144cb6c1b7b671198942d71764c742ba0c-509066-800-600-png_l.jpg")![图](# "https://ehgt.org/9a/25/9a2589446a813229eabb2e08617228ced475814a-161746-800-600-jpg_l.jpg")![图](# "https://ehgt.org/ce/1d/ce1d4b2fe689efc515bb91a5721fe9054f75463b-167173-800-600-jpg_l.jpg")![图](# "https://ehgt.org/5b/cf/5bcf8845e6681cce06db4d0cf722e57a49528f5c-578254-800-600-png_l.jpg")![图](# "https://ehgt.org/71/3c/713c6269c9516e96c9541bae5fba29d329c16d94-601548-1024-600-png_l.jpg")![图](# "https://ehgt.org/c1/07/c107b406d777a9477a21cce35730160c9d7099e1-180625-800-600-jpg_l.jpg")![图](# "https://ehgt.org/14/6d/146d24b258de6266b974f31de60d077b98e426a8-132540-800-600-jpg_l.jpg")![图](# "https://ehgt.org/51/76/5176826ecf85577d5eff755575f453a62791cfd9-509481-944-708-jpg_l.jpg")![图](# "https://ehgt.org/aa/5d/aa5dec12feba976949843189cc8e3689d38f130e-1155161-1024-768-png_l.jpg") |  |
+| multiple pairings | 多对多 | 在同一地点内至少有两组人参与性活动，彼此暴露但不直接与其他组互动。这些群体需要同时进行性活动。如果一个伴侣在两个或更多其他人之间交换，则不符合条件。如果其中任何一组包含超过两名参与者，也应添加`group`标签。 |  |
 | multiple straddling | 多人跨骑 | 多个人同时跨骑并与同一个参与者发生性互动。可能会使用`facesitting`。需要`group`标签。被骑者的性别决定了将标签放置在`male`还是`female`的命名空间中。 |  |
 | oyakodon | 母女丼 | 母亲和女儿（们）同时与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | shimaidon | 姐妹丼 | 具有血缘关系的姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |

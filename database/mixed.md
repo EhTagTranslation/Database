@@ -72,6 +72,7 @@ example:
 | mmf threesome | 男女男3P | ♂♀♂，2 男 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
 | mmt threesome | 男扶男3P | ♂⚥♂，2 男 1 扶 3P。需要`group`标签。不算`yaoi`。 |  |
 | mtf threesome | 男扶女3P | ♂⚥♀，1 男 1 扶 1 女 3P。需要`group`标签。不算`yaoi`。 |  |
+| multiple pairings | 多对多 | 在同一地点内至少有两组人参与性活动，彼此暴露但不直接与其他组互动。这些群体需要同时进行性活动。如果一个伴侣在两个或更多其他人之间交换，则不符合条件。如果其中任何一组包含超过两名参与者，也应添加`group`标签。 |  |
 | oyakodon | 亲子丼 | 母亲（父亲）和儿子（女儿）与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | shimaidon | 手足丼 | 具有血缘关系的兄弟姐妹两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
 | ttm threesome | 扶扶男3P | ⚥♂⚥，2 扶 1 男 3P。需要`group`标签。不算`yaoi`。 |  |

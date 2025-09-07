@@ -102,12 +102,14 @@ example:
 | human on furry | 人毛 | 人与`furry`角色间的性行为。 |  |
 | hyena boy | 鬣狗男孩 | `hyena girl`的男性版本。 |  |
 | insect boy | 昆虫男孩 | `insect girl`的男性版本。 |  |
+| kangaroo boy | 袋鼠男孩 | `kangaroo girl`的男性版本。 |  |
 | kappa | 河童 | 日本民间想象中的动物、水中的妖怪。喜食黄瓜。由水神沦落而变成妖怪。 |  |
 | lizard guy | 蜥蜴男孩 | `lizard girl`的男性版本。 |  |
 | merman | 人鱼🧜‍♂️ | `mermaid`的男性版本。 |  |
 | minotaur | 牛头人 | 弥诺陶洛斯（古希腊语：Μῑνώταυρος，字面意思为“弥诺斯的牛”），希腊神话中一个著名的半人半牛怪物。 |  |
 | monkey boy | 猴男孩 | `monkey girl`的男性版本。 |  |
 | monster | 怪物 | 任何不是人类、`robot`、`demon`、动物或`furry`的角色。 |  |
+| moth boy | 蛾男 | `moth girl`的男性版本。需要`insect boy`标签。 |  |
 | mouse boy | 鼠男孩 | `mouse girl`的男性版本。 |  |
 | necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon`混淆。<br>![图](# "https://ehgt.org/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg") |  |
@@ -516,6 +518,7 @@ example:
 | harem | 后宫 | 被至少三人追捧，自愿发生性关系且所有人参与。需要`group`标签。不用于`rape`的情况。<br>![图](# "https://ehgt.org/e8/ec/e8ecda3984fd79572060ee2deba7750065a60383-1329197-1200-1694-jpg_l.jpg") |  |
 | layer cake | 夹心蛋糕 | 阴茎在两个阴道之间摩擦。可能涉及每个阴道之间交替插入。需要`group`标签。<br>![图](# "https://ehgt.org/c0/7b/c07bbe0ba64284f2d69f0b93a26ad9dab99ff1e4-889024-2069-2982-jpg_l.jpg") |  |
 | mmm threesome | 男3P | ♂♂♂，3 男 3P。需要`group`标签。 |  |
+| multiple pairings | 多对多 | 在同一地点内至少有两组人参与性活动，彼此暴露但不直接与其他组互动。这些群体需要同时进行性活动。如果一个伴侣在两个或更多其他人之间交换，则不符合条件。如果其中任何一组包含超过两名参与者，也应添加`group`标签。 |  |
 | multiple straddling | 多人跨骑 | 多个人同时跨骑并与同一个参与者发生性互动。可能会使用`facesitting`。需要`group`标签。被骑者的性别决定了将标签放置在`male`还是`female`的命名空间中。 |  |
 | oyakodon | 父子丼 | 父亲和儿子与同一个性伴侣产生性行为。需要`group`标签。<br>![](# "https://ehgt.org/0c/70/0c702600eb54c7f3291dfe4e154c4dc42d38daec-98260-1050-1492-jpg_l.jpg") ![](# "https://ehgt.org/0b/06/0b0678d8efd49ec032e5ea20283624f364d5b689-1135571-1200-900-png_l.jpg") ![](# "https://ehgt.org/df/5a/df5a79d0968345f1dd480e5eb4203fb26adc9bfa-4683866-2133-3000-jpg_l.jpg") |  |
 | shimaidon | 兄弟丼 | 具有血缘关系的兄弟两人（或以上）同时与同一个性伴侣产生性行为，需要`group`标签。 |  |
