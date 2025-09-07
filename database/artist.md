@@ -13989,6 +13989,7 @@ example:
 | eco heeky | えこひいき |  |  |
 | tonomiya | 殿宮 |  |  |
 | ecoruby | 絵子るび |  |  |
+| shinozaki kyoko | 篠崎キョーコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
