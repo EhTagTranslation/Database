@@ -2088,7 +2088,7 @@ example:
 | pretty face | 漂亮脸蛋 |  | [维基百科](https://zh.wikipedia.org/wiki/漂亮臉蛋) |
 | yi lian | 忆恋 |  | [vndb](https://vndb.org/v25807) |
 | meili xinshijie i | 美丽新世界i |  | [vndb](https://vndb.org/v24428) |
-| kage no jitsuryokusha ni naritakute | 我想成为影之强者！ | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/2/29/GardenIntro-LN-V1-EN.jpg) | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/The_Eminence_in_Shadow_Wiki) [维基百科](https://zh.wikipedia.org/wiki/我想成為影之強者！) |
+| kage no jitsuryokusha ni naritakute | 想要成为影之实力者 | 《想要成为影之实力者》（日语：陰の実力者になりたくて！）是由逢泽大介创作、东西插画的一部轻小说，并有漫画、动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/3/38/978-4-04-735302-2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/The_Eminence_in_Shadow_Wiki) [维基百科](https://zh.wikipedia.org/wiki/我想成為影之強者！) |
 | okane ga nai | 欠金情人 | 《欠金情人》（日语：お金がないっ）系列是篠崎一夜的BL小说，香坂透插画，亦为漫画化的作者。 | [Bangumi](https://bgm.tv/subject/103733) [维基百科](https://zh.wikipedia.org/wiki/欠金情人) |
 | valvrave the liberator | 革命机 |  |  |
 | dodge danpei | 斗球儿弹平 | 《斗球儿弹平》（日语：炎の闘球児 ドッジ弾平）是日本漫画家越田哲弘以躲避球为题材在小学馆《快乐快乐月刊》自1989年连载至1995年的少年漫画。在台湾于无版权时期最早曾由东立出版社以‘导弹神珠’之名发行单行本，而后由青文出版社取得正式授权。后来改编为电视动画在1991年至1992年播放。 | [维基百科](https://zh.wikipedia.org/wiki/鬥球兒彈平) [百度百科](https://baike.baidu.com/item/斗球儿弹平) |
