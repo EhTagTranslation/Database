@@ -6697,6 +6697,7 @@ example:
 | noelle silva | 诺艾儿·席尔瓦 | 田畠裕基所创作的漫画《黑色五叶草》及其衍生作品的登场角色。<br>魔法骑士团“黑色暴牛”的成员，做事拼命，为人坦率，态度高傲。王族“西尔法”家族的幺女。<br>![](https://img.moegirl.org.cn/common/c/c8/诺艾儿·西尔法.png) | [萌娘百科](https://zh.moegirl.org.cn/诺艾儿·西尔法#) |
 | il capitano | 「队长」卡皮塔诺 | 「队长」卡皮塔诺是游戏《`p:genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡皮塔诺) |
 | angel | 安吉尔 | ①《拳皇》中的角色安吉尔。<br>②《杀戮天使》中的安吉尔。 |  |
+| momohina nano | 桃雛なの |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
