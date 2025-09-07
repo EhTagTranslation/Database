@@ -13281,6 +13281,7 @@ example:
 | oshaburi tengoku | おしゃぶり天国 |  |  |
 | tana kara marriage | 棚からマリアージュ |  |  |
 | gdbdby | gdbdby |  |  |
+| shinoz | SHINOZ! |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
