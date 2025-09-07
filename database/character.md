@@ -6698,6 +6698,7 @@ example:
 | il capitano | 「队长」卡皮塔诺 | 「队长」卡皮塔诺是游戏《`p:genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡皮塔诺) |
 | angel | 安吉尔 | ①《拳皇》中的角色安吉尔。<br>②《杀戮天使》中的安吉尔。 |  |
 | momohina nano | 桃雛なの |  |  |
+| kaoruko waguri | 和栗薰子 | 日本漫画《薰香花朵凛然绽放》及其衍生作品中的女主角。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/07/17/30/12/134821358_p9_master1200.jpg) | [百度百科](https://baike.baidu.com/item/和栗薰子/64988742) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
