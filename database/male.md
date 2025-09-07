@@ -117,6 +117,7 @@ example:
 | pig man | 猪男 | `pig girl`的男性版本。 |  |
 | plant boy | 植物男孩 | `plant girl`的男性版本。需要`monster`标签。 |  |
 | raccoon boy | 浣熊男孩 | `raccoon girl`的男性版本。 |  |
+| rhinoceros boy | 犀牛男孩 | `rhinoceros girl`的男性版本。 |  |
 | robot | 机器人🤖 | 机械的人形。 |  |
 | shark boy | 鲨男孩 | `shark girl`的男性版本。 |  |
 | sheep boy | 羊男孩 | `sheep girl`的男性版本。 |  |
@@ -674,3 +675,4 @@ example:
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
 |  | focus cunnilingus高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+| focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |

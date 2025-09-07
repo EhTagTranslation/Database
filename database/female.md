@@ -120,8 +120,9 @@ example:
 | pig girl | 猪女 | 有猪耳朵、猪鼻、猪尾或猪的其他特征。 |  |
 | plant girl | 植物女孩 | 女性的植物-人类混合体。需要`monster girl`标签。 |  |
 | raccoon girl | 浣熊女孩 | 拥有耳朵、尾巴及其他浣熊的特征。 |  |
+| rhinoceros girl | 犀牛女孩 | 一位具有犀牛特征的女性，例如鼻子上有一个或多个角、漏斗形的耳朵以及尾端有一簇毛的尾巴。 |  |
 | robot | 机器人🤖 | 机械的人形。 |  |
-| shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。 通常也有锋利的牙齿。 |  |
+| shark girl | 鲨女孩 | 一个尾巴是尾鳍而不是身体下部的女性。通常也有锋利的牙齿。 |  |
 | sheep girl | 羊女孩 | 有羊毛和羊角的女性。 |  |
 | skeleton | 骷髅 | 身体由骨头组成，几乎没有皮肤的生物。也可能包括头部。需要`monster girl`标签。不应用于`x-ray`拍摄。不应与`zombie`或`necrophilia`混淆。 |  |
 | slime | 史莱姆 | 任何涉及性的粘液/凝胶状物质。基于史莱姆的生物需要此标签和`monster girl`标签。 |  |
@@ -707,3 +708,4 @@ example:
 | focus blowjob | 高存在口交 | 图库超过 50% 的内容为`blowjob`。需要`blowjob`标签。 |  |
 | focus cunnilingus | 高存在舔阴 | 图库超过 50% 的内容为`cunnilingus`。需要`cunnilingus`标签。 |  |
 | focus paizuri | 高存在乳交 | 图库超过 50% 的内容为`paizuri`。需要`paizuri`标签。 |  |
+| focus rimjob | 高存在舔肛 | 图库超过 50% 的内容为`rimjob`。需要`rimjob`标签。 |  |
