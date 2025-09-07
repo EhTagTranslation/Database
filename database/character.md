@@ -3808,7 +3808,7 @@ example:
 | shigure ui | 时雨羽衣 | 时雨羽衣是一名日本的插画家、漫画家。同时以个人势VTuber身份从2019年5月18日在YouTube开展相关活动。 | [萌娘百科](https://zh.moegirl.org.cn/时雨羽衣) |
 | suo sango | 周央珊瑚 | 周央珊瑚是一名从2020年08月09日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/周央珊瑚) |
 | lakshmibai | 拉克什米·芭伊 | 章西女王（Rani of Jhansi；1835年11月19日—1858年6月18日），印度民族女英雄。 | [萌娘百科](https://zh.moegirl.org.cn/拉克什米·芭伊%28Fate%29) |
-| inui toko | 戌亥とこ |  |  |
+| inui toko | 戌亥床 |  | [萌娘百科](https://zh.moegirl.org.cn/戌亥床) |
 | krul tepes | 克鲁鲁·采佩西 | 克鲁鲁·采佩西是由镜贵也所创作的漫画《`p:owari no seraph`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/owarinoseraph/images/6/66/Seraph_of_the_End_-_Krul_Tepes_%28Anime%29.png) |  |
 | mutsumi otohime | 乙姬睦美 |  |  |
 | shinobu maehara | 前原忍 |  |  |
