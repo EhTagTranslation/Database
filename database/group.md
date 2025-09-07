@@ -13282,6 +13282,7 @@ example:
 | tana kara marriage | 棚からマリアージュ |  |  |
 | gdbdby | gdbdby |  |  |
 | shinoz | SHINOZ! |  |  |
+| gyoumuyou jiga | 業務用自我 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
