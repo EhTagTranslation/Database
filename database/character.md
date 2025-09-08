@@ -6099,7 +6099,7 @@ example:
 | hatsuho kazami | 风见初穗 |  | [Bangumi](https://bgm.tv/character/3488) |
 | astra yao | 耀嘉音 | 耀嘉音是由米哈游所制作的游戏p:`zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/耀嘉音) |
 | tomoe | 巴 | 巴，女，日本轻小说《月光下的异世界之旅》及其衍生作品中的角色。 |  |
-| iris midgar | 爱丽丝 米德加尔 |  |  |
+| iris midgar | 爱丽丝 米德加尔 | 阿蕾克西雅的姐姐，米德嘉尔王国的第一王女。公认王国最强魔剑士，隶属于米德嘉尔王国骑士团。有着贯彻正义的高尚精神，但也有着对妹妹阿蕾克西雅稍稍过度保护的一面。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/df/66/104270_crt_Ly6KQ.jpg?r=1675247741) |  |
 | shiori katase | 片濑诗织里 |  |  |
 | hisui e. fiore | 翡翠·E·菲奥雷 |  |  |
 | celine | 赛琳 |  |  |
