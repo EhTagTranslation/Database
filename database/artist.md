@@ -13993,6 +13993,7 @@ example:
 | sera shousa | せら少佐 |  |  |
 | yoshi yoshiyuki | 芳よしゆき |  |  |
 | ddugyu | DDUGYU |  |  |
+| moepu. | もえぷ。 |  | [pixiv](https://www.pixiv.net/users/17016899) [X](https://x.com/moepukun) |
 
 <!--TEMPLATE:
 |  |  |  |  |
