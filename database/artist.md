@@ -13994,6 +13994,7 @@ example:
 | yoshi yoshiyuki | 芳よしゆき |  |  |
 | ddugyu | DDUGYU |  |  |
 | moepu. | もえぷ。 |  | [pixiv](https://www.pixiv.net/users/17016899) [X](https://x.com/moepukun) |
+| pomita | ぽみ太 |  | [pixiv](https://www.pixiv.net/users/15284043) [X](https://x.com/Nozominsky) |
 
 <!--TEMPLATE:
 |  |  |  |  |
