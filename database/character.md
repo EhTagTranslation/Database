@@ -6117,7 +6117,7 @@ example:
 | peri | 皮埃里 |  |  |
 | nyx | 尼克斯 |  |  |
 | amatsuka uto | 天使兔跳 | 「天使うと（Amatsuka Uto）」，是`p:hololive`的一名`f:vtuber`。 |  |
-| aurora | 极光 \| 奥萝拉 | ①极光，本名洛拉，是游戏《明日方舟》及其衍生作品的登场角色。<br><br>②奥萝拉，《想要成为影之实力者》中登场的角色。被称为灾厄的魔女。<br>![](https://lain.bgm.tv/pic/crt/l/3d/04/122227_crt_8n28F.jpg?r=1675247831&_gl=1*18cm8av*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NzAwJGo1MCRsMCRoMA).. | [萌娘百科](https://zh.moegirl.org.cn/极光%28明日方舟%29) |
+| aurora | 极光 \| 奥萝拉 | ①极光，本名洛拉，是游戏《明日方舟》及其衍生作品的登场角色。<br><br>②奥萝拉，《想要成为影之实力者》中登场的角色。被称为灾厄的魔女。<br>![](https://lain.bgm.tv/pic/crt/l/3d/04/122227_crt_8n28F.jpg?r=1675247831&_gl=1*18cm8av*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NzAwJGo1MCRsMCRoMA) | [萌娘百科](https://zh.moegirl.org.cn/极光%28明日方舟%29) |
 | evelyn chevalier | 伊芙琳·舒瓦利耶 | 伊芙琳·舒瓦利耶是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊芙琳·舒瓦利耶) |
 | aisha greyrat | 爱夏·格雷拉特 |  | [萌娘百科](https://zh.moegirl.org.cn/爱夏·格雷拉特) |
 | ariel anemoi asura | 爱丽儿·阿涅摩伊·阿斯拉 |  | [萌娘百科](https://zh.moegirl.org.cn/爱丽儿·阿涅摩伊·阿斯拉) |
