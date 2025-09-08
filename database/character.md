@@ -5639,7 +5639,7 @@ example:
 | yulha | 尤尔夏 | ![尤尔夏立绘](https://static.dotgg.gg/nikke/characters/c171_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：泰特拉<br>尤尔夏是中央政府的妮姬部队「三角部队」的领导者。<br>中央政府直属的三角部队活动范围比其他部队更广，因此审批的流程也更加复杂，这项工作由尤尔夏全权负责。<br>她非常珍惜、重视三角部队。她的所有工作都是为了更全面保护三角部队。她的办公和战斗能力都非常出色，但是性格比较苛刻。<br>她被某些人称呼为「鬼」，但其实最害怕鬼的就是她自己。<br>对恐惧的忍耐度也很低。 | [Gamekee](https://www.gamekee.com/nikke/170841.html) [DotGG](https://dotgg.gg/nikke/characters/yulha) |
 | jackal | 豺狼 | ![豺狼立绘](https://static.dotgg.gg/nikke/characters/c111_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>隶属于外来者部队的妮姬。<br>是克拉乌忠实的狗。<br>只要克拉乌一声令下，她就会随时冲锋向前，撕咬一切。 | [Gamekee](https://www.gamekee.com/nikke/580711.html) [DotGG](https://dotgg.gg/nikke/characters/jackal) |
 | laplace | 拉普拉斯 | ![拉普拉斯立绘](https://static.dotgg.gg/nikke/characters/c100_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：米西利斯<br>米西利斯最强部队墨提斯的队长。<br>自诣为方舟英雄，也拥有名副其实的力量。 | [Gamekee](https://www.gamekee.com/nikke/576409.html) [DotGG](https://dotgg.gg/nikke/characters/laplace) |
-| modernia | 神罚 | ![神罚立绘](https://static.dotgg.gg/nikke/characters/c260_00.png)<br>《胜利女神：妮姬》游戏人物，隶属企业：朝圣者<br>单纯和蔼的人类叛徒。<br>被誉为女王精锐的异端者之一。 | [Gamekee](https://www.gamekee.com/nikke/576623.html) [DotGG](https://dotgg.gg/nikke/characters/modernia) |
+| modernia | 神罚 | ![神罚立绘](https://static.dotgg.gg/nikke/characters/c260_00.png)<br>所属作品`p:goddess of victory nikke`<br>隶属企业：朝圣者<br>单纯和蔼的人类叛徒。<br>被誉为女王精锐的异端者之一。 | [Gamekee](https://www.gamekee.com/nikke/576623.html) [DotGG](https://dotgg.gg/nikke/characters/modernia) |
 | china kuramoto | 仓本千奈 |  | [萌娘百科](https://zh.moegirl.org.cn/仓本千奈) |
 | daitou | 大东 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大东) |
 | ukuru | 鹈来 |  |  |
