@@ -1699,7 +1699,7 @@ example:
 | saber tiger | 剑齿虎 |  |  |
 | japanese crested ibis | 朱鹮 |  |  |
 |  | ▼ 缘之空 |  |  |
-| sora kasugano | 春日野穹 |  |  |
+| sora kasugano | 春日野穹 | 《缘之空》中登场的女性角色。 |  |
 | haruka kasugano | 春日野悠 |  |  |
 |  | ▼ 电锯甜心 |  |  |
 | juliet starling | 朱丽叶·斯塔林 |  |  |
