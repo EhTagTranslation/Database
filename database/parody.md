@@ -1479,7 +1479,7 @@ example:
 | hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/一个人的OO小日子) (\*\*) |
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/恋爱小行星) (\*\*) |
 | koi wa ameagari no you ni | 恋如雨止 |  |  |
-| kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。 | [萌娘百科](https://zh.moegirl.org.cn/租借女友) (\*\*) |
+| kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。<br>![](https://img.moegirl.org.cn/common/thumb/0/03/Kanojo_okarishimasu_01.jpg/150px-Kanojo_okarishimasu_01.jpg) | [萌娘百科](https://zh.moegirl.org.cn/租借女友) |
 | 15 bishoujo hyouryuuki | 15美少女漂流记 |  |  |
 | ore no natsuyasumi | 我的暑假 | 《我的暑假》（日语：ぼくのなつやすみ）是2000年6月22日由索尼电脑娱乐发售的PlayStation平台专用游戏。制作公司为Millennium Kitchen。约1年后的2001年6月14日推出廉价版的PlayStation the Best版。 | [维基百科](https://zh.wikipedia.org/wiki/我的暑假) |
 | shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru | 这个勇者明明超强却过分慎重 | 《这个勇者明明超强却过分慎重》（日语：この勇者が俺TUEEEくせに慎重すぎる）是一部由日本作家土日月所创作的小说，插画由丰田琐织负责。标题里面俺TUEEE是日本网络用语，直译为“我超强”，可专指主角实力强劲大杀四方的一类作品，相当于中文网络中的“龙傲天”。 | [维基百科](https://zh.wikipedia.org/wiki/這個勇者明明超TUEEE卻過度謹慎) |
