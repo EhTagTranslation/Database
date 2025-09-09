@@ -6703,6 +6703,7 @@ example:
 | vermouth | 贝尔摩得（苦艾酒） | 日本漫画《名侦探柯南》及其衍生作品中的女性角色。黑衣组织的骨干成员，表面身份是美国女明星莎朗·温亚德。因某种原因恢复年轻或停止衰老，在莎朗·温亚德“死”后，对外宣称自己是“莎朗的女儿”克丽丝·温亚德。<br>![](https://i.pixiv.cat/img-master/img/2023/07/22/00/06/30/110119506_p0_master1200.jpg) |  |
 | kiyotaka ayanokouji | 绫小路清隆 |  |  |
 | touka kirishima | 霧嶋董香 | 日本漫画《东京食尸鬼》及其衍生作品中的女主角，金木研的妻子。咖啡店“古董”的服务员，同时也是20区食尸鬼中的一员。 |  |
+| mini yaemori | 八重森弥妮 | 所属作品：`p:kanojo okarishimasu`<br>![](https://img.moegirl.org.cn/common/2/24/Yaemori_Mini.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八重森弥妮) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
