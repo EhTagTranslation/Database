@@ -2561,7 +2561,7 @@ example:
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 |  |  |
 | ayane | 绫音 |  |  |
-| mai shiranui | 不知火舞 |  |  |
+| mai shiranui | 不知火舞 | 格斗游戏《饿狼传说》中的角色。 |  |
 | naotora ii | 井伊直虎 |  |  |
 | lu lingqi | 吕玲绮 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhurong | 祝融 |  |  |
