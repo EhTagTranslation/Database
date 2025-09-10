@@ -5017,7 +5017,7 @@ example:
 | kozue otomune | 乙宗梢 | 乙宗梢（日语：乙宗 梢，罗马字：Otomune Kozue）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![乙宗梢](https://img.moegirl.org.cn/common/thumb/9/9f/Kozue_img.png/280px-Kozue_img.png) | [萌娘百科](https://zh.moegirl.org.cn/乙宗梢) [Fandom](https://love-live.fandom.com/wiki/Kozue_Otomune) |
 | tsuzuri yugiri | 夕雾缀理 | 夕雾缀理（日语：夕霧 綴理，罗马字：Yugiri Tsuzuri）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![夕雾缀理](https://img.moegirl.org.cn/common/thumb/3/36/Tsuzuri_img.png/280px-Tsuzuri_img.png) | [萌娘百科](https://zh.moegirl.org.cn/夕雾缀理) [Fandom](https://love-live.fandom.com/wiki/Tsuzuri_Yugiri) |
 | futari gotou | 后藤二里 | 后藤二里（日语：後藤（ごとう）ふたり）是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品的登场角色。<br><br>后藤一里的妹妹，现年5岁，性格比姐姐要开朗许多。<br><br>她身穿连衣裙，头发两侧分布着两根呆毛（后藤一里则只有一根），且没有佩戴与姐姐一里相似的发饰。<br><br>喜多郁代认为她与姐姐的关系非常好。 | [萌娘百科](https://zh.moegirl.org.cn/后藤二里) |
-| frostleaf | 霜叶 |  |  |
+| frostleaf | 霜叶 | ![](https://patchwiki.biligame.com/images/arknights/9/9c/hl8nwdein1ouhgbayr4drtpn28h74fe.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/霜叶) |
 | highmore | 海沫 | ![](https://patchwiki.biligame.com/images/arknights/c/c4/gazwijgly287w2ciufsvgfttu4e6ycc.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/海沫) |
 | mei misaki | 见崎鸣 |  |  |
 | kenma kozume | 孤爪研磨 |  | [萌娘百科](https://zh.moegirl.org.cn/孤爪研磨) |
