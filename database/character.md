@@ -3861,7 +3861,7 @@ example:
 | loid forger | 劳埃德·福杰 | 《间谍过家家》主角。在东国从事谍报活动的西国顶尖间谍，代号〈黄昏〉，为了成为间谍已经舍弃自己的本名，现在使用伯林特综合医院精神科医生“劳埃德·福杰”的身份活动着 | [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
 | anna yamada | 山田杏奈 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | kyoutarou ichikawa | 市川京太郎 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
-| pramanix | 初雪 | 所属作品 `p:arknights`<br>![图](https://ehgt.org/f8/f5/f8f5cd23e8d5b2aee01e5e964263a59d6ee7f455-821988-1440-1010-jpg_l.jpg) | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
+| pramanix | 初雪 | ![](https://patchwiki.biligame.com/images/arknights/7/72/f6cnedmrg2wji26n88u8cyx4hmmbs73.png)<br>所属作品`p:arknights` | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
 | medaka kurokami | 黑神目泷 |  |  |
 | miss crane | 鹤小姐 |  |  |
 | mordred | 莫德雷德 |  |  |
