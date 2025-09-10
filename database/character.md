@@ -3933,7 +3933,7 @@ example:
 | hinaki shinjou | 新条雏姬 | ![](https://img.moegirl.org.cn/common/7/7a/20170704221330_NhG3W.thumb.700_0.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/新条雏姬) |
 | madoka amahane | 天羽圆香 | ![](https://img.moegirl.org.cn/common/8/8d/20170531211501_srT8A.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/天羽圆香) |
 | hime shiratori | 白鸟姬 | ![](https://img.moegirl.org.cn/common/7/7b/白鸟姬.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/白鸟姬) |
-| sussurro | 苏苏洛 | 《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
+| sussurro | 苏苏洛 | ![](https://patchwiki.biligame.com/images/arknights/a/ab/gw1b83bjk7wpktet0jkvozuy7ir3p0o.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
 | alice tendou | 天童爱丽丝 | 所属作品：`p:blue archive`<br>隶属千年学园游戏开发部的成员。<br>在废墟发现的来历不明的少女。包含年龄在内，所有情报都无法推断。现在跟着绿和桃井玩游戏，已经变成重度游戏狂热者了。<br>![](https://patchwiki.biligame.com/images/ba/e/ef/0tb6g9wy2xbvpumygpbecd77dw09qvg.png) | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
 | hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
 | chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |  |
