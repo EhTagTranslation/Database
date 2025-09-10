@@ -6704,7 +6704,7 @@ example:
 | kiyotaka ayanokouji | 绫小路清隆 |  |  |
 | touka kirishima | 霧嶋董香 | 日本漫画《东京食尸鬼》及其衍生作品中的女主角，金木研的妻子。咖啡店“古董”的服务员，同时也是20区食尸鬼中的一员。 |  |
 | mini yaemori | 八重森弥妮 | 所属作品：`p:kanojo okarishimasu`<br>练马大学的一年级生，是和也等人的学妹。<br>住在公寓202室，是和也和千鹤的邻居。<br>![](https://img.moegirl.org.cn/common/2/24/Yaemori_Mini.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八重森弥妮) |
-| angelina | 安洁莉娜 | 所属作品`p:arknights`<br>![](https://patchwiki.biligame.com/images/arknights/5/58/4vnpib96s7alnroirjfv8uh47ies0i6.png) | [BILIGAME WIKI](https://wiki.biligame.com/arknights/安洁莉娜) |
+| angelina | 安洁莉娜 | 注意，明日方舟中的安洁莉娜请使用tag安心院安洁莉娜（ `angelina ajimu`） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
