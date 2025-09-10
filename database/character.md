@@ -3203,7 +3203,7 @@ example:
 | chocola | 巧克力 | 所属作品：`p:nekopara`<br><br>![](https://p.sda1.dev/6/6536b805c0dfba1fbc83478a070fcad5/Ch_cho_img_01_1_.png) | [萌娘百科](https://zh.moegirl.org.cn/巧克力%28NEKO_WORKs%29) |
 | cinnamon | 桂 |  | [萌娘百科](https://zh.moegirl.org.cn/桂%28NEKO_WORKs%29) |
 | coconut | 椰子 |  | [萌娘百科](https://zh.moegirl.org.cn/椰子%28NEKO_WORKs%29) |
-| vanilla | 香草 \| 香子兰 | ①又译作香子兰<br><br>②<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
+| vanilla | 香草 \| 香子兰 | ①香子兰<br><br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
 | shinku nikaidou | 二阶堂真红 |  | [萌娘百科](https://zh.moegirl.org.cn/二阶堂真红) |
 | shiori kashiwazaki | 柏崎栞 | 本名柏崎栞（kān），虎之兽人，是初音的妹妹，本属于自卫团，跟铃一样也是被派往伊丽莎白牧场驻守的成员。 | [萌娘百科](https://zh.moegirl.org.cn/柏崎栞) |
 | link | 林克 |  | [萌娘百科](https://zh.moegirl.org.cn/林克) |
