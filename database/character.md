@@ -3299,7 +3299,7 @@ example:
 | yuuta hibiki | 响裕太 |  |  |
 | emma | 艾玛/永真 | 《约定的梦幻岛》主角三人组——女主角<br><br>也可指游戏`p:sekiro shadows die twice`中的女角色 |  |
 | norman | 诺曼 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
-| ray | 莱伊 | 明日方舟六星猎手 | [https://prts.wiki/w/莱伊](https://prts.wiki/w/莱伊) |
+| ray | 莱伊 | ![](https://patchwiki.biligame.com/images/arknights/e/ee/3apd8mqwuk4thj206005ze201j4hnaq.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/莱伊](https://prts.wiki/w/莱伊) |
 | gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | nat | 奈特 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | anna | 安娜 | 《约定的梦幻岛》主角孩子团中之一 |  |
