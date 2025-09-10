@@ -6495,7 +6495,7 @@ example:
 | lilith | 莉莉丝 |  |  |
 | ryoshu | 良秀 | 良秀（Ryoshu）是《邊獄巴士公司》及其衍生作品的登場角色。原型來源小說《地獄變》 | [萌娘百科](https://zh.moegirl.org.cn/良秀)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/良秀) |
 | arisa | 亚里沙 | 游戏《影之诗》中的角色，为妖精职业的主战者 |  |
-| irene | 艾丽妮 | 艾丽妮是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾丽妮) |
+| irene | 艾丽妮 | ![](https://patchwiki.biligame.com/images/arknights/e/ef/8qf332utfjtf188ga5dxl7p2yj9gihg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/艾丽妮) |
 | feri al-fayed | 菲莉·阿尔法德 |  | [萌娘百科](https://zh.moegirl.org.cn/菲莉·阿尔法德) |
 | mirabel aalton | 米拉贝尔·亚尔顿 |  | [https://trails-game.com/character/mirabel-aalton/](https://trails-game.com/character/mirabel-aalton/) |
 | justine | 芮丝汀娜 |  | [萌娘百科](https://zh.moegirl.org.cn/芮丝汀娜) |
