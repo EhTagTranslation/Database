@@ -1898,7 +1898,7 @@ example:
 | touko aozaki | 苍崎橙子 |  |  |
 | leysritt | 莉洁莉特 |  |  |
 | chevalier deon | 迪昂·德·鲍蒙 | 游戏`fate grand order`中的登场角色。<br>![图](https://ehgt.org/46/98/4698da9d1a0dce485b5b5785508b77aa9ffe20bd-2351235-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/骑士迪昂) [萌娘百科](https://zh.moegirl.org.cn/迪昂·德·鲍蒙%28Fate%29#) |
-| nightingale | 南丁格尔 \| 夜莺 | `fate grand order` 南丁格尔<br>![图](https://ehgt.org/fa/0a/fa0a567afa715d23b3aaaa5687124b0f39baf819-1033365-1024-1456-png_l.jpg)<br>`arknights` 夜莺<br>![图](https://ehgt.org/7f/8a/7f8a2ec8347868057f49dafb9c94310c4cdb807d-137029-847-847-jpg_l.jpg) | [南丁格尔 - 萌娘百科](https://zh.moegirl.org.cn/南丁格尔%28Fate%29#)<br>[夜莺 - 萌娘百科](https://zh.moegirl.org.cn/明日方舟:夜莺) |
+| nightingale | 南丁格尔 \| 夜莺 | `fate grand order` 南丁格尔<br>![图](https://ehgt.org/fa/0a/fa0a567afa715d23b3aaaa5687124b0f39baf819-1033365-1024-1456-png_l.jpg)<br>`arknights` 夜莺<br>![](https://patchwiki.biligame.com/images/arknights/0/04/hzvmchmbrnknz6ub6uaovho5w1u3ck9.png) | [南丁格尔 - 萌娘百科](https://zh.moegirl.org.cn/南丁格尔%28Fate%29#)<br>[夜莺 - 萌娘百科](https://zh.moegirl.org.cn/明日方舟:夜莺) |
 | cornelius alba | 科尼利厄斯·阿鲁巴 |  |  |
 | arcueid brunestud | 爱尔奎特·布伦史塔德 |  |  |
 | ciel | 希耶尔 |  |  |
