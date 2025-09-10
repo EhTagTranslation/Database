@@ -5120,7 +5120,7 @@ example:
 | chiori | 千织 | ![](https://patchwiki.biligame.com/images/ys/6/6b/i4gqk9xqqpngo5z2yph372obd25qhju.png)<br>千织是米哈游研发的游戏`p:genshin impact`及其衍生作品的登场角色。<br>「千织屋」的老板。枫丹著名服装设计师。 | [萌娘百科](https://zh.moegirl.org.cn/千织) |
 | shuro yabuki | 箭吹棕榈 | 所属作品：`p:blue archive`<br>棕榈的光环呈品红色环状外加三个类似“筋斗云”环绕在其周边。<br>处于劣势时会骂骂咧咧或者撒娇痛哭。<br>![](https://img.moegirl.org.cn/common/1/14/BA_Shuro.png) | [萌娘百科](https://zh.moegirl.org.cn/箭吹棕榈) |
 | blade | 刃 | 刃是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刃) |
-| astesia | 星极 | 星极是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星极) |
+| astesia | 星极 | ![](https://patchwiki.biligame.com/images/arknights/4/49/3mntei671ohkjsr8qxk7ylmbzzjy1ya.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/星极) |
 | ichika nakamasa | 仲正一花 | 所属作品：`p:blue archive`<br>总是挂着温和表情的三一综合学园所属，正义实现委员会的一员。<br>![](https://img.moegirl.org.cn/common/5/56/BA_Ichika.png)<br>![](https://img.moegirl.org.cn/common/e/ec/BA_Ichika_Swimsuit.png) | [萌娘百科](https://zh.moegirl.org.cn/仲正一花) |
 | nodoka amami | 天见和香 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，目前停学，被禁闭在旧校舍的227特别班。<br>![](https://patchwiki.biligame.com/images/ba/7/71/bw2hsp5agnruk5c1f2wqjsy6hyo7x3r.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4d/cy9z3uf36303j8768ztf47hq1w2elo7.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Nodoka) |
 | shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
