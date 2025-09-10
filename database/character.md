@@ -4039,7 +4039,7 @@ example:
 | eyjafjalla | 艾雅法拉 | ![](https://patchwiki.biligame.com/images/arknights/3/3f/njtitr32ddhb6obtqk8eulr48eu9qsf.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:艾雅法拉) |
 | deepcolor | 深海色 | ![](https://patchwiki.biligame.com/images/arknights/2/2f/0d1a68crct7mi1rfm846tgg5mz6tam0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:深海色) |
 | ayerscarpe | 断崖 | ![](https://patchwiki.biligame.com/images/arknights/8/8f/emjpndm5o3cgo3xtxflihfqr4fr7vn4.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:断崖) |
-| leonhardt | 莱恩哈特 | 莱恩哈特是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:莱恩哈特) |
+| leonhardt | 莱恩哈特 | ![](https://patchwiki.biligame.com/images/arknights/3/30/ccdz1w59os54ingnrxg6zn1h90zyhqk.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:莱恩哈特) |
 | asbestos | 石棉 | ![](https://patchwiki.biligame.com/images/arknights/c/c0/epp35m9ltb3nu6i5us9rfinyizgwqk7.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:石棉) |
 | magallan | 麦哲伦 | ![](https://patchwiki.biligame.com/images/arknights/a/a3/lzymuvalofllrt18xonstc4ygld7hpc.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:麦哲伦) |
 | podenco | 波登可 | ![](https://patchwiki.biligame.com/images/arknights/f/ff/i4xqtyidmj8v07qjsg9ypi0sdps0tqq.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:波登可) |
