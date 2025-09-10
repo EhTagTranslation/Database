@@ -5242,7 +5242,7 @@ example:
 | shinobu kudo | 工藤忍 |  |  |
 | gwen | 格温 |  |  |
 | princess bubblegum | 泡泡糖公主 |  | [维基百科](https://zh.wikipedia.org/wiki/泡泡糖公主) |
-| plume | 翎羽 | 出自游戏《明日方舟》 | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
+| plume | 翎羽 | ![](https://patchwiki.biligame.com/images/arknights/6/67/7ukxywn197qwschcvw1dxyje2askzj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
 | catapult | 空爆 | ![](https://patchwiki.biligame.com/images/arknights/7/78/k85gb6yi1jna21d0p7whxz5vvnqojt4.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/空爆) |
 | makoto tachibana | 橘真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/橘真琴) |
 | lisa simpson | 莉萨·辛普森 |  | [维基百科](https://zh.wikipedia.org/wiki/莉萨·辛普森) |
