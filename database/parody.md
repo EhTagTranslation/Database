@@ -1407,7 +1407,7 @@ example:
 | silent mobius | 魔法阵都市 | 《魔法阵都市》（日语：サイレントメビウス，英语：Silent Möbius）是日本漫画家麻宫骑亚在《月刊Comic Comp》（角川书店刊）从1988年开始连载 （途中移籍《月刊Comic Dragon》）的一部科幻漫画。 | [维基百科](https://zh.wikipedia.org/wiki/魔法陣都市) (\*) |
 | sora wo kakeru shoujo | 穿越宇宙的少女 | 《穿越宇宙的少女》（日语：宇宙をかける少女）是从2009年1月5日至6月29日开始在东京电视台播放的科幻电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/穿越宇宙的少女) (\*) |
 | cevio | CeVIO | CeVIO Creative Studio，是由名古屋工业大学初创企业Techno-Speech、电子看板制作公司V-SYNC以及动画制作公司Frontier Works等数家企业作为其所组成的专案，CeVIO，的其中一环而开发的语音合成软件。输入音符、文字后便可发出类似于人类歌唱、说话的声音。同类软件有如VOCALOID、UTAU，但CeVIO Creative Studio除了有"唱歌"的功能外，还有可模拟人声"说话"的功能。 | [维基百科](https://zh.wikipedia.org/wiki/CeVIO_Creative_Studio) (\*) |
-| gotoubun no hanayome | 五等分的新娘 | ![](https://img.moegirl.org.cn/common/0/07/Weekly_Shonen_Magazine_2020_Vol12.jpg)<br>《五等分的新娘》（日语：五等分の花嫁）是由日本漫画家春场葱所创作的少年漫画作品。于《周刊少年Magazine》2017年第36・37合并号开始正式连载中。 | [维基百科](https://zh.wikipedia.org/wiki/五等分的新娘) |
+| gotoubun no hanayome | 五等分的新娘 | ![](https://img.moegirl.org.cn/common/0/07/Weekly_Shonen_Magazine_2020_Vol12.jpg)<br>《五等分的新娘》（日语：五等分の花嫁）是由日本漫画家春场葱所创作的少年漫画作品。<br>于《周刊少年Magazine》2017年第36・37合并号开始正式连载中。 | [维基百科](https://zh.wikipedia.org/wiki/五等分的新娘) |
 | pan de peace | 面包带来和平 | 《面包带来和平》（日语：パンでPeace!），是由emily所作的日本四格漫画作品。于2014年8月27日开始发表于《月刊Comic Alive》中的一个四格漫画栏目《COMIC CUNE》。已出版全5册单行本。已于2016年4月至6月播放全13话电视动画。该作品主要描述本作女主角谷南喜欢吃面包，到学校后也和同班同学一起享用面包的故事。 | [维基百科](https://zh.wikipedia.org/wiki/麵包與和平！) (\*) |
 | borderlands | 无主之地 | 《无主之地》（英语：Borderlands，台湾译作“边缘禁地”，又译作“边境之地”）是一款带有第一人称射击成分的角色扮演科幻游戏。游戏由Gearbox软件公司开发，由2K Games在Microsoft Windows、Mac、Xbox 360和PlayStation 3上发行。 | [维基百科](https://zh.wikipedia.org/wiki/无主之地) (\*) |
 | usagi-chan de cue | 天生兔女郎 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Usagi-chan_de_Cue!!) (\*) |
