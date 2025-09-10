@@ -3255,7 +3255,7 @@ example:
 | rangiku matsumoto | 松本乱菊 | 松本乱菊（日语：松本 乱菊（まつもと らんぎく）；罗马拼音：Matsumoto Rangiku）是由久保带人所创作漫画《BLEACH》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/松本乱菊) |
 | shining | 闪灵 | ![闪灵](https://img.moegirl.org.cn/common/4/47/明日方舟立绘_闪灵_1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:闪灵) |
 | jill valentine | 吉尔·瓦伦蒂安 | 电子游戏《生化危机》系列的女主角之一，曾在《生化危机1》《生化危机3》《生化危机 启示录》担任主角。 | [吉尔·瓦伦蒂安][维基百科](https://zh.wikipedia.org/wiki/吉兒·范倫廷) |
-| exusiai | 能天使 | 手游《明日方舟》干员能天使。<br>![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
+| exusiai | 能天使 | ![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 |  |  |
 | mdr | MDR \| 卡萝 | MDR是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》（英：Girls' Frontline）及其衍生作品的登场角色。于2018.3.22加入游戏。`p:girls frontline`<br>![](https://www.gfwiki.org/images/7/72/Pic_MDR_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/8/83/Kuro_base2.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:MDR)<br>[少前百科GFwiki](https://gfwiki.org/w/MDR)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/卡萝) |
