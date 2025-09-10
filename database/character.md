@@ -4045,7 +4045,7 @@ example:
 | podenco | 波登可 | 波登可是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:波登可) |
 | kroos | 克洛丝 | 克洛丝是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:克洛丝) |
 | gavial | 嘉维尔 | 嘉维尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嘉维尔) |
-| vigna | 红豆 | 红豆是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红豆) |
+| vigna | 红豆 | ![](https://patchwiki.biligame.com/images/arknights/1/1e/et1lvbxzxpgyh8xqklf21f5mnl0ptzg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红豆) |
 | glaucus | 格劳克斯 | 格劳克斯是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格劳克斯) |
 | vermeil | 红云 \| 维尔梅 | 红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。<br><br>维尔梅（日语：ヴェルメイ；英语：Vermeil）是漫画作品《金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～》及其衍生作品中的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红云) [萌娘百科](https://zh.moegirl.org.cn/维尔梅) |
 | ansel | 安赛尔 | 安赛尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安赛尔) |
