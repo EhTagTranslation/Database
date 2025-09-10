@@ -4028,7 +4028,7 @@ example:
 | perfumer | 调香师 | ![](https://patchwiki.biligame.com/images/arknights/7/7b/o4i6506tyq6bg5p6axbrj2k7p89a6ih.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:调香师) |
 | grani | 格拉尼 | ![](https://patchwiki.biligame.com/images/arknights/5/54/axtmllmpcnf7fp6g9id6r5z3q7dqtza.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格拉尼) |
 | angelina ajimu | 安心院安洁莉娜 | 安洁莉娜（日语：安心院（あじむ）アンジェリーナ）是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安洁莉娜) |
-| ceobe | 刻俄柏 | 刻俄柏是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:刻俄柏) |
+| ceobe | 刻俄柏 | ![](https://patchwiki.biligame.com/images/arknights/3/3a/sa15ps9jtzecirlvr5d3ducc608sdyg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:刻俄柏) |
 | franka | 芙兰卡 | 芙兰卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:芙兰卡) |
 | liskarm | 雷蛇 | ![](https://patchwiki.biligame.com/images/arknights/2/26/gi7eptmxi8t7n1vf381vwfk8ar2gctt.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:雷蛇) |
 | blaze | 煌 | ![](https://patchwiki.biligame.com/images/arknights/5/57/3e9cwu4tcbfzbw2qgwugmu557hnshny.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
