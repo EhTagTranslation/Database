@@ -4930,7 +4930,7 @@ example:
 | frieren | 芙莉莲 | `p:sousou no frieren`的女主角，打倒了魔王的勇者一行人中的精灵族魔法使，人类族大魔法使伏拉梅的徒弟。其外貌主要特征是绑成双马尾的银色长发和蓝色双眼，精灵族特有的尖耳和白皙的肤色。 | [萌娘百科](https://zh.moegirl.org.cn/芙莉莲) [漫画官网角色介绍](https://websunday.net/work/708) |
 | joshua bright | 约修亚·布莱特 | ![](https://cdn.trails-game.com/wp-content/uploads/2021/06/Joshua_fc.png) | [萌娘百科](https://zh.moegirl.org.cn/约修亚·布莱特)<br>[轨迹系列 – Cafe](https://trails-game.com/character/joshua-bright/) |
 | courier | 讯使 | ![](https://patchwiki.biligame.com/images/arknights/5/58/m6ey2y214mfpsr6duv3fivzs5lzxcur.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:讯使) |
-| thorns | 棘刺 | 棘刺是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:棘刺) |
+| thorns | 棘刺 | ![](https://patchwiki.biligame.com/images/arknights/1/1c/idu9svvs99crsmkajsihry4wfvnhkxu.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:棘刺) |
 | issei hyoudou | 兵藤一诚 | 《恶魔高校D×D》及其衍生作品中的男主角 | [萌娘百科](https://zh.moegirl.org.cn/兵藤一诚) |
 | chizuru shiina | 椎名千鹤 | 椎名 千鶴(しいな ちづる)<br>曲がったことが大嫌いな優等生。<br>優しくてカッコいい月野に恋をしている。 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html)<br>[ACDB WIKI](https://www.animecharactersdatabase.com/characters.php?id=115351) |
 | miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
