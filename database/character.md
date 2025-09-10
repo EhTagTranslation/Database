@@ -6300,7 +6300,7 @@ example:
 | beta | 贝塔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第二席。银白色头发和蓝色眼睛的精灵。对暗影抱持敬畏之心，每次事件都会撰写进自己的英雄谭「暗影大人战记」。<br>![](https://lain.bgm.tv/pic/crt/l/55/2c/103289_crt_Z99Nh.jpg?r=1675248363&_gl=1*9lvaqs*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NTk1JGo3JGwwJGgw) | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Beta) |
 | sophie neuenmuller | 苏菲·诺伊恩缪拉 | ![](https://img.moegirl.org.cn/common/thumb/d/dc/苏菲·诺伊恩缪拉.png/375px-苏菲·诺伊恩缪拉.png)<br>《苏菲的炼金工房 ～不可思议书的炼金术士～》，《苏菲的炼金工房2 ～不可思议梦的炼金术士～》的主人公<br><br>居住在基尔亨·贝尔郊区，经营炼金工房的少女。 | [萌娘百科](https://zh.moegirl.org.cn/苏菲·诺伊恩缪拉) [Fandom](https://atelier.fandom.com/wiki/Sophie_Neuenmuller) |
 | orie takadate | 高楯欧丽叶 | 所属作品: `p:tenshi souzou re-boot` |  |
-| mint | 薄绿 | 薄绿是游戏《明日方舟》及其衍生作品的登场角色。 |  |
+| mint | 薄绿 | 所属作品`p:arknights`<br>![](https://patchwiki.biligame.com/images/arknights/4/40/q10fdkp78xgsf8s8rdihzexhbbrsxpy.png) | [BILIGAME WIKI](https://wiki.biligame.com/arknights/薄绿) |
 | almond eye | 杏目 |  |  |
 | maya yotsuba | 四叶真夜 |  |  |
 | suzune amano | 天乃铃音 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/天乃铃音) |
