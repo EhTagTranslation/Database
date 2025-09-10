@@ -4027,7 +4027,7 @@ example:
 | melantha | 玫兰莎 | ![](https://patchwiki.biligame.com/images/arknights/2/2f/nw8fhlhymsuukgjegs0y54mnotzs6gc.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:玫兰莎) |
 | perfumer | 调香师 | ![](https://patchwiki.biligame.com/images/arknights/7/7b/o4i6506tyq6bg5p6axbrj2k7p89a6ih.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:调香师) |
 | grani | 格拉尼 | ![](https://patchwiki.biligame.com/images/arknights/5/54/axtmllmpcnf7fp6g9id6r5z3q7dqtza.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格拉尼) |
-| angelina ajimu | 安心院安洁莉娜 | 安洁莉娜（日语：安心院（あじむ）アンジェリーナ）是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安洁莉娜) |
+| angelina ajimu | 安心院安洁莉娜 | 所属作品`p:arknights`<br>![](https://patchwiki.biligame.com/images/arknights/5/58/4vnpib96s7alnroirjfv8uh47ies0i6.png) | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安洁莉娜) |
 | ceobe | 刻俄柏 | ![](https://patchwiki.biligame.com/images/arknights/3/3a/sa15ps9jtzecirlvr5d3ducc608sdyg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:刻俄柏) |
 | franka | 芙兰卡 | ![](https://patchwiki.biligame.com/images/arknights/e/ec/1iveo6aw2nfhmrof43nzmzezllfsb4i.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:芙兰卡) |
 | liskarm | 雷蛇 | ![](https://patchwiki.biligame.com/images/arknights/2/26/gi7eptmxi8t7n1vf381vwfk8ar2gctt.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:雷蛇) |
