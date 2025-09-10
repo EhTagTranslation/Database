@@ -6041,7 +6041,7 @@ example:
 | sakura ritsuki | 樱凛月 |  |  |
 | natsumi kyouno | 镜野七罪 | ![](https://pic.cangku.moe/images/2025/09/04/1125K.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11PqT.webp)<br>约会大作战中的女角色 |  |
 | otogi | 音葵 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_805/h_1186/829/399789/2024/4/14/508341.png)SRT特殊学园FOX小队的狙击手，代号为FOX4。 | [Gamekee百科](https://www.gamekee.com/ba/591005.html) |
-| ein | 无 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_305/h_885/829/191981/2024/6/2/253483.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607316.html) |
+| ein | 无 \| 爱因 | ①所属作品 `goddess of victory nikke`<br>M.M.R. 附属高中的 1 年级在读学生，对时装设计很感兴趣。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737047/2025/3/17/150640.png)<br><br>②所属作品`p:blue archive`<br>神明十文字三人组之一。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_305/h_885/829/191981/2024/6/2/253483.png) | [Gamekee百科 蔚蓝档案](https://www.gamekee.com/ba/607316.html)<br>[Gamekee百科 妮姬](https://www.gamekee.com/nikke/tj/590070.html) |
 | ohr | 光 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_908/829/191981/2024/6/2/711028.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607318.html) |
 | sof | 限 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_381/h_893/829/191981/2024/6/2/334254.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607320.html) |
 | gamma | 伽马 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br>暗影庭院七阴的第三席。<br>![](https://lain.bgm.tv/pic/crt/l/a6/2b/106383_crt_333K3.jpg?r=1675248337&_gl=1*1jhrv5l*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NjA5JGo1NyRsMCRoMA).. |  |
