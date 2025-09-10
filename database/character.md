@@ -4051,7 +4051,7 @@ example:
 | ansel | 安赛尔 | 安赛尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安赛尔) |
 | ceylon | 锡兰 | ![](https://patchwiki.biligame.com/images/arknights/3/32/2zc97otjza7pa1fm2ezfajrga1jyhj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:锡兰) |
 | sicily von claude | 西希莉·冯·克洛德 | 西希莉·冯·克洛德是小说《贤者之孙》及其衍生作品漫画、动画等的登场角色。<br>![](https://s1.ax1x.com/2022/07/29/vPRIHO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西希莉·冯·克洛德) |
-| beeswax | 蜜蜡 | 蜜蜡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蜜蜡) |
+| beeswax | 蜜蜡 | ![](https://patchwiki.biligame.com/images/arknights/7/71/16j6qoxh8kq6arn7f69ns2ic6la77c0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蜜蜡) |
 | youtouhime | 妖刀姬 |  |  |
 | ivy valentine | 艾薇 |  |  |
 | taki | 多喜 |  |  |
