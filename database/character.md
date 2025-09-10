@@ -3712,7 +3712,7 @@ example:
 | nian | 年 | ![](https://patchwiki.biligame.com/images/arknights/5/50/7xgr7zle9tnw268a51ahemoz75s6nh5.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/年) |
 | soraka | 索拉卡 | 英雄联盟角色 |  |
 | doctor | 博士 | 博士是游戏《明日方舟》及其衍生作品中的人物，为玩家人称角色。 |  |
-| dusk | 夕 | 夕是手机游戏《明日方舟》中的六星术师职业扩散术师分支干员 |  |
+| dusk | 夕 | ![](https://patchwiki.biligame.com/images/arknights/3/38/528a5ouyame8vs5o6bgoino0a1djcim.png)<br>所属作品`p:arknights` |  |
 | sabrina | 娜姿 |  |  |
 | nagao kagetora | 长尾景虎 |  |  |
 | shirabe tsukuyomi | 月读调 | 月读调是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
