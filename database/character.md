@@ -4014,7 +4014,7 @@ example:
 | dobermann | 杜宾 | 杜宾 是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:杜宾) |
 | nearl | 临光 | 玛莉娅·临光（Maria Nearl，日：マリア·ニアール），为手游《明日方舟》的第十五次活动，活动类型为SideStory。国服于2020年10月15日开启并于2021年10月1日开启复刻，外服于2021年04月08日开启。<br>主线关卡《大竞技场》9关（其中教学关卡1关），另有剧情关卡3关；挑战关卡《钳兽牢笼》8关（包含突袭）。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟/玛莉娅·临光) |
 | blue poison | 蓝毒 | ![](https://patchwiki.biligame.com/images/arknights/e/ef/osbooiglt37po8dak9ty6dlvwectfxl.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蓝毒) |
-| skyfire | 天火 | 天火是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:天火) |
+| skyfire | 天火 | ![](https://patchwiki.biligame.com/images/arknights/7/7e/jbt4vpnap6m7u0jofydsiqs71pjitmr.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:天火) |
 | bison | 拜松 | 拜松是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拜松) |
 | croissant | 可颂 | 可颂是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:可颂) |
 | arcanine | 风速狗 |  | [萌娘百科](https://zh.moegirl.org.cn/风速狗) |
