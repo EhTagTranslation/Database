@@ -6404,7 +6404,7 @@ example:
 | pina asahina | 朝比奈菲娜 | 百鬼夜行联合学园所属，憧憬着任侠的少女。<br>![](https://patchwiki.biligame.com/images/ba/4/45/3eprles93avfrd77xofqksmf9pdn0q3.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Pina) |
 | princess | 公主 | 所属作品: `p:himesama goumon no jikan desu`<br>本作主角。本名不明。金发碧眼，头上还有一个小王冠。既是王女，又是国王军第三骑士团的团长。<br><br>所属作品: `p:7th dragon`<br>南海女神的后裔，她激励盟友并剥夺敌人的力量。擅长通过歌唱技巧提供支持，还可以用鞭子控制敌人。 | [第七龙神](https://w.atwiki.jp/7thdragon/pages/19.html) |
 | torture tortura | 绝顶之惨叫姬·折磨小姐 | 所属作品: `p:himesama goumon no jikan desu`<br><br>魔王军首席拷问官，妙龄女性恶魔，负责拷问公主来获得对魔王军有利的情报。 |  |
-| provence | 普罗旺斯 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/普罗旺斯) [Fandom](https://arknights.fandom.com/wiki/Provence) [BILIGAME WIKI](https://wiki.biligame.com/arknights/普罗旺斯) |
+| provence | 普罗旺斯 | ![](https://patchwiki.biligame.com/images/arknights/b/bf/cjn30ecfxtino5ccg0xaio61oj278am.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/普罗旺斯) [Fandom](https://arknights.fandom.com/wiki/Provence) [BILIGAME WIKI](https://wiki.biligame.com/arknights/普罗旺斯) |
 | zebstrika | 雷电斑马 |  |  |
 | dp-12 | DP-12 | 所属作品: `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:DP-12) |
 | ai mie | 三重爱 | 所属作品: `p:suki na ko ga megane wo wasureta` | [萌娘百科](https://zh.moegirl.org.cn/三重爱) |
