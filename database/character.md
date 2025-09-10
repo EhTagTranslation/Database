@@ -3846,7 +3846,7 @@ example:
 | belle | 贝儿 \| 铃 | 贝尔，出处：`beauty and the beast`<br><br>铃，游戏`p:zenless zone zero`女主角，和`c:wise`一同作为游戏开局可选的玩家角色，选择其中一人作为玩家角色则另一人将在剧情中担当NPC，不过部分场合下另一人也会暂时成为玩家操控角色。 | [萌娘百科](https://zh.moegirl.org.cn/铃%28绝区零%29) |
 | shun sunohara | 春原瞬 | 所属作品：`p:blue archive`<br>山海经高级中学所属，教育支援部「梅花园」的教官。<br>![](https://patchwiki.biligame.com/images/ba/b/b8/du7kzgk1axvp41zaqdv2mfze4e4egvd.png)<br>![](https://patchwiki.biligame.com/images/ba/2/20/aqnx7emd5vn28uygqfh5n2v0mcjj0qu.png) | [pixiv百科事典](https://dic.pixiv.net/a/春原シュン)<br>[Fandom](https://bluearchive.fandom.com/wiki/Sunohara_Shun)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Shun) |
 | surtr | 史尔特尔 | 明日方舟六星术战者 | [https://prts.wiki/w/史尔特尔](https://prts.wiki/w/史尔特尔) |
-| mostima | 莫斯提马 | 所属作品`p:arknights`<br>![](https://patchwiki.biligame.com/images/arknights/7/7c/djqqx01lhr0faf3yncor18p0ltwwbyt.png) | [BILIGAME WIKI](https://wiki.biligame.com/arknights/莫斯提马) |
+| mostima | 莫斯提马 | ![](https://patchwiki.biligame.com/images/arknights/7/7c/djqqx01lhr0faf3yncor18p0ltwwbyt.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/莫斯提马) |
 | tensai ikkyuu | 一级天灾 |  |  |
 | daruku hoshino | 星野达鲁克 |  |  |
 | nanana ryuugajou | 龙娘七七七 |  |  |
