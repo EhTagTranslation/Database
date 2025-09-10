@@ -4031,7 +4031,7 @@ example:
 | ceobe | 刻俄柏 | 刻俄柏是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:刻俄柏) |
 | franka | 芙兰卡 | 芙兰卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:芙兰卡) |
 | liskarm | 雷蛇 | 雷蛇是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:雷蛇) |
-| blaze | 煌 | 煌是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
+| blaze | 煌 | ![](https://patchwiki.biligame.com/images/arknights/5/57/3e9cwu4tcbfzbw2qgwugmu557hnshny.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
 | shamare | 巫恋 | 巫恋是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
 | popukar | 泡普卡 | 泡普卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:泡普卡) |
 | schwarz | 黑 | 黑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
