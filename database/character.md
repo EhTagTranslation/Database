@@ -4768,7 +4768,7 @@ example:
 | misuzu gundou | 群堂美铃 | parody:tomo-chan wa onnanoko<br><br>智和淳一郎的发小，上野水高中1年A班学生。沉着冷静，学业优秀，成绩一直在年级前几名。有非常毒舌的一面，经常对朋友提出辛辣的建议。和淳一郎水火不容。淳一郎初中时的女友，但交往三天就受不了淳一郎的过度健身约会而分手 |  |
 | minato senkawa | 千川凑 | 千川凑是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，绪山真寻的中学同学，和樱田悠太很要好。<br>对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，正在被椎名未祈默默关注着。<br>![千川凑](https://img.moegirl.org.cn/common/4/4e/别酱了_千川凑.png) | [萌娘百科](https://zh.moegirl.org.cn/千川凑) |
 | yuuta sakurada | 樱田悠太 | 樱田悠太是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，绪山真寻的中学同学，和千川凑很要好。<br>对绪山真寻有好感，经常因看向不该看的地方或者说错话而被高田纱月和椎名未祈围攻，是高田纱月的暗恋对象。<br>![樱田悠太](https://img.moegirl.org.cn/common/4/41/别酱了_樱田悠太.png) | [萌娘百科](https://zh.moegirl.org.cn/樱田悠太) |
-| saria | 塞雷娅 | 塞雷娅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:塞雷娅https://zh.moegirl.org.cn/明日方舟:塞雷娅)<br><br>[https://prts.wiki/w/塞雷娅](https://prts.wiki/w/塞雷娅) |
+| saria | 塞雷娅 | ![](https://patchwiki.biligame.com/images/arknights/7/7f/0lpn925j3fwmf5zuzbbeefs1qtikpid.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:塞雷娅https://zh.moegirl.org.cn/明日方舟:塞雷娅)<br><br>[https://prts.wiki/w/塞雷娅](https://prts.wiki/w/塞雷娅) |
 | saga | 嵯峨 | 嵯（Cuó）峨是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嵯峨)<br><br>[https://prts.wiki/w/嵯峨](https://prts.wiki/w/嵯峨) |
 | bagpipe | 风笛 | ![](https://patchwiki.biligame.com/images/arknights/2/2d/rm60fum35xvp1tlnwjtzy7mcczrmoce.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:风笛)<br><br>[https://prts.wiki/w/风笛](https://prts.wiki/w/风笛) |
 | hoolheyak | 霍尔海雅 | 霍尔海雅是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霍尔海雅)<br><br>[https://prts.wiki/w/霍尔海雅](https://prts.wiki/w/霍尔海雅) |
