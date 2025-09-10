@@ -5860,7 +5860,7 @@ example:
 | rogue amendiares | 罗格·阿曼迪亚斯 |  | [灰机wiki](https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯) |
 | piper wheel | 派派·韦尔 | 派派·韦尔是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/54/c1/54c1ccae125822d2cdac187cb36e29fc086e522d-3104460-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/派派·韦尔) |
 | mia fujikawa | 藤川美亚 |  |  |
-| vulpisfoglia | 忍冬 | 所属作品 `p:arknights` |  |
+| vulpisfoglia | 忍冬 | ![](https://patchwiki.biligame.com/images/arknights/0/08/9tb2htl7nser8me879yr0ghm8nrwzpy.png)<br>所属作品 `p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/忍冬) |
 | kirie kagarino | 篝之雾枝 |  |  |
 | rinami himesaki | 姫崎莉波 | ![](https://gakuen.idolmaster-official.jp/assets/img/idol/rinami/thumb.png) | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/rinami/) |
 | saya | 沙耶 | nitro+视觉小说游戏《沙耶之歌》女主角 |  |
