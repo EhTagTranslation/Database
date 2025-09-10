@@ -6616,7 +6616,7 @@ example:
 | nonoa miyamae | 宫前乃乃亚 | 轻小说《不时轻声地以俄语遮羞的邻座艾莉同学》及衍生作品中的角色。谷山沙也加的儿时玩伴。 |  |
 | miharu ayase | 绫濑美春 | 绫濑美春是北山结莉所创作的轻小说《精灵幻想记》及其衍生作品的登场角色。天川春人的青梅竹马，他一直到死前都对其怀抱着好感的少女。个性温柔，比起自己更在意重视的人。为人沉稳，处事内敛。 |  |
 | miuna shiodome | 潮留美海 | 潮留美海，日本动漫作品《来自风平浪静的明天》中的主要人物之一。身材娇小，黑色头发。性格较为沉静内敛，容易害羞，脸上的表情总是波澜不惊，内心其实很坚定。 |  |
-| ajisai sena | 濑名紫阳花 | 全身都散发着柔和气质的美少女，常常被玲奈子称作“天使”。身高是158公分。<br>经常代替工作中的父母照顾两个弟弟。很擅长料理。 |  |
+| ajisai sena | 濑名紫阳花 | ![](https://img.moegirl.org.cn/common/thumb/0/07/濑名紫阳花stand.png/300px-濑名紫阳花stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta`<br>全身都散发着柔和气质的美少女，常常被玲奈子称作“天使”。身高是158公分。<br>经常代替工作中的父母照顾两个弟弟。很擅长料理。 | [萌娘百科](https://zh.moegirl.org.cn/濑名紫阳花) |
 | renako amaori | 甘织玲奈子 | ![](https://img.moegirl.org.cn/common/thumb/4/47/甘织玲奈子stand.png/300px-甘织玲奈子stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta`<br>长相、头脑、运动能力都一般的女孩。身高是158公分。<br>原本过着孤独的国中生活，但在看到小学同学的SNS，得知原来的朋友过着充实的生活后，决定在高中改变。 | [萌娘百科](https://zh.moegirl.org.cn/甘织玲奈子) |
 | yuzu | 柊柚子 | 柊柚子/RAY是GALLOP制作的电视动画《游戏王ARC-V》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/柊柚子) |
 | panty anarchy | 潘迪 | 潘迪是GAINAX制作的动画《Panty & Stocking with Garterbelt》的登场角色。天使姊妹中的姐姐，性格为色气系的大小姐向。名字的意思是“内裤”。女王大人，开放纵欲，比起恶灵似乎更喜欢跟男人SEX相关的事。人送称号“婊子天使”。![](https://img.moegirl.org.cn/common/thumb/2/2d/Panty_profile.jpg/420px-Panty_profile.jpg) | [萌娘百科](https://zh.moegirl.org.cn/Panty) |
