@@ -4016,7 +4016,7 @@ example:
 | blue poison | 蓝毒 | ![](https://patchwiki.biligame.com/images/arknights/e/ef/osbooiglt37po8dak9ty6dlvwectfxl.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蓝毒) |
 | skyfire | 天火 | ![](https://patchwiki.biligame.com/images/arknights/7/7e/jbt4vpnap6m7u0jofydsiqs71pjitmr.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:天火) |
 | bison | 拜松 | ![](https://patchwiki.biligame.com/images/arknights/f/f1/if2yo9gjcsr2uswtvtml1j2obzlz2fi.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:拜松) |
-| croissant | 可颂 | 可颂是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:可颂) |
+| croissant | 可颂 | ![](https://patchwiki.biligame.com/images/arknights/e/e7/t5q4xgmeqag752f43jsfh0ipyv4ubh0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:可颂) |
 | arcanine | 风速狗 |  | [萌娘百科](https://zh.moegirl.org.cn/风速狗) |
 | akari | 小照 | ![](https://img.moegirl.org.cn/common/thumb/4/4e/PLA_Akari.png/800px-PLA_Akari.png)<br>日语：ショウ<br>《宝可梦传说 阿尔宙斯》登场的主角。<br>若选择明耀为主角，小照则会作为前辈登场。<br>穿着洗翠地区舞台的服饰。<br>绑有白色头巾，脖子围着红色围巾，穿着如忍者般的装束。<br>因某些原因来到洗翠地区，并成为银河队的调查组一员。<br>名字的由来是照（しょう）。 | [萌娘百科](https://zh.moegirl.org.cn/小照) |
 | irida | 珠贝 | 《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>有着金发碧眼特征的美少女。<br>珍珠队的首领，搭档的宝可梦是冰伊布。<br>身为首领，十分重视对洗翠广阔大地的无畏之心。<br>最初对主角有所怀疑，但在借助主角的力量下镇抚了王之后，也因此开始信任主角。<br>若想平复心情时，会吹奏神阖之笛。<br>十分怕热。 | [萌娘百科](https://zh.moegirl.org.cn/珠贝) |
