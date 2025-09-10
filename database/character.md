@@ -6707,6 +6707,7 @@ example:
 | angelina | 安洁莉娜 | 注意，明日方舟中的安洁莉娜请使用tag安心院安洁莉娜（ `angelina ajimu`） |  |
 | ban | 班 | `p:nanatsu no taizai` |  |
 | cacao | 可可 | `p:knights of ramune` |  |
+| rika hoshizaki | 星崎理香 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/1/1d/星崎理香character.png/270px-星崎理香character.png) | [萌娘百科](https://zh.moegirl.org.cn/星崎理香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
