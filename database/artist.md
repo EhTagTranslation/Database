@@ -13999,6 +13999,7 @@ example:
 | peter h. l. | Peterhl |  | [pixiv](https://www.pixiv.net/users/27899452) |
 | hanawa maroru | 花輪マロル |  |  |
 | yoshiki-chan | よしきちゃん |  |  |
+| toji | 冬至 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
