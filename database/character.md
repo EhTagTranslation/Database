@@ -2859,7 +2859,7 @@ example:
 | raphtalia | 拉芙塔莉雅 |  |  |
 | filo | 菲洛 |  |  |
 | altina orion | 亚尔缇娜·奥莱恩 |  |  |
-| amiya | 阿米娅 | 阿米娅是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色，担任罗德岛的领袖。<br>阿米娅是一位卡特斯族（兔耳种族）少女，最显著的特征是她棕色的长兔耳。她有着褐色的短发和蓝色的眼睛，身材娇小。日常穿着包括黑色外套、白色衬衫和褐色短裙的制服装束。整体形象给人以可爱但又带着某种成熟感的印象。<br>作为罗德岛的领导者，阿米娅在主线剧情中占据核心地位。她不仅是组织的精神象征，更是推动整个故事发展的关键人物。随着剧情推进，她的真实身份和背负的使命逐渐揭晓，涉及到泰拉大陆的重大秘密。<br>![74736710\_p0\_master1200.jpg](https://s2.loli.net/2025/06/26/7BLsK9PIXQ8wfk4.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿米娅)<br>[PRTS](https://prts.wiki/w/阿米娅) |
+| amiya | 阿米娅 | ![](https://patchwiki.biligame.com/images/arknights/3/30/o8ckif3rqc1ssxvv5cmrmcj3y9p4b1t.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿米娅)<br>[PRTS](https://prts.wiki/w/阿米娅) |
 | regu | 雷古 | 勃起卿。出自来自深渊（Made in Abyss) |  |
 | riko | 莉可 | 出自来自深渊（Made in Abyss) |  |
 | six | 希斯 | ![希斯十天众初始形象](https://i.loli.net/2020/04/01/yz4lZMxafk3YObI.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040035000) |
