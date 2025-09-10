@@ -6706,6 +6706,7 @@ example:
 | mini yaemori | 八重森弥妮 | 所属作品：`p:kanojo okarishimasu`<br>练马大学的一年级生，是和也等人的学妹。<br>住在公寓202室，是和也和千鹤的邻居。<br>![](https://img.moegirl.org.cn/common/2/24/Yaemori_Mini.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八重森弥妮) |
 | angelina | 安洁莉娜 | 注意，明日方舟中的安洁莉娜请使用tag安心院安洁莉娜（ `angelina ajimu`） |  |
 | ban | 班 | `p:nanatsu no taizai` |  |
+| cacao | 可可 | `p:knights of ramune` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
