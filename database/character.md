@@ -4527,7 +4527,7 @@ example:
 | joey | 乔伊 |  |  |
 | feng min | 凤敏 |  |  |
 | friedrich der grosse | 腓特烈大帝 | ![](https://patchwiki.biligame.com/images/blhx/thumb/c/cf/c69t7db5wl8ur1cxwwdcymb467le6hl.jpg/525px-腓特烈大帝换装2.jpg)<br>《碧蓝航线》中的角色。 | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
-| mio naruse | 成濑澪 | ![](https://img.moegirl.org.cn/common/f/f0/成濑澪.jpg)<br>所属作品：`shinmai maou no testament`。<br>和名义上的妹妹成濑万理亚一起，企图欺骗东城迅，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。![] | [萌娘百科](https://zh.moegirl.org.cn/成濑澪) |
+| mio naruse | 成濑澪 | ![](https://i.pixiv.cat/img-master/img/2025/08/03/21/38/39/133454226_p0_master1200.jpg)<br>所属作品：`shinmai maou no testament`。<br>和名义上的妹妹成濑万理亚一起，企图欺骗东城迅，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。![] | [萌娘百科](https://zh.moegirl.org.cn/成濑澪) |
 | maria naruse | 成濑万理亚 | ![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/8/8f/Maria_01.png) | [萌娘百科](https://zh.moegirl.org.cn/成濑万理亚) [Fandom](https://shinmaimaou.fandom.com/wiki/Maria_Naruse) |
 | frederica baumann | 法兰黛莉卡·鲍曼 | 罗兹瓦尔宅邸的女仆，有四分之一的亚人血统，金发绿瞳的模样还有尖牙<br>![](https://static.wikia.nocookie.net/rezero/images/a/a0/Frederica_Baumann_LN_character_design.png) | [萌娘百科](https://zh.moegirl.org.cn/法兰黛莉卡·鲍曼) |
 | ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
