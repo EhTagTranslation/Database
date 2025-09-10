@@ -2520,7 +2520,7 @@ example:
 | ayumi otosaka | 乙坂步未 | 元气满满的小动物系妹妹<br>![图](# "https://ehgt.org/7b/11/7b111ec190087ad74b2ccbba80603e93a2fd07cd-270120-850-1266-jpg_l.jpg")![图](# "https://ehgt.org/98/95/9895b279860e585bc2dad85c0b5491b3f25b2112-68350-590-650-png_l.jpg")![图](# "https://ehgt.org/43/ab/43abdd7bfb5601811ee96c784d24a89eaac5de16-115213-678-960-jpg_l.jpg") |  |
 |  | ▼ 五等分的新娘 |  |  |
 | ichika nakano | 中野一花 |  |  |
-| nino nakano | 中野二乃 |  |  |
+| nino nakano | 中野二乃 | ![](https://img.moegirl.org.cn/common/thumb/f/f3/Go-Tobun_no_Hanayome_BD_2.jpg/180px-Go-Tobun_no_Hanayome_BD_2.jpg)<br>![](https://img.moegirl.org.cn/common/thumb/5/50/Go-Tobun_no_Hanayome_2_BD_2.jpg/180px-Go-Tobun_no_Hanayome_2_BD_2.jpg)<br>所属作品：`gotoubun no hanayome` |  |
 | miku nakano | 中野三玖 | 中野三玖（日语：中野（なかの） 三玖（みく））是由春場ねぎ创作的漫画《五等分的新娘》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2e/72959861_p0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/中野三玖) |
 | yotsuba nakano | 中野四叶 |  |  |
 | itsuki nakano | 中野五月 |  |  |
