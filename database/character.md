@@ -3293,7 +3293,7 @@ example:
 | atlanta | 亚特兰大 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:亚特兰大) |
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
 | qin liangyu | 秦良玉 |  |  |
-| swire | 诗怀雅 | 明日方舟干员之一 | [http://prts.wiki/w/诗怀雅](http://prts.wiki/w/诗怀雅) |
+| swire | 诗怀雅 | ![](https://patchwiki.biligame.com/images/arknights/8/83/6wyxnw0yii64f6e2t5budngjpprwcan.png)<br>所属作品`p:arknights` | [http://prts.wiki/w/诗怀雅](http://prts.wiki/w/诗怀雅) |
 | hayase nagatoro | 长瀞早濑 | 长瀞早濑（日语：長瀞（ながとろ） 早瀬（はやせ））是由ナナシ创作的漫画《不要欺负我，长瀞同学》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/长瀞早濑) |
 | texas | 德克萨斯 | 明日方舟干员之一 | [http://prts.wiki/w/德克萨斯](http://prts.wiki/w/德克萨斯) |
 | yuuta hibiki | 响裕太 |  |  |
