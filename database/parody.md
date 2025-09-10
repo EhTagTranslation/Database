@@ -347,7 +347,7 @@ example:
 |  | ▲假面骑士 系列 |  |  |
 | kaiji | 赌博默示录 | 逆境无赖 |  |
 | my hero academia | 我的英雄学院 |  |  |
-| shinmai maou no testament | 新妹魔王的契约者 |  |  |
+| shinmai maou no testament | 新妹魔王的契约者 | ![](https://img.moegirl.org.cn/common/4/48/新妹魔王的契约者_海报.jpg)<br>上栖缀人原作、大熊猫介负责插画的轻小说。 | [萌娘百科](https://zh.moegirl.org.cn/新妹魔王的契约者) |
 | youjo senki | 幼女战记 |  |  |
 | touken ranbu | 刀剑乱舞 | 《刀剑乱舞》是日本游戏开发商EXNOA LLC与游戏制作公司NITRO PLUS合作开发的卡牌养成策略游戏，日服由DMM.com发行。 | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞) |
 | teen titans | 少年泰坦 |  |  |
