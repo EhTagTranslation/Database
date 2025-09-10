@@ -5654,7 +5654,7 @@ example:
 | horn | 号角 | 明日方舟六星重装干员号角 | [https://prts.wiki/w/号角#干员信息](https://prts.wiki/w/号角#干员信息) |
 | whisperain | 絮雨 | 明日方舟五星疗养师 | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
 | andreana | 安哲拉 | 明日方舟五星神射手 | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
-| degenbrecher | 锏 | 明日方舟六星剑豪 | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
+| degenbrecher | 锏 | ![](https://patchwiki.biligame.com/images/arknights/1/13/1dh0m0f9h2pgp9kkfvs7185ih9dsih2.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
 | saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
 | pekoras mother | 佩克拉妈咪 | `c:usada pekora`的现实中的母亲，2024年4月1日作为愚人节企划正式出道。 | [Fandom](https://omniversal-battlefield.fandom.com/wiki/Pekomama) |
 | unzen | 云仙 \| 猃 | ![](https://patchwiki.biligame.com/images/blhx/thumb/d/d7/ovrwhjshngqr3l9f3tus5dnutkd2eqp.jpg/525px-云仙立绘.jpg)<br>《碧蓝航线》中的舰娘。<br>1941年丸六计划重巡洋舰 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
