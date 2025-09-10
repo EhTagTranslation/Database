@@ -4033,7 +4033,7 @@ example:
 | liskarm | 雷蛇 | ![](https://patchwiki.biligame.com/images/arknights/2/26/gi7eptmxi8t7n1vf381vwfk8ar2gctt.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:雷蛇) |
 | blaze | 煌 | ![](https://patchwiki.biligame.com/images/arknights/5/57/3e9cwu4tcbfzbw2qgwugmu557hnshny.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
 | shamare | 巫恋 | ![](https://patchwiki.biligame.com/images/arknights/9/92/l2vvxtbvzgs8toxvanwqyd1563ctc73.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
-| popukar | 泡普卡 | 泡普卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:泡普卡) |
+| popukar | 泡普卡 | ![](https://patchwiki.biligame.com/images/arknights/e/e5/gngp5zxk2v0yug9yfsngl0xwj18fjh2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:泡普卡) |
 | schwarz | 黑 | ![](https://patchwiki.biligame.com/images/arknights/7/77/nzlz5kk8ey85z9du786iasprg9n9xow.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
 | rosmontis | 迷迭香 | 迷迭香是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:迷迭香) |
 | eyjafjalla | 艾雅法拉 | 艾雅法拉是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:艾雅法拉) |
