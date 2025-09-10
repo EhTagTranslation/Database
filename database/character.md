@@ -4007,7 +4007,7 @@ example:
 | hoshiguma | 星熊 |  |  |
 | flamebringer | 炎客 |  |  |
 | matterhorn | 角峰 | 角峰是游戏《明日方舟》及其衍生作品的登场角色。 |  |
-| silverash | 银灰 | 银灰是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:银灰) |
+| silverash | 银灰 | ![](https://patchwiki.biligame.com/images/arknights/8/81/4vkkrcasr44wj64qr49tc51qap3ihj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:银灰) |
 | ptilopsis | 白面鸮 |  |  |
 | blemishine | 瑕光 | 瑕光是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:瑕光) |
 | whislash | 鞭刃 | 鞭刃是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:鞭刃) |
