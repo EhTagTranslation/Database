@@ -5703,7 +5703,7 @@ example:
 | luciana auxesis theodoro de montefio | 露西 | 露西亚娜·奥克希斯·提奥多·德·蒙特夫，简称露西，是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/1c/1d/1c1db16f6d42e791094e7942cb8aeae39536b48f-3133414-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西亚娜·奥克希斯·提奥多·德·蒙特夫) |
 | tomoki kuroki | 黑木智贵 |  |  |
 | muelsyse | 缪尔赛思 |  | [https://prts.wiki/w/缪尔赛思](https://prts.wiki/w/缪尔赛思) |
-| manticore | 狮蝎 | 游戏《明日方舟》中的角色。 | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
+| manticore | 狮蝎 | ![](https://patchwiki.biligame.com/images/arknights/d/dc/7urao9pg3puittts6yqagfqajtipwfx.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
 | mogador | 莫加多尔 | ![](https://patchwiki.biligame.com/images/blhx/thumb/4/48/fgr1rdjw1akjva4dcr1g04xfoto4nbc.jpg/525px-莫加多尔立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
 | xilonen | 希诺宁 | ![](https://patchwiki.biligame.com/images/ys/2/21/r68ykvcqtsshriop2u7onp2euuh8ev8.png)<br>纳茨卡延的铸名师，善于在工作的重担与舒适的生活之间找到平衡点。 | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
