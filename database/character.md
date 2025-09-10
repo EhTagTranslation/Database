@@ -4035,7 +4035,7 @@ example:
 | shamare | 巫恋 | ![](https://patchwiki.biligame.com/images/arknights/9/92/l2vvxtbvzgs8toxvanwqyd1563ctc73.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
 | popukar | 泡普卡 | ![](https://patchwiki.biligame.com/images/arknights/e/e5/gngp5zxk2v0yug9yfsngl0xwj18fjh2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:泡普卡) |
 | schwarz | 黑 | ![](https://patchwiki.biligame.com/images/arknights/7/77/nzlz5kk8ey85z9du786iasprg9n9xow.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
-| rosmontis | 迷迭香 | 迷迭香是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:迷迭香) |
+| rosmontis | 迷迭香 | ![](https://patchwiki.biligame.com/images/arknights/1/13/ccihpi0pm9ij723smu29qfdll03pvbg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:迷迭香) |
 | eyjafjalla | 艾雅法拉 | ![](https://patchwiki.biligame.com/images/arknights/3/3f/njtitr32ddhb6obtqk8eulr48eu9qsf.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:艾雅法拉) |
 | deepcolor | 深海色 | ![](https://patchwiki.biligame.com/images/arknights/2/2f/0d1a68crct7mi1rfm846tgg5mz6tam0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:深海色) |
 | ayerscarpe | 断崖 | ![](https://patchwiki.biligame.com/images/arknights/8/8f/emjpndm5o3cgo3xtxflihfqr4fr7vn4.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:断崖) |
