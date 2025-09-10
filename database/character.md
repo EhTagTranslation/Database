@@ -5653,7 +5653,7 @@ example:
 | wanderer | 流浪者 | 流浪者是游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/流浪者%28原神%29#) |
 | horn | 号角 | 明日方舟六星重装干员号角 | [https://prts.wiki/w/号角#干员信息](https://prts.wiki/w/号角#干员信息) |
 | whisperain | 絮雨 | ![](https://patchwiki.biligame.com/images/arknights/0/09/k7vfbr0o3ai1ecvuj3st2kd02bpj1gg.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
-| andreana | 安哲拉 | 明日方舟五星神射手 | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
+| andreana | 安哲拉 | ![](https://patchwiki.biligame.com/images/arknights/b/bc/p11epmszy5t057blldvoryh2ow5bsgx.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
 | degenbrecher | 锏 | ![](https://patchwiki.biligame.com/images/arknights/1/13/1dh0m0f9h2pgp9kkfvs7185ih9dsih2.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
 | saileach | 琴柳 | 明日方舟六星执旗手 | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
 | pekoras mother | 佩克拉妈咪 | `c:usada pekora`的现实中的母亲，2024年4月1日作为愚人节企划正式出道。 | [Fandom](https://omniversal-battlefield.fandom.com/wiki/Pekomama) |
