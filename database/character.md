@@ -6245,7 +6245,7 @@ example:
 | sousuke aizen | 蓝染惣右介 | 所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/蓝染惣右介) |
 | francesca lucchini | 弗兰西斯卡·鲁奇尼 | 所属作品: `p:brave witches` | [萌娘百科](https://zh.moegirl.org.cn/弗兰西斯卡·鲁奇尼) [Fandom](https://worldwitches.fandom.com/wiki/Francesca_Lucchini) |
 | rover | 漂泊者 | ![](https://pic.cangku.moe/images/2025/09/04/1yBRB.th.webp)<br>所属作品: `p:wuthering waves`<br>身世不明的共鸣者，拥有吸收一切声音的力量。<br>为了寻回记忆而踏上旅途。 | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
-| ascalon | 阿斯卡纶 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
+| ascalon | 阿斯卡纶 | ![](https://patchwiki.biligame.com/images/arknights/9/9b/4xbxkx3yqimodzwslzfazlzg2yc7vun.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
 | ling | 令 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/令%28明日方舟%29) |
 | gladiia | 歌蕾蒂娅 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/歌蕾蒂娅) |
 | spongebob squarepants | 海绵宝宝 |  | [萌娘百科](https://zh.moegirl.org.cn/海绵宝宝%28角色%29) [维基百科](https://zh.wikipedia.org/wiki/海绵宝宝_%28角色%29) |
