@@ -4041,7 +4041,7 @@ example:
 | ayerscarpe | 断崖 | ![](https://patchwiki.biligame.com/images/arknights/8/8f/emjpndm5o3cgo3xtxflihfqr4fr7vn4.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:断崖) |
 | leonhardt | 莱恩哈特 | 莱恩哈特是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:莱恩哈特) |
 | asbestos | 石棉 | ![](https://patchwiki.biligame.com/images/arknights/c/c0/epp35m9ltb3nu6i5us9rfinyizgwqk7.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:石棉) |
-| magallan | 麦哲伦 | 麦哲伦是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:麦哲伦) |
+| magallan | 麦哲伦 | ![](https://patchwiki.biligame.com/images/arknights/a/a3/lzymuvalofllrt18xonstc4ygld7hpc.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:麦哲伦) |
 | podenco | 波登可 | 波登可是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:波登可) |
 | kroos | 克洛丝 | 克洛丝是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:克洛丝) |
 | gavial | 嘉维尔 | 嘉维尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嘉维尔) |
