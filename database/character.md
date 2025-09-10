@@ -6320,7 +6320,7 @@ example:
 | trigger | 扳机 | 扳机是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/扳机) |
 | astgenne | 星源 | 星源，本名埃琳娜·乌比卡，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星源) |
 | poncirus | 青枳 | 青枳，本名安麦尔·安蒂萝丝，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/青枳) |
-| lin yuhsia | 林 | 林，本名林雨霞，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
+| lin yuhsia | 林（林雨霞） | ![](https://patchwiki.biligame.com/images/arknights/c/c4/g79belyqvjzipad4y9o1rn3c4d2psbp.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
 | nightmare | 夜魔 | 夜魔，本名瑞贝尔·帕斯贝莱蒂·葛罗莉亚，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜魔%28明日方舟%29) |
 | kotori kanbe | 神户小鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/神户小鸟) |
 | vivian | 薇薇安 | 此标签并非指代绝区零内角色`c:vivian banshee` |  |
