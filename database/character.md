@@ -5316,7 +5316,7 @@ example:
 | britomart | 布里托玛特 |  |  |
 | rex | 莱克斯 | 莱克斯（日语：レックス）是游戏《异度神剑2》的登场角色，男主角。 | [萌娘百科](https://zh.moegirl.org.cn/莱克斯) |
 | shizuka mikazuki | 三日月闲 | 漫画《僵尸百分百》女主角 |  |
-| la pluma | 羽毛笔 | 手机游戏明日方舟女干员 |  |
+| la pluma | 羽毛笔 | ![](https://patchwiki.biligame.com/images/arknights/2/2a/o16ec9h9uiu0js1te7pji6gtkfcifs4.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/羽毛笔) |
 | if | 爱耶芙 | 爱耶芙(IDEA FACTORY/アイエフ)，是游戏《超次元游戏海王星》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱耶芙) |
 | luo xiaohei | 罗小黑 | 罗小黑是MTJJ执导的国产动画《罗小黑战记》的主人公。<br><br>罗小黑是一只通体漆黑的可爱小猫，本体是猫妖，可变为人形后并和其他人正常交流。 | [萌娘百科](https://zh.moegirl.org.cn/罗小黑) |
 | wuxian | 无限 | 无限是由MTJJ所创作的《罗小黑战记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/无限%28罗小黑战记%29#) |
