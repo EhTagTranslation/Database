@@ -3834,7 +3834,7 @@ example:
 | iori shiromi | 银镜伊织 | 所属作品：`p:blue archive`<br>格黑娜学园所属，冷酷的风纪委员会战斗专家。<br>作为风纪委员会的突击队长，一旦发现了违反校规的学生，就会使用压倒性的力量当场对其处罚。<br>![](https://patchwiki.biligame.com/images/ba/5/5c/f7coz94tvkhvfuw7ovu1zv0g6d8y51k.png)<br>![](https://patchwiki.biligame.com/images/ba/7/7b/ljqklgoxj7b1rrl6c2kr7tfpcknks1j.png) | [famdom](https://bluearchive.fandom.com/wiki/Shiromi_Iori)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Iori)<br>[萌娘百科](https://zh.moegirl.org.cn/银镜伊织) |
 | barbara | 芭芭菈 | 所属作品：`p:hai to gensou no grimgar`<br><br>盗贼公会教官，热情奔放、举止大胆野蛮，穿着性感劲装、短发、戴着眼镜的抖S美人。 |  |
 | enji todoroki | 轰炎司 |  |  |
-| nagisa minase | 水濑渚 | ![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png) |  |
+| nagisa minase | 水濑渚 | 所属作品`kanojo mo kanojo`<br>![](https://static.wikia.nocookie.net/kanojo-mo-kanojo/images/8/84/Minase_Nagisa_%28Anime%29.png) | [萌娘百科](https://zh.moegirl.org.cn/水濑渚) |
 | lum | 拉姆 | 所属作品：`p:urusei yatsura`<br>![](https://static.wikia.nocookie.net/urusei/images/d/d2/Lum.gif) |  |
 | raiden | 雷电 | 所属作品：`p:metal gear solid`<br>《Metal Gear Solid2: Sons of Liberty》“Plant篇”主角。Raiden（雷电）是其行动代号。 | [维基百科](https://zh.wikipedia.org/wiki/合金装备系列角色列表) |
 | tien shinhan | 天津饭 |  |  |
