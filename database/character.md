@@ -4022,7 +4022,7 @@ example:
 | irida | 珠贝 | 《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>有着金发碧眼特征的美少女。<br>珍珠队的首领，搭档的宝可梦是冰伊布。<br>身为首领，十分重视对洗翠广阔大地的无畏之心。<br>最初对主角有所怀疑，但在借助主角的力量下镇抚了王之后，也因此开始信任主角。<br>若想平复心情时，会吹奏神阖之笛。<br>十分怕热。 | [萌娘百科](https://zh.moegirl.org.cn/珠贝) |
 | palina | 瓜娜 | 《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>散发出成熟感的温柔女性。<br>珍珠队的一员。照看前任王风速狗的子嗣卡蒂狗。<br>过去曾与珠贝竞争珍珠队的领队。<br>名字的由来是ガラナ（瓜拿纳）。 | [萌娘百科](https://zh.moegirl.org.cn/瓜娜) |
 | ambriel | 安比尔 | ![](https://patchwiki.biligame.com/images/arknights/0/06/8py6q95porfc0y2wxah9k5naputd1l1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安比尔) |
-| feater | 食铁兽 | 食铁兽是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:食铁兽) |
+| feater | 食铁兽 | ![](https://patchwiki.biligame.com/images/arknights/4/4b/caqt6e0vd8mr9tbv35erhpl7e0fau67.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:食铁兽) |
 | closure | 可露希尔 | 可露希尔是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。<br><br>代号“可露希尔”，本名阿达·可露希尔·丘奇（Ada "Closure" Church），使用账号Leader One<ADACLOSURECHURCH>（不只有可露希尔在用），负责罗德岛的采购、基建、工程等任务。<br><br>自称“42星干员、罗德岛舰船可靠性工程师、罗德岛号SUPERVISOR伟大的系统工程师、卡兹戴尔百强青年、开源软件的倡导者”，实际上是她瞎编的。曾经想过要上前线但是被凯尔希撵了回来。<br><br>是网络动画《可露希尔的秘密档案》的主角。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:可露希尔) |
 | melantha | 玫兰莎 | 玫兰莎是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:玫兰莎) |
 | perfumer | 调香师 | 调香师是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:调香师) |
