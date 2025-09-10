@@ -3764,7 +3764,7 @@ example:
 | battler ushiromiya | 右代宫战人 | 右代宫战人是07th Expansion所创作的同人游戏《海猫鸣泣之时》及其衍生作品的登场角色。作品的男主角。留弗夫与前妻明日梦之子。<br>![图](https://ehgt.org/fd/d2/fdd2024fd834d03fe73f02022158c563ae2d7937-74888-400-566-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/右代宫战人) |
 | sideroca | 铸铁 | ![立绘\_铸铁\_skin1.png](https://s2.loli.net/2022/04/07/HJ84ceZYdbL52AD.png)<br>《明日方舟》五星干员铸铁 | [PRTS wiki](https://prts.wiki/id/14737)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:铸铁) |
 | utage | 宴 | ![](https://patchwiki.biligame.com/images/arknights/e/ea/a9bqle3ew6t6360vsahhe1cagf6aczo.png)<br>所属作品`p:arknights` | [PRTS Wiki](https://prts.wiki/w/宴)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:宴) |
-| siege | 推进之王 | ![立绘\_推进之王\_2.png](https://s2.loli.net/2022/04/07/31O5sQepXMFTAUK.png)<br>《明日方舟》推进之王 | [PRTS wiki](https://prts.wiki/id/1770)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:推进之王) |
+| siege | 推进之王 | ![](https://patchwiki.biligame.com/images/arknights/9/9f/fwdab0cnj3uwwehucbspfbm34jrhrg9.png)<br>所属作品`p:arknights` | [PRTS wiki](https://prts.wiki/id/1770)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:推进之王) |
 | barghest | 巴格斯特 | 巴格斯特是TYPE-MOON旗下游戏《Fate/Grand Order》中第六异闻带的登场角色。<br>妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·高文的灵基之名的妖精骑士。<br>作为妖精的名字是巴格斯特。<br>![妖高初始](https://img.moegirl.org.cn/common/d/d6/巴格斯特初始.png)![妖高满破](https://img.moegirl.org.cn/common/3/3d/巴格斯特满破.png) | [萌娘百科](https://zh.moegirl.org.cn/巴格斯特%28Fate%29) |
 | yellow heart | 黄色之心 |  |  |
 | orange heart | 橙色之心 |  |  |
