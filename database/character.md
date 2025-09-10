@@ -6247,7 +6247,7 @@ example:
 | rover | 漂泊者 | ![](https://pic.cangku.moe/images/2025/09/04/1yBRB.th.webp)<br>所属作品: `p:wuthering waves`<br>身世不明的共鸣者，拥有吸收一切声音的力量。<br>为了寻回记忆而踏上旅途。 | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
 | ascalon | 阿斯卡纶 | ![](https://patchwiki.biligame.com/images/arknights/9/9b/4xbxkx3yqimodzwslzfazlzg2yc7vun.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿斯卡纶) |
 | ling | 令 | ![](https://patchwiki.biligame.com/images/arknights/b/b9/3echoztngoouscwwgb86xij3gxjk6jj.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/令%28明日方舟%29) |
-| gladiia | 歌蕾蒂娅 | 所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/歌蕾蒂娅) |
+| gladiia | 歌蕾蒂娅 | ![](https://patchwiki.biligame.com/images/arknights/8/83/hymnabevpcdpqqfsrb1qikvoctvx4oe.png)<br>所属作品: `p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/歌蕾蒂娅) |
 | spongebob squarepants | 海绵宝宝 |  | [萌娘百科](https://zh.moegirl.org.cn/海绵宝宝%28角色%29) [维基百科](https://zh.wikipedia.org/wiki/海绵宝宝_%28角色%29) |
 | queen grimhilde | 邪恶皇后 |  | [Fandom](https://disney.fandom.com/zh/wiki/邪惡皇后) [维基百科（英语）](https://en.wikipedia.org/wiki/Evil_Queen_%28Disney%29) |
 | rena ryuuguu | 龙宫礼奈 | 所属作品: `p:higurashi no naku koro ni` | [萌娘百科](https://zh.moegirl.org.cn/龙宫礼奈) |
