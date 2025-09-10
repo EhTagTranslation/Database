@@ -4791,7 +4791,7 @@ example:
 | janus | 雅努斯 | HMS Janus是英国皇家海军的J级驱逐舰（J-class destroyer）5号舰，舰名来自古代罗马神话中的双面门神Janus，该舰是第六艘继承该舰名的皇家海军舰艇。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Janus)<br>[舰队Collection:雅努斯](https://zh.moegirl.org.cn/舰队Collection:雅努斯) |
 | ornn | 奥恩 | 英雄联盟角色 | [百度百科](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
 | chong yue | 重岳 | ![](https://patchwiki.biligame.com/images/arknights/8/8d/g5s6n4scct8j1keesbikx1g692dixk9.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
-| ethan | 伊桑 | 伊桑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
+| ethan | 伊桑 | ![](https://patchwiki.biligame.com/images/arknights/4/46/oyj0a79vjbzo8ennh4uzgfkpo8zoijk.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
 | ren yamashiro | 山城恋 | ![](https://i.pixiv.cat/img-original/img/2025/04/04/11/19/36/128937174_p2.jpg)<br>山城恋是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山城恋) |
 | sena himuro | 冰室濑名 | 所属作品：`p:blue archive`<br>格黑娜学园所属。急救医学部的部长。<br>![](https://patchwiki.biligame.com/images/ba/2/20/qhdlcq4fwlpftxzxn3y8j3p9gibe3v9.png)<br>![](https://img.moegirl.org.cn/common/b/b5/BA_Sena_Casual.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sena)<br>[萌娘百科](https://zh.moegirl.org.cn/冰室濑奈) |
 | amane tanikaze | 谷风天音 | 所属作品: `p:tenshi souzou re-boot`<br><br>主人公的妹妹。和主人公一样，前世是异世界的魔族。<br><br>![](https://t.vndb.org/ch/30/142730.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谷风天音) |
