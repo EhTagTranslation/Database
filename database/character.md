@@ -2107,7 +2107,7 @@ example:
 |  | ▼ 天降之物 |  |  |
 | tomoki sakurai | 樱井智树 |  |  |
 | ikaros | 伊卡洛斯 |  |  |
-| nymph | 妮姆芙/妮芙 | 妮姆芙，水无月嵩创作的漫画《天降之物》及其衍生作品的登场角色，女主角之一。<br>妮芙，游戏《明日方舟》及其衍生作品的登场角色。 | [妮芙-萌娘百科](https://zh.moegirl.org.cn/妮芙)<br>[妮姆芙-萌娘百科](https://zh.moegirl.org.cn/妮姆芙) |
+| nymph | 妮姆芙 \| 妮芙 | ①妮姆芙，水无月嵩创作的漫画《天降之物》及其衍生作品的登场角色，女主角之一。<br>②![](https://patchwiki.biligame.com/images/arknights/9/92/c9omgm8nomcpvrr4s5th7t2x1eofiuk.png)<br>妮芙，所属作品`p:arknights` | [妮芙-萌娘百科](https://zh.moegirl.org.cn/妮芙)<br>[妮姆芙-萌娘百科](https://zh.moegirl.org.cn/妮姆芙) |
 | astraea | 阿斯特蕾亚 |  |  |
 | chaos | 卡奥斯 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/魔剑卡奥斯)<br>[AliceSoft WIKI](https://alicesoft.miraheze.org/wiki/Chaos) |
 | sohara mitsuki | 见月楚原 |  |  |
