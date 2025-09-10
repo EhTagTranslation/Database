@@ -6417,7 +6417,7 @@ example:
 | red shoes | 红舞鞋 | 所属作品: `p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Shoes) |
 | suisui | 水水 | ![](https://img.exloli.org/559bfb4423.webp) |  |
 | arshes nei | 安雪丝·奈伊 | 所属作品: `p:bastard`<br><br>黑暗妖精与人类的混血儿，四天王唯一的女性。自小被妖精族抛弃后被达克·休奈达收为养女，称号是“雷帝”。昵称达克·休奈达“达休”，既是他的女儿，又是他的情人。只有达克·休奈达才能直呼她“安雪”。 | [Fandom](https://bastard.fandom.com/wiki/Arshes_Nei) [维基百科](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－#四天王) |
-| cardigan | 卡缇 | 卡缇是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡缇) |
+| cardigan | 卡缇 | ![](https://patchwiki.biligame.com/images/arknights/1/11/icfe7thgmcnk7b4375ujfrq3rwx134r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/卡缇) |
 | shiron the windragon | 斯朗（风龙） | 所属作品：`legendz`<br>斯朗（シロン/Shiron）是作品《苏生龙王传说》的角色。风龙，平时看起来像只小仓鼠，变身后成为传说中的风龙（Windragon）。 |  |
 | newbie succubus | 萝莉魅魔 | 所属作品: `p:kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/萝莉魅魔) |
 | epsilon | 伊普西龙 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第五席。具有魔力操作天赋的精灵。另一方面，对自己的小孩体型感到自卑，使用史莱姆战斗装束来掩饰自己的身材。<br>![](https://lain.bgm.tv/pic/crt/l/89/d2/103295_crt_5tVVI.jpg?r=1675247692&_gl=1*rtvzpz*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5ODc1JGozMSRsMCRoMA).. | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者#.E7.99.BB.E5.9C.BA.E8.A7.92.E8.89.B2) |
