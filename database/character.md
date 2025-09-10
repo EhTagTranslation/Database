@@ -3871,7 +3871,7 @@ example:
 | ninomae inanis | 一伊那尔栖 | 一伊那尔栖(英语:ninomae inanis) 所属社团:`p:hololive`<br>是一名VTuber<br>![图](https://ehgt.org/36/c5/36c54b3daad06f67e511e0f2c5b2fb748e5e4461-392906-524-723-png_l.jpg) | [Fandom](https://virtualyoutuber.fandom.com/wiki/Ninomae_Ina%27nis) [萌娘百科](https://zh.moegirl.org.cn/一伊那尔栖) [hololive wiki](https://hololive.wiki/wiki/Ninomae_Ina%27nis) |
 | sakamata chloe | 沙花叉库洛艾 | ![图](https://ehgt.org/df/53/df53bc7b8716068cb475b4d8948d543fdd55eddb-296330-500-500-png_l.jpg) | [hololive wiki](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [Fandom](https://virtualyoutuber.fandom.com/wiki/Sakamata_Chloe) [萌娘百科](https://zh.moegirl.org.cn/沙花叉库洛艾) |
 | kazama iroha | 风真伊吕波 | ![图](https://ehgt.org/9a/a0/9aa0413895ba9aea537fcdc0d752419251d9b027-166628-332-450-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/风真伊吕波) [Fandom](https://virtualyoutuber.fandom.com/wiki/Kazama_Iroha) [hololive wiki](https://hololive.wiki/wiki/Kazama_Iroha) |
-| weedy | 温蒂 | 所属作品 `p:arknights`<br>![](https://static.wikia.nocookie.net/mrfz/images/a/ab/Weedy.png) | [Fandom](https://arknights.fandom.com/wiki/Weedy) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:温蒂) |
+| weedy | 温蒂 | ![](https://static.wikia.nocookie.net/mrfz/images/a/ab/Weedy.png)<br>所属作品 `p:arknights` | [Fandom](https://arknights.fandom.com/wiki/Weedy)<br>[萌娘百科](https://zh.moegirl.org.cn/明日方舟:温蒂) |
 | makino yagami | 八神牧野 | 所属作品 `p:the idolmaster`<br>![](https://project-imas.wiki/images/a/ae/Makino_SS.png) | [萌娘百科](https://zh.moegirl.org.cn/八神牧野) [imas\_wiki](https://project-imas.wiki/Makino_Yagami) |
 | lu bu | 吕布 | 字奉先，并州五原郡九原（今内蒙古自治区包头市九原区）人，东汉末年武将与军阀。 |  |
 | namiko | 奈美子 |  |  |
