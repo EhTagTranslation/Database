@@ -13998,6 +13998,7 @@ example:
 | awan | 阿浣 |  | [pixiv](https://www.pixiv.net/users/28757679) |
 | peter h. l. | Peterhl |  | [pixiv](https://www.pixiv.net/users/27899452) |
 | hanawa maroru | 花輪マロル |  |  |
+| yoshiki-chan | よしきちゃん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
