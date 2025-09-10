@@ -6395,7 +6395,7 @@ example:
 | yuuri kozukata | 不来方夕莉 | 《零：濡鸦之巫女》中的角色 |  |
 | shio koube | 神户盐 |  |  |
 | satou matsuzaka | 松板砂糖 |  |  |
-| lemuen | 蕾缪安 | 手游《明日方舟》干员蕾缪安 | [萌娘百科](https://zh.moegirl.org.cn/蕾缪安) |
+| lemuen | 蕾缪安 | ![](https://patchwiki.biligame.com/images/arknights/5/5e/fk6207iumwrkw0da7mukqhzt1gga3ac.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/蕾缪安) |
 | aoba utsumi | 内海青叶 |  |  |
 | sylvia van hossen | 希尔薇娅·范·霍森 | ![希尔薇](https://jqcuwuk.qqabwhqzoesl.hath.network/h/019df34cc3991e712a409302b482bf9f15dbe61b-45611-426-600-jpg/keystamp=1746856200-2eec20969f;fileindex=10156905;xres=2400/5ceb028d6b1b2dfb4ca86f27eae85567.jpg)<br>公主恋人的第二女主角，OVA希尔薇篇的女主角。 | [vndb](https://vndb.org/v765) |
 | kabru | 卡布尔 |  |  |
