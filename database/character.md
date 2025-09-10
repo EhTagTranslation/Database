@@ -6708,6 +6708,7 @@ example:
 | ban | 班 | `p:nanatsu no taizai` |  |
 | cacao | 可可 | `p:knights of ramune` |  |
 | rika hoshizaki | 星崎理香 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/1/1d/星崎理香character.png/270px-星崎理香character.png) | [萌娘百科](https://zh.moegirl.org.cn/星崎理香) |
+| saki saki | 佐木咲 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/佐木咲character.png/195px-佐木咲character.png) | [萌娘百科](https://zh.moegirl.org.cn/佐木咲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
