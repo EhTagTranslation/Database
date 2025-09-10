@@ -4034,7 +4034,7 @@ example:
 | blaze | 煌 | ![](https://patchwiki.biligame.com/images/arknights/5/57/3e9cwu4tcbfzbw2qgwugmu557hnshny.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
 | shamare | 巫恋 | 巫恋是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
 | popukar | 泡普卡 | 泡普卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:泡普卡) |
-| schwarz | 黑 | 黑是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
+| schwarz | 黑 | ![](https://patchwiki.biligame.com/images/arknights/7/77/nzlz5kk8ey85z9du786iasprg9n9xow.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:黑) |
 | rosmontis | 迷迭香 | 迷迭香是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:迷迭香) |
 | eyjafjalla | 艾雅法拉 | 艾雅法拉是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:艾雅法拉) |
 | deepcolor | 深海色 | 深海色是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:深海色) |
