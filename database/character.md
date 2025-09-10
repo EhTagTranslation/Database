@@ -3108,7 +3108,7 @@ example:
 | natsumi hinata | 日向夏美 |  |  |
 | aki hinata | 日向秋 |  |  |
 | cheshire | 柴郡 | 柴郡（Cheshire/チェシャー）是bilibili代理的手机游戏《碧蓝航线》及其衍生作品的登场角色，其原型是英国海军的1940年15500吨重巡洋舰改型。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:柴郡) |
-| savage | 暴行 | 游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:暴行) |
+| savage | 暴行 | ![](https://patchwiki.biligame.com/images/arknights/a/a7/qthe6bzi195xo0vqlizjg0qz6v05ai3.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:暴行) |
 | type 95 | 95式 \| 黛烟 | 游戏`p:girls frontline`及其衍生作品中的登场角色。<br>![](https://www.gfwiki.org/images/e/ec/Pic_95type_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://patchwiki.biligame.com/images/42lab/e/e9/ckgfcunw4tnyid1u80s6tbtxvhuayft.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_DaiyanSSR.png)<br>猫咪：云筝 | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:95式)<br>[萌娘百科](https://zh.moegirl.org.cn/黛烟)<br>[少前百科GFwiki](https://gfwiki.org/w/95式)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/黛烟)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/DaiyanSSR) |
 | aki shiina | 椎名亚树 |  |  |
 | nana sunohara | 春原菜菜 |  |  |
