@@ -4029,7 +4029,7 @@ example:
 | grani | 格拉尼 | ![](https://patchwiki.biligame.com/images/arknights/5/54/axtmllmpcnf7fp6g9id6r5z3q7dqtza.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格拉尼) |
 | angelina ajimu | 安心院安洁莉娜 | 安洁莉娜（日语：安心院（あじむ）アンジェリーナ）是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安洁莉娜) |
 | ceobe | 刻俄柏 | ![](https://patchwiki.biligame.com/images/arknights/3/3a/sa15ps9jtzecirlvr5d3ducc608sdyg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:刻俄柏) |
-| franka | 芙兰卡 | 芙兰卡是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:芙兰卡) |
+| franka | 芙兰卡 | ![](https://patchwiki.biligame.com/images/arknights/e/ec/1iveo6aw2nfhmrof43nzmzezllfsb4i.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:芙兰卡) |
 | liskarm | 雷蛇 | ![](https://patchwiki.biligame.com/images/arknights/2/26/gi7eptmxi8t7n1vf381vwfk8ar2gctt.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:雷蛇) |
 | blaze | 煌 | ![](https://patchwiki.biligame.com/images/arknights/5/57/3e9cwu4tcbfzbw2qgwugmu557hnshny.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:煌) |
 | shamare | 巫恋 | ![](https://patchwiki.biligame.com/images/arknights/9/92/l2vvxtbvzgs8toxvanwqyd1563ctc73.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:巫恋) |
