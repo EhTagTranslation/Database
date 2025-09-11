@@ -1215,7 +1215,7 @@ example:
 | rito yuuki | 结城梨斗 | ![](https://ehgt.org/3a/4a/3a4a5f8353b91c15edbaf5abe8cf92384ff67ca3-1610639-2111-3000-jpg_l.jpg) |  |
 | ryouko mikado | 御门凉子 | ![](https://ehgt.org/21/ec/21ec1799cfdf175f491c32fd6f10281cece0f20b-726815-1225-1772-jpg_l.jpg) |  |
 | lala satalin deviluke | 菈菈·萨塔琳·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p4_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克星来的外星人，也是戴比路克银河系的第一公主。父亲是戴比路克星王，母亲是宇宙公认的拥有第一美貌的戴比路克王妃，有两个妹妹——娜娜和梦梦。 | [萌娘百科](https://zh.moegirl.org.cn/菈菈·萨塔琳·戴比路克) |
-| haruna sairenji | 西连寺春菜 | ![](https://ehgt.org/ae/63/ae638a65cc167fe192da593d9acbbee423352fae-1111253-2437-1750-jpg_l.jpg) |  |
+| haruna sairenji | 西连寺春菜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p3_master1200.jpg)<br>所属作品：`to love-ru`<br>高中二年级学生。结城梨斗以及菈菈等人的同学。2-A班的班长，网球社的成员之一。 留有紫发，谦虚，性格稳重、冷静的美少女。 | [萌娘百科](https://zh.moegirl.org.cn/西连寺春菜) |
 | golden darkness | 金色暗影 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p2_master1200.jpg)<br>所属作品：`to love-ru`<br>宇宙中最危险的刺客。外表是个金发红瞳、穿着黑色战斗礼服的小女孩。因拥有能将自己身上的任何器官转换成武器的能力，故被称为“全身凶器”。 | [萌娘百科](https://zh.moegirl.org.cn/金色暗影) |
 | yui kotegawa | 古手川唯 | ![图](# "https://ehgt.org/5d/dd/5ddd03ad6ddcf266abdd88b6d1eef2f8f65aea54-173912-1084-1530-jpg_l.jpg")![](https://ehgt.org/0b/5e/0b5e9c4696b43f6aceae624ef6b75b29d2142035-631115-2840-4094-jpg_l.jpg) |  |
 | mikan yuuki | 结城美柑 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的妹妹。11岁的小学五年级学生，现在已升为六年级。小恶魔个性的美少女。 | [萌娘百科](https://zh.moegirl.org.cn/结城美柑) |
