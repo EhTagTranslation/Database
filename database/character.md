@@ -1227,7 +1227,7 @@ example:
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p5_master1200.jpg)<br>所属作品：`to love-ru`<br>菈菈的妹妹，有露出象征小恶魔的上犬齿。因为梨斗经常在不经意间对女生做出神摔而十分愤怒，一开始很讨厌梨斗，认为梨斗是“禽兽”，但后来慢慢也对梨斗开始报有好感。 | [萌娘百科](https://zh.moegirl.org.cn/娜娜·阿斯塔·戴比路克) |
 | momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/26/15/00/19/134348005_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克星银河系的第三公主，菈菈的妹妹，跟娜娜佐天泪子是孪生姊妹百合姬友，同娜娜相比算是巨乳。<br>拥有和植物沟通的能力，在银河中收纳了数百种植物朋友，可以利用菈菈开发的传送装置召唤出来。 | [萌娘百科](https://zh.moegirl.org.cn/梦梦·贝莉雅·戴比路克) |
 | riko yuusaki | 夕崎梨子 | ![](https://ehgt.org/61/4b/614b4a0530b8d055505917dfa3123576fe27ff59-159705-1020-1098-jpg_l.jpg) |  |
-| sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | 所属作品：`to love-ru` | [萌娘百科](https://zh.moegirl.org.cn/赛菲·米卡埃拉·戴比路克) |
+| sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/11/21/14/50/59/124497875_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克王奇多的妻子，菈菈、娜娜、梦梦的母亲。宇宙中最美貌的种族“查姆人”的最后的末裔，拥有着能让任何男性看到自己的容颜就会失去理智的能力。 | [萌娘百科](https://zh.moegirl.org.cn/赛菲·米卡埃拉·戴比路克) |
 | tearju lunatique | 提亚悠·鲁娜提克 | ![](# "https://ehgt.org/53/d9/53d9a959154986798ac11d0ea2c6b278409ec446-718950-1400-1981-jpg_l.jpg") |  |
 | run elsie jewelria | 伦·艾尔西·裘利亚 | ![](https://ehgt.org/21/dc/21dc4dacbd66ea9054dd302f6bfa0194b6ee1af4-892085-2527-1750-jpg_l.jpg) |  |
 | risa momioka | 籾冈里纱 | ![](https://ehgt.org/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |  |
