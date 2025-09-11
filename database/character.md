@@ -1218,7 +1218,7 @@ example:
 | haruna sairenji | 西连寺春菜 | ![](https://ehgt.org/ae/63/ae638a65cc167fe192da593d9acbbee423352fae-1111253-2437-1750-jpg_l.jpg) |  |
 | golden darkness | 金色暗影 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/30/03/59/09/134484410_p3_master1200.jpg)<br>所属作品：`to love-ru`<br>宇宙中最危险的刺客。外表是个金发红瞳、穿着黑色战斗礼服的小女孩。因拥有能将自己身上的任何器官转换成武器的能力，故被称为“全身凶器”。 | [萌娘百科](https://zh.moegirl.org.cn/金色暗影) |
 | yui kotegawa | 古手川唯 | ![图](# "https://ehgt.org/5d/dd/5ddd03ad6ddcf266abdd88b6d1eef2f8f65aea54-173912-1084-1530-jpg_l.jpg")![](https://ehgt.org/0b/5e/0b5e9c4696b43f6aceae624ef6b75b29d2142035-631115-2840-4094-jpg_l.jpg) |  |
-| mikan yuuki | 结城美柑 | ![图](# "https://ehgt.org/04/bd/04bdc7ebdbc7abffe18f76b22703fbaf5144d566-134823-1084-1530-jpg_l.jpg")![](https://ehgt.org/a7/79/a7797195a3e191f42d7cabb1a196cae5692da6f0-650692-1225-1748-jpg_l.jpg) |  |
+| mikan yuuki | 结城美柑 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的妹妹。11岁的小学五年级学生，现在已升为六年级。小恶魔个性的美少女。 | [萌娘百科](https://zh.moegirl.org.cn/结城美柑) |
 | nemesis | 涅墨西斯 | ![](# "https://ehgt.org/99/1a/991a7a6f0af87c321228f28aa6d96175502f32a4-1647950-2117-3000-jpg_l.jpg") |  |
 | saki tenjouin | 天条院沙姬 | ![](https://ehgt.org/e4/92/e492c172740f446cfa813ff48a8afb6c6401e59f-743197-1225-1783-jpg_l.jpg) |  |
 | aya fujisaki | 藤崎绫 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
