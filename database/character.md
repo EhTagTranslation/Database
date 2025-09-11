@@ -1220,7 +1220,7 @@ example:
 | yui kotegawa | 古手川唯 | ![](https://i.pixiv.cat/img-master/img/2025/08/27/16/00/10/134385368_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>作为风纪委员长风纪委员长是最扰乱风纪的(笑)，在学期的一开始，将菈菈和梨斗列为密切注意的人物，但是在冲绳星上意外被梨斗看到裸体，而且之后又曾在不良少年的手中被梨斗救出，开始对梨斗产生淡淡的爱意。 | [萌娘百科](https://zh.moegirl.org.cn/古手川唯) |
 | mikan yuuki | 结城美柑 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的妹妹。11岁的小学五年级学生，现在已升为六年级。小恶魔个性的美少女。 | [萌娘百科](https://zh.moegirl.org.cn/结城美柑) |
 | nemesis | 涅墨西斯 | ![](https://img.moegirl.org.cn/common/5/54/Character_14_04.png)<br>所属作品：`to love-ru`<br>芽亚的「主人」。与金色暗影和芽亚同为变身兵器，诞生于两者不同的“涅墨西斯计划”。 | [萌娘百科](https://zh.moegirl.org.cn/涅墨西斯%28出包王女%29#) |
-| saki tenjouin | 天条院沙姬 | ![](https://ehgt.org/e4/92/e492c172740f446cfa813ff48a8afb6c6401e59f-743197-1225-1783-jpg_l.jpg) |  |
+| saki tenjouin | 天条院沙姬 | ![](https://i.pixiv.cat/img-master/img/2024/03/02/01/30/02/116538343_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>天条院集团总帅的掌上明珠，超级有钱人，比梨斗等人高一个年级的美少女学姐。<br>自尊心极高，经常自称是女王，对自己非常自信，常因自己如果不是第一就觉得不舒服。 | [萌娘百科](https://zh.moegirl.org.cn/天条院沙姬) |
 | aya fujisaki | 藤崎绫 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | rin kujou | 九条凛 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | mea kurosaki | 黑咲芽亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/25/15/00/11/134311106_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>起初应主人涅墨西斯的命令，为使小暗回想起自己兵器的本质而来到地球。<br>现伪装为结城梨斗的学妹，和菈菈的妹妹娜娜、梦梦为同班同学。 | [萌娘百科](https://zh.moegirl.org.cn/黑咲芽亚) |
