@@ -14001,6 +14001,7 @@ example:
 | yoshiki-chan | よしきちゃん |  |  |
 | toji | 冬至 |  |  |
 | marui shiro | 四角いくろ丸 | ![X（推特）头像](https://pbs.twimg.com/profile_images/1811318848219693056/bSt39X3M_400x400.jpg)<br>BL同人志，男の娘商业志作家 | [X](https://x.com/ghha9696)<br>[misskey](https://misskey.io/@ghha3333) |
+| mikaze maruto | 緑風マルト |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
