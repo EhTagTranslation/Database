@@ -1924,7 +1924,7 @@ example:
 | miyako arima | 有间都古 |  |  |
 | chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
-| miyu edelfelt | 美游·艾德费尔特 | 平行世界中的“圣杯战争”中的圣杯容器<br>![图](# "https://ehgt.org/4e/39/4e396284adfea8b2a493fe3320278a02ce0db1df-260187-1255-1822-jpg_l.jpg")![图](# "https://ehgt.org/51/0b/510b1d37cb5e4b095c774bbbff8dbfd0b1417a4b-351382-1410-2024-jpg_l.jpg") |  |
+| miyu edelfelt | 美游·艾德费尔特 | ![](https://img.moegirl.org.cn/common/1/1f/礼装_苍玉的魔法少女.png)<br>所属作品：\`fate kaleid liner prisma illya<br>魔法蓝宝石的新主人，被露维亚瑟琳塔收为义妹（“艾德费尔特”姓氏的来由，其原本的姓氏为朔月，后因实现自己成为哥哥的亲妹妹的愿望后改姓卫宫），以转学生的身份转到伊莉雅的学校。 | [萌娘百科](https://zh.moegirl.org.cn/美游·艾德费尔特) |
 | sella | 塞拉 |  |  |
 | euryale | 尤瑞艾莉 | 尤瑞艾莉是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/hollow ataraxia》中首次登场。<br>希腊神话中戈耳工三姊妹的次女。<br>![二姐初始](https://img.moegirl.org.cn/common/6/63/二姐初始.png)![二姐满破](https://img.moegirl.org.cn/common/3/3d/二姐满破.png) | [萌娘百科](https://zh.moegirl.org.cn/尤瑞艾莉) [Mooncell](http://www.fgo.wiki/w/尤瑞艾莉) |
 | shiki ryougi | 两仪式 | ![图](https://ehgt.org/39/6a/396a0c4d0cb0ad982c1ab74cb2ee7993db9e4e1a-1666909-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/b8/42/b84245fa93af8346e1bbe64499c92b0795946d57-1436434-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/两仪式) [Saber - Mooncell](http://www.fgo.wiki/w/两仪式) [Assassin - Mooncell](http://www.fgo.wiki/w/两仪式%28Assassin%29) |
