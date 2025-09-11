@@ -13286,6 +13286,7 @@ example:
 | nanashi factory | ななし工房 |  |  |
 | tj studio | TJ\_studio |  |  |
 | noir complex | Noir Complex |  |  |
+| danimaru studio | だにまるstudio |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
