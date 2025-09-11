@@ -1223,7 +1223,7 @@ example:
 | saki tenjouin | 天条院沙姬 | ![](https://ehgt.org/e4/92/e492c172740f446cfa813ff48a8afb6c6401e59f-743197-1225-1783-jpg_l.jpg) |  |
 | aya fujisaki | 藤崎绫 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | rin kujou | 九条凛 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
-| mea kurosaki | 黑咲芽亚 | ![图](# "https://ehgt.org/60/52/6052fa80e6b795e3949252f016938d3db27f32aa-126241-1084-1530-jpg_l.jpg")![](https://ehgt.org/0f/1a/0f1aa86e0b9a9eee00f29c9d4c46c6c738f00b78-584908-2842-4093-jpg_l.jpg) |  |
+| mea kurosaki | 黑咲芽亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/25/15/00/11/134311106_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>起初应主人涅墨西斯的命令，为使小暗回想起自己兵器的本质而来到地球。<br>现伪装为结城梨斗的学妹，和菈菈的妹妹娜娜、梦梦为同班同学。 | [萌娘百科](https://zh.moegirl.org.cn/黑咲芽亚) |
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p5_master1200.jpg)<br>所属作品：`to love-ru`<br>菈菈的妹妹，有露出象征小恶魔的上犬齿。因为梨斗经常在不经意间对女生做出神摔而十分愤怒，一开始很讨厌梨斗，认为梨斗是“禽兽”，但后来慢慢也对梨斗开始报有好感。 | [萌娘百科](https://zh.moegirl.org.cn/娜娜·阿斯塔·戴比路克) |
 | momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/26/15/00/19/134348005_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克星银河系的第三公主，菈菈的妹妹，跟娜娜佐天泪子是孪生姊妹百合姬友，同娜娜相比算是巨乳。<br>拥有和植物沟通的能力，在银河中收纳了数百种植物朋友，可以利用菈菈开发的传送装置召唤出来。 | [萌娘百科](https://zh.moegirl.org.cn/梦梦·贝莉雅·戴比路克) |
 | riko yuusaki | 夕崎梨子 | ![](https://ehgt.org/61/4b/614b4a0530b8d055505917dfa3123576fe27ff59-159705-1020-1098-jpg_l.jpg) |  |
