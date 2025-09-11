@@ -1922,7 +1922,7 @@ example:
 | atalanta | 阿塔兰忒 | 游戏`fate grand order`或fate衍生作品中的出场角色。<br>![图](https://ehgt.org/9a/ab/9aab6e54e99bea14f2ea16f5e10cbc0fc3e0b958-2860389-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/阿塔兰忒) [萌娘百科](https://zh.moegirl.org.cn/阿塔兰忒%28Fate%29#) |
 | kairi sisigou | 狮子劫界离 |  |  |
 | miyako arima | 有间都古 |  |  |
-| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | 小黑，伊莉雅身上分裂并实体化的人格<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)![图](# "https://ehgt.org/96/7a/967a8932f2b737ffddd073262b6bf62caba7177a-1419025-1280-1832-jpg_l.jpg") |  |
+| chloe von einzbern | 克洛伊·冯·爱因兹贝伦 | 所属作品：\`fate kaleid liner prisma illya<br>![图](https://ehgt.org/f8/b7/f8b7fe4e4aca18bb156291b98451be84edbaa6f2-2261474-1024-1448-png_l.jpg)<br>由于使地脉正常化的仪式出了差错，里人格从伊莉雅身上分离出来并借助Archer的职阶卡实体化。“克洛伊”为获得身体后自己瞎掰出的名字，（クロエ读音与日语中黑色相同），被爱丽丝菲尔收服后以伊莉雅堂妹的身份住进爱因兹贝伦家，和伊莉雅为了谁是姐姐谁是妹妹的问题和爱因兹贝伦家食物链应如何排序的问题争斗不休。 | [萌娘百科](https://zh.moegirl.org.cn/克洛伊·冯·爱因兹贝伦) |
 | luviagelita edelfelt | 露维亚瑟琳塔·艾德费尔特 |  |  |
 | miyu edelfelt | 美游·艾德费尔特 | ![](https://img.moegirl.org.cn/common/1/1f/礼装_苍玉的魔法少女.png)<br>所属作品：\`fate kaleid liner prisma illya<br>魔法蓝宝石的新主人，被露维亚瑟琳塔收为义妹（“艾德费尔特”姓氏的来由，其原本的姓氏为朔月，后因实现自己成为哥哥的亲妹妹的愿望后改姓卫宫），以转学生的身份转到伊莉雅的学校。 | [萌娘百科](https://zh.moegirl.org.cn/美游·艾德费尔特) |
 | sella | 塞拉 |  |  |
