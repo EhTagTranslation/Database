@@ -3169,7 +3169,7 @@ example:
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
 | hajime nagumo | 南云始 |  |  |
-| yue | 月 |  |  |
+| yue | 月 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/03/06/07/39/37/127911904_p1_master1200.jpg)<br><br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>魔法水平世界第一。对南云始时的糟糕程度也是世界第一。<br>在大迷宫的奈落被南云始解除封印的吸血鬼美少女，度过了与年龄不符的漫长岁月。 | [萌娘百科](https://zh.moegirl.org.cn/月%28平凡职业造就世界最强%29#) |
 | shea haulia | 希娅·哈乌利亚 |  |  |
 | kaori shirasaki | 白崎香织 |  |  |
 | hanako honda | 本田华子 |  |  |
