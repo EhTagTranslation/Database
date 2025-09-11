@@ -1225,7 +1225,7 @@ example:
 | rin kujou | 九条凛 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
 | mea kurosaki | 黑咲芽亚 | ![图](# "https://ehgt.org/60/52/6052fa80e6b795e3949252f016938d3db27f32aa-126241-1084-1530-jpg_l.jpg")![](https://ehgt.org/0f/1a/0f1aa86e0b9a9eee00f29c9d4c46c6c738f00b78-584908-2842-4093-jpg_l.jpg) |  |
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p5_master1200.jpg)<br>所属作品：`to love-ru`<br>菈菈的妹妹，有露出象征小恶魔的上犬齿。因为梨斗经常在不经意间对女生做出神摔而十分愤怒，一开始很讨厌梨斗，认为梨斗是“禽兽”，但后来慢慢也对梨斗开始报有好感。 | [萌娘百科](https://zh.moegirl.org.cn/娜娜·阿斯塔·戴比路克) |
-| momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![图](# "https://ehgt.org/43/c8/43c8e93b7eebedfc9ad21cee77baf738e74791a7-124654-1084-1530-jpg_l.jpg")![图](https://ehgt.org/3a/33/3a3381f3514a5914dbb89eb4a50c67c89e6689d9-157645-1084-1530-jpg_l.jpg)![](https://ehgt.org/05/fb/05fb2e3fce0b7f6531eb3e70fc148a6deed59da9-553226-2839-4096-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/梦梦·贝莉雅·戴比路克) |
+| momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/28/13/18/57/132061849_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克星银河系的第三公主，菈菈的妹妹，跟娜娜佐天泪子是孪生姊妹百合姬友，同娜娜相比算是巨乳。<br>拥有和植物沟通的能力，在银河中收纳了数百种植物朋友，可以利用菈菈开发的传送装置召唤出来。 | [萌娘百科](https://zh.moegirl.org.cn/梦梦·贝莉雅·戴比路克) |
 | riko yuusaki | 夕崎梨子 | ![](https://ehgt.org/61/4b/614b4a0530b8d055505917dfa3123576fe27ff59-159705-1020-1098-jpg_l.jpg) |  |
 | sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://ehgt.org/aa/fd/aafdea5b0914bbe92878033ff2cc5c79c42e7a91-960909-2112-3000-jpg_l.jpg) |  |
 | tearju lunatique | 提亚悠·鲁娜提克 | ![](# "https://ehgt.org/53/d9/53d9a959154986798ac11d0ea2c6b278409ec446-718950-1400-1981-jpg_l.jpg") |  |
