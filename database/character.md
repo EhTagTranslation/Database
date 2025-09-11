@@ -6709,6 +6709,7 @@ example:
 | cacao | 可可 | `p:knights of ramune` |  |
 | rika hoshizaki | 星崎理香 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/1/1d/星崎理香character.png/270px-星崎理香character.png) | [萌娘百科](https://zh.moegirl.org.cn/星崎理香) |
 | saki saki | 佐木咲 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/佐木咲character.png/195px-佐木咲character.png) | [萌娘百科](https://zh.moegirl.org.cn/佐木咲) |
+| coquelic | 可可莉克 | ![](https://patchwiki.biligame.com/images/wqmt/thumb/a/a9/n10bokg8e8oolpq1cihwq6ddds9hpa8.png/480px-可可莉克立绘.png)<br>《无期迷途》中出场角色 | [无期迷途WIKI](https://wiki.biligame.com/wqmt/禁闭者:可可莉克) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
