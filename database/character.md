@@ -3168,7 +3168,7 @@ example:
 | shinichi sakurai | 樱井真一 |  |  |
 | ryoko yoshida | 吉田良子 |  |  |
 | sieg | 齐格 |  |  |
-| hajime nagumo | 南云始 |  |  |
+| hajime nagumo | 南云始 | ![](https://img.moegirl.org.cn/common/7/7c/Hajime_Nagumo.png)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>某一天和全班同学突然被转移到异世界后，因其天职为炼成师，无魔法适应性，而被同学称为无能且遭到歧视。后来经过许多试炼终于成为了世界最强。 | [萌娘百科](https://zh.moegirl.org.cn/南云始) |
 | yue | 月 | ![](https://i.pixiv.cat/img-master/img/2025/01/01/05/33/25/125768896_p0_master1200.jpg)<br><br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>魔法水平世界第一。对南云始时的糟糕程度也是世界第一。<br>在大迷宫的奈落被南云始解除封印的吸血鬼美少女，度过了与年龄不符的漫长岁月。 | [萌娘百科](https://zh.moegirl.org.cn/月%28平凡职业造就世界最强%29#) |
 | shea haulia | 希娅·哈乌利亚 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/31/21/41/31/126756665_p0_master1200.jpg)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>精神满满，天真浪漫，容易得意忘形的残念兔。郝里亚族族长的女儿，是亚人中唯一拥有魔法适应性和天赋能力的人。 | [萌娘百科](https://zh.moegirl.org.cn/希雅·郝里亚) |
 | kaori shirasaki | 白崎香织 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/12/16/19/22/127160911_p0_master1200.jpg)<br><br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>男主角南云始的同班同学，也是勇者天之河光辉、剑士八重槛雫、拳士坂上龙太郎的青梅竹马。在学校里和雫一起被并称为学园的两大校花，两人的关系很好。 | [萌娘百科](https://zh.moegirl.org.cn/白崎香织) |
