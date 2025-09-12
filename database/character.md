@@ -1325,7 +1325,7 @@ example:
 |  | ▼ 约会大作战 角色 |  |  |
 | origami tobiichi | 鸢一折纸 | ![](https://pic.cangku.moe/images/2025/09/04/1ypK3.md.webp) |  |
 | kurumi tokisaki | 时崎狂三 | ![](https://pic.cangku.moe/images/2025/09/04/1yLUc.md.webp)<br>时崎狂三（时崎狂三，Tokisaki Kurumi）是第三个出现的精灵。由于她的残忍行为，她被称为最恶之精灵。 |  |
-| yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>冰芽川四糸（ひめかわ よしの），是橘公司所著、つなこ负责插画的轻小说《约会大作战》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
+| yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>所属作品：`date a live`<br>士道第二遇到的精灵，性格温柔善良，早期有点胆小且十分依赖四糸奈。 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
 | kotori itsuka | 五河琴里 | ![](https://pic.cangku.moe/images/2025/09/04/1y5Uo.md.webp) |  |
 | kaguya yamai | 八舞耶俱矢 | ![](https://pic.cangku.moe/images/2025/09/04/1yksq.md.webp) |  |
 | yuzuru yamai | 八舞夕弦 | ![](https://pic.cangku.moe/images/2025/09/04/1ylBp.md.webp) |  |
