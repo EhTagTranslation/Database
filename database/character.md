@@ -1329,7 +1329,7 @@ example:
 | kotori itsuka | 五河琴里 | ![](https://pic.cangku.moe/images/2025/09/04/1y5Uo.md.webp)<br>所属作品：`date a live`<br>与士道同居的义妹，兄控。同时担任Ratatoskr司令官。爱吃佳倍加棒棒糖。 | [萌娘百科](https://zh.moegirl.org.cn/五河琴里) |
 | kaguya yamai | 八舞耶俱矢 | ![](https://pic.cangku.moe/images/2025/09/04/1yksq.md.webp)<br>![](https://img.moegirl.org.cn/common/6/6f/Kaguya_Mizugi.png)<br>所属作品：`date a live`<br>八舞本是一个精灵，然而在某次现界（成为精灵）的时候，一个精灵分成了两个，各自拥有独立的人格，能力也被分为了两部分。其中之一就是耶俱矢。 | [萌娘百科](https://zh.moegirl.org.cn/八舞耶俱矢) |
 | yuzuru yamai | 八舞夕弦 | ![](https://pic.cangku.moe/images/2025/09/04/1ylBp.md.webp)<br>所属作品：`date a live`<br>八舞本是一个精灵，然而在某次现界（成为精灵）的时候，一个精灵分成了两个，各自拥有独立的人格，能力也被分为了两部分，其中之一就是夕弦。 | [萌娘百科](https://zh.moegirl.org.cn/八舞夕弦) |
-| miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp) |  |
+| miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp)<br>所属作品：`date a live`<br>就读于龙胆寺女子学院，偶像身份活跃着。有着百合属性，特别喜欢女装后的士道（五河士织）。 | [萌娘百科](https://zh.moegirl.org.cn/诱宵美九) |
 | tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp)<br>所属作品：`date a live`<br>天真单纯，非常喜欢吃东西，超级难养的大胃王。士道高二时第一位遇到的精灵，名字是士道起的。 | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
 | shido itsuka | 五河士道 |  |  |
 | reine murasame | 村雨令音 | ![](https://pic.cangku.moe/images/2025/09/04/1yhli.md.webp) |  |
