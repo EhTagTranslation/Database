@@ -4008,7 +4008,7 @@ example:
 | flamebringer | 炎客 |  |  |
 | matterhorn | 角峰 | 角峰是游戏《明日方舟》及其衍生作品的登场角色。 |  |
 | silverash | 银灰 | ![](https://patchwiki.biligame.com/images/arknights/8/81/4vkkrcasr44wj64qr49tc51qap3ihj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:银灰) |
-| ptilopsis | 白面鸮 |  |  |
+| ptilopsis | 白面鸮 | ![](https://patchwiki.biligame.com/images/arknights/b/b7/9j2j8madfqm8vakmsl8rg2n34i0lran.png)<br><br>所属作品：`arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/白面鸮) |
 | blemishine | 瑕光 | ![](https://patchwiki.biligame.com/images/arknights/7/7a/3px6m97pxtx2zodj0u1ftvlo5zjk447.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:瑕光) |
 | whislash | 鞭刃 | ![](https://patchwiki.biligame.com/images/arknights/2/24/jovmfty4z63fg4cdxx34vrb31k5zz7w.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:鞭刃) |
 | dobermann | 杜宾 | ![](https://patchwiki.biligame.com/images/arknights/6/63/skqf004ij43umwbqo4chtvnqbvak4re.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:杜宾) |
