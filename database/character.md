@@ -6039,7 +6039,7 @@ example:
 | nobeta | 诺贝塔 |  |  |
 | rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 | sakura ritsuki | 樱凛月 |  |  |
-| natsumi kyouno | 镜野七罪 | ![](https://pic.cangku.moe/images/2025/09/04/1125K.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11PqT.webp)<br>约会大作战中的女角色 |  |
+| natsumi kyouno | 镜野七罪 | ![](https://pic.cangku.moe/images/2025/09/04/1125K.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11PqT.webp)<br>所属作品：`date a live`<br>性格消极自卑，身材娇小，尤其对自己的外貌不自信，所以使用精灵的能力将自己变为大姐姐形态，御姐的外表下隐藏着萝莉形态。 | [萌娘百科](https://zh.moegirl.org.cn/镜野七罪) |
 | otogi | 音葵 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_805/h_1186/829/399789/2024/4/14/508341.png)SRT特殊学园FOX小队的狙击手，代号为FOX4。 | [Gamekee百科](https://www.gamekee.com/ba/591005.html) |
 | ein | 无 \| 爱因 | ①所属作品 `goddess of victory nikke`<br>M.M.R. 附属高中的 1 年级在读学生，对时装设计很感兴趣。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737047/2025/3/17/150640.png)<br><br>②所属作品`p:blue archive`<br>神明十文字三人组之一。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_305/h_885/829/191981/2024/6/2/253483.png) | [Gamekee百科 蔚蓝档案](https://www.gamekee.com/ba/607316.html)<br>[Gamekee百科 妮姬](https://www.gamekee.com/nikke/tj/590070.html) |
 | ohr | 光 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_489/h_908/829/191981/2024/6/2/711028.png)神明十文字三人组之一。 | [Gamekee百科](https://www.gamekee.com/ba/607318.html) |
