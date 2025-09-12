@@ -959,7 +959,7 @@ example:
 | warship girls | 战舰少女 |  |  |
 | sexfriend | SEXFRIEND |  |  |
 | school days | 日在校园 |  |  |
-| walkure romanze | 少女骑士物语 |  |  |
+| walkure romanze | 少女骑士物语 | ![](https://img.moegirl.org.cn/common/f/f1/少女骑士物语封面.jpg)<br><br>由Ricotta制作的成人（R-18）游戏，并有漫画、广播剧等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/少女骑士物语) |
 | majin bone | 魔神之骨 |  |  |
 | starry sky | Starry☆Sky |  |  |
 | amano megumi ha sukidarake | 天野惠浑身是破绽！ |  |  |
