@@ -2696,7 +2696,7 @@ example:
 | sinbad | 辛巴德 |  |  |
 | yamuraiha | 雅姆莱哈 |  |  |
 | kurumi kumamakura | 熊枕久瑠美 |  |  |
-| priscilla barielle | 普莉希拉·跋利耶尔 |  |  |
+| priscilla barielle | 普莉希拉·跋利耶尔 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/11/17/26/34/134969920_p1_master1200.jpg)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>国王候补者之一。在未婚夫莱普·跋利耶尔死后继承了跋利耶尔家。<br>年纪轻轻却已经嫁过了7个人，但对象都在一年内死亡，被人忌讳的称为「血色新娘」。 | [萌娘百科](https://zh.moegirl.org.cn/普莉希拉·跋利耶尔) |
 | roomi | 萝米 |  |  |
 | martial artist | 武斗家 |  |  |
 | thief | 盗贼 |  |  |
