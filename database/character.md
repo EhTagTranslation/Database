@@ -1326,7 +1326,7 @@ example:
 | origami tobiichi | 鸢一折纸 | ![](https://pic.cangku.moe/images/2025/09/04/1ypK3.md.webp)<br>所属作品：`date a live`<br>士道的同班同学，全能少女，最早是AST队员后来跳槽到DEM。 | [萌娘百科](https://zh.moegirl.org.cn/鸢一折纸) |
 | kurumi tokisaki | 时崎狂三 | ![](https://pic.cangku.moe/images/2025/09/04/1yLUc.md.webp)<br>所属作品：`date a live`<br>第三个出现的精灵。左眼样貌为金色时钟，持着谜之野心而渴望着士道的精灵。被称为最邪恶的精灵，代号是梦魇。 | [萌娘百科](https://zh.moegirl.org.cn/时崎狂三) |
 | yoshino himekawa | 冰芽川四糸乃 | ![冰芽川四糸乃](https://i.loli.net/2021/02/15/DtxSqAHeTy6NKMw.jpg)<br>所属作品：`date a live`<br>士道第二遇到的精灵，性格温柔善良，早期有点胆小且十分依赖四糸奈。 | [萌娘百科](https://zh.moegirl.org.cn/冰芽川四糸乃) |
-| kotori itsuka | 五河琴里 | ![](https://pic.cangku.moe/images/2025/09/04/1y5Uo.md.webp) |  |
+| kotori itsuka | 五河琴里 | ![](https://pic.cangku.moe/images/2025/09/04/1y5Uo.md.webp)<br>所属作品：`date a live`<br>与士道同居的义妹，兄控。同时担任Ratatoskr司令官。爱吃佳倍加棒棒糖。 | [萌娘百科](https://zh.moegirl.org.cn/五河琴里) |
 | kaguya yamai | 八舞耶俱矢 | ![](https://pic.cangku.moe/images/2025/09/04/1yksq.md.webp) |  |
 | yuzuru yamai | 八舞夕弦 | ![](https://pic.cangku.moe/images/2025/09/04/1ylBp.md.webp) |  |
 | miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp) |  |
