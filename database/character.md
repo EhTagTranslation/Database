@@ -1332,7 +1332,7 @@ example:
 | miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp)<br>所属作品：`date a live`<br>就读于龙胆寺女子学院，偶像身份活跃着。有着百合属性，特别喜欢女装后的士道（五河士织）。 | [萌娘百科](https://zh.moegirl.org.cn/诱宵美九) |
 | tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp)<br>所属作品：`date a live`<br>天真单纯，非常喜欢吃东西，超级难养的大胃王。士道高二时第一位遇到的精灵，名字是士道起的。 | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
 | shido itsuka | 五河士道 |  |  |
-| reine murasame | 村雨令音 | ![](https://pic.cangku.moe/images/2025/09/04/1yhli.md.webp) |  |
+| reine murasame | 村雨令音 | ![](https://pic.cangku.moe/images/2025/09/04/1yhli.md.webp)<br>![](https://img.moegirl.org.cn/common/5/5c/Reine_.png)<br>所属作品：`date a live`<br>“佛拉克西纳斯”战舰的成员，拉塔托斯克的分析官。五河士道的约会作战指导老师，兼任医护官，五河琴里的得力助手。 | [萌娘百科](https://zh.moegirl.org.cn/村雨令音) |
 |  | ▼ 腹黑妹妹控兄记 角色 |  |  |
 | mayuka kondou | 近藤茧佳 |  |  |
 | nao takanashi | 高梨奈绪 |  |  |
