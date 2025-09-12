@@ -3188,7 +3188,7 @@ example:
 | fumino furuhashi | 古桥文乃 |  |  |
 | rizu ogata | 绪方理珠 |  |  |
 | asumi kominami | 小美浪爱澄 |  |  |
-| echidna | 艾姬多娜 |  |  |
+| echidna | 艾姬多娜 | ![](https://img.moegirl.org.cn/common/2/23/エキドナ.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>追求世界上所有智慧，就连死后也舍不得放弃，追求一切知识的『强欲魔女』。<br>400多年前，背负着大罪之名，撼动并影响了世界的7名『魔女』之一。 | [萌娘百科](https://zh.moegirl.org.cn/艾姬多娜) |
 | haruka oozora | 大空遥 |  |  |
 | kanata higa | 比嘉彼方 |  |  |
 | narumi tooi | 远井成美 |  |  |
