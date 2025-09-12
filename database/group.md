@@ -13287,6 +13287,7 @@ example:
 | tj studio | TJ\_studio |  |  |
 | noir complex | Noir Complex |  |  |
 | danimaru studio | だにまるstudio |  |  |
+| oishii ko | オイシイこ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
