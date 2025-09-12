@@ -1330,7 +1330,7 @@ example:
 | kaguya yamai | 八舞耶俱矢 | ![](https://pic.cangku.moe/images/2025/09/04/1yksq.md.webp) |  |
 | yuzuru yamai | 八舞夕弦 | ![](https://pic.cangku.moe/images/2025/09/04/1ylBp.md.webp) |  |
 | miku izayoi | 诱宵美九 | ![](https://pic.cangku.moe/images/2025/09/04/1y7wF.md.webp) |  |
-| tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp) |  |
+| tohka yatogami | 夜刀神十香 | ![](https://pic.cangku.moe/images/2025/09/04/1yHL6.md.webp)<br>所属作品：`date a live`<br>天真单纯，非常喜欢吃东西，超级难养的大胃王。士道高二时第一位遇到的精灵，名字是士道起的。 | [萌娘百科](https://zh.moegirl.org.cn/夜刀神十香) |
 | shido itsuka | 五河士道 |  |  |
 | reine murasame | 村雨令音 | ![](https://pic.cangku.moe/images/2025/09/04/1yhli.md.webp) |  |
 |  | ▼ 腹黑妹妹控兄记 角色 |  |  |
