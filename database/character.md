@@ -1809,7 +1809,7 @@ example:
 | haruka ono | 小野遥 |  |  |
 | honoka mitsui | 光井穗香 |  |  |
 | mari watanabe | 渡边摩利 |  |  |
-| mayumi saegusa | 七草真由美 |  |  |
+| mayumi saegusa | 七草真由美 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/12/07/00/42/18/124958270_p1_master1200.jpg)<br>所属作品：`mahouka koukou no rettousei`<br>第一学年一高的学生会会长，也是十师族之一七草家的长女，同深雪一样，以第一名的成绩通过了第一高中的入学考试的才女。 | [萌娘百科](https://zh.moegirl.org.cn/七草真由美) |
 | miyuki shiba | 司波深雪 | ![](https://i.pixiv.cat/img-master/img/2025/06/30/17/25/50/132149612_p0_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
 | mizuki shibata | 柴田美月 |  |  |
 | sayaka mibu | 壬生纱耶香 |  |  |
