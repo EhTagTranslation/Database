@@ -14004,6 +14004,7 @@ example:
 | mikaze maruto | 緑風マルト |  |  |
 | yuruta | ゆるた |  |  |
 | nr | NR |  |  |
+| cm you | CM羊 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
