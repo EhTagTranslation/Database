@@ -1815,7 +1815,7 @@ example:
 | sayaka mibu | 壬生纱耶香 |  |  |
 | shizuku kitayama | 北山雫 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/11/12/16/00/129182427_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>大财阀北山家族的千金。平时很少发表自己的主张，但是却是言辞犀利并且十分聪敏的角色。是剧中的吐槽役担当。 | [萌娘百科](https://zh.moegirl.org.cn/北山雫) |
 | suzune ichihara | 市原铃音 |  |  |
-| tatsuya shiba | 司波达也 |  |  |
+| tatsuya shiba | 司波达也 | ![](https://img.moegirl.org.cn/common/c/ce/抗中奇侠.png)<br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/司波达也) |
 |  | ▼ TYPE-MOON |  |  |
 |  | TYPE-MOON > Fate |  |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争） |  |  |
