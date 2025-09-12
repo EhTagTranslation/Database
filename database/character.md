@@ -3482,7 +3482,7 @@ example:
 | grass wonder | 草上飞 | ![](https://moegirl.icu/media/thumb/UPDCH_GrassWonder_00.png/580px-UPDCH_GrassWonder_00.png)<br>游戏`uma musume pretty derby`及其衍生作品中的角色。<br><br>声：前田玲奈<br>身高：152cm，体重：无增减，三围：B78/W53/H84，生日：2月18日<br>特别周的同班同学，性格稳重沉着，总是面带微笑并有着腹黑的性格，在特别周转入特雷森学园之前就已经是“Rigil”的队员。与神鹰是室友关系。<br>登场时处于右腿骨折休养复健的状态，康复后为了尽快恢复私自增加训练强度而受到了东条华的训斥。<br>在与特别周一起参加宝冢纪念赛前因为特别周只顾著照顾无声铃鹿却不重视比赛而感到有点生气，比赛中战胜特别周取得优胜。<br>经常陪特别周在学校食堂吃饭。食量原本很普通，在第2季时却已经变得和特别周一样。(\*) | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色) (\*) [萌娘百科](https://zh.moegirl.org.cn/草上飞) (\*\*) |
 | himiko toga | 渡我被身子 | 渡我被身子是漫画《`my hero academia`》及其衍生作品的登场角色。<br><br>![图](# "https://ehgt.org/5c/42/5c4248f20400ddd4ab9e0ba3047780238fa029e2-282143-1300-1836-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/渡我被身子) (\*\*) |
 | black rock shooter | 黑岩射手 | BLACK★ROCK SHOOTER（ブラック★ロックシューター，CV：花泽香菜）<br>麻陶的里世界化身，里世界称为黑岩射手。手持ROCK★CANNON，此武器可于一秒内发射20发岩石，也可转变为一把巨剑。最后黑衣和黑岩会面将优美救出。(\*) | [维基百科](https://zh.wikipedia.org/wiki/BLACK★ROCK_SHOOTER動畫角色列表) (\*) |
-| mio kisaki | 希咲美樱 |  |  |
+| mio kisaki | 希咲美樱 | ![](https://img.moegirl.org.cn/common/a/a8/1295_c_2.jpg)<br><br>所属作品：`walkure romanze`<br>是在水野贵弘留学之前就已经认识的老友，是青梅竹马。<br>有既是同学，又是邻居，还是每天都会上门叫他起床的亲密关系。 |  |
 | lisa eostre | 丽莎·埃奥斯托雷 | ![](https://img.moegirl.org.cn/common/2/27/1295_c_5.jpg)<br><br>所属作品：`walkure romanze`<br>有着出类拔萃的马术才能，身为1年级学生就已是新秀。<br>在同学年中无人能与她匹敌，就算是高年级生，能与她媲美的也只有极少数人而已。 |  |
 | bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
 | takahiro mizuno | 水野贵弘 |  |  |
