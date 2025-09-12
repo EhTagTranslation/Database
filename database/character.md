@@ -6302,7 +6302,7 @@ example:
 | orie takadate | 高楯欧丽叶 | 所属作品: `p:tenshi souzou re-boot` |  |
 | mint | 薄绿 | 所属作品`p:arknights`<br>![](https://patchwiki.biligame.com/images/arknights/4/40/q10fdkp78xgsf8s8rdihzexhbbrsxpy.png) | [BILIGAME WIKI](https://wiki.biligame.com/arknights/薄绿) |
 | almond eye | 杏目 |  |  |
-| maya yotsuba | 四叶真夜 |  |  |
+| maya yotsuba | 四叶真夜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/16/07/45/05/129358007_p9_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei` |  |
 | suzune amano | 天乃铃音 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/天乃铃音) |
 | tsubaki mikoto | 美琴椿 | 所属作品: `p:puella magi suzune magica` | [萌娘百科](https://zh.moegirl.org.cn/美琴椿) |
 | junia | 阿玛琉莉斯 | 所属作品: `p:puella magi madoka magica side story magia record`<br><br>古罗马时期，作为侍女侍奉于庞贝的名门望族的魔法少女。在经历了因天灾毁灭城镇的悲剧后，许下愿望，重生于3年前的过去。为了改变历史，将人们从惨剧中拯救出来，便在罗马和平时期为此奔走努力。顺带一提，她有喜欢棋盘游戏的隐秘爱好。 | [萌娘百科](https://zh.moegirl.org.cn/阿玛琉莉丝) |
