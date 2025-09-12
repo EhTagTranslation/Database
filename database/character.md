@@ -1805,7 +1805,7 @@ example:
 | blake belladonna | 布蕾克·贝拉多娜 |  |  |
 | yang xiao long | 阳小龙 |  |  |
 |  | ▼ 魔法科高中的劣等生 |  |  |
-| erika chiba | 千叶艾莉卡 |  |  |
+| erika chiba | 千叶艾莉卡 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/13/06/23/05/129248582_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>百家——千叶家当家的私生女。同时也是世界顶级魔法工学机器制造商Rosen Magicraft的新社长——埃因斯特·罗瑟的表姨甥女。 | [萌娘百科](https://zh.moegirl.org.cn/千叶艾莉卡) |
 | haruka ono | 小野遥 |  |  |
 | honoka mitsui | 光井穗香 |  |  |
 | mari watanabe | 渡边摩利 |  |  |
