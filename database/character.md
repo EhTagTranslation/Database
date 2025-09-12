@@ -3485,7 +3485,7 @@ example:
 | mio kisaki | 希咲美樱 | ![](https://img.moegirl.org.cn/common/a/a8/1295_c_2.jpg)<br><br>所属作品：`walkure romanze`<br>是在水野贵弘留学之前就已经认识的老友，是青梅竹马。<br>有既是同学，又是邻居，还是每天都会上门叫他起床的亲密关系。 |  |
 | lisa eostre | 丽莎·埃奥斯托雷 | ![](https://img.moegirl.org.cn/common/2/27/1295_c_5.jpg)<br><br>所属作品：`walkure romanze`<br>有着出类拔萃的马术才能，身为1年级学生就已是新秀。<br>在同学年中无人能与她匹敌，就算是高年级生，能与她媲美的也只有极少数人而已。 |  |
 | bertille althusser | 贝尔缇优·阿鲁奇赛尔 |  |  |
-| takahiro mizuno | 水野贵弘 |  |  |
+| takahiro mizuno | 水野贵弘 | ![](https://img.moegirl.org.cn/common/7/73/Takahiro_Mizuno.png)<br><br>所属作品：`walkure romanze`<br>在祖国同年代的马术骑手中是一个天才，战不无胜，没有失败过。<br>为了更高目标进发变得更强，他来到世界第一的长枪马术学校，然而由于一次比赛意外受伤，不得不从此黯然隐退。 |  |
 | shinonome | 东云 |  |  |
 | noel marres ascot | 诺埃尔·穆利斯·阿斯科特 | ![](https://img.moegirl.org.cn/common/d/d7/1295_c_3.jpg)<br><br>所属作品：`walkure romanze`<br>身为侯爵家的千金大小姐，但是开朗乐观又平易近人。<br>一直接受父亲的严格教导，她的言行举止有着浓厚的贵族味道。 |  |
 | celia cumani aintree | 苏利亚·库玛尼·安特里 | ![](https://img.moegirl.org.cn/common/d/d1/1295_c_4.jpg)<br><br>所属作品：`walkure romanze`<br>作品中同龄人公认的金发肤白的巨乳黑丝长腿年轻美女。中等身高，一头长到大腿的金发，底部和前面有紧卷发，长刘海、蓝眼睛，身材非常有料。 | [萌娘百科](https://zh.moegirl.org.cn/苏利亚·库玛尼·安特里) |
