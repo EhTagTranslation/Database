@@ -13288,6 +13288,7 @@ example:
 | noir complex | Noir Complex |  |  |
 | danimaru studio | だにまるstudio |  |  |
 | oishii ko | オイシイこ |  |  |
+| masumi pan koubou | ますみパン工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
