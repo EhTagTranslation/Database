@@ -12793,7 +12793,7 @@ example:
 | kumamoto aichi | 熊本愛知 |  |  |
 | arata | アラタ |  |  |
 | yumemi gachi | 夢ミガチ |  |  |
-| sinobiin | しのびん |  | [pixiv](https://www.pixiv.net/users/24153850) [X](https://x.com/4nobin) |
+| sinobiin | 忍见 |  | [pixiv](https://www.pixiv.net/users/24153850) [X](https://x.com/4nobin) |
 | funnyaka | フンニャカ |  | [pixiv](https://www.pixiv.net/users/4517134)  [X](https://x.com/funnyaka7) |
 | yonaka ao | よなかあお |  | [pixiv](https://www.pixiv.net/users/3357827) [X](https://x.com/aoi_illust_2077) |
 | scaf | SCAF（すかーふ） |  | [pixiv](https://www.pixiv.net/users/7086692) |
