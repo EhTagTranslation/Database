@@ -1810,7 +1810,7 @@ example:
 | honoka mitsui | 光井穗乃香 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/12/06/10/38/129210103_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>旧时代elements实验中光元素家系遗留者，【光】元素系统的继承者，有强大的光元素操纵能力。 | [萌娘百科](https://zh.moegirl.org.cn/光井穗乃香) |
 | mari watanabe | 渡边摩利 |  |  |
 | mayumi saegusa | 七草真由美 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/10/12/20/03/129150857_p3_master1200.jpg)<br>所属作品：`mahouka koukou no rettousei`<br>第一学年一高的学生会会长，也是十师族之一七草家的长女，同深雪一样，以第一名的成绩通过了第一高中的入学考试的才女。 | [萌娘百科](https://zh.moegirl.org.cn/七草真由美) |
-| miyuki shiba | 司波深雪 | ![](https://i.pixiv.cat/img-master/img/2025/06/30/17/25/50/132149612_p0_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
+| miyuki shiba | 司波深雪 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/10/07/40/00/129146747_p5_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
 | mizuki shibata | 柴田美月 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/13/15/27/33/129261496_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>达也在开学典礼上认识的新生，与千叶艾莉卡一同出现，一直会对达也兄妹的秀恩爱展现脸红状态，不能分辨俩人开的小玩笑会一直当真。 | [萌娘百科](https://zh.moegirl.org.cn/柴田美月) |
 | sayaka mibu | 壬生纱耶香 |  |  |
 | shizuku kitayama | 北山雫 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/11/12/16/00/129182427_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>大财阀北山家族的千金。平时很少发表自己的主张，但是却是言辞犀利并且十分聪敏的角色。是剧中的吐槽役担当。 | [萌娘百科](https://zh.moegirl.org.cn/北山雫) |
