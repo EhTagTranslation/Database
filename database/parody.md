@@ -197,7 +197,7 @@ example:
 | girlish number | 少女编号 | ![](https://ehgt.org/be/17/be17508226eff3cc6da1031a9772ac1bb5b098b7-1214127-1447-2039-jpg_l.jpg) |  |
 | gabriel dropout | 珈百璃的堕落 | ![](https://ehgt.org/74/d9/74d9c6ba5b5def00d61be5e9b796b84d20463434-1720223-1280-720-png_l.jpg)![珈百璃的堕落](https://ehgt.org/91/23/9123b88a8dbd40759f5329915feade721bc168eb-1737901-1280-720-png_l.jpg) |  |
 | chobits | 人形电脑天使心 | ![20周年纪念版单行本](https://images-na.ssl-images-amazon.com/images/I/91A2vKj1mrL.jpg)<br>日本漫画家团体 `clamp` 的青年向漫画，自2000年9月至2002年10月间于<br>日本讲谈社《周刊Young Magazine》上连载。单行本全8册。<br>动画版自2002年4月起至9月止于TBS播放，全27话。 | [动画官网](http://www.tbs.co.jp/chobits) |
-| dead or alive | 死或生 | 生死格斗<br>![](# "https://ehgt.org/2e/ce/2ece300869bc9c5e67fc444a75940a4735402d75-3336657-1080-1920-png_l.jpg") |  |
+| dead or alive | 死或生 | ![](https://img.moegirl.org.cn/common/4/4d/DOAX3_Fortune_Promo_Art.png)<br>《死或生》（Dead or Alive，简称DOA）是日本游戏公司Tecmo旗下的Team Ninja小组所制作的以3D格斗游戏为主的系列游戏 。<br>目前已有格斗作《死或生》6代，体育作《死或生:沙滩排球》3代，以及属于沙排系列的客户端游戏《死或生 沙滩排球:维纳斯假期》。 | [百度百科](https://baike.baidu.com/item/死或生/5076)<br>[萌娘百科](https://zh.moegirl.org.cn/死或生系列) |
 | eromanga sensei | 埃罗芒阿老师 | エロマンガ先生 / 情色漫画老师<br>![](https://ehgt.org/a3/20/a320657886f20de6953327013585d23320cf8c88-1225138-1384-2000-jpg_l.jpg)![](# "https://ehgt.org/bc/5d/bc5dccfab0cc5dc8c771569acb7e475b58591a39-712723-2114-3047-jpg_l.jpg") |  |
 | dorei to no seikatsu | 与奴隶的生活 -Teaching Feeling- | ![](https://ehgt.org/f6/c1/f6c1f9496abd2fb24c4708552cb23444f267938c-1164819-1240-1754-jpg_l.jpg) |  |
 | girls und panzer | 少女与战车 | 《少女与战车》（日语：ガールズ&パンツァー；英语：GIRLS und PANZER）是由水岛努执导，吉田玲子担当编剧，Actas Inc.制作的原创动画。<br>![](https://ehgt.org/46/0a/460a5a085500c2f492f38433967ba74e4bd69908-6288337-2133-3000-jpg_l.jpg) |  |
