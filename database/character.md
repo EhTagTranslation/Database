@@ -1810,7 +1810,7 @@ example:
 | honoka mitsui | 光井穗香 |  |  |
 | mari watanabe | 渡边摩利 |  |  |
 | mayumi saegusa | 七草真由美 |  |  |
-| miyuki shiba | 司波深雪 |  |  |
+| miyuki shiba | 司波深雪 | ![](https://i.pixiv.cat/img-master/img/2025/06/30/17/25/50/132149612_p0_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
 | mizuki shibata | 柴田美月 |  |  |
 | sayaka mibu | 壬生纱耶香 |  |  |
 | shizuku kitayama | 北山雫 |  |  |
