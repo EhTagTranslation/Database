@@ -6714,6 +6714,7 @@ example:
 | cantabile | 晓歌 | ![](https://patchwiki.biligame.com/images/arknights/b/b5/svinwo3q1v7zmvt4tyea4zfz2autd7s.png)<br><br>所属作品：`arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/?curid=24176) |
 | jashin-chan | 邪神酱 | 邪神酱（邪神ちゃん）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/邪神酱) |
 | pekora | 佩可拉 | 佩可拉（ぺこら）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佩可拉%28邪神与厨二病少女%29) |
+| pino | 皮诺 | 皮诺（ぴの）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/皮诺%28邪神与厨二病少女%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
