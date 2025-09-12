@@ -6505,7 +6505,7 @@ example:
 | inojin yamanaka | 山中井阵 | 日本漫画《火影忍者》系列及其衍生作品中的男性角色，在漫画700回中首次出场。井阵出身木叶隐村的山中一族，是佐井与山中井野的儿子。 |  |
 | kendall perkins | 肯黛尔·柏金 | 奇克的同班同学，跟“大魔王”罗纳多交往（后来喜欢奇克）。 |  |
 | amane suou | 周防天音 |  |  |
-| eblana dublinn | 死芒（爱布拉娜·都柏林） |  | [PRTS Wiki](https://prts.wiki/w/死芒) |
+| eblana dublinn | 死芒（爱布拉娜·都柏林） | ![](https://patchwiki.biligame.com/images/arknights/f/fd/jew1e4dyryxn499pn2mmvk3a0ffl44t.png)<br><br>所属作品：`arknights` | [PRTS Wiki](https://prts.wiki/w/死芒) |
 | yukime | 雪女 | 雪女是日本轻小说《想要成为影之实力者！》及其衍生动画中登场的主要角色，作为妖狐族女性兽人展现九尾形态特征。她以"纯白之塔"统治者的身份执掌无法都市的欢乐街，性格随和但言语尖锐，具有超越常人的战斗天赋。该角色在动画第二季（2025年6月21日首播）中由日本知名声优伊藤静配音，与主角希德·卡盖诺率领的暗影庭园存在剧情关联。 |  |
 | haruhime sanjouno | 春姬 |  |  |
 | sharon holygrail | 莎朗·霍莉格雷尔 | 表面上是标榜博爱主义的“星天教会”的修女，但实际上是世界最大驱魔集团的特工。星座是天秤座。<br>对一般人作为修女温柔地对待，但在执行驱魔任务时，有非常冷静和不择手段的一面。<br>为了某个目的单独潜入贝隆市。 | [百度百科](https://baike.baidu.com/item/莎朗·霍莉格雷尔/61901637) |
