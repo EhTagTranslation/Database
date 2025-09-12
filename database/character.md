@@ -1036,7 +1036,7 @@ example:
 | subaru natsuki | 菜月昴 | ![菜月昴](# "https://ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg") |  |
 | beatrice | 碧翠丝 | ![碧翠丝](# "https://ehgt.org/16/dc/16dcaca304fe6ea989c4b30483ce48f1d908dc29-302210-850-1189-jpg_l.jpg") |  |
 | felix argyle | 菲利克斯·阿盖尔 | ![菲利克斯·阿盖尔](# "https://ehgt.org/87/dd/87ddb46ecaf1c433b74aa4f3028e2099c2ea45c7-363173-707-1000-jpg_l.jpg") |  |
-| felt | 菲鲁特 | ![菲鲁特](# "https://ehgt.org/1c/10/1c10fbf63e54bcc07c14c7891fb80cb2988ae584-1752440-1200-1920-jpg_l.jpg") |  |
+| felt | 菲鲁特 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/12/17/08/58/135005679_p2_master1200.jpg)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>在皇城的贫民窟里长大的15岁少女，身手十分迅速敏捷<br>拥有着风所祝福的高速脚程，被世界所爱。 | [萌娘百科](https://zh.moegirl.org.cn/菲鲁特) |
 | roswaal l. mathers | 罗兹瓦尔·L·梅札斯 | ![罗兹瓦尔·L·梅札斯](https://img.moegirl.org.cn/common/thumb/2/2f/罗兹瓦尔·L·梅札斯.jpg/250px-罗兹瓦尔·L·梅札斯.jpg) |  |
 | otto suewen | 奥托·苏文 | ![奥托·苏文](# "https://ehgt.org/c8/e7/c8e701fac4ff3135e5e67bf4d05efa5d3eea590a-412310-796-1200-jpg_l.jpg") |  |
 | julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](# "https://ehgt.org/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg") |  |
