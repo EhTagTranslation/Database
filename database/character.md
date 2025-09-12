@@ -1040,7 +1040,7 @@ example:
 | roswaal l. mathers | 罗兹瓦尔·L·梅札斯 | ![罗兹瓦尔·L·梅札斯](https://img.moegirl.org.cn/common/thumb/2/2f/罗兹瓦尔·L·梅札斯.jpg/250px-罗兹瓦尔·L·梅札斯.jpg) |  |
 | otto suewen | 奥托·苏文 | ![奥托·苏文](# "https://ehgt.org/c8/e7/c8e701fac4ff3135e5e67bf4d05efa5d3eea590a-412310-796-1200-jpg_l.jpg") |  |
 | julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](# "https://ehgt.org/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg") |  |
-| elsa granhiert | 艾尔莎·葛兰西尔特 | ![艾尔莎·葛兰西尔特](# "https://ehgt.org/58/20/5820187a8bdf970ec9814aff7279e03b7e3e5a2c-1461050-1066-1280-png_250.jpg") |  |
+| elsa granhiert | 艾尔莎·葛兰西尔特 | ![](https://img.moegirl.org.cn/common/3/36/Elsa_Granhiert_.gif)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>与菲鲁特交易的谜之美女。<br>真实身份是被雇佣的暗杀者，由于喜好将暗杀目标的腹部切开而有着“猎肠者”之异名。 | [萌娘百科](https://zh.moegirl.org.cn/艾尔莎·葛兰西尔特) |
 |  | ▼ 路人女主的养成方法 角色 |  |  |
 | tomoya aki | 安艺伦也 |  |  |
 | megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) |  |
