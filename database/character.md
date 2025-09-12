@@ -6712,6 +6712,7 @@ example:
 | coquelic | 可可莉克 | ![](https://patchwiki.biligame.com/images/wqmt/thumb/a/a9/n10bokg8e8oolpq1cihwq6ddds9hpa8.png/480px-可可莉克立绘.png)<br>《无期迷途》中出场角色 | [无期迷途WIKI](https://wiki.biligame.com/wqmt/禁闭者:可可莉克) |
 | mint fantome | Mint Fantôme | Mint Fantôme是一名个人势虚拟主播，2020年7月24日首次在YouTube上进行直播。2021年4月3日宣布毕业后，于2024年4月1日宣布再次开始活动。<br><br>在一家废弃的女仆咖啡厅里，终日以鬼魂的形态缠扰他人。 | [萌娘百科](https://zh.moegirl.org.cn/Mint_Fantome) [Fandom](https://virtualyoutuber.fandom.com/wiki/Mint_Fantôme) |
 | cantabile | 晓歌 | ![](https://patchwiki.biligame.com/images/arknights/b/b5/svinwo3q1v7zmvt4tyea4zfz2autd7s.png)<br><br>所属作品：`arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/?curid=24176) |
+| jashin-chan | 邪神酱 | 邪神酱（邪神ちゃん）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/邪神酱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
