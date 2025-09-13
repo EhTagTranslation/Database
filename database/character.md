@@ -3403,7 +3403,7 @@ example:
 | musae koyama | 小山梦冴 |  |  |
 | mineko kazama | 风间峰子 |  |  |
 | south dakota | 南达科他 |  |  |
-| mona megistus | 莫娜·梅姬斯图斯 | 莫娜·梅姬斯图斯（英语：mona megistus）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/c6/莫娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
+| mona megistus | 莫娜·梅姬斯图斯 | ![](https://patchwiki.biligame.com/images/ys/9/94/16aaj83jc4m3cnxmtfot0vjil6n9dfm.gif)<br>所属作品：`genshin impact`<br>神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。 | [萌娘百科](https://zh.moegirl.org.cn/阿斯托洛吉斯·莫娜·梅姬斯图斯) |
 | aether | 空（旅行者） | 《`genshin impact`》及其衍生作品的登场角色。可作为玩家的代入角色。<br>![](https://patchwiki.biligame.com/images/ys/1/17/s8ez1vaz77e1e5qms2kul8y2ex567q6.gif) | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | ![](https://patchwiki.biligame.com/images/ys/3/3d/qy0sta4fesxehc6z3nl1i718bydts3y.png)<br>菲谢尔（英语：fischl）所属作品:`p:genshin impact`<br>是米哈游制作的游戏《原神》及其衍生作品的登场角色。<br>自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。 | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
 | eula lawrence | 优菈·劳伦斯 | ![](https://patchwiki.biligame.com/images/ys/2/2b/hhc3nlnm7xvpinydo3z4aee0iwoccpc.gif)<br>所属作品:`p:genshin impact`<br>古老家族出身的「浪花骑士」，西风骑士团游击小队队长。身为旧贵族后裔却加入了堪称死对头的西风骑士团，该事件至今仍是蒙德一大谜团。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
