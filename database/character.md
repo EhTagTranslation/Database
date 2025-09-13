@@ -5154,7 +5154,7 @@ example:
 | firefly | 流萤 | 流萤是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。<br><br>![](https://img.moegirl.org.cn/common/thumb/5/54/流萤与开拓者的合照_星版.png/1920px-流萤与开拓者的合照_星版.png) | [萌娘百科](https://zh.moegirl.org.cn/流萤) |
 | black swan | 黑天鹅 | 黑天鹅是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
 | gaming yip | 嘉明 |  |  |
-| dunyarzad homayani | 迪娜泽黛 | 是由米哈游所制作的游戏`p:genshin impact`及其衍生作品的登场角色<br>![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
+| dunyarzad homayani | 迪娜泽黛 | ![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg)<br>所属作品：`genshin impact`<br>患有魔鳞病的年轻少女，几乎每一天都只能躺在病床上，为了不让自己剩余人生留下遗憾 ，在花神诞日即将到来之际逃出自家筹办花神诞祭。 | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
 | sparkle | 花火 | 花火是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/花火%28星穹铁道%29#) |
 | senadina | 希娜狄雅 | 「你好，世界！」诞生自数据之海的少女，对身边的一切都很感兴趣。在寻梦的旅途中，她将和你一道，经历各式各样的冒险，结识各式各样的伙伴。对了——如果深夜时分她还来找你，记得要带她去吃烧烤。 | [萌娘百科](https://zh.moegirl.org.cn/希娜狄雅)<br>[https://bbs.mihoyo.com/bh3/wiki/content/3071/detail?visit\_device=mobile&bbs\_presentation\_style=no\_header](https://bbs.mihoyo.com/bh3/wiki/content/3071/detail?visit_device=mobile&bbs_presentation_style=no_header) |
 | satoshi mizukami | 水上敏志 | 所属作品: `p:world trigger` |  |
