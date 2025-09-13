@@ -3132,7 +3132,7 @@ example:
 | sunny chih | 迟菓 | 迟菓是山百合文化传播有限公司旗下绘恋Galgame制作组制作游戏《三色绘恋》及《三色绘恋S》中的登场角色，在《三色绘恋》中作为重要角色首次登场，是《三色绘恋S》中的女主角。<br>![图](https://img.moegirl.org.cn/common/1/19/Chiguo.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迟菓) |
 | sarah kerrigan | 莎拉·凯瑞甘 | 莎拉·露伊斯·凯瑞甘——也称为刀锋女王，是暴雪娱乐公司出品的即时战略游戏《星际争霸》系列中的主角之一。 | [百度百科](https://baike.baidu.com/item/莎拉·凯瑞甘) |
 | ozymandias | 奥斯曼狄斯 | 奥斯曼狄斯（拉美西斯二世）是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉美西斯二世%28Fate%29) |
-| paimon | 派蒙 | 派蒙是游戏《原神》的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [萌娘百科](https://zh.moegirl.org.cn/派蒙%28原神%29) |
+| paimon | 派蒙 | ![](https://patchwiki.biligame.com/images/ys/thumb/0/0d/1qywc02vlabns3hdbwyuuvcuclt4075.jpg/504px-派蒙2.jpg)<br>所属作品：`genshin impact`<br>游戏里的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [萌娘百科](https://zh.moegirl.org.cn/派蒙%28原神%29) |
 | hilbert | 斗也 | 斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
 | hilda | 希尔达 \| 斗子 | 希尔达Hilda是一个11岁的蓝发女孩，出自同名同名图画小说系列，以及网飞改编的系列剧集<br><br>斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) [希尔达(剧集)](https://zh.moegirl.org.cn/希尔达) |
 | skyla | 风露 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
