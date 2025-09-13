@@ -6722,6 +6722,7 @@ example:
 | ecute | 伊库特 | 伊库特（日语：エキュート）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 |  |
 | atre | 亚特蕾 | 亚特蕾（日语：アトレ）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 |  |
 | lierre | 莉薇露 | 莉薇露（日语：リエール）是由ユキヲ所创作的漫画《邪神与厨二病少女》及其衍生作品的登场角色。 |  |
+| lauma | 菈乌玛 | ![](https://patchwiki.biligame.com/images/ys/6/64/0ty4wswcagkabmgrfyikz4o8ftwfijc.gif)<br><br>所属作品：`genshin impact`<br>被月光与森林祝福的圣女，一个诞生在「霜月之子」中的希望。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/菈乌玛) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
