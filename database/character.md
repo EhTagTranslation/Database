@@ -3415,7 +3415,7 @@ example:
 | sucrose | 砂糖 | ![](https://patchwiki.biligame.com/images/ys/8/88/fraputgf189a93q5rtk23ftvd4vmb8c.png)<br>砂糖（英语：sucrose）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>对万物充满好奇的炼金术士，「生物炼金」学派的研究者。 | [萌娘百科](https://zh.moegirl.org.cn/砂糖%28原神%29#) |
 | diona | 迪奥娜 | ![](https://patchwiki.biligame.com/images/ys/2/23/tr9c6xhklg65xohtirs4lf580b3vige.gif)<br>所属作品：`genshin impact`	<br>遗传了稀薄的「非人」血统的少女,「猫尾酒馆」的超人气调酒师。 | [萌娘百科](https://zh.moegirl.org.cn/迪奥娜) |
 | rosaria | 罗莎莉亚 | ![](https://patchwiki.biligame.com/images/ys/2/23/2n86nxdsa2qn5j4cedowypvqzmlxt8z.gif)<br>所属作品:`p:genshin impact`<br>除了打扮哪里都不像神职人员的修女。冷淡的言行中透着锐利。总是单独行动。 | [萌娘百科](https://zh.moegirl.org.cn/罗莎莉亚%28原神%29#) |
-| klee | 可莉 | ![](https://patchwiki.biligame.com/images/ys/6/64/5mcsfdvyw68fhoq36i8u8lz9oghyy3s.png)<br>可莉（英语：klee）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。 | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
+| klee | 可莉 | ![](https://patchwiki.biligame.com/images/ys/4/42/dqjrezzqruvpwekgv6ggjygrmbjhnj5.gif)<br>所属作品:`p:genshin impact`<br>西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。 | [萌娘百科](https://zh.moegirl.org.cn/可莉) |
 | xinyan | 辛焱 | 辛焱（英语：xinyan）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7c/辛焱%28大陆官服%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/辛焱) |
 | venti | 温迪 | 温迪（英语：venti）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/de/高天的歌者_温迪.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/温迪) |
 | xiao | 魈 | 魈（英语：xiao）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4d/魈（方图）.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/魈) |
