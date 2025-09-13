@@ -4233,7 +4233,7 @@ example:
 | carole pepper | 卡萝尔·佩珀 |  | [萌娘百科](https://zh.moegirl.org.cn/_?curid=375474) |
 | rean schwarzer | 黎恩·舒华泽 |  |  |
 | millium orion | 米莉亚姆·奥莱恩 |  |  |
-| candace | 坎蒂丝 | 坎蒂丝(英语:candace) 所属作品`p:genshin impact`<br>是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/69/原神坎蒂丝.jpg) | [萌娘百科](https://zh.moegirl.org.cn/坎蒂丝) |
+| candace | 坎蒂丝 | ![](https://patchwiki.biligame.com/images/ys/c/c8/0fu5a3u62o2fglmop7cxv3x2yn9tx37.gif)<br>所属作品`p:genshin impact`<br>有着琥珀色左眼的赤王后裔，阿如村的守护者。 | [萌娘百科](https://zh.moegirl.org.cn/坎蒂丝) |
 | mei raiden | 雷电芽衣 |  |  |
 | durandal | 幽兰黛尔 |  |  |
 | himeko murata | 无量塔姬子 |  |  |
