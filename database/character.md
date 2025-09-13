@@ -3407,7 +3407,7 @@ example:
 | aether | 空（旅行者） | 《`genshin impact`》及其衍生作品的登场角色。可作为玩家的代入角色。<br>![](https://patchwiki.biligame.com/images/ys/1/17/s8ez1vaz77e1e5qms2kul8y2ex567q6.gif) | [萌娘百科](https://zh.moegirl.org.cn/空%28原神%29#) |
 | fischl | 菲谢尔 | ![](https://patchwiki.biligame.com/images/ys/8/8c/72i1wy43rkvjq080mgkd9fmnpvsk70s.gif)<br>所属作品:`p:genshin impact`<br>自称「断罪之皇女」，与名为奥兹的漆黑夜鸦同行的神秘少女。 | [萌娘百科](https://zh.moegirl.org.cn/菲谢尔) |
 | eula lawrence | 优菈·劳伦斯 | ![](https://patchwiki.biligame.com/images/ys/2/2b/hhc3nlnm7xvpinydo3z4aee0iwoccpc.gif)<br>所属作品:`p:genshin impact`<br>古老家族出身的「浪花骑士」，西风骑士团游击小队队长。身为旧贵族后裔却加入了堪称死对头的西风骑士团，该事件至今仍是蒙德一大谜团。 | [萌娘百科](https://zh.moegirl.org.cn/优菈·劳伦斯) |
-| barbara pegg | 芭芭拉·佩奇 | ![](https://patchwiki.biligame.com/images/ys/2/2e/tex9nso9g9g6k60ltzjds56yd1gtvhi.png)<br>芭芭拉（英语：barbara pegg）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>蒙德城的大家都喜欢芭芭拉。「偶像」这个词是她从一本杂志里看到的。 | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
+| barbara pegg | 芭芭拉·佩奇 | ![](https://patchwiki.biligame.com/images/ys/8/86/btamx1lfb39cg08dlejgi9njaoacr0q.gif)<br>所属作品:`p:genshin impact`<br>蒙德城的大家都喜欢芭芭拉。「偶像」这个词是她从一本杂志里看到的。 | [萌娘百科](https://zh.moegirl.org.cn/芭芭拉) |
 | chongyun | 重云 | 重云（英语：chongyun）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/48/重云.jpg) | [萌娘百科](https://zh.moegirl.org.cn/重云) |
 | xingqiu | 行秋 | 行秋（英语：xingqiu）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/91/行秋.jpg) | [萌娘百科](https://zh.moegirl.org.cn/行秋) |
 | lisa minci | 丽莎·敏兹 | ![](https://patchwiki.biligame.com/images/ys/f/f7/bq6owgwrgpljw8cmfoyn70o6hv6zq06.gif)<br>所属作品:`p:genshin impact`<br>慵懒而博学的图书管理员，须弥教令院「两百年一见」的天才毕业生。 | [萌娘百科](https://zh.moegirl.org.cn/丽莎·敏兹) |
