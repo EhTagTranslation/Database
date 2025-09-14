@@ -14010,6 +14010,7 @@ example:
 | uchigawa | ウチガワ |  |  |
 | itsukane | 五日寝 |  |  |
 | hurure | ふるーれ |  |  |
+| inamimi | いなみみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
