@@ -14009,6 +14009,7 @@ example:
 | chirinu iroha | ちりぬいろは |  |  |
 | uchigawa | ウチガワ |  |  |
 | itsukane | 五日寝 |  |  |
+| hurure | ふるーれ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
