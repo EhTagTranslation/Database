@@ -8444,7 +8444,7 @@ example:
 | nakamura subaru | なかむらすばる | すばる。 |  |
 | nakamura syumitto | 中村趣味人 |  |  |
 | nakamura uzuki | 中村卯月 |  |  |
-| nakamura zeus | 中村天神 |  |  |
+| nakamura zeus | 中村天神 |  | [pixiv](https://www.pixiv.net/users/25378991) |
 | nakano | 中野 |  |  |
 | nakano yuu | 中野ゆう |  |  |
 | nakanoku kurochan | 中野区くろちゃん |  |  |
