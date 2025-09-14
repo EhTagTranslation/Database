@@ -13289,6 +13289,7 @@ example:
 | danimaru studio | だにまるstudio |  |  |
 | oishii ko | オイシイこ |  |  |
 | masumi pan koubou | ますみパン工房 |  |  |
+| momoiro intake | 桃色インテーク |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
