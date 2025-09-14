@@ -13290,6 +13290,7 @@ example:
 | oishii ko | オイシイこ |  |  |
 | masumi pan koubou | ますみパン工房 |  |  |
 | momoiro intake | 桃色インテーク |  |  |
+| hitsuji no udonya | ひつじのうどん屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
