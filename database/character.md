@@ -6728,6 +6728,7 @@ example:
 | hibiscus | 芙蓉 | 芙蓉是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芙蓉%28明日方舟%29) |
 | ayame himuro | 冰室菖蒲 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/07/17/27/06/125993549_p2_master1200.jpg)<br>所属作品：`rikei ga koi ni ochita no de shuomei shite mita.`<br>彩玉大学理工学研究科学院1年级学生。是一位成绩优秀，天才型学生。 | [萌娘百科](https://zh.moegirl.org.cn/冰室菖蒲) |
 | monica everett | 莫妮卡·埃瓦雷特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/71/109775_crt_MIxmI.jpg?r=1753887970)<br>所属作品：《沉默的魔女》<br>作为有史以来最年轻的七贤者，王国最伟大的魔法师之一，她的绰号是“沉默魔女”。 | [百度百科](https://baike.baidu.com/item/莫妮卡·埃瓦雷特/65805554) |
+| lorea | 洛雷娅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/40/65/109316_crt_po3DQ.jpg)<br>所属作品：`shinmai renkinjutsushi no tenpo keiei`<br>约克村杂货店老板的女儿。在珊乐莎的店里打工。 | [Bangumi](https://bgm.tv/character/109316) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
