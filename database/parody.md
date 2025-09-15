@@ -657,7 +657,7 @@ example:
 | summon night | 召唤之夜 | 召唤夜响曲 |  |
 | mai-hime | 舞-HiME | 舞-HiME（日语：舞-HiME）是以日本日昇动画为中心展开的电视动画、漫画、广播、游戏等的跨媒体制作。以私立风华学园为舞台，描写学生间的友情与恋爱、战斗。获选为2005年第九回日本文部省文化厅媒体艺术祭动画部门推荐的作品。 | [维基百科](https://zh.wikipedia.org/wiki/舞-HiME) (\*) |
 | mai-otome | 舞-乙HiME | 《舞-乙HiME》是由日本日昇动画制作的动画作品。虽然这是《舞-HiME》第二个系列，但《舞-乙HiME》发生在一个新的时空背景，除了角色相同以外，其余皆不相同。 | [维基百科](https://zh.wikipedia.org/wiki/舞-乙HiME) (\*) |
-| hyouka | 冰菓 |  |  |
+| hyouka | 冰菓 | ![](https://img.moegirl.org.cn/common/4/4b/冰菓漫画1.jpg)<br>由推理作家米泽穗信所著校园推理小说系列。其第一卷为《冰菓（guǒ）》（日语：氷菓），故又称〈冰菓〉系列。有电视动画、漫画、真人电影等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/冰菓) |
 | ookami-san to shichinin no nakama-tachi | 大神与七位伙伴 | 大神与七位伙伴，又译野狼大神（日语：オオカミさんと七人の仲間たち）是冲田雅轻小说作品《大神与…系列》的第一部，并有动画等衍生作品。 |  |
 | machine-doll wa kizutsukanai | 机巧少女不会受伤 |  | [萌娘百科](https://zh.moegirl.org.cn/机巧少女不会受伤) |
 | its not my fault that im not popular | 我不受欢迎，怎么想都是你们的错！ | 《我不受欢迎，怎么想都是你们的错！》（日语：私がモテないのはどう考えてもお前らが悪い!），通常又译《丧女》，是由谷川ニコ创作的一部漫画作品。现已动画化，由SILVER LINK负责制作并与2013年7月8日播出，每周一话。 |  |
