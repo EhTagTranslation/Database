@@ -4724,7 +4724,7 @@ example:
 | ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive`<br>联邦学生会的调停室的负责人，兼任琳的秘书。<br>性格拘谨，每当老师完成任务后都会惊叹地夸奖。<br>步梦的光环呈内外两个金色光环，且两端尽头均有共4个星星。<br>![](https://img.moegirl.org.cn/common/thumb/0/01/BA_Ayumu.png/420px-BA_Ayumu.png) | [萌娘百科](https://zh.moegirl.org.cn/岩柜步梦) |
 | rin nanagami | 七神凛 | 所属作品：`p:blue archive`<br>联邦学生会的首席行政官，也是联邦学生会代理会长。<br>负责处理目前基沃托斯大大小小的事务。但因为行事风格而不受学生会内信任。<br>![](https://img.moegirl.org.cn/common/3/34/BA_Rin.png) | [萌娘百科](https://zh.moegirl.org.cn/七神琳) |
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive`<br>联邦学生会的财务部主任，做事认真严谨。<br>出于工作对琳不留情面，但实际十分在乎，也是琳值得托付的对象；自己觉得老师很警戒她，面对老师会稍微害羞而引起注意。<br>![](https://img.moegirl.org.cn/common/thumb/2/20/BA_Aoi.png/262px-BA_Aoi.png) | [萌娘百科](https://zh.moegirl.org.cn/扇喜葵) |
-| rumi akeshiro | 朱城瑠美 | 所属作品：`p:blue archive`<br>山海经高级中学所属，美食街「玄武商会」的会长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/13/465025.png) |  |
+| rumi akeshiro | 朱城瑠美 | ![](https://patchwiki.biligame.com/images/ba/4/4e/nat79rcfg6tz64mue27obzzjh4p8mpf.png)<br>所属作品：`p:blue archive`<br>山海经高级中学所属，美食街「玄武商会」的会长。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Rumi) |
 | michiru chidori | 千鸟满 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，忍术研究部部长，浑身上下总是充满了毫无根据的自信。<br>![](https://patchwiki.biligame.com/images/ba/c/c0/rpd9bs81a5123pspcncmgrugzur3o38.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Michiru) |
 | reijo kayama | 鹿山丽情 | 所属作品：`p:blue archive`<br>山海经高级中学所属，玄武商会总店的总经理瑠美的辅佐官和保镖。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_1199/829/103682/2025/5/13/871.png) |  |
 | maki konuri | 小涂真纪 | 所属作品：`p:blue archive`<br>千年科学学校所属，黑客集团「真理部」的部员。<br>![](https://patchwiki.biligame.com/images/ba/b/bd/di760yd2imsjuh51kcjrtr7mgf65dmv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Maki) |
