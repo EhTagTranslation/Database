@@ -9098,7 +9098,7 @@ example:
 | orenuma tooko | オレヌマトオコ |  |  |
 | oretto | おれっと |  |  |
 | organico | おるがにこ |  |  |
-| orico | オリコ |  |  |
+| orico | オリコ |  | [pixiv](https://www.pixiv.net/users/903016) |
 | orihara kotone | 折原琴音 |  |  |
 | orihi chihiro | 織日ちひろ |  | [pixiv](https://www.pixiv.net/users/5722894) |
 | orikawa | 折川 |  |  |
