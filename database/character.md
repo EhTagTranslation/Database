@@ -6726,6 +6726,7 @@ example:
 | shino kiryuu | 桐生紫乃 | ![](https://img.moegirl.org.cn/common/4/45/桐生紫乃-角色.png)<br><br>所属作品：`kanojo mo kanojo`<br>学习优秀，全科满分，常年考第一名，同时体育也擅长，也会做料理，但咲评价味道一般。 | [萌娘百科](https://zh.moegirl.org.cn/桐生紫乃) |
 | christina beltrum | 克莉丝汀娜·贝尔托姆 | ![](https://img.moegirl.org.cn/common/e/e5/Christina_Beltrum.png)<br><br>所属作品：`seirei gensouki`<br>贝尔托姆王国的第一公主，与夏洛特一样头脑灵活，但是较有常识，是一位聪明认真的公主。身为王族，拥有强烈的责任感，有不惜为国家牺牲自己的坚强意志力。 | [萌娘百科](https://zh.moegirl.org.cn/克莉丝汀娜·贝尔托姆) |
 | hibiscus | 芙蓉 | 芙蓉是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芙蓉%28明日方舟%29) |
+| ayame himuro | 冰室菖蒲 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/07/17/27/06/125993549_p2_master1200.jpg)<br>所属作品：`rikei ga koi ni ochita no de shuomei shite mita.`<br>彩玉大学理工学研究科学院1年级学生。是一位成绩优秀，天才型学生。 | [萌娘百科](https://zh.moegirl.org.cn/冰室菖蒲) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
