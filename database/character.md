@@ -1410,7 +1410,7 @@ example:
 |  | ▼ 冰菓 |  |  |
 | eru chitanda | 千反田爱瑠 | ![](https://i.pixiv.cat/img-master/img/2025/03/23/11/16/22/128512348_p0_master1200.jpg)<br>所属作品：`hyouka`<br>性格认真，个子很高，披肩黑发乌黑秀丽，偶尔扎成单马尾。薄薄的嘴唇，外表清秀，童颜隐藏巨乳。 | [萌娘百科](https://zh.moegirl.org.cn/千反田爱瑠) |
 | houtarou oreki | 折木奉太郎 |  |  |
-| mayaka ibara | 伊原摩耶花 |  |  |
+| mayaka ibara | 伊原摩耶花 | ![](https://img.moegirl.org.cn/common/1/17/Moyehua_02.jpg)<br>所属作品：`hyouka`<br>神山高校一年级女生。与折木奉太郎和福部里志曾就读同一初中。折木的评价是：“坚强而有毅力”，福部也将其比喻为塔罗牌中的"正义"。 | [萌娘百科](https://zh.moegirl.org.cn/伊原摩耶花) |
 | fuyumi irisu | 入须冬实 |  |  |
 | satoshi fukube | 福部里志 |  |  |
 | ayako kouchi | 河内亚也子 |  |  |
