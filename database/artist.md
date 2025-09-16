@@ -14014,6 +14014,7 @@ example:
 | nananooto | ななのーと | 饭盒链接：[FANBOX](https://nanon.fanbox.cc/) |  |
 | fixzhuzhu | fixzhuzhu |  | [pixiv](https://www.pixiv.net/users/19194931) |
 | conoha noa | 木葉のあ |  |  |
+| panriru | ぱんりる |  | [FANBOX](https://www.fanbox.cc/@panriru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
