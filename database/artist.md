@@ -14012,6 +14012,7 @@ example:
 | hurure | ふるーれ |  |  |
 | inamimi | いなみみ |  |  |
 | nananooto | ななのーと | 饭盒链接：[FANBOX](https://nanon.fanbox.cc/) |  |
+| fixzhuzhu | fixzhuzhu |  | [pixiv](https://www.pixiv.net/users/19194931) |
 
 <!--TEMPLATE:
 |  |  |  |  |
