@@ -13292,6 +13292,7 @@ example:
 | momoiro intake | 桃色インテーク |  |  |
 | hitsuji no udonya | ひつじのうどん屋 |  |  |
 | honshiro nikori | 本白にこり |  |  |
+| mumei no katsudon | 無名のカツ丼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
