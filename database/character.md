@@ -6698,7 +6698,7 @@ example:
 | il capitano | 「队长」卡皮塔诺 | 「队长」卡皮塔诺是游戏《`p:genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡皮塔诺) |
 | angel | 安吉尔 | ①《拳皇》中的角色安吉尔。<br>②《杀戮天使》中的安吉尔。 |  |
 | momohina nano | 桃雛なの |  |  |
-| kaoruko waguri | 和栗薰子 | 日本漫画《薰香花朵凛然绽放》及其衍生作品中的女主角。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/07/17/30/12/134821358_p9_master1200.jpg) | [百度百科](https://baike.baidu.com/item/和栗薰子/64988742) |
+| kaoruko waguri | 和栗薰子 | ![](https://img.moegirl.org.cn/common/5/5c/动画和栗薰子1.PNG)<br>所属作品：`kaoru hana wa rin to saku`<br>桔梗女校的二年级学生，成绩优异，靠自己努力考入名门中学，是才学兼备的美少女。性格开朗，待人热情真诚。 | [百度百科](https://baike.baidu.com/item/和栗薰子/64988742)<br>[萌娘百科](https://zh.moegirl.org.cn/和栗薰子) |
 | akari watanabe | 渡边星 | 渡边星是由金丸祐基所创作的漫画《夫妇以上，恋人未满。》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a4/夫妇以上恋人未满-渡边星.png) | [萌娘百科](https://zh.moegirl.org.cn/渡边星) |
 | vermouth | 贝尔摩得（苦艾酒） | 日本漫画《名侦探柯南》及其衍生作品中的女性角色。黑衣组织的骨干成员，表面身份是美国女明星莎朗·温亚德。因某种原因恢复年轻或停止衰老，在莎朗·温亚德“死”后，对外宣称自己是“莎朗的女儿”克丽丝·温亚德。<br>![](https://i.pixiv.cat/img-master/img/2023/07/22/00/06/30/110119506_p0_master1200.jpg) |  |
 | kiyotaka ayanokouji | 绫小路清隆 |  |  |
