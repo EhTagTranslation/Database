@@ -14011,6 +14011,7 @@ example:
 | itsukane | 五日寝 |  |  |
 | hurure | ふるーれ |  |  |
 | inamimi | いなみみ |  |  |
+| nananooto | ななのーと | 饭盒链接：[FANBOX](https://nanon.fanbox.cc/) |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
