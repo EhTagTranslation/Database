@@ -2473,7 +2473,7 @@ example:
 | reina izumi | 和泉玲奈 |  |  |
 | koito minase | 水无濑小糸 |  |  |
 |  | ▼ 哆啦A梦 |  |  |
-| doraemon | 哆啦A梦 |  |  |
+| doraemon | 哆啦A梦 | 所属作品：`p:doraemon` |  |
 | nobita nobi | 野比大雄 |  |  |
 | shizuka minamoto | 源静香 |  |  |
 | suneo honekawa | 骨川小夫 |  |  |
