@@ -14019,6 +14019,7 @@ example:
 | uracine | うらちーぬ |  | [pixiv](https://www.pixiv.net/users/26431966) |
 | girotin | ギロチン |  |  |
 | pokapechie | ポカペチエ |  |  |
+| yonayona | 夜な夜な |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
