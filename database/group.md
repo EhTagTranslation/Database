@@ -13296,6 +13296,7 @@ example:
 | chinu chinu-ya | ちぬちぬ屋 |  |  |
 | girotin ginza | ギロチン銀座 |  |  |
 | pokapoka tengoku | ポカポカ天国 |  |  |
+| yofukashi no heya | よふかしのへや |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
