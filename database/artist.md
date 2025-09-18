@@ -14017,6 +14017,7 @@ example:
 | panriru | ぱんりる |  | [FANBOX](https://www.fanbox.cc/@panriru) |
 | fureshika | ふれしか |  | [pixiv](https://www.pixiv.net/users/100502538) |
 | uracine | うらちーぬ |  | [pixiv](https://www.pixiv.net/users/26431966) |
+| girotin | ギロチン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
