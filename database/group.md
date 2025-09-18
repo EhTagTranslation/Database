@@ -13295,6 +13295,7 @@ example:
 | mumei no katsudon | 無名のカツ丼 |  |  |
 | chinu chinu-ya | ちぬちぬ屋 |  |  |
 | girotin ginza | ギロチン銀座 |  |  |
+| pokapoka tengoku | ポカポカ天国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
