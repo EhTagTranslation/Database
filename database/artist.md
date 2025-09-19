@@ -14021,6 +14021,7 @@ example:
 | pokapechie | ポカペチエ |  |  |
 | yonayona | 夜な夜な |  |  |
 | batten kyuki | 八转九起 |  |  |
+| takashiro syouseki | 高代硝石 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
