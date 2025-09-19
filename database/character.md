@@ -6734,6 +6734,7 @@ example:
 | chiyoko momoshiro | 百城千世子 |  |  |
 | yuki isurugi | 石动雪 | 所属作品：lovely x cation |  |
 | nagi arato | 荒砥凪 |  | [萌娘百科](https://zh.moegirl.org.cn/琉璃的宝石) [维基百科](https://zh.wikipedia.org/wiki/琉璃的寶石) |
+| machiko mai | 真知子老师 |  | [维基百科](https://zh.wikipedia.org/wiki/真知子老師) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
