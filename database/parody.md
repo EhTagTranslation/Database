@@ -2528,6 +2528,7 @@ example:
 | fuufu ijou koibito miman. | 夫妇以上，恋人未满 | 金丸祐基创作的青年漫画。<br>![](https://lain.bgm.tv/pic/cover/l/17/ce/239336_Hl4hH.jpg?_gl=1*t5wk21*_ga*MzI0MjkyMTY2LjE3NTcyODkyNTY.*_ga_1109JLGMHN*czE3NTcyODkyNTYkbzEkZzEkdDE3NTcyODkyOTgkajE4JGwwJGgw) | [萌娘百科](https://zh.moegirl.org.cn/夫妇以上，恋人未满。) |
 | silent witch chinmoku no majo no kakushigoto | 沉默的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a0/60/506677_B74d5.jpg)<br>由依空まつり创作、藤実なんな绘制插画的一部轻小说，并有漫画等衍生作品。<br>本作讲述的是实力强大却有交际障碍的魔女隐瞒真实身份护卫王子的故事。 | [萌娘百科](https://zh.moegirl.org.cn/沉默的魔女) |
 | no.1 sentai gozyuger | 头号战队豪兽者 |  | [维基百科](https://zh.wikipedia.org/wiki/No.1戰隊豪獸者) [Fandom](https://powerrangers.fandom.com/wiki/No.1_Sentai_Gozyuger) |
+| lovely x cation | LOVELY×CATION | 《LOVELY×CATION》是晓WORKS-响-（今hibiki works）制作的美少女游戏，有多个系列，并有里番等衍生作品。<br>![](https://t.vndb.org/cv.t/81/90881.jpg)<br>![](https://t.vndb.org/cv.t/36/92536.jpg)<br>![](https://t.vndb.org/cv.t/70/99470.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LOVELY×CATION) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
