@@ -6732,6 +6732,7 @@ example:
 | subaru hoshina | 保科昴 | ![](https://img.moegirl.org.cn/common/thumb/0/08/动画保科昴1.PNG/62px-动画保科昴1.PNG)<br><br>所属作品：`kaoru hana wa rin to saku`<br>桔梗女校的二年级学生，身材高挑，长相出众，并长有一头漂亮的银色长发，与和栗薰子同在二年级A班，与薰子从小认识，是青梅竹马，十分珍视二人的感情。 | [萌娘百科](https://zh.moegirl.org.cn/保科昴) |
 | kei yonagi | 夜凪景 |  |  |
 | chiyoko momoshiro | 百城千世子 |  |  |
+| yuki isurugi | 石动雪 | 所属作品：lovely x cation |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
