@@ -14020,6 +14020,7 @@ example:
 | girotin | ギロチン |  |  |
 | pokapechie | ポカペチエ |  |  |
 | yonayona | 夜な夜な |  |  |
+| batten kyuki | 八转九起 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
