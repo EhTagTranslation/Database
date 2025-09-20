@@ -3185,7 +3185,7 @@ example:
 | frankenstein | 弗兰肯斯坦 | 别号：肯娘、弗兰(Fran)、黑之Berserker、科学怪人、弗兰肯斯坦的怪物、无垢的新娘、维克多的女儿<br>![图](https://ehgt.org/3e/45/3e45e940bea6ad7176bd1ad4c109c988fcc177f9-1761526-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/弗兰肯斯坦%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/弗兰肯斯坦) |
 | nina maehara | 前原仁菜 |  |  |
 | uruka takemoto | 武元润香 |  |  |
-| fumino furuhashi | 古桥文乃 |  |  |
+| fumino furuhashi | 古桥文乃 | ![](https://img.moegirl.org.cn/common/d/d5/FuruhashiFumino.png)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中3年A班学生。<br>精通现代文、古文、汉文等文学类科目，被称为“文学之森的睡美人”。与之相对的，理科(数学)成绩却极差。 | [萌娘百科](https://zh.moegirl.org.cn/古桥文乃) |
 | rizu ogata | 绪方理珠 |  |  |
 | asumi kominami | 小美浪爱澄 |  |  |
 | echidna | 艾姬多娜 | ![](https://img.moegirl.org.cn/common/2/23/エキドナ.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>追求世界上所有智慧，就连死后也舍不得放弃，追求一切知识的『强欲魔女』。<br>400多年前，背负着大罪之名，撼动并影响了世界的7名『魔女』之一。 | [萌娘百科](https://zh.moegirl.org.cn/艾姬多娜) |
