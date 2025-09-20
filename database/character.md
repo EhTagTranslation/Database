@@ -3187,7 +3187,7 @@ example:
 | uruka takemoto | 武元润香 |  |  |
 | fumino furuhashi | 古桥文乃 | ![](https://img.moegirl.org.cn/common/d/d5/FuruhashiFumino.png)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中3年A班学生。<br>精通现代文、古文、汉文等文学类科目，被称为“文学之森的睡美人”。与之相对的，理科(数学)成绩却极差。 | [萌娘百科](https://zh.moegirl.org.cn/古桥文乃) |
 | rizu ogata | 绪方理珠 | ![](https://i.pixiv.cat/img-master/img/2025/06/17/08/38/38/131656031_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中3年F班学生。<br>精通数学、物理学、化学等理科类科目，被称为「机械制作的拇指姑娘」。与之相对的，文科成绩却极差。 | [萌娘百科](https://zh.moegirl.org.cn/绪方理珠) |
-| asumi kominami | 小美浪爱澄 |  |  |
+| asumi kominami | 小美浪爱澄 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/22/00/02/01/129563891_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中毕业生，因未能考进医科大学而自费补习，准备重考。与唯我成幸邻座。<br>看似对人冷淡，但心地善良，会帮助别人。 | [萌娘百科](https://zh.moegirl.org.cn/小美浪爱澄) |
 | echidna | 艾姬多娜 | ![](https://img.moegirl.org.cn/common/2/23/エキドナ.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>追求世界上所有智慧，就连死后也舍不得放弃，追求一切知识的『强欲魔女』。<br>400多年前，背负着大罪之名，撼动并影响了世界的7名『魔女』之一。 | [萌娘百科](https://zh.moegirl.org.cn/艾姬多娜) |
 | haruka oozora | 大空遥 |  |  |
 | kanata higa | 比嘉彼方 |  |  |
