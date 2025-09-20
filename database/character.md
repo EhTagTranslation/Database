@@ -6735,6 +6735,7 @@ example:
 | nagi arato | 荒砥凪 |  | [萌娘百科](https://zh.moegirl.org.cn/琉璃的宝石) [维基百科](https://zh.wikipedia.org/wiki/琉璃的寶石) |
 | machiko mai | 真知子老师 |  | [维基百科](https://zh.wikipedia.org/wiki/真知子老師) |
 | elizabeth | 伊丽莎白 |  |  |
+| lilith aensland | 莉莉丝·安斯兰特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
