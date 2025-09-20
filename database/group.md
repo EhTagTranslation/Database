@@ -13298,6 +13298,7 @@ example:
 | pokapoka tengoku | ポカポカ天国 |  |  |
 | yofukashi no heya | よふかしのへや |  |  |
 | rokugo sha | ろくご社 |  |  |
+| hipcomix | HIPCOMIX |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
