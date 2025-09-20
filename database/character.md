@@ -6736,6 +6736,7 @@ example:
 | machiko mai | 真知子老师 |  | [维基百科](https://zh.wikipedia.org/wiki/真知子老師) |
 | elizabeth | 伊丽莎白 |  |  |
 | lilith aensland | 莉莉丝·安斯兰特 |  |  |
+| liu shen | 柳神 |  | [百度百科](https://baike.baidu.com/item/柳神/15436879) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
