@@ -2944,7 +2944,7 @@ example:
 | anthy himemiya | 姬宫安茜 | 《少女革命》中的女主角二号，被称为“蔷薇新娘”的少女，凤学园代理理事长凤晓生的妹妹，中等部二年生。![图](https://bkimg.cdn.bcebos.com/pic/80cb39dbb6fd5266bc2f678ea918972bd4073627?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg) |  |
 | utena tenjou | 天上欧蒂娜 | 《少女革命》女主角。自小父母双亡，在王子的鼓励下重新振作。因为太过憧憬王子，而下定决心自己也要成为王子，并穿起了男装。运动万能、正义感强，在校园中十分受女学生欢迎，被称为“欧蒂娜大人”（Utena Sama）。因为替好友筱原若叶打抱不平，而被卷入了西园寺荚一及其他决斗者争夺“蔷薇新娘”的决斗游戏中。![图](https://img.moegirl.org.cn/common/thumb/a/a2/Tenjouutena558326c3e0687fc5f92a3b5b3cf40a55.jpg/250px-Tenjouutena558326c3e0687fc5f92a3b5b3cf40a55.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天上欧蒂娜) |
 | ai hayasaka | 早坂爱 | ![](https://img.moegirl.org.cn/common/3/3c/早坂爱人设.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>四宫辉夜的专业近侍，四宫财团干部的女儿。有着四分之一的爱尔兰血统。<br>一直和辉夜住在一起，平时给辉夜各种建议，帮助她解决各种困难，制定各种计划。 | [萌娘百科](https://zh.moegirl.org.cn/早坂爱) |
-| kaguya shinomiya | 四宫辉夜 |  |  |
+| kaguya shinomiya | 四宫辉夜 | ![](https://img.moegirl.org.cn/common/thumb/7/77/Kaguya_Img_main01.png/263px-Kaguya_Img_main01.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>四大财团之一的『四宫集团』其本家直系统帅四宫雁庵的长女，是位真真正正的千金名媛。有极高的自尊心，因此才会发生“想让他给我告白”的趣事，实际相当的喜欢白银，还因此喜欢上白银会长的凶狠眼神，但是自己一直都不承认。 | [萌娘百科](https://zh.moegirl.org.cn/四宫辉夜) |
 | miyuki shirogane | 白银御行 |  |  |
 | chika fujiwara | 藤原千花 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5e/Chika_Fujiwara_Anime.jpg)<br>藤原千花（日語：藤原 千花／ふじわら ちか Fujiwara Chika）是漫畫系列《輝夜姬想讓人告白～天才們的戀愛頭腦戰～》（下簡稱《輝夜姬》）的虛構角色，由赤坂明所創。 |  |
 | soushi miketsukami | 御狐神双炽 |  |  |
