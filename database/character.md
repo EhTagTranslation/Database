@@ -2946,7 +2946,7 @@ example:
 | ai hayasaka | 早坂爱 | ![](https://img.moegirl.org.cn/common/3/3c/早坂爱人设.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>四宫辉夜的专业近侍，四宫财团干部的女儿。有着四分之一的爱尔兰血统。<br>一直和辉夜住在一起，平时给辉夜各种建议，帮助她解决各种困难，制定各种计划。 | [萌娘百科](https://zh.moegirl.org.cn/早坂爱) |
 | kaguya shinomiya | 四宫辉夜 | ![](https://img.moegirl.org.cn/common/thumb/7/77/Kaguya_Img_main01.png/263px-Kaguya_Img_main01.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>四大财团之一的『四宫集团』其本家直系统帅四宫雁庵的长女，是位真真正正的千金名媛。有极高的自尊心，因此才会发生“想让他给我告白”的趣事，实际相当的喜欢白银，还因此喜欢上白银会长的凶狠眼神，但是自己一直都不承认。 | [萌娘百科](https://zh.moegirl.org.cn/四宫辉夜) |
 | miyuki shirogane | 白银御行 | ![](https://img.moegirl.org.cn/common/6/6a/Shirogane_Miyuki_main.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>秀知院学园高中部学生会会长，原2年B班，现3年A班的学生。本作的主角之一。<br>身体特征为眼神凶恶其实是长期睡眠不足导致的眼神，本人并没有凶恶的意思。 | [萌娘百科](https://zh.moegirl.org.cn/白银御行) |
-| chika fujiwara | 藤原千花 | ![](https://upload.wikimedia.org/wikipedia/zh/5/5e/Chika_Fujiwara_Anime.jpg)<br>藤原千花（日語：藤原 千花／ふじわら ちか Fujiwara Chika）是漫畫系列《輝夜姬想讓人告白～天才們的戀愛頭腦戰～》（下簡稱《輝夜姬》）的虛構角色，由赤坂明所創。 |  |
+| chika fujiwara | 藤原千花 | ![](https://img.moegirl.org.cn/common/a/a8/Fujiwara_Chika.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>出生于政治世家的千金，曾祖父是原总理大臣，叔父担任现任的省大臣，拥有相当优秀的血统。由于母亲是外交官，所以会5种语言。但是难以应付国语。三姐妹的次女。 | [萌娘百科](https://zh.moegirl.org.cn/藤原千花) |
 | soushi miketsukami | 御狐神双炽 |  |  |
 | maya tendo | 天堂真矢 | 圣翔音乐学园99期生，演员育成科，学号18号。知名舞台演员与当红歌星的女儿，演剧界的名门出身。拥有完美的身材与高昂的声音。虽然天赋异禀，却并不会不思进取，是个以更高的高度为目标而不断努力的孤高舞台少女。<br>![Maya Tendo profile](https://img.moegirl.org.cn/common/1/10/Maya_Tendo_profile.png) | [萌娘百科](https://zh.moegirl.org.cn/天堂真矢) |
 | seto miyako | 濑户美夜子 |  |  |
