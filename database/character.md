@@ -2230,7 +2230,7 @@ example:
 |  | ▼ 甘城光辉游乐园 |  |  |
 | seiya kanie | 可儿江西也 |  |  |
 | isuzu sento | 千斗五十铃 | 所属作品: `p:amagi brilliant park`<br><br>因其在C87以一己之力单挑以众舰娘为首的前任几届本子王，荣升为新任本子王。 | [萌娘百科](https://zh.moegirl.org.cn/千斗五十铃) |
-| latifa fleuranza | 拉媞珐·芙尔兰札 |  |  |
+| latifa fleuranza | 拉媞珐·芙尔兰札 | ![](https://img.moegirl.org.cn/common/2/2e/Latifah_Fleuranza.png)<br>所属作品：`amagi brilliant park`<br>甘城光辉游乐园的支配者，是“枫之王国”的公主，国主斯利姆的后裔。近卫队千斗五十铃的保护对象。事实上是莫夫路的外甥女。 | [萌娘百科](https://zh.moegirl.org.cn/拉媞珐·芙尔兰札) |
 | salama | 萨拉玛 |  |  |
 | sylphy | 西尔菲 |  |  |
 | muse | 缪斯 |  |  |
