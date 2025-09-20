@@ -2231,7 +2231,7 @@ example:
 | seiya kanie | 可儿江西也 |  |  |
 | isuzu sento | 千斗五十铃 | 所属作品: `p:amagi brilliant park`<br><br>因其在C87以一己之力单挑以众舰娘为首的前任几届本子王，荣升为新任本子王。 | [萌娘百科](https://zh.moegirl.org.cn/千斗五十铃) |
 | latifa fleuranza | 拉媞珐·芙尔兰札 | ![](https://img.moegirl.org.cn/common/2/2e/Latifah_Fleuranza.png)<br>所属作品：`amagi brilliant park`<br>甘城光辉游乐园的支配者，是“枫之王国”的公主，国主斯利姆的后裔。近卫队千斗五十铃的保护对象。事实上是莫夫路的外甥女。 | [萌娘百科](https://zh.moegirl.org.cn/拉媞珐·芙尔兰札) |
-| salama | 萨拉玛 |  |  |
+| salama | 莎罗曼 | ![](https://img.moegirl.org.cn/common/3/38/Saramā.png)<br>所属作品：`amagi brilliant park`<br>出身于魔法国度“艾勒门提姆（Elementium）法国”的火之妖精，有一点点使用火的能力，但是无法熄灭火。<br>现任歌舞剧场“元素馆”内表演歌舞剧的演员，与缪斯、席尔菲和柯波莉是队友。 | [萌娘百科](https://zh.moegirl.org.cn/莎罗曼) |
 | sylphy | 西尔菲 | ![](https://img.moegirl.org.cn/common/f/fe/Shirufi.png)<br>所属作品：`amagi brilliant park`<br>出身于魔法国度“艾勒门提姆（Elementium）法国”的风之妖精。<br>现任歌舞剧场“元素馆”内表演歌舞剧的演员，与缪斯、莎罗曼和柯波莉是同僚。 | [萌娘百科](https://zh.moegirl.org.cn/席尔菲) |
 | muse | 缪斯 | ![](https://img.moegirl.org.cn/common/8/86/Myu.png)<br>所属作品：`amagi brilliant park`<br>出身于甘城光辉游乐园所属的魔法国度"红枫乐园"之友邦"Elementium法国"的水之妖精。是一位欧系元气美少女。 | [萌娘百科](https://zh.moegirl.org.cn/缪斯%28甘城光辉游乐园%29#) |
 | kobory | 柯波莉 |  |  |
