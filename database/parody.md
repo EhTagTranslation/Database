@@ -1415,7 +1415,7 @@ example:
 | wake up girls | Wake Up, Girls! | 《Wake Up, Girls!》，简称《WUG》，是由Ordet和龙之子制作公司共同制作的原创偶像动画，2014年1月10日开始播放电视动画及公开上映剧场版《Wake Up, Girls! 七位偶像》。剧场版第2作于2015年9月及12月分上下篇公开，主导制作改由Ordet与Millepensee制作。原创网络动画《うぇいくあっぷがーるZOO!》开始龙之子不再参与，改为Ordet和STUDIO MORIKEN共同制作。 | [维基百科](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!) (\*) |
 | golden kamuy | 黄金神威 | 《黄金神威》（日语：ゴールデンカムイ）是日本漫画家野田智的漫画作品，于2014年38号的《周刊YOUNG JUMP》上开始连载。至2018年8月止，日本地区漫画单行本累计销售量突破800万本。2018年荣获第22届手冢治虫文化赏的漫画大赏，4月播出改编的同名电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/黃金神威) (\*) |
 | komi-san wa komyushou desu. | 古见同学有交流障碍症 | 《古见同学有交流障碍症》（日语：古見さんは、コミュ症です）是日本漫画家小田智仁所创作的校园搞笑漫画，于2016年开始在小学馆周刊少年Sunday杂志第25期开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/古見同學有交流障礙症) (\*) |
-| kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | ![](https://img.moegirl.org.cn/common/4/46/辉夜大小姐想让我告白10.jpg)<br>《辉夜大小姐想让我告白~天才们的恋爱头脑战~》（日语：かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜）是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~)<br>[萌娘百科](https://zh.moegirl.org.cn/辉夜大小姐想让我告白～天才们的恋爱头脑战～) |
+| kaguya-sama wa kokurasetai | 辉夜大小姐想让我告白 | ![](https://img.moegirl.org.cn/common/4/46/辉夜大小姐想让我告白10.jpg)<br>《辉夜大小姐想让我告白~天才们的恋爱头脑战~》是日本漫画家赤坂アカ以恋爱喜剧为题材，创作的校园漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~)<br>[萌娘百科](https://zh.moegirl.org.cn/辉夜大小姐想让我告白～天才们的恋爱头脑战～) |
 | watashi ni tenshi ga maiorita | 天使降临到我身边！ | 《天使降临到我身边！》（日语：私に天使が舞い降りた!）是椋木ななつ创作的日本四格漫画作品。2016年11月18日于《Comic百合姬》的2017年1月号开始连载。改编的电视动画由动画工房制作，于2019年1月至3月间播放。 | [维基百科](https://zh.wikipedia.org/wiki/天使降臨到我身邊！) (\*) |
 | darkest dungeon | 暗黑地牢 |  |  |
 | idol wars z | IDOL WARS Z |  |  |
