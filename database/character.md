@@ -2234,7 +2234,7 @@ example:
 | salama | 莎罗曼 | ![](https://img.moegirl.org.cn/common/3/38/Saramā.png)<br>所属作品：`amagi brilliant park`<br>出身于魔法国度“艾勒门提姆（Elementium）法国”的火之妖精，有一点点使用火的能力，但是无法熄灭火。<br>现任歌舞剧场“元素馆”内表演歌舞剧的演员，与缪斯、席尔菲和柯波莉是队友。 | [萌娘百科](https://zh.moegirl.org.cn/莎罗曼) |
 | sylphy | 西尔菲 | ![](https://img.moegirl.org.cn/common/f/fe/Shirufi.png)<br>所属作品：`amagi brilliant park`<br>出身于魔法国度“艾勒门提姆（Elementium）法国”的风之妖精。<br>现任歌舞剧场“元素馆”内表演歌舞剧的演员，与缪斯、莎罗曼和柯波莉是同僚。 | [萌娘百科](https://zh.moegirl.org.cn/席尔菲) |
 | muse | 缪斯 | ![](https://img.moegirl.org.cn/common/8/86/Myu.png)<br>所属作品：`amagi brilliant park`<br>出身于甘城光辉游乐园所属的魔法国度"红枫乐园"之友邦"Elementium法国"的水之妖精。是一位欧系元气美少女。 | [萌娘百科](https://zh.moegirl.org.cn/缪斯%28甘城光辉游乐园%29#) |
-| kobory | 柯波莉 |  |  |
+| kobory | 柯波莉 | ![](https://img.moegirl.org.cn/common/c/c5/Kobori.png)<br>所属作品：`amagi brilliant park`<br>出身于魔法国度“艾勒门提姆（Elementium）法国”的土之妖精，喜欢腐叶土，会使用让腐烂早一点发生的魔法。现任歌舞剧场“元素馆”内表演歌舞剧的演员，与缪斯、莎罗曼和席尔菲是同僚。 | [萌娘百科](https://zh.moegirl.org.cn/柯波莉) |
 | eiko adachi | 安达映子 |  |  |
 |  | ▼ 幸运星 |  |  |
 | soujirou izumi | 泉宗次郎 | 所属作品：`lucky star`<br>`c:konata izumi`的父亲，`kanata izumi`的丈夫。职业是小说家。<br>喜欢美少女游戏，和泉此方一样的宅，还将女儿养成了彻头彻尾的御宅族。<br>![](https://static.wikia.nocookie.net/luckystar/images/2/29/Sojiro.PNG) |  |
