@@ -2529,6 +2529,7 @@ example:
 | silent witch chinmoku no majo no kakushigoto | 沉默的魔女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/a0/60/506677_B74d5.jpg)<br>由依空まつり创作、藤実なんな绘制插画的一部轻小说，并有漫画等衍生作品。<br>本作讲述的是实力强大却有交际障碍的魔女隐瞒真实身份护卫王子的故事。 | [萌娘百科](https://zh.moegirl.org.cn/沉默的魔女) |
 | no.1 sentai gozyuger | 头号战队豪兽者 |  | [维基百科](https://zh.wikipedia.org/wiki/No.1戰隊豪獸者) [Fandom](https://powerrangers.fandom.com/wiki/No.1_Sentai_Gozyuger) |
 | lovely x cation | LOVELY×CATION | 《LOVELY×CATION》是晓WORKS-响-（今hibiki works）制作的美少女游戏，有多个系列，并有里番等衍生作品。<br>![](https://t.vndb.org/cv.t/81/90881.jpg)<br>![](https://t.vndb.org/cv.t/36/92536.jpg)<br>![](https://t.vndb.org/cv.t/70/99470.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LOVELY×CATION) |
+| wanmei shijie | 完美世界 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
