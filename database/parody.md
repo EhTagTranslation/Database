@@ -2340,7 +2340,7 @@ example:
 | ao no hako | 青之箱 |  |  |
 | okujou no yurirei-san | 屋上的百合灵 | 《屋上的百合灵》（日语：屋上の百合霊さん，英语：Kindred Spirits on the Roof）是一部由Liar-soft开发，MangaGamer发行的百合向文字冒险游戏。 | [萌娘百科](https://zh.moegirl.org.cn/屋上的百合灵) |
 | jinki | 人机 | 《人机系列》（日语：ジンキシリーズ）是纲岛志朗创作的日本漫画系列作品，后来陆续改编成电视动画、电子游戏、小说。 | [维基百科](https://zh.wikipedia.org/wiki/人機系列) |
-| isekai nonbiri nouka | 异世界悠闲农家 |  | [维基百科](https://zh.wikipedia.org/wiki/異世界悠閒農家) [萌娘百科](https://zh.moegirl.org.cn/异世界悠闲农家) |
+| isekai nonbiri nouka | 异世界悠闲农家 | ![](https://img.moegirl.org.cn/common/f/f5/异世界悠闲农家_1.jpg)<br>由内藤骑之介创作、やすも插图的一部轻小说，有漫画、动画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/異世界悠閒農家)<br>[萌娘百科](https://zh.moegirl.org.cn/异世界悠闲农家) |
 | pon no michi | 碰之道 | 《碰之道》（日语：ぽんのみち）是OLM制作的日本电视动画，于2024年1月至3月在每日放送、TBS等频道播出。<br><br>描写以广岛、尾道市的雀庄为游乐场所的女子高中生们，时而玩耍、做饭、喝茶和麻将的日常。 | [维基百科](https://zh.wikipedia.org/wiki/碰之道) [萌娘百科](https://zh.moegirl.org.cn/碰之道) |
 | miside | 米塔MiSide | 《米塔》（英语：MiSide）是一款由AIHASTO开发、IndieArk发行的心理恐怖冒险游戏，于2024年12月11日在steam平台上发售。<br>![](https://img.moegirl.org.cn/common/b/be/Miside中文封面.jpg) | [Steam](https://store.steampowered.com/app/2527500/MiSide/?l=schinese) [百度百科](https://baike.baidu.com/item/米塔/65067891) [GameLook](http://www.gamelook.com.cn/2024/12/561371) [萌娘百科](https://zh.moegirl.org.cn/MiSide) |
 | edens zero | 伊甸星原 | 在这片广阔的宇宙，隐藏着无数的神秘，还有重重危机潜伏其中。孤身一人行走的冒险难免枯燥无味，但当少年与伙伴们相遇，一切便开始变得不同。前往宇宙各处的冒险，不再是一个人的旅程，协力共同战斗，勇敢的心灵的叠加，产生的是一加一大于二的力量，崭新的旅程在他们的面前展开。 | [萌娘百科](https://zh.moegirl.org.cn/伊甸星原) [维基百科](https://zh.wikipedia.org/wiki/EDENS_ZERO) |
