@@ -3184,7 +3184,7 @@ example:
 | mami nanami | 七海麻美 | 所属作品：`p:kanojo okarishimasu`<br>练马大学一年级生，曾与木之下和也交往一个月（从认识的人里随机选中的，因为想体验恋爱），后因不明原因分手；间接导致了和也租借水原千鹤。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/ca/35/73836_crt_mhhJS.jpg?r=1678023959) | [Bangumi](https://bgm.tv/character/73836)<br>[萌娘百科](https://zh.moegirl.org.cn/七海麻美) |
 | frankenstein | 弗兰肯斯坦 | 别号：肯娘、弗兰(Fran)、黑之Berserker、科学怪人、弗兰肯斯坦的怪物、无垢的新娘、维克多的女儿<br>![图](https://ehgt.org/3e/45/3e45e940bea6ad7176bd1ad4c109c988fcc177f9-1761526-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/弗兰肯斯坦%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/弗兰肯斯坦) |
 | nina maehara | 前原仁菜 |  |  |
-| uruka takemoto | 武元润香 |  |  |
+| uruka takemoto | 武元润香 | ![](https://i.pixiv.cat/img-master/img/2023/09/14/08/27/47/111705867_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>在初中时就读七绪市立七绪南中学校，与唯我成幸同级，在初中时就暗恋他。<br>体育特招生，在游泳、赛艇等水上运动表现优秀，但小时候不太擅长游泳，经常在游泳部练习，与川濑、海原是好朋友。因游泳缘故而晒黑皮肤。 | [萌娘百科](https://zh.moegirl.org.cn/武元润香) |
 | fumino furuhashi | 古桥文乃 | ![](https://img.moegirl.org.cn/common/d/d5/FuruhashiFumino.png)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中3年A班学生。<br>精通现代文、古文、汉文等文学类科目，被称为“文学之森的睡美人”。与之相对的，理科(数学)成绩却极差。 | [萌娘百科](https://zh.moegirl.org.cn/古桥文乃) |
 | rizu ogata | 绪方理珠 | ![](https://i.pixiv.cat/img-master/img/2025/06/17/08/38/38/131656031_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中3年F班学生。<br>精通数学、物理学、化学等理科类科目，被称为「机械制作的拇指姑娘」。与之相对的，文科成绩却极差。 | [萌娘百科](https://zh.moegirl.org.cn/绪方理珠) |
 | asumi kominami | 小美浪爱澄 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/22/00/02/01/129563891_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中毕业生，因未能考进医科大学而自费补习，准备重考。与唯我成幸邻座。<br>看似对人冷淡，但心地善良，会帮助别人。 | [萌娘百科](https://zh.moegirl.org.cn/小美浪爱澄) |
