@@ -3559,7 +3559,7 @@ example:
 | camrism | カムリズム |  |  |
 | can do now | キャンドゥーなう! |  |  |
 | canaria | canaria |  |  |
-| canary to tsubame | カナリアとつばめ |  |  |
+| canary and swallow | カナリアとつばめ |  |  |
 | candy pop | Candy Pop |  |  |
 | candy-ya | キャンディー屋 |  |  |
 | candyman | Candyman |  |  |

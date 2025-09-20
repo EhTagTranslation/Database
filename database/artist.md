@@ -2937,7 +2937,7 @@ example:
 | hidari kagetora | 左カゲトラ |  | [X](https://x.com/hidarikagetora) [pixiv](https://www.pixiv.net/users/6199) |
 | suruga kreuz | 駿河クロイツ |  | [X](https://x.com/surugakreuz) [pixiv](https://www.pixiv.net/users/2361021) |
 | mauve | Mauve |  | [X](https://x.com/MauveSR) [pixiv](https://www.pixiv.net/users/564736) |
-| saeki sola | 佐伯ソラ |  | [X](https://x.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
+| saeki sora | 佐伯ソラ |  | [X](https://x.com/sae_sky77) [pixiv](https://www.pixiv.net/users/4238462) |
 | tange suzuki | 丹下スズキ |  |  |
 | neji | 寝路 |  | [X](https://x.com/nejirinbooo) [pixiv](https://www.pixiv.net/users/1244089) |
 | negom | ネゴム |  | [X](https://x.com/ne_go_m) [pixiv](https://www.pixiv.net/users/13430429) |
