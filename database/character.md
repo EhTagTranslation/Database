@@ -3004,7 +3004,7 @@ example:
 | rikka takarada | 宝多六花 |  |  |
 | anastasia nikolaevna romanova | 阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 |  |  |
 | miko iino | 伊井野弥子 | ![](https://img.moegirl.org.cn/common/a/a2/伊井野弥子人设.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>秀知院学园高中部原1年B班，现2年A班学生，学生会的第五名成员，于选举篇后正式加入，任学生会会计监察，兼任风纪委员会风纪委员。<br>父亲是最高法院的法官，母亲是国际人道救援组织职员。在父母的熏陶下，有强烈的正义感，初中起便担任着学校的风纪委员。 | [萌娘百科](https://zh.moegirl.org.cn/伊井野弥子) |
-| yuu ishigami | 石上优 |  |  |
+| yuu ishigami | 石上优 | ![](https://img.moegirl.org.cn/common/thumb/8/8d/Ishigami_Yuu.png/263px-Ishigami_Yuu.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>秀知院学园高中部原1年B班，现2年A班学生，秀知院学园学生会会计，特点是阴沉的前发。<br>小型玩具制造商的次子，因为只有高中毕业而吃尽苦头的父亲为了虚荣，所以将他送进秀知院就读，学习态度不积极，基本上只会对自己有兴趣的东西使出全力。 | [萌娘百科](https://zh.moegirl.org.cn/石上优) |
 | sasaki saku | 笹木咲 | 高中二年生，非常喜欢游戏和水族馆的悠悠性格的关西人。喜欢的生物是伞章鱼（扁面蛸）还有也喜欢熊猫（黑白生物）。虚拟大阪出身十六岁人。直播风格大胆，但只要遇见陌生人就会丧失语言能力。在第一次动画的自我介绍非常突然的模仿了一种水生动物箱鲀随后光速谢罪。奠定了熊猫人的路线必定不平凡。对任系游戏有着超常的热爱，擅长游戏《喷射战士2》，直播类型主要是游戏实况为主。<br>![SasakiSaku](https://img.moegirl.org.cn/common/thumb/4/47/SasakiSaku.png/112px-SasakiSaku.png) | [萌娘百科](https://zh.moegirl.org.cn/笹木咲) [日文维基](https://ja.wikipedia.org/wiki/笹木咲) |
 | arulumaya | 阿露露梅娅 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/b/ba/Zoom_3040019000_03.png/288px-Zoom_3040019000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040019000) |
 | cain | 该隐 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/9/96/Zoom_3040171000_02.png/288px-Zoom_3040171000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040171000) |
