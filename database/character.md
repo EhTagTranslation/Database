@@ -6738,6 +6738,7 @@ example:
 | lilith aensland | 莉莉丝·安斯兰特 |  |  |
 | liu shen | 柳神 |  | [百度百科](https://baike.baidu.com/item/柳神/15436879) |
 | lulushi loo | 露露西·露 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8b/c6/121303_crt_zkTqd.jpg?r=1677332447)<br>所属作品：`isekai nonbiri nouka`<br>女主角之一，种族是吸血鬼，被称为“吸血公主”，以全裸的姿态进入死亡之森与火乐相遇而遭到热烈的求婚，成为了火乐的第一任妻子。容貌姣好，一头银发引人注目。作为有名的魔法师，能够使用大部分魔法，同时精通药草医学。 | [百度百科](https://baike.baidu.com/item/露露西·露/62528689) |
+| chisa kotegawa | 古手川千纱 | ![](https://img.moegirl.org.cn/common/5/54/Grandblue_5_body.png)<br>所属作品：`grand blue`<br>伊豆大学机械工学系一年级生。本作主角北原伊织的无血缘表亲兼社团同辈同级系生。 | [萌娘百科](https://zh.moegirl.org.cn/古手川千纱) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
