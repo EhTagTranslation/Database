@@ -6744,6 +6744,7 @@ example:
 | hiraku machio | 街尾火乐 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/ed/121302_crt_CAtL8.jpg?r=1677332372)<br>所属作品：`isekai nonbiri nouka`<br>一般社畜。因在大学毕业后进入血汗公司导致过度操劳，最终不敌病魔，卒年三十九岁。<br>死后与神明相遇，得以复活并传送到异世界。因为不擅长与人打交道，又喜欢偶像务农的电视节目，所以向神提出想从事农业，希望在远离人烟的地方做农活。于是，获得了不会生病的“健康的肉体”和可以变成任何工具的“万能农具”，转移到了“游戏中常见的剑与魔法的世界”，活用万能农具自由自在地在名为“死亡森林”的大森林中拓荒耕种。 |  |
 | ria | 莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/64/45/121305_crt_ekgk4.jpg?r=1677332567)<br>所属作品：`isekai nonbiri nouka`<br>高等精灵的首领。 在森林里徘徊了很长时间后，遇到了火乐，并和他们一起生活。 |  |
 | sophia ascart | 索菲亚·亚斯卡鲁特 | 所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...`<br>索菲亚·亚斯卡鲁特是伯爵家的千金，尼克尔·亚斯卡鲁特的妹妹，拥有白发红瞳的外貌特征。她性格内向胆小，因奇特发色曾被视作不祥，但在与主角卡塔莉娜·克拉艾斯相遇后逐渐敞开心扉并成为好朋友。 | [百度百科](https://baike.baidu.com/item/索菲亚·亚斯卡鲁特/23760663?fromModule=lemma_inlink) |
+| mary hunt | 梅丽·亨特 | 所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...`<br>作为侯爵家的四女，她是亚兰·斯提亚特的未婚妻，性格可爱且逐渐在社交方面有所成长。她擅长培育植物，曾协助复活主角卡塔莉娜·克拉艾斯的田地，并因其水属性魔力在剧情中发挥作用。梅丽对卡塔莉娜怀有强烈的情感，甚至计划将其带到遥远的地方独占。 | [百度百科](https://baike.baidu.com/item/梅丽·亨特/24699151?fromModule=lemma_inlink) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
