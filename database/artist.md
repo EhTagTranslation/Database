@@ -14026,6 +14026,7 @@ example:
 | sic phuck | Sic Phuck |  |  |
 | jpeger | Jpeger |  |  |
 | feeri | ふぇぇり |  |  |
+| buki | 武器 |  | [pixiv](https://www.pixiv.net/users/82857159) |
 
 <!--TEMPLATE:
 |  |  |  |  |
