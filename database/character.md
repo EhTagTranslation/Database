@@ -6603,7 +6603,7 @@ example:
 | ari | 阿里 |  |  |
 | zombie | 僵尸 |  |  |
 | rana | 拉娜 |  |  |
-| chie hoshinomiya | 星之宫知惠 | 星之宫知惠是日本轻小说《欢迎来到实力至上主义的教室》及其衍生作品中高度育成高中一年B班的班主任。她性格开朗活泼，在学生群体中拥有极高人气，常表现出与教师身份不符的出格行为，其真实意图具有模糊性。 |  |
+| chie hoshinomiya | 星之宫知惠 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/03/04/35/50/131120670_p2_master1200.jpg)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>高度育成高中一年B班的班主任。她性格开朗活泼，在学生群体中拥有极高人气，常表现出与教师身份不符的出格行为，其真实意图具有模糊性。 |  |
 | maya satou | 佐藤麻耶 | ![](https://img.moegirl.org.cn/common/2/2e/Satou.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>以开朗活泼的辣妹形象和出色的社交能力为特征，在班级中担任气氛调节者。 | [萌娘百科](https://zh.moegirl.org.cn/佐藤麻耶) |
 | aine chidorigafuchi | 千鸟渊爱音 | 轻小说《魔装学园H×H》及其衍生作品中的登场女角色。白羊座，银色长发、红色眼眸，长睫毛，融心装备小队“天地穹女神”成员之一。 |  |
 | mahiru hiragi | 柊真昼 | 柊真昼是日本轻小说《终结的炽天使：一濑红莲，破灭的16岁》的女主角，柊家的长女及下任候补当家，柊筱娅的亲姐姐，一濑红莲的恋人。 |  |
