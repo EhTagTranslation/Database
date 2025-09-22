@@ -6745,7 +6745,7 @@ example:
 | ria | 莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/64/45/121305_crt_ekgk4.jpg?r=1677332567)<br>所属作品：`isekai nonbiri nouka`<br>高等精灵的首领。 在森林里徘徊了很长时间后，遇到了火乐，并和他们一起生活。 |  |
 | sophia ascart | 索菲亚·亚斯卡鲁特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e8/4a/75403_crt_I15WI.jpg?r=1589900317)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...`<br>索菲亚·亚斯卡鲁特是伯爵家的千金，尼克尔·亚斯卡鲁特的妹妹，拥有白发红瞳的外貌特征。她性格内向胆小，因奇特发色曾被视作不祥，但在与主角卡塔莉娜·克拉艾斯相遇后逐渐敞开心扉并成为好朋友。 | [百度百科](https://baike.baidu.com/item/索菲亚·亚斯卡鲁特/23760663?fromModule=lemma_inlink) |
 | mary hunt | 梅丽·亨特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/15/71/75402_crt_xo9cq.jpg?r=1582166708)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...`<br>作为侯爵家的四女，她是亚兰·斯提亚特的未婚妻，性格可爱且逐渐在社交方面有所成长。她擅长培育植物，曾协助复活主角卡塔莉娜·克拉艾斯的田地，并因其水属性魔力在剧情中发挥作用。梅丽对卡塔莉娜怀有强烈的情感，甚至计划将其带到遥远的地方独占。 | [百度百科](https://baike.baidu.com/item/梅丽·亨特/24699151?fromModule=lemma_inlink) |
-| ade | 爱德 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/103682/2025/3/16/366810.png)<br>所属作品：`goddess of victory nikke`<br>隶属于专属女仆部队。沉稳、温顺、亲切，可谓是完美女仆。 | [https://www.gamekee.com/nikke/tj/614660.html](https://www.gamekee.com/nikke/tj/614660.html) |
+| ade | 爱德 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/8/5/719718.png)<br>所属作品：`goddess of victory nikke`<br>隶属于专属女仆部队。沉稳、温顺、亲切，可谓是完美女仆。 | [https://www.gamekee.com/nikke/tj/614660.html](https://www.gamekee.com/nikke/tj/614660.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
