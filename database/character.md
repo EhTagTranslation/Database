@@ -6747,6 +6747,7 @@ example:
 | mary hunt | 梅丽·亨特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/15/71/75402_crt_xo9cq.jpg?r=1582166708)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...`<br>作为侯爵家的四女，她是亚兰·斯提亚特的未婚妻，性格可爱且逐渐在社交方面有所成长。她擅长培育植物，曾协助复活主角卡塔莉娜·克拉艾斯的田地，并因其水属性魔力在剧情中发挥作用。梅丽对卡塔莉娜怀有强烈的情感，甚至计划将其带到遥远的地方独占。 | [百度百科](https://baike.baidu.com/item/梅丽·亨特/24699151?fromModule=lemma_inlink) |
 | ade | 爱德 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/8/5/719718.png)<br>所属作品：`goddess of victory nikke`<br>隶属于专属女仆部队。沉稳、温顺、亲切，可谓是完美女仆。 | [https://www.gamekee.com/nikke/tj/614660.html](https://www.gamekee.com/nikke/tj/614660.html) |
 | airi sakura | 佐仓爱里 | ![](https://img.moegirl.org.cn/common/b/b0/Sakura_Airi.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>戴着眼镜、束着长发、不爱打扮的不起眼少女。害怕与人对话，尤其是害怕说话时与旁人的目光接触。讨厌惹人注目。平时并不与旁人交流，因而也没有朋友。 | [萌娘百科](https://zh.moegirl.org.cn/佐仓爱里) |
+| mio ibuki | 伊吹澪 | ![](https://img.moegirl.org.cn/common/1/11/Ibuki_Mio.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>因为话少的性格，一般独来独往，给人以冷漠的感觉。于武道有经验，在学习与运动方面值得期待。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹澪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
