@@ -6749,6 +6749,7 @@ example:
 | airi sakura | 佐仓爱里 | ![](https://img.moegirl.org.cn/common/b/b0/Sakura_Airi.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>戴着眼镜、束着长发、不爱打扮的不起眼少女。害怕与人对话，尤其是害怕说话时与旁人的目光接触。讨厌惹人注目。平时并不与旁人交流，因而也没有朋友。 | [萌娘百科](https://zh.moegirl.org.cn/佐仓爱里) |
 | mio ibuki | 伊吹澪 | ![](https://img.moegirl.org.cn/common/1/11/Ibuki_Mio.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>因为话少的性格，一般独来独往，给人以冷漠的感觉。于武道有经验，在学习与运动方面值得期待。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹澪) |
 | seed | 席德 | 「席德」是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/27/db40cf8e4969f92fa0fdd15f71d3a4fe/image.png) | [萌娘百科](https://zh.moegirl.org.cn/席德) |
+| charlotte hazelrink | 夏洛特·海瑟林克 | 夏洛特·海瑟林克是Ricotta旗下游戏《公主恋人！》及其衍生动画，漫画，小说的登场角色。<br>![](https://p.sda1.dev/27/57fb7d4954be005df686fc70aedecbad/image.png) | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·海瑟林克) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
