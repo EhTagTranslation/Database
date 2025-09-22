@@ -2530,6 +2530,7 @@ example:
 | no.1 sentai gozyuger | 头号战队豪兽者 |  | [维基百科](https://zh.wikipedia.org/wiki/No.1戰隊豪獸者) [Fandom](https://powerrangers.fandom.com/wiki/No.1_Sentai_Gozyuger) |
 | lovely x cation | LOVELY×CATION | 《LOVELY×CATION》是晓WORKS-响-（今hibiki works）制作的美少女游戏，有多个系列，并有里番等衍生作品。<br>![](https://t.vndb.org/cv.t/81/90881.jpg)<br>![](https://t.vndb.org/cv.t/36/92536.jpg)<br>![](https://t.vndb.org/cv.t/70/99470.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LOVELY×CATION) |
 | wanmei shijie | 完美世界 |  |  |
+| kyokou suiri | 虚构推理 | ![](https://img.moegirl.org.cn/common/5/51/虚构推理_长篇1.jpg)<br>由城平京创作的一部小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/虚构推理) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
