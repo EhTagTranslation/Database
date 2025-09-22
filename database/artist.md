@@ -14027,6 +14027,7 @@ example:
 | jpeger | Jpeger |  |  |
 | feeri | ふぇぇり |  |  |
 | buki | 武器 |  | [pixiv](https://www.pixiv.net/users/82857159) |
+| chakamaruya-san | ちゃかまる屋さん |  | [X](https://x.com/cha_cmaru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
