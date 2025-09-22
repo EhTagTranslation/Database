@@ -12946,7 +12946,7 @@ example:
 | tankonbu. | たんこんぶ。 |  |  |
 | tamani wa shinruchuu | たまには杏露酒 |  |  |
 | tamamo-ya | たまも屋 |  |  |
-| teruterugirl | 天乃辉 |  |  |
+| teruterugirl | てるてるがーる |  |  |
 | shimanami | しまなみ |  |  |
 | rakure cheese koubou | らくれチーズ工房 | 画师`umagome rakure`所属社团 |  |
 | akatsuki oboezu | あかつきおぼえず |  |  |
