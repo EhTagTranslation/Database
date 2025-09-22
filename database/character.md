@@ -5227,7 +5227,7 @@ example:
 | yukina himeragi | 姬柊雪菜 | [https://bkimg.cdn.bcebos.com/pic/574e9258d109b3de9c82e7879be67b81800a18d8e691?x-bce-process=image/format,f\_auto/watermark,image\_d2F0ZXIvYmFpa2UyNzI,g\_7,xp\_5,yp\_5,P\_20/resize,m\_lfit,limit\_1,h\_1080](https://bkimg.cdn.bcebos.com/pic/574e9258d109b3de9c82e7879be67b81800a18d8e691?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [萌娘百科](https://zh.moegirl.org.cn/姬柊雪菜) |
 | muimi sonoue | 园上矛依未 |  | [萌娘百科](https://zh.moegirl.org.cn/园上矛依未) |
 | minori yasumori | 安守实梨 | 红冬联邦学园所属，工务部的部长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/43758/2025/5/13/920266.png) |  |
-| kikyou kushida | 栉田桔梗 |  |  |
+| kikyou kushida | 栉田桔梗 | ![](https://img.moegirl.org.cn/common/b/bb/KushidaKikyou立绘.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>个性积极阳光的元气少女，姿容可爱、态度温和、乐于助人，能很快与周围人打成一片。拥有一呼百应的人格魅力，无论是在D班、还是在对立的其它班级，甚至是在高年级，无论在男生还是在女生中间，都是具有号召力和影响力的人物。 | [萌娘百科](https://zh.moegirl.org.cn/栉田桔梗) |
 | rouge the bat | 露姬 |  | [百度百科](https://baike.baidu.com/item/露姬/1330479) |
 | amy rose | 艾咪·罗斯 |  | [索尼克百科](https://sonicpedia.org/wiki/艾咪・罗斯) |
 | miles tails prower | 塔尔斯 |  | [维基百科](https://zh.wikipedia.org/wiki/塔尔斯) |
