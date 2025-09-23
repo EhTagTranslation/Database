@@ -6753,6 +6753,7 @@ example:
 | rouge | 露姬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/760455.png)<br>所属作品：`goddess of victory nikke`<br>她不仅是隶属于777部队的妮姬，也是金币之战里的游戏荷官，平实的她亲切又能干，但有一点小迷信。一旦触犯这些迷信，她就会表现出担心厄运降临的一面。 | [https://www.gamekee.com/nikke/tj/152319.html](https://www.gamekee.com/nikke/tj/152319.html) |
 | gretel | 葛丽特 | 所属作品：`goddess of victory nikke` |  |
 | tiara basori | 马剃天爱星 |  |  |
+| kanoe itagaki | 板垣鹿江 |  | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
