@@ -14030,6 +14030,7 @@ example:
 | chakamaruya-san | ちゃかまる屋さん |  | [X](https://x.com/cha_cmaru) |
 | nekofugu dango | ねこふぐだんご |  | [X](https://x.com/nekofugu913) |
 | banjie wazi | 半截袜子 |  |  |
+| yagami sai | 夜神纱衣 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
