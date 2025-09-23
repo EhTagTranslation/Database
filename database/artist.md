@@ -14031,6 +14031,7 @@ example:
 | nekofugu dango | ねこふぐだんご |  | [X](https://x.com/nekofugu913) |
 | banjie wazi | 半截袜子 |  |  |
 | yagami sai | 夜神纱衣 |  |  |
+| arisane | アリサネ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
