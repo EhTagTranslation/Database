@@ -13299,6 +13299,7 @@ example:
 | yofukashi no heya | よふかしのへや |  |  |
 | rokugo sha | ろくご社 |  |  |
 | hipcomix | HIPCOMIX |  |  |
+| alps1mando | アルプス一万堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
