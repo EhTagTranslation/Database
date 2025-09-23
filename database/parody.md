@@ -2531,6 +2531,7 @@ example:
 | lovely x cation | LOVELY×CATION | 《LOVELY×CATION》是晓WORKS-响-（今hibiki works）制作的美少女游戏，有多个系列，并有里番等衍生作品。<br>![](https://t.vndb.org/cv.t/81/90881.jpg)<br>![](https://t.vndb.org/cv.t/36/92536.jpg)<br>![](https://t.vndb.org/cv.t/70/99470.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LOVELY×CATION) |
 | wanmei shijie | 完美世界 |  |  |
 | kyokou suiri | 虚构推理 | ![](https://img.moegirl.org.cn/common/5/51/虚构推理_长篇1.jpg)<br>由城平京创作的一部小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/虚构推理) |
+| beheneko | S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士一起生活 | ![](https://img.moegirl.org.cn/common/7/7d/猫骑士1.jpg)<br>由銀翼のぞみ创作的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
