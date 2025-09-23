@@ -5628,7 +5628,7 @@ example:
 | hasumi tsuina | 蓮見ついな |  |  |
 | hasuno | ハスノ |  |  |
 | hasunoue baitsu | はすの上梅津 |  |  |
-| hata | ハタ |  |  |
+| hata | 波多 |  |  |
 | hata jinshichi | 湊甚七 |  |  |
 | hatachi | はたち |  |  |
 | ekataraf | エカタラフ | 畑 |  |
