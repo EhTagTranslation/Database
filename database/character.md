@@ -6754,6 +6754,7 @@ example:
 | gretel | 葛丽特 | 所属作品：`goddess of victory nikke` |  |
 | tiara basori | 马剃天爱星 |  |  |
 | kanoe itagaki | 板垣鹿江 |  | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
+| sandrone | 桑多涅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/00/55/27/135424996_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>隶属至冬国外交使团愚人众，为愚人众十一执行官第七席，代号“木偶”。 | [百度百科](https://baike.baidu.com/item/桑多涅/61716401) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
