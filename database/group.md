@@ -13302,6 +13302,7 @@ example:
 | alps1mando | アルプス一万堂 |  |  |
 | yudepopo | 茹でぽぽ |  |  |
 | yowatoro | よわトロ |  |  |
+| ahoderasouryo | アホ寺僧侶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
