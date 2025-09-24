@@ -2532,6 +2532,7 @@ example:
 | wanmei shijie | 完美世界 |  |  |
 | kyokou suiri | 虚构推理 | ![](https://img.moegirl.org.cn/common/5/51/虚构推理_长篇1.jpg)<br>由城平京创作的一部小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/虚构推理) |
 | beheneko | S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士一起生活 | ![](https://img.moegirl.org.cn/common/7/7d/猫骑士1.jpg)<br>由銀翼のぞみ创作的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
+| hima-ten | 妃真与殿！ | 《妃真与殿！》是由小野玄晖绘画的恋爱喜剧作品，于2024年7月8日开始在《周刊少年Jump》上连载，《宝岛少年》则从2024年第47期开始连载，并已发行4卷单行本。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
