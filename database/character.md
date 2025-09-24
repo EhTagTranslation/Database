@@ -1249,7 +1249,7 @@ example:
 | hisako arato | 新户绯沙子 |  |  |
 | ryou kurokiba | 黑木场凉 |  |  |
 | satoshi isshiki | 一色慧 |  |  |
-| ryouko sakaki | 榊凉子 |  |  |
+| ryouko sakaki | 榊凉子 | ![](https://img.moegirl.org.cn/common/5/58/Ryokosakaki.png)<br>所属作品：`shokugeki no soma`<br>远月学园高等部1年级学生，住在极星寮112号，与小惠和悠姬关系很好，对伊武崎峻有好感。<br><br>留着漂亮的紫色长直发，身材傲人，个性温柔，性格成熟稳重，是像大姐姐一样的存在，关爱着极星寮的舍友们，有大和抚子的性格。 | [萌娘百科](https://zh.moegirl.org.cn/榊凉子) |
 | rindou kobayashi | 小林龙胆 |  |  |
 |  | ▼ 埃罗芒阿老师 角色 |  |  |
 | sagiri izumi | 和泉纱雾 |  |  |
