@@ -6757,6 +6757,7 @@ example:
 | sandrone | 桑多涅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/00/55/27/135424996_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>隶属至冬国外交使团愚人众，为愚人众十一执行官第七席，代号“木偶”。 | [百度百科](https://baike.baidu.com/item/桑多涅/61716401) |
 | aoi asahina | 朝日奈 葵 |  |  |
 | lanterby | 兰塔比 | ![](https://i.pixiv.cat/img-master/img/2025/04/17/17/41/50/129401007_p0_master1200.jpg)<br>所属作品：`shokugeki no soma`<br>WGO二等执行官，淡黄色短发的女性，略有些孩子气，在动画THE BLUE第一道门试炼"最后的晚餐"，漫画THE BLUE第二道门试炼，“便利店对决”中担任评审，并在THE BLUE后续赛事中担任赛事主持人。 | [百度百科](https://baike.baidu.com/item/兰塔比/52912589) |
+| matsuri oyama | 绪山茉里 | 绪山茉里是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，绪山真寻与绪山美波里的妈妈，由于工作需要她与真寻爸爸长期在海外出差。<br>除了没有呆毛以外与真寻极其相似，拥有到肩部的淡色长发，并且有两撮长发在肩部的位置，趁着正月放假回到日本，想给真寻与美波里一个惊喜。<br>![绪山茉里](https://img.moegirl.org.cn/common/6/6c/绪山茉里.png) | [维基百科](https://onimai.fandom.com/zh/wiki/绪山茉里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
