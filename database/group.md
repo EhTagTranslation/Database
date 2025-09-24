@@ -13300,6 +13300,7 @@ example:
 | rokugo sha | ろくご社 |  |  |
 | hipcomix | HIPCOMIX |  |  |
 | alps1mando | アルプス一万堂 |  |  |
+| yudepopo | 茹でぽぽ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
