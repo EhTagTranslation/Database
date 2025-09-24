@@ -6756,7 +6756,7 @@ example:
 | kanoe itagaki | 板垣鹿江 |  | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
 | sandrone | 桑多涅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/00/55/27/135424996_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>隶属至冬国外交使团愚人众，为愚人众十一执行官第七席，代号“木偶”。 | [百度百科](https://baike.baidu.com/item/桑多涅/61716401) |
 | aoi asahina | 朝日奈 葵 |  |  |
-| lanterby | 兰塔比 | 所属作品：`shokugeki no soma`<br>WGO二等执行官，淡黄色短发的女性，略有些孩子气，在动画THE BLUE第一道门试炼"最后的晚餐"，漫画THE BLUE第二道门试炼，“便利店对决”中担任评审，并在THE BLUE后续赛事中担任赛事主持人。 | [百度百科](https://baike.baidu.com/item/兰塔比/52912589) |
+| lanterby | 兰塔比 | ![](https://i.pixiv.cat/img-master/img/2025/04/17/17/41/50/129401007_p0_master1200.jpg)<br>所属作品：`shokugeki no soma`<br>WGO二等执行官，淡黄色短发的女性，略有些孩子气，在动画THE BLUE第一道门试炼"最后的晚餐"，漫画THE BLUE第二道门试炼，“便利店对决”中担任评审，并在THE BLUE后续赛事中担任赛事主持人。 | [百度百科](https://baike.baidu.com/item/兰塔比/52912589) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
