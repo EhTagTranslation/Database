@@ -6761,6 +6761,7 @@ example:
 | yumiella dolkness | 尤蜜拉·多克尼斯 | ![](https://img.moegirl.org.cn/common/0/02/尤蜜拉·多克尼斯_立绘.png)<br>所属作品：`akuyaku reijo level 99`<br>本作主角，原本乙女游戏中的反派千金加「隐藏BOSS千金」，转生者，在邪神的干涉下转生到异世界。 | [萌娘百科](https://zh.moegirl.org.cn/尤蜜拉·多克尼斯) |
 | reina mishima | 三岛丽奈 |  |  |
 | cherno kegaard | 琴诺·凯郭尔 | 琴诺·凯郭尔是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/7c313371d991a5da7607f696e14448fb/image.png) | [萌娘百科](https://zh.moegirl.org.cn/琴诺·凯郭尔) |
+| fenny golden | 芬妮·戈尔登 | 芬妮·戈尔登是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/52322a72811be2d626dd2b48ad7e4cd7/PixPin_2025-09-25_19-03-48.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芬妮·戈尔登) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
