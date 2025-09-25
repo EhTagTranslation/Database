@@ -6764,6 +6764,7 @@ example:
 | fenny golden | 芬妮·戈尔登 | 芬妮·戈尔登是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/52322a72811be2d626dd2b48ad7e4cd7/PixPin_2025-09-25_19-03-48.jpg) | [萌娘百科](https://zh.moegirl.org.cn/芬妮·戈尔登) |
 | katya klein | 凯茜娅·克莱因 | 凯茜娅·克莱因是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/69d2c4fa2ea40c2178808977130779bc/image.png) | [萌娘百科](https://zh.moegirl.org.cn/凯茜娅·克莱因) |
 | lyfe bestla | 里芙·贝斯特拉 | 里芙·贝斯特拉是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/8f3309b3c175dbab69d61f85fbc5072a/image.png) | [萌娘百科](https://zh.moegirl.org.cn/里芙·贝斯特拉) |
+| kuzunoha | 葛叶 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
