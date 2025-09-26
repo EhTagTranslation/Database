@@ -13303,6 +13303,7 @@ example:
 | yudepopo | 茹でぽぽ |  |  |
 | yowatoro | よわトロ |  |  |
 | ahoderasouryo | アホ寺僧侶 |  |  |
+| nonomiya | ノノミヤ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
