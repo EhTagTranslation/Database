@@ -14035,6 +14035,7 @@ example:
 | rapisu | ラピス |  | [pixiv](https://www.pixiv.net/users/648724) 画BA的<br>[pixiv](https://www.pixiv.net/users/72147108) 画明日方舟的 |
 | mutsuki aki | 夢月あき |  |  |
 | toi deisuke | 土肥泥助 |  | [pixiv](https://www.pixiv.net/users/26036041) |
+| neko kuni ou | 猫国王 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
