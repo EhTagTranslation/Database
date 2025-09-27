@@ -6767,6 +6767,7 @@ example:
 | kuzunoha | 葛叶 |  |  |
 | erato | 埃拉托（明日方舟） | 埃拉托是游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/27/1bde704d6c3948ea816e8be2e9156650/PixPin_2025-09-27_02-50-20.jpg) | [萌娘百科](https://zh.moegirl.org.cn/埃拉托) |
 | suou asagiri | 朝雾周防 | 所属作品：`blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Asagiri_Suou) [萌娘百科](https://zh.moegirl.org.cn/朝雾周防) |
+| aventurine | 砂金 | 砂金是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。星际和平公司「战略投资部」的高级干部，「石心十人」之一，基石为「诡弈砂金」。<br><br>个性张扬的风险爱好者，时常面带笑容，真心却难以揣测。<br><br>靠着同命运的博弈赢得如今的地位，将人生视作一场高风险、高回报的投资，而他向来游刃有余。<br>![](https://p.sda1.dev/27/4eba2a87f9ebe87be606793ad4e76a3b/image.png) | [萌娘百科](https://zh.moegirl.org.cn/砂金) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
