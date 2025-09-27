@@ -6766,6 +6766,7 @@ example:
 | lyfe bestla | 里芙·贝斯特拉 | 里芙·贝斯特拉是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/8f3309b3c175dbab69d61f85fbc5072a/image.png) | [萌娘百科](https://zh.moegirl.org.cn/里芙·贝斯特拉) |
 | kuzunoha | 葛叶 |  |  |
 | erato | 埃拉托（明日方舟） | 埃拉托是游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/27/1bde704d6c3948ea816e8be2e9156650/PixPin_2025-09-27_02-50-20.jpg) | [萌娘百科](https://zh.moegirl.org.cn/埃拉托) |
+| suou asagiri | 朝雾周防 | 所属作品：`blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Asagiri_Suou) [萌娘百科](https://zh.moegirl.org.cn/朝雾周防) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
