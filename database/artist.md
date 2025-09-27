@@ -14037,6 +14037,7 @@ example:
 | toi deisuke | 土肥泥助 |  | [pixiv](https://www.pixiv.net/users/26036041) |
 | neko kuni ou | 猫国王 |  |  |
 | kuzukirimoti | 屑雾饼 |  |  |
+| akaneya | 茜屋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
