@@ -10688,7 +10688,7 @@ example:
 | tamineko | タミネコ |  |  |
 | tamo | たも |  |  |
 | tamochi | 田持 |  |  |
-| tamon ketsuyuki | 多門結之 |  |  |
+| tamon ketsuyuki | 多门结之 |  |  |
 | tamori tadaji | たもりただぢ |  |  |
 | tamu | たむ |  |  |
 | tamuhi | タムヒ |  |  |
