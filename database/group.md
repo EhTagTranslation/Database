@@ -13305,6 +13305,7 @@ example:
 | ahoderasouryo | アホ寺僧侶 |  |  |
 | nonomiya | ノノミヤ |  |  |
 | glovety | Glovety |  |  |
+| akaneya gu-tara ten | 茜屋ぐーたら店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
