@@ -10654,7 +10654,7 @@ example:
 | takumi na muchi | たくみな無知 |  |  |
 | takumi rohan | たくみ露伴 |  |  |
 | takura mahiro | 田倉まひろ |  |  |
-| takuteks | TAKUTEKS |  |  |
+| takuteks | TAKUTEKS |  | [pixiv](https://www.pixiv.net/users/5634920) |
 | tama | tama |  |  |
 | tama ii | たまつー |  |  |
 | tama kifuyu | たまきふゆ |  |  |
