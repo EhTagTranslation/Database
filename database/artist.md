@@ -14039,6 +14039,7 @@ example:
 | kuzukirimoti | 屑雾饼 |  |  |
 | akaneya | 茜屋 |  |  |
 | amagiri miki | 天霧三木 |  |  |
+| tries | とりえす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
