@@ -6520,7 +6520,7 @@ example:
 | erika amano | 天野艾丽嘉 |  |  |
 | sachi umino | 海野凪 |  |  |
 | banri shiunji | 紫云寺万里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/75/161345_crt_147xO.jpg?r=1741355430)<br>紫云寺家的长女，18 岁的大学一年级学生。<br>她正在一所名牌大学学习护理学。 她在姐妹中特别以美丽著称，温柔温柔的性格深受年长和年轻人的欢迎。 | [Bangumi](https://bgm.tv/character/161345) |
-| la folia rihavein | 拉·芙利亚·利哈瓦因 |  |  |
+| la folia rihavein | 拉·芙利亚·利哈瓦因 | 拉·芙莉亚·利哈瓦因（ラ・フォリア・リハヴァイン）是三云岳斗所创作的小说《噬血狂袭》的登场角色。北欧阿尔迪基亚国王卢卡斯·利哈瓦因的长女，身居公主之位，聪明伶俐（对晓古城有点小腹黑）以及好奇心旺盛而且具备超常行动力的人。白银皇女，叶濑夏音的侄女。坚强而富有外交手腕的未来王位继承人。<br>![](https://p.sda1.dev/27/35ce462bf9a237bf2eec1d0f338b78c5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/拉·法利亚·利哈瓦因) |
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 千咲 |  |  |
 | baizhi | 白芷 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/5b/r0wr4fjaqwv1pv5a48nzk9a0hwfueq4.png/524px-Mc_wiki_role_baizhi_x1500.png)<br>兼具条理性和执行力的华胥研究员。<br>看似冷淡疏离，实则不难接近，只是理性思维主导，习惯了严谨而精准地采取行动。<br>求知之路未有止境，在人类彻底解开”回音”的谜题前，白芷绝不会停下研究的步伐，哪怕这将耗费她的一生。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/白芷) |
