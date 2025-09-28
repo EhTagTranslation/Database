@@ -14042,6 +14042,7 @@ example:
 | tries | とりえす |  |  |
 | tsuji santa | 津路参汰 |  |  |
 | madoguchi isogu | 窓口いそぐ |  | [X](https://x.com/pm5made) |
+| yukikuni | 雪国 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
