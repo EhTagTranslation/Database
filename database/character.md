@@ -4393,7 +4393,7 @@ example:
 | kaname tohyama | 远山金女 | 所属作品: `p:hidan no aria` | [萌娘百科](https://zh.moegirl.org.cn/远山金女) |
 | kinji tohyama | 远山金次 |  | [萌娘百科](https://zh.moegirl.org.cn/远山金次) |
 | riko mine | 峰理子 | ![](https://img.moegirl.org.cn/common/1/18/34091024.jpg)<br>所属作品：`hidan no aria`<br>全身是兼备肉感和女人味以及香草般偏向甜的香气的气味。被金女昵称为“假仙鬼”。少数几个知道金次“亢奋模式”的人，经常挑逗金次，或者在战斗中帮助金次进入“亢奋模式”。对金次只要看到亚里亚的性感一面就会亢奋感到不平金次你个死萝莉控。 | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
-| shirayuki hotogi | 星伽白雪 |  | [萌娘百科](https://zh.moegirl.org.cn/星伽白雪) |
+| shirayuki hotogi | 星伽白雪 | ![](https://img.moegirl.org.cn/common/5/5d/Xingjiabaixue_01.png)<br>所属作品：`hidan no aria`<br>金次的青梅竹马，东京武侦高中2年B班，成绩优秀，身兼学生会长、园艺社社长、手工艺社社长和女子排球社社长的优等生。G17级超侦。专门科目是超能力搜查研究科（SSR）。 | [萌娘百科](https://zh.moegirl.org.cn/星伽白雪) |
 | the woodsman | 小红帽中的猎人 | 原文的意思是樵夫，也有版本译为猎人 | [Fandom](https://hero.fandom.com/wiki/The_Woodsman_%28Little_Red_Riding_Hood%29) |
 | henrietta de tristain | 安丽埃塔 | 安丽埃塔・德・托里斯汀，托里斯汀的公主。17岁。使用水属性魔法。她被她的子民们所爱戴，同时她也是露易丝的老朋友。后来，在阿爾比昂的威尔士王子遭到暗杀后，她成为了托里斯汀的女王，并且下定决心要从阿爾比昂的侵略中保卫托里斯汀。 | [萌娘百科](https://zh.moegirl.org.cn/安丽埃塔·德·托里斯汀) [维基百科](https://zh.wikipedia.org/wiki/零之使魔角色列表) |
 | princess devilotte de deathsatan ix | 戴比萝特·德·迪斯撒旦九世 | 所属作品: `p:cyberbots`<br>![](https://static.wikia.nocookie.net/projectxzone/images/1/10/Project_X_Zone_Devilotte.png) | [Fandom](https://projectxzone.fandom.com/wiki/Princess_Devilotte_de_DeathSatan_IX) |
