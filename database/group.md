@@ -2061,7 +2061,7 @@ example:
 | citron no mori | しとろんの杜 |  |  |
 | mugen jirai | 无限地雷 |  |  |
 | pion | Pion |  |  |
-| kuragamo | 蔵鴨 |  |  |
+| kuragamo | 藏鸭 |  |  |
 | kaguya hime koubou | 火愚夜姫工房 |  |  |
 | ikujinashi no fetishist | いくじなしのフェティシスト |  |  |
 | fuzuii undou | 不随意運動 |  |  |
