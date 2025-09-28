@@ -4392,7 +4392,7 @@ example:
 | akari mamiya | 间宫明里 | 间宫明里是赤松中学创作的轻小说《绯弹的亚里亚》以及橘书画子所创作的漫画《绯弹的亚里亚AA》及其衍生作品的登场角色，女主角。初登场于《绯弹的亚里亚AA》第一话，因十分仰慕神崎·H·亚里亚而加入强袭科。间宫家大小姐，掌握着间宫家的祖传秘术。两年前，居住的村子被夹竹桃烧毁而来到东京。希望成为神崎·H·亚里亚的战姐妹。 | [萌娘百科](https://zh.moegirl.org.cn/间宫明里) |
 | kaname tohyama | 远山金女 | 所属作品: `p:hidan no aria` | [萌娘百科](https://zh.moegirl.org.cn/远山金女) |
 | kinji tohyama | 远山金次 |  | [萌娘百科](https://zh.moegirl.org.cn/远山金次) |
-| riko mine | 峰理子 |  | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
+| riko mine | 峰理子 | ![](https://img.moegirl.org.cn/common/1/18/34091024.jpg)<br>所属作品：`hidan no aria`<br>全身是兼备肉感和女人味以及香草般偏向甜的香气的气味。被金女昵称为“假仙鬼”。少数几个知道金次“亢奋模式”的人，经常挑逗金次，或者在战斗中帮助金次进入“亢奋模式”。对金次只要看到亚里亚的性感一面就会亢奋感到不平金次你个死萝莉控。 | [萌娘百科](https://zh.moegirl.org.cn/峰理子) |
 | shirayuki hotogi | 星伽白雪 |  | [萌娘百科](https://zh.moegirl.org.cn/星伽白雪) |
 | the woodsman | 小红帽中的猎人 | 原文的意思是樵夫，也有版本译为猎人 | [Fandom](https://hero.fandom.com/wiki/The_Woodsman_%28Little_Red_Riding_Hood%29) |
 | henrietta de tristain | 安丽埃塔 | 安丽埃塔・德・托里斯汀，托里斯汀的公主。17岁。使用水属性魔法。她被她的子民们所爱戴，同时她也是露易丝的老朋友。后来，在阿爾比昂的威尔士王子遭到暗杀后，她成为了托里斯汀的女王，并且下定决心要从阿爾比昂的侵略中保卫托里斯汀。 | [萌娘百科](https://zh.moegirl.org.cn/安丽埃塔·德·托里斯汀) [维基百科](https://zh.wikipedia.org/wiki/零之使魔角色列表) |
