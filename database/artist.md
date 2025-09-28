@@ -2073,7 +2073,7 @@ example:
 | berosu | べろす |  |  |
 | silly | しりー |  | [pixiv](https://www.pixiv.net/users/2774175) |
 | sekiri | せきり |  |  |
-| midorino tanuki | 翠野タヌキ |  | [pixiv](https://www.pixiv.net/users/16859821) |
+| midorino tanuki | 翠野狸 |  | [pixiv](https://www.pixiv.net/users/16859821) |
 | kanna hisashi | かんな久 |  |  |
 | kitahara eiji | 北原エイジ |  | [pixiv](https://www.pixiv.net/users/10693021) |
 | aoi miharu | 蒼井ミハル |  |  |
