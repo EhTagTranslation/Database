@@ -6771,6 +6771,7 @@ example:
 | halford | 哈尔福德 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/72/tcx2mt3pgctlxtmxcfjicxlese355tf.jpg/525px-哈尔福德立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:哈尔福德) |
 | wilhelmina | 威廉明娜（棕色尘埃2） | 棕色尘埃2中的角色<br>![](https://p.sda1.dev/27/a3ef16e2e6098e4a3fbc451b759cb25d/PixPin_2025-09-29_18-37-01.jpg) | [https://www.yd.gamekee.com/zsca2/tj/655252.html](https://www.yd.gamekee.com/zsca2/tj/655252.html) |
 | sylvia | 席比雅 | 棕色尘埃2中的角色<br>![](https://p.sda1.dev/27/b4f07ac0565f7a56ca10bfb79d2c8e72/PixPin_2025-09-29_18-43-45.jpg) | [https://www.gamekee.com/zsca2/tj/593588.html?tab=fzjn](https://www.gamekee.com/zsca2/tj/593588.html?tab=fzjn)<br>[https://dotgg.gg/brown-dust-2/character-guide-sylvia/](https://dotgg.gg/brown-dust-2/character-guide-sylvia/) |
+| galatea | 伽拉忒亚 | 伽拉忒亚是《Fate/Grand Order》及其衍生作品中的登场人物。<br>![](https://p.sda1.dev/27/d8022f8bc93ea814dc955fdba3180af5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/伽拉忒亚%28Fate%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
