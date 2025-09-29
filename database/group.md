@@ -6400,7 +6400,7 @@ example:
 | kanifry | カニフライ |  |  |
 | kanikieru | カニキエル |  |  |
 | kaniman | かにまん |  |  |
-| kanimura hanten | 蟹村飯店 |  |  |
+| kanimura hanten | 蟹村饭店 |  |  |
 | kaniparadise | かにぱらだいす |  |  |
 | kaniya | かに家 |  |  |
 | kankyokusetsu | 寒極雪 |  |  |
