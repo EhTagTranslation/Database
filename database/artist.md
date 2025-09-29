@@ -14044,6 +14044,7 @@ example:
 | madoguchi isogu | 窓口いそぐ |  | [X](https://x.com/pm5made) |
 | yukikuni | 雪国 |  |  |
 | miyo sakurai | 樱井美代 |  |  |
+| kataokasan | kataokasan |  | [pixiv](https://www.pixiv.net/users/84325201) |
 
 <!--TEMPLATE:
 |  |  |  |  |
