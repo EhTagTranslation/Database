@@ -6774,6 +6774,7 @@ example:
 | galatea | 伽拉忒亚 | 伽拉忒亚是《Fate/Grand Order》及其衍生作品中的登场人物。<br>![](https://p.sda1.dev/27/d8022f8bc93ea814dc955fdba3180af5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/伽拉忒亚%28Fate%29#) |
 | mimori tougou | 东乡美森 | 东乡美森是Studio五组所创作的动画《结城友奈是勇者》及其衍生作品的登场角色。<br>结城友奈的好♀友，也是能理解她的人。家在友奈隔壁，每天去叫友奈起床。<br>因为事故失去了双腿的行动力，需要坐轮椅上学，受到了友奈的照顾。<br>![](https://p.sda1.dev/27/60b40268f587ab2af0ba86c3787e7f97/image.png) | [萌娘百科](https://zh.moegirl.org.cn/东乡美森) |
 | miyo sakurai | 樱井美代 | 蔚蓝档案中的角色<br>![](https://p.sda1.dev/27/4f066a3a37f3b99ce16677dcdf9552cb/image.png) | [https://www.gamekee.com/ba/tj/674785.html](https://www.gamekee.com/ba/tj/674785.html)<br>[Fandom](https://bluearchive.fandom.com/wiki/Sakurai_Miyo) |
+| kirara onisaki | 鬼崎绮罗罗 | 千年战争aigis中的角色<br>![](https://p.sda1.dev/27/8c974623af5e5ff7e2654476d7d5d163/image.png) | [Fandom](https://aigis.fandom.com/wiki/Onisaki_Kirara) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
