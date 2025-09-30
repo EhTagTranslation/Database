@@ -13306,6 +13306,7 @@ example:
 | nonomiya | ノノミヤ |  |  |
 | glovety | Glovety |  |  |
 | akaneya gu-tara ten | 茜屋ぐーたら店 |  |  |
+| erorhythm | EroRhythm |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
