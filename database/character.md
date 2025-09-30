@@ -6772,6 +6772,7 @@ example:
 | wilhelmina | 威廉明娜（棕色尘埃2） | 棕色尘埃2中的角色<br>![](https://p.sda1.dev/27/a3ef16e2e6098e4a3fbc451b759cb25d/PixPin_2025-09-29_18-37-01.jpg) | [https://www.yd.gamekee.com/zsca2/tj/655252.html](https://www.yd.gamekee.com/zsca2/tj/655252.html) |
 | sylvia | 席比雅 | 棕色尘埃2中的角色<br>![](https://p.sda1.dev/27/b4f07ac0565f7a56ca10bfb79d2c8e72/PixPin_2025-09-29_18-43-45.jpg) | [https://www.gamekee.com/zsca2/tj/593588.html?tab=fzjn](https://www.gamekee.com/zsca2/tj/593588.html?tab=fzjn)<br>[https://dotgg.gg/brown-dust-2/character-guide-sylvia/](https://dotgg.gg/brown-dust-2/character-guide-sylvia/) |
 | galatea | 伽拉忒亚 | 伽拉忒亚是《Fate/Grand Order》及其衍生作品中的登场人物。<br>![](https://p.sda1.dev/27/d8022f8bc93ea814dc955fdba3180af5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/伽拉忒亚%28Fate%29#) |
+| mimori tougou | 东乡美森 | 东乡美森是Studio五组所创作的动画《结城友奈是勇者》及其衍生作品的登场角色。<br>结城友奈的好♀友，也是能理解她的人。家在友奈隔壁，每天去叫友奈起床。<br>因为事故失去了双腿的行动力，需要坐轮椅上学，受到了友奈的照顾。<br>![](https://p.sda1.dev/27/60b40268f587ab2af0ba86c3787e7f97/image.png) | [萌娘百科](https://zh.moegirl.org.cn/东乡美森) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
