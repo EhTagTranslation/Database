@@ -14047,6 +14047,7 @@ example:
 | kataokasan | kataokasan |  | [pixiv](https://www.pixiv.net/users/84325201) |
 | niwarhythm | にわりズム |  |  |
 | nagomi yayado | 和水ややど |  | [pixiv](https://www.pixiv.net/users/8918834) [X](https://x.com/Nagomi_yyd) |
+| enryu | えんりゅう |  | [pixiv](https://www.pixiv.net/users/12501034) |
 
 <!--TEMPLATE:
 |  |  |  |  |
