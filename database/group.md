@@ -13307,6 +13307,7 @@ example:
 | glovety | Glovety |  |  |
 | akaneya gu-tara ten | 茜屋ぐーたら店 |  |  |
 | erorhythm | EroRhythm |  |  |
+| izumi no miyako | 和泉都 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
