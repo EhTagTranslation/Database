@@ -1167,7 +1167,7 @@ example:
 | freehand tamashii | フリーハンド魂 |  |  |
 | tabuchi-san chi | たぶちさんち |  |  |
 | 2d creative | 2Dクリエイティブ |  |  |
-| higuma-ya | ひぐま屋 |  |  |
+| higuma-ya | 罴屋 |  |  |
 | clearmana plum | クリアマナ・プラム |  |  |
 | hanjuku iriko dashi | 半熟いりこ出汁 |  |  |
 | pururun estate | プルルンエステ |  |  |
