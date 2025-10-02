@@ -5475,7 +5475,7 @@ example:
 | toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
 | curtana | 卡提那 | 二次元游戏《交错战线》中的一个角色 | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/卡提那) |
 | alisa mikhailovna kujou | 艾莉莎·米哈伊罗夫纳·九条 | 艾莉莎·米哈伊罗夫纳·九条（日语：アリサ・ミハイロヴナ・九条）是轻小说《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/f4/Roshidere_chara02.png) | [萌娘百科](https://zh.moegirl.org.cn/艾莉莎·米哈伊罗夫纳·九条) |
-| lingyang | 凌阳 | 凌阳是库洛制作的游戏《鸣潮》及的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/凌阳) |
+| lingyang | 凌阳 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1213/h_1410/50074/43758/2024/4/23/215580.png)<br>所属作品：`wuthering waves` | [萌娘百科](https://zh.moegirl.org.cn/凌阳) |
 | atalanta alter | 阿塔兰忒〔Alter〕 | 阿塔兰忒是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在轻小说《Fate/Apocrypha》中初次登场。<br><br>用自身的宝具卡吕冬毛皮变身后的模样。也叫阿塔兰忒·变身。<br>![](https://bkimg.cdn.bcebos.com/pic/6f061d950a7b02087bf4c7395e93e5d3572c10df629a?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/阿塔兰忒〔Alter〕/53928351) |
 | surcouf | 絮库夫 | 絮库夫（速科夫，Surcouf，シュルクーフ，쉬르쿠프 ）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为自由法国海军的巡洋潜艇“絮库夫”号(French submarine Surcouf)。<br>![](https://img.moegirl.org.cn/common/9/90/BLHX_xukufu.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:絮库夫) |
 | yunli | 云璃 | 云璃是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2b/Yunli.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/云璃) |
