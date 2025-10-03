@@ -6550,7 +6550,7 @@ example:
 | she-hulk | 女浩克 |  |  |
 | manchester | 曼彻斯特 | ![](https://img.moegirl.org.cn/common/1/18/BLHX_manchesite.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的曼彻斯特号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:曼彻斯特#) |
 | suffren | 絮弗伦 | ![](https://patchwiki.biligame.com/images/blhx/thumb/9/95/5gxwy16r20g9mh4plxdit853kkpqvch.jpg/525px-絮弗伦立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为法国海军絮弗伦级重巡洋舰一号舰絮弗伦号（French cruiser Suffren）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:絮弗伦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/絮弗伦) |
-| evernight | 长夜月 | 所属作品：`honkai star rail`<br>![](https://patchwiki.biligame.com/images/sr/thumb/b/bb/8gu8rbyf8ca4x1p9r9rsa259dat1bi3.png/1050px-长夜月立绘.png) | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/长夜月) |
+| evernight | 长夜月 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/bb/8gu8rbyf8ca4x1p9r9rsa259dat1bi3.png/1050px-长夜月立绘.png)<br>所属作品：`honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/长夜月) |
 | ai sorakado | 空门蓝 | 空門藍是由Key製作的遊戲《Summer Pockets》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/0/02/Summer_Pockets-Sorakado_Ai2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空门蓝) |
 | tsumugi wenders | 䌷文德斯 | 䌷文德斯（日语：紬 ヴェンダース）是由Key制作的游戏《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b3/Tsumugi_Wenders1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/䌷文德斯) |
 | gneisenau | 格奈森瑙 | ![](https://img.moegirl.org.cn/common/8/80/BLHX_genaisennao.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为纳粹德国海军的格奈森瑙号战列巡洋舰（Gneisenau (Schiff, 1936)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:格奈森瑙) |
