@@ -6054,7 +6054,7 @@ example:
 | shiori novella | 诗织·诺薇拉 | 诗织·诺薇拉（英语：Shiori Novella，日语：シオリ・ノヴェラ）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/诗织·诺薇拉) [hololive官网介绍](https://hololive.hololivepro.com/talents/shiori-novella/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Shiori_Novella) |
 | koseki bijou | 古石碧珠 | 古石碧珠（英语：Koseki Bijou，日语：古石 ビジュ―／こせき びじゅー）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/古石碧珠) [hololive官网介绍](https://hololive.hololivepro.com/en/talents/koseki-bijou/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Koseki_Bijou) |
 | skirk | 丝柯克 | ![](https://patchwiki.biligame.com/images/ys/c/c8/jjun41taqgo7a9fbrxim0uywx2hujdl.gif)<br><br>所属作品：`genshin impact`<br>曾现身于深渊裂隙和原始胎海的来访者，教导达达利亚武技的老师。孤身一人的女武者。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/丝柯克) |
-| hanya | 寒鸦 | 《崩坏星穹铁道》中的女性角色 |  |
+| hanya | 寒鸦 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b1/9ioqeg95z4jfd8blur9sqtjh1i6d8yb.png/1050px-寒鸦立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」的十王司判官之一，负责拘、锁、刑、问的四判官中的「问」。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/寒鸦) |
 | rukkhadevata | 大慈树王 |  |  |
 | mizuki yumemizuki | 梦见月瑞希 | ![](https://patchwiki.biligame.com/images/ys/1/1f/3ylxb4h2mpyfipn3hxab2ltxp0bsf1z.gif)<br><br>所属作品：`genshin impact`<br>「秋沙钱汤」的股东，梦貘一族的心理诊疗师，致力于驱散噩梦，为人们带来安宁的心境。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/梦见月瑞希) |
 | shinju inui | 乾心寿 | ![](https://img.moegirl.org.cn/common/2/20/Inui_Shinju_anime.png)<br>所属作品：`sono bisque doll wa koi o suru`<br>乾纱寿叶的妹妹。初中生。<br>有着与年纪不太符合的身高与身材，与姐姐形成鲜明对比。 | [萌娘百科](https://zh.moegirl.org.cn/乾心寿) |
