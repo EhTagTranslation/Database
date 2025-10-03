@@ -6778,6 +6778,7 @@ example:
 | ayano kosaka | 香坂绫乃 | Ayano Kosaka (香坂アヤノ Kōsaka Ayano) is a major character of Code Geass: Akito the Exiled.<br>![](https://p.sda1.dev/27/0d6824895bb183d193707de908af823c/image.png) | [Fandom](https://codegeass.fandom.com/wiki/Ayano_Kosaka) |
 | syndra | 辛德拉 | 英雄联盟角色——暗黑元首辛德拉 |  |
 | hakuryuu | 白龙 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/2e/cjdxn5b4wqx9w3hiu9ugy4ml5jsyojq.jpg/525px-白龙立绘.jpg)<br>所属作品：碧蓝航线<br>白龙是一名重樱阵营的决战方案级航母舰娘，原型为旧日本未完成的大凤级改良型航母。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白龙) |
+| irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：英雄联盟 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
