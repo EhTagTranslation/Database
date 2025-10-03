@@ -4623,7 +4623,7 @@ example:
 | fu xuan | 符玄 | ![](https://patchwiki.biligame.com/images/sr/thumb/6/61/7l1pfiibrkrb7n8snk8m8yqrcplzo60.png/1050px-符玄立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」太卜司之首，自信耿直的智者。<br>凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶，坚信自己所做的一切便是事情的「最优解」。 | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
 | qingque | 青雀 | 青雀是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/ab/青雀立绘.jpg/420px-青雀立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青雀) |
 | sin mal | 杏·玛尔 | 杏·玛尔是miHoYo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/42/杏·玛尔.png) | [萌娘百科](https://zh.moegirl.org.cn/杏·玛尔) |
-| bailu | 白露 |  |  |
+| bailu | 白露 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/32/rzr41b0bxdlovno4qie52rdjrun0y3z.png/1050px-白露立绘.png)<br>所属作品：`honkai star rail`<br>性格活泼的小女孩，持明族的「衔药龙女」，药到病除的名医。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/白露) |
 | tingyun | 停云（忘归人） | ![](https://patchwiki.biligame.com/images/sr/thumb/8/84/cdbqs9lnnyfi304n6ky9aht9yi3pa4g.png/1050px-忘归人立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/停云) |
 | bronya rand | 布洛妮娅·兰德 | 布洛妮娅·兰德是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/59/布洛妮娅·兰德.png) | [萌娘百科](https://zh.moegirl.org.cn/布洛妮娅·兰德) |
 | shuuko komi | 古见秀子 | 古见秀子，古见硝子的母亲，是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/74/Komi_Shuko.png) | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
