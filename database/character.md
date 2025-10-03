@@ -5096,7 +5096,7 @@ example:
 | lynx landau | 玲可 | ![](https://patchwiki.biligame.com/images/sr/thumb/1/1f/18axbzq4ybwe28c2vcj62qqglse8ifr.png/1050px-玲可立绘.png)<br>所属作品：`honkai star rail`<br>朗道家年龄最小的女孩，贝洛伯格首屈一指的极地探险家。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
 | pelageya sergeyevna | 佩拉格娅·谢尔盖耶夫娜 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佩拉格娅·谢尔盖耶夫娜) |
 | hook | 虎克 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/虎克) |
-| yukong | 驭空 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
+| yukong | 驭空 | ![](https://patchwiki.biligame.com/images/sr/thumb/8/8e/6kxm4140x0o7pqvoi6f4welvlj7l72r.png/1050px-驭空立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」天舶司司舵，性情温和，处事老练。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
 | guinaifen | 桂乃芬 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/31/r1jc4xqpwenjsemnjmfyzclxi9yuy5m.png/1050px-桂乃芬立绘.png)<br>所属作品：`honkai star rail`<br>因机缘巧合留在仙舟的化外民，如今是热情烂漫的街头艺人。<br>本名「格妮薇儿」，「桂乃芬」是好友为她起的仙舟名。 | [萌娘百科](https://zh.moegirl.org.cn/桂乃芬) |
 | rumi usagiyama | 兔山留美 | 兎山ルミ。<br>《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.5 “兔子英雄” 米尔科<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/1/13/Rumi_Usagiyama_Hero_Costume_Full_%28Anime%29.png) |  |
 | ryuko tatsuma | 龙间龙子 | 《我的英雄学院》女英雄，英雄公告牌日本榜单 NO.10 “龙骑英雄” 龙九<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/2/20/Ryuko_Tatsuma_Hero_Costume_%28Anime%29.png) |  |
