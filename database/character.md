@@ -4552,7 +4552,7 @@ example:
 | himeko | 姬子 | 姬子(英语:himeko) 所属作品`p:honkai star rail`<br>是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/姬子.png) | [萌娘百科](https://zh.moegirl.org.cn/姬子%28星穹铁道%29) |
 | herta | 黑塔 | 黑塔是《`p:honkai star rail`》的登场角色。<br>游戏中出现的`c:herta`是`c:the herta`的人偶形态<br>大黑塔请使用(The Herta)<br>![](https://patchwiki.biligame.com/images/sr/thumb/7/70/r1e1jyqs1e3kn8qqjdh5s79wribucec.png/1050px-黑塔立绘.png) | [BILIGAME WIKI](https://wiki.biligame.com/sr/黑塔) |
 | stelle | 星（开拓者） | 星是《`honkai star rail`》的登场角色。<br><br>登上星穹列车的少年/少女。<br>为了消除星核带来的危机，选择与星穹列车同行。 | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
-| clara | 克拉拉 | 克拉拉是米哈游制作的游戏《`honkai star rail`》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/3/39/克拉拉立绘.png/1024px-克拉拉立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28星穹铁道%29) |
+| clara | 克拉拉 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/39/dt3rplvxk077if901sriml8jn6hxgw0.png/1050px-克拉拉立绘.png)<br>所属作品：`honkai star rail`<br>被机器人养大的女孩，有着超越年龄的通透和坚持。 | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28星穹铁道%29) |
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
 | neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 | nidalee | 奈德丽 |  | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
