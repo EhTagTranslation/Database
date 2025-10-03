@@ -4545,7 +4545,7 @@ example:
 | chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
 | cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
 | queen draco | 妖妃德拉科 | 原作：《Fate/Grand Order》<br>被某个平行世界的迦勒底打倒的第六之兽——的一角。<br>自『堕落』之理诞生之物。<br>据说当该时代繁荣到顶峰的都市腐败之时，<br>就会为了品尝其恶性滋味而出现。<br>其名为所多玛之兽。<br>乃是新约圣经中毁灭了巴比伦的兽。<br><br>![](https://img.moegirl.org.cn/common/e/e7/所多玛之兽／德拉科初始.png) | [萌娘百科](https://zh.moegirl.org.cn/尼禄·克劳狄乌斯%28Fate%29#Fate.2FGrand_Order_2) |
-| march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/三月七立绘.png/1024px-三月七立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
+| march 7th | 三月七 | ![](https://patchwiki.biligame.com/images/sr/thumb/e/ec/0nrtu7s6jqlq00wzcqqoyjl1doukder.png/1050px-三月七立绘.png)<br>所属作品：`honkai star rail`<br>精灵古怪的少女，自认热衷于这个年纪的女孩子「应当热衷」的所有事，比如照相。 | [萌娘百科](https://zh.moegirl.org.cn/三月七) |
 | himari akeboshi | 明星日鞠 | 所属作品：`p:blue archive`<br>千年科学学校所属，原黑客集团「真理部」部长，现任特异现象搜查部部长。<br>![](https://patchwiki.biligame.com/images/ba/8/89/pd0ih0rnng2q0ms3aonh5pps55peofz.png) | [萌娘百科](https://zh.moegirl.org.cn/明星日鞠)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Himari) |
 | asta | 艾丝妲 \| 亚斯塔 | ![](https://patchwiki.biligame.com/images/sr/thumb/e/e0/btg14pkk2n5ft4slf5n83kyicxt16a9.png/1050px-艾丝妲立绘.png)<br>所属作品：`honkai star rail`<br>好奇心与精力都很旺盛的少女，空间站「黑塔」的名义站长。 | [萌娘百科](https://zh.moegirl.org.cn/艾丝妲) |
 | garou | 饿狼 | 饿狼（英语:garou）所属作品: `p:one punch man`<br>![](https://img.moegirl.org.cn/common/b/b8/Garou.png) | [萌娘百科](https://zh.moegirl.org.cn/饿狼) |
