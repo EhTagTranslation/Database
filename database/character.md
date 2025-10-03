@@ -6776,6 +6776,7 @@ example:
 | miyo sakurai | 樱井美代 | 蔚蓝档案中的角色<br>![](https://p.sda1.dev/27/4f066a3a37f3b99ce16677dcdf9552cb/image.png) | [https://www.gamekee.com/ba/tj/674785.html](https://www.gamekee.com/ba/tj/674785.html)<br>[Fandom](https://bluearchive.fandom.com/wiki/Sakurai_Miyo) |
 | kirara onisaki | 鬼崎绮罗罗 | 千年战争aigis中的角色<br>![](https://p.sda1.dev/27/8c974623af5e5ff7e2654476d7d5d163/image.png) | [Fandom](https://aigis.fandom.com/wiki/Onisaki_Kirara) |
 | ayano kosaka | 香坂绫乃 | Ayano Kosaka (香坂アヤノ Kōsaka Ayano) is a major character of Code Geass: Akito the Exiled.<br>![](https://p.sda1.dev/27/0d6824895bb183d193707de908af823c/image.png) | [Fandom](https://codegeass.fandom.com/wiki/Ayano_Kosaka) |
+| syndra | 辛德拉 | 英雄联盟角色——暗黑元首辛德拉 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
