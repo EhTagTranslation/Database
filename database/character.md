@@ -4620,7 +4620,7 @@ example:
 | kurumu kurono | 黑乃胡梦 |  |  |
 | mizore shirayuki | 白雪霙 |  |  |
 | nagisa kirifuji | 桐藤渚 | 所属作品：`p:blue archive`<br>圣三一学园所属，组成圣三一学生联盟的领袖，也是学生会“茶话会”的主持者。<br>![](https://img.moegirl.org.cn/common/e/e1/BA_Nagisa.png)<br>![](https://img.moegirl.org.cn/common/d/d9/BA_Nagisa_Swimsuit.png) | [萌娘百科](https://zh.moegirl.org.cn/桐藤渚) |
-| fu xuan | 符玄 | 符玄是由米哈游所制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b2/符玄.jpg) | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
+| fu xuan | 符玄 | ![](https://patchwiki.biligame.com/images/sr/thumb/6/61/7l1pfiibrkrb7n8snk8m8yqrcplzo60.png/1050px-符玄立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」太卜司之首，自信耿直的智者。<br>凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶，坚信自己所做的一切便是事情的「最优解」。 | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
 | qingque | 青雀 | 青雀是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/ab/青雀立绘.jpg/420px-青雀立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青雀) |
 | sin mal | 杏·玛尔 | 杏·玛尔是miHoYo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/42/杏·玛尔.png) | [萌娘百科](https://zh.moegirl.org.cn/杏·玛尔) |
 | bailu | 白露 |  |  |
