@@ -13189,7 +13189,7 @@ example:
 | kasetsu makoto | 霞雪诚 |  |  |
 | chomoran | チョモラン |  |  |
 | kanonhou | 加农炮 |  |  |
-| miki chika | みきちか |  |  |
+| miki chika | みきちか |  | [pixiv](https://www.pixiv.net/users/60911) |
 | enoka | 江ノカ |  |  |
 | hako reema | 箱れぇま |  |  |
 | kohri | こーり |  |  |
