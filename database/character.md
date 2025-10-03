@@ -5093,7 +5093,7 @@ example:
 | utena hiiragi | 柊舞缇娜 | 柊舞缇娜（日语：柊（ひいらぎ） うてな）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。<br>![](https://bkimg.cdn.bcebos.com/pic/ac345982b2b7d0a20cf427838ab861094b36acaf2c2c?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [萌娘百科](https://zh.moegirl.org.cn/柊舞缇娜) |
 | chevreuse | 夏沃蕾 | ![](https://patchwiki.biligame.com/images/ys/6/63/e9mops9opmvxujeu5syob9zacrie92i.gif)<br><br>所属作品：`genshin impact`<br>时刻恪守着心中「正义」的特巡队队长，手中的铳枪只会指向负罪之人。 | [萌娘百科](https://zh.moegirl.org.cn/夏沃蕾) |
 | huohuo | 藿藿 | ![](https://patchwiki.biligame.com/images/sr/thumb/9/92/3a5fzmd5ussleda2tyqrpx11v9u93fm.png/1050px-藿藿立绘.png)<br>所属作品：`honkai star rail`<br>可怜又弱小的狐人小姑娘，也是怕鬼捉鬼的罗浮十王司见习判官。 | [萌娘百科](https://zh.moegirl.org.cn/藿藿) |
-| lynx landau | 玲可 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
+| lynx landau | 玲可 | ![](https://patchwiki.biligame.com/images/sr/thumb/1/1f/18axbzq4ybwe28c2vcj62qqglse8ifr.png/1050px-玲可立绘.png)<br>所属作品：`honkai star rail`<br>朗道家年龄最小的女孩，贝洛伯格首屈一指的极地探险家。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
 | pelageya sergeyevna | 佩拉格娅·谢尔盖耶夫娜 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佩拉格娅·谢尔盖耶夫娜) |
 | hook | 虎克 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/虎克) |
 | yukong | 驭空 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
