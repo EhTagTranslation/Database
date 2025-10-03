@@ -5151,7 +5151,7 @@ example:
 | smolder | 斯莫得 |  |  |
 | touka satomi | 里见灯花 |  | [pixiv](https://dic.pixiv.net/a/里見灯花) |
 | firefly | 流萤 | ![](https://patchwiki.biligame.com/images/sr/thumb/d/d3/k7g0ja362py1shisgib2uxl5s5kzbfw.png/1050px-流萤立绘.png)<br>所属作品：`honkai star rail`<br>星核猎手成员，身着机械装甲「萨姆」战斗。忠于任务，性格坚强。 | [萌娘百科](https://zh.moegirl.org.cn/流萤) |
-| black swan | 黑天鹅 | 黑天鹅是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
+| black swan | 黑天鹅 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/af/payusvzxpo9mso33fml1trp9qtr39j5.png/1050px-黑天鹅立绘.png)<br>所属作品：`honkai star rail`<br>「流光忆庭」的忆者，神秘优雅的占卜师。 | [萌娘百科](https://zh.moegirl.org.cn/黑天鹅%28星穹铁道%29#) |
 | gaming yip | 嘉明 |  |  |
 | dunyarzad homayani | 迪娜泽黛 | ![](https://ehgt.org/fa/50/fa50e5e11a18f51c5d5bf61fe2541b0b4108a038-395259-420-720-png_l.jpg)<br>所属作品：`genshin impact`<br>患有魔鳞病的年轻少女，几乎每一天都只能躺在病床上，为了不让自己剩余人生留下遗憾 ，在花神诞日即将到来之际逃出自家筹办花神诞祭。 | [萌娘百科](https://zh.moegirl.org.cn/迪娜泽黛) |
 | sparkle | 花火 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/7zgd5kv12cw5nkj37vb2wn9u6p7fbbb.png/1050px-花火立绘.png)<br>所属作品：`honkai star rail`<br>「假面愚者」的成员之一，难以捉摸，不择手段。<br>危险的戏剧大师，沉迷于扮演，身怀千张假面，能化万种面相。 | [萌娘百科](https://zh.moegirl.org.cn/花火%28星穹铁道%29#) |
