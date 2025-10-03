@@ -5770,7 +5770,7 @@ example:
 | shimiko endou | 圆堂志美子 | 所属作品：`p:blue archive`<br>圣三一综合学园所属，图书委员会的图书管理员。<br>![](https://moegirl.icu/media/BA_Shimiko.png) | [萌娘百科](https://moegirl.icu/圆堂志美子)<br>[BILIGAME WIKI](http://wiki.biligame.com/ba/Shimiko) |
 | melissa mao | 梅丽莎·毛 |  |  |
 | diane | 黛安娜 |  |  |
-| rappa | 乱破 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Character_Rappa_Splash_Art.png)<br>乱破是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乱破) |
+| rappa | 乱破 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/1/1c/Character_Rappa_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/乱破) |
 | lingsha | 灵砂 | ![](https://patchwiki.biligame.com/images/sr/thumb/8/87/i74ocx6kwo3qxcpl4bqeoi9m2mnn8q2.png/1050px-灵砂立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/灵砂) |
 | mikoto uchiha | 宇智波美琴 | ![](https://img.moegirl.org.cn/common/f/f1/Yuzhibomeiqin.jpg)<br>鼬和佐助的母親，宇智波富岳的妻子，漩渦玖辛奈的好友 | [萌娘百科](https://zh.moegirl.org.cn/宇智波美琴) |
 | rin nohara | 野原琳 |  |  |
