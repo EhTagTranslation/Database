@@ -5694,7 +5694,7 @@ example:
 | tsubasa kazanari | 风鸣翼 | 风鸣翼是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/风鸣翼) |
 | elon musk | 埃隆·马斯克 |  | [Wikipedia](https://zh.wikipedia.org/wiki/埃隆·马斯克) |
 | kearsarge | 奇尔沙治 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/7a/f612yqp4aqiu32kh5kom0jswnu6p9mr.jpg/525px-奇尔沙治换装2.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:奇尔沙治) |
-| feixiao | 飞霄 | 飞霄是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/飞霄) |
+| feixiao | 飞霄 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/79/0vez7r8jr0vperakdhxgc1uxw0qh5wk.png/1050px-飞霄立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/飞霄) |
 | caesar king | 凯撒·金 | 凯撒·金是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/da/75/da75aaf11b56fa105ad25ac6b2d677f66400891e-3732931-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯撒·金) |
 | burnice white | 柏妮思·怀特 | 柏妮思·怀特是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/16/bf/16bfbb552bc0075d4ae709c981f3b42cd5fc1e79-3383435-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/柏妮思·怀特) |
 | miyabi hoshimi | 星见雅 | 星见雅是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/de/d3/ded3478af3a5d7e231a8b7e3368b911c253f53b6-2584467-1440-1920-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/星见雅) |
