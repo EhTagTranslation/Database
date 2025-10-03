@@ -4920,7 +4920,7 @@ example:
 | laphicet | 莱菲瑟特 |  |  |
 | eleanor hume | 艾蕾诺亚·修姆 |  |  |
 | magillanica lou mayvin | 玛琪露 |  |  |
-| topaz | 托帕 | 托帕（英语：topaz）所属作品:`honkai star rail`<br>是由米哈游研发的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/托帕) |
+| topaz | 托帕 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/ae/rzdx12evy18xkpp13x1sjwrp1wq205v.png/1050px-托帕%26账账立绘.png)<br>所属作品：`honkai star rail`<br>星际和平公司旗下「战略投资部」高级干部托帕，领导特殊债务纠察小组。 | [萌娘百科](https://zh.moegirl.org.cn/托帕) |
 | jingliu | 镜流 | 镜流（jingliu）所属作品`p:honkai star rail` |  |
 | dan heng | 丹恒 | 丹恒是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丹恒) |
 | caelus | 穹（开拓者） | 穹是米哈游开发的角色扮演游戏《崩坏：星穹铁道》初始可选男性主角<br>![](https://p.sda1.dev/27/7bc6ef68e3c077bf9db819cfb1ff3ee5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
