@@ -5094,7 +5094,7 @@ example:
 | chevreuse | 夏沃蕾 | ![](https://patchwiki.biligame.com/images/ys/6/63/e9mops9opmvxujeu5syob9zacrie92i.gif)<br><br>所属作品：`genshin impact`<br>时刻恪守着心中「正义」的特巡队队长，手中的铳枪只会指向负罪之人。 | [萌娘百科](https://zh.moegirl.org.cn/夏沃蕾) |
 | huohuo | 藿藿 | ![](https://patchwiki.biligame.com/images/sr/thumb/9/92/3a5fzmd5ussleda2tyqrpx11v9u93fm.png/1050px-藿藿立绘.png)<br>所属作品：`honkai star rail`<br>可怜又弱小的狐人小姑娘，也是怕鬼捉鬼的罗浮十王司见习判官。 | [萌娘百科](https://zh.moegirl.org.cn/藿藿) |
 | lynx landau | 玲可 | ![](https://patchwiki.biligame.com/images/sr/thumb/1/1f/18axbzq4ybwe28c2vcj62qqglse8ifr.png/1050px-玲可立绘.png)<br>所属作品：`honkai star rail`<br>朗道家年龄最小的女孩，贝洛伯格首屈一指的极地探险家。 | [萌娘百科](https://zh.moegirl.org.cn/玲可·朗道) |
-| pelageya sergeyevna | 佩拉格娅·谢尔盖耶夫娜 | 是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佩拉格娅·谢尔盖耶夫娜) |
+| pelageya sergeyevna | 佩拉格娅·谢尔盖耶夫娜 | ![](https://patchwiki.biligame.com/images/sr/thumb/8/8a/6v9j1x7skgvszllqdwib8tmrhdffjev.png/1050px-佩拉立绘.png)<br>所属作品：`honkai star rail`<br>行事周密的银鬃铁卫情报官，年纪不大但头脑出众。 | [萌娘百科](https://zh.moegirl.org.cn/佩拉格娅·谢尔盖耶夫娜) |
 | hook | 虎克 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/7b/r9xxridfr6rm7jmcpjcfcrzd8o2e0s4.png/1050px-虎克立绘.png)<br>所属作品：`honkai star rail`<br>冒险集团「鼹鼠党」的头头，自称「漆黑的虎克大人」。 | [萌娘百科](https://zh.moegirl.org.cn/虎克) |
 | yukong | 驭空 | ![](https://patchwiki.biligame.com/images/sr/thumb/8/8e/6kxm4140x0o7pqvoi6f4welvlj7l72r.png/1050px-驭空立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」天舶司司舵，性情温和，处事老练。 | [萌娘百科](https://zh.moegirl.org.cn/驭空) |
 | guinaifen | 桂乃芬 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/31/r1jc4xqpwenjsemnjmfyzclxi9yuy5m.png/1050px-桂乃芬立绘.png)<br>所属作品：`honkai star rail`<br>因机缘巧合留在仙舟的化外民，如今是热情烂漫的街头艺人。<br>本名「格妮薇儿」，「桂乃芬」是好友为她起的仙舟名。 | [萌娘百科](https://zh.moegirl.org.cn/桂乃芬) |
