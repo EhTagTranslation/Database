@@ -4240,7 +4240,7 @@ example:
 | cecilia schariac | 塞西莉亚·沙尼亚特 |  |  |
 | shinobu kuki | 久岐忍 | ![](https://patchwiki.biligame.com/images/ys/1/1f/ksoiks220eluxmsaeua4r0hadqbl1kf.gif)<br>所属作品:`p:genshin impact`<br>干练可靠的「荒泷派」的副手——特别注明：干练可靠形容的不是「荒泷派」而是副手。 | [萌娘百科](https://zh.moegirl.org.cn/久岐忍) |
 | springfield | 春田 | ![]<br>(![](https://gfwiki.org/images/f/f3/Pic_M1903_HD.png))<br>`p:girls frontline`中的战术人形。<br>原型为斯普林菲尔德M1903步枪,也称为春田步枪。美军在世界第一次大战时的制式步枪，在二次世界大战中依然大量配备。<br>少女前线：追放<br>已登场 | [https://www.gfwiki.org/w/春田](https://www.gfwiki.org/w/春田) |
-| natasha cioara | 娜塔莎·希奥拉（渡鸦） |  |  |
+| natasha cioara | 娜塔莎·希奥拉（渡鸦） | ![](https://patchwiki.biligame.com/images/sr/thumb/c/c7/bumevvm1pg42tu569ai3ikeqaxnmkli.png/1050px-娜塔莎立绘.png)<br>所属作品：`honkai star rail`<br>做事严谨的医生，总带着难以捉摸的微笑。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/娜塔莎) |
 | fu hua | 符华 |  |  |
 | timido cute | 缇米朵·丘忒 |  |  |
 | mobius | 梅比乌斯 | 梅比乌斯是米哈游旗下游戏《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/e/eb/Mobius.png) | [萌娘百科](https://zh.moegirl.org.cn/梅比乌斯) |
