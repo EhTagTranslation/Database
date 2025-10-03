@@ -1913,7 +1913,7 @@ example:
 | crush gear nitro | 新超激力战斗车 |  | [维基百科](https://zh.wikipedia.org/wiki/新超激力戰鬥車) |
 | crypt killer | 妖霸天下 |  |  |
 | cyberbots | 装甲战士 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/サイバーボッツ) |
-| cyberpunk | 赛博朋克 |  | [维基百科](https://zh.wikipedia.org/wiki/赛博朋克) |
+| cyberpunk | 赛博朋克2077 | 《赛博朋克2077》，是由CD Projekt RED开发，CD Projekt发行的动作角色扮演游戏。<br>并有改编动画《赛博朋克 边缘行者》<br>该作的背景设定在世界已然崩坏的2077年，地点设定在夜之城。夜之城是一座五光十色的超级大都会，玩家将扮演赛博朋克雇佣兵V，不惜一切代价在夜之城扬名立万。 | [维基百科](https://zh.wikipedia.org/wiki/赛博朋克)<br>[百度百科](https://baike.baidu.com/item/赛博朋克2077/3306049) |
 | d.gray-man | 驱魔少年 |  | [维基百科](https://zh.wikipedia.org/wiki/驅魔少年) |
 | d.n.angel | 天使怪盗 |  | [维基百科](https://zh.wikipedia.org/wiki/天使怪盜) |
 | d.p.s. | D.P.S. | `g:alicesoft` D.P.S.系列 |  |
