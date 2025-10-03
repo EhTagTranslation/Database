@@ -6779,6 +6779,7 @@ example:
 | syndra | 辛德拉 | 英雄联盟角色——暗黑元首辛德拉 |  |
 | hakuryuu | 白龙 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/2e/cjdxn5b4wqx9w3hiu9ugy4ml5jsyojq.jpg/525px-白龙立绘.jpg)<br>所属作品：碧蓝航线<br>白龙是一名重樱阵营的决战方案级航母舰娘，原型为旧日本未完成的大凤级改良型航母。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白龙) |
 | irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：英雄联盟 |  |
+| sovetskaya belorussiya | 苏维埃贝拉罗斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/a/a9/5kptu5x4ygcoylrqmnxk7ymmkn5xhvk.jpg/525px-苏维埃贝拉罗斯立绘.jpg)<br>所属游戏：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃贝拉罗斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
