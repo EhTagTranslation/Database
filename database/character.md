@@ -6128,7 +6128,7 @@ example:
 | mutsumi wakaba | 若叶睦 | ![](https://patchwiki.biligame.com/images/arknights/0/04/beiqeodjplz7qh014munejo9am2cwu2.png)<br>若叶睦（日语：若葉（わかば） 睦（むつみ））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/若叶睦) |
 | sunflower | 向日葵 |  |  |
 | penelopea | 绿影侠 |  |  |
-| aglaea | 阿格莱雅 | 阿格莱雅是《`p:honkai star rail`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿格莱雅) |
+| aglaea | 阿格莱雅 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f2/eeo6be0rpoxmfhlk3bq7jrr490zhqiq.png/1050px-阿格莱雅立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/阿格莱雅) |
 | kaguya urushibara | 漆原辉夜 | 漆原辉夜（暂译），山海经高等学院的学生。京剧部的部长。<br><br>初次登场于活动剧情“梦华月骚”。 | [Fandom](https://bluearchive.fandom.com/wiki/Urushibara_Kaguya) [百度百科](https://baike.baidu.com/item/漆原辉夜) |
 | lan yan | 蓝砚 | ![](https://patchwiki.biligame.com/images/ys/a/ac/80slcm352njjfu98u9aez3xhc1kt68a.gif)<br>所属作品: `p:genshin impact`<br>沉玉谷来的藤编师，神清骨秀，像山间清泉一般灵动。 | [萌娘百科](https://zh.moegirl.org.cn/蓝砚) |
 | akane tendo | 天道茜 | 天道茜（日语：天道 茜（てんどう あかね））是高桥留美子所创作的漫画《乱马1/2》及其衍生作品的第一正室女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a6c7d7172a2f3557c93d6dd4?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [萌娘百科](https://zh.moegirl.org.cn/天道茜) |
