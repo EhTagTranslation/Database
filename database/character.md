@@ -6140,7 +6140,7 @@ example:
 | castorice | 遐蝶 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/3b/g2i10cu84radhr53nbghm6yidwmrgh2.png/1050px-遐蝶立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/遐蝶) |
 | biscione | 比肖内 | 比肖内是FGO在日服2025年1月的我的小小龙种活动同期实装的五星枪阶从者 |  |
 | the herta | 大黑塔 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/a4xh2fqj236rw5pdcy88vcr2fban63x.png/800px-大黑塔立绘.png)<br>所属作品：`honkai star rail` | [BILIGAME WIKI](https://wiki.biligame.com/sr/大黑塔) |
-| xueyi | 雪衣 |  | [萌娘百科](https://zh.moegirl.org.cn/雪衣) |
+| xueyi | 雪衣 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/ff/gi0l22bxcasfirasam36v35sgek9i0s.png/1050px-雪衣立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」的「十王司」判官之一，负责拘、锁、刑、问的四判官中的「拘」。 | [萌娘百科](https://zh.moegirl.org.cn/雪衣) |
 | scene | 稀音 | ![](https://patchwiki.biligame.com/images/arknights/5/5c/au7yug7mj5d7w9e8mme7ny9mpolsi2d.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/稀音) |
 | sizzles jelly queen | SizzlesJellyQueen |  | [YouTube](https://www.youtube.com/@sizzlesjellyqueen) [X](https://x.com/sizzlesjellyqn) [HP](https://www.sizzles.gg/) |
 | kei shindou | 新藤景 | 来自悠久之翼 |  |
