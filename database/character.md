@@ -6436,7 +6436,7 @@ example:
 | maki gamou | 蒲生真紀 |  |  |
 | ruka kayamori | 茅森月歌 |  |  |
 | yuki izumi | 和泉由希 |  |  |
-| hyacine | 风堇 | 崩坏：星穹铁道记忆命途角色 | [萌娘百科](https://zh.moegirl.org.cn/风堇) |
+| hyacine | 风堇 | ![](https://patchwiki.biligame.com/images/sr/thumb/c/cb/izhago3hsfe0o6j2ds7p290ipmn10m7.png/1050px-风堇立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/风堇) |
 | janne grenoble | 珍妮 格雷诺布尔 | 所属作品: `p:inda no himekishi janne` | [vndb](https://vndb.org/c27771) |
 | nanao hibiya | 奈奈绪响谷 | 所属作品: `p:nanatsu no maken ga shihai suru` | [百度百科](https://baike.baidu.com/item/奈奈绪·响谷) |
 | mari satsuki | 佐月麻里 |  |  |
