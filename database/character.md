@@ -6562,7 +6562,7 @@ example:
 | miki nakano | 中野美树 | ![](https://inews.gtimg.com/om_bt/OSKJG9UBj7RCFngPgvC1i8EuAkOsnD-rqAmJOKDAI9wxIAA/641)<br>《铁甲小宝》中角色。21岁，朝日町的女巡警。最喜欢的食物是糯米丸子。个性无理，散漫。最后辞掉警察工作，回到了乡下。 | [百度百科](https://baike.baidu.com/item/中野美树/64273455) |
 | mima kirigoe | 雾越未麻 | 《未麻的部屋》中心人物，出生于山口县，在家中饲养热带鱼当作宠物。<br>原本是偶像团体“CHAM！”的成员之一，在活跃了两年，但在办公室的决策下单飞，转行演员之路。 | [维基百科](https://zh.wikipedia.org/wiki/藍色恐懼) |
 | cerydra | 刻律德菈 | ![](https://patchwiki.biligame.com/images/sr/thumb/d/d0/otij3vzx3zc4ord56ccw4b7trdl3fo2.png/1050px-刻律德菈立绘.png)<br>所属作品：`honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/刻律德菈) |
-| hysilens | 海瑟音 | 海瑟音是《崩壞：星穹鐵道》中的一位可遊玩角色。<br>hysilens<br>![](https://static.wikia.nocookie.net/honkai-star-rail/images/d/d3/角色_海瑟音_遊戲立繪.png/revision/latest/scale-to-width-down/1000?cb=20250701033844&path-prefix=zh) | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/海瑟音) |
+| hysilens | 海瑟音 | ![](https://static.wikia.nocookie.net/honkai-star-rail/images/d/d3/角色_海瑟音_遊戲立繪.png/revision/latest/scale-to-width-down/1000?cb=20250701033844&path-prefix=zh)<br>所属作品：`honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/海瑟音) |
 | mast | 马斯特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_368/h_652/1253/4408/2023/6/13/371838.gif)<br>所属作品`p:goddess of victory nikke` | [https://www.gamekee.com/nikke/595144.html](https://www.gamekee.com/nikke/595144.html) |
 | narciso anasui | 纳鲁西索·安纳苏 | 纳鲁西索·安纳苏（日语：ナルシソ・アナスイ；英语：Narciso Anasui）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b4/Chara_Pos_Anasui.png) | [萌娘百科](https://zh.moegirl.org.cn/纳鲁西索·安纳苏) |
 | patrick star | 派大星 |  |  |
