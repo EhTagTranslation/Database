@@ -14051,6 +14051,7 @@ example:
 | hachikari | はちかり |  |  |
 | noumiso kaimentai | 脳みそ海綿隊 |  | [pixiv](https://www.pixiv.net/users/76786920) |
 | jimador | ヒマドール |  |  |
+| niku to gohan | 肉与饭 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
