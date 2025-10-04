@@ -14050,6 +14050,7 @@ example:
 | enryu | えんりゅう |  | [pixiv](https://www.pixiv.net/users/12501034) |
 | hachikari | はちかり |  |  |
 | noumiso kaimentai | 脳みそ海綿隊 |  | [pixiv](https://www.pixiv.net/users/76786920) |
+| jimador | ヒマドール |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
