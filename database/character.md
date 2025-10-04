@@ -6782,6 +6782,7 @@ example:
 | sovetskaya belorussiya | 苏维埃贝拉罗斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/a/a9/5kptu5x4ygcoylrqmnxk7ymmkn5xhvk.jpg/525px-苏维埃贝拉罗斯立绘.jpg)<br>所属游戏：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃贝拉罗斯) |
 | sovetsky soyuz | 苏维埃罗西亚 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/74/f8k3rb74tfg6dsnrfl3frzfydphcxjd.jpg/525px-苏维埃罗西亚立绘.jpg)<br>所属作品：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃罗西亚) |
 | prinz adalbert | 阿达尔伯特亲王 \| 阿德莉娅亲王 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/ba/ccctp5qxtdb63837kcgpe904zi0216e.jpg/525px-阿达尔伯特亲王换装2.jpg)<br>所属作品：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿达尔伯特亲王) |
+| latifa | 拉蒂法 | 所属作品: `p:seirei gensouki`<br>![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic04.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
