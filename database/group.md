@@ -13310,6 +13310,7 @@ example:
 | izumi no miyako | 和泉都 |  |  |
 | keisei yuan | 傾世遊庵 |  |  |
 | yukidoke hachinosu | 雪解けハチノス |  |  |
+| urahara doll | うらはらドール |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
