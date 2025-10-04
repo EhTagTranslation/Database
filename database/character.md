@@ -1252,7 +1252,7 @@ example:
 | ryouko sakaki | 榊凉子 | ![](https://img.moegirl.org.cn/common/5/58/Ryokosakaki.png)<br>所属作品：`shokugeki no soma`<br>远月学园高等部1年级学生，住在极星寮112号，与小惠和悠姬关系很好，对伊武崎峻有好感。<br><br>留着漂亮的紫色长直发，身材傲人，个性温柔，性格成熟稳重，是像大姐姐一样的存在，关爱着极星寮的舍友们，有大和抚子的性格。 | [萌娘百科](https://zh.moegirl.org.cn/榊凉子) |
 | rindou kobayashi | 小林龙胆 |  |  |
 |  | ▼ 埃罗芒阿老师 角色 |  |  |
-| sagiri izumi | 和泉纱雾 |  |  |
+| sagiri izumi | 和泉纱雾 | 所属作品：`eromanga sensei`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/3d/ec/22520_crt_Jz19b.jpg) | [Bangumi](https://bgm.tv/character/22520) |
 | elf yamada | 山田妖精（艾蜜莉·格兰杰） | Emily Granger，来自BD小册子的最新情报<br>![图](# "https://ehgt.org/84/fa/84fa56d2a5f0df7404a77dc41257dd96f2c849d3-915662-1050-1496-jpg_l.jpg")![图](# "https://ehgt.org/14/02/140250e6dbe67adec49f63cc530cecc10c7294bb-2503726-1376-2000-png_l.jpg")![图](# "https://ehgt.org/5b/a8/5ba83f746ae6605912a64ce83ae82146de6ad925-997353-2319-3300-jpg_l.jpg")![图](# "https://ehgt.org/4f/b5/4fb54122567bb1fb567a14e17508cd80be31d3af-4996559-2536-3580-jpg_l.jpg")![图](# "https://ehgt.org/40/b1/40b1cbeb856fb4f98aca11f8f0ea532132535a6b-307092-1280-1810-jpg_l.jpg") |  |
 | masamune izumi | 和泉正宗 |  |  |
 | megumi jinno | 神野惠 |  |  |
