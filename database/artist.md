@@ -14049,6 +14049,7 @@ example:
 | nagomi yayado | 和水ややど |  | [pixiv](https://www.pixiv.net/users/8918834) [X](https://x.com/Nagomi_yyd) |
 | enryu | えんりゅう |  | [pixiv](https://www.pixiv.net/users/12501034) |
 | hachikari | はちかり |  |  |
+| noumiso kaimentai | 脳みそ海綿隊 |  | [pixiv](https://www.pixiv.net/users/76786920) |
 
 <!--TEMPLATE:
 |  |  |  |  |
