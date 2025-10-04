@@ -6783,6 +6783,7 @@ example:
 | sovetsky soyuz | 苏维埃罗西亚 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/74/f8k3rb74tfg6dsnrfl3frzfydphcxjd.jpg/525px-苏维埃罗西亚立绘.jpg)<br>所属作品：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃罗西亚) |
 | prinz adalbert | 阿达尔伯特亲王 \| 阿德莉娅亲王 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/ba/ccctp5qxtdb63837kcgpe904zi0216e.jpg/525px-阿达尔伯特亲王换装2.jpg)<br>所属作品：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿达尔伯特亲王) |
 | latifa | 拉蒂法 | 所属作品: `p:seirei gensouki`<br>![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic04.png) |  |
+| liselotte cretia | 莉赛萝黛·库雷提雅 | 所属作品: `p:seirei gensouki`<br>![](https://img.moegirl.org.cn/common/thumb/0/0c/Liselotte_Cretia.webp/225px-Liselotte_Cretia.webp.png)<br>卡尔亚克王国的公爵女儿，阿曼多地方官，六花商会的年轻会长，年龄15岁。举止清纯温柔的女性的典范，也有能干的一面，有着巨大的影响力。 | [萌娘百科](https://zh.moegirl.org.cn/精灵幻想记) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
