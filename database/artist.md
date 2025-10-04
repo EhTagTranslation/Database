@@ -9989,7 +9989,7 @@ example:
 | shibire hitsuji | シビレヒツジ |  |  |
 | shibuki oroshi | 飛沫おろし |  |  |
 | shibusawa hayato | 渋沢隼人 |  |  |
-| shichoson | 市町村 |  |  |
+| shichoson | 市町村 |  | [pixiv](https://www.pixiv.net/users/200337) |
 | shidaka akikuni | しだかあきくに |  |  |
 | shidatsu takayuki | 紫妲たかゆき |  |  |
 | shieko | しえこ |  |  |
