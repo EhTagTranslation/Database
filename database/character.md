@@ -3163,7 +3163,7 @@ example:
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 |  |  |
 | malty melromarc | 麦蒂·S·梅洛玛格 |  |  |
 | motoyasu kitamura | 北村元康（枪之勇者） |  |  |
-| hana uzaki | 宇崎花 |  |  |
+| hana uzaki | 宇崎花 | 所属作品：`uzaki-chan wa asobitai`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/01/07/30/02/135739572_p0_master1200.jpg) |  |
 | tsuki uzaki | 宇崎月 |  |  |
 | shinichi sakurai | 樱井真一 |  |  |
 | ryoko yoshida | 吉田良子 |  |  |
