@@ -6442,7 +6442,7 @@ example:
 | mari satsuki | 佐月麻里 |  |  |
 | adelheid kanzaki | 神崎阿迪尔海德 |  |  |
 | capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 |  |  |
-| jin-ah sung | 程肖雅丨水筱葵 |  |  |
+| jin-ah sung | 程肖雅丨水筱葵 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/23/12/56/04/127541876_p6_master1200.jpg) |  |
 | samui | 萨姆伊 |  |  |
 | heles | 赫尔艾斯 | 游戏《碧蓝幻想》中的角色，外号王姐。在得知导致祖国灭亡的是父王的愚蠢策略这个事情后，王女开始对王座的存在抱有疑问。考虑到残留下来的民众的未来，废弃王座的她因此离开了人民。展现在不再是王女的她的面前的，是自由到可怕的世界。 |  |
 | theresia van astrea | 特蕾西亚·范·阿斯特雷亚 | 所属作品: `p:re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/特蕾西亚·范·阿斯特雷亚) [Fandom](https://rezero.fandom.com/wiki/Theresia_van_Astrea) |
