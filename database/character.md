@@ -6788,6 +6788,7 @@ example:
 | osaragi | 大佛 | 所属作品：`sakamoto days`<br>![](https://sakamotodays.jp/en/assets/img/character/chara9_main1.png?v=241113) | [Bangumi](https://bgm.tv/character/130756) |
 | esil radiru | 艾希尔·拉迪鲁 | 所属作品：`solo leveling`<br>恶魔贵族、拉迪鲁家族的长公主。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/27/00/25/06/127665739_p1_master1200.jpg) |  |
 | nitocris alter | 尼托克丽丝〔Alter〕 |  |  |
+| nemo professor | 尼莫教授 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
