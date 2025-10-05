@@ -13311,6 +13311,7 @@ example:
 | keisei yuan | 傾世遊庵 |  |  |
 | yukidoke hachinosu | 雪解けハチノス |  |  |
 | urahara doll | うらはらドール |  |  |
+| bloody mary | 血腥玛丽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
