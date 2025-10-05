@@ -6677,7 +6677,7 @@ example:
 | lisa isaribi | 丽莎渔边 | 日本漫画《炎炎消防队》及其衍生作品中的人物。第三世代能力者，使用的能力是火焰触角，可释放渔火。![](https://lain.bgm.tv/r/400/pic/crt/l/05/e9/73165_crt_u55Oy.jpg?r=1573886346) | [Bangumi](https://bgm.tv/character/73165) |
 | joo-hee lee | 李晓希 \| 观月绘里 | 韩国漫画《我独自升级》及其衍生作品中登场的女性角色。<br>B级猎人，职业为治疗师，容易被恐惧支配，担心总是在任务中受伤的程肖宇 。<br>![](https://img.moegirl.org.cn/common/thumb/e/ef/Solo_Leveling_c10_face1.png/150px-Solo_Leveling_c10_face1.png) | [百度百科](https://baike.baidu.com/item/李晓希) |
 | song-yi han | 韩宋伊 | 所属作品：`solo leveling`<br>E级猎人，程肖雅的同班同学。<br>![](https://img.moegirl.org.cn/common/thumb/6/6b/Solo_Leveling_Anime_Han_Song-Yi_2.jpg/150px-Solo_Leveling_Anime_Han_Song-Yi_2.jpg) |  |
-| gina | 吉娜 | 韩国漫画《我独自升级》中登场的角色。<br>A级猎人，汉特斯公会成员，魔法攻击型职业。 |  |
+| gina | 吉娜 | 所属作品：`solo leveling`<br>A级猎人，汉特斯公会成员，魔法攻击型职业。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/19/08/20/34/127401577_p1_master1200.jpg) |  |
 | jianxin | 鉴心 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/c/c5/9zxy9x4z9xwy9k1qfxz4gesjx5q40pm.png/601px-角色_鉴心_立绘.png)<br>一生只追求武术极致的道士，实力莫测、抱朴守一的风仪拳传人。拥有将周围环境气韵化为内在，形成涤净力场的能力。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/鉴心) |
 | zhezhi | 折枝 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/53/cyeurbovyohayb7i2fmxul70ac5mgbq.png/507px-角色_折枝_立绘.png)<br>鬻画维生的委托画师，忧思敏感，不善言辞，所思所想皆寄寓于画，笔下万物可幻化而出，惟妙惟肖。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/折枝) |
 | ciaccona | 夏空 | ![](https://pic.cangku.moe/images/2025/09/04/1yomE.th.webp)<br>黎那汐塔的吟游诗人——夏空。她为神明而歌，也为平凡的人类而歌。<br>她于旅途中记录着故事，传唱着故事，与故事的主人，故事的观众一同欢笑、感动、流泪。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/夏空) |
