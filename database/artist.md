@@ -14053,6 +14053,7 @@ example:
 | jimador | ヒマドール |  |  |
 | niku to gohan | 肉与饭 |  |  |
 | viali | びあり |  |  |
+| chokai | 鳥海 |  | [pixiv](https://www.pixiv.net/users/65100819) |
 
 <!--TEMPLATE:
 |  |  |  |  |
