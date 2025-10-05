@@ -6786,6 +6786,7 @@ example:
 | liselotte cretia | 莉赛萝黛·库雷提雅 | 所属作品: `p:seirei gensouki`<br>![](https://img.moegirl.org.cn/common/thumb/0/0c/Liselotte_Cretia.webp/225px-Liselotte_Cretia.webp.png)<br>卡尔亚克王国的公爵女儿，阿曼多地方官，六花商会的年轻会长，年龄15岁。举止清纯温柔的女性的典范，也有能干的一面，有着巨大的影响力。 | [萌娘百科](https://zh.moegirl.org.cn/精灵幻想记) |
 | dahlia | 塔利雅 | 塔利雅是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![塔利雅](https://upload-bbs.miyoushe.com/upload/2025/05/13/75276539/0a5b64bc68caa42da82ba7a6a850f04e_5599129872387745441.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔利雅#) |
 | osaragi | 大佛 | 所属作品：`sakamoto days`<br>![](https://sakamotodays.jp/en/assets/img/character/chara9_main1.png?v=241113) | [Bangumi](https://bgm.tv/character/130756) |
+| esil radiru | 艾希尔·拉迪鲁 | 所属作品：`solo leveling`<br>恶魔贵族、拉迪鲁家族的长公主。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/27/00/25/06/127665739_p1_master1200.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
