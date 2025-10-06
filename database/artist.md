@@ -1079,7 +1079,7 @@ example:
 | alp | あるぷ | 成人向け漫画家。サークル「リンゴヤ」 | [X](https://x.com/alp315)<br>[pixiv](https://www.pixiv.net/users/1746953) |
 | chiba toshirou | チバトシロウ |  | [pixiv](https://www.pixiv.net/users/1226571) |
 | choco pahe | チョコぱへ |  |  |
-| hal | HAL |  |  |
+| hal | hal \| なにがしナニカ |  | [X](https://x.com/hal1056714) |
 | haruhisky | はるきち | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [X](https://x.com/haruhisky1) |
 | ichinomiya yuu | 一宮夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [X](https://x.com/Inago1919) [pixiv](https://www.pixiv.net/users/5629962) |
