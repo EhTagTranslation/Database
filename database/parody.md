@@ -2539,6 +2539,7 @@ example:
 | amakano 2 | 甜蜜女友2 | 《甜蜜女友》（日语：アマカノ）是NEXTON公司的旗下品牌あざらしそふと制作，于2014年12月19日发售的恋爱冒险类型成人游戏，2022年11月24日发售任天堂Switch版。2016年10月28日发售完整版，12月22日发售扩充版《甜蜜女友＋》（アマカノ＋）。后来改编成OVA由mary jan发售共四集。 |  |
 | slay the spire | 杀戮尖塔 |  |  |
 | dan vs. | DAN VS. | Dan Vs.照字面可以翻译成丹杠上谁，是一部美国Flash动画，由丹·马达尔（Dan Mandel）与克里斯·裴尔森（Chris Pearson）发起。首度上映是在2011年1月1日一月在美国电视频道The Hub拨出，现今播放到第三季。主题是男主角Dan因为各种原因而单方面怨恨或与某人结仇，并接着进行复仇计划的故事。 | [维基百科](https://zh.wikipedia.org/wiki/DAN_VS.) |
+| no im not a human | 寻找伪人 | 《寻找伪人》（英语：No, I'm not a Human）是一款由俄罗斯工作室Trioskaz开发，并由Critical Reflex发行的恐怖视觉小说类电子游戏。游戏于2025年9月15日透过Steam在Windows平台正式推出。 | [维基百科](https://zh.wikipedia.org/wiki/不，我不是人類) [Fandom](https://no-i-am-not-a-human.fandom.com/wiki/No,_I%27m_not_a_Human_%28Game%29) [Steam](https://store.steampowered.com/app/3180070) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
