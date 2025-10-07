@@ -4219,7 +4219,7 @@ example:
 | serika kuromi | 黑见芹香 | 所属作品：`p:blue archive`<br>阿拜多斯高等学校所属，阿拜多斯对策委员会的有些难以相处的会计负责人。<br>![](https://patchwiki.biligame.com/images/ba/c/cd/qw92noipsp5pncuaceslzys3g9tp6ar.png)<br>![](https://patchwiki.biligame.com/images/ba/9/9c/hlkn8lkqd9fxmo155iik5gzye32mm2u.png) | [萌娘百科](https://zh.moegirl.org.cn/黑见茜香)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Serika) |
 | ayane okusora | 奥空绫音 | 所属作品: `p:blue archive`<br>阿拜多斯高等学校所属，阿拜多斯对策委员会的认真书记。<br>![](https://patchwiki.biligame.com/images/ba/6/60/rglrvrv124fnn8ha1v3ixnnnozltn71.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Ayane) |
 | mikan hinatsuki | 阳夏木蜜柑 | ![](https://static.wikia.nocookie.net/machikado-mazoku/images/d/db/Hinamikan.png) | [Fandom](https://machikado-mazoku.fandom.com/wiki/Mikan_Hinatsuki) |
-| sword maiden | 剑之圣女 |  |  |
+| sword maiden | 剑之圣女 | 所属作品：`goblin slayer`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/24/08/00/08/134258948_p0_master1200.jpg)<br>十年前将复活的魔王之一战胜的金级冒险者们其中的一人，至高神的仆人。 | [萌娘百科](https://zh.moegirl.org.cn/剑之圣女) |
 | chigusa kisaragi | 如月千种 |  |  |
 | dobrynya nikitich | 多布雷尼亚·尼基季奇 |  |  |
 | aratsuka ogami | 荒塚オガミ |  | [Fandom](https://youtube.fandom.com/wiki/Ogami_Aratsuka) [X](https://x.com/aratsuka_ogami) |
