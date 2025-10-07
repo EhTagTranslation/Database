@@ -14055,6 +14055,7 @@ example:
 | viali | びあり |  |  |
 | chokai | 鳥海 |  | [pixiv](https://www.pixiv.net/users/65100819) |
 | yamashita nigou | 山下二号 |  |  |
+| dian dian di di | 点点滴滴 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
