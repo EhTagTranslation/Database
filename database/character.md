@@ -6790,6 +6790,7 @@ example:
 | nitocris alter | 尼托克丽丝〔Alter〕 |  |  |
 | nemo professor | 尼莫教授 |  |  |
 | moze | 貊泽 | 貊泽是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
+| mio | 澪 | 所属作品：`tsuki ga michibiku isekai douchuu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
