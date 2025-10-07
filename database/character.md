@@ -6800,6 +6800,7 @@ example:
 | luminous valentine | 露米娜丝·瓦伦丁 | 所属作品：`tensei shitara slime datta ken`<br>![](https://i.pixiv.cat/img-master/img/2025/09/18/01/44/29/135228368_p0_master1200.jpg)<br>【八星魔王】之【夜魔女王】，【神圣法皇国卢贝利欧斯】的实际掌权者兼被所有国民所信仰的“露米娜丝神”。 | [百度百科](https://baike.baidu.com/item/露米娜丝·瓦伦丁) |
 | sagiri ameno | 雨野狭雾 | 所属作品：`yuragisou no yuuna-san`<br>![](https://i.pixiv.cat/img-master/img/2025/10/04/00/03/48/135840279_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/雨野狭雾) |
 | chisaki miyazaki | 宫崎千纱希 | 所属作品：`yuragisou no yuuna-san`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/08/16/00/00/18/121523885_p2_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/宫崎千纱希) |
+| witch | 魔女（哥布林杀手） | 所属作品：`goblin slayer`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/19/19/41/15/130587094_p1_master1200.jpg)<br>隶属边境小镇冒险者公会的银等级冒险者。 | [萌娘百科](https://zh.moegirl.org.cn/魔女%28哥布林杀手%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
