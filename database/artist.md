@@ -14057,6 +14057,7 @@ example:
 | yamashita nigou | 山下二号 |  |  |
 | dian dian di di | 点点滴滴 |  |  |
 | kubikiri | 首切り |  |  |
+| onizuka frill | 鬼塚フリル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
