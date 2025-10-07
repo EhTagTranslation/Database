@@ -5509,7 +5509,7 @@ example:
 | kazuhiko nukumizu | 温水和彦 | 所属作品：`make heroine ga oosugiru`<br>![](https://img.moegirl.org.cn/common/6/6d/Nukumizu_Kazuhiko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/温水和彦) |
 | fumiya tomozaki | 友崎文也 | 就读关友高中二年级，另一个身份是线上连机对战游戏《AttaFami》全日本第一的玩家“nanashi”。 |  |
 | minami nanami | 七海深奈实 | 关友高中二年级，友崎的同班同学，留着马尾的美少女，班上的现充之一。身高162cm。 |  |
-| anna yanami | 八奈见杏菜 | 八奈见杏菜（日语：八奈見（やなみ） 杏菜（あんな））是雨森焚火著作、いみぎむる负责插画的轻小说《败犬女主也太多了！》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/0/0d/Yanami_Anna_face.jpg/1920px-Yanami_Anna_face.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
+| anna yanami | 八奈见杏菜 | 所属作品：`make heroine ga oosugiru`<br>![](https://i.pixiv.cat/img-master/img/2025/01/07/10/30/01/125986402_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
 | lemon yakishio | 烧盐柠檬 | 石蕗高中一年级生，温水的同班同学，田径部王牌部员，性格天真烂漫的爽朗系美少女。 |  |
 | kayo hinazuki | 雏月加代 |  |  |
 | changli | 长离 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/2/25/rwnmwv8y5wjcn98wix521fksfqddhgq.png/516px-角色_长离_立绘.png)<br>所属作品：`wuthering waves`<br>今州令尹参事，前明庭中政省长史。<br>长离是终生浴火，总有一日会将己身燃烧殆尽的策士，善于洞察并利用人性引敌入局。作为今汐的老师，她温柔耐心、循循善诱。 | [萌娘百科](https://zh.moegirl.org.cn/长离)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/长离) |
