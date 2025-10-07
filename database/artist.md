@@ -8052,7 +8052,7 @@ example:
 | miyazaki yuki | 宮崎ユウキ |  |  |
 | miyazawa riewo | 宮沢りえを |  |  |
 | miyoichi | みよいち |  |  |
-| miyu | MIYU |  |  |
+| miyu | MIYU | P站画师 UID：11430096 | [pixiv](https://www.pixiv.net/users/11430096) |
 | miyuki | 深雪 |  |  |
 | miyuki yaya | 御幸やや |  |  |
 | miyuma subaru | 未由間すばる |  |  |
