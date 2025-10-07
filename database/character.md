@@ -6789,6 +6789,7 @@ example:
 | esil radiru | 艾希尔·拉迪鲁 | 所属作品：`solo leveling`<br>恶魔贵族、拉迪鲁家族的长公主。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/27/00/25/06/127665739_p1_master1200.jpg) |  |
 | nitocris alter | 尼托克丽丝〔Alter〕 |  |  |
 | nemo professor | 尼莫教授 |  |  |
+| moze | 貊泽 | 貊泽是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
