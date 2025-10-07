@@ -5513,7 +5513,7 @@ example:
 | lemon yakishio | 烧盐柠檬 | 石蕗高中一年级生，温水的同班同学，田径部王牌部员，性格天真烂漫的爽朗系美少女。 |  |
 | kayo hinazuki | 雏月加代 |  |  |
 | changli | 长离 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/2/25/rwnmwv8y5wjcn98wix521fksfqddhgq.png/516px-角色_长离_立绘.png)<br>所属作品：`wuthering waves`<br>今州令尹参事，前明庭中政省长史。<br>长离是终生浴火，总有一日会将己身燃烧殆尽的策士，善于洞察并利用人性引敌入局。作为今汐的老师，她温柔耐心、循循善诱。 | [萌娘百科](https://zh.moegirl.org.cn/长离)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/长离) |
-| ayano kimishima | 君岛绫乃 | 君島綾乃（日語：きみしま あやの）是由燦々SUN所創作的輕小說《不時輕聲地以俄語遮羞的鄰座艾莉同學》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/thumb/2/2b/动画君岛.png/420px-动画君岛.png) | [萌娘百科](https://zh.moegirl.org.cn/君岛绫乃) |
+| ayano kimishima | 君岛绫乃 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://img.moegirl.org.cn/common/a/a9/Ayano_Kimishima.png)<br>侍奉有希的随从，担任学生会总务<br>沉默寡言，面无表情。对有希和政近有绝对的忠诚，在学校也为了支持有希而参加学生会。也许是因为有点远离尘世，所以经常被有希欺骗和捉弄...... | [萌娘百科](https://zh.moegirl.org.cn/君岛绫乃) |
 | chisaki sarashina | 更科茅咲 | 更科茅咲是由灿々SUN所创作的《不时轻声地以俄语遮羞的邻座艾莉同学》及其衍生作品的登场角色。<br><br>学生会副会长，剑道部队长。<br>![](https://anibase.net/files/c4c968f2ee3fc1f23cd7c9fa0c2e0c3e/360) | [anibase](https://anibase.net/zh-hans/character/mRJMm/更科茅咲) |
 | mariya mikhailovna kujou | 玛利亚·米哈伊罗夫纳·九条 | 比艾莉莎大一岁的姐姐，担任学生会书记。<br>因为身材出众、温柔美丽，在校内的人气很高，被称为“学园的圣母”。不过似乎有男友，所有向她表白的男孩都因此铩羽而归。<br><br>![](https://img.moegirl.org.cn/common/b/bc/Roshidere_chara04.png) | [萌娘百科](https://zh.moegirl.org.cn/不时轻声地以俄语遮羞的邻座艾莉同学) |
 | yuki suou | 周防有希 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://img.moegirl.org.cn/common/1/1e/Mariya_Mikhaylovna_Kujō.png)<br>比艾莉莎大一岁的姐姐，担任学生会书记。<br>因为身材出众、温柔美丽，在校内的人气很高，被称为“学园的圣母”。 | [萌娘百科](https://zh.moegirl.org.cn/周防有希) |
