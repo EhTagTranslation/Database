@@ -6798,6 +6798,7 @@ example:
 | lynneburg clays | 林涅波尔格·克雷斯 | 所属作品：`ore wa subete wo parry suru`<br>![](https://i.pixiv.cat/img-master/img/2024/09/02/08/00/05/122066666_p0_master1200.jpg)<br>各方面能力都很优秀的克雷斯王国第一公主。在被反对势力暗杀，这一危急时刻被诺德所救，自那之后就叫诺德为“老师”并敬慕着。 |  |
 | hinata sakaguchi | 坂口日向 | 所属作品：`tensei shitara slime datta ken`<br>![](https://i.pixiv.cat/img-master/img/2025/10/03/21/48/20/135833936_p0_master1200.jpg)<br>十大圣人之一，神圣法皇国露贝利欧斯的法皇直属近卫团首席骑士兼任圣骑士团长，西方诸国最强人类。<br>来自异世界的人类，井泽静江的弟子之一。 | [萌娘百科](https://zh.moegirl.org.cn/坂口日向) |
 | luminous valentine | 露米娜丝·瓦伦丁 | 所属作品：`tensei shitara slime datta ken`<br>![](https://i.pixiv.cat/img-master/img/2025/09/18/01/44/29/135228368_p0_master1200.jpg)<br>【八星魔王】之【夜魔女王】，【神圣法皇国卢贝利欧斯】的实际掌权者兼被所有国民所信仰的“露米娜丝神”。 | [百度百科](https://baike.baidu.com/item/露米娜丝·瓦伦丁) |
+| sagiri ameno | 雨野狭雾 | 所属作品：`yuragisou no yuuna-san`<br>![](https://i.pixiv.cat/img-master/img/2025/10/04/00/03/48/135840279_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/雨野狭雾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
