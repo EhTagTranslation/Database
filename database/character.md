@@ -6387,7 +6387,7 @@ example:
 | tama sakai | 多摩境 |  |  |
 | roka shibasaki | 柴崎芦花 |  |  |
 | kenji kazama | 风间坚次 |  |  |
-| karen himemiya | 姬宫华恋 |  | [百度百科](https://baike.baidu.com/item/姬宫华恋/64464235) |
+| karen himemiya | 姬宫华恋 | 所属作品：`make heroine ga oosugiru`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/10/00/01/10/133687335_p1_master1200.jpg) | [百度百科](https://baike.baidu.com/item/姬宫华恋/64464235) |
 | kaju nukumizu | 温水佳树 |  |  |
 | uzuki kou | 卯月コウ | 卯月コウ（英譯：Uzuki Kou，中譯：卯月光）是一位日本男性虛擬Youtuber，為いちから株式会社旗下にじさんじSEEDs的虛擬Liver成員之一，於2018年6月6日在Mirrativ開始活動。 | [https://wikiwiki.jp/nijisanji/卯月コウ](https://wikiwiki.jp/nijisanji/卯月コウ) |
 | takane takamine | 鹰峰高岭 |  |  |
