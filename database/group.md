@@ -13315,6 +13315,7 @@ example:
 | alecubicsoft | AleCubicSoft |  | [h-suki](https://www.h-suki.com/en/studios/games/1671) [vndb](https://vndb.org/p20825) |
 | resoman manga koubou | Resoman漫画工房 |  |  |
 | momofes | 桃祭 |  |  |
+| enbudou | 炎舞堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
