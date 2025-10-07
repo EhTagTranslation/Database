@@ -6805,6 +6805,7 @@ example:
 | akane sakuramori | 樱森朱音 | 所属作品：《我和班上最讨厌的女生结婚了》<br>![](https://i.pixiv.cat/img-master/img/2025/02/16/14/50/23/127309462_p0_master1200.jpg) |  |
 | teltina liz wargray avallost | 蒂露缇娜·莉兹·瓦古雷·阿瓦鲁罗斯特 | 所属作品：`sentai red isekai de boukensha ni naru`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/03/29/16/05/45/128727830_p36_master1200.jpg) |  |
 | yihdra arvoln | 伊多拉·阿波罗 | 所属作品：`sentai red isekai de boukensha ni naru`<br>![](https://i.pixiv.cat/img-master/img/2025/01/31/15/59/50/126746281_p0_master1200.jpg) |  |
+| ironmouse | 铁鼠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
