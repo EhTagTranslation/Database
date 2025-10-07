@@ -6791,6 +6791,7 @@ example:
 | nemo professor | 尼莫教授 |  |  |
 | moze | 貊泽 | 貊泽是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
 | mio | 澪 | 所属作品：`tsuki ga michibiku isekai douchuu` |  |
+| vivi nefertari | 薇薇·奈菲鲁塔丽 | 所属作品：`one piece`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/11/08/01/07/134959573_p0_master1200.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
