@@ -13256,7 +13256,7 @@ example:
 | shizuma no ie | しづまの家 |  |  |
 | kyabiramuuru | キャビラムール |  |  |
 | one or eight | ワンオアエイト |  |  |
-| tonikakuushi | イチヒ |  |  |
+| tonikakuushi | 兎に角牛 |  |  |
 | hiyashi makura | ひやしまくら |  |  |
 | midareuchi | 乱れ击ち |  |  |
 | otogidou | オトギ堂 |  |  |
