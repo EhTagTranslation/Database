@@ -14062,6 +14062,7 @@ example:
 | manzoku ippon | 满足一本 |  |  |
 | hara kyuuren | 原きゅうれん |  | [X](https://x.com/Hara9Ren) |
 | kourui | 紅涙 |  | [X](https://x.com/scarlettear33) |
+| inushida | いぬしだ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
