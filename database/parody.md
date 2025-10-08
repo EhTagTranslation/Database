@@ -2545,6 +2545,7 @@ example:
 | sinisistar | 哥特少女勇闯恶魔城 |  |  |
 | bridge to terabithia | 仙境之桥 |  |  |
 | hametsu no oukoku | 破灭之国 | 《破灭之国》是由yoruhashi创作的一部漫画，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/9/9c/Hametsu_KV.jpg) | [百度百科](https://baike.baidu.com/item/破灭的王国/62635236)<br>[萌娘百科](https://zh.moegirl.org.cn/破灭之国) |
+| inyouchuu | 淫妖蟲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
