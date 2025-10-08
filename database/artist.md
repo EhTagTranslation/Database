@@ -14059,6 +14059,7 @@ example:
 | kubikiri | 首切り |  |  |
 | onizuka frill | 鬼塚フリル |  |  |
 | bareisho tarou | 马铃薯太郎 |  |  |
+| manzoku ippon | 满足一本 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
