@@ -1946,7 +1946,7 @@ example:
 | grandia | 冒險奇譚 |  |  |
 | grappler baki | 刃牙 | 刃牙系列为日本漫画家板垣恵介创作的经典格斗漫画。 | [Fandom](https://baki.fandom.com/wiki/Baki_Wiki) [维基百科](https://zh.wikipedia.org/wiki/刃牙) [萌娘百科](https://zh.moegirl.org.cn/刃牙) |
 | mayonaka no tantei nightwalker | 真夜中的侦探 |  |  |
-| boku no kokoro no yabai yatsu | 我内心的糟糕念头 | ![](https://upload.wikimedia.org/wikipedia/zh/3/3f/我內心的糟糕念頭.jpg) | [维基百科](https://zh.wikipedia.org/wiki/我內心的糟糕念頭) [myanimelist](https://myanimelist.net/manga/112807/Boku_no_Kokoro_no_Yabai_Yatsu) |
+| boku no kokoro no yabai yatsu | 我心里危险的东西 | 《我心里危险的东西》（简称我心危）是由樱井纪雄创作的一部漫画，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/5/53/我心里危险的东西TV动画公式书.jpg) | [维基百科](https://zh.wikipedia.org/wiki/我內心的糟糕念頭) [myanimelist](https://myanimelist.net/manga/112807/Boku_no_Kokoro_no_Yabai_Yatsu)<br>[萌娘百科](https://zh.moegirl.org.cn/我心里危险的东西) |
 | inaka ni kaeru to yakeni natsuita kasshoku ponytail shota ga iru | 单马尾表弟 | 田舎に帰るとやけになついた褐色ポニテショタがいる<br>![](https://cdn.myanimelist.net/images/manga/1/217656.jpg) | [myanimelist](https://myanimelist.net/manga/119337/Inaka_ni_Kaeru_to_Yakeni_Natsuita_Kasshoku_Ponytail_Shota_ga_Iru) |
 | paripi koumei | 派对浪客诸葛孔明 |  | [萌娘百科](https://zh.moegirl.org.cn/派对浪客诸葛孔明) [维基百科](https://zh.wikipedia.org/wiki/派對咖孔明) |
 | sore ga seiyuu | 那就是声优！ |  | [萌娘百科](https://zh.moegirl.org.cn/那就是声优) |
