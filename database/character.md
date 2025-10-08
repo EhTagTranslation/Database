@@ -6814,7 +6814,7 @@ example:
 | kuroka | 黑歌 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p8_master1200.jpg) |  |
 | grayfia lucifuge | 葛瑞菲雅·路基弗古斯 | 所属作品：`highschool dxd`<br><br>![](https://ehgt.org/w/02/016/14353-gshsimds.webp) |  |
 | venelana gremory | 维妮拉娜·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/033/57953-8ytmv6a5.webp) |  |
-| serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/07/04/00/04/129044632_p2_master1200.jpg) |  |
+| serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/035/54226-3b6r7lts.webp) |  |
 | yasaka | 八坂 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/007/41123-brteqd94.webp) |  |
 
 <!--TEMPLATE: 
