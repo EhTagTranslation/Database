@@ -2543,6 +2543,7 @@ example:
 | seijo no maryoku wa bannou desu | 圣女魔力无所不能 | 《圣女魔力无所不能》是日本作家橘由华创作、珠梨やすゆき负责插画的轻小说作品。<br>![](https://img.moegirl.org.cn/common/3/34/Seijyonomaryoku_01.jpg) | [百度百科](https://baike.baidu.com/item/圣女魔力无所不能/53566932) |
 | ore wa subete wo parry suru | 我要“招架”一切 ～反误解的世界最强想成为冒险者～ | ![](https://img.moegirl.org.cn/common/f/f0/反误解1.jpg)<br>《我要【招架】一切 ～反误解的世界最强想成为冒险者～》是由锅敷执笔撰写，カワグチ绘制插画，由EARTH STAR Entertainment出版的小说。 | [萌娘百科](https://zh.moegirl.org.cn/我要【招架】一切_～反误解的世界最强想成为冒险者～) |
 | sinisistar | 哥特少女勇闯恶魔城 |  |  |
+| bridge to terabithia | 仙境之桥 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
