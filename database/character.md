@@ -6808,6 +6808,7 @@ example:
 | ironmouse | 铁鼠 |  |  |
 | shiraori | 白织（蜘蛛子） | 所属作品：`kumo desu ga nani ka`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/13/05/40/29/131494098_p6_master1200.jpg)<br>是翘班中的最上位神D为了瞒过下属的眼睛，将事情合理化而生出来，但意外地成为神的突然变异蜘蛛。 |  |
 | eri shirao | 白尾绘里 | 白尾绘里是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/d/df/BA_Eri_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/白尾绘里) |
+| peter strasser | 彼得·史特拉塞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
