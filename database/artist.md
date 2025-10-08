@@ -14058,6 +14058,7 @@ example:
 | dian dian di di | 点点滴滴 |  |  |
 | kubikiri | 首切り |  |  |
 | onizuka frill | 鬼塚フリル |  |  |
+| bareisho tarou | 马铃薯太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
