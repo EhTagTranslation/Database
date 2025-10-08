@@ -3692,7 +3692,7 @@ example:
 | marin kitagawa | 喜多川海梦 | ![图](https://p.sda1.dev/5/90b6665d7a131deb663ecb63cfa825d9/Kitagawa_Marin_1.png)<br><br>所属作品：`sono bisque doll wa koi o suru`<br>开朗的美少女，没有害怕的东西。<br>金发黑棕色瞳，平时会戴桃红色美瞳。<br>与新菜同为1年5班。对于自己喜欢的东西不会掩饰。 | [萌娘百科](https://zh.moegirl.org.cn/喜多川海梦) |
 | akeno himejima | 姬岛朱乃 | 姬岛朱乃（日语：ひめじま あけの）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://img.moegirl.org.cn/common/2/26/961ac124b899a901a546eaad1d950a7b0308f5e1.png) | [萌娘百科](https://zh.moegirl.org.cn/姬岛朱乃) |
 | asia argento | 爱莎·阿尔杰特 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/05/12/33/33/130057854_p2_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱莎·阿尔杰特) |
-| koneko toujou | 塔城小猫 | 塔城小猫（とうじょう こねこ）是石踏一荣创作的轻小说《恶魔高校》及其衍生作品的登场角色。![图](https://s2.loli.net/2022/01/16/Pk7SDN2IMFW4Lfn.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
+| koneko toujou | 塔城小猫 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/img-master/img/2025/10/04/22/05/00/135876460_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塔城小猫) |
 | rias gremory | 莉雅丝·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/08/20/46/03/132465741_p3_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/莉雅丝·吉蒙里) |
 | amamiya kokoro | 天宫心 | 天宫心 （日语：天宮こころ / あまみや こころAmamiya Kokoro ）是一名从2019年8月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [天宫心 - 萌娘百科](https://zh.moegirl.org.cn/天宫心) |
 | signora | 「女士」罗莎琳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/02/18/00/13/134630132_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>愚人众十一执行官第八席，「女士」。 | [萌娘百科](https://zh.moegirl.org.cn/执行官女士) |
