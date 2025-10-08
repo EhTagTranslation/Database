@@ -4935,7 +4935,7 @@ example:
 | miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
 | riven | 锐雯 | 网络游戏《英雄联盟》登场英雄。 |  |
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
-| xenovia quarta | 洁诺薇亚·夸塔 | 洁诺薇亚·夸塔，女，是日本轻小说《恶魔高校D×D》及其衍生作品中的女主角之一。 | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
+| xenovia quarta | 洁诺薇亚·夸塔 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p5_master1200.jpg) | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 | crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe](https://trails-game.com/character/crow-armbrust/) [萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特) [百度百科](https://baike.baidu.com/item/克洛·安布斯特/62063303) |
 | yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [灰机wiki](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://zh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
 | fine motion | 美妙姿势 | ![](https://moegirl.icu/media/thumb/UPDCH_FineMotion_00.png/580px-UPDCH_FineMotion_00.png)<br>美妙姿势是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为于爱尔兰出生的纯血竞赛马匹ファインモーション（Fine Motion）。 | [萌娘百科](https://moegirl.icu/美妙姿势) |
