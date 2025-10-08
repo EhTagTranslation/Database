@@ -6813,6 +6813,7 @@ example:
 | irina shidou | 紫藤伊莉娜 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/29/03/00/10/135661647_p0_master1200.jpg) |  |
 | kuroka | 黑歌 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p8_master1200.jpg) |  |
 | grayfia lucifuge | 葛瑞菲雅·路基弗古斯 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/07/11/00/11/130137148_p1_master1200.jpg) |  |
+| venelana gremory | 维妮拉娜·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/img-master/img/2025/09/02/08/18/20/134618847_p0_master1200.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
