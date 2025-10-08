@@ -13316,6 +13316,7 @@ example:
 | resoman manga koubou | Resoman漫画工房 |  |  |
 | momofes | 桃祭 |  |  |
 | enbudou | 炎舞堂 |  |  |
+| bavarois-bass | ババロアバス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
