@@ -5468,7 +5468,7 @@ example:
 | hajime | 創 |  |  |
 | hajime-san. | はじめさん。 |  |  |
 | hajin | Hajin |  |  |
-| hakaba yodomu | 墓場淀夢 |  |  |
+| hakaba yodomu | 墓场淀梦 |  |  |
 | hakai taitei | 破坏大帝 |  |  |
 | hakano shinshi | ハカノシンシ |  |  |
 | hakiata | はきあた |  |  |
