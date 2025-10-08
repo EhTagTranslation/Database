@@ -3752,7 +3752,7 @@ example:
 | chiukorone | ちうころね |  |  |
 | chizakiya | ちざき屋 |  |  |
 | chloroplast | くろろぷらすと |  |  |
-| cho-jin hakaba | 超人墓場 |  |  |
+| cho-jin hakaba | 超人墓场 |  |  |
 | choco biscuits | ちょこ★びすけっつ |  |  |
 | choco box | choco BOX |  |  |
 | choco zakura | ちょこざくら |  |  |
