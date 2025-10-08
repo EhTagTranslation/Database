@@ -5331,7 +5331,7 @@ example:
 | haisui no jin | ハイスイノ陣 |  |  |
 | haitokukan | 背德漢 |  |  |
 | hajimari to owari | はじまりとおわり |  |  |
-| hakaba | 墓場 |  |  |
+| hakaba | 墓场 |  |  |
 | hakidame no koganemushi | 掃き溜めのこがねむし |  |  |
 | hakka onsen | ハッカ温泉 |  |  |
 | hakkakyou | 八卦鏡 |  |  |
