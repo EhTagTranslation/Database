@@ -6809,6 +6809,7 @@ example:
 | shiraori | 白织（蜘蛛子） | 所属作品：`kumo desu ga nani ka`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/13/05/40/29/131494098_p6_master1200.jpg)<br>是翘班中的最上位神D为了瞒过下属的眼睛，将事情合理化而生出来，但意外地成为神的突然变异蜘蛛。 |  |
 | eri shirao | 白尾绘里 | 白尾绘里是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/d/df/BA_Eri_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/白尾绘里) |
 | peter strasser | 彼得·史特拉塞 |  |  |
+| jin-woo sung | 程肖宇 | 所属作品：`solo leveling`<br>![](https://img.moegirl.org.cn/common/d/dc/Sung_Jin-woo_main_2.png)<br>曾被称作“人类最弱兵器”，家里有一个妹妹和陷入了嗜睡症的母亲，为了养家糊口，而努力工作。<br>在“双重地下城事件”中，一度陷入濒死，也因此获得了“系统”的力量，从此开始了无限升级之路。 | [百度百科](https://baike.baidu.com/item/程肖宇/24283537) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
