@@ -6816,6 +6816,7 @@ example:
 | venelana gremory | 维妮拉娜·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/033/57953-8ytmv6a5.webp) |  |
 | serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/035/54226-3b6r7lts.webp) |  |
 | yasaka | 八坂 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/007/41123-brteqd94.webp) |  |
+| seiha shiunji | 紫云寺清叶 | 所属作品：`shiunji-ke no kodomotachi`<br>![](https://ehgt.org/w/01/945/08660-uf6nn3re.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
