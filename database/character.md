@@ -6811,6 +6811,7 @@ example:
 | peter strasser | 彼得·史特拉塞 |  |  |
 | jin-woo sung | 程肖宇 | 所属作品：`solo leveling`<br>![](https://img.moegirl.org.cn/common/d/dc/Sung_Jin-woo_main_2.png)<br>曾被称作“人类最弱兵器”，家里有一个妹妹和陷入了嗜睡症的母亲，为了养家糊口，而努力工作。<br>在“双重地下城事件”中，一度陷入濒死，也因此获得了“系统”的力量，从此开始了无限升级之路。 | [百度百科](https://baike.baidu.com/item/程肖宇/24283537) |
 | irina shidou | 紫藤伊莉娜 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/29/03/00/10/135661647_p0_master1200.jpg) |  |
+| kuroka | 黑歌 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p8_master1200.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
