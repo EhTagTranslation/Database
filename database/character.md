@@ -6812,7 +6812,7 @@ example:
 | jin-woo sung | 程肖宇 | 所属作品：`solo leveling`<br>![](https://img.moegirl.org.cn/common/d/dc/Sung_Jin-woo_main_2.png)<br>曾被称作“人类最弱兵器”，家里有一个妹妹和陷入了嗜睡症的母亲，为了养家糊口，而努力工作。<br>在“双重地下城事件”中，一度陷入濒死，也因此获得了“系统”的力量，从此开始了无限升级之路。 | [百度百科](https://baike.baidu.com/item/程肖宇/24283537) |
 | irina shidou | 紫藤伊莉娜 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/29/03/00/10/135661647_p0_master1200.jpg) |  |
 | kuroka | 黑歌 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p8_master1200.jpg) |  |
-| grayfia lucifuge | 葛瑞菲雅·路基弗古斯 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/07/11/00/11/130137148_p1_master1200.jpg) |  |
+| grayfia lucifuge | 葛瑞菲雅·路基弗古斯 | 所属作品：`highschool dxd`<br><br>![](https://ehgt.org/w/02/016/14353-gshsimds.webp) |  |
 | venelana gremory | 维妮拉娜·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/img-master/img/2025/09/02/08/18/20/134618847_p0_master1200.jpg) |  |
 | serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/07/04/00/04/129044632_p2_master1200.jpg) |  |
 
