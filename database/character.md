@@ -6806,6 +6806,7 @@ example:
 | teltina liz wargray avallost | 蒂露缇娜·莉兹·瓦古雷·阿瓦鲁罗斯特 | 所属作品：`sentai red isekai de boukensha ni naru`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/03/29/16/05/45/128727830_p36_master1200.jpg) |  |
 | yihdra arvoln | 伊多拉·阿波罗 | 所属作品：`sentai red isekai de boukensha ni naru`<br>![](https://i.pixiv.cat/img-master/img/2025/01/31/15/59/50/126746281_p0_master1200.jpg) |  |
 | ironmouse | 铁鼠 |  |  |
+| shiraori | 白织（蜘蛛子） | 所属作品：`kumo desu ga nani ka`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/13/05/40/29/131494098_p6_master1200.jpg)<br>是翘班中的最上位神D为了瞒过下属的眼睛，将事情合理化而生出来，但意外地成为神的突然变异蜘蛛。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
