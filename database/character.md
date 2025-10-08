@@ -6815,6 +6815,7 @@ example:
 | grayfia lucifuge | 葛瑞菲雅·路基弗古斯 | 所属作品：`highschool dxd`<br><br>![](https://ehgt.org/w/02/016/14353-gshsimds.webp) |  |
 | venelana gremory | 维妮拉娜·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/img-master/img/2025/09/02/08/18/20/134618847_p0_master1200.jpg) |  |
 | serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/07/04/00/04/129044632_p2_master1200.jpg) |  |
+| yasaka | 八坂 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/007/41123-brteqd94.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
