@@ -6457,7 +6457,7 @@ example:
 | anna respighi | 安娜‧雷斯比奇 |  |  |
 | mylanndah arkar walder | 米兰达‧阿卡‧瓦尔卡 |  |  |
 | lahrri feldnunt | 拉丽·菲尔德南多 |  |  |
-| ravel phoenix | 蕾维儿·菲尼克斯 | 蕾维儿·菲尼克斯，日本轻小说及动漫作品《High School D×D》及其衍生作品中的角色之一 | [百度百科](https://baike.baidu.com/item/蕾维儿·菲尼克斯/22139897) |
+| ravel phoenix | 蕾维儿·菲尼克斯 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/988/01371-jpyew3cr.webp) | [百度百科](https://baike.baidu.com/item/蕾维儿·菲尼克斯/22139897) |
 | bready | 布蕾德 |  | [百度百科](https://baike.baidu.com/item/布蕾德/65574654) |
 | mana | 玛娜 |  | [百度百科](https://baike.baidu.com/item/玛娜/65574471) |
 | plymouth | 普利茅斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/9/92/56jo312o0dpjfh5iuw2bssb0bh60dfn.jpg/525px-普利茅斯立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。 |  |
