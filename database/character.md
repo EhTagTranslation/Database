@@ -523,7 +523,7 @@ example:
 | cleveland | 克利夫兰 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/8cf586b18d416958d7ee62b7ff643a80262400697.png) | [碧蓝航线:克利夫兰](https://zh.moegirl.org.cn/碧蓝航线:克利夫兰) [碧蓝航线:克利夫兰%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:克利夫兰%28μ兵装%29) [战舰少女:克利夫兰](https://zh.moegirl.org.cn/战舰少女:克利夫兰) |
 | honolulu | 火奴鲁鲁 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/1266ea4991b531f0775ac3145006cc1d262400697.png) | [碧蓝航线:火奴鲁鲁](https://zh.moegirl.org.cn/碧蓝航线:火奴鲁鲁)<br>[萌娘百科](https://zh.moegirl.org.cn/舰队Collection:火奴鲁鲁) |
 | z46 | Z46 | 纳粹德国海军1936C型驱逐舰Z46 | [碧蓝航线:Z46](https://zh.moegirl.org.cn/碧蓝航线:Z46) [战舰少女:Z46](https://zh.moegirl.org.cn/战舰少女:Z46) |
-| z23 | Z23 | 德国海军1936A级Z23驱逐舰(German destroyer Z23) | [碧蓝航线:Z23](https://zh.moegirl.org.cn/碧蓝航线:Z23) |
+| z23 | Z23 | 所属作品：`azur lane`<br>德国海军1936A级Z23驱逐舰(German destroyer Z23) | [碧蓝航线:Z23](https://zh.moegirl.org.cn/碧蓝航线:Z23) |
 | tirpitz | 提尔比茨 | 纳粹德国海军的提尔比茨号战列舰（Tirpitz (Schiff, 1941)） | [碧蓝航线:提尔比茨](https://zh.moegirl.org.cn/碧蓝航线:提尔比茨) [战舰少女:提尔比茨](https://zh.moegirl.org.cn/战舰少女:提尔比茨) |
 | duke of york | 约克公爵 | 英国海军的约克公爵号战列舰（HMS Duke of York (17)） | [碧蓝航线:约克公爵](https://zh.moegirl.org.cn/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org.cn/战舰少女:约克公爵) [战舰少女:约克公爵(派趣服)](https://zh.moegirl.org.cn/战舰少女:约克公爵%28派趣服%29) |
 | bache | 贝奇 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/bfd67c077583d06102265df5e38d586a262400697.png) | [碧蓝航线:贝奇](https://zh.moegirl.org.cn/碧蓝航线:贝奇) |
