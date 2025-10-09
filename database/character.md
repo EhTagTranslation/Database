@@ -3887,7 +3887,7 @@ example:
 | caitlyn | 凯特琳 | 皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。 | [百度百科](https://baike.baidu.com/item/皮城女警/7770355) |
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 |  |  |
-| aegir | 埃吉尔 |  |  |
+| aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png) |  |
 | shinano | 信浓 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2022/10/16/00/16/22/101966653_p0_master1200.jpg)<br>游戏《碧蓝航线》中的舰娘。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 |  |  |
 | pamiat merkuria | 水星纪念 |  |  |
