@@ -3146,7 +3146,7 @@ example:
 | miu amano | 天野美雨 | 天野美雨是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 | hideri kanzaki | 神崎日照 | 神崎日照是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
 | claudine saijo | 西条克洛迪娜 | 圣翔音乐学园99期生，演员育成科，学号11号。<br>父亲是日本人、母亲是法国人的混血儿。<br>拥有丰富的才能，多次以儿童演员身份在舞台上出演的舞台少女。<br>但自从入学时与真矢这一散发出强烈光辉的存在相遇以来，就一直视她为对手。<br>Revue武器是骑士剑，武器名：Etincelle de Fierte。<br>梦想是“超越天堂真矢，由我来成为最棒的明星！”<br>![Claudine Saijo profile](https://img.moegirl.org.cn/common/1/12/Claudine_Saijo_profile.png) | [萌娘百科](https://zh.moegirl.org.cn/西条克洛迪娜) [pixiv百科事典](https://dic.pixiv.net/a/西條クロディーヌ) |
-| deutschland | 德意志 | 纳粹德国海军的德意志号重巡洋舰（Deutschland (Schiff, 1931)） | [碧蓝航线:德意志](https://zh.moegirl.org.cn/碧蓝航线:德意志) |
+| deutschland | 德意志 | 所属作品：`azur lane`<br>纳粹德国海军的德意志号重巡洋舰（Deutschland (Schiff, 1931)） | [碧蓝航线:德意志](https://zh.moegirl.org.cn/碧蓝航线:德意志) |
 | admiral graf spee | 斯佩伯爵海军上将 | 纳粹德国海军的斯佩伯爵海军上将号重巡洋舰（Admiral Graf Spee） | [碧蓝航线:斯佩伯爵海军上将](https://zh.moegirl.org.cn/碧蓝航线:斯佩伯爵海军上将) |
 | dunkerque | 敦刻尔克 | 维希法国海军的敦刻尔克号战列巡洋舰（French battleship Dunkerque） | [碧蓝航线:敦刻尔克](https://zh.moegirl.org.cn/碧蓝航线:敦刻尔克) |
 | shirayuki tomoe | 白雪巴 | 白雪巴 （ 日语：白雪巴 / しらゆき ともえShirayuki Tomoe ）是一名从2019年11月30日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/白雪巴) (\*\*) |
