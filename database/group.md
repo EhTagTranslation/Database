@@ -13318,6 +13318,7 @@ example:
 | enbudou | 炎舞堂 |  |  |
 | bavarois-bass | ババロアバス |  |  |
 | rokisonin koubou | ろきそにん工房 |  |  |
+| ryoojuku club | 凌辱俱乐部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
