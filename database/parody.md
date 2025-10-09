@@ -2546,6 +2546,7 @@ example:
 | bridge to terabithia | 仙境之桥 |  |  |
 | hametsu no oukoku | 破灭之国 | 《破灭之国》是由yoruhashi创作的一部漫画，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/9/9c/Hametsu_KV.jpg) | [百度百科](https://baike.baidu.com/item/破灭的王国/62635236)<br>[萌娘百科](https://zh.moegirl.org.cn/破灭之国) |
 | inyouchuu | 淫妖蟲 |  |  |
+| fate samurai remnant | ![](https://p.sda1.dev/24/28e7d04d3de715da88262e1f3cccee3c/image.png) Fate/Samurai Remnant | 《Fate/Samurai Remnant》（简称“FSR”）是一款由光荣特库摩游戏与ANIPLEX协力开发的《Fate系列》动作角色扮演游戏，本作主要玩法是类似于《无双》的动作游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Fate/Samurai_Remnant) [萌娘百科](https://zh.moegirl.org.cn/Fate/Samurai_Remnant) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
