@@ -6825,6 +6825,7 @@ example:
 | teru momijiyama | 红叶山辉 | 所属作品: `p:shy` | [萌娘百科](https://zh.moegirl.org.cn/红叶山辉) |
 | aoi sakamoto | 坂本葵 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/915/63077-mhcuyr6v.webp) |  |
 | bo-ra lee | 李宝拉 | 所属作品：`solo leveling`<br>![](https://ehgt.org/w/01/902/23191-1feq7qmp.webp)<br>A级猎人，汉特斯公会成员，魔法辅助型职业。 |  |
+| ren | 莲 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/8c/44/132840_crt_E3x0H.jpg?r=1688436393) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
