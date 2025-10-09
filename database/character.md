@@ -6779,7 +6779,7 @@ example:
 | syndra | 辛德拉 | 英雄联盟角色——暗黑元首辛德拉 |  |
 | hakuryuu | 白龙 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/2e/cjdxn5b4wqx9w3hiu9ugy4ml5jsyojq.jpg/525px-白龙立绘.jpg)<br>所属作品：碧蓝航线<br>白龙是一名重樱阵营的决战方案级航母舰娘，原型为旧日本未完成的大凤级改良型航母。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白龙) |
 | irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：英雄联盟 |  |
-| sovetskaya belorussiya | 苏维埃贝拉罗斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/a/a9/5kptu5x4ygcoylrqmnxk7ymmkn5xhvk.jpg/525px-苏维埃贝拉罗斯立绘.jpg)<br>所属游戏：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃贝拉罗斯) |
+| sovetskaya belorussiya | 苏维埃贝拉罗斯 | 所属作品: `p:azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/0db283b62c8cc218b05fc50ec3b1aea9262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃贝拉罗斯) |
 | sovetsky soyuz | 苏维埃罗西亚 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/74/f8k3rb74tfg6dsnrfl3frzfydphcxjd.jpg/525px-苏维埃罗西亚立绘.jpg)<br>所属作品：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃罗西亚) |
 | prinz adalbert | 阿达尔伯特亲王 \| 阿德莉娅亲王 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/ba/ccctp5qxtdb63837kcgpe904zi0216e.jpg/525px-阿达尔伯特亲王换装2.jpg)<br>所属作品：碧蓝航线 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿达尔伯特亲王) |
 | latifa | 拉蒂法 | 所属作品: `p:seirei gensouki`<br>![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic04.png) |  |
