@@ -6826,6 +6826,7 @@ example:
 | aoi sakamoto | 坂本葵 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/915/63077-mhcuyr6v.webp) |  |
 | bo-ra lee | 李宝拉 | 所属作品：`solo leveling`<br>![](https://ehgt.org/w/01/902/23191-1feq7qmp.webp)<br>A级猎人，汉特斯公会成员，魔法辅助型职业。 |  |
 | ren | 莲 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/8c/44/132840_crt_E3x0H.jpg?r=1688436393) | [Bangumi](https://bgm.tv/character/132840) |
+| rosanna | 罗珊娜 | ![](https://patchwiki.biligame.com/images/nikke/e/eb/o8uur870fnhrz9jhpa7gf4kbq34tnav.png)<br>《胜利女神：妮姬》中出场角色 | [GameKee](https://www.gamekee.com/nikke/tj/591260.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
