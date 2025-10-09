@@ -400,7 +400,7 @@ example:
 | agano | 阿贺野 | 旧日本海军的阿贺野号巡洋舰(阿賀野(軽巡洋艦)) | [碧蓝航线:阿贺野](https://zh.moegirl.org.cn/碧蓝航线:阿贺野) [舰队Collection:阿贺野](https://zh.moegirl.org.cn/舰队Collection:阿贺野) |
 | noshiro | 能代 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/92f3c7119c5ab3aa54fad946b07214b49653e520.png) | [碧蓝航线:能代](https://zh.moegirl.org.cn/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org.cn/舰队Collection:能代) |
 | yahagi | 矢矧 |  | [舰队Collection:矢矧](https://zh.moegirl.org.cn/舰队Collection:矢矧) |
-| sakawa | 酒匂 |  | [舰队Collection:酒匂](https://zh.moegirl.org.cn/舰队Collection:酒匂) |
+| sakawa | 酒匂(貄) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/32c441d6bdef847dc2c0012bae9bd042262400697.png) | [舰队Collection:酒匂](https://zh.moegirl.org.cn/舰队Collection:酒匂) |
 | musashi | 武藏(鳄) | 所属作品: `p:azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/f3caf7a4ea10749cbbe4299cd16dfe31262400697.png) | [舰队Collection:武藏](https://zh.moegirl.org.cn/舰队Collection:武藏)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/武藏) |
 | taihou | 大凤(鹩) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/5908c38c48bef1f9e3f004a0453dffd2262400697.png) | [碧蓝航线:大凤](https://zh.moegirl.org.cn/碧蓝航线:大凤) [战舰少女:大凤](https://zh.moegirl.org.cn/战舰少女:大凤) [舰队Collection:大凤](https://zh.moegirl.org.cn/舰队Collection:大凤) |
 | katori | 香取 |  | [战舰少女:香取](https://zh.moegirl.org.cn/战舰少女:香取) [舰队Collection:香取](https://zh.moegirl.org.cn/舰队Collection:香取) |
