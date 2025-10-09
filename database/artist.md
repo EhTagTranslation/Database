@@ -14063,6 +14063,7 @@ example:
 | hara kyuuren | 原きゅうれん |  | [X](https://x.com/Hara9Ren) |
 | kourui | 紅涙 |  | [X](https://x.com/scarlettear33) |
 | inushida | いぬしだ |  | [pixiv](https://www.pixiv.net/users/3898011) [X](https://x.com/dogsheepsheep) |
+| tarona | タロ名 |  | [X](https://x.com/taro_tarona) |
 
 <!--TEMPLATE:
 |  |  |  |  |
