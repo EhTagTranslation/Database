@@ -3584,7 +3584,7 @@ example:
 | gorgon | 戈尔贡 | 《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/戈耳工%28Fate%29#) |
 | repulse | 反击 | 原型为英国皇家海军的反击号战列巡洋舰,是声望级战列巡洋舰的2号舰 | [碧蓝航线:反击](https://zh.moegirl.org.cn/碧蓝航线:反击) |
 | north carolina | 北卡罗来纳 | 美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)） | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
-| washington | 华盛顿 | 美国海军北卡罗来纳级战列舰二号舰华盛顿号（USS Washington BB-56） | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
+| washington | 华盛顿 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/5fb3a145299207a3e1e0ba4a856d1e2c262400697.png) | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
 | essex | 埃塞克斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3fae138f36e29e827411760e33ab83f6262400697.png) | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 | albacore | 大青花鱼 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c88a93ddd1a952c663d7747d2591f233262400697.png) | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
