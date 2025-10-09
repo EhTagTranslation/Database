@@ -14065,6 +14065,7 @@ example:
 | inushida | いぬしだ |  | [pixiv](https://www.pixiv.net/users/3898011) [X](https://x.com/dogsheepsheep) |
 | tarona | タロ名 |  | [X](https://x.com/taro_tarona) |
 | yudoufu | 汤豆腐 |  |  |
+| wataya shingu | 棉谷寝具 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
