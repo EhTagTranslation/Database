@@ -520,7 +520,7 @@ example:
 | queen elizabeth | 伊丽莎白女王 | 英国海军的伊丽莎白女王号战列舰（HMS Queen Elizabeth (1913)） | [碧蓝航线:伊丽莎白女王](https://zh.moegirl.org.cn/碧蓝航线:伊丽莎白女王) [战舰少女:伊丽莎白女王](https://zh.moegirl.org.cn/战舰少女:伊丽莎白女王) |
 | victorious | 胜利 | 游戏《碧蓝航线》中的舰娘。<br>同名的英国皇家海军的胜利号装甲航空母舰（HMS Victorious R38） | [碧蓝航线:胜利](https://zh.moegirl.org.cn/碧蓝航线:胜利) |
 | ajax | 阿贾克斯 | 英国海军的阿贾克斯号轻巡洋舰（ HMS Ajax (22)） | [碧蓝航线:阿贾克斯](https://zh.moegirl.org.cn/碧蓝航线:阿贾克斯) [战舰少女:阿贾克斯](https://zh.moegirl.org.cn/战舰少女:阿贾克斯) |
-| cleveland | 克利夫兰 | 美国海军克利夫兰级轻巡洋舰首舰克利夫兰号（USS Cleveland CL-55) | [碧蓝航线:克利夫兰](https://zh.moegirl.org.cn/碧蓝航线:克利夫兰) [碧蓝航线:克利夫兰%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:克利夫兰%28μ兵装%29) [战舰少女:克利夫兰](https://zh.moegirl.org.cn/战舰少女:克利夫兰) |
+| cleveland | 克利夫兰 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/8cf586b18d416958d7ee62b7ff643a80262400697.png) | [碧蓝航线:克利夫兰](https://zh.moegirl.org.cn/碧蓝航线:克利夫兰) [碧蓝航线:克利夫兰%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:克利夫兰%28μ兵装%29) [战舰少女:克利夫兰](https://zh.moegirl.org.cn/战舰少女:克利夫兰) |
 | honolulu | 火奴鲁鲁 | 美国海军布鲁克林级轻巡洋舰七号舰火奴鲁鲁号（USS Honolulu(CL-48)，又译“檀香山号”） | [碧蓝航线:火奴鲁鲁](https://zh.moegirl.org.cn/碧蓝航线:火奴鲁鲁)<br>[萌娘百科](https://zh.moegirl.org.cn/舰队Collection:火奴鲁鲁) |
 | z46 | Z46 | 纳粹德国海军1936C型驱逐舰Z46 | [碧蓝航线:Z46](https://zh.moegirl.org.cn/碧蓝航线:Z46) [战舰少女:Z46](https://zh.moegirl.org.cn/战舰少女:Z46) |
 | z23 | Z23 | 德国海军1936A级Z23驱逐舰(German destroyer Z23) | [碧蓝航线:Z23](https://zh.moegirl.org.cn/碧蓝航线:Z23) |
