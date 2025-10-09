@@ -14068,6 +14068,7 @@ example:
 | wataya shingu | 棉谷寝具 |  |  |
 | akajiro | 红城 |  |  |
 | furuyama tsukuru | 古山造 |  |  |
+| oruka | 織夏 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
