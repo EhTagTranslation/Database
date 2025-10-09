@@ -6609,7 +6609,7 @@ example:
 | mahiru hiragi | 柊真昼 | 柊真昼是日本轻小说《终结的炽天使：一濑红莲，破灭的16岁》的女主角，柊家的长女及下任候补当家，柊筱娅的亲姐姐，一濑红莲的恋人。 |  |
 | silvervale | 樱花狼灵 | 活跃于游戏与 VTuber 领域的创作者，以游戏体验分享、个人日常及互动直播为主要内容，特色在于融合樱花狼灵角色设定的趣味性表达。 |  |
 | lu shaotang | 陆少糖 | 陆少糖，漫画《坂本日常》及其衍生作品中的角色。坂本商店的成员。双亲被敌对组织杀害后被坂本太郎救出，有着过人的拳法。 |  |
-| boise | 博伊西（树城） | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/7bda99ed1903ba2ce56fc7da970e53d7262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:博伊西) |
+| boise | 博伊西（树城） | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/2b965597a75bf0791c618baec63a535d262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:博伊西) |
 | sussex | 苏塞克斯 | ![](https://p.sda1.dev/26/9cb77a47914681a8c213d42fcb78ab8c/image.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国皇家海军苏塞克斯号重巡洋舰（HMS Sussex(96)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏塞克斯) |
 | angelica rapha redgrave | 安洁莉卡·拉法·雷德格里夫 | 轻小说《乙女游戏的世界对路人角色很不友好》及其衍生作品中的角色。![](https://img.moegirl.org.cn/common/thumb/6/60/乙女游戏世界对路人角色很不友好_漫画2.jpg/150px-乙女游戏世界对路人角色很不友好_漫画2.jpg) |  |
 | nonoa miyamae | 宫前乃乃亚 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>谷山沙也加的儿时玩伴。 |  |
