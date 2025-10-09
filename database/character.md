@@ -6822,6 +6822,7 @@ example:
 | uri-tan | 小瓜(瓜仔) | 所属作品: `p:etotama`<br><br>代表野猪的干支神。干支神中的吉祥物般的存在，是干支神们的妹妹。 | [萌娘百科](https://zh.moegirl.org.cn/小瓜) [Fandom](https://etotama.fandom.com/wiki/Uri-tan) |
 | nukota natsuna | 猫田なつな | 活跃于YouTube的个人虚拟YouTuber。职业电竞战队“HAO”的主播部门成员。 | [X](https://x.com/Nukota_Natsuna) [YouTube](https://www.youtube.com/@NukotaNatsuna/featured) [pixiv](https://dic.pixiv.net/a/猫田なつな) |
 | kimidori mero | 키미도리\_메로 | 黄緑メロ<br><br>韩语VTuber | [X](https://x.com/mero_kimidori) |
+| teru momijiyama | 红叶山辉 | 所属作品: `p:shy` | [萌娘百科](https://zh.moegirl.org.cn/红叶山辉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
