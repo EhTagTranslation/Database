@@ -3892,7 +3892,7 @@ example:
 | foxhound | 狐提 |  |  |
 | pamiat merkuria | 水星纪念 |  |  |
 | nurnberg | 纽伦堡 |  |  |
-| nicholas | 尼古拉斯 |  |  |
+| nicholas | 尼古拉斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/1436698608c6259ff24b50b49db303cc262400697.png) |  |
 | icarus | 伊卡洛斯 |  |  |
 | palutena | 帕露蒂娜 |  |  |
 | pit | 皮特 |  |  |
