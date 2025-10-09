@@ -1095,7 +1095,7 @@ example:
 | miyabi | 雅绯 | ![](https://ehgt.org/1b/a0/1ba05af02c838b1b33b1ecf598c29dcb00baf9f6-69389-288-360-jpg_l.jpg) |  |
 | motochika | 元亲 | ![](https://ehgt.org/b3/b3/b3b3ad79695ca5621fbeebf02d13cd087e7fc965-48961-320-400-jpg_l.jpg) |  |
 | muramasa | 村正 | ![](https://ehgt.org/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |  |
-| murasaki | 紫 | ![](https://ehgt.org/df/d9/dfd9507d79544bdfb8cb85e8ce1f5adacf5f0d6f-118976-206-257-png_l.jpg) |  |
+| murasaki | 紫 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/2f7551cbf54bb7d69a3fe1cb1dafb03d298252208.png) |  |
 | naraku | 奈乐 | ![奈乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
 | ryoubi | 两备 | ![](https://ehgt.org/d2/c8/d2c8369d149a62f4baae520d64d36ff477ee99d8-300438-386-480-png_l.jpg) |  |
 | ryouna | 两奈 | ![](https://ehgt.org/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |  |
