@@ -13320,6 +13320,7 @@ example:
 | rokisonin koubou | ろきそにん工房 |  |  |
 | ryoojuku club | 凌辱俱乐部 |  |  |
 | sansendengaku | 山川田楽 |  |  |
+| mendako suizokukan | めんだこ水族館 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
