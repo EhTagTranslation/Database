@@ -2552,6 +2552,7 @@ example:
 | night wizard | 暗夜魔法使 | 《暗夜魔法使》（日语：ナイトウィザード，英语：Night Wizard!），是2002年由Enterbrain出版的桌上角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/wiki/暗夜魔法使) |
 | 16bit sensation | 16bit的感动 |  | [维基百科](https://zh.wikipedia.org/wiki/16bit的感動) [萌娘百科](https://zh.moegirl.org.cn/16bit的感动) |
 | shy | SHY腼腆英雄 |  | [萌娘百科](https://zh.moegirl.org.cn/SHY) [维基百科](https://zh.wikipedia.org/wiki/SHY_%28漫畫%29) |
+| saikyou no shienshoku wajutsushi de aru ore wa sekai saikyou clan wo shitagaeru | 最狂辅助职业【话术士】世界最强战团听我号令 | 《最狂辅助职业【话术士】世界最强战团听我号令》是由じゃき创作的一部轻小说，并有漫画、动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/b/b9/话术士1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/最狂辅助职业【话术士】世界最强战团听我号令) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
