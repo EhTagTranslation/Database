@@ -546,7 +546,7 @@ example:
 | el condor pasa | 神鹰 |  | [赛马娘:神鹰](https://zh.moegirl.org.cn/神鹰) [战舰少女:神鹰](https://zh.moegirl.org.cn/战舰少女:神鹰) [舰队Collection:神鹰](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
 | perth | 珀斯 |  | [舰队Collection:珀斯](https://zh.moegirl.org.cn/舰队Collection:珀斯) |
 | renown | 声望 | 英国海军的声望号战列巡洋舰（ HMS Renown (1916)） | [碧蓝航线:声望](https://zh.moegirl.org.cn/碧蓝航线:声望) [战舰少女:声望](https://zh.moegirl.org.cn/战舰少女:声望) |
-| chang chun | 长春 | 中国人民解放军海军103长春号驱逐舰 | [碧蓝航线:长春](https://zh.moegirl.org.cn/碧蓝航线:长春) |
+| chang chun | 长春 | 所属作品：`azur lane`<br>中国人民解放军海军103长春号驱逐舰 | [碧蓝航线:长春](https://zh.moegirl.org.cn/碧蓝航线:长春) |
 | gotland | 哥特兰 |  | [战舰少女:哥特兰](https://zh.moegirl.org.cn/战舰少女:哥特兰) [舰队Collection:哥特兰](https://zh.moegirl.org.cn/舰队Collection:哥特兰) |
 | grecale | 东北风 |  | [舰队Collection:东北风](https://zh.moegirl.org.cn/舰队Collection:东北风) |
 | bremerton | 布莱默顿 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/018a8fc0740e888789a051ee0dcf0f29262400697.png) | [碧蓝航线:布莱默顿](https://zh.moegirl.org.cn/碧蓝航线:布莱默顿) |
