@@ -5693,7 +5693,7 @@ example:
 | yusei fudo | 不动游星 | 动画/漫画《游戏王5D's》及其衍生作品的登场角色。<br><br>头脑聪明，看起来是一位很冷酷的人，其实是一位关心朋友、内心热情的青年，为出场“World·Riding-Duel· Grand Prix”（世界骑乘决斗大奖赛）用自己的手巧妙地组装出了一台“D /轮”（摩托车）。在手臂上有着龙头样式原为龙尾样式的龙印。<br><br>看重朋友们的友情，在后期嘴炮里经常会出现“绊”（きずな）/“羁绊”（きはん）来表达感情，于是得名“绊厨”。<br><br>OP中和俺の嫁黑蔷薇魔女十六夜秋同框的场景，配合歌词和剧情，使得两人的配对CP呼声是游戏王系列的BG向CP中呼声最高的ED5画面里和秋姐的一幕差点变成官方发糖，可惜大结局还是走了牛尾线。 | [萌娘百科](https://zh.moegirl.org.cn/不动游星) |
 | tsubasa kazanari | 风鸣翼 | 风鸣翼是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/风鸣翼) |
 | elon musk | 埃隆·马斯克 |  | [Wikipedia](https://zh.wikipedia.org/wiki/埃隆·马斯克) |
-| kearsarge | 奇尔沙治 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/456ae70c0a92205efaa0962166fa3fbe298252208.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:奇尔沙治) |
+| kearsarge | 奇尔沙治 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b1af5b18cb7ce2bb0988069af725efdb262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:奇尔沙治) |
 | feixiao | 飞霄 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/79/0vez7r8jr0vperakdhxgc1uxw0qh5wk.png/1050px-飞霄立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/飞霄) |
 | caesar king | 凯撒·金 | 凯撒·金是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/da/75/da75aaf11b56fa105ad25ac6b2d677f66400891e-3732931-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯撒·金) |
 | burnice white | 柏妮思·怀特 | 柏妮思·怀特是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/16/bf/16bfbb552bc0075d4ae709c981f3b42cd5fc1e79-3383435-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/柏妮思·怀特) |
