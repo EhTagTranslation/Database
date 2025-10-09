@@ -6502,7 +6502,7 @@ example:
 | kaudenya lab | 高電壓Lab |  |  |
 | kawaisouko | 可哀想子 |  |  |
 | kawaisounako | かわいそうな子 |  |  |
-| kawanakashima kobo | 川中島工房 |  |  |
+| kawanakashima kobo | 川中岛工房 |  |  |
 | kawasaki jian | 川崎事案 |  |  |
 | kawasemi | 翡翠 |  |  |
 | kawauso no hokanko cg | kawauso no hokanko CG |  |  |
