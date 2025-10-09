@@ -4960,7 +4960,7 @@ example:
 | illumi zoldyck | 伊路米·揍敌客 | 伊路米·揍敌客（日语：イルミ·ゾルディック）是由富坚义博所创作的漫画《全职猎人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊路米·揍敌客) |
 | charybdis | 卡律布狄斯 |  |  |
 | elbe | 易北 |  |  |
-| anchorage | 安克雷奇 |  |  |
+| anchorage | 安克雷奇 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3e2c7c659b36d82915b7220c3d99c529262400697.png) |  |
 | jade | 翡翠（慈玉女士） | ![](https://patchwiki.biligame.com/images/sr/thumb/d/db/hzxqo1nhxb0on8ntmv58gshidxpue61.png/1050px-翡翠立绘.png)<br>所属作品：`honkai star rail`<br>星际和平公司「战略投资部」的高级干部，「石心十人」之一，基石为「典贷翡翠」。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/翡翠) |
 | scylla | 斯库拉 | 斯库拉（Scylla，シラ，스킬라）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型是英国海军的英雄号驱逐舰（HMS\_Scylla\_(98)）。<br><br>![](https://img.moegirl.org.cn/common/thumb/0/06/BLHX_105957369.png/800px-BLHX_105957369.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:斯库拉) |
 | algerie | 阿尔及利亚 |  |  |
