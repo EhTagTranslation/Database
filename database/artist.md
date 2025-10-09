@@ -14067,6 +14067,7 @@ example:
 | yudoufu | 汤豆腐 |  |  |
 | wataya shingu | 棉谷寝具 |  |  |
 | akajiro | 红城 |  |  |
+| furuyama tsukuru | 古山造 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
