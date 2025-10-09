@@ -2550,6 +2550,7 @@ example:
 | etotama | 干支魂 | 《干支魂》（日语：えとたま）是由Tablier通信、ENCOURAGE FILMS和白组共同制作的电视动画，于2015年4月播出。同名漫画由冰野广真作画，在《月刊Comic电击大王》上连载。<br><br>在每60年就会举办一次“干支神选拔祭（ETM12）”，选出代表十二生肖的“干支神”，而最新一届选拔会将在日本秋叶原举行。在这之中，想成为干支神的猫属干支娘小喵也参与选拔，并因此不请自来地寄住到拥有极佳萌力的天户岳家白吃白喝。由此，小喵与一众干支神的日常战斗生活就此展开！ | [维基百科](https://zh.wikipedia.org/wiki/干支魂) [萌娘百科](https://zh.moegirl.org.cn/干支魂) |
 | idolish7 | IDOLiSH7 | 《偶像星愿》（日语：アイドリッシュセブン，英语：IDOLiSH7）是万代南梦宫制作的女性向音乐类手机游戏，角色原案由种村有菜担任，歌曲制作由Lantis担任，是一个集小说、漫画、游戏、音乐、动画为一体的多平台大型企划。<br><br>IDOLiSH7是由七位背景各不相同的少年组成的团体，主要角色为主唱七濑陆。七濑陆为了找寻哥哥的真相而成为偶像，其余六位成员也各有着想成为偶像的原因与苦衷。随着IDOLiSH7的成长，七位少年共同经历了各种阻碍，而产生了坚强的羁绊。 | [维基百科](https://zh.wikipedia.org/wiki/IDOLiSH7) [萌娘百科](https://zh.moegirl.org.cn/IDOLiSH7) |
 | night wizard | 暗夜魔法使 | 《暗夜魔法使》（日语：ナイトウィザード，英语：Night Wizard!），是2002年由Enterbrain出版的桌上角色扮演游戏。 | [维基百科](https://zh.wikipedia.org/wiki/暗夜魔法使) |
+| 16bit sensation | 16bit的感动 |  | [维基百科](https://zh.wikipedia.org/wiki/16bit的感動) [萌娘百科](https://zh.moegirl.org.cn/16bit的感动) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
