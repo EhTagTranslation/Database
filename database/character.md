@@ -3587,7 +3587,7 @@ example:
 | washington | 华盛顿 | 美国海军北卡罗来纳级战列舰二号舰华盛顿号（USS Washington BB-56） | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
 | essex | 埃塞克斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3fae138f36e29e827411760e33ab83f6262400697.png) | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 美国海军波特兰级重巡洋舰二号舰印第安纳波利斯号（USS Indianapolis (CA-35)） | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
-| albacore | 大青花鱼 | 美国海军猫鲨级潜艇大青花鱼号（USS Albacore (SS-218)） | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
+| albacore | 大青花鱼 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c88a93ddd1a952c663d7747d2591f233262400697.png) | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
 | new jersey | 新泽西 | 所属作品: `p:azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3fc5836ba42d37b9870ecfba6317e662262400697.png) | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
 | jean bart | 让·巴尔 | 法国海军黎塞留级战列舰2号舰让·巴尔号战列舰 | [碧蓝航线:让·巴尔](https://zh.moegirl.org.cn/碧蓝航线:让·巴尔) |
 | kokomi sangonomiya | 珊瑚宫心海 | ![](https://patchwiki.biligame.com/images/ys/f/ff/ta826fezuettywytichxu0hslvzvyxy.gif)<br>所属作品:`p:genshin impact`<br>海衹岛的「现人神巫女」，统管海祇岛各项事宜的少女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=467821) |
