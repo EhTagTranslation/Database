@@ -3641,7 +3641,7 @@ example:
 | mia taylor | 米娅·泰勒 |  |  |
 | kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
 | sakura yae | 八重樱 | 八重樱是mihoyo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生IP作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cb/八重樱.png)<br>![](https://img.moegirl.org.cn/common/3/39/60211.png) | [萌娘百科](https://zh.moegirl.org.cn/八重樱%28崩坏系列%29) |
-| hornet | 大黄蜂 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/cc75c70f4200f8fe89109fccaaf58aa4262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大黄蜂) |
+| hornet | 大黄蜂 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/e791deb2a92f7e975133da7576954fd8262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大黄蜂) |
 | sara kujou | 九条裟罗 | ![](https://patchwiki.biligame.com/images/ys/b/bd/t4dh4adedxo0kdyks3jg5ihli0wqkw4.gif)<br>所属作品:`p:genshin impact`<br>「天领奉行」的大将，杀伐果断，骁勇善战。 | [萌娘百科](https://zh.moegirl.org.cn/九条裟罗) |
 | smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《`p:uma musume pretty derby`》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/醒目飞鹰) |
 | asuna ichinose | 一之濑明日奈 | 所属作品：`p:blue archive`<br>千年科学学园所属，秘密组织「C&C」的特务。<br>代号为「Zero One」,是透过卓越且如同动物般的感觉与直觉度过无数难关的老手。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/829/94828/2021/10/4/250501.png)<br>![](https://img.moegirl.org.cn/common/b/b9/BA_Asuna_Bunny.png) | [Fandom](https://bluearchive.fandom.com/wiki/Ichinose_Asuna)<br>[萌娘百科](https://zh.moegirl.org.cn/一之濑明日奈) |
