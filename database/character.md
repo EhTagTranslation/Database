@@ -528,7 +528,7 @@ example:
 | duke of york | 约克公爵 | 英国海军的约克公爵号战列舰（HMS Duke of York (17)） | [碧蓝航线:约克公爵](https://zh.moegirl.org.cn/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org.cn/战舰少女:约克公爵) [战舰少女:约克公爵(派趣服)](https://zh.moegirl.org.cn/战舰少女:约克公爵%28派趣服%29) |
 | bache | 贝奇 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/bfd67c077583d06102265df5e38d586a262400697.png) | [碧蓝航线:贝奇](https://zh.moegirl.org.cn/碧蓝航线:贝奇) |
 | sirius | 天狼星 | 英国海军的天狼星号轻巡洋舰（HMS Sirius (82)） | [碧蓝航线:天狼星](https://zh.moegirl.org.cn/碧蓝航线:天狼星) [战舰少女:天狼星](https://zh.moegirl.org.cn/战舰少女:天狼星) |
-| sims | 西姆斯 | 美国海军西姆斯级驱逐舰首舰西姆斯(USS Sims(DD-409)) | [碧蓝航线:西姆斯](https://zh.moegirl.org.cn/碧蓝航线:西姆斯) |
+| sims | 西姆斯 | 所属作品：`azur lane`<br>美国海军西姆斯级驱逐舰首舰西姆斯(USS Sims(DD-409)) | [碧蓝航线:西姆斯](https://zh.moegirl.org.cn/碧蓝航线:西姆斯) |
 | colorado | 科罗拉多 | 美国海军科罗拉多级战列舰首舰科罗拉多号（USS Colorado BB-45） | [碧蓝航线:科罗拉多](https://zh.moegirl.org.cn/碧蓝航线:科罗拉多) [战舰少女:科罗拉多](https://zh.moegirl.org.cn/战舰少女:科罗拉多) [舰队Collection:科罗拉多](https://zh.moegirl.org.cn/舰队Collection:科罗拉多) |
 | kuubo seiki | 空母栖姬 |  | [舰队Collection:空母栖姬](https://zh.moegirl.org.cn/舰队Collection:空母栖姬) |
 | kuubo suiki | 空母水鬼 |  | [舰队Collection:空母水鬼](https://zh.moegirl.org.cn/舰队Collection:空母水鬼) |
