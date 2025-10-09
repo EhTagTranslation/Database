@@ -14066,6 +14066,7 @@ example:
 | tarona | タロ名 |  | [X](https://x.com/taro_tarona) |
 | yudoufu | 汤豆腐 |  |  |
 | wataya shingu | 棉谷寝具 |  |  |
+| akajiro | 红城 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
