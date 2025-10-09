@@ -6460,7 +6460,7 @@ example:
 | ravel phoenix | 蕾维儿·菲尼克斯 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/988/01371-jpyew3cr.webp) | [百度百科](https://baike.baidu.com/item/蕾维儿·菲尼克斯/22139897) |
 | bready | 布蕾德 |  | [百度百科](https://baike.baidu.com/item/布蕾德/65574654) |
 | mana | 玛娜 |  | [百度百科](https://baike.baidu.com/item/玛娜/65574471) |
-| plymouth | 普利茅斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/9/92/56jo312o0dpjfh5iuw2bssb0bh60dfn.jpg/525px-普利茅斯立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。 |  |
+| plymouth | 普利茅斯 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/92/56jo312o0dpjfh5iuw2bssb0bh60dfn.jpg/525px-普利茅斯立绘.jpg) |  |
 | mitsuki hoshikawa | 星川未月 | 所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
 | yat sen | 逸仙 |  |  |
 | phainon | 白厄 | 白厄是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/白厄) |
