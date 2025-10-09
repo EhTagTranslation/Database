@@ -398,7 +398,7 @@ example:
 | makigumo | 卷云 |  | [舰队Collection:卷云](https://zh.moegirl.org.cn/舰队Collection:卷云) |
 | naganami | 长波 | 旧日本帝国海军的夕云级驱逐舰四号舰“长波” | [碧蓝航线:长波](https://zh.moegirl.org.cn/碧蓝航线:长波) [舰队Collection:长波](https://zh.moegirl.org.cn/舰队Collection:长波) |
 | agano | 阿贺野 | 旧日本海军的阿贺野号巡洋舰(阿賀野(軽巡洋艦)) | [碧蓝航线:阿贺野](https://zh.moegirl.org.cn/碧蓝航线:阿贺野) [舰队Collection:阿贺野](https://zh.moegirl.org.cn/舰队Collection:阿贺野) |
-| noshiro | 能代 | 旧日本海军的能代号巡洋舰 | [碧蓝航线:能代](https://zh.moegirl.org.cn/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org.cn/舰队Collection:能代) |
+| noshiro | 能代 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/92f3c7119c5ab3aa54fad946b07214b49653e520.png) | [碧蓝航线:能代](https://zh.moegirl.org.cn/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org.cn/舰队Collection:能代) |
 | yahagi | 矢矧 |  | [舰队Collection:矢矧](https://zh.moegirl.org.cn/舰队Collection:矢矧) |
 | sakawa | 酒匂 |  | [舰队Collection:酒匂](https://zh.moegirl.org.cn/舰队Collection:酒匂) |
 | musashi | 武藏 \| 鳄 | ![](https://patchwiki.biligame.com/images/blhx/thumb/f/f6/0wfabudfnxluzwf6pmsdyo0c3quhftl.jpg/525px-武藏立绘.jpg)<br>所属作品: `p:azur lane` | [舰队Collection:武藏](https://zh.moegirl.org.cn/舰队Collection:武藏)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/武藏) |
