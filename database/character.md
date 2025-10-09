@@ -1076,7 +1076,7 @@ example:
 | hijikata | 土方 | ![](https://ehgt.org/6c/2a/6c2a825a6a8ea0ef220a5a431744ebc23d8929f9-42376-384-480-jpg_l.jpg) |  |
 | hikage | 日影 | ![](https://ehgt.org/0e/3c/0e3c32241d65763b66cbd5e41c665baf9095376b-79377-384-480-jpg_l.jpg) |  |
 | homura | 焰 | ![](https://ehgt.org/28/d5/28d5279b5c6ec952dde755d8abdb46d317ca9e96-60354-384-480-jpg_l.jpg) |  |
-| ikaruga | 斑鸠 | ![](https://ehgt.org/93/76/937690e17e67d583042a5ea2b5fc6b305f7192f3-40975-384-480-jpg_l.jpg) |  |
+| ikaruga | 斑鸠 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/ad836c1fa98ec34b97d906be7a4a09f2298252208.png) |  |
 | imu | 忌梦 | ![](https://ehgt.org/ce/ee/ceee8146a7dcc1313693208bd4cb1b08e9e9de59-39949-384-480-jpg_l.jpg) |  |
 | josui | 如水 | ![](https://ehgt.org/87/de/87deb92ec41935af054b86509c27f7cd95a48b2b-46099-384-480-jpg_l.jpg) |  |
 | kaede | 枫 | ![](https://ehgt.org/c9/a5/c9a5392c447c50c4bc2c137168e797538c8deb5c-45265-380-479-jpg_l.jpg) |  |
