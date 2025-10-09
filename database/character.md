@@ -4537,7 +4537,7 @@ example:
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
 | tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
-| maryland | 马里兰 |  | [https://zh.kcwiki.cn/wiki/马里兰](https://zh.kcwiki.cn/wiki/马里兰) |
+| maryland | 马里兰 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/8b608b4d911c13244aab8639967c54d3262400697.png) | [https://zh.kcwiki.cn/wiki/马里兰](https://zh.kcwiki.cn/wiki/马里兰) |
 | shinyou | 神鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
 | yawata maru | 八幡丸 \| 云鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:八幡丸) |
 | kishinami | 岸波 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:岸波) |
