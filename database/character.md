@@ -3580,7 +3580,7 @@ example:
 | gendo ikari | 碇源堂 | 《新世纪福音战士》中的角色 |  |
 | kensou sie | 椎拳崇 |  |  |
 | andy bogard | 安迪·博加德 |  |  |
-| azuma | 吾妻(猉) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3f17c64b0b1f6ec50b3a4d84e018011f262400697.png) | [碧蓝航线:吾妻](https://zh.moegirl.org.cn/碧蓝航线:吾妻) |
+| azuma | 吾妻(猉) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/ea6ec3d0e0fc18323dd477e1c5887fed262400697.png) | [碧蓝航线:吾妻](https://zh.moegirl.org.cn/碧蓝航线:吾妻) |
 | gorgon | 戈尔贡 | 《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/戈耳工%28Fate%29#) |
 | repulse | 反击 | 原型为英国皇家海军的反击号战列巡洋舰,是声望级战列巡洋舰的2号舰 | [碧蓝航线:反击](https://zh.moegirl.org.cn/碧蓝航线:反击) |
 | north carolina | 北卡罗来纳 | 美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)） | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
