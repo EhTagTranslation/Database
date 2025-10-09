@@ -2547,6 +2547,7 @@ example:
 | hametsu no oukoku | 破灭之国 | 《破灭之国》是由yoruhashi创作的一部漫画，并有动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/9/9c/Hametsu_KV.jpg) | [百度百科](https://baike.baidu.com/item/破灭的王国/62635236)<br>[萌娘百科](https://zh.moegirl.org.cn/破灭之国) |
 | inyouchuu | 淫妖蟲 |  |  |
 | fate samurai remnant | ![](https://p.sda1.dev/24/28e7d04d3de715da88262e1f3cccee3c/image.png) Fate/Samurai Remnant | 《Fate/Samurai Remnant》（简称“FSR”）是一款由光荣特库摩游戏与ANIPLEX协力开发的《Fate系列》动作角色扮演游戏，本作主要玩法是类似于《无双》的动作游戏。 | [维基百科](https://zh.wikipedia.org/wiki/Fate/Samurai_Remnant) [萌娘百科](https://zh.moegirl.org.cn/Fate/Samurai_Remnant) |
+| etotama | 干支魂 | 《干支魂》（日语：えとたま）是由Tablier通信、ENCOURAGE FILMS和白组共同制作的电视动画，于2015年4月播出。同名漫画由冰野广真作画，在《月刊Comic电击大王》上连载。<br><br>在每60年就会举办一次“干支神选拔祭（ETM12）”，选出代表十二生肖的“干支神”，而最新一届选拔会将在日本秋叶原举行。在这之中，想成为干支神的猫属干支娘小喵也参与选拔，并因此不请自来地寄住到拥有极佳萌力的天户岳家白吃白喝。由此，小喵与一众干支神的日常战斗生活就此展开！ | [维基百科](https://zh.wikipedia.org/wiki/干支魂) [萌娘百科](https://zh.moegirl.org.cn/干支魂) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
