@@ -9476,7 +9476,7 @@ example:
 | rin | rin |  |  |
 | rindoh | 竜瞳 |  |  |
 | rindou akira | りんどうあきら |  |  |
-| ringo | りんご |  |  |
+| ringo | 林檎 |  |  |
 | ringo amee | 林檎あめぇ |  |  |
 | ringo anu | りんごあぬ |  |  |
 | ringo no kisetsu. | りんごの季節。 |  |  |
