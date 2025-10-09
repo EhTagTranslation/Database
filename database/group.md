@@ -13319,6 +13319,7 @@ example:
 | bavarois-bass | ババロアバス |  |  |
 | rokisonin koubou | ろきそにん工房 |  |  |
 | ryoojuku club | 凌辱俱乐部 |  |  |
+| sansendengaku | 山川田楽 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
