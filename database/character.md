@@ -3888,7 +3888,7 @@ example:
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/504a1bd65673f2b3ef34fd97fa54af15262400697.png) |  |
 | aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png) |  |
-| shinano | 信浓 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2022/10/16/00/16/22/101966653_p0_master1200.jpg)<br>游戏《碧蓝航线》中的舰娘。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
+| shinano | 信浓(鵗) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 |  |  |
 | pamiat merkuria | 水星纪念 |  |  |
 | nurnberg | 纽伦堡 |  |  |
