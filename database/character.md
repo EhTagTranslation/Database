@@ -456,7 +456,7 @@ example:
 | oyashio | 亲潮 | 旧日本帝国海军的亲潮号驱逐舰（親潮(駆逐艦)） | [碧蓝航线:亲潮](https://zh.moegirl.org.cn/碧蓝航线:亲潮) [舰队Collection:亲潮](https://zh.moegirl.org.cn/舰队Collection:亲潮) |
 | yamakaze | 山风 |  | [舰队Collection:山风](https://zh.moegirl.org.cn/舰队Collection:山风) |
 | umikaze | 海风 |  | [舰队Collection:海风](https://zh.moegirl.org.cn/舰队Collection:海风) |
-| kawakaze | 江风 | 旧日本帝国海军的白露级驱逐舰9号舰（改白露级驱逐舰3号舰）“江风”（江風(駆逐艦)） | [碧蓝航线:江风](https://zh.moegirl.org.cn/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org.cn/舰队Collection:江风) |
+| kawakaze | 江风 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/caf7a3b2f84badad9a14abfd9aa37e6e262400697.png) | [碧蓝航线:江风](https://zh.moegirl.org.cn/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org.cn/舰队Collection:江风) |
 | hayasui | 速吸 |  | [舰队Collection:速吸](https://zh.moegirl.org.cn/舰队Collection:速吸) |
 | kashima | 鹿岛 |  | [舰队Collection:鹿岛](https://zh.moegirl.org.cn/舰队Collection:鹿岛) |
 | kamikaze | 神风 | 旧日本帝国海军的神风号驱逐舰（神風(2代神風型駆逐艦)） | [碧蓝航线:神风](https://zh.moegirl.org.cn/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org.cn/舰队Collection:神风) |
