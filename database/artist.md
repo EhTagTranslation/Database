@@ -14069,6 +14069,7 @@ example:
 | akajiro | 红城 |  |  |
 | furuyama tsukuru | 古山造 |  |  |
 | oruka | 織夏 |  |  |
+| gusari | ぐさり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
