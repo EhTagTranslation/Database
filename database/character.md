@@ -419,7 +419,7 @@ example:
 | akashi | 明石 | 旧日本帝国海军的明石号维修舰（明石(工作艦)） | [碧蓝航线:明石](https://zh.moegirl.org.cn/碧蓝航线:明石) [舰队Collection:明石](https://zh.moegirl.org.cn/舰队Collection:明石) |
 | ooyodo | 大淀 |  | [战舰少女:大淀](https://zh.moegirl.org.cn/战舰少女:大淀) [舰队Collection:大淀](https://zh.moegirl.org.cn/舰队Collection:大淀) |
 | taigei | 大鲸 |  | [舰队Collection:大鲸](https://zh.moegirl.org.cn/舰队Collection:大鲸) |
-| ryuuhou | 龙凤 | 旧日本帝国海军的龙凤号航空母舰（龙凤 (空母)）） | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
+| ryuuhou | 龙凤 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/d36f9db52c961d5cff7e9c0c76aa4241262400697.png) | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
 | amagi | 天城 \| 鳐 | ①所属作品：`azur lane`<br>原型为日本帝国海军的天城级巡洋战列舰1号舰天城号（ 天城号）<br>![](https://img.moegirl.org.cn/common/e/ec/BLHX_78564311_p0.jpg)<br>②轻小说《我是星际国家的恶德领主！》及其衍生动画中的核心角色，黎恩专属的AI女仆机器人<br>![](https://img.moegirl.org.cn/common/e/e3/天城.png) | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
