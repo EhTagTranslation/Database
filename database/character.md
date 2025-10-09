@@ -432,7 +432,7 @@ example:
 | nowaki | 野分 | 旧日本帝国海军的阳炎级驱逐舰十五号舰“野分”（野分(陽炎型駆逐艦)） | [碧蓝航线:野分](https://zh.moegirl.org.cn/碧蓝航线:野分) [舰队Collection:野分](https://zh.moegirl.org.cn/舰队Collection:野分) |
 | akizuki | 秋月 |  | [战舰少女:秋月](https://zh.moegirl.org.cn/战舰少女:秋月) [舰队Collection:秋月](https://zh.moegirl.org.cn/舰队Collection:秋月) |
 | teruzuki | 照月 |  | [舰队Collection:照月](https://zh.moegirl.org.cn/舰队Collection:照月) |
-| hatsuzuki | 初月 |  | [战舰少女:初月](https://zh.moegirl.org.cn/战舰少女:初月) [舰队Collection:初月](https://zh.moegirl.org.cn/舰队Collection:初月) |
+| hatsuzuki | 初月(檚) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c8f6c7f4201afacab45051f1a4cfda3c262400697.png) | [战舰少女:初月](https://zh.moegirl.org.cn/战舰少女:初月) [舰队Collection:初月](https://zh.moegirl.org.cn/舰队Collection:初月) |
 | takanami | 高波 |  | [舰队Collection:高波](https://zh.moegirl.org.cn/舰队Collection:高波) |
 | asashimo | 朝霜 |  | [舰队Collection:朝霜](https://zh.moegirl.org.cn/舰队Collection:朝霜) |
 | u-511 | U-511 |  | [舰队Collection:U-511](https://zh.moegirl.org.cn/舰队Collection:U-511) |
