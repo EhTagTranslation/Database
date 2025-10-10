@@ -13327,6 +13327,7 @@ example:
 | atsuatsu mikan | 热热蜜柑 |  |  |
 | jason shiina | Jason椎名 |  |  |
 | cappuccino | 卡布奇诺 |  |  |
+| saneyarou | さね野郎 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
