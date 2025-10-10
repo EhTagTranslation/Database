@@ -14072,6 +14072,7 @@ example:
 | gusari | ぐさり |  |  |
 | nakayoshi | なかよShi |  |  |
 | momono eri | 桃野衿 |  |  |
+| uyuu | 烏有 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
