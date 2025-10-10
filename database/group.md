@@ -13326,6 +13326,7 @@ example:
 | kurozume fuuta | 黒爪フータ |  |  |
 | atsuatsu mikan | 热热蜜柑 |  |  |
 | jason shiina | Jason椎名 |  |  |
+| cappuccino | 卡布奇诺 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
