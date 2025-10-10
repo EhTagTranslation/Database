@@ -6827,6 +6827,7 @@ example:
 | bo-ra lee | 李宝拉 | 所属作品：`solo leveling`<br>![](https://ehgt.org/w/01/902/23191-1feq7qmp.webp)<br>A级猎人，汉特斯公会成员，魔法辅助型职业。 |  |
 | ren | 莲 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/8c/44/132840_crt_E3x0H.jpg?r=1688436393) | [Bangumi](https://bgm.tv/character/132840) |
 | rosanna | 罗珊娜 | ![](https://patchwiki.biligame.com/images/nikke/e/eb/o8uur870fnhrz9jhpa7gf4kbq34tnav.png)<br>《胜利女神：妮姬》中出场角色 | [GameKee](https://www.gamekee.com/nikke/tj/591260.html) |
+| sylpha langlis | 希尔法·兰格里斯 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://ehgt.org/w/02/031/99793-ueq2efyq.webp)<br>曾经是冒险者中出类拔萃的存在，但是不知为何成为王室的女仆，作为罗伊德的看护人。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
