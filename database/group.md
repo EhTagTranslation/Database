@@ -13324,6 +13324,7 @@ example:
 | sashikiz | 刺傷 |  |  |
 | hashioki | 箸置き |  |  |
 | kurozume fuuta | 黒爪フータ |  |  |
+| atsuatsu mikan | 热热蜜柑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
