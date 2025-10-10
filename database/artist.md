@@ -14073,7 +14073,7 @@ example:
 | nakayoshi | なかよShi |  |  |
 | momono eri | 桃野衿 |  |  |
 | uyuu | 烏有 |  |  |
-| doraias kazuyo | Doraias一世 |  |  |
+| doraias kazuyo | ドライアス一世 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
