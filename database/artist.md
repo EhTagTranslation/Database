@@ -8655,7 +8655,7 @@ example:
 | nekono tamami | 猫野たまみ |  |  |
 | nekonomori maririn | 猫守麻里鈴 |  |  |
 | nekonose hajime | 猫ノ瀬はじめ |  |  |
-| nekonso | ねこんそ |  |  |
+| nekonso | ねこんそ |  | [pixiv](https://www.pixiv.net/users/161077) |
 | nekonta | ねこんた |  |  |
 | nekonyan | 猫にゃん |  |  |
 | nekookaji tayo | 猫岡寺多代 |  |  |
