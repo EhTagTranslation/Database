@@ -14074,6 +14074,7 @@ example:
 | momono eri | 桃野衿 |  |  |
 | uyuu | 烏有 |  |  |
 | doraias kazuyo | ドライアス一世 |  |  |
+| kokemomo | こけもも |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
