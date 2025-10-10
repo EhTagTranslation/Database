@@ -14071,6 +14071,7 @@ example:
 | oruka | 織夏 |  |  |
 | gusari | ぐさり |  |  |
 | nakayoshi | なかよShi |  |  |
+| momono eri | 桃野衿 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
