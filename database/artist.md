@@ -14070,6 +14070,7 @@ example:
 | furuyama tsukuru | 古山造 |  |  |
 | oruka | 織夏 |  |  |
 | gusari | ぐさり |  |  |
+| nakayoshi | なかよShi |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
