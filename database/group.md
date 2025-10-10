@@ -13323,6 +13323,7 @@ example:
 | mendako suizokukan | めんだこ水族館 |  |  |
 | sashikiz | 刺傷 |  |  |
 | hashioki | 箸置き |  |  |
+| kurozume fuuta | 黒爪フータ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
