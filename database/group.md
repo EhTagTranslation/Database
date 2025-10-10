@@ -13325,6 +13325,7 @@ example:
 | hashioki | 箸置き |  |  |
 | kurozume fuuta | 黒爪フータ |  |  |
 | atsuatsu mikan | 热热蜜柑 |  |  |
+| jason shiina | Jason椎名 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
