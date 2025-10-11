@@ -13328,6 +13328,7 @@ example:
 | jason shiina | Jason椎名 |  |  |
 | cappuccino | 卡布奇诺 |  |  |
 | saneyarou | さね野郎 |  |  |
+| itsumo nemui | いつもねむい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
