@@ -14079,6 +14079,7 @@ example:
 | sawtatsu | そうたつ |  |  |
 | nannomaru | なんの丸 |  |  |
 | mashin gehyul | 魔神ゲヒュール |  |  |
+| migita | みぎた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
