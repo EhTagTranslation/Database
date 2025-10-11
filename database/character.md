@@ -6828,6 +6828,7 @@ example:
 | ren | 莲 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/8c/44/132840_crt_E3x0H.jpg?r=1688436393) | [Bangumi](https://bgm.tv/character/132840) |
 | rosanna | 罗珊娜 | ![](https://patchwiki.biligame.com/images/nikke/e/eb/o8uur870fnhrz9jhpa7gf4kbq34tnav.png)<br>《胜利女神：妮姬》中出场角色 | [GameKee](https://www.gamekee.com/nikke/tj/591260.html) |
 | sylpha langlis | 希尔法·兰格里斯 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://ehgt.org/w/02/031/99793-ueq2efyq.webp)<br>曾经是冒险者中出类拔萃的存在，但是不知为何成为王室的女仆，作为罗伊德的看护人。 |  |
+| mifuyu azusa | 梓美冬 | 所属作品: `p:puella magi madoka magica side story magia record`<br><br>随着雪野加奈惠和安名梅露的死去、得知魔法少女的真相后梓美冬倍受打击，一蹶不振。绝望之余释放出了Doppel并遇见了里见灯花，为了摆脱成为魔女的命运而加入组建了Magius之翼。 | [萌娘百科](https://zh.moegirl.org.cn/梓美冬) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
