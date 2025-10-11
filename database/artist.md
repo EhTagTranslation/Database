@@ -14077,6 +14077,7 @@ example:
 | kokemomo | こけもも |  |  |
 | aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
 | sawtatsu | そうたつ |  |  |
+| nannomaru | なんの丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
