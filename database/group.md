@@ -13329,6 +13329,7 @@ example:
 | cappuccino | 卡布奇诺 |  |  |
 | saneyarou | さね野郎 |  |  |
 | itsumo nemui | いつもねむい |  |  |
+| urushibara koubou | 漆原工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
