@@ -14078,6 +14078,7 @@ example:
 | aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
 | sawtatsu | そうたつ |  |  |
 | nannomaru | なんの丸 |  |  |
+| mashin gehyul | 魔神ゲヒュール |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
