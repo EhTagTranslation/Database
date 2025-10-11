@@ -13330,6 +13330,7 @@ example:
 | saneyarou | さね野郎 |  |  |
 | itsumo nemui | いつもねむい |  |  |
 | urushibara koubou | 漆原工房 |  |  |
+| onizukachris | 鬼塚クリス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
