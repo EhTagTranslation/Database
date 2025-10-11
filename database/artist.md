@@ -14075,6 +14075,7 @@ example:
 | uyuu | 烏有 |  |  |
 | doraias kazuyo | ドライアス一世 |  |  |
 | kokemomo | こけもも |  |  |
+| aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
