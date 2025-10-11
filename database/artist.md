@@ -3456,7 +3456,7 @@ example:
 | yoshida | 吉田 |  |  |
 | dokukinokozin | 毒茸人 |  |  |
 | danrenji | だんれんじ |  |  |
-| kiri-kiri mai | ギリギリ舞 | ![X](https://pbs.twimg.com/profile_images/1377469218736590851/EACxbJKF_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/E84i0iiVoAgpjjp?format=jpg&name=large")<br><br>连载作品 | [X](https://x.com/kirikirimai1224) [连载](https://comic.iowl.jp/titles/124158/volumes) |
+| kiri-kiri mai | 斩斩舞 | ![X](https://pbs.twimg.com/profile_images/1377469218736590851/EACxbJKF_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/E84i0iiVoAgpjjp?format=jpg&name=large")<br><br>连载作品 | [X](https://x.com/kirikirimai1224) [连载](https://comic.iowl.jp/titles/124158/volumes) |
 | oshino | 推乃 |  |  |
 | shiramizu mizuchi | 白瑞みずち |  | [X](https://x.com/maguroyoukai) [pixiv](https://www.pixiv.net/users/1601595) |
 | majima tetsurou | 真島てつろー |  | [X](https://x.com/Tetsu__TTR) [pixiv](https://www.pixiv.net/users/16798951) |
