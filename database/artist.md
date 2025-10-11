@@ -14076,6 +14076,7 @@ example:
 | doraias kazuyo | ドライアス一世 |  |  |
 | kokemomo | こけもも |  |  |
 | aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
+| sawtatsu | そうたつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
