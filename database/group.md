@@ -13331,6 +13331,7 @@ example:
 | itsumo nemui | いつもねむい |  |  |
 | urushibara koubou | 漆原工房 |  |  |
 | onizukachris | 鬼塚クリス |  |  |
+| uchi no yoko | ウチの横 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
