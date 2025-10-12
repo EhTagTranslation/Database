@@ -14080,6 +14080,7 @@ example:
 | nannomaru | なんの丸 |  |  |
 | mashin gehyul | 魔神ゲヒュール |  |  |
 | migita | みぎた |  |  |
+| shidare aya | しだれ彩 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
