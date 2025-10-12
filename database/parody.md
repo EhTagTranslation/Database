@@ -2555,6 +2555,7 @@ example:
 | saikyou no shienshoku wajutsushi de aru ore wa sekai saikyou clan wo shitagaeru | 最狂辅助职业【话术士】世界最强战团听我号令 | 《最狂辅助职业【话术士】世界最强战团听我号令》是由じゃき创作的一部轻小说，并有漫画、动画等衍生作品。<br>![](https://img.moegirl.org.cn/common/b/b9/话术士1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/最狂辅助职业【话术士】世界最强战团听我号令) |
 | hazure waku | 依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切 | 《依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切》是由篠崎芳执笔撰写，KWKM绘制插画的轻小说。 | [萌娘百科](https://zh.moegirl.org.cn/依靠被嫌弃的【状态异常技能】而成为最强的我最终蹂躏一切) |
 | witch watch | 魔女与使魔 | 《魔女与使魔》（日语：ウィッチウォッチ）是篠原健太创作的一部漫画，并有动画等衍生作品。<br>![](https://lain.bgm.tv/pic/cover/l/5e/4f/506672_K9EQT.jpg?_gl=1*dts3y8*_ga*OTMyMDY2OTQ2LjE3NjAyMzI0ODg.*_ga_1109JLGMHN*czE3NjAyMzI0ODgkbzEkZzEkdDE3NjAyMzI0OTMkajU1JGwwJGgw) | [萌娘百科](https://zh.moegirl.org.cn/魔女与使魔) |
+| miracle nikki | 奇迹暖暖 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
