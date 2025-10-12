@@ -14081,6 +14081,7 @@ example:
 | mashin gehyul | 魔神ゲヒュール |  |  |
 | migita | みぎた |  |  |
 | shidare aya | しだれ彩 |  |  |
+| neko daifuku | 猫大福 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
