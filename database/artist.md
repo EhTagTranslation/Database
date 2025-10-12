@@ -14083,6 +14083,7 @@ example:
 | shidare aya | しだれ彩 |  |  |
 | neko daifuku | 猫大福 |  |  |
 | taba | 束 |  |  |
+| hoshino chisara | 星野千更 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
