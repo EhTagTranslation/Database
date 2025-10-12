@@ -6831,6 +6831,7 @@ example:
 | mifuyu azusa | 梓美冬 | 所属作品: `p:puella magi madoka magica side story magia record`<br><br>随着雪野加奈惠和安名梅露的死去、得知魔法少女的真相后梓美冬倍受打击，一蹶不振。绝望之余释放出了Doppel并遇见了里见灯花，为了摆脱成为魔女的命运而加入组建了Magius之翼。 | [萌娘百科](https://zh.moegirl.org.cn/梓美冬) |
 | seras ashrain | 瑟拉丝·亚休连 | 所属作品：`hazure waku`<br>![](https://ehgt.org/w/01/999/24699-h4grz2vk.webp) |  |
 | nico wakatsuki | 若月妮可 | 所属作品：`witch watch`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/9d/84/115179_crt_fgHSk.jpg?r=1723994081)<br>新人魔女，守仁的青梅竹马，小学四年级时前往魔女的圣地修行，六年后的现在回到守仁的身边。 | [Bangumi](https://bgm.tv/character/115179) |
+| ting an | 定安 | 所属作品：`azur lane`<br>![](https://ehgt.org/w/01/997/84705-9vdb2ayp.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
