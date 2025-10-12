@@ -377,7 +377,7 @@ example:
 | kuroshio | 黑潮 | 旧日本帝国海军的黑潮号驱逐舰（黒潮(駆逐艦)） | [碧蓝航线:黑潮](https://zh.moegirl.org.cn/碧蓝航线:黑潮) [战舰少女:黑潮](https://zh.moegirl.org.cn/战舰少女:黑潮) [舰队Collection:黑潮](https://zh.moegirl.org.cn/舰队Collection:黑潮) |
 | shouhou | 祥凤 | 旧日本帝国海军祥凤号空母（祥鳳(空母)） | [碧蓝航线:祥凤](https://zh.moegirl.org.cn/碧蓝航线:祥凤) [战舰少女:祥凤](https://zh.moegirl.org.cn/战舰少女:祥凤) [舰队Collection:祥凤](https://zh.moegirl.org.cn/舰队Collection:祥凤) |
 | shoukaku | 翔鹤 | 旧日本帝国海军的翔鹤号航空母舰(翔鶴) | [碧蓝航线:翔鹤](https://zh.moegirl.org.cn/碧蓝航线:翔鹤) [战舰少女:翔鹤](https://zh.moegirl.org.cn/战舰少女:翔鹤) [舰队Collection:翔鹤](https://zh.moegirl.org.cn/舰队Collection:翔鹤) |
-| zuikaku | 瑞鹤 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fbd4509279b01a41aca8534bcfbfa868262400697.png) | [碧蓝航线:瑞鹤](https://zh.moegirl.org.cn/碧蓝航线:瑞鹤) [战舰少女:瑞鹤](https://zh.moegirl.org.cn/战舰少女:瑞鹤) [舰队Collection:瑞鹤](https://zh.moegirl.org.cn/舰队Collection:瑞鹤) |
+| zuikaku | 瑞鹤(鹤) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fbd4509279b01a41aca8534bcfbfa868262400697.png) | [碧蓝航线:瑞鹤](https://zh.moegirl.org.cn/碧蓝航线:瑞鹤) [战舰少女:瑞鹤](https://zh.moegirl.org.cn/战舰少女:瑞鹤) [舰队Collection:瑞鹤](https://zh.moegirl.org.cn/舰队Collection:瑞鹤) |
 | kinu | 鬼怒 | 旧日本海军的鬼怒号巡洋舰 | [碧蓝航线:鬼怒](https://zh.moegirl.org.cn/碧蓝航线:鬼怒) [舰队Collection:鬼怒](https://zh.moegirl.org.cn/舰队Collection:鬼怒) |
 | abukuma | 阿武隈 | 日本海军的阿武隈号轻巡洋舰（ 阿武隈 (轻巡洋舰)） | [碧蓝航线:阿武隈](https://zh.moegirl.org.cn/碧蓝航线:阿武隈) [舰队Collection:阿武隈](https://zh.moegirl.org.cn/舰队Collection:阿武隈) |
 | yuubari | 夕张 | 旧日本海军的夕张号巡洋舰(夕张(轻巡洋舰)) | [碧蓝航线:夕张](https://zh.moegirl.org.cn/碧蓝航线:夕张) [战舰少女:夕张](https://zh.moegirl.org.cn/战舰少女:夕张) [舰队Collection:夕张](https://zh.moegirl.org.cn/舰队Collection:夕张) |
