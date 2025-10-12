@@ -6532,7 +6532,7 @@ example:
 | michiru matsushima | 松岛满 | frontwing灰色系列作品女主之一 |  |
 | kazuki kazami | 风见一姬 | 風見一姫，萝莉姐姐，冷淡，白发紫瞳，味甘，不可食用是frontwing公司灰色系列作品女主角之一，男主风见雄二的姐姐。我好喜欢她啊！！！ |  |
 | yuuji kazami | 风见雄二 | frontwing灰色系列作品男主角（，推土机）。 |  |
-| shimanto | 四万十 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/e590b51abd8c86153175b1a70541c0ed298252208.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/四万十)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:四万十) |
+| shimanto | 四万十 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/45d2217485c85e32335a21e9cf824fbb262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/四万十)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:四万十) |
 | agnes | 阿妮埃斯 |  |  |
 | hanako-san | 花子小姐 |  |  |
 | kitarou | 鬼太郎 |  |  |
