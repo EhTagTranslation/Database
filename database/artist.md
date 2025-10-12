@@ -14085,6 +14085,7 @@ example:
 | taba | 束 |  |  |
 | hoshino chisara | 星野千更 |  |  |
 | namiki kojiro | 双木こじろ |  |  |
+| togashi yoshihiro | 富㭴义博 | 富㭴义博（1966年4月27日—），小名为Yoshirin。出生于日本山形县新庄市，日本男性漫画家，是《幽游白书》与《HUNTER×HUNTER》的作者 。 | [维基百科](https://zh.wikipedia.org/wiki/冨樫義博#cite_note-1) |
 
 <!--TEMPLATE:
 |  |  |  |  |
