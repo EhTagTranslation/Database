@@ -509,7 +509,7 @@ example:
 | cygnet | 小天鹅 | 所属作品：`azur lane`<br>英国海军的小天鹅号驱逐舰（ HMS Cygnet (H83)） | [碧蓝航线:小天鹅](https://zh.moegirl.org.cn/碧蓝航线:小天鹅) |
 | kent | 肯特 | 英国皇家海军肯特号重巡洋舰（ HMS Kent(54)） | [碧蓝航线:肯特](https://zh.moegirl.org.cn/碧蓝航线:肯特) [战舰少女:肯特](https://zh.moegirl.org.cn/战舰少女:肯特) |
 | hammann | 哈曼 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/d343a3b50d92a76623229bdb81770217262400697.png) | [碧蓝航线](https://zh.moegirl.org.cn/碧蓝航线:哈曼) [战舰少女](https://zh.moegirl.org.cn/战舰少女:哈曼) [B维哈曼](https://wiki.biligame.com/blhx/哈曼) [B维哈曼II](https://wiki.biligame.com/blhx/哈曼II) [维基百科哈曼](https://zh.wikipedia.org/wiki/哈曼号驱逐舰) [维基百科哈曼II](https://zh.wikipedia.org/wiki/哈曼号护航驱逐舰) |
-| mikasa | 三笠 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/904e84e0b8b7ea0a063f6aa2b265f609262400697.png) | [碧蓝航线:三笠](https://zh.moegirl.org.cn/碧蓝航线:三笠) |
+| mikasa | 三笠(鲐) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/904e84e0b8b7ea0a063f6aa2b265f609262400697.png) | [碧蓝航线:三笠](https://zh.moegirl.org.cn/碧蓝航线:三笠) |
 | st. louis | 圣路易斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b81b19d361e0abf5304ba406e4394830262400697.png) | [碧蓝航线:圣路易斯](https://zh.moegirl.org.cn/碧蓝航线:圣路易斯) [战舰少女:圣路易斯](https://zh.moegirl.org.cn/战舰少女:圣路易斯) |
 | san diego | 圣地亚哥(圣戴安娜) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b76328453ea5db5c18212b6e3fd03ac6262400697.png) | [碧蓝航线:圣地亚哥](https://zh.moegirl.org.cn/碧蓝航线:圣地亚哥) [战舰少女:圣地亚哥](https://zh.moegirl.org.cn/战舰少女:圣地亚哥) |
 | long island | 长岛 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/995e2c4cb2e5249b2010b6e04d3ae7b0262400697.png) | [碧蓝航线:长岛](https://zh.moegirl.org.cn/碧蓝航线:长岛) |
