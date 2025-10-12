@@ -14082,6 +14082,7 @@ example:
 | migita | みぎた |  |  |
 | shidare aya | しだれ彩 |  |  |
 | neko daifuku | 猫大福 |  |  |
+| taba | 束 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
