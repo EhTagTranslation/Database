@@ -6832,6 +6832,7 @@ example:
 | seras ashrain | 瑟拉丝·亚休连 | 所属作品：`hazure waku`<br>![](https://ehgt.org/w/01/999/24699-h4grz2vk.webp) |  |
 | nico wakatsuki | 若月妮可 | 所属作品：`witch watch`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/9d/84/115179_crt_fgHSk.jpg?r=1723994081)<br>新人魔女，守仁的青梅竹马，小学四年级时前往魔女的圣地修行，六年后的现在回到守仁的身边。 | [Bangumi](https://bgm.tv/character/115179) |
 | ting an | 定安 | 所属作品：`azur lane`<br>![](https://ehgt.org/w/01/997/84705-9vdb2ayp.webp) |  |
+| emma frost | 艾玛·弗罗斯特 | 艾玛·弗罗斯特（英语：Emma Frost）是一名在漫威漫画中出现的虚构超级英雄，由作家克里斯·克莱蒙特和艺术家约翰·柏恩所创作。曾为超级反派组织—地狱火俱乐部的“白皇后”。艾玛·弗罗斯特首次于《Uncanny X-Men》#129中登场。<br>艾玛·弗罗斯特出生于一个富有的波士顿商人家庭，四个小孩中排行第三，哥哥Christian Frost、姐姐Adrienne Frost和妹妹Cordelia Frost。父亲Winston是一个冷酷无情和专制的人，母亲Hazel经常滥用精神药物来抗压。在学期间，艾玛的心灵感应能力开始显现。长大后的艾玛继承了大量的财富，成为价值数十亿的集团弗罗斯特国际大股东。并收到地狱火俱乐部的邀请成为“白皇后”。后来在Genosha岛上因哨兵机器人而激发第二的能力—钻石变形。与X战警合作后加入了他们，并与镭射眼产生感情。 | [维基百科](https://zh.wikipedia.org/wiki/艾瑪·佛斯特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
