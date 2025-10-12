@@ -422,7 +422,7 @@ example:
 | ryuuhou | 龙凤 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/d36f9db52c961d5cff7e9c0c76aa4241262400697.png) | [碧蓝航线:龙凤](https://zh.moegirl.org.cn/碧蓝航线:龙凤) [舰队Collection:龙凤](https://zh.moegirl.org.cn/舰队Collection:龙凤) |
 | tokitsukaze | 时津风 |  | [舰队Collection:时津风](https://zh.moegirl.org.cn/舰队Collection:时津风) |
 | unryuu | 云龙 |  | [舰队Collection:云龙](https://zh.moegirl.org.cn/舰队Collection:云龙) |
-| amagi | 天城 \| 鳐 | ①所属作品：`azur lane`<br>原型为日本帝国海军的天城级巡洋战列舰1号舰天城号（ 天城号）<br>![](https://img.moegirl.org.cn/common/e/ec/BLHX_78564311_p0.jpg)<br>②轻小说《我是星际国家的恶德领主！》及其衍生动画中的核心角色，黎恩专属的AI女仆机器人<br>![](https://img.moegirl.org.cn/common/e/e3/天城.png) | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
+| amagi | 天城(鳐) | ①所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/35a71e2e039c81c7596157f1d93188b1262400697.png)<br>②轻小说《我是星际国家的恶德领主！》及其衍生动画中的核心角色，黎恩专属的AI女仆机器人<br>![](https://img.moegirl.org.cn/common/e/e3/天城.png) | [碧蓝航线:天城](https://zh.moegirl.org.cn/碧蓝航线:天城) [舰队Collection:天城](https://zh.moegirl.org.cn/舰队Collection:天城) |
 |  | 葛城 |  | [舰队Collection:葛城](https://zh.moegirl.org.cn/舰队Collection:葛城) |
 | harusame | 春雨 |  | [舰队Collection:春雨](https://zh.moegirl.org.cn/舰队Collection:春雨) |
 | hayashimo | 早霜 |  | [舰队Collection:早霜](https://zh.moegirl.org.cn/舰队Collection:早霜) |
