@@ -304,7 +304,7 @@ example:
 | fubuki | 吹雪(桐) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/96992e2b4c40c717c5bb9b5c5da202a0262400697.png)<br>旧日本帝国海军的特I型吹雪级驱逐舰一号舰“吹雪”号（吹雪(吹雪型駆逐艦)） | [碧蓝航线:吹雪](https://zh.moegirl.org.cn/碧蓝航线:吹雪) [战舰少女:吹雪](https://zh.moegirl.org.cn/战舰少女:吹雪) [舰队Collection:吹雪](https://zh.moegirl.org.cn/舰队Collection:吹雪) |
 | shirayuki | 白雪(杉) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/a882a21966ad3bba63c3474f6d847538262400697.png) | [战舰少女:白雪](https://zh.moegirl.org.cn/战舰少女:白雪) [舰队Collection:白雪](https://zh.moegirl.org.cn/舰队Collection:白雪) |
 | hatsuyuki | 初雪 |  | [战舰少女:初雪](https://zh.moegirl.org.cn/战舰少女:初雪) [舰队Collection:初雪](https://zh.moegirl.org.cn/舰队Collection:初雪) |
-| miyuki | 深雪 |  | [战舰少女:深雪](https://zh.moegirl.org.cn/战舰少女:深雪) [舰队Collection:深雪](https://zh.moegirl.org.cn/舰队Collection:深雪) |
+| miyuki | 深雪(梧) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5336caba7531fc1f75177577b8da2e9c262400697.png) | [战舰少女:深雪](https://zh.moegirl.org.cn/战舰少女:深雪) [舰队Collection:深雪](https://zh.moegirl.org.cn/舰队Collection:深雪) |
 | isonami | 矶波 |  | [舰队Collection:矶波](https://zh.moegirl.org.cn/舰队Collection:矶波) |
 | ayanami | 绫波(柚) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/894ed9710bfa96e2df0425189c73c929262400697.png)<br>旧日本帝国海军的吹雪级特型驱逐舰十一号舰（特二绫波型一号舰）“绫波”（綾波(吹雪型)） | [碧蓝航线:绫波](https://zh.moegirl.org.cn/碧蓝航线:绫波) [战舰少女:绫波](https://zh.moegirl.org.cn/战舰少女:绫波) [舰队Collection:绫波](https://zh.moegirl.org.cn/舰队Collection:绫波) |
 | shikinami | 敷波 |  | [战舰少女:敷波](https://zh.moegirl.org.cn/战舰少女:敷波) [舰队Collection:敷波](https://zh.moegirl.org.cn/舰队Collection:敷波) |
