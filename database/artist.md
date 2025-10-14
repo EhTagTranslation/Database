@@ -758,7 +758,7 @@ example:
 | sagattoru | サカッとる |  |  |
 | tamaki | TAMAKI |  |  |
 | ahemaru | アヘ丸 |  | [pixiv](https://www.pixiv.net/users/287671) |
-| akikusa peperon | 秋草ぺぺろん |  |  |
+| akikusa peperon | 秋草ぺぺろん |  | [pixiv](https://www.pixiv.net/users/207241) |
 | drachef | ドラチェフ | ![](https://pbs.twimg.com/profile_images/1549890213388103680/YWR_jKvn_400x400.jpg) | [X](https://x.com/dra_tanuking) [pixiv](https://www.pixiv.net/users/2487760) [Fantia](https://fantia.jp/fanclubs/30204) |
 | hikage hinata | 日陰ひなた |  |  |
 | kijima daisyarin | 鬼岛大车轮 |  |  |
