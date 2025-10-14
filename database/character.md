@@ -387,7 +387,7 @@ example:
 | maikaze | 舞风 |  | [舰队Collection:舞风](https://zh.moegirl.org.cn/舰队Collection:舞风) |
 | kinugasa | 衣笠 | 旧日本帝国海军青叶级重巡洋舰二番舰衣笠号(衣笠(重巡洋艦)) | [碧蓝航线:衣笠](https://zh.moegirl.org.cn/碧蓝航线:衣笠) [战舰少女:衣笠](https://zh.moegirl.org.cn/战舰少女:衣笠) [舰队Collection:衣笠](https://zh.moegirl.org.cn/舰队Collection:衣笠) |
 | i-19 | 伊19 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/9a8f42c8b29f136025e85de58528f52b262400697.png)<br>旧日本帝国海军的伊号第十九潜水舰（伊号第十九潜水艦） | [碧蓝航线:伊19](https://zh.moegirl.org.cn/碧蓝航线:伊19) [舰队Collection:伊19](https://zh.moegirl.org.cn/舰队Collection:伊19) |
-| suzuya | 铃谷 | 旧日本海军的铃谷号巡洋舰(鈴谷(重巡洋艦)) | [碧蓝航线:铃谷](https://zh.moegirl.org.cn/碧蓝航线:铃谷) [战舰少女:铃谷](https://zh.moegirl.org.cn/战舰少女:铃谷) [舰队Collection:铃谷](https://zh.moegirl.org.cn/舰队Collection:铃谷) |
+| suzuya | 铃谷(狺) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/4c24ff1f6ef90f3e49d9ba7285e24f2f262400697.png)<br>旧日本海军的铃谷号巡洋舰(鈴谷(重巡洋艦)) | [碧蓝航线:铃谷](https://zh.moegirl.org.cn/碧蓝航线:铃谷) [战舰少女:铃谷](https://zh.moegirl.org.cn/战舰少女:铃谷) [舰队Collection:铃谷](https://zh.moegirl.org.cn/舰队Collection:铃谷) |
 | kumano | 熊野 |  | [战舰少女:熊野](https://zh.moegirl.org.cn/战舰少女:熊野) [舰队Collection:熊野](https://zh.moegirl.org.cn/舰队Collection:熊野) |
 | i-168 | 伊168(伊吕波) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/995d70bf3a1496247c49e7ee3ddf7b7d262400697.png)<br>旧日本帝国海军的伊号第百六十八潜水舰（伊号第百六十八潜水艦） | [碧蓝航线:伊168](https://zh.moegirl.org.cn/碧蓝航线:伊168) [舰队Collection:伊168](https://zh.moegirl.org.cn/舰队Collection:伊168) |
 | i-58 | 伊58 | 旧日本帝国海军的B3级潜艇“伊58”(伊号第五十八潜水艦) | [碧蓝航线:伊58](https://zh.moegirl.org.cn/碧蓝航线:伊58) [舰队Collection:伊58](https://zh.moegirl.org.cn/舰队Collection:伊58) |
