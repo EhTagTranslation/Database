@@ -11579,7 +11579,7 @@ example:
 | yamome | ヤモメ |  |  |
 | yamoto | yamoto |  |  |
 | yan | ヤン |  |  |
-| yana | 也な |  |  |
+| yana | 也な |  | [pixiv](https://www.pixiv.net/users/18456) |
 | yanagi | 柳 |  |  |
 | yanagi hirohiko | 柳ひろひこ |  |  |
 | yanagida fumita | 柳田史太 |  |  |
