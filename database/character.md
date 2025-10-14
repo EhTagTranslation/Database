@@ -378,7 +378,7 @@ example:
 | shouhou | 祥凤 | 旧日本帝国海军祥凤号空母（祥鳳(空母)） | [碧蓝航线:祥凤](https://zh.moegirl.org.cn/碧蓝航线:祥凤) [战舰少女:祥凤](https://zh.moegirl.org.cn/战舰少女:祥凤) [舰队Collection:祥凤](https://zh.moegirl.org.cn/舰队Collection:祥凤) |
 | shoukaku | 翔鹤(鹬) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/6e823471974a5414b1a8490d9e3c5665262400697.png) | [碧蓝航线:翔鹤](https://zh.moegirl.org.cn/碧蓝航线:翔鹤) [战舰少女:翔鹤](https://zh.moegirl.org.cn/战舰少女:翔鹤) [舰队Collection:翔鹤](https://zh.moegirl.org.cn/舰队Collection:翔鹤) |
 | zuikaku | 瑞鹤(鹤) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fbd4509279b01a41aca8534bcfbfa868262400697.png) | [碧蓝航线:瑞鹤](https://zh.moegirl.org.cn/碧蓝航线:瑞鹤) [战舰少女:瑞鹤](https://zh.moegirl.org.cn/战舰少女:瑞鹤) [舰队Collection:瑞鹤](https://zh.moegirl.org.cn/舰队Collection:瑞鹤) |
-| kinu | 鬼怒 | 旧日本海军的鬼怒号巡洋舰 | [碧蓝航线:鬼怒](https://zh.moegirl.org.cn/碧蓝航线:鬼怒) [舰队Collection:鬼怒](https://zh.moegirl.org.cn/舰队Collection:鬼怒) |
+| kinu | 鬼怒(猤) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/16fdca2edb27447e7a9ff5b666fd9070262400697.png)<br>旧日本海军的鬼怒号巡洋舰 | [碧蓝航线:鬼怒](https://zh.moegirl.org.cn/碧蓝航线:鬼怒) [舰队Collection:鬼怒](https://zh.moegirl.org.cn/舰队Collection:鬼怒) |
 | abukuma | 阿武隈 | 日本海军的阿武隈号轻巡洋舰（ 阿武隈 (轻巡洋舰)） | [碧蓝航线:阿武隈](https://zh.moegirl.org.cn/碧蓝航线:阿武隈) [舰队Collection:阿武隈](https://zh.moegirl.org.cn/舰队Collection:阿武隈) |
 | yuubari | 夕张 | 旧日本海军的夕张号巡洋舰(夕张(轻巡洋舰)) | [碧蓝航线:夕张](https://zh.moegirl.org.cn/碧蓝航线:夕张) [战舰少女:夕张](https://zh.moegirl.org.cn/战舰少女:夕张) [舰队Collection:夕张](https://zh.moegirl.org.cn/舰队Collection:夕张) |
 | zuihou | 瑞凤 |  | [战舰少女:瑞凤](https://zh.moegirl.org.cn/战舰少女:瑞凤) [舰队Collection:瑞凤](https://zh.moegirl.org.cn/舰队Collection:瑞凤) |
