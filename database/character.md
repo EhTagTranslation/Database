@@ -306,7 +306,7 @@ example:
 | hatsuyuki | 初雪 |  | [战舰少女:初雪](https://zh.moegirl.org.cn/战舰少女:初雪) [舰队Collection:初雪](https://zh.moegirl.org.cn/舰队Collection:初雪) |
 | miyuki | 深雪 |  | [战舰少女:深雪](https://zh.moegirl.org.cn/战舰少女:深雪) [舰队Collection:深雪](https://zh.moegirl.org.cn/舰队Collection:深雪) |
 | isonami | 矶波 |  | [舰队Collection:矶波](https://zh.moegirl.org.cn/舰队Collection:矶波) |
-| ayanami | 绫波 | 旧日本帝国海军的吹雪级特型驱逐舰十一号舰（特二绫波型一号舰）“绫波”（綾波(吹雪型)） | [碧蓝航线:绫波](https://zh.moegirl.org.cn/碧蓝航线:绫波) [战舰少女:绫波](https://zh.moegirl.org.cn/战舰少女:绫波) [舰队Collection:绫波](https://zh.moegirl.org.cn/舰队Collection:绫波) |
+| ayanami | 绫波(柚) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/894ed9710bfa96e2df0425189c73c929262400697.png)<br>旧日本帝国海军的吹雪级特型驱逐舰十一号舰（特二绫波型一号舰）“绫波”（綾波(吹雪型)） | [碧蓝航线:绫波](https://zh.moegirl.org.cn/碧蓝航线:绫波) [战舰少女:绫波](https://zh.moegirl.org.cn/战舰少女:绫波) [舰队Collection:绫波](https://zh.moegirl.org.cn/舰队Collection:绫波) |
 | shikinami | 敷波 |  | [战舰少女:敷波](https://zh.moegirl.org.cn/战舰少女:敷波) [舰队Collection:敷波](https://zh.moegirl.org.cn/舰队Collection:敷波) |
 | ooi | 大井 |  | [战舰少女:大井](https://zh.moegirl.org.cn/战舰少女:大井) [战舰少女:大井](https://zh.moegirl.org.cn/战舰少女:大井) [舰队Collection:大井](https://zh.moegirl.org.cn/舰队Collection:大井) |
 | kitakami | 北上 |  | [战舰少女:北上](https://zh.moegirl.org.cn/战舰少女:北上) [战舰少女:北上](https://zh.moegirl.org.cn/战舰少女:北上) [舰队Collection:北上](https://zh.moegirl.org.cn/舰队Collection:北上) |
