@@ -474,7 +474,7 @@ example:
 | commandant teste | 特斯特长官 |  | [舰队Collection:特斯特长官](https://zh.moegirl.org.cn/舰队Collection:特斯特长官) |
 | richelieu | 黎塞留 | 法国海军的黎塞留号战列舰 | [碧蓝航线:黎塞留](https://zh.moegirl.org.cn/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org.cn/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org.cn/舰队Collection:黎塞留) |
 | i-400 | 伊400 |  | [舰队Collection:伊400](https://zh.moegirl.org.cn/舰队Collection:伊400) |
-| i-13 | 伊13 | 旧日本帝国海军的伊号第十三潜水舰（伊号第十三潜水艦） | [碧蓝航线:伊13](https://zh.moegirl.org.cn/碧蓝航线:伊13) [舰队Collection:伊13](https://zh.moegirl.org.cn/舰队Collection:伊13) |
+| i-13 | 伊13 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/3b3f2d6cd2e49205db773f352c58e885262400697.png)<br>旧日本帝国海军的伊号第十三潜水舰（伊号第十三潜水艦） | [碧蓝航线:伊13](https://zh.moegirl.org.cn/碧蓝航线:伊13) [舰队Collection:伊13](https://zh.moegirl.org.cn/舰队Collection:伊13) |
 | i-14 | 伊14 |  | [舰队Collection:伊14](https://zh.moegirl.org.cn/舰队Collection:伊14) |
 | gangut | 甘古特 | 苏联海军的甘古特号战列舰 | [碧蓝航线:甘古特](https://zh.moegirl.org.cn/碧蓝航线:甘古特) [舰队Collection:甘古特(十月革命)](https://zh.moegirl.org.cn/舰队Collection:甘古特) |
 | tashkent | 塔什干 | 苏联海军的塔什干号驱逐舰(Tashkent) | [碧蓝航线:塔什干](https://zh.moegirl.org.cn/碧蓝航线:塔什干) [战舰少女:塔什干](https://zh.moegirl.org.cn/战舰少女:塔什干) [舰队Collection:塔什干](https://zh.moegirl.org.cn/舰队Collection:塔什干) |
