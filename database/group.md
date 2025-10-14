@@ -13333,6 +13333,7 @@ example:
 | onizukachris | 鬼塚クリス |  |  |
 | uchi no yoko | ウチの横 |  |  |
 | lemon drop | れもんどろっぷ |  |  |
+| shishimusha | 猪武者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
