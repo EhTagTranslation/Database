@@ -348,7 +348,7 @@ example:
 | atago | 爱宕(犬) | ①所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/50f076059a4877481babb2f2eefc51f7262400697.png)<br>\|<br>②角川游戏所开发的卡牌类网页游戏《舰队Collection》（艦隊これくしょん -艦これ-）及其衍生作品的登场角色。<br>\|<br>③手机游戏《战舰少女》及其衍生作品的登场角色 | [碧蓝航线:爱宕](https://zh.moegirl.org.cn/碧蓝航线:爱宕) [战舰少女:爱宕](https://zh.moegirl.org.cn/战舰少女:爱宕) [舰队Collection:爱宕](https://zh.moegirl.org.cn/舰队Collection:爱宕) |
 | choukai | 鸟海 | 旧日本帝国海军高雄级重巡洋舰四番舰鸟海号（鳥海(重巡洋艦)） | [碧蓝航线:鸟海](https://zh.moegirl.org.cn/碧蓝航线:鸟海) [战舰少女:鸟海](https://zh.moegirl.org.cn/战舰少女:鸟海) [舰队Collection:鸟海](https://zh.moegirl.org.cn/舰队Collection:鸟海) |
 | tone | 利根 |  | [舰队Collection:利根](https://zh.moegirl.org.cn/舰队Collection:利根) |
-| chikuma | 筑摩 |  | [舰队Collection:筑摩](https://zh.moegirl.org.cn/舰队Collection:筑摩) |
+| chikuma | 筑摩(狘) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/17579b90e6ea27d6eef5c70c44749567262400697.png) | [舰队Collection:筑摩](https://zh.moegirl.org.cn/舰队Collection:筑摩) |
 | hiyou | 飞鹰 | 旧日本帝国海军的飞鹰号空母（飛鷹(空母)） | [碧蓝航线:飞鹰](https://zh.moegirl.org.cn/碧蓝航线:飞鹰) [战舰少女:飞鹰](https://zh.moegirl.org.cn/战舰少女:飞鹰) [舰队Collection:飞鹰](https://zh.moegirl.org.cn/舰队Collection:飞鹰) |
 | junyou | 隼鹰 | 旧日本帝国海军的隼鹰号空母（隼鷹(空母)） | [碧蓝航线:隼鹰](https://zh.moegirl.org.cn/碧蓝航线:隼鹰) [战舰少女:隼鹰](https://zh.moegirl.org.cn/战舰少女:隼鹰) [舰队Collection:隼鹰](https://zh.moegirl.org.cn/舰队Collection:隼鹰) |
 | oboro | 胧 | ~~合用标签~~<br>1. 舰队Collection 的 胧<br>2. 对魔忍阿萨姬 的 胧 | [舰队Collection:胧](https://zh.moegirl.org.cn/舰队Collection:胧) |
