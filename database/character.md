@@ -470,7 +470,7 @@ example:
 | i-26 | 伊26 | 旧日本帝国海军的B3级潜艇“伊26”(伊号第二十六潜水艦) | [碧蓝航线:伊26](https://zh.moegirl.org.cn/碧蓝航线:伊26) [舰队Collection:伊26](https://zh.moegirl.org.cn/舰队Collection:伊26) |
 | hamanami | 滨波 |  | [舰队Collection:滨波](https://zh.moegirl.org.cn/舰队Collection:滨波) |
 | fujinami | 藤波 |  | [舰队Collection:藤波](https://zh.moegirl.org.cn/舰队Collection:藤波) |
-| uranami | 浦波 | 旧日本帝国海军的特I型吹雪级驱逐舰十号舰“浦波”号（浦波(吹雪型駆逐艦)） | [碧蓝航线:浦波](https://zh.moegirl.org.cn/碧蓝航线:浦波) [舰队Collection:浦波](https://zh.moegirl.org.cn/舰队Collection:浦波) |
+| uranami | 浦波(朴) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/0e86c5b034603d24f0ff2f1561e9108e262400697.png)<br>旧日本帝国海军的特I型吹雪级驱逐舰十号舰“浦波”号（浦波(吹雪型駆逐艦)） | [碧蓝航线:浦波](https://zh.moegirl.org.cn/碧蓝航线:浦波) [舰队Collection:浦波](https://zh.moegirl.org.cn/舰队Collection:浦波) |
 | commandant teste | 特斯特长官 |  | [舰队Collection:特斯特长官](https://zh.moegirl.org.cn/舰队Collection:特斯特长官) |
 | richelieu | 黎塞留 | 法国海军的黎塞留号战列舰 | [碧蓝航线:黎塞留](https://zh.moegirl.org.cn/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org.cn/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org.cn/舰队Collection:黎塞留) |
 | i-400 | 伊400 |  | [舰队Collection:伊400](https://zh.moegirl.org.cn/舰队Collection:伊400) |
