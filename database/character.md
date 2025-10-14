@@ -332,7 +332,7 @@ example:
 | kiso | 木曾 |  | [战舰少女:木曾](https://zh.moegirl.org.cn/战舰少女:木曾) [舰队Collection:木曾](https://zh.moegirl.org.cn/舰队Collection:木曾) |
 | nagara | 长良 | 日本海军的长良号轻巡洋舰（長良(軽巡洋艦)） | [碧蓝航线:长良](https://zh.moegirl.org.cn/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org.cn/舰队Collection:长良) |
 | isuzu | 五十铃 | 旧日本帝国海军的五十铃号轻巡洋舰（五十鈴(軽巡洋艦)） | [碧蓝航线:五十铃](https://zh.moegirl.org.cn/碧蓝航线:五十铃) [战舰少女:五十铃](https://zh.moegirl.org.cn/战舰少女:五十铃) [舰队Collection:五十铃](https://zh.moegirl.org.cn/舰队Collection:五十铃) |
-| natori | 名取 |  | [舰队Collection:名取](https://zh.moegirl.org.cn/舰队Collection:名取) |
+| natori | 名取(猽) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/6c00c698570365034b081cd3ba303d10262400697.png) | [舰队Collection:名取](https://zh.moegirl.org.cn/舰队Collection:名取) |
 | yura | 由良 |  | [舰队Collection:由良](https://zh.moegirl.org.cn/舰队Collection:由良) |
 | sendai | 川内 | 旧日本海军的川内号巡洋舰(川内(轻巡洋舰)) | [碧蓝航线:川内](https://zh.moegirl.org.cn/碧蓝航线:川内) [战舰少女:川内](https://zh.moegirl.org.cn/战舰少女:川内) [舰队Collection:川内](https://zh.moegirl.org.cn/舰队Collection:川内) |
 | jintsuu | 神通 | 旧日本海军的神通号巡洋舰(神通(轻巡洋舰)) | [碧蓝航线:神通](https://zh.moegirl.org.cn/碧蓝航线:神通) [战舰少女:神通](https://zh.moegirl.org.cn/战舰少女:神通) [舰队Collection:神通](https://zh.moegirl.org.cn/舰队Collection:神通) |
