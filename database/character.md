@@ -5471,7 +5471,7 @@ example:
 | inori yuzuriha | 楪祈 | 楪祈（Yè Qí）是动画《罪恶王冠》及其衍生作品的登场人物。<br>![](https://img.moegirl.org.cn/common/thumb/0/02/22367243.jpg/800px-22367243.jpg) | [萌娘百科](https://zh.moegirl.org.cn/楪祈) |
 | kotone fujita | 藤田琴音 | 藤田琴音是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/ce/Imas_gakuen_cidol-fktn-3-001_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/藤田琴音) |
 | acheron | 黄泉 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/71/fud590c54lodhhcj2bji0zucih5dzm5.png/1050px-黄泉立绘.png)<br>所属作品：`honkai star rail`<br>自称「巡海游侠」的旅人，本名不详。身佩一柄长刀，独行银河。 | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
-| asanagi | 朝凪 | 朝凪是由蛮啾网络、勇仕网络联合研发的移动设备游戏《碧蓝航线》及其衍生作品的登场角色。<br><br>![](https://patchwiki.biligame.com/images/blhx/thumb/b/be/rswq3s9pxsgc170owpeuf6ujoc5zdto.jpg/525px-朝凪立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
+| asanagi | 朝凪(桎) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/562be2b5664fe3096ca50367ec141900262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
 | toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
 | curtana | 卡提那 | 二次元游戏《交错战线》中的一个角色 | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/卡提那) |
 | alisa mikhailovna kujou | 艾莉莎·米哈伊罗夫纳·九条 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://img.moegirl.org.cn/common/c/c5/Alisa_Mikhaylovna_Kujō.png)<br>以学年成绩第一为傲，担任学生会会计的优等生。<br>是学年的两大美人之一，别名“孤傲的公主大人”。<br>因为某些过往对邻座的政近抱有兴趣，不时用俄语戏弄他，自认为他听不懂。 | [萌娘百科](https://zh.moegirl.org.cn/艾莉莎·米哈伊罗夫纳·九条) |
