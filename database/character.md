@@ -382,7 +382,7 @@ example:
 | abukuma | 阿武隈 | 日本海军的阿武隈号轻巡洋舰（ 阿武隈 (轻巡洋舰)） | [碧蓝航线:阿武隈](https://zh.moegirl.org.cn/碧蓝航线:阿武隈) [舰队Collection:阿武隈](https://zh.moegirl.org.cn/舰队Collection:阿武隈) |
 | yuubari | 夕张 | 旧日本海军的夕张号巡洋舰(夕张(轻巡洋舰)) | [碧蓝航线:夕张](https://zh.moegirl.org.cn/碧蓝航线:夕张) [战舰少女:夕张](https://zh.moegirl.org.cn/战舰少女:夕张) [舰队Collection:夕张](https://zh.moegirl.org.cn/舰队Collection:夕张) |
 | zuihou | 瑞凤 |  | [战舰少女:瑞凤](https://zh.moegirl.org.cn/战舰少女:瑞凤) [舰队Collection:瑞凤](https://zh.moegirl.org.cn/舰队Collection:瑞凤) |
-| mikuma | 三隈 | 旧日本海军的三隈号巡洋舰(三隈(重巡洋艦)) | [碧蓝航线:三隈](https://zh.moegirl.org.cn/碧蓝航线:三隈) [战舰少女:三隈](https://zh.moegirl.org.cn/战舰少女:三隈) [舰队Collection:三隈](https://zh.moegirl.org.cn/舰队Collection:三隈) |
+| mikuma | 三隈(狻) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e3590b338f7140f910fca7470a7b8353262400697.png)<br>旧日本海军的三隈号巡洋舰(三隈(重巡洋艦)) | [碧蓝航线:三隈](https://zh.moegirl.org.cn/碧蓝航线:三隈) [战舰少女:三隈](https://zh.moegirl.org.cn/战舰少女:三隈) [舰队Collection:三隈](https://zh.moegirl.org.cn/舰队Collection:三隈) |
 | hatsukaze | 初风 |  | [舰队Collection:初风](https://zh.moegirl.org.cn/舰队Collection:初风) |
 | maikaze | 舞风 |  | [舰队Collection:舞风](https://zh.moegirl.org.cn/舰队Collection:舞风) |
 | kinugasa | 衣笠 | 旧日本帝国海军青叶级重巡洋舰二番舰衣笠号(衣笠(重巡洋艦)) | [碧蓝航线:衣笠](https://zh.moegirl.org.cn/碧蓝航线:衣笠) [战舰少女:衣笠](https://zh.moegirl.org.cn/战舰少女:衣笠) [舰队Collection:衣笠](https://zh.moegirl.org.cn/舰队Collection:衣笠) |
