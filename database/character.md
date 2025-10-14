@@ -311,7 +311,7 @@ example:
 | ooi | 大井 |  | [战舰少女:大井](https://zh.moegirl.org.cn/战舰少女:大井) [战舰少女:大井](https://zh.moegirl.org.cn/战舰少女:大井) [舰队Collection:大井](https://zh.moegirl.org.cn/舰队Collection:大井) |
 | kitakami | 北上 |  | [战舰少女:北上](https://zh.moegirl.org.cn/战舰少女:北上) [战舰少女:北上](https://zh.moegirl.org.cn/战舰少女:北上) [舰队Collection:北上](https://zh.moegirl.org.cn/舰队Collection:北上) |
 | kongou | 金刚 | 旧日本帝国海军的金刚号战列巡洋舰（金刚（Kongou）） | [碧蓝航线:金刚](https://zh.moegirl.org.cn/碧蓝航线:金刚) [战舰少女:金刚](https://zh.moegirl.org.cn/战舰少女:金刚) [战舰少女:金刚](https://zh.moegirl.org.cn/战舰少女:金刚) [舰队Collection:金刚](https://zh.moegirl.org.cn/舰队Collection:金刚) |
-| hiei | 比睿 | 旧日本帝国海军的比叡号战列巡洋舰（比叡(戦艦)） | [碧蓝航线:比睿](https://zh.moegirl.org.cn/碧蓝航线:比睿) [战舰少女:比睿](https://zh.moegirl.org.cn/战舰少女:比睿) [舰队Collection:比睿](https://zh.moegirl.org.cn/舰队Collection:比睿) |
+| hiei | 比叡(鲟) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d0012906c984bcb150a88cc66edc2d6f262400697.png)<br>旧日本帝国海军的比叡号战列巡洋舰（比叡(戦艦)） | [碧蓝航线:比睿](https://zh.moegirl.org.cn/碧蓝航线:比睿) [战舰少女:比睿](https://zh.moegirl.org.cn/战舰少女:比睿) [舰队Collection:比睿](https://zh.moegirl.org.cn/舰队Collection:比睿) |
 | kirishima | 雾岛 | 旧日本帝国海军的雾岛号战列巡洋舰（霧島(戦艦)） | [碧蓝航线:雾岛](https://zh.moegirl.org.cn/碧蓝航线:雾岛) [战舰少女:雾岛](https://zh.moegirl.org.cn/战舰少女:雾岛) [舰队Collection:雾岛](https://zh.moegirl.org.cn/舰队Collection:雾岛) |
 | houshou | 凤翔 | 旧日本帝国海军凤翔号轻型航母（凤翔 (空母)） | [碧蓝航线:凤翔](https://zh.moegirl.org.cn/碧蓝航线:凤翔) [战舰少女:凤翔](https://zh.moegirl.org.cn/战舰少女:凤翔) [舰队Collection:凤翔](https://zh.moegirl.org.cn/舰队Collection:凤翔) |
 | fusou | 扶桑 | 旧日本帝国海军的扶桑号战列舰（扶桑 (战舰)） | [碧蓝航线:扶桑](https://zh.moegirl.org.cn/碧蓝航线:扶桑) [战舰少女:扶桑](https://zh.moegirl.org.cn/战舰少女:扶桑) [战舰少女:扶桑](https://zh.moegirl.org.cn/战舰少女:扶桑) [舰队Collection:扶桑](https://zh.moegirl.org.cn/舰队Collection:扶桑) |
