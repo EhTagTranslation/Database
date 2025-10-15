@@ -3195,7 +3195,7 @@ example:
 | ayasa tachibana | 立花彩纱 |  |  |
 | leaf | 叶子 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 | diablo | 迪亚布罗（坂本拓真） |  |  |
-| rem galleu | 蕾姆·嘉蕾邬 |  |  |
+| rem galleu | 蕾姆·嘉蕾邬 | 所属作品：`isekai maou to shoukan shoujo no dorei majutsu`<br>![](https://ehgt.org/w/02/033/45915-hvpykfla.webp) |  |
 | shera l. greenwood | 雪拉·L·古林伍德 |  |  |
 | alicia crystella | 艾莉西亚·库里斯特拉 |  |  |
 | edelgard | 艾德尔卡特 |  |  |
