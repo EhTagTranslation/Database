@@ -453,7 +453,7 @@ example:
 | kazagumo | 风云(枟) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/e6ca16dad56b1ac3e08919a5c684513f262400697.png) | [舰队Collection:风云](https://zh.moegirl.org.cn/舰队Collection:风云) |
 | arashi | 岚 |  | [战舰少女:岚](https://zh.moegirl.org.cn/战舰少女:岚) [舰队Collection:岚](https://zh.moegirl.org.cn/舰队Collection:岚) |
 | hagikaze | 萩风 |  | [舰队Collection:萩风](https://zh.moegirl.org.cn/舰队Collection:萩风) |
-| oyashio | 亲潮 | 旧日本帝国海军的亲潮号驱逐舰（親潮(駆逐艦)） | [碧蓝航线:亲潮](https://zh.moegirl.org.cn/碧蓝航线:亲潮) [舰队Collection:亲潮](https://zh.moegirl.org.cn/舰队Collection:亲潮) |
+| oyashio | 亲潮(藮) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/3333a90b7b6a494059551306b66768a5262400697.png)<br>旧日本帝国海军的亲潮号驱逐舰（親潮(駆逐艦)） | [碧蓝航线:亲潮](https://zh.moegirl.org.cn/碧蓝航线:亲潮) [舰队Collection:亲潮](https://zh.moegirl.org.cn/舰队Collection:亲潮) |
 | yamakaze | 山风(杣) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/0bfd23db47d2cb3f9fb377565e56f383262400697.png) | [舰队Collection:山风](https://zh.moegirl.org.cn/舰队Collection:山风) |
 | umikaze | 海风(菪) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/203870b7cfb0aa82aca72f95af56e5c1262400697.png) | [舰队Collection:海风](https://zh.moegirl.org.cn/舰队Collection:海风) |
 | kawakaze | 江风 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/caf7a3b2f84badad9a14abfd9aa37e6e262400697.png) | [碧蓝航线:江风](https://zh.moegirl.org.cn/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org.cn/舰队Collection:江风) |
