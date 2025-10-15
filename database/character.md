@@ -396,7 +396,7 @@ example:
 | akigumo | 秋云 |  | [舰队Collection:秋云](https://zh.moegirl.org.cn/舰队Collection:秋云) |
 | yuugumo | 夕云 |  | [舰队Collection:夕云](https://zh.moegirl.org.cn/舰队Collection:夕云) |
 | makigumo | 卷云 |  | [舰队Collection:卷云](https://zh.moegirl.org.cn/舰队Collection:卷云) |
-| naganami | 长波 | 旧日本帝国海军的夕云级驱逐舰四号舰“长波” | [碧蓝航线:长波](https://zh.moegirl.org.cn/碧蓝航线:长波) [舰队Collection:长波](https://zh.moegirl.org.cn/舰队Collection:长波) |
+| naganami | 长波(苌) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/b6cdfb85dbfb038482405bd88eb117ec262400697.png)<br>旧日本帝国海军的夕云级驱逐舰四号舰“长波” | [碧蓝航线:长波](https://zh.moegirl.org.cn/碧蓝航线:长波) [舰队Collection:长波](https://zh.moegirl.org.cn/舰队Collection:长波) |
 | agano | 阿贺野(豼) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/4ef6a0520c4b927831d291303a3154bc262400697.png)<br>旧日本海军的阿贺野号巡洋舰(阿賀野(軽巡洋艦)) | [碧蓝航线:阿贺野](https://zh.moegirl.org.cn/碧蓝航线:阿贺野) [舰队Collection:阿贺野](https://zh.moegirl.org.cn/舰队Collection:阿贺野) |
 | noshiro | 能代 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/92f3c7119c5ab3aa54fad946b07214b49653e520.png) | [碧蓝航线:能代](https://zh.moegirl.org.cn/碧蓝航线:能代) [舰队Collection:能代](https://zh.moegirl.org.cn/舰队Collection:能代) |
 | yahagi | 矢矧 |  | [舰队Collection:矢矧](https://zh.moegirl.org.cn/舰队Collection:矢矧) |
