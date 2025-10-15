@@ -322,7 +322,7 @@ example:
 | mutsuki | 睦月 | 旧日本帝国海军的睦月号驱逐舰（睦月(駆逐艦)） | [碧蓝航线:睦月](https://zh.moegirl.org.cn/碧蓝航线:睦月) [战舰少女:睦月](https://zh.moegirl.org.cn/战舰少女:睦月) [舰队Collection:睦月](https://zh.moegirl.org.cn/舰队Collection:睦月) |
 | kisaragi | 如月 | 旧日本帝国海军的如月号驱逐舰（如月(睦月型駆逐艦)） | [碧蓝航线:如月](https://zh.moegirl.org.cn/碧蓝航线:如月) [舰队Collection:如月](https://zh.moegirl.org.cn/舰队Collection:如月) |
 | satsuki | 皋月 |  | [舰队Collection:皋月](https://zh.moegirl.org.cn/舰队Collection:皋月) |
-| fumizuki | 文月 | 旧日本帝国海军的文月号驱逐舰（文月(駆逐艦)） | [碧蓝航线:文月](https://zh.moegirl.org.cn/碧蓝航线:文月) [舰队Collection:文月](https://zh.moegirl.org.cn/舰队Collection:文月) |
+| fumizuki | 文月(橗) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/360aca84f7ca1057c603a63494c9b123262400697.png)<br>旧日本帝国海军的文月号驱逐舰（文月(駆逐艦)） | [碧蓝航线:文月](https://zh.moegirl.org.cn/碧蓝航线:文月) [舰队Collection:文月](https://zh.moegirl.org.cn/舰队Collection:文月) |
 | nagatsuki | 长月 | 旧日本帝国海军的长月号驱逐舰（長月(駆逐艦)） | [碧蓝航线:长月](https://zh.moegirl.org.cn/碧蓝航线:长月) [舰队Collection:长月](https://zh.moegirl.org.cn/舰队Collection:长月) |
 | kikuzuki | 菊月 |  | [舰队Collection:菊月](https://zh.moegirl.org.cn/舰队Collection:菊月) |
 | mikazuki | 三日月 | 旧日本帝国海军的三日月号驱逐舰（三日月(睦月型駆逐艦)） | [碧蓝航线:三日月](https://zh.moegirl.org.cn/碧蓝航线:三日月) [舰队Collection:三日月](https://zh.moegirl.org.cn/舰队Collection:三日月) |
