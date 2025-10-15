@@ -275,7 +275,7 @@ example:
 | chiyoda | 千代田(鹃) | 所属作品: `p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/af9894e24c16023d97731792e6b886f2262400697.png)<br>原型为 IJN 千岁级航空母舰二番舰 千代田号<br>舰队Collection：待补充 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/千代田) |
 | akebono | 曙 | No.068 曙![曙](# "https://ehgt.org/cb/73/cb735b9a0ae422facb8b2b8e76fd72f211f1a0b5-774084-2104-3000-jpg_250.jpg") |  |
 | ushio | 潮 | No.070 |  |
-| ikazuchi | 雷 | No.073 雷![雷](# "https://ehgt.org/15/dc/15dc0a548124bf81e466339bfc55edfb8ae57d21-4153439-2122-3000-jpg_250.jpg") |  |
+| ikazuchi | 雷(梓) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/b002a966dad4257be08a075da4d15823262400697.png) |  |
 | kamoi | 神威 | No.162 |  |
 | maruyu | 丸输 | No.163 まるゆ![まるゆ](# "https://ehgt.org/d3/64/d364b20ea83468acecc15ad9a541e263cfd74cd6-1049033-2130-3000-jpg_250.jpg") |  |
 | z3 | Z3 | No.175 Z3![Z3](# "https://ehgt.org/07/3a/073a9faca9480dd9b49968ae138b3ef16c55c35d-1428836-1421-2000-jpg_250.jpg") |  |
