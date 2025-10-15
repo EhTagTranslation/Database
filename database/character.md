@@ -350,7 +350,7 @@ example:
 | tone | 利根 |  | [舰队Collection:利根](https://zh.moegirl.org.cn/舰队Collection:利根) |
 | chikuma | 筑摩(狘) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/17579b90e6ea27d6eef5c70c44749567262400697.png) | [舰队Collection:筑摩](https://zh.moegirl.org.cn/舰队Collection:筑摩) |
 | hiyou | 飞鹰(鸱) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/00201481d6ce83b4ec76ef98b154d1f1262400697.png)<br>旧日本帝国海军的飞鹰号空母（飛鷹(空母)） | [碧蓝航线:飞鹰](https://zh.moegirl.org.cn/碧蓝航线:飞鹰) [战舰少女:飞鹰](https://zh.moegirl.org.cn/战舰少女:飞鹰) [舰队Collection:飞鹰](https://zh.moegirl.org.cn/舰队Collection:飞鹰) |
-| junyou | 隼鹰 | 旧日本帝国海军的隼鹰号空母（隼鷹(空母)） | [碧蓝航线:隼鹰](https://zh.moegirl.org.cn/碧蓝航线:隼鹰) [战舰少女:隼鹰](https://zh.moegirl.org.cn/战舰少女:隼鹰) [舰队Collection:隼鹰](https://zh.moegirl.org.cn/舰队Collection:隼鹰) |
+| junyou | 隼鹰(鸢) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5a10188d53e4eb9ddbfe5e1bcf353cfe262400697.png)<br>旧日本帝国海军的隼鹰号空母（隼鷹(空母)） | [碧蓝航线:隼鹰](https://zh.moegirl.org.cn/碧蓝航线:隼鹰) [战舰少女:隼鹰](https://zh.moegirl.org.cn/战舰少女:隼鹰) [舰队Collection:隼鹰](https://zh.moegirl.org.cn/舰队Collection:隼鹰) |
 | oboro | 胧 | ~~合用标签~~<br>1. 舰队Collection 的 胧<br>2. 对魔忍阿萨姬 的 胧 | [舰队Collection:胧](https://zh.moegirl.org.cn/舰队Collection:胧) |
 | sazanami | 涟 |  | [舰队Collection:涟](https://zh.moegirl.org.cn/舰队Collection:涟) |
 | akatsuki | 晓 | 旧日本帝国海军的晓号驱逐舰（暁(吹雪型駆逐艦)） | [碧蓝航线:晓](https://zh.moegirl.org.cn/碧蓝航线:晓) [战舰少女:晓](https://zh.moegirl.org.cn/战舰少女:晓) [舰队Collection:晓](https://zh.moegirl.org.cn/舰队Collection:晓) |
