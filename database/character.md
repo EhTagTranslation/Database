@@ -390,7 +390,7 @@ example:
 | suzuya | 铃谷(狺) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/4c24ff1f6ef90f3e49d9ba7285e24f2f262400697.png)<br>旧日本海军的铃谷号巡洋舰(鈴谷(重巡洋艦)) | [碧蓝航线:铃谷](https://zh.moegirl.org.cn/碧蓝航线:铃谷) [战舰少女:铃谷](https://zh.moegirl.org.cn/战舰少女:铃谷) [舰队Collection:铃谷](https://zh.moegirl.org.cn/舰队Collection:铃谷) |
 | kumano | 熊野 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/8284bb3286f577419c7ed221fb0fed70262400697.png) | [战舰少女:熊野](https://zh.moegirl.org.cn/战舰少女:熊野) [舰队Collection:熊野](https://zh.moegirl.org.cn/舰队Collection:熊野) |
 | i-168 | 伊168(伊吕波) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/995d70bf3a1496247c49e7ee3ddf7b7d262400697.png)<br>旧日本帝国海军的伊号第百六十八潜水舰（伊号第百六十八潜水艦） | [碧蓝航线:伊168](https://zh.moegirl.org.cn/碧蓝航线:伊168) [舰队Collection:伊168](https://zh.moegirl.org.cn/舰队Collection:伊168) |
-| i-58 | 伊58 | 旧日本帝国海军的B3级潜艇“伊58”(伊号第五十八潜水艦) | [碧蓝航线:伊58](https://zh.moegirl.org.cn/碧蓝航线:伊58) [舰队Collection:伊58](https://zh.moegirl.org.cn/舰队Collection:伊58) |
+| i-58 | 伊58(冴矢) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/1d376cc8849b5a3cf600fd9e793d1334262400697.png)<br>旧日本帝国海军的B3级潜艇“伊58”(伊号第五十八潜水艦) | [碧蓝航线:伊58](https://zh.moegirl.org.cn/碧蓝航线:伊58) [舰队Collection:伊58](https://zh.moegirl.org.cn/舰队Collection:伊58) |
 | i-8 | 伊8 |  | [舰队Collection:伊8](https://zh.moegirl.org.cn/舰队Collection:伊8) |
 | yamato | 大和 |  | [舰队Collection:大和](https://zh.moegirl.org.cn/舰队Collection:大和) |
 | akigumo | 秋云 |  | [舰队Collection:秋云](https://zh.moegirl.org.cn/舰队Collection:秋云) |
