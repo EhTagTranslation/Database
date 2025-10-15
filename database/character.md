@@ -459,7 +459,7 @@ example:
 | kawakaze | 江风 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/caf7a3b2f84badad9a14abfd9aa37e6e262400697.png) | [碧蓝航线:江风](https://zh.moegirl.org.cn/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org.cn/舰队Collection:江风) |
 | hayasui | 速吸 |  | [舰队Collection:速吸](https://zh.moegirl.org.cn/舰队Collection:速吸) |
 | kashima | 鹿岛 |  | [舰队Collection:鹿岛](https://zh.moegirl.org.cn/舰队Collection:鹿岛) |
-| kamikaze | 神风 | 旧日本帝国海军的神风号驱逐舰（神風(2代神風型駆逐艦)） | [碧蓝航线:神风](https://zh.moegirl.org.cn/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org.cn/舰队Collection:神风) |
+| kamikaze | 神风(榊) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/bd105bbdc588d4236809f070a48f8b49262400697.png)<br>旧日本帝国海军的神风号驱逐舰（神風(2代神風型駆逐艦)） | [碧蓝航线:神风](https://zh.moegirl.org.cn/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org.cn/舰队Collection:神风) |
 | asakaze | 朝风 |  | [舰队Collection:朝风](https://zh.moegirl.org.cn/舰队Collection:朝风) |
 | harukaze | 春风 |  | [舰队Collection:春风](https://zh.moegirl.org.cn/舰队Collection:春风) |
 | matsukaze | 松风 | 旧日本帝国海军的松风号驱逐舰（松風(2代神風型駆逐艦)） | [碧蓝航线:松风](https://zh.moegirl.org.cn/碧蓝航线:松风) [舰队Collection:松风](https://zh.moegirl.org.cn/舰队Collection:松风) [舰队Collection:松](https://zh.moegirl.org.cn/舰队Collection:松) |
