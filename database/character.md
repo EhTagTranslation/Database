@@ -462,7 +462,7 @@ example:
 | kamikaze | 神风(榊) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/bd105bbdc588d4236809f070a48f8b49262400697.png)<br>旧日本帝国海军的神风号驱逐舰（神風(2代神風型駆逐艦)） | [碧蓝航线:神风](https://zh.moegirl.org.cn/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org.cn/舰队Collection:神风) |
 | asakaze | 朝风 |  | [舰队Collection:朝风](https://zh.moegirl.org.cn/舰队Collection:朝风) |
 | harukaze | 春风 |  | [舰队Collection:春风](https://zh.moegirl.org.cn/舰队Collection:春风) |
-| matsukaze | 松风 | 旧日本帝国海军的松风号驱逐舰（松風(2代神風型駆逐艦)） | [碧蓝航线:松风](https://zh.moegirl.org.cn/碧蓝航线:松风) [舰队Collection:松风](https://zh.moegirl.org.cn/舰队Collection:松风) [舰队Collection:松](https://zh.moegirl.org.cn/舰队Collection:松) |
+| matsukaze | 松风(棡) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7011ab755eb8b38359e2abfc8c89f1fb262400697.png)<br>旧日本帝国海军的松风号驱逐舰（松風(2代神風型駆逐艦)） | [碧蓝航线:松风](https://zh.moegirl.org.cn/碧蓝航线:松风) [舰队Collection:松风](https://zh.moegirl.org.cn/舰队Collection:松风) [舰队Collection:松](https://zh.moegirl.org.cn/舰队Collection:松) |
 | hatakaze | 旗风(樋) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d3e446499f5928345a121b5e57e0949c262400697.png)<br>旧日本帝国海军的旗风号驱逐舰（旗風(駆逐艦)） | [碧蓝航线:旗风](https://zh.moegirl.org.cn/碧蓝航线:旗风) [舰队Collection:旗风](https://zh.moegirl.org.cn/舰队Collection:旗风) |
 | amagiri | 天雾 |  | [舰队Collection:天雾](https://zh.moegirl.org.cn/舰队Collection:天雾) |
 | sagiri | 狭雾 |  | [舰队Collection:狭雾](https://zh.moegirl.org.cn/舰队Collection:狭雾) |
