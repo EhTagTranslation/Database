@@ -366,7 +366,7 @@ example:
 | yuudachi | 夕立(椿) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fff2e687a6de95a0835f57a27e717c90262400697.png) | [碧蓝航线:夕立](https://zh.moegirl.org.cn/碧蓝航线:夕立) [战舰少女:夕立](https://zh.moegirl.org.cn/战舰少女:夕立) [舰队Collection:夕立](https://zh.moegirl.org.cn/舰队Collection:夕立) |
 | samidare | 五月雨 |  | [舰队Collection:五月雨](https://zh.moegirl.org.cn/舰队Collection:五月雨) |
 | suzukaze | 凉风 |  | [舰队Collection:凉风](https://zh.moegirl.org.cn/舰队Collection:凉风) |
-| asashio | 朝潮 | 旧日本帝国海军的朝潮号驱逐舰（朝潮(駆逐艦)） | [碧蓝航线:朝潮](https://zh.moegirl.org.cn/碧蓝航线:朝潮) [舰队Collection:潮](https://zh.moegirl.org.cn/舰队Collection:潮) [舰队Collection:朝潮](https://zh.moegirl.org.cn/舰队Collection:朝潮) |
+| asashio | 朝潮(棹) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7817295b83c60603a9de8238097fca72262400697.png)<br>旧日本帝国海军的朝潮号驱逐舰（朝潮(駆逐艦)） | [碧蓝航线:朝潮](https://zh.moegirl.org.cn/碧蓝航线:朝潮) [舰队Collection:潮](https://zh.moegirl.org.cn/舰队Collection:潮) [舰队Collection:朝潮](https://zh.moegirl.org.cn/舰队Collection:朝潮) |
 | ooshio | 大潮 | 旧日本帝国海军的大潮号驱逐舰（大潮(駆逐艦)） | [碧蓝航线:大潮](https://zh.moegirl.org.cn/碧蓝航线:大潮) [舰队Collection:大潮](https://zh.moegirl.org.cn/舰队Collection:大潮) |
 | michishio | 满潮 | 旧日本帝国海军的满潮号驱逐舰（満潮(駆逐艦)） | [碧蓝航线:满潮](https://zh.moegirl.org.cn/碧蓝航线:满潮) [舰队Collection:满潮](https://zh.moegirl.org.cn/舰队Collection:满潮) |
 | arashio | 荒潮 | 旧日本帝国海军的荒潮号驱逐舰（荒潮(駆逐艦)） | [碧蓝航线:荒潮](https://zh.moegirl.org.cn/碧蓝航线:荒潮) [舰队Collection:荒潮](https://zh.moegirl.org.cn/舰队Collection:荒潮) |
