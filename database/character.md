@@ -355,7 +355,7 @@ example:
 | sazanami | 涟 |  | [舰队Collection:涟](https://zh.moegirl.org.cn/舰队Collection:涟) |
 | akatsuki | 晓 | 旧日本帝国海军的晓号驱逐舰（暁(吹雪型駆逐艦)） | [碧蓝航线:晓](https://zh.moegirl.org.cn/碧蓝航线:晓) [战舰少女:晓](https://zh.moegirl.org.cn/战舰少女:晓) [舰队Collection:晓](https://zh.moegirl.org.cn/舰队Collection:晓) |
 | hibiki | 响(栀) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d3ed4da7033806408b8ea267d32d2431262400697.png)<br>旧日本帝国海军的响号驱逐舰（响(吹雪型駆逐艦)） | [碧蓝航线:响](https://zh.moegirl.org.cn/碧蓝航线:响) [战舰少女:响](https://zh.moegirl.org.cn/战舰少女:响) [舰队Collection:响](https://zh.moegirl.org.cn/舰队Collection:响) |
-| inazuma | 电 | 日本海军的电号驱逐舰（電(吹雪型駆逐艦)） | [碧蓝航线:电](https://zh.moegirl.org.cn/碧蓝航线:电) [战舰少女:电](https://zh.moegirl.org.cn/战舰少女:电) [舰队Collection:电](https://zh.moegirl.org.cn/舰队Collection:电) |
+| inazuma | 电(柏) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/6304bcbe8deebe0c825926972c4b03fa262400697.png)<br>日本海军的电号驱逐舰（電(吹雪型駆逐艦)） | [碧蓝航线:电](https://zh.moegirl.org.cn/碧蓝航线:电) [战舰少女:电](https://zh.moegirl.org.cn/战舰少女:电) [舰队Collection:电](https://zh.moegirl.org.cn/舰队Collection:电) |
 | hatsuharu | 初春(梅) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/6ea8c9b40e1738f25102425489ec4914262400697.png)<br>旧日本帝国海军的初春号驱逐舰（初春 (初春型駆逐艦)） | [碧蓝航线:初春](https://zh.moegirl.org.cn/碧蓝航线:初春) [舰队Collection:初春](https://zh.moegirl.org.cn/舰队Collection:初春) |
 | nenohi | 子日 |  | [舰队Collection:子日](https://zh.moegirl.org.cn/舰队Collection:子日) |
 | wakaba | 若叶 | 旧日本帝国海军的若叶号驱逐舰（若葉(初春型駆逐艦)） | [碧蓝航线:若叶](https://zh.moegirl.org.cn/碧蓝航线:若叶) [舰队Collection:若叶](https://zh.moegirl.org.cn/舰队Collection:若叶) |
