@@ -407,7 +407,7 @@ example:
 | i-401 | 伊401 |  | [舰队Collection:伊401](https://zh.moegirl.org.cn/舰队Collection:伊401) |
 | akitsu maru | 秋津丸 |  | [舰队Collection:秋津丸](https://zh.moegirl.org.cn/舰队Collection:秋津丸) |
 | yayoi | 弥生 |  | [舰队Collection:弥生](https://zh.moegirl.org.cn/舰队Collection:弥生) |
-| uzuki | 卯月 | 旧日本帝国海军的卯月号驱逐舰（卯月(睦月型駆逐艦)） | [碧蓝航线:卯月](https://zh.moegirl.org.cn/碧蓝航线:卯月) [舰队Collection:卯月](https://zh.moegirl.org.cn/舰队Collection:卯月) |
+| uzuki | 卯月(楙) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/875d839d42cb764282d043956f531f32262400697.png)<br>旧日本帝国海军的卯月号驱逐舰（卯月(睦月型駆逐艦)） | [碧蓝航线:卯月](https://zh.moegirl.org.cn/碧蓝航线:卯月) [舰队Collection:卯月](https://zh.moegirl.org.cn/舰队Collection:卯月) |
 | isokaze | 矶风(柉) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7dfa1afd1ffc4211ca2f48b1e03bc741262400697.png)<br>旧日本帝国海军的矶风号驱逐舰（磯風(陽炎型駆逐艦)） | [碧蓝航线:矶风](https://zh.moegirl.org.cn/碧蓝航线:矶风) [舰队Collection:矶风](https://zh.moegirl.org.cn/舰队Collection:矶风) |
 | urakaze | 浦风(槆) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/514cae8cbc92844bdcd65a12f53ffdec262400697.png)<br>旧日本帝国海军的浦风号驱逐舰（浦風(陽炎型駆逐艦)） | [碧蓝航线:浦风](https://zh.moegirl.org.cn/碧蓝航线:浦风) [舰队Collection:浦风](https://zh.moegirl.org.cn/舰队Collection:浦风) |
 | tanikaze | 谷风(栭) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e4d36837b1f90b6c5918501be9e8f315262400697.png)<br>旧日本帝国海军的谷风号驱逐舰（谷風(陽炎型駆逐艦)） | [碧蓝航线:谷风](https://zh.moegirl.org.cn/碧蓝航线:谷风) [舰队Collection:谷风](https://zh.moegirl.org.cn/舰队Collection:谷风) |
