@@ -330,7 +330,7 @@ example:
 | kuma | 球磨 |  | [舰队Collection:球磨](https://zh.moegirl.org.cn/舰队Collection:球磨) |
 | tama | 多摩 |  | [舰队Collection:多摩](https://zh.moegirl.org.cn/舰队Collection:多摩) |
 | kiso | 木曾 |  | [战舰少女:木曾](https://zh.moegirl.org.cn/战舰少女:木曾) [舰队Collection:木曾](https://zh.moegirl.org.cn/舰队Collection:木曾) |
-| nagara | 长良 | 日本海军的长良号轻巡洋舰（長良(軽巡洋艦)） | [碧蓝航线:长良](https://zh.moegirl.org.cn/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org.cn/舰队Collection:长良) |
+| nagara | 长良(貊) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/f3d101fc0a7f4db540798dbb3dd463d4262400697.png)<br>日本海军的长良号轻巡洋舰（長良(軽巡洋艦)） | [碧蓝航线:长良](https://zh.moegirl.org.cn/碧蓝航线:长良) [舰队Collection:长良](https://zh.moegirl.org.cn/舰队Collection:长良) |
 | isuzu | 五十铃(貉) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/70b59e770b789aad909eaa872a3284a8262400697.png)<br>旧日本帝国海军的五十铃号轻巡洋舰（五十鈴(軽巡洋艦)） | [碧蓝航线:五十铃](https://zh.moegirl.org.cn/碧蓝航线:五十铃) [战舰少女:五十铃](https://zh.moegirl.org.cn/战舰少女:五十铃) [舰队Collection:五十铃](https://zh.moegirl.org.cn/舰队Collection:五十铃) |
 | natori | 名取(猽) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/6c00c698570365034b081cd3ba303d10262400697.png) | [舰队Collection:名取](https://zh.moegirl.org.cn/舰队Collection:名取) |
 | yura | 由良(㹨) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e1ca2720f775f1b3942b293ab1d7f4b7262400697.png) | [舰队Collection:由良](https://zh.moegirl.org.cn/舰队Collection:由良) |
