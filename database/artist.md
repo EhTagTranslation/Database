@@ -14092,6 +14092,7 @@ example:
 | inobuta | 猪豚 |  |  |
 | rinri kan | リンリ缶 |  |  |
 | kagaribi flare | 篝火ふれあ |  |  |
+| ganmodoki | かのはら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
