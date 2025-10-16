@@ -14091,6 +14091,7 @@ example:
 | koiso usu | 小磯臼 |  | [pixiv](https://www.pixiv.net/users/52378658) |
 | inobuta | 猪豚 |  |  |
 | rinri kan | リンリ缶 |  |  |
+| kagaribi flare | 篝火ふれあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
