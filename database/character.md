@@ -319,7 +319,7 @@ example:
 | tenryuu | 天龙 |  | [战舰少女:天龙](https://zh.moegirl.org.cn/战舰少女:天龙) [舰队Collection:天龙](https://zh.moegirl.org.cn/舰队Collection:天龙) |
 | tatsuta | 龙田 |  | [战舰少女:龙田](https://zh.moegirl.org.cn/战舰少女:龙田) [舰队Collection:龙田](https://zh.moegirl.org.cn/舰队Collection:龙田) |
 | ryuujou | 龙骧(枭) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d17fe5a99af635c36b58505ebc28b97d262400697.png)<br>旧日本帝国海军龙骧号轻型航母（龍驤 (空母)） | [碧蓝航线:龙骧](https://zh.moegirl.org.cn/碧蓝航线:龙骧) [战舰少女:龙骧](https://zh.moegirl.org.cn/战舰少女:龙骧) [舰队Collection:龙骧](https://zh.moegirl.org.cn/舰队Collection:龙骧) |
-| mutsuki | 睦月 | 旧日本帝国海军的睦月号驱逐舰（睦月(駆逐艦)） | [碧蓝航线:睦月](https://zh.moegirl.org.cn/碧蓝航线:睦月) [战舰少女:睦月](https://zh.moegirl.org.cn/战舰少女:睦月) [舰队Collection:睦月](https://zh.moegirl.org.cn/舰队Collection:睦月) |
+| mutsuki | 睦月(松) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/40e553bb9e6104bd4de8686964de5991262400697.png)<br>旧日本帝国海军的睦月号驱逐舰（睦月(駆逐艦)） | [碧蓝航线:睦月](https://zh.moegirl.org.cn/碧蓝航线:睦月) [战舰少女:睦月](https://zh.moegirl.org.cn/战舰少女:睦月) [舰队Collection:睦月](https://zh.moegirl.org.cn/舰队Collection:睦月) |
 | kisaragi | 如月 | 旧日本帝国海军的如月号驱逐舰（如月(睦月型駆逐艦)） | [碧蓝航线:如月](https://zh.moegirl.org.cn/碧蓝航线:如月) [舰队Collection:如月](https://zh.moegirl.org.cn/舰队Collection:如月) |
 | satsuki | 皋月 |  | [舰队Collection:皋月](https://zh.moegirl.org.cn/舰队Collection:皋月) |
 | fumizuki | 文月(橗) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/360aca84f7ca1057c603a63494c9b123262400697.png)<br>旧日本帝国海军的文月号驱逐舰（文月(駆逐艦)） | [碧蓝航线:文月](https://zh.moegirl.org.cn/碧蓝航线:文月) [舰队Collection:文月](https://zh.moegirl.org.cn/舰队Collection:文月) |
