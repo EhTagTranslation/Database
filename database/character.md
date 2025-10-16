@@ -551,7 +551,7 @@ example:
 | grecale | 东北风 |  | [舰队Collection:东北风](https://zh.moegirl.org.cn/舰队Collection:东北风) |
 | bremerton | 布莱默顿 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/018a8fc0740e888789a051ee0dcf0f29262400697.png) | [碧蓝航线:布莱默顿](https://zh.moegirl.org.cn/碧蓝航线:布莱默顿) |
 | roon | 罗恩 | 所属作品：`azur lane` | [碧蓝航线:罗恩](https://zh.moegirl.org.cn/碧蓝航线:罗恩) |
-| dido | 黛朵 | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/50/71ilwe75s6j75e5v8dpn4659o20d2mk.jpg/525px-黛朵立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | [碧蓝航线:黛朵](https://zh.moegirl.org.cn/碧蓝航线:黛朵) [战舰少女:黛朵](https://zh.moegirl.org.cn/战舰少女:黛朵) |
+| dido | <p>黛朵</p> | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e4c465f23eb4536b789f5eb69717018d262400697.png)<br>原型为英国海军的黛朵号轻巡洋舰（HMS Dido (37)） | <p><a href="[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:黛朵)">碧蓝航线:黛朵</a> <a href="[萌娘百科](https://zh.moegirl.org.cn/战舰少女:黛朵)">战舰少女:黛朵</a></p> |
 | baltimore | 巴尔的摩 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/7f3f0590c83e92b62483463c09447b4d262400697.png) | [碧蓝航线:巴尔的摩](https://zh.moegirl.org.cn/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org.cn/战舰少女:巴尔的摩) |
 |  | ▲ 各种舰娘人物 |  |  |
 |  | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |  |
