@@ -325,7 +325,7 @@ example:
 | fumizuki | 文月(橗) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/360aca84f7ca1057c603a63494c9b123262400697.png)<br>旧日本帝国海军的文月号驱逐舰（文月(駆逐艦)） | [碧蓝航线:文月](https://zh.moegirl.org.cn/碧蓝航线:文月) [舰队Collection:文月](https://zh.moegirl.org.cn/舰队Collection:文月) |
 | nagatsuki | 长月(枨) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/eb4a1ed1587ca191c6aad95b2109fe3f262400697.png)<br>旧日本帝国海军的长月号驱逐舰（長月(駆逐艦)） | [碧蓝航线:长月](https://zh.moegirl.org.cn/碧蓝航线:长月) [舰队Collection:长月](https://zh.moegirl.org.cn/舰队Collection:长月) |
 | kikuzuki | 菊月 |  | [舰队Collection:菊月](https://zh.moegirl.org.cn/舰队Collection:菊月) |
-| mikazuki | 三日月 | 旧日本帝国海军的三日月号驱逐舰（三日月(睦月型駆逐艦)） | [碧蓝航线:三日月](https://zh.moegirl.org.cn/碧蓝航线:三日月) [舰队Collection:三日月](https://zh.moegirl.org.cn/舰队Collection:三日月) |
+| mikazuki | 三日月(檧) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/c4230f60987eafeb20e2de569d0ebc07262400697.png)<br>旧日本帝国海军的三日月号驱逐舰（三日月(睦月型駆逐艦)） | [碧蓝航线:三日月](https://zh.moegirl.org.cn/碧蓝航线:三日月) [舰队Collection:三日月](https://zh.moegirl.org.cn/舰队Collection:三日月) |
 | mochizuki | 望月 |  | [舰队Collection:望月](https://zh.moegirl.org.cn/舰队Collection:望月) |
 | kuma | 球磨 |  | [舰队Collection:球磨](https://zh.moegirl.org.cn/舰队Collection:球磨) |
 | tama | 多摩 |  | [舰队Collection:多摩](https://zh.moegirl.org.cn/舰队Collection:多摩) |
