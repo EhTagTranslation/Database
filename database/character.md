@@ -466,7 +466,7 @@ example:
 | hatakaze | 旗风(樋) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d3e446499f5928345a121b5e57e0949c262400697.png)<br>旧日本帝国海军的旗风号驱逐舰（旗風(駆逐艦)） | [碧蓝航线:旗风](https://zh.moegirl.org.cn/碧蓝航线:旗风) [舰队Collection:旗风](https://zh.moegirl.org.cn/舰队Collection:旗风) |
 | amagiri | 天雾 |  | [舰队Collection:天雾](https://zh.moegirl.org.cn/舰队Collection:天雾) |
 | sagiri | 狭雾 |  | [舰队Collection:狭雾](https://zh.moegirl.org.cn/舰队Collection:狭雾) |
-| minazuki | 水无月 | 旧日本帝国海军的水无月号驱逐舰（水無月(睦月型駆逐艦)） | [碧蓝航线:水无月](https://zh.moegirl.org.cn/碧蓝航线:水无月) [舰队Collection:水无月](https://zh.moegirl.org.cn/舰队Collection:水无月) |
+| minazuki | 水无月(杌) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/df335fbc7f5e4ad564ff8b4077011514262400697.png)<br>旧日本帝国海军的水无月号驱逐舰（水無月(睦月型駆逐艦)） | [碧蓝航线:水无月](https://zh.moegirl.org.cn/碧蓝航线:水无月) [舰队Collection:水无月](https://zh.moegirl.org.cn/舰队Collection:水无月) |
 | i-26 | 伊26(双叶梦) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/edada78051ba855c9adb688825a02298262400697.png)<br>旧日本帝国海军的B3级潜艇“伊26”(伊号第二十六潜水艦) | [碧蓝航线:伊26](https://zh.moegirl.org.cn/碧蓝航线:伊26) [舰队Collection:伊26](https://zh.moegirl.org.cn/舰队Collection:伊26) |
 | hamanami | 滨波 |  | [舰队Collection:滨波](https://zh.moegirl.org.cn/舰队Collection:滨波) |
 | fujinami | 藤波 |  | [舰队Collection:藤波](https://zh.moegirl.org.cn/舰队Collection:藤波) |
