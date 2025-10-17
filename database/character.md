@@ -6834,7 +6834,7 @@ example:
 | ting an | 定安 | 所属作品：`azur lane`<br>![](https://ehgt.org/w/01/997/84705-9vdb2ayp.webp) |  |
 | emma frost | 艾玛·弗罗斯特 | 艾玛·弗罗斯特（英语：Emma Frost）是一名在漫威漫画中出现的虚构超级英雄，由作家克里斯·克莱蒙特和艺术家约翰·柏恩所创作。曾为超级反派组织—地狱火俱乐部的“白皇后”。艾玛·弗罗斯特首次于《Uncanny X-Men》#129中登场。<br>艾玛·弗罗斯特出生于一个富有的波士顿商人家庭，四个小孩中排行第三，哥哥Christian Frost、姐姐Adrienne Frost和妹妹Cordelia Frost。父亲Winston是一个冷酷无情和专制的人，母亲Hazel经常滥用精神药物来抗压。在学期间，艾玛的心灵感应能力开始显现。长大后的艾玛继承了大量的财富，成为价值数十亿的集团弗罗斯特国际大股东。并收到地狱火俱乐部的邀请成为“白皇后”。后来在Genosha岛上因哨兵机器人而激发第二的能力—钻石变形。与X战警合作后加入了他们，并与镭射眼产生感情。 | [维基百科](https://zh.wikipedia.org/wiki/艾瑪·佛斯特) |
 | laezel | 莱埃泽尔 | 游戏《博德之门3》中可操控的七位起源角色之一，吉斯洋基人，初始职业为战士。 |  |
-| othinus | 欧提努斯（只眼） | 欧提努斯是轻小说《新约 魔法禁书目录》及其衍生作品的重要登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/欧提努斯) |
+| othinus | 欧提努斯（只眼） | 欧提努斯是轻小说《新约 魔法禁书目录》及其衍生作品的重要登场角色。<br>![1.webp](https://p.sda1.dev/28/0bce75c34e6c275d7acd61b9719a21de/1.webp)<br>![11.webp](https://p.sda1.dev/28/aff9495a2e680479da0ca2f28c07dc59/11.webp) | [萌娘百科](https://zh.moegirl.org.cn/欧提努斯) |
 | awaki musujime | 结标淡希 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、游戏等作品的登场角色。<br>![2.webp](https://p.sda1.dev/28/01631d8547efa134e4eec9294777a1f3/2.webp) | [萌娘百科](https://zh.moegirl.org.cn/结标淡希) |
 | junko hokaze | 帆风润子 | 漫画《某科学的超电磁炮》及其衍生作品的登场角色，是主系列《魔法禁书目录》世界观下的角色之一。<br>![3.webp](https://p.sda1.dev/28/98acf07c8a448b070f13302626905aee/3.webp) | [萌娘百科](https://zh.moegirl.org.cn/帆风润子) |
 | lessar | 蕾莎 | 轻小说《魔法禁书目录》及其衍生作品的登场角色（魔法侧）。<br>![4.webp](https://p.sda1.dev/28/3a91abc710fe4339f2b98439911036b2/4.webp) | [萌娘百科](https://zh.moegirl.org.cn/蕾莎) |
