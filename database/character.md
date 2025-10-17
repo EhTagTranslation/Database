@@ -1393,7 +1393,7 @@ example:
 | shizuri mugino | 麦野沉利 | 统帅暗部组织“道具”的女王，学园都市排名第四位的超能力者。 | [萌娘百科](https://zh.moegirl.org.cn/麦野沉利) |
 | rikou takitsubo | 泷壶理后 |  |  |
 | saiai kinuhata | 绢旗最爱 |  |  |
-| frenda seivelun | 芙兰达·塞维伦 |  |  |
+| frenda seivelun | 芙兰达·塞维伦 | 小说《魔法禁书目录》、其外传漫画《某科学的超电磁炮》及其衍生作品的登场角色。<br>![12.webp](https://p.sda1.dev/28/8bbd8cf3a5db6faacfc1171533248c5a/12.webp)<br>![13.webp](https://p.sda1.dev/28/8489ac5e16e771a9d2709a26af730703/13.webp) | [萌娘百科](https://zh.moegirl.org.cn/芙兰达·塞维伦) |
 | shiage hamazura | 滨面仕上 |  |  |
 | hyouka kazakiri | 风斩冰华 |  |  |
 | harumi kiyama | 木山春生 |  |  |
