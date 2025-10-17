@@ -1378,7 +1378,7 @@ example:
 | last order | 最后之作 |  |  |
 | index librorum prohibitorum | 茵蒂克丝 |  |  |
 | kuroko shirai | 白井黑子 | ![](https://toaru-project.com/railgun_t/core_sys/images/contents/00000009/base/l1.png) |  |
-| misaki shokuhou | 食蜂操祈 |  |  |
+| misaki shokuhou | 食蜂操祈 | 轻小说《魔法禁书目录》与外传漫画《某科学的超电磁炮》、《某科学的心理掌握》及其衍生作品中的登场角色。<br>![%E9%A3%9F%E8%9C%82%E6%93%8D%E7%A5%88-%E9%AD%94%E7%A6%81%E5%B0%8F%E8%AF%B4.webp](https://p.sda1.dev/28/972e2a05a3284330f3ea6b9d4be2ba77/食蜂操祈-魔禁小说.webp) | [萌娘百科](https://zh.moegirl.org.cn/食蜂操祈) |
 | mitsuko kongou | 婚后光子 |  |  |
 | kinuho wannai | 湾内绢保 |  |  |
 | maaya awatsuki | 泡浮万彬 |  |  |
