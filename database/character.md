@@ -6837,6 +6837,7 @@ example:
 | othinus | 欧提努斯（只眼） | 欧提努斯是轻小说《新约 魔法禁书目录》及其衍生作品的重要登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/欧提努斯) |
 | awaki musujime | 结标淡希 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、游戏等作品的登场角色。<br>![2.webp](https://p.sda1.dev/28/01631d8547efa134e4eec9294777a1f3/2.webp) | [萌娘百科](https://zh.moegirl.org.cn/结标淡希) |
 | junko hokaze | 帆风润子 | 漫画《某科学的超电磁炮》及其衍生作品的登场角色，是主系列《魔法禁书目录》世界观下的角色之一。<br>![3.webp](https://p.sda1.dev/28/98acf07c8a448b070f13302626905aee/3.webp) | [萌娘百科](https://zh.moegirl.org.cn/帆风润子) |
+| lessar | 蕾莎 | 轻小说《魔法禁书目录》及其衍生作品的登场角色（魔法侧）。<br>![4.webp](https://p.sda1.dev/28/3a91abc710fe4339f2b98439911036b2/4.webp) | [萌娘百科](https://zh.moegirl.org.cn/蕾莎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
