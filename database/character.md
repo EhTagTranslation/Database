@@ -1376,7 +1376,7 @@ example:
 | komoe tsukuyomi | 月咏小萌 |  |  |
 | misaka-imouto | 御坂妹妹 | 轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。<br>![10.webp](https://p.sda1.dev/28/86b806f9adf126e6fb3fcc4b9348477d/10.webp) | [萌娘百科](https://zh.moegirl.org.cn/御坂妹妹) |
 | last order | 最后之作 |  |  |
-| index librorum prohibitorum | 茵蒂克丝 |  |  |
+| index librorum prohibitorum | 茵蒂克丝 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、漫画等作品的登场角色。<br>![14.webp](https://p.sda1.dev/28/d32e9e075f8aa62b3c96d919fe5877a8/14.webp)<br>![15.webp](https://p.sda1.dev/28/4111dd6732a25a6fd233da5df34d3f93/15.webp) | [萌娘百科](https://zh.moegirl.org.cn/茵蒂克丝) |
 | kuroko shirai | 白井黑子 | ![](https://toaru-project.com/railgun_t/core_sys/images/contents/00000009/base/l1.png) |  |
 | misaki shokuhou | 食蜂操祈 | 轻小说《魔法禁书目录》与外传漫画《某科学的超电磁炮》、《某科学的心理掌握》及其衍生作品中的登场角色。<br>![%E9%A3%9F%E8%9C%82%E6%93%8D%E7%A5%88-%E9%AD%94%E7%A6%81%E5%B0%8F%E8%AF%B4.webp](https://p.sda1.dev/28/972e2a05a3284330f3ea6b9d4be2ba77/食蜂操祈-魔禁小说.webp) | [萌娘百科](https://zh.moegirl.org.cn/食蜂操祈) |
 | mitsuko kongou | 婚后光子 |  |  |
