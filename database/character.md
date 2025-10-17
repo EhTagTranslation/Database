@@ -6839,6 +6839,7 @@ example:
 | junko hokaze | 帆风润子 | 漫画《某科学的超电磁炮》及其衍生作品的登场角色，是主系列《魔法禁书目录》世界观下的角色之一。<br>![3.webp](https://p.sda1.dev/28/98acf07c8a448b070f13302626905aee/3.webp) | [萌娘百科](https://zh.moegirl.org.cn/帆风润子) |
 | lessar | 蕾莎 | 轻小说《魔法禁书目录》及其衍生作品的登场角色（魔法侧）。<br>![4.webp](https://p.sda1.dev/28/3a91abc710fe4339f2b98439911036b2/4.webp) | [萌娘百科](https://zh.moegirl.org.cn/蕾莎) |
 | laura stuart | 萝拉·斯图亚特 | 轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。<br>![5.webp](https://p.sda1.dev/28/4ee198a277e875cc9a7679e1b309cca0/5.webp) | [萌娘百科](https://zh.moegirl.org.cn/萝拉·斯图亚特) |
+| rakko yumiya | 弓箭猎虎 | 漫画《某科学的超电磁炮》中登场的角色。<br>![6.webp](https://p.sda1.dev/28/ac9d896dc60413515de399a8eb20af86/6.webp) | [萌娘百科](https://zh.moegirl.org.cn/弓箭猎虎) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
