@@ -503,7 +503,7 @@ example:
 | sheffield | 谢菲尔德 | 英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)）英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)） | [碧蓝航线:谢菲尔德](https://zh.moegirl.org.cn/碧蓝航线:谢菲尔德) [碧蓝航线:谢菲尔德%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:谢菲尔德%28μ兵装%29) [战舰少女:谢菲尔德](https://zh.moegirl.org.cn/战舰少女:谢菲尔德) |
 | ping hai | 平海 | 中华民国海军的平海号轻巡洋舰(Ping Hai) | [碧蓝航线:平海](https://zh.moegirl.org.cn/碧蓝航线:平海) [战舰少女:平海](https://zh.moegirl.org.cn/战舰少女:平海) |
 | ning hai | 宁海 | 中华民国海军的宁海号轻巡洋舰 | [碧蓝航线:宁海](https://zh.moegirl.org.cn/碧蓝航线:宁海) [战舰少女:宁海](https://zh.moegirl.org.cn/战舰少女:宁海) |
-| formidable | 可畏 | ![](https://patchwiki.biligame.com/images/blhx/thumb/e/e9/9a6zlv9fdyqbkvvrs91nvcc6hej1qsl.jpg/525px-可畏立绘.jpg)<br>移动端游戏《碧蓝航线》中的舰娘。<br>原型为英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67) | [碧蓝航线:可畏](https://zh.moegirl.org.cn/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org.cn/战舰少女:可畏) |
+| formidable | 可畏 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/cfbebe7134650da7ce8fe9e7be57d8de262400697.png)<br>原型为英国皇家海军的可畏号装甲航空母舰（HMS Formidable (67) | [碧蓝航线:可畏](https://zh.moegirl.org.cn/碧蓝航线:可畏) [战舰少女:可畏](https://zh.moegirl.org.cn/战舰少女:可畏) |
 | admiral hipper | 希佩尔海军上将 | 纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper）纳粹德国海军的希佩尔海军上将号重巡洋舰（Admiral Hipper） | [碧蓝航线:希佩尔海军上将](https://zh.moegirl.org.cn/碧蓝航线:希佩尔海军上将) [碧蓝航线:希佩尔海军上将%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:希佩尔海军上将%28μ兵装%29) [战舰少女:希佩尔海军上将](https://zh.moegirl.org.cn/战舰少女:希佩尔海军上将) |
 | portland | 波特兰 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/65928e89d270612afd3b21aa5a9fe514262400697.png) | [碧蓝航线:波特兰](https://zh.moegirl.org.cn/碧蓝航线:波特兰) [战舰少女:波特兰](https://zh.moegirl.org.cn/战舰少女:波特兰) [战舰少女:波特](https://zh.moegirl.org.cn/战舰少女:波特) |
 | cygnet | 小天鹅 | 所属作品：`azur lane`<br>英国海军的小天鹅号驱逐舰（ HMS Cygnet (H83)） | [碧蓝航线:小天鹅](https://zh.moegirl.org.cn/碧蓝航线:小天鹅) |
