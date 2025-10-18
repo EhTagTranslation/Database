@@ -1300,7 +1300,7 @@ example:
 | bindume no kairou | ビン詰めの回廊 |  |  |
 | mitsuroh | MITSUROH |  |  |
 | milk protein | ミルクプロテイン |  |  |
-| aokihoshi | AOKIHOSHI |  |  |
+| aokihoshi | AOKIHOSHI |  | [pixiv](https://www.pixiv.net/users/11067101) |
 | brain dead | ぶれいんでっど |  |  |
 | p.p | P:P |  |  |
 | loverevo | ラブレボ |  |  |
