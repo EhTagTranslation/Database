@@ -13337,6 +13337,7 @@ example:
 | amenohimogamo | あめのひもがも |  |  |
 | azabumi | 麻布味 |  |  |
 | uzura frontier | うずらフロンティア |  |  |
+| beni murasaki | 红紫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
