@@ -13335,6 +13335,7 @@ example:
 | lemon drop | れもんどろっぷ |  |  |
 | shishimusha | 猪武者 |  |  |
 | amenohimogamo | あめのひもがも |  |  |
+| azabumi | 麻布味 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
