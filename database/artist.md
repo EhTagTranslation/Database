@@ -14093,6 +14093,7 @@ example:
 | rinri kan | リンリ缶 |  |  |
 | kagaribi flare | 篝火ふれあ |  |  |
 | ganmodoki | かのはら |  |  |
+| shiroron mochi | しろろん餅 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
