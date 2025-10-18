@@ -4787,7 +4787,7 @@ example:
 | tuscaloosa | 塔斯卡卢萨 | 塔斯卡卢萨号巡洋舰（USS Tuscaloosa，CA-37）是美国海军新奥尔良级巡洋舰的四号舰。 | [艦これ- 攻略 Wiki-Tuscaloosa](https://wikiwiki.jp/kancolle/Tuscaloosa) |
 | heywood l.e. | 海伍德·L·E | 海伍德·L·爱德华兹号驱逐舰（USS Heywood L.Edwards，DD-663）属于美国海军的弗莱彻级驱逐舰子型舰。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Heywood%20L.E.) |
 | ranger | 突击者 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/7020be689907c040fdec87a4b49d5b67262400697.png) | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Ranger) |
-| janus | 雅努斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/4fc0bd3efd49f1abae012d4a7dfd38ac298252208.png) | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Janus)<br>[舰队Collection:雅努斯](https://zh.moegirl.org.cn/舰队Collection:雅努斯) |
+| janus | 雅努斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/3453f5def7ea2a8b0400a25e22963df1262400697.png) | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Janus)<br>[舰队Collection:雅努斯](https://zh.moegirl.org.cn/舰队Collection:雅努斯) |
 | ornn | 奥恩 | 英雄联盟角色 | [百度百科](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
 | chong yue | 重岳 | ![](https://patchwiki.biligame.com/images/arknights/8/8d/g5s6n4scct8j1keesbikx1g692dixk9.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 | ethan | 伊桑 | ![](https://patchwiki.biligame.com/images/arknights/4/46/oyj0a79vjbzo8ennh4uzgfkpo8zoijk.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
