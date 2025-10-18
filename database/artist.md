@@ -1990,7 +1990,7 @@ example:
 | akisora | 秋穹 |  |  |
 | tanishi mitsuru | タニシミツル |  |  |
 | mizuno koori | 水乃コオリ |  |  |
-| akaiguppy | 全红白子 |  |  |
+| akaiguppy | 全红白子 |  | [pixiv](https://www.pixiv.net/users/2538590) [FANBOX](https://jacky8140.fanbox.cc/) |
 | etuzan jakusui | 越山弱衰 |  | [X](https://x.com/hayo_cinema) [pixiv](https://www.pixiv.net/users/120880) |
 | eiji | Eiジ |  |  |
 | oryou | おりょう |  | [pixiv](https://www.pixiv.net/users/24392) [X](https://x.com/oryoillust) [Twitter(成人向)](https://x.com/oryo) |
