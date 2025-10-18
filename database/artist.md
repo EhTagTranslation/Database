@@ -14094,6 +14094,7 @@ example:
 | kagaribi flare | 篝火ふれあ |  |  |
 | ganmodoki | かのはら |  |  |
 | shiroron mochi | しろろん餅 |  |  |
+| azabu milk | 麻布ミルク |  | [pixiv](https://www.pixiv.net/users/113905360) [X](https://x.com/AZABUMiLK) |
 
 <!--TEMPLATE:
 |  |  |  |  |
