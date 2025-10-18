@@ -492,7 +492,7 @@ example:
 | johnston | 约翰斯顿 |  | [战舰少女:约翰斯顿](https://zh.moegirl.org.cn/战舰少女:约翰斯顿) [舰队Collection:约翰斯顿](https://zh.moegirl.org.cn/舰队Collection:约翰斯顿) |
 | maestrale | 西北风 |  | [舰队Collection:西北风](https://zh.moegirl.org.cn/舰队Collection:西北风) |
 | fletcher | 弗莱彻 | 美国海军弗莱彻级驱逐舰首舰弗莱彻（USS Fletcher DD-445） | [碧蓝航线:弗莱彻](https://zh.moegirl.org.cn/碧蓝航线:弗莱彻) [战舰少女:弗莱彻](https://zh.moegirl.org.cn/战舰少女:弗莱彻) [舰队Collection:弗莱彻](https://zh.moegirl.org.cn/舰队Collection:弗莱彻) |
-| unicorn | 独角兽 | 英国皇家海军独角兽号航母（HMS Unicorn(I72)） | [碧蓝航线:独角兽](https://zh.moegirl.org.cn/碧蓝航线:独角兽) [战舰少女:独角兽](https://zh.moegirl.org.cn/战舰少女:独角兽) |
+| unicorn | 独角兽 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e0c81e26e19639cb3fdac0e17e7d57ea262400697.png)<br>英国皇家海军独角兽号航母（HMS Unicorn(I72)） | [碧蓝航线:独角兽](https://zh.moegirl.org.cn/碧蓝航线:独角兽) [战舰少女:独角兽](https://zh.moegirl.org.cn/战舰少女:独角兽) |
 | belfast | 贝尔法斯特 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5d023d2b0ec2d0e1f28065e135d8ec78262400697.png)<br>原型为英国海军的贝尔法斯特号轻巡洋舰（ HMS Belfast (C35)） | [碧蓝航线:贝尔法斯特](https://zh.moegirl.org.cn/碧蓝航线:贝尔法斯特) [战舰少女:贝尔法斯特](https://zh.moegirl.org.cn/战舰少女:贝尔法斯特) |
 | illustrious | 光辉 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/f072341a07ffa72a147049cc23979c85262400697.png)<br>原型为英国海军的光辉号装甲航空母舰（HMS Illustrious R.87） | [碧蓝航线:光辉](https://zh.moegirl.org.cn/碧蓝航线:光辉) [战舰少女:光辉](https://zh.moegirl.org.cn/战舰少女:光辉) |
 | terror | 恐怖 | 所属作品：`azur lane`<br>英国海军的恐怖号浅水重炮舰（HMS Terror (I03)） | [碧蓝航线:恐怖](https://zh.moegirl.org.cn/碧蓝航线:恐怖) |
