@@ -499,7 +499,7 @@ example:
 | vampire | 吸血鬼 |  | [碧蓝航线:吸血鬼](https://zh.moegirl.org.cn/碧蓝航线:吸血鬼) [战舰少女:吸血鬼](https://zh.moegirl.org.cn/战舰少女:吸血鬼) [战舰少女:吸血鬼(派趣服)](https://zh.moegirl.org.cn/战舰少女:吸血鬼%28派趣服%29) |
 | laffey | 拉菲 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/d903e77677b3b2395afcea58fa3e46f2298252208.png) | [碧蓝航线:拉菲](https://zh.moegirl.org.cn/碧蓝航线:拉菲) [战舰少女:拉菲(DD-459)](https://zh.moegirl.org.cn/战舰少女:拉菲%28DD-459%29) [战舰少女:拉菲(DD-724)](https://zh.moegirl.org.cn/战舰少女:拉菲%28DD-724%29) |
 | eldridge | 埃尔德里奇 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/d1f70cebcf6daf4b6058bd3572e89ca6262400697.png) | [碧蓝航线:埃尔德里奇](https://zh.moegirl.org.cn/碧蓝航线:埃尔德里奇) [战舰少女:德里](https://zh.moegirl.org.cn/战舰少女:德里) |
-| prince of wales | 威尔士亲王 | 英国海军的威尔士亲王号战列舰（HMS Prince of Wales 53） | [碧蓝航线:威尔士亲王](https://zh.moegirl.org.cn/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org.cn/战舰少女:威尔士亲王) |
+| prince of wales | 威尔士亲王 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/10c6367520882df3382e90a73b7c9c86262400697.png)<br>英国海军的威尔士亲王号战列舰（HMS Prince of Wales 53） | [碧蓝航线:威尔士亲王](https://zh.moegirl.org.cn/碧蓝航线:威尔士亲王) [战舰少女:威尔士亲王](https://zh.moegirl.org.cn/战舰少女:威尔士亲王) |
 | sheffield | 谢菲尔德 | 英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)）英国海军的谢菲尔德号轻巡洋舰（HMS Sheffield (C24)） | [碧蓝航线:谢菲尔德](https://zh.moegirl.org.cn/碧蓝航线:谢菲尔德) [碧蓝航线:谢菲尔德%28μ兵装%29](https://zh.moegirl.org.cn/碧蓝航线:谢菲尔德%28μ兵装%29) [战舰少女:谢菲尔德](https://zh.moegirl.org.cn/战舰少女:谢菲尔德) |
 | ping hai | 平海 | 中华民国海军的平海号轻巡洋舰(Ping Hai) | [碧蓝航线:平海](https://zh.moegirl.org.cn/碧蓝航线:平海) [战舰少女:平海](https://zh.moegirl.org.cn/战舰少女:平海) |
 | ning hai | 宁海 | 中华民国海军的宁海号轻巡洋舰 | [碧蓝航线:宁海](https://zh.moegirl.org.cn/碧蓝航线:宁海) [战舰少女:宁海](https://zh.moegirl.org.cn/战舰少女:宁海) |
