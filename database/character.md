@@ -525,7 +525,7 @@ example:
 | z46 | Z46 | 纳粹德国海军1936C型驱逐舰Z46 | [碧蓝航线:Z46](https://zh.moegirl.org.cn/碧蓝航线:Z46) [战舰少女:Z46](https://zh.moegirl.org.cn/战舰少女:Z46) |
 | z23 | Z23 | 所属作品：`azur lane`<br>德国海军1936A级Z23驱逐舰(German destroyer Z23) | [碧蓝航线:Z23](https://zh.moegirl.org.cn/碧蓝航线:Z23) |
 | tirpitz | 提尔比茨 | 纳粹德国海军的提尔比茨号战列舰（Tirpitz (Schiff, 1941)） | [碧蓝航线:提尔比茨](https://zh.moegirl.org.cn/碧蓝航线:提尔比茨) [战舰少女:提尔比茨](https://zh.moegirl.org.cn/战舰少女:提尔比茨) |
-| duke of york | 约克公爵 | 英国海军的约克公爵号战列舰（HMS Duke of York (17)） | [碧蓝航线:约克公爵](https://zh.moegirl.org.cn/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org.cn/战舰少女:约克公爵) [战舰少女:约克公爵(派趣服)](https://zh.moegirl.org.cn/战舰少女:约克公爵%28派趣服%29) |
+| duke of york | 约克公爵 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/23fbeeef85b8161f4ef240455329ba3a262400697.png)<br>英国海军的约克公爵号战列舰（HMS Duke of York (17)） | [碧蓝航线:约克公爵](https://zh.moegirl.org.cn/碧蓝航线:约克公爵) [战舰少女:约克公爵](https://zh.moegirl.org.cn/战舰少女:约克公爵) [战舰少女:约克公爵(派趣服)](https://zh.moegirl.org.cn/战舰少女:约克公爵%28派趣服%29) |
 | bache | 贝奇 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/bfd67c077583d06102265df5e38d586a262400697.png) | [碧蓝航线:贝奇](https://zh.moegirl.org.cn/碧蓝航线:贝奇) |
 | sirius | 天狼星 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/1e389db26ae39caa6becbbe6e8173d84262400697.png)<br>英国海军的天狼星号轻巡洋舰（HMS Sirius (82)） | [碧蓝航线:天狼星](https://zh.moegirl.org.cn/碧蓝航线:天狼星) [战舰少女:天狼星](https://zh.moegirl.org.cn/战舰少女:天狼星) |
 | sims | 西姆斯 | 所属作品：`azur lane`<br>美国海军西姆斯级驱逐舰首舰西姆斯(USS Sims(DD-409)) | [碧蓝航线:西姆斯](https://zh.moegirl.org.cn/碧蓝航线:西姆斯) |
