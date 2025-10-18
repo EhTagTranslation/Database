@@ -13336,6 +13336,7 @@ example:
 | shishimusha | 猪武者 |  |  |
 | amenohimogamo | あめのひもがも |  |  |
 | azabumi | 麻布味 |  |  |
+| uzura frontier | うずらフロンティア |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
