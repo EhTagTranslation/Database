@@ -513,7 +513,7 @@ example:
 | st. louis | 圣路易斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b81b19d361e0abf5304ba406e4394830262400697.png) | [碧蓝航线:圣路易斯](https://zh.moegirl.org.cn/碧蓝航线:圣路易斯) [战舰少女:圣路易斯](https://zh.moegirl.org.cn/战舰少女:圣路易斯) |
 | san diego | 圣地亚哥(圣戴安娜) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b76328453ea5db5c18212b6e3fd03ac6262400697.png) | [碧蓝航线:圣地亚哥](https://zh.moegirl.org.cn/碧蓝航线:圣地亚哥) [战舰少女:圣地亚哥](https://zh.moegirl.org.cn/战舰少女:圣地亚哥) |
 | long island | 长岛 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/995e2c4cb2e5249b2010b6e04d3ae7b0262400697.png) | [碧蓝航线:长岛](https://zh.moegirl.org.cn/碧蓝航线:长岛) |
-| javelin | 标枪 | 英国皇家海军的标枪号驱逐舰（HMS Javelin (F61)） | [碧蓝航线:标枪](https://zh.moegirl.org.cn/碧蓝航线:标枪) [战舰少女:标枪](https://zh.moegirl.org.cn/战舰少女:标枪) |
+| javelin | 标枪 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/61a6667a90699a4e96fd4e269a2c9f3d262400697.png)<br>英国皇家海军的标枪号驱逐舰（HMS Javelin (F61)） | [碧蓝航线:标枪](https://zh.moegirl.org.cn/碧蓝航线:标枪) [战舰少女:标枪](https://zh.moegirl.org.cn/战舰少女:标枪) |
 | nelson | 纳尔逊 | 英国海军的纳尔逊号战列舰（ HMS Nelson (28)） | [碧蓝航线:纳尔逊](https://zh.moegirl.org.cn/碧蓝航线:纳尔逊) [战舰少女:纳尔逊](https://zh.moegirl.org.cn/战舰少女:纳尔逊) [舰队Collection:纳尔逊](https://zh.moegirl.org.cn/舰队Collection:纳尔逊) |
 | rodney | 罗德尼 | 英国海军的罗德尼号战列舰（ HMS Rodney (29)） | [碧蓝航线:罗德尼](https://zh.moegirl.org.cn/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org.cn/战舰少女:罗德尼) |
 | enterprise | 企业 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/07bae4e7f2dbafab62d8606c8bdf7567262400697.png) | [碧蓝航线:企业](https://zh.moegirl.org.cn/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org.cn/战舰少女:企业) |
