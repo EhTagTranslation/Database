@@ -4525,7 +4525,7 @@ example:
 | ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
 | joey | 乔伊 |  |  |
 | feng min | 凤敏 |  |  |
-| friedrich der grosse | 腓特烈大帝 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/c/cf/c69t7db5wl8ur1cxwwdcymb467le6hl.jpg/525px-腓特烈大帝换装2.jpg) | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
+| friedrich der grosse | 腓特烈大帝 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/37535af5e81715ba6f29664a85f2da50262400697.png)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/c/cf/c69t7db5wl8ur1cxwwdcymb467le6hl.jpg/525px-腓特烈大帝换装2.jpg) | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
 | mio naruse | 成濑澪 | ![](https://i.pixiv.cat/img-master/img/2025/08/03/21/38/39/133454226_p0_master1200.jpg)<br>所属作品：`shinmai maou no testament`。<br>和名义上的妹妹成濑万理亚一起，企图欺骗东城迅，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。![] | [萌娘百科](https://zh.moegirl.org.cn/成濑澪) |
 | maria naruse | 成濑万理亚 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/02/06/29/03/129931758_p1_master1200.jpg)<br>所属作品：`shinmai maou no testament`。 | [萌娘百科](https://zh.moegirl.org.cn/成濑万理亚) [Fandom](https://shinmaimaou.fandom.com/wiki/Maria_Naruse) |
 | frederica baumann | 法兰黛莉卡·鲍曼 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/13/16/49/37/133833988_p0_master1200.jpg)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>罗兹瓦尔宅邸的女仆，有四分之一的亚人血统，金发绿瞳的模样还有尖牙。菜月昴第一眼看到评价为“牙好可怕”。 | [萌娘百科](https://zh.moegirl.org.cn/法兰黛莉卡·鲍曼) |
