@@ -4522,7 +4522,7 @@ example:
 | female protagonist | 汐见琴音 | 汐见琴音（日语：汐見 琴音（しおみ ことね） (Shiomi Kotone)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3 携带版》的女性主人公。<br>和其他主人公一样，因为在游戏中没有预设名字，所以写成了主人公子，被玩家昵称为“公子”，拆开就是日本平假名的“ハム子”，也就是“哈姆子”(female protagonist)。<br>由于原始标签将kotone shiomi重定向到female protagonist，故名称翻译为汐见琴音而不是哈姆子。 | [萌娘百科](https://zh.moegirl.org.cn/女主人公%28女神异闻录3_便携版%29#) |
 | makoto yuuki | 结城理 | 结城理（日语：結城 理（ゆうき まこと） (Yuuki Makoto)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3》的男性主人公。<br>“结城理”为剧场版中的姓名，漫画中名为“有里凑”，舞台剧里则叫“汐见朔也”。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录3%29#) |
 | asuka kurashina | 仓科明日香 | 仓科明日香是sprite原作的游戏、GONZO改编的动画《苍之彼方的四重奏》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/仓科明日香) |
-| ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
+| ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/feca3b6cd865bda6e06ae7f93dff5667262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
 | joey | 乔伊 |  |  |
 | feng min | 凤敏 |  |  |
 | friedrich der grosse | 腓特烈大帝 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/37535af5e81715ba6f29664a85f2da50262400697.png)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/c/cf/c69t7db5wl8ur1cxwwdcymb467le6hl.jpg/525px-腓特烈大帝换装2.jpg) | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
