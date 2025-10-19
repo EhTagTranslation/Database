@@ -515,7 +515,7 @@ example:
 | long island | 长岛 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/995e2c4cb2e5249b2010b6e04d3ae7b0262400697.png) | [碧蓝航线:长岛](https://zh.moegirl.org.cn/碧蓝航线:长岛) |
 | javelin | 标枪 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/61a6667a90699a4e96fd4e269a2c9f3d262400697.png)<br>英国皇家海军的标枪号驱逐舰（HMS Javelin (F61)） | [碧蓝航线:标枪](https://zh.moegirl.org.cn/碧蓝航线:标枪) [战舰少女:标枪](https://zh.moegirl.org.cn/战舰少女:标枪) |
 | nelson | 纳尔逊 | 英国海军的纳尔逊号战列舰（ HMS Nelson (28)） | [碧蓝航线:纳尔逊](https://zh.moegirl.org.cn/碧蓝航线:纳尔逊) [战舰少女:纳尔逊](https://zh.moegirl.org.cn/战舰少女:纳尔逊) [舰队Collection:纳尔逊](https://zh.moegirl.org.cn/舰队Collection:纳尔逊) |
-| rodney | 罗德尼 | 英国海军的罗德尼号战列舰（ HMS Rodney (29)） | [碧蓝航线:罗德尼](https://zh.moegirl.org.cn/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org.cn/战舰少女:罗德尼) |
+| rodney | 罗德尼 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/33ee50463ce0855fd1c1c4d2bcca6cdf262400697.png)<br>英国海军的罗德尼号战列舰（ HMS Rodney (29)） | [碧蓝航线:罗德尼](https://zh.moegirl.org.cn/碧蓝航线:罗德尼) [战舰少女:罗德尼](https://zh.moegirl.org.cn/战舰少女:罗德尼) |
 | enterprise | 企业 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/07bae4e7f2dbafab62d8606c8bdf7567262400697.png) | [碧蓝航线:企业](https://zh.moegirl.org.cn/碧蓝航线:企业) [战舰少女:企业](https://zh.moegirl.org.cn/战舰少女:企业) |
 | queen elizabeth | 伊丽莎白女王 | 英国海军的伊丽莎白女王号战列舰（HMS Queen Elizabeth (1913)） | [碧蓝航线:伊丽莎白女王](https://zh.moegirl.org.cn/碧蓝航线:伊丽莎白女王) [战舰少女:伊丽莎白女王](https://zh.moegirl.org.cn/战舰少女:伊丽莎白女王) |
 | victorious | 胜利 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/78b9cf9b425aa213a9ba956a7c937848262400697.png)<br>同名的英国皇家海军的胜利号装甲航空母舰（HMS Victorious R38） | [碧蓝航线:胜利](https://zh.moegirl.org.cn/碧蓝航线:胜利) |
