@@ -14096,6 +14096,7 @@ example:
 | shiroron mochi | しろろん餅 |  |  |
 | azabu milk | 麻布ミルク |  | [pixiv](https://www.pixiv.net/users/113905360) [X](https://x.com/AZABUMiLK) |
 | houzui reno | 宝瑞レノ |  | [pixiv](https://www.pixiv.net/users/105675193) |
+| erokun | 工口君 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
