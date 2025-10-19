@@ -3889,7 +3889,7 @@ example:
 | reno | 里诺 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/504a1bd65673f2b3ef34fd97fa54af15262400697.png) |  |
 | aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png) |  |
 | shinano | 信浓(鵗) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
-| foxhound | 狐提 |  |  |
+| foxhound | 狐提 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5b5fe9946c3e0e31d45876563a6422c1262400697.png) |  |
 | pamiat merkuria | 水星纪念 |  |  |
 | nurnberg | 纽伦堡 |  |  |
 | nicholas | 尼古拉斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/1436698608c6259ff24b50b49db303cc262400697.png) |  |
