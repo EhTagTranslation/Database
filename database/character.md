@@ -6845,6 +6845,7 @@ example:
 | comoli harcourt | 小森·哈珂特 |  |  |
 | anan natsume | 夏目安安 | 夏目安安（日语：ナツメ アンアン）是Acacia旗下游戏《魔法少女的魔女审判》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/安安正常立绘.png/800px-安安正常立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/夏目安安) |
 | hiro nikaidou | 二阶堂希罗 | 二阶堂希罗（日语：にかいどう ヒロ）是Acacia旗下游戏《魔法少女的魔女审判》及其衍生作品的登场角色。是该游戏的主人公之一。<br>![](https://img.moegirl.org.cn/common/thumb/3/36/希罗立绘_tabs用.png/800px-希罗立绘_tabs用.png) | [萌娘百科](https://zh.moegirl.org.cn/二阶堂希罗) |
+| ema sakuraba | 樱羽艾玛 | 樱羽艾玛（日语：サクラバ エマ）是Acacia旗下游戏《魔法少女的魔女审判》及其衍生作品的登场角色。是该游戏的主人公之一。<br>![](https://img.moegirl.org.cn/common/thumb/c/ca/樱羽艾玛.png/375px-樱羽艾玛.png) | [萌娘百科](https://zh.moegirl.org.cn/樱羽艾玛) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
