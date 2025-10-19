@@ -6548,7 +6548,7 @@ example:
 | violet parr | 巴小倩 |  | [维基百科](https://zh.wikipedia.org/wiki/巴小倩) |
 | yuna | 尤娜 |  | [萌娘百科](https://zh.moegirl.org.cn/尤娜%28最终幻想%29#) |
 | she-hulk | 女浩克 |  |  |
-| manchester | 曼彻斯特 | ![](https://img.moegirl.org.cn/common/1/18/BLHX_manchesite.png)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为英国海军的曼彻斯特号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:曼彻斯特#) |
+| manchester | 曼彻斯特 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/29e96834d96f6958f3cdd93b6bb5ee58262400697.png)<br>其原型为英国海军的曼彻斯特号轻巡洋舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:曼彻斯特#) |
 | suffren | 絮弗伦 | ![](https://patchwiki.biligame.com/images/blhx/thumb/9/95/5gxwy16r20g9mh4plxdit853kkpqvch.jpg/525px-絮弗伦立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。<br><br>其原型为法国海军絮弗伦级重巡洋舰一号舰絮弗伦号（French cruiser Suffren）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:絮弗伦)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/絮弗伦) |
 | evernight | 长夜月 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/bb/8gu8rbyf8ca4x1p9r9rsa259dat1bi3.png/1050px-长夜月立绘.png)<br>所属作品：`honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/长夜月) |
 | ai sorakado | 空门蓝 | 空門藍是由Key製作的遊戲《Summer Pockets》及其衍生作品的登場角色。<br>![](https://img.moegirl.org.cn/common/0/02/Summer_Pockets-Sorakado_Ai2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空门蓝) |
