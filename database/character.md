@@ -6843,6 +6843,7 @@ example:
 | mitori kouzaku | 警策看取 | 轻小说《魔法禁书目录》外传漫画《某科学的超电磁炮》及其衍生作品的登场角色。<br>![7.webp](https://p.sda1.dev/28/45bb95952c585df1ecc831b42a6b3113/7.webp) | [萌娘百科](https://zh.moegirl.org.cn/警策看取) |
 | nyaan | 尼娅安 |  |  |
 | comoli harcourt | 小森·哈珂特 |  |  |
+| anan natsume | 夏目安安 | 夏目安安（日语：ナツメ アンアン）是Acacia旗下游戏《魔法少女的魔女审判》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/e/ec/安安正常立绘.png/800px-安安正常立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/夏目安安) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
