@@ -478,7 +478,7 @@ example:
 | i-14 | 伊14 |  | [舰队Collection:伊14](https://zh.moegirl.org.cn/舰队Collection:伊14) |
 | gangut | 甘古特 | 苏联海军的甘古特号战列舰 | [碧蓝航线:甘古特](https://zh.moegirl.org.cn/碧蓝航线:甘古特) [舰队Collection:甘古特(十月革命)](https://zh.moegirl.org.cn/舰队Collection:甘古特) |
 | tashkent | 塔什干 | 苏联海军的塔什干号驱逐舰(Tashkent) | [碧蓝航线:塔什干](https://zh.moegirl.org.cn/碧蓝航线:塔什干) [战舰少女:塔什干](https://zh.moegirl.org.cn/战舰少女:塔什干) [舰队Collection:塔什干](https://zh.moegirl.org.cn/舰队Collection:塔什干) |
-| ark royal | 皇家方舟 | 英国海军的皇家方舟号航空母舰（ HMS Ark Royal (91)） | [碧蓝航线:皇家方舟](https://zh.moegirl.org.cn/碧蓝航线:皇家方舟) [战舰少女:皇家方舟](https://zh.moegirl.org.cn/战舰少女:皇家方舟) [舰队Collection:皇家方舟](https://zh.moegirl.org.cn/舰队Collection:皇家方舟) |
+| ark royal | 皇家方舟 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/12f50574d9890c512204b9c6a51daf8e262400697.png)<br>英国海军的皇家方舟号航空母舰（ HMS Ark Royal (91)） | [碧蓝航线:皇家方舟](https://zh.moegirl.org.cn/碧蓝航线:皇家方舟) [战舰少女:皇家方舟](https://zh.moegirl.org.cn/战舰少女:皇家方舟) [舰队Collection:皇家方舟](https://zh.moegirl.org.cn/舰队Collection:皇家方舟) |
 | shimushu | 占守 |  | [舰队Collection:占守](https://zh.moegirl.org.cn/舰队Collection:占守) |
 | kunashiri | 国后 |  | [舰队Collection:国后](https://zh.moegirl.org.cn/舰队Collection:国后) |
 | jervis | 贾维斯 \| 杰维斯 | 1.贾维斯(Jervis)，所属作品:`p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d691cb72ec360529e0ddfb9c79e71460262400697.png)<br>2.杰维斯(Jervis)，所属作品:`p:kantai collection`<br>![](https://img.moegirl.org.cn/common/6/63/69400468_p0.jpg) | 1.[碧蓝航线:贾维斯](https://zh.moegirl.org.cn/碧蓝航线:贾维斯)<br>2.[舰队Collection:杰维斯](https://zh.moegirl.org.cn/舰队Collection:杰维斯) |
