@@ -6842,6 +6842,7 @@ example:
 | rakko yumiya | 弓箭猎虎 | 漫画《某科学的超电磁炮》中登场的角色。<br>![6.webp](https://p.sda1.dev/28/ac9d896dc60413515de399a8eb20af86/6.webp) | [萌娘百科](https://zh.moegirl.org.cn/弓箭猎虎) |
 | mitori kouzaku | 警策看取 | 轻小说《魔法禁书目录》外传漫画《某科学的超电磁炮》及其衍生作品的登场角色。<br>![7.webp](https://p.sda1.dev/28/45bb95952c585df1ecc831b42a6b3113/7.webp) | [萌娘百科](https://zh.moegirl.org.cn/警策看取) |
 | nyaan | 尼娅安 |  |  |
+| comoli harcourt | 小森·哈珂特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
