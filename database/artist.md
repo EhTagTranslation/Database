@@ -14106,6 +14106,7 @@ example:
 | pantheon eve | pantheon EVE |  | [pixiv](https://www.pixiv.net/users/62855830) [FANBOX](https://pantheoneve.fanbox.cc/) [X](https://x.com/pantheon_eve) |
 | unfairr | Unfairr |  | [pixiv](https://www.pixiv.net/users/44922986) [Patreon](https://www.patreon.com/unfairr) |
 | mimyo | MIMYOミミョウ |  | [pixiv](https://www.pixiv.net/users/8142510) [FANBOX](https://mimyo.fanbox.cc/)<br>[Patreon](https://www.patreon.com/mimyoo) [Gumroad](https://gumroad.com/mimyo) |
+| mochirong | モチロン |  | [pixiv](https://www.pixiv.net/users/6005584) [FANBOX](https://mochirong.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
