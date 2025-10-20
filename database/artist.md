@@ -14109,6 +14109,7 @@ example:
 | mochirong | モチロン |  | [pixiv](https://www.pixiv.net/users/6005584) [FANBOX](https://mochirong.fanbox.cc/) |
 | zumi | Zumi |  | [pixiv](https://www.pixiv.net/users/15589982) [X](https://x.com/ZumiDraws) |
 | atdan | 原子Dan |  |  |
+| ruochong | 鶸虫wlom |  | [pixiv](https://www.pixiv.net/users/6048589) |
 
 <!--TEMPLATE:
 |  |  |  |  |
