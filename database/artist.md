@@ -14099,7 +14099,7 @@ example:
 | erokun | 工口君 |  |  |
 | miyashiro yousuke | ミヤシロヨースケ |  | [pixiv](https://www.pixiv.net/users/36360069) |
 | natsushima memo | 夏嶋めも |  |  |
-| yijiufantexi | 范特西 | 依旧范特西<br>Pixiv ID:32797928<br>[https://i0.hdslb.com/bfs/new\_dyn/68c14b1a4487b381e7f8bcdb027be3b016662915.jpg@1052w\_!web-dynamic.avif](https://i0.hdslb.com/bfs/new_dyn/68c14b1a4487b381e7f8bcdb027be3b016662915.jpg@1052w_!web-dynamic.avif) |  |
+| yijiufantexi | 范特西 | 依旧范特西<br>Pixiv ID:32797928 | [pixiv](https://www.pixiv.net/users/32797928) |
 
 <!--TEMPLATE:
 |  |  |  |  |
