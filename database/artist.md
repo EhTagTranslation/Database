@@ -14104,6 +14104,7 @@ example:
 | aran-k | アランK |  | [pixiv](https://www.pixiv.net/users/18514610) [FANBOX](https://www.fanbox.cc/@arank) |
 | sy4 | sy4 |  |  |
 | pantheon eve | pantheon EVE |  | [pixiv](https://www.pixiv.net/users/62855830) [FANBOX](https://pantheoneve.fanbox.cc/) [X](https://x.com/pantheon_eve) |
+| unfairr | Unfairr |  | [pixiv](https://www.pixiv.net/users/44922986) [Patreon](https://www.patreon.com/unfairr) |
 
 <!--TEMPLATE:
 |  |  |  |  |
