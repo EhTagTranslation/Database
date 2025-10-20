@@ -14110,6 +14110,7 @@ example:
 | zumi | Zumi |  | [pixiv](https://www.pixiv.net/users/15589982) [X](https://x.com/ZumiDraws) |
 | atdan | 原子Dan |  |  |
 | ruochong | 鶸虫wlom |  | [pixiv](https://www.pixiv.net/users/6048589) |
+| wei xiao | 唯笑 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
