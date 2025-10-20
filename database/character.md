@@ -6851,6 +6851,7 @@ example:
 | kursk | 库尔斯克 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/b/ba/rc2f3gszzyok19dj6bhf820bb89nx1j.jpg/525px-库尔斯克立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/库尔斯克) |
 | marco polo | 马可·波罗 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/1/10/5dmxhqh7nuvvrc67zc9itm0rfjuahfn.jpg/525px-马可·波罗立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/马可·波罗) |
 | alabama | 阿拉巴马 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/27/gu8bpgeq0y5pkr5khxbb68cn5jm14vf.jpg/525px-阿拉巴马换装.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿拉巴马) |
+| scharnhorst | 沙恩霍斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/26/f1ayh76ruikglls1hdgwf4u18l7pqor.jpg/525px-沙恩霍斯特·META立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/沙恩霍斯特·META) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
