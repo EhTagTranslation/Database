@@ -13164,7 +13164,7 @@ example:
 | isoi | あいそい |  |  |
 | maij chichico | 明治乳子 |  |  |
 | guremasu | ぐれます |  |  |
-| alpha91 | Alpha91 |  |  |
+| alpha91 | Alpha |  | [pixiv](https://www.pixiv.net/users/16051830) |
 | marumaromi | まるまろみ |  |  |
 | inchore | 陰ちょれ |  |  |
 | bujidearu | ぶじである |  |  |
