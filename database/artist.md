@@ -12953,7 +12953,7 @@ example:
 | nishimoto rou | 西本ろう |  |  |
 | shiroi yoru | 白い夜 |  |  |
 | edachi hoho | えだちほほ |  |  |
-| yuzhe s | 愚者s |  |  |
+| yuzhe s | 愚者s |  | [pixiv](https://www.pixiv.net/users/3704548) [Patreon](https://www.patreon.com/mengmeng) [FANBOX](https://www.fanbox.cc/@mengmeng) |
 | sango | 参号 |  |  |
 | yoshinao | よしなお |  |  |
 | romm | ろむむ |  |  |
