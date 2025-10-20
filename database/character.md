@@ -6854,6 +6854,7 @@ example:
 | scharnhorst | 沙恩霍斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/26/f1ayh76ruikglls1hdgwf4u18l7pqor.jpg/525px-沙恩霍斯特·META立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/沙恩霍斯特·META) |
 | brest | 布雷斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/99/1iwq6bocd2lq1tppmged3r6th9wyvjp.jpg/525px-布雷斯特换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/布雷斯特) |
 | yorck | 约克（伊冯娜） | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/f/f1/oh5t8xk5oo4kv8alrhrjbulk8jlttmn.jpg/525px-约克DE换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=112189) |
+| lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/9d/jtvqoku6sthdeh63k1kpco7xzh7lzss.jpg/525px-吕佐夫换装.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
