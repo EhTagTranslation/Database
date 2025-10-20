@@ -14115,6 +14115,7 @@ example:
 | been | been |  | [pixiv](https://www.pixiv.net/users/4735018)<br>[FANBOX](https://been.fanbox.cc/)<br>[Patreon](https://www.patreon.com/hongshaorou)<br>[Gumroad](https://hongshaoroujmt.gumroad.com) |
 | tuki usagi | 月兔 | 月うさぎ |  |
 | n9at | moca |  |  |
+| kiriko | Kiriko |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
