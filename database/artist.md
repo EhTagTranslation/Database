@@ -14103,6 +14103,7 @@ example:
 | lichiko | lllichiko |  | [pixiv](https://www.pixiv.net/users/37257600) [X](https://x.com/lllichiko) |
 | aran-k | アランK |  | [pixiv](https://www.pixiv.net/users/18514610) [FANBOX](https://www.fanbox.cc/@arank) |
 | sy4 | sy4 |  |  |
+| pantheon eve | pantheon EVE |  | [pixiv](https://www.pixiv.net/users/62855830) [FANBOX](https://pantheoneve.fanbox.cc/) [X](https://x.com/pantheon_eve) |
 
 <!--TEMPLATE:
 |  |  |  |  |
