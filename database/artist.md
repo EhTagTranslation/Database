@@ -3930,7 +3930,7 @@ example:
 | akazaki yasuma | 赤崎やすま |  |  |
 | akazawa fuyuki | 赤沢冬希 |  |  |
 | akazukin | 赤ZUKIN |  |  |
-| akchu | akchu |  |  |
+| akchu | akchu |  | [FANBOX](https://akchu.fanbox.cc/posts/8431092) [Patreon](https://www.patreon.com/akchu) |
 | akechi shizuku | 明地雫 |  |  |
 | akemi | 明美 |  |  |
 | aken | あけん |  |  |
