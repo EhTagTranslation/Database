@@ -14107,6 +14107,7 @@ example:
 | unfairr | Unfairr |  | [pixiv](https://www.pixiv.net/users/44922986) [Patreon](https://www.patreon.com/unfairr) |
 | mimyo | MIMYOミミョウ |  | [pixiv](https://www.pixiv.net/users/8142510) [FANBOX](https://mimyo.fanbox.cc/)<br>[Patreon](https://www.patreon.com/mimyoo) [Gumroad](https://gumroad.com/mimyo) |
 | mochirong | モチロン |  | [pixiv](https://www.pixiv.net/users/6005584) [FANBOX](https://mochirong.fanbox.cc/) |
+| zumi | Zumi |  | [pixiv](https://www.pixiv.net/users/15589982) [X](https://x.com/ZumiDraws) |
 
 <!--TEMPLATE:
 |  |  |  |  |
