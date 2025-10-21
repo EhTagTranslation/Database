@@ -13339,6 +13339,7 @@ example:
 | uzura frontier | うずらフロンティア |  |  |
 | beni murasaki | 红紫 |  |  |
 | natsunohara | 夏乃原 |  |  |
+| aoba no kisetsu | 青羽の季節 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
