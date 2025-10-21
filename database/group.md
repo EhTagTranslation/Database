@@ -13338,6 +13338,7 @@ example:
 | azabumi | 麻布味 |  |  |
 | uzura frontier | うずらフロンティア |  |  |
 | beni murasaki | 红紫 |  |  |
+| natsunohara | 夏乃原 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
