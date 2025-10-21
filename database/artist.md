@@ -6345,7 +6345,7 @@ example:
 | juri reiqa | 樹莉麗華 |  |  |
 | jusc0 | jusc0 |  |  |
 | justy | Justy |  |  |
-| juubaori mashumaro | 十羽織ましゅまろ |  |  |
+| juubaori mashumaro | 十羽織ましゅまろ |  | [pixiv](https://www.pixiv.net/users/131795) |
 | juugatsu | 十月 |  |  |
 | juuji | 拾次 |  |  |
 | juunigatsu shoujo | 十二月少女 |  |  |
