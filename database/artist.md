@@ -14121,7 +14121,7 @@ example:
 | aoba soyogi | 青羽そよぎ |  |  |
 | byakuya yuu | 白夜ゆう |  |  |
 | rhox | rhox \| すくらさ |  |  |
-| shimon ryushiro | 子門竜士郎 |  |  |
+| shimon ryushiro | 子門竜士郎 |  | [pixiv](https://www.pixiv.net/users/2243541) |
 
 <!--TEMPLATE:
 |  |  |  |  |
