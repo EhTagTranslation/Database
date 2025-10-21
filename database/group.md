@@ -13340,6 +13340,7 @@ example:
 | beni murasaki | 红紫 |  |  |
 | natsunohara | 夏乃原 |  |  |
 | aoba no kisetsu | 青羽の季節 |  |  |
+| koisiya | 恋紙屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
