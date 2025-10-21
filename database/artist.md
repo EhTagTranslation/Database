@@ -2213,7 +2213,7 @@ example:
 | teppeki kyojin | 铁壁巨人 |  |  |
 | mimiyoshi | みみよし |  |  |
 | jinsuke | 甚助 |  |  |
-| mushoku santaro | 无色三太郎 |  |  |
+| mushoku santaro | 无色三太郎 | 無色三太郎 |  |
 | tawara hiryuu | 俵绯龙 |  |  |
 | marugoshi | まるごし |  |  |
 | missbehaviour | MissBehaviour |  |  |
