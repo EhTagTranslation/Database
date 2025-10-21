@@ -14120,6 +14120,7 @@ example:
 | natsuhara aru | 夏原アル |  |  |
 | aoba soyogi | 青羽そよぎ |  |  |
 | byakuya yuu | 白夜ゆう |  |  |
+| rhox | rhox \| すくらさ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
