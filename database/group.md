@@ -5845,7 +5845,7 @@ example:
 | hougyoku densetsu | 宝玉伝説 |  |  |
 | houjuan | 峯寿庵 |  |  |
 | houkago paradise | 放課後パラダイス |  |  |
-| houkiboshi | 箒星 |  |  |
+| houkiboshi | 彗星 |  |  |
 | hououya | 鳳凰屋 |  |  |
 | houruri | 蓬瑠璃 |  |  |
 | house game | ハウスゲーム |  |  |
