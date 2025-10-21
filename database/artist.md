@@ -14119,6 +14119,7 @@ example:
 | ling dianxia | 玲殿下 |  |  |
 | natsuhara aru | 夏原アル |  |  |
 | aoba soyogi | 青羽そよぎ |  |  |
+| byakuya yuu | 白夜ゆう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
