@@ -14118,6 +14118,7 @@ example:
 | kiriko | Kiriko |  |  |
 | ling dianxia | 玲殿下 |  |  |
 | natsuhara aru | 夏原アル |  |  |
+| aoba soyogi | 青羽そよぎ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
