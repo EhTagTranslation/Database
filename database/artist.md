@@ -14122,6 +14122,7 @@ example:
 | byakuya yuu | 白夜ゆう |  |  |
 | rhox | rhox \| すくらさ |  |  |
 | shimon ryushiro | 子門竜士郎 |  | [pixiv](https://www.pixiv.net/users/2243541) |
+| azuma kenji | 東犬二 |  | [pixiv](https://www.pixiv.net/users/1083386) |
 
 <!--TEMPLATE:
 |  |  |  |  |
