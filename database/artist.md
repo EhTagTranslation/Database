@@ -14124,6 +14124,7 @@ example:
 | shimon ryushiro | 子門竜士郎 |  | [pixiv](https://www.pixiv.net/users/2243541) |
 | azuma kenji | 東犬二 |  | [pixiv](https://www.pixiv.net/users/1083386) |
 | miaowu sama | 喵呜SAMA |  | [pixiv](https://www.pixiv.net/users/18975296) |
+| inaka no keshin | 田舎の化身 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
