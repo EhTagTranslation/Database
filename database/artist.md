@@ -14125,6 +14125,7 @@ example:
 | azuma kenji | 東犬二 |  | [pixiv](https://www.pixiv.net/users/1083386) |
 | miaowu sama | 喵呜SAMA |  | [pixiv](https://www.pixiv.net/users/18975296) |
 | inaka no keshin | 田舎の化身 |  |  |
+| umashio | うましお \| 午卯ましお | 曾用名 うましお | [pixiv](https://www.pixiv.net/users/19869093) |
 
 <!--TEMPLATE:
 |  |  |  |  |
