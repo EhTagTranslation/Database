@@ -7933,7 +7933,7 @@ example:
 | mochi kiss junkie | もちxoジャンキー |  |  |
 | mochi mochi | もちもち |  |  |
 | mochi mochi mikan | もちもちみかん |  |  |
-| mochi-ya | 餅屋 |  | [HP](http://mochiya.sakura.ne.jp) |
+| mochi-ya | 饼屋 |  | [HP](http://mochiya.sakura.ne.jp) |
 | mochimochi carnevale | もちもちCarnevale |  |  |
 | mochimochi dou | もちもち堂 |  |  |
 | mochimochitaiyo | もちもちたいよう |  |  |
