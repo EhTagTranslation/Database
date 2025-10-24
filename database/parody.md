@@ -2558,7 +2558,7 @@ example:
 | miracle nikki | 奇迹暖暖 |  |  |
 | bakuage sentai boonboomger | 爆上战队奔奔者 |  | [维基百科](https://zh.wikipedia.org/wiki/爆上戰隊BoonBoomger) [萌娘百科](https://zh.moegirl.org.cn/爆上战队奔奔者) |
 | mahou shoujo no majo saiban | 魔法少女的魔女审判 | 《魔法少女的魔女审判》（日语：魔法少女ノ魔女裁判）是由Re,AER旗下品牌Acacia制作的推理文字冒险游戏。中文版发行由CIRCLE LINE GAMES负责。<br><br>2025年6月9日推出“逝玩版”（谐音“试玩”），玩家可以体验游玩故事第1话的部分内容。游戏正式版于2025年7月18日上架Steam平台，并预定要推出Nintendo Switch版本。<br>![](https://img.moegirl.org.cn/common/thumb/6/63/魔法少女的魔女审判_cover.webp/2048px-魔法少女的魔女审判_cover.webp.png)<br>魔法少女ノ魔女裁判 | [萌娘百科](https://zh.moegirl.org.cn/魔法少女的魔女审判) |
-| ayakashi rumble | 妖怪大乱斗 | あやかしランブル—Ayakashi Rumble—妖怪大乱斗/妖怪Rumble！<br>游戏官网：[https://games.dmm.com/detail/ayarabu](https://games.dmm.com/detail/ayarabu) |  |
+| ayakashi rumble | 妖怪大乱斗 | あやかしランブル！<br>![](https://media.games.dmm.com/freegame/app/650977/200.gif) | 游戏官网：[https://games.dmm.com/detail/ayarabu](https://games.dmm.com/detail/ayarabu) |
 | legend clover | 传奇四叶草 | れじぇくろ！〜レジェンド・クローバー〜<br>与神姬project，妖怪大乱斗同属テクロス公司，动画精良，质量极高<br>![](https://media.games.dmm.com/freegame/app/611140/200.gif) | 日服：[https://games.dmm.com/detail/legeclo](https://games.dmm.com/detail/legeclo)<br>台服：[https://www.johren.net/games/legendclover-zh-tw/](https://www.johren.net/games/legendclover-zh-tw/) |
 
 <!--TEMPLATE: 
