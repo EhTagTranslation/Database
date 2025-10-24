@@ -14130,6 +14130,7 @@ example:
 | rororo | rororo |  |  |
 | torino | torino |  |  |
 | nekobell | nekobell |  |  |
+| yuzuki iro | 柚月いろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
