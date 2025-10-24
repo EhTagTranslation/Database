@@ -14132,6 +14132,7 @@ example:
 | nekobell | nekobell |  |  |
 | yuzuki iro | 柚月いろ |  |  |
 | ogre | ogre |  |  |
+| mizikayo | みじかよ(mizikayo) |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
