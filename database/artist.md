@@ -14131,6 +14131,7 @@ example:
 | torino | torino |  |  |
 | nekobell | nekobell |  |  |
 | yuzuki iro | 柚月いろ |  |  |
+| ogre | ogre |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
