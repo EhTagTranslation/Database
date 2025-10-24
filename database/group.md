@@ -13342,6 +13342,7 @@ example:
 | aoba no kisetsu | 青羽の季節 |  |  |
 | koisiya | 恋紙屋 |  |  |
 | solosimeji | ソロシメジ |  |  |
+| mauboumen | 舞う棒メン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
