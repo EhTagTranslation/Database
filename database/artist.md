@@ -7330,7 +7330,7 @@ example:
 | kurota | くろた |  |  |
 | kurota nichiru | 黒田にちる |  |  |
 | kurotama | くろたま |  |  |
-| kuroto | 黑斗 |  |  |
+| kuroto | 黑斗 | 黑斗(kuroto，こくと) |  |
 | kurotsuki | 黑月 |  |  |
 | kurotsuki kyouto | 黒月京都 |  |  |
 | kurouku | くろーく |  |  |
