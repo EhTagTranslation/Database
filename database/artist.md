@@ -14140,6 +14140,7 @@ example:
 | mhk | Mechamania |  |  |
 | majima hanabishi | マジマハナビシ |  |  |
 | sea nami | しーなみ |  |  |
+| hagi | 萩（hagi） |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
