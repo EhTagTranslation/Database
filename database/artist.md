@@ -14127,6 +14127,7 @@ example:
 | inaka no keshin | 田舎の化身 |  |  |
 | umashio | うましお \| 午卯ましお | 曾用名 うましお | [pixiv](https://www.pixiv.net/users/19869093) |
 | izumori04 | 犹守零肆 |  | [X](https://x.com/inumori04) |
+| rororo | rororo |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
