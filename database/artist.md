@@ -14139,6 +14139,7 @@ example:
 | h dash | エイチダッシュ |  |  |
 | mhk | Mechamania |  |  |
 | majima hanabishi | マジマハナビシ |  |  |
+| sea nami | しーなみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
