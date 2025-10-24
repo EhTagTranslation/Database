@@ -1539,7 +1539,7 @@ example:
 | coraline | 鬼妈妈 |  |  |
 | dororo | 多罗罗 |  |  |
 | sekiro shadows die twice | 只狼：影逝二度 |  |  |
-| kamihime project | 神姬Project |  |  |
+| kamihime project | 神姬计划 | 神姬计划（Kamihime Project，神姫PROJECT）<br>由Techcross开发、由DMM.com运营的一款收集英灵、神姬、幻兽并带领他们战斗的卡牌类游戏<br>![](https://media.games.dmm.com/freegame/app/753201/200.gif) | [萌娘百科](https://zh.moegirl.org.cn/神姬PROJECT) [维基百科](https://zh.wikipedia.org/wiki/神姬计划) |
 | merc storia | 梅露可物语 |  |  |
 | twelve forever | 永远12岁 |  | [萌娘百科](https://zh.moegirl.org.cn/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
