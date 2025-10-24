@@ -3068,7 +3068,7 @@ example:
 | toshi | toshi |  | [pixiv](https://www.pixiv.net/users/637016) |
 | taishinkokuoh anton | 大秦国王安敦 | ![图](https://pbs.twimg.com/profile_images/1035779125644914688/pwOOIT1v_400x400.jpg)<br>**作者推特头像**<br>大秦国王安敦是日本成年向漫画家，同人志创作者。作品多为`lolicon`系漫画。<br><br>单行本《小さくってもイけるのよ》<br>![图](# "https://ehgt.org/ef/6c/ef6cb4e707a25204df2e83f5bf2ae674160ea568-1347475-1400-1986-jpg_l.jpg") | [X](https://x.com/taisinkoku) |
 | wanyanaguda | 完颜阿骨打 | 完顔阿骨打 | [X](https://x.com/wanaguda) [pixiv](https://www.pixiv.net/users/8197147/) |
-| kaede | Kaede（ゆか） |  | [pixiv](https://www.pixiv.net/users/15291956) |
+| kaede | 枫（ゆか） | 白键社（tegurayuki，テグラユウキ）封面画师 | [pixiv](https://www.pixiv.net/users/15291956) |
 | fummy | ふみー |  | [X](https://x.com/fummyn) [pixiv](https://www.pixiv.net/users/197012) |
 | shobu | 菖蒲 |  | [pixiv](https://www.pixiv.net/users/2588103) |
 | sakayama shinta | 茶菓山しん太 |  |  |
