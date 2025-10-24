@@ -14134,6 +14134,7 @@ example:
 | ogre | ogre |  |  |
 | mizikayo | みじかよ(mizikayo) |  |  |
 | meion | MeioN |  |  |
+| housou-kun | Housoukun |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
