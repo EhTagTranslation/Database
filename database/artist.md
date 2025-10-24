@@ -14138,6 +14138,7 @@ example:
 | qian yu | 千羽 |  |  |
 | h dash | エイチダッシュ |  |  |
 | mhk | Mechamania |  |  |
+| majima hanabishi | マジマハナビシ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
