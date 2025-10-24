@@ -14137,6 +14137,7 @@ example:
 | housou-kun | Housoukun |  |  |
 | qian yu | 千羽 |  |  |
 | h dash | エイチダッシュ |  |  |
+| mhk | Mechamania |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
