@@ -14133,6 +14133,7 @@ example:
 | yuzuki iro | 柚月いろ |  |  |
 | ogre | ogre |  |  |
 | mizikayo | みじかよ(mizikayo) |  |  |
+| meion | MeioN |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
