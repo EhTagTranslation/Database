@@ -7445,7 +7445,7 @@ example:
 | lewis | ルイス |  |  |
 | lewis mclaren | るいす・まくられん |  |  |
 | leymei | LEYMEI |  |  |
-| liang xing | 狼星 |  |  |
+| liang xing | 梁星 |  |  |
 | libonzu | 吉啓 |  |  |
 | lielos | ゆいれそ |  |  |
 | lien | Lien |  |  |
