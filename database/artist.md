@@ -14135,6 +14135,7 @@ example:
 | mizikayo | みじかよ(mizikayo) |  |  |
 | meion | MeioN |  |  |
 | housou-kun | Housoukun |  |  |
+| qian yu | 千羽 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
