@@ -14136,6 +14136,7 @@ example:
 | meion | MeioN |  |  |
 | housou-kun | Housoukun |  |  |
 | qian yu | 千羽 |  |  |
+| h dash | エイチダッシュ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
