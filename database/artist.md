@@ -14112,7 +14112,7 @@ example:
 | ruochong | 鶸虫wlom |  | [pixiv](https://www.pixiv.net/users/6048589) |
 | wei xiao | 唯笑 |  |  |
 | tansuan | 碳酸 |  |  |
-| been | been |  | [pixiv](https://www.pixiv.net/users/4735018)<br>[FANBOX](https://been.fanbox.cc/)<br>[Patreon](https://www.patreon.com/hongshaorou)<br>[Gumroad](https://hongshaoroujmt.gumroad.com) |
+| been | been(rourou) |  | [pixiv](https://www.pixiv.net/users/4735018) [FANBOX](https://been.fanbox.cc/) [Patreon](https://www.patreon.com/hongshaorou) [Gumroad](https://hongshaoroujmt.gumroad.com) |
 | tuki usagi | 月兔 | 月うさぎ |  |
 | n9at | moca |  |  |
 | kiriko | Kiriko |  |  |
