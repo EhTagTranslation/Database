@@ -13343,6 +13343,7 @@ example:
 | koisiya | 恋紙屋 |  |  |
 | solosimeji | ソロシメジ |  |  |
 | mauboumen | 舞う棒メン |  |  |
+| nanaoya | なな百屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
