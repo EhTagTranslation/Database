@@ -14141,6 +14141,7 @@ example:
 | majima hanabishi | マジマハナビシ |  |  |
 | sea nami | しーなみ |  |  |
 | hagi | 萩（hagi） |  |  |
+| yaona | やおな |  | [X](https://x.com/naoya_ee/) [pixiv](https://www.pixiv.net/users/12576657) |
 
 <!--TEMPLATE:
 |  |  |  |  |
