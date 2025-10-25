@@ -14143,6 +14143,7 @@ example:
 | hagi | 萩（hagi） |  |  |
 | yaona | やおな |  | [X](https://x.com/naoya_ee/) [pixiv](https://www.pixiv.net/users/12576657) |
 | kumasan | 熊三 |  | [pixiv](https://www.pixiv.net/users/51462833) [X](https://x.com/KumazonJP) |
+| kokuto | こくと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
