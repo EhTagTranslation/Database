@@ -1826,7 +1826,7 @@ example:
 | mukaibi aoi | 向井弥・葵 |  |  |
 | takane nohana | たかねのはな |  |  |
 | yokoyama chicha | よこやまちちゃ |  |  |
-| yuuma | 祐马 \| ゆーま |  | [祐马的 pixiv](https://www.pixiv.net/users/1922577) [ゆーま的 pixiv](https://www.pixiv.net/users/222275) |
+| yuuma | 祐马 \| ゆーま | 祐馬 | [祐马的 pixiv](https://www.pixiv.net/users/1922577) [ゆーま的 pixiv](https://www.pixiv.net/users/222275) |
 | koide nao | 小出奈央 |  |  |
 | ueyama you | Ueyama You |  |  |
 | umino luka | 海野留珈 |  |  |
