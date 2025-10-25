@@ -14145,6 +14145,7 @@ example:
 | kumasan | 熊三 |  | [pixiv](https://www.pixiv.net/users/51462833) [X](https://x.com/KumazonJP) |
 | kokuto | こくと |  |  |
 | chifuyu appleton | 千冬アップルトン |  |  |
+| fat goose | 肥鹅不腻（fat goose） |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
