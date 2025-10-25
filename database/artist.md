@@ -14133,7 +14133,7 @@ example:
 | yuzuki iro | 柚月いろ |  |  |
 | ogre | ogre |  |  |
 | mizikayo | みじかよ(mizikayo) |  |  |
-| meion | MeioN |  |  |
+| meion | 铭音MeIoN |  | [pixiv](https://www.pixiv.net/users/5271609) [微博](https://www.weibo.com/p/1005055357501349/) [哔哩哔哩](https://space.bilibili.com/1860662) |
 | housou-kun | Housoukun |  |  |
 | qian yu | 千羽 |  |  |
 | h dash | エイチダッシュ |  |  |
