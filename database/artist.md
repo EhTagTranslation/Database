@@ -2345,7 +2345,7 @@ example:
 | sensouji kinoto | 浅草寺きのと |  |  |
 | shinozuka yuuji | 篠塚裕志 |  |  |
 | shikishiro konomi | 色白好 |  |  |
-| sakurayu hal | 樱汤ハル | ![X](https://pbs.twimg.com/profile_images/892869754762838016/5ks9kPl0_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yuusakura4242) [pixiv](https://www.pixiv.net/users/3519737) |
+| sakurayu hal | 樱汤春 | ![X](https://pbs.twimg.com/profile_images/892869754762838016/5ks9kPl0_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yuusakura4242) [pixiv](https://www.pixiv.net/users/3519737) |
 | nanao yukiji | 七尾ゆきじ |  |  |
 | herio | ヘリを |  |  |
 | aikawa arisa | 相川亚利砂 |  |  |
