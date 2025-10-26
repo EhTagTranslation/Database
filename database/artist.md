@@ -14146,6 +14146,7 @@ example:
 | kokuto | こくと |  |  |
 | chifuyu appleton | 千冬アップルトン |  |  |
 | fat goose | 肥鹅不腻（fat goose） |  |  |
+| babi | バビ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
