@@ -13345,6 +13345,7 @@ example:
 | mauboumen | 舞う棒メン |  |  |
 | nanaoya | なな百屋 |  |  |
 | taratamago | たらたまご |  |  |
+| bambi | 花森バンビ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
