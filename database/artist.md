@@ -14147,6 +14147,7 @@ example:
 | chifuyu appleton | 千冬アップルトン |  |  |
 | fat goose | 肥鹅不腻（fat goose） |  |  |
 | babi | バビ |  |  |
+| tarako | tarako \| taraku |  | [pixiv](https://www.pixiv.net/users/34106415) |
 
 <!--TEMPLATE:
 |  |  |  |  |
