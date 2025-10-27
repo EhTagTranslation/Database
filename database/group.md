@@ -13346,6 +13346,7 @@ example:
 | nanaoya | なな百屋 |  |  |
 | taratamago | たらたまご |  |  |
 | bambi | 花森バンビ |  |  |
+| refrevo comic | りふれぼコミック |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
