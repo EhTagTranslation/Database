@@ -7371,7 +7371,7 @@ example:
 | kuwabara | くわばら |  |  |
 | kuwabatake kajuen | 桑畑果樹園 |  |  |
 | kuzirazio | くじらジオ |  |  |
-| kuzu | 屑 |  |  |
+| kuzu | 屑 |  | [pixiv](https://www.pixiv.net/users/4604561) |
 | kuzukow | 屑コウ |  |  |
 | kuzuya | くずや |  |  |
 | kuzuyama mememe | 屑山めめめ |  |  |
