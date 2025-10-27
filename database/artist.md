@@ -14148,6 +14148,7 @@ example:
 | fat goose | 肥鹅不腻（fat goose） |  |  |
 | babi | バビ |  |  |
 | tarako | tarako \| taraku |  | [pixiv](https://www.pixiv.net/users/34106415) |
+| kinari an | きなり餡 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
