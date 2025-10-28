@@ -2018,7 +2018,7 @@ example:
 | inue shinsuke | 犬江しんすけ | ![X](https://pbs.twimg.com/profile_images/788343168022392832/456B_PW6_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/inushins) [pixiv](https://www.pixiv.net/users/172088) |
 | onigirikun | おにぎり君 |  |  |
 | nekosu | ねこす |  |  |
-| akahito | 赤人 |  |  |
+| akahito | 赤人 | 紅壱 | [pixiv](https://www.pixiv.net/users/55026) |
 | hanada yanochi | 花田やのち |  |  |
 | kinokomushi | きのこむし |  | [X](https://x.com/kinokomusin) [pixiv](https://www.pixiv.net/users/1218811) |
 | ichimura | イチムラ |  |  |
