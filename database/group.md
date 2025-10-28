@@ -13347,6 +13347,7 @@ example:
 | taratamago | たらたまご |  |  |
 | bambi | 花森バンビ |  |  |
 | refrevo comic | りふれぼコミック |  |  |
+| kishiwada base | 岸和田BASE |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
