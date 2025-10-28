@@ -20,7 +20,7 @@ jobs:
       - name: Build
         run: node --enable-source-maps tool create-release --strict . ./publish
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: database
           path: |
