@@ -14149,6 +14149,7 @@ example:
 | babi | バビ |  |  |
 | tarako | tarako \| taraku |  | [pixiv](https://www.pixiv.net/users/34106415) |
 | kinari an | きなり餡 |  |  |
+| onigawara keruri | 鬼瓦けるり |  | [pixiv](https://www.pixiv.net/users/8932580) |
 
 <!--TEMPLATE:
 |  |  |  |  |
