@@ -254,7 +254,7 @@ example:
 | rage | らげ |  |  |
 | chouzetsu bishoujo mine | 超绝美少女mine |  |  |
 | fried | ふりいど |  |  |
-| kouji | 孝治 |  |  |
+| kouji | 孝至 \| 孝治 |  |  |
 | sanada | さなだ |  |  |
 | shikei | しけー |  |  |
 | ruri | ルリ \| るり \| 瑠璃 | MAGNOLIA<br>StayBlue<br>VOLLMOND |  |
