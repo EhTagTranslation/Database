@@ -14154,6 +14154,7 @@ example:
 | nanatsu no umi | 七海 |  |  |
 | morino nezumi | 森野ネズミ |  |  |
 | wackan | わっく艦 |  |  |
+| hyakuokuibara | 百億いばら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
