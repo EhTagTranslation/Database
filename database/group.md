@@ -13349,6 +13349,7 @@ example:
 | refrevo comic | りふれぼコミック |  |  |
 | kishiwada base | 岸和田BASE |  |  |
 | anakichi | あな吉 |  |  |
+| ka y souken | 科Y総研 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
