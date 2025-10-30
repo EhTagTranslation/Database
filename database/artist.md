@@ -14157,6 +14157,7 @@ example:
 | hyakuokuibara | 百億いばら |  |  |
 | alihina | 有雏 |  |  |
 | uchiyama aki | 内山亜紀 |  |  |
+| rukia | 琉煌 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
