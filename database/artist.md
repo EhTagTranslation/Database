@@ -14155,7 +14155,7 @@ example:
 | morino nezumi | 森野ネズミ |  |  |
 | wackan | わっく艦 |  |  |
 | hyakuokuibara | 百億いばら |  |  |
-| alihina | 有雛 |  |  |
+| alihina | 有雏 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
