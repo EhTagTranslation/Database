@@ -14152,6 +14152,7 @@ example:
 | onigawara keruri | 鬼瓦けるり |  | [pixiv](https://www.pixiv.net/users/8932580) |
 | chingero | ちんげろ |  |  |
 | nanatsu no umi | 七海 |  |  |
+| morino nezumi | 森野ネズミ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
