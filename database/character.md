@@ -1948,7 +1948,7 @@ example:
 | ibaraki douji | 茨木童子 | ![图](https://ehgt.org/2f/f0/2ff02d6d90de4d6a9664dea64c6e8dd319861476-2784584-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/茨木童子%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/茨木童子) |
 | anne bonny | 安妮·伯妮 |  |  |
 | mary read | 玛莉·瑞德 |  |  |
-| brynhildr | 布伦希尔德 | ![图](https://ehgt.org/f0/52/f052ba3e9b2a60e3fa3315c1370d6a24c5a1c1b8-2818493-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布伦希尔德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布伦希尔德) |
+| brynhildr | 布伦希尔德 | ①所属作品：FGO<br>![图](https://ehgt.org/f0/52/f052ba3e9b2a60e3fa3315c1370d6a24c5a1c1b8-2818493-1024-1448-png_l.jpg)<br><br>②所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7d17808633412737b5bdc296f743bde7262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/布伦希尔德%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布伦希尔德) |
 | cleopatra | 克里奥帕特拉 | ![图](https://ehgt.org/5c/50/5c50abef425738865c105800231b6d749fe965b8-3208948-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/克娄巴特拉%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/克娄巴特拉) |
 | ereshkigal | 埃列什基伽勒 | ![图](https://ehgt.org/b5/cc/b5cc74d8354a7a90dfdb727811fc61f6f1ac5640-2667442-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/埃列什基伽勒%28Fate%29#) |
 | helena blavatsky | 海伦娜·布拉瓦茨基 | 海妈、外星萝莉<br>![图](https://ehgt.org/37/b0/37b0615f519fded931d2fac3ae70499aa48e5618-2345203-1024-1448-png_l.jpg)<br>画师： `matsuryu` | [萌娘百科](https://zh.moegirl.org.cn/海伦娜·布拉瓦茨基%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/海伦娜·布拉瓦茨基) |
