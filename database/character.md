@@ -6236,7 +6236,7 @@ example:
 | mayer | 梅尔 | ![](https://patchwiki.biligame.com/images/arknights/0/02/egmygx2ldx46l61xmxyms15pxrai8ka.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/梅尔%28明日方舟%29) |
 | shadowheart | 影心 | 游戏《博德之门3》的起源角色之一 |  |
 | sena juo | 十王星南 | 十王星南是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/9/99/Imas_gakuen_cidol-jsna-3-000_1-full.png/520px-Imas_gakuen_cidol-jsna-3-000_1-full.png) | [萌娘百科](https://zh.moegirl.org.cn/十王星南) |
-| mainz | 美因茨 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:美因茨) |
+| mainz | 美因茨 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/dac026e625e0d75c8cd77305a35fd829262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:美因茨) |
 | chinatsu kuramoto | 仓本千夏 | 所属作品: `p:flying witch`<br>`c:makoto kowata`的表妹，`c:kei kuramoto`的妹妹。好奇心旺盛又活泼的小学生。 | [萌娘百科](https://zh.moegirl.org.cn/仓本千夏) [Fandom](https://flying-witch.fandom.com/wiki/Chinatsu_Kuramoto) |
 | kei kuramoto | 仓本圭 | 所属作品: `p:flying witch` |  |
 | takeda shingen | 武田信玄（武田晴信） |  |  |
