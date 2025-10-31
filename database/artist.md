@@ -14160,6 +14160,7 @@ example:
 | rukia | 琉煌 |  |  |
 | fujisawa kamiya | 藤沢カミヤ |  |  |
 | yan jhia | 菸宅 |  |  |
+| sakuraide ichi zakuro | 桜出一柘榴 |  | [pixiv](https://www.pixiv.net/users/38163037) |
 
 <!--TEMPLATE:
 |  |  |  |  |
