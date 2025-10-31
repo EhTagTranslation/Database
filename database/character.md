@@ -436,7 +436,7 @@ example:
 | takanami | 高波 |  | [舰队Collection:高波](https://zh.moegirl.org.cn/舰队Collection:高波) |
 | asashimo | 朝霜 |  | [舰队Collection:朝霜](https://zh.moegirl.org.cn/舰队Collection:朝霜) |
 | u-511 | U-511 |  | [舰队Collection:U-511](https://zh.moegirl.org.cn/舰队Collection:U-511) |
-| graf zeppelin | 齐柏林伯爵 | 纳粹德国海军的齐柏林伯爵号航空母舰（Graf Zeppelin(Schiff, 1938)） | [碧蓝航线:齐柏林伯爵](https://zh.moegirl.org.cn/碧蓝航线:齐柏林伯爵) [战舰少女:齐柏林伯爵](https://zh.moegirl.org.cn/战舰少女:齐柏林伯爵) [战舰少女:齐柏林伯爵](https://zh.moegirl.org.cn/战舰少女:齐柏林伯爵) [舰队Collection:齐柏林伯爵](https://zh.moegirl.org.cn/舰队Collection:齐柏林伯爵) |
+| graf zeppelin | 齐柏林伯爵 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/773cc03896bd7b57e5e6a7d5784ba477262400697.png)<br>纳粹德国海军的齐柏林伯爵号航空母舰（Graf Zeppelin(Schiff, 1938)） | [碧蓝航线:齐柏林伯爵](https://zh.moegirl.org.cn/碧蓝航线:齐柏林伯爵) [战舰少女:齐柏林伯爵](https://zh.moegirl.org.cn/战舰少女:齐柏林伯爵) [战舰少女:齐柏林伯爵](https://zh.moegirl.org.cn/战舰少女:齐柏林伯爵) [舰队Collection:齐柏林伯爵](https://zh.moegirl.org.cn/舰队Collection:齐柏林伯爵) |
 | saratoga | 萨拉托加 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c0a2a8eba974148b9ffae4f122b90ecb262400697.png) | [碧蓝航线:萨拉托加](https://zh.moegirl.org.cn/碧蓝航线:萨拉托加) [战舰少女:萨拉托加](https://zh.moegirl.org.cn/战舰少女:萨拉托加) [舰队Collection:萨拉托加](https://zh.moegirl.org.cn/舰队Collection:萨拉托加) |
 | ro-500 | 吕500 |  | [舰队Collection:吕500](https://zh.moegirl.org.cn/舰队Collection:吕500) |
 | warspite | 厌战 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/49d93f47fc414c0fa039eb8799d19f68262400697.png)<br>英国海军的厌战号战列舰（HMS Warspite (03)） | [碧蓝航线:厌战](https://zh.moegirl.org.cn/碧蓝航线:厌战) [战舰少女:厌战](https://zh.moegirl.org.cn/战舰少女:厌战) [舰队Collection:厌战](https://zh.moegirl.org.cn/舰队Collection:厌战) |
