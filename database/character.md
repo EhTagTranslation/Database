@@ -6854,7 +6854,7 @@ example:
 | scharnhorst | 沙恩霍斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/26/f1ayh76ruikglls1hdgwf4u18l7pqor.jpg/525px-沙恩霍斯特·META立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/沙恩霍斯特·META) |
 | brest | 布雷斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/99/1iwq6bocd2lq1tppmged3r6th9wyvjp.jpg/525px-布雷斯特换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/布雷斯特) |
 | yorck | 约克（伊冯娜） | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/f/f1/oh5t8xk5oo4kv8alrhrjbulk8jlttmn.jpg/525px-约克DE换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=112189) |
-| lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/9d/jtvqoku6sthdeh63k1kpco7xzh7lzss.jpg/525px-吕佐夫换装.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
+| lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7654be1b20826d4bc412602fec42c48b262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
 | mio misumi | 深澄澪 | 深澄澪（みすみ みお，Mio Misumi)<br>《月光下的异世界之旅》（日语：月が導く異世界道中）是安住圭著作、マツモトミツアキ负责插画的轻小说，并有漫画、动画等衍生作。<br>![](https://tsukimichi.com/_assets/images/char/detail/webp/mio.webp) |  |
 | c-ms | C-MS | `p:girls frontline` |  |
 | admiral nakhimov | 纳希莫夫海军上将 | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/5e/knbg52bc82bcn6h6jhvga6qozb248t6.jpg/525px-纳希莫夫海军上将立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
