@@ -11946,7 +11946,7 @@ example:
 | yuzushiko | ゆずしこ |  |  |
 | yuzuyoukan | ゆずようかん |  |  |
 | z-s-e | z-s-e |  |  |
-| z26 | Z26 |  |  |
+| z26 | Z26 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/41ba5920eb7c8daafb9f5dda5b39f802262400697.png) |  |
 | zacro | 柘榴 |  |  |
 | zakiko | ザキコ |  |  |
 | zakkunpoppu | 雑君保プ |  |  |
