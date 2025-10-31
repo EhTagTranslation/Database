@@ -6851,7 +6851,7 @@ example:
 | kursk | 库尔斯克 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/b/ba/rc2f3gszzyok19dj6bhf820bb89nx1j.jpg/525px-库尔斯克立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/库尔斯克) |
 | marco polo | 马可·波罗 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/1/10/5dmxhqh7nuvvrc67zc9itm0rfjuahfn.jpg/525px-马可·波罗立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/马可·波罗) |
 | alabama | 阿拉巴马 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/27/gu8bpgeq0y5pkr5khxbb68cn5jm14vf.jpg/525px-阿拉巴马换装.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿拉巴马) |
-| scharnhorst | 沙恩霍斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/2/26/f1ayh76ruikglls1hdgwf4u18l7pqor.jpg/525px-沙恩霍斯特·META立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/沙恩霍斯特·META) |
+| scharnhorst | 沙恩霍斯特 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/9b739acd7b265668bc6ed6a5b8ced717262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/沙恩霍斯特·META) |
 | brest | 布雷斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/99/1iwq6bocd2lq1tppmged3r6th9wyvjp.jpg/525px-布雷斯特换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/布雷斯特) |
 | yorck | 约克（伊冯娜） | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/f/f1/oh5t8xk5oo4kv8alrhrjbulk8jlttmn.jpg/525px-约克DE换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=112189) |
 | lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7654be1b20826d4bc412602fec42c48b262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
