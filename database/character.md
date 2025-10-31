@@ -3891,7 +3891,7 @@ example:
 | shinano | 信浓(鵗) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5b5fe9946c3e0e31d45876563a6422c1262400697.png) |  |
 | pamiat merkuria | 水星纪念 |  |  |
-| nurnberg | 纽伦堡 |  |  |
+| nurnberg | 纽伦堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/24eb808503ed1e70b9c7d82b201a50cf262400697.png) |  |
 | nicholas | 尼古拉斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/1436698608c6259ff24b50b49db303cc262400697.png) |  |
 | icarus | 伊卡洛斯 |  |  |
 | palutena | 帕露蒂娜 |  |  |
