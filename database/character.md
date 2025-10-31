@@ -6859,6 +6859,7 @@ example:
 | c-ms | C-MS | `p:girls frontline` |  |
 | admiral nakhimov | 纳希莫夫海军上将 | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/5e/knbg52bc82bcn6h6jhvga6qozb248t6.jpg/525px-纳希莫夫海军上将立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
 | wamdus | 瓦姆杜斯 |  |  |
+| lina inverse | 莉娜·因巴斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
