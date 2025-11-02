@@ -13352,6 +13352,7 @@ example:
 | ka y souken | 科Y総研 |  |  |
 | wild chicken | ワイルドチキン |  |  |
 | momico-san | もみ子さん |  |  |
+| jaryuu kyoudan | 邪竜教団 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
