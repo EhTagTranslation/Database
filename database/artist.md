@@ -14166,6 +14166,7 @@ example:
 | fuwatoro | ふわとろ |  |  |
 | kajiki tetsu | カジキ鉄 |  |  |
 | tatsuwaipu | たつわのさと |  |  |
+| suppa | すっぱ |  | [pixiv](https://www.pixiv.net/users/29759363) [X](https://x.com/hagakuresuppa) |
 
 <!--TEMPLATE:
 |  |  |  |  |
