@@ -13353,6 +13353,7 @@ example:
 | wild chicken | ワイルドチキン |  |  |
 | momico-san | もみ子さん |  |  |
 | jaryuu kyoudan | 邪竜教団 |  |  |
+| milk sausage | みるくそーせーじ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
