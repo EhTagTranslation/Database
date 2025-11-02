@@ -14165,6 +14165,7 @@ example:
 | eichi | エイチ |  |  |
 | fuwatoro | ふわとろ |  |  |
 | kajiki tetsu | カジキ鉄 |  |  |
+| tatsuwaipu | たつわのさと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
