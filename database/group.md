@@ -13354,6 +13354,7 @@ example:
 | momico-san | もみ子さん |  |  |
 | jaryuu kyoudan | 邪竜教団 |  |  |
 | milk sausage | みるくそーせーじ |  |  |
+| tatsuwa no sato | たつわの里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
