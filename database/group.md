@@ -1967,7 +1967,7 @@ example:
 | crown | CROWN |  |  |
 | island of horizon | Island of Horizon |  |  |
 | elriz | ELRIZ |  |  |
-| yakiniku teikoku | 焼肉帝国 |  |  |
+| yakiniku teikoku | 烧肉帝国 |  |  |
 | gouache blue | GOUACHE BLUE |  |  |
 | duralumin love | ジュラルミンラブ |  |  |
 | ganryuu island | 巌流アイランド |  |  |
