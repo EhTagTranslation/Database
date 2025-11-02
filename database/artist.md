@@ -11750,7 +11750,7 @@ example:
 | yoshizawa miyabi | 吉沢雅 |  |  |
 | yoshizawa tomoaki | 吉澤友章 |  |  |
 | yoshizawa vanilla | 芳澤ばにら |  |  |
-| yositama | 英戦 |  |  |
+| yositama | ヨシタマ |  |  |
 | yosomono | よそ者 |  |  |
 | yosuke | ヨースケ |  |  |
 | yosyo- | ヨショー |  |  |
