@@ -13355,6 +13355,7 @@ example:
 | jaryuu kyoudan | 邪竜教団 |  |  |
 | milk sausage | みるくそーせーじ |  |  |
 | tatsuwa no sato | たつわの里 |  |  |
+| picapica suppa | picapicaすっぱ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
