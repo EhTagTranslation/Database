@@ -14167,6 +14167,7 @@ example:
 | kajiki tetsu | カジキ鉄 |  |  |
 | tatsuwaipu | たつわのさと |  |  |
 | suppa | すっぱ |  | [pixiv](https://www.pixiv.net/users/29759363) [X](https://x.com/hagakuresuppa) |
+| sekka mushi | 雪花蟲 |  | [pixiv](https://www.pixiv.net/users/111488352) |
 
 <!--TEMPLATE:
 |  |  |  |  |
