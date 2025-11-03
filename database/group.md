@@ -13357,6 +13357,7 @@ example:
 | tatsuwa no sato | たつわの里 |  |  |
 | picapica suppa | picapicaすっぱ |  |  |
 | kibayashimori | 木林森 |  |  |
+| wakabatei | わかば帝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
