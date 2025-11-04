@@ -9882,7 +9882,7 @@ example:
 | scope cat | すこぉぷCAT |  |  |
 | scotch | スコチ |  |  |
 | sdwing | SDwing |  |  |
-| seanji sariel | セアンジ・サリエル |  |  |
+| seanji sariel | セアンジ・サリエル |  | [pixiv](https://www.pixiv.net/users/4286647) |
 | secco | Secco |  |  |
 | sedra cicir | sedra・cicir |  |  |
 | segami daisuke | 瀬上大輔 |  |  |
