@@ -14173,6 +14173,7 @@ example:
 | ooishi kou | 大石コウ |  |  |
 | sakura muni | 桜むに |  |  |
 | yuu ringo | 幽林檎 |  |  |
+| natsuki gumi | 夏木グミ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
