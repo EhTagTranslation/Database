@@ -14170,6 +14170,7 @@ example:
 | sekka mushi | 雪花蟲 |  | [pixiv](https://www.pixiv.net/users/111488352) |
 | nishikasai munieru | 西葛西むにえる |  | [pixiv](https://www.pixiv.net/users/3345033) |
 | mopumopu | もぷもぷ |  |  |
+| ooishi kou | 大石コウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
