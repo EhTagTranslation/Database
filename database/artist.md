@@ -14172,6 +14172,7 @@ example:
 | mopumopu | もぷもぷ |  |  |
 | ooishi kou | 大石コウ |  |  |
 | sakura muni | 桜むに |  |  |
+| yuu ringo | 幽林檎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
