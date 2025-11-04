@@ -11797,7 +11797,7 @@ example:
 | yukako | ゆかこ |  |  |
 | yukaran nosuke | ゆからんのすけ |  |  |
 | yukatama | ゆかたま |  |  |
-| yukataro | ゆかたろ |  |  |
+| yukataro | ゆかたろ |  | [pixiv](https://www.pixiv.net/users/125057) |
 | yukawa mario | 湯川まりお |  |  |
 | yuki mau | 有希まう |  |  |
 | yuki seriya | yuki seriya |  |  |
