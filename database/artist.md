@@ -14175,6 +14175,7 @@ example:
 | yuu ringo | 幽林檎 |  |  |
 | natsuki gumi | 夏木グミ |  |  |
 | zizi | zizi | ジジ | [pixiv](https://www.pixiv.net/users/37069827) [X](https://x.com/QAcP2omHpXoLqUq) |
+| takatou sora | 高遠そら |  | [pixiv](https://www.pixiv.net/users/14932696) [X](https://x.com/auchan_nano) |
 
 <!--TEMPLATE:
 |  |  |  |  |
