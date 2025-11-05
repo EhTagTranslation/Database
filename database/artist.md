@@ -2047,7 +2047,7 @@ example:
 | shiraishinsuke | 白石Nスケ |  |  |
 | soramame-san | そら豆さん |  |  |
 | wabara hiro | 羽原ヒロ |  |  |
-| synchroaki | しんくろあき |  |  |
+| synchroaki | synchroaki \| synchron |  |  |
 | kin no tamamushi | 金ノ玉虫 |  |  |
 | yamamoto hyugo | 山本ひゅーご |  |  |
 | lithium | Lithium |  |  |
