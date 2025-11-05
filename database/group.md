@@ -13358,6 +13358,7 @@ example:
 | picapica suppa | picapicaすっぱ |  |  |
 | kibayashimori | 木林森 |  |  |
 | wakabatei | わかば帝 |  |  |
+| seinikuten | 性肉店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
