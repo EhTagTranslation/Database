@@ -2560,6 +2560,7 @@ example:
 | mahou shoujo no majo saiban | 魔法少女的魔女审判 | 《魔法少女的魔女审判》（日语：魔法少女ノ魔女裁判）是由Re,AER旗下品牌Acacia制作的推理文字冒险游戏。中文版发行由CIRCLE LINE GAMES负责。<br><br>2025年6月9日推出“逝玩版”（谐音“试玩”），玩家可以体验游玩故事第1话的部分内容。游戏正式版于2025年7月18日上架Steam平台，并预定要推出Nintendo Switch版本。<br>![](https://img.moegirl.org.cn/common/thumb/6/63/魔法少女的魔女审判_cover.webp/2048px-魔法少女的魔女审判_cover.webp.png)<br>魔法少女ノ魔女裁判 | [萌娘百科](https://zh.moegirl.org.cn/魔法少女的魔女审判) |
 | ayakashi rumble | 妖怪大乱斗 | 妖怪大乱斗（Ayakashi Rumble，あやかしランブル）<br>游戏开发商：テクロス（Techcross）<br>![](https://media.games.dmm.com/freegame/app/650977/200.gif)<br>游玩平台：<br>[https://games.dmm.com/detail/ayarabu](https://games.dmm.com/detail/ayarabu) | Wiki：[https://www.gamekee.com/ayarabu/](https://www.gamekee.com/ayarabu/) |
 | legend clover | 传奇四叶草 | 传奇四叶草（Legend Clover，れじぇくろ！〜レジェンド・クローバー〜）<br>游戏开发商：テクロス（Techcross）<br>![](https://media.games.dmm.com/freegame/app/611140/200.gif)<br>游玩平台：<br>[https://games.dmm.com/detail/legeclo](https://games.dmm.com/detail/legeclo)<br>[https://www.johren.net/games/legendclover-zh-tw/](https://www.johren.net/games/legendclover-zh-tw/) | Wiki：[https://www.gamekee.com/legeclo/](https://www.gamekee.com/legeclo/) |
+| kamen rider gavv | 假面骑士加布 | 《假面骑士加布》（日语：仮面ライダーガヴ，英语：Kamen Rider GAVV），是日本东映公司在2024年推出的《假面骑士系列》第6部令和系列特摄作品。 | [Fandom](https://kamenrider.fandom.com/wiki/Kamen_Rider_Gavv) [维基百科](https://zh.wikipedia.org/wiki/假面騎士GAVV) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
