@@ -8732,7 +8732,7 @@ example:
 | nijyou makoto | 二条マコト |  |  |
 | nikaido kai | 二階堂改 |  |  |
 | nikami | にかみ |  |  |
-| niku | にく |  |  |
+| niku | 肉 |  |  |
 | niku jill | 肉Jill |  |  |
 | nikudanmaru | 肉弾丸 |  |  |
 | nikuname | 肉ネーム |  |  |
