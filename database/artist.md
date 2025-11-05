@@ -14174,6 +14174,7 @@ example:
 | sakura muni | 桜むに |  |  |
 | yuu ringo | 幽林檎 |  |  |
 | natsuki gumi | 夏木グミ |  |  |
+| zizi | zizi | ジジ | [pixiv](https://www.pixiv.net/users/37069827) [X](https://x.com/QAcP2omHpXoLqUq) |
 
 <!--TEMPLATE:
 |  |  |  |  |
