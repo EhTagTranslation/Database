@@ -14177,6 +14177,7 @@ example:
 | zizi | zizi | ジジ | [pixiv](https://www.pixiv.net/users/37069827) [X](https://x.com/QAcP2omHpXoLqUq) |
 | takatou sora | 高遠そら |  | [pixiv](https://www.pixiv.net/users/14932696) [X](https://x.com/auchan_nano) |
 | meis | メイス |  | [pixiv](https://www.pixiv.net/users/1675811) [X](https://x.com/meis12495) |
+| sanadame | さなだめ |  | [pixiv](https://www.pixiv.net/users/45121500) |
 
 <!--TEMPLATE:
 |  |  |  |  |
