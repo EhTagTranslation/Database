@@ -13359,6 +13359,7 @@ example:
 | kibayashimori | 木林森 |  |  |
 | wakabatei | わかば帝 |  |  |
 | seinikuten | 性肉店 |  |  |
+| ibukichika | イブキチカ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
