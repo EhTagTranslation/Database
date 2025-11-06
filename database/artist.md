@@ -6664,7 +6664,7 @@ example:
 | katou koban | 加藤小判 |  |  |
 | katou takaaki | 加藤天秋 |  |  |
 | katou teppei | 加藤徹平 |  |  |
-| katou tetsuya | 加糖哲哉 |  |  |
+| katou tetsuya | 加糖哲哉 |  | [pixiv](https://www.pixiv.net/users/3611234) |
 | katsudansou | 活断層 |  |  |
 | katsuma rei | かつまれい |  |  |
 | katsuo | かつお |  |  |
