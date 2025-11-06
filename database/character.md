@@ -6862,6 +6862,7 @@ example:
 | lina inverse | 莉娜·因巴斯 |  |  |
 | akane ryuuzouji | 龙造寺茜 | 所属作品：`walkure romanze`<br>![](https://ehgt.org/w/02/088/56723-scsiaew6.webp)<br>贵弘的同班同学。<br>和美樱是亲密挚友，再加之国籍相同，经常和他们来往。一本正经又争强好胜，稍稍顽固不化。每天都毫不懈怠地鞭策自己，也因此马术相当了得。 | [萌娘百科](https://zh.moegirl.org.cn/少女骑士物语) |
 | aisu kyuubu | 久武蓝珠 | 所属作品: `p:amagi brilliant park` | [Fandom](https://amaburi.fandom.com/wiki/Aisu_Kyūbu) |
+| reiko kujirai | 鲸井令子 | 《九龙大众浪漫》的主角，在九龙寨城的房地产公司“旺来地产公司”任职的职员。 | [萌娘百科](https://zh.moegirl.org.cn/九龙大众浪漫) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
