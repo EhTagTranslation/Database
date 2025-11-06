@@ -2563,6 +2563,7 @@ example:
 | kamen rider gavv | 假面骑士加布 | 《假面骑士加布》（日语：仮面ライダーガヴ，英语：Kamen Rider GAVV），是日本东映公司在2024年推出的《假面骑士系列》第6部令和系列特摄作品。 | [Fandom](https://kamenrider.fandom.com/wiki/Kamen_Rider_Gavv) [维基百科](https://zh.wikipedia.org/wiki/假面騎士GAVV) |
 | kowloon generic romance | 九龙大众浪漫 | 《九龙大众浪漫》（日语：九龍ジェネリックロマンス，英语：Kowloon Generic Romance）是由眉月じゅん创作的一部漫画，并有电影、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/九龙大众浪漫) |
 | ninpuu sentai hurricaneger | 忍风战队破里剑者 | 《忍风战队破里剑者》（日语：忍風戦隊ハリケンジャー），是由日本东映制作的《超级战队系列》第26部特摄作品。 | [维基百科](https://zh.wikipedia.org/wiki/忍風戰隊破裏劍者) |
+| mashin sentai kiramager | 魔进战队煌辉者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
