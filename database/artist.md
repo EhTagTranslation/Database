@@ -13848,7 +13848,7 @@ example:
 | mago xiejin | 魔术师邪金 |  | [X](https://x.com/r8zv2kngNvaKjrY) [pixiv](https://www.pixiv.net/users/19986778) |
 | futarou | フタロウ |  |  |
 | haruna hisui | 春名翡翠 |  |  |
-| kusunoki majiri | やまのみき |  |  |
+| kusunoki majiri | 楠まじり \| やまのみき |  |  |
 | burisuke | ぶりすけ |  |  |
 | kouda hayato | 国府田隼人 |  |  |
 | sanada ikki | 真田一辉 |  |  |
