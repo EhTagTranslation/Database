@@ -6864,6 +6864,7 @@ example:
 | aisu kyuubu | 久武蓝珠 | 所属作品: `p:amagi brilliant park` | [Fandom](https://amaburi.fandom.com/wiki/Aisu_Kyūbu) |
 | reiko kujirai | 鲸井令子 | 《九龙大众浪漫》的主角，在九龙寨城的房地产公司“旺来地产公司”任职的职员。 | [萌娘百科](https://zh.moegirl.org.cn/九龙大众浪漫) |
 | mirei shikishima | 敷岛魅零 |  |  |
+| mamori tokonome | 处女守 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
