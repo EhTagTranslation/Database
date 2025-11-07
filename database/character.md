@@ -2998,7 +2998,7 @@ example:
 | shihoru | 席赫露 |  |  |
 | ranta | 蓝德 |  |  |
 | moguzo | 莫古索 |  |  |
-| merry | 梅莉 |  |  |
+| merry | 梅莉 \| 咩栗 | 所属作品: `p:hai to gensou no grimgar`<br>第一卷中期加入主角队伍的神官（Priest），冰山美人。刚加入队伍时沉默寡言，不合群。后经过哈尔希洛的开导，开始融入现在的队伍。随着故事的进展，性格逐渐变得开朗起来。<br><br>咩栗<br>Vtuber | [萌娘百科](https://zh.moegirl.org.cn/梅莉%28灰与幻想的格林姆迦尔%29)<br><br>[萌娘百科](https://zh.moegirl.org.cn/咩栗) |
 | tamamo cat | 玉藻猫 | ![图](https://ehgt.org/48/01/480151eae670c0832724508a4fb72fed9d80a5e2-2306863-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玉藻猫) [Mooncell](http://www.fgo.wiki/w/玉藻猫) |
 | kiritan tohoku | 东北切蒲英 | 东北切蒲英（日语：東北きりたん）是SSS合同会社发表的东北支援角色，是以日本秋田县北部的鹿角市的地方美食切蒲英（日语：“きりたんぽ”）为原型而设定的角色。同时具有UTAU、 NEUTRINO、CeVIO AI歌唱音源和VOICEROID语音声源。CV：茜屋日海夏 | [萌娘百科](https://zh.moegirl.org.cn/东北切蒲英) |
 | rikka takarada | 宝多六花 | ![](https://i0.hdslb.com/bfs/new_dyn/6fcdd885c4834ae375a5bcf2573ea833262400697.png) |  |
