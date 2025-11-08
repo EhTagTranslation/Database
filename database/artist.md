@@ -6695,7 +6695,7 @@ example:
 | kawamoto yutsuki | 河本ゆつき |  |  |
 | kawamura tsukasa | 川邑司 |  |  |
 | kawana | かわな |  |  |
-| kawanakajima | 川中岛 |  |  |
+| kawanakajima | 河中島 |  |  |
 | kawanishi yuuji | かわにしゆうじ |  |  |
 | kawano masatoshi | 川乃雅慧 |  |  |
 | kawanuma uotsuri | 川沼魚釣 |  |  |
