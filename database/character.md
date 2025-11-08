@@ -6867,6 +6867,7 @@ example:
 | mamori tokonome | 处女守 |  |  |
 | gawain | 高文 |  |  |
 | indra | 因陀罗 |  |  |
+| ordinary woman | 一般女性 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
