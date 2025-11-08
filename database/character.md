@@ -6866,6 +6866,7 @@ example:
 | mirei shikishima | 敷岛魅零 |  |  |
 | mamori tokonome | 处女守 |  |  |
 | gawain | 高文 |  |  |
+| indra | 因陀罗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
