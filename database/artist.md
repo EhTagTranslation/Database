@@ -14179,6 +14179,7 @@ example:
 | meis | メイス |  | [pixiv](https://www.pixiv.net/users/1675811) [X](https://x.com/meis12495) |
 | sanadame | さなだめ |  | [pixiv](https://www.pixiv.net/users/45121500) |
 | kuroyama yuu | 黒山有 |  |  |
+| yunachi | ゆなち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
