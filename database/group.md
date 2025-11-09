@@ -13361,6 +13361,7 @@ example:
 | seinikuten | 性肉店 |  |  |
 | ibukichika | イブキチカ |  |  |
 | unian | うに庵 |  |  |
+| 10-jikan suimin | 10時間睡眠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
