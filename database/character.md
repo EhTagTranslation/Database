@@ -6881,6 +6881,7 @@ example:
 | sasha necron | 莎夏·涅库罗 | 所属作品：`maou gakuin no futekigousha`<br>![](https://ehgt.org/w/01/971/14715-gk3e7wdl.webp) |  |
 | hikaru indo | 忌堂光 |  |  |
 | yoshiki tsujinaka | 辻中佳纪 |  |  |
+| marseillaise | 马赛曲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
