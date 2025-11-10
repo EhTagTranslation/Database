@@ -6872,6 +6872,7 @@ example:
 | isabel | 伊莎贝尔 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/16/397176.png)<br>能在空中飞行的追捕者。性格执着，只要认定目标，无论是敌人还是恋人都绝不放过。 | [https://www.gamekee.com/nikke/tj/170852.html](https://www.gamekee.com/nikke/tj/170852.html) |
 | nihilister | 尼希利斯塔 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1547/h_1547/1253/157597/2025/3/11/255206.png)<br>"莱彻女王麾下的异端者之一，长期与妮姬战斗的先锋大将。十分好战，且具有破坏倾向。" | [https://www.gamekee.com/nikke/tj/587422.html](https://www.gamekee.com/nikke/tj/587422.html) |
 | mermaid | 小美人鱼 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2339/h_2427/1253/4408/2025/4/7/572261.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2627/h_2698/1253/4408/2025/4/7/683921.png)<br>第二代童话型号之一，为女神部队的新一代机型。<br>因为名字太长，所以周遭的人都称她为【赛莲】。 | [https://www.gamekee.com/nikke/tj/660130.html](https://www.gamekee.com/nikke/tj/660130.html) |
+| teresse | 泰瑞丝 | 所属作品：`brave nine`<br>阿尔敏家族的爱女。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_932/h_1084/50118/43758/2025/0/22/106283.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_431/h_928/50118/43758/2025/0/22/364973.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1240/h_1240/50118/497891/2025/7/18/461657.png) | [https://www.gamekee.com/zsca2/tj/593606.html](https://www.gamekee.com/zsca2/tj/593606.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
