@@ -14180,6 +14180,7 @@ example:
 | sanadame | さなだめ |  | [pixiv](https://www.pixiv.net/users/45121500) |
 | kuroyama yuu | 黒山有 |  |  |
 | yunachi | ゆなち |  |  |
+| getsumen chakuriku | 月面着陸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
