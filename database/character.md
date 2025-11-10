@@ -6877,6 +6877,7 @@ example:
 | zenith | 杰尼斯 | 所属作品：`brave nine`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_981/h_1313/50118/497891/2025/0/21/509096.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_537/h_1129/50118/497891/2025/6/2/505308.png) | [https://www.gamekee.com/zsca2/tj/603226.html](https://www.gamekee.com/zsca2/tj/603226.html) |
 | loen | 罗安 | 所属作品：`brave nine`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_698/h_1240/50118/236746/2025/0/22/447360.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_512/h_1084/50118/236746/2025/0/22/26746.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_695/h_1284/50118/86082/2025/7/7/526844.png) | [https://www.gamekee.com/zsca2/tj/621763.html](https://www.gamekee.com/zsca2/tj/621763.html) |
 | liberta | 黎维塔 | 所属作品：`brave nine`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_450/h_1140/50118/43758/2025/1/6/893065.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_545/h_1162/50118/497891/2025/2/13/795493.png) | [https://www.gamekee.com/zsca2/tj/646889.html](https://www.gamekee.com/zsca2/tj/646889.html) |
+| gouden leeuw | 金狮 | 所属作品：`azur lane`<br>隶属于郁金香王国的重巡洋舰，是一位充满母性魅力的成熟女性。<br>![](https://patchwiki.biligame.com/images/blhx/thumb/7/71/5jxjxkg61uqs3lv2fe3iw2wv3zqp4sy.jpg/525px-金狮立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/金狮) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
