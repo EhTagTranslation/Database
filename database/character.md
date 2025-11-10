@@ -2286,7 +2286,7 @@ example:
 | flora | 芙洛拉 |  |  |
 | hinoka | 日乃香 |  |  |
 | tharja | 萨利娅 |  |  |
-| sakura | 樱 |  |  |
+| sakura | 樱花 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1378/h_1378/1253/157597/2025/3/11/204772.png)<br>黑道女王部队的妮姬，也是保守派黑帮组织清明会的年轻领袖。<br>与组织名称「清澈净明」的意义相符，她是个致力于带领组织遵循道义的保守派主义者。 | [https://www.gamekee.com/nikke/tj/587419.html](https://www.gamekee.com/nikke/tj/587419.html) |
 | joker | 小丑 | 美国DC漫画旗下的著名反派角色。 | [萌娘百科](https://zh.moegirl.org.cn/小丑%28蝙蝠侠%29#) |
 | rinkah | 燐火 |  |  |
 | tiki | 芝琪 | 《火焰之纹章：纹章之谜》游戏角色 |  |
