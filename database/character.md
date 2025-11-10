@@ -6664,7 +6664,7 @@ example:
 | yuki kaai | 歌爱雪 | 日语：歌愛（かあい） ユキ<br>AHS社制造的小歌姬，以VOCALOID2软件推出市场（现已升级至V4），是一名只有9岁的小学生，音源也是由一位小学生（小loli）提供。 | [萌娘百科](https://zh.moegirl.org.cn/歌爱雪) |
 | poppy | 波琵 | 日语：ポピー<br>英语：Poppy<br>《宝可梦系列》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/波琵) |
 | tsumugi kasukabe | 春日部䌷 | 春日部䌷（日语：春日部つむぎ）是由春日部筑紫所创作的应援埼玉县的虚拟形象。拥有VOICEVOX和VOCALOID声库。<br>![春日部](https://p.sda1.dev/26/06c382fe48c41e6671ada920b206e975/Kasukabe_Tsumugi.png) | [萌娘百科](https://zh.moegirl.org.cn/春日部䌷#.E7.94.BB.E5.BB.8A) |
-| eclipse | 伊柯利普斯 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/593603.html?style=style1) |
+| eclipse | 伊柯利普斯 | 所属作品：`brave nine`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1240/h_1322/50118/86082/2025/6/30/904023.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_686/h_1274/50118/86082/2025/6/30/887152.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_780/h_1240/50118/86082/2025/6/30/876049.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_1400/50118/497891/2025/5/19/867826.png) | [GAMEKEE](https://www.gamekee.com/zsca2/tj/593603.html?style=style1) |
 | morpeah | 墨菲亚 | 《棕色尘埃》中角色 | [GAMEKEE](https://www.gamekee.com/zsca2/tj/632282.html?tab=fzjn&style=style1) |
 | sameko saba | 鲨鱼子Saba | ![](https://upload.wikimedia.org/wikipedia/zh/c/c1/Samekosaba.png)<br>美国个人势英语虚拟YouTuber。 | [维基百科](https://zh.wikipedia.org/wiki/鯊魚子Saba) |
 | augusta | 奥古斯塔 | ![](https://pic.cangku.moe/images/2025/09/04/1yybR.md.webp)<br>所属作品：`wuthering waves`<br>七丘的现任总督。长照不灭的烈阳，所向披靡的旗帜。<br>她来，她见，她征服。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/奥古斯塔) |
