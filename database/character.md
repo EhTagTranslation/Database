@@ -6882,6 +6882,7 @@ example:
 | hikaru indo | 忌堂光 |  |  |
 | yoshiki tsujinaka | 辻中佳纪 |  |  |
 | marseillaise | 马赛曲 |  |  |
+| royal fortune | 皇家财富 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
