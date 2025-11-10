@@ -6857,7 +6857,7 @@ example:
 | lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7654be1b20826d4bc412602fec42c48b262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
 | mio misumi | 深澄澪 | 深澄澪（みすみ みお，Mio Misumi)<br>《月光下的异世界之旅》（日语：月が導く異世界道中）是安住圭著作、マツモトミツアキ负责插画的轻小说，并有漫画、动画等衍生作。<br>![](https://tsukimichi.com/_assets/images/char/detail/webp/mio.webp) |  |
 | c-ms | C-MS | `p:girls frontline` |  |
-| admiral nakhimov | 纳希莫夫海军上将 | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/5e/knbg52bc82bcn6h6jhvga6qozb248t6.jpg/525px-纳希莫夫海军上将立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
+| admiral nakhimov | 纳希莫夫海军上将 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/2e23166b3a5713cfcc016b362b2415b4262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
 | wamdus | 瓦姆杜斯 |  |  |
 | lina inverse | 莉娜·因巴斯 |  |  |
 | akane ryuuzouji | 龙造寺茜 | 所属作品：`walkure romanze`<br>![](https://ehgt.org/w/02/088/56723-scsiaew6.webp)<br>贵弘的同班同学。<br>和美樱是亲密挚友，再加之国籍相同，经常和他们来往。一本正经又争强好胜，稍稍顽固不化。每天都毫不懈怠地鞭策自己，也因此马术相当了得。 | [萌娘百科](https://zh.moegirl.org.cn/少女骑士物语) |
