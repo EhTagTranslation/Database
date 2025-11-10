@@ -441,7 +441,7 @@ example:
 | ro-500 | 吕500 |  | [舰队Collection:吕500](https://zh.moegirl.org.cn/舰队Collection:吕500) |
 | warspite | 厌战 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/49d93f47fc414c0fa039eb8799d19f68262400697.png)<br>英国海军的厌战号战列舰（HMS Warspite (03)） | [碧蓝航线:厌战](https://zh.moegirl.org.cn/碧蓝航线:厌战) [战舰少女:厌战](https://zh.moegirl.org.cn/战舰少女:厌战) [舰队Collection:厌战](https://zh.moegirl.org.cn/舰队Collection:厌战) |
 | iowa | 衣阿华 |  | [战舰少女:衣阿华](https://zh.moegirl.org.cn/战舰少女:衣阿华) [舰队Collection:衣阿华](https://zh.moegirl.org.cn/舰队Collection:衣阿华) |
-| littorio | 利托里奥 | 法西斯意大利海军维内托级战列舰（Italian battleship Littorio） | [碧蓝航线:利托里奥](https://zh.moegirl.org.cn/碧蓝航线:利托里奥) [舰队Collection:利托里奥(意大利)](https://zh.moegirl.org.cn/舰队Collection:利托里奥) |
+| littorio | 利托里奥 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/469e3d5f3cdba40c62bc61bad3a5d0c1262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/ca0aca37f57bfdeebda60ae0f6970dd8262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/11cb9c641606bce6975803a5e585e359262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/edcbaa0223058bbe36ac2c113c4e3263262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/05bb7c6abffc65b34745e69d7417d207262400697.png)<br>原型为法西斯意大利海军维内托级战列舰（Italian battleship Littorio） | [碧蓝航线:利托里奥](https://zh.moegirl.org.cn/碧蓝航线:利托里奥) [舰队Collection:利托里奥(意大利)](https://zh.moegirl.org.cn/舰队Collection:利托里奥) |
 | roma | 罗马 |  | [战舰少女:罗马](https://zh.moegirl.org.cn/战舰少女:罗马) [舰队Collection:罗马](https://zh.moegirl.org.cn/舰队Collection:罗马) |
 | libeccio | 西南风 |  | [舰队Collection:西南风](https://zh.moegirl.org.cn/舰队Collection:西南风) |
 | aquila | 天鹰 |  | [战舰少女:天鹰](https://zh.moegirl.org.cn/战舰少女:天鹰) [舰队Collection:天鹰](https://zh.moegirl.org.cn/舰队Collection:天鹰) |
