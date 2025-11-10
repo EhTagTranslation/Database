@@ -2564,6 +2564,7 @@ example:
 | kowloon generic romance | 九龙大众浪漫 | 《九龙大众浪漫》（日语：九龍ジェネリックロマンス，英语：Kowloon Generic Romance）是由眉月じゅん创作的一部漫画，并有电影、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/九龙大众浪漫) |
 | ninpuu sentai hurricaneger | 忍风战队破里剑者 | 《忍风战队破里剑者》（日语：忍風戦隊ハリケンジャー），是由日本东映制作的《超级战队系列》第26部特摄作品。 | [维基百科](https://zh.wikipedia.org/wiki/忍風戰隊破裏劍者) |
 | mashin sentai kiramager | 魔进战队煌辉者 |  |  |
+| saigo ni hitotsu dake onegai shite mo yoroshii deshou ka | 最后可以再拜托您一件事吗？ | ![](https://img.moegirl.org.cn/common/6/6d/最后拜托1.jpg)<br>别译《最后再拜托您一件事可以吗？》，是由日本作家凤ナナ创作的轻小说作品。<br>该作改编的同名电视动画由LIDENFILMS京都工作室制作，坂本一也担任导演，赤尾でこ负责系列构成，计划于2025年秋季播出。 | [萌娘百科](https://zh.moegirl.org.cn/最后可以再拜托您一件事吗？) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
