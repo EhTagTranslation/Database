@@ -3890,7 +3890,7 @@ example:
 | aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/bf791a8f472a1e50ac3bb9b7932e2fa5262400697.png) |  |
 | shinano | 信浓(鵗) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/a7bd62853a5879c5fe787731980ae622262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/信浓) |
 | foxhound | 狐提 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5b5fe9946c3e0e31d45876563a6422c1262400697.png) |  |
-| pamiat merkuria | 水星纪念 |  |  |
+| pamiat merkuria | 水星纪念 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/564de2d073edea4e2757b15962268ba6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/a90048c33b2a91cbfe867f458dcfe9d6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/c6cb3aa6ed857f84b1d47b0d0412c4b5262400697.png) |  |
 | nurnberg | 纽伦堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/24eb808503ed1e70b9c7d82b201a50cf262400697.png) |  |
 | nicholas | 尼古拉斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/1436698608c6259ff24b50b49db303cc262400697.png) |  |
 | icarus | 伊卡洛斯 |  |  |
