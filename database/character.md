@@ -6880,6 +6880,7 @@ example:
 | gouden leeuw | 金狮 | 所属作品：`azur lane`<br>隶属于郁金香王国的重巡洋舰，是一位充满母性魅力的成熟女性。<br>![](https://patchwiki.biligame.com/images/blhx/thumb/7/71/5jxjxkg61uqs3lv2fe3iw2wv3zqp4sy.jpg/525px-金狮立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/金狮) |
 | sasha necron | 莎夏·涅库罗 | 所属作品：`maou gakuin no futekigousha`<br>![](https://ehgt.org/w/01/971/14715-gk3e7wdl.webp) |  |
 | hikaru indo | 忌堂光 |  |  |
+| yoshiki tsujinaka | 辻中佳纪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
