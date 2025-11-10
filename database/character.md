@@ -6870,6 +6870,7 @@ example:
 | ordinary woman | 一般女性 |  |  |
 | scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | 所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br><br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
 | isabel | 伊莎贝尔 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/16/397176.png)<br>能在空中飞行的追捕者。性格执着，只要认定目标，无论是敌人还是恋人都绝不放过。 | [https://www.gamekee.com/nikke/tj/170852.html](https://www.gamekee.com/nikke/tj/170852.html) |
+| nihilister | 尼希利斯塔 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1547/h_1547/1253/157597/2025/3/11/255206.png)<br>"莱彻女王麾下的异端者之一，长期与妮姬战斗的先锋大将。十分好战，且具有破坏倾向。" | [https://www.gamekee.com/nikke/tj/587422.html](https://www.gamekee.com/nikke/tj/587422.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
