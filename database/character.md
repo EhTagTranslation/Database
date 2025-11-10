@@ -6868,6 +6868,7 @@ example:
 | gawain | 高文 |  |  |
 | indra | 因陀罗 |  |  |
 | ordinary woman | 一般女性 |  |  |
+| scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | 所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br><br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
