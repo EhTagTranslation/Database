@@ -13362,6 +13362,7 @@ example:
 | ibukichika | イブキチカ |  |  |
 | unian | うに庵 |  |  |
 | 10-jikan suimin | 10時間睡眠 |  |  |
+| dekai buki wa roman | デカイ武器はロマン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
