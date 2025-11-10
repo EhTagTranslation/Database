@@ -5408,7 +5408,7 @@ example:
 | cream the rabbit | 可利姆 |  | [索尼克百科](https://sonicpedia.org/wiki/可利姆) |
 | vanilla the rabbit | 瓦妮菈 |  | [索尼克百科](https://sonicpedia.org/wiki/瓦妮菈) |
 | blaze the cat | 布蕾姿 |  | [索尼克百科](https://sonicpedia.org/wiki/布蕾姿) |
-| duca degli abruzzi | 阿布鲁齐公爵号轻巡洋舰 | 雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号 | [维基百科]([维基百科](https://zh.wikipedia.org/wiki/阿布魯齊公爵號輕巡洋) [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿布鲁齐公爵)) |
+| duca degli abruzzi | 阿布鲁齐公爵号轻巡洋舰 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/f4abb94f6675c66713dd022f62c1e3ed262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3b0f42beb43f81db8444b74d9fbc5542262400697.png)<br><br>原型为雇佣兵队长级轻巡洋舰第五型阿布鲁齐公爵号 | [维基百科]([维基百科](https://zh.wikipedia.org/wiki/阿布魯齊公爵號輕巡洋) [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿布鲁齐公爵)) |
 | lunacub | 子月 | ![](https://media.prts.wiki/0/08/半身像_子月_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/子月) |
 | dagda | 达哥达 | ![](https://media.prts.wiki/5/5c/半身像_达格达_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/达格达) |
 | harmonie | 和弦 | ![](https://media.prts.wiki/2/27/半身像_和弦_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/和弦) |
