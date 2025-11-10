@@ -2221,7 +2221,7 @@ example:
 | ougi oshino | 忍野扇 |  |  |
 | meme oshino | 忍野咩咩 |  |  |
 | nadeko sengoku | 千石抚子 |  |  |
-| hitagi senjougahara | 战场原黑仪 |  |  |
+| hitagi senjougahara | 战场原黑仪 | 所属作品：物语系列<br>![](https://ehgt.org/w/01/876/37544-kwsyznib.webp) |  |
 | tsubasa hanekawa | 羽川翼 |  |  |
 | suruga kanbaru | 神原骏河 |  |  |
 | mayoi hachikuji | 八九寺真宵 |  |  |
