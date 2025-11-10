@@ -1111,7 +1111,7 @@ example:
 | yagyuu | 柳生 | ![](https://ehgt.org/78/93/7893450856a723366a7fbded164ce04c3c207c20-39645-384-480-jpg_l.jpg) |  |
 | yomi | 咏 | ![](https://ehgt.org/7f/d0/7fd06344abaefb41bbe89b750ce9962dddd73766-177168-384-480-jpg_l.jpg) |  |
 | yoshimitsu | 吉光 | ![](https://ehgt.org/56/c0/56c03fe31f6ca8ba38a2474cc63a7ac6a7c51afc-76910-384-480-jpg_l.jpg) |  |
-| yozakura | 夜樱 | ![](https://ehgt.org/5e/02/5e02e3fe6d3a9f4626d2020f3f4ec5037b0cd31e-59971-384-480-jpg_l.jpg) |  |
+| yozakura | 夜樱 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_1532/50118/157597/2025/0/21/630864.webp) |  |
 | yugiri | 夕雾 | ![](https://ehgt.org/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |  |
 | yumi | 雪泉 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/c8a750f7089fa87801458ff7dbeb8b57298252208.png) |  |
 | yuyaki | 夕烧 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/89744e7153bd920687d7d2eed79306f8298252208.png) |  |
