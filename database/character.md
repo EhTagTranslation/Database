@@ -4960,7 +4960,7 @@ example:
 | illumi zoldyck | 伊路米·揍敌客 | 伊路米·揍敌客（日语：イルミ·ゾルディック）是由富坚义博所创作的漫画《全职猎人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊路米·揍敌客) |
 | charybdis | 卡律布狄斯 | 所属作品：`azur lane`<br><br>![](https://i2.hdslb.com/bfs/new_dyn/8fe4c42e06acd33f1545f98d91ce234c262400697.png) |  |
 | elbe | 易北 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7cec96f930c7580183d1bceeb8f4867a262400697.png) |  |
-| anchorage | 安克雷奇 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3e2c7c659b36d82915b7220c3d99c529262400697.png) |  |
+| anchorage | 安克雷奇 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e75e47cd51154b442c31b57eb39a6c0b262400697.png)<br>![](https://i0.hdslb.com/bfs/new_dyn/3e2c7c659b36d82915b7220c3d99c529262400697.png) |  |
 | jade | 翡翠（慈玉女士） | ![](https://patchwiki.biligame.com/images/sr/thumb/d/db/hzxqo1nhxb0on8ntmv58gshidxpue61.png/1050px-翡翠立绘.png)<br>所属作品：`honkai star rail`<br>星际和平公司「战略投资部」的高级干部，「石心十人」之一，基石为「典贷翡翠」。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/翡翠) |
 | scylla | 斯库拉 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/ae7c65bbf221f49cbbe3e5ff6bb98205262400697.png)<br>其原型是英国海军的英雄号驱逐舰（HMS\_Scylla\_(98)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:斯库拉) |
 | algerie | 阿尔及利亚 |  |  |
