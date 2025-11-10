@@ -5037,7 +5037,7 @@ example:
 | endministrator | 管理员 |  | cn official website NO.1<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NpCiOn6Ny)<br><br>en official website NO.1<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[X](https://x.com/AKEndfield/status/1717391117707325628) |
 | perlica | 佩丽卡 |  | cn official website NO.3<br>[https://endfield.hypergryph.com/characters](https://endfield.hypergryph.com/characters)<br><br>cn official weibo introduction<br>[微博](https://weibo.com/7745672941/NqeZGFwWZ)<br><br>en officoal website NO.3<br>[https://endfield.gryphline.com/en-us#operators](https://endfield.gryphline.com/en-us#operators)<br><br>en official twitter introduction<br>[X](https://x.com/AKEndfield/status/1719187436734218278) |
 | absinthe | 苦艾 | ![](https://media.prts.wiki/7/78/半身像_苦艾_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/苦艾) |
-| misha necron | 米夏·涅库罗 |  |  |
+| misha necron | 米夏·涅库罗 | 所属作品：`maou gakuin no futekigousha`<br>![](https://ehgt.org/w/01/926/50451-9lntgvm3.webp) |  |
 | sky striker ace - roze | 闪刀姬-露世 | 游戏王OCG知名卡组系列角色之一 |  |
 | kooh | 酷儿 |  | [https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒](https://wiki2.gamer.com.tw/wiki.php?n=7720:酷兒) |
 | aaya saitou | 齐藤亚绫 | 16岁。高中二年级。转校新生，在`c:kiiko kawakami`车祸住院期间一直在照顾她，使得纪衣子喜欢上了她，对纪衣子的能力很有兴趣，一次在树下两个人KISS并正式进入了“非常时期”。 |  |
