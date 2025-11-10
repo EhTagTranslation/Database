@@ -4375,7 +4375,7 @@ example:
 | selvaria bles | 塞贝莉雅·布雷斯 | 塞贝莉雅·布雷斯 | [萌娘百科](https://zh.moegirl.org.cn/塞贝莉雅·布雷斯) |
 | arisa eloise beau-regard | 亚里砂·艾洛伊丝·博勒加德 | 所属作品: `p:raramagi honyarara magic` | [萌娘百科](https://zh.moegirl.org.cn/亚里砂·艾洛伊丝·博勒加德) |
 | wakamo kosaka | 狐坂若藻 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院所属，被作停学处理后送进了矫正局，之后又从矫正局越狱并成为了「七囚人」之一。<br>![](https://patchwiki.biligame.com/images/ba/3/3d/pv2y4xspaqy6h699jel8g7yd8qxndxs.png)<br>![](https://patchwiki.biligame.com/images/ba/e/eb/b1pgsr95gheryknnhx488ycep77gzjn.png) | [萌娘百科](https://zh.moegirl.org.cn/狐坂若藻)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Wakamo) |
-| high elf archer | 妖精弓手 | 所属作品：`goblin slayer`<br>![](https://i.pixiv.cat/img-master/img/2025/03/17/12/00/18/128307148_p0_master1200.jpg)<br>性格开朗活泼，精明能干，总是对哥布林杀手的各种乱来的战术表示不满，和女神官一起提出意见。 | [萌娘百科](https://zh.moegirl.org.cn/妖精弓手) |
+| high elf archer | 妖精弓手 | 所属作品：`goblin slayer`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_1300/50118/497891/2025/4/8/667158.png)<br>性格开朗活泼，精明能干，总是对哥布林杀手的各种乱来的战术表示不满，和女神官一起提出意见。 | [萌娘百科](https://zh.moegirl.org.cn/妖精弓手) |
 | big bad wolf | 大灰狼 | 大灰狼（或称大野狼）是出现在童话故事里面的虚构的角色，以凶险的狼的形象出现在故事里。例如`p:little red riding hood`里的狼。 | [维基百科](https://zh.wikipedia.org/wiki/大灰狼) |
 | nemona | 妮莫 |  |  |
 | little red riding hoods grandmother | 小红帽的外婆 |  | [Fandom](https://thelandofstories.fandom.com/wiki/Red_Riding_Hood%27s_grandmother) |
