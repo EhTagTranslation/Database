@@ -2569,7 +2569,7 @@ example:
 | class no daikirai na joshi to kekkon suru koto ni natta. | ‌我和班上最讨厌的女生结婚了 | ![](https://img.moegirl.org.cn/common/c/c3/我决定和班上最讨厌的女生结婚了_1.jpg)<br>（日语：クラスの大嫌いな女子と結婚することになった。；英语：I Got Married to the Girl I Hate Most in Class）是由天乃圣树创作、由成海七海担任插画的一部轻小说，并有漫画、动画等衍生作品。<br>故事讲述高中生北条才人与同班同学樱森朱音因意外被迫结婚，从相互厌恶到逐渐理解彼此的成长历程。 | [萌娘百科](https://zh.moegirl.org.cn/我决定和班上最讨厌的女生结婚了) |
 | maou 2099 | 魔王2099 | ![](https://img.moegirl.org.cn/common/thumb/2/21/魔王2099_1.webp/704px-魔王2099_1.webp.png)<br>《魔王2099》是由紫大悟创作、クレタ绘制插画的一部轻小说，有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔王2099) |
 | chou-tantei jikenbo rain code | 超侦探事件部：雨之代码 | 《超侦探事件部：雨之代码》（Cho-tanjeon Sageonbu Rain Code）是一款由Spiky Chunsoft开发的视觉小说游戏 |  |
-| hundred line saishuu bouei gakuen | 百日战纪 最终防卫学园 | ![](https://img.moegirl.org.cn/common/3/3f/百日战纪-最终防卫学园-.jpg)<br>《百日战纪-最终防卫学园-》（日语：HUNDRED LINE -最終防衛学園-，英语：The Hundred Line -Last Defense Academy-）是一款由Too Kyo Games、Media Vision开发、Aniplex发行的冒险+战略RPG游戏。 |  |
+| hundred line saishuu bouei gakuen | 百日战纪 最终防卫学园 | ![](https://img.moegirl.org.cn/common/3/3f/百日战纪-最终防卫学园-.jpg)<br>《百日战纪-最终防卫学园-》（日语：HUNDRED LINE -最終防衛学園-，英语：The Hundred Line -Last Defense Academy-）是一款由Too Kyo Games、Media Vision开发、Aniplex发行的冒险+战略RPG游戏。 | [萌娘百科](https://zh.moegirl.org.cn/百日战纪_-最终防卫学园-) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
