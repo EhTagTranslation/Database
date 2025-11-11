@@ -14185,6 +14185,7 @@ example:
 | tsukushi akihito | 土笔章人 |  | [X](https://x.com/tukushiA) |
 | nagatsuki sou | 長月蒼 |  |  |
 | nagatsuki chihoru | 長月ちほる |  |  |
+| nagi hikaru | 凪ひかる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
