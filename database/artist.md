@@ -14183,6 +14183,7 @@ example:
 | getsumen chakuriku | 月面着陸 |  |  |
 | esebayashi efu | エセ林エフ |  |  |
 | tsukushi akihito | 土笔章人 |  | [X](https://x.com/tukushiA) |
+| nagatsuki sou | 長月蒼 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
