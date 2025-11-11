@@ -6893,6 +6893,7 @@ example:
 | gunnthra | Gunnthra | 所属作品：`fire emblem heroes`<br>![](https://cdn.fireemblemwiki.org/thumb/4/4c/FEH_Gunnthrá_Voice_of_Dreams_01.png/225px-FEH_Gunnthrá_Voice_of_Dreams_01.png)<br>Gunnthrá （日语：スリーズSlíðr ）是尼弗尔王国（冰之国）的长公主，赫里德的妹妹，弗约姆和伊尔格的姐姐 。<br>通过心灵感应与玩家角色基兰沟通，提供支援 。 | [https://fireemblemwiki.org/wiki/Gunnthrá](https://fireemblemwiki.org/wiki/Gunnthrá) |
 | malon | Malon | 所属作品：`the legend of zelda`<br>Malon是《塞尔达传说》系列中的重要角色，首次登场于《时之笛》（Ocarina of Time），是隆隆牧场（Lon Lon Ranch）主人塔隆的女儿。 |  |
 | takane shishidou | 狮子堂高岭 | 所属作品：`sora wo kakeru shoujo` |  |
+| yubelluna | 优贝露娜 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2023/12/10/19/42/51/114113829_p1_master1200.jpg)<br>优贝露娜（Yubelluna，ユーベルーナ，Yūberūna）是菲尼克斯家族的重要角色。<br>作为瑞赛尔·菲尼克斯的皇后棋子，以「炸弹王妃」称号闻名，擅长火焰与爆炸类魔法。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
