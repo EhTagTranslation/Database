@@ -3042,7 +3042,7 @@ example:
 | lize helesta | 莉泽·赫露艾斯塔 | 莉泽·赫露艾斯塔 （ リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/莉泽·赫露艾斯塔) |
 | saionji mary | 西园寺メアリ |  |  |
 | suou patra | 周防帕特拉 | 周防帕特拉（周防パトラ・すおう（Suou） パトラ（Patra））是活跃于YouTube上的一位日本女性虚拟YouTuber，为日本いちから公司协力制作的夜の喫茶店Honey Strap的成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/周防帕托拉) |
-| shiina yuika | 椎名唯华 | 椎名唯华（日语：椎名唯華 Siina Yuika）是隶属彩虹社的虚拟Youtuber，高中一年生，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org.cn/椎名唯华) |
+| shiina yuika | 椎名唯华 | ![](https://img.moegirl.org.cn/common/9/97/大福新视觉.jpg)<br>椎名唯华（日语：椎名唯華 Siina Yuika）是隶属彩虹社的虚拟Youtuber，高中一年生，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org.cn/椎名唯华) |
 | shizuka rin | 静凛 | ![](https://img.moegirl.org.cn/common/6/6a/Shizukarin_full_01.png)<br>静凛 （日语：静凛 / しずか りんShizuka Rin ）是一名从2018年2月9日在YouTube开始活动的VTuber，业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/静凛) |
 | natori sana | 名取纱那 | 名取纱那（Natori Sana）是一名YouTube上的护士系虚拟Youtuber。将观众称为医生。YouTube频道名为さなちゃんねる。不属于任何企业与团体，完全个人活动。 | [萌娘百科](https://zh.moegirl.org.cn/名取纱那) |
 | yuzuki roa | 梦月萝娅 | 梦月萝娅（夢月ロア / Yuzuki Roa）是一名从2019年1月20日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/梦月萝娅) |
