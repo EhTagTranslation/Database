@@ -6611,7 +6611,7 @@ example:
 | lu shaotang | 陆少糖 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/916/23284-l8uq0bn9.webp)<br>坂本商店的成员。双亲被敌对组织杀害后被坂本太郎救出，有着过人的拳法。 |  |
 | boise | 博伊西（树城） | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/2b965597a75bf0791c618baec63a535d262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:博伊西) |
 | sussex | 苏塞克斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/0bf34249185ca3ef4249e78fe60d65e9262400697.png)<br>其原型为英国皇家海军苏塞克斯号重巡洋舰（HMS Sussex(96)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏塞克斯) |
-| angelica rapha redgrave | 安洁莉卡·拉法·雷德格里夫 | 轻小说《乙女游戏的世界对路人角色很不友好》及其衍生作品中的角色。![](https://img.moegirl.org.cn/common/thumb/6/60/乙女游戏世界对路人角色很不友好_漫画2.jpg/150px-乙女游戏世界对路人角色很不友好_漫画2.jpg) |  |
+| angelica rapha redgrave | 安洁莉卡·拉法·雷德格里夫 | 所属作品：`otome game sekai wa mob ni kibishii sekai desu`<br>![](https://ehgt.org/w/02/094/41354-8tmy6tcb.webp) |  |
 | nonoa miyamae | 宫前乃乃亚 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>谷山沙也加的儿时玩伴。 |  |
 | miharu ayase | 绫濑美春 | 所属作品: `p:seirei gensouki`<br>![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic05.png)<br>天川春人的青梅竹马，他一直到死前都对其怀抱着好感的少女。个性温柔，比起自己更在意重视的人。为人沉稳，处事内敛。 |  |
 | miuna shiodome | 潮留美海 | 潮留美海，日本动漫作品《来自风平浪静的明天》中的主要人物之一。身材娇小，黑色头发。性格较为沉静内敛，容易害羞，脸上的表情总是波澜不惊，内心其实很坚定。 |  |
