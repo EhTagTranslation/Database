@@ -3088,7 +3088,7 @@ example:
 | suzuka utako | 铃鹿诗子 | ![](https://img.moegirl.org.cn/common/7/70/UtakoNewyear.jpg)<br>铃鹿诗子（鈴鹿詩子/すずかうたこ）是隶属于彩虹社的虚拟YouTuber。 | [萌娘百科](https://zh.moegirl.org.cn/铃鹿诗子) |
 | mononobe alice | 物述有栖 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/9/94/物述有栖（哥特萝莉）.png)<br>物述有栖 （ 物述有栖 / Mononobe Alice ）是一名从2018年3月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/物述有栖) |
 | moira | 摩伊拉 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/b/b5/Moira.png)<br>年龄不详的女神。据本人说，掌管着命运。 | [萌娘百科](https://zh.moegirl.org.cn/摩伊拉) |
-| ienaga mugi | 家长麦 | 所属社团：`nijisanji`<br>![家长麦](https://img.moegirl.org.cn/common/9/91/家長むぎ.png)<br>家長むぎ（いえながむぎ，Ienaga Mugi）是隶属于彩虹社的虚拟Liver。<br>彩虹社2期生的一员，2018年3月5日开始活动。 | [萌娘百科](https://zh.moegirl.org.cn/家长麦) |
+| ienaga mugi | 家长麦 | ![家长麦](https://img.moegirl.org.cn/common/9/91/家長むぎ.png)<br>家長むぎ（いえながむぎ，Ienaga Mugi）是隶属于彩虹社的虚拟Liver。<br>彩虹社2期生的一员，2018年3月5日开始活动。 | [萌娘百科](https://zh.moegirl.org.cn/家长麦) |
 | aki suzuya | 铃谷秋 | 铃谷秋（Suzuya Aki）是隶属于彩虹社的虚拟YouTuber，粉丝群体群体称为アキネコ（秋猫？）。<br>初三生。看起来完全是女孩子的男孩。有看起来像是女孩的自觉，喜欢用小聪明来欺骗周围的人。性格有些腹黑，但是因为可爱所以做什么都会被原谅。 | [萌娘百科](https://zh.moegirl.org.cn/铃谷秋) |
 | yashiro kizuku | 社筑 | 社筑（日语：社築）是にじさんじ旗下的虚拟主播。从2018年6月5日开始在YouTube上活动，原SEEDs一期生出身。 | [萌娘百科](https://zh.moegirl.org.cn/社筑) |
 | uduki kou | 卯月光 |  | [萌娘百科](https://zh.moegirl.org.cn/卯月光) |
