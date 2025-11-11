@@ -6902,6 +6902,7 @@ example:
 | turenne | 人狼女王 | 所属作品：`kyoukai senjou no horizon`<br>![](https://lain.bgm.tv/r/400/pic/cover/l/84/46/18032_oSn9S.jpg) |  |
 | seol hee | 冰月花雪 | 所属作品：`agents of atlas`<br>![](https://ehgt.org/w/01/997/93869-9keezetj.webp)<br>冰月花雪（Luna Snow），是美国漫威漫画旗下超级英雄，首次登场于游戏《漫威：未来之战》 |  |
 | raynare | 天野夕麻 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/900/91458-4mm2m04e.webp)<br>女性堕天使，外表看似清纯可爱又身材性感的巨乳女高中生，实际上非常卑劣。 |  |
+| riruka dokugamine | 毒峰莉露卡 | 所属作品：`bleach`<br>![](https://ehgt.org/w/02/089/46289-u07la8ii.webp)<br>毒峰莉露卡(日语:毒ヶ峰リルカ,英语:Dokugamine Riruka)是完现术者组织“XCUTION”的成员。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
