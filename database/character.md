@@ -4833,7 +4833,7 @@ example:
 | g11 | G11 \| 米什缇 | `p:girls frontline`<br>![](https://gfwiki.org/images/e/ee/Pic_G11Mod_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_MishtySSR.png)<br>猫咪：好安睡，配饰：睡鼠头带 | [少前百科GFwiki](https://www.gfwiki.org/w/G11)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/MishtySSR) |
 | desert eagle | 沙漠之鹰 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/c/c7/Pic_DesertEagle_HD.png) | [https://www.gfwiki.org/w/沙漠之鹰](https://www.gfwiki.org/w/沙漠之鹰) |
 | ump9 | UMP9 \| 莱娜 | `p:girls frontline`<br>![](https://img.moegirl.org.cn/common/thumb/e/e2/Pic_UMP9.png/1000px-Pic_UMP9.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_LennaSSR.png)<br>猫咪：怪盗 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:UMP9)<br>[少前百科GFwiki](https://www.gfwiki.org/w/UMP9)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/LennaSSR) |
-| tar-21 | TAR-21 | `p:girls frontline` | [https://www.gfwiki.org/w/TAR-21](https://www.gfwiki.org/w/TAR-21) |
+| tar-21 | TAR-21 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/8/89/Pic_TAR21_HD.png) | [https://www.gfwiki.org/w/TAR-21](https://www.gfwiki.org/w/TAR-21) |
 | aa-12 | AA-12 \| 琳德 | `p:girls frontline`<br><br>少女前线：云图计划<br><br>少女前线2：追放<br>猫咪：太妃糖，配饰：护目镜 | [https://www.gfwiki.org/w/AA-12](https://www.gfwiki.org/w/AA-12) |
 | mk23 | Mk23 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/4/4e/Pic_Mk23_HD.png) | [https://www.gfwiki.org/w/Mk23](https://www.gfwiki.org/w/Mk23) |
 | ouroboros | 衔尾蛇 | `p:girls frontline` | [https://www.gfwiki.org/w/衔尾蛇](https://www.gfwiki.org/w/衔尾蛇) |
