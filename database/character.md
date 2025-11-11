@@ -4897,7 +4897,7 @@ example:
 | 9a-91 | 9A-91 | `p:girls frontline` | [http://www.gfwiki.org/w/9A-91](http://www.gfwiki.org/w/9A-91) |
 | ameli | 阿梅利 | `p:girls frontline` | [http://www.gfwiki.org/w/阿梅利](http://www.gfwiki.org/w/阿梅利) |
 | m200 | M200 | `p:girls frontline` | [http://www.gfwiki.org/w/M200](http://www.gfwiki.org/w/M200) |
-| kar98k | Kar98k | `p:girls frontline` | [http://www.gfwiki.org/w/Kar98k](http://www.gfwiki.org/w/Kar98k) |
+| kar98k | Kar98k | 所属作品：`p:girls frontline`<br>![](https://www.gfwiki.org/images/7/76/Pic_98K_HD.png) | [http://www.gfwiki.org/w/Kar98k](http://www.gfwiki.org/w/Kar98k) |
 | ots-12 | OTs-12 | `p:girls frontline` | [http://www.gfwiki.org/w/OTs-12](http://www.gfwiki.org/w/OTs-12) |
 | tmp | TMP \| 哈卜茜 | `p:girls frontline`<br><br>少女前线2:追放<br>哈卜茜即将登场 | [http://www.gfwiki.org/w/TMP](http://www.gfwiki.org/w/TMP) |
 | fn five-seven | FN-57 | `p:girls frontline` | [http://www.gfwiki.org/w/FN-57](http://www.gfwiki.org/w/FN-57) |
