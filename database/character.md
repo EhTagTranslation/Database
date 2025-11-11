@@ -6896,6 +6896,7 @@ example:
 | yubelluna | 优贝露娜 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2023/12/10/19/42/51/114113829_p1_master1200.jpg)<br>优贝露娜（Yubelluna，ユーベルーナ，Yūberūna）是菲尼克斯家族的重要角色。<br>作为瑞赛尔·菲尼克斯的皇后棋子，以「炸弹王妃」称号闻名，擅长火焰与爆炸类魔法。 |  |
 | gyokuyou | 玉叶 | 所属作品：`kusuriya no hitorigoto`<br>![](https://ehgt.org/w/02/006/98362-kxlfqcla.webp) |  |
 | shizuka marikawa | 鞠川静香 | 所属作品：`highschool of the dead`<br>![](https://ehgt.org/w/02/072/72347-4htrld8h.webp) |  |
+| crusch karsten | ‌库珥修·卡尔斯腾 | 所属作品：`re zero kara hajimeru isekai seikatsu`<br>![](https://ehgt.org/w/01/897/97707-46uyoaep.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
