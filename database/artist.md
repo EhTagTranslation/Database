@@ -14186,6 +14186,7 @@ example:
 | nagatsuki sou | 長月蒼 |  |  |
 | nagatsuki chihoru | 長月ちほる |  |  |
 | nagi hikaru | 凪ひかる |  |  |
+| nikurotsuchi hoshi | くびなが \| 二黒土星 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
