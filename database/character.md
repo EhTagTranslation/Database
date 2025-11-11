@@ -4850,7 +4850,7 @@ example:
 | g36 | G36 \| 桑朵莱希 | `p:girls frontline`<br>![](https://gfwiki.org/images/d/d3/Pic_G36_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/1/11/Centaureissi_base2.png)<br>桑朵莱希·淬翼<br>![](https://iopwiki.com/images/b/b5/Centaureissi_-_Unbound_Wings.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_CentaureissiSSR.png)<br>猫咪：执事 | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:G36)<br>[萌娘百科](https://zh.moegirl.org.cn/桑朵莱希)<br>[少前百科GFwiki](https://www.gfwiki.org/w/G36)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/桑朵莱希)<br>[42LAB-云图计划专题百科-桑朵莱希·淬翼](http://wiki.42lab.cloud/w/桑朵莱希·淬翼)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/CentaureissiSSR) |
 | g36c | G36C | `p:girls frontline`<br>![](https://www.gfwiki.org/images/8/8b/Pic_G36C_HD.png) | [https://www.gfwiki.org/w/G36C](https://www.gfwiki.org/w/G36C) |
 | eliza | 伊莱莎 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/5/50/Eliza.png) | [少前百科GFwiki](https://www.gfwiki.org/w/伊莱莎) |
-| m1911 | M1911 | `p:girls frontline` | [https://www.gfwiki.org/w/M1911](https://www.gfwiki.org/w/M1911) |
+| m1911 | M1911 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/a/a6/Pic_M1911_HD.png) | [https://www.gfwiki.org/w/M1911](https://www.gfwiki.org/w/M1911) |
 | m99 | M99 | `p:girls frontline` | [https://www.gfwiki.org/w/M99](https://www.gfwiki.org/w/M99) |
 | m950a | M950A | `p:girls frontline` | [https://www.gfwiki.org/w/M950A](https://www.gfwiki.org/w/M950A) |
 | p38 | P38 | `p:girls frontline` | [https://www.gfwiki.org/w/P38](https://www.gfwiki.org/w/P38) |
