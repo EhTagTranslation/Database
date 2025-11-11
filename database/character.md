@@ -6906,6 +6906,7 @@ example:
 | sitri | 西朵莉·斯玛特 | 所属作品：`nageki no bourei ha intai shitai`<br>![](https://ehgt.org/w/02/044/24896-3812doqs.webp)<br>“叹息的亡灵”的成员之一，是擅长精制药品及育成／使役魔法生物的炼金术师。 |  |
 | queen sonia | 索尼娅女王 | 所属作品：`the legend of zelda`<br>![](https://ehgt.org/w/01/990/92741-d4dbq8n9.webp) |  |
 | pk | PK | 所属作品：`girls frontline`<br>![](https://www.gfwiki.org/images/5/59/Pic_PK_HD.png) |  |
+| rosalie | 罗萨莉 | 所属作品：`cross ange`<br>![](https://ehgt.org/w/01/898/85439-k1z7t6gk.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
