@@ -3099,7 +3099,7 @@ example:
 | kuzuha | 葛叶 | 葛葉（Kuzuha）是现隶属于彩虹社的虚拟YouTuber，比彩虹社二期生出道时间还要更早，于2018年3月8日以个人势身份开始VTuber活动。在7月30日作为“彩虹社Gamers”第三弹成员和魔界ノりりむ、椎名唯華、雪汝同期正式出道。从2019年开始和其他Gamers成员同“彩虹社一期、二期”、“彩虹社Seeds”合并。<br><br>即使是在彩虹社Gamers中也有着超群的游戏天赋，直播的游戏除PUBG、APEX等热门FPS游戏外，也有影之诗、黑色幸存者、自走棋等策略类游戏以及宝可梦、马力欧卡丁车、任天堂明星大乱斗等任天堂游戏。偶尔会播一些单机独立游戏和Minecraft。 | [萌娘百科](https://zh.moegirl.org.cn/葛叶%28虚拟UP主%29) |
 | kenmochi toya | 剑持刀也 | 剑持刀也（日语：剣持刀也）是にじさんじ旗下的虚拟主播，二期生。 | [萌娘百科](https://zh.moegirl.org.cn/剑持刀也) |
 | hanabatake chaika | 花畑嘉依卡 | 画着非常浓厚的妆的妖精。男大姐。 原名是「チャイカ・ブラウン」。 | [萌娘百科](https://zh.moegirl.org.cn/花畑嘉依卡) |
-| fumino tamaki | 文野环 | 文野环 （ 文野環 / Fumino Tamaki）是一名从2018年3月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>别号	野良猫 | [萌娘百科](https://zh.moegirl.org.cn/文野环) |
+| fumino tamaki | 文野环 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/0/07/FuminoTamaki_01-Full.png)<br>文野环 （ 文野環 / Fumino Tamaki）是一名从2018年3月8日在YouTube开始活动的VTuber。别号	野良猫 | [萌娘百科](https://zh.moegirl.org.cn/文野环) |
 | elu | 艾露 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/6/68/Elu.png)<br>从妖精之森来的曾经孤高的精灵。来到人类世界，想要和人类成为朋友。穿着印有“I♥東京”的文化T。<br>真名很长（见百科）。 | [萌娘百科](https://zh.moegirl.org.cn/艾露) |
 | akabane youko | 赤羽叶子 | 赤羽葉子（Akaba Youko）是隶属于彩虹社Gamers的虚拟YouTuber，高中三年生。粉丝群体名为しかばね。 | [萌娘百科](https://zh.moegirl.org.cn/赤羽叶子) |
 | aduchi momo | 安土桃 | 14岁的初中二年生。经常随身携带喜欢的螃蟹玩偶。 | [萌娘百科](https://zh.moegirl.org.cn/安土桃) |
