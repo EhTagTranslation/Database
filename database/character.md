@@ -6886,7 +6886,7 @@ example:
 | allial | Allial | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/14/18/42/06/136269646_p0_master1200.jpg)<br>CoeFont STUDIO 所属的AI语音合成角色「Allial」，由声优浅木ゆめみ提供声源，画师凪白みと负责角色设计 |  |
 | asuna kagurazaka | 神乐坂明日菜 | 所属作品：`mahou sensei negima`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/3/31/B_2040434000.png)<br>本名雅丝娜·维丝贝莉娜·戴欧塔娜西亚·艾特欧菲西雅 |  |
 | shinigami | 小死神 | 所属作品：`chou-tantei jikenbo rain code`<br>![](https://ehgt.org/w/01/784/60732-e85om4qd.webp) |  |
-| setsuna sakurazaki | 刹那·樱咲 | 所属作品：`mahou sensei negima`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/da/0c/245_crt_8i24x.jpg) |  |
+| setsuna sakurazaki | 刹那·樱咲 | 所属作品：`mahou sensei negima`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/da/0c/245_crt_8i24x.jpg)<br>武道四天王之一，是在京都流传已久的神鸣流剑术高手，也是个精通阴阳道的剑士。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
