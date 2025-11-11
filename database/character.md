@@ -6904,6 +6904,7 @@ example:
 | raynare | 天野夕麻 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/900/91458-4mm2m04e.webp)<br>女性堕天使，外表看似清纯可爱又身材性感的巨乳女高中生，实际上非常卑劣。 |  |
 | riruka dokugamine | 毒峰莉露卡 | 所属作品：`bleach`<br>![](https://ehgt.org/w/02/089/46289-u07la8ii.webp)<br>毒峰莉露卡(日语:毒ヶ峰リルカ,英语:Dokugamine Riruka)是完现术者组织“XCUTION”的成员。 |  |
 | sitri | 西朵莉·斯玛特 | 所属作品：`nageki no bourei ha intai shitai`<br>![](https://ehgt.org/w/02/044/24896-3812doqs.webp)<br>“叹息的亡灵”的成员之一，是擅长精制药品及育成／使役魔法生物的炼金术师。 |  |
+| queen sonia | 索尼娅女王 | 所属作品：`the legend of zelda`<br>![](https://ehgt.org/w/01/990/92741-d4dbq8n9.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
