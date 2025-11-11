@@ -6892,6 +6892,7 @@ example:
 | kuramochi meruto | 仓持妹路特 | 所属团体：`nijisanji`<br>![](https://i0.wp.com/uploads.saigacdn.com/2023/01/nijisanji-new-liver-debut-jan202307.jpg)<br>仓持妹路特（Kuramochi Meruto）是日本虚拟主播团体彩虹社（にじさんじ）的成员，2023年1月出道。<br>追求可爱，随身携带名为“Lune”的熊玩偶（肚内藏有秘密道具）。 ‌ |  |
 | gunnthra | Gunnthra | 所属作品：`fire emblem heroes`<br>![](https://cdn.fireemblemwiki.org/thumb/4/4c/FEH_Gunnthrá_Voice_of_Dreams_01.png/225px-FEH_Gunnthrá_Voice_of_Dreams_01.png)<br>Gunnthrá （日语：スリーズSlíðr ）是尼弗尔王国（冰之国）的长公主，赫里德的妹妹，弗约姆和伊尔格的姐姐 。<br>通过心灵感应与玩家角色基兰沟通，提供支援 。 | [https://fireemblemwiki.org/wiki/Gunnthrá](https://fireemblemwiki.org/wiki/Gunnthrá) |
 | malon | Malon | 所属作品：`the legend of zelda`<br>Malon是《塞尔达传说》系列中的重要角色，首次登场于《时之笛》（Ocarina of Time），是隆隆牧场（Lon Lon Ranch）主人塔隆的女儿。 |  |
+| takane shishidou | 狮子堂高岭 | 所属作品：`sora wo kakeru shoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
