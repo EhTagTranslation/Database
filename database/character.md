@@ -4863,7 +4863,7 @@ example:
 | pps-43 | PPS-43 | `p:girls frontline` | [https://www.gfwiki.org/w/PPS-43](https://www.gfwiki.org/w/PPS-43) |
 | pp-90 | PP-90 \| 乌琪 | `p:girls frontline`<br><br>少女前线2:追放<br>乌琪即将登场 | [https://www.gfwiki.org/w/PP-90](https://www.gfwiki.org/w/PP-90) |
 | thunder | 雷电 | `p:girls frontline` | [https://www.gfwiki.org/w/雷电](https://www.gfwiki.org/w/雷电) |
-| negev | 内格夫 | `p:girls frontline` | [https://www.gfwiki.org/w/内格夫](https://www.gfwiki.org/w/内格夫) |
+| negev | 内格夫 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/6/66/Pic_NEGEV_HD.png) | [https://www.gfwiki.org/w/内格夫](https://www.gfwiki.org/w/内格夫) |
 | st ar-15 | ST AR-15 | `p:girls frontline` | [https://www.gfwiki.org/w/ST\_AR-15](https://www.gfwiki.org/w/ST_AR-15) |
 | m4a1 | M4A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M4A1](https://www.gfwiki.org/w/M4A1) |
 | m4 sopmod ii | M4 SOPMODII | M4 SOPMODII(SOP2) `p:girls frontline` | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
