@@ -6885,7 +6885,7 @@ example:
 | royal fortune | 皇家财富 |  |  |
 | allial | Allial | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/14/18/42/06/136269646_p0_master1200.jpg)<br>CoeFont STUDIO 所属的AI语音合成角色「Allial」，由声优浅木ゆめみ提供声源，画师凪白みと负责角色设计 |  |
 | asuna kagurazaka | 神乐坂明日菜 | 所属作品：`mahou sensei negima`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/3/31/B_2040434000.png)<br>本名雅丝娜·维丝贝莉娜·戴欧塔娜西亚·艾特欧菲西雅 |  |
-| shinigami | 小 | 所属作品：`chou-tantei jikenbo rain code`<br>![](https://ehgt.org/w/01/784/60732-e85om4qd.webp) |  |
+| shinigami | 小死神 | 所属作品：`chou-tantei jikenbo rain code`<br>![](https://ehgt.org/w/01/784/60732-e85om4qd.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
