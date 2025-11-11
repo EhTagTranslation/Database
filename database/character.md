@@ -6889,6 +6889,7 @@ example:
 | setsuna sakurazaki | 刹那·樱咲 | 所属作品：`mahou sensei negima`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/da/0c/245_crt_8i24x.jpg)<br>武道四天王之一，是在京都流传已久的神鸣流剑术高手，也是个精通阴阳道的剑士。 |  |
 | sumia | 斯米娅 | 所属作品：`fire emblem awakening`<br>![](https://i.pixiv.cat/img-master/img/2017/03/16/10/45/15/61935317_p0_master1200.jpg)<br>![](https://i.pixiv.cat/img-master/img/2025/09/19/18/08/09/135282513_p0_master1200.jpg) |  |
 | cure yum-yum | 华满兰 | 所属作品：`delicious party precure`<br>![](https://img.moegirl.org.cn/common/0/01/Cure_Yum-Yum.png)<br>初二学生，家中经营拉面店“熊猫轩”，责任心强且擅长照顾孩子。<br>通过妖精面面赋予的力量变身，第一人称使用“兰兰”，变身时改为“Yum-Yum”。 | [萌娘百科](https://zh.moegirl.org.cn/华满兰) |
+| kuramochi meruto | 仓持妹路特 | 所属团体：`nijisanji`<br>![](https://ehgt.org/w/02/092/07191-5le0xeuj.webp)<br>仓持妹路特（Kuramochi Meruto）是日本虚拟主播团体彩虹社（にじさんじ）的成员，2023年1月出道。<br>追求可爱，随身携带名为“Lune”的熊玩偶（肚内藏有秘密道具）。 ‌ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
