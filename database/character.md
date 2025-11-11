@@ -4823,7 +4823,7 @@ example:
 | p90 | P90 \| 米蒂尔 | `p:girls frontline` | [https://www.gfwiki.org/w/P90](https://www.gfwiki.org/w/P90) |
 | wa2000 | WA2000 \| 玛绮朵 | `p:girls frontline`<br>![](https://gfwiki.org/images/c/ce/Pic_WA2000_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_MacqiatoSSR.png)<br>猫咪：佣兵，配饰：小提琴包背带 | [少前GFwiki](https://www.gfwiki.org/w/WA2000)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/MacqiatoSSR) |
 | pa-15 | PA-15 \| 芙洛伦 | `p:girls frontline`<br>![](https://gfwiki.org/images/f/f0/Pic_PA15_HD.png)<br>`p:girls frontline neural cloud`<br>`c:florence`<br>![](https://patchwiki.biligame.com/images/42lab/0/0b/lm5v7ibbc77e9ymziq4wv1j1h27n6yx.png)<br>少女前线2:追放 | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:PA-15)<br>[萌娘百科](https://zh.moegirl.org.cn/芙洛伦)<br>[少前百科GFwiki](https://www.gfwiki.org/w/PA-15)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/芙洛伦) |
-| agent | 代理人 | `p:girls frontline` | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
+| agent | 代理人 | 所属作品：`p:girls frontline`<br>![](https://www.gfwiki.org/images/thumb/2/28/Pic_Agent_LL.png/480px-Pic_Agent_LL.png)<br>![](https://www.gfwiki.org/images/thumb/7/77/Pic_Agent_LL_1.png/480px-Pic_Agent_LL_1.png) | [https://www.gfwiki.org/w/代理人](https://www.gfwiki.org/w/代理人) |
 | welrod mkii | 维尔德MkⅡ | `p:girls frontline` | [https://www.gfwiki.org/w/维尔德MkⅡ](https://www.gfwiki.org/w/维尔德MkⅡ) |
 | ak-12 | AK-12 \| 露契娅 | 所属作品：`p:girls frontline`<br>![](https://www.gfwiki.org/images/2/21/Pic_AK12_HD.png) | [https://www.gfwiki.org/w/AK-12](https://www.gfwiki.org/w/AK-12) |
 | an-94 | AN-94 \| 埃芙 \| 安提娅 | `p:girls frontline`<br><br>少女前线2：追放<br>埃芙 | [少前百科GFwiki](https://www.gfwiki.org/w/AN-94) |
