@@ -2793,7 +2793,7 @@ example:
 | yuuma kuga | 空闲游真 | 空闲游真，日本漫画《境界触发者》中的主人公之一。 | [百度百科](https://baike.baidu.com/item/空闲游真) |
 | kokkoro | 可可萝 |  | [萌娘百科](https://zh.moegirl.org.cn/枣可萝) |
 | holo | 赫萝 | 赫萝是《狼与香辛料》的女主角 | [萌娘百科](https://zh.moegirl.org.cn/赫萝) |
-| marie rose | 玛丽·萝丝 | 玛丽·萝丝（Marie Rose，又译萝丝·玛丽）是日本游戏公司KOEI TECMO GAMES在PS3,PS4,XBOX 360,XBOX ONE,XBOX ONE S,PC平台上开发的游戏《死或生》（又译《生死格斗》）的第五代中的可选操作角色。 | [百度百科](https://baike.baidu.com/item/玛丽·萝丝/18400032) |
+| marie rose | 玛丽·萝丝 | ![](https://ehgt.org/w/01/875/55386-15q4brs9.webp)<br>玛丽·萝丝（Marie Rose）是日本游戏公司KOEI TECMO GAMES开发的游戏《死或生》（又译《生死格斗》）的第五代中的可选操作角色。 | [百度百科](https://baike.baidu.com/item/玛丽·萝丝/18400032) |
 | helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/海莲娜%28死或生%29) |
 | sylvanas windrunner | 希尔瓦娜斯·风行者 | 希尔瓦娜斯·风行者是暴雪旗下游戏《魔兽争霸》、《魔兽世界》以及《魔兽世界》官方小说中的登场角色，同时也在各种相关的衍生作品中亮相。 | [希尔瓦娜斯·风行者](https://zh.moegirl.org.cn/希尔瓦娜斯) |
 | nessa | 露璃娜 |  |  |
