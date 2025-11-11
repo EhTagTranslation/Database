@@ -6883,7 +6883,7 @@ example:
 | yoshiki tsujinaka | 辻中佳纪 |  |  |
 | marseillaise | 马赛曲 |  |  |
 | royal fortune | 皇家财富 |  |  |
-| allial | Allial | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/14/18/42/06/136269646_p0_master1200.jpg)<br>CoeFont STUDIO 所属的AI语音合成角色「Allial」 |  |
+| allial | Allial | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/14/18/42/06/136269646_p0_master1200.jpg)<br>CoeFont STUDIO 所属的AI语音合成角色「Allial」，由声优浅木ゆめみ提供声源，画师凪白みと负责角色设计 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
