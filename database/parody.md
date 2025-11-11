@@ -2566,6 +2566,7 @@ example:
 | mashin sentai kiramager | 魔进战队煌辉者 |  |  |
 | saigo ni hitotsu dake onegai shite mo yoroshii deshou ka | 最后可以再拜托您一件事吗？ | ![](https://img.moegirl.org.cn/common/6/6d/最后拜托1.jpg)<br>别译《最后再拜托您一件事可以吗？》，是由日本作家凤ナナ创作的轻小说作品。<br>该作改编的同名电视动画由LIDENFILMS京都工作室制作，坂本一也担任导演，赤尾でこ负责系列构成，计划于2025年秋季播出。 | [萌娘百科](https://zh.moegirl.org.cn/最后可以再拜托您一件事吗？) |
 | hikaru ga shinda natsu | 光死去的夏天 |  |  |
+| class no daikirai na joshi to kekkon suru koto ni natta. | ‌我和班上最讨厌的女生结婚了 | ![](https://img.moegirl.org.cn/common/c/c3/我决定和班上最讨厌的女生结婚了_1.jpg)<br>（日语：クラスの大嫌いな女子と結婚することになった。；英语：I Got Married to the Girl I Hate Most in Class）是由天乃圣树创作、由成海七海担任插画的一部轻小说，并有漫画、动画等衍生作品。<br>故事讲述高中生北条才人与同班同学樱森朱音因意外被迫结婚，从相互厌恶到逐渐理解彼此的成长历程。 | [萌娘百科](https://zh.moegirl.org.cn/我决定和班上最讨厌的女生结婚了) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
