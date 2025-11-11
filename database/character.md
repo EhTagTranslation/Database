@@ -3083,7 +3083,7 @@ example:
 | emma august | 艾玛★奥加斯特 | 艾玛★奥加斯特 （日文：えま★おうかずと，英文：Emma August） 是虚拟YouTuber业界团体彩虹社所属成员。 | [萌娘百科](https://zh.moegirl.org.cn/艾玛·奥加斯特) |
 | hakase fuyuki | 叶加濑冬雪 | 葉加瀬冬雪（葉加瀬冬雪 / Hakase Fuyuki ）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶加濑冬雪) |
 | izumo kasumi | 出云霞 | 出云霞 （ 出雲 霞 / Izumo Kasumi ）是一名从2018年06月05日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/出云霞) |
-| ushimi ichigo | 宇志海莓 | 宇志海莓（日语：うしみ いちご Ushimi Ichigo），或译宇志海草莓，是隶属彩虹社的虚拟Youtuber。<br>彩虹社2期生的一员，形象灵感来自于三次元存在的物种海兔/海蛞蝓（日文：ウミウシ，海牛）的拟人化。 | [萌娘百科](https://zh.moegirl.org.cn/宇志海莓) |
+| ushimi ichigo | 宇志海莓 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/d/d0/Ushimi_Ichigo_Full_02.png)<br>宇志海莓（日语：うしみ いちご Ushimi Ichigo），或译宇志海草莓，彩虹社2期生的一员。 | [萌娘百科](https://zh.moegirl.org.cn/宇志海莓) |
 | yuhi riri | 夕阳莉莉 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/thumb/d/d4/Yuuhi_Riri_05_full.jpg/800px-Yuuhi_Riri_05_full.jpg)<br>夕阳莉莉（日语：夕陽リリ / Yuhi Riri）是隶属于彩虹社的VTuber，二期生。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Yuuhi_Riri)<br>[萌娘百科](https://zh.moegirl.org.cn/夕阳莉莉) |
 | suzuka utako | 铃鹿诗子 | 铃鹿诗子（鈴鹿詩子/すずかうたこ）是隶属于彩虹社的虚拟YouTuber。 | [萌娘百科](https://zh.moegirl.org.cn/铃鹿诗子) |
 | mononobe alice | 物述有栖 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/9/94/物述有栖（哥特萝莉）.png)<br>物述有栖 （ 物述有栖 / Mononobe Alice ）是一名从2018年3月13日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/物述有栖) |
