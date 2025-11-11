@@ -14184,6 +14184,7 @@ example:
 | esebayashi efu | エセ林エフ |  |  |
 | tsukushi akihito | 土笔章人 |  | [X](https://x.com/tukushiA) |
 | nagatsuki sou | 長月蒼 |  |  |
+| nagatsuki chihoru | 長月ちほる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
