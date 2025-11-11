@@ -6897,6 +6897,7 @@ example:
 | gyokuyou | 玉叶 | 所属作品：`kusuriya no hitorigoto`<br>![](https://ehgt.org/w/02/006/98362-kxlfqcla.webp) |  |
 | shizuka marikawa | 鞠川静香 | 所属作品：`highschool of the dead`<br>![](https://ehgt.org/w/02/072/72347-4htrld8h.webp) |  |
 | crusch karsten | ‌库珥修·卡尔斯腾 | 所属作品：`re zero kara hajimeru isekai seikatsu`<br>![](https://ehgt.org/w/01/897/97707-46uyoaep.webp) |  |
+| pirotess | 比萝蒂丝 | 所属作品：`lodoss-tou senki`<br>![](https://ehgt.org/w/02/089/08713-56wlje1e.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
