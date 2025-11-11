@@ -2571,7 +2571,7 @@ example:
 | chou-tantei jikenbo rain code | 超侦探事件部：雨之代码 | 《超侦探事件部：雨之代码》（Cho-tanjeon Sageonbu Rain Code）是一款由Spiky Chunsoft开发的视觉小说游戏 |  |
 | hundred line saishuu bouei gakuen | 百日战纪 最终防卫学园 | ![](https://img.moegirl.org.cn/common/3/3f/百日战纪-最终防卫学园-.jpg)<br>《百日战纪-最终防卫学园-》（日语：HUNDRED LINE -最終防衛学園-，英语：The Hundred Line -Last Defense Academy-）是一款由Too Kyo Games、Media Vision开发、Aniplex发行的冒险+战略RPG游戏。 | [萌娘百科](https://zh.moegirl.org.cn/百日战纪_-最终防卫学园-) |
 | hachigatsu no cinderella nine | 八月的棒球甜心 | ![](https://img.moegirl.org.cn/common/d/d5/八月的灰姑娘棒球队.jpg)<br>《八月的棒球甜心》（Hachigatsu no Cinderella Nine）是日本原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/八月的棒球甜心) |
-| ikusa otome valkyrie | 战乙女‧女武神 |  |  |
+| ikusa otome valkyrie | 战乙女瓦尔基里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
