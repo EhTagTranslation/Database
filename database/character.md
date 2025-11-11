@@ -2607,7 +2607,7 @@ example:
 | hikaru shindo | 进藤光 \| 狮堂光 |  |  |
 | umi ryuuzaki | 龙崎海 |  |  |
 | ai asato | 麻里爱 |  |  |
-| reiko katherine akimoto | 秋本丽子 |  |  |
+| reiko katherine akimoto | 秋本丽子 | 所属作品：`kochikame`<br>![](https://ehgt.org/w/01/739/56788-66yyomel.webp) |  |
 | hina | 日奈 \| 雏 | 由于此标签可能标记的角色过多。名字中含有hina的打标签时应尽量注意。<br><br>目前所固定的两个角色：<br>①日奈，漫画《`one piece`》及其衍生作品中的角色。<br><br>②新田雏，是由大武政夫创作的漫画《`hinamatsuri`》及其衍生作品的登场角色。<br><br>※其他角色如有全名应使用全名，不应使用本tag<br>举例：<br>`hina kagiyama` ：`touhou project`中的角色<br>`hina amano` ：`tenki no ko`中的角色<br>`hina araki` ：`the idolmaster`中的角色 |  |
 | matoi giboshi | 拟宝珠缠 |  |  |
 | lemon giboshi | 拟宝珠柠檬 |  |  |
