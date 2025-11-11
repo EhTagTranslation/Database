@@ -2568,6 +2568,7 @@ example:
 | hikaru ga shinda natsu | 光死去的夏天 |  |  |
 | class no daikirai na joshi to kekkon suru koto ni natta. | ‌我和班上最讨厌的女生结婚了 | ![](https://img.moegirl.org.cn/common/c/c3/我决定和班上最讨厌的女生结婚了_1.jpg)<br>（日语：クラスの大嫌いな女子と結婚することになった。；英语：I Got Married to the Girl I Hate Most in Class）是由天乃圣树创作、由成海七海担任插画的一部轻小说，并有漫画、动画等衍生作品。<br>故事讲述高中生北条才人与同班同学樱森朱音因意外被迫结婚，从相互厌恶到逐渐理解彼此的成长历程。 | [萌娘百科](https://zh.moegirl.org.cn/我决定和班上最讨厌的女生结婚了) |
 | maou 2099 | 魔王2099 | ![](https://img.moegirl.org.cn/common/thumb/2/21/魔王2099_1.webp/704px-魔王2099_1.webp.png)<br>《魔王2099》是由紫大悟创作、クレタ绘制插画的一部轻小说，有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔王2099) |
+| chou-tantei jikenbo rain code | 超侦探事件部：雨之代码 | 《超侦探事件部：雨之代码》（Cho-tanjeon Sageonbu Rain Code）是一款由Spiky Chunsoft开发的视觉小说游戏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
