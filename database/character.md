@@ -3095,7 +3095,7 @@ example:
 | todoroki kyoko | 轰京子 | 轰京子（轟京子／Todoroki Kyoko）是一名于2018年6月6日开始活动的VTuber，隶属于彩虹社。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/轟京子) |
 | suzuki masaru | 铃木胜 | 鈴木勝（Suzuki Masaru）是彩虹社所属的Vitural YouTuber，设定为在虚拟世界出生的永远13岁的少年（中学二年级）。讨厌普通，想要以直播为契机达到帅气之极致，但是经常是瞎忙活。 | [萌娘百科](https://zh.moegirl.org.cn/铃木胜) |
 | ryushen | 绿仙 | 緑仙（緑仙 / Ryuu Shen）是一名从2018年6月8日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs一期出身。 | [萌娘百科](https://zh.moegirl.org.cn/绿仙) |
-| morinaka kazaki | 森中花咲 | 森中花咲（Morinaka Kazaki）是隶属彩虹社的虚拟Youtuber。彩虹社10位2期生的其中一人。自称是“かざ”，被观众称为“花咲妈妈”，“幼女Pro”。 | [萌娘百科](https://zh.moegirl.org.cn/森中花咲) |
+| morinaka kazaki | 森中花咲 | 所属社团：`nijisanji`<br>![](https://img.moegirl.org.cn/common/0/0e/Morinakakazakititle.png)<br>森中花咲（Morinaka Kazaki）是隶属彩虹社的虚拟Youtuber。彩虹社10位2期生的其中一人。自称是“かざ”，被观众称为“花咲妈妈”，“幼女Pro”。 | [萌娘百科](https://zh.moegirl.org.cn/森中花咲) |
 | kuzuha | 葛叶 | 葛葉（Kuzuha）是现隶属于彩虹社的虚拟YouTuber，比彩虹社二期生出道时间还要更早，于2018年3月8日以个人势身份开始VTuber活动。在7月30日作为“彩虹社Gamers”第三弹成员和魔界ノりりむ、椎名唯華、雪汝同期正式出道。从2019年开始和其他Gamers成员同“彩虹社一期、二期”、“彩虹社Seeds”合并。<br><br>即使是在彩虹社Gamers中也有着超群的游戏天赋，直播的游戏除PUBG、APEX等热门FPS游戏外，也有影之诗、黑色幸存者、自走棋等策略类游戏以及宝可梦、马力欧卡丁车、任天堂明星大乱斗等任天堂游戏。偶尔会播一些单机独立游戏和Minecraft。 | [萌娘百科](https://zh.moegirl.org.cn/葛叶%28虚拟UP主%29) |
 | kenmochi toya | 剑持刀也 | 剑持刀也（日语：剣持刀也）是にじさんじ旗下的虚拟主播，二期生。 | [萌娘百科](https://zh.moegirl.org.cn/剑持刀也) |
 | hanabatake chaika | 花畑嘉依卡 | 画着非常浓厚的妆的妖精。男大姐。 原名是「チャイカ・ブラウン」。 | [萌娘百科](https://zh.moegirl.org.cn/花畑嘉依卡) |
