@@ -5546,7 +5546,7 @@ example:
 | hanma akira | 範馬アキラ |  |  |
 | hans | hans |  |  |
 | hansharu | 半しゃる |  |  |
-| hanya | Hanya |  |  |
+| hanya | はにゃ |  | [pixiv](https://www.pixiv.net/users/629117) |
 | hanyw | ハニュー |  |  |
 | hanzaki jirou | はんざきじろう |  |  |
 | hanzawa 821 | 半澤821 |  |  |
