@@ -4851,7 +4851,7 @@ example:
 | g36c | G36C | `p:girls frontline`<br>![](https://www.gfwiki.org/images/8/8b/Pic_G36C_HD.png) | [https://www.gfwiki.org/w/G36C](https://www.gfwiki.org/w/G36C) |
 | eliza | 伊莱莎 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/5/50/Eliza.png) | [少前百科GFwiki](https://www.gfwiki.org/w/伊莱莎) |
 | m1911 | M1911 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/a/a6/Pic_M1911_HD.png) | [https://www.gfwiki.org/w/M1911](https://www.gfwiki.org/w/M1911) |
-| m99 | M99 | `p:girls frontline` | [https://www.gfwiki.org/w/M99](https://www.gfwiki.org/w/M99) |
+| m99 | M99 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/8/87/Pic_M99_HD.png) | [https://www.gfwiki.org/w/M99](https://www.gfwiki.org/w/M99) |
 | m950a | M950A | `p:girls frontline` | [https://www.gfwiki.org/w/M950A](https://www.gfwiki.org/w/M950A) |
 | p38 | P38 | `p:girls frontline` | [https://www.gfwiki.org/w/P38](https://www.gfwiki.org/w/P38) |
 | ppk | PPK | `p:girls frontline` | [https://www.gfwiki.org/w/PPK](https://www.gfwiki.org/w/PPK) |
