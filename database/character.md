@@ -6899,6 +6899,7 @@ example:
 | crusch karsten | ‌库珥修·卡尔斯腾 | 所属作品：`re zero kara hajimeru isekai seikatsu`<br>![](https://ehgt.org/w/01/897/97707-46uyoaep.webp) |  |
 | pirotess | 比萝蒂丝 | 所属作品：`lodoss-tou senki`<br>![](https://ehgt.org/w/02/089/08713-56wlje1e.webp) |  |
 | hiyori kozuki | 光月日和 | 所属作品：`one piece`<br>![](https://ehgt.org/w/02/067/88920-2r15kky0.webp)<br>和之国公主/原花之都第一花魁 |  |
+| turenne | 人狼女王 | 所属作品：`kyoukai senjou no horizon`<br>![](https://lain.bgm.tv/r/400/pic/cover/l/84/46/18032_oSn9S.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
