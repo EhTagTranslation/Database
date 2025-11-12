@@ -6926,6 +6926,7 @@ example:
 | katsuragi ace | 葛城王牌 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/2/25/otmsqkoq6nkgeeq1879zel24giozivf.png/600px-Jsf_110401.png)<br>原型为日本纯血竞赛马匹葛城王牌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/葛城王牌) |
 | chrono genesis | 创世驹 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/5/58/oaxsmj7vrlup1saqtyrm1yszk9ukhwg.png/600px-Jsf_113301.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/创世驹) |
 | gran alegria | 放声欢呼 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/1/18/lmcll5b1m1gucxzpac7af4xvv13qheb.png/600px-Jsf_113101.png)<br>原型为现实中的赛马Gran Alegria（グランアレグリア）‌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/放声欢呼) |
+| light hello | 双铃莱特 | 所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
