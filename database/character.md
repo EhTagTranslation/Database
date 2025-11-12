@@ -6907,6 +6907,7 @@ example:
 | queen sonia | 索尼娅女王 | 所属作品：`the legend of zelda`<br>![](https://ehgt.org/w/01/990/92741-d4dbq8n9.webp) |  |
 | pk | PK | 所属作品：`girls frontline`<br>![](https://www.gfwiki.org/images/5/59/Pic_PK_HD.png) |  |
 | rosalie | 罗萨莉 | 所属作品：`cross ange`<br>![](https://ehgt.org/w/01/898/85439-k1z7t6gk.webp) |  |
+| ling xiaoyu | 凌晓雨 | 凌晓雨，游戏《铁拳》系列中的女性角色，18岁的中国女高中生，职业为熊猫饲养员，身高154厘米，擅长八卦掌、劈挂拳等中国传统拳... |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
