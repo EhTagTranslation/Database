@@ -1429,7 +1429,7 @@ example:
 | zombie land saga | 佐贺偶像是传奇 | 《佐贺偶像是传奇》（日语：ゾンビランドサガ）是由MAPPA、avex pictures、`g:cygames`合作推出的原创动画。由MAPPA负责动画制作，境宗久导演，村越繁负责剧本构成，深川可纯担任角色设计。电视动画全12话，于2018年10月4日开始播出。宣传语是“新感觉僵尸系动画”。 | [萌娘百科](https://zh.moegirl.org.cn/佐贺偶像是传奇) [维基百科](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇) |
 | nazo no kanojo x | 谜样女友X |  |  |
 | shoujo shuumatsu ryokou | 少女终末旅行 |  |  |
-| dumbbell nan kilo moteru | 流汗吧!健身少女 |  | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女) [萌娘百科](https://zh.moegirl.org.cn/流汗吧!健身少女) |
+| dumbbell nan kilo moteru | 流汗吧!健身少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/b7/271724_32Jou.jpg) | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女) [萌娘百科](https://zh.moegirl.org.cn/流汗吧!健身少女) |
 | thumbelina | 拇指姑娘 | 世界著名童话 |  |
 | masou gakuen hxh | 魔装学园H×H |  |  |
 | hundred | 百武装战记 |  | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記) [萌娘百科](https://zh.moegirl.org.cn/Hundred) |
