@@ -6909,6 +6909,7 @@ example:
 | rosalie | 罗萨莉 | 所属作品：`cross ange`<br>![](https://ehgt.org/w/01/898/85439-k1z7t6gk.webp) |  |
 | ling xiaoyu | 凌晓雨 | 凌晓雨，游戏《铁拳》系列中的女性角色，18岁的中国女高中生，职业为熊猫饲养员，身高154厘米，擅长八卦掌、劈挂拳等中国传统拳... |  |
 | jason voorhees | 杰森·沃赫斯 | ![](https://ehgt.org/1e/a3/1ea318018cb5c5772b7365171e18a7405e81d1e0-107439-531-800-jpg_250.jpg)<br>杰森·沃赫斯（Jason Voorhees）是派拉蒙与新线公司推出的《十三号星期五》系列电影及其衍生作品中的虚构角色。 |  |
+| ittousai itou | 伊东一刀斋 | ![](https://r.hpoi.net/gk/cover/n/2015/05/de0334e347c74b9bb9fa69f4ab65084e.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
