@@ -6960,6 +6960,7 @@ example:
 | yuri alpha | 尤里·阿尔法 | ![](https://ehgt.org/w/01/296/15985-7iuu6jt2.webp)<br>所属作品：`overlord`<br>贾尔达鲍斯的恶魔女仆，以蓝色面具为标志。 |  |
 | tomo asama | 浅间·智 | ![](https://img.moegirl.org.cn/common/b/b5/特典小说－封面１上.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | persephone | 珀尔塞福涅 | ![](https://ehgt.org/w/01/994/93777-c6ud1ax2.webp) |  |
+| yukino miyazawa | 宫泽雪野 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
