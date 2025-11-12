@@ -3133,7 +3133,7 @@ example:
 | sarah kerrigan | 莎拉·凯瑞甘 | 莎拉·露伊斯·凯瑞甘——也称为刀锋女王，是暴雪娱乐公司出品的即时战略游戏《星际争霸》系列中的主角之一。 | [百度百科](https://baike.baidu.com/item/莎拉·凯瑞甘) |
 | ozymandias | 奥斯曼狄斯 | 奥斯曼狄斯（拉美西斯二世）是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉美西斯二世%28Fate%29) |
 | paimon | 派蒙 | ![](https://patchwiki.biligame.com/images/ys/thumb/0/0d/1qywc02vlabns3hdbwyuuvcuclt4075.jpg/504px-派蒙2.jpg)<br>所属作品：`genshin impact`<br>游戏里的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [萌娘百科](https://zh.moegirl.org.cn/派蒙%28原神%29) |
-| hilbert | 斗也 | 斗也（日文︰トウヤ，英文︰Hilbert）是《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
+| hilbert | 斗也 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/a/a4/Black_White_Hilbert.png/278px-Black_White_Hilbert.png)<br>斗也（日文︰トウヤ，英文︰Hilbert）<br>《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
 | hilda | 希尔达 \| 斗子 | 希尔达Hilda是一个11岁的蓝发女孩，出自同名同名图画小说系列，以及网飞改编的系列剧集<br><br>斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) [希尔达(剧集)](https://zh.moegirl.org.cn/希尔达) |
 | skyla | 风露 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
 | elisa | 秋子 | 所属作品：`p:pokemon`<br>![](https://s1.52poke.wiki/wiki/thumb/9/9d/秋子.png/220px-秋子.png)<br>艾丽莎是一名宝可梦巡护员 ，在伊扎贝岛工作和生活。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/秋子) |
