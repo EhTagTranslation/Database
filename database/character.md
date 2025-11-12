@@ -6927,6 +6927,7 @@ example:
 | chrono genesis | 创世驹 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/5/58/oaxsmj7vrlup1saqtyrm1yszk9ukhwg.png/600px-Jsf_113301.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/创世驹) |
 | gran alegria | 放声欢呼 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/1/18/lmcll5b1m1gucxzpac7af4xvv13qheb.png/600px-Jsf_113101.png)<br>原型为现实中的赛马Gran Alegria（グランアレグリア）‌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/放声欢呼) |
 | light hello | 双铃莱特 | 所属作品：`uma musume pretty derby` |  |
+| narita brian | 成田白仁 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/5/59/4ydwvypyvxo1uueuzhnesvvjsri4q3j.png/600px-Jsf_101601.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/成田白仁) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
