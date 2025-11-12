@@ -6962,6 +6962,7 @@ example:
 | persephone | 珀尔塞福涅 | ![](https://ehgt.org/w/01/994/93777-c6ud1ax2.webp) |  |
 | yukino miyazawa | 宫泽雪野 |  |  |
 | irisdina bernhard | 爱丽丝蒂娜·伯恩哈德 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8d/Irisdina_BDU_1.png)<br>所属作品：`schwarzesmarken` |  |
+| nanaka kotegawa | 古手川奈奈华 | ![](https://ehgt.org/w/01/970/72734-is9gtnv0.webp)<br>所属作品：`grand blue` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
