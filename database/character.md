@@ -6946,6 +6946,7 @@ example:
 | eunie | 优妮 | ![](https://ehgt.org/w/02/037/74599-2zw84wtl.webp)<br>所属作品：`xenoblade chronicles 3`<br>18岁少女，武器为法杖形枪械，职业为医护铳兵，擅长团队恢复技能。 |  |
 | fenrys | 芬里丝 | ![](https://ehgt.org/w/01/977/01249-1g9q59ru.webp)<br>所属作品：`lv2 kara cheat datta motoyuusha kouho no mattari isekai life` |  |
 | guam | 关岛 | ![](https://i2.hdslb.com/bfs/new_dyn/fc7fa1c0638c84a09646b1ab40ce1b9a262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/1b3a3268fc850e4f31bd247d27d7a607262400697.png)<br>所属作品：`azur lane` |  |
+| lisa hamilton | 莉莎·汉密尔顿 | ![](https://ehgt.org/w/01/576/35847-eygaq6wi.webp)<br>所属作品：`dead or alive` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
