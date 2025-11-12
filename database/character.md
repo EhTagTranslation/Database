@@ -1391,7 +1391,7 @@ example:
 | accelerator | 一方通行 |  |  |
 | oriana thomson | 欧莉安娜·汤姆森 | ![](https://ehgt.org/w/02/024/57561-r3geojsq.webp)<br>所属作品：`toaru project` |  |
 | shizuri mugino | 麦野沉利 | ![](https://ehgt.org/w/01/763/09200-6743lac3.webp)<br>所属作品：`toaru project`<br>统帅暗部组织“道具”的女王，学园都市排名第四位的超能力者。 | [萌娘百科](https://zh.moegirl.org.cn/麦野沉利) |
-| rikou takitsubo | 泷壶理后 | 轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。<br>![16.webp](https://p.sda1.dev/28/a8881bfc1e36fd69b3ddf7eaf601fe7e/16.webp)<br>![17.webp](https://p.sda1.dev/28/b8f8e05514208d41d6f27093317c3883/17.webp) | [萌娘百科](https://zh.moegirl.org.cn/泷壶理后) |
+| rikou takitsubo | 泷壶理后 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/26/18/30/09/136725876_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/泷壶理后) |
 | saiai kinuhata | 绢旗最爱 | 轻小说《魔法禁书目录》与外传漫画《某科学的超电磁炮》及其衍生作品的超登场角色。<br>![18.webp](https://p.sda1.dev/28/816830fc574e2f2cca63675ca04b1761/18.webp)<br>![Ilp90.jpg](https://p.sda1.dev/28/aea5943a2d4be115fd63d1ac575ea091/Ilp90.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绢旗最爱) |
 | frenda seivelun | 芙兰达·塞维伦 | ![13.webp](https://p.sda1.dev/28/8489ac5e16e771a9d2709a26af730703/13.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/芙兰达·塞维伦) |
 | shiage hamazura | 滨面仕上 |  |  |
