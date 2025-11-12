@@ -6940,6 +6940,7 @@ example:
 | quistis trepe | 奇丝迪丝·萃普 | ![](https://ehgt.org/w/01/875/97874-ca5ipen9.webp)<br>Quistis Trepe是《最终幻想Ⅷ》中Balamb Garden的SeeD成员及Squall的指导教官。 |  |
 | kronshtadt | 喀琅施塔得 | ![](https://i2.hdslb.com/bfs/new_dyn/84ad494fb2434738a3e448b6e89830e9262400697.png)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/6d/as2x1tqtimvng9n6xneqqzd3cjisw81.jpg/525px-喀琅施塔得换装2.jpg)<br>所属作品：`azur lane`<br>原型为：喀琅施塔得级战列巡洋舰（Kronshtadt class battlecruiser） |  |
 | chang feng | 长风 (碧蓝航线) | ![](https://img.moegirl.org.cn/common/6/67/BLHX_126216712.jpg)<br>![](https://img.moegirl.org.cn/common/thumb/b/bd/BLHX_changfeng.png/1500px-BLHX_changfeng.png)<br>长风（Ch'ang Feng，長風）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`p:azur lane`》及其衍生作品的登场角色。<br>其原型为清朝末期海军向德国采购的一级驱逐舰“长风号驱逐舰”，后被民国接管。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:长风) |
+| fei yuen | 飞云 (碧蓝航线) | ![](https://img.moegirl.org.cn/common/thumb/1/17/BLHX_feiyun.png/1059px-BLHX_feiyun.png)<br>![](https://img.moegirl.org.cn/common/thumb/6/67/BLHX_115760942.png/371px-BLHX_115760942.png)<br>飞云（Fei Yuen，飛雲）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`p:azur lane`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:飞云) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
