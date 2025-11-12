@@ -14190,6 +14190,7 @@ example:
 | jyuryokushi-tan | 重力子たん |  |  |
 | jmao | JMao睫毛 |  | [pixiv](https://www.pixiv.net/users/2829550) [X](https://x.com/jmaomaomao) |
 | yonketa | よんけた |  | [pixiv](https://www.pixiv.net/users/109618807) |
+| kurowa san | 黒和サン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
