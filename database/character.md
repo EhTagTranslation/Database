@@ -6920,6 +6920,7 @@ example:
 | little cocon | 小巧圆茧 | 所属作品：`uma musume pretty derby`<br><br>冷酷且毒舌，禁欲克己的赛马娘。由于讨厌改变自己的个性而回避着集体行动。 | [百度百科](https://baike.baidu.com/item/小巧圆茧/63386907?fr=aladdin) |
 | tanino gimlet | 谷野美酒 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/9sercgtf40a1jxtfwfq5xv5h3wnztiv.png/600px-Jsf_108401.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/谷水琴蕾) |
 | mr. c.b. | 千明代表 | 所属作品：`uma musume pretty derby` |  |
+| vodka | 伏特加 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/1/1f/dhvxzl089d2ltw5i3c5e6ii5on3jeyv.png/600px-Jsf_100801.png)<br>伏特加（日文名：ウオッカ）是2004年4月4日出生于日本的一匹纯种竞赛雌马，由马主谷水雄三在Country牧场培育，练马师为角居胜彦。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/伏特加) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
