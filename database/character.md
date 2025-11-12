@@ -6961,6 +6961,7 @@ example:
 | tomo asama | 浅间·智 | ![](https://img.moegirl.org.cn/common/b/b5/特典小说－封面１上.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | persephone | 珀尔塞福涅 | ![](https://ehgt.org/w/01/994/93777-c6ud1ax2.webp) |  |
 | yukino miyazawa | 宫泽雪野 |  |  |
+| irisdina bernhard | 爱丽丝蒂娜·伯恩哈德 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8d/Irisdina_BDU_1.png)<br>所属作品：`schwarzesmarken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
