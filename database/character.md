@@ -1399,7 +1399,7 @@ example:
 | harumi kiyama | 木山春生 |  |  |
 | motoharu tsuchimikado | 土御门元春 |  |  |
 | itsuwa | 五和 |  |  |
-| lucia | 露琪亚 |  |  |
+| lucia | 露西亚 | ![](https://patchwiki.biligame.com/images/zspms/thumb/a/ac/n8urfitp2nk5rhjqwsivmddtrwb4hsh.png/375px-角色_露西亚_红莲_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | agnese sanctis | 雅妮丝·桑提斯 |  |  |
 | angelene | 安洁莉娜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/21/18/50/30/129551619_p0_master1200.jpg)<br>所属作品：`toaru project`<br>身高矮小、水蛇腰、有点驼背的金发辫子头修女 |  |
 | eiga kanmi | 甘味荣华 |  |  |
