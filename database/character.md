@@ -6959,6 +6959,7 @@ example:
 | lamia loveless | 拉米娅-拉布雷斯 | ![](https://ehgt.org/w/00/697/56507-66yzdima.webp)<br>所属作品：`super robot wars`<br>由异世界泰拉斯研究所制造的人造人，驾驶特机弓天使（SMSC ANGELG）。 |  |
 | yuri alpha | 尤里·阿尔法 | ![](https://ehgt.org/w/01/296/15985-7iuu6jt2.webp)<br>所属作品：`overlord`<br>贾尔达鲍斯的恶魔女仆，以蓝色面具为标志。 |  |
 | tomo asama | 浅间·智 | ![](https://img.moegirl.org.cn/common/b/b5/特典小说－封面１上.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
+| persephone | 珀尔塞福涅 | ![](https://ehgt.org/w/01/994/93777-c6ud1ax2.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
