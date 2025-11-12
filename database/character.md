@@ -6836,7 +6836,7 @@ example:
 | laezel | 莱埃泽尔 | 游戏《博德之门3》中可操控的七位起源角色之一，吉斯洋基人，初始职业为战士。 |  |
 | othinus | 欧提努斯（只眼） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/12/03/48/24/136163495_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/欧提努斯) |
 | awaki musujime | 结标淡希 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/08/11/00/13/137223569_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/结标淡希) |
-| junko hokaze | 帆风润子 | 漫画《某科学的超电磁炮》及其衍生作品的登场角色，是主系列《魔法禁书目录》世界观下的角色之一。<br>![3.webp](https://p.sda1.dev/28/98acf07c8a448b070f13302626905aee/3.webp) | [萌娘百科](https://zh.moegirl.org.cn/帆风润子) |
+| junko hokaze | 帆风润子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2017/04/28/21/22/01/62618892_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/帆风润子) |
 | lessar | 蕾莎 | ![](https://ehgt.org/w/02/023/03591-ej9ty7qh.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/蕾莎) |
 | laura stuart | 萝拉·斯图亚特 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2023/06/30/11/13/43/109468152_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/萝拉·斯图亚特) |
 | rakko yumiya | 弓箭猎虎 | 漫画《某科学的超电磁炮》中登场的角色。<br>![6.webp](https://p.sda1.dev/28/ac9d896dc60413515de399a8eb20af86/6.webp) | [萌娘百科](https://zh.moegirl.org.cn/弓箭猎虎) |
