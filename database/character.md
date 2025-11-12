@@ -6971,6 +6971,7 @@ example:
 | sophia | 苏菲亚 | ![](https://patchwiki.biligame.com/images/zspms/8/82/cu4s4oqzr5d91m6qqdpcj6v78q91rbi.png)<br>苏菲亚涂装 曼荼纱舞<br>所属游戏：`punishing gray raven` |  |
 | hikaru kamisaki | 狼嵜光 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/03/19/40/16/137055998_p0_master1200.jpg)<br>所属作品：`medalist` |  |
 | maka albarn | 玛嘉·阿尔邦 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/10/20/21/37/137321345_p0_master1200.jpg)<br>所属作品：`soul eater` |  |
+| satsuki koto | 琴纱月 | ![](https://img.moegirl.org.cn/common/2/20/琴纱月stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
