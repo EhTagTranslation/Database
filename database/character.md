@@ -5707,7 +5707,7 @@ example:
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
 | xilonen | 希诺宁 | ![](https://patchwiki.biligame.com/images/ys/4/4c/0o7jza7x470ab84h3l1nb8nu84vfrz7.gif)<br><br>所属作品：`genshin impact`<br>纳茨卡延的铸名师，善于在工作的重担与舒适的生活之间找到平衡点。 | [萌娘百科](https://zh.moegirl.org.cn/希诺宁) |
 | citlali | 茜特菈莉 | ![](https://patchwiki.biligame.com/images/ys/9/98/ni7bu65xsu73rq8cujuccynsuk3qjeq.gif)<br><br>所属作品: `genshin impact`<br>烟谜主的大萨满，令所有族人敬畏的黑曜石奶奶。 | [萌娘百科](https://zh.moegirl.org.cn/茜特菈莉)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/茜特菈莉) |
-| neo universe | 新宇宙 | 所属作品：`uma musume pretty derby`<br>![](https://moegirl.icu/media/thumb/UPDCH_NeoUniverse_00.png/580px-UPDCH_NeoUniverse_00.png)<br>原型为日本纯血竞赛马匹ネオユニヴァース（Neo Universe）。 | [萌娘百科](https://zh.moegirl.org.cn/新宇宙%28赛马娘_Pretty_Derby%29#) |
+| neo universe | 新宇宙 | ![](https://moegirl.icu/media/thumb/UPDCH_NeoUniverse_00.png/580px-UPDCH_NeoUniverse_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ネオユニヴァース（Neo Universe）。 | [萌娘百科](https://zh.moegirl.org.cn/新宇宙%28赛马娘_Pretty_Derby%29#) |
 | koleda belobog | 珂蕾妲·贝洛伯格 | 《绝区零》及其衍生作品的登场角色。白祇重工的头儿，年纪轻轻的掌舵人。别号：珂蕾妲、小不点、社长。 | [萌娘百科](https://zh.moegirl.org.cn/珂蕾妲·贝洛伯格) |
 | satono crown | 里见皇冠 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/3/31/acsfjqmxvlg20ikpls57f83hakitl3a.png/600px-Jsf_108801.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹サトノクラウン（Satono Crown）。 | [萌娘百科](https://zh.moegirl.org.cn/里见皇冠) |
 | zenno rob roy | 荒漠英雄 | 所属作品：`uma musume pretty derby`<br>![](https://moegirl.icu/media/thumb/UPDCH_ZennoRobRoy_00.png/580px-UPDCH_ZennoRobRoy_00.png)<br>原型为日本纯血竞赛马匹ゼンノロブロイ（Zenno Rob Roy）。 | [萌娘百科](https://zh.moegirl.org.cn/荒漠英雄) |
