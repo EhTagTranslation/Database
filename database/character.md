@@ -6919,7 +6919,7 @@ example:
 | calstone light o | 金镇之光 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/2/24/s5vr9xinrca3wguig1so9cim0ja2i08.png/600px-Jsf_112001.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/金镇之光) |
 | little cocon | 小巧圆茧 | 所属作品：`uma musume pretty derby`<br><br>冷酷且毒舌，禁欲克己的赛马娘。由于讨厌改变自己的个性而回避着集体行动。 | [百度百科](https://baike.baidu.com/item/小巧圆茧/63386907?fr=aladdin) |
 | tanino gimlet | 谷野美酒 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/9sercgtf40a1jxtfwfq5xv5h3wnztiv.png/600px-Jsf_108401.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/谷水琴蕾) |
-| mr. c.b. | 千明代表 |  |  |
+| mr. c.b. | 千明代表 | 所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
