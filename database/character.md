@@ -1387,7 +1387,7 @@ example:
 | maika tsuchimikado | 土御门舞夏 |  |  |
 | erii haruue | 春上衿衣 |  |  |
 | ruiko saten | 佐天泪子 | ![21.webp](https://p.sda1.dev/28/1c3735c855baf5124f298f33b04223df/21.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/佐天泪子) |
-| kazari uiharu | 初春饰利 |  |  |
+| kazari uiharu | 初春饰利 | ![](https://ehgt.org/w/01/611/58109-lklio9c0.webp)<br>所属作品：`toaru project` |  |
 | accelerator | 一方通行 |  |  |
 | oriana thomson | 欧莉安娜·汤姆森 |  |  |
 | shizuri mugino | 麦野沉利 | ![](https://ehgt.org/w/01/763/09200-6743lac3.webp)<br>所属作品：`toaru project`<br>统帅暗部组织“道具”的女王，学园都市排名第四位的超能力者。 | [萌娘百科](https://zh.moegirl.org.cn/麦野沉利) |
