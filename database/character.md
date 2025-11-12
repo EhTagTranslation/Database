@@ -6365,7 +6365,7 @@ example:
 | marco diaz | 马可·迪亚兹 |  |  |
 | claude claudel | 克洛德·克劳戴 |  |  |
 | yune | 汤音 |  |  |
-| nachoneko | Nachoneko | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/30/23/57/07/136886445_p0_master1200.jpg)<br>Nachoneko, 是猫猫画师`a:amashiro natsuki`老师本人的vtuber人物(和本体一样都是猫猫). | [YouTube](https://www.youtube.com/@Nachoneko_dayo/)<br>[Twitch](https://www.twitch.tv/nacho_dayo)<br>[X](https://www.x.com/amsrntk3)<br>[HP](https://www.amashiro.com) |
+| nachoneko | Nachoneko | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/30/23/57/07/136886445_p0_master1200.jpg)<br>Nachoneko, 是猫猫画师`a:amashiro natsuki`老师本人的虚拟角色形象。 | [YouTube](https://www.youtube.com/@Nachoneko_dayo/)<br>[Twitch](https://www.twitch.tv/nacho_dayo)<br>[X](https://www.x.com/amsrntk3)<br>[HP](https://www.amashiro.com) |
 | mountain | 山 | ![](https://img.moegirl.org.cn/common/7/73/明日方舟立绘_山_1.png)<br>所属作品`p:arknights` | [明日方舟Wiki(prts.wiki)](https://prts.wiki/w/山) [萌娘百科](https://zh.moegirl.org.cn/山%28明日方舟%29#) |
 | jin qiu | 金秋 | 金秋（Jin Qiu）所属游戏：`dislyte` 是游戏《众神派对》及其衍生作品的登场角色。![](https://static.wikia.nocookie.net/dislyte/images/a/af/Jin_Qiu.png/revision/latest?cb=20231030143250) | [Fandom](https://dislyte.fandom.com/wiki/Jin_Qiu_%28Ru_Shou%29) |
 | riruru | 莉露露 | 游戏美好的每一天，终之空登场角色，是个扶他（魔法少）女 |  |
