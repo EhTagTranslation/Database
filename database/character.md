@@ -6963,6 +6963,7 @@ example:
 | yukino miyazawa | 宫泽雪野 |  |  |
 | irisdina bernhard | 爱丽丝蒂娜·伯恩哈德 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8d/Irisdina_BDU_1.png)<br>所属作品：`schwarzesmarken` |  |
 | nanaka kotegawa | 古手川奈奈华 | ![](https://ehgt.org/w/01/970/72734-is9gtnv0.webp)<br>所属作品：`grand blue`<br>潜水商店的看板娘，性格温柔且受人喜爱。 |  |
+| mrs. yukinoshita | 雪之下夫人 | ![](https://ehgt.org/w/02/106/90950-nj2uwff3.webp)<br>所属作品：`yahari ore no seishun love come wa machigatteiru`<br>雪之下阳乃和雪乃的母亲，外表和气质上和雪乃很相似，但感性部分上却更像阳乃，拥有压倒性的魄力。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
