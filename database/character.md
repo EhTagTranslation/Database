@@ -6934,7 +6934,7 @@ example:
 | fusaichi pandora | 房一潘多拉 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/73/8ouv8z4sgzxw7fmko3bq0hm2wnh7f7o.png/600px-Jsf_111301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/房一潘多拉) |
 | biwa hayahide | 琵琶晨光 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/a/a6/1uk6y38yizv2jku12ip6yj42qoy9gzl.png/600px-Jsf_102301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/琵琶晨光) |
 | k.s.miracle | 凯斯奇迹 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/e/ec/4tlt2vo3rsd86e35wpcy7g4jjioqnkw.png/600px-Jsf_109301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/凯斯奇迹) |
-| zentreya | Zentreya | ‌Zentreya‌是Vshojo旗下的英语虚拟主播，以177cm机甲龙娘形象活跃于直播平台，粉丝群体被称为geckos。‌‌ |  |
+| zentreya | Zentreya | ‌![](https://ehgt.org/w/02/050/23525-n5nu0o4d.webp)<br>Zentreya‌是Vshojo旗下的英语虚拟主播，以177cm机甲龙娘形象活跃于直播平台，粉丝群体被称为geckos。‌‌ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
