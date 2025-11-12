@@ -6953,6 +6953,7 @@ example:
 | squirrel girl | 多莉恩·格林（松鼠妹） | 《The Unbeatable Squirrel Girl》（《打不败的松鼠妹》）中的主角。 |  |
 | saeko nogami | 野上冴子 | ![](https://ehgt.org/w/01/906/62677-4mxwjw8b.webp)<br>所属作品：`city hunter`<br>警视厅的刑警，美丽妖艳，被称作「警视厅的女狐」，与槙村秀幸是同事和恋人关系。 |  |
 | faust | 浮士德 | ![](https://ehgt.org/w/01/771/16302-6nw88x4b.webp)<br>所属作品：`limbus company`<br>作为LCB巴士部2号罪人，以傲慢性格与超凡才智开发了梅菲斯托费勒斯引擎 |  |
+| miu ousawa | 凰泽美兔 | ![](https://static.wikia.nocookie.net/ikkitousen-transformers/images/2/2d/63539edf66974b9c36465e5460c788f3.jpg)<br>所属作品：`hagure yuusha no estetica`<br>原名缪，为异世界魔王卡留斯与暗精灵所生之女。在魔王被主人公凰泽晓月击败后，她被托付给晓月并带回现世，改名为"凰泽美兔"。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
