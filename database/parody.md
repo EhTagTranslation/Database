@@ -2579,6 +2579,7 @@ example:
 | shuumatsu no valkyrie | 终末的女武神 | ![](https://lain.bgm.tv/r/400/pic/cover/l/38/0c/322900_V56Ny.jpg) |  |
 | viper rsr | Viper rsr | Viper RSR是Sogna开发的成人向视觉小说游戏 |  |
 | nozomanu fushi no boukensha | 事与愿违的不死冒险者 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901756116.webp)<br>望まぬ不死の冒険者 |  |
+| omniscient readers viewpoint | 全知读者视角 | 《全知读者视角》（Omniscient Reader's Viewpoint）是韩国作家Sing Shong创作的奇幻元小说系列 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
