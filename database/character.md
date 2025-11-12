@@ -6928,7 +6928,7 @@ example:
 | gran alegria | 放声欢呼 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/1/18/lmcll5b1m1gucxzpac7af4xvv13qheb.png/600px-Jsf_113101.png)<br>原型为现实中的赛马Gran Alegria（グランアレグリア）‌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/放声欢呼) |
 | light hello | 双铃莱特 | 所属作品：`uma musume pretty derby` |  |
 | narita brian | 成田白仁 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/5/59/4ydwvypyvxo1uueuzhnesvvjsri4q3j.png/600px-Jsf_101601.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/成田白仁) |
-| orfevre | 黄金巨匠 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/4/41/8i0qxbh3kol20t7zxfr0eyx3di2o8yv.png/600px-Jsf_111501.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/黄金巨匠) |
+| orfevre | 黄金巨匠 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/41/8i0qxbh3kol20t7zxfr0eyx3di2o8yv.png/600px-Jsf_111501.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/黄金巨匠) |
 | curren bouqetdor | 机伶金花 | 所属作品：`uma musume pretty derby` |  |
 | jungle pocket | 森林宝穴 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/5/51/cynfo1acfzi3ihacqpzno3ni357sidm.png/600px-Jsf_109401.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/森林宝穴) |
 | fusaichi pandora | 房一潘多拉 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/73/8ouv8z4sgzxw7fmko3bq0hm2wnh7f7o.png/600px-Jsf_111301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/房一潘多拉) |
