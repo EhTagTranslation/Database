@@ -1784,7 +1784,7 @@ example:
 | lyria | 露莉亚 | 拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
 | katalina aryze | 卡塔莉娜·亚利洁 | 守护著露莉亚的女性骑士。艾尔斯提帝国军中是中尉的阶级，负责露莉亚的护卫与监视工作，得知帝国打算利用露莉亚来得到强大的力量后，为了帮助露莉亚逃脱而背叛帝国。露莉亚就像真正的妹妹一样重要。 | [维基百科](https://zh.wikipedia.org/wiki/碧藍幻想) |
 | narmaya | 娜尔梅亚 |  |  |
-| rosetta | 萝赛塔 | 主人公等人在ルーマシー群岛时相遇的谜之美女。因为中意主人公等人而加入同行行列。貌似知道格兰父亲的样子，谜样的美女。超然而难以捉摸，十分亲切地关照格兰。 |  |
+| rosetta | 萝赛塔 | ![](https://patchwiki.biligame.com/images/zspms/thumb/3/36/2qwkz0wcq3xjajlpfqxhxhwjqsl3kms.png/375px-角色_罗塞塔_凛冽_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | sturm | 斯特姆 |  |  |
 | vira | 维拉 |  |  |
 | vampy | 斑比 | vampire-->vampy, 巴哈姆特之怒, 碧蓝幻想, 影之诗, 公主连结! Re:Dive, 等作品中均有出场. | [萌娘百科](https://zh.moegirl.org.cn/斑比) |
