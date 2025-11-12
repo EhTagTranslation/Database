@@ -6957,6 +6957,7 @@ example:
 | rikku | 琉库 | ![](https://ehgt.org/w/02/043/85930-gcs0ejzp.webp)<br>所属作品：`final fantasy x`<br>15岁的她以158公分身姿展现活泼机智的性格，擅长使用族群特殊道具进行战术支援 |  |
 | yukino aguria | 雪乃·阿古丽亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/4a/18518_crt_E41mf.jpg)<br>所属作品：`fairy tail` |  |
 | lamia loveless | 拉米娅-拉布雷斯 | ![](https://ehgt.org/w/00/697/56507-66yzdima.webp)<br>所属作品：`super robot wars`<br>由异世界泰拉斯研究所制造的人造人，驾驶特机弓天使（SMSC ANGELG）。 |  |
+| yuri alpha | 尤里·阿尔法 | ![](https://ehgt.org/w/01/296/15985-7iuu6jt2.webp)<br>所属作品：`overlord`<br>贾尔达鲍斯的恶魔女仆，以蓝色面具为标志。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
