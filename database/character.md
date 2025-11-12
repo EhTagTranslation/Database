@@ -6924,6 +6924,7 @@ example:
 | mejiro ryan | 目白赖恩 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/f/f1/k047yw3r4b181md986inlprjtx8mkn0.png/600px-Jsf_102701.png)<br>原型是日本著名赛马メジロライアン（Mejiro Ryan） | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/目白赖恩) |
 | daitaku helios | 大拓太阳神 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/3/39/8w9gpw88vp1jyuw8hpgov1179xeddk9.png/600px-Jsf_106501.png)<br>原型为日本纯血竞赛马匹ダイタクヘリオス(Daitaku Helios)。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/大拓太阳神) |
 | katsuragi ace | 葛城王牌 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/2/25/otmsqkoq6nkgeeq1879zel24giozivf.png/600px-Jsf_110401.png)<br>原型为日本纯血竞赛马匹葛城王牌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/葛城王牌) |
+| chrono genesis | 创世驹 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/5/58/oaxsmj7vrlup1saqtyrm1yszk9ukhwg.png/600px-Jsf_113301.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/创世驹) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
