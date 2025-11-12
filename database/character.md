@@ -6950,7 +6950,7 @@ example:
 | kurumi imari | 伊万里胡桃 | ![](https://ehgt.org/w/01/900/44929-9sv9tnq1.webp)<br>所属作品：`bible black` |  |
 | aldra | 阿尔德拉 | ![](https://static.wikia.nocookie.net/ideas/images/8/83/Aldra.png)<br>所属作品：`queens blade`<br>作为连续两届女皇之刃比赛的卫冕女王，具有人间宗教最高指导者与魔王之女的双重血统，拥有银发黑红瞳的半恶魔身份。 |  |
 | duramente | 大鸣大放 | ![](https://img.moegirl.org.cn/common/a/a9/UPDCH_Duramente_10.png)<br>所属作品：`uma musume pretty derby` |  |
-| squirrel girl | 多莉恩·格林 | 《The Unbeatable Squirrel Girl》（《打不败的松鼠妹》）中的主角。 |  |
+| squirrel girl | 多莉恩·格林（松鼠妹） | 《The Unbeatable Squirrel Girl》（《打不败的松鼠妹》）中的主角。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
