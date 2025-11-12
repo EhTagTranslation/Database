@@ -915,7 +915,7 @@ example:
 | octavia | 奥塔维雅 |  |  |
 | vinyl scratch | DJ3号 |  |  |
 | derpy hooves | 小呆 |  |  |
-| discord | 无序 |  |  |
+| discord | 斜奏 | ![](https://patchwiki.biligame.com/images/zspms/thumb/9/90/1rf89cczwiqixpr7c7nup3orowyfaxr.png/375px-角色_斜奏_裁律_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | diamond tiara | 珠玉冠冠 |  |  |
 | silver spoon | 白银勺勺 |  |  |
 | princess ember | 余焰公主 |  |  |
