@@ -4165,7 +4165,7 @@ example:
 | aoi kunieda | 邦枝葵 | 所属作品: `p:beelzebub` | [维基百科](https://zh.wikipedia.org/wiki/魔B爸B角色列表) |
 | sajuna inui | 乾纱寿叶 | ![](https://img.moegirl.org.cn/common/thumb/6/6c/Inui_Sajuna_anime.png/75px-Inui_Sajuna_anime.png)<br>所属作品: `p:sono bisque doll wa koi o suru`<br>以「珠珠」为名义活动的高人气coser。<br>外表年幼的少女。最初被新菜、薰、喜多川误认为是初中生甚至是小学生。 | [萌娘百科](https://zh.moegirl.org.cn/乾纱寿叶) |
 | toushirou hitsugaya | 日番谷冬狮郎 |  |  |
-| soi fon | 碎蜂 |  |  |
+| soi fon | 碎蜂 | ![](https://ehgt.org/w/02/092/55989-d1uinvr3.webp)<br>所属作品：`bleach` |  |
 | guan yinping | 关银屏 |  |  |
 | xing cai | 张星彩 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhen ji | 甄姬 |  |  |
