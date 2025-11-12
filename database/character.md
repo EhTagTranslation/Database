@@ -6945,6 +6945,7 @@ example:
 | hibiki sakura | 纱仓响 | ![](https://static.wikia.nocookie.net/dumbbell-nan-kilo-moteru/images/b/b3/Sakura_Hibiki_%28anime%29.png)<br>所属作品：`dumbbell nan kilo moteru` | [Bangumi](https://bgm.tv/character/69508) |
 | eunie | 优妮 | ![](https://ehgt.org/w/02/037/74599-2zw84wtl.webp)<br>所属作品：`xenoblade chronicles 3`<br>18岁少女，武器为法杖形枪械，职业为医护铳兵，擅长团队恢复技能。 |  |
 | fenrys | 芬里丝 | ![](https://ehgt.org/w/01/977/01249-1g9q59ru.webp)<br>所属作品：`lv2 kara cheat datta motoyuusha kouho no mattari isekai life` |  |
+| guam | 关岛 | ![](https://i2.hdslb.com/bfs/new_dyn/fc7fa1c0638c84a09646b1ab40ce1b9a262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/1b3a3268fc850e4f31bd247d27d7a607262400697.png)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
