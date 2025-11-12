@@ -2280,7 +2280,7 @@ example:
 | peanuts | 花生 | 《花生》（英语：Peanuts）是一部美国报纸连环漫画，作者为查尔斯·舒尔茨（Charles M. Schulz）。《花生》是漫画发展史上首部多个角色系列漫画，从1950年10月2日开始发行，到2000年2月13日作者病逝为止，共连载17,897幅。漫画中以`c:snoopy`、`c:charlie brown`、`c:sally brown`、`c:linus van pelt`、`c:lucy van pelt`、施洛德（Schroeder）、`c:patricia reichardt`、`c:marcie`、和富兰克林（Franklin）等几位小学生为主要角色，以小孩生活为题材，观察这个简单又复杂的世界。 | [维基百科](https://zh.wikipedia.org/wiki/花生漫畫) |
 | fortnite | 堡垒之夜 |  | [维基百科](https://zh.wikipedia.org/wiki/堡垒之夜) |
 | doom | 毁灭战士 | 毁灭战士系列（Doom），是由id Software开发的第一人称射击电子游戏系列，在电子游戏界中被普遍视作第一人称射击游戏的开拓者之一。 |  |
-| snowbreak containment zone | 尘白禁区 | 《尘白禁区》是由西山居狸花猫工作室开发和发行的轻科幻3D美少女射击游戏。<br>![](https://img.moegirl.org.cn/common/c/ce/尘白禁区_icon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尘白禁区) |
+| snowbreak containment zone | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/215/4408/2022/2/31/331137.webp) 尘白禁区 | 《尘白禁区》是由西山居狸花猫工作室开发和发行的轻科幻3D美少女射击游戏。<br>![](https://img.moegirl.org.cn/common/c/ce/尘白禁区_icon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/尘白禁区) |
 | wuthering waves | ![](https://p.sda1.dev/22/4fa7c30d6c5c3b816ee4bf05875e7bf2/image.png)鸣潮 | 《鸣潮》是由库洛游戏开发的一款开放世界动作游戏。<br>![](https://ehgt.org/8a/83/8a83a628dd08ed1e7dade968bc10082d860ddbe1-166733-316-316-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鸣潮) |
 | baldurs gate | 博德之门 |  | [维基百科](https://zh.wikipedia.org/wiki/博德之门系列) |
 | tenshi no 3p | 天使的3P |  |  |
