@@ -6969,6 +6969,7 @@ example:
 | hanying | 含英 | ![](https://patchwiki.biligame.com/images/zspms/thumb/8/86/lzabulr4aa25cwaatd6gzqnlteztdnd.png/375px-角色_含英_檀心_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | liv | 丽芙 | ![](https://patchwiki.biligame.com/images/zspms/thumb/0/09/2eogbbmgjbvd8vi6prks1ojpbjd7gxg.png/375px-角色_丽芙_霁梦_立绘.png)<br>丽芙·霁梦<br>所属游戏：`punishing gray raven` |  |
 | sophia | 苏菲亚 | ![](https://patchwiki.biligame.com/images/zspms/8/82/cu4s4oqzr5d91m6qqdpcj6v78q91rbi.png)<br>苏菲亚涂装 曼荼纱舞<br>所属游戏：`punishing gray raven` |  |
+| hikaru kamisaki | 狼嵜光 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/03/19/40/16/137055998_p0_master1200.jpg)<br>所属作品：`medalist` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
