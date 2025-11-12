@@ -1366,7 +1366,7 @@ example:
 | chise umenomori | 梅之森千世 | ![](# "https://ehgt.org/eb/47/eb479f9101fa9a9ac4387fe5aef94332291ee73f-92158-200-500-jpg_l.jpg") |  |
 | otome tsuzuki | 都筑乙女 | ![](# "https://ehgt.org/45/87/45872d9bf03632f4587a7f1e98ffeca6e1b7dad1-77557-200-500-jpg_l.jpg") |  |
 |  | ▼ 魔禁/超炮 |  |  |
-| touma kamijou | 上条当麻 |  |  |
+| touma kamijou | 上条当麻 | ![](https://patchwiki.biligame.com/images/index/5/5a/qlz1hrtrbz5vih01p3ul7blp981cees.png)<br>所属作品：`toaru project` |  |
 | mikoto misaka | 御坂美琴 | ![](https://ehgt.org/w/02/069/23283-dd8zi1hu.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/御坂美琴) |
 | misuzu misaka | 御坂美铃 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/29/15/50/23/136832195_p0_master1200.jpg)<br>所属作品：`toaru project`<br>御坂美琴的妈妈。 |  |
 | aisa himegami | 姬神秋沙 |  |  |
