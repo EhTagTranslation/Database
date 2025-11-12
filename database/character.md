@@ -1376,7 +1376,7 @@ example:
 | komoe tsukuyomi | 月咏小萌 |  |  |
 | misaka-imouto | 御坂妹妹 | 轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。<br>![10.webp](https://p.sda1.dev/28/86b806f9adf126e6fb3fcc4b9348477d/10.webp) | [萌娘百科](https://zh.moegirl.org.cn/御坂妹妹) |
 | last order | 最后之作 |  |  |
-| index librorum prohibitorum | 茵蒂克丝 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、漫画等作品的登场角色。<br>![14.webp](https://p.sda1.dev/28/d32e9e075f8aa62b3c96d919fe5877a8/14.webp)<br>![15.webp](https://p.sda1.dev/28/4111dd6732a25a6fd233da5df34d3f93/15.webp) | [萌娘百科](https://zh.moegirl.org.cn/茵蒂克丝) |
+| index librorum prohibitorum | 茵蒂克丝 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2019/05/17/21/15/50/74770656_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/茵蒂克丝) |
 | kuroko shirai | 白井黑子 | ![](https://toaru-project.com/railgun_t/core_sys/images/contents/00000009/base/l1.png)<br>所属作品：`toaru project` |  |
 | misaki shokuhou | 食蜂操祈 | ![](https://ehgt.org/w/02/106/83209-rtgu3lc8.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/食蜂操祈) |
 | mitsuko kongou | 婚后光子 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、游戏等作品的登场角色。<br>![23.webp](https://p.sda1.dev/28/7c8b8d3bd9440b2c42c18235ca1d72ca/23.webp) | [萌娘百科](https://zh.moegirl.org.cn/婚后光子) |
