@@ -1386,7 +1386,7 @@ example:
 | tsuzuri tessou | 铁装缀里 |  |  |
 | maika tsuchimikado | 土御门舞夏 |  |  |
 | erii haruue | 春上衿衣 |  |  |
-| ruiko saten | 佐天泪子 | 漫画《某科学的超电磁炮》及其衍生的动画、游戏等作品的登场角色，主系列《魔法禁书目录》世界观下的角色之一。<br>![22.webp](https://p.sda1.dev/28/10e2c66241074b1c789c320b550d8033/22.webp)<br>![21.webp](https://p.sda1.dev/28/1c3735c855baf5124f298f33b04223df/21.webp) | [萌娘百科](https://zh.moegirl.org.cn/佐天泪子) |
+| ruiko saten | 佐天泪子 | ![21.webp](https://p.sda1.dev/28/1c3735c855baf5124f298f33b04223df/21.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/佐天泪子) |
 | kazari uiharu | 初春饰利 |  |  |
 | accelerator | 一方通行 |  |  |
 | oriana thomson | 欧莉安娜·汤姆森 |  |  |
