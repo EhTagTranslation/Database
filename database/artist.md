@@ -14194,6 +14194,7 @@ example:
 | kamikita futago | 上北ふたご | 上北双子（1960年8月11日—）是日本的漫画家，双胞胎姐妹，狮子座，B型血，高知县出生。 | [维基百科](https://zh.wikipedia.org/wiki/上北雙子) |
 | ukifune kuji | 浮舟籤 | 画师头像:<br>![](https://i.pixiv.cat/user-profile/img/2024/01/07/10/22/58/25363552_14ac9bcde0e9fbeb51b8cadf1fc07b42_170.jpg) | [pixiv](https://www.pixiv.net/users/90374398)<br>[X](https://x.com/Ukifune94/photo) |
 | aguu | アグゥ |  | [X](https://x.com/agulutrip) (R18)<br>[X](https://x.com/agulutrick) (全年龄)<br>[pixiv](https://www.pixiv.net/users/5081063) |
+| asuka rayaru | 明日華らやる | 画师头像<br>![](https://i.pixiv.cat/user-profile/img/2022/07/15/21/20/40/23028550_2e6c2085da79727cdbe8fb29c9baee35_170.jpg) | [pixiv](https://www.pixiv.net/users/23275285)<br>[X](https://x.com/ASUK4_illust) |
 
 <!--TEMPLATE:
 |  |  |  |  |
