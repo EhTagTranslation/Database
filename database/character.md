@@ -6915,6 +6915,7 @@ example:
 | tess kotkin | 苔丝·科特金 | 所属作品：`snowbreak containment zone`<br>![](https://ehgt.org/w/01/491/55797-ilaji7yl.webp)<br>苔丝·科特金（Tess Kotkin）是西山居狸花猫工作室开发的游戏《尘白禁区》中的登场角色，原为普通高中生，梦想成为魔术师，后加入海姆达尔部队。 |  |
 | shelly | 泉 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/f/f1/Omega_Ruby_Alpha_Sapphire_Shelly.png)<br>泉（外文名：イズミ/Shelly），别称泉美，登场于《宝可梦红宝石·蓝宝石》等多部作品。 |  |
 | loves only you | 唯独爱你 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/2bc4r1ovi6cfg4dteerny3wyb36dx87.png/600px-Jsf_113201.png)<br>唯独爱你/ラヴズオンリーユー/Lovesonly you 2016年3月26日生于北海道安平町北部牧场,牝,鹿毛。父:大震撼,母父:暴风猫。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/唯独爱你) |
+| sakura hagiwara | 萩原樱 | 所属作品：`sekai de ichiban tsuyoku naritai`<br>![](https://ehgt.org/w/01/807/85039-kbrt7xtl.webp)<br>日文名 萩原さくら |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
