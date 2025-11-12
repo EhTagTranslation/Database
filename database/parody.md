@@ -2576,6 +2576,7 @@ example:
 | friday the 13th | 13号星期五 |  |  |
 | sekai de ichiban tsuyoku naritai | 我要成为世界最强偶像 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b2/71/78408_7W41p.jpg)<br>《我要成为世界最强偶像》（世界でいちばん強くなりたい！）是由ESE负责原作、黑狮子负责角色设计、夏目清仁负责作画的日本漫画。<br>故事以国民偶像团体“Sweet”成员萩原樱为主角，讲述其伙伴宫泽惠丽奈在直播中遭女子摔角手风间璃绪袭击受伤后，樱为复仇踏入职业摔角界的故事。 | [百度百科](https://baike.baidu.com/item/我要成为世界最强偶像/82638?fromModule=lemma_sense-layer#viewPageContent) |
 | the unbeatable squirrel girl | 打不败的松鼠妹 | 漫威漫画中的一部以松鼠妹（多莉恩·格林）为主角的系列漫画‌ |  |
+| shuumatsu no valkyrie | 终末的女武神 | ![](https://lain.bgm.tv/r/400/pic/cover/l/38/0c/322900_V56Ny.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
