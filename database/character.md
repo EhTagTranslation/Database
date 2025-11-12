@@ -6929,6 +6929,7 @@ example:
 | light hello | 双铃莱特 | 所属作品：`uma musume pretty derby` |  |
 | narita brian | 成田白仁 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/5/59/4ydwvypyvxo1uueuzhnesvvjsri4q3j.png/600px-Jsf_101601.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/成田白仁) |
 | orfevre | 黄金巨匠 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/4/41/8i0qxbh3kol20t7zxfr0eyx3di2o8yv.png/600px-Jsf_111501.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/黄金巨匠) |
+| curren bouqetdor | 机伶金花 | 所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
