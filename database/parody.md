@@ -2398,7 +2398,7 @@ example:
 | ga-rei | 食灵-零- |  | [萌娘百科](https://zh.moegirl.org.cn/食灵-零-) [维基百科](https://zh.wikipedia.org/wiki/食靈) |
 | jin ping mei | 金瓶梅 |  |  |
 | eiken | 巨乳学园 |  | [维基百科](https://zh.wikipedia.org/wiki/巨乳學園) |
-| medalist | 金牌得主 | 常用译名：舞冰的祈愿 | [维基百科](https://zh.wikipedia.org/wiki/金牌得主) |
+| medalist | 舞冰的祈愿 | ![](https://upload.wikimedia.org/wikipedia/zh/b/b5/メダリスト.jpg)<br>别译：金牌得主 | [维基百科](https://zh.wikipedia.org/wiki/金牌得主) |
 | arakawa under the bridge | 荒川爆笑团 |  | [维基百科](https://zh.wikipedia.org/wiki/荒川爆笑團) [萌娘百科](https://zh.moegirl.org.cn/荒川爆笑团) |
 | mamotte shugogetten | 守护月天 |  | [维基百科](https://zh.wikipedia.org/wiki/守護月天) [萌娘百科](https://zh.moegirl.org.cn/守护月天) |
 | popolocrois | 波波罗古洛伊斯物语 |  | [维基百科](https://zh.wikipedia.org/wiki/波波羅古洛伊斯物語) |
