@@ -6952,6 +6952,7 @@ example:
 | duramente | 大鸣大放 | ![](https://img.moegirl.org.cn/common/a/a9/UPDCH_Duramente_10.png)<br>所属作品：`uma musume pretty derby` |  |
 | squirrel girl | 多莉恩·格林（松鼠妹） | 《The Unbeatable Squirrel Girl》（《打不败的松鼠妹》）中的主角。 |  |
 | saeko nogami | 野上冴子 | ![](https://ehgt.org/w/01/906/62677-4mxwjw8b.webp)<br>所属作品：`city hunter`<br>警视厅的刑警，美丽妖艳，被称作「警视厅的女狐」，与槙村秀幸是同事和恋人关系。 |  |
+| faust | 浮士德 | ![](https://ehgt.org/w/01/771/16302-6nw88x4b.webp)<br>所属作品：`limbus company`<br>作为LCB巴士部2号罪人，以傲慢性格与超凡才智开发了梅菲斯托费勒斯引擎 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
