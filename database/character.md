@@ -6943,6 +6943,7 @@ example:
 | fei yuen | 飞云 | ![](https://img.moegirl.org.cn/common/thumb/1/17/BLHX_feiyun.png/1059px-BLHX_feiyun.png)<br>![](https://img.moegirl.org.cn/common/thumb/6/67/BLHX_115760942.png/371px-BLHX_115760942.png)<br>飞云（Fei Yuen，飛雲）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`p:azur lane`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:飞云) |
 | fu po | 伏波 | ![](https://patchwiki.biligame.com/images/blhx/thumb/2/2d/05okymsy7b95plgrm3s3g43jl7ehx1b.jpg/525px-伏波立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/7/7a/qvlxte2vek7cpm6dg1guuz2r0pw90il.jpg)<br>伏波（Fu Po）是由蛮啾网络、勇仕网络联合研发的移动设备游戏《`p:azur lane`》及其衍生作品的登场角色。<br><br>长风级驱逐舰，是清朝末期海军重建时期向德国采购的一级驱逐舰。不过下水前辛亥革命已爆发，返国服役时已由中华民国继承接收。本级舰3艘均经历了民国初年军阀混战的动荡时期，其中首舰豫章号（原长风号）在1932年触礁损失。1937年抗日战争爆发初期，剩下两舰建康号（原伏波号）、同安号（原飞云号）均告损失，后由日军修复，并转交给伪政权使用。1944年同春号（原同安号）起义。1945年抗战胜利，建康号重回中国海军序列，1947年从海军退役。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/伏波) |
 | hibiki sakura | 纱仓响 | ![](https://static.wikia.nocookie.net/dumbbell-nan-kilo-moteru/images/b/b3/Sakura_Hibiki_%28anime%29.png)<br>所属作品：`dumbbell nan kilo moteru` | [Bangumi](https://bgm.tv/character/69508) |
+| eunie | 优妮 | ![](https://ehgt.org/w/02/037/74599-2zw84wtl.webp)<br>所属作品：`xenoblade chronicles 3`<br>18岁少女，武器为法杖形枪械，职业为医护铳兵，擅长团队恢复技能。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
