@@ -2580,6 +2580,7 @@ example:
 | viper rsr | Viper rsr | Viper RSR是Sogna开发的成人向视觉小说游戏 |  |
 | nozomanu fushi no boukensha | 事与愿违的不死冒险者 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901756116.webp)<br>望まぬ不死の冒険者 |  |
 | omniscient readers viewpoint | 全知读者视角 | ![](https://omniscientreadersviewpoint.com/wp-content/uploads/2025/07/omniscient-readers-viewpoint-cover-1.webp)<br>《全知读者视角》（Omniscient Reader's Viewpoint）是韩国作家Sing Shong创作的奇幻元小说系列 |  |
+| schwarzesmarken | 黑之宣告 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2292342752.webp)<br>故事设定在1983年的东德，该国因外星种族BETA的侵略陷入绝望的消耗战。主角少尉特奥多尔·埃贝尔巴赫所属的第666战术机中队“黑之宣告”，在执行任务时与西德军少尉卡蒂亚·瓦尔特海姆相遇，后者因亡命东德而请求加入中队。随着剧情推进，角色间的信任与背叛、战争与人性的冲突逐渐展开。 ‌ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
