@@ -2578,6 +2578,7 @@ example:
 | the unbeatable squirrel girl | 打不败的松鼠妹 | 漫威漫画中的一部以松鼠妹（多莉恩·格林）为主角的系列漫画‌ |  |
 | shuumatsu no valkyrie | 终末的女武神 | ![](https://lain.bgm.tv/r/400/pic/cover/l/38/0c/322900_V56Ny.jpg) |  |
 | viper rsr | Viper rsr | Viper RSR是Sogna开发的成人向视觉小说游戏 |  |
+| nozomanu fushi no boukensha | 事与愿违的不死冒险者 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901756116.webp)<br>望まぬ不死の冒険者 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
