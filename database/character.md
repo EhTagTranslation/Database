@@ -1370,7 +1370,7 @@ example:
 | mikoto misaka | 御坂美琴 | ![](https://ehgt.org/w/02/069/23283-dd8zi1hu.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/御坂美琴) |
 | misuzu misaka | 御坂美铃 |  |  |
 | aisa himegami | 姬神秋沙 |  |  |
-| mii konori | 固法美伟 |  |  |
+| mii konori | 固法美伟 | ![](https://ehgt.org/w/02/016/86853-lmjtgva9.webp)<br>所属作品：`toaru project` |  |
 | seiri fukiyose | 吹寄制理 | ![](https://ehgt.org/w/02/038/07198-n0skyt6u.webp)<br>所属作品：`toaru project` |  |
 | kaori kanzaki | 神裂火织 | ![](https://ehgt.org/w/02/106/91465-m4tqy31f.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/神裂火织) |
 | komoe tsukuyomi | 月咏小萌 |  |  |
