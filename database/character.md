@@ -2045,7 +2045,7 @@ example:
 | trucy wright | 成步堂美贯 |  |  |
 | apollo justice | 王泥喜法介 |  |  |
 | maya fey | 绫里真宵 |  |  |
-| mia fey | 绫里千寻 | 所属作品：`ace attorney`<br>![](https://img.moegirl.org.cn/common/a/ac/GS123_Chihiro_Ayasato.png)<br>千寻是绫里法律事务所（成步堂律师事务所的前身）的所长，成步堂龙一的师父，绫里真宵的亲姐姐。 |  |
+| mia fey | 绫里千寻 | 所属作品：`ace attorney`<br>![](https://img.moegirl.org.cn/common/a/ac/GS123_Chihiro_Ayasato.png)<br>千寻是绫里法律事务所（成步堂律师事务所的前身）的所长，成步堂龙一的师父，绫里真宵的亲姐姐。 | [萌娘百科](https://zh.moegirl.org.cn/绫里千寻) |
 | pearl fey | 绫里春美 |  |  |
 | athena cykes | 希月心音 |  |  |
 | dick gumshoe | 糸锯圭介 |  |  |
