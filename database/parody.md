@@ -2573,6 +2573,7 @@ example:
 | hachigatsu no cinderella nine | 八月的棒球甜心 | ![](https://img.moegirl.org.cn/common/d/d5/八月的灰姑娘棒球队.jpg)<br>《八月的棒球甜心》（Hachigatsu no Cinderella Nine）是日本原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/八月的棒球甜心) |
 | ikusa otome valkyrie | 战乙女瓦尔基里 |  |  |
 | agents of atlas | 阿特拉斯特工队 | 阿特拉斯特工队（Agents of Atlas）是美国漫威漫画旗下的超级英雄团队，分为初代和新阿特拉斯特工队两代 |  |
+| friday the 13th | 13号星期五 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
