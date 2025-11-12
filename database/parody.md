@@ -309,7 +309,7 @@ example:
 | dragon ball super | 龙珠超 |  |  |
 | sakurasou no pet na kanojo | 樱花庄的宠物女孩 |  |  |
 | myriad colors phantom world | 无彩限的怪灵世界 |  |  |
-| soul eater | 噬魂师 |  |  |
+| soul eater | 噬魂师 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2260277206.webp) |  |
 | urara meirochou | Urara迷路帖 |  |  |
 | ranma 12 | 乱马½ |  |  |
 | yosuga no sora | 缘之空 |  |  |
