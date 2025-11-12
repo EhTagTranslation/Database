@@ -2210,7 +2210,7 @@ example:
 |  | ▼ 终末的伊泽塔 |  |  |
 | izetta | 伊泽塔 |  |  |
 | ortfine fredericka von eylstadt | 奥特菲涅·弗雷德里克·冯·埃尔施塔特 |  |  |
-| bianca | 毕安卡 |  |  |
+| bianca | 比安卡 | ![](https://patchwiki.biligame.com/images/zspms/7/7a/46juka2bupa9ighu251gxl73lfyxzx1.png)<br>所属游戏：`punishing gray raven` |  |
 | lotte | 萝特 |  |  |
 |  | ▼ 物语系列 |  |  |
 | koyomi araragi | 阿良良木历 |  |  |
