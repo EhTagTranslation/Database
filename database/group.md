@@ -13365,6 +13365,7 @@ example:
 | dekai buki wa roman | デカイ武器はロマン |  |  |
 | pandalix | ぱんだりっくす |  |  |
 | aguu-trip | アグゥトリップ |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209194/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209194/)<br>[DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48657.html) |
+| asu no hanasaku | アスノ華咲ク | 明日華らやる使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=110717](https://www.melonbooks.co.jp/circle/index.php?circle_id=110717) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
