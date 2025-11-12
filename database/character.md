@@ -6939,6 +6939,7 @@ example:
 | ouka nagisa | 凪沙樱花 | ![](https://ehgt.org/w/02/046/35072-qocdhgkk.webp)<br>凪沙樱花（日文名：オウカ・ナギサ，外文名：Ouka Nagisa）是《超级机器人大战OG2》及《超级机器人大战OGS》中的虚拟人物 |  |
 | quistis trepe | 奇丝迪丝·萃普 | ![](https://ehgt.org/w/01/875/97874-ca5ipen9.webp)<br>Quistis Trepe是《最终幻想Ⅷ》中Balamb Garden的SeeD成员及Squall的指导教官。 |  |
 | kronshtadt | 喀琅施塔得 | ![](https://i2.hdslb.com/bfs/new_dyn/84ad494fb2434738a3e448b6e89830e9262400697.png)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/6d/as2x1tqtimvng9n6xneqqzd3cjisw81.jpg/525px-喀琅施塔得换装2.jpg)<br>所属作品：`azur lane`<br>原型为：喀琅施塔得级战列巡洋舰（Kronshtadt class battlecruiser） |  |
+| chang feng | 长风(碧蓝航线) | ![](https://img.moegirl.org.cn/common/6/67/BLHX_126216712.jpg)<br>![](https://img.moegirl.org.cn/common/thumb/b/bd/BLHX_changfeng.png/1500px-BLHX_changfeng.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:长风) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
