@@ -9198,7 +9198,7 @@ example:
 | pandain | パンダィン |  |  |
 | pandatyama | ぱんだちゃま |  |  |
 | pang9943 | pang9943 |  |  |
-| panimi | ぱに魅 |  |  |
+| panimi | ぱに魅 |  | [pixiv](https://www.pixiv.net/users/1334513) |
 | panpa | ぱんぱー |  |  |
 | panta | ぱん太 |  |  |
 | pao | パオ |  |  |
