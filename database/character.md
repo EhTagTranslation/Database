@@ -6913,7 +6913,7 @@ example:
 | gigi andalucia | 琪琪·安达露西亚 | 所属作品：`mobile suit gundam hathaways flash`<br>![](https://ehgt.org/w/02/022/76942-iv4h76sr.webp)<br>琪琪·安达露西亚（Gigi Andalucia）是卡迪尤斯·邦登·伍德的情妇，大型保险公司创始人。 |  |
 | don quixote | 堂吉诃德 | 所属作品：`limbus company`<br>![](https://ehgt.org/w/02/036/99443-iy9aooxc.webp)<br>别译唐吉诃德 |  |
 | tess kotkin | 苔丝·科特金 | 所属作品：`snowbreak containment zone`<br>![](https://ehgt.org/w/01/491/55797-ilaji7yl.webp)<br>苔丝·科特金（Tess Kotkin）是西山居狸花猫工作室开发的游戏《尘白禁区》中的登场角色，原为普通高中生，梦想成为魔术师，后加入海姆达尔部队。 |  |
-| shelly | 泉 | 所属作品：`pokemon`<br><br>泉（外文名：イズミ/Shelly），别称泉美，登场于《宝可梦红宝石·蓝宝石》等多部作品。 |  |
+| shelly | 泉 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/f/f1/Omega_Ruby_Alpha_Sapphire_Shelly.png)<br>泉（外文名：イズミ/Shelly），别称泉美，登场于《宝可梦红宝石·蓝宝石》等多部作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
