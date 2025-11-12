@@ -1372,7 +1372,7 @@ example:
 | aisa himegami | 姬神秋沙 |  |  |
 | mii konori | 固法美伟 |  |  |
 | seiri fukiyose | 吹寄制理 | 所属作品：`toaru project`<br>![](https://ehgt.org/w/02/038/07198-n0skyt6u.webp) |  |
-| kaori kanzaki | 神裂火织 | 神裂火织是镰池和马创作的轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/f/fd/Kanzaki_Kaori.jpg/420px-Kanzaki_Kaori.jpg) [萌娘百科](https://zh.moegirl.org.cn/神裂火织) |
+| kaori kanzaki | 神裂火织 | ![](https://ehgt.org/w/02/106/91465-m4tqy31f.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/神裂火织) |
 | komoe tsukuyomi | 月咏小萌 |  |  |
 | misaka-imouto | 御坂妹妹 | 轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。<br>![10.webp](https://p.sda1.dev/28/86b806f9adf126e6fb3fcc4b9348477d/10.webp) | [萌娘百科](https://zh.moegirl.org.cn/御坂妹妹) |
 | last order | 最后之作 |  |  |
