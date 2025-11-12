@@ -6916,6 +6916,7 @@ example:
 | shelly | 泉 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/f/f1/Omega_Ruby_Alpha_Sapphire_Shelly.png)<br>泉（外文名：イズミ/Shelly），别称泉美，登场于《宝可梦红宝石·蓝宝石》等多部作品。 |  |
 | loves only you | 唯独爱你 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/2bc4r1ovi6cfg4dteerny3wyb36dx87.png/600px-Jsf_113201.png)<br>唯独爱你/ラヴズオンリーユー/Lovesonly you 2016年3月26日生于北海道安平町北部牧场,牝,鹿毛。父:大震撼,母父:暴风猫。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/唯独爱你) |
 | sakura hagiwara | 萩原樱 | 所属作品：`sekai de ichiban tsuyoku naritai`<br>![](https://ehgt.org/w/01/807/85039-kbrt7xtl.webp)<br>日文名 萩原さくら |  |
+| calstone light o | 金镇之光 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/2/24/s5vr9xinrca3wguig1so9cim0ja2i08.png/600px-Jsf_112001.png) | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/金镇之光) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
