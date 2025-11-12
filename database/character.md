@@ -6967,6 +6967,7 @@ example:
 | leila malkal | 蕾拉·玛露卡尔 | ![](https://ehgt.org/w/02/106/88414-a7l695vg.webp)<br>所属作品：`code geass`<br>蕾拉·玛露卡尔（レイラ・マルカル）是剧场版动画《Code Geass 亡国的阿基德》的女主角，E.U.军wZERO部队的作战参谋和指挥官。 |  |
 | selena | 赛琳娜 | ![](https://patchwiki.biligame.com/images/zspms/f/f2/io3pd0jc37xf8c3dtlg4iqrf2pb2a3t.png)<br>所属游戏：`punishing gray raven` |  |
 | hanying | 含英 | ![](https://patchwiki.biligame.com/images/zspms/thumb/8/86/lzabulr4aa25cwaatd6gzqnlteztdnd.png/375px-角色_含英_檀心_立绘.png)<br>所属游戏：`punishing gray raven` |  |
+| liv | 丽芙 | ![](https://patchwiki.biligame.com/images/zspms/thumb/0/09/2eogbbmgjbvd8vi6prks1ojpbjd7gxg.png/375px-角色_丽芙_霁梦_立绘.png)<br>丽芙·霁梦<br>所属游戏：`punishing gray raven` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
