@@ -1685,7 +1685,7 @@ example:
 | senyoku no sigrdrifa | 战翼的希格德莉法 | ![](https://static.wikia.nocookie.net/senyoku-no-sigrdrifa/images/3/31/Anime_Key_Visual.jpg) |  |
 | densetsu no yuusha da garn | 勇者传说 | jp：伝说の勇者ダ・ガーン | [维基百科](https://zh.wikipedia.org/wiki/勇者傳說) |
 | video girl ai | 电影少女 | ![](https://cdn.myanimelist.net/images/anime/1/2349l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/電影少女) |
-| last origin | Last Origin |  |  |
+| last origin | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_240/h_240/215/236746/2025/1/28/870272.webp?x-image-process=image/resize,m_lfit,h_200,w_200/ignore-error,1&image_process=resize,mid,w_200,h_200) Last Origin |  |  |
 | seven mortal sins | sin 七大罪 |  | [维基百科](https://zh.wikipedia.org/wiki/Sin_七大罪) |
 | jibaku shounen hanako-kun | 地缚少年花子君 |  |  |
 | shinkansen henkei robo shinkalion | 新干线战士 | 新干线战士 / 新干线变形机器人 | [维基百科](https://zh.wikipedia.org/wiki/新幹線戰士) |
