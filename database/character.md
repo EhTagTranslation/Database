@@ -1367,7 +1367,7 @@ example:
 | otome tsuzuki | 都筑乙女 | ![](# "https://ehgt.org/45/87/45872d9bf03632f4587a7f1e98ffeca6e1b7dad1-77557-200-500-jpg_l.jpg") |  |
 |  | ▼ 魔禁/超炮 |  |  |
 | touma kamijou | 上条当麻 |  |  |
-| mikoto misaka | 御坂美琴 | 轻小说《魔法禁书目录》与外传漫画《某科学的超电磁炮》、《幽幻姐妹》和《某科学的心理掌握》及其衍生作品中的登场角色。<br>![8.webp](https://p.sda1.dev/28/514d091110ef780bbe79ea55376134cb/8.webp)<br>![9.webp](https://p.sda1.dev/28/0aaf066cd130ad4ac0aa8b4e799c6a81/9.webp) | [萌娘百科](https://zh.moegirl.org.cn/御坂美琴) |
+| mikoto misaka | 御坂美琴 | ![](https://ehgt.org/w/02/069/23283-dd8zi1hu.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/御坂美琴) |
 | misuzu misaka | 御坂美铃 |  |  |
 | aisa himegami | 姬神秋沙 |  |  |
 | mii konori | 固法美伟 |  |  |
