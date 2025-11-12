@@ -1401,7 +1401,7 @@ example:
 | itsuwa | 五和 |  |  |
 | lucia | 露琪亚 |  |  |
 | agnese sanctis | 雅妮丝·桑提斯 |  |  |
-| angelene | 安洁莉娜 | 魔法禁书目录 |  |
+| angelene | 安洁莉娜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/21/18/50/30/129551619_p0_master1200.jpg)<br>所属作品：`toaru project`<br>身高矮小、水蛇腰、有点驼背的金发辫子头修女 |  |
 | eiga kanmi | 甘味荣华 |  |  |
 | febrie | 菲布理 |  |  |
 | janie | 珍妮 |  |  |
