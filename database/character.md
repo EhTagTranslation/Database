@@ -6955,6 +6955,7 @@ example:
 | faust | 浮士德 | ![](https://ehgt.org/w/01/771/16302-6nw88x4b.webp)<br>所属作品：`limbus company`<br>作为LCB巴士部2号罪人，以傲慢性格与超凡才智开发了梅菲斯托费勒斯引擎 |  |
 | miu ousawa | 凰泽美兔 | ![](https://static.wikia.nocookie.net/ikkitousen-transformers/images/2/2d/63539edf66974b9c36465e5460c788f3.jpg)<br>所属作品：`hagure yuusha no estetica`<br>原名缪，为异世界魔王卡留斯与暗精灵所生之女。在魔王被主人公凰泽晓月击败后，她被托付给晓月并带回现世，改名为"凰泽美兔"。 |  |
 | rikku | 琉库 | ![](https://ehgt.org/w/02/043/85930-gcs0ejzp.webp)<br>所属作品：`final fantasy x`<br>15岁的她以158公分身姿展现活泼机智的性格，擅长使用族群特殊道具进行战术支援 |  |
+| yukino aguria | 雪乃·阿古丽亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/4a/18518_crt_E41mf.jpg)<br>所属作品：`fairy tail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
