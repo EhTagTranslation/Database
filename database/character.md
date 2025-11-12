@@ -6936,6 +6936,7 @@ example:
 | k.s.miracle | 凯斯奇迹 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/e/ec/4tlt2vo3rsd86e35wpcy7g4jjioqnkw.png/600px-Jsf_109301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/凯斯奇迹) |
 | zentreya | Zentreya | ‌![](https://ehgt.org/w/02/050/23525-n5nu0o4d.webp)<br>Zentreya‌是Vshojo旗下的英语虚拟主播，以177cm机甲龙娘形象活跃于直播平台，粉丝群体被称为geckos。‌‌ |  |
 | mary marvel | 神奇玛丽 | 玛丽·贝桑（Mary Batson），即神奇玛丽（Mary Marvel），是美国DC漫画旗下超级英雄，初次登场于《神奇队长历险记》。 |  |
+| ouka nagisa | 凪沙樱花 | 凪沙樱花（日文名：オウカ・ナギサ，外文名：Ouka Nagisa）是《超级机器人大战OG2》及《超级机器人大战OGS》中的虚拟人物 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
