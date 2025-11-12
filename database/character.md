@@ -6956,6 +6956,7 @@ example:
 | miu ousawa | 凰泽美兔 | ![](https://static.wikia.nocookie.net/ikkitousen-transformers/images/2/2d/63539edf66974b9c36465e5460c788f3.jpg)<br>所属作品：`hagure yuusha no estetica`<br>原名缪，为异世界魔王卡留斯与暗精灵所生之女。在魔王被主人公凰泽晓月击败后，她被托付给晓月并带回现世，改名为"凰泽美兔"。 |  |
 | rikku | 琉库 | ![](https://ehgt.org/w/02/043/85930-gcs0ejzp.webp)<br>所属作品：`final fantasy x`<br>15岁的她以158公分身姿展现活泼机智的性格，擅长使用族群特殊道具进行战术支援 |  |
 | yukino aguria | 雪乃·阿古丽亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/4a/18518_crt_E41mf.jpg)<br>所属作品：`fairy tail` |  |
+| lamia loveless | 拉米娅-拉布雷斯 | ![](https://ehgt.org/w/00/697/56507-66yzdima.webp)<br>所属作品：`super robot wars`<br>由异世界泰拉斯研究所制造的人造人，驾驶特机弓天使（SMSC ANGELG）。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
