@@ -1381,7 +1381,7 @@ example:
 | misaki shokuhou | 食蜂操祈 | ![](https://ehgt.org/w/02/106/83209-rtgu3lc8.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/食蜂操祈) |
 | mitsuko kongou | 婚后光子 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、游戏等作品的登场角色。<br>![23.webp](https://p.sda1.dev/28/7c8b8d3bd9440b2c42c18235ca1d72ca/23.webp) | [萌娘百科](https://zh.moegirl.org.cn/婚后光子) |
 | kinuho wannai | 湾内绢保 |  |  |
-| maaya awatsuki | 泡浮万彬 | 轻小说《魔法禁书目录》和外传漫画《某科学的超电磁炮》及衍生作品的登场角色。<br>![24.webp](https://p.sda1.dev/28/d2f704d82848ec18f7cd4c15899ebc3d/24.webp) | [萌娘百科](https://zh.moegirl.org.cn/泡浮万彬) |
+| maaya awatsuki | 泡浮万彬 | ![24.webp](https://p.sda1.dev/28/d2f704d82848ec18f7cd4c15899ebc3d/24.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/泡浮万彬) |
 | aiho yomikawa | 黄泉川爱穗 |  |  |
 | tsuzuri tessou | 铁装缀里 |  |  |
 | maika tsuchimikado | 土御门舞夏 |  |  |
