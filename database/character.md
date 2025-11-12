@@ -6912,6 +6912,7 @@ example:
 | ittousai itou | 伊东一刀斋 | 所属作品：`sengoku bushouki muramasa`<br>![](https://r.hpoi.net/gk/cover/n/2015/05/de0334e347c74b9bb9fa69f4ab65084e.jpg) |  |
 | gigi andalucia | 琪琪·安达露西亚 | 所属作品：`mobile suit gundam hathaways flash`<br>![](https://ehgt.org/w/02/022/76942-iv4h76sr.webp)<br>琪琪·安达露西亚（Gigi Andalucia）是卡迪尤斯·邦登·伍德的情妇，大型保险公司创始人。 |  |
 | don quixote | 堂吉诃德 | 所属作品：`limbus company`<br>![](https://ehgt.org/w/02/036/99443-iy9aooxc.webp)<br>别译唐吉诃德 |  |
+| tess kotkin | 苔丝·科特金 | 所属作品：`snowbreak containment zone`<br>![](https://ehgt.org/w/01/491/55797-ilaji7yl.webp)<br>苔丝·科特金（Tess Kotkin）是西山居狸花猫工作室开发的游戏《尘白禁区》中的登场角色，原为普通高中生，梦想成为魔术师，后加入海姆达尔部队。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
