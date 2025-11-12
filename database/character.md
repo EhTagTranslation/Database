@@ -1376,7 +1376,7 @@ example:
 | komoe tsukuyomi | 月咏小萌 |  |  |
 | misaka-imouto | 御坂妹妹 | ![10.webp](https://p.sda1.dev/28/86b806f9adf126e6fb3fcc4b9348477d/10.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/御坂妹妹) |
 | last order | 最后之作 |  |  |
-| index librorum prohibitorum | 茵蒂克丝 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2019/05/17/21/15/50/74770656_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/茵蒂克丝) |
+| index librorum prohibitorum | 茵蒂克丝 | ![](https://patchwiki.biligame.com/images/index/a/ae/1to8ci66okeiiztziuewiauc4t8eewg.png)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/茵蒂克丝) |
 | kuroko shirai | 白井黑子 | ![](https://toaru-project.com/railgun_t/core_sys/images/contents/00000009/base/l1.png)<br>所属作品：`toaru project` |  |
 | misaki shokuhou | 食蜂操祈 | ![](https://patchwiki.biligame.com/images/index/b/bd/jpxf4zg8eezpn12ej1qqu4dexf69mde.png)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/食蜂操祈) |
 | mitsuko kongou | 婚后光子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/06/25/43/135935662_p0_master1200.jpg)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/婚后光子) |
