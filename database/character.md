@@ -1393,7 +1393,7 @@ example:
 | shizuri mugino | 麦野沉利 | 统帅暗部组织“道具”的女王，学园都市排名第四位的超能力者。 | [萌娘百科](https://zh.moegirl.org.cn/麦野沉利) |
 | rikou takitsubo | 泷壶理后 | 轻小说《魔法禁书目录》及其衍生的漫画、动画、游戏等作品的登场角色。<br>![16.webp](https://p.sda1.dev/28/a8881bfc1e36fd69b3ddf7eaf601fe7e/16.webp)<br>![17.webp](https://p.sda1.dev/28/b8f8e05514208d41d6f27093317c3883/17.webp) | [萌娘百科](https://zh.moegirl.org.cn/泷壶理后) |
 | saiai kinuhata | 绢旗最爱 | 轻小说《魔法禁书目录》与外传漫画《某科学的超电磁炮》及其衍生作品的超登场角色。<br>![18.webp](https://p.sda1.dev/28/816830fc574e2f2cca63675ca04b1761/18.webp)<br>![Ilp90.jpg](https://p.sda1.dev/28/aea5943a2d4be115fd63d1ac575ea091/Ilp90.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绢旗最爱) |
-| frenda seivelun | 芙兰达·塞维伦 | 小说《魔法禁书目录》、其外传漫画《某科学的超电磁炮》及其衍生作品的登场角色。<br>![12.webp](https://p.sda1.dev/28/8bbd8cf3a5db6faacfc1171533248c5a/12.webp)<br>![13.webp](https://p.sda1.dev/28/8489ac5e16e771a9d2709a26af730703/13.webp) | [萌娘百科](https://zh.moegirl.org.cn/芙兰达·塞维伦) |
+| frenda seivelun | 芙兰达·塞维伦 | ![13.webp](https://p.sda1.dev/28/8489ac5e16e771a9d2709a26af730703/13.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/芙兰达·塞维伦) |
 | shiage hamazura | 滨面仕上 |  |  |
 | hyouka kazakiri | 风斩冰华 | 轻小说《魔法禁书目录》、漫画《某科学的超电磁炮》及其衍生的动画、游戏等作品的登场角色。<br>![19.webp](https://p.sda1.dev/28/f44b48ebbca08f8be514b53b8f50b17c/19.webp)<br>![20.webp](https://p.sda1.dev/28/ada00bb6d0395ee2e5b885ee77572ed9/20.webp) | [萌娘百科](https://zh.moegirl.org.cn/风斩冰华) |
 | harumi kiyama | 木山春生 |  |  |
