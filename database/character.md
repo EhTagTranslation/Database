@@ -5458,7 +5458,7 @@ example:
 | noriaki kakyoin | 花京院典明 | 花京院典明（花京院（かきょういん）典明（のりあき））是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生动画的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/c/c0/Kakyoin.jpg/420px-Kakyoin.jpg) | [萌娘百科](https://zh.moegirl.org.cn/花京院典明) |
 | josuke higashikata | 东方仗助 | 东方仗助（日语：ひがしかた じょうすけ）是荒木飞吕彦所创作的漫画《JOJO的奇妙冒险（舅舅的奇妙冒险）》及其衍生作品的登场角色，系列第四部《不灭钻石》的主角。<br>![](https://img.moegirl.org.cn/common/6/67/嘟啦A梦.jpg) | [萌娘百科](https://zh.moegirl.org.cn/东方仗助) |
 | okuyasu nijimura | 虹村亿泰 | 虹村亿泰是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/d8/Nij4f80ab103fa3babfa365a0126c8fa125.jpg) | [萌娘百科](https://zh.moegirl.org.cn/虹村亿泰) |
-| aoi sakurai | 樱井葵 |  |  |
+| aoi sakurai | 樱井葵 | ![](https://ehgt.org/w/01/865/12899-jxgnbxy1.webp)<br>所属作品：`rail wars` |  |
 | orochimaru | 大蛇丸 | 火影忍者早期反派<br>大蛇丸是第三代火影猿飞日斩的徒弟，和自来也、纲手并称为传说中的“三忍”，被三代称为几十年一遇的天才忍者 | [萌娘百科](https://zh.moegirl.org.cn/大蛇丸%28火影忍者%29#) |
 | haruka hanabishi | 花菱春香 | 花菱春香（日语：花菱（はなびし） はるか）是小野中彰大所创作的漫画《憧憬成为魔法少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/花菱春香) |
 | hiro shinosawa | 筱泽广 | 篠泽广是由QualiArts与万代南梦宫娱乐共同开发、运营的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/5/5d/Imas_gakuen_cidol-shro-3-000_0-landscape.png/1280px-Imas_gakuen_cidol-shro-3-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/篠泽广) |
