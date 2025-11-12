@@ -6951,6 +6951,7 @@ example:
 | aldra | 阿尔德拉 | ![](https://static.wikia.nocookie.net/ideas/images/8/83/Aldra.png)<br>所属作品：`queens blade`<br>作为连续两届女皇之刃比赛的卫冕女王，具有人间宗教最高指导者与魔王之女的双重血统，拥有银发黑红瞳的半恶魔身份。 |  |
 | duramente | 大鸣大放 | ![](https://img.moegirl.org.cn/common/a/a9/UPDCH_Duramente_10.png)<br>所属作品：`uma musume pretty derby` |  |
 | squirrel girl | 多莉恩·格林（松鼠妹） | 《The Unbeatable Squirrel Girl》（《打不败的松鼠妹》）中的主角。 |  |
+| saeko nogami | 野上冴子 | ![](https://ehgt.org/w/01/906/62677-4mxwjw8b.webp)<br>所属作品：`city hunter`<br>警视厅的刑警，美丽妖艳，被称作「警视厅的女狐」，与槙村秀幸是同事和恋人关系。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
