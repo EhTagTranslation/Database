@@ -4964,7 +4964,7 @@ example:
 | jade | 翡翠（慈玉女士） | ![](https://patchwiki.biligame.com/images/sr/thumb/d/db/hzxqo1nhxb0on8ntmv58gshidxpue61.png/1050px-翡翠立绘.png)<br>所属作品：`honkai star rail`<br>星际和平公司「战略投资部」的高级干部，「石心十人」之一，基石为「典贷翡翠」。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/翡翠) |
 | scylla | 斯库拉 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/ae7c65bbf221f49cbbe3e5ff6bb98205262400697.png)<br>其原型是英国海军的英雄号驱逐舰（HMS\_Scylla\_(98)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:斯库拉) |
 | algerie | 阿尔及利亚 |  |  |
-| erika | 莉佳 | 莉佳（日语：エリカ）是游戏《宝可梦系列》及其衍生作品的登场角色。![莉佳](https://img.moegirl.org.cn/common/thumb/0/05/莉佳_LPLE.png/238px-莉佳_LPLE.png) |  |
+| erika | 莉佳 | 所属作品：`pokemon`<br>![莉佳](https://img.moegirl.org.cn/common/thumb/0/05/莉佳_LPLE.png/238px-莉佳_LPLE.png)<br>莉佳（日语：エリカ） |  |
 | juliana | 小青 | 小青（日语：アオイ，英语：Juliana）是《宝可梦系列》的登场角色。![小青](https://img.moegirl.org.cn/common/thumb/c/ce/Pokemon_Scarlet_Main_Character_2.png/280px-Pokemon_Scarlet_Main_Character_2.png) |  |
 | ishizu ishtar | 伊西丝·伊修达尔 | 日本漫画《游戏王》及其衍生作品中的角色，来自埃及决斗者，千年项链持有者。<br>生日：4月5日<br>年龄：20岁<br>身高：167cm<br>体重：43kg<br>星座：白羊座<br>血型：O型<br>最喜欢吃：Omaari(埃及料理)<br>最讨厌吃：肉料理<br>卡组：现世与冥界的逆转卡组 |  |
 | mai valentine | 孔雀舞 | 日本漫画《游戏王》及其衍生作品中的角色，为美女职业决斗者。本来并不相信同伴，后来在与武藤游戏和城之内克也相遇后改变了自己的看法。<br>使用神鹰女郎卡组和亚马逊卡组，有着华丽而大胆的决斗风格，在决斗者中有着一流的水准。 |  |
