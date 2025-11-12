@@ -6923,6 +6923,7 @@ example:
 | vodka | 伏特加 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/1/1f/dhvxzl089d2ltw5i3c5e6ii5on3jeyv.png/600px-Jsf_100801.png)<br>伏特加（日文名：ウオッカ）是2004年4月4日出生于日本的一匹纯种竞赛雌马，由马主谷水雄三在Country牧场培育，练马师为角居胜彦。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/伏特加) |
 | mejiro ryan | 目白赖恩 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/f/f1/k047yw3r4b181md986inlprjtx8mkn0.png/600px-Jsf_102701.png)<br>原型是日本著名赛马メジロライアン（Mejiro Ryan） | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/目白赖恩) |
 | daitaku helios | 大拓太阳神 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/3/39/8w9gpw88vp1jyuw8hpgov1179xeddk9.png/600px-Jsf_106501.png)<br>原型为日本纯血竞赛马匹ダイタクヘリオス(Daitaku Helios)。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/大拓太阳神) |
+| katsuragi ace | 葛城王牌 | 所属作品：`uma musume pretty derby`<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/2/25/otmsqkoq6nkgeeq1879zel24giozivf.png/600px-Jsf_110401.png)<br>原型为日本纯血竞赛马匹葛城王牌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/葛城王牌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
