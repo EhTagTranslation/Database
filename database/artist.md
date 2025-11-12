@@ -14191,7 +14191,7 @@ example:
 | jmao | JMao睫毛 |  | [pixiv](https://www.pixiv.net/users/2829550) [X](https://x.com/jmaomaomao) |
 | yonketa | よんけた |  | [pixiv](https://www.pixiv.net/users/109618807) |
 | kurowa san | 黒和サン |  |  |
-| kamikita futago | 上北ふたご |  |  |
+| kamikita futago | 上北ふたご | 上北双子（1960年8月11日—）是日本的漫画家，双胞胎姐妹，狮子座，B型血，高知县出生。 | [维基百科](https://zh.wikipedia.org/wiki/上北雙子) |
 
 <!--TEMPLATE:
 |  |  |  |  |
