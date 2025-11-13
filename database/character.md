@@ -7004,6 +7004,7 @@ example:
 | necoma karin | Necoma Karin | ![](https://ehgt.org/w/01/966/66869-1cmkszqk.webp)<br>日本虚拟YouTuber，以猫耳形象和配音表演为特点。 |  |
 | raven branwen | 蕾文·布兰温 | ![](https://patchwiki.biligame.com/images/cq/2/2b/o9wbse5jeqjhgm0ubrcdobxv3n24hag.png)<br>所属作品：`rwby` |  |
 | quanxi | 光熙 | ![](https://i.pixiv.cat/img-master/img/2025/11/08/18/13/40/137235512_p0_master1200.jpg)<br>所属作品：`chainsaw man`<br>来自中国的恶魔猎人兼杀手 |  |
+| glimmer | 火光 | ![](https://tiebapic.baidu.com/forum/pic/item/2e33ef11728b4710f5fb490786cec3fdfe0323b3.jpg?tbpicau=2025-11-24-05_a6a2c6a30a4b7f99fffa0c69125bddb3)<br>所属作品：`xenoblade chronicles 3`<br>操纵弦杖战斗的阿格努斯士兵。她性格坚定，有时候说话语气会很严厉。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
