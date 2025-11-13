@@ -7019,6 +7019,7 @@ example:
 | ziz | 席兹 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/28/22/38/20/136810509_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的反派 |  |
 | leviathan | 利维坦（妮姬） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/27/19/04/38/136765703_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的BOSS |  |
 | behemoth | 贝希摩斯 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/03/00/48/32/135805162_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的反派 |  |
+| kudelia aina bernstein | 古荻莉亚·蓝娜·伯恩斯坦 | 古荻莉亚·蓝娜·伯恩斯坦（クーーデリア・藍那・バーンスタイン）是日本动画《机动战士高达：铁血的奥尔芬斯》中的角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
