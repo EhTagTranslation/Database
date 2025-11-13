@@ -7032,6 +7032,7 @@ example:
 | professor sada | Sada博士 | ![](https://www.nintendo.com/sg/news/assets/article/HmM1KLiX8S0P4l0Q7jxq2/13-1.png)<br>《宝可梦：宝可梦传说 朱紫》中的角色，她是帕尔迪亚地区的宝可梦学者，致力于通过时空研究实现过去与现在的和谐共存。 ‌ |  |
 | sayo hitsugi | 柩小夜 | ![](https://ehgt.org/w/01/947/03327-86b2bter.webp)<br>所属作品：`triage x` |  |
 | kirio hikifune | 桐月贵里奥 | ![](https://ehgt.org/w/01/847/39848-ggtry8un.webp)<br>所属作品：`bleach`<br>桐月贵里奥是皇家护卫队（零番队）的第二长官，负责保护灵王的宫殿。 |  |
+| kairi | 凯丽 | ![](https://ehgt.org/w/01/971/79179-aj3ze77p.webp)<br>所属作品：`kingdom hearts` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
