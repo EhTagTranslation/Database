@@ -2054,7 +2054,7 @@ example:
 | honor of kings | 王者荣耀 |  |  |
 | naraka bladepoint | 永劫无间 |  |  |
 | teletubbies | 天线宝宝 |  |  |
-| goddess of victory nikke | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_1080/1253/4408/2023/4/19/618329.jpg) 胜利女神：妮姬 | 《胜利女神：妮姬》是由韩国公司“SHIFT UP”开发的一款放置式RPG手机游戏，于2022年11月4日开始公测。<br>游戏中玩家将扮演一名指挥官，为了人类反攻地面带领妮姬们与形态各异的敌人展开战斗。 | [维基百科](https://zh.wikipedia.org/wiki/勝利女神：妮姬) [萌娘百科](https://zh.moegirl.org.cn/胜利女神：妮姬) |
+| goddess of victory nikke | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1080/h_1080/1253/4408/2023/4/19/618329.jpg) 胜利女神：妮姬 | ![](https://i1.hdslb.com/bfs/archive/874c06a7b1db4d04b063bf8d2cd341c7ec03c743.jpg)<br>《胜利女神：妮姬》是由韩国公司“SHIFT UP”开发的一款放置式RPG手机游戏。<br>游戏中玩家将扮演一名指挥官，为了人类反攻地面带领妮姬们与形态各异的敌人展开战斗。 | [维基百科](https://zh.wikipedia.org/wiki/勝利女神：妮姬) [萌娘百科](https://zh.moegirl.org.cn/胜利女神：妮姬) |
 | identity v | 第五人格 | 《第五人格》（Identity V）是由网易移动游戏公司制作的一款非对称性对抗竞技类手机游戏。 | [萌娘百科](https://zh.moegirl.org.cn/第五人格) |
 | morenatsu | 漏夏 | 《漏夏》或译《咱的夏天》（日语：《漏れなつ。》[1]）是制作团体“漏夏。Project”开发的兽人主题BL游戏。<br>2015年7月20日，官方宣布开发中止，官方网站随后也因开发中止的关系结束营运。<br>![图](https://ehgt.org/c0/96/c0963e55f929bb945df557987ff2c74c6d812a79-144560-966-500-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/漏夏) [Fandom](https://morenatsu.fandom.com/wiki/Main_Page) |
 | mad rat dead | 疯老鼠之死 | 疯老鼠之死（マッドラットデッド，Maddo Ratto Deddo）是一款节奏节奏动作类游戏，由日本一软件公司开发和发行。故事讲述的是一只具有时间倒退能力的实验室老鼠，玩家在音乐的节拍下使用各种动作，在时间耗尽之前安全到达每个阶段的终点。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Mad_Rat_Dead) |
