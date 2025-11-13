@@ -7009,6 +7009,7 @@ example:
 | maki harukawa | 春川魔姬 | ![](https://ehgt.org/w/00/884/57865-5gmn1z92.webp)<br>春川魔姬是游戏《新弹丸论破V3 大家的相互厮杀新学期》中的虚拟角色。 |  |
 | pepper | 佩珀 | ![](https://pic.cangku.moe/images/2025/11/13/1uwak.png)<br>所属作品：`goddess of victory nikke`<br>六翼天使部队的妙手医生，充满正能量，关心患者。 |  |
 | duchess | 女爵（法环） | 所属作品：`elden ring nightreign` |  |
+| dizzy | 蒂姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/89/22116_crt_bNBZR.jpg)<br>所属作品：罪恶装备 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
