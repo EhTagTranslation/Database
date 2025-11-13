@@ -7042,6 +7042,7 @@ example:
 | hongryeon | C-77红莲 | ![](https://cdnimg-v2.gamekee.com/images/www/1635144791887_19949014.png)<br>所属作品：`last origin` |  |
 | sekhmet | 赛克麦特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_2032/245/72324/2025/2/26/866168.png)<br>所属作品：`last origin` |  |
 | cerestia | 塞蕾斯缇雅 | ![](https://cdnimg-v2.gamekee.com/images/www/1639045349371_682874.png)<br>所属作品：`last origin` |  |
+| black lilith | 黑莉莉丝 | ![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
