@@ -6751,7 +6751,7 @@ example:
 | seed | 席德 | 「席德」是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/27/db40cf8e4969f92fa0fdd15f71d3a4fe/image.png) | [萌娘百科](https://zh.moegirl.org.cn/席德) |
 | charlotte hazelrink | 夏洛特·海瑟林克 | 夏洛特·海瑟林克是Ricotta旗下游戏《公主恋人！》及其衍生动画，漫画，小说的登场角色。<br>![](https://p.sda1.dev/27/57fb7d4954be005df686fc70aedecbad/image.png) | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·海瑟林克) |
 | rouge | 露姬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/760455.png)<br>所属作品：`goddess of victory nikke`<br>她不仅是隶属于777部队的妮姬，也是金币之战里的游戏荷官，平实的她亲切又能干，但有一点小迷信。一旦触犯这些迷信，她就会表现出担心厄运降临的一面。 | [https://www.gamekee.com/nikke/tj/152319.html](https://www.gamekee.com/nikke/tj/152319.html) |
-| gretel | 葛丽特 | 所属作品：`goddess of victory nikke` |  |
+| gretel | 格丽特 | 所属作品：`goddess of victory nikke` |  |
 | tiara basori | 马剃天爱星 |  |  |
 | kanoe itagaki | 板垣鹿江 |  | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
 | sandrone | 桑多涅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/00/55/27/135424996_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>隶属至冬国外交使团愚人众，为愚人众十一执行官第七席，代号“木偶”。 | [百度百科](https://baike.baidu.com/item/桑多涅/61716401) |
