@@ -7018,6 +7018,7 @@ example:
 | k | K | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/5/3/28739.png)<br>所属作品：`goddess of victory nikke`<br>隶属危险席部队的妮姬。 与身为队长的D不同，她拥有相当灵活的正义观。 即使是恶人，只要做出相应的善行，她便不会将其消灭。 | [Gamekee](https://www.gamekee.com/nikke/tj/664885.html) |
 | ziz | 席兹 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/28/22/38/20/136810509_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的BOSS |  |
 | leviathan | 利维坦（妮姬） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/27/19/04/38/136765703_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的BOSS |  |
+| behemoth | 贝希摩斯 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/03/00/48/32/135805162_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的反派 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
