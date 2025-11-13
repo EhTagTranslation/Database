@@ -6989,6 +6989,7 @@ example:
 | bubble gum fellow | 吹波糖 | ![](https://patchwiki.biligame.com/images/umamusume/d/d4/kv65xz2duis10faajjqqc78va6id6rw.png)<br>所属作品：`uma musume pretty derby` |  |
 | fuuka kazaguruma | 风车风香 |  |  |
 | hibiki kazaguruma | 风车响 |  |  |
+| palafin | 帕拉菲恩 | 《宝可梦 朱/紫》中登场的水属性宝可梦，分类为海豚宝可梦 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
