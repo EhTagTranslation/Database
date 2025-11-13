@@ -7025,6 +7025,7 @@ example:
 | fraw bow | 芙劳·宝 | 芙劳·宝（フラウ・ボゥ）是《机动战士高达》系列及其衍生作品中的角色 |  |
 | beelstarmon | 贝尔斯塔兽X | ![](https://ehgt.org/w/02/078/42219-29eg3zdo.webp)<br>贝尔斯塔兽X（ベルスターモンX，Beelstarmon X）是日本万代株式会社以电子宠物延伸发展出来的跨平台产品《数码兽》系列中登场的虚构生物 |  |
 | anchor | 安克 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/16/650592.png)<br>所属作品：`goddess of victory nikke`<br>热爱海洋生物的宙斯盾部队所属妮姬 | [Gamekee](https://www.gamekee.com/nikke/tj/597431.html) |
+| trony | 特罗尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/157597/2025/3/17/995940.png)<br>所属作品：`goddess of victory nikke`<br>隶属于电力冲击部队的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/622849.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
