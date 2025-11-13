@@ -6980,6 +6980,7 @@ example:
 | ghostrick doll | 鬼计人偶 | Ghostick Doll（鬼计人偶）是《游戏王》卡牌中的一张魔法师族怪兽卡，具有特殊召唤条件和反转效果。 |  |
 | ghostrick fairy | 鬼计妖精 |  |  |
 | ghostrick socuteboss | 鬼计女夜魔 |  |  |
+| ghostrick witch | 鬼计魔女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
