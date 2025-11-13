@@ -6975,7 +6975,7 @@ example:
 | hiromi shiota | 潮田广海 | 所属作品：暗杀教室<br>潮田渚（Nagisa Shiota）的母亲。 |  |
 | nagisa shiota | 潮田渚 | ![](https://img.moegirl.org.cn/common/0/05/2018-Emerald-Pendant.png)<br>所属作品：暗杀教室 |  |
 | paxton | 共熙 | 共熙（キョウヤ/Paxton），游戏《宝可梦传说 Z-A》的男主人公。 |  |
-| meica05 | Meica05 | Meica05是B站用户，18岁，以翻唱Vocaloid歌曲为主‌，自称“最强兵器”，活跃于日本音乐圈。 |  |
+| meica05 | Meica05 | Meica05是B站UP主，以翻唱Vocaloid歌曲为主‌，自称“最强兵器”，活跃于日本音乐圈。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
