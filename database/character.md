@@ -7044,6 +7044,7 @@ example:
 | cerestia | 塞蕾斯缇雅 | ![](https://cdnimg-v2.gamekee.com/images/www/1639045349371_682874.png)<br>所属作品：`last origin` |  |
 | black lilith | 黑莉莉丝 | ![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
+| black wyrm | 黑龙S9 | ![](https://cdnimg-v2.gamekee.com/images/www/1639044419600_5948109.png)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
