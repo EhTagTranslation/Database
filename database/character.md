@@ -7026,6 +7026,7 @@ example:
 | beelstarmon | 贝尔斯塔兽X | ![](https://ehgt.org/w/02/078/42219-29eg3zdo.webp)<br>贝尔斯塔兽X（ベルスターモンX，Beelstarmon X）是日本万代株式会社以电子宠物延伸发展出来的跨平台产品《数码兽》系列中登场的虚构生物 |  |
 | anchor | 安克 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/16/650592.png)<br>所属作品：`goddess of victory nikke`<br>热爱海洋生物的宙斯盾部队所属妮姬 | [Gamekee](https://www.gamekee.com/nikke/tj/597431.html) |
 | trony | 特罗尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/157597/2025/3/17/995940.png)<br>所属作品：`goddess of victory nikke`<br>隶属于电力冲击部队的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/622849.html) |
+| neve | 尼夫 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/17/98770.png)<br>所属作品：`goddess of victory nikke`<br>隶属于无极限部队，四处寻找北极熊的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/578202.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
