@@ -6990,6 +6990,7 @@ example:
 | fuuka kazaguruma | 风车风香 |  |  |
 | hibiki kazaguruma | 风车响 |  |  |
 | palafin | 帕拉菲恩 | 《宝可梦 朱/紫》中登场的水属性宝可梦，分类为海豚宝可梦 |  |
+| sinder | Sinder | ![](https://ehgt.org/w/02/089/73589-5cw8ff49.webp)<br>虚拟主播 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
