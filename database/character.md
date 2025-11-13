@@ -6987,6 +6987,7 @@ example:
 | chomper | 大嘴花 | 所属作品：植物大战僵尸（PVZ）<br>别译食人花 |  |
 | izcalli | 伊斯卡利 | 所属游戏：命运冠位指定（FGO）<br>2.7章登场的从者，原型为阿兹特克帝国末代君主蒙特祖玛二世。 |  |
 | bubble gum fellow | 吹波糖 | ![](https://patchwiki.biligame.com/images/umamusume/d/d4/kv65xz2duis10faajjqqc78va6id6rw.png)<br>所属作品：`uma musume pretty derby` |  |
+| fuuka kazaguruma | 风车风香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
