@@ -6433,7 +6433,7 @@ example:
 | asagi aiba | 蓝羽浅葱 |  |  |
 | nagisa akatsuki | 晓凪沙 |  |  |
 | elmerulia frixell | 艾尔梅露莉亚·菲立克塞尔 | 所属作品: `p:atelier lulua` | [萌娘百科](https://zh.moegirl.org.cn/艾尔梅露莉亚·菲立克塞尔) [Fandom](https://atelier.fandom.com/wiki/Elmerulia_Frixell) |
-| maki gamou | 蒲生真紀 |  |  |
+| maki gamou | 蒲生真紀 | [https://anibase.net/files/057841f29a4a357c486253240aa9cb9c](https://anibase.net/files/057841f29a4a357c486253240aa9cb9c)<br>源自作品: `p:ijiranaide nagatoro-san` | [https://anibase.net/zh-hans/character/128X2/蒲生真纪](https://anibase.net/zh-hans/character/128X2/蒲生真纪) |
 | ruka kayamori | 茅森月歌 |  |  |
 | yuki izumi | 和泉由希 |  |  |
 | hyacine | 风堇 | ![](https://patchwiki.biligame.com/images/sr/thumb/c/cb/izhago3hsfe0o6j2ds7p290ipmn10m7.png/1050px-风堇立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/风堇) |
