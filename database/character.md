@@ -7010,6 +7010,7 @@ example:
 | pepper | 佩珀 | ![](https://pic.cangku.moe/images/2025/11/13/1uwak.png)<br>所属作品：`goddess of victory nikke`<br>六翼天使部队的妙手医生，充满正能量，关心患者。 |  |
 | duchess | 女爵（法环） | 所属作品：`elden ring nightreign` |  |
 | dizzy | 蒂姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/89/22116_crt_bNBZR.jpg)<br>所属作品：罪恶装备 |  |
+| shantae | 桑塔 | ![](https://tx-free-imgs.acfun.cn/o_1e9nviph71bno1dc6c6i1e164bs0.jpeg?imageslim)<br>所属作品：`shantae` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
