@@ -5843,7 +5843,7 @@ example:
 | gloria martinez | 葛洛莉亚·马丁内斯 |  |  |
 | yato | 夜刀 |  |  |
 | noir corne | 黑角 |  |  |
-| nayuta | 那由多 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2321/h_3645/1253/4408/2025/9/31/719560.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/10/6/503434.png)<br>所属作品：`goddess of victory nikke`<br>悠然遨游于世的超然僧侣。 | [Gamekee](https://www.gamekee.com/nikke/tj/681716.html) |
+| nayuta | 娜由塔 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2321/h_3645/1253/4408/2025/9/31/719560.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/10/6/503434.png)<br>所属作品：`goddess of victory nikke`<br>悠然遨游于世的超然僧侣。 | [Gamekee](https://www.gamekee.com/nikke/tj/681716.html) |
 | saori kido | 雅典娜 城户沙织 |  |  |
 | athena | 雅典娜 |  |  |
 | hades | 哈迪斯 |  |  |
