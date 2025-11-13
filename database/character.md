@@ -7002,6 +7002,7 @@ example:
 | relena peacecraft | 蕾娜·皮斯克拉夫特 | 蕾娜·皮斯克拉夫特（Relena Peacecraft）是《高达Wing》（Mobile Suit Gundam Wing）中的女主角，桑克王国的公主。 |  |
 | seraphim | 塞拉菲姆 | ![](https://ehgt.org/w/01/982/66092-py9vxctk.webp)<br>所属作品：`kore wa zombie desu ka`<br>塞拉菲姆（セラフィム），吸血忍者村保守派成员，她以高挑身材、黑长直马尾造型及毒舌傲娇性格著称。 |  |
 | necoma karin | Necoma Karin | ![](https://ehgt.org/w/01/966/66869-1cmkszqk.webp)<br>日本虚拟YouTuber，以猫耳形象和配音表演为特点。 |  |
+| raven branwen | 蕾文·布兰温 | ![](https://patchwiki.biligame.com/images/cq/2/2b/o9wbse5jeqjhgm0ubrcdobxv3n24hag.png)<br>所属作品：`rwby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
