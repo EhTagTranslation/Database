@@ -6999,6 +6999,7 @@ example:
 | livewire | 活电线 | 活电线（Livewire）是美国DC漫画旗下的超级反派（DC反派） |  |
 | kaori saeki | 佐伯香织 | ![](https://ehgt.org/w/01/678/34759-19phow5n.webp)<br>所属作品：`bible black` |  |
 | annette | 安妮特 | ①所属作品： 邻居家的安妮特（となりの家のアネットさん）<br>![](https://ehgt.org/w/01/991/05162-84u5lfxj.webp)<br>②所属作品：间谍教室<br>![](https://ehgt.org/w/01/959/84094-4h5z1mm2.webp)<br>安妮特是共和国间谍组织的成员，代号“白蜘蛛”，在故事中与帝国间谍对抗。 |  |
+| relena peacecraft | 蕾娜·皮斯克拉夫特 | 蕾娜·皮斯克拉夫特（Relena Peacecraft）是《高达Wing》（Mobile Suit Gundam Wing）中的女主角，桑克王国的公主。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
