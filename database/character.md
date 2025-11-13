@@ -6983,6 +6983,7 @@ example:
 | ghostrick witch | 鬼计魔女 |  |  |
 | ghostrick yuki-onna | 鬼计的雪女 |  |  |
 | goddess of war plitvice | 战争女神普利特维 | 所属游戏：坎公骑冠剑 |  |
+| orthworm | 钢虫 | 出现于《宝可梦：绯红/紫罗兰》，作为泰坦宝可梦登场，体型巨大，外观类似地铁列车。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
