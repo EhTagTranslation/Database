@@ -7008,6 +7008,7 @@ example:
 | silva | silva | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/0b/Zoom_3040187000_01.png)<br>所属作品：`granblue fantasy`<br>驰名全空，身经百战的狙击手，为了需要保护的伙伴扣住了扳机。 |  |
 | maki harukawa | 春川魔姬 | ![](https://ehgt.org/w/00/884/57865-5gmn1z92.webp)<br>春川魔姬是游戏《新弹丸论破V3 大家的相互厮杀新学期》中的虚拟角色。 |  |
 | pepper | 佩珀 | ![](https://pic.cangku.moe/images/2025/11/13/1uwak.png)<br>所属作品：`goddess of victory nikke`<br>六翼天使部队的妙手医生，充满正能量，关心患者。 |  |
+| duchess | 女爵（法环） | 所属作品：`elden ring nightreign` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
