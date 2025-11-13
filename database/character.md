@@ -7006,6 +7006,7 @@ example:
 | quanxi | 光熙 | ![](https://i.pixiv.cat/img-master/img/2025/11/08/18/13/40/137235512_p0_master1200.jpg)<br>所属作品：`chainsaw man`<br>来自中国的恶魔猎人兼杀手 |  |
 | glimmer | 火光 | ![](https://tiebapic.baidu.com/forum/pic/item/2e33ef11728b4710f5fb490786cec3fdfe0323b3.jpg?tbpicau=2025-11-24-05_a6a2c6a30a4b7f99fffa0c69125bddb3)<br>所属作品：`xenoblade chronicles 3`<br>操纵弦杖战斗的阿格努斯士兵。她性格坚定，有时候说话语气会很严厉。 |  |
 | silva | silva | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/0b/Zoom_3040187000_01.png)<br>所属作品：`granblue fantasy`<br>驰名全空，身经百战的狙击手，为了需要保护的伙伴扣住了扳机。 |  |
+| maki harukawa | 春川魔姬 | ![](https://ehgt.org/w/00/884/57865-5gmn1z92.webp)<br>春川魔姬是游戏《新弹丸论破V3 大家的相互厮杀新学期》中的虚拟角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
