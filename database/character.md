@@ -6982,6 +6982,7 @@ example:
 | ghostrick socuteboss | 鬼计女夜魔 |  |  |
 | ghostrick witch | 鬼计魔女 |  |  |
 | ghostrick yuki-onna | 鬼计的雪女 |  |  |
+| goddess of war plitvice | 战争女神普利特维 | 所属游戏：坎公骑冠剑 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
