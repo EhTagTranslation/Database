@@ -6511,7 +6511,7 @@ example:
 | kisara | 木更 | 所属作品：`engage kiss`<br>![](https://ehgt.org/w/02/040/21701-8v3mtr9a.webp) |  |
 | anira | 阿妮拉 |  |  |
 | buena vista | 迷人景致 |  |  |
-| win variation | 凯旋芭蕾 |  |  |
+| win variation | 凯旋芭蕾 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/4c/fjb7xy7krs86c7x8r71ro41k2vfawsm.png/600px-Jsf_111701.png)<br>所属作品：`uma musume pretty derby` |  |
 | yume irido | 伊理户结女 |  |  |
 | uta | 乌塔 |  |  |
 | terakomari gandesblood | 黛拉可玛莉·岗德森布莱德 |  |  |
