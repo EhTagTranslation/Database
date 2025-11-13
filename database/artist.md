@@ -14198,6 +14198,7 @@ example:
 | ostin jr. | オースチンJr. |  |  |
 | miyashiro | 三夜代 |  |  |
 | saigoku | 西國 |  |  |
+| jk-kun | JK君 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
