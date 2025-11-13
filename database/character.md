@@ -6159,7 +6159,7 @@ example:
 | chizuru kashiwagi | 柏木千鹤 | 所属作品: `p:kizuato`<br><br>主人公的堂姐，四姐妹中的长女。虽然去年春天刚从大学毕业，但因为养父的去世，她不可避免地担负起照顾这个家的重任。 | [百度百科](https://baike.baidu.com/item/柏木千鶴) [萌娘百科](https://zh.moegirl.org.cn/痕%28Leaf%29) [Fandom](https://fightingchars.fandom.com/wiki/Chizuru_Kashiwagi) |
 | shouto todoroki | 轰焦冻 | 所属作品: `p:my hero academia` | [萌娘百科](https://zh.moegirl.org.cn/轰焦冻) |
 | popess johanna | 女教皇若安 |  |  |
-| sae chabashira | 茶柱佐枝 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/19/09/52/46/135272151_p0_master1200.jpg)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>D班冷淡女教师，日本史教授，因D班未竟辉煌而消极教学，与闺蜜星之宫知惠同窗，外表职业干练，内心天真。 | [萌娘百科](https://zh.moegirl.org.cn/茶柱佐枝) |
+| sae chabashira | 茶柱佐枝 | ![](https://ehgt.org/w/01/949/55259-ad5kb9he.webp)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>D班冷淡女教师，日本史教授，因D班未竟辉煌而消极教学，与闺蜜星之宫知惠同窗，外表职业干练，内心天真。 | [萌娘百科](https://zh.moegirl.org.cn/茶柱佐枝) |
 | hae-in cha | 车慧仁 \| 向坂雫 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/08/15/31/52/129088925_p2_master1200.jpg) |  |
 | kitchen dragonmaid | 龙女仆・炊事龙女 | “龙女仆”本家下级，人称“小红”。<br>此卡名的①②效果1回合仅可各使用1次。<br>①：此卡召唤·特殊召唤成功的情况下可以发动。将牌组中的1只“龙女仆·炊事龙女”以外的“龙女仆”怪兽加入手牌。然后从手牌中挑选1只“龙女仆”怪兽送至墓地。<br>②：自己·对手的战斗阶段开始时可发动。将此卡放回持有者手牌，从自己的手牌·墓地挑选1只等级8的“龙女仆”怪兽特殊召唤。<br>由于属于技术工种且产物在当时十分重要，一般来说除了女管家以外其它女仆就算地位再高都无权过问炊事龙女负责的事情。 | [萌娘百科](https://zh.moegirl.org.cn/龙女仆·炊事龙女) |
 | chamber dragonmaid | 龙女仆・客房龙女 | “龙女仆”本家下级，人称“小黑”。<br>英语翻译对应旧式女仆中的客房女仆（Chamber maid)，主要负责清理客房与寝室，保证客房与寝室的供暖，为客房与寝室提供相应服务等等。<br>此卡名的①②效果1回合仅可各使用1次。<br>①：此卡召唤·特殊召唤成功的情况下可以发动。从牌组将1张“龙女仆”魔法·陷阱卡加入手牌。<br>②：自己·对手的战斗阶段开始时可以发动。将此卡放回持有者的手牌，从自己的手牌·墓地挑选1只等级7以上的“龙女仆”怪兽特殊召唤。 | [萌娘百科](https://zh.moegirl.org.cn/龙女仆·客房龙女) |
