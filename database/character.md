@@ -7034,6 +7034,7 @@ example:
 | kirio hikifune | 桐月贵里奥 | ![](https://ehgt.org/w/01/847/39848-ggtry8un.webp)<br>所属作品：`bleach`<br>桐月贵里奥是皇家护卫队（零番队）的第二长官，负责保护灵王的宫殿。 |  |
 | kairi | 凯丽 | ![](https://ehgt.org/w/01/971/79179-aj3ze77p.webp)<br>所属作品：`kingdom hearts` |  |
 | makiko oriotorai | 参水·真喜子 |  |  |
+| iria fukumune | 福宗伊莉雅 | ![](https://ehgt.org/w/01/994/59720-fjaofxyc.webp)<br>所属作品：`dakara boku wa h ga dekinai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
