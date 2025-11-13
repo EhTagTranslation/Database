@@ -6998,6 +6998,7 @@ example:
 | galko | 辣妹子 | ![](https://ehgt.org/w/02/081/77426-khp488cc.webp)<br>所属作品：`oshiete galko-chan` |  |
 | livewire | 活电线 | 活电线（Livewire）是美国DC漫画旗下的超级反派（DC反派） |  |
 | kaori saeki | 佐伯香织 | ![](https://ehgt.org/w/01/678/34759-19phow5n.webp)<br>所属作品：`bible black` |  |
+| annette | 安妮特 | ![](https://ehgt.org/w/01/991/05162-84u5lfxj.webp)<br>所属作品： 邻居家的安妮特（となりの家のアネットさん） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
