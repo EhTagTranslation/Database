@@ -1337,7 +1337,7 @@ example:
 | final romance | 对战偶像麻雀：最终罗曼史 |  | [http://bbs.geminight.com/?tid=11348](http://bbs.geminight.com/?tid=11348) |
 | violet evergarden | 紫罗兰永恒花园 | 《紫罗兰永恒花园》（ヴァイオレット・エヴァーガーデン）是由晓佳奈创作，高濑亚贵子负责插画的日本轻小说作品，由KA Esuma文库出版与刊行。获得第5回京都动画大奖，也是京都大赏举办以来，目前唯一获得大赏奖的作品。值得注意的书名应是紫花地丁（Violet）而不是紫罗兰（Stock），少校是看到一颗堇菜然后给薇尔莉特起名，紫花地丁是属堇菜科，但目前中文圈普遍误译成十字花科的紫罗兰。 | [维基百科](https://zh.wikipedia.org/wiki/紫罗兰永恒花园) (\*) |
 | sokkou seitokai | 速攻学生会 |  |  |
-| shantae | 桑塔 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
+| shantae | 桑塔系列 | ![](https://i0.hdslb.com/bfs/archive/8a711206a1909ec8a61a557e61afaffe8f0614ef.png)<br>由WayForward与Inti Creates开发的横版平台动作游戏系列。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
 | nekojishi | 家有大猫 |  |  |
 | tomo-chan wa onnanoko | 小智是女孩啦！ | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/wiki/小智是女孩子) [萌娘百科](https://zh.moegirl.org.cn/智酱是女生！) |
 | strawberry panic | 惊爆草莓 | 《惊爆草莓》是日本电击G's杂志（MediaWorks）于2003年11月号开始的读者参与计划。动画版于2006年4月开始在日本地区播放（全26集）。 | [维基百科](https://zh.wikipedia.org/wiki/草莓危機) (\*) |
