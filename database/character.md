@@ -6977,6 +6977,7 @@ example:
 | paxton | 共熙 | 共熙（キョウヤ/Paxton），游戏《宝可梦传说 Z-A》的男主人公。 |  |
 | meica05 | Meica05 | Meica05是B站UP主，以翻唱Vocaloid歌曲为主‌，自称“最强兵器”，活跃于日本音乐圈。 |  |
 | ghostrick angel of mischief | 鬼计惰天使 | Ghostrick Angel of Mischief‌（鬼计惰天使）是《游戏王卡片游戏》中的暗属性4星超量怪兽卡，具有2000攻击力和2500防御力，属于鬼计卡组的核心卡之一。 |  |
+| ghostrick doll | 鬼计人偶 | Ghostick Doll（鬼计人偶）是《游戏王》卡牌中的一张魔法师族怪兽卡，具有特殊召唤条件和反转效果。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
