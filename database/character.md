@@ -6992,6 +6992,7 @@ example:
 | palafin | 帕拉菲恩 | 《宝可梦 朱/紫》中登场的水属性宝可梦，分类为海豚宝可梦 |  |
 | sinder | Sinder | ![](https://ehgt.org/w/02/089/73589-5cw8ff49.webp)<br>虚拟主播 |  |
 | clalaclan philias | 柯拉拉克兰·菲利亚斯 | 所属作品：光明之风<br>圣菲利亚斯王国的公主，手持光辉之盾，是神圣武具“圣女米那斯之盾”的继承者。 |  |
+| clair | 小椿 | 所属作品：宝可梦 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
