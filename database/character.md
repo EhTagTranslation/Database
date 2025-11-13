@@ -6993,6 +6993,7 @@ example:
 | sinder | Sinder | ![](https://ehgt.org/w/02/089/73589-5cw8ff49.webp)<br>虚拟主播 |  |
 | clalaclan philias | 柯拉拉克兰·菲利亚斯 | 所属作品：光明之风<br>圣菲利亚斯王国的公主，手持光辉之盾，是神圣武具“圣女米那斯之盾”的继承者。 |  |
 | clair | 小椿 | 所属作品：宝可梦<br>中文名另有译作小桩、伊布琪 |  |
+| celes chere | 塞蕾丝·谢尔 | 所属作品：最终幻想6 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
