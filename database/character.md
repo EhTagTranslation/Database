@@ -3960,7 +3960,7 @@ example:
 | matsurika shinouji | 汐王寺茉莉花 | 所属作品：`p:maria holic`<br><br>服侍祇堂鞠也的长发双马尾女仆<br><br>![](https://static.wikia.nocookie.net/mariaholic/images/4/41/Matsurika_Shinoji.jpg) | [Fandom](https://bishojodata.fandom.com/zh/wiki/汐王寺茉莉花) [Fandom](https://mariaholic.fandom.com/wiki/Matsurika_Shinōji) |
 | sayu ogiwara | 荻原沙优 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/荻原沙优) |
 | airi gotou | 后藤爱依梨 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/后藤爱依梨) |
-| dark elven forest ranger | dark elven forest ranger | 所属作品：`p:last origin` |  |
+| dark elven forest ranger | 暗黑精灵森林游侠 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/3/3/511616.png)<br>所属作品：`p:last origin` |  |
 | kie kamado | 灶门葵枝 | 所属作品：`p:kimetsu no yaiba` | [萌娘百科](https://zh.moegirl.org.cn/灶门葵枝) |
 | watson amelia | 阿米莉亚·华生 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/97/Watson_Amelia_Portrait.png) | [维基百科](https://zh.wikipedia.org/wiki/華生·艾米莉亞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Watson_Amelia) |
 | edmond dantes | 爱德蒙·唐泰斯（岩窟王） |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
