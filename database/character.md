@@ -6995,6 +6995,7 @@ example:
 | clair | 小椿 | 所属作品：宝可梦<br>中文名另有译作小桩、伊布琪 |  |
 | celes chere | 塞蕾丝·谢尔 | 所属作品：最终幻想6 |  |
 | liliana | 莉莉安娜 | 所属作品：女王之刃<br>魔女军麾下的大海盗船长，以西洋剑与十字手弓为武器。 |  |
+| galko | 辣妹子 | ![](https://ehgt.org/w/02/081/77426-khp488cc.webp)<br>所属作品：`oshiete galko-chan` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
