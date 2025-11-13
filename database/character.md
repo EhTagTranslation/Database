@@ -7028,6 +7028,7 @@ example:
 | trony | 特罗尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/157597/2025/3/17/995940.png)<br>所属作品：`goddess of victory nikke`<br>隶属于电力冲击部队的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/622849.html) |
 | neve | 尼夫 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/17/98770.png)<br>所属作品：`goddess of victory nikke`<br>隶属于无极限部队，四处寻找北极熊的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/578202.html) |
 | folkwang | 富克旺 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/8/2/665013.png)<br>所属作品：`goddess of victory nikke`<br>为鼓励人类参与体育运动而被制造出来的妮姬，隶属生命补药部队。 | [Gamekee](https://www.gamekee.com/nikke/tj/170847.html) |
+| dolla | 朵拉 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/86082/2025/3/17/181600.png)<br>所属作品：`goddess of victory nikke`<br>杰出的企业家。有传闻指出她是大型黑市交易网站的VVIP。 | [Gamekee](https://www.gamekee.com/nikke/tj/170853.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
