@@ -6984,6 +6984,7 @@ example:
 | ghostrick yuki-onna | 鬼计的雪女 |  |  |
 | goddess of war plitvice | 战争女神普利特维 | 所属游戏：坎公骑冠剑 |  |
 | orthworm | 钢虫 | 出现于《宝可梦：绯红/紫罗兰》，作为泰坦宝可梦登场，体型巨大，外观类似地铁列车。 |  |
+| chomper | 大嘴花 | 所属作品：植物大战僵尸（PVZ）<br>别译食人花 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
