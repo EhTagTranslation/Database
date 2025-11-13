@@ -1435,7 +1435,7 @@ example:
 | hundred | 百武装战记 |  | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記) [萌娘百科](https://zh.moegirl.org.cn/Hundred) |
 | dr. stone | 石纪元 |  |  |
 | uchi no ko no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai | 为了女儿，我说不定连魔王都能干掉。 |  |  |
-| tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击，这样的妈妈你喜欢吗？ |  |  |
+| tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击，这样的妈妈你喜欢吗？ | ![](https://img2.doubanio.com/view/subject/s/public/s29962861.jpg) |  |
 | wagaya no oinari-sama | 我家有个狐仙大人 |  |  |
 | enen no shouboutai | 炎炎消防队 |  |  |
 | lord el-melloi ii sei no jikenbo | 君主·埃尔梅罗二世事件簿 |  |  |
