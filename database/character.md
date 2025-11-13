@@ -6996,6 +6996,7 @@ example:
 | celes chere | 塞蕾丝·谢尔 | 所属作品：最终幻想6 |  |
 | liliana | 莉莉安娜 | 所属作品：女王之刃<br>魔女军麾下的大海盗船长，以西洋剑与十字手弓为武器。 |  |
 | galko | 辣妹子 | ![](https://ehgt.org/w/02/081/77426-khp488cc.webp)<br>所属作品：`oshiete galko-chan` |  |
+| livewire | 活电线 | 活电线（Livewire）是美国DC漫画旗下的超级反派（DC反派） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
