@@ -7035,6 +7035,7 @@ example:
 | kairi | 凯丽 | ![](https://ehgt.org/w/01/971/79179-aj3ze77p.webp)<br>所属作品：`kingdom hearts` |  |
 | makiko oriotorai | 参水·真喜子 |  |  |
 | iria fukumune | 福宗伊莉雅 | ![](https://ehgt.org/w/01/994/59720-fjaofxyc.webp)<br>所属作品：`dakara boku wa h ga dekinai` |  |
+| altina | 阿尔蒂娜 | ![](https://ehgt.org/w/01/953/51420-mf66t6sb.webp)<br>所属作品：`fire emblem` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
