@@ -2586,6 +2586,7 @@ example:
 | mewkledreamy | 甜梦猫 |  |  |
 | zoids genesis | 机兽创世纪 |  |  |
 | gun x sword | 枪心剑刃 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2384682452.webp)<br>《枪与剑》（又名《枪心剑刃》）是由谷口悟朗执导、仓田英之编剧、AIC制作的原创电视动画 |  |
+| deadlock | 死锁 | 《Deadlock》是由Valve（V社）开发的一款第三人称视角的3D射击游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
