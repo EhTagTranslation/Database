@@ -6981,6 +6981,7 @@ example:
 | ghostrick fairy | 鬼计妖精 |  |  |
 | ghostrick socuteboss | 鬼计女夜魔 |  |  |
 | ghostrick witch | 鬼计魔女 |  |  |
+| ghostrick yuki-onna | 鬼计的雪女 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
