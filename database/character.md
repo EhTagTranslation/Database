@@ -7021,6 +7021,7 @@ example:
 | behemoth | 贝希摩斯 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/03/00/48/32/135805162_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的反派 |  |
 | kudelia aina bernstein | 古荻莉亚·蓝娜·伯恩斯坦 | 古荻莉亚·蓝娜·伯恩斯坦（クーーデリア・藍那・バーンスタイン）是日本动画《机动战士高达：铁血的奥尔芬斯》中的角色 |  |
 | mirai yashima | ‌米莱·八洲 | ‌米莱·八洲（Mirai Yashima）是《机动战士高达》系列中的重要角色，原名米莱·八洲，后改姓诺亚（Noa），是布莱特·诺亚的妻子，哈特哈韦·诺亚和切米姆·诺亚的母亲‌。 |  |
+| lalah sune | 拉拉·辛 | ![](https://ehgt.org/w/01/968/88205-4qpgtv27.webp)<br>Lalah Sune是《机动战士高达》系列中的虚构角色‌，首次登场于《机动战士高达0079》。<br>她是吉翁公国的新类型人，驾驶Elmeth参与多次战斗，并与主角阿姆罗·雷发展出心灵感应关系。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
