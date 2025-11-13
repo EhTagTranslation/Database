@@ -7038,6 +7038,7 @@ example:
 | altina | 阿尔蒂娜 | ![](https://ehgt.org/w/01/953/51420-mf66t6sb.webp)<br>所属作品：`fire emblem` |  |
 | boryeon | 宝莲 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1429/h_1977/245/157597/2025/3/8/320719.png)<br>所属作品：`last origin` |  |
 | t-20s gnome | T-20S 诺姆 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/3/7/710937.png)<br>所属作品：`last origin` |  |
+| poi | 鲍伊 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1829/h_1763/245/72324/2025/2/24/767844.png)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
