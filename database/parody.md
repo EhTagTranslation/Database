@@ -2584,6 +2584,7 @@ example:
 | sekai ninja sen jiraiya | 世界忍者战磁雷矢 | 日本东映制作的特摄剧，为金属英雄系列最后一作。 |  |
 | brave beats | 勇敢节奏 | 勇敢节奏（Brave Beats）是由村野佑太执导、BN Pictures制作的日本电视动画 |  |
 | mewkledreamy | 甜梦猫 |  |  |
+| zoids genesis | 机兽创世纪 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
