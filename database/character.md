@@ -6524,7 +6524,7 @@ example:
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 千咲 | 所属作品：`wuthering waves`<br>![](https://ehgt.org/w/01/929/38119-t2sukqqf.webp) |  |
 | baizhi | 白芷 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/5b/r0wr4fjaqwv1pv5a48nzk9a0hwfueq4.png/524px-Mc_wiki_role_baizhi_x1500.png)<br>兼具条理性和执行力的华胥研究员。<br>看似冷淡疏离，实则不难接近，只是理性思维主导，习惯了严谨而精准地采取行动。<br>求知之路未有止境，在人类彻底解开”回音”的谜题前，白芷绝不会停下研究的步伐，哪怕这将耗费她的一生。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/白芷) |
-| alice thymefield | 爱丽丝·泰姆菲尔德 | 是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 |  |
+| alice thymefield | 爱丽丝·泰姆菲尔德 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/07/29/15559334/b0a35446738314435b77c472410a7ca9_2218141421659685735.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/08/06/76099754/825e8fef82e02e8ebcdb01185cf29b75_8830891133979844505.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` |  |
 | noren mitsuoka | 蜜冈乃莲 |  | [维基百科](https://zh.wikipedia.org/wiki/殺手青春) |
 | hermione | 赫敏 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/79fda7fa3c3ffcd8ce3fcb754833f28f262400697.png)<br>其原型为英国海军的赫敏号轻巡洋舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/赫敏)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:赫敏) |
 | empress | 仲裁者·恩普雷斯·III | 仲裁者·恩普雷斯·III（女皇）是碧蓝航线中的虚构角色，隶属于仲裁机关，责任是维持世界稳定……之类的 | ![](https://zh.moegirl.org.cn/File:BLHX_empress.png)<br>[萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:仲裁者·恩普雷斯·III)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/仲裁者·恩普雷斯·III) |
