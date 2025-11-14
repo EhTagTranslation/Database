@@ -7066,6 +7066,7 @@ example:
 | evelyn celebrian | 伊芙琳·瑟勒布里安 | ![](https://ehgt.org/w/01/743/03934-8gy0068t.webp)<br>所属作品：`youkoso sukebe elf no mori e` |  |
 | elda | 艾尔达 | ![](https://ehgt.org/w/01/849/74558-pjlz0y6f.webp)<br>所属作品：`youkoso sukebe elf no mori e` |  |
 | payila | 哈伊拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3e/Zoom_3040502000_81.png)<br>所属作品：`granblue fantasy` |  |
+| charlotta fenia | 夏洛特（GBF） | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/22/Zoom_3040194000_02.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
