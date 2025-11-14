@@ -7098,6 +7098,7 @@ example:
 | marina ismail | 玛丽娜·伊斯梅尔 | ![](https://ehgt.org/w/01/906/86927-383rkb4u.webp)<br>所属作品：`gundam 00`<br>阿扎迪斯坦的第一公主 |  |
 | arue | 有够会 | ![](https://ehgt.org/w/02/052/63650-ixn3vvek.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>惠惠的好友，与惠惠、悠悠是同期的同级生。有够会的志愿是作家，自称 “红魔族发育速度第一”，也会使用上级魔法。 |  |
 | receptionist succubus | 魅魔（素晴） | ![](https://ehgt.org/w/01/943/07169-srivu8ah.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
+| hiroko takashiro | 高城宽子 | 所属作品：`bible black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
