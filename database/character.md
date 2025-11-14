@@ -7047,6 +7047,7 @@ example:
 | black wyrm | 黑龙S9 | ![](https://cdnimg-v2.gamekee.com/images/www/1639044419600_5948109.png)<br>所属作品：`last origin` |  |
 | alcyone | 阿尔库俄涅 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1916/h_1982/245/72324/2025/2/19/70916.png)<br>所属作品：`last origin` |  |
 | zeri | 泽丽 | 所属作品：英雄联盟 |  |
+| yun ying | 云缨 | 所属作品：王者荣耀 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
