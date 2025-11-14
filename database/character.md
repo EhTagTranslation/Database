@@ -7073,6 +7073,7 @@ example:
 | linlin charlotte | 夏洛特·玲玲 | ![](https://ehgt.org/w/02/039/93516-tcmy32a8.webp)<br>所属作品：海贼王 |  |
 | ymir fritz | 尤弥尔·弗里茨 | ![](https://ehgt.org/w/01/888/74470-mql1bkcj.webp)<br>所属作品：进击的巨人 |  |
 | chocolate misu | 休可拉˙米丝 | 所属作品：`bakuretsu hunters`<br>日语名：ショコラ・ミス |  |
+| kalifa | 卡莉法 | ![](https://ehgt.org/w/02/083/60691-pxbzekqn.webp)<br>所属作品：海贼王 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
