@@ -5838,7 +5838,7 @@ example:
 | quelaag | 克拉格 |  |  |
 | steven universe | 史蒂文宇宙 |  |  |
 | spinel | 尖晶石 |  |  |
-| soukaku | 苍角 | 苍角是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/ab/d5/abd510e73ea4af8a37b01cb45ff28a42c0d65b42-1578769-1440-1920-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/苍角) |
+| soukaku | 苍角 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/5ff402462421ee3956f8627b3ca074d4_7538265196219713017.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/苍角) |
 | lapis lazuli | 青金石 |  |  |
 | gloria martinez | 葛洛莉亚·马丁内斯 |  |  |
 | yato | 夜刀 |  |  |
