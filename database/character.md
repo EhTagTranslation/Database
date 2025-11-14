@@ -4208,7 +4208,7 @@ example:
 | houchou toushirou | 包丁藤四郎 |  |  |
 | shokudaikiri mitsutada | 烛台切光忠 |  |  |
 | horikawa kunihiro | 堀川国广 |  |  |
-| vajra | 瓦姬拉 | 碧蓝幻想中的角色 |  |
+| vajra | 瓦姬拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/a2/Zoom_3040147000_01.png)<br>所属作品：`granblue fantasy` |  |
 | tighnari | 提纳里 | ![](https://patchwiki.biligame.com/images/ys/d/dd/chspigejtx2316cncu3lzyyz02vg8tc.gif)<br>所属作品:`p:genshin impact`<br><br>精通植物学的少年学者，现于道成林任巡林官一职。直率热忱，擅长教导脑瓜糊涂的人。 | [萌娘百科](https://zh.moegirl.org.cn/提纳里) [Fandom](https://genshin-impact.fandom.com/ja/wiki/ティナリ) |
 | hinata wakaba | 若叶日向 | 圣三一综合学园所属，修女会里认真且坚毅的少女。![](https://patchwiki.biligame.com/images/ba/9/99/2g8jalljb6inxqhwjk9k53fsitrvo2b.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hinata) |
 | chihiro kagami | 各务千寻 | 所属作品：`p:blue archive`<br>千年科学学校所属，黑客集团「真理部」的副部长。<br>![](https://img.moegirl.org.cn/common/7/7b/BA_Chihiro.png) | [萌娘百科](https://zh.moegirl.org.cn/各务千寻)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Chihiro) |
