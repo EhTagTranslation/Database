@@ -3368,7 +3368,7 @@ example:
 | kallen stadtfeld | 卡莲·休坦菲尔特 | 《叛逆的鲁鲁修》女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 | suzaku kururugi | 枢木朱雀 |  | [萌娘百科](https://zh.moegirl.org.cn/枢木朱雀) |
 | nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
-| kou | 蔻 |  | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
+| kou | 蔻 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1f/Zoom_3040242000_81.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
 | yu takasaki | 高咲侑 |  | [萌娘百科](https://zh.moegirl.org.cn/高咲侑) |
 | shioriko mifune | 三船栞子 |  | [萌娘百科](https://zh.moegirl.org.cn/三船栞子) |
 | olga discordia | 奥利卡·迪斯克伦蒂亚 | ![](https://i.pixiv.cat/img-master/img/2025/07/02/16/41/38/132222933_p0_master1200.jpg)<br>奥利卡·迪斯克伦蒂亚（原名：オリガ（Olga）·ディスコルディア（discordia））是Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/奥利卡·迪斯克伦蒂亚) |
