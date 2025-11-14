@@ -1567,7 +1567,7 @@ example:
 | promare | 普罗米亚 | 《普罗米亚》（日语：プロメア，英语：Promare）是一部由今石洋之导演、中岛一基编剧、TRIGGER制作的日本原创动画电影，于2019年5月24日在日本公映。剧情为“烈焰急救队”的新人队员加罗·提莫斯，与身为能操控火焰的变异人组织“狂燃派”首领里奥·福蒂亚，两人赌上信念的战斗。 | [维基百科](https://zh.wikipedia.org/wiki/普羅米亞) [萌娘百科](https://zh.moegirl.org.cn/普罗米亚) |
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/SSSS.DYNAZENON) |
 | yagate kimi ni naru | 终将成为你 | 故事以“远见东高中”为舞台，主轴为不会对他人产生特殊好感与因自我厌恶不会接受别人善意的两位少女之间的故事。 | [萌娘百科](https://zh.moegirl.org.cn/终将成为你) [维基百科](https://zh.wikipedia.org/wiki/終將成為妳) |
-| maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
+| maji de watashi ni koi shinasai | 请认真的和我恋爱 | ![](https://ehgt.org/w/00/497/71609-hh7c64bo.webp)<br>![](https://ehgt.org/w/02/073/43453-qtiw0bi5.webp) |  |
 | lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [百度百科](https://baike.baidu.com/item/罗德岛战记/84494) |
 | tantei wa mou shindeiru. | 侦探已死 | 《侦探已死》（日语：探偵はもう、死んでいる。，又译：《侦探已经，死了。》），是二语十所著的日本轻小说，由Umibouzu（うみぼうず）担任插画，2019年11月25日起由MF文库J开始出版。改编电视动画于2021年7月4日首播，由ENGI制作。 | [维基百科](https://zh.wikipedia.org/wiki/偵探已經，死了。) [萌娘百科](https://zh.moegirl.org.cn/侦探已经死了) |
 | the secret of kells | 凯尔经的秘密 | 《凯尔经的秘密》取材于爱尔兰基督教插图手抄本《凯尔经》，讲述了一位怀揣理想的少年克服重重困难绘制经书的故事。 |  |
