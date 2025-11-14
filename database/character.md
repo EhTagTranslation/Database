@@ -7082,6 +7082,7 @@ example:
 | elina vance | 艾莉娜 | ![](https://ehgt.org/w/01/899/61271-dixqx1t9.webp)<br>所属作品：`queens blade` |  |
 | cure butterfly | 圣扬羽 | ![](https://ehgt.org/w/01/318/22708-oakaojvt.webp)<br>所属作品：`hirogaru sky precure`<br>本名"圣扬羽"，别名"圣蝶华"，变身后称"蝴蝶天使（Cure Butterfly）" | [百度百科](https://baike.baidu.com/item/圣扬羽/62752054) |
 | narika shihoudou | 四方堂鸣香 | ![](https://lain.bgm.tv/r/400/pic/crt/l/37/73/11032_crt_n21ZJ.jpg?r=1401365428)<br>所属作品：`beat blades haruka` |  |
+| cure kyun kyun | 紫雨心 | 日语：紫雨（しぐれ） こころ<br>魔法少女动画《You and Idol光之美少女♪》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/紫雨心) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
