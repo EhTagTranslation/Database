@@ -7093,7 +7093,7 @@ example:
 | peorth | 佩奥斯 | ![](https://i.redd.it/the-upscaled-reference-art-of-peorth-from-the-anime-plus-v0-rdfqykww23n91.png?width=2272&format=png&auto=webp&s=2675844a85fdcd803835caf0665178b7c4612b47)<br>所属作品：`ah my goddess` |  |
 | cheria barnes | 谢莉亚·巴恩斯 | ![](https://ehgt.org/w/01/992/85890-hz6qhbfq.webp)<br>所属作品：`tales of graces` |  |
 | yuriko aoki | 苍树红 | ![](https://static.wikia.nocookie.net/bakuman/images/8/81/Aoki.png)<br>所属作品：`bakuman`<br>本名青木优梨子，あおき ゆりこ |  |
-| dragonmaid sheou | 管家龙女 | ![](https://static.wikia.nocookie.net/yugioh/images/7/76/HouseDragonmaid-MAGO-EN-PGR-1E.png)<br>所属作品：游戏王<br>半龙女仆团队中的大姐 |  |
+| dragonmaid sheou | 龙女仆·管家龙女 | ![](https://static.wikia.nocookie.net/yugioh/images/7/76/HouseDragonmaid-MAGO-EN-PGR-1E.png)<br>所属作品：游戏王<br>龙形态名为龙女仆·秀特亮尔<br>半龙女仆团队中的大姐 |  |
 | pine | 派茵 | ![](https://ehgt.org/w/02/089/08670-qbdxx2bo.webp)<br>所属作品：`bomber girl` |  |
 | marina ismail | 玛丽娜·伊斯梅尔 | ![](https://ehgt.org/w/01/906/86927-383rkb4u.webp)<br>所属作品：`gundam 00`<br>阿扎迪斯坦的第一公主 |  |
 
