@@ -6541,7 +6541,7 @@ example:
 | sophia valentine | 索菲娅•瓦伦丁 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2023/02/09/12/42/40/105215340_p0_master1200.jpg)<br>所属社团：`nijisanji` |  |
 | phrolova | 弗洛洛 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/9/99/0bbzw7afgtwtu2rz5lx6h7400u324mr.png/585px-角色_弗洛洛_立绘.png)<br>游走于生死之间的残星会会监，神秘而危险的指挥家……<br>她沉默地挥舞指挥棒，手中调律频率演奏出的“灵魂”旋律，既可塑造美好的世界，也可唤来千军万马。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/弗洛洛) |
 | kiyohime lancer | 清姬Alter [Lancer] |  |  |
-| yuzuha ukinami | 浮波柚叶 | 浮波柚叶是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/27/72138aacba661ff387e88805c28c9543/image.png) | [萌娘百科](https://zh.moegirl.org.cn/浮波柚叶) |
+| yuzuha ukinami | 浮波柚叶 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/07/08/82500917/ca293f1cff2865ce2d6f1a284672b59e_3099819737866401038.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/07/09/82500917/db981fa39f4d1a018825e0876f7aa785_4901662494276649273.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/浮波柚叶) |
 | aino | 爱诺 | ![](https://patchwiki.biligame.com/images/ys/0/03/f3qbjkma9yy6t49qwjolnyn2tgzcd11.gif)<br><br>所属作品：`genshin impact`<br>挪德卡莱的天才机械发明家，喜欢有趣的机械和甜食。 | [萌娘百科](https://zh.moegirl.org.cn/爱诺%28原神%29) |
 | kriemhild | 克里姆希尔德 | ![克里姆希尔德](https://p.sda1.dev/26/79d7e0f42bcc5911cd1c1bf657bf6aea/1000012951.png)<br>克里姆希尔德是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 |  |
 | enkidu | 恩奇都 | ![恩奇都](https://p.sda1.dev/26/767a6df4fcb11e0a7c719f19d8eafe7c/1000012954.png)<br>恩奇都是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。<br>原型为现今人类历史上最古老的叙事诗《吉尔伽美什史诗》里的重要人物，古代美索不达米亚（Mesopotamia）地区苏美尔（Sumer）王朝的都市国家乌鲁克（Uruk）之王吉尔伽美什的敌人和唯一的挚友，与其一同经历了诸多冒险。 |  |
