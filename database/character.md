@@ -6285,7 +6285,7 @@ example:
 | nephelia | 涅菲莉亚 | 所属作品: `p:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii` | [萌娘百科](https://zh.moegirl.org.cn/涅菲莉亚) |
 | kyouko hori | 堀京子 | 所属作品: `horimiya` | [萌娘百科](https://zh.moegirl.org.cn/堀京子) |
 | mutsuki shindou | 进藤睦月 | 所属作品: `p:mizuiro`<br><br>蓝色短发。戴着风中飘舞的红丝带。眼睛是红色的。<br>8月14日出生。AB型血，身高159cm。三围B84/W57/H83。<br>和皋月是双胞胎姐妹。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ#主な登場人物) [萌娘百科](https://zh.moegirl.org.cn/水色#STAFF) |
-| leona | 蕾欧娜 | 所属作品: `p:granblue fantasy`或`p:league of legends` | 曙光女神 [萌娘百科](https://zh.moegirl.org.cn/蕾欧娜%28英雄联盟%29) [Fandom](https://leagueoflegendstwn.fandom.com/wiki/雷歐娜)<br><br>碧蓝幻想 [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030241000) [GBF.WIKI](https://gbf.wiki/Leona) |
+| leona | 蕾欧娜 | ①![](https://huiji-public.huijistatic.com/gbf/uploads/c/c3/Zoom_3040285000_01.png)<br>所属作品: `p:granblue fantasy`<br><br>②曙光女神<br>`p:league of legends` | 曙光女神 [萌娘百科](https://zh.moegirl.org.cn/蕾欧娜%28英雄联盟%29) [Fandom](https://leagueoflegendstwn.fandom.com/wiki/雷歐娜)<br><br>碧蓝幻想 [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030241000) [GBF.WIKI](https://gbf.wiki/Leona) |
 | tenka izumo | 出云天花 | 出云天花，漫画《魔都精兵的奴隶》及其衍生作品中的角色，魔防队六番组组长 |  |
 | kyouka uzen | 羽前京香 | 羽前京香，漫画《魔都精兵的奴隶》及其衍生作品中的角色。魔防队七番组组长。冰山美人，正气凛然的女性。 | ![](https://img.moegirl.org.cn/common/thumb/d/da/Uzen_Kyoka.jpeg/420px-Uzen_Kyoka.jpeg) [萌娘百科](https://zh.moegirl.org.cn/羽前京香) |
 | reina akatsuki | 晓零菜 | 晓零菜，日本作家三云岳斗所著轻小说以及动漫作品《噬血狂袭》的人物。 [1]容貌和雪菜几乎一样，但拥有比同龄的雪菜还要大的胸部。继承了古城不死的诅咒，以及拥有和雪菜几乎一样的容貌。<br>「晓之帝国」的公主，母亲是狮子王机关的剑巫姬柊雪菜，父亲是号称「世界最强吸血鬼」的第四真祖晓古城。 |  |
