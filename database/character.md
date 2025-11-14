@@ -1781,7 +1781,7 @@ example:
 | eugen | 欧根 | 老练的战士、曾经作为骑空士活跃著。在过去怀有遗憾，这件事没有向格兰透露。平时是个性格不错的人，熟练的技术与丰富的知识帮助了格兰。 |  |
 | gran | 格兰 | 碧蓝幻想玩家角色（主角）男性版。<br>女版为`djeeta` |  |
 | io | 伊欧 | 修行中的魔导士少女。为了追寻失踪的师傅下落、而遇见了格兰。因早熟的性格而装成大人的样子，有著一旦被人嘲笑与年纪不符就会较真的一面。 |  |
-| lyria | 露莉亚 | 拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
+| lyria | 露莉亚 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5f/Zoom_3030182000_01_01.png/450px-Zoom_3030182000_01_01.png)<br>所属作品：`granblue fantasy`<br>拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
 | katalina aryze | 卡塔莉娜·亚利洁 | 守护著露莉亚的女性骑士。艾尔斯提帝国军中是中尉的阶级，负责露莉亚的护卫与监视工作，得知帝国打算利用露莉亚来得到强大的力量后，为了帮助露莉亚逃脱而背叛帝国。露莉亚就像真正的妹妹一样重要。 | [维基百科](https://zh.wikipedia.org/wiki/碧藍幻想) |
 | narmaya | 娜尔梅亚 |  |  |
 | rosetta | 萝赛塔 | ![](https://patchwiki.biligame.com/images/zspms/thumb/3/36/2qwkz0wcq3xjajlpfqxhxhwjqsl3kms.png/375px-角色_罗塞塔_凛冽_立绘.png)<br>所属游戏：`punishing gray raven` |  |
