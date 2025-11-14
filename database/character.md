@@ -5530,7 +5530,7 @@ example:
 | vivlos | 强击 | ![](https://moegirl.icu/media/thumb/UPDCH_Vivlos_00.png/580px-UPDCH_Vivlos_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヴィブロス（Vivlos）。 | [萌娘百科](https://zh.moegirl.org.cn/强击) |
 | oguri cap | 小栗帽 | ![](https://moegirl.icu/media/thumb/UPDCH_OguriCap_00.png/580px-UPDCH_OguriCap_00.png)<br>所属作品：`uma musume pretty derby`<br>漫画《赛马娘 芦毛灰姑娘》的主人公。<br>原型为日本纯血竞赛马匹オグリキャップ（Oguri Cap）。 | [萌娘百科](https://zh.moegirl.org.cn/小栗帽) |
 | kindred | 千珏 | 千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园，而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。至于是哪一面，完全出自个人的抉择。 | [萌娘百科](https://zh.moegirl.org.cn/千珏) |
-| jane doe | 简·杜 | 简·杜是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/c2/88/c2886f518c9b47c97ce4f07e274c32c1c70f5064-3379261-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/简·杜) |
+| jane doe | 简·杜 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/09/11/76099754/a8cecba77dcf30aac55911791b97d286_5628704406046486367.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/简·杜) |
 | finana ryugu | 龍宮Finana |  | [萌娘百科](https://zh.moegirl.org.cn/龙宫Finana) |
 | poplar taneshima | 种岛白杨 | 種島ぽぷら（たねしま　ぽぷら）<br>《迷糊餐厅》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
 | saki hanami | 花海咲季 | 花海咲季是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a0/花海咲季_1st_Single「Fighting_My_Way」.jpg/800px-花海咲季_1st_Single「Fighting_My_Way」.jpg) | [萌娘百科](https://zh.moegirl.org.cn/花海咲季) |
