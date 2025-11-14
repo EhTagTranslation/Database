@@ -7102,6 +7102,7 @@ example:
 | yidhari murphy | 伊德海莉·墨菲 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/10/29/233874762/96d962b65e26b404f1e251eec0c23a58_1080297264947616397.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` |  |
 | orphie magnusson | 奥菲丝·马格努森 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/09/21/15559334/f80e5cd274d91697668fbb16d2118f2d_1098522281754662874.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` |  |
 | shoko ieiri | 家入硝子 | ![](https://ehgt.org/w/01/945/70810-e25oskgg.webp)<br>所属作品：`jujutsu kaisen` |  |
+| skye | 斯凯 | ![](https://game.gtimg.cn/images/val/act/a20250102NewUserGuide/hero_img/hero3.png)<br>所属作品：`valorant` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
