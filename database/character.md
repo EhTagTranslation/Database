@@ -7086,6 +7086,7 @@ example:
 | laala manaka | 真中啦啦 | ![](https://img.moegirl.org.cn/common/6/65/真中啦啦.png)<br>日语：真中（まなか） らぁら<br>罗马字：Manaka Laala<br>《美妙天堂》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/真中啦啦) |
 | aroma kurosu | 黑须茱香 | ![](https://img.moegirl.org.cn/common/f/fc/黑须茱香.png)<br>日语：黒須（くろす） あろま<br>罗马字：Kurosu Aroma<br>《美妙天堂》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑须茱香) |
 | uzume tennouboshi | 天王星涡芽 | ![](https://patchwiki.biligame.com/images/neptunia/f/fd/7xzvpmegil2vor5eodoxxqh0tfie8hm.png)<br>常态<br>![](https://patchwiki.biligame.com/images/neptunia/6/67/18p760kn3q8d5u75q5y7bxdhcba5jmg.png)<br>女神化<br>所属作品：`hyperdimension neptunia` |  |
+| carina | 卡莉娜 | ![](https://ehgt.org/w/02/065/64590-5nbq0sgm.webp)<br>所属作品：`one piece`<br>在剧场版《GOLD》正式登场,身份是世界最大娱乐城市的歌姬,衣着暴露,有着美丽的歌喉。曾经是娜美的同行,两人现已分道扬镳。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
