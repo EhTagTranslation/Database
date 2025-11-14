@@ -5438,7 +5438,7 @@ example:
 | hajime hinata | 日向创 | 日向创是Spike Chunsoft旗下的游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日向创) |
 | nagito komaeda | 狛枝凪斗 | 狛枝凪斗是Spike旗下游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/狛枝凪斗) |
 | wise | 哲 \| 华兹 | 哲是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br><br>华兹是井中だちま创作的轻小说`p:tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka`及其衍生作品中的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/哲) |
-| ellen joe | 艾莲·乔 | 艾莲·乔是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾莲·乔) |
+| ellen joe | 艾莲·乔 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/03ccbe64542570776967153c4ebb08e9_6128696990818407188.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/22/76099754/f7ccf54f5bf6a10cf000353a3841a0b2_7773856052653333870.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/艾莲·乔) |
 | ben bigger | 本·比格 | 本·比格是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/本·比格) |
 | corin wickes | 可琳·威克斯 | 可琳·威克斯是米哈游制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/可琳·威克斯) |
 | grace howard | 格莉丝·霍华德 | 格莉丝·霍华德是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/格莉丝·霍华德) |
