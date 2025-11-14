@@ -3008,7 +3008,7 @@ example:
 | sasaki saku | 笹木咲 | ![SasakiSaku](https://img.moegirl.org.cn/common/thumb/4/47/SasakiSaku.png/112px-SasakiSaku.png)<br>笹木咲（ 日语：笹木咲 / ささき（sasaki） さく（saku））是一名从2018年7月7日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。<br>原Gamers出身。 | [萌娘百科](https://zh.moegirl.org.cn/笹木咲) [日文维基](https://ja.wikipedia.org/wiki/笹木咲) |
 | arulumaya | 阿露露梅娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/8e/Zoom_3040367000_01.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040019000) |
 | cain | 该隐 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/31/Zoom_3040171000_01.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040171000) |
-| mahira | 玛琪拉 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/c/c2/Zoom_3040107000_03.png/288px-Zoom_3040107000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040107000) |
+| mahira | 玛琪拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e4/Zoom_3040372000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/a/ad/Zoom_3040584000_01.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040107000) |
 | melissabelle | 梅丽莎贝尔 | ![突破](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5c/Zoom_3040102000_02.png/288px-Zoom_3040102000_02.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040102000) |
 | pholia | 芙莉亚 | ![额外](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/4/45/Zoom_3040181000_81.png/288px-Zoom_3040181000_81.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040181000) |
 | sandalphon | 圣德芬 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/a/ab/Zoom_3040153000_03.png/288px-Zoom_3040153000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
