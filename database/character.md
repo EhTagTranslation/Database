@@ -1787,7 +1787,7 @@ example:
 | rosetta | 萝赛塔 | ![](https://patchwiki.biligame.com/images/zspms/thumb/3/36/2qwkz0wcq3xjajlpfqxhxhwjqsl3kms.png/375px-角色_罗塞塔_凛冽_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | sturm | 斯特姆 |  |  |
 | vira | 维拉 |  |  |
-| vampy | 斑比 | vampire-->vampy, 巴哈姆特之怒, 碧蓝幻想, 影之诗, 公主连结! Re:Dive, 等作品中均有出场. | [萌娘百科](https://zh.moegirl.org.cn/斑比) |
+| vampy | 斑比 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e5/Zoom_3040057000_02.png)<br>巴哈姆特之怒, 碧蓝幻想, 影之诗, 公主连结! Re:Dive, 等作品中均有出场. | [萌娘百科](https://zh.moegirl.org.cn/斑比) |
 |  | ▼ 魔卡少女樱 |  |  |
 | sakura kinomoto | 木之本樱 |  |  |
 | touya kinomoto | 木之本桃矢 |  |  |
