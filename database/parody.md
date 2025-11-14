@@ -2590,6 +2590,7 @@ example:
 | triage x | 绝命制裁X | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2240342122.webp) |  |
 | ran-sem hakudaku delmo tsuma no miira tori | Ran→Sem 白浊模特妻子被榨干 | ![](https://ehgt.org/0a/70/0a7001bf1c76b3cd3ac1122e0c37ed82977d3f3b-52526-576-640-jpg_250.jpg)<br>![](https://ehgt.org/af/3f/af3f380e4de20df607989da59fc869cd19a81719-356063-1024-1433-jpg_250.jpg) |  |
 | youkoso sukebe elf no mori e | 欢迎来到浪荡精灵之森 | ![](https://ehgt.org/w/00/884/65643-3qo4it33.webp)<br>![](https://ehgt.org/w/00/887/28961-ee9kk5y8.webp) |  |
+| doukyuusei 2 | 同级生2 | ![](https://ehgt.org/w/01/530/61528-bzmk3cvj.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
