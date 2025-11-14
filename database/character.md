@@ -1777,7 +1777,7 @@ example:
 | kyousuke kamijou | 上条恭介 |  |  |
 |  | ▼ 碧蓝幻想 |  |  |
 | danua | 达奴娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/6a/Zoom_3030017000_01.png)<br>所属作品：`granblue fantasy` |  |
-| djeeta | 姬塔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/f/fb/Zoom_100001_1.png)<br>所属作品：`granblue fantasy`<br>玩家角色女性版。<br>男版为`gran` |  |
+| djeeta | 姬塔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/06/Zoom_100580_1.png)<br>所属作品：`granblue fantasy`<br>玩家角色女性版。<br>男版为`gran` |  |
 | eugen | 欧根 | 老练的战士、曾经作为骑空士活跃著。在过去怀有遗憾，这件事没有向格兰透露。平时是个性格不错的人，熟练的技术与丰富的知识帮助了格兰。 |  |
 | gran | 格兰 | 碧蓝幻想玩家角色（主角）男性版。<br>女版为`djeeta` |  |
 | io | 伊欧 | 修行中的魔导士少女。为了追寻失踪的师傅下落、而遇见了格兰。因早熟的性格而装成大人的样子，有著一旦被人嘲笑与年纪不符就会较真的一面。 |  |
