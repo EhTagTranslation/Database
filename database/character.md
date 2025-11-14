@@ -3011,7 +3011,7 @@ example:
 | mahira | 玛琪拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e4/Zoom_3040372000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/a/ad/Zoom_3040584000_01.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040107000) |
 | melissabelle | 梅丽莎贝尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5c/Zoom_3040102000_02.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040102000) |
 | pholia | 芙莉亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/45/Zoom_3040181000_81.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040181000) |
-| sandalphon | 圣德芬 | ![终突](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/a/ab/Zoom_3040153000_03.png/288px-Zoom_3040153000_03.png) | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
+| sandalphon | 圣德芬 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/85/Zoom_3040153000_01.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040153000) |
 | akari tsujino | 辻野朱里 | ![R 辻野あかり+](https://img.moegirl.org.cn/common/thumb/a/a0/R_辻野あかり%2B.jpg/192px-R_辻野あかり%2B.jpg) | [萌娘百科](https://zh.moegirl.org.cn/辻野朱里) [pixiv百科](https://dic.pixiv.net/a/辻野あかり) [niconico大百科](https://dic.nicovideo.jp/a/辻野あかり) |
 | aru honshou | 本庄阿鲁 |  |  |
 | junko konno | 绀野纯子 |  |  |
