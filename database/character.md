@@ -7059,6 +7059,7 @@ example:
 | bachou mouki | 马超孟起 | 所属作品：`ikkitousen` |  |
 | kanpei | 关平 | 所属作品：`ikkitousen` |  |
 | ato | 阿斗 | 所属作品：`ikkitousen` |  |
+| kouchuu kanshou | 黄忠汉升 | ![](https://ehgt.org/w/02/041/55409-4y21vfx2.webp)<br>所属作品：`koihime musou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
