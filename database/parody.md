@@ -525,7 +525,7 @@ example:
 | muv-luv alternative total eclipse | Muv-Luv Alternative Total eclipse | 关联标签：`p:muv-luv` |  |
 | dangaioh | 破邪大星弹劾皇 |  |  |
 | 3x3 eyes | 三只眼 |  |  |
-| bakuretsu hunters | 暴走猎人 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7b/67/49277_x7537.jpg) |  |
+| bakuretsu hunters | 暴走猎人 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6c/be/47218_4X434.jpg) |  |
 | vampire princess miyu | 吸血姬美夕 |  |  |
 | reco love | 真爱记录 |  |  |
 | spice and wolf | 狼与香辛料 |  |  |
