@@ -7078,6 +7078,7 @@ example:
 | yun yun | 云韵 | ![](https://ehgt.org/w/01/984/27534-8jheoutl.webp)<br>所属作品：`doupo cangqiong` |  |
 | momoko ootani | 大谷桃子 | 所属作品：`photo kano` |  |
 | psykos | 赛克斯 | ![](https://ehgt.org/w/01/929/89921-ckxs7pcv.webp)<br>所属作品：`one punch man` |  |
+| minerva orland | 米涅芭·奥兰多 | ![](https://static.wikia.nocookie.net/vsbattles/images/9/9e/Fairy_Tail_Minerva_X791_Render.png)<br>所属作品：`fairy tail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
