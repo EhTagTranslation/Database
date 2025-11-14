@@ -5571,7 +5571,7 @@ example:
 | ballista | 芭莉斯塔 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:芭莉斯塔) |
 | berezovich kryuger | 伯鲁泽维奇·克鲁格 | `p:girls frontline`<br>少女前线2:追放<br>伯鲁泽维奇·克鲁格(简称克鲁格)<br>人类 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:克鲁格) |
 | bren ten | 布伦·坦 | `p:girls frontline` | [少前百科GFwiki](https://gfwiki.org/w/布伦·坦) |
-| carcano m9138 | 卡尔卡诺M91/38 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M91/38) |
+| carcano m9138 | 卡尔卡诺M91/38 | ![](https://www.gfwiki.org/images/d/d1/Pic_Carcano1938_HD.png)<br>所属作品：`p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M91/38) |
 | carcano m1891 | 卡尔卡诺M1891 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:卡尔卡诺M1891) |
 | contender | 竞争者 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:竞争者) |
 | dandelion | 丹德莱 | `p:girls frontline` | [萌娘百科](https://zh.moegirl.org.cn/少女前线:丹德莱) |
