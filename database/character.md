@@ -5413,7 +5413,7 @@ example:
 | dagda | 达哥达 | ![](https://media.prts.wiki/5/5c/半身像_达格达_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/达格达) |
 | harmonie | 和弦 | ![](https://media.prts.wiki/2/27/半身像_和弦_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/和弦) |
 | beanstalk | 豆苗 | ![](https://media.prts.wiki/9/98/半身像_豆苗_1.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/豆苗) |
-| nicole demara | 妮可·德玛拉 | 妮可·德玛拉，游戏《`p:zenless zone zero`》中的角色，新艾利都万能事务所”狡兔屋“的创始人。在街头摸爬滚打多年，妮可圆滑狡黠的作风，在同行间享有“狡兔有三窟，妮可三百窟”的“美誉”。哪怕事务所的委托费要价不菲，“狡兔屋”的财务状况却还是常年在赤字边缘徘徊……<br><br>明智之选！<br>不过提前说好，我出场费可不低哦！<br>![](https://p.sda1.dev/21/482e00d5d279c9c871d366a0e45756cb/image.png) | [百度百科](https://baike.baidu.com/item/妮可·德玛拉/61125706) [官方介绍页](https://zenless.hoyoverse.com/zh/character/102183) |
+| nicole demara | 妮可·德玛拉 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/97e6b0c20f7fbb51cf4698575a990cbc_3976286956559623091.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/02/06/76099754/8e0b5b8de99742b1901b737e0574d912_6647731677783436779.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [百度百科](https://baike.baidu.com/item/妮可·德玛拉/61125706) [官方介绍页](https://zenless.hoyoverse.com/zh/character/102183) |
 | ranmaru mori | 森兰丸 | 谜之兰丸X | [萌娘百科](https://zh.moegirl.org.cn/谜之兰丸X) |
 | taisui xingjun | 太岁星君 |  |  |
 | nemo marine | 尼莫水兵 |  |  |
