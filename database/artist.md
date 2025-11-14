@@ -11539,7 +11539,7 @@ example:
 | yamai | 山井 |  |  |
 | yamai sakatarou | 山井逆太郎 | 山井逆太郎(山井坂太郎) |  |
 | yamaimo torotoro | 山いもとろとろ |  |  |
-| yamaishi joe | 山石ジョウ |  |  |
+| ukai toufu | 鵜飼とうふ | 山石ジョウ |  |
 | yamaiso | やまいそ |  |  |
 | yamakawa yuu | 山河勇 |  |  |
 | yamako | やまこ |  |  |
@@ -13758,7 +13758,7 @@ example:
 | fishinloli | フィッシンローリ |  | [X](https://x.com/fishinloli0820/) [FANBOX](https://www.fanbox.cc/@fishinloli) |
 | moririn-monson | モリリン・モンソン |  |  |
 | hakuhi | 剥皮 |  | [pixiv](https://www.pixiv.net/users/296713) |
-| takarama otoko | 高良間男 |  | [X](https://x.com/Pizza__Mania) |
+| takara mao | 高良間男 |  | [X](https://x.com/Pizza__Mania) |
 | kojima lala | 仔縞楽々 |  |  |
 | aoi kojika | あおいこじか |  |  |
 | fuji norihiro | 藤のりひろ |  |  |
