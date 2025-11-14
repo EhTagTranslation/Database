@@ -6076,7 +6076,7 @@ example:
 | tetsunosuke ichimura | 市村铁之助 | 市村铁之助（1854年—1873年？）为美浓大垣藩出身的新选组队士。 | [维基百科](https://zh.wikipedia.org/wiki/市村鐵之助) |
 | seliph | 神威 | 《火焰纹章》系列男角色 |  |
 | koala | 克尔拉 | 克尔拉，日本漫画《航海王》及其衍生作品中的角色。在甚平的记忆中首次登场，原本是天龙人的奴隶，15年前被费舍尔·泰格解放，后来被太阳海贼团护送回家，是“人类与鱼人间的桥梁”。13岁时加入革命军。 |  |
-| cupitan | 库皮坦 | 碧蓝幻想中的女性角色 |  |
+| cupitan | 库皮坦 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/a2/Zoom_3040379000_01.png)<br>所属作品：`granblue fantasy` |  |
 | pittsburgh | 匹兹堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/18421064d7a82b0f84766e31cb55eb39262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/d805b3fc544503fe4a239c264968dd34262400697.png)<br>原型为匹兹堡号重巡洋舰（CA-72） | [维基百科（英语）](https://en.wikipedia.org/wiki/USS_Pittsburgh_%28CA-72%29)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/匹兹堡) |
 | seydlitz | 塞德利茨 | 所属作品：`azur lane`，舰队少女R。<br>![](https://i2.hdslb.com/bfs/new_dyn/62ae1a4899685d498932f8e41d434fe8262400697.png)<br>原型为希佩尔海军上将级塞德利茨号重巡洋舰 | [维基百科](https://zh.wikipedia.org/wiki/塞德利茨號重巡洋艦)<br>[https://www.zjsnrwiki.com/wiki/塞德利茨](https://www.zjsnrwiki.com/wiki/塞德利茨)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/塞德利茨) |
 | pennsylvania | 宾夕法尼亚 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/634c0d85e0ae08975f9d21d28e5a0482262400697.png) | [维基百科](https://zh.wikipedia.org/wiki/賓夕法尼亞號戰艦)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Pennsylvania_%28BB-38%29)<br>[https://www.zjsnrwiki.com/wiki/宾夕法尼亚](https://www.zjsnrwiki.com/wiki/宾夕法尼亚)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/宾夕法尼亚) |
