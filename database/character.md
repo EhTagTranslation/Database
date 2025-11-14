@@ -7056,6 +7056,7 @@ example:
 | miyako shiina | 椎名京 | ![](https://cdn.myanimelist.net/images/characters/7/316504.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | riko ichinose | 一之濑莉子 | ![](https://ehgt.org/w/02/003/27330-ugkbkzcl.webp)<br>![](https://ehgt.org/w/02/006/30491-j79goews.webp) |  |
 | eda | 艾达 | ![](https://img.moegirl.org.cn/common/3/38/Eda_blacklagoon.jpg)<br>所属作品：`black lagoon`<br>本名伊迪丝·布莱克沃特(英文:Edith Blackwater)。 |  |
+| bachou mouki | 马超孟起 | 所属作品：`ikkitousen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
