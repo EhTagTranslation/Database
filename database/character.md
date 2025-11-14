@@ -5871,7 +5871,7 @@ example:
 | soldier 11 | 11号 | 米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/11号) |
 | alexandrina sebastiane | 亚历山德丽娜·莎芭丝缇安 | 米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。<br>别号	丽娜 | [萌娘百科](https://zh.moegirl.org.cn/亚历山德丽娜·莎芭丝缇安) |
 | maizuru | 舞鹤 | 舞鹤（日语：マイヅル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 |  |
-| yanagi tsukishiro | 月城柳 | 米哈游制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月城柳) |
+| yanagi tsukishiro | 月城柳 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/10/29/76099754/51f7da64878494b38ec4147c794e1b2c_2233892488382252178.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/月城柳) |
 | maria cadenzavna eve | 玛丽亚·卡登扎夫娜·伊芙 | 玛丽亚·卡登扎夫娜·伊芙是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛丽亚·卡登扎夫娜·伊芙) |
 | elfnein | 艾芙奈恩 | 艾芙奈恩是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾芙奈恩) |
 | taoqi | 桃祈 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/6/69/a2fx0h30xz5fvamydsjty0bojrt9c00.png/605px-Mc_wiki_role_taoqi_x1500.png)<br>所属作品：`wuthering waves`<br>天工边防事务的负责人，平时慵懒的她，却总能可靠地解决问题。 守护他人的点点愿望汇聚成坚固的屏障，屹立于今州城前。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/桃祈) |
