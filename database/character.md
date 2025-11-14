@@ -7104,6 +7104,7 @@ example:
 | skye | 斯凯 | ![](https://ehgt.org/w/01/905/66011-gjiekyzh.webp)<br>所属作品：`valorant` |  |
 | shylily | 夏莉莉 | ![](https://ehgt.org/w/01/210/53385-c7wcglj3.webp)<br>Shylily是一名在Twitch活动的英语系虚拟YouTuber |  |
 | killer frost | 冰霜杀手 |  |  |
+| cure spicy | 香辣天使 | ![](https://ehgt.org/w/02/045/16326-hvmitaou.webp)<br>所属作品：`delicious party precure`<br>代表属性为面包。中文名芙羽心音，日语名芙羽 ここね，别名Cure Spicy（香辣天使） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
