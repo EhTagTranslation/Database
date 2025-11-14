@@ -7075,6 +7075,7 @@ example:
 | chocolate misu | 休可拉˙米丝 | 所属作品：`bakuretsu hunters`<br>日语名：ショコラ・ミス |  |
 | kalifa | 卡莉法 | ![](https://ehgt.org/w/02/083/60691-pxbzekqn.webp)<br>所属作品：海贼王 |  |
 | makoto tsukauchi | 塚内真 | ![](https://ehgt.org/w/01/962/73815-7vgwyspm.webp)<br>所属作品：我的英雄学院 |  |
+| yun yun | 云韵 | ![](https://ehgt.org/w/01/984/27534-8jheoutl.webp)<br>所属作品：`doupo cangqiong` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
