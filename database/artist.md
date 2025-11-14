@@ -9036,7 +9036,7 @@ example:
 | oniku. | お肉。 |  |  |
 | onineko | おにねこ |  |  |
 | onita | 歐尼鬼 |  |  |
-| oniyama | 鬼山 |  |  |
+| oniyama | 鬼山 |  | [pixiv](https://www.pixiv.net/users/2624258) |
 | oniyuri | オニユリ |  |  |
 | onizuka takuto | 鬼塚たくと |  |  |
 | onna | onna |  |  |
