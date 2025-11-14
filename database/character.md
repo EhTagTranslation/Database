@@ -7096,6 +7096,7 @@ example:
 | dragonmaid sheou | 龙女仆·管家龙女 | ![](https://static.wikia.nocookie.net/yugioh/images/7/76/HouseDragonmaid-MAGO-EN-PGR-1E.png)<br>所属作品：游戏王<br>龙形态名为龙女仆·秀特亮尔<br>半龙女仆团队中的大姐 |  |
 | pine | 派茵 | ![](https://ehgt.org/w/02/089/08670-qbdxx2bo.webp)<br>所属作品：`bomber girl` |  |
 | marina ismail | 玛丽娜·伊斯梅尔 | ![](https://ehgt.org/w/01/906/86927-383rkb4u.webp)<br>所属作品：`gundam 00`<br>阿扎迪斯坦的第一公主 |  |
+| arue | 有够会 | ![](https://ehgt.org/w/02/052/63650-ixn3vvek.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>惠惠的好友，与惠惠、悠悠是同期的同级生。有够会的志愿是作家，自称 “红魔族发育速度第一”，也会使用上级魔法。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
