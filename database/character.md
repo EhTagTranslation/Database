@@ -7052,6 +7052,7 @@ example:
 | emi yusa | 游佐惠美 | ![](https://ehgt.org/w/01/980/48945-8emu4zap.webp)<br>所属作品：`hataraku maou-sama` |  |
 | okaa-san | 爱酱妈妈 | ![](https://ehgt.org/w/01/964/74341-0879plc1.webp)<br>所属作品：`getsuyoubi no tawawa`<br>爱酱的妈妈 |  |
 | machamp | 怪力 | ![](https://static.wikia.nocookie.net/espokemon/images/b/bf/Machamp.png)<br>格斗系宝可梦 |  |
+| yukie mayuzumi | 黛由纪江 | 所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
