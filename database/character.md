@@ -6486,7 +6486,7 @@ example:
 | vivian banshee | 薇薇安·班希 | 薇薇安是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/薇薇安·班希) |
 | lain paterson | 兰·帕特森 | ![](https://img.moegirl.org.cn/common/e/eb/Lain_Paterson.jpg)<br>日语: レイン・パターソン<br>英语: Lain Paterson<br>隶属于彩虹社的VTuber | [萌娘百科](https://zh.moegirl.org.cn/兰·帕特森) |
 | usugumo | 薄云 | 所属作品: `p:kantai collection` | [舰娘百科](https://m.kcwiki.cn/wiki/薄云) [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:薄云) |
-| sweety | 红豆 | 绝区零饮茶仙店员<br>![](https://img.picui.cn/free/2025/06/21/6856c34d62fd4.png) | [萌娘百科](https://zh.moegirl.org.cn/红豆%28绝区零%29) |
+| sweety | 红豆 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/12/03/08/30/137374846_p0_master1200.jpg)<br>所属作品：`zenless zone zero`<br>绝区零饮茶仙店员 | [萌娘百科](https://zh.moegirl.org.cn/红豆%28绝区零%29) |
 | eve | 伊芙 | 泛指名为eve的角色。<br>单机游戏《剑星》中的伊芙请使用Tag `eve 07` |  |
 | ameri azazel | 阿萨兹勒·艾梅莉 | 阿萨兹勒·艾梅莉是由西修所创作的漫画《入间同学入魔了》及其衍生作品的登场角色。人物原型为《圣经旧约－利未记》中八大堕落天使之首：阿撒兹勒（Azazel），是第一位因为背叛上帝从而堕天的天使。 | [萌娘百科](https://zh.moegirl.org.cn/阿萨兹勒·艾梅莉)、[Fandom](https://mairimashita-irumakun.fandom.com/wiki/Azazel_Ameri) |
 | mei ebino | 江火野芽衣 | 江火野芽衣是《初恋僵尸》的主角之一，与作品主人公久留目太郎是青梅竹马。 | [Fandom](https://hatsukoi-zombie.fandom.com/wiki/Mei_Ebino) |
