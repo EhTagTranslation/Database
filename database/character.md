@@ -4282,7 +4282,7 @@ example:
 | saki sorai | 空井咲 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的先锋。<br>![](https://patchwiki.biligame.com/images/ba/2/2b/esjduum72f2g9s1lf6h9ff7jsnlf2fo.png) | [萌娘百科](https://zh.moegirl.org.cn/空井咲)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Saki) |
 | collei | 柯莱 | ![](https://patchwiki.biligame.com/images/ys/8/86/bl8moozrgrbor68r2fhvp7g6p6z0rue.png)<br>柯莱(英语:collei) 所属作品`p:genshin impact`<br>是游戏《原神》及其衍生作品的登场角色。<br>活跃于道成林的见习巡林员，热情的言行背后是一颗依旧稍显内向的心。 | [萌娘百科](https://zh.moegirl.org.cn/柯莱) |
 | lavenza | 拉雯妲 |  |  |
-| von lycaon | 冯·莱卡恩 | 《`zenless zone zero`》的登场角色。 |  |
+| von lycaon | 冯·莱卡恩 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/4199ef0365f4c16d2f03d23c90dda2a0_2784271936765724085.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` |  |
 | cyborg | 赛博格 | 赛博格是以无机物所构成的人造物，植入或者装配在有机体身体内外，但思考动作均由有机体控制的生物。通常这样做的目的是借由人工科技来增加或强化生物体的能力。 | [维基百科](https://zh.wikipedia.org/wiki/賽博格) |
 | april | 四月 | ![](https://patchwiki.biligame.com/images/arknights/5/5a/jqmqpvpl5lrqey6yx6jhhdmr6wqh1mj.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/四月) |
 | eevee | 伊布 | 伊布的外表看起来基于狐狸，全身的毛大部分为褐色。颈部周围与尾巴蓬松的奶油色的毛是它的特征。伊布的腿短而细，各长有三趾和粉色的爪垫。伊布有褐色的眼睛、像兔子一样的长耳朵和小小的黑鼻子。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/伊布) |
