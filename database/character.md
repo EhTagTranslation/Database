@@ -7064,7 +7064,7 @@ example:
 | jenny realight | 珍妮·莉亚莱特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/79/6e/114428_crt_I43CN.jpg)<br>所属作品：`fairy tail`<br>青色天马的魔导士，同时也是魔法周刊顶级写真模特 |  |
 | nadia la arwall | 娜迪亚·拉·阿尔瓦 | ![](https://ehgt.org/w/01/981/71233-qdhcboca.webp)<br>所属作品：`fushigi no umi no nadia` |  |
 | evelyn celebrian | 伊芙琳·瑟勒布里安 | ![](https://ehgt.org/w/01/743/03934-8gy0068t.webp)<br>所属作品：`youkoso sukebe elf no mori e` |  |
-| elda | 艾尔达 | ![](https://ehgt.org/w/01/994/13589-meuxqf6d.webp)<br>所属作品：`youkoso sukebe elf no mori e` |  |
+| elda | 艾尔达 | ![](https://ehgt.org/w/01/849/74558-pjlz0y6f.webp)<br>所属作品：`youkoso sukebe elf no mori e` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
