@@ -847,7 +847,7 @@ example:
 | wakakusa monogatari nan to jo-sensei | 小妇人物语 南与乔老师 |  |  |
 | watashi no ashinaga ojisan | 长腿叔叔 |  |  |
 | nurse angel ririka sos | 守护天使莉莉佳 |  |  |
-| youre under arrest | 逮捕令 | 《逮捕令》（逮捕しちゃうぞ，You're Under Arrest）是由藤岛康介创作的一部以交警为主角的漫画。 | [萌娘百科](https://zh.moegirl.org.cn/逮捕令) |
+| youre under arrest | 逮捕令 | ![](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2592275131.webp)<br>《逮捕令》（逮捕しちゃうぞ，You're Under Arrest）是由藤岛康介创作的一部以交警为主角的漫画。 | [萌娘百科](https://zh.moegirl.org.cn/逮捕令) |
 | phantom quest corp | 幽幻怪社 |  |  |
 | urusei yatsura | 福星小子 |  |  |
 | attacker you | 胜利女排 |  |  |
