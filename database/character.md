@@ -7053,7 +7053,7 @@ example:
 | okaa-san | 爱酱妈妈 | ![](https://ehgt.org/w/01/964/74341-0879plc1.webp)<br>所属作品：`getsuyoubi no tawawa`<br>爱酱的妈妈 |  |
 | machamp | 怪力 | ![](https://static.wikia.nocookie.net/espokemon/images/b/bf/Machamp.png)<br>格斗系宝可梦 |  |
 | yukie mayuzumi | 黛由纪江 | 所属作品：`maji de watashi ni koi shinasai` |  |
-| miyako shiina | 椎名京 | 所属作品：`maji de watashi ni koi shinasai` |  |
+| miyako shiina | 椎名京 | ![](https://ehgt.org/w/01/803/51187-bz5d0ggk.webp)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
