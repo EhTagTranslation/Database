@@ -5427,7 +5427,7 @@ example:
 | ethan winters | 伊森·温特斯 | 生化危机7.8角色 | [百度百科](https://baike.baidu.com/item/伊森·温特斯/20799755) |
 | avenger | 安哥拉曼纽 |  |  |
 | jtf mob | 正义实现委员会杂鱼酱 | 所属作品：`p:blue archive`<br>![](https://i.pixiv.cat/img-master/img/2025/03/24/22/55/43/128570413_p0_master1200.jpg) |  |
-| mana nekomiya | 猫宫又奈 | 猫宫又奈是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猫宫又奈) |
+| mana nekomiya | 猫宫又奈 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/3762cc4676b341f6bd53127827645e6e_8663005375158146409.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/猫宫又奈) |
 | verina | 维里奈 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/6/63/h2v753e62fuxoyccygireroa76zkbz4.png/660px-Mc_wiki_role_verina_x1500.png)<br>维里奈是库洛制作的游戏`p:wuthering waves`的登场角色。<br>具有丰富植物知识储备的育种员维里奈，总是微笑，始终温柔，用她的治愈之力呵护每一个朋友，希望所有的花朵都拥有生命的奇迹。 | [萌娘百科](https://zh.moegirl.org.cn/维里奈) |
 | agnes digital | 爱丽数码 | ![](https://moegirl.icu/media/thumb/UPDCH_AgnesDigital_00.png/580px-UPDCH_AgnesDigital_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹アグネスデジタル（Agnes Digital）。 | [ピクシブ百科事典](https://dic.pixiv.net/a/アグネスデジタル%28ウマ娘%29)<br>[萌娘百科](https://zh.moegirl.org.cn/爱丽数码#google_vignette) |
 | hishi miracle | 菱钻奇宝 | ![](https://moegirl.icu/media/thumb/UPDCH_HishiMiracle_00.png/580px-UPDCH_HishiMiracle_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヒシミラクル（Hishi Miracle）。 | [萌娘百科](https://zh.moegirl.org.cn/菱钻奇宝) |
