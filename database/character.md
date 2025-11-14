@@ -7079,6 +7079,7 @@ example:
 | momoko ootani | 大谷桃子 | 所属作品：`photo kano` |  |
 | psykos | 赛克斯 | ![](https://ehgt.org/w/01/929/89921-ckxs7pcv.webp)<br>所属作品：`one punch man` |  |
 | minerva orland | 米涅芭·奥兰多 | ![](https://static.wikia.nocookie.net/vsbattles/images/9/9e/Fairy_Tail_Minerva_X791_Render.png)<br>所属作品：`fairy tail` |  |
+| elina vance | 艾莉娜 | ![](https://ehgt.org/w/01/899/61271-dixqx1t9.webp)<br>所属作品：`queens blade` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
