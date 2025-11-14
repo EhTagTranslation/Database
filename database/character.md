@@ -7090,6 +7090,7 @@ example:
 | shandy | 香迪 | ![](https://tiebapic.baidu.com/forum/pic/item/1254bbfb828ba61e619784f20434970a314e5951.jpg?tbpicau=2025-11-25-05_cc16a5f4a8e53c9d7af56f568869f6d4)<br>所属作品：`dead or alive` |  |
 | yuuko sagiri | 狭雾友子 | ![](https://static.wikia.nocookie.net/triagex/images/0/06/YukoMain.jpg)<br>所属作品：`triage x`<br>狭雾阳子的双胞胎妹妹。望月医院的主任医师之一，也是黑标组织的成员。 |  |
 | trafalgar law | 特拉法尔加·罗 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2019/08/06/02/20/45/76101399_p0_master1200.jpg)<br>所属作品：`one piece` |  |
+| peorth | 佩奥斯 | ![](https://i.redd.it/the-upscaled-reference-art-of-peorth-from-the-anime-plus-v0-rdfqykww23n91.png?width=2272&format=png&auto=webp&s=2675844a85fdcd803835caf0665178b7c4612b47)<br>所属作品：`ah my goddess` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
