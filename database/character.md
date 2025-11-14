@@ -5857,7 +5857,7 @@ example:
 | hanako arasaka | 荒坂华子 |  | [萌娘百科](https://zh.moegirl.org.cn/荒坂华子) |
 | misty olszewski | 米丝蒂·奥尔谢夫斯基 |  | [灰机wiki](https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基) |
 | rogue amendiares | 罗格·阿曼迪亚斯 |  | [灰机wiki](https://cyberpunk.huijiwiki.com/wiki/罗格·阿曼迪亚斯) |
-| piper wheel | 派派·韦尔 | 派派·韦尔是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/54/c1/54c1ccae125822d2cdac187cb36e29fc086e522d-3104460-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/派派·韦尔) |
+| piper wheel | 派派·韦尔 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/76bf3a04b3bea4d06cc083154d64c17a_7128888337781188889.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/派派·韦尔) |
 | mia fujikawa | 藤川美亚 |  |  |
 | vulpisfoglia | 忍冬 | ![](https://patchwiki.biligame.com/images/arknights/0/08/9tb2htl7nser8me879yr0ghm8nrwzpy.png)<br>所属作品 `p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/忍冬) |
 | kirie kagarino | 篝之雾枝 |  |  |
