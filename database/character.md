@@ -3065,7 +3065,7 @@ example:
 | hex maniac | 灵异迷 |  |  |
 | hypno | 引梦貘人 |  |  |
 | lana | 水莲 |  |  |
-| lanas mom | 水莲妈妈 | ![](https://ehgt.org/w/02/071/21088-1s4682pd.webp) |  |
+| lanas mom | 水莲妈妈 | ![](https://ehgt.org/w/02/071/21088-1s4682pd.webp)<br>水莲的妈妈 |  |
 | kiawe | 卡奇 |  |  |
 | elio | 朗日 |  |  |
 | pikachu | 皮卡丘 |  |  |
