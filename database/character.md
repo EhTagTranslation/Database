@@ -7085,6 +7085,7 @@ example:
 | cure kyun kyun | 紫雨心 | 日语：紫雨（しぐれ） こころ<br>魔法少女动画《You and Idol光之美少女♪》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/紫雨心) |
 | laala manaka | 真中啦啦 | ![](https://img.moegirl.org.cn/common/6/65/真中啦啦.png)<br>日语：真中（まなか） らぁら<br>罗马字：Manaka Laala<br>《美妙天堂》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/真中啦啦) |
 | aroma kurosu | 黑须茱香 | ![](https://img.moegirl.org.cn/common/f/fc/黑须茱香.png)<br>日语：黒須（くろす） あろま<br>罗马字：Kurosu Aroma<br>《美妙天堂》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/黑须茱香) |
+| uzume tennouboshi | 天王星涡芽 | ![](https://patchwiki.biligame.com/images/neptunia/f/fd/7xzvpmegil2vor5eodoxxqh0tfie8hm.png)<br>常态<br>![](https://patchwiki.biligame.com/images/neptunia/6/67/18p760kn3q8d5u75q5y7bxdhcba5jmg.png)<br>女神化<br>所属作品：`hyperdimension neptunia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
