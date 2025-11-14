@@ -3665,7 +3665,7 @@ example:
 | cucouroux | 库库鲁 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/0f/Zoom_3040159000_01.png)<br>所属作品：`granblue fantasy`<br>日文名：ククル | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030155000) |
 | jessica | 杰西卡 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/05/Zoom_3040227000_01.png)<br>所属作品：`granblue fantasy`<br>日文名：ジェシカ | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030159000) |
 | jasmine | 茉莉 | ![茉莉](https://huiji-public.huijistatic.com/gbf/uploads/3/3f/Zoom_3030102000_01.png)<br>所属作品：`granblue fantasy`<br>日文名：ジャスミン | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030102000) |
-| karva | 卡鲁巴 | ![卡鲁巴](https://huiji-public.huijistatic.com/gbf/uploads/9/9d/Zoom_3030230000_01.png)<br>日文名：カルバ<br>英文名：Karva | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030230000) |
+| karva | 卡鲁巴 | ![卡鲁巴](https://huiji-public.huijistatic.com/gbf/uploads/9/9d/Zoom_3030230000_01.png)<br>所属作品：`granblue fantasy`<br>日文名：カルバ | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3030230000) |
 | korwa | 可露瓦 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/36/Zoom_3040127000_01.png)<br>日文名：コルワ<br>英文名：Korwa | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040127000) |
 | noriko takaya | 高屋法子 | 《飞跃巅峰》第一季女主角 |  |
 | kazumi amano | 天野和美 |  |  |
