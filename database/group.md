@@ -13368,6 +13368,7 @@ example:
 | asu no hanasaku | アスノ華咲ク | `a:asuka rayaru`使用的同人社团名称 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=110717](https://www.melonbooks.co.jp/circle/index.php?circle_id=110717) |
 | touhou bakufu | 東方幕府 |  |  |
 | the waidan | THE猥談 |  |  |
+| kitsunekopandanuki | キツネコパンダヌキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
