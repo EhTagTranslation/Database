@@ -5503,7 +5503,7 @@ example:
 | sumika shiun | 紫云清夏 | 紫雲清夏（しうん すみか），《学园偶像大师》及其衍生作品的登场角色 | [萌娘百科](https://zh.moegirl.org.cn/紫云清夏) |
 | zhou yu | 周瑜 |  |  |
 | zheng chenggong | 郑成功 |  |  |
-| qingyi | 青衣 | 青衣是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://ehgt.org/35/3b/353b3f69cb1332556ab610ab44e4c54ee8c86659-2998411-1440-1865-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/青衣) |
+| qingyi | 青衣 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/08/05/76099754/822d214326e467e99ccf6bccff768de1_8048158907789191989.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/青衣) |
 | kinako | 黄豆粉 |  |  |
 | chika komari | 小鞠知花 | 石蕗高中一年级生，温水的同级同学，文艺部部员，性格有点自卑，但长相端正，且身形娇小的腐女 |  |
 | kazuhiko nukumizu | 温水和彦 | 所属作品：`make heroine ga oosugiru`<br>![](https://img.moegirl.org.cn/common/6/6d/Nukumizu_Kazuhiko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/温水和彦) |
