@@ -7054,6 +7054,7 @@ example:
 | machamp | 怪力 | ![](https://static.wikia.nocookie.net/espokemon/images/b/bf/Machamp.png)<br>格斗系宝可梦 |  |
 | yukie mayuzumi | 黛由纪江 | ![](https://cdn.myanimelist.net/images/characters/4/316502.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | miyako shiina | 椎名京 | ![](https://cdn.myanimelist.net/images/characters/7/316504.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| riko ichinose | 一之濑莉子 | ![](https://ehgt.org/w/02/003/27330-ugkbkzcl.webp)<br>![](https://ehgt.org/w/02/006/30491-j79goews.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
