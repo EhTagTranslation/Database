@@ -7068,6 +7068,7 @@ example:
 | payila | 哈伊拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3e/Zoom_3040502000_81.png)<br>所属作品：`granblue fantasy` |  |
 | charlotta fenia | 夏洛特（GBF） | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/22/Zoom_3040194000_02.png)<br>所属作品：`granblue fantasy` |  |
 | brunhilde | 布伦希尔德 | ![](https://ehgt.org/w/01/962/79973-vaxcda73.webp)<br>所属作品：`shuumatsu no valkyrie` |  |
+| nier | 妮娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/87/Zoom_3040169000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/a/a8/Zoom_3040169000_81.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
