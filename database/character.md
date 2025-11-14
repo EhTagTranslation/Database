@@ -6109,7 +6109,7 @@ example:
 | alear | 琉尔 |  |  |
 | micaiah | 米卡娅 |  |  |
 | yunaka | 尤娜卡 |  |  |
-| pulchra fellini | 波可娜·费雷尼 | 波可娜是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/波可娜·费雷尼) |
+| pulchra fellini | 波可娜·费雷尼 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/03/05/15559334/e580002690f8aeb311de4608063235f1_3158522883564202676.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/波可娜·费雷尼) |
 | nina | 贝璐卡 |  |  |
 | velouria | 维罗妮卡 |  |  |
 | ophelia | 奥菲利亚 |  |  |
