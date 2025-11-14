@@ -7060,6 +7060,7 @@ example:
 | kanpei | 关平 | 所属作品：`ikkitousen` |  |
 | ato | 阿斗 | 所属作品：`ikkitousen` |  |
 | kouchuu kanshou | 黄忠汉升 | ![](https://ehgt.org/w/02/041/55409-4y21vfx2.webp)<br>所属作品：`koihime musou` |  |
+| jun kazama | 风间准 | 所属作品：铁拳8<br>风间隼的妹妹 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
