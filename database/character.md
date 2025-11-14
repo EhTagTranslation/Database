@@ -7093,6 +7093,7 @@ example:
 | peorth | 佩奥斯 | ![](https://i.redd.it/the-upscaled-reference-art-of-peorth-from-the-anime-plus-v0-rdfqykww23n91.png?width=2272&format=png&auto=webp&s=2675844a85fdcd803835caf0665178b7c4612b47)<br>所属作品：`ah my goddess` |  |
 | cheria barnes | 谢莉亚·巴恩斯 | ![](https://ehgt.org/w/01/992/85890-hz6qhbfq.webp)<br>所属作品：`tales of graces` |  |
 | yuriko aoki | 苍树红 | ![](https://static.wikia.nocookie.net/bakuman/images/8/81/Aoki.png)<br>所属作品：`bakuman`<br>本名青木优梨子，あおき ゆりこ |  |
+| dragonmaid sheou | 龙女仆 | ![](https://static.wikia.nocookie.net/yugioh/images/7/76/HouseDragonmaid-MAGO-EN-PGR-1E.png)<br>所属作品：游戏王 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
