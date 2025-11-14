@@ -4697,7 +4697,7 @@ example:
 | lewis | 刘易斯 | 刘易斯（英语：lewis）所属作品:`p:girls frontline`<br>是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》及其衍生作品的登场角色<br>![](https://www.gfwiki.org/images/4/47/Pic_Lewis_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/8/8b/Lewis_%28PNC%29.png)<br>少女前线2：追放<br>已登场 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:刘易斯)<br>[少前百科GFwiki](https://gfwiki.org/w/刘易斯)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/刘易斯) |
 | kagura mea | 神乐Mea | 神乐Mea（日语：神楽めあ 英语：Kagura Mea）是一名 `vtuber` | [萌娘百科](https://zh.moegirl.org.cn/神乐Mea) |
 | gabriel | 加百列 | 加百列（英语：gabriel）所属作品:`p:granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/de/B_2040311000.png) |  |
-| europa | 欧罗巴 | 欧罗巴（英语：europa）所属作品:`p:granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/2/2d/Zoom_3040226000_01.png) |  |
+| europa | 欧罗巴 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/2d/Zoom_3040226000_01.png)<br>所属作品:`p:granblue fantasy` |  |
 | neneka utsushimi | 现士实似似花 | 现士实似似花（日语：現士実（うつしみ） 似々花（ねねか）英语：neneka utsushimi）所属作品:`p:princess connect`<br>是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/Neneka-Full.png) | [萌娘百科](https://zh.moegirl.org.cn/现士实似似花) |
 | penny | 牡丹 | 所属作品：`pokemon`<br>![](https://img.moegirl.org.cn/common/6/66/Penny_PMSV.png)<br>牡丹（日语：ボタン，英语：Penny） | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
 | arslan | 亚尔斯兰 |  |  |
