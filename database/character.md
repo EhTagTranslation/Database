@@ -6316,7 +6316,7 @@ example:
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
 | igarashi rika | 五十岚梨花 |  |  |
 | todo kohaku | 东堂琥珀 |  |  |
-| trigger | 扳机 | 扳机是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/扳机) |
+| trigger | 扳机 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/03/20/82500917/304ef76355275fecfcac4fc3f6d264a3_2227158392948245307.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/扳机) |
 | astgenne | 星源 | ![](https://patchwiki.biligame.com/images/arknights/5/51/bxclnupscmprxqc165621gnnzwhybyo.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/星源) |
 | poncirus | 青枳 | ![](https://patchwiki.biligame.com/images/arknights/7/77/7xg0iip3l8z4q2ifbx64iunxe8ebeq3.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/青枳) |
 | lin yuhsia | 林（林雨霞） | ![](https://patchwiki.biligame.com/images/arknights/c/c4/g79belyqvjzipad4y9o1rn3c4d2psbp.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
