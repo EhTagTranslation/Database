@@ -7105,6 +7105,7 @@ example:
 | shylily | 夏莉莉 | ![](https://ehgt.org/w/01/210/53385-c7wcglj3.webp)<br>Shylily是一名在Twitch活动的英语系虚拟YouTuber |  |
 | killer frost | 冰霜杀手 |  |  |
 | cure spicy | 香辣天使 | ![](https://ehgt.org/w/02/045/16326-hvmitaou.webp)<br>所属作品：`delicious party precure`<br>代表属性为面包。中文名芙羽心音，日语名芙羽 ここね，别名Cure Spicy（香辣天使） |  |
+| emilia leblanc | 伊米利亚·勒布朗 | ![](https://ehgt.org/w/01/632/74169-ctixu7a7.webp)<br>所属作品：`league of legends`<br>外号诡术妖姬 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
