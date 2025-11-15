@@ -6395,7 +6395,7 @@ example:
 | satou matsuzaka | 松板砂糖 |  |  |
 | lemuen | 蕾缪安 | ![](https://patchwiki.biligame.com/images/arknights/5/5e/fk6207iumwrkw0da7mukqhzt1gga3ac.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/蕾缪安) |
 | aoba utsumi | 内海青叶 |  |  |
-| sylvia van hossen | 希尔薇娅·范·霍森 | ![希尔薇](https://jqcuwuk.qqabwhqzoesl.hath.network/h/019df34cc3991e712a409302b482bf9f15dbe61b-45611-426-600-jpg/keystamp=1746856200-2eec20969f;fileindex=10156905;xres=2400/5ceb028d6b1b2dfb4ca86f27eae85567.jpg)<br>公主恋人的第二女主角，OVA希尔薇篇的女主角。 | [vndb](https://vndb.org/v765) |
+| sylvia van hossen | 希尔薇娅·范·霍森 | ![](https://ehgt.org/w/01/977/82969-qo92438g.webp)<br>所属作品：`princess lover` | [vndb](https://vndb.org/v765) |
 | kabru | 卡布尔 |  |  |
 | cattleya | 卡特莱娜 |  |  |
 | escoffier | 爱可菲 | ![](https://patchwiki.biligame.com/images/ys/2/27/ad3tnyxytrvanxcwqusgye5fw3kn32f.gif)<br><br>所属作品：`genshin impact`<br>闻名枫丹的前德波大饭店主厨，有着「甜点大校」荣誉的「技术料理」先驱，对烹饪的要求无比严格。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/爱可菲) |
