@@ -7216,6 +7216,7 @@ example:
 | albert | 阿尔贝尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/68/Zoom_3040045000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/c7/Zoom_3040290000_01.png)<br>所属作品：`granblue fantasy`<br>外号 雷剑，那个男人 |  |
 | mariah | 玛丽亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/28/Zoom_3030045000_01.png)<br>所属作品：`granblue fantasy`<br>[贖罪の放浪者] |  |
 | tanya | 塔尼娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/86/Zoom_3040203000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/be/Zoom_3030167000_01.png)<br><br>所属作品：`granblue fantasy` |  |
+| freesia von bismarck | 宰相（芙酱） | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/54/Zoom_3040182000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
