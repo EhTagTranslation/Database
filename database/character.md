@@ -7110,6 +7110,7 @@ example:
 | tokiko fuuma | 风魔时子 |  |  |
 | kurenai shinganji | 心愿寺红 |  |  |
 | aya toujou | 东城绫 | 所属作品：`ichigo 100` |  |
+| grave | 格拉维 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_825/h_2320/1253/4408/2025/4/8/739126.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/17/256094.png)<br>所属作品：`goddess of victory nikke`<br>背着巨大棺材在地面流浪的不明身份妮姬。 | [gamekee](https://www.gamekee.com/nikke/tj/170831.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
