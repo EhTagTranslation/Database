@@ -7214,6 +7214,7 @@ example:
 | diola | 迪奥拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
 | drang | 德朗克 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d0/Zoom_3040269000_81.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040119000_01.png)<br>所属作品：`granblue fantasy` |  |
 | albert | 阿尔贝尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/68/Zoom_3040045000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/c7/Zoom_3040290000_01.png)<br>所属作品：`granblue fantasy`<br>外号 雷剑，那个男人 |  |
+| mariah | 玛丽亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/28/Zoom_3030045000_01.png)<br>所属作品：`granblue fantasy`<br>[贖罪の放浪者] |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
