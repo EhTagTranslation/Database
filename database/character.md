@@ -7204,6 +7204,7 @@ example:
 | feower | 卡托尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5a/Zoom_3040033000_82.png)<br>所属作品：`granblue fantasy` |  |
 | forte | 法尔提 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/b1/Zoom_3040086000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lunalu | 露娜露 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/ef/Zoom_3040172000_01.png)<br>所属作品：`granblue fantasy` |  |
+| arriet | 安丽特 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/16/Zoom_3040058000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
