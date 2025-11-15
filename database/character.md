@@ -7153,6 +7153,7 @@ example:
 | mishra | 米歇拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c4/Zoom_3040317000_01.png)<br>所属作品：`granblue fantasy` |  |
 | catherine | 凯瑟琳 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/cf/Zoom_3040484000_01.png)<br>所属作品：`granblue fantasy` |  |
 | karteira | 卡塔莉娜·亚莉泽 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/87/Zoom_3040054000_01.png)<br>所属作品：`granblue fantasy` |  |
+| melleau | 梅路 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d5/Zoom_3040022000_81.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
