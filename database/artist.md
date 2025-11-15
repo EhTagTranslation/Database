@@ -1720,7 +1720,7 @@ example:
 | kokekokko coma | こけこっこ☆こま |  |  |
 | nagareboshi hikaru | 流星ひかる |  |  |
 | mihara jun | みはらじゅん |  |  |
-| dpc | DPC |  |  |
+| dpc | DPC | デイノジ dpc \| deinoji |  |
 | urase shioji | 浦瀬しおじ |  |  |
 | yakusho | やくしょ |  |  |
 | kedama keito | 毛玉ケヰト |  |  |
