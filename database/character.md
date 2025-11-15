@@ -7184,6 +7184,7 @@ example:
 | sarya | 萨娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/cd/Zoom_3030063000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lilele | 莉露露 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e1/Zoom_3040383000_01.png)<br>所属作品：`granblue fantasy` |  |
 | mimlemel | 米姆露梅莫璐 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/39/Zoom_3040292000_01.png)<br>所属作品：`granblue fantasy` |  |
+| zahlhamelina | 扎哈梅丽娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/66/Zoom_3040349000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
