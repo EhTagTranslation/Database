@@ -2453,7 +2453,7 @@ example:
 |  | ▼ バーチャルYouTuber |  |  |
 | kizuna ai | 绊爱 | ~~人工智障 ~~<br>绊爱（日语：キズナアイ；英语：Kizuna AI）是一个日本`vtuber`，也是公认的第一个`vtuber`。其人物设计由`morikura en`创作。<br>※因在早期游戏实况视频中的各种失误操作和理解缓慢，与本身“人工智能”角色设定形成反差。被网友们调侃为“人工智障”<br>![绊爱](https://p.sda1.dev/5/caf436616b32656d6eee750c482b01d1/Kizuna_AI_-_SCP_Foundation_2.png) | [维基百科](https://zh.wikipedia.org/wiki/絆愛) [A.I.Channel](https://www.youtube.com/c/AIChannel) [A.I.Games](https://www.youtube.com/c/AIGamesdayo) [X](https://x.com/aichan_nel) |
 | kaguya luna | 辉夜月 |  |  |
-| mirai akari | Mirai Akari |  |  |
+| mirai akari | 未来明 | ![](https://img.moegirl.org.cn/common/d/d0/MIRAI_AKARI.jpg)<br>所属社团：GOOM STUDIO |  |
 | nojaoji | Mikoko | Mikoko（日语：みここ）是Nekomasu作为`vtuber`活动时的主要形象。形象为双马尾萝莉狐娘。在使用此形象时，Nekomasu自称虚拟口癖萝莉狐娘YouTuber大叔（バーチャルのじゃロリ狐娘Youtuberおじさん，简称のじゃおじ），并在句尾附上のじゃ的口癖。 | [萌娘百科](https://zh.moegirl.org.cn/Nekomasu) |
 |  | ▼ 机动战士高达SEED&机动战士高达SEED Destiny |  |  |
 | kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/基拉·大和) |
