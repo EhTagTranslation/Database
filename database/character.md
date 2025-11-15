@@ -7140,7 +7140,7 @@ example:
 | therese | 特蕾丝 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5b/Zoom_3040433000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lamretta | 拉姆丽妲 | ![](https://huiji-public.huijistatic.com/gbf/uploads/f/f6/Zoom_3040319000_01.png)<br>所属作品：`granblue fantasy` |  |
 | carren estapera | 卡莲 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4f/Zoom_3030046000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/a/a1/Zoom_3030200000_01.png)<br>所属作品：`granblue fantasy` |  |
-| scathacha | 斯卡哈 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/84/Zoom_3040122000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040260000_01.png)<br>所属作品：`granblue fantasy` |  |
+| scathacha | 斯卡哈（GBF） | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/84/Zoom_3040122000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040260000_01.png)<br>所属作品：`granblue fantasy` |  |
 | anthuria | 安苏莉娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/ca/Zoom_3040103000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/3/37/Zoom_3040228000_01.png)<br>所属作品：`granblue fantasy` |  |
 | ilsa | 伊尔莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4c/Zoom_3040177000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/de/Zoom_3040456000_01.png)<br>所属作品：`granblue fantasy` |  |
 | ferry | 菲莉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/bf/Zoom_3030310000_01.png)<br>所属作品：`granblue fantasy` |  |
