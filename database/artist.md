@@ -3664,7 +3664,7 @@ example:
 | suzuki hinomi | 鈴木ひのみ |  | [pixiv](https://www.pixiv.net/users/20340462) [X](https://x.com/SuzukiHinomi) |
 | minamo | みなも | Minamo 和 minamo\_rm 使用同一个标签 | [pixiv](https://www.pixiv.net/users/53305649) [pixiv](https://www.pixiv.net/users/27420842) |
 | ka-9 | ないん |  | [pixiv](https://www.pixiv.net/users/93170) [X](https://x.com/KA_009) |
-| shinjima saki | 心岛咲 |  |  |
+| shinjima saki | 心岛咲 | 心島咲 |  |
 | riko | 利行 |  |  |
 | shinozaki rei | しのざき嶺 | 他活跃于许多成人漫画杂志。自1980年代以来一直在写作的资深作家，他主要绘制具有强烈恋物癖和SM色彩的作品。代表作品有『もう誰も愛せない』『NIGHT MARE』。他还与成年漫画家海野やよい有着密切的友谊，并且都经营着同人圈。也有很多关于异装癖男孩、怪诞、娈童和双性恋的作品。 | [维基百科](https://ja.wikipedia.org/wiki/しのざき嶺) [X](https://x.com/sinozaki09) [pixiv](https://www.pixiv.net/users/422715) |
 | mei ichi | 名一 |  | [pixiv](https://www.pixiv.net/users/3765397) [X](https://x.com/71naichi71) |
