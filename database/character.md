@@ -842,7 +842,7 @@ example:
 |  | 山村贤 |  |  |
 | mano sakuragi | 樱木真乃 |  |  |
 | hiori kazano | 风野灯织 |  |  |
-| meguru hachimiya | 八宫缭 |  |  |
+| meguru hachimiya | 八宫巡 | ![](https://img.moegirl.org.cn/common/2/26/HACHIMIYA_MEGURU283.png)<br>八宫巡（日语：八宮 めぐる）是`the idolmaster`系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的混血友善偶像 | [萌娘百科](https://zh.moegirl.org.cn/八宫巡) |
 | mamimi tanaka | 田中摩美美 |  |  |
 | kiriko yukoku | 幽谷雾子 | ![](https://img.moegirl.org.cn/common/9/99/DWn7gUwV4AAvbhf.png)<br>![](https://img.moegirl.org.cn/common/b/b9/Kiriko_intial.png)<br>所属作品：《`p:the idolmaster`》 | [萌娘百科](https://zh.moegirl.org.cn/幽谷雾子)<br>[Fandom](https://shinycolors.fandom.com/zh/wiki/幽谷霧子?variant=zh-hans) |
 | kogane tsukioka | 月冈恋钟 | 月冈恋钟（日语：月岡（つきおか） 恋鐘（こがね））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的天然方言偶像。<br>![](https://img.moegirl.org.cn/common/thumb/3/3b/Tsukiokakogane.png/630px-Tsukiokakogane.png) | [萌娘百科](https://zh.moegirl.org.cn/月冈恋钟) |
