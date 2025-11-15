@@ -7223,6 +7223,7 @@ example:
 | minerva | 密涅瓦 | ①<br>![](https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/c/c5/Minerva_Red_Dragoon_Face.webp/revision/latest?cb=20190920200123)<br>![](https://static.wikia.nocookie.net/feheroes_gamepedia_en/images/7/7d/Minerva_Red_Dragoon_BtlFace.webp/revision/latest?cb=20190920200129)<br>密涅瓦是《`p:fire emblem`》系列中玛凯德尼亚王国的公主，以龙骑士身份活跃于战场。她在原作剧情中因兄长背叛王室、妹妹被掳而肩负起救国重任，率领飞翼骑士团参与暗黑战争。<br>②<br>![](https://img.moegirl.org.cn/common/e/ef/弥涅耳瓦.png)<br>![](https://img.moegirl.org.cn/common/1/17/Minerva_anime.png)<br>密涅瓦是由长月达平所创作的轻小说《`re zero kara hajimeru isekai seikatsu`》及其衍生作品的登场角色。 | ①[密涅瓦(`p:fire emblem`)](https://fireemblem.fandom.com/zh/wiki/米奈娃)<br>②[密涅瓦(`re zero kara hajimeru isekai seikatsu`)](https://zh.moegirl.org.cn/密涅瓦%28Re:从零开始的异世界生活%29#) |
 | machina soleige | 玛姬娜·索雷斯 | ![](https://ehgt.org/w/02/063/07543-sb6kp1ui.webp)<br>所属作品：`maou 2099` |  |
 | matsukai mao | 魔使真央 | 所属社团：彩虹社 |  |
+| fumi | 文美 | 所属社团：彩虹社 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
