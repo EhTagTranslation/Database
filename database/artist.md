@@ -2062,7 +2062,7 @@ example:
 | momoyama jirou | 桃山ジロウ |  |  |
 | r5 | R5 |  |  |
 | c2 | C2 |  |  |
-| shitappa | したっぱ |  |  |
+| shitappa | したっぱ | 下っ端 |  |
 | kanbayashi takaki | 神林タカキ |  |  |
 | nyx | にゅくす |  |  |
 | akashia | アカシア |  | [pixiv](https://www.pixiv.net/users/7036773) |
