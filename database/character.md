@@ -7197,6 +7197,7 @@ example:
 | stan | 斯坦 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3030129000_01.png)<br>所属作品：`granblue fantasy` |  |
 | sen | 千 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/b4/Zoom_3040204000_01.png)<br>所属作品：`granblue fantasy` |  |
 | nemone | 涅莫涅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3c/Zoom_3040306000_01.png)<br>所属作品：`granblue fantasy` |  |
+| soriz | 索利茲 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3b/Zoom_3040170000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
