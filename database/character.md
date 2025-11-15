@@ -7212,6 +7212,7 @@ example:
 | harie | 哈利耶 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
 | canna | 康娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
 | diola | 迪奥拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
+| drang | 德朗克 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d0/Zoom_3040269000_81.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040119000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
