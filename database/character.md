@@ -3546,7 +3546,7 @@ example:
 | yaichi kuzuryuu | 九头龙八一 | 九头龙八一是由白鸟士郎创作、しらび负责插画的轻小说《`ryuuou no oshigoto`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/九头龙八一) (\*\*) |
 | ai yashajin | 夜叉神天衣 | 夜叉神天衣是由白鸟士郎创作、しらび负责插画的轻小说《`ryuuou no oshigoto`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夜叉神天衣) (\*\*) |
 | inuyama tamaki | 犬山玉姬 |  |  |
-| aliza | 阿莉莎 |  |  |
+| aliza | 阿莉莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/dc/Zoom_3040083000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/7d/Zoom_3040474000_01.png)<br>所属作品：`granblue fantasy` |  |
 | sarasa | 萨拉萨 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1a/Zoom_3040032000_81.png)<br>所属作品：`granblue fantasy` |  |
 | hallessena | 哈蕾泽娜 |  |  |
 | izmir | 伊休米尔 |  |  |
