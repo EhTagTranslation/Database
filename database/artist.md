@@ -14207,6 +14207,7 @@ example:
 | okae rinko | 岡江りん子 |  |  |
 | shigeking-max | 刺激ing-MAX |  |  |
 | noritako | のりたこ | のりたこ |  |
+| shirakage musashi | 白影武蔵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
