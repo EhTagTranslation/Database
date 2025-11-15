@@ -7122,6 +7122,7 @@ example:
 | seika houjouin | 凤条院圣华 | ![](https://ehgt.org/b6/4f/b64f876d64ebc9308de03fa17278d1e9a772cf66-7202220-1891-3000-png_250.jpg)<br>所属作品：`princess lover` |  |
 | ayaka kagari | 火火里绫火 | ![](https://ehgt.org/w/01/957/19872-bs1aznfp.webp)<br>所属作品：魔女的使命 |  |
 | debora briscoletti | 黛波拉 | ![](https://ehgt.org/w/02/007/86148-4073d4cf.webp)<br>所属作品：勇者斗恶龙5 |  |
+| maika kamimura | 神村舞华 | ![](https://ehgt.org/w/01/859/51151-67iuycc7.webp)<br>所属作品：`taimanin rpg` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
