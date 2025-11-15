@@ -3301,7 +3301,7 @@ example:
 | ray | 莱伊 | ![](https://patchwiki.biligame.com/images/arknights/e/ee/3apd8mqwuk4thj206005ze201j4hnaq.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/莱伊](https://prts.wiki/w/莱伊) |
 | gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | nat | 奈特 | 《约定的梦幻岛》主角孩子团中之一 |  |
-| anna | 安娜 | 《约定的梦幻岛》主角孩子团中之一 |  |
+| anna | 安娜 | ①<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/56/Zoom_3040402000_01.png)<br>所属作品：`granblue fantasy`<br>——————<br>②所属作品：约定的梦幻岛 |  |
 | thoma | 托马 | 1.托马（英语：thoma）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2b/原神渡来介者_托马.jpg)<br><br>2.《约定的梦幻岛》主角孩子团中之一 | [萌娘百科](https://zh.moegirl.org.cn/托马%28原神%29#) |
 | phil | 菲尔 | 《约定的梦幻岛》主角孩子团中之一 |  |
 | isabella | 伊莎贝拉 | 《约定的梦幻岛》主要角色，主角们的妈妈 |  |
