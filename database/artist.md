@@ -718,7 +718,7 @@ example:
 | sayryu | 性龙 |  |  |
 | tsukasawa | 塚泽 |  | [pixiv](https://www.pixiv.net/users/897293) |
 | yukiguni omaru | 雪國おまる |  |  |
-| asakura mitsuru | 朝仓满 |  |  |
+| asakura mitsuru | 朝仓满 | 朝倉満 |  |
 | hase tsubura | 长谷圆 |  |  |
 | herohero tom | へろへろTom |  |  |
 | hoshino ryuichi | 星野龙一 |  |  |
