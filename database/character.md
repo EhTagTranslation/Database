@@ -7150,6 +7150,7 @@ example:
 | fraux | 芙劳 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/9d/Zoom_3040161000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/8/8f/Zoom_3040161000_81.png)<br>所属作品：`granblue fantasy` |  |
 | lecia | 莉夏 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c2/Zoom_3040101000_01.png)<br>所属作品：`granblue fantasy` |  |
 | tien | 艾瑟尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/31/Zoom_3040039000_82.png)<br>所属作品：`granblue fantasy` |  |
+| mishra | 米歇拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c4/Zoom_3040317000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
