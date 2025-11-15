@@ -14204,6 +14204,7 @@ example:
 | nikel | ナイケル |  |  |
 | takasaki aneki | たかさき姉貴 |  |  |
 | pandanuki | パンダヌキ |  | [pixiv](https://www.pixiv.net/users/7843706) |
+| okae rinko | 岡江りん子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
