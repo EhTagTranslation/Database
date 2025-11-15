@@ -4072,7 +4072,7 @@ example:
 | shamir nevrand | 萨米亚·涅芙兰特 |  |  |
 | edelgard von hresvelg | 艾黛尔贾特·冯·弗雷斯贝尔古 | ![](https://pic.cangku.moe/images/2025/11/13/1uJe6.png)<br>所属作品：`fire emblem three houses` |  |
 | rhea | 蕾雅 |  |  |
-| byleth eisner | 贝雷丝·艾斯纳 | ![](https://ehgt.org/w/02/101/48907-6omx4dsi.webp) |  |
+| byleth eisner | 贝雷丝·艾斯纳 | ![](https://ehgt.org/w/02/101/48907-6omx4dsi.webp)<br>游戏《`fire emblem three houses`》及其衍生作品中的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28火焰之纹章_风花雪月%29)<br>[Fandom](https://fireemblem.fandom.com/wiki/Byleth) |
 | hoshino takanashi | 小鸟游星野 | 所属作品：`p:blue archive`<br>阿拜多斯高等学校的前副会长，现在是担任对策委员会的委员长的慵懒少女。拥有老人似的口癖特征，平日喜欢游手好闲。虽然因为偷懒会常常被委员会的伙伴说教，可一旦执行任务，就会为了守护伙伴而奋斗在最前线。<br>![](https://patchwiki.biligame.com/images/ba/f/f4/kwv08gawtndos2ftli5jn35j1htby4g.png)<br>![](https://patchwiki.biligame.com/images/ba/4/4f/a1vfkijzou4p9i1cgn8iyc56lp9yh6x.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hoshino) |
 | miyu kasumizawa | 霞泽美游 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的狙击手。<br>![](https://patchwiki.biligame.com/images/ba/d/d0/mrxabie2s384ijjwc2a4wkab2eccmg6.png)<br>![](https://img.moegirl.org.cn/common/thumb/a/a7/BA_Miyu_ML.png/1280px-BA_Miyu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/霞泽美游)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Miyu) |
 | midori saiba | 才羽绿 | 所属作品：`p:blue archive`<br>千年科学学校所属，游戏开发部的插画家。和双胞胎姊姊桃井一起在游戏开发部开发游戏。<br>![](https://patchwiki.biligame.com/images/ba/2/2d/emri5ceuyg91ib7xppdr8ijlpvg3rjv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Midori) |
