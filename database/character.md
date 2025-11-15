@@ -3998,7 +3998,7 @@ example:
 | becky blackbell | 贝琪·布莱克贝尔 | ![](https://img.moegirl.org.cn/common/thumb/d/d5/Becky_29.jpg/1024px-Becky_29.jpg) | [Bangumi](https://bgm.tv/character/87548) |
 | warfarin | 华法琳 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:华法琳) |
 | platinum | 白金 | ![](https://patchwiki.biligame.com/images/arknights/5/55/2p8ew5b093p13pcho9ar1wkeu88jozd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:白金) |
-| rise kujikawa | 久慈川理世 |  |  |
+| rise kujikawa | 久慈川理世 | ![](https://img.moegirl.org.cn/common/a/ab/P4A_Rise_Render.png)<br>久慈川理世（日语：くじかわ りせ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《`persona 4`》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/久慈川理世) |
 | yuu narukami | 鸣上悠 |  |  |
 | itaru hashida | 桥田至 | 东京电机大学一年级。凶真高中时代的友人，两人也在同一所大学上学。因为出色的编程和黑客技术，被冈伦称为「吾之右臂」（My favourite right arm）的未来道具研究所的主要战力之一。<br><br>典型肥宅，常常使用2ch用语，自称"变态绅士"，以不同的契机让天真的真由理说些不良语言。是个从2次元到3次元甚至到无机物都能萌上的家伙。最近萌的对象是在女仆咖啡厅『女仆皇后+喵 2』打工的菲利斯。<br><br>偶尔出现在句尾的"常考"是"请用常识去考虑"的意思。 | [萌娘百科](https://zh.moegirl.org.cn/桥田至) |
 | tenten | 天天 | ![](https://img.moegirl.org.cn/common/thumb/b/bb/天天.jpg/280px-天天.jpg)<br>《火影忍者》及其衍生作品的登场角色 |  |
