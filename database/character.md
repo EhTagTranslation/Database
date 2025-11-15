@@ -3364,7 +3364,7 @@ example:
 | hilichurl | 丘丘人 |  | [萌娘百科](https://zh.moegirl.org.cn/丘丘人) |
 | lumine | 荧 | ![](https://patchwiki.biligame.com/images/ys/c/ce/8apija26jos517mbsr41eq886745oh0.gif)<br>所属作品：`genshin impact`<br>可作为玩家的代入角色。故国覆灭，与哥哥空一起在无数的世界之间漂流的旅行者。 | [萌娘百科](https://zh.moegirl.org.cn/荧) |
 | hu tao | 胡桃 | ![](https://patchwiki.biligame.com/images/ys/8/8d/obx7i4qae8b52ano0vplwyukakwdw23.gif)<br>所属作品:`p:genshin impact`<br>「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。 | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
-| kallen stadtfeld | 卡莲·休坦菲尔特 | 《叛逆的鲁鲁修》女角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
+| kallen stadtfeld | 卡莲·休坦菲尔特 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/56/Zoom_3040221000_01.png)<br>所属作品：`code geass`<br>别名红月卡莲。 | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 | suzaku kururugi | 枢木朱雀 |  | [萌娘百科](https://zh.moegirl.org.cn/枢木朱雀) |
 | nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
 | kou | 蔻 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1f/Zoom_3040242000_81.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
