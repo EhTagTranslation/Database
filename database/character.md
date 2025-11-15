@@ -7189,6 +7189,7 @@ example:
 | rosamia | 萝莎米娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/ca/Zoom_3020018000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/4/4a/Zoom_3040087000_01.png)<br>所属作品：`granblue fantasy` |  |
 | yaia | 雅雅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/a1/Zoom_3030259000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lady grey | 灰夫人 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/9a/Zoom_3040005000_02.png)<br>所属作品：`granblue fantasy` |  |
+| sahli lao | 扎莉莉亚欧 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/38/Zoom_3030076000_81.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
