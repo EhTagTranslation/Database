@@ -6034,7 +6034,7 @@ example:
 | helia | 赫丽雅 | 崩坏三第二部女主角之一 |  |
 | genichiro ashina | 苇名弦一郎 |  |  |
 | kuro | 神子九郎 |  |  |
-| nobeta | 诺贝塔 |  |  |
+| nobeta | 诺贝塔 | ![](https://static.wikia.nocookie.net/little-witch-nobeta/images/8/8a/Nobeta.png/revision/latest?cb=20221228111809)<br>![](https://img.moegirl.org.cn/common/2/21/Little_Witch_Nobeta_Nobeta%27s_character_design_2.jpg)<br>所属作品：《`little witch nobeta`》 | [Fandom](https://little-witch-nobeta.fandom.com/wiki/Nobeta) |
 | rachel alucard | 雷其儿·阿尔卡特 | 所属作品: `p:blazblue` | [萌娘百科](https://zh.moegirl.org.cn/雷其儿·阿尔卡特) |
 | sakura ritsuki | 樱凛月 |  |  |
 | natsumi kyouno | 镜野七罪 | ![](https://pic.cangku.moe/images/2025/09/04/1125K.webp)<br>![](https://pic.cangku.moe/images/2025/09/04/11PqT.webp)<br>所属作品：`date a live`<br>性格消极自卑，身材娇小，尤其对自己的外貌不自信，所以使用精灵的能力将自己变为大姐姐形态，御姐的外表下隐藏着萝莉形态。 | [萌娘百科](https://zh.moegirl.org.cn/镜野七罪) |
