@@ -7185,6 +7185,7 @@ example:
 | lilele | 莉露露 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e1/Zoom_3040383000_01.png)<br>所属作品：`granblue fantasy` |  |
 | mimlemel | 米姆露梅莫璐 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/39/Zoom_3040292000_01.png)<br>所属作品：`granblue fantasy` |  |
 | zahlhamelina | 扎哈梅丽娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/66/Zoom_3040349000_01.png)<br>所属作品：`granblue fantasy` |  |
+| suframare | 斯夫拉马尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3030091000_02.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
