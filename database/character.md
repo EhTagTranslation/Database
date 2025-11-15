@@ -7130,6 +7130,7 @@ example:
 | yuzuki hanyuu | 羽生柚希 | ![](https://ehgt.org/w/01/934/79458-k4fha9k5.webp)<br>所属作品：`shuumatsu no harem` |  |
 | natsu ichijou | 一条奈都 | 所属作品：`shuumatsu no harem` |  |
 | shion hoshino | 星野汐音 | 所属作品：`shuumatsu no harem` |  |
+| nidhoggr | 尼德霍格 | ![](https://ehgt.org/w/01/879/93022-4wjv1yz5.webp)<br>所属作品：`fire emblem heroes` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
