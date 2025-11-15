@@ -7225,6 +7225,7 @@ example:
 | matsukai mao | 魔使真央 | 所属社团：彩虹社 |  |
 | fumi | 文美 | 所属社团：彩虹社<br>日文名：フミ |  |
 | elira pendora | Elira Pendora | ![](https://img.moegirl.org.cn/common/1/1e/Elira_Pendora.png)<br>所属社团：彩虹社 |  |
+| machita chima | 町田千麻 | ![](https://img.moegirl.org.cn/common/7/75/Machitachima_Full.jpg)<br>所属社团：彩虹社 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
