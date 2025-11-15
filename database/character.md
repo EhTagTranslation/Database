@@ -7194,6 +7194,7 @@ example:
 | naoise | 诺伊修 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/49/Zoom_3040281000_01.png)<br>所属作品：`granblue fantasy` |  |
 | almeida | 阿鲁梅达 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d5/Zoom_3030139000_01.png)<br>所属作品：`granblue fantasy` |  |
 | laguna | 拉格娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/47/Zoom_3030133000_01.png)<br>所属作品：`granblue fantasy` |  |
+| stan | 斯坦 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3030129000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
