@@ -7115,6 +7115,7 @@ example:
 | melia antiqua | 梅莉亚·安提古亚 | ![](https://tiebapic.baidu.com/forum/pic/item/ba8609381f30e9243d29ddfd09086e061f95f7f8.jpg?tbpicau=2025-11-26-05_db8284ed5e3361604ff4eac027a49bbb)<br>所属作品：`xenoblade` |  |
 | tsubaki miyajima | 宫岛椿 | ![](https://ehgt.org/w/01/976/42067-5jihl6qk.webp)<br>所属作品：`saimin seishidou` |  |
 | annerose vajra | 安妮洛兹·金刚 | ![](https://ehgt.org/w/02/008/25391-jat3r50f.webp)<br>所属作品：`koutetsu no majo annerose` |  |
+| kaoru shimizu | 清水熏 | ![](https://ehgt.org/w/02/005/46100-umeuv2yj.webp)<br>所属作品：`major` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
