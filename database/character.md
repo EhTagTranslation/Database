@@ -3548,7 +3548,7 @@ example:
 | inuyama tamaki | 犬山玉姬 |  |  |
 | aliza | 阿莉莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/dc/Zoom_3040083000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/7d/Zoom_3040474000_01.png)<br>所属作品：`granblue fantasy` |  |
 | sarasa | 萨拉萨 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1a/Zoom_3040032000_81.png)<br>所属作品：`granblue fantasy` |  |
-| hallessena | 哈蕾泽娜 |  |  |
+| hallessena | 哈蕾泽娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/0b/Zoom_3040240000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/7c/Zoom_3040540000_01.png)<br>所属作品：`granblue fantasy` |  |
 | izmir | 伊休米尔 |  |  |
 | razia | 拉丝缇娜 |  |  |
 | magisa | 玛姬莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3d/Zoom_3040412000_01.png)<br>所属作品：`granblue fantasy` |  |
