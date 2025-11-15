@@ -7163,6 +7163,7 @@ example:
 | bernadetta von varley | 贝尔娜提塔·冯·瓦立 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/a7/Bernadetta_Heroes.png)<br><br>贝尔娜提塔·冯·瓦立（日语：ベルナデッタ フォン ヴァーリ，英语：Bernadetta von Varley）<br>所属作品:《`fire emblem three houses`》<br><br>瓦立伯爵家的独生女，非常怕生。<br>对于离开了家的她来说，宿舍房间是唯一能够安心居住的地方。除了上课，其他时间都会把自己关在房间里，专心做自己感兴趣的事情。 | [萌娘百科](https://zh.moegirl.org.cn/贝尔娜提塔·冯·瓦立) |
 | ashe ubert | 亚修·多蓝 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c7/3H_Ashe_Artwork.png)<br>亚修·多蓝（日语：アッシュ デュラン，英语：Ashe Ubert）<br>所属作品:《`fire emblem three houses`》<br><br>王国盖斯巴尔城主罗纳特卿的养子。罗纳特卿把他视如己出，并送入士官学校就读，令他对这位养父充满感激之情。他为了成为像罗纳特卿那样的好人，为了成为一名骑士而努力精进自己。<br>过去因为贫困而当过小偷，为此想要靠做尽可能多的好事来抵消自己过去的罪。 | [萌娘百科](https://zh.moegirl.org.cn/亚修·多蓝) |
 | constance von nuvelle | 康丝坦洁·冯·努维尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/2/2b/3H_Constance_Artwork.png)<br>康丝坦洁·冯·努维尔（日语：コンスタンツェ フォン ヌーヴェル，英语：Constance von Nuvelle）<br>所属作品：《`fire emblem three houses`》<br><br>数年前因战争而没落的帝国贵族——努维尔家的大小姐。<br>尽管她身处在阿比斯，但她并没有放弃复兴努家族的梦想，她一直在寻找机会成就伟业，以此得到世人的认可。虽然她的言语很有礼貌，但却掩盖不了她盛气凌人的性格。<br>拿着一把扇子，但在建模中完全看不到。<br>魔法发明大师。 | [萌娘百科](https://zh.moegirl.org.cn/康丝坦洁·冯·努维尔)<br>[Fandom](https://fireemblem.fandom.com/wiki/Constance) |
+| dorothea arnault | 多洛缇雅·雅尔诺尔德 | ![](https://static.wikia.nocookie.net/fireemblem/images/f/ff/3H_Dorothea_Artwork.png)<br>多洛缇雅·雅尔诺尔德（日语：ドロテア アールノルト，英语：Dorothea Arnault）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/多洛缇雅·雅尔诺尔德)<br>[Fandom](https://fireemblem.fandom.com/wiki/Dorothea) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
