@@ -1780,7 +1780,7 @@ example:
 | djeeta | 姬塔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/06/Zoom_100580_1.png)<br>所属作品：`granblue fantasy`<br>玩家角色女性版。<br>男版为`gran` |  |
 | eugen | 欧根 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/17/Zoom_3040077000_01.png)<br>所属作品：`granblue fantasy`<br>老练的战士、曾经作为骑空士活跃著。 |  |
 | gran | 古兰 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e9/Zoom_100580_0.png)<br>所属作品：`granblue fantasy`<br>玩家角色男性版。<br>女版为`djeeta` |  |
-| io | 伊欧 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7e/Zoom_3040065000_01.png)<br>所属作品：`granblue fantasy` |  |
+| io | 伊欧·优克蕾丝 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7e/Zoom_3040065000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lyria | 露莉亚 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5f/Zoom_3030182000_01_01.png/450px-Zoom_3030182000_01_01.png)<br>所属作品：`granblue fantasy`<br>拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
 | katalina aryze | 卡塔莉娜·亚利洁 | 守护著露莉亚的女性骑士。艾尔斯提帝国军中是中尉的阶级，负责露莉亚的护卫与监视工作，得知帝国打算利用露莉亚来得到强大的力量后，为了帮助露莉亚逃脱而背叛帝国。露莉亚就像真正的妹妹一样重要。 | [维基百科](https://zh.wikipedia.org/wiki/碧藍幻想) |
 | narmaya | 娜尔梅亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/40/Zoom_3040249000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/da/Zoom_3040392000_01.png)<br>所属作品：`granblue fantasy` |  |
