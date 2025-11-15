@@ -7107,6 +7107,7 @@ example:
 | cure spicy | 香辣天使 | ![](https://ehgt.org/w/02/045/16326-hvmitaou.webp)<br>所属作品：`delicious party precure`<br>代表属性为面包。中文名芙羽心音，日语名芙羽 ここね，别名Cure Spicy（香辣天使） |  |
 | emilia leblanc | 伊米利亚·勒布朗 | ![](https://ehgt.org/w/01/632/74169-ctixu7a7.webp)<br>所属作品：`league of legends`<br>外号诡术妖姬 |  |
 | haruka niimi | 新见遥佳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/23/05/18/135962257_p0_master1200.jpg)<br>所属作品：`photo kano` |  |
+| tokiko fuuma | 风魔时子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
