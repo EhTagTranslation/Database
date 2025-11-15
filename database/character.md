@@ -7202,6 +7202,7 @@ example:
 | monika weisswind | 莫妮卡・拜斯温特 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3a/Zoom_3040238000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/bc/Zoom_3040454000_01.png)<br>所属作品：`granblue fantasy` |  |
 | jamil | 贾米尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/f/fd/Zoom_3040404000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/0/02/Zoom_3030134000_01.png)<br>所属作品：`granblue fantasy` |  |
 | feower | 卡托尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5a/Zoom_3040033000_82.png)<br>所属作品：`granblue fantasy` |  |
+| forte | 法尔提 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/b1/Zoom_3040086000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
