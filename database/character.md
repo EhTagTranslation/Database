@@ -7124,6 +7124,7 @@ example:
 | debora briscoletti | 黛波拉 | ![](https://ehgt.org/w/02/007/86148-4073d4cf.webp)<br>所属作品：勇者斗恶龙5 |  |
 | maika kamimura | 神村舞华 | ![](https://ehgt.org/w/01/859/51151-67iuycc7.webp)<br>所属作品：`taimanin rpg` |  |
 | salamandinay | 萨拉曼蒂妮 | ![](https://ehgt.org/w/01/965/75020-d0wdwubi.webp)<br>所属作品：`cross ange` |  |
+| akira toudou | 东堂晶 | ![](https://ehgt.org/w/01/639/80027-18hkv8q2.webp)<br>所属作品：`shuumatsu no harem` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
