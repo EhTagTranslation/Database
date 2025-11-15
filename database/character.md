@@ -881,7 +881,7 @@ example:
 | bowser | 库巴 |  |  |
 | wendy o. koopa | 温蒂库巴 |  |  |
 | super crown bowser | 库巴姬 |  |  |
-| princess peach | 碧奇公主 |  |  |
+| princess peach | 桃子公主 | ![](https://ehgt.org/w/02/025/44703-lr39kjx6.webp)<br>所属作品：`super mario brothers`<br>别译碧奇公主 |  |
 | princess daisy | 黛西公主 |  |  |
 | rosalina | 罗塞塔 |  |  |
 | pauline | 波琳 |  |  |
