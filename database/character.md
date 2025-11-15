@@ -2285,7 +2285,7 @@ example:
 | effie | 艾尔菲 |  |  |
 | flora | 芙洛拉 |  |  |
 | hinoka | 日乃香 |  |  |
-| tharja | 萨利娅 |  |  |
+| tharja | 萨利娅 | ![](https://ehgt.org/w/01/677/59139-p74hjfjl.webp)<br>所属作品：`fire emblem awakening` |  |
 | sakura | 樱花 | ![](https://pic.cangku.moe/images/2025/11/13/1uDSI.png)<br>所属作品：`goddess of victory nikke`<br>黑道女王部队的妮姬，也是保守派黑帮组织清明会的年轻领袖。 | [https://www.gamekee.com/nikke/tj/587419.html](https://www.gamekee.com/nikke/tj/587419.html) |
 | joker | 小丑 | 美国DC漫画旗下的著名反派角色。 | [萌娘百科](https://zh.moegirl.org.cn/小丑%28蝙蝠侠%29#) |
 | rinkah | 燐火 |  |  |
