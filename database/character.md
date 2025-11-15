@@ -7206,6 +7206,7 @@ example:
 | lunalu | 露娜露 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/ef/Zoom_3040172000_01.png)<br>所属作品：`granblue fantasy` |  |
 | arriet | 安丽特 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/16/Zoom_3040058000_01.png)<br>所属作品：`granblue fantasy` |  |
 | sig | 希格 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5d/Zoom_3030028000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/6/62/Zoom_3030106000_01.png)<br>所属作品：`granblue fantasy` |  |
+| vyrn | 碧 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/2/2f/Q3990630000_01.png/450px-Q3990630000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
