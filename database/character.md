@@ -2273,7 +2273,7 @@ example:
 | kaori minato | 凑花织 |  |  |
 | nayu hasegawa | 长谷川七夕 |  |  |
 |  | ▼ 火焰之纹章 |  |  |
-| kamui | 卡姆依 |  |  |
+| kamui | 卡姆依 | ![](https://ehgt.org/w/01/889/20531-momdc10a.webp)<br>所属作品 :`fire emblem fates` |  |
 | takumi | 拓海 |  |  |
 | charlotte | 夏洛特 \| 夏洛蒂 | 1. 所属作品:`p:seiken densetsu`<br><br>2. 所属作品:`p:puella magi madoka magica`<br><br>3. 夏洛蒂(charlotte)<br>所属作品:`p:genshin impact`<br>![](https://patchwiki.biligame.com/images/ys/7/7d/h1dvbabbpt35oo3ils94hv21nbwz4fc.png) | 3. [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
 | ryoma | 龙马 |  |  |
