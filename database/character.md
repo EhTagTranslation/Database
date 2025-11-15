@@ -6508,7 +6508,7 @@ example:
 | haruhime sanjouno | 春姬 |  |  |
 | sharon holygrail | 莎朗·霍莉格雷尔 | 表面上是标榜博爱主义的“星天教会”的修女，但实际上是世界最大驱魔集团的特工。星座是天秤座。<br>对一般人作为修女温柔地对待，但在执行驱魔任务时，有非常冷静和不择手段的一面。<br>为了某个目的单独潜入贝隆市。 | [百度百科](https://baike.baidu.com/item/莎朗·霍莉格雷尔/61901637) |
 | kisara | 木更 | 所属作品：`engage kiss`<br>![](https://ehgt.org/w/02/040/21701-8v3mtr9a.webp) |  |
-| anira | 阿妮拉 |  |  |
+| anira | 阿妮拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/bc/Zoom_3040479000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/71/Zoom_3040288000_01.png)<br>所属作品：`granblue fantasy` |  |
 | buena vista | 迷人景致 |  |  |
 | win variation | 凯旋芭蕾 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/4c/fjb7xy7krs86c7x8r71ro41k2vfawsm.png/600px-Jsf_111701.png)<br>所属作品：`uma musume pretty derby` |  |
 | yume irido | 伊理户结女 |  |  |
