@@ -7170,6 +7170,7 @@ example:
 | petra macneary | 佩托拉·马克聂阿利 | ![](https://static.wikia.nocookie.net/nintendo/images/3/35/PetraHeroes.png/revision/latest?path-prefix=en)<br><br>佩托拉·马克聂阿利（日语：ペトラ マクネアリー，英语：Petra Macneary）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/佩托拉·马克聂阿利)<br>[Fandom](https://nintendo.fandom.com/wiki/Petra_Macneary) |
 | cornelia arnim | 科尔娜莉亚·阿尔尼姆 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6e/Cornelia_Heroes.png/revision/latest?cb=20230417050421)<br>科尔娜莉亚·阿尔尼姆（日语：コルネリア アルニム，英语：Cornelia Arnim）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/科尔娜莉亚·阿尔尼姆)<br>[Fandom](https://fireemblem.fandom.com/wiki/Cornelia) |
 | hapi | 哈琵 | ![](https://static.wikia.nocookie.net/fireemblem/images/f/f6/3H_Hapi_Artwork.png/revision/latest?cb=20200119011145)<br>所属作品：《`fire emblem three houses`》<br><br>忧郁的少女，来自某个隐世村庄。叹气能够召唤魔兽。<br>灰狼学级的一员。讨厌与人争斗，也与人接触。微度厌世，不相信教团和那些所谓的“正义”。<br>使用第三人称己称“哈琵”。<br>因为经常和魔兽接触的缘故，莫名的和兽的相性很好。<br>会给所有伙伴起昵称。 | [萌娘百科](https://zh.moegirl.org.cn/哈琵)<br>[Fandom](https://fireemblem.fandom.com/wiki/Hapi) |
+| manuela casagranda | 玛努艾拉·卡扎古蓝达 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/47/Manuela_Portrait.png/revision/latest?cb=20210507010832)<br>玛努艾拉·卡扎古蓝达（日语：マヌエラ カザグランダ，英语：Manuela Casagranda）<br>所属作品：《`fire emblem three houses`》<br><br>曾经是帝都的米提尔法兰克歌剧团顶级歌姬，现在担任士官学校的老师并兼职医生。<br>她一直在寻找自己“命中注定”的男性伴侣，却始终找不到。性格有些粗枝大叶，不过很擅长照顾别人。对主人公也相当亲切友好。 | [萌娘百科](https://zh.moegirl.org.cn/玛努艾拉·卡扎古蓝达) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
