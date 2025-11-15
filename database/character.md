@@ -3723,7 +3723,7 @@ example:
 | eren jaeger | 艾伦·耶格尔 |  |  |
 | mikasa ackerman | 三笠·阿克曼 | 三笠·阿克曼是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色，女主角。<br>![](https://img.moegirl.org.cn/common/3/3c/140805978669305.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三笠·阿克曼) |
 | armin arlert | 阿明·阿诺德 |  |  |
-| clarisse | 克拉莉丝 |  |  |
+| clarisse | 克拉莉丝 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/25/Zoom_3040046000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5e/Zoom_3040121000_01.png)<br>所属作品：`granblue fantasy` |  |
 | hilda boreas greyrat | 希尔达·伯雷亚斯·格雷拉特 |  |  |
 | zenith greyrat | 塞妮丝·格雷拉特 |  |  |
 | lilia greyrat | 莉莉雅·格雷拉特 |  |  |
