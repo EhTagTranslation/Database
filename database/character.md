@@ -7132,6 +7132,7 @@ example:
 | shion hoshino | 星野汐音 | 所属作品：`shuumatsu no harem` |  |
 | nidhoggr | 尼德霍格 | ![](https://ehgt.org/w/01/879/93022-4wjv1yz5.webp)<br>所属作品：`fire emblem heroes` |  |
 | nate argente loup mitotsudaira | 奈特·弥托黛拉 | ![](https://ehgt.org/w/02/085/61060-ctxppz2c.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
+| utahime iori | 庵歌姬 | ![](https://ehgt.org/w/01/907/06450-828sstqp.webp)<br>所属作品：`jujutsu kaisen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
