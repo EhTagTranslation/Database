@@ -7176,6 +7176,7 @@ example:
 | dimitri alexandre blaiddyd | 帝弥托利·亚历山大·布雷达德 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/18/Artwork_Dimitri.png/revision/latest?cb=20201220085839)<br><br>帝弥托利·亚历山大·布雷达德（日语：ディミトリ アレクサンドル ブレーダッド，英语：Dimitri Alexandre Blaiddyd）<br>所属作品：《`fire emblem three houses`》<br><br>崇高的骑士之国——法嘉斯神圣王国的下任国王，青狮子学级的级长。他是一位充分体现出骑士道精神的诚实青年，但有时在开朗的外表下也会露出一丝阴霾。 | [萌娘百科](https://zh.moegirl.org.cn/帝弥托利·亚历山大·布雷达德)<br>[Fandom](https://fireemblem.fandom.com/wiki/Dimitri) |
 | claude von riegan | 库罗德·冯·里刚 | ![](https://cdn.fireemblemwiki.org/2/26/FETH_Claude_02.png)<br><br>库罗德·冯·里刚（日语：クロード フォン リーガン，英语：Claude von Riegan）<br>所属作品：《`fire emblem three houses`》<br><br>雷斯塔诸侯同盟盟主之孙、爵位继承人，是该代唯一拥有纹章的人，被寄以兴复里刚家的重任。 | [萌娘百科](https://zh.moegirl.org.cn/库罗德·冯·里刚)<br>[https://fireemblemwiki.org/wiki/Claude](https://fireemblemwiki.org/wiki/Claude) |
 | milleore | 米拉奥尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e1/Zoom_3030064000_81.png)<br>所属作品：`granblue fantasy` |  |
+| rasis | 蕾西丝 | ![](https://static.wikia.nocookie.net/sound-voltex/images/b/be/Rasis_VI%27s_Artwork.jpg/revision/latest?cb=20210228161856)<br>![](https://static.wikia.nocookie.net/sound-voltex/images/4/40/032.jpg/revision/latest?cb=20211201062737)<br>由KONAMI旗下的游戏《`sound voltex`》及其衍生作品的登场角色。<br>差不多是整个游戏的看板娘担当。有各种各样的PUR形象。 | [萌娘百科](https://zh.moegirl.org.cn/蕾西丝)<br>[Fandom](https://soundvoltex.fandom.com/wiki/Rasis) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
