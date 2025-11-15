@@ -7129,6 +7129,7 @@ example:
 | chloe mansfield | 克劳尔·曼斯菲尔德 | ![](https://ehgt.org/w/01/944/86660-dzb8s82a.webp)<br>所属作品：`shuumatsu no harem` |  |
 | yuzuki hanyuu | 羽生柚希 | ![](https://ehgt.org/w/01/934/79458-k4fha9k5.webp)<br>所属作品：`shuumatsu no harem` |  |
 | natsu ichijou | 一条奈都 | 所属作品：`shuumatsu no harem` |  |
+| shion hoshino | 星野汐音 | 所属作品：`shuumatsu no harem` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
