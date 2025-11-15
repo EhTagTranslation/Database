@@ -1873,7 +1873,7 @@ example:
 | gudako | 咕哒子 |  |  |
 | kiyohime | 清姬 | ![图](https://ehgt.org/13/45/1345b2b677182094579b1c9197496df78d2b2b08-2068714-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/清姬%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/清姬) |
 | alexander | 亚历山大 |  |  |
-| scathach | 斯卡哈 | ![图](https://ehgt.org/a1/8a/a18acec1e5271320470876ee405ccdf88020c2e3-2062704-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/斯卡哈%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯卡哈) |
+| scathach | 斯卡哈（FGO） | ![图](https://ehgt.org/a1/8a/a18acec1e5271320470876ee405ccdf88020c2e3-2062704-1024-1448-png_l.jpg)<br>所属作品：`fate grand order` | [萌娘百科](https://zh.moegirl.org.cn/斯卡哈%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/斯卡哈) |
 | asterios | 阿斯忒里俄斯 |  |  |
 | orion | 俄里翁 |  |  |
 | artemis | 阿耳忒弥斯 |  |  |
