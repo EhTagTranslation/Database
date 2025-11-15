@@ -2734,7 +2734,7 @@ example:
 | mayu | 美格 |  |  |
 | rin | 凛 | 游戏王系列的第5部作品《游戏王ARC-V》的女主角。<br>「同调次元」所属。游吾的青梅竹马，其相貌与柊柚子、塞瑞娜、黑咲琉璃相似。与游吾本来生活在「同调次元」的城市「市」，之后被游里掳走，游吾为了拯救她，踏上了穿越次元的旅行。 |  |
 | farrah | 法拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/16/Zoom_3030103000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/70/Zoom_3030248000_01.png)<br>所属作品：`granblue fantasy` |  |
-| zooey | 佐伊 |  |  |
+| zooey | 佐伊 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040564000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/cf/Zoom_3030233000_01.png)<br>所属作品：`granblue fantasy` |  |
 | natsu dragneel | 纳兹·多拉格尼尔 |  |  |
 | kirara | 绮良良 | ![](https://patchwiki.biligame.com/images/ys/4/43/034jk985b8blbsnke010ptg690qbi8b.gif)<br>所属作品:`p:genshin impact`<br>稻妻快递公司「狛荷屋」的送货员，一只热爱自己工作、向往人类社会的「猫又」。 | 1.[萌娘百科](https://zh.moegirl.org.cn/绮良良) |
 | tamaki kousaka | 向坂环 |  |  |
