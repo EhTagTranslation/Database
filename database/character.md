@@ -7181,6 +7181,7 @@ example:
 | camieux | 库姆尤 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3020047000_02.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/f/f8/Zoom_3030152000_01.png)<br>所属作品：`granblue fantasy` |  |
 | feena | 菲娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7a/Zoom_3040573000_01.png)<br>所属作品：`granblue fantasy` |  |
 | philosophia | 菲拉索皮拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/11/Zoom_3030270000_01.png)<br>所属作品：`granblue fantasy` |  |
+| sarya | 萨娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/cd/Zoom_3030063000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
