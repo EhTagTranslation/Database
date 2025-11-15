@@ -7199,6 +7199,7 @@ example:
 | nemone | 涅莫涅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3c/Zoom_3040306000_01.png)<br>所属作品：`granblue fantasy` |  |
 | soriz | 索利茲 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3b/Zoom_3040170000_01.png)<br>所属作品：`granblue fantasy` |  |
 | tweyen | 索恩 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/b2/Zoom_3040031000_82.png)<br>所属作品：`granblue fantasy` |  |
+| monika weisswind | 莫妮卡・拜斯温特 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3a/Zoom_3040238000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/bc/Zoom_3040454000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
