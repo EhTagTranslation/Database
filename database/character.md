@@ -7136,6 +7136,7 @@ example:
 | pieck finger | 皮克·芬格尔 | ![](https://ehgt.org/w/01/897/46094-egy9wqrb.webp)<br>所属作品：`shingeki no kyojin` |  |
 | zetton | 芝顿 |  |  |
 | andromeda | 安德洛墨达 | 所属作品：`fate grand order` |  |
+| fediel | 菲迪埃尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/f/f5/Zoom_3040472000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/71/Zoom_3040376000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
