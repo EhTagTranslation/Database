@@ -2591,6 +2591,7 @@ example:
 | youkoso sukebe elf no mori e | 欢迎来到浪荡精灵之森 | ![](https://ehgt.org/w/00/884/65643-3qo4it33.webp)<br>![](https://ehgt.org/w/00/887/28961-ee9kk5y8.webp) |  |
 | doukyuusei 2 | 同级生2 | ![](https://ehgt.org/w/01/530/61528-bzmk3cvj.webp) |  |
 | suicide squad | 自杀小队 |  |  |
+| hercules | 大力士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
