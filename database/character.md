@@ -7114,6 +7114,7 @@ example:
 | ha yuri zahard | 赫·宥莉·吉黑德 | ![](https://ehgt.org/w/01/951/90719-681c4re9.webp)<br>所属作品：`tower of god`<br>作为吉黑德公主之一，她出身赫家族，持有十三月系列武器。性格直率火爆，厌恶繁文缛节，对主角夜及其伙伴保持高度关注。 |  |
 | melia antiqua | 梅莉亚·安提古亚 | ![](https://tiebapic.baidu.com/forum/pic/item/ba8609381f30e9243d29ddfd09086e061f95f7f8.jpg?tbpicau=2025-11-26-05_db8284ed5e3361604ff4eac027a49bbb)<br>所属作品：`xenoblade` |  |
 | tsubaki miyajima | 宫岛椿 | ![](https://ehgt.org/w/01/976/42067-5jihl6qk.webp)<br>所属作品：`saimin seishidou` |  |
+| annerose vajra | 安妮洛兹·金刚 | ![](https://ehgt.org/w/02/008/25391-jat3r50f.webp)<br>所属作品：`koutetsu no majo annerose` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
