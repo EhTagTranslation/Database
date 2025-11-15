@@ -4069,7 +4069,7 @@ example:
 | kayoko onikata | 鬼方佳代子 | 所属作品：`blue archive`。格黑娜学园所属，便利屋68的主管。![](https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/鬼方佳世子) [Fandom](https://bluearchive.fandom.com/wiki/Onikata_Kayoko)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kayoko) |
 | aoi tosaka | 远坂葵 |  |  |
 | sothis | 苏谛斯 |  |  |
-| shamir nevrand | 萨米亚·涅芙兰特 |  |  |
+| shamir nevrand | 萨米亚·涅芙兰特 | ![](https://static.wikia.nocookie.net/fireemblem/images/8/81/Shamir_Heroes.png/revision/latest?cb=20250929011719)<br>萨米亚·聂芙兰特（日语：シャミア ネーヴラント，英语：Shamir Nevrand）<br>所属作品：《`fire emblem three houses`》<br><br>赛罗司骑士团的弓箭高手。鞑古扎人。曾是一名雇佣兵，为了回报蕾雅过去对她的恩惠，成为了赛罗司骑士团的骑士。 | [萌娘百科](https://zh.moegirl.org.cn/萨米亚·聂芙兰特)<br>[Fandom](https://fireemblem.fandom.com/wiki/Shamir) |
 | edelgard von hresvelg | 艾黛尔贾特·冯·弗雷斯贝尔古 | ![](https://pic.cangku.moe/images/2025/11/13/1uJe6.png)<br>所属作品：`fire emblem three houses` |  |
 | rhea | 蕾雅 |  |  |
 | byleth eisner | 贝雷丝·艾斯纳 | ![](https://ehgt.org/w/02/101/48907-6omx4dsi.webp)<br>游戏《`fire emblem three houses`》及其衍生作品中的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28火焰之纹章_风花雪月%29)<br>[Fandom](https://fireemblem.fandom.com/wiki/Byleth) |
