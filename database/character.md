@@ -7156,6 +7156,7 @@ example:
 | melleau | 梅路 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d5/Zoom_3040022000_81.png)<br>所属作品：`granblue fantasy` |  |
 | teena | 缇娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5c/Zoom_3030236000_01.png)<br>所属作品：`granblue fantasy` |  |
 | carmelina | 卡露梅莉娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e8/Zoom_3040042000_01.png)<br>所属作品：`granblue fantasy` |  |
+| pengy | 企小鹅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4d/Zoom_3040282000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
