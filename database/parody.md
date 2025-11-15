@@ -318,7 +318,7 @@ example:
 |  | ▼火焰之纹章 系列 |  |  |
 | fire emblem fates | 火焰之纹章 if | 日版名：ファイアーエムブレムif，英文版名：Fire Emblem Fates | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章if) |
 | fire emblem | 火焰之纹章 |  |  |
-| fire emblem awakening | 火焰之纹章 觉醒 |  |  |
+| fire emblem awakening | 火焰之纹章 觉醒 | ![](https://upload.wikimedia.org/wikipedia/zh/7/76/Fire_Emblem_Kakusei_Japanese_box_art.jpg)<br>《火焰之纹章 觉醒》（日语：ファイアーエムブレム 覚醒，英语：Fire Emblem Awakening）是一款由Intelligent Systems制作、任天堂发行的战略角色扮演游戏。《觉醒》是火焰之纹章系列的第13款作品，也是该系列首部适用于任天堂3DS的游戏。 | [https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Fire-Emblem-Awakening-725039.html](https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Fire-Emblem-Awakening-725039.html)<br>[维基百科](https://zh.wikipedia.org/wiki/火焰之纹章_觉醒) |
 | fire emblem gaiden | 火焰之纹章外传 |  |  |
 | fire emblem genealogy of the holy war | 火焰之纹章 圣战之系谱 |  | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章_圣战之系谱) |
 | fire emblem thracia 776 | 火焰之纹章 多拉基亚776 |  |  |
