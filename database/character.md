@@ -7187,6 +7187,7 @@ example:
 | zahlhamelina | 扎哈梅丽娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/66/Zoom_3040349000_01.png)<br>所属作品：`granblue fantasy` |  |
 | suframare | 斯夫拉马尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3030091000_02.png)<br>所属作品：`granblue fantasy` |  |
 | rosamia | 萝莎米娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/ca/Zoom_3020018000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/4/4a/Zoom_3040087000_01.png)<br>所属作品：`granblue fantasy` |  |
+| yaia | 雅雅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/a1/Zoom_3030259000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
