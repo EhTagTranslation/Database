@@ -7191,6 +7191,7 @@ example:
 | lady grey | 灰夫人 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/9a/Zoom_3040005000_02.png)<br>所属作品：`granblue fantasy` |  |
 | sahli lao | 扎莉莉亚欧 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/38/Zoom_3030076000_81.png)<br>所属作品：`granblue fantasy` |  |
 | apollonia | 阿波罗尼亚·瓦尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/2e/Zoom_3040082000_02.png)<br>所属作品：`granblue fantasy`<br>别称黑骑士 |  |
+| naoise | 诺伊修 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/49/Zoom_3040281000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
