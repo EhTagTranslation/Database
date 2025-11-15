@@ -7193,6 +7193,7 @@ example:
 | apollonia | 阿波罗尼亚·瓦尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/2e/Zoom_3040082000_02.png)<br>所属作品：`granblue fantasy`<br>别称黑骑士 |  |
 | naoise | 诺伊修 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/49/Zoom_3040281000_01.png)<br>所属作品：`granblue fantasy` |  |
 | almeida | 阿鲁梅达 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d5/Zoom_3030139000_01.png)<br>所属作品：`granblue fantasy` |  |
+| laguna | 拉格娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/47/Zoom_3030133000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
