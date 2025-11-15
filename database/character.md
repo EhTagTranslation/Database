@@ -1778,7 +1778,7 @@ example:
 |  | ▼ 碧蓝幻想 |  |  |
 | danua | 达奴娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/6a/Zoom_3030017000_01.png)<br>所属作品：`granblue fantasy` |  |
 | djeeta | 姬塔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/06/Zoom_100580_1.png)<br>所属作品：`granblue fantasy`<br>玩家角色女性版。<br>男版为`gran` |  |
-| eugen | 欧根 | 老练的战士、曾经作为骑空士活跃著。在过去怀有遗憾，这件事没有向格兰透露。平时是个性格不错的人，熟练的技术与丰富的知识帮助了格兰。 |  |
+| eugen | 欧根 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/17/Zoom_3040077000_01.png)<br>所属作品：`granblue fantasy`<br>老练的战士、曾经作为骑空士活跃著。 |  |
 | gran | 古兰 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e9/Zoom_100580_0.png)<br>所属作品：`granblue fantasy`<br>玩家角色男性版。<br>女版为`djeeta` |  |
 | io | 伊欧 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7e/Zoom_3040065000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lyria | 露莉亚 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5f/Zoom_3030182000_01_01.png/450px-Zoom_3030182000_01_01.png)<br>所属作品：`granblue fantasy`<br>拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
