@@ -7159,7 +7159,7 @@ example:
 | pengy | 企小鹅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4d/Zoom_3040282000_01.png)<br>所属作品：`granblue fantasy` |  |
 | leonie pinelli | 雷欧妮·皮聂利 | ![](https://img.moegirl.org.cn/common/1/1f/雷欧妮-五年前.PNG)<br>![](https://img.moegirl.org.cn/common/c/c0/雷欧妮-五年后.png)<br><br>雷欧妮·皮聂利（日语：レオニー ピネッリ，英语：Leonie Pinelli）是游戏《`fire emblem three houses`》及其衍生作品的登场角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/雷欧妮·皮聂利)<br>[Fandom](https://fireemblem.fandom.com/wiki/Leonie) |
 | annette fantine dominic | 雅妮特·方提努·多米尼克 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/30/Annette_Heroes.png)<br><br>雅妮特·方提努·多米尼克（日语：アネット ファンティーヌ ドミニク，英语：Annette Fantine Dominic）是游戏《`fire emblem three houses`》及其衍生作品的登场角色之一。<br><br>王国骑士古斯塔夫之女，多米尼克男爵的侄女。<br>个性开朗活泼，勤奋努力，但也有些笨手笨脚，经常因为努力过头而适得其反，白忙一场。<br>和梅尔赛德司自魔道学校时期便是好友。 | [萌娘百科](https://zh.moegirl.org.cn/雅妮特·方提努·多米尼克)<br>[Fandom](https://fireemblem.fandom.com/wiki/Annette) |
-| mercedes von martritz | 梅尔赛德司·冯·马尔特利兹 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/1e/Mercedes_Heroes.png)<br>梅尔赛德司·冯·马尔特利兹（日语：メルセデス フォン マルトリッツ，英语：Mercedes von Martritz）是游戏《`fire emblem three houses`》及其衍生作品的登场角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/梅尔赛德司·冯·马尔特利兹)<br>[Fandom](https://fireemblem.fandom.com/wiki/Mercedes) |
+| mercedes von martritz | 梅尔赛德司·冯·马尔特利兹 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/1e/Mercedes_Heroes.png)<br>所属作品:《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/梅尔赛德司·冯·马尔特利兹)<br>[Fandom](https://fireemblem.fandom.com/wiki/Mercedes) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
