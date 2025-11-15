@@ -1783,7 +1783,7 @@ example:
 | io | 伊欧 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7e/Zoom_3040065000_01.png)<br>所属作品：`granblue fantasy` |  |
 | lyria | 露莉亚 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/5/5f/Zoom_3030182000_01_01.png/450px-Zoom_3030182000_01_01.png)<br>所属作品：`granblue fantasy`<br>拥有使役星晶兽能力的少女。因艾尔斯提帝国为了研究这份特殊能力而被囚禁起来。从帝国逃出后被格兰搭救，决定一起旅行。 |  |
 | katalina aryze | 卡塔莉娜·亚利洁 | 守护著露莉亚的女性骑士。艾尔斯提帝国军中是中尉的阶级，负责露莉亚的护卫与监视工作，得知帝国打算利用露莉亚来得到强大的力量后，为了帮助露莉亚逃脱而背叛帝国。露莉亚就像真正的妹妹一样重要。 | [维基百科](https://zh.wikipedia.org/wiki/碧藍幻想) |
-| narmaya | 娜尔梅亚 |  |  |
+| narmaya | 娜尔梅亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/40/Zoom_3040249000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/da/Zoom_3040392000_01.png)<br>所属作品：`granblue fantasy` |  |
 | rosetta | 萝赛塔 | ![](https://patchwiki.biligame.com/images/zspms/thumb/3/36/2qwkz0wcq3xjajlpfqxhxhwjqsl3kms.png/375px-角色_罗塞塔_凛冽_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | sturm | 斯特姆 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/48/Zoom_3040115000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/54/Zoom_3040415000_01.png)<br>所属作品：`granblue fantasy` |  |
 | vira | 维拉 |  |  |
