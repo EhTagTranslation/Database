@@ -4419,7 +4419,7 @@ example:
 | sensei | 老师 | 老师，是游戏《蔚蓝档案》及其衍生作品中的主角，亦是由玩家扮演的角色。男性，就职于隶属学院都市基沃托斯的“联邦学生会”的特殊权利机构“沙勒”。<br>![](https://img.moegirl.org.cn/common/3/34/BA_Pic_Sensei_TV_Anime.jpg)<br>![](https://img.moegirl.org.cn/common/6/6f/BA_Pic_Sensei.png) | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
 | azuma seren | 东雪莲 |  |  |
 | yaoyao | 瑶瑶 | ![](https://patchwiki.biligame.com/images/ys/2/2e/4qn6v9fecs4oc1o2y7n9fe9ndcflxmk.gif)<br>所属作品:`p:genshin impact`<br>歌尘浪市真君膝下最年幼的弟子，温柔体贴的「小大人」。 | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
-| monika | 莫妮卡 | 所属作品: `p:doki doki literature club`<br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ef/Monika_Illustration.png)<br>**唯一**女主角 | [莫妮卡(碧蓝幻想)](https://gbf.wiki/Monika)<br>[莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
+| monika | 莫妮卡 | 所属作品: `p:doki doki literature club`<br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ef/Monika_Illustration.png)<br>**唯一**女主角 | [莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
 | tania | 塔妮雅 |  |  |
 | barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
 | ameth | 爱梅斯 |  |  |
