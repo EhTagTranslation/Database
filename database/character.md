@@ -7108,6 +7108,7 @@ example:
 | emilia leblanc | 伊米利亚·勒布朗 | ![](https://ehgt.org/w/01/632/74169-ctixu7a7.webp)<br>所属作品：`league of legends`<br>外号诡术妖姬 |  |
 | haruka niimi | 新见遥佳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/23/05/18/135962257_p0_master1200.jpg)<br>所属作品：`photo kano` |  |
 | tokiko fuuma | 风魔时子 |  |  |
+| kurenai shinganji | 心愿寺红 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
