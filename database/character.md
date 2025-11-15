@@ -7167,7 +7167,7 @@ example:
 | hilda valentine goneril | 希尔妲·凡伦汀·哥纳利尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/8/8c/3H_Hilda_Artwork.png)<br><br>希尔妲·凡伦汀·哥纳利尔（日语：ヒルダ ヴァレンティン ゴネリル，英语：Hilda Valentine Goneril）<br>所属作品：《`fire emblem three houses`》<br><br>同盟哥纳利尔公爵家的长女，从小就生活在父亲和哥哥的溺爱之下。<br>习惯于偷懒耍滑，喜欢向他人撒娇。心直口快，想到什么就说什么，是典型的贵族小姐。最喜欢华丽的东西。 | [萌娘百科](https://zh.moegirl.org.cn/希尔妲·凡伦汀·哥纳利尔)<br>[Fandom](https://fireemblem.fandom.com/wiki/Hilda_%28Three_Houses%29) |
 | ingrid brandl galatea | 英谷莉特·布兰多尔·贾拉提雅 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/97/3H_Ingrid_Artwork.png)<br>英谷莉特·布兰多尔·贾拉提雅（日语：イングリット ブランドル ガラテア，英语：Ingrid Brandl Galatea）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/英谷莉特·布兰多尔·贾拉提雅)<br>[Fandom](https://fireemblem.fandom.com/wiki/Ingrid) |
 | monica von ochs | 莫妮卡·冯·奥克斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0c/Monica_Heroes.png)<br><br>莫妮卡·冯·奥克斯（日语：モニカ フォン オックス，英语：Monica von Ochs）<br>所属作品：《`p:fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/科萝妮艾)<br>[Fandom](https://fireemblem.fandom.com/wiki/Monica_%28Three_Houses%29) |
-| petra macneary | 佩托拉·马克聂阿利 | ![](https://static.wikia.nocookie.net/nintendo/images/3/35/PetraHeroes.png/revision/latest?path-prefix=en)<br><br>佩托拉·马克聂阿利（日语：ペトラ マクネアリー，英语：Petra Macneary）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/佩托拉·马克聂阿利) |
+| petra macneary | 佩托拉·马克聂阿利 | ![](https://static.wikia.nocookie.net/nintendo/images/3/35/PetraHeroes.png/revision/latest?path-prefix=en)<br><br>佩托拉·马克聂阿利（日语：ペトラ マクネアリー，英语：Petra Macneary）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/佩托拉·马克聂阿利)<br>[Fandom](https://nintendo.fandom.com/wiki/Petra_Macneary) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
