@@ -7208,7 +7208,7 @@ example:
 | sig | 希格 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5d/Zoom_3030028000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/6/62/Zoom_3030106000_01.png)<br>所属作品：`granblue fantasy` |  |
 | vyrn | 碧 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/2/2f/Q3990630000_01.png/450px-Q3990630000_01.png)<br>所属作品：`granblue fantasy` |  |
 | diantha | 戴安萨 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e2/Zoom_3030150000_01.png)<br>所属作品：`granblue fantasy` |  |
-| linaria | 莉娜莉亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
+| linaria | 莉娜莉亚 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/a4/B_2030069000.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
 | harie | 哈利耶 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
 | canna | 康娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
 | diola | 迪奥拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040296000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5f/Zoom_3040129000_01.png)<br>所属作品：`granblue fantasy`<br>五花的巫女的一员。 |  |
