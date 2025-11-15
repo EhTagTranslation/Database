@@ -7126,6 +7126,7 @@ example:
 | salamandinay | 萨拉曼蒂妮 | ![](https://ehgt.org/w/01/965/75020-d0wdwubi.webp)<br>所属作品：`cross ange` |  |
 | akira toudou | 东堂晶 | ![](https://ehgt.org/w/01/639/80027-18hkv8q2.webp)<br>所属作品：`shuumatsu no harem` |  |
 | mira suou | 周防美来 | ![](https://ehgt.org/w/02/004/88362-q7pfrlzf.webp)<br>所属作品：`shuumatsu no harem` |  |
+| chloe mansfield | 克劳尔·曼斯菲尔德 | ![](https://ehgt.org/w/01/944/86660-dzb8s82a.webp)<br>所属作品：`shuumatsu no harem` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
