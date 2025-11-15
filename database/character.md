@@ -6313,7 +6313,7 @@ example:
 | angelina kudou shields | 安洁莉娜·库都·希尔兹 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/11/07/55/31/129178446_p3_master1200.jpg)<br><br>所属作品: `p:mahouka koukou no rettousei`<br>和北山雫交换留学来到魔法科高中的USNA（北美利坚大陆合众国）高中生，拥有不世出的魔法技术的金发碧眼美少女。但其真实身份是世界顶级的魔法师部队【STARS】中的总队长，代号“天狼星”。 | [萌娘百科](https://zh.moegirl.org.cn/安洁莉娜·库都·希尔兹) |
 | iyo | 壹与 |  |  |
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
-| igarashi rika | 五十岚梨花 |  |  |
+| igarashi rika | 五十岚梨花 | 所属社团：彩虹社 |  |
 | todo kohaku | 东堂琥珀 |  |  |
 | trigger | 扳机 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/03/20/82500917/304ef76355275fecfcac4fc3f6d264a3_2227158392948245307.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/扳机) |
 | astgenne | 星源 | ![](https://patchwiki.biligame.com/images/arknights/5/51/bxclnupscmprxqc165621gnnzwhybyo.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/星源) |
