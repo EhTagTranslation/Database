@@ -1911,7 +1911,7 @@ example:
 | dracula | 德古拉 |  |  |
 | francis drake | 弗朗西斯·德雷克 | ![图](https://ehgt.org/54/d4/54d440c4c4654fcddc383d99dd5a8cb1f1ced197-2189757-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/弗朗西斯·德雷克%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/弗朗西斯·德雷克) |
 | elizabeth bathory | 伊丽莎白·巴托里 | ![图](https://ehgt.org/b8/de/b8deaa8e4e6262c939d303c78dcede2a4f2037f4-2438614-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/伊丽莎白·巴托里%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/伊丽莎白·巴托里) |
-| hakuno kishinami | 岸波白野 | 别号：扎比(Francis Xavier)、奏者、小猪仔/小松鼠、岸浪ハクノ<br>![图](https://ehgt.org/92/1e/921e23d3f5c2414d3334c2f1a3b4779fa1a40c30-2627026-1024-1750-png_l.jpg)<br>![图](https://ehgt.org/3d/0e/3d0e4a655b9e533b2c7085391b69e5bcafaf2d4d-2786579-1024-1750-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/岸波白野) |
+| hakuno kishinami | 岸波白野（♂） | ![图](https://ehgt.org/92/1e/921e23d3f5c2414d3334c2f1a3b4779fa1a40c30-2627026-1024-1750-png_l.jpg)<br>岸波白野是TYPE-MOON旗下游戏《`fate extra`》及其衍生作品的登场角色。也登场于《`fate grand order`》。<br>别号：扎比(Francis Xavier)、奏者、小猪仔/小松鼠、岸浪ハクノ | [萌娘百科](https://zh.moegirl.org.cn/岸波白野) |
 | hassan of serenity | 静谧之哈桑 | ![图](https://ehgt.org/09/f6/09f6f042cfdbf8a00ba01ec7dff3a21bb81116c7-1467154-1024-1448-png_l.jpg)![图](https://ehgt.org/1e/cb/1ecb0d2c0a5638758b18c4f8fabe85b38f39be6f-1926086-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/静谧之哈桑) [Mooncell](http://www.fgo.wiki/w/静谧哈桑) |
 | medb | 梅芙 | ![图](https://ehgt.org/b0/58/b058fd736d74e32b0df1f7fd4fe1078cc5f4d619-1977144-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/梅芙%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/女王梅芙) |
 | len | 莲 |  |  |
