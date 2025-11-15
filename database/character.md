@@ -7161,6 +7161,7 @@ example:
 | annette fantine dominic | 雅妮特·方提努·多米尼克 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/30/Annette_Heroes.png)<br><br>雅妮特·方提努·多米尼克（日语：アネット ファンティーヌ ドミニク，英语：Annette Fantine Dominic）<br>所属作品:《`fire emblem three houses`》。<br><br>王国骑士古斯塔夫之女，多米尼克男爵的侄女。<br>个性开朗活泼，勤奋努力，但也有些笨手笨脚，经常因为努力过头而适得其反，白忙一场。<br>和梅尔赛德司自魔道学校时期便是好友。 | [萌娘百科](https://zh.moegirl.org.cn/雅妮特·方提努·多米尼克)<br>[Fandom](https://fireemblem.fandom.com/wiki/Annette) |
 | mercedes von martritz | 梅尔赛德司·冯·马尔特利兹 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/1e/Mercedes_Heroes.png)<br>梅尔赛德司·冯·马尔特利兹（日语：メルセデス フォン マルトリッツ，英语：Mercedes von Martritz）<br>所属作品:《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/梅尔赛德司·冯·马尔特利兹)<br>[Fandom](https://fireemblem.fandom.com/wiki/Mercedes) |
 | bernadetta von varley | 贝尔娜提塔·冯·瓦立 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/a7/Bernadetta_Heroes.png)<br><br>贝尔娜提塔·冯·瓦立（日语：ベルナデッタ フォン ヴァーリ，英语：Bernadetta von Varley）<br>所属作品:《`fire emblem three houses`》<br><br>瓦立伯爵家的独生女，非常怕生。<br>对于离开了家的她来说，宿舍房间是唯一能够安心居住的地方。除了上课，其他时间都会把自己关在房间里，专心做自己感兴趣的事情。 | [萌娘百科](https://zh.moegirl.org.cn/贝尔娜提塔·冯·瓦立) |
+| ashe ubert | 亚修·多蓝 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c7/3H_Ashe_Artwork.png)<br>亚修·多蓝（日语：アッシュ デュラン，英语：Ashe Ubert）<br>所属作品:《`fire emblem three houses`》<br><br>王国盖斯巴尔城主罗纳特卿的养子。罗纳特卿把他视如己出，并送入士官学校就读，令他对这位养父充满感激之情。他为了成为像罗纳特卿那样的好人，为了成为一名骑士而努力精进自己。<br>过去因为贫困而当过小偷，为此想要靠做尽可能多的好事来抵消自己过去的罪。 | [萌娘百科](https://zh.moegirl.org.cn/亚修·多蓝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
