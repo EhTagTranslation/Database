@@ -7179,6 +7179,7 @@ example:
 | rasis | 蕾西丝 | ![](https://static.wikia.nocookie.net/sound-voltex/images/b/be/Rasis_VI%27s_Artwork.jpg/revision/latest?cb=20210228161856)<br>![](https://static.wikia.nocookie.net/sound-voltex/images/4/40/032.jpg/revision/latest?cb=20211201062737)<br>由KONAMI旗下的游戏《`sound voltex`》及其衍生作品的登场角色。<br>差不多是整个游戏的看板娘担当。有各种各样的PUR形象。 | [萌娘百科](https://zh.moegirl.org.cn/蕾西丝)<br>[Fandom](https://soundvoltex.fandom.com/wiki/Rasis) |
 | daetta | 达尔塔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/d8/Zoom_3020024000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/d1/Zoom_3030116000_01.png)<br>所属作品：`granblue fantasy` |  |
 | camieux | 库姆尤 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3020047000_02.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/f/f8/Zoom_3030152000_01.png)<br>所属作品：`granblue fantasy` |  |
+| feena | 菲娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7a/Zoom_3040573000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
