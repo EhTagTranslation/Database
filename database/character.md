@@ -1844,7 +1844,7 @@ example:
 | diarmuid ua duibhne | 迪尔姆德·奥迪那 | 第四次圣杯战争的 Lancer<br>![图](https://ehgt.org/e9/ce/e9ce6d7c2f1bd6db41f6e890f84f4b07b00ff9e1-2085624-1024-1448-png_l.jpg)![图](https://ehgt.org/a3/a1/a3a1eef763c62529c001a07af6ec21f246d6c8a0-2138649-1024-1448-png_l.jpg) |  |
 | iskandar | 伊斯坎达尔 | 第四次圣杯战争的 Rider<br>![图](https://ehgt.org/0e/c0/0ec01372c26d693422848c966f8d7139c5b6ca1a-2033296-1024-1448-png_l.jpg)![图](https://ehgt.org/7a/af/7aaf2a88719b8be10eeb0cbf2dee005455971da2-2374323-1024-1448-png_l.jpg) |  |
 | gilles de rais | 吉尔·德·莱斯 | 第四次圣杯战争的 Caster<br>![图](https://ehgt.org/d2/6b/d26bfb0c0f2b52777cabbd1da855a490c3b89778-1819767-1024-1448-png_l.jpg)![图](https://ehgt.org/69/01/690115e53162a746c142d88f919f64601b8b2cce-2326214-1024-1448-png_l.jpg) |  |
-| lancelot | 兰斯洛特 | 第四次圣杯战争的 Berserker<br>![图](https://ehgt.org/d9/66/d9668a73f9704529c06578df11584cddd11907bc-1244924-1024-1448-png_l.jpg)![图](https://ehgt.org/22/48/224859586175f83c48c903b9cb9a1f3c3d38eb0f-1416036-1024-1448-png_l.jpg) |  |
+| lancelot | 兰斯洛特 | ①<br>![图](https://ehgt.org/d9/66/d9668a73f9704529c06578df11584cddd11907bc-1244924-1024-1448-png_l.jpg)<br>所属作品：`fate zero`<br>第四次圣杯战争的 Berserker<br>②<br>![](https://huiji-public.huijistatic.com/gbf/uploads/0/0a/Zoom_3040140000_01.png)<br>所属作品：`granblue fantasy` |  |
 |  | Assassin | 条目同第五次圣杯战争-Assassin |  |
 |  | TYPE-MOON > Fate > Zero（第四次圣杯战争）> 御主 |  |  |
 | kiritsugu emiya | 卫宫切嗣 | 第四次圣杯战争中 Saber 的御主，卫宫士郎的养父。<br>![图](https://ehgt.org/a9/85/a98555e4436c42945e8e559ea96e2b3d5cdbbf85-8048363-4147-5175-jpg_l.jpg)![图](https://ehgt.org/65/b2/65b2ba082b84d15e82470c01bcf1c123922e9d6a-2577619-1024-1448-png_l.jpg)![图](https://ehgt.org/52/34/52349d54618c1f88c73fa99fc4a25c1278ec158f-2783687-1024-1448-png_l.jpg) |  |
