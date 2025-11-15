@@ -7219,6 +7219,7 @@ example:
 | freesia von bismarck | 宰相（芙酱） | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/54/Zoom_3040182000_01.png)<br>所属作品：`granblue fantasy` |  |
 | feather | 菲泽 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e4/Zoom_3040304000_01.png)<br>所属作品：`granblue fantasy` |  |
 | elsam | 艾尔塞姆 | ![](https://huiji-thumb.huijistatic.com/gbf/uploads/thumb/2/26/Zoom_3040500000_01.png/450px-Zoom_3040500000_01.png)<br><br>所属作品：`granblue fantasy`<br>罗艾因小队，三傻中的一员。<br>另外两人为罗艾因和托莫伊（Malevomacho Tomoi） |  |
+| nefer | 奈芙尔 | ![](https://patchwiki.biligame.com/images/ys/6/65/8r6fkl22yx102f1vurno4aq6ddqm6wa.gif)<br>奈芙尔是游戏《`genshin impact`》及其衍生作品的登场角色。<br><br>神通广大的「秘闻馆」之主。 | [萌娘百科](https://zh.moegirl.org.cn/奈芙尔)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/奈芙尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
