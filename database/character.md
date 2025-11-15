@@ -7157,6 +7157,7 @@ example:
 | teena | 缇娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5c/Zoom_3030236000_01.png)<br>所属作品：`granblue fantasy` |  |
 | carmelina | 卡露梅莉娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e8/Zoom_3040042000_01.png)<br>所属作品：`granblue fantasy` |  |
 | pengy | 企小鹅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4d/Zoom_3040282000_01.png)<br>所属作品：`granblue fantasy` |  |
+| leonie pinelli | 雷欧妮·皮聂利 | ![](https://img.moegirl.org.cn/common/1/1f/雷欧妮-五年前.PNG)<br>![](https://img.moegirl.org.cn/common/c/c0/雷欧妮-五年后.png)<br><br>雷欧妮·皮聂利（日语：レオニー ピネッリ，英语：Leonie Pinelli）是游戏《`fire emblem three houses`》及其衍生作品的登场角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/雷欧妮·皮聂利)<br>[Fandom](https://fireemblem.fandom.com/wiki/Leonie) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
