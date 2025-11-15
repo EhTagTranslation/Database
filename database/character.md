@@ -6061,7 +6061,7 @@ example:
 | sayori | 纱世里 | 所属作品: `p:doki doki literature club`<br><br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/c/ca/Sayori_Illustration.png) | [萌娘百科](https://zh.moegirl.org.cn/纱世里) [Fandom](https://doki-doki-literature-club.fandom.com/zh/wiki/纱世里（Sayori）) [维基百科（英语）](https://en.wikipedia.org/wiki/Sayori_%28Doki_Doki_Literature_Club!%29) |
 | cure lillian | 猫屋敷雪 | 突然出现的神秘光之美少女，其真实身份是真结饲养的白猫，也是彩妆＆杂货店“PrettyHolic”的招牌猫，后来当着真结等人的面正式曝光。私立湾岸第二中学2年1班。名字的由来是因为真结和雪的初次相遇是在下雪天。生日为12月21日，鳕宝日（はんぺんの日）。中文昵称为“小雪”。 | [Fandom](https://prettycure.fandom.com/wiki/Nekoyashiki_Mayu) [萌娘百科](https://zh.moegirl.org.cn/猫屋敷雪) |
 | cure nyammy | 猫屋敷麻友 | 刚搬来动物小镇的少女。彩妆＆杂货店“PrettyHolic”的独生女，私立湾岸第二中学2年1班。搬家前就读小泉学园。经常且喜欢感性看待各种事物。生日为11月5日，结缘日（縁結びの日）。喜欢浅绿色，也喜欢吃饼干。 | [萌娘百科](https://zh.moegirl.org.cn/猫屋敷麻友) [Fandom](https://prettycure.fandom.com/wiki/Nekoyashiki_Yuki) |
-| millia rage | 米莉亚·蕾姬 | 所属作品: `p:guilty gear` | [维基百科（日语）](https://ja.wikipedia.org/wiki/ミリア・レイジ) |
+| millia rage | 米莉亚·蕾姬 | ![](https://ehgt.org/w/01/875/76071-ioklzeyi.webp)<br>所属作品: `p:guilty gear` | [维基百科（日语）](https://ja.wikipedia.org/wiki/ミリア・レイジ) |
 | kei karuizawa | 轻井泽惠 | ![](https://img.moegirl.org.cn/common/e/e8/KaruizawaKei_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>金发辣妹。曾与绫小路清隆是恋人关系。 | [萌娘百科](https://zh.moegirl.org.cn/轻井泽惠) |
 | an94 | AN-94 \| 埃芙 \| 安提娅 | `p:girls frontline`<br><br>少女前线2：追放<br>埃芙<br>同`c:an-94` | [少前百科GFwiki](https://www.gfwiki.org/w/AN-94) |
 | yuki-onna | 雪女 | 这应该不是某个作品中的角色，更偏向于一种人设 |  |
