@@ -252,7 +252,7 @@ example:
 | persona | 女神异闻录 |  |  |
 | persona 2 | 女神异闻录2 |  |  |
 | persona 3 | 女神异闻录3 |  |  |
-| persona 4 | 女神异闻录4 | ![](https://img.moegirl.org.cn/common/a/ab/P4A_Rise_Render.png)<br>久慈川理世（日语：くじかわ りせ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《`persona 4`》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/久慈川理世) |
+| persona 4 | 女神异闻录4 |  |  |
 | persona 5 | 女神异闻录5 |  |  |
 |  | ▲女神转生 系列 |  |  |
 | monsters inc. | 怪兽电力公司 |  |  |
