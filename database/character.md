@@ -7143,6 +7143,7 @@ example:
 | scathacha | 斯卡哈 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/84/Zoom_3040122000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040260000_01.png)<br>所属作品：`granblue fantasy` |  |
 | anthuria | 安苏莉娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/ca/Zoom_3040103000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/3/37/Zoom_3040228000_01.png)<br>所属作品：`granblue fantasy` |  |
 | ilsa | 伊尔莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4c/Zoom_3040177000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/de/Zoom_3040456000_01.png)<br>所属作品：`granblue fantasy` |  |
+| ferry | 菲莉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/bf/Zoom_3030310000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
