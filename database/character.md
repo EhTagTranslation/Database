@@ -7118,6 +7118,7 @@ example:
 | kaoru shimizu | 清水熏 | ![](https://ehgt.org/w/02/005/46100-umeuv2yj.webp)<br>所属作品：`major` |  |
 | kikirara vivi | 绮绮罗罗薇薇 | ![](https://ehgt.org/w/02/015/03321-4rpo0s0a.webp)<br>所属团体：hololive<br>綺々羅々ヴィヴィ（Kikirara Vivi）是虚拟偶像团体holoilve DEV\_IS的成员，担任FLOW GLOW单元的美妆担当。 |  |
 | rena | 蕾娜·艾琳黛尔 | ![](https://ehgt.org/w/02/001/54667-5qr9vwio.webp)<br>所属作品：艾尔之光 |  |
+| yuu fujikura | 藤仓优 | ![](https://ehgt.org/w/02/103/14005-jwprbu0a.webp)<br>藤仓优（ふじくら ゆう/Fujikura Yuu）是`princess lover`及其衍生作品的女主角之一 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
