@@ -5377,7 +5377,7 @@ example:
 | bonnie rockwaller | 邦妮罗克威 |  |  |
 | dr. drakken | 怪博士杜肯 |  |  |
 | ann possible | 帕医生 |  |  |
-| monique | 莫妮卡 | 所属作品：`kim possible` |  |
+| monique | 莫妮卡 | 所属作品：麻辣女孩 |  |
 | jim possible | 帕吉姆 |  |  |
 | tim possible | 帕提姆 |  |  |
 | joss possible | 帕乔丝 |  |  |
