@@ -2592,6 +2592,7 @@ example:
 | doukyuusei 2 | 同级生2 | ![](https://ehgt.org/w/01/530/61528-bzmk3cvj.webp) |  |
 | suicide squad | 自杀小队 |  |  |
 | hercules | 大力士 |  |  |
+| mikadono sanshimai wa angai choroi | 帝乃三姐妹意外地容易相处 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923115243.webp)<br>别译：帝乃三姐妹原来很好搞定 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
