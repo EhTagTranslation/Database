@@ -2838,7 +2838,7 @@ example:
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
 | saren sasaki | 佐佐木咲恋 | ![佐佐木咲恋](# "https://ehgt.org/90/56/9056281b64c3ab47cca0237afc534349702359ce-3425005-2180-3000-jpg_250.jpg")<br>佐佐木咲恋是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为咲恋。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木咲恋) |
 | niyon | 妮欧 |  |  |
-| yuel | 尤艾尔 |  |  |
+| yuel | 尤艾尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3040580000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/dc/Zoom_3040210000_01.png)<br>所属作品：`granblue fantasy` |  |
 | societte | 苏丝雅 |  |  |
 | kanau kongou | 金刚叶 |  |  |
 | yuuko aioi | 相生祐子 |  |  |
