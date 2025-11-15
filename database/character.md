@@ -6473,7 +6473,7 @@ example:
 | hina chono | 蝶野雏 | 青之箱女主之一，荣明学园高中1年级生，韵律体操部社员。<br>与大喜、笠原国中三年都同班故彼此熟识，喜欢捉弄大喜、以此取乐。<br>父亲是前日本体操选手代表，本身也是体操界的明星选手。 |  |
 | yuri lowell | 由利·罗威尔 |  |  |
 | flynn scifo | 弗林·西佛 |  |  |
-| percival | 帕西瓦尔 |  |  |
+| percival | 帕西瓦尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/87/Zoom_3030168000_01.png)<br>所属作品：`granblue fantasy` |  |
 | minami kotobuki | 寿美奈美 |  | [百度百科](https://baike.baidu.com/item/寿美奈美/62056705) |
 | zuo le | 左乐 | ![](https://patchwiki.biligame.com/images/arknights/d/d4/rmqfifg42pv1opzgqftlmz0tfdbpdui.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/左乐) |
 | tosa | 土佐(䲠) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d2be5c7064c51582a24e204601da9d31262400697.png) | [百度百科](https://baike.baidu.com/item/土佐/59042731) |
