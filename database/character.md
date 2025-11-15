@@ -7146,6 +7146,7 @@ example:
 | ferry | 菲莉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/bf/Zoom_3030310000_01.png)<br>所属作品：`granblue fantasy` |  |
 | yuisis | 优希斯 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/0c/Zoom_3040105000_01.png)<br>所属作品：`granblue fantasy` |  |
 | aster | 阿斯特尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/33/Zoom_3030268000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/c9/Zoom_3030268000_02.png)<br>所属作品：`granblue fantasy` |  |
+| you | 容 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3040393000_01.png)<br>所属作品：`granblue fantasy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
