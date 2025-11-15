@@ -4111,7 +4111,7 @@ example:
 | ekitoku chouhi | 张飞益德 |  |  |
 | myousai kakouen | 夏侯渊妙才 |  |  |
 | yojo bashoku | 马谡幼常 |  |  |
-| shiryuu chouun | 赵云子龙 |  |  |
+| shiryuu chouun | 赵云子龙 | ![](https://ehgt.org/w/01/992/85899-7uouf1z6.webp)<br>所属作品：`ikkitousen` |  |
 | chuukou kyocho | 许诸仲康 |  |  |
 | hakugen rikuson | 陆逊伯言 |  |  |
 | chuutatsu shibai | 司马懿仲达 |  |  |
