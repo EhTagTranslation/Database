@@ -6748,7 +6748,7 @@ example:
 | airi sakura | 佐仓爱里 | ![](https://img.moegirl.org.cn/common/b/b0/Sakura_Airi.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>戴着眼镜、束着长发、不爱打扮的不起眼少女。害怕与人对话，尤其是害怕说话时与旁人的目光接触。讨厌惹人注目。平时并不与旁人交流，因而也没有朋友。 | [萌娘百科](https://zh.moegirl.org.cn/佐仓爱里) |
 | mio ibuki | 伊吹澪 | ![](https://img.moegirl.org.cn/common/1/11/Ibuki_Mio.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>因为话少的性格，一般独来独往，给人以冷漠的感觉。于武道有经验，在学习与运动方面值得期待。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹澪) |
 | seed | 席德 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/08/28/15559334/93ff6fe18ebd0722d609d0c92e9aee0a_3187062097775551463.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/席德) |
-| charlotte hazelrink | 夏洛特·海瑟林克 | 夏洛特·海瑟林克是Ricotta旗下游戏《公主恋人！》及其衍生动画，漫画，小说的登场角色。<br>![](https://p.sda1.dev/27/57fb7d4954be005df686fc70aedecbad/image.png) | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·海瑟林克) |
+| charlotte hazelrink | 夏洛特·海瑟林克 | ![](https://ehgt.org/w/01/957/43044-5iy9m0w7.webp)<br>所属作品：`princess lover` | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·海瑟林克) |
 | rouge | 露姬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/760455.png)<br>所属作品：`goddess of victory nikke`<br>她不仅是隶属于777部队的妮姬，也是金币之战里的游戏荷官，平实的她亲切又能干，但有一点小迷信。 | [https://www.gamekee.com/nikke/tj/152319.html](https://www.gamekee.com/nikke/tj/152319.html) |
 | gretel | 格丽特 | 所属作品：`goddess of victory nikke` |  |
 | tiara basori | 马剃天爱星 |  |  |
