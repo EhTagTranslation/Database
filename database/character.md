@@ -6443,7 +6443,7 @@ example:
 | capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 |  |  |
 | jin-ah sung | 程肖雅丨水筱葵 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/23/12/56/04/127541876_p6_master1200.jpg) |  |
 | samui | 萨姆伊 |  |  |
-| heles | 赫尔艾斯 | 游戏《碧蓝幻想》中的角色，外号王姐。在得知导致祖国灭亡的是父王的愚蠢策略这个事情后，王女开始对王座的存在抱有疑问。考虑到残留下来的民众的未来，废弃王座的她因此离开了人民。展现在不再是王女的她的面前的，是自由到可怕的世界。 |  |
+| heles | 赫尔艾斯 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/33/Zoom_3040060000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/b1/Zoom_3040208000_01.png)<br>所属作品：`granblue fantasy` |  |
 | theresia van astrea | 特蕾西亚·范·阿斯特雷亚 | 所属作品: `p:re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/特蕾西亚·范·阿斯特雷亚) [Fandom](https://rezero.fandom.com/wiki/Theresia_van_Astrea) |
 | mayuki hiiragi | 柊真雪 | 所属作品: `p:hinako note` | [萌娘百科](https://zh.moegirl.org.cn/柊真雪) |
 | juvia lockser | 朱比亚·罗克丝 | 朱比亚·罗克丝，日本漫画《妖精的尾巴》及其衍生作品中的角色，魔导师公会妖精的尾巴中的魔导士。人称：“雨女。<br>原“幽鬼支配者”工会，“四元素”之一的水元素。幽鬼公会解散后加入妖精的尾巴。 | [百度百科](https://baike.baidu.com/item/朱比亚·罗克丝/3521000) |
