@@ -7224,6 +7224,7 @@ example:
 | machina soleige | 玛姬娜·索雷斯 | ![](https://ehgt.org/w/02/063/07543-sb6kp1ui.webp)<br>所属作品：`maou 2099` |  |
 | matsukai mao | 魔使真央 | 所属社团：彩虹社 |  |
 | fumi | 文美 | 所属社团：彩虹社<br>日文名：フミ |  |
+| elira pendora | Elira Pendora | ![](https://img.moegirl.org.cn/common/1/1e/Elira_Pendora.png)<br>所属社团：彩虹社 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
