@@ -7134,6 +7134,7 @@ example:
 | nate argente loup mitotsudaira | 奈特·弥托黛拉 | ![](https://ehgt.org/w/02/085/61060-ctxppz2c.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
 | utahime iori | 庵歌姬 | ![](https://ehgt.org/w/01/907/06450-828sstqp.webp)<br>所属作品：`jujutsu kaisen` |  |
 | pieck finger | 皮克·芬格尔 | ![](https://ehgt.org/w/01/897/46094-egy9wqrb.webp)<br>所属作品：`shingeki no kyojin` |  |
+| zetton | 芝顿 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
