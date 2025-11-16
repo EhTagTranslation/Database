@@ -5345,7 +5345,7 @@ example:
 | goredolf musik | 戈尔德鲁夫·穆吉克 |  |  |
 | edward teach | 爱德华·蒂奇 | （黑胡子） |  |
 | habetrot | 哈贝特洛特 | （哈贝喵） |  |
-| velma dinkley | 维尔玛·丁克利 |  |  |
+| velma dinkley | 维尔玛·丁克利 | 所属作品：`scooby-doo` | [维基百科（英语）](https://en.wikipedia.org/wiki/Velma_Dinkley)<br>[Fandom](https://scoobydoo.fandom.com/wiki/Velma_Dinkley)<br>[https://wikii.one/Velma\_Dinkley](https://wikii.one/Velma_Dinkley) |
 | daphne blake | 达芙妮·布雷克 | 所属作品:`scooby-doo` | [https://wikii.one/Daphne\_Blake](https://wikii.one/Daphne_Blake)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Daphne_Blake)<br>[Fandom](https://scoobydoo.fandom.com/wiki/Daphne_Blake) |
 | brock | 小刚 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/a/a6/Lets_Go_Pikachu_Eevee_Brock.png/182px-Lets_Go_Pikachu_Eevee_Brock.png)<br>小刚（タケシ） | [萌娘百科](https://zh.moegirl.org.cn/小刚) |
 | vulpix | 六尾 |  | [萌娘百科](https://zh.moegirl.org.cn/六尾) |
