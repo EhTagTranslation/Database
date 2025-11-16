@@ -7229,6 +7229,7 @@ example:
 | ayunda risu | 阿芸达·栗丝 | ![](https://img.moegirl.org.cn/common/6/6e/Ayunda_Risu立绘.jpg)<br>所属社团：hololive |  |
 | mihato | 三羽户 |  |  |
 | chihiro fujimi | 藤见千寻 | 日本漫画《我的女神》及其衍生作品中的角色 |  |
+| kana | 花奈 | 所属作品：`bunny garden` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
