@@ -2594,6 +2594,7 @@ example:
 | hercules | 大力士 |  |  |
 | mikadono sanshimai wa angai choroi | 帝乃三姐妹意外地容易相处 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2923115243.webp)<br>别译：帝乃三姐妹原来很好搞定 |  |
 | mainichi kiss shite lolita | 每日亲吻洛丽塔 |  |  |
+| bunny garden | 兔兔秘密花园 | ![](https://img1.doubanio.com/lpic/s34840758.jpg)<br>《BUNNY GARDEN》是日本qureate公司开发的一款恋爱冒险游戏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
