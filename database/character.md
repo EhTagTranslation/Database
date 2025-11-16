@@ -5386,7 +5386,7 @@ example:
 | tom | 汤姆 |  |  |
 | jerry | 杰瑞 |  |  |
 | ultrawoman | 女奥特曼 |  |  |
-| king george v | 英王乔治五世 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/b9b5bf91834a74e1b5bd0eded2ebc724262400697.png)<br>英国1939年下水的英王乔治五世级战列舰首舰 | [百度百科](https://baike.baidu.com/item/英王乔治五世号战列舰)<br>[https://moegirl.icu/碧蓝航线:英王乔治五世](https://moegirl.icu/碧蓝航线:英王乔治五世)<br>[https://moegirl.icu/战舰少女:英王乔治五世](https://moegirl.icu/战舰少女:英王乔治五世)<br>[https://moegirl.icu/钢铁少女:乔治五世](https://moegirl.icu/钢铁少女:乔治五世) |
+| king george v | 英王乔治五世 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/b9b5bf91834a74e1b5bd0eded2ebc724262400697.png)<br>英国1939年下水的英王乔治五世级战列舰首舰 | [百度百科](https://baike.baidu.com/item/英王乔治五世号战列舰) [碧蓝航线](https://moegirl.icu/碧蓝航线:英王乔治五世)<br>[战舰少女](https://moegirl.icu/战舰少女:英王乔治五世) [钢铁少女](https://moegirl.icu/钢铁少女:乔治五世) |
 | golden hind | 金鹿号 | 盖伦型三桅帆船 | [百度百科](https://baike.baidu.com/item/金鹿号/1333376)<br>[https://moegirl.icu/碧蓝航线:金鹿号](https://moegirl.icu/碧蓝航线:金鹿号)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/金鹿号) |
 | regensburg | 雷根斯堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/c5bfd269da7171722c198da9f4f5f7b5262400697.png)<br>格劳登茨级小巡洋舰的末舰 | [https://moegirl.icu/碧蓝航线:雷根斯堡](https://moegirl.icu/碧蓝航线:雷根斯堡)<br>[维基百科](https://zh.wikipedia.org/wiki/雷根斯堡号小巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/雷根斯堡) |
 | trieste | 的里雅斯特 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5973db44a5eb8e8033c2c480b6be3898262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/65874706d0dd212c9102d06ab74e97dd262400697.png)<br>其原形为特伦托级重巡洋舰2号舰的里雅斯特 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:的里雅斯特)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/的里雅斯特) |
