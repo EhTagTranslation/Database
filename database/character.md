@@ -7249,6 +7249,7 @@ example:
 | salia tereshkova | 萨莉亚·卡斯塔姆 | 所属作品：`cross ange` |  |
 | franklin | 富兰克林 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/77/ssxqlnw67i33v2i24rbnrpokwg30zfv.jpg/525px-富兰克林立绘.jpg)<br>所属作品：`azur lane` |  |
 | sophitia alexandra | 索菲蒂亚 | ![](https://ehgt.org/w/02/070/63910-ty4o8aq7.webp)<br>所属作品：`soulcalibur` |  |
+| fighter | 格斗家 | 所属作品：`dungeon fighter online` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
