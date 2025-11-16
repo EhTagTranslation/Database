@@ -7232,6 +7232,7 @@ example:
 | kana | 花奈 | 所属作品：`bunny garden` |  |
 | tae shimura | 志村妙 | 所属作品：`gintama`<br>志村妙 - しむら たえ - Shimura Tae。<br>表面上是个十分COOL的美女,但一发怒便会凶暴化。 |  |
 | misaki ayuzawa | 鲇泽美咲 | ![](https://ehgt.org/w/01/704/00494-dovfjsjl.webp)<br>所属作品：`kaichou wa maid-sama` |  |
+| noel anderson | 诺埃尔·安德森 | 所属作品：`mobile suit gundam lost war chronicles`<br>诺埃尔·安德森 外文 Noel Anderson/ノエル・アンダーソン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
