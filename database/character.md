@@ -7242,6 +7242,7 @@ example:
 | talia gladys | 塔丽亚·库拉迪斯 | 所属作品：`gundam seed destiny`<br>担任脉冲高达母舰密涅瓦号舰长 |  |
 | lucca ashtear | 露卡·阿什泰尔 | ![](https://ehgt.org/4d/84/4d84b9a5b996e749838287ccd2da1fc3ccae62a0-402773-1150-1620-jpg_250.jpg)<br>所属作品：`chrono trigger` |  |
 | maya yamada | 山田真耶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/70/2a/10536_crt_Q9AJP.jpg)<br>所属作品：`infinite stratos`<br>一夏班上的副班导。 |  |
+| candice catnipp | 嘉蒂丝·卡特尼普 | ![](https://ehgt.org/w/01/888/37174-jzneh7fi.webp)<br>所属作品：`bleach`<br>无形帝国星十字骑士团成员，拥有圣文字“T（雷霆）”，能力为操控雷电。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
