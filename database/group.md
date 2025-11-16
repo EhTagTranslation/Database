@@ -13369,6 +13369,7 @@ example:
 | touhou bakufu | 東方幕府 |  |  |
 | the waidan | THE猥談 |  |  |
 | kitsunekopandanuki | キツネコパンダヌキ |  |  |
+| inazuma soft | いなずまそふと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48610.html)<br>[DLsite](https://ci-en.dlsite.com/creator/2713)<br>[X](https://x.com/inazumasoft)<br>[BOOTH](https://inazumasoft.booth.pm/items) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
