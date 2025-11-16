@@ -7236,6 +7236,7 @@ example:
 | margit eberbach | 玛吉特埃贝·巴赫 | ![](https://ehgt.org/36/7e/367ef16bb7e881028fe5b57818f6da733e54cd00-235368-526-838-jpg_250.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | vanessa enoteca | 巴纳莎·艾诺泰卡 | ![](https://ehgt.org/w/02/022/76965-luti97e4.webp)<br>所属作品：`black clover` |  |
 | mimosa vermillion | 米莫萨·凡米里欧 | ![](https://ehgt.org/w/02/107/34538-5sinl3ln.webp)<br>所属作品：`black clover` |  |
+| mereoleona vermillion | 梅蕾奥蕾奥娜·凡米里欧 | 所属作品：`black clover` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
