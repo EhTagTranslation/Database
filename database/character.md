@@ -6918,7 +6918,7 @@ example:
 | calstone light o | 金镇之光 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/2/24/s5vr9xinrca3wguig1so9cim0ja2i08.png/600px-Jsf_112001.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/金镇之光) |
 | little cocon | 小巧圆茧 | 所属作品：`uma musume pretty derby`<br><br>冷酷且毒舌，禁欲克己的赛马娘。由于讨厌改变自己的个性而回避着集体行动。 | [百度百科](https://baike.baidu.com/item/小巧圆茧/63386907?fr=aladdin) |
 | tanino gimlet | 谷野美酒 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/9sercgtf40a1jxtfwfq5xv5h3wnztiv.png/600px-Jsf_108401.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/谷水琴蕾) |
-| mr. c.b. | 千明代表 | 所属作品：`uma musume pretty derby` |  |
+| mr. c.b. | 千明代表 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/79/miyqac27rp85z4ijjbvmi75pjloi8uu.png/600px-Jsf_105701.png)<br>所属作品：`uma musume pretty derby` |  |
 | vodka | 伏特加 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/1/1f/dhvxzl089d2ltw5i3c5e6ii5on3jeyv.png/600px-Jsf_100801.png)<br>所属作品：`uma musume pretty derby`<br>伏特加（日文名：ウオッカ）是2004年4月4日出生于日本的一匹纯种竞赛雌马，由马主谷水雄三在Country牧场培育，练马师为角居胜彦。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/伏特加) |
 | mejiro ryan | 目白赖恩 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/f/f1/k047yw3r4b181md986inlprjtx8mkn0.png/600px-Jsf_102701.png)<br>所属作品：`uma musume pretty derby`<br>原型是日本著名赛马メジロライアン（Mejiro Ryan） | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/目白赖恩) |
 | daitaku helios | 大拓太阳神 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/3/39/8w9gpw88vp1jyuw8hpgov1179xeddk9.png/600px-Jsf_106501.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ダイタクヘリオス(Daitaku Helios)。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/大拓太阳神) |
