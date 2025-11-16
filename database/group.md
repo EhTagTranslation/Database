@@ -13370,6 +13370,7 @@ example:
 | the waidan | THE猥談 |  |  |
 | kitsunekopandanuki | キツネコパンダヌキ |  |  |
 | inazuma soft | いなずまそふと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48610.html)<br>[DLsite](https://ci-en.dlsite.com/creator/2713)<br>[X](https://x.com/inazumasoft)<br>[BOOTH](https://inazumasoft.booth.pm/items) |
+| senmura | SENMURA | 画师 `a:senmura`使用的同人社团名 | [https://www.melonbooks.co.jp/circle/index.php?circle\_id=103311](https://www.melonbooks.co.jp/circle/index.php?circle_id=103311) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
