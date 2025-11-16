@@ -7246,6 +7246,7 @@ example:
 | mature | 麦卓 | ![](https://ehgt.org/w/02/066/37601-r8aqi2c9.webp)<br>所属作品：`king of fighters`<br>大蛇一族的八杰集成员,外型冷艳的金发碧眼美女。 |  |
 | garnet til alexandros xvii | 加奈特·蒂·亚历山德罗斯17世 | 所属作品：`final fantasy ix`<br>《最终幻想9》的女主角，亚历山大王国第17代继承人，拥有召唤艾迪尔的能力，性格坚韧优雅，后因与齐达内的互动逐渐变得成熟。 |  |
 | lady maria | 玛丽亚夫人 | ![](https://ehgt.org/w/01/970/60717-vg1gxqi6.webp)<br>所属作品：`bloodborne` |  |
+| salia tereshkova | 萨莉亚·卡斯塔姆 | 所属作品：`cross ange` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
