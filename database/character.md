@@ -7231,6 +7231,7 @@ example:
 | chihiro fujimi | 藤见千寻 | 日本漫画《我的女神》及其衍生作品中的角色 |  |
 | kana | 花奈 | 所属作品：`bunny garden` |  |
 | tae shimura | 志村妙 | 所属作品：`gintama`<br>志村妙 - しむら たえ - Shimura Tae。<br>表面上是个十分COOL的美女,但一发怒便会凶暴化。 |  |
+| misaki ayuzawa | 鲇泽美咲 | ![](https://ehgt.org/w/01/704/00494-dovfjsjl.webp)<br>所属作品：`kaichou wa maid-sama` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
