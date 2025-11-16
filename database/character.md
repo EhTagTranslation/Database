@@ -7244,6 +7244,7 @@ example:
 | maya yamada | 山田真耶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/70/2a/10536_crt_Q9AJP.jpg)<br>所属作品：`infinite stratos`<br>一夏班上的副班导。 |  |
 | candice catnipp | 嘉蒂丝·卡特尼普 | ![](https://ehgt.org/w/01/888/37174-jzneh7fi.webp)<br>所属作品：`bleach`<br>无形帝国星十字骑士团成员，拥有圣文字“T（雷霆）”，能力为操控雷电。 |  |
 | mature | 麦卓 | ![](https://ehgt.org/w/02/066/37601-r8aqi2c9.webp)<br>所属作品：`king of fighters`<br>大蛇一族的八杰集成员,外型冷艳的金发碧眼美女。 |  |
+| garnet til alexandros xvii | 加奈特·蒂·亚历山德罗斯17世 | 所属作品：`final fantasy ix`<br>《最终幻想9》的女主角，亚历山大王国第17代继承人，拥有召唤艾迪尔的能力，性格坚韧优雅，后因与齐达内的互动逐渐变得成熟。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
