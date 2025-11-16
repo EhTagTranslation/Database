@@ -376,7 +376,7 @@ example:
 | darkstalkers | 恶魔战士 |  |  |
 | x-men | X战警 |  |  |
 | x-men evolution | X战警：进化 |  |  |
-| ichigo 100 | 草莓100% |  |  |
+| ichigo 100 | 草莓100% | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2508805347.webp)<br>《草莓100%》是日本漫画家河下水希创作的校园恋爱喜剧漫画 |  |
 | tonari no kaibutsu-kun | 邻座的怪同学 |  |  |
 | danganronpa | 弹丸论破 |  |  |
 | koutetsujou no kabaneri | 甲铁城的卡巴内利 |  |  |
