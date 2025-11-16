@@ -7239,6 +7239,7 @@ example:
 | mereoleona vermillion | 梅列欧蕾欧娜·凡米里欧 | ![](https://ehgt.org/w/02/059/53595-cyztsvtu.webp)<br>所属作品：`black clover` |  |
 | lily aquaria | 莉莉·阿克阿丽亚 | ![](https://ehgt.org/w/02/050/44210-7hzg2xr8.webp)<br>所属作品：`black clover` |  |
 | jubilee | 李千欢 | 李千欢（Jubilee）是美国漫威漫画旗下超级英雄，初次登场于《不可思议的X战警》（Uncanny X-Men）第244期（1989年5月）。<br>全名朱比莱辛·李（Jubilation Lee） |  |
+| talia gladys | 塔丽亚·库拉迪斯 | 所属作品：`gundam seed destiny`<br>担任脉冲高达母舰密涅瓦号舰长 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
