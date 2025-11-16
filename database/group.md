@@ -8579,7 +8579,7 @@ example:
 | niku jaguars | NIKU・JAGUARS |  |  |
 | niku no sashimi | にくのさしみ |  |  |
 | niku sushi | 肉寿司 |  |  |
-| nikukyu | nikukyu |  |  |
+| nikukyu | nikukyu | nikukyu是画师`a:shinima`的同人社团名称，作品有漫画和RPG游戏 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42199.html)<br>[https://www.melonbooks.co.jp/circle/index.php?circle\_id=48983](https://www.melonbooks.co.jp/circle/index.php?circle_id=48983) |
 | nikumanyaitimi | にくまん屋一味 |  |  |
 | nikumomu | ニクモム |  |  |
 | nikutai gengo club | 肉体言語倶楽部 |  |  |
