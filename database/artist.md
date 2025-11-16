@@ -14212,6 +14212,7 @@ example:
 | mac | ピクシー | pixiv userid=31869137<br>曾用名称为mac<br>现在叫ピクシー/pixy | [X](https://x.com/pixy1234567891)<br>[pixiv](https://www.pixiv.net/users/31869137/) |
 | minakemo | ミナケモ |  | [pixiv](https://www.pixiv.net/users/9937831)<br>[FANBOX](https://minakemo.fanbox.cc/posts/9980457) |
 | samnite ii | Samnite II | AI漫画家 | [pixiv](https://www.pixiv.net/users/105267225)<br>[X](https://x.com/samnite_II)<br>[Patreon](https://www.patreon.com/SamniteII)<br>[作者E站账号](https://forums.e-hentai.org/index.php?showuser=3552861) |
+| gonster | gonster |  | [pixiv](https://www.pixiv.net/users/114920) |
 
 <!--TEMPLATE:
 |  |  |  |  |
