@@ -7247,6 +7247,7 @@ example:
 | garnet til alexandros xvii | 加奈特·蒂·亚历山德罗斯17世 | 所属作品：`final fantasy ix`<br>《最终幻想9》的女主角，亚历山大王国第17代继承人，拥有召唤艾迪尔的能力，性格坚韧优雅，后因与齐达内的互动逐渐变得成熟。 |  |
 | lady maria | 玛丽亚夫人 | ![](https://ehgt.org/w/01/970/60717-vg1gxqi6.webp)<br>所属作品：`bloodborne` |  |
 | salia tereshkova | 萨莉亚·卡斯塔姆 | 所属作品：`cross ange` |  |
+| franklin | 富兰克林 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/77/ssxqlnw67i33v2i24rbnrpokwg30zfv.jpg/525px-富兰克林立绘.jpg)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
