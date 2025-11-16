@@ -7234,6 +7234,7 @@ example:
 | misaki ayuzawa | 鲇泽美咲 | ![](https://ehgt.org/w/01/704/00494-dovfjsjl.webp)<br>所属作品：`kaichou wa maid-sama` |  |
 | noel anderson | 诺埃尔·安德森 | 所属作品：`mobile suit gundam lost war chronicles`<br>诺埃尔·安德森 外文 Noel Anderson/ノエル・アンダーソン |  |
 | margit eberbach | 玛吉特埃贝·巴赫 | ![](https://ehgt.org/36/7e/367ef16bb7e881028fe5b57818f6da733e54cd00-235368-526-838-jpg_250.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| vanessa enoteca | 巴纳莎·艾诺泰卡 | ![](https://ehgt.org/w/02/022/76965-luti97e4.webp)<br>所属作品：`black clover` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
