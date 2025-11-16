@@ -7237,6 +7237,7 @@ example:
 | vanessa enoteca | 巴纳莎·艾诺泰卡 | ![](https://ehgt.org/w/02/022/76965-luti97e4.webp)<br>所属作品：`black clover` |  |
 | mimosa vermillion | 米莫萨·凡米里欧 | ![](https://ehgt.org/w/02/107/34538-5sinl3ln.webp)<br>所属作品：`black clover` |  |
 | mereoleona vermillion | 梅蕾奥蕾奥娜·凡米里欧 | 所属作品：`black clover` |  |
+| lily aquaria | 莉莉·阿克阿丽亚 | ![](https://ehgt.org/w/02/050/44210-7hzg2xr8.webp)<br>所属作品：`black clover` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
