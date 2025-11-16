@@ -7241,6 +7241,7 @@ example:
 | jubilee | 李千欢 | 李千欢（Jubilee）是美国漫威漫画旗下超级英雄，初次登场于《不可思议的X战警》（Uncanny X-Men）第244期（1989年5月）。<br>全名朱比莱辛·李（Jubilation Lee） |  |
 | talia gladys | 塔丽亚·库拉迪斯 | 所属作品：`gundam seed destiny`<br>担任脉冲高达母舰密涅瓦号舰长 |  |
 | lucca ashtear | 露卡·阿什泰尔 | ![](https://ehgt.org/4d/84/4d84b9a5b996e749838287ccd2da1fc3ccae62a0-402773-1150-1620-jpg_250.jpg)<br>所属作品：`chrono trigger` |  |
+| maya yamada | 山田真耶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/70/2a/10536_crt_Q9AJP.jpg)<br>所属作品：`infinite stratos`<br>一夏班上的副班导。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
