@@ -7264,6 +7264,7 @@ example:
 | vanessa | 温妮莎 | ![](https://ehgt.org/w/01/848/70788-tl1r3cg3.webp)<br>所属作品：`king of fighters` |  |
 | cecilia | 瑟西莉亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/3a/Cecilia.png/revision/latest?cb=20160614032606)<br>所属作品:`p:fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/瑟西莉亞) |
 | gebura | Gebura | ![](https://huiji-public.huijistatic.com/libraryofruina/uploads/2/29/Gebura.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为惩戒部Sephirah，在废墟图书馆为语言层指定司书。<br>前身是特色收尾人殷红迷雾。 | [萌娘百科](https://zh.moegirl.org.cn/Geburah)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Gebura) |
+| binah | Binah | ![](https://img.moegirl.org.cn/common/5/55/Binah_废墟图书馆.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为研发部Sephirah，在废墟图书馆为哲学层指定司书。<br>前身为都市管理机构——首脑中的调律者。 | [萌娘百科](https://zh.moegirl.org.cn/Binah)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Binah) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
