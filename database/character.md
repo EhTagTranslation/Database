@@ -7258,6 +7258,7 @@ example:
 | selphie tilmitt | 瑟尔菲·蒂尔米多 | 所属作品：`final fantasy viii` |  |
 | celica | 赛莉卡 | ![](https://static.wikia.nocookie.net/nintendo/images/d/d8/FEE_Celica.png/revision/latest?cb=20171115181327&path-prefix=en)<br>所属作品:`p:fire emblem gaiden` | [Fandom](https://fireemblem.fandom.com/zh/wiki/賽莉卡)<br>[Fandom (英语)](https://nintendo.fandom.com/wiki/Celica_%28Fire_Emblem%29) |
 | alm | 阿鲁姆 | ![](https://cdn.fireemblemwiki.org/0/0a/FESoV_Alm.png)<br>阿鲁姆是单机游戏《`p:fire emblem gaiden`》的男主角，繁体译名阿雷武，早期译名雅木。 | [百度百科](https://baike.baidu.com/item/阿鲁姆/56046033)<br>[Fandom](https://fireemblem.fandom.com/wiki/Alm) |
+| gemma | 杰玛 | 所属作品：`monster hunter`<br>铁匠成员杰玛 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
