@@ -4442,7 +4442,7 @@ example:
 | cidala | 辛妲拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7a/Zoom_3040377000_01.png)<br>所属作品：`granblue fantasy`<br>守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。 | [碧蓝幻想WIKI](https://gbf.huijiwiki.com/wiki/Char/3040377000) |
 | super creek | 超级溪流 | ![](https://moegirl.icu/media/thumb/UPDCH_SuperCreek_00.png/580px-UPDCH_SuperCreek_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
 | cecilia alcott | 塞西莉娅·奥尔卡特 | ![](https://ehgt.org/w/02/081/86562-g3wk0trs.webp)<br>所属作品：`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/塞西莉娅·奥尔卡特) |
-| ling yin huang | 凰铃音 |  | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
+| ling yin huang | 凰铃音 | ![](https://ehgt.org/w/01/904/06832-hvqc6fjr.webp)<br>所属作品：`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
 | laura bodewig | 拉芙拉·布迪威伊 | ![](https://ehgt.org/w/01/873/16719-1nyiwant.webp)<br>所属作品：`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
 | yuu koito | 小糸侑 | `p:yagate kimi ni naru`中的主角。高中1年级，学生会的成员。入学时因为老师的建议去参观了学生会，并在那结识了`c:touko nanami`等人。性格开朗，但也有怕麻烦的一面。<br><br>在最终话中成为大学生并解下了自己高中时代的辫子。和灯子还在继续交往这件事没有给除姐姐以外的家人说明。做出选择很困难这件事上还是没有改变，升学与就职相关的烦恼会与灯子商量。 | [萌娘百科](https://zh.moegirl.org.cn/小糸侑) |
 | touko nanami | 七海灯子 | `p:yagate kimi ni naru`女主角，高中2年级，生日为2月19日。在1年级时就加入学生会工作，成为2年级生后便当选学生会长。是一个人美且文武双全的才女。和`c:yuu koito`虽然是前辈与后辈的关系，但是两人是同年出生，灯子比侑早两个月出生而已，在最终话两人都是16岁。<br><br>最终话中成为大学生离开父母独自生活，参加大学的演剧社团另一方面作为专业的舞台演员活动着。虽然容貌没有变化，但已不再扮演姐姐而生活。 | [萌娘百科](https://zh.moegirl.org.cn/七海灯子) |
