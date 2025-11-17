@@ -3078,7 +3078,7 @@ example:
 | sora | 空 \| 小空 \| 索拉 | ①所属作品：`no game no life`<br>![　](https://img.moegirl.org.cn/common/8/86/Sora-ngnl.png)<br>妹控，是白的哥哥，十八岁，无职，比任何人都渴望现充，即脱离处男。<br><br>②所属作品：`p:blue archive`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_454/h_1187/829/191981/2024/10/8/32023.png)<br>在沙勒一楼的便利店“天使24”兼职的女孩子。<br><br>③所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/6/7/733668.png)<br>隶属超地平线部队的妮姬。 | [萌娘百科](https://zh.moegirl.org.cn/空%28游戏人生%29)<br>[https://www.gamekee.com/nikke/tj/668936.html](https://www.gamekee.com/nikke/tj/668936.html) |
 | chizuru ichinose | 一之濑千鹤（水原千鹤） | 所属作品：`p:kanojo okarishimasu`<br>在「Diamond」事务所担任出租女友，初登场时是新人，平均分是最高分5星，排名首位。<br>![](https://img.moegirl.org.cn/common/8/8e/Chara_zenshin_chizuru.png) | [萌娘百科](https://zh.moegirl.org.cn/水原千鹤) |
 | kazuya kinoshita | 木之下和也 |  |  |
-| sukoya kana | 健屋花那 | 健屋花那 （健屋花那 / Sukoya Kana ）是一名从2019年9月21日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/健屋花那) |
+| sukoya kana | 健屋花那 | 健屋花那 （健屋花那 / Sukoya Kana ）是一名从2019年9月21日在YouTube开始活动的VTuber，所属业界团体`p:nijisanji`的成员。 | [萌娘百科](https://zh.moegirl.org.cn/健屋花那) |
 | makaino ririmu | 魔界之莉莉姆 | ![](https://img.moegirl.org.cn/common/a/ad/Rrm4.jpg)<br>魔界之莉莉姆（日语：魔界ノりりむ Makaino Ririmu）是隶属彩虹社的虚拟Youtuber，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org.cn/魔界之莉莉姆) |
 | emma august | 艾玛★奥加斯特 | 艾玛★奥加斯特 （日文：えま★おうかずと，英文：Emma August） 是虚拟YouTuber业界团体彩虹社所属成员。 | [萌娘百科](https://zh.moegirl.org.cn/艾玛·奥加斯特) |
 | hakase fuyuki | 叶加濑冬雪 | 葉加瀬冬雪（葉加瀬冬雪 / Hakase Fuyuki ）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶加濑冬雪) |
