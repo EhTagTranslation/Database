@@ -7254,6 +7254,7 @@ example:
 | mint adenade | 敏特·亚德涅特 | ![](https://ehgt.org/w/02/079/61195-dlv4qw84.webp)<br>所属作品：`tales of phantasia`<br>敏特·亚德涅特（ミント・アドネード）设定为18岁、身高162cm的治愈系魔法使，出身于封印魔王达奥斯的家族，幼年因母亲身份遭追杀，被克雷斯解救后暗生情愫。 |  |
 | nephenee | 涅菲妮 | 所属作品：`fire emblem path of radiance` |  |
 | exarch yrel | 大主教伊瑞尔 | 所属作品：魔兽世界 |  |
+| rinoa heartilly | 莉诺雅·哈蒂莉 | 所属作品：`final fantasy viii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
