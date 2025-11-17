@@ -7255,6 +7255,7 @@ example:
 | nephenee | 涅菲妮 | 所属作品：`fire emblem path of radiance` |  |
 | exarch yrel | 大主教伊瑞尔 | 所属作品：魔兽世界 |  |
 | rinoa heartilly | 莉诺雅·哈蒂莉 | 所属作品：`final fantasy viii` |  |
+| selphie tilmitt | 瑟尔菲·蒂尔米多 | 所属作品：`final fantasy viii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
