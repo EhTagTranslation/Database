@@ -5847,7 +5847,7 @@ example:
 | athena | 雅典娜 |  |  |
 | hades | 哈迪斯 |  |  |
 | rie kawai | 河合理恵 |  |  |
-| tatenashi sarashiki | 更识楯无 | 更识楯无，弓弦イズル所创作的轻小说《无限斯特拉托斯》及其衍生作品中的角色之一，由斋藤千和配音。<br>更识楯无，2年级学生，喜欢织斑一夏。是第十七代楯无，继承更识家（传统的暗部名门）当主之名。IS学园学生会长（号称学园最强，操纵IS实力远在各女主角之上）。生日是9月19日，星座是处女座。 |  |
+| tatenashi sarashiki | 更识楯无 | ![](https://ehgt.org/w/01/952/46967-6hgtrrd2.webp)<br>所属作品：`infinite stratos`<br>第十七代楯无，继承更识家（传统的暗部名门）当主之名。IS学园学生会长（号称学园最强，操纵IS实力远在各女主角之上）。 |  |
 | gate opener alice | 开门人爱丽丝 | 女皇之门 |  |
 | cure prism | 稜镜天使 |  |  |
 | raana kaname | 要乐奈 | 要乐奈（日语：要（かなめ） 楽奈（らーな））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/要乐奈) |
