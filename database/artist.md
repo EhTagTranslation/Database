@@ -14216,6 +14216,7 @@ example:
 | mijiang | 米浆 |  |  |
 | irodori ramune | 色鳥ラムネ |  |  |
 | lemon tea | れもち |  |  |
+| doaka | ド赤 | 画师Pixiv头像:<br>![](https://i.pixiv.cat/user-profile/img/2019/10/09/03/09/29/16390363_702d8b20a5538db2fbe843d1ad58624f_170.jpg) | [pixiv](https://www.pixiv.net/users/12169708)<br>[X](https://x.com/Dreadyuzintou) |
 
 <!--TEMPLATE:
 |  |  |  |  |
