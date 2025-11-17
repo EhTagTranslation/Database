@@ -7265,6 +7265,7 @@ example:
 | cecilia | 瑟西莉亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/3a/Cecilia.png/revision/latest?cb=20160614032606)<br>所属作品:`p:fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/瑟西莉亞) |
 | gebura | Gebura | ![](https://huiji-public.huijistatic.com/libraryofruina/uploads/2/29/Gebura.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为惩戒部Sephirah，在废墟图书馆为语言层指定司书。<br>前身是特色收尾人殷红迷雾。 | [萌娘百科](https://zh.moegirl.org.cn/Geburah)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Gebura) |
 | binah | Binah | ![](https://img.moegirl.org.cn/common/5/55/Binah_废墟图书馆.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为研发部Sephirah，在废墟图书馆为哲学层指定司书。<br>前身为都市管理机构——首脑中的调律者。 | [萌娘百科](https://zh.moegirl.org.cn/Binah)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Binah) |
+| myo | 缪 | ![](https://img.moegirl.org.cn/common/5/56/缪_废墟图书馆.png)<br>缪（Myo）登场于《`lobotomy corporation`》及其续作《`library of ruina`》，是R公司第4集团军兔子小队的队长。 | [萌娘百科](https://zh.moegirl.org.cn/脑叶公司:Myo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
