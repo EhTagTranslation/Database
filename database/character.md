@@ -7252,6 +7252,7 @@ example:
 | fighter | 格斗家 | 所属作品：`dungeon fighter online` |  |
 | arche klein | 阿尔切·克莱因 | ![](https://static.wikia.nocookie.net/aselia/images/2/26/Arche_Klein_%28ToP%29.png)<br>所属作品：`tales of phantasia` |  |
 | mint adenade | 敏特·亚德涅特 | ![](https://ehgt.org/w/02/079/61195-dlv4qw84.webp)<br>所属作品：`tales of phantasia`<br>敏特·亚德涅特（ミント・アドネード）设定为18岁、身高162cm的治愈系魔法使，出身于封印魔王达奥斯的家族，幼年因母亲身份遭追杀，被克雷斯解救后暗生情愫。 |  |
+| nephenee | 涅菲妮 | 所属作品：`fire emblem path of radiance` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
