@@ -6106,7 +6106,7 @@ example:
 | lilina | 莉莉娜 |  |  |
 | goldmary | 戈尔德玛莉 |  |  |
 | alear | 琉尔 |  |  |
-| micaiah | 米卡娅 |  |  |
+| micaiah | 米卡娅 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/9c/Micaiah_%28FE10_Artwork%29.png/revision/latest?cb=20210502065733)<br>游戏`p:fire emblem radiant dawn`的女主角之一。 | [百度百科](https://baike.baidu.com/item/米卡娅/62115035)<br>[Fandom](https://fireemblem.fandom.com/wiki/Micaiah) |
 | yunaka | 尤娜卡 |  |  |
 | pulchra fellini | 波可娜·费雷尼 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/03/05/15559334/e580002690f8aeb311de4608063235f1_3158522883564202676.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/波可娜·费雷尼) |
 | nina | 贝璐卡 |  |  |
