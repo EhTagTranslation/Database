@@ -14215,6 +14215,7 @@ example:
 | gonster | gonster |  | [pixiv](https://www.pixiv.net/users/114920) |
 | mijiang | 米浆 |  |  |
 | irodori ramune | 色鳥ラムネ |  |  |
+| lemon tea | れもち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
