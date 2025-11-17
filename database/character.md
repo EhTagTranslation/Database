@@ -7267,6 +7267,7 @@ example:
 | binah | Binah | ![](https://img.moegirl.org.cn/common/5/55/Binah_废墟图书馆.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为研发部Sephirah，在废墟图书馆为哲学层指定司书。<br>前身为都市管理机构——首脑中的调律者。 | [萌娘百科](https://zh.moegirl.org.cn/Binah)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Binah) |
 | myo | 缪 | ![](https://img.moegirl.org.cn/common/5/56/缪_废墟图书馆.png)<br>缪（Myo）登场于《`lobotomy corporation`》及其续作《`library of ruina`》，是R公司第4集团军兔子小队的队长。 | [萌娘百科](https://zh.moegirl.org.cn/脑叶公司:Myo) |
 | yuri leclerc | 尤里斯·路克雷 | ![](https://static.wikia.nocookie.net/fireemblem/images/8/8d/3H_Yuri_Artwork.png/revision/latest?cb=20200118041454)<br>尤里斯·路克雷（日语：ユーリス ルクレール，英语：Yuri Leclerc）<br>所属作品：《`fire emblem three houses`》<br><br>灰狼学级级长，原本是一名士官学校的学生，但因某种原因被士官学校开除，随后便移居至阿比斯。 | [萌娘百科](https://zh.moegirl.org.cn/尤里斯·路克雷) |
+| caspar von bergliez | 卡斯帕尔·冯·贝尔谷里斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/a1/Caspar_Heroes.png/revision/latest?cb=20241015044847)<br>卡斯帕尔·冯·贝尔谷里斯（日语：カスパル フォン ベルグリーズ，英语：Caspar von Bergliez）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/卡斯帕尔·冯·贝尔谷里斯)<br>[Fandom](https://fireemblem.fandom.com/wiki/Caspar) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
