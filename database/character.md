@@ -7256,6 +7256,7 @@ example:
 | exarch yrel | 大主教伊瑞尔 | 所属作品：魔兽世界 |  |
 | rinoa heartilly | 莉诺雅·哈蒂莉 | 所属作品：`final fantasy viii` |  |
 | selphie tilmitt | 瑟尔菲·蒂尔米多 | 所属作品：`final fantasy viii` |  |
+| celica | 赛莉卡 | ![](https://static.wikia.nocookie.net/nintendo/images/d/d8/FEE_Celica.png/revision/latest?cb=20171115181327&path-prefix=en)<br>所属作品:`p:fire emblem gaiden` | [Fandom](https://fireemblem.fandom.com/zh/wiki/賽莉卡)<br>[Fandom (英语)](https://nintendo.fandom.com/wiki/Celica_%28Fire_Emblem%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
