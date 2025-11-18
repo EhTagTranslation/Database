@@ -7312,6 +7312,7 @@ example:
 | yamato mikoto | 大和命 | ![](https://ehgt.org/w/02/080/13286-r2jqbbjb.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | mei aihara | 蓝原芽衣 |  |  |
 | yuzu aihara | 蓝原柚子 |  |  |
+| kana higa | 比嘉夏菜 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
