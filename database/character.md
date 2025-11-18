@@ -7328,6 +7328,7 @@ example:
 | riza hawkeye | 莉莎·霍克艾 | 所属作品：`fullmetal alchemist` |  |
 | louise halevy | 路易丝·哈勒维 | 所属作品：`gundam 00`<br>居住于日本的经济特区的海外留学生，沙慈的女朋友。 |  |
 | zessica wong | 婕希卡·沃恩 | ![](https://ehgt.org/w/02/049/26502-hf73n9r6.webp)<br>所属作品：`aquarion evol`<br>ゼシカ·ウォン |  |
+| mix | 蜜珂丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/2d/14724_crt_NgqP1.jpg)<br>所属作品：`aquarion evol`<br>担任学生会长及班长职务，成绩优异但性格严谨，因完美主义倾向常忽视他人感受。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
