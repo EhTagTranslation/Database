@@ -7277,6 +7277,7 @@ example:
 | nana iida | 饭田奈奈 | ![](https://ehgt.org/w/01/973/25013-6y23oged.webp)<br>所属作品：`rail wars` |  |
 | medusa gorgon | 美杜莎·戈耳工 | ![](https://ehgt.org/w/02/056/10391-azyzumwt.webp)<br>所属作品：`soul eater`<br>日语:メデユーサ・ゴーゴン |  |
 | nelliel tu odelschwanck | 妮莉艾露·杜·欧德修凡克 | ![](https://ehgt.org/w/01/914/79189-0200ut7j.webp)<br>所属作品：`bleach` |  |
+| terra branford | 蒂娜 | ![](https://ehgt.org/w/01/623/09322-s9q0gucl.webp)<br>所属作品：`final fantasy vi`<br>幻兽与人类的混血少女，拥有强大魔导之力。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
