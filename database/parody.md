@@ -2359,7 +2359,7 @@ example:
 | one room hiatari futsuu tenshi-tsuki | 单人房、日照一般、附天使。 |  | [维基百科](https://zh.wikipedia.org/wiki/單人房、日照一般、附天使。) [萌娘百科](https://zh.moegirl.org.cn/单人房、日照一般、附天使。) |
 | shukufuku no campanella | 祝福的钟声 |  |  |
 | wonderland wars | Wonderland Wars |  |  |
-| isekai meikyuu de harem o | 异世界迷宫里的后宫生活 |  | [维基百科](https://zh.wikipedia.org/wiki/異世界迷宮裡的後宮生活) [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫里的后宫生活) |
+| isekai meikyuu de harem o | 异世界迷宫里的后宫生活 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2870367696.webp) | [维基百科](https://zh.wikipedia.org/wiki/異世界迷宮裡的後宮生活) [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫里的后宫生活) |
 | seiken gakuin no maken tsukai | 圣剑学院的魔剑使 |  | [维基百科](https://zh.wikipedia.org/wiki/聖劍學院的魔劍使) [萌娘百科](https://zh.moegirl.org.cn/圣剑学院的魔剑使) |
 | kaijuu 8-gou | 怪兽8号 |  | [维基百科](https://zh.wikipedia.org/wiki/怪獸8號) [萌娘百科](https://zh.moegirl.org.cn/怪兽8号) |
 | akudama drive | 全员恶玉 |  | [维基百科](https://zh.wikipedia.org/wiki/全員惡玉) [萌娘百科](https://zh.moegirl.org.cn/恶棍DRIVE) |
