@@ -6070,7 +6070,7 @@ example:
 | yae amagami | ‌甘神夜重 |  |  |
 | yuna amagami | 甘神夕奈 |  |  |
 | asahi amagami | ‌甘神朝姬 |  |  |
-| mirajane strauss | 米拉杰·斯特劳斯 |  |  |
+| mirajane strauss | 米拉杰·斯特劳斯 | ![](https://ehgt.org/w/02/092/27459-jeqjd9in.webp)<br>所属作品：`fairy tail` |  |
 | nanashi mumei | 七诗无铭 |  |  |
 | tetsunosuke ichimura | 市村铁之助 | 市村铁之助（1854年—1873年？）为美浓大垣藩出身的新选组队士。 | [维基百科](https://zh.wikipedia.org/wiki/市村鐵之助) |
 | seliph | 神威 | 《火焰纹章》系列男角色 |  |
