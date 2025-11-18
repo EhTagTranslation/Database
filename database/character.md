@@ -7273,6 +7273,7 @@ example:
 | casca | 卡思嘉 | ![](https://ehgt.org/w/02/083/53346-cpbk5ydb.webp)<br>所属作品：`berserk`<br>日文名：‘キャスカ’ |  |
 | flannery | 亚莎 | ![](https://ehgt.org/w/02/022/76959-7unoj4y0.webp)<br>所属作品：`pokemon` |  |
 | hela odinsdottir | 海拉 | 阿斯加德的死亡女神 |  |
+| haruka koumi | 小海遥 | ![](https://ehgt.org/w/01/644/61376-frp18bqn.webp)<br>所属作品：`rail wars` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
