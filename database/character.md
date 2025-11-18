@@ -7306,6 +7306,7 @@ example:
 | penny polendina | 潘妮·波伦迪娜 | 所属作品：RWBY |  |
 | rosa ushiromiya | 右代宫楼座 | 所属作品：`umineko no naku koro ni` |  |
 | oyuki | 阿雪 | ![](https://ehgt.org/w/01/973/98959-1n4thb8e.webp)<br>所属作品：`urusei yatsura`<br>日语:おユキ |  |
+| monet | 莫奈 | ![](https://ehgt.org/w/01/914/78729-rx90n50r.webp)<br>所属作品：`one piece`<br>唐吉诃德·多弗朗明哥的手下，对多弗朗明哥忠心耿耿。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
