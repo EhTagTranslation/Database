@@ -2498,7 +2498,7 @@ example:
 | vert | 贝露 | ![图](https://ehgt.org/71/b3/71b37c69c3a08cebd385c7efa6b3c68ae91a2977-2735349-4877-6950-jpg_l.jpg) |  |
 | peashy | 皮榭 | 澄黄之心<br>![图](https://ehgt.org/90/7d/907d42b55bdf4edb1ad119448f9d60307119ff71-2270611-4877-6950-jpg_l.jpg)![图](https://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) |  |
 | plutia | 普露露特 | 虹色之心<br>![图](https://ehgt.org/db/d1/dbd10cac8c052ac23af0436c23d3553e71f9405b-2622564-4877-6950-jpg_l.jpg)![图](https://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) |  |
-| uzume | 天王星涡芽 | 橙色之心<br>![图](https://ehgt.org/df/76/df76c394f6eae7fb6837e0969e8f699ad9e55a59-2511404-4877-6950-jpg_l.jpg)![图](https://ehgt.org/16/ed/16ed4149b9f41fe736b2738346a33ceffa5de688-2131106-4877-6950-jpg_l.jpg) |  |
+| uzume | 钿女 | ![](https://ehgt.org/w/01/953/24622-56o6ysoq.webp)<br>所属作品：`sekirei`<br>日语名：うずめ |  |
 |  | 超次元游戏海王星 > 女神候补生 |  |  |
 | nepgear | 涅普姬雅 | ![图](https://ehgt.org/b1/79/b179ff8cecdfb973d37665d39c061429f9ed216b-2357890-4877-6950-jpg_l.jpg) |  |
 | uni | 优尼 | ![图](https://ehgt.org/b4/4c/b44c0043e24ee752dda5744771becbb2fd81b7c5-2182503-4877-6950-jpg_l.jpg) |  |
