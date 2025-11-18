@@ -7322,6 +7322,7 @@ example:
 | xayah | 霞 | 所属作品：英雄联盟<br>逆羽 |  |
 | elisabeth blanctorche | 伊丽莎白·布兰克托什 | 所属作品：`king of fighters`<br>遥远彼之地篇的女主角，以光拳术和严肃性格为特点。 |  |
 | ritsuka tachibana | 立华律香 |  |  |
+| lindo tachibana | 立华林多 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
