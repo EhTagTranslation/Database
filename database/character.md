@@ -2550,7 +2550,7 @@ example:
 | usada pekora | 兔田佩克拉 | 兔田佩克拉 （ 兎田ぺこら / Usada Pekora）是一名从2019年7月17日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![食材](https://img.moegirl.org.cn/common/a/ad/Usadapekora_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兔田佩克拉) |
 | uruha rushia | 润羽露西娅 | 润羽露西娅 （ 潤羽るしあ / Uruha Rushia）是一名从2019年7月18日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/2/23/Uruharushia_idol.jpg) | [萌娘百科](https://zh.moegirl.org.cn/润羽露西娅) |
 | shiranui flare | 不知火芙蕾雅 |  |  |
-| shirogane noel | 白银诺艾尔 |  |  |
+| shirogane noel | 白银诺艾尔 | 所属社团：Hololive |  |
 | houshou marine | 宝钟玛琳 |  |  |
 |  |  | 4期 |  |
 | amane kanata | 天音彼方 | 天音彼方 （ 天音かなた / Amane Kanata）是一名从2019年12月27日在YouTube开始活动的VTuber，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/e/ec/AmaneKanata_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天音彼方) |
