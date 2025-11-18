@@ -13376,6 +13376,7 @@ example:
 | yuujintou | 宥人島 | 画师`a:doaka`使用的同人社团名义 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG30793.html) |
 | saimonke | 西門家 | 西門家 |  |
 | nikuniku anmitsutei | 肉々餡蜜亭 |  |  |
+| maa kuaru-ke | まーくある家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
