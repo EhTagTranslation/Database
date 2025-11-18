@@ -5179,7 +5179,7 @@ example:
 | penance | 斥罪 | ![](https://patchwiki.biligame.com/images/arknights/d/d7/imdyu21qu3no8h52b3gzuidyd3vs9sm.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/斥罪) |
 | kisaki ryuuge | 龙华妃咲 | 所属作品：`p:blue archive`<br>山海经高级中学所属，掌管学园所有事务的学生会「玄龙门」的会长，或称门主。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html)<br>[萌娘百科](https://zh.moegirl.org.cn/龙华妃咲) |
 | takane miyoshi | 三善贵音 | 所属作品：`p:blue archive`<br>红冬联邦学园出版部的部员。负责给红冬事务局机关杂志《红熊》撰写社论，自称阅读过所有红冬联邦学园出版过的刊物。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png) | [百度百科](https://baike.baidu.com/item/三善贵音/65687019) |
-| kiriko kamori | 家守雾子 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/家守雾子) |
+| kiriko kamori | 家守雾子 | ![](https://img.moegirl.org.cn/common/8/8a/雾子2.png)<br>所属作品：`overwatch` | [萌娘百科](https://zh.moegirl.org.cn/家守雾子) |
 | genji | 源氏 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/岛田源氏) |
 | ichigo kurosaki | 黑崎一护 |  |  |
 | retsu unohana | 卯之花烈 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/卯之花烈) |
