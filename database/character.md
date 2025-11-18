@@ -7279,6 +7279,7 @@ example:
 | nelliel tu odelschwanck | 妮莉艾露·杜·欧德修凡克 | ![](https://ehgt.org/w/01/914/79189-0200ut7j.webp)<br>所属作品：`bleach` |  |
 | terra branford | 蒂娜 | ![](https://ehgt.org/w/01/623/09322-s9q0gucl.webp)<br>所属作品：`final fantasy vi`<br>幻兽与人类的混血少女，拥有强大魔导之力。 |  |
 | mai fuyuki | 冬木真依 | 所属作品：`dosanko gal wa namaramenkoi`<br>冬木美波的妈妈 |  |
+| eiselin hulkenberg | 艾泽琳·霍肯伯格 | ![](https://ehgt.org/w/02/086/68493-knzfnkhr.webp)<br>所属作品：`metaphor refantazio`<br>卢桑特族女骑士，曾担任王族近卫，与格莱亚斯共同守护王子。王室宣布王子死讯后仍坚信其存活，独自踏上寻访之旅，因身份敏感长期以家族姓氏自称。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
