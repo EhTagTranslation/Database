@@ -7290,6 +7290,7 @@ example:
 | futayo honda | 本田·二代 | ![](https://ehgt.org/w/00/510/02832-2cewgrbs.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
 | ophiuchus shaina | 莎尔娜 | ![](https://zoycbewnml.hath.network/om/183994315/b1293c00788cf59c30acea25176cc0d2600b28e4-1826592-998-1459-png/c918b6ac8316b2609e2fa1ce0a131e3315fd3851-89362-800-1170-wbp/800/f8qtsw3saddqux1tixs/1261.webp)<br>所属作品：`saint seiya`<br>日语名：シャイナ |  |
 | matsu | 松 | ![](https://sunvxqrqcj.hath.network/om/183988209/3265f6537debfda3e5491684389a49a204b3d356-1072222-832-1216-png/657ac83e985b4286773fdbfc0b91c975fe8f83b5-65574-800-1169-wbp/800/c2cghjk1gnv33s1tixu/1354.webp)<br>所属作品：`sekirei` |  |
+| tsukiumi | 月海 | ![](https://ehgt.org/w/02/008/17941-ntvg6oo7.webp)<br>所属作品：`sekirei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
