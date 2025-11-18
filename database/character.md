@@ -7282,6 +7282,7 @@ example:
 | eiselin hulkenberg | 艾泽琳·霍肯伯格 | ![](https://ehgt.org/w/02/086/68493-knzfnkhr.webp)<br>所属作品：`metaphor refantazio`<br>卢桑特族女骑士，曾担任王族近卫，与格莱亚斯共同守护王子。王室宣布王子死讯后仍坚信其存活，独自踏上寻访之旅，因身份敏感长期以家族姓氏自称。 |  |
 | satsuki kitaoji | 北大路五月 | ![](https://ehgt.org/w/02/111/13208-mdv94lxl.webp)<br>所属作品：`ichigo 100` |  |
 | idunn | 伊冬 | 所属作品：`fire emblem the binding blade`<br>日语名：イドゥン |  |
+| qian renxue | 千仞雪 | ![](https://ehgt.org/w/01/575/08223-jtkmuku2.webp)<br>所属作品：斗罗大陆 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
