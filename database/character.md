@@ -7310,6 +7310,7 @@ example:
 | reiko hinomoto | 日之本零子 | 所属作品：`rumble roses` |  |
 | u-1196 | 白细胞1196 | ![](https://ehgt.org/w/01/914/82398-ewtyhmkr.webp)<br>所属作品：`hataraku saibou` |  |
 | yamato mikoto | 大和命 | ![](https://ehgt.org/w/02/080/13286-r2jqbbjb.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
+| mei aihara | 蓝原芽衣 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
