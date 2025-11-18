@@ -2601,6 +2601,7 @@ example:
 | metaphor refantazio | 暗喻幻想 | 由Atlus旗下Studio Zero开发的日式角色扮演游戏 |  |
 | metal slug | 合金弹头 |  |  |
 | okinawa de suki ni natta ko ga hougen sugite tsura sugiru | 在冲绳喜欢上的女孩方言讲得太过令人困扰 |  |  |
+| sasayaku you ni koi wo utau | 恋语轻唱 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
