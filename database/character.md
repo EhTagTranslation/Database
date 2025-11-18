@@ -7313,6 +7313,7 @@ example:
 | mei aihara | 蓝原芽衣 |  |  |
 | yuzu aihara | 蓝原柚子 |  |  |
 | kana higa | 比嘉夏菜 |  |  |
+| kojou akatsuki | 晓古城 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
