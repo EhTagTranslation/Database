@@ -582,7 +582,7 @@ example:
 | fushigiboshi no futagohime | 不可思议星球的☆双胞胎公主 |  |  |
 | aquarion | 创圣的亚库艾里翁 |  |  |
 | aquarion logos | 创圣的亚库艾里翁LOGOS |  |  |
-| aquarion evol | 创圣的亚库艾里翁EVOL |  |  |
+| aquarion evol | 创圣的大天使EVOL | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2226373731.webp) |  |
 | welcome to the n.h.k. | 欢迎加入NHK！ |  |  |
 | sakurako-san no ashimoto ni wa shitai ga umatteiru | 樱子小姐的脚下埋着尸体 |  |  |
 | shimoneta to iu gainen ga sonzai shinai taikutsu na sekai | 下流梗不存在的灰暗世界 | 《下流梗不存在的灰暗世界》（日语：下ネタという概念が存在しない退屈な世界）又称没有黄段子存在的无聊世界被戒色吧控制的可怕世界世界的错。世界：怪我咯？是由日本轻小说家赤城大空著作、霜月八日插画的轻小说作品，曾荣获第六届小学馆轻小说大赏优秀赏。改编漫画作者为柚木N’。由节操社改编的动画于2015年7月开始放送。 | [萌娘百科](https://zh.moegirl.org.cn/下流梗不存在的灰暗世界) |
