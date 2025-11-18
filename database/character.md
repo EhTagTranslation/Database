@@ -4491,7 +4491,7 @@ example:
 | kafka | 卡芙卡 \| 卡夫卡 | ①卡芙卡是米哈游制作的游戏《`p:honkai star rail`》及其衍生作品的登场角色。<br>![](https://patchwiki.biligame.com/images/sr/thumb/4/40/ohzhieftz25z05ftzetqds1km8cph4x.png/1050px-卡芙卡立绘.png)<br><br>②卡夫卡是上海鹰角网络科技有限公司制作的游戏《`p:arknights`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/mrfz/images/2/20/Kafka.png) | [卡芙卡](https://zh.moegirl.org.cn/卡芙卡) [卡夫卡](https://prts.wiki/w/卡夫卡) |
 | ookanehira | 大包平 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大包平) |
 | uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
-| sovetskaya rossiya | 苏维埃罗西亚 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
+| sovetskaya rossiya | 苏维埃罗西亚 | ![](https://i2.hdslb.com/bfs/new_dyn/997cde8d66f7cc9c8cd9afb5ad421001262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/af316e5520eeef424a2c414e4afa0303262400697.png)<br>所属作品：`azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
 | faruzan | 珐露珊 | ![](https://patchwiki.biligame.com/images/ys/4/4c/2tnw49w4ap9qny2rvmyz5maazxpy603.gif)<br>所属作品:`p:genshin impact`<br>来自「一百年前」的学者，喜欢以前辈自居，对各类古老文字与古典机关都颇有研究。 | [萌娘百科](https://zh.moegirl.org.cn/珐露珊) |
 | plana | 普拉娜 | 所属作品: `p:blue archive`<br>普雷纳帕特斯所持的什亭之箱的操作系统OS。<br>在最终篇第4章『普雷纳帕特斯最终决战』中，进入了老师的什亭之箱，与阿罗娜一起创造了奇迹，让老师平安生还。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_646/h_1230/829/191981/2024/10/8/655010.png) |  |
 | rio tsukatsuki | 调月莉音 | 所属作品：`p:blue archive`<br>千年科学学园所属，学生会「研讨会」的会长。<br>![](https://img.moegirl.org.cn/common/1/11/BA_Rio.png) | [萌娘百科](https://zh.moegirl.org.cn/调月莉音) |
