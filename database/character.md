@@ -849,7 +849,7 @@ example:
 | yuika mitsumine | 三峰结华 |  |  |
 | sakuya shirase | 白濑咲耶 |  |  |
 | amana osaki | 大崎甘奈 | 大崎甘奈（日语：大崎（おおさき） 甘奈（あまな））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的乙女双子妹偶像。<br>![](https://img.moegirl.org.cn/common/thumb/b/b1/OSAKI_AMANA3.png/800px-OSAKI_AMANA3.png) | [萌娘百科](https://zh.moegirl.org.cn/大崎甘奈) |
-| chiyuki kuwayama | 桑山千雪 |  |  |
+| chiyuki kuwayama | 桑山千雪 | ![](https://img.moegirl.org.cn/common/7/77/DXgIZVEVAAECdgL.png)<br>![](https://img.moegirl.org.cn/common/f/f6/ChiyukiFullR.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/桑山千雪) |
 | tenka osaki | 大崎甜花 | 大崎甜花（日语：大崎（おおさき） 甜花（てんか））是偶像大师系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的干物女双子姐偶像。<br>![](https://img.moegirl.org.cn/common/f/f3/DXgI3C5VoAE-_YF.png) | [萌娘百科](https://zh.moegirl.org.cn/大崎甜花) |
 | kaho komiya | 小宫果穂 |  |  |
 | chiyoko sonoda | 园田智代子 | 所属作品: `p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/园田智代子) |
