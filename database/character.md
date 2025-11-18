@@ -3860,7 +3860,7 @@ example:
 | anna yamada | 山田杏奈 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | kyoutarou ichikawa | 市川京太郎 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | pramanix | 初雪 (明日方舟) | ![](https://patchwiki.biligame.com/images/arknights/7/72/f6cnedmrg2wji26n88u8cyx4hmmbs73.png)<br>所属作品`p:arknights` | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
-| medaka kurokami | 黑神目泷 |  |  |
+| medaka kurokami | 黑神目泷 | ![](https://ehgt.org/w/01/916/21225-v4fhynyr.webp)<br>所属作品：`medaka box` |  |
 | miss crane | 鹤小姐 |  |  |
 | mordred | 莫德雷德 |  |  |
 | mikaela hyakuya | 百夜米迦尔 | 所属作品 `p:owari no seraph` | [萌娘百科](https://zh.moegirl.org.cn/百夜米迦尔) [Fandom](https://owarinoseraph.fandom.com/wiki/Mikaela_Hyakuya) |
