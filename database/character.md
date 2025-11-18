@@ -7283,6 +7283,7 @@ example:
 | satsuki kitaoji | 北大路五月 | ![](https://ehgt.org/w/02/111/13208-mdv94lxl.webp)<br>所属作品：`ichigo 100` |  |
 | idunn | 伊冬 | 所属作品：`fire emblem the binding blade`<br>日语名：イドゥン |  |
 | qian renxue | 千仞雪 | ![](https://ehgt.org/w/01/575/08223-jtkmuku2.webp)<br>所属作品：斗罗大陆 |  |
+| satellizer el bridget | 莎堤莱萨·艾尔·布丽姬 | ![](https://ehgt.org/w/01/720/40964-4n7vz91m.webp)<br>所属作品：`freezing` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
