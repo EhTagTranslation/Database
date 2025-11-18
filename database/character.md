@@ -7301,6 +7301,7 @@ example:
 | feldt grace | 菲露特·古蕾斯 | ![](https://ehgt.org/w/02/081/90347-alkpwljo.webp)<br>所属作品：`gundam 00` |  |
 | roberta | 罗贝尔特 | ![](https://ehgt.org/w/01/967/21666-6l2rwg5b.webp)<br>所属作品：`black lagoon` |  |
 | tiffania westwood | 蒂法妮娅 | ![](https://ehgt.org/w/01/959/88766-tjd2v7xj.webp)<br>所属作品：`zero no tsukaima`<br>日语名：ティファニア |  |
+| alexstrasza | 阿莱克斯塔萨 | 所属作品：魔兽世界<br>红龙女王 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
