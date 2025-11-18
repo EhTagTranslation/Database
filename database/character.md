@@ -7330,6 +7330,7 @@ example:
 | zessica wong | 婕希卡·沃恩 | ![](https://ehgt.org/w/02/049/26502-hf73n9r6.webp)<br>所属作品：`aquarion evol`<br>ゼシカ·ウォン |  |
 | mix | 蜜珂丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/2d/14724_crt_NgqP1.jpg)<br>所属作品：`aquarion evol`<br>担任学生会长及班长职务，成绩优异但性格严谨，因完美主义倾向常忽视他人感受。 |  |
 | shionne vymer imeris daymore | 希侬·埃梅利斯 | ![](https://img.moegirl.org.cn/common/1/12/TALES_shionne.png)<br>所属作品:`p:tales of arise` | [萌娘百科](https://zh.moegirl.org.cn/希侬·埃梅利斯) |
+| yuiri haba | 羽波唯里 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
