@@ -7314,6 +7314,7 @@ example:
 | yuzu aihara | 蓝原柚子 |  |  |
 | kana higa | 比嘉夏菜 |  |  |
 | kojou akatsuki | 晓古城 |  |  |
+| yuyu shirai | 白井梦结 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
