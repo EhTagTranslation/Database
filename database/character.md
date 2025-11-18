@@ -632,7 +632,7 @@ example:
 | kurumi ohnuma | 大沼胡桃 |  |  |
 | shiki ichinose | 一之濑志希 |  |  |
 | yuuki otokura | 乙仓悠贵 |  |  |
-| rin shibuya | 涩谷凛 |  |  |
+| rin shibuya | 涩谷凛 | ![](https://img.moegirl.org.cn/common/1/11/シンデレラガール_渋谷凛.jpg)<br>![](https://img.moegirl.org.cn/common/5/56/Rin_Cinderella_SR%2B.jpg)<br>涩谷凛（日语：渋谷 凛（しぶや りん））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/涩谷凛) |
 |  | 黑川千秋 |  |  |
 | sarina matsumoto | 松本沙理奈 |  |  |
 |  | 桐野绫 |  |  |
