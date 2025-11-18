@@ -7295,6 +7295,7 @@ example:
 | adele balfette | 阿黛尔·巴尔乌弗特 | 所属作品：`kyoukai senjou no horizon`<br>日语名：アデーレ・バルフェット |  |
 | horizon ariadust | 赫莱森·阿利亚达斯特 | ![](https://ehgt.org/f5/c9/f5c9947f366d11b3659a95f4910ed0120c5f63db-314582-1133-1600-jpg_250.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | yoshiyasu satomi | 里见・义康 | 所属作品：`kyoukai senjou no horizon` |  |
+| tenzou crossunite | 点藏·库罗斯优奈特 | ![](https://static.wikia.nocookie.net/genesis-horizon/images/5/58/Tenzou_profile.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
