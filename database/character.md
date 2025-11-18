@@ -7270,6 +7270,7 @@ example:
 | caspar von bergliez | 卡斯帕尔·冯·贝尔谷里斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/a1/Caspar_Heroes.png/revision/latest?cb=20241015044847)<br>卡斯帕尔·冯·贝尔谷里斯（日语：カスパル フォン ベルグリーズ，英语：Caspar von Bergliez）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/卡斯帕尔·冯·贝尔谷里斯)<br>[Fandom](https://fireemblem.fandom.com/wiki/Caspar) |
 | dedue molinaro | 杜笃·莫利纳洛 | ![](https://static.wikia.nocookie.net/xenonpersonalproject/images/d/d5/B21-004R_artwork.jpg/revision/latest?cb=20250925154922)<br>杜笃·莫利纳洛（日语：ドゥドゥー モリナロ，英语：Dedue Molinaro）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/杜笃·莫利纳洛)<br>[https://fireemblemwiki.org/wiki/Dedue](https://fireemblemwiki.org/wiki/Dedue) |
 | sylvain jose gautier | 希尔凡·乔瑟·戈迪耶 | ![](https://static.wikia.nocookie.net/nintendo/images/a/a3/FEH_Sylvain.png/revision/latest?cb=20250127123313&path-prefix=en)<br>希尔凡·乔瑟·戈迪耶（日语：シルヴァン ジョゼ ゴーティエ，英语：Sylvain Jose Gautier）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/希尔凡·乔瑟·戈迪耶)<br>[https://fireemblemwiki.org/wiki/Sylvain](https://fireemblemwiki.org/wiki/Sylvain) |
+| casca | 卡思嘉 | ![](https://ehgt.org/w/02/083/53346-cpbk5ydb.webp)<br>所属作品：`berserk`<br>日文名：‘キャスカ’ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
