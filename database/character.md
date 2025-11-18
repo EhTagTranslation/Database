@@ -7318,7 +7318,7 @@ example:
 | klaudia valentz | 科洛蒂娅·巴兰茨 |  |  |
 | ruri tanigawa | 谷川琉璃 |  |  |
 | akane nonohara | 野野原茜 |  |  |
-| qiyana | 琪亚娜 | 所属作品：英雄联盟<br>元素女皇 |  |
+| qiyana | 奇亚娜 | 所属作品：英雄联盟<br>元素女皇 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
