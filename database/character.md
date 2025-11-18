@@ -2667,7 +2667,7 @@ example:
 | reika shimohira | 下平玲花 |  |  |
 | katina tarask | 卡琪娜·塔拉斯克 |  |  |
 | leona garstein | 雷欧娜·嘉施泰因 |  |  |
-| poison | 毒药 |  |  |
+| poison | 毒药 | ![](https://ehgt.org/w/02/018/80075-7hooe5j6.webp)<br>所属作品：`final fight` |  |
 | jessica albert | 杰西卡·阿尔芭 | 《勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主》中的角色 |  |
 | jigoku no fubuki | 地狱的吹雪 |  |  |
 | senritsu no tatsumaki | 战栗的龙卷 | 战栗的龙卷（英语：senritsu no tatsumaki）所属作品:`p:one punch man`<br>是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的登场角色。<br>![](https://img.moegirl.org.cn/common/6/61/Tatsumaki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/战栗的龙卷) |
