@@ -7325,6 +7325,7 @@ example:
 | lindo tachibana | 立华林多 |  |  |
 | nana kozuki | 香月奈奈 | 所属作品：`god eater` |  |
 | ciel alencon | 雪儿·阿朗松 | ![](https://ehgt.org/w/01/738/73234-g5588cm9.webp)<br>所属作品：`god eater` |  |
+| riza hawkeye | 莉莎·霍克艾 | 所属作品：`fullmetal alchemist` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
