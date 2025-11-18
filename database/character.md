@@ -7327,6 +7327,7 @@ example:
 | ciel alencon | 雪儿·阿朗松 | ![](https://ehgt.org/w/01/738/73234-g5588cm9.webp)<br>所属作品：`god eater` |  |
 | riza hawkeye | 莉莎·霍克艾 | 所属作品：`fullmetal alchemist` |  |
 | louise halevy | 路易丝·哈勒维 | 所属作品：`gundam 00`<br>居住于日本的经济特区的海外留学生，沙慈的女朋友。 |  |
+| zessica wong | 婕希卡·沃恩 | ![](https://ehgt.org/w/02/049/26502-hf73n9r6.webp)<br>所属作品：`aquarion evol`<br>ゼシカ·ウォン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
