@@ -1184,7 +1184,7 @@ example:
 | freezing | 零度战姬 | 《零度战姬》，又译《结界女王》（日语：フリージング），是韩国作家林达永原作、韩国漫画家金光铉担任作画的日本漫画，在Kill Time Communication（KTC）的漫画杂志《Comic Valkyrie》上进行连载，并改编成电视动画。 | [萌娘百科](https://zh.moegirl.org.cn/零度战姬) |
 | omamori himari | 守护猫娘绯鞠 | 《守护猫娘绯鞠》(おまもりひまり，Omamori Himari)是日本漫画家的良米兰的漫画作品，并有同名动画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/守護貓娘緋鞠) [萌娘百科](https://zh.moegirl.org.cn/守护猫娘绯鞠) (\*\*) |
 | shinkyoku soukai polyphonica | 神曲奏界Polyphonica | 《神曲奏界》（日语：神曲奏界ポリフォニカ）是以但丁的《神曲》为架空背景所衍生出的电子小说、轻小说、动画及漫画。 | [维基百科](https://zh.wikipedia.org/wiki/神曲奏界) (\*) |
-| tenjou tenge | 天上天下 | 《天上天下》是日本漫画家大暮维人的代表作品，此作品是大暮维人从成人漫画转型至青年漫画的首部作品，由于设定复杂而丰富，人物形象吸引，因而备受欢迎。于《Ultra Jump》1998年第11号至2010年第9号连载，2004年动画化，在朝日电视台播放，香港有线娱乐台亦于2005年播放，台湾则在东森戏剧台播放。 | [维基百科](https://zh.wikipedia.org/wiki/天上天下) (\*) |
+| tenjou tenge | 天上天下 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549385543.webp)<br>《天上天下》是日本漫画家大暮维人的代表作品。 | [维基百科](https://zh.wikipedia.org/wiki/天上天下) (\*) |
 | unbalance x unbalance | 萌道鲜师 | 《萌道鲜师（언밸런스×2）》是由韩国的林达永原作、李秀显作画的漫画作品。 | [维基百科（英语）](https://en.wikipedia.org/wiki/Unbalance_Unbalance) |
 | ange vierge | 圣洁天使 | 《圣洁天使》（日语：アンジュ・ヴィエルジュ，法语：Ange Vierge），是富士见书房开发再由Media Factory在2013年10月4日发售的交换卡片游戏，台湾元美国际映像代理译为“圣洁天使”，大陆天闻角川则采法文“Ange Vierge”。改编同名电视动画于2016年7月播放。 | [维基百科](https://zh.wikipedia.org/wiki/聖潔天使) (\*) |
 | blend s | 调教咖啡厅 | 《调教咖啡厅》（日语：ブレンド・S）是日本漫画家中山幸的四格漫画作品，于芳文社杂志《Manga Time Kirara Carat》2014年3月号开始连载。已出版4册，台湾尖端出版已出版3册。2016年12月27日在《Manga Time Kirara Carat》宣布推出电视动画，2017年10月7日起于东京都会电视台、AT-X、日本BS放送等电视台播出。 | [维基百科](https://zh.wikipedia.org/wiki/調教咖啡廳) (\*) |
