@@ -7287,6 +7287,7 @@ example:
 | ruri kurosaki | 黑咲琉璃 | ![](https://ehgt.org/w/01/845/42953-844qx6cd.webp)<br>所属作品：`yu-gi-oh arc-v` |  |
 | fiolina germi | 菲欧莉娜·吉尔米 | ![](https://ehgt.org/w/01/336/72217-efs1sxu9.webp)<br>所属作品：`metal slug`<br>《合金弹头》系列的正规军情报部Sparrows上级曹长，初次登场于《合金弹头2》。 |  |
 | alina gray | 阿莉娜·格雷 | 所属作品：`puella magi madoka magica side story magia record` |  |
+| futayo honda | 本田·二代 | ![](https://ehgt.org/w/00/510/02832-2cewgrbs.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
