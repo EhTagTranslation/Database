@@ -2598,6 +2598,7 @@ example:
 | star ocean 4 | 星之海洋4 | 《星之海洋4：最后的希望》是星之海洋系列的第四部作品，以宇宙探索和角色互动为核心，玩家将通过任务推进剧情并影响故事走向‌。 |  |
 | lobotomy corporation | 脑叶公司 | ![](http://img4.yxdimg.com/2023/11/29/ce57d152-ffe5-4143-9826-742917ac9473.jpg) |  |
 | the mighty thor | 雷神索尔 |  |  |
+| metaphor refantazio | 暗喻幻想 | 由Atlus旗下Studio Zero开发的日式角色扮演游戏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
