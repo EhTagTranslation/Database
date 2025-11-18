@@ -7320,6 +7320,7 @@ example:
 | akane nonohara | 野野原茜 |  |  |
 | qiyana | 奇亚娜 | 所属作品：英雄联盟<br>元素女皇 |  |
 | xayah | 霞 | 所属作品：英雄联盟<br>逆羽 |  |
+| elisabeth blanctorche | 伊丽莎白·布兰克托什 | 所属作品：`king of fighters`<br>遥远彼之地篇的女主角，以光拳术和严肃性格为特点。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
