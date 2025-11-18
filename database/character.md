@@ -858,7 +858,7 @@ example:
 | natsuha arisugawa | 有栖川夏叶 |  |  |
 |  | 天井努 |  |  |
 | hazuki nanakusa | 七草叶月 | ![](https://img.moegirl.org.cn/common/0/00/Profile_hazuki.png)<br>所属作品：`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/七草叶月) |
-| nichika nanakusa | 七草日花 |  |  |
+| nichika nanakusa | 七草日花 | ![](https://img.moegirl.org.cn/common/c/c5/Chara_nichika.png)<br>![](https://img.moegirl.org.cn/common/b/bf/NichikaFull-Pajama.png)<br>七草日花（日语：七草（ななくさ） にちか）<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/七草日花) |
 | arisa mochida | 持田亚里沙 |  |  |
 | fuyuko mayuzumi | 黛冬优子 | ![](https://img.moegirl.org.cn/common/b/b3/Fuyuko_intial.png)<br>![](https://img.moegirl.org.cn/common/0/0e/FuyukoFullR.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/黛冬优子) |
 | mei izumi | 和泉爱依 |  |  |
