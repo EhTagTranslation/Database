@@ -6490,7 +6490,7 @@ example:
 | ameri azazel | 阿萨兹勒·艾梅莉 | 阿萨兹勒·艾梅莉是由西修所创作的漫画《入间同学入魔了》及其衍生作品的登场角色。人物原型为《圣经旧约－利未记》中八大堕落天使之首：阿撒兹勒（Azazel），是第一位因为背叛上帝从而堕天的天使。 | [萌娘百科](https://zh.moegirl.org.cn/阿萨兹勒·艾梅莉)、[Fandom](https://mairimashita-irumakun.fandom.com/wiki/Azazel_Ameri) |
 | mei ebino | 江火野芽衣 | 江火野芽衣是《初恋僵尸》的主角之一，与作品主人公久留目太郎是青梅竹马。 | [Fandom](https://hatsukoi-zombie.fandom.com/wiki/Mei_Ebino) |
 | outis | 奥提斯 | 奥提斯（Outis）是《边狱巴士公司》及其衍生作品的登场角色。原型来源史诗《奥德赛》。 | [萌娘百科](https://zh.moegirl.org.cn/奥提斯)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/奥提斯) |
-| lilith | 莉莉丝 |  |  |
+| lilith | 莉莉丝 | ![](https://ehgt.org/w/02/057/80573-2j3uljr4.webp)<br>所属作品：`fate grand order` |  |
 | ryoshu | 良秀 | 良秀（Ryoshu）是《邊獄巴士公司》及其衍生作品的登場角色。原型來源小說《地獄變》 | [萌娘百科](https://zh.moegirl.org.cn/良秀)、[灰机wiki](https://limbuscompany.huijiwiki.com/wiki/良秀) |
 | arisa | 亚里沙 | 游戏《影之诗》中的角色，为妖精职业的主战者 |  |
 | irene | 艾丽妮 | ![](https://patchwiki.biligame.com/images/arknights/e/ef/8qf332utfjtf188ga5dxl7p2yj9gihg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/艾丽妮) |
