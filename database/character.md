@@ -840,7 +840,7 @@ example:
 |  | 舞田类 |  |  |
 |  | 北村想乐 |  |  |
 |  | 山村贤 |  |  |
-| mano sakuragi | 樱木真乃 |  |  |
+| mano sakuragi | 樱木真乃 | ![](https://img.moegirl.org.cn/common/6/66/SajuragiMano.png)<br>![](https://img.moegirl.org.cn/common/f/f9/MANO私服.png)<br>樱木真乃（日语：櫻木 真乃（さくらぎ まの））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/樱木真乃) |
 | hiori kazano | 风野灯织 | ![](https://img.moegirl.org.cn/common/b/b3/DWn6omXUQAAuJ65.png)<br>![](https://img.moegirl.org.cn/common/e/e6/HioriFullR.png)<br>风野灯织（日语：風野 灯織（かざの ひおり））<br>所属作品：`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/风野灯织) |
 | meguru hachimiya | 八宫巡 | ![](https://img.moegirl.org.cn/common/2/26/HACHIMIYA_MEGURU283.png)<br>八宫巡（日语：八宮 めぐる）是`the idolmaster`系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的混血友善偶像 | [萌娘百科](https://zh.moegirl.org.cn/八宫巡) |
 | mamimi tanaka | 田中摩美美 | ![](https://img.moegirl.org.cn/common/1/15/TanakaMamimi.png)<br>![](https://img.moegirl.org.cn/common/6/64/MMM私服.png)<br>田中摩美美（日语：田中 摩美々（たなか まみみ））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/田中摩美美) |
