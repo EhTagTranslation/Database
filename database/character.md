@@ -7292,6 +7292,7 @@ example:
 | matsu | 松 | ![](https://sunvxqrqcj.hath.network/om/183988209/3265f6537debfda3e5491684389a49a204b3d356-1072222-832-1216-png/657ac83e985b4286773fdbfc0b91c975fe8f83b5-65574-800-1169-wbp/800/c2cghjk1gnv33s1tixu/1354.webp)<br>所属作品：`sekirei` |  |
 | tsukiumi | 月海 | ![](https://ehgt.org/w/02/008/17941-ntvg6oo7.webp)<br>所属作品：`sekirei` |  |
 | mary stuart | 玛丽斯图尔特 | ![](https://ehgt.org/86/0d/860dcd66c86f7b2479253027adbad0c03963ad1d-256308-1445-1663-jpg_250.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
+| adele balfette | 阿黛尔·巴尔乌弗特 | 所属作品：`kyoukai senjou no horizon`<br>日语名：アデーレ・バルフェット |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
