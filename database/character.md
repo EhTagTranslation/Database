@@ -7285,6 +7285,7 @@ example:
 | qian renxue | 千仞雪 | ![](https://ehgt.org/w/01/575/08223-jtkmuku2.webp)<br>所属作品：斗罗大陆 |  |
 | satellizer el bridget | 莎堤莱萨·L·布丽姬 | ![](https://ehgt.org/w/01/720/40964-4n7vz91m.webp)<br>所属作品：`freezing` |  |
 | ruri kurosaki | 黑咲琉璃 | ![](https://ehgt.org/w/01/845/42953-844qx6cd.webp)<br>所属作品：`yu-gi-oh arc-v` |  |
+| fiolina germi | 菲欧莉娜·吉尔米 | ![](https://ehgt.org/w/01/336/72217-efs1sxu9.webp)<br>所属作品：`metal slug`<br>《合金弹头》系列的正规军情报部Sparrows上级曹长，初次登场于《合金弹头2》。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
