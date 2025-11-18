@@ -860,7 +860,7 @@ example:
 | hazuki nanakusa | 七草叶月 |  |  |
 | nichika nanakusa | 七草日花 |  |  |
 | arisa mochida | 持田亚里沙 |  |  |
-| fuyuko mayuzumi | 黛冬优子 |  |  |
+| fuyuko mayuzumi | 黛冬优子 | ![](https://img.moegirl.org.cn/common/b/b3/Fuyuko_intial.png)<br>![](https://img.moegirl.org.cn/common/0/0e/FuyukoFullR.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/黛冬优子) |
 | mei izumi | 和泉爱依 |  |  |
 | asahi serizawa | 芹泽朝阳 | ![](https://img.moegirl.org.cn/common/0/03/Asahi_intial.png)<br>![](https://img.moegirl.org.cn/common/8/8a/Asahi-Alpha.png)<br>![](https://img.moegirl.org.cn/common/a/a4/Asahi宝01.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/芹泽朝日) |
 | akira sunazuka | 砂冢明 |  |  |
