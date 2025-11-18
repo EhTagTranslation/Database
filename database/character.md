@@ -854,7 +854,7 @@ example:
 | kaho komiya | 小宫果穂 |  |  |
 | chiyoko sonoda | 园田智代子 | 所属作品: `p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/园田智代子) |
 | juri saijo | 西城树里 |  | [偶像大師 閃耀色彩 中文WIKI](https://shinycolors.fandom.com/zh/wiki/西城樹里) |
-| rinze morino | 杜野凛世 |  |  |
+| rinze morino | 杜野凛世 | ![](https://img.moegirl.org.cn/common/2/22/MorinoRinze01.png)<br>![](https://img.moegirl.org.cn/common/e/ed/MorinoRinze02.png)<br>杜野凛世是`p:the idolmaster`系列下的网页育成游戏《偶像大师 闪耀色彩》及其衍生作品的纯情大和抚子偶像。 | [萌娘百科](https://zh.moegirl.org.cn/杜野凛世) |
 | natsuha arisugawa | 有栖川夏叶 |  |  |
 |  | 天井努 |  |  |
 | hazuki nanakusa | 七草叶月 |  |  |
