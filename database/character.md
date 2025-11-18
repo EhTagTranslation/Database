@@ -7324,6 +7324,7 @@ example:
 | ritsuka tachibana | 立华律香 |  |  |
 | lindo tachibana | 立华林多 |  |  |
 | nana kozuki | 香月奈奈 | 所属作品：`god eater` |  |
+| ciel alencon | 雪儿·阿朗松 | 所属作品：`god eater` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
