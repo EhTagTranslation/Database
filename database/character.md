@@ -7293,6 +7293,7 @@ example:
 | tsukiumi | 月海 | ![](https://ehgt.org/w/02/008/17941-ntvg6oo7.webp)<br>所属作品：`sekirei` |  |
 | mary stuart | 玛丽斯图尔特 | ![](https://ehgt.org/86/0d/860dcd66c86f7b2479253027adbad0c03963ad1d-256308-1445-1663-jpg_250.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | adele balfette | 阿黛尔·巴尔乌弗特 | 所属作品：`kyoukai senjou no horizon`<br>日语名：アデーレ・バルフェット |  |
+| horizon ariadust | 赫莱森·阿利亚达斯特 | ![](https://ehgt.org/f5/c9/f5c9947f366d11b3659a95f4910ed0120c5f63db-314582-1133-1600-jpg_250.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
