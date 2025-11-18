@@ -7272,6 +7272,7 @@ example:
 | sylvain jose gautier | 希尔凡·乔瑟·戈迪耶 | ![](https://static.wikia.nocookie.net/nintendo/images/a/a3/FEH_Sylvain.png/revision/latest?cb=20250127123313&path-prefix=en)<br>希尔凡·乔瑟·戈迪耶（日语：シルヴァン ジョゼ ゴーティエ，英语：Sylvain Jose Gautier）<br>所属作品：《`fire emblem three houses`》 | [萌娘百科](https://zh.moegirl.org.cn/希尔凡·乔瑟·戈迪耶)<br>[https://fireemblemwiki.org/wiki/Sylvain](https://fireemblemwiki.org/wiki/Sylvain) |
 | casca | 卡思嘉 | ![](https://ehgt.org/w/02/083/53346-cpbk5ydb.webp)<br>所属作品：`berserk`<br>日文名：‘キャスカ’ |  |
 | flannery | 亚莎 | ![](https://ehgt.org/w/02/022/76959-7unoj4y0.webp)<br>所属作品：`pokemon` |  |
+| hela odinsdottir | 海拉 | 阿斯加德的死亡女神 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
