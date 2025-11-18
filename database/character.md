@@ -488,7 +488,7 @@ example:
 | sado | 佐渡 |  | [舰队Collection:佐渡](https://zh.moegirl.org.cn/舰队Collection:佐渡) |
 | tsushima | 对马 |  | [舰队Collection:对马](https://zh.moegirl.org.cn/舰队Collection:对马) |
 | gambier bay | 甘比尔湾 |  | [舰队Collection:甘比尔湾](https://zh.moegirl.org.cn/舰队Collection:甘比尔湾) |
-| intrepid | 无畏 | 美国海军埃塞克斯级航空母舰三号舰无畏号（USS Intrepid(CV-11)） | [碧蓝航线:无畏](https://zh.moegirl.org.cn/碧蓝航线:无畏) [舰队Collection:无畏](https://zh.moegirl.org.cn/舰队Collection:无畏) |
+| intrepid | 无畏 | ![](https://i2.hdslb.com/bfs/new_dyn/8ec615acd35aee9937c09d383fa74429262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3e98a7e439a5b0f75253bd9488781ddc262400697.png)<br>所属作品：`azur lane`<br>原型为美国海军埃塞克斯级航空母舰三号舰无畏号（USS Intrepid(CV-11)） | [碧蓝航线:无畏](https://zh.moegirl.org.cn/碧蓝航线:无畏) [舰队Collection:无畏](https://zh.moegirl.org.cn/舰队Collection:无畏) |
 | johnston | 约翰斯顿 |  | [战舰少女:约翰斯顿](https://zh.moegirl.org.cn/战舰少女:约翰斯顿) [舰队Collection:约翰斯顿](https://zh.moegirl.org.cn/舰队Collection:约翰斯顿) |
 | maestrale | 西北风 |  | [舰队Collection:西北风](https://zh.moegirl.org.cn/舰队Collection:西北风) |
 | fletcher | 弗莱彻 | 美国海军弗莱彻级驱逐舰首舰弗莱彻（USS Fletcher DD-445） | [碧蓝航线:弗莱彻](https://zh.moegirl.org.cn/碧蓝航线:弗莱彻) [战舰少女:弗莱彻](https://zh.moegirl.org.cn/战舰少女:弗莱彻) [舰队Collection:弗莱彻](https://zh.moegirl.org.cn/舰队Collection:弗莱彻) |
