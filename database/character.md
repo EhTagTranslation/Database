@@ -7316,6 +7316,7 @@ example:
 | kojou akatsuki | 晓古城 |  |  |
 | yuyu shirai | 白井梦结 |  |  |
 | klaudia valentz | 科洛蒂娅·巴兰茨 |  |  |
+| ruri tanigawa | 谷川琉璃 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
