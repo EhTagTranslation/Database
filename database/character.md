@@ -7298,6 +7298,7 @@ example:
 | tenzou crossunite | 点藏·库罗斯优奈特 | ![](https://static.wikia.nocookie.net/genesis-horizon/images/5/58/Tenzou_profile.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | mahoro andou | 安藤麻幌 | 所属作品：`mahoromatic` |  |
 | aya natsume | 枣亚夜 | ![](https://pics0.baidu.com/feed/4bed2e738bd4b31c0fe075835e20fa709f2ff835.jpeg)<br>所属作品：`tenjou tenge` |  |
+| feldt grace | 菲露特·古蕾斯 | ![](https://ehgt.org/w/02/081/90347-alkpwljo.webp)<br>所属作品：`gundam 00` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
