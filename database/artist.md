@@ -14258,6 +14258,7 @@ example:
 | kakisoba | かきそば |  |  |
 | hoshizono kanon | 星園かのん |  |  |
 | hoshi ichi | ほしいち |  |  |
+| hori yusuke | ホリユウスケ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
