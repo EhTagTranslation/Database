@@ -7341,6 +7341,7 @@ example:
 | meru | 梅鲁 | ![](https://ehgt.org/w/01/865/30094-cznh27g2.webp)<br>所属作品：`meru the succubus` |  |
 | rui | 瑞 | ![](https://static.wikia.nocookie.net/dream-club/images/1/1e/Rui.png)<br>所属作品：`dream c club` |  |
 | douki-chan | 同期 | ![](https://ehgt.org/w/01/686/71917-67k0qjv6.webp)<br>所属作品：`ganbare douki-chan` |  |
+| chihiro fushimi | 伏见千寻 | 所属作品：`persona 3` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
