@@ -7336,6 +7336,7 @@ example:
 | ayra | 艾伊拉 | 所属作品：`fire emblem genealogy of the holy war`<br>日语名：アイラ。<br>马力克的妹妹，伊扎克的王女。由于体内流有剑圣奥德之血，所以其剑术在军中无人能敌。 |  |
 | excellen browning | 艾克塞琳·勃朗宁 | 所属作品：`super robot wars` |  |
 | ranma | 早乙女乱马 | ![](https://ehgt.org/w/01/638/26798-f15ju0dp.webp)<br>所属作品：`ranma 12` |  |
+| reverie metherlence | 蕾芙丽·梅扎兰斯 | ![](https://sunvxqrqcj.hath.network/om/181113008/c7ee42f098b52fb5509e822f080b85919de52d33-1126668-832-1216-png/bf6facdb291f2030daa975dbd44b869b62b6a6c4-67264-800-1169-wbp/800/mf7l25e0kbiu8o1tjz0/1273.webp)<br>所属作品：`elemental gelade`<br>蕾因渴望前往艾迪鲁庭园与亲人格丽娜发生冲突，被封印500年后由酷德解封。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
