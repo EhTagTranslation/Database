@@ -14237,6 +14237,7 @@ example:
 | dramus | ドラムス |  |  |
 | dozaemon | 土座衛門 |  |  |
 | devildance | デビルダンス |  |  |
+| datenshi namako | 堕天使なまこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
