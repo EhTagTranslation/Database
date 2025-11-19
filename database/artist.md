@@ -14225,6 +14225,7 @@ example:
 | aibiki mabo | 愛引まぁぼ |  |  |
 | aburamachine | アブラマシーン |  |  |
 | amakusa shiro | 天草白 |  |  |
+| asa yohoki | アサヨホキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
