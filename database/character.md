@@ -7355,6 +7355,7 @@ example:
 | fa yuiry | 花·园丽 | ![](https://ehgt.org/w/01/795/13240-ss1s95a4.webp)<br>所属作品：`zeta gundam` |  |
 | rain mikamura | 深村玲 | ![](https://patchwiki.biligame.com/images/gundam/thumb/7/71/ef91fg4p2ig0ibx01j63knis1ud83k6.jpg/375px-深村玲.jpg)<br>所属作品：`g gundam` |  |
 | haruko amaya | 天谷春恋 | ![](https://ehgt.org/w/01/794/29774-l0mobg7h.webp)<br>所属作品：`maken-ki` |  |
+| torricelli | 托里拆利 | ![](https://patchwiki.biligame.com/images/blhx/thumb/1/12/e0jvfvlsn4wq9j7jalhbe15vzeezam2.jpg/525px-托里拆利立绘.jpg)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
