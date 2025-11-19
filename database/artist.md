@@ -14222,6 +14222,7 @@ example:
 | yotogibanashi | 夜伽話 |  |  |
 | akane sekiro | アカネ セキロ |  |  |
 | akafuku daifuku | 赤福大福 |  |  |
+| aibiki mabo | 愛引まぁぼ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
