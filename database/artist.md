@@ -14226,6 +14226,7 @@ example:
 | aburamachine | アブラマシーン |  |  |
 | amakusa shiro | 天草白 |  |  |
 | asa yohoki | アサヨホキ |  |  |
+| asakura taku3 | 朝倉拓3 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
