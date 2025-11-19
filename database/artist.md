@@ -14257,6 +14257,7 @@ example:
 | hitofuu main | 人風メーン |  |  |
 | kakisoba | かきそば |  |  |
 | hoshizono kanon | 星園かのん |  |  |
+| hoshi ichi | ほしいち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
