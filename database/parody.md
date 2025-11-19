@@ -2607,6 +2607,7 @@ example:
 | oshioki sweetie | oshioki sweetie | ![](https://t.vndb.org/cv/01/3601.jpg) |  |
 | gensou suikoden | 幻想水浒传 |  |  |
 | queens blade rebellion | 女皇之刃 叛乱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6f/99/33354_08ZEH.jpg) |  |
+| given | ギヴン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
