@@ -14252,6 +14252,8 @@ example:
 | gijang | ギザン |  |  |
 | genkimaru | げんきまる |  |  |
 | furuya torobinbi | 古矢とろびんび |  |  |
+| hatagoya | はたごや |  |  |
+| heitai gensui | 兵隊幻酔 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
