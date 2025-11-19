@@ -7349,6 +7349,7 @@ example:
 | princess hilda | 希尔达公主 | 所属作品：`the legend of zelda` |  |
 | fuutou shizune | 风东静音 | ![](https://t.vndb.org/ch/31/14631.jpg)<br>所属作品：`oshioki sweetie`<br>风冬しずね |  |
 | natsuhi ushiromiya | 右代宫夏妃 | 所属作品：`umineko no naku koro ni` |  |
+| isekaijoucho | 异世界情绪 | ![](https://ehgt.org/w/02/008/01610-9z7lpmjl.webp)<br>日语名：ヰ世界情緒<br>是日本神椿公司旗下的虚拟歌手 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
