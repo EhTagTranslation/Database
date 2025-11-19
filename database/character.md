@@ -7332,6 +7332,7 @@ example:
 | shionne vymer imeris daymore | 希侬·埃梅利斯 | ![](https://img.moegirl.org.cn/common/1/12/TALES_shionne.png)<br>所属作品:`p:tales of arise` | [萌娘百科](https://zh.moegirl.org.cn/希侬·埃梅利斯) |
 | yuiri haba | 羽波唯里 |  |  |
 | yori asanagi | 朝凪依 |  |  |
+| kazehana | 风花 | ![](https://img.moegirl.org.cn/common/2/2a/风花.jpg)<br>所属作品：`sekirei`<br>風花かぜはな |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
