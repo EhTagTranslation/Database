@@ -13387,6 +13387,7 @@ example:
 | kurogoma seizou koujou | 黒ごま製造工場 |  |  |
 | echiechi kenzen yuden | えちえち健全油田 |  |  |
 | mappira gomen lovers | まっぴらごめんラヴァーズ |  |  |
+| dancing boin | ダンシングボイ～ン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
