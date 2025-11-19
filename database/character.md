@@ -7369,7 +7369,7 @@ example:
 | yuzu fujisawa | 藤泽柚子 | ![](https://img.moegirl.org.cn/common/8/8e/藤沢_柚子.png)<br>所属作品：`ongeki` |  |
 | akane ousaka | 逢坂茜 | ![](https://img.moegirl.org.cn/common/4/41/逢坂_茜.png)<br>所属作品：`ongeki` |  |
 | setsuna sumeragi | 皇城刹那 | ![](https://img.moegirl.org.cn/common/5/53/Setsuna_normal.png)<br>所属作品：`ongeki` |  |
-| hirume | 希鲁梅 | ![](https://cdnimg-v2.gamekee.com/images/www/1639047411611_77770240.png)<br>所属作品：`last origin` |  |
+| hirume | 希鲁梅 | ![](https://cdnimg-v2.gamekee.com/images/www/1639047411611_77770240.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/236746/2023/0/31/324756.png)<br>所属作品：`last origin` |  |
 | eternity | 伊特尼提 | ![](https://cdnimg-v2.gamekee.com/images/www/1639040335955_64019479.webp)<br>所属作品：`last origin` |  |
 | labiata | 拉比亚塔 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1789/h_1977/245/239449/2025/2/18/431707.png)<br>所属作品：`last origin` |  |
 | fenrir | 芬妮尔 | ![](https://cdnimg-v2.gamekee.com/images/www/1639032831346_73054821.png)<br>所属作品：`last origin` |  |
