@@ -14264,6 +14264,7 @@ example:
 | itou masaya | 伊藤まさや |  |  |
 | jiginonotaro | ジギ野のたろ |  |  |
 | enami | 榎波 |  |  |
+| jinsei mainichi ga sacrifaisuke | 人生毎日がサクリファイ助 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
