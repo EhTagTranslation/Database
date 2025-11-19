@@ -14260,6 +14260,7 @@ example:
 | hoshi ichi | ほしいち |  |  |
 | hori yusuke | ホリユウスケ |  |  |
 | horieros | ほりえろす |  |  |
+| ishidaya | イシダヤ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
