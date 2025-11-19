@@ -14270,6 +14270,7 @@ example:
 | kakakaka | かカカカ |  |  |
 | jayep | Jayep |  | [pixiv](https://www.pixiv.net/users/83410821) |
 | doremi | DoReMi | 画师，蔚蓝档案总设计师Chief of Design |  |
+| inumori shirou | 戌森四朗 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
