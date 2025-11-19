@@ -14247,6 +14247,7 @@ example:
 | gomio | ゴミ男 |  |  |
 | goma gorilla | ごまゴリラ |  |  |
 | giriken | ぎりけん |  |  |
+| girigiri kenkou | ギリギリ健康 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
