@@ -7334,6 +7334,7 @@ example:
 | yori asanagi | 朝凪依 |  |  |
 | kazehana | 风花 | ![](https://img.moegirl.org.cn/common/2/2a/风花.jpg)<br>所属作品：`sekirei`<br>風花かぜはな |  |
 | ayra | 艾伊拉 | 所属作品：`fire emblem genealogy of the holy war`<br>日语名：アイラ。<br>马力克的妹妹，伊扎克的王女。由于体内流有剑圣奥德之血，所以其剑术在军中无人能敌。 |  |
+| excellen browning | 艾克塞琳·勃朗宁 | 所属作品：`super robot wars` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
