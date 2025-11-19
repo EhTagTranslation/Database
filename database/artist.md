@@ -14255,6 +14255,7 @@ example:
 | hatagoya | はたごや |  |  |
 | heitai gensui | 兵隊幻酔 |  |  |
 | hitofuu main | 人風メーン |  |  |
+| kakisoba | かきそば |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
