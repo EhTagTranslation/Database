@@ -14245,6 +14245,7 @@ example:
 | hakidame | はきだめ |  |  |
 | hachimaru | ハチマル |  |  |
 | gomio | ゴミ男 |  |  |
+| goma gorilla | ごまゴリラ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
