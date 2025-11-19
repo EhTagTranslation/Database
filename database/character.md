@@ -7366,6 +7366,7 @@ example:
 | ayaka saotome | 早乙女彩华 | ![](https://img.moegirl.org.cn/common/2/23/早乙女_彩華.png)<br>所属作品：`ongeki` |  |
 | haruna sakurai | 樱井春菜 | ![](https://img.moegirl.org.cn/common/9/90/桜井_春菜.png)<br>所属作品：`ongeki` |  |
 | rio takase | 高濑梨绪 | ![](https://img.moegirl.org.cn/common/6/6c/高瀬_梨緒.png)<br>所属作品：`ongeki` |  |
+| yuzu fujisawa | 藤泽柚子 | ![](https://img.moegirl.org.cn/common/8/8e/藤沢_柚子.png)<br>所属作品：`ongeki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
