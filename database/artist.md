@@ -12687,7 +12687,7 @@ example:
 | miyazaki usagi | みやざきうさぎ |  |  |
 | touchuu kasou | 冬虫夏草 |  |  |
 | cbmus | Cbmus |  | [X](https://x.com/hhkd65044493) [pixiv](https://www.pixiv.net/users/9942406) |
-| torii yoshitsuna | 鳥居ヨシツナ | 鳥居ヨシツナ（山吉田之助） | [X](https://x.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
+| torii yoshitsuna | 鸟居义纲 | 鳥居ヨシツナ（山吉田之助） | [X](https://x.com/Yoshitsuna_T) [pixiv](https://www.pixiv.net/users/7309260) |
 | mannack | まんなく |  | [pixiv](https://www.pixiv.net/users/29759565) |
 | miwerjooggetser | 無名老圖 |  | [pixiv](https://www.pixiv.net/users/1176892) [X](https://x.com/ojiojiojisaaan) |
 | shimohara | しもはら |  | [pixiv](https://www.pixiv.net/users/17341989) [X](https://x.com/shimohr) |
