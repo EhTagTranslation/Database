@@ -7361,6 +7361,7 @@ example:
 | tsubaki aihara | 蓝原椿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/e1/65615_crt_o6Qp3.jpg)<br>所属作品：`ongeki` |  |
 | arisu suzushima | 珠洲岛有栖 | ![](https://img.moegirl.org.cn/common/c/c4/珠洲島_有栖.png)<br>所属作品：`ongeki` |  |
 | saki kashiwagi | 柏木咲姬 | ![](https://img.moegirl.org.cn/common/e/e8/柏木_咲姫.png)<br>所属作品：`ongeki` |  |
+| koboshi inohara | 井之原小星 | ![](https://img.moegirl.org.cn/common/a/ab/井之原_小星.png)<br>所属作品：`ongeki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
