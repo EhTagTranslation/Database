@@ -14239,6 +14239,7 @@ example:
 | devildance | デビルダンス |  |  |
 | datenshi namako | 堕天使なまこ |  |  |
 | eda | 江田 |  |  |
+| freedom nakai | フリーダム中井 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
