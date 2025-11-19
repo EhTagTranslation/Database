@@ -3418,7 +3418,7 @@ example:
 | shirokimochi | 白生もち |  | [X](https://x.com/_shirokimochi_) [pixiv](https://www.pixiv.net/users/31659436) |
 | nagatukiin | 长月院 |  | [X](https://x.com/005nniikidumihu) [pixiv](https://www.pixiv.net/users/20859160) |
 | tanuma | たぬま |  | [X](https://x.com/tnm_tyny) [pixiv](https://www.pixiv.net/users/9675329) |
-| chihiro | Chihiro |  | [X](https://x.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
+| chihiro | 千尋 |  | [X](https://x.com/chihiro_15_) [pixiv](https://www.pixiv.net/users/8018529) |
 | soba | soba |  | [X](https://x.com/SAZ_LaughMaker) [pixiv](https://www.pixiv.net/users/220618) |
 | kaneko | 華猫 |  |  |
 | sekai saisoku no panda | 世界最速のパンダ |  |  |
