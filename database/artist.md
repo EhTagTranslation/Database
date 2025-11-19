@@ -14234,6 +14234,7 @@ example:
 | chawanmushi | 茶碗蒸し |  |  |
 | cinnamon | しなもん |  | [X](https://x.com/mon_moncinnamo) |
 | cross k | クロスk |  |  |
+| dramus | ドラムス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
