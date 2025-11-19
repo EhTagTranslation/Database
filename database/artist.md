@@ -14235,6 +14235,7 @@ example:
 | cinnamon | しなもん |  | [X](https://x.com/mon_moncinnamo) |
 | cross k | クロスk |  |  |
 | dramus | ドラムス |  |  |
+| dozaemon | 土座衛門 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
