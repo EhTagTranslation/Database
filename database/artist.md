@@ -14243,6 +14243,7 @@ example:
 | fuji okayu | ふじおかゆ |  |  |
 | fujisaki chiro | 藤崎チロ |  |  |
 | hakidame | はきだめ |  |  |
+| hachimaru | ハチマル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
