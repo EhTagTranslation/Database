@@ -6260,7 +6260,7 @@ example:
 | louisville | 路易斯维尔 | 所属作品: `p:azur lane`<br>![](https://i0.hdslb.com/bfs/article/d7b6413a4d034ec84625d5507e11e83a298252208.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/路易斯维尔)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/USS_Louisville_%28CA-28%29) |
 | prinz heinrich | 海恩里希亲王 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/4d7174863d7f1b9f862326f2e7a16bf6262400697.png)<br>原型为德意志帝国海军P级装甲舰海因里希亲王号 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/海因里希亲王)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/SMS_Prinz_Heinrich) |
 | tsumugi shinonome | 东云纺 | ![](https://img.moegirl.org.cn/common/6/61/東雲_つむぎ.png)<br>所属作品：`ongeki` | [萌娘百科](https://zh.moegirl.org.cn/东云纺) |
-| mia kashiwagi | 柏木美亚 |  | [萌娘百科](https://zh.moegirl.org.cn/柏木美亚) |
+| mia kashiwagi | 柏木美亚 | ![](https://img.moegirl.org.cn/common/9/9a/柏木_美亜.png)<br>所属作品：`ongeki` | [萌娘百科](https://zh.moegirl.org.cn/柏木美亚) |
 | chinatsu hinata | 日向千夏 | ![](https://img.moegirl.org.cn/common/2/29/日向_千夏.png)<br>所属作品：`ongeki` | [萌娘百科](https://zh.moegirl.org.cn/日向千夏) |
 | kaguya hoshikawa | 星河辉耶 | 所属作品: `p:tenshi souzou re-boot` | [萌娘百科](https://zh.moegirl.org.cn/星河辉耶) |
 | kurumi kohibari | 小云雀来海 | 所属作品: `p:tenshi souzou re-boot` | [萌娘百科](https://zh.moegirl.org.cn/小云雀来海) |
