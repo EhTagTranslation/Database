@@ -14268,6 +14268,7 @@ example:
 | jyoka | 叙火 |  |  |
 | kairaku namakikurage | 快楽ナマきくらげ |  |  |
 | kakakaka | かカカカ |  |  |
+| jayep | Jayep |  | [pixiv](https://www.pixiv.net/users/83410821) |
 
 <!--TEMPLATE:
 |  |  |  |  |
