@@ -14267,6 +14267,7 @@ example:
 | jinsei mainichi ga sacrifaisuke | 人生毎日がサクリファイ助 |  |  |
 | jyoka | 叙火 |  |  |
 | kairaku namakikurage | 快楽ナマきくらげ |  |  |
+| kakakaka | かカカカ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
