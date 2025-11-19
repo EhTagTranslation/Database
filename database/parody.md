@@ -2604,6 +2604,7 @@ example:
 | sasayaku you ni koi wo utau | 恋语轻唱 |  |  |
 | elemental gelade | 武器种族传说 | ![](https://static.wikia.nocookie.net/elementalgelade/images/b/bd/Slider1.jpg) |  |
 | meru the succubus | 魅魔梅鲁 |  |  |
+| oshioki sweetie | oshioki sweetie | ![](https://t.vndb.org/cv/01/3601.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
