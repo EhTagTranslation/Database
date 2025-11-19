@@ -13380,6 +13380,7 @@ example:
 | aburamashimashi | アブラマシマシ |  |  |
 | broccoli doubutsuen | ぶろっこりー動物園 |  |  |
 | yaoyorozudo | 八百萬堂 |  |  |
+| cinnamon tou | しなもん島 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
