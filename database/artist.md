@@ -14263,6 +14263,7 @@ example:
 | ishidaya | イシダヤ |  |  |
 | itou masaya | 伊藤まさや |  |  |
 | jiginonotaro | ジギ野のたろ |  |  |
+| enami | 榎波 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
