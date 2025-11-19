@@ -7359,6 +7359,7 @@ example:
 | aoi misumi | 三角葵 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/13/65612_crt_CspsC.jpg)<br>所属作品：`ongeki` |  |
 | riku yuuki | 结城莉玖 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8f/58/65614_crt_fG21p.jpg)<br>所属作品：`ongeki` |  |
 | tsubaki aihara | 蓝原椿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/e1/65615_crt_o6Qp3.jpg)<br>所属作品：`ongeki` |  |
+| arisu suzushima | 珠洲岛有栖 | ![](https://img.moegirl.org.cn/common/c/c4/珠洲島_有栖.png)<br>所属作品：`ongeki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
