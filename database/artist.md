@@ -14259,6 +14259,7 @@ example:
 | hoshizono kanon | 星園かのん |  |  |
 | hoshi ichi | ほしいち |  |  |
 | hori yusuke | ホリユウスケ |  |  |
+| horieros | ほりえろす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
