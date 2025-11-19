@@ -14241,6 +14241,7 @@ example:
 | eda | 江田 |  |  |
 | freedom nakai | フリーダム中井 |  |  |
 | fuji okayu | ふじおかゆ |  |  |
+| fujisaki chiro | 藤崎チロ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
