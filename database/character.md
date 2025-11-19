@@ -7352,7 +7352,7 @@ example:
 | isekaijoucho | 异世界情绪 | ![](https://ehgt.org/w/02/008/01610-9z7lpmjl.webp)<br>日语名：ヰ世界情緒<br>是日本神椿公司旗下的虚拟歌手 |  |
 | musashibou benkei | 武藏坊弁庆 | ①<br>![](https://static.wikia.nocookie.net/ikkitousen/images/e/e3/Benkei_Musashibou.png)<br>所属作品：`ikkitousen`<br>————<br>②<br>所属作品：`fate grand order` |  |
 | hizuru minakata | 南方日鹤 | ![](https://praogxqcch.hath.network/om/179837439/a642df146f85bf3049fe5b9511d986121fbc2892-1005590-832-1216-png/f73f123a2c86e69ea6e8a016b40ceff84aace226-55724-800-1169-wbp/800/eu9ugnypoy6ffi1tkce/0916.webp)<br>所属作品：`summertime render` |  |
-| fa yuiry | 花·园丽 | 所属作品：`zeta gundam` |  |
+| fa yuiry | 花·园丽 | ![](https://ehgt.org/w/01/795/13240-ss1s95a4.webp)<br>所属作品：`zeta gundam` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
