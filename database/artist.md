@@ -14223,6 +14223,7 @@ example:
 | akane sekiro | アカネ セキロ |  |  |
 | akafuku daifuku | 赤福大福 |  |  |
 | aibiki mabo | 愛引まぁぼ |  |  |
+| aburamachine | アブラマシーン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
