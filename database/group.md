@@ -13379,6 +13379,7 @@ example:
 | maa kuaru-ke | まーくある家 |  |  |
 | aburamashimashi | アブラマシマシ |  |  |
 | broccoli doubutsuen | ぶろっこりー動物園 |  |  |
+| yaoyorozudo | 八百萬堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
