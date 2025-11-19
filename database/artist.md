@@ -14231,6 +14231,7 @@ example:
 | andou saiga | 安堂SAIGA |  |  |
 | bouhatei | 防波堤 |  |  |
 | burodou | ぶろどう |  |  |
+| chawanmushi | 茶碗蒸し |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
