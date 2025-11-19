@@ -14220,6 +14220,7 @@ example:
 | oyuwari | おゆわり(oyuwari) |  |  |
 | liu mingxing | Goatwillow | 曾用名义:Liu Mingxing/Liu Gangdan（柳钢蛋） | [pixiv](https://www.pixiv.net/users/13788343)<br>[FANBOX](https://www.fanbox.cc/@goatwillow) |
 | yotogibanashi | 夜伽話 |  |  |
+| akane sekiro | アカネ セキロ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
