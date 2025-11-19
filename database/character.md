@@ -7370,6 +7370,7 @@ example:
 | akane ousaka | 逢坂茜 | ![](https://img.moegirl.org.cn/common/4/41/逢坂_茜.png)<br>所属作品：`ongeki` |  |
 | setsuna sumeragi | 皇城刹那 | ![](https://img.moegirl.org.cn/common/5/53/Setsuna_normal.png)<br>所属作品：`ongeki` |  |
 | hirume | 希鲁梅 | ![](https://cdnimg-v2.gamekee.com/images/www/1639047411611_77770240.png)<br>所属作品：`last origin` |  |
+| eternity | 伊特尼提 | ![](https://cdnimg-v2.gamekee.com/images/www/1639040335955_64019479.webp)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
