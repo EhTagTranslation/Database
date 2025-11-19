@@ -14246,6 +14246,7 @@ example:
 | hachimaru | ハチマル |  |  |
 | gomio | ゴミ男 |  |  |
 | goma gorilla | ごまゴリラ |  |  |
+| giriken | ぎりけん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
