@@ -3705,7 +3705,7 @@ example:
 | hina ichigo | 雏莓 |  |  |
 | souseiseki | 苍星石 |  |  |
 | hood | 胡德 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/895a6a5235fe469dbc3cf9cd05c871d0262400697.png)<br>原型为海军上将级胡德号战列巡洋舰(HMS Hood 舷号：51) | [维基百科](https://zh.wikipedia.org/wiki/胡德号战列巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/胡德)<br>[https://www.zjsnrwiki.com/wiki/胡德](https://www.zjsnrwiki.com/wiki/胡德) |
-| mrs. yuigahama | 由比滨妈妈 |  |  |
+| mrs. yuigahama | 由比滨妈妈 | ![](https://ehgt.org/w/02/087/87906-lk8wl3dj.webp)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` |  |
 | mudrock | 泥岩 | ![](https://patchwiki.biligame.com/images/arknights/2/28/7o36agkz0u63d157v1d3a88c6nntpc7.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/泥岩) |
 | nian | 年 | ![](https://patchwiki.biligame.com/images/arknights/5/50/7xgr7zle9tnw268a51ahemoz75s6nh5.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/年) |
 | soraka | 索拉卡 | 英雄联盟角色 |  |
