@@ -14249,6 +14249,7 @@ example:
 | giriken | ぎりけん |  |  |
 | girigiri kenkou | ギリギリ健康 |  |  |
 | ginger-l | ジンジャー・エル |  |  |
+| gijang | ギザン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
