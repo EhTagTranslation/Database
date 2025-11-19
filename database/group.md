@@ -13390,6 +13390,7 @@ example:
 | dancing boin | ダンシングボイ～ン |  |  |
 | himitsu no hoshizono | ひみつの星園 |  |  |
 | shubi-ryoku 4man | 守備力4万 |  |  |
+| namakikuya | ナマきく屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
