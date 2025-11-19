@@ -7374,6 +7374,7 @@ example:
 | labiata | 拉比亚塔 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1789/h_1977/245/239449/2025/2/18/431707.png)<br>所属作品：`last origin` |  |
 | fenrir | 芬妮尔 | ![](https://cdnimg-v2.gamekee.com/images/www/1639032831346_73054821.png)<br>所属作品：`last origin` |  |
 | mh-4 thetis | MH-4忒提斯 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/72324/2025/3/8/593731.png)<br>所属作品：`last origin` |  |
+| kunoichi zero | 女忍 零 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/3/8/956249.webp)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
