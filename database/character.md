@@ -7376,6 +7376,7 @@ example:
 | mh-4 thetis | MH-4忒提斯 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/72324/2025/3/8/593731.png)<br>所属作品：`last origin` |  |
 | kunoichi zero | 女忍 零 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/3/8/956249.webp)<br>所属作品：`last origin` |  |
 | may of doom | 毁灭者 梅 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1551/h_2034/245/236746/2023/7/4/205568.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1872/h_1830/245/72324/2025/2/19/187597.png)<br>所属作品：`last origin` |  |
+| scathy | 斯卡蒂 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_600/h_600/245/103682/2025/3/3/392952.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_2028/245/103682/2025/3/3/429151.webp)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
