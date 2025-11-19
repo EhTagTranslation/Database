@@ -7384,6 +7384,7 @@ example:
 | elven forest maker | 霜蛇 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1215/h_2955/245/103682/2025/2/26/64452.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1370/h_2008/245/103682/2025/2/26/631857.webp) |  |
 | perrault | 佩罗 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/43758/2025/2/19/216509.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1847/h_1944/245/43758/2025/2/19/582638.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1707/h_1795/245/43758/2025/2/19/852196.png)<br>所属作品：`last origin` |  |
 | a-87 banshee | A-87 报丧女妖 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/24/506895.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_567/h_1155/245/236746/2025/9/13/292957.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1438/h_1949/245/103682/2025/3/9/878286.png)<br>所属作品：`last origin` |  |
+| at-4 pani | AT-4 帕尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1570/h_1913/245/103682/2025/2/24/323093.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/24/51967.webp)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
