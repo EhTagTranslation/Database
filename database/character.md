@@ -7346,6 +7346,7 @@ example:
 | subaru | 昴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1a/129904_jp.jpg)<br>上弦众的闪耀忍。<br>所属作品：`beat blades haruka` |  |
 | apricot | Apricot | ![](https://img.moegirl.org.cn/common/thumb/4/47/Froot_%28Apricot%29_2.0_Full_Body.webp/800px-Froot_%28Apricot%29_2.0_Full_Body.webp.png)<br>所属社团：VShojo |  |
 | lafter frankland | 拉芙塔·弗兰克兰德 | 所属作品：`mobile suit gundam tekketsu no orphans` |  |
+| princess hilda | 希尔达公主 | 所属作品：`the legend of zelda` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
