@@ -14232,6 +14232,7 @@ example:
 | bouhatei | 防波堤 |  |  |
 | burodou | ぶろどう |  |  |
 | chawanmushi | 茶碗蒸し |  |  |
+| cinnamon | しなもん |  | [X](https://x.com/mon_moncinnamo) |
 
 <!--TEMPLATE:
 |  |  |  |  |
