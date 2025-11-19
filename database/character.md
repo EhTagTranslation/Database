@@ -7363,6 +7363,7 @@ example:
 | saki kashiwagi | 柏木咲姬 | ![](https://img.moegirl.org.cn/common/e/e8/柏木_咲姫.png)<br>所属作品：`ongeki` |  |
 | koboshi inohara | 井之原小星 | ![](https://img.moegirl.org.cn/common/a/ab/井之原_小星.png)<br>所属作品：`ongeki` |  |
 | kaede kujo | 九条枫 | ![](https://img.moegirl.org.cn/common/a/ab/九條_楓.png)<br>所属作品：`ongeki` |  |
+| ayaka saotome | 早乙女彩华 | ![](https://img.moegirl.org.cn/common/2/23/早乙女_彩華.png)<br>所属作品：`ongeki` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
