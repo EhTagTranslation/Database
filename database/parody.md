@@ -2606,6 +2606,7 @@ example:
 | meru the succubus | 魅魔梅鲁 |  |  |
 | oshioki sweetie | oshioki sweetie | ![](https://t.vndb.org/cv/01/3601.jpg) |  |
 | gensou suikoden | 幻想水浒传 |  |  |
+| queens blade rebellion | 女王之刃 Rebellion |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
