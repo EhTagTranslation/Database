@@ -13377,6 +13377,7 @@ example:
 | saimonke | 西門家 | 西門家 |  |
 | nikuniku anmitsutei | 肉々餡蜜亭 |  |  |
 | maa kuaru-ke | まーくある家 |  |  |
+| aburamashimashi | アブラマシマシ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
