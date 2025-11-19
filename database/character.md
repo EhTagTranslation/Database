@@ -7344,7 +7344,7 @@ example:
 | chihiro fushimi | 伏见千寻 | 所属作品：`persona 3` |  |
 | qoone | 库娜 | ![](https://zurswtyclg.hath.network/om/180437371/afa3feeda8efaf7f8d47bbca7aacebc55d0af239-1015298-832-1216-png/3aae091f2757e2f324fdf3c4491f881d1a4dea8e-59798-800-1169-wbp/800/g75j0zje17h8gu1tkbm/1391.webp)<br>所属作品：`asobi ni iku yo`<br>日语名：クーネ |  |
 | subaru | 昴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1a/129904_jp.jpg)<br>上弦众的闪耀忍。<br>所属作品：`beat blades haruka` |  |
-| apricot | Apricot | ![](https://ehgt.org/w/01/848/24009-qbg6e3zq.webp)<br>所属社团：VShojo |  |
+| apricot | Apricot | ![](https://img.moegirl.org.cn/common/thumb/4/47/Froot_%28Apricot%29_2.0_Full_Body.webp/800px-Froot_%28Apricot%29_2.0_Full_Body.webp.png)<br>所属社团：VShojo |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
