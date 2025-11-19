@@ -14265,6 +14265,7 @@ example:
 | jiginonotaro | ジギ野のたろ |  |  |
 | enami | 榎波 |  |  |
 | jinsei mainichi ga sacrifaisuke | 人生毎日がサクリファイ助 |  |  |
+| jyoka | 叙火 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
