@@ -14230,6 +14230,7 @@ example:
 | aruraune | アルラウネ |  |  |
 | andou saiga | 安堂SAIGA |  |  |
 | bouhatei | 防波堤 |  |  |
+| burodou | ぶろどう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
