@@ -13383,6 +13383,7 @@ example:
 | cinnamon tou | しなもん島 |  |  |
 | namako no rakuen | なまこの楽園 |  |  |
 | hakidamari | はきだまり |  |  |
+| hachimaru extreme | ハチマルエクストリーム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
