@@ -13381,6 +13381,7 @@ example:
 | broccoli doubutsuen | ぶろっこりー動物園 |  |  |
 | yaoyorozudo | 八百萬堂 |  |  |
 | cinnamon tou | しなもん島 |  |  |
+| namako no rakuen | なまこの楽園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
