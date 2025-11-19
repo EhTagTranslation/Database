@@ -5460,7 +5460,7 @@ example:
 | haiiroguma | はいいろぐま |  |  |
 | haineken | はいねけん |  |  |
 | hairaito | 灰雷兎 |  |  |
-| haison | haison |  |  |
+| haison | ハイソン |  |  |
 | haito mitori | 灰都みとり |  |  |
 | haitukun | Haitukun |  |  |
 | haizaki mejiro | 灰崎めじろ |  |  |
