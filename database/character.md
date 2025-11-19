@@ -2715,7 +2715,7 @@ example:
 | bloodberry | 红莓 |  |  |
 | cherry | 樱桃 |  |  |
 | sakuya tachibana | 橘咲夜 |  |  |
-| kimi aoi | 葵·喜美 |  |  |
+| kimi aoi | 葵·喜美 | ![](https://ehgt.org/w/01/696/16346-r60gxrrg.webp)<br>所属作品：`kyoukai senjou no horizon` |  |
 | tori aoi | 葵·托利 |  |  |
 | akira yamamoto | 山本玲 |  |  |
 | kaoru niimi | 新见熏 |  |  |
