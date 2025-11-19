@@ -14251,6 +14251,7 @@ example:
 | ginger-l | ジンジャー・エル |  |  |
 | gijang | ギザン |  |  |
 | genkimaru | げんきまる |  |  |
+| furuya torobinbi | 古矢とろびんび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
