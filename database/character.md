@@ -7340,6 +7340,7 @@ example:
 | kaoru kamiya | 神谷薰 | ![](https://ehgt.org/w/02/077/06562-nrkb1g01.webp)<br>所属作品：`rurouni kenshin` |  |
 | meru | 梅鲁 | ![](https://ehgt.org/w/01/865/30094-cznh27g2.webp)<br>所属作品：`meru the succubus` |  |
 | rui | 瑞 | ![](https://static.wikia.nocookie.net/dream-club/images/1/1e/Rui.png)<br>所属作品：`dream c club` |  |
+| douki-chan | 同期 | ![](https://ehgt.org/w/01/686/71917-67k0qjv6.webp)<br>所属作品：`ganbare douki-chan` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
