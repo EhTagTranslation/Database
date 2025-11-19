@@ -14261,6 +14261,7 @@ example:
 | hori yusuke | ホリユウスケ |  |  |
 | horieros | ほりえろす |  |  |
 | ishidaya | イシダヤ |  |  |
+| itou masaya | 伊藤まさや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
