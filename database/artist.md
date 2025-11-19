@@ -14248,6 +14248,7 @@ example:
 | goma gorilla | ごまゴリラ |  |  |
 | giriken | ぎりけん |  |  |
 | girigiri kenkou | ギリギリ健康 |  |  |
+| ginger-l | ジンジャー・エル |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
