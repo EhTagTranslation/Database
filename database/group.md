@@ -13391,6 +13391,7 @@ example:
 | himitsu no hoshizono | ひみつの星園 |  |  |
 | shubi-ryoku 4man | 守備力4万 |  |  |
 | namakikuya | ナマきく屋 |  |  |
+| ookami shoujo dan | 狼少女団 |  | [pixiv](https://www.pixiv.net/users/11787859)<br>[X](https://x.com/ookamisyoujyodn) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
