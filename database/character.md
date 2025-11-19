@@ -7382,6 +7382,7 @@ example:
 | a-1 bloody panther | A-1血豹 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1661/h_1652/245/72324/2025/2/19/266693.png)<br>所属作品：`last origin` |  |
 | cerberus | 地狱犬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1122/h_1988/245/103682/2025/2/26/737834.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/26/231490.png)<br>所属作品：`last origin` |  |
 | elven forest maker | 霜蛇 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1215/h_2955/245/103682/2025/2/26/64452.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1370/h_2008/245/103682/2025/2/26/631857.webp) |  |
+| perrault | 佩罗 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/43758/2025/2/19/216509.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1847/h_1944/245/43758/2025/2/19/582638.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1707/h_1795/245/43758/2025/2/19/852196.png)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
