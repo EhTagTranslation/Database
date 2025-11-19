@@ -7358,7 +7358,7 @@ example:
 | torricelli | 托里拆利 | ![](https://patchwiki.biligame.com/images/blhx/thumb/1/12/e0jvfvlsn4wq9j7jalhbe15vzeezam2.jpg/525px-托里拆利立绘.jpg)<br>所属作品：`azur lane` |  |
 | aoi misumi | 三角葵 | ![](https://img.moegirl.org.cn/common/3/3e/三角_葵.png)<br>所属作品：`ongeki` |  |
 | riku yuuki | 结城莉玖 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8f/58/65614_crt_fG21p.jpg)<br>所属作品：`ongeki` |  |
-| tsubaki aihara | 蓝原椿 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dc/e1/65615_crt_o6Qp3.jpg)<br>所属作品：`ongeki` |  |
+| tsubaki aihara | 蓝原椿 | ![](https://img.moegirl.org.cn/common/b/ba/藍原_椿.png)<br>所属作品：`ongeki` |  |
 | arisu suzushima | 珠洲岛有栖 | ![](https://img.moegirl.org.cn/common/c/c4/珠洲島_有栖.png)<br>所属作品：`ongeki` |  |
 | saki kashiwagi | 柏木咲姬 | ![](https://img.moegirl.org.cn/common/e/e8/柏木_咲姫.png)<br>所属作品：`ongeki` |  |
 | koboshi inohara | 井之原小星 | ![](https://img.moegirl.org.cn/common/a/ab/井之原_小星.png)<br>所属作品：`ongeki` |  |
