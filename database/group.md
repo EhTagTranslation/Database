@@ -13382,6 +13382,7 @@ example:
 | yaoyorozudo | 八百萬堂 |  |  |
 | cinnamon tou | しなもん島 |  |  |
 | namako no rakuen | なまこの楽園 |  |  |
+| hakidamari | はきだまり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
