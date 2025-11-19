@@ -14256,6 +14256,7 @@ example:
 | heitai gensui | 兵隊幻酔 |  |  |
 | hitofuu main | 人風メーン |  |  |
 | kakisoba | かきそば |  |  |
+| hoshizono kanon | 星園かのん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
