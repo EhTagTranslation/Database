@@ -13378,6 +13378,7 @@ example:
 | nikuniku anmitsutei | 肉々餡蜜亭 |  |  |
 | maa kuaru-ke | まーくある家 |  |  |
 | aburamashimashi | アブラマシマシ |  |  |
+| broccoli doubutsuen | ぶろっこりー動物園 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
