@@ -14228,6 +14228,7 @@ example:
 | asa yohoki | アサヨホキ |  |  |
 | asakura taku3 | 朝倉拓3 |  |  |
 | aruraune | アルラウネ |  |  |
+| andou saiga | 安堂SAIGA |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
