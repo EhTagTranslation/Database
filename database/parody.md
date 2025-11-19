@@ -2603,6 +2603,7 @@ example:
 | okinawa de suki ni natta ko ga hougen sugite tsura sugiru | 在冲绳喜欢上的女孩方言讲得太过令人困扰 |  |  |
 | sasayaku you ni koi wo utau | 恋语轻唱 |  |  |
 | elemental gelade | 武器种族传说 | ![](https://static.wikia.nocookie.net/elementalgelade/images/b/bd/Slider1.jpg) |  |
+| meru the succubus | 默尔：诱惑恶魔 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
