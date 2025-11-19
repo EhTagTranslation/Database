@@ -14229,6 +14229,7 @@ example:
 | asakura taku3 | 朝倉拓3 |  |  |
 | aruraune | アルラウネ |  |  |
 | andou saiga | 安堂SAIGA |  |  |
+| bouhatei | 防波堤 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
