@@ -14244,6 +14244,7 @@ example:
 | fujisaki chiro | 藤崎チロ |  |  |
 | hakidame | はきだめ |  |  |
 | hachimaru | ハチマル |  |  |
+| gomio | ゴミ男 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
