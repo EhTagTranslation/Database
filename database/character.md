@@ -7375,6 +7375,7 @@ example:
 | fenrir | 芬妮尔 | ![](https://cdnimg-v2.gamekee.com/images/www/1639032831346_73054821.png)<br>所属作品：`last origin` |  |
 | mh-4 thetis | MH-4忒提斯 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/72324/2025/3/8/593731.png)<br>所属作品：`last origin` |  |
 | kunoichi zero | 女忍 零 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/3/8/956249.webp)<br>所属作品：`last origin` |  |
+| may of doom | 毁灭者 梅 | ![](https://cdnimg-v2.gamekee.com/images/www/1637561785179_59719081.png)<br>所属作品：`last origin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
