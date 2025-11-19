@@ -14238,6 +14238,7 @@ example:
 | dozaemon | 土座衛門 |  |  |
 | devildance | デビルダンス |  |  |
 | datenshi namako | 堕天使なまこ |  |  |
+| eda | 江田 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
