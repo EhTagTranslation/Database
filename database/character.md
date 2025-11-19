@@ -7339,6 +7339,7 @@ example:
 | reverie metherlence | 蕾芙丽·梅扎兰斯 | ![](https://sunvxqrqcj.hath.network/om/181113008/c7ee42f098b52fb5509e822f080b85919de52d33-1126668-832-1216-png/bf6facdb291f2030daa975dbd44b869b62b6a6c4-67264-800-1169-wbp/800/mf7l25e0kbiu8o1tjz0/1273.webp)<br>所属作品：`elemental gelade`<br>蕾因渴望前往艾迪鲁庭园与亲人格丽娜发生冲突，被封印500年后由酷德解封。 |  |
 | kaoru kamiya | 神谷薰 | ![](https://ehgt.org/w/02/077/06562-nrkb1g01.webp)<br>所属作品：`rurouni kenshin` |  |
 | meru | 梅鲁 | ![](https://ehgt.org/w/01/865/30094-cznh27g2.webp)<br>所属作品：`meru the succubus` |  |
+| rui | 瑞 | ![](https://static.wikia.nocookie.net/dream-club/images/1/1e/Rui.png)<br>所属作品：`dream c club` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
