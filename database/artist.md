@@ -14236,6 +14236,7 @@ example:
 | cross k | クロスk |  |  |
 | dramus | ドラムス |  |  |
 | dozaemon | 土座衛門 |  |  |
+| devildance | デビルダンス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
