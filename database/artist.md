@@ -6401,7 +6401,7 @@ example:
 | kagehara hanzou | 影原半蔵 |  |  |
 | kageira | カゲイラ |  |  |
 | daigaijin | Daigaijin | Kagemusha |  |
-| kagemusya | KAGEMUSYA |  |  |
+| kagemusya | 影武者 |  |  |
 | kagerou1991 | 陽炎1991 |  |  |
 | kagesaki yuna | 影崎由那 |  |  |
 | kageshio | カゲシオ |  |  |
