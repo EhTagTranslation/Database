@@ -7350,6 +7350,7 @@ example:
 | fuutou shizune | 风东静音 | ![](https://t.vndb.org/ch/31/14631.jpg)<br>所属作品：`oshioki sweetie`<br>风冬しずね |  |
 | natsuhi ushiromiya | 右代宫夏妃 | 所属作品：`umineko no naku koro ni` |  |
 | isekaijoucho | 异世界情绪 | ![](https://ehgt.org/w/02/008/01610-9z7lpmjl.webp)<br>日语名：ヰ世界情緒<br>是日本神椿公司旗下的虚拟歌手 |  |
+| musashibou benkei | 武藏坊弁庆 | ①<br>![](https://static.wikia.nocookie.net/ikkitousen/images/e/e3/Benkei_Musashibou.png)<br>所属作品：`ikkitousen`<br>————<br>②<br>所属作品：`fate grand order` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
