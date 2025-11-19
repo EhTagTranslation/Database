@@ -14242,6 +14242,7 @@ example:
 | freedom nakai | フリーダム中井 |  |  |
 | fuji okayu | ふじおかゆ |  |  |
 | fujisaki chiro | 藤崎チロ |  |  |
+| hakidame | はきだめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
