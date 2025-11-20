@@ -13428,6 +13428,7 @@ example:
 | todaya | トダ屋 |  |  |
 | tsubukisou | つぶ木荘 |  |  |
 | seido shiru agari | セイドシルアガリ |  |  |
+| maru no nakahawa | まるのなかはわ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
