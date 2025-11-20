@@ -13410,6 +13410,7 @@ example:
 | shitatattel | シタタッテル |  |  |
 | manmaya | まんま屋 |  |  |
 | rojiura 6-3 | ロジウラ6-3 |  |  |
+| tokkuni tokku | とっくに特区 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
