@@ -1064,7 +1064,7 @@ example:
 | asuka | 飞鸟 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>![](https://kitztqqrsr.hath.network/om/67645478/04835597203e36927b017c1bda4f927cf2803688-2442968-600-338-gif/x/0/c2y1mce70tzra31tlha/SenranKagura_Season2_Episode1_Omake_17_600x338.gif) |  |
 | ayame | 菖蒲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ab12d6ffb1b7d0a27bc90495fbee760d/2c168e18972bd40733dc69b078899e510fb30911.jpg)<br>所属作品：`senran kagura` |  |
 | bashou | 芭蕉 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0800245aa818972ba33a00c2d6cc7b9d/fccbf22a6059252d0c3c054a379b033b5bb5b903.jpg)<br>所属作品：`senran kagura` |  |
-| chihaya | 千早 | ![](https://ehgt.org/f4/ba/f4bad3a928bb47f271f9efba5716cac8c02e56d5-45171-384-480-jpg_l.jpg) |  |
+| chihaya | 千早 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2ad6c350ae6eddc426e7b4f309dab6a2/9b3b4e63f6246b6028115fc1e8f81a4c510fa21e.jpg)<br>所属作品：`senran kagura` |  |
 |  | 千岁 | 重复项 |  |
 | chiyo | 千代 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=066a297518d5ad6eaaf964e2b1ca39a3/d72d9b096b63f624bf112bb28444ebf81b4ca3e1.jpg)<br>所属作品：`senran kagura` |  |
 | daidouji | 大道寺前辈 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0a96ee6339292df597c3ac1d8c305ce2/d331568da97739122d63ae2dfb198618377ae2e3.jpg)<br>所属作品：`senran kagura` |  |
