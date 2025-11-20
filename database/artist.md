@@ -14298,6 +14298,7 @@ example:
 | matsuda yuusuke | マツダユウスケ |  |  |
 | moroheiya | もろへいや |  |  |
 | mori no hiyashi chuuka | 杜のひやし中華 |  |  |
+| mona liza | モナリザ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
