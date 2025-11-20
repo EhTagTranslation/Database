@@ -1811,7 +1811,7 @@ example:
 | mari watanabe | 渡边摩利 |  |  |
 | mayumi saegusa | 七草真由美 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/10/12/20/03/129150857_p3_master1200.jpg)<br>所属作品：`mahouka koukou no rettousei`<br>第一学年一高的学生会会长，也是十师族之一七草家的长女，同深雪一样，以第一名的成绩通过了第一高中的入学考试的才女。 | [萌娘百科](https://zh.moegirl.org.cn/七草真由美) |
 | miyuki shiba | 司波深雪 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_miyuki.png)<br>所属作品：`mahouka koukou no rettousei`<br>魔法师家族四叶家秘密的候选继任者，司波龙郎与司波深夜（四叶深夜）之女，司波达也的妹妹。魔法实力、实绩成绩都是最好的新生代表。 | [萌娘百科](https://zh.moegirl.org.cn/司波深雪) |
-| mizuki shibata | 柴田美月 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/13/15/27/33/129261496_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>达也在开学典礼上认识的新生，与千叶艾莉卡一同出现，一直会对达也兄妹的秀恩爱展现脸红状态，不能分辨俩人开的小玩笑会一直当真。 | [萌娘百科](https://zh.moegirl.org.cn/柴田美月) |
+| mizuki shibata | 柴田美月 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/13/15/27/33/129261496_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/柴田美月) |
 | sayaka mibu | 壬生纱耶香 |  |  |
 | shizuku kitayama | 北山雫 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_shizuku.png)<br>所属作品：`mahouka koukou no rettousei`<br>大财阀北山家族的千金。平时很少发表自己的主张，但是却是言辞犀利并且十分聪敏的角色。是剧中的吐槽役担当。 | [萌娘百科](https://zh.moegirl.org.cn/北山雫) |
 | suzune ichihara | 市原铃音 |  |  |
