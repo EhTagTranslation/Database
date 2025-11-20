@@ -7451,6 +7451,7 @@ example:
 | cherche | 塞尔裘 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/98/Cherche_Awakening_Artwork.png/revision/latest?cb=20231223055537)<br>日文：セルジュ<br>所属作品: `fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Cherche) |
 | lissa | 莉兹 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/37/Lissa_FE13_Artwork.png/revision/latest?cb=20170221215104)<br>日文：リズ<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Lissa) |
 | miriel | 米莉艾尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4c/Miriel_%28FE13_Artwork%29.png/revision/latest?cb=20211206024908)<br>日文：ミリエル<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Miriel) |
+| panne | 贝尔贝特 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/bf/Panne_%28FE13_Artwork%29.png/revision/latest?cb=20180220024856)<br>日文：ベルベット<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Panne) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
