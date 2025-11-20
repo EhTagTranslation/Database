@@ -14300,6 +14300,7 @@ example:
 | mori no hiyashi chuuka | 杜のひやし中華 |  |  |
 | mona liza | モナリザ |  |  |
 | moedomura | もえどむら |  |  |
+| mizuki ebi | 水生えび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
