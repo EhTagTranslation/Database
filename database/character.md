@@ -1078,7 +1078,7 @@ example:
 | homura | 焰 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=13bb35f7a51ea8d38a22740ca70b30cf/38a72f7b02087bf42a90d5a5f1d3572c11dfcf34.jpg)<br>所属作品：`senran kagura` |  |
 | ikaruga | 斑鸠 | ![](https://i0.hdslb.com/bfs/article/e8e1370eba33ebedf0a927021351e8d5298252208.png)<br>所属作品：`senran kagura` |  |
 | imu | 忌梦 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ce74dafd66380cd7e61ea2e59144ad14/f8f674da81cb39dbc8f7421bd3160924ab18307d.jpg)<br>所属作品：`senran kagura` |  |
-| josui | 如水 | ![](https://ehgt.org/87/de/87deb92ec41935af054b86509c27f7cd95a48b2b-46099-384-480-jpg_l.jpg) |  |
+| josui | 如水 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2143ad4a379b033b2c88fcd225cf3620/f4329fa1cd11728bb2793c6ccbfcc3cec2fd2cde.jpg)<br>所属作品：`senran kagura` |  |
 | kaede | 枫 | ![](https://ehgt.org/c9/a5/c9a5392c447c50c4bc2c137168e797538c8deb5c-45265-380-479-jpg_l.jpg) |  |
 | kagari | 篝 | ![](https://ehgt.org/70/d1/70d1f5affc739a4770934369de03102ee571ad52-48570-168-210-jpg_l.jpg) |  |
 |  | 神乐 | 重复项 |  |
