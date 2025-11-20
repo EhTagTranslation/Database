@@ -14365,6 +14365,7 @@ example:
 | todakenji | トダケンジ |  |  |
 | toin | といん |  |  |
 | toppogi | トッポギ |  |  |
+| toyono kitsune | とよのきつね。 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
