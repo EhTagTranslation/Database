@@ -7410,7 +7410,7 @@ example:
 | matabei goto | 后藤又兵卫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/8d/19902_crt_d7tD0.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | kanetsugu naoe | 直江兼续 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f9/e3/19900_crt_I3qBG.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：なおえ かねつぐ |  |
 | selnia iori flameheart | 塞尔尼娅·伊织·佛雷姆哈特 | ![](https://yawetafvwa.hath.network/om/4128956/6768fe5d40145068c6259aa99a5ae3456468f18c-1424482-500-456-gif/x/0/dqjkuae265lv801tl6s/3b30c95ae637a9d9b37c00182dda47e3.gif)<br>所属作品：`ladies versus butlers` |  |
-| tomomi saikyou | 彩京朋美 | ![](https://meedsvsihfucekymfgbe.hath.network/om/11384745/3eeea155abb12bb2bc0d08ed6b04e5b26fef9037-502091-500-490-gif/x/0/jgfsgftjnsm7vf1tl6t/c5750685b3a265965c05b4980d31afef.gif)<br>所属作品：`ladies versus butlers` |  |
+| tomomi saikyou | 彩京朋美 | ![](https://yawetafvwa.hath.network/om/9245837/eab445e0d5ad81678cbe2300f6ea1d85916edb33-1284985-500-479-gif/x/0/1jeqsqwtdns7fo1tl6u/0509908c0a6be9d75ceb05ae995e0282.gif)<br>所属作品：`ladies versus butlers` |  |
 | saori shikikagami | 四季镜沙织 | ![](https://meedsvsihfucekymfgbe.hath.network/om/11384745/3eeea155abb12bb2bc0d08ed6b04e5b26fef9037-502091-500-490-gif/x/0/jgfsgftjnsm7vf1tl6t/c5750685b3a265965c05b4980d31afef.gif)<br>所属作品：`ladies versus butlers` |  |
 
 <!--TEMPLATE: 
