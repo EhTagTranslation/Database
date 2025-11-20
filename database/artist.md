@@ -14278,6 +14278,7 @@ example:
 | kawasaki | かわさき |  |  |
 | kaniguruma | かにぐるま |  |  |
 | keibou | ケイボウ |  |  |
+| ken sogen | 研そうげん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
