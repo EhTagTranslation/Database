@@ -13421,6 +13421,7 @@ example:
 | duelroid | デュエロイド |  |  |
 | tamaya gekijou | 玉屋劇場 |  |  |
 | natsu no ouchi | なつのおうち |  |  |
+| taroimobatake | たろいも畑 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
