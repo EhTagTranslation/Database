@@ -7467,6 +7467,7 @@ example:
 | shiiko sugai | 诗子菅井 |  |  |
 | cecilia irene | 塞西莉亚·艾琳 |  |  |
 | ayame yomogawa | 四方川菖蒲 |  |  |
+| yuzu kurosaki | 黑崎游子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
