@@ -14308,6 +14308,7 @@ example:
 | methonium | シネクドキ |  |  |
 | megrim haruyo | メグリム・ハルヨ |  |  |
 | nakahara dragon | なかはらドラゴン |  |  |
+| naki ekubo | 泣きえくぼ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
