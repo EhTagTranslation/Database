@@ -2294,7 +2294,7 @@ example:
 | catria | 卡秋娅 | 《火焰之纹章：纹章之谜》游戏角色 |  |
 | cordelia | 缇亚莫 |  |  |
 | lyndis | 琳迪斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0c/Lyndis.png/revision/latest?cb=20230921054715)<br>琳迪斯，又名琳，为`p:fire emblem the blazing blade`的主要登场角色。 | [百度百科](https://baike.baidu.com/item/琳迪斯/7030451)<br>[Fandom](https://fireemblem.fandom.com/wiki/Lyn) |
-| nowi | 诺诺 |  |  |
+| nowi | 诺诺 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/54/Nowi_%28FE13_Artwork%29.png/revision/latest?cb=20160803011607)<br>日文：ノノ<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Nowi) |
 |  | ▼ 美少女战士 |  |  |
 | tuxedo mask | 大礼服假面 | 地场卫 |  |
 | sailor moon | 水手月亮 | 月野兔 |  |
