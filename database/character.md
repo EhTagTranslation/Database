@@ -7399,6 +7399,7 @@ example:
 | josie rizal | 乔西.黎萨尔 | ![](https://ehgt.org/w/01/777/27805-hdbotajc.webp)<br>所属作品：`tekken` |  |
 | kanade suzutsuki | 凉月奏 | ![](https://ehgt.org/w/01/967/13832-raefsz1l.webp)<br>所属作品：`mayo chiki` |  |
 | paine | 佩茵 | ![](https://ehgt.org/w/01/885/60603-2wclhgvp.webp)<br>所属作品：`final fantasy x` |  |
+| rio rollins tachibana | 理欧·罗伦斯 | ![](https://img.moegirl.org.cn/common/d/d3/理欧1.jpg)<br>所属作品：`super black jack`<br>日语名：リオ・ロリンズ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
