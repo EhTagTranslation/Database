@@ -14292,6 +14292,7 @@ example:
 | marumai | まるまい |  |  |
 | kyozow | きょぞう |  |  |
 | london inu | London犬 |  |  |
+| manchi kan | マンチ★カン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
