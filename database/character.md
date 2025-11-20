@@ -7444,6 +7444,7 @@ example:
 | lara | Lara \| 拉碧丝 | ①<br>![](https://static.wikia.nocookie.net/fireemblem/images/0/06/FE5_Lara_Artwork.png/revision/latest?cb=20160331014939)<br>所属作品: `fire emblem thracia 776`<br><br>②<br>![](https://static.wikia.nocookie.net/harvestmoonrunefactory/images/9/94/Lara_%28RFF%29.png/revision/latest?cb=20120724023931)<br>日文名：ラピス<br>所属作品: `rune factory` | [火焰之纹章 多拉基亚776：Lara](https://fireemblem.fandom.com/wiki/Lara)<br>[符文工房：拉碧丝](https://wiki.biligame.com/runefactory/ラピス) |
 | lila decyrus | 莉拉·德西亚斯 | ![](https://i2.hdslb.com/bfs/new_dyn/64f8d8adcbeebce03e25c27255f24182262400697.png)<br>所属作品：`atelier ryza`第三部 |  |
 | laylea | Laylea | ![](https://static.wikia.nocookie.net/fireemblem/images/d/dc/Laylea_%28FE_Treasure%29.png/revision/latest?cb=20170410004711)<br>日文: レイリア<br>所属作品: `fire emblem genealogy of the holy war` | [Fandom](https://fireemblem.fandom.com/wiki/Laylea) |
+| julianne stingray | 朱丽安·斯汀雷 | ![](https://www.gfwiki.org/images/c/cf/Pic_Jill_HD.png)<br>所属作品：`va-11 hall-a` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
