@@ -1111,7 +1111,7 @@ example:
 | yagyuu | 柳生 | ![](https://img.moegirl.org.cn/common/3/3c/闪乱神乐-柳生.jpg)<br>所属作品：`senran kagura` |  |
 | yomi | 咏 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1340/h_1778/50118/72324/2025/0/21/453676.png)<br>![](https://yawetafvwa.hath.network/om/67645466/6effc495e66f15f1012c27dbb376c3111093cee0-1669101-600-338-gif/x/0/c05hpf5lzyl98d1tlhf/SenranKagura_Season2_Episode1_Omake_5_600x338.gif) |  |
 | yoshimitsu | 吉光 | ![](https://ehgt.org/56/c0/56c03fe31f6ca8ba38a2474cc63a7ac6a7c51afc-76910-384-480-jpg_l.jpg) |  |
-| yozakura | 夜樱 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_1532/50118/157597/2025/0/21/630864.webp) |  |
+| yozakura | 夜樱 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_1532/50118/157597/2025/0/21/630864.webp)<br>所属作品：`senran kagura` |  |
 | yugiri | 夕雾 | ![](https://ehgt.org/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |  |
 | yumi | 雪泉 | ![](https://i0.hdslb.com/bfs/article/c8a750f7089fa87801458ff7dbeb8b57298252208.png)<br>所属作品：`senran kagura` |  |
 | yuyaki | 夕烧 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/89744e7153bd920687d7d2eed79306f8298252208.png) |  |
