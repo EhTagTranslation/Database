@@ -7403,6 +7403,7 @@ example:
 | milla maxwell | 米拉·麦克斯威尔 | ![](https://ehgt.org/w/01/766/91243-h3q4kb5e.webp)<br>所属作品：`tales of xillia` |  |
 | archerko | Archer子 | ![](https://praogxqcch.hath.network/om/194006863/6582c122c4e262a5ee57480399c844e5ba7d2094-3999851-1640-2360-jpg/191e1812b3732355873c6483240cd911fe50b1f7-104384-800-1151-wbp/800/tjv4jq6hakfg3s1tl62/130940961_p1.webp)<br>所属作品：`fate stay night`<br>Archer的女版同人形象 |  |
 | yagyuu juubei | 柳生十兵卫三严 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/44/11322_crt_nN6lu.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
+| muneakira yagyuu | 柳生宗朗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/a5/11323_crt_ZNIi1.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
