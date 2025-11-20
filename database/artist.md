@@ -14297,6 +14297,7 @@ example:
 | mato mai | まと舞 |  |  |
 | matsuda yuusuke | マツダユウスケ |  |  |
 | moroheiya | もろへいや |  |  |
+| mori no hiyashi chuuka | 杜のひやし中華 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
