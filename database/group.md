@@ -13425,6 +13425,7 @@ example:
 | hikagemon | ひかげもん |  |  |
 | nyukusudou | にゅくす堂 |  |  |
 | teriyaki sasami don | テリヤキササミ丼 |  |  |
+| todaya | トダ屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
