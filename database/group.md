@@ -13433,6 +13433,7 @@ example:
 | obake no ringoya-san | お化けの林檎屋さん |  |  |
 | yuzu ko | ユズ庫 |  |  |
 | zonebell market | ゾンベルマーケット |  |  |
+| byururun youkeijou | びゅるるん★養鶏場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
