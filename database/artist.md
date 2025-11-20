@@ -14341,6 +14341,7 @@ example:
 | shamidou maichimonji | しゃみどーまいちもんじ |  |  |
 | shikorisasu | シコリサス |  |  |
 | shimagon | 嶋艮 |  |  |
+| shimakawa | しまかわ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
