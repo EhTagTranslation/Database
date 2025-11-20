@@ -14338,6 +14338,7 @@ example:
 | sasada aki | 佐々田あき |  |  |
 | sasamino | ささみの |  |  |
 | senno knife | 千之ナイフ |  |  |
+| shamidou maichimonji | しゃみどーまいちもんじ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
