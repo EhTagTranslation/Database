@@ -575,7 +575,7 @@ example:
 | mai hidaka | 日高舞 |  |  |
 | eri mizutani | 水谷绘理 |  |  |
 | ryo akizuki | 秋月凉 |  |  |
-| uzuki shimamura | 岛村卯月 | ![图](https://ehgt.org/96/01/9601e0fe69688f3922ce90bb34e8cf87415416a1-1217804-3840-2160-jpg_l.jpg)![图](# "https://ehgt.org/48/7f/487f540d2e5b849d7a0e2bf09b5cf837034bf6b8-193862-1150-1654-jpg_l.jpg")![图](# "https://ehgt.org/9f/3d/9f3d2de46edd0782329b0a259e7422d6c6b7af9a-3264173-2400-3390-jpg_l.jpg")![图](# "https://ehgt.org/82/00/820010d86437a37a6060bf6f6aa25232e4a70ce7-1214060-2126-3000-jpg_l.jpg")![图](# "https://ehgt.org/df/9b/df9b0739161fe94c6029ffb7897b087290f3f298-3490765-2122-3000-jpg_l.jpg") |  |
+| uzuki shimamura | 岛村卯月 | ![](https://img.moegirl.org.cn/common/0/08/シンデレラガール_島村卯月.jpg)<br>![](https://img.moegirl.org.cn/common/1/14/Uzuki_Cinderella_SR%2B.jpg)<br>所属作品：`the idolmaster` |  |
 | yukari mizumoto | 水本紫 |  |  |
 | mai fukuyama | 福山舞 |  |  |
 | kanako mimura | 三村加奈子 |  |  |
