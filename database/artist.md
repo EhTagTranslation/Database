@@ -14294,6 +14294,7 @@ example:
 | london inu | London犬 |  |  |
 | manchi kan | マンチ★カン |  |  |
 | matanoshita saguru | またのした |  |  |
+| mato mai | まと舞 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
