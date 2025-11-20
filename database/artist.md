@@ -14346,6 +14346,7 @@ example:
 | silver radish | 銀ダイコン |  |  |
 | smash daisaku | スマッシュ代作 |  |  |
 | megadriver | メガドライバー |  |  |
+| najimi shin | 馴染しん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
