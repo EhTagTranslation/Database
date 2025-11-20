@@ -14290,6 +14290,7 @@ example:
 | kurinohana | 栗の花 |  |  |
 | koushouin teisetsu | 高尚院貞節 |  |  |
 | marumai | まるまい |  |  |
+| kyozow | きょぞう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
