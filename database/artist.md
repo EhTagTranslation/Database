@@ -7941,7 +7941,7 @@ example:
 | minazuki ayu | 水無月愛勇 |  |  |
 | mineyuki | 峰之 |  |  |
 | mingaru | ミンガル |  |  |
-| miniru | miniru |  |  |
+| miniru | みんぐ |  |  |
 | minna no haipe | みんなのハイペ |  |  |
 | mino kureha | 美濃紅葉 |  |  |
 | minobu gentle | 身延ジェントル |  | [pixiv](https://www.pixiv.net/users/366834) |
