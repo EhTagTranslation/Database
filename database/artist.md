@@ -14380,6 +14380,7 @@ example:
 | bon curry | 梵辛 |  |  |
 | benjamin | ベンジャミン |  |  |
 | emumiya nyamu | えむみやにゃむ |  |  |
+| enari | 江成 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
