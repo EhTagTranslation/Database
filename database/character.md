@@ -1113,7 +1113,7 @@ example:
 | yoshimitsu | 吉光 | ![](https://ehgt.org/56/c0/56c03fe31f6ca8ba38a2474cc63a7ac6a7c51afc-76910-384-480-jpg_l.jpg) |  |
 | yozakura | 夜樱 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_1532/50118/157597/2025/0/21/630864.webp) |  |
 | yugiri | 夕雾 | ![](https://ehgt.org/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |  |
-| yumi | 雪泉 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/c8a750f7089fa87801458ff7dbeb8b57298252208.png)<br>![](https://gexuwzvtupijavcmprzc.hath.network/om/67645477/13a53aae14bfdaa68c28b5f34400cede565f71e2-2100745-500-282-gif/x/0/7te1mces3r6nbu1tlh9/SenranKagura_Season2_Episode1_Omake_16.gif)<br>![](https://cruocywewy.hath.network/om/67645310/d5c444cc7c874b2293cf4ae167d7e19d4f8558fb-2141487-600-327-gif/x/0/nafl8mvpnxmz7d1tlhb/SenranKagura_2ndSeason_Episode2_Omake_8_600x327.gif) |  |
+| yumi | 雪泉 | ![](https://i0.hdslb.com/bfs/article/c8a750f7089fa87801458ff7dbeb8b57298252208.png)<br>所属作品：`senran kagura` |  |
 | yuyaki | 夕烧 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/89744e7153bd920687d7d2eed79306f8298252208.png) |  |
 |  | ▼ 小林家的龙女仆 角色 |  |  |
 | tohru | 托尔 | ![托尔](https://ehgt.org/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |  |
