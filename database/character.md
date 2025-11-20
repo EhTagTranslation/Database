@@ -1107,7 +1107,7 @@ example:
 | suzune | 铃音（凛） | ![](https://ehgt.org/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |  |
 | syuri | 朱璃 | ![](https://ehgt.org/d3/65/d365fef6585d875d536424926782b2f74d7d9d26-51428-384-480-jpg_l.jpg) |  |
 | ukyou | 右京 | ![](https://ehgt.org/5e/f8/5ef80a4733e4af892a7a3bee8662ddf5f9004026-44378-384-480-jpg_l.jpg) |  |
-| ushimaru | 牛丸 | ![](https://ehgt.org/b4/c0/b4c052d94635c37e1a6ac9aeb8e495dff4f61f8f-47167-384-480-jpg_l.jpg) |  |
+| ushimaru | 牛丸 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=99062d18f5246b607b0eb27cdbf91a35/157c001f95cad1c880898f6c7c3e6709c93d5178.jpg)<br>所属作品：`senran kagura` |  |
 | yagyuu | 柳生 | ![](https://img.moegirl.org.cn/common/3/3c/闪乱神乐-柳生.jpg)<br>所属作品：`senran kagura` |  |
 | yomi | 咏 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1340/h_1778/50118/72324/2025/0/21/453676.png)<br>![](https://yawetafvwa.hath.network/om/67645466/6effc495e66f15f1012c27dbb376c3111093cee0-1669101-600-338-gif/x/0/c05hpf5lzyl98d1tlhf/SenranKagura_Season2_Episode1_Omake_5_600x338.gif) |  |
 | yoshimitsu | 吉光 | ![](https://ehgt.org/56/c0/56c03fe31f6ca8ba38a2474cc63a7ac6a7c51afc-76910-384-480-jpg_l.jpg) |  |
