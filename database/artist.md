@@ -14391,6 +14391,7 @@ example:
 | kanashiro no hako | かなしろの箱 |  |  |
 | kinugasa yuuichi | キヌガサ雄一 |  |  |
 | matsunoda you | 松野田ヨウ |  |  |
+| siberian hahasky | シベリアン母スキー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
