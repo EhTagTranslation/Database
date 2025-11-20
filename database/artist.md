@@ -14324,6 +14324,7 @@ example:
 | purinpu | ぷりんぷ |  |  |
 | orishin | 折慎 |  |  |
 | r-gen | R言 |  |  |
+| shingyouji tatsuya | 富本たつや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
