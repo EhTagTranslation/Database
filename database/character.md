@@ -7422,6 +7422,7 @@ example:
 | fumika mitarai | 御手洗史伽 | ![](https://vazgursnknzwalzfwvrt.hath.network/om/60212805/052511dcd9226d3bd600638be0391620683e2b0b-1956368-540-280-gif/x/0/nvepqls1byr4ki1tl9l/tumblr_oaodxgQrqK1vpe4noo3_540.gif)<br>所属作品：`seikon no qwaser`<br>日语名 みたらい ふみか |  |
 | alexander nikolaevich hell | 沙夏 | ![](https://bhguflqrtiezymuvgxtr.hath.network/om/60212712/99fabd4cb9e87440d0ebc05f8e17ca0a11ed9c12-873822-500-281-gif/x/0/hvrxhm19czr1vq1tl9p/0f1b82c2a86a61a55d12f2c6bd6e77b62406307f_hq.gif)<br>![](https://uyskgmdsdjonwezeizcx.hath.network/om/12996855/67517fd4e036d1098589823650fdfae0f4f12810-1124127-640-360-gif/x/0/ajiqlvvrtxoy8e1tl9s/102.gif)<br>所属作品：`seikon no qwaser`<br>全名 亚历山大·尼克拉叶维奇·赫尔<br>日文名 アレクサンドル＝ニコラエビッチ＝ヘル |  |
 | urara oikawa | 及川丽 | 所属作品：`seikon no qwaser`<br>日文名 及川麗 |  |
+| cure precious | キュアプレシャス \| 和実ゆい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
