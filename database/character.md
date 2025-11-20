@@ -7458,6 +7458,7 @@ example:
 | emmeryn | 爱梅莉娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6a/Emmeryn_Artwork.png/revision/latest?cb=20160420100128)<br>日文：エメリナ<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Emmeryn) |
 | flavia | 芙拉维亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/08/Flavia_Official_Art.png/revision/latest?cb=20160607231934)<br>日文：フラヴィア<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Flavia) |
 | maribelle | 玛丽亚贝尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6d/Maribelle_%28FE13_Artwork%29.png/revision/latest?cb=20231223033148)<br>日文：マリアベル<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Maribelle) |
+| nah | 恩恩 | ![](https://static.wikia.nocookie.net/fireemblem/images/2/2c/Nah_FE13_Artwork.png/revision/latest?cb=20160617071327)<br>日文：ンン<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Nah) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
