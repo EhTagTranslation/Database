@@ -1066,7 +1066,7 @@ example:
 | bashou | 芭蕉 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0800245aa818972ba33a00c2d6cc7b9d/fccbf22a6059252d0c3c054a379b033b5bb5b903.jpg)<br>所属作品：`senran kagura` |  |
 | chihaya | 千早 | ![](https://ehgt.org/f4/ba/f4bad3a928bb47f271f9efba5716cac8c02e56d5-45171-384-480-jpg_l.jpg) |  |
 |  | 千岁 | 重复项 |  |
-| chiyo | 千代 | ![](https://ehgt.org/af/cc/afcc7f5743f7829d4f186d8e20803c73cbf201ff-44418-384-480-jpg_l.jpg) |  |
+| chiyo | 千代 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=066a297518d5ad6eaaf964e2b1ca39a3/d72d9b096b63f624bf112bb28444ebf81b4ca3e1.jpg)<br>所属作品：`senran kagura` |  |
 | daidouji | 大道寺前辈 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0a96ee6339292df597c3ac1d8c305ce2/d331568da97739122d63ae2dfb198618377ae2e3.jpg)<br>所属作品：`senran kagura` |  |
 | fuga | 风雅 | ![](https://ehgt.org/fa/ec/faec74c9ac75adae505ce4c52b5ba0bb0a83abf0-45188-384-480-jpg_l.jpg) |  |
 | fuma | 风魔 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5ed14a87e5cd7b89e96c3a8b3f254291/f1180d34349b033bd163b69716ce36d3d439bd42.jpg)<br>所属作品：`senran kagura` |  |
