@@ -1073,7 +1073,7 @@ example:
 | ginrei | 银岭 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7a09fd6c8ef76093c0b99971edca301/10c8c3cd7b899e51e4e7a15f41a7d933c9950dc6.jpg)<br>所属作品：`senran kagura` |  |
 | haruka | 春花 | ![](https://ehgt.org/8d/b6/8db6694c3bc12b4b24f1d00565584e7dfbccaa6d-68700-384-480-jpg_l.jpg) |  |
 | hibari | 云雀 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3879a4bb9c3df8dca63d8f99fd1072bf/2dc8743d269759ee75dbca87b1fb43166c22dfa1.jpg)<br>所属作品：`senran kagura` |  |
-| hijikata | 土方 | ![](https://ehgt.org/6c/2a/6c2a825a6a8ea0ef220a5a431744ebc23d8929f9-42376-384-480-jpg_l.jpg) |  |
+| hijikata | 土方 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=d0561b56d70735fa91f04eb1ae500f9f/456b002dd42a28344fd58f4658b5c9ea15cebf3a.jpg)<br>所属作品：`senran kagura` |  |
 | hikage | 日影 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_670/h_1820/50118/157597/2025/0/21/421278.webp)<br>所属作品：`senran kagura` |  |
 | homura | 焰 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=13bb35f7a51ea8d38a22740ca70b30cf/38a72f7b02087bf42a90d5a5f1d3572c11dfcf34.jpg)<br>所属作品：`senran kagura` |  |
 | ikaruga | 斑鸠 | ![](https://i0.hdslb.com/bfs/article/e8e1370eba33ebedf0a927021351e8d5298252208.png)<br>所属作品：`senran kagura` |  |
