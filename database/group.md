@@ -13420,6 +13420,7 @@ example:
 | kasshoku no shiori | 褐色のしおり |  |  |
 | duelroid | デュエロイド |  |  |
 | tamaya gekijou | 玉屋劇場 |  |  |
+| natsu no ouchi | なつのおうち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
