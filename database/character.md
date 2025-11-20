@@ -1069,7 +1069,7 @@ example:
 | chiyo | 千代 | ![](https://ehgt.org/af/cc/afcc7f5743f7829d4f186d8e20803c73cbf201ff-44418-384-480-jpg_l.jpg) |  |
 | daidouji | 大道寺前辈 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0a96ee6339292df597c3ac1d8c305ce2/d331568da97739122d63ae2dfb198618377ae2e3.jpg)<br>所属作品：`senran kagura` |  |
 | fuga | 风雅 | ![](https://ehgt.org/fa/ec/faec74c9ac75adae505ce4c52b5ba0bb0a83abf0-45188-384-480-jpg_l.jpg) |  |
-| fuma | 风魔 | ![](https://ehgt.org/77/c2/77c2b509b629eabb4b29ef931103eab70b07708d-47421-384-480-jpg_l.jpg) |  |
+| fuma | 风魔 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5ed14a87e5cd7b89e96c3a8b3f254291/f1180d34349b033bd163b69716ce36d3d439bd42.jpg)<br>所属作品：`senran kagura` |  |
 | ginrei | 银岭 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7a09fd6c8ef76093c0b99971edca301/10c8c3cd7b899e51e4e7a15f41a7d933c9950dc6.jpg)<br>所属作品：`senran kagura` |  |
 | haruka | 春花 | ![](https://ehgt.org/8d/b6/8db6694c3bc12b4b24f1d00565584e7dfbccaa6d-68700-384-480-jpg_l.jpg) |  |
 | hibari | 云雀 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3879a4bb9c3df8dca63d8f99fd1072bf/2dc8743d269759ee75dbca87b1fb43166c22dfa1.jpg)<br>所属作品：`senran kagura` |  |
