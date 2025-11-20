@@ -14339,6 +14339,7 @@ example:
 | sasamino | ささみの |  |  |
 | senno knife | 千之ナイフ |  |  |
 | shamidou maichimonji | しゃみどーまいちもんじ |  |  |
+| shikorisasu | シコリサス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
