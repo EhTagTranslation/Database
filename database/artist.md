@@ -14340,6 +14340,7 @@ example:
 | senno knife | 千之ナイフ |  |  |
 | shamidou maichimonji | しゃみどーまいちもんじ |  |  |
 | shikorisasu | シコリサス |  |  |
+| shimagon | 嶋艮 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
