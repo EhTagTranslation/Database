@@ -14313,6 +14313,7 @@ example:
 | nanita | ナニタ |  |  |
 | ngu | んぐ |  |  |
 | nijiiro guin | 虹色ぐいん |  |  |
+| nishio nishipa | 西尾ニシパ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
