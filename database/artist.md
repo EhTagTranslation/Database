@@ -14401,6 +14401,7 @@ example:
 | pasta | パスタ |  |  |
 | pirukusu | ぴるくす |  |  |
 | ikki ichiyuu | 一起一雄 |  |  |
+| peta | ぺた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
