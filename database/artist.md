@@ -14325,6 +14325,7 @@ example:
 | orishin | 折慎 |  |  |
 | r-gen | R言 |  |  |
 | shingyouji tatsuya | 富本たつや |  |  |
+| shinonome | 東雲 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
