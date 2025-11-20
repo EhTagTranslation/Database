@@ -14281,6 +14281,7 @@ example:
 | ken sogen | 研そうげん |  |  |
 | kanamono | かなもの |  |  |
 | kanae p taro | 金江P太郎 |  |  |
+| kotobachi | ことばち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
