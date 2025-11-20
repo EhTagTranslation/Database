@@ -13416,6 +13416,7 @@ example:
 | hagurumarokuro | ハグルマロクロ |  |  |
 | mega driver | メガドライバー |  |  |
 | soregasiya | それがし屋 |  |  |
+| shouten tenshi | 昇天天使 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
