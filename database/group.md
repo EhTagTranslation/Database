@@ -13399,6 +13399,7 @@ example:
 | mio camp | 澪キャンプ |  |  |
 | memeris-channel | メメリスチャンネル |  |  |
 | okamoto gahaku | 岡本画伯 |  |  |
+| yonkaku box | ヨンカクボックス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
