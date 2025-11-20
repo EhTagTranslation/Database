@@ -14323,6 +14323,7 @@ example:
 | penova | ペノバ |  |  |
 | purinpu | ぷりんぷ |  |  |
 | orishin | 折慎 |  |  |
+| r-gen | R言 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
