@@ -7398,6 +7398,7 @@ example:
 | yuri | 优里 | ![](https://ehgt.org/w/01/633/63981-ad26mnom.webp)<br>所属作品：`doki doki literature club` |  |
 | josie rizal | 乔西.黎萨尔 | ![](https://ehgt.org/w/01/777/27805-hdbotajc.webp)<br>所属作品：`tekken` |  |
 | kanade suzutsuki | 凉月奏 | ![](https://ehgt.org/w/01/967/13832-raefsz1l.webp)<br>所属作品：`mayo chiki` |  |
+| paine | 佩茵 | ![](https://ehgt.org/w/01/885/60603-2wclhgvp.webp)<br>所属作品：`final fantasy x` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
