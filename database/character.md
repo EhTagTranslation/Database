@@ -7425,6 +7425,7 @@ example:
 | cure precious | キュアプレシャス \| 和実ゆい |  |  |
 | mutsumi sendou | 仙道六实 | ![](https://gexuwzvtupijavcmprzc.hath.network/om/12996775/07241d01fa25373055b0207c9176e1594ec8e6f2-1116257-640-360-gif/x/0/h8y270yk5p7qlp1tla6/025da7429697bbc9aac790631c46b640.gif)<br>![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/60212743/b29ce33c37f73b79bcd253f43bf03a44779a2c19-4428632-1000-562-gif/x/0/f66dx94lr5m8bd1tla7/295f119ffae3e0f1a2a6bae32c2f725e.gif)<br>所属作品：`seikon no qwaser`<br>日语名 仙道 六実 |  |
 | ami tsuruga | 鹤河秋水 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/04/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/鹤河秋水) |
+| galbrena | 嘉贝莉娜 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/b/ba/嘉贝莉娜_唤取立绘.png/revision/latest?cb=20251008004051&path-prefix=zh)<br>嘉贝莉娜是库洛制作的游戏《`p:wuthering waves`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/嘉贝莉娜)<br>[Fandom](https://wutheringwaves.fandom.com/zh/wiki/嘉贝莉娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
