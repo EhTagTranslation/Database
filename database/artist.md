@@ -14355,6 +14355,7 @@ example:
 | tamaya cinema | 玉屋キネマ |  |  |
 | tange natsu | 丹家なつ |  |  |
 | tansan tsuyo | 炭酸つよ |  |  |
+| taroimo tarou | たろいも太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
