@@ -1060,7 +1060,7 @@ example:
 | ageha | 扬羽 | ![](https://ehgt.org/82/3e/823e07b1218cf49207b09340534ad0175dc4c6e2-286069-384-480-png_l.jpg) |  |
 | aimu | 蓝梦 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=de59742afb1986184147ef8c7aec2e69/a82224e93901213fd54cbf9757e736d12f2e9534.jpg)<br>所属作品：`senran kagura` |  |
 | aria | 亚璃亚 \| 艾丽娅 | ①亚璃亚![](https://img.moegirl.org.cn/common/thumb/d/d7/闪乱神乐-亚璃亚.jpg/420px-闪乱神乐-亚璃亚.jpg)<br>《闪乱神乐》系列的登场角色。市立咲芸大学附属高校，高中3年级。<br><br>②艾丽娅![](https://img.moegirl.org.cn/common/thumb/6/61/精灵艾丽娅.png/270px-精灵艾丽娅.png)<br>銀翼のぞみ担任原作、夜ノみつき负责插画的小说《S级怪兽〈贝希摩斯〉被误认成小猫，成为精灵女孩的骑士（宠物）一起生活》中的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士（宠物）一起生活) |
-| ashiya | 芦屋 | ![](https://ehgt.org/73/d2/73d23bf0a118d460125c91b896868f27264f280d-47258-384-480-jpg_l.jpg) |  |
+| ashiya | 芦屋 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=7c1c18d3c8ef76093c0b99971edca301/10c8c3cd7b899e517f5b265a41a7d933c9950d5c.jpg)<br>所属作品：`senran kagura` |  |
 | asuka | 飞鸟 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>![](https://kitztqqrsr.hath.network/om/67645478/04835597203e36927b017c1bda4f927cf2803688-2442968-600-338-gif/x/0/c2y1mce70tzra31tlha/SenranKagura_Season2_Episode1_Omake_17_600x338.gif) |  |
 | ayame | 菖蒲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ab12d6ffb1b7d0a27bc90495fbee760d/2c168e18972bd40733dc69b078899e510fb30911.jpg)<br>所属作品：`senran kagura` |  |
 | bashou | 芭蕉 | ![](https://ehgt.org/2b/c5/2bc5e96f32f6bcd1f6fb369c171e2a5309c02747-53438-288-360-jpg_l.jpg) |  |
