@@ -14390,6 +14390,7 @@ example:
 | gomala | ごまら |  |  |
 | kanashiro no hako | かなしろの箱 |  |  |
 | kinugasa yuuichi | キヌガサ雄一 |  |  |
+| matsunoda you | 松野田ヨウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
