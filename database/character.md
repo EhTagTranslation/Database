@@ -1063,7 +1063,7 @@ example:
 | ashiya | 芦屋 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=7c1c18d3c8ef76093c0b99971edca301/10c8c3cd7b899e517f5b265a41a7d933c9950d5c.jpg)<br>所属作品：`senran kagura` |  |
 | asuka | 飞鸟 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/b8cd6f73b8de253cc09fa29aebbc73a3298252208.png)<br>![](https://kitztqqrsr.hath.network/om/67645478/04835597203e36927b017c1bda4f927cf2803688-2442968-600-338-gif/x/0/c2y1mce70tzra31tlha/SenranKagura_Season2_Episode1_Omake_17_600x338.gif) |  |
 | ayame | 菖蒲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ab12d6ffb1b7d0a27bc90495fbee760d/2c168e18972bd40733dc69b078899e510fb30911.jpg)<br>所属作品：`senran kagura` |  |
-| bashou | 芭蕉 | ![](https://ehgt.org/2b/c5/2bc5e96f32f6bcd1f6fb369c171e2a5309c02747-53438-288-360-jpg_l.jpg) |  |
+| bashou | 芭蕉 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0800245aa818972ba33a00c2d6cc7b9d/fccbf22a6059252d0c3c054a379b033b5bb5b903.jpg)<br>所属作品：`senran kagura` |  |
 | chihaya | 千早 | ![](https://ehgt.org/f4/ba/f4bad3a928bb47f271f9efba5716cac8c02e56d5-45171-384-480-jpg_l.jpg) |  |
 |  | 千岁 | 重复项 |  |
 | chiyo | 千代 | ![](https://ehgt.org/af/cc/afcc7f5743f7829d4f186d8e20803c73cbf201ff-44418-384-480-jpg_l.jpg) |  |
