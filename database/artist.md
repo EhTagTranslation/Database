@@ -14305,6 +14305,7 @@ example:
 | mirin to chikuwa | みりちく |  |  |
 | mio mio mio | 澪澪澪 |  |  |
 | minmei | みんめい |  |  |
+| methonium | シネクドキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
