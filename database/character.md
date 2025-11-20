@@ -7387,6 +7387,7 @@ example:
 | at-4 pani | AT-4 帕尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1570/h_1913/245/103682/2025/2/24/323093.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/24/51967.webp)<br>所属作品：`last origin` |  |
 | kei | Kei | 又译为凯伊 |  |
 | kotono shiunji | 紫云寺琴乃 |  |  |
+| isane kotetsu | 虎彻勇音 | ![](https://ehgt.org/w/01/561/35124-u6x0prd8.webp)<br>日文名：こてついさね |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
