@@ -1089,7 +1089,7 @@ example:
 | kuroudo | 藏人 | ![](https://ehgt.org/e9/f6/e9f669c7e1af68aed41e12562504acd6692abecb-329592-382-479-png_l.jpg) |  |
 | mai | 舞 | ![](https://ehgt.org/02/26/0226a1d840aa4dcecd422510ca53c8aad2411367-41642-384-480-jpg_l.jpg)<br>出自TH05-东方怪绮谈<br>![图](https://ehgt.org/f7/b9/f7b99413defcbd21f6e590f37cd97d0b438bde0b-675208-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/31/8d/318d25f2aa15492eab4374dd0efc1885ccfd4b44-1050990-896-1262-png_l.jpg") |  |
 | meimei | 美莓 | ![](https://ehgt.org/08/48/08484374879a66e75c43c4ab219b9674595f4876-38199-240-300-gif_l.jpg) |  |
-| minori | 美野里 | ![](https://ehgt.org/22/13/2213f193ac1fea2e07ca36f22814b171d39b50dd-288648-390-480-png_l.jpg) |  |
+| minori | 美野里 | ![](https://img.moegirl.org.cn/common/c/c3/闪乱神乐-美野里.jpg)<br>所属作品：`senran kagura` |  |
 | mirai | 未来 | ![](https://ehgt.org/45/c5/45c595e0c451252b8b18579328d4c2d91d4688c0-36830-384-480-jpg_l.jpg) |  |
 | misato | 深里 | ![](https://ehgt.org/b5/69/b56923c624ab02a111bb10f3672389a9e19f485c-47554-384-480-jpg_l.jpg) |  |
 | miyabi | 雅绯 | ![](https://ehgt.org/1b/a0/1ba05af02c838b1b33b1ecf598c29dcb00baf9f6-69389-288-360-jpg_l.jpg) |  |
