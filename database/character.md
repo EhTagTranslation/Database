@@ -7404,7 +7404,7 @@ example:
 | archerko | Archer子 | ![](https://praogxqcch.hath.network/om/194006863/6582c122c4e262a5ee57480399c844e5ba7d2094-3999851-1640-2360-jpg/191e1812b3732355873c6483240cd911fe50b1f7-104384-800-1151-wbp/800/tjv4jq6hakfg3s1tl62/130940961_p1.webp)<br>所属作品：`fate stay night`<br>Archer的女版同人形象 |  |
 | yagyuu juubei | 柳生十兵卫三严 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/44/11322_crt_nN6lu.jpg)<br>![](https://gexuwzvtupijavcmprzc.hath.network/om/40182868/3419430cf2c9238e06599f21e5e11a064ae0ffe2-106356-180-180-gif/x/0/ixz37w53kirqnl1tl7e/hyakka_ryouran_sg_e02_03_v4_crop_small.gif)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | muneakira yagyuu | 柳生宗朗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/a5/11323_crt_ZNIi1.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
-| gisen yagyuu | 柳生义仙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/74/19904_crt_QiaXn.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
+| gisen yagyuu | 柳生义仙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/74/19904_crt_QiaXn.jpg)<br>![](https://meedsvsihfucekymfgbe.hath.network/om/40312647/b68856dd45da39086f4678dd76aa5dd38d1aa29b-2857576-640-360-gif/x/0/fb97fnon39yw9c1tl7e/hyakka_ryouran_sg_e08_05.gif)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | yukimura sanada | 真田幸村 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b4/19898_crt_3Pmn7.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：さなだ ゆきむら |  |
 | hanzou hattori | 服部半藏 | ①<br>![](https://lain.bgm.tv/r/400/pic/crt/l/09/0f/19901_crt_f6EeU.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>②各类作品中名为服部半藏的角色 |  |
 | matabei goto | 后藤又兵卫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/8d/19902_crt_d7tD0.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
