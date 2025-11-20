@@ -7389,6 +7389,7 @@ example:
 | kotono shiunji | 紫云寺琴乃 |  |  |
 | isane kotetsu | 虎彻勇音 | ![](https://ehgt.org/w/01/561/35124-u6x0prd8.webp)<br>所属作品：`bleach`<br>日文名：こてついさね |  |
 | blaze fielding | 布雷兹·菲尔丁 | ![](https://ehgt.org/w/01/999/82635-4vdvnklt.webp)<br>所属作品：`streets of rage` |  |
+| clala | 克拉拉 | ![](https://ehgt.org/w/01/778/43856-5djcnrjc.webp)<br>所属作品：`quiz magic academy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
