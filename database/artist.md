@@ -14345,6 +14345,7 @@ example:
 | shimashima rissu | しましまリッス |  |  |
 | silver radish | 銀ダイコン |  |  |
 | smash daisaku | スマッシュ代作 |  |  |
+| megadriver | メガドライバー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
