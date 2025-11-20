@@ -1102,7 +1102,7 @@ example:
 | sakyou | 左京 | ![](https://ehgt.org/35/7c/357c4a3fd305858c1c236470015a29d26771bc0e-43185-384-480-jpg_l.jpg) |  |
 | seimei | 清明 | ![](https://ehgt.org/3a/1e/3a1e8c88eb13212e2f06410b91db2e9ca663f754-37813-384-480-jpg_l.jpg) |  |
 | siki | 四季 | ![](https://ehgt.org/70/b0/70b03c1e46e7a700992567ca7b3c2747dee56018-38869-384-480-jpg_l.jpg) |  |
-| shiki | 四季 | ![](https://ehgt.org/70/b0/70b03c1e46e7a700992567ca7b3c2747dee56018-38869-384-480-jpg_l.jpg) |  |
+| shiki | 四季 | ![](https://ehgt.org/w/02/086/82476-fmaq0hxq.webp)<br>所属作品：`samurai spirits` |  |
 | souji | 总司 | ![](https://ehgt.org/f4/03/f40375690734bc892d85170d921da33b7eb33cf7-60656-384-480-jpg_l.jpg) |  |
 | suzune | 铃音（凛） | ![](https://ehgt.org/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |  |
 | syuri | 朱璃 | ![](https://ehgt.org/d3/65/d365fef6585d875d536424926782b2f74d7d9d26-51428-384-480-jpg_l.jpg) |  |
