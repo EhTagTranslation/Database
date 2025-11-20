@@ -14399,6 +14399,7 @@ example:
 | yamada sansuke | 山田参助 |  |  |
 | rhel | れる |  | [pixiv](https://www.pixiv.net/users/74824844)<br>[X](https://x.com/hntbk_333) |
 | pasta | パスタ |  |  |
+| pirukusu | ぴるくす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
