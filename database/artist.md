@@ -7668,7 +7668,7 @@ example:
 | maruyama kei | 丸山圭 |  |  |
 | masa | 将 |  |  |
 | masa-nii | マサ兄 |  |  |
-| masaki | MASAKI |  |  |
+| masaki | 後藤マサキの野望 |  |  |
 | masaki shisari | 真咲シサリ |  |  |
 | masakichi | まさきち |  |  |
 | masama | まさma |  |  |
