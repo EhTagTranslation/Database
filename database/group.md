@@ -13422,6 +13422,7 @@ example:
 | tamaya gekijou | 玉屋劇場 |  |  |
 | natsu no ouchi | なつのおうち |  |  |
 | taroimobatake | たろいも畑 |  |  |
+| hikagemon | ひかげもん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
