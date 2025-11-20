@@ -14393,6 +14393,7 @@ example:
 | matsunoda you | 松野田ヨウ |  |  |
 | siberian hahasky | シベリアン母スキー |  |  |
 | gakeppuchi no kaede | 崖っぷちの楓 |  |  |
+| tsunosign | 角Sign |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
