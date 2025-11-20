@@ -14303,6 +14303,7 @@ example:
 | mizuki ebi | 水生えび |  |  |
 | mitsuashi | みつあし |  |  |
 | mirin to chikuwa | みりちく |  |  |
+| mio mio mio | 澪澪澪 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
