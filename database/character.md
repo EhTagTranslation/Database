@@ -762,7 +762,7 @@ example:
 | tomoka tenkubashi | 天空桥朋花 |  |  |
 | serika hakozaki | 箱崎星梨花 |  |  |
 | arisa matsuda | 松田亚利沙 |  |  |
-| shizuka mogami | 最上静香 |  |  |
+| shizuka mogami | 最上静香 | ![](https://img.moegirl.org.cn/common/2/25/光輝く星のように_最上静香%2B.png)<br>所属作品：`the idolmaster`<br>偶像大师百万LIVE登场偶像。 |  |
 | anna mochizuki | 望月杏奈 |  |  |
 |  | 矢吹可奈 |  |  |
 | emily stewart | 艾米莉·司徒亚特 |  |  |
