@@ -13430,6 +13430,7 @@ example:
 | seido shiru agari | セイドシルアガリ |  |  |
 | maru no nakahawa | まるのなかはわ |  |  |
 | yoshiya-dou | 嘉野堂 |  |  |
+| obake no ringoya-san | お化けの林檎屋さん |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
