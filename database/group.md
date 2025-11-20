@@ -13439,6 +13439,7 @@ example:
 | graphic l | グラフィックL |  |  |
 | ntrocket | NTRocket |  |  |
 | yomogimogi | よもぎもぎ |  |  |
+| pinochika | ピノチカ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
