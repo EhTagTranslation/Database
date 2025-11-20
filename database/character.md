@@ -6217,7 +6217,7 @@ example:
 | iselda | 伊塞尔达 |  |  |
 | iansan | 伊安珊 | ![](https://patchwiki.biligame.com/images/ys/b/be/sriygawkmkmmf3jcj94tsdqd7po56vx.gif)<br><br>所属作品：`genshin impact`<br>沃陆之邦健身俱乐部的总教练，闻名纳塔的营养师。 | [萌娘百科](https://zh.moegirl.org.cn/伊安珊) |
 | inori yuitsuka | 结束祈 |  |  |
-| roxanne | 罗克珊 | ![](https://ehgt.org/w/02/046/20775-gxhnvmld.webp)<br>所属作品：`isekai meikyuu de harem o` |  |
+| roxanne | 罗克珊 | ![](https://godwcybsms.hath.network/om/127313840/22af397e0edfd12648006eb9c625b7bc800be8b0-9374042-900-589-gif/x/0/s25dulugim3ih71tl6r/Isekai_Meikyuu_de_Harem_o_12.gif)<br>所属作品：`isekai meikyuu de harem o` |  |
 | kou ichinomiya | 市之宫行 | 所属作品: `p:arakawa under the bridge` | [萌娘百科](https://zh.moegirl.org.cn/市之宫行) |
 | jean colbert | 柯尔贝尔 | 所属作品: `p:zero no tsukaima` | [Fandom](https://zeronotsukaima.fandom.com/wiki/Jean_Colbert) |
 | california | 加利福尼亚 | 所属作品: `p:azur lane` 《战舰少女R》<br>![](https://i0.hdslb.com/bfs/new_dyn/ea3206ab0316d0c12e3acd1cc9571aee262400697.png) | [维基百科](https://zh.wikipedia.org/wiki/加利福尼亞號戰)<br>[碧蓝航线：[BILIGAME WIKI](https://wiki.biligame.com/blhx/加利福尼亚)]<br>[战舰少女R：[https://www.zjsnrwiki.com/wiki/加利福尼亚](https://www.zjsnrwiki.com/wiki/加利福尼亚)] |
