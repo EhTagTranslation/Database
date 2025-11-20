@@ -7414,6 +7414,7 @@ example:
 | saori shikikagami | 四季镜沙织 | ![](https://meedsvsihfucekymfgbe.hath.network/om/11384745/3eeea155abb12bb2bc0d08ed6b04e5b26fef9037-502091-500-490-gif/x/0/jgfsgftjnsm7vf1tl6t/c5750685b3a265965c05b4980d31afef.gif)<br>![](https://godwcybsms.hath.network/om/33141371/358e78464b668a20e4f520e473591ba73283a4c6-3822786-480-270-gif/x/0/ex2hti4n1ndrip1tl6z/a62b16dea791e731de337df9db671c56.gif)<br>所属作品：`ladies versus butlers` |  |
 | akiharu hino | 日野秋晴 | ![](https://lain.bgm.tv/r/400/pic/crt/l/88/3b/27067_crt_tlu8x.jpg)<br>所属作品：`ladies versus butlers` |  |
 | seong mi-na | 成美娜 | ![](https://sunvxqrqcj.hath.network/om/176216134/3bf2867f1a99bca6a3e5b6d9bbbcacbc6ad9406f-1054776-832-1216-png/470fc096e4d389952ffd24bdfa85e6aef0e37ac7-51462-800-1169-wbp/800/9ri0gw6p2c74ai1tl7p/1387.webp)<br>所属作品：`soulcalibur` |  |
+| mafuyu oribe | 织部真冬 | ![](https://kitztqqrsr.hath.network/om/12996785/067735b3f2fc1a8ff9d4b53eba21c17743dcbc0e-1066235-512-288-gif/x/0/nw8um4sab2nl2s1tl8t/30.gif)<br>![](https://mcrtwwqovvjwqwsjzocp.hath.network/om/12996769/e781040aa7992a296eea01ab7f5dc21b14011402-689946-640-360-gif/x/0/26qsmmktfh2ozo1tl8s/14.gif)<br>所属作品：`seikon no qwaser` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
