@@ -13419,6 +13419,7 @@ example:
 | shouten tenshi | 昇天天使 |  |  |
 | kasshoku no shiori | 褐色のしおり |  |  |
 | duelroid | デュエロイド |  |  |
+| tamaya gekijou | 玉屋劇場 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
