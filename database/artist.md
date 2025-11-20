@@ -14315,6 +14315,7 @@ example:
 | nijiiro guin | 虹色ぐいん |  |  |
 | nishio nishipa | 西尾ニシパ |  |  |
 | nitake yutamaro | 弐竹ゆたまろ |  |  |
+| niyasuke | にやすけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
