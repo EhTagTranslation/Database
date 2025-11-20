@@ -14371,6 +14371,7 @@ example:
 | kagura soushi | 神楽創志 |  |  |
 | wanduoying | 萬朶櫻 |  |  |
 | wanko-kun | ◯んこクン |  |  |
+| yoshiya nazuna | 嘉野七十七 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
