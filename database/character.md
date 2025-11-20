@@ -7455,6 +7455,7 @@ example:
 | chrom | 库洛姆（火焰之纹章） | ![](https://static.wikia.nocookie.net/fireemblem/images/6/61/Chrom_FE13_Artwork.png/revision/latest?cb=20170221215028)<br>库洛姆（日语：クロム，英语：Chrom）<br>所属作品：`fire emblem awakening` | [萌娘百科](https://zh.moegirl.org.cn/库洛姆%28火焰之纹章%29#) |
 | sayri | 萨依利 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/53/Say%27ri_%28FE13_Artwork%29.png/revision/latest?cb=20160713041523)<br>日语：サイリ<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Say%27ri) |
 | severa | 赛蕾娜（露娜） | ![](https://static.wikia.nocookie.net/fireemblem/images/e/e9/Serena_%28FE13%29.png/revision/latest?cb=20170306034724)<br>登场于`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Severa#Awakening) |
+| emmeryn | 爱梅莉娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6a/Emmeryn_Artwork.png/revision/latest?cb=20160420100128)<br>日文：エメリナ<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Emmeryn) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
