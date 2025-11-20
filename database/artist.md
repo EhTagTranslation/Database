@@ -14386,6 +14386,7 @@ example:
 | erun | えるん |  |  |
 | akagirenya | 赤木蓮屋 |  |  |
 | faycaplico | ファイカプリコ |  |  |
+| gas mas | ガスマス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
