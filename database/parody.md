@@ -864,7 +864,7 @@ example:
 | goblin slayer | 哥布林杀手 |  |  |
 | dungeon meshi | 迷宫饭 |  |  |
 | kanokon | 我的狐仙女友 |  |  |
-| ladies versus butlers | 大小姐×执事！ |  |  |
+| ladies versus butlers | 管家后宫学园 | ![](https://img.moegirl.org.cn/common/thumb/e/e8/管家后宫学园第13卷.jpg/150px-管家后宫学园第13卷.jpg)<br>《管家后宫学园》（台湾角川译为：大小姐×执事！，日语：れでぃ×ばと!）是上月司创作、むにゅう负责插画的一部轻小说，并有漫画、广播剧和动画等衍生作品。 |  |
 | arpeggio of blue steel | 苍蓝钢铁的琶音 |  |  |
 | maken-ki | 魔剑姬！ |  |  |
 | expelled from paradise | 乐园追放 | 《乐园追放 -Expelled from Paradise-》（日语：楽園追放 -Expelled from Paradise-）是由Nitroplus和东映动画共同制作的一部3DCG动画电影，于2014年11月15日上映。 | [萌娘百科](https://zh.moegirl.org.cn/乐园追放_-Expelled_from_Paradise-) [维基百科](https://zh.wikipedia.org/wiki/樂園追放_-Expelled_from_Paradise-) |
