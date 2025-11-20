@@ -14367,6 +14367,7 @@ example:
 | toppogi | トッポギ |  |  |
 | toyono kitsune | とよのきつね。 |  |  |
 | tsubuki | マジョリーナ |  |  |
+| tsuyuta kome | 露田米 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
