@@ -14384,6 +14384,7 @@ example:
 | eromangaka | エ浪漫画家 |  |  |
 | ero no teishokuya | エロの定食屋 |  |  |
 | erun | えるん |  |  |
+| akagirenya | 赤木蓮屋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
