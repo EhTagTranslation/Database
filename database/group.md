@@ -13438,6 +13438,7 @@ example:
 | wide na nomikuchi | ワイドな飲み口 |  |  |
 | graphic l | グラフィックL |  |  |
 | ntrocket | NTRocket |  |  |
+| yomogimogi | よもぎもぎ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
