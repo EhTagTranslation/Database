@@ -14370,6 +14370,7 @@ example:
 | tsuyuta kome | 露田米 |  |  |
 | kagura soushi | 神楽創志 |  |  |
 | wanduoying | 萬朶櫻 |  |  |
+| wanko-kun | ◯んこクン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
