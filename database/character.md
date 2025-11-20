@@ -7418,6 +7418,7 @@ example:
 | teresa beria | 泰蕾莎·维里亚 | ![](https://xjliqyjvthzpybasthyf.hath.network/om/102302650/64f229cba28ec69f394e56385475d85c9b4247c8-9912267-850-612-gif/x/0/qib12q6tvklb8z1tl88/Seikon_no_Qwaser_01_1.gif)<br>![](https://godwcybsms.hath.network/om/60212729/bac1009702681c942a2a178b681b00d808828a93-3524133-1000-562-gif/x/0/25ika9hpkpyvyr1tl94/36aea008d5780094b8b422efab306f29.gif)<br>所属作品：`seikon no qwaser`<br>日文名 テレサ・ベリア |  |
 | hana katsuragi | 桂木华 | ![](https://vazgursnknzwalzfwvrt.hath.network/om/102302667/01e775b0d65d2f6fd64867a98b35aae11cd1af70-5401600-700-720-gif/x/0/rhj1wbikr8uuze1tl90/Seikon_no_Qwaser_09_1.gif)<br><br>所属作品：`seikon no qwaser`<br>日文名 かつらぎ はな |  |
 | ekaterina kurae | 卡恰 | ![](https://bhguflqrtiezymuvgxtr.hath.network/om/60212718/5a3e0ad8dca974059309f693e49c8ad5520acb55-966222-500-281-gif/x/0/ain96saviv621x1tl94/4aa096f3326e5007251641485c2d9e43c3af427a_hq.gif)<br>![](https://cruocywewy.hath.network/om/12996788/d7eafd7dc9b8b1f64f30e984aa0a17c5111e6e4b-640886-640-360-gif/x/0/j044u2yna8ly451tl92/33.gif)<br><br>所属作品：`seikon no qwaser`<br>别名: 伊卡捷琳娜·库拉耶<br>日文名 エカテリーナ＝クラエ |  |
+| miyuri tsujidou | 辻堂美由梨 | ![](https://xjliqyjvthzpybasthyf.hath.network/om/60212761/5509272d132f5ac6ea340e22a399f12c910f9077-2026347-407-227-gif/x/0/i8umt8srqfdifj1tl98/1473768535844.gif)<br><br>所属作品：`seikon no qwaser`<br>日文名  つじどう みゆり |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
