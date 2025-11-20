@@ -1087,7 +1087,7 @@ example:
 | kochou | 胡蝶 | ![](https://ehgt.org/86/d4/86d4979a905323d0b56008df91c5b5a1e4b0df99-47932-384-480-jpg_l.jpg) |  |
 | kumi | 九魅 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=52f5a0859a25bc312b5d01906edf8de7/1c20961bb051f819f9187601d9b44aed2e73e76a.jpg)<br>所属作品：`senran kagura` |  |
 | kuroudo | 藏人 | ![](https://ehgt.org/e9/f6/e9f669c7e1af68aed41e12562504acd6692abecb-329592-382-479-png_l.jpg) |  |
-| mai | 舞 | ![](https://ehgt.org/02/26/0226a1d840aa4dcecd422510ca53c8aad2411367-41642-384-480-jpg_l.jpg)<br>出自TH05-东方怪绮谈<br>![图](https://ehgt.org/f7/b9/f7b99413defcbd21f6e590f37cd97d0b438bde0b-675208-1024-768-png_l.jpg)<br>![图](# "https://ehgt.org/31/8d/318d25f2aa15492eab4374dd0efc1885ccfd4b44-1050990-896-1262-png_l.jpg") |  |
+| mai | 舞 | ①所属作品：`senran kagura`<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=5844d09935d12f2ece05ae687fc3d5ff/7f9d810f4bfbfbed88cc87317bf0f736aec31f9c.jpg)<br>②<br>出自TH05-东方怪绮谈<br>![图](https://ehgt.org/f7/b9/f7b99413defcbd21f6e590f37cd97d0b438bde0b-675208-1024-768-png_l.jpg) |  |
 | meimei | 美莓 | ![](https://ehgt.org/08/48/08484374879a66e75c43c4ab219b9674595f4876-38199-240-300-gif_l.jpg) |  |
 | minori | 美野里 | ![](https://img.moegirl.org.cn/common/c/c3/闪乱神乐-美野里.jpg)<br>所属作品：`senran kagura` |  |
 | mirai | 未来 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7970b9616ce36d3a20483380af23a24/62229c12c8fcc3ce7fdf3e7f9145d688d43f2015.jpg)<br>所属作品：`senran kagura` |  |
