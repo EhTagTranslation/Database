@@ -2722,7 +2722,7 @@ example:
 | makoto harada | 原田真琴 |  |  |
 | mikage kiryuu | 桐生美影 |  |  |
 | melda deitz | 梅尔达·狄兹 |  |  |
-| yuki mori | 森雪 |  |  |
+| yuki mori | 森雪 | ![](https://ehgt.org/w/01/653/53213-ngltay17.webp)<br>所属作品：`space battleship yamato` |  |
 | ainz ooal gown | 安兹·乌尔·恭 |  |  |
 | albedo | 雅儿贝德 \| 阿贝多 | 1.雅儿贝德（日语：アルベド 英语：albedo）所属作品:`p:overlord`<br>是丸山くがね所创作的小说《OVERLORD》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/78/L9MpVFj.jpg)<br>2.阿贝多（英语：albedo）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/bf/阿贝多.png) | 1.[萌娘百科](https://zh.moegirl.org.cn/雅儿贝德)<br>2.[萌娘百科](https://zh.moegirl.org.cn/阿贝多) |
 | aura bella fiora | 亚乌菈·贝拉·菲欧拉 |  |  |
