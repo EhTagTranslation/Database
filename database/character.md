@@ -6624,7 +6624,7 @@ example:
 | mai ouduka | 王塚真唯 | ![](https://img.moegirl.org.cn/common/thumb/8/89/王塚真唯stand.png/300px-王塚真唯stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta`<br>金发碧眼的混血儿。看起来就像国家的公主一样美丽。<br>既是真唯小团体的领导者，又是学校的闪耀明星。 | [萌娘百科](https://zh.moegirl.org.cn/王冢真唯) |
 | hee-jin park | 朴熙真 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/05/10/38/46/128972094_p1_master1200.jpg) |  |
 | akane hououji | 凤凰寺红叶 | ![](https://img.moegirl.org.cn/common/2/20/女神咖啡厅-hououji.png)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/凤凰寺红叶) |
-| ouka makuzawa | 幕泽樱花 | 由濑尾公治所创作的漫画《女神咖啡厅》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/1/18/女神咖啡厅--makuzawa.png/420px-女神咖啡厅--makuzawa.png) [萌娘百科](https://zh.moegirl.org.cn/幕泽樱花) |
+| ouka makuzawa | 幕泽樱花 | ![](https://img.moegirl.org.cn/common/1/18/女神咖啡厅--makuzawa.png)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/幕泽樱花) |
 | riho tsukishima | 月岛流星 | ![](https://img.moegirl.org.cn/common/7/75/女神咖啡厅-tsukishima.png)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/月岛流星) |
 | rin onigawara | 鬼瓦轮 | 是由黑神游夜原作、神崎かるな作画的漫画《武装少女Machiavellism》衍生作品的登场角色。“天下五剑”之首，所使剑术十分注重对呼吸的运用，故而斩击力度相当之大，是五剑中首屈一指的力量派。性格冲动易怒，因为母亲的关系羞于将自己的素容展现于世，一直习惯戴面具。 | ![](https://img.moegirl.org.cn/common/d/d6/鬼瓦轮.png) [萌娘百科](https://zh.moegirl.org.cn/鬼瓦轮) |
 | yukana yame | 八女由佳奈 | 八女由佳奈是由植野メグル创作的漫画《第一次的辣妹》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/八女由佳奈) |
