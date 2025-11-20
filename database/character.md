@@ -7461,6 +7461,7 @@ example:
 | nah | 恩恩 | ![](https://static.wikia.nocookie.net/fireemblem/images/2/2c/Nah_FE13_Artwork.png/revision/latest?cb=20160617071327)<br>日文：ンン<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Nah) |
 | legoshi | 雷格西 | ![](https://img.moegirl.org.cn/common/c/c4/BEASTARS_main0.png)<br>所属作品:`p:beastars` | [萌娘百科](https://zh.moegirl.org.cn/雷格西) |
 | juno | 张明朱诺 \| 茱诺 \| 朱诺 | ①<br>![](https://img.moegirl.org.cn/common/1/16/朱诺头图.jpg)<br>出自游戏：`overwatch`<br><br>②<br>![](https://img.moegirl.org.cn/common/3/36/茱诺%28BEASTARS%29.png)<br>所属作品：`p:beastars`<br><br>③<br>![](https://static.wikia.nocookie.net/fireemblem/images/4/4a/Juno.png/revision/latest?cb=20160614032739)<br>所属作品：`fire emblem the binding blade` | ①[张明朱诺](https://zh.moegirl.org.cn/张明朱诺)<br>②[茱诺（`p:beastars`）](https://zh.moegirl.org.cn/茱诺)<br>③[朱诺（`fire emblem the binding blade`）](https://fireemblem.fandom.com/wiki/Juno) |
+| plum | Plum \| 普拉姆 | ①<br>![](https://static.wikia.nocookie.net/bravestwarriors/images/5/5a/Merwifs.png/revision/latest?cb=20130317051111)<br>所属作品：`bravest warriors`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/9/9d/Plum_artwork.png/revision/latest?cb=20150824080758)<br>所属作品：`tear ring saga` | [Plum（`bravest warriors`）](https://bravestwarriors.fandom.com/wiki/Plum)<br>[普拉姆（`tear ring saga`）](https://fireemblem.fandom.com/wiki/Plum) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
