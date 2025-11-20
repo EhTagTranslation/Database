@@ -14360,6 +14360,7 @@ example:
 | tenpiboshi | てんぴぼし |  |  |
 | tensei-kun | 転生くん |  |  |
 | teriyaki sasami | 照焼ささみ |  |  |
+| theobrobine | ておぶろびん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
