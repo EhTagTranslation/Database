@@ -14311,6 +14311,7 @@ example:
 | naki ekubo | 泣きえくぼ |  |  |
 | nana g | 七G |  |  |
 | nanita | ナニタ |  |  |
+| ngu | んぐ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
