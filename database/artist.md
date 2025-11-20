@@ -14375,6 +14375,7 @@ example:
 | yuzu koshishou | ユズ小師匠 |  |  |
 | zonebell tsukiji | ゾンベル築地 |  |  |
 | ruuru | るぅる |  |  |
+| aoi sena | あおいせな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
