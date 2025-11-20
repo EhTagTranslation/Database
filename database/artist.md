@@ -14299,6 +14299,7 @@ example:
 | moroheiya | もろへいや |  |  |
 | mori no hiyashi chuuka | 杜のひやし中華 |  |  |
 | mona liza | モナリザ |  |  |
+| moedomura | もえどむら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
