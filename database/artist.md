@@ -14318,6 +14318,7 @@ example:
 | niyasuke | にやすけ |  |  |
 | yamada rimuru | 山田りむる |  |  |
 | norubon | ノルボン |  |  |
+| nuwara gray | ヌワラグレイ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
