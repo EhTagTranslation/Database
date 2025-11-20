@@ -14321,6 +14321,7 @@ example:
 | nuwara gray | ヌワラグレイ |  |  |
 | oohara kyutarou | 大原久太郎 |  |  |
 | penova | ペノバ |  |  |
+| purinpu | ぷりんぷ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
