@@ -13408,6 +13408,7 @@ example:
 | nemuchiyo | ねむちよ |  |  |
 | ebi no implant | えびのインプラント |  |  |
 | shitatattel | シタタッテル |  |  |
+| manmaya | まんま屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
