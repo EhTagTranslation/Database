@@ -1076,7 +1076,7 @@ example:
 | hijikata | 土方 | ![](https://ehgt.org/6c/2a/6c2a825a6a8ea0ef220a5a431744ebc23d8929f9-42376-384-480-jpg_l.jpg) |  |
 | hikage | 日影 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_670/h_1820/50118/157597/2025/0/21/421278.webp)<br>![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/67645318/8c48c9ad9b26586c7caaff127f2b6c53290b2c02-2783963-600-327-gif/x/0/ulf7xzykmg3obt1tlhb/SenranKagura_2ndSeason_Episode2_Omake_13_600x327.gif) |  |
 | homura | 焰 | ![](https://ehgt.org/28/d5/28d5279b5c6ec952dde755d8abdb46d317ca9e96-60354-384-480-jpg_l.jpg) |  |
-| ikaruga | 斑鸠 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/e8e1370eba33ebedf0a927021351e8d5298252208.png)<br>![](https://gexuwzvtupijavcmprzc.hath.network/om/67645405/19f5aac819ceadeea4cfefb932f369309c961246-3933333-600-327-gif/x/0/p205awdgcpb8as1tlhd/SenranKagura_2ndSeason_Episode8_Omake_3_600x327.gif) |  |
+| ikaruga | 斑鸠 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/e8e1370eba33ebedf0a927021351e8d5298252208.png)<br>![](https://gexuwzvtupijavcmprzc.hath.network/om/67645405/19f5aac819ceadeea4cfefb932f369309c961246-3933333-600-327-gif/x/0/p205awdgcpb8as1tlhd/SenranKagura_2ndSeason_Episode8_Omake_3_600x327.gif)<br>![](https://kitztqqrsr.hath.network/om/67645406/88d599b9cbcf20164a22c62026aa91a26ab85e76-5395220-600-327-gif/x/0/jomea8ua2vt5tv1tlhe/SenranKagura_2ndSeason_Episode8_Omake_4_600x327.gif) |  |
 | imu | 忌梦 | ![](https://ehgt.org/ce/ee/ceee8146a7dcc1313693208bd4cb1b08e9e9de59-39949-384-480-jpg_l.jpg) |  |
 | josui | 如水 | ![](https://ehgt.org/87/de/87deb92ec41935af054b86509c27f7cd95a48b2b-46099-384-480-jpg_l.jpg) |  |
 | kaede | 枫 | ![](https://ehgt.org/c9/a5/c9a5392c447c50c4bc2c137168e797538c8deb5c-45265-380-479-jpg_l.jpg) |  |
