@@ -7420,6 +7420,7 @@ example:
 | ekaterina kurae | 卡恰 | ![](https://bhguflqrtiezymuvgxtr.hath.network/om/60212718/5a3e0ad8dca974059309f693e49c8ad5520acb55-966222-500-281-gif/x/0/ain96saviv621x1tl94/4aa096f3326e5007251641485c2d9e43c3af427a_hq.gif)<br>![](https://cruocywewy.hath.network/om/12996788/d7eafd7dc9b8b1f64f30e984aa0a17c5111e6e4b-640886-640-360-gif/x/0/j044u2yna8ly451tl92/33.gif)<br><br>所属作品：`seikon no qwaser`<br>别名: 伊卡捷琳娜·库拉耶<br>日文名 エカテリーナ＝クラエ |  |
 | miyuri tsujidou | 辻堂美由梨 | ![](https://xjliqyjvthzpybasthyf.hath.network/om/60212761/5509272d132f5ac6ea340e22a399f12c910f9077-2026347-407-227-gif/x/0/i8umt8srqfdifj1tl98/1473768535844.gif)<br><br>所属作品：`seikon no qwaser`<br>日文名  つじどう みゆり |  |
 | fumika mitarai | 御手洗史伽 | ![](https://vazgursnknzwalzfwvrt.hath.network/om/60212805/052511dcd9226d3bd600638be0391620683e2b0b-1956368-540-280-gif/x/0/nvepqls1byr4ki1tl9l/tumblr_oaodxgQrqK1vpe4noo3_540.gif)<br>所属作品：`seikon no qwaser`<br>日语名 みたらい ふみか |  |
+| alexander nikolaevich hell | 沙夏 | ![](https://bhguflqrtiezymuvgxtr.hath.network/om/60212712/99fabd4cb9e87440d0ebc05f8e17ca0a11ed9c12-873822-500-281-gif/x/0/hvrxhm19czr1vq1tl9p/0f1b82c2a86a61a55d12f2c6bd6e77b62406307f_hq.gif)<br>所属作品：`seikon no qwaser`<br>全名 亚历山大·尼克拉叶维奇·赫尔<br>日文名 アレクサンドル＝ニコラエビッチ＝ヘル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
