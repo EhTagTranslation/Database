@@ -13426,6 +13426,7 @@ example:
 | nyukusudou | にゅくす堂 |  |  |
 | teriyaki sasami don | テリヤキササミ丼 |  |  |
 | todaya | トダ屋 |  |  |
+| tsubukisou | つぶ木荘 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
