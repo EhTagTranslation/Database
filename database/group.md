@@ -13395,6 +13395,7 @@ example:
 | ryokushimpan | 領空侵犯 |  |  |
 | pettaroya | ぺったろ屋 |  |  |
 | atelier todo | アトリエTODO |  |  |
+| hamidashi kanitama | はみだしカニタマ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
