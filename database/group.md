@@ -13441,6 +13441,7 @@ example:
 | yomogimogi | よもぎもぎ |  |  |
 | pinochika | ピノチカ |  |  |
 | pakomucchi | ぱこむっち |  |  |
+| petapetapeta | ぺたぺたぺた |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
