@@ -3172,7 +3172,7 @@ example:
 | shea haulia | 希娅·哈乌利亚 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/31/21/41/31/126756665_p0_master1200.jpg)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>精神满满，天真浪漫，容易得意忘形的残念兔。郝里亚族族长的女儿，是亚人中唯一拥有魔法适应性和天赋能力的人。 | [萌娘百科](https://zh.moegirl.org.cn/希雅·郝里亚) |
 | kaori shirasaki | 白崎香织 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/12/16/19/22/127160911_p0_master1200.jpg)<br><br>所属作品：`arifureta shokugyou de sekai saikyou`<br><br>男主角南云始的同班同学，也是勇者天之河光辉、剑士八重槛雫、拳士坂上龙太郎的青梅竹马。在学校里和雫一起被并称为学园的两大校花，两人的关系很好。 | [萌娘百科](https://zh.moegirl.org.cn/白崎香织) |
 | hanako honda | 本田华子 |  |  |
-| olivia | 奥莉薇亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5b/98/106751_crt_98z8F.jpg?r=1653876422)<br>所属作品：`otome game sekai wa mob ni kibishii sekai desu` |  |
+| olivia | 奥莉薇亚 \| 奥利薇 | ①<br>![](https://lain.bgm.tv/r/400/pic/crt/l/5b/98/106751_crt_98z8F.jpg?r=1653876422)<br>日文：オリヴィア<br>所属作品：`otome game sekai wa mob ni kibishii sekai desu`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/4/48/Olivia_FE13_Art.png/revision/latest?cb=20160810114900)<br>日文：オリヴィエ<br>所属作品：`fire emblem awakening` | [`otome game sekai wa mob ni kibishii sekai desu`：奥莉薇亚](https://mobuseka.fandom.com/wiki/Olivia)<br>[`fire emblem awakening`：奥利薇](https://fireemblem.fandom.com/wiki/Olivia) |
 | kasumi nomura | 野村香纯 |  |  |
 | merribit stapleton | 梅莉毕德･斯泰普尔顿 |  |  |
 | tanya von degurechaff | 谭雅·提古雷查夫 |  |  |
