@@ -1068,7 +1068,7 @@ example:
 |  | 千岁 | 重复项 |  |
 | chiyo | 千代 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=066a297518d5ad6eaaf964e2b1ca39a3/d72d9b096b63f624bf112bb28444ebf81b4ca3e1.jpg)<br>所属作品：`senran kagura` |  |
 | daidouji | 大道寺前辈 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=0a96ee6339292df597c3ac1d8c305ce2/d331568da97739122d63ae2dfb198618377ae2e3.jpg)<br>所属作品：`senran kagura` |  |
-| fuga | 风雅 | ![](https://ehgt.org/fa/ec/faec74c9ac75adae505ce4c52b5ba0bb0a83abf0-45188-384-480-jpg_l.jpg) |  |
+| fuga | 风雅 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=b60606afba389b5038ffe05ab534e5f1/6ec9deedab64034ff827deb7acc379310b551d4e.jpg)<br>所属作品：`senran kagura` |  |
 | fuma | 风魔 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5ed14a87e5cd7b89e96c3a8b3f254291/f1180d34349b033bd163b69716ce36d3d439bd42.jpg)<br>所属作品：`senran kagura` |  |
 | ginrei | 银岭 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7a09fd6c8ef76093c0b99971edca301/10c8c3cd7b899e51e4e7a15f41a7d933c9950dc6.jpg)<br>所属作品：`senran kagura` |  |
 | haruka | 春花 | ![](https://ehgt.org/8d/b6/8db6694c3bc12b4b24f1d00565584e7dfbccaa6d-68700-384-480-jpg_l.jpg) |  |
