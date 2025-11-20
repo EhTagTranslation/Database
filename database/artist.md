@@ -14295,6 +14295,7 @@ example:
 | manchi kan | マンチ★カン |  |  |
 | matanoshita saguru | またのした |  |  |
 | mato mai | まと舞 |  |  |
+| matsuda yuusuke | マツダユウスケ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
