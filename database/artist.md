@@ -14319,6 +14319,7 @@ example:
 | yamada rimuru | 山田りむる |  |  |
 | norubon | ノルボン |  |  |
 | nuwara gray | ヌワラグレイ |  |  |
+| oohara kyutarou | 大原久太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
