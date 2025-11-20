@@ -1114,7 +1114,7 @@ example:
 | yozakura | 夜樱 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1458/h_1532/50118/157597/2025/0/21/630864.webp)<br>所属作品：`senran kagura` |  |
 | yugiri | 夕雾 | ![](https://ehgt.org/72/45/7245bb744109e602315e9c9fd0fe6f99b3660b31-48159-168-210-jpg_l.jpg) |  |
 | yumi | 雪泉 | ![](https://i0.hdslb.com/bfs/article/c8a750f7089fa87801458ff7dbeb8b57298252208.png)<br>所属作品：`senran kagura` |  |
-| yuyaki | 夕烧 | 所属作品：`senran kagura`<br>![](https://i0.hdslb.com/bfs/article/89744e7153bd920687d7d2eed79306f8298252208.png) |  |
+| yuyaki | 夕烧 | ![](https://i0.hdslb.com/bfs/article/89744e7153bd920687d7d2eed79306f8298252208.png)<br>所属作品：`senran kagura` |  |
 |  | ▼ 小林家的龙女仆 角色 |  |  |
 | tohru | 托尔 | ![托尔](https://ehgt.org/99/f2/99f2dd26b7dcb9077a8a0d6d76c4d5d23823c0a7-1655459-3214-4084-jpg_l.jpg) |  |
 | kanna kamui | 康娜卡姆依 | ![康娜](https://ehgt.org/92/45/9245438047724c190da3fb17f94bf2351dae0916-505285-2000-3000-jpg_l.jpg) |  |
