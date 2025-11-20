@@ -7394,6 +7394,7 @@ example:
 | aloe | 阿珞薇 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c2/36/5582_crt_anidb.jpg)<br>所属作品：`quiz magic academy`<br>日文名 アロエ |  |
 | ruquia | 露琪亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d1/93/106664_crt_sBs1t.jpg)<br>所属作品：`quiz magic academy` |  |
 | malariya | 玛拉瑞亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/81/53/5586_crt_anidb.jpg)<br>所属作品：`quiz magic academy`<br>日文名 マラリヤ |  |
+| amelia | 爱蜜丽娅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/7e/5585_crt_anidb.jpg)<br>所属作品：`quiz magic academy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
