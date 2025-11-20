@@ -14403,6 +14403,7 @@ example:
 | ikki ichiyuu | 一起一雄 |  |  |
 | peta | ぺた |  |  |
 | kuromasu | 黒鱒 |  |  |
+| tsukumaru | つく丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
