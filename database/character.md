@@ -7415,6 +7415,7 @@ example:
 | akiharu hino | 日野秋晴 | ![](https://lain.bgm.tv/r/400/pic/crt/l/88/3b/27067_crt_tlu8x.jpg)<br>所属作品：`ladies versus butlers` |  |
 | seong mi-na | 成美娜 | ![](https://sunvxqrqcj.hath.network/om/176216134/3bf2867f1a99bca6a3e5b6d9bbbcacbc6ad9406f-1054776-832-1216-png/470fc096e4d389952ffd24bdfa85e6aef0e37ac7-51462-800-1169-wbp/800/9ri0gw6p2c74ai1tl7p/1387.webp)<br>所属作品：`soulcalibur` |  |
 | mafuyu oribe | 织部真冬 | ![](https://kitztqqrsr.hath.network/om/12996785/067735b3f2fc1a8ff9d4b53eba21c17743dcbc0e-1066235-512-288-gif/x/0/nw8um4sab2nl2s1tl8t/30.gif)<br>![](https://mcrtwwqovvjwqwsjzocp.hath.network/om/12996769/e781040aa7992a296eea01ab7f5dc21b14011402-689946-640-360-gif/x/0/26qsmmktfh2ozo1tl8s/14.gif)<br>所属作品：`seikon no qwaser` |  |
+| teresa beria | 泰蕾莎·维里亚 | ![](https://xjliqyjvthzpybasthyf.hath.network/om/102302650/64f229cba28ec69f394e56385475d85c9b4247c8-9912267-850-612-gif/x/0/qib12q6tvklb8z1tl88/Seikon_no_Qwaser_01_1.gif)<br>所属作品：`seikon no qwaser`<br>日文名 テレサ・ベリア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
