@@ -13400,6 +13400,7 @@ example:
 | memeris-channel | メメリスチャンネル |  |  |
 | okamoto gahaku | 岡本画伯 |  |  |
 | yonkaku box | ヨンカクボックス |  |  |
+| kirai na nomimono | きらいなのみもの |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
