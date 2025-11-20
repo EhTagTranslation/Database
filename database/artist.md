@@ -14276,6 +14276,7 @@ example:
 | kasama shirou | 笠間しろう |  |  |
 | katsuyoshi | かつよし |  |  |
 | kawasaki | かわさき |  |  |
+| kaniguruma | かにぐるま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
