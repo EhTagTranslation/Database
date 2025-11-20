@@ -14309,6 +14309,7 @@ example:
 | megrim haruyo | メグリム・ハルヨ |  |  |
 | nakahara dragon | なかはらドラゴン |  |  |
 | naki ekubo | 泣きえくぼ |  |  |
+| nana g | 七G |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
