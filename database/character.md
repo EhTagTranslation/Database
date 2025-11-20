@@ -7417,6 +7417,7 @@ example:
 | mafuyu oribe | 织部真冬 | ![](https://kitztqqrsr.hath.network/om/12996785/067735b3f2fc1a8ff9d4b53eba21c17743dcbc0e-1066235-512-288-gif/x/0/nw8um4sab2nl2s1tl8t/30.gif)<br>![](https://mcrtwwqovvjwqwsjzocp.hath.network/om/12996769/e781040aa7992a296eea01ab7f5dc21b14011402-689946-640-360-gif/x/0/26qsmmktfh2ozo1tl8s/14.gif)<br>所属作品：`seikon no qwaser` |  |
 | teresa beria | 泰蕾莎·维里亚 | ![](https://xjliqyjvthzpybasthyf.hath.network/om/102302650/64f229cba28ec69f394e56385475d85c9b4247c8-9912267-850-612-gif/x/0/qib12q6tvklb8z1tl88/Seikon_no_Qwaser_01_1.gif)<br>所属作品：`seikon no qwaser`<br>日文名 テレサ・ベリア |  |
 | hana katsuragi | 桂木华 | ![](https://vazgursnknzwalzfwvrt.hath.network/om/102302667/01e775b0d65d2f6fd64867a98b35aae11cd1af70-5401600-700-720-gif/x/0/rhj1wbikr8uuze1tl90/Seikon_no_Qwaser_09_1.gif)<br><br>所属作品：`seikon no qwaser`<br>日文名 かつらぎ はな |  |
+| ekaterina kurae | 卡恰 | ![](https://bhguflqrtiezymuvgxtr.hath.network/om/60212718/5a3e0ad8dca974059309f693e49c8ad5520acb55-966222-500-281-gif/x/0/ain96saviv621x1tl94/4aa096f3326e5007251641485c2d9e43c3af427a_hq.gif)<br>![](https://cruocywewy.hath.network/om/12996788/d7eafd7dc9b8b1f64f30e984aa0a17c5111e6e4b-640886-640-360-gif/x/0/j044u2yna8ly451tl92/33.gif)<br><br>所属作品：`seikon no qwaser`<br>别名: 伊卡捷琳娜·库拉耶<br>日文名 エカテリーナ＝クラエ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
