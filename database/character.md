@@ -7405,6 +7405,7 @@ example:
 | yagyuu juubei | 柳生十兵卫三严 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/44/11322_crt_nN6lu.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | muneakira yagyuu | 柳生宗朗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/a5/11323_crt_ZNIi1.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | gisen yagyuu | 柳生义仙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/74/19904_crt_QiaXn.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
+| yukimura sanada | 真田幸村 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b4/19898_crt_3Pmn7.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：さなだ ゆきむら |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
