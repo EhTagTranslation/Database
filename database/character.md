@@ -1075,7 +1075,7 @@ example:
 | hibari | 云雀 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3879a4bb9c3df8dca63d8f99fd1072bf/2dc8743d269759ee75dbca87b1fb43166c22dfa1.jpg)<br>所属作品：`senran kagura` |  |
 | hijikata | 土方 | ![](https://ehgt.org/6c/2a/6c2a825a6a8ea0ef220a5a431744ebc23d8929f9-42376-384-480-jpg_l.jpg) |  |
 | hikage | 日影 | 所属作品：`senran kagura`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_670/h_1820/50118/157597/2025/0/21/421278.webp)<br>![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/67645318/8c48c9ad9b26586c7caaff127f2b6c53290b2c02-2783963-600-327-gif/x/0/ulf7xzykmg3obt1tlhb/SenranKagura_2ndSeason_Episode2_Omake_13_600x327.gif) |  |
-| homura | 焰 | ![](https://ehgt.org/28/d5/28d5279b5c6ec952dde755d8abdb46d317ca9e96-60354-384-480-jpg_l.jpg) |  |
+| homura | 焰 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=13bb35f7a51ea8d38a22740ca70b30cf/38a72f7b02087bf42a90d5a5f1d3572c11dfcf34.jpg)<br>所属作品：`senran kagura` |  |
 | ikaruga | 斑鸠 | ![](https://i0.hdslb.com/bfs/article/e8e1370eba33ebedf0a927021351e8d5298252208.png)<br>所属作品：`senran kagura` |  |
 | imu | 忌梦 | ![](https://ehgt.org/ce/ee/ceee8146a7dcc1313693208bd4cb1b08e9e9de59-39949-384-480-jpg_l.jpg) |  |
 | josui | 如水 | ![](https://ehgt.org/87/de/87deb92ec41935af054b86509c27f7cd95a48b2b-46099-384-480-jpg_l.jpg) |  |
