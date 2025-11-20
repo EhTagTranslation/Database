@@ -7466,6 +7466,7 @@ example:
 | ursula | 乌尔斯拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/a4/Ursula.png/revision/latest?cb=20170327201138)<br>日文：ウルスラ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/烏爾斯拉?variant=zh-hans) |
 | shiiko sugai | 诗子菅井 |  |  |
 | cecilia irene | 塞西莉亚·艾琳 |  |  |
+| ayame yomogawa | 四方川菖蒲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
