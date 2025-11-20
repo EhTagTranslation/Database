@@ -3424,7 +3424,7 @@ example:
 | meiko shiraki | 白木芽衣子 |  |  |
 | luz noceda | 露丝·诺西达 |  |  |
 | toph bei fong | 北方·托芙 |  |  |
-| robin | 知更鸟 \| 罗宾 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b9/q7uxyiej5tg4p3ysts38oxcv23mt76p.png/1050px-知更鸟立绘.png)<br>所属作品：`honkai star rail`<br>出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。<br>\|<br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
+| robin | 知更鸟 \| 鲁弗莱 \| 罗宾 | ①<br>![](https://patchwiki.biligame.com/images/sr/thumb/b/b9/q7uxyiej5tg4p3ysts38oxcv23mt76p.png/1050px-知更鸟立绘.png)<br>所属作品：`honkai star rail`<br>出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/fd/Robin_Heroes.png/revision/latest?cb=20170122062316)<br>![](https://static.wikia.nocookie.net/fireemblem/images/d/dd/Robin_Heroes_F.png/revision/latest?cb=20170210061127)<br>日文：ルフレ<br>所属作品：`fire emblem awakening`<br><br>③<br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [鲁弗莱](https://fireemblem.fandom.com/wiki/Robin) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 |  |  |
 | makima | 玛奇玛 |  |  |
