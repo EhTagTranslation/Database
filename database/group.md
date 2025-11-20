@@ -13404,6 +13404,7 @@ example:
 | natsuki gumi | 夏木グミ |  |  |
 | ebi furai tenkomori | えびフライてんこ盛り |  |  |
 | yutamaro | ゆたまろ |  |  |
+| hyper grown tea | ハイパーグロウンティー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
