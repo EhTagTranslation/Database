@@ -7442,6 +7442,7 @@ example:
 | ristarte | 莉丝妲黛 | ![](https://ehgt.org/w/01/944/79224-s6v6tq4t.webp)<br>所属作品：`shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru` |  |
 | nina williams | 妮娜·威廉姆斯 | 所属作品：`tekken` |  |
 | lara | Lara \| 拉碧丝 | ①<br>![](https://static.wikia.nocookie.net/fireemblem/images/0/06/FE5_Lara_Artwork.png/revision/latest?cb=20160331014939)<br>所属作品: `fire emblem thracia 776`<br><br>②<br>![](https://static.wikia.nocookie.net/harvestmoonrunefactory/images/9/94/Lara_%28RFF%29.png/revision/latest?cb=20120724023931)<br>日文名：ラピス<br>所属作品: `rune factory` | [火焰之纹章 多拉基亚776：Lara](https://fireemblem.fandom.com/wiki/Lara)<br>[符文工房：拉碧丝](https://wiki.biligame.com/runefactory/ラピス) |
+| lila decyrus | 莉拉·德西亚斯 | ![](https://i2.hdslb.com/bfs/new_dyn/64f8d8adcbeebce03e25c27255f24182262400697.png)<br>所属作品：`atelier ryza`第三部 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
