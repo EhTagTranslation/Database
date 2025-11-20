@@ -13417,6 +13417,7 @@ example:
 | mega driver | メガドライバー |  |  |
 | soregasiya | それがし屋 |  |  |
 | shouten tenshi | 昇天天使 |  |  |
+| kasshoku no shiori | 褐色のしおり |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
