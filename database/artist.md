@@ -14336,6 +14336,7 @@ example:
 | sakate no lefty | さかてのレフティ |  |  |
 | same manma | さめまんま |  |  |
 | sasada aki | 佐々田あき |  |  |
+| sasamino | ささみの |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
