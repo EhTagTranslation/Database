@@ -14329,6 +14329,7 @@ example:
 | shinonome yuki | 東雲由紀 |  |  |
 | kagetora | 影虎 |  |  |
 | shoryutei enraku | 昇龍亭圓楽 |  |  |
+| shrimp cake | シュリンプケーキ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
