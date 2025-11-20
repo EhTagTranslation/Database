@@ -7405,7 +7405,7 @@ example:
 | yagyuu juubei | 柳生十兵卫三严 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/44/11322_crt_nN6lu.jpg)<br>![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/40912255/b6b943be038ac6ec5d93017991be941ffcec6144-960526-420-360-gif/x/0/bk6w16km87w3dj1tl7g/hyakka_ryouran_sb_specials_e01_17_v3_crop.gif)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | muneakira yagyuu | 柳生宗朗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/a5/11323_crt_ZNIi1.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | gisen yagyuu | 柳生义仙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/74/19904_crt_QiaXn.jpg)<br>![](https://meedsvsihfucekymfgbe.hath.network/om/40312647/b68856dd45da39086f4678dd76aa5dd38d1aa29b-2857576-640-360-gif/x/0/fb97fnon39yw9c1tl7e/hyakka_ryouran_sg_e08_05.gif)<br>所属作品：`hyakka ryouran samurai girls` |  |
-| yukimura sanada | 真田幸村 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b4/19898_crt_3Pmn7.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：さなだ ゆきむら |  |
+| yukimura sanada | 真田幸村 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b4/19898_crt_3Pmn7.jpg)<br>![](https://uyskgmdsdjonwezeizcx.hath.network/om/40912461/aee7ddfe90e44ffea6669e684962dde46ac9b47d-1086879-640-360-gif/x/0/l07zyzlmb0d8hc1tl7h/hyakka_ryouran_sb_specials_e04_31.gif)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：さなだ ゆきむら |  |
 | hanzou hattori | 服部半藏 | ①<br>![](https://lain.bgm.tv/r/400/pic/crt/l/09/0f/19901_crt_f6EeU.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>②各类作品中名为服部半藏的角色 |  |
 | matabei goto | 后藤又兵卫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/8d/19902_crt_d7tD0.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | kanetsugu naoe | 直江兼续 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f9/e3/19900_crt_I3qBG.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：なおえ かねつぐ |  |
