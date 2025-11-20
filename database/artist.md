@@ -14362,6 +14362,7 @@ example:
 | teriyaki sasami | 照焼ささみ |  |  |
 | theobrobine | ておぶろびん |  |  |
 | t-man | T-マン |  |  |
+| todakenji | トダケンジ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
