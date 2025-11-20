@@ -14392,6 +14392,7 @@ example:
 | kinugasa yuuichi | キヌガサ雄一 |  |  |
 | matsunoda you | 松野田ヨウ |  |  |
 | siberian hahasky | シベリアン母スキー |  |  |
+| gakeppuchi no kaede | 崖っぷちの楓 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
