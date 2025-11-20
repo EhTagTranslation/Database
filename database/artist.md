@@ -6923,7 +6923,7 @@ example:
 | kisara ai | きさら藍 |  |  |
 | kisara shi- | キサラしぃ |  |  |
 | kisaradu | 木更津 |  |  |
-| kisaragi | 如月 |  |  |
+| kisaragi | 如月 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=f0073be78635e5dd902ca5d746c7a7f5/5dc2d236afc37931b5905d9ce8c4b74542a911b9.jpg)<br>所属作品：`senran kagura` |  |
 | kisaragi kanata | 如月かなた |  |  |
 | kisaragi mizu | 如月水 |  |  |
 | kisaragi mizuka | 如月瑞香 |  |  |
