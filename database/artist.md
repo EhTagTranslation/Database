@@ -14402,6 +14402,7 @@ example:
 | pirukusu | ぴるくす |  |  |
 | ikki ichiyuu | 一起一雄 |  |  |
 | peta | ぺた |  |  |
+| kuromasu | 黒鱒 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
