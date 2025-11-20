@@ -7395,6 +7395,7 @@ example:
 | ruquia | 露琪亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d1/93/106664_crt_sBs1t.jpg)<br>所属作品：`quiz magic academy` |  |
 | malariya | 玛拉瑞亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/81/53/5586_crt_anidb.jpg)<br>所属作品：`quiz magic academy`<br>日文名 マラリヤ |  |
 | amelia | 爱蜜丽娅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/22/7e/5585_crt_anidb.jpg)<br>所属作品：`quiz magic academy` |  |
+| yuri | 优里 | ![](https://ehgt.org/w/01/633/63981-ad26mnom.webp)<br>所属作品：`doki doki literature club` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
