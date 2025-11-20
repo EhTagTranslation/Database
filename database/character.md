@@ -1083,7 +1083,7 @@ example:
 | kagari | 篝 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=b44f6eb6a486c91708035231f93c70c6/8cdeaf13632762d0d6862ef1a3ec08fa503dc6f2.jpg)<br>所属作品：`senran kagura` |  |
 |  | 神乐 | 重复项 |  |
 | kanon | 花音 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=63fec5d1362ac65c6705667bcbf3b21d/f3baf13f8794a4c22467fe9a0df41bd5ac6e39e8.jpg)<br>所属作品：`senran kagura` |  |
-| kanzaki | 神咲 | ![](https://ehgt.org/94/e0/94e085bb8ce30ced201b3d40d026838719884af6-45929-384-480-jpg_l.jpg) |  |
+| kanzaki | 神咲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=189ba4cf23a446237ecaa56aa8237246/e98d4981800a19d8c9875ab030fa828ba71e46b5.jpg)<br>所属作品：`senran kagura` |  |
 | kochou | 胡蝶 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=9bdb6632d3a20cf44690fed746084b0c/8e2ab22bd40735fa2494af0c9d510fb30e2408d5.jpg)<br>所属作品：`senran kagura` |  |
 | kumi | 九魅 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=52f5a0859a25bc312b5d01906edf8de7/1c20961bb051f819f9187601d9b44aed2e73e76a.jpg)<br>所属作品：`senran kagura` |  |
 | kuroudo | 藏人 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=8f2881a741a7d933bfa8e47b9d4ad194/ecd830ce36d3d539369bb4703987e950342ab095.jpg)<br>所属作品：`senran kagura` |  |
