@@ -14349,6 +14349,7 @@ example:
 | najimi shin | 馴染しん |  |  |
 | takeshi rebirth | タケシリバース |  |  |
 | soregasiya | 某氏屋 |  |  |
+| sukoyasu | スコヤス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
