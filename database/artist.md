@@ -14279,6 +14279,7 @@ example:
 | kaniguruma | かにぐるま |  |  |
 | keibou | ケイボウ |  |  |
 | ken sogen | 研そうげん |  |  |
+| kanamono | かなもの |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
