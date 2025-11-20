@@ -14361,6 +14361,7 @@ example:
 | tensei-kun | 転生くん |  |  |
 | teriyaki sasami | 照焼ささみ |  |  |
 | theobrobine | ておぶろびん |  |  |
+| t-man | T-マン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
