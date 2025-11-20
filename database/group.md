@@ -13398,6 +13398,7 @@ example:
 | hamidashi kanitama | はみだしカニタマ |  |  |
 | mio camp | 澪キャンプ |  |  |
 | memeris-channel | メメリスチャンネル |  |  |
+| okamoto gahaku | 岡本画伯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
