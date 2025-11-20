@@ -7426,7 +7426,7 @@ example:
 | mutsumi sendou | 仙道六实 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/05/20/36/21/135916327_p1_master1200.jpg)<br>所属作品：`seikon no qwaser`<br>日语名 仙道 六実 |  |
 | ami tsuruga | 鹤河秋水 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/04/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/鹤河秋水) |
 | galbrena | 嘉贝莉娜 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/b/ba/嘉贝莉娜_唤取立绘.png/revision/latest?cb=20251008004051&path-prefix=zh)<br>嘉贝莉娜是库洛制作的游戏《`p:wuthering waves`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/嘉贝莉娜)<br>[Fandom](https://wutheringwaves.fandom.com/zh/wiki/嘉贝莉娜) |
-| hayato kasukabe | 粕壁隼 | ![](https://static.wikia.nocookie.net/goddess-cafe-terrace/images/c/c6/Hayato_Kasukabe_-_Anime_Character_Design.png/revision/latest?cb=20221123140557)<br>粕壁隼（日语：粕壁 隼（かすかべ はやと）；罗马字：Kasukabe Hayato）<br>所属作品:`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/粕壁隼) |
+| hayato kasukabe | 粕壁隼 | ![](https://static.wikia.nocookie.net/goddess-cafe-terrace/images/c/c6/Hayato_Kasukabe_-_Anime_Character_Design.png/revision/latest?cb=20221123140557)<br>日语拼写：かすかべ はやと<br>所属作品:`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/粕壁隼) |
 | shiragiku ono | 小野白菊 | ![](https://static.wikia.nocookie.net/goddess-cafe-terrace/images/3/3e/Shiragiku_Ono_-_Anime_Character_Design.png/revision/latest?cb=20221123140527)<br><br>日语名：おの しらぎく<br>所属作品:`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/小野白菊) |
 
 <!--TEMPLATE: 
