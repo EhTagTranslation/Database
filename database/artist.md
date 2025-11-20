@@ -14326,6 +14326,7 @@ example:
 | r-gen | R言 |  |  |
 | shingyouji tatsuya | 富本たつや |  |  |
 | shinonome | 東雲 |  |  |
+| shinonome yuki | 東雲由紀 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
