@@ -2732,7 +2732,7 @@ example:
 | ai | 爱 |  |  |
 | ai kagano | 加贺野爱 |  |  |
 | mayu | 美格 |  |  |
-| rin | 凛 | 游戏王系列的第5部作品《游戏王ARC-V》的女主角。<br>「同调次元」所属。游吾的青梅竹马，其相貌与柊柚子、塞瑞娜、黑咲琉璃相似。与游吾本来生活在「同调次元」的城市「市」，之后被游里掳走，游吾为了拯救她，踏上了穿越次元的旅行。 |  |
+| rin | 凛 | ①<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=9cff6a908913632715edc23ba18ea056/bc1799315c6034a8d3ff4ecdc81349540923760b.jpg)<br>所属作品：`senran kagura`<br>————————<br>②游戏王系列的第5部作品《游戏王ARC-V》的女主角。 |  |
 | farrah | 法拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/16/Zoom_3030103000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/70/Zoom_3030248000_01.png)<br>所属作品：`granblue fantasy` |  |
 | zooey | 佐伊 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040564000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/cf/Zoom_3030233000_01.png)<br>所属作品：`granblue fantasy` |  |
 | natsu dragneel | 纳兹·多拉格尼尔 |  |  |
