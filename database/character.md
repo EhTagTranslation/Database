@@ -7402,7 +7402,7 @@ example:
 | rio rollins tachibana | 理欧·罗伦斯 | ![](https://img.moegirl.org.cn/common/d/d3/理欧1.jpg)<br>所属作品：`super black jack`<br>日语名：リオ・ロリンズ |  |
 | milla maxwell | 米拉·麦克斯威尔 | ![](https://ehgt.org/w/01/766/91243-h3q4kb5e.webp)<br>所属作品：`tales of xillia` |  |
 | archerko | Archer子 | ![](https://praogxqcch.hath.network/om/194006863/6582c122c4e262a5ee57480399c844e5ba7d2094-3999851-1640-2360-jpg/191e1812b3732355873c6483240cd911fe50b1f7-104384-800-1151-wbp/800/tjv4jq6hakfg3s1tl62/130940961_p1.webp)<br>所属作品：`fate stay night`<br>Archer的女版同人形象 |  |
-| yagyuu juubei | 柳生十兵卫三严 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/44/11322_crt_nN6lu.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
+| yagyuu juubei | 柳生十兵卫三严 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d3/44/11322_crt_nN6lu.jpg)<br>![](https://gexuwzvtupijavcmprzc.hath.network/om/40182868/3419430cf2c9238e06599f21e5e11a064ae0ffe2-106356-180-180-gif/x/0/ixz37w53kirqnl1tl7e/hyakka_ryouran_sg_e02_03_v4_crop_small.gif)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | muneakira yagyuu | 柳生宗朗 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e3/a5/11323_crt_ZNIi1.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | gisen yagyuu | 柳生义仙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/74/19904_crt_QiaXn.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | yukimura sanada | 真田幸村 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b4/19898_crt_3Pmn7.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：さなだ ゆきむら |  |
