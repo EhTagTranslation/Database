@@ -13406,6 +13406,7 @@ example:
 | yutamaro | ゆたまろ |  |  |
 | hyper grown tea | ハイパーグロウンティー |  |  |
 | nemuchiyo | ねむちよ |  |  |
+| ebi no implant | えびのインプラント |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
