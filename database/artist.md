@@ -14395,6 +14395,7 @@ example:
 | gakeppuchi no kaede | 崖っぷちの楓 |  |  |
 | tsunosign | 角Sign |  |  |
 | tsuntonei | つんとねい |  |  |
+| tsutsuga | 恙 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
