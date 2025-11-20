@@ -14396,6 +14396,7 @@ example:
 | tsunosign | 角Sign |  |  |
 | tsuntonei | つんとねい |  |  |
 | tsutsuga | 恙 |  |  |
+| yamada sansuke | 山田参助 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
