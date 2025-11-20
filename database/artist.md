@@ -14342,6 +14342,7 @@ example:
 | shikorisasu | シコリサス |  |  |
 | shimagon | 嶋艮 |  |  |
 | shimakawa | しまかわ |  |  |
+| shimashima rissu | しましまリッス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
