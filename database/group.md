@@ -13407,6 +13407,7 @@ example:
 | hyper grown tea | ハイパーグロウンティー |  |  |
 | nemuchiyo | ねむちよ |  |  |
 | ebi no implant | えびのインプラント |  |  |
+| shitatattel | シタタッテル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
