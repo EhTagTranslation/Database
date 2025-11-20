@@ -14273,6 +14273,7 @@ example:
 | inumori shirou | 戌森四朗 |  |  |
 | kouguti | こうぐち |  |  |
 | kouan | コーアン |  |  |
+| kasama shirou | 笠間しろう |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
