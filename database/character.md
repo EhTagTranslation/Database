@@ -7400,6 +7400,7 @@ example:
 | kanade suzutsuki | 凉月奏 | ![](https://ehgt.org/w/01/967/13832-raefsz1l.webp)<br>所属作品：`mayo chiki` |  |
 | paine | 佩茵 | ![](https://ehgt.org/w/01/885/60603-2wclhgvp.webp)<br>所属作品：`final fantasy x` |  |
 | rio rollins tachibana | 理欧·罗伦斯 | ![](https://img.moegirl.org.cn/common/d/d3/理欧1.jpg)<br>所属作品：`super black jack`<br>日语名：リオ・ロリンズ |  |
+| milla maxwell | 米拉·麦克斯威尔 | ![](https://ehgt.org/w/01/766/91243-h3q4kb5e.webp)<br>所属作品：`tales of xillia` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
