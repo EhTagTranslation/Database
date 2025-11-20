@@ -14285,6 +14285,7 @@ example:
 | koneko | こねこ |  |  |
 | kobito | コビト |  |  |
 | kobapyon | コバぴょん |  |  |
+| kitami mikage | 鬼多見美影 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
