@@ -2164,7 +2164,7 @@ example:
 | cure peace | 和平天使 |  |  |
 | cure march | 旋风天使 |  |  |
 | cure beauty | 美丽天使 |  |  |
-| ikuyo hoshizora | 星空育代 |  |  |
+| ikuyo hoshizora | 星空育代 | ![](https://ehgt.org/w/02/085/35191-iqpt5i2b.webp)<br>所属作品：`smile precure` |  |
 | masako hino | 日野正子 |  |  |
 | chiharu kise | 黄濑千春 |  |  |
 | tomoko midorikawa | 绿川伦子 |  |  |
