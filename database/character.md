@@ -6054,7 +6054,7 @@ example:
 | koseki bijou | 古石碧珠 | 古石碧珠（英语：Koseki Bijou，日语：古石 ビジュ―／こせき びじゅー）是一名于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/古石碧珠) [hololive官网介绍](https://hololive.hololivepro.com/en/talents/koseki-bijou/) [Fandom](https://virtualyoutuber.fandom.com/wiki/Koseki_Bijou) |
 | skirk | 丝柯克 | ![](https://patchwiki.biligame.com/images/ys/c/c8/jjun41taqgo7a9fbrxim0uywx2hujdl.gif)<br><br>所属作品：`genshin impact`<br>曾现身于深渊裂隙和原始胎海的来访者，教导达达利亚武技的老师。孤身一人的女武者。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/丝柯克) |
 | hanya | 寒鸦 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b1/9ioqeg95z4jfd8blur9sqtjh1i6d8yb.png/1050px-寒鸦立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」的十王司判官之一，负责拘、锁、刑、问的四判官中的「问」。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/寒鸦) |
-| rukkhadevata | 大慈树王 |  |  |
+| rukkhadevata | 大慈树王 | ![](https://ehgt.org/w/01/923/59214-myfnqgec.webp)<br>所属作品：`genshin impact` |  |
 | mizuki yumemizuki | 梦见月瑞希 | ![](https://patchwiki.biligame.com/images/ys/1/1f/3ylxb4h2mpyfipn3hxab2ltxp0bsf1z.gif)<br><br>所属作品：`genshin impact`<br>「秋沙钱汤」的股东，梦貘一族的心理诊疗师，致力于驱散噩梦，为人们带来安宁的心境。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/梦见月瑞希) |
 | shinju inui | 乾心寿 | ![](https://img.moegirl.org.cn/common/2/20/Inui_Shinju_anime.png)<br>所属作品：`sono bisque doll wa koi o suru`<br>乾纱寿叶的妹妹。初中生。<br>有着与年纪不太符合的身高与身材，与姐姐形成鲜明对比。 | [萌娘百科](https://zh.moegirl.org.cn/乾心寿) |
 | carlotta | 珂莱塔 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/0/07/dy6csyi7882lsek9q95odqe263nkchf.png/578px-角色_珂莱塔_立绘.png)<br>所属作品：`wuthering waves`<br>莫塔里家族的二小姐，不被教条限制的艺术投资人。<br>明面上，珂莱塔游走在交际与交易中，暗地里，她则为家族处理着不可明说的“麻烦”。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/珂莱塔) |
