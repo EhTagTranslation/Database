@@ -6103,7 +6103,7 @@ example:
 | celine | 赛琳 |  |  |
 | azura | 阿库娅 |  |  |
 | lapis | 菈琵思 |  |  |
-| lilina | 莉莉娜 |  |  |
+| lilina | 莉莉娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/9e/Lilina.png/revision/latest?cb=20160614032742)<br>日文：リリーナ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/莉莉娜) |
 | goldmary | 戈尔德玛莉 |  |  |
 | alear | 琉尔 |  |  |
 | micaiah | 米卡娅 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/9c/Micaiah_%28FE10_Artwork%29.png/revision/latest?cb=20210502065733)<br>游戏`p:fire emblem radiant dawn`的女主角之一。 | [百度百科](https://baike.baidu.com/item/米卡娅/62115035)<br>[Fandom](https://fireemblem.fandom.com/wiki/Micaiah) |
