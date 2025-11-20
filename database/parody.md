@@ -487,7 +487,7 @@ example:
 | samurai deeper kyo | 鬼眼狂刀 |  |  |
 | samurai pizza cats | 功夫猫党 |  |  |
 | samurai spirits | 侍魂 |  |  |
-| hyakka ryouran samurai girls | 百花缭乱 武士少女 |  |  |
+| hyakka ryouran samurai girls | 百花缭乱 武士少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/2e/6933_5PLlI.jpg) |  |
 | samurai champloo | 混沌武士 |  |  |
 | afro samurai | 爆炸头武士 |  |  |
 | samurai sentai shinkenger | 侍战队真剑者 |  |  |
