@@ -13437,6 +13437,7 @@ example:
 | sokuseki maou | 即席魔王 |  |  |
 | wide na nomikuchi | ワイドな飲み口 |  |  |
 | graphic l | グラフィックL |  |  |
+| ntrocket | NTRocket |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
