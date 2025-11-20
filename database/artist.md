@@ -14275,6 +14275,7 @@ example:
 | kouan | コーアン |  |  |
 | kasama shirou | 笠間しろう |  |  |
 | katsuyoshi | かつよし |  |  |
+| kawasaki | かわさき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
