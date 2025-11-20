@@ -14301,6 +14301,7 @@ example:
 | mona liza | モナリザ |  |  |
 | moedomura | もえどむら |  |  |
 | mizuki ebi | 水生えび |  |  |
+| mitsuashi | みつあし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
