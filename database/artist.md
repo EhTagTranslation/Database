@@ -14363,6 +14363,7 @@ example:
 | theobrobine | ておぶろびん |  |  |
 | t-man | T-マン |  |  |
 | todakenji | トダケンジ |  |  |
+| toin | といん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
