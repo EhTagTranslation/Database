@@ -1098,7 +1098,7 @@ example:
 | murasaki | 紫 | ![](https://i0.hdslb.com/bfs/article/2f7551cbf54bb7d69a3fe1cb1dafb03d298252208.png)<br>所属作品：`senran kagura` |  |
 | naraku | 奈乐 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=4d011fa3bf3eb13544c7b7b3961ea8cb/9dab8c014c086e06d09e0c0001087bf40ad1cb7d.jpg)<br>所属作品：`senran kagura` |  |
 | ryoubi | 两备 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5549d8b778cb0a4685228b315b62f63e/832c8dd3fd1f4134ceb03f33261f95cad0c85ead.jpg)<br>所属作品：`senran kagura` |  |
-| ryouna | 两奈 | ![](https://ehgt.org/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |  |
+| ryouna | 两奈 | ![](https://img.moegirl.org.cn/common/3/30/闪乱神乐-両奈.jpg)<br>所属作品：`senran kagura` |  |
 | sakyou | 左京 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3154faabd70735fa91f04eb1ae500f9f/456b002dd42a2834aed76ebb58b5c9ea15cebf3b.jpg)<br>所属作品：`senran kagura` |  |
 | seimei | 清明 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=2d9fb4029d2f07085f052a08d925b865/f050a035e5dde7113aa6e5bba4efce1b9d16613d.jpg)<br>所属作品：`senran kagura` |  |
 | siki | 四季 | ![](https://img.moegirl.org.cn/common/6/66/闪乱神乐-四季.jpg)<br>所属作品：`senran kagura` |  |
