@@ -13401,6 +13401,7 @@ example:
 | okamoto gahaku | 岡本画伯 |  |  |
 | yonkaku box | ヨンカクボックス |  |  |
 | kirai na nomimono | きらいなのみもの |  |  |
+| natsuki gumi | 夏木グミ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
