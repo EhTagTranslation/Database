@@ -2559,7 +2559,7 @@ example:
 | tokoyami towa | 常暗永远 | 常暗永远是隶属于`hololive`的`vtuber` | [维基百科](https://ja.wikipedia.org/wiki/常闇トワ)<br>[Towa Ch. 常闇トワ - youtube](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) |
 | himemori luna | 姬森璐娜 | 姬森璐娜 （ 姫森ルーナ / Himemori Luna ）是一名从2020年1月4日在YouTube开始活动的`vtuber`，所属业界团体hololive的成员。<br>![](https://img.moegirl.org.cn/common/b/bb/HimemoriLuna_01_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/姬森璐娜) |
 |  | ▼ 未分类 |  |  |
-| mumei | 无名 |  |  |
+| mumei | 无名 | ![](https://ehgt.org/w/01/585/08169-rwk2tafr.webp)<br>所属作品：`koutetsujou no kabaneri` |  |
 | ayane | 绫音 | ![](https://ehgt.org/w/02/002/23528-kc7rmdub.webp)<br>所属作品：`dead or alive` |  |
 | mai shiranui | 不知火舞 | 格斗游戏《饿狼传说》中的角色。 |  |
 | naotora ii | 井伊直虎 |  |  |
