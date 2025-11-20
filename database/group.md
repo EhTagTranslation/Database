@@ -13405,6 +13405,7 @@ example:
 | ebi furai tenkomori | えびフライてんこ盛り |  |  |
 | yutamaro | ゆたまろ |  |  |
 | hyper grown tea | ハイパーグロウンティー |  |  |
+| nemuchiyo | ねむちよ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
