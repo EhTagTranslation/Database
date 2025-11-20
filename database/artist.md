@@ -14277,6 +14277,7 @@ example:
 | katsuyoshi | かつよし |  |  |
 | kawasaki | かわさき |  |  |
 | kaniguruma | かにぐるま |  |  |
+| keibou | ケイボウ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
