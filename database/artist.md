@@ -14372,6 +14372,7 @@ example:
 | wanduoying | 萬朶櫻 |  |  |
 | wanko-kun | ◯んこクン |  |  |
 | yoshiya nazuna | 嘉野七十七 |  |  |
+| yuzu koshishou | ユズ小師匠 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
