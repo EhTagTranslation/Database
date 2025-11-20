@@ -14344,6 +14344,7 @@ example:
 | shimakawa | しまかわ |  |  |
 | shimashima rissu | しましまリッス |  |  |
 | silver radish | 銀ダイコン |  |  |
+| smash daisaku | スマッシュ代作 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
