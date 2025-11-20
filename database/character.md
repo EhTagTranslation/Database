@@ -1097,7 +1097,7 @@ example:
 | muramasa | 村正 | ![](https://ehgt.org/5b/aa/5baaeb09cbca025bed0ecbb3d6b626f58de79601-47484-384-480-jpg_l.jpg) |  |
 | murasaki | 紫 | ![](https://i0.hdslb.com/bfs/article/2f7551cbf54bb7d69a3fe1cb1dafb03d298252208.png)<br>所属作品：`senran kagura` |  |
 | naraku | 奈乐 | ![奈乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
-| ryoubi | 两备 | ![](https://ehgt.org/d2/c8/d2c8369d149a62f4baae520d64d36ff477ee99d8-300438-386-480-png_l.jpg) |  |
+| ryoubi | 两备 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5549d8b778cb0a4685228b315b62f63e/832c8dd3fd1f4134ceb03f33261f95cad0c85ead.jpg)<br>所属作品：`senran kagura` |  |
 | ryouna | 两奈 | ![](https://ehgt.org/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |  |
 | sakyou | 左京 | ![](https://ehgt.org/35/7c/357c4a3fd305858c1c236470015a29d26771bc0e-43185-384-480-jpg_l.jpg) |  |
 | seimei | 清明 | ![](https://ehgt.org/3a/1e/3a1e8c88eb13212e2f06410b91db2e9ca663f754-37813-384-480-jpg_l.jpg) |  |
