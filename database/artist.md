@@ -14343,6 +14343,7 @@ example:
 | shimagon | 嶋艮 |  |  |
 | shimakawa | しまかわ |  |  |
 | shimashima rissu | しましまリッス |  |  |
+| silver radish | 銀ダイコン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
