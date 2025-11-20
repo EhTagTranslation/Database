@@ -14331,6 +14331,7 @@ example:
 | shoryutei enraku | 昇龍亭圓楽 |  |  |
 | shrimp cake | シュリンプケーキ |  |  |
 | rokuromi | ろくろみ |  |  |
+| roru keikakujo | ロル計劃所 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
