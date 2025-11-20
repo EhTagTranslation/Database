@@ -14350,6 +14350,7 @@ example:
 | takeshi rebirth | タケシリバース |  |  |
 | soregasiya | 某氏屋 |  |  |
 | sukoyasu | スコヤス |  |  |
+| surio | すりお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
