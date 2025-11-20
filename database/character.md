@@ -7401,6 +7401,7 @@ example:
 | paine | 佩茵 | ![](https://ehgt.org/w/01/885/60603-2wclhgvp.webp)<br>所属作品：`final fantasy x` |  |
 | rio rollins tachibana | 理欧·罗伦斯 | ![](https://img.moegirl.org.cn/common/d/d3/理欧1.jpg)<br>所属作品：`super black jack`<br>日语名：リオ・ロリンズ |  |
 | milla maxwell | 米拉·麦克斯威尔 | ![](https://ehgt.org/w/01/766/91243-h3q4kb5e.webp)<br>所属作品：`tales of xillia` |  |
+| archerko | Archer子 | ![](https://praogxqcch.hath.network/om/194006863/6582c122c4e262a5ee57480399c844e5ba7d2094-3999851-1640-2360-jpg/191e1812b3732355873c6483240cd911fe50b1f7-104384-800-1151-wbp/800/tjv4jq6hakfg3s1tl62/130940961_p1.webp)<br>所属作品：`fate stay night`<br>Archer的女版同人形象 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
