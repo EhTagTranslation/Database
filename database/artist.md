@@ -14404,6 +14404,7 @@ example:
 | peta | ぺた |  |  |
 | kuromasu | 黒鱒 |  |  |
 | tsukumaru | つく丸 |  |  |
+| syoukyakubutu | 焼却物 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
