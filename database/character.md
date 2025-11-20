@@ -7433,6 +7433,7 @@ example:
 | azusa nakajou | 中条梓 | ![](https://anibase.net/files/b2bcd5b06e9e4478e120434a7df7ca1a)<br>日文拼写: なかじょう あずさ<br>所属作品: `mahouka koukou no rettousei` | [Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Nakajou_Azusa) |
 | izumi saegusa | 七草泉美 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/a/a4/Saegusa-Izumi-AN-S3-Fullbody.png/revision/latest?cb=20240404004116)<br>日文拼写: さえぐさ いずみ<br>所属作品: `mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/七草泉美)<br>[Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Saegusa_Izumi) |
 | kasumi saegusa | 七草香澄 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/4/43/Saegusa-Kasumi-AN-S3-Fullbody.png/revision/latest?cb=20240529001141)<br>日文拼写: さえぐさ かすみ<br>所属作品: `mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/七草香澄)<br>[Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Saegusa_Kasumi) |
+| manon legrand | 曼侬 勒格兰德 | 所属作品：`street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
