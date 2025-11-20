@@ -7417,7 +7417,7 @@ example:
 | mafuyu oribe | 织部真冬 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/01/20/20/26/07/115331963_p0_master1200.jpg)<br>所属作品：`seikon no qwaser` |  |
 | teresa beria | 泰蕾莎·维里亚 | ![](https://ehgt.org/w/02/038/42727-fo4s5o1e.webp)<br>所属作品：`seikon no qwaser`<br>日文名 テレサ・ベリア |  |
 | hana katsuragi | 桂木华 | ![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/60212860/a76e763bc31a6451bb4a47e61296134eb07d8abc-1081785-500-278-gif/x/0/39slmgtqubrpxy1tl9f/tumblr_os5ii8Fme61vpe4noo2_500.gif)<br>所属作品：`seikon no qwaser` |  |
-| ekaterina kurae | 卡恰 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b5/cd/12994_crt_BdR93.jpg)<br>所属作品：`seikon no qwaser`<br>别名: 伊卡捷琳娜·库拉耶<br>日文名 エカテリーナ＝クラエ |  |
+| ekaterina kurae | 卡恰 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/22/07/23/54/126453431_p0_master1200.jpg)<br>所属作品：`seikon no qwaser`<br>别名: 伊卡捷琳娜·库拉耶<br>日文名 エカテリーナ＝クラエ |  |
 | miyuri tsujidou | 辻堂美由梨 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/26/01/43/16/126574203_p12_master1200.jpg)<br>所属作品：`seikon no qwaser`<br>日文名  つじどう みゆり |  |
 | fumika mitarai | 御手洗史伽 | 所属作品：`seikon no qwaser`<br>日语名 みたらい ふみか |  |
 | alexander nikolaevich hell | 沙夏 | ![](https://bhguflqrtiezymuvgxtr.hath.network/om/60212712/99fabd4cb9e87440d0ebc05f8e17ca0a11ed9c12-873822-500-281-gif/x/0/hvrxhm19czr1vq1tl9p/0f1b82c2a86a61a55d12f2c6bd6e77b62406307f_hq.gif)<br>![](https://uyskgmdsdjonwezeizcx.hath.network/om/12996855/67517fd4e036d1098589823650fdfae0f4f12810-1124127-640-360-gif/x/0/ajiqlvvrtxoy8e1tl9s/102.gif)<br>所属作品：`seikon no qwaser`<br>全名 亚历山大·尼克拉叶维奇·赫尔<br>日文名 アレクサンドル＝ニコラエビッチ＝ヘル |  |
