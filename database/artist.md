@@ -14388,6 +14388,7 @@ example:
 | faycaplico | ファイカプリコ |  |  |
 | gas mas | ガスマス |  |  |
 | gomala | ごまら |  |  |
+| kanashiro no hako | かなしろの箱 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
