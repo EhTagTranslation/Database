@@ -14381,6 +14381,7 @@ example:
 | benjamin | ベンジャミン |  |  |
 | emumiya nyamu | えむみやにゃむ |  |  |
 | enari | 江成 |  |  |
+| eromangaka | エ浪漫画家 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
