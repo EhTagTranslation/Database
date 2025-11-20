@@ -1105,7 +1105,7 @@ example:
 | shiki | 四季 | ![](https://ehgt.org/w/02/086/82476-fmaq0hxq.webp)<br>所属作品：`samurai spirits` |  |
 | souji | 总司 | ![](https://ehgt.org/f4/03/f40375690734bc892d85170d921da33b7eb33cf7-60656-384-480-jpg_l.jpg) |  |
 | suzune | 铃音（凛） | ![](https://ehgt.org/12/29/1229cc85ea601e0d136d0be4843948aead40e1d4-71118-384-480-jpg_l.jpg) |  |
-| syuri | 朱璃 | ![](https://ehgt.org/d3/65/d365fef6585d875d536424926782b2f74d7d9d26-51428-384-480-jpg_l.jpg) |  |
+| syuri | 朱璃 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=19c8696d0a24ab18e016e13f05fbe69a/743dfcf9d72a60596e836d512b34349b023bba98.jpg)<br>所属作品：`senran kagura` |  |
 | ukyou | 右京 | ![](https://ehgt.org/5e/f8/5ef80a4733e4af892a7a3bee8662ddf5f9004026-44378-384-480-jpg_l.jpg) |  |
 | ushimaru | 牛丸 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=99062d18f5246b607b0eb27cdbf91a35/157c001f95cad1c880898f6c7c3e6709c93d5178.jpg)<br>所属作品：`senran kagura` |  |
 | yagyuu | 柳生 | ![](https://img.moegirl.org.cn/common/3/3c/闪乱神乐-柳生.jpg)<br>所属作品：`senran kagura` |  |
