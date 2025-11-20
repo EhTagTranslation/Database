@@ -14287,6 +14287,7 @@ example:
 | kobapyon | コバぴょん |  |  |
 | kitami mikage | 鬼多見美影 |  |  |
 | kumakko | くまっこ |  |  |
+| kurinohana | 栗の花 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
