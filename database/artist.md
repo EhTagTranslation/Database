@@ -14373,6 +14373,7 @@ example:
 | wanko-kun | ◯んこクン |  |  |
 | yoshiya nazuna | 嘉野七十七 |  |  |
 | yuzu koshishou | ユズ小師匠 |  |  |
+| zonebell tsukiji | ゾンベル築地 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
