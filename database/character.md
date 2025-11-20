@@ -7454,6 +7454,7 @@ example:
 | panne | 贝尔贝特 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/bf/Panne_%28FE13_Artwork%29.png/revision/latest?cb=20180220024856)<br>日文：ベルベット<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Panne) |
 | chrom | 库洛姆（火焰之纹章） | ![](https://static.wikia.nocookie.net/fireemblem/images/6/61/Chrom_FE13_Artwork.png/revision/latest?cb=20170221215028)<br>库洛姆（日语：クロム，英语：Chrom）<br>所属作品：`fire emblem awakening` | [萌娘百科](https://zh.moegirl.org.cn/库洛姆%28火焰之纹章%29#) |
 | sayri | 萨依利 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/53/Say%27ri_%28FE13_Artwork%29.png/revision/latest?cb=20160713041523)<br>日语：サイリ<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Say%27ri) |
+| severa | 赛蕾娜（露娜） | ![](https://static.wikia.nocookie.net/fireemblem/images/e/e9/Serena_%28FE13%29.png/revision/latest?cb=20170306034724)<br>登场于`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Severa#Awakening) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
