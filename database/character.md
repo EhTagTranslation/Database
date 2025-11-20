@@ -5526,7 +5526,7 @@ example:
 | the flash | 闪电侠 |  |  |
 | gentildonna | 贵妇人 | ![](https://moegirl.icu/media/thumb/UPDCH_Gentildonna_00.png/580px-UPDCH_Gentildonna_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ジェンティルドンナ（Gentildonna）。 | [萌娘百科](https://zh.moegirl.org.cn/贵妇人) |
 | yamanin zephyr | 也文摄辉 | ![](https://moegirl.icu/media/thumb/UPDCH_YamaninZephyr_00.png/580px-UPDCH_YamaninZephyr_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヤマニンゼファー（Yamanin Zephyr）。 | [萌娘百科](https://zh.moegirl.org.cn/也文摄辉) |
-| vivlos | 强击 | ![](https://moegirl.icu/media/thumb/UPDCH_Vivlos_00.png/580px-UPDCH_Vivlos_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヴィブロス（Vivlos）。 | [萌娘百科](https://zh.moegirl.org.cn/强击) |
+| vivlos | 强击 | ![](https://img.moegirl.org.cn/common/1/12/UPDCH_Vivlos_10.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヴィブロス（Vivlos）。 | [萌娘百科](https://zh.moegirl.org.cn/强击) |
 | oguri cap | 小栗帽 | ![](https://moegirl.icu/media/thumb/UPDCH_OguriCap_00.png/580px-UPDCH_OguriCap_00.png)<br>所属作品：`uma musume pretty derby`<br>漫画《赛马娘 芦毛灰姑娘》的主人公。<br>原型为日本纯血竞赛马匹オグリキャップ（Oguri Cap）。 | [萌娘百科](https://zh.moegirl.org.cn/小栗帽) |
 | kindred | 千珏 | 千珏，作为象征死亡的一对精魂，他们互相独立，却从未分离。对于坦然接受命运的人来说，羊灵的长弓可以痛快地送他们离开生者的乐园，而妄图逃脱宿命的人则由狼灵追捕，痛苦地倒在他有力的撕咬下。虽然在符文之地上到处是关于千珏的不同传言，但每个人在临终时都会看到死亡的真正面孔。至于是哪一面，完全出自个人的抉择。 | [萌娘百科](https://zh.moegirl.org.cn/千珏) |
 | jane doe | 简·杜 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/09/11/76099754/a8cecba77dcf30aac55911791b97d286_5628704406046486367.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/简·杜) |
