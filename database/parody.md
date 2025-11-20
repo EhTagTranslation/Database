@@ -2611,6 +2611,7 @@ example:
 | tonari no ie no anette-san | 莉莉安娜和安妮特小姐 | ![](https://ehgt.org/w/00/950/18602-ir7esa3k.webp) |  |
 | va-11 hall-a | 赛博朋克酒保行动 | 《VA-11 HALL-A》是由Sukeban Games工作室制作的赛博朋克题材模拟经营游戏。游戏设定在一个企业统治、民众受纳米机械压迫的反乌托邦未来都市，玩家扮演名为“Valhalla”的小酒吧调酒师，通过调配饮品与顾客互动，了解他们的故事。 |  |
 | beastars | BEASTARS | ![](https://img.moegirl.org.cn/common/3/3a/Beastars_Vol.22.jpg)<br>《BEASTARS》是板垣巴留于《周刊少年Champion》上连载的一部漫画，并有短篇集、动画等衍生作 | [维基百科](https://zh.wikipedia.org/wiki/BEASTARS) |
+| tear ring saga | 尤特娜英雄战记：泪指轮传说 | ![](https://upload.wikimedia.org/wikipedia/en/f/ff/Tearringsaga_boxart.PNG) | [维基百科](https://zh.wikipedia.org/wiki/泪指轮传说_尤特娜英雄战记) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
