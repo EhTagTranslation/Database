@@ -14353,6 +14353,7 @@ example:
 | surio | すりお |  |  |
 | suzume inui | 鈴眼依縫 |  |  |
 | tamaya cinema | 玉屋キネマ |  |  |
+| tange natsu | 丹家なつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
