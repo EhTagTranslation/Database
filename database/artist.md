@@ -14379,6 +14379,7 @@ example:
 | berull | べるる |  |  |
 | bon curry | 梵辛 |  |  |
 | benjamin | ベンジャミン |  |  |
+| emumiya nyamu | えむみやにゃむ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
