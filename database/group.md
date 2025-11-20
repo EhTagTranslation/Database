@@ -13412,6 +13412,7 @@ example:
 | rojiura 6-3 | ロジウラ6-3 |  |  |
 | tokkuni tokku | とっくに特区 |  |  |
 | burn tissue seramita | バーンティッシュセラミータ |  |  |
+| siberian hahasky | シベリアン母スキー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
