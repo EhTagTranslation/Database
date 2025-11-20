@@ -14282,6 +14282,7 @@ example:
 | kanamono | かなもの |  |  |
 | kanae p taro | 金江P太郎 |  |  |
 | kotobachi | ことばち |  |  |
+| koneko | こねこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
