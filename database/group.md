@@ -13432,6 +13432,7 @@ example:
 | yoshiya-dou | 嘉野堂 |  |  |
 | obake no ringoya-san | お化けの林檎屋さん |  |  |
 | yuzu ko | ユズ庫 |  |  |
+| zonebell market | ゾンベルマーケット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
