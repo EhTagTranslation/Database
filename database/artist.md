@@ -14387,6 +14387,7 @@ example:
 | akagirenya | 赤木蓮屋 |  |  |
 | faycaplico | ファイカプリコ |  |  |
 | gas mas | ガスマス |  |  |
+| gomala | ごまら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
