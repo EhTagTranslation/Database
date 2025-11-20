@@ -14376,6 +14376,7 @@ example:
 | zonebell tsukiji | ゾンベル築地 |  |  |
 | ruuru | るぅる |  |  |
 | aoi sena | あおいせな |  |  |
+| berull | べるる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
