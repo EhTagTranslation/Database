@@ -13424,6 +13424,7 @@ example:
 | taroimobatake | たろいも畑 |  |  |
 | hikagemon | ひかげもん |  |  |
 | nyukusudou | にゅくす堂 |  |  |
+| teriyaki sasami don | テリヤキササミ丼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
