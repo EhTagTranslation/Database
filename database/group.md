@@ -13397,6 +13397,7 @@ example:
 | atelier todo | アトリエTODO |  |  |
 | hamidashi kanitama | はみだしカニタマ |  |  |
 | mio camp | 澪キャンプ |  |  |
+| memeris-channel | メメリスチャンネル |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
