@@ -1806,7 +1806,7 @@ example:
 | yang xiao long | 阳小龙 |  |  |
 |  | ▼ 魔法科高中的劣等生 |  |  |
 | erika chiba | 千叶艾莉卡 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/13/06/23/05/129248582_p3_master1200.jpg)<br><br>所属作品：`mahouka koukou no rettousei`<br>百家——千叶家当家的私生女。同时也是世界顶级魔法工学机器制造商Rosen Magicraft的新社长——埃因斯特·罗瑟的表姨甥女。 | [萌娘百科](https://zh.moegirl.org.cn/千叶艾莉卡) |
-| haruka ono | 小野遥 |  |  |
+| haruka ono | 小野遥 | 所属作品：`mahouka koukou no rettousei` |  |
 | honoka mitsui | 光井穗乃香 | ![](https://mahouka-yuutousei.jp/assets/img/character/img_honoka.png)<br>所属作品：`mahouka koukou no rettousei`<br>旧时代elements实验中光元素家系遗留者，【光】元素系统的继承者，有强大的光元素操纵能力。 | [萌娘百科](https://zh.moegirl.org.cn/光井穗乃香) |
 | mari watanabe | 渡边摩利 |  |  |
 | mayumi saegusa | 七草真由美 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/10/12/20/03/129150857_p3_master1200.jpg)<br>所属作品：`mahouka koukou no rettousei`<br>第一学年一高的学生会会长，也是十师族之一七草家的长女，同深雪一样，以第一名的成绩通过了第一高中的入学考试的才女。 | [萌娘百科](https://zh.moegirl.org.cn/七草真由美) |
