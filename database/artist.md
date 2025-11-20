@@ -14337,6 +14337,7 @@ example:
 | same manma | さめまんま |  |  |
 | sasada aki | 佐々田あき |  |  |
 | sasamino | ささみの |  |  |
+| senno knife | 千之ナイフ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
