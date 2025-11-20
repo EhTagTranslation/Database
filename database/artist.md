@@ -14385,6 +14385,7 @@ example:
 | ero no teishokuya | エロの定食屋 |  |  |
 | erun | えるん |  |  |
 | akagirenya | 赤木蓮屋 |  |  |
+| faycaplico | ファイカプリコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
