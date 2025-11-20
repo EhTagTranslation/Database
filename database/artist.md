@@ -14333,6 +14333,7 @@ example:
 | rokuromi | ろくろみ |  |  |
 | roru keikakujo | ロル計劃所 |  |  |
 | sachinashi rokio | 幸無ろき雄 |  |  |
+| sakate no lefty | さかてのレフティ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
