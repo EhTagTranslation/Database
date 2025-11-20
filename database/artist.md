@@ -10286,7 +10286,7 @@ example:
 | sonobe kazuaki | 園部一晶 |  |  |
 | sonohen no zako | その辺のザコ |  |  |
 | sonokawa sono | 園河ソノ |  |  |
-| sonote | sonote |  |  |
+| sonote | ソノテ |  |  |
 | sora | ソラ |  | [X](https://x.com/soraoraora) [pixiv](https://www.pixiv.net/users/95070682) [FANBOX](https://soraoraora.fanbox.cc/) |
 | sora mame | そら豆 |  |  |
 | zegga | 絶牙 | ソラノ紫雲 |  |
