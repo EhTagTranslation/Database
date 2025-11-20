@@ -2523,7 +2523,7 @@ example:
 | nino nakano | 中野二乃 | ![](https://img.moegirl.org.cn/common/e/ea/中野二乃gif.gif)<br>![](https://img.moegirl.org.cn/common/0/0c/Go-Toubun_no_Hanayome_Nino.jpg)<br>所属作品：`gotoubun no hanayome` |  |
 | miku nakano | 中野三玖 | ![](https://img.moegirl.org.cn/common/a/aa/中野三玖gif.gif)<br>![](https://img.moegirl.org.cn/common/d/de/Go-Toubun_no_Hanayome_Miku.jpg)<br>所属作品：`gotoubun no hanayome` | [萌娘百科](https://zh.moegirl.org.cn/中野三玖) |
 | yotsuba nakano | 中野四叶 | ![](https://img.moegirl.org.cn/common/9/9f/Go-Toubun_no_Hanayome_Yotsuba.jpg)<br>所属作品：`gotoubun no hanayome` |  |
-| itsuki nakano | 中野五月 | ![](https://img.moegirl.org.cn/common/thumb/c/c0/Go-Tobun_no_Hanayome_BD_5.jpg/180px-Go-Tobun_no_Hanayome_BD_5.jpg)<br>![](https://img.moegirl.org.cn/common/thumb/a/a5/Go-Tobun_no_Hanayome_2_BD_5.jpg/180px-Go-Tobun_no_Hanayome_2_BD_5.jpg)<br>所属作品：`gotoubun no hanayome` |  |
+| itsuki nakano | 中野五月 | ![](https://img.moegirl.org.cn/common/d/df/中野五月gif.gif)<br>![](https://img.moegirl.org.cn/common/d/d8/五月公式书.jpg)<br>所属作品：`gotoubun no hanayome` |  |
 |  | ▼ hololive | 猴楼 live |  |
 |  |  | 0期 |  |
 | tokino sora | 时乃空 | 时乃空（日语：ときのそら，Tokino Sora）是`hololive`所属的`vtuber`。于2017年9月7日开始活动。<br>![空妈](https://img.moegirl.org.cn/common/5/50/TokinoSora.png) | [萌娘百科](https://zh.moegirl.org.cn/时乃空) |
