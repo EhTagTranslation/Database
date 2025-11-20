@@ -14335,6 +14335,7 @@ example:
 | sachinashi rokio | 幸無ろき雄 |  |  |
 | sakate no lefty | さかてのレフティ |  |  |
 | same manma | さめまんま |  |  |
+| sasada aki | 佐々田あき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
