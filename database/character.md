@@ -1093,7 +1093,7 @@ example:
 | mirai | 未来 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7970b9616ce36d3a20483380af23a24/62229c12c8fcc3ce7fdf3e7f9145d688d43f2015.jpg)<br>所属作品：`senran kagura` |  |
 | misato | 深里 | ![](https://imgsa.baidu.com/forum/pic/item/82ddeb1b9d16fdfaa8adcfa5b78f8c5495ee7b6d.jpg)<br>所属作品：`senran kagura` |  |
 | miyabi | 雅绯 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=98a5337c223fb80e0cd161df06d02ffb/8879f41373f08202c3e3ae7248fbfbedab641b3f.jpg)<br>所属作品：`senran kagura` |  |
-| motochika | 元亲 | ![](https://ehgt.org/b3/b3/b3b3ad79695ca5621fbeebf02d13cd087e7fc965-48961-320-400-jpg_l.jpg) |  |
+| motochika | 元亲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=468ea7d7554e9258a63486e6ac83d1d1/962ea201a18b87d668d2e4ac040828381e30fda7.jpg)<br>所属作品：`senran kagura` |  |
 | muramasa | 村正 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ecf60e6bfefaaf5184e381b7bc5594ed/669ba726cffc1e17a86f2a7c4990f603728de959.jpg)<br>所属作品：`senran kagura` |  |
 | murasaki | 紫 | ![](https://i0.hdslb.com/bfs/article/2f7551cbf54bb7d69a3fe1cb1dafb03d298252208.png)<br>所属作品：`senran kagura` |  |
 | naraku | 奈乐 | ![奈乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
