@@ -7464,6 +7464,7 @@ example:
 | plum | Plum \| 普拉姆 | ①<br>![](https://static.wikia.nocookie.net/bravestwarriors/images/5/5a/Merwifs.png/revision/latest?cb=20130317051111)<br>所属作品：`bravest warriors`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/9/9d/Plum_artwork.png/revision/latest?cb=20150824080758)<br>所属作品：`tear ring saga` | [Plum（`bravest warriors`）](https://bravestwarriors.fandom.com/wiki/Plum)<br>[普拉姆（`tear ring saga`）](https://fireemblem.fandom.com/wiki/Plum) |
 | igrene | 伊葛雷努 | ![](https://static.wikia.nocookie.net/fireemblem/images/7/70/Igrene.png/revision/latest?cb=20170322071156)<br>日文：イグレーヌ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Igrene) |
 | ursula | 乌尔斯拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/a4/Ursula.png/revision/latest?cb=20170327201138)<br>日文：ウルスラ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/烏爾斯拉?variant=zh-hans) |
+| shiiko sugai | 诗子菅井 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
