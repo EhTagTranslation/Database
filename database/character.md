@@ -7445,6 +7445,7 @@ example:
 | lila decyrus | 莉拉·德西亚斯 | ![](https://i2.hdslb.com/bfs/new_dyn/64f8d8adcbeebce03e25c27255f24182262400697.png)<br>所属作品：`atelier ryza`第三部 |  |
 | laylea | Laylea | ![](https://static.wikia.nocookie.net/fireemblem/images/d/dc/Laylea_%28FE_Treasure%29.png/revision/latest?cb=20170410004711)<br>日文: レイリア<br>所属作品: `fire emblem genealogy of the holy war` | [Fandom](https://fireemblem.fandom.com/wiki/Laylea) |
 | julianne stingray | 朱丽安·斯汀雷 | ![](https://www.gfwiki.org/images/c/cf/Pic_Jill_HD.png)<br>所属作品：`va-11 hall-a` |  |
+| tear grants | 缇娅·格兰兹 | ![](https://ehgt.org/w/01/906/70709-72mayf81.webp)<br>所属作品：`tales of the abyss` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
