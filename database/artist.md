@@ -14366,6 +14366,7 @@ example:
 | toin | といん |  |  |
 | toppogi | トッポギ |  |  |
 | toyono kitsune | とよのきつね。 |  |  |
+| tsubuki | つぶ樹 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
