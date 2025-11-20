@@ -13440,6 +13440,7 @@ example:
 | ntrocket | NTRocket |  |  |
 | yomogimogi | よもぎもぎ |  |  |
 | pinochika | ピノチカ |  |  |
+| pakomucchi | ぱこむっち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
