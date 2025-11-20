@@ -14378,6 +14378,7 @@ example:
 | aoi sena | あおいせな |  |  |
 | berull | べるる |  |  |
 | bon curry | 梵辛 |  |  |
+| benjamin | ベンジャミン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
