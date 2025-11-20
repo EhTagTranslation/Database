@@ -14322,6 +14322,7 @@ example:
 | oohara kyutarou | 大原久太郎 |  |  |
 | penova | ペノバ |  |  |
 | purinpu | ぷりんぷ |  |  |
+| orishin | 折慎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
