@@ -13423,6 +13423,7 @@ example:
 | natsu no ouchi | なつのおうち |  |  |
 | taroimobatake | たろいも畑 |  |  |
 | hikagemon | ひかげもん |  |  |
+| nyukusudou | にゅくす堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
