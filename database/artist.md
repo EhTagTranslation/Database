@@ -14382,6 +14382,7 @@ example:
 | emumiya nyamu | えむみやにゃむ |  |  |
 | enari | 江成 |  |  |
 | eromangaka | エ浪漫画家 |  |  |
+| ero no teishokuya | エロの定食屋 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
