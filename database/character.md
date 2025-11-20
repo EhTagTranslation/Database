@@ -7439,6 +7439,7 @@ example:
 | leona heidern | 莉安娜·哈迪兰 | 所属作品：`king of fighters` |  |
 | jett | 捷风 | 所属作品：`valorant` |  |
 | rika | 辛俐 | ![](https://ehgt.org/w/01/896/99831-34x2pjbu.webp)<br>所属作品：`pokemon`<br>日语名:チリ<br>《宝可梦 朱/紫》中初次登场。 帕底亚地区的宝可梦联盟四天王之一。 |  |
+| ristarte | 莉丝妲黛 | ![](https://ehgt.org/w/01/944/79224-s6v6tq4t.webp)<br>所属作品：`shinchou yuusha kono yuusha ga ore tueee kuse ni shinchou sugiru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
