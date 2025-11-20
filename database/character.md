@@ -7424,7 +7424,7 @@ example:
 | urara oikawa | 及川丽 | ![](https://mcrtwwqovvjwqwsjzocp.hath.network/om/102302695/d6aca4a099e7345c38a4545fa17d086b7479f956-6623769-1000-720-gif/x/0/2vi4j8oi8501th1tl9w/Seikon_no_Qwaser_21_2.gif)<br><br>所属作品：`seikon no qwaser`<br>日文名 及川麗 |  |
 | cure precious | キュアプレシャス \| 和実ゆい |  |  |
 | mutsumi sendou | 仙道六实 | ![](https://gexuwzvtupijavcmprzc.hath.network/om/12996775/07241d01fa25373055b0207c9176e1594ec8e6f2-1116257-640-360-gif/x/0/h8y270yk5p7qlp1tla6/025da7429697bbc9aac790631c46b640.gif)<br>![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/60212743/b29ce33c37f73b79bcd253f43bf03a44779a2c19-4428632-1000-562-gif/x/0/f66dx94lr5m8bd1tla7/295f119ffae3e0f1a2a6bae32c2f725e.gif)<br>所属作品：`seikon no qwaser`<br>日语名 仙道 六実 |  |
-| ami tsuruga | 鹤河秋水 | ![](https://img.moegirl.org.cn/common/d/d6/女神咖啡厅-tsuruga.png)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/鹤河秋水) |
+| ami tsuruga | 鹤河秋水 | ![](https://goddess-cafe.com/2ndwp/wp-content/themes/d29b59564e24/static/character/04/main.webp)<br>所属作品：`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/鹤河秋水) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
