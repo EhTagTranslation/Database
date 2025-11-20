@@ -4093,7 +4093,7 @@ example:
 | inuyasha | 犬夜叉 | 所属作品：`p:inuyasha`<br>![图](https://ehgt.org/0f/5c/0f5c85601691a998e81e15a620b80b0915d9b0da-161970-372-599-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/犬夜叉%28角色%29) |
 | hitomi shizuki | 志筑仁美 |  |  |
 | nakoruru | 娜可露露 |  | [萌娘百科](https://zh.moegirl.org.cn/娜可露露) |
-| tomo yamanobe | 山边灯 | ![](https://gexuwzvtupijavcmprzc.hath.network/om/12996757/2821746f6ff4c582f87fb9aef5e67ec2ec95e7d1-497243-640-360-gif/x/0/2rf3ltqrqio8sm1tl7n/2.gif)<br>![](https://uyskgmdsdjonwezeizcx.hath.network/om/12996756/a7eaa0f8b14127b78c9ef2bcf6f93e963dad29b4-1083427-640-360-gif/x/0/r95mehcbsxp3n61tl7n/1.gif)<br>所属作品：`seikon no qwaser`<br>日文名 やまのべ とも |  |
+| tomo yamanobe | 山边灯 | ![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/7202704/b5064d72ca50eadf7fa308b69296c7dd68232129-4933930-509-288-gif/x/0/ks1u8pni46xgf71tl9e/ee71e8b1cbb37fe9069ee39a5f352e49.gif)<br>![](https://xjliqyjvthzpybasthyf.hath.network/om/60212824/7cc794960601361dfd0a3d4dfc1b97ac4e368573-438918-400-225-gif/x/0/rkawzi7l8ugb921tl9g/tumblr_olst4nI8PU1vg5ef8o1_400.gif)<br>所属作品：`seikon no qwaser`<br>日文名 やまのべ とも |  |
 | calamity jane | 灾星简 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灾星简%28Fate%29)<br>[https://fgo.wiki/w/灾星简](https://fgo.wiki/w/灾星简) |
 | charlotte corday | 夏洛特·科黛 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·科黛%28Fate%29)<br>[https://fgo.wiki/w/夏洛特·科黛](https://fgo.wiki/w/夏洛特·科黛) |
 | ibuki douji | 伊吹童子 | TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹童子%28Fate%29#)<br>[https://fgo.wiki/w/伊吹童子](https://fgo.wiki/w/伊吹童子) |
