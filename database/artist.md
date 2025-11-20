@@ -14291,6 +14291,7 @@ example:
 | koushouin teisetsu | 高尚院貞節 |  |  |
 | marumai | まるまい |  |  |
 | kyozow | きょぞう |  |  |
+| london inu | London犬 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
