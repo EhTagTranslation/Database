@@ -14293,6 +14293,7 @@ example:
 | kyozow | きょぞう |  |  |
 | london inu | London犬 |  |  |
 | manchi kan | マンチ★カン |  |  |
+| matanoshita saguru | またのした |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
