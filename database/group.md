@@ -13415,6 +13415,7 @@ example:
 | siberian hahasky | シベリアン母スキー |  |  |
 | hagurumarokuro | ハグルマロクロ |  |  |
 | mega driver | メガドライバー |  |  |
+| soregasiya | それがし屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
