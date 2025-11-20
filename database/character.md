@@ -1096,7 +1096,7 @@ example:
 | motochika | 元亲 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=468ea7d7554e9258a63486e6ac83d1d1/962ea201a18b87d668d2e4ac040828381e30fda7.jpg)<br>所属作品：`senran kagura` |  |
 | muramasa | 村正 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=ecf60e6bfefaaf5184e381b7bc5594ed/669ba726cffc1e17a86f2a7c4990f603728de959.jpg)<br>所属作品：`senran kagura` |  |
 | murasaki | 紫 | ![](https://i0.hdslb.com/bfs/article/2f7551cbf54bb7d69a3fe1cb1dafb03d298252208.png)<br>所属作品：`senran kagura` |  |
-| naraku | 奈乐 | ![奈乐](# "https://ehgt.org/12/1c/121c3b43d357b284004df683fe6750bebb1674ba-3110618-2117-3000-jpg_l.jpg") |  |
+| naraku | 奈乐 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=4d011fa3bf3eb13544c7b7b3961ea8cb/9dab8c014c086e06d09e0c0001087bf40ad1cb7d.jpg)<br>所属作品：`senran kagura` |  |
 | ryoubi | 两备 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=5549d8b778cb0a4685228b315b62f63e/832c8dd3fd1f4134ceb03f33261f95cad0c85ead.jpg)<br>所属作品：`senran kagura` |  |
 | ryouna | 两奈 | ![](https://ehgt.org/63/ce/63ce9ae29986ab92d2e0d011012a7ef3a553bb84-98332-288-360-jpg_l.jpg) |  |
 | sakyou | 左京 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=3154faabd70735fa91f04eb1ae500f9f/456b002dd42a2834aed76ebb58b5c9ea15cebf3b.jpg)<br>所属作品：`senran kagura` |  |
