@@ -14334,6 +14334,7 @@ example:
 | roru keikakujo | ロル計劃所 |  |  |
 | sachinashi rokio | 幸無ろき雄 |  |  |
 | sakate no lefty | さかてのレフティ |  |  |
+| same manma | さめまんま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
