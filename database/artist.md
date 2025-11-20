@@ -14347,6 +14347,7 @@ example:
 | smash daisaku | スマッシュ代作 |  |  |
 | megadriver | メガドライバー |  |  |
 | najimi shin | 馴染しん |  |  |
+| takeshi rebirth | タケシリバース |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
