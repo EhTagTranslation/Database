@@ -14320,6 +14320,7 @@ example:
 | norubon | ノルボン |  |  |
 | nuwara gray | ヌワラグレイ |  |  |
 | oohara kyutarou | 大原久太郎 |  |  |
+| penova | ペノバ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
