@@ -14284,6 +14284,7 @@ example:
 | kotobachi | ことばち |  |  |
 | koneko | こねこ |  |  |
 | kobito | コビト |  |  |
+| kobapyon | コバぴょん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
