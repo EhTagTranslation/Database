@@ -14389,6 +14389,7 @@ example:
 | gas mas | ガスマス |  |  |
 | gomala | ごまら |  |  |
 | kanashiro no hako | かなしろの箱 |  |  |
+| kinugasa yuuichi | キヌガサ雄一 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
