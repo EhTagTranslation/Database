@@ -14327,6 +14327,7 @@ example:
 | shingyouji tatsuya | 富本たつや |  |  |
 | shinonome | 東雲 |  |  |
 | shinonome yuki | 東雲由紀 |  |  |
+| kagetora | 影虎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
