@@ -5983,7 +5983,7 @@ example:
 | kenshin uesugi | 上杉谦信 | `p:rance`<br>![](https://img.moegirl.org.cn/common/1/1b/上杉谦信_兰斯.webp) | [萌娘百科-上杉谦信(兰斯系列)](https://zh.moegirl.org.cn/上杉谦信%28兰斯系列%29#) |
 | pastel kalar | 帕斯特尔·卡拉 | `p:rance`<br>![](https://img.moegirl.org.cn/common/thumb/9/96/决战帕斯特尔.png/1280px-决战帕斯特尔.png) | [萌娘百科](https://zh.moegirl.org.cn/帕斯特尔·卡拉) |
 | satella | 萨特拉 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/萨特拉) |
-| sen tokugawa | 德川千 | `p:rance` | [萌娘百科](https://zh.moegirl.org.cn/战姬) |
+| sen tokugawa | 德川千 | ①<br>![](https://lain.bgm.tv/r/400/pic/crt/l/79/44/19899_crt_YYWyN.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>②<br>所属作品：`p:rance` | [萌娘百科](https://zh.moegirl.org.cn/战姬) |
 | magic the gandhi | 玛吉珂·甘地 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/e/e1/Magic-X_%281%29.png/1280px-Magic-X_%281%29.png)<br>![](https://static.wikitide.net/alicesoftwiki/0/0c/Magic-Full-Body.png) | [萌娘百科](https://zh.moegirl.org.cn/玛吉珂·甘地) |
 | gele | 姬尔 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/0/08/Demon_King_Gele_2.png) | [萌娘百科](https://zh.moegirl.org.cn/姬尔) |
 | lia parapara leazas | 莉亚·帕拉帕拉·利萨斯 | `p:rance`<br>![](https://static.wikitide.net/alicesoftwiki/thumb/1/1a/Lia-X-Portrait.png/1280px-Lia-X-Portrait.png)<br>![](https://static.wikitide.net/alicesoftwiki/8/8e/Lia-01_%281%29.png) | [萌娘百科](https://zh.moegirl.org.cn/莉亚·帕拉帕拉·利萨斯) |
