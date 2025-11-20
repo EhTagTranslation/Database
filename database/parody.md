@@ -2608,6 +2608,7 @@ example:
 | gensou suikoden | 幻想水浒传 |  |  |
 | queens blade rebellion | 女皇之刃 叛乱 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6f/99/33354_08ZEH.jpg) |  |
 | given | ギヴン |  |  |
+| tonari no ie no anette-san | 邻居家的安妮特 | ![](https://ehgt.org/w/00/950/18602-ir7esa3k.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
