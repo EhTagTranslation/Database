@@ -13402,6 +13402,7 @@ example:
 | yonkaku box | ヨンカクボックス |  |  |
 | kirai na nomimono | きらいなのみもの |  |  |
 | natsuki gumi | 夏木グミ |  |  |
+| ebi furai tenkomori | えびフライてんこ盛り |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
