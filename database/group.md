@@ -13409,6 +13409,7 @@ example:
 | ebi no implant | えびのインプラント |  |  |
 | shitatattel | シタタッテル |  |  |
 | manmaya | まんま屋 |  |  |
+| rojiura 6-3 | ロジウラ6-3 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
