@@ -7428,6 +7428,7 @@ example:
 | galbrena | 嘉贝莉娜 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/b/ba/嘉贝莉娜_唤取立绘.png/revision/latest?cb=20251008004051&path-prefix=zh)<br>嘉贝莉娜是库洛制作的游戏《`p:wuthering waves`》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/嘉贝莉娜)<br>[Fandom](https://wutheringwaves.fandom.com/zh/wiki/嘉贝莉娜) |
 | hayato kasukabe | 粕壁隼 | ![](https://static.wikia.nocookie.net/goddess-cafe-terrace/images/c/c6/Hayato_Kasukabe_-_Anime_Character_Design.png/revision/latest?cb=20221123140557)<br>日语拼写：かすかべ はやと<br>所属作品:`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/粕壁隼) |
 | shiragiku ono | 小野白菊 | ![](https://static.wikia.nocookie.net/goddess-cafe-terrace/images/3/3e/Shiragiku_Ono_-_Anime_Character_Design.png/revision/latest?cb=20221123140527)<br><br>日语名：おの しらぎく<br>所属作品:`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/小野白菊) |
+| minami sakurai | 樱井水波 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/9/93/Sakurai-Minami-AN-S3-Fullbody-Uniform.png/revision/latest?cb=20240107000711)<br>桜井 水波（さくらい みなみ）<br>所属作品:`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/樱井水波) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
