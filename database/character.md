@@ -7407,6 +7407,7 @@ example:
 | gisen yagyuu | 柳生义仙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/74/19904_crt_QiaXn.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 | yukimura sanada | 真田幸村 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8e/b4/19898_crt_3Pmn7.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>日语名：さなだ ゆきむら |  |
 | hanzou hattori | 服部半藏 | ①<br>![](https://lain.bgm.tv/r/400/pic/crt/l/09/0f/19901_crt_f6EeU.jpg)<br>所属作品：`hyakka ryouran samurai girls`<br>②各类作品中名为服部半藏的角色 |  |
+| matabei goto | 后藤又兵卫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/52/8d/19902_crt_d7tD0.jpg)<br>所属作品：`hyakka ryouran samurai girls` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
