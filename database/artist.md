@@ -14359,6 +14359,7 @@ example:
 | tawara | たわら |  |  |
 | tenpiboshi | てんぴぼし |  |  |
 | tensei-kun | 転生くん |  |  |
+| teriyaki sasami | 照焼ささみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
