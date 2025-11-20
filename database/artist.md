@@ -14307,6 +14307,7 @@ example:
 | minmei | みんめい |  |  |
 | methonium | シネクドキ |  |  |
 | megrim haruyo | メグリム・ハルヨ |  |  |
+| nakahara dragon | なかはらドラゴン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
