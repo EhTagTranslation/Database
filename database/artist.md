@@ -14364,6 +14364,7 @@ example:
 | t-man | T-マン |  |  |
 | todakenji | トダケンジ |  |  |
 | toin | といん |  |  |
+| toppogi | トッポギ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
