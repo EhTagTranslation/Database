@@ -14302,6 +14302,7 @@ example:
 | moedomura | もえどむら |  |  |
 | mizuki ebi | 水生えび |  |  |
 | mitsuashi | みつあし |  |  |
+| mirin to chikuwa | みりちく |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
