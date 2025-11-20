@@ -14316,6 +14316,7 @@ example:
 | nishio nishipa | 西尾ニシパ |  |  |
 | nitake yutamaro | 弐竹ゆたまろ |  |  |
 | niyasuke | にやすけ |  |  |
+| yamada rimuru | 山田りむる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
