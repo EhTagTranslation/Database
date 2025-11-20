@@ -7438,6 +7438,7 @@ example:
 | iori yamato | 大和伊织 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9f/Iorin_profile.png)<br>日本女性虚拟 YouTuber。<br>所属社团：LIVE |  |
 | leona heidern | 莉安娜·哈迪兰 | 所属作品：`king of fighters` |  |
 | jett | 捷风 | 所属作品：`valorant` |  |
+| rika | 辛俐 | ![](https://ehgt.org/w/01/896/99831-34x2pjbu.webp)<br>所属作品：`pokemon`<br>日语名:チリ<br>《宝可梦 朱/紫》中初次登场。 帕底亚地区的宝可梦联盟四天王之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
