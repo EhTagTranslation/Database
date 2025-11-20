@@ -7468,6 +7468,7 @@ example:
 | cecilia irene | 塞西莉亚·艾琳 |  |  |
 | ayame yomogawa | 四方川菖蒲 |  |  |
 | yuzu kurosaki | 黑崎游子 |  |  |
+| azusa aizawa | 亚梓莎·埃札瓦 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
