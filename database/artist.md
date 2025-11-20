@@ -14394,6 +14394,7 @@ example:
 | siberian hahasky | シベリアン母スキー |  |  |
 | gakeppuchi no kaede | 崖っぷちの楓 |  |  |
 | tsunosign | 角Sign |  |  |
+| tsuntonei | つんとねい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
