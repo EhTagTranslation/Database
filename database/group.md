@@ -13429,6 +13429,7 @@ example:
 | tsubukisou | つぶ木荘 |  |  |
 | seido shiru agari | セイドシルアガリ |  |  |
 | maru no nakahawa | まるのなかはわ |  |  |
+| yoshiya-dou | 嘉野堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
