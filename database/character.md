@@ -7457,6 +7457,7 @@ example:
 | severa | 赛蕾娜（露娜） | ![](https://static.wikia.nocookie.net/fireemblem/images/e/e9/Serena_%28FE13%29.png/revision/latest?cb=20170306034724)<br>登场于`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Severa#Awakening) |
 | emmeryn | 爱梅莉娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6a/Emmeryn_Artwork.png/revision/latest?cb=20160420100128)<br>日文：エメリナ<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Emmeryn) |
 | flavia | 芙拉维亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/08/Flavia_Official_Art.png/revision/latest?cb=20160607231934)<br>日文：フラヴィア<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Flavia) |
+| maribelle | 玛丽亚贝尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6d/Maribelle_%28FE13_Artwork%29.png/revision/latest?cb=20231223033148)<br>日文：マリアベル<br>所属作品:`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Maribelle) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
