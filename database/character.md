@@ -7448,6 +7448,7 @@ example:
 | tear grants | 缇娅·格兰兹 | ![](https://ehgt.org/w/01/906/70709-72mayf81.webp)<br>所属作品：`tales of the abyss` |  |
 | talizorah nar rayya | 塔丽·佐拉·纳·雷亚 | 所属作品：`mass effect` |  |
 | lafiel abriel | 拉斐尔·亚布里艾尔 | 所属作品：`banner of the stars`<br>全名：亚布里艾尔·尼·杜布雷斯克·帕留纽子爵·拉斐尔 |  |
+| cherche | 塞尔裘 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/98/Cherche_Awakening_Artwork.png/revision/latest?cb=20231223055537)<br>日文：セルジュ<br>所属作品: `fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Cherche) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
