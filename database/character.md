@@ -7447,6 +7447,7 @@ example:
 | julianne stingray | 朱丽安·斯汀雷 | ![](https://www.gfwiki.org/images/c/cf/Pic_Jill_HD.png)<br>所属作品：`va-11 hall-a` |  |
 | tear grants | 缇娅·格兰兹 | ![](https://ehgt.org/w/01/906/70709-72mayf81.webp)<br>所属作品：`tales of the abyss` |  |
 | talizorah nar rayya | 塔丽·佐拉·纳·雷亚 | 所属作品：`mass effect` |  |
+| lafiel abriel | 拉斐尔·亚布里艾尔 | 所属作品：`banner of the stars`<br>全名：亚布里艾尔·尼·杜布雷斯克·帕留纽子爵·拉斐尔 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
