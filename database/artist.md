@@ -14317,6 +14317,7 @@ example:
 | nitake yutamaro | 弐竹ゆたまろ |  |  |
 | niyasuke | にやすけ |  |  |
 | yamada rimuru | 山田りむる |  |  |
+| norubon | ノルボン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
