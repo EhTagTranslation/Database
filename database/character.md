@@ -7430,6 +7430,7 @@ example:
 | shiragiku ono | 小野白菊 | ![](https://static.wikia.nocookie.net/goddess-cafe-terrace/images/3/3e/Shiragiku_Ono_-_Anime_Character_Design.png/revision/latest?cb=20221123140527)<br><br>日语名：おの しらぎく<br>所属作品:`megami no cafe terrace` | [萌娘百科](https://zh.moegirl.org.cn/小野白菊) |
 | minami sakurai | 樱井水波 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/9/93/Sakurai-Minami-AN-S3-Fullbody-Uniform.png/revision/latest?cb=20240107000711)<br>桜井 水波（さくらい みなみ）<br>所属作品:`mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/樱井水波) |
 | akechi eimi | 明智英美 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/3/32/Akechi-Eimi-GM-RM-Fullbody.png/revision/latest?cb=20221226000711)<br>日文拼写: あけち えいみ<br>所属作品: `mahouka koukou no rettousei` | [Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Akechi_Eimi) |
+| azusa nakajou | 中条梓 | ![](https://anibase.net/files/b2bcd5b06e9e4478e120434a7df7ca1a)<br>日文拼写: なかじょう あずさ<br>所属作品: `mahouka koukou no rettousei` | [Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Nakajou_Azusa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
