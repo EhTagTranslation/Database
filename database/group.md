@@ -13434,6 +13434,7 @@ example:
 | yuzu ko | ユズ庫 |  |  |
 | zonebell market | ゾンベルマーケット |  |  |
 | byururun youkeijou | びゅるるん★養鶏場 |  |  |
+| sokuseki maou | 即席魔王 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
