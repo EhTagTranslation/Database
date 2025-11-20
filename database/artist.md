@@ -14306,6 +14306,7 @@ example:
 | mio mio mio | 澪澪澪 |  |  |
 | minmei | みんめい |  |  |
 | methonium | シネクドキ |  |  |
+| megrim haruyo | メグリム・ハルヨ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
