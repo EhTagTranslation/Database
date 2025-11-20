@@ -13436,6 +13436,7 @@ example:
 | byururun youkeijou | びゅるるん★養鶏場 |  |  |
 | sokuseki maou | 即席魔王 |  |  |
 | wide na nomikuchi | ワイドな飲み口 |  |  |
+| graphic l | グラフィックL |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
