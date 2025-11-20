@@ -7437,6 +7437,7 @@ example:
 | nemu asakura | ‌朝仓音梦 | 所属作品：`da capo` |  |
 | iori yamato | 大和伊织 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9f/Iorin_profile.png)<br>日本女性虚拟 YouTuber。<br>所属社团：LIVE |  |
 | leona heidern | 莉安娜·哈迪兰 | 所属作品：`king of fighters` |  |
+| jett | 捷风 | 所属作品：`valorant` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
