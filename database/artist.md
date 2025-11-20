@@ -14358,6 +14358,7 @@ example:
 | taroimo tarou | たろいも太郎 |  |  |
 | tawara | たわら |  |  |
 | tenpiboshi | てんぴぼし |  |  |
+| tensei-kun | 転生くん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
