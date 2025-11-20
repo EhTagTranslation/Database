@@ -1792,7 +1792,7 @@ example:
 | sakura kinomoto | 木之本樱 |  |  |
 | touya kinomoto | 木之本桃矢 |  |  |
 | yukito tsukishiro | 月城雪兔 |  |  |
-| tomoyo daidouji | 大道寺知世 |  |  |
+| tomoyo daidouji | 大道寺知世 | ![](https://img.moegirl.org.cn/common/2/27/Tomoyo_Daidouji.jpg) |  |
 | sonomi daidouji | 大道寺园美 |  |  |
 | syaoran li | 李小狼 |  |  |
 | meiling li | 李苺铃 |  |  |
