@@ -14312,6 +14312,7 @@ example:
 | nana g | 七G |  |  |
 | nanita | ナニタ |  |  |
 | ngu | んぐ |  |  |
+| nijiiro guin | 虹色ぐいん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
