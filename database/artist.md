@@ -14272,6 +14272,7 @@ example:
 | doremi | DoReMi | 画师，蔚蓝档案总设计师Chief of Design |  |
 | inumori shirou | 戌森四朗 |  |  |
 | kouguti | こうぐち |  |  |
+| kouan | コーアン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
