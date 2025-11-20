@@ -7446,7 +7446,7 @@ example:
 | laylea | Laylea | ![](https://static.wikia.nocookie.net/fireemblem/images/d/dc/Laylea_%28FE_Treasure%29.png/revision/latest?cb=20170410004711)<br>日文: レイリア<br>所属作品: `fire emblem genealogy of the holy war` | [Fandom](https://fireemblem.fandom.com/wiki/Laylea) |
 | julianne stingray | 朱丽安·斯汀雷 | ![](https://www.gfwiki.org/images/c/cf/Pic_Jill_HD.png)<br>所属作品：`va-11 hall-a` |  |
 | tear grants | 缇娅·格兰兹 | ![](https://ehgt.org/w/01/906/70709-72mayf81.webp)<br>所属作品：`tales of the abyss` |  |
-| talizorah nar rayya | 塔丽佐拉·纳·雷亚 | 所属作品：`mass effect` |  |
+| talizorah nar rayya | 塔丽·佐拉·纳·雷亚 | 所属作品：`mass effect` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
