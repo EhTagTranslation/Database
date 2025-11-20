@@ -7416,7 +7416,7 @@ example:
 | seong mi-na | 成美娜 | ![](https://sunvxqrqcj.hath.network/om/176216134/3bf2867f1a99bca6a3e5b6d9bbbcacbc6ad9406f-1054776-832-1216-png/470fc096e4d389952ffd24bdfa85e6aef0e37ac7-51462-800-1169-wbp/800/9ri0gw6p2c74ai1tl7p/1387.webp)<br>所属作品：`soulcalibur` |  |
 | mafuyu oribe | 织部真冬 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/17/19/00/24/136380020_p1_master1200.jpg)<br>所属作品：`seikon no qwaser` |  |
 | teresa beria | 泰蕾莎·维里亚 | ![](https://ehgt.org/w/02/038/42727-fo4s5o1e.webp)<br>所属作品：`seikon no qwaser`<br>日文名 テレサ・ベリア |  |
-| hana katsuragi | 桂木华 | ![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/60212860/a76e763bc31a6451bb4a47e61296134eb07d8abc-1081785-500-278-gif/x/0/39slmgtqubrpxy1tl9f/tumblr_os5ii8Fme61vpe4noo2_500.gif)<br>所属作品：`seikon no qwaser` |  |
+| hana katsuragi | 桂木华 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/05/01/16/30/17/129905896_p27_master1200.jpg)<br>所属作品：`seikon no qwaser` |  |
 | ekaterina kurae | 卡恰 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/22/07/23/54/126453431_p0_master1200.jpg)<br>所属作品：`seikon no qwaser`<br>别名: 伊卡捷琳娜·库拉耶<br>日文名 エカテリーナ＝クラエ |  |
 | miyuri tsujidou | 辻堂美由梨 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/01/26/01/43/16/126574203_p12_master1200.jpg)<br>所属作品：`seikon no qwaser`<br>日文名  つじどう みゆり |  |
 | fumika mitarai | 御手洗史伽 | 所属作品：`seikon no qwaser`<br>日语名 みたらい ふみか |  |
