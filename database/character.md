@@ -1070,7 +1070,7 @@ example:
 | daidouji | 大道寺前辈 | ![](https://ehgt.org/4f/e3/4fe30ad9be6a6dcf9c51f8b83f63d6d7fcf798a7-40217-384-480-jpg_l.jpg) |  |
 | fuga | 风雅 | ![](https://ehgt.org/fa/ec/faec74c9ac75adae505ce4c52b5ba0bb0a83abf0-45188-384-480-jpg_l.jpg) |  |
 | fuma | 风魔 | ![](https://ehgt.org/77/c2/77c2b509b629eabb4b29ef931103eab70b07708d-47421-384-480-jpg_l.jpg) |  |
-| ginrei | 银岭 | ![](https://ehgt.org/b0/01/b001c376fad4d2b7350a405573d47977da958986-51371-384-480-jpg_l.jpg) |  |
+| ginrei | 银岭 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7a09fd6c8ef76093c0b99971edca301/10c8c3cd7b899e51e4e7a15f41a7d933c9950dc6.jpg)<br>所属作品：`senran kagura` |  |
 | haruka | 春花 | ![](https://ehgt.org/8d/b6/8db6694c3bc12b4b24f1d00565584e7dfbccaa6d-68700-384-480-jpg_l.jpg) |  |
 | hibari | 云雀 | ![](https://ehgt.org/7d/84/7d846acda04c0dcb8c41ddc55f3b1c89ba81f98e-43898-384-480-jpg_l.jpg) |  |
 | hijikata | 土方 | ![](https://ehgt.org/6c/2a/6c2a825a6a8ea0ef220a5a431744ebc23d8929f9-42376-384-480-jpg_l.jpg) |  |
