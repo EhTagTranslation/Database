@@ -14351,6 +14351,7 @@ example:
 | soregasiya | 某氏屋 |  |  |
 | sukoyasu | スコヤス |  |  |
 | surio | すりお |  |  |
+| suzume inui | 鈴眼依縫 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
