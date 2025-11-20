@@ -13435,6 +13435,7 @@ example:
 | zonebell market | ゾンベルマーケット |  |  |
 | byururun youkeijou | びゅるるん★養鶏場 |  |  |
 | sokuseki maou | 即席魔王 |  |  |
+| wide na nomikuchi | ワイドな飲み口 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
