@@ -630,7 +630,7 @@ example:
 | kozue yusa | 游佐梢 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/ff/5ct7o8e98dsdm70qr7cahrehetblf4k.png/960px-CGSS-Kozue-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 有浦柑奈 |  |  |
 | kurumi ohnuma | 大沼胡桃 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/09/ps75nlwq6k2x77o3bcogdccem4n0e8s.png/960px-CGSS-Kurumi-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| shiki ichinose | 一之濑志希 |  |  |
+| shiki ichinose | 一之濑志希 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/bb/hftsfug8azpd658fog6r9q90s6a9mr2.png/960px-CGSS-Shiki-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | yuuki otokura | 乙仓悠贵 |  |  |
 | rin shibuya | 涩谷凛 | ![](https://img.moegirl.org.cn/common/1/11/シンデレラガール_渋谷凛.jpg)<br>![](https://img.moegirl.org.cn/common/5/56/Rin_Cinderella_SR%2B.jpg)<br>涩谷凛（日语：渋谷 凛（しぶや りん））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/涩谷凛) |
 |  | 黑川千秋 |  |  |
