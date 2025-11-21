@@ -684,7 +684,7 @@ example:
 | kanade hayami | 速水奏 | 速水奏（日语：速水（はやみ） 奏（かなで））是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的神秘偶像。 | [萌娘百科](https://zh.moegirl.org.cn/速水奏) |
 | izumi ohishi | 大石泉 |  |  |
 | chizuru matsuo | 松尾千鹤 |  |  |
-| arisu tachibana | 橘爱丽丝 |  |  |
+| arisu tachibana | 橘爱丽丝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/12/k2lthj2ke5qo7lhkwefssa8n1vcsb83.png/960px-CGSS-Arisu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nono morikubo | 森久保乃乃 |  |  |
 | anastasia | 安娜斯塔西娅 |  |  |
 | aki yamato | 大和亚季 |  |  |
