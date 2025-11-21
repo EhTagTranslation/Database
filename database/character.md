@@ -653,7 +653,7 @@ example:
 | helen | 海伦 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/67/d5zu09y24xovuztdcsdrvuhce05pnev.png/960px-CGSS-Helen-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 松永凉 |  |  |
 |  | 小室千奈美 |  |  |
-| noa takamine | 高峰诺亚 |  |  |
+| noa takamine | 高峰诺亚 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/34/qsrr3bch1qikv2b6zupbmu2y2nit7od.png/960px-CGSS-Noa-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | kaede takagaki | 高垣枫 |  |  |
 | ranko kanzaki | 神崎兰子 |  |  |
 |  | 伊集院惠 |  |  |
