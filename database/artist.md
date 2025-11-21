@@ -14408,6 +14408,7 @@ example:
 | pon | ポン |  |  |
 | ruzi | あ～る氏 |  |  |
 | semiemon | 蝉えもん |  |  |
+| nogawa seroly | 野川せろり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
