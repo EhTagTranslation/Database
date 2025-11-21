@@ -7504,6 +7504,7 @@ example:
 | rensuke kunigami | 国神练介 | ![](https://tv.bluelock-pr.com/tv1st/wp-content/themes/bluelock-main/_assets/images/pages/char/detail/webp/kunigami_suit_pc.webp)<br>所属作品：`blue lock` |  |
 | akira hayasaka | 早坂晶 | 所属作品：`super real mahjong` |  |
 | mimi houllier von schwarzlang | 咪咪·霍利尔·冯·修沃兹兰格 | ![](https://ehgt.org/64/83/64833f4736f7dfe21a64f7ff9422dbf727a9f3bc-9730048-4367-6067-jpg_250.jpg)<br>所属作品：`atelier totori` |  |
+| emden | 埃姆登 | ![](https://i2.hdslb.com/bfs/new_dyn/fc4261d321db407713e43917e538e237262400697.png)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
