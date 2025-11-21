@@ -594,7 +594,7 @@ example:
 | saya matsubara | 松原早耶 |  |  |
 | yukino aihara | 相原雪乃 | ![](https://patchwiki.biligame.com/images/imascg/thumb/2/2a/5x2vd4w4fp9p0a5z6scq97ijrjf1v4e.png/960px-CGSS-Yukino-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | frederica miyamoto | 宫本芙蕾德莉卡 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/01/mmvoep8sac29kmzkh0jek3jv4fulotd.png/960px-CGSS-Frederica-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| sae kobayakawa | 小早川纱枝 |  |  |
+| sae kobayakawa | 小早川纱枝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/46/rh8x5va5byitbek3l6jyrj339g22fop.png/960px-CGSS-Sae-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kotoka saionji | 西园寺琴歌 |  |  |
 | anzu futaba | 双叶杏 |  |  |
 |  | 杨菲菲 |  |  |
