@@ -650,7 +650,7 @@ example:
 |  | 服部瞳子 |  |  |
 | manami kiba | 木场真奈美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/be/t5220f1h50cjsah9a2k9ej4bgv3em99.png/960px-CGSS-Manami-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | hajime fujiwara | 藤原肇 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/e1/q8nc08ydg5fl8fwts3tscnieedb7m04.png/960px-CGSS-Hajime-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| helen | 海伦 |  |  |
+| helen | 海伦 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/67/d5zu09y24xovuztdcsdrvuhce05pnev.png/960px-CGSS-Helen-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 松永凉 |  |  |
 |  | 小室千奈美 |  |  |
 | noa takamine | 高峰诺亚 |  |  |
