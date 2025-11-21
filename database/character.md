@@ -645,7 +645,7 @@ example:
 | ai togo | 东乡爱 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/bd/ghfa97f1n6g59t58vjcfin60zpesthj.png/960px-CGSS-Ai-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | riina tada | 多田李衣菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/1d/tu6rloyd2mdsz2ob817tvey5d0qdcif.png/960px-CGSS-Riina-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | seira mizuki | 水木圣来 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/44/3j03ecxovrv37qt8trg7v0zwl4nwyiv.png/960px-CGSS-Seira-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| chie sasaki | 佐佐木千枝 |  |  |
+| chie sasaki | 佐佐木千枝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/44/0f4yk1dyhl4lzyrlbf7h8ta0h9rgfb4.png/960px-CGSS-Chie-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | miyu mifune | 三船美优 |  |  |
 |  | 服部瞳子 |  |  |
 | manami kiba | 木场真奈美 |  |  |
