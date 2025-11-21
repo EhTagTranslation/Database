@@ -7478,6 +7478,7 @@ example:
 | umeko kojima | 小岛梅子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8d/a1/11745_crt_2F2zo.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | tsubame matsunaga | 松永燕 | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/7e/30076_crt_p4z0g.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | kazuko kawakami | 川神一子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/97/24/11731_crt_9eaTW.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| christiane friedrich | 克丽斯汀·弗里德里希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/59/11734_crt_UXdp3.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
