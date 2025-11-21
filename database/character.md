@@ -5237,7 +5237,7 @@ example:
 | midari ikishima | 生志摩妄 | 私立百花王学园学生会的一员，美化委员长。<br>　　齐肩长发，头上戴着大蝴蝶结，特征是左眼带有眼罩，脸上和舌头都有穿环。<br>　　变态般的性格，对普通的赌博已经享受不到快感，于是追求以死相博。曾经因为输给桃喰会长，而自己挑出左眼来抵债，也因此加入学生会。<br>　　对梦子非常执着，称她为“最棒的女人”，并和梦子进行了生死游戏。 |  |
 | leonora nakiri | 薙切蕾欧诺拉 | 漫画《食戟之灵》的女角色，薙切爱丽丝的母亲，远月学园研究部门——薙切国际研究会的部门长。薙切国际研究会作为远月的研究部门而成立的，是一个以最新科学来缔造新的美食和分子烹饪的学术机关。<br>不擅长说日语，但是只要嘴炮开起来就无人能敌。<br>父亲：薙切仙左卫门<br>丈夫：薙切宗卫<br>女儿：薙切爱丽丝<br>侄女：薙切绘里奈 |  |
 | ibuki tanga | 丹花伊吹 | 所属作品：`p:blue archive`<br>格黑娜学园所属，「万魔殿」的议员兼吉祥物少女。<br>原本是从属格黑娜学园初等部，因能力得到认可而加入了在格黑娜学园里也只有优秀的学生才能进入的「万魔殿」。<br>![](https://img.moegirl.org.cn/common/c/cd/BA_Ibuki.png) | [萌娘百科](https://zh.moegirl.org.cn/丹花伊吹) |
-| shinobu kudo | 工藤忍 |  |  |
+| shinobu kudo | 工藤忍 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/f1/ehfviwtlf5pxd3hrkhpkajte0tcmwyr.png/960px-CGSS-Shinobu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | gwen | 格温 |  |  |
 | princess bubblegum | 泡泡糖公主 |  | [维基百科](https://zh.wikipedia.org/wiki/泡泡糖公主) |
 | plume | 翎羽 | ![](https://patchwiki.biligame.com/images/arknights/6/67/7ukxywn197qwschcvw1dxyje2askzj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
