@@ -7497,6 +7497,7 @@ example:
 | shouei barou | 马狼照英 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/barou_.webp)<br>所属作品：`blue lock` |  |
 | michael kaiser | 米切尔·凯撒 | 所属作品：`blue lock` |  |
 | sae itoshi | 糸师冴 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/itoshi-s.webp?202406)<br>所属作品：`blue lock` |  |
+| reo mikage | 御影玲王 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/reo_.webp)<br>所属作品：`blue lock` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
