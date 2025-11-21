@@ -7508,6 +7508,7 @@ example:
 | s-snake | S 蛇女 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/1d/161870_crt_i1j65.jpg)<br>所属作品：`one piece`<br>由贝加班克研发的新型和平主义者“炽天使”，隶属于海军特殊科学班，是以波雅·汉库克为原型的机体，拥有“甜甜果实”的复制能力。 |  |
 | glynda goodwitch | 格琳达·古德维奇 | ![](https://ehgt.org/w/01/717/12877-m1uq1z9a.webp)<br>所属作品：`rwby` |  |
 | tethys | 特媞丝 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0b/Tethys.png/revision/latest?cb=20160930095832)<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Tethys) |
+| felix hugo fraldarius | 菲力克斯·尤果·伏拉鲁达力乌斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/7/7b/Felix_Heroes.png/revision/latest?cb=20230417045800)<br>菲力克斯·尤果·伏拉鲁达力乌斯（日语：フェリクス ユーゴ フラルダリウス，英语：Felix Hugo Fraldarius），所属作品：`fire emblem three houses` | [萌娘百科](https://zh.moegirl.org.cn/菲力克斯·尤果·伏拉鲁达力乌斯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
