@@ -592,7 +592,7 @@ example:
 | miku maekawa | 前川未来 | ![](https://patchwiki.biligame.com/images/imascg/b/ba/h0ccqa5wk1j8uz291qj3z3c0ber3dkj.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 赤西瑛梨华 |  |  |
 | saya matsubara | 松原早耶 |  |  |
-| yukino aihara | 相原雪乃 |  |  |
+| yukino aihara | 相原雪乃 | ![](https://patchwiki.biligame.com/images/imascg/thumb/2/2a/5x2vd4w4fp9p0a5z6scq97ijrjf1v4e.png/960px-CGSS-Yukino-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | frederica miyamoto | 宫本芙蕾德莉卡 |  |  |
 | sae kobayakawa | 小早川纱枝 |  |  |
 | kotoka saionji | 西园寺琴歌 |  |  |
