@@ -7510,6 +7510,7 @@ example:
 | tethys | 特媞丝 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0b/Tethys.png/revision/latest?cb=20160930095832)<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Tethys) |
 | felix hugo fraldarius | 菲力克斯·尤果·伏拉鲁达力乌斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/7/7b/Felix_Heroes.png/revision/latest?cb=20230417045800)<br>菲力克斯·尤果·伏拉鲁达力乌斯（日语：フェリクス ユーゴ フラルダリウス，英语：Felix Hugo Fraldarius），所属作品：`fire emblem three houses` | [萌娘百科](https://zh.moegirl.org.cn/菲力克斯·尤果·伏拉鲁达力乌斯) |
 | citrinne | 希特丽妮卡 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/5b/Citrinne_Heroes.png/revision/latest?cb=20230718044745)<br>日语：シトリニカ<br>所属作品：`fire emblem engage` | [Fandom](https://fireemblem.fandom.com/wiki/Citrinne) |
+| alcryst | 史塔卢克 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4f/Alcryst_Heroes.png/revision/latest?cb=20230718044309)<br>日文：スタルーク<br>所属作品：`fire emblem engage` | [Fandom](https://fireemblem.fandom.com/wiki/Alcryst) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
