@@ -696,7 +696,7 @@ example:
 | nanami asari | 浅利七海 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/da/68yeqx6ggucronyrgftk3nttivov0jt.png/960px-CGSS-Nanami-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 桐生司 |  |  |
 | mio honda | 本田未央 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6d/lny0rz5ei58jgs384sx0kcx3qmqc01u.png/960px-CGSS-Mio-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| aiko takamori | 高森蓝子 |  |  |
+| aiko takamori | <p>高森蓝子</p> | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7a/9d0fgrncvlgrzr1tiowaahfpuwgn5la.png/960px-CGSS-Aiko-3D-8.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 并木芽衣子 |  |  |
 | kaoru ryuzaki | 龙崎薰 |  |  |
 | natsuki kimura | 木村夏树 |  |  |
