@@ -674,7 +674,7 @@ example:
 |  | 岸部彩华 |  |  |
 | mutsumi ujiie | 氏家睦 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/8f/0yp781ljqv6otz8meexbylxodhyliro.png/960px-CGSS-Mutsumi-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 西川保奈美 |  |  |
-| yume narumiya | 成宫由爱 |  |  |
+| yume narumiya | 成宫由爱 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/be/j0ysqj80uh9tih44znv2kfmh779nqjq.png/960px-CGSS-Yume-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 藤居朋 |  |  |
 | syuko shiomi | 盐见周子 |  |  |
 |  | 胁山珠美 |  |  |
