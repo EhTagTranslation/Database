@@ -589,7 +589,7 @@ example:
 | hasumi nagatomi | 长富莲实 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/d7/ifk8jcr52zuwsbbvtrfia4g05zznoia.png/960px-CGSS-Hasumi-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | chika yokoyama | 横山千佳 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/e0/q0m2aih2bysprsjuhrt6ngxnaoxx20c.png/960px-CGSS-Chika-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 关裕美 |  |  |
-| miku maekawa | 前川未来 |  |  |
+| miku maekawa | 前川未来 | ![](https://patchwiki.biligame.com/images/imascg/b/ba/h0ccqa5wk1j8uz291qj3z3c0ber3dkj.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 赤西瑛梨华 |  |  |
 | saya matsubara | 松原早耶 |  |  |
 | yukino aihara | 相原雪乃 |  |  |
