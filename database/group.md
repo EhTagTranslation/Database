@@ -13443,6 +13443,7 @@ example:
 | pakomucchi | ぱこむっち |  |  |
 | petapetapeta | ぺたぺたぺた |  |  |
 | r koubou | あ～る工房 |  |  |
+| jumyou wa isshuukan. | 寿命は1週間。 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
