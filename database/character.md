@@ -7468,7 +7468,7 @@ example:
 | cecilia irene | 塞西莉亚·艾琳 |  |  |
 | ayame yomogawa | 四方川菖蒲 |  |  |
 | yuzu kurosaki | 黑崎游子 |  |  |
-| azusa aizawa | 亚梓莎·埃札瓦 |  |  |
+| azusa aizawa | 亚梓莎·埃札瓦 | ![](https://ehgt.org/w/01/926/50734-6kj13ot9.webp)<br>高原魔女亚梓莎<br>又名：相泽梓<br>日文名：アズサ アイザワ<br>所属作品：`slime taoshite 300-nen shiranai uchi ni level max ni nattemashita` | [萌娘百科](https://zh.moegirl.org.cn/相泽梓) |
 | gwynn | 沐净 | 所属作品：`pokemon` |  |
 | sharkry | 夏克里 | ![](https://patchwiki.biligame.com/images/gf2/6/69/ly37tth0wlp6oerbe0iflen699yo6ay.png)<br>所属作品：`girls frontline` |  |
 | idoll sun | iDoll太阳 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_339/h_938/1253/236746/2025/3/17/997970.png)<br>所属作品：`goddess of victory nikke`<br>隶属于替代者部队的妮姬。<br>由泰特拉所开发的量产型号，被称为太阳型号。 | [https://www.gamekee.com/nikke/tj/152361.html](https://www.gamekee.com/nikke/tj/152361.html) |
