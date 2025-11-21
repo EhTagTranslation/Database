@@ -699,7 +699,7 @@ example:
 | aiko takamori | <p>高森蓝子</p> | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7a/9d0fgrncvlgrzr1tiowaahfpuwgn5la.png/960px-CGSS-Aiko-3D-8.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 并木芽衣子 |  |  |
 | kaoru ryuzaki | <p>龙崎薰</p> | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/9b/nn0yf68ou1h467x6na7ycjv16hs3yt3.png/960px-CGSS-Kaoru-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| natsuki kimura | 木村夏树 |  |  |
+| natsuki kimura | 木村夏树 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/e4/d95g41ychy7kqppp3a8taqoe5f8ad7q.png/960px-CGSS-Natsuki-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 松山久美子 |  |  |
 |  | 齐藤洋子 |  |  |
 |  | 泽田麻理菜 |  |  |
