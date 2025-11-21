@@ -7470,6 +7470,7 @@ example:
 | yuzu kurosaki | 黑崎游子 |  |  |
 | azusa aizawa | 亚梓莎·埃札瓦 |  |  |
 | gwynn | 沐净 | 所属作品：`pokemon` |  |
+| sharkry | 夏克里 | ![](https://patchwiki.biligame.com/images/gf2/6/69/ly37tth0wlp6oerbe0iflen699yo6ay.png)<br>所属作品：`girls frontline` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
