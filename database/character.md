@@ -625,7 +625,7 @@ example:
 | mirei hayasaka | 早坂美玲 |  |  |
 |  | 栋方爱海 |  |  |
 | rina fujimoto | 藤本里奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/ff/5ojnod8jrmywmsb278jhbpzz4zrl5sz.png/960px-CGSS-Rina-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| michiru ohara | 大原满 |  |  |
+| michiru ohara | 大原满 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6b/52m4oesgtdihdcvsain86q8v63nete0.png/960px-CGSS-Michiru-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | hotaru shiragiku | 白菊萤 |  |  |
 | kozue yusa | 游佐梢 |  |  |
 |  | 有浦柑奈 |  |  |
