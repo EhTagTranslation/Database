@@ -634,7 +634,7 @@ example:
 | yuuki otokura | 乙仓悠贵 |  |  |
 | rin shibuya | 涩谷凛 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/34/7dj602wgkio4o73tzgpjzi968twz7k9.png/960px-CGSS-Rin-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>涩谷凛（日语：渋谷 凛（しぶや りん）） | [萌娘百科](https://zh.moegirl.org.cn/涩谷凛) |
 |  | 黑川千秋 |  |  |
-| sarina matsumoto | 松本沙理奈 |  |  |
+| sarina matsumoto | 松本沙理奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/88/770dnnpon4ziedhjwi3ewnb524s67ex.png/960px-CGSS-Sarina-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 桐野绫 |  |  |
 |  | 高桥礼子 |  |  |
 |  | 相川千夏 |  |  |
