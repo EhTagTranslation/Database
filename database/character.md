@@ -5174,7 +5174,7 @@ example:
 | himeno | 姬野 | 出自《电锯人》 |  |
 | tomori takamatsu | 高松灯 | 高松灯（日语：高松（たかまつ） 燈（ともり））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高松灯) |
 | anon chihaya | 千早爱音 | ![](https://pic.cangku.moe/images/2025/11/21/1l0Qc.gif)<br>所属作品：`bang dream`<br>日语名：ちはやあのん | [萌娘百科](https://zh.moegirl.org.cn/千早爱音) |
-| soyo nagasaki | 长崎爽世 | ![](https://img.moegirl.org.cn/common/0/0c/Soyo230916.png)<br>所属作品：《‌BanG Dream! Ave Mujica》<br>日语名：長崎（ながさき） そよ）。 | [萌娘百科](https://zh.moegirl.org.cn/长崎爽世) |
+| soyo nagasaki | 长崎爽世 | ![](https://img.moegirl.org.cn/common/0/0c/Soyo230916.png)<br>所属作品：《BanG Dream! It's MyGO!!!!!》<br>日语名：長崎（ながさき） そよ）。 | [萌娘百科](https://zh.moegirl.org.cn/长崎爽世) |
 | taki shiina | 椎名立希 | 椎名立希（日语：椎名（しいな） 立希（たき））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椎名立希) |
 | penance | 斥罪 | ![](https://patchwiki.biligame.com/images/arknights/d/d7/imdyu21qu3no8h52b3gzuidyd3vs9sm.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/斥罪) |
 | kisaki ryuuge | 龙华妃咲 | 所属作品：`p:blue archive`<br>山海经高级中学所属，掌管学园所有事务的学生会「玄龙门」的会长，或称门主。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_534/h_1194/829/43637/2023/0/29/465438.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/581921.html)<br>[萌娘百科](https://zh.moegirl.org.cn/龙华妃咲) |
