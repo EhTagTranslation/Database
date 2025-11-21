@@ -14407,6 +14407,7 @@ example:
 | syoukyakubutu | 焼却物 |  |  |
 | pon | ポン |  |  |
 | ruzi | あ～る氏 |  |  |
+| semiemon | 蝉えもん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
