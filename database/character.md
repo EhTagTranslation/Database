@@ -596,7 +596,7 @@ example:
 | frederica miyamoto | 宫本芙蕾德莉卡 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/01/mmvoep8sac29kmzkh0jek3jv4fulotd.png/960px-CGSS-Frederica-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | sae kobayakawa | 小早川纱枝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/46/rh8x5va5byitbek3l6jyrj339g22fop.png/960px-CGSS-Sae-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kotoka saionji | 西园寺琴歌 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/4f/pithafii321e4ois8ych8iy38i1ge86.png/960px-CGSS-Kotoka-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| anzu futaba | 双叶杏 |  |  |
+| anzu futaba | 双叶杏 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/fd/5ctxda0dcj15q15qrak41bq0sqsynlz.png/960px-CGSS-Anzu-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 杨菲菲 |  |  |
 |  | 桃井小豆 |  |  |
 |  | 凉宫星花 |  |  |
