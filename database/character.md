@@ -5686,7 +5686,7 @@ example:
 | rupa | RUPA | RUPA是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为黄色。<br>![](https://img.moegirl.org.cn/common/thumb/b/b6/GBC_character_rupa.webp/345px-GBC_character_rupa.webp.png) | [萌娘百科](https://zh.moegirl.org.cn/RUPA) |
 | tomo ebizuka | 海老冢智 | 海老冢智（日语：海老塚（えびづか） 智（とも））是由东映动画策划的原创动画《GIRLS BAND CRY》及其衍生作品的登场角色。代表色为粉红色。<br>![](https://img.moegirl.org.cn/common/thumb/d/d4/GBC_character_tomo.webp/345px-GBC_character_tomo.webp.png) | [萌娘百科](https://zh.moegirl.org.cn/海老冢智) |
 | yukari ayase | 绫濑由加莉 |  | [萌娘百科](https://zh.moegirl.org.cn/绫濑由加莉) |
-| hiromi seki | 关裕美 |  | [萌娘百科](https://zh.moegirl.org.cn/关裕美) |
+| hiromi seki | 关裕美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/83/ck4ex53iysq1zmbs28rzgm507td6wdi.png/960px-CGSS-Hiromi-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 | [萌娘百科](https://zh.moegirl.org.cn/关裕美) |
 | swiftsure | 确捷 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/06be7f4c969445648369eb66084a60f7262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/确捷) |
 | ume hanami | 花海佑芽 | ![](https://img.moegirl.org.cn/common/d/d8/Imas_gakuen_cidol-hume-1-000_0-full.png)<br>花海佑芽是由QualiArts开发、万代南梦宫娱乐发行的`p:the idolmaster`系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/花海佑芽) |
 | yusei fudo | 不动游星 | 动画/漫画《游戏王5D's》及其衍生作品的登场角色。<br><br>头脑聪明，看起来是一位很冷酷的人，其实是一位关心朋友、内心热情的青年，为出场“World·Riding-Duel· Grand Prix”（世界骑乘决斗大奖赛）用自己的手巧妙地组装出了一台“D /轮”（摩托车）。在手臂上有着龙头样式原为龙尾样式的龙印。<br><br>看重朋友们的友情，在后期嘴炮里经常会出现“绊”（きずな）/“羁绊”（きはん）来表达感情，于是得名“绊厨”。<br><br>OP中和俺の嫁黑蔷薇魔女十六夜秋同框的场景，配合歌词和剧情，使得两人的配对CP呼声是游戏王系列的BG向CP中呼声最高的ED5画面里和秋姐的一幕差点变成官方发糖，可惜大结局还是走了牛尾线。 | [萌娘百科](https://zh.moegirl.org.cn/不动游星) |
