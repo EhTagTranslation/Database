@@ -7483,6 +7483,7 @@ example:
 | kokoro fushikawa | 不死川心 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a8/f6/11751_crt_rNmp6.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | sayaka mayuzumi | 黛沙也佳 | ![](https://static.wikia.nocookie.net/majidewatashinikoishinasai/images/6/60/Sayaka.png)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | ran hanamaru | 花丸兰 | ![](https://ehgt.org/w/02/103/20988-kkq0y9q8.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
+| asane tachibana | 橘麻沙音 | ![](https://ehgt.org/w/02/065/97970-kjmpukad.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
