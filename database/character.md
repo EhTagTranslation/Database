@@ -682,7 +682,7 @@ example:
 |  | 水野翠 |  |  |
 |  | 冈崎泰叶 |  |  |
 | kanade hayami | 速水奏 | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/90/m9lztz2r7n690vioxj45v28dgb9d440.png/960px-CGSS-Kanade-3D-8.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>速水奏（日语：速水奏（はやみ かなで）） | [萌娘百科](https://zh.moegirl.org.cn/速水奏) |
-| izumi ohishi | 大石泉 |  |  |
+| izumi ohishi | 大石泉 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/fa/gm3iyr59t81d2e24ycvxm5aqmhablrg.png/960px-CGSS-Izumi-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | chizuru matsuo | 松尾千鹤 |  |  |
 | arisu tachibana | 橘爱丽丝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/12/k2lthj2ke5qo7lhkwefssa8n1vcsb83.png/960px-CGSS-Arisu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nono morikubo | 森久保乃乃 |  |  |
