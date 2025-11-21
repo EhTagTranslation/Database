@@ -610,7 +610,7 @@ example:
 | sachiko koshimizu | 舆水幸子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c4/280zzo9l9dam8nirccpcx6btcgls09k.png/960px-CGSS-Sachiko-3D-9.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 安斋都 |  |  |
 |  | 浅野风香 |  |  |
-| yuriko ohnishi | 大西由里子 |  |  |
+| yuriko ohnishi | 大西由里子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/9d/knb84qpzycmb56wqiv2ctgm96iv46yb.png/960px-CGSS-Yuriko-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | nana abe | 安部菜菜 |  |  |
 |  | 工藤忍 |  |  |
 | nene kurihara | 栗原宁宁 |  |  |
