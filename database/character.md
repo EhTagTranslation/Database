@@ -664,7 +664,7 @@ example:
 | honoka ayase | 绫濑穗乃香 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/88/tqtxtap8a4d319yg6aw4hre7kjjjyyq.png/960px-CGSS-Honoka-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yukimi sajo | 佐城雪美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/32/gl0kj0t9k80s9nh3u36lnoa7fx5zd22.png/960px-CGSS-Yukimi-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 篠原礼 |  |  |
-| rumi wakui | <p>和久井留美</p> | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c5/6bi7aga4yeqtuqtmtaqgjr2msccoidq.png/960px-CGSS-Rumi-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
+| rumi wakui | 和久井留美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c5/6bi7aga4yeqtuqtmtaqgjr2msccoidq.png/960px-CGSS-Rumi-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 吉冈沙纪 |  |  |
 |  | 古泽赖子 |  |  |
 |  | 望月圣 |  |  |
