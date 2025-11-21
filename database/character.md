@@ -613,7 +613,7 @@ example:
 | yuriko ohnishi | 大西由里子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/9d/knb84qpzycmb56wqiv2ctgm96iv46yb.png/960px-CGSS-Yuriko-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | nana abe | 安部菜菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6d/00vboa74s2uy3cfgdvura6mygk1of04.png/960px-CGSS-Nana-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 工藤忍 |  |  |
-| nene kurihara | 栗原宁宁 |  |  |
+| nene kurihara | 栗原宁宁 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7b/2ielfxj3ter30dpbb4v92g0mez8stpo.png/960px-CGSS-Nene-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | koharu koga | 古贺小春 |  |  |
 |  | 原田美世 |  |  |
 | akiha ikebukuro | 池袋晶叶 |  |  |
