@@ -7474,6 +7474,7 @@ example:
 | idoll sun | iDoll太阳 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_339/h_938/1253/236746/2025/3/17/997970.png)<br>所属作品：`goddess of victory nikke`<br>隶属于替代者部队的妮姬。<br>由泰特拉所开发的量产型号，被称为太阳型号。 | [https://www.gamekee.com/nikke/tj/152361.html](https://www.gamekee.com/nikke/tj/152361.html) |
 | nanao ise | 伊势七绪 | 所属作品：`bleach`<br>护廷十三队第一队副队长，女性死神协会副会长。 |  |
 | yamato naoe | 川神百代 | ![](https://patchwiki.biligame.com/images/mnsg/e/e9/ckc0l0kpsgigqf2yzwj6v9x09ku4rtg.png)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| momoyo kawakami | 川神百代 | ![](https://patchwiki.biligame.com/images/mnsg/e/e9/ckc0l0kpsgigqf2yzwj6v9x09ku4rtg.png)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
