@@ -617,7 +617,7 @@ example:
 | koharu koga | 古贺小春 |  |  |
 |  | 原田美世 |  |  |
 | akiha ikebukuro | 池袋晶叶 |  |  |
-| yuu ohta | 太田优 |  |  |
+| yuu ohta | 太田优 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6a/nn8doe91jfifg8avf6m2f1r6oayuxym.png/960px-CGSS-Yuu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 克拉莉丝 |  |  |
 | mayu sakuma | 佐久间麻由 |  |  |
 |  | 村松樱 |  |  |
