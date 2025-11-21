@@ -606,7 +606,7 @@ example:
 |  | 柳清良 |  |  |
 |  | 井村雪菜 |  |  |
 |  | 日下部若叶 |  |  |
-| satomi sakakibara | 榊原里美 |  |  |
+| satomi sakakibara | 榊原里美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/5a/8k3ky2bt4m6k8zv01h3z2vo550joqpl.png/960px-CGSS-Satomi-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | sachiko koshimizu | 舆水幸子 |  |  |
 |  | 安斋都 |  |  |
 |  | 浅野风香 |  |  |
