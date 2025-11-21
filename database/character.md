@@ -619,7 +619,7 @@ example:
 | akiha ikebukuro | 池袋晶叶 |  |  |
 | yuu ohta | 太田优 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6a/nn8doe91jfifg8avf6m2f1r6oayuxym.png/960px-CGSS-Yuu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 克拉莉丝 |  |  |
-| mayu sakuma | 佐久间麻由 |  |  |
+| mayu sakuma | 佐久间麻由 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/39/2gpsisqg79fdrtlnlev0f8e91so52la.png/960px-CGSS-Mayu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 村松樱 |  |  |
 |  | 丹羽仁美 |  |  |
 | mirei hayasaka | 早坂美玲 |  |  |
