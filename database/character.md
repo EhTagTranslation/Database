@@ -580,7 +580,7 @@ example:
 | mai fukuyama | 福山舞 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/15/od7ukluj250yy7ujwlkwmj6l8wsh3qs.png/960px-CGSS-Mai-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | kanako mimura | 三村加奈子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/8e/980c85u2d2ols2gzcd2rrcxg2dkcga5.png/960px-CGSS-Kanako-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | miho kohinata | 小日向美穗 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7b/ontoej7p2rj85rc1k1bfgv87t7l1w4g.png/960px-CGSS-Miho-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| chieri ogata | 绪方智绘里 |  |  |
+| chieri ogata | 绪方智绘里 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/52/iseuev9o3dxzwircba66kpx2unx8281.png/960px-CGSS-Chieri-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kyoko igarashi | 五十岚响子 |  |  |
 |  | 柳濑美由纪 |  |  |
 | momoka sakurai | 樱井桃华 | 樱井桃华是BNEI与Cygames开发的手机社群游戏《`p:the idolmaster`灰姑娘女孩》系列中的萝莉大小姐偶像。<br>![](https://imas.gamedbs.jp/cgss/images/1521525225019_bdp19ei6.png) | [萌娘百科](https://zh.moegirl.org.cn/樱井桃华) |
