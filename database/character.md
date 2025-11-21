@@ -614,7 +614,7 @@ example:
 | nana abe | 安部菜菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6d/00vboa74s2uy3cfgdvura6mygk1of04.png/960px-CGSS-Nana-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 工藤忍 |  |  |
 | nene kurihara | 栗原宁宁 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7b/2ielfxj3ter30dpbb4v92g0mez8stpo.png/960px-CGSS-Nene-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| koharu koga | 古贺小春 |  |  |
+| koharu koga | 古贺小春 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/fd/d83a4jj7h8jwmi6e1e1xgl4r90wpbsh.png/960px-CGSS-Koharu-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 原田美世 |  |  |
 | akiha ikebukuro | 池袋晶叶 |  |  |
 | yuu ohta | 太田优 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6a/nn8doe91jfifg8avf6m2f1r6oayuxym.png/960px-CGSS-Yuu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
