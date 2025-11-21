@@ -5172,7 +5172,7 @@ example:
 | wriothesley | 莱欧斯利 | 莱欧斯利是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯利) |
 | rin uehara | 上原燐 |  |  |
 | himeno | 姬野 | 出自《电锯人》 |  |
-| tomori takamatsu | 高松灯 | 高松灯（日语：高松（たかまつ） 燈（ともり））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/高松灯) |
+| tomori takamatsu | 高松灯 | ![](https://anime.bang-dream.com/mygo/wordpress/wp-content/themes/mygo_v1/assets/images/common/character/thumb_tomori.png)<br>所属作品：《‌BanG Dream! It's MyGO!!》<br>高松灯（日语：高松（たかまつ） 燈（ともり））。 | [萌娘百科](https://zh.moegirl.org.cn/高松灯) |
 | anon chihaya | 千早爱音 | ![](https://pic.cangku.moe/images/2025/11/21/1l0Qc.gif)<br>所属作品：《‌BanG Dream! Ave Mujica》<br>日语名：ちはやあのん | [萌娘百科](https://zh.moegirl.org.cn/千早爱音) |
 | soyo nagasaki | 长崎爽世 | ![](https://img.moegirl.org.cn/common/0/0c/Soyo230916.png)<br>所属作品：《BanG Dream! It's MyGO!!!!!》<br>日语名：長崎（ながさき） そよ）。 | [萌娘百科](https://zh.moegirl.org.cn/长崎爽世) |
 | taki shiina | 椎名立希 | 椎名立希（日语：椎名（しいな） 立希（たき））是由日本娱乐公司Bushiroad策划的次世代少女乐队企划《BanG Dream!》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/椎名立希) |
