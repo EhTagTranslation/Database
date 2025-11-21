@@ -863,7 +863,7 @@ example:
 | fuyuko mayuzumi | 黛冬优子 | ![](https://img.moegirl.org.cn/common/b/b3/Fuyuko_intial.png)<br>![](https://img.moegirl.org.cn/common/0/0e/FuyukoFullR.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/黛冬优子) |
 | mei izumi | 和泉爱依 |  |  |
 | asahi serizawa | 芹泽朝阳 | ![](https://img.moegirl.org.cn/common/0/03/Asahi_intial.png)<br>![](https://img.moegirl.org.cn/common/8/8a/Asahi-Alpha.png)<br>![](https://img.moegirl.org.cn/common/a/a4/Asahi宝01.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/芹泽朝日) |
-| akira sunazuka | 砂冢明 |  |  |
+| akira sunazuka | 砂冢明 | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/9e/7chs92yhufudaykj25w8o94rbda8bd9.png/960px-CGSS-Akira-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | riamu yumemi | 梦见璃亚梦 |  |  |
 | madoka higuchi | 樋口圆香 | 所属作品`p:the idolmaster`<br>樋口圆香（日语：樋口円香）万代南梦宫娱乐旗下的游戏《偶像大师 闪耀色彩》及其衍生作品的毒舌偶像。<br>![](https://img.moegirl.org.cn/common/2/24/MadokaFullR.png) | [萌娘百科](https://zh.moegirl.org.cn/樋口圆香) |
 | koito fukumaru | 福丸小糸 | ![](https://img.moegirl.org.cn/common/a/a5/Koito_initial.png)<br>![](https://img.moegirl.org.cn/common/7/76/KoitoFullR.png)<br>福丸小糸（日语：福丸 小糸（ふくまる こいと））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/福丸小糸) |
