@@ -622,7 +622,7 @@ example:
 | mayu sakuma | 佐久间麻由 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/39/2gpsisqg79fdrtlnlev0f8e91so52la.png/960px-CGSS-Mayu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 村松樱 |  |  |
 |  | 丹羽仁美 |  |  |
-| mirei hayasaka | 早坂美玲 |  |  |
+| mirei hayasaka | 早坂美玲 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/5c/4bc7qdeln3mbyavecqsc268270j26a7.png/960px-CGSS-Mirei-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 栋方爱海 |  |  |
 | rina fujimoto | 藤本里奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/ff/5ojnod8jrmywmsb278jhbpzz4zrl5sz.png/960px-CGSS-Rina-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | michiru ohara | 大原满 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6b/52m4oesgtdihdcvsain86q8v63nete0.png/960px-CGSS-Michiru-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
