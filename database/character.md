@@ -2806,7 +2806,7 @@ example:
 | carmilla | 卡米拉 | 在`type-moon`的游戏《`fate grand order`》中登场的女性Servant。职阶为Assassin<br>![图](# "https://ehgt.org/ba/3f/ba3f3347a0ce6d4ae9b2991468db49cf9c823465-2970572-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/卡米拉%28Fate%29) [Mooncell](http://www.fgo.wiki/w/卡米拉) |
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |
 | chiyo shirayuki | 白雪千夜 |  |  |
-| chitose kurosaki | 黑埼千岁 |  |  |
+| chitose kurosaki | 黑埼千岁 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/da/j3xbm5v9wgy6xfmf0ymf5t11lplwmob.png/960px-CGSS-Chitose-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kiyomi saejima | 冴岛清美 |  |  |
 | cure milky | 羽衣拉拉 |  |  |
 | rinko iori | 伊织凛子 |  |  |
