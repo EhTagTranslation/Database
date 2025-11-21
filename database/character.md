@@ -661,7 +661,7 @@ example:
 | karen hojo | 北条加莲 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/40/5rtrg71vqbn0bj2wauao76q2bpm9u5c.png/960px-CGSS-Karen-3D-6.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 凯特 |  |  |
 |  | 濑名诗织 |  |  |
-| honoka ayase | 绫濑穗乃香 |  |  |
+| honoka ayase | 绫濑穗乃香 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/88/tqtxtap8a4d319yg6aw4hre7kjjjyyq.png/960px-CGSS-Honoka-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yukimi sajo | 佐城雪美 |  |  |
 |  | 篠原礼 |  |  |
 | rumi wakui | 和久井留美 |  |  |
