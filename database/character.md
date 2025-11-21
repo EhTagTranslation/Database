@@ -676,7 +676,7 @@ example:
 |  | 西川保奈美 |  |  |
 | yume narumiya | 成宫由爱 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/be/j0ysqj80uh9tih44znv2kfmh779nqjq.png/960px-CGSS-Yume-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 藤居朋 |  |  |
-| syuko shiomi | 盐见周子 |  |  |
+| syuko shiomi | 盐见周子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/78/j13j30e0aoerj8a956jr7dnawzis66z.png/960px-CGSS-Syuko-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 胁山珠美 |  |  |
 | minami nitta | 新田美波 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/49/gvgac3rcetf5tfxq1f5weyhgn4r098p.png/960px-CGSS-Minami-3D-7.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 水野翠 |  |  |
