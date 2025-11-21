@@ -4360,7 +4360,7 @@ example:
 | hanae asagao | 朝颜花江 | 所属作品：`p:blue archive`<br>圣三一综合学园所属，救护骑士团元气开朗的新生。<br>![](https://patchwiki.biligame.com/images/ba/a/a9/5gx71psm655fyz1h5trprhyjhacfp82.png)<br>![](https://img.moegirl.org.cn/common/4/48/BA_Hanae.png) | [萌娘百科](https://zh.moegirl.org.cn/朝颜花绘)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Hanae) |
 | saori joumae | 锭前纱织 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，是在校内被誉为精英特殊部队「阿里乌斯特殊小队」的队长。<br>![](https://patchwiki.biligame.com/images/ba/1/1d/4tcoqb9gvyfp56vpxyx13vabyryihj1.png) | [萌娘百科](https://zh.moegirl.org.cn/锭前纱织)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Saori) |
 | nijika ijichi | 伊地知虹夏 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/nijika/image_movienew.png)<br>所属作品:`p:bocchi the rock` | [萌娘百科](https://zh.moegirl.org.cn/伊地知虹夏) |
-| ryou yamada | 山田凉 | 山田凉（日语：山田（やまだ） リョウ）是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/7/70/孤独摇滚贺图_第4话_山田凉.jpeg/800px-孤独摇滚贺图_第4话_山田凉.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/山田凉) |
+| ryou yamada | 山田凉 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/ryo/image_movienew.png)<br>所属作品：`bocchi the rock`<br>山田凉（日语：山田（やまだ） リョウ） | [萌娘百科](https://zh.moegirl.org.cn/山田凉) |
 | ikuyo kita | 喜多郁代 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/ikuyo/image_movienew.png)<br>所属作品：`bocchi the rock` |  |
 | mewtwo | 超梦 |  |  |
 | shion | 紫苑 |  |  |
