@@ -611,7 +611,7 @@ example:
 |  | 安斋都 |  |  |
 |  | 浅野风香 |  |  |
 | yuriko ohnishi | 大西由里子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/9d/knb84qpzycmb56wqiv2ctgm96iv46yb.png/960px-CGSS-Yuriko-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| nana abe | 安部菜菜 |  |  |
+| nana abe | 安部菜菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6d/00vboa74s2uy3cfgdvura6mygk1of04.png/960px-CGSS-Nana-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 工藤忍 |  |  |
 | nene kurihara | 栗原宁宁 |  |  |
 | koharu koga | 古贺小春 |  |  |
