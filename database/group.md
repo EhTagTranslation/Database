@@ -13445,6 +13445,7 @@ example:
 | r koubou | あ～る工房 |  |  |
 | jumyou wa isshuukan. | 寿命は1週間。 |  |  |
 | hagure moguri | ハグレモグリ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68640.html) |
+| baketsu purin | バケツプリン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
