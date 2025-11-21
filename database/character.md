@@ -626,7 +626,7 @@ example:
 |  | 栋方爱海 |  |  |
 | rina fujimoto | 藤本里奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/ff/5ojnod8jrmywmsb278jhbpzz4zrl5sz.png/960px-CGSS-Rina-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | michiru ohara | 大原满 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6b/52m4oesgtdihdcvsain86q8v63nete0.png/960px-CGSS-Michiru-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| hotaru shiragiku | 白菊萤 |  |  |
+| hotaru shiragiku | 白菊萤 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/80/s9np00uzekjy01mah4stnw6p65e3cxf.png/960px-CGSS-Hotaru-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kozue yusa | 游佐梢 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/ff/5ct7o8e98dsdm70qr7cahrehetblf4k.png/960px-CGSS-Kozue-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 有浦柑奈 |  |  |
 | kurumi ohnuma | 大沼胡桃 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/09/ps75nlwq6k2x77o3bcogdccem4n0e8s.png/960px-CGSS-Kurumi-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
