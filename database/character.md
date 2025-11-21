@@ -7501,6 +7501,7 @@ example:
 | ryusei shidou | 士道龙圣 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/shidou2.webp?202406)<br>所属作品：`blue lock` |  |
 | meguru bachira | 蜂乐廻 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/bachira_.webp)<br>所属作品：`blue lock` |  |
 | hyoma chigiri | 千切豹马 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/chigiri_.webp)<br>所属作品：`blue lock` |  |
+| rensuke kunigami | 国神练介 | ![](https://tv.bluelock-pr.com/tv1st/wp-content/themes/bluelock-main/_assets/images/pages/char/detail/webp/kunigami_suit_pc.webp)<br>所属作品：`blue lock` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
