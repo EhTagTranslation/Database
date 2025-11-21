@@ -7476,6 +7476,7 @@ example:
 | yamato naoe | 直江大和 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f3/8b/11739_crt_LMKXQ.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | momoyo kawakami | 川神百代 | ![](https://patchwiki.biligame.com/images/mnsg/e/e9/ckc0l0kpsgigqf2yzwj6v9x09ku4rtg.png)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | umeko kojima | 小岛梅子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8d/a1/11745_crt_2F2zo.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| tsubame matsunaga | 松永燕 | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/7e/30076_crt_p4z0g.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
