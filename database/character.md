@@ -638,7 +638,7 @@ example:
 |  | 桐野绫 |  |  |
 |  | 高桥礼子 |  |  |
 |  | 相川千夏 |  |  |
-| mizuki kawashima | 川岛瑞树 |  |  |
+| mizuki kawashima | 川岛瑞树 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/77/to9yddsquzog588kyndajjm92rab9nr.png/960px-CGSS-Mizuki-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nao kamiya | 神谷奈绪 |  |  |
 | haruna kamijou | 上条春菜 |  |  |
 | hina araki | 荒木比奈 |  |  |
