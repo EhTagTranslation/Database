@@ -7471,6 +7471,7 @@ example:
 | azusa aizawa | 亚梓莎·埃札瓦 |  |  |
 | gwynn | 沐净 | 所属作品：`pokemon` |  |
 | sharkry | 夏克里 | ![](https://patchwiki.biligame.com/images/gf2/6/69/ly37tth0wlp6oerbe0iflen699yo6ay.png)<br>所属作品：`girls frontline` |  |
+| idoll sun | iDoll太阳 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_339/h_938/1253/236746/2025/3/17/997970.png)<br>所属作品：`goddess of victory nikke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
