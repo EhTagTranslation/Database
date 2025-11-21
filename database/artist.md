@@ -14405,6 +14405,7 @@ example:
 | kuromasu | 黒鱒 |  |  |
 | tsukumaru | つく丸 |  |  |
 | syoukyakubutu | 焼却物 |  |  |
+| pon | ポン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
