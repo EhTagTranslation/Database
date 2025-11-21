@@ -7475,6 +7475,7 @@ example:
 | nanao ise | 伊势七绪 | 所属作品：`bleach`<br>护廷十三队第一队副队长，女性死神协会副会长。 |  |
 | yamato naoe | 直江大和 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f3/8b/11739_crt_LMKXQ.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | momoyo kawakami | 川神百代 | ![](https://patchwiki.biligame.com/images/mnsg/e/e9/ckc0l0kpsgigqf2yzwj6v9x09ku4rtg.png)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| umeko kojima | 小岛梅子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8d/a1/11745_crt_2F2zo.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
