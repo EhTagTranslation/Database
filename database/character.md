@@ -648,7 +648,7 @@ example:
 | chie sasaki | 佐佐木千枝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/44/0f4yk1dyhl4lzyrlbf7h8ta0h9rgfb4.png/960px-CGSS-Chie-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | miyu mifune | 三船美优 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/ff/9l396zw9hgne9ukpfyuuuu3gcdsfkgr.png/960px-CGSS-Miyu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 服部瞳子 |  |  |
-| manami kiba | 木场真奈美 |  |  |
+| manami kiba | 木场真奈美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/be/t5220f1h50cjsah9a2k9ej4bgv3em99.png/960px-CGSS-Manami-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | hajime fujiwara | 藤原肇 |  |  |
 | helen | 海伦 |  |  |
 |  | 松永凉 |  |  |
