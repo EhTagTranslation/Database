@@ -670,7 +670,7 @@ example:
 |  | 望月圣 |  |  |
 | kako takafuji | 鹰富士茄子 |  |  |
 |  | 梅木音叶 |  |  |
-| koume shirasaka | 白坂小梅 |  |  |
+| koume shirasaka | <p>白坂小梅</p> | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/d5/s0bq1sbv3ju1xzxx7tghvbxgpnac4ja.png/960px-CGSS-Koume-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 岸部彩华 |  |  |
 | mutsumi ujiie | 氏家睦 |  |  |
 |  | 西川保奈美 |  |  |
