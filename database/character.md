@@ -654,7 +654,7 @@ example:
 |  | 松永凉 |  |  |
 |  | 小室千奈美 |  |  |
 | noa takamine | 高峰诺亚 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/34/qsrr3bch1qikv2b6zupbmu2y2nit7od.png/960px-CGSS-Noa-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| kaede takagaki | 高垣枫 |  |  |
+| kaede takagaki | 高垣枫 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/5a/i728ed679yxsnzupxov6irkt89mouks.png/960px-CGSS-Kaede-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | ranko kanzaki | 神崎兰子 |  |  |
 |  | 伊集院惠 |  |  |
 |  | 柊志乃 |  |  |
