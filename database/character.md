@@ -616,7 +616,7 @@ example:
 | nene kurihara | 栗原宁宁 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7b/2ielfxj3ter30dpbb4v92g0mez8stpo.png/960px-CGSS-Nene-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | koharu koga | 古贺小春 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/fd/d83a4jj7h8jwmi6e1e1xgl4r90wpbsh.png/960px-CGSS-Koharu-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 原田美世 |  |  |
-| akiha ikebukuro | 池袋晶叶 |  |  |
+| akiha ikebukuro | 池袋晶叶 | ![](https://patchwiki.biligame.com/images/imascg/thumb/2/22/da7rafk1m2wrxf7z82xa4i7wk144gwt.png/960px-CGSS-Akiha-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | yuu ohta | 太田优 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/6a/nn8doe91jfifg8avf6m2f1r6oayuxym.png/960px-CGSS-Yuu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 克拉莉丝 |  |  |
 | mayu sakuma | 佐久间麻由 | ![](https://patchwiki.biligame.com/images/imascg/thumb/3/39/2gpsisqg79fdrtlnlev0f8e91so52la.png/960px-CGSS-Mayu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
