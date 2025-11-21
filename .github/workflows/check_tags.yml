@@ -27,7 +27,7 @@ jobs:
     if: ${{ github.event_name == 'workflow_dispatch' || vars.ENABLE_CHECK_TAGS == 'true' }}
 
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 50
       - uses: actions/setup-node@v6
