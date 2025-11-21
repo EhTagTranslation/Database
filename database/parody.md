@@ -2612,7 +2612,7 @@ example:
 | va-11 hall-a | 赛博朋克酒保行动 | 《VA-11 HALL-A》是由Sukeban Games工作室制作的赛博朋克题材模拟经营游戏。游戏设定在一个企业统治、民众受纳米机械压迫的反乌托邦未来都市，玩家扮演名为“Valhalla”的小酒吧调酒师，通过调配饮品与顾客互动，了解他们的故事。 |  |
 | beastars | BEASTARS | ![](https://img.moegirl.org.cn/common/3/3a/Beastars_Vol.22.jpg)<br>《BEASTARS》是板垣巴留于《周刊少年Champion》上连载的一部漫画，并有短篇集、动画等衍生作 | [维基百科](https://zh.wikipedia.org/wiki/BEASTARS) |
 | tear ring saga | 尤特娜英雄战记：泪指轮传说 | ![](https://upload.wikimedia.org/wikipedia/en/f/ff/Tearringsaga_boxart.PNG) | [维基百科](https://zh.wikipedia.org/wiki/泪指轮传说_尤特娜英雄战记) |
-| nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka | 摇滚乃是淑女的爱好 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2920037445.webp)<br>《摇滚乃是淑女的爱好》是由日本漫画家福田宏创作的少女音乐题材漫画作品。 |  |
+| nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka | 拔作岛 | ![](https://nukiani.com/assets/top/t2/vis-1.webp)<br>《拔作岛》全名《住在拔作岛上的贫\*乳应该如何是好?》是由Qruppo原作，まめおじたん作画的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
