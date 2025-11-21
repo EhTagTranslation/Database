@@ -643,7 +643,7 @@ example:
 | haruna kamijou | 上条春菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/04/rclsl0zhh5ecy8hgrolqbuwjbkwh2jw.png/960px-CGSS-Haruna-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | hina araki | 荒木比奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/8e/4zb3tjyfossjbd4j5kn7ld86jugedea.png/960px-CGSS-Hina-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | ai togo | 东乡爱 | ![](https://patchwiki.biligame.com/images/imascg/thumb/b/bd/ghfa97f1n6g59t58vjcfin60zpesthj.png/960px-CGSS-Ai-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| riina tada | 多田李衣菜 |  |  |
+| riina tada | 多田李衣菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/1d/tu6rloyd2mdsz2ob817tvey5d0qdcif.png/960px-CGSS-Riina-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | seira mizuki | 水木圣来 |  |  |
 | chie sasaki | 佐佐木千枝 |  |  |
 | miyu mifune | 三船美优 |  |  |
