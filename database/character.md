@@ -575,7 +575,7 @@ example:
 | mai hidaka | 日高舞 |  |  |
 | eri mizutani | 水谷绘理 |  |  |
 | ryo akizuki | 秋月凉 |  |  |
-| uzuki shimamura | 岛村卯月 | ![](https://img.moegirl.org.cn/common/0/08/シンデレラガール_島村卯月.jpg)<br>![](https://img.moegirl.org.cn/common/1/14/Uzuki_Cinderella_SR%2B.jpg)<br>所属作品：`the idolmaster` |  |
+| uzuki shimamura | 岛村卯月 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0c/c23uto1iow2wxrqcur6zwqebysekj0k.png/960px-CGSS-Uzuki-3D-7.png)<br>所属作品：《偶像大师 灰姑娘女孩》 |  |
 | yukari mizumoto | 水本紫 |  |  |
 | mai fukuyama | 福山舞 |  |  |
 | kanako mimura | 三村加奈子 |  |  |
