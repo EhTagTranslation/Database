@@ -576,7 +576,7 @@ example:
 | eri mizutani | 水谷绘理 |  |  |
 | ryo akizuki | 秋月凉 |  |  |
 | uzuki shimamura | 岛村卯月 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0c/c23uto1iow2wxrqcur6zwqebysekj0k.png/960px-CGSS-Uzuki-3D-7.png)<br>所属作品：《偶像大师 灰姑娘女孩》 |  |
-| yukari mizumoto | 水本紫 |  |  |
+| yukari mizumoto | 水本紫 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/77/h1na2jqp63tzfl8ligajnahuv2fyfdu.png/960px-CGSS-Yukari-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | mai fukuyama | 福山舞 |  |  |
 | kanako mimura | 三村加奈子 |  |  |
 | miho kohinata | 小日向美穗 |  |  |
