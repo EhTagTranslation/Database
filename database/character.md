@@ -7505,6 +7505,7 @@ example:
 | akira hayasaka | 早坂晶 | 所属作品：`super real mahjong` |  |
 | mimi houllier von schwarzlang | 咪咪·霍利尔·冯·修沃兹兰格 | ![](https://ehgt.org/64/83/64833f4736f7dfe21a64f7ff9422dbf727a9f3bc-9730048-4367-6067-jpg_250.jpg)<br>所属作品：`atelier totori` |  |
 | emden | 埃姆登 | ![](https://i2.hdslb.com/bfs/new_dyn/fc4261d321db407713e43917e538e237262400697.png)<br>所属作品：`azur lane` |  |
+| s-snake | S 蛇女 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/1d/161870_crt_i1j65.jpg)<br>所属作品：`one piece`<br>由贝加班克研发的新型和平主义者“炽天使”，隶属于海军特殊科学班，是以波雅·汉库克为原型的机体，拥有“甜甜果实”的复制能力。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
