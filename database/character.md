@@ -7507,6 +7507,7 @@ example:
 | emden | 埃姆登 | ![](https://i2.hdslb.com/bfs/new_dyn/fc4261d321db407713e43917e538e237262400697.png)<br>所属作品：`azur lane` |  |
 | s-snake | S 蛇女 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/1d/161870_crt_i1j65.jpg)<br>所属作品：`one piece`<br>由贝加班克研发的新型和平主义者“炽天使”，隶属于海军特殊科学班，是以波雅·汉库克为原型的机体，拥有“甜甜果实”的复制能力。 |  |
 | glynda goodwitch | 格琳达·古德维奇 | ![](https://ehgt.org/w/01/717/12877-m1uq1z9a.webp)<br>所属作品：`rwby` |  |
+| tethys | 特媞丝 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0b/Tethys.png/revision/latest?cb=20160930095832)<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Tethys) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
