@@ -687,7 +687,7 @@ example:
 | arisu tachibana | 橘爱丽丝 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/12/k2lthj2ke5qo7lhkwefssa8n1vcsb83.png/960px-CGSS-Arisu-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nono morikubo | 森久保乃乃 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0a/6st4dhu7fi80k6a9oxe9amxnurtazb7.png/960px-CGSS-Nono-3D-8.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | anastasia | 安娜斯塔西娅 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0c/rqgnorsocy0ejwaxtxk3vt402bb3ezf.png/960px-CGSS-Anastasia-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| aki yamato | 大和亚季 |  |  |
+| aki yamato | 大和亚季 | ![](https://patchwiki.biligame.com/images/imascg/thumb/4/47/n6lyn94ah58d2vfil11gve1ve7v4tz6.png/960px-CGSS-Aki-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | haru yuuki | 结城晴 |  |  |
 | fumika sagisawa | 鹭泽文香 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c2/1dcvutjzb78xyiy42g7012h6rlfdbfb.png/960px-CGSS-Fumika-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 | [萌娘百科](https://zh.moegirl.org.cn/鹭泽文香) |
 |  | 八神牧野 |  |  |
