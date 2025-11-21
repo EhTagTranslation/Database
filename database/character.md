@@ -7486,6 +7486,7 @@ example:
 | asane tachibana | 橘麻沙音 | ![](https://ehgt.org/w/02/065/97970-kjmpukad.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 | nanase katagiri | 片桐奈奈濑 | ![](https://nukiani.com./assets/character/3c.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 | ikuko onabuta | 女部田郁子 | ![](https://nukiani.com./assets/character/8c.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
+| touka reizeiin | 冷泉院桐香 | ![](https://nukiani.com./assets/character/6c.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
