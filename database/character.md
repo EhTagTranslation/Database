@@ -583,7 +583,7 @@ example:
 | chieri ogata | 绪方智绘里 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/52/iseuev9o3dxzwircba66kpx2unx8281.png/960px-CGSS-Chieri-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kyoko igarashi | 五十岚响子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/cd/ok15gwmo2tclg0nd0y5nc6z2n14h0g8.png/960px-CGSS-Kyoko-3D-6.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 |  | 柳濑美由纪 |  |  |
-| momoka sakurai | 樱井桃华 | 樱井桃华是BNEI与Cygames开发的手机社群游戏《`p:the idolmaster`灰姑娘女孩》系列中的萝莉大小姐偶像。<br>![](https://imas.gamedbs.jp/cgss/images/1521525225019_bdp19ei6.png) | [萌娘百科](https://zh.moegirl.org.cn/樱井桃华) |
+| momoka sakurai | 樱井桃华 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/a8/5k6xcttw8dim8ykzi1udzirln64r9et.png/960px-CGSS-Momoka-3D-7.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 | [萌娘百科](https://zh.moegirl.org.cn/樱井桃华) |
 | yumeko sakurai | 樱井梦子 |  |  |
 |  | 江上椿 |  |  |
 | hasumi nagatomi | 长富莲实 |  |  |
