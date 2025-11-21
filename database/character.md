@@ -7491,6 +7491,7 @@ example:
 | rei tadasugawa | 糺川礼 | ![](https://nukiani.com./assets/character/7c.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 | misaki hotori | 畔美岬 | ![](https://nukiani.com./assets/character/4c.webp)<br>所属作品：`nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka` |  |
 | graha tia | 古·拉哈·提亚 | ![](https://huiji-public.huijistatic.com/ff14/uploads/3/3c/古·拉哈·提亚-E1005517.png)<br>英文：G'raha Tia<br>所属作品：`final fantasy xiv` | [灰机wiki](https://ff14.huijiwiki.com/wiki/古·拉哈·提亚)<br>[Fandom](https://finalfantasy.fandom.com/wiki/G%27raha_Tia) |
+| anri teieri | 帝襟杏里 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/teieri.webp?202406)<br>所属作品：`blue lock` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
