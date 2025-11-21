@@ -14406,6 +14406,7 @@ example:
 | tsukumaru | つく丸 |  |  |
 | syoukyakubutu | 焼却物 |  |  |
 | pon | ポン |  |  |
+| ruzi | あ～る氏 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
