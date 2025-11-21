@@ -7469,6 +7469,7 @@ example:
 | ayame yomogawa | 四方川菖蒲 |  |  |
 | yuzu kurosaki | 黑崎游子 |  |  |
 | azusa aizawa | 亚梓莎·埃札瓦 |  |  |
+| gwynn | 沐净 | 所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
