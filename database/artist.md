@@ -14409,6 +14409,7 @@ example:
 | ruzi | あ～る氏 |  |  |
 | semiemon | 蝉えもん |  |  |
 | nogawa seroly | 野川せろり |  |  |
+| yamamoto seishiro | 山本精子漏 |  | [pixiv](https://www.pixiv.net/users/73420048) |
 
 <!--TEMPLATE:
 |  |  |  |  |
