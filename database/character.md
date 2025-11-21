@@ -578,7 +578,7 @@ example:
 | uzuki shimamura | 岛村卯月 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0c/c23uto1iow2wxrqcur6zwqebysekj0k.png/960px-CGSS-Uzuki-3D-7.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | yukari mizumoto | 水本紫 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/77/h1na2jqp63tzfl8ligajnahuv2fyfdu.png/960px-CGSS-Yukari-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | mai fukuyama | 福山舞 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/15/od7ukluj250yy7ujwlkwmj6l8wsh3qs.png/960px-CGSS-Mai-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| kanako mimura | 三村加奈子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/8e/980c85u2d2ols2gzcd2rrcxg2dkcga5.png/960px-CGSS-Kanako-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
+| kanako mimura | 三村加奈子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/8e/980c85u2d2ols2gzcd2rrcxg2dkcga5.png/960px-CGSS-Kanako-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | miho kohinata | 小日向美穗 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7b/ontoej7p2rj85rc1k1bfgv87t7l1w4g.png/960px-CGSS-Miho-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | chieri ogata | 绪方智绘里 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/52/iseuev9o3dxzwircba66kpx2unx8281.png/960px-CGSS-Chieri-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kyoko igarashi | 五十岚响子 |  |  |
