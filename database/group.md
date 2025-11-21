@@ -13442,6 +13442,7 @@ example:
 | pinochika | ピノチカ |  |  |
 | pakomucchi | ぱこむっち |  |  |
 | petapetapeta | ぺたぺたぺた |  |  |
+| r koubou | あ～る工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
