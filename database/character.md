@@ -640,7 +640,7 @@ example:
 |  | 相川千夏 |  |  |
 | mizuki kawashima | 川岛瑞树 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/77/to9yddsquzog588kyndajjm92rab9nr.png/960px-CGSS-Mizuki-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nao kamiya | 神谷奈绪 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ad/b07hcdz1to2c6y2cnullb73ajhbi3hr.png/960px-CGSS-Nao-3D-9.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| haruna kamijou | 上条春菜 |  |  |
+| haruna kamijou | 上条春菜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/04/rclsl0zhh5ecy8hgrolqbuwjbkwh2jw.png/960px-CGSS-Haruna-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | hina araki | 荒木比奈 |  |  |
 | ai togo | 东乡爱 |  |  |
 | riina tada | 多田李衣菜 |  |  |
