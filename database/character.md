@@ -7481,6 +7481,7 @@ example:
 | christiane friedrich | 克丽斯汀·弗里德里希 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/59/11734_crt_UXdp3.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | tatsuko itagaki | 板垣辰子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7b/38/11760_crt_0OZz6.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 | kokoro fushikawa | 不死川心 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a8/f6/11751_crt_rNmp6.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
+| sayaka mayuzumi | 黛沙也佳 | ![](https://static.wikia.nocookie.net/majidewatashinikoishinasai/images/6/60/Sayaka.png)<br>所属作品：`maji de watashi ni koi shinasai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
