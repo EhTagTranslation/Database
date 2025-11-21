@@ -3624,7 +3624,7 @@ example:
 | mimi akane | 茜美美 | ![茜美美](https://img.moegirl.org.cn/common/f/f4/Akane_mimi_pc.png)<br>茜 ミミ（あかね ミミ），是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美美（日语：ミミ） | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
 | ashley graham | 阿什莉·格拉汉姆 | 阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 |  |
 | mutsuki asagi | 浅黄睦月 | 所属作品：`p:blue archive`<br>格黑娜学园所属，便利屋68的行动派。与容易不由自主地受罪恶感所困扰的阿露不同，她在干坏事之前毫不犹豫，是一位像以麻烦事为乐的小恶魔一样的少女。因为和阿露之间是发小关系，所以她比谁都更加了解阿露的虚张声势，但她也不会特意去替阿露的这点打掩护。<br>![](https://patchwiki.biligame.com/images/ba/d/d4/iiq0s90kmugn93i07c9tu8sjkv0a1mq.png)<br>![](https://patchwiki.biligame.com/images/ba/d/d2/5tcfjgri2x0f35dq7gqpyqss8to2j5u.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_532/h_1080/829/399789/2024/4/15/400734.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mutsuki) |
-| ryo matsunaga | 松永凉 |  | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
+| ryo matsunaga | 松永凉 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/e2/bmlr0klt9wlc2gm2t4igsj0p3ltoqqy.png/960px-CGSS-Ryo-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
 | xiangling | 香菱 | ![](https://patchwiki.biligame.com/images/ys/e/ed/5hetswktb0nsckmy3qagdh7pbhak1ha.gif)<br>所属作品:`p:genshin impact`<br>来自璃月，名声在外的少女厨师，对料理之道极具热情，拿手麻辣菜肴堪称一绝。 | [萌娘百科](https://zh.moegirl.org.cn/香菱) |
 | tomimi | 特米米 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:特米米) |
 | eunectes | 森蚺 | ![](https://img.moegirl.org.cn/common/6/6d/明日方舟立绘_森蚺_1.png)<br>所属作品`p:arknights`，本名祖玛玛。 | [萌娘百科](https://zh.moegirl.org.cn/森蚺) |
