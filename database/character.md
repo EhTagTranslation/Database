@@ -692,7 +692,7 @@ example:
 | fumika sagisawa | 鹭泽文香 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c2/1dcvutjzb78xyiy42g7012h6rlfdbfb.png/960px-CGSS-Fumika-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 | [萌娘百科](https://zh.moegirl.org.cn/鹭泽文香) |
 |  | 八神牧野 |  |  |
 | layla | 莱拉 \| 莱依拉 | ①莱依拉（英语：layla）所属作品:`p:genshin impact`<br>专攻理论星相学的梨多梵谛学院学生。时常梦游，长期缺觉，饱受睡眠问题困扰。<br>![](https://patchwiki.biligame.com/images/ys/b/b0/bzkxiy65hcfk8lk4lwuy2s3hvb2d0as.gif)<br><br>②莱拉（日语：ライラ；英语：layla）所属作品:`p:the idolmaster`<br>《偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/16/［ラビアシュリータ］ライラ.jpg) | 1.[萌娘百科](https://zh.moegirl.org.cn/莱依拉)<br>2.[萌娘百科](https://zh.moegirl.org.cn/莱拉%28灰姑娘女孩%29#) |
-| asuka ninomiya | 二宫飞鸟 |  |  |
+| asuka ninomiya | 二宫飞鸟 | ![](https://patchwiki.biligame.com/images/imascg/thumb/2/22/iamvlfzxconbtk9ekzrxyll4hppeyeg.png/960px-CGSS-Asuka-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nanami asari | 浅利七海 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/da/68yeqx6ggucronyrgftk3nttivov0jt.png/960px-CGSS-Nanami-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 桐生司 |  |  |
 | mio honda | 本田未央 |  |  |
