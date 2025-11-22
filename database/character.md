@@ -6467,7 +6467,7 @@ example:
 | isabella garcia-shapiro | 伊莎贝拉·格拉希夏普罗 | 所属作品: `p:phineas and ferb` | [Fandom](https://phineasandferb.fandom.com/zh/wiki/伊莎貝拉·格拉希夏普羅) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
 | rei nomasa | 野正丽 | 所属作品：`p:blue archive`<br>千年科学学园所属，千年棒球部的第四棒打者。<br>内心怀有「改革名为棒球部，实则更接近研究动力学和物理学的千年棒球部」的远大抱负。和体力充沛的堇虽然在某些方面莫名合得来，可惜一到实战就经常出现分歧。<br>![](https://img.moegirl.org.cn/common/f/f4/BA_Rei.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nomasa_Rei) [萌娘百科](https://zh.moegirl.org.cn/野正丽) |
 | ju fufu | 橘福福 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/06/20/158441880/674c69b2ec585a1f7f91006a6dbefab3_2060071298931628803.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [<br>绳网情报站](https://baike.mihoyo.com/zzz/wiki/content/1301/detail?mhy_presentation_style=fullscreen) |
-| natsuki minamiya | 南宫那月 |  |  |
+| natsuki minamiya | 南宫那月 | ![](https://lain.bgm.tv/r/400/pic/crt/l/79/f1/21631_crt_Ysssu.jpg)<br>所属作品：`strike the blood`<br>彩海学园高等部的英语教师，古城的班主任，性格唯我独尊，本人自称26岁。 |  |
 | chifusa manyuu | 魔乳千房 | 魔乳千房是日本漫画《魔乳秘剑帖》及其衍生作品中登场的核心角色，作为魔乳本家头领的末子被选为魔乳流继承者，拥有通过“乳斩”吸收他人乳房能量强化自身的特殊能力。 | [百度百科](https://baike.baidu.com/item/魔乳千房/7298335?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=d0746a7dee69e6e3262632c5&lemmaIdFrom=60850) |
 | fenris | 芬里斯 | 所属作品: `p:dragon age` | [Fandom](https://dragonage.fandom.com/wiki/Fenris) |
 | hina chono | 蝶野雏 | 青之箱女主之一，荣明学园高中1年级生，韵律体操部社员。<br>与大喜、笠原国中三年都同班故彼此熟识，喜欢捉弄大喜、以此取乐。<br>父亲是前日本体操选手代表，本身也是体操界的明星选手。 |  |
