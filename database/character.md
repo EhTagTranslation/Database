@@ -7520,6 +7520,7 @@ example:
 | plum blossom thirteen | 梅花十三 | ![](https://lain.bgm.tv/r/400/pic/crt/l/80/9c/72746_crt_I2T0z.jpg?r=1572467377)<br>所属作品：`cike wu liuqi` |  |
 | kiriha kisaki | 仙都木优麻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/1c/22751_crt_D4HKl.jpg)<br>所属作品：`strike the blood` |  |
 | yuuma tokoyogi | 仙都木优麻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/1c/22751_crt_D4HKl.jpg)<br>所属作品：`strike the blood` |  |
+| kikyo | 桔梗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
