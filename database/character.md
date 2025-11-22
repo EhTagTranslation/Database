@@ -7544,6 +7544,7 @@ example:
 | karla | 卡尔拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/52/Karla.png/revision/latest?cb=20160713220942)<br>日文：カアラ<br>所属作品：`fire emblem the blazing blade` | [百度百科](https://baike.baidu.com/item/卡尔拉/1282201)<br>[Fandom](https://fireemblem.fandom.com/wiki/Karla_%28The_Blazing_Blade%29) |
 | ninian | 尼尼安 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/31/Ninian.png/revision/latest?cb=20170314055152)<br>日文：ニニアン<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/尼尼安) |
 | nino | 妮诺 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6b/Nino.png/revision/latest?cb=20151016154954)<br>日文：ニノ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Nino) |
+| schneizel el britannia | 修奈泽尔·EL·布里塔尼亚 | ![](https://static.zerochan.net/Schneizel.el.Britannia.full.4390680.png)<br>所属作品：`code geass`<br>布里塔尼亚帝国第二皇子，拥有发出准一级命令的权限。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
