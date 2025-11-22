@@ -7567,6 +7567,7 @@ example:
 | gwenpool | 格温侍 | ![](https://i2.hdslb.com/bfs/new_dyn/d764167b22f720daea4fec1cca9c0f0e14040701.jpg)<br>格温侍（Gwenpool），本名格温·普尔，是美国漫威漫画旗下虚拟角色，首次登场于《Howard the Duck Vol 6 #1》。 |  |
 | florina | 芙罗利娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/ae/Florina.png/revision/latest?cb=20160627101525)<br>日文：フロリーナ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Florina) |
 | saya takagi | 高城沙耶 | ![](https://ehgt.org/w/02/085/93858-ciqb4k3t.webp)<br>所属作品：`highschool of the dead` |  |
+| sona sitri | 支取苍那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/31/80/15028_crt_fESeh.jpg)<br>所属作品：`highschool dxd`<br>私立驹王学园三年级学生会会长，真名为苍那·西迪，出身纯血上级恶魔家族西迪家并担任下任当家。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
