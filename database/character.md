@@ -7535,6 +7535,7 @@ example:
 | avrora florestina | 奥萝拉·弗洛雷斯缇纳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/98/56529_crt_mXj6p.jpg?r=1501558932)<br>所属作品：`strike the blood`<br>其身份为焰光的夜伯计划的第十二号试验体，被称为先代第四真祖，亦是晓古城的初恋及真爱，拥有虹色头发与焰光之瞳，通过血之咒缚将力量传承给晓古城后死亡。 |  |
 | rin tsukishima | 筑岛伦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/61/b8/62383_crt_k6K9i.jpg)<br>所属作品：`strike the blood`<br>古城的同学，浅葱的好朋友。 |  |
 | koyomi shizuka | 绯稻古咏 | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/41/22096_crt_0S4pp.jpg?r=1501560527)<br>所属作品：`strike the blood`<br>狮子王机关的长老“三圣”之长，外形是一位戴眼镜的高三女生。 |  |
+| eirika | 艾瑞珂 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/bf/Fess-eirika.png/revision/latest?cb=20200217121011)<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Eirika) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
