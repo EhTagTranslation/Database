@@ -7554,6 +7554,7 @@ example:
 | natsuki kuga | 玖我夏树 | 所属作品：`mai-hime` |  |
 | thea | 缇娅 \| 蒂特 | ①缇娅<br>![](https://img.moegirl.org.cn/common/4/4b/Spy_Room_Thea.png)<br>日文：ティア<br>所属作品：`spy kyoushitsu`<br><br>②蒂特<br>![](https://static.wikia.nocookie.net/fireemblem/images/6/68/Thite.png/revision/latest?cb=20160614032748)<br>日文：ティト<br>所属作品：`fire emblem the binding blade` | [缇娅(`spy kyoushitsu`)](https://zh.moegirl.org.cn/缇娅%28间谍教室%29)<br>[蒂特(`fire emblem the binding blade`)](https://fireemblem.fandom.com/wiki/Thea) |
 | gilbert g.p. guilford | 基尔伯特·G·P·基尔福特 | 所属作品：`code geass`<br>柯内莉亚的亲卫队长，也是Knightmare 的驾驶员。 |  |
+| shanna | 夏妮 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4d/Shanna_%28Binding_Blade_Artwork%29.png/revision/latest?cb=20160709064745)<br>日文：シャニー<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Shanna) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
