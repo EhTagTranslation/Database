@@ -4991,7 +4991,7 @@ example:
 | tatsuhisa kamijo | 上城龙久 | 游戏王系列的第7部作品《游戏王SEVENS》的男配角，男二号。在外传漫画《卢克！爆裂霸道传！！》作为主角登场。游我团队中的主力成员，团队当中决斗经验最丰富的人，亦是「超速决斗」的坚定支持者。以“成为「决斗王」”的目标毫不迷惘地不断前进，不过在日常行为的常识方面远远不及决斗的实力。在游戏王动画中无敌没败绩，常胜不败。此外，还是系列仅有的作为男二号，却和系列女主角成了一对的强大男人。 |  |
 | yuga ohdo | 王道游我 | 游戏王系列的第7部作品《游戏王SEVENS》及其衍生作品中的男主角。<br>《游戏王》系列动画里年龄最小的“决斗王”。<br>游戏王系列里唯一被男配角抢走女主角的男一号。<br>在戈哈第7小学上学，非常喜欢决斗和发明的5年级学生。「超速决斗（RUSH DUEL）」规则创造者。性格非常开朗，做事特立独行。非常喜欢发明创造，年纪很少却懂得不少的机械知识，把自己发明的东西命名为「王道」。 |  |
 | rossweisse | 罗丝薇瑟 | 所属作品：`highschool dxd`<br>![](https://haremking.tv/character/images/10s.png) |  |
-| villetta nu | 维蕾塔·努 | ![](https://ehgt.org/w/01/907/05547-de4fwnge.webp)<br>所属作品：`code geass`<br>杰雷米亚的部下，纯血派，驾驶Knightmare的女驾驶员。 |  |
+| villetta nu | 维蕾塔·努 | ![](https://patchwiki.biligame.com/images/loststories/2/20/sfrqri67gbwi15xbba360bu6wfnqd8y.png)<br>![](https://patchwiki.biligame.com/images/loststories/b/b0/hgua7whr48izmnoy83oox4bify1gl03.png)<br>![](https://patchwiki.biligame.com/images/loststories/7/79/7d57fp6pqzbj3dd2ff0x4beals1843c.png)<br>所属作品：`code geass`<br>杰雷米亚的部下，纯血派，驾驶Knightmare的女驾驶员。 |  |
 | kaname ohgi | 扇要 | 《叛逆的鲁鲁修》及其衍生作品中的男性角色。<br>华莲所属的反抗势力的队长。与华莲的哥哥，也是前队长的红月直人（红月ナオト） 是好朋友，之后接替红月直人带领着反抗组织。对周遭的人很和善，但却缺乏领导反抗军的统帅与计划能力，其本人也有自觉。因此当ZERO在危机中出现并解救他们时，放下了疑惑支持ZERO。但对ZERO的信任程度似乎还比不上对京都六家的信任。因为救了维蕾塔回家而在某留言版被公认为杂碎，作为第一个信任ZERO的人，同时也是第一个背叛ZERO的人。在结局部分扇要成为新生日本首相。 |  |
 | ruri | 黑咲琉璃 | 游戏王系列的第5部作品《游戏王ARC-V》的女角色。<br>黑咲隼的妹妹，游斗的朋友。生活于超量次元的城市心园，就读于心园开设的黑桃决斗学校。<br>样貌与柊柚子、塞瑞娜、凛三人相似，手上也有戴着类似的手镯。 |  |
 | cornelia li britannia | 柯内莉亚·li·布里塔尼亚 | 《反叛的鲁路修 CODE GEASS》及其衍生作品的女性角色。<br>原神圣布里塔尼亚帝国第二皇女，高级军官，11区前总督。现任黑色骑士团军官，率小队镇守超合众国—吉尔克斯坦王国边境。<br>![](https://2.bp.blogspot.com/-pJM7ayLwTVI/TbFRRUbEmXI/AAAAAAAAABI/8I8DKJWNJBo/s320/39.gif) |  |
