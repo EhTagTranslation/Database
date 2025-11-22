@@ -13448,6 +13448,7 @@ example:
 | baketsu purin | バケツプリン |  |  |
 | genkai hatsudensho | 限界発電所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01050695.html)<br>[https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226635/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226635/) |
 | mattan hieshou | 末端冷え性 |  |  |
+| cafe momozuki | 喫茶モモヅキ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
