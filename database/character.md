@@ -6429,7 +6429,7 @@ example:
 | yuriko kitahara | 北原百合子 |  |  |
 | kaname chidori | 千鸟要 |  |  |
 | kasumi tendo | 天道霞 |  |  |
-| asagi aiba | 蓝羽浅葱 |  |  |
+| asagi aiba | 蓝羽浅葱 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a2/bd/21628_crt_7OH7S.jpg)<br>所属作品：`strike the blood` |  |
 | nagisa akatsuki | 晓凪沙 |  |  |
 | elmerulia frixell | 艾尔梅露莉亚·菲立克塞尔 | 所属作品: `p:atelier lulua` | [萌娘百科](https://zh.moegirl.org.cn/艾尔梅露莉亚·菲立克塞尔) [Fandom](https://atelier.fandom.com/wiki/Elmerulia_Frixell) |
 | maki gamou | 蒲生真紀 | [https://anibase.net/files/057841f29a4a357c486253240aa9cb9c](https://anibase.net/files/057841f29a4a357c486253240aa9cb9c)<br>源自作品: `p:ijiranaide nagatoro-san` | [https://anibase.net/zh-hans/character/128X2/蒲生真纪](https://anibase.net/zh-hans/character/128X2/蒲生真纪) |
