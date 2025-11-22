@@ -7527,6 +7527,7 @@ example:
 | glenda | 葛莲妲 | 所属作品：`strike the blood`<br>作为圣歼派的核心力量被长期封印于神绳湖底，通过与神话生物"蜂蛇"共生维持沉睡状态。 |  |
 | shio hikawa | 斐川志绪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f2/eb/56528_crt_Ih5Ww.jpg)<br>所属作品：`strike the blood`<br>狮子王机关的舞威媛，比雪菜大一岁，和羽波唯里组队。武器为“六式降魔弓·改”。 |  |
 | kasugaya shizuri castiella | 香菅谷雫梨·卡思缇艾拉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fa/d0/98590_crt_PcPIJ.jpg)<br>所属作品：`strike the blood`<br>作为鬼族后裔与“圣团”修女骑士见习生，她因六年前伊鲁瓦斯魔族特区崩坏事件幸存，成为维系虚拟空间恩莱岛的创造主，同时是主角晓古城的十二位血之伴侣之一。 |  |
+| kanon kanase | 叶濑夏音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c4/53/24058_crt_4ycS3.jpg)<br>所属作品：`strike the blood`<br>模造天使，中学生，凪沙的朋友。被昵称“中学部的圣女”实际上则是‘面具寄生者’模造天使【编号XDA-7】。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
