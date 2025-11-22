@@ -2585,7 +2585,7 @@ example:
 | leia rolando | 蕾娅·罗兰德 |  |  |
 | nami | 娜美 |  |  |
 | tashigi | 达斯琪 |  |  |
-| wang liu mei | 王留美 |  |  |
+| wang liu mei | 王留美 | ![](https://ehgt.org/w/02/052/37339-4b8hux2v.webp)<br>所属作品：`gundam 00`<br>作为社交名流活跃于金融界，其真实身份是国际秘密组织代理人，通过情报支持天人组织的活动。 |  |
 | sage | 贤者 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
 | merchant | 商人 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
 | hero | 勇者 | 《勇者斗恶龙》游戏系列主角<br>![图](https://ehgt.org/92/62/926290a1ee2bb72f2aaa7cbfd8ffa68870e1e1f3-274238-819-999-jpg_l.jpg) |  |
