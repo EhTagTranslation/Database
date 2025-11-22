@@ -2769,7 +2769,7 @@ example:
 | lusamine | 露莎米奈 |  |  |
 | angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) |  |
 | lelouch vi britannia | 鲁路修·vi·布里塔尼亚 | ![](https://ehgt.org/e8/26/e8260506fe852e96d2db9e801280135cddaab3d3-6719478-4949-6889-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鲁路修·vi·布里塔尼亚) |
-| c.c. | C.C. | ![](https://ehgt.org/w/02/079/70785-a2w5orgf.webp)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/C.C.) |
+| c.c. | C.C. | ![](https://pic.cangku.moe/images/2025/11/22/42nip.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42UIq.png)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/C.C.) |
 | charlotte dunois | 夏洛特·德诺阿 | ![](https://ehgt.org/w/01/971/09169-97037shq.webp)<br>所属作品：`infinite stratos` |  |
 | nena trinity | 妮娜·崔尼帝 | ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1529241096086&di=9e77039299a74af39c4f48676ed099ec&imgtype=0&src=http%3A%2F%2Fp2.qhimg.com%2Ft01e677620642f92015.jpg) |  |
 | louise francoise le blanc de la valliere | 露易丝 | 《零之使魔》露易丝·法兰西斯·露·布朗·杜·拉·瓦利埃尔，钉宫四萌之一<br>![图](https://ehgt.org/bb/c9/bbc968c105f220f91842fa0b4a9a8e487e7952e2-524834-1050-1500-jpg_l.jpg)![图](https://ehgt.org/77/df/77df421da14d4c96713f591dcad768e4acf4bda8-234056-850-1175-jpg_l.jpg)![图](# "https://ehgt.org/1a/0f/1a0f01daacab414f1dc6685f4cf005774777ad50-747905-1237-1741-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/露易丝%28零之使魔%29) |
