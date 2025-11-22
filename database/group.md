@@ -13450,6 +13450,7 @@ example:
 | mattan hieshou | 末端冷え性 |  |  |
 | cafe momozuki | 喫茶モモヅキ |  |  |
 | kodomo to kodomo | こどもとこども |  |  |
+| majutsu kessha kuroki tsubasa | 魔術結社・黒き翼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
