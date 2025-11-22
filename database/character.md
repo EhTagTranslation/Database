@@ -3366,7 +3366,7 @@ example:
 | hu tao | 胡桃 | ![](https://patchwiki.biligame.com/images/ys/8/8d/obx7i4qae8b52ano0vplwyukakwdw23.gif)<br>所属作品:`p:genshin impact`<br>「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。 | [萌娘百科](https://zh.moegirl.org.cn/胡桃%28原神%29) |
 | kallen stadtfeld | 卡莲·休坦菲尔特 | ![](https://pic.cangku.moe/images/2025/11/22/422Qo.png)<br>![](https://pic.cangku.moe/images/2025/11/22/1lkOk.png)<br>所属作品：`code geass`<br>别名红月卡莲。 | [萌娘百科](https://zh.moegirl.org.cn/红月卡莲) |
 | suzaku kururugi | 枢木朱雀 | ![](https://pic.cangku.moe/images/2025/11/22/42Ee9.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42tSS.png)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/枢木朱雀) |
-| nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 |  | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
+| nunnally vi britannia | 娜娜莉·vi·布里塔尼亚 | ![](https://patchwiki.biligame.com/images/loststories/5/57/59nl5srrpkxgwpck43q701f76vcx81d.png)<br>![](https://patchwiki.biligame.com/images/loststories/b/bf/hslcfmrmigi0yxgph2w9l87l2ynrpd1.png)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/娜娜莉·vi·布里塔尼亚) |
 | kou | 蔻 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1f/Zoom_3040242000_81.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
 | yu takasaki | 高咲侑 |  | [萌娘百科](https://zh.moegirl.org.cn/高咲侑) |
 | shioriko mifune | 三船栞子 |  | [萌娘百科](https://zh.moegirl.org.cn/三船栞子) |
