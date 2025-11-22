@@ -5806,7 +5806,7 @@ example:
 | sumire otohana | 乙花堇 | 千年科学学校所属，锻炼部的部长。![](https://patchwiki.biligame.com/images/ba/9/9d/db4dyt0yrqig7l0gw05pihz7qszqzrv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Sumire) |
 | marina | 饭田 |  |  |
 | cecile croomy | 塞希尔·柯尔米 | ![](https://ehgt.org/w/01/893/77455-30mbiqpv.webp)<br>所属作品：`code geass`<br>日语名：セシル・クルーミー<br>兰斯洛特开发群成员，中尉军衔，兼具同情心与坚韧。 |  |
-| jeremiah gottwald | 杰雷米亚·哥特瓦尔德 | 杰雷米亚·哥特瓦尔德Jeremiah Gottwald，原本是克洛维斯的部下。年齢是28歳。名门出身，原是不列颠纯血主义者纯血派头头的男军官。有著边境伯的爵位，对11区（日本人）们非常蔑视。<br>对于鲁路修的母亲玛丽安娜皇妃极为忠诚，知晓鲁路修的真实身份后，即使是因其身败名裂，也毫不犹豫的向鲁路修效忠 |  |
+| jeremiah gottwald | 杰雷米亚·哥特瓦尔德 | 所属作品：`code geass`<br>杰雷米亚·哥特瓦尔德 Jeremiah Gottwald。<br>名门出身，原是不列颠纯血主义者纯血派头头的男军官。 |  |
 | nina einstein | 妮娜·爱因斯坦 | ![](https://patchwiki.biligame.com/images/loststories/4/4f/gxmm4sx62w0ioe38fy3w1zuusm9hd8i.png)<br>![](https://patchwiki.biligame.com/images/loststories/a/ad/n006p1d079lnuy1ln7qnb16x1mpeq7g.png)<br>所属作品：`code geass`<br>布里塔尼亚人，精通物理学，原是阿什弗德学园高中部二年级学生、学生会所属人员。 |  |
 | mao | 毛 | 所属作品：`code geass`<br>六岁的时候被C.C.赐予了Geass能力，能够看穿人的思想，但同时也给他带来了巨大的痛苦。 |  |
 | rakshata chawla | 拉克夏塔·恰拉 | 拉克夏塔·恰拉，动画《Code Geass反叛的鲁路修》及其衍生作品中登场的女性角色。出身于印度军区的技术人员（印度为中华联邦领土），曾和赛西尔及罗伊德共事。受到京都六家委托具体设计开发红莲二式及月下等型号日本制Knightmare的人，并作出了红莲贰式的辐射波动这个主要武器。在布里塔尼亚帝国也因研究辐射波动而闻名。另外也开发驾驶员的服装。超合众国成立后担任科学长官。 |  |
