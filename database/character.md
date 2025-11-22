@@ -7516,7 +7516,7 @@ example:
 | sumireko sanshokuin | 三色院堇子 | ![](https://img.moegirl.org.cn/common/0/05/Ph_chara.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 | amatsuyu kisaragi | 如月雨露 | ![](https://img.moegirl.org.cn/common/7/72/Ph_chara_%283%29.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 | hina hanetachi | 羽立桧菜 | ![](https://img.moegirl.org.cn/common/4/40/Ph_chara_.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
-| wu liuqi | 伍六七 | ![](https://img.moegirl.org.cn/common/8/80/”柒“.png)<br>所属作品：`cike wu liuqi` |  |
+| wu liuqi | 伍六七 | ![](https://lain.bgm.tv/r/400/pic/crt/l/26/51/72744_crt_Ir89o.jpg?r=1572465502)<br>所属作品：`cike wu liuqi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
