@@ -7570,6 +7570,7 @@ example:
 | sona sitri | 支取苍那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/31/80/15028_crt_fESeh.jpg)<br>所属作品：`highschool dxd`<br>私立驹王学园三年级学生会会长，真名为苍那·西迪，出身纯血上级恶魔家族西迪家并担任下任当家。 |  |
 | lefiya viridis | 蕾菲亚·维里迪斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/77/e9/41948_crt_UGpzu.jpg?r=1493479169)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | momo hanaki | 花戒桃 | ![](https://static.wikia.nocookie.net/highschooldxd/images/f/fa/MomoHERO.png)<br>所属作品：`highschool dxd`<br>西迪眷属的核心成员，担任驹王学园学生会「主教」职位，阶级为僧侣。 |  |
+| clarine | 克莱丽奈 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c2/Clarine.png/revision/latest?cb=20160613164050)<br>日文：クラリーネ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Clarine) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
