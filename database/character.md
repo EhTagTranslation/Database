@@ -7542,6 +7542,7 @@ example:
 | brunnya | 碧尔妮娅 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/1f/Brunnya.png/revision/latest?cb=20170419050337)<br>日文：ブルーニャ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Brunnya) |
 | lute | 鲁特 \| 卢特 | ①<br>![](https://static.wikia.nocookie.net/hazbinhotel/images/4/48/Lute_Golden_Arm.png/revision/latest?cb=20251121185330)<br>所属作品：`hazbin hotel`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/5/57/Lute.png/revision/latest?cb=20101101183650)<br>日文名：ルーテ<br>所属作品：`fire emblem the sacred stones` | ①[鲁特](https://hazbinhotel.fandom.com/wiki/Lute) ②[卢特](https://fireemblem.fandom.com/wiki/Lute) |
 | karla | 卡尔拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/52/Karla.png/revision/latest?cb=20160713220942)<br>日文：カアラ<br>所属作品：`fire emblem the blazing blade` | [百度百科](https://baike.baidu.com/item/卡尔拉/1282201)<br>[Fandom](https://fireemblem.fandom.com/wiki/Karla_%28The_Blazing_Blade%29) |
+| ninian | 尼尼安 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/31/Ninian.png/revision/latest?cb=20170314055152)<br>日文：ニニアン<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/尼尼安) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
