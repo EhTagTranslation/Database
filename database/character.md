@@ -7512,7 +7512,7 @@ example:
 | citrinne | 希特丽妮卡 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/5b/Citrinne_Heroes.png/revision/latest?cb=20230718044745)<br>日语：シトリニカ<br>所属作品：`fire emblem engage` | [Fandom](https://fireemblem.fandom.com/wiki/Citrinne) |
 | alcryst | 史塔卢克 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4f/Alcryst_Heroes.png/revision/latest?cb=20230718044309)<br>日文：スタルーク<br>所属作品：`fire emblem engage` | [Fandom](https://fireemblem.fandom.com/wiki/Alcryst) |
 | anna kyouyama | 恐山安娜 | ![](https://patchwiki.biligame.com/images/gwdz/thumb/5/5a/88iy17ty6wgfgoyldukb8jilr4weynx.png/375px-5919.png)<br>所属作品：`shaman king`<br>麻仓叶的未婚妻。 |  |
-| sakura akino | 秋野樱 | 所属作品：`ore o suki nano wa omae dake kayo` |  |
+| sakura akino | 秋野樱 | ![](https://img.moegirl.org.cn/common/c/c4/Ph_contents.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 | sumireko sanshokuin | 三色院堇子 | ![](https://img.moegirl.org.cn/common/0/05/Ph_chara.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 
 <!--TEMPLATE: 
