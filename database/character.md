@@ -7568,6 +7568,7 @@ example:
 | florina | 芙罗利娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/ae/Florina.png/revision/latest?cb=20160627101525)<br>日文：フロリーナ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Florina) |
 | saya takagi | 高城沙耶 | ![](https://ehgt.org/w/02/085/93858-ciqb4k3t.webp)<br>所属作品：`highschool of the dead` |  |
 | sona sitri | 支取苍那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/31/80/15028_crt_fESeh.jpg)<br>所属作品：`highschool dxd`<br>私立驹王学园三年级学生会会长，真名为苍那·西迪，出身纯血上级恶魔家族西迪家并担任下任当家。 |  |
+| lefiya viridis | 蕾菲亚·维里迪斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/77/e9/41948_crt_UGpzu.jpg?r=1493479169)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
