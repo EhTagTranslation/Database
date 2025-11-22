@@ -7536,6 +7536,7 @@ example:
 | rin tsukishima | 筑岛伦 | ![](https://lain.bgm.tv/r/400/pic/crt/l/61/b8/62383_crt_k6K9i.jpg)<br>所属作品：`strike the blood`<br>古城的同学，浅葱的好朋友。 |  |
 | koyomi shizuka | 绯稻古咏 | ![](https://lain.bgm.tv/r/400/pic/crt/l/90/41/22096_crt_0S4pp.jpg?r=1501560527)<br>所属作品：`strike the blood`<br>狮子王机关的长老“三圣”之长，外形是一位戴眼镜的高三女生。 |  |
 | eirika | 艾瑞珂 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/bf/Fess-eirika.png/revision/latest?cb=20200217121011)<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Eirika) |
+| mia | 米娅 \| 瓦育 | ①<br>![](https://static.wikia.nocookie.net/world-flipper/images/9/9d/FullArt2ndMia.png/revision/latest?cb=20210422151308)<br>日文：ミア<br>所属作品：`world flipper`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/c/c4/Mia_FE10_Artwork.png/revision/latest?cb=20210502062715)<br>日文：ワユ<br>所属作品：`fire emblem path of radiance`<br><br>③<br>![](https://static.wikia.nocookie.net/dragonquest/images/4/45/Mia.png/revision/latest?cb=20190811125648)<br>所属作品：`dragon quest xi` | ①[米娅(`world flipper`)](https://wiki.biligame.com/worldflipper/米娅)<br>②[瓦育](https://fireemblem.fandom.com/zh/wiki/瓦育)<br>③[米娅(`dragon quest xi`)](https://dragonquest.fandom.com/wiki/Mia_%28Dragon_Quest_XI%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
