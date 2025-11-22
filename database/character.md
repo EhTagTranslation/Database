@@ -7575,6 +7575,7 @@ example:
 | fir | 菲尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c5/Fir.png/revision/latest?cb=20160614032611)<br>日文：フィル<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Fir) |
 | sanaki kirsch altina | 莎娜琪 | ![](https://static.wikia.nocookie.net/fireemblem/images/7/73/Sanaki_PoR.png/revision/latest?cb=20170507223249)<br>莎娜琪（Sanaki、サナキ)全名Sanaki Kirsch Altina (サナキ・キルシュ・オルティナ)<br>所属作品：`fire emblem path of radiance` | [Fandom](https://fireemblem.fandom.com/zh/wiki/莎娜琪) |
 | sigrun | 希格伦 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/65/Sigrun.png/revision/latest?cb=20161106154901)<br>日文：シグルーン<br>所属作品： `fire emblem path of radiance` | [Fandom](https://fireemblem.fandom.com/wiki/Sigrun) |
+| tanith | 塔妮丝 | ![](https://static.wikia.nocookie.net/fireemblem/images/e/e4/FE9_Tanith.png/revision/latest?cb=20161106155044)<br>日文：タニス<br>所属作品：`fire emblem path of radiance` | [Fandom](https://fireemblem.fandom.com/wiki/Tanith) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
