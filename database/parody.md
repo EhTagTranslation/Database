@@ -478,7 +478,7 @@ example:
 | terminator | 终结者 |  |  |
 | yurikuma arashi | 百合熊风暴 |  |  |
 | adventure time | 探险活宝 |  | [维基百科](https://zh.wikipedia.org/wiki/探險活寶) |
-| strike the blood | 噬血狂袭 |  |  |
+| strike the blood | 噬血狂袭 | ![](https://lain.bgm.tv/r/400/pic/cover/l/c0/f7/67826_oa7Xa.jpg)<br>《噬血狂袭》是日本作家三云岳斗创作、麻喵子（マニャ子）负责插画的轻小说，并有漫画、动画等衍生作品。 |  |
 | valkyrie drive | 女武神驱动 |  |  |
 | saber marionette | 机械女神 |  |  |
 | dance with devils | 与魔共舞 |  |  |
