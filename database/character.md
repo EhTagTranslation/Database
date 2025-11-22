@@ -6024,7 +6024,7 @@ example:
 | b. jenet | B·珍妮特 | `p:fatal fury` | [维基百科（日语）](https://ja.wikipedia.org/wiki/B.ジェニー) |
 | venus | 启明星 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/10/14/03/45/01/123312390_p0_master1200.jpg)<br>所属作品：`zenless zone zero`<br>NPC角色。 |  |
 | nano eiai | 荣逢凪乃 | ![](https://img.moegirl.org.cn/common/e/e6/荣逢凪乃.png)<br>日语：栄逢（えいあい） 凪乃（なの）<br>中村力斗创作、野泽由纪子作画的漫画《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/荣逢凪乃) |
-| sayaka kirasaka | 煌坂纱矢华 | 所属作品: `p:strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/煌坂纱矢华) |
+| sayaka kirasaka | 煌坂纱矢华 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1e/e4/22095_crt_Kata4.jpg)<br>所属作品: `p:strike the blood` | [萌娘百科](https://zh.moegirl.org.cn/煌坂纱矢华) |
 | priestess | 女神官 \| 普瑞赛斯 | ①女神官。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_872/h_1298/50118/497891/2025/4/8/506712.png)<br>所属作品: `p:goblin slayer`<br>15岁时离开地母神的神殿当上冒险者。在白瓷等级时就与哥布林杀手组成搭档的人类女主角。<br>————————<br>②普瑞赛斯<br>![](https://img.moegirl.org.cn/common/1/12/Ak_avg_npc_083.png)<br>所属作品: `p:arknights`<br>自称“语言学家”，是源石的创造者之一，曾经与博士亲密无间。 | [萌娘百科 普瑞赛斯](https://zh.moegirl.org.cn/普瑞赛斯)<br>[萌娘百科 女神官](https://zh.moegirl.org.cn/女神官) |
 | homura kougetsu | 焰·皋月 | 所属作品: `p:edens zero` | [维基百科](https://zh.wikipedia.org/wiki/EDENS_ZERO角色列表) |
 | miku | 未来 | Miku (ミク, Miku )是`p:darling in the franxx`中的主角之一。她曾是第十三种植园的寄生虫，代号为“390” ，与`c:zorome`组成男女搭档，驾驶名为青葙号的FRANXX。<br><br>外表漂亮，为自己的身材感到自豪的美少女。开朗而天真烂漫，但却很任性且不服输。 | [Fandom](https://darling-in-the-franxx.fandom.com/wiki/Miku) |
