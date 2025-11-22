@@ -7573,6 +7573,7 @@ example:
 | clarine | 克莱丽奈 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c2/Clarine.png/revision/latest?cb=20160613164050)<br>日文：クラリーネ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Clarine) |
 | roy | 罗伊 | ![](https://static.wikia.nocookie.net/fireemblem/images/d/d4/Roy_%28Binding_Blade_Artwork%29.png/revision/latest?cb=20230904214254)<br>日文：ロイ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Roy) |
 | fir | 菲尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c5/Fir.png/revision/latest?cb=20160614032611)<br>日文：フィル<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Fir) |
+| sanaki kirsch altina | 莎娜琪 | ![](https://static.wikia.nocookie.net/fireemblem/images/7/73/Sanaki_PoR.png/revision/latest?cb=20170507223249)<br>莎娜琪（Sanaki、サナキ)全名Sanaki Kirsch Altina (サナキ・キルシュ・オルティナ)<br>所属作品：`fire emblem path of radiance` | [Fandom](https://fireemblem.fandom.com/zh/wiki/莎娜琪) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
