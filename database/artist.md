@@ -14413,6 +14413,7 @@ example:
 | osuwaani | オスワーニ |  | [X](https://x.com/osuwaani)<br>[pixiv](https://www.pixiv.net/users/33954324) |
 | nakamo | 那鴨 |  | [pixiv](https://www.pixiv.net/users/63852455)<br>[BOOTH](https://nakamo.booth.pm/) |
 | tonkaraton | トンカラトン |  |  |
+| itachimaki | いたちまき |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
