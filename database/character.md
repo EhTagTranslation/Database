@@ -7550,6 +7550,7 @@ example:
 | clovis la britannia | 克洛维斯·La·布里塔尼亚 | ![](https://patchwiki.biligame.com/images/loststories/c/c8/tuiegj4er8mz5kbarvufke6d9vh91ce.png)<br>![](https://patchwiki.biligame.com/images/loststories/6/61/7j45xkathmv91qmab9uppnpm73tj1gl.png)<br>所属作品：`code geass`<br>神圣布里塔尼亚帝国第三皇子。 |  |
 | myrrh | 梅尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0a/Myrrh.png/revision/latest?cb=20230905200729)<br>日文：ミルラ<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Myrrh) |
 | fae | 珐 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c3/Fae.png/revision/latest?cb=20160614032610)<br>日文：ファ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Fae) |
+| mai tokiha | 鸨羽舞衣 | 所属作品：`mai-hime` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
