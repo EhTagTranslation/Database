@@ -7557,6 +7557,7 @@ example:
 | shanna | 夏妮 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4d/Shanna_%28Binding_Blade_Artwork%29.png/revision/latest?cb=20160709064745)<br>日文：シャニー<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Shanna) |
 | naomi inoue | 井上直美 | ![](https://patchwiki.biligame.com/images/loststories/2/27/pxszjj3vte1u6c8aubk6fyrz356ldt6.png)<br>所属作品：`code geass` |  |
 | est | 爱丝特 | ![](https://static.wikia.nocookie.net/fireemblem/images/8/80/Est_Echoes.png/revision/latest?cb=20170405133354)<br>日文：エスト<br>所属作品：`fire emblem mystery of the emblem` | [Fandom](https://fireemblem.fandom.com/wiki/Est) |
+| palla | 帕奥拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/b2/Palla_Echoes.png/revision/latest?cb=20170413051128)<br>日文：パオラ<br>登场于：`fire emblem mystery of the emblem` 和 `fire emblem gaiden` | [Fandom](https://fireemblem.fandom.com/wiki/Palla) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
