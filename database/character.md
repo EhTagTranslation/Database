@@ -7565,6 +7565,7 @@ example:
 | cecil | 塞西尔 | ①<br>![](https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Cecil_%28Hacker%29_%28Earth-616%29_from_Unbelievable_Gwenpool_Vol_1_1_001.jpg/revision/latest?cb=20161212201036)<br>所属作品：`the unbelievable gwenpool`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/4/43/Cecil_%28Artwork%29.png/revision/latest?cb=20150622153635)<br>日文：セシル<br>所属作品：`fire emblem mystery of the emblem` | [塞西尔(`the unbelievable gwenpool`)](https://marvel.fandom.com/wiki/Cecil_%28Hacker%29_%28Earth-616%29)<br>[塞西尔(`fire emblem mystery of the emblem`)](https://fireemblem.fandom.com/wiki/Cecil) |
 | farina | 法瑞娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4f/Farina.png/revision/latest?cb=20151015012735)<br>日文：ファリナ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Farina) |
 | gwenpool | 格温侍 | ![](https://i2.hdslb.com/bfs/new_dyn/d764167b22f720daea4fec1cca9c0f0e14040701.jpg)<br>格温侍（Gwenpool），本名格温·普尔，是美国漫威漫画旗下虚拟角色，首次登场于《Howard the Duck Vol 6 #1》。 |  |
+| florina | 芙罗利娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/ae/Florina.png/revision/latest?cb=20160627101525)<br>日文：フロリーナ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Florina) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
