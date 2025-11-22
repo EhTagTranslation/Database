@@ -7523,6 +7523,7 @@ example:
 | kikyo | 桔梗 |  |  |
 | sango | 珊瑚 |  |  |
 | astarte | 阿斯塔鲁特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/e0/21633_crt_rlh08.jpg)<br>所属作品：`strike the blood`<br>由洛塔林基亚歼教师欧伊斯塔通过将捕获的孵化前的眷兽寄生在体内，成功地产出了寄宿着眷兽的人工生命体。 |  |
+| giada kukulcan | 嘉妲·库寇坎 | 所属作品：`strike the blood`<br>吸血鬼的第三真祖。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
