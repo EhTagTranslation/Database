@@ -7515,6 +7515,7 @@ example:
 | sakura akino | 秋野樱 | ![](https://img.moegirl.org.cn/common/c/c4/Ph_contents.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 | sumireko sanshokuin | 三色院堇子 | ![](https://img.moegirl.org.cn/common/0/05/Ph_chara.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 | amatsuyu kisaragi | 如月雨露 | ![](https://img.moegirl.org.cn/common/7/72/Ph_chara_%283%29.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
+| hina hanetachi | 羽立桧菜 | ![](https://img.moegirl.org.cn/common/4/40/Ph_chara_.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
