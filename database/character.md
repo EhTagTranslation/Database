@@ -7532,7 +7532,7 @@ example:
 | yume eguchi | 江口结瞳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9e/61/44440_crt_6t16O.jpg?r=1501556418)<br>所属作品：`strike the blood`<br>“世界最强梦魔”莉莉丝的继承者。 |  |
 | lydianne didier | 丽迪安·蒂谛叶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7a/27/56530_crt_UIVV6.jpg?r=1501559302)<br>所属作品：`strike the blood`<br>与浅葱同样是被弦神岛管理公社雇用的专业程式员，号称战车手的外国少女，十二岁。 |  |
 | mimori akatsuki | 晓深森 | ![](https://img.moegirl.org.cn/common/d/da/晓深森.jpg)<br>所属作品：`strike the blood`<br>晓古城和晓凪沙的母亲。 |  |
-| avrora florestina | 阿古罗拉·弗洛雷斯蒂娜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/98/56529_crt_mXj6p.jpg?r=1501558932)<br>所属作品：`strike the blood`<br>其身份为焰光的夜伯计划的第十二号试验体，被称为先代第四真祖，亦是晓古城的初恋及真爱，拥有虹色头发与焰光之瞳，通过血之咒缚将力量传承给晓古城后死亡。 |  |
+| avrora florestina | 奥萝拉·弗洛雷斯缇纳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/98/56529_crt_mXj6p.jpg?r=1501558932)<br>所属作品：`strike the blood`<br>其身份为焰光的夜伯计划的第十二号试验体，被称为先代第四真祖，亦是晓古城的初恋及真爱，拥有虹色头发与焰光之瞳，通过血之咒缚将力量传承给晓古城后死亡。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
