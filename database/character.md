@@ -7525,6 +7525,7 @@ example:
 | astarte | 阿斯塔鲁特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/e0/21633_crt_rlh08.jpg)<br>所属作品：`strike the blood`<br>由洛塔林基亚歼教师欧伊斯塔通过将捕获的孵化前的眷兽寄生在体内，成功地产出了寄宿着眷兽的人工生命体。 |  |
 | giada kukulcan | 嘉妲·库寇坎 | 所属作品：`strike the blood`<br>吸血鬼的第三真祖。 |  |
 | glenda | 葛莲妲 | 所属作品：`strike the blood`<br>作为圣歼派的核心力量被长期封印于神绳湖底，通过与神话生物"蜂蛇"共生维持沉睡状态。 |  |
+| shio hikawa | 斐川志绪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f2/eb/56528_crt_Ih5Ww.jpg)<br>所属作品：`strike the blood`<br>狮子王机关的舞威媛，比雪菜大一岁，和羽波唯里组队。武器为“六式降魔弓·改”。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
