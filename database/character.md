@@ -7548,7 +7548,7 @@ example:
 | serra | 塞拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6a/Serra.png/revision/latest?cb=20160627101531)<br>日文：セーラ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Serra) |
 | rivalz cardemonde | 利瓦尔·卡德蒙德 | ![](https://patchwiki.biligame.com/images/loststories/a/ae/fffx0rs1yy02sazokwqff3uqa1bght2.png)<br>所属作品：`code geass`<br>阿什福德学院高中部3年级学生，学生会成员。是男主角的损友。 |  |
 | clovis la britannia | 克洛维斯·La·布里塔尼亚 | ![](https://patchwiki.biligame.com/images/loststories/c/c8/tuiegj4er8mz5kbarvufke6d9vh91ce.png)<br>![](https://patchwiki.biligame.com/images/loststories/6/61/7j45xkathmv91qmab9uppnpm73tj1gl.png)<br>所属作品：`code geass`<br>神圣布里塔尼亚帝国第三皇子。 |  |
-| myrrh | 梅尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0a/Myrrh.png/revision/latest?cb=20230905200729)<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Myrrh) |
+| myrrh | 梅尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0a/Myrrh.png/revision/latest?cb=20230905200729)<br>日文：ミルラ<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Myrrh) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
