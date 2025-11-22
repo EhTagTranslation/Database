@@ -7526,6 +7526,7 @@ example:
 | giada kukulcan | 嘉妲·库寇坎 | 所属作品：`strike the blood`<br>吸血鬼的第三真祖。 |  |
 | glenda | 葛莲妲 | 所属作品：`strike the blood`<br>作为圣歼派的核心力量被长期封印于神绳湖底，通过与神话生物"蜂蛇"共生维持沉睡状态。 |  |
 | shio hikawa | 斐川志绪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f2/eb/56528_crt_Ih5Ww.jpg)<br>所属作品：`strike the blood`<br>狮子王机关的舞威媛，比雪菜大一岁，和羽波唯里组队。武器为“六式降魔弓·改”。 |  |
+| kasugaya shizuri castiella | 香菅谷雫梨·卡思缇艾拉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fa/d0/98590_crt_PcPIJ.jpg)<br>所属作品：`strike the blood`<br>作为鬼族后裔与“圣团”修女骑士见习生，她因六年前伊鲁瓦斯魔族特区崩坏事件幸存，成为维系虚拟空间恩莱岛的创造主，同时是主角晓古城的十二位血之伴侣之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
