@@ -7551,6 +7551,7 @@ example:
 | myrrh | 梅尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/0/0a/Myrrh.png/revision/latest?cb=20230905200729)<br>日文：ミルラ<br>所属作品：`fire emblem the sacred stones` | [Fandom](https://fireemblem.fandom.com/wiki/Myrrh) |
 | fae | 珐 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c3/Fae.png/revision/latest?cb=20160614032610)<br>日文：ファ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Fae) |
 | mai tokiha | 鸨羽舞衣 | 所属作品：`mai-hime` |  |
+| natsuki kuga | 玖我夏树 | 所属作品：`mai-hime` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
