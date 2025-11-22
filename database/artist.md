@@ -14414,6 +14414,7 @@ example:
 | nakamo | 那鴨 |  | [pixiv](https://www.pixiv.net/users/63852455)<br>[BOOTH](https://nakamo.booth.pm/) |
 | tonkaraton | トンカラトン |  |  |
 | itachimaki | いたちまき |  |  |
+| mabo harusame | 麻婆はるさめ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
