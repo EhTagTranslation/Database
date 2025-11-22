@@ -7546,7 +7546,7 @@ example:
 | nino | 妮诺 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6b/Nino.png/revision/latest?cb=20151016154954)<br>日文：ニノ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Nino) |
 | schneizel el britannia | 修奈泽尔·EL·布里塔尼亚 | ![](https://static.zerochan.net/Schneizel.el.Britannia.full.4390680.png)<br>所属作品：`code geass`<br>布里塔尼亚帝国第二皇子，拥有发出准一级命令的权限。 |  |
 | serra | 塞拉 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/6a/Serra.png/revision/latest?cb=20160627101531)<br>日文：セーラ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Serra) |
-| rivalz cardemonde | 利瓦尔·卡德蒙德 | ![](https://patchwiki.biligame.com/images/loststories/a/ae/fffx0rs1yy02sazokwqff3uqa1bght2.png)<br>所属作品：`code geass`<br>阿什福德学院高中部3年级学生，学生会成员。暗恋会长米蕾·阿什弗德，是男主角鲁鲁修的损友。 |  |
+| rivalz cardemonde | 利瓦尔·卡德蒙德 | ![](https://patchwiki.biligame.com/images/loststories/a/ae/fffx0rs1yy02sazokwqff3uqa1bght2.png)<br>所属作品：`code geass`<br>阿什福德学院高中部3年级学生，学生会成员。是男主角的损友。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
