@@ -7531,6 +7531,7 @@ example:
 | kanna | 神无 |  |  |
 | yume eguchi | 江口结瞳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9e/61/44440_crt_6t16O.jpg?r=1501556418)<br>所属作品：`strike the blood`<br>“世界最强梦魔”莉莉丝的继承者。 |  |
 | lydianne didier | 丽迪安·蒂谛叶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7a/27/56530_crt_UIVV6.jpg?r=1501559302)<br>所属作品：`strike the blood`<br>与浅葱同样是被弦神岛管理公社雇用的专业程式员，号称战车手的外国少女，十二岁。 |  |
+| mimori akatsuki | 晓深森 | ![](https://img.moegirl.org.cn/common/d/da/晓深森.jpg)<br>所属作品：`strike the blood`<br>晓古城和晓凪沙的母亲。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
