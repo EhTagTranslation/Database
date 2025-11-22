@@ -7572,6 +7572,7 @@ example:
 | momo hanaki | 花戒桃 | ![](https://static.wikia.nocookie.net/highschooldxd/images/f/fa/MomoHERO.png)<br>所属作品：`highschool dxd`<br>西迪眷属的核心成员，担任驹王学园学生会「主教」职位，阶级为僧侣。 |  |
 | clarine | 克莱丽奈 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c2/Clarine.png/revision/latest?cb=20160613164050)<br>日文：クラリーネ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Clarine) |
 | roy | 罗伊 | ![](https://static.wikia.nocookie.net/fireemblem/images/d/d4/Roy_%28Binding_Blade_Artwork%29.png/revision/latest?cb=20230904214254)<br>日文：ロイ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Roy) |
+| fir | 菲尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/c/c5/Fir.png/revision/latest?cb=20160614032611)<br>日文：フィル<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Fir) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
