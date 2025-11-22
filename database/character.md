@@ -1821,7 +1821,7 @@ example:
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争） |  |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 英灵 |  |  |
 | saber | Saber | 指阿尔托莉雅·潘德拉贡，TYPE-MOON旗下游戏《Fate/stay night》及其衍生作品的登场角色，冬木市第四、第五次圣杯战争时期的Saber。<br>不列颠传说中的亚瑟王，也被誉为骑士王，在骑士道凋零的时代，手持圣剑，为不列颠带来了短暂的和平与最后的繁荣。<br>![风王结界](https://img.moegirl.org.cn/common/8/83/阿尔托莉雅·潘德拉贡灵衣1.png)![阿尔托莉雅·潘德拉贡](https://img.moegirl.org.cn/common/b/b5/阿尔托莉雅·潘德拉贡4.png) | [萌娘百科](https://zh.moegirl.org.cn/阿尔托莉雅·潘德拉贡)<br>[更多Saber](https://zh.moegirl.org.cn/Saber) |
-| archer | Archer | 指第五次圣杯战争中的 Archer，英灵卫宫。其他情况使用真名。<br>![图](https://ehgt.org/3b/8c/3b8c57bb221351300c07d2e3461fdc8f981dfb65-1456628-1024-1448-png_l.jpg)![图](https://ehgt.org/66/72/6672b4fb7d4c677dbb4e726dab891be405bafc9b-1975383-1024-1448-png_l.jpg) |  |
+| archer | Archer | ![](https://pic.cangku.moe/images/2025/11/22/42cav.png)<br>所属作品：`fate stay night`<br>指第五次圣杯战争中的 Archer，英灵卫宫。其他情况使用真名。 |  |
 | lancer | Lancer | 指第五次圣杯战争中的 Lancer，库·丘林。其他情况使用真名。<br>![图](https://ehgt.org/3f/13/3f13a3d0d1f1fdd8d72b28432f077e33d260b3cc-2425361-1024-1448-png_l.jpg)![图](https://ehgt.org/09/90/0990ab50cbab3804c8e965b2b05d08d7832854b9-2233444-1024-1448-png_l.jpg) |  |
 |  | Rider | （重复项）指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。 |  |
 | caster | Caster | 指第五次圣杯战争中的 Caster，美狄亚。其他情况使用真名。<br>![图](https://ehgt.org/1b/51/1b5131351221ffe1925a6a6bc0651a8760c9ff5e-1972064-1024-1448-png_l.jpg)![图](https://ehgt.org/c3/74/c374907ede60ad8a7ebdff268d38701d253bc0c3-2311772-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/美狄亚%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/美狄亚) |
