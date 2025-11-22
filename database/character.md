@@ -7518,7 +7518,7 @@ example:
 | hina hanetachi | 羽立桧菜 | ![](https://img.moegirl.org.cn/common/4/40/Ph_chara_.png)<br>所属作品：`ore o suki nano wa omae dake kayo` |  |
 | wu liuqi | 伍六七 | ![](https://lain.bgm.tv/r/400/pic/crt/l/26/51/72744_crt_Ir89o.jpg?r=1572465502)<br>所属作品：`cike wu liuqi` |  |
 | plum blossom thirteen | 梅花十三 | ![](https://lain.bgm.tv/r/400/pic/crt/l/80/9c/72746_crt_I2T0z.jpg?r=1572467377)<br>所属作品：`cike wu liuqi` |  |
-| kiriha kisaki | 香菅谷雫梨·卡思缇艾拉 | ![](https://lain.bgm.tv/r/400/pic/crt/l/fa/d0/98590_crt_PcPIJ.jpg)<br>所属作品：`strike the blood` |  |
+| kiriha kisaki | 妃崎雾叶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/da/76/44441_crt_Rd5Em.jpg)<br>所属作品：`strike the blood`<br>太史局的攻魔师，人称“六刃”的黑发美少女。 |  |
 | yuuma tokoyogi | 仙都木优麻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/1c/22751_crt_D4HKl.jpg)<br>所属作品：`strike the blood` |  |
 | kikyo | 桔梗 |  |  |
 | sango | 珊瑚 |  |  |
