@@ -2613,6 +2613,7 @@ example:
 | beastars | BEASTARS | ![](https://img.moegirl.org.cn/common/3/3a/Beastars_Vol.22.jpg)<br>《BEASTARS》是板垣巴留于《周刊少年Champion》上连载的一部漫画，并有短篇集、动画等衍生作 | [维基百科](https://zh.wikipedia.org/wiki/BEASTARS) |
 | tear ring saga | 尤特娜英雄战记：泪指轮传说 | ![](https://upload.wikimedia.org/wikipedia/en/f/ff/Tearringsaga_boxart.PNG) | [维基百科](https://zh.wikipedia.org/wiki/泪指轮传说_尤特娜英雄战记) |
 | nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka | 拔作岛 | ![](https://nukiani.com/assets/top/t2/vis-1.webp)<br>《拔作岛》全名《住在拔作岛上的贫\*乳应该如何是好?》是由Qruppo原作，まめおじたん作画的漫画作品。 |  |
+| cike wu liuqi | 刺客伍六七 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2707610653.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
