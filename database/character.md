@@ -7313,7 +7313,7 @@ example:
 | mei aihara | 蓝原芽衣 |  |  |
 | yuzu aihara | 蓝原柚子 |  |  |
 | kana higa | 比嘉夏菜 |  |  |
-| kojou akatsuki | 晓古城 |  |  |
+| kojou akatsuki | 晓古城 | ![](https://lain.bgm.tv/r/400/pic/crt/l/06/7c/21626_crt_7J556.jpg)<br>所属作品：`strike the blood`<br>被称为世界最强吸血鬼“第四真祖”的少年。 |  |
 | yuyu shirai | 白井梦结 |  |  |
 | klaudia valentz | 科洛蒂娅·巴兰茨 |  |  |
 | ruri tanigawa | 谷川琉璃 |  |  |
