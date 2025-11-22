@@ -7530,6 +7530,7 @@ example:
 | kanon kanase | 叶濑夏音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c4/53/24058_crt_4ycS3.jpg)<br>所属作品：`strike the blood`<br>模造天使，中学生，凪沙的朋友。被昵称“中学部的圣女”实际上则是‘面具寄生者’模造天使【编号XDA-7】。 |  |
 | kanna | 神无 |  |  |
 | yume eguchi | 江口结瞳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9e/61/44440_crt_6t16O.jpg?r=1501556418)<br>所属作品：`strike the blood`<br>“世界最强梦魔”莉莉丝的继承者。 |  |
+| lydianne didier | 丽迪安·蒂谛叶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7a/27/56530_crt_UIVV6.jpg?r=1501559302)<br>所属作品：`strike the blood`<br>与浅葱同样是被弦神岛管理公社雇用的专业程式员，号称战车手的外国少女，十二岁。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
