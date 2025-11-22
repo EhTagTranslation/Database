@@ -7563,6 +7563,7 @@ example:
 | odysseus eu britannia | 奥德修斯·eu·布里塔尼亚 | ![](https://patchwiki.biligame.com/images/loststories/9/9b/c6tk6m7sj0ti46it3904m2cncx11m8o.png)<br>所属作品：`code geass`<br>神圣布里塔尼亚帝国普通的第一皇子，普通的皇储。 |  |
 | gino weinberg | 吉诺·温伯格 | ![](https://patchwiki.biligame.com/images/loststories/e/e4/326bunfbcx4jztwy0f719m5qpmicmsg.png)<br>所属作品：`code geass`<br>神圣不列颠帝国名门瓦茵拜鲁古家族第四子，圆桌骑士团第三骑士。 |  |
 | cecil | 塞西尔 | ①<br>![](https://static.wikia.nocookie.net/marveldatabase/images/d/dc/Cecil_%28Hacker%29_%28Earth-616%29_from_Unbelievable_Gwenpool_Vol_1_1_001.jpg/revision/latest?cb=20161212201036)<br>所属作品：`the unbelievable gwenpool`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/4/43/Cecil_%28Artwork%29.png/revision/latest?cb=20150622153635)<br>日文：セシル<br>所属作品：`fire emblem mystery of the emblem` | [塞西尔(`the unbelievable gwenpool`)](https://marvel.fandom.com/wiki/Cecil_%28Hacker%29_%28Earth-616%29)<br>[塞西尔(`fire emblem mystery of the emblem`)](https://fireemblem.fandom.com/wiki/Cecil) |
+| farina | 法瑞娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/4/4f/Farina.png/revision/latest?cb=20151015012735)<br>日文：ファリナ<br>所属作品：`fire emblem the blazing blade` | [Fandom](https://fireemblem.fandom.com/wiki/Farina) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
