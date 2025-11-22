@@ -1829,7 +1829,7 @@ example:
 | assassin | Assassin | 指第四次圣杯战争和第五次圣杯战争中的 Assassin，哈桑·萨巴赫<br>![图](https://ehgt.org/84/64/846494b7b1da7885eb39e6b2dbc2b94bfe9c31d7-2215596-1024-1448-png_l.jpg)<br>或第五次圣杯战争中的 伪Assassin，佐佐木小次郎<br>![图](https://ehgt.org/22/d7/22d77a1558e10b1b2ce105726a77a8cefef0035e-2173241-1024-1448-png_l.jpg) |  |
 |  | TYPE-MOON > Fate > Stay Night（第五次圣杯战争）> 御主 |  |  |
 | shirou emiya | 卫宫士郎 | 第五次圣杯战争中 Saber 的御主，卫宫切嗣的养子。<br>![图](https://ehgt.org/e3/b5/e3b5b444d91bb6a95fb81a12141144c177e5d509-31404-280-479-jpg_l.jpg)![图](https://ehgt.org/29/c1/29c1406636f6788671a856151a8367f47fff0bd0-7169713-4086-5181-jpg_l.jpg) |  |
-| rin tosaka | 远坂凛 | 第五次圣杯战争中 Archer 的御主，间桐樱的亲姐姐。<br>腿玩年<br>![图](https://ehgt.org/ba/21/ba21f4407244c25a6237d3c75610ea4c48a855b8-863075-800-1200-png_l.jpg)![图](https://ehgt.org/9a/ad/9aad3295e7ff8a665ab379bf944707676a017857-1199405-800-1000-png_l.jpg)![图](https://ehgt.org/07/0c/070c2c15983b325485d3958f8223f743c7ce8c6e-12969416-4886-3363-png_l.jpg) |  |
+| rin tosaka | 远坂凛 | ![](https://pic.cangku.moe/images/2025/11/22/42ecB.png)<br>所属作品：`fate stay night`<br>第五次圣杯战争中 Archer 的御主，间桐樱的亲姐姐。 |  |
 | kirei kotomine | 言峰绮礼 | 第四次圣杯战争中 Assassin、Archer 的御主，第五次圣杯战争中 Lancer 的御主，远坂凛和间桐樱的杀父仇人，第五次圣杯战争的幕后黑手。<br>偷税<br>![图](https://ehgt.org/16/92/1692045b9d35553ca38b81f595edef1e8076f307-20413-280-479-jpg_l.jpg) |  |
 | sakura matou | 间桐樱 | ![](https://pic.cangku.moe/images/2025/11/22/42CeI.png)<br>所属作品：`fate stay night`<br>第五次圣杯战争中 Rider 真正的御主，远坂凛的亲妹妹。 |  |
 | shinji matou | 间桐慎二 | 第五次圣杯战争中 Rider 的表面御主，间桐樱的养兄。<br>![图](https://ehgt.org/fa/e4/fae41d54734ed77967c8987e880db06b9681534c-34704-280-479-jpg_l.jpg) |  |
