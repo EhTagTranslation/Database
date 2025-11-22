@@ -6963,7 +6963,7 @@ example:
 | irisdina bernhard | 爱丽丝蒂娜·伯恩哈德 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8d/Irisdina_BDU_1.png)<br>所属作品：`schwarzesmarken` |  |
 | nanaka kotegawa | 古手川奈奈华 | ![](https://ehgt.org/w/01/970/72734-is9gtnv0.webp)<br>所属作品：`grand blue`<br>潜水商店的看板娘，性格温柔且受人喜爱。 |  |
 | mrs. yukinoshita | 雪之下夫人 | ![](https://ehgt.org/w/02/106/90950-nj2uwff3.webp)<br>所属作品：`yahari ore no seishun love come wa machigatteiru`<br>雪之下阳乃和雪乃的母亲，外表和气质上和雪乃很相似，但感性部分上却更像阳乃，拥有压倒性的魄力。 |  |
-| leila malkal | 蕾拉·玛露卡尔 | ![](https://ehgt.org/w/02/106/88414-a7l695vg.webp)<br>所属作品：`code geass`<br>蕾拉·玛露卡尔（レイラ・マルカル）是剧场版动画《Code Geass 亡国的阿基德》的女主角，E.U.军wZERO部队的作战参谋和指挥官。 |  |
+| leila malkal | 蕾拉·玛露卡尔 | ![](https://patchwiki.biligame.com/images/loststories/9/91/n7vnu8c26kz7g29ymr53zi253sr4vbc.png)<br>所属作品：`code geass`<br>蕾拉·玛露卡尔（レイラ・マルカル）是剧场版动画《Code Geass 亡国的阿基德》的女主角，E.U.军wZERO部队的作战参谋和指挥官。 |  |
 | selena | 赛琳娜 | ![](https://patchwiki.biligame.com/images/zspms/f/f2/io3pd0jc37xf8c3dtlg4iqrf2pb2a3t.png)<br>所属游戏：`punishing gray raven` |  |
 | hanying | 含英 | ![](https://patchwiki.biligame.com/images/zspms/thumb/8/86/lzabulr4aa25cwaatd6gzqnlteztdnd.png/375px-角色_含英_檀心_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | liv | 丽芙 | ![](https://patchwiki.biligame.com/images/zspms/thumb/0/09/2eogbbmgjbvd8vi6prks1ojpbjd7gxg.png/375px-角色_丽芙_霁梦_立绘.png)<br>丽芙·霁梦<br>所属游戏：`punishing gray raven` |  |
