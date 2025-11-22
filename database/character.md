@@ -2797,7 +2797,7 @@ example:
 | helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/海莲娜%28死或生%29) |
 | sylvanas windrunner | 希尔瓦娜斯·风行者 | 希尔瓦娜斯·风行者是暴雪旗下游戏《魔兽争霸》、《魔兽世界》以及《魔兽世界》官方小说中的登场角色，同时也在各种相关的衍生作品中亮相。 | [希尔瓦娜斯·风行者](https://zh.moegirl.org.cn/希尔瓦娜斯) |
 | nessa | 露璃娜 |  |  |
-| sonia | 索妮亚 |  |  |
+| sonia | 索妮亚 | ①<br>![](https://img.moegirl.org.cn/common/f/f1/Sonia.png)<br>所属作品：`pokemon`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/f1/Sonia.png/revision/latest?cb=20230104063335)<br>日文：ソーニャ<br>所属作品：`fire emblem the blazing blade` | [索妮亚(`pokemon`)](https://zh.moegirl.org.cn/索妮亚%28宝可梦%29)<br>[索妮亚(`fire emblem the blazing blade`)](https://fireemblem.fandom.com/wiki/Sonia) |
 | mallow | 玛奥 |  |  |
 | melony | 美蓉 |  |  |
 | kama | 迦摩 | 迦摩是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>印度神话中的爱神。本作中以凭依在间桐樱的身上的形态登场。<br><br>“迦摩”在梵语中意为欲望，和希腊罗马神话里的丘比特是类似的存在，手持弓和箭联系姻缘。神话中本是男神。FGO中因为受到凭依在间桐樱身上的帕尔瓦蒂的影响而变成了女性。<br><br>![迦摩](https://img.moegirl.org.cn/common/8/82/迦摩满破.png) | [萌娘百科](https://zh.moegirl.org.cn/迦摩%28Fate%29#迦摩（Assassin）) |
