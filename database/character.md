@@ -2469,7 +2469,7 @@ example:
 | lacus clyne | 拉克丝·克莱茵 | 日本动画《机动战士高达SEED》《机动战士高达SEED DESTINY》以及《机动战士高达SEED FREEDOM》的主要女性角色。PLANT殖民星前任议长希格尔·克莱茵之女，擅长唱歌，有“PLANT第一歌姬”之称。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/b0/3e/2216_crt_aAAdF.jpg)<br>![头像](https://img.moegirl.org.cn/common/thumb/f/f5/Lakeshi.jpg/375px-Lakeshi.jpg) | [百度百科](https://baike.baidu.com/item/拉克丝·克莱茵/9244612) |
 |  | ▼ 无彩限的怪灵世界 |  |  |
 | haruhiko ichijou | 一条晴彦 |  |  |
-| mai kawakami | 川神舞 | ![](https://ehgt.org/w/01/969/25863-0cgf2592.webp)<br>![](https://hjxtvdjqrjgmcqhtklcp.hath.network/om/44611948/806f1684a2386b66f98dbe432a50c0ba1668a18d-1825245-408-230-gif/x/0/1jjlesh0id2mvh1tlhq/phantom_world_photoshop_8.gif)<br>所属作品：`myriad colors phantom world` |  |
+| mai kawakami | 川神舞 | ![](https://ehgt.org/w/01/969/25863-0cgf2592.webp)<br><br>所属作品：`myriad colors phantom world` |  |
 | reina izumi | 和泉玲奈 |  |  |
 | koito minase | 水无濑小糸 |  |  |
 |  | ▼ 哆啦A梦 |  |  |
