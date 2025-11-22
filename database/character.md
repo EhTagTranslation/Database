@@ -7540,6 +7540,7 @@ example:
 | fjorm | 菲约尔姆 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/50/Fjorm_Heroes.png/revision/latest?cb=20181128055539)<br>日文：フィヨルム<br>所属作品：`fire emblem heroes` | [Fandom](https://fireemblem.fandom.com/zh/wiki/菲約爾姆) |
 | lugh | 鲁格 | ①<br>![](https://static.wikia.nocookie.net/fireemblem/images/7/74/Lugh.png/revision/latest?cb=20160613164055)<br>日文：ルゥ<br>所属作品：`fire emblem the binding blade`<br><br>②<br>![](https://static.wikia.nocookie.net/trinity-seven/images/b/bd/Lugh_full_body_character_design_AN.png/revision/latest?cb=20141130043817)<br>日文：ルーグ<br>所属作品：`trinity seven` | ①[鲁格(`fire emblem the binding blade`)](https://fireemblem.fandom.com/wiki/Lugh)<br>②[鲁格(`trinity seven`)](https://zh.moegirl.org.cn/鲁格%28TRINITY_SEVEN%29) |
 | brunnya | 碧尔妮娅 | ![](https://static.wikia.nocookie.net/fireemblem/images/1/1f/Brunnya.png/revision/latest?cb=20170419050337)<br>日文：ブルーニャ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/wiki/Brunnya) |
+| lute | 鲁特 \| 卢特 | ①<br>![](https://static.wikia.nocookie.net/hazbinhotel/images/4/48/Lute_Golden_Arm.png/revision/latest?cb=20251121185330)<br>所属作品：`hazbin hotel`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/5/57/Lute.png/revision/latest?cb=20101101183650)<br>日文名：ルーテ<br>所属作品：`fire emblem the sacred stones` | ①[鲁特](https://hazbinhotel.fandom.com/wiki/Lute) ②[卢特](https://fireemblem.fandom.com/wiki/Lute) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
