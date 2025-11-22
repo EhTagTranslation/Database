@@ -7521,6 +7521,7 @@ example:
 | kiriha kisaki | 仙都木优麻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/1c/22751_crt_D4HKl.jpg)<br>所属作品：`strike the blood` |  |
 | yuuma tokoyogi | 仙都木优麻 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/1c/22751_crt_D4HKl.jpg)<br>所属作品：`strike the blood` |  |
 | kikyo | 桔梗 |  |  |
+| sango | 珊瑚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
