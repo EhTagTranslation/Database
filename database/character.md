@@ -6774,7 +6774,7 @@ example:
 | mimori tougou | 东乡美森 | 东乡美森是Studio五组所创作的动画《结城友奈是勇者》及其衍生作品的登场角色。<br>结城友奈的好♀友，也是能理解她的人。家在友奈隔壁，每天去叫友奈起床。<br>因为事故失去了双腿的行动力，需要坐轮椅上学，受到了友奈的照顾。<br>![](https://p.sda1.dev/27/60b40268f587ab2af0ba86c3787e7f97/image.png) | [萌娘百科](https://zh.moegirl.org.cn/东乡美森) |
 | miyo sakurai | 樱井美代 | 蔚蓝档案中的角色<br>![](https://p.sda1.dev/27/4f066a3a37f3b99ce16677dcdf9552cb/image.png) | [https://www.gamekee.com/ba/tj/674785.html](https://www.gamekee.com/ba/tj/674785.html)<br>[Fandom](https://bluearchive.fandom.com/wiki/Sakurai_Miyo) |
 | kirara onisaki | 鬼崎绮罗罗 | 千年战争aigis中的角色<br>![](https://p.sda1.dev/27/8c974623af5e5ff7e2654476d7d5d163/image.png) | [Fandom](https://aigis.fandom.com/wiki/Onisaki_Kirara) |
-| ayano kosaka | 香坂绫乃 | ![](https://p.sda1.dev/27/0d6824895bb183d193707de908af823c/image.png)<br>所属作品：`code geass` | [Fandom](https://codegeass.fandom.com/wiki/Ayano_Kosaka) |
+| ayano kosaka | 香坂绫乃 | ![](https://patchwiki.biligame.com/images/loststories/0/00/1vj90i9etpzei45ecdno6uerx0vor5w.png)<br>所属作品：`code geass` | [Fandom](https://codegeass.fandom.com/wiki/Ayano_Kosaka) |
 | syndra | 辛德拉 | 英雄联盟角色——暗黑元首辛德拉 |  |
 | hakuryuu | 白龙(鹫) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/55dce64a0582019982937dc0fcecf3cd262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白龙) |
 | irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：英雄联盟 |  |
