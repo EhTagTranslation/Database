@@ -6519,7 +6519,7 @@ example:
 | erika amano | 天野艾丽嘉 |  |  |
 | sachi umino | 海野凪 |  |  |
 | banri shiunji | 紫云寺万里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/be/75/161345_crt_147xO.jpg?r=1741355430)<br>紫云寺家的长女，18 岁的大学一年级学生。<br>她正在一所名牌大学学习护理学。 她在姐妹中特别以美丽著称，温柔温柔的性格深受年长和年轻人的欢迎。 | [Bangumi](https://bgm.tv/character/161345) |
-| la folia rihavein | 拉·芙利亚·利哈瓦因 | ![](https://ehgt.org/w/02/074/49800-l2k7wonr.webp)<br>所属作品：`strike the blood`<br>北欧阿尔迪基亚国王卢卡斯·利哈瓦因的长女，身居公主之位，白银皇女，叶濑夏音的侄女。 | [萌娘百科](https://zh.moegirl.org.cn/拉·法利亚·利哈瓦因) |
+| la folia rihavein | 拉·芙利亚·利哈瓦因 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1b/83/23111_crt_3pPRW.jpg)<br>所属作品：`strike the blood`<br>北欧阿尔迪基亚国王卢卡斯·利哈瓦因的长女，身居公主之位，白银皇女，叶濑夏音的侄女。 | [萌娘百科](https://zh.moegirl.org.cn/拉·法利亚·利哈瓦因) |
 | mydei | 万敌 | 万敌（迈德漠斯）是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/万敌) |
 | chisa | 千咲 | 所属作品：`wuthering waves`<br>![](https://ehgt.org/w/01/929/38119-t2sukqqf.webp) |  |
 | baizhi | 白芷 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/5b/r0wr4fjaqwv1pv5a48nzk9a0hwfueq4.png/524px-Mc_wiki_role_baizhi_x1500.png)<br>兼具条理性和执行力的华胥研究员。<br>看似冷淡疏离，实则不难接近，只是理性思维主导，习惯了严谨而精准地采取行动。<br>求知之路未有止境，在人类彻底解开”回音”的谜题前，白芷绝不会停下研究的步伐，哪怕这将耗费她的一生。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/白芷) |
