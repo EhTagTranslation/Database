@@ -13454,6 +13454,7 @@ example:
 | aburi tarako-tei | おむすびころりん |  |  |
 | nurunuru bouzu | ぬるぬる坊主 |  |  |
 | kani zousui | かに雑炊 |  |  |
+| tareme sijou syugi | 垂れ目至上主義 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
