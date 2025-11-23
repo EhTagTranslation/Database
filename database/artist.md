@@ -14416,6 +14416,7 @@ example:
 | itachimaki | いたちまき |  |  |
 | mabo harusame | 麻婆はるさめ |  |  |
 | ochi | おち |  | [pixiv](https://www.pixiv.net/users/99819818) [X](https://x.com/ochi_oeeeee) |
+| tenki nori | 天気海苔 |  | [pixiv](https://www.pixiv.net/users/59560975) [X](https://x.com/3tenki9) |
 
 <!--TEMPLATE:
 |  |  |  |  |
