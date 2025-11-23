@@ -2099,7 +2099,7 @@ example:
 | asagi igawa | 井河阿莎姬 | ![](https://static.wikia.nocookie.net/taimanin/images/3/3e/Igawa_Asagi_35.png)<br>所属作品：`taimanin asagi` |  |
 | sakura igawa | 井河樱 | ![](https://static.wikia.nocookie.net/taimanin/images/c/c1/Igawa_Sakura_43.png)<br>所属作品：`taimanin asagi` |  |
 | rinko akiyama | 秋山凜子 | ![](https://static.wikia.nocookie.net/taimanin/images/9/99/Akiyama_Rinko.png)<br>所属作品：`taimanin asagi` |  |
-| yukikaze mizuki | 水城雪风 |  |  |
+| yukikaze mizuki | 水城雪风 | ![](https://static.wikia.nocookie.net/taimanin/images/2/27/Mizuki_Yukikaze_43.png)<br>所属作品：`taimanin yukikaze` |  |
 | shiranui mizuki | 水城不知火 | ![](https://static.wikia.nocookie.net/taimanin/images/6/69/Mizuki_Shrianui_Infobox.png)<br>所属作品：`taimanin yukikaze` |  |
 |  | ▼ 跟班×服务 |  |  |
 | lucy ... yamagami | 山神露西【以下略】 |  |  |
