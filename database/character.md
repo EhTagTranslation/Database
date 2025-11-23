@@ -3340,7 +3340,7 @@ example:
 | rixia mao | 莉夏·毛 |  |  |
 | tio plato | 缇欧·普拉托 |  |  |
 | vita clotilde | 薇塔·克洛提德 |  |  |
-| duvalie | 杜巴莉 |  |  |
+| duvalie | 杜巴莉 | 所属作品：`the legend of heroes`<br>![](https://ehgt.org/w/01/825/14181-ixueqc7n.webp) |  |
 | elise schwarzer | 爱丽榭·舒华泽 |  |  |
 | juna crawford | 悠娜·克劳弗德 |  |  |
 | renne bright | 玲·布莱特 | 玲（日语：レン；英语：Renne）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玲%28轨迹系列%29) |
