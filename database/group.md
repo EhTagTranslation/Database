@@ -13452,6 +13452,7 @@ example:
 | kodomo to kodomo | こどもとこども |  |  |
 | majutsu kessha kuroki tsubasa | 魔術結社・黒き翼 |  |  |
 | aburi tarako-tei | おむすびころりん |  |  |
+| nurunuru bouzu | ぬるぬる坊主 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
