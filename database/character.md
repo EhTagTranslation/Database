@@ -2096,7 +2096,7 @@ example:
 | sylphynford tachibana | 橘·希尔芬福特 |  | [萌娘百科](https://zh.moegirl.org.cn/橘·希尔芬福特) |
 | takeshi motoba | 本场猛（崩巴） |  |  |
 |  | ▼ 对魔忍 |  |  |
-| asagi igawa | 井河阿莎姬 | ![](https://ehgt.org/w/02/017/88747-7467jr1a.webp) |  |
+| asagi igawa | 井河阿莎姬 | ![](https://static.wikia.nocookie.net/taimanin/images/3/3e/Igawa_Asagi_35.png)<br>所属作品：`taimanin asagi` |  |
 | sakura igawa | 井河樱 |  |  |
 | rinko akiyama | 秋山凜子 |  |  |
 | yukikaze mizuki | 水城雪风 |  |  |
