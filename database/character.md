@@ -7584,6 +7584,7 @@ example:
 | natsu inage | 稻毛夏 | ![](https://static.wikia.nocookie.net/taimanin/images/3/31/Inage_3.png)<br>所属作品：`taimanin rpg` |  |
 | shamala | 通灵师 | ![](https://ehgt.org/w/02/121/29469-7cwyh4ve.webp)<br>所属作品：`mabinogi` |  |
 | fancy | 幻想号 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/a57290c76c7ac2692aa7f7c13b241268262400697.png) |  |
+| elcia harvence | 艾尔希亚·哈温斯 | 所属作品：`koikishi purely kiss`<br>日语名：エルシア=ハーヴェンス |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
