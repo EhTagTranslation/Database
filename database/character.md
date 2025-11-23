@@ -7577,6 +7577,7 @@ example:
 | sigrun | 希格伦 | ![](https://static.wikia.nocookie.net/fireemblem/images/6/65/Sigrun.png/revision/latest?cb=20161106154901)<br>日文：シグルーン<br>所属作品： `fire emblem path of radiance` | [Fandom](https://fireemblem.fandom.com/wiki/Sigrun) |
 | tanith | 塔妮丝 | ![](https://static.wikia.nocookie.net/fireemblem/images/e/e4/FE9_Tanith.png/revision/latest?cb=20161106155044)<br>日文：タニス<br>所属作品：`fire emblem path of radiance` | [Fandom](https://fireemblem.fandom.com/wiki/Tanith) |
 | champagne | 香槟 | ![](https://i2.hdslb.com/bfs/new_dyn/f6bad4ea9450403a44c158639b677b76262400697.png)<br>所属作品：`azur lane` |  |
+| arizona | 亚利桑那 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/69/5hiw5usp4d6i5jln15qogyw3xwx0uin.jpg/525px-亚利桑那换装.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
