@@ -7108,7 +7108,7 @@ example:
 | emilia leblanc | 伊米利亚·勒布朗 | ![](https://ehgt.org/w/01/632/74169-ctixu7a7.webp)<br>所属作品：`league of legends`<br>外号诡术妖姬 |  |
 | haruka niimi | 新见遥佳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/23/05/18/135962257_p0_master1200.jpg)<br>所属作品：`photo kano` |  |
 | tokiko fuuma | 风魔时子 |  |  |
-| kurenai shinganji | 心愿寺红 |  |  |
+| kurenai shinganji | 心愿寺红 | ![](https://static.wikia.nocookie.net/taimanin/images/f/f2/Shinganji_Kurenai_4.png)<br>所属作品：`taimanin asagi` |  |
 | aya toujou | 东城绫 | 所属作品：`ichigo 100` |  |
 | grave | 格拉维 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_825/h_2320/1253/4408/2025/4/8/739126.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/17/256094.png)<br>所属作品：`goddess of victory nikke`<br>背着巨大棺材在地面流浪的不明身份妮姬。 | [gamekee](https://www.gamekee.com/nikke/tj/170831.html) |
 | ha yuri zahard | 赫·宥莉·吉黑德 | ![](https://ehgt.org/w/01/951/90719-681c4re9.webp)<br>所属作品：`tower of god`<br>作为吉黑德公主之一，她出身赫家族，持有十三月系列武器。性格直率火爆，厌恶繁文缛节，对主角夜及其伙伴保持高度关注。 |  |
