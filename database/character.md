@@ -2100,7 +2100,7 @@ example:
 | sakura igawa | 井河樱 |  |  |
 | rinko akiyama | 秋山凜子 |  |  |
 | yukikaze mizuki | 水城雪风 |  |  |
-| shiranui mizuki | 水城不知火 | ![](https://ehgt.org/w/02/094/77095-km6dpmvk.webp)<br>所属作品：`taimanin yukikaze` |  |
+| shiranui mizuki | 水城不知火 | ![](https://static.wikia.nocookie.net/taimanin/images/6/69/Mizuki_Shrianui_Infobox.png)<br>所属作品：`taimanin yukikaze` |  |
 |  | ▼ 跟班×服务 |  |  |
 | lucy ... yamagami | 山神露西【以下略】 |  |  |
 | yutaka hasebe | 长谷部丰 |  |  |
