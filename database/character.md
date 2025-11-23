@@ -6102,7 +6102,7 @@ example:
 | hisui e. fiore | 翡翠·E·菲奥雷 |  |  |
 | celine | 赛琳 |  |  |
 | azura | 阿库娅 |  |  |
-| lapis | 菈琵思 |  |  |
+| lapis | 青金石 | ![](https://static.wikia.nocookie.net/taimanin/images/5/5d/Lapis.png)<br>所属作品：`taimanin rpg` |  |
 | lilina | 莉莉娜 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/9e/Lilina.png/revision/latest?cb=20160614032742)<br>日文：リリーナ<br>所属作品：`fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/莉莉娜) |
 | goldmary | 戈尔德玛莉 |  |  |
 | alear | 琉尔 | ![](https://static.wikia.nocookie.net/fireemblem/images/b/bd/Artwork_Alear_M.png/revision/latest?cb=20221116230252)<br>![](https://static.wikia.nocookie.net/fireemblem/images/a/aa/Artwork_Alear_F.png/revision/latest?cb=20221122181514)<br>`fire emblem engage`的主人公，性别可选。 | [百度百科](https://baike.baidu.com/item/琉尔/62667754)<br>[Fandom](https://fireemblem.fandom.com/wiki/Alear) |
