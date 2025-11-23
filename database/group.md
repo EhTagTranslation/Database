@@ -13453,6 +13453,7 @@ example:
 | majutsu kessha kuroki tsubasa | 魔術結社・黒き翼 |  |  |
 | aburi tarako-tei | おむすびころりん |  |  |
 | nurunuru bouzu | ぬるぬる坊主 |  |  |
+| kani zousui | かに雑炊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
