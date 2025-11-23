@@ -7579,6 +7579,7 @@ example:
 | champagne | 香槟 | ![](https://i2.hdslb.com/bfs/new_dyn/f6bad4ea9450403a44c158639b677b76262400697.png)<br>所属作品：`azur lane` |  |
 | arizona | 亚利桑那 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/69/5hiw5usp4d6i5jln15qogyw3xwx0uin.jpg/525px-亚利桑那换装.jpg) |  |
 | fritz rumey | 弗里茨·鲁梅 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/d/db/qksxvnxzgoyta7971zxni69a0x0beh4.jpg/525px-弗里茨·鲁梅立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/4/4a/ocb9hv0r2p0wjs3gol6brfe54a9fwmh.jpg/525px-弗里茨·鲁梅换装.jpg)<br>也可称 菲莉西娅·鲁梅 |  |
+| nagisa chiba | 千叶凪沙 | ![](https://patchwiki.biligame.com/images/loststories/9/9c/reywm0yj6skszk7gy9qmt8dn1j0t45v.png)<br>![](https://patchwiki.biligame.com/images/loststories/4/44/k6joq4pmpn4v8v78satrldtqt00hqag.png)<br>![](https://patchwiki.biligame.com/images/loststories/7/7d/6cltbku9shzu31y25c7b6q816ogcxmq.png)<br>所属作品：`code geass`<br>原为日本军队尉官，后成为黑色骑士团核心成员与四圣剑之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
