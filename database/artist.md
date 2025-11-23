@@ -14415,6 +14415,7 @@ example:
 | tonkaraton | トンカラトン |  |  |
 | itachimaki | いたちまき |  |  |
 | mabo harusame | 麻婆はるさめ |  |  |
+| ochi | おち |  | [pixiv](https://www.pixiv.net/users/99819818) [X](https://x.com/ochi_oeeeee) |
 
 <!--TEMPLATE:
 |  |  |  |  |
