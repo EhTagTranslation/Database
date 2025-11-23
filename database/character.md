@@ -2336,7 +2336,7 @@ example:
 | urien | 尤里安 |  |  |
 | vega | 维加 |  |  |
 | m. bison | 拜森 |  |  |
-| ingrid | 英格丽德 |  |  |
+| ingrid | 英格丽德 | ![](https://static.wikia.nocookie.net/taimanin/images/7/7e/Ingrid_39.png)<br>所属作品：`makai kishi ingrid` |  |
 | laura matsuda | 萝拉·松田 |  |  |
 | sean matsuda | 肖恩·松田 |  |  |
 |  | ▼ pop子和pipi美的日常 |  |  |
