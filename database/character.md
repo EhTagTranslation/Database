@@ -2097,7 +2097,7 @@ example:
 | takeshi motoba | 本场猛（崩巴） |  |  |
 |  | ▼ 对魔忍 |  |  |
 | asagi igawa | 井河阿莎姬 | ![](https://static.wikia.nocookie.net/taimanin/images/3/3e/Igawa_Asagi_35.png)<br>所属作品：`taimanin asagi` |  |
-| sakura igawa | 井河樱 |  |  |
+| sakura igawa | 井河樱 | ![](https://static.wikia.nocookie.net/taimanin/images/c/c1/Igawa_Sakura_43.png)<br>所属作品：`taimanin asagi` |  |
 | rinko akiyama | 秋山凜子 |  |  |
 | yukikaze mizuki | 水城雪风 |  |  |
 | shiranui mizuki | 水城不知火 | ![](https://static.wikia.nocookie.net/taimanin/images/6/69/Mizuki_Shrianui_Infobox.png)<br>所属作品：`taimanin yukikaze` |  |
