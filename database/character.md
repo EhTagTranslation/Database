@@ -446,7 +446,7 @@ example:
 | libeccio | 西南风 |  | [舰队Collection:西南风](https://zh.moegirl.org.cn/舰队Collection:西南风) |
 | aquila | 天鹰 |  | [战舰少女:天鹰](https://zh.moegirl.org.cn/战舰少女:天鹰) [舰队Collection:天鹰](https://zh.moegirl.org.cn/舰队Collection:天鹰) |
 | akitsushima | 秋津洲 |  | [舰队Collection:秋津洲](https://zh.moegirl.org.cn/舰队Collection:秋津洲) |
-| zara | 扎拉 | 法西斯意大利海军扎拉级重巡洋舰一号舰扎拉号（Italian cruiser Zara） | [碧蓝航线:扎拉](https://zh.moegirl.org.cn/碧蓝航线:扎拉) [战舰少女:扎拉](https://zh.moegirl.org.cn/战舰少女:扎拉) [舰队Collection:扎拉](https://zh.moegirl.org.cn/舰队Collection:扎拉) |
+| zara | 扎拉 | ![](https://i2.hdslb.com/bfs/new_dyn/f0686e084eb47f92408413c29072d443262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/c2fd6c2c64de1bdb749872d58c250eb0262400697.png)<br>所属作品：`azur lane`，`warship girls`<br>原型为法西斯意大利海军扎拉级重巡洋舰一号舰扎拉号（Italian cruiser Zara） | [碧蓝航线:扎拉](https://zh.moegirl.org.cn/碧蓝航线:扎拉) [战舰少女:扎拉](https://zh.moegirl.org.cn/战舰少女:扎拉) [舰队Collection:扎拉](https://zh.moegirl.org.cn/舰队Collection:扎拉) |
 | pola | 波拉 | 所属作品：`azur lane`<br><br>![](https://i2.hdslb.com/bfs/new_dyn/d96f822f809dd30788c5650969e82ec6262400697.png) | [舰队Collection:波拉](https://zh.moegirl.org.cn/舰队Collection:波拉) |
 | mizuho | 瑞穗 |  | [舰队Collection:瑞穗](https://zh.moegirl.org.cn/舰队Collection:瑞穗) |
 | okinami | 冲波 |  | [舰队Collection:冲波](https://zh.moegirl.org.cn/舰队Collection:冲波) |
