@@ -7586,6 +7586,7 @@ example:
 | fancy | 幻想号 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/a57290c76c7ac2692aa7f7c13b241268262400697.png) |  |
 | elcia harvence | 艾尔希亚·哈温斯 | 所属作品：`koikishi purely kiss`<br>日语名：エルシア=ハーヴェンス |  |
 | mavis dracula | 梅菲斯 | 梅菲斯是动画电影《精灵旅社》系列中吸血鬼德古拉伯爵的独生女 |  |
+| tinker bell | 小叮当 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
