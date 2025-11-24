@@ -1052,7 +1052,7 @@ example:
 | girls frontline | ![](https://p.sda1.dev/22/6b45bfc1e9b9924749db8a29c5fb6f18/image.png) 少女前线 | 《少女前线》是由散爆网络（即云母组）独立研发，暗冬网络所代理发行的国人原创二次元枪娘养成战术手游。<br><br>相关作品: 《`p:girls frontline neural cloud`》《少女前线2：追放》《面包房少女》《逆向坍塌：面包房行动》 | [萌娘百科](https://zh.moegirl.org.cn/少女前线) [官方网站](https://gfcn-mobile.sunborngame.com/) |
 | zettai karen children | 绝对可怜CHILDREN |  |  |
 | selector infected wixoss | 选择感染者WIXOSS |  |  |
-| chain chronicle | 锁链战记 | 《锁链战记》（日语：“チェインクロニクル”，简称“チェンクロ”；英语：“Chain Chronicle”；汉语也作“锁链编年史”、“锁链年代记”）为世嘉网络（SEGA Networks）于2013年针对智能手机市场所开发的道具收费式手机线上电子角色扮演游戏。该游戏在日本由世嘉运营；盛大网络取得该游戏的中国、台湾、香港、澳门及韩国这五个亚洲地区的代理权，并将台湾与港澳版本交予其子公司移动怪兽运营。 |  |
+| chain chronicle | 锁链战记 | 《锁链战记》（日语：“チェインクロニクル”，简称“チェンクロ”；英语：“Chain Chronicle”；中文也作“锁链编年史”、“锁链年代记”）为世嘉网络（SEGA Networks）于2013年针对智能手机市场所开发的道具收费式手机线上电子角色扮演游戏。该游戏在日本由世嘉运营；盛大网络取得该游戏的中国、台湾、香港、澳门及韩国这五个亚洲地区的代理权，并将台湾与港澳版本交予其子公司移动怪兽运营。 |  |
 | the vision of escaflowne | 圣天空战记 | 《圣天空战记》（日语：天空のエスカフローネ）是1996年4月2日至1996年9月24日于东京电视台播放、日昇动画原创制作的电视动画，全26话。 |  |
 | kodomo no omocha | 玩偶游戏 | 《玩偶游戏》（日语：こどものおもちゃ）是小花美穗创作的少女漫画。另外也有同名的电视动画。最初在漫画杂志Ribon上连载，后来发行了10期的单行本。 |  |
 | quiz nanairo dreams | 七彩梦 |  |  |
