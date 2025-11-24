@@ -2297,7 +2297,7 @@ example:
 | nowi | 诺诺 | ![](https://static.wikia.nocookie.net/fireemblem/images/5/54/Nowi_%28FE13_Artwork%29.png/revision/latest?cb=20160803011607)<br>日文：ノノ<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Nowi) |
 |  | ▼ 美少女战士 |  |  |
 | tuxedo mask | 大礼服假面 | 地场卫 |  |
-| sailor moon | 水手月亮 | ![](https://ehgt.org/w/02/090/60329-75ajnzb8.webp)<br>所属作品：`sailor moon`<br>月野兔（つきのうさぎ） |  |
+| sailor moon | 水手月亮 | ![](https://ehgt.org/w/02/090/60329-75ajnzb8.webp)<br>所属作品：`p:sailor moon`<br>月野兔（つきのうさぎ） |  |
 | sailor chibi moon | 水手小月亮 | ![](https://ehgt.org/w/02/096/98626-juwuhxpr.webp)<br>所属作品：`p:sailor moon`<br>小小兔（ちびうさ） |  |
 | sailor mercury | 水手水星 | 水野亚美 |  |
 | sailor mars | 水手火星 | 火野丽 |  |
