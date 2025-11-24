@@ -6856,7 +6856,7 @@ example:
 | lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7654be1b20826d4bc412602fec42c48b262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
 | mio misumi | 深澄澪 | 所属作品：`tsuki ga michibiku isekai douchuu`<br>![](https://tsukimichi.com/_assets/images/char/detail/webp/mio.webp)<br>深澄澪（みすみ みお，Mio Misumi) |  |
 | c-ms | C-MS | `p:girls frontline` |  |
-| admiral nakhimov | 纳希莫夫海军上将 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/2e23166b3a5713cfcc016b362b2415b4262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
+| admiral nakhimov | 纳希莫夫海军上将 | ![](https://i2.hdslb.com/bfs/new_dyn/04cedcd9c9e434d91a18655424ace809262400697.png)<br>所属作品：`azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
 | wamdus | 瓦姆杜斯 |  |  |
 | lina inverse | 莉娜·因巴斯 |  |  |
 | akane ryuuzouji | 龙造寺茜 | 所属作品：`walkure romanze`<br>![](https://ehgt.org/w/02/088/56723-scsiaew6.webp)<br>贵弘的同班同学。<br>和美樱是亲密挚友，再加之国籍相同，经常和他们来往。一本正经又争强好胜，稍稍顽固不化。每天都毫不懈怠地鞭策自己，也因此马术相当了得。 | [萌娘百科](https://zh.moegirl.org.cn/少女骑士物语) |
