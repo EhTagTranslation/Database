@@ -2303,7 +2303,7 @@ example:
 | sailor mars | 水手火星 | ![](https://ehgt.org/w/02/090/60603-fvql2cke.webp)<br>所属作品：`p:sailor moon`<br>火野丽（火野 レイ） |  |
 | sailor jupiter | 水手木星 | ![](https://ehgt.org/w/02/105/01948-9ft424gc.webp)<br>所属作品：`p:sailor moon`<br>木野真琴（木野 まこと） |  |
 | sailor venus | 水手金星 | ![](https://ehgt.org/w/02/090/60509-dhgmexbb.webp)<br>所属作品：`p:sailor moon`<br>爱野美奈子（あいの みなこ） |  |
-| sailor saturn | 水手土星 | 土萌萤 |  |
+| sailor saturn | 水手土星 | ![](https://ehgt.org/w/01/907/05353-2vqr2tx4.webp)<br>所属作品：`p:sailor moon`<br>土萌萤（ともえほたる） |  |
 | sailor neptune | 水手海王星 | ![](https://ehgt.org/w/01/983/64962-ck3915h2.webp)<br>所属作品：`p:sailor moon`<br>海王满（かいおうみちる） |  |
 | sailor uranus | 水手天王星 | ![](https://ehgt.org/w/02/089/63830-7t33omwa.webp)<br>所属作品：`p:sailor moon`<br>天王遥（てんおうはるか） |  |
 | sailor pluto | 水手冥王星 | ![](https://ehgt.org/w/01/891/47141-3otyyex4.webp)<br>所属作品：`p:sailor moon`<br>冥王雪奈（めいおうせつな） |  |
