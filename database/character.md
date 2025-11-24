@@ -3584,7 +3584,7 @@ example:
 | repulse | 反击 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/61ca37f823e38b77707f6df88fa47a2a262400697.png) | [碧蓝航线:反击](https://zh.moegirl.org.cn/碧蓝航线:反击) |
 | north carolina | 北卡罗来纳 | ![](https://patchwiki.biligame.com/images/blhx/thumb/8/86/mke4exe3mkjfzp0zew7mirujs47zok1.jpg/525px-北卡罗来纳立绘.jpg)<br>所属作品：`azur lane`<br>原型为美国海军北卡罗来纳级战列舰首舰北卡罗来纳号（USS North Carolina(BB-55)） | [碧蓝航线:北卡罗来纳](https://zh.moegirl.org.cn/碧蓝航线:北卡罗来纳) |
 | washington | 华盛顿 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/5fb3a145299207a3e1e0ba4a856d1e2c262400697.png) | [碧蓝航线:华盛顿](https://zh.moegirl.org.cn/碧蓝航线:华盛顿) |
-| essex | 埃塞克斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3fae138f36e29e827411760e33ab83f6262400697.png) | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
+| essex | 埃塞克斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3fae138f36e29e827411760e33ab83f6262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/c3f8e26dc045887a386f9e36a9882b4e262400697.png) | [碧蓝航线:埃塞克斯](https://zh.moegirl.org.cn/碧蓝航线:埃塞克斯) |
 | indianapolis | 印第安纳波利斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/ed4ab424e1a56b847a407603b499a90f262400697.png) | [碧蓝航线:印第安纳波利斯](https://zh.moegirl.org.cn/碧蓝航线:印第安纳波利斯) |
 | albacore | 大青花鱼 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c88a93ddd1a952c663d7747d2591f233262400697.png) | [碧蓝航线:大青花鱼](https://zh.moegirl.org.cn/碧蓝航线:大青花鱼) |
 | new jersey | 新泽西 | 所属作品: `p:azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/3fc5836ba42d37b9870ecfba6317e662262400697.png) | [碧蓝航线:新泽西](https://zh.moegirl.org.cn/碧蓝航线:新泽西) |
