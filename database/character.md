@@ -7587,6 +7587,7 @@ example:
 | elcia harvence | 艾尔希亚·哈温斯 | 所属作品：`koikishi purely kiss`<br>日语名：エルシア=ハーヴェンス |  |
 | mavis dracula | 梅菲斯 | 梅菲斯是动画电影《精灵旅社》系列中吸血鬼德古拉伯爵的独生女 |  |
 | tinker bell | 小叮当 |  |  |
+| karenina | 卡列尼娜 | 所属作品：`punishing gray raven`<br>![](https://patchwiki.biligame.com/images/zspms/3/39/59gmdi3mjbubssz7exfq7oq726rkzve.png)<br>![](https://patchwiki.biligame.com/images/zspms/6/6f/le1ppvr5es1maq6nwh2yzpxywdbyq6l.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
