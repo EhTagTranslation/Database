@@ -7590,6 +7590,7 @@ example:
 | karenina | 卡列尼娜 | 所属作品：`punishing gray raven`<br>![](https://patchwiki.biligame.com/images/zspms/3/39/59gmdi3mjbubssz7exfq7oq726rkzve.png)<br>![](https://patchwiki.biligame.com/images/zspms/6/6f/le1ppvr5es1maq6nwh2yzpxywdbyq6l.png) |  |
 | meloco kyoran | 狂兰Meloco | ![](https://img.moegirl.org.cn/common/5/55/MelocoKyoran-full_body.jpeg)<br>所属社团：彩虹社<br>Meloco Kyoran（日語：狂蘭 メロコ）。 | [萌娘百科](https://zh.moegirl.org.cn/狂兰Meloco#) |
 | perrin | 沙俪 | ![](https://ehgt.org/w/02/102/83438-qbm0vbj7.webp)<br>所属作品：`pokemon`<br>沙俪是《宝可梦 朱·紫》DLC《零之秘宝》"前篇·碧之假面"中首次登场的新角色。 |  |
+| fantasque | 空想 | ![](https://ehgt.org/w/02/126/20988-7hge4ipf.webp)<br>所属作品：`warship girls` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
