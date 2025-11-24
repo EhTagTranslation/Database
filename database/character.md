@@ -2306,7 +2306,7 @@ example:
 | sailor saturn | 水手土星 | 土萌萤 |  |
 | sailor neptune | 水手海王星 | ![](https://ehgt.org/w/01/983/64962-ck3915h2.webp)<br>所属作品：`p:sailor moon`<br>海王满（かいおうみちる） |  |
 | sailor uranus | 水手天王星 | ![](https://ehgt.org/w/02/089/63830-7t33omwa.webp)<br>所属作品：`p:sailor moon`<br>天王遥（てんおうはるか） |  |
-| sailor pluto | 水手冥王星 | 冥王雪奈 |  |
+| sailor pluto | 水手冥王星 | ![](https://ehgt.org/w/01/891/47141-3otyyex4.webp)<br>所属作品：`p:sailor moon`<br>冥王雪奈（めいおうせつな） |  |
 | kenji tsukino | 月野谦之 |  |  |
 | ikuko tsukino | 月野育子 |  |  |
 | shingo tsukino | 月野进悟 |  |  |
