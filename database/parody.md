@@ -2616,6 +2616,7 @@ example:
 | cike wu liuqi | 刺客伍六七 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2707610653.webp) |  |
 | unicorn overlord | 圣兽之王 |  |  |
 | the unbelievable gwenpool | 匪夷所思的格温侍 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Unbelievable_Gwenpool) |
+| the beginning after the end | 最强王者的第二人生 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921116747.webp)<br>最強の王様、二度目の人生は何をする？ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
