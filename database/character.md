@@ -2305,7 +2305,7 @@ example:
 | sailor venus | 水手金星 | ![](https://ehgt.org/w/02/090/60509-dhgmexbb.webp)<br>所属作品：`p:sailor moon`<br>爱野美奈子（あいの みなこ） |  |
 | sailor saturn | 水手土星 | 土萌萤 |  |
 | sailor neptune | 水手海王星 | 海王满 |  |
-| sailor uranus | 水手天王星 | 天王遥 |  |
+| sailor uranus | 水手天王星 | ![](https://ehgt.org/w/02/089/63830-7t33omwa.webp)<br>所属作品：`p:sailor moon`<br>天王遥（てんおうはるか） |  |
 | sailor pluto | 水手冥王星 | 冥王雪奈 |  |
 | kenji tsukino | 月野谦之 |  |  |
 | ikuko tsukino | 月野育子 |  |  |
