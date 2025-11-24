@@ -2301,7 +2301,7 @@ example:
 | sailor chibi moon | 水手小月亮 | ![](https://ehgt.org/w/02/096/98626-juwuhxpr.webp)<br>所属作品：`p:sailor moon`<br>小小兔（ちびうさ） |  |
 | sailor mercury | 水手水星 | ![](https://ehgt.org/w/02/090/60330-nmavj7le.webp)<br>所属作品：`p:sailor moon`<br>水野亚美（みずの あみ） |  |
 | sailor mars | 水手火星 | ![](https://ehgt.org/w/02/090/60603-fvql2cke.webp)<br>所属作品：`p:sailor moon`<br>火野丽（火野 レイ） |  |
-| sailor jupiter | 水手木星 | 木野真琴 |  |
+| sailor jupiter | 水手木星 | ![](https://ehgt.org/w/02/105/01948-9ft424gc.webp)<br>所属作品：`p:sailor moon`<br>木野真琴（木野 まこと） |  |
 | sailor venus | 水手金星 | ![](https://ehgt.org/w/02/090/60509-dhgmexbb.webp)<br>所属作品：`p:sailor moon`<br>爱野美奈子（あいの みなこ） |  |
 | sailor saturn | 水手土星 | 土萌萤 |  |
 | sailor neptune | 水手海王星 | 海王满 |  |
