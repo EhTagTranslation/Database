@@ -7331,7 +7331,7 @@ example:
 | mix | 蜜珂丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/2d/14724_crt_NgqP1.jpg)<br>所属作品：`aquarion evol`<br>担任学生会长及班长职务，成绩优异但性格严谨，因完美主义倾向常忽视他人感受。 |  |
 | shionne vymer imeris daymore | 希侬·埃梅利斯 | ![](https://img.moegirl.org.cn/common/1/12/TALES_shionne.png)<br>所属作品:`p:tales of arise` | [萌娘百科](https://zh.moegirl.org.cn/希侬·埃梅利斯) |
 | yuiri haba | 羽波唯里 | ![](https://lain.bgm.tv/r/400/pic/crt/l/bb/7f/56527_crt_q1Bt6.jpg)<br>所属作品：`strike the blood`<br>狮子王机关的剑巫，比雪菜年长一岁，武器为“六式降魔剑·改” |  |
-| yori asanagi | 朝凪依 |  |  |
+| yori asanagi | 朝凪依 | ![](https://lain.bgm.tv/r/400/pic/crt/l/f3/c4/76965_crt_6e3Iq.jpg?r=1712667320)<br>所属作品：`sasayaku you ni koi wo utau`<br>担任高校乐队"SSGIRLS"的吉他主唱。 |  |
 | kazehana | 风花 | ![](https://img.moegirl.org.cn/common/2/2a/风花.jpg)<br>所属作品：`sekirei`<br>風花かぜはな |  |
 | ayra | 艾伊拉 | 所属作品：`fire emblem genealogy of the holy war`<br>日语名：アイラ。<br>马力克的妹妹，伊扎克的王女。由于体内流有剑圣奥德之血，所以其剑术在军中无人能敌。 |  |
 | excellen browning | 艾克塞琳·勃朗宁 | 所属作品：`super robot wars` |  |
