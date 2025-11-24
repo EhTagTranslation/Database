@@ -7588,6 +7588,7 @@ example:
 | mavis dracula | 梅菲斯 | 梅菲斯是动画电影《精灵旅社》系列中吸血鬼德古拉伯爵的独生女 |  |
 | tinker bell | 小叮当 |  |  |
 | karenina | 卡列尼娜 | 所属作品：`punishing gray raven`<br>![](https://patchwiki.biligame.com/images/zspms/3/39/59gmdi3mjbubssz7exfq7oq726rkzve.png)<br>![](https://patchwiki.biligame.com/images/zspms/6/6f/le1ppvr5es1maq6nwh2yzpxywdbyq6l.png) |  |
+| meloco kyoran | 狂兰Meloco | ![](https://img.moegirl.org.cn/common/5/55/MelocoKyoran-full_body.jpeg)<br>所属社团：彩虹社<br>Meloco Kyoran（日語：狂蘭 メロコ）。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
