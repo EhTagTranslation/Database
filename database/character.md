@@ -2298,7 +2298,7 @@ example:
 |  | ▼ 美少女战士 |  |  |
 | tuxedo mask | 大礼服假面 | 地场卫 |  |
 | sailor moon | 水手月亮 | ![](https://ehgt.org/w/02/090/60329-75ajnzb8.webp)<br>所属作品：`sailor moon`<br>月野兔（つきのうさぎ） |  |
-| sailor chibi moon | 水手小月亮 | 小小兔 |  |
+| sailor chibi moon | 水手小月亮 | ![](https://ehgt.org/w/02/096/98626-juwuhxpr.webp)<br>所属作品：`p:sailor moon`<br>小小兔（ちびうさ） |  |
 | sailor mercury | 水手水星 | 水野亚美 |  |
 | sailor mars | 水手火星 | 火野丽 |  |
 | sailor jupiter | 水手木星 | 木野真琴 |  |
