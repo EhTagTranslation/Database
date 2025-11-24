@@ -14419,6 +14419,7 @@ example:
 | tenki nori | 天気海苔 |  | [pixiv](https://www.pixiv.net/users/59560975) [X](https://x.com/3tenki9) |
 | vanicooo | ばにこ一 |  | [pixiv](https://www.pixiv.net/users/7336390) |
 | shirotobi | しろとび |  |  |
+| ubuo | うぶお |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
