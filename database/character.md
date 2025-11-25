@@ -7593,7 +7593,7 @@ example:
 | fantasque | 空想 | ![](https://ehgt.org/w/02/126/20988-7hge4ipf.webp)<br>所属作品：`warship girls` |  |
 | himari kino | 木野日鞠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c2/c8/76964_crt_UO9S4.jpg?r=1712667310)<br>所属作品：`sasayaku you ni koi wo utau`<br>高中入学后因观看乐队“SSGIRLS”的演出而对主唱朝凪依产生特殊情感。 |  |
 | maha | 玛荷 | ![](https://img.moegirl.org.cn/common/5/56/Maha_anime.png)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru` |  |
-| mira | 椿原米拉 | ![](https://ehgt.org/w/02/112/94053-3be8vrnh.webp)<br>所属作品：《Master Piece》<br>长女椿原由那（Yuna）和次女椿原妮娜（Nina）的母亲。 |  |
+| mira | 椿原米拉 \| 米菈 | ①椿原米拉<br>![](https://ehgt.org/w/02/112/94053-3be8vrnh.webp)<br>所属作品：《Master Piece》<br>长女椿原由那（Yuna）和次女椿原妮娜（Nina）的母亲。<br><br>②米菈<br>![](https://ehgt.org/w/01/742/11962-2a3uezt0.webp)<br>所属作品：`kenja no deshi o nanoru kenja` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
