@@ -7592,6 +7592,7 @@ example:
 | perrin | 沙俪 | ![](https://ehgt.org/w/02/102/83438-qbm0vbj7.webp)<br>所属作品：`pokemon`<br>沙俪是《宝可梦 朱·紫》DLC《零之秘宝》"前篇·碧之假面"中首次登场的新角色。 |  |
 | fantasque | 空想 | ![](https://ehgt.org/w/02/126/20988-7hge4ipf.webp)<br>所属作品：`warship girls` |  |
 | himari kino | 木野日鞠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/c2/c8/76964_crt_UO9S4.jpg?r=1712667310)<br>所属作品：`sasayaku you ni koi wo utau`<br>高中入学后因观看乐队“SSGIRLS”的演出而对主唱朝凪依产生特殊情感。 |  |
+| maha | 玛荷 | ![](https://img.moegirl.org.cn/common/5/56/Maha_anime.png)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
