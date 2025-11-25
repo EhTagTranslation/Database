@@ -7596,6 +7596,7 @@ example:
 | mira | 椿原米拉 \| 米菈 | ①椿原米拉<br>![](https://ehgt.org/w/02/112/94053-3be8vrnh.webp)<br>所属作品：《Master Piece》<br>长女椿原由那（Yuna）和次女椿原妮娜（Nina）的母亲。<br><br>②米菈<br>![](https://ehgt.org/w/01/742/11962-2a3uezt0.webp)<br>所属作品：`kenja no deshi o nanoru kenja` |  |
 | takatora toudou | 藤堂高虎 | 所属作品：`sengoku bushouki muramasa` |  |
 | shirayuki himeji | 姬路白雪 | 所属作品：`liar liar`<br>![](https://img.moegirl.org.cn/common/c/c9/Himeji_Shirayuki_Ikasama_Maid.jpg)<br>篠原绯吕斗的辅佐班底“Company”的领袖。为了在决斗（Game）中的胜利而进行专攻欺诈的战术指导。作为照料起居的女仆也同住在家中。 |  |
+| zhao | 照 | 照是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://patchwiki.biligame.com/images/zzz/thumb/9/92/7mo4nox1d7fn7ds7kwf0ewch2lvkmg2.png/463px-角色立绘-照-官方介绍.png) | [萌娘百科](https://zh.moegirl.org.cn/照) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
