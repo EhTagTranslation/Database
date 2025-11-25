@@ -917,7 +917,7 @@ example:
 | kanzaki maguro | 潤咲まぐろ |  |  |
 | sakagaki | サカガキ |  |  |
 | leslie brown | Leslie Brown |  |  |
-| satsuki imonet | 皋月芋网 |  |  |
+| satsuki imonet | 皋月芋网 | 皐月芋網 |  |
 | chiyoko | ちよこ |  |  |
 | marui maru | 丸居まる |  |  |
 | asuhiro | アスヒロ |  |  |
