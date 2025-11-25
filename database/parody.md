@@ -2619,6 +2619,7 @@ example:
 | the beginning after the end | 最强王者的第二人生 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921116747.webp)<br>最強の王様、二度目の人生は何をする？ |  |
 | eternal city | 永远的7日之都 | ![](https://huiji-public.huijistatic.com/f7d/uploads/e/e8/CG_08.png)<br>《永远的7日之都》是一款由网易制作与发行的角色扮演类游戏。这款都市幻想题材的RPG。 |  |
 | kenja no deshi o nanoru kenja | 自称贤者弟子的贤者 | ![](https://img9.doubanio.com/view/photo/l/public/p2636996285.webp) |  |
+| liar liar | 谎言游戏 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2889501906.webp)<br>《Liar·Liar 谎言游戏》是久追遥希所著，konomi（きのこのみ）负责插画，MF文库所属连载中的爱情轻小说作品。<br>该小说讲述了学园斗智游戏再升级，筱原绯吕斗利用谎言与作弊，在队友支持下逆转绝境，迎战神秘“影武者”及超强联军，誓保学园荣耀的故事。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
