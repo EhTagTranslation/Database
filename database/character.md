@@ -4532,7 +4532,7 @@ example:
 | toki asuma | 飞鸟马时 | 所属作品: `p:blue archive`<br>千年科学学园所属，秘密组织C&C的五号特工。<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/3/3c/Toki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki)<br>[https://www.gamekee.com/ba/tj/584417.html](https://www.gamekee.com/ba/tj/584417.html) |
 | carol olston | 卡洛儿·奥尔斯顿 | 漫画《智酱是女生！》的登场角色。 |  |
 | shiroko terror | 白子\*恐怖 | 所属作品: `p:blue archive`<br><br>遭到色彩反转之后诞生的砂狼白子变种，灾难级别的存在，最初在序章里登场，之后极长的时间里都没有再出现过，直到最终篇的更新。<br>![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/砂狼白子)<br>[Fandom](https://bluearchive.fandom.com/wiki/Shiroko_Terror)<br>[基沃托斯古书馆](https://kivo.wiki/data/character/135) |
-| dia viekone | 蒂雅·维科尼 | 所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br><br>卢各·图哈德的表姐、魔法启蒙老师、初恋。<br>![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
+| dia viekone | 蒂雅·维科尼 | ![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png)<br>所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>卢各·图哈德的表姐、魔法启蒙老师、初恋。 | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
 | tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
