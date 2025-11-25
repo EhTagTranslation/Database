@@ -5965,7 +5965,7 @@ example:
 | kari kamiya | 八神光 | 也译作八神嘉儿，《数码宝贝大冒险》中主角八神太一的妹妹，第八位被选召的孩子。 | [萌娘百科](https://zh.moegirl.org.cn/八神光%28数码宝贝%29) |
 | rika nonaka | 牧野留姬 | 《数码宝贝3：驯兽师之王》的女主角 | [萌娘百科](https://zh.moegirl.org.cn/牧野留姬) |
 | kaede saitou | 斋藤枫 |  |  |
-| chinatsu kano | 鹿野千夏 |  |  |
+| chinatsu kano | 鹿野千夏 | 所属作品：`ao no hako`<br>![](https://ehgt.org/w/02/099/56364-h1murn0i.webp) |  |
 | rance | 兰斯 | `p:rance` |  |
 | shizuka masou | 魔想志津香 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_584/h_716/50551/746731/2025/3/27/624436.png)<br>所属作品：`p:rance` |  |
 | kouhime | 织田香 | `p:rance` |  |
