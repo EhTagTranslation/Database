@@ -1228,7 +1228,7 @@ example:
 | momo velia deviluke | 梦梦·贝莉雅·戴比路克 | ![](https://i2.hdslb.com/bfs/new_dyn/6909e0618fa0b6decc29299a93abbf75262400697.png)<br>所属作品：`to love-ru`<br>戴比路克星银河系的第三公主，菈菈的妹妹，同娜娜相比算是巨乳。 | [萌娘百科](https://zh.moegirl.org.cn/梦梦·贝莉雅·戴比路克) |
 | riko yuusaki | 夕崎梨子 | ![](https://praogxqcch.hath.network/om/170412073/874208224a1f1401e87b843d312655380c367b2c-1277043-832-1216-png/ab91efb11d2e3a9c98e88d10c95437a58d7bf592-86712-800-1169-wbp/800/322n9pwq2jnp3v1tixr/0444.webp)<br>所属作品：`to love-ru` |  |
 | sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/11/21/14/50/59/124497875_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克王奇多的妻子，菈菈、娜娜、梦梦的母亲。宇宙中最美貌的种族“查姆人”的最后的末裔，拥有着能让任何男性看到自己的容颜就会失去理智的能力。 | [萌娘百科](https://zh.moegirl.org.cn/赛菲·米卡埃拉·戴比路克) |
-| tearju lunatique | 提亚悠·鲁娜提克 | 所属作品：`to love-ru`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/26/23/37/22/133149897_p0_master1200.jpg) |  |
+| tearju lunatique | 提亚悠·鲁娜提克 | 所属作品：`to love-ru`<br>![](https://ehgt.org/w/02/079/82883-ak1tbqqm.webp) |  |
 | run elsie jewelria | 伦·艾尔西·裘利亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/21/02/32/09/134135505_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>梅莫鲁西星人的王族，出生时男女二人两性共生，具有男女个性与肉体的转换能力。能够和连进行脑内对话。在地球时只要打个喷嚏就会性转换。（成年后两性别会分开） | [萌娘百科](https://zh.moegirl.org.cn/露恩·艾尔西·裘利亚) |
 | risa momioka | 籾冈里纱 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/16/23/28/33/132774906_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>爱好猥亵的话语和动作，是平凡而又自由散漫的高中女生，平时与泽田未央和西连寺春菜一起行动。在教室里的时候，菈菈和小静也会一起聊天。 | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
 | mio sawada | 泽田未央 | ![](https://ehgt.org/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |  |
