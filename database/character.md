@@ -5124,7 +5124,7 @@ example:
 | shadow the hedgehog | 夏特 | 所属作品: `p:sonic the hedgehog`<br><br>夏特是一只与索尼克的外观极其相似的黑色刺猬而且还被别人当成索尼克。他由蛋头博士的祖父——世纪的天才科学家杰拉德教授制造出来的"Ultimate Life Form" (终极生命体，究极生命体 Kyūkyoku Seimeitai) | [萌娘百科](https://zh.moegirl.org.cn/夏特) |
 | iris | 艾莉丝 \| 爱丽丝 | ①《炎炎消防队》及其衍生动画中的虚构角色![](https://lain.bgm.tv/r/400/pic/crt/l/90/6b/68396_crt_b5WxY.jpg?r=1678796731) | [百度百科](https://baike.baidu.com/item/爱丽丝/23315803) |
 | momoka yuragi | 由良木桃香 | 所属作品：`p:blue archive`<br>联邦学生会的一员。<br>完全不想好好工作，麻烦的事情全都扔给夏莱。<br>总是在吃着什么，说话的时候也不放下手中的明太子薯片。<br>是个十足的懒人，但完全不在意外界的评价。<br>![](https://img.moegirl.org.cn/common/2/2f/BA_Momoka.png) | [萌娘百科](https://zh.moegirl.org.cn/由良木桃香) |
-| yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive`<br><br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的1年级学生。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/522528.png) |  |
+| yukari kadenokouji | 勘解由小路紫 | 所属作品: `p:blue archive`<br>![](https://img.moegirl.org.cn/common/c/c9/BA_Yukari.png)<br>![](https://img.moegirl.org.cn/common/b/ba/BA_Yukari_Swimsuit.png)<br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的1年级学生。 | [萌娘百科](https://zh.moegirl.org.cn/勘解由小路紫) |
 | yakumo aramaki | 荒槙八云 | 所属作品：`p:blue archive`<br>红冬联邦学园的出版部部长，负责红冬事务局机关杂志《红熊》的出版。<br>为了出版部的盈利什么都能干得出来，甚至不仅售卖机关事务局的杂志，同时也会印制批判事务局体制的宣传单。<br>![](https://pic.cangku.moe/images/2025/09/06/11kAc.webp) | [百度百科](https://baike.baidu.com/item/荒槙八云/65684518) |
 | kasumi kinugawa | 鬼怒川霞 | 所属作品：`p:blue archive`<br>温泉开发部的部长，日常带领着下属们在基沃托斯各地寻找可能存在温泉的点位并对其进行轰炸、钻探等，在基沃托斯各地掀起了各种各样的混乱。<br>![](https://img.moegirl.org.cn/common/8/81/BA_Kasumi.png) | [萌娘百科](https://zh.moegirl.org.cn/鬼怒川霞) |
 | niya amachi | 天地妮娅 | 所属作品：`p:blue archive`<br>百鬼夜行連合学院所属、阴阳部的部长。<br>![](https://img.moegirl.org.cn/common/b/b1/BA_Niya.png) | [萌娘百科](https://zh.moegirl.org.cn/天地妮娅) |
