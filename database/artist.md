@@ -14420,6 +14420,7 @@ example:
 | vanicooo | ばにこ一 |  | [pixiv](https://www.pixiv.net/users/7336390) |
 | shirotobi | しろとび |  |  |
 | ubuo | うぶお |  |  |
+| re shimashima | Re:しましま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
