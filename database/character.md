@@ -2355,7 +2355,7 @@ example:
 | arisa ichigaya | 市谷有咲 | [Poppin'Party](https://zh.moegirl.org.cn/Poppin%27Party)的键盘手<br>![市谷有咲](https://commons.moegirl.org.cn/thumb.php?f=Img_ichigaya-arisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/市谷有咲) |
 | yukina minato | 凑友希那 | [Roselia](https://zh.moegirl.org.cn/Roselia)的主唱<br>![凑友希那](https://commons.moegirl.org.cn/thumb.php?f=Img_minato-yukina_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/凑友希那) |
 | sayo hikawa | 冰川纱夜 | [Roselia](https://zh.moegirl.org.cn/Roselia)的吉他手<br>![冰川纱夜](https://commons.moegirl.org.cn/thumb.php?f=Img_hikawa-sayo_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/冰川纱夜) |
-| lisa imai | 今井莉莎 | [Roselia](https://zh.moegirl.org.cn/Roselia)的贝斯手<br>![今井莉莎](https://commons.moegirl.org.cn/thumb.php?f=Img_imai-lisa_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/今井莉莎) |
+| lisa imai | 今井莉莎 | ![](https://img.moegirl.org.cn/common/4/46/今井莉莎-彻底地调查？.jpg)<br>所属作品：`bang dream`<br>[Roselia](https://zh.moegirl.org.cn/Roselia)的贝斯手 | [萌娘百科](https://zh.moegirl.org.cn/今井莉莎) |
 | ako udagawa | 宇田川亚子 | [Roselia](https://zh.moegirl.org.cn/Roselia)的鼓手<br>![宇田川亚子](https://commons.moegirl.org.cn/thumb.php?f=Img_udagawa-ako_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/宇田川亚子) |
 | rinko shirokane | 白金燐子 | [Roselia](https://zh.moegirl.org.cn/Roselia)的**伟大的**键盘手<br>![白金燐子](https://commons.moegirl.org.cn/thumb.php?f=Img_shirokane-rinko_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/白金燐子) |
 | ran mitake | 美竹兰 | [Afterglow](https://zh.moegirl.org.cn/Afterglow%28BanG_Dream!%29)的主唱<br>![美竹兰](https://commons.moegirl.org.cn/thumb.php?f=Img_mitake-ran_1.png&width=150) | [萌娘百科](https://zh.moegirl.org.cn/美竹兰) |
