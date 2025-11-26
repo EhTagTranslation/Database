@@ -6069,7 +6069,7 @@ example:
 | kyouko machi | 町京子 | 所属作品: `p:demi-chan wa kataritai`<br><br>无头骑士。1年B班。头与身体分离的亚人，最远曾分离约600公里。祖先是传承于爱尔兰的妖精，在现在的世界似乎是仅存3人。成绩优秀。喜欢他人抱住自己的头，喜欢高桥老师，把头取下后身体里会冒出不热的火焰，情绪激动的时候火焰会变成喷射状态，学霸，一开始虽然是父亲的要求，但是后来喜欢上了学习，成绩一直处在上游，至少有一次曾拿过全校第一。 |  |
 | yae amagami | ‌甘神夜重 | 所属作品：`amagami-san chi no enmusubi`<br>![](https://amagami-anime.com/img/character-01.png) |  |
 | yuna amagami | 甘神夕奈 | 所属作品：`amagami-san chi no enmusubi`<br>![](https://amagami-anime.com/img/character-02.png) |  |
-| asahi amagami | ‌甘神朝姬 |  |  |
+| asahi amagami | ‌甘神朝姬 | 所属作品：`amagami-san chi no enmusubi`<br>![](https://amagami-anime.com/img/character-03.png) |  |
 | mirajane strauss | 米拉杰·斯特劳斯 | ![](https://ehgt.org/w/02/092/27459-jeqjd9in.webp)<br>所属作品：`fairy tail` |  |
 | nanashi mumei | 七诗无铭 | ![](https://ehgt.org/w/02/011/23408-gab1n8mh.webp)<br>所属社团：Hololive |  |
 | tetsunosuke ichimura | 市村铁之助 | 市村铁之助（1854年—1873年？）为美浓大垣藩出身的新选组队士。 | [维基百科](https://zh.wikipedia.org/wiki/市村鐵之助) |
