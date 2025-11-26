@@ -641,7 +641,7 @@ example:
 | daitoshokan no hitsujikai | 大图书馆的牧羊人 | 《大图书馆的牧羊人》（日语：大図書館の羊飼い）是一部由`august`创作的游戏。 | [萌娘百科](https://zh.moegirl.org.cn/大图书馆的牧羊人) [维基百科](https://zh.wikipedia.org/wiki/大圖書館的牧羊人) |
 | aiyoku no eustia | 秽翼的尤斯蒂娅 |  |  |
 | rokka no yuusha | 六花的勇者 |  |  |
-| seiren | 清恋 |  |  |
+| seiren | 清恋 | ![](https://lain.bgm.tv/r/400/pic/cover/l/f8/38/195229_l5ydB.jpg) |  |
 | oniisama e... | 亲亲天使心 | 青涩花园、少女梦、给哥哥的一封信 |  |
 | long riders | 长骑美眉 |  |  |
 | flower knight girl | 美少女花骑士 | 《美少女花骑士》（FLOWER KNIGHT GIRL、日语：フラワーナイトガール）是由Your Games开发，DMM.com运营的美少女战略卡牌类网页游戏。 | [萌娘百科](https://zh.moegirl.org.cn/美少女花骑士) |
