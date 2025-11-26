@@ -1398,7 +1398,7 @@ example:
 | hyouka kazakiri | 风斩冰华 | ![20.webp](https://p.sda1.dev/28/ada00bb6d0395ee2e5b885ee77572ed9/20.webp)<br>![19.webp](https://p.sda1.dev/28/f44b48ebbca08f8be514b53b8f50b17c/19.webp)<br>所属作品：`toaru project` | [萌娘百科](https://zh.moegirl.org.cn/风斩冰华) |
 | harumi kiyama | 木山春生 |  |  |
 | motoharu tsuchimikado | 土御门元春 |  |  |
-| itsuwa | 五和 |  |  |
+| itsuwa | 五和 | 所属作品：`toaru project`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/09/20/29/16/137283558_p0_master1200.jpg) |  |
 | lucia | 露西亚 | ![](https://patchwiki.biligame.com/images/zspms/thumb/a/ac/n8urfitp2nk5rhjqwsivmddtrwb4hsh.png/375px-角色_露西亚_红莲_立绘.png)<br>所属游戏：`punishing gray raven` |  |
 | agnese sanctis | 雅妮丝·桑提斯 |  |  |
 | angelene | 安洁莉娜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/21/18/50/30/129551619_p0_master1200.jpg)<br>所属作品：`toaru project`<br>身高矮小、水蛇腰、有点驼背的金发辫子头修女 |  |
