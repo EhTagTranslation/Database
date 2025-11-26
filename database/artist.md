@@ -1940,7 +1940,7 @@ example:
 | miwa futaba | 三輪フタバ |  |  |
 | arano oki | 荒野冲 |  |  |
 | nekotewi | ねこてゐ | ねこてゐ是同人志创作者，插画师。作品以成人向`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1201212116377595905/CJqpgzkd_400x400.jpg)<br>**作者推特头像**<br>![图](# "https://ehgt.org/ca/b2/cab2fff6263180876c4e9c8956c6701b98e63b41-5206557-2504-3539-png_l.jpg")<br>同人本《紅閻魔流房中術!! \せっくすがんばるでち/ (Fate/Grand Order)》 | [X](https://x.com/nekoniwagarden) [pixiv](https://www.pixiv.net/users/279599) |
-| ohisashiburi | お久しぶり |  |  |
+| ohisashiburi | お久しぶり | 女性画师，和'mameojitan'是姐妹。 |  |
 | tsushima zan | 津嶋ザン |  |  |
 | tsuda nanafushi | 津田七节 |  |  |
 | tokuni mirashichi | 戸国みらしち |  |  |
