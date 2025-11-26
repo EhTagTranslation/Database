@@ -759,7 +759,7 @@ example:
 | julia | 茱莉亚 |  |  |
 | sayoko takayama | 高山纱代子 |  |  |
 | kotoha tanaka | 田中琴叶 |  |  |
-| tomoka tenkubashi | 天空桥朋花 |  |  |
+| tomoka tenkubashi | 天空桥朋花 | ![](https://img.moegirl.org.cn/common/5/5e/イノセントガーデン_天空橋朋花%2B.png)<br>日语：天空橋朋花（てんくうばし ともか）<br>所属作品: `p:the idolmaster` 百万现场 | [萌娘百科](https://zh.moegirl.org.cn/天空桥朋花) |
 | serika hakozaki | 箱崎星梨花 |  |  |
 | arisa matsuda | 松田亚利沙 |  |  |
 | shizuka mogami | 最上静香 | ![](https://img.moegirl.org.cn/common/2/25/光輝く星のように_最上静香%2B.png)<br>所属作品：`the idolmaster`<br>偶像大师百万LIVE登场偶像。 |  |
