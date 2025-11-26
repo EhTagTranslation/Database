@@ -14421,6 +14421,7 @@ example:
 | shirotobi | しろとび |  |  |
 | ubuo | うぶお |  |  |
 | re shimashima | Re:しましま |  |  |
+| takashiro go-ya | 高城ごーや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
