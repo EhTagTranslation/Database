@@ -559,7 +559,7 @@ example:
 | haruka amami | 天海春香 |  |  |
 | chihaya kisaragi | 如月千早 |  |  |
 | yukiho hagiwara | 萩原雪步 |  |  |
-| yayoi takatsuki | 高槻弥生 | 唔唔唔~~！ε٩(๑> ₃ <)۶з<br>![高槻弥生](https://tse1-mm.cn.bing.net/th?id=OIP.M969d49ac2871c295b5acd933325b76f7o0&w=100&h=148&c=7&rs=1&qlt=90&o=4&pid=1.1) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg") |  |
+| yayoi takatsuki | 高槻弥生 | ![高槻弥生](https://img.moegirl.org.cn/common/9/9b/カラフルファクトリー_高槻やよい%2B.png) ![高槻弥生](# "https://ehgt.org/4e/3f/4e3f794c31daa6bf8250e4d0f9637ad870263eaf-531191-960-1420-jpg_l.jpg")<br>所属作品：`the idolmaster`<br>唔唔唔~~！ε٩(๑> ₃ <)۶з | [萌娘百科](https://zh.moegirl.org.cn/高槻弥生) |
 | kasumi takatsuki | 高槻霞 |  |  |
 | ritsuko akizuki | 秋月律子 |  |  |
 | azusa miura | 三浦梓 |  |  |
