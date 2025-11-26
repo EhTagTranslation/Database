@@ -3408,7 +3408,7 @@ example:
 | migihaji | 右端 |  |  |
 | miyoshino | みよしの |  | [X](https://x.com/miyosino) [pixiv](https://www.pixiv.net/users/427271) |
 | omochi monaka | おもち もなか |  | [X](https://x.com/monaka_0326_) [pixiv](https://www.pixiv.net/users/19542913) |
-| ootsuka reika | 大塚麗夏 |  |  |
+| ootsuka reika | 大塚丽夏 |  |  |
 | zanka | ざんか |  |  |
 | ashizuki | アシズキ |  |  |
 | abe nattou | あべなっつ |  |  |
