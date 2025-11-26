@@ -1230,7 +1230,7 @@ example:
 | sephie michaela deviluke | 赛菲·米卡埃拉·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/11/21/14/50/59/124497875_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>戴比路克王奇多的妻子，菈菈、娜娜、梦梦的母亲。宇宙中最美貌的种族“查姆人”的最后的末裔，拥有着能让任何男性看到自己的容颜就会失去理智的能力。 | [萌娘百科](https://zh.moegirl.org.cn/赛菲·米卡埃拉·戴比路克) |
 | tearju lunatique | 提亚悠·鲁娜提克 | 所属作品：`to love-ru`<br>![](https://ehgt.org/w/02/079/82883-ak1tbqqm.webp) |  |
 | run elsie jewelria | 伦·艾尔西·裘利亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/21/02/32/09/134135505_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>梅莫鲁西星人的王族，出生时男女二人两性共生，具有男女个性与肉体的转换能力。能够和连进行脑内对话。在地球时只要打个喷嚏就会性转换。（成年后两性别会分开） | [萌娘百科](https://zh.moegirl.org.cn/露恩·艾尔西·裘利亚) |
-| risa momioka | 籾冈里纱 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/16/23/28/33/132774906_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>爱好猥亵的话语和动作，是平凡而又自由散漫的高中女生，平时与泽田未央和西连寺春菜一起行动。在教室里的时候，菈菈和小静也会一起聊天。 | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
+| risa momioka | 籾冈里纱 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/16/23/28/33/132774906_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>爱好猥亵的话语和动作，是平凡而又自由散漫的高中女生。 | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
 | mio sawada | 泽田未央 | ![](https://ehgt.org/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |  |
 | oshizu murasame | 村雨静 | ![](https://ehgt.org/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |  |
 | kyouko kirisaki | 雾崎恭子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/00/10/35/134914417_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>高中三年级学生，是当红偶像，活跃于演艺界第一线，主打清纯形象，并以唱歌及演戏领域为主轴发展。 | [萌娘百科](https://zh.moegirl.org.cn/雾崎恭子%28出包王女%29#) |
