@@ -1234,7 +1234,7 @@ example:
 | mio sawada | 泽田未央 | ![](https://ehgt.org/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |  |
 | oshizu murasame | 村雨静 | ![](https://ehgt.org/42/35/423548294facb63485db072b24ba4a272fe8505b-578867-1550-2246-jpg_l.jpg) |  |
 | kyouko kirisaki | 雾崎恭子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/00/10/35/134914417_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>高中三年级学生，是当红偶像，活跃于演艺界第一线，主打清纯形象，并以唱歌及演戏领域为主轴发展。 | [萌娘百科](https://zh.moegirl.org.cn/雾崎恭子%28出包王女%29#) |
-| kenichi saruyama | 猿山健一 | ![](https://www.tbs.co.jp/anime/to-love-ru/04chara/images/chara_img07.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的同班同学、好友，也是最初唯一知道梨斗喜欢西连寺春菜的人。喜欢女孩子，爱好女色。 | [萌娘百科](https://zh.moegirl.org.cn/猿山健一) |
+| kenichi saruyama | 猿山健一 | ![](https://www.tbs.co.jp/anime/to-love-ru/04chara/images/chara_img07.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的同班同学、好友。喜欢女孩子，爱好女色。 | [萌娘百科](https://zh.moegirl.org.cn/猿山健一) |
 | shizu murasame | 村雨静 |  |  |
 |  | ▼ 食戟之灵 角色 |  |  |
 | erina nakiri | 薙切绘理奈 | ![](https://img.moegirl.org.cn/common/3/3b/Nakiri_erina_side.png)<br>所属作品：`shokugeki no soma`<br>远月学园高等部一年学生。远月学园总帅的孙女。“远月十杰评议会”第十席。现为新的远月总帅。 | [萌娘百科](https://zh.moegirl.org.cn/薙切绘里奈) |
