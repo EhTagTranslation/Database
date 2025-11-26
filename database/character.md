@@ -7600,6 +7600,7 @@ example:
 | dreizehn | 德莱茨茵 | ![](https://static.wikia.nocookie.net/shadowverse/images/b/bd/Dreizehn_model.png/revision/latest?cb=20250612211634)<br>所属游戏：`shadowverse` 超凡世界 | [https://shadowverse-wb.com/chs/](https://shadowverse-wb.com/chs/)<br>[百度百科](https://baike.baidu.com/item/德莱茨茵/66337723) |
 | malkuth | Malkuth | ![](https://img.moegirl.org.cn/common/8/8c/Malkuth_废墟图书馆.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为控制部Sephirah，在废墟图书馆为历史层指定司书。 | [萌娘百科](https://zh.moegirl.org.cn/Malkuth)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Malkuth) |
 | sugar lights | 砂糖灯 | 所属作品：`uma musume pretty derby`<br>特雷森学园的‌轮椅研究员，擅长‌机械马娘开发。 |  |
+| hikari tsuneki | 常木耀 | 所属作品：`seiren`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/ea/31/48336_crt_sp61l.jpg?r=1705234054) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
