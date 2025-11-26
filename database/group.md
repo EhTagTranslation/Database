@@ -13461,6 +13461,7 @@ example:
 | ubuoya | うぶお屋 |  |  |
 | gin eiji | 銀エイジ | `a:gin eiji`使用的同人社团名 |  |
 | studio m3 | studio えむすり |  |  |
+| miura koudai | 三浦鋼大 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
