@@ -14422,6 +14422,7 @@ example:
 | ubuo | うぶお |  |  |
 | re shimashima | Re:しましま |  |  |
 | takashiro go-ya | 高城ごーや |  |  |
+| yonesuke | よねすけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
