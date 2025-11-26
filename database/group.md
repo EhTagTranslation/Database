@@ -13464,6 +13464,7 @@ example:
 | miura koudai | 三浦鋼大 |  |  |
 | doron | どろん |  |  |
 | emuo koubou | えむお工房 |  |  |
+| kuishinbou | くいしん房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
