@@ -458,7 +458,7 @@ example:
 | umikaze | 海风(菪) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/203870b7cfb0aa82aca72f95af56e5c1262400697.png) | [舰队Collection:海风](https://zh.moegirl.org.cn/舰队Collection:海风) |
 | kawakaze | 江风 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/caf7a3b2f84badad9a14abfd9aa37e6e262400697.png) | [碧蓝航线:江风](https://zh.moegirl.org.cn/碧蓝航线:江风) [舰队Collection:江风](https://zh.moegirl.org.cn/舰队Collection:江风) |
 | hayasui | 速吸 |  | [舰队Collection:速吸](https://zh.moegirl.org.cn/舰队Collection:速吸) |
-| kashima | 鹿岛 | ![](https://i.pixiv.cat/img-original/img/2015/11/23/19/44/58/53705488_p0.jpg) | [舰队Collection:鹿岛](https://zh.moegirl.org.cn/舰队Collection:鹿岛) |
+| kashima | 鹿岛 | ![](https://i.pixiv.cat/img-original/img/2015/11/23/19/44/58/53705488_p0.jpg)<br>鹿島（かしま） | [舰队Collection:鹿岛](https://zh.moegirl.org.cn/舰队Collection:鹿岛) |
 | kamikaze | 神风(榊) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/bd105bbdc588d4236809f070a48f8b49262400697.png)<br>旧日本帝国海军的神风号驱逐舰（神風(2代神風型駆逐艦)） | [碧蓝航线:神风](https://zh.moegirl.org.cn/碧蓝航线:神风) [舰队Collection:神风](https://zh.moegirl.org.cn/舰队Collection:神风) |
 | asakaze | 朝风 |  | [舰队Collection:朝风](https://zh.moegirl.org.cn/舰队Collection:朝风) |
 | harukaze | 春风 |  | [舰队Collection:春风](https://zh.moegirl.org.cn/舰队Collection:春风) |
