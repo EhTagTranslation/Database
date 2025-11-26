@@ -12517,7 +12517,7 @@ example:
 | jikahatsudensho | 自家发电处 |  |  |
 | signal violet | Signal:Violet |  |  |
 | me no sato | 芽の里 |  |  |
-| shuukyuu 8-ka | 週休8日 |  |  |
+| shuukyuu 8-ka | 周休八日 |  |  |
 | sagamiokiva | さがみおきば |  | [DLsite](https://www.dlsite.com/maniax-touch/circle/profile/=/from/work.maker/maker_id/RG45062.html) |
 | bochi bochi no ki | ぼちぼちの木 |  |  |
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
