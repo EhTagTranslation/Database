@@ -7598,6 +7598,7 @@ example:
 | shirayuki himeji | 姬路白雪 | 所属作品：`liar liar`<br>![](https://img.moegirl.org.cn/common/c/c9/Himeji_Shirayuki_Ikasama_Maid.jpg)<br>篠原绯吕斗的辅佐班底“Company”的领袖。为了在决斗（Game）中的胜利而进行专攻欺诈的战术指导。作为照料起居的女仆也同住在家中。 |  |
 | zhao | 照 | 照是由米哈游所制作的游戏`p:zenless zone zero`及其衍生作品的登场角色。<br>![](https://patchwiki.biligame.com/images/zzz/thumb/9/92/7mo4nox1d7fn7ds7kwf0ewch2lvkmg2.png/463px-角色立绘-照-官方介绍.png) | [萌娘百科](https://zh.moegirl.org.cn/照) |
 | dreizehn | 德莱茨茵 | ![](https://static.wikia.nocookie.net/shadowverse/images/b/bd/Dreizehn_model.png/revision/latest?cb=20250612211634)<br>所属游戏：`shadowverse` 超凡世界 | [https://shadowverse-wb.com/chs/](https://shadowverse-wb.com/chs/)<br>[百度百科](https://baike.baidu.com/item/德莱茨茵/66337723) |
+| malkuth | Malkuth | ![](https://img.moegirl.org.cn/common/8/8c/Malkuth_废墟图书馆.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为控制部Sephirah，在废墟图书馆为历史层指定司书。 | [萌娘百科](https://zh.moegirl.org.cn/Malkuth)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Malkuth) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
