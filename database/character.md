@@ -1554,7 +1554,7 @@ example:
 | shinichi chiaki | 千秋真一 |  |  |
 |  | ▼ 天才麻将少女 |  |  |
 | saki miyanaga | 宫永咲 |  |  |
-| nodoka haramura | 原村和 |  |  |
+| nodoka haramura | 原村和 | ![](https://img.moegirl.org.cn/common/4/43/Chara_kiyosumi_nodoka.png)<br>日语：はらむら のどか<br>登场于：`p:saki` | [萌娘百科](https://zh.moegirl.org.cn/原村和) |
 | yuuki kataoka | 片冈优希 |  |  |
 | mako someya | 染谷真子 |  |  |
 | hisa takei | 竹井久 |  |  |
