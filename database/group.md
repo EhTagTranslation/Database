@@ -13466,6 +13466,7 @@ example:
 | emuo koubou | えむお工房 |  |  |
 | kuishinbou | くいしん房 |  |  |
 | sanman sanzen koiking | 三万三千こいきんぐ |  |  |
+| kitsunetsuki | きつねつき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
