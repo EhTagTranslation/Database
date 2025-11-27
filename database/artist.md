@@ -14423,6 +14423,7 @@ example:
 | re shimashima | Re:しましま |  |  |
 | takashiro go-ya | 高城ごーや |  |  |
 | yonesuke | よねすけ |  |  |
+| kotora nue | 狐虎ぬえ |  | [pixiv](https://www.pixiv.net/users/4503734) |
 
 <!--TEMPLATE:
 |  |  |  |  |
