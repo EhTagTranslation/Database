@@ -2788,7 +2788,7 @@ example:
 | umekiti | うめきち |  | [pixiv](https://www.pixiv.net/users/464758) [X](https://x.com/umeckiti2) |
 | onaka emi | 小中えみ |  |  |
 | bobobo | ボボボ |  |  |
-| okinaga umanosuke | 翁贺马乃助 |  | [X](https://x.com/Okinaga_UMA) [pixiv](https://www.pixiv.net/users/13499021) |
+| okinaga umanosuke | 翁贺马乃助 | 翁賀馬乃助 | [X](https://x.com/Okinaga_UMA) [pixiv](https://www.pixiv.net/users/13499021) |
 | yoikono tt | ヨイコノtt |  |  |
 | gosaiji | ごさいじ |  |  |
 | rokkotsu | 肋骨 |  |  |
