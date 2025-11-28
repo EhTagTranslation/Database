@@ -14428,6 +14428,7 @@ example:
 | mayutsuba mono | 眉唾モノ |  |  |
 | yug | YUG |  |  |
 | pokeeti | PokeEti |  |  |
+| panda shizuku | パンダシズク |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
