@@ -4617,7 +4617,7 @@ example:
 | silver wolf | 银狼 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/3f/oy6o9fm6o0rrcwzs9gvgc4rfhvejcts.png/1050px-银狼立绘.png)<br>所属作品：`honkai star rail`<br>将宇宙视为游戏的超级骇客。<br>无论怎样棘手的防御系统，银狼都能轻松破解。她与「天才俱乐部」螺丝咕姆的数据攻防战，现已成为骇客界的传说。 | [萌娘百科](https://zh.moegirl.org.cn/银狼) |
 | moka akashiya | 赤夜萌香 |  |  |
 | kurumu kurono | 黑乃胡梦 |  |  |
-| mizore shirayuki | 白雪霙 |  |  |
+| mizore shirayuki | 白雪霙 | ![](https://ehgt.org/w/02/130/82532-irph0erh.webp)<br>所属作品：`hibike euphonium` |  |
 | nagisa kirifuji | 桐藤渚 | 所属作品：`p:blue archive`<br>圣三一学园所属，组成圣三一学生联盟的领袖，也是学生会“茶话会”的主持者。<br>![](https://img.moegirl.org.cn/common/e/e1/BA_Nagisa.png)<br>![](https://img.moegirl.org.cn/common/d/d9/BA_Nagisa_Swimsuit.png) | [萌娘百科](https://zh.moegirl.org.cn/桐藤渚) |
 | fu xuan | 符玄 | ![](https://patchwiki.biligame.com/images/sr/thumb/6/61/7l1pfiibrkrb7n8snk8m8yqrcplzo60.png/1050px-符玄立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」太卜司之首，自信耿直的智者。<br>凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶，坚信自己所做的一切便是事情的「最优解」。 | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
 | qingque | 青雀 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/7a/owzniqqsb9gqy1hckv3nhuiwye76k6j.png/1050px-青雀立绘.png)<br>所属作品：`honkai star rail`<br>太卜司的普通卜者，在「忙里偷闲」这件事上绝不偷闲。 | [萌娘百科](https://zh.moegirl.org.cn/青雀) |
