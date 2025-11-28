@@ -14425,6 +14425,7 @@ example:
 | yonesuke | よねすけ |  |  |
 | kotora nue | 狐虎ぬえ |  | [pixiv](https://www.pixiv.net/users/4503734) |
 | negita shio | 葱田盐 |  |  |
+| mayutsuba mono | 眉唾モノ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
