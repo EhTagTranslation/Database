@@ -4674,7 +4674,7 @@ example:
 | honami mochizuki | 望月穗波 |  |  |
 | ichika hoshino | 星乃一歌 |  |  |
 | kohane azusawa | 小豆泽心羽 |  |  |
-| minori hanasato | 花里实乃理 |  |  |
+| minori hanasato | 花里实乃理 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c3/Sekai_minori01.png)<br>所属作品：`project sekai`<br>宫益坂女子学园的一年级生，是MORE MORE JUMP!的一员。 |  |
 | nene kusanagi | 草薙宁宁 |  |  |
 | rui kamishiro | 神代类 |  |  |
 | saki tenma | 天马咲希 |  |  |
