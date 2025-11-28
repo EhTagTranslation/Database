@@ -14429,6 +14429,7 @@ example:
 | yug | YUG |  |  |
 | pokeeti | PokeEti |  |  |
 | panda shizuku | パンダシズク |  |  |
+| chiyori | ちより |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
