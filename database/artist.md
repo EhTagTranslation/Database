@@ -14427,6 +14427,7 @@ example:
 | negita shio | 葱田盐 |  |  |
 | mayutsuba mono | 眉唾モノ |  |  |
 | yug | YUG |  |  |
+| pokeeti | PokeEti |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
