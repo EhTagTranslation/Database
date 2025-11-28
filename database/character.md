@@ -7601,6 +7601,7 @@ example:
 | malkuth | Malkuth | ![](https://img.moegirl.org.cn/common/8/8c/Malkuth_废墟图书馆.png)<br>登场于`lobotomy corporation`与`library of ruina`。<br><br>在脑叶公司为控制部Sephirah，在废墟图书馆为历史层指定司书。 | [萌娘百科](https://zh.moegirl.org.cn/Malkuth)<br>[灰机wiki](https://libraryofruina.huijiwiki.com/wiki/Malkuth) |
 | sugar lights | 砂糖灯 | 所属作品：`uma musume pretty derby`<br>特雷森学园的‌轮椅研究员，擅长‌机械马娘开发。 |  |
 | hikari tsuneki | 常木耀 | 所属作品：`seiren`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/ea/31/48336_crt_sp61l.jpg?r=1705234054) |  |
+| alice lendrott | 爱丽丝·兰德洛特 | ![](https://ehgt.org/w/01/996/02392-n9q4hsbu.webp)<br>所属作品：`shinigami bocchan to kuro maid`<br>作为本馆女仆长独生女，她自两年前起以黑女仆身份侍奉被诅咒的“死神少爷”，表面以俏皮言行实施逆性骚扰，实则暗藏深切关怀与真挚爱意。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
