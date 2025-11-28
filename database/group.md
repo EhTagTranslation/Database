@@ -13468,6 +13468,7 @@ example:
 | sanman sanzen koiking | 三万三千こいきんぐ |  |  |
 | kitsunetsuki | きつねつき |  |  |
 | chiyori koubou | ちより工房 |  |  |
+| amanoshima | 雨乃島 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
