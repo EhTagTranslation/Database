@@ -7618,6 +7618,7 @@ example:
 | karma | 卡尔玛（天启者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/a2/bpszzr545b8n5taxnanh4th5y0mhkb1.jpg) |  |
 | veigar | 维迦（邪恶小法师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/ea/grmua3042vedxg90txvnxfrj9ntxsw2.jpg) |  |
 | shyvana | 希瓦娜（龙血武姬） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/09/qiudb1wnakkf2txtkggm4c0hdbzaos0.jpg) |  |
+| garen | 盖伦（德玛西亚之力） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/44/3uo4zylswypf3iipi0q5rxvypi8e7zp.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
