@@ -7639,6 +7639,7 @@ example:
 | willump | 威朗普 | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/3/39/jqyj9gn9rzvpdfr3vn4tst9rq8srptg.jpg)<br>大的那个是威朗普，小的是努努 |  |
 | dr. mundo | 蒙多医生（祖安狂人） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4c/9ovljdoz7syb70mi9l0zbp9jdek0af0.jpg) |  |
 | jayce | 杰斯（未来守护者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4d/nue71nfr8tmgki9u8hfo8tln67qu2md.jpg) |  |
+| viego | 佛耶戈（破败之王） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Viego_OriginalSkin.jpg?9cc8c) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
