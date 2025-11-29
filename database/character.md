@@ -5612,7 +5612,7 @@ example:
 | d killer wife | D:杀手妻子 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/103682/2025/3/15/455881.png)<br>所属作品`p:goddess of victory nikke`<br>隶属企业：极乐净土<br>为了取得目标的情报，D伪装成年轻妻子。完美演绎了温柔贤淑的妻子角色。 | [Gamekee](https://www.gamekee.com/nikke/616356.html) [DotGG](https://dotgg.gg/nikke/characters/d-killer-wife) |
 | kanon konomori | 小之森夏音 | ![小之森夏音](https://lain.bgm.tv/pic/crt/l/d0/27/68237_crt_Zy4is.jpg?r=1551084625) |  |
 | kinako nanobana | 菜花黄名子 | ![](https://i.pixiv.cat/c/600x600/img-master/img/2013/01/11/00/33/42/32778460_p0_master1200.jpg) |  |
-| lulu | 璐璐 \| 露露 | ①璐璐（仙灵女巫）<br>![](https://patchwiki.biligame.com/images/lol/9/9b/el9mo6i4xgmjvd9en6vb40iirw6ln8u.jpg)<br>②露露<br>史克威尔·艾尼克斯发行的游戏《`p:final fantasy x`》及其衍生作品中的角色，担任女主角尤娜的守护者，同时也是经验丰富的黑魔导士。 |  |
+| lulu | 璐璐 \| 露露 | ①璐璐（仙灵女巫）<br>![](https://patchwiki.biligame.com/images/lol/9/9b/el9mo6i4xgmjvd9en6vb40iirw6ln8u.jpg)<br>所属作品：`league of legends`<br>②露露<br>史克威尔·艾尼克斯发行的游戏《`p:final fantasy x`》及其衍生作品中的角色，担任女主角尤娜的守护者，同时也是经验丰富的黑魔导士。 |  |
 | koyori tanemura | 种村小依 | ![种村小依](https://lain.bgm.tv/pic/crt/l/aa/4b/68236_crt_4b62b.jpg?r=1547003421) |  |
 | tsukuyo inaba | 因幡月夜 | ![因幡月夜](https://static.wikia.nocookie.net/busou-shoujo-machiavellianism/images/4/4e/Inaba.jpg/revision/latest/scale-to-width-down/1000?cb=20180903082844) | [YouTube](https://www.youtube.com/watch?v=2HBPHNlW_D4) |
 | eunhwa | 银华 | ![银华立绘](https://static.dotgg.gg/nikke/characters/c092_00.png)<br>所属作品：`goddess of victory nikke`<br>隶属企业：极乐净土<br>傲慢而又冷漠的特种部队队长。<br>靠着追求完美的性格，带领特种部队取得最强的地位。 | [Gamekee](https://www.gamekee.com/nikke/152338.html) [DotGG](https://dotgg.gg/nikke/characters/eunhwa) |
