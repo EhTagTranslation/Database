@@ -14430,6 +14430,7 @@ example:
 | pokeeti | PokeEti |  |  |
 | panda shizuku | パンダシズク |  |  |
 | chiyori | ちより |  |  |
+| hattori psycho | 這禽サイコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
