@@ -7608,6 +7608,7 @@ example:
 | leblanc | 勒布朗（FFX-2） | 所属作品：`final fantasy x-2`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/c/c6/LeBlanc.png) |  |
 | ezreal | 伊泽瑞尔（探险家） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/e9/npxc7aldmpnl5nr79jlt4h2wzcjfewv.jpg) |  |
 | fiora | 菲奥娜（无双剑姬） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/a3/lvd233fqb8ngbjv9d4stdp25v0u1efy.jpg) |  |
+| zyra | 婕拉（荆棘之兴） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/6/63/jo42mpyue7yztvyfi7zh2t0me6759on.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
