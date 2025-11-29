@@ -3883,7 +3883,7 @@ example:
 | sukuna | 两面宿傩 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/两面宿傩) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) |
 | yuuji itadori | 虎杖悠仁 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/虎杖悠仁) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori) [维基百科（英语）](https://en.wikipedia.org/wiki/Yuji_Itadori) |
 | megumi fushiguro | 伏黑惠 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/伏黑惠) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro) [维基百科（英语）](https://en.wikipedia.org/wiki/Megumi_Fushiguro) |
-| caitlyn | 凯特琳 | 皮城女警·凯特琳，是MOBA竞技网游《英雄联盟》及其衍生作品中的一名英雄角色，英雄定位为射手。 | [百度百科](https://baike.baidu.com/item/皮城女警/7770355) |
+| caitlyn | 凯特琳（皮城女警） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/18/8cgeiu1rj2jn4jvh4q0y3aj2patcmbt.jpg) | [百度百科](https://baike.baidu.com/item/皮城女警/7770355) |
 | nikaido | 二阶堂 |  |  |
 | reno | 里诺 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/504a1bd65673f2b3ef34fd97fa54af15262400697.png) |  |
 | aegir | 埃吉尔 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/article/ca6b38eaadcc36706c08f778b2ac37bcf7b1911d.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/bf791a8f472a1e50ac3bb9b7932e2fa5262400697.png) |  |
