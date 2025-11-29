@@ -7634,6 +7634,7 @@ example:
 | milio | 米利欧（明烛） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Milio_OriginalSkin.jpg?10b5b) |  |
 | draven | 德莱文（荣耀行刑官） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/2/29/6n9bg9vfxq0qfgbuv3dyhpzx08s19uw.jpg) |  |
 | illaoi | 俄洛伊（海兽祭司） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/dd/52hzageshv31mfwdxe7cz6k6jpak29t.jpg) |  |
+| sett | 瑟提（腕豪） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/17/gr69f33g42rbdtr74njd4kiexjv5r8g.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
