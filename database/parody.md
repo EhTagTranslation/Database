@@ -2623,6 +2623,7 @@ example:
 | gen 13 | 创世13 | 《创世13》是由Kevin Altieri执导的动画科幻动作电影，于2000年10月31日在美国上映，片长90分钟。 | [百度百科](https://baike.baidu.com/item/创世13/65206068)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Gen13) |
 | kaze no stigma | 风之圣痕 |  | [萌娘百科](https://zh.moegirl.org.cn/风之圣痕) |
 | rin x sen hakudaku onna kyoushi to yaroudomo | Rin X Sen 白浊女教师和男同事们 | ![](https://ehgt.org/d9/86/d986aad0e137b75898f9ea3525276f69490e6d70-100510-389-560-jpg_250.jpg) |  |
+| keikenzumi na kimi to keiken zero na ore ga otsukiai suru hanashi. | 位于恋爱光谱极端的我们 | ![](https://img9.doubanio.com/view/subject/s/public/s33998145.jpg)<br>《位于恋爱光谱极端的我们》是日本作家长冈マキ子创作、magako负责插画的校园恋爱轻小说。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
