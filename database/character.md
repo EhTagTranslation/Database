@@ -7635,6 +7635,7 @@ example:
 | draven | 德莱文（荣耀行刑官） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/2/29/6n9bg9vfxq0qfgbuv3dyhpzx08s19uw.jpg) |  |
 | illaoi | 俄洛伊（海兽祭司） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/dd/52hzageshv31mfwdxe7cz6k6jpak29t.jpg) |  |
 | sett | 瑟提（腕豪） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/17/gr69f33g42rbdtr74njd4kiexjv5r8g.jpg) |  |
+| darius | 德莱厄斯（诺克萨斯之手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/1a/awwl2a5t522lxynvihh7ijcqbbn2uxq.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
