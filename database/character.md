@@ -7614,6 +7614,7 @@ example:
 | trundle | 特朗德尔（巨魔之王） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/92/8nz6fuy40nnh8eosbhb4zrwd57j7c6x.jpg) |  |
 | shauna vayne | 薇恩（暗夜猎手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/83/top6hszd7ppynecksmx5f2vps879e3n.jpg) |  |
 | kayle | 凯尔（正义天使） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/cd/g65jnzy4gq32v5v6f3lc8sh2pcw1aoa.jpg) |  |
+| quinn | 奎因（德玛西亚之翼） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/8a/0bd36bbjk8mzsgqaenhf37czgxyccu7.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
