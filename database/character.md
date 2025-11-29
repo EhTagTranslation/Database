@@ -7612,6 +7612,7 @@ example:
 | lissandra | 丽桑卓（冰霜女巫） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/3/3b/59nil5tep09xz8x11hprd9poligy732.jpg)<br>![](https://patchwiki.biligame.com/images/lol/5/53/tbks0asby7ugrlva3z1i4i71vsududq.jpg) |  |
 | sejuani | 瑟庄妮（北地之怒） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/2/20/71o91eb8hl9516ulgfnmvldbie9ggme.jpg) |  |
 | trundle | 特朗德尔（巨魔之王） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/92/8nz6fuy40nnh8eosbhb4zrwd57j7c6x.jpg) |  |
+| shauna vayne | 薇恩（暗夜猎手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/83/top6hszd7ppynecksmx5f2vps879e3n.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
