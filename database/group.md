@@ -13469,6 +13469,7 @@ example:
 | kitsunetsuki | きつねつき |  |  |
 | chiyori koubou | ちより工房 |  |  |
 | amanoshima | 雨乃島 |  |  |
+| plateau soft | ぷらとぉそふと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
