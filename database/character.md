@@ -3395,7 +3395,7 @@ example:
 | char aznable | 夏亚·阿兹纳布 |  |  |
 | quess paraya | 葵司 |  |  |
 | alcina dimitrescu | 阿契娜·蒂米特雷斯库 | ![阿契娜·蒂米特雷斯库](https://upload.wikimedia.org/wikipedia/en/e/e2/Lady_Dimitrescu.png)<br>游戏《生化危机 村庄》的主要角色之一。 | [维基百科](https://zh.wikipedia.org/wiki/蒂米特雷斯庫夫人) |
-| akali | 阿卡丽 | 英雄联盟角色 |  |
+| akali | 阿卡丽（离群之刺） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/9c/ixsaoyhu3myr545tcc4kc7i6pfrow7y.jpg) |  |
 | misae nohara | 野原美伢 |  |  |
 | shinnosuke nohara | 野原新之助 |  |  |
 | hiroshi nohara | 野原广志 |  |  |
