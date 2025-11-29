@@ -6777,7 +6777,7 @@ example:
 | ayano kosaka | 香坂绫乃 | ![](https://patchwiki.biligame.com/images/loststories/0/00/1vj90i9etpzei45ecdno6uerx0vor5w.png)<br>所属作品：`code geass` | [Fandom](https://codegeass.fandom.com/wiki/Ayano_Kosaka) |
 | syndra | 辛德拉（暗黑元首） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/5/50/7fy0tpg0bpzmpbnyuntjuld7xk5ffdr.jpg)<br>![](https://patchwiki.biligame.com/images/lol/b/bd/lcypt54vf6mtkr6arrfchstpnipzwx6.jpg)<br>星之守护者皮肤 |  |
 | hakuryuu | 白龙(鹫) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/55dce64a0582019982937dc0fcecf3cd262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白龙) |
-| irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：英雄联盟 |  |
+| irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/14/k1whi3llpxnx3ffqj2acp7mv2jsua80.jpg) |  |
 | sovetskaya belorussiya | 苏维埃贝拉罗斯 | 所属作品: `p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/18608d5c23941a57431d3bc1edaf934f262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/4bb25452edbee1192e628d34e6a5e5cc262400697.png)<br>![](https://i0.hdslb.com/bfs/new_dyn/0db283b62c8cc218b05fc50ec3b1aea9262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃贝拉罗斯) |
 | sovetsky soyuz | 苏维埃罗西亚 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/997cde8d66f7cc9c8cd9afb5ad421001262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/af316e5520eeef424a2c414e4afa0303262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃罗西亚) |
 | prinz adalbert | 阿达尔伯特亲王 \| 阿德莉娅亲王 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/9110ed7816a0babb171b6d91a5a2cad0262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/阿达尔伯特亲王) |
