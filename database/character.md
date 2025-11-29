@@ -4558,7 +4558,7 @@ example:
 | vex | 薇古丝 |  |  |
 | yuu nishinoya | 西谷夕 |  |  |
 | asahi azumane | 东峰旭 |  |  |
-| zoe | 佐伊 |  |  |
+| zoe | 佐伊（暮光星灵） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/45/01v4awh7fps2uerm4sd5x3bpyte06wu.jpg) |  |
 | annie | 安妮 |  |  |
 | yanagi uzaki | 宇崎柳 |  |  |
 | baiken | 梅喧 |  |  |
