@@ -4553,7 +4553,7 @@ example:
 | stelle | 星（开拓者） | 星是《`honkai star rail`》的登场角色。<br><br>登上星穹列车的少年/少女。<br>为了消除星核带来的危机，选择与星穹列车同行。 | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
 | clara | 克拉拉 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/39/dt3rplvxk077if901sriml8jn6hxgw0.png/1050px-克拉拉立绘.png)<br>所属作品：`honkai star rail`<br>被机器人养大的女孩，有着超越年龄的通透和坚持。 | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28星穹铁道%29) |
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
-| neeko | 妮蔻 |  | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
+| neeko | 妮蔻（万花通灵） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/1c/n8v5x42s6k5jtib5m3khzcgplijmdt2.jpg)<br>![](https://patchwiki.biligame.com/images/lol/4/4a/4f82es50kll0rso9o3m20pnl8wrcduu.jpg)<br>星之守护者皮肤 | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 | nidalee | 奈德丽 |  | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
 | vex | 薇古丝 |  |  |
 | yuu nishinoya | 西谷夕 |  |  |
