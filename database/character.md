@@ -7623,6 +7623,7 @@ example:
 | ryze | 瑞兹（符文法师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/48/qhqltf4u8vm48wq8i4y0gzh33o9b4h4.jpg) |  |
 | tristana | 崔丝塔娜（麦林炮手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/eb/sdymfj8chicz7r633cpnquwc1xyg2rq.jpg) |  |
 | cassiopeia du couteau | 卡西奥佩娅（魔蛇之拥） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/f/f3/jb22jqbhmrhkt12sn6ajjmglxrdp9rt.jpg) |  |
+| fiddlesticks | 费德提克（远古恐惧） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/89/du81weo74rrw88g3okbku7bstryjrva.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
