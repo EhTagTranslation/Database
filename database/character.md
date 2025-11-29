@@ -7636,6 +7636,7 @@ example:
 | illaoi | 俄洛伊（海兽祭司） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/dd/52hzageshv31mfwdxe7cz6k6jpak29t.jpg) |  |
 | sett | 瑟提（腕豪） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/17/gr69f33g42rbdtr74njd4kiexjv5r8g.jpg) |  |
 | darius | 德莱厄斯（诺克萨斯之手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/1a/awwl2a5t522lxynvihh7ijcqbbn2uxq.jpg) |  |
+| willump | 威朗普 | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/3/39/jqyj9gn9rzvpdfr3vn4tst9rq8srptg.jpg)<br>大的那个是威朗普，小的是努努 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
