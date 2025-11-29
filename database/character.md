@@ -7318,7 +7318,7 @@ example:
 | klaudia valentz | 科洛蒂娅·巴兰茨 |  |  |
 | ruri tanigawa | 谷川琉璃 |  |  |
 | akane nonohara | 野野原茜 |  |  |
-| qiyana | 奇亚娜 | 所属作品：英雄联盟<br>元素女皇 |  |
+| qiyana | 奇亚娜（元素女皇） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/49/acq24x4te4jeh18mmeagv09nupzt4q4.jpg) |  |
 | xayah | 霞（逆羽） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/cb/3cz2d09twlljz2m26n7353irwugwxe4.jpg) |  |
 | elisabeth blanctorche | 伊丽莎白·布兰克托什 | 所属作品：`king of fighters`<br>遥远彼之地篇的女主角，以光拳术和严肃性格为特点。 |  |
 | ritsuka tachibana | 立华律香 |  |  |
