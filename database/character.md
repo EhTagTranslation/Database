@@ -7045,7 +7045,7 @@ example:
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
 | black wyrm | 黑龙S9 | ![](https://cdnimg-v2.gamekee.com/images/www/1639044419600_5948109.png)<br>所属作品：`last origin` |  |
 | alcyone | 阿尔库俄涅 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1916/h_1982/245/72324/2025/2/19/70916.png)<br>所属作品：`last origin` |  |
-| zeri | 泽丽 | 所属作品：`league of legends` |  |
+| zeri | 泽丽（祖安花火） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Zeri_OriginalSkin.jpg?d6d2c) |  |
 | yun ying | 云缨 | 所属作品：王者荣耀 |  |
 | chiho sasaki | 佐佐木千穗 | ![](https://img.moegirl.org.cn/common/7/75/35948628_p0.png)<br>所属作品：`hataraku maou-sama` |  |
 | emi yusa | 游佐惠美 | ![](https://ehgt.org/w/01/980/48945-8emu4zap.webp)<br>所属作品：`hataraku maou-sama` |  |
