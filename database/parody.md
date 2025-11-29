@@ -205,7 +205,7 @@ example:
 | brave witches | 无畏魔女 | ![](https://ehgt.org/d8/3d/d83d8d6e1311cbbd4b3e205e6db348d4b5b5f229-753411-1051-1494-jpg_l.jpg) |  |
 | strike witches | 强袭魔女 | ![](https://ehgt.org/bb/a8/bba849df4c0a42e8ab77ffc2041c965d36d9a2d9-927736-777-1087-jpg_l.jpg) |  |
 | kemono friends | 兽娘动物园 | 动物朋友、动物好友、兽娘动物园<br>![](https://ehgt.org/a2/bd/a2bda88699f5537b84ac994d8a9cbbfccc022b86-1281172-860-1220-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兽娘动物园) [维基百科](https://zh.wikipedia.org/wiki/動物朋友) |
-| league of legends | 英雄联盟 | ![](https://ehgt.org/c9/be/c9be450b137c14ce716219ec7ed7e0641ad6b919-909411-950-1342-jpg_l.jpg) |  |
+| league of legends | 英雄联盟 | ![](https://patchwiki.biligame.com/resources/assets/images/logo/logo_lol.png?t=2025112910&v=76)<br>《英雄联盟》（League of Legends，简称LOL）是由美国拳头游戏（Riot Games）开发、中国内地由腾讯游戏代理运营的英雄对战MOBA竞技网游。 |  |
 | kill la kill | 斩服少女 | ![](https://ehgt.org/f7/0b/f70b27bfb73bf24bbd6dcc263614962e457a17fd-2131451-3350-4746-jpg_l.jpg) |  |
 | dagashi kashi | 粗点心战争 | ![](https://ehgt.org/e1/fc/e1fce571fe182145db09d2b073f73f73cc91d3d1-1071761-1280-720-png_l.jpg) |  |
 | street fighter | 街头霸王 | ![](# "https://ehgt.org/b8/47/b847502ea4f37b1b9b6f5caf36f3e3be594875ee-818507-846-1197-jpg_l.jpg") |  |
