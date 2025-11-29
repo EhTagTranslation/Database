@@ -4787,7 +4787,7 @@ example:
 | heywood l.e. | 海伍德·L·E | 海伍德·L·爱德华兹号驱逐舰（USS Heywood L.Edwards，DD-663）属于美国海军的弗莱彻级驱逐舰子型舰。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Heywood%20L.E.) |
 | ranger | 突击者 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/7020be689907c040fdec87a4b49d5b67262400697.png) | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Ranger) |
 | janus | 雅努斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/3453f5def7ea2a8b0400a25e22963df1262400697.png) | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Janus)<br>[舰队Collection:雅努斯](https://zh.moegirl.org.cn/舰队Collection:雅努斯) |
-| ornn | 奥恩 | 英雄联盟角色 | [百度百科](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
+| ornn | 奥恩（山隐之焰） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/b/b7/myc0kwpryz1b7s5gs5yayrrp35uwuy8.jpg) | [百度百科](https://baike.baidu.com/item/山隐之焰/22069139?fr=ge_ala) |
 | chong yue | 重岳 | ![](https://patchwiki.biligame.com/images/arknights/8/8d/g5s6n4scct8j1keesbikx1g692dixk9.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:重岳) |
 | ethan | 伊桑 | ![](https://patchwiki.biligame.com/images/arknights/4/46/oyj0a79vjbzo8ennh4uzgfkpo8zoijk.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊桑) |
 | ren yamashiro | 山城恋 | ![](https://i.pixiv.cat/img-original/img/2025/04/04/11/19/36/128937174_p2.jpg)<br>所属作品：`mato seihei no slave` | [萌娘百科](https://zh.moegirl.org.cn/山城恋) |
