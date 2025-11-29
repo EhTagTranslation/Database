@@ -1021,7 +1021,7 @@ example:
 | winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) |  |
 | sombra | 黑影 |  |  |
 | ana | 安娜 |  |  |
-| ashe | 艾希 | ![](https://ehgt.org/w/01/444/23694-a9whozwq.webp)<br>所属作品：英雄联盟 |  |
+| ashe | 艾希（寒冰射手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/6/61/tvgec00yrctv1gz0nzj4tgbtcua4cs2.jpg) |  |
 |  | ▼ 光环 角色 |  |  |
 | cortana | 科塔娜 | ![](# "https://ehgt.org/6d/ce/6dceb29514597faae20a7c0ccf47b229266c526a-233291-1200-1800-jpg_l.jpg") |  |
 |  | ▼ 半衰期 角色 |  |  |
