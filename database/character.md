@@ -3984,7 +3984,7 @@ example:
 | clare | 克蕾雅 |  |  |
 | raki | 拉基 |  |  |
 | teresa | 泰蕾莎 |  |  |
-| samira | 莎弥拉 |  |  |
+| samira | 莎弥拉（沙漠玫瑰） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Samira_OriginalSkin.jpg?bb254) |  |
 | katarina du couteau | 卡特琳娜·杜·克卡奥 |  |  |
 | kaltsit | 凯尔希 | ![](https://patchwiki.biligame.com/images/arknights/d/d9/m18yr72amcd563yr1sovraze0srer0e.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/凯尔希) |
 | maho hiyajo | 比屋定真帆 | 比屋定真帆 ![](https://i0.hdslb.com/bfs/article/8e9412351c56c2abf0396b4d9525e9848c5a7321.jpg@750w_584h_progressive.webp) 是MAGES.所制作的游戏《命运石之门 0》及其衍生作品的登场角色。LabMem No.009，牧濑红莉栖所属大学的前辈研究员。Amadeus的红莉栖曾如此评价："我只不过是平凡之人的代表，真帆前辈才是真正的'上帝宠儿（Amadeus）'。” | [萌娘百科](https://zh.moegirl.org.cn/比屋定真帆) |
