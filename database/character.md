@@ -4799,7 +4799,7 @@ example:
 | tomoya mashiro | 真白友也 | 真白友也是《`p:ensemble stars`》里的人物之一。就读梦之咲学院一年A班，参加表演社，同时也是偶像团体“Ra✽bits”的成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/真白友也) [Fandom](https://character.fandom.com/zh/wiki/真白友也) |
 | constanze amalie von braunschbank-albrechtsberger | 康斯坦策·阿玛莉·冯·布朗施班克·阿尔布雷希茨贝格 | 所属作品: `p:little witch academia`<br><br>问题儿童三人组之一，身材矮小的德国少女。机械狂，经常违反校规改造机器，并且偷偷贩售。 | [萌娘百科](https://zh.moegirl.org.cn/康斯坦策·阿玛莉·冯·布朗施班克·阿尔布雷希茨贝格) |
 | kaori kyan | 喜屋武香织 |  |  |
-| janna | 迦娜 | 迦恩·阿蕾姆（简称迦娜）是网络游戏《英雄联盟》登场英雄。 | [风暴女神-迦娜](https://games.qq.com/tencent/lol/champions/janna.htm) |
+| janna | 迦娜（风暴之怒） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/3/39/fzuip5csvsid8dq33s7cl9lowtp5lpf.jpg)<br>![](https://patchwiki.biligame.com/images/lol/b/ba/6sobzdqtl2sghamv82466s4rirtcnmm.jpg)<br>星之守护者皮肤 | [风暴女神-迦娜](https://games.qq.com/tencent/lol/champions/janna.htm) |
 | fuyu fuiba | 风衣叶冬优 |  |  |
 | jia ran | 嘉然 | 嘉然是一名从2020年11月26日开始在bilibili及抖音活动的虚拟UP主，所属团体为虚拟偶像女团A-SOUL。<br>![](https://img.moegirl.org.cn/common/3/3c/嘉然Diana.jpg) | [萌娘百科](https://zh.moegirl.org.cn/嘉然) |
 | navia | 娜维娅 | 原神的同名角色请使用`navia caspar`，而非`navia`。 |  |
