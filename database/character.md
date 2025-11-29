@@ -4931,7 +4931,7 @@ example:
 | thorns | 棘刺 | ![](https://patchwiki.biligame.com/images/arknights/1/1c/idu9svvs99crsmkajsihry4wfvnhkxu.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:棘刺) |
 | issei hyoudou | 兵藤一诚 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兵藤一诚) |
 | chizuru shiina | 椎名千鹤 | 椎名 千鶴(しいな ちづる)<br>曲がったことが大嫌いな優等生。<br>優しくてカッコいい月野に恋をしている。 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html)<br>[ACDB WIKI](https://www.animecharactersdatabase.com/characters.php?id=115351) |
-| miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
+| miss fortune | 厄运小姐（赏金猎人） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4c/oy2duec0r75cdm5ujiwsxm4f1shu7de.jpg)<br>![](https://patchwiki.biligame.com/images/lol/8/80/s8hwa0e3fxp32smegqh3hh3vqb3w3t9.jpg)<br>星之守护者皮肤 |  |
 | riven | 锐雯（放逐之刃） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/aa/g0zovpqlwzewyk33wlxccef3lje0vl4.jpg)<br>![](https://patchwiki.biligame.com/images/lol/1/1f/5uacx9svvtm4x9h4q5oexr38itii2fv.jpg)<br>玉剑传说皮肤 |  |
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
 | xenovia quarta | 洁诺薇亚·夸塔 | 所属作品：`highschool dxd`<br>![](https://haremking.tv/character/images/7s.png) | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
