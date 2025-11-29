@@ -7607,7 +7607,7 @@ example:
 | mel medarda | 梅尔（流光镜影） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Mel_OriginalSkin.jpg?3533e)<br>![](https://wiki.leagueoflegends.com/en-us/images/Mel_ArcaneCouncilorSkin.jpg?11082) |  |
 | leblanc | 勒布朗（FFX-2） | 所属作品：`final fantasy x-2`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/c/c6/LeBlanc.png) |  |
 | ezreal | 伊泽瑞尔（探险家） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/e9/npxc7aldmpnl5nr79jlt4h2wzcjfewv.jpg) |  |
-| fiora | 菲奥娜（无双剑姬） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/a3/lvd233fqb8ngbjv9d4stdp25v0u1efy.jpg) |  |
+| fiora | fiora |  |  |
 | zyra | 婕拉（荆棘之兴） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/6/63/jo42mpyue7yztvyfi7zh2t0me6759on.jpg) |  |
 | lissandra | 丽桑卓（冰霜女巫） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/3/3b/59nil5tep09xz8x11hprd9poligy732.jpg)<br>![](https://patchwiki.biligame.com/images/lol/5/53/tbks0asby7ugrlva3z1i4i71vsududq.jpg) |  |
 | sejuani | 瑟庄妮（北地之怒） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/2/20/71o91eb8hl9516ulgfnmvldbie9ggme.jpg) |  |
