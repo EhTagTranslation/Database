@@ -7631,6 +7631,7 @@ example:
 | taliyah | 塔莉垭（岩雀） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/f/fe/g3a6096dvcaqesm7h6kg03nnci7o9q7.jpg) |  |
 | sivir | 希维尔（战争女神） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/d5/1uvbnra7qk3tuqial1v5ltzhye2gor5.jpg) |  |
 | annie hastur | 安妮（黑暗之女） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/9e/p2sx89n9ps7it80jsskdc40zv723e1s.jpg) |  |
+| milio | 米利欧（明烛） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Milio_OriginalSkin.jpg?10b5b) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
