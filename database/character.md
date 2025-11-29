@@ -7105,7 +7105,7 @@ example:
 | shylily | 夏莉莉 | ![](https://ehgt.org/w/01/210/53385-c7wcglj3.webp)<br>Shylily是一名在Twitch活动的英语系虚拟YouTuber |  |
 | killer frost | 冰霜杀手 |  |  |
 | cure spicy | 香辣天使 | ![](https://ehgt.org/w/02/045/16326-hvmitaou.webp)<br>所属作品：`delicious party precure`<br>代表属性为面包。中文名芙羽心音，日语名芙羽 ここね，别名Cure Spicy（香辣天使） |  |
-| emilia leblanc | 伊米利亚·勒布朗 | ![](https://ehgt.org/w/01/632/74169-ctixu7a7.webp)<br>所属作品：`league of legends`<br>外号诡术妖姬 |  |
+| emilia leblanc | 乐芙兰（诡术妖姬） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/7/7c/n3le4djpiy6j93g8c960x5ceqv3xwes.jpg)<br>![](https://patchwiki.biligame.com/images/lol/1/12/arwogjvipda9gi1jpr1f1eox2nhauja.jpg)<br>IG皮肤 |  |
 | haruka niimi | 新见遥佳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/23/05/18/135962257_p0_master1200.jpg)<br>所属作品：`photo kano` |  |
 | tokiko fuuma | 风魔时子 |  |  |
 | kurenai shinganji | 心愿寺红 | ![](https://static.wikia.nocookie.net/taimanin/images/f/f2/Shinganji_Kurenai_4.png)<br>所属作品：`taimanin asagi` |  |
