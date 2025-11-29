@@ -7616,6 +7616,7 @@ example:
 | kayle | 凯尔（正义天使） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/cd/g65jnzy4gq32v5v6f3lc8sh2pcw1aoa.jpg) |  |
 | quinn | 奎因（德玛西亚之翼） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/8a/0bd36bbjk8mzsgqaenhf37czgxyccu7.jpg) |  |
 | karma | 卡尔玛（天启者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/a2/bpszzr545b8n5taxnanh4th5y0mhkb1.jpg) |  |
+| veigar | 维迦（邪恶小法师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/ea/grmua3042vedxg90txvnxfrj9ntxsw2.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
