@@ -7259,7 +7259,7 @@ example:
 | celica | 赛莉卡 | ![](https://static.wikia.nocookie.net/nintendo/images/d/d8/FEE_Celica.png/revision/latest?cb=20171115181327&path-prefix=en)<br>所属作品:`p:fire emblem gaiden` | [Fandom](https://fireemblem.fandom.com/zh/wiki/賽莉卡)<br>[Fandom (英语)](https://nintendo.fandom.com/wiki/Celica_%28Fire_Emblem%29) |
 | alm | 阿鲁姆 | ![](https://cdn.fireemblemwiki.org/0/0a/FESoV_Alm.png)<br>阿鲁姆是单机游戏《`p:fire emblem gaiden`》的男主角，繁体译名阿雷武，早期译名雅木。 | [百度百科](https://baike.baidu.com/item/阿鲁姆/56046033)<br>[Fandom](https://fireemblem.fandom.com/wiki/Alm) |
 | gemma | 杰玛 | 所属作品：`monster hunter`<br>铁匠成员杰玛 |  |
-| evelynn | 伊芙琳 | 所属作品：英雄联盟<br>痛苦之拥，原称号为“寡妇制造者”。 |  |
+| evelynn | 伊芙琳（痛苦之拥） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4b/r1huyvbt6qvhf818379nsocm7cqf08j.jpg) |  |
 | elisanne | 埃尔菲莉丝 | ![](https://zurswtyclg.hath.network/om/184873314/e757a1d1c4ee359ba2d57f2d2c0724d960a25be8-1688070-998-1459-png/6554f78735520b69599ff207c3536b871c954d68-94894-800-1170-wbp/800/rjb6yuqen4s4wu1tii2/1301.webp)<br>所属作品：`dragalia lost`<br>游戏女主角 |  |
 | vanessa | 温妮莎 | ![](https://ehgt.org/w/01/848/70788-tl1r3cg3.webp)<br>所属作品：`king of fighters` |  |
 | cecilia | 瑟西莉亚 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/3a/Cecilia.png/revision/latest?cb=20160614032606)<br>所属作品:`p:fire emblem the binding blade` | [Fandom](https://fireemblem.fandom.com/zh/wiki/瑟西莉亞) |
