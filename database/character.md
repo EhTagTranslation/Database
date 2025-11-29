@@ -7626,6 +7626,7 @@ example:
 | fiddlesticks | 费德提克（远古恐惧） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/89/du81weo74rrw88g3okbku7bstryjrva.jpg) |  |
 | runa shirakawa | 白河月爱 | ![](https://ehgt.org/w/01/803/70209-ki69yvo0.webp)<br>所属作品：`keikenzumi na kimi to keiken zero na ore ga otsukiai suru hanashi.` |  |
 | tahm kench | 塔姆（河流之王） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/48/3879fnx8rut2o1eg42sc1v6dkuf381m.jpg) |  |
+| nunu | 努努（雪原双子） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/3/39/jqyj9gn9rzvpdfr3vn4tst9rq8srptg.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
