@@ -3708,7 +3708,7 @@ example:
 | mrs. yuigahama | 由比滨妈妈 | ![](https://ehgt.org/w/02/079/40702-rfkpz2uv.webp)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` |  |
 | mudrock | 泥岩 | ![](https://patchwiki.biligame.com/images/arknights/2/28/7o36agkz0u63d157v1d3a88c6nntpc7.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/泥岩) |
 | nian | 年 | ![](https://patchwiki.biligame.com/images/arknights/5/50/7xgr7zle9tnw268a51ahemoz75s6nh5.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/年) |
-| soraka | 索拉卡 | 英雄联盟角色 |  |
+| soraka | 索拉卡（众星之子） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/cf/8digolj38gykis60oo65q1uxgmdql7n.jpg)<br>星之守护者皮肤 |  |
 | doctor | 博士 | 博士是游戏《明日方舟》及其衍生作品中的人物，为玩家人称角色。 |  |
 | dusk | 夕 | ![](https://patchwiki.biligame.com/images/arknights/3/38/528a5ouyame8vs5o6bgoino0a1djcim.png)<br>所属作品`p:arknights` |  |
 | sabrina | 娜姿 |  |  |
