@@ -7621,6 +7621,7 @@ example:
 | garen | 盖伦（德玛西亚之力） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/44/3uo4zylswypf3iipi0q5rxvypi8e7zp.jpg) |  |
 | fiora laurent | 菲奥娜（无双剑姬） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/a3/lvd233fqb8ngbjv9d4stdp25v0u1efy.jpg) |  |
 | ryze | 瑞兹（符文法师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/48/qhqltf4u8vm48wq8i4y0gzh33o9b4h4.jpg) |  |
+| tristana | 崔丝塔娜（麦林炮手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/eb/sdymfj8chicz7r633cpnquwc1xyg2rq.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
