@@ -7607,6 +7607,7 @@ example:
 | mel medarda | 梅尔（流光镜影） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Mel_OriginalSkin.jpg?3533e)<br>![](https://wiki.leagueoflegends.com/en-us/images/Mel_ArcaneCouncilorSkin.jpg?11082) |  |
 | leblanc | 勒布朗（FFX-2） | 所属作品：`final fantasy x-2`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/c/c6/LeBlanc.png) |  |
 | ezreal | 伊泽瑞尔（探险家） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/e/e9/npxc7aldmpnl5nr79jlt4h2wzcjfewv.jpg) |  |
+| fiora | 菲奥娜（无双剑姬） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/a3/lvd233fqb8ngbjv9d4stdp25v0u1efy.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
