@@ -4555,7 +4555,7 @@ example:
 | nene ayachi | 绫地宁宁 | 绫地宁宁（日语：綾地（あやち）寧々（ねね））是柚子社所创作的美少女游戏《魔女的夜宴》的登场角色。 |  |
 | neeko | 妮蔻（万花通灵） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/1/1c/n8v5x42s6k5jtib5m3khzcgplijmdt2.jpg)<br>![](https://patchwiki.biligame.com/images/lol/4/4a/4f82es50kll0rso9o3m20pnl8wrcduu.jpg)<br>星之守护者皮肤 | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/妮蔻) |
 | nidalee | 奈德丽（狂野女猎手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4c/narklvt9fymsz5l0tzoz1faxqclugrg.jpg) | [Fandom](https://leagueoflegendstwn.fandom.com/wiki/奈德麗) |
-| vex | 薇古丝 |  |  |
+| vex | 薇古丝（愁云使者） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Vex_OriginalSkin.jpg?04d93) |  |
 | yuu nishinoya | 西谷夕 |  |  |
 | asahi azumane | 东峰旭 |  |  |
 | zoe | 佐伊（暮光星灵） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/45/01v4awh7fps2uerm4sd5x3bpyte06wu.jpg) |  |
