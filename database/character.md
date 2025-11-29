@@ -7644,6 +7644,7 @@ example:
 | diana | 黛安娜（皎月女神） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/8d/36gc53e1611ys7gshsk73vkj4js2lks.jpg) |  |
 | shen | 慎（暮光之眼） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/00/925cay00k5izn0we59bh1jtxn6t4drm.jpg) |  |
 | zilean | 基兰（时光守护者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/8a/eoi35mhof56nv70pmsbxjesxj1ymkro.jpg) |  |
+| kennen | 凯南（狂暴之心） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/01/janys4yrkawv9zqh9a0rp386i1noepe.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
