@@ -7649,6 +7649,7 @@ example:
 | twisted fate | 崔斯特（卡牌大师） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/09/r7omk1ist95tg5h7a5b1w1el5k2q1ld.jpg) |  |
 | blonde blazer | 金耀光 | 游戏《超英派遣中心》（Dispatch）中的角色 |  |
 | invisigal | 隐身女 | 游戏《超英派遣中心》（Dispatch）中的角色 |  |
+| yunara | 芸阿娜（不破之誓） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Yunara_OriginalSkin.jpg?443a6) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
