@@ -2278,7 +2278,7 @@ example:
 | charlotte | 夏洛特 \| 夏洛蒂 | 1. 所属作品:`p:seiken densetsu`<br><br>2. 所属作品:`p:puella magi madoka magica`<br><br>3. 夏洛蒂(charlotte)<br>所属作品:`p:genshin impact`<br>![](https://patchwiki.biligame.com/images/ys/7/7d/h1dvbabbpt35oo3ils94hv21nbwz4fc.png) | 3. [萌娘百科](https://zh.moegirl.org.cn/夏洛蒂%28原神%29) |
 | ryoma | 龙马 |  |  |
 | orochi | 远吕智 |  |  |
-| elise | 爱丽丝 |  |  |
+| elise | 伊莉丝（蜘蛛女皇） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/b/be/9wcthci4ern79ovjdjf9gv0ytf9tdnh.jpg) |  |
 | flannel | 弗拉内尔 |  |  |
 | camilla | 卡米拉 |  |  |
 | felicia | 菲莉西亚 |  |  |
