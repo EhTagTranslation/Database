@@ -7603,6 +7603,7 @@ example:
 | hikari tsuneki | 常木耀 | 所属作品：`seiren`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/ea/31/48336_crt_sp61l.jpg?r=1705234054) |  |
 | alice lendrott | 爱丽丝·兰德洛特 | ![](https://ehgt.org/w/01/996/02392-n9q4hsbu.webp)<br>所属作品：`shinigami bocchan to kuro maid`<br>作为本馆女仆长独生女，她自两年前起以黑女仆身份侍奉被诅咒的“死神少爷”，表面以俏皮言行实施逆性骚扰，实则暗藏深切关怀与真挚爱意。 |  |
 | senna | 赛娜（涤魂圣枪） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/d/d9/5lff76jpdzg508ce4o6lq1yy4dqvm6n.jpg) |  |
+| vi | 蔚（皮城执法官） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/cc/imajyuvgqv8cmrvf8k02n1zslwgm9hu.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
