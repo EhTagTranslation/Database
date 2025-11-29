@@ -4933,7 +4933,7 @@ example:
 | chizuru shiina | 椎名千鹤 | 椎名 千鶴(しいな ちづる)<br>曲がったことが大嫌いな優等生。<br>優しくてカッコいい月野に恋をしている。 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html)<br>[ACDB WIKI](https://www.animecharactersdatabase.com/characters.php?id=115351) |
 | miss fortune | 厄运小姐（赏金猎人） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4c/oy2duec0r75cdm5ujiwsxm4f1shu7de.jpg)<br>![](https://patchwiki.biligame.com/images/lol/8/80/s8hwa0e3fxp32smegqh3hh3vqb3w3t9.jpg)<br>星之守护者皮肤 |  |
 | riven | 锐雯（放逐之刃） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/aa/g0zovpqlwzewyk33wlxccef3lje0vl4.jpg)<br>![](https://patchwiki.biligame.com/images/lol/1/1f/5uacx9svvtm4x9h4q5oexr38itii2fv.jpg)<br>玉剑传说皮肤 |  |
-| zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
+| zac | 扎克（生化魔人） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/96/q4h9mhajq2vwwqx1qwpxta4560n7v5i.jpg) |  |
 | xenovia quarta | 洁诺薇亚·夸塔 | 所属作品：`highschool dxd`<br>![](https://haremking.tv/character/images/7s.png) | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 | crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe](https://trails-game.com/character/crow-armbrust/) [萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特) [百度百科](https://baike.baidu.com/item/克洛·安布斯特/62063303) |
 | yshtola rhul | 雅·修特拉·路尔 | 雅·修特拉·路尔是《最终幻想14》的角色之一，拂晓血盟的成员。曾在萨雷安魔法大学学习魔法，师父是玛托雅，永远的23岁。在游戏初期，是三大新手主城之一的海都利姆萨罗敏萨的新手教程NPC。 | [灰机wiki](https://ff14.huijiwiki.com/wiki/雅·修特拉·路尔)<br>[萌娘百科](https://zh.moegirl.org.cn/雅·修特拉)<br>[百度百科](https://baike.baidu.com/item/雅修特拉) |
