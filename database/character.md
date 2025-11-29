@@ -4319,7 +4319,7 @@ example:
 | iono | 奇树 | 所属作品:`p:pokemon`<br>![](https://img.moegirl.org.cn/common/6/6f/Iono.png)<br>宝可梦朱紫电系道馆主 | [萌娘百科](https://zh.moegirl.org.cn/奇树) |
 | maho himemiya | 姬宫真步 | Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色 | [https://rwiki.jp/pri\_cone/パートナー/姫宮真歩](https://rwiki.jp/pri_cone/パートナー/姫宮真歩) |
 | ahri | 阿狸（九尾妖狐） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/91/juh2d2gmf8urksg7486c3ngwbulpq1s.jpg)<br>![](https://patchwiki.biligame.com/images/lol/f/fc/1jsfnots1ju8ixbhwmy7t8kqsst4sm7.jpg)<br>星之守护者皮肤 | [萌娘百科](https://zh.moegirl.org.cn/阿狸%28英雄联盟%29#) |
-| lillia | 莉莉娅 |  |  |
+| lillia | 莉莉娅（含羞蓓蕾） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Lillia_OriginalSkin.jpg?ababd) |  |
 | thresh | 锤石 |  |  |
 | sophia nishikinomiya | 苏菲亚·锦之宫 | `anna nishikinomiya`的母亲，时冈学园家长会会长。 |  |
 | anna nishikinomiya | 安娜·锦之宫 |  |  |
