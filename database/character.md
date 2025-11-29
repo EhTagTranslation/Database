@@ -4932,7 +4932,7 @@ example:
 | issei hyoudou | 兵藤一诚 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/06/01/21/45/135930403_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/兵藤一诚) |
 | chizuru shiina | 椎名千鹤 | 椎名 千鶴(しいな ちづる)<br>曲がったことが大嫌いな優等生。<br>優しくてカッコいい月野に恋をしている。 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html)<br>[ACDB WIKI](https://www.animecharactersdatabase.com/characters.php?id=115351) |
 | miss fortune | 厄运小姐 | 网络游戏《英雄联盟》登场英雄。 |  |
-| riven | 锐雯 | 网络游戏《英雄联盟》登场英雄。 |  |
+| riven | 锐雯（放逐之刃） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/a/aa/g0zovpqlwzewyk33wlxccef3lje0vl4.jpg)<br>![](https://patchwiki.biligame.com/images/lol/1/1f/5uacx9svvtm4x9h4q5oexr38itii2fv.jpg)<br>玉剑传说皮肤 |  |
 | zac | 扎克 | 网络游戏《英雄联盟》登场英雄。 |  |
 | xenovia quarta | 洁诺薇亚·夸塔 | 所属作品：`highschool dxd`<br>![](https://haremking.tv/character/images/7s.png) | [百度百科](https://baike.baidu.com/item/洁诺薇亚·夸塔)<br>[萌娘百科](https://zh.moegirl.org.cn/杰诺薇亚) |
 | crow armbrust | 克洛·安布斯特 | ![](https://cdn.trails-game.com/wp-content/uploads/2022/07/crow_sen1_2.png) | [轨迹系列 – Cafe](https://trails-game.com/character/crow-armbrust/) [萌娘百科](https://zh.moegirl.org.cn/克洛·安布斯特) [百度百科](https://baike.baidu.com/item/克洛·安布斯特/62063303) |
