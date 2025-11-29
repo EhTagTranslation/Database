@@ -6775,7 +6775,7 @@ example:
 | miyo sakurai | 樱井美代 | 蔚蓝档案中的角色<br>![](https://p.sda1.dev/27/4f066a3a37f3b99ce16677dcdf9552cb/image.png) | [https://www.gamekee.com/ba/tj/674785.html](https://www.gamekee.com/ba/tj/674785.html)<br>[Fandom](https://bluearchive.fandom.com/wiki/Sakurai_Miyo) |
 | kirara onisaki | 鬼崎绮罗罗 | ![](https://static.wikia.nocookie.net/taimanin/images/e/e1/Kirara_Onazaki.png)<br>所属作品：`taimanin rpg` | [Fandom](https://aigis.fandom.com/wiki/Onisaki_Kirara) |
 | ayano kosaka | 香坂绫乃 | ![](https://patchwiki.biligame.com/images/loststories/0/00/1vj90i9etpzei45ecdno6uerx0vor5w.png)<br>所属作品：`code geass` | [Fandom](https://codegeass.fandom.com/wiki/Ayano_Kosaka) |
-| syndra | 辛德拉 | 英雄联盟角色——暗黑元首辛德拉 |  |
+| syndra | 辛德拉（暗黑元首） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/5/50/7fy0tpg0bpzmpbnyuntjuld7xk5ffdr.jpg)<br>![](https://patchwiki.biligame.com/images/lol/b/bd/lcypt54vf6mtkr6arrfchstpnipzwx6.jpg)<br>星之守护者皮肤 |  |
 | hakuryuu | 白龙(鹫) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/55dce64a0582019982937dc0fcecf3cd262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白龙) |
 | irelia | 艾瑞莉娅（刀锋舞者） | 所属作品：英雄联盟 |  |
 | sovetskaya belorussiya | 苏维埃贝拉罗斯 | 所属作品: `p:azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/18608d5c23941a57431d3bc1edaf934f262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/4bb25452edbee1192e628d34e6a5e5cc262400697.png)<br>![](https://i0.hdslb.com/bfs/new_dyn/0db283b62c8cc218b05fc50ec3b1aea9262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/苏维埃贝拉罗斯) |
