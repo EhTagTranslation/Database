@@ -7640,6 +7640,7 @@ example:
 | dr. mundo | 蒙多医生（祖安狂人） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4c/9ovljdoz7syb70mi9l0zbp9jdek0af0.jpg) |  |
 | jayce | 杰斯（未来守护者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4d/nue71nfr8tmgki9u8hfo8tln67qu2md.jpg) |  |
 | viego | 佛耶戈（破败之王） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Viego_OriginalSkin.jpg?9cc8c) |  |
+| heimerdinger | 黑默丁格（大发明家） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/7/78/4ewg92a7m5g5tq24xadfyle5m630l0e.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
