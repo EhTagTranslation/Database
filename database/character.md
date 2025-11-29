@@ -5238,7 +5238,7 @@ example:
 | leonora nakiri | 薙切蕾欧诺拉 | 漫画《食戟之灵》的女角色，薙切爱丽丝的母亲，远月学园研究部门——薙切国际研究会的部门长。薙切国际研究会作为远月的研究部门而成立的，是一个以最新科学来缔造新的美食和分子烹饪的学术机关。<br>不擅长说日语，但是只要嘴炮开起来就无人能敌。<br>父亲：薙切仙左卫门<br>丈夫：薙切宗卫<br>女儿：薙切爱丽丝<br>侄女：薙切绘里奈 |  |
 | ibuki tanga | 丹花伊吹 | 所属作品：`p:blue archive`<br>格黑娜学园所属，「万魔殿」的议员兼吉祥物少女。<br>原本是从属格黑娜学园初等部，因能力得到认可而加入了在格黑娜学园里也只有优秀的学生才能进入的「万魔殿」。<br>![](https://img.moegirl.org.cn/common/c/cd/BA_Ibuki.png) | [萌娘百科](https://zh.moegirl.org.cn/丹花伊吹) |
 | shinobu kudo | 工藤忍 | ![](https://patchwiki.biligame.com/images/imascg/thumb/f/f1/ehfviwtlf5pxd3hrkhpkajte0tcmwyr.png/960px-CGSS-Shinobu-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| gwen | 格温 |  |  |
+| gwen | 格温（灵罗娃娃） | 所属作品：`league of legends`<br>![](https://ehgt.org/w/01/942/96922-ev84ses5.webp) |  |
 | princess bubblegum | 泡泡糖公主 |  | [维基百科](https://zh.wikipedia.org/wiki/泡泡糖公主) |
 | plume | 翎羽 | ![](https://patchwiki.biligame.com/images/arknights/6/67/7ukxywn197qwschcvw1dxyje2askzj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/翎羽) |
 | catapult | 空爆 | ![](https://patchwiki.biligame.com/images/arknights/7/78/k85gb6yi1jna21d0p7whxz5vvnqojt4.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/空爆) |
