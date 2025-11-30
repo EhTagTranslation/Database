@@ -7660,6 +7660,7 @@ example:
 | karura hiougi | 绯扇迦楼罗 | ![](https://static.wikia.nocookie.net/yuragisou/images/5/5b/Karura_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | hibari ameno | 雨野云雀 | ![](https://static.wikia.nocookie.net/yuragisou/images/2/28/Hibari_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | nadare tenko | 天狐雪崩 | 所属作品：`yuragisou no yuuna-san` |  |
+| genshiro ryuuga | 龙雅玄士郎 | 所属作品：`yuragisou no yuuna-san` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
