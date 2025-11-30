@@ -14437,6 +14437,7 @@ example:
 | umi no kyuuban | 海の吸盤 |  |  |
 | tanaka nunu | 田中ぬぬ |  |  |
 | zorusoru | ぞるそる |  |  |
+| kazunoko | 数の子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
