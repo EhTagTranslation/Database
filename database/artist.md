@@ -14435,6 +14435,7 @@ example:
 | alisame | 在鮫 |  |  |
 | mochioji | もちおじ |  |  |
 | umi no kyuuban | 海の吸盤 |  |  |
+| tanaka nunu | 田中ぬぬ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
