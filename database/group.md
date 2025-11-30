@@ -13472,6 +13472,7 @@ example:
 | plateau soft | ぷらとぉそふと |  |  |
 | shikisoku zeku | 色即絶句 |  |  |
 | peimond | ペイモンド |  |  |
+| tonosama penguin | 殿様ペンギン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
