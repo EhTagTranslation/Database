@@ -2627,6 +2627,7 @@ example:
 | dispatch | 超英派遣中心 | 由AdHoc Studio开发的章回体互动式文字冒险电子游戏 | [维基百科](https://zh.wikipedia.org/wiki/超英派遣中心) |
 | cue | 指名！ | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f3/Cue_Forever_Friends_KV.jpg)<br>《CUE!》是由Liber Entertainment推出的配音演员养成类手机游戏，并有同名改编动画。 |  |
 | gogo sentai boukenger | 轰轰战队冒险者 |  | [萌娘百科](https://zh.moegirl.org.cn/轰轰战队冒险者) |
+| ressha sentai toqger | 烈车战队特急者 |  | [萌娘百科](https://zh.moegirl.org.cn/烈车战队特急者) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
