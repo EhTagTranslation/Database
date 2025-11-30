@@ -7659,6 +7659,7 @@ example:
 | matora mikogami | 神刀胧 | ![](https://yuragisou.com/assets/img/common/character/chara08/img_chara-main08.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | karura hiougi | 绯扇迦楼罗 | ![](https://static.wikia.nocookie.net/yuragisou/images/5/5b/Karura_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | hibari ameno | 雨野云雀 | ![](https://static.wikia.nocookie.net/yuragisou/images/2/28/Hibari_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
+| nadare tenko | 天狐雪崩 | 所属作品：`yuragisou no yuuna-san` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
