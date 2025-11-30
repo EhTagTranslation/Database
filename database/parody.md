@@ -2625,6 +2625,7 @@ example:
 | rin x sen hakudaku onna kyoushi to yaroudomo | Rin X Sen 白浊女教师和男同事们 | ![](https://ehgt.org/d9/86/d986aad0e137b75898f9ea3525276f69490e6d70-100510-389-560-jpg_250.jpg) |  |
 | keikenzumi na kimi to keiken zero na ore ga otsukiai suru hanashi. | 位于恋爱光谱极端的我们 | ![](https://img9.doubanio.com/view/subject/s/public/s33998145.jpg)<br>《位于恋爱光谱极端的我们》是日本作家长冈マキ子创作、magako负责插画的校园恋爱轻小说。<br>原作名: 経験済みなキミと、 経験ゼロなオレが、 お付き合いする話 |  |
 | dispatch | 超英派遣中心 | 由AdHoc Studio开发的章回体互动式文字冒险电子游戏 | [维基百科](https://zh.wikipedia.org/wiki/超英派遣中心) |
+| cue | 指名！ | ![](https://storage.moegirl.org.cn/moegirl/commons/0/00/Cue_icon.png)<br>《CUE!》是由Liber Entertainment推出的配音演员养成类手机游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
