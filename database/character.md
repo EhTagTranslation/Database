@@ -7664,6 +7664,7 @@ example:
 | shakuhito yoinozaka | 宵之坂酌人 | 所属作品：`yuragisou no yuuna-san` |  |
 | ouga makyouin | 魔境院逢牙 | ![](https://static.wikia.nocookie.net/yuragisou/images/6/69/Volume_14_Ouga.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | yaya fushiguro | 伏黑夜夜 | ![](https://static.wikia.nocookie.net/yuragisou/images/e/e6/Yaya_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
+| nene fujinoki | 藤之木宁音 | ![](https://ehgt.org/w/02/101/23924-4l0m12qb.webp)<br>所属作品：`hajimete no gal` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
