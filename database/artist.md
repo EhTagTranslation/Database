@@ -14436,6 +14436,7 @@ example:
 | mochioji | もちおじ |  |  |
 | umi no kyuuban | 海の吸盤 |  |  |
 | tanaka nunu | 田中ぬぬ |  |  |
+| zorusoru | ぞるそる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
