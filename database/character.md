@@ -6428,7 +6428,7 @@ example:
 | jun yodaka | 夜鹰纯 |  |  |
 | yuriko kitahara | 北原百合子 |  |  |
 | kaname chidori | 千鸟要 |  |  |
-| kasumi tendo | 天道霞 |  |  |
+| kasumi tendo | 天道霞 | ![](https://static.wikia.nocookie.net/ranma/images/1/14/Tendō_Kasumi_%28Anime_2024%29.png/revision/latest?cb=20240829050700)<br>天道霞（天道 かすみ），漫画《`p:ranma 12`》及其改编动画中的角色，天道家的大女儿，温柔善良、没有任何缺点，是个菩萨般从来不生气的好姑娘。 | [百度百科](https://baike.baidu.com/item/天道霞/6312325) |
 | asagi aiba | 蓝羽浅葱 | ![](https://lain.bgm.tv/r/400/pic/crt/l/a2/bd/21628_crt_7OH7S.jpg)<br>所属作品：`strike the blood` |  |
 | nagisa akatsuki | 晓凪沙 | ![](https://lain.bgm.tv/r/400/pic/crt/l/99/12/39169_crt_aUuPo.jpg)<br>所属作品：`strike the blood`<br>晓古城的妹妹。 |  |
 | elmerulia frixell | 艾尔梅露莉亚·菲立克塞尔 | 所属作品: `p:atelier lulua` | [萌娘百科](https://zh.moegirl.org.cn/艾尔梅露莉亚·菲立克塞尔) [Fandom](https://atelier.fandom.com/wiki/Elmerulia_Frixell) |
