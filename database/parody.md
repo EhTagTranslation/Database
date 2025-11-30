@@ -2628,6 +2628,7 @@ example:
 | cue | 指名！ | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f3/Cue_Forever_Friends_KV.jpg)<br>《CUE!》是由Liber Entertainment推出的配音演员养成类手机游戏，并有同名改编动画。 |  |
 | gogo sentai boukenger | 轰轰战队冒险者 |  | [萌娘百科](https://zh.moegirl.org.cn/轰轰战队冒险者) |
 | ressha sentai toqger | 烈车战队特急者 |  | [萌娘百科](https://zh.moegirl.org.cn/烈车战队特急者) |
+| hyakujuu sentai gaoranger | 百兽战队牙吠连者 | 本作是超级战队系列的第25部作品，也是首部中国大陆正式引入的超级战队作品。 | [萌娘百科](https://zh.moegirl.org.cn/百兽战队牙吠连者) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
