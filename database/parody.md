@@ -490,7 +490,7 @@ example:
 | hyakka ryouran samurai girls | 百花缭乱 武士少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ef/2e/6933_5PLlI.jpg)<br>![](https://static.lzone.moe/Images/upload/15081232127180780.jpg) |  |
 | samurai champloo | 混沌武士 |  |  |
 | afro samurai | 爆炸头武士 |  |  |
-| samurai sentai shinkenger | 侍战队真剑者 |  |  |
+| samurai sentai shinkenger | 侍战队真剑者 |  | [萌娘百科](https://zh.moegirl.org.cn/侍战队真剑者) |
 | samurai flamenco | 武士弗拉明戈 |  |  |
 | onechambara bikini samurai squad | 忌血的继承者 |  |  |
 | samurai warriors | 战国无双 |  |  |
