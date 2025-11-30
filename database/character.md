@@ -7661,6 +7661,7 @@ example:
 | hibari ameno | 雨野云雀 | ![](https://static.wikia.nocookie.net/yuragisou/images/2/28/Hibari_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | nadare tenko | 天狐雪崩 | 所属作品：`yuragisou no yuuna-san` |  |
 | genshiro ryuuga | 龙雅玄士郎 | ![](https://static.wikia.nocookie.net/yuragisou/images/4/4a/Genshirou_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
+| shakuhito yoinozaka | 宵之坂酌人 | 所属作品：`yuragisou no yuuna-san` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
