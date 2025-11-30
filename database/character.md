@@ -7666,6 +7666,8 @@ example:
 | yaya fushiguro | 伏黑夜夜 | ![](https://static.wikia.nocookie.net/yuragisou/images/e/e6/Yaya_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | nene fujinoki | 藤之木宁音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/55/71/52608_crt_WGHwj.jpg)<br>![](https://lain.bgm.tv/r/400/pic/photos/character/l/a6/9e/52608_aL1S6.jpg)<br>新形象<br>所属作品：`hajimete no gal` |  |
 | nabiki tendo | 天道靡 | ![](https://static.wikia.nocookie.net/ranma/images/e/e3/Tendō_Nabiki_%28Anime_2024%29.png/revision/latest?cb=20240829050637)<br>日文：天道なびき<br>所属作品:`ranma 12` | [百度百科](https://baike.baidu.com/item/天道靡/6312355) |
+| ukyo kuonji | 久远寺右京 | ![](https://static.wikia.nocookie.net/ranma/images/0/06/Ukyo_Kuonji_%28Anime_2024%29.png/revision/latest?cb=20250727224941)<br>久遠寺右京 (くおんじ うきょう)<br>从关西追寻乱马而转学来的烙饼少女，乱马小时候的童年玩伴，乱马的未婚妻之一。 | [萌娘百科](https://zh.moegirl.org.cn/久远寺右京) |
+| kagura izumi | 泉神乐 | 所属作品:`ressha sentai toqger`<br>特急5号的变身者。<br>性格活泼，但却十分胆小。总是会沉迷角色扮演之后入戏太深闯出一系列的祸。在战斗中会靠着自我暗示来鼓励自己。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
