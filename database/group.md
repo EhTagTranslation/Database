@@ -13471,6 +13471,7 @@ example:
 | amanoshima | 雨乃島 |  |  |
 | plateau soft | ぷらとぉそふと |  |  |
 | shikisoku zeku | 色即絶句 |  |  |
+| peimond | ペイモンド |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
