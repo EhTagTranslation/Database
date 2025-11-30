@@ -7670,6 +7670,7 @@ example:
 | kagura izumi | 泉神乐 | 所属作品:`ressha sentai toqger`<br>特急5号的变身者。<br>性格活泼，但却十分胆小。总是会沉迷角色扮演之后入戏太深闯出一系列的祸。在战斗中会靠着自我暗示来鼓励自己。 |  |
 | kaoru shiba | 志叶薰 | 所属作品:`samurai sentai shinkenger`<br>志叶家最后的幸存者，真正的第18代家主，操纵火文字之力的武士，以习得完整的封印文字为契机现身。 | [萌娘百科](https://zh.moegirl.org.cn/志叶薰) |
 | mira shifuto | 志布户未来 | 所属作品：`bakuage sentai boonboomger`<br>驾驶达人，是一名优秀的司机。 | [萌娘百科](https://zh.moegirl.org.cn/志布户未来) |
+| sakura nishihori | 西堀樱 | 所属作品：`gogo sentai boukenger`<br>冒险者的副队长，曾出任自卫官，因此是战斗方面的专家。世界大财团西崛财团的独生女，一个冷艳迷人、天生丽质的美女。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
