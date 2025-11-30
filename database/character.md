@@ -7669,6 +7669,7 @@ example:
 | ukyo kuonji | 久远寺右京 | ![](https://static.wikia.nocookie.net/ranma/images/0/06/Ukyo_Kuonji_%28Anime_2024%29.png/revision/latest?cb=20250727224941)<br>久遠寺右京 (くおんじ うきょう)<br>从关西追寻乱马而转学来的烙饼少女，乱马小时候的童年玩伴，乱马的未婚妻之一。 | [萌娘百科](https://zh.moegirl.org.cn/久远寺右京) |
 | kagura izumi | 泉神乐 | 所属作品:`ressha sentai toqger`<br>特急5号的变身者。<br>性格活泼，但却十分胆小。总是会沉迷角色扮演之后入戏太深闯出一系列的祸。在战斗中会靠着自我暗示来鼓励自己。 |  |
 | kaoru shiba | 志叶薰 | 所属作品:`samurai sentai shinkenger`<br>志叶家最后的幸存者，真正的第18代家主，操纵火文字之力的武士，以习得完整的封印文字为契机现身。 | [萌娘百科](https://zh.moegirl.org.cn/志叶薰) |
+| mira shifuto | 志布户未来 | 所属作品：`bakuage sentai boonboomger`<br>驾驶达人，是一名优秀的司机。 | [萌娘百科](https://zh.moegirl.org.cn/志布户未来) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
