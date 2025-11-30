@@ -7671,6 +7671,7 @@ example:
 | kaoru shiba | 志叶薰 | 所属作品:`samurai sentai shinkenger`<br>志叶家最后的幸存者，真正的第18代家主，操纵火文字之力的武士，以习得完整的封印文字为契机现身。 | [萌娘百科](https://zh.moegirl.org.cn/志叶薰) |
 | mira shifuto | 志布户未来 | 所属作品：`bakuage sentai boonboomger`<br>驾驶达人，是一名优秀的司机。 | [萌娘百科](https://zh.moegirl.org.cn/志布户未来) |
 | sakura nishihori | 西堀樱 | 所属作品：`gogo sentai boukenger`<br>冒险者的副队长，曾出任自卫官，因此是战斗方面的专家。世界大财团西崛财团的独生女，一个冷艳迷人、天生丽质的美女。 |  |
+| sena hayami | 速见濑奈 | 所属作品：`mashin sentai kiramager`<br>被绿色煌辉宝石认可的战士。拥有日本100米跑记录，是女子田径界的速度明星。在战斗中，发挥速度，用令人目不忍睹的剑术将敌人击飞。好奇心旺盛，不考虑就猛跑。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
