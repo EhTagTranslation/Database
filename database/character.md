@@ -7665,7 +7665,7 @@ example:
 | ouga makyouin | 魔境院逢牙 | ![](https://static.wikia.nocookie.net/yuragisou/images/6/69/Volume_14_Ouga.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | yaya fushiguro | 伏黑夜夜 | ![](https://static.wikia.nocookie.net/yuragisou/images/e/e6/Yaya_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | nene fujinoki | 藤之木宁音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/55/71/52608_crt_WGHwj.jpg)<br>![](https://lain.bgm.tv/r/400/pic/photos/character/l/a6/9e/52608_aL1S6.jpg)<br>新形象<br>所属作品：`hajimete no gal` |  |
-| nabiki tendo | 天道靡 | ![](https://static.wikia.nocookie.net/ranma/images/e/e3/Tendō_Nabiki_%28Anime_2024%29.png/revision/latest?cb=20240829050637)<br>所属作品:`ranma 12` | [百度百科](https://baike.baidu.com/item/天道靡/6312355) |
+| nabiki tendo | 天道靡 | ![](https://static.wikia.nocookie.net/ranma/images/e/e3/Tendō_Nabiki_%28Anime_2024%29.png/revision/latest?cb=20240829050637)<br>日文：天道なびき<br>所属作品:`ranma 12` | [百度百科](https://baike.baidu.com/item/天道靡/6312355) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
