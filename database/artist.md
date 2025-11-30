@@ -14431,6 +14431,7 @@ example:
 | panda shizuku | パンダシズク |  |  |
 | chiyori | ちより |  |  |
 | hattori psycho | 這禽サイコ |  |  |
+| koyado keroyon | 鈷矢毒けろよん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
