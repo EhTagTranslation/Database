@@ -13473,6 +13473,7 @@ example:
 | shikisoku zeku | 色即絶句 |  |  |
 | peimond | ペイモンド |  |  |
 | tonosama penguin | 殿様ペンギン |  |  |
+| seiki no hero | 性器のHERO |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
