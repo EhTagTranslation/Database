@@ -7657,6 +7657,7 @@ example:
 | harumu yumesaki | 梦咲春梦 | ![](https://static.wikia.nocookie.net/yuragisou/images/a/af/Harumu_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | nonko arahabaki | 荒霸吐吞子 | ![](https://yuragisou.com/assets/img/common/character/chara05/img_chara-main05.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | matora mikogami | 神刀胧 | ![](https://yuragisou.com/assets/img/common/character/chara08/img_chara-main08.png)<br>所属作品：`yuragisou no yuuna-san` |  |
+| karura hiougi | 绯扇迦楼罗 | ![](https://static.wikia.nocookie.net/yuragisou/images/5/5b/Karura_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
