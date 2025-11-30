@@ -2629,6 +2629,7 @@ example:
 | gogo sentai boukenger | 轰轰战队冒险者 |  | [萌娘百科](https://zh.moegirl.org.cn/轰轰战队冒险者) |
 | ressha sentai toqger | 烈车战队特急者 |  | [萌娘百科](https://zh.moegirl.org.cn/烈车战队特急者) |
 | hyakujuu sentai gaoranger | 百兽战队牙吠连者 | 本作是超级战队系列的第25部作品，也是首部中国大陆正式引入的超级战队作品。 | [萌娘百科](https://zh.moegirl.org.cn/百兽战队牙吠连者) |
+| kaitou sentai lupinranger vs keisatsu sentai patranger | 快盗战队鲁邦连者VS警察战队巡逻连者 |  | [Fandom](https://powerrangers.fandom.com/wiki/Kaitou_Sentai_Lupinranger_VS_Keisatsu_Sentai_Patranger) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
