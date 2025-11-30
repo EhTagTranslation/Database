@@ -6701,7 +6701,7 @@ example:
 | vermouth | 贝尔摩得（苦艾酒） | 日本漫画《名侦探柯南》及其衍生作品中的女性角色。黑衣组织的骨干成员，表面身份是美国女明星莎朗·温亚德。因某种原因恢复年轻或停止衰老，在莎朗·温亚德“死”后，对外宣称自己是“莎朗的女儿”克丽丝·温亚德。<br>![](https://i.pixiv.cat/img-master/img/2023/07/22/00/06/30/110119506_p0_master1200.jpg) |  |
 | kiyotaka ayanokouji | 绫小路清隆 | ![](https://img.moegirl.org.cn/common/8/86/Ayanokoji_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>凡事欠缺积极性，且没有对未来的展望，自称是“多一事不如少一事主义者”。入学考试的笔试与实技测验成绩均在平均水准之下，被分配到最底层的D班。 | [萌娘百科](https://zh.moegirl.org.cn/绫小路清隆) |
 | touka kirishima | 霧嶋董香 | 日本漫画《东京食尸鬼》及其衍生作品中的女主角，金木研的妻子。咖啡店“古董”的服务员，同时也是20区食尸鬼中的一员。 |  |
-| mini yaemori | 八重森弥妮 | 所属作品：`p:kanojo okarishimasu`<br>练马大学的一年级生，是和也等人的学妹。<br>住在公寓202室，是和也和千鹤的邻居。<br>![](https://img.moegirl.org.cn/common/2/24/Yaemori_Mini.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八重森弥妮) |
+| mini yaemori | 八重森弥妮 | ![](https://ehgt.org/w/01/952/87120-8h6jixij.webp)<br>所属作品：`p:kanojo okarishimasu`<br>练马大学的一年级生，是和也等人的学妹。住在公寓202室，是和也和千鹤的邻居。 | [萌娘百科](https://zh.moegirl.org.cn/八重森弥妮) |
 | angelina | 安洁莉娜 | 注意，明日方舟中的安洁莉娜请使用tag安心院安洁莉娜（ `angelina ajimu`） |  |
 | ban | 班 | `p:nanatsu no taizai` |  |
 | cacao | 可可 | `p:knights of ramune` |  |
