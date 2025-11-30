@@ -14432,6 +14432,7 @@ example:
 | chiyori | ちより |  |  |
 | hattori psycho | 這禽サイコ |  |  |
 | koyado keroyon | 鈷矢毒けろよん |  |  |
+| alisame | 在鮫 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
