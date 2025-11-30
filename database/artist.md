@@ -14434,6 +14434,7 @@ example:
 | koyado keroyon | 鈷矢毒けろよん |  |  |
 | alisame | 在鮫 |  |  |
 | mochioji | もちおじ |  |  |
+| umi no kyuuban | 海の吸盤 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
