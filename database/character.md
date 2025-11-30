@@ -7654,6 +7654,7 @@ example:
 | azusa hamaoka | 滨冈梓 | 所属作品：`grand blue`<br>![](https://ehgt.org/w/01/876/00087-hlx5ipwe.webp) |  |
 | kogarashi fuyuzora | 宫崎千纱希 | ![](https://yuragisou.com/assets/img/common/character/chara03/img_chara-main03.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 | hiyori miyazaki | 宫崎日和 | ![](https://static.wikia.nocookie.net/yuragisou/images/d/df/Hiyori_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san`<br>宫崎千纱希的母亲。 |  |
+| harumu yumesaki | 梦咲春梦 | ![](https://static.wikia.nocookie.net/yuragisou/images/a/af/Harumu_full_appearance.png)<br>所属作品：`yuragisou no yuuna-san` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
