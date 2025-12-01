@@ -9717,7 +9717,7 @@ example:
 | sakura masachi | 佐倉まさち |  |  |
 | sakura mkii | SAKURA・mkII |  |  |
 | sakura moyon | 桜もよん |  |  |
-| sakura pino | 咲楽ぴの |  |  |
+| sakura pino | 咲楽ぴの \| 咲楽亭 |  |  |
 | sakura pochi | 桜ポチ |  |  |
 | sakura rio | 佐倉りお |  |  |
 | sakura ryuuken | 桜りゅうけん |  |  |
