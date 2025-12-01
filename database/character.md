@@ -7676,6 +7676,7 @@ example:
 | kirie konami | 小南桐绘 | 所属作品：`world trigger`<br>![](https://storage.moegirl.org.cn/moegirl/commons/f/f5/常态小南桐绘.jpg) |  |
 | rei nasu | 那须玲 | ![](https://ehgt.org/w/02/112/83459-8nfo0ous.webp)<br>所属作品：`world trigger` |  |
 | shiori usami | 宇佐美栞 | ![](https://img.moegirl.org.cn/common/a/a4/宇佐美栞.jpg)<br>所属作品：`world trigger` |  |
+| nono fujimaru | 藤丸能乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/60/105909_crt_lwF8H.jpg?r=1644020862)<br>所属作品：`world trigger` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
