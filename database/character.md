@@ -7681,6 +7681,7 @@ example:
 | chika amatori | 雨取千佳 | ![](https://img.moegirl.org.cn/common/d/df/雨取千佳.png)<br>所属作品：`world trigger` |  |
 | reiji kizaki | 木崎礼治 | ![](https://img.moegirl.org.cn/common/2/2e/木崎礼治.jpg)<br>所属作品：`world trigger` |  |
 | shuuji miwa | 三轮秀次 | 所属作品：`world trigger` |  |
+| yousuke yoneya | 米屋阳介 | 所属作品：`world trigger` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
