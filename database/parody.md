@@ -2631,6 +2631,7 @@ example:
 | hyakujuu sentai gaoranger | 百兽战队牙吠连者 | 本作是超级战队系列的第25部作品，也是首部中国大陆正式引入的超级战队作品。 | [萌娘百科](https://zh.moegirl.org.cn/百兽战队牙吠连者) |
 | kaitou sentai lupinranger vs keisatsu sentai patranger | 快盗战队鲁邦连者VS警察战队巡逻连者 |  | [Fandom](https://powerrangers.fandom.com/wiki/Kaitou_Sentai_Lupinranger_VS_Keisatsu_Sentai_Patranger) |
 | seijuu sentai gingaman | 星兽战队银河人 |  | [萌娘百科](https://zh.moegirl.org.cn/星兽战队银河人) |
+| kibou no chikara otona pretty cure 23 | 希望的力量～大人的光之美少女\`23 | ![](https://img1.doubanio.com/view/photo/sqxs/public/p2901818219.webp)<br>日本动画系列《光之美少女》的衍生作品，聚焦成年角色的冒险故事。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
