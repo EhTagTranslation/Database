@@ -624,7 +624,7 @@ example:
 | rurukichi | るるキチ |  |  |
 | unasaka | うなさか |  | [pixiv](https://www.pixiv.net/users/52141) [X](https://x.com/unasaka0309) |
 | anmi | Anmi |  | [pixiv](https://www.pixiv.net/users/212801) [X](https://x.com/Anmi_) [个人主页](https://anmi.tumblr.com/) [微博](https://weibo.com/u/5732727922) |
-| kishizuka kenji | 木静谦二 |  |  |
+| kishizuka kenji | 木静谦二 | 木静謙二 |  |
 | kanenomori sentarou | 金ノ森銭太郎 |  |  |
 | hazuki kaoru | 八月薫 |  |  |
 | kenzaki mikuri | 犬崎みくり |  |  |
