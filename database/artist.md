@@ -14438,6 +14438,7 @@ example:
 | tanaka nunu | 田中ぬぬ |  |  |
 | zorusoru | ぞるそる |  |  |
 | kazunoko | 数の子 |  |  |
+| sexy imo | せくしぃも |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
