@@ -7683,6 +7683,7 @@ example:
 | shuuji miwa | 三轮秀次 | 所属作品：`world trigger` |  |
 | yousuke yoneya | 米屋阳介 | 所属作品：`world trigger` |  |
 | osamu mikumo | 三云修 | ![](https://img.moegirl.org.cn/common/a/a9/三云修.png)<br>所属作品：`world trigger` |  |
+| yuuko kumagai | 熊谷友子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/43/ec/105700_crt_EuS0D.jpg?r=1643814448)<br>所属作品：`world trigger` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
