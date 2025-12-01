@@ -7675,6 +7675,7 @@ example:
 | yuuki tendou | 天童悠希 | 所属作品：`cue` |  |
 | kirie konami | 小南桐绘 | 所属作品：`world trigger`<br>![](https://storage.moegirl.org.cn/moegirl/commons/f/f5/常态小南桐绘.jpg) |  |
 | rei nasu | 那须玲 | ![](https://ehgt.org/w/02/112/83459-8nfo0ous.webp)<br>所属作品：`world trigger` |  |
+| shiori usami | 宇佐美栞 | ![](https://img.moegirl.org.cn/common/a/a4/宇佐美栞.jpg)<br>所属作品：`world trigger` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
