@@ -7682,6 +7682,7 @@ example:
 | reiji kizaki | 木崎礼治 | ![](https://img.moegirl.org.cn/common/2/2e/木崎礼治.jpg)<br>所属作品：`world trigger` |  |
 | shuuji miwa | 三轮秀次 | 所属作品：`world trigger` |  |
 | yousuke yoneya | 米屋阳介 | 所属作品：`world trigger` |  |
+| osamu mikumo | 三云修 | ![](https://img.moegirl.org.cn/common/a/a9/三云修.png)<br>所属作品：`world trigger` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
