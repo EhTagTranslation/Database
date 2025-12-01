@@ -7686,6 +7686,7 @@ example:
 | yuuko kumagai | 熊谷友子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/43/ec/105700_crt_EuS0D.jpg?r=1643814448)<br>所属作品：`world trigger` |  |
 | youko katori | 香取叶子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/35/fe/105791_crt_2cTCL.jpg?r=1643923124)<br>所属作品：`world trigger` |  |
 | yuuichi jin | 迅悠一 | 所属作品：`world trigger` |  |
+| koharu tachibana | 橘小春 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/24/20/30/03/137849564_p0_master1200.jpg)<br>所属作品：`tachibana-san-chi no dansei jijou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
