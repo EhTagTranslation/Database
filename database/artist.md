@@ -3162,7 +3162,7 @@ example:
 | nozomi tsubame | 希望つばめ |  | [X](https://x.com/t_nozomi) [pixiv](https://www.pixiv.net/users/232066) |
 | saba satoru | 佐波サトル |  |  |
 | nagashiro rouge | 長代ルージュ | ![X](https://pbs.twimg.com/profile_images/1376156712789417990/BK4f6pi3_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/na_ga_shi_ro) [pixiv](https://www.pixiv.net/users/30583883) |
-| kuroiwa menou | 黑岩玛瑙 |  |  |
+| kuroiwa menou | 黑岩玛瑙 | 黒岩瑪瑙 |  |
 | isorashi | 五十岚唱乃 | ![X](https://pbs.twimg.com/profile_images/1256777432230576129/IqCTfsLD_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/isorashi) |
 | minato fumi | 三巷文 |  |  |
 | hashida mamoru | 桥田镇 |  |  |
