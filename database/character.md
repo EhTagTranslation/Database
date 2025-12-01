@@ -7673,6 +7673,7 @@ example:
 | sakura nishihori | 西堀樱 | 所属作品：`gogo sentai boukenger`<br>冒险者的副队长，曾出任自卫官，因此是战斗方面的专家。世界大财团西崛财团的独生女，一个冷艳迷人、天生丽质的美女。 |  |
 | sena hayami | 速见濑奈 | 所属作品：`mashin sentai kiramager`<br>被绿色煌辉宝石认可的战士。拥有日本100米跑记录，是女子田径界的速度明星。在战斗中，发挥速度，用令人目不忍睹的剑术将敌人击飞。好奇心旺盛，不考虑就猛跑。 |  |
 | yuuki tendou | 天童悠希 | 所属作品：`cue` |  |
+| kirie konami | 小南桐绘 | 所属作品：`world trigger`<br>![](https://storage.moegirl.org.cn/moegirl/commons/f/f5/常态小南桐绘.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
