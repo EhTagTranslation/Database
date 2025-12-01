@@ -629,7 +629,7 @@ example:
 | hazuki kaoru | 八月薫 |  |  |
 | kenzaki mikuri | 犬崎みくり |  |  |
 | kofunami | こふなみ |  |  |
-| touma itsuki | 东磨树 |  |  |
+| touma itsuki | 东磨树 | 東磨樹 |  |
 | asaba yuu | 浅葉ゆう |  |  |
 | akizuki ryou | 秋月亮 |  |  |
 | nanigawa rui | 名仁川るい |  |  |
