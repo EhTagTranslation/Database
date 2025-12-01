@@ -7679,6 +7679,7 @@ example:
 | nono fujimaru | 藤丸能乃 | ![](https://lain.bgm.tv/r/400/pic/crt/l/17/60/105909_crt_lwF8H.jpg?r=1644020862)<br>所属作品：`world trigger` |  |
 | ai kitora | 木虎蓝 | ![](https://img.moegirl.org.cn/common/e/e6/木虎蓝.png)<br>所属作品：`world trigger` |  |
 | chika amatori | 雨取千佳 | ![](https://img.moegirl.org.cn/common/d/df/雨取千佳.png)<br>所属作品：`world trigger` |  |
+| reiji kizaki | 木崎礼治 | ![](https://img.moegirl.org.cn/common/2/2e/木崎礼治.jpg)<br>所属作品：`world trigger` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
