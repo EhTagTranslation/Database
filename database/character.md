@@ -7674,6 +7674,7 @@ example:
 | sena hayami | 速见濑奈 | 所属作品：`mashin sentai kiramager`<br>被绿色煌辉宝石认可的战士。拥有日本100米跑记录，是女子田径界的速度明星。在战斗中，发挥速度，用令人目不忍睹的剑术将敌人击飞。好奇心旺盛，不考虑就猛跑。 |  |
 | yuuki tendou | 天童悠希 | 所属作品：`cue` |  |
 | kirie konami | 小南桐绘 | 所属作品：`world trigger`<br>![](https://storage.moegirl.org.cn/moegirl/commons/f/f5/常态小南桐绘.jpg) |  |
+| rei nasu | 那须玲 | 所属作品：`world trigger`<br>![](https://ehgt.org/w/02/112/83459-8nfo0ous.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
