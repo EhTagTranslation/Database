@@ -7704,6 +7704,7 @@ example:
 | riyo reaper | 莉阳 | ![](https://static.wikia.nocookie.net/gachiakuta/images/f/fe/Riyo_Reaper_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：リヨウ・リーパー |  |
 | eishia stilza | 艾希娅·斯蒂尔扎 | ![](https://static.wikia.nocookie.net/gachiakuta/images/b/b6/Eishia_Stilza_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：エイシア・スティルザ |  |
 | yoru | 夜（战争恶魔） | ![](https://storage.moegirl.org.cn/moegirl/commons/9/90/Volume_12_%28Textless%29.png)<br>所属作品：`chainsaw man`<br>在三鹰朝被嫉妒自己的班长杀害后出现并复活、附身她。自称为“夜”。 |  |
+| anosillus the 2nd | 阿诺西拉斯2代 | ![](https://ehgt.org/w/02/135/94782-3qj1m9ml.webp)<br>所属作品：`ssss.dynazenon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
