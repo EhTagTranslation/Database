@@ -7703,6 +7703,7 @@ example:
 | amo empool | 亚默·恩普尔 | ![](https://static.wikia.nocookie.net/gachiakuta/images/0/09/Amo_Empool_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：アモ・エンプール |  |
 | riyo reaper | 莉阳 | ![](https://static.wikia.nocookie.net/gachiakuta/images/f/fe/Riyo_Reaper_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：リヨウ・リーパー |  |
 | eishia stilza | 艾希娅·斯蒂尔扎 | ![](https://static.wikia.nocookie.net/gachiakuta/images/b/b6/Eishia_Stilza_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：エイシア・スティルザ |  |
+| yoru | 夜 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/90/Volume_12_%28Textless%29.png)<br>所属作品：`chainsaw man`<br>战争恶魔在三鹰朝被嫉妒自己的班长杀害后出现并复活、附身她。自称为“夜”。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
