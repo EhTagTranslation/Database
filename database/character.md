@@ -7695,6 +7695,7 @@ example:
 | gina boyd | 吉娜·波特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/cc/69511_crt_h529x.jpg?r=1556531327)<br>所属作品：`dumbbell nan kilo moteru`<br>日语名：ジーナ・ボイド |  |
 | satomi tachibana | 立花里美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/71/69512_crt_aCote.jpg?r=1556531365)<br>所属作品：`dumbbell nan kilo moteru` |  |
 | ye shunguang | 叶瞬光 | ![](https://patchwiki.biligame.com/images/zzz/b/bb/r9bbu7d0xedka8y881eagyhpyxgv9pg.png)<br>所属作品：`zenless zone zero` |  |
+| piper | 派派·韦尔 | ![](https://patchwiki.biligame.com/images/zzz/2/25/go56f0wjnd8ajdu29xwgl1fqmntbmnp.png)<br>所属作品：`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
