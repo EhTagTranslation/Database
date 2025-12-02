@@ -6118,7 +6118,7 @@ example:
 | aurora | 极光 \| 奥萝拉 | ①极光，本名洛拉，所属作品`p:arknights`。<br>![](https://patchwiki.biligame.com/images/arknights/9/96/6is2od48izfl7v1mfo22hg00182skuk.png)<br><br>②奥萝拉，《想要成为影之实力者》中登场的角色。被称为灾厄的魔女。<br>![](https://lain.bgm.tv/pic/crt/l/3d/04/122227_crt_8n28F.jpg?r=1675247831&_gl=1*18cm8av*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NzAwJGo1MCRsMCRoMA) | [萌娘百科](https://zh.moegirl.org.cn/极光%28明日方舟%29) |
 | evelyn chevalier | 伊芙琳·舒瓦利耶 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/02/04/15559334/84b1718e8b4c8c85322776c89bac039c_5603416352690327429.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/伊芙琳·舒瓦利耶) |
 | aisha greyrat | 爱夏·格雷拉特 | ![](https://ehgt.org/w/02/035/56390-sjkre8kr.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/爱夏·格雷拉特) |
-| ariel anemoi asura | 爱丽儿·阿涅摩伊·阿斯拉 |  | [萌娘百科](https://zh.moegirl.org.cn/爱丽儿·阿涅摩伊·阿斯拉) |
+| ariel anemoi asura | 爱丽儿·阿涅摩伊·阿斯拉 | ![](https://ehgt.org/w/02/117/13235-ipizjdz6.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/爱丽儿·阿涅摩伊·阿斯拉) |
 | linia dedoldia | 莉妮亚娜·泰德路迪亚 |  | [萌娘百科](https://zh.moegirl.org.cn/莉妮亚娜·泰德路迪亚) |
 | norn greyrat | 诺伦·格雷拉特 |  | [萌娘百科](https://zh.moegirl.org.cn/诺伦·格雷拉特) |
 | pursena adoldia | 普尔塞娜·亚德路迪亚 |  | [萌娘百科](https://zh.moegirl.org.cn/普尔塞娜·亚德路迪亚) |
