@@ -3726,7 +3726,7 @@ example:
 | clarisse | 克拉莉丝 | ①<br>![](https://huiji-public.huijistatic.com/gbf/uploads/5/5e/Zoom_3040121000_01.png)<br>所属作品：`granblue fantasy`<br><br>②<br>![](https://patchwiki.biligame.com/images/imascg/thumb/9/9d/1oogc57qd51w47t65cfp0kbel6iw687.png/960px-CGSS-Clarice-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | hilda boreas greyrat | 希尔达·伯雷亚斯·格雷拉特 | ![](https://ehgt.org/w/01/914/76196-0hx1d739.webp)<br>所属作品：`mushoku tensei` |  |
 | zenith greyrat | 塞妮丝·格雷拉特 | ![](https://ehgt.org/w/02/077/67939-9rsic83e.webp)<br>所属作品：`mushoku tensei` |  |
-| lilia greyrat | 莉莉雅·格雷拉特 |  |  |
+| lilia greyrat | 莉莉雅·格雷拉特 | ![](https://ehgt.org/w/02/048/53511-oxi2tbl1.webp)<br>所属作品：`mushoku tensei` |  |
 | hakunon | 岸波白野（女） | ![图](https://ehgt.org/3d/0e/3d0e4a655b9e533b2c7085391b69e5bcafaf2d4d-2786579-1024-1750-png_l.jpg)<br>岸波白野是TYPE-MOON旗下游戏《`fate extra`》及其衍生作品的登场角色。也登场于《`fate grand order`》。<br>别号：扎比(Francis Xavier)、奏者、小猪仔/小松鼠、岸浪ハクノ | [萌娘百科](https://zh.moegirl.org.cn/岸波白野) |
 | yoshikage kira | 吉良吉影 |  |  |
 | fuka toyokawa | 丰川风花 |  |  |
