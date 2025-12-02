@@ -14440,6 +14440,7 @@ example:
 | kazunoko | 数の子 |  |  |
 | sexy imo | せくしぃも |  |  |
 | zuuga | ズーガ |  |  |
+| komugimaru | 小麦丸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
