@@ -14442,6 +14442,7 @@ example:
 | zuuga | ズーガ |  |  |
 | komugimaru | 小麦丸 |  |  |
 | 1 dot migi ni zurashite kudasai | 1ドット右にずらしてください |  |  |
+| nanten | 南天 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
