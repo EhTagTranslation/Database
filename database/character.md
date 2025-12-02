@@ -7697,6 +7697,7 @@ example:
 | ye shunguang | 叶瞬光 | ![](https://patchwiki.biligame.com/images/zzz/b/bb/r9bbu7d0xedka8y881eagyhpyxgv9pg.png)<br>所属作品：`zenless zone zero` |  |
 | piper | 派派·韦尔 | ![](https://patchwiki.biligame.com/images/zzz/2/25/go56f0wjnd8ajdu29xwgl1fqmntbmnp.png)<br>所属作品：`zenless zone zero` |  |
 | napoli | 那不勒斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/b4/joz3ahzlavryrlmn0s5rtl3pmtikbsg.jpg/525px-那不勒斯立绘.jpg)<br>所属作品：`azur lane` |  |
+| alvitr | 亚尔薇特 | ![](https://i2.hdslb.com/bfs/new_dyn/0c5e2e62df37a11804c4f52429dd89e7262400697.png)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
