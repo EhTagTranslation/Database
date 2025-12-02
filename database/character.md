@@ -7696,6 +7696,7 @@ example:
 | satomi tachibana | 立花里美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/71/69512_crt_aCote.jpg?r=1556531365)<br>所属作品：`dumbbell nan kilo moteru` |  |
 | ye shunguang | 叶瞬光 | ![](https://patchwiki.biligame.com/images/zzz/b/bb/r9bbu7d0xedka8y881eagyhpyxgv9pg.png)<br>所属作品：`zenless zone zero` |  |
 | piper | 派派·韦尔 | ![](https://patchwiki.biligame.com/images/zzz/2/25/go56f0wjnd8ajdu29xwgl1fqmntbmnp.png)<br>所属作品：`zenless zone zero` |  |
+| napoli | 那不勒斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/b4/joz3ahzlavryrlmn0s5rtl3pmtikbsg.jpg/525px-那不勒斯立绘.jpg)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
