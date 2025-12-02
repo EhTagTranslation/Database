@@ -3270,7 +3270,7 @@ example:
 | jean | 琴 | ![](https://patchwiki.biligame.com/images/ys/2/27/r5wsqozq60ykxpyc29d6wc69lckrg8s.gif)<br>所属作品：`genshin impact`<br>正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/琴) |
 | midori fuse | 布施翠 |  |  |
 | roxy migurdia | 洛琪希·米格路迪亚 | 所属作品：`mushoku tensei`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_569/h_999/50118/103682/2025/0/22/694863.webp) | [萌娘百科](https://zh.moegirl.org.cn/洛琪希·米格路迪亚) |
-| ghislaine dedoldia | 基列奴·泰德路迪亚 |  |  |
+| ghislaine dedoldia | 基列奴·泰德路迪亚 | ![](https://ehgt.org/w/01/962/79012-9zid7hj2.webp)<br>所属作品：`mushoku tensei` |  |
 | eris boreas greyrat | 艾莉丝·伯雷亚斯·格雷拉特 | 所属作品:`p:mushoku tensei`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_669/h_1001/50118/157597/2025/0/22/505961.webp) | [萌娘百科](https://zh.moegirl.org.cn/艾莉丝·伯雷亚斯·格雷拉特) |
 | aya fujisawa | 菖蒲（藤泽彩） | 菖蒲/藤泽彩(アヤメ/フジサワ・アヤ，Ayame/Fujisawa Aya)<br>登场作品：《高达创形者》 |  |
 | musse egret | 妙婕·伊格瑞特 | ![图](## "https://ehgt.org/03/2e/032ec82a9669cd36f600f994b8fce574a515e38a-751640-1200-900-jpg_l.jpg")靠著清纯而又蛊惑人心的言行扰乱旁人的少女。背负著继承四大名门首席凯恩公爵之位的命运。<br><br>在第二分校期间，运用能从无数事象中望穿未来的「棋手」在第二分校期间，运用能从无数事象中望穿未来的「棋手」能力，为了替即将到来的大战预做准备，暗中与魔女薇塔‧克洛提德接触。<br><br>于灾厄《巨硕黄昏》降临期间，率领《伍兹兰特革命军》与帝国政府对立。明知世界难免会有牺牲，仍旧做出舍弃自身性命的觉悟与之对抗。<br><br>大战结束后，再次回到《Ⅶ班》重拾学业。正打算以少女妙婕的身分尽情享受以凯恩公爵名义开始活动前最后的短暂时光。 | [https://trails-game.com/character/musse-egret/](https://trails-game.com/character/musse-egret/) |
