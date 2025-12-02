@@ -7701,6 +7701,7 @@ example:
 | strasbourg | 斯特拉斯堡 | ![](https://i2.hdslb.com/bfs/new_dyn/feebdab15ffd1e0ba285f47c8628fa68262400697.png)<br>所属作品：`azur lane` |  |
 | bai yi | 白逸 | ![](https://patchwiki.biligame.com/images/wqmt/thumb/6/67/8a2ymz16grml7bdk40fa0iskdcrtp7i.png/480px-白逸立绘.png)<br>所属作品：`wuqi mitu` |  |
 | amo empool | 亚默·恩普尔 | ![](https://static.wikia.nocookie.net/gachiakuta/images/0/09/Amo_Empool_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：アモ・エンプール |  |
+| riyo reaper | 理遥 | ![](https://static.wikia.nocookie.net/gachiakuta/images/f/fe/Riyo_Reaper_%28Anime%29.png)<br>所属作品：`gachiakuta`<br>日语名：リヨウ・リーパー |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
