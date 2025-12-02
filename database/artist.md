@@ -14439,6 +14439,7 @@ example:
 | zorusoru | ぞるそる |  |  |
 | kazunoko | 数の子 |  |  |
 | sexy imo | せくしぃも |  |  |
+| zuuga | ズーガ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
