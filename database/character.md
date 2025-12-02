@@ -6120,7 +6120,7 @@ example:
 | aisha greyrat | 爱夏·格雷拉特 | ![](https://ehgt.org/w/02/035/56390-sjkre8kr.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/爱夏·格雷拉特) |
 | ariel anemoi asura | 爱丽儿·阿涅摩伊·阿斯拉 | ![](https://ehgt.org/w/02/117/13235-ipizjdz6.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/爱丽儿·阿涅摩伊·阿斯拉) |
 | linia dedoldia | 莉妮亚娜·泰德路迪亚 | ![](https://ehgt.org/w/01/995/76520-n5gas6uq.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/莉妮亚娜·泰德路迪亚) |
-| norn greyrat | 诺伦·格雷拉特 |  | [萌娘百科](https://zh.moegirl.org.cn/诺伦·格雷拉特) |
+| norn greyrat | 诺伦·格雷拉特 | ![](https://ehgt.org/w/01/962/64057-3b7yyi3c.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/诺伦·格雷拉特) |
 | pursena adoldia | 普尔塞娜·亚德路迪亚 |  | [萌娘百科](https://zh.moegirl.org.cn/普尔塞娜·亚德路迪亚) |
 | hiyori shiina | 椎名日和 | ![](https://img.moegirl.org.cn/common/2/2d/Shiina_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>喜欢独处的文静少女，学校图书馆的常客，特别钟爱推理小说。拥有在全年级可以排在前列的学力，但相对地不擅长运动。 | [萌娘百科](https://zh.moegirl.org.cn/椎名日和) |
 | freminet | 菲米尼 | `p:genshin impact`男角色，精通潜水之道。 |  |
