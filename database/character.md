@@ -3559,7 +3559,7 @@ example:
 | kaguya sumeragi | 皇神乐耶 | ![](https://patchwiki.biligame.com/images/loststories/4/4b/by9xch95sirakj3t8rjhtzucb05l4he.png)<br>![](https://patchwiki.biligame.com/images/loststories/f/f4/5tbe5y5xra1fce8b70lwrvdvc1160lb.png)<br>![](https://patchwiki.biligame.com/images/loststories/3/38/dbwvumba989g2uix32hx0pezv3dp1wr.png)<br>所属作品：`code geass`<br>日语：すめらぎ かぐや | [萌娘百科](https://zh.moegirl.org.cn/皇神乐耶) |
 | krillin | 克林 |  |  |
 | rudeus greyrat | 鲁迪乌斯·格雷拉特 |  |  |
-| sylphiette | 希露菲叶特 |  |  |
+| sylphiette | 希露菲叶特 | ![](https://ehgt.org/w/01/995/73446-adbcz41k.webp)<br>所属作品：`mushoku tensei` |  |
 | zamasu | 扎马斯 |  |  |
 | kokoro | 心 | 日本格斗游戏《死或生》中登场角色，擅长八极拳的女生。同时是学生也是京都的艺妓。为了证实自己实力而不顾母亲美夜子反对参加DOA大赛。DOA5中在扎克邀请下参加了大赛，和海莲娜见面对话中，发现了母亲美夜子其实在艺妓的身份下，也有在DOATEC公司工作。<br>生日：12月1日<br>星座：射手座<br>年龄：17岁<br>血型：A型<br>身高：158cm<br>体重：49kg<br>三围：B90；W55；H87<br>职业：艺伎<br>兴趣：钢琴<br>喜欢的食物：日式点心；红豆汤<br>喜欢的颜色：橙色<br>流派：八极拳 |  |
 | christie | 克丽丝蒂 |  |  |
