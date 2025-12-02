@@ -7691,6 +7691,7 @@ example:
 | kyouka tachibana | 橘京香 | ![](https://ehgt.org/w/02/111/25760-e1mwin0s.webp)<br>所属作品：`tachibana-san-chi no dansei jijou` |  |
 | paul greyrat | 保罗·格雷拉特 | 所属作品：`mushoku tensei` |  |
 | syuen | 苏恩 | ![](https://ehgt.org/w/01/663/79319-hxesh2ra.webp)<br>所属作品：`goddess of victory nikke` |  |
+| akemi soryuin | 奏流院朱美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/38/fb/69509_crt_nr5qq.jpg?r=1589888359)<br>所属作品：`dumbbell nan kilo moteru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
