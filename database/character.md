@@ -4659,7 +4659,7 @@ example:
 | black widow | 黑寡妇 | 所属作品: `p:avengers` |  |
 | midna | 米多娜 | 《塞尔达黄昏公主》中的黄昏公主 |  |
 | arisu sakayanagi | 坂柳有栖 | ![](https://img.moegirl.org.cn/common/b/be/Sakayanagi_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>皮肤白皙、长相可爱，极具质感的银发和仿佛来自不可思议之国度的名字（有栖/Alice），再加上罹患先天心疾的病弱身体，往往令周围人感到一种虚幻易逝的奇妙氛围。 | [萌娘百科](https://zh.moegirl.org.cn/坂柳有栖) |
-| griseo | 格蕾修 | ![](https://act-upload.mihoyo.com/bh3-wiki/2023/11/01/50494840/cb83545dd0df2c2b7ff0d6ef9196f85e_762604071459129379.png)<br>所属作品：`honkai gakuen` | [萌娘百科](https://zh.moegirl.org.cn/格蕾修) |
+| griseo | 格蕾修 | ![](https://act-upload.mihoyo.com/bh3-wiki/2023/11/01/50494840/cb83545dd0df2c2b7ff0d6ef9196f85e_762604071459129379.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2022/05/17/50494840/5e5239f4aab3d1661826bacc88e6c4f5_2641902326925515464.gif)<br>所属作品：`honkai gakuen` | [萌娘百科](https://zh.moegirl.org.cn/格蕾修) |
 | melina | 梅琳娜 | 梅琳娜（英语：Melina）是由FromSoftware开发，万代南梦宫娱乐发行的动作角色扮演游戏《艾尔登法环》中的登场角色。<br>![](https://img.moegirl.org.cn/common/0/06/艾尔登法环梅琳娜.jpg) | [萌娘百科](https://zh.moegirl.org.cn/梅琳娜%28艾尔登法环%29#) |
 | hinoa | 火芽 | 火芽登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。<br><br>负责调配村庄任务的接待员。<br><br>有个担任集会所接待员的双胞胎妹妹。<br><br>温柔善良，总是笑眯眯的，犹如太阳般照耀着村庄。<br><br>她的笑容能够照亮整个遭受灾祸的炎火村。<br><br>常常对成为新手猎人的主角（烈焰）施以援手，关系好得就像家人一般。<br><br>特别喜欢村里的名产“兔团子”，总爱往茶馆跑。<br><br>村庄的任务都由接待员火芽负责介绍。<br><br>阅读更多：火芽（[萌娘百科](https://zh.moegirl.org.cn/火芽) ）<br>本文引自萌娘百科([萌娘百科](https://mzh.moegirl.org.cn) )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议。 | [萌娘百科](https://zh.moegirl.org.cn/火芽) |
 | implacable | 怨仇 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/c8a60be7e607463eadd89d8b535defce262400697.png)<br>其原型是英国海军的怨仇号航空母舰（HMS\_Implacable\_(R86)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:怨仇) |
