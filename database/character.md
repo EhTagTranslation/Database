@@ -7714,7 +7714,7 @@ example:
 | toki | 鸨 | ![](https://i2.hdslb.com/bfs/new_dyn/11e19de2467d6977b90bc6a57ef15ea725843048.jpg)<br>所属作品：`senran kagura` |  |
 | natsumi obata | 小幡夏美 | ![](https://ehgt.org/w/02/056/48260-4h91leck.webp)<br>所属作品：`saimin seishidou`<br>小幡优衣的母亲。 |  |
 | yui obata | 小幡优衣 | 所属作品：`saimin seishidou` |  |
-| reika kurashiki | 仓敷丽华 | ![](https://ehgt.org/w/01/906/57371-e6cohlbl.webp)<br>所属作品：`saimin seishidou` |  |
+| reika kurashiki | 仓敷丽华 | ![](https://ehgt.org/w/01/906/57371-e6cohlbl.webp)<br>所属作品：`saimin seishidou`<br>仓敷玲奈的母亲。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
