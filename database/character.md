@@ -7709,6 +7709,7 @@ example:
 | kiyoko shimizu | 清水洁子 | ![](https://ehgt.org/w/01/965/72196-94zd84mm.webp)<br>所属作品：`haikyuu`<br>日语名：しみず きよこ |  |
 | amelia rosequartz | 艾蜜莉亚·罗丝寇兹 | ![](https://ehgt.org/w/02/120/17629-6b5ujlhd.webp)<br>所属作品：`ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga` |  |
 | psylocke | 灵蝶 | ![](https://ehgt.org/w/01/943/51736-h4z7ktv0.webp)<br>所属作品：`x-men` |  |
+| jean grey | 琴格雷 | ![](https://ehgt.org/w/02/094/07355-cqttjs9j.webp)<br>所属作品：`x-men` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
