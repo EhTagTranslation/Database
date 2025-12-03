@@ -6015,7 +6015,7 @@ example:
 | fubuki azuma | 东风舞希 | 是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/东风舞希.png/420px-东风舞希.png) [萌娘百科](https://zh.moegirl.org.cn/东风舞希) |
 | sky striker ace - raye | 闪刀姬-零衣 | 游戏王OCG知名卡组系列角色之一 | [萌娘百科](https://zh.moegirl.org.cn/闪刀姬-零衣) |
 | felicia mitsuki | 深月菲莉希亚 | 深月菲莉希亚是动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》中的登场角色。在主线故事开始前作为“魔法少女佣兵”而独自生活着。 | [萌娘百科](https://zh.moegirl.org.cn/深月菲莉希亚) |
-| shiki wakana | 若菜四季 | ![](https://img.moegirl.org.cn/common/3/36/若菜四季_立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/若菜四季) |
+| shiki wakana | 若菜四季 | ![](https://img.moegirl.org.cn/common/3/36/若菜四季_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/若菜四季)<br>[Fandom](https://love-live.fandom.com/wiki/Shiki_Wakana) |
 | kinako sakurakoji | 樱小路希奈子 | ![](https://p.sda1.dev/21/606ef1181c007e1b9388055d30ae46c2/image.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/樱小路希奈子)<br>[Fandom](https://love-live.fandom.com/wiki/Kinako_Sakurakoji) |
 | karlach cliffgate | 卡菈克·克里夫加特 | 游戏《博德之门3》 中的起源角色之一 | [萌娘百科](https://zh.moegirl.org.cn/博德之门3#.E5.8D.A1.E8.8F.88.E5.85.8B) |
 | harumasa asaba | 浅羽悠真 | ![](https://p.sda1.dev/24/f2fb7994c9ce94b6cbe092eeb904bd08/image.png)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/浅羽悠真) |
