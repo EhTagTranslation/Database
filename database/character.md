@@ -7713,6 +7713,7 @@ example:
 | todoroki hajime | 轰一 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1a/3d/144489_crt_wJy85.jpg)<br>所属社团：Hololive<br>日文名：とどろき はじめ / 轟はじめ |  |
 | toki | 鸨 | ![](https://i2.hdslb.com/bfs/new_dyn/11e19de2467d6977b90bc6a57ef15ea725843048.jpg)<br>所属作品：`senran kagura` |  |
 | natsumi obata | 小幡夏实 | ![](https://ehgt.org/w/02/056/48260-4h91leck.webp)<br>所属作品：`saimin seishidou`<br>小幡优衣的母亲。 |  |
+| yui obata | 小幡优衣 | 所属作品：`saimin seishidou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
