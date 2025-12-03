@@ -4065,7 +4065,7 @@ example:
 | maria momoe | 百枝麻里亚 |  |  |
 | kraft lawrence | 克拉福·罗伦斯 |  |  |
 | orihime inoue | 井上织姬 | 所属作品: `p:bleach`<br><br>本作的主角之一。性格单纯温柔、天然呆又无厘头，总有很多奇思异想，是一个喜好和平的女孩，也总是能给人带来轻松和笑声。拥有敏锐的灵力感知和细致的灵压掌控技巧，能力是头上发夹中的"盾舜六花"（拒绝之力）。<br><br>![](https://static.wikia.nocookie.net/shironekoproject/images/1/1b/井上_織姬.png/revision/latest/scale-to-width-down/1000?cb=20220112152123&path-prefix=zh) | [萌娘百科](https://zh.moegirl.org.cn/井上织姬) [维基百科](https://zh.wikipedia.org/wiki/井上織姬) [Fandom](https://bleach.fandom.com/wiki/Orihime_Inoue) |
-| elysia | 爱莉希雅 | ![](https://img.moegirl.org.cn/common/2/2b/Elysia.png)<br>爱莉希雅是米哈游旗下游戏《崩坏3》及其衍生作品的登场角色 |  |
+| elysia | 爱莉希雅 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/10/25/50494840/630e22081a6ed459a2b6729e29f5e6db_3282802628295683754.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2022/10/12/50494840/94c4eb83f845d7e28659514277188c0b_7169555457918615319.gif)<br>所属作品：`honkai gakuen` |  |
 | kayoko onikata | 鬼方佳代子 | 所属作品：`blue archive`。格黑娜学园所属，便利屋68的主管。![](https://static.wikia.nocookie.net/blue-archive/images/1/10/Kayoko_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/鬼方佳世子) [Fandom](https://bluearchive.fandom.com/wiki/Onikata_Kayoko)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kayoko) |
 | aoi tosaka | 远坂葵 |  |  |
 | sothis | 苏谛斯 | ![](https://static.wikia.nocookie.net/fireemblem/images/a/ab/Artwork_Sothis.png/revision/latest?cb=20201220090938)<br>所属作品：《`fire emblem three houses`》<br><br>出现在主角梦境中的存在。自从使用回溯时间的能力拯救主角后，便如同住在主角脑海中一般，能够与主角进行交谈，但除了主角之外没有人察觉到她的存在。<br><br>她完全不记得自己的身份，虽然外表上看起来是一名年幼的少女，但说话的口气却完全是个老婆婆。 | [萌娘百科](https://zh.moegirl.org.cn/苏谛斯)<br>[Fandom](https://fireemblem.fandom.com/wiki/Sothis) |
