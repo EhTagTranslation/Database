@@ -3603,7 +3603,7 @@ example:
 | takagi | 高木同学 | 高木同学是由山本崇一朗创作的漫画《擅长捉弄人的高木同学》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/thumb/6/61/Takagi_BD2.jpg/800px-Takagi_BD2.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高木同学) |
 | stella unibell | 史黛拉·尤尼贝尔 | 史黛拉·尤尼贝尔是游戏《灵魂行者》（Soul Worker）中的角色，她性格天真烂漫，超级我行我素，不论周围的情况如何都以自己的心情优先。有在意的事就忍不住，会说出出乎意料的话。喜欢唱起幽灵和歌来说话，欠缺常识，对“气”很敏感。因为别人的死而有着无法承受的悲伤，有倾向于凭依状态回避状况的倾向。 | [百度百科](https://baike.baidu.com/item/灵魂武器/4950731) |
 | hotaru futaba | 双叶萤 | 饿狼MARK OF THE WOLVES中的人物，是一个喜爱拳法的可爱率真少女。 |  |
-| keke tang | 唐可可 |  |  |
+| keke tang | 唐可可 | ![](https://static.wikia.nocookie.net/love-live/images/7/74/Tang_Keke.png/revision/latest?cb=20240615145356)<br>所属作品: `p:love live superstar`<br>来自中国上海，结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/唐可可)<br>[Fandom](https://love-live.fandom.com/wiki/Keke_Tang) |
 | kasumi yoshizawa | 芳泽霞 | 芳泽霞（日语：芳澤（よしざわ） かすみ）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5 皇家版》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/芳泽堇) |
 | sae niijima | 新岛冴 | 新岛冴（日语：新島（ニイジマ） 冴（サエ））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新岛冴) |
 | akira kurusu | 来栖晓 | 来栖晓（日语：来栖（くるす） 暁（あきら） (Kurusu Akira)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录5》的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录5%29#) |
