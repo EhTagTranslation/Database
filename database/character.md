@@ -6406,7 +6406,7 @@ example:
 | zebstrika | 雷电斑马 |  |  |
 | dp-12 | DP-12 \| 海伦 | 所属作品: `p:girls frontline`<br>少女前线2：追放<br>已登场 | [萌娘百科](https://zh.moegirl.org.cn/少女前线:DP-12) |
 | ai mie | 三重爱 | 所属作品: `p:suki na ko ga megane wo wasureta` | [萌娘百科](https://zh.moegirl.org.cn/三重爱) |
-| tomari onitsuka | 鬼冢冬毬 | 所属作品: `p:love live superstar`<br><br>结丘女子高等学校第三届学生，学园偶像组合Liella!成员。是2023年4月28日新公布加入Liella!的两名三期生成员之一。`natsumi onitsuka`的妹妹。 | [Fandom](https://love-live.fandom.com/wiki/Tomari_Onitsuka) [萌娘百科](https://zh.moegirl.org.cn/鬼冢冬毬) |
+| tomari onitsuka | 鬼冢冬毬 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/55/鬼冢冬毬_立绘.png)<br>所属作品: `p:love live superstar`<br><br>结丘女子高等学校第三届学生，学园偶像组合Liella!成员。是2023年4月28日新公布加入Liella!的两名三期生成员之一。`natsumi onitsuka`的妹妹。 | [Fandom](https://love-live.fandom.com/wiki/Tomari_Onitsuka) [萌娘百科](https://zh.moegirl.org.cn/鬼冢冬毬) |
 | sana miyoshi | 三好纱南 | ![三好纱南](https://patchwiki.biligame.com/images/imascg/thumb/f/f3/pvoh2e1l066c5k7wkjd5xsqg0gdx5sh.png/1160px-CGSS-Sana-SSR-3%2B.png)<br>BNEI与Cygames开发的手机社群游戏《`p:the idolmaster`灰姑娘女孩》系列中的游戏宅偶像。<br>香川出身的14岁少女，喜欢玩游戏和通宵。目标是成为最强的游戏偶像，希望从事游戏和游戏展相关的工作。 | [偶像大师灰姑娘女孩中文维基](https://wiki.biligame.com/imascg/三好纱南) |
 | cipher | 赛飞儿 | 所属作品: `p:honkai star rail`<br>![](https://patchwiki.biligame.com/images/sr/thumb/9/97/j9ze4tnenfrqgx4tygftk0veekqsn2z.png/1050px-赛飞儿立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/赛飞儿) [BILIGAME WIKI](https://wiki.biligame.com/sr/赛飞儿) |
 | amate yuzuriha | 天手让叶 | 原名天手让叶，是高中女生。在殖民卫星里过着和平的日常生活，却总是有种不真实的感觉。以邂逅尼娅安为契机，成为了《`p:mobile suit gundam gquuuuuux`》的驾驶员，并且参加了《军团战》。 | [官方介绍页](https://gundaminfo.cn/about-gundam/series-pages/gquuuuuux/character/1) |
