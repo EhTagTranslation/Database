@@ -13475,6 +13475,7 @@ example:
 | tonosama penguin | 殿様ペンギン |  |  |
 | seiki no hero | 性器のHERO |  |  |
 | chotto b-sen | ちょっとB専 |  |  |
+| daraku sanpo | 堕落さんぽ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
