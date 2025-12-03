@@ -4232,7 +4232,7 @@ example:
 | rean schwarzer | 黎恩·舒华泽 |  |  |
 | millium orion | 米莉亚姆·奥莱恩 |  |  |
 | candace | 坎蒂丝 | ![](https://patchwiki.biligame.com/images/ys/c/c8/0fu5a3u62o2fglmop7cxv3x2yn9tx37.gif)<br>所属作品`p:genshin impact`<br>有着琥珀色左眼的赤王后裔，阿如村的守护者。 | [萌娘百科](https://zh.moegirl.org.cn/坎蒂丝) |
-| mei raiden | 雷电芽衣 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/03/75216984/47b86c6d43fc2d803949e7f7164ed4b1_103170303049711154.gif)<br>所属作品：`honkai gakuen` |  |
+| mei raiden | 雷电芽衣 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/24/75216984/de2da4f4f278d0dbcb9479cbcc0ca434_8606203061707384326.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/03/75216984/47b86c6d43fc2d803949e7f7164ed4b1_103170303049711154.gif)<br>所属作品：`honkai gakuen` |  |
 | durandal | 幽兰黛尔 \| 多旺达 | ①幽兰黛尔<br>所属作品：`honkai gakuen`<br><br>②多旺达<br>![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d4/57zr32soyf06ol56u9fg6qh66bxe30v.png/600px-Jsf_112101.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/多旺达) |
 | himeko murata | 无量塔姬子 |  |  |
 | seele vollerei | 希儿·芙乐艾 | 希儿·芙乐艾，所属作品:`p:honkai gakuen`; `p:honkai star rail`<br>是米哈游出品的崩坏系列（包括《崩坏:星穹铁道》）及其衍生作品的出场角色<br>希儿·芙乐艾(崩坏学园2)———《崩坏学园2》及其衍生作品中的出场角色。<br>希儿·芙乐艾(崩坏3)———《崩坏3》及其衍生作品中的出场角色。<br>希儿(崩坏：星穹铁道)———《崩坏:星穹铁道》及其衍生作品中的出场角色。<br>![](https://img.moegirl.org.cn/common/c/c1/崩坏学园2希儿立绘.png)<br>![](https://img.moegirl.org.cn/common/3/3a/Seele_c1.png)<br>![](https://img.moegirl.org.cn/common/9/97/Seele希儿.png) | [萌娘百科](https://zh.moegirl.org.cn/希儿·芙乐艾)<br>[萌娘百科](https://zh.moegirl.org.cn/希儿%28星穹铁道%29#) |
