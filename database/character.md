@@ -7717,6 +7717,7 @@ example:
 | reika kurashiki | 仓敷丽华 | ![](https://ehgt.org/w/01/906/57371-e6cohlbl.webp)<br>所属作品：`saimin seishidou`<br>仓敷玲奈的母亲。 |  |
 | reina kurashiki | 仓敷玲奈 | ![](https://ehgt.org/w/01/888/65063-kg5wmi3o.webp)<br>所属作品：`saimin seishidou` |  |
 | belial | 业火之彼列 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/50/Sentoin_novels_7.jpg)<br>所属作品：`sentouin hakenshimasu`<br>日文名：ベリアル |  |
+| snow | 雪诺 | ![](https://ehgt.org/w/01/972/58550-2n0tn7o1.webp)<br>所属作品：`sentouin hakenshimasu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
