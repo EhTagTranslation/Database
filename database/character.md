@@ -3635,7 +3635,7 @@ example:
 | ren hazuki | 叶月恋 |  |  |
 | sumire heanna | 平安名堇 |  |  |
 | lanzhu zhong | 钟岚珠 |  |  |
-| kanon shibuya | 涩谷香音 | “你好，谢谢，小笼包，再见！” |  |
+| kanon shibuya | 涩谷香音 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/34/涩谷香音_立绘.png)<br>所属作品: `p:love live superstar`<br>“你好，谢谢，小笼包，再见！” | [萌娘百科](https://zh.moegirl.org.cn/涩谷香音)<br>[Fandom](https://love-live.fandom.com/wiki/Kanon_Shibuya) |
 | chisato arashi | 岚千砂都 |  |  |
 | mia taylor | 米娅·泰勒 |  |  |
 | kiana kaslana | 琪亚娜·卡斯兰娜 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/24/81417673/846743ce1e4d3bf5b7c343662793f472_6061847939618725749.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/26/73514954/78841e9e9143cd490a357cf5dc590ec2_4426127903561681545.gif)<br>所属作品：`honkai gakuen` |  |
