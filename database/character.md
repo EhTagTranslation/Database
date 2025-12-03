@@ -7711,6 +7711,7 @@ example:
 | psylocke | 灵蝶 | ![](https://ehgt.org/w/01/943/51736-h4z7ktv0.webp)<br>所属作品：`x-men` |  |
 | jean grey | 琴格雷 | ![](https://ehgt.org/w/02/094/07355-cqttjs9j.webp)<br>所属作品：`x-men` |  |
 | todoroki hajime | 轰一 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1a/3d/144489_crt_wJy85.jpg)<br>所属社团：Hololive<br>日文名：とどろき はじめ / 轟はじめ |  |
+| toki | 鸨 | ![](https://i2.hdslb.com/bfs/new_dyn/11e19de2467d6977b90bc6a57ef15ea725843048.jpg)<br>所属作品：`senran kagura` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
