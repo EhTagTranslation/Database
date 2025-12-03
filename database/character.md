@@ -7715,6 +7715,7 @@ example:
 | natsumi obata | 小幡夏美 | ![](https://ehgt.org/w/02/056/48260-4h91leck.webp)<br>所属作品：`saimin seishidou`<br>小幡优衣的母亲。 |  |
 | yui obata | 小幡优衣 | 所属作品：`saimin seishidou` |  |
 | reika kurashiki | 仓敷丽华 | ![](https://ehgt.org/w/01/906/57371-e6cohlbl.webp)<br>所属作品：`saimin seishidou`<br>仓敷玲奈的母亲。 |  |
+| reina kurashiki | 仓敷玲奈 | ![](https://ehgt.org/w/01/888/65063-kg5wmi3o.webp)<br>所属作品：`saimin seishidou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
