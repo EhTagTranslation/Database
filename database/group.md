@@ -13474,6 +13474,7 @@ example:
 | peimond | ペイモンド |  |  |
 | tonosama penguin | 殿様ペンギン |  |  |
 | seiki no hero | 性器のHERO |  |  |
+| chotto b-sen | ちょっとB専 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
