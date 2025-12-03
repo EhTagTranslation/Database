@@ -7041,7 +7041,7 @@ example:
 | hongryeon | C-77红莲 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/236746/2023/3/4/673.png)<br>![](https://cdnimg-v2.gamekee.com/images/www/1635144791887_19949014.png)<br>所属作品：`last origin` |  |
 | sekhmet | 赛克麦特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_800/h_2032/245/72324/2025/2/26/866168.png)<br>所属作品：`last origin` |  |
 | cerestia | 塞蕾斯缇雅 | ![](https://cdnimg-v2.gamekee.com/images/www/1639045349371_682874.png)<br>所属作品：`last origin` |  |
-| black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://lain.bgm.tv/r/400/pic/crt/l/0e/10/72966_crt_M56U6.jpg)<br>所属作品：`sentouin hakenshimasu`<br><br>②黑莉莉丝<br>![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
+| black lilith | 黑莉莉丝 \| 黑之莉莉丝 | ①黑之莉莉丝<br>![](https://lain.bgm.tv/r/400/pic/crt/l/0e/10/72966_crt_M56U6.jpg)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。<br>————————<br><br>②黑莉莉丝<br>![](https://cdnimg-v2.gamekee.com/images/www/1633682601813_89475476.png)<br>所属作品：`last origin` |  |
 | kyrie ushiromiya | 右代宫雾江 | ![](https://lain.bgm.tv/r/400/pic/crt/l/1c/73/932_crt_816eP.jpg?r=1677396648)<br>所属作品：`umineko no naku koro ni` |  |
 | black wyrm | 黑龙S9 | ![](https://cdnimg-v2.gamekee.com/images/www/1639044419600_5948109.png)<br>所属作品：`last origin` |  |
 | alcyone | 阿尔库俄涅 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1916/h_1982/245/72324/2025/2/19/70916.png)<br>所属作品：`last origin` |  |
