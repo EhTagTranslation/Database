@@ -3160,7 +3160,7 @@ example:
 | naofumi iwatani | 岩谷尚文（盾之勇者） |  |  |
 | melty q melromarc | 梅蒂·Q·梅洛马格 |  |  |
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 | ![](https://ehgt.org/w/02/105/90663-htnwr4r2.webp)<br>所属作品：`tate no yuusha no nariagari` |  |
-| malty melromarc | 麦蒂·S·梅洛玛格 |  |  |
+| malty melromarc | 麦蒂·S·梅洛玛格 | ![](https://ehgt.org/w/01/970/19532-eifo0g9q.webp)<br>所属作品：`tate no yuusha no nariagari` |  |
 | motoyasu kitamura | 北村元康（枪之勇者） |  |  |
 | hana uzaki | 宇崎花 | 所属作品：`uzaki-chan wa asobitai`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/01/07/30/02/135739572_p0_master1200.jpg) |  |
 | tsuki uzaki | 宇崎月 | 所属作品：`uzaki-chan wa asobitai`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/01/15/12/56/135747848_p0_master1200.jpg) |  |
