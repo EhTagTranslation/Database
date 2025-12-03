@@ -2634,6 +2634,7 @@ example:
 | kibou no chikara otona pretty cure 23 | 希望的力量～大人的光之美少女\`23 | ![](https://img1.doubanio.com/view/photo/sqxs/public/p2901818219.webp)<br>日本动画系列《光之美少女》的衍生作品，聚焦成年角色的冒险故事。 |  |
 | gachiakuta | 废渊战鬼 | ![](https://lain.bgm.tv/r/400/pic/cover/l/ea/10/498947_x3ZvD.jpg)<br>《GACHIAKUTA》是由日本漫画家裏那圭创作的少年漫画，并有同名改编动画。<br>别译咔嗒咔嗒。 |  |
 | ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga | 身为暗杀者的我明显比勇者还强 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923543806.webp)<br>《明明只是暗杀者，我的面板数值却比勇者还要强》是由赤井祭创作的网络小说作品，该作亦改编为同名漫画、电视动画作品。 |  |
+| tomodachi game | 朋友游戏 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2869395672.webp) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
