@@ -3632,7 +3632,7 @@ example:
 | hitohito tadano | 只野仁人 |  |  |
 | itto arataki | 荒泷一斗 | 荒泷一斗（英语：itto arataki）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
 | princess zelda | 塞尔达公主 | 不是林克 | [维基百科](https://zh.wikipedia.org/wiki/塞尔达公主) |
-| ren hazuki | 叶月恋 |  |  |
+| ren hazuki | 叶月恋 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/df/叶月恋_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶月恋)<br>[Fandom](https://love-live.fandom.com/wiki/Ren_Hazuki) |
 | sumire heanna | 平安名堇 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/平安名堇_立绘.png)<br>所属作品: `p:love live superstar`<br>古搜库沐西～ 古搜库沐西～古搜库搜库搜库 古搜库沐西～<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/平安名堇)<br>[Fandom](https://love-live.fandom.com/wiki/Sumire_Heanna) |
 | lanzhu zhong | 钟岚珠 |  |  |
 | kanon shibuya | 涩谷香音 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/34/涩谷香音_立绘.png)<br>所属作品: `p:love live superstar`<br>“你好，谢谢，小笼包，再见！”<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/涩谷香音)<br>[Fandom](https://love-live.fandom.com/wiki/Kanon_Shibuya) |
