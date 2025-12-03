@@ -7720,6 +7720,7 @@ example:
 | snow | 雪诺 | ![](https://ehgt.org/w/01/972/58550-2n0tn7o1.webp)<br>所属作品：`sentouin hakenshimasu`<br>从贫民窟出身的身份一举爬到近卫骑士团队长的努力家。 |  |
 | honou no heine | 炎之海涅 | ![](https://ehgt.org/w/01/965/30811-9peeyvqe.webp)<br>所属作品：`sentouin hakenshimasu`<br>魔王军四天王干部之一。 |  |
 | alice kisaragi | 如月爱丽丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/01/65/72955_crt_aj27J.jpg?r=1624498204)<br>所属作品：`sentouin hakenshimasu`<br>极恶反派组织如月公司最高干部创造的美少女型态仿生机器人。 |  |
+| astaroth | 阿斯塔蒂 \| 阿斯塔特 | ①阿斯塔特<br>![](https://ehgt.org/w/00/884/68152-jkndxdac.webp)<br>所属作品：`granblue fantasy`<br>共斗的最后一个敌人。<br>②冰结之阿斯塔蒂<br>![](https://kisaragi-co.jp/assets/top/character/c6.png)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
