@@ -3638,7 +3638,7 @@ example:
 | kanon shibuya | 涩谷香音 | “你好，谢谢，小笼包，再见！” |  |
 | chisato arashi | 岚千砂都 |  |  |
 | mia taylor | 米娅·泰勒 |  |  |
-| kiana kaslana | 琪亚娜·卡斯兰娜 |  |  |
+| kiana kaslana | 琪亚娜·卡斯兰娜 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/26/73514954/78841e9e9143cd490a357cf5dc590ec2_4426127903561681545.gif)<br>所属作品：`honkai gakuen` |  |
 | sakura yae | 八重樱 | 八重樱是mihoyo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生IP作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cb/八重樱.png)<br>![](https://img.moegirl.org.cn/common/3/39/60211.png) | [萌娘百科](https://zh.moegirl.org.cn/八重樱%28崩坏系列%29) |
 | hornet | 大黄蜂 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/e791deb2a92f7e975133da7576954fd8262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大黄蜂) |
 | sara kujou | 九条裟罗 | ![](https://patchwiki.biligame.com/images/ys/b/bd/t4dh4adedxo0kdyks3jg5ihli0wqkw4.gif)<br>所属作品:`p:genshin impact`<br>「天领奉行」的大将，杀伐果断，骁勇善战。 | [萌娘百科](https://zh.moegirl.org.cn/九条裟罗) |
