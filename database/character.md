@@ -7719,7 +7719,7 @@ example:
 | belial | 业火之彼列 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/50/Sentoin_novels_7.jpg)<br>所属作品：`sentouin hakenshimasu`<br>日文名：ベリアル |  |
 | snow | 雪诺 | ![](https://ehgt.org/w/01/972/58550-2n0tn7o1.webp)<br>所属作品：`sentouin hakenshimasu`<br>从贫民窟出身的身份一举爬到近卫骑士团队长的努力家。 |  |
 | honou no heine | 炎之海涅 | ![](https://ehgt.org/w/01/965/30811-9peeyvqe.webp)<br>所属作品：`sentouin hakenshimasu`<br>魔王军四天王干部之一。 |  |
-| alice kisaragi | 如月爱丽丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/01/65/72955_crt_aj27J.jpg?r=1624498204)<br>所属作品：`sentouin hakenshimasu`<br>极恶反派组织如月公司最高干部莉莉丝创造的美少女型态仿生机器人。 |  |
+| alice kisaragi | 如月爱丽丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/01/65/72955_crt_aj27J.jpg?r=1624498204)<br>所属作品：`sentouin hakenshimasu`<br>极恶反派组织如月公司最高干部创造的美少女型态仿生机器人。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
