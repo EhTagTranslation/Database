@@ -3639,7 +3639,7 @@ example:
 | chisato arashi | 岚千砂都 |  |  |
 | mia taylor | 米娅·泰勒 |  |  |
 | kiana kaslana | 琪亚娜·卡斯兰娜 | ![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/24/81417673/846743ce1e4d3bf5b7c343662793f472_6061847939618725749.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/26/73514954/78841e9e9143cd490a357cf5dc590ec2_4426127903561681545.gif)<br>所属作品：`honkai gakuen` |  |
-| sakura yae | 八重樱 | 八重樱是mihoyo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生IP作品的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cb/八重樱.png)<br>![](https://img.moegirl.org.cn/common/3/39/60211.png) | [萌娘百科](https://zh.moegirl.org.cn/八重樱%28崩坏系列%29) |
+| sakura yae | 八重樱 | ![](https://img.moegirl.org.cn/common/3/39/60211.png)<br>![](https://uploadstatic.mihoyo.com/bh3-wiki/2021/09/04/91006211/705f473b91a43d0fef0d922ecf18381c_7891799910206206742.gif)<br>所属作品：`honkai gakuen` | [萌娘百科](https://zh.moegirl.org.cn/八重樱%28崩坏系列%29) |
 | hornet | 大黄蜂 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/e791deb2a92f7e975133da7576954fd8262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大黄蜂) |
 | sara kujou | 九条裟罗 | ![](https://patchwiki.biligame.com/images/ys/b/bd/t4dh4adedxo0kdyks3jg5ihli0wqkw4.gif)<br>所属作品:`p:genshin impact`<br>「天领奉行」的大将，杀伐果断，骁勇善战。 | [萌娘百科](https://zh.moegirl.org.cn/九条裟罗) |
 | smart falcon | 醒目飞鹰 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/74/j6jiznqklb8sjihhkmk53jhfq9zbz76.png/600px-Jsf_104601.png)<br>所属作品：`uma musume pretty derby` | [萌娘百科](https://zh.moegirl.org.cn/醒目飞鹰) |
