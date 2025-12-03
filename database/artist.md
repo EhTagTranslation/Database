@@ -14444,6 +14444,7 @@ example:
 | 1 dot migi ni zurashite kudasai | 1ドット右にずらしてください |  |  |
 | nanten | 南天 |  |  |
 | satou suplex | 佐藤スープレックス |  |  |
+| sawarabi | 早蕨 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
