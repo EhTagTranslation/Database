@@ -2235,7 +2235,7 @@ example:
 | ore no shikabane wo koeteyuke | 跨越我的尸体 |  | [维基百科](https://zh.wikipedia.org/wiki/降鬼一族) |
 | puss in boots the last wish | 穿靴子的猫:最后的愿望 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) [维基百科](https://zh.wikipedia.org/wiki/鞋貓劍客2) |
 | fatal frame | 零系列 | 零为日本厂商特库摩开发的恐怖游戏系列，自2001年问世以来，已推出了五部正传作品：《零～zero～》、《零～红蝶～》、《零～刺青之声～》、《零～月蚀的假面～》和《零～濡鸦之巫女～》，一部外传作品《心灵照相机～被附身的笔记本～》。 |  |
-| arknights endfield | 明日方舟：终末地 | ![](https://web.hycdn.cn/upload/image/20251031/2c9c24232f41fb68e90a4bf3c88c8528.png)<br>《明日方舟：终末地》是由上海鹰角塔罗斯网络科技有限公司开发的3D即时策略RPG游戏。 | [官网](https://endfield.hypergryph.com/) |
+| arknights endfield | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_536/h_536/215/40405/2023/9/27/790474.png) 明日方舟：终末地 | ![](https://web.hycdn.cn/upload/image/20251031/2c9c24232f41fb68e90a4bf3c88c8528.png)<br>《明日方舟：终末地》是由上海鹰角塔罗斯网络科技有限公司开发的3D即时策略RPG游戏。 | [官网](https://endfield.hypergryph.com/) |
 | calabiyau | 卡拉彼丘 |  | [HP](https://klbq.qq.com/) [萌娘百科](https://zh.moegirl.org.cn/卡拉彼丘) [BILIGAME WIKI](https://wiki.biligame.com/klbq) |
 | soltyrei | 曙光少女 |  | [维基百科](https://zh.wikipedia.org/wiki/曙光少女) |
 | meikyuu black company | 异世界迷宫黑心企业 | 二之宫金治因为讨厌当为公司做牛做马的“社畜”，而靠着各种努力与投资，终于达成不工作也有大笔收入的理想目标！<br>然而他因阴错阳差掉进异世界，再度踏入“社畜”的深渊⋯⋯！<br>究竟他能否摆脱“社畜”的悲惨命运呢？ | [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫黑心企业) [维基百科](https://zh.wikipedia.org/wiki/暗黑企業的迷宮) |
