@@ -13481,6 +13481,7 @@ example:
 | fujinoe honpo | フジノエ本舗 |  |  |
 | danpacino | ダンパチーノ |  |  |
 | komaneko jinja | 狛猫神社 |  |  |
+| mikakunin seimeitai | 未確認性命体 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
