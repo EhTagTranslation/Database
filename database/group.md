@@ -13482,6 +13482,7 @@ example:
 | danpacino | ダンパチーノ |  |  |
 | komaneko jinja | 狛猫神社 |  |  |
 | mikakunin seimeitai | 未確認性命体 |  |  |
+| tsuyu no torikago | 梅雨の鳥籠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
