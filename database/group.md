@@ -13480,6 +13480,7 @@ example:
 | inugoya | 狗戌犬 |  |  |
 | fujinoe honpo | フジノエ本舗 |  |  |
 | danpacino | ダンパチーノ |  |  |
+| komaneko jinja | 狛猫神社 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
