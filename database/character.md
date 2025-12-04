@@ -6636,7 +6636,7 @@ example:
 | mei mei | 冥冥 | 芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。五条悟的前辈，原东京都立咒术高专的辅助监督，1级咒术师；现为自由职业咒术师，在日本拥有多家企业的股份。通过家系入学高专。 | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
 | shizuku yaegashi | 八重㭴雫 | ![](https://i.pixiv.cat/img-master/img/2025/02/12/16/06/22/127160677_p0_master1200.jpg)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>南云始的同学，和白崎香织、天之河光辉、坂上龙太郎为青梅竹马。某天上课时全班被召唤而来到异世界托达斯，被召唤后的天职为“剑士”。 | [萌娘百科](https://zh.moegirl.org.cn/八重㭴雫) |
 | rei miyamoto | 宫本丽 | ![](https://ehgt.org/w/02/114/59002-8c0bs1s7.webp)<br>所属作品：`highschool of the dead` | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
-| yukino mifuyu | 雪乃深冬 |  |  |
+| yukino mifuyu | 雪乃深冬 | ![](https://ehgt.org/w/02/115/45267-5y29tzzg.webp) |  |
 | iuno | 尤诺 | ![](https://pic.cangku.moe/images/2025/09/04/1y1vM.md.webp)<br>所属作品：`wuthering waves`<br>她被命运以怎样的名义青睐，就被命运以怎样的方式裹挟。但她从未被打败，也不肯罢休。 | [百度百科](https://baike.baidu.com/item/尤诺/65734292) \| [萌娘百科](https://zh.moegirl.org.cn/尤诺%28鸣潮%29#)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/尤诺) |
 | tino shade | 蒂诺·薛德 | 莉兹的弟子兼被认定为等级4的盗贼。是和可爱的外表相反备受期待的优秀年轻猎人，现在并没有加入特定队伍而solo活动中。![](https://img.moegirl.org.cn/common/thumb/4/44/叹息亡灵C2.jpg/150px-叹息亡灵C2.jpg) |  |
 | ninym ralei | 妮妮姆·拉雷 | 所属作品：`tensai ouji no akaji kokka saisei jutsu`<br>![](https://img.moegirl.org.cn/common/5/55/Tensaiouji_Ninym.png)<br>![](https://img.moegirl.org.cn/common/thumb/d/db/妮妮姆_1.jpg/1024px-妮妮姆_1.jpg)<br>拥有通透亮丽的银白长发和有如火焰般的红色眼瞳的少女，弱小国家纳特拉王国的王太子维恩的首席辅佐官、从小就侍奉他的贴身随从。 | [萌娘百科](https://zh.moegirl.org.cn/妮妮姆·拉雷) |
