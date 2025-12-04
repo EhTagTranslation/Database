@@ -14446,6 +14446,7 @@ example:
 | satou suplex | 佐藤スープレックス |  |  |
 | sawarabi | 早蕨 |  |  |
 | sirokuro-dharma | 白黒だるま |  |  |
+| kazayuki kaya | 風雪花夜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
