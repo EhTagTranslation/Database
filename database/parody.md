@@ -94,7 +94,7 @@ example:
 |  | ▼高达 系列 |  |  |
 | gundam | 高达 |  |  |
 | gundam age | 机动战士高达AGE |  |  |
-| gundam 00 | 机动战士高达00 | ![图](# "https://ehgt.org/ce/cd/cecddb028828ba71cd011ba442ef99e8a7c5fa3a-144928-620-928-jpg_l.jpg") |  |
+| gundam 00 | 机动战士高达00 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2315411394.webp)<br><br>《机动战士高达00》，是日本动画公司SUNRISE制作的《机动战士高达》系列原创电视动画作品之一。 |  |
 | gundam 0080 | 机动战士高达0080 口袋里的战争 |  |  |
 | gundam 0083 | 机动战士高达0083 星尘回忆录 |  |  |
 | gundam unicorn | 机动战士高达UC |  |  |
