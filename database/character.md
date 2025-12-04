@@ -7724,6 +7724,7 @@ example:
 | mei yoneme | 米女芽衣 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8b/米女芽衣_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一，从生日推算是二期生成员中最小的。 | [萌娘百科](https://zh.moegirl.org.cn/米女芽衣)<br>[Fandom](https://love-live.fandom.com/wiki/Mei_Yoneme) |
 | cure friendly | 犬饲彩羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/aa/Cure_Friendy.jpeg)<br>所属作品：`wonderful precure`<br>其变身形态为“友好天使”（Cure Friendly） |  |
 | cure wonderful | 犬饲小麦 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/14/Cure_Wonderful.jpeg)<br>所属作品：`wonderful precure`<br>犬饲彩羽的宠物狗，其变身形态为“奇迹天使”（Cure Wonderful‌）。 |  |
+| chasca | 恰斯卡 | ![](https://patchwiki.biligame.com/images/ys/5/54/jvf6yx7ksu9di76207qhj4dhhqyen1g.gif)<br>所属作品：`genshin impact`<br>特拉洛坎的「调停人」，万千争端的终结者。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
