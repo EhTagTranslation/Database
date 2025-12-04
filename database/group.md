@@ -13477,6 +13477,7 @@ example:
 | chotto b-sen | ちょっとB専 |  |  |
 | daraku sanpo | 堕落さんぽ |  |  |
 | tsuchinoko shigure | つちのこしぐれ |  |  |
+| inugoya | 狗戌犬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
