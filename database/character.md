@@ -7723,6 +7723,7 @@ example:
 | astaroth | 阿斯塔蒂 \| 阿斯塔特 | ①阿斯塔特<br>![](https://ehgt.org/w/00/884/68152-jkndxdac.webp)<br>所属作品：`granblue fantasy`<br>共斗的最后一个敌人。<br>②冰结之阿斯塔蒂<br>![](https://kisaragi-co.jp/assets/top/character/c6.png)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。 |  |
 | mei yoneme | 米女芽衣 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8b/米女芽衣_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一，从生日推算是二期生成员中最小的。 | [萌娘百科](https://zh.moegirl.org.cn/米女芽衣)<br>[Fandom](https://love-live.fandom.com/wiki/Mei_Yoneme) |
 | cure friendly | 犬饲彩羽 | ![](https://ehgt.org/w/02/139/93177-6tgpycat.webp)<br>所属作品：`wonderful precure`<br>其变身形态为“友好天使”（Cure Friendly） |  |
+| cure wonderful | 犬饲小麦 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/14/Cure_Wonderful.jpeg)<br>所属作品：`wonderful precure`<br>犬饲彩羽的宠物狗，其变身形态为“奇迹天使”（Cure Wonderful‌）。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
