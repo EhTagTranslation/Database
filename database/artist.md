@@ -14445,6 +14445,7 @@ example:
 | nanten | 南天 |  |  |
 | satou suplex | 佐藤スープレックス |  |  |
 | sawarabi | 早蕨 |  |  |
+| sirokuro-dharma | 白黒だるま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
