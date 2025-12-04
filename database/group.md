@@ -13479,6 +13479,7 @@ example:
 | tsuchinoko shigure | つちのこしぐれ |  |  |
 | inugoya | 狗戌犬 |  |  |
 | fujinoe honpo | フジノエ本舗 |  |  |
+| danpacino | ダンパチーノ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
