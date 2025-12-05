@@ -7737,6 +7737,7 @@ example:
 | wraith | 恶灵 | ![](https://ehgt.org/w/02/035/29615-f8s4a5yn.webp)<br>所属作品：`apex legends`<br>全名是芮妮‧霍普‧布莱希。 |  |
 | wattson | 沃特森（电妹） | 所属作品：`apex legends`<br>全名娜塔莉·沃特森·帕奎特 |  |
 | loba | 罗芭 | 所属作品：`apex legends`<br>全名是罗芭·安德拉德。 |  |
+| bangalore | 班加罗尔 | 所属作品：`apex legends`<br>全名是安妮塔·威廉斯。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
