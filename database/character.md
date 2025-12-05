@@ -741,7 +741,7 @@ example:
 |  | 凯蒂·格拉汉姆 |  |  |
 |  | 难波笑美 |  |  |
 | ayame hamaguchi | 滨口菖蒲 |  |  |
-| syoko hoshi | 星辉子 |  |  |
+| syoko hoshi | 星辉子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/84/36mj8alisfhammzoaenfntmjhdog3bh.png/960px-CGSS-Syoko-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 村上巴 |  |  |
 | ako tsuchiya | 土屋亚子 |  |  |
 |  | 首藤葵 |  |  |
