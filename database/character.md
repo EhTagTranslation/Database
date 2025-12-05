@@ -753,7 +753,7 @@ example:
 | tokiko zaizen | 财前时子 | ![](https://patchwiki.biligame.com/images/imascg/a/a7/5uzaooyx005ksgpeb24yiricyzhe0ur.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | shin sato | 佐藤心 | ![](https://patchwiki.biligame.com/images/imascg/9/9d/n0vknndwna00iqijiixjsfutzuusye4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yoshino yorita | 依田芳乃 | ![](https://patchwiki.biligame.com/images/imascg/c/c3/3lqc30n4oe4utui37godf3kee81v7be.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| chihiro senkawa | 千川千寻 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/59/3au1de2rb9i3w5mvzhotrmez1xqvykt.png/240px-千川千寻.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
+| chihiro senkawa | 千川千寻 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/59/3au1de2rb9i3w5mvzhotrmez1xqvykt.png/240px-千川千寻.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>偶像大师灰姑娘女孩中登场的事务员。 |  |
 | mirai kasuga | 春日未来 |  |  |
 | hinata kinoshita | 木下日向 |  |  |
 | julia | 茱莉亚 |  |  |
