@@ -870,7 +870,7 @@ example:
 | toru asakura | 浅仓透 | ![](https://img.moegirl.org.cn/common/a/ae/ToruFullSSR1-Fes.png)<br>![](https://img.moegirl.org.cn/common/e/eb/Profile_tooru.png)<br>浅仓透（日语：浅倉 透（あさくら とおる））<br>所属作品：`the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/浅仓透) |
 | hinana ichikawa | 市川雏菜 | ![](https://img.moegirl.org.cn/common/2/2e/Hinana_initial.png)<br>![](https://img.moegirl.org.cn/common/e/e1/HinanaFullR.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/市川雏菜) |
 | rookie trainer | 新手训练员 | 新手训练员（日语：ルーキートレーナー；英语：Rookie Trainer），本名青木庆（日语：青木慶），是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的训练员。 |  |
-| veteran trainer | 高手训练员 | 高手训练员（日语：ベテラントレーナー；英语：Veteran Trainer），本名青木圣（日语：青木聖），是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的训练员。 |  |
+| veteran trainer | 高手训练员 | ![](https://patchwiki.biligame.com/images/imascg/thumb/5/5a/3wu7c4ychwsrdaise3m2dv32otd1ecx.jpg/345px-CG-Sei-R-1.jpg)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>日语：ベテラントレーナー；英语：Veteran Trainer，本名青木圣（日语：青木聖） |  |
 |  | ▲偶像大师-THE IDOLM@STER 人物 |  |  |
 |  | ▼ 超级马里奥兄弟 角色 |  |  |
 | mario | 马里奥 |  |  |
