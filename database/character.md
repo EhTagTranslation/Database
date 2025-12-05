@@ -7729,7 +7729,7 @@ example:
 | tsumugi shirogane | 白银纺 | ![](https://ehgt.org/w/01/923/48293-epiva947.webp)<br>所属作品：`danganronpa`<br>《新弹丸论破V3 大家的相互厮杀新学期》游戏中登场的虚拟角色。 |  |
 | ena ibarada | 棘田惠那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/ba/71633_crt_4fS3p.jpg?r=1579397289)<br>所属作品：`rikei ga koi ni ochita no de shuomei shite mita.`<br>国立彩玉大学理工学研究科大学院2年生。 |  |
 | rui kisugi | 来生泪 | ![](https://ehgt.org/w/02/097/97588-fmq51bxm.webp)<br>所属作品：`cats eye` |  |
-| akemi miyano | 宫野明美 | 宫野明美是漫画《`detective conan`》及其衍生作品的登场角色。`c:ai haibara`的姐姐。 | [萌娘百科](https://zh.moegirl.org.cn/宫野明美)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/宫野明美) |
+| akemi miyano | 宫野明美 | ![](https://www.detectiveconanworld.com/wiki/images/a/af/Akemi_Miyano_Profile.jpg)<br>宫野明美是漫画《`detective conan`》及其衍生作品的登场角色。`c:ai haibara`的姐姐。 | [萌娘百科](https://zh.moegirl.org.cn/宫野明美)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/宫野明美) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
