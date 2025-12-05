@@ -7726,6 +7726,7 @@ example:
 | cure wonderful | 犬饲小麦 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/14/Cure_Wonderful.jpeg)<br>所属作品：`wonderful precure`<br>犬饲彩羽的宠物狗，其变身形态为“奇迹天使”（Cure Wonderful‌）。 |  |
 | chasca | 恰斯卡 | ![](https://patchwiki.biligame.com/images/ys/5/54/jvf6yx7ksu9di76207qhj4dhhqyen1g.gif)<br>所属作品：`genshin impact`<br>特拉洛坎的「调停人」，万千争端的终结者。 |  |
 | maegami-chan | 前发酱 | ![](https://ehgt.org/w/01/964/73542-8fohld51.webp)<br>所属作品：`getsuyoubi no tawawa` |  |
+| tsumugi shirogane | 白银纺 | ![](https://ehgt.org/w/01/923/48293-epiva947.webp)<br>所属作品：`danganronpa`<br>《新弹丸论破V3 大家的相互厮杀新学期》游戏中登场的虚拟角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
