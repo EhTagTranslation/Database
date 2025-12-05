@@ -713,7 +713,7 @@ example:
 |  | 上田铃帆 |  |  |
 | naho ebihara | 海老原菜帆 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/e7/ey0h5xtacpzv0sqc3do3udee8h0pka3.png/960px-CGSS-Naho-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | shizuku oikawa | 及川雫 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/ec/b6nljlq6owehe2q9yk8mevmrdce7rex.png/960px-CGSS-Shizuku-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| reina koseki | 小关丽奈 |  |  |
+| reina koseki | 小关丽奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/a4/82hytqy98amz6wys307dhbwp34zoqd3.png/960px-CGSS-Reina-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 卫藤美纱希 |  |  |
 | yumi aiba | 相叶夕美 |  |  |
 |  | 野野村空 |  |  |
