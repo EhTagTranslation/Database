@@ -718,7 +718,7 @@ example:
 | yumi aiba | 相叶夕美 | ![](https://patchwiki.biligame.com/images/imascg/1/18/rwrdx736i22ea9oxxuh9hew8frc9qzp.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 野野村空 |  |  |
 |  | 滨川爱结奈 |  |  |
-| tomoka wakabayashi | 若林智香 |  |  |
+| tomoka wakabayashi | 若林智香 | ![](https://patchwiki.biligame.com/images/imascg/2/24/j9w79b4t7uarf1wep45tmnunzty4f9o.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | mika jougasaki | 城崎美嘉 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/18/bu6jf1ndthbjhfnclp7fza8fr9f1r97.png/640px-CGSS-Mika-3D-8.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | rika jougasaki | 城崎莉嘉 |  |  |
 |  | 仙崎惠磨 |  |  |
