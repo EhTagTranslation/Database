@@ -751,7 +751,7 @@ example:
 |  | 冴岛清美 |  |  |
 | risa matoba | 的场梨沙 | ![](https://patchwiki.biligame.com/images/imascg/e/e3/433yvtfc4astxgz88x00amet9qh8ncj.png)<br>![](https://patchwiki.biligame.com/images/imascg/thumb/c/c3/mspfzomuyu4ot0ykpk7snvs8245tdlq.png/960px-CGSS-Risa-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | tokiko zaizen | 财前时子 | ![](https://patchwiki.biligame.com/images/imascg/a/a7/5uzaooyx005ksgpeb24yiricyzhe0ur.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| shin sato | 佐藤心 |  |  |
+| shin sato | 佐藤心 | ![](https://patchwiki.biligame.com/images/imascg/9/9d/n0vknndwna00iqijiixjsfutzuusye4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yoshino yorita | 依田芳乃 | ![](https://patchwiki.biligame.com/images/imascg/c/c3/3lqc30n4oe4utui37godf3kee81v7be.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | chihiro senkawa | 千川千寻 |  |  |
 | mirai kasuga | 春日未来 |  |  |
