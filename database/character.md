@@ -707,7 +707,7 @@ example:
 | miria akagi | 赤城米莉亚 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/a4/lgawrzx6qrpg5h9s8n5uyalxyvvv2fe.png/960px-CGSS-Miria-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 爱野渚 |  |  |
 |  | 真锅斋 |  |  |
-| yui ohtsuki | 大槻唯 |  |  |
+| yui ohtsuki | 大槻唯 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ac/rsfdfcmtwx4w46idxvypczhc4txa1ii.png/960px-CGSS-Yui-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yuki himekawa | 姬川友纪 |  |  |
 | yuzu kitami | 喜多见柚 |  |  |
 |  | 上田铃帆 |  |  |
