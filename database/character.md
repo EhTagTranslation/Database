@@ -32,7 +32,7 @@ example:
 | -------- | ---- | ---- | -------- |
 |  | ▼ 重复项合并 |  |  |
 | alice | 爱丽丝 | 因本名称过于普遍，建议使用更有特征的标签。<br><br>《爱丽丝梦游仙境》中的爱丽丝请使用`alice liddell`。<br><br>①移动端游戏《胜利女神：NIKKE》中的角色。<br>![](https://patchwiki.biligame.com/images/nikke/7/79/21znkizuel1rjmsde7op05l10fyh370.png) | [BILIGAME WIKI](https://wiki.biligame.com/nikke/爱丽丝) |
-| akane hino | 日野茜 | Smile 光之美少女！角色<br><br>`p:the idolmaster`灰姑娘女孩 角色 |  |
+| akane hino | 日野茜 | ①<br>![](https://patchwiki.biligame.com/images/imascg/d/d0/h6zyqs58ims874zcpboriu9020iz9ix.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>————————<br>②Smile 光之美少女！角色 |  |
 | ibuki | 伊吹 | ①所属作品：`senran kagura`<br>![闪乱神乐:伊吹](https://ehgt.org/16/35/163597e5bc47a1cf177e4d199a1b3850c6852c84-49556-384-480-jpg_l.jpg)<br><br>②所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/db2123c711e7ef3bfd62826b1259b2a7262400697.png) | [闪乱神乐:伊吹](https://zh.moegirl.org.cn/闪乱神乐:伊吹) [碧蓝航线:伊吹](https://zh.moegirl.org.cn/碧蓝航线:伊吹) [碧蓝档案:伊吹](https://www.gamekee.com/ba/611643.html) |
 | yui | 由依 \| 结衣 | `angel beats` 角色<br>![图](https://ehgt.org/53/75/5375e7612aee494400025f6f70a43177df45cd73-11067561-4912-6996-jpg_l.jpg)<br><br>`sword art online`角色，男女主的义女<br>![图](https://ehgt.org/b5/3a/b53a755dc9bd2828cc6e5ce90d74a9d96f027e0c-86616-960-544-jpg_l.jpg)![图](https://ehgt.org/2a/83/2a83864ab6dd535180f1e68ace9ab5f3357b2cbb-123272-960-544-jpg_l.jpg)![图](https://ehgt.org/4f/90/4f90948cc15585be12c99f7a6ff413081dd50ea0-90922-400-600-jpg_l.jpg)![图](https://ehgt.org/73/80/7380fc10fce3efa0be2aa819e71bab44948a9cf0-1060909-818-1157-jpg_l.jpg) |  |
 | hisui | 翡翠 \| 飞彗 | ①飞彗<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=700eb383b9a1cd1105b672288913c8b0/7cdc186d55fbb2fbcbc40fa14c4a20a44723dc4c.jpg)<br>所属作品：`senran kagura`<br><br>②翡翠<br>TYPE-MOON世界观角色 |  |
