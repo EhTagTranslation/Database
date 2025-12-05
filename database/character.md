@@ -1715,7 +1715,7 @@ example:
 | kogoro mouri | 毛利小五郎 |  |  |
 | rei furuya | 降谷零 |  |  |
 | shuuichi akai | 赤井秀一 |  |  |
-| sonoko suzuki | 铃木园子 |  |  |
+| sonoko suzuki | 铃木园子 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/Sonoko.jpg)<br>所属作品：`detective conan`<br>铃木财团的次女。作为毛利兰的同学及好友初登场，并在作品早期基本以毛利兰的陪同者出现。 | [萌娘百科](https://zh.moegirl.org.cn/铃木园子) |
 | eri kisaki | 妃英理 | 所属作品：`detective conan`<br>![](https://ehgt.org/w/01/879/59745-fd3hj3db.webp)<br>毛利小五郎的前妻，毛利兰的母亲。 |  |
 | jodie starling | 茱蒂·斯泰琳 |  |  |
 | miwako sato | 佐藤美和子 |  |  |
