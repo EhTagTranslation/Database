@@ -723,7 +723,7 @@ example:
 | rika jougasaki | 城崎莉嘉 | ![](https://patchwiki.biligame.com/images/imascg/8/87/0yj0hv5nuf920wi2oxiayg74es0i25m.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 仙崎惠磨 |  |  |
 |  | 日野茜(重复项) |  |  |
-| kirari moroboshi | 诸星琪拉莉 |  |  |
+| kirari moroboshi | 诸星琪拉莉 | ![](https://patchwiki.biligame.com/images/imascg/1/15/bhs0scovwgqjtb0v9hv73djsnnx7gxs.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | airi totoki | 十时爱梨 |  |  |
 | natalia | 娜塔莉亚 |  |  |
 |  | 相马夏美 |  |  |
