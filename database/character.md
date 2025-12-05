@@ -7739,7 +7739,7 @@ example:
 | loba | 罗芭 | 所属作品：`apex legends`<br>全名是罗芭·安德拉德。 |  |
 | bangalore | 班加罗尔 | 所属作品：`apex legends`<br>全名是安妮塔·威廉斯。 |  |
 | newcastle | 纽卡斯尔 | ![](https://i2.hdslb.com/bfs/new_dyn/5e3b0cb2ed31d519088afae81b7b92a4262400697.png)<br>所属作品：`azur lane` |  |
-| venture | 探奇 |  | [Fandom](https://overwatch.fandom.com/wiki/Venture) |
+| venture | 探奇 |  | [Fandom](https://overwatch.fandom.com/wiki/Venture)<br>[萌娘百科](https://zh.moegirl.org.cn/探奇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
