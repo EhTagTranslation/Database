@@ -743,7 +743,7 @@ example:
 | ayame hamaguchi | 滨口菖蒲 | ![](https://patchwiki.biligame.com/images/imascg/thumb/0/0e/l3uqlpqrdnxqh70a7n4ttvyjyz1dp6j.jpg/375px-CG-Ayame-SR-11.jpg)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | syoko hoshi | 星辉子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/84/36mj8alisfhammzoaenfntmjhdog3bh.png/960px-CGSS-Syoko-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 村上巴 |  |  |
-| ako tsuchiya | 土屋亚子 |  |  |
+| ako tsuchiya | 土屋亚子 | ![](https://patchwiki.biligame.com/images/imascg/3/3f/kf80lgp9rm9dzxjs49kuhjhshibvqnp.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 首藤葵 |  |  |
 | sanae katagiri | 片桐早苗 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ab/d6j43ih85qi0serga96hw7fz5tej0zy.png/960px-CGSS-Sanae-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yuko hori | 堀裕子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/60/qh6ujy1sb3tyipwi2xg8x7jcu6dcuep.png/960px-CGSS-Yuko-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
