@@ -793,7 +793,7 @@ example:
 | kaori sakuramori | 樱守歌织 |  |  |
 | tsumugi shiraishi | 白石䌷 |  |  |
 |  | 青羽美咲 |  |  |
-| mishiro | 美城常务 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/1d/r4xqx3lk8ju1vn5bzuj47ycpvqffozr.png/390px-Mishiro.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>在动画版《偶像大师 灰姑娘女孩》登场的原创角色，担任346事务所的常务。 |  |
+| mishiro | 美城常务 | ![](https://patchwiki.biligame.com/images/imascg/thumb/1/1d/r4xqx3lk8ju1vn5bzuj47ycpvqffozr.png/390px-Mishiro.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>在动画登场的原创角色，担任346事务所的常务。 |  |
 | touma amagase | 天濑冬马 |  |  |
 | teru tendo | 天道辉 |  |  |
 | minori watanabe | 渡边实 |  |  |
