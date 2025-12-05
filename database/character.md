@@ -2807,7 +2807,7 @@ example:
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |
 | chiyo shirayuki | 白雪千夜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/d1/gurao3s1uncpmq1ukzjk7deunjz8eiw.png/960px-CGSS-Chiyo-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | chitose kurosaki | 黑埼千岁 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/da/j3xbm5v9wgy6xfmf0ymf5t11lplwmob.png/960px-CGSS-Chitose-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
-| kiyomi saejima | 冴岛清美 |  |  |
+| kiyomi saejima | 冴岛清美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/af/3di0x9w179gjt7vbv66hgp8iovv8jll.jpg/375px-CG-Kiyomi-SR-11.jpg)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | cure milky | 羽衣拉拉 |  |  |
 | rinko iori | 伊织凛子 |  |  |
 | sei iori | 伊织诚 |  |  |
