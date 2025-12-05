@@ -4806,7 +4806,7 @@ example:
 | clorinde | 克洛琳德 | ![](https://patchwiki.biligame.com/images/ys/8/89/9wyrs0g11frm97t6izjhvsggi3r8xic.gif)<br>克洛琳德(clorinde)所属作品:`p:genshin impact`<br>不败的决斗代理人。以手中的剑维护着枫丹廷的「公义」。 | [萌娘百科](https://zh.moegirl.org.cn/克洛琳德) |
 | neuvillette | 那维莱特 | 那维莱特(neuvillette)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/95/那维莱特.jpg) | [萌娘百科](https://zh.moegirl.org.cn/那维莱特) |
 | lyney | 林尼 | 林尼(lyney)所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/6/62/林尼愚人众版立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/林尼) |
-| yukiko kudo | 工藤有希子 |  | [萌娘百科](https://zh.moegirl.org.cn/工藤有希子) |
+| yukiko kudo | 工藤有希子 | ![](https://static.wikia.nocookie.net/bishojodate/images/5/5d/15367.jpg/revision/latest?cb=20140703120545&path-prefix=zh)<br>所属作品：`detective conan`<br>`conan edogawa`/`shinichi kudo`的母亲。 | [萌娘百科](https://zh.moegirl.org.cn/工藤有希子) |
 | myrtle | 桃金娘 | ![](https://patchwiki.biligame.com/images/arknights/7/71/oti4o2kbb02kd4rg5vmbf3aqxy86rrg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:桃金娘) |
 | ganondorf | 加侬多夫 | 加侬多夫是任天堂旗下作品《塞尔达传说》系列的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/加侬多夫) |
 | maidena ange | 梅蒂娜·安洁 | 漫画《不道德公会》角色 |  |
