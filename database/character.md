@@ -1707,7 +1707,7 @@ example:
 | shinichi kudo | 工藤新一 |  |  |
 | ran mouri | 毛利兰 | ![](https://ehgt.org/w/01/923/61767-csfqj15f.webp)<br>所属作品：`detective conan` |  |
 | conan edogawa | 江户川柯南 |  |  |
-| ai haibara | 灰原哀 |  |  |
+| ai haibara | 灰原哀 | ![](https://static.wikia.nocookie.net/caseclosed/images/2/22/Haibara_Ai.webp/revision/latest?cb=20220920055237)<br>灰原哀是漫画《`detective conan`》及其衍生作品的登场角色。原本是反派组织黑衣组织的科学家宫野志保，身体变小后化名为灰原哀，并成为少年侦探团的一员。 | [萌娘百科](https://zh.moegirl.org.cn/灰原哀)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/灰原哀) |
 | ayumi yoshida | 吉田步美 |  |  |
 | kazuha toyama | 远山和叶 | ![](https://ehgt.org/w/01/538/50910-qol7h7eu.webp)<br>所属作品：`detective conan` |  |
 | heiji hattori | 服部平次 |  |  |
