@@ -735,7 +735,7 @@ example:
 |  | 杉坂海 |  |  |
 | hinako kita | 喜多日菜子 | ![](https://patchwiki.biligame.com/images/imascg/5/5e/2il2rw927qsrbnepimxl0gnzp194y7l.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 北川真寻 |  |  |
-| mary cochran | 玛丽·柯克兰 |  |  |
+| mary cochran | 玛丽·柯克兰 | ![](https://patchwiki.biligame.com/images/imascg/a/ac/oijj8kakh90kcn1xf703b1pfkw4vgen.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 小松伊吹 |  |  |
 |  | 三好纱南 |  |  |
 |  | 凯蒂·格拉汉姆 |  |  |
