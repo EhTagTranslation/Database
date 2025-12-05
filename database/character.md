@@ -745,7 +745,7 @@ example:
 |  | 村上巴 |  |  |
 | ako tsuchiya | 土屋亚子 |  |  |
 |  | 首藤葵 |  |  |
-| sanae katagiri | 片桐早苗 |  |  |
+| sanae katagiri | 片桐早苗 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ab/d6j43ih85qi0serga96hw7fz5tej0zy.png/960px-CGSS-Sanae-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yuko hori | 堀裕子 |  |  |
 | kai nishijima | 西岛櫂 |  |  |
 |  | 冴岛清美 |  |  |
