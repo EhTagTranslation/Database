@@ -1711,7 +1711,7 @@ example:
 | ayumi yoshida | 吉田步美 |  |  |
 | kazuha toyama | 远山和叶 | ![](https://ehgt.org/w/01/538/50910-qol7h7eu.webp)<br>所属作品：`detective conan` |  |
 | heiji hattori | 服部平次 |  |  |
-| kaito kuroba | 黑羽快斗 |  |  |
+| kaito kuroba | 黑羽快斗 | ![](https://upload.wikimedia.org/wikipedia/zh/d/d5/Kaito_Kuroba%26Kaito_Kid.jpg)<br>黑羽快斗（日语：くろば かいと）是漫画《`magic kaito`》及其衍生作品的主人公。也在《`detective conan`》中登场过。 | [萌娘百科](https://zh.moegirl.org.cn/黑羽快斗)<br>[维基百科](https://zh.wikipedia.org/wiki/黑羽快斗) |
 | kogoro mouri | 毛利小五郎 |  |  |
 | rei furuya | 降谷零 |  |  |
 | shuuichi akai | 赤井秀一 |  |  |
