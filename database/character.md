@@ -730,7 +730,7 @@ example:
 |  | 槙原志保 |  |  |
 | takumi mukai | 向井拓海 | ![](https://patchwiki.biligame.com/images/imascg/1/12/0kzzgcuy0w2uugbg9f7rn4modp68dcf.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 南条光 |  |  |
-| eve santaclaus | 伊芙·珊德克罗丝 |  |  |
+| eve santaclaus | 伊芙·珊德克罗丝 | ![](https://patchwiki.biligame.com/images/imascg/0/06/0nedikr87uj0fj9fe4axs6oi89ua2nw.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | nina ichihara | 市原仁奈 | ![](https://patchwiki.biligame.com/images/imascg/7/7e/nekupt4hs5sio9wt09mu8drwbvlq0b2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 杉坂海 |  |  |
 | hinako kita | 喜多日菜子 | ![](https://patchwiki.biligame.com/images/imascg/5/5e/2il2rw927qsrbnepimxl0gnzp194y7l.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
