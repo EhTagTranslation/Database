@@ -2636,6 +2636,7 @@ example:
 | ansatsusha de aru ore no status ga yuusha yori mo akiraka ni tsuyoi no da ga | 身为暗杀者的我明显比勇者还强 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923543806.webp)<br>《明明只是暗杀者，我的面板数值却比勇者还要强》是由赤井祭创作的网络小说作品，该作亦改编为同名漫画、电视动画作品。 |  |
 | tomodachi game | 朋友游戏 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2869395672.webp) |  |
 | sentouin hakenshimasu | 战斗员派遣中! | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2651049668.webp)<br>《战斗员派遣中！》是暁なつめ创作，カカオ・ランタン负责插画的轻小说，并有同名改编漫画和动画作品。 |  |
+| magic kaito | 魔术快斗 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c1/Magic_Kaito_Vol.01.png)<br>《魔术快斗（dǒu）》（日语：まじっく快斗），官方译作“魔术快斗”（中国大陆，漫画）、“怪盗基德”（中国大陆、台湾，动画），简称《魔快》，是日本漫画家青山刚昌的作品。1987年在《周刊少年Sunday》26期上开始连载，未完结。讲述了高中生黑羽快斗发现8年前去世的父亲黑羽盗一就是怪盗基德，为了调查父亲死因而成为第二代怪盗基德进行活动的故事。 | [萌娘百科](https://zh.moegirl.org.cn/魔术快斗) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
