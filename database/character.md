@@ -1719,7 +1719,7 @@ example:
 | eri kisaki | 妃英理 | 所属作品：`detective conan`<br>![](https://ehgt.org/w/01/879/59745-fd3hj3db.webp)<br>毛利小五郎的前妻，毛利兰的母亲。 |  |
 | jodie starling | 茱蒂·斯泰琳 |  |  |
 | miwako sato | 佐藤美和子 |  |  |
-| masumi sera | 世良真纯 |  |  |
+| masumi sera | 世良真纯 | ![](https://static.wikia.nocookie.net/caseclosed/images/7/72/1600px-M18-Sera.jpg/revision/latest?cb=20250922045921)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/世良真纯) |
 |  | ▼ 龙珠系列 |  |  |
 | yamcha | 雅木茶 |  |  |
 | bulma briefs | 布尔玛 |  |  |
