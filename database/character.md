@@ -750,7 +750,7 @@ example:
 | kai nishijima | 西岛櫂 |  |  |
 |  | 冴岛清美 |  |  |
 | risa matoba | 的场梨沙 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c3/mspfzomuyu4ot0ykpk7snvs8245tdlq.png/960px-CGSS-Risa-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| tokiko zaizen | 财前时子 |  |  |
+| tokiko zaizen | 财前时子 | ![](https://patchwiki.biligame.com/images/imascg/a/a7/5uzaooyx005ksgpeb24yiricyzhe0ur.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | shin sato | 佐藤心 |  |  |
 | yoshino yorita | 依田芳乃 |  |  |
 | chihiro senkawa | 千川千寻 |  |  |
