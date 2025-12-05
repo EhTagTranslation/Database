@@ -749,7 +749,7 @@ example:
 | yuko hori | 堀裕子 | ![](https://patchwiki.biligame.com/images/imascg/thumb/6/60/qh6ujy1sb3tyipwi2xg8x7jcu6dcuep.png/960px-CGSS-Yuko-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | kai nishijima | 西岛櫂 |  |  |
 |  | 冴岛清美 |  |  |
-| risa matoba | 的场梨沙 | BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的火辣父控小学生偶像。![](https://img.moegirl.org.cn/common/c/c2/301067_risa.png) ![](https://img.moegirl.org.cn/common/thumb/4/40/SSR［ビビッド★エゴイスト］的場梨沙%2B.png/870px-SSR［ビビッド★エゴイスト］的場梨沙%2B.png) |  |
+| risa matoba | 的场梨沙 | ![](https://patchwiki.biligame.com/images/imascg/thumb/c/c3/mspfzomuyu4ot0ykpk7snvs8245tdlq.png/960px-CGSS-Risa-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | tokiko zaizen | 财前时子 |  |  |
 | shin sato | 佐藤心 |  |  |
 | yoshino yorita | 依田芳乃 |  |  |
