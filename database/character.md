@@ -7731,6 +7731,7 @@ example:
 | rui kisugi | 来生泪 | ![](https://ehgt.org/w/02/097/97588-fmq51bxm.webp)<br>所属作品：`cats eye` |  |
 | akemi miyano | 宫野明美 | ![](https://www.detectiveconanworld.com/wiki/images/a/af/Akemi_Miyano_Profile.jpg)<br>宫野明美是漫画《`detective conan`》及其衍生作品的登场角色。`c:ai haibara`的姐姐。 | [萌娘百科](https://zh.moegirl.org.cn/宫野明美)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/宫野明美) |
 | aoko nakamori | 中森青子 | ![](https://www.detectiveconanworld.com/wiki/images/1/19/Aoko_personality.PNG)<br>所属作品：`p:magic kaito`，在`p:detective conan`也有出场 | [萌娘百科](https://zh.moegirl.org.cn/中森青子)<br>[Fandom](https://detectiveconan.fandom.com/wiki/Aoko_Nakamori) |
+| azusa enomoto | 榎本梓 | ![](https://static.wikia.nocookie.net/bishojodate/images/6/62/15387.png/revision/latest?cb=20140712142738&path-prefix=zh)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/榎本梓) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
