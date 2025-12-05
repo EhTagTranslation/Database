@@ -728,7 +728,7 @@ example:
 | natalia | 娜塔莉亚 | ![](https://patchwiki.biligame.com/images/imascg/3/36/khw9z3jtq7n7h5r9jhoh1u7rwuzgdwa.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 相马夏美 |  |  |
 |  | 槙原志保 |  |  |
-| takumi mukai | 向井拓海 |  |  |
+| takumi mukai | 向井拓海 | ![](https://patchwiki.biligame.com/images/imascg/1/12/0kzzgcuy0w2uugbg9f7rn4modp68dcf.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 南条光 |  |  |
 | eve santaclaus | 伊芙·珊德克罗丝 |  |  |
 | nina ichihara | 市原仁奈 |  |  |
