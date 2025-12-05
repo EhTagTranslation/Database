@@ -6752,7 +6752,7 @@ example:
 | rouge | 露姬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/760455.png)<br>所属作品：`goddess of victory nikke`<br>她不仅是隶属于777部队的妮姬，也是金币之战里的游戏荷官，平实的她亲切又能干，但有一点小迷信。 | [https://www.gamekee.com/nikke/tj/152319.html](https://www.gamekee.com/nikke/tj/152319.html) |
 | gretel | 格丽特 | 所属作品：`goddess of victory nikke` |  |
 | tiara basori | 马剃天爱星 |  |  |
-| kanoe itagaki | 板垣鹿江 |  | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
+| kanoe itagaki | 板垣鹿江 | ![](https://static.wikitide.net/bluearchivewiki/4/42/Kanoe_00.png)<br>所属游戏：`p:blue archive` | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
 | sandrone | 桑多涅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/23/00/55/27/135424996_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>隶属至冬国外交使团愚人众，为愚人众十一执行官第七席，代号“木偶”。 | [百度百科](https://baike.baidu.com/item/桑多涅/61716401) |
 | aoi asahina | 朝日奈 葵 |  |  |
 | lanterby | 兰塔比 | ![](https://i.pixiv.cat/img-master/img/2025/04/17/17/41/50/129401007_p0_master1200.jpg)<br>所属作品：`shokugeki no soma`<br>WGO二等执行官，淡黄色短发的女性，略有些孩子气，在动画THE BLUE第一道门试炼"最后的晚餐"，漫画THE BLUE第二道门试炼，“便利店对决”中担任评审，并在THE BLUE后续赛事中担任赛事主持人。 | [百度百科](https://baike.baidu.com/item/兰塔比/52912589) |
