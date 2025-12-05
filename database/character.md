@@ -708,7 +708,7 @@ example:
 |  | 爱野渚 |  |  |
 |  | 真锅斋 |  |  |
 | yui ohtsuki | 大槻唯 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ac/rsfdfcmtwx4w46idxvypczhc4txa1ii.png/960px-CGSS-Yui-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
-| yuki himekawa | 姬川友纪 |  |  |
+| yuki himekawa | 姬川友纪 | ![](https://patchwiki.biligame.com/images/imascg/thumb/9/90/lp5vf1ofps3aua3yr2c9syb5hzyzv4l.png/960px-CGSS-Yuki-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | yuzu kitami | 喜多见柚 |  |  |
 |  | 上田铃帆 |  |  |
 | naho ebihara | 海老原菜帆 |  |  |
