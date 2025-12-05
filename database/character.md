@@ -704,7 +704,7 @@ example:
 |  | 齐藤洋子 |  |  |
 |  | 泽田麻理菜 |  |  |
 |  | 矢口美羽 |  |  |
-| miria akagi | 赤城米莉亚 |  |  |
+| miria akagi | 赤城米莉亚 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/a4/lgawrzx6qrpg5h9s8n5uyalxyvvv2fe.png/960px-CGSS-Miria-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 爱野渚 |  |  |
 |  | 真锅斋 |  |  |
 | yui ohtsuki | 大槻唯 |  |  |
