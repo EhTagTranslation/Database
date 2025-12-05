@@ -715,7 +715,7 @@ example:
 | shizuku oikawa | 及川雫 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/ec/b6nljlq6owehe2q9yk8mevmrdce7rex.png/960px-CGSS-Shizuku-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | reina koseki | 小关丽奈 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/a4/82hytqy98amz6wys307dhbwp34zoqd3.png/960px-CGSS-Reina-3D-3.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 卫藤美纱希 |  |  |
-| yumi aiba | 相叶夕美 |  |  |
+| yumi aiba | 相叶夕美 | ![](https://patchwiki.biligame.com/images/imascg/1/18/rwrdx736i22ea9oxxuh9hew8frc9qzp.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 |  | 野野村空 |  |  |
 |  | 滨川爱结奈 |  |  |
 | tomoka wakabayashi | 若林智香 |  |  |
