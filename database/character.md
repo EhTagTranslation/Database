@@ -1704,7 +1704,7 @@ example:
 |  | ▼ 电锯甜心 |  |  |
 | juliet starling | 朱丽叶·斯塔林 |  |  |
 |  | ▼ 名侦探柯南 |  |  |
-| shinichi kudo | 工藤新一 |  |  |
+| shinichi kudo | 工藤新一 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/af/Jimmy_Kudo.jpg)<br>所属作品：`detective conan`<br>`conan edogawa`变小前的身份。 | [萌娘百科](https://zh.moegirl.org.cn/工藤新一) |
 | ran mouri | 毛利兰 | ![](https://ehgt.org/w/01/923/61767-csfqj15f.webp)<br>所属作品：`detective conan` |  |
 | conan edogawa | 江户川柯南 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/a3/Conan_Edogawa.png)<br>所属作品：`detective conan`<br>变小前为`shinichi kudo`。<br>真相只有一个！ | [萌娘百科](https://zh.moegirl.org.cn/江户川柯南) |
 | ai haibara | 灰原哀 (宫野志保) | ![](https://static.wikia.nocookie.net/caseclosed/images/2/22/Haibara_Ai.webp/revision/latest?cb=20220920055237)<br>灰原哀是漫画《`detective conan`》及其衍生作品的登场角色。原本是反派组织黑衣组织的科学家宫野志保，身体变小后化名为灰原哀，并成为少年侦探团的一员。 | [萌娘百科](https://zh.moegirl.org.cn/灰原哀)<br>[Fandom](https://detectiveconan.fandom.com/zh/wiki/灰原哀) |
