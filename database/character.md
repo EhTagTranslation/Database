@@ -1705,11 +1705,11 @@ example:
 | juliet starling | 朱丽叶·斯塔林 |  |  |
 |  | ▼ 名侦探柯南 |  |  |
 | shinichi kudo | 工藤新一 |  |  |
-| ran mouri | 毛利兰 |  |  |
+| ran mouri | 毛利兰 | ![](https://ehgt.org/w/01/923/61767-csfqj15f.webp)<br>所属作品：`detective conan` |  |
 | conan edogawa | 江户川柯南 |  |  |
 | ai haibara | 灰原哀 |  |  |
 | ayumi yoshida | 吉田步美 |  |  |
-| kazuha toyama | 远山和叶 |  |  |
+| kazuha toyama | 远山和叶 | ![](https://ehgt.org/w/01/538/50910-qol7h7eu.webp)<br>所属作品：`detective conan` |  |
 | heiji hattori | 服部平次 |  |  |
 | kaito kuroba | 黑羽快斗 |  |  |
 | kogoro mouri | 毛利小五郎 |  |  |
@@ -7728,6 +7728,7 @@ example:
 | maegami-chan | 前发酱 | ![](https://ehgt.org/w/01/964/73542-8fohld51.webp)<br>所属作品：`getsuyoubi no tawawa` |  |
 | tsumugi shirogane | 白银纺 | ![](https://ehgt.org/w/01/923/48293-epiva947.webp)<br>所属作品：`danganronpa`<br>《新弹丸论破V3 大家的相互厮杀新学期》游戏中登场的虚拟角色。 |  |
 | ena ibarada | 棘田惠那 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e1/ba/71633_crt_4fS3p.jpg?r=1579397289)<br>所属作品：`rikei ga koi ni ochita no de shuomei shite mita.`<br>国立彩玉大学理工学研究科大学院2年生。 |  |
+| rui kisugi | 来生泪 | ![](https://ehgt.org/w/02/097/97588-fmq51bxm.webp)<br>所属作品：`cats eye` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
