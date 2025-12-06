@@ -7783,6 +7783,7 @@ example:
 | koko tsukishima | 月岛小恋 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/6e/1210_crt_an3nP.jpg)<br>所属作品：`da capo ii` |  |
 | erika murasaki | 艾莉卡·紫 | ![](https://t.vndb.org/ch/02/6102.jpg)<br>所属作品：`da capo ii`<br>东欧王室的第一公主，因母星政变被送至地球避难，就读于初音岛的初中一年级并加入学生会进行社会学习。 |  |
 | tamaki konomiya | 胡之宫环 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/95/Tamaki4.jpg)<br>所属作品：`da capo ii` |  |
+| himeno katsuragi | 葛木姬乃 | ![](https://circus-co.jp/product/dc3/img/character/img_chr03_illust_l.png)<br>所属作品：`da capo iii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
