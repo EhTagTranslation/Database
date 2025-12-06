@@ -7753,6 +7753,7 @@ example:
 | furioso | 狂怒乐章 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/9d/pqcdv66znnwuwh8zrv3fx7ywzypiwsk.png/600px-Jsf_107901.png)<br>所属作品：`uma musume pretty derby` |  |
 | blast onepiece | 防爆装束 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/6tgypmnl2k2nothsiiuexgi3y541xcj.png/180px-Tex_support_card_30232.png)<br>所属作品：`uma musume pretty derby` |  |
 | belno light | 崭新光辉 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e8/PID92821992.jpg)<br>所属作品：`uma musume pretty derby` |  |
+| norn ace | 诺伦王牌 | ![](https://i.pixiv.cat/c/260x260/img-master/img/2025/05/19/00/00/03/130563019_p0_square1200.jpg)<br>所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
