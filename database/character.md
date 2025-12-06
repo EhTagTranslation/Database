@@ -7434,7 +7434,7 @@ example:
 | izumi saegusa | 七草泉美 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/a/a4/Saegusa-Izumi-AN-S3-Fullbody.png/revision/latest?cb=20240404004116)<br>日文拼写: さえぐさ いずみ<br>所属作品: `mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/七草泉美)<br>[Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Saegusa_Izumi) |
 | kasumi saegusa | 七草香澄 | ![](https://static.wikia.nocookie.net/mahouka-koukou-no-rettousei/images/4/43/Saegusa-Kasumi-AN-S3-Fullbody.png/revision/latest?cb=20240529001141)<br>日文拼写: さえぐさ かすみ<br>所属作品: `mahouka koukou no rettousei` | [萌娘百科](https://zh.moegirl.org.cn/七草香澄)<br>[Fandom](https://mahouka-koukou-no-rettousei.fandom.com/wiki/Saegusa_Kasumi) |
 | manon legrand | 曼侬 勒格兰德 | 所属作品：`street fighter` |  |
-| nemu asakura | ‌朝仓音梦 | 所属作品：`da capo` |  |
+| nemu asakura | ‌朝仓音梦 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_nemu.png)<br>所属作品：`da capo` |  |
 | iori yamato | 大和伊织 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9f/Iorin_profile.png)<br>日本女性虚拟 YouTuber。<br>所属社团：LIVE |  |
 | leona heidern | 莉安娜·哈迪兰 | 所属作品：`king of fighters` |  |
 | jett | 捷风 | 所属作品：`valorant` |  |
