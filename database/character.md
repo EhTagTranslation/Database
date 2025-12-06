@@ -6928,7 +6928,7 @@ example:
 | light hello | 双铃莱特 | ![](https://static.wikia.nocookie.net/umamusume/images/3/3b/Light_Hello_%28Main%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | narita brian | 成田白仁 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/5/59/4ydwvypyvxo1uueuzhnesvvjsri4q3j.png/600px-Jsf_101601.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/成田白仁) |
 | orfevre | 黄金巨匠 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/41/8i0qxbh3kol20t7zxfr0eyx3di2o8yv.png/600px-Jsf_111501.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/黄金巨匠) |
-| curren bouqetdor | 机伶金花 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/9e/afn9ewjonaxc0duw8h77qa6r0h8gvr9.png/150px-Support_thumb_20088.png)<br>所属作品：`uma musume pretty derby` |  |
+| curren bouqetdor | 机伶金花 | ![](https://static.wikia.nocookie.net/umamusume/images/d/dc/Curren_Bouquetd%27or_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | jungle pocket | 森林宝穴 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/5/51/cynfo1acfzi3ihacqpzno3ni357sidm.png/600px-Jsf_109401.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/森林宝穴) |
 | fusaichi pandora | 房一潘多拉 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/73/8ouv8z4sgzxw7fmko3bq0hm2wnh7f7o.png/600px-Jsf_111301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/房一潘多拉) |
 | biwa hayahide | 琵琶晨光 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/a/a6/1uk6y38yizv2jku12ip6yj42qoy9gzl.png/600px-Jsf_102301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/琵琶晨光) |
