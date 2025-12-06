@@ -7047,7 +7047,7 @@ example:
 | alcyone | 阿尔库俄涅 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1916/h_1982/245/72324/2025/2/19/70916.png)<br>所属作品：`last origin` |  |
 | zeri | 泽丽（祖安花火） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Zeri_OriginalSkin.jpg?d6d2c) |  |
 | yun ying | 云缨 | 所属作品：王者荣耀 |  |
-| chiho sasaki | 佐佐木千穗 | ![](https://img.moegirl.org.cn/common/7/75/35948628_p0.png)<br>所属作品：`hataraku maou-sama` |  |
+| chiho sasaki | 佐佐木千穗 | ![](https://maousama.jp/assets/img/character/character03_main.png)<br>所属作品：`hataraku maou-sama` |  |
 | emi yusa | 游佐惠美 | ![](https://maousama.jp/assets/img/character/character02_main.png)<br>所属作品：`hataraku maou-sama` |  |
 | okaa-san | 爱酱妈妈 | ![](https://ehgt.org/w/01/964/74341-0879plc1.webp)<br>所属作品：`getsuyoubi no tawawa`<br>爱酱的妈妈 |  |
 | machamp | 怪力 | ![](https://static.wikia.nocookie.net/espokemon/images/b/bf/Machamp.png)<br>格斗系宝可梦 |  |
