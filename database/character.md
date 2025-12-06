@@ -7781,6 +7781,7 @@ example:
 | junichi asakura | 朝仓纯一 | 所属作品：`da capo`<br>本作男主角。 |  |
 | akane hanasaki | 花咲茜 | ![](https://storage.moegirl.org.cn/moegirl/commons/0/07/Hanasakiakane.jpg)<br>所属作品：`da capo ii` |  |
 | koko tsukishima | 月岛小恋 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/6e/1210_crt_an3nP.jpg)<br>所属作品：`da capo ii` |  |
+| erika murasaki | 艾莉卡·紫 | ![](https://t.vndb.org/ch/02/6102.jpg)<br>所属作品：`da capo ii`<br>东欧王室的第一公主，因母星政变被送至地球避难，就读于初音岛的初中一年级并加入学生会进行社会学习。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
