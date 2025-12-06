@@ -14452,6 +14452,7 @@ example:
 | rolly bell | 露李鈴 |  |  |
 | a wu a | 阿五啊 |  |  |
 | shirobei | 四郎兵衛 |  |  |
+| maguro tarao | ギシュレッド |  | [X](https://x.com/gisyuled) |
 
 <!--TEMPLATE:
 |  |  |  |  |
