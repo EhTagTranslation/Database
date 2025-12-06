@@ -7777,6 +7777,7 @@ example:
 | charles yoshino | 芳乃夏露露 | ![](https://circus-co.jp/product/dc3/img/character/img_chr02_illust_l.png)<br>所属作品：`da capo iii`<br>芳乃清隆的堂姐。 |  |
 | rukawa sara | 瑠川纱罗 | ![](https://circus-co.jp/product/dc3/img/character/img_chr04_illust_l.png)<br>所属作品：`da capo iii` |  |
 | aoi hinomoto | 阳之下葵 | ![](https://circus-co.jp/product/dc3/img/character/img_chr05_illust_l.png)<br>所属作品：`da capo iii` |  |
+| sakura yoshino | 芳乃樱 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_sakura.png)<br>所属作品：`da capo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
