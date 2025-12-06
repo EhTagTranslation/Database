@@ -14451,6 +14451,7 @@ example:
 | shikoto tanetsuke | しこと種付け |  |  |
 | rolly bell | 露李鈴 |  |  |
 | a wu a | 阿五啊 |  |  |
+| shirobei | 四郎兵衛 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
