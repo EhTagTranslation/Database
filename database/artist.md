@@ -14455,6 +14455,7 @@ example:
 | maguro tarao | ギシュレッド |  | [X](https://x.com/gisyuled) |
 | yonjiri | よんじり |  | [X](https://x.com/yon4jiri) |
 | loki | ろき |  |  |
+| amane-san | あまねさん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
