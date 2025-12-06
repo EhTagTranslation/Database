@@ -13488,6 +13488,7 @@ example:
 | ichigo no katamari | 苺の塊 |  |  |
 | warasubodou | わらすぼ道 |  |  |
 | hito no kokoro | 人の心 |  |  |
+| uru uru ultimate | うるうるあるてぃめっと |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
