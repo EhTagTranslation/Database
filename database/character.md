@@ -7746,6 +7746,7 @@ example:
 | dream journey | 梦之旅 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/1/10/ewd44eevp84vqkyyd2he5o8uy9bjult.png/600px-Jsf_111901.png)<br>所属作品：`uma musume pretty derby` |  |
 | venus paques | 金星复活节 | 所属作品：`uma musume pretty derby` |  |
 | admire groove | 爱慕律动 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/91/p5a4fv6qfcitx3yxv3gj2z3fv4quh0k.png/180px-Tex_support_card_10133.png)<br>所属作品：`uma musume pretty derby` |  |
+| lucky lilac | 旺紫丁 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/d/da/d69qkphpho42p53awqz7ydqjqufiysm.png/180px-Tex_support_card_10123.png)<br>所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
