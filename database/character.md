@@ -7744,6 +7744,7 @@ example:
 | lady nifle | 妮弗尔夫人 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/50240/43637/2025/9/27/961996.png)<br>所属作品：`duet night abyss` |  |
 | psyche | 赛琪 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/50240/43637/2025/9/27/882709.png)<br>所属作品：`duet night abyss` |  |
 | dream journey | 梦之旅 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/1/10/ewd44eevp84vqkyyd2he5o8uy9bjult.png/600px-Jsf_111901.png)<br>所属作品：`uma musume pretty derby` |  |
+| venus paques | 金星复活节 | 所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
