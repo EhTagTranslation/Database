@@ -7760,6 +7760,7 @@ example:
 | rion enomoto | 榎本凛音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/cf/170093_crt_dd58q.jpg?r=1737640850)<br>所属作品：`danjo no yuujou wa seiritsu suru iya shinai` |  |
 | himari inuzuka | 犬冢日葵 | ![](https://lain.bgm.tv/r/400/pic/crt/l/87/3c/162565_crt_7b7WI.jpg?r=1733836812)<br>所属作品：`danjo no yuujou wa seiritsu suru iya shinai` |  |
 | rhein kraft | 莱茵力量 | ![](https://static.wikia.nocookie.net/umamusume/images/b/b1/Rhein_Kraft_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
+| muu muyu | Muu Muyu | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/1a/Muu_Muyu.png)<br>所属社团：Hololive |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
