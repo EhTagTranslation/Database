@@ -7746,7 +7746,7 @@ example:
 | dream journey | 梦之旅 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/1/10/ewd44eevp84vqkyyd2he5o8uy9bjult.png/600px-Jsf_111901.png)<br>所属作品：`uma musume pretty derby` |  |
 | venus paques | 金星复活节 | ![](https://static.wikia.nocookie.net/umamusume/images/b/b8/Venus_Paques_%28Main%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | admire groove | 爱慕律动 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/91/p5a4fv6qfcitx3yxv3gj2z3fv4quh0k.png/180px-Tex_support_card_10133.png)<br>所属作品：`uma musume pretty derby` |  |
-| lucky lilac | 旺紫丁 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/d/da/d69qkphpho42p53awqz7ydqjqufiysm.png/180px-Tex_support_card_10123.png)<br>所属作品：`uma musume pretty derby` |  |
+| lucky lilac | 旺紫丁 | ![](https://static.wikia.nocookie.net/umamusume/images/5/51/Lucky_Lilac_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | yaeno muteki | 八重无敌 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/97/17i42e6frlszjjz8lzt9penuffpe0uh.png/600px-Yf_1072.png)<br>所属作品：`uma musume pretty derby` |  |
 | fenomeno | 超常骏骥 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/6seh6szgrptjm24eys2c4xpsuqcou0m.png/600px-Yf_1127.png)<br>所属作品：`uma musume pretty derby` |  |
 | tap dance city | 跳舞城 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/7/7c/nwwyqfhv3x3sjyeantoet5v5fhw787c.png/600px-Yf_1107.png)<br>所属作品：`uma musume pretty derby` |  |
