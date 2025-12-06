@@ -7772,6 +7772,7 @@ example:
 | kanako saeki | 佐伯加奈子 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_kanako.png)<br>所属作品：`da capo ii` |  |
 | anzu yukimura | 雪村杏 | ![](https://t.vndb.org/ch/93/6093.jpg)<br>所属作品：`da capo ii` |  |
 | yume asakura | 朝仓梦 | ![](https://t.vndb.org/ch/90/6090.jpg)<br>所属作品：`da capo ii`<br>朝仓纯一和音梦的孙女之一。 |  |
+| otome asakura | 朝仓音姫 | ![](https://t.vndb.org/ch/89/6089.jpg)<br>所属作品：`da capo ii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
