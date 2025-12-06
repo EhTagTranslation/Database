@@ -7755,6 +7755,7 @@ example:
 | belno light | 崭新光辉 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e8/PID92821992.jpg)<br>所属作品：`uma musume pretty derby` |  |
 | norn ace | 诺伦王牌 | ![](https://i.pixiv.cat/c/260x260/img-master/img/2025/05/19/00/00/03/130563019_p0_square1200.jpg)<br>所属作品：`uma musume pretty derby` |  |
 | fujimasa march | 藤正进行曲 | ![](https://static.wikia.nocookie.net/umamusume/images/9/95/Fujimasa_March_%28Anime_Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
+| air messiah | 天域圣君 | ![](https://static.wikia.nocookie.net/umamusume/images/d/d6/Air_Messiah_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
