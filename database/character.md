@@ -7762,6 +7762,7 @@ example:
 | rhein kraft | 莱茵力量 | ![](https://static.wikia.nocookie.net/umamusume/images/b/b1/Rhein_Kraft_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | muu muyu | Muu Muyu | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/1a/Muu_Muyu.png)<br>所属社团：Hololive |  |
 | hina kyan | 喜屋武飞夏 | ![](https://static.wikia.nocookie.net/okitsura/images/e/ea/Hina_Kyan.png)<br>所属作品：`okinawa de suki ni natta ko ga hougen sugite tsura sugiru` |  |
+| kotori shirakawa | 白河小鸟 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/webp/common/character/img_character_kotori.webp)<br>所属作品：`da capo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
