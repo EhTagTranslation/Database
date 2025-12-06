@@ -7785,6 +7785,7 @@ example:
 | tamaki konomiya | 胡之宫环 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/95/Tamaki4.jpg)<br>所属作品：`da capo ii` |  |
 | himeno katsuragi | 葛木姬乃 | ![](https://circus-co.jp/product/dc3/img/character/img_chr03_illust_l.png)<br>所属作品：`da capo iii` |  |
 | suzuno kamazuki | 镰月玲乃 | ![](https://maousama.jp/assets/img/character/character06_main.png)<br>所属作品：`hataraku maou-sama` |  |
+| dialyn | 琉音 | ![](https://patchwiki.biligame.com/images/zzz/2/25/2komc66canwbm3vo5r7tr4eua07a9yl.png)<br>所属作品：`zenless zone zero` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
