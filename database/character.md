@@ -4440,7 +4440,7 @@ example:
 | admire vega | 爱慕织姬 | ![](https://static.wikia.nocookie.net/umamusume/images/4/4b/Admire_Vega_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
 | yorha commander | 寄葉指揮官 |  |  |
 | cidala | 辛妲拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7a/Zoom_3040377000_01.png)<br>所属作品：`granblue fantasy`<br>守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。 | [碧蓝幻想WIKI](https://gbf.huijiwiki.com/wiki/Char/3040377000) |
-| super creek | 超级溪流 | ![](https://moegirl.icu/media/thumb/UPDCH_SuperCreek_00.png/580px-UPDCH_SuperCreek_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
+| super creek | 超级溪流 | ![](https://static.wikia.nocookie.net/umamusume/images/6/60/Super_Creek_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
 | cecilia alcott | 塞西莉娅·奥尔卡特 | ![](https://ehgt.org/w/02/081/86562-g3wk0trs.webp)<br>所属作品：`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/塞西莉娅·奥尔卡特) |
 | ling yin huang | 凰铃音 | ![](https://ehgt.org/w/01/904/06832-hvqc6fjr.webp)<br>所属作品：`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
 | laura bodewig | 拉芙拉·布迪威伊 | ![](https://ehgt.org/w/01/873/16719-1nyiwant.webp)<br>所属作品：`infinite stratos` | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
