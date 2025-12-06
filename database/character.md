@@ -7774,6 +7774,7 @@ example:
 | yume asakura | 朝仓梦 | ![](https://t.vndb.org/ch/90/6090.jpg)<br>所属作品：`da capo ii`<br>朝仓纯一和音梦的孙女之一。 |  |
 | otome asakura | 朝仓音姫 | ![](https://t.vndb.org/ch/89/6089.jpg)<br>所属作品：`da capo ii` |  |
 | tomoko morikawa | 森川智子 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_tomoko.png)<br>所属作品：`da capo`<br>小鸟的爱操心的朋友。 |  |
+| charles yoshino | 芳乃夏露露 | ![](https://circus-co.jp/product/dc3/img/character/img_chr02_illust_l.png)<br>所属作品：`da capo iii`<br>芳乃清隆的堂姐。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
