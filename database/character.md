@@ -7787,6 +7787,7 @@ example:
 | suzuno kamazuki | 镰月玲乃 | ![](https://maousama.jp/assets/img/character/character06_main.png)<br>所属作品：`hataraku maou-sama` |  |
 | dialyn | 琉音 | ![](https://patchwiki.biligame.com/images/zzz/2/25/2komc66canwbm3vo5r7tr4eua07a9yl.png)<br>所属作品：`zenless zone zero` |  |
 | ayaka sakurai | 樱井彩花 | ![](https://static.wikia.nocookie.net/yuripedia/images/3/31/Ayaka733.jpg)<br>所属作品：`lonely girl ni sakaraenai` |  |
+| sora honda | 本田空 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/06/Sora388364.jpg)<br>所属作品：`lonely girl ni sakaraenai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
