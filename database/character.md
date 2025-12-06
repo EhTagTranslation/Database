@@ -7769,6 +7769,7 @@ example:
 | aisia | 艾西亚 | ![](https://t.vndb.org/ch/14/6114.jpg)<br>所属作品：`da capo ii` |  |
 | mako mizukoshi | 水越真子 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_mako.png)<br>所属作品：`da capo` |  |
 | moe mizukoshi | 水越萌 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_moe.png)<br>所属作品：`da capo` |  |
+| kanako saeki | 佐伯加奈子 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_kanako.png)<br>所属作品：`da capo ii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
