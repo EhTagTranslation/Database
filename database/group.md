@@ -13485,6 +13485,7 @@ example:
 | tsuyu no torikago | 梅雨の鳥籠 |  |  |
 | tsuboneya | 局屋 |  |  |
 | fuzoku kugayama kindergarden | 附属久我山キンダーガーデン |  |  |
+| ichigo no katamari | 苺の塊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
