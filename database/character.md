@@ -2488,7 +2488,7 @@ example:
 | mejiro mcqueen | 目白麦昆 | ![](https://moegirl.icu/media/thumb/UPDCH_MejiroMcQueen_00.png/580px-UPDCH_MejiroMcQueen_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹メジロマックイーン（Mejiro McQueen）。 | [萌娘百科](https://moegirl.icu/目白麦昆) |
 | silence suzuka | 无声铃鹿 | ![](https://moegirl.icu/media/thumb/UPDCH_SilenceSuzuka_00.png/580px-UPDCH_SilenceSuzuka_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹サイレンススズカ（Silence Suzuka）。 | [萌娘百科](https://moegirl.icu/无声铃鹿) |
 | special week | 特别周 | ![](https://moegirl.icu/media/thumb/UPDCH_SpecialWeek_00.png/580px-UPDCH_SpecialWeek_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹スペシャルウィーク（Special Week）。 | [萌娘百科](https://moegirl.icu/特别周) |
-| tokai teio | 东海帝王 | ![](https://moegirl.icu/media/thumb/UPDCH_TokaiTeio_00.png/580px-UPDCH_TokaiTeio_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹トウカイテイオー（Tokai Teio）。 | [萌娘百科](https://zh.moegirl.org.cn/东海帝王) |
+| tokai teio | 东海帝王 | ![](https://static.wikia.nocookie.net/umamusume/images/0/04/Tokai_Teio_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹トウカイテイオー（Tokai Teio）。 | [萌娘百科](https://zh.moegirl.org.cn/东海帝王) |
 | taiki shuttle | 大树快车 | ![](https://moegirl.icu/media/thumb/UPDCH_TaikiShuttle_00.png/580px-UPDCH_TaikiShuttle_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为于美国出生的纯血竞赛马匹タイキシャトル（Taiki Shuttle）。 | [萌娘百科](https://moegirl.icu/大树快车) |
 |  | ▼ 超次元游戏海王星 |  |  |
 |  | 超次元游戏海王星 > 女神 |  |  |
