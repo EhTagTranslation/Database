@@ -7741,6 +7741,7 @@ example:
 | newcastle | 纽卡斯尔 | ![](https://i2.hdslb.com/bfs/new_dyn/5e3b0cb2ed31d519088afae81b7b92a4262400697.png)<br>所属作品：`azur lane` |  |
 | venture | 探奇 |  | [Fandom](https://overwatch.fandom.com/wiki/Venture)<br>[萌娘百科](https://zh.moegirl.org.cn/探奇) |
 | rei suzukawa | 凉川丽 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2024/06/18/21/29/12/119759207_p0_master1200.jpg)<br>所属作品：`mankitsu happening` |  |
+| lady nifle | 妮弗尔夫人 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/50240/43637/2025/9/27/961996.png)<br>所属作品：`duet night abyss` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
