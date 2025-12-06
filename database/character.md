@@ -7312,7 +7312,7 @@ example:
 | yamato mikoto | 大和命 | ![](https://ehgt.org/w/02/080/13286-r2jqbbjb.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | mei aihara | 蓝原芽衣 |  |  |
 | yuzu aihara | 蓝原柚子 |  |  |
-| kana higa | 比嘉夏菜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/4d/72/152179_crt_PnX4t.jpg?r=1738653086)<br>所属作品：`okinawa de suki ni natta ko ga hougen sugite tsura sugiru` |  |
+| kana higa | 比嘉夏菜 | ![](https://static.wikia.nocookie.net/okitsura/images/9/97/Kana_Higa.png)<br>所属作品：`okinawa de suki ni natta ko ga hougen sugite tsura sugiru` |  |
 | kojou akatsuki | 晓古城 | ![](https://lain.bgm.tv/r/400/pic/crt/l/06/7c/21626_crt_7J556.jpg)<br>所属作品：`strike the blood`<br>被称为世界最强吸血鬼“第四真祖”的少年。 |  |
 | yuyu shirai | 白井梦结 |  |  |
 | klaudia valentz | 科洛蒂娅·巴兰茨 |  |  |
