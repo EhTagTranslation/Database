@@ -2640,7 +2640,7 @@ example:
 | mankitsu happening | 漫画咖啡厅的艳遇危机 | ![](https://vdownload.hembed.com/image/cover/qQK2tTC.jpg?secure=zWhi4smE352Mj2wjWalXiw==,1767148327)<br>日文名：漫喫ハプニング<br>圭一因为特殊的体质，只能到朋友家的漫画咖啡厅打工，结果却面临青梅竹马和前辈，人气偶像的艳遇危机。 |  |
 | duet night abyss | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_270/h_270/215/236746/2024/3/10/36102.webp) 二重螺旋 | ![](https://gwcn-cdn.yingxiong.com/yingxiong/111111.png)<br>《Duet Night Abyss》是由‌英雄游戏旗下‌潘神工作室开发的幻想题材动作RPG |  |
 | danjo no yuujou wa seiritsu suru iya shinai | 男女之间的友情存在吗？ | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918993773.webp)<br>《男女之间的友情存在吗？（不，不存在！！）》是由日本作家七菜なな创作、Parum负责插画的轻小说，并有同名改编漫画和动画。 |  |
-| lonely girl ni sakaraenai | 无法拒绝孤独的她 | 日本漫画家樫風创作的青春百合题材漫画。 |  |
+| lonely girl ni sakaraenai | 无法拒绝孤独的她 | ![](https://i0.hdslb.com/bfs/article/56ebabeaf7d482e9f761f2cbece8612b9ce8ebfe.jpg)<br>日本漫画家樫風创作的青春百合题材漫画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
