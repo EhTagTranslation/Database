@@ -14450,6 +14450,7 @@ example:
 | komaneko | 狛猫 |  |  |
 | shikoto tanetsuke | しこと種付け |  |  |
 | rolly bell | 露李鈴 |  |  |
+| a wu a | 阿五啊 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
