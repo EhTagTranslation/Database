@@ -7778,6 +7778,7 @@ example:
 | rukawa sara | 瑠川纱罗 | ![](https://circus-co.jp/product/dc3/img/character/img_chr04_illust_l.png)<br>所属作品：`da capo iii` |  |
 | aoi hinomoto | 阳之下葵 | ![](https://circus-co.jp/product/dc3/img/character/img_chr05_illust_l.png)<br>所属作品：`da capo iii` |  |
 | sakura yoshino | 芳乃樱 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_sakura.png)<br>所属作品：`da capo` |  |
+| junichi asakura | 朝仓纯一 | 所属作品：`da capo`<br>本作男主角。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
