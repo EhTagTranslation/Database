@@ -6925,7 +6925,7 @@ example:
 | katsuragi ace | 葛城王牌 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/2/25/otmsqkoq6nkgeeq1879zel24giozivf.png/600px-Jsf_110401.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹葛城王牌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/葛城王牌) |
 | chrono genesis | 创世驹 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/5/58/oaxsmj7vrlup1saqtyrm1yszk9ukhwg.png/600px-Jsf_113301.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/创世驹) |
 | gran alegria | 放声欢呼 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/1/18/lmcll5b1m1gucxzpac7af4xvv13qheb.png/600px-Jsf_113101.png)<br>所属作品：`uma musume pretty derby`<br>原型为现实中的赛马Gran Alegria（グランアレグリア）‌。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/放声欢呼) |
-| light hello | 双铃莱特 | 所属作品：`uma musume pretty derby` |  |
+| light hello | 双铃莱特 | ![](https://static.wikia.nocookie.net/umamusume/images/3/3b/Light_Hello_%28Main%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | narita brian | 成田白仁 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/5/59/4ydwvypyvxo1uueuzhnesvvjsri4q3j.png/600px-Jsf_101601.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/成田白仁) |
 | orfevre | 黄金巨匠 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/41/8i0qxbh3kol20t7zxfr0eyx3di2o8yv.png/600px-Jsf_111501.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/黄金巨匠) |
 | curren bouqetdor | 机伶金花 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/9e/afn9ewjonaxc0duw8h77qa6r0h8gvr9.png/150px-Support_thumb_20088.png)<br>所属作品：`uma musume pretty derby` |  |
