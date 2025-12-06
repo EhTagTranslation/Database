@@ -5524,7 +5524,7 @@ example:
 | yorishige suwa | 诹访赖重 |  |  |
 | shizuku | 雫 |  |  |
 | the flash | 闪电侠 |  |  |
-| gentildonna | 贵妇人 | ![](https://moegirl.icu/media/thumb/UPDCH_Gentildonna_00.png/580px-UPDCH_Gentildonna_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ジェンティルドンナ（Gentildonna）。 | [萌娘百科](https://zh.moegirl.org.cn/贵妇人) |
+| gentildonna | 贵妇人 | ![](https://static.wikia.nocookie.net/umamusume/images/9/9c/Gentildonna_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ジェンティルドンナ（Gentildonna）。 | [萌娘百科](https://zh.moegirl.org.cn/贵妇人) |
 | yamanin zephyr | 也文摄辉 | ![](https://moegirl.icu/media/thumb/UPDCH_YamaninZephyr_00.png/580px-UPDCH_YamaninZephyr_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヤマニンゼファー（Yamanin Zephyr）。 | [萌娘百科](https://zh.moegirl.org.cn/也文摄辉) |
 | vivlos | 强击 | ![](https://img.moegirl.org.cn/common/1/12/UPDCH_Vivlos_10.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヴィブロス（Vivlos）。 | [萌娘百科](https://zh.moegirl.org.cn/强击) |
 | oguri cap | 小栗帽 | ![](https://moegirl.icu/media/thumb/UPDCH_OguriCap_00.png/580px-UPDCH_OguriCap_00.png)<br>所属作品：`uma musume pretty derby`<br>漫画《赛马娘 芦毛灰姑娘》的主人公。<br>原型为日本纯血竞赛马匹オグリキャップ（Oguri Cap）。 | [萌娘百科](https://zh.moegirl.org.cn/小栗帽) |
