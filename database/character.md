@@ -7757,6 +7757,7 @@ example:
 | fujimasa march | 藤正进行曲 | ![](https://static.wikia.nocookie.net/umamusume/images/9/95/Fujimasa_March_%28Anime_Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | air messiah | 天域圣君 | ![](https://static.wikia.nocookie.net/umamusume/images/d/d6/Air_Messiah_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | typhon ephemeros | 堤丰·厄斐墨洛斯 | ![](https://media.fgo.wiki/thumb/e/ee/堤丰·厄斐墨洛斯初始.png/428px-堤丰·厄斐墨洛斯初始.png)<br>![](https://media.fgo.wiki/thumb/4/42/堤丰·厄斐墨洛斯三破.png/428px-堤丰·厄斐墨洛斯三破.png)<br>所属作品：`fate grand order`<br>日文名：テュフォン・エフェメロス |  |
+| rion enomoto | 榎本凛音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/cf/170093_crt_dd58q.jpg?r=1737640850)<br>所属作品：`danjo no yuujou wa seiritsu suru iya shinai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
