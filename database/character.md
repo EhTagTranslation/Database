@@ -7780,6 +7780,7 @@ example:
 | sakura yoshino | 芳乃樱 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/images/common/character/img_character_sakura.png)<br>所属作品：`da capo` |  |
 | junichi asakura | 朝仓纯一 | 所属作品：`da capo`<br>本作男主角。 |  |
 | akane hanasaki | 花咲茜 | ![](https://storage.moegirl.org.cn/moegirl/commons/0/07/Hanasakiakane.jpg)<br>所属作品：`da capo ii` |  |
+| koko tsukishima | 月岛小恋 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ac/6e/1210_crt_an3nP.jpg)<br>所属作品：`da capo ii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
