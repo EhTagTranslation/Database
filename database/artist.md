@@ -14449,6 +14449,7 @@ example:
 | kazayuki kaya | 風雪花夜 |  |  |
 | komaneko | 狛猫 |  |  |
 | shikoto tanetsuke | しこと種付け |  |  |
+| rolly bell | 露李鈴 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
