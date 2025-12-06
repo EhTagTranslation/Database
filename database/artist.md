@@ -14453,6 +14453,7 @@ example:
 | a wu a | 阿五啊 |  |  |
 | shirobei | 四郎兵衛 |  |  |
 | maguro tarao | ギシュレッド |  | [X](https://x.com/gisyuled) |
+| yonjiri | よんじり |  | [X](https://x.com/yon4jiri) |
 
 <!--TEMPLATE:
 |  |  |  |  |
