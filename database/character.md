@@ -4437,7 +4437,7 @@ example:
 | seiun sky | 青云天空 | ![](https://static.wikia.nocookie.net/umamusume/images/5/5a/Seiun_Sky_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。 | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
 | curren chan | 真机伶 | ![](https://static.wikia.nocookie.net/umamusume/images/a/ad/Curren_Chan_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹カレンチャン（Curren Chan）。 | [萌娘百科](https://zh.moegirl.org.cn/真机伶) |
 | symboli rudolf | 鲁道夫象征 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliRudolf_00.png/580px-UPDCH_SymboliRudolf_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
-| admire vega | 爱慕织姬 | ![](https://moegirl.icu/media/thumb/UPDCH_AdmireVega_00.png/580px-UPDCH_AdmireVega_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
+| admire vega | 爱慕织姬 | ![](https://static.wikia.nocookie.net/umamusume/images/4/4b/Admire_Vega_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
 | yorha commander | 寄葉指揮官 |  |  |
 | cidala | 辛妲拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7a/Zoom_3040377000_01.png)<br>所属作品：`granblue fantasy`<br>守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。 | [碧蓝幻想WIKI](https://gbf.huijiwiki.com/wiki/Char/3040377000) |
 | super creek | 超级溪流 | ![](https://moegirl.icu/media/thumb/UPDCH_SuperCreek_00.png/580px-UPDCH_SuperCreek_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
