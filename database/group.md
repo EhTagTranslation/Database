@@ -13490,6 +13490,7 @@ example:
 | hito no kokoro | 人の心 |  |  |
 | uru uru ultimate | うるうるあるてぃめっと |  |  |
 | hagoromotei | はごろもてい |  |  |
+| amagyappa | あまぎゃっぱ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
