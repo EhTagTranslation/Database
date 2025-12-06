@@ -13487,6 +13487,7 @@ example:
 | fuzoku kugayama kindergarden | 附属久我山キンダーガーデン |  |  |
 | ichigo no katamari | 苺の塊 |  |  |
 | warasubodou | わらすぼ道 |  |  |
+| hito no kokoro | 人の心 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
