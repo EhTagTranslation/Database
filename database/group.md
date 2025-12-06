@@ -13484,6 +13484,7 @@ example:
 | mikakunin seimeitai | 未確認性命体 |  |  |
 | tsuyu no torikago | 梅雨の鳥籠 |  |  |
 | tsuboneya | 局屋 |  |  |
+| fuzoku kugayama kindergarden | 附属久我山キンダーガーデン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
