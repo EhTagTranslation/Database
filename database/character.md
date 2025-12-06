@@ -7753,7 +7753,7 @@ example:
 | furioso | 狂怒乐章 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/9/9d/pqcdv66znnwuwh8zrv3fx7ywzypiwsk.png/600px-Jsf_107901.png)<br>所属作品：`uma musume pretty derby` |  |
 | blast onepiece | 防爆装束 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/6tgypmnl2k2nothsiiuexgi3y541xcj.png/180px-Tex_support_card_30232.png)<br>所属作品：`uma musume pretty derby` |  |
 | belno light | 崭新光辉 | ![](https://static.wikia.nocookie.net/umamusume/images/0/0a/Berno_Light_Anime.png)<br>所属作品：`uma musume pretty derby` |  |
-| norn ace | 诺伦王牌 | ![](https://i.pixiv.cat/c/260x260/img-master/img/2025/05/19/00/00/03/130563019_p0_square1200.jpg)<br>所属作品：`uma musume pretty derby` |  |
+| norn ace | 诺伦王牌 | ![](https://static.wikia.nocookie.net/umamusume/images/f/f4/Norn_Ace_%28Anime%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | fujimasa march | 藤正进行曲 | ![](https://static.wikia.nocookie.net/umamusume/images/9/95/Fujimasa_March_%28Anime_Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | air messiah | 天域圣君 | ![](https://static.wikia.nocookie.net/umamusume/images/d/d6/Air_Messiah_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 
