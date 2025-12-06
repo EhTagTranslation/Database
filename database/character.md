@@ -3893,7 +3893,7 @@ example:
 | nurnberg | 纽伦堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/24eb808503ed1e70b9c7d82b201a50cf262400697.png) |  |
 | nicholas | 尼古拉斯 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/1436698608c6259ff24b50b49db303cc262400697.png) |  |
 | icarus | 伊卡洛斯 |  |  |
-| palutena | 帕露蒂娜 |  |  |
+| palutena | 帕露蒂娜 | ![](https://ehgt.org/w/02/049/94952-uspvp6n6.webp)<br>所属作品：`kid icarus` |  |
 | pit | 皮特 |  |  |
 | bozes co palesti | 波赛斯·戈·芭蕾丝蒂 |  |  |
 | noi | 能井 |  |  |
