@@ -7764,6 +7764,7 @@ example:
 | hina kyan | 喜屋武飞夏 | ![](https://static.wikia.nocookie.net/okitsura/images/e/ea/Hina_Kyan.png)<br>所属作品：`okinawa de suki ni natta ko ga hougen sugite tsura sugiru` |  |
 | kotori shirakawa | 白河小鸟 | ![](https://dcre.bushiroadgames.com/wordpress/wp-content/themes/dcre_v1/assets/webp/common/character/img_character_kotori.webp)<br>所属作品：`da capo` |  |
 | minatsu amakase | 天枷美夏 | ![](https://t.vndb.org/ch/88/6088.jpg)<br>所属作品：`da capo`<br>动画《初音岛》系列登场的机器人角色，由天伽研究所研发的拥有人类意志的尖端人工智能。 |  |
+| nanaka shirakawa | 白河奈奈佳 | ![](https://t.vndb.org/ch/91/6091.jpg)<br>所属作品：`da capo ii`<br>校园人气偶像兼轻音乐社主唱。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
