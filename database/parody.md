@@ -2639,6 +2639,7 @@ example:
 | magic kaito | 魔术快斗 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c1/Magic_Kaito_Vol.01.png)<br>《魔术快斗（dǒu）》（日语：まじっく快斗），官方译作“魔术快斗”（中国大陆，漫画）、“怪盗基德”（中国大陆、台湾，动画），简称《魔快》，是日本漫画家青山刚昌的作品。1987年在《周刊少年Sunday》26期上开始连载，未完结。讲述了高中生黑羽快斗发现8年前去世的父亲黑羽盗一就是怪盗基德，为了调查父亲死因而成为第二代怪盗基德进行活动的故事。 | [萌娘百科](https://zh.moegirl.org.cn/魔术快斗) |
 | mankitsu happening | 漫画咖啡厅的艳遇危机 | ![](https://vdownload.hembed.com/image/cover/qQK2tTC.jpg?secure=zWhi4smE352Mj2wjWalXiw==,1767148327)<br>日文名：漫喫ハプニング<br>圭一因为特殊的体质，只能到朋友家的漫画咖啡厅打工，结果却面临青梅竹马和前辈，人气偶像的艳遇危机。 |  |
 | duet night abyss | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_270/h_270/215/236746/2024/3/10/36102.webp) 二重螺旋 | ![](https://gwcn-cdn.yingxiong.com/yingxiong/111111.png)<br>《Duet Night Abyss》是由‌英雄游戏旗下‌潘神工作室开发的幻想题材动作RPG |  |
+| danjo no yuujou wa seiritsu suru iya shinai | 男女之间的友情存在吗？ | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918993773.webp)<br>《男女之间的友情存在吗？（不，不存在！！）》是由日本作家七菜なな创作、Parum负责插画的轻小说，并有同名改编漫画和动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
