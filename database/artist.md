@@ -14456,6 +14456,7 @@ example:
 | yonjiri | よんじり |  | [X](https://x.com/yon4jiri) |
 | loki | ろき |  |  |
 | amane-san | あまねさん |  |  |
+| sakuretsu tororokonbu | 炸裂とろろ昆布 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
