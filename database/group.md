@@ -4965,7 +4965,7 @@ example:
 | gamute de kotei | ガムテで固定 |  |  |
 | ganbari machine | ガンバリマシン |  |  |
 | gang koubou | ぎゃんぐ工房 |  |  |
-| ganmenki joe | 巌面鬼JOE |  |  |
+| ganmenki joe | 严面鬼JOE |  |  |
 | ganmo-no-oyatsu | がんものおやつ |  |  |
 | ganmou koubou | がんもぅ工房 |  |  |
 | ganso sonodaya | 元祖園田屋 |  |  |
