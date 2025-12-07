@@ -7790,6 +7790,7 @@ example:
 | sora honda | 本田空 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/06/Sora388364.jpg)<br>所属作品：`lonely girl ni sakaraenai` |  |
 | shizuku hoshikawa | 星川雫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/07/80/166831_crt_urJbr.jpg)<br>所属作品：`kimi to tsuzuru utakata`<br>高中一年级学生，由于某种原因避免与他人交流。 |  |
 | mitsuki ayanokouji | 矢野美月 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/5/5c/Mitsuki.png)<br>所属作品：`watashi no yuri wa oshigoto desu` |  |
+| sumika tachibana | 知花纯加 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/0/05/Sumika_Tachibana_Anime_Design.png)<br>所属作品：`watashi no yuri wa oshigoto desu`<br>在咖啡厅工作最久的前辈，在咖啡厅中的姓为“橘”。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
