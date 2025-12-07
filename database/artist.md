@@ -14457,6 +14457,7 @@ example:
 | loki | ろき |  |  |
 | amane-san | あまねさん |  |  |
 | sakuretsu tororokonbu | 炸裂とろろ昆布 |  |  |
+| shinya yaoya | 深夜ヤオヤ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
