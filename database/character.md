@@ -7788,6 +7788,7 @@ example:
 | dialyn | 琉音 | ![](https://patchwiki.biligame.com/images/zzz/2/25/2komc66canwbm3vo5r7tr4eua07a9yl.png)<br>所属作品：`zenless zone zero` |  |
 | ayaka sakurai | 樱井彩花 | ![](https://static.wikia.nocookie.net/yuripedia/images/3/31/Ayaka733.jpg)<br>所属作品：`lonely girl ni sakaraenai` |  |
 | sora honda | 本田空 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/06/Sora388364.jpg)<br>所属作品：`lonely girl ni sakaraenai` |  |
+| shizuku hoshikawa | 星川雫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/07/80/166831_crt_urJbr.jpg)<br>所属作品：`kimi to tsuzuru utakata`<br>高中一年级学生，由于某种原因避免与他人交流。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
