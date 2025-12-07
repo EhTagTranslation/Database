@@ -2641,6 +2641,7 @@ example:
 | duet night abyss | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_270/h_270/215/236746/2024/3/10/36102.webp) 二重螺旋 | ![](https://gwcn-cdn.yingxiong.com/yingxiong/111111.png)<br>《Duet Night Abyss》是由‌英雄游戏旗下‌潘神工作室开发的幻想题材动作RPG |  |
 | danjo no yuujou wa seiritsu suru iya shinai | 男女之间的友情存在吗？ | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918993773.webp)<br>《男女之间的友情存在吗？（不，不存在！！）》是由日本作家七菜なな创作、Parum负责插画的轻小说，并有同名改编漫画和动画。 |  |
 | lonely girl ni sakaraenai | 无法拒绝孤独的她 | ![](https://i0.hdslb.com/bfs/article/56ebabeaf7d482e9f761f2cbece8612b9ce8ebfe.jpg)<br>日本漫画家樫風创作的青春百合题材漫画。 |  |
+| kimi to tsuzuru utakata | 共谱泡沫恋曲 | ![](https://upload.wikimedia.org/wikipedia/en/8/87/The_Summer_You_Were_There_1.png)<br>《共谱泡沫恋曲》（别名《与你编缀的泡沫》）是由日本漫画家ゆあま创作的百合题材漫画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
