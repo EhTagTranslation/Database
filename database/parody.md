@@ -1889,7 +1889,7 @@ example:
 | chouja raideen | 超者雷登 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/超者ライディーン) |
 | choujikuu kidan southern cross | 超时空骑团 |  | [维基百科](https://zh.wikipedia.org/wiki/宇宙再生人) |
 | choujuu kishin dancougar | 超兽机神 |  | [维基百科](https://zh.wikipedia.org/wiki/超獸機神) |
-| choukou shinki ixseal | 超昂神骑爱克希尔 |  | [维基百科](https://zh.wikipedia.org/wiki/超昂神騎愛克希爾) |
+| choukou shinki ixseal | 超昂神骑爱克希尔 | ![](https://otomi-games.com/wp-content/uploads/2025/03/nqf0r797bh9b1.webp)<br>《超昂神骑爱克希尔》（超昂神骑エクシール）是 ALICESOFT 制作的冒险类型成人游戏，超昂系列第三部作品。 | [维基百科](https://zh.wikipedia.org/wiki/超昂神騎愛克希爾) |
 | chrono cross | 穿越时空 |  | [维基百科](https://zh.wikipedia.org/wiki/穿越时空) |
 | chrono trigger | 时空之轮 |  | [维基百科](https://zh.wikipedia.org/wiki/时空之轮) |
 | chu-bra | 青春CUP |  | [维基百科](https://zh.wikipedia.org/wiki/青春CUP) |
