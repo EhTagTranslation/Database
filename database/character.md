@@ -7792,6 +7792,7 @@ example:
 | mitsuki ayanokouji | 矢野美月 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/9/9c/Mitsuki_Ayanokouji_Anime_Design.png)<br>所属作品：`watashi no yuri wa oshigoto desu`<br>小阳在咖啡厅中的姐姐，在咖啡厅中的姓为“绫小路”。 |  |
 | sumika tachibana | 知花纯加 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/0/05/Sumika_Tachibana_Anime_Design.png)<br>所属作品：`watashi no yuri wa oshigoto desu`<br>在咖啡厅工作最久的前辈，在咖啡厅中的姓为“橘”。 |  |
 | kanoko amamiya | 间宫果乃子 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/d/d8/Kanoko_Amamiya_Anime_Design.png)<br>所属作品：`watashi no yuri wa oshigoto desu`<br>小阳从国中到高中的好友，在咖啡厅中的姓为“雨宫”。 |  |
+| satsuki tachibana | 馆花纱月 | ![](https://i.namu.wiki/i/wFBGOT_q3E0u7KqCvTw2BGBTf2EMv6K3WFqfE7t4Z5SF4ffv0sa_k5fHJWx_uL08uHhEEQ2qIIFHPXTHxkhGkH3egzJOVG7gFden-VY4VZ2k3zqmIzr0LoOsIokddRswhq-jNcrk5ma6HeqMobWcVQ.webp)<br>所属作品：`watari-kun no xx ga houkai sunzen`<br>16岁，高中2年级C班。渡直人青梅竹马的美少女，喜欢渡直人。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
