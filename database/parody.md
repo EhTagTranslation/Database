@@ -2643,6 +2643,7 @@ example:
 | lonely girl ni sakaraenai | 无法拒绝孤独的她 | ![](https://i0.hdslb.com/bfs/article/56ebabeaf7d482e9f761f2cbece8612b9ce8ebfe.jpg)<br>日本漫画家樫風创作的青春百合题材漫画。 |  |
 | kimi to tsuzuru utakata | 共谱泡沫恋曲 | ![](https://upload.wikimedia.org/wikipedia/en/8/87/The_Summer_You_Were_There_1.png)<br>《共谱泡沫恋曲》（别名《与你编缀的泡沫》）是由日本漫画家ゆあま创作的百合题材漫画。 |  |
 | watari-kun no xx ga houkai sunzen | 渡君的xx即将崩坏 | ![](https://img9.doubanio.com/view/photo/l/public/p2925795494.webp)<br>《渡君的xx即将崩坏》是由日本漫画家鸣见奈留创作的校园恋爱漫画。 |  |
+| atelier yumia | 优米雅的炼金工房 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/70/A26_Product_image（1.0）.png)<br>《优米雅的炼金工房：追忆之炼金术士与幻创之地》是光荣特库摩游戏制作发行的一款动作角色扮演游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
