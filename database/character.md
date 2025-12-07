@@ -7798,6 +7798,7 @@ example:
 | susan storm | 苏珊·斯通 | ![](https://ehgt.org/w/02/094/17213-5237gb44.webp)<br>所属作品：`fantastic four`<br>外号“隐形女”。 |  |
 | beat valkyrie ixseal | 爱克希尔 | ![](https://ehgt.org/w/02/143/92228-87gd3lm0.webp)<br>所属作品：`choukou shinki ixseal` |  |
 | niko | 妮可 | 蔚蓝档案 女角色 |  |
+| rae taylor | 零·缇拉 | ![](https://wataoshi-anime.com/assets/images/character/chara_01.png)<br>所属作品：`watashi no oshi wa akuyaku reijou.` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
