@@ -7805,6 +7805,8 @@ example:
 | machina | 玛琦娜 |  |  |
 | harry potter | 哈利·波特 |  |  |
 | gareth | 加雷斯 |  |  |
+| slappy squirrel | 丝洛培 | ![](https://static.wikia.nocookie.net/looneytunes/images/4/49/Slappy_Squirrel_.webp/revision/latest?cb=20240219092301)<br>所属作品:`animaniacs` | [Fandom](https://animaniacs.fandom.com/wiki/Slappy_Squirrel) |
+| bugs bunny | 兔八哥 | ![](https://upload.wikimedia.org/wikipedia/zh/2/26/Classic_bugsbunny.png)<br>兔八哥（英语：Bugs Bunny，又译宾尼兔），是美国的一名拟人卡通人物，由华纳兄弟动画公司设计制作，首次在`p:looney tunes`动画系列中出现。<br>经典。 | [维基百科](https://zh.wikipedia.org/wiki/賓尼兔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
