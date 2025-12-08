@@ -13496,6 +13496,7 @@ example:
 | torotoro tororokonbu | とろとろとろろ昆布 |  |  |
 | wasuresou na namae | 忘れそうな名前 |  |  |
 | mikikomachi | みきこまち |  |  |
+| tou kasokudou jouge undou | 等加速度上下運動 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
