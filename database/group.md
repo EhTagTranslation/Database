@@ -13493,6 +13493,7 @@ example:
 | amagyappa | あまぎゃっぱ |  |  |
 | tairakuten | 怠楽天 |  |  |
 | dekitate amaguri | できたて甘栗 |  |  |
+| torotoro tororokonbu | とろとろとろろ昆布 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
