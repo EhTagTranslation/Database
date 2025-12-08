@@ -13495,6 +13495,7 @@ example:
 | dekitate amaguri | できたて甘栗 |  |  |
 | torotoro tororokonbu | とろとろとろろ昆布 |  |  |
 | wasuresou na namae | 忘れそうな名前 |  |  |
+| mikikomachi | みきこまち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
