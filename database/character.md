@@ -7800,6 +7800,7 @@ example:
 | niko | 妮可 | 蔚蓝档案 女角色 |  |
 | rae taylor | 零·缇拉 | ![](https://wataoshi-anime.com/assets/images/character/chara_01.png)<br>所属作品：`watashi no oshi wa akuyaku reijou.` |  |
 | claire francois | 克蕾雅·弗朗索瓦 | ![](https://wataoshi-anime.com/assets/images/character/chara_02.png)<br>所属作品：`watashi no oshi wa akuyaku reijou.` |  |
+| kiwako makina | 蒔名季和子 | 死囚乐园中的角色，完整原名：蒔名フリューゲル季和子，作品中常标记为マキナ，中文译名真纪奈。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
