@@ -239,7 +239,7 @@ example:
 | arisa ayase | 绚濑亚里沙 | 绚濑绘里的妹妹<br>![绚濑亚里沙](https://img.moegirl.org.cn/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绚濑亚里沙) |
 | kotori minami | 南小鸟 | 所属作品:`p:love live`<br>所属团体 μ's<br>![南小鸟](https://img.moegirl.org.cn/common/thumb/f/ff/Member03_kotorii.png/250px-Member03_kotorii.png) | [萌娘百科](https://zh.moegirl.org.cn/南小鸟) |
 | umi sonoda | 园田海未 | 所属作品:`p:love live`<br>所属团体 μ's<br>![园田海未](https://img.moegirl.org.cn/common/thumb/5/53/Member04_umi_side.png/250px-Member04_umi_side.png) | [萌娘百科](https://zh.moegirl.org.cn/园田海未) |
-| rin hoshizora | 星空凛 | 所属团体 μ's<br>![星空凛](https://img.moegirl.org.cn/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org.cn/星空凛) |
+| rin hoshizora | 星空凛 | 所属作品:`p:love live`<br>所属团体 μ's<br>![星空凛](https://img.moegirl.org.cn/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org.cn/星空凛) |
 | maki nishikino | 西木野真姬 | 所属团体 μ's<br>![西木野真姬](https://img.moegirl.org.cn/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png) | [萌娘百科](https://zh.moegirl.org.cn/西木野真姬) |
 | nozomi tojo | 东条希 | 所属团体 μ's<br>![东条希](https://img.moegirl.org.cn/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png) | [萌娘百科](https://zh.moegirl.org.cn/东条希) |
 | hanayo koizumi | 小泉花阳 | 所属团体 μ's<br>![小泉花阳](https://img.moegirl.org.cn/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) | [萌娘百科](https://zh.moegirl.org.cn/小泉花阳) |
