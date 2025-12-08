@@ -233,7 +233,7 @@ example:
 | hakurei miko | 先代巫女 |  |  |
 |  | ▲东方Project 人物 |  |  |
 |  | ▼ Love Live 人物 |  |  |
-| honoka kosaka | 高坂穗乃果 | 所属团体 μ's<br>![高坂穗乃果](https://img.moegirl.org.cn/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org.cn/高坂穗乃果) |
+| honoka kosaka | 高坂穗乃果 | 所属作品:`p:love live`<br>所属团体 μ's<br>![高坂穗乃果](https://img.moegirl.org.cn/common/thumb/c/c6/Member01_honoka.png/250px-Member01_honoka.png) | [萌娘百科](https://zh.moegirl.org.cn/高坂穗乃果) |
 | yukiho kosaka | 高坂雪穗 | 高坂穗乃果的妹妹<br>![高坂雪穗](https://img.moegirl.org.cn/common/thumb/b/bc/Lovelive_KousakaYukihou.jpg/250px-Lovelive_KousakaYukihou.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高坂雪穗) |
 | eli ayase | 绚濑绘里 | 所属团体 μ's<br>![绚濑绘里](https://img.moegirl.org.cn/common/thumb/7/73/Member02_eli.png/250px-Member02_eli.png) | [萌娘百科](https://zh.moegirl.org.cn/绚濑绘里) |
 | arisa ayase | 绚濑亚里沙 | 绚濑绘里的妹妹<br>![绚濑亚里沙](https://img.moegirl.org.cn/common/thumb/b/b7/LoveLive_AyaseArisa.jpg/250px-LoveLive_AyaseArisa.jpg) | [萌娘百科](https://zh.moegirl.org.cn/绚濑亚里沙) |
