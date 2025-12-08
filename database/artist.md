@@ -14462,6 +14462,8 @@ example:
 | lu ling | 鹿铃 |  |  |
 | hentai shinshi dt | 变态绅士DT |  |  |
 | nakaoka ramu | 中岡らむ |  |  |
+| tsubuan daifuku | 粒杏だいふく |  |  |
+| ajimu satori | 安心院さとり |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
