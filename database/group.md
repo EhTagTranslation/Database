@@ -13494,6 +13494,7 @@ example:
 | tairakuten | 怠楽天 |  |  |
 | dekitate amaguri | できたて甘栗 |  |  |
 | torotoro tororokonbu | とろとろとろろ昆布 |  |  |
+| wasuresou na namae | 忘れそうな名前 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
