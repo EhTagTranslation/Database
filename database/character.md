@@ -3876,7 +3876,7 @@ example:
 | hass | 莲 |  |  |
 | kazuha kaedehara | 枫原万叶 | 枫原万叶（英语：kazuha kaedehara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/04/原神_枫原万叶.jpg) | [萌娘百科](https://zh.moegirl.org.cn/枫原万叶) [Fandom](https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha) |
 | scaramouche | 「散兵」斯卡拉姆齐 | 散兵（英语：scaramouche）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/db/原神流浪者.jpg) | [萌娘百科](https://zh.moegirl.org.cn/国崩) [Fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
-| himiko | 卑弥呼 |  |  |
+| himiko | 卑弥呼 | 古代日本邪马台国的女王。 | [维基百科](https://zh.wikipedia.org/wiki/卑弥呼) |
 | zenobia | 芝诺比阿 |  |  |
 | paris | 帕里斯 |  |  |
 | captain nemo | 尼莫船长 | 尼莫是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4a/Captain_Nemo.png) | [萌娘百科](https://zh.moegirl.org.cn/尼莫) |
@@ -6311,7 +6311,7 @@ example:
 | najimi osana | 长名奈津美 |  |  |
 | boothill | 波提欧 | 所属作品: `p:honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/波提欧) [萌娘百科](https://zh.moegirl.org.cn/波提欧) |
 | angelina kudou shields | 安洁莉娜·库都·希尔兹 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/11/07/55/31/129178446_p3_master1200.jpg)<br><br>所属作品: `p:mahouka koukou no rettousei`<br>和北山雫交换留学来到魔法科高中的USNA（北美利坚大陆合众国）高中生，拥有不世出的魔法技术的金发碧眼美少女。但其真实身份是世界顶级的魔法师部队【STARS】中的总队长，代号“天狼星”。 | [萌娘百科](https://zh.moegirl.org.cn/安洁莉娜·库都·希尔兹) |
-| iyo | 壹与 |  |  |
+| iyo | 壹与 | 《三国志·魏志倭人传》中继承邪马台国女王卑弥呼之位的女性。<br><br>他是继年轻的莫里亚蒂之后第二个邪恶属性的统治者职业角色。 | [维基百科](https://zh.wikipedia.org/wiki/臺與) [pixiv](https://dic.pixiv.net/a/壱与%28Fate%29) |
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
 | igarashi rika | 五十岚梨花 | 所属社团：彩虹社 |  |
 | todo kohaku | 东堂琥珀 |  |  |
@@ -7804,6 +7804,7 @@ example:
 | garnet maclaine | 嘉涅特・马克琳 | 原名：ガーネット・マクレーン，TV动画DRAGONAUT(龙鸣)中的角色 |  |
 | machina | 玛琦娜 |  |  |
 | harry potter | 哈利·波特 |  |  |
+| gareth | 加雷斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
