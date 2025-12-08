@@ -14465,6 +14465,7 @@ example:
 | tsubuan daifuku | 粒杏だいふく |  |  |
 | ajimu satori | 安心院さとり |  |  |
 | ibara-d | いばらーど |  | [pixiv](https://www.pixiv.net/users/10493409) |
+| shiriso | しりそ |  | [pixiv](https://www.pixiv.net/users/11642375)<br>[FANBOX](https://www.fanbox.cc/@srs1a) |
 
 <!--TEMPLATE:
 |  |  |  |  |
