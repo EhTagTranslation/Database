@@ -242,7 +242,7 @@ example:
 | rin hoshizora | 星空凛 | 所属作品:`p:love live`<br>所属团体 μ's<br>![星空凛](https://img.moegirl.org.cn/common/thumb/7/71/Member05_rin.png/250px-Member05_rin.png) | [萌娘百科](https://zh.moegirl.org.cn/星空凛) |
 | maki nishikino | 西木野真姬 | 所属作品:`p:love live`<br>所属团体 μ's<br>![西木野真姬](https://img.moegirl.org.cn/common/thumb/1/1b/Member06_maki.png/250px-Member06_maki.png) | [萌娘百科](https://zh.moegirl.org.cn/西木野真姬) |
 | nozomi tojo | 东条希 | 所属作品:`p:love live`<br>所属团体 μ's<br>![东条希](https://img.moegirl.org.cn/common/thumb/2/2d/Member07_nozomi.png/250px-Member07_nozomi.png) | [萌娘百科](https://zh.moegirl.org.cn/东条希) |
-| hanayo koizumi | 小泉花阳 | 所属团体 μ's<br>![小泉花阳](https://img.moegirl.org.cn/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) | [萌娘百科](https://zh.moegirl.org.cn/小泉花阳) |
+| hanayo koizumi | 小泉花阳 | 所属作品:`p:love live`<br>所属团体 μ's<br>![小泉花阳](https://img.moegirl.org.cn/common/thumb/3/3e/Member08_hanayo.png/250px-Member08_hanayo.png) | [萌娘百科](https://zh.moegirl.org.cn/小泉花阳) |
 | nico yazawa | 矢泽妮可 | 所属团体 μ's<br>![矢泽妮可](https://img.moegirl.org.cn/common/thumb/2/20/Member09_nico.png/250px-Member09_nico.png) | [萌娘百科](https://zh.moegirl.org.cn/矢泽妮可) |
 | tsubasa kira | 绮罗翼 | 所属团体 A-RISE<br>![绮罗翼](https://img.moegirl.org.cn/common/thumb/e/e0/Lovelive_Tsubasa.jpg/250px-Lovelive_Tsubasa.jpg)![图](# "https://ehgt.org/67/bc/67bc6b8776a85c87fabd94344c8f5b4ef36bbea1-511619-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/绮罗翼) |
 | erena toudou | 统堂英玲奈 | 所属团体 A-RISE<br>![统堂英玲奈](https://img.moegirl.org.cn/common/thumb/0/08/Lovelive_Toutou_Elina.jpg/250px-Lovelive_Toutou_Elina.jpg)![图](# "https://ehgt.org/92/11/9211c43476d6a468d10cad3fbd59ed0113eaf3b6-510324-900-1200-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/统堂英玲奈) |
