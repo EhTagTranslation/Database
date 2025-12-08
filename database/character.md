@@ -7802,6 +7802,8 @@ example:
 | claire francois | 克蕾雅·弗朗索瓦 | ![](https://wataoshi-anime.com/assets/images/character/chara_02.png)<br>所属作品：`watashi no oshi wa akuyaku reijou.` |  |
 | kiwako makina | 蒔名季和子 | 死囚乐园中的角色，完整原名：蒔名フリューゲル季和子，作品中常标记为マキナ，中文译名真纪奈。 |  |
 | garnet maclaine | 嘉涅特・马克琳 | 原名：ガーネット・マクレーン，TV动画DRAGONAUT(龙鸣)中的角色 |  |
+| machina | 玛琦娜 |  |  |
+| harry potter | 哈利·波特 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
