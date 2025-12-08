@@ -14459,6 +14459,7 @@ example:
 | sakuretsu tororokonbu | 炸裂とろろ昆布 |  |  |
 | shinya yaoya | 深夜ヤオヤ |  |  |
 | iwashita kei | 岩下継 |  |  |
+| lu ling | 鹿铃 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
