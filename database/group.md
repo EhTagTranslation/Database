@@ -13491,6 +13491,7 @@ example:
 | uru uru ultimate | うるうるあるてぃめっと |  |  |
 | hagoromotei | はごろもてい |  |  |
 | amagyappa | あまぎゃっぱ |  |  |
+| tairakuten | 怠楽天 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
