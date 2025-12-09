@@ -14468,6 +14468,7 @@ example:
 | shiriso | しりそ |  | [pixiv](https://www.pixiv.net/users/11642375)<br>[FANBOX](https://www.fanbox.cc/@srs1a) |
 | tsukimimumi | つきみむみ | ![](https://i.pixiv.cat/user-profile/img/2024/07/28/08/59/17/26162872_3eebca4ee1b90dd094f73eee82e21ae3_170.jpg)<br>画风很萌的萝莉画师 | [pixiv](https://www.pixiv.net/users/17674896)<br>[X](https://x.com/Tsukimi_Mumi) |
 | aoi ryuya | 蒼井怜也 |  |  |
+| sakurama haruomi | 桜間ハルオミ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
