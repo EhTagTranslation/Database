@@ -173,6 +173,7 @@ example:
 | yangyi | 杨衣 |  |  |
 | green chacha jiang | Green茶茶酱 |  |  |
 | tangtang | 堂堂 |  |  |
+| jiaorouji walkure | 絞肉姬Walküre | Cosplayer | [X](https://x.com/SuccAbyss) |
 
 <!--
 Template: 
