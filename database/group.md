@@ -13501,6 +13501,7 @@ example:
 | rinrin tokoro | 輪々処 |  |  |
 | creampie koujou | クリームパイ工場 |  |  |
 | hisamaru hajimeya | 久丸一屋 |  |  |
+| tokumori hanten | 特盛飯店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
