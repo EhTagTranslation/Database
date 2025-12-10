@@ -13504,6 +13504,7 @@ example:
 | tokumori hanten | 特盛飯店 |  |  |
 | september geshi | セプテンバー夏至 | 九月夏至 |  |
 | jirai soft | 地雷ソフト |  |  |
+| syunka kikaku | しゅんか企画 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
