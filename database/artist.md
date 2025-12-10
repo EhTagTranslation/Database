@@ -14473,6 +14473,7 @@ example:
 | bingdak | BINGDAK |  | [pixiv](https://www.pixiv.net/users/106044657) |
 | kuro megane | 黒下めがね |  |  |
 | tamaya | たまや |  |  |
+| end- | えんど～ \| かかとぶし |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
