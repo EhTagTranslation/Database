@@ -13505,6 +13505,7 @@ example:
 | september geshi | セプテンバー夏至 | 九月夏至 |  |
 | jirai soft | 地雷ソフト |  |  |
 | syunka kikaku | しゅんか企画 |  |  |
+| rhetoric | れとりっく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
