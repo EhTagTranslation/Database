@@ -7810,6 +7810,7 @@ example:
 | daffy duck | 达菲鸭 | ![](https://upload.wikimedia.org/wikipedia/en/f/f4/Daffy_Duck.svg)<br>达菲鸭（英语：Daffy Duck），又称为太菲鸭、酷酷鸭、姜母鸭，是一个在`p:looney tunes`动画系列里出现的一个虚构卡通人物。 | [维基百科](https://zh.wikipedia.org/wiki/達菲鴨) |
 | hyouka fuwa | 不破冰菓 | ![](https://static.wikia.nocookie.net/shimoneta-to-lu/images/c/c6/A92e0b131a7ea5918aed03a614ec702b.jpg/revision/latest?cb=20231209220134)<br>所属作品:`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai` | [百度百科](https://baike.baidu.com/item/不破冰菓/17872341)<br>[Fandom](https://shimoneta.fandom.com/wiki/Hyouka_Fuwa) |
 | radford | 拉德福特 | 碧蓝航线 女角色 |  |
+| yunohana bloom | 汤花盛开 | ![](https://i2.hdslb.com/bfs/new_dyn/debf1291a10bc710db0a15600ea06146510585998.png)<br>所属作品：`uma musume pretty derby`<br>原创赛马娘。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
