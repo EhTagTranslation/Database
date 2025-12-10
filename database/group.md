@@ -13507,6 +13507,7 @@ example:
 | syunka kikaku | しゅんか企画 |  |  |
 | rhetoric | れとりっく |  |  |
 | urano hikidashi | フェチフェチサン |  |  |
+| team sinosabi | Team SINOSABI |  | [Twitter](https://x.com/sinosabi) [官方网站](https://sinosabi.net/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
