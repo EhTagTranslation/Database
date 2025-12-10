@@ -13506,6 +13506,7 @@ example:
 | jirai soft | 地雷ソフト |  |  |
 | syunka kikaku | しゅんか企画 |  |  |
 | rhetoric | れとりっく |  |  |
+| urano hikidashi | フェチフェチサン |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
