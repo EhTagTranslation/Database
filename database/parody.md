@@ -2645,6 +2645,7 @@ example:
 | watari-kun no xx ga houkai sunzen | 渡君的xx即将崩坏 | ![](https://img9.doubanio.com/view/photo/l/public/p2925795494.webp)<br>《渡君的xx即将崩坏》是由日本漫画家鸣见奈留创作的校园恋爱漫画。 |  |
 | atelier yumia | 优米雅的炼金工房 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/70/A26_Product_image（1.0）.png)<br>《优米雅的炼金工房：追忆之炼金术士与幻创之地》是光荣特库摩游戏制作发行的一款动作角色扮演游戏。 |  |
 | watashi no oshi wa akuyaku reijou. | 我推是反派大小姐 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902233193.webp)<br>《我推是反派大小姐》是由祈创作的网络小说作品，作品亦改编为同名漫画、电视动画作品。 |  |
+| stella sora | ![](https://novaweb-static.stargazer-games.com/h5/favicon.png) 星塔旅人 | ![](https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/10/18/klAPa_Id.png)<br>《星塔旅人》是由悠星出品的俯视角轻·动作冒险游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
