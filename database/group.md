@@ -13502,6 +13502,7 @@ example:
 | creampie koujou | クリームパイ工場 |  |  |
 | hisamaru hajimeya | 久丸一屋 |  |  |
 | tokumori hanten | 特盛飯店 |  |  |
+| september geshi | セプテンバー夏至 | 九月夏至 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
