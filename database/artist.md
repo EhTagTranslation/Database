@@ -14475,6 +14475,7 @@ example:
 | tamaya | たまや |  |  |
 | end- | えんど～ \| かかとぶし |  |  |
 | oishiko | おいしこ |  |  |
+| dekamatsu | デカマツ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
