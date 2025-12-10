@@ -13503,6 +13503,7 @@ example:
 | hisamaru hajimeya | 久丸一屋 |  |  |
 | tokumori hanten | 特盛飯店 |  |  |
 | september geshi | セプテンバー夏至 | 九月夏至 |  |
+| jirai soft | 地雷ソフト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
