@@ -14470,6 +14470,7 @@ example:
 | aoi ryuya | 蒼井怜也 |  |  |
 | sakurama haruomi | 桜間ハルオミ |  |  |
 | wednesday | 水曜日 |  |  |
+| bingdak | BINGDAK |  | [pixiv](https://www.pixiv.net/users/106044657) |
 
 <!--TEMPLATE:
 |  |  |  |  |
