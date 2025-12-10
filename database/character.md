@@ -7812,6 +7812,7 @@ example:
 | radford | 拉德福特 | 碧蓝航线 女角色 |  |
 | yunohana bloom | 汤花盛开 | ![](https://i2.hdslb.com/bfs/new_dyn/debf1291a10bc710db0a15600ea06146510585998.png)<br>所属作品：`uma musume pretty derby`<br>原创赛马娘。 |  |
 | tyrant | 魔王（星塔旅人） | ![](https://i2.hdslb.com/bfs/new_dyn/e390bc3a1c9952e086ddb91c9b9780856089321.jpg)<br>所属作品：`stella sora`<br>玩家扮演的主人公。 |  |
+| shizuka nanahoshi | 七星静香 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7d/Nanahoshi-Unmasked-Anime-FullBody.png)<br>所属作品：`mushoku tensei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
