@@ -14474,6 +14474,7 @@ example:
 | kuro megane | 黒下めがね |  |  |
 | tamaya | たまや |  |  |
 | end- | えんど～ \| かかとぶし |  |  |
+| oishiko | おいしこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
