@@ -14472,6 +14472,7 @@ example:
 | wednesday | 水曜日 |  |  |
 | bingdak | BINGDAK |  | [pixiv](https://www.pixiv.net/users/106044657) |
 | kuro megane | 黒下めがね |  |  |
+| tamaya | たまや |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
