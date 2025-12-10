@@ -14476,6 +14476,7 @@ example:
 | end- | えんど～ \| かかとぶし |  |  |
 | oishiko | おいしこ |  |  |
 | dekamatsu | デカマツ |  |  |
+| syunkarow | しゅんか企画 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
