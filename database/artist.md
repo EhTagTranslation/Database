@@ -278,7 +278,7 @@ example:
 | hiraoka ryuichi | 平冈龙一 |  |  |
 | maguro teikoku | まぐろ帝国 |  |  |
 | pote | ぽて |  |  |
-| karakuchi choucream | 辛口しゅーくりーむ |  |  |
+| karakuchi choucream | 樱井マキ |  |  |
 | mafen | マフェン |  |  |
 | kuroda kuro | 黑田クロ |  |  |
 | ooooalikui | おおおおありくい |  |  |
