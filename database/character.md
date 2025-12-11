@@ -7815,6 +7815,7 @@ example:
 | shizuka nanahoshi | 七星静香 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7d/Nanahoshi-Unmasked-Anime-FullBody.png)<br>所属作品：`mushoku tensei` |  |
 | mornye | 莫宁 | ![](https://i2.hdslb.com/bfs/new_dyn/0413363efea9afe2f6f3bbf1207d682b448738328.png)<br>所属作品：`wuthering waves` |  |
 | the dahlia | 康士坦丝 \| 大丽花 | 「大丽花」康士坦丝是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>所属作品：`honkai star rail`<br>![](https://storage.moegirl.org.cn/moegirl/commons/2/25/崩坏星穹铁道_大丽花立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/康士坦丝) |
+| stay gold | 黄金旅程 | ![](https://static.wikia.nocookie.net/umamusume/images/2/26/Stay_Gold_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
