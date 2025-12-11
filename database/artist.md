@@ -14480,6 +14480,7 @@ example:
 | yuguyugu | ゆぐゆぐ |  |  |
 | kodama naoko | 儿玉直子 | ![作者社媒头像](https://p.sda1.dev/29/4d575068475d4d28d2092806a560d174/image.png)<br>百合漫画家<br>代表作：《捏造陷阱 -NTR-》 | [Twitter](https://x.com/powder705) [pixiv](https://www.pixiv.net/users/433101) |
 | rakka | らっか |  | [Twitter](https://x.com/rakka_windfall) [pixiv](https://www.pixiv.net/users/65749035) |
+| suika maron | スイカマロン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
