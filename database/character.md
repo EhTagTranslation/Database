@@ -7818,6 +7818,8 @@ example:
 | stay gold | 黄金旅程 | ![](https://static.wikia.nocookie.net/umamusume/images/2/26/Stay_Gold_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | youko imari | 伊万里曜子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/46/13/173048_crt_IEyVo.jpg)<br>所属作品：`ruri no houseki` |  |
 | tao yuifa | 桃·愈华 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/c/ca/Tao-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` |  |
+| ash blossom and joyous spring | 灰流丽 | 所属作品：游戏王 | [萌娘百科](https://zh.moegirl.org.cn/灰流丽) |
+| ghost ogre and snow rabbit | 幽鬼兔 | 所属作品：游戏王 | [萌娘百科](https://zh.moegirl.org.cn/幽鬼兔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
