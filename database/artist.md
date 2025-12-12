@@ -719,7 +719,7 @@ example:
 | tsukasawa | 塚泽 |  | [pixiv](https://www.pixiv.net/users/897293) |
 | yukiguni omaru | 雪國おまる |  |  |
 | asakura mitsuru | 朝仓满 | 朝倉満 |  |
-| hase tsubura | 长谷圆 |  |  |
+| hase tsubura | 长谷圆 | 長谷円 |  |
 | herohero tom | へろへろTom |  |  |
 | hoshino ryuichi | 星野龙一 |  |  |
 | inoue nanaki | 井上七树 |  |  |
