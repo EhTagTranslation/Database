@@ -14486,6 +14486,7 @@ example:
 | kobayasi kobako | 小林小箱 |  |  |
 | kitabane saiga | 朔羽さいが |  |  |
 | kagechousukashi | 影蝶透、 |  |  |
+| kanamori yunene | かなもりゆねね |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
