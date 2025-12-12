@@ -14503,6 +14503,7 @@ example:
 | sasami koto | 紗々見こと | 紗々見こと |  |
 | sakurazaki momoko | 桜咲ももこ |  |  |
 | moegi oji-san | 萌黄おじさん |  |  |
+| zutto mae kara darui. | ずっと前からだるい。 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
