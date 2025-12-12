@@ -14487,6 +14487,7 @@ example:
 | kitabane saiga | 朔羽さいが |  |  |
 | kagechousukashi | 影蝶透、 |  |  |
 | kanamori yunene | かなもりゆねね |  |  |
+| aako | あ～こ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
