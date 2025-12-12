@@ -7820,6 +7820,7 @@ example:
 | tao yuifa | 桃·愈华 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/c/ca/Tao-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` |  |
 | ash blossom and joyous spring | 灰流丽 | 所属作品：游戏王 | [萌娘百科](https://zh.moegirl.org.cn/灰流丽) |
 | ghost ogre and snow rabbit | 幽鬼兔 | 所属作品：游戏王 | [萌娘百科](https://zh.moegirl.org.cn/幽鬼兔) |
+| yuriko takagi | 高城百合子 | ![](https://static.wikia.nocookie.net/highschool-of-the-dead/images/6/6c/Takagi.Yuriko.full.307593.jpg)<br>所属作品：`highschool of the dead` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
