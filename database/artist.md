@@ -14502,6 +14502,7 @@ example:
 | yamase zenn | 山瀬ゼン | 山瀬ゼン |  |
 | sasami koto | 紗々見こと | 紗々見こと |  |
 | sakurazaki momoko | 桜咲ももこ |  |  |
+| moegi oji-san | 萌黄おじさん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
