@@ -14483,6 +14483,7 @@ example:
 | suika maron | スイカマロン |  |  |
 | sugurugi riko | 傑義リコ |  |  |
 | kinzoku koutaku | 金属光沢 |  |  |
+| kobayasi kobako | 小林小箱 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
