@@ -14490,6 +14490,7 @@ example:
 | aako | あ～こ |  |  |
 | ichigin | いちぎん |  |  |
 | d kaketsu | Dかけつ |  |  |
+| miita | みーた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
