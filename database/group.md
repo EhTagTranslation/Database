@@ -13513,6 +13513,7 @@ example:
 | hyoui lover | 憑依ラヴァー |  |  |
 | date roku | 伊達ろく |  |  |
 | magical kagechousukashi | マジカル影蝶透 |  |  |
+| nopperi usagi | のっぺりうさぎ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
