@@ -7823,6 +7823,7 @@ example:
 | yuriko takagi | 高城百合子 | ![](https://static.wikia.nocookie.net/highschool-of-the-dead/images/6/6c/Takagi.Yuriko.full.307593.jpg)<br>所属作品：`highschool of the dead` |  |
 | kaho koyanagi | 小柳香穗 | ![](https://www.watanare-anime.com/wordpress/wp-content/themes/watanare-anime_v3/assets/webp/common/character/img_character-main-kaho.webp)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta`<br>团体的吉祥物。芦谷高校的萌妹般存在。 |  |
 | marina kirarazaka | 云母坂真理奈 |  |  |
+| shizuka kuze | 久世静香 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
