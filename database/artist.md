@@ -14491,6 +14491,7 @@ example:
 | ichigin | いちぎん |  |  |
 | d kaketsu | Dかけつ |  |  |
 | miita | みーた |  |  |
+| takamori yu | 高守勇羽 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
