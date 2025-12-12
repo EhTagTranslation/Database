@@ -2275,7 +2275,7 @@ example:
 | ryokuchaism | 緑茶イズム | ![X](https://pbs.twimg.com/profile_images/1461906673212215296/BLLceckP_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/SQbridge) [pixiv](https://www.pixiv.net/users/9402246) |
 | shiden akira | しでん晶 |  |  |
 | soborogo | ソボロゴ |  |  |
-| syoukaki | 消火器 |  |  |
+| syoukaki | 消火器 |  | [pixiv](https://www.pixiv.net/users/24898) |
 | 1 equals 2 | 1=2 |  |  |
 | zouo-san | 憎恶产 |  |  |
 | machida hiraku | 町田ひらく |  |  |
