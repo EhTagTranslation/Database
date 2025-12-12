@@ -14496,6 +14496,7 @@ example:
 | satsuki souji | サツキソウジ |  |  |
 | sugara | スガラ |  |  |
 | asai makoto | 浅生マコト |  |  |
+| koji pom | コジpom |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
