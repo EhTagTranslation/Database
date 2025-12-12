@@ -1100,7 +1100,7 @@ example:
 | shiramayumi | 白真弓 |  |  |
 | chiro | CHIRO \| チろ | ようかい玉の輿<br>チよこれいと |  |
 | junny | JUNNY |  |  |
-| wakino keibun | 胁乃敬文 |  |  |
+| wakino keibun | 胁乃敬文 | 茶入敬文 |  |
 | suzuneco | Suzu猫。 |  |  |
 | utakata | 泡沫 |  |  |
 | yakou | 夜光 |  |  |
