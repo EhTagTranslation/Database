@@ -13510,6 +13510,7 @@ example:
 | team sinosabi | Team SINOSABI |  | [Twitter](https://x.com/sinosabi) [官方网站](https://sinosabi.net/) |
 | chikashitsu project | 地下室プロジェクト |  |  |
 | spanteikoku | すぱん帝国 |  |  |
+| hyoui lover | 憑依ラヴァー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
