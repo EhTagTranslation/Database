@@ -14488,6 +14488,7 @@ example:
 | kagechousukashi | 影蝶透、 |  |  |
 | kanamori yunene | かなもりゆねね |  |  |
 | aako | あ～こ |  |  |
+| ichigin | いちぎん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
