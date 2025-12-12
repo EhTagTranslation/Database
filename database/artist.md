@@ -14498,6 +14498,7 @@ example:
 | asai makoto | 浅生マコト |  |  |
 | koji pom | コジpom |  |  |
 | uno katsumi | 宇野かつみ |  |  |
+| amashiro mio | あましろ澪 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
