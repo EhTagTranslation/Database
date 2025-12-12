@@ -14489,6 +14489,7 @@ example:
 | kanamori yunene | かなもりゆねね |  |  |
 | aako | あ～こ |  |  |
 | ichigin | いちぎん |  |  |
+| d kaketsu | Dかけつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
