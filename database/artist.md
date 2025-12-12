@@ -11672,7 +11672,7 @@ example:
 | yoko juusuke | 横十輔 |  |  |
 | yoko mawatari | 馬渡ようこ |  |  |
 | yokohachi | よこはち |  |  |
-| yokosima | 横縞 |  |  |
+| yokosima | 縦縞キタ |  |  |
 | yokota mamoru | 横田守 |  |  |
 | yokoyama kouji | 横山コウジ |  |  |
 | yokoyama michiru | 横山ミチル |  |  |
