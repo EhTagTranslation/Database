@@ -1768,7 +1768,7 @@ example:
 | tanaka juice | 田中十酢 |  |  |
 | tom tamio | 都夢たみお |  |  |
 | tsukamoto miei | 塚本ミエイ |  |  |
-| unno hotaru | 海野萤 | 海野 螢（うんの ほたる）为日本的漫画家、同人作家。<br><br>出生于东京。男性。血液型A型。主要在成年向的商业漫画杂志发表作品。日文原名中的“萤” 以“螢”来表记而不是日文中常用的“蛍”。<br>从属于日本科幻作家俱乐部。<br>作品很多添加了科幻色彩，以清淡的笔触描绘的叙情的画面为特征。较多使用常见的科幻小说的梗。对漫画中的分镜很下功夫。在作品中登场的少女通常是`small breasts`，以及短发。<br>![图](https://pbs.twimg.com/profile_images/1056025042348326912/4IokMfxW_400x400.jpg)<br>**作者推特头像**<br><br>《はごろも姫 下巻》<br>![图](https://ehgt.org/ae/c1/aec144eb34d34ae67e4ac4ad0b73ea46a236fd1a-523560-1125-1600-jpg_l.jpg) | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/海野螢) (\*)<br>[X](https://x.com/unnohotaru) [pixiv](https://www.pixiv.net/users/668678) |
+| unno hotaru | 海野萤 | 海野 螢（うんの ほたる）为日本的漫画家、同人作家。<br><br>出生于东京。男性。血液型A型。主要在成年向的商业漫画杂志发表作品。日文原名中的“萤” 以“螢”来表记而不是日文中常用的“蛍”。<br>从属于日本科幻作家俱乐部。<br>作品很多添加了科幻色彩，以清淡的笔触描绘的叙情的画面为特征。较多使用常见的科幻小说的梗。对漫画中的分镜很下功夫。在作品中登场的少女通常是`small breasts`，以及短发。<br>![图](https://pbs.twimg.com/profile_images/1056025042348326912/4IokMfxW_400x400.jpg)<br>**作者推特头像**<br><br>《はごろも姫 下巻》<br>![图](https://ehgt.org/ae/c1/aec144eb34d34ae67e4ac4ad0b73ea46a236fd1a-523560-1125-1600-jpg_l.jpg)<br><br>海野螢 | [维基百科🇯🇵](https://ja.wikipedia.org/wiki/海野螢) (\*)<br>[X](https://x.com/unnohotaru) [pixiv](https://www.pixiv.net/users/668678) |
 | watanabe wataru | わたなべわたる |  |  |
 | ikegami akane | 池上茜 |  |  |
 | gujira | ぐじら | ぐじら是日本成人向漫画家，同人志创作者。<br>作品多为`shotacon`或`gyaru`<br>![图](# "https://ehgt.org/42/50/4250fd7d3978c7d6a76b00565f25b44e21c56c99-879573-1085-1500-jpg_l.jpg")<br>《ギャルとかビッチとか色々》 | [X](https://x.com/gujira4) [pixiv](https://www.pixiv.net/users/215082) |
