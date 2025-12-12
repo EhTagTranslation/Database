@@ -14485,6 +14485,7 @@ example:
 | kinzoku koutaku | 金属光沢 |  |  |
 | kobayasi kobako | 小林小箱 |  |  |
 | kitabane saiga | 朔羽さいが |  |  |
+| kagechousukashi | 影蝶透、 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
