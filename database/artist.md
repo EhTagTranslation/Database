@@ -14500,6 +14500,7 @@ example:
 | uno katsumi | 宇野かつみ |  |  |
 | amashiro mio | あましろ澪 |  |  |
 | yamase zenn | 山瀬ゼン | 山瀬ゼン |  |
+| sasami koto | 紗々見こと | 紗々見こと |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
