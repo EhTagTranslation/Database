@@ -14493,6 +14493,7 @@ example:
 | miita | みーた |  |  |
 | takamori yu | 高守勇羽 |  |  |
 | alpha beta | 有葉米太 |  |  |
+| satsuki souji | サツキソウジ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
