@@ -13511,6 +13511,7 @@ example:
 | chikashitsu project | 地下室プロジェクト |  |  |
 | spanteikoku | すぱん帝国 |  |  |
 | hyoui lover | 憑依ラヴァー |  |  |
+| date roku | 伊達ろく |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
