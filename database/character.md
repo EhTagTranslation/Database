@@ -7825,6 +7825,7 @@ example:
 | marina kirarazaka | 云母坂真理奈 |  |  |
 | shizuka kuze | 久世静香 |  |  |
 | takopii | 章鱼哔 |  |  |
+| rudo surebrec | 路德 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
