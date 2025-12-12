@@ -14495,6 +14495,7 @@ example:
 | alpha beta | 有葉米太 |  |  |
 | satsuki souji | サツキソウジ |  |  |
 | sugara | スガラ |  |  |
+| asai makoto | 浅生マコト |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
