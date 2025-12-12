@@ -14482,6 +14482,7 @@ example:
 | rakka | らっか |  | [Twitter](https://x.com/rakka_windfall) [pixiv](https://www.pixiv.net/users/65749035) |
 | suika maron | スイカマロン |  |  |
 | sugurugi riko | 傑義リコ |  |  |
+| kinzoku koutaku | 金属光沢 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
