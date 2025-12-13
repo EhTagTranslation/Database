@@ -13514,6 +13514,7 @@ example:
 | date roku | 伊達ろく |  |  |
 | magical kagechousukashi | マジカル影蝶透 |  |  |
 | nopperi usagi | のっぺりうさぎ |  |  |
+| sei no syokunin | せいの職人 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
