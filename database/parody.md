@@ -1783,7 +1783,7 @@ example:
 | baldr force | BALDR FORCE |  | [维基百科](https://zh.wikipedia.org/wiki/BALDR%20FORCE) |
 | ballroom e youkoso | 舞动青春 |  | [维基百科](https://zh.wikipedia.org/wiki/舞動青春%20%28漫畫%29) |
 | band yarouze | 来组乐队吧! |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/バンドやろうぜ!) |
-| banished from the heros party i decided to live a quiet life in the countryside | 因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/48/在边境悠闲地度日1.JPG)<br>《因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生》（日语：真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました）是由ざっぽん创作、やすも插画的轻小说，并有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生) |
+| banished from the heros party i decided to live a quiet life in the countryside | 我被逐出队伍后过上慢生活 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/48/在边境悠闲地度日1.JPG)<br>《因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生》（日语：真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました）是由ざっぽん创作、やすも插画的轻小说，并有漫画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生) |
 | banjo-kazooie | 班卓熊大冒险 |  | [维基百科](https://zh.wikipedia.org/wiki/班卓熊大冒险) |
 | banner of the stars | 星界的战旗 |  | [维基百科](https://zh.wikipedia.org/wiki/星界的戰旗) |
 | baribari densetsu | 极速狂飙 | バリバリ伝説（極速狂飆 港譯：疾風传说）是日本漫画家しげの 秀一所創作的機車競速漫画 | [维基百科（日语）](https://ja.wikipedia.org/wiki/バリバリ伝説) |
