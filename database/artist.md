@@ -2038,7 +2038,7 @@ example:
 | azarashi | アザラシ |  |  |
 | syamonabe | シャモナベ |  | [pixiv](https://www.pixiv.net/users/5928132) |
 | tyagama | 茶釜 |  |  |
-| tkp | TKP |  |  |
+| tkp | TKP |  | [pixiv](https://www.pixiv.net/users/134671) |
 | yakumo ginjirou | 八云银次郎 |  |  |
 | namamo nanase | なまもななせ |  |  |
 | pyon-kti | ぴょん吉 |  | [X](https://x.com/pyon_Kti) [pixiv](https://www.pixiv.net/users/197076) |
