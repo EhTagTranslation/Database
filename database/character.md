@@ -7827,6 +7827,7 @@ example:
 | takopii | 章鱼哔 |  |  |
 | rudo surebrec | 路德 |  |  |
 | ruti ragnason | 露缇·拉格纳森 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/8/87/Ruty.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>拥有人类最强的加护“勇者”，雷德的妹妹。 |  |
+| rit | 莉特 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/f/f7/Rit.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>全名莉兹雷特·奥弗·洛加维亚<br>洛加维亚公国的公主。以前曾和雷德他们一起冒险过。发生了许多事，最后主动找到雷德的店和他一起生活。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
