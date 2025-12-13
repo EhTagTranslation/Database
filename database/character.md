@@ -7829,6 +7829,7 @@ example:
 | ruti ragnason | 露缇·拉格纳森 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/8/87/Ruty.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>拥有人类最强的加护“勇者”，雷德的妹妹。 |  |
 | rit | 莉特 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/f/f7/Rit.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>全名莉兹雷特·奥弗·洛加维亚<br>洛加维亚公国的公主。以前曾和雷德他们一起冒险过。发生了许多事，最后主动找到雷德的店和他一起生活。 |  |
 | yarandrala | 亚兰朵菈菈 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/5/50/Yarandrala_2.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>雷德的战友兼好友的高等精灵。 |  |
+| tisse garland | 蒂西 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/e/e7/Tisse2.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>隶属于刺客公会，根据阿雷斯的委托，以和被放逐的吉迪恩交换的形式加入了勇者队伍。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
