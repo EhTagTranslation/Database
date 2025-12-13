@@ -14504,6 +14504,7 @@ example:
 | sakurazaki momoko | 桜咲ももこ |  |  |
 | moegi oji-san | 萌黄おじさん |  |  |
 | zutto mae kara darui. | ずっと前からだるい。 |  |  |
+| kamanbeer | かまんべーる |  | [pixiv](https://www.pixiv.net/users/86830632) [X](https://x.com/kamanbearu) |
 
 <!--TEMPLATE:
 |  |  |  |  |
