@@ -13517,6 +13517,7 @@ example:
 | sei no syokunin | せいの職人 |  |  |
 | komugibatake | こむぎばたけ |  |  |
 | feiren shenghuo | 廢人生活 |  |  |
+| sebire | せびれ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
