@@ -14511,6 +14511,7 @@ example:
 | shuumatsu | 週末 |  |  |
 | hashira14 | Hashira十四 |  |  |
 | ojitama | おじタマ |  |  |
+| chanja kojiki | チャンジャ乞食 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
