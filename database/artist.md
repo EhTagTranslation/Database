@@ -14508,6 +14508,7 @@ example:
 | laiyi xiaolei | 萊伊小雷 |  |  |
 | hizuki higure | 緋月ひぐれ |  |  |
 | superpig | SuperPig |  |  |
+| shuumatsu | 週末 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
