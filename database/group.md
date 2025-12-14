@@ -13518,6 +13518,7 @@ example:
 | komugibatake | こむぎばたけ |  |  |
 | feiren shenghuo | 廢人生活 |  |  |
 | sebire | せびれ |  |  |
+| getsumatsu | 月末 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
