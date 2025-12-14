@@ -14509,6 +14509,7 @@ example:
 | hizuki higure | 緋月ひぐれ |  |  |
 | superpig | SuperPig |  |  |
 | shuumatsu | 週末 |  |  |
+| hashira14 | Hashira十四 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
