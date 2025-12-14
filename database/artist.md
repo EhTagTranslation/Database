@@ -14510,6 +14510,7 @@ example:
 | superpig | SuperPig |  |  |
 | shuumatsu | 週末 |  |  |
 | hashira14 | Hashira十四 |  |  |
+| ojitama | おじタマ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
