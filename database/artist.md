@@ -14507,6 +14507,7 @@ example:
 | kamanbeer | かまんべーる |  | [pixiv](https://www.pixiv.net/users/86830632) [X](https://x.com/kamanbearu) |
 | laiyi xiaolei | 萊伊小雷 |  |  |
 | hizuki higure | 緋月ひぐれ |  |  |
+| superpig | SuperPig |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
