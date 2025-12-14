@@ -12513,7 +12513,7 @@ example:
 | nukeru | ヌケル |  | [pixiv](https://www.pixiv.net/users/58172120) [X](https://x.com/nomorenukeru) |
 | musui ethanol | 無水エタノール |  | [pixiv](https://www.pixiv.net/users/41280283) [X](https://x.com/GorillArtist) |
 | mori sinrisk | 森シンリスク |  | [pixiv](https://www.pixiv.net/users/3433) [X](https://x.com/sinrisk) |
-| moegi | 萌黄おじさん |  |  |
+| moegi | 萌葱 |  |  |
 | kikomuhito | 着込む人 |  |  |
 | elegant | えれがんと |  | [pixiv](https://www.pixiv.net/users/16333896) [X](https://x.com/Elegant1266) |
 | tonyman plus | トニーマン+ |  | [pixiv](https://www.pixiv.net/users/1262834) [X](https://x.com/Tonyman_Sister) [HP](http://deadassembly.blog133.fc2.com/) |
