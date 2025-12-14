@@ -13516,6 +13516,7 @@ example:
 | nopperi usagi | のっぺりうさぎ |  |  |
 | sei no syokunin | せいの職人 |  |  |
 | komugibatake | こむぎばたけ |  |  |
+| feiren shenghuo | 廢人生活 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
