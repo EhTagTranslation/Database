@@ -7835,6 +7835,7 @@ example:
 | laqeramaline | 菈玛莲 |  |  |
 | cure wink | 苍风奈奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/cd/Cure_wink.png)<br>![](https://storage.moegirl.org.cn/moegirl/commons/0/0c/苍风奈奈_常服.png)<br>日语：蒼風なな (あおかぜ なな)<br>所属作品:`kimi to idol precure` | [萌娘百科](https://zh.moegirl.org.cn/苍风奈奈) |
 | cure idol | 咲良歌 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8e/Cure_Idol.png)<br>日语：咲良うた（さくら うた）<br>所属作品:`kimi to idol precure` | [萌娘百科](https://zh.moegirl.org.cn/咲良歌) |
+| cure flamingo | 泷泽飞鸟（火烈鸟天使） | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/AsukaFlamingo.png/revision/latest?cb=20210225123747)<br>日语：滝沢あすか（たきざわ あすか）<br>所属作品:`p:tropical-rouge precure` | [萌娘百科](https://zh.moegirl.org.cn/泷泽飞鸟) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
