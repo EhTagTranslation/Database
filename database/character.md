@@ -2196,7 +2196,7 @@ example:
 | cure magical | 魔法天使 |  |  |
 | cure felice | 幸福天使 |  |  |
 | cure whip | 奶油天使 |  |  |
-| cure custard | 奶黄天使 |  |  |
+| cure custard | 有栖川向阳 (奶黄天使) | ![](https://moegirl.uk/images/e/eb/ArisugawaHimari.jpg)<br>日语：有栖川ひまり（ありすがわ ひまり）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/有栖川向阳](https://moegirl.uk/有栖川向阳) |
 | cure gelato | 冰淇淋天使 |  |  |
 | cure macaron | 马卡龙天使 |  |  |
 | cure chocolat | 剑城晶 (巧克力天使) | ![](https://moegirl.uk/images/c/ca/KenjoAkira.jpeg)<br>日语：剣城あきら（けんじょう あきら）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/剑城晶](https://moegirl.uk/剑城晶) |
