@@ -14514,6 +14514,7 @@ example:
 | chanja kojiki | チャンジャ乞食 |  |  |
 | sakazaki freddie | 坂崎ふれでぃ |  |  |
 | simesu | しめす |  |  |
+| souda mikan | 左右田柑 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
