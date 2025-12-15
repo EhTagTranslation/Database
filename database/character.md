@@ -7832,6 +7832,7 @@ example:
 | tisse garland | 蒂西 | ![](https://static.wikia.nocookie.net/banished-from-the-heros-party/images/e/e7/Tisse2.png)<br>所属作品：`banished from the heros party i decided to live a quiet life in the countryside`<br>隶属于刺客公会，根据阿雷斯的委托，以和被放逐的吉迪恩交换的形式加入了勇者队伍。 |  |
 | yifa | 伊姂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9b/66/117204_crt_72D15.jpg?r=1664757950)<br>所属作品：`saikyou onmyouji no isekai tenseiki` |  |
 | logos | 逻各斯 |  |  |
+| laqeramaline | 菈玛莲 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
