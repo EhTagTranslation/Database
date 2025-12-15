@@ -2183,7 +2183,7 @@ example:
 | cure ace | 王牌天使 |  |  |
 | regina | 蕾吉娜 |  |  |
 | ryoko hishikawa | 菱川亮子 |  |  |
-| cure lovely | 可爱天使 |  |  |
+| cure lovely | 爱乃惠 (可爱天使) | ![](https://moegirl.uk/images/6/6d/Cure_lovely是无敌的.png)<br>日语：愛乃めぐみ（あいの めぐみ）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/爱乃惠](https://moegirl.uk/爱乃惠) |
 | cure princess | 公主天使 |  |  |
 | cure honey | 蜂蜜天使 |  |  |
 | cure fortune | 冰川伊绪奈 (命运天使) | ![](https://moegirl.uk/images/8/8f/Bingchuanyxn.jpg)<br>日语：氷川いおな（ひかわ いおな）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/冰川伊绪奈](https://moegirl.uk/冰川伊绪奈) |
