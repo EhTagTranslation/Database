@@ -14517,6 +14517,7 @@ example:
 | souda mikan | 左右田柑 |  |  |
 | nekota hajime | 猫田始愛 | 猫田始愛 |  |
 | utsugi | 空木 |  |  |
+| akg | AKG |  | [pixiv](https://www.pixiv.net/users/1277013) |
 
 <!--TEMPLATE:
 |  |  |  |  |
