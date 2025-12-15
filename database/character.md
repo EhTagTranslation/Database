@@ -2132,7 +2132,7 @@ example:
 | cure aqua | 水天使 |  |  |
 | milky rose | 妙奇露丝 |  |  |
 | cure peach | 桃天使 |  | [萌娘百科](https://zh.moegirl.org.cn/桃园爱) |
-| cure berry | 莓天使 |  |  |
+| cure berry | 苍乃美希 (莓天使) | ![](https://moegirl.uk/images/a/aa/Cure_berry.jpg)<br>日语: 蒼乃美希（あおの みき）<br>所属作品:`fresh precure` | [https://moegirl.uk/苍乃美希](https://moegirl.uk/苍乃美希) |
 | cure pine | 凤梨天使 |  |  |
 | eas | 伊丝 |  |  |
 | cure passion | 百香果天使 |  |  |
