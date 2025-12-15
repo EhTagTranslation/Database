@@ -14518,6 +14518,7 @@ example:
 | nekota hajime | 猫田始愛 | 猫田始愛 |  |
 | utsugi | 空木 |  |  |
 | akg | AKG |  | [pixiv](https://www.pixiv.net/users/1277013) |
+| hyouuma | Hyouuma | 哈哈，屁↗眼↘派↗对↘ | [X](https://x.com/Hyouuma)<br>[FANBOX](https://www.fanbox.cc/@genshin)<br>[pixiv](https://www.pixiv.net/users/20235288) |
 
 <!--TEMPLATE:
 |  |  |  |  |
