@@ -10602,7 +10602,7 @@ example:
 | takaya yoshiyuki | 鷹屋ヨシユキ |  |  |
 | takayama chihiro | 高山千尋 |  |  |
 | takayamanon | タカヤマノン |  |  |
-| takayuki hiyori | Evo.R.B |  |  |
+| takayuki hiyori | 宇行日和 | 宇行日和 |  |
 | take takeshi | 武猛 |  |  |
 | take toshiaki | 武俊彰 |  |  |
 | takea saki | たけあ崎 |  |  |
