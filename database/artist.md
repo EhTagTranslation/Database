@@ -1622,7 +1622,7 @@ example:
 | raymon | RAYMON |  |  |
 | shiroie mika | 白家ミカ |  |  |
 | tes-mel | tes\_mel |  |  |
-| toba yuga | <p>跳马游鹿</p> | 跳馬遊鹿 |  |
+| toba yuga | 跳马游鹿 | 跳馬遊鹿 | [pixiv](https://www.pixiv.net/users/1254236) |
 | yoshida tobio | 吉田鸢牡 |  |  |
 | zero no mono | ゼロの者 |  |  |
 | hige masamune | ひげ政宗 |  |  |
