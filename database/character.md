@@ -7839,6 +7839,7 @@ example:
 | cure la mer | 萝拉·拉·梅尔 | ![](https://moegirl.uk/images/1/10/P_05_style3_pc.png)<br>萝拉·阿波罗多洛斯·海基努斯·拉·梅尔（日语：ローラ・アポロドーロス・ヒュギーヌス・ラメール），简称萝拉·拉梅尔<br>所属作品:`tropical-rouge precure` | [https://moegirl.uk/萝拉·阿波罗多洛斯·海基努斯·拉·梅尔](https://moegirl.uk/萝拉·阿波罗多洛斯·海基努斯·拉·梅尔) |
 | cure earth | 风铃艾苏米 (大地天使) | ![](https://moegirl.uk/images/3/31/风铃明日美.jpg)<br>日语：風鈴アスミ（ふうりん アスミ）<br>所属作品:`healin good precure` | [https://moegirl.uk/风铃艾苏米](https://moegirl.uk/风铃艾苏米) |
 | cure finale | 菓彩天音 (终曲天使) | ![](https://moegirl.uk/images/c/ce/終極天使官方.png)<br>日语：菓彩あまね（かさい あまね）<br>所属作品:`delicious party precure` | [https://moegirl.uk/菓彩天音](https://moegirl.uk/菓彩天音) |
+| cure fontaine | 泽泉知优 (泉源天使) | ![](https://moegirl.uk/images/2/20/P_02_style1_pc.png)<br>日语：沢泉ちゆ（さわいずみ ちゆ）<br>所属作品:`healin good precure` | [https://moegirl.uk/泽泉知优](https://moegirl.uk/泽泉知优) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
