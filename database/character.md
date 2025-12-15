@@ -2186,7 +2186,7 @@ example:
 | cure lovely | 可爱天使 |  |  |
 | cure princess | 公主天使 |  |  |
 | cure honey | 蜂蜜天使 |  |  |
-| cure fortune | 命运天使 |  |  |
+| cure fortune | 冰川伊绪奈 (命运天使) | ![](https://moegirl.uk/images/8/8f/Bingchuanyxn.jpg)<br>日语：氷川いおな（ひかわ いおな）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/冰川伊绪奈](https://moegirl.uk/冰川伊绪奈) |
 | maria hikawa | 冰川麻理亚 |  |  |
 | cure flora | 春野遥 (花神天使) | ![](https://moegirl.uk/images/6/63/HARUNO_HARUKA.jpg)<br>日语：春野はるか（はるの はるか）<br>所属作品:`go princess precure` | [https://moegirl.uk/春野遥](https://moegirl.uk/春野遥) |
 | cure mermaid | 人鱼天使 |  |  |
