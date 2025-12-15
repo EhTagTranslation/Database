@@ -7847,6 +7847,7 @@ example:
 | cure sparkle | 平光日向 (闪耀天使) | ![](https://moegirl.uk/images/9/98/P_03_style1_pc.png)<br>日语：平光ひなた（ひらみつ ひなた）<br>所属作品:`healin good precure` | [https://moegirl.uk/平光日向](https://moegirl.uk/平光日向) |
 | cure star | 星奈光 (星空天使) | ![](https://moegirl.uk/images/7/75/P_curestar_style1_pc.png)<br>日语：星奈ひかる（ほしな ひかる）<br>所属作品：`star twinkle precure` | [https://moegirl.uk/星奈光](https://moegirl.uk/星奈光) |
 | kyryll chudomirovich flins | 克里洛·楚德米洛维奇·菲林斯 | 所属作品:`genshin impact` |  |
+| cure coral | 凉村珊瑚 (珊瑚天使) | ![](https://moegirl.uk/images/0/0b/凉村珊瑚.png)<br>日语：涼村さんご（すずむら さんご）<br>所属作品:`tropical-rouge precure` | [https://moegirl.uk/凉村珊瑚](https://moegirl.uk/凉村珊瑚) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
