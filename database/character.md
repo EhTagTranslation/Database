@@ -2122,7 +2122,7 @@ example:
 | cure white | 白天使 |  |  |
 | shiny luminous | 夏妮露米纳丝 |  |  |
 | cure bloom | 日向咲 (花天使) | ![](https://moegirl.uk/images/f/fd/Cure_Bloom.png)<br>日语：ひゅうが さき<br>所属作品:`futari wa precure splash star` | [https://moegirl.uk/日向咲](https://moegirl.uk/日向咲) |
-| cure egret | 舞天使 |  |  |
+| cure egret | 美翔舞 (舞天使) | ![](https://moegirl.uk/images/b/bc/Cure_Egret.png)<br>日语：みしょう まい<br>所属作品:`futari wa precure splash star` | [https://moegirl.uk/美翔舞](https://moegirl.uk/美翔舞) |
 | michiru kiryuu | 雾生满 |  |  |
 | kaoru kiryuu | 雾生薰 |  |  |
 | cure dream | 梦天使 |  |  |
