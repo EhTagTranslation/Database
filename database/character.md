@@ -7846,6 +7846,7 @@ example:
 | cure soleil | 天宫爱莲娜 | ![](https://static.wikia.nocookie.net/prettycure/images/5/55/Amamiya_Elena_Soleil_profile.png/revision/latest?cb=20220128082130)<br>日语：天宫えれな<br>所属作品:`star twinkle precure` | [Fandom](https://prettycure.fandom.com/zh/wiki/天宫爱莲娜) |
 | cure sparkle | 平光日向 (闪耀天使) | ![](https://moegirl.uk/images/9/98/P_03_style1_pc.png)<br>日语：平光ひなた（ひらみつ ひなた）<br>所属作品:`healin good precure` | [https://moegirl.uk/平光日向](https://moegirl.uk/平光日向) |
 | cure star | 星奈光 (星空天使) | ![](https://moegirl.uk/images/7/75/P_curestar_style1_pc.png)<br>日语：星奈ひかる（ほしな ひかる）<br>所属作品：`star twinkle precure` | [https://moegirl.uk/星奈光](https://moegirl.uk/星奈光) |
+| kyryll chudomirovich flins | 克里洛·楚德米洛维奇·菲林斯 | 所属作品:`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
