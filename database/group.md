@@ -4616,7 +4616,7 @@ example:
 | eve-sya | EVE-舎 |  |  |
 | eves garden box | イヴの箱庭 |  |  |
 | evidence. | Evidence. |  |  |
-| evo.r.b | 宇行日和 |  |  |
+| evo.r.b | evo.r.b |  |  |
 | evoll | evoLL |  |  |
 | evolution | Evolution |  |  |
 | evork festa | Evork Festa |  |  |
