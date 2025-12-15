@@ -14515,6 +14515,7 @@ example:
 | sakazaki freddie | 坂崎ふれでぃ |  |  |
 | simesu | しめす |  |  |
 | souda mikan | 左右田柑 |  |  |
+| nekota hajime | 猫田始愛 | 猫田始愛 |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
