@@ -7833,6 +7833,7 @@ example:
 | yifa | 伊姂 | ![](https://lain.bgm.tv/r/400/pic/crt/l/9b/66/117204_crt_72D15.jpg?r=1664757950)<br>所属作品：`saikyou onmyouji no isekai tenseiki` |  |
 | logos | 逻各斯 |  |  |
 | laqeramaline | 菈玛莲 |  |  |
+| cure wink | 苍风奈奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/cd/Cure_wink.png)<br>![](https://storage.moegirl.org.cn/moegirl/commons/0/0c/苍风奈奈_常服.png)<br>日语：蒼風なな (あおかぜ なな)<br>所属作品:`kimi to idol precure` | [萌娘百科](https://zh.moegirl.org.cn/苍风奈奈) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
