@@ -2143,7 +2143,7 @@ example:
 | cure flower | 花朵天使 |  |  |
 | cure ange | 圣洁天使 |  |  |
 | cure amour | 露露·阿穆尔 (爱神天使) | ![](https://moegirl.uk/images/5/5a/Cure_Amour.png)<br>日语：ルールー・アムール<br>所属作品:`hugtto precure` | [https://moegirl.uk/露露·阿穆尔](https://moegirl.uk/露露·阿穆尔) |
-| cure etoile | 星辰天使 |  |  |
+| cure etoile | 辉木誉 (星辰天使) | ![](https://moegirl.uk/images/a/aa/Cure_etoile.jpg)<br><br>日语: 輝木ほまれ（かがやき ほまれ）<br>所属作品：`hugtto precure` | [https://moegirl.uk/辉木誉](https://moegirl.uk/辉木誉) |
 | cure macherie | 挚爱天使 |  |  |
 | kotori nono | 野乃小鸟 |  |  |
 | cure yell | 喝采天使 |  |  |
