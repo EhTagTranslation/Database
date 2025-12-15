@@ -14513,6 +14513,7 @@ example:
 | ojitama | おじタマ |  |  |
 | chanja kojiki | チャンジャ乞食 |  |  |
 | sakazaki freddie | 坂崎ふれでぃ |  |  |
+| simesu | しめす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
