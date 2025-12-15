@@ -7834,6 +7834,7 @@ example:
 | logos | 逻各斯 |  |  |
 | laqeramaline | 菈玛莲 |  |  |
 | cure wink | 苍风奈奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/cd/Cure_wink.png)<br>![](https://storage.moegirl.org.cn/moegirl/commons/0/0c/苍风奈奈_常服.png)<br>日语：蒼風なな (あおかぜ なな)<br>所属作品:`kimi to idol precure` | [萌娘百科](https://zh.moegirl.org.cn/苍风奈奈) |
+| cure idol | 咲良歌 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8e/Cure_Idol.png)<br>日语：咲良うた（さくら うた）<br>所属作品:`kimi to idol precure` | [萌娘百科](https://zh.moegirl.org.cn/咲良歌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
