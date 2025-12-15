@@ -2177,7 +2177,7 @@ example:
 | bad end march | 悲剧旋风天使 |  |  |
 | bad end beauty | 悲剧美丽天使 |  |  |
 | cure heart | 爱心天使 |  |  |
-| cure diamond | 钻石天使 |  |  |
+| cure diamond | 菱川六花 (钻石天使) | ![](https://moegirl.uk/images/f/f2/Cure_diamond.jpg)<br>日语：ひしかわ りっか<br>所属作品:`dokidoki precure` | [https://moegirl.uk/菱川六花](https://moegirl.uk/菱川六花) |
 | cure rosetta | 幸运草天使 |  |  |
 | cure sword | 圣剑天使 |  |  |
 | cure ace | 王牌天使 |  |  |
