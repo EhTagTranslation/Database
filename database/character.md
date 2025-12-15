@@ -2199,7 +2199,7 @@ example:
 | cure custard | 奶黄天使 |  |  |
 | cure gelato | 冰淇淋天使 |  |  |
 | cure macaron | 马卡龙天使 |  |  |
-| cure chocolat | 巧克力天使 |  |  |
+| cure chocolat | 剑城晶 (巧克力天使) | ![](https://moegirl.uk/images/c/ca/KenjoAkira.jpeg)<br>日语：剣城あきら（けんじょう あきら）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/剑城晶](https://moegirl.uk/剑城晶) |
 | cure parfait | 芭菲天使 |  |  |
 |  | ▼ 草莓棉花糖 |  |  |
 | nobue itou | 伊藤伸惠 |  |  |
