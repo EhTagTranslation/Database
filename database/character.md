@@ -2134,7 +2134,7 @@ example:
 | cure peach | 桃天使 |  | [萌娘百科](https://zh.moegirl.org.cn/桃园爱) |
 | cure berry | 苍乃美希 (莓天使) | ![](https://moegirl.uk/images/a/aa/Cure_berry.jpg)<br>日语: 蒼乃美希（あおの みき）<br>所属作品:`fresh precure` | [https://moegirl.uk/苍乃美希](https://moegirl.uk/苍乃美希) |
 | cure pine | 凤梨天使 |  |  |
-| eas | 伊丝 |  |  |
+| eas | 伊斯 | ![](https://i.pixiv.cat/img-original/img/2009/06/29/22/18/16/4932879_p0.jpg)<br>所属作品:`fresh precure`<br><br>是来自管理国家Labyrinth的女干部，后洗白并加入光之美少女一方，自己亦成为了Cure Passion（百香果天使）(洗白后对应标签:`c:cure passion`) | [https://moegirl.uk/东刹那](https://moegirl.uk/东刹那) |
 | cure passion | 东刹那 (百香果天使) | ![](https://static.wikia.nocookie.net/oricure/images/b/b3/SetsunaPassion.png/revision/latest?cb=20230214080725)<br>日语：東せつな（ひがし せつな）<br>所属作品:`fresh precure` | [https://moegirl.uk/东刹那](https://moegirl.uk/东刹那) |
 | cure blossom | 花蕾天使 |  |  |
 | cure marine | 海洋天使 |  |  |
