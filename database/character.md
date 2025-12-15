@@ -7841,6 +7841,7 @@ example:
 | cure finale | 菓彩天音 (终曲天使) | ![](https://moegirl.uk/images/c/ce/終極天使官方.png)<br>日语：菓彩あまね（かさい あまね）<br>所属作品:`delicious party precure` | [https://moegirl.uk/菓彩天音](https://moegirl.uk/菓彩天音) |
 | cure fontaine | 泽泉知优 (泉源天使) | ![](https://moegirl.uk/images/2/20/P_02_style1_pc.png)<br>日语：沢泉ちゆ（さわいずみ ちゆ）<br>所属作品:`healin good precure` | [https://moegirl.uk/泽泉知优](https://moegirl.uk/泽泉知优) |
 | cure grace | 花寺和佳 (恩典天使) | ![](https://moegirl.uk/images/0/0f/P_01_style1_pc.png)<br>日语：花寺のどか（はなでら のどか）<br>所属作品：`healin good precure` | [https://moegirl.uk/花寺和佳](https://moegirl.uk/花寺和佳) |
+| cure majesty | 艾尔公主 | 日语：プリンセス・エル<br>变身前是个婴儿<br>所属作品：`hirogaru sky precure` | [https://moegirl.uk/艾尔%28光之美少女%29](https://moegirl.uk/艾尔%28光之美少女%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
