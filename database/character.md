@@ -2200,7 +2200,7 @@ example:
 | cure gelato | 立神葵 (冰淇淋天使) | ![](https://moegirl.uk/images/f/f6/TategamiAoi.jpeg)<br>日语：立神あおい（たてがみ あおい）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/立神葵](https://moegirl.uk/立神葵) |
 | cure macaron | 琴爪缘 (马卡龙天使) | ![](https://moegirl.uk/images/d/d5/KotozumeYukari.jpeg)<br>日语：琴爪ゆかり（ことづめ ゆかり）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/琴爪缘](https://moegirl.uk/琴爪缘) |
 | cure chocolat | 剑城晶 (巧克力天使) | ![](https://moegirl.uk/images/c/ca/KenjoAkira.jpeg)<br>日语：剣城あきら（けんじょう あきら）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/剑城晶](https://moegirl.uk/剑城晶) |
-| cure parfait | 芭菲天使 |  |  |
+| cure parfait | 绮罗星夏尔 (芭菲天使) | ![](https://moegirl.uk/images/a/a9/Kirarin.jpeg)<br>日语：キラ星 シエル<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/绮罗星夏尔](https://moegirl.uk/绮罗星夏尔) |
 |  | ▼ 草莓棉花糖 |  |  |
 | nobue itou | 伊藤伸惠 |  |  |
 | chika itou | 伊藤千佳 |  |  |
