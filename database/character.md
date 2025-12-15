@@ -7842,6 +7842,7 @@ example:
 | cure fontaine | 泽泉知优 (泉源天使) | ![](https://moegirl.uk/images/2/20/P_02_style1_pc.png)<br>日语：沢泉ちゆ（さわいずみ ちゆ）<br>所属作品:`healin good precure` | [https://moegirl.uk/泽泉知优](https://moegirl.uk/泽泉知优) |
 | cure grace | 花寺和佳 (恩典天使) | ![](https://moegirl.uk/images/0/0f/P_01_style1_pc.png)<br>日语：花寺のどか（はなでら のどか）<br>所属作品：`healin good precure` | [https://moegirl.uk/花寺和佳](https://moegirl.uk/花寺和佳) |
 | cure majesty | 艾尔公主 | 日语：プリンセス・エル<br>变身前是个婴儿<br>所属作品：`hirogaru sky precure` | [https://moegirl.uk/艾尔%28光之美少女%29](https://moegirl.uk/艾尔%28光之美少女%29) |
+| cure papaya | 一之濑实 (木瓜天使) | ![](https://moegirl.uk/images/e/ea/一之濑实.png)<br>日语：一之瀬みのり（いちのせ みのり）<br>所属作品:`tropical-rouge precure` | [百度百科](https://baike.baidu.com/item/一之濑实/55600798)<br>[https://moegirl.uk/一之濑实](https://moegirl.uk/一之濑实) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
