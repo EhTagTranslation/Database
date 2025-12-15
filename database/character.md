@@ -2193,7 +2193,7 @@ example:
 | cure twinkle | 闪亮天使 |  |  |
 | cure scarlet | 赤红天使 |  |  |
 | cure miracle | 奇迹天使 |  |  |
-| cure magical | 魔法天使 |  |  |
+| cure magical | 十六夜理子 (魔法天使) | ![](https://moegirl.uk/images/e/ec/Cure_Magical.png)<br>日语：十六夜リコ（いざよい リコ）<br>所属作品：`maho girls precure` | [https://moegirl.uk/十六夜理子](https://moegirl.uk/十六夜理子) |
 | cure felice | 幸福天使 |  |  |
 | cure whip | 奶油天使 |  |  |
 | cure custard | 有栖川向阳 (奶黄天使) | ![](https://moegirl.uk/images/e/eb/ArisugawaHimari.jpg)<br>日语：有栖川ひまり（ありすがわ ひまり）<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/有栖川向阳](https://moegirl.uk/有栖川向阳) |
