@@ -14516,6 +14516,7 @@ example:
 | simesu | しめす |  |  |
 | souda mikan | 左右田柑 |  |  |
 | nekota hajime | 猫田始愛 | 猫田始愛 |  |
+| utsugi | 空木 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
