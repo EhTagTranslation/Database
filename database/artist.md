@@ -14512,6 +14512,7 @@ example:
 | hashira14 | Hashira十四 |  |  |
 | ojitama | おじタマ |  |  |
 | chanja kojiki | チャンジャ乞食 |  |  |
+| sakazaki freddie | 坂崎ふれでぃ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
