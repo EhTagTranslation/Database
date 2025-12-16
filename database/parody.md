@@ -2648,6 +2648,7 @@ example:
 | stella sora | ![](https://novaweb-static.stargazer-games.com/h5/favicon.png) 星塔旅人 | ![](https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/10/18/klAPa_Id.png)<br>《星塔旅人》是由悠星出品的俯视角轻·动作冒险游戏。 |  |
 | saikyou onmyouji no isekai tenseiki | 最强阴阳师的异世界转生记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2876792468.webp) |  |
 | trickcal revive | 嘟嘟脸恶作剧 |  |  |
+| sokushi cheat ga saikyou sugite | 秒杀外挂太强了，异世界的家伙们根本就不是对手 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2902879434.webp)<br>《秒杀外挂太强了，异世界的家伙们根本就不是对手》是由藤孝刚志原作，成濑千里负责插画的轻小说，并有同名改编漫画和动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
