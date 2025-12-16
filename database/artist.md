@@ -14523,6 +14523,7 @@ example:
 | naruse minami | 鳴瀬南 |  |  |
 | kazumaru | かずまる |  |  |
 | anka tomoshibi | あんかともしび |  |  |
+| uzura dobin | うずら土瓶 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
