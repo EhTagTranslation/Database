@@ -14524,6 +14524,7 @@ example:
 | kazumaru | かずまる |  |  |
 | anka tomoshibi | あんかともしび |  |  |
 | uzura dobin | うずら土瓶 |  |  |
+| nezumimochi | ネズミモチ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
