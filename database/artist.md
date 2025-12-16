@@ -14522,6 +14522,7 @@ example:
 | nikumaru | 肉丸 |  |  |
 | naruse minami | 鳴瀬南 |  |  |
 | kazumaru | かずまる |  |  |
+| anka tomoshibi | あんかともしび |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
