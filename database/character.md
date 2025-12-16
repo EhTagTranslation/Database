@@ -1523,7 +1523,7 @@ example:
 | mika | 米卡 |  |  |
 | aki | 阿基 |  |  |
 | mikko | 米科 |  |  |
-| kinuyo nishi | 西绢代 |  |  |
+| kinuyo nishi | 西绢代 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/12/西绢代.jpeg)<br>日语：西 絹代/にし きぬよ<br>所属作品:`girls und panzer`<br>知波单学园二年级学生，战车道部的队长。天然呆，有时候没存在感的队长。 | [萌娘百科](https://zh.moegirl.org.cn/西绢代) |
 |  | 福田 |  |  |
 |  | 玉田 |  |  |
 |  | 细见 |  |  |
