@@ -5927,7 +5927,7 @@ example:
 | ichinichijuu guttari | 一日中ぐったり |  |  |
 | ichino nijou | いちのにじょう |  |  |
 | ichinose | 一ノ瀬 |  |  |
-| ichiokumangenjaya | 一亿万轩茶屋 |  |  |
+| ichiokumangenjaya | 一亿万轩茶屋 | 一億万軒茶屋 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44912.html)<br>[FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77571/) |
 | ichiokunen wakusei | 1亿年惑星 |  |  |
 | ichiya neko no yume | 一夜猫の夢 |  |  |
 | ichiya teikoku | 壱屋帝国 |  |  |
