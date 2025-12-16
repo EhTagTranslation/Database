@@ -14521,6 +14521,7 @@ example:
 | hyouuma | Hyouuma | 哈哈，屁↗眼↘派↗对↘ | [X](https://x.com/Hyouuma)<br>[FANBOX](https://www.fanbox.cc/@genshin)<br>[pixiv](https://www.pixiv.net/users/20235288) |
 | nikumaru | 肉丸 |  |  |
 | naruse minami | 鳴瀬南 |  |  |
+| kazumaru | かずまる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
