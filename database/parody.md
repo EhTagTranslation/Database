@@ -2647,6 +2647,7 @@ example:
 | watashi no oshi wa akuyaku reijou. | 我推是反派大小姐 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2902233193.webp)<br>《我推是反派大小姐》是由祈创作的网络小说作品，作品亦改编为同名漫画、电视动画作品。 |  |
 | stella sora | ![](https://novaweb-static.stargazer-games.com/h5/favicon.png) 星塔旅人 | ![](https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/10/18/klAPa_Id.png)<br>《星塔旅人》是由悠星出品的俯视角轻·动作冒险游戏。 |  |
 | saikyou onmyouji no isekai tenseiki | 最强阴阳师的异世界转生记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2876792468.webp) |  |
+| trickcal revive | 嘟嘟脸恶作剧 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
