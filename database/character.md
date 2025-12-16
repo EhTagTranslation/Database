@@ -7849,6 +7849,7 @@ example:
 | kyryll chudomirovich flins | 克里洛·楚德米洛维奇·菲林斯 | 所属作品:`genshin impact` |  |
 | cure coral | 凉村珊瑚 (珊瑚天使) | ![](https://moegirl.uk/images/0/0b/凉村珊瑚.png)<br>日语：涼村さんご（すずむら さんご）<br>所属作品:`tropical-rouge precure` | [https://moegirl.uk/凉村珊瑚](https://moegirl.uk/凉村珊瑚) |
 | cure summer | 夏海真夏 (夏日天使) | ![](https://moegirl.uk/images/c/ce/夏海真夏.png)<br>日语：夏海まなつ（なつうみ まなつ）<br>所属作品：`tropical-rouge precure` | [https://moegirl.uk/夏海真夏](https://moegirl.uk/夏海真夏) |
+| believe | 信念 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/40/36z7e1rbf9vflkqyvsn0kkhh900spdw.png/600px-Yf_1095.png)<br>所属作品：`uma musume pretty derby` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
