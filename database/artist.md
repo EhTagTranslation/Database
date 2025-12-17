@@ -11881,7 +11881,7 @@ example:
 | yusui | ゆすい |  |  |
 | yusura | 山桜桃 |  |  |
 | yutakame | ゆたかめ |  |  |
-| yuto | yuto |  |  |
+| yuto | yuto |  | [pixiv](https://www.pixiv.net/users/776699) |
 | yutori-nu | ゆとりーぬ |  |  |
 | yutsuki tsuzuri | 愉月綴 |  |  |
 | yuu | 由宇 |  |  |
