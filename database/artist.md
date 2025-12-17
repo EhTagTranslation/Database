@@ -14525,6 +14525,7 @@ example:
 | anka tomoshibi | あんかともしび |  |  |
 | uzura dobin | うずら土瓶 |  |  |
 | nezumimochi | ネズミモチ |  |  |
+| takashigure rei | 鷹時雨:0 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
