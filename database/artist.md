@@ -14532,6 +14532,7 @@ example:
 | shimogamo | 下鴨 |  |  |
 | uramitsu | うらみつ |  |  |
 | muchiou | むちおう |  |  |
+| nabatani kinoko | 茸谷きの子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
