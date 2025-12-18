@@ -14530,6 +14530,7 @@ example:
 | tenpenchii chiwawa | 天変地異ちわわ | [X](https://x.com/mecchainukaitai) |  |
 | kibayashi hiyo | 木林日ヨ |  |  |
 | shimogamo | 下鴨 |  |  |
+| uramitsu | うらみつ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
