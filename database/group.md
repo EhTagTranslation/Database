@@ -13520,6 +13520,7 @@ example:
 | sebire | せびれ |  |  |
 | getsumatsu | 月末 |  |  |
 | dodameyasan | ドダメ屋さん |  |  |
+| nanasshii | ななっしー |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
