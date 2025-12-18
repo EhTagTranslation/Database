@@ -13521,6 +13521,7 @@ example:
 | getsumatsu | 月末 |  |  |
 | dodameyasan | ドダメ屋さん |  |  |
 | nanasshii | ななっしー |  |  |
+| hachiya henshuubu | 蜂屋編集部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
