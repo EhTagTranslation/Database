@@ -13523,6 +13523,7 @@ example:
 | nanasshii | ななっしー |  |  |
 | hachiya henshuubu | 蜂屋編集部 |  |  |
 | muchimuchioume | むちむちおうめ |  |  |
+| aimai no wakusei | 曖昧の惑星 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
