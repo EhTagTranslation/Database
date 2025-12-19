@@ -7862,6 +7862,7 @@ example:
 | fukaziroh | 篠原美优 (不可次郎) | ![](https://static.wikia.nocookie.net/swordartonline/images/c/cd/Fukaziroh%27s_GGO_Avatar_Full_Body.png/revision/latest?cb=20180420043615)<br><br>所属作品:`sword art online alternative gun gale online` | [https://moegirl.uk/篠原美优](https://moegirl.uk/篠原美优) |
 | mayu kuroe | 黑江真由 | ![](https://moegirl.uk/images/d/d1/黑江真由-%40Fuyuhino_mr10.jpg)<br>日语：黒江真由（くろえ まゆ）<br>所属作品:`hibike euphonium` | [https://moegirl.uk/黑江真由](https://moegirl.uk/黑江真由) |
 | velvet crowe | 薇尔贝特·克拉弗 | ![](https://static.wikia.nocookie.net/talesofseries-the-tales-of/images/5/54/Velvet_Crowe.png/revision/latest?cb=201605151006180)<br>所属作品:`tales of berseria` | [Fandom](https://tales-of.fandom.com/wiki/Velvet_Crowe) |
+| tsukasa nishino | 西野司 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/Nishino_Tsukasa2.jpg)<br>所属作品:`ichigo 100` | [萌娘百科](https://zh.moegirl.org.cn/西野司) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
