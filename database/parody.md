@@ -2651,6 +2651,7 @@ example:
 | sokushi cheat ga saikyou sugite | 秒杀外挂太强了，异世界的家伙们根本就不是对手 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2902879434.webp)<br>《秒杀外挂太强了，异世界的家伙们根本就不是对手》是由藤孝刚志原作，成濑千里负责插画的轻小说，并有同名改编漫画和动画。 |  |
 | kamisama dolls | 神样DOLLS | 《神样DOLLS》（日语：神様ドォルズ）是山村哉（やまむらはじめ）创作的的日本漫画作品。于小学馆发行的《月刊Sunday GENE-X》2007年1月号上开始连载。单行本全12卷。 | [维基百科](https://zh.wikipedia.org/wiki/神样DOLLS) |
 | bad girl | 不良少女 | ![](https://upload.wikimedia.org/wikipedia/zh/e/e0/Cover_of_Bad_Girl.jpg)<br>《Bad Girl 不良少女》（日语：ばっどがーる）是肉丸以四格漫画形式创作的日本漫画作品。于芳文社的杂志《Manga Time Kirara Carat》2021年2月号至4月号作客刊载后，同年5月号开始连载，已发行单行本5册。 | [维基百科](https://zh.wikipedia.org/wiki/Bad_Girl_不良少女) |
+| bukiyou na senpai. | 笨拙至极的前辈。 | 日语：不器用な先輩。<br>日本漫画家工藤诚创作的青年漫画，于《YOUNG GANGAN》2019年第24号开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/不中用的前輩。) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
