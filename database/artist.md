@@ -14533,6 +14533,7 @@ example:
 | uramitsu | うらみつ |  |  |
 | muchiou | むちおう |  |  |
 | nabatani kinoko | 茸谷きの子 |  |  |
+| suzuran mashiro | 鈴蘭ましろ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
