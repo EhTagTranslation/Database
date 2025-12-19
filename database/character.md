@@ -7868,6 +7868,7 @@ example:
 | suzu suzukaze | 凉风凉 | ![](https://anibase.net/files/d2c592c430dc03a090ab3bd63418d936)<br>日语：涼風涼（すずかぜ すず）<br>所属作品:`bad girl` | [百度百科](https://baike.baidu.com/item/凉风凉/65515334) |
 | azusa kannawa | 铁轮梓 | ![](https://lain.bgm.tv/pic/crt/l/80/39/168373_crt_R6X83.jpg?r=1753089273&_gl=1*1phz4mp*_ga*MTI0MDQzNjQwMS4xNzYzNjM5NjEw*_ga_1109JLGMHN*czE3NjYxNjM1ODckbzIkZzAkdDE3NjYxNjM1ODckajYwJGwwJGgw)<br>日语：鉄輪梓（かんなわ あずさ）<br>所属作品:`bukiyou na senpai.` | [百度百科](https://baike.baidu.com/item/铁轮梓/65479486) |
 | ai mochizuki | 望月爱 | ![](https://anibase.net/files/f6dd4e2ae14d0ecffcb60d9d7da73b9d)<br>所属作品:`kakkou no iinazuke` |  |
+| wisteria | 藤原雪乃 | ![](https://moegirl.uk/images/7/74/23036688_p0.jpg)<br>所属作品:`yu-gi-oh tag force` | [https://moegirl.uk/藤原雪乃](https://moegirl.uk/藤原雪乃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
