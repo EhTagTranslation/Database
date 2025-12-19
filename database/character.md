@@ -7863,6 +7863,7 @@ example:
 | mayu kuroe | 黑江真由 | ![](https://moegirl.uk/images/d/d1/黑江真由-%40Fuyuhino_mr10.jpg)<br>日语：黒江真由（くろえ まゆ）<br>所属作品:`hibike euphonium` | [https://moegirl.uk/黑江真由](https://moegirl.uk/黑江真由) |
 | velvet crowe | 薇尔贝特·克拉弗 | ![](https://static.wikia.nocookie.net/talesofseries-the-tales-of/images/5/54/Velvet_Crowe.png/revision/latest?cb=201605151006180)<br>所属作品:`tales of berseria` | [Fandom](https://tales-of.fandom.com/wiki/Velvet_Crowe) |
 | tsukasa nishino | 西野司 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/Nishino_Tsukasa2.jpg)<br>所属作品:`ichigo 100` | [萌娘百科](https://zh.moegirl.org.cn/西野司) |
+| hibana | 火华 | ![](https://static.wikia.nocookie.net/fire-brigade-of-flames/images/1/1c/Hibana_Infobox.png/revision/latest?cb=20190923105206)<br>所属作品:`enen no shouboutai` | [Fandom](https://fire-force.fandom.com/wiki/Hibana) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
