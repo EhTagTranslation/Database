@@ -7864,6 +7864,7 @@ example:
 | velvet crowe | 薇尔贝特·克拉弗 | ![](https://static.wikia.nocookie.net/talesofseries-the-tales-of/images/5/54/Velvet_Crowe.png/revision/latest?cb=201605151006180)<br>所属作品:`tales of berseria` | [Fandom](https://tales-of.fandom.com/wiki/Velvet_Crowe) |
 | tsukasa nishino | 西野司 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/Nishino_Tsukasa2.jpg)<br>所属作品:`ichigo 100` | [萌娘百科](https://zh.moegirl.org.cn/西野司) |
 | hibana | 火华 | ![](https://static.wikia.nocookie.net/fire-brigade-of-flames/images/1/1c/Hibana_Infobox.png/revision/latest?cb=20190923105206)<br>所属作品:`enen no shouboutai` | [Fandom](https://fire-force.fandom.com/wiki/Hibana) |
+| hibino shiba | 史场日日乃 | ![](https://static.wikia.nocookie.net/supernatural-acgn/images/6/60/Hibino_Shiba.webp/revision/latest?cb=20250715171712)<br>所属作品:`kamisama dolls` | [百度百科](https://baike.baidu.com/item/史场日日乃/5843966) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
