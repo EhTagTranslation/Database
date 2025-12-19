@@ -2649,6 +2649,7 @@ example:
 | saikyou onmyouji no isekai tenseiki | 最强阴阳师的异世界转生记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2876792468.webp) |  |
 | trickcal revive | 嘟嘟脸恶作剧 |  |  |
 | sokushi cheat ga saikyou sugite | 秒杀外挂太强了，异世界的家伙们根本就不是对手 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2902879434.webp)<br>《秒杀外挂太强了，异世界的家伙们根本就不是对手》是由藤孝刚志原作，成濑千里负责插画的轻小说，并有同名改编漫画和动画。 |  |
+| kamisama dolls | 神样DOLLS | 《神样DOLLS》（日语：神様ドォルズ）是山村哉（やまむらはじめ）创作的的日本漫画作品。于小学馆发行的《月刊Sunday GENE-X》2007年1月号上开始连载。单行本全12卷。 | [维基百科](https://zh.wikipedia.org/wiki/神样DOLLS) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
