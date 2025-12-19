@@ -7853,6 +7853,7 @@ example:
 | darley arabian | 达利阿拉伯 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/44/UPDCH_DarleyArabian_00.png)<br>所属作品：`uma musume pretty derby` |  |
 | jiaoqiu | 椒丘 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/h2u3h7qkujl7t1vrdydgcbsouu717qc.png/1350px-椒丘立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「曜青」的狐人医士、策士，出身丹鼎司名家。 |  |
 | rubick | 拉比克 | ![](https://liquipedia.net/commons/images/1/14/Cosmetic_icon_Stargazer%27s_Curiosity.png)<br>所属作品：`defense of the ancients` |  |
+| lumi | 灯灯 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/8/80/bs60ztcgc60y4nqpksmqqyl14mb8bu4.png/410px-角色_灯灯_立绘.png)<br>所属作品：`wuthering waves`<br>呜呜物流的领航员，运输队的小组长。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/灯灯) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
