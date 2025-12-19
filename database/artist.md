@@ -10789,7 +10789,7 @@ example:
 | tenamaru | テナマル |  |  |
 | tenchuumaru | 天誅丸 |  |  |
 | tenchuunan | 天誅男 |  |  |
-| tendou itsuki | 天堂樹 |  |  |
+| tendou itsuki | 天堂樹 |  | [pixiv](https://www.pixiv.net/users/9817470) |
 | tendou kuon | 天童久遠 |  |  |
 | tendou makura | 天童まくら |  |  |
 | tengudake | テングダケ |  |  |
