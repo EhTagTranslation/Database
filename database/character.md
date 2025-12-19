@@ -7857,6 +7857,7 @@ example:
 | queen annes revenge | 安妮女王复仇号 | ![](https://patchwiki.biligame.com/images/blhx/thumb/e/e9/6ra3jz15i9tdymsphauw4h9dalsef3a.jpg/525px-安妮女王复仇号立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/c/ca/0xbo09nuh5916nln75wtshcwp593pho.jpg/525px-安妮女王复仇号换装.jpg)<br>所属作品：`azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/安妮女王复仇号) |
 | buling | 卜灵 | ![](https://mc.appfeng.com/ui/avatar/T_IconRole_Pile_Buling_UI.png)<br>所属作品：`wuthering waves`<br>瑝珑梦州方士，黑海岸客卿，风水大师，论坛冲浪高手。 |  |
 | karen kohiruimaki | 小比类卷香莲 | ![](https://static.wikia.nocookie.net/swordartonline/images/d/db/Kohiruimaki_Karen.png/revision/latest?cb=20180511211721)<br>所属作品:`sword art online alternative gun gale online`<br><br>2006年4月20日生，于2025在东京读大学。<br><br>有着1米83这样模特般的身高，却由于这样的身高感到自卑。想从VRMMO中摆脱这种纠结感，于是在GGO中找到了答案。<br><br>在GGO中，她的化身角色身高只有1米45、和现实完全相反的矮个子(见) | [https://moegirl.uk/小比类卷香莲](https://moegirl.uk/小比类卷香莲)<br>[Fandom](https://swordartonline.fandom.com/wiki/Kohiruimaki_Karen) |
+| llenn | 莲 | ![](https://static.wikia.nocookie.net/swordartonline/images/8/84/LLENN.png/revision/latest?cb=20180512073857)<br>所属作品:`sword art online alternative gun gale online`<br><br>在GGO中的化身角色 | [https://moegirl.uk/小比类卷香莲](https://moegirl.uk/小比类卷香莲)<br>[Fandom](https://swordartonline.fandom.com/wiki/Kohiruimaki_Karen) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
