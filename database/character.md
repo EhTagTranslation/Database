@@ -7865,6 +7865,7 @@ example:
 | tsukasa nishino | 西野司 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/Nishino_Tsukasa2.jpg)<br>所属作品:`ichigo 100` | [萌娘百科](https://zh.moegirl.org.cn/西野司) |
 | hibana | 火华 | ![](https://static.wikia.nocookie.net/fire-brigade-of-flames/images/1/1c/Hibana_Infobox.png/revision/latest?cb=20190923105206)<br>所属作品:`enen no shouboutai` | [Fandom](https://fire-force.fandom.com/wiki/Hibana) |
 | hibino shiba | 史场日日乃 | ![](https://static.wikia.nocookie.net/supernatural-acgn/images/6/60/Hibino_Shiba.webp/revision/latest?cb=20250715171712)<br>所属作品:`kamisama dolls` | [百度百科](https://baike.baidu.com/item/史场日日乃/5843966) |
+| suzu suzukaze | 凉风凉 | ![](https://anibase.net/files/d2c592c430dc03a090ab3bd63418d936)<br>日语：涼風涼（すずかぜ すず）<br>所属作品:`bad girl` | [百度百科](https://baike.baidu.com/item/凉风凉/65515334) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
