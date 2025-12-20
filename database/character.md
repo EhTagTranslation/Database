@@ -7869,6 +7869,7 @@ example:
 | azusa kannawa | 铁轮梓 | ![](https://lain.bgm.tv/pic/crt/l/80/39/168373_crt_R6X83.jpg?r=1753089273&_gl=1*1phz4mp*_ga*MTI0MDQzNjQwMS4xNzYzNjM5NjEw*_ga_1109JLGMHN*czE3NjYxNjM1ODckbzIkZzAkdDE3NjYxNjM1ODckajYwJGwwJGgw)<br>日语：鉄輪梓（かんなわ あずさ）<br>所属作品:`bukiyou na senpai.` | [百度百科](https://baike.baidu.com/item/铁轮梓/65479486) |
 | ai mochizuki | 望月爱 | ![](https://anibase.net/files/f6dd4e2ae14d0ecffcb60d9d7da73b9d)<br>所属作品:`kakkou no iinazuke` |  |
 | wisteria | 藤原雪乃 | ![](https://moegirl.uk/images/7/74/23036688_p0.jpg)<br>所属作品:`yu-gi-oh tag force` | [https://moegirl.uk/藤原雪乃](https://moegirl.uk/藤原雪乃) |
+| kureha clyret | 克蕾赫·葛莱列特 | ![](https://ehgt.org/w/01/976/63171-2kkgnvw2.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>出身于世代精通剑术的名门葛莱列特家。吉欧拉尔王国最强的剑士。 | [萌娘百科](https://zh.moegirl.org.cn/克蕾赫·葛莱列特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
