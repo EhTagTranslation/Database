@@ -7871,6 +7871,7 @@ example:
 | wisteria | 藤原雪乃 | ![](https://moegirl.uk/images/7/74/23036688_p0.jpg)<br>所属作品:`yu-gi-oh tag force` | [https://moegirl.uk/藤原雪乃](https://moegirl.uk/藤原雪乃) |
 | kureha clyret | 克蕾赫·葛莱列特 | ![](https://ehgt.org/w/01/976/63171-2kkgnvw2.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>出身于世代精通剑术的名门葛莱列特家。吉欧拉尔王国最强的剑士。 | [萌娘百科](https://zh.moegirl.org.cn/克蕾赫·葛莱列特) |
 | norn clatalissa jioral | 诺伦·克菈塔莉莎·吉欧拉尔 | ![](https://ehgt.org/w/01/959/79078-oc6ik734.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>吉欧拉尔王国第二公主。 | [萌娘百科](https://zh.moegirl.org.cn/诺伦·克菈塔莉莎·吉欧拉尔) |
+| setsuna | 刹那 | ![](https://ehgt.org/w/01/975/98593-q59h32yq.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>冰狼族的少女，因为和部落的其他伙伴遭到了人类的袭击，被当作奴隶贩卖并遭受了残酷的虐待，所以十分仇恨人类。 | [萌娘百科](https://zh.moegirl.org.cn/刹那%28回复术士的重启人生%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
