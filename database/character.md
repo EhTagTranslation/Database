@@ -7878,6 +7878,7 @@ example:
 | ansha | 安馨儿 | ![](https://s1.52poke.com/wiki/thumb/8/8d/安馨儿_ZA.png/150px-安馨儿_ZA.png)<br>所属作品：`pokemon`<br>游戏《宝可梦传说 Z-A》的DLC《宝可梦传说 Z-A 超次元爆涌》中登场的虚拟角色，外文名为アンシャ（Ansha）。 |  |
 | esri tuatha de | 艾思丽·图哈德 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/12/00/49/41/133775006_p1_master1200.jpg)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>主角的母亲。 |  |
 | ferris olston | 菲利斯·奥尔斯顿 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/e/ea/Unnamed.jpg)<br>所属作品：`tomo-chan wa onnanoko`<br>卡洛儿的母亲。<br>日文名 フェリス・オルストン |  |
+| ayato amagiri | 天雾绫斗 | ![](https://static.wikia.nocookie.net/gakusen-toshi-asterisk/images/5/51/Amagiri_Ayato_Anime.png)<br>所属作品：`gakusen toshi asterisk`<br>天雾绫斗，星导馆学园的特待生，性格温柔剑术水平高超，家族代代继承了古流剑术。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
