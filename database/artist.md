@@ -8332,7 +8332,7 @@ example:
 | musouduki | 梦双月 |  |  |
 | muteki soda | 无敌苏打 |  |  |
 | muten | 武天 |  |  |
-| mutou | 無糖 |  |  |
+| mutou | 無糖まめ（無糖） |  |  |
 | mutou hiroki | 武藤裕樹 |  |  |
 | mutou keiji | むとうけいじ |  |  |
 | mutou kurihito | 武藤此史 |  |  |
