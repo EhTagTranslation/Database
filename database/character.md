@@ -7879,6 +7879,7 @@ example:
 | esri tuatha de | 艾思丽·图哈德 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/12/00/49/41/133775006_p1_master1200.jpg)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>主角的母亲。 |  |
 | ferris olston | 菲利斯·奥尔斯顿 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/e/ea/Unnamed.jpg)<br>所属作品：`tomo-chan wa onnanoko`<br>卡洛儿的母亲。<br>日文名 フェリス・オルストン |  |
 | ayato amagiri | 天雾绫斗 | ![](https://static.wikia.nocookie.net/gakusen-toshi-asterisk/images/5/51/Amagiri_Ayato_Anime.png)<br>所属作品：`gakusen toshi asterisk`<br>天雾绫斗，星导馆学园的特待生，性格温柔剑术水平高超，家族代代继承了古流剑术。 |  |
+| oumi | 近江 （鳉） | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/5f/2xd0i2a0zp2r1rywmgue5yil8oq538o.jpg/525px-近江立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/1/18/ihvpxv0iejn5kyrp7abgjjddsmjor9r.jpg/525px-近江换装.jpg)<br>所属作品：`azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=215596) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
