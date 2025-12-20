@@ -7876,6 +7876,7 @@ example:
 | hakuhou | 白凤（䳆） | ![](https://patchwiki.biligame.com/images/blhx/thumb/f/fa/c0s2i5tjxdrc2q2hl44yfulhwyrzhlr.jpg/525px-白凤立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/63/1bu19x817t5a916ykxeoxrjlxk80quw.jpg/525px-白凤换装.jpg)<br>所属作品：`azur lane`<br>原型为G-14型航空母舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/白凤) |
 | tomiya | 托米娅 | ![](https://picx.zhimg.com/80/v2-eae1aa52746c15c87c7aec1cea5e584c_720w.webp?source=1def8aca)<br>所属作品：`zenless zone zero`<br>治安局青年治安官。 |  |
 | ansha | 安馨儿 | ![](https://s1.52poke.com/wiki/thumb/8/8d/安馨儿_ZA.png/150px-安馨儿_ZA.png)<br>所属作品：`pokemon`<br>游戏《宝可梦传说 Z-A》的DLC《宝可梦传说 Z-A 超次元爆涌》中登场的虚拟角色，外文名为アンシャ（Ansha）。 |  |
+| esri tuatha de | 艾思丽·图哈德 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/12/00/49/41/133775006_p1_master1200.jpg)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>主角的母亲。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
