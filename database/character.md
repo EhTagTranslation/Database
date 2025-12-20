@@ -7881,6 +7881,7 @@ example:
 | ayato amagiri | 天雾绫斗 | ![](https://static.wikia.nocookie.net/gakusen-toshi-asterisk/images/5/51/Amagiri_Ayato_Anime.png)<br>所属作品：`gakusen toshi asterisk`<br>天雾绫斗，星导馆学园的特待生，性格温柔剑术水平高超，家族代代继承了古流剑术。 |  |
 | oumi | 近江 （鳉） | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/5f/2xd0i2a0zp2r1rywmgue5yil8oq538o.jpg/525px-近江立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/1/18/ihvpxv0iejn5kyrp7abgjjddsmjor9r.jpg/525px-近江换装.jpg)<br>所属作品：`azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=215596) |
 | asclepius | 阿斯克勒庇俄斯 |  |  |
+| tamamo aria | 玉藻艾莉亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
