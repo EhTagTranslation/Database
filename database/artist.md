@@ -12457,7 +12457,7 @@ example:
 | rkrk12 | rkrk12 |  | [pixiv](https://www.pixiv.net/users/27519319)<br>[FANBOX](https://rkrk12.fanbox.cc/) |
 | yurishima shiro | ゆりしましろ |  | [X](https://x.com/yurishima_shiro) [pixiv](https://www.pixiv.net/users/86618946) |
 | purumetal | ぷるめたる |  | [X](https://x.com/purumetal) [pixiv](https://www.pixiv.net/users/16924708) |
-| nicolai no yome | ニコライの嫁（nicolai） |  | [X](https://x.com/nic01ai) [pixiv](https://www.pixiv.net/users/32560534) |
+| nicolai no yome | ニコライの嫁 |  | [X](https://x.com/nic01ai)<br>[pixiv](https://www.pixiv.net/users/32560534) |
 | sukusan | SukuSan |  | [pixiv](https://www.pixiv.net/users/10166531) |
 | noya macoto | ノヤマコト | **ノヤマコト** 是日本漫画家、插画师，以社团「乃屋」名义发布东方 Project 题材同人志，以「ウラマコト（里 Macoto）」名义发布捆绑拘束题材插画、漫画。<br><br>![](https://upload.thwiki.cc/f/f0/乃屋banner3.jpg) | [东方维基](https://thwiki.cc/乃屋)<br>[个人主页](https://thwiki.cc/乃屋)<br>Twitter：[ノヤマコト](https://x.com/noya_macoto)、[ウラマコト](https://x.com/ura_macoto)<br>Pixiv：[ノヤマコト](https://www.pixiv.net/users/153451)、[ウラマコト](https://www.pixiv.net/users/51707037)<br>[Ameba](https://ameblo.jp/noyamacoto/) |
 | ryouta | りょうた |  | [pixiv](https://www.pixiv.net/users/3061486) [X](https://x.com/ryouta335) |
