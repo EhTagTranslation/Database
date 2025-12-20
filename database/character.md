@@ -7877,6 +7877,7 @@ example:
 | tomiya | 托米娅 | ![](https://picx.zhimg.com/80/v2-eae1aa52746c15c87c7aec1cea5e584c_720w.webp?source=1def8aca)<br>所属作品：`zenless zone zero`<br>治安局青年治安官。 |  |
 | ansha | 安馨儿 | ![](https://s1.52poke.com/wiki/thumb/8/8d/安馨儿_ZA.png/150px-安馨儿_ZA.png)<br>所属作品：`pokemon`<br>游戏《宝可梦传说 Z-A》的DLC《宝可梦传说 Z-A 超次元爆涌》中登场的虚拟角色，外文名为アンシャ（Ansha）。 |  |
 | esri tuatha de | 艾思丽·图哈德 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/12/00/49/41/133775006_p1_master1200.jpg)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>主角的母亲。 |  |
+| ferris olston | 菲利斯·奥尔斯顿 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/e/ea/Unnamed.jpg)<br>所属作品：`tomo-chan wa onnanoko`<br>卡洛儿的母亲。<br>日文名 フェリス・オルストン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
