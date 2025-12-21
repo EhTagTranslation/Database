@@ -174,6 +174,7 @@ example:
 | green chacha jiang | Green茶茶酱 |  |  |
 | tangtang | 堂堂 |  |  |
 | jiaorouji walkure | 絞肉姬Walküre | Cosplayer | [X](https://x.com/SuccAbyss) |
+| rongrongzi | 小容仔咕咕咕 | 中国Cosplayer<br>![](https://pbs.twimg.com/profile_images/1269582166104502272/ifgySGtI.jpg) | [X](https://x.com/Rongrongzi) |
 
 <!--
 Template: 
