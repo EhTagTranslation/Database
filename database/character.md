@@ -7883,6 +7883,7 @@ example:
 | asclepius | 阿斯克勒庇俄斯 |  |  |
 | tamamo aria | 玉藻艾莉亚 |  |  |
 | jing ke | 荆轲 |  |  |
+| rizu-kyun | 魅魔利兹 | 《更衣人偶坠入爱河》中女主角喜多川海梦曾cos过的角色 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
