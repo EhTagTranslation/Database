@@ -706,7 +706,7 @@ example:
 | akiha at | あきは@ |  |  |
 | amagiri mio | 雨雾MIO |  |  |
 | bifidus | ビフィダス |  | [pixiv](https://www.pixiv.net/users/1446203) |
-| ice | ICE |  |  |
+| ice | ICE |  | [pixiv](https://www.pixiv.net/users/27612) |
 | kumoemon | くもえもん |  |  |
 | kuro fn | クロFn |  |  |
 | lorica | Lorica |  |  |
