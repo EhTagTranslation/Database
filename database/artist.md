@@ -14538,6 +14538,7 @@ example:
 | agumeru | あぐめる |  |  |
 | tokupyon | とくぴょん |  |  |
 | kasai | 葛西 |  |  |
+| ameno kaeru | 飴音かえる |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
