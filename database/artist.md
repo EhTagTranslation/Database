@@ -14544,6 +14544,7 @@ example:
 | eruu | えるう |  |  |
 | miyamoto muga | 宮本ムガ |  |  |
 | manzai sugar | Mz\_\_SUGAR |  | [pixiv](https://www.pixiv.net/users/14730603) |
+| khear | Khear |  | [pixiv](https://www.pixiv.net/users/74518504) |
 
 <!--TEMPLATE:
 |  |  |  |  |
