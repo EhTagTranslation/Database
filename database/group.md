@@ -13527,6 +13527,7 @@ example:
 | sora paprika | ソーラーぱぷりか |  |  |
 | tanioku no kaeru | 谷奥の蛙 |  |  |
 | seisui bar | 圣水BAR |  |  |
+| samurai banana | サムライバナナ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
