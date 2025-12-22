@@ -6496,7 +6496,7 @@ example:
 | kamiryou kaduki | 上嶺榎月 |  |  |
 | kamisae ryouya | 上冴良夜 |  |  |
 | kamisato takeharu | 上里竹春 |  |  |
-| kamishima akira | 剃嶋章 |  |  |
+| kamishima akira | かみしまあきら \| 剃嶋章 |  | [pixiv](https://www.pixiv.net/users/3755307) |
 | kamishima tatsuya | 神嶋龍矢 |  |  |
 | kamishima yu | 神島悠 |  |  |
 | kamishiro midorimaru | カミシロ緑マル |  |  |
