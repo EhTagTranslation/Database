@@ -14540,6 +14540,7 @@ example:
 | kasai | 葛西 |  |  |
 | ameno kaeru | 飴音かえる |  |  |
 | siohuu | しおふう |  | [pixiv](https://www.pixiv.net/users/78452156) [pixiv](https://www.pixiv.net/users/5505413) |
+| kawaruhi | カワルヒ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
