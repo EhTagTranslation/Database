@@ -14542,6 +14542,7 @@ example:
 | siohuu | しおふう |  | [pixiv](https://www.pixiv.net/users/78452156) [pixiv](https://www.pixiv.net/users/5505413) |
 | kawaruhi | カワルヒ |  |  |
 | eruu | えるう |  |  |
+| miyamoto muga | 宮本ムガ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
