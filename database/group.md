@@ -13528,6 +13528,7 @@ example:
 | tanioku no kaeru | 谷奥の蛙 |  |  |
 | seisui bar | 圣水BAR |  |  |
 | samurai banana | サムライバナナ |  |  |
+| popotto denki ichigouten | ぽぽっと電機1号店 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
