@@ -7890,7 +7890,7 @@ example:
 | viola | 维奥拉 | 维奥拉，日本漫画《航海王》及其衍生作品中的角色，其为德雷斯罗萨王国的公主，后来被迫加入唐吉诃德家族，成为特雷波尔军团的杀手，并化名为“紫罗兰”。<br>![维奥拉](https://bkimg.cdn.bcebos.com/pic/b812c8fcc3cec3fd9f47f344d188d43f87942781?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/维奥拉/15273424) |
 | philia adenauer | 菲莉雅·阿登纳瓦 | ![](https://kanpekiseijo-anime.com/wp-content/themes/kanpeki/dist/img/character/character1/stand.png)<br>所属作品：`kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru` |  |
 | mia adenauer | 米亚·阿登纳瓦 | ![](https://kanpekiseijo-anime.com/wp-content/themes/kanpeki/dist/img/character/character2/stand.png)<br>所属作品：`kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru` |  |
-| kureha enomoto | 榎本红叶 | ![](https://static.wikia.nocookie.net/danjoru/images/a/a2/Kureha_Enomoto_LN.png)<br>所属作品：`danjo no yuujou wa seiritsu suru iya shinai`<br>榎本梨音的姐姐。 |  |
+| kureha enomoto | 榎本红叶 | ![](https://static.wikia.nocookie.net/danjoru/images/a/a2/Kureha_Enomoto_LN.png)<br>所属作品：`danjo no yuujou wa seiritsu suru iya shinai`<br>榎本凛音的姐姐。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
