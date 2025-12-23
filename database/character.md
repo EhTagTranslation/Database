@@ -7894,6 +7894,7 @@ example:
 | amina | 阿米娜 | ![](https://pica.zhimg.com/100/v2-fdcbd201a0ad97671f0b7c52e6018d4e_r.jpg)<br>所属作品：`genshin impact`<br>纳塔地区「流泉之众」部族的女性首领。 |  |
 | suzune inukami | 犬上铃音 | ![](https://chiyumahou-anime.com/wp-content/themes/chiyumahou-anime_v1/assets/images/common/character/img_suzune_front.png)<br>所属作品：`chiyu mahou no machigatta tsukaikata` |  |
 | rose | 萝兹 | ![](https://chiyumahou-anime.com/wp-content/themes/chiyumahou-anime_v1/assets/images/common/character/img_rose_front.png)<br>所属作品：`chiyu mahou no machigatta tsukaikata` |  |
+| lishu | 里树 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
