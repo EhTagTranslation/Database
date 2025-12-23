@@ -7892,6 +7892,7 @@ example:
 | mia adenauer | 米亚·阿登纳瓦 | ![](https://kanpekiseijo-anime.com/wp-content/themes/kanpeki/dist/img/character/character2/stand.png)<br>所属作品：`kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru` |  |
 | kureha enomoto | 榎本红叶 | ![](https://static.wikia.nocookie.net/danjoru/images/a/a2/Kureha_Enomoto_LN.png)<br>所属作品：`danjo no yuujou wa seiritsu suru iya shinai`<br>榎本凛音的姐姐。 |  |
 | amina | 阿米娜 | ![](https://pica.zhimg.com/100/v2-fdcbd201a0ad97671f0b7c52e6018d4e_r.jpg)<br>所属作品：`genshin impact`<br>纳塔地区「流泉之众」部族的女性首领。 |  |
+| suzune inukami | 犬上铃音 | ![](https://chiyumahou-anime.com/wp-content/themes/chiyumahou-anime_v1/assets/images/common/character/img_suzune_front.png)<br>所属作品：`chiyu mahou no machigatta tsukaikata` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
