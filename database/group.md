@@ -13529,6 +13529,7 @@ example:
 | seisui bar | 圣水BAR |  |  |
 | samurai banana | サムライバナナ |  |  |
 | popotto denki ichigouten | ぽぽっと電機1号店 |  |  |
+| studio washitsu | Studio和室 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
