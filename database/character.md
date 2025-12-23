@@ -7885,6 +7885,7 @@ example:
 | jing ke | 荆轲 |  |  |
 | rizu-kyun | 魅魔利兹 | 《更衣人偶坠入爱河》中女主角喜多川海梦曾cos过的角色 |  |
 | kuchisake-onna | 裂口女 |  |  |
+| laufen | 菈奥芬 | 所属作品: `p:sousou no frieren` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
