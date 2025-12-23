@@ -7889,6 +7889,7 @@ example:
 | shirahoshi | 白星 | 白星（しらほし）是日本动漫作品《海贼王》里的其中一个角色，鱼人岛龙宫王国的公主，为海王星三兄弟的妹妹，鱼人岛以外的人都用“人鱼公主”（人魚姫）称呼她。<br>![白星](https://upload.wikimedia.org/wikipedia/zh/thumb/5/5e/Shirahoshi.png/421px-Shirahoshi.png) | [维基百科](https://zh.wikipedia.org/wiki/白星) |
 | viola | 维奥拉 | 维奥拉，日本漫画《航海王》及其衍生作品中的角色，其为德雷斯罗萨王国的公主，后来被迫加入唐吉诃德家族，成为特雷波尔军团的杀手，并化名为“紫罗兰”。<br>![维奥拉](https://bkimg.cdn.bcebos.com/pic/b812c8fcc3cec3fd9f47f344d188d43f87942781?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/维奥拉/15273424) |
 | philia adenauer | 菲莉雅·阿登纳瓦 | ![](https://kanpekiseijo-anime.com/wp-content/themes/kanpeki/dist/img/character/character1/stand.png)<br>所属作品：`kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru` |  |
+| mia adenauer | 米亚·阿登纳瓦 | ![](https://kanpekiseijo-anime.com/wp-content/themes/kanpeki/dist/img/character/character2/stand.png)<br>所属作品：`kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
