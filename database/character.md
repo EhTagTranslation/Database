@@ -7919,6 +7919,7 @@ example:
 | yume yamaba | 山叶由芽 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/yume-yamaba/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | iruka sakimiya | 咲宫入华 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/iruka-sakimiya/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | veena | 薇娜 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/veena/img_chara.png)<br>又名绮罗星神奈<br>所属作品：`dolphin wave` |  |
+| hiori nayuki | 永雪冰织 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/hiori-nayuki/img_chara.png)<br>所属作品：`dolphin wave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
