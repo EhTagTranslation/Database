@@ -7913,6 +7913,7 @@ example:
 | sarasa saionji | 彩园寺更纱 | ![](https://ehgt.org/w/02/127/34489-8essqjwq.webp)<br>所属作品：`liar liar` |  |
 | mine | 玛茵 | ![](https://ehgt.org/w/01/970/38375-fjmo8sh9.webp)<br>所属作品：`akame ga kill`<br>Night Raid成员，个性强势，自称射击的天才，双马尾傲娇属性。 |  |
 | tatsumi | 塔兹米 | 所属作品：`akame ga kill`<br>为了解救村庄的窘境而来到帝都想要出人头地的少年剑士。 |  |
+| tessia eralith | 提西娅·艾拉利斯 | ![](https://ehgt.org/w/01/822/76003-vdi06sum.webp)<br>所属作品：`the beginning after the end` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
