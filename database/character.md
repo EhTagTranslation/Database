@@ -7907,6 +7907,7 @@ example:
 | celistia ralgris | 赛莉丝缇雅·兰格莉思 | ![](https://saijaku.jp/img/character_image04.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>セリスティア·ラルグリス<br>四大贵族之一兰格莉思家的大小姐，王立士官学园的三年级生，骑士团的团长，神装机龙〈凛德龙虫 Lindworm〉的使用者。 |  |
 | philuffy aingram | 菲尔菲·爱格兰姆 | ![](https://saijaku.jp/img/character_image05.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>フィルフィ·アイングラム<br>爱格兰姆财团的次女，路克斯的青梅竹马，学园二年级，神装机龙〈堤丰 Typhon〉的使用者。 |  |
 | lux arcadia | 路克斯·阿卡迪亚 | ![](https://saijaku.jp/img/character_image01.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>ルクス·アーカディア<br>灭亡的阿卡迪亚帝国第七皇子，神装机龙〈巴哈姆特 Bahamuth〉的使用者，平常带著两把机装剑，一把为特殊改造的〈飞翔机龙 Wyvern〉，另一把为巴哈姆特的。 |  |
+| claire elstein | 克蕾儿·艾尔斯坦因 | ![](https://static.wikia.nocookie.net/seirei-tsukai-no-blade-dance/images/9/96/Claire_Rouge_%28Anime%29.png)<br>所属作品：`bladedance of elementalers`<br>艾迪西亚帝国名门贵族艾尔斯坦因家的次女。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
