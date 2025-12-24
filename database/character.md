@@ -4396,7 +4396,7 @@ example:
 | the woodsman | 小红帽中的猎人 | 原文的意思是樵夫，也有版本译为猎人 | [Fandom](https://hero.fandom.com/wiki/The_Woodsman_%28Little_Red_Riding_Hood%29) |
 | henrietta de tristain | 安丽埃塔 | 安丽埃塔・德・托里斯汀，托里斯汀的公主。17岁。使用水属性魔法。她被她的子民们所爱戴，同时她也是露易丝的老朋友。后来，在阿爾比昂的威尔士王子遭到暗杀后，她成为了托里斯汀的女王，并且下定决心要从阿爾比昂的侵略中保卫托里斯汀。 | [萌娘百科](https://zh.moegirl.org.cn/安丽埃塔·德·托里斯汀) [维基百科](https://zh.wikipedia.org/wiki/零之使魔角色列表) |
 | princess devilotte de deathsatan ix | 戴比萝特·德·迪斯撒旦九世 | 所属作品: `p:cyberbots`<br>![](https://static.wikia.nocookie.net/projectxzone/images/1/10/Project_X_Zone_Devilotte.png) | [Fandom](https://projectxzone.fandom.com/wiki/Princess_Devilotte_de_DeathSatan_IX) |
-| fianna ray ordesia | 菲雅娜·雷·奥地西亚 | 所属作品: `p:bladedance of elementalers` | [萌娘百科](https://zh.moegirl.org.cn/菲雅娜·雷·奥地西亚) |
+| fianna ray ordesia | 菲雅娜·雷·奥地西亚 | ![](https://static.wikia.nocookie.net/seirei-tsukai-no-blade-dance/images/2/21/Fianna_Ray_Ordesia_%28Anime%29.png)<br>所属作品: `p:bladedance of elementalers` | [萌娘百科](https://zh.moegirl.org.cn/菲雅娜·雷·奥地西亚) |
 | lady labrynth of the silver castle | 白银城的迷宫主·拉比丽斯 | ![](https://p.sda1.dev/9/fa32de723f4ef717af543db7869a9f3d/image.png) | [Fandom](https://yugioh.fandom.com/zh/wiki/拉比林斯?variant=zh#白银之城的拉比林斯) [Yugi pedia](https://yugipedia.com/wiki/Lovely_Labrynth_of_the_Silver_Castle) |
 | suletta mercury | 斯莱塔·墨丘利 |  |  |
 | miorine rembran | 米奥莉奈·伦布兰 | 米奥莉奈·伦布兰（日语：ミオリネ・レンブラン；英语：Miorine Rembran），是电视动画《机动战士高达 水星的魔女》中的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/d/de/米奥莉奈·伦布兰_人物原设立绘.png/800px-米奥莉奈·伦布兰_人物原设立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/米奥莉奈·伦布兰) |
