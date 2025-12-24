@@ -13530,6 +13530,7 @@ example:
 | popotto denki ichigouten | ぽぽっと電機1号店 |  |  |
 | studio washitsu | Studio和室 |  |  |
 | butajiru | 豚汁 |  |  |
+| yagen nankotsu | YAGENなんこつ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
