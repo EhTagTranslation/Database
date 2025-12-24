@@ -7903,6 +7903,7 @@ example:
 | mewi freya | 缪伊·芙蕾雅 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/mewi.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>与唯一的血亲——姐姐相依为命，在贫民街中艰难度日。 |  |
 | ficelle harbeller | 菲赛尔·哈维拉 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/ficelle.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>王国魔法师团的王牌魔术师。 |  |
 | krulcifer einfolk | 库露露席法·恩芙尔克 | ![](https://saijaku.jp/img/character_image03.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>クルルシファー·エインフォルク<br>本作女主角之一，从北方的优密尔教国前来王立士官学园就读的留学生，就读二年级，恩芙尔克伯爵家的大小姐，神装机龙〈法夫纳 Fafnir〉的使用者。 |  |
+| yoruka kirihime | 切姬夜架 | ![](https://saijaku.jp/img/character_image12.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>きりひめ よるか<br>被帝国所灭的东方岛国“古都国”的公主，同时是该国最强的机龙使，神装机龙〈夜刀神 Yato no Kami〉的操纵者。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
