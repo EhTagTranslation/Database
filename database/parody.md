@@ -2654,6 +2654,7 @@ example:
 | bukiyou na senpai. | 笨拙至极的前辈 | 日语：不器用な先輩。<br>日本漫画家工藤诚创作的青年漫画，于《YOUNG GANGAN》2019年第24号开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/不中用的前輩。) |
 | yu-gi-oh tag force | 游戏王：卡片力量 |  |  |
 | kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru | 圣女因太过完美不够可爱而被废除婚约并卖到邻国 | ![](https://cdn.myanimelist.net/images/anime/1263/148318.jpg)<br>冬月光輝创作的小说，并改编有同名动画作品。 |  |
+| jitaku keibiin | 自宅警备队 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
