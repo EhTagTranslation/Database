@@ -14547,6 +14547,7 @@ example:
 | khear | Khear |  | [pixiv](https://www.pixiv.net/users/74518504) |
 | toeki | 吐液 |  |  |
 | chiizu ore | ちぃずオレ |  |  |
+| imo ichirou | 芋一郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
