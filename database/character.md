@@ -7915,6 +7915,7 @@ example:
 | tatsumi | 塔兹米 | 所属作品：`akame ga kill`<br>为了解救村庄的窘境而来到帝都想要出人头地的少年剑士。 |  |
 | tessia eralith | 提西娅·艾拉利斯 | ![](https://ehgt.org/w/01/822/76003-vdi06sum.webp)<br>所属作品：`the beginning after the end` |  |
 | michiru tojo | 都条未知留 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/michiru-tojo/img_chara.png)<br>所属作品：`dolphin wave` |  |
+| shion suminoe | 住乃绘紫苑 | ![](https://dwave.softstar.com.tw/skin/assets/data/webp/chara/shion-suminoe/img_chara.png.webp)<br>所属作品：`dolphin wave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
