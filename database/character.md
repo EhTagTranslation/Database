@@ -7910,6 +7910,7 @@ example:
 | claire elstein | 克蕾儿·艾尔斯坦因 | ![](https://static.wikia.nocookie.net/seirei-tsukai-no-blade-dance/images/9/96/Claire_Rouge_%28Anime%29.png)<br>所属作品：`bladedance of elementalers`<br>艾迪西亚帝国名门贵族艾尔斯坦因家的次女。 |  |
 | iori kitahara | 毒岛樱子 | ![](https://ehgt.org/w/02/165/64312-c05x7b31.webp)<br>所属作品：`grand blue` |  |
 | liberalio | 莉贝雷利奥 | ![](https://img.3dmgame.com/uploads/images/news/20251103/1762149681_879803.jpg)<br>所属作品：`goddess of victory nikke` |  |
+| sarasa saionji | 彩园寺更纱 | ![](https://ehgt.org/w/02/127/34489-8essqjwq.webp)<br>所属作品：`liar liar` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
