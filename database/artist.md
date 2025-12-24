@@ -2677,7 +2677,7 @@ example:
 | natsuki marina | 夏月まりな |  | [pixiv](https://www.pixiv.net/users/482462) [X](https://x.com/marinauryu) |
 | watanon | わたのん |  | [pixiv](https://www.pixiv.net/users/1202103) [X](https://x.com/watanohara2) |
 | amami mikihiro | 甘味みきひろ |  | [pixiv](https://www.pixiv.net/users/12348) [X](https://x.com/amami_mikihiro) |
-| mikage | 未影 |  | [pixiv](https://www.pixiv.net/users/140701) [X](https://x.com/mikage81) |
+| mikage | 美影 |  | [pixiv](https://www.pixiv.net/users/140701) [X](https://x.com/mikage81) |
 | mk | MK |  | [pixiv](https://www.pixiv.net/users/64048) [X](https://x.com/MK_mod0) |
 | aria. | ありあ。 |  | [pixiv](https://www.pixiv.net/users/781292) [X](https://x.com/koiiroharemoyou) |
 | kago | 加护 |  | [pixiv](https://www.pixiv.net/users/2553637) |
