@@ -7922,6 +7922,7 @@ example:
 | hiori nayuki | 永雪冰织 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/hiori-nayuki/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | utae ayato | 彩户诗绘 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/utae-ayato/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | kukuri | 久久利伴 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/tomo-kukuri/img_chara.png)<br>所属作品：`dolphin wave` |  |
+| amadea wolfa | 阿玛迪娅・沃尔法 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/amadea-wolfa/img_chara.png)<br>所属作品：`dolphin wave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
