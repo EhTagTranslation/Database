@@ -14548,6 +14548,7 @@ example:
 | toeki | 吐液 |  |  |
 | chiizu ore | ちぃずオレ |  |  |
 | imo ichirou | 芋一郎 |  |  |
+| hiiko | 日衣子 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
