@@ -14549,6 +14549,7 @@ example:
 | chiizu ore | ちぃずオレ |  |  |
 | imo ichirou | 芋一郎 |  |  |
 | hiiko | 日衣子 |  |  |
+| nisanka futon | 二酸化布団 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
