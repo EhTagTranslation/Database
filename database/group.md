@@ -7327,7 +7327,7 @@ example:
 | macaroncrown | MacaronCrown |  |  |
 | macaroni ring | マカロニグミ |  |  |
 | macaroni teikoku | マカロニ帝国 |  |  |
-| macchadokoro | 抹茶処 |  |  |
+| macchadokoro | 抹茶处 |  |  |
 | macdoll | macdoll |  |  |
 | machednia | まけどに屋 |  |  |
 | machi no kissaten | 街の喫茶店 |  |  |
