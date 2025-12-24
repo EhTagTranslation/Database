@@ -14546,6 +14546,7 @@ example:
 | manzai sugar | Mz\_\_SUGAR |  | [pixiv](https://www.pixiv.net/users/14730603) |
 | khear | Khear |  | [pixiv](https://www.pixiv.net/users/74518504) |
 | toeki | 吐液 |  |  |
+| chiizu ore | ちぃずオレ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
