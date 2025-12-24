@@ -7912,6 +7912,7 @@ example:
 | liberalio | 莉贝雷利奥 | ![](https://img.3dmgame.com/uploads/images/news/20251103/1762149681_879803.jpg)<br>所属作品：`goddess of victory nikke` |  |
 | sarasa saionji | 彩园寺更纱 | ![](https://ehgt.org/w/02/127/34489-8essqjwq.webp)<br>所属作品：`liar liar` |  |
 | mine | 玛茵 | ![](https://ehgt.org/w/01/970/38375-fjmo8sh9.webp)<br>所属作品：`akame ga kill`<br>Night Raid成员，个性强势，自称射击的天才，双马尾傲娇属性。 |  |
+| tatsumi | 塔兹米 | 所属作品：`akame ga kill`<br>为了解救村庄的窘境而来到帝都想要出人头地的少年剑士。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
