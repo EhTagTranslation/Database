@@ -7905,6 +7905,7 @@ example:
 | krulcifer einfolk | 库露露席法·恩芙尔克 | ![](https://saijaku.jp/img/character_image03.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>クルルシファー·エインフォルク<br>本作女主角之一，从北方的优密尔教国前来王立士官学园就读的留学生，就读二年级，恩芙尔克伯爵家的大小姐，神装机龙〈法夫纳 Fafnir〉的使用者。 |  |
 | yoruka kirihime | 切姬夜架 | ![](https://saijaku.jp/img/character_image12.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>きりひめ よるか<br>被帝国所灭的东方岛国“古都国”的公主，同时是该国最强的机龙使，神装机龙〈夜刀神 Yato no Kami〉的操纵者。 |  |
 | celistia ralgris | 赛莉丝缇雅·兰格莉思 | ![](https://saijaku.jp/img/character_image04.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>セリスティア·ラルグリス<br>四大贵族之一兰格莉思家的大小姐，王立士官学园的三年级生，骑士团的团长，神装机龙〈凛德龙虫 Lindworm〉的使用者。 |  |
+| philuffy aingram | 菲尔菲·爱格兰姆 | ![](https://saijaku.jp/img/character_image05.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>フィルフィ·アイングラム<br>爱格兰姆财团的次女，路克斯的青梅竹马，学园二年级，神装机龙〈堤丰 Typhon〉的使用者。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
