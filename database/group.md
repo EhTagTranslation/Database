@@ -11754,7 +11754,7 @@ example:
 | ura kent no himitsu kichi | 裏KENTの秘密基地 |  |  |
 | ura makura | 裏まくら |  |  |
 | ura meshiya | 裏飯屋 |  |  |
-| ura no hikidashi | うらのひきだし | フェチフェチサン |  |
+| urano hikidashi | うらのひきだし | フェチフェチサン |  |
 | ura no kami | 裏のカミ |  |  |
 | ura urethan | 裏ウレタン |  |  |
 | ura. | URA. |  |  |
@@ -13506,7 +13506,6 @@ example:
 | jirai soft | 地雷ソフト |  |  |
 | syunka kikaku | しゅんか企画 |  |  |
 | rhetoric | れとりっく |  |  |
-| urano hikidashi | フェチフェチサン |  |  |
 | team sinosabi | Team SINOSABI |  | [Twitter](https://x.com/sinosabi) [官方网站](https://sinosabi.net/) |
 | chikashitsu project | 地下室プロジェクト |  |  |
 | spanteikoku | すぱん帝国 |  |  |

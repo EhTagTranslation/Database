@@ -7547,7 +7547,6 @@ example:
 | maitake | まいたけ |  |  |
 | maji | マジ |  |  |
 | majiyoko | まじよこ |  |  |
-| maka kiseki | マカキセキ |  |  |
 | makano mucchi | 摩訶乃ムッチ |  |  |
 | makarou | まかろー |  |  |
 | suta furachina | スター不埒な＠まかそに |  |  |
@@ -12777,7 +12776,7 @@ example:
 | suzuro aruki | スズロアルキ |  |  |
 | moritama | もりたま |  |  |
 | inainaka | 不在中 |  |  |
-| nizigensan | ニジィー | ![X](https://pbs.twimg.com/profile_images/1691785458165116928/X23dfRTt_400x400.png)<br><br>**作者推特头像**<br><br>社团`g:ura no hikidashi`主笔画师 | [X](https://x.com/urano_hikidashi) [pixiv](https://www.pixiv.net/users/21288594) |
+| nizigensan | ニジィー | ![X](https://pbs.twimg.com/profile_images/1691785458165116928/X23dfRTt_400x400.png)<br><br>**作者推特头像**<br><br>社团`g:urano hikidashi`主笔画师 | [X](https://x.com/urano_hikidashi) [pixiv](https://www.pixiv.net/users/21288594) |
 | yaruku | ヤルク |  |  |
 | jeattle | ジアトー |  |  |
 | yoshio ereki | よしおエレキ | ![X](https://pbs.twimg.com/profile_images/1715140983980204032/cjCuGrnv_400x400.jpg)<br><br>**作者推特头像** | [X](https://x.com/yoshioereki) [pixiv](https://www.pixiv.net/users/48437512) |
@@ -13562,7 +13561,6 @@ example:
 | koku | 克 | 克，或称COQ(读作koku)，是`g:purple software`的主力原画师。你所熟知的`p:hapymaher`中的妹妹小恶魔Naitou Maia 内藤 舞亜 就是祂设计的。<br>COQ (read as Koku) is a Japanese adult game artist affiliated with Purple Software. | [VNDB](https://vndb.org/s2155) |
 | freng | freng |  |  |
 | nabi | なび |  |  |
-| tokutokup | 特特P |  |  |
 | tutikure | つちくれ |  | [pixiv](https://www.pixiv.net/users/2816506) [X](https://x.com/nitutituti) |
 | limama | 李妈妈 |  |  |
 | ichi matsuru | 惟千茉鹤 |  |  |
