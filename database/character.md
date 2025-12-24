@@ -7901,6 +7901,7 @@ example:
 | surena lysandra | 斯蕾娜·利桑德拉 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/surena.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>拥有“龙双剑的利桑德拉”称号的双剑使用者。 |  |
 | lucy diamond | 露西·戴亚蒙德 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/lucy.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>莱贝里斯王国魔法师团的团长，外表看起来不过像个小孩，实际上年龄远远超过贝利尔。 |  |
 | mewi freya | 缪伊·芙蕾雅 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/mewi.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>与唯一的血亲——姐姐相依为命，在贫民街中艰难度日。 |  |
+| ficelle harbeller | 菲赛尔·哈维拉 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/ficelle.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>王国魔法师团的王牌魔术师。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
