@@ -12334,7 +12334,7 @@ example:
 | yuzumonaka | ゆずもなか |  |  |
 | yuzupon | YUZUPON |  |  |
 | yuzuriha | 让叶 |  |  |
-| yuzurihaya | 譲葉屋 |  |  |
+| yuzurihaya | 让叶屋 |  |  |
 | yuzuya | ゆずや |  |  |
 | yuzuyu | ゆず湯 |  |  |
 | yz plus | YZ+ |  |  |
