@@ -7924,6 +7924,7 @@ example:
 | kukuri | 久久利伴 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/tomo-kukuri/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | amadea wolfa | 阿玛迪娅・沃尔法 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/amadea-wolfa/img_chara.png)<br>所属作品：`dolphin wave` |  |
 | yuri kurenashi | 暮无夕离 | ![](https://dwave.softstar.com.tw/skin/assets/img/chara/yuri-kurenashi/img_chara.png)<br>所属作品：`dolphin wave` |  |
+| asama | 浅间（猏） | ![](https://patchwiki.biligame.com/images/blhx/thumb/1/14/e19wvuuxfbj0zrpfhjuz7md0algn60v.jpg/525px-浅间立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/f/f7/h3bqco5vklvkuy61nyaqitv9n09t5gw.jpg/525px-浅间换装.jpg)<br>所属作品：`azur lane` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
