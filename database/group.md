@@ -13531,6 +13531,7 @@ example:
 | studio washitsu | Studio和室 |  |  |
 | butajiru | 豚汁 |  |  |
 | yagen nankotsu | YAGENなんこつ |  |  |
+| yuuki hiro | 悠木ヒロ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
