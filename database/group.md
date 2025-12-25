@@ -12333,7 +12333,7 @@ example:
 | yuzumikan | ゆずみかん |  |  |
 | yuzumonaka | ゆずもなか |  |  |
 | yuzupon | YUZUPON |  |  |
-| yuzuriha | 譲葉 |  |  |
+| yuzuriha | 让叶 |  |  |
 | yuzurihaya | 譲葉屋 |  |  |
 | yuzuya | ゆずや |  |  |
 | yuzuyu | ゆず湯 |  |  |
