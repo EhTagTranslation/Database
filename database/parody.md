@@ -2655,6 +2655,7 @@ example:
 | yu-gi-oh tag force | 游戏王：卡片力量 |  |  |
 | kanpekisugite kawaige ga nai to konyaku haki sareta seijo wa ringoku ni urareru | 圣女因太过完美不够可爱而被废除婚约并卖到邻国 | ![](https://cdn.myanimelist.net/images/anime/1263/148318.jpg)<br>冬月光輝创作的小说，并改编有同名动画作品。 |  |
 | jitaku keibiin | 自宅警备队 |  |  |
+| hantsu x trash | 青春水球社 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d4/Hantsu_Trash.jpg)<br>《青春水球社》是日本漫画家小林雏创作的青春运动题材漫画。 | [萌娘百科](https://zh.moegirl.org.cn/青春水球社) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
