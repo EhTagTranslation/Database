@@ -2972,7 +2972,7 @@ example:
 | hayate hisakawa | 久川飒 | ![](https://patchwiki.biligame.com/images/imascg/thumb/7/7a/gmu7kos28mo5ijki0hwl1j2ouotf3uw.png/960px-CGSS-Hayate-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>久川飒（日语：ひさかわはやて） | [萌娘百科](https://zh.moegirl.org.cn/久川飒) [pixiv百科](https://dic.pixiv.net/a/久川颯) [niconico大百科](https://dic.nicovideo.jp/a/久川颯) |
 | nagi hisakawa | 久川凪 | ![](https://img.moegirl.org.cn/common/d/d0/凪の道をゆく_久川凪.jpg)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》<br>久川飒（日语：ひさかわなぎ）《偶像大师 灰姑娘女孩》系列中的元气双子妹偶像。 | [萌娘百科](https://zh.moegirl.org.cn/久川凪) [pixiv百科](https://dic.pixiv.net/a/久川凪) [niconico大百科](https://dic.nicovideo.jp/a/久川凪) |
 | shika kuroi | 黑井诗花 |  |  |
-| nadeshiko kagamihara | 各务原抚子 | 各务原抚子（各務原なでしこ）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/各务原抚子) |
+| nadeshiko kagamihara | 各务原抚子 | 各务原抚子（各務原なでしこ）是由日本漫画家あfろ所创作的漫画《`yuru camp`》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/各务原抚子) |
 | rin shima | 志摩凛 | 志摩凛（志摩リン）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/志摩凛) |
 | chiaki oogaki | 大垣千明 | 大垣千明（大垣千明）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/大垣千明) |
 | aoi inuyama | 犬山葵 | 犬山葵（犬山あおい）是由日本漫画家あfろ所创作的漫画《摇曳露营△》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/犬山葵) |
