@@ -7601,7 +7601,7 @@ example:
 | mamoribito | 守り人 |  |  |
 | mamuru | mamuru |  |  |
 | man | mAn |  |  |
-| manabe jouji | 真鍋譲治 |  |  |
+| manabe jouji | 真锅让治 |  |  |
 | manaka mizuki | マナカミズキ |  |  |
 | manao | まなお |  |  |
 | manarou | まなろう |  |  |
