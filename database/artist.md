@@ -14554,6 +14554,7 @@ example:
 | kosyo | コショウ |  |  |
 | sayakata | さやかた |  |  |
 | doukutsu tamago | 洞窟卵 |  |  |
+| chagama tarou | 茶釜太郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
