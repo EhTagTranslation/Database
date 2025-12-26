@@ -3485,7 +3485,7 @@ example:
 | tachibana nagon | 立花なごん |  |  |
 | takoyaki rock | タコヤキロック |  |  |
 | yuruchin kyouso | ゆるちん教祖 |  |  |
-| mitsuki | ミツ季 |  |  |
+| mitsuki | ミツき |  |  |
 | momono yuuca | もものユーカ |  |  |
 | oyama kina | 大山树奈 | ![X](https://pbs.twimg.com/profile_images/1585070289099968512/wo5ybWGg_400x400.png)<br><br>**作者推特头像** | [X](https://x.com/kinakoweb) [pixiv](https://www.pixiv.net/users/458111) |
 | ronna | ろんな |  |  |
