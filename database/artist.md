@@ -14553,6 +14553,7 @@ example:
 | takahashi rukuna | タカハシルクナ |  |  |
 | kosyo | コショウ |  |  |
 | sayakata | さやかた |  |  |
+| doukutsu tamago | 洞窟卵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
