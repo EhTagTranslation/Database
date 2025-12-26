@@ -14550,6 +14550,7 @@ example:
 | nisanka futon | 二酸化布団 |  |  |
 | futamotu | フタモツ |  |  |
 | uselessbegging | UselessBegging |  | [pixiv](https://www.pixiv.net/users/68946065) |
+| takahashi rukuna | タカハシルクナ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
