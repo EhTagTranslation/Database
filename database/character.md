@@ -7927,6 +7927,7 @@ example:
 | asama | 浅间（猏） | ![](https://patchwiki.biligame.com/images/blhx/thumb/1/14/e19wvuuxfbj0zrpfhjuz7md0algn60v.jpg/525px-浅间立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/f/f7/h3bqco5vklvkuy61nyaqitv9n09t5gw.jpg/525px-浅间换装.jpg)<br>所属作品：`azur lane` |  |
 | lakyus alvein dale aindra | 拉裘斯·亚尔贝因·蒂尔·艾因多拉 | ![](https://static.wikia.nocookie.net/overlordmaruyama/images/9/94/Lakyus_Profile.png)<br>所属作品：`overlord`<br>全名：拉裘斯·亚尔贝因·蒂尔·艾因多拉<br>日文名：ラキュース・アルベイン・デイル・アインドラ<br>称号：苍蓝蔷薇 |  |
 | kyle von pallistan | 凯尔·冯·帕里斯坦 | ![](https://static.wikia.nocookie.net/may-i-ask-for-one-final-thing/images/3/3e/Kyle_Von_Pallistan_Design.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>日文名：カイル・フォン・パリスタン<br>帕里斯坦王国第二王子。<br>虽是斯嘉丽的未婚夫，却在舞会进行到一半时公然废除与她的婚约。 |  |
+| lynae | 琳奈 | ![](https://prod-alicdn-community.kurobbs.com/forum/5fc8ac57b7814a3ebb3264d39320af1520251225.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves`<br>星炬学院的预科学生，个性张扬的外表下充满活力与力量。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
