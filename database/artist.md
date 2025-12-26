@@ -7175,7 +7175,7 @@ example:
 | kozi | kozi |  | [pixiv](https://www.pixiv.net/users/6447934) |
 | kozirow | Kozirow |  |  |
 | kozou | 小僧 |  |  |
-| kozue akari | こずえあかり |  |  |
+| kozue akari | こずえあかり |  | [pixiv](https://www.pixiv.net/users/6009237) |
 | kozy | kozy |  |  |
 | krohudeanna | 黒筆ANnA |  |  |
 | ksg | ksg |  |  |
