@@ -13532,6 +13532,7 @@ example:
 | butajiru | 豚汁 |  |  |
 | yagen nankotsu | YAGENなんこつ |  |  |
 | yuuki hiro | 悠木ヒロ |  |  |
+| panna cotta | パンナコッタなんてこった |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
