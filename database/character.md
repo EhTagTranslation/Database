@@ -7929,6 +7929,7 @@ example:
 | kyle von pallistan | 凯尔·冯·帕里斯坦 | ![](https://static.wikia.nocookie.net/may-i-ask-for-one-final-thing/images/3/3e/Kyle_Von_Pallistan_Design.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>日文名：カイル・フォン・パリスタン<br>帕里斯坦王国第二王子。<br>虽是斯嘉丽的未婚夫，却在舞会进行到一半时公然废除与她的婚约。 |  |
 | lynae | 琳奈 | ![](https://prod-alicdn-community.kurobbs.com/forum/5fc8ac57b7814a3ebb3264d39320af1520251225.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves`<br>星炬学院的预科学生，个性张扬的外表下充满活力与力量。 |  |
 | satsuki momoi | 桃井五月 | ![](https://ehgt.org/w/02/065/97680-pf5k4q68.webp)<br>所属作品：`kuroko no basuke`<br>前任奇迹的世代的球队经理。 |  |
+| natsuki | 夏树 | 夏树（原名：Natsuki）是Team Salvato旗下游戏《心跳文学部》的登场角色<br><br>![夏树](https://storage.moegirl.org.cn/moegirl/commons/5/54/Aklrr-7mgqj.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夏树%28心跳文学部%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
