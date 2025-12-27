@@ -13533,6 +13533,7 @@ example:
 | yagen nankotsu | YAGENなんこつ |  |  |
 | yuuki hiro | 悠木ヒロ |  |  |
 | panna cotta | パンナコッタなんてこった |  |  |
+| seaweed | SeeweeD |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
