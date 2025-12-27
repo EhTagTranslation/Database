@@ -928,7 +928,7 @@ example:
 | kazuma satou | 佐藤和真 | ![佐藤和真](https://ehgt.org/80/8d/808d6355e2fe9a0ca7a6a64f0d6e2a0f0c5ee213-231521-1050-1492-jpg_l.jpg) |  |
 | darkness | 达克妮丝 | ![](https://ehgt.org/w/02/154/61806-uj6yhfpe.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | yunyun | 悠悠 | ![](https://ehgt.org/w/02/170/46039-mk5w8b0k.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
-| wiz | 维兹 | ![维兹](https://ehgt.org/ab/3a/ab3aa98630db78bb1f5c1009385385da898ee2a2-494209-834-1179-jpg_l.jpg) |  |
+| wiz | 维兹 | ![](https://ehgt.org/w/01/974/96467-7e38ngf8.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | chris | 克莉丝 | ![克莉丝](# "https://ehgt.org/af/b5/afb58cc128df5f081d6db9d41c9a64f85a198393-136583-800-1000-jpg_l.jpg") |  |
 |  | ▼ 请问您今天要来点兔子吗？ 角色 |  |  |
 | kokoa hoto | 保登心爱 | ![保登心爱](# "https://ehgt.org/8d/65/8d6540d0b2dd2f9e48c55cb15900f228332addd7-1630906-1050-1492-png_l.jpg") |  |
