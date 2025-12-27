@@ -14557,6 +14557,7 @@ example:
 | chagama tarou | 茶釜太郎 |  |  |
 | basyosyo | ばしょたろう |  |  |
 | agape | Agape |  |  |
+| denki mikan | 电气蜜柑 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
