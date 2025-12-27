@@ -2986,7 +2986,7 @@ example:
 | shitara kaneshiya | 兼志谷シタラ | ![八八式戦闘服](https://cdn.wikiwiki.jp/to/w/alicegear/兼志谷シタラ/::attach/八八式戦闘服.png?rev=65e320be1f32236a0b4324198479e3cb&t=20180131211309) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/兼志谷シタラ) |
 | rin himukai | 日向リン | ![DM00-M](https://cdn.wikiwiki.jp/to/w/alicegear/日向リン/::attach/DM00-M.png?rev=a230241b092d55a34841202ba674a4a5&t=20180131213513) | [アリス・ギア・アイギス 攻略 Wiki](https://wikiwiki.jp/alicegear/日向リン) |
 | giorno giovanna | 乔鲁诺·乔巴拿 | 漫画JOJO的奇妙冒险第五部黄金之风的主角。<br>第一部和第三部的反派BOSS迪奥·布兰度的儿子。 | [萌娘百科](https://zh.moegirl.org.cn/乔鲁诺·乔巴拿) |
-| belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 |  |  |
+| belzerg stylish sword iris | 贝尔泽古·斯黛莉休·索德·爱丽丝 | ![](https://ehgt.org/w/01/989/03951-co88u0m3.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | hibiki tsukahara | 冢原响 |  |  |
 | junichi tachibana | 橘纯一 |  |  |
 | mafuyu kirisu | 桐须真冬 | ![](https://i.pixiv.cat/img-master/img/2025/09/03/09/48/38/134656875_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中的教师，文乃与理珠的初代教育者。负责帮助学园长处理教学事务。<br>所教授的科目是世界史。 | [萌娘百科](https://zh.moegirl.org.cn/桐须真冬) |
