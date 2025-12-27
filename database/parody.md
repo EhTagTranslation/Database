@@ -2659,6 +2659,7 @@ example:
 | mattaku saikin no tantei tokitara | 最近的侦探真没用 | ![](https://cdn.myanimelist.net/images/anime/1323/149460.jpg)<br>《最近的侦探真没用》（日语：まったく最近の探偵ときたら）是由五十岚正邦创作的一部漫画，并有动画等衍生作品。 |  |
 | clevatess majuu no ou to akago to shikabane no yuusha | 克雷瓦提斯-魔兽之王与婴儿与尸之勇者 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922516332.webp)<br>岩原裕二创作的漫画作品，并有同名改编动画。 |  |
 | towa no yugure | 永远的黄昏 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924706046.webp)<br>《永远的黄昏》（外文名：永久のユウグレ/Dusk Beyond the End of the World/영원한 황혼）是由津田尚克自编自导、齐藤佳子负责角色设计、P.A.WORKS负责动画制作的原创电视动画作品。 |  |
+| hachi-nan tte sore wa nai deshou | 八男？别闹了！ | ![](https://img9.doubanio.com/view/subject/s/public/s28680275.jpg)<br>《八男？别闹了！》是由日本作家Y.A创作的轻小说，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
