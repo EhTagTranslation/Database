@@ -7937,6 +7937,7 @@ example:
 | mashiro nakanishi | 中西真白 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2b/46/163361_crt_904sR.jpg?r=1751439592)<br>所属作品：`mattaku saikin no tantei tokitara`<br>立志成为侦探、精神满满的女子高中生。 |  |
 | alicia glenfall | 阿莉西亚·格伦弗尔 | ![](https://static.wikia.nocookie.net/kurebatesu/images/7/7a/Alicia_Infobox.png)<br>所属作品：`clevatess majuu no ou to akago to shikabane no yuusha`<br>作为海登王授予至宝“严燕”的勇者，她是曾获“剑圣”称号勇者的后代，也是讨伐魔兽王克雷瓦提斯的13名勇者之一。 |  |
 | amoru | 亚莫鲁 | ![](https://static.wikia.nocookie.net/towa-no-yugure/images/d/d6/Amoru.png)<br>所属作品：`towa no yugure`<br>正在寻找一本曾经由父母创作的绘本，但在未来的世界里，这本书被当作禁书。 |  |
+| yugure | 黄昏 | ![](https://static.wikia.nocookie.net/towa-no-yugure/images/d/d6/Yūgure.png)<br>所属作品：`towa no yugure`<br>在未来的世界向晃求婚的机器人，外表与永远如出一辙。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
