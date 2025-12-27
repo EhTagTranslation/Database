@@ -7942,6 +7942,7 @@ example:
 | jabba the hutt | 贾巴·赫特 | 所属作品：`star wars`<br>著名的赫特人犯罪头目。 |  |
 | reina sakuya | 咲夜蕾娜 | ![](https://static.wikia.nocookie.net/digimon/images/6/6c/Reina_Sakuya_t.gif)<br>所属作品：`digimon`<br>从人类的思考和感情中产生的“e-脉冲”，作为AI辅助设备“支援蛋”的能量源被活用。 |  |
 | kirika towa alma | 雾香·永羽·亚尔玛 | ![](https://vignette2.wikia.nocookie.net/shining/images/a/a8/SR_Kirika_Towa_Alma.png)<br>所属作品：`shining resonance`<br>继承了操控大自然精灵力的魔法之歌“圣歌印”，作为精灵族的“歌巫女”，是一位拥有特别能力的少女。 |  |
+| nemu kurotsuchi | 涅音梦 | ![](https://ehgt.org/w/02/121/87004-6zidxto6.webp)<br>所属作品：`bleach`<br>前护廷十三队十二番队副队长，前女性死神协会代理副会长。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
