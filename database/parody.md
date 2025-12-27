@@ -2661,6 +2661,7 @@ example:
 | towa no yugure | 永远的黄昏 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924706046.webp)<br>《永远的黄昏》（外文名：永久のユウグレ/Dusk Beyond the End of the World/영원한 황혼）是由津田尚克自编自导、齐藤佳子负责角色设计、P.A.WORKS负责动画制作的原创电视动画作品。 |  |
 | hachi-nan tte sore wa nai deshou | 八男？别闹了！ | ![](https://img9.doubanio.com/view/subject/s/public/s28680275.jpg)<br>《八男？别闹了！》是由日本作家Y.A创作的轻小说，并有同名改编动画。 |  |
 | hazure skill kinomi master | 最弱技能 “果实大师” | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915577372.webp)<br>全名 最弱技能《果实大师》 ～关于能无限食用技能果实(吃了就会死)这件事～ |  |
+| princess evangile | 福音公主 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
