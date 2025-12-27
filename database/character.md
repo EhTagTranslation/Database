@@ -924,7 +924,7 @@ example:
 |  | ▲ My Little Pony 角色 |  |  |
 |  | ▼ 为美好的世界献上祝福 角色 |  |  |
 | aqua | 阿库娅 | ![](https://ehgt.org/w/02/108/98127-8r0el2ru.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
-| megumin | 惠惠 | 惠惠(英语：Megumin) 所属作品:`p:kono subarashii sekai ni syukufuku o`<br>是晓枣所创作的轻小说《为美好的世界献上祝福！》及其衍生作品中的登场角色<br>![惠惠](# "https://ehgt.org/06/5d/065df8812a2f62109769a307e62aea7a9d9faa84-934158-1082-1518-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/惠惠%28为美好的世界献上祝福%29#) |
+| megumin | 惠惠 | ![](https://ehgt.org/w/02/157/48576-6dr0824n.webp)<br>所属作品:`p:kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/惠惠%28为美好的世界献上祝福%29#) |
 | kazuma satou | 佐藤和真 | ![佐藤和真](https://ehgt.org/80/8d/808d6355e2fe9a0ca7a6a64f0d6e2a0f0c5ee213-231521-1050-1492-jpg_l.jpg) |  |
 | darkness | 达克妮丝 | ![](https://ehgt.org/w/02/154/61806-uj6yhfpe.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | yunyun | 悠悠 | ![](https://ehgt.org/w/02/170/46039-mk5w8b0k.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
