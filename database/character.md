@@ -7941,6 +7941,7 @@ example:
 | yoiyami | 宵暗 | ![](https://lain.bgm.tv/pic/crt/l/88/85/183618_crt_1FO6F.jpg)<br>所属作品：`towa no yugure`<br>与黄昏长相相同的OWEL特殊部队的队长之一。 |  |
 | jabba the hutt | 贾巴·赫特 | 所属作品：`star wars`<br>著名的赫特人犯罪头目。 |  |
 | reina sakuya | 咲夜蕾娜 | ![](https://static.wikia.nocookie.net/digimon/images/6/6c/Reina_Sakuya_t.gif)<br>所属作品：`digimon`<br>从人类的思考和感情中产生的“e-脉冲”，作为AI辅助设备“支援蛋”的能量源被活用。 |  |
+| kirika towa alma | 雾香·永羽·亚尔玛 | ![](https://vignette2.wikia.nocookie.net/shining/images/a/a8/SR_Kirika_Towa_Alma.png)<br>所属作品：`shining resonance`<br>继承了操控大自然精灵力的魔法之歌“圣歌印”，作为精灵族的“歌巫女”，是一位拥有特别能力的少女。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
