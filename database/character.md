@@ -925,7 +925,7 @@ example:
 |  | ▼ 为美好的世界献上祝福 角色 |  |  |
 | aqua | 阿库娅 | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f4/AquaAqua.png)<br>所属作品：`kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/阿库娅%28为美好的世界献上祝福%29#) |
 | megumin | 惠惠 | ![](https://ehgt.org/w/02/157/48576-6dr0824n.webp)<br>所属作品:`p:kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/惠惠%28为美好的世界献上祝福%29#) |
-| kazuma satou | 佐藤和真 | ![佐藤和真](https://ehgt.org/80/8d/808d6355e2fe9a0ca7a6a64f0d6e2a0f0c5ee213-231521-1050-1492-jpg_l.jpg) |  |
+| kazuma satou | 佐藤和真 | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f3/佐藤和真.png)<br>所属作品：`kono subarashii sekai ni syukufuku o` | [萌娘百科](https://zh.moegirl.org.cn/佐藤和真) |
 | darkness | 达克妮丝 | ![](https://ehgt.org/w/02/154/61806-uj6yhfpe.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | yunyun | 悠悠 | ![](https://ehgt.org/w/02/170/46039-mk5w8b0k.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | wiz | 维兹 | ![](https://ehgt.org/w/01/974/96467-7e38ngf8.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
