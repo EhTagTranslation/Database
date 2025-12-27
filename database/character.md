@@ -7940,6 +7940,7 @@ example:
 | yugure | 黄昏 | ![](https://static.wikia.nocookie.net/towa-no-yugure/images/d/d6/Yūgure.png)<br>所属作品：`towa no yugure`<br>在未来的世界向晃求婚的机器人，外表与永远如出一辙。 |  |
 | yoiyami | 宵暗 | ![](https://lain.bgm.tv/pic/crt/l/88/85/183618_crt_1FO6F.jpg)<br>所属作品：`towa no yugure`<br>与黄昏长相相同的OWEL特殊部队的队长之一。 |  |
 | jabba the hutt | 贾巴·赫特 | 所属作品：`star wars`<br>著名的赫特人犯罪头目。 |  |
+| reina sakuya | 咲夜蕾娜 | ![](https://static.wikia.nocookie.net/digimon/images/6/6c/Reina_Sakuya_t.gif)<br>所属作品：`digimon`<br>从人类的思考和感情中产生的“e-脉冲”，作为AI辅助设备“支援蛋”的能量源被活用。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
