@@ -7935,6 +7935,7 @@ example:
 | yuiyui | 唯唯 | ![](https://ehgt.org/w/01/765/84316-h8v1d54r.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>惠惠的母亲。 |  |
 | hana kazamaki | 风卷花 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d4/1d/165411_crt_tQTQu.jpg?r=1751439707)<br>所属作品：`mattaku saikin no tantei tokitara`<br>翌桧的助手，大家都叫她“小卷”。 |  |
 | mashiro nakanishi | 中西真白 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2b/46/163361_crt_904sR.jpg?r=1751439592)<br>所属作品：`mattaku saikin no tantei tokitara`<br>立志成为侦探、精神满满的女子高中生。 |  |
+| alicia glenfall | 阿莉西亚·格伦弗尔 | ![](https://static.wikia.nocookie.net/kurebatesu/images/7/7a/Alicia_Infobox.png)<br>所属作品：`clevatess majuu no ou to akago to shikabane no yuusha`<br>作为海登王授予至宝“严燕”的勇者，她是曾获“剑圣”称号勇者的后代，也是讨伐魔兽王克雷瓦提斯的13名勇者之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
