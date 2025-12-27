@@ -929,7 +929,7 @@ example:
 | darkness | 达克妮丝 | ![](https://ehgt.org/w/02/154/61806-uj6yhfpe.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | yunyun | 悠悠 | ![](https://ehgt.org/w/02/170/46039-mk5w8b0k.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 | wiz | 维兹 | ![](https://ehgt.org/w/01/974/96467-7e38ngf8.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
-| chris | 克莉丝 | ![克莉丝](# "https://ehgt.org/af/b5/afb58cc128df5f081d6db9d41c9a64f85a198393-136583-800-1000-jpg_l.jpg") |  |
+| chris | 克莉丝 | ![](https://ehgt.org/w/01/985/36926-nxzkmfo1.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
 |  | ▼ 请问您今天要来点兔子吗？ 角色 |  |  |
 | kokoa hoto | 保登心爱 | ![保登心爱](# "https://ehgt.org/8d/65/8d6540d0b2dd2f9e48c55cb15900f228332addd7-1630906-1050-1492-png_l.jpg") |  |
 | chino kafuu | 香风智乃 | ![香风智乃](# "https://ehgt.org/4a/74/4a7451ef3c0faf3955386a01a369d5a7a1ac6729-895080-2119-3000-jpg_l.jpg") ![智麻惠小队](# "https://ehgt.org/92/37/9237e3f26118e0051fcbc4a3fc28eca075eaa7d8-4893694-2452-3467-jpg_l.jpg") |  |
