@@ -7934,6 +7934,7 @@ example:
 | claire field symphonia | 克莱儿·诗芳尼亚 | ![](https://ehgt.org/w/01/897/94517-kgnxoj3s.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>贝尔泽古王国的公主的教育专员兼护卫。 |  |
 | yuiyui | 唯唯 | ![](https://ehgt.org/w/01/765/84316-h8v1d54r.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>惠惠的母亲。 |  |
 | hana kazamaki | 风卷花 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d4/1d/165411_crt_tQTQu.jpg?r=1751439707)<br>所属作品：`mattaku saikin no tantei tokitara`<br>翌桧的助手，大家都叫她“小卷”。 |  |
+| mashiro nakanishi | 中西真白 | ![](https://lain.bgm.tv/r/400/pic/crt/l/2b/46/163361_crt_904sR.jpg?r=1751439592)<br>所属作品：`mattaku saikin no tantei tokitara`<br>立志成为侦探、精神满满的女子高中生。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
