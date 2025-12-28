@@ -13538,6 +13538,7 @@ example:
 | tca cycle | クエン酸回路 |  |  |
 | p and i | P&I |  |  |
 | bluevery | ブルベリ |  |  |
+| watsondou | わとそん堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
