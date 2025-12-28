@@ -14558,6 +14558,7 @@ example:
 | basyosyo | ばしょたろう |  |  |
 | agape | Agape |  |  |
 | denki mikan | 电气蜜柑 |  |  |
+| usagino kuua | 兎野くうあ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
