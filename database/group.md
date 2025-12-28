@@ -13534,6 +13534,7 @@ example:
 | yuuki hiro | 悠木ヒロ |  |  |
 | panna cotta | パンナコッタなんてこった |  |  |
 | seaweed | SeaweeD |  |  |
+| inbeat | インビート |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
