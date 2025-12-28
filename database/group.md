@@ -13536,6 +13536,7 @@ example:
 | seaweed | SeaweeD |  |  |
 | inbeat | インビート |  |  |
 | tca cycle | クエン酸回路 |  |  |
+| p and i | P&I |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
