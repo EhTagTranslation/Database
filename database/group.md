@@ -13535,6 +13535,7 @@ example:
 | panna cotta | パンナコッタなんてこった |  |  |
 | seaweed | SeaweeD |  |  |
 | inbeat | インビート |  |  |
+| tca cycle | クエン酸回路 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
