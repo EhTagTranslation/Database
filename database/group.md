@@ -13539,6 +13539,7 @@ example:
 | p and i | P&I |  |  |
 | bluevery | ブルベリ |  |  |
 | watsondou | わとそん堂 |  |  |
+| tamabian | 多摩尾庵 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
