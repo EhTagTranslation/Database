@@ -2665,6 +2665,7 @@ example:
 | grancrest senki | 皇帝圣印战记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508675489.webp)<br>《皇帝圣印战记》是由水野良创作、深遊负责插画的轻小说，并有同名改编动画。 |  |
 | tomodachi no imouto ga ore ni dake uzai | 朋友的妹妹只喜欢烦我 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924616384.webp)<br>《朋友的妹妹只喜欢烦我》是三河ごーすと创作的轻小说作品，并有同名改编漫画和动画。 |  |
 | kubo-san wa mob o yurusanai | 久保同学不放过我 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885016904.webp)<br>《久保同学不放过我》是日本漫画家雪森宁宁创作的校园漫画 |  |
+| salaryman ga isekai ni ittara shitennou ni natta hanashi | 上班族去了异世界后成了四天王 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916194637.webp)<br>《平凡上班族到异世界当上了四天王的故事》是由ベニガシラ负责故事原作、村光执笔作画的奇幻职场题材网络漫画，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
