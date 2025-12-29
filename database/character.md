@@ -7978,6 +7978,7 @@ example:
 | natsuki aoi | 葵菜月 | ![](https://static.wikia.nocookie.net/animevice/images/c/c1/Natsuki_Aoi_MangaGamer_Profile.jpg)<br>所属作品：`euphoria` |  |
 | atla fayon | 阿朵拉 | ![](https://static.wikia.nocookie.net/the-rising-of-the-shield-hero/images/e/e4/Atla_Light_Novel.png)<br>所属作品：`tate no yuusha no nariagari` |  |
 | saika fuuma | 风魔灾祸 | ![](https://static.wikia.nocookie.net/taimanin/images/3/34/Fuuma_Saika_4.png)<br>所属作品：`taimanin rpg` |  |
+| rei ichinose | 一之濑怜 | ![](https://static.wikia.nocookie.net/idoly-pride/images/f/f7/Ichinose_Rei_2.png)<br>所属作品：`idoly pride` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
