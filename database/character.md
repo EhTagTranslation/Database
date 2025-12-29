@@ -5329,7 +5329,7 @@ example:
 | aesc the savior | 救世主梣 | 救世主梣（雨之魔女梣）是TYPE-MOON旗下手机游戏《Fate/Grand Order》的八周年活动从者，职阶为魔术师。<br>![](https://bkimg.cdn.bcebos.com/pic/b21c8701a18b87d6277f08ef615f3f381f30e82457b1?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/救世主梣（雨之魔女梣）?fromModule=lemma_search-box) |
 | morgan | 摩根 |  |  |
 | aphrodite | 阿佛洛狄忒 | ![](https://ehgt.org/w/01/959/80577-kbsjd2ym.webp)<br>所属作品：`shuumatsu no valkyrie` |  |
-| kotarou fuuma | 风魔小太郎 |  |  |
+| kotarou fuuma | 风魔小太郎 | ![](https://static.wikia.nocookie.net/taimanin/images/f/f5/Fuuma_Kotarou_2.png)<br>所属作品：`taimanin rpg` |  |
 | boggart | 博格特 |  |  |
 | tezcatlipoca | 特斯卡特利波卡 | （烟雾镜） |  |
 | arjuna | 阿周那 |  |  |
