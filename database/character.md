@@ -5751,7 +5751,7 @@ example:
 | marvelous sunday | 美丽周日 | ![](https://moegirl.icu/media/thumb/UPDCH_MarvelousSunday_00.png/580px-UPDCH_MarvelousSunday_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹マーベラスサンデー（Marvelous Sunday）。 | [萌娘百科](https://moegirl.icu/美丽周日) |
 | suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
 | suzume amano | 天野铃莓 | ![](https://moegirl.uk/images/7/7a/Suzume_prin_cone.png)<br>所属作品：`princess connect`<br>日语：天野（あまの） すずめ） | [萌娘百科](https://moegirl.uk/天野铃莓) |
-| tomo mikuma | 御久间智 | ![](https://moegirl.uk/images/2/27/Tomo_prin_cone.png)<br>御久间智（日语：御久間（みくま） 智（とも））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为智（日语：トモ）。 | [萌娘百科](https://moegirl.uk/御久间智) |
+| tomo mikuma | 御久间智 | ![](https://moegirl.uk/images/2/27/Tomo_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/御久间智)<br>[BILIGAME WIKI](https://wiki.biligame.com/pcr/智) |
 | jun shirogane | 白银纯 | ![](https://moegirl.uk/images/6/60/Jun_prin_cone.png)<br>白银纯（日语：白銀（しろがね） 純（じゅん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为纯（日语：ジュン）。 | [萌娘百科](https://moegirl.uk/白银纯) |
 | misaki tamaizumi | 玉泉美咲 | ![](https://moegirl.uk/images/d/d6/Misaki_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/玉泉美咲) |
 | nanaka tanno | 丹野七七香 | ![](https://moegirl.uk/images/3/36/Nanaka_prin_cone.png)<br>丹野七七香（日语：丹野（たんの） 七々香（ななか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为七七香（日语：ナナカ）。 | [萌娘百科](https://moegirl.uk/丹野七七香) |
