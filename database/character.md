@@ -3256,7 +3256,7 @@ example:
 | jill valentine | 吉尔·瓦伦蒂安 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1029/h_3210/1253/4408/2025/8/29/890445.png)<br>电子游戏《生化危机》系列的女主角之一，曾在《生化危机1》《生化危机3》《生化危机 启示录》担任主角。 | [吉尔·瓦伦蒂安][维基百科](https://zh.wikipedia.org/wiki/吉兒·范倫廷) |
 | exusiai | 能天使 | ![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
-| hatsune kashiwazaki | 柏崎初音 |  |  |
+| hatsune kashiwazaki | 柏崎初音 | ![](https://static.wikia.nocookie.net/princess-connect/images/a/a5/Hatsune_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mdr | MDR \| 卡萝 | MDR是由云母组研发、暗冬网络发行的战术策略养成类游戏《少女前线》（英：Girls' Frontline）及其衍生作品的登场角色。于2018.3.22加入游戏。`p:girls frontline`<br>![](https://www.gfwiki.org/images/7/72/Pic_MDR_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://iopwiki.com/images/8/83/Kuro_base2.png) | [萌娘百科](https://zh.moegirl.org.cn/少女前线:MDR)<br>[少前百科GFwiki](https://gfwiki.org/w/MDR)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/卡萝) |
 | keqing | 刻晴 | ![](https://patchwiki.biligame.com/images/ys/e/e1/2q8rniqvsdsydnxhvemenvfz0cp6ugc.gif)<br>所属作品:`p:genshin impact`<br>璃月七星之一，玉衡星。对「帝君一言而决的璃月」颇有微词——但实际上，神挺欣赏她这样的人。 | [萌娘百科](https://zh.moegirl.org.cn/刻晴) |
 | atsuko kagari | 篝敦子 | 从日本而来，志愿成为魔女的少女。因小时候着迷于闪耀夏莉奥的魔法秀，立志成为魔女于是来到了新月魔法学校，虽然不擅长魔法，但会乐观向前地朝着成为夏莉奥那样的魔女而努力。 | [萌娘百科](https://zh.moegirl.org.cn/篝敦子) |
