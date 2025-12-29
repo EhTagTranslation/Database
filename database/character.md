@@ -4697,7 +4697,7 @@ example:
 | kagura mea | 神乐Mea | 神乐Mea（日语：神楽めあ 英语：Kagura Mea）是一名 `vtuber` | [萌娘百科](https://zh.moegirl.org.cn/神乐Mea) |
 | gabriel | 加百列 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040492000_01.png)<br>所属作品:`p:granblue fantasy` |  |
 | europa | 欧罗巴 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/2d/Zoom_3040226000_01.png)<br>所属作品:`p:granblue fantasy` |  |
-| neneka utsushimi | 现士实似似花 | 现士实似似花（日语：現士実（うつしみ） 似々花（ねねか）英语：neneka utsushimi）所属作品:`p:princess connect`<br>是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。<br>![](https://img.moegirl.org.cn/common/7/73/Neneka-Full.png) | [萌娘百科](https://zh.moegirl.org.cn/现士实似似花) |
+| neneka utsushimi | 现士实似似花 | ![](https://img.moegirl.org.cn/common/7/73/Neneka-Full.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/现士实似似花) |
 | penny | 牡丹 | 所属作品：`pokemon`<br>![](https://img.moegirl.org.cn/common/6/66/Penny_PMSV.png)<br>牡丹（日语：ボタン，英语：Penny） | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
 | arslan | 亚尔斯兰 |  |  |
 | tobio kageyama | 影山飞雄 |  | [萌娘百科](https://zh.moegirl.org.cn/影山飞雄) |
