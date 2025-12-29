@@ -5752,7 +5752,7 @@ example:
 | suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
 | suzume amano | 天野铃莓 | ![](https://moegirl.uk/images/7/7a/Suzume_prin_cone.png)<br>所属作品：`princess connect`<br>日语：天野（あまの） すずめ） | [萌娘百科](https://moegirl.uk/天野铃莓) |
 | tomo mikuma | 御久间智 | ![](https://moegirl.uk/images/2/27/Tomo_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/御久间智)<br>[BILIGAME WIKI](https://wiki.biligame.com/pcr/智) |
-| jun shirogane | 白银纯 | ![](https://moegirl.uk/images/6/60/Jun_prin_cone.png)<br>白银纯（日语：白銀（しろがね） 純（じゅん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为纯（日语：ジュン）。 | [萌娘百科](https://moegirl.uk/白银纯) |
+| jun shirogane | 白银纯 | ![](https://moegirl.uk/images/6/60/Jun_prin_cone.png)<br>所属作品：`princess connect`<br>日语：ジュン。 | [萌娘百科](https://moegirl.uk/白银纯) |
 | misaki tamaizumi | 玉泉美咲 | ![](https://moegirl.uk/images/d/d6/Misaki_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/玉泉美咲) |
 | nanaka tanno | 丹野七七香 | ![](https://moegirl.uk/images/3/36/Nanaka_prin_cone.png)<br>丹野七七香（日语：丹野（たんの） 七々香（ななか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为七七香（日语：ナナカ）。 | [萌娘百科](https://moegirl.uk/丹野七七香) |
 | ruka tachiarai | 太刀洗流夏 | ![](https://moegirl.uk/images/8/89/Ruka_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/太刀洗流夏) |
