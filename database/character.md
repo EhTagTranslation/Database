@@ -5446,7 +5446,7 @@ example:
 | nayuki minase | 水濑名雪 | 水濑名雪是Key出品的Galgame《Kanon》的登场人物，女主角之一。<br>![](https://img.moegirl.org.cn/common/c/c8/Kanon-Nayuki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水濑名雪) |
 | taira no kagekiyo | 平景清 | 游戏《Fate/Grand Order》的登场人物，Avenger职阶的从者。<br>![](https://img.moegirl.org.cn/common/3/3d/粉色沙滩.png) | [萌娘百科](https://zh.moegirl.org.cn/平景清%28Fate%29#) |
 | misora nagare | 流美空 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/74/Character_Misora_Full_Body_Art.png)<br>所属作品：`princess connect` |  |
-| akino toudou | 藤堂秋乃 |  |  |
+| akino toudou | 藤堂秋乃 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/58/Akino_%28game%29.png)<br>所属作品：`princess connect` |  |
 | kuuka tomi | 远见空花 |  | [萌娘百科](https://zh.moegirl.org.cn/远见空花) |
 | yori kazemiya | 风宫依里 |  | [萌娘百科](https://zh.moegirl.org.cn/风宫依里) |
 | hindenburg | 兴登堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/24c3af212a0cb9d239189a02a8c47072262400697.png)<br>![](https://i0.hdslb.com/bfs/article/7b5f00500a7aa87141cac510deda347e298252208.png) | [https://wiki.lesta.ru/ru/Navy:Hindenburg](https://wiki.lesta.ru/ru/Navy:Hindenburg)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/兴登堡) |
