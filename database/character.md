@@ -3552,7 +3552,7 @@ example:
 | izmir | 伊休米尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/0/07/Zoom_3040343000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/ba/Zoom_3040100000_01.png)<br>所属作品：`granblue fantasy` |  |
 | razia | 拉丝缇娜 | ![](https://huiji-public.huijistatic.com/gbf/uploads/5/5e/Zoom_3030257000_01.png)<br>所属作品：`granblue fantasy` |  |
 | magisa | 玛姬莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/3d/Zoom_3040412000_01.png)<br>所属作品：`granblue fantasy` |  |
-| anna hiiragi | 柊杏奈 | 公主连结re:dive角色<br>![](https://img.moegirl.org.cn/common/thumb/d/d5/Hiiragi_anna_pc.png/420px-Hiiragi_anna_pc.png) | [萌娘百科](https://zh.moegirl.org.cn/柊杏奈) |
+| anna hiiragi | 柊杏奈 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/75/Anna_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/柊杏奈) |
 | shirley fenette | 夏莉·菲内特 | ![](https://patchwiki.biligame.com/images/loststories/b/b3/ixa6x9aybjgxrr25tbehb3itnz3w7f0.png)<br>![](https://patchwiki.biligame.com/images/loststories/7/75/lxsvl09eo099h34q2x27z7atp4gela9.png)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/夏莉·菲内特) (\*\*) |
 | milly ashford | 米蕾·阿什福德 | ![](https://patchwiki.biligame.com/images/loststories/d/db/q1ygrhf7i0090csppy80cmfzqufrnrq.png)<br>![](https://patchwiki.biligame.com/images/loststories/0/0d/mzujygl2cdzdsmyh26vvlmnhnman6d8.png)<br>![](https://patchwiki.biligame.com/images/loststories/9/94/bmdlb3gxbxotbze14yffxa33lw9xy2r.png)<br>所属作品：`code geass` |  |
 | anya alstreim | 阿妮亚·阿鲁斯特莱依姆 | ![](https://img.moegirl.org.cn/common/5/5e/Anya.jpg)<br>所属作品：`code geass`<br>布里塔尼亚皇帝直属的圆桌骑士团的第六骑士。 | [萌娘百科](https://zh.moegirl.org.cn/阿妮亚·阿鲁斯特莱依姆) (\*\*) |
