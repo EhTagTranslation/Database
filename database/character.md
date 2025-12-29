@@ -3282,7 +3282,7 @@ example:
 | shizuru hoshino | 星野静流 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/ba/Shizuru_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mifuyu ogami | 大神美冬 |  |  |
 | tamaki miyasaka | 宫坂珠希 |  | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
-| yuuki | 佑树 |  |  |
+| yuuki | 佑树 | 所属作品：`princess connect`<br>游戏男主角，外号骑士君。 |  |
 | yaya | 夜夜 |  | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
 | parvati | 帕尔瓦蒂 |  |  |
 | okada izou | 冈田以藏 |  |  |
