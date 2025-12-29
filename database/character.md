@@ -7949,6 +7949,7 @@ example:
 | irene redmayne | 艾琳·雷德梅茵 | ![](https://storage.moegirl.org.cn/moegirl/commons/0/0f/Ailin.png)<br>所属作品：`heaven burns red`<br>英国伦敦分部派遣过来的名侦探，同时也是炽天使队员。 |  |
 | minori ohshima | 大岛三野里 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/2e/Sanyeliss01.png)<br>所属作品：`heaven burns red`<br>驰骋最短路径的超快速送货员。 |  |
 | shiki hanamura | 华村诗纪 | ![](https://storage.moegirl.org.cn/moegirl/commons/6/6e/Huacunshiji.png)<br>所属作品：`heaven burns red`<br>怜惜少女的华丽指挥家。 |  |
+| mion yanagi | 柳美音 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/78/Meiyin.png)<br>所属作品：`heaven burns red`<br>完美无缺的万能管家。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
