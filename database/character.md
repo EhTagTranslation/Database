@@ -4422,7 +4422,7 @@ example:
 | monika | 莫妮卡 | 所属作品: `p:doki doki literature club`<br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ef/Monika_Illustration.png)<br>**唯一**女主角 | [莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
 | tania | 塔妮雅 |  |  |
 | barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
-| ameth | 爱梅斯 |  |  |
+| ameth | 爱梅斯 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/e1/Ames_%28game%29.png)<br>所属作品：`princess connect` |  |
 | aoi futaba | 双叶碧 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/20/Aoi_%28game%29.png)<br>所属作品：`princess connect` |  |
 | roselia | 绯之罗赛莉亚 |  |  |
 | goldenglow | 澄闪 | ![](https://patchwiki.biligame.com/images/arknights/2/26/a97ho6x13l9deh0inonopt74hnnwkvm.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:澄闪) [PRTS](https://prts.wiki/w/澄闪) |
