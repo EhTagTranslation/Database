@@ -7981,6 +7981,7 @@ example:
 | rei ichinose | 一之濑怜 | ![](https://static.wikia.nocookie.net/idoly-pride/images/f/f7/Ichinose_Rei_2.png)<br>所属作品：`idoly pride` |  |
 | yu suzumura | 铃村优 | ![](https://static.wikia.nocookie.net/idoly-pride/images/d/d3/Suzumura_Yu_1.png)<br>所属作品：`idoly pride` |  |
 | frey | 芙蕾 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/4/4d/Frey_Anime.png)<br>所属作品：`tensei shitara slime datta ken` |  |
+| tarte | 塔儿朵 | ![](https://storage.moegirl.org.cn/moegirl/commons/6/6f/Tarte_anime.png)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
