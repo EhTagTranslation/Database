@@ -2662,6 +2662,7 @@ example:
 | hachi-nan tte sore wa nai deshou | 八男？别闹了！ | ![](https://img9.doubanio.com/view/subject/s/public/s28680275.jpg)<br>《八男？别闹了！》是由日本作家Y.A创作的轻小说，并有同名改编动画。 |  |
 | hazure skill kinomi master | 最弱技能 “果实大师” | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2915577372.webp)<br>全名 最弱技能《果实大师》 ～关于能无限食用技能果实(吃了就会死)这件事～ |  |
 | princess evangile | 福音公主 |  |  |
+| grancrest senki | 皇帝圣印战记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508675489.webp)<br>《皇帝圣印战记》是由水野良创作、深遊负责插画的轻小说，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
