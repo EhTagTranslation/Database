@@ -7973,6 +7973,7 @@ example:
 | kanade | 奏 | ![](https://beasttamer.jp/assets/character/2c.png)<br>所属作品：`yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau`<br>最强种之一，濒临灭绝的猫灵族少女。 |  |
 | runa | 露娜 | ![](https://beasttamer.jp/assets/character/5c.png)<br>所属作品：`yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau`<br>最强种之一，身为索拉双胞胎妹妹的精灵族少女。 |  |
 | ulmandra | 乌儿曼妲 | ![](https://static.wikia.nocookie.net/headhunted-to-another-world/images/5/5e/Urmander.png)<br>所属作品：`salaryman ga isekai ni ittara shitennou ni natta hanashi`<br>魔王军四天王之一。 |  |
+| sylphid | 席尔菲德 | ![](https://static.wikia.nocookie.net/headhunted-to-another-world/images/8/84/Sylphid.png)<br>所属作品：`salaryman ga isekai ni ittara shitennou ni natta hanashi`<br>魔王军四天王之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
