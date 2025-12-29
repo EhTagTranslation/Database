@@ -7986,6 +7986,7 @@ example:
 | elena | 伊莲娜 | 所属作品：`final fantasy vii` |  |
 | tsugumi | 来须眠 | ![](https://ehgt.org/w/01/982/07173-gmh1nl9k.webp)<br>所属作品：`guilty crown` |  |
 | ayase shinomiya | 筱宫绫濑 | ![](https://static.wikia.nocookie.net/guiltycrown/images/5/52/Dress1.jpg)<br>所属作品：`guilty crown` |  |
+| az sainklaus | 雅兹·圣克劳斯 | ![](https://static.wikia.nocookie.net/super-robot-wars-gu-universe/images/9/9f/Az.webp)<br>所属作品：`super robot wars` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
