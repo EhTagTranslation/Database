@@ -3657,7 +3657,7 @@ example:
 | chieru kazama | 风间千爱瑠 |  | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
 | hanako kuroe | 黑江花子（克罗依） |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
 | kasumi kirihara | 雾原霞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/75/Kasumi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
-| makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
+| makoto aki | 安艺真琴 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/ca/Makoto_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 | ![](https://moegirl.uk/images/4/49/Kurisuteina_moogan.png)<br>日语：クリスティーナ・モーガン<br>所属作品:`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
 | mythra | 光 | ![](https://img.moegirl.org.cn/common/thumb/5/57/XC2_Mythra.2.png/243px-XC2_Mythra.2.png)<br>游戏《`xenoblade chronicles 2`》的登场角色，女主角之一。胸前镶嵌着十字架形状翠绿色的核心水晶，再次苏醒后水晶中间缺失了[X]形状的部分。缺失的部分是作为光和焰一半的生命转移给了现任御刃者莱克斯。 | [萌娘百科](https://zh.moegirl.org.cn/光%28异度神剑%29#) |
 | pyra | 焰 | 游戏《`xenoblade chronicles 2`》的登场角色，女主角之一。被世人称作「天之圣杯」的传说级“异刃”，由幽界的神明所直接创造的亚种生命体，外形与年轻丰满的人类女性无异，却是有着令凡夫俗子望而却步的能力的强大存在，与年轻的打捞员少年·莱克斯结下深刻牵绊的少女。![](https://img.moegirl.org.cn/common/thumb/6/63/XC2_Pyra.png/201px-XC2_Pyra.png) | [萌娘百科](https://zh.moegirl.org.cn/焰%28异度神剑%29#) |
