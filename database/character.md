@@ -2836,7 +2836,7 @@ example:
 | kyouka hikawa | 冰川镜华 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/e3/Kyoka_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
-| saren sasaki | 佐佐木咲恋 | ![佐佐木咲恋](# "https://ehgt.org/90/56/9056281b64c3ab47cca0237afc534349702359ce-3425005-2180-3000-jpg_250.jpg")<br>佐佐木咲恋是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为咲恋。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木咲恋) |
+| saren sasaki | 佐佐木咲恋 | ![](https://static.wikia.nocookie.net/princess-connect/images/0/0b/Saren_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/佐佐木咲恋) |
 | niyon | 妮欧 | ![](https://huiji-public.huijistatic.com/gbf/uploads/b/b8/Zoom_3040038000_81.png)<br>所属作品：`granblue fantasy` |  |
 | yuel | 尤艾尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/95/Zoom_3040580000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/d/dc/Zoom_3040210000_01.png)<br>所属作品：`granblue fantasy` |  |
 | societte | 苏丝雅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/af/Zoom_3040241000_01.png)<br>所属作品：`granblue fantasy` |  |
