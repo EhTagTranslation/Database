@@ -7953,6 +7953,7 @@ example:
 | ayane hojo | 北条绫音 | ![](https://static.wikia.nocookie.net/princess-connect/images/3/3b/Ayane_%28game%29.png)<br>所属作品：`princess connect`<br>所属公会咲恋救济院。 |  |
 | lyrael | 莱拉尔 | ![](https://static.wikia.nocookie.net/princess-connect/images/8/8e/Lyrael_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mahiru noto | 野户真阳 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/5f/Mahiru_%28game%29.png)<br>所属作品：`princess connect`<br>所属公会为伊丽莎白牧场 |  |
+| rino inosaki | 井崎璃乃 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/2e/Rino_%28game%29.png)<br>所属作品：`princess connect` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
