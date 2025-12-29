@@ -2833,7 +2833,7 @@ example:
 | kasumi chigusa | 千种霞 |  |  |
 | ange katrina | 安洁·卡特莉娜 |  |  |
 | cagliostro | 卡莉奥斯特萝 | ①所属作品：`granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/4/4a/Zoom_3710058000_01.png)<br>日文名为カリオストロ，外号老男人。<br>————<br>②动画《战姬绝唱》第四季中登场的角色。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/47/a4/54852_crt_LOtB1.jpg?r=1563013706) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝幻想:卡里奥斯特罗)<br>[萌娘百科](https://zh.moegirl.org.cn/卡里奥斯特罗%28战姬绝唱%29#) |
-| kyouka hikawa | 冰川镜华 | ![](https://img.moegirl.org.cn/common/thumb/9/92/Hikawa_kyouka_pc.png/420px-Hikawa_kyouka_pc.png)<br>冰川镜华（日语：氷川（ひかわ） 鏡華（きょうか））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为镜华（日语：キョウカ）。 | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
+| kyouka hikawa | 冰川镜华 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/e3/Kyoka_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
 | retoree | 莱托莉 |  |  |
 | cyan hijirikawa | 希安（圣川诗杏） |  |  |
 | saren sasaki | 佐佐木咲恋 | ![佐佐木咲恋](# "https://ehgt.org/90/56/9056281b64c3ab47cca0237afc534349702359ce-3425005-2180-3000-jpg_250.jpg")<br>佐佐木咲恋是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为咲恋。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐木咲恋) |
