@@ -7983,6 +7983,7 @@ example:
 | frey | 芙蕾 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/4/4d/Frey_Anime.png)<br>所属作品：`tensei shitara slime datta ken` |  |
 | tarte | 塔儿朵 | ![](https://storage.moegirl.org.cn/moegirl/commons/6/6f/Tarte_anime.png)<br>所属作品：`sekai saikou no ansatsusha isekai kizoku ni tensei suru` |  |
 | evertsen | 埃佛森 | ![](https://patchwiki.biligame.com/images/blhx/thumb/6/6e/77j1p070yoxkv39ntak6e5wd8wx4epw.jpg/525px-埃佛森换装.jpg)<br>所属作品：`azur lane` |  |
+| elena | 伊莲娜 | 所属作品：`final fantasy vii` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
