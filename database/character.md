@@ -3327,7 +3327,7 @@ example:
 | reki kyan | 喜屋武历 | 动画《SK8 无限滑板》男主角之一。配音为畠中祐。 |  |
 | myne | 梅茵 |  | [萌娘百科](https://zh.moegirl.org.cn/梅茵) |
 | ferdinand | 斐迪南 |  | [萌娘百科](https://zh.moegirl.org.cn/斐迪南) |
-| misato aikawa | 爱川美里 |  | [萌娘百科](https://zh.moegirl.org.cn/爱川美里) |
+| misato aikawa | 爱川美里 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/c6/Misato_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/爱川美里) |
 | mitama yakumo | 八云御魂 |  | [萌娘百科](https://zh.moegirl.org.cn/八云御魂) |
 | momoko togame | 十咎桃子 |  | [萌娘百科](https://zh.moegirl.org.cn/十咎桃子) |
 | aurelia le guin | 奥蕾莉亚·勒瑰恩 |  |  |
