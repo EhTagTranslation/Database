@@ -3281,7 +3281,7 @@ example:
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
 | shizuru hoshino | 星野静流 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/ba/Shizuru_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mifuyu ogami | 大神美冬 |  |  |
-| tamaki miyasaka | 宫坂珠希 |  | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
+| tamaki miyasaka | 宫坂珠希 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e1/Tamaki_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
 | yuuki | 佑树 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/42/Yuuki_shadowverse.jpg)<br>所属作品：`princess connect`<br>游戏男主角，外号骑士君。 | [萌娘百科](https://zh.moegirl.org.cn/佑树) |
 | yaya | 夜夜 |  | [萌娘百科](https://zh.moegirl.org.cn/夜夜) |
 | parvati | 帕尔瓦蒂 |  |  |
