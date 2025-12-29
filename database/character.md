@@ -2964,7 +2964,7 @@ example:
 | yumiko miura | 三浦优美子 | ![](https://p.sda1.dev/7/58737b311f851b29b0378929950e63d6/Oregairu7.5_1_.jpg) |  |
 | chiyo sakura | 佐仓千代 |  |  |
 | umetarou nozaki | 野崎梅太郎 |  |  |
-| akari kazemiya | 风宫茜里 |  |  |
+| akari kazemiya | 风宫茜里 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/2e/Akari_%28game%29.png)<br>所属作品：`princess connect` |  |
 | ilya ornstein | 伊莉雅·奥恩斯坦 | ![](https://img.moegirl.org.cn/common/4/4b/Iriya_oonsutain.png)<br>所属作品：`princess connect`<br><br>传说中的吸血鬼，也是“恶魔伪王国军”的创建者，一直想要征服世界，曾率领魔族军队与人类，精灵和兽人族展开一场大战，结果战败被封印在水晶里，数十年后被前来寻找吸血鬼的忍解开封印。 | [萌娘百科](https://zh.moegirl.org.cn/伊莉亚·奥恩斯坦) |
 | miyako izumo | 出云宫子 | ![Miyako\_prin\_cone](https://img.moegirl.org.cn/common/1/16/Miyako_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/出云宫子) |
 | shinobu kamiki | 上喜忍 | 上喜忍，出身于灵媒世家，现在是兰德索尔的占卜师，做着驱邪的工作。<br>虽然是占卜师，然而因为自身灵力不足经常猜不准而被阵营的其他成员吐槽。<br>有一个十分好色的父亲，虽然已经变成骷髅头的样子，但因为喜欢骚扰路过的女性而常常被忍教训。因为骑士和忍走得比较近，引起了“父亲”的嫉妒，因此“父亲”对骑士抱有一定的敌意，甚至还想诅咒骑士，但最后没能成功还被忍训斥了一顿<br>![Shinobu\_prin\_cone](https://img.moegirl.org.cn/common/b/bd/Shinobu_prin_cone.png) | [萌娘百科](https://zh.moegirl.org.cn/上喜忍) |
