@@ -14561,6 +14561,7 @@ example:
 | usagino kuua | 兎野くうあ |  |  |
 | bluevery king | ブルベリ王 |  |  |
 | keimo | 啓モ |  |  |
+| sabakan | 佐波缶 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
