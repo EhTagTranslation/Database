@@ -1088,7 +1088,7 @@ example:
 | kumi | 九魅 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=52f5a0859a25bc312b5d01906edf8de7/1c20961bb051f819f9187601d9b44aed2e73e76a.jpg)<br>所属作品：`senran kagura` |  |
 | kuroudo | 藏人 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=8f2881a741a7d933bfa8e47b9d4ad194/ecd830ce36d3d539369bb4703987e950342ab095.jpg)<br>所属作品：`senran kagura` |  |
 | mai | 舞 | ①所属作品：`senran kagura`<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=5844d09935d12f2ece05ae687fc3d5ff/7f9d810f4bfbfbed88cc87317bf0f736aec31f9c.jpg)<br>②<br>出自TH05-东方怪绮谈<br>![图](https://ehgt.org/f7/b9/f7b99413defcbd21f6e590f37cd97d0b438bde0b-675208-1024-768-png_l.jpg) |  |
-| meimei | 美莓 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=672c68b78444ebf86d716437e9f8d736/f4fa8286c9177f3e6b45adb973cf3bc79e3d56c6.jpg)<br>所属作品：`senran kagura` |  |
+| meimei | 美莓 \| 梅梅 | ①美莓<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=672c68b78444ebf86d716437e9f8d736/f4fa8286c9177f3e6b45adb973cf3bc79e3d56c6.jpg)<br>所属作品：`senran kagura`<br><br>②梅梅<br>![](https://ehgt.org/w/02/172/27870-e6m8z4wu.webp)<br>所属作品：`kusuriya no hitorigoto` |  |
 | minori | 美野里 | ![](https://img.moegirl.org.cn/common/c/c3/闪乱神乐-美野里.jpg)<br>所属作品：`senran kagura` |  |
 | mirai | 未来 | ![](https://imgsa.baidu.com/forum/w%3D580/sign=e7970b9616ce36d3a20483380af23a24/62229c12c8fcc3ce7fdf3e7f9145d688d43f2015.jpg)<br>所属作品：`senran kagura` |  |
 | misato | 深里 | ![](https://imgsa.baidu.com/forum/pic/item/82ddeb1b9d16fdfaa8adcfa5b78f8c5495ee7b6d.jpg)<br>所属作品：`senran kagura` |  |
