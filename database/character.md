@@ -7968,6 +7968,7 @@ example:
 | iroha kohinata | 小日向彩羽 | ![](https://ehgt.org/w/02/173/42511-h6qgvzic.webp)<br>所属作品：`tomodachi no imouto ga ore ni dake uzai` |  |
 | misaki gundou | 群堂美咲 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/3/35/284678.jpg)<br>所属作品：`tomo-chan wa onnanoko` |  |
 | amaterasu | 天照 | ![](https://static.wikia.nocookie.net/fire-brigade-of-flames/images/9/99/First_Pillar.png)<br>所属作品：`enen no shouboutai` |  |
+| nagisa kubo | 久保渚咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/76/116363_crt_kJZUR.jpg?r=1674173383)<br>所属作品：`kubo-san wa mob o yurusanai` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
