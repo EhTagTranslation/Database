@@ -7943,7 +7943,7 @@ example:
 | reina sakuya | 咲夜蕾娜 | ![](https://static.wikia.nocookie.net/digimon/images/6/6c/Reina_Sakuya_t.gif)<br>所属作品：`digimon`<br>从人类的思考和感情中产生的“e-脉冲”，作为AI辅助设备“支援蛋”的能量源被活用。 |  |
 | kirika towa alma | 雾香·永羽·亚尔玛 | ![](https://vignette2.wikia.nocookie.net/shining/images/a/a8/SR_Kirika_Towa_Alma.png)<br>所属作品：`shining resonance`<br>继承了操控大自然精灵力的魔法之歌“圣歌印”，作为精灵族的“歌巫女”，是一位拥有特别能力的少女。 |  |
 | nemu kurotsuchi | 涅音梦 | ![](https://ehgt.org/w/02/121/87004-6zidxto6.webp)<br>所属作品：`bleach`<br>前护廷十三队十二番队副队长，前女性死神协会代理副会长。 |  |
-| tohru adachi | 安达樱 | 所属作品：`adachi to shimamura`<br>时常在上课时间翘课，是老师和学生公认的不良少女。 |  |
+| tohru adachi | 足立透 |  |  |
 | erika aoi | 苍井绘里香 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/1f/Aoi_Erika.png)<br>所属作品：`heaven burns red`<br>31B 的部队长。 |  |
 | misato nikaido | 二阶堂三乡 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/33/Nikaidou_Misato.png)<br>所属作品：`heaven burns red`<br>31D的队长，冷静的思考系角色。 |  |
 | irene redmayne | 艾琳·雷德梅茵 | ![](https://storage.moegirl.org.cn/moegirl/commons/0/0f/Ailin.png)<br>所属作品：`heaven burns red`<br>英国伦敦分部派遣过来的名侦探，同时也是炽天使队员。 |  |
