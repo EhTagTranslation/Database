@@ -7980,6 +7980,7 @@ example:
 | saika fuuma | 风魔灾祸 | ![](https://static.wikia.nocookie.net/taimanin/images/3/34/Fuuma_Saika_4.png)<br>所属作品：`taimanin rpg` |  |
 | rei ichinose | 一之濑怜 | ![](https://static.wikia.nocookie.net/idoly-pride/images/f/f7/Ichinose_Rei_2.png)<br>所属作品：`idoly pride` |  |
 | yu suzumura | 铃村优 | ![](https://static.wikia.nocookie.net/idoly-pride/images/d/d3/Suzumura_Yu_1.png)<br>所属作品：`idoly pride` |  |
+| frey | 芙蕾 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/4/4d/Frey_Anime.png)<br>所属作品：`tensei shitara slime datta ken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
