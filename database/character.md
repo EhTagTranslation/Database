@@ -5759,7 +5759,7 @@ example:
 | mitsuki yoigahama | 宵滨深月 | ![](https://moegirl.uk/images/f/f0/Mitsuki_prin_cone.png)<br>宵滨深月（日语：宵ヶ浜（よいがはま） 深月（みつき））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为深月（日语：ミツキ）。 | [萌娘百科](https://moegirl.uk/宵滨深月) |
 | rin morichika | 森近铃 | ![](https://moegirl.uk/images/5/54/Rin_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/森近铃) |
 | riri tokugawa | 德川莉莉 | ![](https://moegirl.uk/images/1/15/Tokukawa_Riri_PCR.png)<br>德川莉莉（日语：徳川（とくかわ） 莉々（りり））是Cygames开发和发行的游戏《公主连结Re:Dive》的登场角色。在游戏世界内的ID为莉莉（日语：リリ）。 | [萌娘百科](https://moegirl.uk/德川莉莉) |
-| precia wiseman | 普雷西娅·怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
+| precia wiseman | 普雷西娅·怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png)<br>所属作品：`princess connect` | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
 | quria | 久央璃亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/4/43/fwap3641s1qz8ss8ihn5o6cxcgz3abb.png/178px-可璃亚（堕天使）其他.png) | [BILIGAME WIKI](https://wiki.biligame.com/pcr/可璃亚（堕天使）) |
 | yume kuchinashi | 栀子梦 | 所属作品：`p:blue archive`<br>前阿拜多斯学生会的会长，总是挂着笑容。性格天真烂漫，总是冒冒失失的。喜欢幻想，相信着奇迹发生。<br>![](https://img.moegirl.org.cn/common/0/04/BA_Yume.png) | [百度百科](https://baike.baidu.com/item/栀子梦/64386409) |
 | riki naoe | 直枝理树 | ![](https://static.wikia.nocookie.net/littlebusters/images/9/98/Riki_Icon.png) | [萌娘百科](https://zh.moegirl.org.cn/直枝理树) |
