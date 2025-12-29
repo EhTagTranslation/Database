@@ -3656,7 +3656,7 @@ example:
 | sutera | 斯黛拉 | ![斯黛拉](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3040303000_01.png)<br>所属作品：`granblue fantasy`<br>日文名：スーテラ | [碧蓝幻想官网](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=38)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040303000) |
 | chieru kazama | 风间千爱瑠 |  | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
 | hanako kuroe | 黑江花子（克罗依） |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
-| kasumi kirihara | 雾原霞 |  | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
+| kasumi kirihara | 雾原霞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/75/Kasumi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 | makoto aki | 安艺真琴 |  | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 | ![](https://moegirl.uk/images/4/49/Kurisuteina_moogan.png)<br>日语：クリスティーナ・モーガン<br>所属作品:`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
 | mythra | 光 | ![](https://img.moegirl.org.cn/common/thumb/5/57/XC2_Mythra.2.png/243px-XC2_Mythra.2.png)<br>游戏《`xenoblade chronicles 2`》的登场角色，女主角之一。胸前镶嵌着十字架形状翠绿色的核心水晶，再次苏醒后水晶中间缺失了[X]形状的部分。缺失的部分是作为光和焰一半的生命转移给了现任御刃者莱克斯。 | [萌娘百科](https://zh.moegirl.org.cn/光%28异度神剑%29#) |
