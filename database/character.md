@@ -7959,6 +7959,7 @@ example:
 | fubuki bandei | 布武机吹雪 | ![](https://patchwiki.biligame.com/images/pcr/c/ca/sgoa6wm8d7tc7qljsusg7ydpz7scfc0.png)<br>所属作品：`princess connect`<br>时髦的超级天才！盗贼公会的三妹。 |  |
 | kaiser insight | 霸瞳皇帝 | ![](https://patchwiki.biligame.com/images/pcr/thumb/e/e6/f54bdlrs996236keonr2bfe1p0t5lou.png/384px-霸瞳皇帝.png)<br>所属作品：`princess connect` | [BILIGAME WIKI](https://wiki.biligame.com/pcr/霸瞳皇帝) |
 | labyrista | 模索路晶 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/aa/Labyrista.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/模索路晶) |
+| kurumi kuribayashi | 栗林胡桃 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/ec/Kurumi_prin_cone.png)<br>所属作品：`princess connect` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
