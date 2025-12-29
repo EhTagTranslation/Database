@@ -4782,7 +4782,7 @@ example:
 | ares | 阿瑞斯 |  |  |
 | hippolyta | 希波吕忒 |  |  |
 | ms. marvel | 惊奇女士 |  |  |
-| io hasekura | 支仓伊绪 |  |  |
+| io hasekura | 支仓伊绪 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/2f/Io_%28game%29.png)<br>所属作品：`princess connect` |  |
 | tuscaloosa | 塔斯卡卢萨 | 塔斯卡卢萨号巡洋舰（USS Tuscaloosa，CA-37）是美国海军新奥尔良级巡洋舰的四号舰。 | [艦これ- 攻略 Wiki-Tuscaloosa](https://wikiwiki.jp/kancolle/Tuscaloosa) |
 | heywood l.e. | 海伍德·L·E | 海伍德·L·爱德华兹号驱逐舰（USS Heywood L.Edwards，DD-663）属于美国海军的弗莱彻级驱逐舰子型舰。 | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Heywood%20L.E.) |
 | ranger | 突击者 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/7020be689907c040fdec87a4b49d5b67262400697.png) | [艦これ- 攻略 Wiki\*](https://wikiwiki.jp/kancolle/Ranger) |
