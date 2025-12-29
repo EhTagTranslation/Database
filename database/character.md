@@ -7946,6 +7946,7 @@ example:
 | tohru adachi | 安达樱 | 所属作品：`adachi to shimamura`<br>时常在上课时间翘课，是老师和学生公认的不良少女。 |  |
 | erika aoi | 苍井绘里香 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/1f/Aoi_Erika.png)<br>所属作品：`heaven burns red`<br>31B 的部队长。 |  |
 | misato nikaido | 二阶堂三乡 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/33/Nikaidou_Misato.png)<br>所属作品：`heaven burns red`<br>31D的队长，冷静的思考系角色。 |  |
+| irene redmayne | 艾琳·雷德梅茵 | ![](https://storage.moegirl.org.cn/moegirl/commons/0/0f/Ailin.png)<br>所属作品：`heaven burns red`<br>英国伦敦分部派遣过来的名侦探，同时也是炽天使队员。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
