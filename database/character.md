@@ -5445,7 +5445,7 @@ example:
 | encore | 安可 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/f/fe/rx5k45b1l1q1h4sftt6dfb5yvoyaple.png/511px-Mc_wiki_role_encore_x1500.png)<br>所属作品：`wuthering waves`<br>与黑白羊咩玩偶为伴的小女孩，黑海岸客卿安可，渴望用糖果、童话和幻想创造有着幸福结局的故事。 | [萌娘百科](https://zh.moegirl.org.cn/安可%28鸣潮%29#) |
 | nayuki minase | 水濑名雪 | 水濑名雪是Key出品的Galgame《Kanon》的登场人物，女主角之一。<br>![](https://img.moegirl.org.cn/common/c/c8/Kanon-Nayuki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/水濑名雪) |
 | taira no kagekiyo | 平景清 | 游戏《Fate/Grand Order》的登场人物，Avenger职阶的从者。<br>![](https://img.moegirl.org.cn/common/3/3d/粉色沙滩.png) | [萌娘百科](https://zh.moegirl.org.cn/平景清%28Fate%29#) |
-| misora nagare | 流美空 |  |  |
+| misora nagare | 流美空 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/74/Character_Misora_Full_Body_Art.png)<br>所属作品：`princess connect` |  |
 | akino toudou | 藤堂秋乃 |  |  |
 | kuuka tomi | 远见空花 |  | [萌娘百科](https://zh.moegirl.org.cn/远见空花) |
 | yori kazemiya | 风宫依里 |  | [萌娘百科](https://zh.moegirl.org.cn/风宫依里) |
