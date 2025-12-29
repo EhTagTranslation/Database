@@ -7956,6 +7956,7 @@ example:
 | rino inosaki | 井崎璃乃 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/2e/Rino_%28game%29.png)<br>所属作品：`princess connect` |  |
 | homare tohno | 远野帆稀 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/72/Homare_%28game%29.png)<br>所属作品：`princess connect` |  |
 | ayumi ishibashi | 石桥步美 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/bd/Ayumi_%28game%29.png)<br>所属作品：`princess connect` |  |
+| fubuki bandei | 布武机吹雪 | ![](https://patchwiki.biligame.com/images/pcr/c/ca/sgoa6wm8d7tc7qljsusg7ydpz7scfc0.png)<br>所属作品：`princess connect`<br>时髦的超级天才！盗贼公会的三妹。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
