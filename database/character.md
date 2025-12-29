@@ -3354,7 +3354,7 @@ example:
 | estelle bright | 艾丝蒂尔·布莱特 |  |  |
 | klose rinz | 科洛丝·琳希 |  | [萌娘百科](https://zh.moegirl.org.cn/科洛蒂娅·冯·奥赛雷丝) |
 | chika misumi | 三角千歌 |  | [萌娘百科](https://zh.moegirl.org.cn/三角千歌) |
-| tsumugi mayumiya | 茧宫纺希 |  | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
+| tsumugi mayumiya | 茧宫纺希 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/ba/Tsumugi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/茧宫纺希) |
 | nozomi sakurai | 樱井望 |  | [萌娘百科](https://zh.moegirl.org.cn/樱井望) |
 | zhongli | 钟离 | 钟离（英语：zhongli）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/9/9b/钟离.jpg) | [萌娘百科](https://zh.moegirl.org.cn/钟离) |
 | ningguang | 凝光 | ![](https://patchwiki.biligame.com/images/ys/4/40/0nygxbl4z7350l8o0fxkx920ckorfrt.gif)<br>所属作品:`p:genshin impact`<br>「璃月七星」中的「天权」，其名下财富之多，全大陆鲜有人能望其项背。 | [萌娘百科](https://zh.moegirl.org.cn/凝光) |
