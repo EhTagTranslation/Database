@@ -7955,6 +7955,7 @@ example:
 | mahiru noto | 野户真阳 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/5f/Mahiru_%28game%29.png)<br>所属作品：`princess connect`<br>所属公会为伊丽莎白牧场 |  |
 | rino inosaki | 井崎璃乃 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/2e/Rino_%28game%29.png)<br>所属作品：`princess connect` |  |
 | homare tohno | 远野帆稀 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/72/Homare_%28game%29.png)<br>所属作品：`princess connect` |  |
+| ayumi ishibashi | 石桥步美 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/bd/Ayumi_%28game%29.png)<br>所属作品：`princess connect` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
