@@ -7985,6 +7985,7 @@ example:
 | evertsen | 埃佛森 | ![](https://patchwiki.biligame.com/images/blhx/thumb/6/6e/77j1p070yoxkv39ntak6e5wd8wx4epw.jpg/525px-埃佛森换装.jpg)<br>所属作品：`azur lane` |  |
 | elena | 伊莲娜 | 所属作品：`final fantasy vii` |  |
 | tsugumi | 来须眠 | ![](https://static.wikia.nocookie.net/guiltycrown/images/d/d4/Guilty-Crown00102.jpg)<br>所属作品：`guilty crown` |  |
+| ayase shinomiya | 筱宫绫濑 | ![](https://static.wikia.nocookie.net/guiltycrown/images/5/52/Dress1.jpg)<br>所属作品：`guilty crown` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
