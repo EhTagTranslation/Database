@@ -7966,6 +7966,7 @@ example:
 | karin | 观崎佳凛 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/5c/Karin-Full.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/观崎佳凛) |
 | rika manabe | 真边莉佳 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/1c/Manabe_Rika.jpg)<br>所属作品：`makai tenshi jibril` |  |
 | iroha kohinata | 小日向彩羽 | ![](https://ehgt.org/w/02/173/42511-h6qgvzic.webp)<br>所属作品：`tomodachi no imouto ga ore ni dake uzai` |  |
+| misaki gundou | 群堂美咲 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/3/35/284678.jpg)<br>所属作品：`tomo-chan wa onnanoko` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
