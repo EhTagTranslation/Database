@@ -3621,7 +3621,7 @@ example:
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
 | ronye arabel | 罗妮耶·亚拉贝尔 |  | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ab/9opi8r3rjjjj9dibcy8wq28qdi4v9c3.png/960px-CGSS-Tamami-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 | [萌娘百科](https://zh.moegirl.org.cn/胁山珠美) |
-| mimi akane | 茜美美 | ![茜美美](https://img.moegirl.org.cn/common/f/f4/Akane_mimi_pc.png)<br>茜 ミミ（あかね ミミ），是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为美美（日语：ミミ） | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
+| mimi akane | 茜美美 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/c3/Mimi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
 | ashley graham | 阿什莉·格拉汉姆 | 阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 |  |
 | mutsuki asagi | 浅黄睦月 | ![](https://patchwiki.biligame.com/images/ba/d/d4/iiq0s90kmugn93i07c9tu8sjkv0a1mq.png)<br>![](https://patchwiki.biligame.com/images/ba/d/d2/5tcfjgri2x0f35dq7gqpyqss8to2j5u.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_532/h_1080/829/399789/2024/4/15/400734.png)<br>所属作品：`p:blue archive`<br>格黑娜学园所属，便利屋68的行动派。与容易不由自主地受罪恶感所困扰的阿露不同，她在干坏事之前毫不犹豫，是一位像以麻烦事为乐的小恶魔一样的少女。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mutsuki) |
 | ryo matsunaga | 松永凉 | ![](https://patchwiki.biligame.com/images/imascg/thumb/e/e2/bmlr0klt9wlc2gm2t4igsj0p3ltoqqy.png/960px-CGSS-Ryo-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 | [萌娘百科](https://zh.moegirl.org.cn/松永凉) |
