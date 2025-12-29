@@ -7975,6 +7975,7 @@ example:
 | ulmandra | 乌儿曼妲 | ![](https://static.wikia.nocookie.net/headhunted-to-another-world/images/5/5e/Urmander.png)<br>所属作品：`salaryman ga isekai ni ittara shitennou ni natta hanashi`<br>魔王军四天王之一。 |  |
 | sylphid | 席尔菲德 | ![](https://static.wikia.nocookie.net/headhunted-to-another-world/images/8/84/Sylphid.png)<br>所属作品：`salaryman ga isekai ni ittara shitennou ni natta hanashi`<br>魔王军四天王之一。 |  |
 | margaret | 玛格丽特 | ![](https://static.wikia.nocookie.net/megamitensei/images/9/96/Margaret.png)<br>所属作品：`persona 4`<br>伊戈尔的助手，也是游戏中天鹅绒房间唯一的侍者。 |  |
+| natsuki aoi | 葵菜月 | ![](https://static.wikia.nocookie.net/animevice/images/c/c1/Natsuki_Aoi_MangaGamer_Profile.jpg)<br>所属作品：`euphoria` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
