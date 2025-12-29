@@ -3279,7 +3279,7 @@ example:
 | alfin reise arnor | 艾尔芬·莱泽·亚诺尔 | ![图](## "https://ehgt.org/10/97/1097c33c1e90faf7d70a5faae1165305ac2d87bf-5932198-2480-3508-jpg_l.jpg")圣亚斯特莱亚女子学院／埃雷波尼亚帝国皇女<br><br>在民间拥有超高人气的埃雷波尼亚帝国皇女。与《旧Ⅶ班》的关系密切，声援著黎恩。<br><br>【兄长的遗物】<br><br>艾尔芬和黎恩一同前往兄长的故乡，执起他的遗物鲁特琴，献上一曲「琥珀之爱」。做好了面对弟弟赛德利克的觉悟。<br><br>【祈祷父亲恢复】<br><br>心情上虽然想守在父亲身边，但现在却有身为皇女必须完成之事，目送前往照料的母亲离开。 | [https://trails-game.com/character/alfin-reise-arnor/](https://trails-game.com/character/alfin-reise-arnor/) |
 | chen hui-chieh | 陈晖洁 | ![](https://patchwiki.biligame.com/images/arknights/5/56/35zxnoozj5d8nw8bdys30n9mydm2vc6.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:陈) |
 | hermione granger | 赫敏·格兰杰 | 《哈利·波特》系列女主角，生于1979年9月19日，出身于一个普通中产阶级家庭。 十一岁时，赫敏得知自己是一个女巫，需要去霍格沃茨魔法学校上学。 |  |
-| shizuru hoshino | 星野静流 |  |  |
+| shizuru hoshino | 星野静流 | ![](https://static.wikia.nocookie.net/princess-connect/images/b/ba/Shizuru_%28game%29.png)<br>所属作品：`princess connect` |  |
 | mifuyu ogami | 大神美冬 |  |  |
 | tamaki miyasaka | 宫坂珠希 |  | [萌娘百科](Dhttps://zh.moegirl.org.cn/宫坂珠希) |
 | yuuki | 佑树 |  |  |
