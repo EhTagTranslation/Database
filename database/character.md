@@ -7894,7 +7894,7 @@ example:
 | amina | 阿米娜 | ![](https://pica.zhimg.com/100/v2-fdcbd201a0ad97671f0b7c52e6018d4e_r.jpg)<br>所属作品：`genshin impact`<br>纳塔地区「流泉之众」部族的女性首领。 |  |
 | suzune inukami | 犬上铃音 | ![](https://chiyumahou-anime.com/wp-content/themes/chiyumahou-anime_v1/assets/images/common/character/img_suzune_front.png)<br>所属作品：`chiyu mahou no machigatta tsukaikata` |  |
 | rose | 萝兹 | ![](https://chiyumahou-anime.com/wp-content/themes/chiyumahou-anime_v1/assets/images/common/character/img_rose_front.png)<br>所属作品：`chiyu mahou no machigatta tsukaikata` |  |
-| lishu | 里树 |  |  |
+| lishu | 里树 | ![](https://ehgt.org/w/01/759/38434-phtcoxp4.webp)<br>所属作品：`kusuriya no hitorigoto` |  |
 | bois belleau | 贝劳森林 | ![](https://patchwiki.biligame.com/images/blhx/thumb/0/03/1ri9p8p0751wv0szt5jvw5ivbc6vfe9.jpg/525px-贝劳森林立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/d/d7/t3bd73vci3bq1aa4spvflqu5flnlkt4.jpg/525px-贝劳森林换装.jpg)<br>所属作品：`azur lane` |  |
 | allucia citrus | 艾露西亚·西特拉斯 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/allucia.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>莱贝里奥骑士团的团长。 |  |
 | rose marbleheart | 萝丝·玛波哈特 | ![](https://ossan-kensei.com/core_sys/images/main/cont/chara/rose.png)<br>所属作品：`katainaka no ossan kensei ni naru`<br>斯芬多雅德瓦尼亚教会骑士团副团长。 |  |
