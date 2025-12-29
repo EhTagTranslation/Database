@@ -3655,7 +3655,7 @@ example:
 | metera | 美黛拉 | ![梅忒拉](http://asia.sega.com/versus.granbluefantasy/assets/images/pc/common/characters/full_metera.png)<br>所属作品：`granblue fantasy`<br>日文名：メーテラ<br>天赋异禀的艾伦族女性。 | [碧蓝幻想Versus](http://asia.sega.com/versus.granbluefantasy/#metera)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040072000) |
 | sutera | 斯黛拉 | ![斯黛拉](https://huiji-public.huijistatic.com/gbf/uploads/e/e3/Zoom_3040303000_01.png)<br>所属作品：`granblue fantasy`<br>日文名：スーテラ | [碧蓝幻想官网](https://granbluefantasy.jp/theatre/detail.php?contents=character&id=38)<br>[碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040303000) |
 | chieru kazama | 风间千爱瑠 | ![](https://static.wikia.nocookie.net/princess-connect/images/9/90/Chieru_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/风间千爱瑠) |
-| hanako kuroe | 黑江花子（克罗依） |  | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
+| hanako kuroe | 黑江花子（克罗依） | ![](https://static.wikia.nocookie.net/princess-connect/images/e/e4/Chloe_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/黑江花子) |
 | kasumi kirihara | 雾原霞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/75/Kasumi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/雾原霞) |
 | makoto aki | 安艺真琴 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/ca/Makoto_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/安艺真琴) |
 | christina morgan | 克莉丝提娜·摩根 | ![](https://moegirl.uk/images/4/49/Kurisuteina_moogan.png)<br>日语：クリスティーナ・モーガン<br>所属作品:`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/克莉丝提娜·摩根) |
