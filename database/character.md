@@ -3028,7 +3028,7 @@ example:
 | kudou chitose | 久远千岁 | 久远千岁（日语：久遠千歳）是一名于2019年1月10日在YouTube开始活动的`vtuber`，业界团体彩虹社的成员。于2019年8月31日引退。<br>![久远千岁](https://img.moegirl.org.cn/common/thumb/e/e8/久远千岁.jpg/166px-久远千岁.jpg) | [X](https://x.com/kudou_chitose) [YouTube](https://www.youtube.com/channel/UCP2o-o6u4uX3uq1hXspl0rg) [萌娘百科](https://zh.moegirl.org.cn/久远千岁) |
 | higuchi kaede | 樋口枫 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2020/09/18/00/00/10/84437725_p0_master1200.jpg)<br>樋口楓（Higuchi Kaede）是隶属于彩虹社的`vtuber`，高中二年生。<br>粉丝群体名为枫组，命名来源似乎是模仿宝塚歌剧团的“〇〇组”。 | [X](https://x.com/Higuchikaede) [YouTube](https://www.youtube.com/channel/UCsg-YqdqQ-KFF0LNk23BY4A) [萌娘百科](https://zh.moegirl.org.cn/樋口枫) [日文维基](https://ja.wikipedia.org/wiki/樋口楓) |
 | tsukino mito | 月之美兔 | ![月之美兔](https://img.moegirl.org.cn/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png)<br>月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。 | [X](https://x.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A)<br>[萌娘百科](https://zh.moegirl.org.cn/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
-| yui kusano | 优衣 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/ef/Yui_%28game%29.png)<br>所属作品：`princess connect`<br>本名草野优衣 | [萌娘百科](https://zh.moegirl.org.cn/草野优衣) |
+| yui kusano | 草野优衣 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/ef/Yui_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/草野优衣) |
 | kanon daiba | 台场夏音 | 误射姬 |  |
 | marnie | 玛俐 | 玛俐（日文︰マリィ，英文︰Marnie）是《剑／盾》中登场的角色，为主角的劲敌之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 | taokaka | 桃卡卡 |  |  |
