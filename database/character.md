@@ -5756,7 +5756,7 @@ example:
 | misaki tamaizumi | 玉泉美咲 | ![](https://moegirl.uk/images/d/d6/Misaki_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/玉泉美咲) |
 | nanaka tanno | 丹野七七香 | ![](https://moegirl.uk/images/3/36/Nanaka_prin_cone.png)<br>所属作品：`princess connect`<br>（日语：ナナカ） | [萌娘百科](https://moegirl.uk/丹野七七香) |
 | ruka tachiarai | 太刀洗流夏 | ![](https://moegirl.uk/images/8/89/Ruka_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/太刀洗流夏) |
-| mitsuki yoigahama | 宵滨深月 | ![](https://moegirl.uk/images/f/f0/Mitsuki_prin_cone.png)<br>宵滨深月（日语：宵ヶ浜（よいがはま） 深月（みつき））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》中的登场角色。在游戏世界内的ID为深月（日语：ミツキ）。 | [萌娘百科](https://moegirl.uk/宵滨深月) |
+| mitsuki yoigahama | 宵滨深月 | ![](https://moegirl.uk/images/f/f0/Mitsuki_prin_cone.png)<br>所属作品：`princess connect`<br>（日语：ミツキ） | [萌娘百科](https://moegirl.uk/宵滨深月) |
 | rin morichika | 森近铃 | ![](https://moegirl.uk/images/5/54/Rin_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/森近铃) |
 | riri tokugawa | 德川莉莉 | ![](https://moegirl.uk/images/1/15/Tokukawa_Riri_PCR.png)<br>所属作品：`princess connect` | [萌娘百科](https://moegirl.uk/德川莉莉) |
 | precia wiseman | 普雷西娅·怀斯曼 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/77/87ya6ot3sa6aj1wq86a89n7x98p0zdw.png/218px-普雷西娅（堕天使）其他.png)<br>所属作品：`princess connect` | [BILIGAME WIKI](https://wiki.biligame.com/pcr/普雷西娅（堕天使）) |
