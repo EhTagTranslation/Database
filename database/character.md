@@ -5749,7 +5749,7 @@ example:
 | symboli kris s | 吉兆 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliKrisS_00.png/580px-UPDCH_SymboliKrisS_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹シンボリクリスエス（Symboli Kris S）。 | [萌娘百科](https://moegirl.icu/吉兆) |
 | anshinzawa sasami | 安心泽刺刺美 | ![](https://moegirl.icu/media/UPDCH_AnshinzawaSasami_00.png)<br>所属作品：`uma musume pretty derby`<br>安心泽刺刺美（日语：安心沢（あんしんざわ）刺々美（ささみ）） | <p><a href="[https://moegirl.icu/安心泽刺刺美](https://moegirl.icu/安心泽刺刺美)">萌娘百科</a></p> |
 | marvelous sunday | 美丽周日 | ![](https://moegirl.icu/media/thumb/UPDCH_MarvelousSunday_00.png/580px-UPDCH_MarvelousSunday_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹マーベラスサンデー（Marvelous Sunday）。 | [萌娘百科](https://moegirl.icu/美丽周日) |
-| suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>美波铃奈（日语：美波（みなみ） 鈴奈（すずな））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为铃奈（日语：スズナ）。 | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
+| suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
 | suzume amano | 天野铃莓 | ![](https://moegirl.uk/images/7/7a/Suzume_prin_cone.png)<br>所属作品：`princess connect`<br>日语：天野（あまの） すずめ） | [萌娘百科](https://moegirl.uk/天野铃莓) |
 | tomo mikuma | 御久间智 | ![](https://moegirl.uk/images/2/27/Tomo_prin_cone.png)<br>御久间智（日语：御久間（みくま） 智（とも））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为智（日语：トモ）。 | [萌娘百科](https://moegirl.uk/御久间智) |
 | jun shirogane | 白银纯 | ![](https://moegirl.uk/images/6/60/Jun_prin_cone.png)<br>白银纯（日语：白銀（しろがね） 純（じゅん））是Cygames开发和发行的游戏《公主连结》及其续作《公主连结Re:Dive》的登场角色。在游戏世界内的ID为纯（日语：ジュン）。 | [萌娘百科](https://moegirl.uk/白银纯) |
