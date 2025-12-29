@@ -7964,6 +7964,7 @@ example:
 | creditta cash | 克蕾琪塔·卡修 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/10/Cregitta-Full.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/克蕾雅·波杨西亚) |
 | kaya kidou | 鬼道嘉夜 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/a3/Kaya_PCR.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/鬼道嘉夜) |
 | karin | 观崎佳凛 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/5c/Karin-Full.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/观崎佳凛) |
+| rika manabe | 真边莉佳 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/1c/Manabe_Rika.jpg)<br>所属作品：`makai tenshi jibril` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
