@@ -3318,7 +3318,7 @@ example:
 | asuka hina | 飞鸟雏 | 飞鸟雏 （日语：飛鳥ひな / あすかひなAsuka Hina）是一名从2018年8月22日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身。<br>![](# "https://ehgt.org/dd/71/dd719522bdc1b5d86da98bc177283a42743cf84e-576116-1000-561-jpg_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/飞鸟雏) |
 | hina sorasaki | 空崎日奈 | 所属作品：`p:blue archive`<br>格黑娜学园所属，令所有人闻风丧胆的风纪委员长。<br>![](https://patchwiki.biligame.com/images/ba/f/f6/ppowog5vkxe9zvl2wpsx48lrerayaqt.png)<br>![](https://patchwiki.biligame.com/images/ba/c/c1/67eptcdt1vefbpzwjkh35dzd6x1z9ar.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hina)<br>[Fandom](https://bluearchive.fandom.com/wiki/Sorasaki_Hina) |
 | rimuru tempest | 利姆鲁·特恩佩斯特 | 利姆鲁·特恩佩斯特(英语：Rimuru Tempest) 所属作品:`p:tensei shitara slime datta ken`<br><br>是伏濑所创作的小说《关于我转生变成史莱姆这档事》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/利姆鲁·特恩佩斯特) |
-| milim nava | 米莉姆·纳瓦 |  | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
+| milim nava | 米莉姆·纳瓦 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/f/f4/Milim_Anime.png)<br>所属作品：`tensei shitara slime datta ken` | [萌娘百科](https://zh.moegirl.org.cn/米莉姆·纳瓦) |
 | kotoko iwanaga | 岩永琴子 | ![](https://img.moegirl.org.cn/common/thumb/d/d5/Img_kotoko_stand_pc.png/300px-Img_kotoko_stand_pc.png)<br>所属作品：`kyokou suiri`<br>手杖及贝雷帽是其标志，身材小巧可爱的大学生。<br>11岁时，遭到被人们称作“怪异”“妖怪”一类的怪物所诱拐，以失去单眼单脚为代价，成为了他们的“智慧之神”。 |  |
 | meme touwa | 藤和女女 |  | [萌娘百科](https://zh.moegirl.org.cn/藤和女女) |
 | makoto niwa | 丹羽真 |  | [百度百科](https://baike.baidu.com/item/丹羽真/750418) |
