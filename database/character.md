@@ -7962,6 +7962,7 @@ example:
 | kurumi kuribayashi | 栗林胡桃 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/ec/Kurumi_prin_cone.png)<br>所属作品：`princess connect` |  |
 | ninon joubert | 妮侬·朱柏尔 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/3f/Ninon_jubeeru.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/妮侬·朱柏尔) |
 | creditta cash | 克蕾琪塔·卡修 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/10/Cregitta-Full.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/克蕾雅·波杨西亚) |
+| kaya kidou | 鬼道嘉夜 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/a3/Kaya_PCR.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/鬼道嘉夜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
