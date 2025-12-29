@@ -7970,6 +7970,7 @@ example:
 | amaterasu | 天照 | ![](https://static.wikia.nocookie.net/fire-brigade-of-flames/images/9/99/First_Pillar.png)<br>所属作品：`enen no shouboutai` |  |
 | nagisa kubo | 久保渚咲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/76/116363_crt_kJZUR.jpg?r=1674173383)<br>所属作品：`kubo-san wa mob o yurusanai` |  |
 | sena narumi | 成海圣奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ba/1e/36798_crt_CEn0J.jpg?r=1447384145)<br>所属作品：告白实行委员会 |  |
+| kanade | 奏 | ![](https://beasttamer.jp/assets/character/2c.png)<br>所属作品：`yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau`<br>最强种之一，濒临灭绝的猫灵族少女。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
