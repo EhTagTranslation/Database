@@ -2950,7 +2950,7 @@ example:
 | soushi miketsukami | 御狐神双炽 |  |  |
 | maya tendo | 天堂真矢 | 圣翔音乐学园99期生，演员育成科，学号18号。知名舞台演员与当红歌星的女儿，演剧界的名门出身。拥有完美的身材与高昂的声音。虽然天赋异禀，却并不会不思进取，是个以更高的高度为目标而不断努力的孤高舞台少女。<br>![Maya Tendo profile](https://img.moegirl.org.cn/common/1/10/Maya_Tendo_profile.png) | [萌娘百科](https://zh.moegirl.org.cn/天堂真矢) |
 | seto miyako | 濑户美夜子 |  |  |
-| pecorine | 佩可莉姆 | 公主连结Re:Dive初始御三家之一，阵营“美食殿堂”的创建者，口头禅是“やばいですね☆”（真是糟糕呢）<br>大胃王，兴趣是做饭吃饭，可以把一盘堆得像小山似的炒饭全部吃完并且还能继续吃其他食物。<br>由于喜欢四处旅行(事实是为了躲避霸瞳皇帝的追捕)所以很缺钱，只能在餐饮店打工，实际上还是为了能方便地吃到东西。<br>现实本名为尤丝蒂亚娜‧F‧阿斯特赖亚（ユースティアナ・フォン・アストライア），与其他人不同，佩可莉姆是真正的外国王室的公主，其所属的国家曾出资援助了MIMI和《阿斯特雷亚》的研发。而她的名字“ペコリーヌ”来自登录游戏时翻译器产生的错误（可以理解为计算机里的一段文字因错误的Unicode显示为乱码）。而在现实中，也正是因为千里真那（霸瞳皇帝）夺走了公主的能力，导致部分认识佩可莉姆的人会出现短暂的无法认知状态，包括她的父母，并且由于来自外国，需要随身携带翻译器，所以有时会出现语言不通无法交流的情况，并且翻译器实时运行以及战斗时能力释放需要消耗巨大的能量，故在游戏里佩可莉姆经常饥饿非常能吃，在游戏里，为了避免自己被霸瞳皇帝抓到后牵连他人，在申请创建新的公会需要登记时委派骑士代为登记而不是亲自去。<br>![Pecoriinu](https://img.moegirl.org.cn/common/1/1d/Pecoriinu.png) | [萌娘百科](https://zh.moegirl.org.cn/佩可莉姆) |
+| pecorine | 佩可莉姆 | ![](https://static.wikia.nocookie.net/princess-connect/images/1/11/Pecorine_%28game%29.png)<br>所属作品：`princess connect`<br>外号吃货。 | [萌娘百科](https://zh.moegirl.org.cn/佩可莉姆) |
 | harumi fujiyoshi | 藤吉晴美 |  |  |
 | chiri kitsu | 木津千里 |  |  |
 | kaere kimura | 木村卡愛拉 |  |  |
