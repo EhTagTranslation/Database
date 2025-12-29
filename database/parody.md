@@ -2664,6 +2664,7 @@ example:
 | princess evangile | 福音公主 |  |  |
 | grancrest senki | 皇帝圣印战记 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2508675489.webp)<br>《皇帝圣印战记》是由水野良创作、深遊负责插画的轻小说，并有同名改编动画。 |  |
 | tomodachi no imouto ga ore ni dake uzai | 朋友的妹妹只喜欢烦我 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924616384.webp)<br>《朋友的妹妹只喜欢烦我》是三河ごーすと创作的轻小说作品，并有同名改编漫画和动画。 |  |
+| kubo-san wa mob o yurusanai | 久保同学不放过我 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885016904.webp)<br>《久保同学不放过我》是日本漫画家雪森宁宁创作的校园漫画 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
