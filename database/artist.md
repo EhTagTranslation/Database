@@ -11941,7 +11941,7 @@ example:
 | yuzuki yuno | 柚木ゆの |  |  |
 | yuzuko syou | ゆずこしょう |  |  |
 | yuzupon | ゆずぽん |  |  |
-| yuzuriha | 杠 |  |  |
+| yuzuriha | 让叶 |  |  |
 | yuzushiko | ゆずしこ |  |  |
 | yuzuyoukan | ゆずようかん |  |  |
 | z-s-e | z-s-e |  |  |
