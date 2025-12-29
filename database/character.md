@@ -3674,7 +3674,7 @@ example:
 | azusa shirasu | 白洲梓 | 所属作品：`p:blue archive`<br><br>三一补课部的冰魔女。<br>自从从原本的学校退学后，因为某种原因而就读三一学园，重新致力于学业，明明很怕寂寞，却因为担心对其他学生造成麻烦而主动与人拉开距离，很让补课部的学生为她操心。![](https://patchwiki.biligame.com/images/ba/f/f8/opcueev4ue5iylkrcaxz6q5wxdd6cgv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Azusa) |
 | hanako urawa | 浦和花子 | 所属作品：`p:blue archive`<br>来自三一综合学院补习授业部的感情丰富的少女。<br>看起来像个优雅的淑女，实际上是个开口黄腔就停不下来的问题学生。<br>![](https://patchwiki.biligame.com/images/ba/7/73/tlelaxklkkbw7ivvddivcyr6frubcjl.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hanako) |
 | koharu shimoe | 下江小春 | 所属作品：`p:blue archive`<br>三一补课部的一员。原本隶属实现正义部，由于成绩下滑而面临留级危机，已被强制编入补课部。本人自认为自己是菁英，实际上却是跟不上学业的笨蛋。<br>有收集色情杂志的兴趣，只要看到一点点相关元素就会满脑情色妄想，自顾自地害羞起来。<br>![](https://patchwiki.biligame.com/images/ba/7/77/r01t8o0nxbi8746f0luejhy4knvot4b.png)<br>![](https://img.moegirl.org.cn/common/d/de/BA_Koharu_Swimsuit.png)<br>![](https://img.moegirl.org.cn/common/7/78/BA_Koharu_ML.png) | [萌娘百科](https://zh.moegirl.org.cn/下江小春)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Koharu) |
-| sheffy | 雪菲 |  | [萌娘百科](https://zh.moegirl.org.cn/阿贺斗紫布菜) |
+| sheffy | 雪菲 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/58/Shifuna_Agato.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/阿贺斗紫布菜) |
 | miko yotsuya | 四谷见子 |  |  |
 | hana yurikawa | 百合川华 |  |  |
 | yuria niguredou | 二暮堂尤利娅 |  |  |
