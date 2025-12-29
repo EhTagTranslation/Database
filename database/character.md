@@ -7952,6 +7952,7 @@ example:
 | mion yanagi | 柳美音 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/78/Meiyin.png)<br>所属作品：`heaven burns red`<br>完美无缺的万能管家。 |  |
 | ayane hojo | 北条绫音 | ![](https://static.wikia.nocookie.net/princess-connect/images/3/3b/Ayane_%28game%29.png)<br>所属作品：`princess connect`<br>所属公会咲恋救济院。 |  |
 | lyrael | 莱拉尔 | ![](https://static.wikia.nocookie.net/princess-connect/images/8/8e/Lyrael_%28game%29.png)<br>所属作品：`princess connect` |  |
+| mahiru noto | 野户真阳 | ![](https://static.wikia.nocookie.net/princess-connect/images/5/5f/Mahiru_%28game%29.png)<br>所属作品：`princess connect`<br>所属公会为伊丽莎白牧场 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
