@@ -4420,7 +4420,7 @@ example:
 | azuma seren | 东雪莲 |  |  |
 | yaoyao | 瑶瑶 | ![](https://patchwiki.biligame.com/images/ys/2/2e/4qn6v9fecs4oc1o2y7n9fe9ndcflxmk.gif)<br>所属作品:`p:genshin impact`<br>歌尘浪市真君膝下最年幼的弟子，温柔体贴的「小大人」。 | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
 | monika | 莫妮卡 | 所属作品: `p:doki doki literature club`<br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ef/Monika_Illustration.png)<br>**唯一**女主角 | [莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
-| tania | 塔妮雅 |  |  |
+| tania | 塔尼娅 | ![](https://beasttamer.jp/assets/character/3c.png)<br>所属作品：`yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau`<br>最强种之一，身为天空支配者的龙族少女。 |  |
 | barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
 | ameth | 爱梅斯 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/e1/Ames_%28game%29.png)<br>所属作品：`princess connect` |  |
 | aoi futaba | 双叶碧 | ![](https://static.wikia.nocookie.net/princess-connect/images/2/20/Aoi_%28game%29.png)<br>所属作品：`princess connect` |  |
