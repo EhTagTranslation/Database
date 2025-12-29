@@ -4607,7 +4607,7 @@ example:
 | tamako kitashirakawa | 北白川玉子 | 所属作品: `p:tamako market` | [萌娘百科](https://zh.moegirl.org.cn/北白川玉子) |
 | ui tamaki | 环羽衣 |  |  |
 | shigure mayoi | 间宵时雨 | 所属作品：`p:blue archive`<br>赤冬联邦学园所属，但遭受停学处分，目前在旧校舍227号特别班反省中的学生。<br>停学原因是在「配给用康波特」中偷偷加入酒精。<br>![](https://patchwiki.biligame.com/images/ba/8/8f/4twtmh1d00f5xsjywsplbj37q65rpre.png) | [蔚蓝档案WIKI](https://ba.gamekee.com/577249.html)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Shigure) |
-| inori ichinose | 一之濑祈梨 | 所属作品: `p:princess connect`<br><br>![](https://static.wikia.nocookie.net/princess-connect/images/c/c1/Inori-astrum-sprite-normal.png) | [萌娘百科](https://zh.moegirl.org.cn/一之濑祈梨) [Fandom](https://princess-connect.fandom.com/wiki/Inori) |
+| inori ichinose | 一之濑祈梨 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b9/Inori_PCR.png)<br>所属作品: `p:princess connect` | [萌娘百科](https://zh.moegirl.org.cn/一之濑祈梨) [Fandom](https://princess-connect.fandom.com/wiki/Inori) |
 | natsumi hodaka | 帆高夏海 | 帆高夏海（日语：帆高（ほだか）夏海（なつみ））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆高夏海) |
 | hina tsurugi | 鹤木阳渚 | 鹤木阳渚（日语：鶴木（つるぎ）陽渚（ひな））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鹤木阳渚) |
 | gwen stacy | 格温·斯黛西 |  |  |
