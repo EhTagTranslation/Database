@@ -14564,6 +14564,7 @@ example:
 | sabakan | 佐波缶 |  |  |
 | ozi8 | おじ８ \| ｴｲﾄﾋﾟｰｴﾑ |  |  |
 | yamashima chihane | 山島ちはね |  |  |
+| tsubonuma | 壺ぬま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
