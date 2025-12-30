@@ -14562,6 +14562,7 @@ example:
 | bluevery king | ブルベリ王 |  |  |
 | keimo | 啓モ |  |  |
 | sabakan | 佐波缶 |  |  |
+| ozi8 | ｴｲﾄﾋﾟｰｴﾑ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
