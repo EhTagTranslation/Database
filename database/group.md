@@ -13542,6 +13542,7 @@ example:
 | tamabian | 多摩尾庵 |  |  |
 | morita shiki | 森田式 |  |  |
 | eight pm | エイトピーエム |  |  |
+| yamashima echichi | やましまえちち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
