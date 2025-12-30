@@ -13541,6 +13541,7 @@ example:
 | watsondou | わとそん堂 |  |  |
 | tamabian | 多摩尾庵 |  |  |
 | morita shiki | 森田式 |  |  |
+| eight pm | エイトピーエム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
