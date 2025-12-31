@@ -14567,6 +14567,7 @@ example:
 | tsubonuma | 壺ぬま |  |  |
 | tebin | てびん |  |  |
 | kechin | けちん |  |  |
+| satomuch | さとまち |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
