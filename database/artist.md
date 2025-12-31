@@ -14566,6 +14566,7 @@ example:
 | yamashima chihane | 山島ちはね |  |  |
 | tsubonuma | 壺ぬま |  |  |
 | tebin | てびん |  |  |
+| kechin | けちん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
