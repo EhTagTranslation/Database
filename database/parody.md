@@ -2667,6 +2667,7 @@ example:
 | kubo-san wa mob o yurusanai | 久保同学不放过我 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2885016904.webp)<br>《久保同学不放过我》是日本漫画家雪森宁宁创作的校园漫画 |  |
 | salaryman ga isekai ni ittara shitennou ni natta hanashi | 上班族去了异世界后成了四天王 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916194637.webp)<br>《平凡上班族到异世界当上了四天王的故事》是由ベニガシラ负责故事原作、村光执笔作画的奇幻职场题材网络漫画，并有同名改编动画。 |  |
 | monobeno | 茂伸奇谈 | ものべの |  |
+| lost ark | 命运方舟 | 韩国开发商SmileGate RPG 公司研发的MMORPG |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
