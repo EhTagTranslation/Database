@@ -13543,6 +13543,7 @@ example:
 | morita shiki | 森田式 |  |  |
 | eight pm | エイトピーエム |  |  |
 | yamashima echichi | やましまえちち |  |  |
+| omusubi koubou | おむすび工房 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
