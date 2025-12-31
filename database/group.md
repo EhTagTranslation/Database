@@ -13545,6 +13545,7 @@ example:
 | yamashima echichi | やましまえちち |  |  |
 | omusubi koubou | おむすび工房 |  |  |
 | sato no maccha | 里ノ抹茶 |  |  |
+| mochinchi | もちんち |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
