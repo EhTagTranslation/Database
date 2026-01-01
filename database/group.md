@@ -13546,6 +13546,7 @@ example:
 | omusubi koubou | おむすび工房 |  |  |
 | sato no maccha | 里ノ抹茶 |  |  |
 | mochinchi | もちんち |  |  |
+| meganeya honpo | 眼镜屋本铺 | 眼鏡屋本舗 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
