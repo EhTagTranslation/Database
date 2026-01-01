@@ -13550,6 +13550,7 @@ example:
 | papyrus | ぱぴるす |  |  |
 | tarobaumu | たろバウム |  |  |
 | uraaka | 裏垢 |  |  |
+| ikenosoko | イケノソコ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
