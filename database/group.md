@@ -13548,6 +13548,7 @@ example:
 | mochinchi | もちんち |  |  |
 | meganeya honpo | 眼镜屋本铺 | 眼鏡屋本舗 |  |
 | papyrus | ぱぴるす |  |  |
+| tarobaumu | たろバウム |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
