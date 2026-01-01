@@ -3370,7 +3370,7 @@ example:
 | kou | 蔻 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/1f/Zoom_3040242000_81.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040242000) |
 | yu takasaki | 高咲侑 |  | [萌娘百科](https://zh.moegirl.org.cn/高咲侑) |
 | shioriko mifune | 三船栞子 |  | [萌娘百科](https://zh.moegirl.org.cn/三船栞子) |
-| olga discordia | 奥利卡·迪斯克伦蒂亚 | ![](https://i.pixiv.cat/img-master/img/2025/07/02/16/41/38/132222933_p0_master1200.jpg)<br>奥利卡·迪斯克伦蒂亚（原名：オリガ（Olga）·ディスコルディア（discordia））是Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/奥利卡·迪斯克伦蒂亚) |
+| olga discordia | 奥利卡·迪斯克伦蒂亚 | ![](https://ehgt.org/w/02/085/93603-qhuxzto3.webp)<br>所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru`<br>原名：オリガ（Olga）·ディスコルディア（discordia） | [萌娘百科](https://zh.moegirl.org.cn/奥利卡·迪斯克伦蒂亚) |
 | mamako oosuki | 大好真真子 | ![](https://img.moegirl.org.cn/common/1/1b/Okaasan_Anime.png)<br>所属作品: `tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka` | [萌娘百科](https://zh.moegirl.org.cn/大好真真子) |
 | masato oosuki | 大好真人 |  |  |
 | flare arlgrande jioral | 芙列雅·艾尔格兰帝·吉欧拉尔 | ![](https://ehgt.org/w/02/087/27403-5b5oyk22.webp)<br>所属作品：`kaifuku jutsushi no yarinaoshi`<br>【术】之勇者。吉欧拉尔王国第一公主。 | [萌娘百科](https://zh.moegirl.org.cn/芙列雅·艾尔格兰帝·吉欧拉尔) |
