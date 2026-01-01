@@ -13549,6 +13549,7 @@ example:
 | meganeya honpo | 眼镜屋本铺 | 眼鏡屋本舗 |  |
 | papyrus | ぱぴるす |  |  |
 | tarobaumu | たろバウム |  |  |
+| uraaka | 裏垢 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
