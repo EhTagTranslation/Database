@@ -14568,6 +14568,7 @@ example:
 | tebin | てびん |  |  |
 | kechin | けちん |  |  |
 | satomuch | さとまち |  |  |
+| awei | 阿猥 |  | [pixiv](https://www.pixiv.net/users/18615749) |
 
 <!--TEMPLATE:
 |  |  |  |  |
