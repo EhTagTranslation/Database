@@ -13551,6 +13551,7 @@ example:
 | tarobaumu | たろバウム |  |  |
 | uraaka | 裏垢 |  |  |
 | ikenosoko | イケノソコ |  |  |
+| binbin honpo | ビンビン本舗 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
