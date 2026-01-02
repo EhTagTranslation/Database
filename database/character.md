@@ -7997,6 +7997,7 @@ example:
 | julie sigtuna | 茱莉·西格图纳 | ![](https://ehgt.org/w/02/004/05661-n39okdn2.webp)<br>所属作品：`absolute duo` |  |
 | sora ikushima | 郁岛空 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4d/郁岛空.jpg)<br>所属作品：`tokyo xanadu` | [萌娘百科](https://zh.moegirl.org.cn/郁岛空) |
 | aila jyrkiainen | 艾拉‧尤基艾宁 | ![](https://ehgt.org/w/01/915/61327-0yrv7nll.webp)<br>所属作品：`gundam build fighters`<br>（アイラ・ユルキアイネン） |  |
+| mahiru shigure | 时雨真昼 | ![](https://ehgt.org/w/01/965/78973-0zvil3ol.webp)<br>所属作品：`gundam build fighters try` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
