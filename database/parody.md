@@ -2668,6 +2668,7 @@ example:
 | salaryman ga isekai ni ittara shitennou ni natta hanashi | 上班族去了异世界后成了四天王 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916194637.webp)<br>《平凡上班族到异世界当上了四天王的故事》是由ベニガシラ负责故事原作、村光执笔作画的奇幻职场题材网络漫画，并有同名改编动画。 |  |
 | monobeno | 茂伸奇谈 | ものべの |  |
 | lost ark | 命运方舟 | 韩国开发商SmileGate RPG 公司研发的MMORPG |  |
+| kokuhaku jikkou iinkai | 告白实行委员会 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2264183235.webp)<br><br>《告白实行委员会》（告白实行委员会シリーズ）是一部改编自同名日语歌曲系列的青春类动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
