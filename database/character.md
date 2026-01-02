@@ -2809,7 +2809,7 @@ example:
 | chitose kurosaki | 黑埼千岁 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/da/j3xbm5v9wgy6xfmf0ymf5t11lplwmob.png/960px-CGSS-Chitose-3D-2.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
 | kiyomi saejima | 冴岛清美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/af/3di0x9w179gjt7vbv66hgp8iovv8jll.jpg/375px-CG-Kiyomi-SR-11.jpg)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 |  |
 | cure milky | 羽衣拉拉 | ![](https://moegirl.uk/images/9/9d/P_curemilky_style1_pc.png)<br>日语：羽衣ララ（はごろも ララ）<br>所属作品：`star twinkle precure` | [https://moegirl.uk/羽衣拉拉](https://moegirl.uk/羽衣拉拉) |
-| rinko iori | 伊织凛子 |  |  |
+| rinko iori | 伊织凛子 | ![](https://ehgt.org/w/02/131/05399-h68pude2.webp)<br>所属作品：`gundam build fighters`<br>イオリ・リン子 |  |
 | sei iori | 伊织诚 |  |  |
 | bea | 彩豆 |  |  |
 | kudryavka noumi | 能美·库特莉亚芙卡 | ![](https://p.sda1.dev/5/faba7b5140c150f9540c80cb1c0eb9c8/character8_main_img.png) | [萌娘百科](https://zh.moegirl.org.cn/能美库特莉亚芙卡) |
