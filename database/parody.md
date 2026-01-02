@@ -106,7 +106,7 @@ example:
 | mobile suit gundam lost war chronicles | 机动战士高达战记 Lost War Chronicles |  |  |
 | mobile suit gundam tekketsu no orphans | 机动战士高达 铁血的孤儿 |  |  |
 | gundam wing | 新机动战记高达W |  |  |
-| gundam build fighters | 高达创战者 |  |  |
+| gundam build fighters | 高达创战者 | ![](https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2242237041.webp) |  |
 | gundam build fighters try | 高达创战者TRY |  |  |
 | gundam build divers | 高达创形者 |  |  |
 | gundam g no reconguista | 高达G之复国运动 |  |  |
