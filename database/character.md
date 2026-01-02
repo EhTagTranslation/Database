@@ -7994,6 +7994,7 @@ example:
 | kozue hiiragi | 柊木梢 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b2/Hiiragi_Kozue.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/柊木梢) |
 | krista lenz | 希丝特莉亚·雷斯 | ![](https://ehgt.org/w/02/182/76505-rm1iao9o.webp)<br>所属作品：`shingeki no kyojin` |  |
 | yuuko hiiragi | 柊夕湖 | ![](https://ehgt.org/w/02/182/64702-00lkf910.webp)<br>所属作品：`chitose-kun wa ramune bin no naka`<br>藤志高中二年级五班的副班长 |  |
+| julie sigtuna | 茱莉·西格图纳 | ![](https://ehgt.org/w/02/004/05661-n39okdn2.webp)<br>所属作品：`absolute duo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
