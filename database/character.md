@@ -6632,7 +6632,7 @@ example:
 | arcana | 阿尔卡纳 | 手机游戏《重返未来：1999》中的角色，重塑之手首领，芝加哥事件、维也纳事件、阿派朗事件的罪魁祸首，第一次大决战中在遭受真空弹轰炸后一度被重塑之手各分支尊为“受苦者”，在南极事件中被成功复活。 | [百度百科](https://baike.baidu.com/item/阿尔卡纳/63393022) |
 | shushu suruga | 骏河朱朱 | 骏河朱朱是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/5/56/Mato_Seihei_no_Slave_02.jpg/420px-Mato_Seihei_no_Slave_02.jpg) [萌娘百科](https://zh.moegirl.org.cn/骏河朱朱) |
 | yuuki wakura | 和仓优希 | 和仓优希是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/和仓优希) |
-| yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | 由冬原パトラ所创作的小说《带着智能手机闯荡异世界。》及其衍生作品的登场角色。贝尔法斯特王国的公主。望月冬夜的后宫之一。 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png) [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
+| yumina urnea belfast | 由美娜·艾尔涅雅·贝尔法斯特 | ![](https://img.moegirl.org.cn/common/thumb/2/2f/Yumina_Ernea_Belfast_Anime.png/364px-Yumina_Ernea_Belfast_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>贝尔法斯特王国的公主。 | [萌娘百科](https://zh.moegirl.org.cn/由美娜·艾尔涅雅·贝尔法斯特) |
 | mei mei | 冥冥 | 芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。五条悟的前辈，原东京都立咒术高专的辅助监督，1级咒术师；现为自由职业咒术师，在日本拥有多家企业的股份。通过家系入学高专。 | [萌娘百科](https://zh.moegirl.org.cn/冥冥%28咒术回战%29#) |
 | shizuku yaegashi | 八重㭴雫 | ![](https://i.pixiv.cat/img-master/img/2025/02/12/16/06/22/127160677_p0_master1200.jpg)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>南云始的同学，和白崎香织、天之河光辉、坂上龙太郎为青梅竹马。某天上课时全班被召唤而来到异世界托达斯，被召唤后的天职为“剑士”。 | [萌娘百科](https://zh.moegirl.org.cn/八重㭴雫) |
 | rei miyamoto | 宫本丽 | ![](https://ehgt.org/w/02/114/59002-8c0bs1s7.webp)<br>所属作品：`highschool of the dead` | [萌娘百科](https://zh.moegirl.org.cn/宫本丽) |
