@@ -7998,6 +7998,7 @@ example:
 | sora ikushima | 郁岛空 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4d/郁岛空.jpg)<br>所属作品：`tokyo xanadu` | [萌娘百科](https://zh.moegirl.org.cn/郁岛空) |
 | aila jyrkiainen | 艾拉‧尤基艾宁 | ![](https://ehgt.org/w/01/915/61327-0yrv7nll.webp)<br>所属作品：`gundam build fighters`<br>（アイラ・ユルキアイネン） |  |
 | mahiru shigure | 时雨真昼 | ![](https://ehgt.org/w/01/965/78973-0zvil3ol.webp)<br>所属作品：`gundam build fighters try` |  |
+| shamna | 夏姆娜 | ![](https://ehgt.org/w/01/849/75965-6gwvbr58.webp)<br>所属作品：`code geass`<br>剧场版动画《Code Geass 复活的鲁路修》中的角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
