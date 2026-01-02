@@ -8012,6 +8012,7 @@ example:
 | yae niizuma | 新妻八惠 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/9a/Wds_anime_bg-yae.png)<br>所属作品：`world dai star`<br>11岁的小学五年级生。 |  |
 | shigure fudeshima | 笔岛时雨 | ![](https://static.wikia.nocookie.net/world-dai-star/images/f/f2/Shigure_game.png)<br>所属作品：`world dai star` |  |
 | towa motosu | 本巢叶羽 | ![](https://static.wikia.nocookie.net/world-dai-star/images/7/74/Towa_anime.png)<br>所属作品：`world dai star` |  |
+| yuu yuutani | 优谷优 | ![](https://static.wikia.nocookie.net/bad-girl/images/b/bc/Yuu_Yuutani_Anime_Character_Design.png)<br>所属作品：`bad girl`<br>藤咲私立高中一年级学生。从未迟到缺勤，成绩优异，更是深受教师好评的优等生。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
