@@ -8005,6 +8005,7 @@ example:
 | tholindis | 索琳蒂丝 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4c/索琳蒂丝2.png)<br>所属作品：`genshin impact`<br>坎瑞亚赤月旁系血统的后裔，平时在深秘院中从事对月髓的研究，是雷利尔的未婚妻。 | [萌娘百科](https://zh.moegirl.org.cn/索琳蒂丝) |
 | porno | 珀儿诺 | ![](https://ehgt.org/w/02/182/62005-qtcmdra8.webp)<br>所属作品：`dohna dohna issho ni warui koto o shiyou` |  |
 | sayo | 小夜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2026/01/02/13/51/02/139417686_p0_master1200.jpg)<br>所属作品：`seirei gensouki`<br>（サヨ）<br>在卡拉斯基王国生活的村女。 |  |
+| furiae naia laphroaig | 芙莉雅耶・奈亚・拉绯罗依格 | ![](https://static.wikia.nocookie.net/shinjazero1825/images/d/df/Furiae.jpg)<br>所属作品：`shinja zero no megami-sama to hajimeru isekai kouryaku`<br>フリアエ・ナイア・ラフィロイグ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
