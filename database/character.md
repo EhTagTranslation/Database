@@ -8008,6 +8008,7 @@ example:
 | furiae naia laphroaig | 芙莉雅耶・奈亚・拉绯罗依格 | ![](https://static.wikia.nocookie.net/shinjazero1825/images/d/df/Furiae.jpg)<br>所属作品：`shinja zero no megami-sama to hajimeru isekai kouryaku`<br>フリアエ・ナイア・ラフィロイグ |  |
 | ichigo minase | 水濑莓 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/16/Shuilaimei.png)<br>所属作品：`heaven burns red`<br>31B部队成员，与其妹妹水濑李组成“姐妹杀手”组合。 | [萌娘百科](https://zh.moegirl.org.cn/水濑莓) |
 | flamme | 伏拉梅 | ![](https://static.wikia.nocookie.net/frieren/images/f/f7/Flamme_anime_profile.png)<br>所属作品：`sousou no frieren`<br>生活在一千多年前，被称为人类魔法鼻祖的伟大魔法使。 |  |
+| kokona otori | 凤心菜 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/44/Wds_anime_bg-kokona.png)<br>所属作品：`world dai star`<br>16岁的高中二年级生。 | [萌娘百科](https://zh.moegirl.org.cn/凤心菜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
