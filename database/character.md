@@ -7992,6 +7992,7 @@ example:
 | nea | 涅亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/8/80/8j2mhwxzbzv27jc3n1813yddl87sigk.png/305px-涅亚（夏日）.png)<br>所属作品：`princess connect` |  |
 | seikai higuchi | 樋口圣华 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/88/Shenghua.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/樋口圣华) |
 | kozue hiiragi | 柊木梢 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b2/Hiiragi_Kozue.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/柊木梢) |
+| krista lenz | 希丝特莉亚·雷斯 | ![](https://ehgt.org/w/02/182/76505-rm1iao9o.webp)<br>所属作品：`shingeki no kyojin` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
