@@ -8002,6 +8002,7 @@ example:
 | mabui | 麻布衣 | ![](https://ehgt.org/w/02/092/53315-nd6flwx9.webp)<br>所属作品：`naruto`<br>雷之国·云隐村的女上忍，四代目雷影的秘书。 |  |
 | columbina hyposelenia | [少女] 哥伦比娅 | ![](https://ehgt.org/w/02/171/97401-9r6broek.webp)<br>所属作品：`genshin impact`<br>全名哥伦比娅·希珀塞莱尼娅。<br>愚人众十一执行官 第三席。 |  |
 | rerir | 雷利尔 | ![](https://patchwiki.biligame.com/images/ys/7/75/opnf0rzqwwcvlmlo4nbfrjzt9d0uxlb.png)<br>所属作品：`genshin impact`<br>被称为「猎月人」，是坎瑞亚「五罪人」之一，犯下了「渎死之罪」。 |  |
+| tholindis | 索琳蒂丝 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4c/索琳蒂丝2.png)<br>所属作品：`genshin impact`<br>坎瑞亚赤月旁系血统的后裔，平时在深秘院中从事对月髓的研究，是雷利尔的未婚妻。 | [萌娘百科](https://zh.moegirl.org.cn/索琳蒂丝) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
