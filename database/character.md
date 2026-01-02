@@ -8001,6 +8001,7 @@ example:
 | shamna | 夏姆娜 | ![](https://ehgt.org/w/01/849/75965-6gwvbr58.webp)<br>所属作品：`code geass`<br>剧场版动画《Code Geass 复活的鲁路修》中的角色。 |  |
 | mabui | 麻布衣 | ![](https://ehgt.org/w/02/092/53315-nd6flwx9.webp)<br>所属作品：`naruto`<br>雷之国·云隐村的女上忍，四代目雷影的秘书。 |  |
 | columbina hyposelenia | [少女] 哥伦比娅 | ![](https://ehgt.org/w/02/171/97401-9r6broek.webp)<br>所属作品：`genshin impact`<br>全名哥伦比娅·希珀塞莱尼娅。<br>愚人众十一执行官 第三席。 |  |
+| rerir | 雷利尔 | ![](https://patchwiki.biligame.com/images/ys/7/75/opnf0rzqwwcvlmlo4nbfrjzt9d0uxlb.png)<br>所属作品：`genshin impact`<br>被称为「猎月人」，是坎瑞亚「五罪人」之一，犯下了「渎死之罪」。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
