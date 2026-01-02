@@ -7996,6 +7996,7 @@ example:
 | yuuko hiiragi | 柊夕湖 | ![](https://ehgt.org/w/02/182/64702-00lkf910.webp)<br>所属作品：`chitose-kun wa ramune bin no naka`<br>藤志高中二年级五班的副班长 |  |
 | julie sigtuna | 茱莉·西格图纳 | ![](https://ehgt.org/w/02/004/05661-n39okdn2.webp)<br>所属作品：`absolute duo` |  |
 | sora ikushima | 郁岛空 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4d/郁岛空.jpg)<br>所属作品：`tokyo xanadu` | [萌娘百科](https://zh.moegirl.org.cn/郁岛空) |
+| aila jyrkiainen | 艾拉‧尤基艾宁 | ![](https://ehgt.org/w/01/915/61327-0yrv7nll.webp)<br>所属作品：`gundam build fighters`<br>（アイラ・ユルキアイネン） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
