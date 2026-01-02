@@ -3733,7 +3733,7 @@ example:
 | kana yabuki | 矢吹可奈 |  |  |
 | ayumu maihama | 舞浜歩 |  |  |
 | sekai kamiki | 神木世海 |  |  |
-| kaoruko sazaki | 佐崎薰子 |  |  |
+| kaoruko sazaki | 佐崎薰子 | ![](https://ehgt.org/w/01/965/76348-9dpu0jqd.webp)<br>所属作品：`gundam build fighters try` |  |
 | izuku midoriya | 绿谷出久 | 绿谷出久是堀越耕平所创作的漫画《我的英雄学院》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/绿谷出久) |
 | mitsuki bakugou | 爆豪光己 | 爆豪光己(火爆猴的母亲)<br>啊嘿颜式眼睛+爆乳+假小子式短发<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b7/Mitsuki_Bakugo.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/02/Bakugo_family_approves.png) |  |
 | prushka | 普鲁修卡 |  |  |
