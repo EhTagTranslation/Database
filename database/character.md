@@ -7991,6 +7991,7 @@ example:
 | cowpens | 科本斯 | 《碧蓝航线》中舰娘<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/6d/9ymjbf8jvsl59fi2k2qacbj0672m6ve.jpg/525px-科本斯立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/科本斯) |
 | nea | 涅亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/8/80/8j2mhwxzbzv27jc3n1813yddl87sigk.png/305px-涅亚（夏日）.png)<br>所属作品：`princess connect` |  |
 | seikai higuchi | 樋口圣华 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/88/Shenghua.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/樋口圣华) |
+| kozue hiiragi | 柊木梢 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b2/Hiiragi_Kozue.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/柊木梢) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
