@@ -2669,6 +2669,7 @@ example:
 | monobeno | 茂伸奇谈 | ものべの |  |
 | lost ark | 命运方舟 | 韩国开发商SmileGate RPG 公司研发的MMORPG |  |
 | kokuhaku jikkou iinkai | 告白实行委员会 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2264183235.webp)<br><br>《告白实行委员会》（告白实行委员会シリーズ）是一部改编自同名日语歌曲系列的青春类动画。 |  |
+| chitose-kun wa ramune bin no naka | 弹珠汽水瓶里的千岁同学 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926597042.webp)<br>《弹珠汽水瓶里的千岁同学》是裕梦著作的轻小说作品，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
