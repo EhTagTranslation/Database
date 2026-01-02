@@ -8007,6 +8007,7 @@ example:
 | sayo | 小夜 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2026/01/02/13/51/02/139417686_p0_master1200.jpg)<br>所属作品：`seirei gensouki`<br>（サヨ）<br>在卡拉斯基王国生活的村女。 |  |
 | furiae naia laphroaig | 芙莉雅耶・奈亚・拉绯罗依格 | ![](https://static.wikia.nocookie.net/shinjazero1825/images/d/df/Furiae.jpg)<br>所属作品：`shinja zero no megami-sama to hajimeru isekai kouryaku`<br>フリアエ・ナイア・ラフィロイグ |  |
 | ichigo minase | 水濑莓 | ![](https://storage.moegirl.org.cn/moegirl/commons/1/16/Shuilaimei.png)<br>所属作品：`heaven burns red`<br>31B部队成员，与其妹妹水濑李组成“姐妹杀手”组合。 | [萌娘百科](https://zh.moegirl.org.cn/水濑莓) |
+| flamme | 伏拉梅 | ![](https://static.wikia.nocookie.net/frieren/images/f/f7/Flamme_anime_profile.png)<br>所属作品：`sousou no frieren`<br>生活在一千多年前，被称为人类魔法鼻祖的伟大魔法使。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
