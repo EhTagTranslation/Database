@@ -7999,6 +7999,7 @@ example:
 | aila jyrkiainen | 艾拉‧尤基艾宁 | ![](https://ehgt.org/w/01/915/61327-0yrv7nll.webp)<br>所属作品：`gundam build fighters`<br>（アイラ・ユルキアイネン） |  |
 | mahiru shigure | 时雨真昼 | ![](https://ehgt.org/w/01/965/78973-0zvil3ol.webp)<br>所属作品：`gundam build fighters try` |  |
 | shamna | 夏姆娜 | ![](https://ehgt.org/w/01/849/75965-6gwvbr58.webp)<br>所属作品：`code geass`<br>剧场版动画《Code Geass 复活的鲁路修》中的角色。 |  |
+| mabui | 麻布衣 | ![](https://ehgt.org/w/02/092/53315-nd6flwx9.webp)<br>所属作品：`naruto`<br>雷之国·云隐村的女上忍，四代目雷影的秘书。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
