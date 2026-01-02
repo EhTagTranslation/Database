@@ -7793,7 +7793,7 @@ example:
 | sumika tachibana | 知花纯加 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/0/05/Sumika_Tachibana_Anime_Design.png)<br>所属作品：`watashi no yuri wa oshigoto desu`<br>在咖啡厅工作最久的前辈，在咖啡厅中的姓为“橘”。 |  |
 | kanoko amamiya | 间宫果乃子 | ![](https://static.wikia.nocookie.net/yuri-is-my-job/images/d/d8/Kanoko_Amamiya_Anime_Design.png)<br>所属作品：`watashi no yuri wa oshigoto desu`<br>小阳从国中到高中的好友，在咖啡厅中的姓为“雨宫”。 |  |
 | satsuki tachibana | 馆花纱月 | ![](https://ehgt.org/w/02/035/56124-54zajxt7.webp)<br>所属作品：`watari-kun no xx ga houkai sunzen`<br>16岁，高中2年级C班。渡直人青梅竹马的美少女，喜欢渡直人。 |  |
-| yukari ishihara | 石原紫 | ![](https://i.namu.wiki/i/r-G1h0K8HEOydZ9Nl0j58nI8MYLDGxfeORDmTM6QYemJGUuqMFs--DqRrLlM-X6UJfjMNI4grIJIHCsm9HhHVdRfgTT0QPATlB28dTc8yBPG7W568YHJOLgNPjmESjplade_dh9mEgcIGUE8JKfU7g.webp)<br>所属作品：`watari-kun no xx ga houkai sunzen`<br>高中2年级C班。学校委员会成员，个性文静，渡直人的女朋友，是公认的美少女。 |  |
+| yukari ishihara | 石原紫 | ![](https://ehgt.org/w/02/058/13217-dvrb66ac.webp)<br>所属作品：`watari-kun no xx ga houkai sunzen`<br>高中2年级C班。学校委员会成员，个性文静，渡直人的女朋友，是公认的美少女。 |  |
 | yumia liessfeldt | 优米雅·利斯菲尔德 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e8/优米雅.png)<br>所属作品：`atelier yumia`<br>优米雅在一场意外中失去母亲，也因此得知自己是炼金术士的后代，对此心生诸多疑问。她为了找寻真相而加入调查团，为了追寻失落的历史，优米雅一行人踏上了旅途。 |  |
 | susan storm | 苏珊·斯通 | ![](https://ehgt.org/w/02/094/17213-5237gb44.webp)<br>所属作品：`fantastic four`<br>外号“隐形女”。 |  |
 | beat valkyrie ixseal | 爱克希尔 | ![](https://ehgt.org/w/02/143/92228-87gd3lm0.webp)<br>所属作品：`choukou shinki ixseal` |  |
