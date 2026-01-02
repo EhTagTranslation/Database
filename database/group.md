@@ -13552,6 +13552,7 @@ example:
 | uraaka | 裏垢 |  |  |
 | ikenosoko | イケノソコ |  |  |
 | binbin honpo | ビンビン本舗 |  |  |
+| dekai tsuno | でかいツノ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
