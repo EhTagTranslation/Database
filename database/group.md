@@ -13556,6 +13556,7 @@ example:
 | pan no sashimiya | パンの刺身屋 | `a:pan no sashimi`使用的同人社团名称。 |  |
 | penguinon | ぺんぎのん |  |  |
 | hanekkaeri | はねっかえり |  |  |
+| yumemakura | いろもの亭 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
