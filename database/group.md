@@ -13557,6 +13557,7 @@ example:
 | penguinon | ぺんぎのん |  |  |
 | hanekkaeri | はねっかえり |  |  |
 | yumemakura | いろもの亭 |  |  |
+| 19llddkk | 19LLDDKK |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
