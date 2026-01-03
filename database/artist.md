@@ -14573,6 +14573,7 @@ example:
 | ikekokei | イケコケイ |  |  |
 | 89usagi | 89兎♂ | ![89兎♂](https://p.sda1.dev/30/21708b0978b37bf30cb3948cea089d62/23396145_9eef472c2800310a0cb7e70bb54b4eb5_170.png) | [FANBOX](https://www.fanbox.cc/@c8989to/posts/11151858) [pixiv](https://www.pixiv.net/users/5665359) |
 | qzo. | QZO。 |  | [pixiv](https://www.pixiv.net/users/399077) |
+| pan no sashimi | パンの刺身 |  | [pixiv](https://www.pixiv.net/users/6411724/)<br>[X](https://x.com/weizenbrot1016) |
 
 <!--TEMPLATE:
 |  |  |  |  |
