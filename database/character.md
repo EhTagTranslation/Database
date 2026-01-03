@@ -8013,6 +8013,7 @@ example:
 | shigure fudeshima | 笔岛时雨 | ![](https://static.wikia.nocookie.net/world-dai-star/images/f/f2/Shigure_game.png)<br>所属作品：`world dai star` |  |
 | towa motosu | 本巢叶羽 | ![](https://static.wikia.nocookie.net/world-dai-star/images/7/74/Towa_anime.png)<br>所属作品：`world dai star` |  |
 | yuu yuutani | 优谷优 | ![](https://static.wikia.nocookie.net/bad-girl/images/b/bc/Yuu_Yuutani_Anime_Character_Design.png)<br>所属作品：`bad girl`<br>藤咲私立高中一年级学生。从未迟到缺勤，成绩优异，更是深受教师好评的优等生。 |  |
+| zanmu nippaku | 日白残无 | ![](https://upload.thbwiki.cc/8/80/日白残无（兽王园立绘）.png)<br>日白残無（にっぱく ざんむ）<br><br>日白残无是`touhou project`系列中的官方角色，首次登场于东方兽王园。<br>她曾经是背离了世间一切道义的破戒僧，因为吸收了妖兽的灵，她失去了人类之身。现在的她是人鬼，是通过吸收灵体从人变成的鬼。<br>自战国时代生存至今，她饱尝人世无情，磨砺了坚忍不拔的意志。 | [https://thwiki.cc/日白残无](https://thwiki.cc/日白残无) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
