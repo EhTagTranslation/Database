@@ -8017,6 +8017,7 @@ example:
 | canari | 卡娜莉 | 《传说 Z-A》中的登场角色，她是密阿雷市的一名人气主播，拥有自己的粉丝团体来电伍。<br>![](https://s1.52poke.com/wiki/thumb/4/4b/卡娜莉_ZA.png/150px-卡娜莉_ZA.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/卡娜莉) |
 | manato komano | 狛野真斗 | ![狛野真斗官方立绘](https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a1/Agent_Komano_Manato_Portrait.png?format=original)<br><br>所属作品：`zenless zone zero` | [绝区零 Fandom](https://zenless-zone-zero.fandom.com/wiki/Komano_Manato)<br>[萌娘百科](https://zh.moegirl.org.cn/狛野真斗) |
 | lighter | 莱特 | ![官方立绘](https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Agent_Lighter_Portrait.png?format=original)<br><br>所属作品：`zenless zone zero` | [绝区零Wiki(米游社)](https://baike.mihoyo.com/zzz/wiki/content/950/detail)<br>[绝区零 Fandom Wiki](https://zenless-zone-zero.fandom.com/wiki/Lighter)<br>[萌娘百科](https://zh.moegirl.org.cn/莱特%28绝区零%29) |
+| sitri smart | 西朵莉·斯玛特 | 所属作品：`nageki no bourei ha intai shitai`<br>![](https://ehgt.org/w/02/044/24896-3812doqs.webp)<br>“叹息的亡灵”的成员之一，是擅长精制药品及育成／使役魔法生物的炼金术师。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
