@@ -8016,6 +8016,7 @@ example:
 | zanmu nippaku | 日白残无 | ![](https://upload.thbwiki.cc/8/80/日白残无（兽王园立绘）.png)<br>日白残無（にっぱく ざんむ）<br><br>日白残无是`touhou project`系列中的官方角色，首次登场于东方兽王园。<br>她曾经是背离了世间一切道义的破戒僧，因为吸收了妖兽的灵，她失去了人类之身。现在的她是人鬼，是通过吸收灵体从人变成的鬼。<br>自战国时代生存至今，她饱尝人世无情，磨砺了坚忍不拔的意志。 | [https://thwiki.cc/日白残无](https://thwiki.cc/日白残无) |
 | canari | 卡娜莉 | 《传说 Z-A》中的登场角色，她是密阿雷市的一名人气主播，拥有自己的粉丝团体来电伍。<br>![](https://s1.52poke.com/wiki/thumb/4/4b/卡娜莉_ZA.png/150px-卡娜莉_ZA.png) | [神奇宝贝百科](https://wiki.52poke.com/wiki/卡娜莉) |
 | manato komano | 狛野真斗 | ![狛野真斗官方立绘](https://static.wikia.nocookie.net/zenless-zone-zero/images/a/a1/Agent_Komano_Manato_Portrait.png?format=original)<br><br>所属作品：`zenless zone zero` | [绝区零 Fandom](https://zenless-zone-zero.fandom.com/wiki/Komano_Manato)<br>[萌娘百科](https://zh.moegirl.org.cn/狛野真斗) |
+| lighter | 莱特 | ![官方立绘](https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Agent_Lighter_Portrait.png?format=original)<br><br>所属作品：`zenless zone zero` | [绝区零Wiki(米游社)](https://baike.mihoyo.com/zzz/wiki/content/950/detail)<br>[绝区零 Fandom Wiki](https://zenless-zone-zero.fandom.com/wiki/Lighter)<br>[萌娘百科](https://zh.moegirl.org.cn/莱特%28绝区零%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
