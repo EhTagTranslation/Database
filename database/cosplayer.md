@@ -176,6 +176,7 @@ example:
 | jiaorouji walkure | 絞肉姬Walküre | Cosplayer | [X](https://x.com/SuccAbyss) |
 | rongrongzi | 小容仔咕咕咕 | 中国Cosplayer<br>![](https://pbs.twimg.com/profile_images/1269582166104502272/ifgySGtI.jpg) | [X](https://x.com/Rongrongzi) |
 | shimizu nagi | 清水凪 | 中国Cosplayer<br>![](https://p.sda1.dev/30/86e61efc956f4b5fd3a0775562682a23/G7j2On3aEAA0yFV.jpg) | [微博](https://weibo.com/u/7476404429)<br>[X](https://x.com/Yuunagi_n) |
+| kagurazaka mafuyu | 神楽坂真冬 | 中国cosplayer<br>![](https://p.sda1.dev/30/c0c749d76ffd28f72746f2dedc678cd2/image.png) | [X](https://x.com/Mafuyu_MkVII)<br>[微博](https://weibo.com/u/3972053467) |
 
 <!--
 Template: 
