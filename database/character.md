@@ -7694,7 +7694,7 @@ example:
 | akemi soryuin | 奏流院朱美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/38/fb/69509_crt_nr5qq.jpg?r=1589888359)<br>所属作品：`dumbbell nan kilo moteru` |  |
 | gina boyd | 吉娜·波特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/cc/69511_crt_h529x.jpg?r=1556531327)<br>所属作品：`dumbbell nan kilo moteru`<br>日语名：ジーナ・ボイド |  |
 | satomi tachibana | 立花里美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e7/71/69512_crt_aCote.jpg?r=1556531365)<br>所属作品：`dumbbell nan kilo moteru` |  |
-| ye shunguang | 叶瞬光 | ![](https://patchwiki.biligame.com/images/zzz/b/bb/r9bbu7d0xedka8y881eagyhpyxgv9pg.png)<br>所属作品：`zenless zone zero` | [绳网情报站(米游社)](https://baike.mihoyo.com/zzz/wiki/content/1687/detail)<br>[绝区零 Fandom Wiki](https://zenless-zone-zero.fandom.com/wiki/Ye_Shunguang)<br>[萌娘百科](https://zh.moegirl.org.cn/叶瞬光) |
+| ye shunguang | 叶瞬光 | ![](https://patchwiki.biligame.com/images/zzz/b/bb/r9bbu7d0xedka8y881eagyhpyxgv9pg.png)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/叶瞬光) |
 | piper | 派派·韦尔 | ![](https://patchwiki.biligame.com/images/zzz/2/25/go56f0wjnd8ajdu29xwgl1fqmntbmnp.png)<br>所属作品：`zenless zone zero` |  |
 | napoli | 那不勒斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/b/b4/joz3ahzlavryrlmn0s5rtl3pmtikbsg.jpg/525px-那不勒斯立绘.jpg)<br>所属作品：`azur lane` |  |
 | alvitr | 亚尔薇特 | ![](https://i2.hdslb.com/bfs/new_dyn/0c5e2e62df37a11804c4f52429dd89e7262400697.png)<br>所属作品：`azur lane` |  |
