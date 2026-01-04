@@ -6321,7 +6321,7 @@ example:
 | lin yuhsia | 林（林雨霞） | ![](https://patchwiki.biligame.com/images/arknights/c/c4/g79belyqvjzipad4y9o1rn3c4d2psbp.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/林雨霞) |
 | nightmare | 夜魔 | ![](https://patchwiki.biligame.com/images/arknights/d/d7/cb85dua21uq4brjg3s2t71cc5iyb3hd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/夜魔%28明日方舟%29) |
 | kotori kanbe | 神户小鸟 |  | [萌娘百科](https://zh.moegirl.org.cn/神户小鸟) |
-| vivian | 薇薇安 | 此标签并非指代绝区零内角色`c:vivian banshee` |  |
+| vivian | 薇薇安 | 一个常见的英文名，多见于女性<br>注意：此标签并非特别指代`zenless zone zero`中的角色`c:vivian banshee` | [维基百科（英语）](https://en.wikipedia.org/wiki/Vivian_%28personal_name%29?wprov=sfla1) |
 | seth lowell | 赛斯·洛威尔 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/09/11/76099754/0a606ed1e830760246f2e9d57ad08c19_8569053176794517454.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/赛斯·洛威尔) |
 | yuiko kurugaya | 来谷唯湖 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/来谷唯湖) |
 | sasami sasasegawa | 笹濑川佐佐美 | 所属作品: `p:little busters` | [萌娘百科](https://zh.moegirl.org.cn/笹濑川佐佐美) |
