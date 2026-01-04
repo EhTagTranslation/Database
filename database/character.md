@@ -6902,7 +6902,7 @@ example:
 | seol hee | 冰月花雪 | 所属作品：`agents of atlas`<br>![](https://ehgt.org/w/01/997/93869-9keezetj.webp)<br>冰月花雪（Luna Snow），是美国漫威漫画旗下超级英雄，首次登场于游戏《漫威：未来之战》 |  |
 | raynare | 天野夕麻 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/900/91458-4mm2m04e.webp)<br>女性堕天使，外表看似清纯可爱又身材性感的巨乳女高中生，实际上非常卑劣。 |  |
 | riruka dokugamine | 毒峰莉露卡 | 所属作品：`bleach`<br>![](https://ehgt.org/w/02/089/46289-u07la8ii.webp)<br>毒峰莉露卡(日语:毒ヶ峰リルカ,英语:Dokugamine Riruka)是完现术者组织“XCUTION”的成员。 |  |
-| sitri | 西朵莉·斯玛特 | 所属作品：`nageki no bourei ha intai shitai`<br>![](https://ehgt.org/w/02/044/24896-3812doqs.webp)<br>“叹息的亡灵”的成员之一，是擅长精制药品及育成／使役魔法生物的炼金术师。 |  |
+| sitri | sitri |  |  |
 | queen sonia | 索尼娅女王 | 所属作品：`the legend of zelda`<br>![](https://ehgt.org/w/01/990/92741-d4dbq8n9.webp) |  |
 | pk | PK | 所属作品：`girls frontline`<br>![](https://www.gfwiki.org/images/5/59/Pic_PK_HD.png) |  |
 | rosalie | 罗萨莉 | 所属作品：`cross ange`<br>![](https://ehgt.org/w/01/898/85439-k1z7t6gk.webp) |  |
