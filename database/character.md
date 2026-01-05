@@ -8045,6 +8045,7 @@ example:
 | lucia rea regulus | 露西亚·蕾雅·雷古路斯 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/a/a0/Lucia_Rea_Regulus_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>雷古路斯帝国第三王女，年龄比冬夜小四岁。 |  |
 | yae kokonoe | 九重八重 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/b/b3/Yae_Kokonoe_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>来自逸仙的江户武士，年龄比冬夜小一岁。 |  |
 | touya mochizuki | 望月冬夜 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/93/望月冬夜.png)<br>所属作品：`isekai wa smartphone to tomo ni.` | [萌娘百科](https://zh.moegirl.org.cn/望月冬夜) |
+| leen | 翎 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/4/4c/Leen_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>妖精族的领袖。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
