@@ -8043,6 +8043,7 @@ example:
 | elze silhoueska | 艾尔赛·希尔艾斯卡 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/41/Elze_Silhoueska.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>琳赛·希尔艾斯卡的姐姐。望月冬夜的后宫之一。 |  |
 | linze silhoueska | 琳赛·希尔艾斯卡 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d7/Linze_Silhoueska.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>艾尔赛·希尔艾斯卡的妹妹。望月冬夜的后宫之一。 |  |
 | lucia rea regulus | 露西亚·蕾雅·雷古路斯 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/a/a0/Lucia_Rea_Regulus_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>雷古路斯帝国第三王女，年龄比冬夜小四岁。 |  |
+| yae kokonoe | 九重八重 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/b/b3/Yae_Kokonoe_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>来自逸仙的江户武士，年龄比冬夜小一岁。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
