@@ -8039,6 +8039,7 @@ example:
 | natsume tsuchimikado | 土御门夏目 | ![](https://static.wikia.nocookie.net/tokyo-ravens/images/6/67/NatsumeTimeskip.PNG)<br>所属作品：`tokyo ravens`<br>十六岁。土御门本家之人，与亲戚春虎是青梅竹马。 |  |
 | rinze himenogi | 姬乃树凛世 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2b/Rinze_Himenogi.png)<br>所属作品：`lover` |  |
 | nanatsu higadera | 日向寺南夏 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2f/Nanatsu_Higadera.png)<br>所属作品：`lover` |  |
+| yumina | 优美菜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/bd/d8/66110_crt_3f2A3.jpg)<br>所属作品：`lover` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
