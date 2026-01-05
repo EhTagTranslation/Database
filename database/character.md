@@ -8033,6 +8033,7 @@ example:
 | kasumi takamiya | 多华宫霞 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/6/61/Kasumi_Takamiya.jpg)<br>所属作品：`witch craft works`<br>仄的妹妹，就读于冬月高中。 |  |
 | honoka takamiya | 多华宫仄 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/8/8a/Honoka.png)<br>所属作品：`witch craft works` |  |
 | kazane kagari | 火火里风音 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/6/68/Kazane_body.png)<br>所属作品：`witch craft works`<br>绫火的母亲，冬月高中的理事长，同时也是冬月市的工房长。 |  |
+| tanpopo kuraishi | 仓石蒲公英 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/9/90/Tanpopo.png)<br>所属作品：`witch craft works` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
