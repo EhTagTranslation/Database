@@ -8040,6 +8040,7 @@ example:
 | rinze himenogi | 姬乃树凛世 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2b/Rinze_Himenogi.png)<br>所属作品：`lover` |  |
 | nanatsu higadera | 日向寺南夏 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2f/Nanatsu_Higadera.png)<br>所属作品：`lover` |  |
 | yumina | 优美菜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/bd/d8/66110_crt_3f2A3.jpg)<br>所属作品：`lover` |  |
+| elze silhoueska | 艾尔赛·希尔艾斯卡 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/41/Elze_Silhoueska.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>琳赛·希尔艾斯卡的姐姐。望月冬夜的后宫之一。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
