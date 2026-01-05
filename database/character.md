@@ -8028,7 +8028,7 @@ example:
 | kodama himegami | 姬神木灵 | ![](https://static.wikia.nocookie.net/makenki/images/d/da/HimeMug.png)<br>所属作品：`maken-ki`<br>天日学园2年级A班，检警部成员。 |  |
 | takeru ohyama | 大山武 | ![](https://static.wikia.nocookie.net/makenki/images/f/f8/Takeru_Profile.png)<br>所属作品：`maken-ki`<br>本作主角。检警社所属。就读1年B班。 |  |
 | maia tachiki | 立木迈亚 | 立木迈亚是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>立木マイア |  |
-| pearl | 珍珠号 | 《碧蓝航线》中出场角色。原型为HMS 珍珠号，是皇家海军的一艘42炮五级风帆战舰。<br>![](https://patchwiki.biligame.com/images/blhx/thumb/3/33/n7xfyd5j0yytnrrdc27jc4cu3uxl8r7.jpg/525px-珍珠号立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/珍珠号) |
+| pearl | 珍珠号 | ![](https://patchwiki.biligame.com/images/blhx/thumb/3/33/n7xfyd5j0yytnrrdc27jc4cu3uxl8r7.jpg/525px-珍珠号立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/d/d0/ne4fh4tmqu96umfl01m9ieqfhrbyxcb.jpg/525px-珍珠号换装.jpg)<br>所属作品：`azur lane`<br>原型为HMS 珍珠号，是皇家海军的一艘42炮五级风帆战舰。 | [BILIGAME WIKI](https://wiki.biligame.com/blhx/珍珠号) |
 | moeha fujiwara | 藤原萌叶 | ![](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/ec/Moeha_Anime.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>藤原千花的妹妹。 |  |
 | kasumi takamiya | 多华宫霞 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/6/61/Kasumi_Takamiya.jpg)<br>所属作品：`witch craft works`<br>仄的妹妹，就读于冬月高中。 |  |
 | honoka takamiya | 多华宫仄 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/8/8a/Honoka.png)<br>所属作品：`witch craft works` |  |
