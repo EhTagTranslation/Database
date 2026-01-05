@@ -8035,6 +8035,7 @@ example:
 | kazane kagari | 火火里风音 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/6/68/Kazane_body.png)<br>所属作品：`witch craft works`<br>绫火的母亲，冬月高中的理事长，同时也是冬月市的工房长。 |  |
 | tanpopo kuraishi | 仓石蒲公英 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/9/90/Tanpopo.png)<br>所属作品：`witch craft works` |  |
 | uka-no-mitama-no-kami | 宇迦之御魂神 | ![](https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/9/93/Ukanomitama.no.Kami.full.1649589.jpg)<br>所属作品：`inari konkon koi iroha`<br>稻荷神社所供奉的神，被人称为稻荷神的神灵。 |  |
+| touka fushimi | 伏见灯日 | ![](https://static.wikia.nocookie.net/inari-konkon-koi-iroha/images/1/17/Tōka_Fushimi_Anime.png)<br>所属作品：`inari konkon koi iroha`<br>伏见稻荷的兄长，灵力很强，拥有极其特殊的体质，本作唯一一个天生就能看见神明的人类。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
