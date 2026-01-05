@@ -2673,6 +2673,7 @@ example:
 | isekai de cheat nouryoku wo te ni shita ore wa genjitsu sekai wo mo musou suru | 在异世界获得超强能力的我,在现实世界照样无敌 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2883904157.webp)<br>《在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～》是由日本作家美红创作、桑岛黎音负责插画的轻小说。并有同名改编动画。 |  |
 | shinja zero no megami-sama to hajimeru isekai kouryaku | 和没有信徒的女神大人一起攻略异世界 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2920413069.webp)<br>由日本作家大崎アイル创作、Tam-U负责插画的轻小说作品。并有同名改编动画。 |  |
 | world dai star | 梦想星座盘 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c8/Wds-kv_sirius.png)<br>由动漫《World Dyster》授权改编的音游。 | [萌娘百科](https://zh.moegirl.org.cn/World_Dai_Star) |
+| tsuihousha shokudou e youkoso | 欢迎来到流放者食堂 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921970693.webp)<br>君川优树创作的网络小说，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
