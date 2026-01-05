@@ -3114,7 +3114,7 @@ example:
 | ayaka sunohara | 春原彩花 |  |  |
 | yang guifei | 杨贵妃 | Fate/Grand Order中的登场角色。 | [https://fgo.wiki/w/杨贵妃](https://fgo.wiki/w/杨贵妃) |
 | akane shinjou | 新条茜 | ![](https://i0.hdslb.com/bfs/new_dyn/aae4bfdcdd6362cec56830e4190e9479262400697.png)<br>新条茜是由TRIGGER所制作的动画《SSSS.GRIDMAN》及其衍生作品的登场角色，粉发红瞳的女子高中生。 | [萌娘百科](https://zh.moegirl.org.cn/新条茜) |
-| mirai kuriyama | 栗山未来 | 栗山未来（くりやま みらい，Kuriyama Mirai）是鸟居奈古梦创作的轻小说《境界的彼方》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/栗山未来) |
+| mirai kuriyama | 栗山未来 | ![](https://static.wikia.nocookie.net/kyoukainokanata/images/7/79/Miraiiiii.png)<br>所属作品：`kyoukai no kanata` | [萌娘百科](https://zh.moegirl.org.cn/栗山未来) |
 | akihito kanbara | 神原秋人 | 神原秋人（かんばら あきひと）是鸟居奈古梦创作的轻小说《境界的彼方》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/神原秋人) |
 | ichika orimura | 织斑一夏 |  |  |
 | chifuyu orimura | 织斑千冬 | ![](https://ehgt.org/w/01/922/65741-b2f7jbna.webp)<br>所属作品：`infinite stratos` |  |
