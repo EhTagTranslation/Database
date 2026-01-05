@@ -4910,7 +4910,7 @@ example:
 | kabane kusaka | 日下夏羽 | 日下夏羽是由蓝本松所创作的漫画《怪物事变》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日下夏羽) |
 | sigewinne | 希格雯 | ![](https://patchwiki.biligame.com/images/ys/7/78/qp7o7tcmr6ho4vfivdc6j03qt3p3f0z.gif)<br>希格雯（英语：sigewinne）所属作品:`p:genshin impact`<br>梅洛彼得堡的美露莘护士长，平等地关爱着海底监牢中的每一名罪人。 | [萌娘百科](https://zh.moegirl.org.cn/希格雯)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/希格雯) |
 | mitsuki nase | 名瀬美月 | ![](https://ehgt.org/w/02/054/82293-80wqxe64.webp)<br>所属作品：`kyoukai no kanata` |  |
-| izumi nase | 名濑泉 |  |  |
+| izumi nase | 名濑泉 | ![](https://ehgt.org/w/02/001/21125-qa02vsjk.webp)<br>所属作品：`kyoukai no kanata` |  |
 | kaito kirishima | 雾岛海人 |  |  |
 | ichika takatsuki | 贵月一花 |  |  |
 | magdeburg | 马格德堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/63642d4497fbb691b52d722098cb4b9a262400697.png)<br>M级轻巡洋舰马格德堡（马格达莱娜）KMS Magdeburg マクデブルク。 |  |
