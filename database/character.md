@@ -5188,7 +5188,7 @@ example:
 | stella | 星 | 所属作品: `p:dragon quest ix` | [Fandom](https://dragonquest.fandom.com/wiki/Stella) |
 | asahi ohka | 樱花朝日 | 樱花朝日是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，穗月椛的同学，非常亲近人的活泼开朗的女孩子。<br>有着把想到的事情直接说出来的性格，喜欢用绰号称呼别人，一方面擅长运动，一方面又不擅长学习，在考试前经常萎靡不振。<br>![樱花朝日](https://img.moegirl.org.cn/common/1/14/OukaAsahi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/樱花朝日) |
 | miyo murosaki | 室崎美夜 | 室崎美夜是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，穗月椛的同学，有点怕羞的老实的女孩子。<br>重度百合控，虽然本人打算隐瞒，但也有因看到真寻、椛、朝日关系很好的样子而感到高兴的一面……虽然本人没有自觉，但是料理水平非常差劲。<br>![室崎美夜](https://img.moegirl.org.cn/common/b/bd/MurosakiMiyo.jpg) | [萌娘百科](https://zh.moegirl.org.cn/室崎美夜) |
-| konan | 小南 | 火影忍者中晓组织女成员 |  |
+| konan | 小南 | ![](https://ehgt.org/w/02/187/61722-4f9csy5o.webp)<br>所属作品：`naruto` |  |
 | shadowo tto shark | 夏朵 | 《`p:debby the corsifa wa makezugirai`》的女配角，社恐大只女。 |  |
 | sonic the hedgehog | 刺猬索尼克 |  |  |
 | megumi fujishima | 藤岛慈 | 藤岛慈（日语：藤島 慈，罗马字：Fujishima Megumi）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![藤岛慈](https://img.moegirl.org.cn/common/thumb/2/25/Megumi_img1.png/280px-Megumi_img1.png) | [萌娘百科](https://zh.moegirl.org.cn/藤岛慈) [Fandom](https://love-live.fandom.com/wiki/Megumi_Fujishima) |
