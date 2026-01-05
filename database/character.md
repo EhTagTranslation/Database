@@ -8026,6 +8026,7 @@ example:
 | aki nijou | 二条秋 | ![](https://ehgt.org/w/02/083/42826-5c4u3pxs.webp)<br>所属作品：`maken-ki`<br>校医兼保健和美术老师，魔检队顾问，初代魔检队成员之一。<br>身高：166cm，三围：103-58-97，罩杯K。 |  |
 | inaho kushiya | 栉八稻穗 | ![](https://static.wikia.nocookie.net/makenki/images/1/12/Inaho_Profile.png)<br>所属作品：`maken-ki`<br>检警部所属，天日学园1年级B班，自称是武的未婚妻。 |  |
 | kodama himegami | 姬神木灵 | ![](https://static.wikia.nocookie.net/makenki/images/d/da/HimeMug.png)<br>所属作品：`maken-ki`<br>天日学园2年级A班，检警部成员。 |  |
+| takeru ohyama | 大山武 | ![](https://static.wikia.nocookie.net/makenki/images/f/f8/Takeru_Profile.png)<br>所属作品：`maken-ki`<br>本作主角。检警社所属。就读1年B班。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
