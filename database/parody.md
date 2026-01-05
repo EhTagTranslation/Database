@@ -2676,6 +2676,7 @@ example:
 | tsuihousha shokudou e youkoso | 欢迎来到流放者食堂 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921970693.webp)<br>君川优树创作的网络小说，并有同名改编动画。 |  |
 | tenkaichi nihon saikyou bugeisha ketteisen | 天下第一日本最强武士选拔赛 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2920407349.webp)<br>《天下第一日本最强武士选拔赛》是由中丸洋介担任原作、あずま京太郎负责作画的格斗题材漫画，以赌上国家荣誉的异种武术对战为核心展开。 |  |
 | inari konkon koi iroha | 狐仙的恋爱入门 | ![](https://img3.doubanio.com/view/subject/s/public/s27578543.jpg)<br>日本漫画家よしだもろへ创作的漫画，并有同名改编动画。 |  |
+| tokyo ravens | 东京暗鸦 | ![](https://img3.doubanio.com/view/subject/s/public/s22704472.jpg)<br>《东京暗鸦》是日本轻小说家字野耕平创作、澄兵负责插画的幻想题材轻小说，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
