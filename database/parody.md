@@ -1146,7 +1146,7 @@ example:
 | isekai shokudou | 异世界食堂 | 《异世界食堂》（異世界食堂），日本轻小说作家犬冢惇平的轻小说作品，发表于小说投稿网站成为小说家吧的网络连载小说。由主妇之友社出版，插画为榎波克己（エナミカツミ）。2016年9月28日宣布动画化，于2017年7月3日起由东京电视台、AT-X等电视台播放。台湾中文版由四季出版发行。 | [维基百科](https://zh.wikipedia.org/wiki/異世界食堂) (\*) |
 | baccano | 永生之酒 | 《永生之酒》（バッカーノ!，Baccano!）是由成田良悟创作的一部轻小说，并有漫画、动画、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/永生之酒) (\*\*) |
 | berserk | 剑风传奇 | 《剑风传奇》（日语：ベルセルク，英语：Berserk）是日本漫画家三浦建太郎所作的奇幻漫画，现时在白泉社出版的双周刊杂志《YOUNG ANIMAL》不定期连载中。 | [维基百科](https://zh.wikipedia.org/wiki/烙印勇士) (\*) |
-| isekai wa smartphone to tomo ni. | 带着智能手机闯荡异世界 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2450372216.webp)<br>《带着智能手机闯荡异世界。》是冬原パトラ所作的日本轻小说作品，并有同名改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/帶著智慧型手機闖蕩異世界。) (\*) |
+| isekai wa smartphone to tomo ni. | 带着智能手机闯荡异世界 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2450372216.webp)<br>《带着智能手机闯荡异世界。》是冬原パトラ所作的日本轻小说作品，并有同名改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/帶著智慧型手機闖蕩異世界。) |
 | atelier tanaka | 田中是年龄=没女朋友的魔法师 |  | [百度贴吧](https://tieba.baidu.com/f?kw=田中的工作室) |
 | servant x service | 跟班×服务 | 《跟班×服务》（日语：サーバント×サービス，英语：SERVANT×SERVICE，香港译作“爆趣乡公所”，台湾译作“迷糊公务员 SERVANT×SERVICE”）是高津Karino的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/Servant_x_Service) (\*) |
 | bakuon | 爆音少女！！ | 《爆音少女！！》（日语：ばくおん!!），是日本漫画家织本任那的机车题材漫画作品，自2011年开始于秋田书店的漫画杂志《月刊Young Champion烈》连载。电视动画于2016年4月开始播放至同年6月，全12话。 | [维基百科](https://zh.wikipedia.org/wiki/爆音少女！！) (\*) |
