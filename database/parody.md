@@ -2679,6 +2679,7 @@ example:
 | tokyo ravens | 东京暗鸦 | ![](https://img3.doubanio.com/view/subject/s/public/s22704472.jpg)<br>《东京暗鸦》是日本轻小说家字野耕平创作、澄兵负责插画的幻想题材轻小说，并有同名改编动画。 |  |
 | yozakura quartet | 夜樱四重奏 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2164686124.webp)<br>《夜樱四重奏》为日本漫画家安田典生创作的漫画作品，并有同名改编动画。 |  |
 | wizard barristers | 辩魔士塞西尔 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2166913064.webp)<br>《Wizard Barristers弁魔士塞西尔》是由日本动画公司ARMS制作的原创电视动画作品。<br>（ウィザード・バリスターズ 弁魔士セシル） |  |
+| buddy complex | Buddy Complex | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2161155552.webp)<br>《Buddy Complex》是由矢立肇担任原作、田边泰裕执导，日本SUNRISE公司制作的原创机器人动画 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
