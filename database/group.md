@@ -13560,6 +13560,7 @@ example:
 | 19llddkk | 19LLDDKK |  |  |
 | mousou hunter | 妄想ハンター |  |  |
 | ribyobu | リビョウブ |  |  |
+| nekosaku land | 猫作ランド |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
