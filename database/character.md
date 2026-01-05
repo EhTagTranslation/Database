@@ -7354,7 +7354,7 @@ example:
 | hizuru minakata | 南方日鹤 | ![](https://praogxqcch.hath.network/om/179837439/a642df146f85bf3049fe5b9511d986121fbc2892-1005590-832-1216-png/f73f123a2c86e69ea6e8a016b40ceff84aace226-55724-800-1169-wbp/800/eu9ugnypoy6ffi1tkce/0916.webp)<br>所属作品：`summertime render` |  |
 | fa yuiry | 花·园丽 | ![](https://ehgt.org/w/01/795/13240-ss1s95a4.webp)<br>所属作品：`zeta gundam` |  |
 | rain mikamura | 深村玲 | ![](https://patchwiki.biligame.com/images/gundam/thumb/7/71/ef91fg4p2ig0ibx01j63knis1ud83k6.jpg/375px-深村玲.jpg)<br>所属作品：`g gundam` |  |
-| haruko amaya | 天谷春恋 | ![](https://ehgt.org/w/01/794/29774-l0mobg7h.webp)<br>所属作品：`maken-ki` |  |
+| haruko amaya | 天谷春恋 | ![](https://static.wikia.nocookie.net/makenki/images/d/dd/AmayaHaruko_Render15.png)<br>所属作品：`maken-ki`<br>天日学园2年级A班，统生会副会长，检警部部长兼宿舍长。 |  |
 | torricelli | 托里拆利 | ![](https://patchwiki.biligame.com/images/blhx/thumb/1/12/e0jvfvlsn4wq9j7jalhbe15vzeezam2.jpg/525px-托里拆利立绘.jpg)<br>所属作品：`azur lane` |  |
 | aoi misumi | 三角葵 | ![](https://img.moegirl.org.cn/common/3/3e/三角_葵.png)<br>所属作品：`ongeki` |  |
 | riku yuuki | 结城莉玖 | ![](https://img.moegirl.org.cn/common/b/b1/結城_莉玖.png)<br>所属作品：`ongeki` |  |
