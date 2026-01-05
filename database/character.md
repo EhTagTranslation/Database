@@ -8038,6 +8038,7 @@ example:
 | touka fushimi | 伏见灯日 | ![](https://static.wikia.nocookie.net/inari-konkon-koi-iroha/images/1/17/Tōka_Fushimi_Anime.png)<br>所属作品：`inari konkon koi iroha`<br>伏见稻荷的兄长，灵力很强，拥有极其特殊的体质，本作唯一一个天生就能看见神明的人类。 |  |
 | natsume tsuchimikado | 土御门夏目 | ![](https://static.wikia.nocookie.net/tokyo-ravens/images/6/67/NatsumeTimeskip.PNG)<br>所属作品：`tokyo ravens`<br>十六岁。土御门本家之人，与亲戚春虎是青梅竹马。 |  |
 | rinze himenogi | 姬乃树凛世 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/a6/姬乃树凛世.png)<br>所属作品：`lover` |  |
+| nanatsu higadera | 日向寺南夏 | ![](https://static.wikia.nocookie.net/photo-kano/images/2/2f/Nanatsu_Higadera.png)<br>所属作品：`lover` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
