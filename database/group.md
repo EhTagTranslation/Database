@@ -13558,6 +13558,7 @@ example:
 | hanekkaeri | はねっかえり |  |  |
 | yumemakura | いろもの亭 |  |  |
 | 19llddkk | 19LLDDKK |  |  |
+| mousou hunter | 妄想ハンター |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
