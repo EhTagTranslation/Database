@@ -8024,6 +8024,7 @@ example:
 | abbey windsor | 艾比·温莎 | ![](https://static.wikia.nocookie.net/gundam/images/c/cf/GGen_Abbey_Windsor.PNG)<br>所属作品：`gundam seed destiny`<br>（ビー・ウィンザー） |  |
 | elena kimberlight | 埃琳娜·金巴莱特 | ![](https://ehgt.org/w/02/186/15277-mza3dsjn.webp)<br>所属作品：`kinsou no vermeil` | [百度百科](https://baike.baidu.com/item/埃琳娜·金巴莱特/61743461) |
 | aki nijou | 二条秋 | ![](https://ehgt.org/w/02/083/42826-5c4u3pxs.webp)<br>所属作品：`maken-ki`<br>校医兼保健和美术老师，魔检队顾问，初代魔检队成员之一。<br>身高：166cm，三围：103-58-97，罩杯K。 |  |
+| inaho kushiya | 栉八稻穗 | ![](https://static.wikia.nocookie.net/makenki/images/1/12/Inaho_Profile.png)<br>所属作品：`maken-ki`<br>检警部所属，天日学园1年级B班，自称是武的未婚妻。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
