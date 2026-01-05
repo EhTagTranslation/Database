@@ -14576,6 +14576,7 @@ example:
 | pan no sashimi | パンの刺身 |  | [pixiv](https://www.pixiv.net/users/6411724/)<br>[X](https://x.com/weizenbrot1016) |
 | hoozuki | ほおずき |  |  |
 | minatoku | みなとく |  |  |
+| ohbaric | 大馬陸 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
