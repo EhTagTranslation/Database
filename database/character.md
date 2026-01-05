@@ -4909,7 +4909,7 @@ example:
 | ifrit | 伊芙利特 | ![](https://patchwiki.biligame.com/images/arknights/c/cd/e6vv0jydug9386wy3ao9qth1dp8lbi5.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:伊芙利特) |
 | kabane kusaka | 日下夏羽 | 日下夏羽是由蓝本松所创作的漫画《怪物事变》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日下夏羽) |
 | sigewinne | 希格雯 | ![](https://patchwiki.biligame.com/images/ys/7/78/qp7o7tcmr6ho4vfivdc6j03qt3p3f0z.gif)<br>希格雯（英语：sigewinne）所属作品:`p:genshin impact`<br>梅洛彼得堡的美露莘护士长，平等地关爱着海底监牢中的每一名罪人。 | [萌娘百科](https://zh.moegirl.org.cn/希格雯)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/希格雯) |
-| mitsuki nase | 名瀬美月 |  |  |
+| mitsuki nase | 名瀬美月 | ![](https://ehgt.org/w/02/054/82293-80wqxe64.webp)<br>所属作品：`kyoukai no kanata` |  |
 | izumi nase | 名濑泉 |  |  |
 | kaito kirishima | 雾岛海人 |  |  |
 | ichika takatsuki | 贵月一花 |  |  |
