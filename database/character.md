@@ -8027,6 +8027,7 @@ example:
 | inaho kushiya | 栉八稻穗 | ![](https://static.wikia.nocookie.net/makenki/images/1/12/Inaho_Profile.png)<br>所属作品：`maken-ki`<br>检警部所属，天日学园1年级B班，自称是武的未婚妻。 |  |
 | kodama himegami | 姬神木灵 | ![](https://static.wikia.nocookie.net/makenki/images/d/da/HimeMug.png)<br>所属作品：`maken-ki`<br>天日学园2年级A班，检警部成员。 |  |
 | takeru ohyama | 大山武 | ![](https://static.wikia.nocookie.net/makenki/images/f/f8/Takeru_Profile.png)<br>所属作品：`maken-ki`<br>本作主角。检警社所属。就读1年B班。 |  |
+| maia tachiki | 立木迈亚 | 立木迈亚是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。<br>立木マイア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
