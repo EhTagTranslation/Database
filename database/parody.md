@@ -2675,6 +2675,7 @@ example:
 | world dai star | 梦想星座盘 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c8/Wds-kv_sirius.png)<br>由动漫《World Dyster》授权改编的音游。 | [萌娘百科](https://zh.moegirl.org.cn/World_Dai_Star) |
 | tsuihousha shokudou e youkoso | 欢迎来到流放者食堂 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921970693.webp)<br>君川优树创作的网络小说，并有同名改编动画。 |  |
 | tenkaichi nihon saikyou bugeisha ketteisen | 天下第一日本最强武士选拔赛 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2920407349.webp)<br>《天下第一日本最强武士选拔赛》是由中丸洋介担任原作、あずま京太郎负责作画的格斗题材漫画，以赌上国家荣誉的异种武术对战为核心展开。 |  |
+| inari konkon koi iroha | 狐仙的恋爱入门 | ![](https://img3.doubanio.com/view/subject/s/public/s27578543.jpg)<br>日本漫画家よしだもろへ创作的漫画，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
