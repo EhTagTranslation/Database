@@ -8031,6 +8031,7 @@ example:
 | pearl | 珍珠号 | 《碧蓝航线》中出场角色。原型为HMS 珍珠号，是皇家海军的一艘42炮五级风帆战舰。<br>![](https://patchwiki.biligame.com/images/blhx/thumb/3/33/n7xfyd5j0yytnrrdc27jc4cu3uxl8r7.jpg/525px-珍珠号立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/珍珠号) |
 | moeha fujiwara | 藤原萌叶 | ![](https://static.wikia.nocookie.net/kaguyasama-wa-kokurasetai/images/e/ec/Moeha_Anime.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>藤原千花的妹妹。 |  |
 | kasumi takamiya | 多华宫霞 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/6/61/Kasumi_Takamiya.jpg)<br>所属作品：`witch craft works`<br>仄的妹妹，就读于冬月高中。 |  |
+| honoka takamiya | 多华宫仄 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/8/8a/Honoka.png)<br>所属作品：`witch craft works` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
