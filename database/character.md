@@ -8047,6 +8047,7 @@ example:
 | touya mochizuki | 望月冬夜 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/93/望月冬夜.png)<br>所属作品：`isekai wa smartphone to tomo ni.` | [萌娘百科](https://zh.moegirl.org.cn/望月冬夜) |
 | leen | 翎 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/4/4c/Leen_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>妖精族的领袖。 |  |
 | sushie urnea ortlinde | 苏西·艾尔涅雅·欧尔托林德 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/9/99/Sushie_Ernea_Ortlinde_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>欧尔托林德公爵的独生女。遭到蜥蜴人袭击时被冬夜所救。<br>翎 |  |
+| loulan | 楼兰妃 | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/d/da/Loulan_%28Anime%29.png)<br>所属作品：`kusuriya no hitorigoto` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
