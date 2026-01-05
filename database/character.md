@@ -8022,6 +8022,7 @@ example:
 | sunna | 千夏 | 所属作品：`zenless zone zero` |  |
 | henrietta | 海莉耶塔 | ![](https://tsuihosha-shokudo.com/assets/img/chara/img_chara_stand03.png)<br>所属作品：`tsuihousha shokudou e youkoso`<br>因“只是女人”这个不合理的理由，被逐出队伍的女剑士。 |  |
 | abbey windsor | 艾比·温莎 | ![](https://static.wikia.nocookie.net/gundam/images/c/cf/GGen_Abbey_Windsor.PNG)<br>所属作品：`gundam seed destiny`<br>（ビー・ウィンザー） |  |
+| elena kimberlight | 埃琳娜·金巴莱特 | ![](https://ehgt.org/w/02/186/15277-mza3dsjn.webp)<br>所属作品：`kinsou no vermeil` | [百度百科](https://baike.baidu.com/item/埃琳娜·金巴莱特/61743461) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
