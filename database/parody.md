@@ -2680,6 +2680,7 @@ example:
 | yozakura quartet | 夜樱四重奏 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2164686124.webp)<br>《夜樱四重奏》为日本漫画家安田典生创作的漫画作品，并有同名改编动画。 |  |
 | wizard barristers | 辩魔士塞西尔 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2166913064.webp)<br>《Wizard Barristers弁魔士塞西尔》是由日本动画公司ARMS制作的原创电视动画作品。<br>（ウィザード・バリスターズ 弁魔士セシル） |  |
 | buddy complex | Buddy Complex | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2161155552.webp)<br>《Buddy Complex》是由矢立肇担任原作、田边泰裕执导，日本SUNRISE公司制作的原创机器人动画 |  |
+| lover | LoveR：捕捉心动 | ![](https://lain.bgm.tv/r/400/pic/cover/l/46/53/237059_uIH16.jpg)<br>《LoveR：捕捉心动》由知名制作人兼剧本家“杉山一郎”与人气插画家“箕星太朗”合作制作，共有六位风格迥异、各具性格的女性角色可供攻略。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
