@@ -3427,7 +3427,7 @@ example:
 | robin | 知更鸟 \| 鲁弗莱 \| 罗宾 | ①<br>![](https://patchwiki.biligame.com/images/sr/thumb/b/b9/q7uxyiej5tg4p3ysts38oxcv23mt76p.png/1050px-知更鸟立绘.png)<br>所属作品：`honkai star rail`<br>出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/fd/Robin_Heroes.png/revision/latest?cb=20170122062316)<br>![](https://static.wikia.nocookie.net/fireemblem/images/d/dd/Robin_Heroes_F.png/revision/latest?cb=20170210061127)<br>日文：ルフレ<br>所属作品：`fire emblem awakening`<br><br>③<br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [鲁弗莱](https://fireemblem.fandom.com/wiki/Robin) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
 | eugeo | 尤吉欧 |  |  |
 | quinella | 葵妮拉 |  |  |
-| makima | 玛奇玛 |  |  |
+| makima | 玛奇玛 | ![](https://ehgt.org/w/02/175/72970-81398m3d.webp)<br>所属作品：`chainsaw man` |  |
 | denji | 电次 | 早川秋是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 |  |
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | ![](https://patchwiki.biligame.com/images/ys/e/ef/t7mlw6ms8041z8f03gd4n96s5hwz5nt.gif)<br>所属作品:`p:genshin impact`<br>活跃在璃月港的知名律法咨询师，混有仙兽血脉的精明少女。 | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
