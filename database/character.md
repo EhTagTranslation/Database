@@ -8058,6 +8058,7 @@ example:
 | manami ogura | 小仓真奈美 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/4/4f/Manami_Ogura.jpg)<br>所属作品：`ano natsu de matteru`<br>石垣哲朗的姐姐。 |  |
 | mio kitahara | 北原美樱 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/2/21/Mio_Kitahara.png)<br>所属作品：`ano natsu de matteru`<br>喜欢哲朗，却不知道如何行动。 |  |
 | fuuka ayase | 绫濑风香 | ![](https://ehgt.org/w/02/058/20676-uf98uzpg.webp)<br>所属作品：`yotsubato`<br>绫濑家三姐妹中的二姐 |  |
+| ena ayase | 绫濑惠那 | 所属作品：`yotsubato`<br>绫濑家的三女。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
