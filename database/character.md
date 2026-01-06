@@ -8052,6 +8052,7 @@ example:
 | hozuki ferrari | 星月・费拉里 | ![](https://static.wikia.nocookie.net/galilei-donna/images/9/9c/11498-121420292.png)<br>所属作品：`galilei donna`<br>（星月・フェラーリ） |  |
 | chisaki hiradaira | 比良平千咲 | ![](https://static.wikia.nocookie.net/naginoasukara/images/0/0e/Chisaki_Hiradaira_image.png)<br>所属作品：`nagi no asukara` |  |
 | hikari sakishima | 先岛光 | ![](https://static.wikia.nocookie.net/naginoasukara/images/c/c1/Hikari_Sakishima_image.png)<br>所属作品：`nagi no asukara` |  |
+| tsumugu kihara | 木原纺 | ![](https://static.wikia.nocookie.net/naginoasukara/images/2/28/Tsumugu_Kihara_image.png)<br>所属作品：`nagi no asukara` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
