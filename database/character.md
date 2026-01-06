@@ -5071,7 +5071,7 @@ example:
 | vladilena milize | 芙拉蒂蕾娜·米利杰 | 所属作品: `p:86`<br><br>本名芙拉蒂蕾娜·米利杰。圣玛格诺利亚共和国军人，是一名十六岁便晋升少校的精英。出身白银种旧封建贵族的大小姐。和大多数麻木不仁的圣玛格诺利亚国民不同，拒绝将“八六”视为用过即弃的工具。 | [萌娘百科](https://zh.moegirl.org.cn/芙拉蒂蕾娜·米利杰) |
 | sharon | 莎郎 \| 莎朗·荷莉格蕾尔 | 所属作品: `p:words worth`<br>莎郎，女主角，影之一族的最强女剑士，男主角的未婚妻和青梅竹马。喜欢最强的男性，险遭光之一族国王强奸玷污，后被男主角拯救，与之共赴爱河。<br><br>所属作品: `p:engage kiss`<br>莎朗·荷莉格蕾尔，女主角之一，表面上是支持博爱主义的“星天教会”的修女，实际上是世界最大的驱魔师集团的代理人。 | [莎郎](https://bangumi.tv/character/23847) [莎朗·荷莉格蕾尔](https://zh.moegirl.org.cn/莎朗·荷莉格蕾尔) |
 | warlock | 术士 |  |  |
-| tamaki kotatsu | 环古达 |  |  |
+| tamaki kotatsu | 环古达 | ![](https://ehgt.org/w/02/052/64545-cz27h3tg.webp)<br>所属作品：`enen no shouboutai` |  |
 | brigitte lindholm | 布丽吉塔 |  |  |
 | tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
 | kamille bidan | 卡缪·比丹 | 翻译别称：卡缪·维丹 | [百度百科](https://baike.baidu.com/item/卡缪·维丹/7154634?fr=ge_ala)<br>[萌娘百科](https://zh.moegirl.org.cn/卡缪·比丹) |
