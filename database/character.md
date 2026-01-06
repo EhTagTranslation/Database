@@ -4912,7 +4912,7 @@ example:
 | mitsuki nase | 名瀬美月 | ![](https://ehgt.org/w/02/054/82293-80wqxe64.webp)<br>所属作品：`kyoukai no kanata` |  |
 | izumi nase | 名濑泉 | ![](https://ehgt.org/w/02/001/21125-qa02vsjk.webp)<br>所属作品：`kyoukai no kanata` |  |
 | kaito kirishima | 雾岛海人 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/7/7d/Kaito_Kirishima.png)<br>所属作品：`ano natsu de matteru`<br>高中一年级学生，以摄影为兴趣爱好并主导学生团队的影片创作。 |  |
-| ichika takatsuki | 贵月一花 |  |  |
+| ichika takatsuki | 贵月一花 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/1/12/Ichika_Takatsuki.png)<br>所属作品：`ano natsu de matteru`<br>高中三年级转学生，拥有一头亮眼的红长发。从外星球来到地球，身边还带着谜之科技行李包。 |  |
 | magdeburg | 马格德堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/63642d4497fbb691b52d722098cb4b9a262400697.png)<br>M级轻巡洋舰马格德堡（马格达莱娜）KMS Magdeburg マクデブルク。 |  |
 | kaveh | 卡维 | 卡维是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡维%28原神%29#) |
 | tea gardner | 真崎杏子 | 游戏王系列第1作，动画《游戏王 决斗者王国》及其衍生作品中的女主角。<br>武藤游戏的青梅竹马，长相可爱又天然，小时候在因为父亲在纽约工作而在当地生活，看了「黑魔导女孩 贤者之宝石」这出舞台剧深受其感动，决心想成为一名舞者。<br>性格善良，重视友情，一直很关照着在学校里受欺负的游戏，经常和游戏、城之内和本田广一起行动。<br>是武藤游戏的暗恋对象，但因为有一次在汉堡店打工时被越狱犯挟持成为人质时，被暗游戏解救，暗恋着暗游戏。<br>![图](https://img.moegirl.org.cn/common/5/52/真崎杏子.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真崎杏子) |
