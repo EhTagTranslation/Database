@@ -989,7 +989,7 @@ example:
 | katekyo hitman reborn | 家庭教师HITMAN REBORN! |  |  |
 | tsugumomo | 怪怪守护神 |  |  |
 | the simpsons | 辛普森一家 |  |  |
-| ano natsu de matteru | 在盛夏等待 |  |  |
+| ano natsu de matteru | 在那个夏天等待 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/a/a6/Anonatsu_Special.jpg)<br>《在那个夏天等待》是J.C.STAFF制作的原创动画，由小说家黑田洋介编写剧本并担当系列构成，插画师羽音田乐负责角色原案。 |  |
 | net ghost pipopa | 网络精灵PIPOPA | 光速大冒险PIPOPA |  |
 | dominion tank police | 特搜战车队 | 警察战车队 |  |
 | ruin explorers | 秘境探险 |  |  |
