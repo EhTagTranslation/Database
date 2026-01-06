@@ -8049,6 +8049,7 @@ example:
 | sushie urnea ortlinde | 苏西·艾尔涅雅·欧尔托林德 | ![](https://static.wikia.nocookie.net/isekai-smartphone/images/9/99/Sushie_Ernea_Ortlinde_Anime.png)<br>所属作品：`isekai wa smartphone to tomo ni.`<br>欧尔托林德公爵的独生女。遭到蜥蜴人袭击时被冬夜所救。<br>翎 |  |
 | loulan | 楼兰妃 | ![](https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/d/da/Loulan_%28Anime%29.png)<br>所属作品：`kusuriya no hitorigoto` |  |
 | manaka mukaido | 向井户爱花 | ![](https://static.wikia.nocookie.net/naginoasukara/images/8/8e/Manaka_Mukaido_image.png)<br>所属作品：`nagi no asukara`<br>被纺意外打捞上岸，之后又在森林里被纺救起并带回家，所以对纺带有好奇心和好感。 |  |
+| hozuki ferrari | 星月・费拉里 | ![](https://static.wikia.nocookie.net/galilei-donna/images/9/9c/11498-121420292.png)<br>所属作品：`galilei donna`<br>（星月・フェラーリ） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
