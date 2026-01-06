@@ -14577,6 +14577,7 @@ example:
 | hoozuki | ほおずき |  |  |
 | minatoku | みなとく |  |  |
 | ohbaric | 大馬陸 |  |  |
+| jihuatong | 计划通 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
