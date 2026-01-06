@@ -8056,6 +8056,7 @@ example:
 | kanna tanigawa | 谷川柑菜 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/5/56/Kanna_Tanigawa.png)<br>所属作品：`ano natsu de matteru`<br>雾岛的同学，说话时十分热情，性格开朗，也有点易怒并且容易吃醋。很容易喝醉。 |  |
 | remon yamano | 山乃柠檬 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/2/2e/Remon_Yamano.jpg)<br>所属作品：`ano natsu de matteru`<br>有点腹黑，不喜欢男生跟女生搭讪。 |  |
 | manami ogura | 小仓真奈美 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/4/4f/Manami_Ogura.jpg)<br>所属作品：`ano natsu de matteru`<br>石垣哲朗的姐姐。 |  |
+| mio kitahara | 北原美樱 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/2/21/Mio_Kitahara.png)<br>所属作品：`ano natsu de matteru`<br>喜欢哲朗，却不知道如何行动。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
