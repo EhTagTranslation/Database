@@ -8051,6 +8051,7 @@ example:
 | manaka mukaido | 向井户爱花 | ![](https://static.wikia.nocookie.net/naginoasukara/images/8/8e/Manaka_Mukaido_image.png)<br>所属作品：`nagi no asukara`<br>被纺意外打捞上岸，之后又在森林里被纺救起并带回家，所以对纺带有好奇心和好感。 |  |
 | hozuki ferrari | 星月・费拉里 | ![](https://static.wikia.nocookie.net/galilei-donna/images/9/9c/11498-121420292.png)<br>所属作品：`galilei donna`<br>（星月・フェラーリ） |  |
 | chisaki hiradaira | 比良平千咲 | ![](https://static.wikia.nocookie.net/naginoasukara/images/0/0e/Chisaki_Hiradaira_image.png)<br>所属作品：`nagi no asukara` |  |
+| hikari sakishima | 先岛光 | ![](https://static.wikia.nocookie.net/naginoasukara/images/c/c1/Hikari_Sakishima_image.png)<br>所属作品：`nagi no asukara` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
