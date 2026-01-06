@@ -8059,7 +8059,7 @@ example:
 | mio kitahara | 北原美樱 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/2/21/Mio_Kitahara.png)<br>所属作品：`ano natsu de matteru`<br>喜欢哲朗，却不知道如何行动。 |  |
 | fuuka ayase | 绫濑风香 | ![](https://ehgt.org/w/02/058/20676-uf98uzpg.webp)<br>所属作品：`yotsubato`<br>绫濑家三姐妹中的二姐 |  |
 | ena ayase | 绫濑惠那 | 所属作品：`yotsubato`<br>绫濑家的三女。 |  |
-| jahoda | 雅珂达 | ![](https://patchwiki.biligame.com/images/ys/f/f8/00lum9bzqtte2j02sjtmj012o7ncp2h.png)<br>所属作品：`genshin impact`<br>十分可靠，无所不能（自称）的「秘闻馆」员工。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/雅珂达) |
+| jahoda | 雅珂达 | ![](https://act-upload.mihoyo.com/wiki-user-upload/2025/11/29/50494840/25a5604df0990ac20cbe5c98efacd3f8_6786704682865394796.gif?x-oss-process=image%2Fformat%2Cwebp)<br>所属作品：`genshin impact`<br>十分可靠，无所不能（自称）的「秘闻馆」员工。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/雅珂达) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
