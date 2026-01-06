@@ -8054,6 +8054,7 @@ example:
 | hikari sakishima | 先岛光 | ![](https://static.wikia.nocookie.net/naginoasukara/images/c/c1/Hikari_Sakishima_image.png)<br>所属作品：`nagi no asukara` |  |
 | tsumugu kihara | 木原纺 | ![](https://static.wikia.nocookie.net/naginoasukara/images/2/28/Tsumugu_Kihara_image.png)<br>所属作品：`nagi no asukara` |  |
 | kanna tanigawa | 谷川柑菜 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/5/56/Kanna_Tanigawa.png)<br>所属作品：`ano natsu de matteru`<br>雾岛的同学，说话时十分热情，性格开朗，也有点易怒并且容易吃醋。很容易喝醉。 |  |
+| remon yamano | 山乃柠檬 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/2/2e/Remon_Yamano.jpg)<br>所属作品：`ano natsu de matteru`<br>有点腹黑，不喜欢男生跟女生搭讪。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
