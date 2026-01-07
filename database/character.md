@@ -8069,6 +8069,7 @@ example:
 | fuu inubouzaki | 犬吠埼风 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4e/【大きな優しさ】犬吠埼風.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学勇者部部长。和妹妹犬吠埼树一起生活。双亲在几年前因为Vertex的原因去世。 |  |
 | zest | 洁丝特 | ![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/6/65/Z_t4AR315C0222b.png)<br>所属作品: `p:shinmai maou no testament`<br>魔导生命体，原为反派角色佐基尔的侍女，擅长土系魔法。 |  |
 | sana sunomiya | 须宫纱奈 | ![](https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/a/a3/President_Anime_Headshot.jpg)<br>所属作品：`ijiranaide nagatoro-san`<br>高中三年级美术社部长。 |  |
+| kanzashi sarashiki | 更识簪 | ![](https://static.wikia.nocookie.net/infinite-stratos/images/3/30/IS7_-_Kanzashi_Sarashiki.png)<br>所属作品：`infinite stratos`<br>IS学园1年4班的班级代表，日本代表候补生，其专用IS为改良自量产机的近战远程复合机型"打铁二式"。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
