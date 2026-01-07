@@ -3934,7 +3934,7 @@ example:
 | sussurro | 苏苏洛 | ![](https://patchwiki.biligame.com/images/arknights/a/ab/gw1b83bjk7wpktet0jkvozuy7ir3p0o.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:苏苏洛) |
 | alice tendou | 天童爱丽丝 | 所属作品：`p:blue archive`<br>隶属千年学园游戏开发部的成员。<br>在废墟发现的来历不明的少女。包含年龄在内，所有情报都无法推断。现在跟着绿和桃井玩游戏，已经变成重度游戏狂热者了。<br>![](https://patchwiki.biligame.com/images/ba/e/ef/0tb6g9wy2xbvpumygpbecd77dw09qvg.png) | [萌娘百科](https://zh.moegirl.org.cn/天童爱丽丝) |
 | hanabi hyuga | 日向花火 | 日向雏田的妹妹 |  |
-| chisato hasegawa | 长谷川千里 | 所属作品: `p:shinmai maou no testament`<br>![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png) |  |
+| chisato hasegawa | 长谷川千里 | ![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/0/03/Chisato_01.png)<br>所属作品: `p:shinmai maou no testament` |  |
 | anko kitashirakawa | 北白川馅子 | 所属作品: `p:tamako market`<br>![图](https://ehgt.org/49/98/49988733b649315e51a337ed939d34791c62ef69-35312-270-600-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/北白川馅子) [Fandom](https://tamakomarket.fandom.com/wiki/Anko_Kitashirakawa) |
 | seraphine | 萨勒芬妮（星籁歌姬） | 所属作品: `p:league of legends`<br>![](https://static.wikia.nocookie.net/leagueoflegends/images/3/3f/Seraphine_OriginalSkin.jpg/revision/latest/scale-to-width-down/1000?cb=20201014003642) | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/Seraphine/LoL) |
 | erich von rerugen | 埃里希·冯·雷鲁根 | 所属作品：`p:youjo senki`<br><br>埃里希·冯·雷鲁根，帝国军参谋本部所属参谋，备受期待的菁英将校。因为曾经就职于人事局的经历而崭露头角，晋升中校时转任至参谋本部作战局。在参谋本部中作为下属跟随在卢提鲁德夫少将身边，负责视察与作战传达相关的业务。<br>![](https://static.wikia.nocookie.net/youjo-senki/images/0/00/Erich_von_Rerugen_%28Anime%29.png) | [Fandom](https://youjo-senki.fandom.com/wiki/Erich_von_Rerugen) [萌娘百科](https://zh.moegirl.org.cn/埃里希·冯·雷鲁根) |
