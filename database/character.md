@@ -8060,6 +8060,7 @@ example:
 | fuuka ayase | 绫濑风香 | ![](https://ehgt.org/w/02/058/20676-uf98uzpg.webp)<br>所属作品：`yotsubato`<br>绫濑家三姐妹中的二姐 |  |
 | ena ayase | 绫濑惠那 | 所属作品：`yotsubato`<br>绫濑家的三女。 |  |
 | jahoda | 雅珂达 | ![](https://act-upload.mihoyo.com/wiki-user-upload/2025/11/29/50494840/25a5604df0990ac20cbe5c98efacd3f8_6786704682865394796.gif?x-oss-process=image%2Fformat%2Cwebp)<br>所属作品：`genshin impact`<br>十分可靠，无所不能（自称）的「秘闻馆」员工。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/雅珂达) |
+| kris argent | 库琉丝·亚尔根 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/f/fb/Kriz_Argent_Anime_Portrait.png)<br>所属作品：`nageki no bourei ha intai shitai`<br>“星之圣雷”最年轻的成员，精灵族。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
