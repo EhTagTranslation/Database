@@ -8068,6 +8068,7 @@ example:
 | itsuki inubouzaki | 犬吠埼树 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/犬吠埼樹生誕祭2019.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>犬吠埼风的妹妹，黄色短发。 |  |
 | fuu inubouzaki | 犬吠埼风 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4e/【大きな優しさ】犬吠埼風.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学勇者部部长。和妹妹犬吠埼树一起生活。双亲在几年前因为Vertex的原因去世。 |  |
 | zest | 洁丝特 | ![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/6/65/Z_t4AR315C0222b.png)<br>所属作品: `p:shinmai maou no testament`<br>魔导生命体，原为反派角色佐基尔的侍女，擅长土系魔法。 |  |
+| sana sunomiya | 须宫纱奈 | ![](https://static.wikia.nocookie.net/please-dont-bully-me-nagatoro/images/a/a3/President_Anime_Headshot.jpg)<br>所属作品：`ijiranaide nagatoro-san`<br>高中三年级美术社部长。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
