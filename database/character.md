@@ -8064,6 +8064,7 @@ example:
 | liz smart | 莉兹·斯玛特 | ![](https://static.wikia.nocookie.net/strange-grief-wants-to-retire/images/8/89/Liz_Smart.png)<br>所属作品：`nageki no bourei ha intai shitai`<br>西朵莉的姐姐、安塞姆的妹妹、蒂诺的师傅。 |  |
 | sonoko nogi | 乃木园子 | ![](https://static.wikia.nocookie.net/yuyuyu/images/e/ee/S3_sonoko_visual_1.png)<br>所属作品：`yuuki yuuna wa yuusha de aru` |  |
 | yuuna yuuki | 结城友奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/bb/Yukiyuna201908.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学二年级生。平常是红色短发，在变身之后变为粉色长发。 | [萌娘百科](https://zh.moegirl.org.cn/结城友奈) |
+| wakaba nogi | 乃木若叶 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e2/Wakaba_G.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>西历组五人勇者的队长，与上里日向是青梅竹马。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
