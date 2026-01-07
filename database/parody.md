@@ -412,7 +412,7 @@ example:
 | minami-ke | 南家三姐妹 |  |  |
 | queens blade | 女皇之刃 | ![](https://lain.bgm.tv/r/400/pic/cover/l/78/95/1434_45KYw.jpg) |  |
 | sekirei | 鹡鸰女神 |  |  |
-| yuuki yuuna wa yuusha de aru | 结城友奈是勇者 |  |  |
+| yuuki yuuna wa yuusha de aru | 结城友奈是勇者 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/70/Yuyuyu_Daimankai_KV2.png)<br>《结城友奈是勇者》（日语：結城友奈（ゆうきゆうな）は勇者（ゆうしゃ）である）是由タカヒロ企划、Studio五组制作的动画系列，并有漫画、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/结城友奈是勇者) |
 | blazblue | 苍翼默示录 | 《苍翼默示录》系列（日语：ブレイブルー）是由日本亚克系统制作的一款2D格斗游戏，并有《XBlaze》、《Blazblue Bloodedge Experience》等衍生作品。英文标题名「BLAZBLUE」，是将「Brave（勇者）」「Blaze（炎）」「Blue（青）」的意思相互融合的造语，是本作的故事剧情中的核心词语。 | [萌娘百科](https://zh.moegirl.org.cn/苍翼默示录系列) |
 | frame arms girl | 机甲少女 |  |  |
 | busou shinki | 武装神姬 |  |  |
