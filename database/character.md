@@ -8065,6 +8065,7 @@ example:
 | sonoko nogi | 乃木园子 | ![](https://static.wikia.nocookie.net/yuyuyu/images/e/ee/S3_sonoko_visual_1.png)<br>所属作品：`yuuki yuuna wa yuusha de aru` |  |
 | yuuna yuuki | 结城友奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/bb/Yukiyuna201908.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学二年级生。平常是红色短发，在变身之后变为粉色长发。 | [萌娘百科](https://zh.moegirl.org.cn/结城友奈) |
 | wakaba nogi | 乃木若叶 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e2/Wakaba_G.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>西历组五人勇者的队长，与上里日向是青梅竹马。 |  |
+| itsuki inubouzaki | 犬吠埼树 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/犬吠埼樹生誕祭2019.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>犬吠埼风的妹妹，黄色短发。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
