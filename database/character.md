@@ -8066,6 +8066,7 @@ example:
 | yuuna yuuki | 结城友奈 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/bb/Yukiyuna201908.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学二年级生。平常是红色短发，在变身之后变为粉色长发。 | [萌娘百科](https://zh.moegirl.org.cn/结城友奈) |
 | wakaba nogi | 乃木若叶 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e2/Wakaba_G.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>西历组五人勇者的队长，与上里日向是青梅竹马。 |  |
 | itsuki inubouzaki | 犬吠埼树 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d8/犬吠埼樹生誕祭2019.jpg)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>犬吠埼风的妹妹，黄色短发。 |  |
+| fuu inubouzaki | 犬吠埼风 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4e/【大きな優しさ】犬吠埼風.png)<br>所属作品：`yuuki yuuna wa yuusha de aru`<br>赞州中学勇者部部长。和妹妹犬吠埼树一起生活。双亲在几年前因为Vertex的原因去世。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
