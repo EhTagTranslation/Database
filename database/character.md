@@ -7123,7 +7123,7 @@ example:
 | ayaka kagari | 火火里绫火 | ![](https://static.wikia.nocookie.net/witchcraft-works/images/0/09/Ayaka.png)<br>所属作品：`witch craft works`<br>隶属于保护城市的魔女组织工房魔女。 |  |
 | debora briscoletti | 黛波拉 | ![](https://ehgt.org/w/02/007/86148-4073d4cf.webp)<br>所属作品：勇者斗恶龙5 |  |
 | maika kamimura | 神村舞华 | ![](https://static.wikia.nocookie.net/taimanin/images/1/17/Kamimura_Maika_22.png)<br>所属作品：`taimanin rpg` |  |
-| salamandinay | 萨拉曼蒂妮 | ![](https://ehgt.org/w/01/965/75020-d0wdwubi.webp)<br>所属作品：`cross ange` |  |
+| salamandinay | 萨拉曼蒂妮 | ![](https://static.wikia.nocookie.net/crossange/images/2/2f/Cross_Ange_Sala_Concept_Art.png)<br>所属作品：`cross ange` |  |
 | akira toudou | 东堂晶 | ![](https://ehgt.org/w/01/639/80027-18hkv8q2.webp)<br>所属作品：`shuumatsu no harem` |  |
 | mira suou | 周防美来 | ![](https://ehgt.org/w/02/004/88362-q7pfrlzf.webp)<br>所属作品：`shuumatsu no harem` |  |
 | chloe mansfield | 克劳尔·曼斯菲尔德 | ![](https://ehgt.org/w/01/944/86660-dzb8s82a.webp)<br>所属作品：`shuumatsu no harem` |  |
