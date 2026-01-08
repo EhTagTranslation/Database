@@ -1221,7 +1221,7 @@ example:
 | mikan yuuki | 结城美柑 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的妹妹。11岁的小学五年级学生，现在已升为六年级。小恶魔个性的美少女。 | [萌娘百科](https://zh.moegirl.org.cn/结城美柑) |
 | nemesis | 涅墨西斯 | ![](https://img.moegirl.org.cn/common/5/54/Character_14_04.png)<br>所属作品：`to love-ru`<br>芽亚的「主人」。与金色暗影和芽亚同为变身兵器，诞生于两者不同的“涅墨西斯计划”。 | [萌娘百科](https://zh.moegirl.org.cn/涅墨西斯%28出包王女%29#) |
 | saki tenjouin | 天条院沙姬 | ![](https://i.pixiv.cat/img-master/img/2024/03/02/01/30/02/116538343_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>天条院集团总帅的掌上明珠，超级有钱人，比梨斗等人高一个年级的美少女学姐。<br>自尊心极高，经常自称是女王，对自己非常自信，常因自己如果不是第一就觉得不舒服。 | [萌娘百科](https://zh.moegirl.org.cn/天条院沙姬) |
-| aya fujisaki | 藤崎绫 | ![](https://ehgt.org/59/4d/594d26d340580c102bb18bc8cf665c91b74bbb3c-802678-1225-1713-jpg_l.jpg) |  |
+| aya fujisaki | 藤崎绫 | ![](https://static.wikia.nocookie.net/to-loveru/images/1/19/61050.jpg)<br>所属作品：`to love-ru` |  |
 | rin kujou | 九条凛 | ![](https://i.pixiv.cat/img-original/img/2025/04/29/05/34/09/129819324_p1.jpg)<br>所属作品：`to love-ru`<br>代代侍奉天条院家的九条家女儿。从出生开始，便以天条院沙姬的护卫的身份侍奉在侧。无论在学习还是在私底下，总是守护在主人身边，对沙姬的命令绝对服从。是从剑道到射击都十分擅长的一流专家。 | [萌娘百科](https://zh.moegirl.org.cn/九条凛) |
 | mea kurosaki | 黑咲芽亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/25/15/00/11/134311106_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>起初应主人涅墨西斯的命令，为使小暗回想起自己兵器的本质而来到地球。<br>现伪装为结城梨斗的学妹，和菈菈的妹妹娜娜、梦梦为同班同学。 | [萌娘百科](https://zh.moegirl.org.cn/黑咲芽亚) |
 | nana asta deviluke | 娜娜·阿斯塔·戴比路克 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/31/11/00/08/134536629_p5_master1200.jpg)<br>所属作品：`to love-ru`<br>菈菈的妹妹，有露出象征小恶魔的上犬齿。因为梨斗经常在不经意间对女生做出神摔而十分愤怒，一开始很讨厌梨斗，认为梨斗是“禽兽”，但后来慢慢也对梨斗开始报有好感。 | [萌娘百科](https://zh.moegirl.org.cn/娜娜·阿斯塔·戴比路克) |
