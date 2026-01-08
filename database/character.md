@@ -1264,7 +1264,7 @@ example:
 | super taruco | 超级桶桶子 |  |  |
 |  | ▼ 亲吻姐姐 角色 |  |  |
 | ako suminoe | 住之江亚香 | ![](https://static.wikia.nocookie.net/kissxsis/images/7/70/Ako_Suminoe.jpg)<br>所属作品：`kiss x sis` |  |
-| riko suminoe | 住之江理香 |  |  |
+| riko suminoe | 住之江理香 | ![](https://static.wikia.nocookie.net/kissxsis/images/9/9c/Riko_Suminoe.jpg)<br>所属作品：`kiss x sis` |  |
 | keita suminoe | 住之江圭太 |  |  |
 | miharu mikuni | 三国美春 |  |  |
 |  | ▼ kill me baby 角色 |  |  |
