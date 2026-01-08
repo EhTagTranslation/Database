@@ -1263,7 +1263,7 @@ example:
 | super pochaco | 超级帕恰子 |  |  |
 | super taruco | 超级桶桶子 |  |  |
 |  | ▼ 亲吻姐姐 角色 |  |  |
-| ako suminoe | 住之江亚香 |  |  |
+| ako suminoe | 住之江亚香 | ![](https://static.wikia.nocookie.net/kissxsis/images/7/70/Ako_Suminoe.jpg)<br>所属作品：`kiss x sis` |  |
 | riko suminoe | 住之江理香 |  |  |
 | keita suminoe | 住之江圭太 |  |  |
 | miharu mikuni | 三国美春 |  |  |
