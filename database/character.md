@@ -8077,6 +8077,7 @@ example:
 | hildegard schlievogt | 希尔德加德·施利沃格特 | ![](https://static.wikia.nocookie.net/crossange/images/7/70/Hilda_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队的突袭兵，佐拉死后兼任副队长。 |  |
 | sephiria arks | 赛菲利亚·亚克斯 | ![](https://ehgt.org/w/02/184/70336-47rxpoa9.webp)<br>所属作品：`p:black cat`<br>最强的“时间守护者”。 |  |
 | ireena litz de olhyde | 伊莉娜·里茨 | ![](https://static.wikia.nocookie.net/shijou-saikyou-daimaou/images/a/a3/Ireena_Litz_de_Olhyde_-_Anime_Design_2.png)<br>所属作品：`shijou saikyou no daimaou murabito a ni tensei suru`<br>全名伊莉娜·里茨·德·奥尔巴伊特 |  |
+| reiju vinsmoke | 宾什莫克·丽珠 | 宾什莫克·丽珠，也叫粉红剧毒，是宾什莫克家族长女兼独女。她除了是杰尔马王国公主，也是杰尔马66干部。<br>![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg") | [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
