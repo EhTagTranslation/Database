@@ -7988,7 +7988,7 @@ example:
 | ayase shinomiya | 筱宫绫濑 | ![](https://static.wikia.nocookie.net/guiltycrown/images/5/52/Dress1.jpg)<br>所属作品：`guilty crown` |  |
 | az sainklaus | 雅兹·圣克劳斯 | ![](https://static.wikia.nocookie.net/super-robot-wars-gu-universe/images/9/9f/Az.webp)<br>所属作品：`super robot wars` |  |
 | yurika misumaru | 御统百合香 | ![](https://static.wikia.nocookie.net/legendsofthemultiuniverse/images/7/71/Screenshot_879.png)<br>所属作品：`martian successor nadesico` |  |
-| cowpens | 科本斯 | 《碧蓝航线》中舰娘<br>![](https://patchwiki.biligame.com/images/blhx/thumb/6/6d/9ymjbf8jvsl59fi2k2qacbj0672m6ve.jpg/525px-科本斯立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/科本斯) |
+| cowpens | 科本斯 | ![](https://patchwiki.biligame.com/images/blhx/thumb/6/6d/9ymjbf8jvsl59fi2k2qacbj0672m6ve.jpg/525px-科本斯立绘.jpg)<br>所属作品：`azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/科本斯) |
 | nea | 涅亚 | ![](https://patchwiki.biligame.com/images/pcr/thumb/8/80/8j2mhwxzbzv27jc3n1813yddl87sigk.png/305px-涅亚（夏日）.png)<br>所属作品：`princess connect` |  |
 | seikai higuchi | 樋口圣华 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/88/Shenghua.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/樋口圣华) |
 | kozue hiiragi | 柊木梢 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b2/Hiiragi_Kozue.png)<br>所属作品：`heaven burns red` | [萌娘百科](https://zh.moegirl.org.cn/柊木梢) |
