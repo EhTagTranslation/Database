@@ -14580,6 +14580,7 @@ example:
 | jihuatong | 计划通 |  |  |
 | juuichi gatsu | 十一月 |  | [pixiv](https://www.pixiv.net/users/15782328) |
 | doukutsu ika | 洞窟イカ | Cave Squid |  |
+| amairo ayame | 甘色アヤメ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
