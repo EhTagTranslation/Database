@@ -8072,6 +8072,7 @@ example:
 | kanzashi sarashiki | 更识簪 | ![](https://static.wikia.nocookie.net/infinite-stratos/images/3/30/IS7_-_Kanzashi_Sarashiki.png)<br>所属作品：`infinite stratos`<br>IS学园1年4班的班级代表，日本代表候补生，其专用IS为改良自量产机的近战远程复合机型"打铁二式"。 |  |
 | kaede kazama | 风间枫 | ![](https://static.wikia.nocookie.net/cheatmusou/images/c/c0/67712-1465017642.png)<br>所属作品：`isekai de cheat nouryoku wo te ni shita ore wa genjitsu sekai wo mo musou suru` |  |
 | mio shimazu | 岛津澪 | ![](https://static.wikia.nocookie.net/yu-no/images/c/ca/233175.jpg)<br>所属作品：`yu-no`<br>在平行世界穿越剧情中，她与拓也共同调查三角山事件。 |  |
+| momoka oginome | 桃香·荻野目 | ![](https://static.wikia.nocookie.net/crossange/images/0/07/Cross_Ange_Momoka_Front.png)<br>所属作品：`cross ange`<br>皇女安琪丽莎的第一侍女，以蓝紫色短发造型登场，具有勇往直前的性格特质和意外行动力。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
