@@ -8073,6 +8073,7 @@ example:
 | kaede kazama | 风间枫 | ![](https://static.wikia.nocookie.net/cheatmusou/images/c/c0/67712-1465017642.png)<br>所属作品：`isekai de cheat nouryoku wo te ni shita ore wa genjitsu sekai wo mo musou suru` |  |
 | mio shimazu | 岛津澪 | ![](https://static.wikia.nocookie.net/yu-no/images/c/ca/233175.jpg)<br>所属作品：`yu-no`<br>在平行世界穿越剧情中，她与拓也共同调查三角山事件。 |  |
 | momoka oginome | 桃香·荻野目 | ![](https://static.wikia.nocookie.net/crossange/images/0/07/Cross_Ange_Momoka_Front.png)<br>所属作品：`cross ange`<br>皇女安琪丽莎的第一侍女，以蓝紫色短发造型登场，具有勇往直前的性格特质和意外行动力。 |  |
+| zola axberg | 佐拉 | ![](https://static.wikia.nocookie.net/crossange/images/f/f6/Zola_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队队长。战场经验丰富，多次死里逃生的老练骑士。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
