@@ -8076,6 +8076,7 @@ example:
 | zola axberg | 佐拉·阿克斯伯格 | ![](https://static.wikia.nocookie.net/crossange/images/f/f6/Zola_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队队长。战场经验丰富，多次死里逃生的老练骑士。 |  |
 | hildegard schlievogt | 希尔德加德·施利沃格特 | ![](https://static.wikia.nocookie.net/crossange/images/7/70/Hilda_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队的突袭兵，佐拉死后兼任副队长。 |  |
 | sephiria arks | 赛菲利亚·亚克斯 | ![](https://ehgt.org/w/02/184/70336-47rxpoa9.webp)<br>所属作品：`p:black cat`<br>最强的“时间守护者”。 |  |
+| ireena litz de olhyde | 伊莉娜·里茨 | ![](https://static.wikia.nocookie.net/shijou-saikyou-daimaou/images/a/a3/Ireena_Litz_de_Olhyde_-_Anime_Design_2.png)<br>所属作品：`shijou saikyou no daimaou murabito a ni tensei suru`<br>全名伊莉娜·里茨·德·奥尔巴伊特 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
