@@ -2682,6 +2682,7 @@ example:
 | buddy complex | Buddy Complex | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2161155552.webp)<br>《Buddy Complex》是由矢立肇担任原作、田边泰裕执导，日本SUNRISE公司制作的原创机器人动画 |  |
 | lover | LoveR：捕捉心动 | ![](https://lain.bgm.tv/r/400/pic/cover/l/46/53/237059_uIH16.jpg)<br>《LoveR：捕捉心动》由知名制作人兼剧本家“杉山一郎”与人气插画家“箕星太朗”合作制作，共有六位风格迥异、各具性格的女性角色可供攻略。 |  |
 | mugen gacha de level 9999 | 靠着天赐技能「无限扭蛋」获得等级9999的伙伴 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/c/c0/MugenGacha_Anime_Title_II.jpg)<br>由日本作家明镜シスイ创作、tef负责插画的轻小说作品，并有同名改编漫画和动画作品。 |  |
+| yu-no | 世界尽头咏唱恋曲的少女YU-NO | ![](https://static.wikia.nocookie.net/yu-no/images/c/c8/YU-NO_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World_promotional_artwork_1.JPG)<br>《在世界尽头咏唱恋曲的少女YU-NO》是由elf开发的一部在PC-98平台的18禁galgame冒险游戏，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
