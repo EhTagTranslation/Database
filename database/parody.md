@@ -2684,6 +2684,7 @@ example:
 | mugen gacha de level 9999 | 靠着天赐技能「无限扭蛋」获得等级9999的伙伴 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/c/c0/MugenGacha_Anime_Title_II.jpg)<br>由日本作家明镜シスイ创作、tef负责插画的轻小说作品，并有同名改编漫画和动画作品。 |  |
 | yu-no | 世界尽头咏唱恋曲的少女YU-NO | ![](https://static.wikia.nocookie.net/yu-no/images/c/c8/YU-NO_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World_promotional_artwork_1.JPG)<br>《在世界尽头咏唱恋曲的少女YU-NO》是由elf开发的一部在PC-98平台的18禁galgame冒险游戏，并有同名改编动画。 |  |
 | viral hit | 格斗实况 | ![](https://static.wikia.nocookie.net/viral-hit/images/8/89/Vhitpromo1.png)<br>《格斗实况》改编自泰俊负责故事、金正贤作画的网络漫画作品。讲述了贫穷高中生柳皓彬因一场意外直播，通过格斗直播改变人生的励志故事。 |  |
+| whos that girl | 反转练习生 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
