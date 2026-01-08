@@ -8075,6 +8075,7 @@ example:
 | momoka oginome | 桃香·荻野目 | ![](https://static.wikia.nocookie.net/crossange/images/0/07/Cross_Ange_Momoka_Front.png)<br>所属作品：`cross ange`<br>皇女安琪丽莎的第一侍女，以蓝紫色短发造型登场，具有勇往直前的性格特质和意外行动力。 |  |
 | zola axberg | 佐拉·阿克斯伯格 | ![](https://static.wikia.nocookie.net/crossange/images/f/f6/Zola_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队队长。战场经验丰富，多次死里逃生的老练骑士。 |  |
 | hildegard schlievogt | 希尔德加德·施利沃格特 | ![](https://static.wikia.nocookie.net/crossange/images/7/70/Hilda_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队的突袭兵，佐拉死后兼任副队长。 |  |
+| sephiria arks | 赛菲利亚·亚克斯 | ![](https://ehgt.org/w/02/184/70336-47rxpoa9.webp)<br>所属作品：`p:black cat`<br>强的“时间守护者”。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
