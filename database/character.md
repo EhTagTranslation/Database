@@ -2767,7 +2767,7 @@ example:
 | adolf hitler | 阿道夫·希特勒 |  |  |
 | anne frank | 安妮·弗兰克 | 安内莉斯·玛丽·“安妮”·弗兰克 （德语：Annelies Marie "Anne" Frank；德语音标：[anɛliz maʁi anə fʁɑnk] （帮助·关于），1929年6月12日－1945年3月9日），生于德国法兰克福，犹太人，二战犹太人大屠杀中最著名的受害者之一，得年15岁，1999年入选《时代杂志》“20世纪全世界最具影响力的100个人”，一颗编号为5535的小行星以她命名为“5535 Annefrank”。她在2004年票选最伟大的荷兰人当中，排名第八，次于第七伟大的荷兰民族英雄兼海上战神德·鲁伊特。 | [维基百科](https://zh.wikipedia.org/wiki/安妮·弗蘭克) (\*) |
 | lusamine | 露莎米奈 |  |  |
-| angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZk37yyyjXfEZnafHG2wtPJ_bMNgSoNeXxEH05-9uik46No1ew) |  |
+| angelise ikaruga misurugi | 安琪丽莎·斑鸠·米斯尔奇 | ![](https://ehgt.org/w/02/118/95084-u3xl24j6.webp)<br>所属作品：`cross ange`<br>米斯尔奇皇国的第一皇女。 |  |
 | lelouch vi britannia | 鲁路修·VI·布里塔尼亚 | ![](https://pic.cangku.moe/images/2025/11/22/1lhXL.png)<br>![](https://pic.cangku.moe/images/2025/11/22/421wo.png)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/鲁路修·vi·布里塔尼亚) |
 | c.c. | C.C. | ![](https://pic.cangku.moe/images/2025/11/22/42nip.png)<br>![](https://pic.cangku.moe/images/2025/11/22/42UIq.png)<br>所属作品：`code geass` | [萌娘百科](https://zh.moegirl.org.cn/C.C.) |
 | charlotte dunois | 夏洛特·德诺阿 | ![](https://ehgt.org/w/01/971/09169-97037shq.webp)<br>所属作品：`infinite stratos` |  |
