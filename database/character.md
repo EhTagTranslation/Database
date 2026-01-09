@@ -2891,7 +2891,7 @@ example:
 | fuutarou uesugi | 上杉风太郎 | 所属作品：`gotoubun no hanayome`<br>家境贫困的高中2年生。为弥补家用寻找兼职。<br>升上高中3年级后，与中野五姐妹同班，并担任班长。 |  |
 | kanao tsuyuri | 栗花落香奈乎 | 與炭治郎同期的鬼殺隊員，拥有側單馬尾髮型、紫色瞳孔但笑臉迎人但寡言的女劍士，髮飾是恩人胡蝶香奈惠的遺物。天生敏銳觀察力造就了其優秀的「視覺」。「花之呼吸」使用者。蟲柱胡蝶忍的繼子。 |  |
 | shinobu kochou | 蝴蝶忍 | 胡蝶忍（英语：shinobu kochou）所属作品:`p:kimetsu no yaiba`<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/01/Shinobu_introducing_.png) | [萌娘百科](https://zh.moegirl.org.cn/胡蝶忍) |
-| giyuu tomioka | 富冈义勇 | 使用「水之呼吸」的水柱 |  |
+| giyuu tomioka | 富冈义勇 | ![](https://thumbsnap.com/i/q2mNZs3w.jpg)<br>富冈义勇（日语：冨岡（とみおか） 義勇（ぎゆう））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/富冈义勇) |
 | mitsuri kanroji | 甘露寺蜜璃 | ![](https://img.moegirl.org.cn/common/9/98/Kanroji_Mitsuri.png)<br>甘露寺蜜璃（英语:Mitsuri Kanroji）<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/甘露寺蜜璃) |
 | zenitsu agatsuma | 我妻善逸 | 使用雷之呼吸 |  |
 | tanjirou kamado | 灶门炭治郎 | 灶门家长子，造型为制服上披着市松图案的羽织，有着一头深红发与红色眼睛的“赫灼之子”（从事火仕职业家庭的孩子）。左额上有着小时候为了保护弟弟，而被滚烫的水壶烧伤的大片伤痕。 |  |
