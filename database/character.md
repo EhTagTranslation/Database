@@ -4708,7 +4708,7 @@ example:
 | anne | 安 |  | [萌娘百科](https://zh.moegirl.org.cn/安%28公主连结%29#) |
 | grea | 古蕾雅 |  |  |
 | sakurako utazumi | 歌住樱子 | 所属作品：`p:blue archive`<br>三一综合学园所属，修女会虔诚的学生。<br>对任何事都会认真面对，深受许多学生的信赖。偶尔会因为过于正经导致与流行和常识脱节。<br>![](https://img.moegirl.org.cn/common/3/3e/BA_Sakurako_New.png) | [萌娘百科](https://zh.moegirl.org.cn/歌住樱子) |
-| miyako tsukiyuki | 月雪宫子 | 所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的队长。<br>![](https://patchwiki.biligame.com/images/ba/b/bf/bdf7sfptkn9oefpgbwo5s8zaduuz17y.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Miyako) |
+| miyako tsukiyuki | 月雪宫子 | ![](https://patchwiki.biligame.com/images/ba/b/bf/bdf7sfptkn9oefpgbwo5s8zaduuz17y.png)<br>所属作品：`p:blue archive`<br>SRT特殊学园所属，RABBIT小队的队长。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Miyako) |
 | koyuki kurosaki | 黑崎小雪 | 所属作品：`p:blue archive`<br>隶属于千年科学学园学生会“研讨会”的总惹出麻烦的天才少女。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/72324/2025/4/30/838270.png) | [https://www.gamekee.com/ba/tj/585462.html](https://www.gamekee.com/ba/tj/585462.html) |
 | atsuko hakari | 秤亚津子 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的神秘少女，总是带着防毒面具，无法窥见她的表情。![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
 | saya yakushi | 药子纱绫 | 所属作品：`p:blue archive`<br>山海经高级中学所属的天才发明家。<br>![](https://patchwiki.biligame.com/images/ba/b/bf/ortudded3zii1i5w3ty7ffvujamr7pp.png)<br>![](https://patchwiki.biligame.com/images/ba/c/ca/l3of75sdbvdbagrmt93dmxpiwmcjqaz.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Saya) |
