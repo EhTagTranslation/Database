@@ -14586,6 +14586,7 @@ example:
 | hachineko | 蜂猫 |  | [pixiv](https://www.pixiv.net/users/54945068)<br>[FANBOX](https://www.fanbox.cc/@makaluvchu) |
 | nonogishi | ノノギシ |  |  |
 | ura-ra | うらーら |  | [X](https://x.com/ura_ra1800) |
+| diu | ぢう |  | [pixiv](https://www.pixiv.net/users/102967477) |
 
 <!--TEMPLATE:
 |  |  |  |  |
