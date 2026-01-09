@@ -6496,7 +6496,7 @@ example:
 | irene | 艾丽妮 | ![](https://patchwiki.biligame.com/images/arknights/e/ef/8qf332utfjtf188ga5dxl7p2yj9gihg.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/艾丽妮) |
 | feri al-fayed | 菲莉·阿尔法德 |  | [萌娘百科](https://zh.moegirl.org.cn/菲莉·阿尔法德) |
 | mirabel aalton | 米拉贝尔·亚尔顿 |  | [https://trails-game.com/character/mirabel-aalton/](https://trails-game.com/character/mirabel-aalton/) |
-| justine | 芮丝汀娜 |  | [萌娘百科](https://zh.moegirl.org.cn/芮丝汀娜) |
+| justine | 芮丝汀娜 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8d/贾斯汀娜.png)<br>所属作品:`persona 5`<br><br>如何区分这对双胞胎:<br>芮丝汀娜的帽子上印有"O-Y-O-O"字母 | [萌娘百科](https://zh.moegirl.org.cn/芮丝汀娜) |
 | roselia millstein | 罗赛莉亚·米尔斯汀 |  | [萌娘百科](https://zh.moegirl.org.cn/罗赛莉亚·米尔斯汀) |
 | elaine auclair | 艾蕾因·奥克雷尔 |  | [萌娘百科](https://zh.moegirl.org.cn/艾蕾因·奥克雷尔) |
 | banri tada | 多田万里 | 所属作品: `p:golden time` | [Fandom](https://goldentime.fandom.com/wiki/Banri_Tada) [萌娘百科](https://zh.moegirl.org.cn/多田万里) |
