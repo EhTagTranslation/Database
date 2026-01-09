@@ -13563,6 +13563,7 @@ example:
 | nekosaku land | 猫作ランド |  |  |
 | nonogishi park | ノノギシパーク |  |  |
 | yukutake | ゆくた家 |  |  |
+| sansanka tanso | 三酸化炭素 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
