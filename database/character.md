@@ -2889,7 +2889,7 @@ example:
 | akiko yoshizawa | 吉泽明子 |  |  |
 | satomi niiyama | 新山聪美 | 泷昇同一大学的后辈，擅长长笛演奏。在管乐团暑假期间协助指导木管乐器。桥本与泷昇是同辈，但新山是后辈。对泷的亡妻千寻怀有超越同性朋友的情感 |  |
 | fuutarou uesugi | 上杉风太郎 | 所属作品：`gotoubun no hanayome`<br>家境贫困的高中2年生。为弥补家用寻找兼职。<br>升上高中3年级后，与中野五姐妹同班，并担任班长。 |  |
-| kanao tsuyuri | 栗花落香奈乎 | 與炭治郎同期的鬼殺隊員，拥有側單馬尾髮型、紫色瞳孔但笑臉迎人但寡言的女劍士，髮飾是恩人胡蝶香奈惠的遺物。天生敏銳觀察力造就了其優秀的「視覺」。「花之呼吸」使用者。蟲柱胡蝶忍的繼子。 |  |
+| kanao tsuyuri | 栗花落香奈乎 | ![](https://thumbsnap.com/i/d4Y6rmc8.jpg)<br>與炭治郎同期的鬼殺隊員，拥有側單馬尾髮型、紫色瞳孔但笑臉迎人但寡言的女劍士，髮飾是恩人胡蝶香奈惠的遺物。天生敏銳觀察力造就了其優秀的「視覺」。「花之呼吸」使用者。蟲柱胡蝶忍的繼子。 | [萌娘百科](https://zh.moegirl.org.cn/栗花落香奈乎) |
 | shinobu kochou | 蝴蝶忍 | 胡蝶忍（英语：shinobu kochou）所属作品:`p:kimetsu no yaiba`<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/01/Shinobu_introducing_.png) | [萌娘百科](https://zh.moegirl.org.cn/胡蝶忍) |
 | giyuu tomioka | 富冈义勇 | ![](https://thumbsnap.com/i/q2mNZs3w.jpg)<br>富冈义勇（日语：冨岡（とみおか） 義勇（ぎゆう））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/富冈义勇) |
 | mitsuri kanroji | 甘露寺蜜璃 | ![](https://img.moegirl.org.cn/common/9/98/Kanroji_Mitsuri.png)<br>甘露寺蜜璃（英语:Mitsuri Kanroji）<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/甘露寺蜜璃) |
