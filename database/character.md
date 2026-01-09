@@ -2410,7 +2410,7 @@ example:
 |  | ▼ 火影忍者 |  |  |
 | fourth raikage | 四代目雷影 |  |  |
 | sakura haruno | 春野樱 | ![](https://thumbsnap.com/i/iUM4xLcf.jpg)<br>春野樱（日语：はるの さくら）是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/春野樱) |
-| sasuke uchiha | 宇智波佐助 |  |  |
+| sasuke uchiha | 宇智波佐助 | ![](https://thumbsnap.com/i/cJaNQvy5.jpg)<br>宇智波佐助（日语：うちは サスケ）是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。<br>港译为“內輪佐助”。 | [萌娘百科](https://zh.moegirl.org.cn/宇智波佐助) |
 | tsunade | 纲手 | ![](https://img.moegirl.org.cn/common/4/48/Tsunade.jpg)<br>本名:	綱手（つなで）(Tsunade)<br>別號:	綱手公主、綱手婆婆、蛞蝓公主、綱手姬、第五代火影<br>髮色:	黃髮<br>瞳色:	褐瞳<br>身高:	163.1cm<br>體重:	48.9kg<br>三圍:	B:106W:62H:90 |  |
 | anko mitarashi | 御手洗红豆 |  |  |
 | ino yamanaka | 山中井野 |  |  |
