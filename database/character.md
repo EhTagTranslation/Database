@@ -3205,7 +3205,7 @@ example:
 | vanilla | 香草 \| 香子兰 | ①香子兰<br><br>②香草<br>![](https://patchwiki.biligame.com/images/arknights/c/c4/fabw1tw980sb0z59cc19g44lp45wl9r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/香草%28NEKO_WORKs%29) |
 | shinku nikaidou | 二阶堂真红 |  | [萌娘百科](https://zh.moegirl.org.cn/二阶堂真红) |
 | shiori kashiwazaki | 柏崎栞 | ![](https://static.wikia.nocookie.net/princess-connect/images/7/7c/Shiori_%28game%29.png)<br>![](https://static.wikia.nocookie.net/princess-connect/images/b/b9/Shiori-magicalgirl-sprite-normal.png)<br>所属作品：`princess connect`<br>本属于自卫团，跟铃一样也是被派往伊丽莎白牧场驻守的成员。 | [萌娘百科](https://zh.moegirl.org.cn/柏崎栞) |
-| link | 林克 |  | [萌娘百科](https://zh.moegirl.org.cn/林克) |
+| link | 林克 | ![](https://thumbsnap.com/i/DoWT8jvR.jpg)<br>林克是任天堂旗下作品《塞尔达传说》系列的主要角色，在任天堂旗下的其他系列如《马力欧卡丁车系列》《任天堂明星大乱斗》等亦有出场。 | [萌娘百科](https://zh.moegirl.org.cn/林克) |
 | wonder woman | 神奇女侠 |  |  |
 | she-ra | 希瑞 |  | [萌娘百科](https://zh.moegirl.org.cn/希瑞) |
 | rapunzel | 长发公主 | ![长发公主立绘](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/4408/2022/10/15/701333.png)<br>所属作品：`goddess of victory nikke`<br>隶属企业：朝圣者<br>出于不明原因，她似乎只保留了一部分过去的记忆。<br>这是一位脑海中总是充满香艳画面的危险修女。 | [Gamekee](https://www.gamekee.com/nikke/170850.html) [DotGG](https://dotgg.gg/nikke/characters/rapunzel) |
