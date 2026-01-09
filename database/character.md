@@ -8095,6 +8095,7 @@ example:
 | yui kurata | 仓田唯 | ![](https://static.wikia.nocookie.net/trinity-seven/images/9/93/Yui_Kurata_Anime_Character_Full_Body.png)<br>所属作品：`trinity seven`<br>住在学校地下的地牢里，是住在世界的另一面——梦的世界的魔道士，所以只能在梦中对话。 | [Fandom](https://trinity-seven.fandom.com/wiki/Yui_Kurata) |
 | lilith asami | 浅见莉莉斯 | ![](https://static.wikia.nocookie.net/trinity-seven/images/a/ae/Lilith_design_MV.png)<br>所属作品：`trinity seven`<br>在王立比布利亚学园任职，风格出众，容貌端丽的少女。 | [Fandom](https://trinity-seven.fandom.com/wiki/Lilith_Asami) |
 | akio fudou | 不动秋音 | ![](https://static.wikia.nocookie.net/trinity-seven/images/0/03/Akio_Fudo_Anime_Character_Full_Body.png)<br>所属作品：`trinity seven`<br>王立图书馆检阅官第三席，有着一马当先的攻击力，擅长踢。 | [Fandom](https://trinity-seven.fandom.com/wiki/Akio_Fudo) |
+| mira yamana | 山奈弥勒 | ![](https://static.wikia.nocookie.net/trinity-seven/images/3/30/Mira_Yamana_Anime_Official_Character.png)<br>所属作品：`trinity seven`<br>王立图书馆首席检阅官，拥有“傲慢”的书库，主题为正义。 | [Fandom](https://trinity-seven.fandom.com/wiki/Mira_Yamana) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
