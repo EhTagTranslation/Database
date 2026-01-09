@@ -2159,7 +2159,7 @@ example:
 | sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
 | idola phantasy star saga | 梦幻之星·伊多拉传说 | 梦幻之星：伊多拉传说是为了纪念知名角色扮演游戏《`p:phantasy star`》30周年推出的系列最新作。于2018年11月27日上线，2022 年 1 月 12 日停服。<br><br>![](https://p2.bahamut.com.tw/B/2KU/74/3f2df37e33381a664843e1a7ff11nay5.JPG) |  |
 | golden time | 青春纪行 | 《青春纪行》（又译：金色时光，日文：ゴールデンタイム）是由竹宫悠由子创作、驹都英二负责插画的一部轻小说，并有漫画、广播剧、动画和游戏等衍生作品。此作品是竹宫悠由子继《`p:toradora`》后的又一长篇小说。 | [维基百科](https://zh.wikipedia.org/wiki/青春紀行) [萌娘百科](https://zh.moegirl.org.cn/青春纪行) |
-| honkai star rail | ![](https://hsr.hoyoverse.com/favicon.ico)崩坏：星穹铁道 | 《崩坏：星穹铁道》是米哈游创作的回合制角色扮演游戏，崩坏系列的新作。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=479915) |
+| honkai star rail | ![](https://hsr.hoyoverse.com/favicon.ico)崩坏：星穹铁道 | ![](https://thumbsnap.com/i/bG52einh.jpg)<br>《崩坏：星穹铁道》是米哈游创作的回合制角色扮演游戏，崩坏系列的新作。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=479915) |
 | tongari boushi no atelier | 尖帽子的魔法工坊 | 生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇弗利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇弗利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。 | [萌娘百科](https://zh.moegirl.org.cn/尖帽子的魔法工坊) [维基百科](https://zh.wikipedia.org/wiki/魔法帽的工作室) |
 | sankarea | 散华礼弥 |  |  |
 | princess resurrection | 怪物王女 |  |  |
