@@ -8099,6 +8099,7 @@ example:
 | selina sherlock | 塞丽娜·沙尔洛克 | ![](https://static.wikia.nocookie.net/trinity-seven/images/a/a6/Selina_Sherlock.png)<br>所属作品：`trinity seven`<br>春日新在魔道士学校的同班同学，性格开朗的少女。 | [Fandom](https://trinity-seven.fandom.com/wiki/Selina_Sherlock#Anime) |
 | levi kazama | 风间莱维 | ![](https://static.wikia.nocookie.net/trinity-seven/images/e/e7/Levi_design_MV.png)<br>所属作品：`trinity seven`<br>拥有“嫉妒”的书库，主题为“期待”，术式为“忍法术”。 | [Fandom](https://trinity-seven.fandom.com/wiki/Levi_Kazama) |
 | miharu yomine | 夜峰美晴 | ![](https://static.wikia.nocookie.net/cue/images/3/35/Miharu_casual.png/revision/latest?cb=20190705221314)<br>所属作品:`p:cue` | [Fandom](https://cue.fandom.com/wiki/Miharu_Yomine) |
+| haruna mutsuishi | 六石阳菜 | ![](https://static.wikia.nocookie.net/cue/images/0/07/Haruna_workout.png/revision/latest?cb=20190705210448)<br>所属作品:`p:cue` | [Fandom](https://cue.fandom.com/wiki/Haruna_Mutsuishi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
