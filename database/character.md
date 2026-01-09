@@ -5199,7 +5199,7 @@ example:
 | gwen tennyson | 田小玟 | 田小玟（Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
 | virtuosa | 塑心（阿尔图罗） | ![](https://patchwiki.biligame.com/images/arknights/8/84/0d8wrsqd1gwcvxfwzu8861yh6dfm0jd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/塑心) |
 | viviana droste | 薇薇安娜·德罗斯特 | ![](https://patchwiki.biligame.com/images/arknights/0/0c/pevwosc6z149eejmvq4a38uue7m7mau.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/薇薇安娜) |
-| meowscarada | 魔幻假面喵 | 魔幻假面喵浅绿色的毛发覆盖了它的大部分身体，腿部则是深绿色的，身后还有一条毛茸茸的短尾巴。它有一双粉色眼睛，脸上有着的面具状的深绿色长毛。它的每只手上都有三根手指、绿色的指甲和粉红色的肉垫。它的脖子上有一个花瓣形状的粉色领子和斗篷相连。披风外侧的毛发是黑色的，而内侧则是绿色。 | [https://wiki.52poke.com/wiki/魔幻假面喵](https://wiki.52poke.com/wiki/魔幻假面喵) |
+| meowscarada | 魔幻假面喵 | ![](https://s1.52poke.com/wiki/thumb/d/d7/908Meowscarada.png/250px-908Meowscarada.png)<br>所属作品：`pokemon`<br>草恶属性的魔术师宝可梦。 | [https://wiki.52poke.com/wiki/魔幻假面喵](https://wiki.52poke.com/wiki/魔幻假面喵) |
 | incineroar | 炽焰咆哮虎 | 炽焰咆哮虎变成双足行走，有着健壮的身躯，比起进化之前猫的原型，炽焰咆哮虎就如同名字一样看起来更像是虎。当它的斗争心增强时，在体内制造的火焰将从肚脐及其周围喷出，温度达到摄氏2000度以上。这种火焰看起来像冠军腰带，因此被称为火焰腰带。 | [https://wiki.52poke.com/wiki/炽焰咆哮虎](https://wiki.52poke.com/wiki/炽焰咆哮虎) |
 | blaziken | 火焰鸡 | 火焰鸡拥有一头白色的羽毛和V字形的鸡冠。它的眼睛是蓝色的。它还有着缠着绷带的爪和强健有力的双腿。它每经过几年就会烧掉老化的羽毛，以重新长出全新的鲜艳羽毛。雌性火焰鸡头部的羽毛更小。超级火焰鸡头上的羽毛向上竖起，头上的角由两根变成了一根。它身上羽毛的形状也发生了改变，原先黄色的花纹变成了黑色并且呈现为火焰状，手臂上有着四条长长的火焰飘带。 | [https://wiki.52poke.com/wiki/火焰鸡](https://wiki.52poke.com/wiki/火焰鸡) |
 | raboot | 腾蹴小将 | 腾蹴小将全身毛色为灰色、红色、黑色，耳朵下垂，眼睛瞳孔为红色，眼神冷酷。身体上的红、黑色毛皮造型类似于帽T，且遮住嘴巴，脚底有一块红色斑点。全身的体毛变得更长，蓬松的体毛不仅帮助它增强了抵御寒冷的能力，还发挥着控制“火之能量”的效果，使它能在更短的时间内达到能量全开的状态，能够使出温度更高的火属性招式。前额和脚底的温度上升得更高，会使出高温的头槌和踢击。 | [https://wiki.52poke.com/wiki/腾蹴小将](https://wiki.52poke.com/wiki/腾蹴小将) |
