@@ -8080,6 +8080,7 @@ example:
 | reiju vinsmoke | 宾什莫克·丽珠 | 宾什莫克·丽珠，也叫粉红剧毒，是宾什莫克家族长女兼独女。她除了是杰尔马王国公主，也是杰尔马66干部。<br>![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg") | [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
 | nemo noah | 尼莫/诺亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/90/S452_Stage1.webp)<br>所属作品：`fate grand order` |  |
 | platina | 普拉蒂纳 (Nunholy) | ![](https://ehgt.org/w/01/875/39729-4a0q2l8j.webp)<br>所属作品：`nunholy` |  |
+| yukino shichido | 七度雪乃 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/BA_Yukino.png)<br>所属作品：`blue archive`<br>SRT特殊学园所属,FOX小队的突击步枪手;同时是FOX小队的队长,代号FOX1。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
