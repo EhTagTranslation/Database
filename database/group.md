@@ -4060,7 +4060,7 @@ example:
 | cyc no-nos | サイクノノス |  |  |
 | cyclet | CYCLET |  |  |
 | cyclo- | Cyclo- |  |  |
-| cyclone | サイクロン |  |  |
+| cyclone | ![](https://thumbsnap.com/i/eJMpKpCS.jpg) サイクロン | ![](https://thumbsnap.com/i/eJMpKpCS.jpg)<br>和泉、冷泉老师的作品：《彼とわたしと店長の深夜勤務》系列、《みだれうち》系列、《ユメカ ウツツカ》系列、《ひなちゃんを、幸せに》等。 | [作者链接集合](https://lit.link/en/cyclone10) \| [X账号](https://x.com/cyclone_reizei) |
 | cyduster | CYDUSTER |  |  |
 | cykranosh | さいくらの〜しゅ |  |  |
 | cynthia | Cynthia |  |  |
