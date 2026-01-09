@@ -1155,7 +1155,7 @@ example:
 |  | ▼ 粗点心战争 角色 |  |  |
 | hotaru shidare | 枝垂萤 |  |  |
 | kokonotsu shikada | 鹿田九 |  |  |
-| saya endou | 远藤彩 |  |  |
+| saya endou | 远藤沙耶 | 远藤沙耶 (Endou Saya) 是琴山创作的漫画《粗点心战争》(英语：Dagashi Kashi)及其衍生的动画等作品的登场角色。<br>![](https://thumbsnap.com/i/m4BnqNFX.jpg) | [萌娘百科](https://zh.moegirl.org.cn/远藤沙耶) |
 | hajime owari | 尾张一 |  |  |
 |  | ▼ NEW GAME! 角色 |  |  |
 | aoba suzukaze | 凉风青叶 | ![凉风青叶](https://ehgt.org/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) |  |
