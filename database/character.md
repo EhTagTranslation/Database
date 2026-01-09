@@ -1794,7 +1794,7 @@ example:
 | yukito tsukishiro | 月城雪兔 |  |  |
 | tomoyo daidouji | 大道寺知世 | ![](https://img.moegirl.org.cn/common/2/27/Tomoyo_Daidouji.jpg) |  |
 | sonomi daidouji | 大道寺园美 |  |  |
-| syaoran li | 李小狼 |  |  |
+| syaoran li | 李小狼 | ![](https://static.wikia.nocookie.net/ccs/images/7/7b/Syaoran_1.jpg)<br>所属作品：`cardcaptor sakura`<br>小樱争夺库洛牌的竞争对手。 |  |
 | meiling li | 李苺铃 |  |  |
 | rika sasaki | 佐佐木利佳 |  |  |
 | chiharu mihara | 三原千春 |  |  |
