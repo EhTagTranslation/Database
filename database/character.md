@@ -6294,7 +6294,7 @@ example:
 | rindo chihaya | 轮堂千速 | 轮堂千速（日语：輪堂 千速／りんどう ちはやRindo Chihaya）是一名于2024年11月7日开始活动的VTuber，隶属于日本hololive DEV\_IS旗下音乐团体『FLOW GLOW』。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Rindo_Chihaya) [萌娘百科](https://zh.moegirl.org.cn/轮堂千速) |
 | marie antoinette alter | 玛丽·安托瓦内特〔Alter〕 |  |  |
 | zani | 赞妮 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/b/b7/9relhfe7txqu4dmjpmxhz7u71d82q25.png/514px-角色_赞妮_立绘.png)<br>所属作品：`wuthering waves`<br>来自黎那汐塔，埃费拉德银行的员工。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/赞妮) |
-| lieselotte sherlock | 莉瑟罗特・沙尔洛克 | 塞丽娜的双胞胎姐姐，金发双马尾，穿着较少，身穿黑色的外衣以及黑色过膝皮靴。原王立图书馆二席检阅官，拥有怠惰的“书库”，术式为“数秘术”。被莉莉斯称为：不惜犯下禁忌，也要强行连接“永劫图书馆”的罪人。 就是半年前事件中被称为幽灵的"姐姐"。可以吸取他人魔力和研究成果。 |  |
+| lieselotte sherlock | 莉瑟罗特・沙尔洛克 | ![](https://static.wikia.nocookie.net/trinity-seven/images/c/c0/Lieselotte_design_MV.png)<br>所属作品：`trinity seven`<br>塞丽娜的双胞胎姐姐，原王立图书馆二席检阅官，拥有怠惰的“书库”，术式为“数秘术”。 | [Fandom](https://trinity-seven.fandom.com/wiki/Lieselotte_Sherlock) |
 | beta | 贝塔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>暗影庭园「七影」的第二席。银白色头发和蓝色眼睛的精灵。对暗影抱持敬畏之心，每次事件都会撰写进自己的英雄谭「暗影大人战记」。<br>![](https://lain.bgm.tv/pic/crt/l/55/2c/103289_crt_Z99Nh.jpg?r=1675248363&_gl=1*9lvaqs*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NTk1JGo3JGwwJGgw) | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Beta) |
 | sophie neuenmuller | 苏菲·诺伊恩缪拉 | ![](https://img.moegirl.org.cn/common/thumb/d/dc/苏菲·诺伊恩缪拉.png/375px-苏菲·诺伊恩缪拉.png)<br>《苏菲的炼金工房 ～不可思议书的炼金术士～》，《苏菲的炼金工房2 ～不可思议梦的炼金术士～》的主人公<br><br>居住在基尔亨·贝尔郊区，经营炼金工房的少女。 | [萌娘百科](https://zh.moegirl.org.cn/苏菲·诺伊恩缪拉) [Fandom](https://atelier.fandom.com/wiki/Sophie_Neuenmuller) |
 | orie takadate | 高楯欧丽叶 | 所属作品: `p:tenshi souzou re-boot` |  |
