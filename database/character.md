@@ -8084,6 +8084,7 @@ example:
 | luke notos greyrat | 路克·诺托斯·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/1/14/MT-AN-S2-Luke-FullBody.png)<br>所属作品：`mushoku tensei`<br>诺托斯·格雷拉特家的次男，后成为当家。 | [百度百科](https://baike.baidu.com/item/路克·诺托斯·格雷拉特/62450886) |
 | bastet | 巴斯特 | ![](https://static.wikia.nocookie.net/pad/images/b/b2/Pet494.png)<br>所属作品：`puzzle and dragons` |  |
 | linie | 莉 | ![](https://static.wikia.nocookie.net/frieren/images/b/b7/Linie_anime_profile.png)<br>所属作品：`sousou no frieren`<br>阿乌拉麾下的“斩首吏”魔族之一，使用的魔法为模仿魔法。 |  |
+| gene | 珍妮 | ![](https://ehgt.org/w/00/973/49270-6eq3p88q.webp)<br>所属作品：`phantasy star online 2` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
