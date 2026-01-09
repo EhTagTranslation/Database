@@ -314,7 +314,7 @@ example:
 | ranma 12 | 乱马½ |  |  |
 | yosuga no sora | 缘之空 |  |  |
 | gintama | 银魂 |  |  |
-| panty and stocking with garterbelt | 吊带袜天使 |  |  |
+| panty and stocking with garterbelt | 吊带袜天使 | ![](https://thumbsnap.com/i/xzQwefku.jpg)<br>《吊带袜天使》（日语：パンティ&ストッキングwithガーターベルト；英语：Panty & Stocking with Garterbelt）是由GAINAX所制作的日本TV动画，并有漫画等衍生作品。时隔多年后，由TRIGGER负责该动画第二季《新吊带袜天使》的制作。 | [萌娘百科](https://zh.moegirl.org.cn/吊带袜天使) |
 |  | ▼火焰之纹章 系列 |  |  |
 | fire emblem fates | 火焰之纹章 if | 日版名：ファイアーエムブレムif，英文版名：Fire Emblem Fates | [维基百科](https://zh.wikipedia.org/wiki/火焰之纹章if) |
 | fire emblem | 火焰之纹章 |  |  |
