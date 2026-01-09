@@ -2685,6 +2685,7 @@ example:
 | yu-no | 世界尽头咏唱恋曲的少女YU-NO | ![](https://static.wikia.nocookie.net/yu-no/images/c/c8/YU-NO_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World_promotional_artwork_1.JPG)<br>《在世界尽头咏唱恋曲的少女YU-NO》是由elf开发的一部在PC-98平台的18禁galgame冒险游戏，并有同名改编动画。 |  |
 | viral hit | 格斗实况 | ![](https://static.wikia.nocookie.net/viral-hit/images/8/89/Vhitpromo1.png)<br>《格斗实况》改编自泰俊负责故事、金正贤作画的网络漫画作品。讲述了贫穷高中生柳皓彬因一场意外直播，通过格斗直播改变人生的励志故事。 |  |
 | whos that girl | 反转练习生 |  |  |
+| nunholy | Nunholy | Nunholy是一款充满动作感的roguelike游戏，在游戏中，你将化身为身经百战的修女，探索地下城并猎杀吸血鬼。 | [Steam](https://store.steampowered.com/app/2854740/Nunholy/)<br>[官网](https://nunholy.com/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
