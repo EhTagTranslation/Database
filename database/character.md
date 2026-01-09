@@ -2896,7 +2896,7 @@ example:
 | zenitsu agatsuma | 我妻善逸 | ![](https://thumbsnap.com/i/xh5KdJJ9.jpg)<br>我妻善逸（日语：我妻（あがつま） 善逸（ぜんいつ））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/我妻善逸) |
 | tanjirou kamado | 灶门炭治郎 | ![](https://ehgt.org/w/01/401/75617-34nxpqo4.webp)<br>灶门炭治郎（日语：竈門（かまど） 炭治郎（たんじろう））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的主人公。<br>灶门家长子，造型为制服上披着市松图案的羽织，有着一头深红发与红色眼睛的“赫灼之子”（从事火仕职业家庭的孩子）。左额上有着小时候为了保护弟弟，而被滚烫的水壶烧伤的大片伤痕。 | [萌娘百科](https://zh.moegirl.org.cn/灶门炭治郎) |
 | kyojuro rengoku | 炼狱杏寿郎 | "炎柱"炼狱杏寿郎生来便拥有超过于常人的力量 |  |
-| obanai iguro | 伊黑小芭内 | ![](https://thumbsnap.com/i/ya1bfEZR.jpg)<br>鬼殺隊隊員，使用「蛇」之呼吸的蛇柱。<br><br>伊黑小芭内（日语：伊黒（いぐろ） 小芭内（おばない））是由吾峠呼世晴所创作的漫画《`p:kimetsu no yaiba`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊黑小芭内) |
+| obanai iguro | 伊黑小芭内 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/7/70/Obanai_anime_right_face.png)<br>所属作品：`p:kimetsu no yaiba`<br>鬼殺隊隊員，使用「蛇」之呼吸的蛇柱。<br>伊黑小芭内（日语：伊黒（いぐろ） 小芭内（おばない）） | [萌娘百科](https://zh.moegirl.org.cn/伊黑小芭内) |
 | aoi kanzaki | 神崎葵 | 鬼杀队员。于蝴蝶屋帮助负伤的队员们治疗，执行训练指挥的女子。<br>十分能干，从做饭洗衣到煎药修理，几乎包办了蝴蝶屋内的一切内务和杂项。与胡蝶忍的继子栗花落香奈乎关系很好。 |  |
 | sabito | 锖兔 | 鳞泷左近次的弟子，灶门炭治郎的师兄，富冈义勇的同门友人 |  |
 | tengen uzui | 宇髄天元 | 鬼杀队中的音柱, 原忍者，绰号“二刀流的宇髄天元”。头巾上镶有着许多钻珠的男子，眼睛周边涂了许多红色花纹，但卸妆后意外的十分美型。 |  |
