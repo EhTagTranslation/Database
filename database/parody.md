@@ -311,7 +311,7 @@ example:
 | myriad colors phantom world | 无彩限的怪灵世界 |  |  |
 | soul eater | 噬魂师 | ![](https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2260277206.webp) |  |
 | urara meirochou | Urara迷路帖 |  |  |
-| ranma 12 | 乱马½ |  |  |
+| ranma 12 | 乱马½ | ![](https://thumbsnap.com/i/rpNLcwJF.jpg)<br>《乱马½》（日语：らんま½）是由高桥留美子创作的一部漫画，并有动画、游戏、电视剧等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/乱马1/2) |
 | yosuga no sora | 缘之空 |  |  |
 | gintama | 银魂 |  |  |
 | panty and stocking with garterbelt | 吊带袜天使 | ![](https://thumbsnap.com/i/xzQwefku.jpg)<br>《吊带袜天使》（日语：パンティ&ストッキングwithガーターベルト；英语：Panty & Stocking with Garterbelt）是由GAINAX所制作的日本TV动画，并有漫画等衍生作品。时隔多年后，由TRIGGER负责该动画第二季《新吊带袜天使》的制作。 | [萌娘百科](https://zh.moegirl.org.cn/吊带袜天使) |
