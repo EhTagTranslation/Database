@@ -8088,6 +8088,7 @@ example:
 | ani | Grok Ani | ![](https://ehgt.org/w/01/978/30272-aj4mqwhb.webp)<br>马斯克旗下xAI公司推出的AI伴侣，作为Grok应用的3D动画角色，定位为哥特风格动漫女孩。 |  |
 | escher hannibalk | 伊夏·汉尼巴鲁库 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/d/d8/Escher-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>侍奉沙鲁姆王国迪恩地区教会的温柔修女。 | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Escher) |
 | talia | 塔利亚 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/8/82/Talia-FullArt-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>拥有只要凝视目标并自伤，就能让对方承受相同伤害的能力——“伤之诅咒”。 | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Talia) |
+| hana mutou | 梦塔花 | ![](https://static.wikia.nocookie.net/captain-earth/images/5/5d/Captain_Earth_Wiki_-_Character_-_Hana_Mutou_-_Casual.png)<br>所属作品：`captain earth`<br>有着17岁外表的少女，真实身份不明。幼时在种子岛基地的地下被真夏大地和岚彻平从沉睡中唤醒。 | [Fandom](https://captain-earth.fandom.com/wiki/Hana_Mutou) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
