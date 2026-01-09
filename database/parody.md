@@ -2687,6 +2687,7 @@ example:
 | whos that girl | 反转练习生 |  |  |
 | nunholy | Nunholy | Nunholy是一款充满动作感的roguelike游戏，在游戏中，你将化身为身经百战的修女，探索地下城并猎杀吸血鬼。 | [Steam](https://store.steampowered.com/app/2854740/Nunholy/)<br>[官网](https://nunholy.com/) |
 | captain earth | 地球队长 | ![](https://static.wikia.nocookie.net/captain-earth/images/4/4d/Captain_Earth_logo.png)<br>《地球队长》是由五十岚卓哉执导、骨头社于2014年推出的原创科幻机战电视动画。 |  |
+| venus blood -ragnarok- | 圣女之血：诸神黄昏 | ![](https://ninetail.info/CF/VenusBloodRAGNAROK_International/images/home_main.png)<br>《VenusBlood RAGNAROK》是由日本Dual Tail开发、JAST发行的策略角色扮演游戏（SRPG），是《VenusBlood》系列的第九作，以北欧神话为背景，玩家通过选择秩序或混沌路线影响角色命运。<br>简称VBR。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
