@@ -2686,6 +2686,7 @@ example:
 | viral hit | 格斗实况 | ![](https://static.wikia.nocookie.net/viral-hit/images/8/89/Vhitpromo1.png)<br>《格斗实况》改编自泰俊负责故事、金正贤作画的网络漫画作品。讲述了贫穷高中生柳皓彬因一场意外直播，通过格斗直播改变人生的励志故事。 |  |
 | whos that girl | 反转练习生 |  |  |
 | nunholy | Nunholy | Nunholy是一款充满动作感的roguelike游戏，在游戏中，你将化身为身经百战的修女，探索地下城并猎杀吸血鬼。 | [Steam](https://store.steampowered.com/app/2854740/Nunholy/)<br>[官网](https://nunholy.com/) |
+| captain earth | 地球队长 | ![](https://static.wikia.nocookie.net/captain-earth/images/4/4d/Captain_Earth_logo.png)<br>《地球队长》是由五十岚卓哉执导、骨头社于2014年推出的原创科幻机战电视动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
