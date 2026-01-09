@@ -8085,6 +8085,7 @@ example:
 | bastet | 巴斯特 | ![](https://static.wikia.nocookie.net/pad/images/b/b2/Pet494.png)<br>所属作品：`puzzle and dragons` |  |
 | linie | 莉 | ![](https://static.wikia.nocookie.net/frieren/images/b/b7/Linie_anime_profile.png)<br>所属作品：`sousou no frieren`<br>阿乌拉麾下的“斩首吏”魔族之一，使用的魔法为模仿魔法。 |  |
 | gene | 珍妮 | ![](https://ehgt.org/w/00/973/49270-6eq3p88q.webp)<br>所属作品：`phantasy star online 2` |  |
+| ani | Grok Ani | ![](https://ehgt.org/w/01/978/30272-aj4mqwhb.webp)<br>马斯克旗下xAI公司推出的AI伴侣，作为Grok应用的3D动画角色，定位为哥特风格动漫女孩。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
