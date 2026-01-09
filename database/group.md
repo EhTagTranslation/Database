@@ -13562,6 +13562,7 @@ example:
 | ribyobu | リビョウブ |  |  |
 | nekosaku land | 猫作ランド |  |  |
 | nonogishi park | ノノギシパーク |  |  |
+| yukutake | ゆくた家 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
