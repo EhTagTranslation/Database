@@ -557,7 +557,7 @@ example:
 | fancy lala | 梦幻拉拉 |  |  |
 | final fight | 快打旋风 |  |  |
 | beauty and the beast | 美女与野兽 |  |  |
-| baka to test to shoukanjuu | 笨蛋测验召唤兽 |  |  |
+| baka to test to shoukanjuu | 笨蛋测验召唤兽 | ![](https://thumbsnap.com/i/RaJfEQWg.jpg)<br>《笨蛋、测验、召唤兽》（日语：バカとテストと召喚獣、韩语：바보와 시험과 소환수、英语：Baka and Test: Summon the Beasts）是井上坚二创作、叶贺唯作画的轻小说，于2007年1月起由enterbrain（后转为KADOKAWA）出版，发行于旗下Fami通文库。本小说是第8届Entame大奖小说部门编辑部特别奖得奖作品，曾于2008年获得“这本轻小说真厉害！”排行榜的第8位、于2010年获得“这本轻小说真厉害！”排行榜的第1位。本小说有漫画、动画、广播剧、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/笨蛋、测验、召唤兽) |
 | arcana heart | 圣灵之心 |  |  |
 | heroman | HEROMAN |  |  |
 | anyamaru tantei kiruminzoo | 动物侦探奇鲁米 |  |  |
