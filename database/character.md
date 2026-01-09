@@ -8090,6 +8090,7 @@ example:
 | talia | 塔利亚 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/8/82/Talia-FullArt-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>拥有只要凝视目标并自伤，就能让对方承受相同伤害的能力——“伤之诅咒”。 | [Fandom](https://reincarnated-as-the-7th-prince.fandom.com/wiki/Talia) |
 | hana mutou | 梦塔花 | ![](https://static.wikia.nocookie.net/captain-earth/images/5/5d/Captain_Earth_Wiki_-_Character_-_Hana_Mutou_-_Casual.png)<br>所属作品：`captain earth`<br>有着17岁外表的少女，真实身份不明。幼时在种子岛基地的地下被真夏大地和岚彻平从沉睡中唤醒。 | [Fandom](https://captain-earth.fandom.com/wiki/Hana_Mutou) |
 | aika sumeragi | 皇蓝华 | ![](https://ehgt.org/w/01/953/23384-hv5j7v23.webp)<br>所属作品：`agent aika`<br>16岁，高中一年级生，经常会迟到。强化人，是强化人实验中唯一幸存活着的人。 |  |
+| arata kasuga | 春日新 | ![](https://static.wikia.nocookie.net/trinity-seven/images/a/ad/Arata_Kasuga_Anime_Character_Full_Body.png)<br>所属作品：`trinity seven`<br>在发生崩坏现象时从圣那里接到了魔道书并许下了“马上回到普通的日常生活”的愿望从而进行了只有魔王级别才能做到的“创造世界”，被称为魔王候补。 | [Fandom](https://trinity-seven.fandom.com/wiki/Arata_Kasuga) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
