@@ -8079,6 +8079,7 @@ example:
 | ireena litz de olhyde | 伊莉娜·里茨 | ![](https://static.wikia.nocookie.net/shijou-saikyou-daimaou/images/a/a3/Ireena_Litz_de_Olhyde_-_Anime_Design_2.png)<br>所属作品：`shijou saikyou no daimaou murabito a ni tensei suru`<br>全名伊莉娜·里茨·德·奥尔巴伊特 |  |
 | reiju vinsmoke | 宾什莫克·丽珠 | 宾什莫克·丽珠，也叫粉红剧毒，是宾什莫克家族长女兼独女。她除了是杰尔马王国公主，也是杰尔马66干部。<br>![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg") | [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
 | nemo noah | 尼莫/诺亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/90/S452_Stage1.webp)<br>所属作品：`fate grand order` |  |
+| platina | 普拉蒂纳 (Nunholy) | ![](https://ehgt.org/w/01/875/39729-4a0q2l8j.webp)<br>所属作品：`nunholy` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
