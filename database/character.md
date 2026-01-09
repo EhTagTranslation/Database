@@ -1789,7 +1789,7 @@ example:
 | vira | 维拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/6f/Zoom_3040385000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/2/2c/Zoom_3040043000_01.png)<br>所属作品：`granblue fantasy` |  |
 | vampy | 斑比 | ![](https://huiji-public.huijistatic.com/gbf/uploads/e/e5/Zoom_3040057000_02.png)<br>巴哈姆特之怒, 碧蓝幻想, 影之诗, 公主连结! Re:Dive, 等作品中均有出场. | [萌娘百科](https://zh.moegirl.org.cn/斑比) |
 |  | ▼ 魔卡少女樱 |  |  |
-| sakura kinomoto | 木之本樱 |  |  |
+| sakura kinomoto | 木之本樱 | ![](https://static.wikia.nocookie.net/ccs/images/c/cf/Sakura_Kinomoto_Clear_Card_Arc_Anime.png)<br>所属作品：`cardcaptor sakura` |  |
 | touya kinomoto | 木之本桃矢 |  |  |
 | yukito tsukishiro | 月城雪兔 |  |  |
 | tomoyo daidouji | 大道寺知世 | ![](https://img.moegirl.org.cn/common/2/27/Tomoyo_Daidouji.jpg) |  |
