@@ -8092,6 +8092,7 @@ example:
 | aika sumeragi | 皇蓝华 | ![](https://ehgt.org/w/01/953/23384-hv5j7v23.webp)<br>所属作品：`agent aika`<br>16岁，高中一年级生，经常会迟到。强化人，是强化人实验中唯一幸存活着的人。 |  |
 | arata kasuga | 春日新 | ![](https://static.wikia.nocookie.net/trinity-seven/images/a/ad/Arata_Kasuga_Anime_Character_Full_Body.png)<br>所属作品：`trinity seven`<br>在发生崩坏现象时从圣那里接到了魔道书并许下了“马上回到普通的日常生活”的愿望从而进行了只有魔王级别才能做到的“创造世界”，被称为魔王候补。 | [Fandom](https://trinity-seven.fandom.com/wiki/Arata_Kasuga) |
 | arin kannazuki | 神无月爱琳 | ![](https://static.wikia.nocookie.net/trinity-seven/images/a/ac/Arin_design_MV.png)<br>所属作品：`trinity seven`<br>与春日新在男浴池中偶遇，三无少女，天然呆，与书库相对不会生气。 | [Fandom](https://trinity-seven.fandom.com/wiki/Arin_Kannazuki) |
+| yui kurata | 仓田唯 | ![](https://static.wikia.nocookie.net/trinity-seven/images/9/93/Yui_Kurata_Anime_Character_Full_Body.png)<br>所属作品：`trinity seven`<br>住在学校地下的地牢里，是住在世界的另一面——梦的世界的魔道士，所以只能在梦中对话。 | [Fandom](https://trinity-seven.fandom.com/wiki/Yui_Kurata) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
