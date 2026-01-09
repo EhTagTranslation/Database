@@ -2893,7 +2893,7 @@ example:
 | shinobu kochou | 蝴蝶忍 | 胡蝶忍（英语：shinobu kochou）所属作品:`p:kimetsu no yaiba`<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/01/Shinobu_introducing_.png) | [萌娘百科](https://zh.moegirl.org.cn/胡蝶忍) |
 | giyuu tomioka | 富冈义勇 | ![](https://thumbsnap.com/i/q2mNZs3w.jpg)<br>富冈义勇（日语：冨岡（とみおか） 義勇（ぎゆう））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/富冈义勇) |
 | mitsuri kanroji | 甘露寺蜜璃 | ![](https://img.moegirl.org.cn/common/9/98/Kanroji_Mitsuri.png)<br>甘露寺蜜璃（英语:Mitsuri Kanroji）<br>是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的角色。 | [萌娘百科](https://zh.moegirl.org.cn/甘露寺蜜璃) |
-| zenitsu agatsuma | 我妻善逸 | 使用雷之呼吸 |  |
+| zenitsu agatsuma | 我妻善逸 | ![](https://thumbsnap.com/i/xh5KdJJ9.jpg)<br>我妻善逸（日语：我妻（あがつま） 善逸（ぜんいつ））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/我妻善逸) |
 | tanjirou kamado | 灶门炭治郎 | 灶门家长子，造型为制服上披着市松图案的羽织，有着一头深红发与红色眼睛的“赫灼之子”（从事火仕职业家庭的孩子）。左额上有着小时候为了保护弟弟，而被滚烫的水壶烧伤的大片伤痕。 |  |
 | kyojuro rengoku | 炼狱杏寿郎 | "炎柱"炼狱杏寿郎生来便拥有超过于常人的力量 |  |
 | obanai iguro | 伊黑小芭内 | 鬼殺隊隊員，使用「蛇」之呼吸的蛇柱。 |  |
