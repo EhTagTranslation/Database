@@ -467,7 +467,7 @@ example:
 | guilty gear | 罪恶装备 |  |  |
 | nanatsu no taizai | 七大罪 |  | [维基百科](https://zh.wikipedia.org/wiki/七大罪_%28漫畫%29) |
 | starcraft | 星际争霸 |  |  |
-| alice in wonderland | 爱丽丝梦游仙境 |  |  |
+| alice in wonderland | 爱丽丝梦游仙境 | 《爱丽丝梦游仙境》（英语：Alice's Adventures in Wonderland，简称Alice in Wonderland）是由路易斯·卡罗尔（Lewis Carroll，1832-1898）创作的一部童话作品。 | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝梦游仙境) |
 | ikkitousen | 一骑当千 |  |  |
 | g.i. joe | 特种部队 |  |  |
 | metroid | 银河战士 |  |  |
