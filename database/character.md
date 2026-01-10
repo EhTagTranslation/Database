@@ -1539,7 +1539,7 @@ example:
 | ruka oshida | 押田流歌 |  |  |
 | murakami | 村上 |  |  |
 | yuri isuzu | 五十铃百合 |  |  |
-| shiho nishizumi | 西住志穗 |  |  |
+| shiho nishizumi | 西住志穗 | ![](https://ehgt.org/w/00/559/96807-8ey2gili.webp)<br>出自作品：`p:girls und panzer`<br><br>西住志穗（日语：西住（にしずみ） しほ）是Actas制作的动画《少女与战车》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/西住志穗) |
 |  | 秋山淳五郎 |  |  |
 | yoshiko akiyama | 秋山好子 |  |  |
 |  | 冷泉久子 |  |  |
