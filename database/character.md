@@ -7641,7 +7641,7 @@ example:
 | jayce | 杰斯（未来守护者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/4d/nue71nfr8tmgki9u8hfo8tln67qu2md.jpg) |  |
 | viego | 佛耶戈（破败之王） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Viego_OriginalSkin.jpg?9cc8c) |  |
 | heimerdinger | 黑默丁格（大发明家） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/7/78/4ewg92a7m5g5tq24xadfyle5m630l0e.jpg) |  |
-| diana | 戴安娜 \| 黛安娜（皎月女神） | ①戴安娜<br>![](https://ehgt.org/w/02/194/92727-9caowout.webp)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br><br>——————————<br>②皎月女神<br>![](https://patchwiki.biligame.com/images/lol/8/8d/36gc53e1611ys7gshsk73vkj4js2lks.jpg)<br>所属作品：`league of legends` |  |
+| diana | 戴安娜 \| 黛安娜（皎月女神） | ①戴安娜<br>![](https://ehgt.org/w/02/194/92727-9caowout.webp)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br><br>——————————<br>②皎月女神<br>![](https://patchwiki.biligame.com/images/lol/8/8d/36gc53e1611ys7gshsk73vkj4js2lks.jpg)<br>所属作品：`league of legends` | [Fandom](https://may-i-ask-for-one-final-thing.fandom.com/wiki/Diana) |
 | shen | 慎（暮光之眼） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/00/925cay00k5izn0we59bh1jtxn6t4drm.jpg) |  |
 | zilean | 基兰（时光守护者） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/8/8a/eoi35mhof56nv70pmsbxjesxj1ymkro.jpg) |  |
 | kennen | 凯南（狂暴之心） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/0/01/janys4yrkawv9zqh9a0rp386i1noepe.jpg) |  |
