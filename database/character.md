@@ -5181,7 +5181,7 @@ example:
 | takane miyoshi | 三善贵音 | 所属作品：`p:blue archive`<br>红冬联邦学园出版部的部员。负责给红冬事务局机关杂志《红熊》撰写社论，自称阅读过所有红冬联邦学园出版过的刊物。<br>![](https://cdnimg.gamekee.com/wiki2.0/images/w_471/h_1150/829/43637/2023/7/24/825562.png) | [百度百科](https://baike.baidu.com/item/三善贵音/65687019) |
 | kiriko kamori | 家守雾子 | ![](https://img.moegirl.org.cn/common/8/8a/雾子2.png)<br>所属作品：`overwatch` | [萌娘百科](https://zh.moegirl.org.cn/家守雾子) |
 | genji | 源氏 | 出自游戏《overwatch》 | [萌娘百科](https://zh.moegirl.org.cn/岛田源氏) |
-| ichigo kurosaki | 黑崎一护 |  |  |
+| ichigo kurosaki | 黑崎一护 | ![](https://thumbsnap.com/i/xaU5iVwi.jpg)<br>出自作品：`p:bleach`<br><br>黑崎一护（日语：黒崎一护／くろさきいちご Kurosaki Ichigo）是日本漫画《BLEACH》中的主角。特征是遗传自母亲的橘色头发，棕色瞳孔。 | [Fandom](https://bleach.fandom.com/zh/wiki/黑崎一護?variant=zh-cn) |
 | retsu unohana | 卯之花烈 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/卯之花烈) |
 | rui yashio | 八潮瑠唯 |  |  |
 | miles morales | 迈尔斯·莫拉雷斯 | 漫威漫画系列登场角色 | [萌娘百科](https://zh.moegirl.org.cn/迈尔斯·莫拉雷斯) |
