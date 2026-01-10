@@ -8110,6 +8110,7 @@ example:
 | mira kamiunten | 上运天美罗 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/8/85/Mira_Kamiunten_Visual_Revealed.jpeg)<br>所属作品：`mato seihei no slave`<br>魔防队二番组的组长，其性格豪迈。 | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Mira_Kamiunten) |
 | maia azuma | 东麻衣亚 | ![](https://lain.bgm.tv/pic/crt/l/4f/17/112590_crt_LuQmu.jpg)<br>所属作品：`mato seihei no slave`<br>魔防队九番组的副组长。 | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Maia_Azuma) |
 | liscia elfrieden | 莉希雅·艾尔弗里登 | ![](https://static.wikia.nocookie.net/genjitsushugisha/images/2/29/Liscia-Artwork_%28Anime%29.png)<br>所属作品：`genjitsu shugi yuusha no oukoku saikenki` | [Fandom](https://genkoku.fandom.com/wiki/Liscia_Elfrieden) |
+| juna doma | 朱娜·多玛 | ![](https://static.wikia.nocookie.net/genjitsushugisha/images/7/77/Juna-Artwork_%28Anime%29.png)<br>所属作品：`genjitsu shugi yuusha no oukoku saikenki` | [Fandom](https://genkoku.fandom.com/wiki/Juna_Doma) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
