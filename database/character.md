@@ -8113,6 +8113,7 @@ example:
 | juna doma | 朱娜·多玛 | ![](https://static.wikia.nocookie.net/genjitsushugisha/images/7/77/Juna-Artwork_%28Anime%29.png)<br>所属作品：`genjitsu shugi yuusha no oukoku saikenki` | [Fandom](https://genkoku.fandom.com/wiki/Juna_Doma) |
 | bell tsukiyono | 月夜野贝儿 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/b/b5/Tsukiyono_Bell_Visual_Reveal.jpeg)<br>所属作品：`mato seihei no slave`<br>魔防队三番组的组长。 | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Bell_Tsukiyono) |
 | chelsea rorec | 翠西·劳力克 | ![](https://ehgt.org/w/01/935/23707-4ue3jzf5.webp)<br>所属作品：`tokyo underground`<br>チェルシー・ローレック<br>重力属性能力者。 | [百度百科](https://baike.baidu.com/item/翠西·劳力克/8521359) |
+| anya fromel | 阿妮雅·傅洛摩 | ![](https://thumbsnap.com/i/Ji8FFioX.jpg)<br>角色出自：《`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`》<br><br>阿妮雅·傅洛摩（日语：アーニャ·フローメル；英语：Anya Flormel）是大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/阿妮雅·傅洛摩) \| [Fandom](https://danmachi.fandom.com/zh/wiki/阿妮雅·傅洛摩) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
