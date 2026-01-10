@@ -435,7 +435,7 @@ example:
 | machine robo | 天威勇士 |  |  |
 | rage of bahamut | 巴哈姆特之怒 |  |  |
 | kono naka ni hitori imouto ga iru | 其中1个是妹妹 |  |  |
-| sailor moon | 美少女战士 |  |  |
+| sailor moon | 美少女战士 | ![](https://ehgt.org/w/01/884/74360-jlvhk3l7.webp)<br>《美少女战士》是武内直子创作的一部魔法少女变身类漫画，并有动画、真人电视剧等衍生作品。漫画于1992年-1997年在讲谈社漫画月刊《なかよし》上连载。漫画旧版共18卷，新装版为12卷+短篇集2卷。 | [萌娘百科](https://zh.moegirl.org.cn/美少女战士) |
 | dog days | 犬勇者物语 |  |  |
 | onegai teacher | 拜托了☆老师 | 《拜托了☆老师》（日文：おねがい☆ティーチャー），是一部由Please!制作的动画作品。该部动画于2002年1月10日至3月28日在WOWOW播放；Animax Asia引进版权并于香港及东亚等地区播放，JET日本台引进版权并于台湾播放。另有漫画版本，由林家志弦作画。 | [维基百科](https://zh.wikipedia.org/wiki/拜託了☆老師) (\*) |
 | onegai twins | 拜托了☆双子星 | 《拜托了☆双子星》（日语：おねがい☆ツインズ）是一部日本动画作品，是《拜托了☆老师》的续篇。 | [维基百科](https://zh.wikipedia.org/wiki/拜託了☆雙子星) (\*) |
