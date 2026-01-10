@@ -8130,6 +8130,7 @@ example:
 | l-elf karlstein | 艾尔埃尔夫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/60/42/19707_crt_C19uI.jpg)<br>所属作品：`valvrave the liberator`<br>多尔西亚军特务机关所属特工。 |  |
 | takahi ninomiya | 二宫贵姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b6/b4/19718_crt_Fdg3S.jpg)<br>所属作品：`valvrave the liberator`<br>隶属于芭蕾舞部，女子运动部的精英。 |  |
 | paffy pafuricia | 帕菲·帕弗里西亚 | ![](https://cdn.myanimelist.net/images/characters/14/213183.jpg)<br>所属作品：`lord of lords ryu knight`<br>魔法王国的公主。 |  |
+| lieselotte w. dorssia | 莉泽露蒂·W·多西亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/1d/21791_crt_9yQh4.jpg)<br>所属作品：`valvrave the liberator`<br>多西亚的公主。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
