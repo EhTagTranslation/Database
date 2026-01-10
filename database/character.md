@@ -6175,7 +6175,7 @@ example:
 | tearlaments kitkallos | 泪冠哀歌・琪多卡洛斯 |  |  |
 | tearlaments scheiren | 泪冠哀歌・赛莲 |  |  |
 | tour guide from the underworld | 魔界发现世行死亡向导 | 由魔界到现世的死亡导游 |  |
-| tri-brigade kitt | 铁兽战线 姬特 |  |  |
+| tri-brigade kitt | 铁兽战线 姬特 | ![](https://thumbsnap.com/i/VVv12fNY.jpg)<br>出自作品：`p:yu-gi-oh`<br><br>初收录于数字盒1103《炽热漩涡》，为“铁兽战线”系列的成员。 | [萌娘百科](https://zh.moegirl.org.cn/铁兽战线_姬特) |
 | witchcrafter haine | 魔女工艺・裁缝海涅 | 魔女术工匠·服装女巫 |  |
 | witchcrafter madame verre | 魔女工艺掌门・玻璃匠薇儿 | 魔女术师傅·玻璃女巫 |  |
 | dinomorphia kentregina | 恐啡肽骇龙・肯特莱钉娜 |  |  |
