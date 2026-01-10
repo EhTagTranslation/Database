@@ -3570,7 +3570,7 @@ example:
 | shut | 夏特 |  |  |
 | princess jasmine | 茉莉公主 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
 | aladdin | 阿拉丁 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
-| ariel | 爱丽儿 | 华特迪士尼第28部动画电影《小美人鱼》及其衍生作品中的主角。 |  |
+| ariel | 爱丽儿 | ①<br>![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/3/3c/C12.png)<br>所属作品：`kumo desu ga nani ka`<br>女神莎丽儿身边的蜘蛛，原初蜘蛛，现任魔王，所有蜘蛛怪的起源。<br>——————————<br>②迪士尼动画电影《小美人鱼》中的主角。 | [Fandom](https://kumodesu.fandom.com/wiki/Ariel) |
 | platelet | 血小板 |  |  |
 | ayaka kamisato | 神里绫华 | ![](https://patchwiki.biligame.com/images/ys/a/a6/qlcfvze5mhcbk7prrojhe4u40yh5uts.gif)<br>所属作品:`p:genshin impact`<br>稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。 | [萌娘百科](https://zh.moegirl.org.cn/神里绫华) [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
 | shounagon sei | 清少纳言 | 清少纳言通常是指`type-moon`旗下Fate系列及其衍生作品中登场的角色，在游戏《`fate grand order`》初登场。<br><br>其出典于真实历史人物 清少纳言，是日本平安时期的女作家、歌人。姓清原，名不可考。以随笔集「枕草子」闻名。 | [萌娘百科](https://zh.moegirl.org.cn/清少纳言%28Fate%29) (\*\*) |
