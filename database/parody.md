@@ -1610,7 +1610,7 @@ example:
 | hataage kemono michi | 萌兽宠物店 | 《萌兽宠物店》（日语：けものみち），是由晓夏目担任原作，まったくモー助、梦呗担任作画的日本漫画作品，自2016年11月起于《月刊少年Ace》（KADOKAWA）开始连载。 | [维基百科](https://zh.wikipedia.org/wiki/萌獸寵物店) |
 | valkyria chronicles 2 | 战场女武神2 | 《战场女武神2 加利亚王立军官学校》。是由世嘉公司于2008年4月24日发售的PlayStation3游戏《战场女武神》的续篇，于2010年1月21日发售的PSP游戏行动战略角色扮演游戏软件。在2010年的东京电玩展上，世嘉正式公布续作战场女武神3将在2011年1月27日于PSP平台发售。 | [维基百科](https://zh.wikipedia.org/wiki/戰場女武神2_加利亞王立士官學校) (\*) |
 | valkyria chronicles 3 | 战场女武神3 | 《战场女武神3》（日语：戦場のヴァルキュリア3，英语：Valkyria Chronicles III）是世嘉与Media.Vision共同制作的战场女武神系列的第三代作品。在2010年的东京电玩展上正式揭晓并提供试玩，于2011年1月27日于PSP平台发售，本作也是继前作之后，系列作第二款在掌机上登场的作品。在2010年11月9日的发表会上，除了公布游戏主题曲与演唱者之外，还将推出2集OVA动画和黏土人系列模型。<br>在2011年9月3日官方正式宣布将于2011年11月23日推出包含游戏本篇与新制作的3个断章再加上4个旧有的追加下载任务的扩充版（EXTRA EDITION，简称E2版）。 | [维基百科](https://zh.wikipedia.org/wiki/戰場女武神3) (\*) |
-| kumo desu ga nani ka | 转生成蜘蛛又怎样！ |  | [维基百科](https://zh.wikipedia.org/wiki/轉生成蜘蛛又怎樣！) |
+| kumo desu ga nani ka | 转生成蜘蛛又怎样！ | ![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/5/57/Kv3.jpeg)<br>《我是蜘蛛又怎样？》是日本作家马场翁创作的异界大陆类轻小说。 | [维基百科](https://zh.wikipedia.org/wiki/轉生成蜘蛛又怎樣！) |
 | kuma kuma kuma bear | 熊熊勇闯异世界 | 《熊熊勇闯异世界》改编自くまなの创作的同名小说 | [萌娘百科](https://zh.moegirl.org.cn/熊熊勇闯异世界) [维基百科](https://zh.wikipedia.org/wiki/熊熊勇闯异世界) |
 | marco to ginga ryuu | 丸子与银河龙 | 游戏：丸子与银河龙 | [维基百科](https://zh.wikipedia.org/wiki/マルコと銀河竜_〜MARCO_%26_GALAXY_DRAGON〜) |
 | moyashimon | 萌菌物语 | 《萌菌物语》（日语：もやしもん）是由石川雅之创作的一部漫画，并有动画、电视剧等衍生作品。<br><br>作品描写了农大学生的生活。拥有用肉眼看见“菌”能力的少年泽木直保和青梅竹马伪娘结城萤进入某农业大学，并且了解了许多跟菌相关的知识，也因为直保的特殊能力而招惹许多事情。在每集动画中的片尾都有“菌剧场”。<br><br>该动画曾在日本农林水产省美食文化赏中获金奖。 | [萌娘百科](https://zh.moegirl.org.cn/萌菌物语) [维基百科](https://zh.wikipedia.org/wiki/農大菌物語) |
