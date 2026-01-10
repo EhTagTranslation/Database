@@ -14587,6 +14587,7 @@ example:
 | nonogishi | ノノギシ |  |  |
 | ura-ra | うらーら |  | [X](https://x.com/ura_ra1800) |
 | diu | ぢう |  | [pixiv](https://www.pixiv.net/users/102967477) |
+| tsukuyomi | ツクヨミ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
