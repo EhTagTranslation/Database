@@ -8119,6 +8119,7 @@ example:
 | isaac foster | 艾札克·佛斯特 | ![](https://static.wikia.nocookie.net/satsuriku-no-tenshi/images/e/e5/Zack-Anime.png)<br>所属作品：`satsuriku no tenshi`<br>只要一见到看起来很幸福或快乐的人，就会忍不住杀意。 | [Fandom](https://satsuriku-no-tenshi.fandom.com/wiki/Isaac_%22Zack%22_Foster#Anime) |
 | aletta | 阿莱塔 | ![](https://static.wikia.nocookie.net/isekaishokudo/images/a/a3/Aletta_visual.png)<br>所属作品：`isekai shokudou` | [Fandom](https://isekaishokudo.fandom.com/wiki/Aletta) |
 | hanon hosho | 宝生波音 | ![](https://static.wikia.nocookie.net/mermaidmelody/images/c/ce/Infobox_mermiad_hanon1.png)<br>所属作品：`mermaid melody pichi pichi pitch`<br>南大西洋国的美人鱼公主。 | [Fandom](https://mermaidmelody.fandom.com/wiki/Hanon_Hosho) |
+| lucia nanami | 七海露西亚 | ![](https://static.wikia.nocookie.net/mermaidmelody/images/d/d6/Idol_Lucia.png)<br>所属作品：`mermaid melody pichi pichi pitch`<br>北太平洋国的美人鱼公主。 | [Fandom](https://mermaidmelody.fandom.com/wiki/Lucia_Nanami) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
