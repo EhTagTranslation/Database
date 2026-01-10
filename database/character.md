@@ -8126,6 +8126,7 @@ example:
 | akira renboukouji | 连坊小路晶 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3d/d0/19719_crt_APB6Z.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园二年级学生，6号机驾驶员。 | [Fandom](https://kakumeikivalvrave.fandom.com/wiki/Akira_Renbokoji) |
 | rion nanami | 七海里音 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ed/01/19721_crt_jddXa.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园保健体育实习老师。 |  |
 | marie nobi | 野火毬惠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/95/be/19713_crt_h0gKy.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园二年级学生，与翔子的关系非常好。 | [Fandom](https://kakumeikivalvrave.fandom.com/wiki/Marie_Nobi) |
+| haruto tokishima | 时缟晴人 | ![](https://static.wikia.nocookie.net/kakumeikivalvrave/images/c/cc/Haruto_Official_Art.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园二年级学生，Valvrave1号机驾驶员。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
