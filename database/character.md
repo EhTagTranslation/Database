@@ -7814,7 +7814,7 @@ example:
 | tyrant | 魔王（星塔旅人） | ![](https://i2.hdslb.com/bfs/new_dyn/e390bc3a1c9952e086ddb91c9b9780856089321.jpg)<br>所属作品：`stella sora`<br>玩家扮演的主人公。 |  |
 | shizuka nanahoshi | 七星静香 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7d/Nanahoshi-Unmasked-Anime-FullBody.png)<br>所属作品：`mushoku tensei` |  |
 | mornye | 莫宁 | ![](https://prod-alicdn-community.kurobbs.com/forum/610ec03f0f754ca3b15dfdc98a80bd3220251202.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves`<br>深空联合研究院学者、星炬学院教授莫宁，思维敏捷却不善言辞。 |  |
-| the dahlia | 康士坦丝 \| 大丽花 | 「大丽花」康士坦丝是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>所属作品：`honkai star rail`<br>![](https://storage.moegirl.org.cn/moegirl/commons/2/25/崩坏星穹铁道_大丽花立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/康士坦丝) |
+| the dahlia | 「大丽花」康士坦丝 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/25/崩坏星穹铁道_大丽花立绘.png)<br><br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/康士坦丝) |
 | stay gold | 黄金旅程 | ![](https://static.wikia.nocookie.net/umamusume/images/2/26/Stay_Gold_%28Race%29.png)<br>所属作品：`uma musume pretty derby` |  |
 | youko imari | 伊万里曜子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/46/13/173048_crt_IEyVo.jpg)<br>所属作品：`ruri no houseki` |  |
 | tao yuifa | 桃·愈华 | ![](https://static.wikia.nocookie.net/reincarnated-as-the-7th-prince/images/c/ca/Tao-FullArt2-Anime.png)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` |  |
