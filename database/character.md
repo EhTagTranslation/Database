@@ -6183,7 +6183,7 @@ example:
 | live twin ki-sikil | 直播☆双子 姬丝吉尔 |  |  |
 | evil twin ki-sikil | 邪恶★双子 姬丝吉尔 |  |  |
 | evil twin lil-la | 邪恶★双子 璃拉 |  |  |
-| fallen of albaz | 阿尔白斯之落胤 | 阿不思的落胤 |  |
+| fallen of albaz | 阿尔白斯之落胤 | ![](https://thumbsnap.com/i/PUqDrifS.jpg)<br>出自作品：`p:yu-gi-oh`<br><br>此卡最早是《决斗者崛起》（1101）收录的怪兽卡，是第一张代表《白之故事》主人公阿尔白斯的卡。 | [萌娘百科](https://zh.moegirl.org.cn/阿尔白斯之落胤) |
 | swordsoul of mo ye | 相剑师－莫邪 |  |  |
 | pa-san | 音响师 | PA桑 | [萌娘百科](https://zh.moegirl.org.cn/音响师) |
 | the iris swordsoul | 妖眼的相剑师 |  |  |
