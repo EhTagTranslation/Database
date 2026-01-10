@@ -549,7 +549,7 @@ example:
 | overlord | 不死者之王 |  |  |
 | full ani | Fullani | 全动画脱衣麻将 |  |
 | full metal panic | 全金属狂潮 |  |  |
-| fullmetal alchemist | 钢之炼金术师 |  |  |
+| fullmetal alchemist | 钢之炼金术师 | ![](https://thumbsnap.com/i/mHE58JV5.jpg)<br>《钢之炼金术师》（日语：鋼の錬金術師），简称钢炼（ハガレン），是日本漫画家荒川弘创作的日本漫画作品，于2001年8月开始连载，2010年6月完结。本作先后于2003年及2009年被改编为电视动画《钢之炼金术师》（2003年版本）和《钢之炼金术师 FULLMETAL ALCHEMIST》，漫画和动画均受到欢迎。 | [萌娘百科](https://zh.moegirl.org.cn/钢之炼金术师) |
 | full moon o sagashite | 寻找满月 | 星河满月 |  |
 | full metal daemon muramasa | 装甲恶鬼村正 |  |  |
 | futsuu no joshikousei ga locodol yattemita. | 普通女高中生要做当地偶像 |  |  |
