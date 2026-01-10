@@ -6843,7 +6843,7 @@ example:
 | nyaan | 尼娅安 |  |  |
 | comoli harcourt | 小森·哈珂特 |  |  |
 | anan natsume | 夏目安安 | ![](https://img.moegirl.org.cn/common/thumb/e/ec/安安正常立绘.png/800px-安安正常立绘.png)<br>所属作品：`mahou shoujo no majo saiban`<br>夏目安安（日语：ナツメ アンアン） | [萌娘百科](https://zh.moegirl.org.cn/夏目安安) |
-| hiro nikaidou | 二阶堂希罗 | 二阶堂希罗（日语：にかいどう ヒロ）是Acacia旗下游戏《魔法少女的魔女审判》及其衍生作品的登场角色。是该游戏的主人公之一。<br>![](https://img.moegirl.org.cn/common/thumb/3/36/希罗立绘_tabs用.png/800px-希罗立绘_tabs用.png) | [萌娘百科](https://zh.moegirl.org.cn/二阶堂希罗) |
+| hiro nikaidou | 二阶堂希罗 | ![](https://img.moegirl.org.cn/common/thumb/3/36/希罗立绘_tabs用.png/800px-希罗立绘_tabs用.png)<br>所属作品：`mahou shoujo no majo saiban`<br>二阶堂希罗（日语：にかいどう ヒロ） | [萌娘百科](https://zh.moegirl.org.cn/二阶堂希罗) |
 | ema sakuraba | 樱羽艾玛 | 樱羽艾玛（日语：サクラバ エマ）是Acacia旗下游戏《魔法少女的魔女审判》及其衍生作品的登场角色。是该游戏的主人公之一。<br>![](https://img.moegirl.org.cn/common/thumb/c/ca/樱羽艾玛.png/375px-樱羽艾玛.png) | [萌娘百科](https://zh.moegirl.org.cn/樱羽艾玛) |
 | friedrich carl | 腓德雷卡·卡尔 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/a/a2/7pagg919eh5mvydx3d8glfa4fal3edc.jpg/525px-腓特烈·卡尔换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/腓特烈·卡尔) |
 | trafalgar | 特拉法尔加 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/e/ee/ntefzg6pi0uk4h4xir4vrpow2iv7poi.jpg/525px-特拉法尔加立绘.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/特拉法尔加) |
