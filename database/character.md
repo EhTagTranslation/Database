@@ -6867,7 +6867,7 @@ example:
 | gawain | 高文 |  |  |
 | indra | 因陀罗 |  |  |
 | ordinary woman | 一般女性 |  |  |
-| scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | 所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br><br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
+| scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | ![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
 | isabel | 伊莎贝尔 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/16/397176.png)<br>能在空中飞行的追捕者。性格执着，只要认定目标，无论是敌人还是恋人都绝不放过。 | [https://www.gamekee.com/nikke/tj/170852.html](https://www.gamekee.com/nikke/tj/170852.html) |
 | nihilister | 尼希利斯塔 | ![](https://pic.cangku.moe/images/2025/11/13/1uzZo.png)<br>所属作品：`goddess of victory nikke`<br>"莱彻女王麾下的异端者之一，长期与妮姬战斗的先锋大将。十分好战，且具有破坏倾向。" | [https://www.gamekee.com/nikke/tj/587422.html](https://www.gamekee.com/nikke/tj/587422.html) |
 | mermaid | 小美人鱼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2339/h_2427/1253/4408/2025/4/7/572261.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2627/h_2698/1253/4408/2025/4/7/683921.png)<br>所属作品：`goddess of victory nikke`<br>第二代童话型号之一，为女神部队的新一代机型。<br>因为名字太长，所以周遭的人都称她为【赛莲】。 | [https://www.gamekee.com/nikke/tj/660130.html](https://www.gamekee.com/nikke/tj/660130.html) |
