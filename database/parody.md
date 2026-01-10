@@ -2691,6 +2691,7 @@ example:
 | yuusha yamemasu | 勇者，辞职不干了 | ![](https://static.wikia.nocookie.net/yuusha-yamemasu/images/b/bb/Light_Novel_Volume_1_%28JP%29.jpg)<br>《勇者，辞职不干了～下一个职场是魔王城～》是クオンタム（Quantum）著作、天野英负责插画的轻小说。并有同名漫画和动画改编作品。 |  |
 | tokyo underground | 东京地下城 | ![](https://static.wikia.nocookie.net/dubbing9585/images/c/c3/Tokyo_Underground_poster.jpg)<br>有乐彰展创作的漫画，并有同名改编动画作品。 |  |
 | satsuriku no tenshi | 杀戮的天使 | ![](https://upload.wikimedia.org/wikipedia/zh/d/d2/殺戮的天使.jpg)<br>《杀戮的天使》是星屑KRNKRN开发的角色扮演解谜游戏。 | [百度百科](https://baike.baidu.com/item/杀戮的天使/22043831?fromtitle=杀戮天使&fromid=19038360&fr=aladdin) |
+| bra-ban | 管乐恋曲！～The bonds of melody～ | 柚子社游戏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
