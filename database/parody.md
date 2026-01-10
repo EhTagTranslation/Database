@@ -632,7 +632,7 @@ example:
 | comic party | 漫画同人会 | 漫画派对 |  |
 | kizuato | 痕 |  |  |
 | sentimental graffiti | 青涩宝贝 |  |  |
-| bleach | 死神 |  |  |
+| bleach | 死神 | ![](https://thumbsnap.com/i/veRbFwBd.jpg)<br>《BLEACH》是由日本漫画家久保带人创作的少年漫画，于集英社杂志《周刊少年Jump》2001年36·37合并号至2016年38号间连载，单行本全74册。 | [维基百科](https://zh.wikipedia.org/wiki/BLEACH) |
 | hayate no gotoku | 旋风管家 |  |  |
 | yoake mae yori ruriiro na | 更胜黎明前的琉璃色 | 《更胜黎明前的琉璃色》（日语：夜明け前より瑠璃色な，又译作《夜明前的琉璃色》）是August发行的PC版十八禁恋爱冒险游戏。讲述一个来自月球的公主在地球家庭寄宿发生的一系列的故事。有小说、漫画、动画、广播剧等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/更胜黎明前的琉璃色) |
 | fortune arterial | FORTUNE ARTERIAL |  |  |
