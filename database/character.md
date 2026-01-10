@@ -1800,7 +1800,7 @@ example:
 | chiharu mihara | 三原千春 |  |  |
 | naoko yanagisawa | 柳泽奈绪子 |  |  |
 |  | ▼ RWBY |  |  |
-| ruby rose | 露比·罗丝 |  |  |
+| ruby rose | 露比·罗丝 | ![](https://ehgt.org/w/00/327/91880-rc400c3c.webp)<br>出自作品：`p:rwby`<br><br>Ruby Rose是美国 Rooster Teeth Productions（公鸡牙齿动画工作室） RWBY团队所创作的动画《RWBY》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/Ruby_Rose) |
 | weiss schnee | 魏丝·雪倪 |  |  |
 | blake belladonna | 布蕾克·贝拉多娜 |  |  |
 | yang xiao long | 阳小龙 |  |  |
