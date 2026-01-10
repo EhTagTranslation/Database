@@ -3134,7 +3134,7 @@ example:
 | paimon | 派蒙 | ![](https://patchwiki.biligame.com/images/ys/thumb/0/0d/1qywc02vlabns3hdbwyuuvcuclt4075.jpg/504px-派蒙2.jpg)<br>所属作品：`genshin impact`<br>游戏里的看板娘和玩家的引导NPC。旅行者在旅途中捡到的奇妙生物，同时也是旅行者前往第一座城市的引路人。 | [萌娘百科](https://zh.moegirl.org.cn/派蒙%28原神%29) |
 | hilbert | 斗也 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/a/a4/Black_White_Hilbert.png/278px-Black_White_Hilbert.png)<br>斗也（日文︰トウヤ，英文︰Hilbert）<br>《宝可梦 黑／白》的主角，他是`hilda`的对应男性人物。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥也) |
 | hilda | 希尔达 \| 斗子 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/6/6f/Black_White_Hilda.png/278px-Black_White_Hilda.png)<br>斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。11岁的蓝发女孩。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) [希尔达(剧集)](https://zh.moegirl.org.cn/希尔达) |
-| skyla | 风露 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
+| skyla | 风露 | ![](https://media.52poke.com/wiki/e/e1/风露_BW.png)<br>所属作品：`pokemon`<br>《黑／白》登场，是吹寄道馆的道馆馆主。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
 | elisa | 秋子 | 所属作品：`p:pokemon`<br>![](https://s1.52poke.wiki/wiki/thumb/9/9d/秋子.png/220px-秋子.png)<br>艾丽莎是一名宝可梦巡护员 ，在伊扎贝岛工作和生活。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/秋子) |
 | misty | 小霞 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
 | alena | 安莉娜 |  |  |
