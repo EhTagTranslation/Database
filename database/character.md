@@ -8133,6 +8133,7 @@ example:
 | lieselotte w. dorssia | 莉泽露蒂·W·多西亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/1d/21791_crt_9yQh4.jpg)<br>所属作品：`valvrave the liberator`<br>多西亚的公主。 |  |
 | melida angel | 梅莉达·安杰尔 | ![](https://static.wikia.nocookie.net/assassinspride/images/5/5b/Melida_Angel.png)<br>所属作品：`assassins pride`<br>三大公爵家的“圣骑士”家出身，位阶为“武士”的玛那能力者。 | [Fandom](https://assassinspride.fandom.com/wiki/Melida_Angel) |
 | elise angel | 爱丽丝·安杰尔 | ![](https://static.wikia.nocookie.net/assassinspride/images/2/2a/EliseAngel.png)<br>所属作品：`assassins pride`<br>梅莉达的堂妹，位阶为“圣骑士”的玛那能力者，就读“圣弗立戴斯威德女子学院”。 | [Fandom](https://assassinspride.fandom.com/wiki/Elise_Angel) |
+| wei yenwu | 魏彦吾 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8a/Ak_char_2005_weiyw_1.png)<br>所属游戏:`arknights` | [萌娘百科](https://zh.moegirl.org.cn/魏彦吾) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
