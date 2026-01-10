@@ -14588,6 +14588,7 @@ example:
 | ura-ra | うらーら |  | [X](https://x.com/ura_ra1800) |
 | diu | ぢう |  | [pixiv](https://www.pixiv.net/users/102967477) |
 | tsukuyomi | ツクヨミ |  |  |
+| ssa | ssa | ssa现改名为まりりん，但不要使用a:Maririn标签他们是不同艺术家，隶属于社团`g:ssb` |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
