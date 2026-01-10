@@ -8122,6 +8122,7 @@ example:
 | lucia nanami | 七海露西亚 | ![](https://static.wikia.nocookie.net/mermaidmelody/images/d/d6/Idol_Lucia.png)<br>所属作品：`mermaid melody pichi pichi pitch`<br>北太平洋国的美人鱼公主。 | [Fandom](https://mermaidmelody.fandom.com/wiki/Lucia_Nanami) |
 | coco | 可可 | ![](https://static.wikia.nocookie.net/mermaidmelody/images/d/d2/Super_Idol_-_Coco_2.png)<br>所属作品：`mermaid melody pichi pichi pitch`<br>南太平洋国的美人鱼公主。 | [Fandom](https://mermaidmelody.fandom.com/wiki/Coco) |
 | saki rukino | 流木野咲 | ![](https://static.wikia.nocookie.net/kakumeikivalvrave/images/c/cc/131915.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园一年级学生，担任Valvrave四号机驾驶员，机体型号RM-047。 | [Fandom](https://kakumeikivalvrave.fandom.com/wiki/Saki_Rukino) |
+| shoko sashinami | 指南翔子 | ![](https://static.wikia.nocookie.net/kakumeikivalvrave/images/9/9c/Chara_03_01_1.png)<br>所属作品：`valvrave the liberator`<br>咲森学园二年级学生，吉奥尔前总理的女儿。 | [Fandom](https://kakumeikivalvrave.fandom.com/wiki/Shoko_Sashinami) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
