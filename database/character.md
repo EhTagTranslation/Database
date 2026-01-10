@@ -2058,7 +2058,7 @@ example:
 | kay faraday | 一条美云 |  |  |
 | sherlock holmes | 夏洛克·福尔摩斯 |  |  |
 |  | ▼ 凉宫春日的忧郁 |  |  |
-| haruhi suzumiya | 凉宫春日 | 所属作品: `p:the melancholy of haruhi suzumiya` | [萌娘百科](https://zh.moegirl.org.cn/凉宫春日) |
+| haruhi suzumiya | 凉宫春日 | ![](https://ehgt.org/w/01/189/30477-fioxpi4q.webp)<br>所属作品: `p:the melancholy of haruhi suzumiya` | [萌娘百科](https://zh.moegirl.org.cn/凉宫春日) |
 | kyon | 阿虚 | 所属作品: `p:the melancholy of haruhi suzumiya` | [萌娘百科](https://zh.moegirl.org.cn/阿虚) |
 | kyon no imouto | 虚妹 |  |  |
 | emiri kimidori | 喜绿江美里 |  |  |
