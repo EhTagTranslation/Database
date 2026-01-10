@@ -7325,7 +7325,7 @@ example:
 | lindo tachibana | 立华林多 |  |  |
 | nana kozuki | 香月奈奈 | 所属作品：`god eater` |  |
 | ciel alencon | 雪儿·阿朗松 | ![](https://ehgt.org/w/01/738/73234-g5588cm9.webp)<br>所属作品：`god eater` |  |
-| riza hawkeye | 莉莎·霍克艾 | 所属作品：`fullmetal alchemist` |  |
+| riza hawkeye | 莉莎·霍克艾 | ![](https://ehgt.org/4e/a2/4ea2f1fe6fbb497a06f86233e0053b690aea447c-463940-1057-1500-jpg_250.jpg)<br>所属作品：`fullmetal alchemist`<br><br>莉莎·霍克艾是漫画《钢之炼金术师》及其衍生作品的登场角色。<br><br>动画中在09版（即FA版）和03版中均有出场。 | [萌娘百科](https://zh.moegirl.org.cn/莉莎·霍克艾) |
 | louise halevy | 路易丝·哈勒维 | 所属作品：`gundam 00`<br>居住于日本的经济特区的海外留学生，沙慈的女朋友。 |  |
 | zessica wong | 婕希卡·沃恩 | ![](https://ehgt.org/w/02/049/26502-hf73n9r6.webp)<br>所属作品：`aquarion evol`<br>ゼシカ·ウォン |  |
 | mix | 蜜珂丝 | ![](https://lain.bgm.tv/r/400/pic/crt/l/98/2d/14724_crt_NgqP1.jpg)<br>所属作品：`aquarion evol`<br>担任学生会长及班长职务，成绩优异但性格严谨，因完美主义倾向常忽视他人感受。 |  |
