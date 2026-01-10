@@ -8107,6 +8107,7 @@ example:
 | mashiro tsukinomori | 月之森真白 | ![](https://ehgt.org/w/02/194/74116-7zupvqkq.webp)<br>所属作品：`tomodachi no imouto ga ore ni dake uzai`<br>主角大星明照的同班同学兼堂姐妹。 | [Fandom](https://imouza.fandom.com/wiki/Mashiro_Tsukinomori) |
 | sumire kageishi | 影石菫 | ![](https://ehgt.org/w/02/177/12307-007i7mu2.webp)<br>所属作品：`tomodachi no imouto ga ore ni dake uzai`<br>25岁的青年教师。 | [Fandom](https://imouza.fandom.com/wiki/Sumire_Kageishi) |
 | fuyumi todoroki | 轰冬美 | ![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0c/Fuyumi_Todoroki_Anime_Profile.png)<br>所属作品：`my hero academia`<br>轰焦冻的姐姐。 | [Fandom](https://myheroacademia.fandom.com/wiki/Fuyumi_Todoroki) |
+| mira kamiunten | 上运天美罗 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/8/85/Mira_Kamiunten_Visual_Revealed.jpeg)<br>所属作品：`mato seihei no slave`<br>魔防队二番组的组长，其性格豪迈。 | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Mira_Kamiunten) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
