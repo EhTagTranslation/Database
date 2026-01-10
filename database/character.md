@@ -5196,7 +5196,7 @@ example:
 | giselle gewelle | 吉赛尔·茱艾尔 | 出自《BLEACH》 | [萌娘百科](https://zh.moegirl.org.cn/吉赛尔·茱艾尔) |
 | jun sazanami | 涟纯 |  | [萌娘百科](https://zh.moegirl.org.cn/涟纯) |
 | ben tennyson | 田小班 | 田小班（Benjamin Kirby "Ben" Tennyson/本杰明·柯比·“本”·田尼森）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小班) |
-| gwen tennyson | 田小玟 | 田小玟（Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《`p:ben 10`》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
+| gwen tennyson | 田小玟 | ![](https://ehgt.org/w/00/791/68901-ej0tx2wj.webp)<br>出自作品：`p:ben 10`<br><br>田小玟（Gwendolyn "Gwen" Tennyson/格玟多琳·“格玟”·田纳森 ）是Cartoon Network Studios旗下作品《Ben 10》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/田小玟) |
 | virtuosa | 塑心（阿尔图罗） | ![](https://patchwiki.biligame.com/images/arknights/8/84/0d8wrsqd1gwcvxfwzu8861yh6dfm0jd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/塑心) |
 | viviana droste | 薇薇安娜·德罗斯特 | ![](https://patchwiki.biligame.com/images/arknights/0/0c/pevwosc6z149eejmvq4a38uue7m7mau.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/薇薇安娜) |
 | meowscarada | 魔幻假面喵 | ![](https://s1.52poke.com/wiki/thumb/d/d7/908Meowscarada.png/250px-908Meowscarada.png)<br>所属作品：`pokemon`<br>草恶属性的魔术师宝可梦。 | [https://wiki.52poke.com/wiki/魔幻假面喵](https://wiki.52poke.com/wiki/魔幻假面喵) |
