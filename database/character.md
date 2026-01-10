@@ -8117,6 +8117,7 @@ example:
 | roy mustang | 罗伊·马斯坦 | ![](https://thumbsnap.com/i/F6PvxMtw.jpg)<br>出自作品：`p:fullmetal alchemist`<br><br>罗伊·马斯坦是漫画《钢之炼金术师》及其衍生作品的登场角色。<br>动画中在09版（即FA版）和03版中均有出场。 | [萌娘百科](https://zh.moegirl.org.cn/罗伊·马斯坦) |
 | rachel gardner | 瑞吉儿·加德纳 | ![](https://static.wikia.nocookie.net/satsuriku-no-tenshi/images/3/37/Rachel-Anime.png)<br>所属作品：`satsuriku no tenshi`<br>失去了记忆的13岁少女。 | [Fandom](https://satsuriku-no-tenshi.fandom.com/wiki/Rachel_%22Ray%22_Gardner#Game) |
 | isaac foster | 艾札克·佛斯特 | ![](https://static.wikia.nocookie.net/satsuriku-no-tenshi/images/e/e5/Zack-Anime.png)<br>所属作品：`satsuriku no tenshi`<br>只要一见到看起来很幸福或快乐的人，就会忍不住杀意。 | [Fandom](https://satsuriku-no-tenshi.fandom.com/wiki/Isaac_%22Zack%22_Foster#Anime) |
+| aletta | 阿莱塔 | ![](https://static.wikia.nocookie.net/isekaishokudo/images/a/a3/Aletta_visual.png)<br>所属作品：`isekai shokudou` | [Fandom](https://isekaishokudo.fandom.com/wiki/Aletta) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
