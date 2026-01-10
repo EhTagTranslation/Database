@@ -6216,7 +6216,7 @@ example:
 | land | 兰托 | ![](https://img.moegirl.org.cn/common/thumb/1/15/Frieren_anime_兰托.png/280px-Frieren_anime_兰托.png)<br>日语：ラント<br>漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰托) |
 | iselda | 伊塞尔达 |  |  |
 | iansan | 伊安珊 | ![](https://patchwiki.biligame.com/images/ys/b/be/sriygawkmkmmf3jcj94tsdqd7po56vx.gif)<br><br>所属作品：`genshin impact`<br>沃陆之邦健身俱乐部的总教练，闻名纳塔的营养师。 | [萌娘百科](https://zh.moegirl.org.cn/伊安珊) |
-| inori yuitsuka | 结束祈 |  |  |
+| inori yuitsuka | 结束祈 | ![](https://thumbsnap.com/i/k8FKRXPf.jpg)<br>出自作品：`p:medalist`<br><br>结束祈（日语：結束（ゆいつか） いのり）是つるまいかだ创作的漫画《金牌得主》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/结束祈) |
 | roxanne | 罗克珊 | ![](https://ehgt.org/w/01/957/91775-dmpm7pv2.webp)<br>所属作品：`isekai meikyuu de harem o` |  |
 | kou ichinomiya | 市之宫行 | 所属作品: `p:arakawa under the bridge` | [萌娘百科](https://zh.moegirl.org.cn/市之宫行) |
 | jean colbert | 柯尔贝尔 | 所属作品: `p:zero no tsukaima` | [Fandom](https://zeronotsukaima.fandom.com/wiki/Jean_Colbert) |
