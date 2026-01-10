@@ -5665,7 +5665,7 @@ example:
 | suzune horikita | 堀北铃音 | ![](https://img.moegirl.org.cn/common/9/91/Horikita_Suzune.jpg)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>成绩优秀、文武两道、性格麻烦。是个一向独行、贯彻自我、对社交毫无兴趣的不会笑的冷美人，周身散发着“不要跟我说话”一般的气场，拒人千里之外。 | [萌娘百科](https://zh.moegirl.org.cn/堀北铃音) |
 | fauna | 塞莱希·法娜 | 塞莱希·法娜（英语：Ceres Fauna；日语：セレス・ファウナ）是一名于2021年8月17日开始活动的VTuber，所属日本业界团体Hololive （Hololive English）―『Hololive English -议会-』的成员，已于2025年1月4日毕业。<br><br>![](https://img.moegirl.org.cn/common/thumb/2/2e/CeresFaunaBk1.jpg/420px-CeresFaunaBk1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/塞莱希·法娜) |
 | momo ayase | 绫濑桃 | 绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f7039b56a9b41ffa513d27976898?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/绫濑桃/63774516) |
-| andrew graves | 安德鲁·格雷夫斯 | 《`the coffin of andy and leyley`》中男主角，阿什利·格雷夫斯的哥哥 |  |
+| andrew graves | 安德鲁·格雷夫斯 | 《`the coffin of andy and leyley`》中男主角，`c:ashley graves`的哥哥 |  |
 | renee graves | 蕾妮·格雷夫斯 | 《安迪和莱利的棺材》中兄妹的母亲 |  |
 | ashley graves | 阿什利·格雷夫斯 | 《安迪和莱利的棺材》中的女主，安德鲁·格雷夫斯的妹妹 |  |
 | greythroat | 灰喉 | 【代号】灰喉<br>【性别】女<br>【战斗经验】三年<br>【出身地】未公开<br>【生日】11月14日<br>【种族】黎博利<br>【身高】162cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者 | [https://prts.wiki/w/灰喉](https://prts.wiki/w/灰喉) |
