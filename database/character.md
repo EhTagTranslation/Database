@@ -6012,7 +6012,7 @@ example:
 | jace beleren | 杰斯贝连 | 《万智牌》角色 |  |
 | aira shiratori | 白鸟爱罗 |  |  |
 | ken takakura | 高仓健 | 日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的男主角。因为热衷神秘学事物而被小桃称作“超然仔”（オカルン） |  |
-| fubuki azuma | 东风舞希 | 是由タカヒロ原作、竹村洋平作画的漫画《魔都精兵的奴隶》及其衍生作品的登场角色。 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/东风舞希.png/420px-东风舞希.png) [萌娘百科](https://zh.moegirl.org.cn/东风舞希) |
+| fubuki azuma | 东风舞希 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/9/9a/Fubuki_Azuma_Visual_Reveal.jpeg)<br>所属作品：`mato seihei no slave`<br>九番组组长，其在东之晚宴获胜后成为新任东家当家。 | [萌娘百科](https://zh.moegirl.org.cn/东风舞希) |
 | sky striker ace - raye | 闪刀姬-零衣 | 游戏王OCG知名卡组系列角色之一 | [萌娘百科](https://zh.moegirl.org.cn/闪刀姬-零衣) |
 | felicia mitsuki | 深月菲莉希亚 | 深月菲莉希亚是动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》中的登场角色。在主线故事开始前作为“魔法少女佣兵”而独自生活着。 | [萌娘百科](https://zh.moegirl.org.cn/深月菲莉希亚) |
 | shiki wakana | 若菜四季 | ![](https://img.moegirl.org.cn/common/3/36/若菜四季_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/若菜四季)<br>[Fandom](https://love-live.fandom.com/wiki/Shiki_Wakana) |
