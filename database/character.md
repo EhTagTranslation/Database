@@ -8111,6 +8111,7 @@ example:
 | maia azuma | 东麻衣亚 | ![](https://lain.bgm.tv/pic/crt/l/4f/17/112590_crt_LuQmu.jpg)<br>所属作品：`mato seihei no slave`<br>魔防队九番组的副组长。 | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Maia_Azuma) |
 | liscia elfrieden | 莉希雅·艾尔弗里登 | ![](https://static.wikia.nocookie.net/genjitsushugisha/images/2/29/Liscia-Artwork_%28Anime%29.png)<br>所属作品：`genjitsu shugi yuusha no oukoku saikenki` | [Fandom](https://genkoku.fandom.com/wiki/Liscia_Elfrieden) |
 | juna doma | 朱娜·多玛 | ![](https://static.wikia.nocookie.net/genjitsushugisha/images/7/77/Juna-Artwork_%28Anime%29.png)<br>所属作品：`genjitsu shugi yuusha no oukoku saikenki` | [Fandom](https://genkoku.fandom.com/wiki/Juna_Doma) |
+| bell tsukiyono | 月夜野贝儿 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/b/b5/Tsukiyono_Bell_Visual_Reveal.jpeg)<br>所属作品：`mato seihei no slave`<br>魔防队三番组的组长。 | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Bell_Tsukiyono) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
