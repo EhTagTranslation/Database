@@ -8102,6 +8102,7 @@ example:
 | haruna mutsuishi | 六石阳菜 | ![](https://static.wikia.nocookie.net/cue/images/0/07/Haruna_workout.png/revision/latest?cb=20190705210448)<br>所属作品:`p:cue` | [Fandom](https://cue.fandom.com/wiki/Haruna_Mutsuishi) |
 | felsi rollo | 菲尔西·洛洛 | ![](https://static.wikia.nocookie.net/gundam/images/b/be/Felsi_Rollo_character_art_from_The_Witch_from_Mercury.png/revision/latest?cb=20221007214327)<br>所属作品:`mobile suit gundam the witch from mercury` | [Fandom](https://gundam.fandom.com/wiki/Felsi_Rollo) |
 | caroline | 卡萝莉娜 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/41/卡罗丽娜.png)<br>所属作品:`persona 5`<br><br>如何区分这对双胞胎:<br>卡罗莉娜的帽子上印有"X-M-R-N"字母 | [萌娘百科](https://zh.moegirl.org.cn/卡萝莉娜) |
+| sophia keren | 苏菲亚.盖伦 | ![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/c/c2/C13.png)<br>所属作品：`kumo desu ga nani ka`<br>通称吸血子，转世后变得很美，前世名为根岸彰子。 | [Fandom](https://kumodesu.fandom.com/wiki/Sophia) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
