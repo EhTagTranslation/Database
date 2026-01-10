@@ -4416,7 +4416,7 @@ example:
 | yggdrasil | 尤格多拉希尔 | ![](https://huiji-public.huijistatic.com/gbf/uploads/7/7f/Zoom_3040563000_01.png)<br>所属作品：`granblue fantasy` |  |
 | otome arisugawa | 有栖川乙女 | 所属作品: `p:aikatsu`<br>![](https://static.wikia.nocookie.net/all-aikatsu/images/c/ce/Otome_torte_final.png) | [萌娘百科](https://zh.moegirl.org.cn/有栖川乙女) [Fandom](https://all-aikatsu.fandom.com/wiki/Otome_Arisugawa) |
 | luo tianyi | 洛天依 |  |  |
-| sensei | 老师 | 老师，是游戏《蔚蓝档案》及其衍生作品中的主角，亦是由玩家扮演的角色。男性，就职于隶属学院都市基沃托斯的“联邦学生会”的特殊权利机构“沙勒”。<br>![](https://img.moegirl.org.cn/common/3/34/BA_Pic_Sensei_TV_Anime.jpg)<br>![](https://img.moegirl.org.cn/common/6/6f/BA_Pic_Sensei.png) | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
+| sensei | 老师 | ![](https://img.moegirl.org.cn/common/3/34/BA_Pic_Sensei_TV_Anime.jpg)<br>![](https://img.moegirl.org.cn/common/6/6f/BA_Pic_Sensei.png)<br>所属作品：`blue archive`<br>由玩家扮演的角色。男性，就职于隶属学院都市基沃托斯的“联邦学生会”的特殊权利机构“沙勒”。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
 | azuma seren | 东雪莲 |  |  |
 | yaoyao | 瑶瑶 | ![](https://patchwiki.biligame.com/images/ys/2/2e/4qn6v9fecs4oc1o2y7n9fe9ndcflxmk.gif)<br>所属作品:`p:genshin impact`<br>歌尘浪市真君膝下最年幼的弟子，温柔体贴的「小大人」。 | [萌娘百科](https://zh.moegirl.org.cn/瑶瑶) |
 | monika | 莫妮卡 | 所属作品: `p:doki doki literature club`<br>![](https://static.wikia.nocookie.net/doki-doki-literature-club/images/e/ef/Monika_Illustration.png)<br>**唯一**女主角 | [莫妮卡(心跳文学社! )<br>](https://zh.moegirl.org.cn/莫妮卡%28心跳文学部%29) |
