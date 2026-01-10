@@ -2592,7 +2592,7 @@ example:
 | wizard | 魔法师 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
 | cleric | 僧侣 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
 | warrior | 战士 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
-| asuka langley soryu | 惣流·明日香·兰格雷 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/899416.png)<br>所属作品：`neon genesis evangelion` |  |
+| asuka langley soryu | 惣流·明日香·兰格雷 | ![](https://ehgt.org/w/00/934/86294-c2ubm8j5.webp)<br><br>所属作品：`neon genesis evangelion`<br><br>惣（zǒng）流·明日香·兰格雷 是动画《新世纪福音战士》及其衍生的EVA系列的漫画、游戏等作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/惣流·明日香·兰格雷) |
 | lucina | 露琪娜 | 露琪娜（Lucina、ルキナ） `fire emblem awakening`中最主要的三个角色之一。 | [Fandom](https://fireemblem.fandom.com/zh/wiki/露琪娜)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Lucina_%28Fire_Emblem%29)<br>[https://fireemblemwiki.org/wiki/Lucina](https://fireemblemwiki.org/wiki/Lucina) |
 | cynthia | 竹兰 \| 辛西娅 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/c/c3/Brilliant_Diamond_Shining_Pearl_Cynthia.png/270px-Brilliant_Diamond_Shining_Pearl_Cynthia.png)<br>竹兰（又译希罗娜，日文︰シロナ Shirona，英文︰Cynthia） | [萌娘百科](https://zh.moegirl.org.cn/竹兰) |
 | hikari horaki | 洞木光 |  |  |
