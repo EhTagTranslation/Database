@@ -988,7 +988,7 @@ example:
 | dream c club | 梦幻俱乐部 |  |  |
 | katekyo hitman reborn | 家庭教师HITMAN REBORN! |  |  |
 | tsugumomo | 怪怪守护神 |  |  |
-| the simpsons | 辛普森一家 |  |  |
+| the simpsons | 辛普森一家 | ![](https://thumbsnap.com/i/BKoc14mE.jpg)<br>《辛普森一家》（The Simpsons）是由马特·格勒宁创作，美国福克斯广播公司出品的一部动画情景喜剧，并有动画电影、游戏等衍生作品。截止至2022年7月2日，动画版已播出33季，共716集（不包含Tracey Ullman Shorts短片），未完结。曾是吉尼斯世界纪录“播放时间跨度最长的电视动画片”的保持者，后来在2013年被《海螺小姐》超越。 | [萌娘百科](https://zh.moegirl.org.cn/辛普森一家) |
 | ano natsu de matteru | 在那个夏天等待 | ![](https://static.wikia.nocookie.net/pleaseteacher/images/a/a6/Anonatsu_Special.jpg)<br>《在那个夏天等待》是J.C.STAFF制作的原创动画，由小说家黑田洋介编写剧本并担当系列构成，插画师羽音田乐负责角色原案。 |  |
 | net ghost pipopa | 网络精灵PIPOPA | 光速大冒险PIPOPA |  |
 | dominion tank police | 特搜战车队 | 警察战车队 |  |
