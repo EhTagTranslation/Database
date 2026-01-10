@@ -1996,7 +1996,7 @@ example:
 | fuuko kurasaki | 仓崎枫子 |  |  |
 | takumu mayuzumi | 黛拓武 |  |  |
 |  | ▼ 魔法少女奈叶 |  |  |
-| nanoha takamachi | 高町奈叶 |  |  |
+| nanoha takamachi | 高町奈叶 | ![](https://ehgt.org/w/01/237/04246-5un5586q.webp)<br>出自作品：`p:mahou shoujo lyrical nanoha`<br><br>高町（tǐng）奈叶（日语：高町（たかまち）　なのは）是《魔法少女奈叶》系列MediaMix作品及其衍生作品的登场角色。<br>奈叶是全系列的女主角，时空管理局魔导师、总局航空教导队教导官兼一等空尉。出生于97号管理外世界，9岁时已成为魔导师，擅长远距离炮击魔法，具有魔炮攻击能力的代表人物。 | [萌娘百科](https://zh.moegirl.org.cn/高町奈叶) |
 | fate testarossa | 菲特·泰斯特罗莎 |  |  |
 | einhart stratos | 艾茵哈特·斯崔特斯 |  |  |
 | rinne berlinetta | 凛音·贝利内塔 |  |  |
