@@ -8105,6 +8105,7 @@ example:
 | sophia keren | 苏菲亚.盖伦 | ![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/c/c2/C13.png)<br>所属作品：`kumo desu ga nani ka`<br>通称吸血子，转世后变得很美，前世名为根岸彰子。 | [Fandom](https://kumodesu.fandom.com/wiki/Sophia) |
 | kana sumiya | 澄弥可奈 | ![](https://ehgt.org/w/02/194/91095-la7ut9op.webp)<br>所属作品：`aki sora`<br>葵空的同班同学。是葵奈美的好友。 | [百度百科](https://baike.baidu.com/item/澄弥可奈/9388362) |
 | mashiro tsukinomori | 月之森真白 | ![](https://ehgt.org/w/02/194/74116-7zupvqkq.webp)<br>所属作品：`tomodachi no imouto ga ore ni dake uzai`<br>主角大星明照的同班同学兼堂姐妹。 | [Fandom](https://imouza.fandom.com/wiki/Mashiro_Tsukinomori) |
+| sumire kageishi | 影石菫 | ![](https://ehgt.org/w/02/177/12307-007i7mu2.webp)<br>所属作品：`tomodachi no imouto ga ore ni dake uzai`<br>25岁的青年教师。 | [Fandom](https://imouza.fandom.com/wiki/Sumire_Kageishi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
