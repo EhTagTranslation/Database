@@ -8128,6 +8128,7 @@ example:
 | marie nobi | 野火毬惠 | ![](https://lain.bgm.tv/r/400/pic/crt/l/95/be/19713_crt_h0gKy.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园二年级学生，与翔子的关系非常好。 | [Fandom](https://kakumeikivalvrave.fandom.com/wiki/Marie_Nobi) |
 | haruto tokishima | 时缟晴人 | ![](https://static.wikia.nocookie.net/kakumeikivalvrave/images/c/cc/Haruto_Official_Art.jpg)<br>所属作品：`valvrave the liberator`<br>咲森学园二年级学生，Valvrave1号机驾驶员。 |  |
 | l-elf karlstein | 艾尔埃尔夫 | ![](https://lain.bgm.tv/r/400/pic/crt/l/60/42/19707_crt_C19uI.jpg)<br>所属作品：`valvrave the liberator`<br>多尔西亚军特务机关所属特工。 |  |
+| takahi ninomiya | 二宫贵姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b6/b4/19718_crt_Fdg3S.jpg)<br>所属作品：`valvrave the liberator`<br>隶属于芭蕾舞部，女子运动部的精英。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
