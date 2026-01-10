@@ -724,7 +724,7 @@ example:
 | howls moving castle | 哈尔的移动城堡 |  |  |
 | kikis delivery service | 魔女宅急便 |  |  |
 | ace combat | 皇牌空战 |  |  |
-| mermaid melody pichi pichi pitch | 人鱼的旋律 |  |  |
+| mermaid melody pichi pichi pitch | 人鱼的旋律 | ![](https://static.wikia.nocookie.net/mermaidmelody/images/2/22/Mermaid_Melody_Pichi_Pichi_Pitch_Poster.jpg)<br>《人鱼的旋律》（ぴちぴちピッチ）是由日本漫画家花森ぴんく创作的少女漫画，并有同名改编动画。 | [百度百科](https://baike.baidu.com/item/人鱼的旋律/57792728?fromModule=lemma_sense-layer#viewPageContent) |
 | attack no. 1 | 女排No.1 | アタックNo.1、排球甜心、冲出世界 |  |
 | devilman | 恶魔人 |  |  |
 | la seine no hoshi | 月光女侠 | 红花侠影，La Seine no Hoshi |  |
