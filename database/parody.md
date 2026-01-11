@@ -233,7 +233,7 @@ example:
 | dragon quest v | 勇者斗恶龙V 天空的新娘 |  |  |
 | dragon quest vi | 勇者斗恶龙VI 幻之大地 |  |  |
 | dragon quest vii | 勇者斗恶龙VII 伊甸的战士们 |  |  |
-| dragon quest viii | 勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主 |  |  |
+| dragon quest viii | 勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主 | ![](https://thumbsnap.com/i/zuXRvEzc.jpg)<br><br>《勇者斗恶龙8：天空、碧海、大地与被呪咒的公主》是由LEVEL-5开发、Square Enix于2004年在日本发行的PS2平台角色扮演游戏，为《勇者斗恶龙》系列第八代正统续作 [1]。本作由鸟山明担任角色设定，堀井雄二负责剧本创作，杉山浩一谱写配乐，采用全3D卡通赛璐珞风格构建奇幻世界。<br>游戏主线围绕勇者与被诅咒的国王、公主展开冒险，通过探索天空、海洋与大地解开王城诅咒。核心玩法融合昼夜交替系统、NPC动态行为机制，并创新加入张力回合制战斗与炼金合成系统。场景涵盖草原、遗迹等多样化地貌，搭配鸟山明标志性怪物造型及场景互动细节。美版新增全程英语配音与本土化内容适配。 | [百度百科](https://baike.baidu.com/item/勇者斗恶龙8：天空、碧海、大地与被呪咒的公主/15177220) |
 | dragon quest ix | 勇者斗恶龙IX 星空的守护者 |  |  |
 | dragon quest x | 勇者斗恶龙X 觉醒的五种族 Online |  |  |
 | dragon quest xi | 勇者斗恶龙XI 追寻逝去的时光 | 《勇者斗恶龙XI 寻觅逝去的时光》（日语：ドラゴンクエストXI 過ぎ去りし時を求めて，英语：Dragon Quest XI: Echoes of an Elusive Age）是史克威尔艾尼克斯开发并发行在PlayStation 4、任天堂3DS、Windows和任天堂Switch平台上的电子角色扮演游戏。游戏是勇者斗恶龙系列第11部正传，也是系列诞生30周年的纪念作品。<br>![Logo](https://upload.wikimedia.org/wikipedia/zh/thumb/a/a2/Dragon_Quest_XI_Sugisarishi_Toki_o_Motomete_Logo.jpg/220px-Dragon_Quest_XI_Sugisarishi_Toki_o_Motomete_Logo.jpg) | [官方网站](https://www.dq11.jp/) [维基百科](https://zh.wikipedia.org/wiki/勇者鬥惡龍XI_尋覓逝去的時光) [维基百科🇯🇵](https://ja.wikipedia.org/wiki/ドラゴンクエストXI_過ぎ去りし時を求めて) |
