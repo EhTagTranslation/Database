@@ -8137,6 +8137,7 @@ example:
 | davi artman | 妲维·阿特曼 |  | [Fandom](https://virtualyoutuber.fandom.com/wiki/Davi_Artman) |
 | tamayo | 珠世 | ![](https://ehgt.org/w/02/196/32009-domsb8ks.webp)<br>所属作品：`kimetsu no yaiba`<br>曾被鬼王鬼舞辻无惨变为鬼，后摆脱了无惨的咒缚，并与无惨为敌。 | [百度百科](https://baike.baidu.com/item/珠世/22390348) |
 | himari azuma | 东日万凛 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/d/d3/Himari_Azuma_S2.webp)<br>所属作品：`mato seihei no slave` | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Himari_Azuma) |
+| yachiho azuma | 东八千穗 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/6/67/Yachiho_Azuma_anime_design.png)<br>所属作品：`mato seihei no slave` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
