@@ -14591,6 +14591,7 @@ example:
 | ssa | ssa | ssa现改名为まりりん，但不要使用a:Maririn标签他们是不同艺术家，隶属于社团`g:ssb` |  |
 | kawahara makoto | 川原诚 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/川原誠) |
 | hiiragi mashiro | 柊ましろ |  |  |
+| grande | ぐらんで |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
