@@ -5143,7 +5143,7 @@ example:
 | mahiru tsuyuzaki | 露崎真昼 | 所属作品: `p:shoujo kageki revue starlight`<br><br>在舞台上活泼地载歌载舞，但其实平常很稳重内向的舞台少女。是`c:karen aijo`的室友，一直很向往她开朗积极的个性。然而当华恋的青梅竹马`c:hikari kagura`出现后，让她的心情复杂了起来…… | [萌娘百科](https://zh.moegirl.org.cn/露崎真昼) |
 | shizuka yoshimoto | 好本静 | 《超超超超超喜欢你的100个女朋友》女主之一。 |  |
 | anastasia hoshin | 安娜塔西亚·合辛 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/17/29/43/134934465_p3_master1200.jpg)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>国王候补者之一。出身于卡拉拉基的最下层。现任合辛商会的会长。<br>具备卓越的商业才能，将卡拉拉基的留希卡商工会买下并改名。 | [萌娘百科](https://zh.moegirl.org.cn/安娜塔西亚·合辛) |
-| stark | 休塔尔克 | 休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/休塔尔克) |
+| stark | 休塔尔克 | ![](https://thumbsnap.com/i/rTR4LL6h.jpg)<br>出自作品：`p:sousou no frieren`<br><br>休塔尔克是由山田钟人原作、阿部司作画的漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/休塔尔克) |
 | aiba uiha | 相羽初叶 | 相羽初叶（相羽ういは / Aiba Uiha）是一名从2019年7月28日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/相羽初叶) |
 | sherlock shellingford | 夏洛克·雪莉福德 | 所属作品: `p:tantei opera milky holmes`<br><br>Milky Holmes一员, 名称来自亚瑟·柯南·道尔作品中的名探侦夏洛克·福尔摩斯和其使用过的假称 「シェリンフォード（Shellingford）」, 简而言之是福尔摩斯的后代。<br><br>![](https://static.wikia.nocookie.net/tanteioperamilkyholmes/images/0/05/Shholmes.png) | [萌娘百科](https://zh.moegirl.org.cn/夏洛克·雪莉福德) [Fandom](https://hero.fandom.com/wiki/Sherlock_Shellingford) |
 | sodachi oikura | 老仓育 | 所属作品: `p:bakemonogatari`<br><br>`c:koyomi araragi`的高中一年级同班同学，班长。喜欢别人称呼自己为数学家“欧拉”。从登场开始就非常讨厌`c:koyomi araragi`。<br><br>![](https://static.wikia.nocookie.net/bakemonogatari1645/images/1/1a/OwariOikura2.png) | [萌娘百科](https://zh.moegirl.org.cn/老仓育) [Fandom](https://bakemonogatari.fandom.com/wiki/Sodachi_Oikura) |
