@@ -14592,6 +14592,7 @@ example:
 | kawahara makoto | 川原诚 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/川原誠) |
 | hiiragi mashiro | 柊ましろ |  |  |
 | grande | ぐらんで |  |  |
+| orinze | おりんぜ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
