@@ -537,7 +537,7 @@ example:
 | wakfu | 沃土 |  | [萌娘百科](https://zh.moegirl.org.cn/沃土) |
 | wander over yonder | 宇宙小奇兵 |  |  |
 | batman | 蝙蝠侠 |  |  |
-| resident evil | 生化危机 | 台湾译作“恶灵古堡”，由日本卡普空公司推出，以恐怖惊悚与第三人称射击为主要内容。 |  |
+| resident evil | 生化危机 | ![](https://thumbsnap.com/i/D3e78JQE.jpg)<br><br>台湾译作“恶灵古堡”，由日本卡普空公司推出，以恐怖惊悚与第三人称射击为主要内容。 | [萌娘百科](https://zh.moegirl.org.cn/生化危机系列) |
 | kim possible | 麻辣女孩 |  | [维基百科](https://zh.wikipedia.org/wiki/麻辣女孩) |
 | jinrui wa suitai shimashita | 人类衰退之后 |  |  |
 | miss machiko | 真知子老师 |  |  |
