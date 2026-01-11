@@ -4952,7 +4952,7 @@ example:
 | chiyari tenkajin | 天火人血枪 | 天火人血枪是日本的“`p:touhou project`”系列弹幕游戏及其衍生作品的登场角色之一。<br><br>首次登场于《东方兽王园》，作为可选自机与敌机登场。 | [萌娘百科](https://zh.moegirl.org.cn/天火人血枪) [THBWiki](https://thwiki.cc/天火人血枪) |
 | ai sugimoto | 杉本爱 | 画师`a:ozaki miray`创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。 |  |
 | nobara kugisaki | 钉崎野蔷薇 |  |  |
-| maki zenin | 禅院真希 |  |  |
+| maki zenin | 禅院真希 | ![](https://ehgt.org/w/02/125/11277-e5j2hl47.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>禅院真希（日语：禪院（ぜんいん） 真希（まき））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/禅院真希) |
 | usagi saionji | 西园寺兔 |  |  |
 | principal minami | 南日和子 | “南大鸟”，音乃木坂学园的理事长，南小鸟的母亲。 | [https://zhidao.baidu.com/question/812579182642737212.html](https://zhidao.baidu.com/question/812579182642737212.html) |
 | sumi takane | 高岭珠深 | 高岭爱花的母亲。护士。兼具美貌和知性，几乎没有缺点。与爱操心的父亲相反，支持着爱花的恋爱。 |  |
