@@ -8142,6 +8142,7 @@ example:
 | hanna toono | 远野汉娜 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d6/汉娜正常立绘.png)<br>日文：遠野ハンナ (トオノ ハンナ)<br>所属游戏:`mahou shoujo no majo saiban`<br><br>指定背锅王<br>往那一飞让人唠一辈子 | [萌娘百科](https://zh.moegirl.org.cn/远野汉娜) |
 | keiichi morisato | 森里萤一 | ![](https://thumbsnap.com/i/yTtd88io.jpg)<br>出自作品：`p:ah my goddess`<br><br>森里萤一是日本漫画家藤岛康介创作的漫画《我的女神》及其衍生作品中的男主角。作为猫实工业大学工程学学生，因误拨女神事务所电话召唤出女神贝露丹蒂，并许下共同生活的心愿，由此开启人神共处的奇幻日常。 | [百度百科](https://baike.baidu.com/item/森里萤一/6796294) |
 | excella gionne | 伊柯塞拉·琼尼 | ![](https://thumbsnap.com/i/SAtH7HCZ.jpg)<br>出自作品：`p:resident evil`<br><br>伊柯塞拉·琼尼（Excella Gionne），外文名エクセラ・ギオネ，是卡普空游戏《生化危机5》中的虚拟角色，由Nina Fehren配音并担任动作捕捉。该角色设定为英国裔意大利女商人，担任跨国企业TRICELL非洲分社社长，1983年出生，身高175厘米，体重55公斤。<br>伊柯塞拉出身于欧洲望族琼尼家族，18岁通过家族关系进入TRICELL制药部门。凭借遗传学天赋与阿尔伯特·威斯克合作推进生化武器研究，利用威斯克提供的T病毒情报迅速晋升，主导非洲分社期间回收安布雷拉废弃研究设施，推动衔尾蛇计划实施并策划当地生化恐怖事件。 | [百度百科](https://baike.baidu.com/item/伊柯塞拉·琼尼/15107480) |
+| emile crossfode | 艾米尔·克劳福德 | ![](https://ehgt.org/w/02/038/07692-dflfk858.webp)<br>出自作品：`p:hundred`<br><br>艾米尔·克劳福德（日语：エミリア・ハーミット）是由箕崎准所创作小说《百武装战记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾米尔·克劳福德) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
