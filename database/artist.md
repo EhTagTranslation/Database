@@ -2509,7 +2509,7 @@ example:
 | mousou | 妄想 |  | [pixiv](https://www.pixiv.net/users/5852420) |
 | yokohama inka | よこはまインカ |  |  |
 | hoshi | ほし | ![ほし头像](https://i.loli.net/2020/05/15/CNdQfLDRpVIKEP3.jpg) | [pixiv](https://www.pixiv.net/users/1198913) [X](https://x.com/hoshi_u3) [个人主页](https://usagigo.com/) |
-| nanamatsu kenji | 七松建司 |  |  |
+| nanamatsu kenji | 七松建司 |  | [pixiv](https://www.pixiv.net/users/536099) |
 | fuumi | ふーみ |  | [pixiv](https://www.pixiv.net/users/10292)<br>[X](https://x.com/fuumiisc) |
 | shacho | 社ちょ |  | [pixiv](https://www.pixiv.net/users/341675)<br>[X](https://x.com/yashiro_tyoK) |
 | toito | トイト |  | [pixiv](https://www.pixiv.net/users/1965383)<br>[X](https://x.com/toitotenntyou) |
