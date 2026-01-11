@@ -2694,6 +2694,7 @@ example:
 | bra-ban | 管乐恋曲！～The bonds of melody～ | 柚子社游戏 |  |
 | assassins pride | 刺客守则 | ![](https://static.wikia.nocookie.net/assassinspride/images/f/f2/LNVol4.jpg)<br>《刺客守则》是日本作家天城启创作、二之本仁野负责插画的轻小说，并有同名改编动画作品。 | [百度百科](https://baike.baidu.com/item/刺客守则/20256035) |
 | kanojo x kanojo x kanojo | 彼女×彼女×彼女 ～和三姐妹的心跳同居生活～ |  |  |
+| zettai shougeki platonic heart | 绝对冲激～柏拉图之心～ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
