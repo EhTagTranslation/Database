@@ -8138,6 +8138,7 @@ example:
 | tamayo | 珠世 | ![](https://ehgt.org/w/02/196/32009-domsb8ks.webp)<br>所属作品：`kimetsu no yaiba`<br>曾被鬼王鬼舞辻无惨变为鬼，后摆脱了无惨的咒缚，并与无惨为敌。 | [百度百科](https://baike.baidu.com/item/珠世/22390348) |
 | himari azuma | 东日万凛 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/d/d3/Himari_Azuma_S2.webp)<br>所属作品：`mato seihei no slave` | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Himari_Azuma) |
 | yachiho azuma | 东八千穗 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/6/67/Yachiho_Azuma_anime_design.png)<br>所属作品：`mato seihei no slave` | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Yachiho_Azuma) |
+| sherry tachibana | 橘雪莉 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/ba/雪莉正常立绘.png)<br><br>日文：橘シェリー (タチバナ シェリー)<br>所属游戏:`mahou shoujo no majo saiban`<br>![](https://ehgt.org/w/02/073/78790-5oowltuq.webp)<br>左手力气大，右手大力气<br>雪莉酱卡哇伊daisuki~ | [萌娘百科](https://zh.moegirl.org.cn/橘雪莉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
