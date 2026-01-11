@@ -230,7 +230,7 @@ example:
 | dragon quest ii | 勇者斗恶龙II 恶灵的众神 |  |  |
 | dragon quest iii | 勇者斗恶龙III 传说的开始 |  |  |
 | dragon quest iv | 勇者斗恶龙IV 被引导的人们 |  |  |
-| dragon quest v | 勇者斗恶龙V 天空的新娘 |  |  |
+| dragon quest v | 勇者斗恶龙V 天空的新娘 | ![](https://thumbsnap.com/i/1So2J2LC.jpg)<br><br>《勇者斗恶龙5》（ドラゴンクエストV ）是一款1992年由游戏公司CHUNSOFT开发、ENIX发售的SFC平台角色扮演游戏，是系列游戏《勇者斗恶龙》第五作。该作是“天空三部曲”中的第二作，讲述了玩家扮演的勇者们打倒邪恶的魔王米尔多拉斯拯救世界的故事。 | [百度百科](https://baike.baidu.com/item/勇者斗恶龙5/7168696) |
 | dragon quest vi | 勇者斗恶龙VI 幻之大地 |  |  |
 | dragon quest vii | 勇者斗恶龙VII 伊甸的战士们 |  |  |
 | dragon quest viii | 勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主 | ![](https://thumbsnap.com/i/zuXRvEzc.jpg)<br><br>《勇者斗恶龙8：天空、碧海、大地与被呪咒的公主》是由LEVEL-5开发、Square Enix于2004年在日本发行的PS2平台角色扮演游戏，为《勇者斗恶龙》系列第八代正统续作 [1]。本作由鸟山明担任角色设定，堀井雄二负责剧本创作，杉山浩一谱写配乐，采用全3D卡通赛璐珞风格构建奇幻世界。<br>游戏主线围绕勇者与被诅咒的国王、公主展开冒险，通过探索天空、海洋与大地解开王城诅咒。核心玩法融合昼夜交替系统、NPC动态行为机制，并创新加入张力回合制战斗与炼金合成系统。场景涵盖草原、遗迹等多样化地貌，搭配鸟山明标志性怪物造型及场景互动细节。美版新增全程英语配音与本土化内容适配。 | [百度百科](https://baike.baidu.com/item/勇者斗恶龙8：天空、碧海、大地与被呪咒的公主/15177220) |
