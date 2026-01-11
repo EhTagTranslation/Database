@@ -8144,6 +8144,7 @@ example:
 | excella gionne | 伊柯塞拉·琼尼 | ![](https://thumbsnap.com/i/SAtH7HCZ.jpg)<br>出自作品：`p:resident evil`<br><br>伊柯塞拉·琼尼（Excella Gionne），外文名エクセラ・ギオネ，是卡普空游戏《生化危机5》中的虚拟角色，由Nina Fehren配音并担任动作捕捉。该角色设定为英国裔意大利女商人，担任跨国企业TRICELL非洲分社社长，1983年出生，身高175厘米，体重55公斤。<br>伊柯塞拉出身于欧洲望族琼尼家族，18岁通过家族关系进入TRICELL制药部门。凭借遗传学天赋与阿尔伯特·威斯克合作推进生化武器研究，利用威斯克提供的T病毒情报迅速晋升，主导非洲分社期间回收安布雷拉废弃研究设施，推动衔尾蛇计划实施并策划当地生化恐怖事件。 | [百度百科](https://baike.baidu.com/item/伊柯塞拉·琼尼/15107480) |
 | emile crossfode | 艾米尔·克劳福德 | ![](https://ehgt.org/w/02/038/07692-dflfk858.webp)<br>出自作品：`p:hundred`<br><br>艾米尔·克劳福德（日语：エミリア・ハーミット）是由箕崎准所创作小说《百武装战记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾米尔·克劳福德) |
 | isami ao | 勇·苍 | ![](https://thumbsnap.com/i/eL9gW3Dq.jpg)<br>出自作品：`p:yuuki bakuhatsu bang bravern`<br><br>自卫队所属的Titano Straid（TS）飞行员。<br>冷静沉着，冷淡，不怎么表现出感情。<br>虽然也有过于认真的一面，但作为飞行员的能力是一流的。<br>不仅是自卫队，其他国家的士兵也对其刮目相看。<br>所属：陆上自卫队特殊机甲群，阶级：3等陆尉，呼叫代号：戴达拉5，年龄：24岁，身高：178cm，性别：男，生日：8月31日，星座：处女座，血型：A型，喜欢的东西：训练，讨厌的东西：吵闹的活动 | [萌娘百科](https://zh.moegirl.org.cn/勇气爆发BANG_BRAVERN) |
+| lewis smith | 路易斯·史密斯 | ![](https://thumbsnap.com/i/4MWkbJa9.jpg)<br>出自作品：`p:yuuki bakuhatsu bang bravern`<br><br>美军所属的Titano Straid（TS）飞行员。<br>从小就对英雄抱有强烈的憧憬。<br>性格开朗，什么事都不怕的气氛制造者。<br>从正面穿过敌人攻击的样子就如同重型战车一般。<br>同时也是喜欢机器人和英雄作品的御宅族。<br>所属：美国海军陆战队第3海军远征军第3海军师团第3TS大队C中队，阶级：少尉，呼叫代号：泰坦2，年龄：24岁，身高：185cm，性别：男，生日：2月14日，星座：水瓶座，血型：B型，喜欢的东西：漫画、动画（机器人和英雄物），讨厌的东西：青椒 | [萌娘百科](https://zh.moegirl.org.cn/勇气爆发BANG_BRAVERN) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
