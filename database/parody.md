@@ -1432,7 +1432,7 @@ example:
 | dumbbell nan kilo moteru | 流汗吧!健身少女 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/b7/271724_32Jou.jpg) | [维基百科](https://zh.wikipedia.org/wiki/流汗吧！健身少女) [萌娘百科](https://zh.moegirl.org.cn/流汗吧!健身少女) |
 | thumbelina | 拇指姑娘 | 世界著名童话 |  |
 | masou gakuen hxh | 魔装学园H×H |  |  |
-| hundred | 百武装战记 |  | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記) [萌娘百科](https://zh.moegirl.org.cn/Hundred) |
+| hundred | 百武装战记 | ![](https://thumbsnap.com/i/2kXVg5Vt.jpg)<br>《Hundred百武装战记》（日语：ハンドレッド）是由箕崎准创作的一部轻小说，并有漫画、动画等衍生作品。 | [维基百科](https://zh.wikipedia.org/wiki/HUNDRED百武裝戰記) [萌娘百科](https://zh.moegirl.org.cn/Hundred) |
 | dr. stone | 石纪元 |  |  |
 | uchi no ko no tame naraba ore wa moshikashitara maou mo taoseru kamo shirenai | 为了女儿，我说不定连魔王都能干掉。 |  |  |
 | tsujou kougeki ga zentai kougeki de 2-kai kougeki no okaasan wa suki desu ka | 普通攻击是全体二连击，这样的妈妈你喜欢吗？ | ![](https://img2.doubanio.com/view/subject/s/public/s29962861.jpg) |  |
