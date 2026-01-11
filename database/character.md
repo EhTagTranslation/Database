@@ -3253,7 +3253,7 @@ example:
 | itou life | 伊东life | 伊東ライフ |  |
 | rangiku matsumoto | 松本乱菊 | 松本乱菊（日语：松本 乱菊（まつもと らんぎく）；罗马拼音：Matsumoto Rangiku）是由久保带人所创作漫画《BLEACH》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/松本乱菊) |
 | shining | 闪灵 | ![闪灵](https://img.moegirl.org.cn/common/4/47/明日方舟立绘_闪灵_1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:闪灵) |
-| jill valentine | 吉尔·瓦伦蒂安 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1029/h_3210/1253/4408/2025/8/29/890445.png)<br>电子游戏《生化危机》系列的女主角之一，曾在《生化危机1》《生化危机3》《生化危机 启示录》担任主角。 | [吉尔·瓦伦蒂安][维基百科](https://zh.wikipedia.org/wiki/吉兒·范倫廷) |
+| jill valentine | 吉尔·瓦伦丁 | ![](https://ehgt.org/w/01/565/57173-h5a93h9e.webp)<br>出自作品：`p:resident evil`<br><br>吉尔·瓦伦丁（英语：Jill Valentine）是Capcom旗下的游戏《生化危机》及其衍生作品的登场角色。<br>电子游戏《生化危机》系列的女主角之一，曾在《生化危机1》《生化危机3》《生化危机 启示录》担任主角。 | [萌娘百科](https://zh.moegirl.org.cn/吉尔·瓦伦丁) \| [维基百科](https://zh.wikipedia.org/wiki/吉兒·范倫廷) |
 | exusiai | 能天使 | ![能天使](https://img.moegirl.org.cn/common/6/63/明日方舟立绘_能天使_1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:能天使) |
 | kaworu nagisa | 渚薰 | 是庵野秀明所创作的动画《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/渚薰) |
 | hatsune kashiwazaki | 柏崎初音 | ![](https://static.wikia.nocookie.net/princess-connect/images/a/a5/Hatsune_%28game%29.png)<br>所属作品：`princess connect` |  |
