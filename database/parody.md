@@ -1851,7 +1851,7 @@ example:
 | burn up | 杀人科 |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
 | burn up w | 杀人科 W |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
 | burn up scramble | 杀人科 SCRAMBLE |  | [维基百科](https://zh.wikipedia.org/wiki/杀人科) |
-| busou shoujo machiavellianism | 武装少女Machiavellianism |  | [维基百科](https://zh.wikipedia.org/wiki/武裝少女Machiavellianism) |
+| busou shoujo machiavellianism | 武装少女 | ![](https://m.media-amazon.com/images/M/MV5BMWU2MjViOTgtMzA3YS00NmY3LThiM2YtOTFjNzNjZTFjZjdmXkEyXkFqcGc@._V1_.jpg)<br>《武装少女Machiavellianism》是黑神游夜原作、神崎かるな负责作画的日本漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/武裝少女Machiavellianism) |
 | buzz lightyear of star command | 巴斯光年的星际使命 |  | [维基百科](https://zh.wikipedia.org/wiki/巴斯光年的星際使命) |
 | c the money of soul and possibility control | C钱‧未来式 |  | [维基百科](https://zh.wikipedia.org/wiki/C_%28動畫%29) |
 | cage of eden | 逃离伊甸园 |  | [维基百科](https://zh.wikipedia.org/wiki/逃離伊甸園) |
