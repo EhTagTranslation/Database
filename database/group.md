@@ -13564,6 +13564,7 @@ example:
 | nonogishi park | ノノギシパーク |  |  |
 | yukutake | ゆくた家 |  |  |
 | sansanka tanso | 三酸化炭素 |  |  |
+| le.chocolat | Le.Chocolat |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Le.Chocolat) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
