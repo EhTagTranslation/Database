@@ -8140,6 +8140,7 @@ example:
 | yachiho azuma | 东八千穗 | ![](https://static.wikia.nocookie.net/mato-seihei-no-slave/images/6/67/Yachiho_Azuma_anime_design.png)<br>所属作品：`mato seihei no slave` | [Fandom](https://mato-seihei-no-slave.fandom.com/wiki/Yachiho_Azuma) |
 | sherry tachibana | 橘雪莉 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/ba/雪莉正常立绘.png)<br><br>日文：橘シェリー (タチバナ シェリー)<br>所属游戏:`mahou shoujo no majo saiban`<br>![](https://ehgt.org/w/02/073/78790-5oowltuq.webp)<br>左手力气大，右手大力气<br>雪莉酱卡哇伊daisuki~ | [萌娘百科](https://zh.moegirl.org.cn/橘雪莉) |
 | hanna toono | 远野汉娜 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d6/汉娜正常立绘.png)<br>日文：遠野ハンナ (トオノ ハンナ)<br>所属游戏:`mahou shoujo no majo saiban`<br><br>指定背锅王<br>往那一飞让人唠一辈子 | [萌娘百科](https://zh.moegirl.org.cn/远野汉娜) |
+| keiichi morisato | 森里萤一 | ![](https://thumbsnap.com/i/yTtd88io.jpg)<br>出自作品：`p:ah my goddess`<br><br>森里萤一是日本漫画家藤岛康介创作的漫画《我的女神》及其衍生作品中的男主角。作为猫实工业大学工程学学生，因误拨女神事务所电话召唤出女神贝露丹蒂，并许下共同生活的心愿，由此开启人神共处的奇幻日常。 | [百度百科](https://baike.baidu.com/item/森里萤一/6796294) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
