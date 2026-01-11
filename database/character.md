@@ -6277,7 +6277,7 @@ example:
 | mio tokisaki | 朱鹭咲澪 | 朱鹭咲澪是`a:niliu chahui`的看板娘之一，是看板娘中较为年长的姐姐，发色是银白色的三无少女，天性温柔，不明白情感为何物。 | [萌娘百科](https://zh.moegirl.org.cn/朱鹭咲澪) |
 | hotaru | 萤 | 所属作品: `p:geten no hana`<br><br>战国时代的女忍者，来自伊贺。<br>因双亲过世伤心不已，由师父百地尚光收养并将其训练为忍者。 | [维基百科](https://zh.wikipedia.org/wiki/下天之華#人物介紹) |
 | adam smasher | 亚当·重锤 | 所属作品: `p:cyberpunk` | [Fandom](https://cyberpunk.fandom.com/wiki/Adam_Smasher) [萌娘百科](https://zh.moegirl.org.cn/亚当·重锤) |
-| claudia enfield | 克劳蒂雅·恩菲尔德 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/克劳蒂雅·恩菲尔德) |
+| claudia enfield | 克劳蒂雅·恩菲尔德 | ![](https://ehgt.org/w/02/196/09547-akgqwq7l.webp)<br>所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/克劳蒂雅·恩菲尔德) |
 | julis-alexia von riessfeld | 尤莉丝·爱雷克西亚·冯·里斯妃特 | ![](https://ehgt.org/w/01/957/23109-0zdfijxm.webp)<br>所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/尤莉丝·爱雷克西亚·冯·里斯妃特) |
 | kirin toudou | 刀藤绮凛 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/刀藤绮凛) |
 | saya sasamiya | 沙沙宫纱夜 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/沙沙宫纱夜) |
