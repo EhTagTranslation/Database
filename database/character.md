@@ -2659,7 +2659,7 @@ example:
 | latooni suvota | 拉托妮·苏波塔 |  |  |
 | shine hausen | 夏茵·豪森 |  |  |
 | stella bremer | 史黛拉·布瑞梅尔 |  |  |
-| bianca whitaker | 碧安卡·惠特克 |  |  |
+| bianca whitaker | 比安卡 | ![](https://ehgt.org/w/00/664/81552-uyh0nfw8.webp)<br>出自作品：`p:dragon quest v`<br><br>比安卡是日本RPG游戏《勇者斗恶龙5：天空的新娘》中三位候选新娘之一，作为主角留卡的青梅竹马，童年时期生活在阿尔卡帕小镇的旅店家庭中。在主角经历十年奴隶生涯后，两人于深山之村重逢并共同展开冒险旅程，其剧情线展现了从童稚到成年的情感羁绊。角色性格被设定为和善勇敢，曾有过救助受困动物的善举，衍生作品通过可动手办还原了其标志性的金发辫子与蓝色眼眸造型 [2]。该角色因承载跨越三十年人生经历的叙事深度，被游戏开发者视为"传递感动"的日式RPG经典形象。 | [百度百科](https://baike.baidu.com/item/比安卡/20272763) |
 | crea dolosera | 克蕾雅·多萝赛娅 |  |  |
 | mikono suzushiro | 御子乃·铃白 |  |  |
 | suomi konepi | 须绪美·科妮皮 |  |  |
