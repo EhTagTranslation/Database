@@ -1034,7 +1034,7 @@ example:
 | rem | 雷姆 | ![](https://img.moegirl.org.cn/common/1/18/Act_egao_rem.gif)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>在罗兹瓦尔宅邸工作的双胞胎女仆妹妹。<br>把负伤的昴抬进了宅邸，前期是表面恭维内心瞧不起的毒舌担当，维持着宅邸的机能，工作上全能。 | [萌娘百科](https://zh.moegirl.org.cn/雷姆%28Re:从零开始的异世界生活%29#) |
 |  | 拉姆 | ram 重复项 |  |
 | subaru natsuki | 菜月昴 | ![菜月昴](# "https://ehgt.org/2b/7a/2b7a52a387f927a2688f5af4e588a717082ae92b-815461-1026-1000-jpg_l.jpg") |  |
-| beatrice | 碧翠丝 | ![](https://img.moegirl.org.cn/common/0/0b/Beatrice.png)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>住在罗兹瓦尔宅邸内只有通过机遇门才能进入的隐藏房间禁书库。<br>拥有管理禁书库义务的幼女。 | [萌娘百科](https://zh.moegirl.org.cn/碧翠丝%28Re:从零开始的异世界生活%29#) |
+| beatrice | 碧翠丝 \| 贝阿朵莉切 | ①<br>![](https://img.moegirl.org.cn/common/0/0b/Beatrice.png)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>住在罗兹瓦尔宅邸内只有通过机遇门才能进入的隐藏房间禁书库。<br>拥有管理禁书库义务的幼女。<br><br>②<br>![](https://thumbsnap.com/i/U2Lhh6xk.jpg)<br>所属作品：`p:blue archive`<br>贝阿朵莉切是NEXON旗下的游戏《蔚蓝档案》及其衍生作品的登场角色。 | 碧翠丝 [萌娘百科](https://zh.moegirl.org.cn/碧翠丝%28Re:从零开始的异世界生活%29#) \| 贝阿朵莉切 [萌娘百科](https://zh.moegirl.org.cn/贝阿朵莉切%28蔚蓝档案%29#) |
 | felix argyle | 菲利克斯·阿盖尔 | ![](https://img.moegirl.org.cn/common/c/ce/菲利克斯.png)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>与库珥修·卡尔斯腾关系很好，并且绝对忠心。<br>近卫骑士团所属，库珥修的第一骑士。<br>可爱的服饰与言行不输于一般女性。 但是……是男的。 | [萌娘百科](https://zh.moegirl.org.cn/菲利克斯·阿盖尔) |
 | felt | 菲鲁特 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/12/17/08/58/135005679_p2_master1200.jpg)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>在皇城的贫民窟里长大的15岁少女，身手十分迅速敏捷<br>拥有着风所祝福的高速脚程，被世界所爱。 | [萌娘百科](https://zh.moegirl.org.cn/菲鲁特) |
 | roswaal l. mathers | 罗兹瓦尔·L·梅札斯 | ![罗兹瓦尔·L·梅札斯](https://img.moegirl.org.cn/common/thumb/2/2f/罗兹瓦尔·L·梅札斯.jpg/250px-罗兹瓦尔·L·梅札斯.jpg) |  |
