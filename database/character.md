@@ -8155,6 +8155,7 @@ example:
 | amagase muyu | 天瀬梦愈 | ![](https://thumbsnap.com/i/CVLaE3sK.jpg)<br>出自作品：`p:nijisanji` | [wikiwiki](https://wikiwiki.jp/nijisanji/天ヶ瀬むゆ) |
 | naraka | 奈罗花 | ![](https://thumbsnap.com/i/jk1nTywu.jpg)<br>出自作品：`p:nijisanji`<br><br>奈罗花 （ 日语：奈羅花 / ならかNaraka ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/奈罗花) |
 | estellise sidos heurassein | 艾丝缇莉洁·希戴斯·修拉赛因 | ![](https://ehgt.org/ac/1c/ac1cfaa12afb41b739637819ed05165602bed65b-58128-200-160-jpg_250.jpg)<br>出自作品：`p:tales of vesperia`<br><br>艾丝缇莉洁·希戴斯·修拉赛因是由万代南梦宫娱乐发行的游戏《薄暮传说》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾丝缇莉洁·希戴斯·修拉赛因) |
+| tyuule | 蒂尤蕾 | ![](https://ehgt.org/w/02/197/10676-kywall9q.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>因保护族群自愿成为帝国统治者索沙尔的奴隶。 | [Fandom](https://gate.fandom.com/wiki/Tyuule) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
