@@ -2418,7 +2418,7 @@ example:
 | sarada uchiha | 宇智波佐良娜 |  |  |
 | tayuya | 多由也 |  |  |
 | temari | 手鞠 |  |  |
-| naruto uzumaki | 漩涡鸣人 |  |  |
+| naruto uzumaki | 漩涡鸣人 | ![](https://ehgt.org/w/01/245/79594-tfvx3fs6.webp)<br>出自作品：`p:naruto`<br><br>漩涡鸣人（日语：うずまき ナルト）是岸本齐史所创作的漫画《火影忍者》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/漩涡鸣人) |
 | minato namikaze | 波风水门 |  |  |
 | hinata hyuga | 日向雏田 | 日向雏田（日语：日向（ひゅうが） ヒナタ）是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/fa/Hinata_Character.png) | [萌娘百科](https://zh.moegirl.org.cn/日向雏田) |
 | kushina uzumaki | 漩涡玖辛奈 | ![](https://ehgt.org/w/01/914/77748-avwwzh29.webp)<br>所属作品：`naruto` |  |
