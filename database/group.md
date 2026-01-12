@@ -1190,7 +1190,7 @@ example:
 | digital accel works | Digital Accel Works |  |  |
 | masaoyan | まさお屋ン |  |  |
 | skirthike | Skirthike |  |  |
-| mitarashi dango | みたらし団GO |  |  |
+| mitarashi dango | 御手洗团GO |  |  |
 | cartagra | 骨牌仓 |  |  |
 | fomalhaut | FOMALHAUT |  |  |
 | ring castle | Ring Castle |  |  |
