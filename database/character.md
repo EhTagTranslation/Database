@@ -3774,7 +3774,7 @@ example:
 | lelei la lelena | 蕾莱·拉·列娜 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/3/3f/Lelei_la_lalena_anime.jpg)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>向住在哥塔村的加图老师学习魔法的15岁少女。 | [萌娘百科](https://zh.moegirl.org.cn/蕾莱·拉·列娜) |
 | youji itami | 伊丹耀司 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/5/57/Youji_Itami_Anime.jpg)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>军阶为二等陆尉（中尉），第三侦查队队长，后调任「特区」资源调查负责人。 | [萌娘百科](https://zh.moegirl.org.cn/伊丹耀司) |
 | pina co lada | 平娜·戈·兰达 |  |  |
-| rory mercury | 萝莉·麦丘利 |  |  |
+| rory mercury | 萝莉·麦丘利 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/7/75/1437403170_317187711.png)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>异世界的亚神，是死亡与战争之神的使徒。 | [萌娘百科](https://zh.moegirl.org.cn/萝莉·麦丘利) |
 | yao haa dushi | 姚·汉·蒂修 |  |  |
 | tuka luna marceau | 杜嘉·露娜·马尔席 | ![](https://ehgt.org/w/02/010/63735-60l6ccqr.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>她的村庄被炎龙袭击时，因父亲将其藏匿于水井中而成为唯一幸存者。 | [百度百科](https://baike.baidu.com/item/杜嘉·露娜·马尔席/17824487) |
 | jeanne | 贞德 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/44/Zoom_3040245000_81.png)<br>所属作品：`granblue fantasy` |  |
