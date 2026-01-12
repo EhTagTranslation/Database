@@ -13568,6 +13568,7 @@ example:
 | yuniromi u2603 | ゆにろみ-U+2603- |  |  |
 | 3104tyome | 3104町目 |  |  |
 | oshinobu no yakata | おしのぶの館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55660.html) |
+| oroshi ponzu | おろしぽんず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01002937.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
