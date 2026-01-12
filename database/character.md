@@ -8158,6 +8158,8 @@ example:
 | tyuule | 蒂尤蕾 | ![](https://ehgt.org/w/02/197/10676-kywall9q.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>因保护族群自愿成为帝国统治者索沙尔的奴隶。 | [Fandom](https://gate.fandom.com/wiki/Tyuule) |
 | shino kuribayashi | 栗林志乃 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/7/7e/Shino_kuribayashi_anime_8.jpg)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>隶属于日本自卫队第三侦察队，军阶为二等陆曹（中士）。 | [萌娘百科](https://zh.moegirl.org.cn/栗林志乃) |
 | ellie walker | 爱莉·沃卡 | ![](https://koujodenka-anime.com/_astro/body.DN6L7ffo_DAibG.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>长久以来辅佐霍华德公爵家的家族——沃卡家唯一的继承人，蒂娜的专属女仆。 | [Fandom](https://koujo-denka.fandom.com/wiki/Ellie_Walker) |
+| stella howard | 史黛拉·霍华德 | ![](https://koujodenka-anime.com/_astro/body.C2hu_tme_2jOWiW.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>霍华德公爵家的长女，蒂娜的姐姐。 |  |
+| lynne leinster | 丽妮·铃斯特 | ![](https://koujodenka-anime.com/_astro/body.pncY1kjm_Z1aIkCe.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>铃斯特公爵家的二女儿，丽狄雅的妹妹。 | [Fandom](https://koujo-denka.fandom.com/wiki/Lynne_Leinster) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
