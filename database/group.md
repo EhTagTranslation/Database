@@ -13566,6 +13566,7 @@ example:
 | sansanka tanso | 三酸化炭素 |  |  |
 | le.chocolat | Le.Chocolat |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Le.Chocolat) |
 | yuniromi u2603 | ゆにろみ-U+2603- |  |  |
+| 3104tyome | 3104町目 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
