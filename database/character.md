@@ -3431,7 +3431,7 @@ example:
 | denji | 电次 | ![](https://thumbsnap.com/i/LYbiMS9c.jpg)<br>电次（日语：デンジ）是由藤本树所创作漫画《`p:chainsaw man`》及其衍生作品的登场角色，本作第一部的主角及第二部的男主角。 | [萌娘百科](https://zh.moegirl.org.cn/电次%28电锯人%29#) |
 | angel devil | 天使恶魔 |  |  |
 | yanfei | 烟绯 | ![](https://patchwiki.biligame.com/images/ys/e/ef/t7mlw6ms8041z8f03gd4n96s5hwz5nt.gif)<br>所属作品:`p:genshin impact`<br>活跃在璃月港的知名律法咨询师，混有仙兽血脉的精明少女。 | [萌娘百科](https://zh.moegirl.org.cn/烟绯) |
-| gawr gura | 噶呜·古拉 | 噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。<br>![GoogleIcon](https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj) | [YouTube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [X](https://x.com/gawrgura) |
+| gawr gura | 噶呜·古拉 | ![](https://ehgt.org/w/01/185/10710-efec8kqk.webp)<br><br>噶呜·古拉（英语：Gawr Gura，日语：がうる・ぐら Gauru・Gura ）是一位英语`vtuber`，隶属`hololive`。其人物设计由`amashiro natsuki`创作。 | [YouTube](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) [X](https://x.com/gawrgura) |
 | enoch | 伊诺库 | ![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-3.gif&img_id=1522721112)<br>![图](https://prtimes.jp/api/file.php?c_id=13629&t=animationGifImage&f=agd-13629-41-4.gif&img_id=) |  |
 | veronica | 维罗妮卡 | 角色扮演游戏`dragon quest xi`的女主角之一。被称为是“双贤姐妹”中的姐姐。<br>![图](https://www.dq11.jp/s/pf/characters/_img/veronica/chara_2d_sp.png)<br>![图](https://ehgt.org/ba/96/ba965ab08caa3b1224a6f4fc467a9edd48aa2a29-23084-680-383-jpg_l.jpg) |  |
 | murasaki yatsu | 八津紫 | ![](https://static.wikia.nocookie.net/taimanin/images/2/25/Yatsu_Murasaki.png)<br>所属作品：`taimanin asagi` |  |
