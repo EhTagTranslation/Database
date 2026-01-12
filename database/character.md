@@ -7385,7 +7385,7 @@ example:
 | perrault | 佩罗 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/43758/2025/2/19/216509.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1847/h_1944/245/43758/2025/2/19/582638.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1707/h_1795/245/43758/2025/2/19/852196.png)<br>所属作品：`last origin` |  |
 | a-87 banshee | A-87 报丧女妖 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/24/506895.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_567/h_1155/245/236746/2025/9/13/292957.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1438/h_1949/245/103682/2025/3/9/878286.png)<br>所属作品：`last origin` |  |
 | at-4 pani | AT-4 帕尼 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1570/h_1913/245/103682/2025/2/24/323093.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_2048/h_2048/245/103682/2025/2/24/51967.webp)<br>所属作品：`last origin` |  |
-| kei | Kei | 又译为凯伊 |  |
+| kei | 柯伊 | ![](https://static.wikia.nocookie.net/blue-archive/images/e/e4/Key_Portrait.png)<br>所属作品：`blue archive`<br>天童爱丽丝体内的另一个人格，在支配爱丽丝身体状态下的瞳色为红色。 | [Fandom](https://bluearchive.fandom.com/wiki/Key) |
 | kotono shiunji | 紫云寺琴乃 |  |  |
 | isane kotetsu | 虎彻勇音 | ![](https://ehgt.org/w/01/561/35124-u6x0prd8.webp)<br>所属作品：`bleach`<br>日文名：こてついさね |  |
 | blaze fielding | 布雷兹·菲尔丁 | ![](https://ehgt.org/w/01/999/82635-4vdvnklt.webp)<br>所属作品：`streets of rage` |  |
