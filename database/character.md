@@ -4284,7 +4284,7 @@ example:
 | von lycaon | 冯·莱卡恩 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/4199ef0365f4c16d2f03d23c90dda2a0_2784271936765724085.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [<br>绳网情报站](https://baike.mihoyo.com/zzz/wiki/search?keyword=11&source_id=CONTENT_DETAIL) |
 | cyborg | 赛博格 | 赛博格是以无机物所构成的人造物，植入或者装配在有机体身体内外，但思考动作均由有机体控制的生物。通常这样做的目的是借由人工科技来增加或强化生物体的能力。 | [维基百科](https://zh.wikipedia.org/wiki/賽博格) |
 | april | 四月 | ![](https://patchwiki.biligame.com/images/arknights/5/5a/jqmqpvpl5lrqey6yx6jhhdmr6wqh1mj.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/四月) |
-| eevee | 伊布 | 伊布的外表看起来基于狐狸，全身的毛大部分为褐色。颈部周围与尾巴蓬松的奶油色的毛是它的特征。伊布的腿短而细，各长有三趾和粉色的爪垫。伊布有褐色的眼睛、像兔子一样的长耳朵和小小的黑鼻子。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/伊布) |
+| eevee | 伊布 | ![](https://ehgt.org/w/00/850/88364-6kz7thhb.webp)<br>出自作品：`p:pokemon`<br><br>伊布的外表看起来基于狐狸，全身的毛大部分为褐色。颈部周围与尾巴蓬松的奶油色的毛是它的特征。伊布的腿短而细，各长有三趾和粉色的爪垫。伊布有褐色的眼睛、像兔子一样的长耳朵和小小的黑鼻子。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/伊布) |
 | sylveon | 仙子伊布 | 仙子伊布的身体以白色为主。它的头顶、耳朵、尾巴和腿的下半部分是粉色，耳朵内侧是蓝色。眼睛是淡蓝色的。它的左耳和脖子上各有一只蝴蝶结，蝴蝶结上有两条缎带，缎带末端的颜色依次是粉、深蓝、浅蓝。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/仙子伊布) |
 | vaporeon | 水伊布 | 水伊布的身体是蓝色的，颈部上有白色状物，还有两个看上去像是耳朵的鱼鳍。它的身上有深蓝色的条纹，这种颜色的条纹延伸到尾巴处，尾巴残留着像鱼一样的鳍。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/水伊布) |
 | jolteon | 雷伊布 | 雷伊布的身体是黄色的，颈部和身体布满了白色和黄色的尖刺。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/雷伊布) |
