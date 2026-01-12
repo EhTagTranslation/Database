@@ -3000,7 +3000,7 @@ example:
 | moguzo | 莫古索 |  |  |
 | merry | 梅莉 \| 咩栗 | 所属作品: `p:hai to gensou no grimgar`<br>第一卷中期加入主角队伍的神官（Priest），冰山美人。刚加入队伍时沉默寡言，不合群。后经过哈尔希洛的开导，开始融入现在的队伍。随着故事的进展，性格逐渐变得开朗起来。<br><br>咩栗<br>Vtuber | [萌娘百科](https://zh.moegirl.org.cn/梅莉%28灰与幻想的格林姆迦尔%29)<br><br>[萌娘百科](https://zh.moegirl.org.cn/咩栗) |
 | tamamo cat | 玉藻猫 | ![图](https://ehgt.org/48/01/480151eae670c0832724508a4fb72fed9d80a5e2-2306863-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玉藻猫) [Mooncell](http://www.fgo.wiki/w/玉藻猫) |
-| kiritan tohoku | 东北切蒲英 | 东北切蒲英（日语：東北きりたん）是SSS合同会社发表的东北支援角色，是以日本秋田县北部的鹿角市的地方美食切蒲英（日语：“きりたんぽ”）为原型而设定的角色。同时具有UTAU、 NEUTRINO、CeVIO AI歌唱音源和VOICEROID语音声源。CV：茜屋日海夏 | [萌娘百科](https://zh.moegirl.org.cn/东北切蒲英) |
+| kiritan tohoku | 东北切蒲英 | ![](https://ehgt.org/w/01/627/02896-hgvvmg4e.webp)<br>出自作品：`p:voiceroid`<br><br>东北切蒲英（日语：東北きりたん）是SSS合同会社发表的东北支援角色，是以日本秋田县北部的鹿角市的地方美食切蒲英（日语：“きりたんぽ”）为原型而设定的角色。同时具有UTAU、 NEUTRINO、CeVIO AI歌唱音源和VOICEROID语音声源。CV：茜屋日海夏 | [萌娘百科](https://zh.moegirl.org.cn/东北切蒲英) |
 | rikka takarada | 宝多六花 | ![](https://i0.hdslb.com/bfs/new_dyn/6fcdd885c4834ae375a5bcf2573ea833262400697.png)<br>所属作品：`ssss.gridman` |  |
 | anastasia nikolaevna romanova | 阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 | ![](https://img.moegirl.org.cn/common/5/5b/泳装皇女初始.png)<br>所属作品：`fate grand order` |  |
 | miko iino | 伊井野弥子 | ![](https://img.moegirl.org.cn/common/a/a2/伊井野弥子人设.png)<br>所属作品：`kaguya-sama wa kokurasetai`<br>秀知院学园高中部原1年B班，现2年A班学生，学生会的第五名成员，于选举篇后正式加入，任学生会会计监察，兼任风纪委员会风纪委员。<br>父亲是最高法院的法官，母亲是国际人道救援组织职员。在父母的熏陶下，有强烈的正义感，初中起便担任着学校的风纪委员。 | [萌娘百科](https://zh.moegirl.org.cn/伊井野弥子) |
