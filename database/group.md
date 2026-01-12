@@ -7875,7 +7875,7 @@ example:
 | misty isle | Misty Isle |  |  |
 | misty wind | Misty Wind |  |  |
 | mita kazuo daihyakka | 三田和夫大百科 |  |  |
-| mitarashi club | みたらし倶楽部 |  |  |
+| mitarashi club | 御手洗俱乐部 |  |  |
 | mitarou teishoku | ミタロウ定食 |  |  |
 | mitegura | MITEGURA |  |  |
 | mithril | ミスリル |  |  |
