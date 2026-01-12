@@ -8148,6 +8148,7 @@ example:
 | ernesti echevalier | 艾尔涅斯帝·埃切贝里亚 |  |  |
 | rosette christopher | 罗塞特·克里斯特法 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/59/Luosaite.jpg)<br>日语：ロゼット·クリストファ<br>日本漫画家森山大辅所创作动漫《圣枪修女》及其衍生作品的主角。 | [萌娘百科](https://zh.moegirl.org.cn/罗塞特·克里斯特法) |
 | anna kushina | 栉名安娜 | 动画《K》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/栉名安娜) |
+| yagyu shino | 夜牛诗乃 | ![](https://thumbsnap.com/i/9WdHrdSN.jpg)<br>出自作品：`p:nijisanji`<br><br>出生于牛鬼一族的食欲旺盛的女孩。做事总是按自己的节奏，也经常忘记家里交代的差事。梦想有朝一日能成为事业型女性。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
