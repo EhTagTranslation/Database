@@ -1886,7 +1886,7 @@ example:
 | kiara sessyoin | 杀生院祈荒 |  |  |
 | astolfo | 阿斯托尔福 | 阿斯托尔福是TYPE-MOON旗下《Fate》系列作品中的登场角色，在轻小说《`p:fate apocrypha`》中初次登场。<br>法国经典骑士道故事——查理曼传说中的登场人物，查理曼十二圣骑士之一，也是英格兰王子。<br>超级随性的人，因为理性蒸发的缘故，比起有益或无益，更注重自己心情是否愉快，相当乐天派的骑士。<br><br>根据本人的要求，性别是个秘密。<br>![阿福一破](https://img.moegirl.org.cn/common/2/20/阿福一破.png)![图利法斯的回忆](https://img.moegirl.org.cn/common/3/39/Astolfo_clothes.png) | [萌娘百科](https://zh.moegirl.org.cn/阿斯托尔福) |
 | protagonist | 主人公 |  |  |
-| minamoto no raikou | 源赖光 |  |  |
+| minamoto no raikou | 源赖光 | ![](https://ehgt.org/w/00/869/62332-8erg2udh.webp)<br>出自作品：`p:fate grand order`<br><br>源赖光是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/源赖光%28Fate%29#) |
 | meltryllis | 梅尔特莉莉丝 | 溶解莉莉丝(Meltryllis)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在游戏《Fate/EXTRA CCC》中首次登场。<br>![Meltryllis](https://media.fgo.wiki/e/ef/莉莉丝卡面4.png) | [萌娘百科](https://zh.moegirl.org.cn/溶解莉莉丝) |
 | passionlip | 帕森莉普 | 热情迷唇(Passionlip)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。在游戏《Fate/EXTRA CCC》中首次登场。<br>![Passionlip](https://media.fgo.wiki/b/bf/Lip四.png) | [萌娘百科](https://zh.moegirl.org.cn/热情迷唇) |
 | ushiwakamaru | 牛若丸 | ![图](https://ehgt.org/fc/57/fc57b2eb6d754dece69bdacf9d0ce14d65004321-2219263-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/牛若丸%28Fate%29) [Mooncell](http://www.fgo.wiki/w/牛若丸) |
