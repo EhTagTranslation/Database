@@ -13071,7 +13071,7 @@ example:
 | funmatsu maccha | 粉末抹茶 |  |  |
 | mentaipark | めんたいぱぁく |  |  |
 | muchi muchi museum | ムチムチ美術館 |  |  |
-| hakuhoukoubou | 白鳳工房 |  |  |
+| hakuhoukoubou | 白凤工房 |  |  |
 | ishiyaki imo | いしやきいも |  |  |
 | pigeon nest under deck | 甲板下的鸽子窝 | `a:yiduan`&`yuki no arashi` | [哔哩哔哩](https://space.bilibili.com/2140986) |
 | takotsubo-tei sekihaku | たこつぼ亭迹帛 | `a:sekihaku keu` | [X](https://x.com/Keu_Sekihaku/status/1874118667673469418) |
