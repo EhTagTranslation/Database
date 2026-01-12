@@ -8161,6 +8161,7 @@ example:
 | stella howard | 史黛拉·霍华德 | ![](https://koujodenka-anime.com/_astro/body.C2hu_tme_2jOWiW.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>ステラ・ハワード<br>霍华德公爵家的长女，蒂娜的姐姐。 |  |
 | lynne leinster | 丽妮·铃斯特 | ![](https://koujodenka-anime.com/_astro/body.pncY1kjm_Z1aIkCe.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>リィネ・リンスター<br>铃斯特公爵家的二女儿，丽狄雅的妹妹。 | [Fandom](https://koujo-denka.fandom.com/wiki/Lynne_Leinster) |
 | lydia leinster | 丽狄雅·铃斯特 | ![](https://koujodenka-anime.com/_astro/body.D4u3fMGF_Z13KvR8.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>リディヤ・リンスター<br>被称作“剑姬”的国内顶尖剑士，与亚连是从王立学校入学考试开始认识的孽缘。 |  |
+| caren | 卡莲 | ![](https://koujodenka-anime.com/_astro/body.DLV9lIym_Z1sXBzq.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>カレン<br>与亚连没有血缘关系的妹妹，在兽人族当中也相当少见的狼族少女。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
