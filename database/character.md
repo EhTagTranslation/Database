@@ -8147,6 +8147,7 @@ example:
 | lewis smith | 路易斯·史密斯 | ![](https://thumbsnap.com/i/4MWkbJa9.jpg)<br>出自作品：`p:yuuki bakuhatsu bang bravern`<br><br>美军所属的Titano Straid（TS）飞行员。<br>从小就对英雄抱有强烈的憧憬。<br>性格开朗，什么事都不怕的气氛制造者。<br>从正面穿过敌人攻击的样子就如同重型战车一般。<br>同时也是喜欢机器人和英雄作品的御宅族。<br>所属：美国海军陆战队第3海军远征军第3海军师团第3TS大队C中队，阶级：少尉，呼叫代号：泰坦2，年龄：24岁，身高：185cm，性别：男，生日：2月14日，星座：水瓶座，血型：B型，喜欢的东西：漫画、动画（机器人和英雄物），讨厌的东西：青椒 | [萌娘百科](https://zh.moegirl.org.cn/勇气爆发BANG_BRAVERN) |
 | ernesti echevalier | 艾尔涅斯帝·埃切贝里亚 |  |  |
 | rosette christopher | 罗塞特·克里斯特法 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/59/Luosaite.jpg)<br>日语：ロゼット·クリストファ<br>日本漫画家森山大辅所创作动漫《圣枪修女》及其衍生作品的主角。 | [萌娘百科](https://zh.moegirl.org.cn/罗塞特·克里斯特法) |
+| anna kushina | 栉名安娜 | 动画《K》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/栉名安娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
