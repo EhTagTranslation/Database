@@ -3776,7 +3776,7 @@ example:
 | pina co lada | 平娜·戈·兰达 |  |  |
 | rory mercury | 萝莉·麦丘利 |  |  |
 | yao haa dushi | 姚·汉·蒂修 |  |  |
-| tuka luna marceau | 杜嘉·露娜·马尔席 |  |  |
+| tuka luna marceau | 杜嘉·露娜·马尔席 | ![](https://ehgt.org/w/02/010/63735-60l6ccqr.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>她的村庄被炎龙袭击时，因父亲将其藏匿于水井中而成为唯一幸存者。 | [百度百科](https://baike.baidu.com/item/杜嘉·露娜·马尔席/17824487) |
 | jeanne | 贞德 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/44/Zoom_3040245000_81.png)<br>所属作品：`granblue fantasy` |  |
 | bayonetta | 贝优妮塔 |  |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![](https://ehgt.org/w/01/910/78124-utri7fs0.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
