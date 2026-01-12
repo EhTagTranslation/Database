@@ -8153,6 +8153,7 @@ example:
 | kotoka torahime | 虎姬琴华 | ![](https://thumbsnap.com/i/bqaQyc9x.jpg)<br>出自作品：`p:nijisanji`<br><br>Kotoka Torahime（日语：虎姫 コトカ）是一名从2022年12月10日在Youtube平台开始活动的VTuber，所属于业界团体彩虹社。 | [萌娘百科](https://zh.moegirl.org.cn/虎姬琴华) |
 | shishido akari | 狮子堂灯 | ![](https://thumbsnap.com/i/s6X1oyAP.jpg)<br>出自作品：`p:nijisanji` |  |
 | amagase muyu | 天瀬梦愈 | ![](https://thumbsnap.com/i/CVLaE3sK.jpg)<br>出自作品：`p:nijisanji` | [wikiwiki](https://wikiwiki.jp/nijisanji/天ヶ瀬むゆ) |
+| naraka | 奈罗花 | ![](https://thumbsnap.com/i/jk1nTywu.jpg)<br>出自作品：`p:nijisanji`<br><br>奈罗花 （ 日语：奈羅花 / ならかNaraka ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/奈罗花) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
