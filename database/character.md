@@ -2415,7 +2415,7 @@ example:
 | anko mitarashi | 御手洗红豆 |  |  |
 | ino yamanaka | 山中井野 |  |  |
 | kurotsuchi | 黑土 |  |  |
-| sarada uchiha | 宇智波佐良娜 |  |  |
+| sarada uchiha | 宇智波佐良娜 | ![](https://ehgt.org/w/01/665/84832-jxnb1wuo.webp)<br>出自作品：`p:boruto`<br><br>宇智波佐良娜（日语：うちは サラダ）是漫画《BORUTO》及其衍生作品的登场角色。<br>初登场于前作《火影忍者》漫画最终话，在短篇《火影忍者外传~七代目火影与绯色花月~》担任主人公。<br>名字有莎拉娜、佐良娜、纱罗妲等多种翻译。名字的日文在日语中是食物“沙拉”之意。 | [萌娘百科](https://zh.moegirl.org.cn/宇智波佐良娜) |
 | tayuya | 多由也 |  |  |
 | temari | 手鞠 |  |  |
 | naruto uzumaki | 漩涡鸣人 | ![](https://ehgt.org/w/01/245/79594-tfvx3fs6.webp)<br>出自作品：`p:naruto`<br><br>漩涡鸣人（日语：うずまき ナルト）是岸本齐史所创作的漫画《火影忍者》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/漩涡鸣人) |
