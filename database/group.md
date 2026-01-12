@@ -13567,6 +13567,7 @@ example:
 | le.chocolat | Le.Chocolat |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Le.Chocolat) |
 | yuniromi u2603 | ゆにろみ-U+2603- |  |  |
 | 3104tyome | 3104町目 |  |  |
+| oshinobu no yakata | おしのぶの館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55660.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
