@@ -8151,6 +8151,7 @@ example:
 | yagyu shino | 夜牛诗乃 | ![](https://thumbsnap.com/i/9WdHrdSN.jpg)<br>出自作品：`p:nijisanji`<br><br>出生于牛鬼一族的食欲旺盛的女孩。做事总是按自己的节奏，也经常忘记家里交代的差事。梦想有朝一日能成为事业型女性。 |  |
 | kadou mikaru | 蜗堂蜜卡露 | ![](https://thumbsnap.com/i/ymSwmCqX.jpg)<br>出自作品：`p:nijisanji`<br><br>想每天都悠闲自在、无拘无束生活的蜗牛。<br>自由奔放，但对他人的情感和行为却很敏感。<br>又不会做什么危险的事，就想慢悠悠地过日子呀。 |  |
 | kotoka torahime | 虎姬琴华 | ![](https://thumbsnap.com/i/bqaQyc9x.jpg)<br>出自作品：`p:nijisanji`<br><br>Kotoka Torahime（日语：虎姫 コトカ）是一名从2022年12月10日在Youtube平台开始活动的VTuber，所属于业界团体彩虹社。 | [萌娘百科](https://zh.moegirl.org.cn/虎姬琴华) |
+| shishido akari | 狮子堂灯 | ![](https://thumbsnap.com/i/s6X1oyAP.jpg)<br>出自作品：`p:nijisanji` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
