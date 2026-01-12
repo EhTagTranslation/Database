@@ -3771,7 +3771,7 @@ example:
 | sekai saionji | 西园寺世界 | ![图](https://ehgt.org/cb/d6/cbd6fdd487a8ce8f9884ed666d6138dc9ac4985d-8831667-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西园寺世界) |
 | makoto itou | 伊藤诚 | ![图](https://ehgt.org/51/d7/51d798533a096c1d1e61b35e6f1ad71ec6a26291-9339826-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/伊藤诚%28Days系列%29#) |
 | violet evergarden | 薇尔莉特·伊芙加登 | ![图](https://ehgt.org/81/9b/819b78fa5ef854117d2e9c5ef3da71432a5c6c71-1178735-2048-2646-jpg_l.jpg)<br><br>C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。<br>幼年时被吉尔伯特捡到，有过从军的过去。<br>拥有着与那份美貌不相称的罕见战斗力。<br>由于只知道战斗，而不会理解别人的心情以及表达自己的心情。<br>被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。<br>在战斗中失去双手，后接入机械义手。 | [萌娘百科](https://zh.moegirl.org.cn/薇尔莉特·伊芙加登) |
-| lelei la lelena | 蕾莱·拉·列娜 |  |  |
+| lelei la lelena | 蕾莱·拉·列娜 | ![](https://static.wikia.nocookie.net/gate-thus-the-jsdf-fought-there/images/3/3f/Lelei_la_lalena_anime.jpg)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>向住在哥塔村的加图老师学习魔法的15岁少女。 | [萌娘百科](https://zh.moegirl.org.cn/蕾莱·拉·列娜) |
 | youji itami | 伊丹耀司 |  |  |
 | pina co lada | 平娜·戈·兰达 |  |  |
 | rory mercury | 萝莉·麦丘利 |  |  |
