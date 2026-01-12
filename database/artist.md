@@ -8002,7 +8002,7 @@ example:
 | mitamori tatsuya | みた森たつや |  |  |
 | mitarai | 御手洗 |  |  |
 | mitarai yuuki | 御手洗佑樹 |  |  |
-| mitarashi kousei | みたらし侯成 |  |  |
+| mitarashi kousei | 御手洗侯成 |  |  |
 | mitei | 未定 |  |  |
 | mito | ミト |  |  |
 | miton | みとん |  |  |
