@@ -1231,7 +1231,7 @@ example:
 | tearju lunatique | 提亚悠·鲁娜提克 | 所属作品：`to love-ru`<br>![](https://ehgt.org/w/02/079/82883-ak1tbqqm.webp) |  |
 | run elsie jewelria | 伦·艾尔西·裘利亚 | ![](https://i.pixiv.cat/img-master/img/2025/08/21/02/32/09/134135505_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>梅莫鲁西星人的王族，出生时男女二人两性共生，具有男女个性与肉体的转换能力。能够和连进行脑内对话。在地球时只要打个喷嚏就会性转换。（成年后两性别会分开） | [萌娘百科](https://zh.moegirl.org.cn/露恩·艾尔西·裘利亚) |
 | risa momioka | 籾冈里纱 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/16/23/28/33/132774906_p0_master1200.jpg)<br>所属作品：`to love-ru`<br>爱好猥亵的话语和动作，是平凡而又自由散漫的高中女生。 | [萌娘百科](https://zh.moegirl.org.cn/籾冈里纱) |
-| mio sawada | 泽田未央 | ![](https://ehgt.org/94/d4/94d40572fa50c02af5c305e4a8b8c9975180ea29-758400-2542-1750-jpg_l.jpg) |  |
+| mio sawada | 泽田未央 | ![](https://ehgt.org/w/02/094/65563-de7keru5.webp)<br>所属作品：`to love-ru` |  |
 | oshizu murasame | 村雨静 | ![](https://static.wikia.nocookie.net/to-loveru/images/b/b3/Oshizu.jpg)<br>所属作品：`to love-ru` |  |
 | kyouko kirisaki | 雾崎恭子 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/10/00/10/35/134914417_p1_master1200.jpg)<br>所属作品：`to love-ru`<br>高中三年级学生，是当红偶像，活跃于演艺界第一线，主打清纯形象，并以唱歌及演戏领域为主轴发展。 | [萌娘百科](https://zh.moegirl.org.cn/雾崎恭子%28出包王女%29#) |
 | kenichi saruyama | 猿山健一 | ![](https://www.tbs.co.jp/anime/to-love-ru/04chara/images/chara_img07.jpg)<br>所属作品：`to love-ru`<br>结城梨斗的同班同学、好友。喜欢女孩子，爱好女色。 | [萌娘百科](https://zh.moegirl.org.cn/猿山健一) |
