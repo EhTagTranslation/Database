@@ -14595,6 +14595,7 @@ example:
 | orinze | おりんぜ |  |  |
 | yuuki takara | 結城たから | ![](https://i.pixiv.cat/user-profile/img/2025/08/15/12/25/12/27756911_41871284429565b9521cfe7d9556baa1_170.jpg)<br>作者P站头像 | [pixiv](https://www.pixiv.net/users/469802) |
 | oshinobu | おしのぶ | 所属社团：`g:oshinobu no yakata` |  |
+| toda hisaya | 戸田比佐也 | 所属社团：`g:iris art` |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
