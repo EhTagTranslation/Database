@@ -14603,6 +14603,7 @@ example:
 | nuki uron | 貫うろん | 植野メグルの分身 | [pixiv](https://www.pixiv.net/users/119001028)<br>[X](https://x.com/nuki_uron) |
 | aihara yorani | 粟飯原よラニ \| プラシーボ |  | [X](https://x.com/chin2_pork) |
 | yurulomi | ユルロミ |  | [X](https://x.com/YurulomI)<br>[pixiv](https://www.pixiv.net/users/110968369) |
+| udon ningen | うどん人間 |  | [pixiv](https://www.pixiv.net/users/94796485)<br>[X](https://x.com/udoon_ningen) |
 
 <!--TEMPLATE:
 |  |  |  |  |
