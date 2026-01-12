@@ -14602,6 +14602,7 @@ example:
 | heihuafeihuiheihua | 黑话肥会黑话 |  |  |
 | nuki uron | 貫うろん | 植野メグルの分身 | [pixiv](https://www.pixiv.net/users/119001028)<br>[X](https://x.com/nuki_uron) |
 | aihara yorani | 粟飯原よラニ \| プラシーボ |  | [X](https://x.com/chin2_pork) |
+| yurulomi | ユルロミ |  | [X](https://x.com/YurulomI)<br>[pixiv](https://www.pixiv.net/users/110968369) |
 
 <!--TEMPLATE:
 |  |  |  |  |
