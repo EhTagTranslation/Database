@@ -929,7 +929,7 @@ example:
 | tales of legendia | 遗迹传说 |  |  |
 | tales of the abyss | 深渊传说 |  |  |
 | tales of innocence | 圣洁传说 |  |  |
-| tales of vesperia | 薄暮传说 |  |  |
+| tales of vesperia | 薄暮传说 | ![](https://thumbsnap.com/i/HXR4qrrf.jpg)<br>《薄暮传说》（日语：テイルズ オブ ヴェスペリア，台港译作“宵星传奇”）是由南梦宫传说工作室开发、万代南梦宫发行的角色扮演游戏，2008年8月7日首发于Xbox 360平台。 | [百度百科](https://baike.baidu.com/item/薄暮传说/84467) |
 | tales of hearts | 心灵传说 |  |  |
 | tales of graces | 圣恩传说 |  |  |
 | tales of xillia | 无尽传说 |  |  |
