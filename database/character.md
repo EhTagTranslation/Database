@@ -8163,6 +8163,7 @@ example:
 | lydia leinster | 丽狄雅·铃斯特 | ![](https://koujodenka-anime.com/_astro/body.D4u3fMGF_Z13KvR8.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>リディヤ・リンスター<br>被称作“剑姬”的国内顶尖剑士，与亚连是从王立学校入学考试开始认识的孽缘。 |  |
 | caren | 卡莲 | ![](https://koujodenka-anime.com/_astro/body.DLV9lIym_Z1sXBzq.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>カレン<br>与亚连没有血缘关系的妹妹，在兽人族当中也相当少见的狼族少女。 |  |
 | terenezza hopkins | 特蕾奈莎·霍金斯 | ![](https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/e/ec/Terenezza_Hopkins_Design.webp)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>テレネッツァ・ホプキンス<br>散发着能激起人们保护欲的可爱氛围的男爵千金。<br>斯嘉丽的未婚夫、第二王子凯尔的新未婚妻。 | [Fandom](https://theunitedorganizationtoonsheroes.fandom.com/wiki/Terenezza_Hopkins) |
+| yuzuki nanase | 七濑悠月 | ![](https://static.wikia.nocookie.net/chiramune/images/0/01/Yuzuki_Nanase_Portrait_%28Anime%29.png)<br>所属作品：`chitose-kun wa ramune bin no naka`<br>藤志高中二年级两大美女之一的现充少女，通过精准掌控自身魅力展现“女演员型”人格特质。 | [百度百科](https://baike.baidu.com/item/七濑悠月/49910969) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
