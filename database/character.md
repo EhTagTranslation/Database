@@ -8167,6 +8167,7 @@ example:
 | fino bloodstone | 菲诺·布拉德斯通 | ![](https://static.wikia.nocookie.net/yu-sibu-yusibu-yuushibu/images/2/29/Yu-Shibu_Novel_V03.jpg)<br>所属作品：`yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita.`<br>魔王之女，因魔王被打败而到劳尔工作的魔术店・雷昂王都店去打工。 | [Fandom](https://yu-sibu-yusibu-yuushibu.fandom.com/wiki/Fino_Bloodstone) |
 | raul chaser | 劳尔·切萨 | ![](https://static.wikia.nocookie.net/yu-sibu-yusibu-yuushibu/images/e/e6/9464.jpg)<br>所属作品：`yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita.`<br>ラウル·チェイサー<br>能够全部背出并不用资料说出历代勇者（勇者考试历代首席合格者）及其业绩的勇者御宅。 | [Fandom](https://yu-sibu-yusibu-yuushibu.fandom.com/wiki/Raul_Chaser) |
 | multi nanairo | 七色彩 | ![](https://thumbsnap.com/i/4JqVa8BM.jpg)<br>出自作品：`p:beyblade`<br><br>七色彩（七色マルチ，Nanairo Multi）爆旋陀螺X 女主角，拥有一头黑色长发还有多种颜色的挑染。拥有陀螺数量众多，是一个会透过更换陀螺而改变服装的少女，也是一个很出色的陀螺工艺师。 | [维基百科](https://zh.wikipedia.org/wiki/爆旋陀螺X#七色彩) |
+| tenka shiroboshi | 白星天华 | ![](https://thumbsnap.com/i/GEeN48wY.jpg)<br>出自作品：`p:beyblade`<br><br>著名陀螺道场“白星流”的代理师父。暗中监视着强大的陀螺手们，并透过熟练地操纵电子设备在幕后行动。基于挑起打败自己的母亲白星奥米伽以拯救濒临灭亡的“白星流”的重任为目的而试图利用黑须极，原先不把同队的七色彩和风见鸟放在眼里，但后来也逐渐认同两人，并最终被接受成为“表象人格队”第四位正式成员。于白星之战结束后完成使命而退队回归白星流。 | [维基百科](https://zh.wikipedia.org/wiki/爆旋陀螺X#白星天华) \| [百度百科](https://baike.baidu.com/item/白星斩华/65669309) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
