@@ -2146,7 +2146,7 @@ example:
 | okuni yoshinobu | 小国由喜 |  |  |
 | oreiro | オレイロ |  |  |
 | ndc | NDC |  |  |
-| rocket monkey | ロケットモンキー |  |  |
+| rocket monkey | 火箭猴 |  |  |
 | a-teru haito | A辉废都 |  |  |
 | kusumoto toka | 楠元とうか |  |  |
 | utatane hiroyuki | うたたねひろゆき |  |  |
