@@ -14605,6 +14605,7 @@ example:
 | yurulomi | ユルロミ |  | [X](https://x.com/YurulomI)<br>[pixiv](https://www.pixiv.net/users/110968369) |
 | udon ningen | うどん人間 |  | [pixiv](https://www.pixiv.net/users/94796485)<br>[X](https://x.com/udoon_ningen) |
 | yuzuriha runch | 楪らんち |  | [pixiv](https://www.pixiv.net/users/112372837) |
+| sakamuke | さかむけ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
