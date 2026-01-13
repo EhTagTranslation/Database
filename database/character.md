@@ -8162,7 +8162,7 @@ example:
 | lynne leinster | 丽妮·铃斯特 | ![](https://koujodenka-anime.com/_astro/body.pncY1kjm_Z1aIkCe.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>リィネ・リンスター<br>铃斯特公爵家的二女儿，丽狄雅的妹妹。 | [Fandom](https://koujo-denka.fandom.com/wiki/Lynne_Leinster) |
 | lydia leinster | 丽狄雅·铃斯特 | ![](https://koujodenka-anime.com/_astro/body.D4u3fMGF_Z13KvR8.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>リディヤ・リンスター<br>被称作“剑姬”的国内顶尖剑士，与亚连是从王立学校入学考试开始认识的孽缘。 |  |
 | caren | 卡莲 | ![](https://koujodenka-anime.com/_astro/body.DLV9lIym_Z1sXBzq.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>カレン<br>与亚连没有血缘关系的妹妹，在兽人族当中也相当少见的狼族少女。 |  |
-| terenezza hopkins | 特蕾奈莎·霍金斯 | ![](https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/e/ec/Terenezza_Hopkins_Design.webp)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>テレネッツァ・ホプキンス<br>散发着能激起人们保护欲的可爱氛围的男爵千金。<br>斯嘉丽的未婚夫、第二王子凯尔的新未婚妻。 |  |
+| terenezza hopkins | 特蕾奈莎·霍金斯 | ![](https://static.wikia.nocookie.net/theunitedorganizationtoonsheroes/images/e/ec/Terenezza_Hopkins_Design.webp)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>テレネッツァ・ホプキンス<br>散发着能激起人们保护欲的可爱氛围的男爵千金。<br>斯嘉丽的未婚夫、第二王子凯尔的新未婚妻。 | [Fandom](https://theunitedorganizationtoonsheroes.fandom.com/wiki/Terenezza_Hopkins) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
