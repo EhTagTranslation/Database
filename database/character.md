@@ -2139,7 +2139,7 @@ example:
 | cure blossom | 花蕾天使 |  |  |
 | cure marine | 海洋天使 |  |  |
 | cure sunshine | 阳光天使 |  |  |
-| cure moonlight | 月光天使 | ![](https://ehgt.org/w/01/087/35993-jjiu3ksk.webp)<br>出自作品：`p:heartcatch precure`<br><br>月影百合（日語：月影（つきかげ） ゆり）是動畫《HeartCatch光之美少女！ 》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/月影百合) |
+| cure moonlight | 月光天使 | ![](https://ehgt.org/w/01/087/35993-jjiu3ksk.webp) ![](https://ehgt.org/9c/3a/9c3ad6d4f99b91716486524d0b6440532b231c46-872394-1152-1620-jpg_250.jpg)<br>出自作品：`p:heartcatch precure`<br><br>月影百合（日語：月影（つきかげ） ゆり）是動畫《HeartCatch光之美少女！ 》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/月影百合) |
 | cure flower | 花朵天使 |  |  |
 | cure ange | 圣洁天使 |  |  |
 | cure amour | 露露·阿穆尔 (爱神天使) | ![](https://moegirl.uk/images/5/5a/Cure_Amour.png)<br>日语：ルールー・アムール<br>所属作品:`hugtto precure` | [https://moegirl.uk/露露·阿穆尔](https://moegirl.uk/露露·阿穆尔) |
