@@ -2696,6 +2696,7 @@ example:
 | kanojo x kanojo x kanojo | 彼女×彼女×彼女 ～和三姐妹的心跳同居生活～ |  |  |
 | zettai shougeki platonic heart | 绝对冲激～柏拉图之心～ |  |  |
 | yuuki bakuhatsu bang bravern | 勇气爆发Bang Bravern | ![](https://thumbsnap.com/i/LxJbHGHq.jpg)<br>《勇气爆发BANG BRAVERN》（日语：勇気爆発バーンブレイバーン）是由CygamesPictures制作的一部原创动画，于2024年1月11日播出。 | [萌娘百科](https://zh.moegirl.org.cn/勇气爆发BANG_BRAVERN) \| [维基百科](https://zh.wikipedia.org/wiki/勇氣爆發Bang_Bravern) |
+| lies of p | 匹诺曹的谎言 | ![](https://static.wikia.nocookie.net/lies-of-p/images/f/f4/Lies_of_P_Cover.png)<br>《匹诺曹的谎言》是由NEOWIZ开发制作的一款角色扮演类游戏作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
