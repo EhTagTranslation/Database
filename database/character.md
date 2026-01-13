@@ -8166,6 +8166,7 @@ example:
 | yuzuki nanase | 七濑悠月 | ![](https://static.wikia.nocookie.net/chiramune/images/0/01/Yuzuki_Nanase_Portrait_%28Anime%29.png)<br>所属作品：`chitose-kun wa ramune bin no naka`<br>藤志高中二年级两大美女之一的现充少女，通过精准掌控自身魅力展现“女演员型”人格特质。 | [百度百科](https://baike.baidu.com/item/七濑悠月/49910969) |
 | fino bloodstone | 菲诺·布拉德斯通 | ![](https://static.wikia.nocookie.net/yu-sibu-yusibu-yuushibu/images/2/29/Yu-Shibu_Novel_V03.jpg)<br>所属作品：`yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita.`<br>魔王之女，因魔王被打败而到劳尔工作的魔术店・雷昂王都店去打工。 | [Fandom](https://yu-sibu-yusibu-yuushibu.fandom.com/wiki/Fino_Bloodstone) |
 | raul chaser | 劳尔·切萨 | ![](https://static.wikia.nocookie.net/yu-sibu-yusibu-yuushibu/images/e/e6/9464.jpg)<br>所属作品：`yuusha ni narenakatta ore wa shibushibu shuushoku wo ketsui shimashita.`<br>ラウル·チェイサー<br>能够全部背出并不用资料说出历代勇者（勇者考试历代首席合格者）及其业绩的勇者御宅。 | [Fandom](https://yu-sibu-yusibu-yuushibu.fandom.com/wiki/Raul_Chaser) |
+| multi nanairo | 七色彩 | ![](https://thumbsnap.com/i/4JqVa8BM.jpg)<br>出自作品：`p:beyblade`<br><br>七色彩（七色マルチ，Nanairo Multi）爆旋陀螺X 女主角，拥有一头黑色长发还有多种颜色的挑染。拥有陀螺数量众多，是一个会透过更换陀螺而改变服装的少女，也是一个很出色的陀螺工艺师。 | [维基百科](https://zh.wikipedia.org/wiki/爆旋陀螺X#七色彩) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
