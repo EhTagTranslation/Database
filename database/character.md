@@ -3813,7 +3813,7 @@ example:
 | naru narusegawa | 成濑川奈留 |  |  |
 | meidri | 梅朵莉 | 《异种族风俗娘评鉴指南》中食酒亭的服务员 |  |
 | crimvael | 克莉姆 | 《异种族风俗娘评鉴指南》中的天使 |  |
-| samus aran | 萨姆斯·亚兰 | 《密特罗德》（《银河战士》）系列的主角。初登场于1986年的FC游戏《密特罗德》（METROID），是电子游戏史上首个可由玩家操控的女性角色。 |  |
+| samus aran | 萨姆斯·亚兰 | ![](https://ehgt.org/w/02/188/64535-rxynf9ap.webp)<br>出自作品：`p:metroid`<br><br>《密特罗德》（《银河战士》）系列的主角。初登场于1986年的FC游戏《密特罗德》（METROID），是电子游戏史上首个可由玩家操控的女性角色。 |  |
 | otome saotome | 早乙女乙女 | 早乙女乙女是赤城大空所创作的轻小说《`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/d8/eb/d8ebfe81ef5f9ce99c668c811edd0a9b385e3842-64942-775-523-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/早乙女乙女) |
 | melusine | 美露莘 | 美露莘是TYPE-MOON旗下游戏《Fate/Grand Order》中第六异闻带的登场角色。<br>妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·兰斯洛特的灵基之名的妖精骑士。<br>作为妖精的名字是美露莘。<br>![妖兰初始](https://img.moegirl.org.cn/common/a/a6/妖精骑士兰斯洛特初始.png)![妖兰满破](https://img.moegirl.org.cn/common/7/7a/妖精骑士兰斯洛特满破.png) | [萌娘百科](https://zh.moegirl.org.cn/梅柳齐娜) |
 | baobhan sith | 芭万·希 | 芭万·希是TYPE-MOON旗下游戏《Fate/Grand Order》中第六异闻带的登场角色。<br>妖精国不列颠中圆桌骑士的一位。使用了泛人类史中的圆桌骑士·崔斯坦的灵基之名的妖精骑士。<br>作为妖精的名字是芭万·希。<br>![妖崔初始](https://img.moegirl.org.cn/common/0/09/妖精骑士崔斯坦初始.png)![妖崔满破](https://img.moegirl.org.cn/common/3/37/妖精骑士崔斯坦满破.png) | [萌娘百科](https://zh.moegirl.org.cn/芭万·希) |
