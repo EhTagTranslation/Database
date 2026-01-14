@@ -3792,7 +3792,7 @@ example:
 | shizuku kuroe | 黑江雫 |  |  |
 | ellen baker | 艾伦·贝可 | Ellen Baker（エレン・ベーカー）是东京书籍株式会社出版的中学用新版英语教科书《NEW HORIZON》2016年版中的登场角色。2016年四月初于网络突然爆红，通称艾伦老师。 | [萌娘百科](https://zh.moegirl.org.cn/Ellen_Baker) |
 | shizune | 静音 |  |  |
-| kurenai yuhi | 夕日红 |  |  |
+| kurenai yuhi | 夕日红 | ![](https://ehgt.org/w/01/989/89691-q48sl3s7.webp)<br>出自作品：`p:naruto`<br><br>夕日红是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。<br>木叶忍者村的上忍，第八班队长，油女志乃、犬冢牙、日向雏田的老师。<br>拥有一头黑色卷发和红色双瞳。擅于使用各种幻术。<br>与猿飞阿斯玛是恋人关系。在还没来得及和阿斯玛举办婚礼的时候，阿斯玛就战死了。当时已怀有身孕，后因怀孕而没有参加木叶防卫战。第四次忍界大战前夕，生下阿斯玛的遗腹女猿飞未来，并改姓猿飞。 | [萌娘百科](https://zh.moegirl.org.cn/夕日红) |
 | mei terumi | 照美冥 |  |  |
 | ai ohto | 大户爱 | 大户爱（日语：大戸（おおと） アイ）是由野岛伸司原案及剧本、若林信担任监督，并由CloverWorks制作的原创动画《奇蛋物语／WONDER EGG PRIORITY》及其衍生作品中的登场角色。<br><br>14岁。患有虹彩异色症的少女。<br><br>现在因为某种原因没能去学校。时常穿着有向日葵图样的黄色连帽衫。<br><br>决胜词是「我已经……怒不可遏了！」<br><br>家中的门牌号是4-303。 | [萌娘百科](https://zh.moegirl.org.cn/大户爱) |
 | kurumi ebisuzawa | 惠飞须泽胡桃 | 惠飞须泽胡桃（胡一铲）是漫画《学园孤岛》及其衍生作品的登场角色。<br>![胡桃缩略图](https://ehgt.org/df/1f/df1fc57e74762508484fba428111a6f11120fbc2-404983-322-1173-png_l.jpg)![胡桃人设](https://img.moegirl.org.cn/common/f/f3/胡桃人设.png)<br>![惠飞须泽胡桃(日之法师(闪耀幻想曲))](https://img.moegirl.org.cn/common/3/33/Kiraraf-card-惠飞须泽胡桃%28日之法师%29.png)<br>![惠飞须泽胡桃=?川内野优美=?天天座理世](https://img.moegirl.org.cn/common/b/b1/Ebisuzawa_Kurumi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/惠飞须泽胡桃) [百度百科](https://baike.baidu.com/item/惠飞须泽胡桃/16828119) [萌娘百科](https://zh.moegirl.org.cn/闪耀幻想曲:惠飞须泽胡桃%28日之法师%29) [学园孤岛fandom(西文)](https://gakkou-gurashi.fandom.com/wiki/Kurumi_Ebisuzawa) [HEROS fandom(西文)](https://hero.fandom.com/wiki/Kurumi_Ebisuzawa) [MyAnimeList(西文)](https://myanimelist.net/character/109475/Kurumi_Ebisuzawa) |
