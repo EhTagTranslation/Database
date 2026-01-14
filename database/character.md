@@ -6460,7 +6460,7 @@ example:
 | bready | 布蕾德 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/15/95099.png)<br>所属作品：`goddess of victory nikke`<br>食用油部队中负责试吃的妮姬。<br>只要品尝料理，就能指出其营养成分、材料和细微的味道。 | [百度百科](https://baike.baidu.com/item/布蕾德/65574654)<br>[Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | mana | 玛娜 |  | [百度百科](https://baike.baidu.com/item/玛娜/65574471) |
 | plymouth | 普利茅斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fd9b2b5d809f8e04dc5984b83f8e8908262400697.png) |  |
-| mitsuki hoshikawa | 星川未月 | 所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
+| mitsuki hoshikawa | 星川未月 | ![](https://ehgt.org/w/02/086/54565-8z4m4jfo.webp)<br>所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
 | yat sen | 逸仙 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5e670b25e48199e76334b8b8d1d97761262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/91650eaff7633a63dea7978f132af79b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/e547a4f0be08b1e71380db12cb850b6b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3438c85c8372e27d676c7ec5225ce37e262400697.png) |  |
 | phainon | 白厄 | 白厄是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/白厄) |
 | candace flynn | 凯蒂丝‧福林 | 所属作品: `p:phineas and ferb` | [萌娘百科](https://zh.moegirl.org.cn/凯蒂丝·杰士德·福林) [Fandom](https://phineasandferb.fandom.com/wiki/Candace_Flynn) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
