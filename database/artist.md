@@ -14610,6 +14610,7 @@ example:
 | momoisaki hayato | 桃井崎隼 |  | [pixiv](https://www.pixiv.net/users/14857335) \| [X](https://x.com/momoisaki42) \| [FANBOX](https://momoisaki.fanbox.cc/) |
 | takenoko pengin | たけのこぺんぎん |  | [FANBOX](https://makki2jigen.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/10668835) |
 | shidoutei | 始童帝 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01011410.html) \| [pixiv](https://www.pixiv.net/users/18220798) |
+| kai jia wei yi lang | 开甲韦一郎 |  | [pixiv](https://www.pixiv.net/users/77044656) |
 
 <!--TEMPLATE:
 |  |  |  |  |
