@@ -8174,6 +8174,7 @@ example:
 | meteorite | 陨星 | ![](https://ehgt.org/w/00/808/80797-c7c07nk1.webp)<br>出自作品：`p:arknights`<br><br>【代号】陨星<br>【性别】女<br>【战斗经验】六年<br>【出身地】卡兹戴尔<br>【生日】8月30日<br>【种族】萨卡兹<br>【身高】170cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为感染者。<br><br>前“守林人”组织成员，现自由佣兵，此外履历不详。<br>现作为狙击干员为罗德岛服务，使用手中的弩炮发挥出卓越的范围杀伤力。 | [萌娘百科](https://zh.moegirl.org.cn/陨星%28明日方舟%29#) |
 | daenerys targaryen | 丹妮莉丝·坦格利安 | ![](https://ehgt.org/w/01/727/48289-0ixbnvfr.webp)<br>出自作品：`p:game of thrones`<br><br>丹妮莉丝·坦格利安（Daenerys Targaryen）是伊耿·坦格利安四世国王和奈丽诗·坦格利安王后的女儿。她嫁给多恩的马隆·马泰尔亲王，使多恩并入坦格利安家族统治之下。 | [灰机wiki](https://asoiaf.huijiwiki.com/wiki/丹妮莉丝·坦格利安%28伊耿四世之女%29) |
 | shuka karino | 狩野朱歌 | ![](https://static.wikia.nocookie.net/darwins-game/images/a/a8/Karino_Shuka_Anime_Design.png)<br>所属作品：`darwins game`<br>可自由操控绳状物体如锁链、钢丝等。 |  |
+| rein kashiwagi | 柏木铃音 | ![](https://static.wikia.nocookie.net/darwins-game/images/0/07/Kashiwagi_Rein_Anime_Design.png)<br>所属作品：`darwins game`<br>可以全方面超速度的分析一切信息，判断事件发展的各种可能性。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
