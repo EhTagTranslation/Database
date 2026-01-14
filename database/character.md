@@ -4146,7 +4146,7 @@ example:
 | aomi yanagisako | 柳迫碧美 |  |  |
 | airi | 爱莉 |  |  |
 | melona | 美萝娜 |  |  |
-| merlin prototype | 梅林〔Prototype〕 | （阿瓦隆女士） | [https://fgo.wiki/w/阿瓦隆女士](https://fgo.wiki/w/阿瓦隆女士) |
+| merlin prototype | 梅林〔Prototype〕 | ![](https://ehgt.org/w/01/412/65149-lmtsw329.webp)<br>出自作品：`p:fate grand order`<br><br>梅林(Prototype)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在轻小说《Fate/Prototype 苍银的碎片》首次登场，其将在街机版FGO《Fate/Grand Order Arcade》正式实装的消息亦于2020年9月23日公开。 | [fgo.wiki](https://fgo.wiki/w/阿瓦隆女士) \| [萌娘百科](https://zh.moegirl.org.cn/梅林%28Fate/Prototype%29#) |
 | shuna | 朱菜 | 所属作品 `p:tensei shitara slime datta ken`<br>![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Shuna_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/朱菜) [Fandom](https://tensura.fandom.com/wiki/Shuna) |
 | lenalee lee | 利娜莉·李 | 李娜丽·李（日语：リナリー‧リー；英语：Lenalee Lee）是星野桂创作的漫画《`p:d.gray-man`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/dgrayman/images/6/6b/Lenalee_2006.png) | [萌娘百科](https://zh.moegirl.org.cn/李娜丽·李) [Fandom](https://dgrayman.fandom.com/wiki/Lenalee_Lee) |
 | natsuru senou | 濑能名津流 |  |  |
