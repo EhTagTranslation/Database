@@ -14607,6 +14607,7 @@ example:
 | yuzuriha runch | 楪らんち |  | [pixiv](https://www.pixiv.net/users/112372837) |
 | sakamuke | さかむけ |  |  |
 | kanola u | カノラユ |  |  |
+| momoisaki hayato | 桃井崎隼 |  | [pixiv](https://www.pixiv.net/users/14857335) \| [X](https://x.com/momoisaki42) \| [FANBOX](https://momoisaki.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
