@@ -2427,7 +2427,7 @@ example:
 | hashirama senju | 千手柱间 |  |  |
 | madara uchiha | 宇智波斑 |  |  |
 | itachi uchiha | 宇智波鼬 |  |  |
-| boruto uzumaki | 漩涡博人 |  |  |
+| boruto uzumaki | 漩涡博人 | ![](https://ehgt.org/w/02/083/64630-4s63z15c.webp)<br>出自作品：`p:boruto` |  |
 | himawari uzumaki | 漩涡向日葵 |  |  |
 |  | ▼ dog days |  |  |
 | cinque izumi | 真红·和泉 |  |  |
