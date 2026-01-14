@@ -470,7 +470,7 @@ example:
 | alice in wonderland | 爱丽丝梦游仙境 | 《爱丽丝梦游仙境》（英语：Alice's Adventures in Wonderland，简称Alice in Wonderland）是由路易斯·卡罗尔（Lewis Carroll，1832-1898）创作的一部童话作品。 | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝梦游仙境) |
 | ikkitousen | 一骑当千 |  |  |
 | g.i. joe | 特种部队 |  |  |
-| metroid | 银河战士 |  |  |
+| metroid | 银河战士 | ![](https://ehgt.org/1e/23/1e23ee85fcf99ee0910b620104c2892f329d74c7-2681-150-37-jpg_250.jpg)<br>银河战士（日语：メトロイド，英语：Metroid，官方译为“密特罗德”）是任天堂所推出的科幻动作冒险电子游戏系列，由知名电玩游戏设计师横井军平制作。首作于1986年8月6日推出，截至2023年止，11作密特罗德横跨了大部分任天堂系列游戏机，由FC至Nintendo Switch。作为任天堂最成功的游戏系列之一，每作也受到一定程度的好评。 | [维基百科](https://zh.wikipedia.org/wiki/銀河戰士系列) |
 | metal gear solid | 合金装备 | 最伟大的游戏系列之一，金牌制作人小岛秀夫，原官方译名为潜龙谍影。 |  |
 | tomb raider | 古墓丽影 |  |  |
 | xena warrior princess | 战士公主西娜 |  |  |
