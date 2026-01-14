@@ -8175,6 +8175,7 @@ example:
 | daenerys targaryen | 丹妮莉丝·坦格利安 | ![](https://ehgt.org/w/01/727/48289-0ixbnvfr.webp)<br>出自作品：`p:game of thrones`<br><br>丹妮莉丝·坦格利安（Daenerys Targaryen）是伊耿·坦格利安四世国王和奈丽诗·坦格利安王后的女儿。她嫁给多恩的马隆·马泰尔亲王，使多恩并入坦格利安家族统治之下。 | [灰机wiki](https://asoiaf.huijiwiki.com/wiki/丹妮莉丝·坦格利安%28伊耿四世之女%29) |
 | shuka karino | 狩野朱歌 | ![](https://static.wikia.nocookie.net/darwins-game/images/a/a8/Karino_Shuka_Anime_Design.png)<br>所属作品：`darwins game`<br>可自由操控绳状物体如锁链、钢丝等。 |  |
 | rein kashiwagi | 柏木铃音 | ![](https://static.wikia.nocookie.net/darwins-game/images/0/07/Kashiwagi_Rein_Anime_Design.png)<br>所属作品：`darwins game`<br>可以全方面超速度的分析一切信息，判断事件发展的各种可能性。 |  |
+| north flight | 北方飞翔 | ![](https://ehgt.org/w/02/128/40934-25s0tcn7.webp)<br><br>出自作品：`p:uma musume pretty derby`<br><br>北方飞翔是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ノースフライト（North Flight）。 | [萌娘百科](https://zh.moegirl.org.cn/北方飞翔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
