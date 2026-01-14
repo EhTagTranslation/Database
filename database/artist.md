@@ -14612,6 +14612,7 @@ example:
 | shidoutei | 始童帝 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01011410.html) \| [pixiv](https://www.pixiv.net/users/18220798) |
 | kai jia wei yi lang | 开甲韦一郎 |  | [pixiv](https://www.pixiv.net/users/77044656) |
 | asari shio | あさり潮 |  | [X](https://x.com/asarisplash) |
+| kyouka asuka | 鏡花あすか |  | [X](https://x.com/asatteka_1111) |
 
 <!--TEMPLATE:
 |  |  |  |  |
