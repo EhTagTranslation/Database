@@ -1049,7 +1049,7 @@ example:
 | eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![泽村·斯宾塞·英梨梨](https://ehgt.org/78/e1/78e11c97c6e09366cc83386902a5f3017606bc27-336327-385-1200-jpg_l.jpg)![图](https://ehgt.org/c2/69/c269e46ca319ed8d35dd834ef701b2335a1b0e00-1911197-893-1227-png_l.jpg)![图](# "https://ehgt.org/b7/e4/b7e48d2ec94ab65a4193c02fca1f943799a0f37d-1891325-1920-1080-png_l.jpg") |  |
 | izumi hashima | 波岛出海 | ![波岛出海](# "https://ehgt.org/26/b1/26b17a7462f12aa7f5c49fc088ea3d90f88060d7-599437-627-885-png_l.jpg") |  |
 |  | ▼ 我的朋友很少 角色 |  |  |
-| kobato hasegawa | 羽濑川小鸠 | ![羽濑川小鸠](https://ehgt.org/11/e7/11e759c8412af65520dc1f60395d7830090d80a7-50943-315-640-jpg_l.jpg) |  |
+| kobato hasegawa | 羽濑川小鸠 | ![羽濑川小鸠](https://ehgt.org/11/e7/11e759c8412af65520dc1f60395d7830090d80a7-50943-315-640-jpg_l.jpg)<br>出自作品：`p:boku wa tomodachi ga sukunai`<br><br>羽濑川小鸠是平坂读创作的轻小说《我的朋友很少》及其衍生的动画等作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/羽濑川小鸠) |
 | kodaka hasegawa | 羽濑川小鹰 | ![羽濑川小鹰](https://ehgt.org/d4/1a/d41a9e7e7dd679e39b475793fbcfdf16dc208eb9-74031-550-777-jpg_l.jpg) |  |
 | rika shiguma | 志熊理科 | ![志熊理科](https://ehgt.org/21/df/21dfe1c979d457e0e4aef377c6fd3d897a551dd1-41856-279-640-jpg_l.jpg) |  |
 | sena kashiwazaki | 柏崎星奈 | 柏崎星奈是平坂读创作的轻小说《我的朋友很少》及其衍生作品的登场角色，女主角之一。<br>![柏崎星奈](https://ehgt.org/96/51/9651737316ee780477e19a384f383f9a34f805a6-36069-271-640-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/柏崎星奈) |
