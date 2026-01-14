@@ -12130,7 +12130,7 @@ example:
 | konery | ｺﾈﾘｨ＠(ヽ'ω\`) |  | [pixiv](https://www.pixiv.net/users/8009793) [X](https://x.com/pice1234) |
 | cocomachi | ここまち |  | [pixiv](https://www.pixiv.net/users/55223444) |
 | mizuse kiseki | 星の紅茶 |  | [pixiv](https://www.pixiv.net/users/12120406) [X](https://x.com/hoshi0tea) |
-| momomo gasshuukoku | ももも合衆国 |  |  |
+| momomo gasshuukoku | ももも合衆国 |  | [Fantia](https://fantia.jp/fanclubs/12600) |
 | nameless peasant | 皮三豆 |  | [X](https://x.com/Pisanto666) |
 | minamoto kosada | 源康定 |  |  |
 | mukatsuku | ム菓ツク（むか） |  | [pixiv](https://www.pixiv.net/users/163404) |
