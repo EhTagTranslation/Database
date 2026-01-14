@@ -14615,6 +14615,7 @@ example:
 | kyouka asuka | 鏡花あすか |  | [X](https://x.com/asatteka_1111) |
 | tsuyu tsukimi | つゆつきみ |  | [X](https://x.com/YamiTsuyuri) |
 | kakuri kairi | 隔離カイリ |  |  |
+| mame paitan | まめぱいたん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
