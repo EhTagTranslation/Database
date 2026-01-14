@@ -13573,6 +13573,7 @@ example:
 | baa-chan-chi | ばぁちゃん家 |  |  |
 | toumeiryuu no margaret | 透明龍のマーガレット |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40195.html) |
 | planet nine | Planet Nine |  | [FANBOX](https://planetnine-nonna.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/89777985) |
+| yuuhimari | ゆうひまり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052531.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
