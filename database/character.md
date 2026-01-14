@@ -6180,7 +6180,7 @@ example:
 | witchcrafter madame verre | 魔女工艺掌门・玻璃匠薇儿 | 魔女术师傅·玻璃女巫 |  |
 | dinomorphia kentregina | 恐啡肽骇龙・肯特莱钉娜 |  |  |
 | i p masquerena | I：P百变莱娜 |  |  |
-| live twin ki-sikil | 直播☆双子 姬丝吉尔 |  |  |
+| live twin ki-sikil | 直播☆双子 姬丝吉尔 | 出自作品：`p:yu-gi-oh` | [萌娘百科](https://zh.moegirl.org.cn/直播双子) |
 | evil twin ki-sikil | 邪恶★双子 姬丝吉尔 |  |  |
 | evil twin lil-la | 邪恶★双子 璃拉 |  |  |
 | fallen of albaz | 阿尔白斯之落胤 | ![](https://thumbsnap.com/i/PUqDrifS.jpg)<br>出自作品：`p:yu-gi-oh`<br><br>此卡最早是《决斗者崛起》（1101）收录的怪兽卡，是第一张代表《白之故事》主人公阿尔白斯的卡。 | [萌娘百科](https://zh.moegirl.org.cn/阿尔白斯之落胤) |
