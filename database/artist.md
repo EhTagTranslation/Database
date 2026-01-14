@@ -14613,6 +14613,7 @@ example:
 | kai jia wei yi lang | 开甲韦一郎 |  | [pixiv](https://www.pixiv.net/users/77044656) |
 | asari shio | あさり潮 |  | [X](https://x.com/asarisplash) |
 | kyouka asuka | 鏡花あすか |  | [X](https://x.com/asatteka_1111) |
+| tsuyu tsukimi | つゆつきみ |  | [X](https://x.com/YamiTsuyuri) |
 
 <!--TEMPLATE:
 |  |  |  |  |
