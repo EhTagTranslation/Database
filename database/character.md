@@ -8169,6 +8169,7 @@ example:
 | multi nanairo | 七色彩 | ![](https://thumbsnap.com/i/4JqVa8BM.jpg)<br>出自作品：`p:beyblade`<br><br>七色彩（七色マルチ，Nanairo Multi）爆旋陀螺X 女主角，拥有一头黑色长发还有多种颜色的挑染。拥有陀螺数量众多，是一个会透过更换陀螺而改变服装的少女，也是一个很出色的陀螺工艺师。 | [维基百科](https://zh.wikipedia.org/wiki/爆旋陀螺X#七色彩) |
 | tenka shiroboshi | 白星天华 | ![](https://thumbsnap.com/i/GEeN48wY.jpg)<br>出自作品：`p:beyblade`<br><br>著名陀螺道场“白星流”的代理师父。暗中监视着强大的陀螺手们，并透过熟练地操纵电子设备在幕后行动。基于挑起打败自己的母亲白星奥米伽以拯救濒临灭亡的“白星流”的重任为目的而试图利用黑须极，原先不把同队的七色彩和风见鸟放在眼里，但后来也逐渐认同两人，并最终被接受成为“表象人格队”第四位正式成员。于白星之战结束后完成使命而退队回归白星流。 | [维基百科](https://zh.wikipedia.org/wiki/爆旋陀螺X#白星天华) \| [百度百科](https://baike.baidu.com/item/白星斩华/65669309) |
 | centi | Centi | ![](https://thumbsnap.com/i/iRane5q9.jpg)<br>出自作品：`p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Centi) |
+| live twin lil-la | 直播☆双子 璃拉 | 出自作品：`p:yu-gi-oh` | [萌娘百科](https://zh.moegirl.org.cn/直播双子) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
