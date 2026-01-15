@@ -13579,6 +13579,7 @@ example:
 | elemental erogenous zone | エレメンタル性感帯 |  |  |
 | green solenoid | グリーンソレノイド |  |  |
 | circle kagemusya | サークル影武者 |  |  |
+| kogomekai | 小米堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
