@@ -14627,6 +14627,7 @@ example:
 | frozen spider lily | Frozenspiderlily |  |  |
 | kazenami | かぜなみ |  |  |
 | morita tsumire | 森田つみれ |  |  |
+| glycogen | グリコーゲン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
