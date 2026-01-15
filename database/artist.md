@@ -14621,6 +14621,7 @@ example:
 | kanaguri | かなぐり |  |  |
 | nobeji kazuwo | ノベジカズヲ |  |  |
 | si-man | しーまん |  |  |
+| nini no yobikata | 任意の呼び方 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
