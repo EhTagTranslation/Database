@@ -8177,6 +8177,7 @@ example:
 | rein kashiwagi | 柏木铃音 | ![](https://static.wikia.nocookie.net/darwins-game/images/0/07/Kashiwagi_Rein_Anime_Design.png)<br>所属作品：`darwins game`<br>可以全方面超速度的分析一切信息，判断事件发展的各种可能性。 |  |
 | north flight | 北方飞翔 | ![](https://ehgt.org/w/02/128/40934-25s0tcn7.webp)<br><br>出自作品：`p:uma musume pretty derby`<br><br>北方飞翔是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ノースフライト（North Flight）。 | [萌娘百科](https://zh.moegirl.org.cn/北方飞翔) |
 | label | 蕾贝儿 | ![](https://thumbsnap.com/i/N8pKRSM8.jpg)<br>出自作品：`p:goddess of victory nikke` |  |
+| nanoka kurobe | 黑部奈叶香 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/22/黑部奈叶香.jpg)<br>日语：クロベ ナノカ<br>所属游戏:`mahou shoujo no majo saiban`<br><br>拥有“幻视”魔法。 | [萌娘百科](https://zh.moegirl.org.cn/黑部奈叶香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
