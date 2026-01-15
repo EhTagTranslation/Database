@@ -14622,6 +14622,7 @@ example:
 | nobeji kazuwo | ノベジカズヲ |  |  |
 | si-man | しーまん |  |  |
 | nini no yobikata | 任意の呼び方 |  |  |
+| omurice | オムライス |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
