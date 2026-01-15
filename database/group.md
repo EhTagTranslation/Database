@@ -13581,6 +13581,7 @@ example:
 | circle kagemusya | サークル影武者 |  |  |
 | kogomekai | 小米堂 |  |  |
 | surface tremble | surface tremble |  |  |
+| purintai | ぷりんたい |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
