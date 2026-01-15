@@ -13575,6 +13575,7 @@ example:
 | planet nine | Planet Nine |  | [FANBOX](https://planetnine-nonna.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/89777985) |
 | yuuhimari | ゆうひまり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052531.html) |
 | nf-freak | NFフリーク |  |  |
+| pomi sword | ぽみソード |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
