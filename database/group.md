@@ -13577,6 +13577,7 @@ example:
 | nf-freak | NFフリーク |  |  |
 | pomi sword | ぽみソード |  |  |
 | elemental erogenous zone | エレメンタル性感帯 |  |  |
+| green solenoid | グリーンソレノイド |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
