@@ -13582,6 +13582,7 @@ example:
 | kogomekai | 小米堂 |  |  |
 | surface tremble | surface tremble |  |  |
 | purintai | ぷりんたい |  |  |
+| kugatsu nagatsu | 九月ナガツ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
