@@ -14619,6 +14619,7 @@ example:
 | yugure | ゆぐれ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ゆぐれ%22) |
 | suriring | すりりんぐ |  |  |
 | kanaguri | かなぐり |  |  |
+| nobeji kazuwo | ノベジカズヲ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
