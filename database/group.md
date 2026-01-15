@@ -13578,6 +13578,7 @@ example:
 | pomi sword | ぽみソード |  |  |
 | elemental erogenous zone | エレメンタル性感帯 |  |  |
 | green solenoid | グリーンソレノイド |  |  |
+| circle kagemusya | サークル影武者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
