@@ -13576,6 +13576,7 @@ example:
 | yuuhimari | ゆうひまり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052531.html) |
 | nf-freak | NFフリーク |  |  |
 | pomi sword | ぽみソード |  |  |
+| elemental erogenous zone | エレメンタル性感帯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
