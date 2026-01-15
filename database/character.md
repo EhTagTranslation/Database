@@ -8179,6 +8179,7 @@ example:
 | label | 蕾贝儿 | ![](https://thumbsnap.com/i/N8pKRSM8.jpg)<br>出自作品：`p:goddess of victory nikke` |  |
 | nanoka kurobe | 黑部奈叶香 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/22/黑部奈叶香.jpg)<br>日语：クロベ ナノカ<br>所属游戏:`mahou shoujo no majo saiban`<br><br>拥有“幻视”魔法。 | [萌娘百科](https://zh.moegirl.org.cn/黑部奈叶香) |
 | florian | 小春 | ![](https://ehgt.org/w/01/108/80345-j4rhyjyu.webp)<br>出自作品：`p:pokemon`<br><br>小春（日语：ハルト，英语：Florian）是《宝可梦系列》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小春%28宝可梦%29#) |
+| paldea mom | 帕底亚 | ![](https://ehgt.org/w/01/906/46029-4qrlo8z8.webp)<br>出自作品：`p:pokemon`<br><br>帕底亚是小春和小青的母亲。 | [wiki.52poke](https://wiki.52poke.com/wiki/妈妈（帕底亚）) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
