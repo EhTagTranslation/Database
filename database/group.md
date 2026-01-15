@@ -13583,6 +13583,7 @@ example:
 | surface tremble | surface tremble |  |  |
 | purintai | ぷりんたい |  |  |
 | kugatsu nagatsu | 九月ナガツ |  |  |
+| fuwafuwa soda | ふわふわソーダ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
