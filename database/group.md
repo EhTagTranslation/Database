@@ -13580,6 +13580,7 @@ example:
 | green solenoid | グリーンソレノイド |  |  |
 | circle kagemusya | サークル影武者 |  |  |
 | kogomekai | 小米堂 |  |  |
+| surface tremble | surface tremble |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
