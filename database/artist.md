@@ -14626,6 +14626,7 @@ example:
 | 5t | 5T |  |  |
 | frozen spider lily | Frozenspiderlily |  |  |
 | kazenami | かぜなみ |  |  |
+| morita tsumire | 森田つみれ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
