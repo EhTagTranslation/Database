@@ -8178,6 +8178,7 @@ example:
 | north flight | 北方飞翔 | ![](https://ehgt.org/w/02/128/40934-25s0tcn7.webp)<br><br>出自作品：`p:uma musume pretty derby`<br><br>北方飞翔是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹ノースフライト（North Flight）。 | [萌娘百科](https://zh.moegirl.org.cn/北方飞翔) |
 | label | 蕾贝儿 | ![](https://thumbsnap.com/i/N8pKRSM8.jpg)<br>出自作品：`p:goddess of victory nikke` |  |
 | nanoka kurobe | 黑部奈叶香 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/22/黑部奈叶香.jpg)<br>日语：クロベ ナノカ<br>所属游戏:`mahou shoujo no majo saiban`<br><br>拥有“幻视”魔法。 | [萌娘百科](https://zh.moegirl.org.cn/黑部奈叶香) |
+| florian | 小春 | ![](https://ehgt.org/w/01/108/80345-j4rhyjyu.webp)<br>出自作品：`p:pokemon`<br><br>小春（日语：ハルト，英语：Florian）是《宝可梦系列》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小春%28宝可梦%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
