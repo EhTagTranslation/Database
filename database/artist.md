@@ -14625,6 +14625,7 @@ example:
 | omurice | オムライス |  |  |
 | 5t | 5T |  |  |
 | frozen spider lily | Frozenspiderlily |  |  |
+| kazenami | かぜなみ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
