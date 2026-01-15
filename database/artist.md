@@ -14623,6 +14623,7 @@ example:
 | si-man | しーまん |  |  |
 | nini no yobikata | 任意の呼び方 |  |  |
 | omurice | オムライス |  |  |
+| 5t | 5T |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
