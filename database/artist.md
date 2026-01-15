@@ -14620,6 +14620,7 @@ example:
 | suriring | すりりんぐ |  |  |
 | kanaguri | かなぐり |  |  |
 | nobeji kazuwo | ノベジカズヲ |  |  |
+| si-man | しーまん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
