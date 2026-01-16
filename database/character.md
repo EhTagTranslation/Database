@@ -4102,7 +4102,7 @@ example:
 | luna platz | 白金露娜 |  |  |
 | yugito nii | 二位柚木门 | 日本漫画《火影忍者》及其衍生作品中的女性角色，雷之国·云隐村的二尾人柱力<br>性格倔强而高傲，很有女王范；但也很为同伴着想，对同伴十分温柔。和又旅一样讲话口气十分温和。 | ![](https://img.moegirl.org.cn/common/2/21/二位由木人.jpg) |
 | kanade yoisaki | 宵崎奏 | ![](https://img.moegirl.org.cn/common/0/01/宵崎奏2023.png)<br>宵崎奏（よいさきかなで）是《世界计划 彩色舞台 Feat. 初音未来》及其衍生作品的登场角色。 |  |
-| mafuyu asahina | 朝比奈真冬 |  |  |
+| mafuyu asahina | 朝比奈真冬 | ![](https://ehgt.org/w/01/009/97334-rrss6xmk.webp)<br>出自作品：`p:project sekai`<br><br>朝比奈真冬（朝比奈（あさひな） まふゆ）是《世界计划 彩色舞台 feat. 初音未来》及其衍生作品的登场角色。代表色为#8888cc | [萌娘百科](https://zh.moegirl.org.cn/朝比奈真冬) |
 | kanu unchou | 关羽云长 | ![](https://ehgt.org/w/01/950/24325-9fec4z64.webp)<br>所属作品：`ikkitousen` |  |
 | housen ryofu | 吕布奉先 |  |  |
 | shimei ryomou | 吕蒙子明 |  |  |
