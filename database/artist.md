@@ -14632,6 +14632,7 @@ example:
 | kabu | かぶ |  |  |
 | takutaku | たくたく] |  |  |
 | jacket freak | JacketFreak |  |  |
+| se34tai | se34tai |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
