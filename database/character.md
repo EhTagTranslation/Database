@@ -2802,7 +2802,7 @@ example:
 | melony | 美蓉 |  |  |
 | kama | 迦摩 | ![迦摩](https://img.moegirl.org.cn/common/8/82/迦摩满破.png)<br>所属作品：`fate grand order`<br><br>印度神话中的爱神。本作中以凭依在间桐樱的身上的形态登场。<br>FGO中因为受到帕尔瓦蒂的影响而变成了女性。 | [萌娘百科](https://zh.moegirl.org.cn/迦摩%28Fate%29#迦摩（Assassin）) |
 | yu mei-ren | 虞美人 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
-| beni-enma | 红阎魔 | 在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
+| beni-enma | 红阎魔 | ![](https://ehgt.org/w/00/703/12350-9ykytcer.webp)<br>出自作品：`p:fate grand order`<br>红阎魔是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 |  |
 | carmilla | 卡米拉 | 在`type-moon`的游戏《`fate grand order`》中登场的女性Servant。职阶为Assassin<br>![图](# "https://ehgt.org/ba/3f/ba3f3347a0ce6d4ae9b2991468db49cf9c823465-2970572-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/卡米拉%28Fate%29) [Mooncell](http://www.fgo.wiki/w/卡米拉) |
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |
 | chiyo shirayuki | 白雪千夜 | ![](https://patchwiki.biligame.com/images/imascg/thumb/d/d1/gurao3s1uncpmq1ukzjk7deunjz8eiw.png/960px-CGSS-Chiyo-3D-5.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组 |  |
