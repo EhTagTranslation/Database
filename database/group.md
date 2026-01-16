@@ -13588,6 +13588,7 @@ example:
 | nikomic ramen | NikomiC Ramen |  |  |
 | mint-nium | Mint-nium\* |  |  |
 | moe push | もえぷっしゅ |  |  |
+| ogon shinshi club | 黄金紳士倶楽部 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
