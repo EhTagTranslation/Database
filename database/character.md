@@ -4002,7 +4002,7 @@ example:
 | yuu narukami | 鸣上悠 |  |  |
 | itaru hashida | 桥田至 | 东京电机大学一年级。凶真高中时代的友人，两人也在同一所大学上学。因为出色的编程和黑客技术，被冈伦称为「吾之右臂」（My favourite right arm）的未来道具研究所的主要战力之一。<br><br>典型肥宅，常常使用2ch用语，自称"变态绅士"，以不同的契机让天真的真由理说些不良语言。是个从2次元到3次元甚至到无机物都能萌上的家伙。最近萌的对象是在女仆咖啡厅『女仆皇后+喵 2』打工的菲利斯。<br><br>偶尔出现在句尾的"常考"是"请用常识去考虑"的意思。 | [萌娘百科](https://zh.moegirl.org.cn/桥田至) |
 | tenten | 天天 | ![](https://img.moegirl.org.cn/common/thumb/b/bb/天天.jpg/280px-天天.jpg)<br>《火影忍者》及其衍生作品的登场角色 |  |
-| hoshiguma | 星熊 |  |  |
+| hoshiguma | 星熊 | ![](https://ehgt.org/w/02/101/36715-2n48n3j0.webp)<br>出自作品：`p:arknights`<br><br>星熊是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/星熊) |
 | flamebringer | 炎客 |  |  |
 | matterhorn | 角峰 | 角峰是游戏《明日方舟》及其衍生作品的登场角色。 |  |
 | silverash | 银灰 | ![](https://patchwiki.biligame.com/images/arknights/8/81/4vkkrcasr44wj64qr49tc51qap3ihj2.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:银灰) |
