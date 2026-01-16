@@ -7446,7 +7446,7 @@ example:
 | laylea | Laylea | ![](https://static.wikia.nocookie.net/fireemblem/images/d/dc/Laylea_%28FE_Treasure%29.png/revision/latest?cb=20170410004711)<br>日文: レイリア<br>所属作品: `fire emblem genealogy of the holy war` | [Fandom](https://fireemblem.fandom.com/wiki/Laylea) |
 | julianne stingray | 朱丽安·斯汀雷 | ![](https://www.gfwiki.org/images/c/cf/Pic_Jill_HD.png)<br>所属作品：`va-11 hall-a` |  |
 | tear grants | 缇娅·格兰兹 | ![](https://ehgt.org/w/01/906/70709-72mayf81.webp)<br>所属作品：`tales of the abyss` |  |
-| talizorah nar rayya | 塔丽·佐拉·纳·雷亚 | 所属作品：`mass effect` |  |
+| talizorah nar rayya | 塔丽·佐拉·纳·雷亚 | ![](https://ehgt.org/w/01/727/35442-ugt1yw7b.webp)<br>所属作品：`mass effect`<br><br>塔莉佐拉·纳·莱雅是一名奎利女性。她是瑞尔·佐拉的女儿，同时也是薛帕德小队的一员。尽管年纪轻轻，但塔莉在机械方面天资卓越。2183年，塔莉开始了自己的“云游”——按照奎利人的习俗，她需要寻找能证明自己价值的物品回到移民舰队。2185年时她开展通过一项重要研究达成了云游的目的，并受到舰队指挥委员会的信赖。 | [Fandom](https://masseffect.fandom.com/zh/wiki/塔莉佐拉·纳·莱雅?variant=zh-sg) |
 | lafiel abriel | 拉斐尔·亚布里艾尔 | 所属作品：`banner of the stars`<br>全名：亚布里艾尔·尼·杜布雷斯克·帕留纽子爵·拉斐尔 |  |
 | cherche | 塞尔裘 | ![](https://static.wikia.nocookie.net/fireemblem/images/9/98/Cherche_Awakening_Artwork.png/revision/latest?cb=20231223055537)<br>日文：セルジュ<br>所属作品: `fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Cherche) |
 | lissa | 莉兹 | ![](https://static.wikia.nocookie.net/fireemblem/images/3/37/Lissa_FE13_Artwork.png/revision/latest?cb=20170221215104)<br>日文：リズ<br>所属作品：`fire emblem awakening` | [Fandom](https://fireemblem.fandom.com/wiki/Lissa) |
