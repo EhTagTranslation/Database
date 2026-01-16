@@ -1942,7 +1942,7 @@ example:
 | suzuka gozen | 铃鹿御前 |  |  |
 | tomoe gozen | 巴御前 |  |  |
 | xuanzang | 玄奘 |  |  |
-| fujino asagami | 浅上藤乃 |  |  |
+| fujino asagami | 浅上藤乃 | ![](https://ehgt.org/w/02/192/71389-5wp8s2kd.webp)<br>出自作品：`p:kara no kyoukai`<br><br>淺上藤乃是小說《空之境界》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/浅上藤乃) |
 | mikiya kokutou | 黑桐干也 |  |  |
 | azaka kokutou | 黑桐鲜花 |  |  |
 | ibaraki douji | 茨木童子 | ![图](https://ehgt.org/2f/f0/2ff02d6d90de4d6a9664dea64c6e8dd319861476-2784584-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/茨木童子%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/茨木童子) |
