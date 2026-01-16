@@ -13584,6 +13584,7 @@ example:
 | purintai | ぷりんたい |  |  |
 | kugatsu nagatsu | 九月ナガツ |  |  |
 | fuwafuwa soda | ふわふわソーダ |  |  |
+| nino izm | Nino\_izm |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
