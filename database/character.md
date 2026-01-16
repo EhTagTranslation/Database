@@ -6690,7 +6690,7 @@ example:
 | nicole watterson | 妮蔻·沃特森 | 甘宝、达尔文和安安的妈妈，是一只蓝色的猫。在镇上的彩虹工厂上班。 |  |
 | tina howard | 蒂娜·霍华德 | ![](https://koujodenka-anime.com/_astro/body.BxSYonlJ_1qjs2V.webp)<br>所属作品：`koujo denka no kateikyoushi`<br>ティナ・ハワード<br>虽出生在四大公爵家，却无法使用任何魔法，而被当成“霍华德家的禁忌之子”蔑视。 |  |
 | lisara restall | 莉萨拉·雷斯托 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cd/8c/16397_crt_95aAK.jpg?r=1551006265) |  |
-| eve 07 | 伊芙（剑星） | ![](https://i.pixiv.cat/img-master/img/2025/09/01/11/14/18/134583450_p0_master1200.jpg)<br>单机游戏《剑星》中的女主角。<br>要注意eve 07与`c:eve`的区分，eve 07 特指剑星中的伊芙。 |  |
+| eve 07 | 伊芙（剑星） | ![](https://i.pixiv.cat/img-master/img/2025/09/01/11/14/18/134583450_p0_master1200.jpg)<br>单机游戏《`stellar blade`》中的女主角。<br>要注意eve 07与`c:eve`的区分，eve 07 特指剑星中的伊芙。 |  |
 | nowa sugaya | 菅谷乃羽 | ![](https://i.pixiv.cat/img-master/img/2025/08/28/22/18/03/134435132_p0_master1200.jpg)<br>所属作品：`sono bisque doll wa koi o suru`<br>性格开朗，绑着双马尾的少女，发色为内层红色挑染。<br>海梦等人的同班同学。海梦的好友之一。 | [萌娘百科](https://zh.moegirl.org.cn/菅谷乃羽) |
 | noelle silva | 诺艾儿·席尔瓦 | 田畠裕基所创作的漫画《黑色五叶草》及其衍生作品的登场角色。<br>魔法骑士团“黑色暴牛”的成员，做事拼命，为人坦率，态度高傲。王族“西尔法”家族的幺女。<br>![](https://img.moegirl.org.cn/common/c/c8/诺艾儿·西尔法.png) | [萌娘百科](https://zh.moegirl.org.cn/诺艾儿·西尔法#) |
 | il capitano | 「队长」卡皮塔诺 | 「队长」卡皮塔诺是游戏《`p:genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卡皮塔诺) |
