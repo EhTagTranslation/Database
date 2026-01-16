@@ -14634,6 +14634,7 @@ example:
 | jacket freak | JacketFreak |  |  |
 | se34tai | se34tai |  |  |
 | intruder | 闯入者 |  | [pixiv](https://www.pixiv.net/users/11754253) |
+| nanashi no chinpoppu | 名無しのチンポップ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
