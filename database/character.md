@@ -8183,6 +8183,7 @@ example:
 | moemi hayakawa | 早川萌美 | ![](https://ehgt.org/08/15/0815c64f8bc78b49eff77cf77b27e68c94247b0b-566300-1154-1600-jpg_250.jpg)<br>出自作品：`p:video girl ai`<br><br>早川萌美（早川 もえみ Hayakawa Moemi，又译：早川燃美、早川枫）弄内洋太暗恋的同班同学，美丽大方，温柔可爱，是少男们典型的梦中情人。她对同班同学新舞贵志情有独钟，并没有发现洋太对她的爱，反而把洋太当作倾诉心声的好友，请洋太帮助她解决爱情烦恼。而洋太也始终对她念念不忘，因此非常痛苦。故事中段，因为台风日遇袭事件，她与贵志彻底分手，接受了洋太的爱意。后来洋太的心转向了天野爱，她曾尽一切努力要夺回洋太的心，却终于不得不承认洋太和小爱才是一对，自己退出。 | [百度百科](https://baike.baidu.com/item/電影少女/75760?noadapt=1#3-2) |
 | lucia elowen | 卢西娅·艾洛温 | ![](https://ehgt.org/w/02/099/51741-sillgw9a.webp)<br>出自作品：`p:zenless zone zero`<br><br>卢西娅·艾洛温是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卢西娅·艾洛温) |
 | ulti | 润媞 | ![](https://ehgt.org/w/01/969/97198-az5rgk4d.webp)<br>出自作品：`p:one piece`<br><br>润媞，日本漫画《航海王》及其衍生作品角色，百兽海贼团最强的6名真打“飞六胞”之一，佩吉万的姐姐，姐弟俩从小被凯多收养。动物系·龙龙果实·古代种·肿头龙形态能力者，悬赏金为4亿贝里。个性可爱、天然呆，但脾气暴躁，说话特别尖酸刻薄。 | [百度百科](https://baike.baidu.com/item/润媞/49941241) |
+| margo housho | 宝生玛格 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/21/Margo.png)<br>日语: 宝生マーゴ<br>所属游戏:`mahou shoujo no majo saiban` | [萌娘百科](https://zh.moegirl.org.cn/宝生玛格) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
