@@ -13586,6 +13586,7 @@ example:
 | fuwafuwa soda | ふわふわソーダ |  |  |
 | nino izm | Nino\_izm |  |  |
 | nikomic ramen | NikomiC Ramen |  |  |
+| mint-nium | Mint-nium\* |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
