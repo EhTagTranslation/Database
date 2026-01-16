@@ -6479,7 +6479,7 @@ example:
 | tosa | 土佐(䲠) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/d2be5c7064c51582a24e204601da9d31262400697.png) | [百度百科](https://baike.baidu.com/item/土佐/59042731) |
 | sorahoshi kirame | 空星煌 | 空星煌是`p:nijisanji`所属的，于2020年7月11日在YouTube开始活动的VTuber。<br><br>梦想在大舞台上大显身手的高中生。<br>为了用自己的力量实现梦想，跃入了这个世界。<br>现在的目标是让相关的人都能露出笑容。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Sorahoshi_Kirame) [萌娘百科](https://zh.moegirl.org.cn/空星煌) [HP](https://www.nijisanji.jp/talents/l/kirame-sorahoshi) |
 | suzumiya suzume | 雀宮すずめ |  | [X](https://x.com/suzumiyasuzume) [哔哩哔哩](https://space.bilibili.com/6610851) |
-| teto kasane | 重音teto |  |  |
+| teto kasane | 重音teto | ![](https://ehgt.org/w/02/192/65361-ik3grya6.webp)<br><br>重音Teto（日语：重音（かさね） テト）是2008年的愚人节前夕，由匿名留言板2ch的用户们创作的虚拟偶像，作为愚人节的玩笑。后来以此设定为基础，制作了免费软件UTAU的音源。 | [萌娘百科](https://zh.moegirl.org.cn/重音Teto) |
 | shu ouma | 樱满集 | ![](https://static.wikia.nocookie.net/guiltycrown/images/3/3b/Armless_Shuu_determined.jpg)<br>所属作品：`guilty crown` |  |
 | hare menjou | 校条祭 | ![](https://static.wikia.nocookie.net/guiltycrown/images/9/95/Guilty_Crown_-_08_-_Large_07.jpg)<br>所属作品：`guilty crown` |  |
 | vivian banshee | 薇薇安·班希 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/04/18/15559334/8319b24c3066e8ca1ba042932e25ff14_2284717965088394307.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/10/15/73751405/15b7ed8732fa11fa757c07a7f80c7557_6088032687845312202.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/薇薇安·班希) |
