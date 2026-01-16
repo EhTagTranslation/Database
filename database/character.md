@@ -8184,6 +8184,7 @@ example:
 | lucia elowen | 卢西娅·艾洛温 | ![](https://ehgt.org/w/02/099/51741-sillgw9a.webp)<br>出自作品：`p:zenless zone zero`<br><br>卢西娅·艾洛温是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卢西娅·艾洛温) |
 | ulti | 润媞 | ![](https://ehgt.org/w/01/969/97198-az5rgk4d.webp)<br>出自作品：`p:one piece`<br><br>润媞，日本漫画《航海王》及其衍生作品角色，百兽海贼团最强的6名真打“飞六胞”之一，佩吉万的姐姐，姐弟俩从小被凯多收养。动物系·龙龙果实·古代种·肿头龙形态能力者，悬赏金为4亿贝里。个性可爱、天然呆，但脾气暴躁，说话特别尖酸刻薄。 | [百度百科](https://baike.baidu.com/item/润媞/49941241) |
 | margo housho | 宝生玛格 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/21/Margo.png)<br>日语: 宝生マーゴ<br>所属游戏:`mahou shoujo no majo saiban` | [萌娘百科](https://zh.moegirl.org.cn/宝生玛格) |
+| coco sawatari | 泽渡可可 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b9/可可正常立绘.png)<br>日语: 沢渡ココ (サワタリ ココ)<br>所属游戏:`mahou shoujo no majo saiban`<br><br>毒舌主播<br>有超模的千里眼能力，但本人太拉跨 | [萌娘百科](https://zh.moegirl.org.cn/泽渡可可) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
