@@ -2698,6 +2698,7 @@ example:
 | yuuki bakuhatsu bang bravern | 勇气爆发Bang Bravern | ![](https://thumbsnap.com/i/LxJbHGHq.jpg)<br>《勇气爆发BANG BRAVERN》（日语：勇気爆発バーンブレイバーン）是由CygamesPictures制作的一部原创动画，于2024年1月11日播出。 | [萌娘百科](https://zh.moegirl.org.cn/勇气爆发BANG_BRAVERN) \| [维基百科](https://zh.wikipedia.org/wiki/勇氣爆發Bang_Bravern) |
 | lies of p | 匹诺曹的谎言 | ![](https://static.wikia.nocookie.net/lies-of-p/images/f/f4/Lies_of_P_Cover.png)<br>《匹诺曹的谎言》是由NEOWIZ开发制作的一款角色扮演类游戏作品。 |  |
 | darwins game | 达尔文游戏 | ![](https://static.wikia.nocookie.net/darwins-game/images/6/6e/Flag_Game_Cover.jpg)<br>《达尔文游戏》 是FLIPFLOPs创作的漫画，由ぎんこ担任原作、高畑ゆき负责作画。 | [百度百科](https://baike.baidu.com/item/达尔文游戏/7048172) |
+| dragons dogma | 龙之信条 | ![](https://thumbsnap.com/i/6S9Yp6pk.jpg)<br>《龙之信条》（日语：ドラゴンズ ドグマ，英语：Dragon's Dogma）是由日本游戏公司卡普空开发并发行的动作角色扮演游戏。 | [萌娘百科](https://zh.moegirl.org.cn/龙之信条) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
