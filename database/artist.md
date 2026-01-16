@@ -11765,7 +11765,7 @@ example:
 | youichirou w | よーいちろーW |  |  |
 | youjomodoki | ヨウジョモドキ |  |  |
 | youka | よーか |  |  |
-| youkan | ようかん |  |  |
+| youkan | ようかん |  | [pixiv](https://www.pixiv.net/users/59439630) |
 | youma kachie | 夜馬勝絵 |  |  |
 | youtou sadamitsu | 妖刀定光 |  |  |
 | yowashi | よわし |  |  |
