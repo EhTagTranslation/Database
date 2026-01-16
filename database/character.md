@@ -5167,7 +5167,7 @@ example:
 | ami nonomura | 野野村亚美 | 野々村亜美是成人动漫《`p:cream lemon`》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。 | [Fandom](https://cream-lemon.fandom.com/wiki/Ami_Nonomura) [pixiv](https://dic.pixiv.net/a/野々村亜美) |
 | indomitable | 不挠 \| 不屈 | ①不挠<br>![](https://i2.hdslb.com/bfs/new_dyn/990b370c3cb928c56de3e75f8924b8b0262400697.png)<br>所属作品：`azur lane`<br>其原型为英国皇家海军光辉级航空母舰4号舰不挠号。<br>②不屈之玛丽<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1104/h_1748/245/72324/2025/2/19/317572.png)<br>所属作品：`last origin` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:不挠) |
 | kurumi tsuchimikado | 土御门胡桃 |  | [萌娘百科](https://zh.moegirl.org.cn/土御门胡桃) |
-| ada wong | 艾达·王 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1634/h_3417/1253/4408/2025/8/25/66085.png)<br>艾达·王（英语：Ada Wong）是Capcom旗下的游戏《`resident evil`》及其衍生作品的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/艾達·王) [萌娘百科](https://zh.moegirl.org.cn/艾达·王) |
+| ada wong | 艾达·王 | ![](https://ehgt.org/w/02/147/35078-kyeu1dvo.webp)<br>出自作品：`p:resident evil`<br><br>艾达·王（英语：Ada Wong）是Capcom旗下的游戏《`resident evil`》及其衍生作品的登场角色。 | [维基百科](https://zh.wikipedia.org/wiki/艾達·王) [萌娘百科](https://zh.moegirl.org.cn/艾达·王) |
 | yamato takeru | 大和武尊 | 日本武尊是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。 | [萌娘百科](https://zh.moegirl.org.cn/日本武尊%28Fate%29#) |
 | wriothesley | 莱欧斯利 | 莱欧斯利是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯利) |
 | rin uehara | 上原燐 |  |  |
