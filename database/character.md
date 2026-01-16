@@ -6656,7 +6656,7 @@ example:
 | danjin | 丹瑾 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/b/bc/675m44g9cj3pcsdeittzw0fb208al2m.png/511px-Mc_wiki_role_danjin_x1500.png)<br>所属作品：`wuthering waves`<br>游侠丹瑾，能将自身血液凝结成绯色的复仇之刃。<br>执绯刃，明是非，灭贼寇，走天涯。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/丹瑾) |
 | yomi isayama | 谏山黄泉 | 漫画《食灵》及其衍生作品中的角色。![](https://lain.bgm.tv/r/400/pic/crt/l/97/3a/11188_crt_APC9A.jpg) |  |
 | durga | 杜尔迦 | TYPE-MOON旗下手机游戏《Fate/Grand Order》中的五星弓兵角色。![](https://media.fgo.wiki/thumb/2/22/杜尔伽初始.png/428px-杜尔伽初始.png) | [https://fgo.wiki/w/杜尔伽](https://fgo.wiki/w/杜尔伽) |
-| marianne von edmund | 玛莉安奴·冯·艾德蒙 | 游戏《火焰之纹章 风花雪月》及其衍生作品的登场角色之一。![](https://img.moegirl.org.cn/common/thumb/7/73/玛莉安奴-五年前.png/420px-玛莉安奴-五年前.png) | [萌娘百科](https://zh.moegirl.org.cn/玛莉安奴·冯·艾德蒙) |
+| marianne von edmund | 玛莉安奴·冯·艾德蒙 | 游戏《`fire emblem three houses`》及其衍生作品的登场角色之一。<br>![](https://img.moegirl.org.cn/common/thumb/7/73/玛莉安奴-五年前.png/420px-玛莉安奴-五年前.png) | [萌娘百科](https://zh.moegirl.org.cn/玛莉安奴·冯·艾德蒙) |
 | atri | 亚托莉 | ANIPLEX.EXE企划发行的由Front Wing和枕社联合制作的视觉小说《ATRI -My Dear Moments-》的女主角，夏生从海底打捞起来的机器人少女 。![](https://img.moegirl.org.cn/common/thumb/5/56/Img_atri.png/420px-Img_atri.png) | [萌娘百科](https://zh.moegirl.org.cn/亚托莉) |
 | huyan zhuo | 呼延灼 |  |  |
 | ronova | 若娜瓦 | ![](https://ehgt.org/w/01/960/55743-rw58c9ro.webp)<br>所属作品：`genshin impact`<br>代表天理意志的其中一位使者，存在时间比任何魔神都要悠久，掌握的力量是“死亡”，被称为“死之执政”。 | [百度百科](https://baike.baidu.com/item/若娜瓦/64846277) |
