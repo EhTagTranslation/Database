@@ -3224,7 +3224,7 @@ example:
 | jinx | 金克丝（暴走萝莉） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/6/6e/ct2z0uaz7qk8i07sm2w69n516yk5n2u.jpg) | [萌娘百科](https://zh.moegirl.org.cn/金克丝) |
 | lex luthor | 莱克斯·卢瑟 |  |  |
 | poison ivy | 毒藤女 |  |  |
-| raven | 渡鸦 |  | [百度百科](https://baike.baidu.com/item/渡鸦/19910624) |
+| raven | 渡鸦 | ![](https://ehgt.org/w/02/181/72630-is1q1mb3.webp)<br>出自作品：`p:teen titans`<br><br>渡鸦（Raven）是美国DC漫画旗下的超级英雄，初次登场于《DC漫画呈现》（DC Comics Presents）第26期（1980年10月），由作家马文·沃夫曼（Marv Wolfman）以及画师George Perez联合创造。化名瑞秋·罗斯（Rachel Roth），是黑暗正义联盟（Justice League Dark）和少年泰坦（Teen Titans）成员。在新52重启之前的经历可以基本由她的三次生命来区分。 | [百度百科](https://baike.baidu.com/item/渡鸦/19910624) |
 | terra | 泰拉 |  |  |
 | black canary | 黑金丝雀 |  |  |
 | cheetah | 豹女 |  |  |
