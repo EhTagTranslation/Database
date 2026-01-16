@@ -392,7 +392,7 @@ example:
 | i-168 | 伊168(伊吕波) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/995d70bf3a1496247c49e7ee3ddf7b7d262400697.png)<br>旧日本帝国海军的伊号第百六十八潜水舰（伊号第百六十八潜水艦） | [碧蓝航线:伊168](https://zh.moegirl.org.cn/碧蓝航线:伊168) [舰队Collection:伊168](https://zh.moegirl.org.cn/舰队Collection:伊168) |
 | i-58 | 伊58(冴矢) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/1d376cc8849b5a3cf600fd9e793d1334262400697.png)<br>旧日本帝国海军的B3级潜艇“伊58”(伊号第五十八潜水艦) | [碧蓝航线:伊58](https://zh.moegirl.org.cn/碧蓝航线:伊58) [舰队Collection:伊58](https://zh.moegirl.org.cn/舰队Collection:伊58) |
 | i-8 | 伊8 |  | [舰队Collection:伊8](https://zh.moegirl.org.cn/舰队Collection:伊8) |
-| yamato | 大和 |  | [舰队Collection:大和](https://zh.moegirl.org.cn/舰队Collection:大和) |
+| yamato | 大和 | ①舰队Collection:大和<br>出自作品：`p:kantai collection`<br>大和是角川游戏所开发的卡牌类网页游戏《舰队Collection》（艦隊これくしょん -艦これ-）及其衍生作品的登场角色。<br>![](https://ehgt.org/w/00/821/85827-qv9i0x82.webp)<br><br>②大和(海贼王)<br>出自作品：`p:one piece`<br>漫画《海贼王》的登场角色，四皇凯多的女儿。<br>![](https://ehgt.org/w/01/556/53138-p6kj7cf8.webp) | [舰队Collection:大和](https://zh.moegirl.org.cn/舰队Collection:大和) |
 | akigumo | 秋云 |  | [舰队Collection:秋云](https://zh.moegirl.org.cn/舰队Collection:秋云) |
 | yuugumo | 夕云 |  | [舰队Collection:夕云](https://zh.moegirl.org.cn/舰队Collection:夕云) |
 | makigumo | 卷云 |  | [舰队Collection:卷云](https://zh.moegirl.org.cn/舰队Collection:卷云) |
