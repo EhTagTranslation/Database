@@ -14636,6 +14636,7 @@ example:
 | intruder | 闯入者 |  | [pixiv](https://www.pixiv.net/users/11754253) |
 | nanashi no chinpoppu | 名無しのチンポップ |  |  |
 | tuberose kotoki | 狐刻 |  |  |
+| rude frog | Rude Frog |  | [X](https://x.com/RF42__) \| [Patreon](https://www.patreon.com/rude_frog) |
 
 <!--TEMPLATE:
 |  |  |  |  |
