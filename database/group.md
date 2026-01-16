@@ -13585,6 +13585,7 @@ example:
 | kugatsu nagatsu | 九月ナガツ |  |  |
 | fuwafuwa soda | ふわふわソーダ |  |  |
 | nino izm | Nino\_izm |  |  |
+| nikomic ramen | NikomiC Ramen |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
