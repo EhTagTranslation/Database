@@ -6093,7 +6093,7 @@ example:
 | sanhua | 散华 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/2/2e/1ejnlvn1tpa8fv98plpnr95p9lw082v.png/542px-Mc_wiki_role_sanhua_x1500.png)<br>所属作品：`wuthering waves`<br>散华是会带来灾难的修罗，也是寡言的守护者，散华所观察到的世界和正常认知存在较大差异，体温也低于常人，可以降低四周气温，召唤冰雪。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/散华) |
 | jacques de molay | 雅克·德·莫莱 | 日语：ジャック・ド・モレー<br>TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。Foreigner职阶的从者，圣殿骑士团第23任大团长，同时也是最后一任大团长。 | [萌娘百科](https://zh.moegirl.org.cn/雅克·德·莫莱%28Fate/Grand_Order%29#) |
 | kaya ogasawara | 小笠原香耶 |  |  |
-| louhi | 娄希 |  |  |
+| louhi | 娄希 | ![](https://ehgt.org/w/01/915/61243-pnkci4z3.webp)<br>出自作品：`p:fate grand order`<br><br>娄希是手机游戏《Fate/Grand Order》于2024年12月限时活动中实装的五星狂阶从者。其背景设定为统治北国波赫约拉的女主人，象征极北之地的灾厄，具有强大魔力且敌视贤者诗人万奈摩宁 。角色拥有前置宝具威力提升、自充与群体充能能力，在周回与高难副本中表现优异，截至2024年12月被评价为顶级绿卡打手。其羁绊礼装通过宴会场景进一步丰富人物形象，强化团队辅助能力。 | [百度百科](https://baike.baidu.com/item/娄希/65193443) |
 | hatsuho kazami | 风见初穗 |  | [Bangumi](https://bgm.tv/character/3488) |
 | astra yao | 耀嘉音 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/22/76099754/8bc5fdc017453a8d4eb711f7756cea9f_1290939657669864460.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/16/15559334/42e581cb3828278a6d79867a165df819_6472892422375142685.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/耀嘉音) |
 | tomoe | 巴 | 巴，女，日本轻小说《月光下的异世界之旅》及其衍生作品中的角色。 |  |
