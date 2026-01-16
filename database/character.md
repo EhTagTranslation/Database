@@ -8181,6 +8181,7 @@ example:
 | florian | 小春 | ![](https://ehgt.org/w/01/108/80345-j4rhyjyu.webp)<br>出自作品：`p:pokemon`<br><br>小春（日语：ハルト，英语：Florian）是《宝可梦系列》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小春%28宝可梦%29#) |
 | paldea mom | 帕底亚 | ![](https://ehgt.org/w/01/906/46029-4qrlo8z8.webp)<br>出自作品：`p:pokemon`<br><br>帕底亚是小春和小青的母亲。 | [wiki.52poke](https://wiki.52poke.com/wiki/妈妈（帕底亚）) |
 | moemi hayakawa | 早川萌美 | ![](https://ehgt.org/08/15/0815c64f8bc78b49eff77cf77b27e68c94247b0b-566300-1154-1600-jpg_250.jpg)<br>出自作品：`p:video girl ai`<br><br>早川萌美（早川 もえみ Hayakawa Moemi，又译：早川燃美、早川枫）弄内洋太暗恋的同班同学，美丽大方，温柔可爱，是少男们典型的梦中情人。她对同班同学新舞贵志情有独钟，并没有发现洋太对她的爱，反而把洋太当作倾诉心声的好友，请洋太帮助她解决爱情烦恼。而洋太也始终对她念念不忘，因此非常痛苦。故事中段，因为台风日遇袭事件，她与贵志彻底分手，接受了洋太的爱意。后来洋太的心转向了天野爱，她曾尽一切努力要夺回洋太的心，却终于不得不承认洋太和小爱才是一对，自己退出。 | [百度百科](https://baike.baidu.com/item/電影少女/75760?noadapt=1#3-2) |
+| lucia elowen | 卢西娅·艾洛温 | ![](https://ehgt.org/w/02/099/51741-sillgw9a.webp)<br>出自作品：`p:zenless zone zero`<br><br>卢西娅·艾洛温是由米哈游所制作的游戏《绝区零》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/卢西娅·艾洛温) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
