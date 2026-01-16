@@ -302,7 +302,7 @@ example:
 |  | ▲最终幻想 系列 |  |  |
 | kill me baby | 爱杀宝贝 |  |  |
 | shinryaku ika musume | 侵略！乌贼娘 |  |  |
-| one piece | 海贼王 |  |  |
+| one piece | 海贼王 | ![](https://thumbsnap.com/i/p4DcW9nU.jpg)<br>《ONE PIECE》是由尾田荣一郎创作的一部长篇连载漫画，1997年34号在《周刊少年Jump》开始连载。描写了拥有橡皮身体戴草帽的青年路飞，以成为“海贼王”为目标和同伴在大海展开冒险的故事。 | [萌娘百科](https://zh.moegirl.org.cn/海贼王) |
 | dragon ball | 龙珠 |  |  |
 | dragon ball z | 龙珠Z |  |  |
 | dragon ball gt | 龙珠GT |  |  |
