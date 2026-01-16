@@ -1968,7 +1968,7 @@ example:
 | chacha | 恰恰 \| 茶茶 | `akazukin chacha`<br>![图](https://ehgt.org/fd/27/fd272814ec88e271508942efb9d0595461b397c9-423558-720-1012-jpg_l.jpg)<br><br>`fate grand order` 茶茶<br>![图](https://ehgt.org/eb/99/eb99d5cc4439ebfe63f836c17684a6fc0b807575-2441638-1024-1448-png_l.jpg) | [恰恰 - 萌娘百科](https://zh.moegirl.org.cn/小红帽恰恰) [茶茶 - 萌娘百科](https://zh.moegirl.org.cn/茶茶%28Fate%29#) |
 | lavinia whateley | 拉薇妮亚·沃特雷 |  |  |
 | artoria pendragon rider alter | 阿尔托莉雅·潘德拉贡〔Alter〕（Rider） |  |  |
-| katsushika hokusai | 葛饰北斋 | ![图](https://ehgt.org/e8/cc/e8ccea19028bed78c6fafa4710cf7b5da057cc16-2657507-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/葛饰北斋) [萌娘百科](https://zh.moegirl.org.cn/葛饰北斋%28Fate%29#) |
+| katsushika hokusai | 葛饰北斋 | ![图](https://ehgt.org/e8/cc/e8ccea19028bed78c6fafa4710cf7b5da057cc16-2657507-1024-1448-png_l.jpg)<br>出自作品：`p:fate grand order`<br><br>葛饰北斋是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。 | [Mooncell](http://www.fgo.wiki/w/葛饰北斋) [萌娘百科](https://zh.moegirl.org.cn/葛饰北斋%28Fate%29#) |
 | saint martha | 玛尔达 | ![图](https://ehgt.org/54/3d/543d726588b7b40ffc89612938edad9dfc1b232a-2396129-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛尔达%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛尔达) |
 | murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
 |  | ▼ 刀剑神域 |  |  |
