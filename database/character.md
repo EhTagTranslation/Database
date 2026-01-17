@@ -8203,6 +8203,7 @@ example:
 | dalia matsuyama | 松山达利亚 | ![](https://static.wikia.nocookie.net/d4dj/images/9/96/Dalia_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Matsuyama_Dalia) |
 | maho akashi | 明石真秀 | ![](https://static.wikia.nocookie.net/d4dj/images/5/59/Maho-illust-new.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Akashi_Maho) |
 | muni ohnaruto | 大鸣门梦妮 | ![](https://static.wikia.nocookie.net/d4dj/images/6/69/Muni-illust-new.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Ohnaruto_Muni) |
+| rinku aimoto | 爱本凛久 | ![](https://static.wikia.nocookie.net/d4dj/images/f/f2/Rinku_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Aimoto_Rinku) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
