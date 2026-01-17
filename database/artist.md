@@ -5397,7 +5397,7 @@ example:
 | great daikon | グレイト大根 |  |  |
 | great magami | グレート魔神 |  |  |
 | grey fisher | グレイ・フィッシャー |  |  |
-| grifon | GRIFON | 三顕人<br>三木大路 |  |
+| grifon | 三木大路 | 三顕人 \| 三木大路 \| GRIFON |  |
 | grimmelkin | グリムメルキン |  |  |
 | ground | GROUND |  |  |
 | grune | Grune |  |  |
