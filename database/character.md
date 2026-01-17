@@ -8201,6 +8201,7 @@ example:
 | rika seto | 濑户梨花 | ![](https://static.wikia.nocookie.net/d4dj/images/6/69/Rika_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Seto_Rika) |
 | marika mizushima | 水岛茉莉花 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d4/Marika_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Mizushima_Marika) |
 | dalia matsuyama | 松山达利亚 | ![](https://static.wikia.nocookie.net/d4dj/images/9/96/Dalia_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Matsuyama_Dalia) |
+| maho akashi | 明石真秀 | ![](https://static.wikia.nocookie.net/d4dj/images/5/59/Maho-illust-new.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Akashi_Maho) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
