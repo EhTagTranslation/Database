@@ -6341,7 +6341,7 @@ example:
 | lupusregina beta | 露普斯蕾琪娜·贝塔 |  |  |
 | renner theiere chardelon ryle vaiself | 拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙 |  |  |
 | pardofelis | 帕朵菲利斯 | 崩坏三登场角色，逐火之蛾十二英桀末位。<br>名称来源为 拉丁语 felicitas somnium. (幸福之梦）。 |  |
-| maiden | 梅登 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/17/409514.png)<br>所属作品`p:goddess of victory nikke`<br>勇者吉萝婷的第一位同伴，名为「冰玫瑰」。 | [https://www.gamekee.com/nikke/tj/167401.html](https://www.gamekee.com/nikke/tj/167401.html) |
+| maiden | 梅登 | ![](https://ehgt.org/w/01/776/59790-o35g36g5.webp)<br>所属作品`p:goddess of victory nikke`<br>勇者吉萝婷的第一位同伴，名为「冰玫瑰」。 | [gamekee](https://www.gamekee.com/nikke/tj/167401.html) |
 | cartethyia | 卡提希娅 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/e/e0/r52fa0bvjnd5dmtjwccpehvj3wtx24g.png/516px-角色_卡提希娅_立绘.png)<br>所属作品：`wuthering waves`<br>于黎那汐塔四处旅行的流浪骑士卡提希娅。她是曾经的圣女，是神之容器，是风潮之王。她曾被唤作芙露德莉斯，但现在，她只是一介自由自在的流浪骑士。 | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/卡提希娅) |
 | honami ichinose | 一之濑帆波 | ![](https://img.moegirl.org.cn/common/d/d1/Ichinose_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>寄托了B班班主任星之宫知惠全部信赖的女生，有着在短时间内把支离破碎的B班团结起来的率直性格和很高的能力。有着出众外貌的同时，社交能力也很完美，作为一年B班的代表在全年级都拥有着极高的人气。 | [萌娘百科](https://zh.moegirl.org.cn/一之濑帆波) |
 | himmel | 辛美尔 |  | [萌娘百科](https://zh.moegirl.org.cn/辛美尔) |
