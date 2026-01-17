@@ -13589,6 +13589,7 @@ example:
 | mint-nium | Mint-nium\* |  |  |
 | moe push | もえぷっしゅ |  |  |
 | ogon shinshi club | 黄金紳士倶楽部 |  |  |
+| silk scarf | シルクスカーフ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
