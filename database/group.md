@@ -13593,7 +13593,7 @@ example:
 | pikapika hallucinate | ぴかぴかハルシネイト |  |  |
 | boin-do | 母印堂 |  |  |
 | corruprotocol | Corruprotocol |  |  |
-| pride beans | プライドビーンズ |  |  |
+| pride beans | プライドビーンズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52418.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
