@@ -14647,6 +14647,7 @@ example:
 | mujikami | Mujikami |  |  |
 | cielobivolta | CieloBivolta |  | [X](https://x.com/BivoltaCielo) \| [pixiv](https://www.pixiv.net/users/58227125) |
 | dodok | Dodok |  | [X](https://x.com/forododo) \| [Gumroad](https://app.gumroad.com/dodok) \| [Patreon](https://www.patreon.com/dodok) \| [FANBOX](https://asysfr5p.fanbox.cc/) |
+| sabamint | さばみんと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
