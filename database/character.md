@@ -8205,6 +8205,7 @@ example:
 | muni ohnaruto | 大鸣门梦妮 | ![](https://static.wikia.nocookie.net/d4dj/images/6/69/Muni-illust-new.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Ohnaruto_Muni) |
 | rinku aimoto | 爱本凛久 | ![](https://static.wikia.nocookie.net/d4dj/images/f/f2/Rinku_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Aimoto_Rinku) |
 | tsubaki aoyagi | 青柳椿 | ![](https://static.wikia.nocookie.net/d4dj/images/9/9a/Tsubaki_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Aoyagi_Tsubaki) |
+| mina ashiro | 亚白米娜 | ![](https://static.wikia.nocookie.net/kaijuu-8-gou/images/1/1b/Mina_Ashiro_anime_render.png)<br>所属作品：`kaijuu 8-gou`<br>防卫队第三部队队长。 | [Fandom](https://kaiju-no-8.fandom.com/wiki/Mina_Ashiro) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
