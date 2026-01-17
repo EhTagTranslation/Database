@@ -3729,7 +3729,7 @@ example:
 | lilia greyrat | 莉莉雅·格雷拉特 | ![](https://ehgt.org/w/02/048/53511-oxi2tbl1.webp)<br>所属作品：`mushoku tensei` |  |
 | hakunon | 岸波白野（女） | ![图](https://ehgt.org/3d/0e/3d0e4a655b9e533b2c7085391b69e5bcafaf2d4d-2786579-1024-1750-png_l.jpg)<br>岸波白野是TYPE-MOON旗下游戏《`fate extra`》及其衍生作品的登场角色。也登场于《`fate grand order`》。<br>别号：扎比(Francis Xavier)、奏者、小猪仔/小松鼠、岸浪ハクノ | [萌娘百科](https://zh.moegirl.org.cn/岸波白野) |
 | yoshikage kira | 吉良吉影 |  |  |
-| fuka toyokawa | 丰川风花 |  |  |
+| fuka toyokawa | 丰川风花 | ![](https://ehgt.org/w/00/680/81146-49lidobe.webp)<br>出自作品：`p:the idolmaster`<br><br>丰川风花（日语：豊川（とよかわ） 風花（ふうか））是BNEI开发、由GREE运营的手机社群游戏《偶像大师 百万现场》和BNEI开发运营的手机音乐游戏《偶像大师 百万现场 剧场时光》中的前护士偶像。 | [萌娘百科](https://zh.moegirl.org.cn/丰川风花) |
 | kana yabuki | 矢吹可奈 |  |  |
 | ayumu maihama | 舞浜歩 |  |  |
 | sekai kamiki | 神木世海 |  |  |
