@@ -8195,6 +8195,7 @@ example:
 | saki izumo | 出云咲姬 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d5/Saki_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Izumo_Saki) |
 | noa fukushima | 福岛诺亚 | ![](https://static.wikia.nocookie.net/d4dj/images/b/bf/Noa_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Fukushima_Noa) |
 | ibuki niijima | 新岛衣舞纪 | ![](https://static.wikia.nocookie.net/d4dj/images/1/18/Ibuki_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Niijima_Ibuki) |
+| rio kanzaki | 神崎莉央 | ![](https://static.wikia.nocookie.net/idoly-pride/images/0/02/Kanzaki_Rio_7.png)<br>所属作品：`idoly pride` | [Fandom](https://idoly-pride.fandom.com/wiki/Rio_Kanzaki#Anime) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
