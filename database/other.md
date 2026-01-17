@@ -52,7 +52,7 @@ example:
 | ai generated | AI生成 | 标题中包含“[AI生成]”指示的图库。无法直接投票，当指示包含在标题中或重命名为包含在标题中时自动应用。当重命名图库以删除指示时，标签会自动删除。重命名必须遵循 [EHWiki](https://ehwiki.org/wiki/ai_generated) 的要求和格式。 |  |
 | anaglyph | 红蓝3D | 使用双色产生 3D 效果的图片。不应与`3d`和`stereoscopic`混淆。 |  |
 | animated | 动图 | 包含 GIF 动图的图库。 |  |
-| comic | 西方漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`作品，非色情内容不算。 |  |
+| comic | 西方漫画 | 一种西方色情作品，利用一系列格子来说明故事。通常包含文本气球。仅用于`western`与`misc`作品，非色情内容不算。对于西方非色情内容，请使用`o:western non-h`。 |  |
 | extraneous ads | 外部广告 | 未出现在原始作品中的一张或多张第三方广告/横幅。不应与`watermarked`或`scanmark`混淆。与作品的上传/扫描/上色/去码相关的广告（捐赠链接、网站或委托链接）不符合条件。不适用于原始作品中本就包含的广告。 |  |
 | figure | 手办 | 现实中的模型或人偶。 |  |
 | full color | 全彩 | 正文每一页都是彩色的。少数非故事页的非彩色图片不算在内。<br>不用于非`artbook`CG 集（无论是否为`western`CG 集）、`imageset`和`3d`图库，因为非彩色图像很少出现。<br>![图](https://ehgt.org/2a/02/2a02dc84a762746faca26ed3eb837fe86aa19f8d-231437-1287-1726-jpg_l.jpg) |  |
