@@ -532,7 +532,7 @@ example:
 | clamp | 夹具 | 用以起疼痛或性快感的，附着在身体上的一个或多个夹具。通常是指专门用于捆绑游戏的乳头或阴蒂夹具，但也可能涉及普通家居用品，如衣夹或装订夹。 |  |
 | glory hole | 寻欢洞 | 墙上用来进行性行为的洞。不应与`stuck in wall`或`wormhole`混淆。 |  |
 | machine | 机械奸 | 与机器做爱。不应与`robot`、`sex toys`和`mecha boy`混淆。 |  |
-| onahole | 飞机杯 | 一个人工阴道用来对阴茎`masturbation`。不应与`sex toys`混淆。<br>![图](# "https://ehgt.org/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg")![图](# "https://ehgt.org/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg")![图](# "https://ehgt.org/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg") |  |
+| onahole | 飞机杯 | 一个人工阴道用来对阴茎`masturbation`。需要`sex toys`标签。<br>![图](# "https://ehgt.org/e2/bd/e2bd9d61e07a9a463688de7ceb120e1f4f0c7b47-139251-827-900-jpg_250.jpg")![图](# "https://ehgt.org/c2/4c/c24cf28bcdde0b6e23f2a8202a8fdf718009002e-451597-1000-1400-jpg_l.jpg")![图](# "https://ehgt.org/f5/68/f5686327a332aea36c626826db356f14ef98b23b-709702-768-1024-png_l.jpg") |  |
 | pillory | 枷具 | 限制头部和手运动的装置，一般是木制的。需要`bondage`标签。 |  |
 | pole dancing | 钢管舞 | 与一根垂直杆一起跳舞，用于色情目的。 |  |
 | sex toys | 性玩具 | 用于性目的的玩具。不包括`strap-on`和`onahole`。<br>![图](# "https://ehgt.org/8a/7e/8a7e0b42d4bf07933b7046199a7420e5f02fb795-599401-1059-1500-jpg_l.jpg") |  |
