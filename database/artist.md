@@ -14645,6 +14645,7 @@ example:
 | royboy | RoyBoy |  |  |
 | nekuoneneko | ねくおねねこ |  |  |
 | mujikami | Mujikami |  |  |
+| cielobivolta | CieloBivolta |  | [X](https://x.com/BivoltaCielo) \| [pixiv](https://www.pixiv.net/users/58227125) |
 
 <!--TEMPLATE:
 |  |  |  |  |
