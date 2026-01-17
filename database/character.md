@@ -3287,7 +3287,7 @@ example:
 | parvati | 帕尔瓦蒂 |  |  |
 | okada izou | 冈田以藏 |  |  |
 | scathach skadi | 斯卡哈·斯卡蒂 |  |  |
-| caenis | 凯妮斯 |  |  |
+| caenis | 凯妮斯 | ![](https://ehgt.org/w/01/659/40415-bqvljoaf.webp)<br>出自作品：`p:fate grand order`<br><br>凱妮斯（日語：カイニス）是TYPE-MOON旗下Fate系列及其衍生作品中的登場角色，在遊戲《Fate/Grand Order》初登場。 | [萌娘百科](https://zh.moegirl.org.cn/凯妮斯%28Fate%29#) |
 | artoria caster | 阿尔托莉雅·卡斯特 | Caster·阿尔托莉雅，游戏《Fate/Grand Order》的登场人物，乃是妖精国不列颠中，来自星之内海的「乐园妖精（阿瓦隆·勒·菲）」。和泛人类史中的亚瑟王阿尔托莉雅·潘德拉贡是有着相同的面容但内在不同的少女。<br>![阿尔托莉雅·卡斯特](https://img.moegirl.org.cn/common/thumb/9/96/84526676_p0.png/375px-84526676_p0.png) | [萌娘百科](https://zh.moegirl.org.cn/阿尔托莉雅·卡斯特) |
 | atlanta | 亚特兰大 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/034be5ce10cdaee198b950857502d26f262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:亚特兰大) |
 | kadoc zemlupus | 卡多克·泽姆露普斯 |  |  |
