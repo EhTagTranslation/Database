@@ -14650,6 +14650,7 @@ example:
 | sabamint | さばみんと |  |  |
 | tatsukiti | タツキチ |  | [FANBOX](https://www.fanbox.cc/@tatsukiti0) |
 | kamin | 仮眠 |  | [pixiv](https://www.pixiv.net/users/59768037) |
+| bamgro | バングロー |  | [pixiv](https://www.pixiv.net/users/10355076) |
 
 <!--TEMPLATE:
 |  |  |  |  |
