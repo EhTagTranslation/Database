@@ -6865,7 +6865,7 @@ example:
 | mirei shikishima | 敷岛魅零 |  |  |
 | mamori tokonome | 处女守 |  |  |
 | gawain | 高文 |  |  |
-| indra | 因陀罗 |  |  |
+| indra | 因陀罗 | ![](https://patchwiki.biligame.com/images/arknights/7/7f/5ozsy60r2kmx79jjjn909uply3g1a7z.png)<br>出自作品：`p:arknights`<br><br>因陀罗，本名汉娜·“因陀罗”·杰克森，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/因陀罗%28明日方舟%29#) \| [BILIGAME WIKI](https://wiki.biligame.com/arknights/因陀罗) |
 | ordinary woman | 一般女性 |  |  |
 | scarlet el vandimion | 斯嘉丽·艾尔·范迪米昂 | ![](https://img.moegirl.org.cn/common/f/f2/斯卡蕾特·艾尔·班迪米昂.png)<br>所属作品：`saigo ni hitotsu dake onegai shite mo yoroshii deshou ka`<br>作为范迪米昂公爵家的千金，她因冷艳的外貌获称'冰之蔷薇'。 | [萌娘百科](https://zh.moegirl.org.cn/斯卡蕾特·艾尔·班迪米昂) |
 | isabel | 伊莎贝尔 | 所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/16/397176.png)<br>能在空中飞行的追捕者。性格执着，只要认定目标，无论是敌人还是恋人都绝不放过。 | [https://www.gamekee.com/nikke/tj/170852.html](https://www.gamekee.com/nikke/tj/170852.html) |
