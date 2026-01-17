@@ -14649,6 +14649,7 @@ example:
 | dodok | Dodok |  | [X](https://x.com/forododo) \| [Gumroad](https://app.gumroad.com/dodok) \| [Patreon](https://www.patreon.com/dodok) \| [FANBOX](https://asysfr5p.fanbox.cc/) |
 | sabamint | さばみんと |  |  |
 | tatsukiti | タツキチ |  | [FANBOX](https://www.fanbox.cc/@tatsukiti0) |
+| kamin | 仮眠 |  | [pixiv](https://www.pixiv.net/users/59768037) |
 
 <!--TEMPLATE:
 |  |  |  |  |
