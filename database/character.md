@@ -8208,6 +8208,7 @@ example:
 | mina ashiro | 亚白米娜 | ![](https://static.wikia.nocookie.net/kaijuu-8-gou/images/1/1b/Mina_Ashiro_anime_render.png)<br>所属作品：`kaijuu 8-gou`<br>防卫队第三部队队长。 | [Fandom](https://kaiju-no-8.fandom.com/wiki/Mina_Ashiro) |
 | irina jelavic | 伊莉娜·耶拉比琪 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/a/a9/Bitch_sensei_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>原为职业杀手后被派往椚丘中学3年E班担任英语教师，因名字发音被学生戏称为“bitch老师”。 | [百度百科](https://baike.baidu.com/item/伊莉娜·耶拉比琪/5714251) |
 | kaede kayano | 茅野枫 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/5/5d/Kayano_Kaede_Transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>椚丘中学3年E班转学生。 | [百度百科](https://baike.baidu.com/item/茅野枫/4538814) |
+| tadaomi karasuma | 乌间惟臣 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/7/71/Karasuma_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>三年E班名义上的班主任，实际是体育老师，副班主任。 | [百度百科](https://baike.baidu.com/item/乌间惟臣/6758150) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
