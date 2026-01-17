@@ -8206,6 +8206,7 @@ example:
 | rinku aimoto | 爱本凛久 | ![](https://static.wikia.nocookie.net/d4dj/images/f/f2/Rinku_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Aimoto_Rinku) |
 | tsubaki aoyagi | 青柳椿 | ![](https://static.wikia.nocookie.net/d4dj/images/9/9a/Tsubaki_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Aoyagi_Tsubaki) |
 | mina ashiro | 亚白米娜 | ![](https://static.wikia.nocookie.net/kaijuu-8-gou/images/1/1b/Mina_Ashiro_anime_render.png)<br>所属作品：`kaijuu 8-gou`<br>防卫队第三部队队长。 | [Fandom](https://kaiju-no-8.fandom.com/wiki/Mina_Ashiro) |
+| irina jelavic | 伊莉娜·耶拉比琪 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/a/a9/Bitch_sensei_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>原为职业杀手后被派往椚丘中学3年E班担任英语教师，因名字发音被学生戏称为“bitch老师”。 | [百度百科](https://baike.baidu.com/item/伊莉娜·耶拉比琪/5714251) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
