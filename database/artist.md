@@ -14651,6 +14651,7 @@ example:
 | tatsukiti | タツキチ |  | [FANBOX](https://www.fanbox.cc/@tatsukiti0) |
 | kamin | 仮眠 |  | [pixiv](https://www.pixiv.net/users/59768037) |
 | bamgro | バングロー |  | [pixiv](https://www.pixiv.net/users/10355076) |
+| yoshiyoshi-ya | よしよし屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53778.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
