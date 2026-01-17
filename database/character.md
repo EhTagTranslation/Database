@@ -8199,6 +8199,7 @@ example:
 | sumire okuyama | 奥山堇 | ![](https://static.wikia.nocookie.net/idoly-pride/images/e/e9/Okuyama_Sumire_6.png)<br>所属作品：`idoly pride` | [Fandom](https://idoly-pride.fandom.com/wiki/Sumire_Okuyama#Anime) |
 | saori hidaka | 日高沙织 | ![](https://static.wikia.nocookie.net/d4dj/images/2/25/Saori_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Hidaka_Saori) |
 | rika seto | 濑户梨花 | ![](https://static.wikia.nocookie.net/d4dj/images/6/69/Rika_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Seto_Rika) |
+| marika mizushima | 水岛茉莉花 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d4/Marika_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Mizushima_Marika) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
