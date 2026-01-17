@@ -8210,6 +8210,7 @@ example:
 | kaede kayano | 茅野枫 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/5/5d/Kayano_Kaede_Transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>椚丘中学3年E班转学生。 | [百度百科](https://baike.baidu.com/item/茅野枫/4538814) |
 | tadaomi karasuma | 乌间惟臣 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/7/71/Karasuma_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>三年E班名义上的班主任，实际是体育老师，副班主任。 | [百度百科](https://baike.baidu.com/item/乌间惟臣/6758150) |
 | karma akabane | 赤羽业 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/e/ed/Karma_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>喜欢恶作剧、个性嚣张的中二半少年。 | [百度百科](https://baike.baidu.com/item/赤羽业/1638479) |
+| manami okuda | 奥田爱美 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/9/9e/Okuda_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>理科高手，特别是化学。但在文科方面很差。尝试制作各种毒药给杀老师喝。 | [百度百科](https://baike.baidu.com/item/奥田爱美/15977865) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
