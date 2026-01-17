@@ -14640,6 +14640,7 @@ example:
 | yona | 杳奈 |  | [pixiv](https://www.pixiv.net/users/9341782) |
 | monobe | ものべ |  | [X](https://x.com/monobe_tsukuri/media) [pixiv](https://www.pixiv.net/users/13336149) |
 | furaimai | フライマイ |  |  |
+| jewel | jewel |  | [pixiv](https://www.pixiv.net/users/5170635) |
 
 <!--TEMPLATE:
 |  |  |  |  |
