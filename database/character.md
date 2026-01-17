@@ -8188,6 +8188,7 @@ example:
 | akane owari | 终里赤音 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的体操选手。 | [萌娘百科](https://zh.moegirl.org.cn/终里赤音) |
 | fuyuhiko kuzuryu | 九头龙冬彦 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的黑道。 | [萌娘百科](https://zh.moegirl.org.cn/九头龙冬彦) |
 | nekomaru nidai | 贰大猫丸 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的经理人。 | [萌娘百科](https://zh.moegirl.org.cn/贰大猫丸) |
+| peko pekoyama | 边古山边古 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的剑道家，也译作边古山佩子。 | [萌娘百科](https://zh.moegirl.org.cn/边古山边古) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
