@@ -4244,7 +4244,7 @@ example:
 | timido cute | 缇米朵·丘忒 |  |  |
 | mobius | 梅比乌斯 | 梅比乌斯是米哈游旗下游戏《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/e/eb/Mobius.png) | [萌娘百科](https://zh.moegirl.org.cn/梅比乌斯) |
 | heizou shikanoin | 鹿野院平藏 | 鹿野院平藏（英语：heizou shikanoin）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/鹿野院平藏.jpg) | [萌娘百科](https://zh.moegirl.org.cn/鹿野院平藏) |
-| columbina | 「少女」哥伦比娅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/03/13/57/46/134661344_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>愚人众十一执行官第三席。 | [萌娘百科](https://zh.moegirl.org.cn/哥伦比娅) |
+| columbina hyposelenia | 「少女」哥伦比娅 | ![](https://ehgt.org/w/02/171/97401-9r6broek.webp)<br>所属作品：`genshin impact`<br>全名哥伦比娅·希珀塞莱尼娅。<br>愚人众十一执行官第三席。 | [萌娘百科](https://zh.moegirl.org.cn/哥伦比娅) |
 | tartaglia | 「公子」达达利亚 | 达达利亚（英语：tartaglia）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/2/2c/公子_达达利亚.jpeg) | [萌娘百科](https://zh.moegirl.org.cn/达达利亚) |
 | gorou | 五郎 | 五郎（英语：gorou）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7f/Genshin_Gorou_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/五郎%28原神%29#) |
 | kallen kaslana | 卡莲·卡斯兰娜 |  |  |
@@ -8000,7 +8000,6 @@ example:
 | mahiru shigure | 时雨真昼 | ![](https://ehgt.org/w/01/965/78973-0zvil3ol.webp)<br>所属作品：`gundam build fighters try` |  |
 | shamna | 夏姆娜 | ![](https://ehgt.org/w/01/849/75965-6gwvbr58.webp)<br>所属作品：`code geass`<br>剧场版动画《Code Geass 复活的鲁路修》中的角色。 |  |
 | mabui | 麻布衣 | ![](https://ehgt.org/w/02/092/53315-nd6flwx9.webp)<br>所属作品：`naruto`<br>雷之国·云隐村的女上忍，四代目雷影的秘书。 |  |
-| columbina hyposelenia | [少女] 哥伦比娅 | ![](https://ehgt.org/w/02/171/97401-9r6broek.webp)<br>所属作品：`genshin impact`<br>全名哥伦比娅·希珀塞莱尼娅。<br>愚人众十一执行官 第三席。 |  |
 | rerir | 雷利尔 | ![](https://patchwiki.biligame.com/images/ys/7/75/opnf0rzqwwcvlmlo4nbfrjzt9d0uxlb.png)<br>所属作品：`genshin impact`<br>被称为「猎月人」，是坎瑞亚「五罪人」之一，犯下了「渎死之罪」。 |  |
 | tholindis | 索琳蒂丝 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/4c/索琳蒂丝2.png)<br>所属作品：`genshin impact`<br>坎瑞亚赤月旁系血统的后裔，平时在深秘院中从事对月髓的研究，是雷利尔的未婚妻。 | [萌娘百科](https://zh.moegirl.org.cn/索琳蒂丝) |
 | porno | 珀儿诺 | ![](https://ehgt.org/w/02/182/62005-qtcmdra8.webp)<br>所属作品：`dohna dohna issho ni warui koto o shiyou` |  |
