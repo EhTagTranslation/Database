@@ -8188,6 +8188,7 @@ example:
 | fuyuhiko kuzuryu | 九头龙冬彦 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的黑道。 | [萌娘百科](https://zh.moegirl.org.cn/九头龙冬彦) |
 | nekomaru nidai | 贰大猫丸 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的经理人。 | [萌娘百科](https://zh.moegirl.org.cn/贰大猫丸) |
 | peko pekoyama | 边古山边古 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的剑道家，也译作边古山佩子。 | [萌娘百科](https://zh.moegirl.org.cn/边古山边古) |
+| ruka rengoku | 炼狱瑠火 | ![](https://ehgt.org/w/01/632/71262-3vz67c3o.webp)<br>出自作品：`p:kimetsu no yaiba`<br><br>炼狱瑠火（日语：煉獄（れんごく）瑠火（るか））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。<br>前任炎柱炼狱槙寿郎的妻子，故人。是一位聪慧、内心坚强的女性，在明知自己已病入膏肓即将死亡的同时，也向杏寿郎说明了坚强出生者的责任和义务，给他的人生观带来了很大的影响。 | [萌娘百科](https://zh.moegirl.org.cn/炼狱瑠火) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
