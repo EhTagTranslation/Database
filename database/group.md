@@ -13592,6 +13592,7 @@ example:
 | silk scarf | シルクスカーフ |  |  |
 | pikapika hallucinate | ぴかぴかハルシネイト |  |  |
 | boin-do | 母印堂 |  |  |
+| corruprotocol | Corruprotocol |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
