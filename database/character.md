@@ -8187,6 +8187,7 @@ example:
 | coco sawatari | 泽渡可可 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b9/可可正常立绘.png)<br>日语: 沢渡ココ (サワタリ ココ)<br>所属游戏:`mahou shoujo no majo saiban`<br><br>毒舌主播<br>有超模的千里眼能力，但本人太拉跨 | [萌娘百科](https://zh.moegirl.org.cn/泽渡可可) |
 | akane owari | 终里赤音 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的体操选手。 | [萌娘百科](https://zh.moegirl.org.cn/终里赤音) |
 | fuyuhiko kuzuryu | 九头龙冬彦 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的黑道。 | [萌娘百科](https://zh.moegirl.org.cn/九头龙冬彦) |
+| nekomaru nidai | 贰大猫丸 | 《超级弹丸论破2 再见绝望学园》登场角色，超高校级的经理人。 | [萌娘百科](https://zh.moegirl.org.cn/贰大猫丸) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
