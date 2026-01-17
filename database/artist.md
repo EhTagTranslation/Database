@@ -14638,6 +14638,7 @@ example:
 | tuberose kotoki | 狐刻 |  |  |
 | rude frog | Rude Frog |  | [X](https://x.com/RF42__) \| [Patreon](https://www.patreon.com/rude_frog) |
 | yona | 杳奈 |  | [pixiv](https://www.pixiv.net/users/9341782) |
+| monobe | ものべ |  | [X](https://x.com/monobe_tsukuri/media) [pixiv](https://www.pixiv.net/users/13336149) |
 
 <!--TEMPLATE:
 |  |  |  |  |
