@@ -13591,6 +13591,7 @@ example:
 | ogon shinshi club | 黄金紳士倶楽部 |  |  |
 | silk scarf | シルクスカーフ |  |  |
 | pikapika hallucinate | ぴかぴかハルシネイト |  |  |
+| boin-do | 母印堂 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
