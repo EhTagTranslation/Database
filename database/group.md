@@ -13590,6 +13590,7 @@ example:
 | moe push | もえぷっしゅ |  |  |
 | ogon shinshi club | 黄金紳士倶楽部 |  |  |
 | silk scarf | シルクスカーフ |  |  |
+| pikapika hallucinate | ぴかぴかハルシネイト |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
