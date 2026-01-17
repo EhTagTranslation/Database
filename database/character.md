@@ -2830,7 +2830,7 @@ example:
 | strength | 力量 |  |  |
 | kirika akatsuki | 晓切歌 | 晓切歌是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/晓切歌) |
 | asuha chigusa | 千种明日叶 | ![](https://ehgt.org/w/00/772/36816-ft2kmr0l.webp)<br>出自作品：`p:qualidea code`<br><br>千种明日叶是由相乐总、橘公司、渡航共同构成的作家团体“Speakeasy”进行的跨媒体企划“Project QUALIDEA”的登场角色，登场于小说《世界什么的怎样都好 -QUALIDEA‧CODE-》以及电视动画《Qualidea Code》当中。 | [萌娘百科](https://zh.moegirl.org.cn/千种明日叶) |
-| kasumi chigusa | 千种霞 |  |  |
+| kasumi chigusa | 千种霞 | ![](https://thumbsnap.com/i/6yVuoCaB.jpg)<br>出自作品：`p:qualidea code`<br><br>千种霞是由相乐总、橘公司、渡航共同构成的作家团体“Speakeasy”进行的跨媒体企划“Project QUALIDEA”的登场角色。是本篇前传小说《世界什么的怎样都好 -QUALIDEA‧CODE-》中的男主角以及正传电视动画《Qualidea Code》的主要男主角色。 | [萌娘百科](https://zh.moegirl.org.cn/千种霞) |
 | ange katrina | 安洁·卡特莉娜 |  |  |
 | cagliostro | 卡莉奥斯特萝 | ①所属作品：`granblue fantasy`<br>![](https://huiji-public.huijistatic.com/gbf/uploads/4/4a/Zoom_3710058000_01.png)<br>日文名为カリオストロ，外号老男人。<br>————<br>②动画《战姬绝唱》第四季中登场的角色。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/47/a4/54852_crt_LOtB1.jpg?r=1563013706) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝幻想:卡里奥斯特罗)<br>[萌娘百科](https://zh.moegirl.org.cn/卡里奥斯特罗%28战姬绝唱%29#) |
 | kyouka hikawa | 冰川镜华 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/e3/Kyoka_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/冰川镜华) |
