@@ -8222,6 +8222,7 @@ example:
 | shizue izawa | 井泽静江 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/7b/Shizu_Anime.png)<br>所属作品：`tensei shitara slime datta ken`<br>被魔王雷昂·克罗姆威尔从日本召唤至异世界，因体内寄宿炎之精灵伊芙利特而转化为魔人，被称为“静”或“爆炎支配者”。 | [Fandom](https://tensura.fandom.com/wiki/Shizu) |
 | kana kojima | 儿岛加奈 | ![](https://static.wikia.nocookie.net/nankoko/images/b/bf/KanaKojima.png)<br>所属作品：`nande koko ni sensei ga`<br>川沼西高中的国语教师，因为她的压迫感而被学生们称为“鬼之儿岛”并因此被学生们害怕着。 | [Fandom](https://nankoko.fandom.com/wiki/Kana_Kojima) |
 | mana sumita | 纯田真奈 | ![](https://static.wikia.nocookie.net/bandori/images/0/0c/Mana_anime.png)<br>所属作品：`bang dream`<br>全国业余选手歌唱比赛五连冠得主。因被星探发掘而与初音组建组合sumimi。 | [百度百科](https://baike.baidu.com/item/纯田真奈/63628514) |
+| isaki riona | 响咲莉欧娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/da/Isaki_Riona_Portrait.png)<br>所属社团：`hololive`<br>響咲 リオナ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
