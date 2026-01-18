@@ -6854,7 +6854,7 @@ example:
 | brest | 布雷斯特 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/9/99/1iwq6bocd2lq1tppmged3r6th9wyvjp.jpg/525px-布雷斯特换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/布雷斯特) |
 | yorck | 约克（伊冯娜） | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/f/f1/oh5t8xk5oo4kv8alrhrjbulk8jlttmn.jpg/525px-约克DE换装2.jpg) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=112189) |
 | lutzow | 吕佐夫（露西） | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/7654be1b20826d4bc412602fec42c48b262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/吕佐夫) |
-| mio misumi | 深澄澪 | 所属作品：`tsuki ga michibiku isekai douchuu`<br>![](https://tsukimichi.com/_assets/images/char/detail/webp/mio.webp)<br>深澄澪（みすみ みお，Mio Misumi) |  |
+| mio misumi | 深澄澪 | ![](https://tsukimichi.com/_assets/images/char/detail/webp/mio.webp)<br>所属作品：`tsuki ga michibiku isekai douchuu`<br>真的第二随从，其原形是魔兽“天灾黑蜘蛛”。<br>深澄澪（みすみ みお，Mio Misumi) | [Fandom](https://tsukimichi.fandom.com/wiki/Mio) |
 | c-ms | C-MS | `p:girls frontline` |  |
 | admiral nakhimov | 纳希莫夫海军上将 | ![](https://i2.hdslb.com/bfs/new_dyn/04cedcd9c9e434d91a18655424ace809262400697.png)<br>所属作品：`azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:纳希莫夫海军上将) |
 | wamdus | 瓦姆杜斯 |  |  |
