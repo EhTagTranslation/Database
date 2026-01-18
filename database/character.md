@@ -8213,6 +8213,7 @@ example:
 | manami okuda | 奥田爱美 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/9/9e/Okuda_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>理科高手，特别是化学。但在文科方面很差。尝试制作各种毒药给杀老师喝。 | [百度百科](https://baike.baidu.com/item/奥田爱美/15977865) |
 | rio nakamura | 中村莉樱 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/1/1a/Rio_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>英语能力突出，期末测试获英语单科年级第一，射击测试女生排名第四。 | [百度百科](https://baike.baidu.com/item/中村莉樱/15977709) |
 | raziel | 拉结尔 | ![](https://gbf.wiki/images/e/ef/Npc_zoom_3040516000_01.png)<br>所属游戏:`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040516000) |
+| maetel | 梅德尔 | ![](https://ehgt.org/w/02/067/71565-lsren6hg.webp)<br>出自作品：`p:galaxy express 999`<br><br>梅德尔行星的公主，艾美拉达丝的姐姐，主线剧情之前便经常乘坐999号，算是车上的老熟人。虽没有机械身体，但是可以依靠更换人造身体来生存(梅德尔每次到达冥王星站都会去墓地看望自己以前的身体)。在父亲的指引下换上了星野铁郎母亲年轻时的身体，带领铁郎前往并摧毁梅德尔行星。后来由于故乡被摧毁于是便自称“没旅行尽头的人”，再次坐上了999号。 | [萌娘百科](https://zh.moegirl.org.cn/银河铁道999#登场人物) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
