@@ -8216,6 +8216,7 @@ example:
 | maetel | 梅德尔 | ![](https://ehgt.org/w/02/067/71565-lsren6hg.webp)<br>出自作品：`p:galaxy express 999`<br><br>梅德尔行星的公主，艾美拉达丝的姐姐，主线剧情之前便经常乘坐999号，算是车上的老熟人。虽没有机械身体，但是可以依靠更换人造身体来生存(梅德尔每次到达冥王星站都会去墓地看望自己以前的身体)。在父亲的指引下换上了星野铁郎母亲年轻时的身体，带领铁郎前往并摧毁梅德尔行星。后来由于故乡被摧毁于是便自称“没旅行尽头的人”，再次坐上了999号。 | [萌娘百科](https://zh.moegirl.org.cn/银河铁道999#登场人物) |
 | aishia | 艾西雅 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic03.png)<br>所属作品：`seirei gensouki`<br>利欧的契约精灵，知晓关于春人的一切。 | [百度百科](https://baike.baidu.com/item/爱希娅) |
 | flora beltrum | 芙萝菈·贝尔托姆 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic07.png)<br>所属作品：`seirei gensouki`<br>贝尔托姆王国第二王女，圣石召唤勇者的前婚约者。 | [百度百科](https://baike.baidu.com/item/芙萝菈·贝尔托姆) |
+| orphia | 欧菲雅 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic14.png)<br>所属作品：`seirei gensouki` | [百度百科](https://baike.baidu.com/item/欧菲雅) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
