@@ -5471,7 +5471,7 @@ example:
 | haruiro no sora | 春色の空 |  |  |
 | harukaze | HARUKAZE |  |  |
 | harukomachikan. | はるこまちかん。 |  |  |
-| harumachi tsurara | 春待氷柱 |  |  |
+| harumachi tsurara | 春待冰柱 |  |  |
 | harumankai | はるまん会 |  |  |
 | harumichi | ハルミチ |  |  |
 | harunoyu | ハルノユ |  |  |
