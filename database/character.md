@@ -4270,7 +4270,7 @@ example:
 | shinoa hiiragi | 柊筱娅 |  |  |
 | fatui electro cicin mage | 雷萤术士 | ![](https://ehgt.org/w/00/856/83167-ta3c64e7.webp)<br>出自作品：`p:genshin impact` |  |
 | fatui cryo cicin mage | 冰萤术士 |  |  |
-| mirror maiden | 藏镜仕女 |  |  |
+| mirror maiden | 藏镜仕女 | ![](https://ehgt.org/w/01/585/65703-o91lff9k.webp)<br>出自作品：`p:genshin impact`<br><br>冬国仕女是由miHoYo研发的游戏《原神》中出场的敌对生物。 | [萌娘百科](https://zh.moegirl.org.cn/冬国仕女) |
 | sirin | 西琳 |  |  |
 | dehya | 迪希雅 | ![](https://patchwiki.biligame.com/images/ys/e/e8/p8wc9ew3xrdmkfsjvqcabmdwx0bcde2.gif)<br>所属作品:`p:genshin impact`<br>横行须弥沙漠地佣兵组织「镀金旅团」的成员，勇敢而又强大的战士，在「镀金旅团」内部声名赫赫。 | [萌娘百科](https://zh.moegirl.org.cn/迪希雅) |
 | noa ushio | 生盐诺亚 | 所属作品：`p:blue archive`<br>千年科学学校所属，学生会「研讨会」的书记。<br>![](https://img.moegirl.org.cn/common/3/35/BA_Noa.png) | [萌娘百科](https://zh.moegirl.org.cn/生盐乃爱)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Noa) |
