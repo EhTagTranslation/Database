@@ -1547,7 +1547,7 @@ example:
 |  | 文科省官员 |  |  |
 |  | ▼ 尼尔 |  |  |
 | a2 | A型二号 |  |  |
-| 2b | 二号B型 | 所属作品: `p:nier automata` | [萌娘百科](https://zh.moegirl.org.cn/寄叶二号B型) [Fandom](https://nier.fandom.com/wiki/YoRHa_No.2_Type_B) |
+| 2b | 二号B型 | ![](https://ehgt.org/w/01/995/61163-tf8qn966.webp)<br>所属作品: `p:nier automata` | [萌娘百科](https://zh.moegirl.org.cn/寄叶二号B型) [Fandom](https://nier.fandom.com/wiki/YoRHa_No.2_Type_B) |
 | 9s | 九号S型 |  |  |
 |  | ▼ 交响情人梦 |  |  |
 | megumi noda | 野田惠 |  |  |
