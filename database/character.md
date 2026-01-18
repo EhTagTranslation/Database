@@ -6378,7 +6378,7 @@ example:
 | sukeban smg | 女番长(smg) |  |  |
 | harusaki nodoka | 春先和香 | 春先和香（日语：春先 のどか／はるさき のどかHarusaki Nodoka）是Hololive旗下进行支援的工作人员，于2022年4月1日开始活动。 | [萌娘百科](https://zh.moegirl.org.cn/春先和香) |
 | sora haruno | 樱乃空 |  | [萌娘百科](https://zh.moegirl.org.cn/樱乃空) |
-| sayaka maizono | 舞园沙耶香 | 舞园沙耶香（日语：舞园（まいぞの） さやか）是日本游戏公司spike推出的游戏《弹丸论破：希望学院和绝望高中生》及同名动画中的角色。 | [萌娘百科](https://zh.moegirl.org.cn/舞园沙耶香) |
+| sayaka maizono | 舞园沙耶香 | ![](https://ehgt.org/w/02/181/19299-0pmy5ze0.webp)<br>出自作品：`p:danganronpa`<br><br>舞园沙耶香（日语：舞园（まいぞの） さやか）是日本游戏公司spike推出的游戏《弹丸论破：希望学院和绝望高中生》及同名动画中的角色。 | [萌娘百科](https://zh.moegirl.org.cn/舞园沙耶香) |
 | golding | 戈尔丁 |  |  |
 | rouji chante | 卢吉·尚特 |  |  |
 | plusle | 正电拍拍 |  |  |
