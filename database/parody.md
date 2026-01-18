@@ -670,7 +670,7 @@ example:
 | summer wars | 夏日大作战 | 《夏日大作战》（日语：サマーウォーズ，英语：Summer Wars）是于2009年上映的日本科幻暨浪漫电影，其中由细田守担任动画导演，MADHOUSE负责动画制作并由华纳兄弟负责发行。剧本由奥寺佐渡子撰写，并邀请了神木隆之介、樱庭奈奈美、谷村美月、富司纯子和斋藤步等人担任配音演员。地图工作室成立后，作品版权现归于地图工作室[8]。 | [Wiki](https://zh.wikipedia.org/wiki/夏日大作戰) |
 | flcl | 特别的她 |  |  |
 | the girl who leapt through time | 穿越时空的少女 |  |  |
-| inazuma eleven | 闪电十一人 |  |  |
+| inazuma eleven | 闪电十一人 | ![](https://thumbsnap.com/i/VAgMuee4.jpg)<br>《闪电十一人》是由OLM改编自LEVEL-5同名游戏的电视动画，由秋山胜仁、吉田彻等执导，富冈淳广担任编剧，于2008年10月5日至2010年4月27日在东京电视台首播，全127集。导演团队还包括津田尚克、广川和之等人，声优阵容由竹内顺子、野岛裕史领衔。 | [百度百科](https://baike.baidu.com/item/闪电十一人/6380982) |
 | battle royale | 大逃杀 |  |  |
 | archaic sealed heat | 远古封印之炎 |  |  |
 | fruits basket | 水果篮子 |  |  |
