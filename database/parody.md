@@ -1047,7 +1047,7 @@ example:
 | legend of lemnear | 极黑之翼 |  |  |
 | duel masters | 决斗大师 |  |  |
 | battle spirits | 战斗之魂 |  |  |
-| galaxy express 999 | 银河铁道999 |  |  |
+| galaxy express 999 | 银河铁道999 | 《银河铁道999》（日语：銀河鉄道999、ぎんがてつどうスリーナイン，略称999（スリーナイン））是由松本零士创作的一部漫画，并有电视动画、剧场版、外传、广播剧、真人等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/银河铁道999) |
 | gaiking | 新大空魔龙 | 《新大空魔龙》，是从2005年11月12日到2006年9月24日在朝日电视播放的机器人动画。由东映动画制作。从2006年4月开始在BS朝日等播放。 |  |
 | girls frontline | ![](https://p.sda1.dev/22/6b45bfc1e9b9924749db8a29c5fb6f18/image.png) 少女前线 | 《少女前线》是由散爆网络（即云母组）独立研发，暗冬网络所代理发行的国人原创二次元枪娘养成战术手游。<br><br>相关作品: 《`p:girls frontline neural cloud`》《少女前线2：追放》《面包房少女》《逆向坍塌：面包房行动》 | [萌娘百科](https://zh.moegirl.org.cn/少女前线) [官方网站](https://gfcn-mobile.sunborngame.com/) |
 | zettai karen children | 绝对可怜CHILDREN |  |  |
