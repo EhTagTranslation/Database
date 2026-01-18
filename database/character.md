@@ -6446,7 +6446,7 @@ example:
 | heles | 赫尔艾斯 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/33/Zoom_3040060000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/b1/Zoom_3040208000_01.png)<br>所属作品：`granblue fantasy` |  |
 | theresia van astrea | 特蕾西亚·范·阿斯特雷亚 | 所属作品: `p:re zero kara hajimeru isekai seikatsu` | [萌娘百科](https://zh.moegirl.org.cn/特蕾西亚·范·阿斯特雷亚) [Fandom](https://rezero.fandom.com/wiki/Theresia_van_Astrea) |
 | mayuki hiiragi | 柊真雪 | 所属作品: `p:hinako note` | [萌娘百科](https://zh.moegirl.org.cn/柊真雪) |
-| juvia lockser | 朱比亚·罗克丝 | 朱比亚·罗克丝，日本漫画《妖精的尾巴》及其衍生作品中的角色，魔导师公会妖精的尾巴中的魔导士。人称：“雨女。<br>原“幽鬼支配者”工会，“四元素”之一的水元素。幽鬼公会解散后加入妖精的尾巴。 | [百度百科](https://baike.baidu.com/item/朱比亚·罗克丝/3521000) |
+| juvia lockser | 朱比亚·罗克丝 | 朱比亚·罗克丝，日本漫画《`fairy tail`》及其衍生作品中的角色，魔导师公会妖精的尾巴中的魔导士。人称：“雨女。<br>原“幽鬼支配者”工会，“四元素”之一的水元素。幽鬼公会解散后加入妖精的尾巴。 | [百度百科](https://baike.baidu.com/item/朱比亚·罗克丝/3521000) |
 | yixuan | 仪玄 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/05/29/15559334/503f72b51a44b54278b85390a2e30fe0_4102207195254984498.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/05/29/15559334/95182f9652fa505d990b73e7d739e0f9_2814763721900853401.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/仪玄) |
 | alisaie leveilleur | 阿莉塞·莱韦耶勒尔 |  | [百度百科](https://baike.baidu.com/item/阿莉塞·莱韦耶勒尔/60480914) |
 | i-no | 茵诺 |  |  |
