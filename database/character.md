@@ -2641,7 +2641,7 @@ example:
 | izana shinatose | 科户濑伊札那 |  |  |
 | nagate tanikaze | 谷风长道 |  |  |
 | elpeo ple | 艾露比·普露 |  |  |
-| haman karn | 哈曼·卡恩 |  |  |
+| haman karn | 哈曼·卡恩 | ![](https://ehgt.org/w/01/753/11840-c6cosl1j.webp)<br><br>哈曼·卡恩（日语：ハマーン・カーン）是富野由悠季所创作的动画《机动战士Z高达》、《机动战士高达ZZ》及其衍生作品的主要登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/哈曼·卡恩) |
 | leina ashta | 莉娜·亚西塔 |  |  |
 | ple two | 普露兹 |  |  |
 | kurisu makise | 牧濑红莉栖 | *“不要忘记，无论你在哪条世界线都不是孤单一人，有我在”*<br><br>牧濑红莉栖是ADV游戏《`steinsgate`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/fe/b8/feb8968c39c1cf2656d8b1c3b48e39dd2ef47929-2210701-1240-1719-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/牧濑红莉栖) (\*\*) |
