@@ -13602,6 +13602,7 @@ example:
 | nechosuke. | ねちょすけ。 |  |  |
 | oroboy | オロボーイ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49463.html) |
 | nekonumedou | ネコぬめ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015872.html) |
+| hibachabashira | ひばちゃばしら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062222.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
