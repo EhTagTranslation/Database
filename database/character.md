@@ -8223,6 +8223,7 @@ example:
 | kana kojima | 儿岛加奈 | ![](https://static.wikia.nocookie.net/nankoko/images/b/bf/KanaKojima.png)<br>所属作品：`nande koko ni sensei ga`<br>川沼西高中的国语教师，因为她的压迫感而被学生们称为“鬼之儿岛”并因此被学生们害怕着。 | [Fandom](https://nankoko.fandom.com/wiki/Kana_Kojima) |
 | mana sumita | 纯田真奈 | ![](https://static.wikia.nocookie.net/bandori/images/0/0c/Mana_anime.png)<br>所属作品：`bang dream`<br>全国业余选手歌唱比赛五连冠得主。因被星探发掘而与初音组建组合sumimi。 | [百度百科](https://baike.baidu.com/item/纯田真奈/63628514) |
 | isaki riona | 响咲莉欧娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/da/Isaki_Riona_Portrait.png)<br>所属社团：`hololive`<br>響咲 リオナ |  |
+| tomo fujii | 藤居朋 | ![](https://static.wikia.nocookie.net/kangaroos/images/c/c7/Fujii_Tomo.png)<br>所属作品：`the idolmaster` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
