@@ -14661,6 +14661,7 @@ example:
 | hibacha | ひばちゃ |  | [X](https://x.com/hibachaaa) \| [pixiv](https://www.pixiv.net/users/41800871) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ひばちゃ%22) |
 | ciza | CIZA |  |  |
 | hathor | はとほる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35510.html) |
+| rotten pizza | ろってんぴざ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ろってんぴざ%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
