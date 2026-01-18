@@ -2864,7 +2864,7 @@ example:
 | riko | 莉可 | 出自来自深渊（Made in Abyss) |  |
 | six | 希斯 | ![](https://huiji-public.huijistatic.com/gbf/uploads/f/f2/Zoom_3040262000_01.png)<br>所属作品：`granblue fantasy` | [碧蓝幻想中文维基](https://gbf.huijiwiki.com/wiki/Char/3040035000) |
 | maple | 梅普露 \| 枫 | 梅普露／本条枫，《因为太怕痛就全点防御力了》主角。在好友的推荐下开始玩游戏，因为怕痛而把防御力点满了，并选用了人气不高的大盾。由于全点防御力的关系，导致角色动作缓慢，而且不能使用魔法。结果令角色所施展的攻击完全打不中，反而因为防御力太高而令攻击方受伤，因此获得技能“绝对防御”。<br>在游戏开放公会系统后，与莎莉组成公会“大枫树”并担任会长一职。<br><br>枫是NEKO WORKs所创作的游戏《猫娘乐园》及其衍生作品的登场角色 | [萌娘百科-梅普露](https://zh.moegirl.org.cn/本条枫) [萌娘百科-枫](https://zh.moegirl.org.cn/枫%28NEKO_WORKs%29) |
-| nezuko kamado | 灶门祢豆子 | ![](https://ehgt.org/w/01/011/28196-1r9xagtp.webp)<br>灶门祢豆子（日语：竈門（かまど） 禰豆子（ねずこ））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灶门祢豆子) |
+| nezuko kamado | 灶门祢豆子 | ![](https://ehgt.org/w/01/011/28196-1r9xagtp.webp)<br>出自作品：`p:kimetsu no yaiba`<br><br>灶门祢豆子（日语：竈門（かまど） 禰豆子（ねずこ））是由吾峠呼世晴所创作的漫画《鬼灭之刃》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/灶门祢豆子) |
 | reina kousaka | 高坂丽奈 | ![](https://ehgt.org/w/00/527/75845-pq940d3i.webp)<br>出自作品：`p:hibike euphonium`<br><br>高坂丽奈是武田绫乃所创作的小说《吹响吧!上低音号》及其衍生作品的登场角色，主人公之一。 | [萌娘百科](https://zh.moegirl.org.cn/高坂丽奈) |
 | kumiko oumae | 黄前久美子 | 黄前久美子(おうまえ くみこ)是武田绫乃所创作的小说《吹响吧!上低音号》及其衍生作品的登场角色，主人公之一。<br><br>北宇治高中吹奏乐部低音部成员之一，负责吹奏上低音号(Euphonium) | [萌娘百科](https://zh.moegirl.org.cn/黄前久美子) |
 | ririka kenzaki | 剑崎梨梨花 |  |  |
