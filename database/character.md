@@ -1879,7 +1879,7 @@ example:
 | artemis | 阿耳忒弥斯 |  |  |
 | altera | 阿蒂拉 | 游戏`fate grand order`中的角色。建立起巨大帝国的大王。匈人之王阿蒂拉。<br>![图](https://ehgt.org/40/87/408778e32b30b5fa866f508524795810749b4788-2513644-1024-1448-png_l.jpg)<br>![图](https://ehgt.org/14/33/14336507a61b796eccad092ad2c57c6db7e291a8-1286016-1024-1456-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/阿蒂拉) [萌娘百科](https://zh.moegirl.org.cn/阿蒂拉) |
 | boudica | 布狄卡 | ![图](https://ehgt.org/e4/e0/e4e06fc490c2c1b099ff48af1484cd8e10ea7fa0-1986579-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布狄卡%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布狄卡) |
-| mysterious heroine x | 谜之女主角X | ![图](https://ehgt.org/8b/41/8b41931ad5887b0afffc8c57287244aadd0a6078-2245947-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谜之女主角X) [Mooncell](http://www.fgo.wiki/w/谜之女主角X) |
+| mysterious heroine x | 谜之女主角X | ![图](https://ehgt.org/8b/41/8b41931ad5887b0afffc8c57287244aadd0a6078-2245947-1024-1448-png_l.jpg)<br>出自作品：`p:fate grand order`<br><br>谜之女主角X是2013年的TYPE-MOON愚人节企划《路地裏さつき ヒロイン十二宮編》当中出现的角色，与弓冢五月、紫苑·艾尔特纳姆·阿特拉西亚、莉兹拜斐·斯托琳多巴利、希耶尔等人同为主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/谜之女主角X) [Mooncell](http://www.fgo.wiki/w/谜之女主角X) |
 | mysterious heroine x alter | 谜之女主角X〔Alter〕 | ![图](https://ehgt.org/5d/5b/5d5b1ec3a6d177562865e0793dfb44b3d32f99d1-2333479-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谜之女主角X_Alter) [Mooncell](http://www.fgo.wiki/w/谜之女主角X〔Alter〕) |
 | olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 |  |  |
 | paul bunyan | 保罗·班扬 |  |  |
