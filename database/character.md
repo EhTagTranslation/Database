@@ -8219,6 +8219,7 @@ example:
 | orphia | 欧菲雅 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic14.png)<br>所属作品：`seirei gensouki` | [百度百科](https://baike.baidu.com/item/欧菲雅) |
 | plachta | 普拉芙妲 | ![](https://static.wikia.nocookie.net/yuripedia/images/2/22/Plachta-0.png)<br>所属作品：`atelier sophie`<br>作为苏菲的引导者传授炼金术知识，并随菲莉丝踏上外界探索之旅。 | [Fandom](https://yuripedia.fandom.com/wiki/Plachta) |
 | tomoe misumi | 三隅巴 | ![](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/05/Tomoe.webp)<br>所属作品：`tsuki ga michibiku isekai douchuu`<br>真的第一随从。其原形是操纵雾和幻影，并且能窥视人的记忆的上位的龙种“蜃”。 | [Fandom](https://tsukimichi.fandom.com/wiki/Tomoe) |
+| shizue izawa | 井泽静江 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/7/7b/Shizu_Anime.png)<br>所属作品：`tensei shitara slime datta ken`<br>被魔王雷昂·克罗姆威尔从日本召唤至异世界，因体内寄宿炎之精灵伊芙利特而转化为魔人，被称为“静”或“爆炎支配者”。 | [Fandom](https://tensura.fandom.com/wiki/Shizu) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
