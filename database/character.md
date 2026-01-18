@@ -7345,7 +7345,7 @@ example:
 | qoone | 库娜 | ![](https://zurswtyclg.hath.network/om/180437371/afa3feeda8efaf7f8d47bbca7aacebc55d0af239-1015298-832-1216-png/3aae091f2757e2f324fdf3c4491f881d1a4dea8e-59798-800-1169-wbp/800/g75j0zje17h8gu1tkbm/1391.webp)<br>所属作品：`asobi ni iku yo`<br>日语名：クーネ |  |
 | subaru | 昴 | ![](https://lain.bgm.tv/r/400/pic/cover/l/7d/1a/129904_jp.jpg)<br>上弦众的闪耀忍。<br>所属作品：`beat blades haruka` |  |
 | apricot | Apricot | ![](https://img.moegirl.org.cn/common/thumb/4/47/Froot_%28Apricot%29_2.0_Full_Body.webp/800px-Froot_%28Apricot%29_2.0_Full_Body.webp.png)<br>所属社团：VShojo |  |
-| lafter frankland | 拉芙塔·弗兰克兰德 | 所属作品：`mobile suit gundam tekketsu no orphans` |  |
+| lafter frankland | 拉芙塔·弗兰克兰德 | ![](https://patchwiki.biligame.com/images/gundam/thumb/2/2a/4oh4ryl4twhj5x9azhpqpdmirfy453o.jpg/250px-拉芙塔.jpg)<br>所属作品：`mobile suit gundam tekketsu no orphans`<br><br>迪瓦兹麾下运输组织塔宾斯的机师、指挥者，名濑·塔宾的妻子之一，出生在木星圈，是活泼开朗的女人，驾驶技术优秀，担任铁华团MS机师的训练导师。 | [BILIGAME WIKI](https://wiki.biligame.com/gundam/拉芙塔·弗兰克兰德) |
 | princess hilda | 希尔达公主 | 所属作品：`the legend of zelda` |  |
 | fuutou shizune | 风东静音 | ![](https://t.vndb.org/ch/31/14631.jpg)<br>所属作品：`oshioki sweetie`<br>风冬しずね |  |
 | natsuhi ushiromiya | 右代宫夏妃 | 所属作品：`umineko no naku koro ni` |  |
