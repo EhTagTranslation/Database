@@ -14656,6 +14656,7 @@ example:
 | echiko | エチコ |  |  |
 | senie shenxuan | 色孽神選 |  | [FANBOX](https://senieshenxuan.fanbox.cc/) \| [Patreon](https://www.patreon.com/senieshenxuan) |
 | ganaishou | ガナイショウ |  | [Fantia](https://fantia.jp/fanclubs/485914) \| [FANBOX](https://ganaishoten.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/91835865) \| [X](https://x.com/ganaishoten) |
+| saurus 18 | さうるす18 |  | [X](https://x.com/saurus18_mi) \| [pixiv](https://www.pixiv.net/users/56607812) |
 
 <!--TEMPLATE:
 |  |  |  |  |
