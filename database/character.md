@@ -4363,7 +4363,7 @@ example:
 | ryou yamada | 山田凉 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/ryo/image_movienew.png)<br>所属作品：`bocchi the rock`<br>山田凉（日语：山田（やまだ） リョウ） | [萌娘百科](https://zh.moegirl.org.cn/山田凉) |
 | ikuyo kita | 喜多郁代 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/ikuyo/image_movienew.png)<br>所属作品：`bocchi the rock` |  |
 | mewtwo | 超梦 |  |  |
-| shion | 紫苑 |  |  |
+| shion | 紫苑 | ![](https://ehgt.org/w/01/987/69893-dh6kak8s.webp)<br>所属作品：`tensei shitara slime datta ken`<br>女性大鬼族，拥有浅紫色长发与黑曜石独角。 | [Fandom](https://tensura.fandom.com/wiki/Shion) |
 | nemu manaka | 真中合欢 | 真中合欢是`clockup`制作的游戏《`p:euphoria`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/clockupeuphoria/images/4/48/Nemu_Portrait.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真中合欢) [Fandom](https://clockup.fandom.com/wiki/Nemu_Manaka) |
 | rinne byakuya | 白夜凛音 | 白夜凛音是`clockup`旗下游戏《`euphoria`》及其衍生作品的登场角色。<br>![](https://static.wikia.nocookie.net/clockupeuphoria/images/6/69/Rinne_Portrait.jpg) | [萌娘百科](https://zh.moegirl.org.cn/白夜凛音) [Fandom](https://clockup.fandom.com/wiki/Rinne_Byakuya) |
 | hanabi yasuraoka | 安乐冈花火 | 安乐冈花火是由横槍メンゴ所创作的漫画《`p:kuzu no honkai`<br>》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/安乐冈花火) |
