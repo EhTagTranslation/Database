@@ -3701,7 +3701,7 @@ example:
 | kirakishou | 雪华绮晶 |  |  |
 | kanaria | 金丝雀 |  |  |
 | suiseiseki | 翠星石 |  |  |
-| shinku | 真红 |  |  |
+| shinku | 真红 | ![](https://ehgt.org/ae/9d/ae9da4b6c44f8a547591ad5907de734df6d86fc5-496428-1050-1500-jpg_250.jpg)<br>出自作品：`p:rozen maiden`<br><br>真红（日语：真紅（しんく）；德语：Reiner Rubin）是PEACH-PIT创作的漫画《蔷薇少女》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/真红) |
 | hina ichigo | 雏莓 |  |  |
 | souseiseki | 苍星石 |  |  |
 | hood | 胡德 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/895a6a5235fe469dbc3cf9cd05c871d0262400697.png)<br>原型为海军上将级胡德号战列巡洋舰(HMS Hood 舷号：51) | [维基百科](https://zh.wikipedia.org/wiki/胡德号战列巡洋舰)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/胡德)<br>[https://www.zjsnrwiki.com/wiki/胡德](https://www.zjsnrwiki.com/wiki/胡德) |
