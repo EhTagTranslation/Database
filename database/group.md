@@ -13604,6 +13604,7 @@ example:
 | nekonumedou | ネコぬめ堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015872.html) |
 | hibachabashira | ひばちゃばしら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062222.html) |
 | cilentz | Cilentz |  |  |
+| pizza rotten | ピッツァ ROTTEN |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01034353.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
