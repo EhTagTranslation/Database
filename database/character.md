@@ -8212,6 +8212,7 @@ example:
 | karma akabane | 赤羽业 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/e/ed/Karma_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>喜欢恶作剧、个性嚣张的中二半少年。 | [百度百科](https://baike.baidu.com/item/赤羽业/1638479) |
 | manami okuda | 奥田爱美 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/9/9e/Okuda_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>理科高手，特别是化学。但在文科方面很差。尝试制作各种毒药给杀老师喝。 | [百度百科](https://baike.baidu.com/item/奥田爱美/15977865) |
 | rio nakamura | 中村莉樱 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/1/1a/Rio_transparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>英语能力突出，期末测试获英语单科年级第一，射击测试女生排名第四。 | [百度百科](https://baike.baidu.com/item/中村莉樱/15977709) |
+| raziel | 拉结尔 | ![](https://gbf.wiki/images/e/ef/Npc_zoom_3040516000_01.png)<br>所属游戏:`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040516000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
