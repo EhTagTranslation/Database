@@ -14655,6 +14655,7 @@ example:
 | saiun | 彩雲 |  |  |
 | echiko | エチコ |  |  |
 | senie shenxuan | 色孽神選 |  | [FANBOX](https://senieshenxuan.fanbox.cc/) \| [Patreon](https://www.patreon.com/senieshenxuan) |
+| ganaishou | ガナイショウ |  | [Fantia](https://fantia.jp/fanclubs/485914) \| [FANBOX](https://ganaishoten.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/91835865) \| [X](https://x.com/ganaishoten) |
 
 <!--TEMPLATE:
 |  |  |  |  |
