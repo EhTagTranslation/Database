@@ -8218,6 +8218,7 @@ example:
 | flora beltrum | 芙萝菈·贝尔托姆 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic07.png)<br>所属作品：`seirei gensouki`<br>贝尔托姆王国第二王女，圣石召唤勇者的前婚约者。 | [百度百科](https://baike.baidu.com/item/芙萝菈·贝尔托姆) |
 | orphia | 欧菲雅 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic14.png)<br>所属作品：`seirei gensouki` | [百度百科](https://baike.baidu.com/item/欧菲雅) |
 | plachta | 普拉芙妲 | ![](https://static.wikia.nocookie.net/yuripedia/images/2/22/Plachta-0.png)<br>所属作品：`atelier sophie`<br>作为苏菲的引导者传授炼金术知识，并随菲莉丝踏上外界探索之旅。 | [Fandom](https://yuripedia.fandom.com/wiki/Plachta) |
+| tomoe misumi | 三隅巴 | ![](https://static.wikia.nocookie.net/tsukigamichibikuisekaidouchuu/images/0/05/Tomoe.webp)<br>所属作品：`tsuki ga michibiku isekai douchuu`<br>真的第一随从。其原形是操纵雾和幻影，并且能窥视人的记忆的上位的龙种“蜃”。 | [Fandom](https://tsukimichi.fandom.com/wiki/Tomoe) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
