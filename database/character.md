@@ -5048,7 +5048,7 @@ example:
 | airi kurimura | 栗村爱莉 | 所属作品: `p:blue archive`<br>圣三一综合学园所属，放学后甜点部里开朗的部员。<br>![](https://patchwiki.biligame.com/images/ba/c/c1/ndkn0e9rmlkc7rwvmzc84nj2060bokn.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Airi) |
 | rentarou aijou | 爱城恋太郎 | 爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》的男主角。 |  |
 | karane inda | 院田唐音 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
-| hakari hanazono | 花园羽香里 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） |  |
+| hakari hanazono | 花园羽香里 | ![](https://ehgt.org/w/02/083/11917-uwj6jdpg.webp)<br>出自作品：`p:kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br><br>花园羽香里（日语：花園（はなぞの） 羽香里（はかり））是由中村力斗原作、野泽由纪子作画的《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） | [萌娘百科](https://zh.moegirl.org.cn/花园羽香里) |
 | mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放<br>人类<br>![](https://iopwiki.com/images/8/8d/GFL2_Mayling_character_sheet.jpg) | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
 | akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive`<br>格黑娜学园所属，美食研究会的部员。<br>与看似年幼的外表不同，却是在基沃托斯的大胃王比赛稳坐第一的常胜将军。<br>![](https://img.moegirl.org.cn/common/8/87/BA_Akari.png) | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
 | kikyou kiryuu | 桐生桔梗 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的作战参谋。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/146205.png) |  |
