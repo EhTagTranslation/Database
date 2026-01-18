@@ -4513,7 +4513,7 @@ example:
 | fuuka yamagishi | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
 | yukari takeba | 岳羽由加莉 | 岳羽由加莉（日语：岳羽 ゆかり（たけば ゆかり） (Takeba Yukari)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
 | aigis | 埃癸斯 | 埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/埃癸斯%28女神异闻录3%29#) |
-| celia claire | 瑟莉亚·库列尔 | 所属作品: `p:seirei gensouki`<br>![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic02.png) | [萌娘百科](https://zh.moegirl.org.cn/瑟莉亚·库列尔) |
+| celia claire | 瑟莉亚·库列尔 | ![](https://seireigensouki.com/1st/wp-content/themes/seirei_honban/assets/img/page/chara-pic02.png)<br>所属作品: `p:seirei gensouki`<br>贝尔托姆王立学院的天才学生，利欧在王立学院就学的教师。 | [萌娘百科](https://zh.moegirl.org.cn/瑟莉亚·库列尔) |
 | hinata tachibana | 橘日向 | 橘日向是由津留崎优所创作的漫画《与变成了异世界美少女的大叔一起冒险》及其衍生作品的女主角。32岁的单身原大叔美少女。身高体重都很平均的平平无奇的男生，从小到大喜欢的女生全都爱慕着好友神宫寺司，自己毫无机会。为了神宫寺能早点结婚而经常拉着他去参加联谊。在一次联谊会上喝得烂醉如泥，抱怨为什么没有女生喜欢自己，与其这样下去，不如变成女孩子算了，在回去的路上，被女神转移到了异世界，变成了倾倒众生的金发碧眼绝世美少女。 | [萌娘百科](https://zh.moegirl.org.cn/橘日向) |
 | conte di cavour | 加富尔伯爵 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/eb1e930aac40275246e97a050fa64686262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/7c3ab926c3de16348af5bf63f9d624ff262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:加富尔伯爵) |
 | dhole | 豺 |  |  |
