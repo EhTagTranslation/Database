@@ -14666,6 +14666,7 @@ example:
 | umebachiman | うめばちまん |  |  |
 | wonawo | ヲナヲ |  |  |
 | enma | 艶摩 |  |  |
+| azienda | Azienda |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
