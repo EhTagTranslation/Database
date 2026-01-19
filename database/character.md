@@ -8230,6 +8230,7 @@ example:
 | lebanne | 春紫 | ![](https://ehgt.org/w/02/126/48195-cihfez72.webp)<br>出自作品：`p:pokemon`<br><br>春紫（日文︰ハルジオ，英文︰Lebanne）是《傳說 Z-A》中的登場角色，她是密阿雷社交對戰俱樂部會長由紫的私人女僕及助理。 | [52poke](https://wiki.52poke.com/zh-hant/春紫) |
 | kyo kusanagi | 草薙京 | ![](https://upload.wikimedia.org/wikipedia/en/e/e9/KyoKusanagiShinkiro.png)<br>所属作品：`king of fighters` |  |
 | iori yagami | 八神庵 | ![](https://www.snk-corp.co.jp/zh/games/kof-xv/characters/img/character_iori.png)<br>所属作品：`king of fighters` |  |
+| ryoji kaji | 加持良治 | ![](https://i.pinimg.com/474x/d9/1d/25/d91d25e8a2d367aea26f2894f6cecaa8.jpg)<br>所属作品：`neon genesis evangelion` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
