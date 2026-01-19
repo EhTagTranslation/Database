@@ -14668,6 +14668,7 @@ example:
 | enma | 艶摩 |  |  |
 | azienda | Azienda |  | [Patreon](https://www.patreon.com/azienda) \| [pixiv](https://www.pixiv.net/users/52441207/artworks) |
 | david dong | David東 |  | [爱发电](https://afdian.net/a/Daviddong) \| [FANBOX](https://daviddong.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/68396841) \| [Deviantart](https://www.deviantart.com/david-dong) \| [X](https://x.com/david96054182) |
+| ethan | いーさん |  | [FANBOX](https://www.fanbox.cc/@ethan00283) |
 
 <!--TEMPLATE:
 |  |  |  |  |
