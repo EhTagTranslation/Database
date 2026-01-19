@@ -3983,7 +3983,7 @@ example:
 | yukari miyako | 都由香里 |  |  |
 | clare | 克蕾雅 |  |  |
 | raki | 拉基 |  |  |
-| teresa | 泰蕾莎 |  |  |
+| teresa | 迪妮莎 | ![](https://ehgt.org/w/01/994/14410-bkdeeb35.webp)<br>出自作品：`p:claymore`<br><br>迪妮莎是漫画家八木教广所创作的漫画《大剑》及其衍生的动画等作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/迪妮莎) |
 | samira | 莎弥拉（沙漠玫瑰） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Samira_OriginalSkin.jpg?bb254) |  |
 | katarina du couteau | 卡特琳娜（不祥之刃） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/ca/s5v5i0eqlldzi3z292mkzq2wkudkd1y.jpg) |  |
 | kaltsit | 凯尔希 | ![](https://patchwiki.biligame.com/images/arknights/d/d9/m18yr72amcd563yr1sovraze0srer0e.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/凯尔希) |
