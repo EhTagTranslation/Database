@@ -8234,6 +8234,7 @@ example:
 | kula diamond | 库拉·戴蒙德 | ![](https://static.wikia.nocookie.net/snk/images/7/7a/KOF_All_Star_Kula.png)<br>所属作品：`king of fighters` |  |
 | bass armstrong | 巴斯·阿姆斯特朗 | ![](https://www.fightersgeneration.com/nf6/char/bass-doa5infinite-artwork.jpg)<br>所属作品：`dead or alive`<br>一位退役职业摔跤手。 |  |
 | shermie | 夏尔米 | ![](https://www.snk-corp.co.jp/zh/games/kof-xv/characters/img/character_o_shermie.png)<br>所属作品：`king of fighters` |  |
+| pai chan | 陈佩 | ![](https://static.wikia.nocookie.net/deadoralive/images/c/cb/DOA5_Pai_Render.png)<br>所属作品：`dead or alive`<br>陈洛的独生女，自幼开始接受拳术的菁英教育。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
