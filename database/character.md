@@ -8228,6 +8228,7 @@ example:
 | michiyo gotou | 后藤美智代 | ![](https://ehgt.org/w/02/086/81333-t1dn3x9k.webp)<br>出自作品：`p:bocchi the rock`<br><br>后藤美智代（外文名：后藤美智代）是漫画《孤独摇滚！》及衍生作品中的虚拟角色，由声优末柄里惠负责配音。该角色为主人公后藤独的母亲。 | [百度百科](https://baike.baidu.com/item/后藤美智代/65698723) |
 | jacinthe | 由紫 | ![](https://ehgt.org/w/02/175/72540-3nn44ktg.webp)<br>出自作品：`p:pokemon`<br><br>由紫（日文︰ユカリ，英文︰Jacinthe）是《傳說 Z-A》中的登場角色，她是密阿雷社交對戰俱樂部（ＭＳＢＣ）的會長。 | [52pok](https://wiki.52poke.com/zh-hant/由紫) |
 | lebanne | 春紫 | ![](https://ehgt.org/w/02/126/48195-cihfez72.webp)<br>出自作品：`p:pokemon`<br><br>春紫（日文︰ハルジオ，英文︰Lebanne）是《傳說 Z-A》中的登場角色，她是密阿雷社交對戰俱樂部會長由紫的私人女僕及助理。 | [52poke](https://wiki.52poke.com/zh-hant/春紫) |
+| kyo kusanagi | 草薙京 | ![](https://upload.wikimedia.org/wikipedia/en/e/e9/KyoKusanagiShinkiro.png)<br>所属作品：`king of fighters` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
