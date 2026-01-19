@@ -14665,6 +14665,7 @@ example:
 | fujino higuma | 富士野ヒグマ |  | [DLsite](https://www.dlsite.com/girls/fsr/=/keyword_creater/%22富士野ヒグマ%22) |
 | umebachiman | うめばちまん |  |  |
 | wonawo | ヲナヲ |  |  |
+| enma | 艶摩 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
