@@ -14674,7 +14674,7 @@ example:
 | waryu | わりゅう |  | [pixiv](https://www.pixiv.net/users/77769028) |
 | uraaka 18 | うらあか18 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22うらあか18%22) |
 | kotaro otn | 狐太郎OTN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22狐太郎OTN%22) |
-| incogneato | Incogneato |  | [https://incogneatoart.newgrounds.com/](https://incogneatoart.newgrounds.com/) |
+| incogneato | Incogneato |  | [ewgrounds](https://incogneatoart.newgrounds.com/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
