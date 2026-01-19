@@ -8239,6 +8239,7 @@ example:
 | anne boonchuy | 安妮·布楚 | ![](https://ehgt.org/w/01/959/26393-m7fxk6g8.webp)<br>出自作品：`p:amphibia`<br><br>安妮·布楚（泰语：แอน บุญช่วย，英语：Anne Boonchuy）是DTA旗下原创动画《奇幻沼泽》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安妮·布楚) |
 | glgrdsklechhh | Glgrdsklechhh | ![](https://thumbsnap.com/i/SQg4Cwvs.jpg)<br>出自作品：`p:teen titans` | [Fandom](https://teentitans.fandom.com/wiki/Glgrdsklechhh) |
 | soular | 撒乌拉 | ![](https://static.wikia.nocookie.net/prettycure/images/d/d3/Soular.jpg/revision/latest?cb=20101220203302)<br>普通人形态下名字为Minami Shun (南 瞬)<br>所属作品:`fresh precure` | [Fandom](https://prettycure.fandom.com/wiki/Soular) |
+| westar | 威斯塔 | ![](https://static.wikia.nocookie.net/prettycure/images/c/c6/Westar1.jpg/revision/latest?cb=20100530074814)<br>所属作品:`fresh precure` | [Fandom](https://prettycure.fandom.com/wiki/Westar) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
