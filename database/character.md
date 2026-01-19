@@ -8224,6 +8224,7 @@ example:
 | mana sumita | 纯田真奈 | ![](https://static.wikia.nocookie.net/bandori/images/0/0c/Mana_anime.png)<br>所属作品：`bang dream`<br>全国业余选手歌唱比赛五连冠得主。因被星探发掘而与初音组建组合sumimi。 | [百度百科](https://baike.baidu.com/item/纯田真奈/63628514) |
 | isaki riona | 响咲莉欧娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/da/Isaki_Riona_Portrait.png)<br>所属社团：`hololive`<br>響咲 リオナ |  |
 | tomo fujii | 藤居朋 | ![](https://static.wikia.nocookie.net/kangaroos/images/c/c7/Fujii_Tomo.png)<br>所属作品：`the idolmaster` |  |
+| kai shintani | 申谷海 | ![](https://thumbsnap.com/i/gYpRSeY7.jpg)<br>出自作品：`p:blue archive`<br><br>申谷海是由NEXON Games开发的游戏《蔚蓝档案》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/申谷海) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
