@@ -8240,6 +8240,7 @@ example:
 | glgrdsklechhh | Glgrdsklechhh | ![](https://thumbsnap.com/i/SQg4Cwvs.jpg)<br>出自作品：`p:teen titans` | [Fandom](https://teentitans.fandom.com/wiki/Glgrdsklechhh) |
 | soular | 撒乌拉 | ![](https://static.wikia.nocookie.net/prettycure/images/d/d3/Soular.jpg/revision/latest?cb=20101220203302)<br>普通人形态下名字为Minami Shun (南 瞬)<br>所属作品:`fresh precure` | [Fandom](https://prettycure.fandom.com/wiki/Soular) |
 | westar | 威斯塔 | ![](https://static.wikia.nocookie.net/prettycure/images/c/c6/Westar1.jpg/revision/latest?cb=20100530074814)<br>所属作品:`fresh precure` | [Fandom](https://prettycure.fandom.com/wiki/Westar) |
+| syrup | 史洛普 | ![](https://static.wikia.nocookie.net/prettycure/images/5/52/Syrup.Shirohamai.Yesmovie.PNG/revision/latest?cb=20130515225743)<br>所属作品:`yes precure 5`<br>由芙罗拉精心养育，诞生于玫瑰疗园的精灵。可变身为人类，人类形态名字为甘井士郎 (Shirou Amai) | [百度百科](https://baike.baidu.com/item/史洛普/64566770)<br>[Fandom](https://prettycure.fandom.com/wiki/Syrup) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
