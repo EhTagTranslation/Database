@@ -3995,7 +3995,7 @@ example:
 | kaeya alberich | 凯亚·亚尔伯里奇 | **凯亚·亚尔伯里奇**（英语：kaeya alberich）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![图片](https://img.moegirl.org.cn/common/thumb/7/75/Genshin_Kaeya_intro_fix.jpg/240px-Genshin_Kaeya_intro_fix.jpg) | [萌娘百科](https://zh.moegirl.org.cn/凯亚·亚尔伯里奇)  [米游社观测枢](https://bbs.mihoyo.com/ys/obc/content/76/detail) |
 | anya forger | 阿尼亚·福杰 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/f/ff/Anya_Forger_Anime.png)<br>所属作品：`spy x family` | [萌娘百科](https://zh.moegirl.org.cn/阿尼亚·福杰) |
 | morrigan aensland | 莫莉卡·安斯兰特 | 魔界三大贵族之一安斯兰特家家主─魔王贝里欧鲁‧安斯兰特的养女，被他认定是次代的家主继承者；不过莫莉卡对于成为魔王这件事没啥兴趣，反而常常跑出城外去人间界寻找刺激。 | [Fandom](https://bishojodata.fandom.com/zh/wiki/莫莉卡‧安斯蘭特) |
-| becky blackbell | 贝琪·布莱克贝尔 | ![](https://img.moegirl.org.cn/common/thumb/d/d5/Becky_29.jpg/1024px-Becky_29.jpg) | [Bangumi](https://bgm.tv/character/87548) |
+| becky blackbell | 贝琪·布莱克贝尔 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/c/c7/Becky_Blackbell_Anime.png)<br>所属作品：`spy x family` | [Bangumi](https://bgm.tv/character/87548) |
 | warfarin | 华法琳 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:华法琳) |
 | platinum | 白金 | ![](https://patchwiki.biligame.com/images/arknights/5/55/2p8ew5b093p13pcho9ar1wkeu88jozd.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:白金) |
 | rise kujikawa | 久慈川理世 | ![](https://img.moegirl.org.cn/common/a/ab/P4A_Rise_Render.png)<br>久慈川理世（日语：くじかわ りせ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《`persona 4`》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/久慈川理世) |
