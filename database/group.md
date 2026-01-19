@@ -13612,6 +13612,7 @@ example:
 | 04cura | 04cura |  |  |
 | yuriko club | ゆりこくらぶ |  |  |
 | sigmart | SigMart |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64808.html) |
+| full metal baket | FULL METAL BAKET |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062833.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
