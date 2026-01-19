@@ -8235,6 +8235,7 @@ example:
 | bass armstrong | 巴斯·阿姆斯特朗 | ![](https://www.fightersgeneration.com/nf6/char/bass-doa5infinite-artwork.jpg)<br>所属作品：`dead or alive`<br>一位退役职业摔跤手。 |  |
 | shermie | 夏尔米 | ![](https://www.snk-corp.co.jp/zh/games/kof-xv/characters/img/character_o_shermie.png)<br>所属作品：`king of fighters` |  |
 | pai chan | 陈佩 | ![](https://static.wikia.nocookie.net/deadoralive/images/c/cb/DOA5_Pai_Render.png)<br>所属作品：`dead or alive`<br>陈洛的独生女，自幼开始接受拳术的菁英教育。 |  |
+| sarah bryant | 莎拉·布莱恩 | ![](https://static.wikia.nocookie.net/virtuafighter/images/3/31/SarahVF5US.jpg)<br>所属作品：`virtua fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
