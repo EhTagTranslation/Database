@@ -13610,6 +13610,7 @@ example:
 | wonawonchi | ヲナヲんち |  |  |
 | kttai | KTTAI |  |  |
 | 04cura | 04cura |  |  |
+| yuriko club | ゆりこくらぶ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
