@@ -13609,6 +13609,7 @@ example:
 | umebachiman park | うめばちまん公園 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062083.html) |
 | wonawonchi | ヲナヲんち |  |  |
 | kttai | KTTAI |  |  |
+| 04cura | 04cura |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
