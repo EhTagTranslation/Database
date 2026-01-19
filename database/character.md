@@ -3219,7 +3219,7 @@ example:
 | batwoman | 蝙蝠女侠 |  | [百度百科](https://baike.baidu.com/item/蝙蝠女侠/430714) |
 | batgirl | 蝙蝠少女 |  | [百度百科](https://baike.baidu.com/item/蝙蝠少女/19823997) |
 | barbara gordon | 芭芭拉·戈登 |  | [百度百科](https://baike.baidu.com/item/芭芭拉·戈登) |
-| blackfire | 黑火 |  | [百度百科](https://baike.baidu.com/item/黑火/22077069) |
+| blackfire | 黑火 | ![](https://ehgt.org/w/02/063/09483-hef53stk.webp)<br>出自作品：`p:teen titans` | [百度百科](https://baike.baidu.com/item/黑火/22077069) |
 | bruce wayne | 布鲁斯·韦恩 |  | [百度百科](https://baike.baidu.com/item/布鲁斯·韦恩/9892496) |
 | jinx | 金克丝（暴走萝莉） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/6/6e/ct2z0uaz7qk8i07sm2w69n516yk5n2u.jpg) | [萌娘百科](https://zh.moegirl.org.cn/金克丝) |
 | lex luthor | 莱克斯·卢瑟 |  |  |
