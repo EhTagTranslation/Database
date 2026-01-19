@@ -8237,6 +8237,7 @@ example:
 | pai chan | 陈佩 | ![](https://static.wikia.nocookie.net/deadoralive/images/c/cb/DOA5_Pai_Render.png)<br>所属作品：`dead or alive`<br>陈洛的独生女，自幼开始接受拳术的菁英教育。 |  |
 | sarah bryant | 莎拉·布莱恩 | ![](https://static.wikia.nocookie.net/virtuafighter/images/3/31/SarahVF5US.jpg)<br>所属作品：`virtua fighter` |  |
 | anne boonchuy | 安妮·布楚 | ![](https://ehgt.org/w/01/959/26393-m7fxk6g8.webp)<br>出自作品：`p:amphibia`<br><br>安妮·布楚（泰语：แอน บุญช่วย，英语：Anne Boonchuy）是DTA旗下原创动画《奇幻沼泽》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安妮·布楚) |
+| glgrdsklechhh | Glgrdsklechhh | ![](https://thumbsnap.com/i/SQg4Cwvs.jpg)<br>出自作品：`p:teen titans` | [Fandom](https://teentitans.fandom.com/wiki/Glgrdsklechhh) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
