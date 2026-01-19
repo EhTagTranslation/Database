@@ -2127,7 +2127,7 @@ example:
 | kaoru kiryuu | 雾生薰 |  |  |
 | cure dream | 梦天使 |  |  |
 | cure rouge | 火天使 |  |  |
-| cure lemonade | 春日野丽 (柠檬天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/b6/Curelemonademain.jpg/revision/latest?cb=20120216122244)<br>所属作品:`yes precure 5` | [Fandom](https://prettycure.fandom.com/wiki/Kasugano_Urara) |
+| cure lemonade | 春日野丽 (柠檬天使) | ![](https://storage.moegirl.org.cn/moegirl/commons/d/de/Cure_lemonade.jpg)<br>所属作品:`yes precure 5` | [萌娘百科](https://zh.moegirl.org.cn/春日野丽)<br>[Fandom](https://prettycure.fandom.com/wiki/Kasugano_Urara) |
 | cure mint | 薄荷天使 |  |  |
 | cure aqua | 水天使 |  |  |
 | milky rose | 妙奇露丝 |  |  |
