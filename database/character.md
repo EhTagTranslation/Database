@@ -2798,7 +2798,7 @@ example:
 | sylvanas windrunner | 希尔瓦娜斯·风行者 | 希尔瓦娜斯·风行者是暴雪旗下游戏《魔兽争霸》、《魔兽世界》以及《魔兽世界》官方小说中的登场角色，同时也在各种相关的衍生作品中亮相。 | [希尔瓦娜斯·风行者](https://zh.moegirl.org.cn/希尔瓦娜斯) |
 | nessa | 露璃娜 |  |  |
 | sonia | 索妮亚 | ①<br>![](https://img.moegirl.org.cn/common/f/f1/Sonia.png)<br>所属作品：`pokemon`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/f1/Sonia.png/revision/latest?cb=20230104063335)<br>日文：ソーニャ<br>所属作品：`fire emblem the blazing blade` | [索妮亚(`pokemon`)](https://zh.moegirl.org.cn/索妮亚%28宝可梦%29)<br>[索妮亚(`fire emblem the blazing blade`)](https://fireemblem.fandom.com/wiki/Sonia) |
-| mallow | 玛奥 |  |  |
+| mallow | 玛奥 | ![](https://ehgt.org/w/02/119/20560-b6enyyxa.webp)<br>出自作品：`p:pokemon`<br><br>玛奥（日语：マオ，英语：Mallow）是《精灵宝可梦 太阳／月亮》及其衍生动画、漫画中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛奥%28宝可梦%29#) |
 | melony | 美蓉 |  |  |
 | kama | 迦摩 | ![迦摩](https://img.moegirl.org.cn/common/8/82/迦摩满破.png)<br>所属作品：`fate grand order`<br><br>印度神话中的爱神。本作中以凭依在间桐樱的身上的形态登场。<br>FGO中因为受到帕尔瓦蒂的影响而变成了女性。 | [萌娘百科](https://zh.moegirl.org.cn/迦摩%28Fate%29#迦摩（Assassin）) |
 | yu mei-ren | 虞美人 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
