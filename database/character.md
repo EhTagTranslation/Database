@@ -2335,7 +2335,7 @@ example:
 | sagat | 沙盖特 |  |  |
 | urien | 尤里安 |  |  |
 | vega | 维加 |  |  |
-| m. bison | 拜森 |  |  |
+| m. bison | 拜森 | ![](https://static.wikia.nocookie.net/streetfighter/images/c/c3/M_Bison_SF6.png)<br>所属作品：`street fighter`<br>强大的犯罪组织沙杜鲁的创始人和首领，是一位自封的独裁者和妄图统治世界的狂人。 | [Fandom](https://streetfighter.fandom.com/wiki/M._Bison) |
 | ingrid | 英格丽德 | ![](https://static.wikia.nocookie.net/taimanin/images/7/7e/Ingrid_39.png)<br>所属作品：`makai kishi ingrid` |  |
 | laura matsuda | 萝拉·松田 |  |  |
 | sean matsuda | 肖恩·松田 |  |  |
