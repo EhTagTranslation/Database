@@ -4632,7 +4632,7 @@ example:
 | yuzuriha | 杠 | 《地獄樂》登场角色 | [Fandom](https://jigokuraku.fandom.com/wiki/Yuzuriha) |
 | velvet | 薇尔贝特 | 薇尔贝特（ベルベット，velvet）是游戏《奥丁领域》中的角色。<br>因不明原因灭亡的曾经的大国瓦伦泰的公主。<br>![图](https://ehgt.org/fb/5c/fb5c6e9efdc96b360737608e2a96415000bfb48e-483830-724-1020-png_l.jpg)<br>![图](https://ehgt.org/a3/4b/a34b1a0f80dfc0f222f3f44d014fdb76afc9de71-1090893-1240-1647-jpg_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/velvet.html) |
 | lucyna kushinada | 露西 | 露西（日语：ルーシー／ルキナ・クシナダ；英语：Lucy / Lucyna Kushinada）是由 TRIGGER 制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cc/Cyberpunk_Lucy.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西%28赛博朋克边缘行者%29#) |
-| w | W | ![](https://img.moegirl.org.cn/common/d/db/明日方舟立绘_W_1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:W) |
+| w | 维什戴尔 | ![](https://img.moegirl.org.cn/common/d/db/明日方舟立绘_W_1.png)<br>所属作品`p:arknights`<br>萨卡兹雇佣兵领袖W，现更名维什戴尔。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:W) |
 | senko | 仙狐 | 仙狐是由リムコロ所创作的漫画《贤惠幼妻仙狐小姐》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/0a/Senko.png) | [萌娘百科](https://zh.moegirl.org.cn/仙狐) |
 | johnny silverhand | 强尼·银手 | 强尼·银手（Johnny Silverhand）是《赛博朋克系列》及其衍生作品的登场角色，首次登场于《赛博朋克2020》<br>![](https://img.moegirl.org.cn/common/2/2f/强尼银手.png) | [萌娘百科](https://zh.moegirl.org.cn/强尼·银手) |
 | david martinez | 大卫·马丁内斯 | 大卫·马丁内斯（日语：デイビッド・マルティネス；英语：David Martinez）是由TRIGGER制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/6/6a/David_Martinez_0920.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大卫·马丁内斯) |
