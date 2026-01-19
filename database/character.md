@@ -8232,6 +8232,7 @@ example:
 | iori yagami | 八神庵 | ![](https://www.snk-corp.co.jp/zh/games/kof-xv/characters/img/character_iori.png)<br>所属作品：`king of fighters` |  |
 | ryoji kaji | 加持良治 | ![](https://i.pinimg.com/474x/d9/1d/25/d91d25e8a2d367aea26f2894f6cecaa8.jpg)<br>所属作品：`neon genesis evangelion` |  |
 | kula diamond | 库拉·戴蒙德 | ![](https://static.wikia.nocookie.net/snk/images/7/7a/KOF_All_Star_Kula.png)<br>所属作品：`king of fighters` |  |
+| bass armstrong | 巴斯·阿姆斯特朗 | ![](https://www.fightersgeneration.com/nf6/char/bass-doa5infinite-artwork.jpg)<br>所属作品：`dead or alive`<br>一位退役职业摔跤手。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
