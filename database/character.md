@@ -2741,7 +2741,7 @@ example:
 | sellma | 罗克珊努 |  |  |
 | ruida | 莉卡 |  |  |
 | mar | 梅亚 |  |  |
-| vice | 薇思 |  |  |
+| vice | 薇思 | ![](https://static.wikia.nocookie.net/snk/images/2/2d/KOFAFK-VicePortrait.png)<br>所属作品：`king of fighters` |  |
 | misato katsuragi | 葛城美里 | 所属作品：`neon genesis evangelion`<br><br>葛城美里是是NERV的指挥官，碇真嗣与惣流·明日香·兰格雷的监护人。<br>![](https://static.wikia.nocookie.net/evangelion/images/6/6a/Misato_Katsuragi_NGE_Illustration.png) | [维基百科](https://zh.wikipedia.org/wiki/葛城美里)  [Fandom](https://evangelion.fandom.com/wiki/Misato_Katsuragi) |
 | mari illustrious makinami | 真希波·真理·伊拉丝多莉亚斯 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/529755.png)<br>所属作品：`neon genesis evangelion` |  |
 | angewomon | 天女兽 |  |  |
