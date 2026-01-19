@@ -3061,7 +3061,7 @@ example:
 | elesa | 小菊儿 |  |  |
 | selene | 美月 |  |  |
 | lillie | 莉莉艾 | ![](https://ehgt.org/w/01/961/67306-pf1tdadm.webp)<br>所属作品：`pokemon` |  |
-| honoka | 穗乃果 | ![](https://img.moegirl.org.cn/common/b/b2/DOA5LR_Honoka_Render.png)<br>游戏《死或生》及其衍生作品的登场女性角色。初次登场于《死或生5：最后一战》；<br>在《无双☆全明星》亦有客串登场。<br>由祖母带大的穗乃果是名落落大方的女孩，非常喜欢格斗技，兴奋起来体内就会涌出一股神秘的力量。最厉害的特技就是看到别人的招式就能马上学会，不过这件事她一直保密没有让人知道。因为很想试试看自己的力量，所以瞒着大家偷偷参加了格斗大赛。 |  |
+| honoka | 穗乃果 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b5/C02_img.png)<br>所属作品：`dead or alive` |  |
 | hex maniac | 灵异迷 | 灵异迷是游戏《`p:pokemon`》系列中的一种路人训练家类型。 | [萌娘百科](https://zh.moegirl.org.cn/灵异迷) |
 | hypno | 引梦貘人 |  |  |
 | lana | 水莲 |  |  |
