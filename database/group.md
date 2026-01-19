@@ -13611,6 +13611,7 @@ example:
 | kttai | KTTAI |  |  |
 | 04cura | 04cura |  |  |
 | yuriko club | ゆりこくらぶ |  |  |
+| sigmart | SigMart |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64808.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
