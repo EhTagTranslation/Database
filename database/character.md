@@ -2561,7 +2561,7 @@ example:
 |  | ▼ 未分类 |  |  |
 | mumei | 无名 | ![](https://ehgt.org/w/01/585/08169-rwk2tafr.webp)<br>所属作品：`koutetsujou no kabaneri` |  |
 | ayane | 绫音 | ![](https://ehgt.org/w/02/002/23528-kc7rmdub.webp)<br>所属作品：`dead or alive` |  |
-| mai shiranui | 不知火舞 | 格斗游戏《饿狼传说》中的角色。 |  |
+| mai shiranui | 不知火舞 | ![](https://ehgt.org/w/02/134/08726-esq5ilt2.webp)<br>所属作品：`fatal fury` |  |
 | naotora ii | 井伊直虎 |  |  |
 | lu lingqi | 吕玲绮 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhurong | 祝融 |  |  |
