@@ -14670,6 +14670,7 @@ example:
 | david dong | David東 |  | [爱发电](https://afdian.net/a/Daviddong) \| [FANBOX](https://daviddong.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/68396841) \| [Deviantart](https://www.deviantart.com/david-dong) \| [X](https://x.com/david96054182) |
 | ethan | いーさん |  | [FANBOX](https://www.fanbox.cc/@ethan00283) |
 | sigma | SigMa |  | [Fantia](https://fantia.jp/fanclubs/328959) \| [X](https://x.com/sigmart03) |
+| baketsuya | バケツ屋 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22バケツ屋%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
