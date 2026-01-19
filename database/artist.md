@@ -14671,6 +14671,7 @@ example:
 | ethan | いーさん |  | [FANBOX](https://www.fanbox.cc/@ethan00283) |
 | sigma | SigMa |  | [Fantia](https://fantia.jp/fanclubs/328959) \| [X](https://x.com/sigmart03) |
 | baketsuya | バケツ屋 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22バケツ屋%22) |
+| waryu | わりゅう |  | [pixiv](https://www.pixiv.net/users/77769028) |
 
 <!--TEMPLATE:
 |  |  |  |  |
