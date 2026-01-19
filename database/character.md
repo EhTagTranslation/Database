@@ -3561,7 +3561,7 @@ example:
 | rudeus greyrat | 鲁迪乌斯·格雷拉特 | ![](https://thumbsnap.com/i/Sg1dkUsv.jpg)<br>鲁迪乌斯·格雷拉特（日语：ルーデウス・グレイラット）是由理不尽な孫の手创作的轻小说《`p:mushoku tensei`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鲁迪乌斯·格雷拉特) |
 | sylphiette | 希露菲叶特 | ![](https://ehgt.org/w/01/995/73446-adbcz41k.webp)<br>所属作品：`mushoku tensei` |  |
 | zamasu | 扎马斯 |  |  |
-| kokoro | 心 | 日本格斗游戏《死或生》中登场角色，擅长八极拳的女生。同时是学生也是京都的艺妓。为了证实自己实力而不顾母亲美夜子反对参加DOA大赛。DOA5中在扎克邀请下参加了大赛，和海莲娜见面对话中，发现了母亲美夜子其实在艺妓的身份下，也有在DOATEC公司工作。<br>生日：12月1日<br>星座：射手座<br>年龄：17岁<br>血型：A型<br>身高：158cm<br>体重：49kg<br>三围：B90；W55；H87<br>职业：艺伎<br>兴趣：钢琴<br>喜欢的食物：日式点心；红豆汤<br>喜欢的颜色：橙色<br>流派：八极拳 |  |
+| kokoro | 心 | ![](https://static.wikia.nocookie.net/deadoralive/images/e/e0/C05_img.png)<br>所属作品：`dead or alive`<br>使用着八极拳，乐观活泼的女孩子。 |  |
 | christie | 克丽丝蒂 |  |  |
 | mila | 米拉 |  |  |
 | hitomi | 瞳 |  |  |
