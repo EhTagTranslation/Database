@@ -14676,6 +14676,7 @@ example:
 | kotaro otn | 狐太郎OTN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22狐太郎OTN%22) |
 | incogneato | Incogneato |  | [ewgrounds](https://incogneatoart.newgrounds.com/) |
 | rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
+| misotsuki ayabe | 味噌月あやべ |  | [pixiv](https://www.pixiv.net/users/39456224) |
 
 <!--TEMPLATE:
 |  |  |  |  |
