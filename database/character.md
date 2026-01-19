@@ -8225,6 +8225,7 @@ example:
 | isaki riona | 响咲莉欧娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/d/da/Isaki_Riona_Portrait.png)<br>所属社团：`hololive`<br>響咲 リオナ |  |
 | tomo fujii | 藤居朋 | ![](https://static.wikia.nocookie.net/kangaroos/images/c/c7/Fujii_Tomo.png)<br>所属作品：`the idolmaster` |  |
 | kai shintani | 申谷海 | ![](https://thumbsnap.com/i/gYpRSeY7.jpg)<br>出自作品：`p:blue archive`<br><br>申谷海是由NEXON Games开发的游戏《蔚蓝档案》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/申谷海) |
+| michiyo gotou | 后藤美智代 | ![](https://ehgt.org/w/02/086/81333-t1dn3x9k.webp)<br>出自作品：`p:bocchi the rock`<br><br>后藤美智代（外文名：后藤美智代）是漫画《孤独摇滚！》及衍生作品中的虚拟角色，由声优末柄里惠负责配音。该角色为主人公后藤独的母亲。 | [百度百科](https://baike.baidu.com/item/后藤美智代/65698723) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
