@@ -14666,7 +14666,7 @@ example:
 | umebachiman | うめばちまん |  |  |
 | wonawo | ヲナヲ |  |  |
 | enma | 艶摩 |  |  |
-| azienda | Azienda |  |  |
+| azienda | Azienda |  | [Patreon](https://www.patreon.com/azienda) \| [pixiv](https://www.pixiv.net/users/52441207/artworks) |
 
 <!--TEMPLATE:
 |  |  |  |  |
