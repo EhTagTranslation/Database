@@ -4628,7 +4628,7 @@ example:
 | shuuko komi | 古见秀子 | 古见秀子，古见硝子的母亲，是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/74/Komi_Shuko.png) | [萌娘百科](https://zh.moegirl.org.cn/古见秀子) |
 | kana arima | 有马加奈 | 有马加奈（日语：有馬（ありま）かな）。是由赤坂明创作、横枪萌果作画的漫画《【我推的孩子】》的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/有马加奈彩图.jpg) | [萌娘百科](https://zh.moegirl.org.cn/有马加奈) |
 | mina majikina | 真镜名美奈 | 真镜名美奈（日语：真鏡名 ミナ）是SNK旗下的游戏《侍魂》系列及其衍生作品的登场角色。初登场于《侍魂 零》。<br>![](https://img.moegirl.org.cn/common/8/85/19341583.jpg) | [萌娘百科](https://zh.moegirl.org.cn/真镜名美奈) |
-| nyotengu | 女天狗 | 女天狗是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 初登场于DOA5U Arcade。<br>![](https://img.moegirl.org.cn/common/b/b4/DOA5UA_Nyo-Tengu_Render.png) | [萌娘百科](https://zh.moegirl.org.cn/女天狗%28死或生%29) |
+| nyotengu | 女天狗 | ![](https://static.wikia.nocookie.net/deadoralive/images/c/c6/CECBCF84-ECFE-4C3A-AC03-7E5B834B5582.png)<br>所属作品：`dead or alive` | [萌娘百科](https://zh.moegirl.org.cn/女天狗%28死或生%29) |
 | yuzuriha | 杠 | 《地獄樂》登场角色 | [Fandom](https://jigokuraku.fandom.com/wiki/Yuzuriha) |
 | velvet | 薇尔贝特 | 薇尔贝特（ベルベット，velvet）是游戏《奥丁领域》中的角色。<br>因不明原因灭亡的曾经的大国瓦伦泰的公主。<br>![图](https://ehgt.org/fb/5c/fb5c6e9efdc96b360737608e2a96415000bfb48e-483830-724-1020-png_l.jpg)<br>![图](https://ehgt.org/a3/4b/a34b1a0f80dfc0f222f3f44d014fdb76afc9de71-1090893-1240-1647-jpg_l.jpg) | [官网介绍](https://asia.sega.com/osl/character/velvet.html) |
 | lucyna kushinada | 露西 | 露西（日语：ルーシー／ルキナ・クシナダ；英语：Lucy / Lucyna Kushinada）是由 TRIGGER 制作的原创动画《赛博朋克 边缘行者》中的登场角色。<br>![](https://img.moegirl.org.cn/common/c/cc/Cyberpunk_Lucy.jpg) | [萌娘百科](https://zh.moegirl.org.cn/露西%28赛博朋克边缘行者%29#) |
