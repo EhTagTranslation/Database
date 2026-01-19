@@ -970,7 +970,7 @@ example:
 |  | ▼ K-ON 角色 |  |  |
 | azusa nakano | 中野梓 | ![中野梓](https://ehgt.org/20/00/2000e34ee71ff2cd460511bf72243a3fb8dc76d7-631282-2452-3834-jpg_l.jpg) |  |
 | jun suzuki | 铃木纯 | ![铃木纯](https://ehgt.org/50/04/5004480cfb0c9c597ccf646f8cb19afbfe9080dd-1147183-1920-1200-png_l.jpg) |  |
-| mio akiyama | 秋山澪 | ![秋山澪](https://ehgt.org/22/e7/22e7a7e774123e6046b917fea37f1b4650ebe52d-681429-2448-3832-jpg_l.jpg) |  |
+| mio akiyama | 秋山澪 | ![秋山澪](https://ehgt.org/22/e7/22e7a7e774123e6046b917fea37f1b4650ebe52d-681429-2448-3832-jpg_l.jpg)<br>出自作品：`p:k-on`<br><br>秋山 澪（líng）（日语：秋山 澪（あきやま みお））是kakifly创作的漫画《轻音少女》及其衍生作品的登场角色。<br>轻音部的电贝斯手及合唱（有时也会担任主唱）。是一个左撇子，丹凤眼，有着到腰长度的黑发。是轻音部中唯一有后援会的部员。 | [萌娘百科](https://zh.moegirl.org.cn/秋山澪) |
 | ritsu tainaka | 田井中律 | ![田井中律](https://ehgt.org/d4/27/d4272505f8de03a5f0271fec4557a2d0a322a6a3-487201-2451-3834-jpg_l.jpg) |  |
 | sawako yamanaka | 山中佐和子 | ![山中佐和子](# "https://ehgt.org/dc/00/dc000c4ba6ed427a35cf9d0f47f5a4a0334d96f7-163825-800-800-jpg_250.jpg") |  |
 | tsumugi kotobuki | 琴吹䌷 | ![琴吹䌷](https://ehgt.org/95/49/9549d30caad13bec29fba7d22caa66d44133b919-676092-2451-3829-jpg_l.jpg) |  |
