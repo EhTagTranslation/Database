@@ -13605,6 +13605,7 @@ example:
 | hibachabashira | ひばちゃばしら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062222.html) |
 | cilentz | Cilentz |  |  |
 | pizza rotten | ピッツァ ROTTEN |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01034353.html) |
+| kire para | 切れパラ |  | [DLsite](https://www.dlsite.com/girls/circle/profile/=/maker_id/RG01014279.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
