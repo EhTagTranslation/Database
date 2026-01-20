@@ -14681,6 +14681,7 @@ example:
 | rururoriri | るるろりり |  | [pixiv](https://www.pixiv.net/users/30939375) |
 | abyonus | アビョノス |  | [FANBOX](https://abyonus.fanbox.cc) |
 | ikuramabo | イクラマーボー |  |  |
+| waremono | ワレモノ |  | [pixiv](https://www.pixiv.net/users/6484403) |
 
 <!--TEMPLATE:
 |  |  |  |  |
