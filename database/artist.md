@@ -14683,6 +14683,7 @@ example:
 | ikuramabo | イクラマーボー |  |  |
 | waremono | ワレモノ |  | [pixiv](https://www.pixiv.net/users/6484403) |
 | black7 | BLACK7 |  | [X](https://x.com/MONSTERQ33/) \| [Patreon](https://www.patreon.com/user?u=470196) |
+| cloudy | CLOUDY |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22cloudy%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
