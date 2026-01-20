@@ -13620,6 +13620,7 @@ example:
 | furin zukan | ふりんずかん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009692.html) |
 | cloudy eyes | CLOUDY EYES |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023066.html) |
 | kanrakutei | 乾酪亭 |  | [X](https://x.com/kanrakutei) \| [pixiv](https://www.pixiv.net/users/46282283) \| [BOOTH](https://kanrakutei.booth.pm/) |
+| seijin 14-sai | 成人14歳 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01028174.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
