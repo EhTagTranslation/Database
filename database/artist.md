@@ -13677,7 +13677,7 @@ example:
 | chida yuki | ちだゆうき |  |  |
 | todoroki kangoku | 轰かんごく |  |  |
 | ray oriha | レイ=オリハ |  |  |
-| chousetsu | ちょうせつ |  |  |
+| chousetsu | ちょうせつ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ちょうせつ%22) |
 | erocchi | エロッチ |  |  |
 | gozenchu | 娯禅宙 |  |  |
 | fukamichi ranou | 深道卵黄 |  |  |
