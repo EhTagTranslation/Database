@@ -13617,6 +13617,7 @@ example:
 | rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
 | iwasi no heya r | イワシの部屋R |  | [BOOTH](https://iwasi-r.booth.pm/) |
 | kasanaru | カサナル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67560.html) |
+| furin zukan | ふりんずかん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009692.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
