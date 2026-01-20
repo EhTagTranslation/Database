@@ -13615,6 +13615,7 @@ example:
 | full metal baket | FULL METAL BAKET |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062833.html) |
 | otn koukoku | OTN公国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68679.html) |
 | rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
+| iwasi no heya r | イワシの部屋R |  | [BOOTH](https://iwasi-r.booth.pm/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
