@@ -13618,6 +13618,7 @@ example:
 | iwasi no heya r | イワシの部屋R |  | [BOOTH](https://iwasi-r.booth.pm/) |
 | kasanaru | カサナル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67560.html) |
 | furin zukan | ふりんずかん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009692.html) |
+| cloudy eyes | CLOUDY EYES |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023066.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
