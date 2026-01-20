@@ -893,7 +893,7 @@ example:
 | gekkoji | 激昂寺 |  |  |
 | monety | もねてぃ |  |  |
 | hyji | 灰司 |  |  |
-| rokuichi | 六壹 |  |  |
+| rokuichi | 六壹 |  | [FANBOX](https://rokuichi-61.fanbox.cc/posts) |
 | yakumi benishouga | 药味红生姜 |  |  |
 | takeyuu | タケユウ |  |  |
 | pokka | ぽっか |  |  |
