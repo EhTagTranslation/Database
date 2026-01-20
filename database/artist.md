@@ -14676,6 +14676,7 @@ example:
 | incogneato | Incogneato |  | [ewgrounds](https://incogneatoart.newgrounds.com/) |
 | rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
 | misotsuki ayabe | 味噌月あやべ |  | [pixiv](https://www.pixiv.net/users/39456224) |
+| gumi chocolate pine | ぐみちょこれーとぱいん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72127.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
