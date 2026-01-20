@@ -14680,6 +14680,7 @@ example:
 | iwasi r | イワシR |  | [BOOTH](https://iwasi-r.booth.pm/) |
 | rururoriri | るるろりり |  | [pixiv](https://www.pixiv.net/users/30939375) |
 | abyonus | アビョノス |  | [FANBOX](https://abyonus.fanbox.cc) |
+| ikuramabo | イクラマーボー |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
