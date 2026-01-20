@@ -8243,6 +8243,7 @@ example:
 | syrup | 史洛普 | ![](https://static.wikia.nocookie.net/prettycure/images/5/52/Syrup.Shirohamai.Yesmovie.PNG/revision/latest?cb=20130515225743)<br>所属作品:`yes precure 5`<br>由芙罗拉精心养育，诞生于玫瑰疗园的精灵。可变身为人类，人类形态名字为甘井士郎 (Shirou Amai) | [百度百科](https://baike.baidu.com/item/史洛普/64566770)<br>[Fandom](https://prettycure.fandom.com/wiki/Syrup) |
 | hung | 吽 | 所属游戏:`arknights` | [https://prts.wiki/w/吽](https://prts.wiki/w/吽) |
 | mandragora | 蔓德拉 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c2/Ak_avg_npc_233_1.png)<br>所属游戏:`arknights`<br>主线第9章boss<br>蔓！ | [萌娘百科](https://zh.moegirl.org.cn/蔓德拉)<br>[PRTS](https://prts.wiki/w/蔓德拉) |
+| croix bartel | 克罗亚・瓦泰尔 | 出自作品：`p:ar tonelico`<br><br>18岁。《魔塔大陆2 响彻世界的少女的创造诗》的主角。自幼失去双亲，此后很受青梅竹马的瑠珈家照顾。因为憧憬著梅塔法利卡（メタファリカ ）与新绿的大地而加入大钟堂，是骑士团中是倍受瞩目的新人。他和其他骑士不同，没和诗魔法少女搭档。在游戏初期因某事件而开始担任克罗谢（クローシェ）的护卫。非战斗时总是戴着眼镜。在捷克莉（ジャクリ）路线的结局中为了捷克莉而学习诗语言唱诗。另外，事实上他的双亲是因被卷入瑠珈（ルカ）妹妹聆珈（レイカ）的I.P.D.暴走事件中而死亡。 | [维基百科](https://zh.wikipedia.org/wiki/魔塔大陸2_少女們於世界中迴響的創造詩#主要角色) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
