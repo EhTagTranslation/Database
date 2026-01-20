@@ -14688,6 +14688,7 @@ example:
 | no name | no name |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68273.html) |
 | sankaku noel | 三角ノエ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22三角ノエル%22) |
 | kaisen donburi | かいせんどんぶり |  | [FANBOX](https://oobakacomushi.fanbox.cc/) |
+| itano chiharu | 「冬将軍」 | 「冬将軍」（原名称：板野ちはる） | [FANBOX](https://chiha0731.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34234850) |
 
 <!--TEMPLATE:
 |  |  |  |  |
