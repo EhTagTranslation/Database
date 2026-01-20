@@ -13616,6 +13616,7 @@ example:
 | otn koukoku | OTN公国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68679.html) |
 | rorimuti | ろりむち |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57748.html) |
 | iwasi no heya r | イワシの部屋R |  | [BOOTH](https://iwasi-r.booth.pm/) |
+| kasanaru | カサナル |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67560.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
