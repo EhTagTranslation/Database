@@ -1750,7 +1750,7 @@ example:
 | ape escape | 捉猴啦 |  | [维基百科](https://zh.wikipedia.org/wiki/捉猴啦) |
 | ar nosurge | Ar nosurge ～献给诞生之星的祈祷诗～ |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/アルノサージュ〜生まれいずる星へ祈る詩〜) |
 | ciel nosurge | 静籁之空 ～献给失落之星的诗～ |  | [维基百科](https://zh.wikipedia.org/wiki/靜籟之空_～獻給失落之星的詩～) |
-| ar tonelico | 魔塔大陆 |  | [维基百科](https://zh.wikipedia.org/wiki/魔塔大陸系列) |
+| ar tonelico | 魔塔大陆 |  | [萌娘百科](https://zh.moegirl.org.cn/魔塔大陆系列) \| [维基百科](https://zh.wikipedia.org/wiki/魔塔大陸系列) |
 | ar tonelico qoga | 魔塔大陆3 |  | [维基百科](https://zh.wikipedia.org/wiki/魔塔大陸3%20終結世界的少女詩歌) |
 | araiguma rascal | 小浣熊 |  | [维基百科](https://zh.wikipedia.org/wiki/浣熊拉斯卡爾) |
 | arcana famiglia | 魔力家族 |  | [维基百科](https://zh.wikipedia.org/wiki/聖靈家族) |
