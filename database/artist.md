@@ -14687,6 +14687,7 @@ example:
 | ak | AK |  | [X](https://x.com/kanrakutei) \| [pixiv](https://www.pixiv.net/users/46282283) |
 | no name | no name |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68273.html) |
 | sankaku noel | 三角ノエ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22三角ノエル%22) |
+| kaisen donburi | かいせんどんぶり |  | [FANBOX](https://oobakacomushi.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
