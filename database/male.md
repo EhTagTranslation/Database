@@ -89,7 +89,7 @@ example:
 | dog boy | 狗男孩 | `dog girl`的男性版本。 |  |
 | draenei | 德莱尼 | `world of warcraft`的恶魔人形生物。有蓝色的皮肤与蹄和发光的眼睛。 |  |
 | elephant boy | 象男孩 | `elephant girl`的男性版本。 |  |
-| fairy | 仙子🧚‍♂️ | 有翅膀的人或其他生物，往往体型很小。 |  |
+| fairy | 妖精🧚‍♂️ | 有翅膀的人或其他生物，往往体型很小。 |  |
 | fox boy | 狐男 | `fox girl`的男性版本。 |  |
 | frog boy | 青蛙男孩 | `frog girl`的男性版本。 |  |
 | furry | 毛茸茸 | 拟人化的动物角色，具有人的个性与特点。<br>![图](# "https://ehgt.org/13/5c/135ce05b78b1d4170e51ed09bca35a6308b4905a-1500979-914-1300-jpg_l.jpg")![图](# "https://ehgt.org/39/6e/396e00043bbf49abfe7355dabca5d89d0cf8d63e-3424740-1410-2000-png_l.jpg") |  |
