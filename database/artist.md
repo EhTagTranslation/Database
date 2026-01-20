@@ -14678,6 +14678,7 @@ example:
 | misotsuki ayabe | 味噌月あやべ |  | [pixiv](https://www.pixiv.net/users/39456224) |
 | gumi chocolate pine | ぐみちょこれーとぱいん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72127.html) |
 | iwasi r | イワシR |  | [BOOTH](https://iwasi-r.booth.pm/) |
+| rururoriri | るるろりり |  | [pixiv](https://www.pixiv.net/users/30939375) |
 
 <!--TEMPLATE:
 |  |  |  |  |
