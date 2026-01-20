@@ -14682,6 +14682,7 @@ example:
 | abyonus | アビョノス |  | [FANBOX](https://abyonus.fanbox.cc) |
 | ikuramabo | イクラマーボー |  |  |
 | waremono | ワレモノ |  | [pixiv](https://www.pixiv.net/users/6484403) |
+| black7 | BLACK7 |  | [X](https://x.com/MONSTERQ33/) \| [Patreon](https://www.patreon.com/user?u=470196) |
 
 <!--TEMPLATE:
 |  |  |  |  |
