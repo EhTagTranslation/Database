@@ -11189,7 +11189,7 @@ example:
 | uemukai dai | 上向だい |  |  |
 | ueno ebisen | 上野えびせん |  |  |
 | ueno juubai | 上野十倍 |  |  |
-| ueno meguru | 植野メグル |  |  |
+| ueno meguru | 植野メグル | 貫うろん | [pixiv](https://www.pixiv.net/users/119001028)<br>[X](https://x.com/nuki_uron) |
 | ueno naoya | ウエノ直哉 |  |  |
 | ueshima haruki | 上嶋ハルキ |  |  |
 | uesugi shingo | 上杉信五 |  |  |
@@ -14600,7 +14600,6 @@ example:
 | yamagama | 山蝦蟇 |  | [pixiv](https://www.pixiv.net/users/112024320) |
 | towatowa | 十輪towa |  |  |
 | heihuafeihuiheihua | 黑话肥会黑话 |  |  |
-| nuki uron | 貫うろん | 植野メグルの分身 | [pixiv](https://www.pixiv.net/users/119001028)<br>[X](https://x.com/nuki_uron) |
 | aihara yorani | 粟飯原よラニ \| プラシーボ |  | [X](https://x.com/chin2_pork) |
 | yurulomi | ユルロミ |  | [X](https://x.com/YurulomI)<br>[pixiv](https://www.pixiv.net/users/110968369) |
 | udon ningen | うどん人間 |  | [pixiv](https://www.pixiv.net/users/94796485)<br>[X](https://x.com/udoon_ningen) |
