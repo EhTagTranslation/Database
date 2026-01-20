@@ -14689,7 +14689,7 @@ example:
 | sankaku noel | 三角ノエ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22三角ノエル%22) |
 | kaisen donburi | かいせんどんぶり |  | [FANBOX](https://oobakacomushi.fanbox.cc/) |
 | itano chiharu | 「冬将軍」 | 「冬将軍」（原名称：板野ちはる） | [FANBOX](https://chiha0731.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/34234850) |
-| tetetor-oort | 田代憂 |  | [X](https://x.com/tetetoroort)<br>[pixiv](https://www.pixiv.net/users/67922) |
+| tetetor-oort | 田代憂 | ![头像](https://i.pixiv.cat/user-profile/img/2024/04/21/16/16/52/25791600_aed30609a0318597871fb8a823c732d2_170.jpg) | [X](https://x.com/tetetoroort)<br>[pixiv](https://www.pixiv.net/users/67922) |
 
 <!--TEMPLATE:
 |  |  |  |  |
