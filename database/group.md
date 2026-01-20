@@ -13621,6 +13621,7 @@ example:
 | cloudy eyes | CLOUDY EYES |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01023066.html) |
 | kanrakutei | 乾酪亭 |  | [X](https://x.com/kanrakutei) \| [pixiv](https://www.pixiv.net/users/46282283) \| [BOOTH](https://kanrakutei.booth.pm/) |
 | seijin 14-sai | 成人14歳 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01028174.html) |
+| neko no maccha parfait | 猫の抹茶パフェ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01042685.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
