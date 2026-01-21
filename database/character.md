@@ -1543,7 +1543,7 @@ example:
 |  | 秋山淳五郎 |  |  |
 | yoshiko akiyama | 秋山好子 |  |  |
 |  | 冷泉久子 |  |  |
-| chiyo shimada | 岛田千代 |  |  |
+| chiyo shimada | 岛田千代 | ![](https://ehgt.org/w/02/192/36850-h6zsbwoc.webp)<br>出自作品：`p:girls und panzer`<br><br>岛田千代（日语：島田 千代（しまだ ちよ））是Actas制作的动画《少女与战车》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岛田千代) |
 |  | 文科省官员 |  |  |
 |  | ▼ 尼尔 |  |  |
 | a2 | A型二号 |  |  |
