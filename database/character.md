@@ -883,7 +883,7 @@ example:
 | super crown bowser | 库巴姬 |  |  |
 | princess peach | 桃子公主 | ![](https://ehgt.org/w/02/025/44703-lr39kjx6.webp)<br>所属作品：`super mario brothers`<br>别译碧奇公主 |  |
 | princess daisy | 黛西公主 |  |  |
-| rosalina | 罗塞塔 |  |  |
+| rosalina | 罗塞塔 | ![](https://ehgt.org/w/01/806/46480-7rvhgb5n.webp)<br>所属作品：`super mario brothers` |  |
 | pauline | 波琳 |  |  |
 | boo | 布布 |  |  |
 | super crown boo | 幽灵姬 |  |  |
@@ -8245,6 +8245,7 @@ example:
 | mandragora | 蔓德拉 | ![](https://storage.moegirl.org.cn/moegirl/commons/c/c2/Ak_avg_npc_233_1.png)<br>所属游戏:`arknights`<br>主线第9章boss<br>蔓！ | [萌娘百科](https://zh.moegirl.org.cn/蔓德拉)<br>[PRTS](https://prts.wiki/w/蔓德拉) |
 | croix bartel | 克罗亚・瓦泰尔 | 出自作品：`p:ar tonelico`<br><br>18岁。《魔塔大陆2 响彻世界的少女的创造诗》的主角。自幼失去双亲，此后很受青梅竹马的瑠珈家照顾。因为憧憬著梅塔法利卡（メタファリカ ）与新绿的大地而加入大钟堂，是骑士团中是倍受瞩目的新人。他和其他骑士不同，没和诗魔法少女搭档。在游戏初期因某事件而开始担任克罗谢（クローシェ）的护卫。非战斗时总是戴着眼镜。在捷克莉（ジャクリ）路线的结局中为了捷克莉而学习诗语言唱诗。另外，事实上他的双亲是因被卷入瑠珈（ルカ）妹妹聆珈（レイカ）的I.P.D.暴走事件中而死亡。 | [维基百科](https://zh.wikipedia.org/wiki/魔塔大陸2_少女們於世界中迴響的創造詩#主要角色) |
 | jacqli | 蛇刳 | ![](https://ehgt.org/w/01/706/25873-hlzr0eba.webp)<br>出自作品：`p:ar tonelico`<br><br>382岁（外貌15岁）。《魔塔大陆2 响彻世界的少女的创造诗》的女主角之一。身着黑色紧身衣的谜样女子。是β纯血种的诗魔法少女。登场时驾驶着一架名为“蛇刳（ジャクリ）”的机器。据本人说“报上名字很麻烦”的缘故，直接叫蛇刳就好了。 | [维基百科](https://zh.wikipedia.org/wiki/魔塔大陸2_少女們於世界中迴響的創造詩#主要角色) |
+| rena kinui | 衣斐蕾娜 | ![](https://ehgt.org/w/02/210/84355-0aodzjg5.webp)<br>出自作品：`p:blue archive`<br><br>衣斐蕾娜是NEXON Games开发的游戏《蔚蓝档案》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/衣斐蕾娜) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
