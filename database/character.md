@@ -6736,7 +6736,7 @@ example:
 | elizabeth | 伊丽莎白 | 所属作品：`persona 3` |  |
 | lilith aensland | 莉莉丝·安斯兰特 |  |  |
 | liu shen | 柳神 |  | [百度百科](https://baike.baidu.com/item/柳神/15436879) |
-| lulushi loo | 露露西·露 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8b/c6/121303_crt_zkTqd.jpg?r=1677332447)<br>所属作品：`isekai nonbiri nouka`<br>女主角之一，种族是吸血鬼，被称为“吸血公主”，以全裸的姿态进入死亡之森与火乐相遇而遭到热烈的求婚，成为了火乐的第一任妻子。容貌姣好，一头银发引人注目。作为有名的魔法师，能够使用大部分魔法，同时精通药草医学。 | [百度百科](https://baike.baidu.com/item/露露西·露/62528689) |
+| lulushi loo | 露露西·露 | ![](https://ehgt.org/w/01/916/33420-ezl5mhm6.webp)<br>所属作品：`isekai nonbiri nouka` | [百度百科](https://baike.baidu.com/item/露露西·露/62528689) |
 | chisa kotegawa | 古手川千纱 | ![](https://img.moegirl.org.cn/common/5/54/Grandblue_5_body.png)<br>所属作品：`grand blue`<br>伊豆大学机械工学系一年级生。本作主角北原伊织的无血缘表亲兼社团同辈同级系生。 | [萌娘百科](https://zh.moegirl.org.cn/古手川千纱) |
 | secre swallowtail | 塞科蕾・斯瓦罗忒尔（尼禄） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/18/00/09/40/135225212_p1_master1200.jpg)<br>所属作品：`black clover`<br>原为侍奉着初代魔法帝路米艾尔·希尔巴米利安·库罗巴的少女，在使用禁术后变成了一只黑色的小鸟，并被众人称作“尼禄”（小黑）。黑色短发，暗红色眼睛。 | [百度百科](https://baike.baidu.com/item/尼禄/23699320) |
 | hakuren | 哈克莲 | 所属作品：`isekai nonbiri nouka`<br>拉丝蒂的姑姑，种族是龙，称号“真龙”。口气轻浮，给人的印象是个相当迷糊的巨乳女性。 |  |
