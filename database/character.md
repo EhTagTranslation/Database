@@ -2649,7 +2649,7 @@ example:
 | precia zan zenosakis | 普蕾茜娅·泽诺萨奇斯 |  |  |
 | ruka urushibara | 漆原琉华 | **だが男だ。**<br><br>声音和举止看上去都像是女人。<br>…不，比女人更像女人的美少女。<br>**但是是男的。**<br>虽然比真由理高，<br>身形却很纤细。<br>**但是是男的。**<br>很适合巫女服。<br>但是是男的。<br>…都已经傍晚了，真热呢。<br>知了还在叫。<br>**但是……是男的。**<br><br>漆原琉华是游戏《`steinsgate`》及其衍生作品的登场角色。<br>![图](https://ehgt.org/66/da/66dac4d3a430189c0b3b427fbef1bfa527fc485e-1889520-1217-1716-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/漆原琉华) (\*\*) |
 | yui takamura | 篁唯依 |  |  |
-| nico robin | 妮可·罗宾 |  |  |
+| nico robin | 妮可·罗宾 | ![](https://ehgt.org/w/01/967/34457-u1x8yc64.webp)<br>出自作品：`p:one piece`<br><br>妮可·罗宾，外号“恶魔之子”和“革命军的灯火”，为草帽海贼团的考古学家。她是西方蓝已被夷平的岛与——欧哈拉唯一生还着，因此成为世上唯一一个能够解读历史本文的人，对世界政府来说是一大威胁，也明令禁止的行为。 | [Fandom](https://onepiece.fandom.com/zh/wiki/妮可·羅賓?variant=zh-cn) |
 | saint shalulia | 夏露莉雅宫 |  |  |
 | snow white | 白雪公主 |  |  |
 | little red riding hood | 小红帽 |  |  |
