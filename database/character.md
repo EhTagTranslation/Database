@@ -2991,7 +2991,7 @@ example:
 | junichi tachibana | 橘纯一 |  |  |
 | mafuyu kirisu | 桐须真冬 | ![](https://i.pixiv.cat/img-master/img/2025/09/03/09/48/38/134656875_p0_master1200.jpg)<br>所属作品：`bokutachi wa benkyou ga dekinai`<br>一之濑高中的教师，文乃与理珠的初代教育者。负责帮助学园长处理教学事务。<br>所教授的科目是世界史。 | [萌娘百科](https://zh.moegirl.org.cn/桐须真冬) |
 | nariyuki yuiga | 唯我成幸 |  |  |
-| alice zuberg | 爱丽丝·滋贝鲁库 | 轻小说《`sword art online`》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/7/7a/Alice9.jpg) | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·滋贝鲁库) |
+| alice zuberg | 爱丽丝·滋贝鲁库 | ![](https://img.moegirl.org.cn/common/7/7a/Alice9.jpg)<br>所属作品：`sword art online` | [萌娘百科](https://zh.moegirl.org.cn/爱丽丝·滋贝鲁库) |
 | selka zuberg | 赛鲁卡·滋贝鲁库 | 赛鲁卡·滋贝鲁库（セルカ·ツーベルク）是由川原砾所创作的小说《`sword art online`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛鲁卡·滋贝鲁库) |
 | haruhiro | 哈尔希洛 |  |  |
 | yume | 梦儿 |  |  |
