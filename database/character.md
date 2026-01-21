@@ -1763,7 +1763,7 @@ example:
 | loki | 洛基 |  |  |
 | syr flova | 希儿·福罗瓦 |  |  |
 |  | ▼ 魔法少女小圆 |  |  |
-| homura akemi | 晓美焰 |  |  |
+| homura akemi | 晓美焰 | ![](https://ehgt.org/w/00/859/71611-1qtv03v7.webp)<br>出自作品：`p:puella magi madoka magica`<br><br>晓美焰（日语：暁美（あけみ） ほむら）是动画《魔法少女小圆》系列及其衍生作品的登场角色，主角之一。TV版及旧剧场版第二女主角，新篇剧场版《叛逆的物语》第一女主角。 | [萌娘百科](https://zh.moegirl.org.cn/晓美焰) |
 | madoka kaname | 鹿目圆 |  |  |
 | mami tomoe | 巴麻美 |  |  |
 | sayaka miki | 美树沙耶香 |  |  |
