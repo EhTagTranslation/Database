@@ -3631,7 +3631,7 @@ example:
 | shouko komi | 古见硝子 | 古见硝子是漫画《古见同学有交流障碍症》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/00/Komi_shouko.jpg) | [萌娘百科](https://zh.moegirl.org.cn/古见硝子) |
 | hitohito tadano | 只野仁人 |  |  |
 | itto arataki | 荒泷一斗 | 荒泷一斗（英语：itto arataki）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![荒泷一斗](https://img.moegirl.org.cn/common/3/32/Genshin_Arataki_Itto_intro.webp) | [萌娘百科](https://zh.moegirl.org.cn/荒泷一斗) |
-| princess zelda | 塞尔达公主 | 不是林克 | [维基百科](https://zh.wikipedia.org/wiki/塞尔达公主) |
+| princess zelda | 塞尔达公主 | ![](https://ehgt.org/w/02/143/87567-nvd0qdxa.webp)<br><br>出自作品：`p:the legend of zelda`<br><br>塞尔达公主是任天堂旗下作品《塞尔达传说》系列的登场角色。<br>不是林克。 | [萌娘百科](https://zh.moegirl.org.cn/塞尔达) \| [维基百科](https://zh.wikipedia.org/wiki/塞尔达公主) |
 | ren hazuki | 叶月恋 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/df/叶月恋_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶月恋)<br>[Fandom](https://love-live.fandom.com/wiki/Ren_Hazuki) |
 | sumire heanna | 平安名堇 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/平安名堇_立绘.png)<br>所属作品: `p:love live superstar`<br>古搜库沐西～ 古搜库沐西～古搜库搜库搜库 古搜库沐西～<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/平安名堇)<br>[Fandom](https://love-live.fandom.com/wiki/Sumire_Heanna) |
 | lanzhu zhong | 钟岚珠 |  |  |
