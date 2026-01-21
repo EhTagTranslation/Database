@@ -5531,7 +5531,7 @@ example:
 | kindred | 千珏（永猎双子） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/5/54/as1jn879g8adnec40x55bxes2ux2902.jpg) | [萌娘百科](https://zh.moegirl.org.cn/千珏) |
 | jane doe | 简·杜 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/09/11/76099754/a8cecba77dcf30aac55911791b97d286_5628704406046486367.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/简·杜) |
 | finana ryugu | 龍宮Finana |  | [萌娘百科](https://zh.moegirl.org.cn/龙宫Finana) |
-| poplar taneshima | 种岛白杨 | ![](https://ehgt.org/w/01/420/40064-ie3u4ss3.webp)<br>出自作品：`p:working`<br><br>種島ぽぷら（たねしま　ぽぷら）<br>《迷糊餐厅》及其衍生作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
+| poplar taneshima | 种岛白杨 | ![](https://ehgt.org/w/02/211/58047-fclvmtbl.webp)<br>出自作品：`p:working`<br>種島ぽぷら（たねしま　ぽぷら） | [萌娘百科](https://zh.moegirl.org.cn/种岛白杨) |
 | saki hanami | 花海咲季 | 花海咲季是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/a/a0/花海咲季_1st_Single「Fighting_My_Way」.jpg/800px-花海咲季_1st_Single「Fighting_My_Way」.jpg) | [萌娘百科](https://zh.moegirl.org.cn/花海咲季) |
 | umika satohama | 里浜海香 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院所属，庆典运营管理部1年级的成员。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/12/352700.png) |  |
 | spas-12 | SPAS-12 \| 塞布丽娜 | `p:girls frontline`<br>![](https://gfwiki.org/images/a/ab/Pic_SPAS12_HD.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_SabrinaSSR.png)<br>猫咪：阿芙佳朵，配饰：红色系带 | [少前百科GFwiki](https://gfwiki.org/w/SPAS-12)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/SabrinaSSR) |
