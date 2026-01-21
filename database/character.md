@@ -5667,7 +5667,7 @@ example:
 | momo ayase | 绫濑桃 | 绫濑桃（モモ），日本漫画《当哒当》（日文《ダンダダン》）及其衍生作品中的女主角。<br>![](https://bkimg.cdn.bcebos.com/pic/a8ec8a13632762d0f7039b56a9b41ffa513d27976898?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/绫濑桃/63774516) |
 | andrew graves | 安德鲁·格雷夫斯 | 《`the coffin of andy and leyley`》中男主角，`c:ashley graves`的哥哥 |  |
 | renee graves | 蕾妮·格雷夫斯 | 《安迪和莱利的棺材》中兄妹的母亲 |  |
-| ashley graves | 阿什利·格雷夫斯 | 《`p:the coffin of andy and leyley`》中的女主，`c:andrew graves`的妹妹 |  |
+| ashley graves | 阿什利·格雷夫斯 | ![](https://ehgt.org/w/02/144/35371-n914kqnd.webp)<br>《`p:the coffin of andy and leyley`》中的女主，`c:andrew graves`的妹妹 |  |
 | greythroat | 灰喉 | 【代号】灰喉<br>【性别】女<br>【战斗经验】三年<br>【出身地】未公开<br>【生日】11月14日<br>【种族】黎博利<br>【身高】162cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者 | [https://prts.wiki/w/灰喉](https://prts.wiki/w/灰喉) |
 | pepe | 佩佩 | ![](https://patchwiki.biligame.com/images/arknights/6/66/hepkxh0yn03awclmudscuvw1re3cjob.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/佩佩](https://prts.wiki/w/佩佩) |
 | ines | 伊内丝 | 【代号】伊内丝<br>【性别】女<br>【战斗经验】十九年<br>【出身地】卡兹戴尔<br>【生日】2月19日<br>【种族】未公开<br>【身高】168cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为感染者。 | [https://prts.wiki/w/伊内丝](https://prts.wiki/w/伊内丝) |
