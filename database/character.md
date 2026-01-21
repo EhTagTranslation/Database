@@ -3574,7 +3574,7 @@ example:
 | platelet | 血小板 |  |  |
 | ayaka kamisato | 神里绫华 | ![](https://patchwiki.biligame.com/images/ys/a/a6/qlcfvze5mhcbk7prrojhe4u40yh5uts.gif)<br>所属作品:`p:genshin impact`<br>稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。 | [萌娘百科](https://zh.moegirl.org.cn/神里绫华) [百度百科](https://baike.baidu.com/item/神里绫华/23734468) [原神wiki](https://wiki.biligame.com/ys/神里绫华) |
 | shounagon sei | 清少纳言 | 清少纳言通常是指`type-moon`旗下Fate系列及其衍生作品中登场的角色，在游戏《`fate grand order`》初登场。<br><br>其出典于真实历史人物 清少纳言，是日本平安时期的女作家、歌人。姓清原，名不可考。以随笔集「枕草子」闻名。 | [萌娘百科](https://zh.moegirl.org.cn/清少纳言%28Fate%29) (\*\*) |
-| ritsuko akagi | 赤木律子 | 动漫《新世纪福音战士》中的角色。 |  |
+| ritsuko akagi | 赤木律子 | ![](https://ehgt.org/w/01/897/35016-2qtbcx99.webp)<br>出自作品：`p:neon genesis evangelion`<br><br>赤木律子（日语：赤木リツコ）是漫画/动画/游戏《新世纪福音战士》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赤木律子) |
 | yui ikari | 碇唯 | 《新世纪福音战士》中的角色 |  |
 | gendo ikari | 碇源堂 | 《新世纪福音战士》中的角色 |  |
 | kensou sie | 椎拳崇 |  |  |
