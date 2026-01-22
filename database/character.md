@@ -8266,7 +8266,7 @@ example:
 | greta | 黄瓜香 | ![](https://s1.52poke.com/wiki/thumb/b/b5/黄瓜香_E.png/305px-黄瓜香_E.png)<br>所属作品：`pokemon`<br>日文︰コゴミ |  |
 | janine | 阿杏 | ![](https://s1.52poke.com/wiki/thumb/d/d6/阿杏_HGSS.png/263px-阿杏_HGSS.png)<br>所属作品：`pokemon`<br>日文︰アンズ |  |
 | leon | 丹帝 | ![](https://s1.52poke.com/wiki/thumb/7/7d/丹帝_SWSH.png/286px-丹帝_SWSH.png)<br>所属作品：`pokemon`<br>日文︰ダンデ |  |
-| liza | 小南 | ![](https://s1.52poke.com/wiki/thumb/6/69/小枫与小南_ORAS.png/248px-小枫与小南_ORAS.png)<br>左为小南<br>所属作品：`pokemon`<br>日文︰ラン |  |
+| liza | 小南（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/6/69/小枫与小南_ORAS.png/248px-小枫与小南_ORAS.png)<br>左为小南<br>所属作品：`pokemon`<br>日文︰ラン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
