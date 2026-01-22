@@ -8303,6 +8303,7 @@ example:
 | infernape | 烈焰猴 | ![](https://s1.52poke.com/wiki/thumb/f/fb/392Infernape.png/300px-392Infernape.png)<br>所属作品：`pokemon` |  |
 | inteleon | 千面避役 | ![](https://s1.52poke.com/wiki/thumb/e/e4/818Inteleon.png/300px-818Inteleon.png)<br>所属作品：`pokemon`<br>日文︰インテレオン |  |
 | korrina | 可尔妮 | ![](https://s1.52poke.com/wiki/thumb/3/31/可尔妮_ZA.png/121px-可尔妮_ZA.png)<br>所属作品：`pokemon`<br>日文︰コルニ |  |
+| luxray | 伦琴猫 | ![](https://s1.52poke.com/wiki/thumb/a/a7/405Luxray.png/300px-405Luxray.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
