@@ -8288,6 +8288,7 @@ example:
 | georgia | 蓝葛雷 | ![](https://s1.52poke.com/wiki/thumb/3/3c/藍葛雷.png/110px-藍葛雷.png)<br>所属作品：`pokemon`<br>日文︰ラングレー |  |
 | drayden | 夏卡 | ![](https://s1.52poke.com/wiki/thumb/1/1e/夏卡_BW.png/188px-夏卡_BW.png)<br>所属作品：`pokemon`<br>日文︰シャガ |  |
 | furisode girl | 长袖和服少女 | ![](https://s1.52poke.com/wiki/thumb/9/9a/長袖和服少女1_XY.png/180px-長袖和服少女1_XY.png)<br>![](https://s1.52poke.com/wiki/thumb/e/e1/長袖和服少女2_XY.png/160px-長袖和服少女2_XY.png)<br>![](https://s1.52poke.com/wiki/thumb/f/f5/長袖和服少女3_XY.png/145px-長袖和服少女3_XY.png)<br>![](https://s1.52poke.com/wiki/thumb/6/62/長袖和服少女4_XY.png/134px-長袖和服少女4_XY.png)<br>所属作品：`pokemon`<br>日文︰ふりそで |  |
+| domino | 朵迷诺 | ![](https://s1.52poke.com/wiki/thumb/8/82/朵迷诺.png/300px-朵迷诺.png)<br>所属作品：`pokemon`<br>日文︰ドミノ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
