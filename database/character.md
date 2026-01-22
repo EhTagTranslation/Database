@@ -8310,6 +8310,7 @@ example:
 | pignite | 炒炒猪 | ![](https://s1.52poke.com/wiki/thumb/e/e8/499Pignite.png/300px-499Pignite.png)<br>所属作品：`pokemon` |  |
 | roxie | 霍米加 | ![](https://s1.52poke.com/wiki/thumb/e/ec/霍米加_B2W2.png/307px-霍米加_B2W2.png)<br>所属作品：`pokemon`<br>日文︰ホミカ |  |
 | sableye | 勾魂眼 | ![](https://s1.52poke.com/wiki/thumb/d/d3/302Sableye.png/300px-302Sableye.png)<br>所属作品：`pokemon` |  |
+| swampert | 巨沼怪 | ![](https://s1.52poke.com/wiki/thumb/b/b6/260Swampert.png/300px-260Swampert.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
