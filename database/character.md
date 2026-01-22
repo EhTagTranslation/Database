@@ -3030,7 +3030,7 @@ example:
 | tsukino mito | 月之美兔 | ![月之美兔](https://img.moegirl.org.cn/common/thumb/c/ce/TsukinoMito.png/92px-TsukinoMito.png)<br>月ノ美兎（つきのみと／Tsukino Mito）是隶属于彩虹社的虚拟YouTuber。 | [X](https://x.com/MitoTsukino) [YouTube](https://www.youtube.com/channel/UCD-miitqNY3nyukJ4Fnf4_A)<br>[萌娘百科](https://zh.moegirl.org.cn/月之美兔) [日文维基](https://ja.wikipedia.org/wiki/月ノ美兎) |
 | yui kusano | 草野优衣 | ![](https://static.wikia.nocookie.net/princess-connect/images/e/ef/Yui_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/草野优衣) |
 | kanon daiba | 台场夏音 | 误射姬 |  |
-| marnie | 玛俐 | 玛俐（日文︰マリィ，英文︰Marnie）是《剑／盾》中登场的角色，为主角的劲敌之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
+| marnie | 玛俐 | ![](https://s1.52poke.com/wiki/thumb/9/95/玛俐_SWSH.png/131px-玛俐_SWSH.png)<br>所属作品：`pokemon`<br>日文︰マリィ | [神奇宝贝百科](https://wiki.52poke.com/wiki/瑪俐) |
 | taokaka | 桃卡卡 |  |  |
 | medusa lily | 美杜莎（Lancer） | fate系列美杜莎的Lancer职阶形态 | [Mooncell FGO中文Wiki](http://fgo.wiki/w/美杜莎%28Lancer%29) [萌娘百科](https://zh.moegirl.org.cn/美杜莎%28Fate%29) |
 | salome | 莎乐美 |  | [FGO中文Wiki](https://fgo.wiki/w/莎乐美) |
