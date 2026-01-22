@@ -8263,6 +8263,7 @@ example:
 | bruno | 希巴 | ![](https://s1.52poke.com/wiki/thumb/2/2c/希巴_LPLE.png/297px-希巴_LPLE.png)<br>所属作品：`pokemon`<br>日文名：シバ |  |
 | calem | 卡鲁穆 | ![](https://s1.52poke.com/wiki/thumb/9/96/卡魯穆_XY.png/108px-卡魯穆_XY.png)<br>所属作品：`pokemon`<br>日文名：カルム |  |
 | courtney | 火雁 | ![](https://s1.52poke.com/wiki/thumb/0/09/火雁_ORAS.png/162px-火雁_ORAS.png)<br>所属作品：`pokemon`<br>日文名：カガリ |  |
+| greta | 黄瓜香 | ![](https://s1.52poke.com/wiki/thumb/b/b5/黄瓜香_E.png/305px-黄瓜香_E.png)<br>所属作品：`pokemon`<br>日文︰コゴミ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
