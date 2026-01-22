@@ -4296,7 +4296,7 @@ example:
 | piplup | 波加曼 | 波加曼（日文︰ポッチャマ，英文︰Piplup）是水属性宝可梦，是神奥地区最初的伙伴之一。它的设计者是大村祐介。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/波加曼) |
 | turtwig | 草苗龟 | 草苗龟（日文︰ナエトル，英文︰Turtwig）是草属性宝可梦，是神奥地区最初的伙伴之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/草苗龟) |
 | meowth | 喵喵 | 喵喵（日文︰ニャース，英文︰Meowth）是一般属性宝可梦，阿罗拉的样子是恶属性宝可梦。而伽勒尔的样子是钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/喵喵) |
-| cinderace | 闪焰王牌 | 闪焰王牌（日文︰エースバーン，英文︰Cinderace）是火属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/闪焰王牌) |
+| cinderace | 闪焰王牌 | ![](https://s1.52poke.com/wiki/thumb/b/b0/815Cinderace.png/300px-815Cinderace.png)<br>所属作品：`pokemon`<br>日文︰エースバーン | [神奇宝贝百科](https://wiki.52poke.com/wiki/闪焰王牌) |
 | lopunny | 长耳兔 | 长耳兔（日文︰ミミロップ，英文︰Lopunny）是一般属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/长耳兔) |
 | absol | 阿勃梭鲁 | 阿勃梭鲁（日文︰アブソル，英文︰Absol）是恶属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/阿勃梭鲁) |
 | banette | 诅咒娃娃 | 诅咒娃娃（日文︰ジュペッタ，英文︰Banette）是幽灵属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/诅咒娃娃) |
