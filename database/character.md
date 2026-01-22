@@ -5644,7 +5644,7 @@ example:
 | shounan | 昭南 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:昭南) |
 | inagi | 稻木 |  |  |
 | hiburi | 日振 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:日振) |
-| lycanroc | 鬃岩狼人 | 白昼的样子的鬃岩狼人有著浅棕色的毛发和淡蓝色的眼睛，特征是脖子上有四个尖锐的鬃岩。黑夜的样子的鬃岩狼人有著红色的毛发，它的眼睛是血红色的。跟白昼的样子截然不同的是，黑夜的样子的鬃岩狼人是用双脚行走的，也没有长长的鬃岩，取而代之的是头上的鬃毛基部和末端的岩石。黄昏的样子的鬃岩狼人在外表或能力方面，不但拥有与白昼的样子相似的部分，同时也能在它身上找到黑夜的样子的影子。脖子上的4个岩石与白昼的样子相似，并有着独特的绿眼睛，而头部的鬃毛则与黑夜的样子相仿。另一方面，在它身上亦能看见与“白昼的样子”及“黑夜的样子”都不相同的特征，如橘黄色的毛发、绿色的眼睛等。 | [https://wiki.52poke.com/wiki/鬃岩狼人](https://wiki.52poke.com/wiki/鬃岩狼人) |
+| lycanroc | 鬃岩狼人 | ![](https://s1.52poke.com/wiki/thumb/b/b5/745Lycanroc-Midday.png/300px-745Lycanroc-Midday.png)<br>所属作品：`pokemon` | [https://wiki.52poke.com/wiki/鬃岩狼人](https://wiki.52poke.com/wiki/鬃岩狼人) |
 | angol moa | 安格尔·摩亚 | 军曹动画中的角色 |  |
 | temari tsukimura | 月村手毬 | 月村手毬是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/c/c9/Imas_gakuen_cidol-ttmr-3-000_0-landscape.png/1920px-Imas_gakuen_cidol-ttmr-3-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/月村手毬) |
 | futaba igarashi | 五十岚双叶 | ![隐](# "https://ehgt.org/0e/50/0e50ad75e402ba871662be568a605eafa68d968f-1550126-1450-1590-png_l.jpg")<br>![隐](# "https://img3.gelbooru.com/images/58/b0/58b0de5f9689e5c53880d4e5763236ff.png") |  |
