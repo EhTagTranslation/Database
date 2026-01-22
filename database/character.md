@@ -8252,6 +8252,7 @@ example:
 | liko | 莉可 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/ec/Liko_anime_12.png/270px-Liko_anime_12.png)<br>所属作品：`pokemon` |  |
 | harper | 诗婷 | ![](https://archives.bulbagarden.net/media/upload/1/15/Harper_and_Sarah.png)<br>诗婷（左）<br>所属作品：`pokemon`<br>水莲的两位妹妹。<br>日文︰ホウ，英文︰Harper | [https://wiki.52poke.com/wiki/詩婷和詩涵](https://wiki.52poke.com/wiki/詩婷和詩涵) |
 | sarah | 诗涵 | ![](https://archives.bulbagarden.net/media/upload/1/15/Harper_and_Sarah.png)<br>诗涵（右）<br>所属作品：`pokemon`<br>水莲的两位妹妹。<br>日文︰スイ，英文︰Sarah | [https://wiki.52poke.com/wiki/詩婷和詩涵](https://wiki.52poke.com/wiki/詩婷和詩涵) |
+| lanas dad | 水莲爸爸 | 所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
