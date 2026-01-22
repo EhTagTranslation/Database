@@ -8301,6 +8301,7 @@ example:
 | growlithe | 卡蒂狗 | ![](https://s1.52poke.com/wiki/thumb/3/3d/058Growlithe.png/300px-058Growlithe.png)<br>所属作品：`pokemon` |  |
 | houndoom | 黑鲁加 | ![](https://s1.52poke.com/wiki/thumb/5/51/229Houndoom.png/300px-229Houndoom.png)<br>所属作品：`pokemon` |  |
 | infernape | 烈焰猴 | ![](https://s1.52poke.com/wiki/thumb/f/fb/392Infernape.png/300px-392Infernape.png)<br>所属作品：`pokemon` |  |
+| inteleon | 千面避役 | ![](https://s1.52poke.com/wiki/thumb/e/e4/818Inteleon.png/300px-818Inteleon.png)<br>所属作品：`pokemon`<br>日文︰インテレオン |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
