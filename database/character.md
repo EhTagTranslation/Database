@@ -4316,7 +4316,7 @@ example:
 | scorbunny | 炎兔儿 | 炎兔儿（日文︰ヒバニー，英文︰Scorbunny）是火属性宝可梦，是伽勒尔地区最初的伙伴之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/炎兔儿) |
 | zekrom | 捷克罗姆 | 捷克罗姆（日文︰ゼクロム，英文︰Zekrom）是龙属性和电属性传说的宝可梦。它是传说的龙宝可梦之一。它的设计者是杉森建。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷克罗姆) |
 | zeraora | 捷拉奥拉 | 捷拉奥拉（日文︰ゼラオラ，英文︰Zeraora）是电属性的幻之宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/捷拉奥拉) |
-| iono | 奇树 | 所属作品:`p:pokemon`<br>![](https://img.moegirl.org.cn/common/6/6f/Iono.png)<br>宝可梦朱紫电系道馆主 | [萌娘百科](https://zh.moegirl.org.cn/奇树) |
+| iono | 奇树 | ![](https://img.moegirl.org.cn/common/6/6f/Iono.png)<br>所属作品:`p:pokemon`<br>日文︰ナンジャモ | [萌娘百科](https://zh.moegirl.org.cn/奇树) |
 | maho himemiya | 姬宫真步 | ![](https://patchwiki.biligame.com/images/pcr/thumb/7/7a/3aqzjj6o4ksqo3mp5p4t33hars34lsh.png/409px-真步.png)<br>所属作品：`princess connect`<br>外号咕噜灵波。 | [BILIGAME WIKI](https://wiki.biligame.com/pcr/真步) |
 | ahri | 阿狸（九尾妖狐） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/9/91/juh2d2gmf8urksg7486c3ngwbulpq1s.jpg)<br>![](https://patchwiki.biligame.com/images/lol/f/fc/1jsfnots1ju8ixbhwmy7t8kqsst4sm7.jpg)<br>星之守护者皮肤 | [萌娘百科](https://zh.moegirl.org.cn/阿狸%28英雄联盟%29#) |
 | lillia | 莉莉娅（含羞蓓蕾） | 所属作品：`league of legends`<br>![](https://wiki.leagueoflegends.com/en-us/images/Lillia_OriginalSkin.jpg?ababd) |  |
