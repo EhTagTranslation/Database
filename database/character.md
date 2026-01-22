@@ -8275,6 +8275,7 @@ example:
 | orla | 奥莉欧 | ![](https://s1.52poke.com/wiki/thumb/0/0c/SV_奧莉歐_超級電壓.png/150px-SV_奧莉歐_超級電壓.png)<br>所属作品：`pokemon`<br>日文︰オリオ |  |
 | professor kukui | 库库伊博士 | ![](https://s1.52poke.com/wiki/thumb/c/c9/SM_庫庫伊博士.png/200px-SM_庫庫伊博士.png)<br>所属作品：`pokemon`<br>日文︰ククイ博士 |  |
 | shauntal | 婉龙 | ![](https://s1.52poke.com/wiki/thumb/e/e8/婉龙_BW.png/167px-婉龙_BW.png)<br>所属作品：`pokemon`<br>日文︰シキミ |  |
+| silver | 小银 | ![](https://s1.52poke.com/wiki/thumb/b/b2/小银_HGSS.png/147px-小银_HGSS.png)<br>所属作品：`pokemon`<br>日文︰シルバー |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
