@@ -8286,6 +8286,7 @@ example:
 | bugsy | 阿笔 | ![](https://s1.52poke.com/wiki/thumb/8/80/阿笔_HGSS.png/161px-阿笔_HGSS.png)<br>所属作品：`pokemon`<br>日文︰ツクシ |  |
 | lyra | 琴音 | ![](https://s1.52poke.com/wiki/thumb/4/4a/琴音_HGSS.png/167px-琴音_HGSS.png)<br>所属作品：`pokemon`<br>日文︰コトネ |  |
 | georgia | 蓝葛雷 | ![](https://s1.52poke.com/wiki/thumb/3/3c/藍葛雷.png/110px-藍葛雷.png)<br>所属作品：`pokemon`<br>日文︰ラングレー |  |
+| drayden | 夏卡 | ![](https://s1.52poke.com/wiki/thumb/1/1e/夏卡_BW.png/188px-夏卡_BW.png)<br>所属作品：`pokemon`<br>日文︰シャガ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
