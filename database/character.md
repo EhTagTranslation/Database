@@ -8261,6 +8261,7 @@ example:
 | brawly | 藤树 | ![](https://s1.52poke.com/wiki/thumb/0/04/藤树_ORAS.png/198px-藤树_ORAS.png)<br>所属作品：`pokemon`<br>日文名：トウキ |  |
 | brendan | 小悠 | ![](https://s1.52poke.com/wiki/thumb/6/6c/小悠_ORAS.png/136px-小悠_ORAS.png)<br>所属作品：`pokemon`<br>日文名：ユウキ |  |
 | bruno | 希巴 | ![](https://s1.52poke.com/wiki/thumb/2/2c/希巴_LPLE.png/297px-希巴_LPLE.png)<br>所属作品：`pokemon`<br>日文名：シバ |  |
+| calem | 卡鲁穆 | ![](https://s1.52poke.com/wiki/thumb/9/96/卡魯穆_XY.png/108px-卡魯穆_XY.png)<br>所属作品：`pokemon`<br>日文名：カルム |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
