@@ -8279,6 +8279,7 @@ example:
 | steven stone | 大吾 | ![](https://s1.52poke.com/wiki/thumb/b/b1/大吾_ORAS.png/190px-大吾_ORAS.png)<br>所属作品：`pokemon`<br>日文︰ダイゴ |  |
 | team rocket grunt | 火箭队手下 | ![](https://s1.52poke.com/wiki/thumb/9/9b/A2b072-illustration.png/430px-A2b072-illustration.png)<br>所属作品：`pokemon`<br>日文︰ロケット団のしたっぱ |  |
 | whitney | 小茜（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/9/94/小茜_HGSS.png/226px-小茜_HGSS.png)<br>所属作品：`pokemon`<br>日文︰アカネ |  |
+| yellow | 小黄（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/2/2e/小黄_ADV.png/280px-小黄_ADV.png)<br>所属作品：`pokemon`<br>日文︰イエロー |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
