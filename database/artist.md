@@ -14696,6 +14696,7 @@ example:
 | yamiochi ima | 闇落イマ |  | [FANBOX](https://yamiochi-ima.fanbox.cc/) |
 | acsmine | Acsmine |  | [Patreon](https://www.patreon.com/acsmine) |
 | madoroshi | まどろし |  |  |
+| xren | Xレン |  | [FANBOX](https://xren.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
