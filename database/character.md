@@ -5162,7 +5162,7 @@ example:
 | emil sinclair | 辛克莱 | 辛克莱（Sinclair）是《边狱巴士公司》及其衍生作品的登场角色。原型来源小说《德米安：埃米尔·辛克莱的彷徨少年时》。 | [萌娘百科](https://zh.moegirl.org.cn/辛克莱) |
 | yi sang | 李箱 | 李箱（Yi Sang）是《边狱巴士公司》及其衍生作品的登场角色。原型朝鲜象征派诗人、小说家金海卿。 | [萌娘百科](https://zh.moegirl.org.cn/李箱) |
 | gary oak | 小茂 | ![](https://s1.52poke.com/wiki/thumb/c/c9/小茂_SS.png/250px-小茂_SS.png)<br>所属作品：`pokemon`<br>日文︰オーキド・シゲル | [https://wiki.52poke.com/zh-hans/小茂（動畫）](https://wiki.52poke.com/zh-hans/小茂（動畫）) |
-| red | 赤红 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/d/d3/Lets_Go_Pikachu_Eevee_Red.png/375px-Lets_Go_Pikachu_Eevee_Red.png)<br>赤红是任天堂旗下游戏宝可梦中，第一世代游戏与第三世代火红叶绿中的主角，也是红的游戏主角的第一个默认名。是第一世代及火红·叶绿中的男性主人公。 | [萌娘百科](https://zh.moegirl.org.cn/赤红) |
+| red | 赤红 | ![](https://archives.bulbagarden.net/media/upload/thumb/d/d3/Lets_Go_Pikachu_Eevee_Red.png/375px-Lets_Go_Pikachu_Eevee_Red.png)<br>所属作品：`pokemon`<br>日文︰レッド | [萌娘百科](https://zh.moegirl.org.cn/赤红) |
 | coralie 6626 planck | 科拉莉·6626·普朗克 | 所属作品:`p:honkai gakuen` | [Fandom](https://honkai-impact-3rd-archives.fandom.com/wiki/Coralie_6626_Planck) |
 | ami nonomura | 野野村亚美 | 野々村亜美是成人动漫《`p:cream lemon`》系列的代表性女主角，并且因其高人气而成为整个系列的象征人物。幼年丧母后，父亲再婚，他开始与继兄生活。 | [Fandom](https://cream-lemon.fandom.com/wiki/Ami_Nonomura) [pixiv](https://dic.pixiv.net/a/野々村亜美) |
 | indomitable | 不挠 \| 不屈 | ①不挠<br>![](https://i2.hdslb.com/bfs/new_dyn/990b370c3cb928c56de3e75f8924b8b0262400697.png)<br>所属作品：`azur lane`<br>其原型为英国皇家海军光辉级航空母舰4号舰不挠号。<br>②不屈之玛丽<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1104/h_1748/245/72324/2025/2/19/317572.png)<br>所属作品：`last origin` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:不挠) |
