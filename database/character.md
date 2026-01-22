@@ -8291,6 +8291,7 @@ example:
 | domino | 朵迷诺 | ![](https://s1.52poke.com/wiki/thumb/8/82/朵迷诺.png/300px-朵迷诺.png)<br>所属作品：`pokemon`<br>日文︰ドミノ |  |
 | friede | 弗里德 | ![](https://s1.52poke.com/wiki/thumb/1/1e/SV_弗里德_5.png/150px-SV_弗里德_5.png)<br>所属作品：`pokemon`<br>日文︰フリード |  |
 | hala | 哈拉 | ![](https://s1.52poke.com/wiki/thumb/c/c0/哈拉_SM.png/250px-哈拉_SM.png)<br>所属作品：`pokemon`<br>日文︰ハラ |  |
+| bewear | 穿着熊 | ![](https://s1.52poke.com/wiki/thumb/a/a4/760Bewear.png/250px-760Bewear.png)<br>所属作品：`pokemon`<br>日文︰キテルグマ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
