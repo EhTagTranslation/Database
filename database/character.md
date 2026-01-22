@@ -8306,6 +8306,7 @@ example:
 | luxray | 伦琴猫 | ![](https://s1.52poke.com/wiki/thumb/a/a7/405Luxray.png/300px-405Luxray.png)<br>所属作品：`pokemon` |  |
 | machoke | 豪力 | ![](https://s1.52poke.com/wiki/thumb/8/8e/067Machoke.png/300px-067Machoke.png)<br>所属作品：`pokemon` |  |
 | mightyena | 大狼犬 | ![](https://s1.52poke.com/wiki/thumb/f/f1/262Mightyena.png/300px-262Mightyena.png)<br>所属作品：`pokemon` |  |
+| pangoro | 霸道熊猫 | ![](https://s1.52poke.com/wiki/thumb/0/08/675Pangoro.png/300px-675Pangoro.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
