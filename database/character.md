@@ -3711,7 +3711,7 @@ example:
 | soraka | 索拉卡（众星之子） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/c/cf/8digolj38gykis60oo65q1uxgmdql7n.jpg)<br>星之守护者皮肤 |  |
 | doctor | 博士 | 博士是游戏《明日方舟》及其衍生作品中的人物，为玩家人称角色。 |  |
 | dusk | 夕 | ![](https://patchwiki.biligame.com/images/arknights/3/38/528a5ouyame8vs5o6bgoino0a1djcim.png)<br>所属作品`p:arknights` |  |
-| sabrina | 娜姿 |  |  |
+| sabrina | 娜姿 | ![](https://s1.52poke.com/wiki/thumb/7/7d/娜姿_LPLE.png/252px-娜姿_LPLE.png)<br>所属作品：`pokemon`<br>日文︰ナツメ |  |
 | nagao kagetora | 长尾景虎 |  |  |
 | shirabe tsukuyomi | 月读调 | 月读调是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月读调) |
 | chris yukine | 雪音克莉丝 | 雪音克莉丝是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/雪音克莉丝) |
