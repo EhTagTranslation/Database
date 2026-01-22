@@ -3778,7 +3778,7 @@ example:
 | yao haa dushi | 姚·汉·蒂修 |  |  |
 | tuka luna marceau | 杜嘉·露娜·马尔席 | ![](https://ehgt.org/w/02/010/63735-60l6ccqr.webp)<br>所属作品：`gate - jieitai kano chi nite kaku tatakaeri`<br>她的村庄被炎龙袭击时，因父亲将其藏匿于水井中而成为唯一幸存者。 | [百度百科](https://baike.baidu.com/item/杜嘉·露娜·马尔席/17824487) |
 | jeanne | 贞德 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/44/Zoom_3040245000_81.png)<br>所属作品：`granblue fantasy` |  |
-| bayonetta | 贝优妮塔 |  |  |
+| bayonetta | 贝优妮塔 | ![](https://ehgt.org/w/02/015/43871-1tfibsv0.webp)<br>所属作品：`p:bayonetta` |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![](https://ehgt.org/w/01/910/78124-utri7fs0.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
 | neneko | 宁宁子 | `p:yumeria` |  |
 | mona | 米姆  \| 莫娜 | ①![](https://gbf.wiki/images/thumb/3/3f/Npc_zoom_3990607000_01.png/720px-Npc_zoom_3990607000_01.png)<br>所属作品：`granblue fantasy`<br>三姐妹中的老二，也是莱文的天空骑士。<br>②<br>![](https://ehgt.org/22/f6/22f6401e39c12ad116367276b23de930794f420d-194685-868-1234-jpg_l.jpg)<br>所属作品:p:warioware,`p:super mario brothers` |  |
