@@ -6572,7 +6572,7 @@ example:
 | pingping | 萍萍 |  |  |
 | kang-jin star | 亢金龙 |  |  |
 | rakshasi | 铁扇公主 |  |  |
-| professor oak | 大木博士 |  |  |
+| professor oak | 大木博士 | ![](https://s1.52poke.com/wiki/thumb/3/32/大木博士_LPLE.png/154px-大木博士_LPLE.png)<br>所属作品：`pokemon`<br>日文︰オーキド・ユキナリ博士 |  |
 | vanellope von schweetz | 云妮洛普·凡史威兹 |  |  |
 | taffyta muttonfudge | 太妃糖 |  |  |
 | massachusetts | 马萨诸塞 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c0d1f2a5dd88e89299aadc00ec2c140f262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:马萨诸塞) |
