@@ -8283,6 +8283,7 @@ example:
 | zigzagoon | 蛇纹熊 | ![](https://s1.52poke.com/wiki/thumb/4/47/263Zigzagoon.png/300px-263Zigzagoon.png)<br>所属作品：`pokemon`<br>日文︰ジグザグマ |  |
 | zinnia | 希嘉娜 | ![](https://s1.52poke.com/wiki/thumb/7/72/希嘉娜_ORAS.png/217px-希嘉娜_ORAS.png)<br>所属作品：`pokemon`<br>日文︰ヒガナ |  |
 | solana | 日向 | ![](https://s1.52poke.com/wiki/thumb/0/0a/日向_巡护员.png/210px-日向_巡护员.png)<br>所属作品：`pokemon`<br>日文︰ヒナタ |  |
+| bugsy | 阿笔 | ![](https://s1.52poke.com/wiki/thumb/8/80/阿笔_HGSS.png/161px-阿笔_HGSS.png)<br>所属作品：`pokemon`<br>日文︰ツクシ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
