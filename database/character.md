@@ -8269,6 +8269,7 @@ example:
 | liza | 小南（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/6/69/小枫与小南_ORAS.png/248px-小枫与小南_ORAS.png)<br>左为小南<br>所属作品：`pokemon`<br>日文︰ラン |  |
 | lucy | 小蓟（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/c/c0/小蓟_E.png/135px-小蓟_E.png)<br>所属作品：`pokemon`<br>日文︰アザミ |  |
 | marshal | 连武 | ![](https://s1.52poke.com/wiki/thumb/2/28/连武_BW.png/245px-连武_BW.png)<br>所属作品：`pokemon`<br>日文︰レンブ |  |
+| maxie | 赤焰松 | ![](https://s1.52poke.com/wiki/thumb/1/1e/赤焰松_ORAS.png/106px-赤焰松_ORAS.png)<br>所属作品：`pokemon`<br>日文︰マツブサ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
