@@ -8293,6 +8293,7 @@ example:
 | hala | 哈拉 | ![](https://s1.52poke.com/wiki/thumb/c/c0/哈拉_SM.png/250px-哈拉_SM.png)<br>所属作品：`pokemon`<br>日文︰ハラ |  |
 | bewear | 穿着熊 | ![](https://s1.52poke.com/wiki/thumb/a/a4/760Bewear.png/250px-760Bewear.png)<br>所属作品：`pokemon`<br>日文︰キテルグマ |  |
 | drowzee | 催眠貘 | ![](https://s1.52poke.com/wiki/thumb/3/3e/096Drowzee.png/300px-096Drowzee.png)<br>所属作品：`pokemon`<br>日文︰スリープ |  |
+| electivire | 电击魔兽 | ![](https://s1.52poke.com/wiki/thumb/2/23/466Electivire.png/300px-466Electivire.png)<br>所属作品：`pokemon`<br>日文︰エレキブル |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
