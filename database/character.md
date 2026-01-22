@@ -4017,7 +4017,7 @@ example:
 | croissant | 可颂 | ![](https://patchwiki.biligame.com/images/arknights/e/e7/t5q4xgmeqag752f43jsfh0ipyv4ubh0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:可颂) |
 | arcanine | 风速狗 |  | [萌娘百科](https://zh.moegirl.org.cn/风速狗) |
 | akari | 小照 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/3/38/Legends_Arceus_Akari.png/375px-Legends_Arceus_Akari.png)<br>日语名：ショウ<br>《宝可梦传说 阿尔宙斯》登场的主角。<br>因某些原因来到洗翠地区，并成为银河队的调查组一员。<br>名字的由来是照（しょう）。 | [萌娘百科](https://zh.moegirl.org.cn/小照) |
-| irida | 珠贝 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/6/68/Legends_Arceus_Irida.png/225px-Legends_Arceus_Irida.png)<br>《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>有着金发碧眼特征的美少女。<br>珍珠队的首领，搭档的宝可梦是冰伊布。 | [萌娘百科](https://zh.moegirl.org.cn/珠贝) |
+| irida | 珠贝 | ![](https://archives.bulbagarden.net/media/upload/thumb/6/68/Legends_Arceus_Irida.png/225px-Legends_Arceus_Irida.png)<br>所属作品：`pokemon`<br>日文︰カイ | [萌娘百科](https://zh.moegirl.org.cn/珠贝) |
 | palina | 瓜娜 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/8/8d/Legends_Arceus_Palina.png/131px-Legends_Arceus_Palina.png)<br>《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>散发出成熟感的温柔女性。<br>珍珠队的一员。照看前任王风速狗的子嗣卡蒂狗。<br>过去曾与珠贝竞争珍珠队的领队。名字的由来是ガラナ（瓜拿纳）。 | [萌娘百科](https://zh.moegirl.org.cn/瓜娜) |
 | ambriel | 安比尔 | ![](https://patchwiki.biligame.com/images/arknights/0/06/8py6q95porfc0y2wxah9k5naputd1l1.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安比尔) |
 | feater | 食铁兽 | ![](https://patchwiki.biligame.com/images/arknights/4/4b/caqt6e0vd8mr9tbv35erhpl7e0fau67.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:食铁兽) |
