@@ -8249,6 +8249,7 @@ example:
 | lucrecia crescent | 鲁克蕾西娅 | ![](https://ehgt.org/w/00/969/95386-ej9na7cf.webp)<br>出自作品：`p:final fantasy vii`<br><br>鲁克蕾西娅是日本游戏《最终幻想VII》及其衍生作品中的角色。萨菲罗斯的母亲，和她的儿子一样。体内有着杰诺娃的遗传因子。一直想让自己死掉但是却无能为力，因为对生死充满了困惑，所以一个人躲了起来。神罗的研究员，与卡斯特博士以及宝条一起研究未知生命体杰诺娃。把自己和宝条的孩子萨菲罗斯作为实验体，其结果是萨菲罗斯诞生。是文森特最喜欢的人，对自己的感情很迷惘。在FF7DC的最后，也终于明白了自己真正的想法。 | [百度百科](https://baike.baidu.com/item/鲁克蕾西娅/64128846) |
 | princess ruto | 露朵 | ![](https://ehgt.org/w/02/211/37986-97jxs0jg.webp)<br>出自作品：`p:the legend of zelda`<br><br>露朵（日语：ルト; 英语：Ruto），旧译为露多，是一名登场于《时之笛》中的的女性卓拉族人，是当代卓拉王的女儿，因此人称『露朵公主』。 除了身为一族的公主，露朵也是担当着照顾卓拉族守护神加卜加卜大人的责任，再加上她为了协助时之勇者对抗邪恶而觉醒为水之贤者[2]，因此深得族人的尊重与喜爱， 她的事迹也以不同方式，在往后海拉鲁的历史中流传着。 | [Fandom](https://zelda.fandom.com/zh-tw/wiki/露朵) |
 | geeta | 吉塔 | ![](https://archives.bulbagarden.net/media/upload/thumb/9/98/Scarlet_Violet_Geeta.png/255px-Scarlet_Violet_Geeta.png)<br>所属作品：`pokemon` |  |
+| liko | 莉可 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/ec/Liko_anime_12.png/270px-Liko_anime_12.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
