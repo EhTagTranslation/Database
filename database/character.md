@@ -8296,6 +8296,7 @@ example:
 | electivire | 电击魔兽 | ![](https://s1.52poke.com/wiki/thumb/2/23/466Electivire.png/300px-466Electivire.png)<br>所属作品：`pokemon`<br>日文︰エレキブル |  |
 | garchomp | 烈咬陆鲨 | ![](https://s1.52poke.com/wiki/thumb/f/fa/445Garchomp.png/300px-445Garchomp.png)<br>所属作品：`pokemon` |  |
 | gengar | 耿鬼 | ![](https://s1.52poke.com/wiki/thumb/c/c6/094Gengar.png/300px-094Gengar.png)<br>所属作品：`pokemon` |  |
+| goodra | 黏美龙 | ![](https://s1.52poke.com/wiki/thumb/d/df/706Goodra.png/300px-706Goodra.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
