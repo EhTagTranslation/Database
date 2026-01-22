@@ -3136,7 +3136,7 @@ example:
 | hilda | 希尔达 \| 斗子 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/6/6f/Black_White_Hilda.png/278px-Black_White_Hilda.png)<br>斗子（日文︰トウコ，英文︰Hilda）是《宝可梦 黑／白》的主角，作为`hilbert`的对应女性人物。11岁的蓝发女孩。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/鬥子) [希尔达(剧集)](https://zh.moegirl.org.cn/希尔达) |
 | skyla | 风露 | ![](https://media.52poke.com/wiki/e/e1/风露_BW.png)<br>所属作品：`pokemon`<br>《黑／白》登场，是吹寄道馆的道馆馆主。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/風露) |
 | elisa | 秋子 | 所属作品：`p:pokemon`<br>![](https://s1.52poke.wiki/wiki/thumb/9/9d/秋子.png/220px-秋子.png)<br>艾丽莎是一名宝可梦巡护员 ，在伊扎贝岛工作和生活。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/秋子) |
-| misty | 小霞 |  | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
+| misty | 小霞 | ![](https://s1.52poke.com/wiki/thumb/1/13/小霞_LPLE.png/239px-小霞_LPLE.png)<br>所属作品：`pokemon`<br>日文︰カスミ | [神奇宝贝百科](https://wiki.52poke.com/wiki/小霞) |
 | alena | 安莉娜 |  |  |
 | reimi saionji | 蕾米 | 《星之海洋4》女主角 |  |
 | maika sakuranomiya | 樱之宫莓香 | 樱之宫莓香是由日本漫画家中山幸创作的漫画《调教咖啡厅》及其衍生作品的登场角色。 |  |
