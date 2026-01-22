@@ -8255,6 +8255,7 @@ example:
 | lanas dad | 水莲爸爸 | 所属作品：`pokemon` |  |
 | taunie | 塔霓 | ![](https://s1.52poke.com/wiki/thumb/7/7a/塔霓_ZA.png/249px-塔霓_ZA.png?20250227151131)<br>所属作品：`pokemon`<br>日文名：タウニー |  |
 | urbain | 盖伊 | ![](https://s1.52poke.com/wiki/thumb/6/6a/蓋伊_ZA.png/199px-蓋伊_ZA.png?20250227151805)<br>所属作品：`pokemon`<br>日文名：ガイ |  |
+| mega lucario z | 路卡利欧 Mega Z |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
