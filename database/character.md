@@ -3900,7 +3900,7 @@ example:
 | scirocco | 东南风 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:东南风) |
 | miyuki kujou | 九条美雪 |  |  |
 | specter | 幽灵鲨 |  | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:幽灵鲨) |
-| aether foundation employee | 以太基金会员工 | 所属作品：`pokemon`<br><br>![图](https://ehgt.org/bc/24/bc240be0a2fb07aa8efe64ea437c06c68bafcc67-705326-815-1280-png_l.jpg)<br>以太基金会职员（日文：エーテル財団 職員 Aether Foundation Staff）是第七世代引入的一种宝可梦训练家。他们是以太基金会的雇员，身着白色的未来派制服。 | [wiki](https://bulbapedia.bulbagarden.net/wiki/Aether_Foundation_Employee_%28Trainer_class%29) |
+| aether foundation employee | 以太基金会员工 | ![](https://s1.52poke.com/wiki/thumb/2/2d/以太基金会职员_SM.png/381px-以太基金会职员_SM.png?20210627094556)<br>所属作品：`pokemon`<br>日文：エーテル財団 職員<br>以太基金会的下级成员。 | [Wiki](https://wiki.52poke.com/wiki/以太基金会职员) |
 | hiling | 希琳 | 伯斯王的第二任妻子，戴达的亲生母亲。<br>![图](https://ehgt.org/09/e7/09e7b2f5fdf53c8ae60be79a4e943874585e3dfe-369341-1000-1200-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/希琳) |
 | yoshino kousaka | 高坂佳乃 |  |  |
 | kuzuha togashi | 富㭴樟叶 | ![](https://img.moegirl.org.cn/common/7/73/Kuzuha.png) | [萌娘百科](https://zh.moegirl.org.cn/富㭴樟叶) |
