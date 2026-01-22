@@ -3307,7 +3307,7 @@ example:
 | isabella | 伊莎贝拉 | 《约定的梦幻岛》主要角色，主角们的妈妈 |  |
 | mujika | 穆希卡 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
 | sonju | 宋杰 | 《约定的梦幻岛》鬼族主要正面角色之一 |  |
-| lucas | 卢卡斯 | 《约定的梦幻岛》避难所篇章配角之一 |  |
+| lucas | 卢卡斯 \| 明辉 | ①明辉<br>![](https://s1.52poke.com/wiki/thumb/0/05/明辉_Pt.png/162px-明辉_Pt.png)<br>所属作品：`pokemon`<br>日文︰コウキ<br>——————<br>②《约定的梦幻岛》避难所篇章配角之一 |  |
 | yugo | 尤格 | 《约定的梦幻岛》避难所篇章配角之一 |  |
 | cecily cambell | 瑟希莉·坎贝尔 | 瑟希莉·坎贝尔是《圣剑锻造师》的女主角。生于历代骑士贵族之家，继承了父亲的剑，并成为了独立贸易都市哈斯曼自卫骑士团的新人骑士。红色短发，个性充满正义感，勇于挑战盗贼及犯罪者。语气非常认真的红发少女，坎贝尔家现任当主。“圣剑的剑鞘”的继承者。 | [百度百科](https://baike.baidu.com/item/瑟希莉·坎贝尔/9456466) |
 | skadi | 斯卡蒂 | ![](https://patchwiki.biligame.com/images/arknights/1/1d/qygfq794gfvyd4amopn94zl4ex2zsf5.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:斯卡蒂) |
