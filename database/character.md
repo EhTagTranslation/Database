@@ -8259,6 +8259,7 @@ example:
 | mega charizard x | 喷火龙 Mega X |  |  |
 | archie | 水梧桐 | ![](https://s1.52poke.com/wiki/thumb/f/fc/水梧桐_ORAS.png/166px-水梧桐_ORAS.png)<br>所属作品：`pokemon`<br>日文名：アオギリ |  |
 | brawly | 藤树 | ![](https://s1.52poke.com/wiki/thumb/0/04/藤树_ORAS.png/198px-藤树_ORAS.png)<br>所属作品：`pokemon`<br>日文名：トウキ |  |
+| brendan | 小悠 | ![](https://s1.52poke.com/wiki/thumb/6/6c/小悠_ORAS.png/136px-小悠_ORAS.png)<br>所属作品：`pokemon`<br>日文名：ユウキ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
