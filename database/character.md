@@ -8271,6 +8271,7 @@ example:
 | marshal | 连武 | ![](https://s1.52poke.com/wiki/thumb/2/28/连武_BW.png/245px-连武_BW.png)<br>所属作品：`pokemon`<br>日文︰レンブ |  |
 | maxie | 赤焰松 | ![](https://s1.52poke.com/wiki/thumb/1/1e/赤焰松_ORAS.png/106px-赤焰松_ORAS.png)<br>所属作品：`pokemon`<br>日文︰マツブサ |  |
 | maylene | 阿李（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/7/7a/阿李_DP.png/273px-阿李_DP.png)<br>所属作品：`pokemon`<br>日文︰スモモ |  |
+| oleana | 奥利薇（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/1/17/奥利薇_SWSH.png/182px-奥利薇_SWSH.png)<br>所属作品：`pokemon`<br>日文︰オリーヴ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
