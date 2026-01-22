@@ -2796,7 +2796,7 @@ example:
 | marie rose | 玛丽·萝丝 | ![](https://static.wikia.nocookie.net/deadoralive/images/6/69/Stars_-_Marie_Rose.png)<br>所属作品：`dead or alive` | [百度百科](https://baike.baidu.com/item/玛丽·萝丝/18400032) |
 | helena douglas | 海莲娜 | 海莲娜是TECMO所创作的游戏《死或生》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/海莲娜%28死或生%29) |
 | sylvanas windrunner | 希尔瓦娜斯·风行者 | 希尔瓦娜斯·风行者是暴雪旗下游戏《魔兽争霸》、《魔兽世界》以及《魔兽世界》官方小说中的登场角色，同时也在各种相关的衍生作品中亮相。 | [希尔瓦娜斯·风行者](https://zh.moegirl.org.cn/希尔瓦娜斯) |
-| nessa | 露璃娜 |  |  |
+| nessa | 露璃娜 | ![](https://s1.52poke.com/wiki/thumb/2/2f/露璃娜_SWSH.png/191px-露璃娜_SWSH.png)<br>所属作品：`pokemon`<br>日文︰ルリナ |  |
 | sonia | 索妮亚 | ①<br>![](https://img.moegirl.org.cn/common/f/f1/Sonia.png)<br>所属作品：`pokemon`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/f1/Sonia.png/revision/latest?cb=20230104063335)<br>日文：ソーニャ<br>所属作品：`fire emblem the blazing blade` | [索妮亚(`pokemon`)](https://zh.moegirl.org.cn/索妮亚%28宝可梦%29)<br>[索妮亚(`fire emblem the blazing blade`)](https://fireemblem.fandom.com/wiki/Sonia) |
 | mallow | 玛奥 | ![](https://s1.52poke.com/wiki/thumb/e/eb/瑪奧_SM.png/173px-瑪奧_SM.png)<br>出自作品：`p:pokemon`<br>日语：マオ | [萌娘百科](https://zh.moegirl.org.cn/玛奥%28宝可梦%29#) |
 | melony | 美蓉 | ![](https://s1.52poke.com/wiki/thumb/3/3e/美蓉_SWSH.png/209px-美蓉_SWSH.png)<br>所属作品：`pokemon`<br>日文︰メロン |  |
