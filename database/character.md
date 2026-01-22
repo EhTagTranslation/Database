@@ -4291,7 +4291,7 @@ example:
 | flareon | 火伊布 | ![](https://s1.52poke.com/wiki/thumb/d/dd/136Flareon.png/300px-136Flareon.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/火伊布) |
 | espeon | 太阳伊布 | ![](https://ehgt.org/w/00/786/35887-1ugja18d.webp)<br>出自作品：`p:pokemon`<br><br>太阳伊布有着小型猫科动物的特征，体毛和眼睛是紫色的。它的头上有一块红宝石，体毛有着天鹅绒般的光泽和手感。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/太阳伊布) |
 | umbreon | 月亮伊布 | ![](https://ehgt.org/w/00/787/00429-rb0i75ct.webp)<br>出自作品：`p:pokemon`<br><br>月亮伊布的毛是黑色的，眼睛是红色的。它身上的环状花纹是耀眼的金色，沐浴月亮波动后，身上圈圈一样的花纹就会发光，是因为不可思议的力量觉醒了。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/月亮伊布) |
-| leafeon | 叶伊布 | 叶伊布具有猫和狐狸的外貌特征。它的身体是褐色的。它的爪子是暗褐色的，就像它的眼睛与耳朵中间的颜色一样。它的身上有一些叶子，它的额头中央有一片更长的叶子。叶伊布的耳朵和尾巴看起来也像叶子一样。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/叶伊布) |
+| leafeon | 叶伊布 | ![](https://s1.52poke.com/wiki/thumb/f/f5/470Leafeon.png/300px-470Leafeon.png)<br>所属作品：`pokemon`<br>日文︰リーフィア | [神奇宝贝百科](https://wiki.52poke.com/wiki/叶伊布) |
 | glaceon | 冰伊布 | ![](https://s1.52poke.com/wiki/thumb/2/23/471Glaceon.png/300px-471Glaceon.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/冰伊布) |
 | piplup | 波加曼 | 波加曼（日文︰ポッチャマ，英文︰Piplup）是水属性宝可梦，是神奥地区最初的伙伴之一。它的设计者是大村祐介。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/波加曼) |
 | turtwig | 草苗龟 | 草苗龟（日文︰ナエトル，英文︰Turtwig）是草属性宝可梦，是神奥地区最初的伙伴之一。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/草苗龟) |
