@@ -6565,7 +6565,7 @@ example:
 | mast | 马斯特 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_4418/h_4418/1253/103682/2025/3/17/243149.png)<br>所属作品`p:goddess of victory nikke` | [https://www.gamekee.com/nikke/595144.html](https://www.gamekee.com/nikke/595144.html) |
 | narciso anasui | 纳鲁西索·安纳苏 | 纳鲁西索·安纳苏（日语：ナルシソ・アナスイ；英语：Narciso Anasui）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b4/Chara_Pos_Anasui.png) | [萌娘百科](https://zh.moegirl.org.cn/纳鲁西索·安纳苏) |
 | patrick star | 派大星 |  |  |
-| karen | 凯伦 |  |  |
+| karen | 梨花（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/9/98/梨花_HGSS.png/149px-梨花_HGSS.png)<br>所属作品：`pokemon`<br>日文︰カリン |  |
 | squidward tentacles | 章鱼哥 |  |  |
 | pearl krabs | 珍珍 |  |  |
 | man ray | 射线恶魔 |  |  |
