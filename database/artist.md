@@ -14694,6 +14694,7 @@ example:
 | fujinoe13b | フジノエ13B |  |  |
 | sharaku kaede | 写楽楓 |  | [X](https://x.com/sharakukaede) |
 | yamiochi ima | 闇落イマ |  | [FANBOX](https://yamiochi-ima.fanbox.cc/) |
+| acsmine | Acsmine |  | [Patreon](https://www.patreon.com/acsmine) |
 
 <!--TEMPLATE:
 |  |  |  |  |
