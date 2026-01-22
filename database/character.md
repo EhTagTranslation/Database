@@ -4286,7 +4286,7 @@ example:
 | april | 四月 | ![](https://patchwiki.biligame.com/images/arknights/5/5a/jqmqpvpl5lrqey6yx6jhhdmr6wqh1mj.png)<br>所属作品`p:arknights` | [PRTS](https://prts.wiki/w/四月) |
 | eevee | 伊布 | ![](https://s1.52poke.com/wiki/thumb/e/e2/133Eevee.png/300px-133Eevee.png)<br>所属作品：`pokemon`<br>日文︰イーブイ | [神奇宝贝百科](https://wiki.52poke.com/wiki/伊布) |
 | sylveon | 仙子伊布 | 仙子伊布的身体以白色为主。它的头顶、耳朵、尾巴和腿的下半部分是粉色，耳朵内侧是蓝色。眼睛是淡蓝色的。它的左耳和脖子上各有一只蝴蝶结，蝴蝶结上有两条缎带，缎带末端的颜色依次是粉、深蓝、浅蓝。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/仙子伊布) |
-| vaporeon | 水伊布 | 水伊布的身体是蓝色的，颈部上有白色状物，还有两个看上去像是耳朵的鱼鳍。它的身上有深蓝色的条纹，这种颜色的条纹延伸到尾巴处，尾巴残留着像鱼一样的鳍。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/水伊布) |
+| vaporeon | 水伊布 | ![](https://s1.52poke.com/wiki/thumb/f/fd/134Vaporeon.png/300px-134Vaporeon.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/水伊布) |
 | jolteon | 雷伊布 | 雷伊布的身体是黄色的，颈部和身体布满了白色和黄色的尖刺。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/雷伊布) |
 | flareon | 火伊布 | ![](https://s1.52poke.com/wiki/thumb/d/dd/136Flareon.png/300px-136Flareon.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/火伊布) |
 | espeon | 太阳伊布 | ![](https://ehgt.org/w/00/786/35887-1ugja18d.webp)<br>出自作品：`p:pokemon`<br><br>太阳伊布有着小型猫科动物的特征，体毛和眼睛是紫色的。它的头上有一块红宝石，体毛有着天鹅绒般的光泽和手感。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/太阳伊布) |
