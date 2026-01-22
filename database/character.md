@@ -8313,6 +8313,7 @@ example:
 | swampert | 巨沼怪 | ![](https://s1.52poke.com/wiki/thumb/b/b6/260Swampert.png/300px-260Swampert.png)<br>所属作品：`pokemon` |  |
 | toxicroak | 毒骷蛙 | ![](https://s1.52poke.com/wiki/thumb/8/8b/454Toxicroak.png/300px-454Toxicroak.png)<br>所属作品：`pokemon` |  |
 | typhlosion | 火暴兽 | ![](https://s1.52poke.com/wiki/thumb/4/47/157Typhlosion.png/300px-157Typhlosion.png)<br>所属作品：`pokemon` |  |
+| illnott | 伊尔诺特 | ![](https://thumbsnap.com/i/idyTfZ2U.jpg)<br>出自作品：`p:granblue fantasy`<br>个人剧情里塞满了涂鸦艺术私货的大姐姐，让人不禁怀疑CYD最近是不是收了什么涂鸦出身的新人…… | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040277000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
