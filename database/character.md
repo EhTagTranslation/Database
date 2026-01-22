@@ -8307,6 +8307,7 @@ example:
 | machoke | 豪力 | ![](https://s1.52poke.com/wiki/thumb/8/8e/067Machoke.png/300px-067Machoke.png)<br>所属作品：`pokemon` |  |
 | mightyena | 大狼犬 | ![](https://s1.52poke.com/wiki/thumb/f/f1/262Mightyena.png/300px-262Mightyena.png)<br>所属作品：`pokemon` |  |
 | pangoro | 霸道熊猫 | ![](https://s1.52poke.com/wiki/thumb/0/08/675Pangoro.png/300px-675Pangoro.png)<br>所属作品：`pokemon` |  |
+| pignite | 炒炒猪 | ![](https://s1.52poke.com/wiki/thumb/e/e8/499Pignite.png/300px-499Pignite.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
