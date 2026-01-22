@@ -8299,6 +8299,7 @@ example:
 | goodra | 黏美龙 | ![](https://s1.52poke.com/wiki/thumb/d/df/706Goodra.png/300px-706Goodra.png)<br>所属作品：`pokemon` |  |
 | granbull | 布鲁皇 | ![](https://s1.52poke.com/wiki/thumb/b/b1/210Granbull.png/300px-210Granbull.png)<br>所属作品：`pokemon` |  |
 | growlithe | 卡蒂狗 | ![](https://s1.52poke.com/wiki/thumb/3/3d/058Growlithe.png/300px-058Growlithe.png)<br>所属作品：`pokemon` |  |
+| houndoom | 黑鲁加 | ![](https://s1.52poke.com/wiki/thumb/5/51/229Houndoom.png/300px-229Houndoom.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
