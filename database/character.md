@@ -3062,7 +3062,7 @@ example:
 | selene | 美月 |  |  |
 | lillie | 莉莉艾 | ![](https://ehgt.org/w/01/961/67306-pf1tdadm.webp)<br>所属作品：`pokemon` |  |
 | honoka | 穗乃果 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b5/C02_img.png)<br>所属作品：`dead or alive` |  |
-| hex maniac | 灵异迷 | 灵异迷是游戏《`p:pokemon`》系列中的一种路人训练家类型。 | [萌娘百科](https://zh.moegirl.org.cn/灵异迷) |
+| hex maniac | 灵异迷 | ![](https://s1.52poke.com/wiki/thumb/9/9f/灵异迷_XY.png/325px-灵异迷_XY.png)<br>所属作品：`pokemon`<br>日文︰オカルトマニア | [萌娘百科](https://zh.moegirl.org.cn/灵异迷) |
 | hypno | 引梦貘人 |  |  |
 | lana | 水莲 | ![](https://s1.52poke.com/wiki/thumb/1/1c/水蓮_SM.png/511px-水蓮_SM.png?20210625142459)<br>所属作品：`pokemon` |  |
 | lanas mom | 水莲妈妈 | ![](https://ehgt.org/w/02/071/21088-1s4682pd.webp)<br>水莲的妈妈 |  |
