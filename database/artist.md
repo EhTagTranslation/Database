@@ -14692,6 +14692,7 @@ example:
 | tetetor-oort | 田代憂 | ![头像](https://i.pixiv.cat/user-profile/img/2024/04/21/16/16/52/25791600_aed30609a0318597871fb8a823c732d2_170.jpg) | [X](https://x.com/tetetoroort)<br>[pixiv](https://www.pixiv.net/users/67922) |
 | takeaki gaku | たけあき学 |  |  |
 | fujinoe13b | フジノエ13B |  |  |
+| sharaku kaede | 写楽楓 |  | [X](https://x.com/sharakukaede) |
 
 <!--TEMPLATE:
 |  |  |  |  |
