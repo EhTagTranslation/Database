@@ -5349,7 +5349,7 @@ example:
 | daphne blake | 达芙妮·布雷克 | 所属作品:`scooby-doo` | [https://wikii.one/Daphne\_Blake](https://wikii.one/Daphne_Blake)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Daphne_Blake)<br>[Fandom](https://scoobydoo.fandom.com/wiki/Daphne_Blake) |
 | brock | 小刚 | ![](https://s1.52poke.com/wiki/thumb/9/91/小剛_LPLE.png/134px-小剛_LPLE.png)<br>所属作品：`pokemon`<br>日文名：タケシ | [萌娘百科](https://zh.moegirl.org.cn/小刚) |
 | vulpix | 六尾 | ![](https://s1.52poke.com/wiki/thumb/6/60/037Vulpix.png/300px-037Vulpix.png)<br>所属作品：`pokemon`<br>日文︰ロコン | [萌娘百科](https://zh.moegirl.org.cn/六尾) |
-| zoroark | 索罗亚克 | 索罗亚克的外貌如同一只双脚行走的灰色狐狸，头上深红色的鬃毛覆盖了后背，同时，它的鬃毛上还有深灰色的毛发，而在接近鬃毛末端的地方还有一种类似头花的蓝色珍珠状物体。索罗亚克胸口处的黑色毛发覆盖至肩部，它的爪子、耳朵为红色，而嘴角、眼的附近的毛发也同样是红色，它的手有三个手指，与腿一样也只有三个脚趾。洗翠索罗亚克身体颜色为灰色，且多处有红色椭圆形花纹，耳朵顶端为红色，散乱的头发为白色和红色。眼眶为红色，眼睛为黄色。 | [https://wiki.52poke.com/wiki/索罗亚克](https://wiki.52poke.com/wiki/索罗亚克) |
+| zoroark | 索罗亚克 | ![](https://s1.52poke.com/wiki/thumb/a/a6/571Zoroark.png/300px-571Zoroark.png)<br>所属作品：`pokemon` | [https://wiki.52poke.com/wiki/索罗亚克](https://wiki.52poke.com/wiki/索罗亚克) |
 | yveltal | 伊裴尔塔尔 |  | [萌娘百科](https://zh.moegirl.org.cn/伊裴尔塔尔娘) |
 | groudon | 固拉多 |  | [萌娘百科](https://zh.moegirl.org.cn/固拉多) |
 | charizard | 喷火龙 |  | [萌娘百科](https://zh.moegirl.org.cn/喷火龙) |
