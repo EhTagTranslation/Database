@@ -5934,7 +5934,7 @@ example:
 | satsuki kyougoku | 京极皋月 | 所属作品：`p:blue archive`<br>格黑娜学园所属，「万魔殿」的议员兼情报部长。<br>由于充满想要操控他人的欲望而沉迷于各种催眠疗法，可惜实际成功的案例却屈指可数。<br>![](https://img.moegirl.org.cn/common/c/c5/BA_Satsuki.png) | [萌娘百科](https://zh.moegirl.org.cn/京极皋月%28https://www.gamekee.com/ba/tj/71740.html%29)<br>[https://www.gamekee.com/ba/tj/71740.html](https://www.gamekee.com/ba/tj/71740.html) |
 | lisia | 琉琪亚 | ![](https://img.moegirl.org.cn/common/thumb/6/6a/琉琪亞_ORAS.png/280px-琉琪亞_ORAS.png)<br>所属作品：`pokemon`<br>日语：ルチア | [萌娘百科](https://zh.moegirl.org.cn/琉琪亚) |
 | coral | 珊瑚 | ![](https://archives.bulbagarden.net/media/upload/2/2e/Coral_anime_2.png)<br>所属作品：`pokemon`<br>日语：サンゴ | [https://bulbapedia.bulbagarden.net/wiki/Coral](https://bulbapedia.bulbagarden.net/wiki/Coral) |
-| lacey | 紫竽 | 所属作品：`pokemon`<br>![](https://archives.bulbagarden.net/media/upload/thumb/8/83/Scarlet_Violet_Lacey.png/225px-Scarlet_Violet_Lacey.png)<br>日文名︰タロ<br>英文名︰Lacey | [https://bulbapedia.bulbagarden.net/wiki/Lacey](https://bulbapedia.bulbagarden.net/wiki/Lacey) |
+| lacey | 紫竽 | ![](https://archives.bulbagarden.net/media/upload/thumb/8/83/Scarlet_Violet_Lacey.png/225px-Scarlet_Violet_Lacey.png)<br>所属作品：`pokemon`<br>日文名︰タロ<br>英文名︰Lacey | [https://bulbapedia.bulbagarden.net/wiki/Lacey](https://bulbapedia.bulbagarden.net/wiki/Lacey) |
 | sumireko ogawa | 绪川堇子 | 日语：緒川（おがわ） 菫子（すみれこ）<br>《怪异与少女与神隐》的登场角色。 |  |
 | cogita | 吾思 | 所属作品：`pokemon`<br>![](https://img.moegirl.org.cn/common/thumb/c/cb/PLA_Cogita.png/256px-PLA_Cogita.png)<br>日语名：コギト<br>英语名：Cogita<br>《宝可梦传说 阿尔宙斯》中洗翠地区的居民之一。<br>据本人所述，与“相当厉害的宝可梦”非常亲密。 | [萌娘百科](https://zh.moegirl.org.cn/吾思) |
 | sanae yamada | 山田早苗 | 日语：やまだ さなえ<br>樱井纪雄创作的漫画《我心里危险的东西》及其衍生作品中的登场角色，山田杏奈的母亲。 |  |
