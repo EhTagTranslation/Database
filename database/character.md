@@ -8254,6 +8254,7 @@ example:
 | sarah | 诗涵 | ![](https://archives.bulbagarden.net/media/upload/1/15/Harper_and_Sarah.png)<br>诗涵（右）<br>所属作品：`pokemon`<br>水莲的两位妹妹。<br>日文︰スイ，英文︰Sarah | [https://wiki.52poke.com/wiki/詩婷和詩涵](https://wiki.52poke.com/wiki/詩婷和詩涵) |
 | lanas dad | 水莲爸爸 | 所属作品：`pokemon` |  |
 | taunie | 塔霓 | ![](https://s1.52poke.com/wiki/thumb/7/7a/塔霓_ZA.png/249px-塔霓_ZA.png?20250227151131)<br>所属作品：`pokemon`<br>日文名：タウニー |  |
+| urbain | 盖伊 | ![](https://s1.52poke.com/wiki/thumb/6/6a/蓋伊_ZA.png/199px-蓋伊_ZA.png?20250227151805)<br>所属作品：`pokemon`<br>日文名：ガイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
