@@ -8257,7 +8257,7 @@ example:
 | urbain | 盖伊 | ![](https://s1.52poke.com/wiki/thumb/6/6a/蓋伊_ZA.png/199px-蓋伊_ZA.png?20250227151805)<br>所属作品：`pokemon`<br>日文名：ガイ |  |
 | mega lucario z | 路卡利欧 Mega Z |  |  |
 | mega charizard x | 喷火龙 Mega X |  |  |
-| archie | 水梧桐 | ![](https://s1.52poke.com/wiki/thumb/f/fc/水梧桐_ORAS.png/166px-水梧桐_ORAS.png)<br>所属作品：`pokemon` | [https://wiki.52poke.com/wiki/水梧桐](https://wiki.52poke.com/wiki/水梧桐) |
+| archie | 水梧桐 | ![](https://s1.52poke.com/wiki/thumb/f/fc/水梧桐_ORAS.png/166px-水梧桐_ORAS.png)<br>所属作品：`pokemon`<br>日文名：アオギリ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
