@@ -8312,6 +8312,7 @@ example:
 | sableye | 勾魂眼 | ![](https://s1.52poke.com/wiki/thumb/d/d3/302Sableye.png/300px-302Sableye.png)<br>所属作品：`pokemon` |  |
 | swampert | 巨沼怪 | ![](https://s1.52poke.com/wiki/thumb/b/b6/260Swampert.png/300px-260Swampert.png)<br>所属作品：`pokemon` |  |
 | toxicroak | 毒骷蛙 | ![](https://s1.52poke.com/wiki/thumb/8/8b/454Toxicroak.png/300px-454Toxicroak.png)<br>所属作品：`pokemon` |  |
+| typhlosion | 火暴兽 | ![](https://s1.52poke.com/wiki/thumb/4/47/157Typhlosion.png/300px-157Typhlosion.png)<br>所属作品：`pokemon` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
