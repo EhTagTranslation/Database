@@ -3060,7 +3060,7 @@ example:
 | ars almal | 阿露丝·阿尔玛 | 阿露丝·阿尔玛（アルス·アルマル / Ars almal）是隶属于彩虹社旗下的虚拟YouTuber，正式出道于2019年7月28日。 | [萌娘百科](https://zh.moegirl.org.cn/阿露丝·阿尔玛) |
 | elesa | 小菊儿 |  |  |
 | selene | 美月 |  |  |
-| lillie | 莉莉艾 | ![](https://ehgt.org/w/01/961/67306-pf1tdadm.webp)<br>所属作品：`pokemon` |  |
+| lillie | 莉莉艾 | ![](https://s1.52poke.com/wiki/thumb/4/42/莉莉艾_USUM.png/135px-莉莉艾_USUM.png)<br>所属作品：`pokemon`<br>日文︰リーリエ |  |
 | honoka | 穗乃果 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b5/C02_img.png)<br>所属作品：`dead or alive` |  |
 | hex maniac | 灵异迷 | ![](https://s1.52poke.com/wiki/thumb/9/9f/灵异迷_XY.png/325px-灵异迷_XY.png)<br>所属作品：`pokemon`<br>日文︰オカルトマニア | [萌娘百科](https://zh.moegirl.org.cn/灵异迷) |
 | hypno | 引梦貘人 |  |  |
