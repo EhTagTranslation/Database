@@ -6825,7 +6825,7 @@ example:
 | aoi sakamoto | 坂本葵 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/915/63077-mhcuyr6v.webp) |  |
 | bo-ra lee | 李宝拉 | 所属作品：`solo leveling`<br>![](https://ehgt.org/w/01/902/23191-1feq7qmp.webp)<br>A级猎人，汉特斯公会成员，魔法辅助型职业。 |  |
 | ren | 莲 | ![](https://lain.bgm.tv/r/400/pic/crt/l/8c/44/132840_crt_E3x0H.jpg?r=1688436393)<br>所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu` | [Bangumi](https://bgm.tv/character/132840) |
-| rosanna | 罗珊娜 | ![](https://patchwiki.biligame.com/images/nikke/e/eb/o8uur870fnhrz9jhpa7gf4kbq34tnav.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/738162.png)<br>所属作品：`goddess of victory nikke`<br>势力庞大的黑手党组织赫多尼亚的老大。<br>在隶属于黑道女王部队的妮姬中，是最不掩饰地使用「以暴制暴」这个手段的人物。 | [GameKee](https://www.gamekee.com/nikke/tj/591260.html) |
+| rosanna | 罗珊娜 | ![](https://patchwiki.biligame.com/images/nikke/e/eb/o8uur870fnhrz9jhpa7gf4kbq34tnav.png)<br>所属作品：`goddess of victory nikke` | [GameKee](https://www.gamekee.com/nikke/tj/591260.html) |
 | sylpha langlis | 希尔法·兰格里斯 | 所属作品：`tensei shitara dainana ouji datta node kimama ni majutsu o kiwamemasu`<br>![](https://ehgt.org/w/02/031/99793-ueq2efyq.webp)<br>曾经是冒险者中出类拔萃的存在，但是不知为何成为王室的女仆，作为罗伊德的看护人。 |  |
 | mifuyu azusa | 梓美冬 | 所属作品: `p:puella magi madoka magica side story magia record`<br><br>随着雪野加奈惠和安名梅露的死去、得知魔法少女的真相后梓美冬倍受打击，一蹶不振。绝望之余释放出了Doppel并遇见了里见灯花，为了摆脱成为魔女的命运而加入组建了Magius之翼。 | [萌娘百科](https://zh.moegirl.org.cn/梓美冬) |
 | seras ashrain | 瑟拉丝·亚休连 | 所属作品：`hazure waku`<br>![](https://ehgt.org/w/01/999/24699-h4grz2vk.webp) |  |
