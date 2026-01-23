@@ -8317,6 +8317,7 @@ example:
 | queen arianna | 阿里安娜女王 | 所属作品：`tangled` |  |
 | pyrrha nikos | 皮拉·尼可丝 | ![](https://ehgt.org/w/00/759/54972-bxg8iejf.webp)<br>所属作品：`rwby` |  |
 | leonardo lionheart | 莱昂纳多·狮心王 | ![](https://static.wikia.nocookie.net/rwby/images/8/8c/LeonardoLionheart-V5C1.png)<br>所属作品：`rwby` |  |
+| sakura kawasaki | 川咲樱 | ![](https://static.wikia.nocookie.net/idoly-pride/images/a/a0/Kawasaki_Sakura_9.png)<br>所属作品：`idoly pride`<br>日语：川咲さくら |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
