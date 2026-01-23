@@ -7024,7 +7024,7 @@ example:
 | fraw bow | 芙劳·宝 | 芙劳·宝（フラウ・ボゥ）是《机动战士高达》系列及其衍生作品中的角色 |  |
 | beelstarmon | 贝尔斯塔兽X | ![](https://ehgt.org/w/02/078/42219-29eg3zdo.webp)<br>贝尔斯塔兽X（ベルスターモンX，Beelstarmon X）是日本万代株式会社以电子宠物延伸发展出来的跨平台产品《数码兽》系列中登场的虚构生物 |  |
 | anchor | 安克 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ae/Anchor_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/597431.html) |
-| trony | 贝希摩斯（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/51/Trony_%28Sweet_Step%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Trony/Gallery) |
+| trony | 特罗尼 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/51/Trony_%28Sweet_Step%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Trony/Gallery) |
 | neve | 尼夫 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/497891/2025/3/17/98770.png)<br>所属作品：`goddess of victory nikke`<br>隶属于无极限部队，四处寻找北极熊的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/578202.html) |
 | folkwang | 富克旺 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/8/2/665013.png)<br>所属作品：`goddess of victory nikke`<br>为鼓励人类参与体育运动而被制造出来的妮姬，隶属生命补药部队。 | [Gamekee](https://www.gamekee.com/nikke/tj/170847.html) |
 | dolla | 朵拉 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/86082/2025/3/17/181600.png)<br>所属作品：`goddess of victory nikke`<br>杰出的企业家。有传闻指出她是大型黑市交易网站的VVIP。 | [Gamekee](https://www.gamekee.com/nikke/tj/170853.html) |
