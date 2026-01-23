@@ -7017,7 +7017,7 @@ example:
 | k | K | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/5/3/28739.png)<br>所属作品：`goddess of victory nikke`<br>隶属危险席部队的妮姬。 与身为队长的D不同，她拥有相当灵活的正义观。 即使是恶人，只要做出相应的善行，她便不会将其消灭。 | [Gamekee](https://www.gamekee.com/nikke/tj/664885.html) |
 | ziz | 席兹 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Ziz_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | leviathan | 利维坦（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Leviathan_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Leviathan) |
-| behemoth | 贝希摩斯 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/10/03/00/48/32/135805162_p0_master1200.jpg)<br>所属作品：`goddess of victory nikke`<br>游戏内的反派 |  |
+| behemoth | 贝希摩斯 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/29/Behemoth_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | kudelia aina bernstein | 古荻莉亚·蓝娜·伯恩斯坦 | 古荻莉亚·蓝娜·伯恩斯坦（クーーデリア・藍那・バーンスタイン）是日本动画《机动战士高达：铁血的奥尔芬斯》中的角色 |  |
 | mirai yashima | ‌米莱·八洲 | ‌米莱·八洲（Mirai Yashima）是《机动战士高达》系列中的重要角色，原名米莱·八洲，后改姓诺亚（Noa），是布莱特·诺亚的妻子，哈特哈韦·诺亚和切米姆·诺亚的母亲‌。 |  |
 | lalah sune | 拉拉·辛 | ![](https://ehgt.org/w/01/968/88205-4qpgtv27.webp)<br>Lalah Sune是《机动战士高达》系列中的虚构角色‌，首次登场于《机动战士高达0079》。<br>她是吉翁公国的新类型人，驾驶Elmeth参与多次战斗，并与主角阿姆罗·雷发展出心灵感应关系。 |  |
