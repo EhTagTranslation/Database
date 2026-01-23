@@ -5636,7 +5636,7 @@ example:
 | sin | 罪（妮姬） | ![森立绘](https://static.dotgg.gg/nikke/characters/c401_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/580947.html) [DotGG](https://dotgg.gg/nikke/characters/sin) |
 | yulha | 尤尔夏 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Yulha_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/170841.html) [DotGG](https://dotgg.gg/nikke/characters/yulha) |
 | jackal | 豺狼 | ![豺狼立绘](https://static.dotgg.gg/nikke/characters/c111_00.png)<br>所属作品：`goddess of victory nikke`<br>隶属企业：米西利斯<br>隶属于外来者部队的妮姬。<br>是克拉乌忠实的狗。只要克拉乌一声令下，她就会随时冲锋向前，撕咬一切。 | [Gamekee](https://www.gamekee.com/nikke/580711.html) [DotGG](https://dotgg.gg/nikke/characters/jackal) |
-| laplace | 拉普拉斯 | ![拉普拉斯立绘](https://static.dotgg.gg/nikke/characters/c100_00.png)<br>所属作品：`goddess of victory nikke`<br>隶属企业：米西利斯<br>米西利斯最强部队墨提斯的队长。<br>自诣为方舟英雄，也拥有名副其实的力量。 | [Gamekee](https://www.gamekee.com/nikke/576409.html) [DotGG](https://dotgg.gg/nikke/characters/laplace) |
+| laplace | 拉普拉斯 | ![拉普拉斯立绘](https://static.dotgg.gg/nikke/characters/c100_00.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/576409.html) [DotGG](https://dotgg.gg/nikke/characters/laplace) |
 | modernia | 神罚 | ![神罚立绘](https://static.dotgg.gg/nikke/characters/c260_00.png)<br>所属作品`p:goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/576623.html) [DotGG](https://dotgg.gg/nikke/characters/modernia) |
 | china kuramoto | 仓本千奈 |  | [萌娘百科](https://zh.moegirl.org.cn/仓本千奈) |
 | daitou | 大东 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:大东) |
