@@ -2494,7 +2494,7 @@ example:
 |  | 超次元游戏海王星 > 女神 |  |  |
 | neptune | 涅普迪努 | 所属作品：`p:hyperdimension neptunia`<br>![图](https://ehgt.org/ed/27/ed27fdb040337b6148c37d5fcdcff6c440c379f0-2430335-4877-6950-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/涅普缇努) |
 | noire | 诺瓦尔 | ![图](https://ehgt.org/cb/c7/cbc7e4f78bba5c97c5ffbd173af7220e16149a56-2848886-4877-6950-jpg_l.jpg) |  |
-| blanc | 布兰 \| 布兰儿 | ①所属作品：`goddess of victory nikke`<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/86082/2025/3/15/725934.png)<br>隶属于777部队的妮姬，同时也是金币之战的招牌明星。<br>②所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/2/26/6wy1s7o0ksiw6d92fx64rkevmw3wez7.jpg)<br>海王星阵营的精锐级驱逐舰娘，原型为《超次元游戏:海王星》角色。 ‌ | [https://www.gamekee.com/nikke/tj/591204.html](https://www.gamekee.com/nikke/tj/591204.html) |
+| blanc | 布兰 \| 布兰儿 | ①<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Blanc_FB.png)<br>所属作品：`goddess of victory nikke`<br><br>②所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/2/26/6wy1s7o0ksiw6d92fx64rkevmw3wez7.jpg)<br>海王星阵营的精锐级驱逐舰娘，原型为《超次元游戏:海王星》角色。 ‌ | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | vert | 贝露 | ![图](https://ehgt.org/71/b3/71b37c69c3a08cebd385c7efa6b3c68ae91a2977-2735349-4877-6950-jpg_l.jpg) |  |
 | peashy | 皮榭 | 澄黄之心<br>![图](https://ehgt.org/90/7d/907d42b55bdf4edb1ad119448f9d60307119ff71-2270611-4877-6950-jpg_l.jpg)![图](https://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) |  |
 | plutia | 普露露特 | 虹色之心<br>![图](https://ehgt.org/db/d1/dbd10cac8c052ac23af0436c23d3553e71f9405b-2622564-4877-6950-jpg_l.jpg)![图](https://ehgt.org/17/62/1762b4886231c2fbffecb6c3d95d30214b4561ce-2382519-4877-6950-jpg_l.jpg) |  |
