@@ -7909,7 +7909,7 @@ example:
 | lux arcadia | 路克斯·阿卡迪亚 | ![](https://saijaku.jp/img/character_image01.jpg)<br>所属作品：`saijaku muhai no bahamut`<br>ルクス·アーカディア<br>灭亡的阿卡迪亚帝国第七皇子，神装机龙〈巴哈姆特 Bahamuth〉的使用者，平常带著两把机装剑，一把为特殊改造的〈飞翔机龙 Wyvern〉，另一把为巴哈姆特的。 |  |
 | claire elstein | 克蕾儿·艾尔斯坦因 | ![](https://static.wikia.nocookie.net/seirei-tsukai-no-blade-dance/images/9/96/Claire_Rouge_%28Anime%29.png)<br>所属作品：`bladedance of elementalers`<br>艾迪西亚帝国名门贵族艾尔斯坦因家的次女。 |  |
 | iori kitahara | 毒岛樱子 | ![](https://ehgt.org/w/02/165/64312-c05x7b31.webp)<br>所属作品：`grand blue` |  |
-| liberalio | 莉贝雷利奥 | ![](https://img.3dmgame.com/uploads/images/news/20251103/1762149681_879803.jpg)<br>所属作品：`goddess of victory nikke` |  |
+| liberalio | 莉贝雷利奥 | ![](https://static.dotgg.gg/nikke/characters/c262_00.webp)<br>所属作品：`goddess of victory nikke` |  |
 | sarasa saionji | 彩园寺更纱 | ![](https://ehgt.org/w/02/127/34489-8essqjwq.webp)<br>所属作品：`liar liar` |  |
 | mine | 玛茵 | ![](https://ehgt.org/w/01/970/38375-fjmo8sh9.webp)<br>所属作品：`akame ga kill`<br>Night Raid成员，个性强势，自称射击的天才，双马尾傲娇属性。 |  |
 | tatsumi | 塔兹米 | 所属作品：`akame ga kill`<br>为了解救村庄的窘境而来到帝都想要出人头地的少年剑士。 |  |
