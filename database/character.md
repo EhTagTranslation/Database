@@ -8350,6 +8350,7 @@ example:
 | mana nakiri | 薙切真凪 | 所属作品：`shokugeki no soma` |  |
 | skott | 林登·斯科特 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/d/d3/NPC_Skott.png)<br>所属作品：`honkai star rail` |  |
 | sachiko ogasawara | 小笠原祥子 | ![](https://static.wikia.nocookie.net/mariasama/images/7/74/Aloofiscoolimo.jpg)<br>所属作品：`maria-sama ga miteru` |  |
+| yumi fukuzawa | 福沢祐巳 | ![](https://static.wikia.nocookie.net/mariasama/images/0/07/Gayandindenial.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
