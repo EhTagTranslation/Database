@@ -7110,7 +7110,7 @@ example:
 | tokiko fuuma | 风魔时子 | ![](https://static.wikia.nocookie.net/taimanin/images/4/43/Fuuma_Tokiko_Young_3.png)<br>所属作品：`taimanin rpg` |  |
 | kurenai shinganji | 心愿寺红 | ![](https://static.wikia.nocookie.net/taimanin/images/f/f2/Shinganji_Kurenai_4.png)<br>所属作品：`taimanin asagi` |  |
 | aya toujou | 东城绫 | 所属作品：`ichigo 100` |  |
-| grave | 贝希摩斯（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b2/Grave_FB.png)<br>所属作品：`goddess of victory nikke` | [gamekee](https://www.gamekee.com/nikke/tj/170831.html) |
+| grave | 格拉维 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b2/Grave_FB.png)<br>所属作品：`goddess of victory nikke` | [gamekee](https://www.gamekee.com/nikke/tj/170831.html) |
 | ha yuri zahard | 赫·宥莉·吉黑德 | ![](https://ehgt.org/w/01/951/90719-681c4re9.webp)<br>所属作品：`tower of god`<br>作为吉黑德公主之一，她出身赫家族，持有十三月系列武器。性格直率火爆，厌恶繁文缛节，对主角夜及其伙伴保持高度关注。 |  |
 | melia antiqua | 梅莉亚·安提古亚 | ![](https://tiebapic.baidu.com/forum/pic/item/ba8609381f30e9243d29ddfd09086e061f95f7f8.jpg?tbpicau=2025-11-26-05_db8284ed5e3361604ff4eac027a49bbb)<br>所属作品：`xenoblade` |  |
 | tsubaki miyajima | 宫岛椿 | ![](https://ehgt.org/w/01/976/42067-5jihl6qk.webp)<br>所属作品：`saimin seishidou` |  |
