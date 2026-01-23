@@ -14701,7 +14701,7 @@ example:
 | omochi nabe | おもちなべ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おもちなべ%22) |
 | nichita | にちた |  | [X](https://x.com/nichita777) |
 | nessie tomato | ネッシートマト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024185.html) |
-| horin | 豊臨 |  | [https://www.melonbooks.co.jp/search/search.php?name=豊臨&text\_type=author](https://www.melonbooks.co.jp/search/search.php?name=豊臨&text_type=author) |
+| horin | 豊臨 |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=豊臨&text_type=author) |
 
 <!--TEMPLATE:
 |  |  |  |  |
