@@ -14707,6 +14707,7 @@ example:
 | banana | 甘蕉 |  | [X](https://x.com/bnnn0508) \| [Skeb](https://skeb.jp/@bnnn0508) \| [FANBOX](https://bnnn0508.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/52268240) |
 | poyeop | Poyeop |  | [pixiv](https://www.pixiv.net/users/66432194) \| [FANBOX](https://poyeop.fanbox.cc/) |
 | jaga | じゃが |  |  |
+| yanje | Yanje |  | [X](https://x.com/yanje_B) \| [Patreon](https://www.patreon.com/yanje) \| [pixiv](https://www.pixiv.net/users/17707045) |
 
 <!--TEMPLATE:
 |  |  |  |  |
