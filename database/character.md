@@ -8340,6 +8340,7 @@ example:
 | kenta hirono | 广野健太 | 所属作品：`wingman` |  |
 | najimi ajimu | 安心院薰染 | ![](https://static.wikia.nocookie.net/medakabox/images/8/8c/Ajimu_Original.jpg)<br>所属作品：`medaka box`<br>日文：安心院 なじみ |  |
 | melinda desmond | 梅琳达·德斯蒙 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/3/3a/Melinda_Desmond_Anime.png)<br>所属作品：`spy x family`<br>日文：メリンダ・デズモンド |  |
+| ritsu | 小律 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/9/95/Ritsu_tranparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>自律思考固定炮台，通称小律。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
