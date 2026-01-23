@@ -6412,7 +6412,7 @@ example:
 | amate yuzuriha | 天手让叶 | 原名天手让叶，是高中女生。在殖民卫星里过着和平的日常生活，却总是有种不真实的感觉。以邂逅尼娅安为契机，成为了《`p:mobile suit gundam gquuuuuux`》的驾驶员，并且参加了《军团战》。 | [官方介绍页](https://gundaminfo.cn/about-gundam/series-pages/gquuuuuux/character/1) |
 | ishigami nozomi | 石神望 | 石神望是一名从2023年1月19日在YouTube平台开始活动的VTuber，所属于业界团体`nijisanji`。<br><br>恶魔与人类的混血儿<br>以这样的设定在SNS上活动着。<br>虽然其实只是个人类，但相信自己的身体里寄宿着魔力。<br>左手上的绷带封印着恶魔之力。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Ishigami_Nozomi) [萌娘百科](https://zh.moegirl.org.cn/石神望) |
 | alpha | 阿尔法 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>“七影”首席，15岁。精灵族金长发的女性。英雄奥莉薇的后裔。<br>![](https://lain.bgm.tv/pic/crt/l/82/32/106382_crt_5MGZ4.jpg?r=1675247572&_gl=1*gezsea*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5NTczJGoyOSRsMCRoMA).. | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Alpha) |
-| red shoes | 红舞鞋 | 所属作品: `p:goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Shoes) |
+| red shoes | 红舞鞋 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ee/Red_Shoes_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Shoes) |
 | suisui | 水水 | ![](https://img.exloli.org/559bfb4423.webp) |  |
 | arshes nei | 安雪丝·奈伊 | 所属作品: `p:bastard`<br><br>黑暗妖精与人类的混血儿，四天王唯一的女性。自小被妖精族抛弃后被达克·休奈达收为养女，称号是“雷帝”。昵称达克·休奈达“达休”，既是他的女儿，又是他的情人。只有达克·休奈达才能直呼她“安雪”。 | [Fandom](https://bastard.fandom.com/wiki/Arshes_Nei) [维基百科](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－#四天王) |
 | cardigan | 卡缇 | ![](https://patchwiki.biligame.com/images/arknights/1/11/icfe7thgmcnk7b4375ujfrq3rwx134r.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/卡缇) |
