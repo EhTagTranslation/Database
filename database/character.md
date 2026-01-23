@@ -8334,6 +8334,7 @@ example:
 | ranko honjou | 本城兰子 | ![](https://ehgt.org/w/01/914/79309-fpwhocap.webp)<br>所属作品：`hajimete no gal`<br>日文：本城蘭子 |  |
 | amy sorel | 艾米索雷尔 | ![](https://static.wikia.nocookie.net/soulcalibur/images/e/ee/Amy-soulcalibur6-characterart-by-takuji-kawano.jpg)<br>所属作品：`soulcalibur` |  |
 | talim | 塔利姆 | ![](https://static.wikia.nocookie.net/soulcalibur/images/c/c1/Talim-soulcalibur6-artwork-by-takuji-kawano.png)<br>所属作品：`soulcalibur` |  |
+| mikako nonohara | 野野原美加子 | ![](https://ehgt.org/w/02/203/91288-ffbfj5ro.webp)<br>所属作品：`starless` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
