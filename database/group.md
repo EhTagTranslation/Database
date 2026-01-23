@@ -13626,6 +13626,7 @@ example:
 | moyashiken | もやし券 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007604.html) |
 | full pon twintail | フルポンツインテール |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72230.html) |
 | sumikko no ou-sama | すみっこの王様 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68398.html) |
+| muchimuchi namaniku | ムチムチ生肉 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000771.html) \| [X](https://x.com/muchimuchinama) \| [pixiv](https://www.pixiv.net/users/105435789) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
