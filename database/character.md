@@ -4501,7 +4501,7 @@ example:
 | kazamori sasa | 佐佐风守 | 所属作品: `p:un-go`<br><br>![](https://static.wikia.nocookie.net/un-go/images/c/ca/Kazamori.png)<br><br>禁忌的人工智能生命体‧R.A.I.最后存在的个体，也是第一个被制造者佐佐驹守制作出来的生命体。 一开始被驹守以养子的身分带入佐佐家，在驹守假死后掌控佐佐集团，被驹守当做傀儡代理人。 后加入主角团体，积极的参与解决各种事件。 | [萌娘百科](https://zh.moegirl.org.cn/佐佐风守) [Fandom](https://un-go.fandom.com/wiki/Kazamori_Sasa) |
 | kozuki momonosuke | 光月桃之助 | 所属作品: `p:one piece`<br>光月桃之助是现任和之国将军。也是已故九里大名光月家之主——光月御田之子、前将军光月锄烧之孙。 | [Fandom](https://onepiece.fandom.com/zh/wiki/光月桃之助) |
 | kanna ogata | 尾刃康娜 | 所属作品: `p:blue archive`<br>瓦尔基里警察学校所属，担任公安局局长一职的学生。<br>![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Kanna_Portrait.png) | [pixiv](https://dic.pixiv.net/a/尾刃カンナ) [Fandom](https://bluearchive.fandom.com/wiki/Ogata_Kanna) |
-| nero | 尼禄 \| 尼罗 | ①![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_4180/h_4180/1253/103682/2025/3/17/959810.png)<br>所属作品：`goddess of victory nikke`<br>隶属于管理方舟内动物的部队——快乐动物园部队的妮姬。<br>————————<br>②![](https://ehgt.org/w/00/989/69737-6h33f8it.webp)<br>所属作品：`devil may cry` |  |
+| nero | 尼禄 \| 尼罗 | ①<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Nero_FB.png)<br>所属作品：`goddess of victory nikke`<br><br>————————<br>②![](https://ehgt.org/w/00/989/69737-6h33f8it.webp)<br>所属作品：`devil may cry` |  |
 | deadpool | 死侍 |  |  |
 | lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
 | trish | 翠西 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
