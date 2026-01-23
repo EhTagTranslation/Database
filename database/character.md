@@ -8322,6 +8322,7 @@ example:
 | cima garahau | 西玛·卡拉豪 | ![](https://patchwiki.biligame.com/images/gundam/thumb/8/85/3g0su2fvph13ce11rat0d5wr6m1a10j.jpg/250px-Xmklh.jpg)<br>出自作品：`p:gundam 0083`<br><br>西玛·卡拉豪（シーマ・ガラハウ）是动画《机动战士高达0083：星尘的回忆》中的虚拟角色，由真柴摩利配音。其身份为吉翁公国突击机动军中佐。 | [BILIGAME WIKI](https://wiki.biligame.com/gundam/西玛·卡拉豪) \| [百度百科](https://baike.baidu.com/item/西瑪·卡拉豪/1197765) |
 | takane enomoto | 榎本贵音 | ![](https://static.wikia.nocookie.net/kagerouproject/images/c/c3/MCA_-_Ene.png)<br>所属作品：`kagerou project` |  |
 | marry kozakura | 小樱茉莉 | ![](https://static.wikia.nocookie.net/kagerouproject/images/7/78/MCA_-_Marry.png)<br>所属作品：`kagerou project` |  |
+| kousuke seto | 濑户幸助 | ![](https://static.wikia.nocookie.net/kagerouproject/images/0/06/MCA_-_Seto.png)<br>所属作品：`kagerou project` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
