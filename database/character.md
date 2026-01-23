@@ -3119,7 +3119,7 @@ example:
 | ichika orimura | 织斑一夏 |  |  |
 | chifuyu orimura | 织斑千冬 | ![](https://ehgt.org/w/01/922/65741-b2f7jbna.webp)<br>所属作品：`infinite stratos` |  |
 | gray | 格蕾 | 埃尔梅罗二世（韦伯·维尔维特）的入室弟子，面容与saber相同，可使用圣枪伦戈米尼亚德 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/格蕾) |
-| koyanskaya | 高扬斯卡娅 | 玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [https://wiki.komica.org/T·V·柯楊斯卡雅](https://wiki.komica.org/T·V·柯楊斯卡雅) |
+| koyanskaya | 高扬斯卡娅 | ![](https://ehgt.org/w/01/150/87793-i9jdvqru.webp)<br>出自作品：`p:fate grand order`<br><br>玉藻維琪‧柯楊斯卡雅[1](タマモヴィッチ‧コヤンスカヤ/Tamamovitch Koyanskaya/Tамамович Коянская ，CV：齋藤千和)<br>真名：玉藻前(玉藻の前)/妲己(だっき)/金毛白面九尾狐。并非是所谓的Alterego（他人格）而是人类恶的化身“兽”（“Beast”），真名“爱玩之兽”。 | [萌娘百科](https://zh.moegirl.org.cn/高扬斯卡娅) \| [komica](https://wiki.komica.org/T·V·柯楊斯卡雅) |
 | mineva lao zabi | 密涅瓦·劳·扎比（汤小美） | 米妮瓦·拉欧·萨比 （ミネバ・ラオ・ザビ / Mineva Lao Zabi，又译为米妮瓦或米妮芭，或汤小美）是动画版机动战士GUNDAM，机动战士Z GUNDAM，机动战士GUNDAM ZZ以及机动战士GUNDAM UC当中的登场人物。生于UC0079年9月2日，是德兹尔·萨比与妻子瑟娜之间的独生女。也是萨比家唯一在一年战争之后还存活的人物。声优：初代TV版与剧场版：无，TV版Ζ与ΖΖ当中为伊藤美纪，UC当中为藤村步。<br><br>阅读更多：薩比家（[萌娘百科](https://zh.moegirl.org.cn/薩比家）)<br>本文引自萌娘百科([萌娘百科](https://zh.moegirl.org.cn))，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0》协议。 | [萌娘百科](https://zh.moegirl.org.cn/薩比家#米妮瓦·拉歐·薩比) |
 | marida cruz | 玛莉妲·库鲁斯 | 普露12 | [百度百科](https://baike.baidu.com/item/玛莉妲·库鲁斯/1759361) |
 | jeanne alter lily | 贞德·Alter·Santa·Lily | 圣诞黑贞 | [FGO中文wiki](https://fgo.wiki/w/贞德·Alter·Santa·Lily) |
