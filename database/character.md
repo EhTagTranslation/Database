@@ -8363,6 +8363,7 @@ example:
 | hayuru himekawa | 姬川映流 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/4/4b/Himekawa_Hayuru_Anime.png)<br>所属作品：`masou gakuen hxh`<br>日文：ひめかわはゆる |  |
 | reiri hida | 飞弾怜悧 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/9/9f/Hida_Reiri_Anime.png)<br>所属作品：`masou gakuen hxh` |  |
 | mori | 森（妮姬） | ![](https://static.dotgg.gg/nikke/characters/c590_00.webp)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Mori) |
+| satoko kusagakure | 草隐里子 | ![](https://ehgt.org/w/02/088/76814-v6lszm04.webp)<br>出自作品：`p:ninja to koroshiya no futarigurashi` | [萌娘百科](https://zh.moegirl.org.cn/忍者×杀手二人组的日常生活#登场人物) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
