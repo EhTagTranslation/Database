@@ -8323,6 +8323,7 @@ example:
 | takane enomoto | 榎本贵音 | ![](https://static.wikia.nocookie.net/kagerouproject/images/c/c3/MCA_-_Ene.png)<br>所属作品：`kagerou project` |  |
 | marry kozakura | 小樱茉莉 | ![](https://static.wikia.nocookie.net/kagerouproject/images/7/78/MCA_-_Marry.png)<br>所属作品：`kagerou project` |  |
 | kousuke seto | 濑户幸助 | ![](https://static.wikia.nocookie.net/kagerouproject/images/0/06/MCA_-_Seto.png)<br>所属作品：`kagerou project` |  |
+| haruka kokonose | 九之濑遥 | ![](https://static.wikia.nocookie.net/kagerouproject/images/a/a5/Sidu_-_Haruka_04.png)<br>所属作品：`kagerou project` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
