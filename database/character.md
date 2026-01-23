@@ -8343,6 +8343,7 @@ example:
 | ritsu | 小律 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/9/95/Ritsu_tranparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>自律思考固定炮台，通称小律。 |  |
 | cell | 沙鲁 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b8/Cell.png)<br>所属作品：`dragon ball z`<br>日文：セル |  |
 | aoki aka | 赤青黄 | 所属作品：`medaka box`<br>日文：あか あおき |  |
+| aoi yotaka | 夜鹰葵 | 所属作品：`yotaka futatabi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
