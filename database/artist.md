@@ -14697,6 +14697,7 @@ example:
 | acsmine | Acsmine |  | [Patreon](https://www.patreon.com/acsmine) |
 | madoroshi | まどろし |  |  |
 | xren | Xレン |  | [FANBOX](https://xren.fanbox.cc/) |
+| yamashita tomoko | ヤマシタトモコ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
