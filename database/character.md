@@ -8335,6 +8335,7 @@ example:
 | amy sorel | 艾米索雷尔 | ![](https://static.wikia.nocookie.net/soulcalibur/images/e/ee/Amy-soulcalibur6-characterart-by-takuji-kawano.jpg)<br>所属作品：`soulcalibur` |  |
 | talim | 塔利姆 | ![](https://static.wikia.nocookie.net/soulcalibur/images/c/c1/Talim-soulcalibur6-artwork-by-takuji-kawano.png)<br>所属作品：`soulcalibur` |  |
 | mikako nonohara | 野野原美加子 | ![](https://ehgt.org/w/02/203/91288-ffbfj5ro.webp)<br>所属作品：`starless` |  |
+| iori yoshizuki | 苇月伊织 | ![](https://lain.bgm.tv/r/400/pic/crt/l/53/3f/3862_crt_anidb.jpg)<br>所属作品：`is` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
