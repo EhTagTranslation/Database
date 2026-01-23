@@ -8347,6 +8347,7 @@ example:
 | lucrezia noin | 鲁克雷兹亚·诺因 | ![](https://static.wikia.nocookie.net/gundam/images/0/08/Lucrezia_Noin_GGCR.png)<br>所属作品：`gundam wing` |  |
 | riko hinakura | 日名仓莉子 | ![](https://static.wikia.nocookie.net/cue/images/8/8f/Riko_casual.png)<br>所属作品：`cue`<br>日文：日名倉莉子 |  |
 | chisa akagawa | 赤川千纱 | ![](https://static.wikia.nocookie.net/cue/images/9/98/Chisa_casual.png)<br>所属作品：`cue`<br>日文：赤川千紗 |  |
+| mana nakiri | 薙切真凪 | 所属作品：`shokugeki no soma` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
