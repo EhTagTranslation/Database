@@ -2317,7 +2317,7 @@ example:
 |  | ▼ 街头霸王 |  |  |
 | cammy white | 嘉米·怀特 |  |  |
 | chun-li | 春丽 | ![](https://ehgt.org/w/01/746/17890-7ql7fynp.webp)<br>出自作品：`p:street fighter`<br><br>春丽（チュン·リー）是Capcom出品的2D对战格斗游戏《街头霸王》系列中的登场角色，也是全世界格斗游戏中第一个登场的女性人物。她是一位专家级的武术家和国际刑警组织的警官。 | [萌娘百科](https://zh.moegirl.org.cn/春丽%28街头霸王%29#) |
-| rainbow mika | 七川美华 |  |  |
+| rainbow mika | 七川美华 | ![](https://ehgt.org/w/01/681/67583-5p3ji6b9.webp)<br>出自作品：`p:street fighter`<br><br>彩虹美华（Rainbow Mika/R.Mika），本名七川美华，是Capcom所创作的格斗游戏《街头霸王》系列及其衍生作品的登场角色。1998年的《街头霸王Zero3》初登场，2016年的《街霸5》中回归。 | [萌娘百科](https://zh.moegirl.org.cn/七川美华) |
 | juri han | 韩蛛俐 | ![](https://ehgt.org/w/02/024/93808-jmau51nh.webp)<br>出自作品：`p:street fighter`<br><br>韩蛛俐是CAPCOM出品的2D格斗游戏《街头霸王系列》中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/韩蛛俐) |
 | karin kanzuki | 神月卡琳 |  |  |
 | menat | 米纳特 |  |  |
