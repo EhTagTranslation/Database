@@ -2707,6 +2707,7 @@ example:
 | wandance | 绝妙舞步 | ![](https://upload.wikimedia.org/wikipedia/en/f/f3/Wandance_vol._1.png) |  |
 | kagerou project | 阳炎Project |  |  |
 | mekakucity actors | 目隐都市的演绎者 |  |  |
+| magical taruruuto-kun | 幻法小魔星 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
