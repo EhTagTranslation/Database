@@ -511,7 +511,7 @@ example:
 | saint seiya | 圣斗士星矢 |  |  |
 | agent aika | 海底娇娃蓝华 | 《海底娇娃蓝华》（AIKa）是由日本Bandai Visual于1997年制作的OVA动画，改编自Comic Gum漫画，西岛克彦担任导演，金卷兼一负责剧本。 |  |
 | city hunter | 城市猎人 |  |  |
-| super robot wars | 超级机器人大战 |  |  |
+| super robot wars | 超级机器人大战 | 超级机器人大战（日语：スーパーロボット大戦，英语：Super Robot Wars或Super Robot Taisen（北美））是Banpresto眼镜厂公司出品的一个多平台的回合制战棋类游戏系列。 | [萌娘百科](https://zh.moegirl.org.cn/超级机器人大战系列) |
 | super robot wars w | 超级机器人大战W |  |  |
 | super robot wars k | 超级机器人大战K |  |  |
 | super robot wars z 2nd | 第2次超级机器人大战Z |  |  |
