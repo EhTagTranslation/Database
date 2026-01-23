@@ -14702,6 +14702,7 @@ example:
 | nichita | にちた |  | [X](https://x.com/nichita777) |
 | nessie tomato | ネッシートマト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024185.html) |
 | horin | 豊臨 |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=豊臨&text_type=author) |
+| hatohato jojo | 鳩鳩JOJO |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22鳩鳩JOJO%22) \| [FANBOX](https://jojosensei360.fanbox.cc/) \| [X](https://x.com/jojosensei360) \| [pixiv](https://www.pixiv.net/users/1350252) |
 
 <!--TEMPLATE:
 |  |  |  |  |
