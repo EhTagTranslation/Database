@@ -8345,6 +8345,7 @@ example:
 | aoki aka | 赤青黄 | 所属作品：`medaka box`<br>日文：あか あおき |  |
 | aoi yotaka | 夜鹰葵 | 所属作品：`yotaka futatabi` |  |
 | lucrezia noin | 鲁克雷兹亚·诺因 | ![](https://static.wikia.nocookie.net/gundam/images/0/08/Lucrezia_Noin_GGCR.png)<br>所属作品：`gundam wing` |  |
+| riko hinakura | 日名仓莉子 | ![](https://static.wikia.nocookie.net/cue/images/8/8f/Riko_casual.png)<br>所属作品：`cue`<br>日文：日名倉莉子 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
