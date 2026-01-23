@@ -4052,7 +4052,7 @@ example:
 | beeswax | 蜜蜡 | ![](https://patchwiki.biligame.com/images/arknights/7/71/16j6qoxh8kq6arn7f69ns2ic6la77c0.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:蜜蜡) |
 | youtouhime | 妖刀姬 |  |  |
 | ivy valentine | 艾薇 |  |  |
-| taki | 多喜 |  |  |
+| taki | 多喜 | ![](https://static.wikia.nocookie.net/soulcalibur/images/1/16/Taki-soulcalibur6-artwork-by-takuji-kawano.jpg)<br>所属作品：`soulcalibur` |  |
 | yuzu hanaoka | 花冈柚子 | 千年科学学校所属，游戏开发部的部长。<br>![](https://patchwiki.biligame.com/images/ba/6/6c/3mbqaum18gcpwhh29gf84yialfawmgf.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yuzu) |
 | iroha natsume | 枣伊吕波 | 格黑娜学园所属，「万魔殿」的议员之一。![](https://patchwiki.biligame.com/images/ba/9/98/e9y91bx4q1smkuuv3nwlmjnlxc2bip9.png) | [萌娘百科](https://zh.moegirl.org.cn/枣伊吕波)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Iroha) |
 | sasara kusugawa | 久寿川莎莎菈 |  |  |
