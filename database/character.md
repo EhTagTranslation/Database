@@ -6604,7 +6604,7 @@ example:
 | rana | 拉娜 |  |  |
 | chie hoshinomiya | 星之宫知惠 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/03/04/35/50/131120670_p2_master1200.jpg)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>高度育成高中一年B班的班主任。她性格开朗活泼，在学生群体中拥有极高人气，常表现出与教师身份不符的出格行为，其真实意图具有模糊性。 |  |
 | maya satou | 佐藤麻耶 | ![](https://img.moegirl.org.cn/common/2/2e/Satou.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>以开朗活泼的辣妹形象和出色的社交能力为特征，在班级中担任气氛调节者。 | [萌娘百科](https://zh.moegirl.org.cn/佐藤麻耶) |
-| aine chidorigafuchi | 千鸟渊爱音 | 轻小说《魔装学园H×H》及其衍生作品中的登场女角色。白羊座，银色长发、红色眼眸，长睫毛，融心装备小队“天地穹女神”成员之一。 |  |
+| aine chidorigafuchi | 千鸟渊爱音 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/3/30/Chidorigafuchi_Aine_Anime.png)<br>所属作品：`masou gakuen hxh`<br>日文：ちどりがふちあいね |  |
 | mahiru hiragi | 柊真昼 | 柊真昼是日本轻小说《终结的炽天使：一濑红莲，破灭的16岁》的女主角，柊家的长女及下任候补当家，柊筱娅的亲姐姐，一濑红莲的恋人。 |  |
 | silvervale | 樱花狼灵 | 活跃于游戏与 VTuber 领域的创作者，以游戏体验分享、个人日常及互动直播为主要内容，特色在于融合樱花狼灵角色设定的趣味性表达。 |  |
 | lu shaotang | 陆少糖 | 所属作品：`sakamoto days`<br>![](https://ehgt.org/w/01/916/23284-l8uq0bn9.webp)<br>坂本商店的成员。双亲被敌对组织杀害后被坂本太郎救出，有着过人的拳法。 |  |
