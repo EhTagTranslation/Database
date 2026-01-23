@@ -5647,7 +5647,7 @@ example:
 | lycanroc | 鬃岩狼人 | ![](https://s1.52poke.com/wiki/thumb/b/b5/745Lycanroc-Midday.png/300px-745Lycanroc-Midday.png)<br>所属作品：`pokemon` | [https://wiki.52poke.com/wiki/鬃岩狼人](https://wiki.52poke.com/wiki/鬃岩狼人) |
 | angol moa | 安格尔·摩亚 | 军曹动画中的角色 |  |
 | temari tsukimura | 月村手毬 | 月村手毬是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/c/c9/Imas_gakuen_cidol-ttmr-3-000_0-landscape.png/1920px-Imas_gakuen_cidol-ttmr-3-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/月村手毬) |
-| futaba igarashi | 五十岚双叶 | ![隐](# "https://ehgt.org/0e/50/0e50ad75e402ba871662be568a605eafa68d968f-1550126-1450-1590-png_l.jpg")<br>![隐](# "https://img3.gelbooru.com/images/58/b0/58b0de5f9689e5c53880d4e5763236ff.png") |  |
+| futaba igarashi | 五十岚双叶 | ![](https://static.wikia.nocookie.net/my-senpai-is-annoying/images/2/26/Igarashi_Futaba_anime.png)<br>所属作品：`senpai ga uzai kouhai no hanashi` |  |
 | wanderer | 流浪者 | 流浪者是游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/流浪者%28原神%29#) |
 | horn | 号角 | ![](https://patchwiki.biligame.com/images/arknights/e/eb/gc4exo9twglgb8xebe80pmkcatzpx7y.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/号角#干员信息](https://prts.wiki/w/号角#干员信息) |
 | whisperain | 絮雨 | ![](https://patchwiki.biligame.com/images/arknights/0/09/k7vfbr0o3ai1ecvuj3st2kd02bpj1gg.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/絮雨#干员信息](https://prts.wiki/w/絮雨#干员信息) |
