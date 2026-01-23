@@ -2704,6 +2704,7 @@ example:
 | gnosia | 古诺希亚 | ![](https://p2.bahamut.com.tw/B/2KU/14/d674283fc880431e915f7ab0611w8q25.JPG?v=1761549121515)<br>《古诺希亚》是由Domerica制作的日本电视动画，改编自petit depotto开发的同名狼人杀推理游戏。 |  |
 | freedom wars | 自由战争 | 索尼SCEJ日本工作室于2014年发售的PSV游戏《自由战争》 |  |
 | limelight lemonade jam | 沁光柠檬即兴曲 | ![](https://i.meee.com.tw/9ejzL5X.jpg)<br>LimeLight Lemonade Jam是由JUNOS旗下品牌“柚子社”发行的Gal GAME |  |
+| wandance | 绝妙舞步 | ![](https://upload.wikimedia.org/wikipedia/en/f/f3/Wandance_vol._1.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
