@@ -14698,6 +14698,7 @@ example:
 | madoroshi | まどろし |  |  |
 | xren | Xレン |  | [FANBOX](https://xren.fanbox.cc/) |
 | yamashita tomoko | ヤマシタトモコ |  |  |
+| omochi nabe | おもちなべ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おもちなべ%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
