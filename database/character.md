@@ -1243,7 +1243,7 @@ example:
 | ikumi mito | 水户郁魅 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/03/26/12/02/45/128620766_p0_master1200.jpg)<br>所属作品：`shokugeki no soma`<br>远月学园高等部1年级女生，登场时是绘里奈派成员，因食戟输给创真而被绘里奈抛弃。 | [萌娘百科](https://zh.moegirl.org.cn/水户郁魅) |
 | megumi tadokoro | 田所惠 | ![](https://img.moegirl.org.cn/common/d/db/Tadokoro_megumi.png)<br>所属作品：`shokugeki no soma`<br>蓝发双麻花的天然少女。右侧刘海有一银色的发夹。上学时穿正式的校服，料理课时穿白色的厨师服。 | [萌娘百科](https://zh.moegirl.org.cn/田所惠) |
 | fuyumi mizuhara | 水原冬美 |  |  |
-| souma yukihira | 幸平创真 |  |  |
+| souma yukihira | 幸平创真 | ![](https://static.wikia.nocookie.net/shokugekinosoma/images/a/af/Soma_Yukihira_First_Year_Appearance.png)<br>所属作品：`shokugeki no soma`<br>日文：ゆきひらそう真 |  |
 | takumi aldini | 巧·阿尔迪尼 |  |  |
 | isami aldini | 勇·阿尔迪尼 |  |  |
 | hisako arato | 新户绯沙子 | ![](https://ehgt.org/w/01/901/95160-7z0s2m6c.webp)<br>所属作品：`shokugeki no soma` |  |
