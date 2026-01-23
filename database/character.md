@@ -6270,7 +6270,7 @@ example:
 | ichigo morino | 森野莓 | 所属作品: `p:onegai teacher` | [百度百科](https://baike.baidu.com/item/森野莓) |
 | uika misumi | 三角初华 | ![](https://patchwiki.biligame.com/images/arknights/1/11/p6dnxwdyfhj5p2izztffkfj3nmcjt07.png)<br>所属作品：《‌BanG Dream! Ave Mujica》<br>三角初华（日语：三角（みすみ） 初華（ういか））。 | [萌娘百科](https://zh.moegirl.org.cn/三角初华) |
 | nyamu yutenji | 祐天寺若麦 | ![](https://patchwiki.biligame.com/images/arknights/1/14/o72nngds71ndov9wpj88anr88pwswoe.png)<br>所属作品：《‌BanG Dream! Ave Mujica》<br>日语名：祐天寺（ゆうてんじ） にゃむ。 | [萌娘百科](https://zh.moegirl.org.cn/祐天寺若麦) |
-| clay | 克雷伊 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/103682/2025/3/18/963674.png)<br>所属作品：`goddess of victory nikke`<br>后来才加入方舟啦啦队倒带部队的新成员。 | [https://www.gamekee.com/nikke/tj/624298.html](https://www.gamekee.com/nikke/tj/624298.html) |
+| clay | 克雷伊 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Clay_FB.png)<br>所属作品：`goddess of victory nikke`<br>后来才加入方舟啦啦队倒带部队的新成员。 | [gamekee](https://www.gamekee.com/nikke/tj/624298.html) |
 | mabayu aki | 爱生眩 | 爱生眩是动画《魔法少女小圆》系列所属外传手游《魔法纪录 魔法少女小圆外传》篇章《魔法少女小圆 Scene0》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/爱生眩) |
 | junko kaname | 鹿目询子 | 鹿目询子（日语：鹿目（かなめ）詢子（じゅんこ））是动画《魔法少女小圆》系列及其衍生作品的登场角色。<br><br>鹿目圆的母亲。 | [萌娘百科](https://zh.moegirl.org.cn/鹿目询子) |
 | asaba tokisaki | 朱鹭咲浅羽 | 朱鹭咲浅羽是`a:niliu chahui`的看板娘之一，是看板娘中较为年幼的妹妹，爱捉弄人的少女。秉持着游戏人生的乐天态度，对姐姐以外的人并没有交往的兴趣，更多是当做自己的玩具来看待。 | [萌娘百科](https://zh.moegirl.org.cn/朱鹭咲浅羽) |
