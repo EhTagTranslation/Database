@@ -2708,6 +2708,7 @@ example:
 | kagerou project | 阳炎Project |  |  |
 | mekakucity actors | 目隐都市的演绎者 |  |  |
 | magical taruruuto-kun | 幻法小魔星 |  |  |
+| reibaishi izuna | 灵媒师东名 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
