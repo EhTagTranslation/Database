@@ -8352,6 +8352,7 @@ example:
 | sachiko ogasawara | 小笠原祥子 | ![](https://static.wikia.nocookie.net/mariasama/images/7/74/Aloofiscoolimo.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | yumi fukuzawa | 福沢祐巳 | ![](https://static.wikia.nocookie.net/mariasama/images/0/07/Gayandindenial.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | kanako hosokawa | 细川可南子 | ![](https://static.wikia.nocookie.net/mariasama/images/3/3a/Kanako.jpg)<br>所属作品：`maria-sama ga miteru` |  |
+| eriko torii | 鸟居江利子 | ![](https://static.wikia.nocookie.net/mariasama/images/3/32/Eriko_Torii_2.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
