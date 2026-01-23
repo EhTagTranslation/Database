@@ -8361,6 +8361,7 @@ example:
 | shimako toudou | 藤堂志摩子 | ![](https://static.wikia.nocookie.net/mariasama/images/a/ab/Shimako_Todo.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | noriko nijou | 二条乃梨子 | ![](https://static.wikia.nocookie.net/mariasama/images/2/26/48258.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | hayuru himekawa | 姬川映流 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/4/4b/Himekawa_Hayuru_Anime.png)<br>所属作品：`masou gakuen hxh`<br>日文：ひめかわはゆる |  |
+| reiri hida | 飞弾怜悧 | ![](https://static.wikia.nocookie.net/masou-gakuen-hxh/images/9/9f/Hida_Reiri_Anime.png)<br>所属作品：`masou gakuen hxh` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
