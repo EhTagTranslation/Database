@@ -8325,6 +8325,7 @@ example:
 | kousuke seto | 濑户幸助 | ![](https://static.wikia.nocookie.net/kagerouproject/images/0/06/MCA_-_Seto.png)<br>所属作品：`kagerou project` |  |
 | haruka kokonose | 九之濑遥 | ![](https://static.wikia.nocookie.net/kagerouproject/images/a/a5/Sidu_-_Haruka_04.png)<br>所属作品：`kagerou project` |  |
 | shintaro kisaragi | 如月伸太郎 | ![](https://static.wikia.nocookie.net/kagerouproject/images/0/0e/MCA_-_Shintaro.png)<br>所属作品：`kagerou project` |  |
+| momo kisaragi | 如月桃 | ![](https://static.wikia.nocookie.net/kagerouproject/images/f/fe/MCA_-_Momo.png)<br>所属作品：`kagerou project` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
