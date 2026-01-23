@@ -8328,6 +8328,7 @@ example:
 | momo kisaragi | 如月桃 | ![](https://static.wikia.nocookie.net/kagerouproject/images/f/fe/MCA_-_Momo.png)<br>所属作品：`kagerou project` |  |
 | tsubomi kido | 木户蕾 | ![](https://static.wikia.nocookie.net/kagerouproject/images/4/40/MCA_-_Kido.png)<br>所属作品：`kagerou project` |  |
 | shuuya kano | 鹿野修哉 | ![](https://static.wikia.nocookie.net/kagerouproject/images/4/4e/MCA_-_Kano.png)<br>所属作品：`kagerou project` |  |
+| ayano tateyama | 楯山文乃 | ![](https://static.wikia.nocookie.net/kagerouproject/images/8/83/MCA_-_Ayano.png)<br>所属作品：`kagerou project` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
