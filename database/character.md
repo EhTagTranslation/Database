@@ -7014,7 +7014,7 @@ example:
 | yurishia farandole | 优莉西亚·法兰德尔 | ![](https://ehgt.org/w/02/031/57956-6fmc9n8b.webp)<br>所属作品：`masou gakuen hxh` |  |
 | kasumi shigure | 時雨霞 | 所属作品：女武神驱动<br>Kasumi Shigure是《Valkyrie Drive》中的角色，担任Mermaid Island的Welter Castle指挥官，以无Arm的高超战斗能力著称‌，被称为“Zero Arm”。 |  |
 | quency | 坎西 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c4/Quency_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/580948.html) |
-| k | K | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/5/3/28739.png)<br>所属作品：`goddess of victory nikke`<br>隶属危险席部队的妮姬。 与身为队长的D不同，她拥有相当灵活的正义观。 即使是恶人，只要做出相应的善行，她便不会将其消灭。 | [Gamekee](https://www.gamekee.com/nikke/tj/664885.html) |
+| k | K | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2b/K_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | ziz | 席兹 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8a/Ziz_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | leviathan | 利维坦（妮姬） | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Leviathan_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Leviathan) |
 | behemoth | 贝希摩斯 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/29/Behemoth_FB.png)<br>所属作品：`goddess of victory nikke` |  |
