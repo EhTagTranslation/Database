@@ -3296,7 +3296,7 @@ example:
 | hayase nagatoro | 长瀞早濑 | 长瀞早濑（日语：長瀞（ながとろ） 早瀬（はやせ））是由ナナシ创作的漫画《不要欺负我，长瀞同学》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/长瀞早濑) |
 | texas | 德克萨斯 | ![](https://patchwiki.biligame.com/images/arknights/4/4c/5f8ezb86ra3vion2o5o9uslvnyl9dr0.png)<br>所属作品`p:arknights` | [http://prts.wiki/w/德克萨斯](http://prts.wiki/w/德克萨斯) |
 | yuuta hibiki | 响裕太 |  |  |
-| emma | 艾玛 \| 永真 | ①<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_331/h_927/1253/43637/2025/3/17/915677.png)<br>艾玛<br>所属作品：`goddess of victory nikke`<br><br>②《约定的梦幻岛》主角三人组——女主角<br><br>③游戏`p:sekiro shadows die twice`中的女角色 |  |
+| emma | 艾玛 \| 永真 | ①<br>艾玛<br>![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Emma_%28Color_Me_Red%29_FB.png)<br>所属作品：`goddess of victory nikke`<br><br>②《约定的梦幻岛》主角三人组——女主角<br><br>③游戏`p:sekiro shadows die twice`中的女角色 |  |
 | norman | 诺曼 | 《约定的梦幻岛》主角三人组——男主角之一 |  |
 | ray | 莱伊 | ![](https://patchwiki.biligame.com/images/arknights/e/ee/3apd8mqwuk4thj206005ze201j4hnaq.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/莱伊](https://prts.wiki/w/莱伊) |
 | gilda | 吉尔达 | 《约定的梦幻岛》主角孩子团中之一 |  |
