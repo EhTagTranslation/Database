@@ -7011,7 +7011,7 @@ example:
 | dizzy | 蒂姬 | ![](https://lain.bgm.tv/r/400/pic/crt/l/ea/89/22116_crt_bNBZR.jpg)<br>所属作品：罪恶装备 |  |
 | shantae | 桑塔 | ![](https://tx-free-imgs.acfun.cn/o_1e9nviph71bno1dc6c6i1e164bs0.jpeg?imageslim)<br>所属作品：`shantae` |  |
 | vestia zeta | 维斯提亚·泽塔 | ![](https://img.moegirl.org.cn/common/1/11/VestiaZetaOriginal.png)<br>![](https://img.moegirl.org.cn/common/6/68/VestiaZetaKimono23.jpg)<br>![](https://img.moegirl.org.cn/common/0/0f/ZetaTraditionalCostume.png)<br>维斯提亚·泽塔（英语：Vestia Zeta；日语：ベスティア・ゼータ），是`p:hololive`印度尼西亚（hololive ID）三期生虚拟UP主中的一员，于2022年3月24日开始活动。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Vestia_Zeta)<br>[萌娘百科](https://zh.moegirl.org.cn/维斯提亚·泽塔) |
-| yurishia farandole | 优莉西亚·法兰德尔 | ![](https://ehgt.org/w/02/031/57956-6fmc9n8b.webp)<br>所属作品：`masou gakuen hxh`<br>隶属于战略防卫学园阿塔拉克西亚的天地穹女神队。 |  |
+| yurishia farandole | 优莉西亚·法兰德尔 | ![](https://ehgt.org/w/02/031/57956-6fmc9n8b.webp)<br>所属作品：`masou gakuen hxh` |  |
 | kasumi shigure | 時雨霞 | 所属作品：女武神驱动<br>Kasumi Shigure是《Valkyrie Drive》中的角色，担任Mermaid Island的Welter Castle指挥官，以无Arm的高超战斗能力著称‌，被称为“Zero Arm”。 |  |
 | quency | 坎西 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1024/h_1024/1253/157597/2025/3/15/830866.png)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/86082/2025/3/15/938801.png)<br>所属作品：`goddess of victory nikke`<br>越狱之王。无论被关在何处，都能逃脱。<br>凭借其出色的交际和政治能力，成为更生馆著名的气氛担当。 | [Gamekee](https://www.gamekee.com/nikke/tj/580948.html) |
 | k | K | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/5/3/28739.png)<br>所属作品：`goddess of victory nikke`<br>隶属危险席部队的妮姬。 与身为队长的D不同，她拥有相当灵活的正义观。 即使是恶人，只要做出相应的善行，她便不会将其消灭。 | [Gamekee](https://www.gamekee.com/nikke/tj/664885.html) |
