@@ -7026,7 +7026,7 @@ example:
 | anchor | 安克 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ae/Anchor_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/597431.html) |
 | trony | 特罗尼 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/51/Trony_%28Sweet_Step%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Trony/Gallery) |
 | neve | 尼夫 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f3/Neve_FB.png)<br>所属作品：`goddess of victory nikke`<br>隶属于无极限部队，四处寻找北极熊的妮姬。 | [Gamekee](https://www.gamekee.com/nikke/tj/578202.html) |
-| folkwang | 富克旺 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/4408/2025/8/2/665013.png)<br>所属作品：`goddess of victory nikke`<br>为鼓励人类参与体育运动而被制造出来的妮姬，隶属生命补药部队。 | [Gamekee](https://www.gamekee.com/nikke/tj/170847.html) |
+| folkwang | 富克旺 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Folkwang_%28Moist_Rabbit%29_cover_idle.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/170847.html) |
 | dolla | 朵拉 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Dolla_%28Dark_Rose%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/170853.html) |
 | professor sada | Sada博士 | ![](https://www.nintendo.com/sg/news/assets/article/HmM1KLiX8S0P4l0Q7jxq2/13-1.png)<br>《宝可梦：宝可梦传说 朱紫》中的角色，她是帕尔迪亚地区的宝可梦学者，致力于通过时空研究实现过去与现在的和谐共存。 ‌ |  |
 | sayo hitsugi | 柩小夜 | ![](https://ehgt.org/w/01/947/03327-86b2bter.webp)<br>所属作品：`triage x` |  |
