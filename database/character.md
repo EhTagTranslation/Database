@@ -8319,6 +8319,7 @@ example:
 | leonardo lionheart | 莱昂纳多·狮心王 | ![](https://static.wikia.nocookie.net/rwby/images/8/8c/LeonardoLionheart-V5C1.png)<br>所属作品：`rwby` |  |
 | sakura kawasaki | 川咲樱 | ![](https://static.wikia.nocookie.net/idoly-pride/images/a/a0/Kawasaki_Sakura_9.png)<br>所属作品：`idoly pride`<br>日语：川咲さくら |  |
 | hikari wanda | 湾田光莉 | ![](https://static.wikia.nocookie.net/wandance/images/c/c3/Wanda_Anime_CD.png)<br>所属作品：`wandance`<br>日语：ワンダンス |  |
+| cima garahau | 西玛·卡拉豪 | ![](https://patchwiki.biligame.com/images/gundam/thumb/8/85/3g0su2fvph13ce11rat0d5wr6m1a10j.jpg/250px-Xmklh.jpg)<br>出自作品：`p:gundam 0083`<br><br>西玛·卡拉豪（シーマ・ガラハウ）是动画《机动战士高达0083：星尘的回忆》中的虚拟角色，由真柴摩利配音。其身份为吉翁公国突击机动军中佐。 | [BILIGAME WIKI](https://wiki.biligame.com/gundam/西玛·卡拉豪) \| [百度百科](https://baike.baidu.com/item/西瑪·卡拉豪/1197765) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
