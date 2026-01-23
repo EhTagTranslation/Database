@@ -13628,6 +13628,7 @@ example:
 | sumikko no ou-sama | すみっこの王様 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68398.html) |
 | muchimuchi namaniku | ムチムチ生肉 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000771.html) \| [X](https://x.com/muchimuchinama) \| [pixiv](https://www.pixiv.net/users/105435789) |
 | hato devilbu | 鳩DEVIL部 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01056099.html) |
+| ruitea | RUITEA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65866.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
