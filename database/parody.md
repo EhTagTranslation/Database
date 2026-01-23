@@ -2705,7 +2705,7 @@ example:
 | freedom wars | 自由战争 | 索尼SCEJ日本工作室于2014年发售的PSV游戏《自由战争》 |  |
 | limelight lemonade jam | 沁光柠檬即兴曲 | ![](https://i.meee.com.tw/9ejzL5X.jpg)<br>LimeLight Lemonade Jam是由JUNOS旗下品牌“柚子社”发行的Gal GAME |  |
 | wandance | 绝妙舞步 | ![](https://upload.wikimedia.org/wikipedia/en/f/f3/Wandance_vol._1.png) |  |
-| kagerou project | 阳炎计划 |  |  |
+| kagerou project | 阳炎Project |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
