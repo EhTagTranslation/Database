@@ -2634,7 +2634,7 @@ example:
 | makoto hozumi | 穗积真琴 |  |  |
 | misao shinohara | 筱原美纱绪 |  |  |
 | sasami iwakura | 岩仓砂沙美 |  |  |
-| maam | 玛姆 |  |  |
+| maam | 玛姆 | ![](https://ehgt.org/w/01/747/29366-shtm1knd.webp)<br>出自作品：`p:dragon quest dai no daibouken`<br><br>武斗家玛姆是Kong Studios开发的手机游戏《坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险》中的登场角色。是《坎公骑冠剑》与《勇者斗恶龙 达伊的大冒险》的联动角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛姆%28坎公骑冠剑%29#) |
 | momo yaoyorozu | 八百万百 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/e/eb/Momo_Yaoyorozu_Full_Body_School_Uniform.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ac/Momo_Yaoyorozu_Hero_Costume_Anime_Action.png) |  |
 | ochako uraraka | 丽日御茶子 | ![丽日御茶子](https://p.sda1.dev/5/d0b96de3b1ec56883f0ca29c398a7445/220px-Uraraka_Ochako1.png)<br>丽日御茶子是堀越耕平所创作的漫画《我的英雄学院》及其衍生的动画等作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/丽日御茶子) |
 | tsuyu asui | 蛙吹梅雨 |  |  |
