@@ -8356,6 +8356,7 @@ example:
 | tsutako takeshima | 武岛茑子 | ![](https://static.wikia.nocookie.net/mariasama/images/8/8f/Tsutako_Takeshima.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | rei hasekura | 支仓令 | ![](https://static.wikia.nocookie.net/mariasama/images/4/4c/Rei_Hasekura.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | shizuka kanina | 蟹名静 | ![](https://static.wikia.nocookie.net/mariasama/images/6/64/32006_26915.jpg)<br>所属作品：`maria-sama ga miteru` |  |
+| youko mizuno | 水野蓉子 | ![](https://static.wikia.nocookie.net/mariasama/images/f/fe/Yoko_Mizuno.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
