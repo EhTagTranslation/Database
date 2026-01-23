@@ -8338,7 +8338,7 @@ example:
 | iori yoshizuki | 苇月伊织 | ![](https://lain.bgm.tv/r/400/pic/crt/l/53/3f/3862_crt_anidb.jpg)<br>所属作品：`is` |  |
 | izuna hazuki | 叶月东名 | ![](https://static.wikia.nocookie.net/hell-teacher-nube/images/0/0e/Izuna.jpg)<br>所属作品：`hell teacher nube` |  |
 | kenta hirono | 广野健太 | 所属作品：`wingman` |  |
-| najimi ajimu | 安心院薰染 | ![](https://static.wikia.nocookie.net/medakabox/images/8/8c/Ajimu_Original.jpg)<br>所属作品：`medaka box` |  |
+| najimi ajimu | 安心院薰染 | ![](https://static.wikia.nocookie.net/medakabox/images/8/8c/Ajimu_Original.jpg)<br>所属作品：`medaka box`<br>日文：安心院 なじみ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
