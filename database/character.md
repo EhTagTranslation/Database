@@ -6457,7 +6457,7 @@ example:
 | mylanndah arkar walder | 米兰达‧阿卡‧瓦尔卡 |  |  |
 | lahrri feldnunt | 拉丽·菲尔德南多 |  |  |
 | ravel phoenix | 蕾维儿·菲尼克斯 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/01/988/01371-jpyew3cr.webp) | [百度百科](https://baike.baidu.com/item/蕾维儿·菲尼克斯/22139897) |
-| bready | 布蕾德 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/72324/2025/3/15/95099.png)<br>所属作品：`goddess of victory nikke`<br>食用油部队中负责试吃的妮姬。<br>只要品尝料理，就能指出其营养成分、材料和细微的味道。 | [百度百科](https://baike.baidu.com/item/布蕾德/65574654)<br>[Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
+| bready | 布蕾德 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2a/Bready_FB.png)<br>所属作品：`goddess of victory nikke` | [百度百科](https://baike.baidu.com/item/布蕾德/65574654)<br>[Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | mana | 玛娜 |  | [百度百科](https://baike.baidu.com/item/玛娜/65574471) |
 | plymouth | 普利茅斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fd9b2b5d809f8e04dc5984b83f8e8908262400697.png) |  |
 | mitsuki hoshikawa | 星川未月 | ![](https://ehgt.org/w/02/086/54565-8z4m4jfo.webp)<br>所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
