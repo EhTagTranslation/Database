@@ -2459,7 +2459,7 @@ example:
 | kira yamato | 基拉·大和 | ![](http://blog-imgs-19.fc2.com/s/e/e/seedkabegami/85254816_8ce385348f_b.jpg) | [维基百科](https://www.wikiwand.com/zh/基拉·大和) |
 | miriallia haw | 米丽雅莉亚·哈乌 | ![](http://a2.att.hudong.com/68/18/20300001128119149138183028466_s.jpg) |  |
 | natarle badgiruel | 娜塔尔·巴基露尔 | ![](https://ehgt.org/w/01/441/55086-mztvam07.webp)<br>出自作品：`p:gundam seed`<br><br>娜塔尔·巴吉露尔（日语：ナタル・バジルール，罗马字：Natarle Badgiruel）是由SUNRISE所制作的TV动画《机动战士高达SEED》及其衍生作品的登场角色。大天使号的副舰长，主天使号舰长。 | [萌娘百科](https://zh.moegirl.org.cn/娜塔尔·巴基露尔) |
-| murrue ramius | 玛琉·拉米亚斯 | ![](https://img.moegirl.org.cn/common/thumb/b/b9/Image8497932_1.jpg/375px-Image8497932_1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛琉·拉米亚斯) |
+| murrue ramius | 玛琉·拉米亚斯 | ![](https://img.moegirl.org.cn/common/thumb/b/b9/Image8497932_1.jpg/375px-Image8497932_1.jpg)<br>出自作品：`p:gundam seed`<br><br>玛琉·拉米亚斯（日语：マリュー・ラミアス，罗马字：Murrue Ramius）是由日昇所制作的电视动画《机动战士高达SEED》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玛琉·拉米亚斯) |
 | stella loussier | 史黛拉·露西耶 | ![](http://img1.imgtn.bdimg.com/it/u=2922563221,4044420878&fm=214&gp=0.jpg) |  |
 | meer campbell | 米娅·坎贝尔 | ![](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=69d153b45a0fd9f9a017526f1d16b317/d31b0ef41bd5ad6e5fed18228acb39dbb7fd3ce5.jpg) |  |
 | meyrin hawke | 美玲·霍克 | ![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=fa3b6e1f6509c93d07f209f1a7069fe1/0b46f21fbe096b63c5087a410e338744ebf8ac89.jpg) |  |
