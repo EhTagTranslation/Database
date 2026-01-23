@@ -2702,6 +2702,7 @@ example:
 | manaria friends | 巴哈姆特之怒 Manaria Friends | ![](https://static.wikia.nocookie.net/shingeki-no-bahamut-genesis/images/1/14/Shingeki_no_Bahamut_Manaria_Friends.jpg)<br>《Mysteria Friends》是以游戏《神击的巴哈姆特》中的活动“玛娜利亚魔法学院”为蓝本改编的短篇电视动画。 |  |
 | fighting vipers | 格斗之蛇 | 《格斗之蛇》是由世嘉公司旗下AM2开发团队于1995年在世嘉土星平台推出的3D对战游戏。 | [百度百科](https://baike.baidu.com/item/格斗之蛇/8292741) |
 | gnosia | 古诺希亚 | ![](https://p2.bahamut.com.tw/B/2KU/14/d674283fc880431e915f7ab0611w8q25.JPG?v=1761549121515)<br>《古诺希亚》是由Domerica制作的日本电视动画，改编自petit depotto开发的同名狼人杀推理游戏。 |  |
+| freedom wars | 自由战争 | 索尼SCEJ日本工作室于2014年发售的PSV游戏《自由战争》 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
