@@ -13624,6 +13624,7 @@ example:
 | neko no maccha parfait | 猫の抹茶パフェ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01042685.html) |
 | yonrin drift | 四輪ドリフト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01034239.html) |
 | moyashiken | もやし券 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007604.html) |
+| full pon twintail | フルポンツインテール |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72230.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
