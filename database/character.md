@@ -8076,7 +8076,7 @@ example:
 | hildegard schlievogt | 希尔德加德·施利沃格特 | ![](https://static.wikia.nocookie.net/crossange/images/7/70/Hilda_Uniform_Front_Back.png)<br>所属作品：`cross ange`<br>Para-mail第一中队的突袭兵，佐拉死后兼任副队长。 |  |
 | sephiria arks | 赛菲利亚·亚克斯 | ![](https://ehgt.org/w/02/184/70336-47rxpoa9.webp)<br>所属作品：`p:black cat`<br>最强的“时间守护者”。 |  |
 | ireena litz de olhyde | 伊莉娜·里茨 | ![](https://static.wikia.nocookie.net/shijou-saikyou-daimaou/images/a/a3/Ireena_Litz_de_Olhyde_-_Anime_Design_2.png)<br>所属作品：`shijou saikyou no daimaou murabito a ni tensei suru`<br>全名伊莉娜·里茨·德·奥尔巴伊特 |  |
-| reiju vinsmoke | 宾什莫克·丽珠 | ![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg")<br>出自作品：`p:one piece`<br><br>宾什莫克·丽珠，也叫粉红剧毒，是宾什莫克家族长女兼独女。她除了是杰尔马王国公主，也是杰尔马66干部。 | [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
+| reiju vinsmoke | 文斯莫克·蕾玖 | ![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg")<br>出自作品：`p:one piece`<br><br>文斯莫克·蕾玖，日本漫画《航海王》及衍生作品中的角色，文斯莫克家族长女，杰尔马王国公主，杰尔马66“粉红剧毒”，山治的姐姐。通过父亲文斯莫克·伽治“血统因子”的改造基因而获得了超人般的身体，保留了情感，但不能反抗父亲的命令。 | [百度百科](https://baike.baidu.com/item/文斯莫克·蕾玖/19682805) \| [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
 | nemo noah | 尼莫/诺亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/90/S452_Stage1.webp)<br>所属作品：`fate grand order` |  |
 | platina | 普拉蒂纳 (Nunholy) | ![](https://ehgt.org/w/01/875/39729-4a0q2l8j.webp)<br>所属作品：`nunholy` |  |
 | yukino shichido | 七度雪乃 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/BA_Yukino.png)<br>所属作品：`blue archive`<br>SRT特殊学园所属,FOX小队的突击步枪手;同时是FOX小队的队长,代号FOX1。 | [萌娘百科](https://zh.moegirl.org.cn/七度雪乃) |
