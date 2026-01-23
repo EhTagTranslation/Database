@@ -14704,6 +14704,7 @@ example:
 | horin | 豊臨 |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=豊臨&text_type=author) |
 | hatohato jojo | 鳩鳩JOJO |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22鳩鳩JOJO%22) \| [FANBOX](https://jojosensei360.fanbox.cc/) \| [X](https://x.com/jojosensei360) \| [pixiv](https://www.pixiv.net/users/1350252) |
 | kitsugi | きつぎ |  | [FANBOX](https://i-kitsugi.fanbox.cc/) |
+| banana | 甘蕉 |  | [X](https://x.com/bnnn0508) \| [Skeb](https://skeb.jp/@bnnn0508) \| [FANBOX](https://bnnn0508.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/52268240) |
 
 <!--TEMPLATE:
 |  |  |  |  |
