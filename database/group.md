@@ -13625,6 +13625,7 @@ example:
 | yonrin drift | 四輪ドリフト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01034239.html) |
 | moyashiken | もやし券 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007604.html) |
 | full pon twintail | フルポンツインテール |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72230.html) |
+| sumikko no ou-sama | すみっこの王様 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68398.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
