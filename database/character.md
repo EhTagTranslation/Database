@@ -8331,6 +8331,7 @@ example:
 | ayano tateyama | 楯山文乃 | ![](https://static.wikia.nocookie.net/kagerouproject/images/8/83/MCA_-_Ayano.png)<br>所属作品：`kagerou project` |  |
 | ellie | 艾莉 | ![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/f/f1/MugenGacha_Anime_Character_Ellie.png)<br>所属作品：`mugen gacha de level 9999`<br>日文：エリー |  |
 | miya | 米娅 | ![](https://ehgt.org/w/02/192/44399-mfntgfx8.webp)<br>所属作品：`mugen gacha de level 9999` |  |
+| ranko honjou | 本城兰子 | ![](https://ehgt.org/w/01/914/79309-fpwhocap.webp)<br>所属作品：`hajimete no gal`<br>日文：本城蘭子 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
