@@ -6749,7 +6749,7 @@ example:
 | mio ibuki | 伊吹澪 | ![](https://img.moegirl.org.cn/common/1/11/Ibuki_Mio.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>因为话少的性格，一般独来独往，给人以冷漠的感觉。于武道有经验，在学习与运动方面值得期待。 | [萌娘百科](https://zh.moegirl.org.cn/伊吹澪) |
 | seed | 席德 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/08/28/15559334/93ff6fe18ebd0722d609d0c92e9aee0a_3187062097775551463.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/席德) |
 | charlotte hazelrink | 夏洛特·海瑟林克 | ![](https://ehgt.org/w/01/957/43044-5iy9m0w7.webp)<br>所属作品：`princess lover` | [萌娘百科](https://zh.moegirl.org.cn/夏洛特·海瑟林克) |
-| rouge | 露姬 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/760455.png)<br>所属作品：`goddess of victory nikke`<br>她不仅是隶属于777部队的妮姬，也是金币之战里的游戏荷官，平实的她亲切又能干，但有一点小迷信。 | [https://www.gamekee.com/nikke/tj/152319.html](https://www.gamekee.com/nikke/tj/152319.html) |
+| rouge | 露姬 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Rouge_%28Unlucky_Rabbit%29_FB.png)<br>所属作品：`goddess of victory nikke` | [Gamekee](https://www.gamekee.com/nikke/tj/156441.html) |
 | gretel | 葛丽特 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/38/Gretel_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Gretel) |
 | tiara basori | 马剃天爱星 |  |  |
 | kanoe itagaki | 板垣鹿江 | ![](https://static.wikitide.net/bluearchivewiki/4/42/Kanoe_00.png)<br>所属游戏：`p:blue archive` | [bluearchive.wiki](https://bluearchive.wiki/wiki/Kanoe) [萌娘百科](https://zh.moegirl.org.cn/板垣鹿江) |
