@@ -2599,7 +2599,7 @@ example:
 | rei ayanami | 绫波丽 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/326620.png)<br>所属作品：`neon genesis evangelion` | [萌娘百科](https://zh.moegirl.org.cn/绫波丽) |
 | milly | 米蕾尤 | 《勇者斗恶龙怪兽篇》《勇者斗恶龙VI 幻之大地》中角色 |  |
 | kusuha mizuha | 水羽楠叶 |  |  |
-| seolla schweizer | 塞奥拉·修拜亚 |  |  |
+| seolla schweizer | 塞奥拉·修拜亚 | ![](https://ehgt.org/w/02/207/95874-dqw8alyc.webp)<br>出自作品：`p:super robot wars`<br><br>游戏《超级机器人大战》系列原创角色之一。 | [百度百科](https://baike.baidu.com/item/塞奥拉·修拜亚/1855565) |
 | fujiko mine | 峰不二子 |  |  |
 | mirai andou | 安藤美雷 |  |  |
 | himea saito | 赛托希梅亚 |  |  |
