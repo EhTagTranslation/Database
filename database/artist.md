@@ -14708,6 +14708,7 @@ example:
 | poyeop | Poyeop |  | [pixiv](https://www.pixiv.net/users/66432194) \| [FANBOX](https://poyeop.fanbox.cc/) |
 | jaga | じゃが |  |  |
 | yanje | Yanje |  | [X](https://x.com/yanje_B) \| [Patreon](https://www.patreon.com/yanje) \| [pixiv](https://www.pixiv.net/users/17707045) |
+| manbou syoten | まんぼう書店 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
