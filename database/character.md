@@ -8359,6 +8359,7 @@ example:
 | youko mizuno | 水野蓉子 | ![](https://static.wikia.nocookie.net/mariasama/images/f/fe/Yoko_Mizuno.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | yoshino shimazu | 岛津由乃 | ![](https://static.wikia.nocookie.net/mariasama/images/2/2c/Yoshino_Shimazu.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 | shimako toudou | 藤堂志摩子 | ![](https://static.wikia.nocookie.net/mariasama/images/a/ab/Shimako_Todo.jpg)<br>所属作品：`maria-sama ga miteru` |  |
+| noriko nijou | 二条乃梨子 | ![](https://static.wikia.nocookie.net/mariasama/images/2/26/48258.jpg)<br>所属作品：`maria-sama ga miteru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
