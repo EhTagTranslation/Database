@@ -7248,7 +7248,7 @@ example:
 | lady maria | 玛丽亚夫人 | ![](https://ehgt.org/w/01/970/60717-vg1gxqi6.webp)<br>所属作品：`bloodborne` |  |
 | salia tereshkova | 萨莉亚·卡斯塔姆 | ![](https://static.wikia.nocookie.net/crossange/images/1/15/Salia_Front-2.png)<br>所属作品：`cross ange`<br>阿尔泽纳尔的Para-mail第一中队的副长，佐拉死后被升为队长。 |  |
 | franklin | 富兰克林 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/77/ssxqlnw67i33v2i24rbnrpokwg30zfv.jpg/525px-富兰克林立绘.jpg)<br>所属作品：`azur lane` |  |
-| sophitia alexandra | 索菲蒂亚 | ![](https://ehgt.org/w/02/070/63910-ty4o8aq7.webp)<br>所属作品：`soulcalibur` |  |
+| sophitia alexandra | 索菲蒂亚 | ![](https://static.wikia.nocookie.net/soulcalibur/images/7/76/Sophitia-alexandra-soulcalibur6-artwork.png)<br>所属作品：`soulcalibur` |  |
 | fighter | 格斗家 | 所属作品：`dungeon fighter online` |  |
 | arche klein | 阿尔切·克莱因 | ![](https://static.wikia.nocookie.net/aselia/images/2/26/Arche_Klein_%28ToP%29.png)<br>所属作品：`tales of phantasia` |  |
 | mint adenade | 敏特·亚德涅特 | ![](https://ehgt.org/w/02/079/61195-dlv4qw84.webp)<br>所属作品：`tales of phantasia`<br>敏特·亚德涅特（ミント・アドネード）设定为18岁、身高162cm的治愈系魔法使，出身于封印魔王达奥斯的家族，幼年因母亲身份遭追杀，被克雷斯解救后暗生情愫。 |  |
