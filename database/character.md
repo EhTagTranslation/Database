@@ -8342,6 +8342,7 @@ example:
 | melinda desmond | 梅琳达·德斯蒙 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/3/3a/Melinda_Desmond_Anime.png)<br>所属作品：`spy x family`<br>日文：メリンダ・デズモンド |  |
 | ritsu | 小律 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/9/95/Ritsu_tranparent.png)<br>所属作品：`ansatsu kyoushitsu`<br>自律思考固定炮台，通称小律。 |  |
 | cell | 沙鲁 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/b8/Cell.png)<br>所属作品：`dragon ball z`<br>日文：セル |  |
+| aoki aka | 赤青黄 | 所属作品：`medaka box`<br>日文：あか あおき |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
