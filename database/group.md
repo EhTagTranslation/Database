@@ -13634,6 +13634,7 @@ example:
 | shuuen no ma | 終焉の間 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006937.html) |
 | kuruhakuru | くるはくる |  |  |
 | delta studio | デルタ▼スタジオ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47927.html) |
+| kanriya | かんり屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
