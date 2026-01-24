@@ -13630,6 +13630,7 @@ example:
 | hato devilbu | 鳩DEVIL部 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01056099.html) |
 | ruitea | RUITEA |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65866.html) |
 | kanro dou art | かんろ堂アート |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53613.html) |
+| momoiro zundoko | 桃色ずんどこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35590.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
