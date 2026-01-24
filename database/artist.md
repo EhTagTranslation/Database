@@ -14719,6 +14719,7 @@ example:
 | itsuki keisei | いつきけいせい |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22いつきけいせい%22/ana_flg/all) |
 | kuruhana | くるはな |  |  |
 | mainichi angel | 毎日エンゼル |  | [pixiv](https://www.pixiv.net/users/95822812) \| [FANBOX](https://everydayangel.fanbox.cc/) |
+| hakeashi | ハケアシ |  | [FANBOX](https://www.fanbox.cc/@hakeashi777) \| [X](https://x.com/Hageashi777) \| [pixiv](https://www.pixiv.net/users/40011649) |
 
 <!--TEMPLATE:
 |  |  |  |  |
