@@ -2015,7 +2015,7 @@ example:
 | irodori | IRODORI |  |  |
 | kamaboko koubou | カマボコ工房 |  |  |
 | shiki be careful | 四季注意 |  |  |
-| yamakon-ya | 山绀屋 |  |  |
+| yamakon-ya | 山绀屋 | a:`yamakonbu`使用的同人社团名称 |  |
 | botugo | 没后 | 没後 |  |
 | calm white | カームホワイト |  |  |
 | curtaincall | CurtainCαll |  |  |
