@@ -14711,6 +14711,7 @@ example:
 | manbou syoten | まんぼう書店 |  |  |
 | rinrikoko | リンリココ |  | [pixiv](https://www.pixiv.net/users/18683051/artworks) |
 | leebo | Leebo |  | [X](https://x.com/le2b0022) \| [pixiv](https://www.pixiv.net/users/23780455) \| [FANBOX](https://leebo.fanbox.cc/) \| [Patreon](https://www.patreon.com/leeboxxx) \| [Gumroad](https://leebo.gumroad.com/) |
+| plastic gomi | プラスチックごみ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01037845.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
