@@ -13940,7 +13940,7 @@ example:
 | qr | QR |  | [X](https://x.com/qr_req)<br>[pixiv](https://www.pixiv.net/users/35504747) |
 | inaba reito | 稲葉れいと |  | [X](https://x.com/InabaReito)<br>[pixiv](https://www.pixiv.net/users/34377290) |
 | kajiking | 家事王 |  | [X](https://x.com/kajiking1)<br>[pixiv](https://www.pixiv.net/users/2313835) |
-| periodo | ピリオド |  |  |
+| periodo | ピリオド |  | [X](https://x.com/anony_83) \| [pixiv](https://www.pixiv.net/users/27865046) |
 | kan-non ritsu | 观音リツ | 観音リツ |  |
 | san p. dro | San P. dro |  | [X](https://x.com/san_phidr0)<br>[pixiv](https://www.pixiv.net/users/94295754)<br>[FANBOX](http://sanphidro.fanbox.cc/)<br>[Patreon](https://www.patreon.com/sanphidro) |
 | sukima nozoki | 隙間 覗 |  | [pixiv](https://www.pixiv.net/users/67984961)<br>[FANBOX](https://asadorekyuri12.fanbox.cc/) |
