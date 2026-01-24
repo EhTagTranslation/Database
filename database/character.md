@@ -5266,7 +5266,7 @@ example:
 | ubel | 尤贝尔 | 尤贝尔是由山田钟人原作、アベツカサ作画的漫画`p:sousou no frieren`及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/55/Frieren_anime_尤贝尔.png) | [萌娘百科](https://zh.moegirl.org.cn/尤贝尔%28葬送的芙莉莲%29) |
 | takeru taiga | 大河武 |  |  |
 | ikoma | 生驹 | TV动画《甲铁城的卡巴内利》及其衍生作品中的角色，男主角 。住在以炼铁和蒸汽机的生产为业的显金驿的蒸汽锻冶少年。<br>为了打倒卡巴内，和朋友逞生一起开发了独自的武器“贯筒”。虽然受到众人的轻视，但期盼着有朝一日能让人们对自己刮目相看。 |  |
-| juufuutei raden | 儒乌风亭螺钿 |  |  |
+| juufuutei raden | 儒乌风亭螺钿 | ![](https://ehgt.org/w/01/943/12200-5uyeofcn.webp)<br>出自作品：`p:hololive`<br><br>儒乌风亭螺钿（日语：儒烏風亭 らでん／じゅうふうてい らでんJuufuutei Raden）是一名於2023年9月4日开始活动的VTuber，隸屬於日本hololive DEV\_IS旗下音樂團體『ReGLOSS』。 | [萌娘百科](https://zh.moegirl.org.cn/儒乌风亭螺钿) |
 | chitose kisaragi | 如月千岁 | 万代南梦宫发行的游戏《超级机器人大战V》的原创角色。<br>本作女主角，第三特殊战略研究所防卫队的队员，并无实战经验。<br>有活泼开朗的性格，让周围的人们感受她的安心乐意。<br><br>![](https://static.wikia.nocookie.net/superrobotwars/images/1/1e/SRWV-Chitose.png) |  |
 | erik | 卡缪 | 卡缪是游戏《勇者斗恶龙11》中的角色。 | [百度百科](https://baike.baidu.com/item/卡缪/56449810?fr=aladdin) |
 | mika schmidt | 米卡·施密特 | 米卡是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>米卡属于“施密特”（Schmidt）家族，因此其全名大概率为”米卡·施密特”，但游戏内目前没有直接出现米卡的全名。 | [萌娘百科](https://zh.moegirl.org.cn/米卡%28原神%29#) |
