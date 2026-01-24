@@ -6065,7 +6065,7 @@ example:
 | ikeda usao | イケダウサオ |  |  |
 | ikeda yasuhiro | 池田靖宏 |  |  |
 | ikeden | いけでん |  |  |
-| ikelag | ikelag |  | [pixiv](https://www.pixiv.net/users/10246839) |
+| ikelag | ikelag |  | [pixiv](https://www.pixiv.net/users/10246839) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01015645.html) |
 | iken | イケン |  |  |
 | ikoma ippei | 伊駒一平 |  |  |
 | iktk | イキテク |  |  |
