@@ -13632,6 +13632,7 @@ example:
 | kanro dou art | かんろ堂アート |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53613.html) |
 | momoiro zundoko | 桃色ずんどこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35590.html) |
 | shuuen no ma | 終焉の間 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006937.html) |
+| kuruhakuru | くるはくる |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
