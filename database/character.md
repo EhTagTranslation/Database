@@ -8367,6 +8367,7 @@ example:
 | fiona gilman | 菲欧娜·吉尔曼 | ![](https://patchwiki.biligame.com/images/dwrg/d/d9/niyou5az6zmufydxatg6ohu8t5umlvk.png)<br>出自作品：`p:identity v`<br><br>菲欧娜·吉尔曼是一位神秘主义者，自称为犹格·索托斯信徒的她总是随身携带着一枚古怪的金属环。菲欧娜宣称是主引导自己来到这个庄园，但没人相信她的说辞。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/祭司#【官网角色介绍】) |
 | atsumi munakata | 栋方爱海 | ![](https://patchwiki.biligame.com/images/imascg/7/79/fyiesi88r61ecu4bgtybti1ak6v4xko.png)<br>出自作品：`p:the idolmaster`<br><br>栋方爱海（日语：棟方むなかた 愛海あつみ）是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的登山家偶像。 | [BILIGAME WIKI](https://wiki.biligame.com/imascg/栋方爱海) |
 | puniru | 噗尼露 | 《可爱史莱姆噗尼露》中的登场角色。 |  |
+| hikari momoyama | 桃山光 | ![](https://static.wikia.nocookie.net/prichan/images/9/9e/6506.PNG/revision/latest?cb=20180505141928)<br>所属作品:`kiratto pri chan` | [Fandom](https://prichan.fandom.com/wiki/Hikari_Momoyama) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
