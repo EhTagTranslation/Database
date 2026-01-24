@@ -13635,6 +13635,7 @@ example:
 | kuruhakuru | くるはくる |  |  |
 | delta studio | デルタ▼スタジオ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47927.html) |
 | kanriya | かんり屋 |  |  |
+| sutahiro box | すたひろBOX | `a:sutahiro`使用的同人社团名称 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
