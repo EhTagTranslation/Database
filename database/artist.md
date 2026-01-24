@@ -14710,6 +14710,7 @@ example:
 | yanje | Yanje |  | [X](https://x.com/yanje_B) \| [Patreon](https://www.patreon.com/yanje) \| [pixiv](https://www.pixiv.net/users/17707045) |
 | manbou syoten | まんぼう書店 |  |  |
 | rinrikoko | リンリココ |  | [pixiv](https://www.pixiv.net/users/18683051/artworks) |
+| leebo | Leebo |  | [X](https://x.com/le2b0022) \| [pixiv](https://www.pixiv.net/users/23780455) \| [FANBOX](https://leebo.fanbox.cc/) \| [Patreon](https://www.patreon.com/leeboxxx) \| [Gumroad](https://leebo.gumroad.com/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
