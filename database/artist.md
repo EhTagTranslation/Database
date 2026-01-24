@@ -14713,6 +14713,7 @@ example:
 | leebo | Leebo |  | [X](https://x.com/le2b0022) \| [pixiv](https://www.pixiv.net/users/23780455) \| [FANBOX](https://leebo.fanbox.cc/) \| [Patreon](https://www.patreon.com/leeboxxx) \| [Gumroad](https://leebo.gumroad.com/) |
 | plastic gomi | プラスチックごみ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01037845.html) |
 | momoiro zundoko | 桃色ずんどこ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22桃色ずんどこ%22) |
+| yatai | yatai |  | [pixiv](https://www.pixiv.net/users/20170614) |
 
 <!--TEMPLATE:
 |  |  |  |  |
