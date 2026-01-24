@@ -8366,6 +8366,7 @@ example:
 | satoko kusagakure | 草隐里子 | ![](https://ehgt.org/w/02/088/76814-v6lszm04.webp)<br>出自作品：`p:ninja to koroshiya no futarigurashi` | [萌娘百科](https://zh.moegirl.org.cn/忍者×杀手二人组的日常生活#登场人物) |
 | fiona gilman | 菲欧娜·吉尔曼 | ![](https://patchwiki.biligame.com/images/dwrg/d/d9/niyou5az6zmufydxatg6ohu8t5umlvk.png)<br>出自作品：`p:identity v`<br><br>菲欧娜·吉尔曼是一位神秘主义者，自称为犹格·索托斯信徒的她总是随身携带着一枚古怪的金属环。菲欧娜宣称是主引导自己来到这个庄园，但没人相信她的说辞。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/祭司#【官网角色介绍】) |
 | atsumi munakata | 栋方爱海 | ![](https://patchwiki.biligame.com/images/imascg/7/79/fyiesi88r61ecu4bgtybti1ak6v4xko.png)<br>出自作品：`p:the idolmaster`<br><br>栋方爱海（日语：棟方むなかた 愛海あつみ）是BNEI与Cygames开发的手机社群游戏《偶像大师 灰姑娘女孩》系列中的登山家偶像。 | [BILIGAME WIKI](https://wiki.biligame.com/imascg/栋方爱海) |
+| puniru | 噗尼露 | 《可爱史莱姆噗尼露》中的登场角色。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
