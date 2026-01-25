@@ -1685,7 +1685,7 @@ example:
 | common raccoon | 浣熊 |  |  |
 | fennec | 耳廓狐 |  |  |
 | ezo red fox | 北狐 |  |  |
-| silver fox | 银狐 |  |  |
+| silver fox | 银狐 | ![](https://ehgt.org/w/00/593/04575-pdabk4fp.webp)<br>出自作品：`p:kemono friends`<br><br>银狐（日语：ギンギツネ）是由Kemono Friends Project发起的跨媒体企划《兽娘动物园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兽娘动物园:银狐) |
 | moose | 驼鹿 |  |  |
 | shoebill | 鲸头鹳 |  |  |
 | alpaca suri | 苏利羊驼 |  |  |
