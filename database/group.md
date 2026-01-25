@@ -13642,6 +13642,7 @@ example:
 | kabitto kiratto | かびっと、きらっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012265.html) |
 | paperboy | paperboy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007544.html) |
 | suiyifang | 隨意坊 |  |  |
+| tomokiya | ともき屋 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110807) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
