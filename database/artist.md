@@ -14728,6 +14728,7 @@ example:
 | nawakena | なわけな |  | [pixiv](https://www.pixiv.net/users/32254275) \| [FANBOX](https://nawakena.fanbox.cc/posts) \| [X](https://x.com/ooickiee) |
 | haga yuuji | 芳賀ゆうぢ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22芳賀ゆうぢ%22) |
 | kabikira | かびきらぁ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22かびきらぁ%22) |
+| tomoki | ともき |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=ともき&text_type=author) |
 
 <!--TEMPLATE:
 |  |  |  |  |
