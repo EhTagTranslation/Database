@@ -1159,7 +1159,7 @@ example:
 | hajime owari | 尾张一 |  |  |
 |  | ▼ NEW GAME! 角色 |  |  |
 | aoba suzukaze | 凉风青叶 | ![凉风青叶](https://ehgt.org/3f/d3/3fd3cc3dd6e03d2f0064b88b80a5a18994b3ab7d-868428-2710-3920-jpg_l.jpg) |  |
-| hifumi takimoto | 泷本日富美 | ![泷本日富美](https://ehgt.org/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg) |  |
+| hifumi takimoto | 泷本日富美 | ![泷本日富美](https://ehgt.org/10/a5/10a5525d3b22c6517426408b912d1ebccda07e94-789731-2726-3911-jpg_l.jpg)<br>出自作品：`p:new game`<br><br>泷本一二三 / 泷本日富美（日语：滝本（たきもと）ひふみ）是得能正太郎所创作的漫画《NEW GAME!》 及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/泷本一二三) |
 | kou yagami | 八神光 | ![八神光](https://ehgt.org/89/d4/89d4065cf866e8d9f1c8b1af62b33307a9a2afa9-899427-2722-3920-jpg_l.jpg) |  |
 | rin tooyama | 远山伦 | ![远山伦](https://ehgt.org/b6/d0/b6d08642d6e4e0f3c30a5dc0e05074b7f652978a-935759-2726-3920-jpg_l.jpg) |  |
 | hajime shinoda | 篠田初 | ![篠田初](# "https://ehgt.org/ee/4e/ee4e99177812131745a90b7562dc0639cd710323-827430-1075-1522-jpg_l.jpg") |  |
