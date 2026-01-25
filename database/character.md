@@ -6971,7 +6971,7 @@ example:
 | hikaru kamisaki | 狼嵜光 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/03/19/40/16/137055998_p0_master1200.jpg)<br>所属作品：`medalist` |  |
 | maka albarn | 玛嘉·阿尔邦 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/11/10/20/21/37/137321345_p0_master1200.jpg)<br>所属作品：`soul eater` |  |
 | satsuki koto | 琴纱月 | ![](https://img.moegirl.org.cn/common/2/20/琴纱月stand.png)<br>所属作品：`watashi ga koibito ni nareru wake nai jan muri muri muri ja nakatta` |  |
-| hiromi shiota | 潮田广海 | 所属作品：暗杀教室<br>潮田渚（Nagisa Shiota）的母亲。 |  |
+| hiromi shiota | 潮田广海 | 所属作品：`ansatsu kyoushitsu`<br>`nagisa shiota`的母亲。 |  |
 | nagisa shiota | 潮田渚 | ![](https://img.moegirl.org.cn/common/0/05/2018-Emerald-Pendant.png)<br>所属作品：`ansatsu kyoushitsu` |  |
 | paxton | 共熙 | 共熙（キョウヤ/Paxton），游戏《宝可梦传说 Z-A》的男主人公。 |  |
 | meica05 | Meica05 | Meica05是B站UP主，以翻唱Vocaloid歌曲为主‌，自称“最强兵器”，活跃于日本音乐圈。 |  |
