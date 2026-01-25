@@ -882,7 +882,7 @@ example:
 | wendy o. koopa | 温蒂库巴 |  |  |
 | super crown bowser | 库巴姬 |  |  |
 | princess peach | 桃子公主 | ![](https://ehgt.org/w/02/025/44703-lr39kjx6.webp)<br>所属作品：`super mario brothers`<br>别译碧奇公主 |  |
-| princess daisy | 黛西公主 |  |  |
+| princess daisy | 黛西公主 | ![](https://ehgt.org/w/02/175/70468-sq45nbit.webp)<br>出自作品：`p:super mario brothers`<br><br>菊花公主（日语：デイジー姫；英语：Princess Daisy）是日本游戏公司任天堂旗下电子游戏《马力欧系列》中的虚构人物。 | [萌娘百科](https://zh.moegirl.org.cn/黛西公主) |
 | rosalina | 罗塞塔 | ![](https://ehgt.org/w/01/806/46480-7rvhgb5n.webp)<br>所属作品：`super mario brothers` |  |
 | pauline | 波琳 |  |  |
 | boo | 布布 |  |  |
