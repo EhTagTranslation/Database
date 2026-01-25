@@ -5306,7 +5306,7 @@ example:
 | lily loud | 莉莉·劳德 |  |  |
 | lucy loud | 露西·劳德 |  |  |
 | lynn loud sr. | 老林恩·劳德 |  |  |
-| claire redfield | 克莱尔·雷德菲尔德 |  | [萌娘百科](https://zh.moegirl.org.cn/克莱尔·雷德菲尔德) |
+| claire redfield | 克莱尔·雷德菲尔德 | ![](https://ehgt.org/w/01/727/20217-j5b98fqb.webp)<br>出自作品：`p:resident evil`<br><br>克莱尔·雷德菲尔德（英语：Claire Redfield）是Capcom旗下的游戏《生化危机》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/克莱尔·雷德菲尔德) |
 | albert wesker | 阿尔伯特·威斯克 | ![](https://thumbsnap.com/i/u7Fh8bEY.jpg)<br>出自作品：`p:resident evil`<br><br>阿尔伯特·威斯克是生化危机系列中一位复杂而充满争议的反派角色。作为原保护伞公司的精英特工和生化武器首席研究员，这位被优生工程培育出的天才自幼接受极端理念灌输，兼具卓越的智力天赋与扭曲的进化论信仰。他始终游走于各方势力之间，从幕后操纵病毒泄露事件到建立跨国生化武器网络，逐步从企业棋子蜕变为追求物种筛选的极端主义者。冷酷无情的实用主义作风与对自身基因强化的偏执追求，使其成为串联多起全球性生化危机的关键推手。标志性的墨镜与黑色风衣之下，掩藏着试图通过病毒重塑人类文明的危险野心。 | [萌娘百科](https://zh.moegirl.org.cn/阿尔伯特·威斯克) |
 | kukulkan | 库库尔坎 |  |  |
 | iori miyamoto | 宫本伊织 |  |  |
