@@ -14731,6 +14731,7 @@ example:
 | tomoki | ともき |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=ともき&text_type=author) |
 | fengji | 楓寂 |  | [pixiv](https://www.pixiv.net/users/6280305) |
 | giga | giga |  | [FANBOX](https://www.fanbox.cc/@g1-ga) \| [X](https://x.com/G1G_4) \| [pixiv](https://www.pixiv.net/users/28238559) |
+| kaneko kazuma | 金子一马 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
