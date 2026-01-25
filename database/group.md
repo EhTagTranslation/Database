@@ -13637,6 +13637,7 @@ example:
 | kanriya | かんり屋 |  |  |
 | sutahiro box | すたひろBOX | `a:sutahiro`使用的同人社团名称 |  |
 | inharmonicity | Inharmonicity |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038580.html) |
+| hot nyuugyou | HOT乳業 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66044.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
