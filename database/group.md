@@ -13639,6 +13639,7 @@ example:
 | inharmonicity | Inharmonicity |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038580.html) |
 | hot nyuugyou | HOT乳業 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66044.html) |
 | chibikko nyannyan | ちびっこ娘々2号 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48139.html) |
+| kabitto kiratto | かびっと、きらっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012265.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
