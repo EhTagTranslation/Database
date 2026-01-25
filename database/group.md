@@ -13644,6 +13644,7 @@ example:
 | suiyifang | 隨意坊 |  |  |
 | tomokiya | ともき屋 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110807) |
 | luolifengtangjiang | 蘿莉楓糖漿 |  |  |
+| douraku souko | 道楽倉庫 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
