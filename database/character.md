@@ -8371,6 +8371,7 @@ example:
 | benten | 弁天 | ![](https://ehgt.org/w/02/032/48555-bdtt6rjp.webp)<br>出自作品：`p:urusei yatsura`<br><br>弁天（日语：弁天（べんてん） ）是由高橋留美子创作的漫画《福星小子》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/弁天%28福星小子%29#) |
 | remi aono | 苍乃莉美 | ![](https://ehgt.org/w/00/737/55064-h8y4wead.webp)<br>出自作品：`p:fresh precure`<br><br>苍乃莉美是`c:cure berry`的母亲。 |  |
 | oshinori hororo | 忍ノ竜ほろろ | 新人VTuber | [X](https://x.com/Oshinori_hororo) \| [YouTube](https://www.youtube.com/@Oshinori_hororo) |
+| yamigashi kana | 闇貸かな | VTuber | [X](https://x.com/yamigashikana) \| [YouTube](https://www.youtube.com/channel/UCRw-lZZXPx8ljveT2mLgC0w) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
