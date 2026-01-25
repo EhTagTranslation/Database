@@ -14739,6 +14739,7 @@ example:
 | arai arata | 新井アラタ |  |  |
 | timosan | ティモさん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ティモさん%22) |
 | gio | gio |  | [FANBOX](https://gio.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/20956) |
+| shishamon | ししゃもん |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
