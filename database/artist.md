@@ -14726,6 +14726,7 @@ example:
 | ng1 | NG1 |  | [pixiv](https://www.pixiv.net/users/4280968) |
 | gakay | がけい |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22がけい%22) |
 | nawakena | なわけな |  | [pixiv](https://www.pixiv.net/users/32254275) \| [FANBOX](https://nawakena.fanbox.cc/posts) \| [X](https://x.com/ooickiee) |
+| haga yuuji | 芳賀ゆうぢ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22芳賀ゆうぢ%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
