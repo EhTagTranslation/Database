@@ -14736,6 +14736,7 @@ example:
 | yumeyama mikon | 夢山ミコン |  |  |
 | strelka | ストれるか |  | [FANBOX](https://strelkabelca.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/790811) \| [X](https://x.com/StrelkaBelca) |
 | takamarikka | とうりつか |  | [pixiv](https://www.pixiv.net/users/25260639) \| [FANBOX](https://takamarikka.fanbox.cc/) |
+| arai arata | 新井アラタ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
