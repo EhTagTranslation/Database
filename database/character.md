@@ -8369,6 +8369,7 @@ example:
 | puniru | 噗尼露 | 《可爱史莱姆噗尼露》中的登场角色。 |  |
 | hikari momoyama | 桃山光 | ![](https://static.wikia.nocookie.net/prichan/images/9/9e/6506.PNG/revision/latest?cb=20180505141928)<br>所属作品:`kiratto pri chan` | [Fandom](https://prichan.fandom.com/wiki/Hikari_Momoyama) |
 | benten | 弁天 | ![](https://ehgt.org/w/02/032/48555-bdtt6rjp.webp)<br>出自作品：`p:urusei yatsura`<br><br>弁天（日语：弁天（べんてん） ）是由高橋留美子创作的漫画《福星小子》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/弁天%28福星小子%29#) |
+| remi aono | 苍乃莉美 | ![](https://ehgt.org/w/00/737/55064-h8y4wead.webp)<br>出自作品：`p:fresh precure`<br><br>苍乃莉美是`c:cure berry`的母亲。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
