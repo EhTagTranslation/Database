@@ -2857,7 +2857,7 @@ example:
 | himawari furutani | 古谷向日葵 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/72/2f/722f809a2ca8dc41bab98a89b1111a696af090d5-10086677-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/古谷向日葵) (\*\*) |
 | sakurako ohmuro | 大室樱子 | 漫画`yuruyuri`及其衍生作品中的角色。<br>![图](https://ehgt.org/dd/89/dd897e403708652964b2d037b9f13e86d846af91-11863386-4365-6000-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/大室樱子) (\*\*) |
 | raphtalia | 拉芙塔莉雅 | ![](https://ehgt.org/w/02/113/07121-madnntq9.webp)<br>所属作品：`tate no yuusha no nariagari` |  |
-| filo | 菲洛 |  |  |
+| filo | 菲洛 | ![](https://ehgt.org/w/01/978/41846-17zawb19.webp)<br>出自作品：`p:tate no yuusha no nariagari`<br><br>菲洛是アネコユサギ原作、弥南星罗插画的轻小说《盾之勇者成名录》及其衍生作品中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/菲洛) |
 | altina orion | 亚尔缇娜·奥莱恩 | ![](https://ehgt.org/w/01/972/10318-ih6xutum.webp)<br>所属作品：`the legend of heroes` |  |
 | amiya | 阿米娅 | ![](https://patchwiki.biligame.com/images/arknights/3/30/o8ckif3rqc1ssxvv5cmrmcj3y9p4b1t.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/阿米娅)<br>[PRTS](https://prts.wiki/w/阿米娅) |
 | regu | 雷古 | 勃起卿。出自来自深渊（Made in Abyss) |  |
