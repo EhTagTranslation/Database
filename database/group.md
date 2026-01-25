@@ -5781,7 +5781,7 @@ example:
 | honey crunch | HONEY\*CRUNCH |  |  |
 | honey dipped | Honey Dipped |  |  |
 | honey knuckle | Honey Knuckle |  |  |
-| honey lounge | honey lounge |  |  |
+| honey lounge | honey lounge |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=99008461) |
 | honey pharmacy | Honey Pharmacy |  |  |
 | honey rice | はちみつごはん |  |  |
 | honey rider69 | Honey Rider69 |  |  |
