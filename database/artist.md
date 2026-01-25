@@ -14724,6 +14724,7 @@ example:
 | sutahiro | すたひろ |  |  |
 | hotokenoza | ホトケノザ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ホトケノザ%22) |
 | ng1 | NG1 |  | [pixiv](https://www.pixiv.net/users/4280968) |
+| gakay | がけい |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22がけい%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
