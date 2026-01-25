@@ -13641,6 +13641,7 @@ example:
 | chibikko nyannyan | ちびっこ娘々2号 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48139.html) |
 | kabitto kiratto | かびっと、きらっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012265.html) |
 | paperboy | paperboy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01007544.html) |
+| suiyifang | 隨意坊 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
