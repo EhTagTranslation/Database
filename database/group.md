@@ -13645,6 +13645,7 @@ example:
 | tomokiya | ともき屋 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110807) |
 | luolifengtangjiang | 蘿莉楓糖漿 |  |  |
 | douraku souko | 道楽倉庫 |  |  |
+| bicycle | BicyclE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01613.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
