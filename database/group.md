@@ -13648,6 +13648,7 @@ example:
 | bicycle | BicyclE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01613.html) |
 | hikaru kuwagatamushi | 光るくわがたむし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33128.html) |
 | takamarikka | たかまりっか |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=67212) |
+| timosan | TimoSAN |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01022157.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
