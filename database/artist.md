@@ -14722,6 +14722,7 @@ example:
 | hakeashi | ハケアシ |  | [FANBOX](https://www.fanbox.cc/@hakeashi777) \| [X](https://x.com/Hageashi777) \| [pixiv](https://www.pixiv.net/users/40011649) |
 | houmatu awa | 希望皇ソープ |  | [pixiv](https://www.pixiv.net/users/988539) |
 | sutahiro | すたひろ |  |  |
+| hotokenoza | ホトケノザ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ホトケノザ%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
