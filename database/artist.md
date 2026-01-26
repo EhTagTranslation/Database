@@ -14745,6 +14745,7 @@ example:
 | donmetsu | どんめつ |  | [lit.link](https://lit.link/en/donmetsu) \| [FANBOX](https://kankohisyuki.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/96722281) |
 | sonao | そなお |  | [FANBOX](https://www.fanbox.cc/@sonao) |
 | suigi | スイギ |  | [alice-books](https://alice-books.com/item/list/all?tag=スイギ) |
+| kuromu | クロム |  | [BOOTH](https://kurom960.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
