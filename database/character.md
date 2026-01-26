@@ -8383,6 +8383,7 @@ example:
 | blaze wizard | 炎术士（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/1/10/ClassArtwork_Blaze_Wizard_%28Ignition%2C_Male%29.png)<br>所属作品：`maplestory` |  |
 | oz | 奥兹（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/2/22/Artwork_Oz.png)<br>所属作品：`maplestory` |  |
 | cygnus | 希纳斯（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/0/0e/NPCArtwork_Cygnus%2C_2014_%28Awakened_1%29.png)<br>所属作品：`maplestory`<br>别称西格诺斯。 |  |
+| shinomiya runa | 紫宫露娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9d/ShinomiyaRuna_-_Portrait.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
