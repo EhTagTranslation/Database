@@ -8381,6 +8381,7 @@ example:
 | luminous | 夜光法师（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/5/52/ClassArtwork_Luminous_%28Nova%29.png)<br>所属作品：`maplestory` |  |
 | mrs. ming ming | 明明女士 | ![](https://static.wikia.nocookie.net/maplestory/images/2/29/NPC_Mrs._Ming_Ming.png)<br>所属作品：`maplestory` |  |
 | blaze wizard | 炎术士（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/1/10/ClassArtwork_Blaze_Wizard_%28Ignition%2C_Male%29.png)<br>所属作品：`maplestory` |  |
+| oz | 奥兹（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/2/22/Artwork_Oz.png)<br>所属作品：`maplestory` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
