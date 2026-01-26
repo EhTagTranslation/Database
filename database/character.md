@@ -1433,7 +1433,7 @@ example:
 | miharu shimizu | 清水美春 |  |  |
 |  | ▼ 疯狂动物城 |  |  |
 | judy hopps | 兔朱迪 | ![](https://ehgt.org/w/01/650/92958-i3a84wyo.webp)<br>出自作品：`p:zootopia`<br><br>朱迪·霍普斯（Judy Hopps），动画电影系列《疯狂动物城》中的女主角，角色原型为棉尾兔，由金妮弗·古德温配音。作为动物城首位兔子警官，朱迪因体型娇小常被同僚轻视，但凭借超强弹跳力、敏锐嗅觉与听觉在办案中屡建奇功。她以“永不放弃”的信念接手失踪案，与狐狸尼克组成搭档揭发城市阴谋，过程中逐渐认识到自身偏见并实现成长。 | [百度百科](https://baike.baidu.com/item/朱迪·霍普斯/19730673) |
-| nick wilde | 狐尼克 |  |  |
+| nick wilde | 狐尼克 | ![](https://ehgt.org/w/00/924/92468-4i4iqr96.webp)<br>出自作品：`p:zootopia`<br><br>尼克·王尔德，全名尼古拉斯·皮比里厄斯·王尔德，动画电影系列《疯狂动物城》中的男主角，朱迪·霍普斯的搭档，该角色原型为赤狐。 | [百度百科](https://baike.baidu.com/item/尼克·王爾德/19729273) |
 | jack savage | 野蛮杰克 |  |  |
 | chief bogo | 蛮牛局长 |  |  |
 | bonnie hopps | 兔邦妮 |  |  |
