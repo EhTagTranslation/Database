@@ -8373,6 +8373,7 @@ example:
 | oshinori hororo | 忍ノ竜ほろろ | 新人VTuber | [X](https://x.com/Oshinori_hororo) \| [YouTube](https://www.youtube.com/@Oshinori_hororo) |
 | yamigashi kana | 闇貸かな | VTuber | [X](https://x.com/yamigashikana) \| [YouTube](https://www.youtube.com/channel/UCRw-lZZXPx8ljveT2mLgC0w) |
 | alicia blanche | 车慧怡 | ![](https://ehgt.org/w/01/811/75730-q96lrri4.webp)<br>出自作品：`p:solo leveling`<br><br>车慧怡是韩国漫画《我独自升级》及其衍生作品中的核心角色，以"舞姬"称号闻名于作品中。作为猎人协会高层成员，她在程肖宇觉醒前曾长期保持H国最强猎人的地位。该角色在漫画正篇及手游《我独自升级:起立》中均有重要戏份，与主角程肖宇存在深度羁绊关系。 | [Fandom](https://solo-leveling-arise.fandom.com/wiki/Alicia_Blanche) \| [百度百科](https://baike.baidu.com/item/车慧怡/65350747) |
+| illuga | 伊路卡 | ![](https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Character_Illuga_Game.png)<br>所属作品：`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
