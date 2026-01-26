@@ -13650,6 +13650,7 @@ example:
 | takamarikka | たかまりっか |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=67212) |
 | timosan | TimoSAN |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01022157.html) |
 | sistny and anasis | Sistny&Anasis |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38356.html) |
+| hachiware shoukai | ハチワレ商会 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
