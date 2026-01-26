@@ -4253,7 +4253,7 @@ example:
 | anelace elfead | 亚妮拉丝·艾尔菲德 |  |  |
 | scherazard harvey | 雪拉扎德·哈维 |  |  |
 | shizuna rem misurugi | 静名·雷姆·御折木 | ![](https://ehgt.org/w/02/024/83753-v2ks39f8.webp)<br><br>出自作品：`p:the legend of heroes`<br><br>静名·雷姆·御折木（日语：シズナ・レム・ミスルギ；英语：Shizuna Rem Misurugi）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色，在《英雄传说 创之轨迹》的后日谈CG中首次出现，在《英雄传说 黎之轨迹》中正式登场。 | [萌娘百科](https://zh.moegirl.org.cn/静名·雷姆·御折木) |
-| ragna the bloodedge | 拉格纳·布莱德艾奇 |  |  |
+| ragna the bloodedge | 拉格纳·布莱德艾奇 | ![](https://thumbsnap.com/i/CSgwipUZ.jpg)<br>出自作品：`p:blazblue`<br><br>拉格纳·布莱德艾奇是ARC SYSTEM WORKS旗下的游戏《苍翼默示录》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉格纳·布莱德艾奇) |
 | noel vermillion | 诺爱儿·梵蜜莉欧 | ![](https://ehgt.org/w/02/049/62441-u6fy4xlu.webp)<br>出自作品：`p:blazblue`<br><br>诺爱儿·梵蜜莉欧是ARC SYSTEM WORKS开发制作的2DFTG游戏《苍翼默示录》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/诺爱儿·梵蜜莉欧) |
 | es | Es | 《苍翼默示录》的登场角色。 |  |
 | kajun faycott | 花隼·法伊科特 |  |  |
