@@ -567,7 +567,7 @@ example:
 | makoto kikuchi | 菊地真 |  | [Wiki](https://project-imas.wiki/Makoto_Kikuchi) |
 | ami futami | 双海亚美 |  |  |
 | mami futami | 双海真美 |  |  |
-| miki hoshii | 星井美希 |  |  |
+| miki hoshii | 星井美希 | ![](https://ehgt.org/w/02/187/83955-pph6xna0.webp)<br>出自作品：`p:the idolmaster`<br><br>星井美希（日语：星井（ほしい） 美希（みき））是BNEI旗下游戏《偶像大师》系列中的个性系代表。 | [萌娘百科](https://zh.moegirl.org.cn/星井美希) |
 | hibiki ganaha | 我那霸响 |  |  |
 | takane shijou | 四条贵音 | ![四条贵音](https://img.moegirl.org.cn/common/c/ca/N_四条貴音.png)<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/四条贵音) |
 | kotori otonashi | 音无小鸟 |  |  |
