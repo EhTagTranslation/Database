@@ -14741,6 +14741,7 @@ example:
 | gio | gio |  | [FANBOX](https://gio.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/20956) |
 | shishamon | ししゃもん |  |  |
 | yayuyoron | ヤユヨろん |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110013) |
+| hairclip | へあくりっぷ |  | [pixiv](https://www.pixiv.net/users/81719117) |
 
 <!--TEMPLATE:
 |  |  |  |  |
