@@ -14740,6 +14740,7 @@ example:
 | timosan | ティモさん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ティモさん%22) |
 | gio | gio |  | [FANBOX](https://gio.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/20956) |
 | shishamon | ししゃもん |  |  |
+| yayuyoron | ヤユヨろん |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110013) |
 
 <!--TEMPLATE:
 |  |  |  |  |
