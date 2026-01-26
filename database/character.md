@@ -8377,6 +8377,7 @@ example:
 | yuko murakami | 村上佑子 | 所属作品：`bishoujo kamen poitrine` |  |
 | kaga nazuna | 花芽荠 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/Kaga_Nazuna_corporate_full_body.png)<br>所属社团：VSPO<br>日语：花芽なずな |  |
 | kaga sumire | 花芽菫 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/29/Kaga_Sumire_Portrait_Still.png)<br>所属社团：VSPO<br>日语：花芽すみれ |  |
+| phantom | 幻影（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/7/7f/ClassArtwork_Phantom_%28Nova%29.png)<br>所属作品：`maplestory` | [Fandom](https://maplestory.fandom.com/wiki/Phantom) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
