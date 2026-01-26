@@ -2713,6 +2713,7 @@ example:
 | ninja to koroshiya no futarigurashi | 忍者×杀手二人组的日常生活 | 《忍者×杀手二人组的日常生活》（日语：忍者と殺し屋のふたりぐらし）是由ハンバーガー创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/忍者×杀手二人组的日常生活) |
 | project kv | Project KV | 《Project KV》是由Dynamis One製作的企劃。<br><br>屬於持「刀」少女們的<br>舊時代學園武劇！<br>在這聚集了數百所學舍的「學舍都市迦毗羅」之中所展開的歡樂又嬉鬧的故事即將開幕。<br>這是不存在題材限制的大張旗鼓的故事舞台。<br>然而，這依然會是我們早已熟悉且親近的故事展開。 | [萌娘百科](https://zh.moegirl.org.cn/Project_KV) |
 | bishoujo kamen poitrine | 美少女假面珀怀特琳 |  |  |
+| doki doki majo shinpan | 心跳魔女神判 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
