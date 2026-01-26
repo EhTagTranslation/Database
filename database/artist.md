@@ -14742,6 +14742,7 @@ example:
 | shishamon | ししゃもん |  |  |
 | yayuyoron | ヤユヨろん |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=110013) |
 | hairclip | へあくりっぷ |  | [pixiv](https://www.pixiv.net/users/81719117) |
+| donmetsu | どんめつ |  | [lit.link](https://lit.link/en/donmetsu) \| [FANBOX](https://kankohisyuki.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/96722281) |
 
 <!--TEMPLATE:
 |  |  |  |  |
