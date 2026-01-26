@@ -8386,6 +8386,7 @@ example:
 | shinomiya runa | 紫宫露娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9d/ShinomiyaRuna_-_Portrait.png) |  |
 | ichinose uruha | 一之濑丽 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e3/Ichinose_Uruha_coporate_full_body.png)<br>日语：一ノ瀬うるは |  |
 | hana judgement day mode | 花(异度神剑) | ![](https://ehgt.org/w/02/218/52454-am5rzg1e.webp)<br>出自作品：`p:xenoblade chronicles 2`<br><br>花（日语：ハナ）是游戏《异度神剑2》、《异度神剑3》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/花%28异度神剑%29#) |
+| kotonoha yukino | 琴乃叶雪乃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/44/KotonohaYukinoIcon.png)<br>YouTube 上的个人势 Vtuber。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
