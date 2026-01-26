@@ -8376,6 +8376,7 @@ example:
 | illuga | 叶洛亚 | ![](https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Character_Illuga_Game.png)<br>所属作品：`genshin impact` |  |
 | yuko murakami | 村上佑子 | 所属作品：`bishoujo kamen poitrine` |  |
 | kaga nazuna | 花芽荠 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/Kaga_Nazuna_corporate_full_body.png)<br>所属社团：VSPO<br>日语：花芽なずな |  |
+| kaga sumire | 花芽菫 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/29/Kaga_Sumire_Portrait_Still.png)<br>所属社团：VSPO<br>日语：花芽すみれ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
