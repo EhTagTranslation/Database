@@ -6089,7 +6089,7 @@ example:
 | rin okumura | 奥村燐 |  | [萌娘百科](https://zh.moegirl.org.cn/奥村燐) |
 | shiemi moriyama | 杜山诗惠美 |  | [Bangumi](https://bgm.tv/character/10758) |
 | shura kirigakure | 雾隐修拉 |  | [百度百科](https://baike.baidu.com/item/雾隐修拉/7113896) |
-| tinasha farsas | 缇娜夏 | Unnamed Memory 无名记忆 女主角 | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶) |
+| tinasha farsas | 缇娜夏 | ![](https://static.wikia.nocookie.net/unnamed-memory-world/images/c/c4/Tinasha.png)<br>所属作品：`unnamed memory` | [维基百科](https://zh.wikipedia.org/wiki/Unnamed_Memory_無名記憶)<br>[Fandom](https://unnamed-memory-world.fandom.com/wiki/Tinasha) |
 | sanhua | 散华 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/2/2e/1ejnlvn1tpa8fv98plpnr95p9lw082v.png/542px-Mc_wiki_role_sanhua_x1500.png)<br>所属作品：`wuthering waves`<br>散华是会带来灾难的修罗，也是寡言的守护者，散华所观察到的世界和正常认知存在较大差异，体温也低于常人，可以降低四周气温，召唤冰雪。 | [BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/散华) |
 | jacques de molay | 雅克·德·莫莱 | 日语：ジャック・ド・モレー<br>TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。Foreigner职阶的从者，圣殿骑士团第23任大团长，同时也是最后一任大团长。 | [萌娘百科](https://zh.moegirl.org.cn/雅克·德·莫莱%28Fate/Grand_Order%29#) |
 | kaya ogasawara | 小笠原香耶 |  |  |
