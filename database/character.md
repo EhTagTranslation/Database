@@ -8388,6 +8388,7 @@ example:
 | hana judgement day mode | 花(异度神剑) | ![](https://ehgt.org/w/02/218/52454-am5rzg1e.webp)<br>出自作品：`p:xenoblade chronicles 2`<br><br>花（日语：ハナ）是游戏《异度神剑2》、《异度神剑3》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/花%28异度神剑%29#) |
 | kotonoha yukino | 琴乃叶雪乃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/44/KotonohaYukinoIcon.png)<br>YouTube 上的个人势 Vtuber。 |  |
 | tiese schtrinen | 蒂洁·修特利尼 | ![](https://static.wikia.nocookie.net/swordartonline/images/6/63/Tiese_Shtolienen_Full_Body.png)<br>所属作品：`sword art online`<br>日语：ティーゼ・シュトリーネン | [Fandom](https://swordartonline.fandom.com/wiki/Tiese_Schtrinen) |
+| mito | 兔泽深澄（米特） | ![](https://static.wikia.nocookie.net/swordartonline/images/c/ce/Mito%27s_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：兎沢深澄 | [Fandom](https://swordartonline.fandom.com/wiki/Tozawa_Misumi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
