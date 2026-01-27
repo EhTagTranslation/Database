@@ -3426,7 +3426,7 @@ example:
 | toph bei fong | 北方·托芙 |  |  |
 | robin | 知更鸟 \| 鲁弗莱 \| 罗宾 | ①<br>![](https://patchwiki.biligame.com/images/sr/thumb/b/b9/q7uxyiej5tg4p3ysts38oxcv23mt76p.png/1050px-知更鸟立绘.png)<br>所属作品：`honkai star rail`<br>出生于匹诺康尼，闻名银河的天环族歌者，举止从容优雅的少女。<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/f/fd/Robin_Heroes.png/revision/latest?cb=20170122062316)<br>![](https://static.wikia.nocookie.net/fireemblem/images/d/dd/Robin_Heroes_F.png/revision/latest?cb=20170210061127)<br>日文：ルフレ<br>所属作品：`fire emblem awakening`<br><br>③<br>罗宾是DC漫画中的超级英雄，是`c:batman`的搭档及助手。又称“神奇小子”。 | [知更鸟](https://zh.moegirl.org.cn/知更鸟) [鲁弗莱](https://fireemblem.fandom.com/wiki/Robin) [达米安·韦恩<br>](https://zh.moegirl.org.cn/达米安·韦恩) |
 | eugeo | 尤吉欧 |  |  |
-| quinella | 葵妮拉 |  |  |
+| quinella | 葵妮拉 | ![](https://static.wikia.nocookie.net/swordartonline/images/1/16/Quinella_Full_Body.png)<br>所属作品：`sword art online`<br>日语：クィネラ | [Fandom](https://swordartonline.fandom.com/wiki/Quinella) |
 | makima | 玛奇玛 | ![](https://ehgt.org/w/02/175/72970-81398m3d.webp)<br>所属作品：`chainsaw man` |  |
 | denji | 电次 | ![](https://thumbsnap.com/i/LYbiMS9c.jpg)<br>电次（日语：デンジ）是由藤本树所创作漫画《`p:chainsaw man`》及其衍生作品的登场角色，本作第一部的主角及第二部的男主角。 | [萌娘百科](https://zh.moegirl.org.cn/电次%28电锯人%29#) |
 | angel devil | 天使恶魔 |  |  |
