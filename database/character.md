@@ -1972,7 +1972,7 @@ example:
 | saint martha | 玛尔达 | ![图](https://ehgt.org/54/3d/543d726588b7b40ffc89612938edad9dfc1b232a-2396129-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/玛尔达%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/玛尔达) |
 | murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
 |  | ▼ 刀剑神域 |  |  |
-| kazuto kirigaya | 桐谷和人（桐人） | ![图](https://ehgt.org/14/56/1456fe04bac534a80cd45c511a52c585b795aea5-112943-960-544-jpg_l.jpg)![图](https://ehgt.org/31/f3/31f303e3ce76b516286e5296f5fd8ab43b970ded-859458-2464-3498-jpg_l.jpg) |  |
+| kazuto kirigaya | 桐谷和人 | ![](https://static.wikia.nocookie.net/swordartonline/images/4/4e/Kirito_Full_Body.png)<br>所属作品：`sword art online`<br>日语：桐ヶ谷 和人 | [Fandom](https://swordartonline.fandom.com/wiki/Kirigaya_Kazuto) |
 | asuna yuuki | 结城明日奈（亚丝娜） | ![](https://ehgt.org/w/02/211/73582-rluqpcp6.webp)<br>所属作品：`sword art online` | [维基百科](https://zh.wikipedia.org/wiki/亞絲娜) |
 | sachi | 幸 | 桐人永久的伤痛<br>![图](https://ehgt.org/c7/46/c7466b17f7d0b3e8ceaeeacd614a6d6874321640-93535-960-544-jpg_l.jpg)![图](https://ehgt.org/82/24/822402a91cb7c02f3e66a697c4bcd06c1ac8b45d-456448-700-1079-jpg_l.jpg)![图](https://ehgt.org/55/55/5555e8320ce6446c4ea393971c7d056cd14cc76b-106116-960-544-jpg_l.jpg)![图](https://ehgt.org/ea/ad/eaad4c01688970e3cd817473a4fa7c385f16c243-706209-849-1200-jpg_l.jpg) |  |
 | keiko ayano | 绫野珪子（西莉卡） | ![](https://static.wikia.nocookie.net/swordartonline/images/8/8a/Silica%27s_SAO_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：綾野珪子 | [Fandom](https://swordartonline.fandom.com/wiki/Ayano_Keiko) |
