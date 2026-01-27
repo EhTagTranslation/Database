@@ -5065,7 +5065,7 @@ example:
 | li sushang | 李素裳 \| 素裳 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/pa10qs0htdu6eizlhvk4b26ihm6x5tq.png/1050px-素裳立绘.png)<br>所属作品: `p:honkai gakuen`、`p:honkai star rail`<br>单纯热心的云骑军新人，执一柄重剑。 | [李素裳](https://zh.moegirl.org.cn/李素裳) [素裳](https://zh.moegirl.org.cn/素裳) |
 | prometheus | 普罗米修斯 | 所属作品: `p:megido 72` | [Bangumi](https://bgm.tv/character/129499) |
 | lisesharte atismata | 莉姿夏尔蒂·亚提司玛特 | ![](https://saijaku.jp/img/character_image02.jpg)<br>所属作品: `p:saijaku muhai no bahamut`<br>リーズシャルテ·アティスマータ<br>亚提司玛特新王国的公主，爱称是莉夏。真红的神装机龙“迪亚玛特”的操纵者，在学园内以无败而自豪的屈指可数的装甲机龙使者。 |  |
-| dantoudai no aura | 阿乌拉 | 所属作品: `p:sousou no frieren`<br><br>魔王直接下属的“七崩贤”之一，绰号“断头台阿乌拉”的魔族。 | [萌娘百科](https://zh.moegirl.org.cn/阿乌拉) |
+| dantoudai no aura | 阿乌拉 | ![](https://ehgt.org/w/02/185/83742-f05gs6h4.webp)<br>所属作品: `p:sousou no frieren`<br><br>魔王直接下属的“七崩贤”之一，绰号“断头台阿乌拉”的魔族。 | [萌娘百科](https://zh.moegirl.org.cn/阿乌拉) |
 | ayano yuugiri | 夕桐绫乃 | 所属作品: `p:engage kiss`<br><br>![图](https://ehgt.org/2c/f7/2cf725b1d6494c5e0d7f7f6546ac55d11bd761e0-319014-880-1300-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夕桐绫乃) |
 | rose oriana | 萝兹·奥利雅纳 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br>奥里亚纳王国的公主。米德加尔魔剑士学园的学生会长。作为艺术之国的公主备受期待，但是以自己的意志选择了剑的道路。入学后掌握了学园顶级的实力。在一次事件之后感受到了和希德的命运。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/63/91/103296_crt_5a1TM.jpg?r=1675247405) |  |
 | vladilena milize | 芙拉蒂蕾娜·米利杰 | 所属作品: `p:86`<br><br>本名芙拉蒂蕾娜·米利杰。圣玛格诺利亚共和国军人，是一名十六岁便晋升少校的精英。出身白银种旧封建贵族的大小姐。和大多数麻木不仁的圣玛格诺利亚国民不同，拒绝将“八六”视为用过即弃的工具。 | [萌娘百科](https://zh.moegirl.org.cn/芙拉蒂蕾娜·米利杰) |
