@@ -13654,6 +13654,7 @@ example:
 | suppottnoze | サポットノーズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45550.html) |
 | hekatoncheir | HEKATONCHEIR |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47119.html) |
 | arimuland | ありむらんど |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43273.html) |
+| system creature | システムクリーチャー |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204094/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204094/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
