@@ -8391,6 +8391,7 @@ example:
 | mito | 兔泽深澄（米特） | ![](https://static.wikia.nocookie.net/swordartonline/images/c/ce/Mito%27s_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：兎沢深澄 | [Fandom](https://swordartonline.fandom.com/wiki/Tozawa_Misumi) |
 | medjehtiqedti | 缇缇 | ![](https://patchwiki.biligame.com/images/arknights/9/9b/lqqp7lk1tiuca9sqn60c16nzikmlntc.png)<br>所属游戏:`arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/缇缇) |
 | neru akita | 亚北音留 | ![](https://ehgt.org/w/00/248/88986-2x43c0k3.webp)<br>出自作品：`p:vocaloid`<br><br>亚北音留（亞北ネル）是初音未来的亚种之一，该角色首次发布是在2007年11月1日——作者スミス・ヒオカ（Smith Hioka）在2ch上发布了几张亚北音留的画作。2008年被官方承认，正式成为VOCALOID系列的亚种。 | [萌娘百科](https://zh.moegirl.org.cn/亚北音留) |
+| yuki tsukumo | 九十九由基 | ![](https://ehgt.org/w/02/123/62272-8sc4sow9.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>九十九由基（日语：九十九（つくも） 由基（ゆき））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/九十九由基) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
