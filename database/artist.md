@@ -14746,6 +14746,7 @@ example:
 | sonao | そなお |  | [FANBOX](https://www.fanbox.cc/@sonao) |
 | suigi | スイギ |  | [alice-books](https://alice-books.com/item/list/all?tag=スイギ) |
 | kuromu | クロム |  | [BOOTH](https://kurom960.booth.pm/) |
+| eba uenihane | 絵羽 |  | [X](https://x.com/eva01050105) |
 
 <!--TEMPLATE:
 |  |  |  |  |
