@@ -8389,6 +8389,7 @@ example:
 | kotonoha yukino | 琴乃叶雪乃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/4/44/KotonohaYukinoIcon.png)<br>YouTube 上的个人势 Vtuber。 |  |
 | tiese schtrinen | 蒂洁·修特利尼 | ![](https://static.wikia.nocookie.net/swordartonline/images/6/63/Tiese_Shtolienen_Full_Body.png)<br>所属作品：`sword art online`<br>日语：ティーゼ・シュトリーネン | [Fandom](https://swordartonline.fandom.com/wiki/Tiese_Schtrinen) |
 | mito | 兔泽深澄（米特） | ![](https://static.wikia.nocookie.net/swordartonline/images/c/ce/Mito%27s_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：兎沢深澄 | [Fandom](https://swordartonline.fandom.com/wiki/Tozawa_Misumi) |
+| medjehtiqedti | 缇缇 | ![](https://patchwiki.biligame.com/images/arknights/9/9b/lqqp7lk1tiuca9sqn60c16nzikmlntc.png)<br>所属游戏:`arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/缇缇) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
