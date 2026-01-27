@@ -5700,7 +5700,7 @@ example:
 | camellya | 椿 | ①所属作品：`wuthering waves`<br>![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/3/33/piby5xz6lt334blop556739h476l24j.png/472px-角色_椿_立绘.png)<br>②所属作品：`senran kagura`<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=9c1d4eb37fd98d1076d40c39113eb807/6795fc33c895d1431f8b3c6c70f082025baf07b6.jpg) | [萌娘百科](https://zh.moegirl.org.cn/椿%28鸣潮%29#)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/椿) |
 | luciana auxesis theodoro de montefio | 露西亚娜·德·蒙特夫 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/5b57f18fd25d6125c17d9a1db2eafb3b_8579008197735461414.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/露西亚娜·奥克希斯·提奥多·德·蒙特夫) |
 | tomoki kuroki | 黑木智贵 |  |  |
-| muelsyse | 缪尔赛思 |  | [https://prts.wiki/w/缪尔赛思](https://prts.wiki/w/缪尔赛思) |
+| muelsyse | 缪尔赛思 | ![](https://ehgt.org/w/02/119/70399-gd5b9fw4.webp)<br>出自作品：`p:arknights`<br><br>缪尔赛思是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/缪尔赛思) \| [prts.wiki](https://prts.wiki/w/缪尔赛思) |
 | manticore | 狮蝎 | ![](https://patchwiki.biligame.com/images/arknights/d/dc/7urao9pg3puittts6yqagfqajtipwfx.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/狮蝎](https://prts.wiki/w/狮蝎) |
 | mogador | 莫加多尔 | 所属作品：`azur lane`<br>![](https://patchwiki.biligame.com/images/blhx/thumb/4/48/fgr1rdjw1akjva4dcr1g04xfoto4nbc.jpg/525px-莫加多尔立绘.jpg) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:莫加多尔) |
 | kinich | 基尼奇 |  | [BILIGAME WIKI](https://wiki.biligame.com/ys/基尼奇) |
