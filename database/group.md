@@ -830,7 +830,7 @@ example:
 | studio fow | Studio-FOW |  |  |
 | happouvijin | 八方微人 |  |  |
 | squeeze | SQUEEZE!! |  |  |
-| squeeze candy heaven | squeezecandyheaven |  |  |
+| squeeze candy heaven | Squeeze Candy Heaven |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=8200) |
 | polinky hiroba | ポリンキー広場 |  |  |
 | v-slash | V-SLASH |  |  |
 | tanima club | 谷间俱乐部 |  |  |
