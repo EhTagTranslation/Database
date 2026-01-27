@@ -5104,7 +5104,7 @@ example:
 | setsuna tokage | 取荫切奈 | 《我的英雄学院》女英雄。<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/0a/Setsuna_Tokage_PE_Uniform.png)<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/a5/Setsuna_Tokage_Hero_Costume_%28Anime%29.png) |  |
 | lady nagant | 筒美火伊那 | 《我的英雄学院》女英雄<br>![图](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/65/Kaina_Tsutsumi_Villain_Costume_%28Anime%29.png) |  |
 | kyoka jiro | 耳郎响香 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8c/Kyoka_Jiro_Full_Body_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/6/68/Kyoka_Jiro_Action_2.png) |  |
-| tooru hagakure | 叶隐透 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png) |  |
+| tooru hagakure | 叶隐透 | ![](https://ehgt.org/w/02/098/21437-pldtzdru.webp)<br>出自作品：`p:my hero academia`<br><br>《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/8f/Toru_Hagakure_Full_Body_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/叶隐透) |
 | ibara shiozaki | 塩崎茨 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/b/bd/Ibara_Shiozaki_PE_Uniform.png) |  |
 | kinoko komori | 小森希乃子 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/a/ae/Kinoko_Komori_Hero_Costume_%28Anime%29.png) |  |
 | pony tsunotori | 角取波尼 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/83/Pony_Tsunotori_Anime_Profile.png) |  |
