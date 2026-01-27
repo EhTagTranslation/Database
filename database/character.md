@@ -2873,7 +2873,7 @@ example:
 | nozomi kasaki | 伞木希美 |  |  |
 | yuuko yoshikawa | 吉川优子 |  |  |
 | natsuki nakagawa | 中川夏纪 |  |  |
-| sapphire kawashima | 川岛绿辉 |  |  |
+| sapphire kawashima | 川岛绿辉 | ![](https://ehgt.org/w/02/218/10528-tc35t1w3.webp)<br>出自作品：`p:hibike euphonium`<br><br>川岛绿辉是武田绫乃所创作的小说《吹响！上低音号》及其衍生作品的登场角色，主人公之一。 | [萌娘百科](https://zh.moegirl.org.cn/川岛绿辉) |
 | kaori nakaseko | 中世古香织 |  |  |
 | hazuki katou | 加藤叶月 |  |  |
 | haruka ogasawara | 小笠原晴香 |  |  |
