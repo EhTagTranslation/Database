@@ -13657,6 +13657,7 @@ example:
 | system creature | システムクリーチャー |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204094/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204094/) |
 | northern rf | NorthernRF |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01012708.html) |
 | kunifuto work | くにふとわーく |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21909.html) \| [dmm](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71350/) |
+| hokoriya-san | ほこり屋さん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01053849.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
