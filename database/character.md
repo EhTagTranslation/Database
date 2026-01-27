@@ -5335,7 +5335,7 @@ example:
 | arjuna | 阿周那 |  |  |
 | ashwatthama | 马嘶 |  |  |
 | shirou amakusa | 天草四郎 |  |  |
-| oberon | 奥伯龙 |  |  |
+| oberon | 须乡伸之（奥伯龙） | ![](https://static.wikia.nocookie.net/swordartonline/images/5/53/Sugou_Nobuyuki_Full_Body.png)<br>所属作品：`sword art online`<br>日语：須郷伸之 | [Fandom](https://swordartonline.fandom.com/wiki/Sugou_Nobuyuki) |
 | ashiya douman | 芦屋道满 |  |  |
 | robin hood | 罗宾汉 |  |  |
 | ryouma sakamoto | 坂本龙马 |  |  |
