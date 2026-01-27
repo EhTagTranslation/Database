@@ -1684,7 +1684,7 @@ example:
 | serval | 薮猫 | ![图](https://ehgt.org/4b/5c/4b5ce2bb126e5d9798737c09d58aa97417cb2ea1-775805-800-1241-jpg_l.jpg) |  |
 | common raccoon | 浣熊 |  |  |
 | fennec | 耳廓狐 |  |  |
-| ezo red fox | 北狐 |  |  |
+| ezo red fox | 北狐 | ![](https://ehgt.org/w/00/835/32445-485227oo.webp)<br>出自作品：`p:kemono friends`<br><br>北狐（日语：キタキツネ）是由Kemono Friends Project发起的跨媒体企划《兽娘动物园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兽娘动物园:北狐) |
 | silver fox | 银狐 | ![](https://ehgt.org/w/00/593/04575-pdabk4fp.webp)<br>出自作品：`p:kemono friends`<br><br>银狐（日语：ギンギツネ）是由Kemono Friends Project发起的跨媒体企划《兽娘动物园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兽娘动物园:银狐) |
 | moose | 驼鹿 |  |  |
 | shoebill | 鲸头鹳 |  |  |
