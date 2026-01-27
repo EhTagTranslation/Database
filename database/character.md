@@ -2475,7 +2475,7 @@ example:
 |  | ▼ 哆啦A梦 |  |  |
 | doraemon | 哆啦A梦 | 所属作品：`p:doraemon` |  |
 | nobita nobi | 野比大雄 |  |  |
-| shizuka minamoto | 源静香 |  |  |
+| shizuka minamoto | 源静香 | ![](https://ehgt.org/w/01/956/13755-v2vt5znq.webp)<br>出自作品：`p:doraemon`<br><br>源静香（源（みなもと） 静香（しずか））是藤子·F·不二雄创作的漫画《哆啦A梦》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/源静香) |
 | suneo honekawa | 骨川小夫 |  |  |
 | takeshi gouda | 刚田武（胖虎） |  |  |
 | tamako nobi | 野比玉子 |  |  |
