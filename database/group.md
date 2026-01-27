@@ -13652,6 +13652,7 @@ example:
 | sistny and anasis | Sistny&Anasis |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38356.html) |
 | hachiware shoukai | ハチワレ商会 |  |  |
 | suppottnoze | サポットノーズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45550.html) |
+| hekatoncheir | HEKATONCHEIR |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG47119.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
