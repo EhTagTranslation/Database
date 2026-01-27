@@ -3619,7 +3619,7 @@ example:
 | kei yuuki | 结城萤 |  |  |
 | tadayasu sawaki | 泽木直保 |  |  |
 | sortiliena serlut | 索尔狄丽娜·赛路尔特 |  | [萌娘百科](https://zh.moegirl.org.cn/索尔狄丽娜·赛路尔特) |
-| ronye arabel | 罗妮耶·亚拉贝尔 | ![](https://static.wikia.nocookie.net/swordartonline/images/1/17/Ronye_Arabel_Full_Body.png)<br>所属作品：`sword art online` | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
+| ronye arabel | 罗妮耶·亚拉贝尔 | ![](https://static.wikia.nocookie.net/swordartonline/images/1/17/Ronye_Arabel_Full_Body.png)<br>所属作品：`sword art online`<br>日语：ロニエ・アラベル | [萌娘百科](https://zh.moegirl.org.cn/罗妮耶·亚拉贝尔) |
 | tamami wakiyama | 胁山珠美 | ![](https://patchwiki.biligame.com/images/imascg/thumb/a/ab/9opi8r3rjjjj9dibcy8wq28qdi4v9c3.png/960px-CGSS-Tamami-3D-1.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》 | [萌娘百科](https://zh.moegirl.org.cn/胁山珠美) |
 | mimi akane | 茜美美 | ![](https://static.wikia.nocookie.net/princess-connect/images/c/c3/Mimi_%28game%29.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/茜美美) [bilibili游戏](https://wiki.biligame.com/pcr/美美) |
 | ashley graham | 阿什莉·格拉汉姆 | ![](https://ehgt.org/w/02/101/13064-6wxswln1.webp)<br>出自作品：`p:resident evil`<br><br>阿什莉·格拉汉姆，女，是《生化危机4》中女主角，20岁,美国总统的千金，是里昂·斯科特·肯尼迪任务的解救对象，阿什莉·格拉汉姆对里昂有好感。 | [萌娘百科](https://zh.moegirl.org.cn/阿什莉·格拉汉姆) |
