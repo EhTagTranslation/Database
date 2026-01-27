@@ -3065,7 +3065,7 @@ example:
 | hex maniac | 灵异迷 | ![](https://s1.52poke.com/wiki/thumb/9/9f/灵异迷_XY.png/325px-灵异迷_XY.png)<br>所属作品：`pokemon`<br>日文︰オカルトマニア | [萌娘百科](https://zh.moegirl.org.cn/灵异迷) |
 | hypno | 引梦貘人 |  |  |
 | lana | 水莲 | ![](https://s1.52poke.com/wiki/thumb/1/1c/水蓮_SM.png/511px-水蓮_SM.png?20210625142459)<br>所属作品：`pokemon`<br>日文︰スイレン |  |
-| lanas mom | 水莲妈妈 | ![](https://ehgt.org/w/02/071/21088-1s4682pd.webp)<br>水莲的妈妈 |  |
+| lanas mom | 水莲妈妈 | ![](https://ehgt.org/w/02/071/21088-1s4682pd.webp)<br>出自作品：`p:pokemon`<br><br>水莲的妈妈 |  |
 | kiawe | 卡奇 | ![](https://s1.52poke.com/wiki/thumb/d/d2/卡奇_SM.png/243px-卡奇_SM.png)<br>所属作品：`pokemon`<br>日文︰カキ |  |
 | elio | 小阳 | ![](https://s1.52poke.com/wiki/thumb/7/7b/小陽_USUM.png/261px-小陽_USUM.png)<br>所属作品：`pokemon`<br>日文名：ヨウ |  |
 | pikachu | 皮卡丘 |  |  |
