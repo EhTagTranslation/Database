@@ -6328,7 +6328,7 @@ example:
 | tsugumi shirasaki | 白崎绪美 | 所属作品: `p:daitoshokan no hitsujikai` | [萌娘百科](https://zh.moegirl.org.cn/白崎绪美) |
 | theresa | 特蕾西娅 | ![](https://patchwiki.biligame.com/images/arknights/e/e6/d3oexsygvkj0ya2gpv935tuj13a2foz.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/特蕾西娅%28明日方舟%29) |
 | orsola aquinas | 奥索拉·阿奎纳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/26/22/01/12/132003918_p0_master1200.jpg)<br>所属作品: `p:toaru project` | [萌娘百科](https://zh.moegirl.org.cn/奥索拉·阿奎纳) [Fandom](https://toarumajutsunoindex.fandom.com/wiki/Orsola_Aquinas) |
-| neuro-sama | Neuro-sama | 别称：neuro、牛肉、神经大人![](https://upload.wikimedia.org/wikipedia/zh/d/d0/Neurosama_new_model.png) | [维基百科](https://zh.wikipedia.org/wiki/Neuro-sama) [萌娘百科](https://zh.moegirl.org.cn/Neuro-sama) |
+| neuro-sama | Neuro-sama | ![](https://ehgt.org/w/01/313/60273-c0kwg5v5.webp)<br>Neuro-sama是一名活跃于Twitch、bilibili等平台的AI虚拟主播。<br>别称：neuro、牛肉、神经大人! | [维基百科](https://zh.wikipedia.org/wiki/Neuro-sama) [萌娘百科](https://zh.moegirl.org.cn/Neuro-sama) |
 | yuki nonaka | 野中柚希 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/17/20/24/35/132801963_p1_master1200.jpg)<br>所属作品: `p:shinmai maou no testament` | [Fandom](https://shinmaimaou.fandom.com/wiki/Yuki_Nonaka) |
 | basara toujou | 东城刃更 | 所属作品: `p:shinmai maou no testament` | [Fandom](https://shinmaimaou.fandom.com/wiki/Basara_Toujou) [百度百科](https://baike.baidu.com/item/東城刃更) |
 | erica blandelli | 艾丽卡·布朗特里 | 所属作品: `p:campione` | [萌娘百科](https://zh.moegirl.org.cn/艾丽卡·布朗特里) [维基百科](https://zh.wikipedia.org/wiki/Campione_弒神者！角色列表#主要角色) |
