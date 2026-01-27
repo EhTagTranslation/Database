@@ -6172,7 +6172,7 @@ example:
 | traptrix nepenthes | 蜜笼之虫惑魔 |  |  |
 | diabellstar the black witch | 黑魔女 迪亚贝尔斯塔 |  |  |
 | traptrix pinguicula | 蜜堇之虫惑魔 |  | [萌娘百科](https://zh.moegirl.org.cn/蜜堇之虫惑魔) |
-| tearlaments kitkallos | 泪冠哀歌・琪多卡洛斯 |  |  |
+| tearlaments kitkallos | 泪冠哀歌・琪多卡洛斯 | ![](https://ehgt.org/w/01/918/69281-4ss6gy6r.webp)<br>出自作品：`p:yu-gi-oh` | [萌娘百科](https://zh.moegirl.org.cn/泪冠哀歌·琪多卡洛斯) |
 | tearlaments scheiren | 泪冠哀歌・赛莲 |  |  |
 | tour guide from the underworld | 魔界发现世行死亡向导 | 由魔界到现世的死亡导游 |  |
 | tri-brigade kitt | 铁兽战线 姬特 | ![](https://thumbsnap.com/i/VVv12fNY.jpg)<br>出自作品：`p:yu-gi-oh`<br><br>初收录于数字盒1103《炽热漩涡》，为“铁兽战线”系列的成员。 | [萌娘百科](https://zh.moegirl.org.cn/铁兽战线_姬特) |
