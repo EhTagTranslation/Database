@@ -14747,6 +14747,7 @@ example:
 | suigi | スイギ |  | [alice-books](https://alice-books.com/item/list/all?tag=スイギ) |
 | kuromu | クロム |  | [BOOTH](https://kurom960.booth.pm/) |
 | eba uenihane | 絵羽 |  | [X](https://x.com/eva01050105) |
+| ari and mura | 蟻アンド村 |  | [pixiv](https://www.pixiv.net/users/31199782) \| [Fantia](https://fantia.jp/fanclubs/6266) |
 
 <!--TEMPLATE:
 |  |  |  |  |
