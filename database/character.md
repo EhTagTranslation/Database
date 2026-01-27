@@ -3175,7 +3175,7 @@ example:
 | olivia | 奥莉薇亚 \| 奥利薇 | ①<br>![](https://lain.bgm.tv/r/400/pic/crt/l/5b/98/106751_crt_98z8F.jpg?r=1653876422)<br>日文：オリヴィア<br>所属作品：`otome game sekai wa mob ni kibishii sekai desu`<br><br>②<br>![](https://static.wikia.nocookie.net/fireemblem/images/4/48/Olivia_FE13_Art.png/revision/latest?cb=20160810114900)<br>日文：オリヴィエ<br>所属作品：`fire emblem awakening` | [`otome game sekai wa mob ni kibishii sekai desu`：奥莉薇亚](https://mobuseka.fandom.com/wiki/Olivia)<br>[`fire emblem awakening`：奥利薇](https://fireemblem.fandom.com/wiki/Olivia) |
 | kasumi nomura | 野村香纯 |  |  |
 | merribit stapleton | 梅莉毕德･斯泰普尔顿 |  |  |
-| tanya von degurechaff | 谭雅·提古雷查夫 |  |  |
+| tanya von degurechaff | 谭雅·提古雷查夫 | ![](https://ehgt.org/w/02/001/07020-b4bxayeh.webp)<br>出自作品：`p:youjo senki`<br><br>谭雅·提古雷查夫（Tanya von Degurechaff）是Carlo Zen所创作的小说《幼女战记》及其衍生漫画、动画的登场角色。女男主角。 | [萌娘百科](https://zh.moegirl.org.cn/谭雅·提古雷查夫) |
 | viktoriya ivanovna serebryakov | 维夏 |  |  |
 | takamiya rion | 鹰宫莉音 | 鹰宫莉音是一名从2018年8月9日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。原SEEDs二期出身，人前扮演着优等生大小姐的角色，私人里是让人感觉总是没在正确地方思考的笨蛋角色，因为对人前扮演感到疲累，为了打发时间而开始直播。<br>主要以杂谈和游戏直播为主，偶尔组织了不少有意思的大型联动企划。 | [萌娘百科](https://zh.moegirl.org.cn/鹰宫莉音) |
 | ruka sarashina | 更科瑠夏 | 所属作品: `p:kanojo okarishimasu`<br>本作女主角之一。患有心律不整，每分钟心跳不足60下。<br>![](https://img.moegirl.org.cn/common/e/ec/68428822_p0.png) | [萌娘百科](https://zh.moegirl.org.cn/更科瑠夏) |
