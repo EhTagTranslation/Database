@@ -1881,7 +1881,7 @@ example:
 | boudica | 布狄卡 | ![图](https://ehgt.org/e4/e0/e4e06fc490c2c1b099ff48af1484cd8e10ea7fa0-1986579-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/布狄卡%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/布狄卡) |
 | mysterious heroine x | 谜之女主角X | ![图](https://ehgt.org/8b/41/8b41931ad5887b0afffc8c57287244aadd0a6078-2245947-1024-1448-png_l.jpg)<br>出自作品：`p:fate grand order`<br><br>谜之女主角X是2013年的TYPE-MOON愚人节企划《路地裏さつき ヒロイン十二宮編》当中出现的角色，与弓冢五月、紫苑·艾尔特纳姆·阿特拉西亚、莉兹拜斐·斯托琳多巴利、希耶尔等人同为主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/谜之女主角X) [Mooncell](http://www.fgo.wiki/w/谜之女主角X) |
 | mysterious heroine x alter | 谜之女主角X〔Alter〕 | ![图](https://ehgt.org/5d/5b/5d5b1ec3a6d177562865e0793dfb44b3d32f99d1-2333479-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/谜之女主角X_Alter) [Mooncell](http://www.fgo.wiki/w/谜之女主角X〔Alter〕) |
-| olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 |  |  |
+| olga marie animusphere | 奥尔加玛丽·阿尼姆斯菲亚 | ![](https://ehgt.org/w/02/019/24323-812bvh9a.webp)<br>出自作品：`p:fate grand order`<br><br>奥尔加玛丽·阿尼姆斯菲亚是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色。在游戏《Fate/Grand Order》中初次登场，之后又在漫画《MELTY BLOOD 小巷子噩梦》中出场。<br><br>在《君主·埃尔梅罗二世事件簿》中作为奥尔加玛丽·亚斯密雷特·阿尼姆斯菲亚（オルガマリー·アースミレイト·アニムスフィア，Olga-Marie Arsimilat Animusphere）登场。 | [萌娘百科](https://zh.moegirl.org.cn/奥尔加玛丽·阿尼姆斯菲亚) |
 | paul bunyan | 保罗·班扬 |  |  |
 | kiara sessyoin | 杀生院祈荒 |  |  |
 | astolfo | 阿斯托尔福 | 阿斯托尔福是TYPE-MOON旗下《Fate》系列作品中的登场角色，在轻小说《`p:fate apocrypha`》中初次登场。<br>法国经典骑士道故事——查理曼传说中的登场人物，查理曼十二圣骑士之一，也是英格兰王子。<br>超级随性的人，因为理性蒸发的缘故，比起有益或无益，更注重自己心情是否愉快，相当乐天派的骑士。<br><br>根据本人的要求，性别是个秘密。<br>![阿福一破](https://img.moegirl.org.cn/common/2/20/阿福一破.png)![图利法斯的回忆](https://img.moegirl.org.cn/common/3/39/Astolfo_clothes.png) | [萌娘百科](https://zh.moegirl.org.cn/阿斯托尔福) |
