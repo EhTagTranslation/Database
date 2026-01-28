@@ -13662,6 +13662,7 @@ example:
 | noushuku kangen teikoku | 濃縮還元帝国 |  |  |
 | nanohana jam | なのはなジャム |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200340/) |
 | treedrop | TreeDrop |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62634.html) |
+| fuwatoro opanchu cake | ふわとろおぱんちゅケーキ |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202962/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
