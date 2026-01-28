@@ -8398,6 +8398,7 @@ example:
 | colphne | 寇尔芙 | `p:girls frontline`<br>少女前线2：追放 | [少前2 Wiki](https://gf2.mcc.wiki/doll/ColphneSR) |
 | faye | faye | 这是一个常见的通用角色名称，不属于某特定作品 |  |
 | nikita | nikita | 这是一个常见的通用角色名称，不属于某特定作品 |  |
+| andoris | 安朵丝 | `p:girls frontline`<br>少女前线2：追放 | [少前2Wiki](https://gf2.mcc.wiki/doll/AndorisSSR) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
