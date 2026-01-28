@@ -1901,7 +1901,7 @@ example:
 | nightingale | 南丁格尔 \| 夜莺 | `fate grand order` 南丁格尔<br>![图](https://ehgt.org/fa/0a/fa0a567afa715d23b3aaaa5687124b0f39baf819-1033365-1024-1456-png_l.jpg)<br>`arknights` 夜莺<br>![](https://patchwiki.biligame.com/images/arknights/0/04/hzvmchmbrnknz6ub6uaovho5w1u3ck9.png) | [南丁格尔 - 萌娘百科](https://zh.moegirl.org.cn/南丁格尔%28Fate%29#)<br>[夜莺 - 萌娘百科](https://zh.moegirl.org.cn/明日方舟:夜莺) |
 | cornelius alba | 科尼利厄斯·阿鲁巴 |  |  |
 | arcueid brunestud | 爱尔奎特·布伦史塔德 | ![](https://ehgt.org/w/02/107/11181-390tutab.webp)<br>出自作品：`p:tsukihime`<br><br>爱尔奎特·布伦史塔德是游戏《月姬》及其衍生作品的登场角色，《月姬》女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/爱尔奎特·布伦史塔德) |
-| ciel | 希耶尔 |  |  |
+| ciel | 希耶尔 | ![](https://ehgt.org/w/02/084/07175-sqzc2bs3.webp)<br>出自作品：`p:tsukihime`<br><br>希耶尔（Ciel）是TYPE-MOON旗下游戏《月姬》及其衍生作品的登场角色，《月姬》的女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/希耶尔%28月姬%29) |
 | circe | 喀耳刻 | ![图](https://ehgt.org/bb/f7/bbf7ad647639991a5c0925481a70635d4146e2eb-2093744-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/喀耳刻%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/俄刻阿诺斯的Caster) |
 | satsuki yumizuka | 弓冢五月 |  |  |
 | shiki tohno | 远野志贵 |  |  |
