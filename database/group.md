@@ -13659,6 +13659,7 @@ example:
 | kunifuto work | くにふとわーく |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG21909.html) \| [dmm](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71350/) |
 | hokoriya-san | ほこり屋さん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01053849.html) |
 | watashi ga ichiban kawaii | 私が一番かわいい |  |  |
+| noushuku kangen teikoku | 濃縮還元帝国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
