@@ -8393,6 +8393,7 @@ example:
 | neru akita | 亚北音留 | ![](https://ehgt.org/w/00/248/88986-2x43c0k3.webp)<br>出自作品：`p:vocaloid`<br><br>亚北音留（亞北ネル）是初音未来的亚种之一，该角色首次发布是在2007年11月1日——作者スミス・ヒオカ（Smith Hioka）在2ch上发布了几张亚北音留的画作。2008年被官方承认，正式成为VOCALOID系列的亚种。 | [萌娘百科](https://zh.moegirl.org.cn/亚北音留) |
 | yuki tsukumo | 九十九由基 | ![](https://ehgt.org/w/02/123/62272-8sc4sow9.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>九十九由基（日语：九十九（つくも） 由基（ゆき））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/九十九由基) |
 | riko amanai | 天内理子 | ![](https://ehgt.org/w/02/057/80009-iawnpphb.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>天内理子（日语：天内（あまない） 理子（りこ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天内理子) |
+| francesca prelati | 弗朗索瓦·普雷拉蒂 | ![](https://static.wikia.nocookie.net/typemoon/images/6/6d/Francesca_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：フランチェスカ・プレラーティ | [百度百科](https://baike.baidu.com/item/弗朗索瓦·普雷拉蒂/22726192) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
