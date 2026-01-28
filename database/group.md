@@ -13660,7 +13660,7 @@ example:
 | hokoriya-san | ほこり屋さん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01053849.html) |
 | watashi ga ichiban kawaii | 私が一番かわいい |  |  |
 | noushuku kangen teikoku | 濃縮還元帝国 |  |  |
-| nanohana jam | なのはなジャム |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200340/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200340/) |
+| nanohana jam | なのはなジャム |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200340/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
