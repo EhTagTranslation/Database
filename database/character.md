@@ -8397,6 +8397,7 @@ example:
 | ayaka sajyou | 沙条绫香 | ![](https://static.wikia.nocookie.net/typemoon/images/1/12/Ayaka_Sajyou_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：アヤカ・サジョウ | [百度百科](https://baike.baidu.com/item/沙条绫香/17870256) |
 | colphne | 寇尔芙 | `p:girls frontline`<br>少女前线2：追放 | [少前2 Wiki](https://gf2.mcc.wiki/doll/ColphneSR) |
 | faye | faye | 这是一个常见的通用角色名称，不属于某特定作品 |  |
+| nikita | nikita | 这是一个常见的通用角色名称，不属于某特定作品 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
