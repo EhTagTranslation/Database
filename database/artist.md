@@ -12509,7 +12509,7 @@ example:
 | haruri | HARURI |  | [pixiv](https://www.pixiv.net/users/14772638) [X](https://x.com/HARURI52) |
 | sumina en | 澄名エン |  | [pixiv](https://www.pixiv.net/users/35706033) [X](https://x.com/ensumina) |
 | jinja eru | 神社えーる |  | [pixiv](https://www.pixiv.net/users/21680697) [X](https://x.com/jinjashurine) |
-| nukeru | ヌケル |  | [pixiv](https://www.pixiv.net/users/58172120) [X](https://x.com/nomorenukeru) |
+| nukeru | ヌケル |  | [pixiv](https://www.pixiv.net/users/58172120) [X](https://x.com/datendeath) |
 | musui ethanol | 無水エタノール |  | [pixiv](https://www.pixiv.net/users/41280283) [X](https://x.com/GorillArtist) |
 | mori sinrisk | 森シンリスク |  | [pixiv](https://www.pixiv.net/users/3433) [X](https://x.com/sinrisk) |
 | moegi | 萌葱 |  |  |
