@@ -8401,6 +8401,7 @@ example:
 | andoris | 安朵丝 | `p:girls frontline`<br>少女前线2：追放 | [少前2Wiki](https://gf2.mcc.wiki/doll/AndorisSSR) |
 | pkp | PKP | `p:girls frontline` |  |
 | aug | AUG | `p:girls frontline` |  |
+| rokuro okajima | 冈岛绿郎（洛克） |  | [萌娘百科](https://zh.moegirl.org.cn/洛克%28黑礁%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
