@@ -8405,6 +8405,7 @@ example:
 | cutter | 刻刀 | ![](https://patchwiki.biligame.com/images/arknights/4/4a/fw4dvzvli4m2095okx80t5db7wbbov2.png)<br>出自作品：`p:arknights`<br><br>刻刀是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刻刀) \| [BILIGAME WIKI](https://wiki.biligame.com/arknights/刻刀) |
 | android 17 | 人造人17号 |  |  |
 | tikoh | 缇可 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4b/Zoom_3040337000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040337000) |
+| akiko ayase | 绫濑亚季子 | ![](https://static.wikia.nocookie.net/gimai-seikatsu/images/d/db/AkikoAyase.png)<br>所属作品：`gimai seikatsu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
