@@ -14758,6 +14758,7 @@ example:
 | comichi pota | こみちぽた |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22こみちぽた%22/ana_flg/all) |
 | masu | ます |  |  |
 | tsumeshi nana | ツメシ七 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ツメシ七%22) |
+| koeda mameko | 小枝まめ子 |  | [DMM](https://book.dmm.co.jp/list/?author=322007) |
 
 <!--TEMPLATE:
 |  |  |  |  |
