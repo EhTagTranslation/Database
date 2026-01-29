@@ -8406,6 +8406,7 @@ example:
 | android 17 | 人造人17号 |  |  |
 | tikoh | 缇可 | ![](https://huiji-public.huijistatic.com/gbf/uploads/4/4b/Zoom_3040337000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040337000) |
 | akiko ayase | 绫濑亚季子 | ![](https://static.wikia.nocookie.net/gimai-seikatsu/images/d/db/AkikoAyase.png)<br>所属作品：`gimai seikatsu` |  |
+| tio | 缇奥·库拉鲁斯 | ![](https://ehgt.org/w/02/219/08924-uqfoldpq.webp)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>日文：ティオ・クラルス |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
