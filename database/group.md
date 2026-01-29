@@ -13665,6 +13665,7 @@ example:
 | fuwatoro opanchu cake | ふわとろおぱんちゅケーキ |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202962/) |
 | ekaran ringo | えからん林檎 |  |  |
 | short kami | short\_kami |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46982.html) |
+| shichikusa-gayu | シチ草粥 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038210.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
