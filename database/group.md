@@ -2768,7 +2768,7 @@ example:
 | ame no nikki | 雨のにっき |  |  |
 | amecir | あめさー |  |  |
 | amedamazakura | 飴玉桜 |  |  |
-| amefurasy | amefurasy |  |  |
+| amefurasy | amefurasy |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54573.html) |
 | amefuri canvas | 雨ふりキャンバス |  |  |
 | ameiro biscuit | 飴色ビスケット |  |  |
 | amemizu | あめみず |  |  |
