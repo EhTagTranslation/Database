@@ -2623,7 +2623,7 @@ example:
 | jam kuradoberi | 藏土缘纱梦 |  |  |
 | ramlethal valentine | 拉姆蕾萨尔·华伦泰 |  |  |
 | alisa ilinichina amiella | 亚莉莎·伊莉妮提娜·阿米耶拉 | ![](https://ehgt.org/w/01/875/32829-ggj3f42h.webp)<br>所属作品：`god eater` |  |
-| lara croft | 劳拉·克罗夫特 |  |  |
+| lara croft | 劳拉·克劳馥 | ![](https://ehgt.org/w/01/225/51426-tgk1dwea.webp)<br>出自作品：`p:tomb raider`<br><br>劳拉·克劳馥（劳拉·克罗夫特(官方简体)/萝拉·卡芙特(官方繁体)/Lara Croft）是水晶动力开发的动作冒险游戏《古墓丽影系列》（Tomb Raider）的主角。《古墓丽影》系列现由史克威尔艾尼克斯发行。 | [萌娘百科](https://zh.moegirl.org.cn/劳拉·克劳馥) |
 | naoto shirogane | 白钟直斗 | ![](https://img.moegirl.org.cn/common/5/5e/Naoto_Shirogane_render.png)<br>日语：しろがね なおと<br>Atlus旗下游戏《女神异闻录》系列的正传作品《女神异闻录4》及其衍生作品的主要角色。<br>拥有“侦探王子”称号的俊美少女，但打扮得非常像男生，也就是所谓的男装丽人。 | [萌娘百科](https://zh.moegirl.org.cn/白钟直斗) |
 | hajime ichinose | 一之濑初 |  |  |
 | rabi en rose | 拉比安露斯 |  |  |
