@@ -14757,6 +14757,7 @@ example:
 | dodomesu3sei | ドドメス3世 |  | [pixiv](https://www.pixiv.net/users/36727687) \| [FANBOX](https://dodomose3.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/159832) \| [X](https://x.com/Dodomose_3) |
 | comichi pota | こみちぽた |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22こみちぽた%22/ana_flg/all) |
 | masu | ます |  |  |
+| tsumeshi nana | ツメシ七 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ツメシ七%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
