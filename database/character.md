@@ -8402,6 +8402,7 @@ example:
 | pkp | PKP | `p:girls frontline` |  |
 | aug | AUG | `p:girls frontline` |  |
 | rokuro okajima | 冈岛绿郎（洛克） |  | [萌娘百科](https://zh.moegirl.org.cn/洛克%28黑礁%29#) |
+| cutter | 刻刀 | ![](https://patchwiki.biligame.com/images/arknights/4/4a/fw4dvzvli4m2095okx80t5db7wbbov2.png)<br>出自作品：`p:arknights`<br><br>刻刀是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/刻刀) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
