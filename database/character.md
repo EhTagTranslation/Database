@@ -8411,6 +8411,7 @@ example:
 | konoha koga | 古贺木叶 | ![](https://static.wikia.nocookie.net/ninkoro/images/9/91/Konoha.png)<br>所属作品：`ninja to koroshiya no futarigurashi`<br>日语：古賀このは |  |
 | alisa bosconovitch | 亚莉莎·伯斯科诺维奇 | ![](![](https://p325k7wa.twic.pics/high/tekken/tekken-8/02-characters/new-gallery/Wide/Alisa_new.png)<br>所属作品：`tekken` |  |
 | miary zo | 米娅莉·佐 | 所属作品：`tekken` |  |
+| jodie karen bakuryuu | 裘蒂‧爆龙‧卡莲 | 所属作品：`kochikame` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
