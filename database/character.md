@@ -8408,6 +8408,7 @@ example:
 | akiko ayase | 绫濑亚季子 | ![](https://static.wikia.nocookie.net/gimai-seikatsu/images/d/db/AkikoAyase.png)<br>所属作品：`gimai seikatsu` |  |
 | tio | 缇奥·库拉鲁斯 | ![](https://ehgt.org/w/02/219/08924-uqfoldpq.webp)<br>所属作品：`arifureta shokugyou de sekai saikyou`<br>日文：ティオ・クラルス |  |
 | azami | 薊 | ![](https://static.wikia.nocookie.net/kagerouproject/images/1/17/Azami_mn.jpg)<br>所属作品：`kagerou project`<br>日语：アザミ |  |
+| konoha koga | 古贺木叶 | ![](https://static.wikia.nocookie.net/ninkoro/images/9/91/Konoha.png)<br>所属作品：`ninja to koroshiya no futarigurashi`<br>日语：古賀このは |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
