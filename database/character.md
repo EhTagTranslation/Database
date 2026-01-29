@@ -8410,6 +8410,7 @@ example:
 | azami | 薊 | ![](https://static.wikia.nocookie.net/kagerouproject/images/1/17/Azami_mn.jpg)<br>所属作品：`kagerou project`<br>日语：アザミ |  |
 | konoha koga | 古贺木叶 | ![](https://static.wikia.nocookie.net/ninkoro/images/9/91/Konoha.png)<br>所属作品：`ninja to koroshiya no futarigurashi`<br>日语：古賀このは |  |
 | alisa bosconovitch | 亚莉莎·伯斯科诺维奇 | ![](![](https://p325k7wa.twic.pics/high/tekken/tekken-8/02-characters/new-gallery/Wide/Alisa_new.png)<br>所属作品：`tekken` |  |
+| miary zo | 米娅莉·佐 | 所属作品：`tekken` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
