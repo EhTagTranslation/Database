@@ -4563,7 +4563,7 @@ example:
 | yanagi uzaki | 宇崎柳 |  |  |
 | baiken | 梅喧 |  |  |
 | asuka kazama | 风间飞鸟 | ![](https://p325k7wa.twic.pics/high/tekken/tekken-8/02-characters/new-gallery/Wide/Asuka_new.png)<br>所属作品：`tekken` |  |
-| lili rochefort | 莉莉·罗舍福尔 |  |  |
+| lili rochefort | 莉莉·罗舍福尔 | ![](https://ehgt.org/w/02/054/89014-cytgt91m.webp)<br>所属作品：`tekken` |  |
 | shizuko kawawa | 河和静子 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，庆典运营委员会的委员长。<br>![](https://patchwiki.biligame.com/images/ba/5/5b/hsh03j5zm3k57epuxt8udzpsr0xf797.png)<br>![](https://patchwiki.biligame.com/images/ba/4/40/l4y240rfbcer6tbr8l1xxlsfxlfpx9n.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kawawa_Shizuko)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Shizuko) |
 | akira kiyosumi | 清澄晶 | 所属作品：`p:blue archive`<br>七囚人之一，称号“慈爱的怪盗”。<br>对艺术品有着独到的见解与执着，为了贯彻自己的美学而不断偷盗。<br>![](https://static.wikia.nocookie.net/blue-archive/images/e/e6/Akira_Mask_Portrait.png/revision/latest?cb=20230610131917) | [Fandom](https://bluearchive.fandom.com/wiki/Kiyosumi_Akira)<br>[萌娘百科](https://zh.moegirl.org.cn/清澄晶) |
 | kanji sasahara | 笹原完士 |  |  |
