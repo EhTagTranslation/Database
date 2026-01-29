@@ -4190,7 +4190,7 @@ example:
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
 | kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
 | nilou | 妮露 | ![](https://patchwiki.biligame.com/images/ys/c/c5/oddm62d1cvn6gyl7xi1blu2o7c22kyc.gif)<br>所属作品:`p:genshin impact`<br>祖拜尔剧场的知名舞者，舞姿灵动优美，为人纯真亲善。 | [萌娘百科](https://zh.moegirl.org.cn/妮露%28原神%29) |
-| princess elsa | 艾莎公主 | 迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。 |  |
+| princess elsa | 艾莎公主 | ![](https://ehgt.org/w/02/129/33111-0a9cv5dt.webp)<br>出自作品：`p:frozen`<br><br>迪士尼动画电影《冰雪奇缘》及其衍生作品中的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/艾莎%28冰雪奇缘%29) |
 | kristoff bjorgman | 克斯托夫 | 动画电影《冰雪奇缘》系列中的角色 |  |
 | athrun zala | 阿斯兰·萨拉 |  |  |
 | rey za burrel | 雷·札·巴雷尔 |  |  |
