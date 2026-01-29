@@ -14759,6 +14759,7 @@ example:
 | masu | ます |  |  |
 | tsumeshi nana | ツメシ七 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ツメシ七%22) |
 | koeda mameko | 小枝まめ子 |  | [DMM](https://book.dmm.co.jp/list/?author=322007) |
+| natane tsuyu | 菜種梅雨 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22菜種梅雨%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
