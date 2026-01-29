@@ -13666,6 +13666,7 @@ example:
 | ekaran ringo | えからん林檎 |  |  |
 | short kami | short\_kami |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46982.html) |
 | shichikusa-gayu | シチ草粥 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01038210.html) |
+| parapluie | parapluie |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204276/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
