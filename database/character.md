@@ -8439,6 +8439,7 @@ example:
 | kuriko kazetsubaki | 风椿玖里子 | ![](https://static.wikia.nocookie.net/maburaho/images/c/c6/Kuriko.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Kuriko_Kazetsubaki) |
 | rin kamishiro | 神城凛 | ![](https://static.wikia.nocookie.net/maburaho/images/5/55/Sample-3c40d83dd7d8718f8f541257d7c6eb54.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Rin_Kamishiro) |
 | yuna miyama | 宫间夕菜 | ![](https://static.wikia.nocookie.net/maburaho/images/3/3f/Sample-4b417945f01a6ed4005c8b601f710d9d.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Yuna_Miyama) |
+| yao | 瑶 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:瑶) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
