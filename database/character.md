@@ -8431,6 +8431,7 @@ example:
 | marimo jinguuji | 神宫司麻理茉 | ![](https://static.wikia.nocookie.net/muvluv/images/1/1e/Marimo_Chronicles_04_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Jinguuji_Marimo) |
 | mana tsukuyomi | 月咏真那 | ![](https://static.wikia.nocookie.net/muvluv/images/a/a6/Mana_Maid_Full_Body.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Tsukuyomi_Mana) |
 | miki tamase | 珠濑壬姬 | ![](https://static.wikia.nocookie.net/muvluv/images/3/3e/Miki_School.png)<br>所属作品：`muv-luv`<br>日语：たませ みき | [Fandom](https://muvluv.fandom.com/wiki/Tamase_Miki) |
+| chizuru sakaki | 榊千鹤 | ![](https://static.wikia.nocookie.net/muvluv/images/7/7e/Chizuru_Alternative_UN_Uniform.png)<br>所属作品：`muv-luv`<br>日语：さかき ちづる | [Fandom](https://muvluv.fandom.com/wiki/Sakaki_Chizuru) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
