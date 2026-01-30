@@ -8433,6 +8433,7 @@ example:
 | miki tamase | 珠濑壬姬 | ![](https://static.wikia.nocookie.net/muvluv/images/3/3e/Miki_School.png)<br>所属作品：`muv-luv`<br>日语：たませ みき | [Fandom](https://muvluv.fandom.com/wiki/Tamase_Miki) |
 | chizuru sakaki | 榊千鹤 | ![](https://static.wikia.nocookie.net/muvluv/images/7/7e/Chizuru_Alternative_UN_Uniform.png)<br>所属作品：`muv-luv`<br>日语：さかき ちづる | [Fandom](https://muvluv.fandom.com/wiki/Sakaki_Chizuru) |
 | haruko kashiwagi | 柏木晴子 | ![](https://static.wikia.nocookie.net/muvluv/images/8/84/Haruko_Chronicles_03.png)<br>所属作品：`muv-luv`<br>日语：かしわぎ はるこ | [Fandom](https://muvluv.fandom.com/wiki/Kashiwagi_Haruko) |
+| kasumi yashiro | 社霞 | ![](https://static.wikia.nocookie.net/muvluv/images/e/ea/Kasumi_Alternative_UN_Uniform.png)<br>所属作品：`muv-luv`<br>日语：やしろ かすみ | [Fandom](https://muvluv.fandom.com/wiki/Yashiro_Kasumi) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
