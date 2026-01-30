@@ -13670,6 +13670,7 @@ example:
 | anko strawberry | あんこストロベリー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45111.html) |
 | onakin data land | オナ禁データランド |  |  |
 | pizuneru | ぴずねる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49075.html) |
+| onoko ya honpo | おのこ屋本舗 |  | [DLsite](https://www.dlsite.com/bl/circle/profile/=/maker_id/RG65388.html) \| [BOOTH](https://akirakamiwo.booth.pm/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
