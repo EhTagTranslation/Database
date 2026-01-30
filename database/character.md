@@ -8441,6 +8441,7 @@ example:
 | yuna miyama | 宫间夕菜 | ![](https://static.wikia.nocookie.net/maburaho/images/3/3f/Sample-4b417945f01a6ed4005c8b601f710d9d.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Yuna_Miyama) |
 | yao | 瑶 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:瑶) |
 | wang zhaojun | 王昭君 | 《王者荣耀》角色 | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:王昭君) |
+| shangguan waner | 上官婉儿 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:上官婉儿) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
