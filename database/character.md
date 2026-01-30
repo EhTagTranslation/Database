@@ -8420,6 +8420,7 @@ example:
 | beatrix brehme | 贝娅特丽克丝·布莱梅 | ![](https://static.wikia.nocookie.net/muvluv/images/8/82/Beatrix_Fortified_Suit_1.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Beatrix_Brehme) |
 | sumika kagami | 鉴纯夏 | ![](https://static.wikia.nocookie.net/muvluv/images/c/c5/Sumika_AF_Swimsuit.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Kagami_Sumika) |
 | takeru shirogane | 白银武 | ![](https://static.wikia.nocookie.net/muvluv/images/b/b6/Takeru_AF_School_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Shirogane_Takeru) |
+| inia sestina | 伊尼亚·塞斯蒂娜 | ![](https://static.wikia.nocookie.net/muvluv/images/d/dd/Inia_TE_Winter_Jacket.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Inia_Sestina) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
