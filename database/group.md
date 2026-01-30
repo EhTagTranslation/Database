@@ -13669,6 +13669,7 @@ example:
 | parapluie | parapluie |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204276/) |
 | anko strawberry | あんこストロベリー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45111.html) |
 | onakin data land | オナ禁データランド |  |  |
+| pizuneru | ぴずねる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49075.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
