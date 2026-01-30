@@ -5859,7 +5859,7 @@ example:
 | piper wheel | 派派·韦尔 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/76bf3a04b3bea4d06cc083154d64c17a_7128888337781188889.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/派派·韦尔) |
 | mia fujikawa | 藤川米娅 | key社作品loopers登场角色 |  |
 | vulpisfoglia | 忍冬 | ![](https://patchwiki.biligame.com/images/arknights/0/08/9tb2htl7nser8me879yr0ghm8nrwzpy.png)<br>所属作品 `p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/忍冬) |
-| kirie kagarino | 篝之雾枝 |  |  |
+| kirie kagarino | 篝之雾枝 | ![](https://ehgt.org/w/00/232/64697-frgpa2z1.webp)<br>出自作品：`p:bishoujo mangekyou`<br><br>篝之雾枝，是由ωstar制作的Galgame《美少女万華鏡－呪われし伝説の少女－》及其衍生作品中的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/篝之雾枝) |
 | rinami himesaki | 姫崎莉波 | ![](https://gakuen.idolmaster-official.jp/assets/img/idol/rinami/thumb.png) | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/rinami/) |
 | saya | 沙耶 | nitro+视觉小说游戏《沙耶之歌》女主角 |  |
 | ginko momose | 百生吟子 | 百生吟子（日语：百生 吟子，罗马字：Momose Ginko）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/百生吟子) |
