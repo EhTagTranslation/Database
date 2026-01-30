@@ -2716,6 +2716,7 @@ example:
 | doki doki majo shinpan | 心跳魔女神判 |  |  |
 | fate strange fake | 命运-奇异赝品 | ![](https://static.wikia.nocookie.net/typemoon/images/6/60/Fate_strange_fake_novel_Vol_1.png)<br>由TYPE-MOON原作、成田良悟执笔的系列轻小说《Fate/strange Fake》改编的TV动画。简称赝作。 |  |
 | gameoverse | 通关失败 | Glitch Productions的原创动画剧集。 |  |
+| geobreeders | 魍魉游击队 | ![](https://static.wikia.nocookie.net/enanimanga/images/2/2f/Geobreeders.jpg) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
