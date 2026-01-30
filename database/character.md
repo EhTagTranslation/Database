@@ -8426,6 +8426,7 @@ example:
 | ilfriede von feulner | 伊尔弗里德·冯·费尔纳 | ![](https://static.wikia.nocookie.net/muvluv/images/5/5b/Ilfriede_Tennis_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Ilfriede_von_Feulner) |
 | fikatsia latrova | 菲卡吉雅·拉托洛瓦 | ![](https://static.wikia.nocookie.net/muvluv/images/9/9e/Fikatsia_TE_Fortified_Suit.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Fikatsia_Latrova) |
 | yuuko kouzuki | 香月夕呼 | ![](https://static.wikia.nocookie.net/muvluv/images/7/7a/Yuuko_AF_Tropical_Leisure.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Kouzuki_Yuuko) |
+| mikoto yoroi | 铠衣美琴 | ![](https://static.wikia.nocookie.net/muvluv/images/6/66/Mikoto_Alternative_Fortified_Suit.png)<br>所属作品：`muv-luv`<br>日语：よろい みこと | [Fandom](https://muvluv.fandom.com/wiki/Yoroi_Mikoto) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
