@@ -8418,6 +8418,7 @@ example:
 | euphausia etoreika | 尤法西娅·艾托蕾卡 | ![](https://static.wikia.nocookie.net/megamitensei/images/b/b0/Eupha.png/revision/latest?cb=20240930145554)<br>所属作品:`metaphor refantazio` | [百度百科](https://baike.baidu.com/item/尤法西娅·艾托蕾卡/65129965)<br>[Fandom](https://megamitensei.fandom.com/wiki/Euphausia_Etoreika) |
 | meiya mitsurugi | 御剑冥夜 | ![](https://static.wikia.nocookie.net/muvluv/images/6/6f/Meiya_Chronicles_04_Uniform.png)<br>所属作品：`muv-luv` |  |
 | beatrix brehme | 贝娅特丽克丝·布莱梅 | ![](https://static.wikia.nocookie.net/muvluv/images/8/82/Beatrix_Fortified_Suit_1.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Beatrix_Brehme) |
+| sumika kagami | 鉴纯夏 | ![](https://static.wikia.nocookie.net/muvluv/images/c/c5/Sumika_AF_Swimsuit.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Kagami_Sumika) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
