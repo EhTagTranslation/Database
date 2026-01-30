@@ -12587,7 +12587,7 @@ example:
 | hitakamoya | ひたかもや |  |  |
 | kasokuiki | 過疎区域 |  | [X](https://x.com/in_ksk) |
 | khaos distance | カオス距離 |  |  |
-| tohosanhun | 徒歩三分 | 茶户老师的R18用马甲 | [X](https://x.com/tohosanhun)<br>[X](https://x.com/tohoni) （本体） |
+| tohosanhun | <p>徒步三分</p> | 茶户老师的R18用马甲 | [X](https://x.com/tohosanhun)<br>[X](https://x.com/tohoni) （本体） |
 | morunchi | モルチ |  |  |
 | gutsutoma | ぐつとま |  |  |
 | kaiten paradogs | 回転ParaDOGs |  |  |
