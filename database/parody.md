@@ -2718,6 +2718,7 @@ example:
 | gameoverse | 通关失败 | Glitch Productions的原创动画剧集。 |  |
 | geobreeders | 魍魉游击队 | ![](https://static.wikia.nocookie.net/enanimanga/images/2/2f/Geobreeders.jpg) |  |
 | maburaho | 爱的魔法 | 筑地俊彦创作的轻小说。 |  |
+| vindictus | 洛奇英雄传 |  | [百度百科](https://baike.baidu.com/item/洛奇英雄传/9559278) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
