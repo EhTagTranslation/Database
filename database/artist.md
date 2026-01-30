@@ -14764,6 +14764,7 @@ example:
 | hagger | はがー |  | [pixiv](https://www.pixiv.net/users/554400) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22はがー%22/ana_flg/all) |
 | foot croft | Foot croft |  | [Patreon](https://www.patreon.com/Footcroft/home?vanity=Footcroft) |
 | iv | イブ |  |  |
+| kokihanada | Kokihanada |  | [pixiv](https://www.pixiv.net/users/31938023) \| [FANBOX](https://www.fanbox.cc/@orca03ocean/posts/9854369) |
 
 <!--TEMPLATE:
 |  |  |  |  |
