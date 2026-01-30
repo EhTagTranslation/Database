@@ -8414,6 +8414,7 @@ example:
 | jodie karen bakuryuu | 裘蒂‧爆龙‧卡莲 | 所属作品：`kochikame` |  |
 | ume mizunoe | 水之江梅 | 所属作品：`seitokai ni mo ana wa aru` |  |
 | komaro michinoko | 陆奥小麻吕 | 所属作品：`seitokai ni mo ana wa aru` |  |
+| yuta okkotsu | 乙骨忧太 | ![](https://thumbsnap.com/i/bz7wtjMA.jpg)<br>出自作品：`p:jujutsu kaisen`<br><br>乙骨忧太（日语：乙骨（おつこつ） 憂太（ゆうた））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乙骨忧太) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
