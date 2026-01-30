@@ -8436,6 +8436,7 @@ example:
 | kasumi yashiro | 社霞 | ![](https://static.wikia.nocookie.net/muvluv/images/e/ea/Kasumi_Alternative_UN_Uniform.png)<br>所属作品：`muv-luv`<br>日语：やしろ かすみ | [Fandom](https://muvluv.fandom.com/wiki/Yashiro_Kasumi) |
 | maya tsukuyomi | 月读真夜 | ![](https://static.wikia.nocookie.net/muvluv/images/c/c7/Maya_AF_Maid_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Tsukuyomi_Maya) |
 | wilfried von aichberger | 威尔弗里德·冯·艾希贝格尔 | ![](https://static.wikia.nocookie.net/muvluv/images/d/db/Wilfried_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Wilfried_von_Aichberger) |
+| kuriko kazetsubaki | 风椿玖里子 | ![](https://static.wikia.nocookie.net/maburaho/images/c/c6/Kuriko.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Kuriko_Kazetsubaki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
