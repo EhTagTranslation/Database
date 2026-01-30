@@ -8435,6 +8435,7 @@ example:
 | haruko kashiwagi | 柏木晴子 | ![](https://static.wikia.nocookie.net/muvluv/images/8/84/Haruko_Chronicles_03.png)<br>所属作品：`muv-luv`<br>日语：かしわぎ はるこ | [Fandom](https://muvluv.fandom.com/wiki/Kashiwagi_Haruko) |
 | kasumi yashiro | 社霞 | ![](https://static.wikia.nocookie.net/muvluv/images/e/ea/Kasumi_Alternative_UN_Uniform.png)<br>所属作品：`muv-luv`<br>日语：やしろ かすみ | [Fandom](https://muvluv.fandom.com/wiki/Yashiro_Kasumi) |
 | maya tsukuyomi | 月读真夜 | ![](https://static.wikia.nocookie.net/muvluv/images/c/c7/Maya_AF_Maid_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Tsukuyomi_Maya) |
+| wilfried von aichberger | 威尔弗里德·冯·艾希贝格尔 | ![](https://static.wikia.nocookie.net/muvluv/images/d/db/Wilfried_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Wilfried_von_Aichberger) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
