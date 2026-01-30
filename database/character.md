@@ -8446,6 +8446,7 @@ example:
 | ao run | 敖闰 |  | [萌娘百科](https://zh.moegirl.org.cn/敖闰) |
 | gongsun li | 公孙离 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:公孙离) |
 | xi shi | 西施 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:西施) |
+| chang e | 嫦娥 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:嫦娥) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
