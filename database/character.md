@@ -8437,6 +8437,7 @@ example:
 | maya tsukuyomi | 月读真夜 | ![](https://static.wikia.nocookie.net/muvluv/images/c/c7/Maya_AF_Maid_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Tsukuyomi_Maya) |
 | wilfried von aichberger | 威尔弗里德·冯·艾希贝格尔 | ![](https://static.wikia.nocookie.net/muvluv/images/d/db/Wilfried_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Wilfried_von_Aichberger) |
 | kuriko kazetsubaki | 风椿玖里子 | ![](https://static.wikia.nocookie.net/maburaho/images/c/c6/Kuriko.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Kuriko_Kazetsubaki) |
+| rin kamishiro | 神城凛 | ![](https://static.wikia.nocookie.net/maburaho/images/5/55/Sample-3c40d83dd7d8718f8f541257d7c6eb54.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Rin_Kamishiro) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
