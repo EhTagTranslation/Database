@@ -6960,7 +6960,7 @@ example:
 | tomo asama | 浅间·智 | ![](https://img.moegirl.org.cn/common/b/b5/特典小说－封面１上.jpg)<br>所属作品：`kyoukai senjou no horizon` |  |
 | persephone | 珀尔塞福涅 | ![](https://ehgt.org/w/01/994/93777-c6ud1ax2.webp) |  |
 | yukino miyazawa | 宫泽雪野 |  |  |
-| irisdina bernhard | 爱丽丝蒂娜·伯恩哈德 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8d/Irisdina_BDU_1.png)<br>所属作品：`schwarzesmarken` |  |
+| irisdina bernhard | 爱丽丝蒂娜·伯恩哈德 | ![](https://static.wikia.nocookie.net/muvluv/images/8/8d/Irisdina_BDU_1.png)<br>所属作品：`schwarzesmarken`，`muv-luv` |  |
 | nanaka kotegawa | 古手川奈奈华 | ![](https://ehgt.org/w/01/970/72734-is9gtnv0.webp)<br>所属作品：`grand blue`<br>潜水商店的看板娘，性格温柔且受人喜爱。 |  |
 | mrs. yukinoshita | 雪之下夫人 | ![](https://ehgt.org/w/02/106/90950-nj2uwff3.webp)<br>所属作品：`yahari ore no seishun love come wa machigatteiru`<br>雪之下阳乃和雪乃的母亲，外表和气质上和雪乃很相似，但感性部分上却更像阳乃，拥有压倒性的魄力。 |  |
 | leila malkal | 蕾拉·玛露卡尔 | ![](https://patchwiki.biligame.com/images/loststories/9/91/n7vnu8c26kz7g29ymr53zi253sr4vbc.png)<br>![](https://patchwiki.biligame.com/images/loststories/9/9c/j52nql4hhdy1ytbhryqg6fyifed0rqh.png)<br>![](https://patchwiki.biligame.com/images/loststories/1/11/qhvh2cdhogxf28qfcx8309hvjios2je.png)<br>所属作品：`code geass`<br>蕾拉·玛露卡尔（レイラ・マルカル）是剧场版动画《Code Geass 亡国的阿基德》的女主角，E.U.军wZERO部队的作战参谋和指挥官。 |  |
