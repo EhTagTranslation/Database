@@ -8428,6 +8428,7 @@ example:
 | yuuko kouzuki | 香月夕呼 | ![](https://static.wikia.nocookie.net/muvluv/images/7/7a/Yuuko_AF_Tropical_Leisure.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Kouzuki_Yuuko) |
 | mikoto yoroi | 铠衣美琴 | ![](https://static.wikia.nocookie.net/muvluv/images/6/66/Mikoto_Alternative_Fortified_Suit.png)<br>所属作品：`muv-luv`<br>日语：よろい みこと | [Fandom](https://muvluv.fandom.com/wiki/Yoroi_Mikoto) |
 | yuuhi mitsurugi | 煌武院悠阳 | ![](https://static.wikia.nocookie.net/muvluv/images/6/68/Yuuhi_Tropical_Leisure_Full_Body.png)<br>所属作品：`muv-luv`<br>日语：こうぶいん ゆうひ | [Fandom](https://muvluv.fandom.com/wiki/Koubuin_Yuuhi) |
+| marimo jinguuji | 神宫司麻理茉 | ![](https://static.wikia.nocookie.net/muvluv/images/1/1e/Marimo_Chronicles_04_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Jinguuji_Marimo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
