@@ -8424,6 +8424,7 @@ example:
 | cryska barchenowa | 克丽斯嘉·巴切诺娃 | ![](https://static.wikia.nocookie.net/muvluv/images/0/0f/Cryska_TE_Fortified_Suit_UN.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Cryska_Barchenowa) |
 | kei ayamine | 彩峰慧 | ![](https://static.wikia.nocookie.net/muvluv/images/0/07/Ayamine_Alternative_Fortified_Suit.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Ayamine_Kei) |
 | ilfriede von feulner | 伊尔弗里德·冯·费尔纳 | ![](https://static.wikia.nocookie.net/muvluv/images/5/5b/Ilfriede_Tennis_Uniform.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Ilfriede_von_Feulner) |
+| fikatsia latrova | 菲卡吉雅·拉托洛瓦 | ![](https://static.wikia.nocookie.net/muvluv/images/9/9e/Fikatsia_TE_Fortified_Suit.png)<br>所属作品：`muv-luv` | [Fandom](https://muvluv.fandom.com/wiki/Fikatsia_Latrova) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
