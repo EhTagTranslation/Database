@@ -14760,6 +14760,7 @@ example:
 | tsumeshi nana | ツメシ七 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ツメシ七%22) |
 | koeda mameko | 小枝まめ子 |  | [DMM](https://book.dmm.co.jp/list/?author=322007) |
 | natane tsuyu | 菜種梅雨 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22菜種梅雨%22) |
+| kamiwo akira | 亮カミヲ |  | [pixiv](https://www.pixiv.net/users/74345463) \|  [X](https://x.com/akirakamiwo) \| [Fantia](https://fantia.jp/fanclubs/503236) |
 
 <!--TEMPLATE:
 |  |  |  |  |
