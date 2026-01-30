@@ -4601,7 +4601,7 @@ example:
 | chabin | 茶瓶 |  |  |
 | chabo | 茶鳥 |  |  |
 | chaccu | chaccu |  |  |
-| chado | 茶戸 |  |  |
+| chado | 茶户 |  |  |
 | chagata | ちゃがた |  |  |
 | chagu | ちゃぐ |  |  |
 | chaigidhiell | カイギディエル |  |  |
