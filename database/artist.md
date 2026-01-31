@@ -14770,6 +14770,7 @@ example:
 | sasapoliton | ささ |  | [FANBOX](https://www.fanbox.cc/@sasanon) |
 | ryopie | Ryopie |  | [X](https://x.com/chocobitpie) |
 | moon | Moon |  | [Patreon](https://www.patreon.com/Moon631) \| [X](https://x.com/happy_moon_owo) |
+| nobiru wakako | 野蒜和佳子 |  | [pixiv](https://www.pixiv.net/users/40980331) |
 
 <!--TEMPLATE:
 |  |  |  |  |
