@@ -14339,7 +14339,7 @@ example:
 | shamidou maichimonji | しゃみどーまいちもんじ |  |  |
 | shikorisasu | シコリサス |  |  |
 | shimagon | 嶋艮 |  |  |
-| shimakawa | しまかわ |  |  |
+| shimakawa | しまかわ |  | [pixiv](https://www.pixiv.net/users/31454456) |
 | shimashima rissu | しましまリッス |  |  |
 | silver radish | 銀ダイコン |  |  |
 | smash daisaku | スマッシュ代作 |  |  |
