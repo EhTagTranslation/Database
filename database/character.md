@@ -8449,6 +8449,7 @@ example:
 | chang e | 嫦娥 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:嫦娥) |
 | rydia | 莉迪亚 | ![](https://ehgt.org/w/02/121/50309-qujjenn5.webp)<br>出自作品：`p:final fantasy iv` | [Fandom](https://ffexvius.fandom.com/zh/wiki/莉迪亞?variant=zh-hans) |
 | ventana | 班塔纳 | ![](https://ehgt.org/w/02/137/79268-usdntp15.webp)<br>出自作品：`p:brave nine` | [gamekee](https://www.gamekee.com/zsca2/tj/602076.html) |
+| hazuki nijouin | 二条院羽月 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/ae/二条院羽月.jpg)<br>出自作品：`p:riddle joker`<br><br>二条院羽月（日语：二条院（にじょういん） 羽月（はづき））是柚子社所创作的美少女游戏《RIDDLE JOKER》的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/二条院羽月) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
