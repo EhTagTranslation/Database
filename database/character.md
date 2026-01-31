@@ -3384,7 +3384,7 @@ example:
 | nao yorihime | 依媛奈绪 |  |  |
 | batman | 蝙蝠侠 |  |  |
 | galo thymos | 加洛·提莫斯 |  |  |
-| lio fotia | 里奥·福蒂亚 |  |  |
+| lio fotia | 里欧·弗提亚 | ![](https://ehgt.org/w/00/752/92884-2g408zph.webp)<br>出自作品：`p:promare`<br>性别：男<br><br>里欧·弗提亚（日语：リオ・フォーティア）是由今石洋之监督、TRIGGER制作的剧场版动画《普罗米亚》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/里欧·弗提亚) |
 | qiqi | 七七 | ![](https://patchwiki.biligame.com/images/ys/2/26/3n24q4mbu7nvndvayq2hd61btfadg0e.gif)<br>所属作品:`p:genshin impact`<br>药庐“不卜庐”的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。曾因“仙缘”而拥有了被凡间称作僵尸的不死之身，外表永远停留在了逝去那年，年龄不可考。 | [萌娘百科](https://zh.moegirl.org.cn/七七) |
 | mujina | 貉 | ![貉](https://img.moegirl.org.cn/common/thumb/f/f8/Mujina_visual.png/280px-Mujina_visual.png)<br>貉是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>主张怪兽主导世界的集团「怪兽优生思想」的成员。怪兽使。<br><br>穿着白色军装，左臂上有青色的四条线。棕发蓝瞳的女子。<br><br>战斗意志很低下，总是想着早点完事离开摸鱼下班 | [萌娘百科](https://zh.moegirl.org.cn/貉%28SSSS.DYNAZENON%29#) |
 | yume minami | 南梦芽 | ![](https://i0.hdslb.com/bfs/new_dyn/6e9f1971d29ad4fcef5ab0f17e90b779262400697.png)<br>南梦芽是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>蓬的同班同学。棕发绿瞳的高中生。 | [萌娘百科](https://zh.moegirl.org.cn/南梦芽) |
