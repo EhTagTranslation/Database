@@ -9457,7 +9457,7 @@ example:
 | rihitozoire | リヒトゾイレ |  |  |
 | rii | りい |  |  |
 | rikamarika | rikamarika |  |  |
-| rikazu | rikazu |  |  |
+| rikazu | rikazu |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22rikazu%22/ana_flg/all) |
 | riki | 利木 |  |  |
 | rikka | 立夏 |  |  |
 | rikoko | りここ |  |  |
