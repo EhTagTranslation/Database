@@ -14774,6 +14774,7 @@ example:
 | a lonely tree frog runs away | 樹蛙孤逃 |  | [pixiv](https://www.pixiv.net/users/8266699/artworks)<br>[X](https://x.com/chulouilo2) |
 | segatsu | せがつ |  |  |
 | hijiki senpai | ひじき先輩 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ひじき先輩%22/ana_flg/all) |
+| tekkannon chiya | 鉄観音千夜 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
