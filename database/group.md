@@ -13672,6 +13672,7 @@ example:
 | pizuneru | ぴずねる |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49075.html) |
 | onoko ya honpo | おのこ屋本舗 |  | [DLsite](https://www.dlsite.com/bl/circle/profile/=/maker_id/RG65388.html) \| [BOOTH](https://akirakamiwo.booth.pm/) |
 | ai o komete | 愛をこめて |  |  |
+| lilium kyouwakoku | リリウム共和国 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
