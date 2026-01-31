@@ -13675,6 +13675,7 @@ example:
 | lilium kyouwakoku | リリウム共和国 |  |  |
 | gunjou blue | 群青ブルー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50587.html) |
 | hiruneya-san | 昼寝屋さん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62460.html) |
+| aji zukushi | 鯵づくし |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
