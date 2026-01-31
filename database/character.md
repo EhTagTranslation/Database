@@ -5654,7 +5654,7 @@ example:
 | andreana | 安哲拉 | ![](https://patchwiki.biligame.com/images/arknights/b/bc/p11epmszy5t057blldvoryh2ow5bsgx.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/安哲拉](https://prts.wiki/w/安哲拉) |
 | degenbrecher | 锏 | ![](https://patchwiki.biligame.com/images/arknights/1/13/1dh0m0f9h2pgp9kkfvs7185ih9dsih2.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/锏](https://prts.wiki/w/锏) |
 | saileach | 琴柳 | ![](https://patchwiki.biligame.com/images/arknights/d/d2/qcrsjkebivmz46i11ktx8dsx6v9fzm4.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/琴柳](https://prts.wiki/w/琴柳) |
-| pekoras mother | 佩克拉妈咪 | `c:usada pekora`的现实中的母亲，2024年4月1日作为愚人节企划正式出道。 | [Fandom](https://omniversal-battlefield.fandom.com/wiki/Pekomama) |
+| pekoras mother | 佩克拉妈咪 | ![](https://ehgt.org/w/02/223/22136-achl7679.webp)<br>所属社团：`p:hololive`<br><br>`c:usada pekora`的现实中的母亲，2024年4月1日作为愚人节企划正式出道。 | [Fandom](https://omniversal-battlefield.fandom.com/wiki/Pekomama) |
 | unzen | 云仙 (猃) | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/8edbbde9cbaba4066d8033294b079cfc262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:云仙)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/云仙) |
 | mualani | 玛拉妮 | ![](https://patchwiki.biligame.com/images/ys/e/e5/0pjei7dg6z9rbvdle9g43uzpxu23vbp.gif)<br><br>所属作品：`genshin impact`<br>纳塔远近闻名的向导，水上用品商店的经营者，精通各类水上运动的逐浪客。 | [萌娘百科](https://zh.moegirl.org.cn/玛拉妮) |
 | shiori fujisaki | 藤崎诗织 |  |  |
