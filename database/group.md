@@ -12777,7 +12777,7 @@ example:
 | hachihachihachi | 蜂蜂蜂 |  |  |
 | sakuranbo nouen | 樱桃农园 |  |  |
 | nurupon | ぬるポン |  |  |
-| waifusplit | WaifuSplit |  |  |
+| waifusplit | WaifuSplit |  | [X](https://x.com/WaifuSplit)  [Patreon](https://www.patreon.com/waifusplit/) \| [Instagram](https://www.instagram.com/waifusplitstudios/) \| [waifusplit](https://waifusplit.com/) |
 | shirasu latte | しらすラテ |  |  |
 | metrobay comix | Metrobay Comix |  |  |
 | mono stellar | Mono\*Stellar |  |  |
