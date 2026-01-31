@@ -14768,6 +14768,7 @@ example:
 | blackgg | BlackGG |  | [pixiv](https://www.pixiv.net/users/30919816) |
 | hokufusya | hokufusya |  | [FANBOX](https://www.fanbox.cc/@hokufusya) \| [pixiv](https://www.pixiv.net/users/61416027) |
 | sasapoliton | ささ |  | [FANBOX](https://www.fanbox.cc/@sasanon) |
+| ryopie | Ryopepe |  | [X](https://x.com/chocobitpie) |
 
 <!--TEMPLATE:
 |  |  |  |  |
