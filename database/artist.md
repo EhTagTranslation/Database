@@ -9830,7 +9830,7 @@ example:
 | satou | 佐藤 |  |  |
 | satou hagane | 佐藤はがね |  |  |
 | satou iori | 佐藤イオリ |  |  |
-| satou kana | 佐藤カナ |  |  |
+| satou kana | 佐藤カナ |  | [pixiv](https://www.pixiv.net/users/6834064) |
 | satou kimiatsu | さとうきみあつ |  |  |
 | satou makura | さとう枕 |  |  |
 | satou masa | 沙藤昌 |  |  |
