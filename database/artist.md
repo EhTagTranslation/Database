@@ -14767,6 +14767,7 @@ example:
 | kokihanada | Kokihanada |  | [pixiv](https://www.pixiv.net/users/31938023) \| [FANBOX](https://www.fanbox.cc/@orca03ocean/posts/9854369) |
 | blackgg | BlackGG |  | [pixiv](https://www.pixiv.net/users/30919816) |
 | hokufusya | hokufusya |  | [FANBOX](https://www.fanbox.cc/@hokufusya) \| [pixiv](https://www.pixiv.net/users/61416027) |
+| sasapoliton | ささ |  | [FANBOX](https://www.fanbox.cc/@sasanon) |
 
 <!--TEMPLATE:
 |  |  |  |  |
