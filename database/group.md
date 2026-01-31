@@ -13676,7 +13676,7 @@ example:
 | gunjou blue | 群青ブルー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50587.html) |
 | hiruneya-san | 昼寝屋さん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62460.html) |
 | aji zukushi | 鯵づくし |  |  |
-| segatsupluto | せがつぷるーと |  | [](https://www.melonbooks.co.jp/circle/index.php?circle_id=41359) |
+| segatsupluto | せがつぷるーと |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=41359) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
