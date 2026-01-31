@@ -13679,6 +13679,7 @@ example:
 | segatsupluto | せがつぷるーと |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=41359) |
 | umi neuron | 海ニューロン |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=217141/) |
 | puchishoku | ぷちしょく |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204968/) |
+| aamou-ya | ああもう屋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
