@@ -14773,6 +14773,7 @@ example:
 | nobiru wakako | 野蒜和佳子 |  | [pixiv](https://www.pixiv.net/users/40980331) |
 | a lonely tree frog runs away | 樹蛙孤逃 |  | [pixiv](https://www.pixiv.net/users/8266699/artworks)<br>[X](https://x.com/chulouilo2) |
 | segatsu | せがつ |  |  |
+| hijiki senpai | ひじき先輩 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ひじき先輩%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
