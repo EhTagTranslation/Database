@@ -14775,6 +14775,7 @@ example:
 | segatsu | せがつ |  |  |
 | hijiki senpai | ひじき先輩 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ひじき先輩%22/ana_flg/all) |
 | tekkannon chiya | 鉄観音千夜 |  |  |
+| ranhatu | 乱発 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
