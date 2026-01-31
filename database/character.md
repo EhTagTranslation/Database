@@ -4611,7 +4611,7 @@ example:
 | natsumi hodaka | 帆高夏海 | 帆高夏海（日语：帆高（ほだか）夏海（なつみ））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帆高夏海) |
 | hina tsurugi | 鹤木阳渚 | 鹤木阳渚（日语：鶴木（つるぎ）陽渚（ひな））是由小坂泰之所创作的漫画《放学后海堤日记》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/鹤木阳渚) |
 | gwen stacy | 格温·斯黛西 |  |  |
-| reisa uzawa | 宇泽玲纱 | 所属作品: `p:blue archive`<br>三一综合学院所属，自警团的成员，在三一的各地出没，进行着维持治安的活动。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/86082/2025/5/12/731476.png) |  |
+| reisa uzawa | 宇泽玲纱 | ![](https://ehgt.org/w/02/089/95533-ausbz33n.webp)<br>所属作品: `p:blue archive`<br>三一综合学院所属，自警团的成员，在三一的各地出没，进行着维持治安的活动。 | [萌娘百科](https://zh.moegirl.org.cn/宇泽玲纱) |
 | power | 帕瓦 | 帕瓦是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/帕瓦) |
 | hirofumi yoshida | 吉田宽文 | 吉田宽文是由藤本树所创作的漫画《电锯人》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/吉田宽文) |
 | silver wolf | 银狼 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/3f/oy6o9fm6o0rrcwzs9gvgc4rfhvejcts.png/1050px-银狼立绘.png)<br>所属作品：`honkai star rail`<br>将宇宙视为游戏的超级骇客。<br>无论怎样棘手的防御系统，银狼都能轻松破解。她与「天才俱乐部」螺丝咕姆的数据攻防战，现已成为骇客界的传说。 | [萌娘百科](https://zh.moegirl.org.cn/银狼) |
