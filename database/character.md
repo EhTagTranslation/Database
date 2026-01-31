@@ -8447,6 +8447,7 @@ example:
 | gongsun li | 公孙离 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:公孙离) |
 | xi shi | 西施 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:西施) |
 | chang e | 嫦娥 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:嫦娥) |
+| rydia | 莉迪亚 | ![](https://ehgt.org/w/02/121/50309-qujjenn5.webp)<br>出自作品：`p:final fantasy iv` | [Fandom](https://ffexvius.fandom.com/zh/wiki/莉迪亞?variant=zh-hans) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
