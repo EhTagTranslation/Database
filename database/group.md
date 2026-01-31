@@ -13680,6 +13680,7 @@ example:
 | umi neuron | 海ニューロン |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=217141/) |
 | puchishoku | ぷちしょく |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204968/) |
 | aamou-ya | ああもう屋 |  | [X](https://x.com/aamou_ya) |
+| mousou sanmyaku | 妄想山脈 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
