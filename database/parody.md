@@ -2719,6 +2719,7 @@ example:
 | geobreeders | 魍魉游击队 | ![](https://static.wikia.nocookie.net/enanimanga/images/2/2f/Geobreeders.jpg) |  |
 | maburaho | 爱的魔法 | 筑地俊彦创作的轻小说。 |  |
 | vindictus | 洛奇英雄传 |  | [百度百科](https://baike.baidu.com/item/洛奇英雄传/9559278) |
+| senpai wa otokonoko | 前辈是男孩子 | ![](https://static.wikia.nocookie.net/senpaiisanotokonoko/images/c/c1/Key_Visual_2.jpg)<br>pom创作的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
