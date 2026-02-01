@@ -8481,6 +8481,7 @@ example:
 | nowa | 诺瓦 | ![](https://static.wikia.nocookie.net/queensblade/images/1/11/Img_chara-n.png)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/诺瓦/6822) |
 | ymir | 优米尔 | ![](https://static.wikia.nocookie.net/queensblade/images/3/30/Img_chara%28ym%29.png)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/优米尔/5438578) |
 | sumeragi lee noriega | 皇·李·诺瑞加 | ![](https://static.wikia.nocookie.net/gundam/images/c/cf/MSG00-Sumeragi-%28S1%29.png)<br>所属作品：`gundam 00` | [百度百科](https://baike.baidu.com/item/皇·李·诺瑞加/5577321) |
+| allelujah haptism | 阿雷路亚·帕普提兹姆 | ![](https://static.wikia.nocookie.net/gundam/images/d/db/MSG00-Allelujah-%28S2%29.png)<br>所属作品：`gundam 00`<br>日语：アレルヤ・ハプティズム | [百度百科](https://baike.baidu.com/item/阿雷路亚·帕普提兹姆/5578077) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
