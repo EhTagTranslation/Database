@@ -8469,6 +8469,7 @@ example:
 | chichiri | 琪琪莉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040621000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040525000) |
 | siggy | 斯琪 | ![](https://static.wikia.nocookie.net/queensblade/images/9/92/Sister_edited-1.jpg)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/斯琪/7688592) |
 | alleyne | 阿莱茵 | ![](https://static.wikia.nocookie.net/queensblade/images/2/28/Img_chara%28al%29.png)<br>所属作品：`queens blade`<br>日语：アレイン | [百度百科](https://baike.baidu.com/item/阿莱茵/11034209) |
+| melpha | 梅露法 | ![](https://static.wikia.nocookie.net/queensblade/images/d/db/MelphaQBU.png)<br>所属作品：`queens blade`<br>日语：メルファ | [百度百科](https://baike.baidu.com/item/梅露法/5438771) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
