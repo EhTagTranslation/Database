@@ -12542,7 +12542,7 @@ example:
 | kudamonoichizu | 果物一途 |  |  |
 | mimitako seijin | 耳タコ星人 |  |  |
 | nukunuku jima | ぬくぬく島 |  |  |
-| amagami honpo | 甘啮本铺 | 画师`manno`所属社团 |  |
+| amagami honpo | 甘啮本铺 | 画师`manno`所属社团 | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206684/) |
 | jyuu sensya usagitai | 重战车兔队 | 画师`takano tomohiro`所属同人社团 |  |
 | lv426 | LV426 | 画师`sharekoube`所属社团 |  |
 | circle mizusane | サークルみづさね | 画师`mizusane`所属同人社团 |  |
