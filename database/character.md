@@ -6397,7 +6397,7 @@ example:
 | aoba utsumi | 内海青叶 |  |  |
 | sylvia van hossen | 希尔薇娅·范·霍森 | ![](https://ehgt.org/w/01/977/82969-qo92438g.webp)<br>所属作品：`princess lover` | [vndb](https://vndb.org/v765) |
 | kabru | 卡布尔 |  |  |
-| cattleya | 卡特莱娜 |  |  |
+| cattleya | 卡特莱娜 | ![](https://static.wikia.nocookie.net/queensblade/images/0/0a/Img_chara%28catl%29.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Cattleya) |
 | escoffier | 爱可菲 | ![](https://patchwiki.biligame.com/images/ys/2/27/ad3tnyxytrvanxcwqusgye5fw3kn32f.gif)<br><br>所属作品：`genshin impact`<br>闻名枫丹的前德波大饭店主厨，有着「甜点大校」荣誉的「技术料理」先驱，对烹饪的要求无比严格。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/爱可菲) |
 | pina asahina | 朝比奈菲娜 | 百鬼夜行联合学园所属，憧憬着任侠的少女。<br>![](https://patchwiki.biligame.com/images/ba/4/45/3eprles93avfrd77xofqksmf9pdn0q3.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Pina) |
 | princess | 公主 | 所属作品: `p:himesama goumon no jikan desu`<br>本作主角。本名不明。金发碧眼，头上还有一个小王冠。既是王女，又是国王军第三骑士团的团长。<br><br>所属作品: `p:7th dragon`<br>南海女神的后裔，她激励盟友并剥夺敌人的力量。擅长通过歌唱技巧提供支持，还可以用鞭子控制敌人。 | [第七龙神](https://w.atwiki.jp/7thdragon/pages/19.html) |
