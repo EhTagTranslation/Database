@@ -8500,6 +8500,7 @@ example:
 | villhaze | 薇儿赫泽 | ![](https://ehgt.org/w/02/131/00487-iaugy3ad.webp)<br>出自作品：`p:hikikomari kyuuketsuki no monmon`<br><br>薇儿赫泽（ヴィルヘイズ）自称“小鞠大人的忠实部下”。 | [萌娘百科](https://zh.moegirl.org.cn/家里蹲吸血姬的郁闷#角色介绍) |
 | liu fei | 柳菲 |  | [百度百科](https://baike.baidu.com/item/柳菲/55977857) |
 | gu xun er | 萧薰儿 | 原名古薰儿 | [百度百科](https://baike.baidu.com/item/萧薰儿/7534550) |
+| xuan yi | 玄衣 |  | [萌娘百科](https://zh.moegirl.org.cn/玄衣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
