@@ -8458,6 +8458,7 @@ example:
 | ame-chan | 糖糖 | ![](https://static.wikia.nocookie.net/needy-streamer-overload/images/a/ac/AmeSprite.png/revision/latest?cb=20240725112626)<br>所属作品:`needy streamer overload`<br>† 升天 † | [萌娘百科](https://zh.moegirl.org.cn/雨%28主播女孩重度依赖%29) |
 | kangel | 超绝最可爱天使酱 | ![](https://static.wikia.nocookie.net/needy-streamer-overload/images/9/99/KAngelSprite.png/revision/latest?cb=20220528175301)<br>所属作品:`needy streamer overload`<br>`ame-chan`的直播形态<br>† 升天 † | [萌娘百科](https://zh.moegirl.org.cn/雨%28主播女孩重度依赖%29) |
 | clio aite | Clio Aite（VTB） | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/ef/ClioP-C1x1-tp.png)<br>澳大利亚籍虚拟主播<br>日语：クリオ•アイテ | [Fandom](https://virtualyoutuber.fandom.com/wiki/Clio_Aite) |
+| vesti | 贝斯蒂 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Vesti_FB.png)<br>所属作品：`goddess of victory nikke` | [Fandom](https://nikke-goddess-of-victory-international.fandom.com/wiki/Vesti) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
