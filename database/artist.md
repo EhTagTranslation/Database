@@ -6600,7 +6600,7 @@ example:
 | karakuriusagi | からくりうさぎ |  |  |
 | karamai | 空舞 |  |  |
 | karasawa yonjuu | 唐沢四十 |  |  |
-| karasu chan | カラスちゃん |  |  |
+| karasu chan | カラスちゃん |  | [FANBOX](https://www.fanbox.cc/@karasu-chan) \| [Patreon](https://www.patreon.com/c/user/posts?u=25634849) \| [X](https://x.com/Karasu_Chan1204) |
 | karasuke d | カラスケD |  |  |
 | karasuma amiru | 烏丸あみる |  |  |
 | karasuma nishiki | からすま弐式 |  |  |
