@@ -8483,6 +8483,7 @@ example:
 | sumeragi lee noriega | 皇·李·诺瑞加 | ![](https://static.wikia.nocookie.net/gundam/images/c/cf/MSG00-Sumeragi-%28S1%29.png)<br>所属作品：`gundam 00` | [百度百科](https://baike.baidu.com/item/皇·李·诺瑞加/5577321) |
 | allelujah haptism | 阿雷路亚·帕普提兹姆 | ![](https://static.wikia.nocookie.net/gundam/images/d/db/MSG00-Allelujah-%28S2%29.png)<br>所属作品：`gundam 00`<br>日语：アレルヤ・ハプティズム | [百度百科](https://baike.baidu.com/item/阿雷路亚·帕普提兹姆/5578077) |
 | kati mannequin | 卡蒂·玛尼金 | ![](https://static.wikia.nocookie.net/gundam/images/f/fb/MSG00-Kati-%28A-LAWS%29.png)<br>所属作品：`gundam 00` | [百度百科](https://baike.baidu.com/item/卡蒂·马妮金/6515156) |
+| misa suzuhara | 铃原美纱 | 所属作品：`zettai junpaku mahou shoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
