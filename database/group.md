@@ -8009,7 +8009,7 @@ example:
 | momoiro-rip | ももいろリップ |  |  |
 | momoirohoppe | ももいろほっぺ |  |  |
 | momoirosyounenki | 桃色少年期 |  |  |
-| momokan | ももかん |  |  |
+| momokan | ももかん |  | [FANBOX](https://www.fanbox.cc/@momonosuke) |
 | momokawa | モモカワ |  |  |
 | momokuri | もも栗 |  |  |
 | momomoya | もももや |  |  |
