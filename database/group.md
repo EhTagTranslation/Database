@@ -1232,7 +1232,7 @@ example:
 | yuriai kojinshi kai | 悠理爱个人志会 |  |  |
 | lachenalia | Lachenalia |  |  |
 | apricot plus | apricot+ |  |  |
-| studio huan | STUDIOふあん |  |  |
+| studio huan | STUDIOふあん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25530/) |
 | machi no onikuya-san | まちのおにくやさん |  |  |
 | mnst | MNST |  |  |
 | aohige kaizokudan | 青髯海贼团 |  |  |
