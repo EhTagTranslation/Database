@@ -8478,6 +8478,7 @@ example:
 | leina vance | 蕾娜·万斯 | ![](https://static.wikia.nocookie.net/queensblade/images/6/60/Img_chara_%281%29.png)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/蕾娜/6811) |
 | pandora | 潘多拉 | ![](https://static.wikia.nocookie.net/rezero/images/b/b6/Pandora_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [Fandom](https://rezero.fandom.com/wiki/Pandora) |
 | shizuka | 静 | ![](https://static.wikia.nocookie.net/queensblade/images/1/1c/Cee4324e5c96d81f1f1530be55c5efda.jpg)<br>所属作品：`queens blade`<br>日语：ツズカ | [百度百科](https://baike.baidu.com/item/静/10485709?fromModule=lemma_sense-layer#viewPageContent) |
+| nowa | 诺瓦 | ![](https://static.wikia.nocookie.net/queensblade/images/1/11/Img_chara-n.png)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/诺瓦/6822) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
