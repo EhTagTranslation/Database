@@ -8503,6 +8503,7 @@ example:
 | xuan yi | 玄衣 |  | [萌娘百科](https://zh.moegirl.org.cn/玄衣) |
 | xiao yi xian | 小医仙 |  | [萌娘百科](https://zh.moegirl.org.cn/小医仙) |
 | shenmei liu | 刘神美 | 所属作品：《黑色残骸》 | [百度百科](https://baike.baidu.com/item/刘神美/19376963) |
+| mika ogino | 荻布美夏 | 所属作品：《黑骸》 | [百度百科](https://baike.baidu.com/item/荻布美夏/19376865) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
