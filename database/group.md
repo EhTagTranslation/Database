@@ -5400,7 +5400,7 @@ example:
 | hang on | ハングオン |  |  |
 | hanger hansha | ハンガー反射 |  |  |
 | hanibi land | hanibi land |  |  |
-| hanigura soft | はにぐらそふと |  |  |
+| hanigura soft | はにぐらそふと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23546.html) \| [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=29332/) |
 | haniwa mania | ハニワマニア |  |  |
 | haniya | はに屋 |  |  |
 | hanjuku kinokotei | 半熟茸亭 |  |  |
