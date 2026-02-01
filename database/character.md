@@ -8452,6 +8452,7 @@ example:
 | hazuki nijouin | 二条院羽月 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/ae/二条院羽月.jpg)<br>出自作品：`p:riddle joker`<br><br>二条院羽月（日语：二条院（にじょういん） 羽月（はづき））是柚子社所创作的美少女游戏《RIDDLE JOKER》的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/二条院羽月) |
 | santa claus | 圣诞老人 |  |  |
 | eiji nochizawa | 后泽锐二 | 剧场版动画《刀剑神域：序列之争》登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/后泽锐二) |
+| makoto hanaoka | 花冈真琴 | ![](https://static.wikia.nocookie.net/senpaiisanotokonoko/images/0/0c/Makoto_Hanaoka_Render.png)<br>所属作品：`senpai wa otokonoko` | [Fandom](https://senpaiisanotokonoko.fandom.com/wiki/Makoto_Hanaoka) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
