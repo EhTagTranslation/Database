@@ -4186,7 +4186,7 @@ example:
 | yuzuki seo | 濑尾结月 |  |  |
 | saki yoshida | 吉田咲 |  | [hmoegirl](https://web.archive.org/web/20220617145907/https://www.hmoegirl.com/变身-emergence-) |
 | nahida | 纳西妲 | ![](https://patchwiki.biligame.com/images/ys/8/8f/931ai2cmf11k82qt272abhbg6s7icqn.gif)<br>所属作品:`p:genshin impact`<br>深居净善宫的笼中之鸟，只能在梦中将世界尽收眼底。 | [萌娘百科](https://zh.moegirl.org.cn/纳西妲) |
-| mitsuru kirijo | 桐条美鹤 |  |  |
+| mitsuru kirijo | 桐条美鹤 | ![](https://ehgt.org/w/02/044/14037-mhm8eemr.webp)<br>出自作品：`p:persona 3`<br><br>桐条美鹤（日语：桐条（きりじょう） 美鶴（みつる））是由Atlus旗下的游戏《女神异闻录》系列的正传作品《女神异闻录3》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/桐条美鹤) \| [百度百科](https://baike.baidu.com/item/桐条美鹤/2335288) |
 | kaguya otonashi | 音无辉夜 | 所属作品: `p:magika no kenshi to basileus` | [Fandom](https://magikanokenshitoshoukanvasreus.fandom.com/wiki/Otonashi_Kaguya) |
 | kaoru tanamachi | 棚町薰 | 所属作品: `p:amagami`<br><br>![](https://static.wikia.nocookie.net/amagami/images/d/d2/Kaoru_Tanamachi.jpg/revision/latest?cb=20210214162041) | [萌娘百科](https://zh.moegirl.org.cn/棚町薰) [Fandom](https://amagami.fandom.com/wiki/Kaoru_Tanamachi) |
 | nilou | 妮露 | ![](https://patchwiki.biligame.com/images/ys/c/c5/oddm62d1cvn6gyl7xi1blu2o7c22kyc.gif)<br>所属作品:`p:genshin impact`<br>祖拜尔剧场的知名舞者，舞姿灵动优美，为人纯真亲善。 | [萌娘百科](https://zh.moegirl.org.cn/妮露%28原神%29) |
