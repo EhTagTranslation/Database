@@ -13682,6 +13682,7 @@ example:
 | aamou-ya | ああもう屋 |  | [X](https://x.com/aamou_ya) |
 | mousou sanmyaku | 妄想山脈 |  |  |
 | ochaduke | おちゃづけ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74963.html) |
+| rk-2 | RK-2 |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202797/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
