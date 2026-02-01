@@ -8505,6 +8505,7 @@ example:
 | shenmei liu | 刘神美 | 所属作品：《黑色残骸》 | [百度百科](https://baike.baidu.com/item/刘神美/19376963) |
 | mika ogino | 荻布美夏 | 所属作品：《黑骸》 | [百度百科](https://baike.baidu.com/item/荻布美夏/19376865) |
 | minli huang | 黄明丽 | 所属作品：《神的记事本》 | [百度百科](https://baike.baidu.com/item/黄明丽/1405520) |
+| crystal maiden | 水晶室女 | ![图片](https://p.sda1.dev/30/16fa518944da3b1addf06f52cec1386a/image.png)<br>所属作品：《Dota 2》 | [萌娘百科](https://zh.moegirl.org.cn/水晶室女) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
