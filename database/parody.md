@@ -1975,7 +1975,7 @@ example:
 | who framed roger rabbit | 谁陷害了兔子罗杰 |  | [维基百科](https://zh.wikipedia.org/wiki/谁陷害了兔子罗杰) |
 | the bad guys | 坏蛋联盟 |  | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
 | hige o soru. soshite joshikousei o hirou. | 剃须，然后捡到女高中生 |  | [维基百科](https://zh.wikipedia.org/wiki/刮掉鬍子的我與撿到的女高中生)<br>[萌娘百科](https://zh.moegirl.org.cn/刮掉胡子的我与捡到的女高中生) |
-| horimiya | 堀与宫村 | 堀桑与宫村君 | [维基百科](https://zh.wikipedia.org/wiki/堀與宮村) [萌娘百科](https://zh.moegirl.org.cn/堀桑与宫村君) |
+| horimiya | 堀与宫村 | ![](https://static.wikia.nocookie.net/horimiya/images/5/5d/Horimiya_Anime_Slide.png)<br>安达浩介（笔名HERO）于2007年2月起在个人网站"読解アヘン"连载的校园题材漫画作品。 | [维基百科](https://zh.wikipedia.org/wiki/堀與宮村) [萌娘百科](https://zh.moegirl.org.cn/堀桑与宫村君) |
 | ef a tale of memories | 悠久之翼 | Ef: A Tale of Memories | [萌娘百科](https://zh.moegirl.org.cn/Ef系列) |
 | gaikotsu kishi-sama tadaima isekai e odekakechuu | 骸骨骑士大人异世界冒险中 | ![](https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2646675110.webp) | [萌娘百科](https://zh.moegirl.org.cn/骸骨骑士大人异世界冒险中) |
 | kou-1 desu ga isekai de joushu hajimemashita | 虽然才高一却在异世界当起城主 | ![图](https://ehgt.org/27/c6/27c6809180caac8f62c67231dbf0b85f316cb0e7-400225-1297-1854-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/高一就是异世界的城主) [Fandom](https://kou1isekai.fandom.com/wiki/Kou_1_Desu_ga_Isekai_de_Joushu_Hajimemashita_%28Light_Novel%29) |
