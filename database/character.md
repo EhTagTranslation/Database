@@ -8491,6 +8491,7 @@ example:
 | puniyanka | 普里扬卡 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | claudette vance | 库罗德特·万斯 | ![](https://static.wikia.nocookie.net/queensblade/images/b/b1/Img_chara.png)<br>所属作品：`queens blade`<br>日语：クローデット | [百度百科](https://baike.baidu.com/item/库罗德特) |
 | monokuma | 黑白熊 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/50/DT黑白熊.png)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/黑白熊) |
+| kiyotaka ishimaru | 石丸清多夏 | ![](https://static.wikia.nocookie.net/danganronpa/images/d/d6/Kiyotaka_Ishimaru_Illustration.png/revision/latest?cb=20170611020822)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/石丸清多夏) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
