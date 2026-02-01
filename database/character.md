@@ -8476,6 +8476,7 @@ example:
 | risty | 丽斯蒂 | ![](https://static.wikia.nocookie.net/queensblade/images/7/78/Img_chara_r.png)<br>所属作品：`queens blade`<br>日语：リスティ | [百度百科](https://baike.baidu.com/item/丽斯蒂/11030533) |
 | branwen | 布兰文 | ![](https://static.wikia.nocookie.net/queensblade/images/e/e0/4ca78c439b6545a5ecce1c1c8a885241.jpg)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/布兰文/8935913) |
 | leina vance | 蕾娜·万斯 | ![](https://static.wikia.nocookie.net/queensblade/images/6/60/Img_chara_%281%29.png)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/蕾娜/6811) |
+| pandora | 潘多拉 | ![](https://static.wikia.nocookie.net/rezero/images/b/b6/Pandora_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` | [Fandom](https://rezero.fandom.com/wiki/Pandora) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
