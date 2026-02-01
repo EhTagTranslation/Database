@@ -14779,6 +14779,7 @@ example:
 | yamaoku midori | 山奥深里 |  |  |
 | ama natsuna | 甘なつな |  |  |
 | piccione | piccione |  | [FANBOX](https://voliera.fanbox.cc/) |
+| yhd | 越黑岛 |  | [FANBOX](https://www.fanbox.cc/@l114514) |
 
 <!--TEMPLATE:
 |  |  |  |  |
