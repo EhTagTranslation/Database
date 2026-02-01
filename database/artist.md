@@ -12870,7 +12870,7 @@ example:
 | umai | 馬胃 |  |  |
 | nada shio | なだソルト |  |  |
 | toriuchi | トリウチ |  |  |
-| huwahuwa raidou | ふわふわらいどう |  |  |
+| huwahuwa raidou | ふわふわらいどう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG72870.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206823/) |
 | mother kiisuke | マザーきーすけ |  |  |
 | kurihara sakura | 栗原さくら |  |  |
 | washoku | 和食 |  |  |
