@@ -5866,7 +5866,7 @@ example:
 | hime anyoji | 安养寺姬芽 | 安养寺姬芽（日语：安養寺 姫芽，罗马字：Anyoji Hime）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安养寺姬芽) |
 | ophelia phamrsolone | 奥菲莉娅·法姆索罗涅 |  |  |
 | sigurd | 齐格鲁德 |  |  |
-| mao arimura | 有村麻央 |  | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/mao/) |
+| mao arimura | 有村麻央 | ![](https://ehgt.org/w/01/759/56753-24297f4f.webp)<br>出自作品：`p:the idolmaster`<br><br>有村麻央是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/mao/) \| [萌娘百科](https://zh.moegirl.org.cn/有村麻央) |
 | soldier 11 | 11号 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/96de44ff1486f828a1d1fa477fae614d_666957098767962858.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/11号) |
 | alexandrina sebastiane | 亚历山德丽娜·莎芭丝缇安 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/2a2c17a8786be73e40407df8e41b0c8e_8595380272413573060.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/亚历山德丽娜·莎芭丝缇安) |
 | maizuru | 舞鹤 | 舞鹤（日语：マイヅル）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。 |  |
