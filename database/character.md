@@ -6452,7 +6452,7 @@ example:
 | i-no | 茵诺 |  |  |
 | hikaru shidou | 狮堂光 |  |  |
 | froleytia capistrano | 芙萝蕾缇雅·卡彼斯特拉诺 | ![](https://ehgt.org/w/01/476/66718-q48cpao1.webp)<br>出自作品：`p:heavy object`<br><br>“正统王国”第37机动修护大队所属少佐。 | [百度百科](https://baike.baidu.com/item/芙萝蕾缇雅·卡彼斯特拉诺/14901057) |
-| alicia | 阿莉莎 | ![](https://huiji-public.huijistatic.com/gbf/uploads/d/dc/Zoom_3040083000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040474000) |
+| alicia | 艾莉西亚 | ![](https://static.wikia.nocookie.net/queensblade/images/3/32/Alicia_Profile_2.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Alicia) |
 | anna respighi | 安娜‧雷斯比奇 |  |  |
 | mylanndah arkar walder | 米兰达‧阿卡‧瓦尔卡 |  |  |
 | lahrri feldnunt | 拉丽·菲尔德南多 |  |  |
