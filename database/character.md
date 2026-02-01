@@ -8474,6 +8474,7 @@ example:
 | nanael | 娜娜艾露 | ![](https://static.wikia.nocookie.net/queensblade/images/4/42/Img_chara_%284%29.png)<br>所属作品：`queens blade`<br>日语：ナナエル | [百度百科](https://baike.baidu.com/item/娜娜艾露/5438604) |
 | annelotte | 安妮洛特 | ![](https://static.wikia.nocookie.net/queensblade/images/a/a4/Annelotte_torn.jpg)<br>所属作品：`queens blade`<br>Annelotte Kreutz<br>日语：アンネロッテ | [百度百科](https://baike.baidu.com/item/安妮洛特/5126644) |
 | risty | 丽斯蒂 | ![](https://static.wikia.nocookie.net/queensblade/images/7/78/Img_chara_r.png)<br>所属作品：`queens blade`<br>日语：リスティ | [百度百科](https://baike.baidu.com/item/丽斯蒂/11030533) |
+| branwen | 布兰文 | ![](https://static.wikia.nocookie.net/queensblade/images/e/e0/4ca78c439b6545a5ecce1c1c8a885241.jpg)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/布兰文/8935913) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
