@@ -6993,7 +6993,7 @@ example:
 | clalaclan philias | 柯拉拉克兰·菲利亚斯 | 所属作品：光明之风<br>圣菲利亚斯王国的公主，手持光辉之盾，是神圣武具“圣女米那斯之盾”的继承者。 |  |
 | clair | 小椿 | 所属作品：宝可梦<br>中文名另有译作小桩、伊布琪 |  |
 | celes chere | 塞蕾丝·谢尔 | 所属作品：最终幻想6 |  |
-| liliana | 莉莉安娜 | 所属作品：女王之刃<br>魔女军麾下的大海盗船长，以西洋剑与十字手弓为武器。 |  |
+| liliana | 莉莉安娜 | ![](https://static.wikia.nocookie.net/queensblade/images/d/d5/1991ae566111c66f5fbe8a25a292f3e9a.jpg)<br>所属作品：`queens blade` |  |
 | galko | 辣妹子 | ![](https://ehgt.org/w/02/081/77426-khp488cc.webp)<br>所属作品：`oshiete galko-chan` |  |
 | livewire | 活电线 | 活电线（Livewire）是美国DC漫画旗下的超级反派（DC反派） |  |
 | kaori saeki | 佐伯香织 | ![](https://ehgt.org/w/01/678/34759-19phow5n.webp)<br>所属作品：`bible black` |  |
