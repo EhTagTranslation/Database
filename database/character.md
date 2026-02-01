@@ -8488,6 +8488,7 @@ example:
 | kirara akutsu | 阿久津琦拉拉 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | yui arata | 新田由比 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | kotone sasaki | 佐佐木琴音 | 所属作品：`zettai junpaku mahou shoujo` |  |
+| puniyanka | 普里扬卡 | 所属作品：`zettai junpaku mahou shoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
