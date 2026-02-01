@@ -14784,6 +14784,7 @@ example:
 | touka genteki | 凍佳玄的 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59286.html) |
 | tsfartist | TSFartist |  | [FANBOX](https://tsfartist.fanbox.cc/) \| [Patreon](https://www.patreon.com/TSFartist) |
 | akinoji | あきのじ |  | [X](https://x.com/akiands27) |
+| tanaka ichimi | たなかイチミ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22たなかイチミ%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
