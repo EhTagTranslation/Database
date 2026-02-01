@@ -8465,6 +8465,7 @@ example:
 | bhaisa | 拜修拉 | ![](https://gbf.wiki/images/thumb/6/6c/Npc_zoom_3040630000_01.png/720px-Npc_zoom_3040630000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040630000) |
 | haaselia | 哈泽丽拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/ae/Zoom_3040168000_81.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040168000) |
 | helel ben shalem | 赫莱尔·本·夏蕾姆 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/6d/Zoom_3040251000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040251000) |
+| makura | 玛蔻拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/37/Zoom_3040441000_81.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040441000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
