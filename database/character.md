@@ -8412,7 +8412,7 @@ example:
 | alisa bosconovitch | 亚莉莎·伯斯科诺维奇 | ![](![](https://p325k7wa.twic.pics/high/tekken/tekken-8/02-characters/new-gallery/Wide/Alisa_new.png)<br>所属作品：`tekken` |  |
 | miary zo | 米娅莉·佐 | 所属作品：`tekken` |  |
 | jodie karen bakuryuu | 裘蒂‧爆龙‧卡莲 | 所属作品：`kochikame` |  |
-| ume mizunoe | 水之江梅 | 所属作品：`seitokai ni mo ana wa aru` |  |
+| ume mizunoe | 水之江梅 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/ef/133203_crt_CzRdr.jpg?r=1719678758)<br>所属作品：`seitokai ni mo ana wa aru` |  |
 | komaro michinoko | 陆奥小麻吕 | 所属作品：`seitokai ni mo ana wa aru` |  |
 | yuta okkotsu | 乙骨忧太 | ![](https://thumbsnap.com/i/bz7wtjMA.jpg)<br>出自作品：`p:jujutsu kaisen`<br><br>乙骨忧太（日语：乙骨（おつこつ） 憂太（ゆうた））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乙骨忧太) |
 | euphausia etoreika | 尤法西娅·艾托蕾卡 | ![](https://static.wikia.nocookie.net/megamitensei/images/b/b0/Eupha.png/revision/latest?cb=20240930145554)<br>所属作品:`metaphor refantazio` | [百度百科](https://baike.baidu.com/item/尤法西娅·艾托蕾卡/65129965)<br>[Fandom](https://megamitensei.fandom.com/wiki/Euphausia_Etoreika) |
