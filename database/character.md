@@ -3111,7 +3111,7 @@ example:
 | type 95 | 95式 \| 黛烟 | 游戏`p:girls frontline`及其衍生作品中的登场角色。<br>![](https://www.gfwiki.org/images/e/ec/Pic_95type_HD.png)<br>`p:girls frontline neural cloud`<br>![](https://patchwiki.biligame.com/images/42lab/e/e9/ckgfcunw4tnyid1u80s6tbtxvhuayft.png)<br>少女前线2:追放<br>![](https://gf2.mcc.wiki/image/doll/Avatar_Whole_DaiyanSSR.png)<br>猫咪：云筝 | [萌娘百科-少女前线](https://zh.moegirl.org.cn/少女前线:95式)<br>[萌娘百科](https://zh.moegirl.org.cn/黛烟)<br>[少前百科GFwiki](https://gfwiki.org/w/95式)<br>[42LAB-云图计划专题百科](http://wiki.42lab.cloud/w/黛烟)<br>[少前2Wiki](https://gf2.mcc.wiki/doll/DaiyanSSR) |
 | aki shiina | 椎名亚树 |  |  |
 | nana sunohara | 春原菜菜 |  |  |
-| ayaka sunohara | 春原彩花 |  |  |
+| ayaka sunohara | 春原彩花 | ![](https://ehgt.org/w/02/130/29335-pzixkiv2.webp)<br>出自作品：`p:sunohara-sou no kanrinin-san`<br><br>春原彩花是由ねこうめ所创作的漫画《春原庄的管理员小姐》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/春原彩花) |
 | yang guifei | 杨贵妃 | Fate/Grand Order中的登场角色。 | [https://fgo.wiki/w/杨贵妃](https://fgo.wiki/w/杨贵妃) |
 | akane shinjou | 新条茜 | ![](https://i0.hdslb.com/bfs/new_dyn/aae4bfdcdd6362cec56830e4190e9479262400697.png)<br>新条茜是由TRIGGER所制作的动画《SSSS.GRIDMAN》及其衍生作品的登场角色，粉发红瞳的女子高中生。 | [萌娘百科](https://zh.moegirl.org.cn/新条茜) |
 | mirai kuriyama | 栗山未来 | ![](https://static.wikia.nocookie.net/kyoukainokanata/images/7/79/Miraiiiii.png)<br>所属作品：`kyoukai no kanata` | [萌娘百科](https://zh.moegirl.org.cn/栗山未来) |
