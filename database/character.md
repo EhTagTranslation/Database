@@ -2596,7 +2596,7 @@ example:
 | lucina | 露琪娜 | 露琪娜（Lucina、ルキナ） `fire emblem awakening`中最主要的三个角色之一。 | [Fandom](https://fireemblem.fandom.com/zh/wiki/露琪娜)<br>[维基百科（英语）](https://en.wikipedia.org/wiki/Lucina_%28Fire_Emblem%29)<br>[https://fireemblemwiki.org/wiki/Lucina](https://fireemblemwiki.org/wiki/Lucina) |
 | cynthia | 竹兰 \| 辛西娅 | ![](https://s1.52poke.com/wiki/thumb/a/aa/竹兰_DP.png/171px-竹兰_DP.png)<br>所属作品：`pokemon`<br>日文︰シロナ | [萌娘百科](https://zh.moegirl.org.cn/竹兰) |
 | hikari horaki | 洞木光 |  |  |
-| rei ayanami | 绫波丽 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_3000/h_3000/1253/737159/2025/3/17/326620.png)<br>所属作品：`neon genesis evangelion` | [萌娘百科](https://zh.moegirl.org.cn/绫波丽) |
+| rei ayanami | 绫波丽 | ![](https://static.wikia.nocookie.net/evangelion/images/9/9a/Rei_Ayanami_%28Plugsuit%29.png)<br>所属作品：`neon genesis evangelion` | [萌娘百科](https://zh.moegirl.org.cn/绫波丽) |
 | milly | 米蕾尤 | 《勇者斗恶龙怪兽篇》《勇者斗恶龙VI 幻之大地》中角色 |  |
 | kusuha mizuha | 水羽楠叶 |  |  |
 | seolla schweizer | 塞奥拉·修拜亚 | ![](https://ehgt.org/w/02/207/95874-dqw8alyc.webp)<br>出自作品：`p:super robot wars`<br><br>游戏《超级机器人大战》系列原创角色之一。 | [百度百科](https://baike.baidu.com/item/塞奥拉·修拜亚/1855565) |
