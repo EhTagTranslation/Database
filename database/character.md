@@ -8472,6 +8472,7 @@ example:
 | melpha | 梅露法 | ![](https://static.wikia.nocookie.net/queensblade/images/d/db/MelphaQBU.png)<br>所属作品：`queens blade`<br>日语：メルファ | [百度百科](https://baike.baidu.com/item/梅露法/5438771) |
 | marguerite | 玛格丽特 | ![](https://ehgt.org/w/01/963/27991-3lgpg4v5.webp)<br>所属作品：`one piece` | [百度百科](https://baike.baidu.com/item/玛格丽特/2632199) |
 | nanael | 娜娜艾露 | ![](https://static.wikia.nocookie.net/queensblade/images/4/42/Img_chara_%284%29.png)<br>所属作品：`queens blade`<br>日语：ナナエル | [百度百科](https://baike.baidu.com/item/娜娜艾露/5438604) |
+| annelotte | 安妮洛特 | ![](https://static.wikia.nocookie.net/queensblade/images/a/a4/Annelotte_torn.jpg)<br>所属作品：`queens blade`<br>Annelotte Kreutz<br>日语：アンネロッテ | [百度百科](https://baike.baidu.com/item/安妮洛特/5126644) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
