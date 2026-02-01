@@ -14781,6 +14781,7 @@ example:
 | piccione | piccione |  | [FANBOX](https://voliera.fanbox.cc/) |
 | yhd | 越黑岛 |  | [FANBOX](https://www.fanbox.cc/@l114514) |
 | msyk | かなひろ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22かなひろ%22/ana_flg/all) |
+| touka genteki | 凍佳玄的 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG59286.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
