@@ -8485,6 +8485,7 @@ example:
 | kati mannequin | 卡蒂·玛尼金 | ![](https://static.wikia.nocookie.net/gundam/images/f/fb/MSG00-Kati-%28A-LAWS%29.png)<br>所属作品：`gundam 00` | [百度百科](https://baike.baidu.com/item/卡蒂·马妮金/6515156) |
 | misa suzuhara | 铃原美纱 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | erika kuramoto | 仓本艾丽卡 | 所属作品：`zettai junpaku mahou shoujo` |  |
+| kirara akutsu | 阿久津绮罗拉 | 所属作品：`zettai junpaku mahou shoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
