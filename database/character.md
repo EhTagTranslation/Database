@@ -8470,6 +8470,7 @@ example:
 | siggy | 斯琪 | ![](https://static.wikia.nocookie.net/queensblade/images/9/92/Sister_edited-1.jpg)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/斯琪/7688592) |
 | alleyne | 阿莱茵 | ![](https://static.wikia.nocookie.net/queensblade/images/2/28/Img_chara%28al%29.png)<br>所属作品：`queens blade`<br>日语：アレイン | [百度百科](https://baike.baidu.com/item/阿莱茵/11034209) |
 | melpha | 梅露法 | ![](https://static.wikia.nocookie.net/queensblade/images/d/db/MelphaQBU.png)<br>所属作品：`queens blade`<br>日语：メルファ | [百度百科](https://baike.baidu.com/item/梅露法/5438771) |
+| marguerite | 玛格丽特 | ![](https://ehgt.org/w/01/963/27991-3lgpg4v5.webp)<br>所属作品：`one piece` | [百度百科](https://baike.baidu.com/item/玛格丽特/2632199) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
