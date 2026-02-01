@@ -14778,6 +14778,7 @@ example:
 | ranhatu | 乱発 |  |  |
 | yamaoku midori | 山奥深里 |  |  |
 | ama natsuna | 甘なつな |  |  |
+| piccione | piccione |  | [FANBOX](https://voliera.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
