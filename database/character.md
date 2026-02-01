@@ -2315,7 +2315,7 @@ example:
 | motoki furuhata | 古幡元基 |  |  |
 | yuuichirou kumada | 熊田雄一郎 |  |  |
 |  | ▼ 街头霸王 |  |  |
-| cammy white | 嘉米·怀特 |  |  |
+| cammy white | 嘉米·怀特 | ![](https://static.wikia.nocookie.net/streetfighter/images/9/9a/SF6_Cammy.png)<br>出自作品：`p:street fighter`<br>日语：キャミィ・ホワイト | [Fandom](https://streetfighter.fandom.com/wiki/Cammy) |
 | chun-li | 春丽 | ![](https://www.streetfighter.com/6/assets/images/character/chunli/chunli.png)<br>出自作品：`p:street fighter`<br><br>日语：チュン·リー | [萌娘百科](https://zh.moegirl.org.cn/春丽%28街头霸王%29#) |
 | rainbow mika | 七川美华 | ![](https://ehgt.org/w/01/681/67583-5p3ji6b9.webp)<br>出自作品：`p:street fighter`<br><br>彩虹美华（Rainbow Mika/R.Mika），本名七川美华，是Capcom所创作的格斗游戏《街头霸王》系列及其衍生作品的登场角色。1998年的《街头霸王Zero3》初登场，2016年的《街霸5》中回归。 | [萌娘百科](https://zh.moegirl.org.cn/七川美华) |
 | juri han | 韩蛛俐 | ![](https://ehgt.org/w/02/024/93808-jmau51nh.webp)<br>出自作品：`p:street fighter`<br><br>韩蛛俐是CAPCOM出品的2D格斗游戏《街头霸王系列》中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/韩蛛俐) |
