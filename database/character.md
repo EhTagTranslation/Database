@@ -8467,6 +8467,7 @@ example:
 | helel ben shalem | 赫莱尔·本·夏蕾姆 | ![](https://huiji-public.huijistatic.com/gbf/uploads/6/6d/Zoom_3040251000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040251000) |
 | makura | 玛蔻拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/37/Zoom_3040441000_81.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040441000) |
 | chichiri | 琪琪莉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040621000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040525000) |
+| siggy | 斯琪 | ![](https://static.wikia.nocookie.net/queensblade/images/9/92/Sister_edited-1.jpg)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/斯琪/7688592) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
