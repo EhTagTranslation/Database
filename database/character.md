@@ -4144,7 +4144,7 @@ example:
 | masane amaha | 天羽雅音 |  |  |
 | ayaka tachikawa | 立川绚香 |  |  |
 | aomi yanagisako | 柳迫碧美 |  |  |
-| airi | 爱莉 |  |  |
+| airi | 艾依莉 | ![](https://static.wikia.nocookie.net/queensblade/images/f/f7/Img_chara3.png)<br>所属作品：`queens blade`<br>日语：アイリ | [百度百科](https://baike.baidu.com/item/艾依莉/5439482) |
 | melona | 梅罗娜 | ![](https://static.wikia.nocookie.net/queensblade/images/9/92/Unlimited_Melona.png)<br>所属作品：`queens blade` | [百度百科](https://baike.baidu.com/item/梅罗娜/5438983) |
 | merlin prototype | 梅林〔Prototype〕 | ![](https://ehgt.org/w/01/412/65149-lmtsw329.webp)<br>出自作品：`p:fate grand order`<br><br>梅林(Prototype)是TYPE-MOON旗下的《Fate系列》及其衍生作品的登场角色，在轻小说《Fate/Prototype 苍银的碎片》首次登场，其将在街机版FGO《Fate/Grand Order Arcade》正式实装的消息亦于2020年9月23日公开。 | [fgo.wiki](https://fgo.wiki/w/阿瓦隆女士) \| [萌娘百科](https://zh.moegirl.org.cn/梅林%28Fate/Prototype%29#) |
 | shuna | 朱菜 | ![](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/8/87/Shuna_Anime.png)<br>所属作品 `p:tensei shitara slime datta ken`<br>妖鬼族女性，拥有“鬼姬”称号与“暴风纹章”加护。 | [萌娘百科](https://zh.moegirl.org.cn/朱菜) [Fandom](https://tensura.fandom.com/wiki/Shuna) |
