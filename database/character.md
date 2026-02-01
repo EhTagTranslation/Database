@@ -6096,7 +6096,7 @@ example:
 | louhi | 娄希 | ![](https://ehgt.org/w/01/915/61243-pnkci4z3.webp)<br>出自作品：`p:fate grand order`<br><br>娄希是手机游戏《Fate/Grand Order》于2024年12月限时活动中实装的五星狂阶从者。其背景设定为统治北国波赫约拉的女主人，象征极北之地的灾厄，具有强大魔力且敌视贤者诗人万奈摩宁 。角色拥有前置宝具威力提升、自充与群体充能能力，在周回与高难副本中表现优异，截至2024年12月被评价为顶级绿卡打手。其羁绊礼装通过宴会场景进一步丰富人物形象，强化团队辅助能力。 | [百度百科](https://baike.baidu.com/item/娄希/65193443) |
 | hatsuho kazami | 风见初穗 |  | [Bangumi](https://bgm.tv/character/3488) |
 | astra yao | 耀嘉音 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/22/76099754/8bc5fdc017453a8d4eb711f7756cea9f_1290939657669864460.png?x-oss-process=image/format,webp)<br>![](https://act-upload.mihoyo.com/nap-obc-indep/2025/01/16/15559334/42e581cb3828278a6d79867a165df819_6472892422375142685.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/耀嘉音) |
-| tomoe | 巴 | 巴，女，日本轻小说《月光下的异世界之旅》及其衍生作品中的角色。 |  |
+| tomoe | 巴 | ![](https://static.wikia.nocookie.net/queensblade/images/8/8d/Img_chara%28tm%29.png)<br>所属作品：`queens blade`<br>日语：トモエ | [Fandom](https://queensblade.fandom.com/wiki/Tomoe) |
 | iris midgar | 爱丽丝 米德加尔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br>阿蕾克西雅的姐姐，米德嘉尔王国的第一王女。公认王国最强魔剑士，隶属于米德嘉尔王国骑士团。有着贯彻正义的高尚精神，但也有着对妹妹阿蕾克西雅稍稍过度保护的一面。<br>![](https://lain.bgm.tv/r/400/pic/crt/l/df/66/104270_crt_Ly6KQ.jpg?r=1675247741) |  |
 | shiori katase | 片濑诗织里 |  |  |
 | hisui e. fiore | 翡翠·E·菲奥雷 |  |  |
