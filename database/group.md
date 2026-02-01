@@ -13685,6 +13685,7 @@ example:
 | rk-2 | RK-2 |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202797/) |
 | september | September |  | [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201409/) |
 | more beat | モアビート |  |  |
+| denki neko | でんきねこ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54603.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
