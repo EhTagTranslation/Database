@@ -8463,6 +8463,7 @@ example:
 | guel jeturk | 盖尔·杰特克 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/9f/盖尔·杰特克_第二季表情集.jpg)<br>出自作品：`p:mobile suit gundam the witch from mercury`<br><br>盖尔·杰特克（日语：グエル・ジェターク；英语：Guel Jeturk），是电视动画《机动战士高达 水星的魔女》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/盖尔·杰特克) |
 | sandira | 桑琪拉 | ![](https://gbf.wiki/images/8/82/Npc_zoom_3040633000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040633000) |
 | bhaisa | 拜修拉 | ![](https://gbf.wiki/images/thumb/6/6c/Npc_zoom_3040630000_01.png/720px-Npc_zoom_3040630000_01.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040630000) |
+| haaselia | 哈泽丽拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/a/ae/Zoom_3040168000_81.png)<br>所属作品：`granblue fantasy` | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3040168000) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
