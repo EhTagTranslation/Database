@@ -14777,6 +14777,7 @@ example:
 | tekkannon chiya | 鉄観音千夜 |  |  |
 | ranhatu | 乱発 |  |  |
 | yamaoku midori | 山奥深里 |  |  |
+| ama natsuna | 甘なつな |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
