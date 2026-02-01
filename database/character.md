@@ -8493,7 +8493,7 @@ example:
 | monokuma | 黑白熊 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/50/DT黑白熊.png)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/黑白熊) |
 | kiyotaka ishimaru | 石丸清多夏 | ![](https://static.wikia.nocookie.net/danganronpa/images/d/d6/Kiyotaka_Ishimaru_Illustration.png/revision/latest?cb=20170611020822)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/石丸清多夏) |
 | leon kuwata | 桑田怜恩 | ![](https://static.wikia.nocookie.net/danganronpa/images/4/4f/Leon_Kuwata_Illustration.png/revision/latest?cb=20210509213350)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/桑田怜恩) |
-| mondo oowada | 大和田纹土 | ![](https://static.wikia.nocookie.net/danganronpa/images/d/d1/Mondo_Owada_Illustration.png/revision/latest?cb=20210508214924)<br>所属作品:`danganronpa`<br><br>命场面：大和田黄油 | [萌娘百科](https://zh.moegirl.org.cn/大和田纹土) |
+| mondo oowada | 大和田纹土 | ![](https://static.wikia.nocookie.net/danganronpa/images/d/d1/Mondo_Owada_Illustration.png/revision/latest?cb=20210508214924)<br>所属作品:`danganronpa`<br><br>名场面：大和田黄油 | [萌娘百科](https://zh.moegirl.org.cn/大和田纹土) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
