@@ -8455,6 +8455,7 @@ example:
 | makoto hanaoka | 花冈真琴 | ![](https://static.wikia.nocookie.net/senpaiisanotokonoko/images/0/0c/Makoto_Hanaoka_Render.png)<br>所属作品：`senpai wa otokonoko` | [Fandom](https://senpaiisanotokonoko.fandom.com/wiki/Makoto_Hanaoka) |
 | remi ayasaki | 绫崎礼美 | ![](https://static.wikia.nocookie.net/horimiya/images/f/f7/Remi_profile_image.png)<br>所属作品：`horimiya`<br>日语：あやさき れみ | [Fandom](https://horimiya.fandom.com/wiki/Remi_Ayasaki) |
 | pathojen | 茵 | ![](https://e861b9f5d2.clvaw-cdnwnd.com/2e066863cdf9f9069d02db4e70241b9b/200013821-6597c6597e/image-ezgif.com-avif-to-webp-converter%20%284%29-0.png)<br>所属作品：`fragpunk` |  |
+| ame-chan | 糖糖 | ![](https://static.wikia.nocookie.net/needy-streamer-overload/images/a/ac/AmeSprite.png/revision/latest?cb=20240725112626)<br>所属作品:`needy streamer overload`<br>† 升天 † | [萌娘百科](https://zh.moegirl.org.cn/雨%28主播女孩重度依赖%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
