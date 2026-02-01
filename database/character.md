@@ -8489,6 +8489,7 @@ example:
 | yui arata | 新田由比 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | kotone sasaki | 佐佐木琴音 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | puniyanka | 普里扬卡 | 所属作品：`zettai junpaku mahou shoujo` |  |
+| claudette vance | 库罗德特·万斯 | ![](https://static.wikia.nocookie.net/queensblade/images/b/b1/Img_chara.png)<br>所属作品：`queens blade`<br>日语：クローデット | [百度百科](https://baike.baidu.com/item/库罗德特) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
