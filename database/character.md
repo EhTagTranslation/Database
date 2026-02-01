@@ -8486,6 +8486,7 @@ example:
 | misa suzuhara | 铃原美纱 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | erika kuramoto | 仓本艾丽卡 | 所属作品：`zettai junpaku mahou shoujo` |  |
 | kirara akutsu | 阿久津绮罗拉 | 所属作品：`zettai junpaku mahou shoujo` |  |
+| yui arata | 新田由比 | 所属作品：`zettai junpaku mahou shoujo` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
