@@ -10917,7 +10917,7 @@ example:
 | tokoyo | 常世 |  |  |
 | tokoyo akashi | 常夜あかし |  |  |
 | tokoyon | tokoyon |  |  |
-| toku | 特 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22とく%22) |
+| toku | 特 | 日语：とく | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22とく%22) |
 | toku soncho | とく村長 |  |  |
 | tokuda shinnosuke | 徳田しんのすけ |  |  |
 | tokugawa miyo | 徳川みよ |  |  |
