@@ -8501,6 +8501,7 @@ example:
 | liu fei | 柳菲 |  | [百度百科](https://baike.baidu.com/item/柳菲/55977857) |
 | gu xun er | 萧薰儿 | 原名古薰儿 | [百度百科](https://baike.baidu.com/item/萧薰儿/7534550) |
 | xuan yi | 玄衣 |  | [萌娘百科](https://zh.moegirl.org.cn/玄衣) |
+| xiao yi xian | 小医仙 |  | [萌娘百科](https://zh.moegirl.org.cn/小医仙) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
