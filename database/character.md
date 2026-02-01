@@ -8497,6 +8497,7 @@ example:
 | yasuhiro hagakure | 叶隐康比吕 | ![](https://static.wikia.nocookie.net/danganronpa/images/1/19/Yasuhiro_Hagakure_Illustration.png/revision/latest?cb=20250114211952)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/叶隐康比吕) |
 | chihiro fujisaki | 不二咲千寻 | ![](https://static.wikia.nocookie.net/danganronpa/images/7/7e/Chihiro_Fujisaki_Illustration.png/revision/latest?cb=20170827162806)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/不二咲千寻) |
 | byakuya togami | 十神白夜 | ![](https://static.wikia.nocookie.net/danganronpa/images/5/58/Byakuya_Togami_Illustration.png/revision/latest?cb=20170611004044)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/十神白夜) |
+| villhaze | 薇儿赫泽 | ![](https://ehgt.org/w/02/131/00487-iaugy3ad.webp)<br>出自作品：`p:hikikomari kyuuketsuki no monmon`<br><br>薇儿赫泽（ヴィルヘイズ）自称“小鞠大人的忠实部下”。 | [萌娘百科](https://zh.moegirl.org.cn/家里蹲吸血姬的郁闷#角色介绍) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
