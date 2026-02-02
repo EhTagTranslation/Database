@@ -5894,7 +5894,7 @@ example:
 | mizuchi miyadeguchi | 宫出口瑞灵 | 宫出口瑞灵是东方Project系列中的官方角色，首次登场于东方智灵奇传，担任智灵奇传的反派角色。 | [https://thwiki.cc/宫出口瑞灵](https://thwiki.cc/宫出口瑞灵) |
 | kaori miyazono | 宫园薰 | ![](https://ehgt.org/w/01/984/74168-v0bwenfk.webp)<br>所属作品：`shigatsu wa kimi no uso`<br>宫园薰（宮園（みやぞの） かをり） | [萌娘百科](https://zh.moegirl.org.cn/宫园薰)<br>[维基百科](https://zh.wikipedia.org/wiki/四月是你的謊言) |
 | nayuta tenkawa | 天川那由多 | 天川那由多是猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，绪山真寻升入二年级后的同学，不常说话，充满神秘感的初中生。<br>被朋友们称呼为“奶油糖”（那由碳），自称在为“姐姐”帮忙，所以知道真寻的情况，真寻以为“姐姐”是指美波里，但美波里对此却并没有头绪。<br>![天川那由多](https://img.moegirl.org.cn/common/f/ff/AmagawaNayuta.jpg) | [萌娘百科](https://zh.moegirl.org.cn/天川那由多) |
-| lucy heartfilia | 露西·哈特菲利亚 | 《妖精的尾巴》中的女主角 |  |
+| lucy heartfilia | 露西·哈特菲利亚 | ![](https://ehgt.org/w/02/181/69455-qajwmcaj.webp)<br>出自作品：`p:fairy tail`<br><br>露西·哈特菲利亚，是真岛浩创作的漫画《妖精的尾巴》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/露西·哈特菲利亚) |
 | sakuya sumeragi | 皇咲夜 | ![](https://ehgt.org/w/01/781/75483-d072opqc.webp)<br>![](https://ehgt.org/w/01/945/39360-pri8gu4j.webp) |  |
 | the shorekeeper | 守岸人 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/5/56/101neg0k0er0rkh019ljtj5ev6jgac3.png/465px-角色_守岸人_立绘.png)<br>所属作品：`wuthering waves`<br>守岸人，黑海岸的守护者，这种程度的说明对她便已足够。<br>至于渴望、羁绊、情感……除职责外她所拥有的一切，都丰满于与你相遇之后。 | [萌娘百科](https://zh.moegirl.org.cn/守岸人)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/守岸人) |
 | yuuki sakuna | 结城昨奈 | ![結城](https://img.moegirl.org.cn/common/thumb/b/b3/结城Sakuna信息栏.jpg/560px-结城Sakuna信息栏.jpg)<br>结城昨奈（日语：結城さくな/Yuuki Sakuna）是一名从2024年10月27日在YouTube开始活动的个人势Vtuber。 | [萌娘百科](https://zh.moegirl.org.cn/结城昨奈) |
