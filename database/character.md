@@ -1753,7 +1753,7 @@ example:
 | hestia | 赫斯缇雅 | 真·女神<br>![图](https://ehgt.org/f4/7a/f47ac17bbe0479892d8acdaf64af8774491f36b3-951809-2093-2958-jpg_l.jpg)![女神](# "https://ehgt.org/3c/28/3c2829c2063a40cb0032f5661798b679cf0508e1-8028609-4289-3000-jpg_l.jpg")![图](# "https://ehgt.org/9e/b4/9eb408f6af3baf5008d58c7c6212d715baadeaac-610799-1398-2000-jpg_l.jpg")![女神](# "https://ehgt.org/15/73/157354fd84306386408d126c061deee934421e17-602851-2146-3015-jpg_l.jpg")<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` | [Fandom](https://danmachi.fandom.com/zh/wiki/赫斯缇雅)<br>[萌娘百科](https://zh.moegirl.org.cn/赫斯缇雅) |
 | bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](# "https://ehgt.org/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg") |  |
 | tiona hiryute | 蒂奥娜·席吕特 |  |  |
-| tione hiryute | 蒂奥涅·席吕特 |  |  |
+| tione hiryute | 蒂奥涅·席吕特 | ![](https://ehgt.org/w/02/170/58275-6p9czwo4.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
 | aiz wallenstein | 艾丝·华伦斯坦 |  |  |
 | eina tulle | 埃伊娜·祖尔 |  |  |
 | freya | 芙蕾雅 | 所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>![](https://ehgt.org/w/02/027/22588-1qupj7b2.webp) |  |
