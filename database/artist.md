@@ -14786,6 +14786,7 @@ example:
 | akinoji | あきのじ |  | [X](https://x.com/akiands27) |
 | tanaka ichimi | たなかイチミ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22たなかイチミ%22/ana_flg/all) |
 | kurosawa shouichi | 黒沢翔一 |  |  |
+| nashio. | なしを。 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22なしを。%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
