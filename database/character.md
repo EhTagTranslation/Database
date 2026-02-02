@@ -8512,6 +8512,7 @@ example:
 | bonnie | 柚丽嘉 | ![](https://s1.52poke.com/wiki/1/1b/柚麗嘉_TCG.png)<br>所属作品：`pokemon`<br>日文︰ユリーカ | [https://wiki.52poke.com/wiki/柚麗嘉](https://wiki.52poke.com/wiki/柚麗嘉) |
 | maria renard | 玛丽亚·雷纳德 | ![](https://static.wikia.nocookie.net/castlevania/images/e/e9/Maria_GoS.png)<br>所属作品：`castlevania`<br>日语：マリア ラーーネッド | [百度百科](https://baike.baidu.com/item/玛利亚·雷纳德/57368056) |
 | lenore | 丽诺尔 | ![](https://static.wikia.nocookie.net/castlevania/images/1/19/Lenore_-_01.png)<br>所属作品：`castlevania` |  |
+| tera | 特拉 | ![](https://static.wikia.nocookie.net/castlevania/images/f/fe/Vampier_Tera.png)<br>所属作品：`castlevania`<br>日文：テラ | [Fandom](https://castlevania.fandom.com/wiki/Tera_%28animated_series%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
