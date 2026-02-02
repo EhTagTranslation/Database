@@ -8501,7 +8501,7 @@ example:
 | liu fei | 柳菲 |  | [百度百科](https://baike.baidu.com/item/柳菲/55977857) |
 | gu xun er | 萧薰儿 | ![](https://ehgt.org/w/01/770/33607-t1wiha04.webp)<br>动画形象<br>![](https://ehgt.org/w/01/722/83105-f04joi9m.webp)<br>漫画形象<br>所属作品：`doupo cangqiong`<br>本名古薰儿 | [百度百科](https://baike.baidu.com/item/萧薰儿/7534550) |
 | xuan yi | 玄衣 |  | [萌娘百科](https://zh.moegirl.org.cn/玄衣) |
-| xiao yi xian | 小医仙 |  | [萌娘百科](https://zh.moegirl.org.cn/小医仙) |
+| xiao yi xian | 小医仙 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/2/26/Little_Feary_Doctor_Poster_.jpg)<br>所属作品：`doupo cangqiong` | [萌娘百科](https://zh.moegirl.org.cn/小医仙) |
 | shenmei liu | 刘神美 | 所属作品：《黑色残骸》 | [百度百科](https://baike.baidu.com/item/刘神美/19376963) |
 | mika ogino | 荻布美夏 | 所属作品：《黑骸》 | [百度百科](https://baike.baidu.com/item/荻布美夏/19376865) |
 | minli huang | 黄明丽 | 所属作品：《神的记事本》 | [百度百科](https://baike.baidu.com/item/黄明丽/1405520) |
