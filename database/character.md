@@ -8509,6 +8509,7 @@ example:
 | ya fei | 雅妃 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/c/c5/B3b906833f882ff247cbc1e29bf31b47.jpg)<br>动画形象<br>![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/b/bf/YaFeiManhua.jpg)<br>漫画形象<br>所属作品：`doupo cangqiong` |  |
 | nalan yanran | 纳兰嫣然 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/6/63/NalanYanranManhua.jpg)<br>漫画形象<br>![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/3/3f/Nalanyanran1.jpg)<br>动画形象<br>所属作品：`doupo cangqiong` |  |
 | zi yan | 紫妍 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/8/89/Zi_Yan_Adult_Manhua_333.jpg)<br>漫画形象<br>![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/3/3b/IMG_0652.jpeg)<br>动画形象<br><br>所属作品：`doupo cangqiong` |  |
+| bonnie | 柚丽嘉 | ![](https://s1.52poke.com/wiki/1/1b/柚麗嘉_TCG.png)<br>所属作品：`pokemon`<br>日文︰ユリーカ | [https://wiki.52poke.com/wiki/柚麗嘉](https://wiki.52poke.com/wiki/柚麗嘉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
