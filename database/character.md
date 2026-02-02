@@ -8510,6 +8510,7 @@ example:
 | nalan yanran | 纳兰嫣然 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/6/63/NalanYanranManhua.jpg)<br>漫画形象<br>![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/3/3f/Nalanyanran1.jpg)<br>动画形象<br>所属作品：`doupo cangqiong` |  |
 | zi yan | 紫妍 | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/8/89/Zi_Yan_Adult_Manhua_333.jpg)<br>漫画形象<br>![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/3/3b/IMG_0652.jpeg)<br>动画形象<br><br>所属作品：`doupo cangqiong` |  |
 | bonnie | 柚丽嘉 | ![](https://s1.52poke.com/wiki/1/1b/柚麗嘉_TCG.png)<br>所属作品：`pokemon`<br>日文︰ユリーカ | [https://wiki.52poke.com/wiki/柚麗嘉](https://wiki.52poke.com/wiki/柚麗嘉) |
+| maria renard | 玛丽亚·雷纳德 | ![](https://static.wikia.nocookie.net/castlevania/images/e/e9/Maria_GoS.png)<br>所属作品：`castlevania`<br>日语：マリア ラーーネッド | [百度百科](https://baike.baidu.com/item/玛利亚·雷纳德/57368056) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
