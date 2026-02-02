@@ -1934,7 +1934,7 @@ example:
 | wu zetian | 武则天 | ![图](# "https://ehgt.org/f2/71/f2712e3f466c0dc6210e03f5611af2a27e094d4f-1955013-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/武则天%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/不夜城的Assassin) |
 | abigail williams | 阿比盖尔·威廉姆斯 | 所属作品:`p:fate grand order`<br>![图](https://ehgt.org/3a/f7/3af70f5295f6ff241236676c8d02b2a6b2cb2cf9-2805610-2861-4008-jpg_l.jpg)![图](https://ehgt.org/36/f9/36f969b01299ca3bc05eaa0e0f59109a5a63cdd8-3228482-2114-3047-jpg_l.jpg)![图](# "https://ehgt.org/5c/e7/5ce79bff7aeec5184644c3d4e6aecff0fd722d1e-2512055-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/阿比盖尔·威廉姆斯) |
 | hans christian andersen | 汉斯·克里斯蒂安·安徒生 |  |  |
-| hector | 赫克特 |  |  |
+| hector | 海克特 | ![](https://static.wikia.nocookie.net/castlevania/images/9/9a/Hec.png)<br>所属作品：`castlevania`<br>日语：ヘクター | [百度百科](https://baike.baidu.com/item/海克特/62612972) |
 | mochizuki chiyome | 望月千代女 |  |  |
 | osakabehime | 刑部姬 | 刑部姬是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>![刑部姬](https://img.moegirl.org.cn/common/7/7e/Osakabehime_swimsuit.jpg) | [萌娘百科](https://zh.moegirl.org.cn/刑部姬%28Fate%29#) |
 | sakata kintoki | 坂田金时 |  |  |
