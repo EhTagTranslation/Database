@@ -8499,7 +8499,7 @@ example:
 | byakuya togami | 十神白夜 | ![](https://static.wikia.nocookie.net/danganronpa/images/5/58/Byakuya_Togami_Illustration.png/revision/latest?cb=20170611004044)<br>所属作品:`danganronpa` | [萌娘百科](https://zh.moegirl.org.cn/十神白夜) |
 | villhaze | 薇儿赫泽 | ![](https://ehgt.org/w/02/131/00487-iaugy3ad.webp)<br>出自作品：`p:hikikomari kyuuketsuki no monmon`<br><br>薇儿赫泽（ヴィルヘイズ）自称“小鞠大人的忠实部下”。 | [萌娘百科](https://zh.moegirl.org.cn/家里蹲吸血姬的郁闷#角色介绍) |
 | liu fei | 柳菲 |  | [百度百科](https://baike.baidu.com/item/柳菲/55977857) |
-| gu xun er | 萧薰儿 | ![](https://ehgt.org/w/01/722/83105-f04joi9m.webp)<br>所属作品：`doupo cangqiong`<br>原名古薰儿 | [百度百科](https://baike.baidu.com/item/萧薰儿/7534550) |
+| gu xun er | 萧薰儿 | ![](https://ehgt.org/w/01/770/33607-t1wiha04.webp)<br>动画形象<br>![](https://ehgt.org/w/01/722/83105-f04joi9m.webp)<br>漫画形象<br>所属作品：`doupo cangqiong`<br>本名古薰儿 | [百度百科](https://baike.baidu.com/item/萧薰儿/7534550) |
 | xuan yi | 玄衣 |  | [萌娘百科](https://zh.moegirl.org.cn/玄衣) |
 | xiao yi xian | 小医仙 |  | [萌娘百科](https://zh.moegirl.org.cn/小医仙) |
 | shenmei liu | 刘神美 | 所属作品：《黑色残骸》 | [百度百科](https://baike.baidu.com/item/刘神美/19376963) |
