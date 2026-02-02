@@ -5884,7 +5884,7 @@ example:
 | zenjuubou sugitani | 杉谷善住坊 |  |  |
 | tushan honghong | 涂山红红 | 涂山红红是由漫画家小新所创作的漫画《狐妖小红娘》及其衍生作品的登场角色，女主角。<br>![](https://img.moegirl.org.cn/common/thumb/2/25/狐妖小红娘_%2832%29.jpg/800px-狐妖小红娘_%2832%29.jpg) | [萌娘百科](https://zh.moegirl.org.cn/涂山红红) |
 | yuka nakano | 中野有香 | ![](https://patchwiki.biligame.com/images/imascg/thumb/8/82/jbnnb08v35zwr64etgah5fgylkznxko.png/960px-CGSS-Yuka-3D-4.png)<br>所属作品：《`p:the idolmaster`灰姑娘女孩》CUTE组<br>中野有香（日语：中野（なかの） 有香（ゆか）） | [萌娘百科](https://zh.moegirl.org.cn/中野有香) |
-| cai lin | 彩鳞 | 美杜莎，又名彩鳞，天蚕土豆所著异世大陆类玄幻小说《斗破苍穹》及其衍生作品中的女主角之一<br>![](https://bkimg.cdn.bcebos.com/pic/e61190ef76c6a7ef2cca01c4f3faaf51f2de6660?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080) | [百度百科](https://baike.baidu.com/item/美杜莎/13006740) |
+| cai lin | 彩鳞（美杜莎女王） | ![](https://static.wikia.nocookie.net/battle-through-the-heavens/images/3/33/Cai_Lin_Wife_of_Xiao_Yan.jpg)<br>所属作品：`doupo cangqiong` | [百度百科](https://baike.baidu.com/item/美杜莎/13006740) |
 | caper | 跃跃 | ![](https://patchwiki.biligame.com/images/arknights/a/aa/3kvt4vkfmtw3japtuv5zm7qqo3j7447.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/跃跃) |
 | superman | 超人 |  | [萌娘百科](https://zh.moegirl.org.cn/超人%28DC漫画%29#) |
 | sethos | 赛索斯 | 赛索斯是米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/赛索斯) |
