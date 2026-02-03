@@ -8518,7 +8518,7 @@ example:
 | charlotte aulin | 夏洛特·欧琳 | ![](https://static.wikia.nocookie.net/castlevania/images/6/64/Ch_GoS_1.png)<br>所属作品：`castlevania`<br>日语：シャーロット・オーリン | [百度百科](https://baike.baidu.com/item/夏洛特·欧琳/62983075) |
 | julia belmont | 茱莉亚·贝尔蒙特 | ![](https://static.wikia.nocookie.net/castlevania/images/f/f0/Julia_Belmont.png)<br>所属作品：`castlevania`<br>日语：ジュリア・ベルモンド |  |
 | wishiwashi | 弱丁鱼 | ![](https://s1.52poke.com/wiki/thumb/1/18/746Wishiwashi-Solo.png/600px-746Wishiwashi-Solo.png)<br>所属作品：`pokemon` | [https://wiki.52poke.com/wiki/弱丁鱼](https://wiki.52poke.com/wiki/弱丁鱼) |
-| koko | 卡璞・鸣鸣 | ![](https://s1.52poke.com/wiki/thumb/d/d0/785Tapu_Koko.png/250px-785Tapu_Koko.png)<br>所属作品：`pokemon`<br>日文︰カプ・コケコ |  |
+| koko | 卡璞・鸣鸣 | ![](https://s1.52poke.com/wiki/thumb/d/d0/785Tapu_Koko.png/250px-785Tapu_Koko.png)<br>所属作品：`pokemon`<br>日文︰カプ・コケコ | [https://wiki.52poke.com/wiki/卡璞・鸣鸣](https://wiki.52poke.com/wiki/卡璞・鸣鸣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
