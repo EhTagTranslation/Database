@@ -8531,6 +8531,7 @@ example:
 | suika | 西瓜 | ![](https://static.wikia.nocookie.net/dr-stone/images/0/0f/Suika_Post-Timeskip_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语：スイカ | [Fandom](https://dr-stone.fandom.com/wiki/Suika) |
 | tsukasa shishiou | 狮子王司 | ![](https://static.wikia.nocookie.net/dr-stone/images/5/50/Tsukasa_Shishio_%28Anime%29.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Tsukasa_Shishio) |
 | weronika | 维罗妮卡 | ![](https://static.wikia.nocookie.net/d4dj/images/e/e9/Weronika_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：ヴェロニカ | [Fandom](https://d4dj.fandom.com/wiki/Weronika) |
+| lumina ichihoshi | 一星瑠美奈 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d5/Lumina_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：一星 ルミナ | [Fandom](https://d4dj.fandom.com/wiki/Ichihoshi_Lumina) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
