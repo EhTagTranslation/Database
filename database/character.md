@@ -8517,6 +8517,7 @@ example:
 | shanoa | 莎诺娅 | ![](https://static.wikia.nocookie.net/castlevania/images/2/27/OoE_Shanoa.jpg)<br>所属作品：`castlevania`<br>日语：シャノア | [百度百科](https://baike.baidu.com/item/莎诺娅/2556699) |
 | charlotte aulin | 夏洛特·欧琳 | ![](https://static.wikia.nocookie.net/castlevania/images/6/64/Ch_GoS_1.png)<br>所属作品：`castlevania`<br>日语：シャーロット・オーリン | [百度百科](https://baike.baidu.com/item/夏洛特·欧琳/62983075) |
 | julia belmont | 茱莉亚·贝尔蒙特 | ![](https://static.wikia.nocookie.net/castlevania/images/f/f0/Julia_Belmont.png)<br>所属作品：`castlevania`<br>日语：ジュリア・ベルモンド |  |
+| wishiwashi | 弱丁鱼 | ![](https://s1.52poke.com/wiki/thumb/1/18/746Wishiwashi-Solo.png/600px-746Wishiwashi-Solo.png)<br>所属作品：`pokemon` | [https://wiki.52poke.com/wiki/弱丁鱼](https://wiki.52poke.com/wiki/弱丁鱼) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
