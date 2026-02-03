@@ -8198,7 +8198,7 @@ example:
 | rio kanzaki | 神崎莉央 | ![](https://static.wikia.nocookie.net/idoly-pride/images/0/02/Kanzaki_Rio_7.png)<br>所属作品：`idoly pride` | [Fandom](https://idoly-pride.fandom.com/wiki/Rio_Kanzaki#Anime) |
 | sumire okuyama | 奥山堇 | ![](https://static.wikia.nocookie.net/idoly-pride/images/e/e9/Okuyama_Sumire_6.png)<br>所属作品：`idoly pride` | [Fandom](https://idoly-pride.fandom.com/wiki/Sumire_Okuyama#Anime) |
 | saori hidaka | 日高沙织 | ![](https://static.wikia.nocookie.net/d4dj/images/2/25/Saori_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Hidaka_Saori) |
-| rika seto | 濑户梨花 | ![](https://static.wikia.nocookie.net/d4dj/images/6/69/Rika_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Seto_Rika) |
+| rika seto | 濑户莉花 | ![](https://static.wikia.nocookie.net/d4dj/images/6/69/Rika_%28All_Mix%29.png)<br>其余译名：濑户莉夏<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Seto_Rika)<br>[萌娘百科](https://zh.moegirl.org.cn/濑户莉夏) |
 | marika mizushima | 水岛茉莉花 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d4/Marika_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Mizushima_Marika) |
 | dalia matsuyama | 松山达利亚 | ![](https://static.wikia.nocookie.net/d4dj/images/9/96/Dalia_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Matsuyama_Dalia) |
 | maho akashi | 明石真秀 | ![](https://static.wikia.nocookie.net/d4dj/images/5/59/Maho-illust-new.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Akashi_Maho) |
@@ -8539,6 +8539,7 @@ example:
 | kurumi shiratori | 白鸟胡桃 | ![](https://static.wikia.nocookie.net/d4dj/images/f/f8/Kurumi-illust-new.png/revision/latest?cb=20200207044343)<br><br>日文：白鳥胡桃（しらとり くるみ）<br><br>所属作品:`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/白鸟胡桃) |
 | mana nagase | 长濑麻奈 | ![](https://static.wikia.nocookie.net/idoly-pride/images/c/c6/Nagase_Mana_3.png/revision/latest?cb=20250511081643)<br>日文：長瀬麻奈（ながせ まな）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/长濑麻奈) |
 | mei hayasaka | 早坂芽衣 | ![](https://static.wikia.nocookie.net/idoly-pride/images/b/b7/Mei_Hayasaka_Group.png/revision/latest?cb=20250523185132)<br>日文：はやさか めい<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/早坂芽衣) |
+| toka takao | 高尾灯佳 | ![](https://static.wikia.nocookie.net/d4dj/images/4/48/Takao_Toka.png/revision/latest?cb=20220424223312)<br>日文:たかお とか<br>所属作品：`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/高尾灯佳)<br>[Fandom](https://d4dj.fandom.com/wiki/Takao_Toka) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
