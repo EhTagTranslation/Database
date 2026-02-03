@@ -8532,6 +8532,7 @@ example:
 | tsukasa shishiou | 狮子王司 | ![](https://static.wikia.nocookie.net/dr-stone/images/5/50/Tsukasa_Shishio_%28Anime%29.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Tsukasa_Shishio) |
 | weronika | 维罗妮卡 | ![](https://static.wikia.nocookie.net/d4dj/images/e/e9/Weronika_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：ヴェロニカ | [Fandom](https://d4dj.fandom.com/wiki/Weronika) |
 | lumina ichihoshi | 一星瑠美奈 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d5/Lumina_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：一星 ルミナ | [Fandom](https://d4dj.fandom.com/wiki/Ichihoshi_Lumina) |
+| kokoa shinomiya | 四之宫心爱 | ![](https://static.wikia.nocookie.net/d4dj/images/7/7f/Kokoa_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：四ノ宮心愛 | [Fandom](https://d4dj.fandom.com/wiki/Shinomiya_Kokoa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
