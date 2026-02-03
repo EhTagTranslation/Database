@@ -14798,6 +14798,7 @@ example:
 | meccha | めっちゃ |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=めっちゃ&text_type=author) |
 | hagure tanishi | 谷澤史紀（葉雨たにし） |  |  |
 | gagaimo | ガガイモ |  |  |
+| gawako | がわこ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
