@@ -5861,7 +5861,7 @@ example:
 | vulpisfoglia | 忍冬 | ![](https://patchwiki.biligame.com/images/arknights/0/08/9tb2htl7nser8me879yr0ghm8nrwzpy.png)<br>所属作品 `p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/忍冬) |
 | kirie kagarino | 篝之雾枝 | ![](https://ehgt.org/w/00/232/64697-frgpa2z1.webp)<br>出自作品：`p:bishoujo mangekyou`<br><br>篝之雾枝，是由ωstar制作的Galgame《美少女万華鏡－呪われし伝説の少女－》及其衍生作品中的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/篝之雾枝) |
 | rinami himesaki | 姫崎莉波 | ![](https://gakuen.idolmaster-official.jp/assets/img/idol/rinami/thumb.png)<br>出自作品：`p:the idolmaster`<br><br>姬崎莉波是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [官网人物介绍](https://gakuen.idolmaster-official.jp/idol/rinami/) \| [萌娘百科](https://zh.moegirl.org.cn/姬崎莉波) |
-| saya | 沙耶 | nitro+视觉小说游戏《沙耶之歌》女主角 |  |
+| saya | 沙耶 | ![](https://static.wikia.nocookie.net/saya-no-uta/images/b/b1/Saya_no_Uta_Infobox.jpg)<br>所属作品：`saya no uta` |  |
 | ginko momose | 百生吟子 | 百生吟子（日语：百生 吟子，罗马字：Momose Ginko）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/百生吟子) |
 | hime anyoji | 安养寺姬芽 | 安养寺姬芽（日语：安養寺 姫芽，罗马字：Anyoji Hime）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/安养寺姬芽) |
 | ophelia phamrsolone | 奥菲莉娅·法姆索罗涅 |  |  |
