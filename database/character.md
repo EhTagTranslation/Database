@@ -1043,7 +1043,7 @@ example:
 | elsa granhiert | 艾尔莎·葛兰西尔特 | ![](https://img.moegirl.org.cn/common/3/36/Elsa_Granhiert_.gif)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>与菲鲁特交易的谜之美女。<br>真实身份是被雇佣的暗杀者，由于喜好将暗杀目标的腹部切开而有着“猎肠者”之异名。 | [萌娘百科](https://zh.moegirl.org.cn/艾尔莎·葛兰西尔特) |
 |  | ▼ 路人女主的养成方法 角色 |  |  |
 | tomoya aki | 安艺伦也 |  |  |
-| megumi kato | 加藤惠 | ![加藤惠](https://ehgt.org/6c/9a/6c9af6efa451f8dc0baad129e183a58aab56205c-942072-2145-3026-jpg_l.jpg) |  |
+| megumi kato | 加藤惠 | ![](https://static.wikia.nocookie.net/saekano/images/b/bc/Megumi%27s_design.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | utaha kasumigaoka | 霞之丘诗羽 | 出自作品：`p:saenai heroine no sodatekata`<br><br>![霞之丘诗羽](https://ehgt.org/e2/f2/e2f26d14ccd531b6096b4ddf6639e83da9f1e98a-197453-650-1000-jpg_l.jpg)![图](# "https://ehgt.org/89/08/8908e2bdfdaafb184152eeae2c15bc6040d1301a-1235757-2000-1918-jpg_l.jpg") |  |
 | michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |  |
 | eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | 出自作品：`p:saenai heroine no sodatekata`<br><br>![泽村·斯宾塞·英梨梨](https://ehgt.org/78/e1/78e11c97c6e09366cc83386902a5f3017606bc27-336327-385-1200-jpg_l.jpg)![图](https://ehgt.org/c2/69/c269e46ca319ed8d35dd834ef701b2335a1b0e00-1911197-893-1227-png_l.jpg)![图](# "https://ehgt.org/b7/e4/b7e48d2ec94ab65a4193c02fca1f943799a0f37d-1891325-1920-1080-png_l.jpg") |  |
