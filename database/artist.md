@@ -14791,6 +14791,7 @@ example:
 | necro | 根黒 |  |  |
 | high re | ハイ\_レ |  | [FANBOX](https://high-re.fanbox.cc/) |
 | darkness yuma | ダークネスゆま |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ダークネスゆま%22) |
+| yamadare | Yamadare |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22Yamadare%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
