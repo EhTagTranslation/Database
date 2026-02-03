@@ -1906,7 +1906,7 @@ example:
 | satsuki yumizuka | 弓冢五月 |  |  |
 | shiki tohno | 远野志贵 |  |  |
 | akiha tohno | 远野秋叶 |  |  |
-| kohaku | 琥珀 | 琥珀是由稻垣理一郎原作、Boichi作画的漫画《Dr.STONE 石纪元》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4c/琥珀%28石纪元%29.png) | [萌娘百科](https://zh.moegirl.org.cn/琥珀%28石纪元%29#) |
+| kohaku | 琥珀 | ![](https://static.wikia.nocookie.net/dr-stone/images/a/a2/Kohaku_Anime_Profile.png)<br>所属作品：`dr. stone` | [萌娘百科](https://zh.moegirl.org.cn/琥珀%28石纪元%29#) |
 | sion eltnam atlasia | 紫苑·艾尔特纳姆·阿特拉西亚 |  |  |
 | dracula | 德古拉 |  |  |
 | francis drake | 弗朗西斯·德雷克 | ![图](https://ehgt.org/54/d4/54d440c4c4654fcddc383d99dd5a8cb1f1ced197-2189757-1024-1448-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/弗朗西斯·德雷克%28Fate%29#) [Mooncell](http://www.fgo.wiki/w/弗朗西斯·德雷克) |
