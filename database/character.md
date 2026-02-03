@@ -8533,6 +8533,7 @@ example:
 | weronika | 维罗妮卡 | ![](https://static.wikia.nocookie.net/d4dj/images/e/e9/Weronika_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：ヴェロニカ | [Fandom](https://d4dj.fandom.com/wiki/Weronika) |
 | lumina ichihoshi | 一星瑠美奈 | ![](https://static.wikia.nocookie.net/d4dj/images/d/d5/Lumina_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：一星 ルミナ | [Fandom](https://d4dj.fandom.com/wiki/Ichihoshi_Lumina) |
 | kokoa shinomiya | 四之宫心爱 | ![](https://static.wikia.nocookie.net/d4dj/images/7/7f/Kokoa_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：四ノ宮心愛 | [Fandom](https://d4dj.fandom.com/wiki/Shinomiya_Kokoa) |
+| esora shimizu | 清水空 | ![](https://static.wikia.nocookie.net/d4dj/images/8/89/Esora-illust-new.png/revision/latest?cb=20200207044009)<br>日语：清水 絵空<br>所属作品:`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Shimizu_Esora)<br>[萌娘百科](https://zh.moegirl.org.cn/清水绘空) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
