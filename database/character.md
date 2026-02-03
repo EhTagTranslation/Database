@@ -8529,6 +8529,7 @@ example:
 | yuzuriha ogawa | 小川杠 | ![](https://static.wikia.nocookie.net/dr-stone/images/7/72/Yuzuriha_Ogawa_Full_Body_%28Anime%29.png)<br>所属作品：`dr. stone`<br>日语：おがわ ゆずりは | [Fandom](https://dr-stone.fandom.com/wiki/Yuzuriha_Ogawa) |
 | gen asagiri | 浅雾幻 | ![](https://static.wikia.nocookie.net/dr-stone/images/5/52/Gen_Asagiri_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语：あさぎりゲン | [Fandom](https://dr-stone.fandom.com/wiki/Gen_Asagiri) |
 | suika | 西瓜 | ![](https://static.wikia.nocookie.net/dr-stone/images/0/0f/Suika_Post-Timeskip_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语：スイカ | [Fandom](https://dr-stone.fandom.com/wiki/Suika) |
+| tsukasa shishiou | 狮子王司 | ![](https://static.wikia.nocookie.net/dr-stone/images/5/50/Tsukasa_Shishio_%28Anime%29.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Tsukasa_Shishio) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
