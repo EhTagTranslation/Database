@@ -8524,6 +8524,7 @@ example:
 | senku ishigami | 石神千空 | ![](https://static.wikia.nocookie.net/dr-stone/images/9/93/Senku_Ishigami_%28Anime%29.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Senku_Ishigami) |
 | nikki hanada | 花田仁姫 | ![](https://static.wikia.nocookie.net/dr-stone/images/2/28/Nikki_Hanada_Full_Body_Anime.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Nikki_Hanada) |
 | luna wright | 露娜·莱特 | ![](https://static.wikia.nocookie.net/dr-stone/images/b/b4/Luna_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语：ルーナ・ライト | [Fandom](https://dr-stone.fandom.com/wiki/Luna_Wright) |
+| chelsea childe | 切尔西·查伊德 | ![](https://static.wikia.nocookie.net/dr-stone/images/a/a5/Chelsea_Anime.png)<br>所属作品：`dr. stone`<br>日语：チェルシー・チャイルド | [Fandom](https://dr-stone.fandom.com/wiki/Chelsea_Childe) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
