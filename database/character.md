@@ -8521,6 +8521,7 @@ example:
 | koko | 可可 | ![](https://static.wikia.nocookie.net/pokemon/images/b/bc/Koko_M23.png)<br>所属作品：`pokemon` | [Fandom](https://pokemon.fandom.com/wiki/Koko) |
 | fuminori sakisaka | 匂坂郁纪 | ![](https://static.wikia.nocookie.net/saya-no-uta/images/f/f9/Fuminori_Sakisaka_Infobox.png)<br>所属作品：`saya no uta` | [百度百科](https://baike.baidu.com/item/匂坂郁纪/8245670) |
 | miyu suzuki | 铃木实优 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e8/0c/166839_crt_2Krz5.jpg)<br>所属作品：`seihantai na kimi to boku` |  |
+| senku ishigami | 石神千空 | ![](https://static.wikia.nocookie.net/dr-stone/images/9/93/Senku_Ishigami_%28Anime%29.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Senku_Ishigami) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
