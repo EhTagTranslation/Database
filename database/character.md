@@ -8538,6 +8538,7 @@ example:
 | kokoro akazaki | 赤崎心 | ![](https://static.wikia.nocookie.net/idoly-pride/images/2/28/Akazaki_Kokoro_5.png/revision/latest?cb=20201230200020)<br>日文：赤崎こころ（あかざき こころ）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/赤崎心) |
 | kurumi shiratori | 白鸟胡桃 | ![](https://static.wikia.nocookie.net/d4dj/images/f/f8/Kurumi-illust-new.png/revision/latest?cb=20200207044343)<br><br>日文：白鳥胡桃（しらとり くるみ）<br><br>所属作品:`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/白鸟胡桃) |
 | mana nagase | 长濑麻奈 | ![](https://static.wikia.nocookie.net/idoly-pride/images/c/c6/Nagase_Mana_3.png/revision/latest?cb=20250511081643)<br>日文：長瀬麻奈（ながせ まな）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/长濑麻奈) |
+| mei hayasaka | 早坂芽衣 | ![](https://static.wikia.nocookie.net/idoly-pride/images/b/b7/Mei_Hayasaka_Group.png/revision/latest?cb=20250523185132)<br>日文：はやさか めい<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/早坂芽衣) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
