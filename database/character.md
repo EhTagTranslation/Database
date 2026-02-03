@@ -1042,7 +1042,7 @@ example:
 | julius euclius | 由里乌斯·尤克历乌斯 | ![由里乌斯·尤克历乌斯](# "https://ehgt.org/eb/f3/ebf31a6cbb4d1814930de5eb898db2563c95ac47-111953-674-1000-jpg_l.jpg") |  |
 | elsa granhiert | 艾尔莎·葛兰西尔特 | ![](https://img.moegirl.org.cn/common/3/36/Elsa_Granhiert_.gif)<br><br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>与菲鲁特交易的谜之美女。<br>真实身份是被雇佣的暗杀者，由于喜好将暗杀目标的腹部切开而有着“猎肠者”之异名。 | [萌娘百科](https://zh.moegirl.org.cn/艾尔莎·葛兰西尔特) |
 |  | ▼ 路人女主的养成方法 角色 |  |  |
-| tomoya aki | 安艺伦也 |  |  |
+| tomoya aki | 安艺伦也 | ![](https://static.wikia.nocookie.net/saekano/images/4/43/Body_Tomoya.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | megumi kato | 加藤惠 | ![](https://static.wikia.nocookie.net/saekano/images/b/bc/Megumi%27s_design.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | utaha kasumigaoka | 霞之丘诗羽 | ![](https://static.wikia.nocookie.net/saekano/images/f/fa/Content_chara02.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |  |
