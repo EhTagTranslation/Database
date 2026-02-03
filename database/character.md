@@ -8542,6 +8542,7 @@ example:
 | toka takao | 高尾灯佳 | ![](https://static.wikia.nocookie.net/d4dj/images/4/48/Takao_Toka.png/revision/latest?cb=20220424223312)<br>日文:たかお とか<br>所属作品：`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/高尾灯佳)<br>[Fandom](https://d4dj.fandom.com/wiki/Takao_Toka) |
 | rui tendou | 天动瑠依 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7d/Tendo_Rui_1.png/revision/latest?cb=20210103051532)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/天动瑠依)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Rui_Tendo) |
 | miura hayasaka | 早坂美丽 | ![](https://ehgt.org/42/90/4290a744d96660597cd89d45a6fd714d1308c8a6-348916-1074-1523-jpg_250.jpg)<br>出自作品：`p:yotsubato`<br><br>早坂美丽是漫画《四叶妹妹!》中的虚构角色，为绫濑惠那的朋友。该角色以中性气质为特征，言行举止、服装风格及动作习惯呈现小男生特质，日常频繁到惠那家玩耍。 | [百度百科](https://baike.baidu.com/item/早坂美麗/4394552) |
+| michiru kaibara | 海原美知留 | ![](https://static.wikia.nocookie.net/d4dj/images/1/19/Michiru_official.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Kaibara_Michiru) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
