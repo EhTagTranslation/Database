@@ -13692,6 +13692,7 @@ example:
 | union bust | ゆにおんばすと |  |  |
 | monochrome theater | モノクロームシアター |  |  |
 | sayuumigi | さゆうみぎ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01002216.html) |
+| darkness sha | ももた園 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61840.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
