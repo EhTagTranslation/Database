@@ -8525,6 +8525,7 @@ example:
 | nikki hanada | 花田仁姫 | ![](https://static.wikia.nocookie.net/dr-stone/images/2/28/Nikki_Hanada_Full_Body_Anime.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Nikki_Hanada) |
 | luna wright | 露娜·莱特 | ![](https://static.wikia.nocookie.net/dr-stone/images/b/b4/Luna_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语：ルーナ・ライト | [Fandom](https://dr-stone.fandom.com/wiki/Luna_Wright) |
 | chelsea childe | 切尔西·查伊德 | ![](https://static.wikia.nocookie.net/dr-stone/images/a/a5/Chelsea_Anime.png)<br>所属作品：`dr. stone`<br>日语：チェルシー・チャイルド | [Fandom](https://dr-stone.fandom.com/wiki/Chelsea_Childe) |
+| homura momiji | 红叶焰 | ![](https://static.wikia.nocookie.net/dr-stone/images/2/2d/Homura_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语:紅葉もみじほむら | [Fandom](https://dr-stone.fandom.com/wiki/Homura_Momiji) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
