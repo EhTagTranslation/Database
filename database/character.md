@@ -8535,6 +8535,7 @@ example:
 | kokoa shinomiya | 四之宫心爱 | ![](https://static.wikia.nocookie.net/d4dj/images/7/7f/Kokoa_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：四ノ宮心愛 | [Fandom](https://d4dj.fandom.com/wiki/Shinomiya_Kokoa) |
 | esora shimizu | 清水绘空 | ![](https://static.wikia.nocookie.net/d4dj/images/8/89/Esora-illust-new.png/revision/latest?cb=20200207044009)<br>日语：清水 絵空<br>所属作品:`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Shimizu_Esora)<br>[萌娘百科](https://zh.moegirl.org.cn/清水绘空) |
 | haruna kasuga | 春日春奈 | ![](https://static.wikia.nocookie.net/d4dj/images/e/e5/Haruna-illust-new.png/revision/latest?cb=20200207044325)<br>所属作品:`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/春日春奈) |
+| kokoro akazaki | 赤崎心 | ![](https://static.wikia.nocookie.net/idoly-pride/images/2/28/Akazaki_Kokoro_5.png/revision/latest?cb=20201230200020)<br>日文：赤崎こころ（あかざき こころ）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/赤崎心) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
