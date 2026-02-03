@@ -12931,7 +12931,7 @@ example:
 | oekaki kaki | おえかきかき |  |  |
 | horori | horori |  | [pixiv](https://www.pixiv.net/users/13156030) |
 | non-sugar | ノンシュガー |  |  |
-| niui | niui |  | [pixiv](https://www.pixiv.net/users/50161358) |
+| niui | Niui |  | [pixiv](https://www.pixiv.net/users/50161358) \|  [Patreon](https://www.patreon.com/Niui) |
 | almondman | アーモンドマン |  | [pixiv](https://www.pixiv.net/users/39013721) |
 | yawano yawa | 柔乃やわ |  |  |
 | efuri | えふり |  | [pixiv](https://www.pixiv.net/users/21997192) |
