@@ -14799,6 +14799,7 @@ example:
 | hagure tanishi | 谷澤史紀（葉雨たにし） |  |  |
 | gagaimo | ガガイモ |  |  |
 | gawako | がわこ |  |  |
+| ukai saki | 鵜飼沙樹 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
