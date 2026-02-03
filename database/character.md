@@ -1046,7 +1046,7 @@ example:
 | megumi kato | 加藤惠 | ![](https://static.wikia.nocookie.net/saekano/images/b/bc/Megumi%27s_design.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | utaha kasumigaoka | 霞之丘诗羽 | ![](https://static.wikia.nocookie.net/saekano/images/f/fa/Content_chara02.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |  |
-| eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | 出自作品：`p:saenai heroine no sodatekata`<br><br>![泽村·斯宾塞·英梨梨](https://ehgt.org/78/e1/78e11c97c6e09366cc83386902a5f3017606bc27-336327-385-1200-jpg_l.jpg)![图](https://ehgt.org/c2/69/c269e46ca319ed8d35dd834ef701b2335a1b0e00-1911197-893-1227-png_l.jpg)![图](# "https://ehgt.org/b7/e4/b7e48d2ec94ab65a4193c02fca1f943799a0f37d-1891325-1920-1080-png_l.jpg") |  |
+| eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![](https://static.wikia.nocookie.net/saekano/images/7/71/Content_chara01.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | izumi hashima | 波岛出海 | ![波岛出海](# "https://ehgt.org/26/b1/26b17a7462f12aa7f5c49fc088ea3d90f88060d7-599437-627-885-png_l.jpg") |  |
 |  | ▼ 我的朋友很少 角色 |  |  |
 | kobato hasegawa | 羽濑川小鸠 | ![羽濑川小鸠](https://ehgt.org/11/e7/11e759c8412af65520dc1f60395d7830090d80a7-50943-315-640-jpg_l.jpg)<br>出自作品：`p:boku wa tomodachi ga sukunai`<br><br>羽濑川小鸠是平坂读创作的轻小说《我的朋友很少》及其衍生的动画等作品的登场角色，女主角之一。 | [萌娘百科](https://zh.moegirl.org.cn/羽濑川小鸠) |
