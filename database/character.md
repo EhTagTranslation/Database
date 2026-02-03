@@ -8549,6 +8549,7 @@ example:
 | nagisa tsukimiyama | 月见山渚 | ![](https://static.wikia.nocookie.net/d4dj/images/1/18/Nagisa_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj`<br>日语：月見山渚 | [Fandom](https://d4dj.fandom.com/wiki/Tsukimiyama_Nagisa) |
 | aoi miyake | 三宅葵依 | ![](https://static.wikia.nocookie.net/d4dj/images/c/cd/Aoi_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj`<br>日语：三宅葵依 | [Fandom](https://d4dj.fandom.com/wiki/Miyake_Aoi) |
 | shinobu inuyose | 犬寄忍 | ![](https://static.wikia.nocookie.net/d4dj/images/1/17/Shinobu_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj`<br>日语：犬寄しのぶ | [Fandom](https://d4dj.fandom.com/wiki/Inuyose_Shinobu) |
+| hayate tendo | 天堂飒 | ![](https://static.wikia.nocookie.net/d4dj/images/6/61/Hayate_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：天堂 はやて | [Fandom](https://d4dj.fandom.com/wiki/Tendo_Hayate) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
