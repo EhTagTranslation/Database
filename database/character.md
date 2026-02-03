@@ -8523,6 +8523,7 @@ example:
 | miyu suzuki | 铃木实优 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e8/0c/166839_crt_2Krz5.jpg)<br>所属作品：`seihantai na kimi to boku` |  |
 | senku ishigami | 石神千空 | ![](https://static.wikia.nocookie.net/dr-stone/images/9/93/Senku_Ishigami_%28Anime%29.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Senku_Ishigami) |
 | nikki hanada | 花田仁姫 | ![](https://static.wikia.nocookie.net/dr-stone/images/2/28/Nikki_Hanada_Full_Body_Anime.png)<br>所属作品：`dr. stone` | [Fandom](https://dr-stone.fandom.com/wiki/Nikki_Hanada) |
+| luna wright | 露娜·莱特 | ![](https://static.wikia.nocookie.net/dr-stone/images/b/b4/Luna_Full_Body_Anime.png)<br>所属作品：`dr. stone`<br>日语：ルーナ・ライト | [Fandom](https://dr-stone.fandom.com/wiki/Luna_Wright) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
