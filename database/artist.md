@@ -14796,6 +14796,7 @@ example:
 | onedoo | ONEDOO |  |  |
 | andrey | Andrey |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01060177.html) |
 | meccha | めっちゃ |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=めっちゃ&text_type=author) |
+| hagure tanishi | 谷澤史紀（葉雨たにし） |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
