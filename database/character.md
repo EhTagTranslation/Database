@@ -8540,6 +8540,7 @@ example:
 | mana nagase | 长濑麻奈 | ![](https://static.wikia.nocookie.net/idoly-pride/images/c/c6/Nagase_Mana_3.png/revision/latest?cb=20250511081643)<br>日文：長瀬麻奈（ながせ まな）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/长濑麻奈) |
 | mei hayasaka | 早坂芽衣 | ![](https://static.wikia.nocookie.net/idoly-pride/images/b/b7/Mei_Hayasaka_Group.png/revision/latest?cb=20250523185132)<br>日文：はやさか めい<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/早坂芽衣) |
 | toka takao | 高尾灯佳 | ![](https://static.wikia.nocookie.net/d4dj/images/4/48/Takao_Toka.png/revision/latest?cb=20220424223312)<br>日文:たかお とか<br>所属作品：`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/高尾灯佳)<br>[Fandom](https://d4dj.fandom.com/wiki/Takao_Toka) |
+| rui tendou | 天动瑠依 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7d/Tendo_Rui_1.png/revision/latest?cb=20210103051532)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/天动瑠依)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Rui_Tendo) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
