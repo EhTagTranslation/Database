@@ -8536,6 +8536,7 @@ example:
 | esora shimizu | 清水绘空 | ![](https://static.wikia.nocookie.net/d4dj/images/8/89/Esora-illust-new.png/revision/latest?cb=20200207044009)<br>日语：清水 絵空<br>所属作品:`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Shimizu_Esora)<br>[萌娘百科](https://zh.moegirl.org.cn/清水绘空) |
 | haruna kasuga | 春日春奈 | ![](https://static.wikia.nocookie.net/d4dj/images/e/e5/Haruna-illust-new.png/revision/latest?cb=20200207044325)<br>所属作品:`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/春日春奈) |
 | kokoro akazaki | 赤崎心 | ![](https://static.wikia.nocookie.net/idoly-pride/images/2/28/Akazaki_Kokoro_5.png/revision/latest?cb=20201230200020)<br>日文：赤崎こころ（あかざき こころ）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/赤崎心) |
+| kurumi shiratori | 白鸟胡桃 | ![](https://static.wikia.nocookie.net/d4dj/images/f/f8/Kurumi-illust-new.png/revision/latest?cb=20200207044343)<br><br>日文：白鳥胡桃（しらとり くるみ）<br><br>所属作品:`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/白鸟胡桃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
