@@ -1045,7 +1045,7 @@ example:
 | tomoya aki | 安艺伦也 | ![](https://static.wikia.nocookie.net/saekano/images/4/43/Body_Tomoya.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | megumi kato | 加藤惠 | ![](https://static.wikia.nocookie.net/saekano/images/b/bc/Megumi%27s_design.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | utaha kasumigaoka | 霞之丘诗羽 | ![](https://static.wikia.nocookie.net/saekano/images/f/fa/Content_chara02.png)<br>所属作品：`saenai heroine no sodatekata` |  |
-| michiru hyodo | 冰堂美智留 | ![冰堂美智留](https://ehgt.org/6f/7b/6f7baebcb10ee01f3a39e7d6c9b99805349bde3d-133559-1050-1533-jpg_l.jpg) |  |
+| michiru hyodo | 冰堂美智留 | ![](https://static.wikia.nocookie.net/saekano/images/f/f3/Body_%283%29.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | eriri spencer sawamura | 泽村·斯宾塞·英梨梨 | ![](https://static.wikia.nocookie.net/saekano/images/7/71/Content_chara01.png)<br>所属作品：`saenai heroine no sodatekata` |  |
 | izumi hashima | 波岛出海 | ![波岛出海](# "https://ehgt.org/26/b1/26b17a7462f12aa7f5c49fc088ea3d90f88060d7-599437-627-885-png_l.jpg") |  |
 |  | ▼ 我的朋友很少 角色 |  |  |
