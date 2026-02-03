@@ -8545,6 +8545,7 @@ example:
 | michiru kaibara | 海原美知留 | ![](https://static.wikia.nocookie.net/d4dj/images/1/19/Michiru_official.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Kaibara_Michiru) |
 | miyu sakurada | 樱田美梦 | ![](https://static.wikia.nocookie.net/d4dj/images/3/38/Miyu_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Sakurada_Miyu) |
 | challia bull | 夏里亚·布尔 | ![](https://patchwiki.biligame.com/images/gundam/d/d8/5h9z61fniha1teesoie1a0setmdawnj.jpg)<br>出自作品：`p:mobile suit gundam gquuuuuux` | [BILIGAME WIKI](https://wiki.biligame.com/gundam/夏里亚·布尔) |
+| miiko takeshita | 竹下美依子 | ![](https://static.wikia.nocookie.net/d4dj/images/b/b2/Miiko_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj`<br>日语：竹下 みいこ | [Fandom](https://d4dj.fandom.com/wiki/Takeshita_Miiko) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
