@@ -8544,6 +8544,7 @@ example:
 | miura hayasaka | 早坂美丽 | ![](https://ehgt.org/42/90/4290a744d96660597cd89d45a6fd714d1308c8a6-348916-1074-1523-jpg_250.jpg)<br>出自作品：`p:yotsubato`<br><br>早坂美丽是漫画《四叶妹妹!》中的虚构角色，为绫濑惠那的朋友。该角色以中性气质为特征，言行举止、服装风格及动作习惯呈现小男生特质，日常频繁到惠那家玩耍。 | [百度百科](https://baike.baidu.com/item/早坂美麗/4394552) |
 | michiru kaibara | 海原美知留 | ![](https://static.wikia.nocookie.net/d4dj/images/1/19/Michiru_official.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Kaibara_Michiru) |
 | miyu sakurada | 樱田美梦 | ![](https://static.wikia.nocookie.net/d4dj/images/3/38/Miyu_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Sakurada_Miyu) |
+| challia bull | 夏里亚·布尔 | ![](https://patchwiki.biligame.com/images/gundam/d/d8/5h9z61fniha1teesoie1a0setmdawnj.jpg)<br>出自作品：`p:mobile suit gundam gquuuuuux` | [BILIGAME WIKI](https://wiki.biligame.com/gundam/夏里亚·布尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
