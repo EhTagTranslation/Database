@@ -8559,6 +8559,7 @@ example:
 | cure kiss | 梅洛伦（飞吻天使） | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Kiss_Meroron.png)<br>所属作品：`kimi to idol precure`<br>日语：メロロン | [百度百科](https://baike.baidu.com/item/梅洛伦) |
 | hugtan | 抱碳 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7a/HuPC-profileimg-Hugtan.png)<br>所属作品：`hugtto precure`<br>日语：はぐたん | [Fandom](https://prettycure.fandom.com/wiki/Hugtan) |
 | faruru bokerdole | 法露露 | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f7/法露露1.png)<br>出自作品：`p:pripara`<br><br>法露露（日语：ファルル；罗马字：Falulu）是由TAKARA TOMY A.R.T.S和syn Sophia所制作的街机游戏《美妙天堂》及其衍生作品的登场角色。 | [百度百科](https://baike.baidu.com/item/法露露/18260520) \| [萌娘百科](https://zh.moegirl.org.cn/法露露) |
+| mikoto | 水琴/命 | 所属作品：《火焰的纹章if》或《最终幻想IX》 | [萌娘百科（火焰的纹章if）](https://zh.moegirl.org.cn/火焰之纹章_if)<br>[最终幻想百科（角色列表）](https://finalfantasy.huijiwiki.com/wiki/最终幻想IX/角色) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
