@@ -14802,6 +14802,7 @@ example:
 | ukai saki | 鵜飼沙樹 |  |  |
 | keirei | 敬礼 |  |  |
 | okibariyasu | おきばりやす |  | [pixiv](https://www.pixiv.net/users/16449490) |
+| kuzuryuu kennosuke | くずけん |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=くずけん) |
 
 <!--TEMPLATE:
 |  |  |  |  |
