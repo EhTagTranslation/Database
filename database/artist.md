@@ -14807,6 +14807,7 @@ example:
 | sumeragi | 皇 | 皇（すめちぃ） | [pixiv](https://www.pixiv.net/users/1795995) \| [Skeb](https://skeb.jp/@sumesumetei) \| [X](https://x.com/sumesumetei) |
 | saiaku devil | さいあくデビル |  | [FANBOX](https://saiakudevil.fanbox.cc/) |
 | renard-poire | renard-poire |  | [pixiv](https://www.pixiv.net/users/13710050) |
+| dashimaki | だしまき |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=だしまき&text_type=author) |
 
 <!--TEMPLATE:
 |  |  |  |  |
