@@ -2152,7 +2152,7 @@ example:
 | momoka kurumi | 来海桃香 |  |  |
 | sakura kurumi | 来海樱 |  |  |
 | tsubaki myoudouin | 明堂院椿 |  |  |
-| cure melody | 旋律天使 |  |  |
+| cure melody | 北条响 (旋律天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c1/Houjou_Hibiki.JPG/revision/latest?cb=20101227180403)<br>所属作品:`suite precure`<br>日文:北条響（ほうじょう ひびき） | [Fandom](https://prettycure.fandom.com/wiki/Hojo_Hibiki)<br>[萌娘百科](https://zh.moegirl.org.cn/北条响) |
 | cure rhythm | 节奏天使 |  |  |
 | siren | 赛莲 |  |  |
 | cure beat | 节拍天使 |  |  |
