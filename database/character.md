@@ -8553,6 +8553,7 @@ example:
 | yuuhi amamiya | 雨宫夕日 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d6/Amamiya_Yuuhi.png)<br>出自作品：`p:hoshi no samidare`<br><br>雨宫夕日（日语：雨宮（あまみや） 夕日（ゆうひ））是水上悟志创作的漫画《惑星公主蜥蜴骑士》及其衍生作品中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/雨宫夕日) |
 | sumire nekoyashiki | 猫屋敷真由（缘结天使） | ![](https://static.wikia.nocookie.net/prettycure/images/7/76/Mayu_Cure_Lillian_Profile.png)<br>日语：猫屋敷すみれ<br>所属作品：`wonderful precure` | [百度百科](https://baike.baidu.com/item/猫屋敷真由) |
 | cure zukyoon | 普莉伦（倾心天使） | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/Zukyoon_Purirun.png)<br>所属作品：`kimi to idol precure`<br>日语：プリルン | [Fandom](https://prettycure.fandom.com/wiki/Purirun) |
+| cure supreme | 普利姆（至高天使） | ![](https://static.wikia.nocookie.net/prettycure/images/1/14/Cure_Supreme_Official_Profile_Toei.png)<br>所属作品：光之美少女全明星F<br>日语：プリム | [Fandom](https://prettycure.fandom.com/wiki/Preme) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
