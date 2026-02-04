@@ -2163,7 +2163,7 @@ example:
 | cure sunny | 日野茜 (晴朗天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/e4/Sunnyyy.png/revision/latest?cb=20230510051735)<br>所属作品:`smile precure` | [Fandom](https://prettycure.fandom.com/wiki/Hino_Akane)<br>[萌娘百科](https://zh.moegirl.org.cn/日野茜%28光之美少女%29) |
 | cure peace | 和平天使 |  |  |
 | cure march | 绿川直 (旋风天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/Marchhh.png/revision/latest?cb=20230510052612)<br>所属作品:`smile precure` | [Fandom](https://prettycure.fandom.com/wiki/Midorikawa_Nao)<br>[萌娘百科](https://zh.moegirl.org.cn/绿川直) |
-| cure beauty | 美丽天使 |  |  |
+| cure beauty | 青木丽华 (美丽天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/3e/Beautyyy.png/revision/latest?cb=20230510052931)<br><br>所属作品:`smile precure` | [Fandom](https://prettycure.fandom.com/wiki/Aoki_Reika)<br>[萌娘百科](https://zh.moegirl.org.cn/青木丽华) |
 | ikuyo hoshizora | 星空育代 | ![](https://ehgt.org/w/02/085/35191-iqpt5i2b.webp)<br>所属作品：`smile precure` |  |
 | masako hino | 日野正子 |  |  |
 | chiharu kise | 黄濑千春 |  |  |
