@@ -14804,7 +14804,7 @@ example:
 | okibariyasu | おきばりやす |  | [pixiv](https://www.pixiv.net/users/16449490) |
 | kuzuryuu kennosuke | 九頭龍剣之介 |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=くずけん) |
 | hazuki kei | はづきけい |  | [pixiv](https://www.pixiv.net/users/82118837) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22はづきけい%22) |
-| sumeragi | 皇 |  | [pixiv](https://www.pixiv.net/users/1795995) \| [Skeb](https://skeb.jp/@sumesumetei) \| [X](https://x.com/sumesumetei) |
+| sumeragi | 皇 | 皇（すめちぃ） | [pixiv](https://www.pixiv.net/users/1795995) \| [Skeb](https://skeb.jp/@sumesumetei) \| [X](https://x.com/sumesumetei) |
 
 <!--TEMPLATE:
 |  |  |  |  |
