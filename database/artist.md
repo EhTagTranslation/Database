@@ -14806,6 +14806,7 @@ example:
 | hazuki kei | はづきけい |  | [pixiv](https://www.pixiv.net/users/82118837) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22はづきけい%22) |
 | sumeragi | 皇 | 皇（すめちぃ） | [pixiv](https://www.pixiv.net/users/1795995) \| [Skeb](https://skeb.jp/@sumesumetei) \| [X](https://x.com/sumesumetei) |
 | saiaku devil | さいあくデビル |  | [FANBOX](https://saiakudevil.fanbox.cc/) |
+| renard-poire | renard-poire |  | [pixiv](https://www.pixiv.net/users/13710050) |
 
 <!--TEMPLATE:
 |  |  |  |  |
