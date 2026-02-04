@@ -8554,6 +8554,7 @@ example:
 | sumire nekoyashiki | 猫屋敷真由（缘结天使） | ![](https://static.wikia.nocookie.net/prettycure/images/7/76/Mayu_Cure_Lillian_Profile.png)<br>日语：猫屋敷すみれ<br>所属作品：`wonderful precure` | [百度百科](https://baike.baidu.com/item/猫屋敷真由) |
 | cure zukyoon | 普莉伦（倾心天使） | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/Zukyoon_Purirun.png)<br>所属作品：`kimi to idol precure`<br>日语：プリルン | [Fandom](https://prettycure.fandom.com/wiki/Purirun) |
 | cure supreme | 普利姆（至高天使） | ![](https://static.wikia.nocookie.net/prettycure/images/1/14/Cure_Supreme_Official_Profile_Toei.png)<br>所属作品：光之美少女全明星F<br>日语：プリム | [Fandom](https://prettycure.fandom.com/wiki/Preme) |
+| cure puca | 普卡（普卡天使） | ![](https://static.wikia.nocookie.net/prettycure/images/c/cb/Puca_Official_Profile_Toei.png)<br>所属作品：光之美少女全明星F<br>日语：プーカ | [Fandom](https://prettycure.fandom.com/wiki/Puca) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
