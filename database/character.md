@@ -2189,7 +2189,7 @@ example:
 | cure fortune | 冰川伊绪奈 (命运天使) | ![](https://moegirl.uk/images/8/8f/Bingchuanyxn.jpg)<br>日语：氷川いおな（ひかわ いおな）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/冰川伊绪奈](https://moegirl.uk/冰川伊绪奈) |
 | maria hikawa | 冰川麻理亚 |  |  |
 | cure flora | 春野遥 (花神天使) | ![](https://moegirl.uk/images/6/63/HARUNO_HARUKA.jpg)<br>日语：春野はるか（はるの はるか）<br>所属作品:`go princess precure` | [https://moegirl.uk/春野遥](https://moegirl.uk/春野遥) |
-| cure mermaid | 海藤南 (人鱼天使) | ![](https://moegirl.uk/images/8/84/300Cure_Mermaid.jpg)<br>日语：海藤みなみ（かいどう みなみ）<br>所属作品：`go princess precure` | [https://moegirl.uk/海藤南](https://moegirl.uk/海藤南) |
+| cure mermaid | 海藤南 (人鱼天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/ed/MinamiMermaid.png/revision/latest?cb=20150915090232)<br>所属作品：`go princess precure`<br>日语：海藤みなみ（かいどう みなみ） | [https://moegirl.uk/海藤南](https://moegirl.uk/海藤南) |
 | cure twinkle | 天之川绮罗 (闪亮天使) | ![](https://moegirl.uk/images/2/29/300Cure_Twinkle.jpg)<br>日语：天ノ川きらら（あまのがわ きらら）<br>所属作品：`go princess precure` | [https://moegirl.uk/天之川绮罗](https://moegirl.uk/天之川绮罗) |
 | cure scarlet | 赤红天使 |  |  |
 | cure miracle | 朝日奈未来 (奇迹天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/MiraiMiracle.png/revision/latest?cb=20240210220654)<br>所属作品：`maho girls precure`<br>日语：朝日奈みらい（あさひな みらい） | [https://moegirl.uk/朝日奈未来](https://moegirl.uk/朝日奈未来)<br>[Fandom](https://prettycure.fandom.com/wiki/Asahina_Mirai) |
