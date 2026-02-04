@@ -2181,7 +2181,7 @@ example:
 | cure rosetta | 四叶有栖 (蔷薇天使) | ![](https://static.wikia.nocookie.net/prettycure/images/d/d4/Curerosettamain.jpg/revision/latest?cb=20121226040203)<br>所属作品:`dokidoki precure` | [https://moegirl.uk/index.php?title=四叶爱丽丝](https://moegirl.uk/index.php?title=四叶爱丽丝) |
 | cure sword | 剑崎真琴 (圣剑天使) | ![](https://moegirl.uk/images/7/7c/Cure_Sword.jpg)<br>日语：剣崎真琴（けんざき まこと）<br>所属作品:`dokidoki precure` | [https://moegirl.uk/剑崎真琴](https://moegirl.uk/剑崎真琴) |
 | cure ace | 圆亚久里 (王牌天使) | ![](https://storage.moegirl.org.cn/moegirl/commons/a/a8/CureAce.png)<br>日语：円亜久里（まどか あぐり）<br>所属作品：`dokidoki precure` | [萌娘百科](https://zh.moegirl.org.cn/圆亚久里) |
-| regina | 蕾吉娜 | ![](https://moegirl.uk/images/6/64/Reginananana.jpg)<br>日语：レジーナ<br>所属作品:`dokidoki precure` | [萌娘百科](https://zh.moegirl.org.cn/蕾吉娜) |
+| regina | 蕾吉娜 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7e/Doki_Doki!_Pretty_Cure_Novel_Cure_Joker.jpg)<br>所属作品:`dokidoki precure`<br>日语：レジーナ | [萌娘百科](https://zh.moegirl.org.cn/蕾吉娜) |
 | ryoko hishikawa | 菱川亮子 |  |  |
 | cure lovely | 爱乃惠 (可爱天使) | ![](https://moegirl.uk/images/6/6d/Cure_lovely是无敌的.png)<br>日语：愛乃めぐみ（あいの めぐみ）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/爱乃惠](https://moegirl.uk/爱乃惠) |
 | cure princess | 公主天使 |  |  |
