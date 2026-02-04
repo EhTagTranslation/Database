@@ -2125,7 +2125,7 @@ example:
 | cure egret | 美翔舞 (舞天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Egret_Windy_Mai_Profile.png/revision/latest?cb=20190420092742)<br>所属作品:`futari wa precure splash star`<br>日语：みしょう まい | [https://moegirl.uk/美翔舞](https://moegirl.uk/美翔舞) |
 | michiru kiryuu | 雾生满 |  |  |
 | kaoru kiryuu | 雾生薰 |  |  |
-| cure dream | 梦天使 |  |  |
+| cure dream | 梦原望 (梦天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/5c/Curedreammain.jpg/revision/latest?cb=20150208071954)<br>所属作品:`yes precure 5`<br>日语：夢原のぞみ（ゆめはら のぞみ） | [Fandom](https://prettycure.fandom.com/wiki/Yumehara_Nozomi)<br>[萌娘百科](https://zh.moegirl.org.cn/梦原望) |
 | cure rouge | 火天使 |  |  |
 | cure lemonade | 春日野丽 (柠檬天使) | ![](https://storage.moegirl.org.cn/moegirl/commons/d/de/Cure_lemonade.jpg)<br>所属作品:`yes precure 5` | [萌娘百科](https://zh.moegirl.org.cn/春日野丽)<br>[Fandom](https://prettycure.fandom.com/wiki/Kasugano_Urara) |
 | cure mint | 薄荷天使 |  |  |
