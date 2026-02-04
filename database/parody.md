@@ -2723,6 +2723,7 @@ example:
 | fragpunk | 界外狂潮 | 由网易（杭州）网络有限公司运营的射击游戏。 | [Steam](https://store.steampowered.com/app/2943650/FragPunk/) |
 | seihantai na kimi to boku | 正相反的你与我 | ![](https://static.wikia.nocookie.net/youandiarepolaropposites/images/3/3a/Synopsis_Cover.png)<br>阿贺泽红茶创作的漫画作品。 |  |
 | uchi no hime-sama ga ichiban kawaii | 我家公主最可爱 | ![](https://static.wikia.nocookie.net/prison-school/images/7/72/Uchi_no_Hime-sama_ga_Ichiban_Kawaii.png)<br>Cyber Agent 旗下的 Ameba Native Game Studio制作的手机游戏。 | [百度百科](https://baike.baidu.com/item/我家公主最可爱) |
+| hoshi no samidare | 惑星公主蜥蜴骑士 | 《惑星公主蜥蜴骑士》（日语：惑星のさみだれ）是由水上悟志创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/惑星公主蜥蜴骑士) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
