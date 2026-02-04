@@ -13703,6 +13703,7 @@ example:
 | juubako no katasumi | 重箱の片隅 |  | [pixiv](https://www.pixiv.net/users/31826400) |
 | yubanabemogu | ゆばなべもぐ |  |  |
 | quzigen | 九次元 |  | [pixiv](https://www.pixiv.net/users/799457) \| [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/2UPAEB6P8U76dA6Sd687/all/) |
+| orihika land | おりひかランド |  | [BOOTH](https://orihika.booth.pm/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
