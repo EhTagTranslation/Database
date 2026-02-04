@@ -7722,7 +7722,7 @@ example:
 | alice kisaragi | 如月爱丽丝 | ![](https://kisaragi-co.jp/assets/top/character/c2.png)<br>所属作品：`sentouin hakenshimasu`<br>极恶反派组织如月公司最高干部创造的美少女型态仿生机器人。 |  |
 | astaroth | 阿斯塔蒂 \| 阿斯塔特 | ①阿斯塔特<br>![](https://ehgt.org/w/00/884/68152-jkndxdac.webp)<br>所属作品：`granblue fantasy`<br>共斗的最后一个敌人。<br>②冰结之阿斯塔蒂<br>![](https://kisaragi-co.jp/assets/top/character/c6.png)<br>所属作品：`sentouin hakenshimasu`<br>秘密结社的大干部。 |  |
 | mei yoneme | 米女芽衣 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8b/米女芽衣_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校学生，学园偶像组合Liella!成员。是2022年4月28日新公布加入Liella!的四名二期生成员之一，从生日推算是二期生成员中最小的。 | [萌娘百科](https://zh.moegirl.org.cn/米女芽衣)<br>[Fandom](https://love-live.fandom.com/wiki/Mei_Yoneme) |
-| cure friendly | 犬饲彩羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/a/aa/Cure_Friendy.jpeg)<br>所属作品：`wonderful precure`<br>其变身形态为“友好天使”（Cure Friendly） |  |
+| cure friendly | 犬饲彩羽 (友好天使) | ![](https://static.wikia.nocookie.net/prettycure/images/1/10/Cure_Friendy_Iroha_Profile.png/revision/latest?cb=20240107125354)<br>所属作品：`wonderful precure` | [Fandom](https://prettycure.fandom.com/wiki/Inukai_Iroha) |
 | cure wonderful | 犬饲小麦 (奇迹天使) | ![](https://static.wikia.nocookie.net/prettycure/images/8/8b/Komugi_Cure_Wonderful_Profile.png/revision/latest?cb=20240107124417)<br>所属作品：`wonderful precure`<br>犬饲彩羽的宠物狗，其变身形态为“奇迹天使”（Cure Wonderful‌）。 | [萌娘百科](https://zh.moegirl.org.cn/犬饲小麦)<br>[Fandom](https://prettycure.fandom.com/wiki/Inukai_Komugi) |
 | chasca | 恰斯卡 | ![](https://patchwiki.biligame.com/images/ys/5/54/jvf6yx7ksu9di76207qhj4dhhqyen1g.gif)<br>所属作品：`genshin impact`<br>特拉洛坎的「调停人」，万千争端的终结者。 |  |
 | maegami-chan | 前发酱 | ![](https://ehgt.org/w/01/964/73542-8fohld51.webp)<br>所属作品：`getsuyoubi no tawawa` |  |
