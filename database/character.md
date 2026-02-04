@@ -7834,7 +7834,7 @@ example:
 | logos | 逻各斯 |  |  |
 | laqeramaline | 菈玛莲 | ![](https://ehgt.org/w/01/940/26170-sfiz3k5j.webp)<br>所属作品：`arknights` |  |
 | cure wink | 苍风奈奈（眨眼天使） | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/Nana_Cure_Wink_Profile.png)<br>所属作品:`kimi to idol precure`<br>日语：蒼風なな (あおかぜ なな) | [萌娘百科](https://zh.moegirl.org.cn/苍风奈奈) |
-| cure idol | 咲良歌 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8e/Cure_Idol.png)<br>日语：咲良うた（さくら うた）<br>所属作品:`kimi to idol precure` | [萌娘百科](https://zh.moegirl.org.cn/咲良歌) |
+| cure idol | 咲良歌 | ![](https://static.wikia.nocookie.net/prettycure/images/3/3f/Uta_Cure_Idol_Profile.png)<br>所属作品:`kimi to idol precure`<br>日语：咲良うた（さくら うた） | [萌娘百科](https://zh.moegirl.org.cn/咲良歌) |
 | cure flamingo | 泷泽飞鸟（火烈鸟天使） | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/AsukaFlamingo.png/revision/latest?cb=20210225123747)<br>日语：滝沢あすか（たきざわ あすか）<br>所属作品:`p:tropical-rouge precure` | [萌娘百科](https://zh.moegirl.org.cn/泷泽飞鸟) |
 | cure la mer | 萝拉·拉·梅尔 | ![](https://moegirl.uk/images/1/10/P_05_style3_pc.png)<br>萝拉·阿波罗多洛斯·海基努斯·拉·梅尔（日语：ローラ・アポロドーロス・ヒュギーヌス・ラメール），简称萝拉·拉梅尔<br>所属作品:`tropical-rouge precure` | [https://moegirl.uk/萝拉·阿波罗多洛斯·海基努斯·拉·梅尔](https://moegirl.uk/萝拉·阿波罗多洛斯·海基努斯·拉·梅尔) |
 | cure earth | 风铃艾苏米 (大地天使) | ![](https://moegirl.uk/images/3/31/风铃明日美.jpg)<br>日语：風鈴アスミ（ふうりん アスミ）<br>所属作品:`healin good precure` | [https://moegirl.uk/风铃艾苏米](https://moegirl.uk/风铃艾苏米) |
