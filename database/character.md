@@ -8550,6 +8550,7 @@ example:
 | aoi miyake | 三宅葵依 | ![](https://static.wikia.nocookie.net/d4dj/images/c/cd/Aoi_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj`<br>日语：三宅葵依 | [Fandom](https://d4dj.fandom.com/wiki/Miyake_Aoi) |
 | shinobu inuyose | 犬寄忍 | ![](https://static.wikia.nocookie.net/d4dj/images/1/17/Shinobu_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj`<br>日语：犬寄しのぶ | [Fandom](https://d4dj.fandom.com/wiki/Inuyose_Shinobu) |
 | hayate tendo | 天堂飒 | ![](https://static.wikia.nocookie.net/d4dj/images/6/61/Hayate_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：天堂 はやて | [Fandom](https://d4dj.fandom.com/wiki/Tendo_Hayate) |
+| yuuhi amamiya | 雨宫夕日 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d6/Amamiya_Yuuhi.png)<br>出自作品：`p:hoshi no samidare`<br><br>雨宫夕日（日语：雨宮（あまみや） 夕日（ゆうひ））是水上悟志创作的漫画《惑星公主蜥蜴骑士》及其衍生作品中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/雨宫夕日) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
