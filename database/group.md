@@ -13701,6 +13701,7 @@ example:
 | menokataki | 女ノカタキ |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=114026) |
 | hyakkei | 百景 |  |  |
 | juubako no katasumi | 重箱の片隅 |  | [pixiv](https://www.pixiv.net/users/31826400) |
+| yubanabemogu | ゆばなべもぐ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
