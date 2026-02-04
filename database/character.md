@@ -2159,7 +2159,7 @@ example:
 | cure muse | 缪斯天使 |  |  |
 | maria houjou | 北条真理亚 |  |  |
 | misora minamino | 南野美空 |  |  |
-| cure happy | 星空美幸 (快乐天使) | ![](https://moegirl.uk/images/9/9c/Cure_happy.jpg)<br>日语：星空みゆき（ほしぞら みゆき）<br>所属作品:`smile precure` | [https://moegirl.uk/星空美幸](https://moegirl.uk/星空美幸) |
+| cure happy | 星空美幸 (快乐天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/9e/Happyyy.png/revision/latest?cb=20230510051052)<br>所属作品:`smile precure`<br>日语：星空みゆき（ほしぞら みゆき） | [https://moegirl.uk/星空美幸](https://moegirl.uk/星空美幸)<br>[Fandom](https://prettycure.fandom.com/wiki/Hoshizora_Miyuki) |
 | cure sunny | 晴朗天使 |  |  |
 | cure peace | 和平天使 |  |  |
 | cure march | 旋风天使 |  |  |
