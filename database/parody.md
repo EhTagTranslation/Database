@@ -164,7 +164,7 @@ example:
 | heartcatch precure | 光之美少女：甜蜜天使！ | 《光之美少女：甜蜜天使！》（ハートキャッチプリキュア！），是由东堂泉所创作的魔法少女动画作品，<br>为“光之美少女系列”的第七作，属第五代光之美少女。于2010年2月7日起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/hc_precure/) |
 | suite precure | 光之美少女：美乐天使 | 《光之美少女：美乐天使》（スイートプリキュア♪）是由东堂泉所制作的魔法少女动画作品，<br>“光之美少女系列”的第八作，属第六代光之美少女。于2011年2月6日开始于朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/suite_precure/) |
 | smile precure | Smile 光之美少女！ | 《Smile 光之美少女！》（スマイルプリキュア！），是由东映动画所制作的魔法少女动画作品，<br>“光之美少女系列”第九作，属第七代光之美少女，于2012年2月5日在朝日电视系播出。 | [HP](https://www.toei-anim.co.jp/tv/smile_precure/) |
-| dokidoki precure | 心跳！光之美少女 | 《心跳！光之美少女》（ドキドキ！プリキュア）是由东堂泉所创作的魔法少女动画作品、<br>“光之美少女系列”第十作，属第八代光之美少女，2013年2月3日开始在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/dokidoki_precure/) |
+| dokidoki precure | 心跳！光之美少女 | ![](https://static.wikia.nocookie.net/prettycure/images/3/3f/Doki_Doki!_Pretty_Cure_Poster_2.jpg)<br>《心跳！光之美少女》（ドキドキ！プリキュア）是“光之美少女系列”第十作，属第八代光之美少女。 | [HP](https://www.toei-anim.co.jp/tv/dokidoki_precure/)<br>[Fandom](https://prettycure.fandom.com/wiki/Doki_Doki!_Pretty_Cure) |
 | happinesscharge precure | 幸福爆发 光之美少女！ | 《幸福爆发 光之美少女！》（ハピネスチャージプリキュア！）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”十周年之作，为第十一套作品，属第九代光之美少女。 | [HP](https://www.toei-anim.co.jp/tv/happinesscharge_precure/) |
 | go princess precure | Go! 公主 光之美少女 | 《Go! 公主 光之美少女》（Go！プリンセスプリキュア）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”第十二作，属第十代光之美少女。2015年2月1日在朝日电视台和朝日放送播放。 | [HP](https://www.toei-anim.co.jp/tv/princess_precure/) |
 | maho girls precure | 魔法使 光之美少女！ | 《魔法使 光之美少女！》（日语：魔法つかいプリキュア！）是东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十三作，属第十一代光之美少女。2016年2月7日在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/mahotsukai_precure/) |
