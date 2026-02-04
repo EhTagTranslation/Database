@@ -14801,6 +14801,7 @@ example:
 | gawako | がわこ |  |  |
 | ukai saki | 鵜飼沙樹 |  |  |
 | keirei | 敬礼 |  |  |
+| okibariyasu | おきばりやす |  | [pixiv](https://www.pixiv.net/users/16449490) |
 
 <!--TEMPLATE:
 |  |  |  |  |
