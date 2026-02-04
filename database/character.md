@@ -2146,7 +2146,7 @@ example:
 | cure etoile | 辉木誉 (星辰天使) | ![](https://moegirl.uk/images/a/aa/Cure_etoile.jpg)<br><br>日语: 輝木ほまれ（かがやき ほまれ）<br>所属作品：`hugtto precure` | [https://moegirl.uk/辉木誉](https://moegirl.uk/辉木誉) |
 | cure macherie | 爱崎惠美瑠 (挚爱天使) | ![](https://moegirl.uk/images/e/eb/Cure_Macherie.png)<br>日语：愛崎えみる（あいさき えみる）<br>所属作品：`hugtto precure` | [https://moegirl.uk/爱崎惠美瑠](https://moegirl.uk/爱崎惠美瑠) |
 | kotori nono | 野乃小鸟 |  |  |
-| cure yell | 野乃花 (喝采天使) | ![](https://moegirl.uk/images/6/6f/Cure_yell_hugtto_precure_render_by_ffprecurespain-dc5f79z_mh1527308214482.jpg)<br>日语：野乃はな（のの はな）<br>所属作品:`hugtto precure` | [https://moegirl.uk/野乃花](https://moegirl.uk/野乃花) |
+| cure yell | 野乃花 (喝采天使) | ![](https://moegirl.uk/images/6/6f/Cure_yell_hugtto_precure_render_by_ffprecurespain-dc5f79z_mh1527308214482.jpg)<br>所属作品:`hugtto precure`<br>日语：野乃はな（のの はな） | [https://moegirl.uk/野乃花](https://moegirl.uk/野乃花) |
 | dark precure | 暗之美少女 |  |  |
 | mizuki hanasaki | 花咲美月 |  |  |
 | momoka kurumi | 来海桃香 |  |  |
