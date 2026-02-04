@@ -2138,7 +2138,7 @@ example:
 | cure passion | 东刹那 (百香果天使) | ![](https://static.wikia.nocookie.net/oricure/images/b/b3/SetsunaPassion.png/revision/latest?cb=20230214080725)<br>所属作品:`fresh precure`<br>日语：東せつな（ひがし せつな）<br><br>本名伊斯，是来自管理国家Labyrinth的女干部（见`c:eas`）<br>后洗白并加入光之美少女一方，自己亦成为了Cure Passion | [https://moegirl.uk/东刹那](https://moegirl.uk/东刹那) |
 | cure blossom | 花咲蕾 (花蕾天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/bb/Tsubomi_%28Cure_Blossom.png/revision/latest?cb=20200526214829)<br>所属作品:`heartcatch precure`<br>日语: 花咲つぼみ（はなさき つぼみ） | [萌娘百科](https://zh.moegirl.org.cn/花咲蕾)<br>[Fandom](https://prettycure.fandom.com/wiki/Hanasaki_Tsubomi) |
 | cure marine | 来海绘里香 (海洋天使) | ![](https://static.wikia.nocookie.net/prettycure/images/6/61/Kurumi.erika.png/revision/latest?cb=20200327030958)<br>所属作品:`heartcatch precure` | [Fandom](https://prettycure.fandom.com/wiki/Kurumi_Erika)<br>[萌娘百科](https://zh.moegirl.org.cn/来海绘里香) |
-| cure sunshine | 阳光天使 |  |  |
+| cure sunshine | 明堂院树 (阳光天使) | ![](https://static.wikia.nocookie.net/prettycure/images/4/48/Myoudouin.itsuki.png/revision/latest?cb=20200804215222)<br>所属作品:`heartcatch precure`<br>日语: 明堂院いつき（みょうどういん いつき） | [Fandom](https://prettycure.fandom.com/wiki/Myoudouin_Itsuki)<br>[萌娘百科](https://zh.moegirl.org.cn/明堂院树) |
 | cure moonlight | 月影百合 (月光天使) | ![](https://static.wikia.nocookie.net/prettycure/images/2/2e/Tsukikage.yuri.png)<br>所属作品：`p:heartcatch precure`<br>日語：月影ゆり（つきかげ ゆり） | [萌娘百科](https://zh.moegirl.org.cn/月影百合) |
 | cure flower | 花朵天使 |  |  |
 | cure ange | 药师寺纱绫（安祈天使） | ![](https://static.wikia.nocookie.net/prettycure/images/2/28/Yakushiji_Saaya_%28Cure_Ange%29.png)<br>所属作品：`hugtto precure`<br>日语：キュアアンジェ | [Fandom](https://prettycure.fandom.com/wiki/Cure_Ange_%28HPC_movie%29) |
