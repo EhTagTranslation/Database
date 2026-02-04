@@ -13700,6 +13700,7 @@ example:
 | shussou seigen | 出走制限 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=71980) |
 | menokataki | 女ノカタキ |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=114026) |
 | hyakkei | 百景 |  |  |
+| juubako no katasumi | 重箱の片隅 |  | [pixiv](https://www.pixiv.net/users/31826400) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
