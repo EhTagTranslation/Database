@@ -2177,7 +2177,7 @@ example:
 | bad end march | 悲剧旋风天使 |  |  |
 | bad end beauty | 悲剧美丽天使 |  |  |
 | cure heart | 相田爱 (爱心天使) | ![](https://moegirl.uk/images/7/72/Cure_heart.jpg)<br>日语：相田マナ（あいだ マナ）<br>所属作品:`dokidoki precure` | [https://moegirl.uk/相田爱](https://moegirl.uk/相田爱) |
-| cure diamond | 菱川六花 (钻石天使) | ![](https://moegirl.uk/images/f/f2/Cure_diamond.jpg)<br>日语：ひしかわ りっか<br>所属作品:`dokidoki precure` | [https://moegirl.uk/菱川六花](https://moegirl.uk/菱川六花) |
+| cure diamond | 菱川六花 (钻石天使) | ![](https://moegirl.uk/images/f/f2/Cure_diamond.jpg)<br>所属作品:`dokidoki precure`<br>日语：ひしかわ りっか | [https://moegirl.uk/菱川六花](https://moegirl.uk/菱川六花) |
 | cure rosetta | 四叶有栖 (蔷薇天使) | ![](https://static.wikia.nocookie.net/prettycure/images/d/d4/Curerosettamain.jpg/revision/latest?cb=20121226040203)<br>所属作品:`dokidoki precure`<br>日语：四葉ありす | [https://moegirl.uk/index.php?title=四叶爱丽丝](https://moegirl.uk/index.php?title=四叶爱丽丝) |
 | cure sword | 剑崎真琴 (圣剑天使) | ![](https://moegirl.uk/images/7/7c/Cure_Sword.jpg)<br>日语：剣崎真琴（けんざき まこと）<br>所属作品:`dokidoki precure` | [https://moegirl.uk/剑崎真琴](https://moegirl.uk/剑崎真琴) |
 | cure ace | 圆亚久里 (王牌天使) | ![](https://storage.moegirl.org.cn/moegirl/commons/a/a8/CureAce.png)<br>日语：円亜久里（まどか あぐり）<br>所属作品：`dokidoki precure` | [萌娘百科](https://zh.moegirl.org.cn/圆亚久里) |
