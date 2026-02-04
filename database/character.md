@@ -8566,6 +8566,7 @@ example:
 | cure wing | 夕凪翼 (羽翼天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/39/Wing_Tsubasa_Profile.png/revision/latest?cb=20230327230441)<br>所属作品:`hirogaru sky precure`<br>日语:夕凪ツバサ（ゆうなぎ ツバサ） | [萌娘百科](https://zh.moegirl.org.cn/夕凪翼)<br>[Fandom](https://prettycure.fandom.com/wiki/Yuunagi_Tsubasa) |
 | ayumi sakagami | 坂上步美 (回声天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/bc/Ayumi_and_Cure_Echo_profile.png/revision/latest?cb=20180304104238)<br>所属作品:`pretty cure` All Stars<br>变身后为Cure Echo | [萌娘百科](https://zh.moegirl.org.cn/坂上步美)<br>[Fandom](https://prettycure.fandom.com/wiki/Sakagami_Ayumi) |
 | aemeath | 爱弥斯 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/6/60/Aemeath_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Aemeath) |
+| sacred phoenix of nephthys | 奈芙蒂斯之凤凰神 | 所属作品：`yu-gi-oh` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
