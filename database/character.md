@@ -2136,7 +2136,7 @@ example:
 | cure pine | 凤梨天使 |  |  |
 | eas | 伊斯 | ![](https://i.pixiv.cat/img-original/img/2009/06/29/22/18/16/4932879_p0.jpg)<br>所属作品:`fresh precure`<br><br>是来自管理国家Labyrinth的女干部，后洗白并加入光之美少女一方，自己亦成为了Cure Passion（百香果天使）(洗白后对应标签:`c:cure passion`) | [https://moegirl.uk/东刹那](https://moegirl.uk/东刹那) |
 | cure passion | 东刹那 (百香果天使) | ![](https://static.wikia.nocookie.net/oricure/images/b/b3/SetsunaPassion.png/revision/latest?cb=20230214080725)<br>所属作品:`fresh precure`<br>日语：東せつな（ひがし せつな）<br><br>本名伊斯，是来自管理国家Labyrinth的女干部（见`c:eas`）<br>后洗白并加入光之美少女一方，自己亦成为了Cure Passion | [https://moegirl.uk/东刹那](https://moegirl.uk/东刹那) |
-| cure blossom | 花蕾天使 |  |  |
+| cure blossom | 花咲蕾 (花蕾天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/bb/Tsubomi_%28Cure_Blossom.png/revision/latest?cb=20200526214829)<br>所属作品:`heartcatch precure`<br>日语: 花咲つぼみ（はなさき つぼみ） | [萌娘百科](https://zh.moegirl.org.cn/花咲蕾)<br>[Fandom](https://prettycure.fandom.com/wiki/Hanasaki_Tsubomi) |
 | cure marine | 海洋天使 |  |  |
 | cure sunshine | 阳光天使 |  |  |
 | cure moonlight | 月影百合 (月光天使) | ![](https://static.wikia.nocookie.net/prettycure/images/2/2e/Tsukikage.yuri.png)<br>所属作品：`p:heartcatch precure`<br>日語：月影ゆり（つきかげ ゆり） | [萌娘百科](https://zh.moegirl.org.cn/月影百合) |
