@@ -2155,7 +2155,7 @@ example:
 | cure melody | 北条响 (旋律天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c1/Houjou_Hibiki.JPG/revision/latest?cb=20101227180403)<br>所属作品:`suite precure`<br>日文:北条響（ほうじょう ひびき） | [Fandom](https://prettycure.fandom.com/wiki/Hojo_Hibiki)<br>[萌娘百科](https://zh.moegirl.org.cn/北条响) |
 | cure rhythm | 南野奏 (节奏天使) | ![](https://static.wikia.nocookie.net/prettycure/images/1/12/Minamino_Kanade.JPG/revision/latest?cb=20200607200233)<br>所属作品:`suite precure` | [Fandom](https://prettycure.fandom.com/wiki/Minamino_Kanade)<br>[萌娘百科](https://zh.moegirl.org.cn/南野奏) |
 | siren | 赛莲 |  |  |
-| cure beat | 节拍天使 |  |  |
+| cure beat | 黑川艾莲 (节拍天使) | ![](https://static.wikia.nocookie.net/prettycure/images/f/fc/Ellen.Cure_Beat_profile.jpg/revision/latest?cb=20200304231434)<br>所属作品:`suite precure` | [Fandom](https://prettycure.fandom.com/wiki/Kurokawa_Ellen)<br>[萌娘百科](https://zh.moegirl.org.cn/黑川艾莲) |
 | cure muse | 缪斯天使 |  |  |
 | maria houjou | 北条真理亚 |  |  |
 | misora minamino | 南野美空 |  |  |
