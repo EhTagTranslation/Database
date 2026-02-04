@@ -4427,7 +4427,7 @@ example:
 | roselia | 绯之罗赛莉亚 |  |  |
 | goldenglow | 澄闪 | ![](https://patchwiki.biligame.com/images/arknights/2/26/a97ho6x13l9deh0inonopt74hnnwkvm.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:澄闪) [PRTS](https://prts.wiki/w/澄闪) |
 | sara valestin | 莎拉·巴雷斯坦 |  |  |
-| cure cosmo | 尤妮（宇宙天使） | ![](https://moegirl.uk/images/7/72/P_curecosmo_style1.png)<br>日语：ユニ<br><br>出身于彩虹星<br>平时是猫耳娘模样，原样是个货真价实的猫型外星人。<br><br>所属作品:`star twinkle precure` | [https://moegirl.uk/尤妮](https://moegirl.uk/尤妮) |
+| cure cosmo | 尤妮（宇宙天使） | ![](https://static.wikia.nocookie.net/prettycure/images/8/86/Yuni_Cure_Cosmo_Profile.png/revision/latest?cb=20200105154305)<br>所属作品:`star twinkle precure`<br><br>日语：ユニ<br><br>出身于彩虹星<br>平时是猫耳娘模样，原样是个货真价实的猫型外星人。 | [https://moegirl.uk/尤妮](https://moegirl.uk/尤妮)<br>[Fandom](https://prettycure.fandom.com/wiki/Yuni) |
 | cure selene | 香久矢圆香（月神天使） |  |  |
 | demeter | 狄蜜特 |  |  |
 | haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/柚原春夏) |
