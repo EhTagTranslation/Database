@@ -2130,7 +2130,7 @@ example:
 | cure lemonade | 春日野丽 (柠檬天使) | ![](https://storage.moegirl.org.cn/moegirl/commons/d/de/Cure_lemonade.jpg)<br>所属作品:`yes precure 5` | [萌娘百科](https://zh.moegirl.org.cn/春日野丽)<br>[Fandom](https://prettycure.fandom.com/wiki/Kasugano_Urara) |
 | cure mint | 秋元小町 (薄荷天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/99/Curemintmain.jpg/revision/latest?cb=20120216122420)<br>所属作品:`yes precure 5`<br>日文：秋元こまち（あきもと こまち） | [萌娘百科](https://zh.moegirl.org.cn/秋元小町) |
 | cure aqua | 水无月香恋 (水天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/b6/Cureaquamain.jpg/revision/latest?cb=20120216122608)<br>所属作品:`yes precure 5`<br>日语：水無月かれん（みなづき かれん） | [萌娘百科](https://zh.moegirl.org.cn/水无月香恋) |
-| milky rose | 妙奇露丝 |  |  |
+| milky rose | 美美野来未 (妙奇露丝) | ![](https://static.wikia.nocookie.net/prettycure/images/d/dc/Milknkuruminrosegogomovie.jpg/revision/latest?cb=20120206112235)<br>所属作品:`yes precure 5` | [萌娘百科](https://zh.moegirl.org.cn/美美野来未)<br>[Fandom](https://prettycure.fandom.com/wiki/Milk) |
 | cure peach | 桃园爱（蜜桃天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d3/LovePeach.png)<br>所属作品：`fresh precure`<br>日语：桃園ラブ | [萌娘百科](https://zh.moegirl.org.cn/桃园爱) |
 | cure berry | 苍乃美希 (莓天使) | ![](https://moegirl.uk/images/a/aa/Cure_berry.jpg)<br>日语: 蒼乃美希（あおの みき）<br>所属作品:`fresh precure` | [https://moegirl.uk/苍乃美希](https://moegirl.uk/苍乃美希) |
 | cure pine | 凤梨天使 |  |  |
