@@ -4948,7 +4948,7 @@ example:
 | agnes claudel | 亚妮艾丝·克劳蒂尔 | ![](https://patchwiki.biligame.com/images/kiseki/f/fd/19mwij8vjq9jd66hdp89yjskg1fcema.png)<br>登场作品：《`the legend of heroes`》系列 | [轨迹系列 - Café](https://trails-game.com/character/agnes-claudel/)<br>[Fandom](https://kiseki.fandom.com/wiki/Agnes_Claudel)<br>[BILIGAME WIKI](https://wiki.biligame.com/kiseki/亚妮艾丝·克劳蒂尔) |
 | lorelei | 科拿 | 石英高原四天王 | [神奇宝贝百科](https://wiki.52poke.com/zh-hans/科拿) |
 | fern | 菲伦 | 漫画《葬送的芙莉莲》及其衍生作品角色，出自漫画第2话。芙莉莲的徒弟，和她一起旅行的魔法使。被海塔抚养长大的战灾孤儿。冷静的少女，仿佛母亲一般照顾生活方面懒散的芙莉莲。![](https://img.moegirl.org.cn/common/thumb/3/39/Frieren_anime_菲伦.png/420px-Frieren_anime_菲伦.png) | [萌娘百科](https://zh.moegirl.org.cn/菲伦) |
-| cure sky | 索拉・哈雷瓦塔尔 | 索拉・哈雷瓦塔尔／天空天使<br><br>所属作品: `p:hirogaru sky precure` | [Fandom](https://prettycure.fandom.com/wiki/Sora_Harewataru) [维基百科](https://zh.wikipedia.org/wiki/開闊天空！光之美少女) |
+| cure sky | 索拉·哈雷瓦塔尔（天空天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d5/Sky_Sora_Profile.png)<br>所属作品: `p:hirogaru sky precure`<br>日语：ソラ・ハレワタール | [Fandom](https://prettycure.fandom.com/wiki/Sora_Harewataru) [维基百科](https://zh.wikipedia.org/wiki/開闊天空！光之美少女) |
 | chiyari tenkajin | 天火人血枪 | 天火人血枪是日本的“`p:touhou project`”系列弹幕游戏及其衍生作品的登场角色之一。<br><br>首次登场于《东方兽王园》，作为可选自机与敌机登场。 | [萌娘百科](https://zh.moegirl.org.cn/天火人血枪) [THBWiki](https://thwiki.cc/天火人血枪) |
 | ai sugimoto | 杉本爱 | 画师`a:ozaki miray`创造的角色，在The Great Escape、Nearest To Real LOVE、秘密等多部作品中出场。 |  |
 | nobara kugisaki | 钉崎野蔷薇 | ![](https://ehgt.org/w/01/148/37115-qzah26cd.webp)<br>出自作品：`p:jujutsu kaisen`<br><br>钉崎野蔷薇（日语：釘崎（くぎさき） 野薔薇（のばら） ）是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/钉崎野蔷薇) |
