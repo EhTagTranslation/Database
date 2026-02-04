@@ -7079,7 +7079,7 @@ example:
 | psykos | 赛克斯 | ![](https://ehgt.org/w/01/929/89921-ckxs7pcv.webp)<br>所属作品：`one punch man` |  |
 | minerva orland | 米涅芭·奥兰多 | ![](https://static.wikia.nocookie.net/vsbattles/images/9/9e/Fairy_Tail_Minerva_X791_Render.png)<br>所属作品：`fairy tail` |  |
 | elina vance | 艾莉娜·万斯 | ![](https://static.wikia.nocookie.net/queensblade/images/d/d1/ElinaQBU.png)<br>所属作品：`queens blade`<br>日语：エリナ | [百度百科](https://baike.baidu.com/item/艾莉娜/18724637) |
-| cure butterfly | 圣扬羽 | ![](https://ehgt.org/w/01/318/22708-oakaojvt.webp)<br>所属作品：`hirogaru sky precure`<br>本名"圣扬羽"，别名"圣蝶华"，变身后称"蝴蝶天使（Cure Butterfly）" | [百度百科](https://baike.baidu.com/item/圣扬羽/62752054) |
+| cure butterfly | 圣扬羽（蝴蝶天使） | ![](https://static.wikia.nocookie.net/prettycure/images/e/e7/Ageha_Butterfly_Profile.png)<br>所属作品：`hirogaru sky precure`<br>日语：聖あげは | [百度百科](https://baike.baidu.com/item/圣扬羽/62752054) |
 | narika shihoudou | 四方堂鸣香 | ![](https://patchwiki.biligame.com/images/eiyuww/f/f5/k3x4i7g3tg517dw2gfvphczl511rv16.png)<br>所属作品：`beat blades haruka` |  |
 | cure kyun kyun | 紫雨心 | 日语：紫雨（しぐれ） こころ<br>魔法少女动画《You and Idol光之美少女♪》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/紫雨心) |
 | laala manaka | 真中啦啦 | ![](https://img.moegirl.org.cn/common/6/65/真中啦啦.png)<br>日语：真中（まなか） らぁら<br>罗马字：Manaka Laala<br>《美妙天堂》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/真中啦啦) |
