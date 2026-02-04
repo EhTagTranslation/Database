@@ -7847,7 +7847,7 @@ example:
 | cure sparkle | 平光日向 (闪耀天使) | ![](https://static.wikia.nocookie.net/prettycure/images/4/4d/HinataSparkle.png/revision/latest?cb=20200212105232)<br>所属作品:`healin good precure`<br>日语：平光ひなた（ひらみつ ひなた） | [https://moegirl.uk/平光日向](https://moegirl.uk/平光日向)<br>[Fandom](https://prettycure.fandom.com/wiki/Hiramitsu_Hinata) |
 | cure star | 星奈光 (星空天使) | ![](https://moegirl.uk/images/7/75/P_curestar_style1_pc.png)<br>日语：星奈ひかる（ほしな ひかる）<br>所属作品：`star twinkle precure` | [https://moegirl.uk/星奈光](https://moegirl.uk/星奈光) |
 | kyryll chudomirovich flins | 克里洛·楚德米洛维奇·菲林斯 | 所属作品:`genshin impact` |  |
-| cure coral | 凉村珊瑚 (珊瑚天使) | ![](https://moegirl.uk/images/0/0b/凉村珊瑚.png)<br>日语：涼村さんご（すずむら さんご）<br>所属作品:`tropical-rouge precure` | [https://moegirl.uk/凉村珊瑚](https://moegirl.uk/凉村珊瑚) |
+| cure coral | 凉村珊瑚 (珊瑚天使) | ![](https://static.wikia.nocookie.net/prettycure/images/a/ac/SangoCoral.png/revision/latest?cb=20210225123735)<br>所属作品:`tropical-rouge precure`<br>日语：涼村さんご（すずむら さんご） | [https://moegirl.uk/凉村珊瑚](https://moegirl.uk/凉村珊瑚)<br>[Fandom](https://prettycure.fandom.com/wiki/Suzumura_Sango) |
 | cure summer | 夏海真夏 (夏日天使) | ![](https://moegirl.uk/images/c/ce/夏海真夏.png)<br>日语：夏海まなつ（なつうみ まなつ）<br>所属作品：`tropical-rouge precure` | [https://moegirl.uk/夏海真夏](https://moegirl.uk/夏海真夏) |
 | believe | 信念 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/40/36z7e1rbf9vflkqyvsn0kkhh900spdw.png/600px-Yf_1095.png)<br>所属作品：`uma musume pretty derby` |  |
 | darley arabian | 达利阿拉伯 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/44/UPDCH_DarleyArabian_00.png)<br>所属作品：`uma musume pretty derby` |  |
