@@ -8552,6 +8552,7 @@ example:
 | hayate tendo | 天堂飒 | ![](https://static.wikia.nocookie.net/d4dj/images/6/61/Hayate_official.png)<br>所属作品：`dig delight direct drive dj`<br>日语：天堂 はやて | [Fandom](https://d4dj.fandom.com/wiki/Tendo_Hayate) |
 | yuuhi amamiya | 雨宫夕日 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/d6/Amamiya_Yuuhi.png)<br>出自作品：`p:hoshi no samidare`<br><br>雨宫夕日（日语：雨宮（あまみや） 夕日（ゆうひ））是水上悟志创作的漫画《惑星公主蜥蜴骑士》及其衍生作品中登场的角色。 | [萌娘百科](https://zh.moegirl.org.cn/雨宫夕日) |
 | sumire nekoyashiki | 猫屋敷真由（缘结天使） | ![](https://static.wikia.nocookie.net/prettycure/images/7/76/Mayu_Cure_Lillian_Profile.png)<br>日语：猫屋敷すみれ<br>所属作品：`wonderful precure` | [百度百科](https://baike.baidu.com/item/猫屋敷真由) |
+| cure zukyoon | 普莉伦（倾心天使） | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/Zukyoon_Purirun.png)<br>所属作品：`kimi to idol precure`<br>日语：プリルン | [Fandom](https://prettycure.fandom.com/wiki/Purirun) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
