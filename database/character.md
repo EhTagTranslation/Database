@@ -8563,6 +8563,7 @@ example:
 | siegfried | 齐格飞 | ![](https://media.fgo.wiki/3/35/齐格飞_status_泳装.png)<br>出自作品：`p:fate grand order` | [fgo.wiki](https://fgo.wiki/w/齐格飞) |
 | arachnea | 阿拉库内娅 | 所属作品:`yes precure 5` | [Fandom](https://prettycure.fandom.com/wiki/Arachnea) |
 | girinma | 格利玛 | 所属作品:`yes precure 5` | [Fandom](https://prettycure.fandom.com/wiki/Girinma) |
+| cure wing | 夕凪翼 | ![](https://static.wikia.nocookie.net/prettycure/images/3/39/Wing_Tsubasa_Profile.png/revision/latest?cb=20230327230441)<br>所属作品:`hirogaru sky precure`<br>日语:夕凪ツバサ（ゆうなぎ ツバサ） | [萌娘百科](https://zh.moegirl.org.cn/夕凪翼)<br>[Fandom](https://prettycure.fandom.com/wiki/Yuunagi_Tsubasa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
