@@ -2142,7 +2142,7 @@ example:
 | cure moonlight | 月光天使 | ![](https://ehgt.org/w/01/087/35993-jjiu3ksk.webp) ![](https://ehgt.org/9c/3a/9c3ad6d4f99b91716486524d0b6440532b231c46-872394-1152-1620-jpg_250.jpg)<br>出自作品：`p:heartcatch precure`<br><br>月影百合（日語：月影（つきかげ） ゆり）是動畫《HeartCatch光之美少女！ 》及其衍生作品的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/月影百合) |
 | cure flower | 花朵天使 |  |  |
 | cure ange | 圣洁天使 |  |  |
-| cure amour | 露露·阿穆尔 (爱神天使) | ![](https://moegirl.uk/images/5/5a/Cure_Amour.png)<br>日语：ルールー・アムール<br>所属作品:`hugtto precure` | [https://moegirl.uk/露露·阿穆尔](https://moegirl.uk/露露·阿穆尔) |
+| cure amour | 露露·阿穆尔 (爱神天使) | ![](https://moegirl.uk/images/5/5a/Cure_Amour.png)<br>所属作品:`hugtto precure`<br>日语：ルールー・アムール | [https://moegirl.uk/露露·阿穆尔](https://moegirl.uk/露露·阿穆尔) |
 | cure etoile | 辉木誉 (星辰天使) | ![](https://moegirl.uk/images/a/aa/Cure_etoile.jpg)<br><br>日语: 輝木ほまれ（かがやき ほまれ）<br>所属作品：`hugtto precure` | [https://moegirl.uk/辉木誉](https://moegirl.uk/辉木誉) |
 | cure macherie | 爱崎惠美瑠 (挚爱天使) | ![](https://moegirl.uk/images/e/eb/Cure_Macherie.png)<br>日语：愛崎えみる（あいさき えみる）<br>所属作品：`hugtto precure` | [https://moegirl.uk/爱崎惠美瑠](https://moegirl.uk/爱崎惠美瑠) |
 | kotori nono | 野乃小鸟 |  |  |
