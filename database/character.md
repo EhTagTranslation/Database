@@ -7838,7 +7838,7 @@ example:
 | cure flamingo | 泷泽飞鸟（火烈鸟天使） | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/AsukaFlamingo.png/revision/latest?cb=20210225123747)<br>日语：滝沢あすか（たきざわ あすか）<br>所属作品:`p:tropical-rouge precure` | [萌娘百科](https://zh.moegirl.org.cn/泷泽飞鸟) |
 | cure la mer | 萝拉·拉·梅尔 | ![](https://moegirl.uk/images/1/10/P_05_style3_pc.png)<br>萝拉·阿波罗多洛斯·海基努斯·拉·梅尔（日语：ローラ・アポロドーロス・ヒュギーヌス・ラメール），简称萝拉·拉梅尔<br>所属作品:`tropical-rouge precure` | [https://moegirl.uk/萝拉·阿波罗多洛斯·海基努斯·拉·梅尔](https://moegirl.uk/萝拉·阿波罗多洛斯·海基努斯·拉·梅尔) |
 | cure earth | 风铃艾苏米 (大地天使) | ![](https://moegirl.uk/images/3/31/风铃明日美.jpg)<br>日语：風鈴アスミ（ふうりん アスミ）<br>所属作品:`healin good precure` | [https://moegirl.uk/风铃艾苏米](https://moegirl.uk/风铃艾苏米) |
-| cure finale | 菓彩天音 (终曲天使) | ![](https://moegirl.uk/images/c/ce/終極天使官方.png)<br>日语：菓彩あまね（かさい あまね）<br>所属作品:`delicious party precure` | [https://moegirl.uk/菓彩天音](https://moegirl.uk/菓彩天音) |
+| cure finale | 菓彩天音 (终曲天使) | ![](https://static.wikia.nocookie.net/prettycure/images/2/2a/Finale_Amane_profile.png)<br>所属作品:`delicious party precure`<br>日语：菓彩あまね（かさい あまね） | [萌娘百科](https://moegirl.uk/菓彩天音) |
 | cure fontaine | 泽泉知优 (泉源天使) | ![](https://moegirl.uk/images/2/20/P_02_style1_pc.png)<br>日语：沢泉ちゆ（さわいずみ ちゆ）<br>所属作品:`healin good precure` | [https://moegirl.uk/泽泉知优](https://moegirl.uk/泽泉知优) |
 | cure grace | 花寺和佳 (恩典天使) | ![](https://moegirl.uk/images/0/0f/P_01_style1_pc.png)<br>日语：花寺のどか（はなでら のどか）<br>所属作品：`healin good precure` | [https://moegirl.uk/花寺和佳](https://moegirl.uk/花寺和佳) |
 | cure majesty | 艾尔公主 | 日语：プリンセス・エル<br>变身前是个婴儿<br>所属作品：`hirogaru sky precure` | [https://moegirl.uk/艾尔%28光之美少女%29](https://moegirl.uk/艾尔%28光之美少女%29) |
