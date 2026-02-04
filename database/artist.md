@@ -14803,6 +14803,7 @@ example:
 | keirei | 敬礼 |  |  |
 | okibariyasu | おきばりやす |  | [pixiv](https://www.pixiv.net/users/16449490) |
 | kuzuryuu kennosuke | 九頭龍剣之介 |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=くずけん) |
+| hazuki kei | はづきけい |  | [pixiv](https://www.pixiv.net/users/82118837) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22はづきけい%22) |
 
 <!--TEMPLATE:
 |  |  |  |  |
