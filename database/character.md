@@ -8557,6 +8557,7 @@ example:
 | cure puca | 普卡（普卡天使） | ![](https://static.wikia.nocookie.net/prettycure/images/c/cb/Puca_Official_Profile_Toei.png)<br>所属作品：光之美少女全明星F<br>日语：プーカ | [Fandom](https://prettycure.fandom.com/wiki/Puca) |
 | sumire nono | 野乃堇 | ![](https://static.wikia.nocookie.net/prettycure/images/d/d0/Nono_Sumire_infobox.png)<br>所属作品：`hugtto precure`<br>日语：野乃すみれ | [百度百科](https://baike.baidu.com/item/野乃堇/65688432) |
 | cure kiss | 梅洛伦（飞吻天使） | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Kiss_Meroron.png)<br>所属作品：`kimi to idol precure`<br>日语：メロロン | [百度百科](https://baike.baidu.com/item/梅洛伦) |
+| hugtan | 抱碳 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7a/HuPC-profileimg-Hugtan.png)<br>所属作品：`hugtto precure`<br>日语：はぐたん | [Fandom](https://prettycure.fandom.com/wiki/Hugtan) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
