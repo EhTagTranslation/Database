@@ -2160,7 +2160,7 @@ example:
 | maria houjou | 北条真理亚 |  |  |
 | misora minamino | 南野美空 |  |  |
 | cure happy | 星空美幸 (快乐天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/9e/Happyyy.png/revision/latest?cb=20230510051052)<br>所属作品:`smile precure`<br>日语：星空みゆき（ほしぞら みゆき） | [https://moegirl.uk/星空美幸](https://moegirl.uk/星空美幸)<br>[Fandom](https://prettycure.fandom.com/wiki/Hoshizora_Miyuki) |
-| cure sunny | 晴朗天使 |  |  |
+| cure sunny | 日野茜 (晴朗天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/e4/Sunnyyy.png/revision/latest?cb=20230510051735)<br>所属作品:`smile precure` | [Fandom](https://prettycure.fandom.com/wiki/Hino_Akane)<br>[萌娘百科](https://zh.moegirl.org.cn/日野茜%28光之美少女%29) |
 | cure peace | 和平天使 |  |  |
 | cure march | 绿川直 (旋风天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/Marchhh.png/revision/latest?cb=20230510052612)<br>所属作品:`smile precure` | [Fandom](https://prettycure.fandom.com/wiki/Midorikawa_Nao)<br>[萌娘百科](https://zh.moegirl.org.cn/绿川直) |
 | cure beauty | 美丽天使 |  |  |
