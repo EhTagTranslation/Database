@@ -2192,7 +2192,7 @@ example:
 | cure mermaid | 海藤南 (人鱼天使) | ![](https://moegirl.uk/images/8/84/300Cure_Mermaid.jpg)<br>日语：海藤みなみ（かいどう みなみ）<br>所属作品：`go princess precure` | [https://moegirl.uk/海藤南](https://moegirl.uk/海藤南) |
 | cure twinkle | 天之川绮罗 (闪亮天使) | ![](https://moegirl.uk/images/2/29/300Cure_Twinkle.jpg)<br>日语：天ノ川きらら（あまのがわ きらら）<br>所属作品：`go princess precure` | [https://moegirl.uk/天之川绮罗](https://moegirl.uk/天之川绮罗) |
 | cure scarlet | 赤红天使 |  |  |
-| cure miracle | 朝日奈未来 (奇迹天使) | ![](https://moegirl.uk/images/a/ae/Img_cahra-diamond.png)<br>日语：朝日奈みらい（あさひな みらい）<br>所属作品：`maho girls precure` | [https://moegirl.uk/朝日奈未来](https://moegirl.uk/朝日奈未来) |
+| cure miracle | 朝日奈未来 (奇迹天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/MiraiMiracle.png/revision/latest?cb=20240210220654)<br>所属作品：`maho girls precure`<br>日语：朝日奈みらい（あさひな みらい） | [https://moegirl.uk/朝日奈未来](https://moegirl.uk/朝日奈未来)<br>[Fandom](https://prettycure.fandom.com/wiki/Asahina_Mirai) |
 | cure magical | 十六夜理子 (魔法天使) | ![](https://moegirl.uk/images/e/ec/Cure_Magical.png)<br>日语：十六夜リコ（いざよい リコ）<br>所属作品：`maho girls precure` | [https://moegirl.uk/十六夜理子](https://moegirl.uk/十六夜理子) |
 | cure felice | 幸福天使 |  |  |
 | cure whip | 奶油天使 |  |  |
