@@ -2121,7 +2121,7 @@ example:
 | cure black | 美墨渚 (黑天使) | ![](https://moegirl.uk/images/a/ac/Cure_Black_GoGo_Dream_Live.png)<br>日语：美墨なぎさ（みすみ なぎさ）<br>登场于:`futari wa pretty cure` | [https://moegirl.uk/美墨渚](https://moegirl.uk/美墨渚) |
 | cure white | 雪城穗乃香 (白天使) | ![](https://moegirl.uk/images/6/6d/Cure_White_GoGo_Dream_Live.png)<br>日语：雪城ほのか<br>登场于:`futari wa pretty cure` | [https://moegirl.uk/雪城穗乃香](https://moegirl.uk/雪城穗乃香) |
 | shiny luminous | 九条光 | ![](https://moegirl.uk/images/b/b6/Shiny_Luminosa_GoGo_Dream_Live.png)<br>日语：九条ひかり（くじょう ひかり）<br>所属作品:`futari wa pretty cure` | [https://moegirl.uk/九条光](https://moegirl.uk/九条光) |
-| cure bloom | 日向咲 (花天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Bloom_Bright_Saki_Profile.png/revision/latest?cb=20200104203901)<br>日语：ひゅうが さき<br>所属作品:`futari wa precure splash star` | [https://moegirl.uk/日向咲](https://moegirl.uk/日向咲) |
+| cure bloom | 日向咲 (花天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Bloom_Bright_Saki_Profile.png/revision/latest?cb=20200104203901)<br>所属作品:\`futari wa precure splash star<br>日语：ひゅうが さき | [https://moegirl.uk/日向咲](https://moegirl.uk/日向咲) |
 | cure egret | 美翔舞 (舞天使) | ![](https://moegirl.uk/images/b/bc/Cure_Egret.png)<br>日语：みしょう まい<br>所属作品:`futari wa precure splash star` | [https://moegirl.uk/美翔舞](https://moegirl.uk/美翔舞) |
 | michiru kiryuu | 雾生满 |  |  |
 | kaoru kiryuu | 雾生薰 |  |  |
