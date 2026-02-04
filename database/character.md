@@ -8562,6 +8562,7 @@ example:
 | mikoto | 水琴/命 | 所属作品：《火焰的纹章if》或《最终幻想IX》 | [萌娘百科（火焰的纹章if）](https://zh.moegirl.org.cn/火焰之纹章_if)<br>[最终幻想百科（角色列表）](https://finalfantasy.huijiwiki.com/wiki/最终幻想IX/角色) |
 | siegfried | 齐格飞 | ![](https://media.fgo.wiki/3/35/齐格飞_status_泳装.png)<br>出自作品：`p:fate grand order` | [fgo.wiki](https://fgo.wiki/w/齐格飞) |
 | arachnea | 阿拉库内娅 | 所属作品:`yes precure 5` | [Fandom](https://prettycure.fandom.com/wiki/Arachnea) |
+| girinma | 格利玛 | 所属作品:`yes precure 5` | [Fandom](https://prettycure.fandom.com/wiki/Girinma) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
