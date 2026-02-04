@@ -14800,6 +14800,7 @@ example:
 | gagaimo | ガガイモ |  |  |
 | gawako | がわこ |  |  |
 | ukai saki | 鵜飼沙樹 |  |  |
+| keirei | 敬礼 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
