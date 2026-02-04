@@ -2471,7 +2471,7 @@ example:
 | the road to el dorado | 勇闯黄金城 | 《勇闯黄金城》是一部由美国梦工厂制片公司制作，于2000年上映的美国动作、冒险、喜剧电影。电影的配乐则由艾尔顿·约翰和蒂姆·赖斯，及作曲家汉斯·季默完成。电影讲述两名骗子杜立欧与密格为了寻找传说中的黄金城的宝藏，所延伸的冒险经历。 | [维基百科](https://zh.wikipedia.org/wiki/勇闯黄金城) |
 | rignetta-san no bouken | 莉吉妮塔的冒險 |  | [MyAnimeList](https://myanimelist.net/anime/59118/Reginetta-san_no_Bouken) [AniDB](https://anidb.net/anime/18647) |
 | stellar blade | 剑星 |  |  |
-| kimi to idol precure | Idol光之美少女你与我♪ | ![](https://upload.wikimedia.org/wikipedia/zh/3/30/You_and_Idol_PreCure.jpg)<br>日文：キミとアイドルプリキュア♪ | [维基百科](https://zh.wikipedia.org/wiki/光之美少女偶像與你) |
+| kimi to idol precure | Idol光之美少女你与我♪ | ![](https://upload.wikimedia.org/wikipedia/zh/3/30/You_and_Idol_PreCure.jpg)<br>《Idol光之美少女你与我♪》是东映动画制作的系列电视动画作品《光之美少女》的第二十二部系列作品，属第二十代光之美少女。<br>日文：キミとアイドルプリキュア♪ | [维基百科](https://zh.wikipedia.org/wiki/光之美少女偶像與你)<br>[百度百科](https://baike.baidu.com/item/Idol光之美少女你与我♪/65666203) |
 | she-ra and the princesses of power | 神娃之伊莎莉亚战记 | 《神娃之伊莎莉亚战记》（英语：She-Ra and the Princesses of Power）是由ND·史蒂文森开发并由梦工厂制作的美式卡通连续剧。由Netflix发展，剧集描述了一名能化为神娃的少女阿多拉带领一群其他魔法公主反抗邪恶的千面魔和他的千面族。 | [维基百科](https://zh.wikipedia.org/wiki/神娃之伊莎莉亞戰記) |
 | inda no himekishi janne | 淫堕的姫骑士贞德 | 《淫堕的姬骑士贞德》（日语原名：淫堕の姫騎士ジャンヌ）是筑摩十幸创作的官能小说。第一卷于2005年11月30日由二次元Dream Novels（Kill Time Communication）发行。<br><br>本作后来被改编为成人游戏《淫堕的姬骑士贞德 ～被注入食人魔之子的高贵公主！～》，于2006年7月28日由catwalk NERO发售，并在此基础上又推出了成人动画。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/淫堕の姫騎士ジャンヌ#アダルトアニメ) [vndb](https://vndb.org/v2903) |
 | nanatsu no maken ga shihai suru | 七魔剑支配天下 |  | [维基百科](https://zh.wikipedia.org/wiki/七魔劍支配天下) [萌娘百科](https://zh.moegirl.org.cn/七魔剑支配天下) |
