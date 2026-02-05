@@ -7848,7 +7848,7 @@ example:
 | cure star | 星奈光 (星空天使) | ![](https://static.wikia.nocookie.net/prettycure/images/d/dd/Hoshina_Hikaru_Cure_Star_profile.png)<br>日语：星奈ひかる（ほしな ひかる）<br>所属作品：`star twinkle precure` | [萌娘百科](https://moegirl.uk/星奈光) |
 | kyryll chudomirovich flins | 克里洛·楚德米洛维奇·菲林斯 | 所属作品:`genshin impact` |  |
 | cure coral | 凉村珊瑚 (珊瑚天使) | ![](https://static.wikia.nocookie.net/prettycure/images/a/ac/SangoCoral.png/revision/latest?cb=20210225123735)<br>所属作品:`tropical-rouge precure`<br>日语：涼村さんご（すずむら さんご） | [https://moegirl.uk/凉村珊瑚](https://moegirl.uk/凉村珊瑚)<br>[Fandom](https://prettycure.fandom.com/wiki/Suzumura_Sango) |
-| cure summer | 夏海真夏 (夏日天使) | ![](https://moegirl.uk/images/c/ce/夏海真夏.png)<br>日语：夏海まなつ（なつうみ まなつ）<br>所属作品：`tropical-rouge precure` | [https://moegirl.uk/夏海真夏](https://moegirl.uk/夏海真夏) |
+| cure summer | 夏海真夏 (夏日天使) | ![](https://static.wikia.nocookie.net/prettycure/images/0/03/ManatsuSummer.png)<br>日语：夏海まなつ（なつうみ まなつ）<br>所属作品：`tropical-rouge precure` | [萌娘百科](https://moegirl.uk/夏海真夏) |
 | believe | 信念 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/4/40/36z7e1rbf9vflkqyvsn0kkhh900spdw.png/600px-Yf_1095.png)<br>所属作品：`uma musume pretty derby` |  |
 | darley arabian | 达利阿拉伯 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/44/UPDCH_DarleyArabian_00.png)<br>所属作品：`uma musume pretty derby` |  |
 | jiaoqiu | 椒丘 | ![](https://patchwiki.biligame.com/images/sr/thumb/b/b5/h2u3h7qkujl7t1vrdydgcbsouu717qc.png/1350px-椒丘立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「曜青」的狐人医士、策士，出身丹鼎司名家。 |  |
