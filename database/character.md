@@ -2168,7 +2168,7 @@ example:
 | masako hino | 日野正子 | 所属作品：`smile precure` |  |
 | chiharu kise | 黄濑千春 | ![](https://static.wikia.nocookie.net/prettycure/images/b/b0/Chiharuprofile.jpg)<br>所属作品：`smile precure`<br>日语：黄瀬ちはる<br>黄濑弥生的母亲。 | [Fandom](https://prettycure.fandom.com/wiki/Kise_Chiharu) |
 | tomoko midorikawa | 绿川伦子 |  |  |
-| shizuko aoki | 青木静子 |  |  |
+| shizuko aoki | 青木静子 | ![](https://static.wikia.nocookie.net/prettycure/images/e/e8/Shizuko_profile.jpg)<br>所属作品：`smile precure`<br>日语：青木静子 | [Fandom](https://prettycure.fandom.com/wiki/Aoki_Shizuko) |
 | wolfrun | 狼伦 |  |  |
 | akaooni | 赤鬼 |  |  |
 | bad end happy | 悲剧快乐天使 |  |  |
