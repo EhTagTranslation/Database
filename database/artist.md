@@ -14811,6 +14811,7 @@ example:
 | athke | 深津英助/Athke |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=深津英助/Athke) |
 | satoshi isei | イセイサトシ |  |  |
 | xd tanaka | XD田中 |  | [X](https://x.com/XDXDtanakaXDXD) |
+| green tea | green TEA。 |  | [X](https://x.com/matchaistasty) |
 
 <!--TEMPLATE:
 |  |  |  |  |
