@@ -2122,7 +2122,7 @@ example:
 | cure white | 雪城穗乃香 (白天使) | ![](https://moegirl.uk/images/6/6d/Cure_White_GoGo_Dream_Live.png)<br>日语：雪城ほのか<br>登场于:`futari wa pretty cure` | [https://moegirl.uk/雪城穗乃香](https://moegirl.uk/雪城穗乃香) |
 | shiny luminous | 九条光（夏米露斯） | ![](https://static.wikia.nocookie.net/prettycure/images/1/10/Hikari%26luminous.jpg)<br>所属作品:`futari wa pretty cure`<br>日语：九条ひかり（くじょう ひかり） | [萌百](https://moegirl.uk/九条光) |
 | cure bloom | 日向咲 (花天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Bloom_Bright_Saki_Profile.png/revision/latest?cb=20200104203901)<br>所属作品:\`futari wa precure splash star<br>日语：ひゅうが さき | [萌娘百科](https://moegirl.uk/日向咲) |
-| cure egret | 美翔舞 (舞天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Egret_Windy_Mai_Profile.png/revision/latest?cb=20190420092742)<br>所属作品:`futari wa precure splash star`<br>日语：みしょう まい | [https://moegirl.uk/美翔舞](https://moegirl.uk/美翔舞) |
+| cure egret | 美翔舞 (舞天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Egret_Windy_Mai_Profile.png/revision/latest?cb=20190420092742)<br>所属作品:`futari wa precure splash star`<br>日语：みしょう まい | [萌娘百科](https://moegirl.uk/美翔舞) |
 | michiru kiryuu | 雾生满 |  |  |
 | kaoru kiryuu | 雾生薰 |  |  |
 | cure dream | 梦原望 (梦天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/5c/Curedreammain.jpg/revision/latest?cb=20150208071954)<br>所属作品:`yes precure 5`<br>日语：夢原のぞみ（ゆめはら のぞみ） | [Fandom](https://prettycure.fandom.com/wiki/Yumehara_Nozomi)<br>[萌娘百科](https://zh.moegirl.org.cn/梦原望) |
