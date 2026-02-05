@@ -2188,7 +2188,7 @@ example:
 | cure honey | 大森悠子（蜂蜜天使） | ![](https://static.wikia.nocookie.net/prettycure/images/9/95/Yuko_honey_1.png)<br>所属作品：`happinesscharge precure`<br>日语：大森ゆうこ | [百度百科](https://baike.baidu.com/item/大森悠子/13679346) |
 | cure fortune | 冰川伊绪奈 (命运天使) | ![](https://static.wikia.nocookie.net/prettycure/images/8/8a/Hikawa-Fortune.png)<br><br>所属作品:`happinesscharge precure`<br>日语：氷川いおな（ひかわ いおな） | [萌娘百科](https://moegirl.uk/冰川伊绪奈) |
 | maria hikawa | 冰川麻理亚 |  |  |
-| cure flora | 春野遥 (花神天使) | ![](https://moegirl.uk/images/6/63/HARUNO_HARUKA.jpg)<br>日语：春野はるか（はるの はるか）<br>所属作品:`go princess precure` | [https://moegirl.uk/春野遥](https://moegirl.uk/春野遥) |
+| cure flora | 春野遥 (花神天使) | ![](https://static.wikia.nocookie.net/prettycure/images/f/f3/Haruka_%26_Cure_Flora_Movie_Profile.png)<br>所属作品:`go princess precure`<br>日语：春野はるか（はるの はるか） | [萌娘百科](https://moegirl.uk/春野遥) |
 | cure mermaid | 海藤南 (人鱼天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/ed/MinamiMermaid.png)<br>所属作品：`go princess precure`<br>日语：海藤みなみ（かいどう みなみ） | [萌娘百科](https://moegirl.uk/海藤南) |
 | cure twinkle | 天之川绮罗 (闪亮天使) | ![](https://static.wikia.nocookie.net/prettycure/images/6/6f/KiraraTwinkle.png)<br>所属作品：`go princess precure`<br>日语：天ノ川きらら（あまのがわ きらら） | [萌娘百科](https://moegirl.uk/天之川绮罗) |
 | cure scarlet | 红城永久 (赤红天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/TowaScarlet.png/revision/latest?cb=20150915090650)<br>所属作品:`go princess precure` | [Fandom](https://prettycure.fandom.com/wiki/Akagi_Towa)<br>[萌娘百科](https://zh.moegirl.org.cn/红城永久) |
