@@ -2166,7 +2166,7 @@ example:
 | cure beauty | 青木丽华 (美丽天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/3e/Beautyyy.png/revision/latest?cb=20230510052931)<br><br>所属作品:`smile precure` | [Fandom](https://prettycure.fandom.com/wiki/Aoki_Reika)<br>[萌娘百科](https://zh.moegirl.org.cn/青木丽华) |
 | ikuyo hoshizora | 星空育代 | ![](https://ehgt.org/w/02/085/35191-iqpt5i2b.webp)<br>所属作品：`smile precure` |  |
 | masako hino | 日野正子 |  |  |
-| chiharu kise | 黄濑千春 |  |  |
+| chiharu kise | 黄濑千春 | ![](https://static.wikia.nocookie.net/prettycure/images/b/b0/Chiharuprofile.jpg)<br>所属作品：`smile precure`<br>日语：黄瀬ちはる<br>黄濑弥生的母亲。 | [Fandom](https://prettycure.fandom.com/wiki/Kise_Chiharu) |
 | tomoko midorikawa | 绿川伦子 |  |  |
 | shizuko aoki | 青木静子 |  |  |
 | wolfrun | 狼伦 |  |  |
