@@ -2186,7 +2186,7 @@ example:
 | cure lovely | 爱乃惠 (可爱天使) | ![](https://moegirl.uk/images/6/6d/Cure_lovely是无敌的.png)<br>日语：愛乃めぐみ（あいの めぐみ）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/爱乃惠](https://moegirl.uk/爱乃惠) |
 | cure princess | 公主天使 |  |  |
 | cure honey | 蜂蜜天使 |  |  |
-| cure fortune | 冰川伊绪奈 (命运天使) | ![](https://moegirl.uk/images/8/8f/Bingchuanyxn.jpg)<br>日语：氷川いおな（ひかわ いおな）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/冰川伊绪奈](https://moegirl.uk/冰川伊绪奈) |
+| cure fortune | 冰川伊绪奈 (命运天使) | ![](https://static.wikia.nocookie.net/prettycure/images/8/8a/Hikawa-Fortune.png)<br><br>所属作品:`happinesscharge precure`<br>日语：氷川いおな（ひかわ いおな） | [萌娘百科](https://moegirl.uk/冰川伊绪奈) |
 | maria hikawa | 冰川麻理亚 |  |  |
 | cure flora | 春野遥 (花神天使) | ![](https://moegirl.uk/images/6/63/HARUNO_HARUKA.jpg)<br>日语：春野はるか（はるの はるか）<br>所属作品:`go princess precure` | [https://moegirl.uk/春野遥](https://moegirl.uk/春野遥) |
 | cure mermaid | 海藤南 (人鱼天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/ed/MinamiMermaid.png/revision/latest?cb=20150915090232)<br>所属作品：`go princess precure`<br>日语：海藤みなみ（かいどう みなみ） | [https://moegirl.uk/海藤南](https://moegirl.uk/海藤南) |
