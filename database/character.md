@@ -6887,7 +6887,7 @@ example:
 | shinigami | 小死神 | 所属作品：`chou-tantei jikenbo rain code`<br>![](https://ehgt.org/w/01/784/60732-e85om4qd.webp) |  |
 | setsuna sakurazaki | 刹那·樱咲 | 所属作品：`mahou sensei negima`<br>![](https://lain.bgm.tv/r/400/pic/crt/l/da/0c/245_crt_8i24x.jpg)<br>武道四天王之一，是在京都流传已久的神鸣流剑术高手，也是个精通阴阳道的剑士。 |  |
 | sumia | 斯米娅 | ![](https://i.pixiv.cat/img-master/img/2017/03/16/10/45/15/61935317_p0_master1200.jpg)<br>![](https://i.pixiv.cat/img-master/img/2025/09/19/18/08/09/135282513_p0_master1200.jpg)<br>所属作品：`fire emblem awakening` |  |
-| cure yum-yum | 华满兰 (美味天使) | ![](https://static.wikia.nocookie.net/prettycure/images/a/aa/Ran_Yum-Yum_profile.png/revision/latest?cb=20220109082630)<br>所属作品：`delicious party precure`<br><br>初二学生，家中经营拉面店“熊猫轩”，责任心强且擅长照顾孩子。<br>通过妖精面面赋予的力量变身，第一人称使用“兰兰”，变身时改为“Yum-Yum”。 | [萌娘百科](https://zh.moegirl.org.cn/华满兰) |
+| cure yum-yum | 华满兰 (美味天使) | ![](https://static.wikia.nocookie.net/prettycure/images/a/aa/Ran_Yum-Yum_profile.png/revision/latest?cb=20220109082630)<br>所属作品：`delicious party precure` | [萌娘百科](https://zh.moegirl.org.cn/华满兰) |
 | kuramochi meruto | 仓持妹路特 | ![](https://i0.wp.com/uploads.saigacdn.com/2023/01/nijisanji-new-liver-debut-jan202307.jpg)<br>仓持妹路特（Kuramochi Meruto）是日本虚拟主播团体彩虹社（にじさんじ）的成员，2023年1月出道。 |  |
 | gunnthra | Gunnthra | 所属作品：`fire emblem heroes`<br>![](https://cdn.fireemblemwiki.org/thumb/4/4c/FEH_Gunnthrá_Voice_of_Dreams_01.png/225px-FEH_Gunnthrá_Voice_of_Dreams_01.png)<br>Gunnthrá （日语：スリーズSlíðr ）是尼弗尔王国（冰之国）的长公主，赫里德的妹妹，弗约姆和伊尔格的姐姐 。<br>通过心灵感应与玩家角色基兰沟通，提供支援 。 | [https://fireemblemwiki.org/wiki/Gunnthrá](https://fireemblemwiki.org/wiki/Gunnthrá) |
 | malon | Malon | 所属作品：`the legend of zelda`<br>Malon是《塞尔达传说》系列中的重要角色，首次登场于《时之笛》（Ocarina of Time），是隆隆牧场（Lon Lon Ranch）主人塔隆的女儿。 |  |
