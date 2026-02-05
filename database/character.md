@@ -8570,6 +8570,7 @@ example:
 | twilight | 红城永久（赤红天使） | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/TowaScarlet.png)<br>所属作品：`go princess precure`<br>日语：紅城トワ | [百度百科](https://baike.baidu.com/item/红城永久/18001276) |
 | masuko mika | 增子美香 | ![](https://static.wikia.nocookie.net/prettycure/images/5/5a/Mikaprofile.jpg)<br>所属作品：`yes precure 5` | [Fandom](https://prettycure.fandom.com/wiki/Masuko_Mika)<br>[百度百科](https://baike.baidu.com/item/增子美香/64566958) |
 | dark dream | 梦原希（暗梦） | ![](https://static.wikia.nocookie.net/prettycure/images/0/02/YPC5_DarkDreamBeta.jpg)<br>所属作品：`yes precure 5`<br>日语：ダークドリーム | [百度百科](https://baike.baidu.com/item/暗之美少女/8838351) |
+| candy | 糖糖 | ![](https://static.wikia.nocookie.net/prettycure/images/d/da/Smile_Charge_-_Cure_Candy_poses.jpg)<br>所属作品：`smile precure`<br>日语：キャンディ | [百度百科](https://baike.baidu.com/item/糖糖/29675) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
