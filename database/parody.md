@@ -2724,6 +2724,7 @@ example:
 | seihantai na kimi to boku | 正相反的你与我 | ![](https://static.wikia.nocookie.net/youandiarepolaropposites/images/3/3a/Synopsis_Cover.png)<br>阿贺泽红茶创作的漫画作品。 |  |
 | uchi no hime-sama ga ichiban kawaii | 我家公主最可爱 | ![](https://static.wikia.nocookie.net/prison-school/images/7/72/Uchi_no_Hime-sama_ga_Ichiban_Kawaii.png)<br>Cyber Agent 旗下的 Ameba Native Game Studio制作的手机游戏。 | [百度百科](https://baike.baidu.com/item/我家公主最可爱) |
 | hoshi no samidare | 惑星公主蜥蜴骑士 | 《惑星公主蜥蜴骑士》（日语：惑星のさみだれ）是由水上悟志创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/惑星公主蜥蜴骑士) |
+| disco elysium | 极乐迪斯科 | 《极乐迪斯科》（英语：Disco Elysium），早期被称为《No Truce with the Furies》，是ZA/UM开发的一款都市奇幻类TRPG游戏，其灵感来自各种推理作品。其最终剪辑版于2021年3月30日发布。 | [萌娘百科](https://zh.moegirl.org.cn/极乐迪斯科) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
