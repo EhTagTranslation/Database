@@ -2195,7 +2195,7 @@ example:
 | cure miracle | 朝日奈未来 (奇迹天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/MiraiMiracle.png/revision/latest?cb=20240210220654)<br>所属作品：`maho girls precure`<br>日语：朝日奈みらい（あさひな みらい） | [https://moegirl.uk/朝日奈未来](https://moegirl.uk/朝日奈未来)<br>[Fandom](https://prettycure.fandom.com/wiki/Asahina_Mirai) |
 | cure magical | 十六夜理子 (魔法天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/50/RikoMagical.png)<br>日语：十六夜リコ（いざよい リコ）<br>所属作品：`maho girls precure` | [萌娘百科](https://moegirl.uk/十六夜理子) |
 | cure felice | 幸福天使 |  |  |
-| cure whip | 奶油天使 |  |  |
+| cure whip | 宇佐美一花（奶油天使） | ![](https://static.wikia.nocookie.net/prettycure/images/5/58/IchikaWhip.png)<br>所属作品：`kirakira precure a la mode`<br>日语：宇佐美いちか | [Fandom](https://prettycure.fandom.com/wiki/Usami_Ichika) |
 | cure custard | 有栖川向阳 (奶黄天使) | ![](https://static.wikia.nocookie.net/prettycure/images/0/00/HimariCustard.png/revision/latest?cb=20200212105859)<br>所属作品:`kirakira precure a la mode`<br>日语：有栖川ひまり（ありすがわ ひまり） | [https://moegirl.uk/有栖川向阳](https://moegirl.uk/有栖川向阳)<br>[Fandom](https://prettycure.fandom.com/wiki/Arisugawa_Himari) |
 | cure gelato | 立神葵 (冰淇淋天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/AoiGelato.png/revision/latest?cb=20200212110042)<br>所属作品:`kirakira precure a la mode`<br>日语：立神あおい（たてがみ あおい） | [萌娘百科](https://moegirl.uk/立神葵)<br>[Fandom](https://prettycure.fandom.com/wiki/Tategami_Aoi) |
 | cure macaron | 琴爪缘 (马卡龙天使) | ![](https://static.wikia.nocookie.net/prettycure/images/f/f0/YukariMacaroon.png/revision/latest?cb=20200212110150)<br>所属作品:`kirakira precure a la mode`<br>日语：琴爪ゆかり（ことづめ ゆかり） | [https://moegirl.uk/琴爪缘](https://moegirl.uk/琴爪缘)<br>[Fandom](https://prettycure.fandom.com/wiki/Kotozume_Yukari) |
