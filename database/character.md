@@ -8572,6 +8572,7 @@ example:
 | dark dream | 梦原希（暗梦） | ![](https://static.wikia.nocookie.net/prettycure/images/0/02/YPC5_DarkDreamBeta.jpg)<br>所属作品：`yes precure 5`<br>日语：ダークドリーム | [百度百科](https://baike.baidu.com/item/暗之美少女/8838351) |
 | candy | 糖糖 | ![](https://static.wikia.nocookie.net/prettycure/images/d/da/Smile_Charge_-_Cure_Candy_poses.jpg)<br>所属作品：`smile precure`<br>日语：キャンディ | [百度百科](https://baike.baidu.com/item/糖糖/29675) |
 | yui nanase | 七濑唯 | ![](https://static.wikia.nocookie.net/prettycure/images/a/a6/Nanase_Yui.png)<br>所属作品：`go princess precure`<br>日语：七瀬ゆい | [百度百科](https://baike.baidu.com/item/七濑唯/18769918) |
+| miss shamour | 夏慕尔小姐 | ![](https://static.wikia.nocookie.net/prettycure/images/f/fa/Tumblr_nirlm9yxER1u2vo2go1_500.png)<br>所属作品：`go princess precure`<br>日语：ミスシャムール | [Fandom](https://prettycure.fandom.com/wiki/Miss_Shamour) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
