@@ -8574,6 +8574,7 @@ example:
 | yui nanase | 七濑唯 | ![](https://static.wikia.nocookie.net/prettycure/images/a/a6/Nanase_Yui.png)<br>所属作品：`go princess precure`<br>日语：七瀬ゆい | [百度百科](https://baike.baidu.com/item/七濑唯/18769918) |
 | miss shamour | 夏慕尔小姐 | ![](https://static.wikia.nocookie.net/prettycure/images/f/fa/Tumblr_nirlm9yxER1u2vo2go1_500.png)<br>所属作品：`go princess precure`<br>日语：ミスシャムール | [Fandom](https://prettycure.fandom.com/wiki/Miss_Shamour) |
 | northa | 诺莎 | ![](https://static.wikia.nocookie.net/prettycure/images/c/ce/Northa_Profile_Toei.jpg)<br>所属作品：`fresh precure`<br>日语：ノーザ | [Fandom](https://prettycure.fandom.com/wiki/Northa) |
+| mon3tr | Mon3tr | ![](https://ehgt.org/w/02/234/76882-57rvsn0b.webp)<br>出自作品：`p:arknights` | [prts.wiki](https://prts.wiki/w/Mon3tr) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
