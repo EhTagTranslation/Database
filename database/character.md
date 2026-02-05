@@ -2150,7 +2150,7 @@ example:
 | dark precure | 暗之美少女 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7a/Dark_Pretty_Cure_Profile_TV_Asahi.png)<br>所属作品:`heartcatch precure`<br>日语：ダークプリキュア | [Fandom](https://prettycure.fandom.com/wiki/Dark_Pretty_Cure)<br>[百度百科](https://baike.baidu.com/item/暗之美少女/8838351) |
 | mizuki hanasaki | 花咲美月 | ![](https://static.wikia.nocookie.net/prettycure/images/2/28/Hanasaki_Mizuki_Toei_profile.jpg)<br>所属作品：`heartcatch precure`<br>日语：花咲みずき | [Fandom](https://prettycure.fandom.com/wiki/Hanasaki_Mizuki) |
 | momoka kurumi | 来海桃香 |  |  |
-| sakura kurumi | 来海樱 |  |  |
+| sakura kurumi | 来海樱 | ![](https://static.wikia.nocookie.net/prettycure/images/0/04/Kurumi_Sakura_Profile_Toei.jpg)<br>所属作品：`heartcatch precure`<br>日语：来海さくら | [Fandom](https://prettycure.fandom.com/wiki/Kurumi_Sakura) |
 | tsubaki myoudouin | 明堂院椿 |  |  |
 | cure melody | 北条响 (旋律天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c1/Houjou_Hibiki.JPG/revision/latest?cb=20101227180403)<br>所属作品:`suite precure`<br>日文:北条響（ほうじょう ひびき） | [Fandom](https://prettycure.fandom.com/wiki/Hojo_Hibiki)<br>[萌娘百科](https://zh.moegirl.org.cn/北条响) |
 | cure rhythm | 南野奏 (节奏天使) | ![](https://static.wikia.nocookie.net/prettycure/images/1/12/Minamino_Kanade.JPG/revision/latest?cb=20200607200233)<br>所属作品:`suite precure` | [Fandom](https://prettycure.fandom.com/wiki/Minamino_Kanade)<br>[萌娘百科](https://zh.moegirl.org.cn/南野奏) |
