@@ -2200,7 +2200,7 @@ example:
 | cure gelato | 立神葵 (冰淇淋天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/3d/AoiGelato.png/revision/latest?cb=20200212110042)<br>所属作品:`kirakira precure a la mode`<br>日语：立神あおい（たてがみ あおい） | [萌娘百科](https://moegirl.uk/立神葵)<br>[Fandom](https://prettycure.fandom.com/wiki/Tategami_Aoi) |
 | cure macaron | 琴爪缘 (马卡龙天使) | ![](https://static.wikia.nocookie.net/prettycure/images/f/f0/YukariMacaroon.png/revision/latest?cb=20200212110150)<br>所属作品:`kirakira precure a la mode`<br>日语：琴爪ゆかり（ことづめ ゆかり） | [萌娘百科](https://moegirl.uk/琴爪缘)<br>[Fandom](https://prettycure.fandom.com/wiki/Kotozume_Yukari) |
 | cure chocolat | 剑城晶 (巧克力天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/50/AkiraChocolat.png/revision/latest?cb=20200212110309)<br>所属作品:`kirakira precure a la mode`<br>日语：剣城あきら（けんじょう あきら） | [萌娘百科](https://moegirl.uk/剑城晶) |
-| cure parfait | 绮罗星夏尔 (芭菲天使) | ![](https://moegirl.uk/images/a/a9/Kirarin.jpeg)<br>日语：キラ星 シエル<br>所属作品:`kirakira precure a la mode` | [https://moegirl.uk/绮罗星夏尔](https://moegirl.uk/绮罗星夏尔) |
+| cure parfait | 绮罗星夏尔 (芭菲天使) | ![](https://static.wikia.nocookie.net/prettycure/images/1/15/KiraCielParfait.png)<br>日语：キラ星 シエル<br>所属作品:`kirakira precure a la mode` | [萌娘百科](https://moegirl.uk/绮罗星夏尔) |
 |  | ▼ 草莓棉花糖 |  |  |
 | nobue itou | 伊藤伸惠 |  |  |
 | chika itou | 伊藤千佳 |  |  |
