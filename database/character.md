@@ -2132,7 +2132,7 @@ example:
 | cure aqua | 水无月香恋 (水天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/b6/Cureaquamain.jpg/revision/latest?cb=20120216122608)<br>所属作品:`yes precure 5`<br>日语：水無月かれん（みなづき かれん） | [萌娘百科](https://zh.moegirl.org.cn/水无月香恋) |
 | milky rose | 美美野来未 (妙奇露丝) | ![](https://static.wikia.nocookie.net/prettycure/images/d/dc/Milknkuruminrosegogomovie.jpg/revision/latest?cb=20120206112235)<br>所属作品:`yes precure 5` | [萌娘百科](https://zh.moegirl.org.cn/美美野来未)<br>[Fandom](https://prettycure.fandom.com/wiki/Milk) |
 | cure peach | 桃园爱（蜜桃天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d3/LovePeach.png)<br>所属作品：`fresh precure`<br>日语：桃園ラブ | [萌娘百科](https://zh.moegirl.org.cn/桃园爱) |
-| cure berry | 苍乃美希 (莓天使) | ![](https://static.wikia.nocookie.net/prettycure/images/7/76/Miki.png)<br>日语: 蒼乃美希（あおの みき）<br>所属作品:`fresh precure` | [萌娘百科](https://moegirl.uk/苍乃美希) |
+| cure berry | 苍乃美希 (蓝莓天使) | ![](https://static.wikia.nocookie.net/prettycure/images/7/76/Miki.png)<br>所属作品:`fresh precure`<br>日语: 蒼乃美希（あおの みき） | [萌娘百科](https://moegirl.uk/苍乃美希) |
 | cure pine | 山吹祈里 (凤梨天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/e5/Inori_Pine_Profile.png/revision/latest?cb=20230513135132)<br>所属作品:`fresh precure`<br>日文:やまぶき いのり | [萌娘百科](https://zh.moegirl.org.cn/山吹祈里)<br>[Fandom](https://prettycure.fandom.com/wiki/Yamabuki_Inori) |
 | eas | 东刹那（伊斯） | ![](https://static.wikia.nocookie.net/prettycure/images/c/cb/Setsuna_Eas_Profile.png)<br>所属作品:`fresh precure`<br>日语：イース | [萌百](https://moegirl.uk/东刹那) |
 | cure passion | 东刹那 (百香果天使) | ![](https://static.wikia.nocookie.net/oricure/images/b/b3/SetsunaPassion.png/revision/latest?cb=20230214080725)<br>所属作品:`fresh precure`<br>日语：東せつな（ひがし せつな） | [萌娘百科](https://moegirl.uk/东刹那) |
