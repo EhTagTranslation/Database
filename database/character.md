@@ -2817,7 +2817,7 @@ example:
 | narumi fujishima | 藤岛鸣海 |  |  |
 | sister claire | 修女克蕾雅 | 修女·克蕾雅（日语：シスター・クレア / Sister Cleaire）是一名从2018年6月5日在YouTube开始活动的VTuber，业界团体彩虹社的成员。原SEEDs一期出身。<br>![](https://img.moegirl.org.cn/common/e/e0/SisterCleaire_Full.jpg) | [萌娘百科](https://zh.moegirl.org.cn/修女·克蕾雅) |
 | momo chiyoda | 千代田桃 |  |  |
-| yuko yoshida | 吉田优子 |  |  |
+| yuko yoshida | 吉田优子 | ![](https://ehgt.org/w/00/897/50524-m1iq5wpk.webp)<br>出自作品：`p:machikado mazoku`<br><br>夏美子（吉田优子）是由伊藤いづも创作的漫画《街角魔族》及其衍生作品的登场角色。 | [萌娘百科](https://mobile.moegirl.org.cn/吉田优子) |
 | reines el-melloi archisorte | 莱妮丝·埃尔梅罗·阿奇佐尔缇 |  |  |
 | rindou mikoto | 龙胆尊 |  |  |
 | hotaru ichijou | 一条萤 |  |  |
