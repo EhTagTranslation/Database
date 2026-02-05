@@ -2148,7 +2148,7 @@ example:
 | kotori nono | 野乃小鸟 | ![](https://static.wikia.nocookie.net/prettycure/images/6/6e/Nono_Kotori_infobox.png)<br>所属作品：`hugtto precure`<br>日语：野乃ことり | [百度百科](https://baike.baidu.com/item/野乃小鸟/22544182) |
 | cure yell | 野乃花 (喝采天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/9d/Hana_Cure_Yell.png)<br>所属作品:`hugtto precure`<br>日语：野乃はな（のの はな） | [萌娘百科](https://moegirl.uk/野乃花) |
 | dark precure | 暗之美少女 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7a/Dark_Pretty_Cure_Profile_TV_Asahi.png)<br>所属作品:`heartcatch precure`<br>日语：ダークプリキュア | [Fandom](https://prettycure.fandom.com/wiki/Dark_Pretty_Cure)<br>[百度百科](https://baike.baidu.com/item/暗之美少女/8838351) |
-| mizuki hanasaki | 花咲美月 |  |  |
+| mizuki hanasaki | 花咲美月 | ![](https://static.wikia.nocookie.net/prettycure/images/2/28/Hanasaki_Mizuki_Toei_profile.jpg)<br>所属作品：`heartcatch precure`<br>日语：花咲みずき | [Fandom](https://prettycure.fandom.com/wiki/Hanasaki_Mizuki) |
 | momoka kurumi | 来海桃香 |  |  |
 | sakura kurumi | 来海樱 |  |  |
 | tsubaki myoudouin | 明堂院椿 |  |  |
