@@ -2183,7 +2183,7 @@ example:
 | cure ace | 圆亚久里 (王牌天使) | ![](https://static.wikia.nocookie.net/prettycure/images/8/84/Aguri.Madoka.Ace.prof.PNG/revision/latest?cb=20130709154106)<br>所属作品：`dokidoki precure`<br>日语：円亜久里（まどか あぐり） | [萌娘百科](https://zh.moegirl.org.cn/圆亚久里)<br>[Fandom](https://prettycure.fandom.com/wiki/Madoka_Aguri) |
 | regina | 蕾吉娜 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7e/Doki_Doki!_Pretty_Cure_Novel_Cure_Joker.jpg)<br>所属作品:`dokidoki precure`<br>日语：レジーナ | [萌娘百科](https://zh.moegirl.org.cn/蕾吉娜) |
 | ryoko hishikawa | 菱川亮子 |  |  |
-| cure lovely | 爱乃惠 (可爱天使) | ![](https://moegirl.uk/images/6/6d/Cure_lovely是无敌的.png)<br>日语：愛乃めぐみ（あいの めぐみ）<br>所属作品:`happinesscharge precure` | [https://moegirl.uk/爱乃惠](https://moegirl.uk/爱乃惠) |
+| cure lovely | 爱乃惠 (可爱天使) | ![](https://moegirl.uk/images/6/6d/Cure_lovely是无敌的.png)<br><br>所属作品:`happinesscharge precure`<br>日语：愛乃めぐみ（あいの めぐみ） | [萌娘百科](https://moegirl.uk/爱乃惠) |
 | cure princess | 公主天使 |  |  |
 | cure honey | 大森悠子（蜂蜜天使） | ![](https://static.wikia.nocookie.net/prettycure/images/9/95/Yuko_honey_1.png)<br>所属作品：`happinesscharge precure`<br>日语：大森ゆうこ | [百度百科](https://baike.baidu.com/item/大森悠子/13679346) |
 | cure fortune | 冰川伊绪奈 (命运天使) | ![](https://static.wikia.nocookie.net/prettycure/images/8/8a/Hikawa-Fortune.png)<br><br>所属作品:`happinesscharge precure`<br>日语：氷川いおな（ひかわ いおな） | [萌娘百科](https://moegirl.uk/冰川伊绪奈) |
