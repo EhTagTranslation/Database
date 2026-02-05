@@ -5670,7 +5670,7 @@ example:
 | ashley graves | 阿什利·格雷夫斯 | ![](https://ehgt.org/w/02/144/35371-n914kqnd.webp)<br>《`p:the coffin of andy and leyley`》中的女主，`c:andrew graves`的妹妹 |  |
 | greythroat | 灰喉 | 【代号】灰喉<br>【性别】女<br>【战斗经验】三年<br>【出身地】未公开<br>【生日】11月14日<br>【种族】黎博利<br>【身高】162cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为非感染者 | [https://prts.wiki/w/灰喉](https://prts.wiki/w/灰喉) |
 | pepe | 佩佩 | ![](https://patchwiki.biligame.com/images/arknights/6/66/hepkxh0yn03awclmudscuvw1re3cjob.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/佩佩](https://prts.wiki/w/佩佩) |
-| ines | 伊内丝 | 【代号】伊内丝<br>【性别】女<br>【战斗经验】十九年<br>【出身地】卡兹戴尔<br>【生日】2月19日<br>【种族】未公开<br>【身高】168cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为感染者。 | [https://prts.wiki/w/伊内丝](https://prts.wiki/w/伊内丝) |
+| ines | 伊内丝 | ![](https://ehgt.org/w/01/717/78413-02v6fmrk.webp)<br>出自作品：`p:arknights`<br><br>【代号】伊内丝<br>【性别】女<br>【战斗经验】十九年<br>【出身地】卡兹戴尔<br>【生日】2月19日<br>【种族】未公开<br>【身高】168cm<br>【矿石病感染情况】<br>参照医学检测报告，确认为感染者。 | [prts.wiki](https://prts.wiki/w/伊内丝) |
 | qiubai | 仇白 | ![](https://patchwiki.biligame.com/images/arknights/e/ec/31fspl3y5o85m0e3kbtad4jah2wqhjs.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/仇白#干员档案](https://prts.wiki/w/仇白#干员档案) |
 | gundo mirei | 郡道美玲 | 郡道美玲（Gundou Mirei）是隶属于彩虹社的虚拟YouTuber，男校的数学教师。将粉丝称为猪仔（子豚）。 | [萌娘百科](https://zh.moegirl.org.cn/郡道美玲) |
 | catura | 夏托拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/31/Zoom_3040313000_82.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/e/e0/Zoom_3040313000_81.png)<br>所属作品：`granblue fantasy`<br>日文名：シャトラ | [灰机wiki](https://gbf.huijiwiki.com/wiki/Char/3020074000) |
