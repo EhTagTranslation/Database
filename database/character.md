@@ -2176,7 +2176,7 @@ example:
 | bad end peace | 悲剧和平天使 |  |  |
 | bad end march | 悲剧旋风天使 |  |  |
 | bad end beauty | 悲剧美丽天使 |  |  |
-| cure heart | 相田爱 (爱心天使) | ![](https://moegirl.uk/images/7/72/Cure_heart.jpg)<br>日语：相田マナ（あいだ マナ）<br>所属作品:`dokidoki precure` | [https://moegirl.uk/相田爱](https://moegirl.uk/相田爱) |
+| cure heart | 相田爱 (爱心天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/e3/Cureheartmain.jpg)<br>所属作品:`dokidoki precure`<br>日语：相田マナ（あいだ マナ） | [萌娘百科](https://moegirl.uk/相田爱) |
 | cure diamond | 菱川六花 (钻石天使) | ![](https://static.wikia.nocookie.net/prettycure/images/a/a7/Curediamondmain.jpg)<br>所属作品:`dokidoki precure`<br>日语：ひしかわ りっか | [萌娘百科](https://moegirl.uk/菱川六花) |
 | cure rosetta | 四叶有栖 (蔷薇天使) | ![](https://static.wikia.nocookie.net/prettycure/images/d/d4/Curerosettamain.jpg/revision/latest?cb=20121226040203)<br>所属作品:`dokidoki precure`<br>日语：四葉ありす | [https://moegirl.uk/index.php?title=四叶爱丽丝](https://moegirl.uk/index.php?title=四叶爱丽丝) |
 | cure sword | 剑崎真琴 (圣剑天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/b5/Cureswordmain.jpg/revision/latest?cb=20121226055640)<br>所属作品:`dokidoki precure`<br>日语：剣崎真琴（けんざき まこと） | [https://moegirl.uk/剑崎真琴](https://moegirl.uk/剑崎真琴)<br>[Fandom](https://prettycure.fandom.com/wiki/Kenzaki_Makoto) |
