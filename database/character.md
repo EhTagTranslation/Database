@@ -8567,6 +8567,7 @@ example:
 | ayumi sakagami | 坂上步美 (回声天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/bc/Ayumi_and_Cure_Echo_profile.png/revision/latest?cb=20180304104238)<br>所属作品:`pretty cure` All Stars<br>变身后为Cure Echo | [萌娘百科](https://zh.moegirl.org.cn/坂上步美)<br>[Fandom](https://prettycure.fandom.com/wiki/Sakagami_Ayumi) |
 | aemeath | 爱弥斯 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/6/60/Aemeath_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Aemeath) |
 | sacred phoenix of nephthys | 奈芙蒂斯之凤凰神 | 所属作品：`yu-gi-oh` |  |
+| twilight | 红城永久（赤红天使） | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/TowaScarlet.png)<br>所属作品：`go princess precure`<br>日语：紅城トワ | [百度百科](https://baike.baidu.com/item/红城永久/18001276) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
