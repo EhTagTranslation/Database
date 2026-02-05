@@ -2190,7 +2190,7 @@ example:
 | maria hikawa | 冰川麻理亚 |  |  |
 | cure flora | 春野遥 (花神天使) | ![](https://moegirl.uk/images/6/63/HARUNO_HARUKA.jpg)<br>日语：春野はるか（はるの はるか）<br>所属作品:`go princess precure` | [https://moegirl.uk/春野遥](https://moegirl.uk/春野遥) |
 | cure mermaid | 海藤南 (人鱼天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/ed/MinamiMermaid.png/revision/latest?cb=20150915090232)<br>所属作品：`go princess precure`<br>日语：海藤みなみ（かいどう みなみ） | [https://moegirl.uk/海藤南](https://moegirl.uk/海藤南) |
-| cure twinkle | 天之川绮罗 (闪亮天使) | ![](https://moegirl.uk/images/2/29/300Cure_Twinkle.jpg)<br><br>所属作品：`go princess precure`<br>日语：天ノ川きらら（あまのがわ きらら） | [萌娘百科](https://moegirl.uk/天之川绮罗) |
+| cure twinkle | 天之川绮罗 (闪亮天使) | ![](https://static.wikia.nocookie.net/prettycure/images/6/6f/KiraraTwinkle.png)<br>所属作品：`go princess precure`<br>日语：天ノ川きらら（あまのがわ きらら） | [萌娘百科](https://moegirl.uk/天之川绮罗) |
 | cure scarlet | 红城永久 (赤红天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/TowaScarlet.png/revision/latest?cb=20150915090650)<br>所属作品:`go princess precure` | [Fandom](https://prettycure.fandom.com/wiki/Akagi_Towa)<br>[萌娘百科](https://zh.moegirl.org.cn/红城永久) |
 | cure miracle | 朝日奈未来 (奇迹天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/53/MiraiMiracle.png/revision/latest?cb=20240210220654)<br>所属作品：`maho girls precure`<br>日语：朝日奈みらい（あさひな みらい） | [萌娘百科](https://moegirl.uk/朝日奈未来)<br>[Fandom](https://prettycure.fandom.com/wiki/Asahina_Mirai) |
 | cure magical | 十六夜理子 (魔法天使) | ![](https://static.wikia.nocookie.net/prettycure/images/5/50/RikoMagical.png)<br>日语：十六夜リコ（いざよい リコ）<br>所属作品：`maho girls precure` | [萌娘百科](https://moegirl.uk/十六夜理子) |
