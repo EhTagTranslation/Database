@@ -13709,6 +13709,7 @@ example:
 | felcferc | フエルクフェルク. |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG22695.html) |
 | omurice teishoku | おむらいす定食 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=111408) |
 | clotus | clotus |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55433.html) |
+| r.s.i. | R.S.I.日本支部 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62461.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
