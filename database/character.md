@@ -2156,7 +2156,7 @@ example:
 | cure rhythm | 南野奏 (节奏天使) | ![](https://static.wikia.nocookie.net/prettycure/images/1/12/Minamino_Kanade.JPG/revision/latest?cb=20200607200233)<br>所属作品:`suite precure` | [Fandom](https://prettycure.fandom.com/wiki/Minamino_Kanade)<br>[萌娘百科](https://zh.moegirl.org.cn/南野奏) |
 | siren | 赛莲 |  |  |
 | cure beat | 黑川艾莲 (节拍天使) | ![](https://static.wikia.nocookie.net/prettycure/images/f/fc/Ellen.Cure_Beat_profile.jpg/revision/latest?cb=20200304231434)<br>所属作品:`suite precure` | [Fandom](https://prettycure.fandom.com/wiki/Kurokawa_Ellen)<br>[萌娘百科](https://zh.moegirl.org.cn/黑川艾莲) |
-| cure muse | 缪斯天使 |  |  |
+| cure muse | 调边亚子（缪斯天使） | ![](https://static.wikia.nocookie.net/prettycure/images/9/9f/Masked_Muse_Ako_Cure_Muse_profile.png)<br>所属作品：`suite precure`<br>日语：調辺アコ | [百度百科](https://baike.baidu.com/item/调边亚子/6837374) |
 | maria houjou | 北条真理亚 |  |  |
 | misora minamino | 南野美空 |  |  |
 | cure happy | 星空美幸 (快乐天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/9e/Happyyy.png/revision/latest?cb=20230510051052)<br>所属作品:`smile precure`<br>日语：星空みゆき（ほしぞら みゆき） | [萌娘百科](https://moegirl.uk/星空美幸)<br>[Fandom](https://prettycure.fandom.com/wiki/Hoshizora_Miyuki) |
