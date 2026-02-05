@@ -2146,7 +2146,7 @@ example:
 | cure etoile | 辉木誉 (星辰天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/36/Homare_%26_Cure_Etoile.png/revision/latest?cb=20200616231141)<br><br>所属作品：`hugtto precure`<br>日语: 輝木ほまれ（かがやき ほまれ） | [萌百](https://moegirl.uk/辉木誉)<br>[Fandom](https://prettycure.fandom.com/wiki/Kagayaki_Homare) |
 | cure macherie | 爱崎惠美瑠 (挚爱天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/b6/Aisaki_Emiru-MaChérie-infobox.png/revision/latest?cb=20180825143824)<br>所属作品：`hugtto precure`<br>日语：愛崎えみる（あいさき えみる） | [萌娘百科](https://moegirl.uk/爱崎惠美瑠)<br>[Fandom](https://prettycure.fandom.com/wiki/Aisaki_Emiru) |
 | kotori nono | 野乃小鸟 | ![](https://static.wikia.nocookie.net/prettycure/images/6/6e/Nono_Kotori_infobox.png)<br>所属作品：`hugtto precure`<br>日语：野乃ことり | [百度百科](https://baike.baidu.com/item/野乃小鸟/22544182) |
-| cure yell | 野乃花 (喝采天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/9d/Hana_Cure_Yell.png)<br>所属作品:`hugtto precure`<br>日语：野乃はな（のの はな） | [萌百](https://moegirl.uk/野乃花) |
+| cure yell | 野乃花 (喝采天使) | ![](https://static.wikia.nocookie.net/prettycure/images/9/9d/Hana_Cure_Yell.png)<br>所属作品:`hugtto precure`<br>日语：野乃はな（のの はな） | [萌娘百科](https://moegirl.uk/野乃花) |
 | dark precure | 暗之美少女 | ![](https://static.wikia.nocookie.net/prettycure/images/7/7a/Dark_Pretty_Cure_Profile_TV_Asahi.png)<br>所属作品:`heartcatch precure`<br>日语：ダークプリキュア | [Fandom](https://prettycure.fandom.com/wiki/Dark_Pretty_Cure)<br>[百度百科](https://baike.baidu.com/item/暗之美少女/8838351) |
 | mizuki hanasaki | 花咲美月 |  |  |
 | momoka kurumi | 来海桃香 |  |  |
