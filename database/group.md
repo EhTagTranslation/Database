@@ -13711,6 +13711,7 @@ example:
 | clotus | clotus |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55433.html) |
 | r.s.i. | R.S.I.日本支部 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62461.html) |
 | aisin sketch | エイシンスケッチ |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/2UPA426R847Md168d687/all/) |
+| nyaa no esa | にゃあのえさ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200909/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
