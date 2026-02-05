@@ -2142,7 +2142,7 @@ example:
 | cure moonlight | 月影百合 (月光天使) | ![](https://static.wikia.nocookie.net/prettycure/images/2/2e/Tsukikage.yuri.png)<br>所属作品：`p:heartcatch precure`<br>日語：月影ゆり（つきかげ ゆり） | [萌娘百科](https://zh.moegirl.org.cn/月影百合) |
 | cure flower | 花朵天使 |  |  |
 | cure ange | 药师寺纱绫（安祈天使） | ![](https://static.wikia.nocookie.net/prettycure/images/2/28/Yakushiji_Saaya_%28Cure_Ange%29.png)<br>所属作品：`hugtto precure`<br>日语：キュアアンジェ | [Fandom](https://prettycure.fandom.com/wiki/Cure_Ange_%28HPC_movie%29) |
-| cure amour | 露露·阿穆尔 (爱神天使) | ![](https://moegirl.uk/images/5/5a/Cure_Amour.png)<br>所属作品:`hugtto precure`<br>日语：ルールー・アムール | [https://moegirl.uk/露露·阿穆尔](https://moegirl.uk/露露·阿穆尔) |
+| cure amour | 露露·阿穆尔 (爱神天使) | ![](https://moegirl.uk/images/5/5a/Cure_Amour.png)<br>所属作品:`hugtto precure`<br>日语：ルールー・アムール | [萌娘百科](https://moegirl.uk/露露·阿穆尔) |
 | cure etoile | 辉木誉 (星辰天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/36/Homare_%26_Cure_Etoile.png/revision/latest?cb=20200616231141)<br><br>所属作品：`hugtto precure`<br>日语: 輝木ほまれ（かがやき ほまれ） | [萌百](https://moegirl.uk/辉木誉)<br>[Fandom](https://prettycure.fandom.com/wiki/Kagayaki_Homare) |
 | cure macherie | 爱崎惠美瑠 (挚爱天使) | ![](https://static.wikia.nocookie.net/prettycure/images/b/b6/Aisaki_Emiru-MaChérie-infobox.png/revision/latest?cb=20180825143824)<br>所属作品：`hugtto precure`<br>日语：愛崎えみる（あいさき えみる） | [https://moegirl.uk/爱崎惠美瑠](https://moegirl.uk/爱崎惠美瑠)<br>[Fandom](https://prettycure.fandom.com/wiki/Aisaki_Emiru) |
 | kotori nono | 野乃小鸟 | ![](https://static.wikia.nocookie.net/prettycure/images/6/6e/Nono_Kotori_infobox.png)<br>所属作品：`hugtto precure`<br>日语：野乃ことり | [百度百科](https://baike.baidu.com/item/野乃小鸟/22544182) |
