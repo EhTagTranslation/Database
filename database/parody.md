@@ -157,7 +157,7 @@ example:
 | rosario vampire | 十字架与吸血鬼 | 漫画，不了解<br>![图](# "https://ehgt.org/97/ac/97ac8a9ab8bcf27c7a09ca6eee1c335bc81ba152-330768-607-850-jpg_l.jpg")![图](# "https://ehgt.org/eb/f5/ebf5c1def8cc83506b28dc3244b6189e4aff0519-379951-1072-1500-jpg_l.jpg") |  |
 |  | ▼ 光美大军 |  |  |
 | pretty cure | 光之美少女 无印 | 《光之美少女》，是由东映动画制作的系列电视动画《光之美少女》第一部，因为没有副标题，为避免与系列动画名称混淆并与后续作品有所区分，通常会使用“无印”这个代称（即“没有副标题”的意思）。<br>日语：プリキュアシリーズ，简称プリキュア | [动画官网](https://anime-precure.com/) |
-| futari wa pretty cure | 光之美少女 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/2f/光美2025.jpg)<br>日语：プリキュアシリーズ<br>默认指初代光之美少女，不确定角色属于系列哪一作时也可使用此标签。 | [维基百科](https://zh.wikipedia.org/wiki/光之美少女) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
+| futari wa pretty cure | 光之美少女系列 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/2f/光美2025.jpg)<br>日语：プリキュアシリーズ<br>涵盖光之美少女系列，不确定角色属于系列哪一作时可使用此标签。 | [维基百科](https://zh.wikipedia.org/wiki/光之美少女) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
 | futari wa precure splash star | 光之美少女 Splash Star | 《光之美少女 Splash Star》（ふたりはプリキュアSplash Star）是由东映动画所制作的动画作品，<br>为“光之美少女系列”的第三作，属第二代光之美少女。于2006年2月5日起在—2007年1月28日朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/precure_SS/) |
 | yes precure 5 | Yes! 光之美少女5 | 《Yes! 光之美少女5》（Yes! プリキュア5）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>“光之美少女系列”的第四作，属第三代光之美少女。2007年2月4日播出。 | [HP](https://www.toei-anim.co.jp/tv/yes_precure5/) |
 | fresh precure | 光之美少女：幸福精灵 | 《光之美少女：幸福精灵》（フレッシュプリキュア！）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>“光之美少女系列”的第六作，属第四代光之美少女。于2009年2月起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/fresh_precure/) |
