@@ -6309,7 +6309,7 @@ example:
 | honebami toushirou | 骨喰藤四郎 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:骨喰藤四郎) |
 | shiori shiomiya | 汐宫栞 | 所属作品: `p:the world god only knows` | [萌娘百科](https://zh.moegirl.org.cn/汐宫栞) |
 | najimi osana | 长名奈津美 |  |  |
-| boothill | <p>波提欧</p> | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Character_Boothill_Splash_Art.png)<br><p>所属作品: <abbr title="honkai star rail" ns="parody">崩坏：星穹铁道</abbr></p> | <p><a href="[Fandom](https://honkai-star-rail.fandom.com/zh/wiki/波提欧)">Fandom</a> <a href="[萌娘百科](https://zh.moegirl.org.cn/波提欧)">萌娘百科</a></p> |
+| boothill | 波提欧 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/b/bb/Character_Boothill_Splash_Art.png)<br>所属作品: `honkai star rail` | [Fandom](https://honkai-star-rail.fandom.com/zh/wiki/波提欧)<br>[萌娘百科](https://zh.moegirl.org.cn/波提欧) |
 | angelina kudou shields | 安洁莉娜·库都·希尔兹 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/04/11/07/55/31/129178446_p3_master1200.jpg)<br><br>所属作品: `p:mahouka koukou no rettousei`<br>和北山雫交换留学来到魔法科高中的USNA（北美利坚大陆合众国）高中生，拥有不世出的魔法技术的金发碧眼美少女。但其真实身份是世界顶级的魔法师部队【STARS】中的总队长，代号“天狼星”。 | [萌娘百科](https://zh.moegirl.org.cn/安洁莉娜·库都·希尔兹) |
 | iyo | 壹与 | 《三国志·魏志倭人传》中继承邪马台国女王卑弥呼之位的女性。<br><br>他是继年轻的莫里亚蒂之后第二个邪恶属性的统治者职业角色。 | [维基百科](https://zh.wikipedia.org/wiki/臺與) [pixiv](https://dic.pixiv.net/a/壱与%28Fate%29) |
 | motoko izumi | 和泉许子 | 所属作品: `p:kawaii dake ja nai shikimori-san`<br><br>和泉幽希的母亲，和泉明贞的妻子。 | [Fandom](https://shikimoris-not-just-a-cutie.fandom.com/wiki/Motoko_Izumi) [百度百科](https://baike.baidu.com/item/和泉许子) |
