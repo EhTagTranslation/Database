@@ -259,7 +259,7 @@ example:
 | ruby kurosawa | 黑泽露比 | 所属作品:`p:love live sunshine`<br>所属团体 Aqours<br>![黑泽露比](https://img.moegirl.org.cn/common/thumb/6/66/Kurosawa_Ruby.png/250px-Kurosawa_Ruby.png) | [萌娘百科](https://zh.moegirl.org.cn/黑泽露比) |
 | seira kazuno | 鹿角圣良 | 所属团体 Saint Snow<br>![鹿角圣良](https://img.moegirl.org.cn/common/thumb/8/81/鹿角聖良.png/250px-鹿角聖良.png) | [萌娘百科](https://zh.moegirl.org.cn/鹿角圣良) |
 | ria kazuno | 鹿角理亚 | 所属团体 Saint Snow<br>![鹿角理亚](https://img.moegirl.org.cn/common/thumb/c/c2/鹿角理亚.png/250px-鹿角理亚.png) | [萌娘百科](https://zh.moegirl.org.cn/鹿角理亚) |
-| ayumu uehara | 上原步梦 | 所属团体 虹咲学园学园偶像同好会<br>![上原步梦](https://img.moegirl.org.cn/common/thumb/2/25/Ayumu_School_Uniform.png/250px-Ayumu_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/上原步梦) |
+| ayumu uehara | 上原步梦 | ![上原步梦](https://static.wikia.nocookie.net/love-live/images/d/d3/PDP_Profile_Image_-_Ayumu_Uehara.png/revision/latest?cb=20181005192106)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/上原步梦) |
 | kasumi nakasu | 中须霞 | ![中须霞](https://static.wikia.nocookie.net/love-live/images/f/f6/PDP_Profile_Image_-_Kasumi_Nakasu.png/revision/latest?cb=20181005192204)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/中须霞) |
 | shizuku osaka | 樱坂雫 | ![樱坂雫](https://static.wikia.nocookie.net/love-live/images/5/59/PDP_Profile_Image_-_Shizuku_Osaka.png/revision/latest?cb=20240119124414)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/樱坂雫) |
 | karin asaka | 朝香果林 | ![朝香果林](https://static.wikia.nocookie.net/love-live/images/a/a8/PDP_Profile_Image_-_Karin_Asaka.png/revision/latest?cb=20180207192358)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/朝香果林) |
