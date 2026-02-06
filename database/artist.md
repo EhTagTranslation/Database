@@ -14822,6 +14822,7 @@ example:
 | mayo | Mayo |  | [FANBOX](https://banaba.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/113847480) \| [BOOTH](https://guromayo.booth.pm/) |
 | doriane | ドリアーヌ |  | [pixiv](https://www.pixiv.net/users/28987176) |
 | mochidora | もちどら |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51483.html) |
+| irosira | いろしら |  | [FANBOX](https://www.fanbox.cc/@irosira) \| [X](https://x.com/irosiraskb) |
 
 <!--TEMPLATE:
 |  |  |  |  |
