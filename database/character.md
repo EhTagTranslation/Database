@@ -1723,7 +1723,7 @@ example:
 |  | ▼ 龙珠系列 |  |  |
 | yamcha | 雅木茶 |  |  |
 | bulma briefs | 布尔玛 |  |  |
-| chi chi | 琪琪 |  |  |
+| chi chi | 琪琪 | ![](https://ehgt.org/w/01/752/92597-brbdfl94.webp)<br>出自作品：`p:dragon ball`<br><br>琪琪（チチ、Chichi），女，日本漫画《龙珠》及其衍生作品中的角色。其首次登场于漫画《龙珠》第137话 。 | [百度百科](https://baike.baidu.com/item/琪琪/10204) |
 | son gohan | 孙悟饭 |  |  |
 | son goten | 孙悟天 |  |  |
 | android 16 | 人造人16号 |  |  |
