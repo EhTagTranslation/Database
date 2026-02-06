@@ -6788,7 +6788,7 @@ example:
 | esil radiru | 艾希尔·拉迪鲁 | 所属作品：`solo leveling`<br>恶魔贵族、拉迪鲁家族的长公主。<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/27/00/25/06/127665739_p1_master1200.jpg) |  |
 | nitocris alter | 尼托克丽丝〔Alter〕 |  |  |
 | nemo professor | 尼莫教授 |  |  |
-| moze | 貊泽 | 貊泽是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
+| moze | 貊泽 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Character_Moze_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
 | mio | 澪 | 这是一个常见的通用角色名称，不属于某特定作品 |  |
 | vivi nefertari | 薇薇·奈菲鲁塔丽 | 所属作品：`one piece`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/11/08/01/07/134959573_p0_master1200.jpg) |  |
 | lihua | 梨花妃 | ![](https://i.pixiv.cat/img-master/img/2025/03/10/09/27/49/128056060_p0_master1200.jpg)<br>所属作品：`kusuriya no hitorigoto` |  |
