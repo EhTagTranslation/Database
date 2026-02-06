@@ -13718,6 +13718,7 @@ example:
 | shiromonya | 白門屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062055.html) |
 | tanaka no miso | 田中の味噌 |  |  |
 | ai to namida | 愛と涙 |  |  |
+| rat | ラット |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
