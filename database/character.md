@@ -3148,7 +3148,7 @@ example:
 | deutschland | 德意志 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/e06bcd2f2bcb5973533c36d425e54b57262400697.png)<br>纳粹德国海军的德意志号重巡洋舰（Deutschland (Schiff, 1931)） | [碧蓝航线:德意志](https://zh.moegirl.org.cn/碧蓝航线:德意志) |
 | admiral graf spee | 斯佩伯爵海军上将 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/60583e04bece93ce7975ff5028b950bd262400697.png)<br>纳粹德国海军的斯佩伯爵海军上将号重巡洋舰（Admiral Graf Spee） | [碧蓝航线:斯佩伯爵海军上将](https://zh.moegirl.org.cn/碧蓝航线:斯佩伯爵海军上将) |
 | dunkerque | 敦刻尔克 | 维希法国海军的敦刻尔克号战列巡洋舰（French battleship Dunkerque） | [碧蓝航线:敦刻尔克](https://zh.moegirl.org.cn/碧蓝航线:敦刻尔克) |
-| shirayuki tomoe | 白雪巴 | 白雪巴 （ 日语：白雪巴 / しらゆき ともえShirayuki Tomoe ）是一名从2019年11月30日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/白雪巴) (\*\*) |
+| shirayuki tomoe | 白雪巴 | ![](https://ehgt.org/w/01/915/52402-iuchmgx7.webp)<br>所属社团：`p:nijisanji`<br><br>白雪巴 （ 日语：白雪巴 / しらゆき ともえShirayuki Tomoe ）是一名从2019年11月30日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/白雪巴) |
 | yui akamatsu | 赤松结衣 |  |  |
 | sat-chan | 小幸 |  |  |
 | kotoha | 青山琴叶 |  |  |
