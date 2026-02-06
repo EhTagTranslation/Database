@@ -6185,7 +6185,7 @@ example:
 | evil twin lil-la | 邪恶★双子 璃拉 |  |  |
 | fallen of albaz | 阿尔白斯之落胤 | ![](https://thumbsnap.com/i/PUqDrifS.jpg)<br>出自作品：`p:yu-gi-oh`<br><br>此卡最早是《决斗者崛起》（1101）收录的怪兽卡，是第一张代表《白之故事》主人公阿尔白斯的卡。 | [萌娘百科](https://zh.moegirl.org.cn/阿尔白斯之落胤) |
 | swordsoul of mo ye | 相剑师－莫邪 |  |  |
-| pa-san | 音响师 | PA桑 | [萌娘百科](https://zh.moegirl.org.cn/音响师) |
+| pa-san | 音响师 | ![](https://static.wikia.nocookie.net/bocchi-the-rock/images/a/a2/PA-san.png)<br><br>音响师 \| PA桑（PAさん）是由はまじあき所创作的漫画《孤独摇滚！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/音响师) |
 | the iris swordsoul | 妖眼的相剑师 |  |  |
 | witchcrafter genni | 魔女工艺・万能杰妮 | 魔女术熟练工 |  |
 | witchcrafter potterie | 魔女工艺・陶艺玻特丽 | 魔女术工匠·陶器女巫 |  |
