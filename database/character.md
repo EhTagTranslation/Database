@@ -4777,7 +4777,7 @@ example:
 | dancer of the boreal valley | 冷冽谷的舞娘 | 所属作品: `p:demons souls` | [Fandom](https://darksouls.fandom.com/wiki/Dancer_of_the_Boreal_Valley) |
 | ayumi momozono | 桃园步美 | ![](https://static.wikia.nocookie.net/prettycure/images/7/78/FPC03_Ayumi_has_a_suspicion_of_what_to_talk_about.jpg)<br>所属作品: `p:pretty cure`<br>女主角桃园爱（`c:cure peach`）的母亲。 | [Fandom](https://prettycure.fandom.com/wiki/Momozono_Ayumi) |
 | shirayuki mishiro | 白雪深白 | 白雪深白（白雪（しらゆき） みしろ，Shirayuki Mishiro）是从2019年12月6日正式开始活跃在YouTube网站、佃煮海苔男推出的`vtuber`角色，隶属于Noripro（一期生；偶像组）。 | [萌娘百科](https://zh.moegirl.org.cn/白雪深白) |
-| killer bee | 奇拉比 | ![奇拉比](https://static.wikia.nocookie.net/eroninja/images/5/55/Killer.Bee.full.589408.jpg/revision/latest?cb=20180119130934)<br>奇拉比是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。<br>八尾牛鬼的人柱力，完美的八尾人柱力。<br>可以熟练操作尾兽，被称作「最完美的人柱力」。<br>背持七把短剑，能使「八刀流」。<br>口头禅是「～バカヤロー！コノヤロー！」。<br>爱好说唱但不怎么样。<br>四代目雷影的搭档与义弟。 | [萌娘百科](https://zh.moegirl.org.cn/奇拉比)<br>[Fandom](https://naruto.fandom.com/wiki/Killer_B) |
+| killer bee | 奇拉比 | ![](https://static.wikia.nocookie.net/naruto/images/6/63/Killer_B.png)<br>出自作品：`p:naruto`<br><br>奇拉比是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。<br>八尾牛鬼的人柱力，完美的八尾人柱力。<br>可以熟练操作尾兽，被称作「最完美的人柱力」。<br>背持七把短剑，能使「八刀流」。<br>口头禅是「～バカヤロー！コノヤロー！」。<br>爱好说唱但不怎么样。<br>四代目雷影的搭档与义弟。<br>![奇拉比](https://static.wikia.nocookie.net/eroninja/images/5/55/Killer.Bee.full.589408.jpg/revision/latest?cb=20180119130934) | [萌娘百科](https://zh.moegirl.org.cn/奇拉比)<br>[Fandom](https://naruto.fandom.com/wiki/Killer_B) |
 | jiraiya | 自来也 |  |  |
 | ares | 阿瑞斯 |  |  |
 | hippolyta | 希波吕忒 |  |  |
