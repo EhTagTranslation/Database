@@ -5947,7 +5947,7 @@ example:
 | teruteru hanamura | 花村辉辉 |  | [萌娘百科](https://zh.moegirl.org.cn/花村辉辉) |
 | mikan tsumiki | 罪木蜜柑 |  | [萌娘百科](https://zh.moegirl.org.cn/罪木蜜柑) |
 | yoichi isagi | 洁世一 | ![](https://tv.bluelock-pr.com/tv2nd/wp-content/themes/bluelock-tv2nd-theme/_assets/images/char/detail/webp/isagi_.webp)<br>所属作品：`blue lock` | [萌娘百科](https://zh.moegirl.org.cn/洁世一) |
-| kurusu natsume | 来栖夏芽 | 来栖夏芽 （ 日语：来栖夏芽 / くるすなつめKurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
+| kurusu natsume | 来栖夏芽 | ![](https://ehgt.org/w/01/937/92080-2p2a64ed.webp)<br>所属社团：`p:nijisanji`<br><br>来栖夏芽 （ 日语：来栖夏芽 / くるすなつめ / Kurusu Natsume ）是一名从2019年12月29日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/来栖夏芽) |
 | misuzu kamio | 神尾观铃 | AIR女主角之一 (也就是封面上的黄色单马尾) |  |
 | g41 | G41 | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>`p:girls frontline`少女前线 Heckler & Koch 小狐狸 |  |
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
