@@ -13282,7 +13282,7 @@ example:
 | tana kara marriage | 棚からマリアージュ |  |  |
 | gdbdby | gdbdby |  |  |
 | shinoz | SHINOZ! |  |  |
-| gyoumuyou jiga | 業務用自我 |  |  |
+| gyoumuyou jiga | 业务用自我 |  |  |
 | nanashi factory | ななし工房 |  |  |
 | tj studio | TJ\_studio |  |  |
 | noir complex | Noir Complex |  |  |
