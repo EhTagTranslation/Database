@@ -263,7 +263,7 @@ example:
 | kasumi nakasu | 中须霞 | 所属团体 虹咲学园学园偶像同好会<br>![中须霞](https://img.moegirl.org.cn/common/thumb/0/02/Kasumi_School_Uniform.png/250px-Kasumi_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/中须霞) |
 | shizuku osaka | 樱坂雫 | 所属团体 虹咲学园学园偶像同好会<br>![樱坂雫](https://img.moegirl.org.cn/common/thumb/4/44/OsakaShizuku.jpg/250px-OsakaShizuku.jpg) | [萌娘百科](https://zh.moegirl.org.cn/樱坂雫) |
 | karin asaka | 朝香果林 | 所属团体 虹咲学园学园偶像同好会<br>![朝香果林](https://img.moegirl.org.cn/common/thumb/1/10/Karin_School_Uniform.png/250px-Karin_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/朝香果林) |
-| ai miyashita | 宫下爱 | 所属团体 虹咲学园学园偶像同好会<br>![宫下爱](https://img.moegirl.org.cn/common/thumb/e/e7/Ai_School_Uniform.png/250px-Ai_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/宫下爱) |
+| ai miyashita | 宫下爱 | ![宫下爱](https://static.wikia.nocookie.net/love-live/images/2/25/Ai_Anime.png/revision/latest?cb=20230901123759)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/宫下爱) |
 | kanata konoe | 近江彼方 | 所属团体 虹咲学园学园偶像同好会<br>![近江彼方](https://img.moegirl.org.cn/common/thumb/c/cd/KonoeKanata.jpg/250px-KonoeKanata.jpg) | [萌娘百科](https://zh.moegirl.org.cn/近江彼方) |
 | haruka konoe | 近江遥 | 近江彼方的妹妹<br>![近江遥](https://img.moegirl.org.cn/common/thumb/6/69/136456656.png/250px-136456656.png) | [萌娘百科](https://zh.moegirl.org.cn/近江遥) |
 | setsuna yuki | 优木雪菜 | 所属团体 虹咲学园学园偶像同好会<br>![优木雪菜](https://img.moegirl.org.cn/common/thumb/8/8a/Setsuna_School_Uniform.png/250px-Setsuna_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/优木雪菜) |
