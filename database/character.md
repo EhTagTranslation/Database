@@ -266,7 +266,7 @@ example:
 | ai miyashita | 宫下爱 | ![宫下爱](https://static.wikia.nocookie.net/love-live/images/2/25/Ai_Anime.png/revision/latest?cb=20230901123759)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/宫下爱) |
 | kanata konoe | 近江彼方 | 所属团体 虹咲学园学园偶像同好会<br>![近江彼方](https://img.moegirl.org.cn/common/thumb/c/cd/KonoeKanata.jpg/250px-KonoeKanata.jpg) | [萌娘百科](https://zh.moegirl.org.cn/近江彼方) |
 | haruka konoe | 近江遥 | 近江彼方的妹妹<br>![近江遥](https://img.moegirl.org.cn/common/thumb/6/69/136456656.png/250px-136456656.png) | [萌娘百科](https://zh.moegirl.org.cn/近江遥) |
-| setsuna yuki | 优木雪菜 | 所属团体 虹咲学园学园偶像同好会<br>![优木雪菜](https://img.moegirl.org.cn/common/thumb/8/8a/Setsuna_School_Uniform.png/250px-Setsuna_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/优木雪菜) |
+| setsuna yuki | 优木雪菜 | ![优木雪菜](https://static.wikia.nocookie.net/love-live/images/a/ab/PDP_Profile_Image_-_Setsuna_Yuki.png/revision/latest?cb=20181005192611)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/优木雪菜) |
 | emma verde | 艾玛·维尔德 | ![艾玛·维尔德](https://static.wikia.nocookie.net/love-live/images/7/74/PDP_Profile_Image_-_Emma_Verde.png/revision/latest?cb=20181005192752)<br>所属作品:`love live nijigasaki high school idol club`<br>注：其在台湾地区的官方译名为“艾瑪·薇蒂”。由于该数据库提供的是简体中文数据，此处以中国大陆地区所使用的译名为准。 | [萌娘百科](https://zh.moegirl.org.cn/艾玛·维尔德) |
 | rina tennoji | 天王寺璃奈 | ![天王寺璃奈](https://static.wikia.nocookie.net/love-live/images/8/8b/PDP_Profile_Image_-_Rina_Tennoji.png/revision/latest?cb=20181005192841)<br>所属作品:`love live nijigasaki high school idol club` | [萌娘百科](https://zh.moegirl.org.cn/天王寺璃奈) |
 |  | ▲ Love Live 人物 |  |  |
