@@ -2574,7 +2574,7 @@ example:
 | hinohara fuki | 檜原フキ |  | [X](https://x.com/hinoharaf) |
 | kobayashi kina | 小林キナ |  | [pixiv](https://www.pixiv.net/users/12513117) [X](https://x.com/udonkimuchikaki) |
 | takemitsu | たけみつ |  | [pixiv](https://www.pixiv.net/users/2757818) [X](https://x.com/take_samurai1) |
-| shiki | 四季 |  |  |
+| shiki | 四季 | 日语：しき | [FANBOX](https://www.fanbox.cc/@psyg2) \| [X](https://x.com/psyg2) \| [pixiv](https://www.pixiv.net/users/13922) |
 | deyuyama | でゆ山 |  |  |
 | namidame | 泪目 |  |  |
 | higata akatsuki | 阳方晶月 |  |  |
