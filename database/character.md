@@ -5469,7 +5469,7 @@ example:
 | zhu yuan | 朱鸢 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2024/07/29/76099754/9945563f20fca22f8397bb21931ec5c4_542475313663532302.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/朱鸢) |
 | inori yuzuriha | 楪祈 | ![](https://ehgt.org/w/02/104/93711-7t3u6t69.webp)<br>所属作品：`guilty crown` | [萌娘百科](https://zh.moegirl.org.cn/楪祈) |
 | kotone fujita | 藤田言音 | 藤田言音是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。<br>![](https://storage.moegirl.org.cn/moegirl/commons/f/f5/Imas_gakuen_cidol-fktn-1-000_0-landscape.png) | [萌娘百科](https://zh.moegirl.org.cn/藤田言音) |
-| acheron | 黄泉 | ![](https://ehgt.org/w/02/166/58100-2j53ka48.webp)<br>所属作品：`honkai star rail`<br>自称「巡海游侠」的旅人，本名不详。身佩一柄长刀，独行银河。<br>![](https://patchwiki.biligame.com/images/sr/thumb/7/71/fud590c54lodhhcj2bji0zucih5dzm5.png/1050px-黄泉立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
+| acheron | 黄泉 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/71/fud590c54lodhhcj2bji0zucih5dzm5.png/1050px-黄泉立绘.png)<br>所属作品：`honkai star rail`<br>自称「巡海游侠」的旅人，本名不详。身佩一柄长刀，独行银河。<br>![](https://ehgt.org/w/02/166/58100-2j53ka48.webp) | [萌娘百科](https://zh.moegirl.org.cn/黄泉%28星穹铁道%29#) |
 | asanagi | 朝凪(桎) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/562be2b5664fe3096ca50367ec141900262400697.png) | [BILIGAME WIKI](https://wiki.biligame.com/blhx/朝凪) |
 | toji fushiguro | 伏黑甚尔 | 伏黑甚尔（日语：伏黒（ふしぐろ） 甚爾（とうじ））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/10/Fushiguro_Toji_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/伏黑甚尔) |
 | curtana | 卡提那 | 二次元游戏《交错战线》中的一个角色 | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/卡提那) |
