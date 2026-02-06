@@ -8578,6 +8578,7 @@ example:
 | chie satonaka | 里中千枝 | ![](https://ehgt.org/w/01/143/00714-me3t84vp.webp)<br>出自作品：`p:persona 4`<br><br>里中千枝（日语：里中千枝 \| さとなかちえ）是由Atlus旗下的游戏《女神异闻录》系列的正传作品《女神异闻录4》及其衍生作品的主要角色。 | [萌娘百科](https://zh.moegirl.org.cn/里中千枝) |
 | kuniko hojo | 北条国子 |  |  |
 | pan | 小芳 | 小芳（パン），女，日本经典动漫《龙珠》及其衍生作品中的女性角色，孙悟空和琪琪的孙女、孙悟饭和比迪丽的女儿，初次登场于打败魔人布欧的十年后，即龙珠漫画518话。<br>小芳从小跟着她的爷爷孙悟空修炼，所以在四岁时就已经拥有很强的战斗力，之后参加了第28届天下第一武道会，同时小芳有很强的好胜心，孙悟空曾说她是“我们家最努力的”。 | [百度百科](https://baike.baidu.com/item/小芳/7108893) |
+| roccia | 洛可可 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/c/c6/Roccia_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Roccia) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
