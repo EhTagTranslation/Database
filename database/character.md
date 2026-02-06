@@ -8580,6 +8580,7 @@ example:
 | pan | 小芳 | 小芳（パン），女，日本经典动漫《龙珠》及其衍生作品中的女性角色，孙悟空和琪琪的孙女、孙悟饭和比迪丽的女儿，初次登场于打败魔人布欧的十年后，即龙珠漫画518话。<br>小芳从小跟着她的爷爷孙悟空修炼，所以在四岁时就已经拥有很强的战斗力，之后参加了第28届天下第一武道会，同时小芳有很强的好胜心，孙悟空曾说她是“我们家最努力的”。 | [百度百科](https://baike.baidu.com/item/小芳/7108893) |
 | roccia | 洛可可 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/c/c6/Roccia_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Roccia) |
 | youhu | 釉瑚 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/2/27/Youhu_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/wiki/Youhu) |
+| kodachi kuno | 九能小太刀 | ![](https://ehgt.org/w/01/901/82633-5lbzpu47.webp)<br>出自作品：`p:ranma 12`<br><br>九能小太刀是日本漫画家高桥留美子创作的漫画《乱马》及其衍生作品中的角色，由岛津冴子配音。作为16岁的少女、九能带刀的妹妹，她外号"黑玫瑰"，自称是早乙女乱马的四号未婚妻，擅长格斗新体操并以"黑玫瑰吹雪"为攻击技能，常使用黑玫瑰与麻药作为武器。 | [百度百科](https://baike.baidu.com/item/九能小太刀/6312620) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
