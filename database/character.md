@@ -6339,7 +6339,7 @@ example:
 | solution epsilon | 索琉香·爱普史龙 |  |  |
 | narberal gamma | 娜贝拉尔·伽玛 | ![](https://ehgt.org/w/01/335/24241-0wm8k758.webp) |  |
 | lupusregina beta | 露普斯蕾琪娜·贝塔 |  |  |
-| renner theiere chardelon ryle vaiself | 拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙 | ![](https://ehgt.org/w/01/977/75726-gc8zbsfj.webp)<br>出自作品：`p:overlord`<br><br>拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙（日语：ラナー・ティエール・シャルドルン・ライル・ヴァイセルフ）是由丸山くがね所创作的小说《OVERLORD》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙) |
+| renner theiere chardelon ryle vaiself | 拉娜·提耶儿 | ![](https://static.wikia.nocookie.net/overlordmaruyama/images/8/8a/Renner_%28Imp%29_002.png)<br>出自作品：`p:overlord`<br>全名：拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙<br>日语：ラナー・ティエール・シャルドルン・ライル・ヴァイセルフ | [萌娘百科](https://zh.moegirl.org.cn/拉娜·提耶儿·夏尔敦·莱儿·凡瑟芙) |
 | pardofelis | 帕朵菲利斯 | 崩坏三登场角色，逐火之蛾十二英桀末位。<br>名称来源为 拉丁语 felicitas somnium. (幸福之梦）。 |  |
 | maiden | 梅登 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b9/Maiden_%28Under_the_Sun%29_FB.png)<br>所属作品`p:goddess of victory nikke` | [gamekee](https://www.gamekee.com/nikke/tj/167401.html) |
 | cartethyia | 卡提希娅 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/e/e0/r52fa0bvjnd5dmtjwccpehvj3wtx24g.png/516px-角色_卡提希娅_立绘.png)<br>所属作品：`wuthering waves`<br>于黎那汐塔四处旅行的流浪骑士卡提希娅。她是曾经的圣女，是神之容器，是风潮之王。她曾被唤作芙露德莉斯，但现在，她只是一介自由自在的流浪骑士。 | [萌娘百科](https://zh.moegirl.org.cn/卡提希娅)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/卡提希娅) |
