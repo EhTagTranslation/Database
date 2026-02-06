@@ -6462,7 +6462,7 @@ example:
 | plymouth | 普利茅斯 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/fd9b2b5d809f8e04dc5984b83f8e8908262400697.png) |  |
 | mitsuki hoshikawa | 星川未月 | ![](https://ehgt.org/w/02/086/54565-8z4m4jfo.webp)<br>所属作品: `p:himitsu no aipri` | [Fandom](https://pretty-series.fandom.com/wiki/Mitsuki_Hoshikawa) [维基百科](https://zh.wikipedia.org/wiki/秘密的偶像公主#主要遊戲角色) |
 | yat sen | 逸仙 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/5e670b25e48199e76334b8b8d1d97761262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/91650eaff7633a63dea7978f132af79b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/e547a4f0be08b1e71380db12cb850b6b262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/3438c85c8372e27d676c7ec5225ce37e262400697.png) |  |
-| phainon | 白厄 | 白厄是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/白厄) |
+| phainon | 白厄 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/4/47/Character_Phainon_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/白厄) |
 | candace flynn | 凯蒂丝‧福林 | 所属作品: `p:phineas and ferb` | [萌娘百科](https://zh.moegirl.org.cn/凯蒂丝·杰士德·福林) [Fandom](https://phineasandferb.fandom.com/wiki/Candace_Flynn) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
 | isabella garcia-shapiro | 伊莎贝拉·格拉希夏普罗 | 所属作品: `p:phineas and ferb` | [Fandom](https://phineasandferb.fandom.com/zh/wiki/伊莎貝拉·格拉希夏普羅) [维基百科](https://zh.wikipedia.org/wiki/飛哥與小佛角色列表) |
 | rei nomasa | 野正丽 | 所属作品：`p:blue archive`<br>千年科学学园所属，千年棒球部的第四棒打者。<br>内心怀有「改革名为棒球部，实则更接近研究动力学和物理学的千年棒球部」的远大抱负。和体力充沛的堇虽然在某些方面莫名合得来，可惜一到实战就经常出现分歧。<br>![](https://img.moegirl.org.cn/common/f/f4/BA_Rei.png) | [Fandom](https://bluearchive.fandom.com/wiki/Nomasa_Rei) [萌娘百科](https://zh.moegirl.org.cn/野正丽) |
