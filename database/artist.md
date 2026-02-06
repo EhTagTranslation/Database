@@ -14819,7 +14819,7 @@ example:
 | paderapollo norio | パデラポッロのりお | パデラポルノのりお | [X](https://x.com/paderapollo) |
 | hegechi | へげち |  | [X](https://x.com/hegechi1111) |
 | hinben | hinben |  | [BOOTH](https://hinben.booth.pm/) |
-| mayo | Mayo |  | [FANBOX](https://banaba.fanbox.cc/) |
+| mayo | Mayo |  | [FANBOX](https://banaba.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/113847480) \| [BOOTH](https://guromayo.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
