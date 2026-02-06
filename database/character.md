@@ -3039,7 +3039,7 @@ example:
 | hoshikawa sara | 星川莎拉 | ![](https://ehgt.org/w/02/136/22602-d2101488.webp)<br>所属社团：彩虹社<br>日语名：ほしかわ さら | [萌娘百科](https://zh.moegirl.org.cn/星川莎拉) |
 | honma himawari | 本间向日葵🌻 | ![](https://img.moegirl.org.cn/common/2/20/本间向日葵.jpg)<br>本间向日葵（ほんまひまわり，Honma Himawari）是于2018年7月6日在Youtube上开始活动的VTuber，隶属于业界团队彩虹社。 | [萌娘百科](https://zh.moegirl.org.cn/本间向日葵) |
 | kakyoin chieri | 花京院樱桃 | 花京院樱桃（日语：花京院ちえり）是.LIVE所属的虚拟YouTuber。 rerorerorerorero......（大雾） | [萌娘百科](https://zh.moegirl.org.cn/花京院樱桃) |
-| lize helesta | 莉泽·赫露艾斯塔 | 莉泽·赫露艾斯塔 （ リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/莉泽·赫露艾斯塔) |
+| lize helesta | 莉泽·赫露艾斯塔 | ![](https://ehgt.org/w/01/880/52056-adrjorzd.webp)<br>社团：`p:nijisanji`<br><br>莉泽·赫露艾斯塔 （ リゼ・ヘルエスタ / Lize Helesta）是一名从2019年3月23日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/莉泽·赫露艾斯塔) |
 | saionji mary | 西园寺メアリ |  |  |
 | suou patra | 周防帕特拉 | 周防帕特拉（周防パトラ・すおう（Suou） パトラ（Patra））是活跃于YouTube上的一位日本女性虚拟YouTuber，为日本いちから公司协力制作的夜の喫茶店Honey Strap的成员之一。 | [萌娘百科](https://zh.moegirl.org.cn/周防帕托拉) |
 | shiina yuika | 椎名唯华 | ![](https://img.moegirl.org.cn/common/9/97/大福新视觉.jpg)<br>椎名唯华（日语：椎名唯華 Siina Yuika）是隶属彩虹社的虚拟Youtuber，高中一年生，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org.cn/椎名唯华) |
