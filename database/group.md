@@ -13715,6 +13715,7 @@ example:
 | sirens domain | Siren's Domain |  | [Patreon](https://www.patreon.com/ZombiesRetreat) |
 | my cafe saikou | マイカフェ最高 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62267.html) |
 | fujinum seven | フジナムセブン |  | [pixiv](https://www.pixiv.net/users/6386654) |
+| shiromonya | 白門屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062055.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
