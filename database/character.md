@@ -2420,7 +2420,7 @@ example:
 | temari | 手鞠 | ![](https://ehgt.org/w/01/916/37419-4w1ltybq.webp)<br>出自作品：`p:naruto`<br><br>手鞠，女，日本漫画《火影忍者》及其衍生作品中的角色。风之国砂隐村的女忍者，第四代风影罗砂的长女，第五代风影我爱罗和勘九郎的姐姐。性格爽朗，擅长使用三星扇进行大范围的远程风遁忍术攻击。后与木叶的奈良鹿丸结亲，并育有一子奈良鹿戴。 | [百度百科](https://baike.baidu.com/item/手鞠/19307) |
 | naruto uzumaki | 漩涡鸣人 | ![](https://ehgt.org/w/01/245/79594-tfvx3fs6.webp)<br>出自作品：`p:naruto`<br><br>漩涡鸣人（日语：うずまき ナルト）是岸本齐史所创作的漫画《火影忍者》及其衍生作品的主人公。 | [萌娘百科](https://zh.moegirl.org.cn/漩涡鸣人) |
 | minato namikaze | 波风水门 |  |  |
-| hinata hyuga | 日向雏田 | 日向雏田（日语：日向（ひゅうが） ヒナタ）是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/f/fa/Hinata_Character.png) | [萌娘百科](https://zh.moegirl.org.cn/日向雏田) |
+| hinata hyuga | 日向雏田 | ![](https://img.moegirl.org.cn/common/f/fa/Hinata_Character.png)<br>出自作品：`p:naruto`<br><br>日向雏田（日语：日向ヒナタ / ひゅうがヒナタ）是岸本齐史创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日向雏田) |
 | kushina uzumaki | 漩涡玖辛奈 | ![](https://ehgt.org/w/01/914/77748-avwwzh29.webp)<br>所属作品：`naruto` |  |
 | kakashi hatake | 旗木卡卡西 |  |  |
 | shikamaru nara | 奈良鹿丸 |  |  |
