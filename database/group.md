@@ -837,7 +837,7 @@ example:
 | paper hearts | PAPER HEARTS |  |  |
 | gekikara koushinryou | 激辛香辛料 |  |  |
 | pha-la-dogs | ぱらどっくす。 |  |  |
-| yojouhan shobou | <p>四叠半书房</p> |  | [pixiv](https://www.pixiv.net/users/2431234) \| [X](https://x.com/yojouhanshobou/media) \| [Fantia](https://fantia.jp/fanclubs/526784) |
+| yojouhan shobou | 四叠半书房 |  | [pixiv](https://www.pixiv.net/users/2431234) \| [X](https://x.com/yojouhanshobou/media) \| [Fantia](https://fantia.jp/fanclubs/526784) |
 | maron maron | まろん☆まろん |  |  |
 | yukijirushi nyuugyou | 逝印乳业 |  |  |
 | suimitsutou koubou | 水密桃工房 |  |  |
