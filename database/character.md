@@ -6135,7 +6135,7 @@ example:
 | shampoo | 珊璞 | 珊璞是高桥留美子所创作的漫画《乱马1/2》乱码及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/a/a7/SHAMPOO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/珊璞) |
 | tribbie | 缇宝 | ![](https://patchwiki.biligame.com/images/sr/thumb/1/11/qqo0bipfay40rjz0aniuy2xcpongx91.png/1050px-缇宝立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 | trianne | 缇安 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/NPC_Trianne.png)<br>所属作品：`honkai star rail`<br>与`c:tribbie`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
-| trinnon | 缇宁 | 缇宁是《`p:honkai star rail`》的登场角色，与`c:tribbie`、`c:trianne`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
+| trinnon | 缇宁 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/5/5b/NPC_Trinnon.png)<br>所属作品：`honkai star rail`<br>与`c:tribbie`、`c:trianne`同为「命运的三子」缇里西庇俄丝之一。 | [萌娘百科](https://zh.moegirl.org.cn/缇宝) |
 | castorice | 遐蝶 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/3b/g2i10cu84radhr53nbghm6yidwmrgh2.png/1050px-遐蝶立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/遐蝶) |
 | biscione | 比肖内 | 比肖内是FGO在日服2025年1月的我的小小龙种活动同期实装的五星枪阶从者 |  |
 | the herta | 大黑塔 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/a4xh2fqj236rw5pdcy88vcr2fban63x.png/800px-大黑塔立绘.png)<br>所属作品：`honkai star rail` | [BILIGAME WIKI](https://wiki.biligame.com/sr/大黑塔) |
