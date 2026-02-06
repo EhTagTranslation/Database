@@ -5493,7 +5493,7 @@ example:
 | laios thorden | 莱欧斯 | 莱欧斯（日语：ライオス）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的主人公。<br><br>![](https://img.moegirl.org.cn/common/thumb/e/e9/莱欧斯_chr.png/420px-莱欧斯_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/莱欧斯) |
 | chilchuck tims | 齐尔查克 | 齐尔查克·蒂姆斯（日语：チルチャック・ティムズ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/5/5b/齐尔查克_chr.png/420px-齐尔查克_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/齐尔查克) |
 | senshi | 森西 | 伊兹甘达的森西（日语：センシ）是由九井谅子所创作的漫画《迷宫饭》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/thumb/6/6a/森西_chr.png/420px-森西_chr.png) | [萌娘百科](https://zh.moegirl.org.cn/森西) |
-| jing yuan | 景元 | 景元是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/景元) |
+| jing yuan | 景元 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/4/48/Character_Jing_Yuan_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/景元) |
 | hwah jah | 华甲 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/b7d97c9f42819586efe1c6afed2001db262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/45fb7c27cd26440500588e152c1e2fc2262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:华甲) |
 | kento nanami | 七海建人 | 七海建人（日语：七海（ななみ） 建人（けんと））是由芥见下下所创作的漫画《咒术回战》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/37/咒术回战_11.jpg) | [萌娘百科](https://zh.moegirl.org.cn/七海建人) |
 | nagusa goryou | 御稜名草 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院·百花缭乱纷争调停委员会，原百花缭乱委员会副委员长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/953797.png) |  |
