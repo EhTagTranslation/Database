@@ -4619,7 +4619,7 @@ example:
 | kurumu kurono | 黑乃胡梦 |  |  |
 | mizore shirayuki | 白雪霙 | ![](https://ehgt.org/w/02/130/82532-irph0erh.webp)<br>所属作品：`hibike euphonium` |  |
 | nagisa kirifuji | 桐藤渚 | 所属作品：`p:blue archive`<br>圣三一学园所属，组成圣三一学生联盟的领袖，也是学生会“茶话会”的主持者。<br>![](https://img.moegirl.org.cn/common/e/e1/BA_Nagisa.png)<br>![](https://img.moegirl.org.cn/common/d/d9/BA_Nagisa_Swimsuit.png) | [萌娘百科](https://zh.moegirl.org.cn/桐藤渚) |
-| fu xuan | 符玄 | ![](https://patchwiki.biligame.com/images/sr/thumb/6/61/7l1pfiibrkrb7n8snk8m8yqrcplzo60.png/1050px-符玄立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」太卜司之首，自信耿直的智者。<br>凭借第三眼与穷观阵为仙舟占算航路，预卜事务吉凶，坚信自己所做的一切便是事情的「最优解」。 | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
+| fu xuan | 符玄 | ![](https://patchwiki.biligame.com/images/sr/thumb/6/61/7l1pfiibrkrb7n8snk8m8yqrcplzo60.png/1050px-符玄立绘.png)<br>所属作品：`honkai star rail`<br>仙舟「罗浮」太卜司之首，自信耿直的智者。 | [萌娘百科](https://zh.moegirl.org.cn/符玄) |
 | qingque | 青雀 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/7a/owzniqqsb9gqy1hckv3nhuiwye76k6j.png/1050px-青雀立绘.png)<br>所属作品：`honkai star rail`<br>太卜司的普通卜者，在「忙里偷闲」这件事上绝不偷闲。 | [萌娘百科](https://zh.moegirl.org.cn/青雀) |
 | sin mal | 杏·玛尔 | 杏·玛尔是miHoYo所开发运营的手游《崩坏学园2》《崩坏3》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/42/杏·玛尔.png) | [萌娘百科](https://zh.moegirl.org.cn/杏·玛尔) |
 | bailu | 白露 | ![](https://patchwiki.biligame.com/images/sr/thumb/3/32/rzr41b0bxdlovno4qie52rdjrun0y3z.png/1050px-白露立绘.png)<br>所属作品：`honkai star rail`<br>性格活泼的小女孩，持明族的「衔药龙女」，药到病除的名医。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/白露) |
