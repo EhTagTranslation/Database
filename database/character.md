@@ -5061,7 +5061,7 @@ example:
 | kouko kaga | 加贺香子 |  | [萌娘百科](https://zh.moegirl.org.cn/加贺香子) |
 | lisanna strauss | 丽莎娜·斯特劳斯 |  | [萌娘百科](https://zh.moegirl.org.cn/丽莎娜·斯特劳斯) |
 | mia luna tearmoon | 米雅·卢娜·堤亚穆 | 所属作品: `p:tearmoon teikoku monogatari`<br><br>堤亚穆帝国的第一皇女，在前一个时间轴中是一个昏庸无能的皇女，后来帝国爆发了革命，于十七岁时在逃亡的途中被捕，在地牢中软禁三年后在一片谩骂声中走上断头台，享年20岁。——本该如此，但在醒来后却发现自己回到了12岁，这一次，她为了在第二次的人生中躲过断头台而四处奔走着。 | [萌娘百科](https://zh.moegirl.org.cn/米雅·卢娜·堤亚穆) |
-| ruan mei | 阮·梅 | ![](https://patchwiki.biligame.com/images/sr/thumb/4/4d/0iamwg2dwen149n3ucjxlnx4dw4ym5z.png/1050px-阮•梅立绘.png)<br>所属作品: `p:honkai star rail`<br><br>气质温婉优雅的学者，「天才俱乐部」#81号会员，生命科学领域的专家。凭借天赋与惊人的执著得到了博识尊的瞩目，在秘密的角落开始了对生命本源的研究与探索。并因此被黑塔邀请，同螺丝咕姆、斯蒂芬联合开发了「模拟宇宙」。私下里，她十分喜爱传统戏剧与点心，对刺绣也很感兴趣。 | [萌娘百科](https://zh.moegirl.org.cn/阮·梅) |
+| ruan mei | 阮·梅 | ![](https://patchwiki.biligame.com/images/sr/thumb/4/4d/0iamwg2dwen149n3ucjxlnx4dw4ym5z.png/1050px-阮•梅立绘.png)<br>所属作品: `p:honkai star rail`<br>气质温婉优雅的学者，「天才俱乐部」#81号会员，生命科学领域的专家。 | [萌娘百科](https://zh.moegirl.org.cn/阮·梅) |
 | li sushang | 李素裳 \| 素裳 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/pa10qs0htdu6eizlhvk4b26ihm6x5tq.png/1050px-素裳立绘.png)<br>所属作品: `p:honkai gakuen`、`p:honkai star rail`<br>单纯热心的云骑军新人，执一柄重剑。 | [李素裳](https://zh.moegirl.org.cn/李素裳) [素裳](https://zh.moegirl.org.cn/素裳) |
 | prometheus | 普罗米修斯 | 所属作品: `p:megido 72` | [Bangumi](https://bgm.tv/character/129499) |
 | lisesharte atismata | 莉姿夏尔蒂·亚提司玛特 | ![](https://saijaku.jp/img/character_image02.jpg)<br>所属作品: `p:saijaku muhai no bahamut`<br>リーズシャルテ·アティスマータ<br>亚提司玛特新王国的公主，爱称是莉夏。真红的神装机龙“迪亚玛特”的操纵者，在学园内以无败而自豪的屈指可数的装甲机龙使者。 |  |
