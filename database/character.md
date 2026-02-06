@@ -7930,7 +7930,7 @@ example:
 | lynae | 琳奈 | ![](https://prod-alicdn-community.kurobbs.com/forum/5fc8ac57b7814a3ebb3264d39320af1520251225.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves`<br>星炬学院的预科学生，个性张扬的外表下充满活力与力量。 |  |
 | satsuki momoi | 桃井五月 | ![](https://ehgt.org/w/02/065/97680-pf5k4q68.webp)<br>所属作品：`kuroko no basuke`<br>前任奇迹的世代的球队经理。 |  |
 | natsuki | 夏树 | 夏树（原名：Natsuki）是Team Salvato旗下游戏《心跳文学部》的登场角色<br><br>![夏树](https://storage.moegirl.org.cn/moegirl/commons/5/54/Aklrr-7mgqj.jpg) | [萌娘百科](https://zh.moegirl.org.cn/夏树%28心跳文学部%29) |
-| sunday | 星期日 | 星期日是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。<br>![星期日](https://storage.moegirl.org.cn/moegirl/commons/f/f9/星期日立绘.png) | [萌娘百科](https://zh.moegirl.org.cn/星期日) |
+| sunday | 星期日 | ![星期日](https://storage.moegirl.org.cn/moegirl/commons/f/f9/星期日立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/星期日) |
 | claire field symphonia | 克莱儿·诗芳尼亚 | ![](https://ehgt.org/w/01/897/94517-kgnxoj3s.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>贝尔泽古王国的公主的教育专员兼护卫。 |  |
 | yuiyui | 唯唯 | ![](https://ehgt.org/w/01/765/84316-h8v1d54r.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>惠惠的母亲。 |  |
 | hana kazamaki | 风卷花 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d4/1d/165411_crt_tQTQu.jpg?r=1751439707)<br>所属作品：`mattaku saikin no tantei tokitara`<br>翌桧的助手，大家都叫她“小卷”。 |  |
