@@ -4922,7 +4922,7 @@ example:
 | topaz | 托帕 | ![](https://patchwiki.biligame.com/images/sr/thumb/a/ae/rzdx12evy18xkpp13x1sjwrp1wq205v.png/1050px-托帕%26账账立绘.png)<br>所属作品：`honkai star rail`<br>星际和平公司旗下「战略投资部」高级干部托帕，领导特殊债务纠察小组。 | [萌娘百科](https://zh.moegirl.org.cn/托帕) |
 | jingliu | 镜流 | ![](https://patchwiki.biligame.com/images/sr/thumb/7/75/shqgamdstfb3fqluonzq7alip7wbjm6.png/1050px-镜流立绘.png)<br>所属作品：`honkai star rail`<br>传奇「云上五骁」之一，人送尊号「无罅飞光」。 | [BILIGAME WIKI](https://wiki.biligame.com/sr/镜流) |
 | dan heng | 丹恒 | 丹恒是米哈游制作的游戏`p:honkai star rail`及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/丹恒) |
-| caelus | 穹（开拓者） | 穹是米哈游开发的角色扮演游戏《崩坏：星穹铁道》初始可选男性主角<br>![](https://p.sda1.dev/27/7bc6ef68e3c077bf9db819cfb1ff3ee5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
+| caelus | 穹（开拓者） | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/1/12/Character_Trailblazer_%28M%29_Destruction_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/开拓者) |
 | pozemka | 鸿雪 | ![](https://patchwiki.biligame.com/images/arknights/c/c6/lkzdwf6v0rwhzg77c8895t5n6bxwgnp.png)<br>所属作品`p:arknights` | [BILIGAME WIKI](https://wiki.biligame.com/arknights/鸿雪) |
 | kotori toyomi | 丰见柯托莉 | 所属作品：`p:blue archive`<br>千年科学学校所属，工程部的部员。<br>![](https://patchwiki.biligame.com/images/ba/9/91/kz4bzpw2tgjgnlapedwoi9ho553nszt.png) | [Fandom](https://bluearchive.fandom.com/wiki/Toyomi_Kotori) [萌娘百科](https://zh.moegirl.org.cn/丰见亚都梨)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Kotori) |
 | frieren | 芙莉莲 | `p:sousou no frieren`的女主角，打倒了魔王的勇者一行人中的精灵族魔法使，人类族大魔法使伏拉梅的徒弟。其外貌主要特征是绑成双马尾的银色长发和蓝色双眼，精灵族特有的尖耳和白皙的肤色。 | [萌娘百科](https://zh.moegirl.org.cn/芙莉莲) [漫画官网角色介绍](https://websunday.net/work/708) |
