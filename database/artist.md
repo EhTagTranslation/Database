@@ -14814,6 +14814,7 @@ example:
 | green tea | green TEA。 |  | [X](https://x.com/matchaistasty) |
 | uraxia | ウラしあ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ウラしあ%22/ana_flg/all) |
 | miyumiyu. | みゆみゆ |  |  |
+| coldsyruup | ColdSyruup | 福瑞画师 | [Patreon](https://www.patreon.com/cw/Coldsyruup)<br>[X](https://x.com/coldsyruup)<br>[pixiv](https://www.pixiv.net/users/114934898) |
 
 <!--TEMPLATE:
 |  |  |  |  |
