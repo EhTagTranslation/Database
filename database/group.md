@@ -13719,6 +13719,7 @@ example:
 | tanaka no miso | 田中の味噌 |  |  |
 | ai to namida | 愛と涙 |  |  |
 | rat | ラット |  |  |
+| hegechiya | へげち屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211374/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009786.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
