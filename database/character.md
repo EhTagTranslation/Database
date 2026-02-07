@@ -8583,6 +8583,7 @@ example:
 | kodachi kuno | 九能小太刀 | ![](https://ehgt.org/w/01/901/82633-5lbzpu47.webp)<br>出自作品：`p:ranma 12`<br><br>九能小太刀是日本漫画家高桥留美子创作的漫画《乱马》及其衍生作品中的角色，由岛津冴子配音。作为16岁的少女、九能带刀的妹妹，她外号"黑玫瑰"，自称是早乙女乱马的四号未婚妻，擅长格斗新体操并以"黑玫瑰吹雪"为攻击技能，常使用黑玫瑰与麻药作为武器。 | [百度百科](https://baike.baidu.com/item/九能小太刀/6312620) |
 | goblin slayer | 哥布林杀手 |  |  |
 | darian | 达丽安 | ![](https://dotgg.gg/brown-dust-2/wp-content/uploads/sites/17/2025/10/35337de72d-1.png)<br>所属作品：`brave nine` | [Gamekee](https://www.gamekee.com/zsca2/tj/678559.html) |
+| selma claudel | 赛尔玛·克罗蒂尔 | ![](https://www.animecharactersdatabase.com/images%20of/Selma%20Claudel/from/Yuusha%20Party%20wo%20Oidasareta%20Kiyoubinbou/uploads/chars/36226-94703176.png)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
