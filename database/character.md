@@ -1260,7 +1260,7 @@ example:
 | tomoe takasago | 高砂智惠 |  |  |
 |  | ▼ 超级索尼子 角色 |  |  |
 | super sonico | 超级索尼子 |  |  |
-| super pochaco | 超级帕恰子 |  |  |
+| super pochaco | 超级帕恰子 | ![](https://static.wikia.nocookie.net/super-sonico/images/3/34/Super_Pochaco.jpg)<br>出自作品：`p:super sonico` | [Fandom](https://super-sonico.fandom.com/wiki/Super_Pochaco) |
 | super taruco | 超级桶桶子 |  |  |
 |  | ▼ 亲吻姐姐 角色 |  |  |
 | ako suminoe | 住之江亚香 | ![](https://static.wikia.nocookie.net/kissxsis/images/7/70/Ako_Suminoe.jpg)<br>所属作品：`kiss x sis` |  |
