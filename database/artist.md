@@ -14825,6 +14825,7 @@ example:
 | irosira | いろしら |  | [FANBOX](https://www.fanbox.cc/@irosira) \| [X](https://x.com/irosiraskb) |
 | onizuka chris | 鬼塚クリス |  |  |
 | moki-kun | Moki君 |  | [pixiv](https://www.pixiv.net/users/5213710) |
+| horita ahan | 堀田阿伴 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
