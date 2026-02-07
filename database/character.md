@@ -8584,6 +8584,7 @@ example:
 | goblin slayer | 哥布林杀手 |  |  |
 | darian | 达丽安 | ![](https://dotgg.gg/brown-dust-2/wp-content/uploads/sites/17/2025/10/35337de72d-1.png)<br>所属作品：`brave nine` | [Gamekee](https://www.gamekee.com/zsca2/tj/678559.html) |
 | selma claudel | 赛尔玛·克罗蒂尔 | ![](https://www.animecharactersdatabase.com/images%20of/Selma%20Claudel/from/Yuusha%20Party%20wo%20Oidasareta%20Kiyoubinbou/uploads/chars/36226-94703176.png)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou` |  |
+| yuuki sorimachi | 反町友树（幽鬼） | ![](https://static.wikia.nocookie.net/shibouyugi/images/b/bb/Yuki_Sorimachi_Portrait_%28Light_Novel%29.png)<br>所属作品：`shibou yuugi de meshi wo kuu.`<br>日语：反町友樹 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
