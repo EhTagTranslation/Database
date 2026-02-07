@@ -8586,6 +8586,7 @@ example:
 | selma claudel | 赛尔玛·克罗蒂尔 | ![](https://www.animecharactersdatabase.com/images%20of/Selma%20Claudel/from/Yuusha%20Party%20wo%20Oidasareta%20Kiyoubinbou/uploads/chars/36226-94703176.png)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou` |  |
 | yuuki sorimachi | 反町友树（幽鬼） | ![](https://static.wikia.nocookie.net/shibouyugi/images/b/bb/Yuki_Sorimachi_Portrait_%28Light_Novel%29.png)<br>所属作品：`shibou yuugi de meshi wo kuu.`<br>日语：反町友樹 |  |
 | yasoshina mujina | 八十科貉 | ![](https://www.aogirihighschool.com/images/members/yasoshina-mujina/img-01.png)<br>所属社团：青桐高中（あおぎり高校） |  |
+| anabel | 莉拉（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/6/61/莉拉_SM.png/159px-莉拉_SM.png)<br>所属作品：`pokemon`<br>日文︰リラ | [宝可梦百科](https://wiki.52poke.com/wiki/莉拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
