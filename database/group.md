@@ -13720,6 +13720,7 @@ example:
 | hegechiya | へげち屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=211374/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009786.html) |
 | fat cat | FAT CAT |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55023.html) |
 | kyouizon smile | 共依存スマイル |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=43953) |
+| asuka shinozaki | 飛鳥しのざき |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
