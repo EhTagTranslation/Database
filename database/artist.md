@@ -14365,7 +14365,7 @@ example:
 | toppogi | トッポギ |  |  |
 | toyono kitsune | とよのきつね。 |  |  |
 | tsubuki | マジョリーナ |  |  |
-| tsuyuta kome | 露田米 |  |  |
+| tsuyuta kome | 露田米 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22露田米%22/ana_flg/all) |
 | kagura soushi | 神楽創志 |  |  |
 | wanduoying | 萬朶櫻 |  |  |
 | wanko-kun | ◯んこクン |  |  |
