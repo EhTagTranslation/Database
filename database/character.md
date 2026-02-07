@@ -3053,7 +3053,7 @@ example:
 | hop | 赫普 |  |  |
 | gloria | 小优 | ![](https://img.moegirl.org.cn/common/3/39/Gloria_.png)<br>所属作品:`p:pokemon`<br>日语：ユウリ | [萌娘百科](https://zh.moegirl.org.cn/小优%28宝可梦%29#) |
 | allister | 欧尼奥 |  |  |
-| klara | 克拉拉（宝可梦） | ![](https://img.moegirl.org.cn/common/3/37/Sword_Shield_Klara.png)<br>所属作品：`p:pokemon`<br>日文︰クララ | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28宝可梦%29#) |
+| klara | 克拉拉 | ![](https://img.moegirl.org.cn/common/3/37/Sword_Shield_Klara.png)<br>所属作品：`p:pokemon`<br>日文︰クララ | [萌娘百科](https://zh.moegirl.org.cn/克拉拉%28宝可梦%29#) |
 | dola | 多拉 | 年龄350岁的上位龙族[火龙（Fire Drake）]，在异世界某处远离人烟的洞窟中守护着财宝，偶尔会翱翔天际打发空余时间。<br><br>在守护财宝里偶然发现了现代的产物（手机等），现在化身为人类的姿态进行着VTuber活动。 | [萌娘百科](https://zh.moegirl.org.cn/多拉%28虚拟UP主%29) |
 | moon | 美月 |  |  |
 | rosa | 鸣依 | ![](https://s1.52poke.com/wiki/thumb/e/e7/鸣依_B2W2.png/139px-鸣依_B2W2.png)<br>所属作品：`pokemon`<br>日文︰メイ | [Fandom](https://pokemon.fandom.com/wiki/Rosa)<br>[萌娘百科](https://zh.moegirl.org.cn/鸣依) |
@@ -3192,7 +3192,7 @@ example:
 | kanata higa | 比嘉彼方 |  |  |
 | narumi tooi | 远井成美 |  |  |
 | ayasa tachibana | 立花彩纱 |  |  |
-| leaf | 叶子（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/6/60/葉子_FRLG.png/146px-葉子_FRLG.png)<br>所属作品：`pokemon`<br>日文︰リーフ | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
+| leaf | 叶子 | ![](https://s1.52poke.com/wiki/thumb/6/60/葉子_FRLG.png/146px-葉子_FRLG.png)<br>所属作品：`pokemon`<br>日文︰リーフ | [神奇宝贝百科](https://wiki.52poke.com/wiki/葉子) |
 | diablo | 迪亚布罗（坂本拓真） |  |  |
 | rem galleu | 蕾姆·嘉蕾邬 | 所属作品：`isekai maou to shoukan shoujo no dorei majutsu`<br>![](https://ehgt.org/w/02/033/45915-hvpykfla.webp) |  |
 | shera l. greenwood | 雪拉·L·古林伍德 | 所属作品：`isekai maou to shoukan shoujo no dorei majutsu`<br>![](https://ehgt.org/w/01/714/86567-br3b7vw5.webp) |  |
@@ -6211,7 +6211,7 @@ example:
 | nurse joy | 乔伊 |  |  |
 | officer jenny | 君莎 | ![](https://s1.52poke.com/wiki/thumb/e/e0/君莎_神奥_DP.png/365px-君莎_神奥_DP.png?20180511115448)<br>所属作品：`pokemon`<br>日文︰ジュンサー |  |
 | james | 小次郎 |  |  |
-| jessie | 武藏（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/a/a9/武藏_SS.png/220px-武藏_SS.png)<br>所属作品：`pokemon`<br>日文︰ムサシ |  |
+| jessie | 武藏 | ![](https://s1.52poke.com/wiki/thumb/a/a9/武藏_SS.png/220px-武藏_SS.png)<br>所属作品：`pokemon`<br>日文︰ムサシ |  |
 | varesa | 瓦雷莎 | ![](https://patchwiki.biligame.com/images/ys/7/75/jmvo9mzwnbjspgq506kqg496bd6pyd8.gif)<br><br>所属作品：`genshin impact`<br>悠悠哉哉，无比松弛的「沃陆之邦」战士兼果园主，喜欢充满力量的英雄，还有巨量美食！ | [萌娘百科](https://zh.moegirl.org.cn/瓦雷莎)<br>[BILIGAME WIKI](https://wiki.biligame.com/ys/瓦雷莎) |
 | land | 兰托 | ![](https://img.moegirl.org.cn/common/thumb/1/15/Frieren_anime_兰托.png/280px-Frieren_anime_兰托.png)<br>日语：ラント<br>漫画《葬送的芙莉莲》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰托) |
 | iselda | 伊塞尔达 |  |  |
@@ -6565,7 +6565,7 @@ example:
 | mast | 马斯特 | ![](https://static.dotgg.gg/nikke/characters/c354_00.webp)<br>所属作品`p:goddess of victory nikke` | [https://www.gamekee.com/nikke/595144.html](https://www.gamekee.com/nikke/595144.html) |
 | narciso anasui | 纳鲁西索·安纳苏 | 纳鲁西索·安纳苏（日语：ナルシソ・アナスイ；英语：Narciso Anasui）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/b/b4/Chara_Pos_Anasui.png) | [萌娘百科](https://zh.moegirl.org.cn/纳鲁西索·安纳苏) |
 | patrick star | 派大星 |  |  |
-| karen | 梨花（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/9/98/梨花_HGSS.png/149px-梨花_HGSS.png)<br>所属作品：`pokemon`<br>日文︰カリン |  |
+| karen | 梨花 | ![](https://s1.52poke.com/wiki/thumb/9/98/梨花_HGSS.png/149px-梨花_HGSS.png)<br>所属作品：`pokemon`<br>日文︰カリン |  |
 | squidward tentacles | 章鱼哥 |  |  |
 | pearl krabs | 珍珍 |  |  |
 | man ray | 射线恶魔 |  |  |
@@ -6912,7 +6912,7 @@ example:
 | gigi andalucia | 琪琪·安达露西亚 | 所属作品：`mobile suit gundam hathaways flash`<br>![](https://ehgt.org/w/02/022/76942-iv4h76sr.webp)<br>琪琪·安达露西亚（Gigi Andalucia）是卡迪尤斯·邦登·伍德的情妇，大型保险公司创始人。 |  |
 | don quixote | 堂吉诃德 | 所属作品：`limbus company`<br>![](https://ehgt.org/w/02/036/99443-iy9aooxc.webp)<br>别译唐吉诃德 |  |
 | tess kotkin | 苔丝·科特金 | 所属作品：`snowbreak containment zone`<br>![](https://ehgt.org/w/01/491/55797-ilaji7yl.webp)<br>苔丝·科特金（Tess Kotkin）是西山居狸花猫工作室开发的游戏《尘白禁区》中的登场角色，原为普通高中生，梦想成为魔术师，后加入海姆达尔部队。 |  |
-| shelly | 泉（宝可梦） | ![](https://archives.bulbagarden.net/media/upload/f/f1/Omega_Ruby_Alpha_Sapphire_Shelly.png)<br>所属作品：`pokemon`<br>日文名：イズミ |  |
+| shelly | 泉 | ![](https://archives.bulbagarden.net/media/upload/f/f1/Omega_Ruby_Alpha_Sapphire_Shelly.png)<br>所属作品：`pokemon`<br>日文名：イズミ |  |
 | loves only you | 唯独爱你 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/2bc4r1ovi6cfg4dteerny3wyb36dx87.png/600px-Jsf_113201.png)<br>所属作品：`uma musume pretty derby`<br>唯独爱你/ラヴズオンリーユー/Lovesonly you 2016年3月26日生于北海道安平町北部牧场。 | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/唯独爱你) |
 | sakura hagiwara | 萩原樱 | 所属作品：`sekai de ichiban tsuyoku naritai`<br>![](https://ehgt.org/w/01/807/85039-kbrt7xtl.webp)<br>日文名 萩原さくら |  |
 | calstone light o | 金镇之光 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/2/24/s5vr9xinrca3wguig1so9cim0ja2i08.png/600px-Jsf_112001.png)<br>所属作品：`uma musume pretty derby` | [BILIGAME WIKI](https://wiki.biligame.com/umamusume/金镇之光) |
@@ -8266,20 +8266,20 @@ example:
 | greta | 黄瓜香 | ![](https://s1.52poke.com/wiki/thumb/b/b5/黄瓜香_E.png/305px-黄瓜香_E.png)<br>所属作品：`pokemon`<br>日文︰コゴミ |  |
 | janine | 阿杏 | ![](https://s1.52poke.com/wiki/thumb/d/d6/阿杏_HGSS.png/263px-阿杏_HGSS.png)<br>所属作品：`pokemon`<br>日文︰アンズ |  |
 | leon | 丹帝 | ![](https://s1.52poke.com/wiki/thumb/7/7d/丹帝_SWSH.png/286px-丹帝_SWSH.png)<br>所属作品：`pokemon`<br>日文︰ダンデ |  |
-| liza | 小南（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/6/69/小枫与小南_ORAS.png/248px-小枫与小南_ORAS.png)<br>左为小南<br>所属作品：`pokemon`<br>日文︰ラン |  |
-| lucy | 小蓟（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/c/c0/小蓟_E.png/135px-小蓟_E.png)<br>所属作品：`pokemon`<br>日文︰アザミ |  |
+| liza | 小南 | ![](https://s1.52poke.com/wiki/thumb/6/69/小枫与小南_ORAS.png/248px-小枫与小南_ORAS.png)<br>左为小南<br>所属作品：`pokemon`<br>日文︰ラン |  |
+| lucy | 小蓟 | ![](https://s1.52poke.com/wiki/thumb/c/c0/小蓟_E.png/135px-小蓟_E.png)<br>所属作品：`pokemon`<br>日文︰アザミ |  |
 | marshal | 连武 | ![](https://s1.52poke.com/wiki/thumb/2/28/连武_BW.png/245px-连武_BW.png)<br>所属作品：`pokemon`<br>日文︰レンブ |  |
 | maxie | 赤焰松 | ![](https://s1.52poke.com/wiki/thumb/1/1e/赤焰松_ORAS.png/106px-赤焰松_ORAS.png)<br>所属作品：`pokemon`<br>日文︰マツブサ |  |
-| maylene | 阿李（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/7/7a/阿李_DP.png/273px-阿李_DP.png)<br>所属作品：`pokemon`<br>日文︰スモモ |  |
-| oleana | 奥利薇（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/1/17/奥利薇_SWSH.png/182px-奥利薇_SWSH.png)<br>所属作品：`pokemon`<br>日文︰オリーヴ |  |
+| maylene | 阿李 | ![](https://s1.52poke.com/wiki/thumb/7/7a/阿李_DP.png/273px-阿李_DP.png)<br>所属作品：`pokemon`<br>日文︰スモモ |  |
+| oleana | 奥利薇 | ![](https://s1.52poke.com/wiki/thumb/1/17/奥利薇_SWSH.png/182px-奥利薇_SWSH.png)<br>所属作品：`pokemon`<br>日文︰オリーヴ |  |
 | orla | 奥莉欧 | ![](https://s1.52poke.com/wiki/thumb/0/0c/SV_奧莉歐_超級電壓.png/150px-SV_奧莉歐_超級電壓.png)<br>所属作品：`pokemon`<br>日文︰オリオ |  |
 | professor kukui | 库库伊博士 | ![](https://s1.52poke.com/wiki/thumb/c/c9/SM_庫庫伊博士.png/200px-SM_庫庫伊博士.png)<br>所属作品：`pokemon`<br>日文︰ククイ博士 |  |
 | shauntal | 婉龙 | ![](https://s1.52poke.com/wiki/thumb/e/e8/婉龙_BW.png/167px-婉龙_BW.png)<br>所属作品：`pokemon`<br>日文︰シキミ |  |
 | silver | 小银 | ![](https://s1.52poke.com/wiki/thumb/b/b2/小银_HGSS.png/147px-小银_HGSS.png)<br>所属作品：`pokemon`<br>日文︰シルバー |  |
 | steven stone | 大吾 | ![](https://s1.52poke.com/wiki/thumb/b/b1/大吾_ORAS.png/190px-大吾_ORAS.png)<br>所属作品：`pokemon`<br>日文︰ダイゴ |  |
 | team rocket grunt | 火箭队手下 | ![](https://s1.52poke.com/wiki/thumb/9/9b/A2b072-illustration.png/430px-A2b072-illustration.png)<br>所属作品：`pokemon`<br>日文︰ロケット団のしたっぱ |  |
-| whitney | 小茜（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/9/94/小茜_HGSS.png/226px-小茜_HGSS.png)<br>所属作品：`pokemon`<br>日文︰アカネ |  |
-| yellow | 小黄（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/2/2e/小黄_ADV.png/280px-小黄_ADV.png)<br>所属作品：`pokemon`<br>日文︰イエロー |  |
+| whitney | 小茜 | ![](https://s1.52poke.com/wiki/thumb/9/94/小茜_HGSS.png/226px-小茜_HGSS.png)<br>所属作品：`pokemon`<br>日文︰アカネ |  |
+| yellow | 小黄 | ![](https://s1.52poke.com/wiki/thumb/2/2e/小黄_ADV.png/280px-小黄_ADV.png)<br>所属作品：`pokemon`<br>日文︰イエロー |  |
 | zigzagoon | 蛇纹熊 | ![](https://s1.52poke.com/wiki/thumb/4/47/263Zigzagoon.png/300px-263Zigzagoon.png)<br>所属作品：`pokemon`<br>日文︰ジグザグマ |  |
 | zinnia | 希嘉娜 | ![](https://s1.52poke.com/wiki/thumb/7/72/希嘉娜_ORAS.png/217px-希嘉娜_ORAS.png)<br>所属作品：`pokemon`<br>日文︰ヒガナ |  |
 | solana | 日向 | ![](https://s1.52poke.com/wiki/thumb/0/0a/日向_巡护员.png/210px-日向_巡护员.png)<br>所属作品：`pokemon`<br>日文︰ヒナタ |  |
@@ -8586,7 +8586,7 @@ example:
 | selma claudel | 赛尔玛·克罗蒂尔 | ![](https://www.animecharactersdatabase.com/images%20of/Selma%20Claudel/from/Yuusha%20Party%20wo%20Oidasareta%20Kiyoubinbou/uploads/chars/36226-94703176.png)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou` |  |
 | yuuki sorimachi | 反町友树（幽鬼） | ![](https://static.wikia.nocookie.net/shibouyugi/images/b/bb/Yuki_Sorimachi_Portrait_%28Light_Novel%29.png)<br>所属作品：`shibou yuugi de meshi wo kuu.`<br>日语：反町友樹 |  |
 | yasoshina mujina | 八十科貉 | ![](https://www.aogirihighschool.com/images/members/yasoshina-mujina/img-01.png)<br>所属社团：青桐高中（あおぎり高校） |  |
-| anabel | 莉拉（宝可梦） | ![](https://s1.52poke.com/wiki/thumb/6/61/莉拉_SM.png/159px-莉拉_SM.png)<br>所属作品：`pokemon`<br>日文︰リラ | [宝可梦百科](https://wiki.52poke.com/wiki/莉拉) |
+| anabel | 莉拉 | ![](https://s1.52poke.com/wiki/thumb/6/61/莉拉_SM.png/159px-莉拉_SM.png)<br>所属作品：`pokemon`<br>日文︰リラ | [宝可梦百科](https://wiki.52poke.com/wiki/莉拉) |
 | team aqua grunt | 海洋队手下 | ![](https://s1.52poke.com/wiki/thumb/7/78/海洋隊的手下_ORAS.png/250px-海洋隊的手下_ORAS.png)<br>所属作品：`pokemon`<br>日文︰アクアだんしたっぱ | [宝可梦百科](https://wiki.52poke.com/wiki/海洋队手下) |
 | team magma grunt | 熔岩队手下 | ![](https://s1.52poke.com/wiki/thumb/f/f9/熔岩隊的手下_ORAS.png/250px-熔岩隊的手下_ORAS.png)<br>所属作品：`pokemon`<br>日文︰マグマだんのしたっぱ | [宝可梦百科](https://wiki.52poke.com/wiki/熔岩队手下) |
 
