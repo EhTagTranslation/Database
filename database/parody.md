@@ -2727,7 +2727,7 @@ example:
 | disco elysium | 极乐迪斯科 | 《极乐迪斯科》（英语：Disco Elysium），早期被称为《No Truce with the Furies》，是ZA/UM开发的一款都市奇幻类TRPG游戏，其灵感来自各种推理作品。其最终剪辑版于2021年3月30日发布。 | [萌娘百科](https://zh.moegirl.org.cn/极乐迪斯科) |
 | yuusha party wo oidasareta kiyoubinbou | 泛而不精的我被逐出了勇者队伍 | ![](https://upload.wikimedia.org/wikipedia/en/8/86/Yūsha_Party_o_Oidasareta_Kiyōbinbō_light_novel_volume_1_cover.jpg)<br>作者：都神树<br>全名：泛而不精的我被逐出了勇者队伍~因为队伍需要成为赋予术士的原剑士，走向万能之路~<br>日语：勇者パーティを追い出された器用貧乏～パーティ事情で付与術士をやっていた剣士、万能へと至る～ |  |
 | shibou yuugi de meshi wo kuu. | 靠死亡游戏混饭吃 | ![](https://static.wikia.nocookie.net/shibouyugi/images/4/43/Playing_Death_Games_to_Put_Food_on_the_Table_Ghost_House_Game_Visual.png)<br>作者：鹈饲有志<br>日语：死亡遊戯で飯を食う。 | [百度百科](https://baike.baidu.com/item/靠死亡游戏混饭吃。) |
-| toshi densetsu kaitai center | 都市传说解体中心 |  |  |
+| toshi densetsu kaitai center | 都市传说解体中心 | ![](https://lain.bgm.tv/pic/cover/l/cb/a0/445802_U25uR.jpg)<br>开发: 墓场文库 (Hakababunko)<br>别名: Urban Myth Dissolution Center | [Bangumi](https://bgm.tv/subject/445802) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
