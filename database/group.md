@@ -13723,6 +13723,7 @@ example:
 | asuka shinozaki | 飛鳥しのざき |  |  |
 | layer koubou | レイヤー工房 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=126483) \| [X](https://x.com/DI_LE_TO) |
 | amayadorigaeru | 雨宿り蛙 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52158.html) |
+| kyawalog | Kyawalog |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=127082) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
