@@ -13721,6 +13721,7 @@ example:
 | fat cat | FAT CAT |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55023.html) |
 | kyouizon smile | 共依存スマイル |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=43953) |
 | asuka shinozaki | 飛鳥しのざき |  |  |
+| layer koubou | レイヤー工房 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=126483) \| [X](https://x.com/DI_LE_TO) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
