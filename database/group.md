@@ -4955,8 +4955,6 @@ example:
 | galvas | GALVAS |  |  |
 | gamanjiru-ni-chinpaipai | 我☆慢☆汁にチンパイパイ |  |  |
 | game dome | GAME DOME |  |  |
-| game dome ariake | GAME DOME 有明店 |  |  |
-| game dome hamamatsuchouten | GAME DOME 浜松町店 |  |  |
 | game technopolis | GAMEテクノポリス |  |  |
 | gamenhaji | がめんはじ |  |  |
 | gamenhaji no yoru | 画面端の夜 |  |  |
