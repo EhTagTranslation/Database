@@ -14826,6 +14826,7 @@ example:
 | onizuka chris | 鬼塚クリス |  |  |
 | moki-kun | Moki君 |  | [pixiv](https://www.pixiv.net/users/5213710) |
 | horita ahan | 堀田阿伴 |  |  |
+| di le to | DI LE TO |  | [pixiv](https://www.pixiv.net/users/72384494) \| [X](https://x.com/DI_LE_TO) |
 
 <!--TEMPLATE:
 |  |  |  |  |
