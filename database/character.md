@@ -8589,6 +8589,7 @@ example:
 | anabel | 莉拉 | ![](https://s1.52poke.com/wiki/thumb/6/61/莉拉_SM.png/159px-莉拉_SM.png)<br>所属作品：`pokemon`<br>日文︰リラ | [神奇宝贝百科](https://wiki.52poke.com/wiki/莉拉) |
 | team aqua grunt | 海洋队手下 | ![](https://s1.52poke.com/wiki/thumb/7/78/海洋隊的手下_ORAS.png/250px-海洋隊的手下_ORAS.png)<br>所属作品：`pokemon`<br>日文︰アクアだんしたっぱ | [神奇宝贝百科](https://wiki.52poke.com/wiki/海洋队手下) |
 | team magma grunt | 熔岩队手下 | ![](https://s1.52poke.com/wiki/thumb/f/f9/熔岩隊的手下_ORAS.png/250px-熔岩隊的手下_ORAS.png)<br>所属作品：`pokemon`<br>日文︰マグマだんのしたっぱ | [神奇宝贝百科](https://wiki.52poke.com/wiki/熔岩队手下) |
+| rin penrose | Rin Penrose | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/fd/Rin_Penrose_portrait.jpg)<br>所属团体：idol-EN | [YouTube](https://www.youtube.com/@rinpenrose)<br>[Fandom](https://virtualyoutuber.fandom.com/wiki/Rin_Penrose) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
