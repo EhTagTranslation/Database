@@ -14832,6 +14832,7 @@ example:
 | camekame | かめかめ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22かめかめ%22/ana_flg/all) |
 | itokawa | いとかわ |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=いとかわ&text_type=author) |
 | thomson | thomson |  | [FANBOX](https://thomson.fanbox.cc/) \| [X](https://x.com/thomthomson1217) \| [pixiv](https://www.pixiv.net/users/46875307) |
+| kinn | KINN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22KINN%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
