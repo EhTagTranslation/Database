@@ -452,7 +452,7 @@ example:
 | macross | 超时空要塞 |  |  |
 | the super dimension fortress macross | 超时空要塞Macross |  |  |
 | macross 7 | 超时空要塞7 |  |  |
-| macross frontier | 超时空要塞F |  |  |
+| macross frontier | 超时空要塞F | 《超时空要塞 Frontier》（日语：マクロス Frontier）是由河森正治制作的一部动画，并有轻小说、游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/Macross_Frontier) |
 | macross plus | 超时空要塞Plus |  |  |
 | macross delta | 超时空要塞Δ |  |  |
 | macross vf-x | 超时空要塞VF-X |  |  |
