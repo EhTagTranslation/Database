@@ -13727,6 +13727,7 @@ example:
 | mafic | MAFIC |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=219816/) |
 | shiki | しき |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200755/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49162.html) |
 | yousaisha | 幼彩社 | 日语：ようさいしゃ | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01049015.html) |
+| adolescence maru | アドレセンス丸 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01043317.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
