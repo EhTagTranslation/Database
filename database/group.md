@@ -13730,6 +13730,7 @@ example:
 | adolescence maru | アドレセンス丸 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01043317.html) |
 | navy coffee | NAVY COFFEE |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=25378) |
 | atomodori dekinai ten q | 後戻り出来ない点q |  |  |
+| pot detox | ぽっとデトックス |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
