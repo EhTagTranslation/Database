@@ -13725,6 +13725,7 @@ example:
 | amayadorigaeru | 雨宿り蛙 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52158.html) |
 | kyawalog | Kyawalog |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=127082) |
 | mafic | MAFIC |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=219816/) |
+| shiki | しき |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200755/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49162.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
