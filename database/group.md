@@ -8286,7 +8286,7 @@ example:
 | namakura dou | なまくら堂 |  |  |
 | namakura na kura | なまくらな鞍 |  |  |
 | namanama shandy gaff | 生ナマシャンディガフ |  |  |
-| namanamago | ナマナマゴ |  |  |
+| namanamago | ナマナマゴ |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=23378) |
 | namanecotei | 生猫亭 |  |  |
 | namaniku tappuri | 生肉たっぷり |  |  |
 | namashoku de hara kowasu tami | 生食デ腹壊ス民 |  |  |
