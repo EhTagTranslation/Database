@@ -8591,6 +8591,7 @@ example:
 | team magma grunt | 熔岩队手下 | ![](https://s1.52poke.com/wiki/thumb/f/f9/熔岩隊的手下_ORAS.png/250px-熔岩隊的手下_ORAS.png)<br>所属作品：`pokemon`<br>日文︰マグマだんのしたっぱ | [神奇宝贝百科](https://wiki.52poke.com/wiki/熔岩队手下) |
 | rin penrose | Rin Penrose | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/f/fd/Rin_Penrose_portrait.jpg)<br>所属团体：idol-EN | [YouTube](https://www.youtube.com/@rinpenrose)<br>[Fandom](https://virtualyoutuber.fandom.com/wiki/Rin_Penrose) |
 | petra leyte | 佩特拉·雷蒂 | ![](https://ehgt.org/w/02/191/85808-dxfm7m05.webp)<br>出自作品：`p:re zero kara hajimeru isekai seikatsu`<br><br>佩特拉·雷蒂是长月达平所创作的轻小说《Re:从零开始的异世界生活》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/佩特拉·雷蒂) |
+| konoka | 木乃香 | ![](https://storage.moegirl.org.cn/moegirl/commons/6/6e/BA_Konoka.png)<br>出自作品：`p:blue archive`<br><br>木乃香是NEXON Games发行的游戏《蔚蓝档案》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/木乃香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
