@@ -3857,7 +3857,7 @@ example:
 | rumi | 留美 | 留美（日语：ルミ），也译琉美，瑠美，瑠海，《`girls und panzer`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/留美%28少女与战车%29) |
 | mare s. ephemeral | 梅娅·S·艾菲梅拉尔 | 梅娅·S·艾菲梅拉尔是Favorite制作的R18恋爱文字冒险类游戏《`p:hoshizora no memoria`》及其衍生作品的登场角色。<br>![梅娅](https://t.vndb.org/ch/66/40666.jpg)<br>从设定上来讲是`f:alien girl`(Extraterrestrial), 星球的化身(Celestial Body)(比较类似于<`p:rewrite`>中地球的化身`c:kagari`) | [萌娘百科](https://zh.moegirl.org.cn/梅娅·S·艾菲梅拉尔) |
 | loid forger | 劳埃德·福杰 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/9/9c/Loid_Forger_Colored_Full_Body.png)<br>所属作品：`spy x family`<br>西人民共和国的一名间谍，代号黄昏。 | [维基百科](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒) |
-| anna yamada | 山田杏奈 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
+| anna yamada | 山田杏奈 | ![](https://ehgt.org/w/02/236/92484-sv7kiwr6.webp)<br>所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | kyoutarou ichikawa | 市川京太郎 | 所属作品 `p:boku no kokoro no yabai yatsu` |  |
 | pramanix | 初雪 (明日方舟) | ![](https://patchwiki.biligame.com/images/arknights/7/72/f6cnedmrg2wji26n88u8cyx4hmmbs73.png)<br>所属作品`p:arknights` | [gamepress](https://gamepress.gg/arknights/operator/pramanix) [萌娘百科](https://zh.moegirl.org.cn/明日方舟:初雪) |
 | medaka kurokami | 黑神目泷 | ![](https://ehgt.org/w/01/916/21225-v4fhynyr.webp)<br>所属作品：`medaka box` |  |
