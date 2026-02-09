@@ -4480,7 +4480,7 @@ example:
 | bittsu | びっつ |  |  |
 | biwa | 枇杷 |  |  |
 | bizen | 備前 |  |  |
-| bkyu | bkyu |  |  |
+| bkyu | bkyu |  | [X](https://x.com/Bkyusite) \| [FANBOX](https://www.fanbox.cc/@bkyu) |
 | black | ぶらっく |  |  |
 | blackbaka | ブラック馬鹿 |  |  |
 | blackheart | BLACKHEART |  |  |
