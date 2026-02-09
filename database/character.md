@@ -8596,6 +8596,7 @@ example:
 | ranka lee | 兰花·李 | ![](https://ehgt.org/w/01/901/82428-nel5utyv.webp)<br>出自作品：`p:macross frontier`<br><br>兰花·李是动画《超时空要塞Frontier》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰花·李) |
 | umbrosa | 影 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:影) |
 | komaru naegi | 苗木困 | ![](https://p.sda1.dev/30/31bc1144f1b2f371d14e5ac1a58c5ce0/苗木困.webp)<br>苗木困（日语：苗木こまる，民间又译“苗木小丸”）是Spike Chunsoft制作的ADV游戏《弹丸论破系列》及其衍生作品的登场角色。在《绝对绝望少女~弹丸论破外传~》中担任主角。 | [萌娘百科](https://zh.moegirl.org.cn/苗木困) |
+| yuugure | 黄昏 | ![](https://static.wikia.nocookie.net/towa-no-yugure/images/d/d6/Yūgure.png)<br>所属作品：`towa no yugure` | [Fandom](https://towa-no-yugure.fandom.com/wiki/Yūgure) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
