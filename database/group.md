@@ -4135,7 +4135,7 @@ example:
 | dange | 談華 |  |  |
 | danger equals zone | DANGER=ZONE |  |  |
 | dangerous charms | デンジャラス・チャームス |  |  |
-| dangoya | DANGOYA |  |  |
+| dangoya | だんごや |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15789.html) |
 | danikuya-san | 駄肉家さん |  |  |
 | dankon no sato | 男根の里 |  |  |
 | danna | ダンナ |  |  |
