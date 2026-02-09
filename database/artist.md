@@ -7622,7 +7622,7 @@ example:
 | map | まっぷ |  |  |
 | maple-go | maple号 |  |  |
 | mappa | まっぱ |  |  |
-| mapputatsu | マップタツ |  |  |
+| mapputatsu | マップタツ |  | [pixiv](https://www.pixiv.net/users/6628) |
 | marble | マーブル |  |  |
 | mare halberd eye | メアー・ハルベルト・アイ |  |  |
 | mareo | まれお |  |  |
