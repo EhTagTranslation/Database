@@ -14837,6 +14837,7 @@ example:
 | zetto | Zetto |  | [X](https://x.com/ZettoNSFW) |
 | bubu | bubu |  | [FANZA](https://book.dmm.co.jp/list/?author=345724) |
 | hitonama | ひとなま |  |  |
+| rinkopoi | 綸子ぽい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
