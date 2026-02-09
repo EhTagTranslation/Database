@@ -13731,6 +13731,7 @@ example:
 | navy coffee | NAVY COFFEE |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=25378) |
 | atomodori dekinai ten q | 後戻り出来ない点q |  |  |
 | pot detox | ぽっとデトックス |  |  |
+| koumon seikoujo | 校門製鋼所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01051252.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
