@@ -8595,6 +8595,7 @@ example:
 | alto saotome | 早乙女阿尔特 | ![](https://ehgt.org/w/00/290/74552-6xrpo7of.webp)<br>出自作品：`p:macross frontier`<br><br>早乙女阿尔特（日语：早乙女アルト / さおとめアルト）是动画《超时空要塞Frontier》及其衍生作品的登场角色。<br>出身于歌舞伎世家，因为长发与美貌常被误认为美女，15岁时出演的歌舞《樱姬公主》深受好评，其扮演樱姬公主的形象一直至今尚有忠实粉丝存在，因此在校园以及工作场所常被戏称为“公主”。<br>![](https://ehgt.org/w/00/595/84524-kfsek1rp.webp) | [萌娘百科](https://zh.moegirl.org.cn/早乙女阿尔特) |
 | ranka lee | 兰花·李 | ![](https://ehgt.org/w/01/901/82428-nel5utyv.webp)<br>出自作品：`p:macross frontier`<br><br>兰花·李是动画《超时空要塞Frontier》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/兰花·李) |
 | umbrosa | 影 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:影) |
+| komaru naegi | 苗木困 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/49/苗木困.jpg)<br>苗木困（日语：苗木こまる，民间又译“苗木小丸”）是Spike Chunsoft制作的ADV游戏《弹丸论破系列》及其衍生作品的登场角色。在《绝对绝望少女~弹丸论破外传~》中担任主角。 | [萌娘百科](https://zh.moegirl.org.cn/苗木困) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
