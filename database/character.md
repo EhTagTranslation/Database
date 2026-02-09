@@ -8597,7 +8597,7 @@ example:
 | umbrosa | 影 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:影) |
 | komaru naegi | 苗木困 | ![](https://p.sda1.dev/30/31bc1144f1b2f371d14e5ac1a58c5ce0/苗木困.webp)<br>苗木困（日语：苗木こまる，民间又译“苗木小丸”）是Spike Chunsoft制作的ADV游戏《弹丸论破系列》及其衍生作品的登场角色。在《绝对绝望少女~弹丸论破外传~》中担任主角。 | [萌娘百科](https://zh.moegirl.org.cn/苗木困) |
 | yuugure | 黄昏 | ![](https://static.wikia.nocookie.net/towa-no-yugure/images/d/d6/Yūgure.png)<br>所属作品：`towa no yugure` | [Fandom](https://towa-no-yugure.fandom.com/wiki/Yūgure) |
-| orpheus | 奥尔菲斯 | ![](https://patchwiki.biligame.com/images/dwrg/2/2a/egg9hox5nipdhks2u7vsjiwyxdu69km.png)<br>出自作品：`p:identity v`<br><br>奥尔菲斯是由网易游戏所制作的游戏《第五人格》中的登场角色，主线剧情的男主角。<br>大名鼎鼎的小说家“奥尔菲斯”，没有人知道他的过去，甚至，可能包括他自己。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/“奥尔菲斯”) |
+| orpheus | 奥尔菲斯 | ![](https://patchwiki.biligame.com/images/dwrg/2/2a/egg9hox5nipdhks2u7vsjiwyxdu69km.png)<br>出自作品：`p:identity v`<br><br>奥尔菲斯是由网易游戏所制作的游戏《第五人格》中的登场角色，主线剧情的男主角。<br>大名鼎鼎的小说家“奥尔菲斯”，没有人知道他的过去，甚至，可能包括他自己。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/“奥尔菲斯”) \| [萌娘百科](https://zh.moegirl.org.cn/小说家%28第五人格%29#) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
