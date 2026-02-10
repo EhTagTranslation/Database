@@ -14847,6 +14847,7 @@ example:
 | kametaro | かめたろ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=28cd42de-0489-4487-8b6e-37e08a1d9579/section=mens/) |
 | sahara maddam | 砂原まだむ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22砂原まだむ%22/ana_flg/all) |
 | mouika | MOUIKA |  | [FANBOX](https://www.fanbox.cc/@mouika) \| [Fantia](https://fantia.jp/carrotshelter) \| [DLsite](https://ci-en.dlsite.com/creator/7255) \| [pixiv](https://www.pixiv.net/users/42198500) |
+| matoba ryou | 的場りょう |  | [X](https://x.com/phyrexia_matoba) \| [pixiv](https://www.pixiv.net/users/2113355) |
 
 <!--TEMPLATE:
 |  |  |  |  |
