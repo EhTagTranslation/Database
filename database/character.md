@@ -8602,6 +8602,7 @@ example:
 | kuriru wakasagi | 鰙久里留 | ![](https://kinishite.com/assets/img/chara/chara4_stand.png)<br>所属作品：`kirei ni shite moraemasu ka.` | [百度百科](https://baike.baidu.com/item/鰙久里留/67061048) |
 | nurugai | 濡亥 | ![](https://static.wikia.nocookie.net/jigokuraku/images/b/bf/Nurugai_Anime_Concept_Art.png)<br>所属作品：`jigokuraku`<br>日语：ヌルガイ | [Fandom](https://jigokuraku.fandom.com/wiki/Nurugai) |
 | chen qianyu | 陈千语 | ![](https://static.wikia.nocookie.net/endfield/images/5/5f/Operators_Chen_Qianyu.png)<br>所属作品：`arknights endfield` |  |
+| gilberta | 洁尔佩塔 | ![](https://static.wikia.nocookie.net/endfield/images/2/29/Operators_Gilberta.png)<br>所属作品：`arknights endfield` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
