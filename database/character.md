@@ -8607,6 +8607,7 @@ example:
 | camilla pareto | 卡蜜拉·帕蕾特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/f9/35525_crt_04gXX.jpg?r=1447088580)<br>所属作品：`gakusen toshi asterisk`<br>日语：カミラ・パレート | [Fandom](https://asterisk.fandom.com/wiki/Camilla_Pareto) |
 | ernesta kuhne | 艾涅斯妲·裘奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3e/94/35524_crt_rRNQe.jpg)<br>所属作品：`gakusen toshi asterisk` | [Fandom](https://asterisk.fandom.com/wiki/Ernesta_Kühne) |
 | fan xinglou | 范星露 | ![](https://lain.bgm.tv/r/400/pic/crt/l/67/d9/36640_crt_N4X0y.jpg)<br>所属作品：`gakusen toshi asterisk`<br>日文名 ：ファン・シンルー | [Fandom](https://asterisk.fandom.com/wiki/Fan_Xinglou) |
+| irene urzaiz | 依蕾奈·兀儿塞斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/78/18/35526_crt_kcYtf.jpg)<br>所属作品：`gakusen toshi asterisk`<br>日语：イレーネ・ウルサイス | [Fandom](https://asterisk.fandom.com/wiki/Irene_Urzaiz) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
