@@ -6705,7 +6705,7 @@ example:
 | angelina | 安洁莉娜 | 注意，明日方舟中的安洁莉娜请使用tag安心院安洁莉娜（ `angelina ajimu`） |  |
 | ban | 班 | `p:nanatsu no taizai` |  |
 | cacao | 可可 | `p:knights of ramune` |  |
-| rika hoshizaki | 星崎理香 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/1/1d/星崎理香character.png/270px-星崎理香character.png) | [萌娘百科](https://zh.moegirl.org.cn/星崎理香) |
+| rika hoshizaki | 星崎理香 | ![](https://img.moegirl.org.cn/common/thumb/1/1d/星崎理香character.png/270px-星崎理香character.png)<br>所属作品`kanojo mo kanojo` | [萌娘百科](https://zh.moegirl.org.cn/星崎理香) |
 | saki saki | 佐木咲 | 所属作品`kanojo mo kanojo`<br>![](https://img.moegirl.org.cn/common/thumb/d/d7/佐木咲character.png/195px-佐木咲character.png) | [萌娘百科](https://zh.moegirl.org.cn/佐木咲) |
 | coquelic | 可可莉克 | ![](https://patchwiki.biligame.com/images/wqmt/thumb/a/a9/n10bokg8e8oolpq1cihwq6ddds9hpa8.png/480px-可可莉克立绘.png)<br>《无期迷途》中出场角色 | [无期迷途WIKI](https://wiki.biligame.com/wqmt/禁闭者:可可莉克) |
 | mint fantome | Mint Fantôme | Mint Fantôme是一名个人势虚拟主播，2020年7月24日首次在YouTube上进行直播。2021年4月3日宣布毕业后，于2024年4月1日宣布再次开始活动。<br><br>在一家废弃的女仆咖啡厅里，终日以鬼魂的形态缠扰他人。 | [萌娘百科](https://zh.moegirl.org.cn/Mint_Fantome) [Fandom](https://virtualyoutuber.fandom.com/wiki/Mint_Fantôme) |
