@@ -6280,7 +6280,7 @@ example:
 | claudia enfield | 克劳蒂雅·恩菲尔德 | ![](https://ehgt.org/w/02/196/09547-akgqwq7l.webp)<br>所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/克劳蒂雅·恩菲尔德) |
 | julis-alexia von riessfeld | 尤莉丝·爱雷克西亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d2/67/32364_crt_77iG7.jpg)<br>所属作品: `p:gakusen toshi asterisk`<br>全名：尤莉丝·爱雷克西亚·冯·里斯妃特<br>纯假名 ：ユリス＝アレクシア・ フォン・リースフェルト | [萌娘百科](https://zh.moegirl.org.cn/尤莉丝·爱雷克西亚·冯·里斯妃特) |
 | kirin toudou | 刀藤绮凛 | ![](https://lain.bgm.tv/r/400/pic/crt/l/86/75/32367_crt_L7xYI.jpg)<br>所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/刀藤绮凛) |
-| saya sasamiya | 沙沙宫纱夜 | 所属作品: `p:gakusen toshi asterisk` | [萌娘百科](https://zh.moegirl.org.cn/沙沙宫纱夜) |
+| saya sasamiya | 沙沙宫纱夜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5e/f2/32365_crt_Jet0R.jpg)<br>所属作品: `p:gakusen toshi asterisk`<br>日语：沙々宮 紗夜 | [萌娘百科](https://zh.moegirl.org.cn/沙沙宫纱夜) |
 | nephelia | 涅菲莉亚 | 所属作品: `p:maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii` | [萌娘百科](https://zh.moegirl.org.cn/涅菲莉亚) |
 | kyouko hori | 堀京子 | ![](https://static.wikia.nocookie.net/horimiya/images/b/b3/Kyouko_Hori_profile.png)<br>所属作品: `horimiya` | [萌娘百科](https://zh.moegirl.org.cn/堀京子) |
 | mutsuki shindou | 进藤睦月 | 所属作品: `p:mizuiro`<br><br>蓝色短发。戴着风中飘舞的红丝带。眼睛是红色的。<br>8月14日出生。AB型血，身高159cm。三围B84/W57/H83。<br>和皋月是双胞胎姐妹。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/みずいろ#主な登場人物) [萌娘百科](https://zh.moegirl.org.cn/水色#STAFF) |
