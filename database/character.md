@@ -5216,7 +5216,7 @@ example:
 | mr. mason wolf | 狼先生 | 狼先生（Mr. Wolf）<br>“坏蛋联盟”成员之一，开车高手，拥有一台黑色跑车，计划每次联盟进行抢劫、盗窃等的行动计划，希望藉着盗取“年度最佳好人奖”奖杯：金色海豚，以名留青史。 | [维基百科](https://zh.wikipedia.org/wiki/壞蛋聯盟) |
 | shion karanomori | 唐之杜志恩 | CV：泽城美雪<br>安全局刑事课综合分析室的分析官。<br>利用各种各样的情报分析数据来支援并辅佐执行官、监视官们的搜查行动，曾被狡啮慎也称为“情报女神”。<br>是一位健谈的魔鬼身材美女，同时自己也是一名潜在犯。<br>与六合冢弥生是一对女同恋人。<br>![](https://cdn.suruga-ya.com/database/pics_light/game/gl836198.jpg) |  |
 | sagiri yamada asaemon | 山田浅卫门佐切 | ![](https://static.wikia.nocookie.net/jigokuraku/images/c/c9/Grand_Summoners_Sagiri.png)<br>所属作品：`jigokuraku` |  |
-| garan no gabimaru | 画眉丸 | 漫画《地狱乐》及其衍生作品中登场的男角色，是最强忍者，素有无心画眉丸之称。<br><br>忍术高超，人见人怕，却因为背叛、逃离师门而被捕入狱，并被判了死刑，但因对自己妻子有极高思慕之心而得以在众多酷刑下存活。<br><br>后答应左切请求，为再次与妻子结相见，选择与其他死刑犯踏上了寻找长生药的旅途。 |  |
+| garan no gabimaru | 画眉丸 | ![](https://static.wikia.nocookie.net/jigokuraku/images/a/a5/Gabimaru_Anime_Concept_Art.png)<br>所属作品：`jigokuraku` | [Fandom](https://jigokuraku.fandom.com/wiki/Gabimaru) |
 | azki | AZKi | ![](https://ehgt.org/w/01/951/78628-iq53g476.webp)<br>所属团体：`hololive` |  |
 | jade chan | 小玉 | 《成龙历险记》中的小玉 | [Fandom](https://hero.fandom.com/wiki/Jade_Chan) |
 | alex power | 亚历山大·鲍尔 |  |  |
