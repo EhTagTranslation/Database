@@ -2729,6 +2729,7 @@ example:
 | shibou yuugi de meshi wo kuu. | 靠死亡游戏混饭吃 | ![](https://static.wikia.nocookie.net/shibouyugi/images/4/43/Playing_Death_Games_to_Put_Food_on_the_Table_Ghost_House_Game_Visual.png)<br>作者：鹈饲有志<br>日语：死亡遊戯で飯を食う。 | [百度百科](https://baike.baidu.com/item/靠死亡游戏混饭吃。) |
 | toshi densetsu kaitai center | 都市传说解体中心 | ![](https://lain.bgm.tv/pic/cover/l/cb/a0/445802_U25uR.jpg)<br>开发: 墓场文库 (Hakababunko)<br>别名: Urban Myth Dissolution Center | [Bangumi](https://bgm.tv/subject/445802) |
 | heroes battle disk densetsu | 英雄:战斗盘传说 | ![](https://upload.wikimedia.org/wikipedia/en/b/b2/Heroes_legend_of_the_battle_disks_anime_key_art.jpg)<br>日语：ヒーローズ ～バトルディスク伝<br>制作：旭Production | [百度百科](https://baike.baidu.com/item/HEROES：战斗盘传说) |
+| kirei ni shite moraemasu ka. | 可以帮忙洗干净吗？ | ![](https://upload.wikimedia.org/wikipedia/zh/6/6a/Kirei_ni_Shite_Moraemasu_ka.png)<br>日语：綺麗にしてもらえますか |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
