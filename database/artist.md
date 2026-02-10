@@ -9388,7 +9388,7 @@ example:
 | raitei | 雷丁 |  |  |
 | raiun | らいうん |  |  |
 | rajii | らじー |  |  |
-| rakia | rakiA |  | [pixiv](https://www.pixiv.net/users/3122206) |
+| rakia | rakiA |  | [pixiv](https://www.pixiv.net/users/3122206) \| [X](https://x.com/rakiA00309) \| [Fantia](https://fantia.jp/fanclubs/6891) \| [Patreon](https://patreon.com/rakiA_00309) \| [FANBOX](https://rakia00309.fanbox.cc) \| [Skeb](https://skeb.jp/@rakiA00309) |
 | rakko | らっこ |  |  |
 | rakkyo | ラッキョ |  |  |
 | rakuda torino | 楽田トリノ |  |  |
