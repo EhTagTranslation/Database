@@ -2730,6 +2730,7 @@ example:
 | toshi densetsu kaitai center | 都市传说解体中心 | ![](https://lain.bgm.tv/pic/cover/l/cb/a0/445802_U25uR.jpg)<br>开发: 墓场文库 (Hakababunko)<br>别名: Urban Myth Dissolution Center | [Bangumi](https://bgm.tv/subject/445802) |
 | heroes battle disk densetsu | 英雄:战斗盘传说 | ![](https://upload.wikimedia.org/wikipedia/en/b/b2/Heroes_legend_of_the_battle_disks_anime_key_art.jpg)<br>日语：ヒーローズ ～バトルディスク伝<br>制作：旭Production | [百度百科](https://baike.baidu.com/item/HEROES：战斗盘传说) |
 | kirei ni shite moraemasu ka. | 可以帮忙洗干净吗？ | ![](https://upload.wikimedia.org/wikipedia/zh/6/6a/Kirei_ni_Shite_Moraemasu_ka.png)<br>日语：綺麗にしてもらえますか |  |
+| komori-san wa kotowarenai | 小森拒不了！ | 《小森拒不了！》（日语：小森さんは断れない！）是由クール教信者创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/小森拒不了！) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
