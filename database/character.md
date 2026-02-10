@@ -8605,6 +8605,7 @@ example:
 | gilberta | 洁尔佩塔 | ![](https://static.wikia.nocookie.net/endfield/images/2/29/Operators_Gilberta.png)<br>所属作品：`arknights endfield` | [萌娘百科](https://zh.moegirl.org.cn/洁尔佩塔) |
 | ty lee | 泰丽 | ![](https://ehgt.org/w/01/897/20001-ohwa3oua.webp)<br>所属作品：`avatar the last airbender` | [百度百科](https://baike.baidu.com/item/泰丽/63864805) |
 | camilla pareto | 卡蜜拉·帕蕾特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/f9/35525_crt_04gXX.jpg?r=1447088580)<br>所属作品：`gakusen toshi asterisk`<br>日语：カミラ・パレート | [Fandom](https://asterisk.fandom.com/wiki/Camilla_Pareto) |
+| ernesta kuhne | 艾涅斯妲·裘奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/3e/94/35524_crt_rRNQe.jpg)<br>所属作品：`gakusen toshi asterisk` | [Fandom](https://asterisk.fandom.com/wiki/Ernesta_Kühne) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
