@@ -14843,6 +14843,7 @@ example:
 | shiro paka | シロパカ |  | [FANBOX](https://whitepakaillust.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/54436885) \| [X](https://x.com/whitepakaillust) \| [Skeb](https://skeb.jp/@whitepakaillust) |
 | dangorou | だんごろう |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22だんごろう%22/ana_flg/all) |
 | tomi8tky | tomi8tky |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22tomi8tky%22/ana_flg/all) |
+| aisu mochi | あいすもち |  | [pixiv](https://www.pixiv.net/users/85059555) |
 
 <!--TEMPLATE:
 |  |  |  |  |
