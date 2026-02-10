@@ -8600,6 +8600,7 @@ example:
 | orpheus | 奥尔菲斯 | ![](https://patchwiki.biligame.com/images/dwrg/2/2a/egg9hox5nipdhks2u7vsjiwyxdu69km.png)<br>出自作品：`p:identity v`<br><br>奥尔菲斯是由网易游戏所制作的游戏《第五人格》中的登场角色，主线剧情的男主角。<br>大名鼎鼎的小说家“奥尔菲斯”，没有人知道他的过去，甚至，可能包括他自己。 | [BILIGAME WIKI](https://wiki.biligame.com/dwrg/“奥尔菲斯”) \| [萌娘百科](https://zh.moegirl.org.cn/小说家%28第五人格%29#) |
 | wakana kinme | 金目绵花奈 | ![](https://kinishite.com/assets/img/chara/chara1_stand.png)<br>所属作品：`kirei ni shite moraemasu ka.` | [百度百科](https://baike.baidu.com/item/金目绵花奈) |
 | kuriru wakasagi | 鰙久里留 | ![](https://kinishite.com/assets/img/chara/chara4_stand.png)<br>所属作品：`kirei ni shite moraemasu ka.` | [百度百科](https://baike.baidu.com/item/鰙久里留/67061048) |
+| nurugai | 濡亥 | ![](https://static.wikia.nocookie.net/jigokuraku/images/b/bf/Nurugai_Anime_Concept_Art.png)<br>所属作品：`jigokuraku`<br>日语：ヌルガイ | [Fandom](https://jigokuraku.fandom.com/wiki/Nurugai) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
