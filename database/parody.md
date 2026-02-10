@@ -2005,7 +2005,7 @@ example:
 | drifters | 漂流武士 | ![](https://p.sda1.dev/7/0611e7818ac4349d3b92f469e8feaf67/Drifters_volume_1_cover_1_.jpg)<br>《漂流武士》是平野耕太的青年漫画作品，在少年画报社的月刊漫画《YOUNG KING OURs》上自2009年6月号开始连载。2015年9月18日释出动画预告，电视动画于2016年10月开始播放。 | [Fandom](https://drifters.fandom.com/wiki/Drifters_%28manga%29) [维基百科](https://zh.wikipedia.org/wiki/漂流武士) |
 | counter side | Counter:Side | 《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。 | [HP](https://counterside.zlongame.com/) |
 | kunoichi tsubaki no mune no uchi | 女忍者椿的心事 |  | [萌娘百科](https://zh.moegirl.org.cn/女忍者椿的心事) |
-| kanojo mo kanojo | 女友成双（女友成堆） | ヒロユキ连载的一部漫画，并有改编动画。<br>![](https://kanokano-anime.com/1st/assets/img/mv-img@2x.png) | [萌娘百科](https://zh.moegirl.org.cn/女友成双) |
+| kanojo mo kanojo | 女友成双 | ![](https://kanokano-anime.com/1st/assets/img/mv-img@2x.png)<br>ヒロユキ连载的一部漫画，并有改编动画。别译：女友成堆 | [萌娘百科](https://zh.moegirl.org.cn/女友成双) |
 | ero trap dungeon | 色情迷宫 | 充满色情陷阱的迷宫，往往伴随着探索过程触发的各种色色道具 | [vndb](https://vndb.org/v29748.2) |
 | yofukashi no uta | 彻夜之歌 |  | [萌娘百科](https://zh.moegirl.org.cn/彻夜之歌) |
 | zannen onna kanbu black general-san | 遗憾女干部黑暗将军小姐 |  | [萌娘百科](https://zh.moegirl.org.cn/遗憾女干部黑暗将军小姐) |
