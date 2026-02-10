@@ -13732,6 +13732,7 @@ example:
 | atomodori dekinai ten q | 後戻り出来ない点q |  |  |
 | pot detox | ぽっとデトックス |  |  |
 | koumon seikoujo | 校門製鋼所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01051252.html) |
+| daisakyuu | 大砂丘 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062927.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
