@@ -8610,6 +8610,7 @@ example:
 | irene urzaiz | 依蕾奈·兀儿塞斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/78/18/35526_crt_kcYtf.jpg)<br>所属作品：`gakusen toshi asterisk`<br>日语：イレーネ・ウルサイス | [Fandom](https://asterisk.fandom.com/wiki/Irene_Urzaiz) |
 | pham thi tram | 芳亭常 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d5/b3/38093_crt_RW5eq.jpg)<br>所属作品：`gakusen toshi asterisk`<br>日语：ファム・ティ・チャム |  |
 | priscilla urzaiz | 普莉熙拉·兀儿塞斯 | ![](https://lain.bgm.tv/r/400/pic/crt/l/85/76/35527_crt_2dRdW.jpg)<br>所属作品：`gakusen toshi asterisk`<br>日语：プリシラ・ウルサイス |  |
+| zhao hufeng | 赵虎峰 | ![](https://static.wikia.nocookie.net/gakusen-toshi-asterisk/images/2/2b/Zhao_Hufeng_Anime.png)<br>所属作品：`gakusen toshi asterisk` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
