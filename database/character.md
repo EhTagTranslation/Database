@@ -3718,7 +3718,7 @@ example:
 | hibiki tachibana | 立花响 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/7c/Hibiki_gear_XV.png)<br>立花响是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/立花响) |
 | miku kohinata | 小日向未来 | 小日向未来是《`p:senki zesshou symphogear`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小日向未来) |
 | gardevoir | 沙奈朵 | ![](https://ehgt.org/w/00/779/01884-8chhmzuk.webp)<br>出自作品：`p:pokemon`<br><br>沙奈朵（日语：サーナイト，英语：Gardevoir）是宝可梦系列登场的宝可梦之一，最初登场于《宝可梦 红宝石／蓝宝石》。 | [萌娘百科](https://zh.moegirl.org.cn/沙奈朵) |
-| celestine lucullus | 塞蕾斯汀·卢库勒斯 | ![](https://i.pixiv.cat/img-master/img/2025/02/16/22/08/04/127308502_p0_master1200.jpg)<br>塞蕾斯汀·卢库勒斯（原名：セレスティン（Celestin）·ルクルス（Lucullus））是Liquid公司于2010年4月23日发表的18禁ADV游戏《黑兽》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/塞蕾斯汀·卢库勒斯) |
+| celestine lucullus | 塞蕾斯汀·卢库勒斯 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/3/3c/Serafina_Renatus.png)<br>所属作品：`kuroinu kedakaki seijo wa hakudaku ni somaru`<br>日语：セレスティン·ルクルス | [萌娘百科](https://zh.moegirl.org.cn/塞蕾斯汀·卢库勒斯) |
 | lucario | 路卡利欧 | ![](https://s1.52poke.com/wiki/thumb/d/d7/448Lucario.png/300px-448Lucario.png)<br>所属作品：`pokemon`<br>日文︰ルカリオ | [神奇宝贝百科](https://wiki.52poke.com/wiki/路卡利欧) |
 | eren jaeger | 艾伦·耶格尔 |  |  |
 | mikasa ackerman | 三笠·阿克曼 | 三笠·阿克曼是谏山创创作的漫画《进击的巨人》及其衍生作品中的登场角色，女主角。<br>![](https://img.moegirl.org.cn/common/3/3c/140805978669305.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三笠·阿克曼) |
