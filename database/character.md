@@ -3960,7 +3960,7 @@ example:
 | sayu ogiwara | 荻原沙优 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/荻原沙优) |
 | airi gotou | 后藤爱依梨 | 所属作品：`p:hige o soru. soshite joshikousei o hirou.` | [萌娘百科](https://zh.moegirl.org.cn/后藤爱依梨) |
 | dark elven forest ranger | 暗黑精灵森林游侠 | ![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1856/h_2028/245/103682/2025/3/3/343561.webp)<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_1199/h_1986/245/103682/2025/3/9/312035.png)<br>所属作品：`p:last origin` |  |
-| kie kamado | 灶门葵枝 | ![](https://ehgt.org/w/02/005/38475-p026tr6h.webp)<br>所属作品：`p:kimetsu no yaiba`<br>日语：竈門葵枝（かまどきえ） | [萌娘百科](https://zh.moegirl.org.cn/灶门葵枝) |
+| kie kamado | 灶门葵枝 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/a/a7/Kie_Kamado_anime.png)<br>所属作品：`p:kimetsu no yaiba`<br>日语：竈門葵枝（かまどきえ） | [萌娘百科](https://zh.moegirl.org.cn/灶门葵枝) |
 | watson amelia | 阿米莉亚·华生 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/97/Watson_Amelia_Portrait.png) | [维基百科](https://zh.wikipedia.org/wiki/華生·艾米莉亞) [Fandom](https://virtualyoutuber.fandom.com/wiki/Watson_Amelia) |
 | edmond dantes | 爱德蒙·唐泰斯（岩窟王） |  | [FGO中文wiki](https://fgo.wiki/w/岩窟王) [萌娘百科](https://zh.moegirl.org.cn/爱德蒙·唐泰斯%28Fate%29#) |
 | ariane glenys maple | 阿里安 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b6/ab/94899_crt_DDBad.jpg)<br>所属作品：`gaikotsu kishi-sama tadaima isekai e odekakechuu` | [Fandom](https://skeleton-knight-in-another-world.fandom.com/wiki/Ariane) |
