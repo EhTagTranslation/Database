@@ -5833,7 +5833,7 @@ example:
 | hisakabe oto | 久壁おと |  |  |
 | hisame | 氷雨 |  |  |
 | hisame genta | 氷雨げんた |  |  |
-| hisano | ひさの |  |  |
+| hisano | ひさの |  | [pixiv](https://www.pixiv.net/users/17422240) |
 | hisaya | 久夜 |  |  |
 | hisayakiq | ひさやききゅう |  |  |
 | hishimori | 菱守 |  |  |
