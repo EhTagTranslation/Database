@@ -8517,7 +8517,7 @@ example:
 | nanatsu nemu | 七夏ねむ |  |  |
 | nanbu arata | 南部新 |  |  |
 | nandaba | ナンダバ |  |  |
-| naniwadou matatabi | 浪花道またたび |  |  |
+| naniwadou matatabi | 浪花道またたび |  | [pixiv](https://www.pixiv.net/users/1045295) |
 | nankai no sizimi | 南海のしぢみ |  |  |
 | nankakureman | なんかくれまん |  |  |
 | nankin maachan | 南京まーちゃん |  |  |
