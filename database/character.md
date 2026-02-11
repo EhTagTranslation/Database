@@ -3952,7 +3952,7 @@ example:
 | yoshika miyafuji | 宫藤芳佳 | 所属作品：`p:strike witches`<br><br>![图](https://ehgt.org/72/d0/72d05c501f31f3033592aca3853ef833d8b4ef27-190046-375-700-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/宫藤芳佳) [Fandom](https://worldwitches.fandom.com/wiki/Miyafuji_Yoshika) |
 | yoruichi shihoin | 四枫院夜一 | ![](https://img.moegirl.org.cn/common/b/b9/四枫院夜一02.jpg)<br>《`bleach`》中的角色，原护廷十三队二番队队长兼前隐秘机动总司令，同第一分队刑军总括军团长，也是尸魂界四大贵族之一四枫院家的第二十二代当家。 | [萌娘百科](https://zh.moegirl.org.cn/四枫院夜一) |
 | tia halibel | 蒂雅·赫丽贝尔 |  |  |
-| muzan kibutsuji | 鬼舞辻无惨 |  |  |
+| muzan kibutsuji | 鬼舞辻无惨 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/6/62/Muzan_Anime_2_%28HTA%29.png)<br>出自作品：`p:kimetsu no yaiba`<br>日语：鬼舞辻無惨 （きぶつじ む） | [Fandom](https://kimetsu-no-yaiba.fandom.com/wiki/Muzan_Kibutsuji) |
 | karna | 迦尔纳 |  | [萌娘百科](https://zh.moegirl.org.cn/迦尔纳%28Fate%29#) |
 | victorique de blois | 维多利加 | 所属作品：`p:gosick`<br><br>维多利加·德·布洛瓦是小说《`p:gosick`》及其衍生作品的女主角。金发绿瞳，有着宛如陶瓷娃娃般美丽容颜的娇小少女<br><br>2012年世萌 常规赛新星组排名第十四位<br>2014年世萌 紫水晶饰品获得者<br><br>![图](https://ehgt.org/dd/0c/dd0cff6ab8b935ac30cd27df7289b717efeccdd7-140371-480-648-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/维多利加·德·布洛瓦) |
 | kazuya kujou | 久城一弥 | 所属作品：`gosick`<br>![图](https://ehgt.org/86/e2/86e2c16c97f88af3f7cf68f960c70998b06215c7-48145-606-518-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/久城一弥) [Fandom](https://gosick.fandom.com/wiki/Kazuya_Kujō) |
