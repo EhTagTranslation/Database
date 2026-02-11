@@ -14852,6 +14852,7 @@ example:
 | 50ling | 50LING |  | [pixiv](https://www.pixiv.net/users/56917590) \| [Patreon](https://www.patreon.com/50ling) \| [FANBOX](https://linghua50.fanbox.cc/) |
 | nush | ナッシュ |  | [X](https://x.com/nush_advance) \| [pixiv](https://www.pixiv.net/users/7894733) \| [FANBOX](https://nush-advance.fanbox.cc/) |
 | fusha | ふ射 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ふ射%22/ana_flg/all) |
+| natsukaze shigure | 夏風シグレ |  | [pixiv](https://www.pixiv.net/users/17866902) \| [Skeb](https://skeb.jp/@sigure_dd142) \| [X](https://x.com/sigure_dd142) |
 
 <!--TEMPLATE:
 |  |  |  |  |
