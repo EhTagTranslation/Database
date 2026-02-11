@@ -5009,7 +5009,7 @@ example:
 | fiona | 菲欧娜 | 游戏《死或生：沙滩排球 女神假期》新加入的原创女性角色。年龄18岁，身高152cm，身材88 55 84，生日2月11，血型O型。 |  |
 | cai wenji | 蔡文姬 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | diao chan | 貂蝉 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
-| lian shi | 步练师 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
+| lian shi | 步练师 | ![](https://static.wikia.nocookie.net/dynastywarriors/images/1/14/Lianshi_Artwork_%28DW9%29.png)<br>所属作品：`dynasty warriors` |  |
 | aciddrop | 酸糖 | ![](https://patchwiki.biligame.com/images/arknights/0/0d/41or0cmg4s7aq2f0ihxsdrlu9lf7fkj.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/酸糖](https://prts.wiki/w/酸糖) |
 | claudia | Claudia | 「神羅万象チョコ」シリーズに登場するキャラクター。 | [pixiv](https://dic.pixiv.net/a/クラウディア%28神羅万象%29) |
 | kozue otomune | 乙宗梢 | 乙宗梢（日语：乙宗 梢，罗马字：Otomune Kozue）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![乙宗梢](https://img.moegirl.org.cn/common/thumb/9/9f/Kozue_img.png/280px-Kozue_img.png) | [萌娘百科](https://zh.moegirl.org.cn/乙宗梢) [Fandom](https://love-live.fandom.com/wiki/Kozue_Otomune) |
