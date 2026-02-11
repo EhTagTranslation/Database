@@ -8613,6 +8613,7 @@ example:
 | zhao hufeng | 赵虎峰 | ![](https://static.wikia.nocookie.net/gakusen-toshi-asterisk/images/2/2b/Zhao_Hufeng_Anime.png)<br>所属作品：`gakusen toshi asterisk` |  |
 | violet weinberg | 瓦尔蕾特·温伯格 | ![](https://static.wikia.nocookie.net/gakusen-toshi-asterisk/images/8/85/Violet_Weinberg_4.jpg)<br>所属作品：`gakusen toshi asterisk`<br>日语：ヴァイオレット・ワインバーグ | [https://bangumi.tv/character/37044](https://bangumi.tv/character/37044) |
 | shuri komori | 小森朱里 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/93/KomoriShuri.jpg)<br>出自作品：`p:komori-san wa kotowarenai`<br><br>小森朱里（日语：小森しゅり / こもりしゅり）是クール教信者所创作的漫画《小森拒不了！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小森朱里) |
+| amane ubuyashiki | 产屋敷天音 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e0/Amane_Ubuyashiki_%28Anime%29.png)<br>出自作品：`p:kimetsu no yaiba` | [百度百科](https://baike.baidu.com/item/产屋敷天音) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
