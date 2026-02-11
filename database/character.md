@@ -984,7 +984,7 @@ example:
 | luste teuber | 露斯特·特依巴 | 乐天派。对她来说战斗也是玩耍。过着今朝有酒今朝醉的生活，用天真无邪来形容再合适不过了。听Tia的话，但有时也很任性。喜欢蕃茄汁。 |  |
 | spiritia rosenberg | 斯匹莉缇娅·罗森伯格 | 本游戏主人公。性格正直坦率的少女。昵称Tia。拥有RKS首屈一指的战斗能力，连帝国军也要敬她三分。虽有些笨手笨脚，但却是非常热心的人。极不擅长游泳。 |  |
 |  | ▼ 我的青春恋爱物语果然有问题 角色 |  |  |
-| yui yuigahama | 由比滨结衣 | ![](https://img.moegirl.org.cn/common/1/10/Pixiv_31616509_はまち_ぽんかん⑧.jpg)<br>《我的青春恋爱物语果然有问题》女主角之一，侍奉部成员，总武高中2年F班，大老师的同班同学。 | [萌娘百科](https://zh.moegirl.org.cn/由比滨结衣) |
+| yui yuigahama | 由比滨结衣 | ![](https://img.moegirl.org.cn/common/1/10/Pixiv_31616509_はまち_ぽんかん⑧.jpg)<br>所属作品：`yahari ore no seishun love come wa machigatteiru` | [萌娘百科](https://zh.moegirl.org.cn/由比滨结衣) |
 | hachiman hikigaya | 比企谷八幡 | ![比企谷八幡](https://ehgt.org/3c/c9/3cc9d8c6ab2160cd9929b076cb551dba0b9e5f35-113039-960-544-jpg_l.jpg) |  |
 | komachi hikigaya | 比企谷小町 |  |  |
 | saki kawasaki | 川崎沙希 |  |  |
