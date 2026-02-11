@@ -13735,6 +13735,7 @@ example:
 | daisakyuu | 大砂丘 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062927.html) |
 | full exist | フルイスエミ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202915/) |
 | nyarisu | にゃりす |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200204/) |
+| fusha fusha kingdom | ふしゃふしゃ王国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01025190.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
