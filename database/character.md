@@ -8615,6 +8615,7 @@ example:
 | shuri komori | 小森朱里 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/93/KomoriShuri.jpg)<br>出自作品：`p:komori-san wa kotowarenai`<br><br>小森朱里（日语：小森しゅり / こもりしゅり）是クール教信者所创作的漫画《小森拒不了！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/小森朱里) |
 | amane ubuyashiki | 产屋敷天音 | ![](https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/e/e0/Amane_Ubuyashiki_%28Anime%29.png)<br>出自作品：`p:kimetsu no yaiba` | [百度百科](https://baike.baidu.com/item/产屋敷天音) |
 | joseph desaulniers | 约瑟夫·德拉索恩斯 | ![](https://static.wikia.nocookie.net/id5/images/2/2f/Photographer.png)<br>出自作品：`p:identity v`<br><br>约瑟夫·德拉索恩斯是由网易游戏所制作的游戏《第五人格》中的登场角色。约瑟夫·德拉索恩斯曾是当地受人尊敬的乡绅，富有、举止优雅并拥有迷人的异国口音，人们乐意为这位老绅士的个人爱好充当模特，但随着约瑟夫的摄影作品增加，村庄中的人却越来越少。看起来这位摄影师通过快门收集了一些容貌之外的东西。 | [萌娘百科](https://zh.moegirl.org.cn/摄影师%28第五人格%29#) \| [Fandom](https://id5.fandom.com/wiki/Photographer) |
+| vera nair | 薇拉·奈尔 | ![](https://static.wikia.nocookie.net/id5/images/3/31/Perfumer.png)<br>出自作品：`p:identity v`<br><br>薇拉·奈尔是由网易游戏所制作的游戏《第五人格》中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/调香师%28第五人格%29) \| [Fandom](https://id5.fandom.com/wiki/Perfumer) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
