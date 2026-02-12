@@ -14862,6 +14862,7 @@ example:
 | namaitati | ナマイタチ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ナマイタチ%22/ana_flg/all) |
 | appie | あっぴー |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22あっぴー%22/ana_flg/all) |
 | keiji-kurobi | 黒帯形而 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22黒帯形而%22/ana_flg/all) |
+| rald | ラルド |  | [pixiv](https://www.pixiv.net/users/11833017) |
 
 <!--TEMPLATE:
 |  |  |  |  |
