@@ -14856,6 +14856,7 @@ example:
 | ppw | ppw | ppw(ぺぺう) | [pixiv](https://www.pixiv.net/users/65047421) \| [FANBOX](https://ppw.fanbox.cc/) \| |
 | ttptt | ttp |  | [FANBOX](https://ttptt.fanbox.cc/) \| [X](https://x.com/TtpTtpTtpTtpT) \| [pixiv](https://www.pixiv.net/users/77260223) |
 | mimimi misaki | みみみ岬 |  | [pixiv](https://www.pixiv.net/users/121231236) \| [X](https://x.com/mimimimisakii) |
+| inushima | いぬしま |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
