@@ -14859,6 +14859,7 @@ example:
 | inushima | いぬしま |  |  |
 | rampage | Rampage |  | [Patreon](https://www.patreon.com/Rampage0118) \| [pixiv](https://www.pixiv.net/users/55857698) \| [X](https://x.com/leedash0118) |
 | kurokan | くろかん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22くろかん%22/ana_flg/all) |
+| namaitati | ナマイタチ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ナマイタチ%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
