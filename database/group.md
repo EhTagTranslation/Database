@@ -13740,6 +13740,7 @@ example:
 | warabi mochi seisakujo | わらび餅製作所 |  |  |
 | namaitati teishoku | 生イタチ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008778.html) |
 | center field | センターフィールド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48576.html) |
+| grande melone | grande melone |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57529.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
