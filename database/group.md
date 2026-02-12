@@ -13739,6 +13739,7 @@ example:
 | kokkyou oudan | くろすかんとりい。 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55620.html) |
 | warabi mochi seisakujo | わらびもち製作所 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=228940/) |
 | namaitati teishoku | 生イタチ定食 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008778.html) |
+| center field | センターフィールド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48576.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
