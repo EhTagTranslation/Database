@@ -13742,6 +13742,7 @@ example:
 | center field | センターフィールド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48576.html) |
 | grande melone | grande melone |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57529.html) |
 | koeda shouten | こえだ商店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44459.html) |
+| lard mashimashi somen | ラードマシマシそうめん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67687.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
