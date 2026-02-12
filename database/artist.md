@@ -10073,7 +10073,7 @@ example:
 | shingata juukidou mecha | 新型重機動メカ |  |  |
 | shingo | SHINGO |  |  |
 | shinichi | しんいち |  |  |
-| shinjiro | 信じろ |  |  |
+| shinjiro | 信じろ |  | [FANBOX](https://shnjr4545.fanbox.cc) |
 | shinkai | 真海 |  |  |
 | shinma mei | シンマメイ |  |  |
 | shinme | 新芽 |  |  |
