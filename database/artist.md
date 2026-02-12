@@ -13005,7 +13005,7 @@ example:
 | lakilolom | らきろろむ |  | [pixiv](https://www.pixiv.net/users/5261554) |
 | akahoshi jake | 赤星ジェイク |  |  |
 | mabanna | マバンナ |  |  |
-| hakonnbu | 歯昆布 |  |  |
+| hakonnbu | 歯昆布 |  | [pixiv](https://www.pixiv.net/users/21119444) |
 | hanaji sensei | 鼻血先生 |  | [pixiv](https://www.pixiv.net/users/3282857) |
 | himajin no izu | 暇人のいず |  |  |
 | huruga yuudai | フルガユウダイ |  |  |
