@@ -13743,6 +13743,7 @@ example:
 | grande melone | grande melone |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57529.html) |
 | koeda shouten | こえだ商店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44459.html) |
 | lard mashimashi somen | ラードマシマシそうめん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67687.html) |
+| hakonnbu kitamaebune | 歯昆布北前船 |  | [BOOTH](https://hakonnbu.booth.pm/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
