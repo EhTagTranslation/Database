@@ -749,7 +749,7 @@ example:
 | akuochisukii sensei | アクオチスキー先生 |  |  |
 | ameyama denshin | 雨山电信 | 雨山電信 |  |
 | aoyama mayama | 青山まやま |  |  |
-| bitch goigostar | ビッチ☆ゴイゴスター |  |  |
+| bitch goigostar | ビッチ☆ゴイゴスター |  | [FANZA](https://book.dmm.co.jp/list/?author=303456) |
 | danbo | ダンボ | 崎森ダン |  |
 | dunga | ドゥンガ |  |  |
 | musashi daichi | 武蔵ダイチ |  |  |
