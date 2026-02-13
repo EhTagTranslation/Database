@@ -14872,6 +14872,7 @@ example:
 | hvvt | HVVT |  | [pixiv](https://www.pixiv.net/users/67227995) |
 | isenori | いせのり |  | [Fantia](https://fantia.jp/fanclubs/205596) \| [X](https://x.com/Lg2Lo) \| [pixiv](https://www.pixiv.net/users/7827766) |
 | mochizaki panko | 饼崎面包粉 |  |  |
+| odoru london | 踊るロンドン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
