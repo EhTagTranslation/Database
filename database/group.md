@@ -13744,6 +13744,7 @@ example:
 | koeda shouten | こえだ商店 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44459.html) |
 | lard mashimashi somen | ラードマシマシそうめん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG67687.html) |
 | hakonnbu kitamaebune | 歯昆布北前船 |  | [BOOTH](https://hakonnbu.booth.pm/) |
+| chirumokeshi | ちるもけし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000992.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
