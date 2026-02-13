@@ -14867,6 +14867,7 @@ example:
 | diuda | 迪達迪達達 |  | [lit.link](https://lit.link/en/diudada) \| [脸书](https://www.facebook.com/DiuDaNa/) |
 | usirome | うしろめ |  |  |
 | shikan | 四巻 |  |  |
+| usagi tosame | うさぎ兎さめ |  | [FANBOX](https://usame.fanbox.cc/) \| [X](https://x.com/usagitosameko) \| [pixiv](https://www.pixiv.net/users/63406008) |
 
 <!--TEMPLATE:
 |  |  |  |  |
