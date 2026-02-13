@@ -14866,6 +14866,7 @@ example:
 | t1kosewad | T1kosewad |  | [FANBOX](https://t1kosewad.fanbox.cc/) \| [X](https://x.com/T1kosewad78) \| [pixiv](https://www.pixiv.net/users/3014645) |
 | diuda | 迪達迪達達 |  | [lit.link](https://lit.link/en/diudada) \| [脸书](https://www.facebook.com/DiuDaNa/) |
 | usirome | うしろめ |  |  |
+| shikan | 四巻 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
