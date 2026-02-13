@@ -954,7 +954,7 @@ example:
 | ai fuyuumi | 冬海爱衣 | ![冬海爱衣](# "https://ehgt.org/2d/23/2d2392bd2c85b3685a03a08a4461797fe36e6bd5-884316-1280-1024-jpg_l.jpg") |  |
 |  | ▼ 我的妹妹不可能那么可爱 角色 |  |  |
 | kyousuke kousaka | 高坂京介 | ![高坂京介](https://ehgt.org/88/3a/883a07dfca2577c54c01d0a92be2d72d5240b136-2180731-2521-3600-jpg_l.jpg) |  |
-| kirino kousaka | 高坂桐乃 | ![高坂桐乃](https://ehgt.org/0d/4e/0d4ed88f476242fd7657942d6eeb1ff3349b5110-2114456-2521-3600-jpg_l.jpg) |  |
+| kirino kousaka | 高坂桐乃 | ![高坂桐乃](https://ehgt.org/0d/4e/0d4ed88f476242fd7657942d6eeb1ff3349b5110-2114456-2521-3600-jpg_l.jpg)<br>出自作品：`p:ore no imouto ga konna ni kawaii wake ga nai`<br><br>高坂桐乃是伏见司创作的轻小说《我的妹妹哪有这么可爱！》及其衍生作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/高坂桐乃) |
 | ruri gokou | 五更琉璃（黑猫） | ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg)<br>网名黑猫。SNS社群“宅女集合”的成员之一，桐乃在线下会认识的宅友。有在进行同人社团活动，并开设了个人博客，宅的程度不在桐乃之下。 | [萌娘百科](https://zh.moegirl.org.cn/五更琉璃) [Fandom](https://oreimo.fandom.com/zh/wiki/五更琉璃) |
 | ayase aragaki | 新垣绫濑 | ![新垣绫濑](https://ehgt.org/0c/4e/0c4ef50e6484947d645d81fcea2470757ed2bc99-1252278-1069-1517-png_l.jpg)<br>出自作品：`p:ore no imouto ga konna ni kawaii wake ga nai`<br><br>新垣绫濑是伏见司创作的轻小说《我的妹妹哪有这么可爱！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新垣绫濑) |
 | saori makishima | 槙岛沙织（沙织·巴吉纳） | ![槙岛沙织](# "https://ehgt.org/b8/4c/b84cdc17bb3062760056c4cbd14015f28959f278-647111-1100-1600-jpg_l.jpg") |  |
