@@ -14870,6 +14870,7 @@ example:
 | usagi tosame | うさぎ兎さめ |  | [FANBOX](https://usame.fanbox.cc/) \| [X](https://x.com/usagitosameko) \| [pixiv](https://www.pixiv.net/users/63406008) |
 | naporitan | ナポリタン |  | [FANZA](https://book.dmm.co.jp/list/?author=379524) |
 | hvvt | HVVT |  | [pixiv](https://www.pixiv.net/users/67227995) |
+| isenori | いせのり |  | [Fantia](https://fantia.jp/fanclubs/205596) \| [X](https://x.com/Lg2Lo) \| [pixiv](https://www.pixiv.net/users/7827766) |
 
 <!--TEMPLATE:
 |  |  |  |  |
