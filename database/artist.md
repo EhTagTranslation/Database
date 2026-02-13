@@ -13339,7 +13339,7 @@ example:
 | creep | 苦怕Creep |  | [pixiv](https://www.pixiv.net/users/10829062) [X](https://x.com/Creep41347922) [bilibili](https://space.bilibili.com/438790493/dynamic) |
 | kabu usagi | カブウサギ |  | [pixiv](https://www.pixiv.net/users/63665992) |
 | mabo nasu | 麻婆ナス |  |  |
-| uwa bami | 卯和马实 |  | [FANZA](https://book.dmm.co.jp/list/?author=326775) |
+| uwa bami | 卯和马实 | 日文：卯和馬実 /うわばみ | [FANZA](https://book.dmm.co.jp/list/?author=326775) |
 | ajura | あじゅら |  |  |
 | sugina miki | 杉菜水姬 | ![头像](https://pbs.twimg.com/profile_images/1398199691972464641/gmId_AfX_400x400.jpg)<br>Innocent Grey的代表，喜欢神秘题材，但更喜欢内心温柔、略微S倾向的黑长直女性。 | [X](https://x.com/mikisugina) |
 | ichikawa saasya | 市川小纱 | ![市川小纱头像](https://lain.bgm.tv/r/400/pic/crt/l/7b/16/6892_prsn_b512Y.jpg) |  |
