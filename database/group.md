@@ -6702,7 +6702,7 @@ example:
 | knife edge | ナイフエッジ |  |  |
 | knights | KNIGHTS |  |  |
 | knuckle chop | knuckle chop |  |  |
-| knuckle head | KNUCKLE HEAD |  |  |
+| knuckle head | KNUCKLE HEAD |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23138.html) |
 | ko nekoneko house | こねこねこはうス |  |  |
 | koa | こあ |  |  |
 | koakuma sageha | 小悪魔sage派 |  |  |
