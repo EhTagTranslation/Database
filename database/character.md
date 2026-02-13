@@ -8622,6 +8622,7 @@ example:
 | marshall d. teach | 马歇尔·D·蒂奇 | ![](https://static.wikia.nocookie.net/onepiece/images/f/ff/Marshall_D._Teach_Anime_Post_Timeskip_Infobox.png)<br>出自作品：`p:one piece`<br><br>马歇尔·D·蒂奇，人称其“黑胡子”，是黑胡子海贼团团长，四皇之一，目前已知唯一一个拥有两个恶魔果实能力的人。 | [Fandom](https://onepiece.fandom.com/zh/wiki/馬歇爾·D·汀奇?variant=zh-sg) |
 | ralmia | 洛菈米亚 | ![](https://static.wikia.nocookie.net/shadowverse/images/1/12/Imagem_2022-01-12_121555.png)<br>出自作品：`p:shadowverse` | [shadowverse-portal](https://shadowverse-portal.com/card/116841010?lang=zh-tw) |
 | fluorite | 萤石 | ![](https://endfield.wiki.gg/images/Fluorite_Splash_Art.png?f12154=&format=original)<br>所属游戏:`arknights endfield` | [萌娘百科](https://zh.moegirl.org.cn/萤石) |
+| camula | 卡缪拉 | ![卡缪拉](https://p.sda1.dev/30/cc31e1dfe0344b84bb963c2a02a58a19/image.png)<br>所属作品：《游戏王GX》登场角色。吸血鬼 | [百度百科](https://baike.baidu.com/item/卡缪拉/7446903) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
