@@ -9840,7 +9840,7 @@ example:
 | satou santouhei | さとう三等兵 |  |  |
 | satou shouji | 佐藤想次 |  |  |
 | satou tomoyuki | 佐藤知行 |  |  |
-| satou toshio | 佐藤登志夫 |  |  |
+| satou toshio | 佐藤登志夫 |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?mode=search&text_type=author&name=佐藤登志雄) |
 | satouori | さとうおり |  |  |
 | satozaki | 里崎 |  |  |
 | satsuki | 朔月 |  |  |
