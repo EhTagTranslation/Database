@@ -7029,7 +7029,7 @@ example:
 | kyojinkou | 巨人港 |  |  |
 | kyokutou dennou kaihatsukyoku | 極東電脳開発局 |  |  |
 | kyokutou funamushi | 極東舟虫 |  |  |
-| kyomu no uta | 虚無の歌 |  |  |
+| kyomu no uta | 虚無の歌 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=18139) |
 | kyoshoku shou | 虚飾症 |  |  |
 | kyosuu shiniki | 虚数神域 |  |  |
 | kyoten heichou | 拠点兵長 |  |  |
