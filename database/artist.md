@@ -765,7 +765,7 @@ example:
 | minikoara | 瑞稀樱花 |  |  |
 | nanairo | ナナイロ |  |  |
 | ryuuta | 竜太 |  |  |
-| shomu | しょむ |  |  |
+| shomu | しょむ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22しょむ%22/ana_flg/all) |
 | sunagawa tara | 砂川多良 |  |  |
 | amahara | 天原 |  |  |
 | arino hiroshi | ありのひろし |  |  |
