@@ -4305,7 +4305,7 @@ example:
 | delphox | 妖火红狐 | 妖火红狐（日文︰マフォクシー，英文︰Delphox）是火属性和超能力属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/妖火红狐) |
 | ditto | 百变怪 | 百变怪（日文︰メタモン，英文︰Ditto）是一般属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/百变怪) |
 | greninja | 甲贺忍蛙 | ![](https://s1.52poke.com/wiki/thumb/6/67/658Greninja.png/300px-658Greninja.png)<br>所属作品：`pokemon` | [神奇宝贝百科](https://wiki.52poke.com/wiki/甲贺忍蛙) |
-| kirlia | 奇鲁莉安 | 奇鲁莉安（日文︰キルリア，英文︰Kirlia）是超能力属性和妖精属性宝可梦。在第六世代前是超能力属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/奇鲁莉安) |
+| kirlia | 奇鲁莉安 | ![](https://ehgt.org/w/01/741/50442-2mds9jpv.webp)<br>出自作品：`p:pokemon`<br><br>奇鲁莉安（日文︰キルリア，英文︰Kirlia）是超能力属性和妖精属性宝可梦。在第六世代前是超能力属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/奇鲁莉安) |
 | lugia | 洛奇亚 | 洛奇亚（日文︰ルギア，英文︰Lugia）是超能力属性和飞行属性传说的宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/洛奇亚) |
 | mawile | 大嘴娃 | 大嘴娃（日文︰クチート，英文︰Mawile）是钢属性和妖精属性宝可梦。在第六世代前是钢属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/大嘴娃) |
 | nidoqueen | 尼多后 | 尼多后（日文︰ニドクイン，英文︰Nidoqueen）是毒属性和地面属性宝可梦。 | [神奇宝贝百科](https://wiki.52poke.com/wiki/尼多后) |
