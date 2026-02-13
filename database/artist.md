@@ -14868,6 +14868,7 @@ example:
 | usirome | うしろめ |  |  |
 | shikan | 四巻 |  |  |
 | usagi tosame | うさぎ兎さめ |  | [FANBOX](https://usame.fanbox.cc/) \| [X](https://x.com/usagitosameko) \| [pixiv](https://www.pixiv.net/users/63406008) |
+| naporitan | ナポリタン |  | [FANZA](https://book.dmm.co.jp/list/?author=379524) |
 
 <!--TEMPLATE:
 |  |  |  |  |
