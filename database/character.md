@@ -956,7 +956,7 @@ example:
 | kyousuke kousaka | 高坂京介 | ![高坂京介](https://ehgt.org/88/3a/883a07dfca2577c54c01d0a92be2d72d5240b136-2180731-2521-3600-jpg_l.jpg) |  |
 | kirino kousaka | 高坂桐乃 | ![高坂桐乃](https://ehgt.org/0d/4e/0d4ed88f476242fd7657942d6eeb1ff3349b5110-2114456-2521-3600-jpg_l.jpg) |  |
 | ruri gokou | 五更琉璃（黑猫） | ![黑猫](https://ehgt.org/1b/04/1b04021da892517c44f0729afb44168bd32c1c90-1985827-2521-3600-jpg_l.jpg)<br>网名黑猫。SNS社群“宅女集合”的成员之一，桐乃在线下会认识的宅友。有在进行同人社团活动，并开设了个人博客，宅的程度不在桐乃之下。 | [萌娘百科](https://zh.moegirl.org.cn/五更琉璃) [Fandom](https://oreimo.fandom.com/zh/wiki/五更琉璃) |
-| ayase aragaki | 新垣绫濑 | ![新垣绫濑](https://ehgt.org/0c/4e/0c4ef50e6484947d645d81fcea2470757ed2bc99-1252278-1069-1517-png_l.jpg) |  |
+| ayase aragaki | 新垣绫濑 | ![新垣绫濑](https://ehgt.org/0c/4e/0c4ef50e6484947d645d81fcea2470757ed2bc99-1252278-1069-1517-png_l.jpg)<br>出自作品：`p:ore no imouto ga konna ni kawaii wake ga nai`<br><br>新垣绫濑是伏见司创作的轻小说《我的妹妹哪有这么可爱！》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/新垣绫濑) |
 | saori makishima | 槙岛沙织（沙织·巴吉纳） | ![槙岛沙织](# "https://ehgt.org/b8/4c/b84cdc17bb3062760056c4cbd14015f28959f278-647111-1100-1600-jpg_l.jpg") |  |
 | kanako kurusu | 来栖加奈子 | ![来栖加奈子](# "https://ehgt.org/d9/6a/d96a76febd0cb8e63ed523f1a69ef0f5a0192486-4053707-2130-3020-jpg_l.jpg") |  |
 | bridget evans | 布莉姬·伊凡斯 | ![布莉姬·伊凡斯](# "https://ehgt.org/fe/2e/fe2ec8f9f81aa3968b5632aa2b0a2a9e8f96e3ac-513792-1410-2000-jpg_250.jpg") |  |
