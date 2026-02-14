@@ -6790,7 +6790,7 @@ example:
 | nemo professor | 尼莫教授 |  |  |
 | moze | 貊泽 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/8/81/Character_Moze_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/貊泽) |
 | mio | 澪 | 这是一个常见的通用角色名称，不属于某特定作品 |  |
-| vivi nefertari | 薇薇·奈菲鲁塔丽 | 所属作品：`one piece`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/11/08/01/07/134959573_p0_master1200.jpg) |  |
+| vivi nefertari | 薇薇·奈菲鲁塔丽 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/11/08/01/07/134959573_p0_master1200.jpg)<br>所属作品：`one piece` |  |
 | lihua | 梨花妃 | ![](https://i.pixiv.cat/img-master/img/2025/03/10/09/27/49/128056060_p0_master1200.jpg)<br>所属作品：`kusuriya no hitorigoto` |  |
 | sei takanashi | 小鸟游圣 | 所属作品：`seijo no maryoku wa bannou desu`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/19/09/00/26/132856819_p4_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/小鸟游圣) |
 | pairin | 白铃 | 所属作品：`kusuriya no hitorigoto`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/06/21/11/48/01/131799303_p4_master1200.jpg) |  |
