@@ -3245,7 +3245,7 @@ example:
 | da ji | 妲己 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/2/2f/Daji-circle-big.png)<br>所属作品：`honor of kings` |  |
 | da qiao | 大乔 |  |  |
 | dong zhuo | 董卓 |  |  |
-| sun ce | 孙策 |  |  |
+| sun ce | 孙策 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/3/38/Sun_Ce-big-circle.png)<br>所属作品：`honor of kings` |  |
 | xiao qiao | 小乔 |  |  |
 | zhao yun | 赵云 |  |  |
 | dakki | 妲己 |  |  |
