@@ -8636,6 +8636,7 @@ example:
 | shakuyaku | 夏克雅克 | ![](https://static.wikia.nocookie.net/onepiece/images/5/54/ShakkyEpisode0.png)<br>所属作品：`one piece` |  |
 | alvida | 亚尔丽塔 | ![](https://static.wikia.nocookie.net/onepiece/images/c/cd/Alvida_Anime_Infobox.png)<br>所属作品：`one piece`<br>日语：アルビダ |  |
 | jewelry bonney | 乔艾莉·波妮 | ![](https://ehgt.org/w/01/988/81090-dw1er4t5.webp)<br>所属作品：`one piece` |  |
+| brandish u | 布兰缇什·μ | ![](https://static.wikia.nocookie.net/fairytail/images/5/50/Brandish%27_appearance.png)<br>所属作品：`fairy tail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
