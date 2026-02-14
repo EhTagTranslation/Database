@@ -8639,6 +8639,7 @@ example:
 | brandish u | 布兰缇什·μ | ![](https://static.wikia.nocookie.net/fairytail/images/5/50/Brandish%27_appearance.png)<br>所属作品：`fairy tail` |  |
 | ultear milkovich | 乌鲁蒂亚·米尔科维奇 | ![](https://ehgt.org/w/02/052/02993-mhr4syx6.webp)<br>所属作品：`fairy tail`<br>日语：ウルティア・ミルコビッチ |  |
 | irene belserion | 艾琳·贝尔塞利翁 | ![](https://static.wikia.nocookie.net/fairytail/images/4/4c/Irene%27s_appearance_anime.png)<br>所属作品：`fairy tail`<br>日文：アイリーン・ベルせリオン |  |
+| sherria blendy | 雪莉娅·布兰蒂 | ![](https://static.wikia.nocookie.net/fairytail/images/5/59/Sherria_proposal.png)<br>所属作品：`fairy tail`<br>日文：シェリア・ブレンディ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
