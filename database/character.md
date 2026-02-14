@@ -5911,7 +5911,7 @@ example:
 | hibiki hibino | 日比乃响 |  |  |
 | kazuradrop | 糖果藤蔓 |  |  |
 | tutankhamun | 图坦卡蒙 |  |  |
-| tony tony chopper | 乔巴 | 托尼托尼·乔巴，日本漫画《航海王》及其衍生作品中的角色。 |  |
+| tony tony chopper | 多尼多尼·乔巴 | ![](https://static.wikia.nocookie.net/onepiece/images/3/3e/Tony_Tony_Chopper%27s_Wanted_Poster.png)<br>所属作品：`one piece` |  |
 | nancy lee | 南希·李 | 南希·李（日语：ナンシー・リー）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/南希·李) |
 | dragon yukano | 龙·由佳乃 | 龙·由佳乃（日语：ドラゴン・ユカノ）是由Bradley Bond与Philip Ninj@ Morzez两人共同撰写的小说《忍者杀手》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/龙·由佳乃) |
 | ceres fauna | 塞莱希·法娜 | 英语：Ceres Fauna<br>日语：セレス・ファウナ<br>是一名于2021年8月17日开始活动的VTuber，所属日本业界团体Hololive （Hololive English）―『Hololive English -议会-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/塞莱希·法娜) |
