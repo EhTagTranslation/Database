@@ -14874,6 +14874,7 @@ example:
 | mochizaki panko | 饼崎面包粉 |  |  |
 | odoru london | 踊るロンドン |  |  |
 | fusu | ふす |  | [pixiv](https://www.pixiv.net/users/30675161) |
+| sonoshiki | 園色 |  | [X](https://x.com/sonoshiki25) |
 
 <!--TEMPLATE:
 |  |  |  |  |
