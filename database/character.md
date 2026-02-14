@@ -2682,7 +2682,7 @@ example:
 | serena | 莎莉娜 \| 瑟妮娅 \| 塞瑞娜 | 多个作品中重名的女性角色<br><br>1. 莎莉娜<br>(日文：セレナ，英文：Serena，TVB粤语官译：塞莉娜，民间常见翻译：塞蕾娜、瑟蕾娜，)<br>GAME FREAK的游戏《pokemon X／Y》及其衍生作品的登场角色，女主角。<br>![图](https://img.moegirl.org.cn/common/0/06/莎莉娜_动画版设定图1.png)<br><br>2. 瑟妮娅<br>指国民级角色扮演RPG游戏《dragon quest xi》的女主角之一。<br>被称为是“双贤姐妹”中的妹妹。<br>![图](https://www.dq11.jp/s/pf/characters/_img/senya/chara_2d_sp.png)<br><br>3. 塞瑞娜<br>游戏王系列的第5部作品《游戏王ARC-V》的女主角。<br>来自融合次元的“学园”势力，相貌与柊柚子、凛和黑咲琉璃相似的少女，被赤马零王视为重要的“碎片”之一。知道次元战争的真相后，加入赤马零儿的枪兵团与榊游矢他们一起行动了。<br>![图](https://img.moegirl.org.cn/common/thumb/9/99/Celina-LOD.png/420px-Celina-LOD.png) |  |
 | shauna | 莎娜 |  |  |
 | kiruko otonashi | 音无斩子 |  |  |
-| boa hancock | 波雅·汉库克 | ![](https://ehgt.org/w/02/016/44304-oq5nwled.webp)<br>所属作品：`one piece` |  |
+| boa hancock | 波雅·汉库克 | ![](https://static.wikia.nocookie.net/onepiece/images/7/76/Hancock_%26_Salome_Anime_Concept_Art.png)<br>所属作品：`one piece` |  |
 | monkey d. luffy | 蒙奇·D·路飞 | ![](https://static.wikia.nocookie.net/onepiece/images/6/62/Luffy_Wanted_Poster.png)<br>所属作品：`one piece` |  |
 | elf | 精灵 |  |  |
 | neko musume | 猫娘 |  |  |
