@@ -2565,7 +2565,7 @@ example:
 | naotora ii | 井伊直虎 |  |  |
 | lu lingqi | 吕玲绮 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | zhurong | 祝融 |  |  |
-| sun shang xiang | 孙尚香 |  |  |
+| sun shang xiang | 孙尚香 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/5/5f/Lady_Sun-circle-big.png)<br>所属作品：`honor of kings` |  |
 | nene | 宁宁 |  |  |
 | inahime | 稻姬 |  |  |
 | sima yi | 司马懿 |  |  |
