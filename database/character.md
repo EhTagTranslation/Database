@@ -2683,7 +2683,7 @@ example:
 | shauna | 莎娜 |  |  |
 | kiruko otonashi | 音无斩子 |  |  |
 | boa hancock | 波雅·汉库克 | ![](https://ehgt.org/w/02/016/44304-oq5nwled.webp)<br>所属作品：`one piece` |  |
-| monkey d. luffy | 蒙奇·D·路飞 |  |  |
+| monkey d. luffy | 蒙奇·D·路飞 | ![](https://static.wikia.nocookie.net/onepiece/images/6/62/Luffy_Wanted_Poster.png)<br>所属作品：`one piece` |  |
 | elf | 精灵 |  |  |
 | neko musume | 猫娘 |  |  |
 | kaoru matsubara | 松原薰 |  |  |
