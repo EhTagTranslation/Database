@@ -8642,6 +8642,7 @@ example:
 | sherria blendy | 雪莉娅·布兰蒂 | ![](https://static.wikia.nocookie.net/fairytail/images/5/59/Sherria_proposal.png)<br>所属作品：`fairy tail`<br>日文：シェリア・ブレンディ |  |
 | cana alberona | 卡娜·阿尔贝罗纳 | ![](https://ehgt.org/w/02/169/72984-99dr9vi4.webp)<br>所属作品：`fairy tail`<br>日文：カナ・アルベローナ |  |
 | rinha kaya | 贺阳燐羽 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/0d/RinhaKaya.png)<br>出自作品：`p:the idolmaster`<br><br>贺阳燐羽是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/贺阳燐羽) |
+| virgo | 芭露歌 | ![](https://ehgt.org/w/02/063/56494-qynjxv6t.webp)<br>所属作品：`fairy tail`<br>日文：バルゴ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
