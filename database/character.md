@@ -7882,7 +7882,7 @@ example:
 | oumi | 近江 （鳉） | ![](https://patchwiki.biligame.com/images/blhx/thumb/5/5f/2xd0i2a0zp2r1rywmgue5yil8oq538o.jpg/525px-近江立绘.jpg)<br>![](https://patchwiki.biligame.com/images/blhx/thumb/1/18/ihvpxv0iejn5kyrp7abgjjddsmjor9r.jpg/525px-近江换装.jpg)<br>所属作品：`azur lane` | [BILIGAME WIKI](https://wiki.biligame.com/blhx/?curid=215596) |
 | asclepius | 阿斯克勒庇俄斯 |  |  |
 | tamamo aria | 玉藻艾莉亚 |  |  |
-| jing ke | 荆轲 |  |  |
+| jing ke | 荆轲 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/3/3d/Arke-big-circle.png)<br>所属作品：`honor of kings` |  |
 | rizu-kyun | 魅魔利兹 | 《更衣人偶坠入爱河》中女主角喜多川海梦曾cos过的角色 |  |
 | kuchisake-onna | 裂口女 |  |  |
 | laufen | 菈奥芬 | 所属作品: `p:sousou no frieren` |  |
