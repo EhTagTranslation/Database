@@ -5952,7 +5952,7 @@ example:
 | g41 | G41 | ![然先生的G41本封面](https://files.yande.re/jpeg/f46f92cd0852e1c8ee31694911eade13/yande.re%20462957%20animal_ears%20armor%20ass%20bottomless%20g41_%28girls_frontline%29%20garter%20girls_frontline%20heterochromia%20ooyun.jpg)<br>`p:girls frontline`少女前线 Heckler & Koch 小狐狸 |  |
 | rico | 黎各 | 女主角之一, 体弱多病 |  |
 | tachibana hinano | 橘雏乃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/7/7c/Tachibana_Hinano_corporate_full_body.png)<br>日语：橘 ひなの | [萌娘百科](https://zh.moegirl.org.cn/橘雏乃) |
-| roronoa zoro | 罗罗诺亚·索隆 | 草帽一伙的剑士，路飞的第一位伙伴，主力战斗员之一，也是“极恶的世代”之一。 | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
+| roronoa zoro | 罗罗诺亚·索隆 | ![](https://static.wikia.nocookie.net/onepiece/images/a/a6/Zoro%27s_Wanted_Poster.png)<br>所属作品：`one piece` | [萌娘百科](https://zh.moegirl.org.cn/罗罗诺亚·索隆) |
 | sanji vinsmoke | 文斯莫克·山治 | ![](https://static.wikia.nocookie.net/onepiece/images/d/db/Sanji%27s_Wanted_Poster.png)<br>所属作品：`one piece` | [萌娘百科](https://zh.moegirl.org.cn/山治) |
 | zorro | 索隆 |  |  |
 | ryoutarou tsuboi | 壶井辽太郎（克莱因） | ![](https://static.wikia.nocookie.net/swordartonline/images/5/5b/Klein%27s_SAO_Avatar_Full_Body.png)<br>所属作品：`sword art online`<br>日语：壷井遼太郎 | [萌娘百科](https://zh.moegirl.org.cn/壶井辽太郎) |
