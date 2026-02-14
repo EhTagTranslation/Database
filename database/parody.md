@@ -2734,6 +2734,7 @@ example:
 | meitantei precure | 名侦探光之美少女！ | ![](https://upload.wikimedia.org/wikipedia/zh/4/4d/Star_Detective_Precure.jpg)<br>《名侦探光之美少女！》（日语：名探偵プリキュア！，英语：Star Detective Precure!，简称“たんプリ”）是由东堂泉制作的魔法少女动画，为“光之美少女系列”第二十三作，第二十一代光之美少女，预计于2026年2月1日在全日本新闻网的电视台播放。由川崎弘二担任导演、村山功担任系列构成、矢野茜担任角色设计。 | [维基百科](https://zh.wikipedia.org/wiki/名偵探光之美少女) |
 | chou kaguya-hime | 超时空辉夜姬 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/0a/Cosmic_Princess_Kaguya!_%28anime_visual_2%29.jpg)<br>日语：超かぐや姫！ |  |
 | mono | Mono | ![](https://static.wikia.nocookie.net/mono-manga/images/3/36/Twitter-mono_weekend-anime_poster-16feb2025.jpg)<br>漫画作者：あfろ |  |
+| yano-kun no futsuu no hibi | 矢野同学的普通日常 | ![](https://static.wikia.nocookie.net/japanese-voiceover/images/c/ca/Yano-kun%27s_Ordinary_Days_2025_Poster.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
