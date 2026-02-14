@@ -2733,6 +2733,7 @@ example:
 | komori-san wa kotowarenai | 小森拒不了！ | 《小森拒不了！》（日语：小森さんは断れない！）是由クール教信者创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/小森拒不了！) |
 | meitantei precure | 名侦探光之美少女！ | ![](https://upload.wikimedia.org/wikipedia/zh/4/4d/Star_Detective_Precure.jpg)<br>《名侦探光之美少女！》（日语：名探偵プリキュア！，英语：Star Detective Precure!，简称“たんプリ”）是由东堂泉制作的魔法少女动画，为“光之美少女系列”第二十三作，第二十一代光之美少女，预计于2026年2月1日在全日本新闻网的电视台播放。由川崎弘二担任导演、村山功担任系列构成、矢野茜担任角色设计。 | [维基百科](https://zh.wikipedia.org/wiki/名偵探光之美少女) |
 | chou kaguya-hime | 超时空辉夜姬 | ![](https://static.wikia.nocookie.net/yuripedia/images/0/0a/Cosmic_Princess_Kaguya!_%28anime_visual_2%29.jpg)<br>日语：超かぐや姫！ |  |
+| mono | Mono | ![](https://static.wikia.nocookie.net/mono-manga/images/3/36/Twitter-mono_weekend-anime_poster-16feb2025.jpg)<br>漫画作者：あfろ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
