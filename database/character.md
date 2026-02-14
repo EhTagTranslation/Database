@@ -5059,7 +5059,7 @@ example:
 | yuuhi oudou | 王道游飞 |  |  |
 | tell kawai | 合羽井英 |  |  |
 | kouko kaga | 加贺香子 |  | [萌娘百科](https://zh.moegirl.org.cn/加贺香子) |
-| lisanna strauss | 丽莎娜·斯特劳斯 |  | [萌娘百科](https://zh.moegirl.org.cn/丽莎娜·斯特劳斯) |
+| lisanna strauss | 丽莎娜·斯特劳斯 | ![](https://ehgt.org/w/02/010/20773-6dviwb6m.webp)<br>所属作品：`fairy tail`<br>日文：リサーナ・ストラウス | [萌娘百科](https://zh.moegirl.org.cn/丽莎娜·斯特劳斯) |
 | mia luna tearmoon | 米雅·卢娜·堤亚穆 | 所属作品: `p:tearmoon teikoku monogatari`<br><br>堤亚穆帝国的第一皇女，在前一个时间轴中是一个昏庸无能的皇女，后来帝国爆发了革命，于十七岁时在逃亡的途中被捕，在地牢中软禁三年后在一片谩骂声中走上断头台，享年20岁。——本该如此，但在醒来后却发现自己回到了12岁，这一次，她为了在第二次的人生中躲过断头台而四处奔走着。 | [萌娘百科](https://zh.moegirl.org.cn/米雅·卢娜·堤亚穆) |
 | ruan mei | 阮·梅 | ![](https://patchwiki.biligame.com/images/sr/thumb/4/4d/0iamwg2dwen149n3ucjxlnx4dw4ym5z.png/1050px-阮•梅立绘.png)<br>所属作品: `p:honkai star rail`<br>气质温婉优雅的学者，「天才俱乐部」#81号会员，生命科学领域的专家。 | [萌娘百科](https://zh.moegirl.org.cn/阮·梅) |
 | li sushang | 李素裳 \| 素裳 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f1/pa10qs0htdu6eizlhvk4b26ihm6x5tq.png/1050px-素裳立绘.png)<br>所属作品: `p:honkai gakuen`、`p:honkai star rail`<br>单纯热心的云骑军新人，执一柄重剑。 | [李素裳](https://zh.moegirl.org.cn/李素裳) [素裳](https://zh.moegirl.org.cn/素裳) |
