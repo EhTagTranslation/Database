@@ -2676,7 +2676,7 @@ example:
 | nel zelpher | 奈露 |  |  |
 | sadi-chan | 小萨蒂 |  |  |
 | mina ashido | 芦户三奈 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/05/Mina_Ashido_School_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/89/Mina_Ashido_Hero_Costume_Anime_Action.png) |  |
-| rebecca | 蕾贝卡 |  |  |
+| rebecca | 蕾贝卡 | ![](https://ehgt.org/w/02/181/69170-8t5f68b9.webp)<br>所属作品：`one piece` |  |
 | amazon | 亚马逊 | 所属作品：`dragons crown` |  |
 | sorceress | 女巫 | 游戏《`dragons crown`》中的角色。<br>![图](https://ehgt.org/d4/9b/d49b2c756d3c7b929a8b3005a8bf7c4649cec001-127531-850-1050-jpg_l.jpg)<br>![图](https://ehgt.org/db/85/db857a5ee857ec6ba6c27ff7f2995140dc3259a6-118637-800-1260-jpg_l.jpg) |  |
 | serena | 莎莉娜 \| 瑟妮娅 \| 塞瑞娜 | 多个作品中重名的女性角色<br><br>1. 莎莉娜<br>(日文：セレナ，英文：Serena，TVB粤语官译：塞莉娜，民间常见翻译：塞蕾娜、瑟蕾娜，)<br>GAME FREAK的游戏《pokemon X／Y》及其衍生作品的登场角色，女主角。<br>![图](https://img.moegirl.org.cn/common/0/06/莎莉娜_动画版设定图1.png)<br><br>2. 瑟妮娅<br>指国民级角色扮演RPG游戏《dragon quest xi》的女主角之一。<br>被称为是“双贤姐妹”中的妹妹。<br>![图](https://www.dq11.jp/s/pf/characters/_img/senya/chara_2d_sp.png)<br><br>3. 塞瑞娜<br>游戏王系列的第5部作品《游戏王ARC-V》的女主角。<br>来自融合次元的“学园”势力，相貌与柊柚子、凛和黑咲琉璃相似的少女，被赤马零王视为重要的“碎片”之一。知道次元战争的真相后，加入赤马零儿的枪兵团与榊游矢他们一起行动了。<br>![图](https://img.moegirl.org.cn/common/thumb/9/99/Celina-LOD.png/420px-Celina-LOD.png) |  |
