@@ -1008,7 +1008,7 @@ example:
 |  | ▼ 守望先锋 角色 |  |  |
 | mercy | 天使 | ![](https://ehgt.org/3a/74/3a7481fa86013292b904e37f2bfc81f7d757efc2-8661127-3267-2476-jpg_l.jpg) |  |
 | tracer | 猎空 | ![](https://ehgt.org/6f/32/6f327b72a308ecb6b8b9f27928ea891a5c48800f-8471943-3267-2476-jpg_l.jpg)<br>莉娜·奥克斯顿（代号：“猎空”）是一位可以进行时间跳跃的冒险家，为了正义而不懈努力着。 | [萌娘百科](https://zh.moegirl.org.cn/猎空) |
-| widowmaker | 黑百合 | ![](https://ehgt.org/29/a0/29a058dd6aaa0ccd49c9a9f098de0072ec6f54db-8442967-3267-2476-jpg_l.jpg) |  |
+| widowmaker | 黑百合 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/4/4c/Widowmaker-portrait.png)<br>所属作品：`overwatch` |  |
 | mei | 美 \| 梅依 | ①梅<br>![](https://static.wikia.nocookie.net/my-gift-lvl-9999-unlimited-gacha/images/8/8f/MugenGacha_Anime_Character_Mei.png)<br>所属作品：`mugen gacha de level 9999`<br>日文：メイ<br><br>②<br>![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/7e/OW2_Mei.png)<br>所属作品：`overwatch` |  |
 | d.va | D.VA | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/1a/OW2_Dva.png)<br>所属作品：`overwatch`<br>本名：宋哈娜 |  |
 | zarya | 查莉娅 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/0/02/OW2_Zarya.png)<br>所属作品：`overwatch` |  |
