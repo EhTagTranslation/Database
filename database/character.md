@@ -8628,6 +8628,7 @@ example:
 | yachiyo runami | 月见八千代 | ![](https://static.wikia.nocookie.net/yuripedia/images/c/cb/Yachiyo_Runami.png)<br>所属作品：`chou kaguya-hime`<br>日语：月見 ヤチヨ |  |
 | sakurako shikishima | 敷岛樱子 | ![](https://static.wikia.nocookie.net/mono-manga/images/6/67/Mono-weekend-photo-sakurako_img.png)<br>所属作品：`mono`<br>日语：敷島桜子 |  |
 | peashooter | 豌豆射手 |  |  |
+| deep sea gargantuar | 深海巨人僵尸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
