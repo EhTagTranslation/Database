@@ -8633,6 +8633,7 @@ example:
 | vendetta | 斩仇 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/OW2_Vendetta.png)<br>所属作品：`overwatch` |  |
 | kiriko | 雾子 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/1/16/OW2_Kiriko.png)<br>所属作品：`overwatch` |  |
 | kiyoko yoshida | 吉田清子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/dd/c3/172713_crt_aMMGo.jpg)<br>所属作品：`yano-kun no futsuu no hibi` |  |
+| shakuyaku | 夏克雅克 | ![](https://static.wikia.nocookie.net/onepiece/images/5/54/ShakkyEpisode0.png)<br>所属作品：`one piece` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
