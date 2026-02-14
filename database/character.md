@@ -2735,7 +2735,7 @@ example:
 | rin | 凛 | ①<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=9cff6a908913632715edc23ba18ea056/bc1799315c6034a8d3ff4ecdc81349540923760b.jpg)<br>所属作品：`senran kagura`<br>————————<br>②游戏王系列的第5部作品《游戏王ARC-V》的女主角。 |  |
 | farrah | 法拉 | ![](https://huiji-public.huijistatic.com/gbf/uploads/1/16/Zoom_3030103000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/7/70/Zoom_3030248000_01.png)<br>所属作品：`granblue fantasy` |  |
 | zooey | 佐伊 | ![](https://huiji-public.huijistatic.com/gbf/uploads/c/c1/Zoom_3040564000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/c/cf/Zoom_3030233000_01.png)<br>所属作品：`granblue fantasy` |  |
-| natsu dragneel | 纳兹·多拉格尼尔 | ![](https://static.wikia.nocookie.net/fairytail/images/6/66/Natsu_2018.png)<br>所属作品：`fairy tail` |  |
+| natsu dragneel | 纳兹·多拉格尼尔 | ![](https://static.wikia.nocookie.net/fairytail/images/6/66/Natsu_2018.png)<br>所属作品：`fairy tail`<br>日文：エーテリアス・ナツ・ドラグニル |  |
 | kirara | 绮良良 | ![](https://patchwiki.biligame.com/images/ys/4/43/034jk985b8blbsnke010ptg690qbi8b.gif)<br>所属作品:`p:genshin impact`<br>稻妻快递公司「狛荷屋」的送货员，一只热爱自己工作、向往人类社会的「猫又」。 | 1.[萌娘百科](https://zh.moegirl.org.cn/绮良良) |
 | tamaki kousaka | 向坂环 |  |  |
 | sellma | 罗克珊努 |  |  |
