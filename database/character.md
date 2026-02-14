@@ -3242,7 +3242,7 @@ example:
 | frostnova | 霜星 | ![我的白兔兔啊](https://img.moegirl.org.cn/common/2/21/Ak_char_1505_frstar_1.png)<br>[整合运动](https://zh.moegirl.org.cn/明日方舟:整合运动)法术部队干部，雪怪小队队长，“[爱国者](https://zh.moegirl.org.cn/明日方舟:爱国者)”的养女，第四章和第六章的封面人物。<br>在切尔诺伯格分城与罗德岛初次遭遇并开战，战斗中与罗德岛的博士被困于地下，与其吐露心声。<br><br>之后前往龙门接应梅菲斯特时因过度使用源石技艺导致时日无多，雪怪小队为了让霜星能够见爱国者最后一面主动殿后而全员阵亡。苏醒后得知此事的的霜星主动留下来阻截追来的阿米娅一行人，并使出了超规格的源石技艺，令阿米娅、煌和灰喉都难以招架。最终由于耗尽体力，用于维生的晶体破碎而倒地，在博士的怀里说出“愿意加入罗德岛”的誓言后含笑而逝。<br><br>遗体被博士带回罗德岛处理防止结晶粉尘化。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:霜星) |
 | achikita chinami | うさぎ工房 |  |  |
 | athena asamiya | 麻宫雅典娜 |  | [萌娘百科](https://zh.moegirl.org.cn/麻宫雅典娜) |
-| da ji | 妲己 |  |  |
+| da ji | 妲己 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/2/2f/Daji-circle-big.png)<br>所属作品：`honor of kings` |  |
 | da qiao | 大乔 |  |  |
 | dong zhuo | 董卓 |  |  |
 | sun ce | 孙策 |  |  |
