@@ -2583,7 +2583,7 @@ example:
 | chihiro ogino | 荻野千寻 |  |  |
 | tessie | 泰茜 | 《勇者斗恶龙IV 被引导的人们》里特鲁尼克的妻子 |  |
 | leia rolando | 蕾娅·罗兰德 |  |  |
-| nami | 娜美 | ①<br>所属作品：`one piece`<br>![](https://ehgt.org/w/02/096/61451-5vwfu4m0.webp)<br><br>②娜美（唤潮鲛姬）<br>所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/4/49/9g0g5c0u4xcsakgnmhvofpccf5i79i8.jpg) |  |
+| nami | 娜美 \| 唤潮鲛姬 | ①<br>![](https://static.wikia.nocookie.net/onepiece/images/4/48/Nami%27s_Wanted_Poster.png)<br>所属作品：`one piece`<br><br>②<br>![](https://patchwiki.biligame.com/images/lol/4/49/9g0g5c0u4xcsakgnmhvofpccf5i79i8.jpg)<br>唤潮鲛姬<br>所属作品：`league of legends` |  |
 | tashigi | 达斯琪 |  |  |
 | wang liu mei | 王留美 | ![](https://ehgt.org/w/02/052/37339-4b8hux2v.webp)<br>所属作品：`gundam 00`<br>作为社交名流活跃于金融界，其真实身份是国际秘密组织代理人，通过情报支持天人组织的活动。 |  |
 | sage | 贤者 | 《勇者斗恶龙》游戏系列角色职业之一 |  |
