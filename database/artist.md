@@ -14876,6 +14876,7 @@ example:
 | fusu | ふす |  | [pixiv](https://www.pixiv.net/users/30675161) |
 | sonoshiki | 園色 |  | [X](https://x.com/sonoshiki25) |
 | shuiro | 周一色 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22周一色%22/ana_flg/all) |
+| 4terabyte | 4terabyte |  | [FANBOX](https://fourterabyte.fanbox.cc/) \| [X](https://x.com/4tera_byte) \| [pixiv](https://www.pixiv.net/users/3538015) |
 
 <!--TEMPLATE:
 |  |  |  |  |
