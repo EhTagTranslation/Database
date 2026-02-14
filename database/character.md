@@ -8626,6 +8626,7 @@ example:
 | mem-cho | MEM啾 |  | [萌娘百科](https://zh.moegirl.org.cn/MEM_啾) |
 | rinkou ashelia | Lia Ch | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/15/Asheila2.png)<br>所属团体： Phase-Connect<br>日语：鈴香アシェリア | [YouTube](https://www.youtube.com/channel/UCg7sW-h1PUowdiR5K4HlBew) |
 | yachiyo runami | 月见八千代 | ![](https://static.wikia.nocookie.net/yuripedia/images/c/cb/Yachiyo_Runami.png)<br>所属作品：`chou kaguya-hime`<br>日语：月見 ヤチヨ |  |
+| sakurako shikishima | 敷岛樱子 | ![](https://static.wikia.nocookie.net/mono-manga/images/6/67/Mono-weekend-photo-sakurako_img.png)<br>所属作品：`mono`<br>日语：敷島桜子 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
