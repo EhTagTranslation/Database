@@ -8647,6 +8647,7 @@ example:
 | filene | 銀冰龍人‧菲琳 | ![](https://shadowverse-portal.com/image/card/phase2/common/C/C_108441030.png)<br>出自作品：`p:shadowverse` | [shadowverse-portal](https://shadowverse-portal.com/card/108441030?lang=zh-tw) |
 | levy mcgarden | 蕾比·马库嘎登 | ![](https://static.wikia.nocookie.net/fairytail/images/3/34/Levy_X792.png)<br>所属作品：`fairy tail`<br>日文：レビィ・マクガーデン |  |
 | gajeel redfox | 伽吉鲁·雷特福克斯 | ![](https://static.wikia.nocookie.net/fairytail/images/3/3f/Gajeel_Redfox_GMG.png)<br>所属作品：`fairy tail`<br>日文：ガジル・レッドフォックス |  |
+| hua mulan | 花木兰 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/d/dd/Mulan-circle-big.png)<br>所属作品：`honor of kings` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
