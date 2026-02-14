@@ -6030,7 +6030,7 @@ example:
 | miku | 未来 | Miku (ミク, Miku )是`p:darling in the franxx`中的主角之一。她曾是第十三种植园的寄生虫，代号为“390” ，与`c:zorome`组成男女搭档，驾驶名为青葙号的FRANXX。<br><br>外表漂亮，为自己的身材感到自豪的美少女。开朗而天真烂漫，但却很任性且不服输。 | [Fandom](https://darling-in-the-franxx.fandom.com/wiki/Miku) |
 | zorome | 纯位数 | 纯位数(ゾロメ, Zorome )是DARLING in the FRANXX 中的主角之一。他曾是第十三种植园的寄生虫，代号为“666” ，他与`c:miku`组成男女搭档，驾驶名为青葙号的FRANXX。 | [Fandom](https://darling-in-the-franxx.fandom.com/wiki/Zorome) |
 | minami fuyuki | 冬木美波 | 所属作品: `p:dosanko gal wa namaramenkoi` |  |
-| wendy marvell | 温蒂·玛贝尔 | 所属作品: `p:fairy tail` | [萌娘百科](https://zh.moegirl.org.cn/温蒂·玛贝尔) |
+| wendy marvell | 温蒂·玛贝尔 | ![](https://static.wikia.nocookie.net/fairytail/images/d/d1/Wendy_Anime_S5.png)<br>所属作品: `p:fairy tail`<br>日文：ウェンディ・マーベル | [萌娘百科](https://zh.moegirl.org.cn/温蒂·玛贝尔) |
 | helia | 赫丽雅 | 崩坏三第二部女主角之一 |  |
 | genichiro ashina | 苇名弦一郎 |  |  |
 | kuro | 神子九郎 |  |  |
