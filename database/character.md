@@ -8648,6 +8648,7 @@ example:
 | levy mcgarden | 蕾比·马库嘎登 | ![](https://static.wikia.nocookie.net/fairytail/images/3/34/Levy_X792.png)<br>所属作品：`fairy tail`<br>日文：レビィ・マクガーデン |  |
 | gajeel redfox | 伽吉鲁·雷特福克斯 | ![](https://static.wikia.nocookie.net/fairytail/images/3/3f/Gajeel_Redfox_GMG.png)<br>所属作品：`fairy tail`<br>日文：ガジル・レッドフォックス |  |
 | hua mulan | 花木兰 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/d/dd/Mulan-circle-big.png)<br>所属作品：`honor of kings` |  |
+| baili xuance | 百里玄策 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/5/56/Xuance-circle-big.png)<br>所属作品：`honor of kings` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
