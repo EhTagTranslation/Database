@@ -6762,7 +6762,7 @@ example:
 | keisuke | Keisuke |  |  |
 | keita | 蛍汰 |  |  |
 | keito | 圭斗 |  |  |
-| keke | ケケ |  |  |
+| keke | ケケ |  | [pixiv](https://www.pixiv.net/users/1453526) \| [X](https://x.com/keke_kawa) |
 | kemoribbon | けもりぼん | 猫野れんげ |  |
 | kemukemuke | けむけむけ |  |  |
 | kemushi | けむし |  |  |
