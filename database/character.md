@@ -8630,6 +8630,7 @@ example:
 | peashooter | 豌豆射手 | ![](https://static.wikia.nocookie.net/plantsvszombies/images/0/09/1769829-plant_peashooter_thumb.png)<br>所属作品：`plants vs. zombies` |  |
 | deep sea gargantuar | 深海巨人僵尸 | ![](https://static.wikia.nocookie.net/plantsvszombies/images/b/b3/Deep_Sea_GargantuarH.png)<br>所属作品：`plants vs. zombies` |  |
 | junker queen | 渣客女王 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/50/OW2_JunkerQueen.png)<br>所属作品：`overwatch` |  |
+| vendetta | 斩仇 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/9/96/OW2_Vendetta.png)<br>所属作品：`overwatch` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
