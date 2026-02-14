@@ -8439,7 +8439,7 @@ example:
 | kuriko kazetsubaki | 风椿玖里子 | ![](https://static.wikia.nocookie.net/maburaho/images/c/c6/Kuriko.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Kuriko_Kazetsubaki) |
 | rin kamishiro | 神城凛 | ![](https://static.wikia.nocookie.net/maburaho/images/5/55/Sample-3c40d83dd7d8718f8f541257d7c6eb54.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Rin_Kamishiro) |
 | yuna miyama | 宫间夕菜 | ![](https://static.wikia.nocookie.net/maburaho/images/3/3f/Sample-4b417945f01a6ed4005c8b601f710d9d.jpg)<br>所属作品：`maburaho` | [Fandom](https://maburaho.fandom.com/wiki/Yuna_Miyama) |
-| yao | 瑶 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:瑶) |
+| yao | 瑶 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/2/2d/Yaria-circle-big.png)<br>所属作品：`honor of kings` | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:瑶) |
 | wang zhaojun | 王昭君 | 《王者荣耀》角色 | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:王昭君) |
 | shangguan waner | 上官婉儿 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:上官婉儿) |
 | tieve | 提尔 | ![](https://ehgt.org/w/00/781/89643-0f6jteu1.webp)<br>出自作品：`p:vindictus`<br><br>提尔是韩国网游《洛奇英雄传》第一季的核心角色，身份为库汉村女祭司，由旅馆管理者艾伦瓦斯抚养长大，拥有与动物对话的能力。作为女神茉莉安转世，她背负着引导族人前往乐园的使命，却未察觉自身与爱琳世界的真相。 | [百度百科](https://baike.baidu.com/item/提尔/8179946?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=9448281be81cace676b9d27d&lemmaIdFrom=9559278) |
