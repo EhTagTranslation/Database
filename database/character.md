@@ -8625,6 +8625,7 @@ example:
 | camula | 卡缪拉 | ![卡缪拉](https://p.sda1.dev/30/cc31e1dfe0344b84bb963c2a02a58a19/image.png)<br>所属作品：《游戏王GX》登场角色。吸血鬼 | [百度百科](https://baike.baidu.com/item/卡缪拉/7446903) |
 | mem-cho | MEM啾 |  | [萌娘百科](https://zh.moegirl.org.cn/MEM_啾) |
 | rinkou ashelia | Lia Ch | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/1/15/Asheila2.png)<br>所属团体： Phase-Connect<br>日语：鈴香アシェリア | [YouTube](https://www.youtube.com/channel/UCg7sW-h1PUowdiR5K4HlBew) |
+| yachiyo runami | 超时空辉夜姬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
