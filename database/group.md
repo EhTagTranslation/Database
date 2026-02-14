@@ -13746,6 +13746,7 @@ example:
 | hakonnbu kitamaebune | 歯昆布北前船 |  | [BOOTH](https://hakonnbu.booth.pm/) |
 | chirumokeshi | ちるもけし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000992.html) |
 | omochi fry-ya-san | おもちフライ屋さん |  |  |
+| okkina tama | おっきなタマ |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
