@@ -1015,7 +1015,7 @@ example:
 | genjii | 源氏 | ![](https://ehgt.org/14/ce/14ce3f0478756a8eef63f26dcd6f00ae29978e7a-8056439-3267-2476-jpg_l.jpg) |  |
 | junkrat | 狂鼠 | ![](https://ehgt.org/99/61/996127efa4f8dd992aa36c3b41b6f83acb6cb9ba-8635523-3267-2476-jpg_l.jpg) |  |
 | roadhog | 路霸 | ![](https://ehgt.org/e8/64/e8647365bc3aa2f67bb90dc911f09e1055d7048c-9109991-3267-2476-jpg_l.jpg) |  |
-| pharah | 法老之鹰 | ![](https://ehgt.org/4a/ac/4aac8df9ae3844d3e0df72f3b2bd424fb344046b-8301539-3267-2476-jpg_l.jpg) |  |
+| pharah | 法老之鹰 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/b3/OW2_Pharah.png)<br>所属作品：`overwatch` |  |
 | soldier 76 | 士兵：76 | ![](https://ehgt.org/6d/c7/6dc76e6b88bcc6e6b91ccc9b37f09f839d34e154-8146761-3267-2476-jpg_l.jpg) |  |
 | symmetra | 秩序之光 | ![](https://ehgt.org/bb/f2/bbf294ed0b338a6904b0dc30bbb569ad746de138-8759364-3267-2476-jpg_l.jpg) |  |
 | winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) |  |
