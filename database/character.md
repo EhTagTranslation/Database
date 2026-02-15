@@ -8665,6 +8665,7 @@ example:
 | mahya blythe | 玛亚·布莱丝 | ![](https://static.wikia.nocookie.net/mai/images/3/31/Mahya_Blythe_GEM_Robe.jpg/revision/latest?cb=20230414043148)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Mahya_Blythe)<br>[百度百科](https://baike.baidu.com/item/玛亚·布莱丝/6960255) |
 | mashiro blan de windbloom | 真白·温德布罗姆 | ![](https://static.wikia.nocookie.net/mai/images/3/37/Mashiro_Blan_de_Windbloom.jpg/revision/latest?cb=20211125034858)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Mashiro_Blan_de_Windbloom)<br>[百度百科](https://baike.baidu.com/item/真白·温德布罗姆/5370509) |
 | mashiro kazahana | 风花真白 | ![](https://static.wikia.nocookie.net/mai/images/1/13/Mashiro_Kazahana.jpg/revision/latest?cb=20230417020103)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Mashiro_Kazahana)<br>[百度百科](https://baike.baidu.com/item/风花真白/10532033) |
+| midori | 碧 | ![](https://static.wikia.nocookie.net/mai/images/f/fd/Midori_%28Otome%29.jpg/revision/latest?cb=20230420051858)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Midori) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
