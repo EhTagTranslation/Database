@@ -8659,6 +8659,7 @@ example:
 | fumi himeno | 姬野二三 | 在`mai-hime`形象<br>![](https://static.wikia.nocookie.net/mai/images/2/20/Fumi_Himeno.jpg/revision/latest?cb=20230207074539)<br><br>在`mai-otome`形象<br>![](https://static.wikia.nocookie.net/mai/images/c/c6/MO_Fumi.jpg/revision/latest?cb=20230216065959) | [姬野二三(`mai-hime`)](https://mai.fandom.com/wiki/Fumi_Himeno_%28HiME%29)<br>[姬野二三(`mai-otome`)](https://mai.fandom.com/wiki/Fumi_Himeno_%28Otome%29) |
 | haruka armitage | 遥·阿米特吉 | ![](https://static.wikia.nocookie.net/mai/images/1/12/Haruka_Artumage_GEM_Robe.jpg/revision/latest?cb=20230414041826)<br>所属作品:`mai-otome` | [百度百科](https://baike.baidu.com/item/遥·阿米特吉/9896461)<br>[Fandom](https://mai.fandom.com/wiki/Haruka_Armitage) |
 | haruka suzushiro | 珠洲城遥 | ![](https://static.wikia.nocookie.net/mai/images/d/dd/Haruka_Suzushiro.jpg/revision/latest?cb=20211112083627)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Haruka_Suzushiro) |
+| hebi nyobo | 蛇女房 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/9d/S463_Sprite_Ver1_Stage2.png)<br>所属作品：`fate grand order` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
