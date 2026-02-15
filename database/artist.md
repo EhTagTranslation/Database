@@ -4446,7 +4446,7 @@ example:
 | bebebe | べべべ |  |  |
 | beco | Beco |  |  |
 | bee | bee |  |  |
-| beijuu | 米獸 |  |  |
+| beijuu | 米獸 |  | [pixiv](https://www.pixiv.net/users/5062519) \| [FANBOX](https://beijuu.fanbox.cc) \| [X](https://x.com/Beijuu545) |
 | bekko. | べっ子。 |  |  |
 | bekkou megane buchiko | べっこうめがねぶち子 |  |  |
 | bell | ベル |  |  |
