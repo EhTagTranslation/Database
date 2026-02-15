@@ -8685,6 +8685,7 @@ example:
 | reito kanzaki | 神崎黎人 | ![](https://static.wikia.nocookie.net/mai/images/f/fd/Reito_Kanzaki.jpg/revision/latest?cb=20211105035939)<br>所属作品:`mai-hime` | [百度百科](https://baike.baidu.com/item/神崎黎人/10532163)<br>[Fandom](https://mai.fandom.com/wiki/Reito_Kanzaki) |
 | shiho munakata | 宗像诗帆 | ![](https://static.wikia.nocookie.net/mai/images/1/19/Shiho_Munakata.png/revision/latest?cb=20220711055223)<br>所属作品:`mai-hime` | [百度百科](https://baike.baidu.com/item/宗像诗帆/10531831)<br>[Fandom](https://mai.fandom.com/wiki/Shiho_Munakata) |
 | yukariko sanada | 真田紫子 | ![](https://static.wikia.nocookie.net/mai/images/c/cd/Yukariko_Sanada_%28charsheet%29.jpg/revision/latest?cb=20230417034222)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yukariko_Sanada)<br>[百度百科](https://baike.baidu.com/item/真田紫子/7584703) |
+| yuuichi tate | 楯佑一 | ![](https://static.wikia.nocookie.net/mai/images/2/25/Yuuichi_Tate.jpg/revision/latest?cb=20230425034057)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yuuichi_Tate)<br>[百度百科](https://baike.baidu.com/item/楯佑一/10532202) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
