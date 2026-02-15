@@ -8651,6 +8651,7 @@ example:
 | baili xuance | 百里玄策 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/5/56/Xuance-circle-big.png)<br>所属作品：`honor of kings` |  |
 | allain | 阿兰 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/a/af/Allain-circle-big.png)<br>所属作品：`honor of kings` |  |
 | dyadia | 少司缘 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/1/15/Dyadia-circle-big.png)<br>所属作品：`honor of kings` |  |
+| akane soir | 茜·索瓦鲁 | ![](https://static.wikia.nocookie.net/mai/images/5/5e/Akane_Soir_GEM_Robe.jpg/revision/latest?cb=20221219065332)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Akane_Soir)<br>[百度百科](https://baike.baidu.com/item/茜·索瓦鲁/6950767) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
