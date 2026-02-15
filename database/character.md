@@ -8655,6 +8655,7 @@ example:
 | akira okuzaki | 尾久崎晶 | 在`mai-hime`中形象：<br>![](https://static.wikia.nocookie.net/mai/images/6/6d/Akira_okuzaki_470.jpg/revision/latest?cb=20110225053504)<br><br>在`mai-otome`中形象：<br>![](https://static.wikia.nocookie.net/mai/images/d/d2/Akira_Okuzaki_%28Otome%29.jpg/revision/latest?cb=20211104065701) | [尾久崎晶(`mai-hime`)](https://mai.fandom.com/wiki/Akira_Okuzaki)<br>[尾久崎晶(`mai-otome`)](https://mai.fandom.com/wiki/Akira_Okuzaki_%28Otome%29) |
 | arika yumemiya | 爱莉卡·梦宫 | ![](https://static.wikia.nocookie.net/mai/images/6/64/Mai_Otome_8.jpeg/revision/latest?cb=20090216224835)<br>所属作品：`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Arika_Yumemiya)<br>[百度百科](https://baike.baidu.com/item/爱莉卡·梦宫/5371692) |
 | chie hallard | 千绘·海拉德 | ![](https://static.wikia.nocookie.net/mai/images/6/6e/Chie_Hallard.jpg/revision/latest?cb=20211125054025)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Chie_Hallard?file=Chie_Hallard.jpg) |
+| erstin ho | 爱尔丝汀·霍 | ![](https://static.wikia.nocookie.net/mai/images/9/97/Erstin.jpg/revision/latest?cb=20241109193412)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Erstin_Ho)<br>[百度百科](https://baike.baidu.com/item/爱尔丝汀·霍/9896363) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
