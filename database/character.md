@@ -8682,6 +8682,7 @@ example:
 | yukino chrysant | 雪之·克利桑德 | ![](https://static.wikia.nocookie.net/mai/images/2/20/Yukino_Chrysant.gif/revision/latest?cb=20120630160927)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Yukino_Chrysant) |
 | yukino kikukawa | 菊川雪之 | ![](https://static.wikia.nocookie.net/mai/images/3/38/Yukino_Kikikawa.png/revision/latest?cb=20220711035215)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yukino_Kikukawa)<br>[百度百科](https://baike.baidu.com/item/菊川雪之/10531868) |
 | masashi takeda | 武田将士 | 所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Masashi_Takeda) |
+| reito kanzaki | 神崎黎人 | ![](https://static.wikia.nocookie.net/mai/images/f/fd/Reito_Kanzaki.jpg/revision/latest?cb=20211105035939)<br>所属作品:`mai-hime` | [百度百科](https://baike.baidu.com/item/神崎黎人/10532163)<br>[Fandom](https://mai.fandom.com/wiki/Reito_Kanzaki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
