@@ -8663,7 +8663,7 @@ example:
 | juliet nao zhang | 茱丽叶·奈绪·张 | ![](https://static.wikia.nocookie.net/mai/images/d/d7/JNZ.jpg/revision/latest?cb=20090911153725)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Juliet_Nao_Zhang) |
 | lena sayers | 蕾娜·赛亚兹 | ![](https://static.wikia.nocookie.net/mai/images/1/15/Lena_Sayers_GEM_Robe.jpg/revision/latest?cb=20230417081245)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Lena_Sayers) |
 | mahya blythe | 玛亚·布莱丝 | ![](https://static.wikia.nocookie.net/mai/images/3/31/Mahya_Blythe_GEM_Robe.jpg/revision/latest?cb=20230414043148)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Mahya_Blythe)<br>[百度百科](https://baike.baidu.com/item/玛亚·布莱丝/6960255) |
-| mashiro blan de windbloom | 真白·温德布罗姆 | ![](https://static.wikia.nocookie.net/mai/images/3/37/Mashiro_Blan_de_Windbloom.jpg/revision/latest?cb=20211125034858)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Mashiro_Blan_de_Windbloom) |
+| mashiro blan de windbloom | 真白·温德布罗姆 | ![](https://static.wikia.nocookie.net/mai/images/3/37/Mashiro_Blan_de_Windbloom.jpg/revision/latest?cb=20211125034858)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Mashiro_Blan_de_Windbloom)<br>[百度百科](https://baike.baidu.com/item/真白·温德布罗姆/5370509) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
