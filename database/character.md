@@ -8667,6 +8667,7 @@ example:
 | mashiro kazahana | 风花真白 | ![](https://static.wikia.nocookie.net/mai/images/1/13/Mashiro_Kazahana.jpg/revision/latest?cb=20230417020103)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Mashiro_Kazahana)<br>[百度百科](https://baike.baidu.com/item/风花真白/10532033) |
 | midori | 碧 | ![](https://static.wikia.nocookie.net/mai/images/f/fd/Midori_%28Otome%29.jpg/revision/latest?cb=20230420051858)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Midori) |
 | midori sugiura | 杉浦碧 | ![](https://static.wikia.nocookie.net/mai/images/e/eb/Midori_Sugiura.jpg/revision/latest?cb=20230424052153)<br>所属作品:`mai-hime` | [百度百科](https://baike.baidu.com/item/杉浦碧/10531750)<br>[Fandom](https://mai.fandom.com/wiki/Midori_Sugiura) |
+| mikoto minagi | 美袋命 | ![](https://static.wikia.nocookie.net/mai/images/2/2d/Mikoto_Minagi.png/revision/latest?cb=20220711053850)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Mikoto_Minagi)<br>[百度百科](https://baike.baidu.com/item/美袋命/10531709) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
