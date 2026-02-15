@@ -3875,7 +3875,7 @@ example:
 | namiko | 奈美子 |  |  |
 | hass | 莲 |  |  |
 | kazuha kaedehara | 枫原万叶 | 枫原万叶（英语：kazuha kaedehara）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/0/04/原神_枫原万叶.jpg) | [萌娘百科](https://zh.moegirl.org.cn/枫原万叶) [Fandom](https://genshin-impact.fandom.com/wiki/Kaedehara_Kazuha) |
-| scaramouche | 「散兵」斯卡拉姆齐 | 散兵（英语：scaramouche）所属作品:`p:genshin impact`<br>是由米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/d/db/原神流浪者.jpg) | [萌娘百科](https://zh.moegirl.org.cn/国崩) [Fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
+| scaramouche | 「散兵」斯卡拉姆齐 | ![](https://img.moegirl.org.cn/common/d/db/原神流浪者.jpg)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/国崩) [Fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
 | himiko | 卑弥呼 | 古代日本邪马台国的女王。 | [维基百科](https://zh.wikipedia.org/wiki/卑弥呼) |
 | zenobia | 芝诺比阿 |  |  |
 | paris | 帕里斯 |  |  |
