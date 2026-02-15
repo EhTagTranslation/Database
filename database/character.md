@@ -8445,7 +8445,7 @@ example:
 | tieve | 提尔 | ![](https://ehgt.org/w/00/781/89643-0f6jteu1.webp)<br>出自作品：`p:vindictus`<br><br>提尔是韩国网游《洛奇英雄传》第一季的核心角色，身份为库汉村女祭司，由旅馆管理者艾伦瓦斯抚养长大，拥有与动物对话的能力。作为女神茉莉安转世，她背负着引导族人前往乐园的使命，却未察觉自身与爱琳世界的真相。 | [百度百科](https://baike.baidu.com/item/提尔/8179946?lemmaFrom=lemma_starMap&fromModule=lemma_starMap&starNodeId=9448281be81cace676b9d27d&lemmaIdFrom=9559278) |
 | ao run | 敖闰 |  | [萌娘百科](https://zh.moegirl.org.cn/敖闰) |
 | gongsun li | 公孙离 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/7/71/Arli-circle-big.png)<br>所属作品：`honor of kings` | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:公孙离) |
-| xi shi | 西施 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:西施) |
+| xi shi | 西施 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/1/18/Shi-circle-big.png)<br>所属作品：`honor of kings` | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:西施) |
 | chang e | 嫦娥 |  | [萌娘百科](https://zh.moegirl.org.cn/王者荣耀:嫦娥) |
 | rydia | 莉迪亚 | ![](https://ehgt.org/w/02/121/50309-qujjenn5.webp)<br>出自作品：`p:final fantasy iv` | [Fandom](https://ffexvius.fandom.com/zh/wiki/莉迪亞?variant=zh-hans) |
 | ventana | 班塔纳 | ![](https://ehgt.org/w/02/137/79268-usdntp15.webp)<br>出自作品：`p:brave nine` | [gamekee](https://www.gamekee.com/zsca2/tj/602076.html) |
