@@ -13749,6 +13749,7 @@ example:
 | okkina tama | おっきなタマ |  |  |
 | chounai fukubiki ken | 町内福引犬 |  |  |
 | ikura kantai | いくら艦隊 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41615.html) |
+| panda boxing | Panda Boxing |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63498.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
