@@ -8650,6 +8650,7 @@ example:
 | hua mulan | 花木兰 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/d/dd/Mulan-circle-big.png)<br>所属作品：`honor of kings` |  |
 | baili xuance | 百里玄策 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/5/56/Xuance-circle-big.png)<br>所属作品：`honor of kings` |  |
 | allain | 阿兰 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/a/af/Allain-circle-big.png)<br>所属作品：`honor of kings` |  |
+| dyadia | 少司缘 | ![](https://static.wikia.nocookie.net/honor-of-kings/images/1/15/Dyadia-circle-big.png)<br>所属作品：`honor of kings` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
