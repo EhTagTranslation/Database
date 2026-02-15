@@ -8658,6 +8658,7 @@ example:
 | erstin ho | 爱尔丝汀·霍 | ![](https://static.wikia.nocookie.net/mai/images/9/97/Erstin.jpg/revision/latest?cb=20241109193412)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Erstin_Ho)<br>[百度百科](https://baike.baidu.com/item/爱尔丝汀·霍/9896363) |
 | fumi himeno | 姬野二三 | 在`mai-hime`形象<br>![](https://static.wikia.nocookie.net/mai/images/2/20/Fumi_Himeno.jpg/revision/latest?cb=20230207074539)<br><br>在`mai-otome`形象<br>![](https://static.wikia.nocookie.net/mai/images/c/c6/MO_Fumi.jpg/revision/latest?cb=20230216065959) | [姬野二三(`mai-hime`)](https://mai.fandom.com/wiki/Fumi_Himeno_%28HiME%29)<br>[姬野二三(`mai-otome`)](https://mai.fandom.com/wiki/Fumi_Himeno_%28Otome%29) |
 | haruka armitage | 遥·阿米特吉 | ![](https://static.wikia.nocookie.net/mai/images/1/12/Haruka_Artumage_GEM_Robe.jpg/revision/latest?cb=20230414041826)<br>所属作品:`mai-otome` | [百度百科](https://baike.baidu.com/item/遥·阿米特吉/9896461)<br>[Fandom](https://mai.fandom.com/wiki/Haruka_Armitage) |
+| haruka suzushiro | 珠洲城遥 | ![](https://static.wikia.nocookie.net/mai/images/d/dd/Haruka_Suzushiro.jpg/revision/latest?cb=20211112083627)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Haruka_Suzushiro) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
