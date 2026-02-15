@@ -14888,6 +14888,7 @@ example:
 | kinginboueki | キンギン貿易 |  | [FANBOX](https://www.fanbox.cc/@kinginboueki) \| [X](https://x.com/Kinginboueki) \| [pixiv](https://www.pixiv.net/users/24502197) \| [Skeb](https://skeb.jp/@Kinginboueki) |
 | yamamori potato | 山森ぽてと |  |  |
 | nemunoya | ねむのや |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ねむのや%22/ana_flg/all) |
+| theremin | 仮野テル |  | [pixiv](https://www.pixiv.net/users/26987) \| [X](https://x.com/karinoteru) |
 
 <!--TEMPLATE:
 |  |  |  |  |
