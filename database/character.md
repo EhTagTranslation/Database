@@ -8687,6 +8687,7 @@ example:
 | yukariko sanada | 真田紫子 | ![](https://static.wikia.nocookie.net/mai/images/c/cd/Yukariko_Sanada_%28charsheet%29.jpg/revision/latest?cb=20230417034222)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yukariko_Sanada)<br>[百度百科](https://baike.baidu.com/item/真田紫子/7584703) |
 | yuuichi tate | 楯佑一 | ![](https://static.wikia.nocookie.net/mai/images/2/25/Yuuichi_Tate.jpg/revision/latest?cb=20230425034057)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yuuichi_Tate)<br>[百度百科](https://baike.baidu.com/item/楯佑一/10532202) |
 | sergei wang | 赛尔格·翁 | 所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Sergay_Wáng) |
+| shiho huit | 诗帆·尤伊 | ![](https://static.wikia.nocookie.net/mai/images/2/20/Shiho_Huit_GEM_Robe.jpg/revision/latest?cb=20230414042415)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Shiho_Huit) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
