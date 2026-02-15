@@ -13748,6 +13748,7 @@ example:
 | omochi fry-ya-san | おもちフライ屋さん |  |  |
 | okkina tama | おっきなタマ |  |  |
 | chounai fukubiki ken | 町内福引犬 |  |  |
+| ikura kantai | いくら艦隊 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41615.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
