@@ -8661,6 +8661,7 @@ example:
 | haruka suzushiro | 珠洲城遥 | ![](https://static.wikia.nocookie.net/mai/images/d/dd/Haruka_Suzushiro.jpg/revision/latest?cb=20211112083627)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Haruka_Suzushiro) |
 | hebi nyobo | 蛇女房 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/9d/S463_Sprite_Ver1_Stage2.png)<br>所属作品：`fate grand order` |  |
 | juliet nao zhang | 茱丽叶·奈绪·张 | ![](https://static.wikia.nocookie.net/mai/images/d/d7/JNZ.jpg/revision/latest?cb=20090911153725)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Juliet_Nao_Zhang) |
+| lena sayers | 蕾娜·赛亚兹 | ![](https://static.wikia.nocookie.net/mai/images/1/15/Lena_Sayers_GEM_Robe.jpg/revision/latest?cb=20230417081245)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Lena_Sayers) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
