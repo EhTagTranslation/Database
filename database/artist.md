@@ -14884,6 +14884,7 @@ example:
 | chako | 茶子 |  | [X](https://x.com/xxxmochako) |
 | nitoshu | 二兎狩 |  | [pixiv](https://www.pixiv.net/users/4139110) \| [X](https://x.com/knit_gully) |
 | chujin mikn | 初锦mikn |  | [pixiv](https://www.pixiv.net/users/20577804) |
+| yasei namahamu | やせい生はむ |  | [pixiv](https://www.pixiv.net/users/25719352) \| [X](https://x.com/yasei_namahamu2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
