@@ -14886,6 +14886,7 @@ example:
 | chujin mikn | 初锦mikn |  | [pixiv](https://www.pixiv.net/users/20577804) |
 | yasei namahamu | やせい生はむ |  | [pixiv](https://www.pixiv.net/users/25719352) \| [X](https://x.com/yasei_namahamu2) \| [FANBOX](https://yaseihamu.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/478108) |
 | kinginboueki | キンギン貿易 |  | [FANBOX](https://www.fanbox.cc/@kinginboueki) \| [X](https://x.com/Kinginboueki) \| [pixiv](https://www.pixiv.net/users/24502197) \| [Skeb](https://skeb.jp/@Kinginboueki) |
+| yamamori potato | 山森ぽてと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
