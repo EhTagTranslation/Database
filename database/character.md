@@ -8681,6 +8681,7 @@ example:
 | yohko helene | 阳子·海伦娜 | ![](https://static.wikia.nocookie.net/mai/images/2/24/Yohko_Helene.jpg/revision/latest?cb=20230427065820)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Yohko_Helene)<br>[百度百科](https://baike.baidu.com/item/阳子·海伦娜/6958776) |
 | yukino chrysant | 雪之·克利桑德 | ![](https://static.wikia.nocookie.net/mai/images/2/20/Yukino_Chrysant.gif/revision/latest?cb=20120630160927)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Yukino_Chrysant) |
 | yukino kikukawa | 菊川雪之 | ![](https://static.wikia.nocookie.net/mai/images/3/38/Yukino_Kikikawa.png/revision/latest?cb=20220711035215)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yukino_Kikukawa)<br>[百度百科](https://baike.baidu.com/item/菊川雪之/10531868) |
+| masashi takeda | 武田将士 | 所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Masashi_Takeda) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
