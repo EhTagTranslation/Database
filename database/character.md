@@ -3878,7 +3878,7 @@ example:
 | scaramouche | 「散兵」斯卡拉姆齐 | ![](https://img.moegirl.org.cn/common/d/db/原神流浪者.jpg)<br>所属作品:`p:genshin impact` | [萌娘百科](https://zh.moegirl.org.cn/国崩) [Fandom](https://genshin-impact.fandom.com/wiki/Scaramouche) |
 | himiko | 卑弥呼 | 古代日本邪马台国的女王。 | [维基百科](https://zh.wikipedia.org/wiki/卑弥呼) |
 | zenobia | 芝诺比阿 |  |  |
-| paris | 帕里斯 |  |  |
+| paris | 帕里斯 | ![](https://static.wikia.nocookie.net/fategrandorder/images/8/8b/S255_Sprite_Ver1_Stage2_NoApollo.png)<br>所属作品：`fate grand order` |  |
 | captain nemo | 尼莫船长 | 尼莫是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/4/4a/Captain_Nemo.png) | [萌娘百科](https://zh.moegirl.org.cn/尼莫) |
 | sukuna | 两面宿傩 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/两面宿傩) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) |
 | yuuji itadori | 虎杖悠仁 | 所属作品: `p:jujutsu kaisen` | [萌娘百科](https://zh.moegirl.org.cn/虎杖悠仁) [Fandom](https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori) [维基百科（英语）](https://en.wikipedia.org/wiki/Yuji_Itadori) |
