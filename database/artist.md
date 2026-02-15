@@ -14622,7 +14622,7 @@ example:
 | si-man | しーまん |  |  |
 | nini no yobikata | 任意の呼び方 |  |  |
 | omurice | オムライス |  |  |
-| 5t | 5T |  |  |
+| 5t | 5T |  | [FANBOX](https://ttttt.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/66753557) \| [X](https://x.com/5t_000) |
 | frozen spider lily | Frozenspiderlily |  |  |
 | kazenami | かぜなみ |  |  |
 | morita tsumire | 森田つみれ |  |  |
