@@ -8688,6 +8688,7 @@ example:
 | yuuichi tate | 楯佑一 | ![](https://static.wikia.nocookie.net/mai/images/2/25/Yuuichi_Tate.jpg/revision/latest?cb=20230425034057)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Yuuichi_Tate)<br>[百度百科](https://baike.baidu.com/item/楯佑一/10532202) |
 | sergei wang | 赛尔格·翁 | 所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Sergay_Wáng) |
 | shiho huit | 诗帆·尤伊 | ![](https://static.wikia.nocookie.net/mai/images/2/20/Shiho_Huit_GEM_Robe.jpg/revision/latest?cb=20230414042415)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Shiho_Huit) |
+| nagi dai artai | 凪·戴·阿尔泰 | ![](https://static.wikia.nocookie.net/mai/images/0/0d/Nagi_Dai_Artai.gif/revision/latest?cb=20120630160235)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Nagi_Dài_Artai) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
