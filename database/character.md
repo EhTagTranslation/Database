@@ -8671,6 +8671,7 @@ example:
 | miyu | 深优 | 所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Miyu) |
 | miyu greer | 深优·古利亚 | ![](https://static.wikia.nocookie.net/mai/images/9/99/Miyu-game-art.jpg/revision/latest?cb=20220708200308)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Miyu_Greer) |
 | nao yuuki | 结城奈绪 | ![](https://static.wikia.nocookie.net/mai/images/9/91/Nao2.jpg/revision/latest?cb=20090911152005)<br>所属作品:`mai-hime` | [Fandom](https://mai.fandom.com/wiki/Nao_Yuuki)<br>[百度百科](https://baike.baidu.com/item/结城奈绪/10531796) |
+| natsuki kruger | 夏树·库鲁格 | ![](https://static.wikia.nocookie.net/mai/images/c/c5/Natsuki_Kruger_GEM_Robe.jpg/revision/latest?cb=20230414041542)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Natsuki_Kruger)<br>[百度百科](https://baike.baidu.com/item/夏树·库鲁格/6960479) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
