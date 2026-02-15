@@ -8675,6 +8675,7 @@ example:
 | nina wang | 妮娜·翁 | ![](https://static.wikia.nocookie.net/mai/images/e/e4/Nina_Wang_%28Ultimate_Black_Diamond%29.jpg/revision/latest?cb=20210809033147)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Nina_Wáng)<br>[百度百科](https://baike.baidu.com/item/妮娜·翁/9765000) |
 | rosalie claudel | 罗莎丽·克劳迪尔 | ![](https://static.wikia.nocookie.net/mai/images/c/c2/Rosalie_Claudel_GEM_Robe.jpg/revision/latest?cb=20230414041349)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Rosalie_Claudel)<br>[百度百科](https://baike.baidu.com/item/罗莎丽·克劳迪尔/6950505) |
 | sara gallagher | 莎菈·加拉格 | ![](https://static.wikia.nocookie.net/mai/images/f/f8/Sara_Gallagher_GEM_Robe.jpg/revision/latest?cb=20230412061334)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Sara_Gallagher)<br>[百度百科](https://baike.baidu.com/item/莎拉·加拉格/6960619) |
+| shizuru fujino | 藤乃静留 | `mai-hime`中形象 (藤乃静留)：<br>![](https://static.wikia.nocookie.net/mai/images/c/cb/Shizuru_Fujino.png/revision/latest?cb=20220711075800)<br><br>`mai-otome`中形象 (静留·薇奥拉):<br>![](https://static.wikia.nocookie.net/mai/images/a/a5/Shizuru_Viola_GEM_Robe.jpg/revision/latest?cb=20230414042906) | [Fandom](https://mai.fandom.com/wiki/Shizuru_Fujino)<br>[萌娘百科](https://zh.moegirl.org.cn/藤乃静留) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
