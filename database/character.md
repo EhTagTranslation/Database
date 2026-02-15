@@ -8656,6 +8656,7 @@ example:
 | arika yumemiya | 爱莉卡·梦宫 | ![](https://static.wikia.nocookie.net/mai/images/6/64/Mai_Otome_8.jpeg/revision/latest?cb=20090216224835)<br>所属作品：`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Arika_Yumemiya)<br>[百度百科](https://baike.baidu.com/item/爱莉卡·梦宫/5371692) |
 | chie hallard | 千绘·海拉德 | ![](https://static.wikia.nocookie.net/mai/images/6/6e/Chie_Hallard.jpg/revision/latest?cb=20211125054025)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Chie_Hallard?file=Chie_Hallard.jpg) |
 | erstin ho | 爱尔丝汀·霍 | ![](https://static.wikia.nocookie.net/mai/images/9/97/Erstin.jpg/revision/latest?cb=20241109193412)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Erstin_Ho)<br>[百度百科](https://baike.baidu.com/item/爱尔丝汀·霍/9896363) |
+| fumi himeno | 姬野二三 | 在`mai-hime`形象<br>![](https://static.wikia.nocookie.net/mai/images/2/20/Fumi_Himeno.jpg/revision/latest?cb=20230207074539)<br><br>在`mai-otome`形象<br>![](https://static.wikia.nocookie.net/mai/images/c/c6/MO_Fumi.jpg/revision/latest?cb=20230216065959) | [姬野二三(`mai-hime`)](https://mai.fandom.com/wiki/Fumi_Himeno_%28HiME%29)<br>[姬野二三(`mai-otome`)](https://mai.fandom.com/wiki/Fumi_Himeno_%28Otome%29) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
