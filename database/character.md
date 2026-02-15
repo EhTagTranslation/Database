@@ -8677,6 +8677,7 @@ example:
 | sara gallagher | 莎菈·加拉格 | ![](https://static.wikia.nocookie.net/mai/images/f/f8/Sara_Gallagher_GEM_Robe.jpg/revision/latest?cb=20230412061334)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Sara_Gallagher)<br>[百度百科](https://baike.baidu.com/item/莎拉·加拉格/6960619) |
 | shizuru fujino | 藤乃静留 | `mai-hime`中形象 (藤乃静留)：<br>![](https://static.wikia.nocookie.net/mai/images/c/cb/Shizuru_Fujino.png/revision/latest?cb=20220711075800)<br><br>`mai-otome`中形象 (静留·薇奥拉):<br>![](https://static.wikia.nocookie.net/mai/images/a/a5/Shizuru_Viola_GEM_Robe.jpg/revision/latest?cb=20230414042906) | [Fandom](https://mai.fandom.com/wiki/Shizuru_Fujino)<br>[萌娘百科](https://zh.moegirl.org.cn/藤乃静留) |
 | takumi tokiha | 鸨羽巧海 | ![](https://static.wikia.nocookie.net/mai/images/7/74/Takumi-tokiha-15222.jpg/revision/latest?cb=20210309184015)<br><br>所属作品:`mai-hime`，`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Takumi_Tokiha_%28Otome%29) |
+| tomoe marguerite | 芭·玛格丽特 | ![](https://static.wikia.nocookie.net/mai/images/1/15/Tomoe_Marguerite_GEM_Robe.jpg/revision/latest?cb=20230414042209)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Tomoe_Marguerite) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
