@@ -14882,6 +14882,7 @@ example:
 | kireina mochi | も |  | [pixiv](https://www.pixiv.net/users/5835340) \| [pawoo](https://pawoo.net/@kireinamo) \| [X](https://x.com/kireina_mochi) |
 | komori kuduyu | 小森くづゆ |  |  |
 | chako | 茶子 |  | [X](https://x.com/xxxmochako) |
+| nitoshu | 二兎狩 |  | [pixiv](https://www.pixiv.net/users/4139110) \| [X](https://x.com/knit_gully) |
 
 <!--TEMPLATE:
 |  |  |  |  |
