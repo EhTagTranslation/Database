@@ -13747,6 +13747,7 @@ example:
 | chirumokeshi | ちるもけし |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000992.html) |
 | omochi fry-ya-san | おもちフライ屋さん |  |  |
 | okkina tama | おっきなタマ |  |  |
+| chounai fukubiki ken | 町内福引犬 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
