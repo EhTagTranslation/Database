@@ -6440,7 +6440,7 @@ example:
 | nanao hibiya | 奈奈绪响谷 | 所属作品: `p:nanatsu no maken ga shihai suru` | [百度百科](https://baike.baidu.com/item/奈奈绪·响谷) |
 | mari satsuki | 佐月麻里 | ![](https://storage.moegirl.org.cn/moegirl/commons/4/47/Satsuki_Mari.png)<br>所属作品：`heaven burns red`<br>在基地内的多有商店工作的超人店员。 |  |
 | adelheid kanzaki | 神崎阿迪尔海德 | ![](https://storage.moegirl.org.cn/moegirl/commons/b/bb/Kanzaki_Adelheid.png)<br>所属作品：`heaven burns red`<br>来自德国，爱出风头所以绝不隐身的忍者。 |  |
-| capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 |  |  |
+| capella emerada lugunica | 卡佩菈·爱梅拉妲·露格尼卡 | ![](https://static.wikia.nocookie.net/rezero/images/4/43/Capella_Emerada_Lugunica_LN_character_design.png)<br>所属作品：`re zero kara hajimeru isekai seikatsu` |  |
 | jin-ah sung | 程肖雅丨水筱葵 | 所属作品：`solo leveling`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/02/23/12/56/04/127541876_p6_master1200.jpg) |  |
 | samui | 萨姆伊 |  |  |
 | heles | 赫尔艾斯 | ![](https://huiji-public.huijistatic.com/gbf/uploads/3/33/Zoom_3040060000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/b/b1/Zoom_3040208000_01.png)<br>所属作品：`granblue fantasy` |  |
