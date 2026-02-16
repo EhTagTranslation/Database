@@ -4530,7 +4530,7 @@ example:
 | frederica baumann | 法兰黛莉卡·鲍曼 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/08/13/16/49/37/133833988_p0_master1200.jpg)<br>所属作品：`re zero kara hajimeru isekai seikatsu`<br>罗兹瓦尔宅邸的女仆，有四分之一的亚人血统，金发绿瞳的模样还有尖牙。菜月昴第一眼看到评价为“牙好可怕”。 | [萌娘百科](https://zh.moegirl.org.cn/法兰黛莉卡·鲍曼) |
 | ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
 | toki asuma | 飞鸟马时 | 所属作品: `p:blue archive`<br>千年科学学园所属，秘密组织C&C的五号特工。<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/3/3c/Toki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki) \| [Gamekee](https://www.gamekee.com/ba/tj/584417.html) |
-| carol olston | 卡洛儿·奥尔斯顿 | 漫画《智酱是女生！》的登场角色。 |  |
+| carol olston | 卡洛儿·奥尔斯顿 | ![](https://ehgt.org/w/02/124/36461-kii6igku.webp)<br>出自作品：`p:tomo-chan wa onnanoko`<br><br>漫画《智酱是女生！》的登场角色。 |  |
 | shiroko terror | 白子\*恐怖 | 所属作品: `p:blue archive`<br><br>遭到色彩反转之后诞生的砂狼白子变种，灾难级别的存在，最初在序章里登场，之后极长的时间里都没有再出现过，直到最终篇的更新。<br>![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/砂狼白子)<br>[Fandom](https://bluearchive.fandom.com/wiki/Shiroko_Terror)<br>[基沃托斯古书馆](https://kivo.wiki/data/character/135) |
 | dia viekone | 蒂雅·维科尼 | ![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png)<br>所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>卢各·图哈德的表姐、魔法启蒙老师、初恋。 | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
