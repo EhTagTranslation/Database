@@ -8691,6 +8691,7 @@ example:
 | nagi dai artai | 凪·戴·阿尔泰 | ![](https://static.wikia.nocookie.net/mai/images/0/0d/Nagi_Dai_Artai.gif/revision/latest?cb=20120630160235)<br>所属作品:`mai-otome` | [Fandom](https://mai.fandom.com/wiki/Nagi_Dài_Artai) |
 | fuyu wakasa | 若狭冬 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/8e/Fuyu_Portrait.png)<br>所属作品：`blue archive` |  |
 | domina | 多米娜 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/OW2_Domina.png)<br>所属作品：`overwatch` |  |
+| shitagai nora | 従井ノラ | 日本虚拟主播(vtuber) | [pixiv](https://dic.pixiv.net/a/従井ノラ) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
