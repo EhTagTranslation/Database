@@ -12433,7 +12433,7 @@ example:
 | tuberose | 月化香 |  |  |
 | naga to yappari yukai na nakama-tachi | nagaとやっぱり愉快な仲間たち |  | [HP](http://blog.livedoor.jp/nagatoyukaina/) |
 | attakai inu no yoru de | 暖かい淫雨の夜で |  |  |
-| nikoushikou | に向思考 |  |  |
+| nikoushikou | に向思考 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44980.html) |
 | anata wa onaka ga suiteiru | あなたはお腹がすいている |  |  |
 | yurushite ochinti kyo | 許しておちんち教 |  |  |
 | seiheki kenkyuujo bravo han | 性癖研究所 ブラボー班 |  |  |
