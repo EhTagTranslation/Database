@@ -14889,6 +14889,7 @@ example:
 | yamamori potato | 山森ぽてと |  |  |
 | nemunoya | ねむのや |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ねむのや%22/ana_flg/all) |
 | theremin | 仮野テル |  | [pixiv](https://www.pixiv.net/users/26987) \| [X](https://x.com/karinoteru) |
+| saltydanshark | ソルティ男爵 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
