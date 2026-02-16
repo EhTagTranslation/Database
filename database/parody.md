@@ -2736,7 +2736,7 @@ example:
 | mono | Mono | ![](https://static.wikia.nocookie.net/mono-manga/images/3/36/Twitter-mono_weekend-anime_poster-16feb2025.jpg)<br>漫画作者：あfろ |  |
 | yano-kun no futsuu no hibi | 矢野同学的普通日常 | ![](https://static.wikia.nocookie.net/japanese-voiceover/images/c/ca/Yano-kun%27s_Ordinary_Days_2025_Poster.png) |  |
 | kpop demon hunters | Kpop 猎魔女团 | 《Kpop 猎魔女团》（英语：KPop Demon Hunters）是一部2025年美国动画歌舞都市奇幻电影。该片由索尼动画制作，玛姬·姜和克里斯·艾伯翰斯共同执导，汉娜·麦克麦肯（Hannah McMechan）、丹雅·希门尼斯（Danya Jimenez）、玛姬·姜和艾伯翰斯共同编剧。电影的主要配音阵容包括赵雅顿、安孝燮、玫·洪、柳智英、金伦珍、乔尔·金·布斯特、莱莎·柯希、金大贤、郑康祖及李炳宪。 | [维基百科](https://zh.wikipedia.org/wiki/Kpop_獵魔女團) |
-| nihon e youkoso elf-san. | 欢迎来到日本，妖精小姐 |  |  |
+| nihon e youkoso elf-san. | 精灵来日 | ![](https://static.wikia.nocookie.net/welcome-to-japan-ms-elf/images/4/44/Vol.1-00.jpg)<br>全名：欢迎来到日本，妖精小姐<br>日语：日本へようこそエルフさん |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
