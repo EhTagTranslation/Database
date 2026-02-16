@@ -14897,6 +14897,7 @@ example:
 | yakoubin | 夜行便 |  | [pixiv](https://www.pixiv.net/users/91206828) \| [X](https://x.com/HC_overnight2) \| [FANBOX](https://hc-overnight.fanbox.cc) |
 | ubamaru | うば丸 |  | [pixiv](https://www.pixiv.net/users/115383499) \| [FANBOX](https://ubamaru.fanbox.cc) |
 | oniken | おにけん |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おにけん%22/ana_flg/all) |
+| yukichi | 湯基地 | 汤基地 | [pixiv](https://www.pixiv.net/users/55510025) |
 
 <!--TEMPLATE:
 |  |  |  |  |
