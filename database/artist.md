@@ -1317,7 +1317,7 @@ example:
 | maruchang | 丸ちゃん。 |  |  |
 |  | A1 |  |  |
 | sukiyo | スキヨ |  |  |
-| aiue oka | 爱上陆 |  |  |
+| aiue oka | 爱上陆 |  | [FANBOX](https://www.fanbox.cc/@aiueoka) \| [pixiv](https://www.pixiv.net/users/7535540) |
 | rustle | らする | らする 是日本漫画家，插画师。<br>主要在成人向漫画杂志上发表作品。作品特点：女主角多是对性的态度很大方，或很有贪欲的少女。<br>作品多以`lolicon`角色为主。<br>![图](https://pbs.twimg.com/profile_images/913535538145013761/mq15ldmB_400x400.jpg)<br>**作者推特头像**<br><br>![图](# "https://ehgt.org/96/9e/969eaf4d4fc970ec2b89f6cb2166ae785ff51e62-3117337-2118-3000-jpg_l.jpg") | [X](https://x.com/mieow_7) [pixiv](https://www.pixiv.net/users/229671) |
 | calipur | ｶﾘﾊﾟ− |  |  |
 | dokurosan | どくろさん |  |  |
