@@ -13553,7 +13553,7 @@ example:
 | yaezaki rai | 八重咲らい |  |  |
 | narumi yu | 鳴海ゆう | 鳴海ゆう区别于narumi yuu(成海優)，二者是不同的作者，请勿混淆。 | [pixiv](https://www.pixiv.net/users/199766/artworks) |
 | kimoshi | きもし |  | [pixiv](https://www.pixiv.net/users/12593773) [X](https://x.com/Kimoshiv2) |
-| yufuck | ゆfuck |  |  |
+| yufuck | ゆfuck |  | [FANBOX](https://yufuck.fanbox.cc/) |
 | guguta | 咕咕挞 |  | [pixiv](https://www.pixiv.net/users/16508184) [哔哩哔哩](https://space.bilibili.com/3724949) |
 | edajima denki | 江田岛电气 |  |  |
 | yuuki setsuna | 优木雪菜 |  |  |
