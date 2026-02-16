@@ -13752,6 +13752,7 @@ example:
 | panda boxing | Panda Boxing |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63498.html) |
 | suama-dou | 水甘堂 |  | [X](https://x.com/suamado0013) \| [Fantia](https://fantia.jp/fanclubs/496614) \| [Patreon](https://www.patreon.com/suamacco0) |
 | 20 plus 1 | 20+1(ネオハタチ) |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23796.html) |
+| ringo club | りんごくらぶ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31143.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
