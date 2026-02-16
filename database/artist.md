@@ -14891,6 +14891,7 @@ example:
 | theremin | 仮野テル |  | [pixiv](https://www.pixiv.net/users/26987) \| [X](https://x.com/karinoteru) |
 | saltydanshark | ソルティ男爵 |  |  |
 | munimuni | むにむに |  | [FANBOX](https://munimunimow.fanbox.cc/) \| [X](https://x.com/munimuni_mow) |
+| suama | 水甘 | 水甘堂/水甘(すあま) | [pixiv](https://www.pixiv.net/users/16727487) \| [X](https://x.com/suamado0013) |
 
 <!--TEMPLATE:
 |  |  |  |  |
