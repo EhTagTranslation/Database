@@ -13578,7 +13578,7 @@ example:
 | green solenoid | グリーンソレノイド |  |  |
 | circle kagemusya | サークル影武者 |  |  |
 | kogomekai | 小米堂 |  |  |
-| surface tremble | surface tremble |  |  |
+| surface tremble | surface tremble |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01008336.html) |
 | purintai | ぷりんたい |  |  |
 | kugatsu nagatsu | 九月ナガツ |  |  |
 | fuwafuwa soda | ふわふわソーダ |  |  |
