@@ -14894,6 +14894,7 @@ example:
 | suama | 水甘 | 水甘堂/水甘(すあま) | [pixiv](https://www.pixiv.net/users/16727487) \| [X](https://x.com/suamado0013) |
 | sixteenpo | sixteenpo |  | [FANBOX](https://www.fanbox.cc/@sixteenpo) \| [X](https://x.com/sixteenpo) \| [pixiv](https://www.pixiv.net/users/72469867) |
 | mionokami oboro | 澪ノ守おぼろ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22澪ノ守おぼろ%22/ana_flg/all) |
+| yakoubin | 夜行便 |  | [pixiv](https://www.pixiv.net/users/91206828) \| [X](https://x.com/HC_overnight2) \| [FANBOX](https://hc-overnight.fanbox.cc) |
 
 <!--TEMPLATE:
 |  |  |  |  |
