@@ -14521,7 +14521,7 @@ example:
 | naruse minami | 鳴瀬南 |  |  |
 | kazumaru | かずまる |  |  |
 | anka tomoshibi | あんかともしび |  |  |
-| uzura dobin | うずら土瓶 |  |  |
+| uzura dobin | うずら土瓶 |  | [FANBOX](https://uzuradobin.fanbox.cc) \| [X](https://x.com/uzuradobin) \| [pixiv](https://www.pixiv.net/users/75455434) |
 | nezumimochi | ネズミモチ |  |  |
 | takashigure rei | 鷹時雨:0 |  |  |
 | kanou seisaku | 叶精作 | 叶精作（Kanou Seisaku），1949年1月26日出生于日本新潟县新潟市，男漫画家，原名田村精作，笔名由斋藤隆夫所起，属写实派。少年时代曾梦想成为蒸汽火车司机，高中毕业后进入汽车配件厂绘制设计图，一年后辞职赴东京打工，期间通过函授美术班学习绘画并被斋藤动画电影制作厂录用，担任四年助手。1973年开始漫画创作，主要与小池一夫合作，参与《拍卖场》《兄弟》《实验人形奥斯卡》等作品绘制，其绘画以人物表情细腻、形态写实著称。 |  |
