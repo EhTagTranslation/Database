@@ -8692,6 +8692,7 @@ example:
 | fuyu wakasa | 若狭冬 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/8e/Fuyu_Portrait.png)<br>所属作品：`blue archive` |  |
 | domina | 多米娜 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/OW2_Domina.png)<br>所属作品：`overwatch` |  |
 | shitagai nora | 従井ノラ | 日本虚拟主播(vtuber) | [pixiv](https://dic.pixiv.net/a/従井ノラ) |
+| akemi aizawa | 相泽明美 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/7/78/Akemi_Aizawa2.png/revision/latest?cb=20230126024638)<br>所属作品:`tomo-chan wa onnanoko`<br>是`tomo aizawa`的母亲 | [Fandom](https://tomochan-wa-onnanoko.fandom.com/wiki/Akemi_Aizawa) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
