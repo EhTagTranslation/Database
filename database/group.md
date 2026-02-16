@@ -13750,6 +13750,7 @@ example:
 | chounai fukubiki ken | 町内福引犬 |  |  |
 | ikura kantai | いくら艦隊 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41615.html) |
 | panda boxing | Panda Boxing |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63498.html) |
+| suama-dou | 水甘堂 |  | [X](https://x.com/suamado0013) \| [Fantia](https://fantia.jp/fanclubs/496614) \| [Patreon](https://www.patreon.com/suamacco0) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
