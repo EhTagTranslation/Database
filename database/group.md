@@ -13758,6 +13758,7 @@ example:
 | totsugeki tonari no hijoushoku | 凸撃!隣の非常食!! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31819.html) |
 | biwa gakudan | 琵琶楽団 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004288.html) |
 | natural kanojo | なちゅらる彼女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45356.html) |
+| nenige | NENIGE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49124.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
