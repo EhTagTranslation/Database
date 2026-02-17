@@ -13754,7 +13754,7 @@ example:
 | 20 plus 1 | 20+1(ネオハタチ) |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23796.html) |
 | ringo club | りんごくらぶ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31143.html) |
 | yunoyu | ゆの湯 |  |  |
-| any wa sea | AnyはSea！！！ |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206676/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206676/) |
+| any wa sea | AnyはSea！！！ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206676/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
