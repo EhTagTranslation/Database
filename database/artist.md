@@ -14902,6 +14902,7 @@ example:
 | hiyoko no meisanchi | ひよこの名産地 |  | [FANBOX](https://www.fanbox.cc/@kaopass) \| [X](https://x.com/hiyoko_spot) \| [BOOTH](https://hiyokospot.booth.pm/) \| [pixiv](https://www.pixiv.net/users/424212) |
 | sutora | すとら |  | [pixiv](https://www.pixiv.net/users/13038978) \| [pawoo](https://pawoo.net/@STR_F_0321) \| [X](https://x.com/STR_f_2) |
 | duokuma | Duokuma |  | [pixiv](https://www.pixiv.net/users/54567408) |
+| bennosuki | ベンノスキー |  | [pixiv](https://www.pixiv.net/users/75318007) \| [pawoo](https://pawoo.net/@bennosuki_vtuber) \| [YouTube](https://www.youtube.com/channel/UCWqmWvy8HuqTreXRtV7i7MA) |
 
 <!--TEMPLATE:
 |  |  |  |  |
