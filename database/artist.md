@@ -12856,7 +12856,7 @@ example:
 | the kite | TheKite |  | [X](https://x.com/The__Kite) |
 | ujihara shitone | 蛆孕茵 |  |  |
 | nodo | nodo | 泰国画师 | [X](https://x.com/puzenketsu?lang=zh) |
-| comiching | こみちん |  |  |
+| comiching | こみちん |  | [X](https://x.com/comiching3) \| [pixiv](https://www.pixiv.net/users/16705872) |
 | rosuuri | Rosuuri |  | [X](https://x.com/rosuuri) [pixiv](https://www.pixiv.net/users/2993192) [homepage](https://www.rosuuri.com/info) |
 | otogiri fua | おとぎりふあ |  |  |
 | pirates cat | パイレーツキャット |  |  |
