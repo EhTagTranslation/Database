@@ -14900,6 +14900,7 @@ example:
 | yukichi | 湯基地 | 汤基地 | [pixiv](https://www.pixiv.net/users/55510025) |
 | seieki kakeru | 聖益カケル |  | [pixiv](https://www.pixiv.net/users/20054357) |
 | hiyoko no meisanchi | ひよこの名産地 |  | [FANBOX](https://www.fanbox.cc/@kaopass) \| [X](https://x.com/hiyoko_spot) \| [BOOTH](https://hiyokospot.booth.pm/) \| [pixiv](https://www.pixiv.net/users/424212) |
+| sutora | すとら |  | [pixiv](https://www.pixiv.net/users/13038978) \| [pawoo](https://pawoo.net/@STR_F_0321) \| [X](https://x.com/STR_f_2) |
 
 <!--TEMPLATE:
 |  |  |  |  |
