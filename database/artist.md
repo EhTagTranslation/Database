@@ -14904,6 +14904,7 @@ example:
 | duokuma | Duokuma |  | [pixiv](https://www.pixiv.net/users/54567408) |
 | bennosuki | ベンノスキー |  | [pixiv](https://www.pixiv.net/users/75318007) \| [pawoo](https://pawoo.net/@bennosuki_vtuber) \| [YouTube](https://www.youtube.com/channel/UCWqmWvy8HuqTreXRtV7i7MA) |
 | iya | い屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024118.html) |
+| buuta | ぶうた |  | [BOOTH](https://densya101.booth.pm/) \| [FANBOX](https://buuta101.fanbox.cc) \| [Fantia](https://fantia.jp/fanclubs/23760) |
 
 <!--TEMPLATE:
 |  |  |  |  |
