@@ -5272,7 +5272,7 @@ example:
 | mika schmidt | 米卡·施密特 | 米卡是米哈游研发的游戏《原神》及其衍生作品的登场角色。<br>米卡属于“施密特”（Schmidt）家族，因此其全名大概率为”米卡·施密特”，但游戏内目前没有直接出现米卡的全名。 | [萌娘百科](https://zh.moegirl.org.cn/米卡%28原神%29#) |
 | van gogh | 梵高 |  |  |
 | shousetsu yui | 由井正雪 | ![](https://thumbsnap.com/i/mixHNbMU.jpg)<br>由井正雪是TYPE-MOON旗下《Fate系列》及其衍生作品的登场角色，在游戏《Fate/Samurai Remnant》中初次登场。在游戏《Fate/Grand Order》中作为4星Caster登场。 | [萌娘百科](https://zh.moegirl.org.cn/由井正雪) |
-| xu fu | 徐福 |  |  |
+| xu fu | 徐福 | ![](https://ehgt.org/w/02/230/98942-iryy9ibl.webp)<br>出自作品：`p:fate grand order`<br><br>徐福是TYPE-MOON旗下的Fate系列及其衍生作品的登场角色，在《Fate/Grand Order》的“从者·夏令营！ ～迦勒底·惊悚之夜～”活动剧情中首次登场。 | [萌娘百科](https://zh.moegirl.org.cn/徐福%28Fate%29#) |
 | okuni | 出云阿国 |  |  |
 | do-s | 弩S |  |  |
 | fiona frost | 菲奥娜·弗洛斯特 | 菲奥娜·弗洛斯特是漫画《`p:spy x family`》及其衍生作品的登场角色。在东国的巴林特综合医院上班的女性职员，但实际上是西国情报局对东科WISE下属的一名间谍，其代号为“夜帷”，负责协助黄昏在医院的伪装工作。 | [萌娘百科](https://zh.moegirl.org.cn/菲奥娜·弗洛斯特) |
