@@ -13756,6 +13756,7 @@ example:
 | yunoyu | ゆの湯 |  |  |
 | any wa sea | AnyはSea！！！ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206676/) |
 | totsugeki tonari no hijoushoku | 凸撃!隣の非常食!! |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG31819.html) |
+| biwa gakudan | 琵琶楽団 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01004288.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
