@@ -12550,7 +12550,7 @@ example:
 | dukeyushimagurodon | 漬けゆしまぐろ丼 |  |  |
 | solo play | そろぷれい | 画师`takaman`所属同人社团 |  |
 | niji-teru | 虹照 |  |  |
-| kokumaro chousei tounyuu | こくまろちょうせい豆乳 |  |  |
+| kokumaro chousei tounyuu | こくまろちょうせい豆乳 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=220072/) |
 | noya | 乃屋 |  |  |
 | touhikou | 陶惹好 |  |  |
 | yorunobando | 夜のバンド | 画师`mayonaka taroupho`所属同人社团。 |  |
