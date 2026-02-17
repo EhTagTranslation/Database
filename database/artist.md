@@ -9761,7 +9761,7 @@ example:
 | sanjou tomomi | 三条友美 |  |  |
 | sanku | 三九 |  |  |
 | sankuro | 三九呂 |  |  |
-| sannyuutei shinta | 三乳亭しん太 |  |  |
+| sannyuutei shinta | 三乳亭しん太 |  | [pixiv](https://www.pixiv.net/users/4205735) |
 | sano lemon | さのレモン |  |  |
 | sano toshihide | 佐野俊英 |  |  |
 | sanomako | さのまこ |  |  |
