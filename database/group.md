@@ -8264,7 +8264,7 @@ example:
 | naivta | ナイーブタ |  |  |
 | naiyori alpha zaidan | Naiyori alpha 財団 |  |  |
 | nakagawaya | 中川家 |  |  |
-| nakamuratakumi | 仲村巧 |  |  |
+| nakamuratakumi | 仲村巧 \| 坊図鑑 |  | [X](https://x.com/kmkmk30) |
 | nakanoku kurochanno... | 中野区くろちゃんの… |  |  |
 | nakasatogumi | ナカサト組 |  |  |
 | nakasone battalion | 中曽根バタリアン |  |  |
