@@ -9453,7 +9453,7 @@ example:
 | ricchy | ricchy |  |  |
 | rice oomori | ライスおおもり |  |  |
 | rie | RiE |  |  |
-| rihi | りひ |  |  |
+| rihi | 梨比 | りひ | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22梨比%22/ana_flg/all) |
 | rihitozoire | リヒトゾイレ |  |  |
 | rii | りい |  |  |
 | rikamarika | rikamarika |  |  |
