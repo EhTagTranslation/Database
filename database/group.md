@@ -13760,6 +13760,7 @@ example:
 | natural kanojo | なちゅらる彼女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG45356.html) |
 | nenige | NENIGE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49124.html) |
 | 4k seisakusho | 4K製作所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56089.html) |
+| piemancoop | パイマンコープ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039467.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
