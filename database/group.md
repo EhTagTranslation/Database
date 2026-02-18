@@ -1240,7 +1240,7 @@ example:
 | armadillo | Armadillo |  |  |
 | spec.c | spec.C |  |  |
 | dragon kitchen | Dragon Kitchen | 男性原画师`a:sasorigatame`的同人社团. |  |
-| shirukke no ooi zakuro | 汁っけの多い柘榴 |  |  |
+| shirukke no ooi zakuro | 汁っけの多い柘榴 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75448/) |
 | chocolate cube | CHOCOLATE CUBE |  |  |
 | furafura toxin | ふらふらトキシン |  |  |
 | cat garden | CAT GARDEN |  |  |
