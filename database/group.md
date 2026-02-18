@@ -642,7 +642,7 @@ example:
 | booblian | Booblian |  |  |
 | korokoro udon | コロコロうどん |  |  |
 | ende der welt | Ende der Welt |  |  |
-| aeba no mori | 喘葉の森 |  |  |
+| aeba no mori | 喘葉の森 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18910.html) |
 | hakka ame | 薄荷饴 |  |  |
 | kinengusa | 禁烟草 |  |  |
 | shinkai kissa | 深海喫茶 |  |  |
