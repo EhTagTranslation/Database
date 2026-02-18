@@ -6595,7 +6595,7 @@ example:
 | emilie | 艾梅莉埃 | ![](https://patchwiki.biligame.com/images/ys/d/d9/ffkv77yhe6yhsk1bpa59bv1l1srpote.gif)<br><br>所属作品：`genshin impact`<br>行踪如香水一般无从触及与挽留的枫丹调香师 ，将秘密藏于瓶中之人 。 | [BILIGAME WIKI](https://wiki.biligame.com/ys/艾梅莉埃) |
 | ouka shiunji | 紫云寺讴华 | ![](https://i.pixiv.cat/img-original/img/2025/08/15/08/48/04/133901907_p70.jpg)<br>紫云寺家三女，16岁的高二学生。<br>兼任田径社和游泳社的主力选手，在学业上成绩仅次于清叶，是一个文武双全且努力的少女。无论男女都很受欢迎。<br>虽然对双胞胎的新有时比较严厉，但对他充满信任。 | [Bangumi](https://bgm.tv/character/161146) |
 | steve | 史蒂夫 |  |  |
-| alex | 艾莉克斯 |  |  |
+| alex | 亚历克斯 |  |  |
 | villager | 村民 |  |  |
 | ender dragon | 末影龙 |  |  |
 | jenny | 珍妮 |  |  |
