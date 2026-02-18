@@ -5450,7 +5450,7 @@ example:
 | kuuka tomi | 远见空花 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/57/Kuuka_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/远见空花) |
 | yori kazemiya | 风宫依里 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/50/Yori_prin_cone.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/风宫依里) |
 | hindenburg | 兴登堡 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/24c3af212a0cb9d239189a02a8c47072262400697.png)<br>![](https://i0.hdslb.com/bfs/article/7b5f00500a7aa87141cac510deda347e298252208.png) | [https://wiki.lesta.ru/ru/Navy:Hindenburg](https://wiki.lesta.ru/ru/Navy:Hindenburg)<br>[BILIGAME WIKI](https://wiki.biligame.com/blhx/兴登堡) |
-| renge fuwa | 不破莲华 | 所属作品：`p:blue archive`<br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的突击队长。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/11/954256.png) |  |
+| renge fuwa | 不破莲华 | ![](https://ehgt.org/w/01/556/77800-t3qhb007.webp)<br>所属作品：`p:blue archive`<br><br>百鬼夜行联合学院所属，百花缭乱纷争调停委员会的突击队长。 | [萌娘百科](https://zh.moegirl.org.cn/不破莲华) |
 | dio brando | 迪奥·布兰度 | 迪奥·布兰度（日语：ディオ・ブランドー；英语：Dio Brando）（第一部）/DIO（日语：ディオ）（第三部以后）是由荒木飞吕彦所创作漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第一部《幻影之血》和第三部《星尘斗士》的最终BOSS。<br>![](https://img.moegirl.org.cn/common/1/1b/DIO_3.jpg) | [萌娘百科](https://zh.moegirl.org.cn/迪奥·布兰度) |
 | jotaro kujo | 空条承太郎 | 空条承太郎（日语：空条（くうじょう）承太郎（じょうたろう））是荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第三部《星尘斗士》的主角。<br>![](https://img.moegirl.org.cn/common/6/67/空条承太郎同人1.jpg) | [萌娘百科](https://zh.moegirl.org.cn/空条承太郎) |
 | jolyne kujo | 空条徐伦 | 空条徐伦（日语：空条（くうじょう）徐倫（じょりん）；英语：Jolyne Cujoh）是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》及其衍生作品的登场角色，系列第六部《石之海》的主角。<br>![](https://img.moegirl.org.cn/common/thumb/c/cc/49107517_p0.png/800px-49107517_p0.png) | [萌娘百科](https://zh.moegirl.org.cn/空条徐伦) |
