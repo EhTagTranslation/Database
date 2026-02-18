@@ -13617,7 +13617,7 @@ example:
 | nakano hitomi | 中埜人見 |  |  |
 | shuuhen kouichi | 周辺コウイチ |  |  |
 | kuba yodomu | 紅端よどむ |  |  |
-| kuriame kururu | 栗飴くるる |  |  |
+| kuriame kururu | 栗飴くるる |  | [FANBOX](https://kururu966.fanbox.cc) \| [pixiv](https://www.pixiv.net/users/59094135) \| [X](https://x.com/kururu_candy) |
 | usanomura kamekichi | 兎ノ村亀吉 |  |  |
 | fujiwara kyosuke | 藤原恭辅 |  |  |
 | kuramoto zen | 仓本膳 |  |  |
