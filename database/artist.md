@@ -14906,6 +14906,7 @@ example:
 | iya | い屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024118.html) |
 | buuta | ぶうた |  | [BOOTH](https://densya101.booth.pm/) \| [FANBOX](https://buuta101.fanbox.cc) \| [Fantia](https://fantia.jp/fanclubs/23760) |
 | biwamaro | 琵琶麻呂 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22琵琶麻呂%22/ana_flg/all) |
+| tonoka mottasu | 外岡もったす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
