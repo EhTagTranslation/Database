@@ -3697,7 +3697,7 @@ example:
 | signora | 「女士」罗莎琳 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/02/18/00/13/134630132_p0_master1200.jpg)<br>所属作品：`genshin impact`<br>愚人众十一执行官第八席，「女士」。 | [萌娘百科](https://zh.moegirl.org.cn/执行官女士) |
 | trish una | 特里休·乌纳 | 特里休·乌纳是由荒木飞吕彦所创作的漫画《JOJO的奇妙冒险》第五部“黄金之风”及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/特里休·乌纳) (\*\*) |
 | kei shirogane | 白银圭 | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/07/30/09/44/15/133276843_p0_master1200.jpg)<br>所属作品：`kaguya-sama wa kokurasetai`<br>秀知院学园初中部二年级B班学生，白银御行的妹妹，担任初中部学生会会计。在经济窘迫的白银家中担任掌管收支的重任。 | [萌娘百科](https://zh.moegirl.org.cn/白银圭) |
-| suigintou | 水银灯 |  |  |
+| suigintou | 水银灯 | ![](https://ehgt.org/w/01/585/93039-osv9eu56.webp)<br>出自作品：`p:rozen maiden`<br><br>水银灯（日语：水銀燈 / すいぎんとう ；德语：Mercury Lampe）是PEACH-PIT创作的漫画《蔷薇少女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/水银灯) |
 | kirakishou | 雪华绮晶 |  |  |
 | kanaria | 金丝雀 |  |  |
 | suiseiseki | 翠星石 |  |  |
