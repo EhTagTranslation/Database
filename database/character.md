@@ -4724,7 +4724,7 @@ example:
 | aoi oki | 扇喜葵 | 所属作品：`p:blue archive`<br>联邦学生会的财务部主任，做事认真严谨。<br>出于工作对琳不留情面，但实际十分在乎，也是琳值得托付的对象；自己觉得老师很警戒她，面对老师会稍微害羞而引起注意。<br>![](https://img.moegirl.org.cn/common/thumb/2/20/BA_Aoi.png/262px-BA_Aoi.png) | [萌娘百科](https://zh.moegirl.org.cn/扇喜葵) |
 | rumi akeshiro | 朱城瑠美 | ![](https://patchwiki.biligame.com/images/ba/4/4e/nat79rcfg6tz64mue27obzzjh4p8mpf.png)<br>所属作品：`p:blue archive`<br>山海经高级中学所属，美食街「玄武商会」的会长。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Rumi) |
 | michiru chidori | 千鸟满 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，忍术研究部部长，浑身上下总是充满了毫无根据的自信。<br>![](https://patchwiki.biligame.com/images/ba/c/c0/rpd9bs81a5123pspcncmgrugzur3o38.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Michiru) |
-| reijo kayama | 鹿山丽情 | 所属作品：`p:blue archive`<br>山海经高级中学所属，玄武商会总店的总经理瑠美的辅佐官和保镖。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_900/h_1199/829/103682/2025/5/13/871.png) |  |
+| reijo kayama | 鹿山丽情 | ![](https://ehgt.org/w/01/422/89213-msxgtrb4.webp)<br>所属作品：`p:blue archive`<br><br>山海经高级中学所属，玄武商会总店的总经理瑠美的辅佐官和保镖。 | [萌娘百科](https://zh.moegirl.org.cn/鹿山丽情) |
 | maki konuri | 小涂真纪 | 所属作品：`p:blue archive`<br>千年科学学校所属，黑客集团「真理部」的部员。<br>![](https://patchwiki.biligame.com/images/ba/b/bd/di760yd2imsjuh51kcjrtr7mgf65dmv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Maki) |
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的少女，给人不怎么说话、很冷漠的印象。<br>![](https://patchwiki.biligame.com/images/ba/1/12/fpf02ggiwzfb5pzu8r400a4s74s6gj0.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Misaki) |
 | mimori mizuha | 水羽三森 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，修行部温柔的副部长。<br>![](https://patchwiki.biligame.com/images/ba/a/a7/kq4xllmtjvqyzkz8khfg54x6p64t7op.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mimori) |
