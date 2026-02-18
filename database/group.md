@@ -178,7 +178,7 @@ example:
 | news | NEWS |  |  |
 | shimajiya | しまじや |  |  |
 | canvas garden | CANVAS+GARDEN |  | [官方网站](http://www.canxden.net) |
-| mc | MC |  |  |
+| mc | MC |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28034.html) |
 | animachine | アニマルマシーン |  |  |
 | ailail | あいるあいる |  |  |
 | moe hime rengou | 萌姬连合 |  |  |
