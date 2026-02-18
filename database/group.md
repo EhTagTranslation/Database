@@ -13762,6 +13762,7 @@ example:
 | 4k seisakusho | 4K製作所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56089.html) |
 | piemancoop | パイマンコープ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01039467.html) |
 | maritozzo | Maritozzo |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=204485/) |
+| sushi fever | 寿司フィーバー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01022631.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
