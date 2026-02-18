@@ -13298,7 +13298,7 @@ example:
 | rokugo sha | ろくご社 |  |  |
 | hipcomix | HIPCOMIX |  |  |
 | alps1mando | アルプス一万堂 |  |  |
-| yudepopo | 茹でぽぽ |  |  |
+| yudepopo | 茹でぽぽ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006807.html) |
 | yowatoro | よわトロ |  |  |
 | ahoderasouryo | アホ寺僧侶 |  |  |
 | nonomiya | ノノミヤ |  |  |
