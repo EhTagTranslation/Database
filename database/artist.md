@@ -14908,7 +14908,7 @@ example:
 | biwamaro | 琵琶麻呂 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22琵琶麻呂%22/ana_flg/all) |
 | tonoka mottasu | 外岡もったす |  |  |
 | warabita hagure | 蕨田はぐれ |  |  |
-| matsumura ryuichi | 松村龍一 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22松村龍一%22/ana_flg/all) |
+| matsumura ryuichi | 松村龍一 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22松村龍一%22/ana_flg/all) \| [FANBOX](https://bji5nrdh490788.fanbox.cc) \| [Fantia](https://fantia.jp/fanclubs/528879) |
 
 <!--TEMPLATE:
 |  |  |  |  |
