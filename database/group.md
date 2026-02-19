@@ -4363,7 +4363,7 @@ example:
 | doujin kappa | 同人河童 |  |  |
 | doujin mukashibanashi | 同人昔話 |  |  |
 | doumou | DOUMOU |  |  |
-| doushia | ドーシア |  |  |
+| doushia | ドーシア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=40718) |
 | doushin chaya | 童心茶屋 |  |  |
 | douwa-kensetsu | 童話建設 |  |  |
 | doux | DOUX |  |  |
