@@ -10813,7 +10813,7 @@ example:
 | terai daikichi | 寺イ大吉 |  |  |
 | teramoto kaoru | 寺本薫 |  |  |
 | terashi | てらし |  |  |
-| terasu mc | テラスmc |  |  |
+| terasu mc | テラスmc |  | [pixiv](https://www.pixiv.net/users/11701235) \| [X](https://x.com/terasumc) \| [pawoo](https://pawoo.net/@shouterasu) |
 | terazip | テラzip |  |  |
 | teri terio | てりてりお |  |  |
 | terry hijiri | 照井聖 |  |  |
