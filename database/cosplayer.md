@@ -179,6 +179,7 @@ example:
 | kagurazaka mafuyu | 神楽坂真冬 | 中国cosplayer<br>![](https://p.sda1.dev/30/c0c749d76ffd28f72746f2dedc678cd2/image.png) | [X](https://x.com/Mafuyu_MkVII)<br>[微博](https://weibo.com/u/3972053467) |
 | aban605 | 阿半今天很开心 | 中国cosplayer<br>![](https://p.sda1.dev/30/52c845fdb376e96679040ac5a89ea8fb/PixPin_2026-01-06_03-21-51.jpg) | [X](https://x.com/likepve)<br>[微博](https://weibo.com/u/6493798272) |
 | vectorfish | 矢量鱼 | 中国Cosplayer<br>![](https://p.sda1.dev/30/0c3a4869abefa6707654bf81ec2cdcb6/PixPin_2026-01-25_20-11-14.jpg) | [X](https://x.com/_VectorFish227) |
+| sandu-69 | 三度\_69 | 浙江宁波妹子，出生于1999年。知名动漫博主，微博粉丝47万，作品那么甜美动人，令人着迷。 | [微博](https://weibo.com/u/5654934057)<br>[X](https://x.com/sandu__69)<br>盒岛：[https://www.hedaoapp.com/yunPC/coreShot?wid=2142](https://www.hedaoapp.com/yunPC/coreShot?wid=2142) |
 
 <!--
 Template: 
