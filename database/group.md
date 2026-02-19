@@ -13766,6 +13766,7 @@ example:
 | sharin-ya | しゃりん屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=223408/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01040675.html) |
 | giniro ringo hatake | 銀色りんご畑 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024600.html) |
 | ichi no hako | 市の箱 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46082.html) |
+| otete | おてて |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062910.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
