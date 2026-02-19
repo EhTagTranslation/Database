@@ -8695,6 +8695,7 @@ example:
 | akemi aizawa | 相泽明美 | ![](https://static.wikia.nocookie.net/tomochan-wa-onnanoko/images/7/78/Akemi_Aizawa2.png/revision/latest?cb=20230126024638)<br>所属作品:`tomo-chan wa onnanoko`<br>是`tomo aizawa`的母亲 | [Fandom](https://tomochan-wa-onnanoko.fandom.com/wiki/Akemi_Aizawa) |
 | alicia viewstream | 艾丽西亚・比斯雷姆 | 科迪利亚军总司令。科迪利亚公国摄政王。<br>上一代耶洳德・科迪利亚大公的弟弟瑞普・比斯德莱姆伯爵的女儿。<br><br>生来便具备王者的气质，才貌双全。擅长于政治与军事，在科学研究上也具有一定的造诣。耶洳德大公与瑞普伯爵接连遭到暗杀后，其作为摄政王辅助玛雅。并将科迪利亚从一个边境小国建立成为足以影响“新生・提拉斯”与“新・索拉尔”的军事强国。<br><br>作为振兴科迪利亚公国的英雄，她在臣民中有着极高的人气。同时，对拥有实权的继承者玛雅有着绝对的忠诚，这种军人精神备受敬畏。<br>作为一名军人，她同时担任了由科迪利亚独立开发的装甲骑兵部队的队长，身先士卒的勇将姿态广为人知。<br><br>溺爱着玛雅・克迪莉娅，为能够将她塑造成一位伟大的大公，在各个方面都对她进行辅助。待她如同亲姐姐、保护者或者说是老妈。<br>在玛雅继承公爵爵位之前，并未继承父亲的伯爵爵位。<br><br>作为“新生・提拉斯”与“新・索拉尔”激烈的劝诱战的结果，科迪利亚公国决议站在“新・索拉尔”一边，开始了结盟的工作，也因此遭到了“新生・提拉斯”的魔爪。 |  |
 | marshadow | 玛夏多 | ![](https://archives.bulbagarden.net/media/upload/7/7b/0802Marshadow.png)<br>出自作品：`p:pokemon` | [bulbagarden](https://bulbapedia.bulbagarden.net/wiki/Marshadow_%28Pokémon%29) \| [神奇宝贝百科](https://wiki.52poke.com/zh-hans/玛夏多) |
+| shizuka kiba | 木场静火 | ![](https://img.konami.com/pawa/app/_img/suc06/KibaShizuka.png)<br>出自作品：`p:jikkyou powerful pro yakyuu`<br>日文名：木場 静火<br>纯假名：きば しずか | [konami](https://www.konami.com/pawa/app/success_06.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
