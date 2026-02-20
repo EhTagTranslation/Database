@@ -14918,6 +14918,7 @@ example:
 | chipcat | Chipcat |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22Chipcat%22/ana_flg/all) |
 | airu | アイル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=05a2fe97-64d4-11f0-ba33-0242ac160002/section=mens/) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22アイル%22/ana_flg/all) |
 | 8aki | 8aki |  | [pixiv](https://www.pixiv.net/users/28065329) \| [X](https://x.com/s8aki) |
+| kanopan | かのぱん |  | [pixiv](https://www.pixiv.net/users/8001292) \| [X](https://x.com/kanopan_s) |
 
 <!--TEMPLATE:
 |  |  |  |  |
