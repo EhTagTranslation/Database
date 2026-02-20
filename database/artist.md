@@ -12488,7 +12488,7 @@ example:
 | mannen junyuuki | 万年授乳期(ジュニー) |  | [X](https://x.com/pai_wa_ii) [pixiv](https://www.pixiv.net/users/15360833) |
 | putama | ぷ玉 |  | [pixiv](https://www.pixiv.net/users/57068482) [X](https://x.com/Putama_P) |
 | waka mochi ta | わかもち太 |  |  |
-| mmchair | MM |  |  |
+| mmchair | MM |  | [pixiv](https://www.pixiv.net/users/1815304) \| [X](https://x.com/Muuchansan18) \| [FANBOX](https://mmchair.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/93083) \| [misskey](https://misskey.io/@muuchansan) |
 | arisugawa kotone | 有栖川琴音 |  |  |
 | hitonitati | ひとにたち |  |  |
 | ryou | 涼 |  |  |
