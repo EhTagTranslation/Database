@@ -13767,6 +13767,7 @@ example:
 | giniro ringo hatake | 銀色りんご畑 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024600.html) |
 | ichi no hako | 市の箱 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG46082.html) |
 | otete | おてて |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062910.html) |
+| rainbowbread | 彩虹サンデー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53883.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
