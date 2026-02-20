@@ -1043,7 +1043,7 @@ example:
 | kaientai | 絵援隊 |  |  |
 | atugi de 5 | 厚木で5時 |  |  |
 | sol-fa-soft | sol-fa-soft | sol-fa-soft 成人向同人游戏创作社团。<br>主要创作以`lolicon`、`exhibitionism`相关的同人游戏以及插画集。<br>主要参与作者一览：<br>`anyanko`<br>`shouji ayumu`<br>`tanaha`<br>`kiyose` | [官方网站](http://www.solfa.jp/) [X](https://x.com/kiri_sol) [pixiv](https://www.pixiv.net/users/868490) |
-| right away | Right away |  |  |
+| right away | Right away |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG11264.html) |
 | pianiishimo | ピアニッシモ |  |  |
 | ijimaya | イジマヤ |  |  |
 | inariya | 稻荷屋 |  |  |
