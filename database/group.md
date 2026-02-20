@@ -1896,7 +1896,7 @@ example:
 | kimi no tomodachi. | 君の友達。 |  |  |
 | mugendai | ムゲンダイ |  |  |
 | sanshikisumire | さんしきすみれ |  |  |
-| beruennea | ベルエンネーア |  |  |
+| beruennea | ベルエンネーア |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG20140.html) |
 | orange tile | オレンジタイル |  |  |
 | laminaria | LAMINARIA |  |  |
 | nanbou hitogakushiki | 南方ヒトガクシキ |  |  |
