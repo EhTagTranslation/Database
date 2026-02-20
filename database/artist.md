@@ -14439,7 +14439,7 @@ example:
 | sexy imo | せくしぃも |  |  |
 | zuuga | ズーガ |  |  |
 | komugimaru | 小麦丸 |  |  |
-| 1 dot migi ni zurashite kudasai | 1ドット右にずらしてください |  |  |
+| 1 dot migi ni zurashite kudasai | 1ドット右にずらしてください |  | [FANBOX](https://onedotr.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/4848063) \| [nijie.info](https://nijie.info/members.php?id=556728) \| [X](https://x.com/kskst3) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=223625/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01041415.html) |
 | nanten | 南天 |  |  |
 | satou suplex | 佐藤スープレックス |  |  |
 | sawarabi | 早蕨 |  |  |
