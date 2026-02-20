@@ -2064,7 +2064,7 @@ example:
 | c2 | C2 |  |  |
 | shitappa | したっぱ | 下っ端 |  |
 | kanbayashi takaki | 神林タカキ |  |  |
-| nyx | にゅくす |  | [FANBOX](https://nyx022.fanbox.cc/) \| [X](https://x.com/Nyx022) \| [pixiv](https://www.pixiv.net/users/29673) \| [Skeb](https://skeb.jp/@Nyx022) \| [pawoo](https://pawoo.net/@Nyx022) |
+| nyx | にゅくす \| Nyx |  | にゅくす \| [FANBOX](https://nyx022.fanbox.cc/) \| [X](https://x.com/Nyx022) \| [pixiv](https://www.pixiv.net/users/29673) \| [Skeb](https://skeb.jp/@Nyx022) \| [pawoo](https://pawoo.net/@Nyx022)<br>Nyx \| [X](https://x.com/Nyxworks) \| [subscribestar](https://subscribestar.adult/nyxworks) |
 | akashia | アカシア |  | [pixiv](https://www.pixiv.net/users/7036773) |
 | shigeta | しげた |  |  |
 | uminori | うみのり |  |  |
