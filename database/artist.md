@@ -14914,6 +14914,7 @@ example:
 | mukae | 迎江 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22迎江%22/ana_flg/all) |
 | koyubimaru | こゆび丸 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22こゆび丸%22/ana_flg/all) |
 | nabochi | ナボチ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01014586.html) |
+| ouse | オウセ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22オウセ%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
