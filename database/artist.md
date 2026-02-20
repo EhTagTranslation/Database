@@ -14916,6 +14916,7 @@ example:
 | nabochi | ナボチ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01014586.html) |
 | ouse | オウセ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22オウセ%22/ana_flg/all) |
 | chipcat | Chipcat |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22Chipcat%22/ana_flg/all) |
+| airu | アイル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=05a2fe97-64d4-11f0-ba33-0242ac160002/section=mens/) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22アイル%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
