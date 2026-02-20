@@ -13769,6 +13769,7 @@ example:
 | otete | おてて |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062910.html) |
 | rainbowbread | 彩虹サンデー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53883.html) |
 | yaoyorozu | 八百万★社中 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76305/) |
+| airu-ya | アイル屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=217026/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01020767.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
