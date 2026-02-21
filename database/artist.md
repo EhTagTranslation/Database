@@ -14049,7 +14049,7 @@ example:
 | hachikari | はちかり |  |  |
 | noumiso kaimentai | 脳みそ海綿隊 |  | [pixiv](https://www.pixiv.net/users/76786920) |
 | jimador | ヒマドール |  |  |
-| niku to gohan | 肉与饭 |  |  |
+| niku to gohan | 肉与饭 | 日文：にくとごはん | [ebookjapan.yahoo](https://ebookjapan.yahoo.co.jp/lists/authors/186422/) |
 | viali | びあり |  |  |
 | chokai | 鳥海 |  | [pixiv](https://www.pixiv.net/users/65100819) |
 | yamashita nigou | 山下二号 |  |  |
