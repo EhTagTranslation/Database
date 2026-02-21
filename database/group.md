@@ -13772,6 +13772,7 @@ example:
 | airu-ya | アイル屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=217026/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01020767.html) |
 | grove grow | Grove Grow |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218750/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=218750/) |
 | nokenya | のけんや |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208602/) |
+| inyou club | 陰陽倶楽部 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG24876.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
