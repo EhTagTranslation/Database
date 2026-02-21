@@ -6686,7 +6686,7 @@ example:
 | kawagishi keitarou | カワギシケイタロウ |  |  |
 | kawahara | カワハラ |  |  |
 | kawahara shin | かわはらしん |  |  |
-| kawai | カワイ |  |  |
+| kawai | カワイ |  | [pixiv](https://www.pixiv.net/users/12913304) \| [X](https://x.com/purplrpouni) |
 | kawai kenji | 河合健司 |  |  |
 | kawakami ioru | 川上イオル |  |  |
 | kawakami kou | 河上康 |  |  |
