@@ -14920,6 +14920,7 @@ example:
 | 8aki | 8aki |  | [pixiv](https://www.pixiv.net/users/28065329) \| [X](https://x.com/s8aki) |
 | kanopan | かのぱん |  | [pixiv](https://www.pixiv.net/users/8001292) \| [X](https://x.com/kanopan_s) |
 | azumi tsuna | あずみつな |  |  |
+| kuriudon | 栗うどん |  | [pixiv](https://www.pixiv.net/users/51258052)<br>[X](https://x.com/kuriudon1030) |
 
 <!--TEMPLATE:
 |  |  |  |  |
