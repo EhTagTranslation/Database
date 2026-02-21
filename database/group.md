@@ -12580,7 +12580,7 @@ example:
 | yakitori teishoku | 焼きトリ定食 |  |  |
 | dakkoku kidoutai s.a.c | 脱壳机动队 S.A.C |  |  |
 | mitsumitsuniku | ミツミツにく |  |  |
-| akirerushoujo | アキレルショウジョ |  |  |
+| akirerushoujo | アキレルショウジョ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76962/) |
 | fuzume | ふずめ |  | [pixiv](https://www.pixiv.net/users/62756888) |
 | hitakamoya | ひたかもや |  |  |
 | kasokuiki | 過疎区域 |  | [X](https://x.com/in_ksk) |
