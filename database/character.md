@@ -8718,6 +8718,7 @@ example:
 | taiga okajima | 冈岛大河 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/f/f4/DB45C6D3-2616-4816-AED0-928C081B37A5.png/revision/latest?cb=20200518224418)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/冈岛大河) |
 | aguri yukimura | 雪村亚久里 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/38/Aguri_ep15-1.png/revision/latest?cb=20161101054015)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/雪村亚久里) |
 | yuuma isogai | 矶贝悠马 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/2/29/Isogai_transparent.png/revision/latest?cb=20161206203916)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/矶贝悠马) |
+| hiroto maehara | 前原阳斗 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/4/4d/Maehara_transparent.png/revision/latest?cb=20161206204053)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/前原阳斗) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
