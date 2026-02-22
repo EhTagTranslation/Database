@@ -8714,6 +8714,7 @@ example:
 | kaede johan nouvel | 枫·J·努韦尔 | ![](https://ehgt.org/w/02/060/94547-ndm6nlk7.webp)<br>出自作品：`p:assault lily`<br><br>枫·J·努韦尔（日语：楓・J・ヌーベル）是由Azone International和acus共同企划的跨媒体作品《突击莉莉》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/枫·J·努韦尔) |
 | takuya muramatsu | 村松拓哉 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/3e/42F8939D-56CF-4A62-8A16-49ACCBCD3E0F.png/revision/latest?cb=20200518225317)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/村松拓哉) |
 | koutarou takebayashi | 竹林孝太郎 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d0/Takebayashi_transparent.png/revision/latest?cb=20200516154503)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/竹林孝太郎) |
+| sumire hara | 原寿美铃 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/35/D250CA77-B8A0-40A0-81D8-AA530650F0DD.png/revision/latest?cb=20200506144139)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/原寿美铃) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
