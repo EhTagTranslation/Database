@@ -13776,6 +13776,7 @@ example:
 | atsukan rock | 熱燗ROCK |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01006875.html) |
 | purplrpouni | purplrpouni |  | [BOOTH](https://purplrpouni.booth.pm/) |
 | mia san mia | MIA SAN MIA | `a:kuriudon`使用的同人社团名称 |  |
+| heyadume | へやづめ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205272/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
