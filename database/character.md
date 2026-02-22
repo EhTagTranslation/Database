@@ -8720,6 +8720,7 @@ example:
 | yuuma isogai | 矶贝悠马 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/2/29/Isogai_transparent.png/revision/latest?cb=20161206203916)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/矶贝悠马) |
 | hiroto maehara | 前原阳斗 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/4/4d/Maehara_transparent.png/revision/latest?cb=20161206204053)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/前原阳斗) |
 | rinka hayami | 速水凛香 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/1/10/Hayami_anime_transparent.png/revision/latest?cb=20210928082805)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/速水凛香) |
+| ryuunosuke chiba | 千叶龙之介 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/a/a9/Ryūnosuke_Chiba.png/revision/latest?cb=20170511131810)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/千叶龙之介) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
