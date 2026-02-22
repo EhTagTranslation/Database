@@ -8706,6 +8706,7 @@ example:
 | touka yada | 矢田桃花 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/e/e2/Toka_transparent.png/revision/latest?cb=20161206204503)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/矢田桃花) |
 | hinano kurahashi | 仓桥阳菜乃 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/8/83/Kurahashihinano.png/revision/latest?cb=20200711203649)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/仓桥阳菜乃) |
 | hinata okano | 冈野日向 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/e/ec/Okano_anime_transparent.png/revision/latest?cb=20210928084357)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/冈野日向) |
+| koro-sensei | 杀老师 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/c/c5/Koro_sensei_transparent.png/revision/latest?cb=20161202043210)<br>所属作品:`ansatsu kyoushitsu`<br>椚丘中学3年E组的班主任，号称史上最强、“最凶恶”、速度最快的老师。 | [萌娘百科](https://zh.moegirl.org.cn/杀老师) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
