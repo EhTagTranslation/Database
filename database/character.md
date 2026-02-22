@@ -8719,6 +8719,7 @@ example:
 | aguri yukimura | 雪村亚久里 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/38/Aguri_ep15-1.png/revision/latest?cb=20161101054015)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/雪村亚久里) |
 | yuuma isogai | 矶贝悠马 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/2/29/Isogai_transparent.png/revision/latest?cb=20161206203916)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/矶贝悠马) |
 | hiroto maehara | 前原阳斗 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/4/4d/Maehara_transparent.png/revision/latest?cb=20161206204053)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/前原阳斗) |
+| rinka hayami | 速水凛香 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/1/10/Hayami_anime_transparent.png/revision/latest?cb=20210928082805)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/速水凛香) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
