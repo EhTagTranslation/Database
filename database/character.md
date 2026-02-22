@@ -8702,6 +8702,7 @@ example:
 | yvonne | 伊冯 | ![](https://patchwiki.biligame.com/images/zmd/3/31/3oun3hly1hoqb8w1w034ut6gzwllgx3.png)<br>所属作品:`arknights endfield` | [BILIGAME WIKI](https://wiki.biligame.com/zmd/伊冯) |
 | yukiko kanzaki | 神崎有希子 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/b/b6/Kanzaki_transparent.png/revision/latest?cb=20161211165201)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/神崎有希子) |
 | tomohito sugino | 杉野友人 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/4/45/Sugino_transparent.png/revision/latest?cb=20161211165043)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/杉野友人) |
+| megu kataoka | 片冈惠 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/8/86/Megu_transparent.png/revision/latest?cb=20161211164941)<br>所属作品:`ansatsu kyoushitsu`<br>椚丘中学3年E组的女子学级委员。 | [萌娘百科](https://zh.moegirl.org.cn/片冈萌) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
