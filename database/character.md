@@ -8709,6 +8709,7 @@ example:
 | koro-sensei | 杀老师 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/c/c5/Koro_sensei_transparent.png/revision/latest?cb=20161202043210)<br>所属作品:`ansatsu kyoushitsu`<br>椚丘中学3年E组的班主任，号称史上最强、“最凶恶”、速度最快的老师。 | [萌娘百科](https://zh.moegirl.org.cn/杀老师) |
 | ryouma terasaka | 寺坂龙马 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/1/1c/Terasaka_transparent.png/revision/latest?cb=20161211165318)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/寺坂龙马) |
 | itona horibe | 堀部糸成 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d4/Itona_transparent.png/revision/latest?cb=20161206203618)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/堀部糸成) |
+| kirara hazama | 狭间绮罗罗 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d9/171C4BA2-291E-4859-A270-2529E1AA680D.png/revision/latest?cb=20200518225942)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/狭间绮罗罗) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
