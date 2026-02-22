@@ -14923,6 +14923,7 @@ example:
 | kuriudon | 栗うどん |  | [pixiv](https://www.pixiv.net/users/51258052)<br>[X](https://x.com/kuriudon1030) |
 | kaede fuu | 楓ふう |  | [pixiv](https://www.pixiv.net/users/16459008)<br>[X](https://x.com/liquidambar21) |
 | nounagi poma | 野うなぎ ぽま |  | [X](https://x.com/poma123poma)<br>[pixiv](https://www.pixiv.net/users/4504933/) |
+| adeshi | アデシ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
