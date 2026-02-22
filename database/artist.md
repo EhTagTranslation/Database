@@ -14926,6 +14926,7 @@ example:
 | adeshi | アデシ |  |  |
 | okaka | おかか |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23119.html) |
 | saitou kakkou | 斉藤カッコウ |  | [pixiv](https://www.pixiv.net/users/7877577) \| [misskey.io](https://misskey.io/@ccls7780s) \| [X](https://x.com/ccls7780s) \| [Fantia](https://fantia.jp/fanclubs/16357) |
+| mashumarodan | ましゅまろ団 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225346/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
