@@ -8705,6 +8705,7 @@ example:
 | megu kataoka | 片冈惠 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/8/86/Megu_transparent.png/revision/latest?cb=20161211164941)<br>所属作品:`ansatsu kyoushitsu`<br>椚丘中学3年E组的女子学级委员。 | [萌娘百科](https://zh.moegirl.org.cn/片冈萌) |
 | touka yada | 矢田桃花 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/e/e2/Toka_transparent.png/revision/latest?cb=20161206204503)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/矢田桃花) |
 | hinano kurahashi | 仓桥阳菜乃 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/8/83/Kurahashihinano.png/revision/latest?cb=20200711203649)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/仓桥阳菜乃) |
+| hinata okano | 冈野日向 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/e/ec/Okano_anime_transparent.png/revision/latest?cb=20210928084357)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/冈野日向) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
