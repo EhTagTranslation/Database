@@ -8715,6 +8715,7 @@ example:
 | takuya muramatsu | 村松拓哉 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/3e/42F8939D-56CF-4A62-8A16-49ACCBCD3E0F.png/revision/latest?cb=20200518225317)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/村松拓哉) |
 | koutarou takebayashi | 竹林孝太郎 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d0/Takebayashi_transparent.png/revision/latest?cb=20200516154503)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/竹林孝太郎) |
 | sumire hara | 原寿美铃 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/35/D250CA77-B8A0-40A0-81D8-AA530650F0DD.png/revision/latest?cb=20200506144139)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/原寿美铃) |
+| taiga okajima | 冈岛大河 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/f/f4/DB45C6D3-2616-4816-AED0-928C081B37A5.png/revision/latest?cb=20200518224418)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/冈岛大河) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
