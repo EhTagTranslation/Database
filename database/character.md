@@ -8716,6 +8716,7 @@ example:
 | koutarou takebayashi | 竹林孝太郎 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d0/Takebayashi_transparent.png/revision/latest?cb=20200516154503)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/竹林孝太郎) |
 | sumire hara | 原寿美铃 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/35/D250CA77-B8A0-40A0-81D8-AA530650F0DD.png/revision/latest?cb=20200506144139)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/原寿美铃) |
 | taiga okajima | 冈岛大河 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/f/f4/DB45C6D3-2616-4816-AED0-928C081B37A5.png/revision/latest?cb=20200518224418)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/冈岛大河) |
+| aguri yukimura | 雪村亚久里 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/3/38/Aguri_ep15-1.png/revision/latest?cb=20161101054015)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/雪村亚久里) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
