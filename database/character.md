@@ -8722,6 +8722,7 @@ example:
 | rinka hayami | 速水凛香 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/1/10/Hayami_anime_transparent.png/revision/latest?cb=20210928082805)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/速水凛香) |
 | ryuunosuke chiba | 千叶龙之介 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/a/a9/Ryūnosuke_Chiba.png/revision/latest?cb=20170511131810)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/千叶龙之介) |
 | masayoshi kimura | 木村正义 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/b/bb/Kimura_anime.png/revision/latest?cb=20200518082357)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/木村正义) |
+| kouki mimura | 三村航辉 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/6/6f/7DB0FFF8-7575-4694-9489-C000B9A41CA8.png/revision/latest?cb=20200518224720)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/三村航辉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
