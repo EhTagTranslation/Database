@@ -8725,6 +8725,7 @@ example:
 | kouki mimura | 三村航辉 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/6/6f/7DB0FFF8-7575-4694-9489-C000B9A41CA8.png/revision/latest?cb=20200518224720)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/三村航辉) |
 | sousuke sugaya | 菅谷创介 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/8/89/37FC78BF-DD1D-4326-B28B-C10B4D3E977D.png/revision/latest?cb=20200518225039)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/菅谷创介) |
 | yuzuki fuwa | 不破优月 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/b/b2/Fuwayuzuki.png/revision/latest?cb=20200711203911)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/不破优月) |
+| akira takaoka | 鹰冈明 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/5/50/Takaoka_%28Anime%29.png/revision/latest?cb=20150525112932)<br>所属作品:`ansatsu kyoushitsu` | [Fandom](https://ansatsukyoshitsu.fandom.com/wiki/Akira_Takaoka) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
