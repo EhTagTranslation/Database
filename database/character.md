@@ -8711,6 +8711,7 @@ example:
 | itona horibe | 堀部糸成 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d4/Itona_transparent.png/revision/latest?cb=20161206203618)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/堀部糸成) |
 | kirara hazama | 狭间绮罗罗 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/d/d9/171C4BA2-291E-4859-A270-2529E1AA680D.png/revision/latest?cb=20200518225942)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/狭间绮罗罗) |
 | taisei yoshida | 吉田大成 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/c/c0/49AB1413-0C7B-4E5C-A3DA-906D2CC20524.png/revision/latest?cb=20200518225509)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/吉田大成) |
+| kaede johan nouvel | 枫·J·努韦尔 | ![](https://ehgt.org/w/02/060/94547-ndm6nlk7.webp)<br>出自作品：`p:assault lily`<br><br>枫·J·努韦尔（日语：楓・J・ヌーベル）是由Azone International和acus共同企划的跨媒体作品《突击莉莉》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/枫·J·努韦尔) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
