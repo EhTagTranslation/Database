@@ -8701,6 +8701,7 @@ example:
 | raidian | 电弧 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/3d/明日方舟立绘_Raidian_1.png)<br>出自作品：`p:arknights`<br><br>Raidian，本名塞拉菲娜·伊万诺夫娜·彼得罗娃，是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/电弧) |
 | yvonne | 伊冯 | ![](https://patchwiki.biligame.com/images/zmd/3/31/3oun3hly1hoqb8w1w034ut6gzwllgx3.png)<br>所属作品:`arknights endfield` | [BILIGAME WIKI](https://wiki.biligame.com/zmd/伊冯) |
 | yukiko kanzaki | 神崎有希子 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/b/b6/Kanzaki_transparent.png/revision/latest?cb=20161211165201)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/神崎有希子) |
+| tomohito sugino | 杉野友人 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/4/45/Sugino_transparent.png/revision/latest?cb=20161211165043)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/杉野友人) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
