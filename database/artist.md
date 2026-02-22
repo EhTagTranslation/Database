@@ -14928,6 +14928,7 @@ example:
 | saitou kakkou | 斉藤カッコウ |  | [pixiv](https://www.pixiv.net/users/7877577) \| [misskey.io](https://misskey.io/@ccls7780s) \| [X](https://x.com/ccls7780s) \| [Fantia](https://fantia.jp/fanclubs/16357) |
 | mashumarodan | ましゅまろ団 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225346/) |
 | sake-chan | 鮭ちゃん |  | [pixiv](https://www.pixiv.net/users/29043421) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22鮭ちゃん%22/ana_flg/all) |
+| muufa | むーふぁ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212802/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
