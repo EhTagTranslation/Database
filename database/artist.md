@@ -14929,6 +14929,7 @@ example:
 | mashumarodan | ましゅまろ団 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=225346/) |
 | sake-chan | 鮭ちゃん |  | [pixiv](https://www.pixiv.net/users/29043421) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22鮭ちゃん%22/ana_flg/all) |
 | muufa | むーふぁ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212802/) |
+| shitiken nana | 七剣なな |  | [X](https://x.com/7th_knights/media) |
 
 <!--TEMPLATE:
 |  |  |  |  |
