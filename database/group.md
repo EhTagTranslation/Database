@@ -4825,7 +4825,7 @@ example:
 | fukumaden | 伏魔殿 |  |  |
 | fukunoren | 福のれん |  |  |
 | fukupukutei | 福ぷく亭 |  |  |
-| fukurou naru tori | フクロウなる鳥 |  |  |
+| fukurou naru tori | フクロウなる鳥 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06882.html) |
 | fukurou no yuubinya san | 梟の郵便屋さん |  |  |
 | fukurou-ya | 梟屋 |  |  |
 | fukuya | 福屋 |  |  |
