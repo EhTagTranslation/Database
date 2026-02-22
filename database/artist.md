@@ -14924,6 +14924,7 @@ example:
 | kaede fuu | 楓ふう |  | [pixiv](https://www.pixiv.net/users/16459008)<br>[X](https://x.com/liquidambar21) |
 | nounagi poma | 野うなぎ ぽま |  | [X](https://x.com/poma123poma)<br>[pixiv](https://www.pixiv.net/users/4504933/) |
 | adeshi | アデシ |  |  |
+| okaka | おかか |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23119.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
