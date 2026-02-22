@@ -14921,6 +14921,7 @@ example:
 | kanopan | かのぱん |  | [pixiv](https://www.pixiv.net/users/8001292) \| [X](https://x.com/kanopan_s) |
 | azumi tsuna | あずみつな |  |  |
 | kuriudon | 栗うどん |  | [pixiv](https://www.pixiv.net/users/51258052)<br>[X](https://x.com/kuriudon1030) |
+| kaede fuu | 楓ふう |  | [pixiv](https://www.pixiv.net/users/16459008)<br>[X](https://x.com/liquidambar21) |
 
 <!--TEMPLATE:
 |  |  |  |  |
