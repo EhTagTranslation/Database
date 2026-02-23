@@ -8277,7 +8277,7 @@ example:
 | mugen no ossan | 無限のおっさん |  |  |
 | mugendai | 無限大 |  |  |
 | mugenkidou | 無限軌道 |  |  |
-| mugi | MUGI |  |  |
+| mugi | MUGI |  | [pixiv](https://www.pixiv.net/users/44833762) |
 | mugicha | 麦茶 |  |  |
 | mugichoko | むぎちょこ |  |  |
 | mugimaru | 麦丸 |  |  |
