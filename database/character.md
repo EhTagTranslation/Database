@@ -6124,7 +6124,7 @@ example:
 | pursena adoldia | 普尔塞娜·亚德路迪亚 | ![](https://ehgt.org/w/02/088/34578-axkjv5x9.webp)<br>所属作品：`mushoku tensei` | [萌娘百科](https://zh.moegirl.org.cn/普尔塞娜·亚德路迪亚) |
 | hiyori shiina | 椎名日和 | ![](https://img.moegirl.org.cn/common/2/2d/Shiina_2nd_side.png)<br>所属作品：`youkoso jitsuryoku shijou shugi no kyoushitsu e`<br>喜欢独处的文静少女，学校图书馆的常客，特别钟爱推理小说。拥有在全年级可以排在前列的学力，但相对地不擅长运动。 | [萌娘百科](https://zh.moegirl.org.cn/椎名日和) |
 | freminet | 菲米尼 | `p:genshin impact`男角色，精通潜水之道。 |  |
-| mutsumi wakaba | 若叶睦 | ![](https://patchwiki.biligame.com/images/arknights/0/04/beiqeodjplz7qh014munejo9am2cwu2.png)<br>所属作品：《‌BanG Dream! Ave Mujica》<br>日语名：若葉（わかば） 睦（むつみ）） | [萌娘百科](https://zh.moegirl.org.cn/若叶睦) |
+| mutsumi wakaba | 若叶睦 | ![](https://patchwiki.biligame.com/images/arknights/0/04/beiqeodjplz7qh014munejo9am2cwu2.png)<br>所属作品：《‌`bang dream` Ave Mujica》<br>日语名：若葉睦（わかば むつみ）） | [萌娘百科](https://zh.moegirl.org.cn/若叶睦) |
 | sunflower | 向日葵 |  |  |
 | penelopea | 绿影侠 |  |  |
 | aglaea | 阿格莱雅 | ![](https://patchwiki.biligame.com/images/sr/thumb/f/f2/eeo6be0rpoxmfhlk3bq7jrr490zhqiq.png/1050px-阿格莱雅立绘.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/阿格莱雅) |
