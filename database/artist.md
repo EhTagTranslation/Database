@@ -14936,6 +14936,7 @@ example:
 | baaki | ばぁき |  | [FANBOX](https://yarimanba.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/479648) \| [X](https://x.com/baaki_m) \| [pixiv](https://www.pixiv.net/users/44832839) |
 | cherachera | メガネル |  | [pixiv](https://www.pixiv.net/users/104790641) \| [FANBOX](https://meganeru.fanbox.cc/) |
 | kumanomi | くまの実 |  | [FANBOX](https://www.fanbox.cc/@kumanomi) \| [Skeb](https://skeb.jp/@kumanomi) \| [X](https://x.com/kumanomi___903) \| [pixiv](https://www.pixiv.net/users/30628011) |
+| akkusu | あっくす |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
