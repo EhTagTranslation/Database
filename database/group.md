@@ -12570,7 +12570,7 @@ example:
 | satou mitsu | さとうみつ | 画师`omitsu`所属社团 |  |
 | mannen dokodoko dondodoko | まんねんドコドコドンドドコ | 画师`tottotonero tarou.`所属社团 |  |
 | uruudoki | うるうどき |  |  |
-| shironekoya | 白猫屋 |  |  |
+| shironekoya | 白猫屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200303/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG51218.html) |
 | mugen karaage | 無限からあげ |  |  |
 | yonaka works | ヨナカWorks |  |  |
 | touketsu shamen | トウケツ斜面 |  | [pixiv](https://www.pixiv.net/users/64953199)<br>[X](https://x.com/two_ketsu) |
