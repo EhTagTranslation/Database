@@ -14544,7 +14544,7 @@ example:
 | manzai sugar | Mz\_\_SUGAR |  | [pixiv](https://www.pixiv.net/users/14730603) |
 | khear | Khear |  | [pixiv](https://www.pixiv.net/users/74518504) |
 | toeki | 吐液 |  |  |
-| chiizu ore | ちぃずオレ |  |  |
+| chiizu ore | ちぃずオレ |  | [FANBOX](https://zanzibalgusto.fanbox.cc/) \| [X](https://x.com/zanzibalgusto/) \| [pixiv](https://www.pixiv.net/users/9099916) |
 | imo ichirou | 芋一郎 |  |  |
 | hiiko | 日衣子 |  |  |
 | nisanka futon | 二酸化布団 |  |  |
