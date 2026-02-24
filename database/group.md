@@ -13779,6 +13779,7 @@ example:
 | heyadume | へやづめ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205272/) |
 | zurumuke taro | ズルムケ太郎 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48564.html) |
 | miimui | みいむい |  |  |
+| 50 seiki sex | 50性器S〇X |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01045893.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=227668/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
