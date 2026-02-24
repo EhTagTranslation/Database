@@ -14931,6 +14931,7 @@ example:
 | muufa | むーふぁ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212802/) |
 | shitiken nana | 七剣なな |  | [X](https://x.com/7th_knights/media) |
 | akaimelon | AKAIMELON | 日文：アカイメロン | [Patreon](https://www.patreon.com/akml) \| [pixiv](https://www.pixiv.net/users/35289864) \| [FANBOX](https://akml.fanbox.cc) \| [Gumroad](https://akaimelon.gumroad.com) |
+| dosukebe oekaki mogura | ドスケベお絵描きモグラ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ドスケベお絵描きモグラ%22/ana_flg/all) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=b4b3abe4-43d5-4468-b1b3-3fe5f248caf5/section=mens/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
