@@ -14938,6 +14938,7 @@ example:
 | kumanomi | くまの実 |  | [FANBOX](https://www.fanbox.cc/@kumanomi) \| [Skeb](https://skeb.jp/@kumanomi) \| [X](https://x.com/kumanomi___903) \| [pixiv](https://www.pixiv.net/users/30628011) |
 | akkusu | あっくす |  |  |
 | toriyama miki | 鳥山みき |  |  |
+| tamasawa tsubura | 玉沢円 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
