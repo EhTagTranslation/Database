@@ -13239,7 +13239,7 @@ example:
 | minegami aya | 峰上绫 |  |  |
 | menthako | 闷茶子 |  | [X](https://x.com/Menthak0?t=6NfWfQB40mBdNnWcLDXWzw&s=09) [pixiv](https://www.pixiv.net/users/5373467) |
 | toyono tama | 豊乃たま |  |  |
-| sunagimo dx | すなぎもDX |  |  |
+| sunagimo dx | すなぎもDX |  | [pixiv](https://www.pixiv.net/users/53400480) \| [X](https://x.com/trkwGX02) \| [Skeb](https://skeb.jp/@4C0tz) |
 | hanawakaba | 華若葉 |  | [homepage](https://hanayanagoyaka.com/) [pixiv](https://www.pixiv.net/users/1699416) |
 | muuran | むーらん |  | [X](https://x.com/M_uu418) [pixiv](https://www.pixiv.net/users/9930155) |
 | negi | NEGI |  | [X](https://x.com/ulogbe) [xfolio](https://xfolio.jp/en/portfolio/ulogbe) |
