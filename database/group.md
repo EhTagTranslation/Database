@@ -13783,6 +13783,7 @@ example:
 | hinyari | ひんやり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57571.html) |
 | tomahawk | とまほーく |  |  |
 | yamanaka no naka | ヤマナカのナカ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79570/) |
+| papuka | Papuka |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63860.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
