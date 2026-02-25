@@ -2062,7 +2062,7 @@ example:
 | momoyama jirou | 桃山ジロウ |  |  |
 | r5 | R5 |  |  |
 | c2 | C2 |  |  |
-| shitappa | したっぱ | 下っ端 |  |
+| shitappa | したっぱ | 下っ端 | [pixiv](https://www.pixiv.net/users/22903800) \| [X](https://x.com/SHITAPPA0120) \| [Skeb](https://skeb.jp/@SHITAPPA0120) \| [DLsite](https://ci-en.dlsite.com/creator/141) |
 | kanbayashi takaki | 神林タカキ |  |  |
 | nyx | にゅくす \| Nyx |  | にゅくす    [FANBOX](https://nyx022.fanbox.cc/) \| [X](https://x.com/Nyx022) \| [pixiv](https://www.pixiv.net/users/29673) \| [Skeb](https://skeb.jp/@Nyx022) \| [pawoo](https://pawoo.net/@Nyx022)<br><br>Nyx   [X](https://x.com/Nyxworks) \| [subscribestar](https://subscribestar.adult/nyxworks) |
 | akashia | アカシア |  | [pixiv](https://www.pixiv.net/users/7036773) |
