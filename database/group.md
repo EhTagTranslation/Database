@@ -12732,7 +12732,7 @@ example:
 | uru uru onsen | うるうる温泉 |  |  |
 | sourou yarou a-team | 早漏野郎Aチーム |  |  |
 | wakaba syokei | 若葉祥慶 |  |  |
-| honyuubin | ほ乳びん |  |  |
+| honyuubin | ほ乳びん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=210420/) |
 | im moralist | I'm moralist |  |  |
 | palcomix | Palcomix |  |  |
 | naporitan | ナポりたん |  |  |
