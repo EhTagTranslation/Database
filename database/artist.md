@@ -6405,7 +6405,7 @@ example:
 | kagerou1991 | 陽炎1991 |  |  |
 | kagesaki yuna | 影崎由那 |  |  |
 | kageshio | カゲシオ |  |  |
-| kageusu gokuto | 影薄獄人 |  |  |
+| kageusu gokuto | 影薄獄人 | 日：ごくとくん | [FANBOX](https://kageusugokuto.fanbox.cc/) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=e8fa9f4f-64d3-11f0-ba33-0242ac160002/section=mens/) \| [X](https://x.com/kageusugokuto) |
 | kagiana | 鍵穴 |  |  |
 | kagimushi | かぎむし |  |  |
 | kagiyama ryuta | 鍵山りゅうた |  |  |
