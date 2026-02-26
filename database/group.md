@@ -10164,7 +10164,7 @@ example:
 | sekidou nakama | 赤道仲間 |  |  |
 | sekigaiken | 赤外圏 |  |  |
 | sekilala | せ・き・ら・ら |  |  |
-| sekimen shoujo | 赤面少女 |  |  |
+| sekimen shoujo | 赤面少女 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07978.html) |
 | sekipan | 石板 |  |  |
 | sekishoku vanilla | 赤色バニラ |  |  |
 | sekitan bukuro | 石炭袋 |  |  |
