@@ -14939,6 +14939,7 @@ example:
 | akkusu | あっくす |  |  |
 | toriyama miki | 鳥山みき |  |  |
 | tamasawa tsubura | 玉沢円 |  |  |
+| kyu | 朽 |  | [pixiv](https://www.pixiv.net/users/31659304) |
 
 <!--TEMPLATE:
 |  |  |  |  |
