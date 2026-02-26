@@ -8298,7 +8298,7 @@ example:
 | mumin | むみん |  |  |
 | mumu | MUMU |  |  |
 | mumumu | むむむ |  |  |
-| munashimujou | むなしむじょう |  |  |
+| munashimujou | むなしむじょう |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=0de56338-64d4-11f0-ba33-0242ac160002/section=mens/) |
 | munitin | むにちん |  |  |
 | munomerikun | ミネむら |  |  |
 | munoshishi | むのしし |  |  |
