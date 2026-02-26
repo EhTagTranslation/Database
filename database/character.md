@@ -1758,7 +1758,7 @@ example:
 | eina tulle | 埃伊娜·祖尔 |  |  |
 | freya | 芙蕾雅 | 所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>![](https://ehgt.org/w/02/027/22588-1qupj7b2.webp) |  |
 | hephaistos | 赫菲斯托丝 |  |  |
-| liliruca arde | 莉莉露卡·厄德 |  |  |
+| liliruca arde | 莉莉露卡·厄德 | ![](https://ehgt.org/w/00/420/34163-9pg9lpvi.webp)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br><br>莉莉露卡·厄德（日语：リリルカ・アーデ；英语：Lilliluka Erde）是大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/莉莉露卡·厄德) |
 | ryuu lion | 琉·璃昂 | 大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》及其衍生作品的登场角色。![](https://img.moegirl.org.cn/common/e/e2/琉外传.jpg) |  |
 | loki | 洛基 |  |  |
 | syr flova | 希儿·福罗瓦 |  |  |
