@@ -14940,6 +14940,7 @@ example:
 | toriyama miki | 鳥山みき |  |  |
 | tamasawa tsubura | 玉沢円 |  |  |
 | kyu | 朽 |  | [pixiv](https://www.pixiv.net/users/31659304) |
+| tikubin | チクビン |  | [https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=fd7eb437-64d3-11f0-ba33-0242ac160002/section=mens/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=fd7eb437-64d3-11f0-ba33-0242ac160002/section=mens/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
