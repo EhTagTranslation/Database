@@ -1754,7 +1754,7 @@ example:
 | bell cranel | 贝尔·克朗尼 | 《在地下城寻求邂逅是否搞错了什么》的男主<br>![图](# "https://ehgt.org/88/b9/88b9b14a972de2568dea70f4645b3e51e8adba12-1136187-1397-2000-jpg_l.jpg") |  |
 | tiona hiryute | 蒂奥娜·席吕特 |  |  |
 | tione hiryute | 蒂奥涅·席吕特 | ![](https://ehgt.org/w/02/170/58275-6p9czwo4.webp)<br>所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka` |  |
-| aiz wallenstein | 艾丝·华伦斯坦 | ![](https://ehgt.org/w/02/192/24333-rr1r9dxt.webp)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br><br>艾丝·华伦斯坦（日语：アイズ·ヴァレンシュタイン；英语：Aiz Wallenstein）是大森藤野所创作的轻小说《在地下城寻求<br>邂逅是否搞错了什么》及其外传小说《剑姬神圣谭》等衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾丝·华伦斯坦) |
+| aiz wallenstein | 艾丝·华伦斯坦 | ![](https://ehgt.org/w/02/192/24333-rr1r9dxt.webp)<br>出自作品：`p:dungeon ni deai o motomeru no wa machigatteiru darou ka`<br><br>艾丝·华伦斯坦（日语：アイズ·ヴァレンシュタイン；英语：Aiz Wallenstein）是大森藤野所创作的轻小说《在地下城寻求邂逅是否搞错了什么》及其外传小说《剑姬神圣谭》等衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/艾丝·华伦斯坦) |
 | eina tulle | 埃伊娜·祖尔 |  |  |
 | freya | 芙蕾雅 | 所属作品：`dungeon ni deai o motomeru no wa machigatteiru darou ka`<br>![](https://ehgt.org/w/02/027/22588-1qupj7b2.webp) |  |
 | hephaistos | 赫菲斯托丝 |  |  |
