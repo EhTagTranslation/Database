@@ -5509,7 +5509,7 @@ example:
 | fumiya tomozaki | 友崎文也 | 就读关友高中二年级，另一个身份是线上连机对战游戏《AttaFami》全日本第一的玩家“nanashi”。 |  |
 | minami nanami | 七海深奈实 | 关友高中二年级，友崎的同班同学，留着马尾的美少女，班上的现充之一。身高162cm。 |  |
 | anna yanami | 八奈见杏菜 | 所属作品：`make heroine ga oosugiru`<br>![](https://i.pixiv.cat/img-master/img/2025/01/07/10/30/01/125986402_p0_master1200.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八奈见杏菜) |
-| lemon yakishio | 烧盐柠檬 | 石蕗高中一年级生，温水的同班同学，田径部王牌部员，性格天真烂漫的爽朗系美少女。 |  |
+| lemon yakishio | 烧盐柠檬 | ![](https://ehgt.org/w/01/988/22513-lz2sub0u.webp)<br>出自作品：`p:make heroine ga oosugiru`<br><br>烧盐柠檬（日语：焼塩檸檬 / やきしおれもん）是雨森焚火著作、いみぎむる负责插画的轻小说《败犬女主太多了！》及其衍生作品的登场角色。石蕗高中一年级生，温水的同班同学，田径部王牌部员，性格天真烂漫的爽朗系美少女。 | [萌娘百科](https://zh.moegirl.org.cn/烧盐柠檬) |
 | kayo hinazuki | 雏月加代 |  |  |
 | changli | 长离 | ![](https://patchwiki.biligame.com/images/wutheringwaves/thumb/2/25/rwnmwv8y5wjcn98wix521fksfqddhgq.png/516px-角色_长离_立绘.png)<br>所属作品：`wuthering waves`<br>今州令尹参事，前明庭中政省长史。 | [萌娘百科](https://zh.moegirl.org.cn/长离)<br>[BILIGAME WIKI](https://wiki.biligame.com/wutheringwaves/共鸣者/长离) |
 | ayano kimishima | 君岛绫乃 | 所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san`<br>![](https://img.moegirl.org.cn/common/a/a9/Ayano_Kimishima.png)<br>侍奉有希的随从，担任学生会总务<br>沉默寡言，面无表情。对有希和政近有绝对的忠诚，在学校也为了支持有希而参加学生会。也许是因为有点远离尘世，所以经常被有希欺骗和捉弄...... | [萌娘百科](https://zh.moegirl.org.cn/君岛绫乃) |
