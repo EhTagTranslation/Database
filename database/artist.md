@@ -6441,7 +6441,7 @@ example:
 | kaiou | 悔王 |  |  |
 | kairakuen umeka | 快楽園梅香 |  |  |
 | kairi | 魁李 |  |  |
-| kaishaku | 介錯 |  |  |
+| kaishaku | 介錯 |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/app/catalog/list?searchActorName=介錯) |
 | kaishundou | 回春堂 |  |  |
 | kaisoku babangita | 快足ババンギタ |  |  |
 | kaito shirou | 海都しろー |  |  |
