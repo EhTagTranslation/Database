@@ -8727,6 +8727,7 @@ example:
 | yuzuki fuwa | 不破优月 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/b/b2/Fuwayuzuki.png/revision/latest?cb=20200711203911)<br>所属作品:`ansatsu kyoushitsu` | [萌娘百科](https://zh.moegirl.org.cn/不破优月) |
 | akira takaoka | 鹰冈明 | ![](https://static.wikia.nocookie.net/assassinationclassroom/images/5/50/Takaoka_%28Anime%29.png/revision/latest?cb=20150525112932)<br>所属作品:`ansatsu kyoushitsu` | [Fandom](https://ansatsukyoshitsu.fandom.com/wiki/Akira_Takaoka) |
 | manaka kurumi | 胡桃愛香 | 胡桃愛香是動畫《魔法少女小圓》系列所屬外傳手遊《魔法紀錄 魔法少女小圓外傳》中的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/胡桃爱香) |
+| mikazuki augus | 三日月·奥格斯 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
