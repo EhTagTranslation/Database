@@ -3711,7 +3711,7 @@ example:
 | chikashitsu | 地下室 |  |  |
 | chikirazu | チキラーズ |  |  |
 | chikiuya | ちきう屋 |  |  |
-| chiko goya | Limited |  |  |
+| chiko goya | ちこ★小屋 |  |  |
 | chikoku doumei | 遅刻同盟 |  |  |
 | chikoku penpen | 遅刻ペンペン |  |  |
 | chikomayoya | ちこまよや |  |  |
