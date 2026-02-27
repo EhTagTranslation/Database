@@ -8730,6 +8730,7 @@ example:
 | mikazuki augus | 三日月·奥格斯 |  |  |
 | orga itsuka | 奥尔加·伊兹卡 |  |  |
 | chiaki morisawa | 守泽千秋 |  |  |
+| midori takamine | 高峯翠 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
