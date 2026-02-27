@@ -1226,7 +1226,7 @@ example:
 | musashimaru | ムサシマル |  |  |
 | nixinamo lens | にびなも凸面体 |  |  |
 | osomatsu | おそまつ |  | [X](https://x.com/ooosmt) [pixiv](https://www.pixiv.net/users/12739) |
-| sanagi torajirou | 蛹虎次郎 |  |  |
+| sanagi torajirou | 蛹虎次郎 |  | [FANZA](https://book.dmm.co.jp/list/?author=237044) |
 | eiichirou | 瑛一朗 |  |  |
 | izawa shinichi | 伊泽慎壹 |  |  |
 | kurumiya mashimin | 胡桃屋ましみん |  |  |
