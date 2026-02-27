@@ -8729,6 +8729,7 @@ example:
 | manaka kurumi | 胡桃愛香 | 胡桃愛香是動畫《魔法少女小圓》系列所屬外傳手遊《魔法紀錄 魔法少女小圓外傳》中的登場角色。 | [萌娘百科](https://zh.moegirl.org.cn/胡桃爱香) |
 | mikazuki augus | 三日月·奥格斯 |  |  |
 | orga itsuka | 奥尔加·伊兹卡 |  |  |
+| chiaki morisawa | 守泽千秋 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
