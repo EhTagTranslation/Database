@@ -13785,6 +13785,7 @@ example:
 | yamanaka no naka | ヤマナカのナカ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79570/) |
 | papuka | Papuka |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63860.html) |
 | ippeisotsu | 一兵卒 |  | [pixiv](https://www.pixiv.net/users/1422718) |
+| naoya | なお屋 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=230051/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
