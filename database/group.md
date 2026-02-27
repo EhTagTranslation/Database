@@ -6322,7 +6322,7 @@ example:
 | kaisei hallelujah | 快晴ハレルヤ |  |  |
 | kaisei yohou | 快晴予報 |  |  |
 | kaisen teikoku | 海鮮帝国 |  |  |
-| kaishaku | 介錯 |  |  |
+| kaishaku | 介錯 |  | [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/2UPAE36P8U7NdE6pd687/all/) |
 | kaishundou honpo | 回春堂本舗 |  |  |
 | kaiteisinden | 海底神殿 |  |  |
 | kaiteki circle | カイテキサークル |  |  |
