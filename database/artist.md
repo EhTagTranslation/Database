@@ -830,7 +830,7 @@ example:
 | satuyo | さつよ |  |  |
 | soine | 添い寝 |  |  |
 | takaoka motofumi | 高冈基文 | 高岡基文，成年向漫画家。作品以`lolicon`系为主。<br>![图](https://pbs.twimg.com/profile_images/1341376601452204033/juqpUv1G_400x400.jpg)<br>**作者推特头像**<br>单行本《華奢な娘の挿入心地は…熱ッ!》<br>![图](# "https://ehgt.org/f9/63/f96311276fbf28fcdf7dadbde94ee61dad781327-495005-1057-1500-jpg_l.jpg") | [X](https://x.com/takaoka_m) |
-| sink | SINK |  |  |
+| sink | SINK |  | [FANZA](https://book.dmm.co.jp/list/?author=27058) |
 | warabino matsuri | 蕨野まつり |  | [X](https://x.com/warabino) [pixiv](https://www.pixiv.net/users/123544) |
 | nandz | NandZ |  |  |
 | urakan | U罗汉 |  |  |
