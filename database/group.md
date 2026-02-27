@@ -7164,7 +7164,7 @@ example:
 | limit cycle | LIMIT CYCLE |  |  |
 | limit plus | limit+ |  |  |
 | limit works | Limit Works |  |  |
-| limited | ちこ★小屋 |  |  |
+| limited | Limited |  |  |
 | lindas ark | Linda's ark |  |  |
 | linke hand | Linke Hand |  |  |
 | linkringrin | リンクリングリン |  |  |
