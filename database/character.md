@@ -8731,6 +8731,7 @@ example:
 | orga itsuka | 奥尔加·伊兹卡 |  |  |
 | chiaki morisawa | 守泽千秋 |  |  |
 | midori takamine | 高峯翠 |  |  |
+| schwi | 休比 | ![](https://p.sda1.dev/31/ae777077691d382349409ea7e8738829/image.png)<br>也称休比·多拉 | [萌娘百科](https://zh.moegirl.org.cn/休比·多拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
