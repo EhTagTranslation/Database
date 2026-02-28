@@ -14946,6 +14946,7 @@ example:
 | myai | みゃい |  |  |
 | shirai soushichi | 白井惣七 |  |  |
 | protein b6 | ぷろていんB6 |  | [pixiv](https://www.pixiv.net/users/4970653) \| [DLsite](https://ci-en.dlsite.com/creator/5135) \| [BOOTH](https://paradigmconflict.booth.pm/) \| [vndb](https://vndb.org/s11405) |
+| k8on | nanhna | Mh2en | [pixiv](https://www.pixiv.net/users/16592479) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01019280.html) \| [ci-en](https://ci-en.dlsite.com/creator/29633) \| [X](https://x.com/_mh2en) |
 
 <!--TEMPLATE:
 |  |  |  |  |
