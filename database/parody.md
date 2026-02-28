@@ -2740,6 +2740,7 @@ example:
 | final fantasy xvi | 最终幻想16 |  |  |
 | armored core | 装甲核心 |  |  |
 | wagamama high spec | 娇蛮任性HIGHSPEC | madosoft游戏 |  |
+| voicevox | VOICEVOX | VOICEVOX是由ヒホ（ヒロシバ）基于深度学习技术开发的开源、免费的文字朗读软件及歌声合成软件 | [萌娘百科](https://zh.moegirl.org.cn/VOICEVOX) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
