@@ -14945,6 +14945,7 @@ example:
 | sekirei33 | せきれい３３ |  | [FANZA](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22せきれい３３%22/ana_flg/all) |
 | myai | みゃい |  |  |
 | shirai soushichi | 白井惣七 |  |  |
+| protein b6 | ぷろていんB6 |  | [pixiv](https://www.pixiv.net/users/4970653) \| [DLsite](https://ci-en.dlsite.com/creator/5135) \| [BOOTH](https://paradigmconflict.booth.pm/) \| [vndb](https://vndb.org/s11405) |
 
 <!--TEMPLATE:
 |  |  |  |  |
