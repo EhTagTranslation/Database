@@ -14944,6 +14944,7 @@ example:
 | dangmill | Dangmill |  | [X](https://x.com/Dangmill_11) |
 | sekirei33 | せきれい３３ |  | [FANZA](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22せきれい３３%22/ana_flg/all) |
 | myai | みゃい |  |  |
+| shirai soushichi | 白井惣七 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
