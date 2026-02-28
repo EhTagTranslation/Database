@@ -5851,7 +5851,7 @@ example:
 | gate opener alice | 开门人爱丽丝 | 女皇之门 |  |
 | cure prism | 虹之丘真白（稜镜天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d1/Mashiro_Prism_Profile.png)<br>所属作品：`hirogaru sky precure`<br>日语：虹ヶ丘ましろ | [Fandom](https://prettycure.fandom.com/wiki/Nijigaoka_Mashiro) |
 | raana kaname | 要乐奈 | ![](https://anime.bang-dream.com/mygo/wordpress/wp-content/themes/mygo_v1/assets/images/common/character/thumb_rana.png)<br>所属作品：《‌`bang dream` It's MyGO!!》<br>要乐奈（日语：要楽奈（かなめ らーな））。 | [萌娘百科](https://zh.moegirl.org.cn/要乐奈) |
-| zundamon | 俊达萌 | 俊达萌（日语：ずんだもん）是SSS合同会社发表的东北支援角色。拥有VOICEVOX与VOICEPEAK朗读声库、UTAU、NEUTRINO、CeVIO及VoiSona歌声合成声库以及Seiren Voice、MMVC等多种变声器可选声线。<br>![](https://img.moegirl.org.cn/common/thumb/7/73/Nu_zundamon.jpg/1920px-Nu_zundamon.jpg) | [萌娘百科](https://zh.moegirl.org.cn/俊达萌) |
+| zundamon | 俊达萌 | ![](https://img.moegirl.org.cn/common/thumb/7/73/Nu_zundamon.jpg/1920px-Nu_zundamon.jpg)<br>俊达萌（日语：ずんだもん）是SSS合同会社发表的东北支援角色。拥有VOICEVOX与VOICEPEAK朗读声库、UTAU、NEUTRINO、CeVIO及VoiSona歌声合成声库以及Seiren Voice、MMVC等多种变声器可选声线。<br>`voicevox`最初的两个可用角色之一 | [萌娘百科](https://zh.moegirl.org.cn/俊达萌) |
 | lilja katsuragi | 葛城莉莉娅 | ![](https://ehgt.org/w/02/130/01277-igt7u43h.webp)<br>出自作品：`p:the idolmaster`<br><br>葛城莉莉娅是由QualiArts开发、万代南梦宫娱乐发行的偶像大师系列手机游戏《学园偶像大师》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/葛城莉莉娅) |
 | hanako arasaka | 荒坂华子 |  | [萌娘百科](https://zh.moegirl.org.cn/荒坂华子) |
 | misty olszewski | 米丝蒂·奥尔谢夫斯基 |  | [灰机wiki](https://cyberpunk.huijiwiki.com/wiki/米丝蒂·奥尔谢夫斯基) |
