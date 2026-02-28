@@ -10570,7 +10570,7 @@ example:
 | soda rain | Soda Rain |  |  |
 | sodenosumi | 袖の墨 |  |  |
 | sodomutogomora | ソドムトゴモラ |  |  |
-| soft circle courreges | ソフトさ～くるクレージュ |  |  |
+| soft circle courreges | ソフトさ～くるクレージュ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48458.html) |
 | soft on omanko | SOFT ON OMANKO |  |  |
 | soft thigh | Soft Thigh |  |  |
 | soitsu wa yabee | そいつはヤベェ! |  |  |
