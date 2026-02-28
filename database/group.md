@@ -10329,7 +10329,7 @@ example:
 | shinshunshantonshou | 新春山東省 |  |  |
 | shiodome project | 汐留project |  |  |
 | shiohama | SHIOHAMA |  |  |
-| shioji | しおじ |  |  |
+| shioji | しおじ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74845/) |
 | shionoya | しおのや |  |  |
 | shiotsuki suien | 汐月水園 |  |  |
 | shioya | 塩屋 |  |  |
