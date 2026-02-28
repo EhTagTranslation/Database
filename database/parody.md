@@ -2739,6 +2739,7 @@ example:
 | nihon e youkoso elf-san. | 精灵来日 | ![](https://static.wikia.nocookie.net/welcome-to-japan-ms-elf/images/4/44/Vol.1-00.jpg)<br>全名：欢迎来到日本，妖精小姐<br>日语：日本へようこそエルフさん |  |
 | final fantasy xvi | 最终幻想16 |  |  |
 | armored core | 装甲核心 |  |  |
+| wagamama high spec | 娇蛮任性HIGHSPEC | madosoft游戏 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
