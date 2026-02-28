@@ -2190,7 +2190,7 @@ example:
 | calorie and cholesterols | カロリー&Cholesterols |  |  |
 | stapspats | Stapspats |  |  |
 | letitia no ohirune | レティーシャのお昼寝 |  |  |
-| rokumarusou | ろくまる荘 |  |  |
+| rokumarusou | ろくまる荘 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75164/) |
 | yamo7 | ヤモセブン |  |  |
 | ginga-kei pride | 银河系PRIDE |  |  |
 | suiikazuchi | スイイカズチ |  |  |
