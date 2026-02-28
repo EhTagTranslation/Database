@@ -11754,7 +11754,7 @@ example:
 | yosuke | ヨースケ |  |  |
 | yosyo- | ヨショー |  |  |
 | yotaka | yotaka |  |  |
-| yotarou | 夜太弄 |  |  |
+| yotarou | 夜太弄 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22夜太弄%22/ana_flg/all) |
 | yotsuba yuiko | 四葉ゆいこ |  |  |
 | yotsura | 寄弦 |  |  |
 | yotsuya mika | よつやみか |  |  |
