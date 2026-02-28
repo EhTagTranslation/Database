@@ -8734,6 +8734,7 @@ example:
 | schwi | 休比 | ![](https://p.sda1.dev/31/ae777077691d382349409ea7e8738829/image.png)<br>也称休比·多拉 | [萌娘百科](https://zh.moegirl.org.cn/休比·多拉) |
 | leizi | 惊蛰 | ![](https://patchwiki.biligame.com/images/arknights/1/1d/s3aorolp8gf4gshfxcxwvkothhw8p3d.png)<br>所属作品:`arknights` | [萌娘百科](https://zh.moegirl.org.cn/惊蛰%28明日方舟%29) |
 | kei tendou | 天童柯伊 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/b6/Kei_Portrait.png/revision/latest?cb=20260121090406)<br>所属作品：`blue archive`<br>天童爱丽丝体内的另一个人格，在支配爱丽丝身体状态下的瞳色为红色。<br>现已从爱丽丝体内出来独立为新个体 | [Fandom](https://bluearchive.fandom.com/wiki/Key)<br>[萌娘百科](https://zh.moegirl.org.cn/天童Kei) |
+| metan shikoku | 四国玫碳 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/df/Shikoku_Metan_CeVIO_AI.png/revision/latest?cb=20240614071939)<br>所属作品:`voicevox`<br>日语：四国めたん | [萌娘百科](https://zh.moegirl.org.cn/四国玫碳) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
