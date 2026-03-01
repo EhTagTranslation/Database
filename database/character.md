@@ -8741,6 +8741,7 @@ example:
 | bulky intimidator | 通缉打手 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c6/Enemy_Hollow_Thug_-_Bulky_Intimidator.png)<br>所属作品：`zenless zone zero` |  |
 | rossi | 洛茜 | 所属作品：`arknights endfield`<br>全名：洛茜娜·狼珀·卢皮诺 |  |
 | sparxie | 火花 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Character_Sparxie_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
+| felix schultz | 菲利克斯·舒尔茨 | ![](https://i0.hdslb.com/bfs/article/8ca4dd55abac15676a68e3e0c558a5395ebdd508.png)<br>所属作品：`azur lane`<br>历史原型为1938A型大型驱逐舰。 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
