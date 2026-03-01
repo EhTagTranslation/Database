@@ -8743,6 +8743,7 @@ example:
 | sparxie | 火花 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Character_Sparxie_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 | felix schultz | 菲利克斯·舒尔茨 | ![](https://i0.hdslb.com/bfs/article/8ca4dd55abac15676a68e3e0c558a5395ebdd508.png)<br>所属作品：`azur lane`<br>历史原型为1938A型大型驱逐舰。 |  |
 | nangong yu | 南宫羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/南宫羽1.png)<br>所属作品：`zenless zone zero` |  |
+| tine chelc | 蒂妮·切尔克 | ![](https://static.wikia.nocookie.net/typemoon/images/5/57/Tiné_Chelc_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：ティーネ・チェルク |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
