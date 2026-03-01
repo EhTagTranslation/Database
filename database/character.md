@@ -5275,7 +5275,7 @@ example:
 | xu fu | 徐福 | ![](https://ehgt.org/w/02/230/98942-iryy9ibl.webp)<br>出自作品：`p:fate grand order`<br><br>徐福是TYPE-MOON旗下的Fate系列及其衍生作品的登场角色，在《Fate/Grand Order》的“从者·夏令营！ ～迦勒底·惊悚之夜～”活动剧情中首次登场。 | [萌娘百科](https://zh.moegirl.org.cn/徐福%28Fate%29#) |
 | okuni | 出云阿国 |  |  |
 | do-s | 弩S |  |  |
-| fiona frost | 菲奥娜·弗洛斯特 | 菲奥娜·弗洛斯特是漫画《`p:spy x family`》及其衍生作品的登场角色。在东国的巴林特综合医院上班的女性职员，但实际上是西国情报局对东科WISE下属的一名间谍，其代号为“夜帷”，负责协助黄昏在医院的伪装工作。 | [萌娘百科](https://zh.moegirl.org.cn/菲奥娜·弗洛斯特) |
+| fiona frost | 菲奥娜·弗洛斯特 | ![](https://ehgt.org/w/02/059/33506-d1zgqo64.webp)<br>出自作品：`p:spy x family`<br><br>菲奥娜·弗洛斯特是漫画《间谍过家家》及其衍生作品的登场角色。在东国的巴林特综合医院上班的女性职员，但实际上是西国情报局对东科WISE下属的一名间谍，其代号为“夜帷”，负责协助黄昏在医院的伪装工作。 | [萌娘百科](https://zh.moegirl.org.cn/菲奥娜·弗洛斯特) |
 | spike | 斯派克 |  |  |
 | adagio dazzle | 阿达吉奥·达佐 |  |  |
 | aria blaze | 阿里亚·布雷兹 |  |  |
