@@ -8747,6 +8747,7 @@ example:
 | yao guang | 爻光 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Character_Yao_Guang_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 | moran | 莫兰 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Moran_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 | noa jougasaki | 城崎诺亚 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/92/诺亚正常立绘.png)<br>日语：城ケ崎ノア<br>所属作品:`mahou shoujo no majo saiban`<br><br>诺亚可爱捏 | [萌娘百科](https://zh.moegirl.org.cn/城崎诺亚) |
+| guizhong | 归终 | ![](https://static.wikia.nocookie.net/gensin-impact/images/8/8c/NPC_Guizhong.png)<br>所属作品：`genshin impact`<br>又名：哈艮图斯 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
