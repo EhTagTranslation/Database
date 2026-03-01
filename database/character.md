@@ -8749,6 +8749,7 @@ example:
 | noa jougasaki | 城崎诺亚 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/92/诺亚正常立绘.png)<br>日语：城ケ崎ノア<br>所属作品:`mahou shoujo no majo saiban`<br><br>诺亚可爱捏 | [萌娘百科](https://zh.moegirl.org.cn/城崎诺亚) |
 | guizhong | 归终 | ![](https://static.wikia.nocookie.net/gensin-impact/images/8/8c/NPC_Guizhong.png)<br>所属作品：`genshin impact`<br>又名：哈艮图斯 |  |
 | cure answer | 明智安娜（答案天使） | ![](https://static.wikia.nocookie.net/prettycure/images/8/8e/Anna_Cure_Answer_Profile.png)<br>所属作品：`meitantei precure`<br>日语：明智あんな |  |
+| cure mystique | 小林美玖瑠（谜题天使） | ![](https://static.wikia.nocookie.net/prettycure/images/f/f8/Mikuru_Cure_Mystique_Profile.png)<br>所属作品：`meitantei precure`<br>日语：小林 みくる |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
