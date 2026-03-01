@@ -8739,6 +8739,7 @@ example:
 | george kurai | 乔治·库莱伊 | ![](https://static.wikia.nocookie.net/prettycure/images/2/21/President_Kurai.png/revision/latest?cb=20180714041646)<br>所属作品:`hugtto precure`<br>黑暗明日社的董事长，以消灭所有人的光辉未来为目标，向黑暗明日社的全体社员下达了夺取明日能量的结晶未来水晶的命令。 |  |
 | zibai | 兹白 | ![](https://static.wikia.nocookie.net/gensin-impact/images/2/21/Zibai_Portrait.png)<br>所属作品：`genshin impact` |  |
 | bulky intimidator | 通缉打手 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c6/Enemy_Hollow_Thug_-_Bulky_Intimidator.png)<br>所属作品：`zenless zone zero` |  |
+| rossi | 洛茜 | 所属作品：`arknights endfield`<br>全名：洛茜娜·狼珀·卢皮诺 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
