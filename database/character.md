@@ -8756,6 +8756,7 @@ example:
 | shizuku hyodo | 兵藤雫 | ![](https://static.wikia.nocookie.net/idoly-pride/images/3/38/Hyodo_Shizuku.png/revision/latest/?cb=20200226104145)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/兵藤雫)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Shizuku_Hyodo) |
 | saki shiraishi | 白石沙季 | ![](https://static.wikia.nocookie.net/idoly-pride/images/e/e7/Shiraishi_Saki.png/revision/latest?cb=20200226102851)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/白石沙季)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Saki_Shiraishi) |
 | chisa shiraishi | 白石千纱 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7c/Shiraishi_Chisa.png/revision/latest?cb=20200226103248)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/白石千纱)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Chisa_Shiraishi) |
+| nagisa ibuki | 伊吹渚 | ![](https://static.wikia.nocookie.net/idoly-pride/images/5/52/Ibuki_Nagisa.png/revision/latest?cb=20200225160747)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/伊吹渚)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Nagisa_Ibuki) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
