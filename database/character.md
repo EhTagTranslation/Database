@@ -8733,7 +8733,7 @@ example:
 | midori takamine | 高峯翠 |  |  |
 | schwi | 休比 | ![](https://p.sda1.dev/31/ae777077691d382349409ea7e8738829/image.png)<br>也称休比·多拉 | [萌娘百科](https://zh.moegirl.org.cn/休比·多拉) |
 | leizi | 惊蛰 | ![](https://patchwiki.biligame.com/images/arknights/1/1d/s3aorolp8gf4gshfxcxwvkothhw8p3d.png)<br>所属作品:`arknights` | [萌娘百科](https://zh.moegirl.org.cn/惊蛰%28明日方舟%29) |
-| kei tendou | 天童柯伊 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/b6/Kei_Portrait.png/revision/latest?cb=20260121090406)<br>所属作品：`blue archive`<br>天童爱丽丝体内的另一个人格，在支配爱丽丝身体状态下的瞳色为红色。<br>现已从爱丽丝体内出来独立为新个体 | [Fandom](https://bluearchive.fandom.com/wiki/Key)<br>[萌娘百科](https://zh.moegirl.org.cn/天童Kei) |
+| kei tendou | 天童柯伊 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/b6/Kei_Portrait.png/revision/latest?cb=20260121090406)<br>所属作品：`blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Key)<br>[萌娘百科](https://zh.moegirl.org.cn/天童Kei) |
 | metan shikoku | 四国玫碳 | ![](https://static.wikia.nocookie.net/vocalsynth/images/d/df/Shikoku_Metan_CeVIO_AI.png/revision/latest?cb=20240614071939)<br>所属作品:`voicevox`<br>日语：四国めたん | [萌娘百科](https://zh.moegirl.org.cn/四国玫碳) |
 | cindy aurum | 希德妮·奧魯姆 | ![](https://ehgt.org/w/01/741/23780-av3lm6te.webp)<br>出自作品：`p:final fantasy xv`<br><br>希德妮·奥鲁姆（英语：Cidney Aurum；日语：シドニー・オールム），是游戏《最终幻想XV》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/希德妮·奥鲁姆) |
 | george kurai | 乔治·库莱伊 | ![](https://static.wikia.nocookie.net/prettycure/images/2/21/President_Kurai.png/revision/latest?cb=20180714041646)<br>所属作品:`hugtto precure`<br>黑暗明日社的董事长，以消灭所有人的光辉未来为目标，向黑暗明日社的全体社员下达了夺取明日能量的结晶未来水晶的命令。 |  |
