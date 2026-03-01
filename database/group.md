@@ -12700,7 +12700,7 @@ example:
 | otonagokko iinkai | おとなごっこ委員会 |  |  |
 | elica | ELICA |  |  |
 | gojihan | 五时半 |  |  |
-| netorare no tami | ネトラレの民 |  |  |
+| netorare no tami | ネトラレの民 |  | [DLsite](https://ci-en.dlsite.com/creator/2417) \| [X](https://x.com/netorarenotami) \| [pixiv](https://www.pixiv.net/users/37432549) |
 | 7 rensa | 7连锁 |  |  |
 | citrusniper | シトラスナイパー |  |  |
 | unadon | うなどぅーむ |  |  |
