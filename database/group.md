@@ -6073,7 +6073,7 @@ example:
 | iron grimoire | IRON GRIMOIRE |  |  |
 | iron plate | あいあんぷれーと |  |  |
 | iron sugar | アイアンシュガー |  |  |
-| iron y | IRON Y |  |  |
+| iron y | IRON Y |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42416.html) |
 | isada-ke | いさだ家 |  |  |
 | isami kaihatsu jigyoudan | イサミ再開発事業団 |  |  |
 | ise no mug cup | いせのマグカップ |  |  |
