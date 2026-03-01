@@ -14951,6 +14951,7 @@ example:
 | ukke | うっけ |  | [pixiv](https://www.pixiv.net/users/9045)<br>[X](https://x.com/ukke_tori) |
 | parasol hiroshi | パラソルひろし |  | [pixiv](https://www.pixiv.net/users/26788891) |
 | shizu kei | 静珪 |  |  |
+| souka dadasu | 左右加だだす |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213782/) \| [FANBOX](https://dadasudasudadasu.fanbox.cc/) \| [X](https://x.com/dadasudasusu) \| [pixiv](https://www.pixiv.net/users/95750303) |
 
 <!--TEMPLATE:
 |  |  |  |  |
