@@ -8749,7 +8749,7 @@ example:
 | noa jougasaki | 城崎诺亚 | ![](https://storage.moegirl.org.cn/moegirl/commons/9/92/诺亚正常立绘.png)<br>日语：城ケ崎ノア<br>所属作品:`mahou shoujo no majo saiban`<br><br>诺亚可爱捏 | [萌娘百科](https://zh.moegirl.org.cn/城崎诺亚) |
 | guizhong | 归终 | ![](https://static.wikia.nocookie.net/gensin-impact/images/8/8c/NPC_Guizhong.png)<br>所属作品：`genshin impact`<br>又名：哈艮图斯 |  |
 | cure answer | 明智安娜（答案天使） | ![](https://static.wikia.nocookie.net/prettycure/images/8/8e/Anna_Cure_Answer_Profile.png)<br>所属作品：`meitantei precure`<br>日语：明智あんな |  |
-| cure mystique | 小林美玖瑠（谜题天使） | ![](https://static.wikia.nocookie.net/prettycure/images/f/f8/Mikuru_Cure_Mystique_Profile.png)<br>所属作品：`meitantei precure`<br>日语：小林 みくる |  |
+| cure mystique | 小林未来 (谜题天使) | ![](https://static.wikia.nocookie.net/prettycure/images/f/f8/Mikuru_Cure_Mystique_Profile.png)<br>所属作品：`meitantei precure`<br>日语：小林 みくる | [萌娘百科](https://zh.moegirl.org.cn/小林未来) |
 | nanahoshi milily | 七星Milily | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Milily.png)<br>日文：七星みりり |  |
 | ai komiyama | 小美山爱 | ![](https://static.wikia.nocookie.net/idoly-pride/images/0/0e/Komiyama_Ai_1.png/revision/latest?cb=20200727193104)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/小美山爱)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Ai_Komiyama) |
 | aoi igawa | 井川葵 | ![](https://static.wikia.nocookie.net/idoly-pride/images/4/4c/Igawa_Aoi_1.png/revision/latest)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/井川葵)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Aoi_Igawa) |
