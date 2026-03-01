@@ -8740,6 +8740,7 @@ example:
 | zibai | 兹白 | ![](https://static.wikia.nocookie.net/gensin-impact/images/2/21/Zibai_Portrait.png)<br>所属作品：`genshin impact` |  |
 | bulky intimidator | 通缉打手 | ![](https://static.wikia.nocookie.net/zenless-zone-zero/images/c/c6/Enemy_Hollow_Thug_-_Bulky_Intimidator.png)<br>所属作品：`zenless zone zero` |  |
 | rossi | 洛茜 | 所属作品：`arknights endfield`<br>全名：洛茜娜·狼珀·卢皮诺 |  |
+| sparxie | 火花 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/a/ab/Character_Sparxie_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
