@@ -8751,6 +8751,7 @@ example:
 | cure answer | 明智安娜（答案天使） | ![](https://static.wikia.nocookie.net/prettycure/images/8/8e/Anna_Cure_Answer_Profile.png)<br>所属作品：`meitantei precure`<br>日语：明智あんな |  |
 | cure mystique | 小林美玖瑠（谜题天使） | ![](https://static.wikia.nocookie.net/prettycure/images/f/f8/Mikuru_Cure_Mystique_Profile.png)<br>所属作品：`meitantei precure`<br>日语：小林 みくる |  |
 | nanahoshi milily | 七星Milily | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/0/09/Milily.png)<br>日文：七星みりり |  |
+| ai komiyama | 小美山爱 | ![](https://static.wikia.nocookie.net/idoly-pride/images/0/0e/Komiyama_Ai_1.png/revision/latest?cb=20200727193104)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/小美山爱)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Ai_Komiyama) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
