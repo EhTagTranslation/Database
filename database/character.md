@@ -8745,6 +8745,7 @@ example:
 | nangong yu | 南宫羽 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/南宫羽1.png)<br>所属作品：`zenless zone zero` |  |
 | tine chelc | 蒂妮·切尔克 | ![](https://static.wikia.nocookie.net/typemoon/images/5/57/Tiné_Chelc_Fate_strange_Fake_character_sheet.png)<br>所属作品：`fate strange fake`<br>日语：ティーネ・チェルク |  |
 | yao guang | 爻光 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/e/e1/Character_Yao_Guang_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
+| moran | 莫兰 | ![](https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Moran_FB.png)<br>所属作品：`goddess of victory nikke` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
