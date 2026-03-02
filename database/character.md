@@ -3459,7 +3459,7 @@ example:
 | merlin | 梅林 | ![图](https://ehgt.org/11/83/11830b1debc95b2e7f847b5171dcdc24f3100d0f-2342467-1024-1448-png_l.jpg) | [Mooncell](http://www.fgo.wiki/w/梅林) [萌娘百科](https://zh.moegirl.org.cn/梅林%28Fate%29#) |
 | akira kogami | 小神晶 |  |  |
 | minoru shiraishi | 白石稔 | 白石みのる<br><br>白石稔（rěn）是日本的男性声优、舞台演员、主持人、唱作人、作词作曲家。<br><br>`lucky star`中角色<br>白石稔  CV：`minoru shiraishi` | [萌娘百科](https://zh.moegirl.org.cn/白石稔) |
-| ilulu | 伊露露 | 伊露露（日语：イルル）是クール教信者创作的漫画《小林家的龙女仆》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊露露) |
+| ilulu | 伊露露 | ![](https://ehgt.org/w/02/197/43767-d6ht2eaq.webp)<br>出自作品：`p:kobayashi-san-chi no maid dragon`<br><br>伊露露（日语：イルル）是クール教信者创作的漫画《小林家的龙女仆》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/伊露露) |
 | perseus | 英仙座 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/ba28ed7d9922528bcf49dee407c4e8cd262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:英仙座) |
 | kitasan black | 北部玄驹 | ![](https://patchwiki.biligame.com/images/umamusume/thumb/2/2b/ihd2tbdli1t9d08sq2wgo5e8ysfavli.png/600px-Jsf_106801.png)<br>所属作品：`uma musume pretty derby` | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色)<br>[萌娘百科](https://moegirl.icu/北部玄驹) |
 | haru urara | 春乌拉拉 | ![](https://img.moegirl.org.cn/common/0/04/UPDCH_HaruUrara_10.png)<br>所属作品：`uma musume pretty derby`<br>个性乐观，不论输几次都不气馁的元气赛马娘。 | [维基百科](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby#登場角色)<br>[萌娘百科](https://zh.moegirl.org.cn/春丽%28赛马娘_Pretty_Derby%29#) |
