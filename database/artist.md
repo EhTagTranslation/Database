@@ -10690,7 +10690,7 @@ example:
 | tamon ketsuyuki | 多门结之 |  |  |
 | tamori tadaji | たもりただぢ |  |  |
 | tamu | たむ |  |  |
-| tamuhi | タムヒ |  |  |
+| tamuhi | タムヒ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01018435.html) \| [pixiv](https://www.pixiv.net/users/2039139) |
 | tamura searchlight | 田村サーチライト |  |  |
 | tamura shimeji | 田村シメジ |  |  |
 | tana | TANA |  |  |
