@@ -14378,7 +14378,7 @@ example:
 | bon curry | 梵辛 |  |  |
 | benjamin | ベンジャミン |  |  |
 | emumiya nyamu | えむみやにゃむ |  |  |
-| enari | 江成 |  |  |
+| enari | 江成 |  | [FANBOX](https://kanbaratouyo.fanbox.cc/) \| [X](https://x.com/kanbaratouyo) \| [pixiv](https://www.pixiv.net/users/8208477) \| [skeb.jp](https://skeb.jp/@kanbaratouyo) |
 | eromangaka | エ浪漫画家 |  |  |
 | ero no teishokuya | エロの定食屋 |  |  |
 | erun | えるん |  |  |
