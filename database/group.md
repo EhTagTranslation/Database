@@ -13794,6 +13794,7 @@ example:
 | soyokaze buranko | ソヨカゼブランコ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52101.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203788/) |
 | gakeuesha | 崖上社 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=209902/) |
 | material engine | マテリアルエンジン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=217028/) |
+| pentacle | ペンタクル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79966/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50550.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
