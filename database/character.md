@@ -8763,6 +8763,7 @@ example:
 | maria | 玛丽亚 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/0/0a/Maria.jpg)<br>所属作品：`hayate no gotoku`<br>日语：マリア |  |
 | miki hanabishi | 花菱美希 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/1/15/Miki_Hanabishi.jpg)<br>所属作品：`hayate no gotoku`<br>日语：花菱美希（はなびし みき） |  |
 | risa asakaze | 朝风理沙 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/9/97/Risa_Asakaze.jpg)<br>所属作品：`hayate no gotoku`<br>日语：朝風理沙（あさかぜりさ） |  |
+| burtgang | 布尔特根 |  | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/布尔特根) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
