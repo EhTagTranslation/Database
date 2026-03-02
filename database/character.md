@@ -8758,6 +8758,7 @@ example:
 | chisa shiraishi | 白石千纱 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7c/Shiraishi_Chisa.png/revision/latest?cb=20200226103248)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/白石千纱)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Chisa_Shiraishi) |
 | nagisa ibuki | 伊吹渚 | ![](https://static.wikia.nocookie.net/idoly-pride/images/5/52/Ibuki_Nagisa.png/revision/latest?cb=20200225160747)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/伊吹渚)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Nagisa_Ibuki) |
 | rui tendo | 天动瑠依 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7d/Tendo_Rui_1.png/revision/latest?cb=20210103051532)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/天动瑠依)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Rui_Tendo) |
+| izumi segawa | 濑川泉 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/a/a1/Izumi_Segawa.jpg)<br>所属作品：`hayate no gotoku`<br>日文：瀬川泉 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
