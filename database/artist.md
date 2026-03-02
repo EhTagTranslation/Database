@@ -13107,7 +13107,7 @@ example:
 | boukoku daitouryou | 某国大统领 |  |  |
 | yuuki fuumi | 有机风味 |  |  |
 | nonohara miki | 野野原干 | 野々原幹 | [维基百科](https://zh.wikipedia.org/wiki/野野原幹) [维基百科（日语）](https://ja.wikipedia.org/wiki/野々原幹) [https://dyon.sakura.ne.jp/dyondiary/](https://dyon.sakura.ne.jp/dyondiary/) |
-| yumejidake | ユメジダケ |  |  |
+| yumejidake | ユメジダケ |  | [FANBOX](https://www.fanbox.cc/@yumejidake) \| [X](https://x.com/yumejidake_) \| [pixiv](https://www.pixiv.net/users/17058402) |
 | morino koala | 森乃こあら |  |  |
 | genmai | 玄米 |  | [pixiv](https://www.pixiv.net/users/4749437) |
 | satsuki usa | 皐月ウサ |  |  |
