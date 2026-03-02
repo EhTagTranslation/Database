@@ -14958,6 +14958,7 @@ example:
 | reoenl | Reoenl |  |  |
 | materia | マテリア |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=81fcccbb-64d4-11f0-ba33-0242ac160002/section=mens/) \| [pixiv](https://www.pixiv.net/users/106738879) \| [X](https://x.com/material_engine) |
 | nanahamu | ななはむ |  | [pixiv](https://www.pixiv.net/users/351442) \| [lit.link](https://lit.link/en/nanahamu) \| [X](https://x.com/pphmKo98) |
+| shimipan | しみぱん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=ecce1019-64d3-11f0-ba33-0242ac160002/section=mens/) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22しみぱん%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
