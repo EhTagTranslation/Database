@@ -182,6 +182,7 @@ example:
 | sandu-69 | 三度\_69 | 浙江宁波妹子，出生于1999年。知名动漫博主，微博粉丝47万，作品那么甜美动人，令人着迷。 | [微博](https://weibo.com/u/5654934057)<br>[X](https://x.com/sandu__69)<br>盒岛：[https://www.hedaoapp.com/yunPC/coreShot?wid=2142](https://www.hedaoapp.com/yunPC/coreShot?wid=2142) |
 | miyoki | 铃木美咲 |  |  |
 | luer da mowang | 露儿大魔王 |  |  |
+| machi | 马吉 | ![](https://ehgt.org/w/01/951/22502-pv4vfzgu.webp) | [ Pixiv](https://www.pixiv.net/users/4632856) [Patreon](http://patreon.com/machi0910) [FANBOX](http://machi0910.fanbox.cc) |
 
 <!--
 Template: 
