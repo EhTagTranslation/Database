@@ -12994,7 +12994,7 @@ example:
 | sanukiyan | さぬきやん |  |  |
 | tsukisiro | 月代 |  |  |
 | kunabishi | くなびし |  |  |
-| furau | ふらう |  |  |
+| furau | ふらう |  | [pixiv](https://www.pixiv.net/users/18340266) \| [X](https://x.com/grandarbo) \| [FANBOX](https://grandarbo.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/2156) |
 | kurokawa ryoichi | 黒川リョーイチ |  |  |
 | chinton | チントン |  |  |
 | saiou ga ushi | 塞翁が牛 |  | [pixiv](https://www.pixiv.net/users/14647672) [X](https://x.com/SAIO_GA_USHI) |
