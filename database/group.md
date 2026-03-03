@@ -1820,7 +1820,7 @@ example:
 | fujitsubo-machine | 富士壺機械 |  | [X](https://x.com/fujitsubo_m) [官方网站](http://www.fujitsubo-machine.jp) |
 | kokusai tenjijou uramon | 国際展示場裏門 |  |  |
 | daifuku | 大福 |  |  |
-| misaki | 三崎 |  |  |
+| misaki | 三崎 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75698/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41953.html) |
 | umenomi gahou | 梅の実画報 |  |  |
 | akari blast | Akari blast! |  |  |
 | rokata aruki | 縁側珈琲 |  |  |
