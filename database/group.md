@@ -13033,7 +13033,7 @@ example:
 | ouun | 桜雲 |  |  |
 | nekome koi | 猫目恋 |  |  |
 | momoiro onsen | 桃色温泉 |  |  |
-| studio macaron | studioマカロン |  |  |
+| studio macaron | studioマカロン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206978/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG74159.html) |
 | longlong de cangku | 龍龍的仓库 |  |  |
 | nounai hokanko | 脑内补完库 |  |  |
 | tera stellar | Tera Stellar |  |  |
