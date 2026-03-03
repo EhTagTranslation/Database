@@ -13608,7 +13608,7 @@ example:
 | wonawonchi | ヲナヲんち |  |  |
 | kttai | KTTAI |  |  |
 | 04cura | 04cura |  |  |
-| yuriko club | ゆりこくらぶ |  |  |
+| yuriko club | ゆりこくらぶ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206225/) |
 | sigmart | SigMart |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64808.html) |
 | full metal baket | FULL METAL BAKET |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01062833.html) |
 | otn koukoku | OTN公国 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68679.html) |
