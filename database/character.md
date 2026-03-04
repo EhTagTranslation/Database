@@ -8766,6 +8766,7 @@ example:
 | burtgang | 布尔特根 |  | [BILIGAME WIKI](https://wiki.biligame.com/crosscore/布尔特根) |
 | makiko asami | 新田籠 |  |  |
 | ziping yin | 殷紫萍 |  | [萌娘百科](https://zh.moegirl.org.cn/殷紫萍%28永劫无间%29#)<br>[百度百科](https://baike.baidu.com/item/殷紫萍/61925588) |
+| kanami etou | 卫藤可奈美 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/8/80/Kanami_Etō_visual.png)<br>所属作品：`toji no miko` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
