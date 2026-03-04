@@ -1739,7 +1739,7 @@ example:
 | broly | 布罗利 |  |  |
 | erasa | 伊蕾莎 |  |  |
 | majin buu | 魔人布欧 |  |  |
-| master roshi | 武天老师 |  |  |
+| master roshi | 龟仙人 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/58/DBFZ_Master_Roshi_Portrait.png)<br><br>龟仙人(武天老师)是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/龟仙人) |
 | oolong | 乌龙 |  |  |
 | ranfan | 兰芳 |  |  |
 | lunch | 兰琪 |  |  |
