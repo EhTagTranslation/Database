@@ -8773,6 +8773,7 @@ example:
 | madoka kyouno | 京乃圆 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/e/e8/Madoka_flight_outfit.jpg)<br>所属作品：`rinne no lagrange`<br>日语：きょうの まどか |  |
 | muginami | 姆奇娜美 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/2/23/Muginami_SRW_Character_Model.jpg)<br>所属作品：`rinne no lagrange`<br>别译：麦波 |  |
 | fin e ld si laffinty | 菲艾尔德·菲·拉芬缇 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/6/62/Lan_concept_art_02.jpg)<br>所属作品：`rinne no lagrange` |  |
+| vilajulio de metrio lu | 裴拉朱利欧 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5a/ed/15365_crt_Z775A.jpg)<br>所属作品：`rinne no lagrange`<br>日语：ヴィラジュリオ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
