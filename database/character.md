@@ -8768,6 +8768,7 @@ example:
 | ziping yin | 殷紫萍 |  | [萌娘百科](https://zh.moegirl.org.cn/殷紫萍%28永劫无间%29#)<br>[百度百科](https://baike.baidu.com/item/殷紫萍/61925588) |
 | kanami etou | 卫藤可奈美 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/8/80/Kanami_Etō_visual.png)<br>所属作品：`toji no miko` |  |
 | ellen kohagura | 古波藏艾莲 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/2/2d/Chara_eren.png)<br>所属作品：`toji no miko` |  |
+| sayaka itomi | 糸见沙耶香 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/c/c0/Sayaka_Itomi_visual.png)<br>所属作品：`toji no miko`<br>日语：いとみ さやか |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
