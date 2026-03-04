@@ -8770,6 +8770,7 @@ example:
 | ellen kohagura | 古波藏艾莲 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/2/2d/Chara_eren.png)<br>所属作品：`toji no miko` |  |
 | sayaka itomi | 糸见沙耶香 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/c/c0/Sayaka_Itomi_visual.png)<br>所属作品：`toji no miko`<br>日语：いとみ さやか |  |
 | yume tsubakuro | 燕结芽 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/1/18/Yume_game.png)<br>所属作品：`toji no miko` |  |
+| madoka kyouno | 京乃圆 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/e/e8/Madoka_flight_outfit.jpg)<br>所属作品：`rinne no lagrange`<br>日语：きょうの まどか |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
