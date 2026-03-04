@@ -5431,7 +5431,7 @@ example:
 | agnes digital | 爱丽数码 | ![](https://static.wikia.nocookie.net/umamusume/images/4/4f/Agnes_Digital_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹アグネスデジタル（Agnes Digital）。 | [ピクシブ百科事典](https://dic.pixiv.net/a/アグネスデジタル%28ウマ娘%29)<br>[萌娘百科](https://zh.moegirl.org.cn/爱丽数码#google_vignette) |
 | hishi miracle | 菱钻奇宝 | ![](https://static.wikia.nocookie.net/umamusume/images/5/5e/Hishi_Miracle_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヒシミラクル（Hishi Miracle）。 | [萌娘百科](https://zh.moegirl.org.cn/菱钻奇宝) |
 | akeno misaki | 岬明乃 | 岬明乃是原创动画《高校舰队》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岬明乃) |
-| kaoru mashiko | 益子薰 | 益子薰是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/益子薰) |
+| kaoru mashiko | 益子薰 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/1/16/Chara_kaoru.png)<br>所属作品：`toji no miko` | [萌娘百科](https://zh.moegirl.org.cn/益子薰) |
 | sana futaba | 燕结芽 | 燕结芽是Studio五组制作、由しずまよしのり担任角色原案的动画《刀使之巫女》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/燕结芽) |
 | talulah | 塔露拉 | ![](https://patchwiki.biligame.com/images/arknights/8/86/3gzc0hbmukgybgw0i2fwk2zs4fv7k8n.png)<br><br>所属作品`p:arknights`塔露拉·雅特利亚斯。<br>整合运动的前领导人，也是整合运动曾经的精神道标，是她将整合运动从无所作为的感染者地下组织变成了泰拉最大的感染者革命组织。 | [萌娘百科](https://zh.moegirl.org.cn/塔露拉·雅特利亚斯) |
 | hajime hinata | 日向创 | 日向创是Spike Chunsoft旗下的游戏《超级弹丸论破2:再见绝望学园》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/日向创) |
