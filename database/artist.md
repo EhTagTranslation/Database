@@ -12831,7 +12831,7 @@ example:
 | fetio | フェチ男 |  |  |
 | kaisenbatake no yuu | 海鮮畑の遊 |  |  |
 | yamamoto fcn | 山本fcn |  |  |
-| takotokite | たことかいと |  |  |
+| takotokite | たことかいと |  | [pixiv](https://www.pixiv.net/users/45619389) \| [X](https://x.com/KiteTako) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203522/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61880.html) |
 | shane ballard | Shane Ballard |  |  |
 | deathpulse | Deathpulse |  |  |
 | poland | Poland |  |  |
