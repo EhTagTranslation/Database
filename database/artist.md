@@ -14962,7 +14962,7 @@ example:
 | woomochichi | Woomochichi |  | [X](https://x.com/Woomochichi) \| [pixiv](https://www.pixiv.net/users/9642572) \| [Patreon](https://www.patreon.com/Woooo) \| [Gumroad](https://woomochi.gumroad.com/) |
 | uchiyama nakade | 内山中手 |  | [X](https://x.com/KLTn2nkUIQpKsyq) [pixiv](https://www.pixiv.net/users/17394728) |
 | 18sai-4 | 18SAI\_4 |  | [Patreon](https://www.patreon.com/cw/18sai_4) \| [FANBOX](https://eee75118.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/4563795) \| [X](https://x.com/18SAI_4) |
-| midou pengin | 御堂ペンギン |  |  |
+| midou pengin | 御堂ペンギン |  | [pixiv](https://www.pixiv.net/users/1296100) |
 
 <!--TEMPLATE:
 |  |  |  |  |
