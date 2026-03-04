@@ -8771,7 +8771,7 @@ example:
 | sayaka itomi | 糸见沙耶香 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/c/c0/Sayaka_Itomi_visual.png)<br>所属作品：`toji no miko`<br>日语：いとみ さやか |  |
 | yume tsubakuro | 燕结芽 | ![](https://static.wikia.nocookie.net/toji-no-miko/images/1/18/Yume_game.png)<br>所属作品：`toji no miko` |  |
 | madoka kyouno | 京乃圆 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/e/e8/Madoka_flight_outfit.jpg)<br>所属作品：`rinne no lagrange`<br>日语：きょうの まどか |  |
-| muginami | 姆奇娜美 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/2/23/Muginami_SRW_Character_Model.jpg)<br>所属作品：`rinne no lagrange` |  |
+| muginami | 姆奇娜美 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/2/23/Muginami_SRW_Character_Model.jpg)<br>所属作品：`rinne no lagrange`<br>别译：麦波 |  |
 | fin e ld si laffinty | 菲艾尔德·菲·拉芬缇 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/6/62/Lan_concept_art_02.jpg)<br>所属作品：`rinne no lagrange` |  |
 
 <!--TEMPLATE: 
