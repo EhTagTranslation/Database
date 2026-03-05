@@ -4352,7 +4352,7 @@ example:
 | double branch | だぶるぼらんち |  |  |
 | double deck seisakujo | ダブルデック製作所 |  |  |
 | double dice | だぶるだいす |  |  |
-| double melon | ダブルメロン |  |  |
+| double melon | ダブルメロン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28344.html) \| [X](https://x.com/DoubleMelonAKI) \| [DLsite](https://ci-en.dlsite.com/creator/2196) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71082/) |
 | double slash | ダブルスラッシュ |  |  |
 | double typhoon | ダブルタイフーン |  |  |
 | double volante | だぶるぼらんち |  |  |
