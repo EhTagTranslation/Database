@@ -12678,7 +12678,7 @@ example:
 | yasudajuku | 保田塾 |  |  |
 | mahou no kinoko | 魔法のキノコ |  |  |
 | suihanya | 炊飯屋 |  |  |
-| climbcrown | クライムクラウン |  |  |
+| climbcrown | クライムクラウン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=201279/) \| [FANBOX](https://climb-crown.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/63170079) \| [X](https://x.com/climbcrown) |
 | takahiro no ie | たかひろの家 |  |  |
 | shiosai | 潮骚 |  |  |
 | touzainanboku | とうざいなんぼく |  |  |
