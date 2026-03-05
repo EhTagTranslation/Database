@@ -14967,6 +14967,7 @@ example:
 | andojing | ANDO人 |  | [pixiv](https://www.pixiv.net/users/10786) \| [pawoo](https://pawoo.net/@andojin) \| [X](https://x.com/AndojinS) \| [FANBOX](https://andojing.fanbox.cc/) |
 | abfurai | ABふ雷 |  | [pixiv](https://www.pixiv.net/users/26452890) \| [FANBOX](https://abfurai.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/140858) \|  [X](https://x.com/watashiABf77) |
 | pankeki | パンケーキ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64638.html) |
+| urushi uroro | うるしうろろ |  | [pixiv](https://www.pixiv.net/users/71001987) \| [FANBOX](https://shikkui-kenta.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
