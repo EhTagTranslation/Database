@@ -8776,6 +8776,7 @@ example:
 | vilajulio de metrio lu | 裴拉朱利欧 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5a/ed/15365_crt_Z775A.jpg)<br>所属作品：`rinne no lagrange`<br>日语：ヴィラジュリオ |  |
 | hu tutu | 胡图图 | ![](https://upload.wikimedia.org/wikipedia/en/7/7e/Big_Ear_Tutu_cartoon_character%2C_with_hearts_in_opening_credit_of_TV_show.jpg)<br>所属作品：`da erduo tutu` |  |
 | zhang xiaoli | 张小丽 | ![](https://storage.moegirl.org.cn/moegirl/commons/6/64/张小丽.jpg)<br>所属作品：`da erduo tutu` | [萌娘百科](https://zh.moegirl.org.cn/张小丽) |
+| groose | 庫巴 | ![](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/d/d4/SS_Groose_Artwork.png)<br><br>在《薩爾達傳說：天空之劍》中，庫巴（Groose，日語：バド）是一位關鍵角色。 | [Fandom](https://zelda.fandom.com/wiki/Groose) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
