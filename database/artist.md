@@ -14969,6 +14969,7 @@ example:
 | pankeki | パンケーキ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64638.html) |
 | urushi uroro | うるしうろろ |  | [pixiv](https://www.pixiv.net/users/71001987) \| [FANBOX](https://shikkui-kenta.fanbox.cc/) |
 | kojima video | 孤島ビデヲ |  |  |
+| rom no hito | ROMの人 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
