@@ -8774,6 +8774,7 @@ example:
 | muginami | 姆奇娜美 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/2/23/Muginami_SRW_Character_Model.jpg)<br>所属作品：`rinne no lagrange`<br>别译：麦波 |  |
 | fin e ld si laffinty | 菲艾尔德·菲·拉芬缇 | ![](https://static.wikia.nocookie.net/lagrange-the-flower-of-rinne/images/6/62/Lan_concept_art_02.jpg)<br>所属作品：`rinne no lagrange` |  |
 | vilajulio de metrio lu | 裴拉朱利欧 | ![](https://lain.bgm.tv/r/400/pic/crt/l/5a/ed/15365_crt_Z775A.jpg)<br>所属作品：`rinne no lagrange`<br>日语：ヴィラジュリオ |  |
+| hu tutu | 胡图图 | ![](https://upload.wikimedia.org/wikipedia/en/7/7e/Big_Ear_Tutu_cartoon_character%2C_with_hearts_in_opening_credit_of_TV_show.jpg)<br>所属作品：`da erduo tutu` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
