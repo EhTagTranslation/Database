@@ -13797,6 +13797,7 @@ example:
 | pentacle | ペンタクル |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79966/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50550.html) |
 | technician | テクニシャン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202951/) |
 | kawaraya | カワラ屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27434.html) \| [DLsite](https://ci-en.dlsite.com/creator/5670) |
+| whitish blacker | ホワイティッシュ・ブラッカー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG69838.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206014/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
