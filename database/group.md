@@ -2068,7 +2068,7 @@ example:
 | circle tokomaya | サークルとこまや |  |  |
 | barumishu | ばーるみしゅ |  |  |
 | megami no flask | 女神のフラスコ |  |  |
-| hiiro no kenkyuushitsu | 灯色的研究室 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75932/) |
+| hiiro no kenkyuushitsu | 灯色的研究室 | 日：灯色の研究室 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75932/) |
 | sukiyaki club | すきやきクラブ |  |  |
 | kasoku edge | かそくえっぢ | KasokuEdge |  |
 | doku denpa jushin-chuu | 毒電波受信中 |  |  |
