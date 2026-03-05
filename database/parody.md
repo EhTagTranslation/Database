@@ -2743,6 +2743,7 @@ example:
 | voicevox | VOICEVOX | VOICEVOX是由ヒホ（ヒロシバ）基于深度学习技术开发的开源、免费的文字朗读软件及歌声合成软件 | [萌娘百科](https://zh.moegirl.org.cn/VOICEVOX) |
 | da erduo tutu | 大耳朵图图 |  |  |
 | hulu xiongdi | 葫芦娃 | 又名《葫芦兄弟》 |  |
+| starward | 星之翼 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
