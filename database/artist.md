@@ -14965,6 +14965,7 @@ example:
 | midou pengin | 御堂ペンギン |  | [pixiv](https://www.pixiv.net/users/1296100) |
 | riffs and skulls | riffsandskulls |  | [X](https://x.com/riffsandskulls) \| [itch.io](https://itch.io/profile/riffsandskull) \| [Patreon](https://www.patreon.com/riffsandskulls) |
 | andojing | ANDO人 |  | [pixiv](https://www.pixiv.net/users/10786) \| [pawoo](https://pawoo.net/@andojin) \| [X](https://x.com/AndojinS) \| [FANBOX](https://andojing.fanbox.cc/) |
+| abfurai | ABふ雷 |  | [pixiv](https://www.pixiv.net/users/26452890) \| [FANBOX](https://abfurai.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/140858) \|  [X](https://x.com/watashiABf77) |
 
 <!--TEMPLATE:
 |  |  |  |  |
