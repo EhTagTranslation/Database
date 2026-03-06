@@ -8915,7 +8915,7 @@ example:
 | onegross | ONEGROSS |  |  |
 | onemu hormone | おねむホルモン |  |  |
 | ongr | ongr |  |  |
-| oni kizoku | 鬼貴族 |  |  |
+| oni kizoku | 鬼貴族 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG38357.html) \| [DLsite](https://ci-en.dlsite.com/creator/3855) |
 | onigiriz | ONIGIRIズ |  |  |
 | onikibitou | 鬼きび党 |  |  |
 | oninoe | 鬼ノ餌 |  |  |
