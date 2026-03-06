@@ -3081,7 +3081,7 @@ example:
 | sukoya kana | 健屋花那 | 健屋花那 （健屋花那 / Sukoya Kana ）是一名从2019年9月21日在YouTube开始活动的VTuber，所属业界团体`p:nijisanji`的成员。 | [萌娘百科](https://zh.moegirl.org.cn/健屋花那) |
 | makaino ririmu | 魔界之莉莉姆 | ![](https://img.moegirl.org.cn/common/a/ad/Rrm4.jpg)<br>魔界之莉莉姆（日语：魔界ノりりむ Makaino Ririmu）是隶属彩虹社的虚拟Youtuber，出身于彩虹社Gamers（にじさんじゲーマーズ）。 | [萌娘百科](https://zh.moegirl.org.cn/魔界之莉莉姆) |
 | emma august | 艾玛★奥加斯特 | 艾玛★奥加斯特 （日文：えま★おうかずと，英文：Emma August） 是虚拟YouTuber业界团体彩虹社所属成员。 | [萌娘百科](https://zh.moegirl.org.cn/艾玛·奥加斯特) |
-| hakase fuyuki | 叶加濑冬雪 | 葉加瀬冬雪（葉加瀬冬雪 / Hakase Fuyuki ）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶加濑冬雪) |
+| hakase fuyuki | 叶加濑冬雪 | ![](https://ehgt.org/w/02/146/95162-uarp388b.webp)<br>所属社团：`p:nijisanji`<br><br>葉加瀬冬雪（葉加瀬冬雪 / Hakase Fuyuki ）是一名从2019年7月6日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶加濑冬雪) |
 | izumo kasumi | 出云霞 | 出云霞 （ 出雲 霞 / Izumo Kasumi ）是一名从2018年06月05日在YouTube开始活动的VTuber，所属业界团体彩虹社的成员。 | [萌娘百科](https://zh.moegirl.org.cn/出云霞) |
 | ushimi ichigo | 宇志海莓 | ![](https://img.moegirl.org.cn/common/d/d0/Ushimi_Ichigo_Full_02.png)<br>宇志海莓（日语：うしみ いちご Ushimi Ichigo），或译宇志海草莓，彩虹社2期生的一员。 | [萌娘百科](https://zh.moegirl.org.cn/宇志海莓) |
 | yuhi riri | 夕阳莉莉 | ![](https://img.moegirl.org.cn/common/thumb/d/d4/Yuuhi_Riri_05_full.jpg/800px-Yuuhi_Riri_05_full.jpg)<br>夕阳莉莉（日语：夕陽リリ / Yuhi Riri）是隶属于彩虹社的VTuber，二期生。 | [Fandom](https://virtualyoutuber.fandom.com/wiki/Yuuhi_Riri)<br>[萌娘百科](https://zh.moegirl.org.cn/夕阳莉莉) |
