@@ -14973,6 +14973,7 @@ example:
 | pipo | ピポ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ048725/ana_flg/all) |
 | samateru | さまてる |  |  |
 | kapurikon | カプリコン |  |  |
+| owasobi | おわそび |  | [FANBOX](https://www.fanbox.cc/@onikizoku) \| [pixiv](https://www.pixiv.net/users/6646296) \| [pawoo](https://pawoo.net/@shakainomad) |
 
 <!--TEMPLATE:
 |  |  |  |  |
