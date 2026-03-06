@@ -14972,6 +14972,7 @@ example:
 | rom no hito | ROMの人 |  |  |
 | pipo | ピポ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ048725/ana_flg/all) |
 | samateru | さまてる |  |  |
+| kapurikon | カプリコン |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
