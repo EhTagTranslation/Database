@@ -2433,7 +2433,7 @@ example:
 | senji | 煎路 |  |  |
 | komowata haruka | 菰绵遥华 | 代表作品为柚子社的Noble☆works之后所有作品的SD原画和Eternal的辉光翼战记系列的SD原画。 | [萌娘百科](https://zh.moegirl.org.cn/菰绵遥华) |
 | murakami suigun | 村上水军 |  |  |
-| takanae kyourin | 高苗京鈴 |  |  |
+| takanae kyourin | 高苗京铃 | 高苗京鈴 |  |
 | shirabe shiki | 調四季 |  |  |
 | kobuichi | 小舞一 | 小舞一（こぶいち）是日本的游戏原画家，插画家。柚子社主要原画，与同公司的梦璃凛画风极其相似（柚子脸元凶）。 | [X](https://x.com/kobuichi) |
 | yaneko uta | 弥猫うた |  | [pixiv](https://www.pixiv.net/users/10594960) [X](https://x.com/atu_okenay) |
