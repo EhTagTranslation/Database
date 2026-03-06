@@ -14970,6 +14970,7 @@ example:
 | urushi uroro | うるしうろろ |  | [pixiv](https://www.pixiv.net/users/71001987) \| [FANBOX](https://shikkui-kenta.fanbox.cc/) |
 | kojima video | 孤島ビデヲ |  |  |
 | rom no hito | ROMの人 |  |  |
+| pipo | ピポ |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ048725/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
