@@ -13228,7 +13228,7 @@ example:
 | sankaku batsumaru | 三角罰丸 |  |  |
 | sarasara chazuke | さらさらちゃづけ |  |  |
 | bonnou sousaku | 煩悩創作 |  |  |
-| mori no hito | 森の人 |  |  |
+| mori no hito | 森の人 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052602.html) |
 | yuunagi promenade | 夕凪プロムナード |  |  |
 | nekketsu nezumojuku | 熱血ねずも塾 |  |  |
 | yawaraka toge robot | やわらかトゲロボット |  |  |
