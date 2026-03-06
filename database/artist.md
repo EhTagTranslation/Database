@@ -14975,6 +14975,7 @@ example:
 | kapurikon | カプリコン |  |  |
 | owasobi | おわそび |  | [FANBOX](https://www.fanbox.cc/@onikizoku) \| [pixiv](https://www.pixiv.net/users/6646296) \| [pawoo](https://pawoo.net/@shakainomad) |
 | komi | ♀こみ |  | [FANBOX](https://www.fanbox.cc/@mikoismiko) \| [pixiv](https://www.pixiv.net/users/8957971) |
+| lioreo | りおれお |  | [X](https://x.com/G_myth_world) \| [DLsite](https://ci-en.dlsite.com/creator/5154) \| |
 
 <!--TEMPLATE:
 |  |  |  |  |
