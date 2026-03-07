@@ -2744,6 +2744,7 @@ example:
 | da erduo tutu | 大耳朵图图 |  |  |
 | hulu xiongdi | 葫芦娃 | 又名《葫芦兄弟》 |  |
 | starward | 星之翼 |  |  |
+| detroit become human | 底特律：变人 |  | [维基百科](https://zh.wikipedia.org/wiki/底特律：變人) [STEAM](https://store.steampowered.com/app/1222140/Detroit_Become_Human/) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
