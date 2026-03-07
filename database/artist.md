@@ -14978,6 +14978,7 @@ example:
 | lioreo | りおれお |  | [X](https://x.com/G_myth_world) \| [DLsite](https://ci-en.dlsite.com/creator/5154) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG49391.html) \| [pixiv](https://www.pixiv.net/users/14455659) |
 | kuufuku | 空腹 |  |  |
 | katsuiro yuuki | 褐色ユウキ |  | [pixiv](https://www.pixiv.net/users/10575407) |
+| oberon | オベロン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72194/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
