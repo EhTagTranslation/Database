@@ -10673,7 +10673,7 @@ example:
 | spookyhouse | spookyhouse |  |  |
 | spread happiness | Spread Happiness |  |  |
 | sprechchor | シュプレヒコール |  |  |
-| spring castle | spring castle |  |  |
+| spring castle | SPRING CASTLE |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79616/) |
 | springlove | SpringLOVE |  |  |
 | sprinkler of calpis | Sprinkler of かるぴす |  |  |
 | sprout | SPROUT |  |  |
