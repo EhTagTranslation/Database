@@ -14979,6 +14979,7 @@ example:
 | kuufuku | 空腹 |  |  |
 | katsuiro yuuki | 褐色ユウキ |  | [pixiv](https://www.pixiv.net/users/10575407) |
 | oberon | オベロン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72194/) |
+| madbull | MadBull |  | [FANBOX](https://madbull.fanbox.cc/) \| [X](https://x.com/MadBull022400) \| [pixiv](https://www.pixiv.net/users/28794936) |
 
 <!--TEMPLATE:
 |  |  |  |  |
