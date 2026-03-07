@@ -14981,6 +14981,7 @@ example:
 | oberon | オベロン |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72194/) |
 | madbull | MadBull |  | [FANBOX](https://madbull.fanbox.cc/) \| [X](https://x.com/MadBull022400) \| [pixiv](https://www.pixiv.net/users/28794936) |
 | kuroyui | 黒結 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f6874c79-64d3-11f0-ba33-0242ac160002/section=mens/) |
+| tamakichi. jirou | たまきち。次郎 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
