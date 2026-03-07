@@ -10211,7 +10211,7 @@ example:
 | shuffle | shuffle |  | [pixiv](https://www.pixiv.net/users/1876202) |
 | shuga | しゅがぁ |  |  |
 | shuma | しゅま |  |  |
-| shunjou shuusuke | 春城秋介 |  |  |
+| shunjou shuusuke | 春城秋介 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=0b6bd112-64d4-11f0-ba33-0242ac160002/section=mens/) |
 | shunzou | しゅんぞう |  |  |
 | shuragyoku mami | 珠羅玉魔魅 |  |  |
 | shuu | じゅう |  |  |
