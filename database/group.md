@@ -1381,7 +1381,7 @@ example:
 | blank check | ぶらんく☆ちぇっく |  |  |
 | tonkotsu | とんこつ |  |  |
 | necocoya | ねここや |  |  |
-| ss-brain | SS-BRAIN |  |  |
+| ss-brain | SS-BRAIN |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24735/) \| [社团官网](http://ss-brain.net/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG06356) \| [X](https://x.com/SS_BRAIN_net) |
 | fleur 9 pri | ふるるきゅぷり |  |  |
 | jyujiro | 十字路 |  |  |
 | oricomplex | ORICOMPLEX |  |  |
