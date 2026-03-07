@@ -13804,6 +13804,7 @@ example:
 | mittsuame | 三つ雨 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33680.html) |
 | mythical world | みしかるわーるど |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79452/) |
 | inutohone | 犬と骨 |  |  |
+| kusuriyubi | くすりゆび |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79831/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
