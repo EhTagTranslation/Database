@@ -12961,7 +12961,7 @@ example:
 | marcapaginas | マルカパヒナス |  |  |
 | tricera koubou | トリケラ工房 |  |  |
 | hanayanagoyaka | はなやなごやか |  |  |
-| daidai shikibu | 橙式部 |  |  |
+| daidai shikibu | 橙式部 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202921/) \| [FANBOX](https://daidaishikibu.fanbox.cc/) \| [X](https://x.com/daidaishikibu) \| [pixiv](https://www.pixiv.net/users/72664400) |
 | shokushu gitei | 触手义弟 |  |  |
 | yawaraka aomame no on salad | 柔らか青豆の温サラダ |  |  |
 | youkandou | ようかん堂 |  |  |
