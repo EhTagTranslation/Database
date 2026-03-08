@@ -11733,7 +11733,7 @@ example:
 | unisonshift | ユニゾンシフト |  |  |
 | unit cheese | ゆにっとちーず |  |  |
 | unitonasubi | うにとなすび |  |  |
-| uniuni | uniuni |  |  |
+| uniuni | uniuni |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72601/) |
 | uniya | 雲丹屋 |  |  |
 | uniyaa | うに屋あ |  |  |
 | unizo | うに蔵 |  |  |
