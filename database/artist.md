@@ -8922,7 +8922,7 @@ example:
 | obmas | obmas |  |  |
 | oboroduki yamiya | 朧月闇夜 |  |  |
 | oborotsuki kakeru | 朧月カケル |  |  |
-| obyaa | おびゃー |  |  |
+| obyaa | おびゃー |  | [FANBOX](https://obya.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/46980) \| [pixiv](https://www.pixiv.net/users/519665) \| [X](https://x.com/obya_fourth) |
 | ocha | お茶 |  |  |
 | ochatan | おちゃたん |  |  |
 | ochatsumi | オチャツミ |  |  |
