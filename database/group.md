@@ -1625,7 +1625,7 @@ example:
 | yuuendou | 遊猿堂 |  |  |
 | kouchaya | 红茶屋 |  |  |
 | testa kitchen | てすた厨房 |  |  |
-| kireinabuta | キレイナブタ |  |  |
+| kireinabuta | キレイナブタ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206191/) |
 | saihate-kukan | 最果て空間 |  |  |
 | seki sabato | 関サバト |  |  |
 | garyuuya | 我龍屋 |  |  |
