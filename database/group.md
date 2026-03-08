@@ -2012,7 +2012,7 @@ example:
 | fururi. | ふるり。 |  |  |
 | amamitu hakushi | 甘蜜博士 |  |  |
 | masaru dot com | マサルドットコム |  |  |
-| irodori | IRODORI |  |  |
+| irodori | 彩〜IRODORI〜 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=74464/) |
 | kamaboko koubou | カマボコ工房 |  |  |
 | shiki be careful | 四季注意 |  |  |
 | yamakon-ya | 山绀屋 | a:`yamakonbu`使用的同人社团名称 |  |
