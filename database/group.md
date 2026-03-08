@@ -5414,7 +5414,7 @@ example:
 | hapa | ハーパー |  |  |
 | hapihapi | hapihapi |  |  |
 | happaya | 葉っぱ屋 |  |  |
-| happiness milk | はぴねすみるく |  |  |
+| happiness milk | はぴねすみるく |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=75859/) |
 | happo ryuu | HAPPO流 |  |  |
 | happy drive | はっぴぃどらいぶっ! |  |  |
 | happy life | Happy Life |  |  |
