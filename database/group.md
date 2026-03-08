@@ -3864,7 +3864,7 @@ example:
 | citron | CITRON |  |  |
 | citron love | CITRON LOVE |  |  |
 | citron tree | citron tree |  |  |
-| citrus | Citrus |  |  |
+| citrus | Citrus |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=207981/) |
 | city forest | City Forest |  |  |
 | ciz | CIZ!! |  |  |
 | cla cla clala | Cla Cla Clala |  |  |
