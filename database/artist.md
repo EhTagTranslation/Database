@@ -14984,6 +14984,7 @@ example:
 | tamakichi. jirou | たまきち。次郎 |  |  |
 | haruno | ハルノ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221925/) |
 | maskwolf | KeinV |  | [X](https://x.com/KeinV1245) \| [pixiv](https://www.pixiv.net/users/17870444) \| [FANBOX](https://keinv1245.fanbox.cc/) |
+| go go fanbot | ごーごー!ふぁんぼっと |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
