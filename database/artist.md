@@ -833,7 +833,7 @@ example:
 | sink | SINK |  | [FANZA](https://book.dmm.co.jp/list/?author=27058) |
 | warabino matsuri | 蕨野まつり |  | [X](https://x.com/warabino) [pixiv](https://www.pixiv.net/users/123544) |
 | nandz | NandZ |  |  |
-| urakan | U罗汉 |  |  |
+| urakan | U罗汉 | 日：U羅漢 | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12918.html) \| [DLsite](https://ci-en.dlsite.com/creator/6352) |
 | shiwasu horio | 師走ほりお |  |  |
 | pokachu | ぽかちゅ |  |  |
 | wasabi | わさび \| 和錆 |  | [X](https://x.com/wasabilabel) [pixiv](https://www.pixiv.net/users/502358) |
