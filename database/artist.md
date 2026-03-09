@@ -13031,7 +13031,7 @@ example:
 | 38 | 38 |  | [pixiv](https://www.pixiv.net/users/30570055) [X](https://x.com/thirty8ght) |
 | starraisins | 星レーズン |  |  |
 | bef | べふ |  |  |
-| mizushima irohasu | 水嶋イロハス |  |  |
+| mizushima irohasu | 水嶋イロハス |  | [pixiv](https://www.pixiv.net/users/2766242) \| [X](https://x.com/chaostep) |
 | wolf ameno | 雨野うるふ |  |  |
 | hiiragi hiiro | ひいらぎひろ |  |  |
 | fumm tarou | ふむたろう |  | [pixiv](https://www.pixiv.net/users/813051) [X](https://x.com/fumm31051) |
