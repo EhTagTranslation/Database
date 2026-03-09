@@ -14985,6 +14985,7 @@ example:
 | haruno | ハルノ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=221925/) |
 | maskwolf | KeinV |  | [X](https://x.com/KeinV1245) \| [pixiv](https://www.pixiv.net/users/17870444) \| [FANBOX](https://keinv1245.fanbox.cc/) |
 | go go fanbot | ごーごー!ふぁんぼっと |  |  |
+| maruyama | マルヤマ |  | [pixiv](https://www.pixiv.net/users/25627)<br>[X](https://x.com/_maruyama_) |
 
 <!--TEMPLATE:
 |  |  |  |  |
