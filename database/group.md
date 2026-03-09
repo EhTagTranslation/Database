@@ -13812,6 +13812,7 @@ example:
 | radio tower | radio tower |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53609.html) |
 | hagakure | 葉が紅 |  |  |
 | tsf cafe | TSF CAFE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021478.html) |
+| grimoire | グリモア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26645) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
