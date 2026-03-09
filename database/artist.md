@@ -14986,6 +14986,7 @@ example:
 | maskwolf | KeinV |  | [X](https://x.com/KeinV1245) \| [pixiv](https://www.pixiv.net/users/17870444) \| [FANBOX](https://keinv1245.fanbox.cc/) |
 | go go fanbot | ごーごー!ふぁんぼっと |  |  |
 | maruyama | マルヤマ |  | [pixiv](https://www.pixiv.net/users/25627)<br>[X](https://x.com/_maruyama_) |
+| roagun | ろあぐん |  | [pixiv](https://www.pixiv.net/users/18453831)<br>[X](https://x.com/Illustroakun) |
 
 <!--TEMPLATE:
 |  |  |  |  |
