@@ -14987,6 +14987,7 @@ example:
 | go go fanbot | ごーごー!ふぁんぼっと |  |  |
 | maruyama | マルヤマ |  | [pixiv](https://www.pixiv.net/users/25627)<br>[X](https://x.com/_maruyama_) |
 | roagun | ろあぐん |  | [pixiv](https://www.pixiv.net/users/18453831)<br>[X](https://x.com/Illustroakun) |
+| maca | マカ |  | [pixiv](https://www.pixiv.net/users/834194) \| [X](https://x.com/a83d8) \| [FANBOX](https://macaca12.fanbox.cc/) \| [BOOTH](https://a83d8.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
