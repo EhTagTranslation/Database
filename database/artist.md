@@ -14993,6 +14993,7 @@ example:
 | bodaijun | 菩提じゅん |  | [X](https://x.com/ribiken_jp)<br>[pixiv](https://www.pixiv.net/users/114202234) |
 | nishimura hanten | 西村饭店 |  |  |
 | mikiuchi shitei | 三木内指定 |  |  |
+| tahita | たひた |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
