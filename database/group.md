@@ -12922,7 +12922,7 @@ example:
 | kemomimi-chan ya | ケモミミちゃん屋 |  |  |
 | fukurasuzume | ふくらすずめ |  |  |
 | fuuzen lamp | 風前ランプ |  |  |
-| tokyo manga kenkyuujo | 東京漫画研究所 |  |  |
+| tokyo manga kenkyuujo | 東京漫画研究所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG66180.html) |
 | rockydou | ロッキー堂 |  |  |
 | gyuutan teishoku e no koi | 牛タン定食への恋 |  |  |
 | omuretsu server | オムレツサーバー |  |  |
