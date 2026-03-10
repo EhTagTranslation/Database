@@ -4865,7 +4865,7 @@ example:
 | negev | 内格夫 | `p:girls frontline`<br>![](https://www.gfwiki.org/images/6/66/Pic_NEGEV_HD.png) | [https://www.gfwiki.org/w/内格夫](https://www.gfwiki.org/w/内格夫) |
 | st ar-15 | ST AR-15 | `p:girls frontline` | [https://www.gfwiki.org/w/ST\_AR-15](https://www.gfwiki.org/w/ST_AR-15) |
 | m4a1 | M4A1 | `p:girls frontline` | [https://www.gfwiki.org/w/M4A1](https://www.gfwiki.org/w/M4A1) |
-| m4 sopmod ii | M4 SOPMODII | M4 SOPMODII(SOP2) `p:girls frontline` | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
+| m4 sopmod ii | M4 SOPMODII \|  索普 | M4 SOPMODII(SOP2)<br>`p:girls frontline`<br>少女前线2：追放<br>已登场索普 | [https://www.gfwiki.org/w/M4\_SOPMODII](https://www.gfwiki.org/w/M4_SOPMODII) |
 | m16a1 | M16A1 \| 白烨戈 | `p:girls frontline`<br>iop人形→铁血人形 | [https://www.gfwiki.org/w/M16A1](https://www.gfwiki.org/w/M16A1) |
 | ak-15 | AK-15 \| 威玛西娜 \| 艾尔文 | `p:girls frontline`<br><br>少女前线2：追放<br>威玛西娜 | [https://www.gfwiki.org/w/AK-15](https://www.gfwiki.org/w/AK-15) |
 | rpk-16 | RPK-16 \| 蕾娜特 \| 恩布拉 | `p:girls frontline` | [https://www.gfwiki.org/w/RPK-16](https://www.gfwiki.org/w/RPK-16) |
