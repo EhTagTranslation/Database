@@ -13814,6 +13814,7 @@ example:
 | tsf cafe | TSF CAFE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021478.html) |
 | grimoire | グリモア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26645) |
 | karakuri korokke | 唐栗コロッケ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65288.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=b340f8cb-1a54-49ee-affd-2c86ec532948/section=mens/) |
+| tahitasou | たひた庄 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
