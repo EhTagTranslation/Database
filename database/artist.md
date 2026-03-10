@@ -14995,6 +14995,7 @@ example:
 | mikiuchi shitei | 三木内指定 |  |  |
 | tahita | たひた |  |  |
 | hotsaurus | hotsaurus |  | [FANBOX](https://hotsaurus.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/4264289) |
+| wasshoi aka-chan | わっしょい赤ちゃん |  | [FANBOX](https://wa7124.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/41960058) |
 
 <!--TEMPLATE:
 |  |  |  |  |
