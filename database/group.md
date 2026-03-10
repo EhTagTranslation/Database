@@ -11933,7 +11933,7 @@ example:
 | warainaki festa | ワライナキフェスタ |  |  |
 | ware pon | われPON |  |  |
 | wareago | ワレアゴ |  |  |
-| waribashi kouka | 割り箸効果 |  |  |
+| waribashi kouka | 割り箸効果 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG15865.html) |
 | warukuriya | ワルクリ屋 |  |  |
 | wasabi mochi | わさびもち |  |  |
 | wasabiberry jam | Wasabiberry JAM |  |  |
