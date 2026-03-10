@@ -14994,6 +14994,7 @@ example:
 | nishimura hanten | 西村饭店 |  |  |
 | mikiuchi shitei | 三木内指定 |  |  |
 | tahita | たひた |  |  |
+| hotsaurus | hotsaurus |  | [FANBOX](https://hotsaurus.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/4264289) |
 
 <!--TEMPLATE:
 |  |  |  |  |
