@@ -8781,6 +8781,7 @@ example:
 | reia hasumi | 莲见蕾雅 | ![](https://static.wikia.nocookie.net/13witch-trials/images/e/ec/Leia_transparent.png/revision/latest?cb=20251221094350)<br>所属作品: `mahou shoujo no majo saiban`<br>日语: 蓮見レイア（ハスミ レイア）<br>超级显眼包 | [Fandom](https://13witch-trials.fandom.com/wiki/Hasumi_Leia)<br>[萌娘百科](https://zh.moegirl.org.cn/莲见蕾雅) |
 | bristle | 布里茨 | ![](https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Blitzcrank_Render.png)<br>出自作品：`p:league of legends` | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/布里茨?variant=zh-tw) |
 | udyr | 乌迪尔 | ![](https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Udyr_OriginalSkin.jpg)<br>出自作品：`p:league of legends` | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/乌迪尔) |
+| anshan | 鞍山 | 07大驱<br>她是中国海军第一艘驱逐舰 | [维基百科](https://zh.wikipedia.org/wiki/鞍山号驱逐舰) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
