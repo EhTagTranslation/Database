@@ -8350,7 +8350,7 @@ example:
 | mutunari | むつなり |  |  |
 | muumuu | ムームー |  |  |
 | muuna | むーな |  |  |
-| muunyan | むーにゃん |  |  |
+| muunyan | むーにゃん |  | [FANBOX](https://akbdc93m.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/1861797) \| [X](https://x.com/munyamunyako) |
 | muya | むや |  |  |
 | myaa | みゃー |  |  |
 | myake | みゃけ |  |  |
