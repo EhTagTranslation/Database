@@ -12268,7 +12268,7 @@ example:
 | yumemigokoti | 夢見ごこち |  |  |
 | yumemushi | ユメムシ |  |  |
 | yumenamakon | ゆめなまこん |  |  |
-| yumenekoya | 夢ねこ屋 |  |  |
+| yumenekoya | 夢ねこ屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG27697.html) |
 | yumeno miya | 夢乃宮 |  |  |
 | yumeoikyounouta | 夢追狂の謳 |  |  |
 | yumetoki | ユメトキ |  |  |
