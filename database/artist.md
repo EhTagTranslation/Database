@@ -1688,7 +1688,7 @@ example:
 | koori nezumi | 冰鼠 |  |  |
 | fluff kevlar | Fluff-Kevlar |  |  |
 | mukka | Mukka |  | [pixiv](https://www.pixiv.net/users/4346822) |
-| harenchi tomeko | はれんちとめこ |  |  |
+| harenchi tomeko | はれんちとめこ |  | [melonbooks](https://www.melonbooks.co.jp/search/search.php?name=はれんちとめこ&text_type=author) \| [pixiv](https://www.pixiv.net/users/55398) |
 | yukiji shia | 雪路时爱 |  |  |
 | mirin fu-ka | 味燐ふーか |  |  |
 | toroshio | とろしお |  |  |
