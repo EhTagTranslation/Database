@@ -5847,7 +5847,7 @@ example:
 | athena | 雅典娜 |  |  |
 | hades | 哈迪斯 |  |  |
 | rie kawai | 河合理恵 |  |  |
-| tatenashi sarashiki | 更识楯无 | ![](https://ehgt.org/w/01/952/46967-6hgtrrd2.webp)<br>所属作品：`infinite stratos`<br>第十七代楯无，继承更识家（传统的暗部名门）当主之名。IS学园学生会长（号称学园最强，操纵IS实力远在各女主角之上）。 |  |
+| tatenashi sarashiki | 更识楯无 | ![](https://ehgt.org/w/02/142/16158-lchh786i.webp)<br>所属作品：`infinite stratos` |  |
 | gate opener alice | 开门人爱丽丝 | 女皇之门 |  |
 | cure prism | 虹之丘真白（稜镜天使） | ![](https://static.wikia.nocookie.net/prettycure/images/d/d1/Mashiro_Prism_Profile.png)<br>所属作品：`hirogaru sky precure`<br>日语：虹ヶ丘ましろ | [Fandom](https://prettycure.fandom.com/wiki/Nijigaoka_Mashiro) |
 | raana kaname | 要乐奈 | ![](https://anime.bang-dream.com/mygo/wordpress/wp-content/themes/mygo_v1/assets/images/common/character/thumb_rana.png)<br>所属作品：《‌`bang dream` It's MyGO!!》<br>要乐奈（日语：要楽奈（かなめ らーな））。 | [萌娘百科](https://zh.moegirl.org.cn/要乐奈) |
