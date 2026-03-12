@@ -4454,7 +4454,7 @@ example:
 | nagi sanzenin | 三千院凪 | ![](https://static.wikia.nocookie.net/hayatenogotoku/images/8/80/P9.jpg)<br>所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/三千院凪) |
 | marie | 玛丽 |  |  |
 | fuyutsuki | 冬月 | 舰队collection角色 | [https://zh.kcwiki.cn/wiki/冬月](https://zh.kcwiki.cn/wiki/冬月) |
-| tsukasa ayatsuji | 绚辻词 |  |  |
+| tsukasa ayatsuji | 绚辻词 | ![](https://ehgt.org/w/02/168/18393-iwhtlnk8.webp)<br>所属作品：`amagami` |  |
 | ai nanasaki | 七咲逢 | ![](https://ehgt.org/w/01/970/17644-q7a66gdp.webp)<br>所属作品：`amagami` |  |
 | haruka morishima | 森岛遥 | ![](https://ehgt.org/w/02/022/68641-mtjrtt5q.webp)<br>所属作品：`amagami` |  |
 | miya tachibana | 橘美也 |  |  |
