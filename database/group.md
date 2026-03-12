@@ -13503,7 +13503,7 @@ example:
 | september geshi | セプテンバー夏至 | 九月夏至 |  |
 | jirai soft | 地雷ソフト |  |  |
 | syunka kikaku | しゅんか企画 |  |  |
-| rhetoric | れとりっく |  |  |
+| rhetoric | れとりっく | れとりっく（レトリック） | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG63624.html) |
 | team sinosabi | Team SINOSABI |  | [Twitter](https://x.com/sinosabi) [官方网站](https://sinosabi.net/) |
 | chikashitsu project | 地下室プロジェクト |  |  |
 | spanteikoku | すぱん帝国 |  |  |
