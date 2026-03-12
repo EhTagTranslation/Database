@@ -4455,7 +4455,7 @@ example:
 | marie | 玛丽 |  |  |
 | fuyutsuki | 冬月 | 舰队collection角色 | [https://zh.kcwiki.cn/wiki/冬月](https://zh.kcwiki.cn/wiki/冬月) |
 | tsukasa ayatsuji | 绚辻词 |  |  |
-| ai nanasaki | 七咲逢 |  |  |
+| ai nanasaki | 七咲逢 | ![](https://ehgt.org/w/01/970/17644-q7a66gdp.webp)<br>所属作品：`amagami` |  |
 | haruka morishima | 森岛遥 | ![](https://ehgt.org/w/02/022/68641-mtjrtt5q.webp)<br>所属作品：`amagami` |  |
 | miya tachibana | 橘美也 |  |  |
 | sae nakata | 中多纱江 |  |  |
