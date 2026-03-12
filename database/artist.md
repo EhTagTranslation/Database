@@ -10581,7 +10581,7 @@ example:
 | takao ukyou | 高雄右京 |  |  |
 | takao yori | 高尾鷹浬 |  |  |
 | takaoka chikara | 高岡智空 |  |  |
-| takapi | たかぴ |  |  |
+| takapi | たかぴ |  | [BOOTH](https://chimee.booth.pm/items/7838216) \| [chimeehouse](https://chimeehouse.com/) \| [X](https://x.com/takap_chimee) \| [pixiv](https://www.pixiv.net/users/15840) \| [FANBOX](https://takap.fanbox.cc/) \| |
 | takara akihito | 宝あきひと |  |  |
 | takaryoo | たかりょー |  |  |
 | takasaki akira | 高崎晶 |  |  |
