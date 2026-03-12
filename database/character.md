@@ -3634,7 +3634,7 @@ example:
 | princess zelda | 塞尔达公主 | ![](https://ehgt.org/w/02/143/87567-nvd0qdxa.webp)<br><br>出自作品：`p:the legend of zelda`<br><br>塞尔达公主是任天堂旗下作品《塞尔达传说》系列的登场角色。<br>不是林克。 | [萌娘百科](https://zh.moegirl.org.cn/塞尔达) \| [维基百科](https://zh.wikipedia.org/wiki/塞尔达公主) |
 | ren hazuki | 叶月恋 | ![](https://storage.moegirl.org.cn/moegirl/commons/d/df/叶月恋_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/叶月恋)<br>[Fandom](https://love-live.fandom.com/wiki/Ren_Hazuki) |
 | sumire heanna | 平安名堇 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/79/平安名堇_立绘.png)<br>所属作品: `p:love live superstar`<br>古搜库沐西～ 古搜库沐西～古搜库搜库搜库 古搜库沐西～<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/平安名堇)<br>[Fandom](https://love-live.fandom.com/wiki/Sumire_Heanna) |
-| lanzhu zhong | 钟岚珠 |  |  |
+| lanzhu zhong | 钟岚珠 | ![](https://ehgt.org/w/01/716/52833-g08aea19.webp)<br>所属作品：`love live nijigasaki high school idol club` |  |
 | kanon shibuya | 涩谷香音 | ![](https://storage.moegirl.org.cn/moegirl/commons/3/34/涩谷香音_立绘.png)<br>所属作品: `p:love live superstar`<br>“你好，谢谢，小笼包，再见！”<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/涩谷香音)<br>[Fandom](https://love-live.fandom.com/wiki/Kanon_Shibuya) |
 | chisato arashi | 岚千砂都 | ![](https://storage.moegirl.org.cn/moegirl/commons/f/f0/岚千砂都_立绘.png)<br>所属作品: `p:love live superstar`<br>结丘女子高等学校第一届学生，学园偶像组合Liella!成员。 | [萌娘百科](https://zh.moegirl.org.cn/岚千砂都)<br>[Fandom](https://love-live.fandom.com/wiki/Chisato_Arashi) |
 | mia taylor | 米娅·泰勒 |  |  |
