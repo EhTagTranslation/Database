@@ -2116,7 +2116,7 @@ example:
 | ookami kodomo no ame to yuki | 狼的孩子雨和雪 | 《狼的孩子雨和雪》（日语：おおかみこどもの雨と雪）是由细田守导演、Studio地图和MADHOUSE制作的一部动画电影。细田守的第二部长篇原创作品。主题是“亲子”，讲述19岁的少女与“狼人”相遇并相爱，直到他们生下的狼人姐弟成长并独立的13年间发生的故事。<br><br>作品于2012年7月21日在日本上映。 | [萌娘百科](https://zh.moegirl.org.cn/狼的孩子雨和雪) [维基百科](https://zh.wikipedia.org/wiki/狼的孩子雨和雪) |
 | akiba maid sensou | 秋叶原冥途战争 | 1999年的春季，憧憬成为可爱女仆的少女和平奈古美，为追逐梦想来到了竞争激烈的秋叶原，她会遇到怎样的人和事呢？这是Cygames×P.A.WORKS献上的，关于“萌与暴力”的故事。一起萌萌心动吧！<br>![](https://static.wikia.nocookie.net/akibamaidwar/images/0/02/Key_Visual_2.png) | [萌娘百科](https://zh.moegirl.org.cn/秋叶原冥途战争) [维基百科](https://zh.wikipedia.org/wiki/秋葉原冥途戰爭) [Fandom](https://akibamaidwar.fandom.com/wiki/Akiba_Maid_War) |
 | kyuuketsuki sugu shinu | 吸血鬼马上死 |  | [萌娘百科](https://zh.moegirl.org.cn/吸血鬼马上死) |
-| devil summoner soul hackers | 恶魔召唤师 | 《恶魔召唤师》系列（日语：デビルサマナー；英语：Devil Summoner）是由Atlus制作并发行的游戏系列，共有5部游戏作品。<br><br>什么叫“恶魔召唤师”？就是与恶魔签订交易契约，利用恶魔为自己做事同时供给恶魔需求之物，和恶魔交易的人类。恶魔召唤师系列顾名思义，就是讲述这个特殊人群的故事。 | [萌娘百科](https://zh.moegirl.org.cn/恶魔召唤师系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/デビルサマナー_ソウルハッカーズ) [百度百科](https://baike.baidu.com/item/恶魔召唤师/1582481) |
+| devil summoner soul hackers | 恶魔召唤师 灵魂骇客 | 《恶魔召唤师》系列（日语：デビルサマナー；英语：Devil Summoner）是由Atlus制作并发行的游戏系列，共有5部游戏作品。<br><br>什么叫“恶魔召唤师”？就是与恶魔签订交易契约，利用恶魔为自己做事同时供给恶魔需求之物，和恶魔交易的人类。恶魔召唤师系列顾名思义，就是讲述这个特殊人群的故事。 | [萌娘百科](https://zh.moegirl.org.cn/恶魔召唤师系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/デビルサマナー_ソウルハッカーズ) [百度百科](https://baike.baidu.com/item/恶魔召唤师/1582481) |
 | saikin yatotta maid ga ayashii | 最近雇的女仆有点怪 |  | [萌娘百科](https://zh.moegirl.org.cn/最近雇的女仆有点怪) |
 | benriya saitou-san isekai ni iku | 万事屋斋藤先生转生异世界 |  | [萌娘百科](https://zh.moegirl.org.cn/万事屋斋藤先生转生异世界) |
 | mar | MÄR魔兵传奇 |  | [萌娘百科](https://zh.moegirl.org.cn/魔兵传奇) [维基百科](https://zh.wikipedia.org/wiki/MÄR_魔法世界) |
