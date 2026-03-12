@@ -12912,7 +12912,7 @@ example:
 | usaginoheya | ウサギノヘヤ |  |  |
 | inmou choregi salad | 陰毛チョレギサラダ |  |  |
 | kabuto 3-gou | カブト3号 |  |  |
-| nagatsukitei | 长月亭 |  |  |
+| nagatsukitei | 长月亭 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=206211/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70023.html) |
 | genki colors | ゲンキカラーズ | ゲンキカラーズ |  |
 | nekolovelandou | ねこらぶらん堂 |  |  |
 | muchipanya | むちぱん屋 |  |  |
