@@ -8786,6 +8786,7 @@ example:
 | lilisa suzunomiya | 铃之宫莉莉纱 | ![](https://static.wikia.nocookie.net/rock-lady/images/1/13/Lilisa_Suzunomiya.png)<br>所属作品：`rock wa lady no tashinami deshite`<br>日语：鈴ノ宮 りりさ |  |
 | otoha kurogane | 黑铁音羽 | ![](https://static.wikia.nocookie.net/rock-lady/images/4/48/Otoha_Kurogane.png)<br>所属作品：`rock wa lady no tashinami deshite`<br>日语：黒鉄音羽 |  |
 | tina isemi | 院濑见蒂娜 | ![](https://static.wikia.nocookie.net/rock-lady/images/9/9b/Tina_Isemi.png)<br>所属作品：`rock wa lady no tashinami deshite`<br>日语：院瀬見 ティナ |  |
+| akane nagisa | 渚茜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/0a/161215_crt_8QQE0.jpg)<br>所属作品：`mane mane nichi nichi` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
