@@ -14996,6 +14996,7 @@ example:
 | tahita | たひた |  |  |
 | hotsaurus | hotsaurus |  | [FANBOX](https://hotsaurus.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/4264289) |
 | wasshoi aka-chan | わっしょい赤ちゃん |  | [FANBOX](https://wa7124.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/41960058) |
+| nyanta | にゃん太 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202098/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56561.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
