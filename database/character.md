@@ -8782,6 +8782,7 @@ example:
 | bristle | 布里茨 | ![](https://static.wikia.nocookie.net/leagueoflegends/images/4/48/Blitzcrank_Render.png)<br>出自作品：`p:league of legends` | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/布里茨?variant=zh-tw) |
 | udyr | 乌迪尔 | ![](https://static.wikia.nocookie.net/leagueoflegends/images/5/5b/Udyr_OriginalSkin.jpg)<br>出自作品：`p:league of legends` | [Fandom](https://leagueoflegends.fandom.com/zh/wiki/乌迪尔) |
 | anshan | 鞍山 | 07大驱<br>她是中国海军第一艘驱逐舰 | [维基百科](https://zh.wikipedia.org/wiki/鞍山号驱逐舰) |
+| peni parker | 佩妮·帕克 | 蜘蛛机甲战士（英语：SP//dr），本名佩妮·帕克（Peni Parker），是漫威漫画中的虚构超级英雄角色，由杰罗德·威和杰克·怀特创作。蜘蛛机甲战士首次于《蜘蛛宇宙的边缘》#5中登场。<br>在漫威多元宇宙的14512号宇宙中，佩妮·帕克是一名15岁的日裔美国中学生，在父母去世后被婶婶梅·帕克和叔叔班·帕克收养。在佩妮9岁时，她的父亲在驾驶蜘蛛机甲战士时意外去世。在佩妮14岁时，梅婶和班叔告诉佩妮，她是唯一一个能够继续进行该计划的人，因为蜘蛛机甲战士需要与她的父亲的基因配对，而且要被机甲内的一只放射性蜘蛛咬下一囗才能运作。蜘蛛机甲战士除了能从内置的蛛网发射器发射出蜘蛛丝外，还能与驾驶者的动作同步和心灵相通。 | [萌娘百科](https://zh.moegirl.org.cn/潘妮·帕克)<br>[维基百科](https://zh.wikipedia.org/wiki/潘妮·帕克) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
