@@ -8789,6 +8789,7 @@ example:
 | akane nagisa | 渚茜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/6d/0a/161215_crt_8QQE0.jpg)<br>所属作品：`mane mane nichi nichi` |  |
 | yuki himemiya | 姬宫由纪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0d/0e/161217_crt_668Ph.jpg)<br>所属作品：`mane mane nichi nichi`<br>日语：姫宮ユキ |  |
 | karina ichinose | 一之濑香里奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/62/161216_crt_Ig7zg.jpg)<br>所属作品：`mane mane nichi nichi`<br>日语：一ノ瀬かりな |  |
+| honne nohotoke | 布佛本音 | ![](https://static.wikia.nocookie.net/infinite-stratos/images/9/9a/Honne_Nohotoke.png)<br>所属作品：`infinite stratos`<br>日语：布仏本音 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
