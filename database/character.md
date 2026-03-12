@@ -4458,7 +4458,7 @@ example:
 | ai nanasaki | 七咲逢 | ![](https://ehgt.org/w/01/970/17644-q7a66gdp.webp)<br>所属作品：`amagami` |  |
 | haruka morishima | 森岛遥 | ![](https://ehgt.org/w/02/022/68641-mtjrtt5q.webp)<br>所属作品：`amagami` |  |
 | miya tachibana | 橘美也 |  |  |
-| sae nakata | 中多纱江 |  |  |
+| sae nakata | 中多纱江 | ![](https://ehgt.org/w/02/042/15671-6qk5s3xk.webp)<br>所属作品：`amagami` |  |
 | rihoko sakurai | 樱井梨穗子 | ![](https://ehgt.org/w/02/256/51002-ihpy4f0i.webp)<br>所属作品：`amagami` | [萌娘百科](https://zh.moegirl.org.cn/樱井梨穗子) |
 | yukiko amagi | 天城雪子 | 天城雪子（日语：天城 雪子（あまぎ ゆきこ） (Amagi Yukiko)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录4》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天城雪子) |
 | hatsumi sega | 濑贺初美 | 濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
