@@ -13167,7 +13167,7 @@ example:
 | marumaromi | まるまろみ |  |  |
 | inchore | 陰ちょれ |  |  |
 | bujidearu | ぶじである |  |  |
-| nyamome | にゃもめ |  |  |
+| nyamome | にゃもめ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=f80445fb-64d3-11f0-ba33-0242ac160002/section=mens/) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22にゃもめ%22/ana_flg/all) |
 | amami hachiware | あまみはちわれ | あまみ はちわれ |  |
 | matanuki | またぬき |  | [FANBOX](https://matanukinuki.fanbox.cc/) [pixiv](https://www.pixiv.net/users/52280646) [X](https://x.com/matanukinuki24) |
 | nekojima | ねこじま |  |  |
