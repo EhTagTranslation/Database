@@ -13816,6 +13816,7 @@ example:
 | karakuri korokke | 唐栗コロッケ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65288.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=b340f8cb-1a54-49ee-affd-2c86ec532948/section=mens/) |
 | tahitasou | たひた庄 |  |  |
 | hachiko | ハチ公 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48615.html) |
+| makura cover soft | まくらカバーソフト |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ011928/ana_flg/all) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
