@@ -2801,7 +2801,7 @@ example:
 | mallow | 玛奥 | ![](https://s1.52poke.com/wiki/thumb/e/eb/瑪奧_SM.png/173px-瑪奧_SM.png)<br>出自作品：`p:pokemon`<br>日语：マオ | [萌娘百科](https://zh.moegirl.org.cn/玛奥%28宝可梦%29#) |
 | melony | 美蓉 | ![](https://s1.52poke.com/wiki/thumb/3/3e/美蓉_SWSH.png/209px-美蓉_SWSH.png)<br>所属作品：`pokemon`<br>日文︰メロン |  |
 | kama | 迦摩 | ![迦摩](https://img.moegirl.org.cn/common/8/82/迦摩满破.png)<br>所属作品：`fate grand order`<br><br>印度神话中的爱神。本作中以凭依在间桐樱的身上的形态登场。<br>FGO中因为受到帕尔瓦蒂的影响而变成了女性。 | [萌娘百科](https://zh.moegirl.org.cn/迦摩%28Fate%29#迦摩（Assassin）) |
-| yu mei-ren | 虞美人 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 |  |
+| yu mei-ren | 虞美人 | ![](https://ehgt.org/w/02/259/98207-n1twjnv6.webp)<br>出自作品：`p:fate grand order`<br><br>虞美人是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br>在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为Assassin。 | [萌娘百科](https://zh.moegirl.org.cn/虞美人%28Fate%29#) |
 | beni-enma | 红阎魔 | ![](https://ehgt.org/w/00/703/12350-9ykytcer.webp)<br>出自作品：`p:fate grand order`<br>红阎魔是TYPE-MOON旗下游戏《Fate/Grand Order》及其衍生作品的登场角色。<br><br>在TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant，职阶为Saber。 | [萌娘百科](https://zh.moegirl.org.cn/红阎魔%28Fate%29#) |
 | carmilla | 卡米拉 | 在`type-moon`的游戏《`fate grand order`》中登场的女性Servant。职阶为Assassin<br>![图](# "https://ehgt.org/ba/3f/ba3f3347a0ce6d4ae9b2991468db49cf9c823465-2970572-1024-1448-png_l.jpg") | [萌娘百科](https://zh.moegirl.org.cn/卡米拉%28Fate%29) [Mooncell](http://www.fgo.wiki/w/卡米拉) |
 | valkyrie | 瓦尔基里 | 瓦尔基里是TYPE-MOON推出的安卓&iOS游戏《Fate/Grand Order》中登场的Servant。职阶为Lancer。 |  |
