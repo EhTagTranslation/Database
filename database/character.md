@@ -6739,7 +6739,7 @@ example:
 | lulushi loo | 露露西·露 | ![](https://ehgt.org/w/01/916/33420-ezl5mhm6.webp)<br>所属作品：`isekai nonbiri nouka` | [百度百科](https://baike.baidu.com/item/露露西·露/62528689) |
 | chisa kotegawa | 古手川千纱 | ![](https://img.moegirl.org.cn/common/5/54/Grandblue_5_body.png)<br>所属作品：`grand blue`<br>伊豆大学机械工学系一年级生。本作主角北原伊织的无血缘表亲兼社团同辈同级系生。 | [萌娘百科](https://zh.moegirl.org.cn/古手川千纱) |
 | secre swallowtail | 塞科蕾・斯瓦罗忒尔（尼禄） | ![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/18/00/09/40/135225212_p1_master1200.jpg)<br>所属作品：`black clover`<br>原为侍奉着初代魔法帝路米艾尔·希尔巴米利安·库罗巴的少女，在使用禁术后变成了一只黑色的小鸟，并被众人称作“尼禄”（小黑）。黑色短发，暗红色眼睛。 | [百度百科](https://baike.baidu.com/item/尼禄/23699320) |
-| hakuren | 哈克莲 | 所属作品：`isekai nonbiri nouka`<br>拉丝蒂的姑姑，种族是龙，称号“真龙”。口气轻浮，给人的印象是个相当迷糊的巨乳女性。 |  |
+| hakuren | 哈克莲 | ![](https://ehgt.org/w/02/297/20487-r07y4300.webp)<br>所属作品：`isekai nonbiri nouka` |  |
 | hiraku machio | 街尾火乐 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0b/ed/121302_crt_CAtL8.jpg?r=1677332372)<br>所属作品：`isekai nonbiri nouka`<br>一般社畜。因在大学毕业后进入血汗公司导致过度操劳，最终不敌病魔，卒年三十九岁。<br>死后与神明相遇，得以复活并传送到异世界。因为不擅长与人打交道，又喜欢偶像务农的电视节目，所以向神提出想从事农业，希望在远离人烟的地方做农活。于是，获得了不会生病的“健康的肉体”和可以变成任何工具的“万能农具”，转移到了“游戏中常见的剑与魔法的世界”，活用万能农具自由自在地在名为“死亡森林”的大森林中拓荒耕种。 |  |
 | ria | 莉亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/64/45/121305_crt_ekgk4.jpg?r=1677332567)<br>所属作品：`isekai nonbiri nouka`<br>高等精灵的首领。 在森林里徘徊了很长时间后，遇到了火乐，并和他们一起生活。 |  |
 | sophia ascart | 索菲亚·亚斯卡鲁特 | ![](https://lain.bgm.tv/r/400/pic/crt/l/e8/4a/75403_crt_I15WI.jpg?r=1589900317)<br>所属作品：`otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta...`<br>索菲亚·亚斯卡鲁特是伯爵家的千金，尼克尔·亚斯卡鲁特的妹妹，拥有白发红瞳的外貌特征。她性格内向胆小，因奇特发色曾被视作不祥，但在与主角卡塔莉娜·克拉艾斯相遇后逐渐敞开心扉并成为好朋友。 | [百度百科](https://baike.baidu.com/item/索菲亚·亚斯卡鲁特/23760663?fromModule=lemma_inlink) |
