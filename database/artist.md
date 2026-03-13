@@ -14999,6 +14999,7 @@ example:
 | nyanta | にゃん太 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202098/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG56561.html) |
 | yesman | Yesman |  | [pixiv](https://www.pixiv.net/users/43324532)  \| [FANBOX](https://z47xtay7.fanbox.cc/) \| [X](https://x.com/CvbnYesman) |
 | tefuru | テフル |  | [FANBOX](https://tefr.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/19826232) \| [Skeb](https://skeb.jp/@TRAND68629720) \| [X](https://x.com/TRAND1008) \| [Fantia](https://fantia.jp/fanclubs/441256) |
+| taejaho | TaejaHo |  | [Patreon](https://www.patreon.com/TaejaHo) \| [X](https://x.com/HoTaeja) \| [YouTube](https://www.youtube.com/@Taeja-Ho002/featured) \| [Instagram](https://www.instagram.com/taejaho002) \| [FANBOX](https://taejaho.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/39336642) |
 
 <!--TEMPLATE:
 |  |  |  |  |
