@@ -13828,7 +13828,7 @@ example:
 | kashiwamori tama | 柏森たま。 |  |  |
 | pietro | ぴえとろ |  |  |
 | sukoyakagumi | 健康组 | すこやかグミ |  |
-| carpsukidayo | 吉本 |  |  |
+| carpsukidayo | 吉本 |  | [FANBOX](https://carpsukidayo.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/499498) \| [pixiv](https://www.pixiv.net/users/19624123) \| [X](https://x.com/carpsukidayo) \| [Skeb](https://skeb.jp/@carpsukidayo) |
 | negiuma | ねぎうま |  | [pixiv](https://www.pixiv.net/users/98113112)<br>[X](https://x.com/negiumaya) |
 | rum raisin | ラムレーズン |  |  |
 | oku | オク |  |  |
