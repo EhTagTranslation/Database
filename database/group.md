@@ -6183,7 +6183,7 @@ example:
 | jinraiken | 迅雷拳 |  |  |
 | jinrikisha | 人力社 |  |  |
 | jinsei ano denchuu made sakusen | 人生あの電柱まで作戦 |  |  |
-| jinsei tsuukoudome | 人生通行止め |  |  |
+| jinsei tsuukoudome | 人生通行止め |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG04261.html) |
 | jipohou | 時ポ砲 |  |  |
 | jishaku no sunaba | じしゃくのすなば |  |  |
 | jishin kajyou | 地震過剰 |  |  |
