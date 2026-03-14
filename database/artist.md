@@ -15000,6 +15000,7 @@ example:
 | yesman | Yesman |  | [pixiv](https://www.pixiv.net/users/43324532)  \| [FANBOX](https://z47xtay7.fanbox.cc/) \| [X](https://x.com/CvbnYesman) |
 | tefuru | テフル |  | [FANBOX](https://tefr.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/19826232) \| [Skeb](https://skeb.jp/@TRAND68629720) \| [X](https://x.com/TRAND1008) \| [Fantia](https://fantia.jp/fanclubs/441256) |
 | taejaho | TaejaHo |  | [Patreon](https://www.patreon.com/TaejaHo) \| [X](https://x.com/HoTaeja) \| [YouTube](https://www.youtube.com/@Taeja-Ho002/featured) \| [Instagram](https://www.instagram.com/taejaho002) \| [FANBOX](https://taejaho.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/39336642) |
+| aki masanari | 秋全也 |  | [DLsite](https://ci-en.dlsite.com/creator/15164) \| [X](https://x.com/aki_masanari/) \| [pixiv](https://www.pixiv.net/users/319788) \| [bsky.app](https://bsky.app/profile/akimasanari.bsky.social) \| [steam](https://store.steampowered.com/pub/Kurenaibook) |
 
 <!--TEMPLATE:
 |  |  |  |  |
