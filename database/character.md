@@ -8792,6 +8792,7 @@ example:
 | honne nohotoke | 布佛本音 | ![](https://static.wikia.nocookie.net/infinite-stratos/images/9/9a/Honne_Nohotoke.png)<br>所属作品：`infinite stratos`<br>日语：布仏本音 |  |
 | zhu zhuqing | 朱竹清 | 所属作品：`douluo continent` |  |
 | ning rongrong | 宁荣荣 | 所属作品：`douluo continent` |  |
+| bibi dong | 比比东 | 所属作品：`douluo continent` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
