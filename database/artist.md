@@ -2215,7 +2215,7 @@ example:
 | jinsuke | 甚助 |  |  |
 | mushoku santaro | 无色三太郎 | 無色三太郎 |  |
 | tawara hiryuu | 俵绯龙 |  |  |
-| marugoshi | まるごし |  |  |
+| marugoshi | まるごし |  | [FANBOX](https://maru54.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/151892) \| [X](https://x.com/54BG) |
 | missbehaviour | MissBehaviour |  |  |
 | funsexydragonball | Funsexydragonball |  |  |
 | badonion | BadOnion |  |  |
