@@ -12557,7 +12557,7 @@ example:
 | shiba no shippo | しばのしっぽ | 画师`shiba aya`所属同人社团 |  |
 | futsu-no-tapioca-yasan | ふつうのタピオカやさん |  |  |
 | ushinomaruyaki | ウシノマルヤキ |  |  |
-| silver dog | シルバードッグ |  |  |
+| silver dog | シルバードッグ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202061/) |
 | aburanabeshiki | 油锅式 |  |  |
 | gahahahahahaha | がはははははは! |  |  |
 | marshmalloya | ましゅまろや |  |  |
