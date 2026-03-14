@@ -13817,6 +13817,7 @@ example:
 | tahitasou | たひた庄 |  |  |
 | hachiko | ハチ公 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48615.html) |
 | makura cover soft | まくらカバーソフト |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ011928/ana_flg/all) |
+| fujie | フジ江 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79481/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
