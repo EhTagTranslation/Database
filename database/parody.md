@@ -2748,6 +2748,7 @@ example:
 | dracu-riot | 学园与吸血鬼 | 制作社团：柚子社<br>日文：ドラクリオット |  |
 | rock wa lady no tashinami deshite | 摇滚乃是淑女的爱好 | ![](https://static.wikia.nocookie.net/rock-lady/images/7/7a/Rock_wa_Lady_no_Tashinamideshite.jpg)<br>福田宏创作的漫画作品，并有动漫改编。 |  |
 | mane mane nichi nichi | 经理女孩悠悠日常 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/1e/498801_hhzYb.jpg)<br>山本崇一朗创作的漫画。 |  |
+| counter strike | 反恐精英 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
