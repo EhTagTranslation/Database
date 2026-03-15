@@ -15004,6 +15004,7 @@ example:
 | rasetsu dotd | 羅刹dotD |  | [X](https://x.com/ankokurasetsu_d)<br>[pixiv](https://www.pixiv.net/users/2367944) |
 | chinese | 汉语 |  |  |
 | massigura | まっしぐら |  |  |
+| tateishi kureha | 立石くれは |  | [X](https://x.com/KurehaTateishi)<br>[pixiv](https://www.pixiv.net/users/6091251) |
 
 <!--TEMPLATE:
 |  |  |  |  |
