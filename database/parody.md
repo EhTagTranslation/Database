@@ -2749,6 +2749,7 @@ example:
 | rock wa lady no tashinami deshite | 摇滚乃是淑女的爱好 | ![](https://static.wikia.nocookie.net/rock-lady/images/7/7a/Rock_wa_Lady_no_Tashinamideshite.jpg)<br>福田宏创作的漫画作品，并有动漫改编。 |  |
 | mane mane nichi nichi | 经理女孩悠悠日常 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/1e/498801_hhzYb.jpg)<br>山本崇一朗创作的漫画。 |  |
 | counter strike | 反恐精英 |  |  |
+| pleasant goat and big big wolf | 喜羊羊与灰太狼 | ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Official_Pleasant_Goat_and_Big_Big_Wolf_logo.jpg/500px-Official_Pleasant_Goat_and_Big_Big_Wolf_logo.jpg)<br>中国原创动画剧集。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
