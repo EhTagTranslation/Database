@@ -5170,7 +5170,7 @@ example:
 | goro mask | クチナシ館 |  |  |
 | gorori no diy | ゴロリのDIY |  |  |
 | gorotaishi | 五郎太石 |  |  |
-| gos to vi | gos to vi |  |  |
+| gos to vi | gos to vi |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=213045/) |
 | gosousha | 護送車 |  |  |
 | gossipgothic | ごしっぷごしっく |  |  |
 | gosuidou | 午睡堂 |  |  |
