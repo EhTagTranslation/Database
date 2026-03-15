@@ -15003,6 +15003,7 @@ example:
 | aki masanari | 秋全也 |  | [DLsite](https://ci-en.dlsite.com/creator/15164) \| [X](https://x.com/aki_masanari/) \| [pixiv](https://www.pixiv.net/users/319788) \| [bsky.app](https://bsky.app/profile/akimasanari.bsky.social) \| [steam](https://store.steampowered.com/pub/Kurenaibook) |
 | rasetsu dotd | 羅刹dotD |  | [X](https://x.com/ankokurasetsu_d)<br>[pixiv](https://www.pixiv.net/users/2367944) |
 | chinese | 汉语 |  |  |
+| massigura | まっしぐら |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
