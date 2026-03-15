@@ -13819,6 +13819,7 @@ example:
 | makura cover soft | まくらカバーソフト |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ011928/ana_flg/all) |
 | fujie | フジ江 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79481/) |
 | kurenai book | クレナイブック |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03910.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=21978/) |
+| bloom flash | ぶるーむふらっしゅ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01014546.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
