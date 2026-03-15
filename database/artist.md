@@ -14612,7 +14612,7 @@ example:
 | kai jia wei yi lang | 开甲韦一郎 |  | [pixiv](https://www.pixiv.net/users/77044656) |
 | asari shio | あさり潮 |  | [X](https://x.com/asarisplash) |
 | kyouka asuka | 镜花明日香 |  | [X](https://x.com/asatteka_1111) |
-| tsuyu tsukimi | つゆつきみ |  | [X](https://x.com/YamiTsuyuri) |
+| tsuyu tsukimi | つゆ つきみ |  | [X](https://x.com/YamiTsuyuri) |
 | kakuri kairi | 隔離カイリ |  |  |
 | mame paitan | まめぱいたん |  |  |
 | yugure | ゆぐれ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ゆぐれ%22) |
