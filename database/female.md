@@ -570,7 +570,7 @@ example:
 | vacbed | 真空床 | 用于`bdsm`或`bondage`的真空床。 |  |
 | whip | 鞭打 | 用于捆绑或打击动物或人以造成中度疼痛的工具。以这种方式使用的其他物品也用此标签。可能需要`bdsm`标签。 |  |
 | wooden horse | 木马 | 任何具有上三角形形状的装置，受害者跨越其顶部，通常将他们的体重放在生殖器上。需要`bondage`标签。<br>![图](# "https://ehgt.org/19/a0/19a07da4844a8277fd9817e103337beadb7e10f3-1639044-1000-1412-jpg_l.jpg")![图](# "https://ehgt.org/5e/e9/5ee9d707ef90baca39ee2cd7b25083ad692680fb-5145130-2020-2835-jpg_l.jpg") |  |
-| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与`stuck in wall`、寻欢`glory hole`、`shared senses`混淆。 |  |
+| wormhole | 虫洞 | 一个或多个用来连接两个远距离地点的对象。通常表现为可使生殖器通过的一种“移动型寻欢洞”。不应与`stuck in wall`、`glory hole`、`shared senses`混淆。 |  |
 |  | == 液体 == |  |  |
 | oil | 油 | 一个人至少部分地用润滑剂（如身体按摩油）覆盖，以使他的皮肤具有光滑的质感和釉面的外观。不用于其他物质（如`slime`）。 |  |
 | underwater sex | 水下 | 在性期间大部分或完全浸没在液体中。<br>![图](# "https://ehgt.org/20/20/202004856339e4bd4fb9c2da03da2e29c5c078eb-403064-1200-1920-jpg_l.jpg")![图](# "https://ehgt.org/2b/4f/2b4f8f3e0d87088deb38a0996ec83f090cf6cdc1-373282-1500-1250-jpg_l.jpg")![图](# "https://ehgt.org/fa/2a/fa2aef3653d95e7025360a226e8c3dff7a4b74c7-2348460-1920-1080-jpg_l.jpg") |  |
