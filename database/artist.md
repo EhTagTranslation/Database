@@ -750,7 +750,7 @@ example:
 | ameyama denshin | 雨山电信 | 雨山電信 |  |
 | aoyama mayama | 青山まやま |  |  |
 | bitch goigostar | ビッチ☆ゴイゴスター |  | [FANZA](https://book.dmm.co.jp/list/?author=303456) |
-| danbo | ダンボ | 崎森ダン |  |
+| danbo | ダンボ | 崎森ダン | [FANBOX](https://sakimori-dan.fanbox.cc/) \| [X](https://x.com/sakimori_dan/) \| [misskey](https://misskey.io/@dan_sakimori) |
 | dunga | ドゥンガ |  |  |
 | musashi daichi | 武蔵ダイチ |  |  |
 | nukunuku orange | ヌクヌクオレンジ |  |  |
