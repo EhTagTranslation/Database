@@ -13821,6 +13821,7 @@ example:
 | kurenai book | クレナイブック |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG03910.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=21978/) |
 | bloom flash | ぶるーむふらっしゅ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01014546.html) |
 | zenryoku sissou cat | 全力疾走猫 |  |  |
+| dynamic mom | ダイナミックマム |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78317/) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
