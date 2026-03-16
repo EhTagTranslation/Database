@@ -9780,7 +9780,7 @@ example:
 | robo moe kenkyuujo | ロボ萌え研究所 |  |  |
 | roboko teikoku | ろぼこ帝国 |  |  |
 | rocca | ROCCA |  |  |
-| rock clime | ROCK CLIME |  |  |
+| rock clime | ROCK CLIME |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG17027.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203681/) |
 | rock steady | ろっくすてでぃ |  |  |
 | rocket kyoudai | ロケット兄弟 |  |  |
 | rocket nenryou 21 | ロケット燃料★21 |  |  |
