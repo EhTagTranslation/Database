@@ -15005,6 +15005,7 @@ example:
 | chinese | 汉语 |  |  |
 | massigura | まっしぐら |  |  |
 | tateishi kureha | 立石くれは |  | [X](https://x.com/KurehaTateishi)<br>[pixiv](https://www.pixiv.net/users/6091251) |
+| anetani kiki | 義姉峪キキ | あねたに きき | [FANBOX](https://anetanikiki.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/22682) \| [DLsite](https://ci-en.dlsite.com/creator/3501) \| [pixiv](https://www.pixiv.net/users/9665132) \| [X](https://x.com/anetani_kiki) |
 
 <!--TEMPLATE:
 |  |  |  |  |
