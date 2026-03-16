@@ -9043,7 +9043,7 @@ example:
 | ono misao | 小野ミサオ |  |  |
 | ono nui | 小野ぬい |  |  |
 | onoda sachi | おのださち |  |  |
-| onodera | おのでら |  |  |
+| onodera | おのでら |  | [FANBOX](https://onodera.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/2616784) \| [X](https://x.com/R18onodera) \| [pawoo](https://pawoo.net/@onoderaX) |
 | onodera kazumi | 小野寺和海 |  |  |
 | onoderasan | おのでらさん |  |  |
 | onogawa kiwi | 小野川キウイ |  |  |
