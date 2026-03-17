@@ -13417,7 +13417,7 @@ example:
 | shouten tenshi | 昇天天使 |  |  |
 | kasshoku no shiori | 褐色のしおり |  |  |
 | duelroid | デュエロイド |  |  |
-| tamaya gekijou | 玉屋劇場 |  |  |
+| tamaya gekijou | 玉屋劇場 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=203421/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61550.html) |
 | natsu no ouchi | なつのおうち |  |  |
 | taroimobatake | たろいも畑 |  |  |
 | hikagemon | ひかげもん |  |  |
