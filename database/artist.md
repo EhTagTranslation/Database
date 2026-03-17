@@ -7495,7 +7495,7 @@ example:
 | macaroni | まかろに |  |  |
 | maccha | 抹茶 |  |  |
 | maccha chamomo | 抹茶ちゃもも |  |  |
-| maccha neji | 抹茶ねじ |  |  |
+| maccha neji | 抹茶ねじ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22抹茶ねじ%22/ana_flg/all) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=ea0e2d2c-64d3-11f0-ba33-0242ac160002/section=mens/) |
 | maccha vanilla | 抹茶バニラ |  |  |
 | macchaume | 抹茶梅 |  |  |
 | macchi | まっち |  |  |
