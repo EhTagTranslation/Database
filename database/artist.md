@@ -14350,7 +14350,7 @@ example:
 | sukoyasu | スコヤス |  |  |
 | surio | すりお |  |  |
 | suzume inui | 鈴眼依縫 |  |  |
-| tamaya cinema | 玉屋キネマ |  |  |
+| tamaya cinema | 玉屋キネマ |  | [X](https://x.com/tamayacinema) \| [pixiv](https://www.pixiv.net/users/68543673) \| [FANBOX](https://tamayacinema.fanbox.cc/) |
 | tange natsu | 丹家なつ |  |  |
 | tansan tsuyo | 炭酸つよ |  |  |
 | taroimo tarou | たろいも太郎 |  |  |
