@@ -8793,6 +8793,7 @@ example:
 | zhu zhuqing | 朱竹清 | 所属作品：`douluo continent` |  |
 | ning rongrong | 宁荣荣 | 所属作品：`douluo continent` |  |
 | bibi dong | 比比东 | 所属作品：`douluo continent` |  |
+| shizuku murasaki | 小滴·紫 | ![](https://ehgt.org/w/02/206/04275-87ux1hjh.webp)<br>出自作品：`p:hunter x hunter`<br><br>小滴·紫（日语：シズク=ムラサキ）港译小霞，《猎人》中的角色。 | [Fandom](https://hunterxhunter.fandom.com/zh/wiki/小滴?variant=zh-cn) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
