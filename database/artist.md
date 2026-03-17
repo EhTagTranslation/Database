@@ -1133,7 +1133,7 @@ example:
 | hori hiroaki | 堀博昭 |  |  |
 | yuugiri | 夕雾 |  |  |
 | eba | EBA |  |  |
-| kutibue | くちぶえ | 口VE | [pixiv](https://www.pixiv.net/users/10405291) \| [X](https://x.com/KutibueVe) |
+| kutibue | 口VE | くちぶえ | [pixiv](https://www.pixiv.net/users/10405291) \| [X](https://x.com/KutibueVe) |
 | aoi shou | 葵抄 |  |  |
 | myougi kulaganosuke | 妙義倉賀ノ助 |  |  |
 | karatakewari | からたけわり |  |  |
