@@ -7467,7 +7467,7 @@ example:
 | shiiko sugai | 诗子菅井 |  |  |
 | cecilia irene | 塞西莉亚·艾琳 |  |  |
 | ayame yomogawa | 四方川菖蒲 |  |  |
-| yuzu kurosaki | 黑崎游子 |  |  |
+| yuzu kurosaki | 黑崎游子 | ![](https://ehgt.org/w/00/004/34785-5zfspxp9.webp)<br>出自作品：`p:bleach` | [百度百科](https://baike.baidu.com/item/黑崎游子/626551) |
 | azusa aizawa | 亚梓莎·埃札瓦 | ![](https://ehgt.org/w/01/926/50734-6kj13ot9.webp)<br>高原魔女亚梓莎<br>又名：相泽梓<br>日文名：アズサ アイザワ<br>所属作品：`slime taoshite 300-nen shiranai uchi ni level max ni nattemashita` | [萌娘百科](https://zh.moegirl.org.cn/相泽梓) |
 | gwynn | 沐净 | ![](https://ehgt.org/w/02/172/77851-lj039aod.webp)<br>所属作品：`pokemon`<br><br>沐净（日文︰ムク，英文︰Gwynn）是《传说 Z-A》中的登场角色，她是正义社社长皙白的妹妹，同时也担任皙白的助理。另外她也是来电伍的一员兼卡娜莉的狂热厨，且跟卡娜莉关系非常要好。 | [52poke](https://wiki.52poke.com/zh-hant/沐淨) |
 | sharkry | 夏克里 | ![](https://patchwiki.biligame.com/images/gf2/6/69/ly37tth0wlp6oerbe0iflen699yo6ay.png)<br>所属作品：`girls frontline` |  |
