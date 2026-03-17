@@ -5778,7 +5778,7 @@ example:
 | suigetsu hozuki | 鬼灯水月 |  |  |
 | kaguya ootsutsuki | 大筒木辉夜 |  |  |
 | konohamaru sarutobi | 猿飞木叶丸 | ![](https://thumbsnap.com/i/Rj2BLfUJ.jpg)<br>出自作品：`p:naruto`<br><br>猿飞木叶丸是岸本齐史所创作的漫画《火影忍者》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/猿飞木叶丸) |
-| sumire kakei | 笕堇 |  |  |
+| sumire kakei | 笕堇 | ![](https://ehgt.org/w/02/066/12944-82jn0xys.webp)<br>出自作品：`p:boruto`<br><br>笕堇（日语：かけい スミレ）是漫画《BORUTO》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/笕堇) |
 | iruka umino | 海野伊鲁卡 |  |  |
 | kabuto yakushi | 药师兜 |  |  |
 | might guy | 迈特凯 |  |  |
