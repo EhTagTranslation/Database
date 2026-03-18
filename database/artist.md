@@ -15013,6 +15013,7 @@ example:
 | karigura | カリぐら |  |  |
 | hotate innovation studio | ほたてイノベーションスタジオ |  |  |
 | fusatsugu | ふさつぐ |  |  |
+| siroi sio | 白麹シヲ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
