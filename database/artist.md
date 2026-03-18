@@ -15011,6 +15011,7 @@ example:
 | at-sa-kon13 | AT-SA-KON |  | [pixiv](https://www.pixiv.net/users/10393617) \| [ganknow](https://ganknow.com/atsakon?tab=shop) |
 | shiro maru | 白丸 |  | [DLsite](https://ci-en.dlsite.com/creator/14261) \| [pixiv](https://www.pixiv.net/users/5632418) \| [X](https://x.com/shiro_maru) \| [lit.link](https://lit.link/en/shiromul) |
 | karigura | カリぐら |  |  |
+| hotate innovation studio | ほたてイノベーションスタジオ |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
