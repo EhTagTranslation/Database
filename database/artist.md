@@ -9371,7 +9371,7 @@ example:
 | ra-men | らーめん |  |  |
 | rabbi | らび |  |  |
 | rabbit | Rabbit |  |  |
-| racer | racer |  |  |
+| racer | れーさー |  |  |
 | racket | らけっと |  |  |
 | radio | ラジオ |  |  |
 | radiohead | ラヂヲヘッド |  |  |
