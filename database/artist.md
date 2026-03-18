@@ -15015,6 +15015,7 @@ example:
 | fusatsugu | ふさつぐ |  |  |
 | siroi sio | 白麹シヲ |  |  |
 | kouheki | 紅碧 |  |  |
+| res | res |  | [FANBOX](https://zireta2056.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/71297438) \| [X](https://x.com/res96547167) \| [Skeb](https://skeb.jp/@res96547167) |
 
 <!--TEMPLATE:
 |  |  |  |  |
