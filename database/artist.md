@@ -10608,7 +10608,7 @@ example:
 | takeashiro | たけあしろ |  |  |
 | takeda | たけだ |  |  |
 | takeda sora | 武田空 |  |  |
-| takedake | タケダケ |  |  |
+| takedake | 信州タケダケ |  |  |
 | takei tsukasa | タケイツカサ | 水野猛之 |  |
 | takemaru | タケマル |  |  |
 | takemitz | たけみつ |  |  |
