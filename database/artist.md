@@ -15002,7 +15002,6 @@ example:
 | taejaho | TaejaHo |  | [Patreon](https://www.patreon.com/TaejaHo) \| [X](https://x.com/HoTaeja) \| [YouTube](https://www.youtube.com/@Taeja-Ho002/featured) \| [Instagram](https://www.instagram.com/taejaho002) \| [FANBOX](https://taejaho.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/39336642) |
 | aki masanari | 秋全也 |  | [DLsite](https://ci-en.dlsite.com/creator/15164) \| [X](https://x.com/aki_masanari/) \| [pixiv](https://www.pixiv.net/users/319788) \| [bsky.app](https://bsky.app/profile/akimasanari.bsky.social) \| [steam](https://store.steampowered.com/pub/Kurenaibook) |
 | rasetsu dotd | 羅刹dotD |  | [X](https://x.com/ankokurasetsu_d)<br>[pixiv](https://www.pixiv.net/users/2367944) |
-| chinese | 汉语 |  |  |
 | massigura | まっしぐら |  |  |
 | tateishi kureha | 立石くれは |  | [X](https://x.com/KurehaTateishi)<br>[pixiv](https://www.pixiv.net/users/6091251) |
 | anetani kiki | 義姉峪キキ | あねたに きき | [FANBOX](https://anetanikiki.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/22682) \| [DLsite](https://ci-en.dlsite.com/creator/3501) \| [pixiv](https://www.pixiv.net/users/9665132) \| [X](https://x.com/anetani_kiki) |
