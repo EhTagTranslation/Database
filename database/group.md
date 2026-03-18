@@ -13568,7 +13568,7 @@ example:
 | oshinobu no yakata | おしのぶの館 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG55660.html) |
 | oroshi ponzu | おろしぽんず |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01002937.html) |
 | mikeneko | みけねこ |  |  |
-| baa-chan-chi | ばぁちゃん家 |  |  |
+| baa-chan-chi | ばぁちゃん家 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78344/) \| [Fantia](https://fantia.jp/fanclubs/5905) |
 | toumeiryuu no margaret | 透明龍のマーガレット |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG40195.html) |
 | planet nine | Planet Nine |  | [FANBOX](https://planetnine-nonna.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/89777985) |
 | yuuhimari | ゆうひまり |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01052531.html) |
