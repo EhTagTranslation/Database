@@ -15017,6 +15017,7 @@ example:
 | kouheki | 紅碧 |  |  |
 | res | res |  | [FANBOX](https://zireta2056.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/71297438) \| [X](https://x.com/res96547167) \| [Skeb](https://skeb.jp/@res96547167) |
 | junn | JUNN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22JUNN%22/ana_flg/all) |
+| kisaragi otu | 如月02 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
