@@ -15014,6 +15014,7 @@ example:
 | hotate innovation studio | ほたてイノベーションスタジオ |  |  |
 | fusatsugu | ふさつぐ |  |  |
 | siroi sio | 白麹シヲ |  |  |
+| kouheki | 紅碧 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
