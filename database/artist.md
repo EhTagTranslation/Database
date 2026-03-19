@@ -13742,7 +13742,7 @@ example:
 | konno | 紺野 |  |  |
 | higa yukari | 緋賀ゆかり |  |  |
 | kirisawa saki | 桐沢咲 | 桐沢さき |  |
-| lao gong | 老攻 |  |  |
+| lao gong | 老攻 |  | [pixiv](https://www.pixiv.net/users/44535714) |
 | nanashi no hitsuji | 名無しの羊 |  |  |
 | aster crowley | Aster Crowley |  |  |
 | kagura wsk | かぐーら |  |  |
