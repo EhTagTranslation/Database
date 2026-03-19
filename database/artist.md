@@ -15019,6 +15019,7 @@ example:
 | junn | JUNN |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22JUNN%22/ana_flg/all) |
 | kisaragi otu | 如月02 |  |  |
 | ranmu | 蘭夢 |  |  |
+| yamato akira | 八的暁 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
