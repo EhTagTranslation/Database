@@ -8780,7 +8780,7 @@ example:
 | nyuuseihin | 乳性貧 |  |  |
 | o-penguin | 俺企鵝 |  |  |
 | o.riginal brand | O.RIginal brand |  |  |
-| o157 | O157 |  |  |
+| o157 | O157 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG12895.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27834/) |
 | oasis plus | Oasis+ |  |  |
 | oba-q honpo qt | OBA-Q HONPO QT |  |  |
 | obake candle | おばけキャンドル |  |  |
