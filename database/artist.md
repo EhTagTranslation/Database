@@ -4137,7 +4137,7 @@ example:
 | anzu hime | あんず姫 |  |  |
 | ao | 蒼 |  |  |
 | ao banana | 青ばなな |  | [pixiv](https://www.pixiv.net/users/1059758) |
-| ao madousi | 蒼惑う子 |  |  |
+| ao madousi | 蒼惑う子 |  | [FANBOX](https://aomadousi.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/2080799) \| [Skeb](https://skeb.jp/@ao_madousi) \| [Pawoo](https://pawoo.net/@ao_madousi) \| [X](https://x.com/ao_madousi) |
 | aogen genda | 青木ゲンダ |  |  |
 | aohashi ame | 青橋雨 |  |  |
 | aohashi yutaka | 青橋由高 |  |  |
