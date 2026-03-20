@@ -8869,7 +8869,7 @@ example:
 | nukoko | ぬここ |  |  |
 | nukui lususu | ぬくい味汐 |  | [pixiv](https://www.pixiv.net/users/250858) [X](https://x.com/lss_rt) |
 | numada | 沼田 |  |  |
-| numata chihiro | ぬまたちひろ |  |  |
+| numata chihiro | ぬまたちひろ |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22ぬまたちひろ%22/ana_flg/all) |
 | number 55 | number\_55 |  |  |
 | numeko | Numeko |  |  |
 | numeri | ぬめり |  |  |
