@@ -15020,6 +15020,7 @@ example:
 | kisaragi otu | 如月02 |  |  |
 | ranmu | 蘭夢 |  |  |
 | yamato akira | 八的暁 |  |  |
+| harufuei | はるふえい |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
