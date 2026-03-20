@@ -15022,6 +15022,7 @@ example:
 | yamato akira | 八的暁 |  |  |
 | harufuei | はるふえい |  |  |
 | wjs07 | Wjs07 | 画师 | [X](https://x.com/wjs07_),[FANBOX](https://wjs07.fanbox.cc/) |
+| kotoko | 古都子 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22古都子%22/ana_flg/all) |
 
 <!--TEMPLATE:
 |  |  |  |  |
