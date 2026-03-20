@@ -12116,7 +12116,7 @@ example:
 | orukoa | orukoa |  |  |
 | karakuri musha | からくり武者 |  | [pixiv](https://www.pixiv.net/users/28253795) |
 | neisan | ねいさん |  | [pixiv](https://www.pixiv.net/users/52306507) |
-| takekawa sin | 武川慎 |  |  |
+| takekawa sin | 武川慎 |  | [pixiv](https://www.pixiv.net/users/201634) |
 | galbany denryuu | ガルバニー電流 |  | [pixiv](https://www.pixiv.net/users/201791) |
 | utsunomiya ukatsu | 郁之宫迂阔 | ![X](https://pbs.twimg.com/profile_images/1387611246682284037/Rtf1cdug_400x400.jpg)<br><br>**作者推特头像**<br><br>![works](# "https://pbs.twimg.com/media/FObPGAxVIAAyZql?format=jpg&name=large")<br><br>单行本 | [X](https://x.com/uka_uka_ukatu) [pixiv](https://www.pixiv.net/users/59232429) |
 | suito | すいと |  | [X](https://x.com/tiguhagu_metro) [pixiv](https://www.pixiv.net/users/4910367) |
