@@ -12280,7 +12280,7 @@ example:
 | yurari biyori | ゆらり日和 |  |  |
 | yurei yashiki | ゆーれーやしき |  |  |
 | yureika | ゆれいか |  |  |
-| yurerutikuwabu | ゆれるちくわぶ |  |  |
+| yurerutikuwabu | ゆれるちくわぶ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44580.html) |
 | yuri equal 18l | 百合=18L |  |  |
 | yuririn no moto | ゆりりんの素 |  |  |
 | yurufuwa megane | ゆるふわ☆めがね |  |  |
