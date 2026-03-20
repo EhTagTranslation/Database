@@ -13826,6 +13826,7 @@ example:
 | calvados okawari | カルヴァドスおかわり |  |  |
 | umi made drive | 海までドライブ |  |  |
 | nyakku hole | にゃっくほーる |  |  |
+| banana milk | ばなな★みるく |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG13407.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
