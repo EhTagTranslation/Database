@@ -15021,6 +15021,7 @@ example:
 | ranmu | 蘭夢 |  |  |
 | yamato akira | 八的暁 |  |  |
 | harufuei | はるふえい |  |  |
+| wjs07 | Wjs07 | 画师 | [X](https://x.com/wjs07_),[FANBOX](https://wjs07.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
