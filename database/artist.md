@@ -15024,6 +15024,7 @@ example:
 | wjs07 | Wjs07 | 画师 | [X](https://x.com/wjs07_),[FANBOX](https://wjs07.fanbox.cc/) |
 | kotoko | 古都子 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22古都子%22/ana_flg/all) |
 | tsukimori masato | 月森雅十 |  |  |
+| ebisujima misato | 戎島実里 |  |  |
 
 <!--TEMPLATE:
 |  |  |  |  |
