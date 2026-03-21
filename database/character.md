@@ -6239,7 +6239,7 @@ example:
 | chinatsu kuramoto | 仓本千夏 | 所属作品: `p:flying witch`<br>`c:makoto kowata`的表妹，`c:kei kuramoto`的妹妹。好奇心旺盛又活泼的小学生。 | [萌娘百科](https://zh.moegirl.org.cn/仓本千夏) [Fandom](https://flying-witch.fandom.com/wiki/Chinatsu_Kuramoto) |
 | kei kuramoto | 仓本圭 | 所属作品: `p:flying witch` |  |
 | takeda shingen | 武田信玄（武田晴信） |  |  |
-| serie | 赛丽艾 | 所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
+| serie | 赛丽艾 | ![](https://ehgt.org/w/02/273/74175-01n74pch.webp)<br>所属作品: `p:sousou no frieren` | [萌娘百科](https://zh.moegirl.org.cn/赛丽艾) |
 | sousuke aizen | 蓝染惣右介 | 所属作品: `p:bleach` | [萌娘百科](https://zh.moegirl.org.cn/蓝染惣右介) |
 | francesca lucchini | 弗兰西斯卡·鲁奇尼 | 所属作品: `p:brave witches` | [萌娘百科](https://zh.moegirl.org.cn/弗兰西斯卡·鲁奇尼) [Fandom](https://worldwitches.fandom.com/wiki/Francesca_Lucchini) |
 | rover | 漂泊者 | ![](https://pic.cangku.moe/images/2025/09/04/1yBRB.th.webp)<br>所属作品: `p:wuthering waves`<br>身世不明的共鸣者，拥有吸收一切声音的力量。<br>为了寻回记忆而踏上旅途。 | [萌娘百科](https://zh.moegirl.org.cn/漂泊者%28鸣潮%29) |
