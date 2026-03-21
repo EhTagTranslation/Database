@@ -15025,6 +15025,7 @@ example:
 | kotoko | 古都子 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22古都子%22/ana_flg/all) |
 | tsukimori masato | 月森雅十 |  |  |
 | ebisujima misato | 戎島実里 |  |  |
+| 9x2 | 9x2 |  | [pixiv](https://www.pixiv.net/users/72687913) \| [Skeb](https://skeb.jp/@9x2no18) \| [X](https://x.com/2049_9x2) \| [FANBOX](https://zrcy5345.fanbox.cc/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
