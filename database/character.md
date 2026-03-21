@@ -3156,7 +3156,7 @@ example:
 | shinobu sarutobi | 猿飞忍 |  |  |
 | keine kanzaki | 神崎桂音 |  |  |
 | aoi ichijou | 一条葵 |  |  |
-| lyrule | 莉露露 |  |  |
+| lyrule | 莉露露 | ![](https://ehgt.org/w/01/971/99202-9aitvcsf.webp)<br>所属作品：`choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu` |  |
 | naofumi iwatani | 岩谷尚文（盾之勇者） |  |  |
 | melty q melromarc | 梅蒂·Q·梅洛马格 |  |  |
 | mirellia q melromarc | 米蕾莉亚·Q·梅洛马格 | ![](https://ehgt.org/w/02/105/90663-htnwr4r2.webp)<br>所属作品：`tate no yuusha no nariagari` |  |
