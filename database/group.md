@@ -13813,7 +13813,7 @@ example:
 | hagakure | 葉が紅 |  |  |
 | tsf cafe | TSF CAFE |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01021478.html) |
 | grimoire | グリモア |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26645) |
-| karakuri korokke | 唐栗コロッケ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65288.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=b340f8cb-1a54-49ee-affd-2c86ec532948/section=mens/) |
+| karakuri korokke | 唐栗コロッケ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG65288.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202410/) |
 | tahitasou | たひた庄 |  |  |
 | hachiko | ハチ公 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG48615.html) |
 | makura cover soft | まくらカバーソフト |  | [DLsite](https://www.dlsite.com/books/author/=/author_id/AJ011928/ana_flg/all) |
