@@ -8801,6 +8801,7 @@ example:
 | ara | 艾拉 |  |  |
 | ara haan | 韩艾拉 | ![](https://elwiki.net/wiki/images/thumb/4/44/Portrait_-_Ara.png/600px-Portrait_-_Ara.png)<br>所属作品：`elsword`<br>或译艾拉·韩（韩语：아라한） |  |
 | nagahide niwa | 丹羽长秀 | ![](https://ehgt.org/w/02/000/12580-kzhtasee.webp)<br>所属作品：`oda nobuna no yabou` |  |
+| nobuna oda | 织田信奈 | ![](https://ehgt.org/w/02/165/58310-douxenfh.webp)<br>所属作品：`oda nobuna no yabou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
