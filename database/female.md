@@ -618,6 +618,7 @@ example:
 | harness | 挽具 | 由佩戴者身体周围的金属环固定在一起的皮带组成的穿着。不应与`shibari`或`corset`混淆。<br>![图](# "https://ehgt.org/6f/9b/6f9b9c1d6b92e7d1ed3f062beb4a7d7561faa0cb-1493631-1417-2002-jpg_l.jpg")![图](# "https://ehgt.org/e0/56/e056cb30ac2052a6c2b5ed2ad651cd372d78e936-740761-1358-1920-jpg_l.jpg")![图](# "https://ehgt.org/d6/75/d67567c5aeb1d505156a0259a9eb16f66111f451-695763-1358-1920-jpg_l.jpg")![图](# "https://ehgt.org/55/19/551916d433cb4fb1df4a6820756cbe148ca8f2d3-933618-1200-1722-jpg_l.jpg") |  |
 | shibari | 捆绑 | 使用绳索围绕躯干来创建指定的图案的手法。需要`bondage`标签。<br>![图](# "https://ehgt.org/5d/9f/5d9f2a08dfaff44b43d10d6b785f18b52d66847c-701282-765-1080-jpg_l.jpg")![图](# "https://ehgt.org/68/27/6827c251af9a4d9bf8a9d9fb1f7b23074cea7d48-1279970-1200-1600-jpg_l.jpg")![图](# "https://ehgt.org/0f/72/0f723c0171e33ec32aef68d82c97ade81c8d0bed-819030-1200-1000-jpg_l.jpg") |  |
 | stuck in wall | 卡在墙上 | 有人卡在墙上，无法动弹，生殖器与乳房常常暴露在外。需要`bondage`标签。不应与寻欢`glory hole`或`wormhole`混淆。 |  |
+| suspended | 悬空 | 通过上方的连接物被吊起悬空，不触地而且不直接靠墙。需要`bondage`标签。不要与`hanging`、`fanny packing`或`stuck in wall`混淆。当个体悬挂于垂直结构物（如墙、柱等竖直物体）上，或仅由除触手外的有生命实体悬吊时，不得使用本标签。<br>![](https://ehgt.org/w/01/814/68085-v61x101m.webp) ![](https://ehgt.org/w/02/207/54452-ce6cij7k.webp) |  |
 |  | === 强迫 > 暴力 === |  |  |
 | abortion | 堕胎 | 任何杀害未出生的孩子的视觉描述或暗示。包括未遂行为，但不包括对孩子没有明显伤害的失败尝试。 |  |
 | cannibalism | 食人 | 人型生物烹饪或食用其他人形生物。不应与`vore`混淆。 |  |
