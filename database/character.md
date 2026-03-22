@@ -8808,6 +8808,7 @@ example:
 | toshiie maeda | 前田犬千代 | ![](https://lain.bgm.tv/r/400/pic/crt/l/63/73/16534_crt_2oZ7s.jpg)<br>所属作品：`oda nobuna no yabou`<br>别译：前田利家 |  |
 | goemon hachisuka | 蜂须贺五右卫门 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cc/0b/16537_crt_dOGGG.jpg)<br>所属作品：`oda nobuna no yabou`<br>日语：蜂須賀五右衛門 |  |
 | katsuie shibata | 柴田胜家 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/7/77/170141.jpg)<br>所属作品：`oda nobuna no yabou` |  |
+| sonia blanche | 桑妮雅·布朗谢 | ![](https://static.wikia.nocookie.net/shining/images/c/ca/SR_Sonia3.png)<br>所属作品：`shining resonance`<br>日文名：ソニア・ブランシュ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
