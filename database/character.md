@@ -4465,7 +4465,7 @@ example:
 | fujisaki yua | 藤崎由爱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Fujisaki_YUA_Original_Design.png) | [萌娘百科](https://zh.moegirl.org.cn/藤崎由爱) [Fandom](https://virtualyoutuber.fandom.com/wiki/Fujisaki_Yua) [Fandom](https://virtualyoutuber.fandom.com/zh-tw/wiki/藤崎由愛) |
 | dante | 但丁 | 卡普空旗下电子游戏鬼泣系列主角 |  |
 | vergil | 维吉尔 | 卡普空旗下电子游戏鬼泣系列角色 |  |
-| hanbei takenaka | 竹中半兵卫 |  |  |
+| hanbei takenaka | 竹中半兵卫 | ![](https://ehgt.org/w/00/298/31034-g3fcft5h.webp)<br>所属作品：`oda nobuna no yabou` |  |
 | kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
 | sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
 | mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br>圣三一综合学园所属，正义实现委员会的耿直少女。<br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png)<br>![](https://patchwiki.biligame.com/images/ba/e/ea/bzr9fwrokm0rd7s6pwjm3xkvguezlys.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Mashiro) |
