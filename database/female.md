@@ -113,6 +113,7 @@ example:
 | monster girl | 魔物娘 | `monster`的女性版本。 |  |
 | moth girl | 蛾娘 | 具有蛾类特征的女性类人生物，包括羽毛状触角。常见特征还包括颈部或身体其他部位的毛发和深色巩膜。需要`insect girl`标签。 |  |
 | mouse girl | 鼠女孩 | 特征是圆形的鼠耳朵和类似啮齿动物的尾巴。一般喜欢奶酪。 |  |
+| mushroom girl | 蘑菇女孩 | 带有蘑菇特征（如菌盖）的女性，穿着蘑菇形套装也算。很可能是`f:monster girl`。不应与`plant girl`混淆。 |  |
 | necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，她们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon girl`混淆。<br>![图](https://ehgt.org/aa/e3/aae3feaae7d23401fe6ee8460dc7f9f0246180b5-976591-1500-1350-jpg_l.jpg)![图](# "https://ehgt.org/61/13/61139c7ed7a0602b8ed09fcec996fb94e0bd37d5-313610-1097-1600-jpg_l.jpg")![图](# "https://ehgt.org/4e/8f/4e8fc21392f086865ff5d8fe6903401596f7a44b-10320178-2400-3384-jpg_l.jpg") |  |
 | orc | 半兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与`pig man`或`pig girl`混淆。 |  |

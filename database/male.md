@@ -111,6 +111,7 @@ example:
 | monster | 怪物 | 任何不是人类、`robot`、`demon`、动物或`furry`的角色。 |  |
 | moth boy | 蛾男 | `moth girl`的男性版本。需要`insect boy`标签。 |  |
 | mouse boy | 鼠男孩 | `mouse girl`的男性版本。 |  |
+| mushroom boy | 蘑菇男 | `f:mushroom girl`的男性版本。 |  |
 | necrophilia | 奸尸 | 涉及尸体的性行为。不包括`zombie`等活死人。需要`corpse`标签。 |  |
 | oni | 鬼 | 人形生物，他们的头上有1-2个角，并可能长有尖尖的耳朵。没有翅膀或尾巴。不应与`demon`混淆。<br>![图](# "https://ehgt.org/14/ca/14cac40cd3e34a9c2c9f3c6b2322f91bdaebeb1d-239211-700-996-jpg_l.jpg") |  |
 | orc | 半兽人 | 幻想的生物，与人一样高或比人高一点。 通常有倾斜的额头，突出的下巴，突出的牙齿和粗糙的头发。不应与`pig man`或`pig girl`混淆。 |  |
