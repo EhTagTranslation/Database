@@ -8813,6 +8813,7 @@ example:
 | jodi | 乔迪（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/4/41/Jodi.png)<br>所属作品：`stardew valley` |  |
 | leah | 莉亚（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/e/e6/Leah.png)<br>所属作品：`stardew valley` |  |
 | emily | 艾米丽 | ![](https://static.wikia.nocookie.net/stardewvalley/images/2/28/Emily.png)<br>所属作品：`stardew valley` |  |
+| abigail | 阿比盖尔（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/8/88/Abigail.png)<br>所属作品：`stardew valley` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
