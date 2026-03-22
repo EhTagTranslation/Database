@@ -8816,6 +8816,7 @@ example:
 | abigail | 阿比盖尔（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/8/88/Abigail.png)<br>所属作品：`stardew valley` |  |
 | maru | 玛鲁（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/f/f8/Maru.png)<br>所属作品：`stardew valley` |  |
 | haley | 海莉（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/1/1b/Haley.png)<br>所属作品：`stardew valley` |  |
+| jas | 贾斯（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/5/55/Jas.png)<br>所属作品：`stardew valley` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
