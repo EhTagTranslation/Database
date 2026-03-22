@@ -8803,6 +8803,7 @@ example:
 | nagahide niwa | 丹羽长秀 | ![](https://ehgt.org/w/02/000/12580-kzhtasee.webp)<br>所属作品：`oda nobuna no yabou` |  |
 | nobuna oda | 织田信奈 | ![](https://ehgt.org/w/02/165/58310-douxenfh.webp)<br>所属作品：`oda nobuna no yabou` |  |
 | mitsuhide akechi | 明智光秀 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/9/9d/77d258418b0277209dafbd5e8c401dd6.jpg)<br>所属作品：`oda nobuna no yabou` |  |
+| shibata katsuie | 柴田胜家 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/7/77/170141.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
