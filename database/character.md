@@ -8805,6 +8805,7 @@ example:
 | mitsuhide akechi | 明智光秀 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/9/9d/77d258418b0277209dafbd5e8c401dd6.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 | shibata katsuie | 柴田胜家 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/7/77/170141.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 | yoshiharu sagara | 相良良晴 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/4/4a/170117.jpg)<br>所属作品：`oda nobuna no yabou` |  |
+| toshiie maeda | 前田犬千代 | ![](https://lain.bgm.tv/r/400/pic/crt/l/63/73/16534_crt_2oZ7s.jpg)<br>所属作品：`oda nobuna no yabou`<br>别译：前田利家 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
