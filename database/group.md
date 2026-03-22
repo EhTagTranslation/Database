@@ -1203,7 +1203,7 @@ example:
 | sweet milk shake | すいーとみるくしぇいく |  |  |
 | jabarand | ジャバランド |  |  |
 | kuromutu | くろむつ |  |  |
-| hoyoyodou | ほよよ堂 |  |  |
+| hoyoyodou | ほよよ堂 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=24444/) |
 | wlho | WLHO |  |  |
 | mamiretei | まみれ亭 |  |  |
 | osouzaiya-san | お総菜屋さん |  |  |
