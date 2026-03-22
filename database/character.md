@@ -8797,6 +8797,7 @@ example:
 | karin kurosaki | 黑崎真咲 | ![](https://ehgt.org/w/00/004/34785-5zfspxp9.webp)<br>出自作品：`p:bleach`<br><br>黑崎夏梨（日語：黒崎 夏梨／くろさき かりん Kurosaki Karin）是日本漫畫《BLEACH》中的角色。她是主角黑崎一護的妹妹，與黑崎遊子是雙胞胎姐妹。 | [萌娘百科](https://zh.moegirl.org.cn/黑崎真咲) |
 | bokoblin | 波克布林 | 出自作品：`p:the legend of zelda`<br><br>波克布林（Bokoblin，日语：ボコブリン）是任天堂《塞尔达传说》系列中一种常见的敌对种族。它们通常被描绘为类似地精的小型人形生物。 | [萌娘百科](https://zh.moegirl.org.cn/波克布林) |
 | gu yuena | 古月娜 | ![](https://ehgt.org/w/02/259/24497-aftbji32.webp)<br>所属作品：`douluo continent` |  |
+| azuchi momo | 安土桃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/53/Azuchi_Momo_Portrait.png) |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
