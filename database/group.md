@@ -12521,7 +12521,7 @@ example:
 | pham | PHAM! |  | [http://www.blue-ruby.com/pham/top.html](http://www.blue-ruby.com/pham/top.html) |
 | henry plaza | 半里プラザー |  |  |
 | shirokuroino | 白黒いの |  |  |
-| riku no kotoutei | 陆の孤岛亭 |  |  |
+| riku no kotoutei | 陆の孤岛亭 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78670/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG62094.html) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=26117) \| [toranoana](https://ec.toranoana.jp/tora_r/ec/cot/circle/2UPAD46P887Md46Pd687/all/) |
 | kuniku no saku | 狗肉の策 |  |  |
 | taipeijin | 台北人 |  |  |
 | shinya koujou | 深夜工場 |  |  |
