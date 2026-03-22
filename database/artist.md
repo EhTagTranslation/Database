@@ -9973,7 +9973,7 @@ example:
 | sharaku seiya | 写裸苦聖也 |  |  |
 | shark yaminabe | シャーク闇鍋 |  |  |
 | sharpffffff | sharpFFFFFF |  |  |
-| shayo | しゃよー |  |  |
+| shayo | しゃよー |  | [pixiv](https://www.pixiv.net/users/16659035) \| [Pawoo](https://pawoo.net/@shayo510) \| [X](https://x.com/shayo510) \| |
 | shen yan | 哂言 |  | [pixiv](https://www.pixiv.net/users/983572) |
 | shena excel | 椎名エクセル |  |  |
 | shian | しあん |  | [pixiv](https://www.pixiv.net/users/16732156) |
