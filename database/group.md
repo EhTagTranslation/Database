@@ -13830,6 +13830,7 @@ example:
 | tsukuyomi | ツクヨミ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=205081/) |
 | haniwa teikoku | はにわ帝国 |  |  |
 | nekoto | 猫兎 |  |  |
+| ue ue shita shita | 上上下下 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
