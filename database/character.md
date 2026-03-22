@@ -8807,6 +8807,7 @@ example:
 | yoshiharu sagara | 相良良晴 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/4/4a/170117.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 | toshiie maeda | 前田犬千代 | ![](https://lain.bgm.tv/r/400/pic/crt/l/63/73/16534_crt_2oZ7s.jpg)<br>所属作品：`oda nobuna no yabou`<br>别译：前田利家 |  |
 | goemon hachisuka | 蜂须贺五右卫门 | ![](https://lain.bgm.tv/r/400/pic/crt/l/cc/0b/16537_crt_dOGGG.jpg)<br>所属作品：`oda nobuna no yabou`<br>日语：蜂須賀五右衛門 |  |
+| katsuie shibata | 柴田胜家 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/7/77/170141.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
