@@ -2750,6 +2750,7 @@ example:
 | mane mane nichi nichi | 经理女孩悠悠日常 | ![](https://lain.bgm.tv/r/400/pic/cover/l/b7/1e/498801_hhzYb.jpg)<br>山本崇一朗创作的漫画。 |  |
 | counter strike | 反恐精英 |  |  |
 | pleasant goat and big big wolf | 喜羊羊与灰太狼 | ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Official_Pleasant_Goat_and_Big_Big_Wolf_logo.jpg/500px-Official_Pleasant_Goat_and_Big_Big_Wolf_logo.jpg)<br>中国原创动画剧集。 |  |
+| vivy fluorite eyes song | 薇薇 -萤石眼之歌- | ![](https://upload.wikimedia.org/wikipedia/en/a/a9/Vivy_Fluorite_Eye’s_Song_key_visual.jpg)<br>由江崎慎平执导，长月达平、梅原英司编剧，Wit Studio制作的原创电视动画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
