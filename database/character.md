@@ -5747,7 +5747,7 @@ example:
 | sirius symboli | 天狼星象征 | ![](https://moegirl.icu/media/thumb/UPDCH_SiriusSymboli_00.png/580px-UPDCH_SiriusSymboli_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹シリウスシンボリ（Sirius Symboli）。 | [萌娘百科](https://moegirl.icu/天狼星象征) |
 | mejiro palmer | 目白善信 | ![](https://static.wikia.nocookie.net/umamusume/images/1/15/Mejiro_Palmer_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹メジロパーマー（Mejiro Palmer）。 | [萌娘百科](https://moegirl.icu/目白善信) |
 | symboli kris s | 吉兆 | ![](https://moegirl.icu/media/thumb/UPDCH_SymboliKrisS_00.png/580px-UPDCH_SymboliKrisS_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹シンボリクリスエス（Symboli Kris S）。 | [萌娘百科](https://moegirl.icu/吉兆) |
-| anshinzawa sasami | 安心泽刺刺美 | ![](https://moegirl.icu/media/UPDCH_AnshinzawaSasami_00.png)<br>所属作品：`uma musume pretty derby`<br>安心泽刺刺美（日语：安心沢（あんしんざわ）刺々美（ささみ）） | <p><a href="[https://moegirl.icu/安心泽刺刺美](https://moegirl.icu/安心泽刺刺美)">萌娘百科</a></p> |
+| anshinzawa sasami | 安心泽刺刺美 | ![](https://storage.moegirl.org.cn/moegirl/commons/7/77/PID89743107.jpg)<br>所属作品：`uma musume pretty derby`<br>安心泽刺刺美（日语：安心沢（あんしんざわ）刺々美（ささみ）） | [萌娘百科](https://zh.moegirl.org.cn/安心泽刺刺美) |
 | marvelous sunday | 美丽周日 | ![](https://moegirl.icu/media/thumb/UPDCH_MarvelousSunday_00.png/580px-UPDCH_MarvelousSunday_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹マーベラスサンデー（Marvelous Sunday）。 | [萌娘百科](https://moegirl.icu/美丽周日) |
 | suzuna minami | 美波铃奈 | ![](https://moegirl.uk/images/3/3e/Suzuna.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/美波铃奈) |
 | suzume amano | 天野铃莓 | ![](https://moegirl.uk/images/7/7a/Suzume_prin_cone.png)<br>所属作品：`princess connect`<br>日语：天野（あまの） すずめ） | [萌娘百科](https://moegirl.uk/天野铃莓) |
