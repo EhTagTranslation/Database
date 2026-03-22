@@ -6111,7 +6111,7 @@ example:
 | pulchra fellini | 波可娜·费雷尼 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/03/05/15559334/e580002690f8aeb311de4608063235f1_3158522883564202676.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` | [萌娘百科](https://zh.moegirl.org.cn/波可娜·费雷尼) |
 | nina | 贝璐卡 |  |  |
 | velouria | 维罗妮卡 |  |  |
-| ophelia | 奥菲利亚 |  |  |
+| ophelia | 奥菲利亚 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/c/c8/Ophelia_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song` | [Fandom](https://vivy-fluorite-eyes-song.fandom.com/wiki/Ophelia) |
 | peri | 皮埃里 |  |  |
 | nyx | 尼克斯 | ![](https://static.wikia.nocookie.net/queensblade/images/0/05/Img_chara_nyx.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Nyx) |
 | amatsuka uto | 天使兔跳 | 「天使うと（Amatsuka Uto）」，是`p:hololive`的一名`f:vtuber`。 |  |
