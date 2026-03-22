@@ -6436,7 +6436,7 @@ example:
 | karaage market | からあげ市場 |  |  |
 | karaage of the year | からあげオブザイヤー |  |  |
 | karakuchi choucream | 辛口しゅーくりーむ |  |  |
-| karamomo tart | からももたると |  |  |
+| karamomo tart | からももたると |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG41834.html) |
 | karamoyou | 唐模様 |  |  |
 | karappa | karappa |  |  |
 | karashitakana | からしたかな |  |  |
