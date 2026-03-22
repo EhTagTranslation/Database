@@ -8713,7 +8713,7 @@ example:
 | ns2k | ns2k |  |  |
 | dondondon | どんどんどん | NSG |  |
 | nt confess | NTconfess |  |  |
-| ntlabo | NTラボ |  |  |
+| nt robo | NTラボ |  |  |
 | ntr king | NTR キング |  |  |
 | ntr suishin iinkai | NTR推進委員会 |  |  |
 | ntr system | NTRシステム |  |  |

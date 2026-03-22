@@ -2118,9 +2118,9 @@ example:
 | bubbles | 泡泡 |  |  |
 | buttercup | 毛毛 |  |  |
 |  | ▼ 光之美少女 系列 |  |  |
-| cure black | 美墨渚 (黑天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/e7/Black_Nagisa_Profile.jpg)<br>日语：美墨なぎさ（みすみ なぎさ）<br>登场于:`futari wa pretty cure` | [萌娘百科](https://moegirl.uk/美墨渚) |
-| cure white | 雪城穗乃香 (白天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/34/White_Honoka_Profile.jpg)<br>登场于:`futari wa pretty cure`<br>日语：雪城ほのか | [萌娘百科](https://moegirl.uk/雪城穗乃香) |
-| shiny luminous | 九条光（夏米露斯） | ![](https://static.wikia.nocookie.net/prettycure/images/1/10/Hikari%26luminous.jpg)<br>所属作品:`futari wa pretty cure`<br>日语：九条ひかり（くじょう ひかり） | [萌百](https://moegirl.uk/九条光) |
+| cure black | 美墨渚 (黑天使) | ![](https://static.wikia.nocookie.net/prettycure/images/e/e7/Black_Nagisa_Profile.jpg)<br>日语：美墨なぎさ（みすみ なぎさ）<br>登场于:`futari wa precure` | [萌娘百科](https://moegirl.uk/美墨渚) |
+| cure white | 雪城穗乃香 (白天使) | ![](https://static.wikia.nocookie.net/prettycure/images/3/34/White_Honoka_Profile.jpg)<br>登场于:`futari wa precure`<br>日语：雪城ほのか | [萌娘百科](https://moegirl.uk/雪城穗乃香) |
+| shiny luminous | 九条光（夏米露斯） | ![](https://static.wikia.nocookie.net/prettycure/images/1/10/Hikari%26luminous.jpg)<br>所属作品:`futari wa precure`<br>日语：九条ひかり（くじょう ひかり） | [萌百](https://moegirl.uk/九条光) |
 | cure bloom | 日向咲 (花天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Bloom_Bright_Saki_Profile.png/revision/latest?cb=20200104203901)<br>所属作品:`futari wa precure splash star`<br>日语：ひゅうが さき | [萌娘百科](https://moegirl.uk/日向咲) |
 | cure egret | 美翔舞 (舞天使) | ![](https://static.wikia.nocookie.net/prettycure/images/c/c7/Egret_Windy_Mai_Profile.png/revision/latest?cb=20190420092742)<br>所属作品:`futari wa precure splash star`<br>日语：みしょう まい | [萌娘百科](https://moegirl.uk/美翔舞) |
 | michiru kiryuu | 雾生满 |  |  |
@@ -7735,7 +7735,7 @@ example:
 | naeko miike | 三池苗子 | ![](https://static.wikia.nocookie.net/caseclosed/images/9/95/Naeko_Miike.jpg/revision/latest?cb=20240818035625)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/三池苗子) |
 | yumi miyamoto | 宫本由美 | ![](https://bkimg.cdn.bcebos.com/pic/7aec54e736d12f2eb93823f0fe9ac2628535e5ddc250?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20)<br>所属作品：`detective conan` | [萌娘百科](https://zh.moegirl.org.cn/宫本由美) |
 | wraith | 恶灵 | ![](https://ehgt.org/w/02/035/29615-f8s4a5yn.webp)<br>所属作品：`apex legends`<br>全名是芮妮‧霍普‧布莱希。 |  |
-| wattson | 沃特森（电妹） | 所属作品：`apex legends`<br>全名娜塔莉·沃特森·帕奎特 |  |
+| wattson | 沃特森 | 所属作品：`apex legends`<br>全名娜塔莉·沃特森·帕奎特 |  |
 | loba | 罗芭 | 所属作品：`apex legends`<br>全名是罗芭·安德拉德。 |  |
 | bangalore | 班加罗尔 | 所属作品：`apex legends`<br>全名是安妮塔·威廉斯。 |  |
 | newcastle | 纽卡斯尔 | ![](https://i2.hdslb.com/bfs/new_dyn/5e3b0cb2ed31d519088afae81b7b92a4262400697.png)<br>所属作品：`azur lane` |  |
@@ -7811,7 +7811,7 @@ example:
 | hyouka fuwa | 不破冰菓 | ![](https://static.wikia.nocookie.net/shimoneta-to-lu/images/c/c6/A92e0b131a7ea5918aed03a614ec702b.jpg/revision/latest?cb=20231209220134)<br>所属作品:`shimoneta to iu gainen ga sonzai shinai taikutsu na sekai` | [百度百科](https://baike.baidu.com/item/不破冰菓/17872341)<br>[Fandom](https://shimoneta.fandom.com/wiki/Hyouka_Fuwa) |
 | radford | 拉德福特 | 碧蓝航线 女角色 |  |
 | yunohana bloom | 汤花盛开 | ![](https://i2.hdslb.com/bfs/new_dyn/debf1291a10bc710db0a15600ea06146510585998.png)<br>所属作品：`uma musume pretty derby`<br>原创赛马娘。 |  |
-| tyrant | 魔王（星塔旅人） | ![](https://i2.hdslb.com/bfs/new_dyn/e390bc3a1c9952e086ddb91c9b9780856089321.jpg)<br>所属作品：`stella sora`<br>玩家扮演的主人公。 |  |
+| tyrant | 魔王 | ![](https://i2.hdslb.com/bfs/new_dyn/e390bc3a1c9952e086ddb91c9b9780856089321.jpg)<br>所属作品：`stella sora`<br>玩家扮演的主人公。 |  |
 | shizuka nanahoshi | 七星静香 | ![](https://static.wikia.nocookie.net/mushokutensei/images/7/7d/Nanahoshi-Unmasked-Anime-FullBody.png)<br>所属作品：`mushoku tensei` |  |
 | mornye | 莫宁 | ![](https://prod-alicdn-community.kurobbs.com/forum/610ec03f0f754ca3b15dfdc98a80bd3220251202.png?x-oss-process=image/format,webp)<br>所属作品：`wuthering waves`<br>深空联合研究院学者、星炬学院教授莫宁，思维敏捷却不善言辞。 |  |
 | the dahlia | 「大丽花」康士坦丝 | ![](https://storage.moegirl.org.cn/moegirl/commons/2/25/崩坏星穹铁道_大丽花立绘.png)<br><br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/康士坦丝) |
@@ -8078,7 +8078,7 @@ example:
 | ireena litz de olhyde | 伊莉娜·里茨 | ![](https://static.wikia.nocookie.net/shijou-saikyou-daimaou/images/a/a3/Ireena_Litz_de_Olhyde_-_Anime_Design_2.png)<br>所属作品：`shijou saikyou no daimaou murabito a ni tensei suru`<br>全名伊莉娜·里茨·德·奥尔巴伊特 |  |
 | reiju vinsmoke | 文斯莫克·蕾玖 | ![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg")<br>出自作品：`p:one piece`<br><br>文斯莫克·蕾玖，日本漫画《航海王》及衍生作品中的角色，文斯莫克家族长女，杰尔马王国公主，杰尔马66“粉红剧毒”，山治的姐姐。通过父亲文斯莫克·伽治“血统因子”的改造基因而获得了超人般的身体，保留了情感，但不能反抗父亲的命令。 | [百度百科](https://baike.baidu.com/item/文斯莫克·蕾玖/19682805) \| [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
 | nemo noah | 尼莫/诺亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/90/S452_Stage1.webp)<br>所属作品：`fate grand order` |  |
-| platina | 普拉蒂纳 (Nunholy) | ![](https://ehgt.org/w/01/875/39729-4a0q2l8j.webp)<br>所属作品：`nunholy` |  |
+| platina | 普拉蒂纳 | ![](https://ehgt.org/w/01/875/39729-4a0q2l8j.webp)<br>所属作品：`nunholy` |  |
 | yukino shichido | 七度雪乃 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/BA_Yukino.png)<br>所属作品：`blue archive`<br>SRT特殊学园所属,FOX小队的突击步枪手;同时是FOX小队的队长,代号FOX1。 | [萌娘百科](https://zh.moegirl.org.cn/七度雪乃) |
 | luke notos greyrat | 路克·诺托斯·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/1/14/MT-AN-S2-Luke-FullBody.png)<br>所属作品：`mushoku tensei`<br>诺托斯·格雷拉特家的次男，后成为当家。 | [百度百科](https://baike.baidu.com/item/路克·诺托斯·格雷拉特/62450886) |
 | bastet | 巴斯特 | ![](https://static.wikia.nocookie.net/pad/images/b/b2/Pet494.png)<br>所属作品：`puzzle and dragons` |  |
@@ -8377,12 +8377,12 @@ example:
 | yuko murakami | 村上佑子 | 所属作品：`bishoujo kamen poitrine` |  |
 | kaga nazuna | 花芽荠 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/90/Kaga_Nazuna_corporate_full_body.png)<br>所属社团：VSPO<br>日语：花芽なずな |  |
 | kaga sumire | 花芽菫 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/2/29/Kaga_Sumire_Portrait_Still.png)<br>所属社团：VSPO<br>日语：花芽すみれ |  |
-| phantom | 幻影法师（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/7/7f/ClassArtwork_Phantom_%28Nova%29.png)<br>所属作品：`maplestory` | [Fandom](https://maplestory.fandom.com/wiki/Phantom) |
-| luminous | 夜光法师（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/5/52/ClassArtwork_Luminous_%28Nova%29.png)<br>所属作品：`maplestory` |  |
+| phantom | 幻影法师 | ![](https://static.wikia.nocookie.net/maplestory/images/7/7f/ClassArtwork_Phantom_%28Nova%29.png)<br>所属作品：`maplestory` | [Fandom](https://maplestory.fandom.com/wiki/Phantom) |
+| luminous | 夜光法师 | ![](https://static.wikia.nocookie.net/maplestory/images/5/52/ClassArtwork_Luminous_%28Nova%29.png)<br>所属作品：`maplestory` |  |
 | mrs. ming ming | 明明女士 | ![](https://static.wikia.nocookie.net/maplestory/images/2/29/NPC_Mrs._Ming_Ming.png)<br>所属作品：`maplestory` |  |
-| blaze wizard | 炎术士（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/1/10/ClassArtwork_Blaze_Wizard_%28Ignition%2C_Male%29.png)<br>所属作品：`maplestory` |  |
-| oz | 奥兹（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/2/22/Artwork_Oz.png)<br>所属作品：`maplestory` |  |
-| cygnus | 希纳斯（冒险岛） | ![](https://static.wikia.nocookie.net/maplestory/images/0/0e/NPCArtwork_Cygnus%2C_2014_%28Awakened_1%29.png)<br>所属作品：`maplestory`<br>别称西格诺斯。 |  |
+| blaze wizard | 炎术士 | ![](https://static.wikia.nocookie.net/maplestory/images/1/10/ClassArtwork_Blaze_Wizard_%28Ignition%2C_Male%29.png)<br>所属作品：`maplestory` |  |
+| oz | 奥兹 | ![](https://static.wikia.nocookie.net/maplestory/images/2/22/Artwork_Oz.png)<br>所属作品：`maplestory` |  |
+| cygnus | 希纳斯 | ![](https://static.wikia.nocookie.net/maplestory/images/0/0e/NPCArtwork_Cygnus%2C_2014_%28Awakened_1%29.png)<br>所属作品：`maplestory`<br>别称西格诺斯。 |  |
 | shinomiya runa | 紫宫露娜 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/9/9d/ShinomiyaRuna_-_Portrait.png) |  |
 | ichinose uruha | 一之濑丽 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/e/e3/Ichinose_Uruha_coporate_full_body.png)<br>日语：一ノ瀬うるは |  |
 | hana judgement day mode | 花(异度神剑) | ![](https://ehgt.org/w/02/218/52454-am5rzg1e.webp)<br>出自作品：`p:xenoblade chronicles 2`<br><br>花（日语：ハナ）是游戏《异度神剑2》、《异度神剑3》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/花%28异度神剑%29#) |
@@ -8540,7 +8540,6 @@ example:
 | mana nagase | 长濑麻奈 | ![](https://static.wikia.nocookie.net/idoly-pride/images/c/c6/Nagase_Mana_3.png/revision/latest?cb=20250511081643)<br>日文：長瀬麻奈（ながせ まな）<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/长濑麻奈) |
 | mei hayasaka | 早坂芽衣 | ![](https://static.wikia.nocookie.net/idoly-pride/images/b/b7/Mei_Hayasaka_Group.png/revision/latest?cb=20250523185132)<br>日文：はやさか めい<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/早坂芽衣) |
 | toka takao | 高尾灯佳 | ![](https://static.wikia.nocookie.net/d4dj/images/4/48/Takao_Toka.png/revision/latest?cb=20220424223312)<br>日文:たかお とか<br>所属作品：`dig delight direct drive dj` | [萌娘百科](https://zh.moegirl.org.cn/高尾灯佳)<br>[Fandom](https://d4dj.fandom.com/wiki/Takao_Toka) |
-| rui tendou | 天动瑠依 | ![](https://static.wikia.nocookie.net/idoly-pride/images/7/7d/Tendo_Rui_1.png/revision/latest?cb=20210103051532)<br>所属作品:`idoly pride` | [萌娘百科](https://zh.moegirl.org.cn/天动瑠依)<br>[Fandom](https://idoly-pride.fandom.com/wiki/Rui_Tendo) |
 | miura hayasaka | 早坂美丽 | ![](https://ehgt.org/42/90/4290a744d96660597cd89d45a6fd714d1308c8a6-348916-1074-1523-jpg_250.jpg)<br>出自作品：`p:yotsubato`<br><br>早坂美丽是漫画《四叶妹妹!》中的虚构角色，为绫濑惠那的朋友。该角色以中性气质为特征，言行举止、服装风格及动作习惯呈现小男生特质，日常频繁到惠那家玩耍。 | [百度百科](https://baike.baidu.com/item/早坂美麗/4394552) |
 | michiru kaibara | 海原美知留 | ![](https://static.wikia.nocookie.net/d4dj/images/1/19/Michiru_official.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Kaibara_Michiru) |
 | miyu sakurada | 樱田美梦 | ![](https://static.wikia.nocookie.net/d4dj/images/3/38/Miyu_%28All_Mix%29.png)<br>所属作品：`dig delight direct drive dj` | [Fandom](https://d4dj.fandom.com/wiki/Sakurada_Miyu) |
@@ -8810,13 +8809,13 @@ example:
 | katsuie shibata | 柴田胜家 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/7/77/170141.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 | sonia blanche | 桑妮雅·布朗谢 | ![](https://static.wikia.nocookie.net/shining/images/c/ca/SR_Sonia3.png)<br>所属作品：`shining resonance`<br>日文名：ソニア・ブランシュ |  |
 | excella noa aura | 爱克塞拉·诺亚·奥拉 | ![](https://static.wikia.nocookie.net/shining/images/b/ba/SR_Excela_Noa_Aura.png)<br>所属作品：`shining resonance`<br>日语：エクセラ・ノア・アウラ |  |
-| jodi | 乔迪（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/4/41/Jodi.png)<br>所属作品：`stardew valley` |  |
-| leah | 莉亚（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/e/e6/Leah.png)<br>所属作品：`stardew valley` |  |
+| jodi | 乔迪 | ![](https://static.wikia.nocookie.net/stardewvalley/images/4/41/Jodi.png)<br>所属作品：`stardew valley` |  |
+| leah | 莉亚 | ![](https://static.wikia.nocookie.net/stardewvalley/images/e/e6/Leah.png)<br>所属作品：`stardew valley` |  |
 | emily | 艾米丽 | ![](https://static.wikia.nocookie.net/stardewvalley/images/2/28/Emily.png)<br>所属作品：`stardew valley` |  |
-| abigail | 阿比盖尔（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/8/88/Abigail.png)<br>所属作品：`stardew valley` |  |
-| maru | 玛鲁（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/f/f8/Maru.png)<br>所属作品：`stardew valley` |  |
-| haley | 海莉（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/1/1b/Haley.png)<br>所属作品：`stardew valley` |  |
-| jas | 贾斯（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/5/55/Jas.png)<br>所属作品：`stardew valley` |  |
+| abigail | 阿比盖尔 | ![](https://static.wikia.nocookie.net/stardewvalley/images/8/88/Abigail.png)<br>所属作品：`stardew valley` |  |
+| maru | 玛鲁 | ![](https://static.wikia.nocookie.net/stardewvalley/images/f/f8/Maru.png)<br>所属作品：`stardew valley` |  |
+| haley | 海莉 | ![](https://static.wikia.nocookie.net/stardewvalley/images/1/1b/Haley.png)<br>所属作品：`stardew valley` |  |
+| jas | 贾斯 | ![](https://static.wikia.nocookie.net/stardewvalley/images/5/55/Jas.png)<br>所属作品：`stardew valley` |  |
 | vivy | 薇薇 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/a/ae/Vivy_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song`<br>日语：ヴィヴィ |  |
 
 <!--TEMPLATE: 
