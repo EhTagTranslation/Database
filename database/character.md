@@ -8798,6 +8798,7 @@ example:
 | bokoblin | 波克布林 | 出自作品：`p:the legend of zelda`<br><br>波克布林（Bokoblin，日语：ボコブリン）是任天堂《塞尔达传说》系列中一种常见的敌对种族。它们通常被描绘为类似地精的小型人形生物。 | [萌娘百科](https://zh.moegirl.org.cn/波克布林) |
 | gu yuena | 古月娜 | ![](https://ehgt.org/w/02/259/24497-aftbji32.webp)<br>所属作品：`douluo continent` |  |
 | azuchi momo | 安土桃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/53/Azuchi_Momo_Portrait.png) |  |
+| ara | 韩艾拉 | ![](https://elwiki.net/wiki/images/thumb/4/44/Portrait_-_Ara.png/600px-Portrait_-_Ara.png)<br>所属作品：`elsword` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
