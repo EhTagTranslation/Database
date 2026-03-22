@@ -8799,6 +8799,7 @@ example:
 | gu yuena | 古月娜 | ![](https://ehgt.org/w/02/259/24497-aftbji32.webp)<br>所属作品：`douluo continent` |  |
 | azuchi momo | 安土桃 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/5/53/Azuchi_Momo_Portrait.png) |  |
 | ara | 艾拉 |  |  |
+| ara haan | 韩艾拉 | ![](https://elwiki.net/wiki/images/thumb/4/44/Portrait_-_Ara.png/600px-Portrait_-_Ara.png)<br>所属作品：`elsword`<br>或译艾拉·韩（韩语：아라한） |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
