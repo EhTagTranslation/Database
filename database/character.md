@@ -8810,6 +8810,7 @@ example:
 | katsuie shibata | 柴田胜家 | ![](https://static.wikia.nocookie.net/odanobunanoyabou/images/7/77/170141.jpg)<br>所属作品：`oda nobuna no yabou` |  |
 | sonia blanche | 桑妮雅·布朗谢 | ![](https://static.wikia.nocookie.net/shining/images/c/ca/SR_Sonia3.png)<br>所属作品：`shining resonance`<br>日文名：ソニア・ブランシュ |  |
 | excella noa aura | 爱克塞拉·诺亚·奥拉 | ![](https://static.wikia.nocookie.net/shining/images/b/ba/SR_Excela_Noa_Aura.png)<br>所属作品：`shining resonance`<br>日语：エクセラ・ノア・アウラ |  |
+| jodi | 乔迪（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/4/41/Jodi.png)<br>所属作品：`stardew valley` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
