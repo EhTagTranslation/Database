@@ -8817,6 +8817,7 @@ example:
 | maru | 玛鲁（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/f/f8/Maru.png)<br>所属作品：`stardew valley` |  |
 | haley | 海莉（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/1/1b/Haley.png)<br>所属作品：`stardew valley` |  |
 | jas | 贾斯（星露谷） | ![](https://static.wikia.nocookie.net/stardewvalley/images/5/55/Jas.png)<br>所属作品：`stardew valley` |  |
+| vivy | 薇薇 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/a/ae/Vivy_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song`<br>日语：ヴィヴィ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
