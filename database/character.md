@@ -4698,7 +4698,7 @@ example:
 | gabriel | 加百列 | ![](https://huiji-public.huijistatic.com/gbf/uploads/9/93/Zoom_3040492000_01.png)<br>所属作品:`p:granblue fantasy` |  |
 | europa | 欧罗巴 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/2d/Zoom_3040226000_01.png)<br>所属作品:`p:granblue fantasy` |  |
 | neneka utsushimi | 现士实似似花 | ![](https://img.moegirl.org.cn/common/7/73/Neneka-Full.png)<br>所属作品：`princess connect` | [萌娘百科](https://zh.moegirl.org.cn/现士实似似花) |
-| penny | 牡丹 | 所属作品：`pokemon`<br>![](https://img.moegirl.org.cn/common/6/66/Penny_PMSV.png)<br>牡丹（日语：ボタン，英语：Penny） | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
+| penny | 牡丹 \| 潘妮 | ①所属作品：`pokemon`<br>![](https://s1.52poke.com/wiki/thumb/b/b7/牡丹_SV.png/179px-牡丹_SV.png)<br>日语：ボタン<br><br>②所属作品：`stardew valley`<br>![](https://static.wikia.nocookie.net/stardewvalley/images/a/ab/Penny.png) | [萌娘百科](https://zh.moegirl.org.cn/牡丹%28宝可梦%29#) |
 | arslan | 亚尔斯兰 |  |  |
 | tobio kageyama | 影山飞雄 |  | [萌娘百科](https://zh.moegirl.org.cn/影山飞雄) |
 | kirari momobami | 桃喰绮罗莉 | 桃喰绮罗莉，所属作品:`p:kakegurui`<br>是《狂赌之渊》系列及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/5/5c/Kirari-momobami-108801.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桃喰绮罗莉) |
