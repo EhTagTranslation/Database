@@ -1561,7 +1561,7 @@ example:
 | mofmof | もふもふ |  |  |
 | katsu tights | カツタイツ |  |  |
 | ainomugen | あいの無限 |  |  |
-| nuko majin | ぬこ魔神 |  |  |
+| nuko majin | ぬこ魔神 | ![](https://pbs.twimg.com/profile_images/1597906670838898688/WhcLWE6x_400x400.jpg) | [DLsite](https://ci-en.dlsite.com/creator/1888) \| [X](https://x.com/nukomajinG) \| [crepu](https://crepu.net/user/g33aOrjs3) |
 | uni no tane | うにの種 |  |  |
 | gunjou robot | 群青ロボット |  |  |
 | hyper dropkick | はいぱーどろっぷきっく |  |  |
