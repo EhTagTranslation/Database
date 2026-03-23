@@ -6353,7 +6353,7 @@ example:
 | reim lunettes | 雷姆·鲁内杰 |  |  |
 | koujirou shinomiya | 四宫小次郎 |  |  |
 | misogi kumagawa | 球磨川禊 | ![](https://static.wikia.nocookie.net/medakabox/images/c/c0/Misogi_Kumagawa.jpg)<br>所属作品：`medaka box`<br>日文：球磨川禊 |  |
-| mabel pines | 梅宝·派恩斯 |  | [萌娘百科](https://zh.moegirl.org.cn/梅宝·派恩斯) |
+| mabel pines | 梅宝·派恩斯 | ![](https://ehgt.org/w/02/082/61214-jj12slld.webp)<br>出自作品：`p:gravity falls`<br><br>梅宝·派恩斯（英语：Mabel Pines）是迪士尼制作的动画《怪诞小镇》及其衍生的动画、游戏等作品的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/梅宝·派恩斯) |
 | dipper pines | 迪普·派恩斯 |  |  |
 | wendy corduroy | 温蒂·克多莱 |  |  |
 | pacifica northwest | 帕西菲卡·诺斯韦斯特 |  |  |
