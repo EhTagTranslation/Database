@@ -8818,6 +8818,7 @@ example:
 | jas | 贾斯 | ![](https://static.wikia.nocookie.net/stardewvalley/images/5/55/Jas.png)<br>所属作品：`stardew valley` |  |
 | vivy | 薇薇 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/a/ae/Vivy_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song`<br>日语：ヴィヴィ |  |
 | ultraseven | 赛文 | 所属作品：`ultraman` |  |
+| xiao wu | 小舞 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
