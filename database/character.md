@@ -8825,6 +8825,7 @@ example:
 | baseball zombie | 棒球僵尸 |  |  |
 | shifu | 师傅（功夫熊猫） |  |  |
 | po | 阿宝 |  |  |
+| kitt | 露可拉 | ![](https://s1.52poke.com/wiki/thumb/b/b7/露可拉_Champions.png/200px-露可拉_Champions.png)<br>所属作品：`pokemon`<br>日文︰ルッコラ | [神奇宝贝百科](https://wiki.52poke.com/wiki/露可拉) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
