@@ -8827,6 +8827,7 @@ example:
 | po | 阿宝 |  |  |
 | kitt | 露可拉 | ![](https://s1.52poke.com/wiki/thumb/b/b7/露可拉_Champions.png/200px-露可拉_Champions.png)<br>所属作品：`pokemon`<br>日文︰ルッコラ | [神奇宝贝百科](https://wiki.52poke.com/wiki/露可拉) |
 | bai xiuxiu | 白秀秀 | ![](https://static.wikia.nocookie.net/soulland/images/2/25/8A15199E-1A8D-4A79-A00F-A9E9DE5A778B.jpg)<br>所属作品：`douluo continent` |  |
+| lan mengqin | 蓝梦琴 | ![](https://static.wikia.nocookie.net/soulland/images/2/26/7acb0a46f21fbe096b63f37f4c2a1b338744ebf8070c.jpg)<br>所属作品：`douluo continent` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
