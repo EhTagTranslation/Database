@@ -1637,7 +1637,7 @@ example:
 | otome game no hametsu flag shika nai akuyaku reijou ni tensei shiteshimatta... | 转生成为了只有乙女游戏破灭Flag的邪恶大小姐 | ![](https://lain.bgm.tv/r/400/pic/cover/l/12/db/264089_1BMQc.jpg)<br>由山口悟创作、ひだかなみ插画的一部轻小说，并有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/转生成为了只有乙女游戏破灭Flag的邪恶大小姐) |
 | osomatsu-san | 阿松 | 《阿松》（日语：おそ松くん）是由赤冢不二夫创作的一部搞笑题材的漫画，有动画、真人电影等衍生作品。<br>![](https://p.sda1.dev/5/144cf51c8ffb283256031cab7a88076e/796px-Osomatsu-san_S3_kv.jpg) | [阿松(作品)](https://zh.moegirl.org.cn/阿松%28作品%29) |
 | arena of valor | 传说对决 |  | [维基百科](https://zh.wikipedia.org/wiki/傳說對決)<br>[Fandom](https://arenaofvalor.fandom.com/wiki/Arena_of_Valor_Wiki) |
-| douluo continent | 斗罗大陆 | 唐家三少创作的玄幻小说。 |  |
+| douluo continent | 斗罗大陆 | ![](https://static.wikia.nocookie.net/soulland/images/e/e6/Site-logo.png)<br>唐家三少创作的玄幻小说。 |  |
 | grand blue | 碧蓝之海 | ![](https://img.moegirl.org.cn/common/3/32/Grand_blue_vol_5.jpg)<br>由井上坚二担任原作、吉冈公威作画的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝之海) |
 | blue submarine no. 6 | 青之6号 | 《青之6号》（日语：青の6号）是小泽晓的漫画作品。1967年在“周刊少年Sunday”连载，之后由GONZO制作OVA。 | [维基百科](https://zh.wikipedia.org/wiki/青之6號) |
 | jaku-chara tomozaki-kun | 弱势角色友崎君 |  | [中文维基](https://zh.wikipedia.org/wiki/弱角友崎同學) |
