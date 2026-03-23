@@ -8829,6 +8829,7 @@ example:
 | bai xiuxiu | 白秀秀 | ![](https://static.wikia.nocookie.net/soulland/images/2/25/8A15199E-1A8D-4A79-A00F-A9E9DE5A778B.jpg)<br>所属作品：`douluo continent` |  |
 | lan mengqin | 蓝梦琴 | ![](https://static.wikia.nocookie.net/soulland/images/2/26/7acb0a46f21fbe096b63f37f4c2a1b338744ebf8070c.jpg)<br>所属作品：`douluo continent` |  |
 | ye lingtong | 叶灵瞳 | ![](https://static.wikia.nocookie.net/soulland/images/e/e6/U_199873914_4067638646%26fm_173%26app_49%26f_JPEG.jpeg)<br>所属作品：`douluo continent` |  |
+| sheng ming | 生命女神 | ![](https://static.wikia.nocookie.net/soulland/images/a/ac/Shen_Ming_001.jpeg)<br>所属作品：`douluo continent` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
