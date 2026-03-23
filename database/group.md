@@ -12037,7 +12037,7 @@ example:
 | x-toys | X-TOYS |  |  |
 | x.t.c | X.T.C |  |  |
 | xain | XAIN |  |  |
-| xenoms | Xenoms |  |  |
+| xenoms | Xenoms |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27841/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG18153.html) |
 | xephs artwork | Xeph's Artwork |  |  |
 | xikyougumi | 賽響組 |  |  |
 | xpanda | Xpanda |  |  |
