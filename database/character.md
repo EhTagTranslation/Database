@@ -8789,7 +8789,7 @@ example:
 | yuki himemiya | 姬宫由纪 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0d/0e/161217_crt_668Ph.jpg)<br>所属作品：`mane mane nichi nichi`<br>日语：姫宮ユキ |  |
 | karina ichinose | 一之濑香里奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/62/161216_crt_Ig7zg.jpg)<br>所属作品：`mane mane nichi nichi`<br>日语：一ノ瀬かりな |  |
 | honne nohotoke | 布佛本音 | ![](https://static.wikia.nocookie.net/infinite-stratos/images/9/9a/Honne_Nohotoke.png)<br>所属作品：`infinite stratos`<br>日语：布仏本音 |  |
-| zhu zhuqing | 朱竹清 | 所属作品：`douluo continent` |  |
+| zhu zhuqing | 朱竹清 | ![](https://static.wikia.nocookie.net/soulland/images/e/e4/Zhu_Zhuqing_S.png)<br>所属作品：`douluo continent` |  |
 | ning rongrong | 宁荣荣 | 所属作品：`douluo continent` |  |
 | bibi dong | 比比东 | 所属作品：`douluo continent` |  |
 | shizuku murasaki | 小滴·紫 | ![](https://ehgt.org/w/02/206/04275-87ux1hjh.webp)<br>出自作品：`p:hunter x hunter`<br><br>小滴·紫（日语：シズク=ムラサキ）港译小霞，《猎人》中的角色。 | [Fandom](https://hunterxhunter.fandom.com/zh/wiki/小滴?variant=zh-cn) |
