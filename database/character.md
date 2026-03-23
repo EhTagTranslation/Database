@@ -8819,6 +8819,7 @@ example:
 | vivy | 薇薇 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/a/ae/Vivy_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song`<br>日语：ヴィヴィ |  |
 | ultraseven | 赛文 | 所属作品：`ultraman` |  |
 | xiao wu | 小舞 |  |  |
+| ah yin | 阿银 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
