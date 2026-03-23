@@ -8822,6 +8822,7 @@ example:
 | ah yin | 阿银 |  |  |
 | bo saixi | 波塞西 |  |  |
 | crazy dave | 疯狂戴夫 |  |  |
+| baseball zombie | 棒球僵尸 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
