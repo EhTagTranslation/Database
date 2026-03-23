@@ -15028,6 +15028,7 @@ example:
 | 9x2 | 9x2 |  | [pixiv](https://www.pixiv.net/users/72687913) \| [Skeb](https://skeb.jp/@9x2no18) \| [X](https://x.com/2049_9x2) \| [FANBOX](https://zrcy5345.fanbox.cc/) |
 | laliberte | laliberte |  | [Patreon](https://www.patreon.com/laliberte) \| [FANBOX](https://laliberte.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/31571530) \| [X](https://x.com/laliberte18art) |
 | sekitsui | せきつい |  |  |
+| kiseenu | き せ え ぬ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57587.html) |
 
 <!--TEMPLATE:
 |  |  |  |  |
