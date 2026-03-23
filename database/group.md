@@ -878,7 +878,7 @@ example:
 | candy club | Candy Club |  |  |
 | apple amza | APPLE Amza |  |  |
 | rorinoutage | ロリの宴 |  |  |
-| comex | COMEX |  |  |
+| comex | COMEX |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77290/) \| [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=2263) |
 | marimo-ya | まりも屋 |  |  |
 | moonglow | MoonGlow |  |  |
 | aikanheiwa. | 愛館平和。 |  |  |
