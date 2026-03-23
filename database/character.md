@@ -8818,7 +8818,7 @@ example:
 | jas | 贾斯 | ![](https://static.wikia.nocookie.net/stardewvalley/images/5/55/Jas.png)<br>所属作品：`stardew valley` |  |
 | vivy | 薇薇 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/a/ae/Vivy_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song`<br>日语：ヴィヴィ |  |
 | ultraseven | 赛文 | 所属作品：`ultraman` |  |
-| xiao wu | 小舞 |  |  |
+| xiao wu | 小舞 | ![](https://static.wikia.nocookie.net/soulland/images/9/9c/ZX_SR.jpeg)<br>![](https://static.wikia.nocookie.net/soulland/images/d/dd/962bd40735fae6cd7b8929b11ce6182442a7d833a19c.jpg)<br>所属作品：`douluo continent` |  |
 | ah yin | 阿银 | ![](https://static.wikia.nocookie.net/soulland/images/3/39/AhYin_Anime_EP_111.png)<br>所属作品：`douluo continent` |  |
 | bo saixi | 波塞西 | ![](https://static.wikia.nocookie.net/soulland/images/b/b0/SeaGodDouluoBoSaixi6.jpg)<br>所属作品：`douluo continent` |  |
 | crazy dave | 疯狂戴夫 |  |  |
