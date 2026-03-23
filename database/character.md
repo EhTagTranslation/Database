@@ -8790,7 +8790,7 @@ example:
 | karina ichinose | 一之濑香里奈 | ![](https://lain.bgm.tv/r/400/pic/crt/l/34/62/161216_crt_Ig7zg.jpg)<br>所属作品：`mane mane nichi nichi`<br>日语：一ノ瀬かりな |  |
 | honne nohotoke | 布佛本音 | ![](https://static.wikia.nocookie.net/infinite-stratos/images/9/9a/Honne_Nohotoke.png)<br>所属作品：`infinite stratos`<br>日语：布仏本音 |  |
 | zhu zhuqing | 朱竹清 | ![](https://static.wikia.nocookie.net/soulland/images/e/e4/Zhu_Zhuqing_S.png)<br>所属作品：`douluo continent` |  |
-| ning rongrong | 宁荣荣 | 所属作品：`douluo continent` |  |
+| ning rongrong | 宁荣荣 | ![](https://static.wikia.nocookie.net/soulland/images/5/5b/Ningronrong.png)<br>所属作品：`douluo continent` |  |
 | bibi dong | 比比东 | 所属作品：`douluo continent` |  |
 | shizuku murasaki | 小滴·紫 | ![](https://ehgt.org/w/02/206/04275-87ux1hjh.webp)<br>出自作品：`p:hunter x hunter`<br><br>小滴·紫（日语：シズク=ムラサキ）港译小霞，《猎人》中的角色。 | [Fandom](https://hunterxhunter.fandom.com/zh/wiki/小滴?variant=zh-cn) |
 | karin kurosaki | 黑崎真咲 | ![](https://ehgt.org/w/00/004/34785-5zfspxp9.webp)<br>出自作品：`p:bleach`<br><br>黑崎夏梨（日語：黒崎 夏梨／くろさき かりん Kurosaki Karin）是日本漫畫《BLEACH》中的角色。她是主角黑崎一護的妹妹，與黑崎遊子是雙胞胎姐妹。 | [萌娘百科](https://zh.moegirl.org.cn/黑崎真咲) |
