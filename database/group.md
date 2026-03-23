@@ -8617,7 +8617,7 @@ example:
 | nita ken | ニタ研 |  |  |
 | nita-kane | 煮た鐘 |  |  |
 | nitaroutei | ニタロウ亭 |  |  |
-| nicchi sangyou | にっちさんぎょう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07713.html) |
+| nicchi sangyou | にっちさんぎょう |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG07713.html) \| [DLsite](https://ci-en.dlsite.com/creator/1224) |
 | nitiniti sowa | 日々草話 |  |  |
 | niwakakamikiriyamodoki | ニワカカミキリヤモドキ |  |  |
 | niwatori | にわとり |  |  |
