@@ -8820,6 +8820,7 @@ example:
 | ultraseven | 赛文 | 所属作品：`ultraman` |  |
 | xiao wu | 小舞 |  |  |
 | ah yin | 阿银 |  |  |
+| bo saixi | 波塞西 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
