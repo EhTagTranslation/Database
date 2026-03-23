@@ -1303,7 +1303,7 @@ example:
 | imachi | いまち |  |  |
 | momiyama | もみやま |  |  |
 | shimantogawa | 四万十川 |  |  |
-| zhen lu | 珍绿 |  |  |
+| zhen lu | 珍绿 |  | [pixiv](https://www.pixiv.net/users/410812) \| [Pawoo](https://pawoo.net/@peter781226) \| [X](https://x.com/peter781226) \| [plurk](https://www.plurk.com/peter781226) |
 | devilhs | Devil\_HS |  |  |
 | aina nana | 愛菜奈々 |  |  |
 | yokoshima takemaru | 邪武丸 |  |  |
