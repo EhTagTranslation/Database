@@ -1424,7 +1424,7 @@ example:
 | akira yoshii | 吉井玲 |  |  |
 | hideyoshi kinoshita | 木下秀吉 |  |  |
 | yuuko kinoshita | 木下优子 |  |  |
-| mizuki himeji | 姬路瑞希 |  |  |
+| mizuki himeji | 姬路瑞希 | ![](https://ehgt.org/w/02/106/61113-4xdsrtar.webp)<br>所属作品：`baka to test to shoukanjuu` |  |
 | minami shimada | 岛田美波 | ![](https://thumbsnap.com/i/EyPaGMW6.jpg)<br>出自《`p:baka to test to shoukanjuu`》<br>岛田美波是井上坚二创作的轻小说《笨蛋、测验、召唤兽》及其衍生作品的登场角色，女主角之一 。 | [萌娘百科](https://zh.moegirl.org.cn/岛田美波) |
 | hazuki shimada | 岛田叶月 |  |  |
 | yuuji sakamoto | 坂本雄二 |  |  |
