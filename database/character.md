@@ -8819,7 +8819,7 @@ example:
 | vivy | 薇薇 | ![](https://static.wikia.nocookie.net/vivy-fluorite-eyes-song6914/images/a/ae/Vivy_Anime_Design.png)<br>所属作品：`vivy fluorite eyes song`<br>日语：ヴィヴィ |  |
 | ultraseven | 赛文 | 所属作品：`ultraman` |  |
 | xiao wu | 小舞 |  |  |
-| ah yin | 阿银 |  |  |
+| ah yin | 阿银 | ![](https://static.wikia.nocookie.net/soulland/images/3/39/AhYin_Anime_EP_111.png)<br>所属作品：`douluo continent` |  |
 | bo saixi | 波塞西 |  |  |
 | crazy dave | 疯狂戴夫 |  |  |
 | baseball zombie | 棒球僵尸 |  |  |
