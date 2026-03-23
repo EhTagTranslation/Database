@@ -8823,6 +8823,7 @@ example:
 | bo saixi | 波塞西 |  |  |
 | crazy dave | 疯狂戴夫 |  |  |
 | baseball zombie | 棒球僵尸 |  |  |
+| shifu | 师傅（功夫熊猫） |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
