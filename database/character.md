@@ -8824,6 +8824,7 @@ example:
 | crazy dave | 疯狂戴夫 |  |  |
 | baseball zombie | 棒球僵尸 |  |  |
 | shifu | 师傅（功夫熊猫） |  |  |
+| po | 阿宝 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
