@@ -4535,7 +4535,7 @@ example:
 | dia viekone | 蒂雅·维科尼 | ![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png)<br>所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br>卢各·图哈德的表姐、魔法启蒙老师、初恋。 | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
 | ezio auditore | 艾吉奥·奥迪托雷 |  |  |
 | sofia sartor | 索菲亚·萨尔托 |  |  |
-| tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
+| tang wutong | 唐舞桐 | ![](https://ehgt.org/w/01/982/77283-4duv440k.webp)<br>所属作品: `p:douluo continent` |  |
 | maryland | 马里兰 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/8b608b4d911c13244aab8639967c54d3262400697.png) | [https://zh.kcwiki.cn/wiki/马里兰](https://zh.kcwiki.cn/wiki/马里兰) |
 | shinyou | 神鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
 | yawata maru | 八幡丸 \| 云鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:八幡丸) |
