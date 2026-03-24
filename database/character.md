@@ -8830,6 +8830,7 @@ example:
 | lan mengqin | 蓝梦琴 | ![](https://static.wikia.nocookie.net/soulland/images/2/26/7acb0a46f21fbe096b63f37f4c2a1b338744ebf8070c.jpg)<br>所属作品：`douluo continent` |  |
 | ye lingtong | 叶灵瞳 | ![](https://static.wikia.nocookie.net/soulland/images/e/e6/U_199873914_4067638646%26fm_173%26app_49%26f_JPEG.jpeg)<br>所属作品：`douluo continent` |  |
 | sheng ming | 生命女神 | ![](https://static.wikia.nocookie.net/soulland/images/a/ac/Shen_Ming_001.jpeg)<br>所属作品：`douluo continent` |  |
+| fumi manjoume | 万城目富美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7f/21/7981_crt_anidb.jpg)<br>所属作品：`aoi hana`<br>日语：万城目 ふみ | [Bangumi](https://bgm.tv/character/7981) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
