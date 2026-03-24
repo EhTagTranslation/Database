@@ -2754,6 +2754,7 @@ example:
 | otome renshin prister | 乙女恋心プリスター | ![](https://t.vndb.org/cv.t/52/100752.jpg)<br>日本游戏公司 ‌エスクード‌（Eskudo）制作的恋爱养成游戏。 |  |
 | aoi hana | 青之花 | ![](https://lain.bgm.tv/r/400/pic/cover/l/26/12/1758_3GntO.jpg)<br>日语：青い花 |  |
 | akuyaku reijou tensei oji-san | 中年大叔转生反派千金 | ![](https://static.wikia.nocookie.net/dubbing9585/images/5/5e/From_Bureaucrat_to_Villainess_Dad%27s_Been_Reincarnated!.jpg)<br>日语：悪役令嬢転生おじさん<br>《秃头大叔转生成反派大小姐》是由日本漫画家上山道郎创作的漫画。 |  |
+| yuusha party ni kawaii ko ga ita node kokuhaku shite mita. | 身为魔族的我 想向勇者小队的可爱女孩告白 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/b2/333464_Ss0MQ.jpg)<br>日语：勇者パーティーにかわいい子がいたので、告白してみた |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
