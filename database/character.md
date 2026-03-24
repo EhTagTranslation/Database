@@ -8841,6 +8841,7 @@ example:
 | ririko futamihara | 二见原莉莉子 | ![](https://t.vndb.org/ch/02/180602.jpg)<br>所属作品：`limelight lemonade jam`<br>日语：二見原 莉々子 |  |
 | odei no atou | 污泥之阿荼 | ![](https://ehgt.org/w/02/182/60779-nragpn3s.webp)<br>所属作品：`isekai mokushiroku mynoghra` |  |
 | kos-mos | KOS-MOS | ![](https://static.wikia.nocookie.net/projectxzone/images/a/a4/PXZ2-KOS-MOS.png)<br>所属作品：`xenosaga` |  |
+| koudai chinkyuu | 陈宫公台 | ![](https://static.wikia.nocookie.net/ikkitousen/images/e/e1/Koudai_Chikyuu.jpg)<br>所属作品：`ikkitousen` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
