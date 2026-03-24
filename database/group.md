@@ -4323,7 +4323,7 @@ example:
 | dolce einsatz | Dolce Einsatz |  |  |
 | dolcecanto | DolceCanto |  |  |
 | dolkavtahn | Dolkavtahn |  |  |
-| doll play | DOLL PLAY |  |  |
+| doll play | DOLL PLAY |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=76244/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG42230.html) |
 | dom joshidan | ドM女史団 |  |  |
 | dom kishidan | ドM騎士団 |  |  |
 | domestic animals | Domestic animals |  |  |
