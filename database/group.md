@@ -13594,7 +13594,7 @@ example:
 | pride beans | プライドビーンズ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG52418.html) |
 | qruppo | Qruppo |  |  |
 | pouchism | pouchism |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01061678.html) \| [X](https://x.com/pouchism) \| [pixiv](https://www.pixiv.net/users/121441053) |
-| marin mate | まりんメイト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000564.html) |
+| marin mate | まりんメイト |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01000564.html) \| [pixiv](https://www.pixiv.net/users/87134400) |
 | kaminshitsu | 仮眠室 |  | [pixiv](https://www.pixiv.net/users/59768037) |
 | shaberu suiteki | 喋る水滴 |  |  |
 | nechosuke. | ねちょすけ。 |  |  |
