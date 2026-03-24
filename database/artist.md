@@ -15031,6 +15031,7 @@ example:
 | kiseenu | き せ え ぬ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG57587.html) |
 | iwanako | いわなこ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=212296/) |
 | rig-pa | りくぱ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=creator/id=9cbe6d92-c77f-4366-bcaf-d07f432cca94/section=mens/) |
+| akubishin | アクビシン |  | [pixiv](https://www.pixiv.net/users/39874057) |
 
 <!--TEMPLATE:
 |  |  |  |  |
