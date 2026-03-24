@@ -2753,7 +2753,7 @@ example:
 | vivy fluorite eyes song | 薇薇 -萤石眼之歌- | ![](https://upload.wikimedia.org/wikipedia/en/a/a9/Vivy_Fluorite_Eye’s_Song_key_visual.jpg)<br>由江崎慎平执导，长月达平、梅原英司编剧，Wit Studio制作的原创电视动画作品。 |  |
 | otome renshin prister | 乙女恋心プリスター | ![](https://t.vndb.org/cv.t/52/100752.jpg)<br>日本游戏公司 ‌エスクード‌（Eskudo）制作的恋爱养成游戏。 |  |
 | aoi hana | 青之花 | ![](https://lain.bgm.tv/r/400/pic/cover/l/26/12/1758_3GntO.jpg)<br>日语：青い花 |  |
-| akuyaku reijou tensei oji-san | 中年大叔转生反派千金 | ![](https://static.wikia.nocookie.net/dubbing9585/images/5/5e/From_Bureaucrat_to_Villainess_Dad%27s_Been_Reincarnated!.jpg) |  |
+| akuyaku reijou tensei oji-san | 中年大叔转生反派千金 | ![](https://static.wikia.nocookie.net/dubbing9585/images/5/5e/From_Bureaucrat_to_Villainess_Dad%27s_Been_Reincarnated!.jpg)<br>日语：悪役令嬢転生おじさん<br>《秃头大叔转生成反派大小姐》是由日本漫画家上山道郎创作的漫画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
