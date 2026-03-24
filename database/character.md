@@ -3154,7 +3154,7 @@ example:
 | kotoha | 青山琴叶 |  |  |
 | ringo oohoshi | 大星林檎 |  |  |
 | shinobu sarutobi | 猿飞忍 |  |  |
-| keine kanzaki | 神崎桂音 |  |  |
+| keine kanzaki | 神崎桂音 | ![](https://static.wikia.nocookie.net/highschoolprodigies/images/4/43/237354.jpg)<br>所属作品：`choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu` |  |
 | aoi ichijou | 一条葵 |  |  |
 | lyrule | 莉露露 | ![](https://ehgt.org/w/01/971/99202-9aitvcsf.webp)<br>所属作品：`choujin koukousei-tachi wa isekai demo yoyuu de ikinuku you desu` |  |
 | naofumi iwatani | 岩谷尚文（盾之勇者） |  |  |
