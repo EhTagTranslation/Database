@@ -8837,6 +8837,7 @@ example:
 | luong | 梁 | ![](https://static.wikia.nocookie.net/snk/images/5/51/Heroine-luong.png)<br>所属作品：`king of fighters` |  |
 | sophia claudel | 索菲亚·克罗蒂尔 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/0/00/Sophia_clodel.webp)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou`<br>日语：ソフィア・クローデル |  |
 | luna flockhart | 露娜·弗洛克哈特 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/c/cd/Luna_flockhart.webp)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou`<br>日语：ルナ・フロックハート |  |
+| evanescia | 绯英 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Character_Evanescia_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
