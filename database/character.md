@@ -8832,6 +8832,7 @@ example:
 | sheng ming | 生命女神 | ![](https://static.wikia.nocookie.net/soulland/images/a/ac/Shen_Ming_001.jpeg)<br>所属作品：`douluo continent` |  |
 | fumi manjoume | 万城目富美 | ![](https://lain.bgm.tv/r/400/pic/crt/l/7f/21/7981_crt_anidb.jpg)<br>所属作品：`aoi hana`<br>日语：万城目 ふみ | [Bangumi](https://bgm.tv/character/7981) |
 | grace auvergne | 格蕾丝·宪三郎 | ![](https://ehgt.org/w/02/111/71543-52vf3nmr.webp)<br>所属作品：`akuyaku reijou tensei oji-san` |  |
+| cecilia aquarain | 赛西莉亚·阿奎莱恩 | ![](https://yuukawa-anime.com/wordpress/wp-content/themes/yuukawa/images/character2.png)<br>所属作品：`yuusha party ni kawaii ko ga ita node kokuhaku shite mita.`<br>日语：セシリア |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
