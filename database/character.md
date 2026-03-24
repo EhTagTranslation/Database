@@ -1729,7 +1729,7 @@ example:
 | android 16 | 人造人16号 |  |  |
 | android 18 | 人造人18号 |  |  |
 | android 21 | 人造人21号 |  |  |
-| videl | 比迪丽 |  |  |
+| videl | 比迪丽 | ![](https://ehgt.org/w/02/165/66781-k0v40rnh.webp)<br>比迪丽（日语：ビーデル）是由鸟山明所创作的漫画《龙珠》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/比迪丽) |
 | son goku | 孙悟空 |  |  |
 | spopovich | 斯波比奇 |  |  |
 | vegeta | 贝吉塔 |  |  |
