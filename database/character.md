@@ -8839,6 +8839,7 @@ example:
 | luna flockhart | 露娜·弗洛克哈特 | ![](https://static.wikia.nocookie.net/jack-of-all-trades-party-of-none/images/c/cd/Luna_flockhart.webp)<br>所属作品：`yuusha party wo oidasareta kiyoubinbou`<br>日语：ルナ・フロックハート |  |
 | evanescia | 绯英 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Character_Evanescia_Splash_Art.png)<br>所属作品：`honkai star rail` |  |
 | ririko futamihara | 二见原莉莉子 | ![](https://t.vndb.org/ch/02/180602.jpg)<br>所属作品：`limelight lemonade jam`<br>日语：二見原 莉々子 |  |
+| odei no atou | 污泥之阿荼 | ![](https://ehgt.org/w/02/182/60779-nragpn3s.webp)<br>所属作品：`isekai mokushiroku mynoghra` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
