@@ -8834,6 +8834,7 @@ example:
 | grace auvergne | 格蕾丝·宪三郎 | ![](https://ehgt.org/w/02/111/71543-52vf3nmr.webp)<br>所属作品：`akuyaku reijou tensei oji-san` |  |
 | cecilia aquarain | 赛西莉亚·阿奎莱恩 | ![](https://yuukawa-anime.com/wordpress/wp-content/themes/yuukawa/images/character2.png)<br>所属作品：`yuusha party ni kawaii ko ga ita node kokuhaku shite mita.`<br>日语：セシリア |  |
 | pax shirone | 帕库斯·西隆 | ![](https://static.wikia.nocookie.net/mushokutensei/images/2/2c/Pax-Anime-FullBody.png)<br>所属作品：`mushoku tensei`<br>日语：パックス・シーローン |  |
+| luong | 梁 | ![](https://static.wikia.nocookie.net/snk/images/5/51/Heroine-luong.png)<br>所属作品：`king of fighters` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
