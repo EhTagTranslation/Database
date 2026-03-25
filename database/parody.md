@@ -2756,6 +2756,7 @@ example:
 | akuyaku reijou tensei oji-san | 中年大叔转生反派千金 | ![](https://static.wikia.nocookie.net/dubbing9585/images/5/5e/From_Bureaucrat_to_Villainess_Dad%27s_Been_Reincarnated!.jpg)<br>日语：悪役令嬢転生おじさん<br>《秃头大叔转生成反派大小姐》是由日本漫画家上山道郎创作的漫画。 |  |
 | yuusha party ni kawaii ko ga ita node kokuhaku shite mita. | 身为魔族的我 想向勇者小队的可爱女孩告白 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/b2/333464_Ss0MQ.jpg)<br>日语：勇者パーティーにかわいい子がいたので、告白してみた |  |
 | isekai mokushiroku mynoghra | 异世界默示录麦诺格拉 | ![](https://static.wikia.nocookie.net/mynoghra/images/3/3f/Mynoghra-LN-JP-v08-Cover.png)<br>《异世界默示录麦诺格拉͏～从毁灭文明开始征服世界～》是鹿角フェフ创作的网络小说作品。<br>日语：異世界黙示録マイノグーラ～破滅の文明で始める世界征服～ |  |
+| super noobs | 超级菜鸟 | ![](https://static.wikia.nocookie.net/super-noobs/images/7/7e/Season1.png)<br>美国儿童动画片 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
