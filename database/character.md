@@ -8842,6 +8842,7 @@ example:
 | odei no atou | 污泥之阿荼 | ![](https://ehgt.org/w/02/182/60779-nragpn3s.webp)<br>所属作品：`isekai mokushiroku mynoghra` |  |
 | kos-mos | KOS-MOS | ![](https://static.wikia.nocookie.net/projectxzone/images/a/a4/PXZ2-KOS-MOS.png)<br>所属作品：`xenosaga` |  |
 | koudai chinkyuu | 陈宫公台 | ![](https://static.wikia.nocookie.net/ikkitousen/images/e/e1/Koudai_Chikyuu.jpg)<br>所属作品：`ikkitousen` |  |
+| aku | 亚可 | ![](https://static.wikia.nocookie.net/demon-lord-retry/images/3/32/Aku_full.png)<br>所属作品：`maou-sama retry` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
