@@ -8849,6 +8849,7 @@ example:
 | yakumo tsukamoto | 冢本八云 | ![](https://lain.bgm.tv/r/400/pic/crt/l/03/1f/165_crt_Hhtxx.jpg)<br>所属作品：`school rumble` |  |
 | tenma tsukamoto | 冢本天满 | ![](https://lain.bgm.tv/r/400/pic/crt/l/0a/25/173_crt_wggDe.jpg)<br>所属作品：`school rumble` |  |
 | karen ichijou | 一条可怜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/a5/2021_crt_anidb.jpg)<br>所属作品：`school rumble` |  |
+| itoko osakabe | 刑部弦子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/59/2069_crt_anidb.jpg)<br>所属作品：`school rumble` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
