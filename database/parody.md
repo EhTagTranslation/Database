@@ -2426,7 +2426,7 @@ example:
 | kemeko deluxe | 钢铁新娘 |  | [维基百科](https://zh.wikipedia.org/wiki/钢铁新娘) |
 | super gals | 辣妹当家 |  | [维基百科](https://zh.wikipedia.org/wiki/辣妹當家) |
 | geten no hana | 下天之华 |  | [维基百科](https://zh.wikipedia.org/wiki/下天之華) [萌娘百科](https://zh.moegirl.org.cn/下天之华) [Fandom](https://koei.fandom.com/wiki/Geten_no_Hana) |
-| closers | CLOSERS |  | [维基百科](https://zh.wikipedia.org/wiki/CLOSERS) |
+| closers | 封印者 | ![](https://assets-prd.ignimgs.com/2023/01/13/closers-1673648298285.jpg)<br>《封印者》是一款由韩国Naddic Games公司开发，世纪天成代理的横版动作游戏。 | [维基百科](https://zh.wikipedia.org/wiki/CLOSERS) |
 | maou no ore ga dorei elf o yome ni shitanda ga dou medereba ii | 身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？ |  | [维基百科](https://zh.wikipedia.org/wiki/身為魔王的我娶了奴隸精靈為妻，該如何表白我的愛？) [萌娘百科](https://zh.moegirl.org.cn/身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？) |
 | girumasu | 虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS |  | [维基百科](https://zh.wikipedia.org/wiki/雖然是公會的櫃檯小姐，但因為不想加班所以打算獨自討伐迷宮頭目) [萌娘百科](https://zh.moegirl.org.cn/虽然是公会柜台小姐，但是因为讨厌加班所以要去单挑BOSS) |
 | crusher joe | 宇宙先锋 | 高千穗遥同名系列小说改编，安彦良和初监督动画。<br><br>长达四年的制作，于1983年3月12日上映的剧场版动画，与《幻魔大战》《`space battleship yamato` 完结篇》同期上映。<br><br>故事发生在2160年，在人类得以移民太阳系外的未来。从事于宇宙中的便利屋，被称作Crusher的主角Joe一行人，突然收到了一个特殊的委托——护送一位处于冷冻睡眠中的病重的大小姐前往行星Miccola…… | [Bangumi](https://bgm.tv/subject/74199) [维基百科（日语）](https://ja.wikipedia.org/wiki/クラッシャージョウ) |
