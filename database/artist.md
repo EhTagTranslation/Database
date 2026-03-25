@@ -6267,7 +6267,7 @@ example:
 | izumo ryo | 出雲りょう |  |  |
 | izuna kazuki | Izuna Kazuki |  |  |
 | izuna masaru | 飯綱まさる |  |  |
-| izure | いづれ |  |  |
+| izure | いづれ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=208323/) \| [FANBOX](https://idure.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/35356341) \| [X](https://x.com/idure_) \| [Fantia](https://fantia.jp/idure) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01003708.html) |
 | izurumi | いづるみ |  |  |
 | izushi juunin | 出石十人 |  |  |
 | j | ジェイ |  |  |
