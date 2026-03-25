@@ -8845,6 +8845,7 @@ example:
 | aku | 亚可 | ![](https://static.wikia.nocookie.net/demon-lord-retry/images/3/32/Aku_full.png)<br>所属作品：`maou-sama retry` |  |
 | luna elegant | 露娜·埃雷甘特 | ![](https://static.wikia.nocookie.net/demon-lord-retry/images/b/b3/Runa_full.png)<br>所属作品：`maou-sama retry` |  |
 | mikoto suou | 周防美琴 | ![](https://static.wikia.nocookie.net/animeandmangauniverse/images/6/6a/Char_mikoto.png)<br>所属作品：`school rumble` |  |
+| eri sawachika | 泽近爱理 | ![](https://static.wikia.nocookie.net/animeandmangauniverse/images/0/00/Char_eri.png)<br>所属作品：`school rumble` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
