@@ -5084,7 +5084,7 @@ example:
 | yuki sanada | 真田雪 | 来到江之岛的高中生。异常地不擅与人交流，有感今生尚未曾体会到交友滋味。紧张时脸容抽搐，仿如置身在水中无法呼吸。幼时双亲已去世，由奶奶照顾长大。 |  |
 | natsuki usami | 宇佐美夏树 | 土生土长的江之岛人。总会对周围的事物有些不满(尤其父亲)，母亲过世，只对妹妹和雪温柔。于钓鱼茶座“Hemming Way”打工，对钓鱼有丰富认识，技巧几近专业，店内拥有“钓鱼王子”的称号。 |  |
 | galleon | 伽莱翁 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/22/Zoom_3040544000_01.png)<br>所属作品：`granblue fantasy` |  |
-| asa mitaka | 三鹰朝 | 藤本树所作漫画《电锯人》第二部女主角。 | [萌娘百科][萌娘百科](https://zh.moegirl.org.cn/三鹰朝) |
+| asa mitaka | 三鹰朝 | ![](https://ehgt.org/w/02/187/79936-hq9u2svh.webp)<br>出自作品：`p:chainsaw man`<br><br>三鹰朝（日语：三鷹アサ）是由藤本树所创作漫画《电锯人》及其衍生作品的登场角色。第二部女主角。 | [萌娘百科](https://zh.moegirl.org.cn/三鹰朝) |
 | sayaka murano | 村野沙耶香 | 村野沙耶香（日语：村野 さやか，罗马字：Murano Sayaka）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![村野沙耶香](https://img.moegirl.org.cn/common/thumb/9/9b/Muranosayaka_img.png/280px-Muranosayaka_img.png) | [萌娘百科](https://zh.moegirl.org.cn/村野沙耶香) [Fandom](https://love-live.fandom.com/wiki/Sayaka_Murano) |
 | kaho hinoshita | 日野下花帆 | 日野下花帆（日语：日野下 花帆，罗马字：Hinoshita Kaho）是企划《莲之空女学院学园偶像俱乐部》及其衍生作品的登场角色。<br>![日野下花帆](https://img.moegirl.org.cn/common/thumb/d/d7/Kaho_img.png/280px-Kaho_img.png) | [萌娘百科](https://zh.moegirl.org.cn/日野下花帆) [Fandom](https://love-live.fandom.com/wiki/Kaho_Hinoshita) |
 | gravel | 砾 |  |  |
