@@ -2757,6 +2757,7 @@ example:
 | yuusha party ni kawaii ko ga ita node kokuhaku shite mita. | 身为魔族的我 想向勇者小队的可爱女孩告白 | ![](https://lain.bgm.tv/r/400/pic/cover/l/d0/b2/333464_Ss0MQ.jpg)<br>日语：勇者パーティーにかわいい子がいたので、告白してみた |  |
 | isekai mokushiroku mynoghra | 异世界默示录麦诺格拉 | ![](https://static.wikia.nocookie.net/mynoghra/images/3/3f/Mynoghra-LN-JP-v08-Cover.png)<br>《异世界默示录麦诺格拉͏～从毁灭文明开始征服世界～》是鹿角フェフ创作的网络小说作品。<br>日语：異世界黙示録マイノグーラ～破滅の文明で始める世界征服～ |  |
 | super noobs | 超级菜鸟 | ![](https://static.wikia.nocookie.net/super-noobs/images/7/7e/Season1.png)<br>美国儿童动画片 |  |
+| reality quest | 现实闯关 | ![](https://static.wikia.nocookie.net/reality-quest/images/a/af/Season_2.webp)<br>由韩国漫画家Joowoon Lee（이주운）与太成（태성）共同创作的漫画作品。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
