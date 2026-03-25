@@ -8844,6 +8844,7 @@ example:
 | koudai chinkyuu | 陈宫公台 | ![](https://static.wikia.nocookie.net/ikkitousen/images/e/e1/Koudai_Chikyuu.jpg)<br>所属作品：`ikkitousen` |  |
 | aku | 亚可 | ![](https://static.wikia.nocookie.net/demon-lord-retry/images/3/32/Aku_full.png)<br>所属作品：`maou-sama retry` |  |
 | luna elegant | 露娜·埃雷甘特 | ![](https://static.wikia.nocookie.net/demon-lord-retry/images/b/b3/Runa_full.png)<br>所属作品：`maou-sama retry` |  |
+| mikoto suou | 周防美琴 | ![](https://static.wikia.nocookie.net/animeandmangauniverse/images/6/6a/Char_mikoto.png)<br>所属作品：`school rumble` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
