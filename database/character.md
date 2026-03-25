@@ -8853,6 +8853,7 @@ example:
 | pollux | 波鲁克斯 |  |  |
 | william shakespeare | 威廉·莎士比亚 |  |  |
 | estella | 埃特拉 | 埃特拉，本名埃特拉·科尔，是游戏《明日方舟：终末地》及其衍生作品的登场角色<br>终末地Z7行动组成员，负责情报收集和通信任务，体力很差。埃特拉总是被不幸所环绕，时不时会语出惊人。她因为自身感官的迟钝反而有一些刺激性的爱好。理想是安稳地度过一生。 | [萌娘百科](https://zh.moegirl.org.cn/埃特拉) |
+| chadley | 查德利 | 出自作品：`p:final fantasy vii`<br><br>查德利，日本动作角色扮演游戏《最终幻想VII：重生》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/查德利/64128938) \| [Fandom](https://finalfantasysandbox.fandom.com/wiki/Chadley) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
