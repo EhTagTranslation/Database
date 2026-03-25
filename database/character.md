@@ -2222,7 +2222,7 @@ example:
 | meme oshino | 忍野咩咩 |  |  |
 | nadeko sengoku | 千石抚子 |  |  |
 | hitagi senjougahara | 战场原黑仪 | 所属作品：物语系列<br>![](https://ehgt.org/w/01/876/37544-kwsyznib.webp) |  |
-| tsubasa hanekawa | 羽川翼 |  |  |
+| tsubasa hanekawa | 羽川翼 | ![](https://ehgt.org/w/02/044/25275-2b2fac1h.webp)<br>出自作品：`p:bakemonogatari`<br><br>羽川翼（日语：羽川 翼 / はねかわ つばさ）是西尾维新创作的轻小说《物语系列》的主要角色之一。 | [萌娘百科](https://zh.moegirl.org.cn/羽川翼) |
 | suruga kanbaru | 神原骏河 |  |  |
 | mayoi hachikuji | 八九寺真宵 |  |  |
 | deishuu kaiki | 贝木泥舟 |  |  |
