@@ -8851,6 +8851,7 @@ example:
 | karen ichijou | 一条可怜 | ![](https://lain.bgm.tv/r/400/pic/crt/l/05/a5/2021_crt_anidb.jpg)<br>所属作品：`school rumble` |  |
 | itoko osakabe | 刑部弦子 | ![](https://lain.bgm.tv/r/400/pic/crt/l/32/59/2069_crt_anidb.jpg)<br>所属作品：`school rumble` |  |
 | pollux | 波鲁克斯 |  |  |
+| william shakespeare | 威廉·莎士比亚 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
