@@ -3343,7 +3343,7 @@ example:
 | duvalie | 杜巴莉 | 所属作品：`the legend of heroes`<br>![](https://ehgt.org/w/01/825/14181-ixueqc7n.webp) |  |
 | elise schwarzer | 爱丽榭·舒华泽 |  |  |
 | juna crawford | 悠娜·克劳弗德 |  |  |
-| renne bright | 玲·布莱特 | 玲（日语：レン；英语：Renne）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/玲%28轨迹系列%29) |
+| renne bright | 玲·布莱特 | ![](https://ehgt.org/w/02/106/51309-h7zknzhf.webp)<br>玲（日语：レン；英语：Renne）是Falcom旗下游戏《英雄传说 轨迹系列》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/蕾恩·布莱特) |
 | emma millstein | 艾玛·米尔斯汀 |  |  |
 | laura s. arseid | 劳拉·S·亚尔赛德 |  |  |
 | shirley orlando | 谢莉·奥兰多 |  | [萌娘百科](https://zh.moegirl.org.cn/谢莉·奥兰多) |
