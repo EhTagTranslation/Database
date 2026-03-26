@@ -8870,6 +8870,7 @@ example:
 | iko kirino | 雾乃依子 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/f/fd/Iko_Kirino_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 | clea dessendre | 克莱雅·德森德雷 | ![](https://static.wikia.nocookie.net/clair-obscur/images/d/df/Clea.jpeg)<br>所属作品：`clair obscur expedition 33` |  |
 | iroha sakayori | 酒寄彩叶 | ![](https://ehgt.org/w/02/264/34032-a3u7jotq.webp)<br>所属作品：`chou kaguya-hime` |  |
+| grace ashcroft | 格蕾丝·阿什克罗夫特 | ![](https://ehgt.org/w/02/312/33607-rf4t7u69.webp)<br>格蕾丝·阿什克罗夫特（Grace Ashcroft）是卡普空开发的生存恐怖游戏《生化危机9：安魂曲》的女主角。 | [百度百科](https://baike.baidu.com/item/格蕾丝·阿什克罗夫特/65756534) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
