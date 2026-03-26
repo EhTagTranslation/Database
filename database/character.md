@@ -8858,6 +8858,7 @@ example:
 | echo | 回声 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/OW_Echo.png)<br>所属作品：`overwatch` |  |
 | freja | 弗蕾娅 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/OW2_Freja.png)<br>所属作品：`overwatch` |  |
 | rio hohenheim | 里奥·霍恩海姆 | ![](https://static.wikia.nocookie.net/lifeline-operators-side/images/7/71/Rioboxartnatransparent.png)<br>所属作品：`operators side` |  |
+| alejandra | 亚历山德拉 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Alejandra.jpg)<br>出自作品：`p:overwatch` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
