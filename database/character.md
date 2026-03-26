@@ -8861,6 +8861,7 @@ example:
 | alejandra | 亚历山德拉 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/34/Alejandra.jpg)<br>出自作品：`p:overwatch` |  |
 | orisa | 奥丽莎 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/7/75/OW2-Orisa.png)<br>出自作品：`p:overwatch` |  |
 | reaper | 死神（守望先锋） | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/OW2_Reaper.png)<br>出自作品：`p:overwatch` |  |
+| hanzo | 岛田半藏 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/OW2_Hanzo.png)<br>出自作品：`p:overwatch` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
