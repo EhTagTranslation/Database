@@ -11918,7 +11918,7 @@ example:
 | wakuwaku shotaland | わくわくショタランド |  |  |
 | walpurgisnacht | Walpurgisnacht |  |  |
 | wamusho | わむショ |  |  |
-| wando wando | ワンドワンド |  |  |
+| wando wando | ワンドワンド |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34476.html) |
 | wanko-tei | わんこ亭 |  |  |
 | wankoroya | わんころ屋 |  |  |
 | wannyan club | ワンニャン倶楽部 |  |  |
