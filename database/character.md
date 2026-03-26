@@ -8866,6 +8866,7 @@ example:
 | huang yan | 黄嫣 | ![](https://ehgt.org/w/02/305/30466-8usrwxvc.webp)<br>所属作品：`wuchang fallen feathers` |  |
 | tatewaki kuno | 九能带刀 | ![](https://static.wikia.nocookie.net/ranma/images/4/43/Tatewaki_Kuno_%28Anime_2024%29.png)<br>所属作品：`ranma 12` |  |
 | rikka inohana | 井之华六花 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/39/Rikka_Inohana_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
+| arisu yamabuki | 山吹有栖 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/d/d8/Arisu_Yamabuki_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
