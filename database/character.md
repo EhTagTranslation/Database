@@ -1019,7 +1019,7 @@ example:
 | soldier 76 | 士兵：76 | ![](https://ehgt.org/6d/c7/6dc76e6b88bcc6e6b91ccc9b37f09f839d34e154-8146761-3267-2476-jpg_l.jpg) |  |
 | symmetra | 秩序之光 | ![](https://ehgt.org/bb/f2/bbf294ed0b338a6904b0dc30bbb569ad746de138-8759364-3267-2476-jpg_l.jpg) |  |
 | winston | 温斯顿 | ![](https://ehgt.org/51/f6/51f6bbc41f2ccd4023c895121b0b5870a903471d-8273965-3267-2476-jpg_l.jpg) |  |
-| sombra | 黑影 |  |  |
+| sombra | 黑影 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/d/d7/OW2_Sombra.png)<br>所属作品：`overwatch` |  |
 | ana | 安娜 |  |  |
 | ashe | 艾希（寒冰射手） | 所属作品：`league of legends`<br>![](https://patchwiki.biligame.com/images/lol/6/61/tvgec00yrctv1gz0nzj4tgbtcua4cs2.jpg) |  |
 |  | ▼ 光环 角色 |  |  |
