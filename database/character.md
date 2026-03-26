@@ -8865,6 +8865,7 @@ example:
 | mccree | 麦克雷 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/OW2_Cassidy.png)<br>出自作品：`p:overwatch` |  |
 | huang yan | 黄嫣 | ![](https://ehgt.org/w/02/305/30466-8usrwxvc.webp)<br>所属作品：`wuchang fallen feathers` |  |
 | tatewaki kuno | 九能带刀 | ![](https://static.wikia.nocookie.net/ranma/images/4/43/Tatewaki_Kuno_%28Anime_2024%29.png)<br>所属作品：`ranma 12` |  |
+| rikka inohana | 井之华六花 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/39/Rikka_Inohana_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
