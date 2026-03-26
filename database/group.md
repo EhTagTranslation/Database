@@ -13472,7 +13472,7 @@ example:
 | peimond | ペイモンド |  |  |
 | tonosama penguin | 殿様ペンギン |  |  |
 | seiki no hero | 性器のHERO |  |  |
-| chotto b-sen | ちょっとB専 |  |  |
+| chotto b-sen | ちょっとB専 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG43796.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=77814/) \| [pixiv](https://www.pixiv.net/users/39935888) \| [Skeb](https://skeb.jp/@tyottob) |
 | daraku sanpo | 堕落さんぽ |  |  |
 | tsuchinoko shigure | つちのこしぐれ |  |  |
 | inugoya | 狗戌犬 |  |  |
