@@ -5072,7 +5072,7 @@ example:
 | sharon | 莎郎 | 所属作品: `p:words worth`<br>莎郎，女主角，影之一族的最强女剑士，男主角的未婚妻和青梅竹马。喜欢最强的男性，险遭光之一族国王强奸玷污，后被男主角拯救，与之共赴爱河。 | [莎郎](https://bangumi.tv/character/23847) |
 | warlock | 术士 |  |  |
 | tamaki kotatsu | 环古达 | ![](https://ehgt.org/w/02/052/64545-cz27h3tg.webp)<br>所属作品：`enen no shouboutai` |  |
-| brigitte lindholm | 布丽吉塔·林德霍姆 | ![](https://ehgt.org/w/01/727/47742-cbtyp5ok.webp)<br>出自作品：`p:overwatch`<br><br>布丽吉塔（英语：Brigitte）是由暴雪出品的游戏《守望先锋》里的角色。 | [萌娘百科](https://zh.moegirl.org.cn/布丽吉塔·林德霍姆) |
+| brigitte lindholm | 布丽吉塔·林德霍姆 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/OW2_Brigitte.png)<br>出自作品：`p:overwatch` | [萌娘百科](https://zh.moegirl.org.cn/布丽吉塔·林德霍姆) |
 | tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
 | kamille bidan | 卡缪·比丹 | 翻译别称：卡缪·维丹 | [百度百科](https://baike.baidu.com/item/卡缪·维丹/7154634?fr=ge_ala)<br>[萌娘百科](https://zh.moegirl.org.cn/卡缪·比丹) |
 | delta | 德尔塔 | ①所属作品: `p:kage no jitsuryokusha ni naritakute`<br>戴尔塔（デルタ）暗影庭园「七影」的第四席。拥有即使在「七影」也突出的战斗能力，但是战斗方式粗暴，是人是物都会被破坏殆尽。<br>![](https://lain.bgm.tv/pic/crt/l/de/fe/106384_crt_RYUgJ.jpg?r=1675248318&_gl=1*1no7dbd*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5OTA1JGoxJGwwJGgw)<br><br>②德尔塔是由米哈游旗下的《`honkai gakuen`》及其衍生作品的登场角色。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Delta)<br><br>[萌娘百科](https://zh.moegirl.org.cn/德尔塔%28崩坏3%29) |
