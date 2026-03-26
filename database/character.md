@@ -8869,6 +8869,7 @@ example:
 | arisu yamabuki | 山吹有栖 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/d/d8/Arisu_Yamabuki_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 | iko kirino | 雾乃依子 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/f/fd/Iko_Kirino_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 | clea dessendre | 克莱雅·德森德雷 | ![](https://static.wikia.nocookie.net/clair-obscur/images/d/df/Clea.jpeg)<br>所属作品：`clair obscur expedition 33` |  |
+| iroha sakayori | 酒寄彩叶 | ![](https://ehgt.org/w/02/264/34032-a3u7jotq.webp)<br>所属作品：`chou kaguya-hime` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
