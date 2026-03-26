@@ -2761,6 +2761,7 @@ example:
 | operators side | 生命线 | ![](https://upload.wikimedia.org/wikipedia/en/5/5b/Lifeline_Coverart.png)<br>由索尼电脑娱乐开发并于 2003 年发行的生存恐怖冒险游戏。<br>在日本被称为 Operator's Side 。 |  |
 | wuchang fallen feathers | 明末：渊虚之羽 | ![](https://static.wikia.nocookie.net/wuchang-fallen-feathers/images/d/d8/Wuchang_keyart_dark.jpg)<br>由灵泽科技开发、505 Games发行的中式克苏鲁魂类ARPG游戏。 |  |
 | mayonaka heart tune | 午夜心旋律 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/1/18/Chapter_1_%28ENG%292.png)<br>五十岚正邦作画的漫画作品。 |  |
+| clair obscur expedition 33 | 光与影：33号远征队 | ![](https://upload.wikimedia.org/wikipedia/en/5/5a/Clair_Obscur%2C_Expedition_33_Cover_1.webp)<br>由Sandfall Interactive开发的法国美学与克苏鲁式黑暗幻想游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
