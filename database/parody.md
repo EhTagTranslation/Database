@@ -2758,6 +2758,7 @@ example:
 | isekai mokushiroku mynoghra | 异世界默示录麦诺格拉 | ![](https://static.wikia.nocookie.net/mynoghra/images/3/3f/Mynoghra-LN-JP-v08-Cover.png)<br>《异世界默示录麦诺格拉͏～从毁灭文明开始征服世界～》是鹿角フェフ创作的网络小说作品。<br>日语：異世界黙示録マイノグーラ～破滅の文明で始める世界征服～ |  |
 | super noobs | 超级菜鸟 | ![](https://static.wikia.nocookie.net/super-noobs/images/7/7e/Season1.png)<br>美国儿童动画片 |  |
 | reality quest | 现实闯关 | ![](https://static.wikia.nocookie.net/reality-quest/images/a/af/Season_2.webp)<br>由韩国漫画家Joowoon Lee（이주운）与太成（태성）共同创作的漫画作品。 |  |
+| operators side | 生命线 | ![](https://static.wikia.nocookie.net/lifeline-operators-side/images/c/cf/DemoLifeline.png)<br>由索尼电脑娱乐开发并于 2003 年发行的生存恐怖冒险游戏。<br>在日本被称为 Operator's Side 。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
