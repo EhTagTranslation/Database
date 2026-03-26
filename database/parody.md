@@ -2759,6 +2759,7 @@ example:
 | super noobs | 超级菜鸟 | ![](https://static.wikia.nocookie.net/super-noobs/images/7/7e/Season1.png)<br>美国儿童动画片 |  |
 | reality quest | 现实闯关 | ![](https://static.wikia.nocookie.net/reality-quest/images/a/af/Season_2.webp)<br>由韩国漫画家Joowoon Lee（이주운）与太成（태성）共同创作的漫画作品。 |  |
 | operators side | 生命线 | ![](https://upload.wikimedia.org/wikipedia/en/5/5b/Lifeline_Coverart.png)<br>由索尼电脑娱乐开发并于 2003 年发行的生存恐怖冒险游戏。<br>在日本被称为 Operator's Side 。 |  |
+| wuchang fallen feathers | 明末：虚渊之羽 | ![](https://static.wikia.nocookie.net/wuchang-fallen-feathers/images/d/d8/Wuchang_keyart_dark.jpg)<br>由灵泽科技开发、505 Games发行的中式克苏鲁魂类ARPG游戏。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
