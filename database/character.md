@@ -8868,6 +8868,7 @@ example:
 | rikka inohana | 井之华六花 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/3/39/Rikka_Inohana_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 | arisu yamabuki | 山吹有栖 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/d/d8/Arisu_Yamabuki_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
 | iko kirino | 雾乃依子 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/f/fd/Iko_Kirino_Anime.png)<br>所属作品：`mayonaka heart tune` |  |
+| clea dessendre | 克莱雅·德森德雷 | ![](https://static.wikia.nocookie.net/clair-obscur/images/d/df/Clea.jpeg)<br>所属作品：`clair obscur expedition 33` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
