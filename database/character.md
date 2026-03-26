@@ -8863,6 +8863,7 @@ example:
 | reaper | 死神（守望先锋） | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/8c/OW2_Reaper.png)<br>出自作品：`p:overwatch` |  |
 | hanzo | 岛田半藏 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/66/OW2_Hanzo.png)<br>出自作品：`p:overwatch` |  |
 | mccree | 麦克雷 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/a/a0/OW2_Cassidy.png)<br>出自作品：`p:overwatch` |  |
+| huang yan | 黄嫣 | ![](https://ehgt.org/w/02/305/30466-8usrwxvc.webp)<br>所属作品：`wuchang fallen feathers` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
