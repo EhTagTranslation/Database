@@ -8108,7 +8108,7 @@ example:
 | mountain topper | マウンテントッパー |  |  |
 | mousou aria | 妄想アリア |  |  |
 | mousou bussan | 妄想物産 |  |  |
-| mousou caution | 妄想Caution |  |  |
+| mousou caution | 妄想Caution |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG36531.html) \| [DLsite](https://ci-en.dlsite.com/creator/352) \| [daiaru](https://daiaru.com/) |
 | mousou colosseum | 妄想コロッセオ |  |  |
 | mousou endemic | 妄想エンデミック |  |  |
 | mousou engine | 妄想エンジン |  |  |
