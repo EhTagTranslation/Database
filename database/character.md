@@ -8856,6 +8856,7 @@ example:
 | chadley | 查德利 | 出自作品：`p:final fantasy vii`<br><br>查德利，日本动作角色扮演游戏《最终幻想VII：重生》及其衍生作品中的角色。 | [百度百科](https://baike.baidu.com/item/查德利/64128938) \| [Fandom](https://finalfantasysandbox.fandom.com/wiki/Chadley) |
 | illari | 伊拉锐 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2b/OW2_Illari.png)<br>所属作品：`overwatch` |  |
 | echo | 回声 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/b/bd/OW_Echo.png)<br>所属作品：`overwatch` |  |
+| freja | 弗蕾娅 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/3/31/OW2_Freja.png)<br>所属作品：`overwatch` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
