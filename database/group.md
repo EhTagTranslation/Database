@@ -11759,7 +11759,7 @@ example:
 | urabashi seisaku | 裏橋製作 |  |  |
 | urabb28 gou | uraBB28号 |  |  |
 | uradoori no nukemichi | 裏通りの抜け道 |  |  |
-| uradora mangan | 裏ドラ満貫 |  |  |
+| uradora mangan | 裏ドラ満貫 |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27407/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG16674.html) \| [DLsite](https://ci-en.dlsite.com/creator/4615) |
 | uragiri no doukutsu | うらぎりのどうくつ |  |  |
 | urahushigi | 裏不思議 |  |  |
 | urainutei | 裏イヌ亭 |  |  |
