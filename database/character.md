@@ -6514,7 +6514,7 @@ example:
 | yume irido | 伊理户结女 |  |  |
 | uta | 乌塔 | ![](https://ehgt.org/w/02/090/97901-kfgsemyq.webp)<br>出自作品：`p:one piece`<br><br>（日语：ウタ、英语：Uta）是《海贼王》系列剧场版《海贼王 红发歌姬》的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/乌塔) |
 | terakomari gandesblood | 黛拉可玛莉·岗德森布莱德 |  |  |
-| nihilego | 虚吾伊德 | 虚吾伊德是究极异兽的一种，代号为“ＵＢ０１：寄生物”。<br><br>虚吾伊德有着类似铃形水母的身体。半透明的上伞面周围环绕着一些白色的六角星标记，波浪形的伞缘呈亮蓝色。 | [https://www.pokemon.com/br/pokedex/nihilego](https://www.pokemon.com/br/pokedex/nihilego) |
+| nihilego | 虚吾伊德 | ![](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/793.png)<br>出自作品：`p:pokemon`<br><br>虚吾伊德是究极异兽的一种，代号为“ＵＢ０１：寄生物”。虚吾伊德有着类似铃形水母的身体。半透明的上伞面周围环绕着一些白色的六角星标记，波浪形的伞缘呈亮蓝色。 | [pokemon](https://www.pokemon.com/br/pokedex/nihilego) |
 | saki ayase | 绫濑沙季 |  |  |
 | erika amano | 天野艾丽嘉 |  |  |
 | sachi umino | 海野凪 |  |  |
