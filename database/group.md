@@ -2268,7 +2268,7 @@ example:
 | ciel-arc | しえるあーく |  |  |
 | meshi shinja | 饭信者 |  | [X](https://x.com/mesisinja) [pixiv](https://www.pixiv.net/users/73419977) [FANBOX](https://mesisinja.fanbox.cc/) [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50797.html) [DMM](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=200098/) |
 | ishimuraya | 石村屋 |  |  |
-| seika kairaku shoten | 圣华快乐书店 | 聖華快楽書店 |  |
+| seika kairaku shoten | 圣华快乐书店 | 聖華快楽書店 | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202464/) \| [FANBOX](https://elto0079.fanbox.cc/) \| [BOOTH](https://varesworld.booth.pm/) \| [pixiv](https://www.pixiv.net/users/5831713) \| [X](https://x.com/glanblue_0079) |
 | ringo no naru ki | 林檎のなる木 |  |  |
 | traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [X](https://x.com/doujintraya) |
 | kuzuya | 屑屋 |  |  |
