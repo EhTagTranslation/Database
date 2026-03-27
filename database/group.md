@@ -2486,7 +2486,7 @@ example:
 | abara ga itai | あばらが痛い |  |  |
 | abarenbow tengu | 暴れん坊天狗 |  |  |
 | abaretabi | 暴れ旅 |  |  |
-| abbey load | Abbey Load |  |  |
+| abbey load | アビィロード | Abbey Load | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=27412/) |
 | abdg encirclement formation | ABDG包囲網 |  |  |
 | abellcain | アベルカイン |  |  |
 | aberyu | 悪部流 |  |  |
