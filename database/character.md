@@ -8874,6 +8874,7 @@ example:
 | pride royal ivy | 普莱朵·罗耶尔·艾比 | ![](https://static.wikia.nocookie.net/the-most-heretical-last-boss-queen/images/b/b3/Pride.png)<br>所属作品：`higeki no genkyou to naru saikyou gedou last boss joou` |  |
 | futaba mihara | 三原双叶 | ![](https://static.wikia.nocookie.net/shinkalion/images/3/33/Futaba_Mihara.jpg)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：三原 フタバ |  |
 | azusa ueda | 上田梓 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/8e/60325_crt_n9B23.jpg?r=1516386645)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：うえだ アズサ |  |
+| taisei onari | 大成大成 | ![](https://static.wikia.nocookie.net/shinkalion/images/e/ef/Taisei_Onari.png)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：大成 タイセイ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
