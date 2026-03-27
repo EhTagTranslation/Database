@@ -5075,7 +5075,7 @@ example:
 | brigitte lindholm | 布丽吉塔·林德霍姆 | ![](https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/83/OW2_Brigitte.png)<br>出自作品：`p:overwatch` | [萌娘百科](https://zh.moegirl.org.cn/布丽吉塔·林德霍姆) |
 | tatsuya kaname | 鹿目达也 |  | [百度百科](https://baike.baidu.com/item/鹿目达也/7057849?fr=ge_ala) |
 | kamille bidan | 卡缪·比丹 | 翻译别称：卡缪·维丹 | [百度百科](https://baike.baidu.com/item/卡缪·维丹/7154634?fr=ge_ala)<br>[萌娘百科](https://zh.moegirl.org.cn/卡缪·比丹) |
-| delta | 德尔塔 | ①所属作品: `p:kage no jitsuryokusha ni naritakute`<br>戴尔塔（デルタ）暗影庭园「七影」的第四席。拥有即使在「七影」也突出的战斗能力，但是战斗方式粗暴，是人是物都会被破坏殆尽。<br>![](https://lain.bgm.tv/pic/crt/l/de/fe/106384_crt_RYUgJ.jpg?r=1675248318&_gl=1*1no7dbd*_ga*Nzg4MzExMjk0LjE3MjQ1NzQ0NDM.*_ga_1109JLGMHN*czE3NTcyODk1NDIkbzE1JGcxJHQxNzU3Mjg5OTA1JGoxJGwwJGgw)<br><br>②德尔塔是由米哈游旗下的《`honkai gakuen`》及其衍生作品的登场角色。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Delta)<br><br>[萌娘百科](https://zh.moegirl.org.cn/德尔塔%28崩坏3%29) |
+| delta | 德尔塔 | ①所属作品: `p:kage no jitsuryokusha ni naritakute`<br>![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/8/84/Delta_Game.png)<br>日语：デルタ，暗影庭园「七影」的第四席。<br><br>②德尔塔是由米哈游旗下的《`honkai gakuen`》及其衍生作品的登场角色。 | [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/Delta)<br><br>[萌娘百科](https://zh.moegirl.org.cn/德尔塔%28崩坏3%29) |
 | kyouko yuuki | 结城京子 | ![](https://static.wikia.nocookie.net/swordartonline/images/4/4f/Yuuki_Kyouko%27s_character_designs_%28booklet%29.png)<br>所属作品：`sword art online`<br>日语：結城京子 | [Fandom](https://swordartonline.fandom.com/wiki/Yuuki_Kyouko) |
 | maomao | 猫猫 | ![](https://ehgt.org/w/02/245/51912-mxy6orgg.webp)<br>所属作品：`kusuriya no hitorigoto` | [萌娘百科](https://zh.moegirl.org.cn/猫猫%28药师少女的独语%29#) |
 | chris redfield | 克里斯·雷德菲尔德 | 克里斯·雷德菲尔德是CAPCOM旗下著名恐怖游戏系列《生化危机》中的主角之一。 |  |
