@@ -15037,6 +15037,7 @@ example:
 | nakaharu yuuna | 仲春結菜 |  |  |
 | alna | あるな |  | [pixiv](https://www.pixiv.net/users/16594489) \| [X](https://x.com/Alna_12fal) \| [Skeb](https://skeb.jp/@Alna_Mu5fal) \| [FANBOX](https://www.fanbox.cc/@alna12fal) |
 | paya8 | Paya8 |  | [FANBOX](https://paya8.fanbox.cc/) \| [X](https://x.com/paya8_) \| [pixiv](https://www.pixiv.net/users/2269776) |
+| toratora | Toratora |  | [Patreon](https://www.patreon.com/cw/torara) |
 
 <!--TEMPLATE:
 |  |  |  |  |
