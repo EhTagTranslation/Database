@@ -2763,6 +2763,7 @@ example:
 | mayonaka heart tune | 午夜心旋律 | ![](https://static.wikia.nocookie.net/mayonaka-heart-tune/images/1/18/Chapter_1_%28ENG%292.png)<br>五十岚正邦作画的漫画作品。 |  |
 | clair obscur expedition 33 | 光与影：33号远征队 | ![](https://upload.wikimedia.org/wikipedia/en/5/5a/Clair_Obscur%2C_Expedition_33_Cover_1.webp)<br>由Sandfall Interactive开发的法国美学与克苏鲁式黑暗幻想游戏。 |  |
 | higeki no genkyou to naru saikyou gedou last boss joou | 身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力 | ![](https://static.wikia.nocookie.net/isekai/images/e/ec/Higeki_no_Genkyou_to_Naru_Saikyou_Gedou_Last_Boss_Joou_wa_Tami_no_Tame_ni_Tsukushimasu-Savior_00.jpg)<br>由OLM Team Yoshioka负责制作的动画作品。 |  |
+| okiraku ryoushu no tanoshii ryouchi bouei | 安闲领主的愉快领地防卫 | ![](https://static.wikia.nocookie.net/isekai/images/2/2d/Okiraku_Ryoushu_no_Tanoshii_Ryouchi_Bouei-_Seisankei_Majutsu_de_Na_mo_Naki_Mura_wo_Saikyou_no_Jousai_Toshi_ni.jpg)<br>赤池宗创作的轻小说。<br>全名：安闲领主的愉快领地防卫～用生产系魔术将无名村改造成最强要塞都市～ |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
