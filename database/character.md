@@ -8883,6 +8883,7 @@ example:
 | zuko | 苏科 | ![](https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png)<br>出自作品：`p:avatar the last airbender` | [Fandom](https://avatar.fandom.com/zh/wiki/蘇科?variant=zh-hans) |
 | ursa | 尔姝 | ![](https://huiji-public.huijistatic.com/avatar/uploads/a/a6/Ursa.png)<br>出自作品：`p:avatar the last airbender` | [灰机wiki](https://avatar.huijiwiki.com/wiki/尔姝) |
 | bond forger | 邦德·福杰 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8e/SPY×FAMILY04.jpg)<br>出自作品：`p:spy x family`<br><br>邦德·福杰是由远藤达哉创作的漫画《间谍过家家》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/邦德·福杰) |
+| sigrika | 西格莉卡 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/7c/Sigrika_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/zh/wiki/西格莉卡) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
