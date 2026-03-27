@@ -8880,6 +8880,7 @@ example:
 | akane nishino | 西野茜 | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/4/43/Akane_Nishino_AN.png)<br>所属作品：`kage no jitsuryokusha ni naritakute` |  |
 | victoria | 维多利亚 | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/3/39/Victoria-559_Anime.png)<br>所属作品：`kage no jitsuryokusha ni naritakute`<br>日语：ウィクトーリア |  |
 | panamera karla kaien | 帕娜梅拉·卡雷拉·凯恩 | ![](https://ehgt.org/w/02/272/89992-849ogswu.webp)<br>所属作品：`okiraku ryoushu no tanoshii ryouchi bouei`<br>日语：パナメラ・カレラ・カイエン |  |
+| zuko | 苏科 | ![](https://static.wikia.nocookie.net/avatar/images/4/4b/Zuko.png)<br>出自作品：`p:avatar the last airbender` | [Fandom](https://avatar.fandom.com/zh/wiki/蘇科?variant=zh-hans) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
