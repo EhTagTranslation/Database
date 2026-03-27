@@ -8873,6 +8873,7 @@ example:
 | grace ashcroft | 格蕾丝·阿什克罗夫特 | ![](https://ehgt.org/w/02/312/33607-rf4t7u69.webp)<br>格蕾丝·阿什克罗夫特（Grace Ashcroft）是卡普空开发的生存恐怖游戏《生化危机9：安魂曲》的女主角。 | [百度百科](https://baike.baidu.com/item/格蕾丝·阿什克罗夫特/65756534) |
 | pride royal ivy | 普莱朵·罗耶尔·艾比 | ![](https://static.wikia.nocookie.net/the-most-heretical-last-boss-queen/images/b/b3/Pride.png)<br>所属作品：`higeki no genkyou to naru saikyou gedou last boss joou` |  |
 | futaba mihara | 三原双叶 | ![](https://static.wikia.nocookie.net/shinkalion/images/3/33/Futaba_Mihara.jpg)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：三原 フタバ |  |
+| azusa ueda | 上田梓 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/8e/60325_crt_n9B23.jpg?r=1516386645)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：うえだ アズサ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
