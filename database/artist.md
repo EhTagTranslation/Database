@@ -15035,6 +15035,7 @@ example:
 | momose an | モモセアン \| 百瀬あん |  |  |
 | fukakutei | 不確定 |  | [pixiv](https://www.pixiv.net/users/116031015/) |
 | nakaharu yuuna | 仲春結菜 |  |  |
+| alna | あるな |  | [pixiv](https://www.pixiv.net/users/16594489) \| [X](https://x.com/Alna_12fal) \| [Skeb](https://skeb.jp/@Alna_Mu5fal) \| [FANBOX](https://www.fanbox.cc/@alna12fal) |
 
 <!--TEMPLATE:
 |  |  |  |  |
