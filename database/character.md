@@ -8876,6 +8876,7 @@ example:
 | azusa ueda | 上田梓 | ![](https://lain.bgm.tv/r/400/pic/crt/l/d7/8e/60325_crt_n9B23.jpg?r=1516386645)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：うえだ アズサ |  |
 | taisei onari | 大成大成 | ![](https://static.wikia.nocookie.net/shinkalion/images/e/ef/Taisei_Onari.png)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：大成 タイセイ |  |
 | ina onari | 大成伊奈 | ![](https://static.wikia.nocookie.net/shinkalion/images/3/38/Ina_Onari_erda.png)<br>所属作品：`shinkansen henkei robo shinkalion`<br>日语：大成 イナ |  |
+| asami gondou | 权藤亚沙美 | ![](https://static.wikia.nocookie.net/makeine/images/7/71/AnimeGondo2.png)<br>所属作品：`make heroine ga oosugiru` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
