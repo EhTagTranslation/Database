@@ -14905,7 +14905,7 @@ example:
 | bennosuki | ベンノスキー |  | [pixiv](https://www.pixiv.net/users/75318007) \| [pawoo](https://pawoo.net/@bennosuki_vtuber) \| [YouTube](https://www.youtube.com/channel/UCWqmWvy8HuqTreXRtV7i7MA) |
 | iya | い屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01024118.html) |
 | buuta | ぶうた |  | [BOOTH](https://densya101.booth.pm/) \| [FANBOX](https://buuta101.fanbox.cc) \| [Fantia](https://fantia.jp/fanclubs/23760) |
-| biwamaro | 琵琶麻呂 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22琵琶麻呂%22/ana_flg/all) |
+| biwamaro | 琵琶麻呂 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22琵琶麻呂%22/ana_flg/all) [pixiv](https://www.pixiv.net/users/95619311) [X](https://x.com/biwamaro) |
 | tonoka mottasu | 外岡もったす |  |  |
 | warabita hagure | 蕨田はぐれ |  |  |
 | matsumura ryuichi | 松村龍一 |  | [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22松村龍一%22/ana_flg/all) \| [FANBOX](https://bji5nrdh490788.fanbox.cc) \| [Fantia](https://fantia.jp/fanclubs/528879) |
