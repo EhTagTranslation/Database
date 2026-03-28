@@ -8895,6 +8895,7 @@ example:
 | babel tanit | 芭别尔·塔尼特 | ![](https://static.wikia.nocookie.net/gensin-impact/images/9/9e/NPC_Babel.png)<br>所属作品：`genshin impact` |  |
 | jeht ufairah hindi | 婕德·优菲·欣迪 | ![](https://static.wikia.nocookie.net/gensin-impact/images/7/77/NPC_Jeht.png)<br>所属作品：`genshin impact` |  |
 | rosemi lovelock | Rosemi Lovelock | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/c/ce/Rosemi_Lovelock_Portrait.png)<br>日语：ロゼミラブロック<br>此人物已从 Vtuber 行业引退 |  |
+| don corneo | 东·古留根尾 | ![](https://static.wikia.nocookie.net/finalfantasy/images/3/31/Don_Corneo_Final_Fantasy_VII_Remake_render.png)<br>所属作品：`final fantasy vii`<br>日语：ドン・コルネオ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
