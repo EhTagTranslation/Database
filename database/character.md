@@ -8891,6 +8891,7 @@ example:
 | christiana leta rosebreyer | 克莉丝蒂亚娜·雷塔·罗兹布雷亚 | ![](https://lain.bgm.tv/r/400/pic/crt/l/37/b2/169757_crt_Z4P8J.jpg)<br>所属作品：`ore wa seikan kokka no akutoku ryoushu` |  |
 | nias carlin | 妮雅丝·卡琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/41/90/169756_crt_dU7Mn.jpg)<br>所属作品：`ore wa seikan kokka no akutoku ryoushu`<br>日语：ニアス・カーリン |  |
 | fuyume hanamura | 花群冬芽 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/2/23/Yume_5.png)<br>所属作品：`ensemble stars` |  |
+| esu sagiri | 冴雾笑主 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Esu_5.png)<br>所属作品：`ensemble stars` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
