@@ -8893,6 +8893,7 @@ example:
 | fuyume hanamura | 花群冬芽 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/2/23/Yume_5.png)<br>所属作品：`ensemble stars` |  |
 | esu sagiri | 冴雾笑主 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Esu_5.png)<br>所属作品：`ensemble stars` |  |
 | babel tanit | 芭别尔 | ![](https://static.wikia.nocookie.net/gensin-impact/images/9/9e/NPC_Babel.png)<br>所属作品：`genshin impact` |  |
+| jeht ufairah hindi | 婕德·优菲·欣迪 | ![](https://static.wikia.nocookie.net/gensin-impact/images/7/77/NPC_Jeht.png)<br>所属作品：`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
