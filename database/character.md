@@ -2615,7 +2615,7 @@ example:
 | arle nadja | 阿露露 | 《噗哟噗哟》登场角色 |  |
 | tifa lockhart | 蒂法·洛克哈特 | ![](https://moegirl.uk/images/2/2f/蒂法·洛克哈特（最终幻想VII重制版宣传图）.png)<br>本名:	ティファ·ロックハート/Tifa Lockhart<br>別號:	耶路撒冷<br>髮色:	黑褐髮<br>瞳色:	紅瞳<br>身高:	167cm<br>三圍:	92-60-88 |  |
 | aerith gainsborough | 艾瑞丝·盖恩斯巴勒 | ![](https://static.wikia.nocookie.net/finalfantasy/images/1/1f/Aerith_Gainsborough_from_FFVII_Rebirth_promo_render.png)<br>所属作品：`final fantasy vii` |  |
-| yuffie kisaragi | 尤菲·如月 |  |  |
+| yuffie kisaragi | 尤菲·如月 | ![](https://static.wikia.nocookie.net/finalfantasy/images/0/0a/Yuffie_Kisaragi_from_FFVII_Rebirth_promo_render.png)<br>所属作品：`final fantasy vii` |  |
 | fumie hashimoto | 桥本文惠 |  |  |
 | yuuko amasawa | 天泽勇子 |  |  |
 | yuuko okonogi | 小此木京子 |  |  |
