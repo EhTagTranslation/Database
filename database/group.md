@@ -5662,7 +5662,7 @@ example:
 | himitsu doyoubi | 秘密土曜日 |  |  |
 | himitsu kessha vanitas | 秘密結社ヴァニタス |  |  |
 | himitsu tetra | ひみつテトラ |  |  |
-| hinaeron | ひなえろん |  |  |
+| hinaeron | ひなえろん |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG35472.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=78133/) \| [DLsite](https://ci-en.dlsite.com/creator/5136) \| [pixiv](https://www.pixiv.net/users/2721063) \| [X](https://x.com/hinaeron) |
 | hinahara yashiki | ひなはら屋敷 |  |  |
 | hinahina box | HINAHINA BOX |  |  |
 | hinakan | ひなかん |  |  |
