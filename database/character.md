@@ -8892,6 +8892,7 @@ example:
 | nias carlin | 妮雅丝·卡琳 | ![](https://lain.bgm.tv/r/400/pic/crt/l/41/90/169756_crt_dU7Mn.jpg)<br>所属作品：`ore wa seikan kokka no akutoku ryoushu`<br>日语：ニアス・カーリン |  |
 | fuyume hanamura | 花群冬芽 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/2/23/Yume_5.png)<br>所属作品：`ensemble stars` |  |
 | esu sagiri | 冴雾笑主 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Esu_5.png)<br>所属作品：`ensemble stars` |  |
+| babel tanit | 芭别尔 | ![](https://static.wikia.nocookie.net/gensin-impact/images/9/9e/NPC_Babel.png)<br>所属作品：`genshin impact` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
