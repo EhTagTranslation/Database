@@ -14510,7 +14510,7 @@ example:
 | hashira14 | Hashira十四 |  |  |
 | ojitama | おじタマ |  |  |
 | chanja kojiki | チャンジャ乞食 |  |  |
-| sakazaki freddie | 坂崎ふれでぃ |  |  |
+| sakazaki freddie | 坂崎ふれでぃ |  | [pixiv](https://www.pixiv.net/users/41611) |
 | simesu | しめす |  |  |
 | souda mikan | 左右田柑 |  |  |
 | nekota hajime | 猫田始愛 | 猫田始愛 |  |
