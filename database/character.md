@@ -8894,6 +8894,7 @@ example:
 | esu sagiri | 冴雾笑主 | ![](https://static.wikia.nocookie.net/ensemble-stars/images/a/a0/Esu_5.png)<br>所属作品：`ensemble stars` |  |
 | babel tanit | 芭别尔·塔尼特 | ![](https://static.wikia.nocookie.net/gensin-impact/images/9/9e/NPC_Babel.png)<br>所属作品：`genshin impact` |  |
 | jeht ufairah hindi | 婕德·优菲·欣迪 | ![](https://static.wikia.nocookie.net/gensin-impact/images/7/77/NPC_Jeht.png)<br>所属作品：`genshin impact` |  |
+| rosemi lovelock | Rosemi Lovelock | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/c/ce/Rosemi_Lovelock_Portrait.png)<br>日语：ロゼミラブロック<br>此人物已从 Vtuber 行业引退 |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
