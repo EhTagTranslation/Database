@@ -13833,6 +13833,7 @@ example:
 | ue ue shita shita | 上上下下 |  |  |
 | f.b.f | F.B.F |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64728.html) \| [DLsite](https://ci-en.dlsite.com/creator/12946) \| [X](https://x.com/FBF67092036) |
 | studio nuco tower | Studioぬこたわ |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=79215/) |
+| freddie works | ふれでぃわーくす |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
