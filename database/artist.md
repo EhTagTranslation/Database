@@ -15039,6 +15039,7 @@ example:
 | paya8 | Paya8 |  | [FANBOX](https://paya8.fanbox.cc/) \| [X](https://x.com/paya8_) \| [pixiv](https://www.pixiv.net/users/2269776) |
 | toratora | Toratora |  | [Patreon](https://www.patreon.com/cw/torara) |
 | shikabanekamo | しかばねかも |  |  |
+| otto | おっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70345.html) \| [DLsite](https://ci-en.dlsite.com/creator/15818) |
 
 <!--TEMPLATE:
 |  |  |  |  |
