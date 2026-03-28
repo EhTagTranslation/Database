@@ -10083,7 +10083,7 @@ example:
 | satsukiimonet | satsukiimonet |  |  |
 | satsukinchi | サツキん家 |  |  |
 | saturday night special | Saturday Night Special |  |  |
-| aurorasoft | AuroraSoft | Satyrion |  |
+| aurorasoft | AuroraSoft | Satyrion | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=71432/) |
 | sausage koubou | ソーセージ工房 |  |  |
 | savageland | SavageLand |  |  |
 | sawa chaya | さわ茶屋 |  |  |
