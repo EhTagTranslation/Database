@@ -8885,6 +8885,7 @@ example:
 | bond forger | 邦德·福杰 | ![](https://storage.moegirl.org.cn/moegirl/commons/8/8e/SPY×FAMILY04.jpg)<br>出自作品：`p:spy x family`<br><br>邦德·福杰是由远藤达哉创作的漫画《间谍过家家》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/邦德·福杰) |
 | sigrika | 西格莉卡 | ![](https://static.wikia.nocookie.net/wutheringwaves/images/7/7c/Sigrika_Full_Sprite.png)<br>所属作品：`wuthering waves` | [Fandom](https://wutheringwaves.fandom.com/zh/wiki/西格莉卡) |
 | moskva | 莫斯科 | ![](https://azurlane.netojuu.com/images/thumb/c/cd/MoskvaWithoutBG.png/921px-MoskvaWithoutBG.png)<br>所属作品：`azur lane` |  |
+| sara anvilen | 赛菈·安比连 | ![](https://lain.bgm.tv/r/400/pic/crt/l/b0/0c/95789_crt_q2rg5.jpg)<br>所属作品：`omae gotoki ga maou ni kateru to omouna` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
