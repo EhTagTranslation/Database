@@ -13443,7 +13443,7 @@ example:
 | r koubou | あ～る工房 |  |  |
 | jumyou wa isshuukan. | 寿命は1週間。 |  |  |
 | hagure moguri | ハグレモグリ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68640.html) |
-| baketsu purin | バケツプリン |  |  |
+| baketsu purin | バケツプリン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG61395.html) |
 | genkai hatsudensho | 限界発電所 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01050695.html)<br>[https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226635/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=226635/) |
 | mattan hieshou | 末端冷え性 |  |  |
 | cafe momozuki | 喫茶モモヅキ |  |  |
