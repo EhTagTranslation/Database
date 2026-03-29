@@ -10636,7 +10636,7 @@ example:
 | soulfly | SOULFLY |  |  |
 | soulsonic | soulsonic |  |  |
 | souma books | SOUMA BOOKS |  |  |
-| sound milk | SOUND MILK |  |  |
+| sound milk | SOUND MILK |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG23413.html) |
 | sounds good | Sounds Good |  |  |
 | soundvillage | SoundVillage |  |  |
 | sousaku sekkei benran | 創作設計便覧 |  |  |
