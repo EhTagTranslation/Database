@@ -9130,7 +9130,7 @@ example:
 | osyakana | おしゃかな |  |  |
 | otakehiko | 雄竹彦 |  |  |
 | othello | オセロ |  |  |
-| otochichi | 音乳 |  |  |
+| otochichi | 音乳 | 日：おとちち | [FANBOX](https://otochichi-69.fanbox.cc) \| [DLsite](https://www.dlsite.com/maniax/fsr/=/keyword_creater/%22おとちち%22/ana_flg/all) |
 | otogi | おとぎ |  |  |
 | otogi tetsurou | おとぎてつろう |  |  |
 | otohiko | 音彦 |  |  |
