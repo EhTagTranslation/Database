@@ -8898,6 +8898,7 @@ example:
 | don corneo | 东·古留根尾 | ![](https://static.wikia.nocookie.net/finalfantasy/images/3/31/Don_Corneo_Final_Fantasy_VII_Remake_render.png)<br>所属作品：`final fantasy vii`<br>日语：ドン・コルネオ |  |
 | linnea | 莉奈娅 | ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Linnea_Introduction_Card.png)<br>所属作品：`genshin impact` |  |
 | hinako shimizu | 深水雏子 | ![](https://ehgt.org/w/02/322/99214-9qy0jnfi.webp)<br>出自作品：`p:silent hill`<br><br>深水雏子是游戏《寂静岭f》的女主角，由演员加藤小夏饰演，故事背景设定于1960年代日本偏远山区小镇“戎之丘”。 | [百度百科](https://baike.baidu.com/item/深水雏子?fromModule=lemma_search-box) |
+| eve reese | 夏娃·莉丝 | ![](https://static.wikia.nocookie.net/protagonists/images/3/3d/Eve_Full_Anime.png)<br>出自作品：`p:kaifuku jutsushi no yarinaoshi`<br><br>夏娃·莉丝，轻小说《回复术士的重启人生》及其衍生作品中的角色。黑翼族公主兼魔王候选人，拥有深红色眼瞳与黑色翅膀，发色与一周目魔王存在差异。 | [百度百科](https://baike.baidu.com/item/夏娃·莉丝/55975864) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
