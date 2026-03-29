@@ -14071,7 +14071,7 @@ example:
 | nakayoshi | なかよShi |  |  |
 | momono eri | 桃野衿 |  |  |
 | uyuu | 烏有 |  |  |
-| doraias kazuyo | ドライアス一世 |  |  |
+| doraias kazuyo | ドライアス一世 |  | [FANBOX](https://www.fanbox.cc/@doraias) \| [Skeb](https://skeb.jp/@doraiaskazuyo) \| [X](https://x.com/doraiaskazuyo1) \| [pixiv](https://www.pixiv.net/users/47837935) |
 | kokemomo | こけもも |  |  |
 | aa mou souiu koto ni naru | ああもうそういうことになる |  |  |
 | sawtatsu | そうたつ |  |  |
