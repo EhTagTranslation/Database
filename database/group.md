@@ -12669,7 +12669,7 @@ example:
 | mokkorihan | もっこりはん |  |  |
 | zenjidou shimoneta seizou machine | 全自動下ネタ製造マシーン |  |  |
 | shachi | しゃち |  |  |
-| mittsuman | みっつまん |  |  |
+| mittsuman | みっつまん |  | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202935/) \| [FANBOX](https://mittuman.fanbox.cc/) \| [BOOTH](https://mittuman.booth.pm/) \| [pixiv](https://www.pixiv.net/users/55741855) \| [X](https://x.com/douzin_mittuman) |
 | zyougesayuu | 上下左右 |  |  |
 | rakuenya | 乐园屋 |  |  |
 | torinoya | とりの屋 |  |  |
