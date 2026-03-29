@@ -8897,6 +8897,7 @@ example:
 | rosemi lovelock | Rosemi Lovelock | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/c/ce/Rosemi_Lovelock_Portrait.png)<br>日语：ロゼミラブロック<br>此人物已从 Vtuber 行业引退 |  |
 | don corneo | 东·古留根尾 | ![](https://static.wikia.nocookie.net/finalfantasy/images/3/31/Don_Corneo_Final_Fantasy_VII_Remake_render.png)<br>所属作品：`final fantasy vii`<br>日语：ドン・コルネオ |  |
 | linnea | 莉奈娅 | ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Linnea_Introduction_Card.png)<br>所属作品：`genshin impact` |  |
+| hinako shimizu | 深水雏子 | ![](https://ehgt.org/w/02/322/99214-9qy0jnfi.webp)<br>出自作品：`p:silent hill`<br><br>深水雏子是游戏《寂静岭f》的女主角，由演员加藤小夏饰演，故事背景设定于1960年代日本偏远山区小镇“戎之丘”。 | [百度百科](https://baike.baidu.com/item/深水雏子?fromModule=lemma_search-box) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
