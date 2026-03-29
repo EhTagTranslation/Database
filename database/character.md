@@ -472,7 +472,7 @@ example:
 | fujinami | 藤波 |  | [舰队Collection:藤波](https://zh.moegirl.org.cn/舰队Collection:藤波) |
 | uranami | 浦波(朴) | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/0e86c5b034603d24f0ff2f1561e9108e262400697.png)<br>旧日本帝国海军的特I型吹雪级驱逐舰十号舰“浦波”号（浦波(吹雪型駆逐艦)） | [碧蓝航线:浦波](https://zh.moegirl.org.cn/碧蓝航线:浦波) [舰队Collection:浦波](https://zh.moegirl.org.cn/舰队Collection:浦波) |
 | commandant teste | 特斯特长官 |  | [舰队Collection:特斯特长官](https://zh.moegirl.org.cn/舰队Collection:特斯特长官) |
-| richelieu | 黎塞留 | 法国海军的黎塞留号战列舰 | [碧蓝航线:黎塞留](https://zh.moegirl.org.cn/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org.cn/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org.cn/舰队Collection:黎塞留) |
+| richelieu | 黎塞留 | ![](https://azurlane.netojuu.com/images/thumb/8/86/Richelieu.png/1200px-Richelieu.png)<br>所属作品：`azur lane`<br>法国海军的黎塞留号战列舰 | [碧蓝航线:黎塞留](https://zh.moegirl.org.cn/碧蓝航线:黎塞留) [战舰少女:黎塞留](https://zh.moegirl.org.cn/战舰少女:黎塞留) [舰队Collection:黎塞留](https://zh.moegirl.org.cn/舰队Collection:黎塞留) |
 | i-400 | 伊400 |  | [舰队Collection:伊400](https://zh.moegirl.org.cn/舰队Collection:伊400) |
 | i-13 | 伊13 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/3b3f2d6cd2e49205db773f352c58e885262400697.png)<br>旧日本帝国海军的伊号第十三潜水舰（伊号第十三潜水艦） | [碧蓝航线:伊13](https://zh.moegirl.org.cn/碧蓝航线:伊13) [舰队Collection:伊13](https://zh.moegirl.org.cn/舰队Collection:伊13) |
 | i-14 | 伊14 |  | [舰队Collection:伊14](https://zh.moegirl.org.cn/舰队Collection:伊14) |
