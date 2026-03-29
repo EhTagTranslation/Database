@@ -15040,6 +15040,7 @@ example:
 | toratora | Toratora |  | [Patreon](https://www.patreon.com/cw/torara) |
 | shikabanekamo | しかばねかも |  |  |
 | otto | おっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70345.html) \| [DLsite](https://ci-en.dlsite.com/creator/15818) |
+| wakahi-chan | わかひちゃん |  | [X](https://x.com/raimy0099) |
 
 <!--TEMPLATE:
 |  |  |  |  |
