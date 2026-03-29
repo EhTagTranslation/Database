@@ -15041,6 +15041,7 @@ example:
 | shikabanekamo | しかばねかも |  |  |
 | otto | おっと |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG70345.html) \| [DLsite](https://ci-en.dlsite.com/creator/15818) |
 | wakahi-chan | わかひちゃん |  | [X](https://x.com/raimy0099) |
+| glty07 | ゴル |  | [FANBOX](https://www.fanbox.cc/@glty07) \| [pixiv](https://www.pixiv.net/users/3276484) \| [X](https://x.com/glty07) |
 
 <!--TEMPLATE:
 |  |  |  |  |
