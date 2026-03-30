@@ -2768,6 +2768,7 @@ example:
 | ore wa seikan kokka no akutoku ryoushu | 我是星际国家的恶德领主 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6d/71/343684_nsJlL.jpg)<br>日本作家三嶋与梦创作的轻小说作品，并有同名改编漫画和动画。 |  |
 | active raid | 机动强袭室第八系 | ![](https://static.wikia.nocookie.net/csi-acgn/images/d/df/1st_Season_%28Visual1%29.jpg) |  |
 | tojima tanzaburo wa kamen rider ni naritai | 东岛丹三郎想成为假面骑士 |  |  |
+| magical explorer | 魔法★探险家 转生为成人游戏万年男二又怎样，我要活用游戏知识自由生活 | 《魔法★探险家 转生为成人游戏万年男二又怎样，我要活用游戏知识自由生活》（日语：マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる）是由入栖撰写的日本轻小说作品。 | [维基百科](https://zh.wikipedia.org/wiki/魔法★探險家_轉生為成人遊戲萬年男二又怎樣，我要活用遊戲知識自由生活) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
