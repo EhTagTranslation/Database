@@ -15046,6 +15046,7 @@ example:
 | kuron | クゥロン |  | [pixiv](https://www.pixiv.net/users/36114742) \| [X](https://x.com/kxuron) \| [Fantia](https://fantia.jp/kuron) \| [FANBOX](https://kxuron.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/8077) \| [pixiv](https://www.pixiv.net/users/36114417) \| [X](https://x.com/kuronjp) |
 | cathriell rue | Cathriell Rue |  | [X](https://x.com/CathriellRue) \|  [subscribestar](https://subscribestar.adult/cathriell-rue) |
 | aogiri | 蒼桐 旺 |  | [X](https://x.com/Aogiri_ou) \| [pixiv](https://www.pixiv.net/users/77118900) \| [FANBOX](https://aogiri-ou.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/323224) \| [Skeb](https://skeb.jp/@Aogiri_ou) |
+| shigao. | しがお。 |  | [pixiv](https://www.pixiv.net/users/53215) \| [X](https://x.com/shiga_666) \| [Pawoo](https://pawoo.net/@shigaraki666) \| [Skeb](https://skeb.jp/@shiga_666) |
 
 <!--TEMPLATE:
 |  |  |  |  |
