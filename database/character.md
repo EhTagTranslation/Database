@@ -4714,7 +4714,7 @@ example:
 | saya yakushi | 药子纱绫 | ![](https://patchwiki.biligame.com/images/ba/b/bf/ortudded3zii1i5w3ty7ffvujamr7pp.png)<br>![](https://patchwiki.biligame.com/images/ba/c/ca/l3of75sdbvdbagrmt93dmxpiwmcjqaz.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Saya) |
 | kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive`<br>联邦理事会防卫室主任，是基沃托斯各种治安工作的总负责人。下属有女武神警察学园的各部门。联邦学生会人力资源主任和体育主任支持她。<br>![](https://img.moegirl.org.cn/common/7/76/BA_Kaya.png) | [萌娘百科](https://zh.moegirl.org.cn/不知火花耶) |
 | mine aomori | 苍森美弥 | 所属作品：`p:blue archive`<br><br>圣三一综合学园所属，救护骑士团的团长，内心坚定且诚实，但也有激进一面的白衣战士。<br>![](https://patchwiki.biligame.com/images/ba/3/32/1icwfswm5ihotm1q3qcrn8iyg43x6yc.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mine) |
-| mina konoe | 近卫弥奈 | 所属作品：`p:blue archive`<br>山海经高级中学所属，学生会「玄龙门」的执行部长兼学生会长的护卫。<br>![](https://cdnimg-v2.gamekee.com/wiki2.0/images/w_908/h_1210/829/103682/2025/5/13/590212.png) |  |
+| mina konoe | 近卫弥奈 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/54/Mina_Portrait.png)<br>所属作品：`p:blue archive` |  |
 | marina ikekura | 池仓玛丽娜 | ![](https://patchwiki.biligame.com/images/ba/c/c0/8od0suem8f6pouddomkv5eefck0fbxz.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/池仓玛丽娜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Marina) |
 | eimi izumimoto | 和泉元艾米 | ![](https://patchwiki.biligame.com/images/ba/c/c9/labxdukagfampj52tifctfwuce2nsex.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Eimi) |
 | megu shimokura | 下仓惠 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/11/Megu_Swimsuit_Portrait.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Megu) |
