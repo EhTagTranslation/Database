@@ -3169,7 +3169,7 @@ example:
 | badis badis | バジスバジス |  |  |
 | baguri koubou | 馬栗工房 |  |  |
 | baguri sangyou | 馬栗産業 |  |  |
-| baidou tenpurya | 梅洞てんぷりゃー |  |  |
+| baidou tenpurya | 梅洞てんぷりゃー |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28779.html) \| [DLsite](https://ci-en.dlsite.com/creator/1647) \| |
 | baka to hasa me | バカトハサミ |  |  |
 | bakaitei | 馬隗亭 |  |  |
 | bakemonogakari | ばけものがかり |  |  |
