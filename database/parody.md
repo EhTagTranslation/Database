@@ -286,7 +286,7 @@ example:
 | final fantasy vii | 最终幻想7 |  |  |
 | final fantasy viii | 最终幻想8 |  |  |
 | final fantasy ix | 最终幻想IX |  |  |
-| final fantasy x | 最终幻想X |  |  |
+| final fantasy x | 最终幻想10 |  |  |
 | final fantasy x-2 | 最终幻想X-2 |  |  |
 | final fantasy xi | 最终幻想XI |  |  |
 | final fantasy xii | 最终幻想XII |  |  |
