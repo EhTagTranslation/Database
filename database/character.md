@@ -7230,7 +7230,7 @@ example:
 | mihato | 三羽户 |  |  |
 | chihiro fujimi | 藤见千寻 | 日本漫画《我的女神》及其衍生作品中的角色 |  |
 | kana | 花奈 | 所属作品：`bunny garden` |  |
-| tae shimura | 志村妙 | 所属作品：`gintama`<br>志村妙 - しむら たえ - Shimura Tae。<br>表面上是个十分COOL的美女,但一发怒便会凶暴化。 |  |
+| tae shimura | 志村妙 | ![](https://ehgt.org/w/02/324/13492-1b050asa.webp)<br>所属作品：`gintama`<br>日语：しむら たえ |  |
 | misaki ayuzawa | 鲇泽美咲 | ![](https://ehgt.org/w/01/704/00494-dovfjsjl.webp)<br>所属作品：`kaichou wa maid-sama` |  |
 | noel anderson | 诺埃尔·安德森 | 所属作品：`mobile suit gundam lost war chronicles`<br>诺埃尔·安德森 外文 Noel Anderson/ノエル・アンダーソン |  |
 | margit eberbach | 玛吉特埃贝·巴赫 | ![](https://ehgt.org/36/7e/367ef16bb7e881028fe5b57818f6da733e54cd00-235368-526-838-jpg_250.jpg)<br>所属作品：`maji de watashi ni koi shinasai` |  |
