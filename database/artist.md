@@ -15043,6 +15043,7 @@ example:
 | wakahi-chan | わかひちゃん |  | [X](https://x.com/raimy0099) |
 | glty07 | ゴル |  | [FANBOX](https://www.fanbox.cc/@glty07) \| [pixiv](https://www.pixiv.net/users/3276484) \| [X](https://x.com/glty07) |
 | haimen tayuta | 灰綿たゆた |  | [X](https://x.com/Bombe_bug) |
+| kuron | クゥロン |  | [pixiv](https://www.pixiv.net/users/36114742) \| [X](https://x.com/kxuron) \| [Fantia](https://fantia.jp/kuron) \| [FANBOX](https://kxuron.fanbox.cc/) \| [DLsite](https://ci-en.dlsite.com/creator/8077) \| [pixiv](https://www.pixiv.net/users/36114417) \| [X](https://x.com/kuronjp) |
 
 <!--TEMPLATE:
 |  |  |  |  |
