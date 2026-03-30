@@ -3563,7 +3563,7 @@ example:
 | zamasu | 扎马斯 |  |  |
 | kokoro | 心 | ![](https://static.wikia.nocookie.net/deadoralive/images/e/e0/C05_img.png)<br>所属作品：`dead or alive`<br>使用着八极拳，乐观活泼的女孩子。 |  |
 | christie | 克丽丝蒂·艾伦 | ![](https://static.wikia.nocookie.net/deadoralive/images/0/0c/Img-christie.png)<br>所属作品：`dead or alive`<br>日语：クリスティ<br>全名Christie Allen |  |
-| mila | 米拉 |  |  |
+| mila | 米拉 | ![](https://static.wikia.nocookie.net/deadoralive/images/e/e5/Img-mila.png)<br>所属作品：`dead or alive` |  |
 | hitomi | 瞳 |  |  |
 | raiden shogun | 雷电将军 | ![](https://patchwiki.biligame.com/images/ys/e/e6/7dufkza52g1gt75a7np0xuzsktw3o11.gif)<br>所属作品:`p:genshin impact`<br>其身为御建鸣神主尊大御所大人，许稻妻人民以亘古不变之「永恒」。 | [萌娘百科](https://zh.moegirl.org.cn/雷电影) |
 | musubi | 结 | ![](https://static.wikia.nocookie.net/sekirei/images/3/3f/02.jpg)<br>所属作品：`sekirei`<br>日语：むすび | [萌娘百科](https://zh.moegirl.org.cn/结%28鹡鸰女神%29#) |
