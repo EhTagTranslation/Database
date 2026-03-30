@@ -6812,7 +6812,7 @@ example:
 | irina shidou | 紫藤伊莉娜 | 所属作品：`highschool dxd`<br>![](https://i.pixiv.cat/c/540x540_70/img-master/img/2025/09/29/03/00/10/135661647_p0_master1200.jpg) |  |
 | kuroka | 黑歌 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/005/97488-od07zehq.webp) |  |
 | grayfia lucifuge | 葛瑞菲雅·路基弗古斯 | 所属作品：`highschool dxd`<br><br>![](https://ehgt.org/w/02/016/14353-gshsimds.webp) |  |
-| venelana gremory | 维妮拉娜·吉蒙里 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/033/57953-8ytmv6a5.webp) |  |
+| venelana gremory | 维妮拉娜·吉蒙里 | ![](https://ehgt.org/w/02/033/57953-8ytmv6a5.webp)<br>所属作品：`highschool dxd` |  |
 | serafall leviathan | 赛拉芙露·利维坦 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/035/54226-3b6r7lts.webp) |  |
 | yasaka | 八坂 | 所属作品：`highschool dxd`<br>![](https://ehgt.org/w/02/007/41123-brteqd94.webp) |  |
 | seiha shiunji | 紫云寺清叶 | 所属作品：`shiunji-ke no kodomotachi`<br>![](https://ehgt.org/w/01/945/08660-uf6nn3re.webp) |  |
