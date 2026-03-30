@@ -6007,7 +6007,7 @@ example:
 | yuki takeya | 丈枪由纪 | 学园孤岛女主人公之一 |  |
 | erika hatami | 旗见绘里香 |  |  |
 | kanae itou | 伊藤香苗 |  | [pixiv](https://dic.pixiv.net/a/伊藤香苗) |
-| juri ushimaki | 牛牧朱莉 | ![](https://patchwiki.biligame.com/images/ba/a/a8/50mg312uikrrzjc6ap1hqwf34jd2hmp.png)<br>所属作品：`blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Juri) |
+| juri ushimaki | 牛牧朱莉 | 所属作品: `p:blue archive`<br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png)<br>![](https://patchwiki.biligame.com/images/ba/e/ea/bzr9fwrokm0rd7s6pwjm3xkvguezlys.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Juri) |
 | akiha shishidou | 狮子堂秋叶 | 所属作品: `p:sora wo kakeru shoujo` |  |
 | jace beleren | 杰斯贝连 | 《万智牌》角色 |  |
 | aira shiratori | 白鸟爱罗 |  |  |
