@@ -5045,7 +5045,7 @@ example:
 | olivier mira armstrong | 奥利维亚·米拉·阿姆斯特朗 | ![](https://ehgt.org/w/02/052/02339-4nhnsm6n.webp)<br>所属作品：`p:fullmetal alchemist`<br>阿姆斯特朗家族年轻一代的长女，阿姆斯特朗少校的姐姐，北方军团的司令官。 | [萌娘百科](https://zh.moegirl.org.cn/奥利维亚·米拉·阿姆斯特朗) |
 | aqua hoshino | 星野爱久爱海（阿库亚） |  | [萌娘百科](https://zh.moegirl.org.cn/星野爱久爱海) |
 | miyako saitou | 齐藤京子 | 齐藤美弥子。<br>《`oshi no ko`》及其衍生作品中的角色。莓pro事务所社长齐藤一护的妻子。在爱死后接手了丈夫所在的事务所，并收养了露比和阿库亚。 |  |
-| airi kurimura | 栗村爱莉 | 所属作品: `p:blue archive`<br>圣三一综合学园所属，放学后甜点部里开朗的部员。<br>![](https://patchwiki.biligame.com/images/ba/c/c1/ndkn0e9rmlkc7rwvmzc84nj2060bokn.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Airi) |
+| airi kurimura | 栗村爱莉 | ![](https://patchwiki.biligame.com/images/ba/c/c1/ndkn0e9rmlkc7rwvmzc84nj2060bokn.png)<br>所属作品: `p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Airi) |
 | rentarou aijou | 爱城恋太郎 | 爱城恋太郎是由中村力斗原作、野澤ゆき子作画的《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》的男主角。 |  |
 | karane inda | 院田唐音 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
 | hakari hanazono | 花园羽香里 | ![](https://ehgt.org/w/02/083/11917-uwj6jdpg.webp)<br>出自作品：`p:kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br><br>花园羽香里（日语：花園（はなぞの） 羽香里（はかり））是由中村力斗原作、野泽由纪子作画的《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） | [萌娘百科](https://zh.moegirl.org.cn/花园羽香里) |
