@@ -4106,7 +4106,7 @@ example:
 | kanu unchou | 关羽云长 | ![](https://ehgt.org/w/01/950/24325-9fec4z64.webp)<br>所属作品：`ikkitousen` |  |
 | housen ryofu | 吕布奉先 |  |  |
 | shimei ryomou | 吕蒙子明 |  |  |
-| hakufu sonsaku | 孙策伯符 |  |  |
+| hakufu sonsaku | 孙策伯符 | ![](https://ehgt.org/w/01/643/24750-btmrsgpm.webp)<br>所属作品：`ikkitousen` |  |
 | gentoku ryuubi | 刘备玄德 |  |  |
 | ekitoku chouhi | 张飞益德 |  |  |
 | myousai kakouen | 夏侯渊妙才 |  |  |
