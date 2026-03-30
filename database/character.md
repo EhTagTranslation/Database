@@ -6765,7 +6765,7 @@ example:
 | lyfe bestla | 里芙·贝斯特拉 | 里芙·贝斯特拉是西山居狸花猫工作室发行的游戏《尘白禁区》及其衍生作品中的登场角色。<br>![](https://p.sda1.dev/27/8f3309b3c175dbab69d61f85fbc5072a/image.png) | [萌娘百科](https://zh.moegirl.org.cn/里芙·贝斯特拉) |
 | kuzunoha | 葛叶 | ![](https://static.wikia.nocookie.net/blue-archive/images/e/ec/Kuzunoha_Portrait.png)<br>所属作品：`blue archive` |  |
 | erato | 埃拉托（明日方舟） | 埃拉托是游戏《明日方舟》及其衍生作品的登场角色。<br>![](https://p.sda1.dev/27/1bde704d6c3948ea816e8be2e9156650/PixPin_2025-09-27_02-50-20.jpg) | [萌娘百科](https://zh.moegirl.org.cn/埃拉托) |
-| suou asagiri | 朝雾周防 | 所属作品：`blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Asagiri_Suou) [萌娘百科](https://zh.moegirl.org.cn/朝雾周防) |
+| suou asagiri | 朝雾周防 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/90/Suou_Portrait.png)<br>所属作品：`blue archive` | [Fandom](https://bluearchive.fandom.com/wiki/Asagiri_Suou) [萌娘百科](https://zh.moegirl.org.cn/朝雾周防) |
 | aventurine | 砂金 | ![](https://static.wikia.nocookie.net/houkai-star-rail/images/a/a9/Character_Aventurine_Splash_Art.png)<br>所属作品：`honkai star rail` | [萌娘百科](https://zh.moegirl.org.cn/砂金) |
 | halford | 哈尔福德 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/b5f4be9ea16be5abd309e4f6062e98b5262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:哈尔福德) |
 | wilhelmina | 威廉明娜 \| 威尔艾米娜 | ①<br>![](https://dotgg.gg/brown-dust-2/wp-content/uploads/sites/17/2025/04/ed1a7fafd7.png)<br>所属作品：`brave nine`<br><br>②<br>![](https://ehgt.org/w/01/474/31771-bikabx36.webp)<br>出自作品：`p:dragons dogma` | 威廉明娜 [gamekee](https://www.yd.gamekee.com/zsca2/tj/655252.html) \| 威尔艾米娜 [百度百科](https://baike.baidu.com/item/威尔艾米娜/63855780) |
