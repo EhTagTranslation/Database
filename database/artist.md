@@ -15047,6 +15047,7 @@ example:
 | cathriell rue | Cathriell Rue |  | [X](https://x.com/CathriellRue) \|  [subscribestar](https://subscribestar.adult/cathriell-rue) |
 | aogiri | 蒼桐 旺 |  | [X](https://x.com/Aogiri_ou) \| [pixiv](https://www.pixiv.net/users/77118900) \| [FANBOX](https://aogiri-ou.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/323224) \| [Skeb](https://skeb.jp/@Aogiri_ou) |
 | shigao. | しがお。 |  | [pixiv](https://www.pixiv.net/users/53215) \| [X](https://x.com/shiga_666) \| [Pawoo](https://pawoo.net/@shigaraki666) \| [Skeb](https://skeb.jp/@shiga_666) |
+| sana | さな |  | [pixiv](https://www.pixiv.net/users/100006774) \| [FANBOX](https://sanaan39.fanbox.cc/) \| [Fantia](https://fantia.jp/fanclubs/503145) \| [X](https://x.com/sanaan393) \| [BOOTH](https://sanaan39.booth.pm/) |
 
 <!--TEMPLATE:
 |  |  |  |  |
