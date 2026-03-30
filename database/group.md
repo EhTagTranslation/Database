@@ -13836,6 +13836,7 @@ example:
 | freddie works | ふれでぃわーくす |  |  |
 | kasumi kaori | カスミカオリ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG64986.html) |
 | kuron | クゥロン |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG50095.html) \| [https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202742/](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=202742/) |
+| puru-ya | プル屋 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG54892.html) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
