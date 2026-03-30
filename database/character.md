@@ -8915,6 +8915,7 @@ example:
 | meg | 梅格 | ①所属作品：`dead or alive`<br>![](https://static.wikia.nocookie.net/deadoralive/images/c/c4/Meg_render_DOAXVV.png)<br>日语：メグ<br>②所属作品：`family guy` |  |
 | rachel | 瑞秋 | ![](https://static.wikia.nocookie.net/deadoralive/images/2/27/DOA6_Rachel_Render.png)<br>所属作品：`dead or alive` |  |
 | amy | 艾米 | ![](https://static.wikia.nocookie.net/deadoralive/images/7/78/Amy_render.png)<br>所属作品：`dead or alive`<br>日语：エイミー |  |
+| tsukushi | 筑紫 | ![](https://static.wikia.nocookie.net/deadoralive/images/0/02/Still_c19.png)<br>所属作品：`dead or alive`<br>日语：つくし |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
