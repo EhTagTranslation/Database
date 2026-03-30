@@ -278,7 +278,7 @@ example:
 | super sonico | 超级索尼子 |  |  |
 |  | ▼最终幻想 系列 |  |  |
 | final fantasy | 最终幻想 |  |  |
-| final fantasy ii | 最终幻想II |  |  |
+| final fantasy ii | 最终幻想2 |  |  |
 | final fantasy iii | 最终幻想III |  |  |
 | final fantasy iv | 最终幻想IV |  |  |
 | final fantasy v | 最终幻想5 |  |  |
