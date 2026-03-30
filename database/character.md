@@ -4726,7 +4726,7 @@ example:
 | michiru chidori | 千鸟满 | ![](https://patchwiki.biligame.com/images/ba/c/c0/rpd9bs81a5123pspcncmgrugzur3o38.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Michiru) |
 | reijo kayama | 鹿山丽情 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/81/Reijo_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鹿山丽情) |
 | maki konuri | 小涂真纪 | ![](https://patchwiki.biligame.com/images/ba/b/bd/di760yd2imsjuh51kcjrtr7mgf65dmv.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Maki) |
-| misaki imashino | 戒野美咲 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的少女，给人不怎么说话、很冷漠的印象。<br>![](https://patchwiki.biligame.com/images/ba/1/12/fpf02ggiwzfb5pzu8r400a4s74s6gj0.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Misaki) |
+| misaki imashino | 戒野美咲 | ![](https://patchwiki.biligame.com/images/ba/1/12/fpf02ggiwzfb5pzu8r400a4s74s6gj0.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Misaki) |
 | mimori mizuha | 水羽三森 | ![](https://patchwiki.biligame.com/images/ba/a/a7/kq4xllmtjvqyzkz8khfg54x6p64t7op.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mimori) |
 | haruka igusa | 伊草遥香 | ![](https://patchwiki.biligame.com/images/ba/e/ee/swbse283usqpys5mriagbkfm6x3wiox.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Haruka)<br>[萌娘百科](https://zh.moegirl.org.cn/伊草遥香) |
 | kirino nakatsukasa | 中务桐乃 | ![](https://patchwiki.biligame.com/images/ba/9/92/m9xvaaxz2yobge7lgvjshoo8ecw90ce.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kirino) |
