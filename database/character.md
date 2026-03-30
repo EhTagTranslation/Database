@@ -5006,7 +5006,7 @@ example:
 | momiji | 红叶 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/bd/C08_img.png)<br>![](https://static.wikia.nocookie.net/deadoralive/images/4/4f/DOA6_Momiji_Render.png)<br>所属作品：`dead or alive` ，`ninja gaiden` |  |
 | nico | NiCO | ![](https://img.moegirl.org.cn/common/thumb/6/64/Img-nico.png/420px-Img-nico.png)<br>所属作品：`dead or alive`<br>初登场于《死或生6》。 |  |
 | monica | 莫妮卡（死或生） | 莫妮卡，女，身高160厘米，是游戏《死或生》系列中的衍生角色。一名自称“荷官”(见习)的少女。<br>来找岛主少女强行提出要用扑克牌来一场动真格的“对决”，她将两张牌分别夹在了自己的指间并问道:“来吧，岛主，……你要选哪一张。” |  |
-| fiona | 菲欧娜 | 游戏《死或生：沙滩排球 女神假期》新加入的原创女性角色。年龄18岁，身高152cm，身材88 55 84，生日2月11，血型O型。 |  |
+| fiona | 菲欧娜 | ![](https://static.wikia.nocookie.net/deadoralive/images/e/e2/Still_c13.png)<br>所属作品：`dead or alive`<br>日语：フィオナ |  |
 | cai wenji | 蔡文姬 | ①<br>![](https://static.wikia.nocookie.net/honor-of-kings/images/a/ae/Cai_Yan-circle-big.png)<br>所属作品：`honor of kings`<br>②<br><br>所属作品：`dynasty warriors` |  |
 | diao chan | 貂蝉 | 《真·三国无双》及其衍生产品的女角色之一。 |  |
 | lian shi | 步练师 | ![](https://static.wikia.nocookie.net/dynastywarriors/images/1/14/Lianshi_Artwork_%28DW9%29.png)<br>所属作品：`dynasty warriors` |  |
