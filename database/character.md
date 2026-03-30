@@ -8922,6 +8922,7 @@ example:
 | xin xianying | 辛宪英 | ![](https://www.koeitecmoamerica.com/dw9/images/characters/shin/zoom/shinkenei.jpg)<br>所属作品：`dynasty warriors` |  |
 | asami kazari | 花咲里麻美 | ![](https://static.wikia.nocookie.net/csi-acgn/images/5/5b/Asami_Kazari_Full.png)<br>所属作品：`active raid` |  |
 | mavis vermillion | 梅比斯·法米利翁 | ![](https://static.wikia.nocookie.net/fairytail/images/2/28/Mavis%27_looks.png)<br>所属作品：`fairy tail` |  |
+| watcher | 观者 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
