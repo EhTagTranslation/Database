@@ -7933,7 +7933,7 @@ example:
 | mochi mochi mikan | もちもちみかん |  |  |
 | mochi-ya | 饼屋 |  | [HP](http://mochiya.sakura.ne.jp) |
 | mochimochi carnevale | もちもちCarnevale |  |  |
-| mochimochi dou | もちもち堂 |  |  |
+| mochimochi dou | もちもち堂 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG28194.html) |
 | mochimochitaiyo | もちもちたいよう |  |  |
 | mochinige | 持ち逃げ |  |  |
 | mochinonnon. | もちのんのん。 |  |  |
