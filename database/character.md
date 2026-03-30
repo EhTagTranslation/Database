@@ -5050,7 +5050,7 @@ example:
 | karane inda | 院田唐音 | 《`kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`》女主之一。<br>属性：傲娇、贫乳、辣妹、黄发、暴力女、高中生、怪力、吐槽。 |  |
 | hakari hanazono | 花园羽香里 | ![](https://ehgt.org/w/02/083/11917-uwj6jdpg.webp)<br>出自作品：`p:kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo`<br><br>花园羽香里（日语：花園（はなぞの） 羽香里（はかり））是由中村力斗原作、野泽由纪子作画的《超超超超超喜欢你的100个女朋友》及其衍生作品的登场角色。<br>属性：粉发、巨乳、痴女、高中生、妄想、大小姐、安产型、丰满体型、百合（唐音） | [萌娘百科](https://zh.moegirl.org.cn/花园羽香里) |
 | mayling shen | 沈美玲 | `p:girls frontline`<br>少女前线2:追放<br>人类<br>![](https://iopwiki.com/images/8/8d/GFL2_Mayling_character_sheet.jpg) | [萌娘百科](https://zh.moegirl.org.cn/沈美玲) |
-| akari wanibuchi | 鳄渊亚伽里 | 所属作品：`p:blue archive`<br>格黑娜学园所属，美食研究会的部员。<br>与看似年幼的外表不同，却是在基沃托斯的大胃王比赛稳坐第一的常胜将军。<br>![](https://img.moegirl.org.cn/common/8/87/BA_Akari.png) | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
+| akari wanibuchi | 鳄渊亚伽里 | ![](https://static.wikia.nocookie.net/blue-archive/images/2/21/Akari_Gym_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鳄渊亚伽里) |
 | kikyou kiryuu | 桐生桔梗 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/84/Kikyou_Portrait.png)<br>所属作品: `p:blue archive` |  |
 | fuwawa abyssgard | 软软·阿比斯加德 | 软软·阿比斯加德（英语：Fuwawa Abyssgard）和`mococo abyssgard`（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
 | mococo abyssgard | 茸茸·阿比斯加德 | `fuwawa abyssgard`（英语：Fuwawa Abyssgard）和茸茸·阿比斯加德（英语：Mococo Abyssgard）是于2023年7月26日开始活动的VTuber，所属日本业界团体hololive EN―『hololive English -降临-』的成员。 | [萌娘百科](https://zh.moegirl.org.cn/FUWAMOCO) |
