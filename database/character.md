@@ -8909,6 +8909,7 @@ example:
 | bartz klauser | 巴兹·克劳萨 | ![](https://static.wikia.nocookie.net/finalfantasy/images/7/7c/DFFNT_Bartz_Klauser_Render.png)<br>所属作品：`final fantasy v` |  |
 | faris scherwiz | 法里斯·夏尔威兹 | ![](https://ehgt.org/w/02/293/26839-18tlqmtq.webp)<br>所属作品：`final fantasy v` |  |
 | lenna charlotte tycoon | 莱纳·夏洛特·提康 | ![](https://ehgt.org/w/00/811/79834-knqbuoxq.webp)<br>所属作品：`final fantasy v` |  |
+| karasuba | 鸦羽 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/da/114049_crt_V9k99.jpg)<br>所属作品：`sekirei` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
