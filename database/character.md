@@ -3566,7 +3566,7 @@ example:
 | mila | 米拉 |  |  |
 | hitomi | 瞳 |  |  |
 | raiden shogun | 雷电将军 | ![](https://patchwiki.biligame.com/images/ys/e/e6/7dufkza52g1gt75a7np0xuzsktw3o11.gif)<br>所属作品:`p:genshin impact`<br>其身为御建鸣神主尊大御所大人，许稻妻人民以亘古不变之「永恒」。 | [萌娘百科](https://zh.moegirl.org.cn/雷电影) |
-| musubi | 结 | ![](https://static.wikia.nocookie.net/sekirei/images/3/3f/02.jpg)<br>所属作品：`sekirei` | [萌娘百科](https://zh.moegirl.org.cn/结%28鹡鸰女神%29#) |
+| musubi | 结 | ![](https://static.wikia.nocookie.net/sekirei/images/3/3f/02.jpg)<br>所属作品：`sekirei`<br>日语：むすび | [萌娘百科](https://zh.moegirl.org.cn/结%28鹡鸰女神%29#) |
 | shut | 夏特 |  |  |
 | princess jasmine | 茉莉公主 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
 | aladdin | 阿拉丁 | 《一千零一夜》故事《阿拉丁神灯》中的主人公。 |  |
