@@ -8920,6 +8920,7 @@ example:
 | patty | 帕蒂 | ![](https://static.wikia.nocookie.net/deadoralive/images/3/32/Still_c18.png)<br>所属作品：`dead or alive`<br>日语：パティ |  |
 | azusa | 梓 | ![](https://static.wikia.nocookie.net/deadoralive/images/a/a5/DOAXVV_Azusa.png)<br>所属作品：`dead or alive`<br>日语：あずさ |  |
 | xin xianying | 辛宪英 | ![](https://www.koeitecmoamerica.com/dw9/images/characters/shin/zoom/shinkenei.jpg)<br>所属作品：`dynasty warriors` |  |
+| asami kazari | 花咲里麻美 | ![](https://static.wikia.nocookie.net/csi-acgn/images/5/5b/Asami_Kazari_Full.png)<br>所属作品：`active raid` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
