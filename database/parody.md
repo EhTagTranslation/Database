@@ -974,7 +974,7 @@ example:
 | monster | 怪物 | MONSTER（モンスター）/  魔刹 |  |
 | jungle wa itsumo hare nochi guu | 热带雨林的爆笑生活 |  |  |
 | w.i.t.c.h. | 魔力W.i.t.c.h. |  |  |
-| ninja gaiden | 忍者外传 |  |  |
+| ninja gaiden | 忍者龙剑传 | ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ninja_Gaiden_Logo.svg/500px-Ninja_Gaiden_Logo.svg.png)<br>光荣特库摩游戏旗下工作室Team Ninja与白金工作室联合开发的高速格斗游戏系列。 |  |
 | otome wa boku ni koishiteru | 少女爱上姐姐 |  |  |
 | fairy tail | 妖精的尾巴 | FAIRY TAIL魔导少年 |  |
 | oni chichi | 鬼父 |  |  |
