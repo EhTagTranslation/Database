@@ -6555,7 +6555,7 @@ example:
 | gneisenau | 格奈森瑙 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/dcf4aaccd7385ed1b5deaef849985b22262400697.png)<br>其原型为纳粹德国海军的格奈森瑙号战列巡洋舰（Gneisenau (Schiff, 1936)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:格奈森瑙) |
 | albion | 阿尔比恩 | 所属作品：`azur lane`<br>![](https://img.moegirl.org.cn/common/0/06/BLHX_aerbien.png)<br>其原型为英国海军的阿尔比恩号航空母舰（HMS Albion (R07)）。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:阿尔比恩) |
 | imadake dabuchi tabemi | 现在就吃双层芝士汉堡 | いまだけダブチ食べ美 | [维基百科（日语）](https://ja.wikipedia.org/wiki/いまだけダブチ食べ美) |
-| suzumi morizuki | 守月铃美 | 所属作品：`p:blue archive`<br>圣三一综合学园所属，保护学生安全的自警团的成员。<br>![](https://patchwiki.biligame.com/images/ba/8/8b/50zijxae7crninyrb97pti4tsw64714.png)<br>![](https://img.moegirl.org.cn/common/2/21/BA_Suzumi_ML.png)<br>守月スズミ | [萌娘百科](https://zh.moegirl.org.cn/守月铃美)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Suzumi) |
+| suzumi morizuki | 守月铃美 | ![](https://patchwiki.biligame.com/images/ba/8/8b/50zijxae7crninyrb97pti4tsw64714.png)<br>所属作品：`p:blue archive`<br>日语：守月スズミ | [萌娘百科](https://zh.moegirl.org.cn/守月铃美)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Suzumi) |
 | shiki kamiyama | 神山识 | 神山识（日语：神山識）是由Key制作的游戏《Summer Pockets REFLECTION BLUE》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/3/30/Gallery_cg_07_l.png) | [萌娘百科](https://zh.moegirl.org.cn/神山识) |
 | miki nomura | 野村美希 | 野村美希（野村美希）是由Key所制作的《Summer Pockets》及其衍生作品的登场角色。<br>![](https://img.moegirl.org.cn/common/1/1c/美希RB.png) | [萌娘百科](https://zh.moegirl.org.cn/野村美希) |
 | miki nakano | 中野美树 | ![](https://inews.gtimg.com/om_bt/OSKJG9UBj7RCFngPgvC1i8EuAkOsnD-rqAmJOKDAI9wxIAA/641)<br>《铁甲小宝》中角色。21岁，朝日町的女巡警。最喜欢的食物是糯米丸子。个性无理，散漫。最后辞掉警察工作，回到了乡下。 | [百度百科](https://baike.baidu.com/item/中野美树/64273455) |
