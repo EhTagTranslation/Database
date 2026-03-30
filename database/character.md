@@ -8921,7 +8921,7 @@ example:
 | azusa | 梓 | ![](https://static.wikia.nocookie.net/deadoralive/images/a/a5/DOAXVV_Azusa.png)<br>所属作品：`dead or alive`<br>日语：あずさ |  |
 | xin xianying | 辛宪英 | ![](https://www.koeitecmoamerica.com/dw9/images/characters/shin/zoom/shinkenei.jpg)<br>所属作品：`dynasty warriors` |  |
 | asami kazari | 花咲里麻美 | ![](https://static.wikia.nocookie.net/csi-acgn/images/5/5b/Asami_Kazari_Full.png)<br>所属作品：`active raid` |  |
-| mavis vermillion | 梅比斯·法米利翁 |  |  |
+| mavis vermillion | 梅比斯·法米利翁 | ![](https://static.wikia.nocookie.net/fairytail/images/2/28/Mavis%27_looks.png)<br>所属作品：`fairy tail` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
