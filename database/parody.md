@@ -289,7 +289,7 @@ example:
 | final fantasy x | 最终幻想10 |  |  |
 | final fantasy x-2 | 最终幻想X-2 |  |  |
 | final fantasy xi | 最终幻想XI |  |  |
-| final fantasy xii | 最终幻想XII |  |  |
+| final fantasy xii | 最终幻想12 |  |  |
 | final fantasy xiii | 最终幻想XIII |  |  |
 | final fantasy xiv | 最终幻想XIV |  |  |
 | final fantasy xv | 最终幻想15 |  |  |
