@@ -4707,7 +4707,7 @@ example:
 | urushi yaotome | 八乙女漆 | 所属作品:`p:soredemo ayumu wa yosetekuru`<br>![](https://img.moegirl.org.cn/common/a/a8/YaotomeUrushi.jpg) | [萌娘百科](https://zh.moegirl.org.cn/八乙女漆) |
 | anne | 安 |  | [萌娘百科](https://zh.moegirl.org.cn/安%28公主连结%29#) |
 | grea | 古蕾雅 |  |  |
-| sakurako utazumi | 歌住樱子 | 所属作品：`p:blue archive`<br>三一综合学园所属，修女会虔诚的学生。<br>对任何事都会认真面对，深受许多学生的信赖。偶尔会因为过于正经导致与流行和常识脱节。<br>![](https://img.moegirl.org.cn/common/3/3e/BA_Sakurako_New.png) | [萌娘百科](https://zh.moegirl.org.cn/歌住樱子) |
+| sakurako utazumi | 歌住樱子 | ![](https://static.wikia.nocookie.net/blue-archive/images/e/ed/Sakurako_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/歌住樱子) |
 | miyako tsukiyuki | 月雪宫子 | ![](https://patchwiki.biligame.com/images/ba/b/bf/bdf7sfptkn9oefpgbwo5s8zaduuz17y.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Miyako) |
 | koyuki kurosaki | 黑崎小雪 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/8b/Koyuki_Bunny_Girl_Portrait.png)<br>![](https://static.wikia.nocookie.net/blue-archive/images/7/7a/Koyuki_Portrait.png)<br>所属作品：`p:blue archive` | [https://www.gamekee.com/ba/tj/585462.html](https://www.gamekee.com/ba/tj/585462.html) |
 | atsuko hakari | 秤亚津子 | ![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
