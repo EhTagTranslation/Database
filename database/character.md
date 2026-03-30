@@ -4357,7 +4357,7 @@ example:
 | nekomiya hinata | 猫宫日向 | 猫宮 ひなた 是从2018年2月开始活动的日本虚拟YouTuber。<br>![塑料袋战神](https://img.moegirl.org.cn/common/9/9c/Nekomiya_Hinata_Creator002.png) | [萌娘百科](https://zh.moegirl.org.cn/猫宫日向) |
 | himeno ayanokoji | 绫小路姫乃 |  |  |
 | seia yurizono | 百合园圣娅 | 所属作品：`p:blue archive`<br>三一综合学园所属，担任构成三一的学生联盟「圣灵派」的领袖。<br>在旁人眼中是个衒学且难以捉摸，就像任性贵族一般的人。在恢复健康后似乎变得更加固执，经常露出孩子气的一面。<br>![](https://img.moegirl.org.cn/common/1/12/BA_Seia.png) | [萌娘百科](https://zh.moegirl.org.cn/百合园圣亚) |
-| hanae asagao | 朝颜花江 | 所属作品：`p:blue archive`<br>圣三一综合学园所属，救护骑士团元气开朗的新生。<br>![](https://patchwiki.biligame.com/images/ba/a/a9/5gx71psm655fyz1h5trprhyjhacfp82.png)<br>![](https://img.moegirl.org.cn/common/4/48/BA_Hanae.png) | [萌娘百科](https://zh.moegirl.org.cn/朝颜花绘)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Hanae) |
+| hanae asagao | 朝颜花江 | ![](https://patchwiki.biligame.com/images/ba/a/a9/5gx71psm655fyz1h5trprhyjhacfp82.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/朝颜花绘)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Hanae) |
 | saori joumae | 锭前纱织 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，是在校内被誉为精英特殊部队「阿里乌斯特殊小队」的队长。<br>![](https://patchwiki.biligame.com/images/ba/1/1d/4tcoqb9gvyfp56vpxyx13vabyryihj1.png) | [萌娘百科](https://zh.moegirl.org.cn/锭前纱织)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Saori) |
 | nijika ijichi | 伊地知虹夏 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/nijika/image_movienew.png)<br>所属作品:`p:bocchi the rock` | [萌娘百科](https://zh.moegirl.org.cn/伊地知虹夏) |
 | ryou yamada | 山田凉 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/ryo/image_movienew.png)<br>所属作品：`bocchi the rock`<br>山田凉（日语：山田（やまだ） リョウ） | [萌娘百科](https://zh.moegirl.org.cn/山田凉) |
