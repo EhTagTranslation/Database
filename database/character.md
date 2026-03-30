@@ -8908,6 +8908,7 @@ example:
 | will | 威尔（暗喻幻想） | ![](https://static.wikia.nocookie.net/megamitensei/images/f/f4/Metaphor_ReFantazio_Protagonist_art.png)<br>所属作品：`metaphor refantazio` |  |
 | bartz klauser | 巴兹·克劳萨 | ![](https://static.wikia.nocookie.net/finalfantasy/images/7/7c/DFFNT_Bartz_Klauser_Render.png)<br>所属作品：`final fantasy v` |  |
 | faris scherwiz | 法里斯·夏尔威兹 | ![](https://ehgt.org/w/02/293/26839-18tlqmtq.webp)<br>所属作品：`final fantasy v` |  |
+| lenna charlotte tycoon | 莱纳·夏洛特·提康 | ![](https://ehgt.org/w/00/811/79834-knqbuoxq.webp)<br>所属作品：`final fantasy v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
