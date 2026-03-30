@@ -7393,7 +7393,7 @@ example:
 | kyosu | キョス |  |  |
 | kyou | kyou |  |  |
 | kyou konogoro | kyouこの頃 |  |  |
-| kyouan | 狭暗 |  |  |
+| kyouan | 狭暗 |  | [FANBOX](https://akaruiseiheki45.fanbox.cc/) |
 | kyouka | 狂華 |  |  |
 | kyouno aki | 京野秋 |  |  |
 | kyouta | きょう太 |  |  |
