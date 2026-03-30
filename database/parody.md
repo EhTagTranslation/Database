@@ -279,7 +279,7 @@ example:
 |  | ▼最终幻想 系列 |  |  |
 | final fantasy | 最终幻想 |  |  |
 | final fantasy ii | 最终幻想2 |  |  |
-| final fantasy iii | 最终幻想III |  |  |
+| final fantasy iii | 最终幻想3 |  |  |
 | final fantasy iv | 最终幻想IV |  |  |
 | final fantasy v | 最终幻想5 |  |  |
 | final fantasy vi | 最终幻想6 |  |  |
