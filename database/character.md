@@ -7068,7 +7068,7 @@ example:
 | charlotta fenia | 夏洛特 | ![](https://huiji-public.huijistatic.com/gbf/uploads/2/22/Zoom_3040194000_02.png)<br>所属作品：`granblue fantasy`<br>外号豆丁团长 |  |
 | brunhilde | 布伦希尔德 | ![](https://ehgt.org/w/01/962/79973-vaxcda73.webp)<br>所属作品：`shuumatsu no valkyrie` |  |
 | nier | 妮娅 | ![](https://huiji-public.huijistatic.com/gbf/uploads/8/87/Zoom_3040169000_01.png)<br>![](https://huiji-public.huijistatic.com/gbf/uploads/a/a8/Zoom_3040169000_81.png)<br>所属作品：`granblue fantasy` |  |
-| lobelia | 萝贝莉娅 | 所属作品：`dead or alive` |  |
+| lobelia | 萝贝莉娅 | ![](https://static.wikia.nocookie.net/deadoralive/images/4/4e/Still_c20.png)<br>所属作品：`dead or alive`<br>日语“ロベリア” |  |
 | linlin charlotte | 夏洛特·玲玲 | ![](https://ehgt.org/w/02/039/93516-tcmy32a8.webp)<br>所属作品：海贼王 |  |
 | ymir fritz | 尤弥尔·弗里茨 | ![](https://ehgt.org/w/01/888/74470-mql1bkcj.webp)<br>所属作品：进击的巨人 |  |
 | chocolate misu | 休可拉˙米丝 | 所属作品：`bakuretsu hunters`<br>日语名：ショコラ・ミス |  |
