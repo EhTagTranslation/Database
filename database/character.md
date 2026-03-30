@@ -6945,7 +6945,7 @@ example:
 | eunie | 优妮 | ![](https://ehgt.org/w/02/037/74599-2zw84wtl.webp)<br>所属作品：`xenoblade chronicles 3`<br>18岁少女，武器为法杖形枪械，职业为医护铳兵，擅长团队恢复技能。 |  |
 | fenrys | 芬里丝 | ![](https://ehgt.org/w/01/977/01249-1g9q59ru.webp)<br>所属作品：`lv2 kara cheat datta motoyuusha kouho no mattari isekai life` |  |
 | guam | 关岛 | ![](https://i2.hdslb.com/bfs/new_dyn/fc7fa1c0638c84a09646b1ab40ce1b9a262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/1b3a3268fc850e4f31bd247d27d7a607262400697.png)<br>所属作品：`azur lane` |  |
-| lisa hamilton | 莉莎·汉密尔顿 | ![](https://ehgt.org/w/01/576/35847-eygaq6wi.webp)<br>所属作品：`dead or alive` |  |
+| lisa hamilton | 莉莎·汉密尔顿 | ![](https://static.wikia.nocookie.net/deadoralive/images/6/64/DOA5_Lisa_Render.png)<br>所属作品：`dead or alive` |  |
 | kurumi imari | 伊万里胡桃 | ![](https://ehgt.org/w/01/900/44929-9sv9tnq1.webp)<br>所属作品：`bible black` |  |
 | aldra | 阿尔德拉 | ![](https://static.wikia.nocookie.net/ideas/images/8/83/Aldra.png)<br>所属作品：`queens blade`<br>作为连续两届女皇之刃比赛的卫冕女王，具有人间宗教最高指导者与魔王之女的双重血统，拥有银发黑红瞳的半恶魔身份。 |  |
 | duramente | 大鸣大放 | ![](https://img.moegirl.org.cn/common/a/a9/UPDCH_Duramente_10.png)<br>所属作品：`uma musume pretty derby` |  |
