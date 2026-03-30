@@ -4756,7 +4756,7 @@ example:
 | momiji akiizumi | 秋泉红叶 | 所属作品: `p:blue archive`<br>红冬联邦学园所属，知识解放战线的文学少女。<br>![](https://static.wikia.nocookie.net/blue-archive/images/4/4b/Momiji_Portrait.png)<br><br>[译名来源](https://zh.moegirl.org.cn/蔚蓝档案/译名对照表) | [Fandom](https://bluearchive.fandom.com/wiki/Akiizumi_Momiji) |
 | howe | 豪 | 所属作品：`azur lane`<br>![](https://i2.hdslb.com/bfs/new_dyn/4e57a8d93f6fb3db4b85818679fb2691262400697.png)<br>其原型为英国海军的豪号战列舰。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:豪) |
 | aki shino | 志野亚贵 |  | [萌娘百科](https://zh.moegirl.org.cn/志野亚贵) |
-| kotama otose | 音濑小玉 | ![](https://patchwiki.biligame.com/images/ba/9/92/qe8z15j77t7pcso4tbny6zsjhwqv5l9.png)<br>所属作品：`blue archive`<br>千年科学学校所属，黑客集团「真理部」的黑客。 | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kotama) |
+| kotama otose | 音濑小玉 | ![](https://patchwiki.biligame.com/images/ba/9/92/qe8z15j77t7pcso4tbny6zsjhwqv5l9.png)<br>所属作品：`blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kotama) |
 | minoto | 水芸 | 水芸登场于Capcom出品游戏系列《怪物猎人系列》中的《怪物猎人 崛起》。<br><br>村庄接待员火芽的双胞胎妹妹。<br><br>沉着冷静，大多时候都面不改色。<br><br>她总是平淡漠然地完成自己的工作，乍看之下很是冷淡，但其实心地善良，还有意外笨拙的一面。 | [萌娘百科](https://zh.moegirl.org.cn/水芸) |
 | matikanefukukitaru | 待兼福来 | ![](https://patchwiki.biligame.com/images/umamusume/0/04/nq9tpt0q45e1ctls7h6cp9j7vsgbt7n.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹マチカネフクキタル（Matikanefukukitaru）。 | [萌娘百科](https://zh.moegirl.org.cn/待兼福来) |
 | hiyori harusaki | 春咲日和莉 | ![](https://patchwiki.biligame.com/images/pcr/thumb/8/84/3d668v2fkty1ntjn2ek9rhrb87vfk83.png/391px-日和莉.png)<br>所属作品：`princess connect` | [BILIGAME WIKI](https://wiki.biligame.com/pcr/日和莉) |
