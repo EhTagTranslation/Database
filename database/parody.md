@@ -292,7 +292,7 @@ example:
 | final fantasy xii | 最终幻想XII |  |  |
 | final fantasy xiii | 最终幻想XIII |  |  |
 | final fantasy xiv | 最终幻想XIV |  |  |
-| final fantasy xv | 最终幻想XV |  |  |
+| final fantasy xv | 最终幻想15 |  |  |
 | final fantasy crystal chronicles | 最终幻想水晶编年史 |  |  |
 | final fantasy tactics | 最终幻想战略版 |  |  |
 | final fantasy tactics advance | 最终幻想战略版Advance |  |  |
