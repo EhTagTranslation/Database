@@ -8906,6 +8906,7 @@ example:
 | brigitta lycaon | 布丽吉塔·利卡翁 | ![](https://static.wikia.nocookie.net/megamitensei/images/a/a8/MRF_Brigitta.png)<br>所属作品：`metaphor refantazio` |  |
 | juani cygnus | 朱厄妮·西格纳斯 | ![](https://static.wikia.nocookie.net/megamitensei/images/8/80/MRF_Junah.png)<br>所属作品：`metaphor refantazio` |  |
 | will | 威尔（暗喻幻想） | ![](https://static.wikia.nocookie.net/megamitensei/images/f/f4/Metaphor_ReFantazio_Protagonist_art.png)<br>所属作品：`metaphor refantazio` |  |
+| bartz klauser | 巴兹·克劳萨 | ![](https://static.wikia.nocookie.net/finalfantasy/images/7/7c/DFFNT_Bartz_Klauser_Render.png)<br>所属作品：`final fantasy v` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
