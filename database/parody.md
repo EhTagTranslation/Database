@@ -2613,7 +2613,7 @@ example:
 | beastars | BEASTARS | ![](https://img.moegirl.org.cn/common/3/3a/Beastars_Vol.22.jpg)<br>《BEASTARS》是板垣巴留于《周刊少年Champion》上连载的一部漫画，并有短篇集、动画等衍生作 | [维基百科](https://zh.wikipedia.org/wiki/BEASTARS) |
 | tear ring saga | 尤特娜英雄战记：泪指轮传说 | ![](https://upload.wikimedia.org/wikipedia/en/f/ff/Tearringsaga_boxart.PNG) | [维基百科](https://zh.wikipedia.org/wiki/泪指轮传说_尤特娜英雄战记) |
 | nukige mitai na shima ni sunderu watashi wa dou surya ii desu ka | 拔作岛 | ![](https://nukiani.com/assets/top/t2/vis-1.webp)<br>《拔作岛》全名《住在拔作岛上的贫\*乳应该如何是好?》是由Qruppo原作，まめおじたん作画的漫画作品。 |  |
-| cike wu liuqi | 刺客伍六七 | ![](https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2707610653.webp) |  |
+| cike wu liuqi | 刺客伍六七 | ![](https://static.wikia.nocookie.net/scissorseven/images/2/2c/S2cover.png)<br>《伍六七》（原名《刺客伍六七》）是由啊哈娱乐与小疯映画出品、幻星联合出品的原创网络动画片。 |  |
 | unicorn overlord | 圣兽之王 |  |  |
 | the unbelievable gwenpool | 匪夷所思的格温侍 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Unbelievable_Gwenpool) |
 | the beginning after the end | 最强王者的第二人生 | ![](https://i0.hdslb.com/bfs/bangumi/image/ff55e211d6ab08f063ef2df0bcb064854d08f221.png@450w_600h.webp)<br>最強の王様、二度目の人生は何をする？ | [哔哩哔哩](https://www.bilibili.com/bangumi/media/md25589743) |
