@@ -3061,7 +3061,7 @@ example:
 | elesa | 小菊儿 | ![](https://s1.52poke.com/wiki/thumb/2/29/小菊儿_B2W2.png/250px-小菊儿_B2W2.png)<br>所属作品：`pokemon`<br>日文︰カミツレ |  |
 | selene | 美月 | ![](https://s1.52poke.com/wiki/thumb/6/6b/美月_USUM.png/225px-美月_USUM.png)<br>所属作品：`pokemon`<br>日文︰ミヅキ |  |
 | lillie | 莉莉艾 | ![](https://s1.52poke.com/wiki/thumb/4/42/莉莉艾_USUM.png/135px-莉莉艾_USUM.png)<br>所属作品：`pokemon`<br>日文︰リーリエ |  |
-| honoka | 穗乃果 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b5/C02_img.png)<br>所属作品：`dead or alive` |  |
+| honoka | 穗香 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b5/C02_img.png)<br>所属作品：`dead or alive` |  |
 | hex maniac | 灵异迷 | ![](https://s1.52poke.com/wiki/thumb/9/9f/灵异迷_XY.png/325px-灵异迷_XY.png)<br>所属作品：`pokemon`<br>日文︰オカルトマニア | [萌娘百科](https://zh.moegirl.org.cn/灵异迷) |
 | hypno | 引梦貘人 | ![](https://thumbsnap.com/i/AT3rDJKW.png)<br>出自作品：`p:pokemon`<br><br>引夢貘人（日文︰スリーパー，英文︰Hypno）是超能力屬性寶可夢。 | [52poke](https://wiki.52poke.com/wiki/引梦貘人) |
 | lana | 水莲 | ![](https://s1.52poke.com/wiki/thumb/1/1c/水蓮_SM.png/511px-水蓮_SM.png?20210625142459)<br>所属作品：`pokemon`<br>日文︰スイレン |  |
