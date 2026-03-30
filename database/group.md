@@ -9745,7 +9745,7 @@ example:
 | ringo doumei | りんご同盟 |  |  |
 | ringo koucha | りんご紅茶 |  |  |
 | ringo no kisetsu. | りんごの季節。 |  |  |
-| ringoya | リンゴヤ |  |  |
+| ringoya | リンゴヤ |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG53516.html) |
 | rinji party | 臨時PT |  |  |
 | rinkandou | 輪漢堂 |  |  |
 | rinkichibu | りんキチぶ |  |  |
