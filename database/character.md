@@ -8079,7 +8079,7 @@ example:
 | reiju vinsmoke | 文斯莫克·蕾玖 | ![宾什莫克·丽珠](# "https://thumbsnap.com/i/TvJ45DCj.jpg")<br>出自作品：`p:one piece`<br><br>文斯莫克·蕾玖，日本漫画《航海王》及衍生作品中的角色，文斯莫克家族长女，杰尔马王国公主，杰尔马66“粉红剧毒”，山治的姐姐。通过父亲文斯莫克·伽治“血统因子”的改造基因而获得了超人般的身体，保留了情感，但不能反抗父亲的命令。 | [百度百科](https://baike.baidu.com/item/文斯莫克·蕾玖/19682805) \| [Fandom](https://onepiece.fandom.com/zh/wiki/賓什莫克·麗珠?variant=zh-sg) |
 | nemo noah | 尼莫/诺亚 | ![](https://static.wikia.nocookie.net/fategrandorder/images/9/90/S452_Stage1.webp)<br>所属作品：`fate grand order` |  |
 | platina | 普拉蒂纳 | ![](https://ehgt.org/w/01/875/39729-4a0q2l8j.webp)<br>所属作品：`nunholy` |  |
-| yukino shichido | 七度雪乃 | ![](https://storage.moegirl.org.cn/moegirl/commons/5/51/BA_Yukino.png)<br>所属作品：`blue archive`<br>SRT特殊学园所属,FOX小队的突击步枪手;同时是FOX小队的队长,代号FOX1。 | [萌娘百科](https://zh.moegirl.org.cn/七度雪乃) |
+| yukino shichido | 七度雪乃 | ![](https://static.wikia.nocookie.net/blue-archive/images/0/0a/Yukino_Portrait.png)<br>所属作品：`blue archive` | [萌娘百科](https://zh.moegirl.org.cn/七度雪乃) |
 | luke notos greyrat | 路克·诺托斯·格雷拉特 | ![](https://static.wikia.nocookie.net/mushokutensei/images/1/14/MT-AN-S2-Luke-FullBody.png)<br>所属作品：`mushoku tensei`<br>诺托斯·格雷拉特家的次男，后成为当家。 | [百度百科](https://baike.baidu.com/item/路克·诺托斯·格雷拉特/62450886) |
 | bastet | 巴斯特 | ![](https://static.wikia.nocookie.net/pad/images/b/b2/Pet494.png)<br>所属作品：`puzzle and dragons` |  |
 | linie | 莉 | ![](https://static.wikia.nocookie.net/frieren/images/b/b7/Linie_anime_profile.png)<br>所属作品：`sousou no frieren`<br>阿乌拉麾下的“斩首吏”魔族之一，使用的魔法为模仿魔法。 |  |
