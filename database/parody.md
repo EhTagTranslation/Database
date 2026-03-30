@@ -290,7 +290,7 @@ example:
 | final fantasy x-2 | 最终幻想X-2 |  |  |
 | final fantasy xi | 最终幻想XI |  |  |
 | final fantasy xii | 最终幻想12 |  |  |
-| final fantasy xiii | 最终幻想XIII |  |  |
+| final fantasy xiii | 最终幻想13 |  |  |
 | final fantasy xiv | 最终幻想XIV |  |  |
 | final fantasy xv | 最终幻想15 |  |  |
 | final fantasy crystal chronicles | 最终幻想水晶编年史 |  |  |
