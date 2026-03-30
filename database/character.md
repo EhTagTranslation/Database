@@ -5116,7 +5116,7 @@ example:
 | mashirao ojiro | 尾白猿夫 | 《我的英雄学院》男英雄 |  |
 | nemuri kayama | 香山睡 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/7/7c/Nemuri_Kayama_Hero_Costume_%28Anime%29.png) |  |
 | chiori | 千织 | ![](https://patchwiki.biligame.com/images/ys/9/9b/h9srxvemcys81zqqwv0vnkyr8953b9s.gif)<br><br>所属作品：`genshin impact`<br>「千织屋」的老板。枫丹著名服装设计师。 | [萌娘百科](https://zh.moegirl.org.cn/千织) |
-| shuro yabuki | 箭吹棕榈 | 所属作品：`p:blue archive`<br>棕榈的光环呈品红色环状外加三个类似“筋斗云”环绕在其周边。<br>处于劣势时会骂骂咧咧或者撒娇痛哭。<br>![](https://img.moegirl.org.cn/common/1/14/BA_Shuro.png) | [萌娘百科](https://zh.moegirl.org.cn/箭吹棕榈) |
+| shuro yabuki | 箭吹棕榈 | ![](https://static.wikia.nocookie.net/blue-archive/images/3/35/Shuro_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/箭吹棕榈) |
 | blade | 布莱德 \| 刃 | ①<br>![](https://thumbsnap.com/i/XWKR7wAg.png)<br>所属作品：`brave nine`<br><br>②<br>![](https://thumbsnap.com/i/JoqShrJM.jpg)<br>所属作品：`p:honkai star rail`<br><br>刃是米哈游制作的游戏《崩坏：星穹铁道》及其衍生作品的登场角色。 | 刃 [萌娘百科](https://zh.moegirl.org.cn/刃) \| 布莱德 [gamekee](https://www.gamekee.com/zsca2/tj/648133.html?style=style2) |
 | astesia | 星极 | ![](https://patchwiki.biligame.com/images/arknights/4/49/3mntei671ohkjsr8qxk7ylmbzzjy1ya.png)<br>所属作品`p:arknights` | [萌娘百科](https://zh.moegirl.org.cn/星极) |
 | ichika nakamasa | 仲正一花 | ![](https://static.wikia.nocookie.net/blue-archive/images/3/3c/Ichika_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/仲正一花) |
