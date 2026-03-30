@@ -8919,6 +8919,7 @@ example:
 | reika | 丽香 | ![](https://static.wikia.nocookie.net/deadoralive/images/d/d7/Reika_still.png)<br>所属作品：`dead or alive`<br>日语：れいか |  |
 | patty | 帕蒂 | ![](https://static.wikia.nocookie.net/deadoralive/images/3/32/Still_c18.png)<br>所属作品：`dead or alive`<br>日语：パティ |  |
 | azusa | 梓 | ![](https://static.wikia.nocookie.net/deadoralive/images/a/a5/DOAXVV_Azusa.png)<br>所属作品：`dead or alive`<br>日语：あずさ |  |
+| xin xianying | 辛宪英 | ![](https://www.koeitecmoamerica.com/dw9/images/characters/shin/zoom/shinkenei.jpg)<br>所属作品：`dynasty warriors` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
