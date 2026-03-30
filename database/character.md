@@ -6578,7 +6578,7 @@ example:
 | massachusetts | 马萨诸塞 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/c0d1f2a5dd88e89299aadc00ec2c140f262400697.png) | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:马萨诸塞) |
 | kongiku | 绀菊 |  |  |
 | okoi | 阿恋 |  |  |
-| tomoe sashiro | 佐城巴 | 所属作品：`p:blue archive`<br>红冬联邦学园所属，是红冬事务局的秘书室长，也是切里诺的首席副手。<br>![](https://patchwiki.biligame.com/images/ba/a/a6/8mvb5dmef4vqamhouvbcvm1lfbkxshu.png)<br>![](https://img.moegirl.org.cn/common/e/ec/BA_Tomoe-ml.png) | [萌娘百科](https://zh.moegirl.org.cn/佐城智惠)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tomoe) |
+| tomoe sashiro | 佐城巴 | ![](https://patchwiki.biligame.com/images/ba/a/a6/8mvb5dmef4vqamhouvbcvm1lfbkxshu.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/佐城智惠)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tomoe) |
 | chien wu | 建武 | ![](https://patchwiki.biligame.com/images/blhx/thumb/7/72/3jqi0phcnuyb6q3yvq2epruty2riede.jpg/525px-建武立绘.jpg)<br>《碧蓝航线》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:建武) |
 | sindel | 辛黛尔 |  |  |
 | mileena | 美莲娜 |  |  |
