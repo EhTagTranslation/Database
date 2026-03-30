@@ -4493,7 +4493,7 @@ example:
 | uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
 | sovetskaya rossiya | 苏维埃罗西亚 | ![](https://i2.hdslb.com/bfs/new_dyn/997cde8d66f7cc9c8cd9afb5ad421001262400697.png)<br>![](https://i2.hdslb.com/bfs/new_dyn/af316e5520eeef424a2c414e4afa0303262400697.png)<br>所属作品：`azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
 | faruzan | 珐露珊 | ![](https://patchwiki.biligame.com/images/ys/4/4c/2tnw49w4ap9qny2rvmyz5maazxpy603.gif)<br>所属作品:`p:genshin impact`<br>来自「一百年前」的学者，喜欢以前辈自居，对各类古老文字与古典机关都颇有研究。 | [萌娘百科](https://zh.moegirl.org.cn/珐露珊) |
-| plana | 普拉娜 | ![](https://ehgt.org/w/02/176/05957-tlh7btbj.webp)<br>所属作品: `p:blue archive`<br><br>普雷纳帕特斯所持的什亭之箱的操作系统OS。<br>在最终篇第4章『普雷纳帕特斯最终决战』中，进入了老师的什亭之箱，与阿罗娜一起创造了奇迹，让老师平安生还。 | [萌娘百科](https://zh.moegirl.org.cn/普拉娜) |
+| plana | 普拉娜 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/5b/Plana_Portrait.png)<br>所属作品: `p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/普拉娜) |
 | rio tsukatsuki | 调月莉音 | ![](https://static.wikia.nocookie.net/blue-archive/images/9/99/Rio_Winter_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/调月莉音) |
 | kikuri hiroi | 广井菊里 | ![](https://static.wikia.nocookie.net/bocchi-the-rock/images/8/88/Kikuri_Hiroi.png/revision/latest?cb=20251123132120)<br>由はまじあき所创作的漫画《`bocchi the rock`》的登场角色。<br>人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。 | [萌娘百科](https://zh.moegirl.org.cn/广井菊里) |
 | gintoki sakata | 坂田银时 | ![](https://static.wikia.nocookie.net/gintama/images/b/b9/GinFinal.png)<br><br>万事屋的领导，啥事都做。<br>不定期吃甜食，就会极其焦躁的甜食党。<br>平时看似很没精神、没力气，但实际是个很厉害的武士。<br>原是一名攘夷志士，被称“白夜叉”的恐怖剑术达人，但现在只使用木刀。<br>爱车是一辆轻摩托。 | [萌娘百科](https://zh.moegirl.org.cn/坂田银时) [Fandom](https://gintama.fandom.com/wiki/Sakata_Gintoki) |
