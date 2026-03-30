@@ -5004,7 +5004,7 @@ example:
 | sayuri | 小百合 | ①所属作品：`senran kagura`<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=a18258a4f203738dde4a0c2a831ab073/533b6e36acaf2eddbb4f6eed891001e93901932d.jpg)<br>————————<br>②所属作品：`dead or alive`<br>![](https://static.wikia.nocookie.net/deadoralive/images/3/34/Still_c17.png) |  |
 | helena | 海伦娜 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/78c6fdd3519a53f31324499830ce8772262400697.png) |  |
 | momiji | 红叶 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/bd/C08_img.png)<br>![](https://static.wikia.nocookie.net/deadoralive/images/4/4f/DOA6_Momiji_Render.png)<br>所属作品：`dead or alive` ，`ninja gaiden` |  |
-| nico | NiCO | ![](https://img.moegirl.org.cn/common/thumb/6/64/Img-nico.png/420px-Img-nico.png)<br>所属作品：`dead or alive`<br>初登场于《死或生6》。 |  |
+| nico | 妮可（死或生） | ![](https://static.wikia.nocookie.net/deadoralive/images/8/82/DoA6_2018_11-18-18_001.png)<br>所属作品：`dead or alive` |  |
 | monica | 莫妮卡（死或生） | ![](https://static.wikia.nocookie.net/deadoralive/images/b/bc/91a0491fb4a9d3e7f39bf5b2f6245219a4c12c92ab3a92d25a651c293e59b905.png)<br>所属作品：`dead or alive` |  |
 | fiona | 菲欧娜 | ![](https://static.wikia.nocookie.net/deadoralive/images/e/e2/Still_c13.png)<br>所属作品：`dead or alive`<br>日语：フィオナ |  |
 | cai wenji | 蔡文姬 | ①<br>![](https://static.wikia.nocookie.net/honor-of-kings/images/a/ae/Cai_Yan-circle-big.png)<br>所属作品：`honor of kings`<br>②<br><br>所属作品：`dynasty warriors` |  |
