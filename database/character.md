@@ -4345,7 +4345,7 @@ example:
 | moe kazekura | 风仓萌绘 | 所属作品：`p:blue archive`<br>SRT特殊学院所属、RABBIT小队的装备操作员， 呼号「RABBIT3」。<br>![](https://patchwiki.biligame.com/images/ba/0/02/9enodw442ovojdhxdeurikxrokd3157.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Moe) |
 | eiko tsukimi | 月见英子 | 月见英子（日语：月見（つきみ） 英子（えいこ））是由四叶夕卜原作及原案、小川亮作画的一部漫画《派对浪客诸葛孔明》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/月见英子) |
 | hitori gotou | 后藤一里 | ![](https://bocchi.rocks/omnibus/assets/img/page/character/hitori/image_movienew.png)<br>所属作品：`bocchi the rock`<br>后藤一里（日语：後藤（ごとう）ひとり） | [萌娘百科](https://zh.moegirl.org.cn/后藤一里) |
-| tsukuyo oono | 大野月咏 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，忍术研究部的部员。<br>![](https://patchwiki.biligame.com/images/ba/1/12/73j6lohh6qm3r5wre6zkfdulfut0y0b.png) | [萌娘百科](https://zh.moegirl.org.cn/大野月夜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tsukuyo) |
+| tsukuyo oono | 大野月咏 | ![](https://patchwiki.biligame.com/images/ba/1/12/73j6lohh6qm3r5wre6zkfdulfut0y0b.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/大野月夜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Tsukuyo) |
 | mikoto aketa | 绯田美琴 | ![](https://img.moegirl.org.cn/common/f/f7/Mikoto_initial.png)<br>![](https://img.moegirl.org.cn/common/0/02/MikotoFull-Checkmate.png)<br>绯田美琴（日语：緋田 美琴（あけた みこと））<br>所属作品:`p:the idolmaster` | [萌娘百科](https://zh.moegirl.org.cn/绯田美琴) |
 | nazuna nanakusa | 七草荠 |  |  |
 | revy | 莱薇 | 莱薇（英文：Revy）是广江礼威漫画《黑礁》及其衍生作品的登场角色。<br><br>本名蕾贝卡·李（英文：Rebecca Lee）。 | [萌娘百科](https://zh.moegirl.org.cn/莱薇%28黑礁%29#) |
