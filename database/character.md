@@ -5125,7 +5125,7 @@ example:
 | iris | 艾莉丝 \| 爱丽丝 | ①《炎炎消防队》及其衍生动画中的虚构角色![](https://lain.bgm.tv/r/400/pic/crt/l/90/6b/68396_crt_b5WxY.jpg?r=1678796731) | [百度百科](https://baike.baidu.com/item/爱丽丝/23315803) |
 | momoka yuragi | 由良木桃香 | ![](https://static.wikia.nocookie.net/blue-archive/images/d/dd/Momoka_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/由良木桃香) |
 | yukari kadenokouji | 勘解由小路紫 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/46/Yukari_Portrait.png)<br>![](https://static.wikia.nocookie.net/blue-archive/images/7/73/Yukari_Miko_Portrait.png)<br>所属作品: `p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/勘解由小路紫) |
-| yakumo aramaki | 荒槙八云 | 所属作品：`p:blue archive`<br>红冬联邦学园的出版部部长，负责红冬事务局机关杂志《红熊》的出版。<br>为了出版部的盈利什么都能干得出来，甚至不仅售卖机关事务局的杂志，同时也会印制批判事务局体制的宣传单。<br>![](https://pic.cangku.moe/images/2025/09/06/11kAc.webp) | [百度百科](https://baike.baidu.com/item/荒槙八云/65684518) |
+| yakumo aramaki | 荒槙八云 | ![](https://static.wikia.nocookie.net/blue-archive/images/b/bf/Yakumo_Portrait.png)<br>所属作品：`p:blue archive` | [百度百科](https://baike.baidu.com/item/荒槙八云/65684518) |
 | kasumi kinugawa | 鬼怒川霞 | ![](https://static.wikia.nocookie.net/blue-archive/images/2/2d/Kasumi_Swimsuit_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鬼怒川霞) |
 | niya amachi | 天地妮娅 | ![](https://static.wikia.nocookie.net/blue-archive/images/c/c4/Niya_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/天地妮娅) |
 | fiammetta | 菲亚梅塔 | ![](https://patchwiki.biligame.com/images/arknights/2/24/dx1kba5fwygcoqn38xfcrx0qknsxowz.png)<br>所属作品`p:arknights` | [https://prts.wiki/w/菲亚梅塔](https://prts.wiki/w/菲亚梅塔)<br>[BILIGAME WIKI](https://wiki.biligame.com/arknights/菲亚梅塔) |
