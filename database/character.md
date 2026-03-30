@@ -4723,7 +4723,7 @@ example:
 | rin nanagami | 七神凛 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/4b/Rin_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/七神琳) |
 | aoi oki | 扇喜葵 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/43/Aoi_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/扇喜葵) |
 | rumi akeshiro | 朱城瑠美 | ![](https://patchwiki.biligame.com/images/ba/4/4e/nat79rcfg6tz64mue27obzzjh4p8mpf.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Rumi) |
-| michiru chidori | 千鸟满 | 所属作品：`p:blue archive`<br>百鬼夜行联合学园所属，忍术研究部部长，浑身上下总是充满了毫无根据的自信。<br>![](https://patchwiki.biligame.com/images/ba/c/c0/rpd9bs81a5123pspcncmgrugzur3o38.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Michiru) |
+| michiru chidori | 千鸟满 | ![](https://patchwiki.biligame.com/images/ba/c/c0/rpd9bs81a5123pspcncmgrugzur3o38.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Michiru) |
 | reijo kayama | 鹿山丽情 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/81/Reijo_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/鹿山丽情) |
 | maki konuri | 小涂真纪 | ![](https://patchwiki.biligame.com/images/ba/b/bd/di760yd2imsjuh51kcjrtr7mgf65dmv.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Maki) |
 | misaki imashino | 戒野美咲 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的少女，给人不怎么说话、很冷漠的印象。<br>![](https://patchwiki.biligame.com/images/ba/1/12/fpf02ggiwzfb5pzu8r400a4s74s6gj0.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Misaki) |
