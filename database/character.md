@@ -5518,7 +5518,7 @@ example:
 | yuki suou | 周防有希 | ![](https://img.moegirl.org.cn/common/9/9c/Yuki_Suou_2.png)<br>所属作品：`tokidoki bosotto russia-go de dereru tonari no alya-san` | [萌娘百科](https://zh.moegirl.org.cn/周防有希) |
 | ayase mitsukasa | 三司绫濑 | 三司绫濑（日语：三司（みつかさ） あやせ）是柚子社所创作的美少女游戏《RIDDLE JOKER》的登场角色，女主角之一。<br><br>![](https://img.moegirl.org.cn/common/6/61/三司绫濑_角色歌专辑封面.jpg) | [萌娘百科](https://zh.moegirl.org.cn/三司绫濑) |
 | kachina | 卡齐娜 | ![](https://patchwiki.biligame.com/images/ys/1/19/mli7obv92nu5hb9kpnsvl77xqtnxa79.gif)<br>所属作品：`genshin impact`<br>纳茨卡延的年轻战士，受赐古名「乌沙博蒂」。善良执着的少女，在挫折中不断成长。 | [萌娘百科](https://zh.moegirl.org.cn/卡齐娜) |
-| niyaniya kyouju | 笑面教授 | 所属作品：`p:blue archive`<br><br>本名不明，真实身份不明，行动目的不明。<br><br>被认为是基沃托斯犯罪界的佼佼者，明面上的身份是黑市的情报贩子。从不亲自出面与人交流，只会通过远程通讯与人交易，据说只要给她足够的金钱，她就一定能制定完美的计划。<br>![](https://img.moegirl.org.cn/common/f/ff/BA_Niyaniya.png) | [萌娘百科](https://zh.moegirl.org.cn/笑面教授) |
+| niyaniya kyouju | 笑面教授 | ![](https://static.wikia.nocookie.net/blue-archive/images/e/e6/Smiling_Professor_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/笑面教授) |
 | kojiro nezu | 根津弧次郎 |  |  |
 | tokiyuki hojo | 北条时行 |  |  |
 | yorishige suwa | 诹访赖重 |  |  |
