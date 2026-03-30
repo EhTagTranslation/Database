@@ -2767,6 +2767,7 @@ example:
 | omae gotoki ga maou ni kateru to omouna | 被勇者小队逐出队伍，只好在王都自在过活 | ![](https://upload.wikimedia.org/wikipedia/en/b/b9/ROLL_OVER_AND_DIE_light_novel_volume_1_cover.jpg)<br>全名：「你这种家伙别想打赢魔王」被攻略厨踢出了勇者队伍,想在王都过上自在的生活<br>日语：「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい |  |
 | ore wa seikan kokka no akutoku ryoushu | 我是星际国家的恶德领主 | ![](https://lain.bgm.tv/r/400/pic/cover/l/6d/71/343684_nsJlL.jpg)<br>日本作家三嶋与梦创作的轻小说作品，并有同名改编漫画和动画。 |  |
 | active raid | 机动强袭室第八系 | ![](https://static.wikia.nocookie.net/csi-acgn/images/d/df/1st_Season_%28Visual1%29.jpg) |  |
+| tojima tanzaburo wa kamen rider ni naritai | 东岛丹三郎想成为假面骑士 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
