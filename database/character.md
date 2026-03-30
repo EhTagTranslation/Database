@@ -4719,7 +4719,7 @@ example:
 | eimi izumimoto | 和泉元艾米 | ![](https://patchwiki.biligame.com/images/ba/c/c9/labxdukagfampj52tifctfwuce2nsex.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Eimi) |
 | megu shimokura | 下仓惠 | ![](https://static.wikia.nocookie.net/blue-archive/images/1/11/Megu_Swimsuit_Portrait.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Megu) |
 | serina sumi | 鹫见芹娜 | 圣三一综合学园所属，献身于救护骑士团的温柔少女。<br>![](https://patchwiki.biligame.com/images/ba/0/05/irkytlzqnd9m35zn49l8277qdbfp7ao.png)<br>![](https://patchwiki.biligame.com/images/ba/8/82/rfy59f0mc11xpqvnwdslmy3mrzusq7j.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Serina) |
-| ayumu iwabitsu | 岩柜步梦 | 所属作品：`p:blue archive`<br>联邦学生会的调停室的负责人，兼任琳的秘书。<br>性格拘谨，每当老师完成任务后都会惊叹地夸奖。<br>步梦的光环呈内外两个金色光环，且两端尽头均有共4个星星。<br>![](https://img.moegirl.org.cn/common/thumb/0/01/BA_Ayumu.png/420px-BA_Ayumu.png) | [萌娘百科](https://zh.moegirl.org.cn/岩柜步梦) |
+| ayumu iwabitsu | 岩柜步梦 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/8a/Ayumu_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/岩柜步梦) |
 | rin nanagami | 七神凛 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/4b/Rin_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/七神琳) |
 | aoi oki | 扇喜葵 | ![](https://static.wikia.nocookie.net/blue-archive/images/4/43/Aoi_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/扇喜葵) |
 | rumi akeshiro | 朱城瑠美 | ![](https://patchwiki.biligame.com/images/ba/4/4e/nat79rcfg6tz64mue27obzzjh4p8mpf.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Rumi) |
