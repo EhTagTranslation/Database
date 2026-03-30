@@ -282,7 +282,7 @@ example:
 | final fantasy iii | 最终幻想III |  |  |
 | final fantasy iv | 最终幻想IV |  |  |
 | final fantasy v | 最终幻想5 |  |  |
-| final fantasy vi | 最终幻想VI |  |  |
+| final fantasy vi | 最终幻想6 |  |  |
 | final fantasy vii | 最终幻想7 |  |  |
 | final fantasy viii | 最终幻想VIII |  |  |
 | final fantasy ix | 最终幻想IX |  |  |
