@@ -8905,6 +8905,7 @@ example:
 | najenda | 娜洁希坦 | ![](https://static.wikia.nocookie.net/akamegakill/images/8/87/Najenda_main.png)<br>所属作品：`akame ga kill` |  |
 | brigitta lycaon | 布丽吉塔·利卡翁 | ![](https://static.wikia.nocookie.net/megamitensei/images/a/a8/MRF_Brigitta.png)<br>所属作品：`metaphor refantazio` |  |
 | juani cygnus | 朱厄妮·西格纳斯 | ![](https://static.wikia.nocookie.net/megamitensei/images/8/80/MRF_Junah.png)<br>所属作品：`metaphor refantazio` |  |
+| will | 威尔（暗喻幻想） | ![](https://static.wikia.nocookie.net/megamitensei/images/f/f4/Metaphor_ReFantazio_Protagonist_art.png)<br>所属作品：`metaphor refantazio` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
