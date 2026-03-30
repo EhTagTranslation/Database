@@ -8911,6 +8911,7 @@ example:
 | lenna charlotte tycoon | 莱纳·夏洛特·提康 | ![](https://ehgt.org/w/00/811/79834-knqbuoxq.webp)<br>所属作品：`final fantasy v` |  |
 | karasuba | 鸦羽 | ![](https://lain.bgm.tv/r/400/pic/crt/l/96/da/114049_crt_V9k99.jpg)<br>所属作品：`sekirei` |  |
 | minato sahashi | 佐桥皆人 | ![](https://static.wikia.nocookie.net/sekirei/images/e/e7/Minato_Profile.png)<br>所属作品：`sekirei`<br>日语：佐橋皆人 |  |
+| miya asama | 浅间美哉 | ![](https://static.wikia.nocookie.net/sekirei/images/4/45/Miya06.jpg)<br>所属作品：`sekirei`<br>日语：あさま みや |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
