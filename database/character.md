@@ -4712,7 +4712,7 @@ example:
 | koyuki kurosaki | 黑崎小雪 | ![](https://static.wikia.nocookie.net/blue-archive/images/8/8b/Koyuki_Bunny_Girl_Portrait.png)<br>![](https://static.wikia.nocookie.net/blue-archive/images/7/7a/Koyuki_Portrait.png)<br>所属作品：`p:blue archive` | [https://www.gamekee.com/ba/tj/585462.html](https://www.gamekee.com/ba/tj/585462.html) |
 | atsuko hakari | 秤亚津子 | ![](https://patchwiki.biligame.com/images/ba/8/8a/iixv8zti69wcis65xp2326gpezz5b1h.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Atsuko) |
 | saya yakushi | 药子纱绫 | ![](https://patchwiki.biligame.com/images/ba/b/bf/ortudded3zii1i5w3ty7ffvujamr7pp.png)<br>![](https://patchwiki.biligame.com/images/ba/c/ca/l3of75sdbvdbagrmt93dmxpiwmcjqaz.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Saya) |
-| kaya shiranui | 不知火花耶 | 所属作品：`p:blue archive`<br>联邦理事会防卫室主任，是基沃托斯各种治安工作的总负责人。下属有女武神警察学园的各部门。联邦学生会人力资源主任和体育主任支持她。<br>![](https://img.moegirl.org.cn/common/7/76/BA_Kaya.png) | [萌娘百科](https://zh.moegirl.org.cn/不知火花耶) |
+| kaya shiranui | 不知火花耶 | ![](https://static.wikia.nocookie.net/blue-archive/images/0/0c/Kaya_Portrait.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/不知火花耶) |
 | mine aomori | 苍森美弥 | ![](https://patchwiki.biligame.com/images/ba/3/32/1icwfswm5ihotm1q3qcrn8iyg43x6yc.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Mine) |
 | mina konoe | 近卫弥奈 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/54/Mina_Portrait.png)<br>所属作品：`p:blue archive` |  |
 | marina ikekura | 池仓玛丽娜 | ![](https://patchwiki.biligame.com/images/ba/c/c0/8od0suem8f6pouddomkv5eefck0fbxz.png)<br>所属作品：`p:blue archive` | [萌娘百科](https://zh.moegirl.org.cn/池仓玛丽娜)<br>[BILIGAME WIKI](https://wiki.biligame.com/ba/Marina) |
