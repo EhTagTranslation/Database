@@ -4731,7 +4731,7 @@ example:
 | haruka igusa | 伊草遥香 | ![](https://patchwiki.biligame.com/images/ba/e/ee/swbse283usqpys5mriagbkfm6x3wiox.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Haruka)<br>[萌娘百科](https://zh.moegirl.org.cn/伊草遥香) |
 | kirino nakatsukasa | 中务桐乃 | ![](https://patchwiki.biligame.com/images/ba/9/92/m9xvaaxz2yobge7lgvjshoo8ecw90ce.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Kirino) |
 | yoshimi ibaragi | 伊原木好美 | ![](https://patchwiki.biligame.com/images/ba/d/d2/33rhgsig74oywap6nbf96bh4szlfw0p.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Yoshimi) |
-| hiyori tsuchinaga | 槌永日和 | 所属作品：`p:blue archive`<br>阿里乌斯分校所属，阿里乌斯特殊小队的少女，略显胆小又显得有些忧郁的女孩。<br>![](https://patchwiki.biligame.com/images/ba/3/33/3pn6oggseul7ercyw3oprkhymvcql18.png)<br>![](https://img.moegirl.org.cn/common/7/76/BA_Hiyori_Swimsuit.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hiyori) |
+| hiyori tsuchinaga | 槌永日和 | ![](https://patchwiki.biligame.com/images/ba/3/33/3pn6oggseul7ercyw3oprkhymvcql18.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hiyori) |
 | cherino renkawa | 连河切里诺 | ![](https://patchwiki.biligame.com/images/ba/6/64/247f0m1q5vxmcmevvmddr3axv3hdfnf.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Cherino) |
 | kei tsukishima | 月岛萤 |  | [萌娘百科](https://zh.moegirl.org.cn/月岛萤) |
 | izzy izumi | 泉光子郎 |  |  |
