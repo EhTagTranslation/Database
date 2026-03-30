@@ -8902,6 +8902,7 @@ example:
 | chelsea | 切尔茜 | ![](https://static.wikia.nocookie.net/akamegakill/images/9/93/Chelsea_.png)<br>所属作品：`akame ga kill` |  |
 | leone | 雷欧奈 | ![](https://static.wikia.nocookie.net/akamegakill/images/a/af/Leonemainpage.png)<br>所属作品：`akame ga kill` |  |
 | kurome | 黑瞳 | ![](https://static.wikia.nocookie.net/akamegakill/images/2/2b/Kurome_main.png)<br>所属作品：`akame ga kill` |  |
+| najenda | 娜洁希坦 | ![](https://static.wikia.nocookie.net/akamegakill/images/8/87/Najenda_main.png)<br>所属作品：`akame ga kill` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
