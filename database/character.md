@@ -4999,7 +4999,7 @@ example:
 | jessie rasberry | 杰西 | 游戏角色扮演游戏《最终幻想VII》与《最终幻想VII：重制版》中的一个女性角色，她与毕格斯、威吉一起是雪崩的核心成员。反神罗组织的成员，她负责组织中作战物品以及伪造身份的准备工作。作为一名技术专家，为雪崩提供爆炸中使用的炸药、执行任务时使用的小型炸药，对魔晄炉1号和5号的爆炸事件至关重要。她还很会照顾人，见到帅哥就转不开眼睛。尽管她总体上很自信和乐观，但她对爆炸造成的破坏感到内疚。 |  |
 | tamaki | 环 | ![](https://static.wikia.nocookie.net/deadoralive/images/d/d1/Tamaki_DOAXVV.png)<br>![](https://static.wikia.nocookie.net/deadoralive/images/5/5c/Img-tamaki.png)<br>所属作品：`dead or alive` |  |
 | nagisa | 凪咲 | 游戏《死或生：沙滩排球维纳斯假期》中的女角色。生日为每年的5月5日，游戏中5月5日会进行为期一周的相关活动，如“凪咲生日扭蛋”，“凪咲的生日挑战赛”等。 |  |
-| nanami | 娜娜米 | 游戏《死或生6》的女性角色 |  |
+| nanami | 七海（死或生） | ![](https://static.wikia.nocookie.net/deadoralive/images/2/22/Nanami_render.png)<br>所属作品：`dead or alive` |  |
 | misaki | 海咲 | 系列游戏《死或生：沙滩排球》中的一名角色，在岛上打工的爽朗女孩，她会支持岛主，也会表现出害羞的一面，穿着打扮十分可爱。<br>年龄：18岁<br>生日：7月7日<br>血型：A型<br>身高：156 cm<br>三围：85/54/89 cm<br>兴趣：看漫画、天文观测、潜水<br>喜欢的东西：芒果、香草、可丽饼<br>喜欢的颜色：橙色 |  |
 | sayuri | 小百合 | ①所属作品：`senran kagura`<br>![](https://imgsa.baidu.com/forum/w%3D580/sign=a18258a4f203738dde4a0c2a831ab073/533b6e36acaf2eddbb4f6eed891001e93901932d.jpg)<br>————————<br>②所属作品：`dead or alive`<br>![](https://static.wikia.nocookie.net/deadoralive/images/3/34/Still_c17.png) |  |
 | helena | 海伦娜 | 所属作品：`azur lane`<br>![](https://i0.hdslb.com/bfs/new_dyn/78c6fdd3519a53f31324499830ce8772262400697.png) |  |
