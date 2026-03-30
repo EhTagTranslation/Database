@@ -2629,7 +2629,7 @@ example:
 | rabi en rose | 拉比安露斯 |  |  |
 | lei fang | 雷芳 | 所属作品：`dead or alive`<br>丽凤（レイファン），通称雷芳<br>![](https://ehgt.org/w/01/863/46454-4pd8vb4h.webp) |  |
 | menace | 美纳斯 | ![](https://static.wikia.nocookie.net/queensblade/images/1/19/Img_chara_menace.png)<br>所属作品：`queens blade` | [Fandom](https://queensblade.fandom.com/wiki/Menace) |
-| tina armstrong | 蒂娜·阿姆斯特朗 |  |  |
+| tina armstrong | 蒂娜·阿姆斯特朗 | ![](https://static.wikia.nocookie.net/deadoralive/images/b/b6/Img-tina.png)<br>所属作品：`dead or alive` |  |
 | anri misugi | 美杉杏莉 |  |  |
 | makoto hozumi | 穗积真琴 |  |  |
 | misao shinohara | 筱原美纱绪 |  |  |
