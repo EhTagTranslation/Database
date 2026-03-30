@@ -3669,7 +3669,7 @@ example:
 | noriko takaya | 高屋法子 | 《飞跃巅峰》第一季女主角 |  |
 | kazumi amano | 天野和美 |  |  |
 | jung freud | 荣格·佛洛依德 |  |  |
-| aru rikuhachima | 陆八魔亚瑠 | 所属作品：`p:blue archive`<br>格黑娜学园所属，自称便利屋68社长。<br>作为格黑娜学园的社团活动，阿露喜欢以便利屋68为据点，从事一些不法行当。<br>![](https://patchwiki.biligame.com/images/ba/1/17/h8029t17uqise6md0cakz4e1ytocsud.png)<br>![](https://img.moegirl.org.cn/common/0/0b/BA_Aru_Dress.png)<br>![](https://img.moegirl.org.cn/common/3/38/BA_Aru_Newyear.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Students)<br>[萌娘百科](https://zh.moegirl.org.cn/陆八魔亚瑠) |
+| aru rikuhachima | 陆八魔亚瑠 | ![](https://patchwiki.biligame.com/images/ba/1/17/h8029t17uqise6md0cakz4e1ytocsud.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Students)<br>[萌娘百科](https://zh.moegirl.org.cn/陆八魔亚瑠) |
 | hifumi ajitani | 阿慈谷日富美 | 所属作品：`p:blue archive`<br><br>圣三一综合学园所属，补习授课部中多情善感的少女。虽然外貌和成绩都不出众，但为人圆滑且品性善良，很受人欢迎。<br>会仔细听周围人们的烦恼及心事，但有时也会因此而无意中被卷入情绪漩涡惹起麻烦。![](https://patchwiki.biligame.com/images/ba/1/13/19qqntcvisv934g59i6j9z9tkmp84p9.png)<br>![](https://patchwiki.biligame.com/images/ba/9/98/lo9fox7e23x1qg6g8cqmzaluh1ltclw.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hifumi) |
 | azusa shirasu | 白洲梓 | 所属作品：`p:blue archive`<br><br>三一补课部的冰魔女。<br>自从从原本的学校退学后，因为某种原因而就读三一学园，重新致力于学业，明明很怕寂寞，却因为担心对其他学生造成麻烦而主动与人拉开距离，很让补课部的学生为她操心。![](https://patchwiki.biligame.com/images/ba/f/f8/opcueev4ue5iylkrcaxz6q5wxdd6cgv.png) | [BILIGAME WIKI](https://wiki.biligame.com/ba/Azusa) |
 | hanako urawa | 浦和花子 | ![](https://patchwiki.biligame.com/images/ba/7/73/tlelaxklkkbw7ivvddivcyr6frubcjl.png)<br>所属作品：`p:blue archive` | [BILIGAME WIKI](https://wiki.biligame.com/ba/Hanako) |
