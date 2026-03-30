@@ -8903,6 +8903,7 @@ example:
 | leone | 雷欧奈 | ![](https://static.wikia.nocookie.net/akamegakill/images/a/af/Leonemainpage.png)<br>所属作品：`akame ga kill` |  |
 | kurome | 黑瞳 | ![](https://static.wikia.nocookie.net/akamegakill/images/2/2b/Kurome_main.png)<br>所属作品：`akame ga kill` |  |
 | najenda | 娜洁希坦 | ![](https://static.wikia.nocookie.net/akamegakill/images/8/87/Najenda_main.png)<br>所属作品：`akame ga kill` |  |
+| brigitta lycaon | 布丽吉塔·利卡翁 | ![](https://static.wikia.nocookie.net/megamitensei/images/a/a8/MRF_Brigitta.png)<br>所属作品：`metaphor refantazio` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
