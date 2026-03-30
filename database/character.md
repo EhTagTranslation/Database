@@ -8918,6 +8918,7 @@ example:
 | tsukushi | 筑紫 | ![](https://static.wikia.nocookie.net/deadoralive/images/0/02/Still_c19.png)<br>所属作品：`dead or alive`<br>日语：つくし |  |
 | reika | 丽香 | ![](https://static.wikia.nocookie.net/deadoralive/images/d/d7/Reika_still.png)<br>所属作品：`dead or alive`<br>日语：れいか |  |
 | patty | 帕蒂 | ![](https://static.wikia.nocookie.net/deadoralive/images/3/32/Still_c18.png)<br>所属作品：`dead or alive`<br>日语：パティ |  |
+| azusa | 梓 | ![](https://static.wikia.nocookie.net/deadoralive/images/a/a5/DOAXVV_Azusa.png)<br>所属作品：`dead or alive`<br>日语：あずさ |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
