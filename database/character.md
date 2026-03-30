@@ -8901,6 +8901,7 @@ example:
 | eve reese | 夏娃·莉丝 | ![](https://static.wikia.nocookie.net/protagonists/images/3/3d/Eve_Full_Anime.png)<br>出自作品：`p:kaifuku jutsushi no yarinaoshi`<br><br>夏娃·莉丝，轻小说《回复术士的重启人生》及其衍生作品中的角色。黑翼族公主兼魔王候选人，拥有深红色眼瞳与黑色翅膀，发色与一周目魔王存在差异。 | [百度百科](https://baike.baidu.com/item/夏娃·莉丝/55975864) |
 | chelsea | 切尔茜 | ![](https://static.wikia.nocookie.net/akamegakill/images/9/93/Chelsea_.png)<br>所属作品：`akame ga kill` |  |
 | leone | 雷欧奈 | ![](https://static.wikia.nocookie.net/akamegakill/images/a/af/Leonemainpage.png)<br>所属作品：`akame ga kill` |  |
+| kurome | 黑瞳 | ![](https://static.wikia.nocookie.net/akamegakill/images/2/2b/Kurome_main.png)<br>所属作品：`akame ga kill` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
