@@ -5522,7 +5522,7 @@ example:
 | kojiro nezu | 根津弧次郎 |  |  |
 | tokiyuki hojo | 北条时行 |  |  |
 | yorishige suwa | 诹访赖重 |  |  |
-| shizuku | 雫 |  |  |
+| shizuku | 雫 | ![](https://static.wikia.nocookie.net/deadoralive/images/a/a0/Shizuku_render.png)<br>所属作品：`dead or alive`<br>日语：しずく |  |
 | the flash | 闪电侠 |  |  |
 | gentildonna | 贵妇人 | ![](https://static.wikia.nocookie.net/umamusume/images/9/9c/Gentildonna_%28Race%29.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ジェンティルドンナ（Gentildonna）。 | [萌娘百科](https://zh.moegirl.org.cn/贵妇人) |
 | yamanin zephyr | 也文摄辉 | ![](https://moegirl.icu/media/thumb/UPDCH_YamaninZephyr_00.png/580px-UPDCH_YamaninZephyr_00.png)<br>所属作品：`uma musume pretty derby`<br>原型为日本纯血竞赛马匹ヤマニンゼファー（Yamanin Zephyr）。 | [萌娘百科](https://zh.moegirl.org.cn/也文摄辉) |
