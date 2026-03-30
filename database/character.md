@@ -8923,6 +8923,7 @@ example:
 | asami kazari | 花咲里麻美 | ![](https://static.wikia.nocookie.net/csi-acgn/images/5/5b/Asami_Kazari_Full.png)<br>所属作品：`active raid` |  |
 | mavis vermillion | 梅比斯·法米利翁 | ![](https://static.wikia.nocookie.net/fairytail/images/2/28/Mavis%27_looks.png)<br>所属作品：`fairy tail` |  |
 | watcher | 观者 |  |  |
+| miu furinji | 风林寺美羽 | ![](https://ehgt.org/w/02/087/07724-2i4b4aup.webp)<br>出自作品：`p:historys strongest disciple kenichi`<br><br>风林寺美羽（ふうりんじ みう）是日本漫画《史上最强弟子兼一》及其衍生作品的女主角，梁山泊长老风林寺隼人的孙女，负责料理道场日常事务。 | [百度百科](https://baike.baidu.com/item/风林寺美羽/10218179) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
