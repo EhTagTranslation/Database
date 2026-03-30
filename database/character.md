@@ -8914,6 +8914,7 @@ example:
 | miya asama | 浅间美哉 | ![](https://static.wikia.nocookie.net/sekirei/images/4/45/Miya06.jpg)<br>所属作品：`sekirei`<br>日语：あさま みや |  |
 | meg | 梅格 | ①所属作品：`dead or alive`<br>![](https://static.wikia.nocookie.net/deadoralive/images/c/c4/Meg_render_DOAXVV.png)<br>日语：メグ<br>②所属作品：`family guy` |  |
 | rachel | 瑞秋 | ![](https://static.wikia.nocookie.net/deadoralive/images/2/27/DOA6_Rachel_Render.png)<br>所属作品：`dead or alive` |  |
+| amy | 艾米 | ![](https://static.wikia.nocookie.net/deadoralive/images/7/78/Amy_render.png)<br>所属作品：`dead or alive`<br>日语：エイミー |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
