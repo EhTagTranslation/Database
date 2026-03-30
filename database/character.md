@@ -7797,7 +7797,7 @@ example:
 | yumia liessfeldt | 优米雅·利斯菲尔德 | ![](https://storage.moegirl.org.cn/moegirl/commons/e/e8/优米雅.png)<br>所属作品：`atelier yumia`<br>优米雅在一场意外中失去母亲，也因此得知自己是炼金术士的后代，对此心生诸多疑问。她为了找寻真相而加入调查团，为了追寻失落的历史，优米雅一行人踏上了旅途。 |  |
 | susan storm | 苏珊·斯通 | ![](https://ehgt.org/w/02/094/17213-5237gb44.webp)<br>所属作品：`fantastic four`<br>外号“隐形女”。 |  |
 | beat valkyrie ixseal | 爱克希尔 | ![](https://ehgt.org/w/02/143/92228-87gd3lm0.webp)<br>所属作品：`choukou shinki ixseal` |  |
-| niko | 妮可 | 蔚蓝档案 女角色 |  |
+| niko | 妮可 | ![](https://static.wikia.nocookie.net/blue-archive/images/5/5a/Niko_Portrait.png)<br>所属作品：`blue archive` |  |
 | rae taylor | 零·缇拉 | ![](https://wataoshi-anime.com/assets/images/character/chara_01.png)<br>所属作品：`watashi no oshi wa akuyaku reijou.` |  |
 | claire francois | 克蕾雅·弗朗索瓦 | ![](https://wataoshi-anime.com/assets/images/character/chara_02.png)<br>所属作品：`watashi no oshi wa akuyaku reijou.` |  |
 | kiwako makina | 蒔名季和子 | 死囚乐园中的角色，完整原名：蒔名フリューゲル季和子，作品中常标记为マキナ，中文译名真纪奈。 |  |
