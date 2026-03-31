@@ -2326,7 +2326,7 @@ example:
 | nanase mizugami | 水神七濑 |  |  |
 | zangief | 桑吉尔夫 |  |  |
 | balrog | 巴洛克 |  |  |
-| akuma | 豪鬼 |  |  |
+| akuma | 豪鬼 | ![](https://static.wikia.nocookie.net/streetfighter/images/5/57/Akuma_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | blanka | 布兰卡 |  |  |
 | edmond honda | 埃德蒙·本田 |  |  |
 | guile | 古烈 |  |  |
