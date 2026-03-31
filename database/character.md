@@ -2701,7 +2701,7 @@ example:
 | martial artist | 武斗家 |  |  |
 | thief | 盗贼 |  |  |
 | nera briscoletti | 芙萝菈 |  |  |
-| crimson viper | 深红毒蛇 |  |  |
+| crimson viper | 深红毒蛇 | ![](https://static.wikia.nocookie.net/streetfighter/images/6/6a/Cvipers6render.png)<br>出自作品：`p:street fighter` |  |
 | blue mary | 布鲁玛丽 |  |  |
 | king | 琼 | ![](https://ehgt.org/w/02/120/64394-mhqrsrnn.webp)<br>所属作品：`king of fighters` |  |
 | dark magician girl | 黑魔导女孩 | 所属作品：游戏王<br>别译 黑魔术少女<br>![](https://ehgt.org/w/01/745/11159-1wlrpgms.webp) |  |
