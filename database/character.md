@@ -2672,7 +2672,7 @@ example:
 | jigoku no fubuki | 地狱的吹雪 |  |  |
 | senritsu no tatsumaki | 战栗的龙卷 | ![](https://img.moegirl.org.cn/common/6/61/Tatsumaki.jpg)<br>所属作品:`p:one punch man`<br><br>战栗的龙卷（英语：senritsu no tatsumaki）是ONE所创作、重制版由村田雄介作画的漫画《一拳超人》及其衍生作品中的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/战栗的龙卷) |
 | tights brief | 塔依丝 |  |  |
-| hugo | 雨果 |  |  |
+| hugo | 雨果 | ![](https://static.wikia.nocookie.net/streetfighter/images/c/ca/SFVHugo.jpg)<br>出自作品：`p:street fighter`<br>全名：Hugo Andore |  |
 | nel zelpher | 奈露 |  |  |
 | sadi-chan | 小萨蒂 |  |  |
 | mina ashido | 芦户三奈 | 《我的英雄学院》女英雄<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/0/05/Mina_Ashido_School_Uniform.png)<br>![](https://static.wikia.nocookie.net/bokunoheroacademia/images/8/89/Mina_Ashido_Hero_Costume_Anime_Action.png) |  |
