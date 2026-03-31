@@ -2324,7 +2324,7 @@ example:
 | kolin | 科琳 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/30/Kolinrender.png)<br>出自作品：`p:street fighter` |  |
 | sakura kasugano | 春日野樱 |  |  |
 | nanase mizugami | 水神七濑 |  |  |
-| zangief | 桑吉尔夫 |  |  |
+| zangief | 桑吉尔夫 | ![](https://static.wikia.nocookie.net/streetfighter/images/6/6b/SF6_Zangief.png)<br>出自作品：`p:street fighter` |  |
 | balrog | 巴洛克 |  |  |
 | akuma | 豪鬼 | ![](https://static.wikia.nocookie.net/streetfighter/images/5/57/Akuma_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | blanka | 布兰卡 |  |  |
