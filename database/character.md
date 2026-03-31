@@ -8927,6 +8927,7 @@ example:
 | nine | 奈音 | ![](https://patchwiki.biligame.com/images/czn/6/6f/icxnzfuhx2mz0vik4udh6n8ikl4028a.png)<br>所属作品：`chaos zero nightmare` | [BILIGAME WIKI](https://wiki.biligame.com/czn/奈因) |
 | rashid | 拉希德 | ![](https://static.wikia.nocookie.net/streetfighter/images/8/83/Rashid_SF6_Render.png)<br>所属作品：`street fighter`<br>首次登场于《街头霸王5》。 |  |
 | li-fen | 李芬 | 出自作品：`p:street fighter` |  |
+| ed | 爱德 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/3a/Ed_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
