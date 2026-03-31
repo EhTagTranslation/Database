@@ -8929,6 +8929,7 @@ example:
 | li-fen | 李芬 | 出自作品：`p:street fighter` |  |
 | ed | 爱德 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/3a/Ed_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | falke | 法尔凯 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/79/FLK_00.png)<br>出自作品：`p:street fighter` |  |
+| fang | 方 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/39/FangSf6.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
