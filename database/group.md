@@ -6228,7 +6228,7 @@ example:
 | junes202 | ジュネス202 |  |  |
 | junk arts | ジャンクアーツ |  |  |
 | junk box | Junk Box |  |  |
-| junk center kameyoko bldg | JUNKセンター亀横ビル |  |  |
+| junk center kameyoko bldg | JUNKセンター亀横ビル | 别称：SAYA PRODUCTS | [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=25079/) \| [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10938.html) |
 | junk gear | ジャンクギア |  |  |
 | junk island | ジャンクアイランド |  |  |
 | junk market | Junk Market |  |  |
