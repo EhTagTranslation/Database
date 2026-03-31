@@ -7097,7 +7097,7 @@ example:
 | marina ismail | 玛丽娜·伊斯梅尔 | ![](https://ehgt.org/w/01/906/86927-383rkb4u.webp)<br>所属作品：`gundam 00`<br>阿扎迪斯坦的第一公主 |  |
 | arue | 有够会 | ![](https://ehgt.org/w/02/052/63650-ixn3vvek.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o`<br>惠惠的好友，与惠惠、悠悠是同期的同级生。有够会的志愿是作家，自称 “红魔族发育速度第一”，也会使用上级魔法。 |  |
 | receptionist succubus | 魅魔（素晴） | ![](https://ehgt.org/w/01/943/07169-srivu8ah.webp)<br>所属作品：`kono subarashii sekai ni syukufuku o` |  |
-| hiroko takashiro | 高城宽子 | 所属作品：`bible black` |  |
+| hiroko takashiro | 高城宽子 | ![](https://ehgt.org/w/02/016/03301-v7qi7uzf.webp)<br>所属作品：`bible black` |  |
 | yidhari murphy | 伊德海莉·墨菲 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/10/29/233874762/96d962b65e26b404f1e251eec0c23a58_1080297264947616397.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` |  |
 | orphie magnusson | 奥菲丝·马格努森 | ![](https://act-upload.mihoyo.com/nap-obc-indep/2025/09/21/15559334/f80e5cd274d91697668fbb16d2118f2d_1098522281754662874.png?x-oss-process=image/format,webp)<br>所属作品：`zenless zone zero` |  |
 | shoko ieiri | 家入硝子 | ![](https://ehgt.org/w/01/945/70810-e25oskgg.webp)<br>所属作品：`jujutsu kaisen` |  |
