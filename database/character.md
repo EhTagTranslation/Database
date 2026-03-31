@@ -8942,6 +8942,7 @@ example:
 | dee jay | 迪·杰 | ![](https://static.wikia.nocookie.net/streetfighter/images/b/bd/SF6_Dee_Jay.png)<br>出自作品：`p:street fighter` |  |
 | luke sullivan | 卢克·沙利文 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/1b/Sf6-luke.png)<br>出自作品：`p:street fighter` |  |
 | marisa rossetti | 玛丽莎·罗塞蒂 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/17/SF6_Marisa.png)<br>出自作品：`p:street fighter` |  |
+| mike haggar | 迈克·哈格 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/39/Haggar-mvci.png)<br>出自作品：`p:street fighter`，`final fight` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
