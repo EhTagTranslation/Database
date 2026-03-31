@@ -6843,7 +6843,7 @@ example:
 | kotsumudiya | こつむぢや |  |  |
 | kou kidou shoujo | 高機動少女 |  |  |
 | koubai gekka | 紅梅月下 |  |  |
-| koubaitei | 勾配亭 |  |  |
+| koubaitei | 勾配亭 |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG37427.html) |
 | koubou juuichiya | 工房十一屋 |  |  |
 | koucha rakkyo | 紅茶辣韭 |  |  |
 | koudansha | 幸田ん舎 |  |  |
