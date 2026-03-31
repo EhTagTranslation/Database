@@ -2321,7 +2321,7 @@ example:
 | juri han | 韩蛛俐 | ![](https://static.wikia.nocookie.net/streetfighter/images/d/dc/Sf6-juri.png)<br>出自作品：`p:street fighter` | [萌娘百科](https://zh.moegirl.org.cn/韩蛛俐) |
 | karin kanzuki | 神月卡琳 |  |  |
 | menat | 米纳特 |  |  |
-| kolin | 科琳 |  |  |
+| kolin | 科琳 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/30/Kolinrender.png)<br>出自作品：`p:street fighter` |  |
 | sakura kasugano | 春日野樱 |  |  |
 | nanase mizugami | 水神七濑 |  |  |
 | zangief | 桑吉尔夫 |  |  |
