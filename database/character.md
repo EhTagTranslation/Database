@@ -8937,6 +8937,7 @@ example:
 | dhalsim | 达尔西姆 | ![](https://static.wikia.nocookie.net/streetfighter/images/e/ea/Dhalsim_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | guy | 凯 | ![](https://static.wikia.nocookie.net/streetfighter/images/f/fb/Guy.png)<br>出自作品：`p:street fighter` |  |
 | a.k.i. | 阿鬼 | ![](https://static.wikia.nocookie.net/streetfighter/images/f/f7/A.K.I._SF6_Render.png)<br>出自作品：`p:street fighter` |  |
+| jamie | 杰米 | ![](https://static.wikia.nocookie.net/streetfighter/images/5/53/Sf6-jamie.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
