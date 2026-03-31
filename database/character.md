@@ -2320,7 +2320,7 @@ example:
 | rainbow mika | 七川美华 | ![](https://ehgt.org/w/01/681/67583-5p3ji6b9.webp)<br>出自作品：`p:street fighter`<br><br>彩虹美华（Rainbow Mika/R.Mika），本名七川美华，是Capcom所创作的格斗游戏《街头霸王》系列及其衍生作品的登场角色。1998年的《街头霸王Zero3》初登场，2016年的《街霸5》中回归。 | [萌娘百科](https://zh.moegirl.org.cn/七川美华) |
 | juri han | 韩蛛俐 | ![](https://static.wikia.nocookie.net/streetfighter/images/d/dc/Sf6-juri.png)<br>出自作品：`p:street fighter` | [萌娘百科](https://zh.moegirl.org.cn/韩蛛俐) |
 | karin kanzuki | 神月卡琳 |  |  |
-| menat | 米纳特 |  |  |
+| menat | 米纳特 | ![](https://static.wikia.nocookie.net/streetfighter/images/6/66/Menatrender.png)<br>出自作品：`p:street fighter` |  |
 | kolin | 科琳 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/30/Kolinrender.png)<br>出自作品：`p:street fighter` |  |
 | sakura kasugano | 春日野樱 |  |  |
 | nanase mizugami | 水神七濑 |  |  |
