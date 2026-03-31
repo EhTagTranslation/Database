@@ -2328,7 +2328,7 @@ example:
 | balrog | 巴洛克 |  |  |
 | akuma | 豪鬼 | ![](https://static.wikia.nocookie.net/streetfighter/images/5/57/Akuma_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | blanka | 布兰卡 |  |  |
-| edmond honda | 埃德蒙·本田 |  |  |
+| edmond honda | 埃德蒙·本田 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/73/EHonda_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | guile | 古烈 |  |  |
 | ken masters | 肯·马斯达斯 |  |  |
 | ryu | 隆 |  |  |
