@@ -3228,7 +3228,7 @@ example:
 | bear-bear | BEAR-BEAR |  |  |
 | bears cave | Bear's Cave |  |  |
 | beast trail | Beast Trail |  |  |
-| beat-pop | BEAT-POP |  |  |
+| beat-pop | BEAT-POP |  | [DLsite](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG14714.html) \| [FANZA](https://www.dmm.co.jp/dc/doujin/-/list/=/article=maker/id=72150/) |
 | beats beasts partners | Beats Beasts Partners |  |  |
 | beautiful snow | Beautiful Snow |  |  |
 | beberoncino sei | ベベロンチーノ星 |  |  |
