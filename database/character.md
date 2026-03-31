@@ -8938,6 +8938,7 @@ example:
 | guy | 凯 | ![](https://static.wikia.nocookie.net/streetfighter/images/f/fb/Guy.png)<br>出自作品：`p:street fighter` |  |
 | a.k.i. | 阿鬼 | ![](https://static.wikia.nocookie.net/streetfighter/images/f/f7/A.K.I._SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | jamie | 杰米 | ![](https://static.wikia.nocookie.net/streetfighter/images/5/53/Sf6-jamie.png)<br>出自作品：`p:street fighter` |  |
+| kimberly jackson | 金佰莉 | ![](https://static.wikia.nocookie.net/streetfighter/images/8/86/Sf6-kimberly.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
