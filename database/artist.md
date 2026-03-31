@@ -1922,7 +1922,7 @@ example:
 | harukoubou norimaki | 春工房のりまき |  |  |
 | forester | ふぉれすた |  |  |
 | metal owl | Metal Owl |  |  |
-| ozaki miray | 尾崎未来 |  |  |
+| ozaki miray | 尾崎未来 |  | [FANBOX](https://beat-pop.fanbox.cc/) \| [pixiv](https://www.pixiv.net/users/5349549) \| [X](https://x.com/beat_pop) \| [Pawoo](https://pawoo.net/@mirayozaki) \| [BOOTH](https://beat-pop.booth.pm/) |
 | madcat | Madcat |  |  |
 | shinooka homare | 篠岡ほまれ |  |  |
 | uruujima call | うるう島呼音 |  |  |
