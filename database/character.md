@@ -8931,6 +8931,7 @@ example:
 | falke | 法尔凯 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/79/FLK_00.png)<br>出自作品：`p:street fighter` |  |
 | fang | 方 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/39/FangSf6.png)<br>出自作品：`p:street fighter` |  |
 | ken | 肯 |  |  |
+| laura | 松田劳拉 | ![](https://static.wikia.nocookie.net/streetfighter/images/7/76/Laurarender.png)<br>出自作品：`p:street fighter` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
