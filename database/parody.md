@@ -2770,6 +2770,7 @@ example:
 | tojima tanzaburo wa kamen rider ni naritai | 东岛丹三郎想成为假面骑士 |  |  |
 | magical explorer | 魔法★探险家 转生为成人游戏万年男二又怎样，我要活用游戏知识自由生活 | 《魔法★探险家 转生为成人游戏万年男二又怎样，我要活用游戏知识自由生活》（日语：マジカル★エクスプローラー エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる）是由入栖撰写的日本轻小说作品。 | [维基百科](https://zh.wikipedia.org/wiki/魔法★探險家_轉生為成人遊戲萬年男二又怎樣，我要活用遊戲知識自由生活) |
 | chaos zero nightmare | ![](https://static.wikia.nocookie.net/chaos-zero-nightmare/images/f/f4/Chaos_Zero_Nightmare.png) 卡厄思梦境 | ![](https://preview.redd.it/chaos-zero-nightmare-has-released-and-begun-official-service-v0-xlzhc3p0fkwf1.png?width=640&crop=smart&auto=webp&s=358f5c24efd7d10664022fc0a502c082e7ce3a57)<br>由韩国Smilegate旗下SUPER CREATIVE团队研发的幻想题材角色扮演游戏。 |  |
+| renegade immortal | 仙逆 | 《仙逆》是中国网络作家耳根所著的仙侠小说，并有同名改编动画。 |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
