@@ -2332,7 +2332,7 @@ example:
 | guile | 古烈 | ![](https://static.wikia.nocookie.net/streetfighter/images/b/ba/Sf6-guile.png)<br>出自作品：`p:street fighter` |  |
 | ken masters | 肯·马斯达斯 | ![](https://static.wikia.nocookie.net/streetfighter/images/1/14/Ken_SF6_Render.png)<br>出自作品：`p:street fighter` |  |
 | ryu | 隆 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/3a/Sf6-ryu.png)<br>出自作品：`p:street fighter` |  |
-| sagat | 沙盖特 |  |  |
+| sagat | 沙盖特 | ![](https://static.wikia.nocookie.net/streetfighter/images/9/92/Sf6sagatrender.png)<br>出自作品：`p:street fighter` |  |
 | urien | 尤里安 |  |  |
 | vega | 维加 |  |  |
 | m. bison | 拜森 | ![](https://static.wikia.nocookie.net/streetfighter/images/c/c3/M_Bison_SF6.png)<br>所属作品：`street fighter`<br>强大的犯罪组织沙杜鲁的创始人和首领，是一位自封的独裁者和妄图统治世界的狂人。 | [Fandom](https://streetfighter.fandom.com/wiki/M._Bison) |
