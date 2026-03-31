@@ -8945,6 +8945,7 @@ example:
 | mike haggar | 迈克·哈格 | ![](https://static.wikia.nocookie.net/streetfighter/images/3/39/Haggar-mvci.png)<br>出自作品：`p:street fighter`，`final fight` |  |
 | frill shiranui | 不知火芙莉露 | ![](https://static.wikia.nocookie.net/oshi_no_ko/images/9/93/Frill_Shiranui_Anime.png)<br>所属作品：`oshi no ko` |  |
 | rika shiraki | 白木里香 | ![](https://ehgt.org/w/01/712/88447-etfvgrlt.webp)<br>所属作品：`bible black` |  |
+| nami kozono | 小园奈美 | ![](https://static.wikia.nocookie.net/mahou-kaiju-series/images/7/75/Nami_Kozono_cha.png)<br>所属作品：`bible black` |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
