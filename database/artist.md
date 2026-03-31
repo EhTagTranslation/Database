@@ -10459,7 +10459,7 @@ example:
 | suzushiro nazuna | 蘿蔔なずな |  |  |
 | suzushiro yutaka | すずしろゆたか |  |  |
 | suzushiro | すずしろ |  |  |
-| swa | SWA |  |  |
+| swa | SWA |  | [pixiv](https://www.pixiv.net/users/1491531) |
 | swakichi | すわきち |  |  |
 | syanal | しゃーなる |  |  |
 | syaneko | しゃねこ |  |  |
